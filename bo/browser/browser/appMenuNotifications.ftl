@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-tab-hide-controlled =
-    .label = Access Your Hidden Tabs
     .buttonlabel = Keep Tabs Hidden
     .buttonaccesskey = K
+    .label = Access Your Hidden Tabs
     .secondarybuttonlabel = Disable Extension
     .secondarybuttonaccesskey = D

@@ -16,8 +16,6 @@ styleeditor-save-button = Պահպանել
     .accesskey = Պ
 styleeditor-options-button =
     .tooltiptext = Ոճի խմբագրիչի ընտրանքներ
-styleeditor-editor-textbox =
-    .data-placeholder = Հաւաքեք CSS-ը այստեղ:
 styleeditor-no-stylesheet = Այս էջը ոճային աղիւսակ չունի:
 styleeditor-no-stylesheet-tip = Հաւանաբար դուք կցանկանայիք <a data-l10n-name="append-new-stylesheet">֊ին կցել նոր ոճային աղիւսակ</a>?
 styleeditor-open-link-new-tab =

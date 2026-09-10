@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Adreces guardades
 autofill-manage-addresses-list-header = Adreces
-autofill-manage-credit-cards-title = Targetes de crèdit guardades
-autofill-manage-credit-cards-list-header = Targetes de crèdit
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Elimina
@@ -21,9 +19,6 @@ autofill-manage-edit-button = Edita…
 
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Edita l'adreça
-autofill-address-given-name = Nom
-autofill-address-additional-name = Segon nom
-autofill-address-family-name = Cognoms
 autofill-address-organization = Organització
 autofill-address-street = Adreça postal
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
@@ -69,26 +64,12 @@ autofill-address-eircode = Codi postal (Eircode)
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Afig una adreça nova
 autofill-address-country = País o regió
 autofill-address-tel = Telèfon
 autofill-address-email = Adreça electrònica
 autofill-cancel-button = Cancel·la
 autofill-save-button = Guarda
 autofill-country-warning-message = Actualment l'emplenament automàtic de formularis només està disponible per a alguns països.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Afig una targeta de crèdit
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Edita la targeta de crèdit
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] mostrar informació d'una targeta de crèdit
-        [windows] El { -brand-short-name } està provant de mostrar informació d'una targeta de crèdit. Confirmeu l'accés a este compte del Windows a continuació.
-       *[other] El { -brand-short-name } està provant de mostrar informació d'una targeta de crèdit.
-    }
 autofill-card-number-2 =
     .label = Número de targeta
 autofill-card-number = Número de targeta
@@ -102,15 +83,3 @@ autofill-card-expires-month = Mes de caducitat
 autofill-card-expires-year = Any de caducitat
 autofill-card-billing-address = Adreça de facturació
 autofill-card-network = Tipus de targeta
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

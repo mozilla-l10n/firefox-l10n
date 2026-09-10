@@ -118,4 +118,3 @@ certificate-viewer-tab-mine = Twoje certyfikaty
 certificate-viewer-tab-people = Ôsoby
 certificate-viewer-tab-servers = Serwery
 certificate-viewer-tab-ca = Regiyrōnki
-certificate-viewer-tab-unkonwn = Niypoznane

@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = Extensii și teme
 appmenuitem-extensions =
     .label = Extensii
-appmenuitem-addons-and-themes =
-    .label = Suplimente și teme
 appmenuitem-print =
     .label = Printează…
 appmenuitem-find-in-page =
@@ -154,7 +152,6 @@ fxa-menu-get-firefox-mobile =
     .label = Obține { -brand-product-name } pentru Android sau iOS
 fxa-menu-secure-sync-subpanel =
     .title = Sincronizare securizată
-appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "upper", case: "indefinite-article") }
 appmenu-account-header = Cont
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -176,15 +173,6 @@ appmenuitem-save-page =
     .label = Salvează pagina ca…
 appmenuitem-fxa-sync-off-title = Sincronizare dezactivată
 appmenuitem-fxa-sync-off-description = Protejează și accesează marcajele, parolele și altele de oriunde.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Ce este nou
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Anunță-mă despre noi funcționalități
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -326,8 +314,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Mai multe informații de depanare
     .accesskey = t
-appmenu-help-report-site-issue =
-    .label = Raportează problemă cu site-ul…
 appmenu-help-share-ideas =
     .label = Împărtășește idei și feedbackuri…
     .accesskey = S
@@ -393,7 +379,6 @@ appmenuitem-vpn-description5 = Obține protecție suplimentară pe toate dispozi
 appmenuitem-vpn-title-signed-in1 = Descarcă { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Obține protecție pentru întregul dispozitiv
-appmenuitem-vpn-description = Protejează-ți activitatea online
 appmenu-services-header = Serviciile mele
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -403,7 +388,6 @@ appmenu-other-protection-header3 = Instrumente de confidențialitate
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Încearcă alte instrumente de protecție de la Mozilla:
-appmenu-other-protection-header = Încearcă alte instrumente de protecție de la { -vendor-short-name }:
 
 ## Profiles panel
 

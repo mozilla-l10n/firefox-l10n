@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-tab-hide-controlled =
-    .label = Gizli İlmekleriñizge İrişiñiz
     .buttonlabel = İlmeklerni Gizli Tut
     .buttonaccesskey = T
+    .label = Gizli İlmekleriñizge İrişiñiz
     .secondarybuttonlabel = Eklentini Naqabilleştir
     .secondarybuttonaccesskey = b

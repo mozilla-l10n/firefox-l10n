@@ -87,8 +87,6 @@ options-context-advanced-settings = উন্নত সেটিং
 options-disable-http-cache-label = HTTP ক্যাশে নিষ্ক্রিয় করুন (টুলবক্স খোলা থাকাকালীন)
 options-disable-http-cache-tooltip =
     .title = এই অপশনটি চালু করলে, যেসকল ট্যাব এর টুলবক্স খোলা রয়েছে, সেগুলোর HTTP ক্যাশে নিষ্ক্রিয় হয়ে যাবে। পরিসেবা কার্যক্রমে এই অপশনের কোন প্রভাব পরবে না।
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = জাভাস্ক্রিপ্ট নিস্ক্রিয় করুন*
 options-disable-javascript-tooltip =
     .title = এই অপশন চালুর ফলে বর্তমান ট্যাবে জাভাস্ক্রিপ্ট নিস্ক্রিয় হবে। যদি ট্যাব অথবা টুলবক্স বন্ধ করা হয় তবে এই সেটিং ভুলে যাবে।
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -105,8 +103,6 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = উৎস ম্যাপ সক্রিয় করুন
 options-source-maps-tooltip =
     .title = আপনি যদি এই অপশন সক্রিয় করেন টুলে সোর্স ম্যাপড হবে।
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = *কেবল বর্তমান সেশন, পাতা পুনরায় লোড করে
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

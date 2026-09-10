@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Prikaži v Finderju
            *[other] Prikaži v mapi
         }
-downloads-cmd-show-downloads =
-    .label = Prikaži mapo s prenosi
 downloads-cmd-retry =
     .tooltiptext = Poskusi znova
 downloads-cmd-retry-panel =

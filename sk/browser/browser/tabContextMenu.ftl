@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Nová karta
-    .accesskey = N
 reload-tab =
     .label = Obnoviť kartu
     .accesskey = O
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nová skupina
     .accesskey = N
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -214,14 +207,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Vytvoriť odkaz na zdieľanie
     .accesskey = V
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Odoslať kartu do zariadenia
-            [few] Odoslať { $tabCount } karty do zariadenia
-           *[other] Odoslať { $tabCount } kariet do zariadenia
-        }
-    .accesskey = n
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } ең соңғы пайдаланған профильде ашылады.
 profile-window-create-profile = Профиль жасау
 profile-card-edit-button =
-    .title = Профильді түзету
     .aria-label = Профильді түзету
+    .title = Профильді түзету
 profile-card-delete-button =
-    .title = Профильді өшіру
     .aria-label = Профильді өшіру
+    .title = Профильді өшіру
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = { $profileName } ашу
     .aria-label = { $profileName } ашу
+    .title = { $profileName } ашу
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Профиль { $number }
@@ -83,9 +83,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = { $profilename } профилін өшіру
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = { $profilename } профилін өшіру керек пе?
 delete-profile-description = { -brand-short-name } осы құрылғыдан келесі деректерді біржола өшіреді:
 # Open is an adjective, as in "browser windows currently open".
@@ -112,28 +109,10 @@ delete-profile-confirm = Өшіру
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Ашық түсті
-# The default dark theme
-profiles-dark-theme = Күңгірт түсті
 # The default system theme
 profiles-system-theme = Жүйелік
 profiles-system-theme-title =
     .title = Жүйелік теманы іске асыру
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = Сары қырмызыгүл
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = Ақшыл лаванда
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = Жалбызды жасыл
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = Қызғылт магнолия
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = Көгілдір мұхит
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = Қызыл кірпіш
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = Жасыл мүк
 profiles-gray-theme = Сұр
 profiles-gray-theme-title =
     .title = Сұр теманы іске асыру
@@ -290,9 +269,6 @@ profiles-appmenu-callout-tour-subtitle = ☰ мәзірінде басқа пр�
 profiles-appmenu-callout-tour-primary-button = Қалай жасау керектігін көрсету
 barbell-avatar = Штанга
 bike-avatar = Велосипед
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Штанга аватарын іске асыру
 bike-avatar-tooltip =

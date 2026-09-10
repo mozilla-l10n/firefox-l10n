@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = एक पृष्ठ पीछे जाएँ ({ $shortcut })
     .aria-label = पीछे
+    .tooltiptext = एक पृष्ठ पीछे जाएँ ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = एक पृष्ठ आगे जाएँ ({ $shortcut })
     .aria-label = आगे
+    .tooltiptext = एक पृष्ठ आगे जाएँ ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Save Page
 
 main-context-menu-page-save =
@@ -104,9 +98,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = कड़ी ऐसे सहेजें…
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = { -pocket-brand-name } में लिंक को सहेजें
-    .accesskey = o
 
 ##
 
@@ -209,18 +200,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = ऑडियो ईमेल करें …
     .accesskey = a
-main-context-menu-save-to-pocket =
-    .label = { -pocket-brand-name } में पृष्ठ को सहेजें
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = पृष्ठ को उपकरण में भेजें
-    .accesskey = D
 
 ##
 
-main-context-menu-keyword =
-    .label = इस खोज के लिए बीजशब्द जोड़ें…
-    .accesskey = K
 main-context-menu-link-send-to-device =
     .label = लिंक को उपकरण में भेजें
     .accesskey = D
@@ -257,9 +239,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = स्क्रीनशॉट लें
     .accesskey = T
-main-context-menu-take-frame-screenshot =
-    .label = स्क्रीनशॉट लें
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = पृष्ठ स्रोत देखें
     .accesskey = प

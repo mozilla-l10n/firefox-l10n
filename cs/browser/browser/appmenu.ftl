@@ -51,8 +51,6 @@ appmenuitem-extensions-and-themes =
     .label = Rozšíření a vzhledy
 appmenuitem-extensions =
     .label = Rozšíření
-appmenuitem-addons-and-themes =
-    .label = Doplňky a vzhledy
 appmenuitem-print =
     .label = Vytisknout stránku…
 appmenuitem-find-in-page =
@@ -170,7 +168,6 @@ fxa-menu-get-firefox-mobile =
         }
 fxa-menu-secure-sync-subpanel =
     .title = Bezpečná synchronizace
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Účet
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -192,15 +189,6 @@ appmenuitem-save-page =
     .label = Uložit stránku jako…
 appmenuitem-fxa-sync-off-title = Synchronizace je vypnutá
 appmenuitem-fxa-sync-off-description = Chraňte své záložky, hesla a další údaje a získejte k nim přístup odkudkoli.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Co je nového
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Informovat o nových funkcích
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -378,8 +366,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Další technické informace
     .accesskey = t
-appmenu-help-report-site-issue =
-    .label = Nahlásit problém se zobrazením stránky…
 appmenu-help-share-ideas =
     .label = Sdílet nápad nebo zpětnou vazbu…
     .accesskey = S
@@ -445,7 +431,6 @@ appmenuitem-vpn-description5 = Získejte extra ochranu napříč zařízeními
 appmenuitem-vpn-title-signed-in1 = Stáhnout { -mozilla-vpn-brand-name(case: "acc") }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Získejte ochranu celého zařízení
-appmenuitem-vpn-description = Chraňte svou online aktivitu
 appmenu-services-header = Mé služby
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -455,11 +440,6 @@ appmenu-other-protection-header3 = Nástroje pro ochranu soukromí
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Vyzkoušejte další ochranné nástroje od Mozilly:
-appmenu-other-protection-header =
-    { -vendor-short-name.case-status ->
-        [with-cases] Vyzkoušejte další nástroje ochrany od { -vendor-short-name(case: "gen") }:
-       *[no-cases] Vyzkoušejte další nástroje ochrany od organizace { -vendor-short-name }:
-    }
 
 ## Profiles panel
 

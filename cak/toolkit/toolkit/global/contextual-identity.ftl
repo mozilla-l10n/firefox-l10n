@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Manäq ajk'wayöl
-    .accesskey = M
 user-context-manage-containers =
     .label = Kenuk'samajïx K'wayöl
     .accesskey = w

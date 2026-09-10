@@ -22,12 +22,6 @@ return-to-amo-theme-install-complete-label = បានតំឡើងរចន�
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 # String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = ចូល
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
@@ -63,19 +57,6 @@ mr2022-onboarding-secondary-skip-button-label = រំលងជំហានន�
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = សូមអរគុណសម្រាប់ការស្រលាញ់ { -brand-product-name }
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-subtitle = រៀបចំ { -brand-short-name } តាមដែលអ្នកចូលចិត្ត។ បន្ថែមចំណាំ ពាក្យសម្ងាត់ និងច្រើនទៀតពីកម្មវិធីរុករកចាស់របស់អ្នក។
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-label-default = លំនាំ​ដើម
 
 ## MR2022 Privacy Segmentation screen strings
 

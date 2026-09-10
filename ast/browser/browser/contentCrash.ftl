@@ -11,13 +11,6 @@ crashed-subframe-learnmore-link =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Tienes un informe de casque ensin unviar
-       *[other] Tiene { $reportCount } informes de casque ensin unviar
-    }
 pending-crash-reports-view-all =
     .label = Ver
 pending-crash-reports-send =

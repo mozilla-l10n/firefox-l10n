@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = უსათავსოდ
-    .accesskey = ა
 user-context-manage-containers =
     .label = სათავსების მართვა
     .accesskey = თ

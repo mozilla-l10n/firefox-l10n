@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } 將開啟您最近使用的設定檔。
 profile-window-create-profile = 建立設定檔
 profile-card-edit-button =
-    .title = 編輯設定檔
     .aria-label = 編輯設定檔
+    .title = 編輯設定檔
 profile-card-delete-button =
-    .title = 刪除設定檔
     .aria-label = 刪除設定檔
+    .title = 刪除設定檔
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = 開啟 { $profileName }
     .aria-label = 開啟 { $profileName }
+    .title = 開啟 { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = 設定檔 { $number }
@@ -83,9 +83,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = 刪除 { $profilename } 設定檔
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = 要刪除 { $profilename } 設定檔嗎？
 delete-profile-description = { -brand-short-name } 將從此裝置永久刪除下列資料：
 # Open is an adjective, as in "browser windows currently open".
@@ -112,28 +109,10 @@ delete-profile-confirm = 刪除
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = 亮色
-# The default dark theme
-profiles-dark-theme = 暗色
 # The default system theme
 profiles-system-theme = 系統
 profiles-system-theme-title =
     .title = 套用系統佈景主題
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = 金盞黃
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = 淡紫色
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = 薄荷綠
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = 玉蘭粉
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = 海洋藍
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = 磚紅色
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = 苔蘚綠
 profiles-gray-theme = 灰色
 profiles-gray-theme-title =
     .title = 套用灰色佈景主題
@@ -290,9 +269,6 @@ profiles-appmenu-callout-tour-subtitle = 您可以點擊 ☰ 選單當中的設�
 profiles-appmenu-callout-tour-primary-button = 告訴我如何作
 barbell-avatar = 槓鈴
 bike-avatar = 單車
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = 套用槓鈴圖示
 bike-avatar-tooltip =

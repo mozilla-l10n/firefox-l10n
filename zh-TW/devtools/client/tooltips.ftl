@@ -35,7 +35,6 @@ inactive-css-first-line-pseudo-element-not-supported = ::first-line 偽元素不
 inactive-css-first-letter-pseudo-element-not-supported = ::first-letter 偽元素不支援 <strong>{ $property }</strong>。
 inactive-css-placeholder-pseudo-element-not-supported = ::placeholder 偽元素不支援 <strong>{ $property }</strong>。
 inactive-css-property-because-of-display = 由於此元素的 display 屬性值為 <strong>{ $display }</strong>，<strong>{ $property }</strong> 對此元素沒有影響。
-inactive-css-not-display-block-on-floated = 由於是 <strong>floated</strong> 元素，繪圖引擎已將 <strong>display</strong> 值更改為 <strong>block</strong>。
 inactive-css-not-display-block-on-floated-2 = 由於是 <strong>floated</strong> 元素，繪圖引擎已將 <strong>display</strong> 值更改為 <strong>{ $display }</strong>。
 inactive-css-only-non-grid-or-flex-item = 由於無法對 Flex 或 Grid 項目使用 <strong>{ $property }</strong>，沒有影響。
 inactive-css-not-block = 由於 <strong>{ $property }</strong> 只對區塊級元素有效，對此元素沒有影響。
@@ -56,16 +55,6 @@ inactive-scroll-padding-when-not-scroll-container = 由於不會捲動，<strong
 inactive-css-border-image = 由於父階層表格元素的 <strong>border-collapse</strong> 設定為 <strong>collapse</strong>，無法套用到內部的表格元素，<strong>{ $property }</strong> 對此元素無效。
 inactive-css-resize = <strong>{ $property }</strong> 僅可用於 overflow 是除了 visible 以外的值，以及某些會被替換的元素（例如 textarea），對此元素沒有效果。
 inactive-css-ruby-element = 由於此元素是 ruby 元素，<strong>{ $property }</strong> 無效。此元素大小是由 ruby 文字的大小所決定的。
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 inactive-css-highlight-pseudo-elements-not-supported = 強調的 pseudo-elements 不支援 <strong>{ $property }</strong>。
 inactive-css-cue-pseudo-element-not-supported = ::cue 偽元素不支援 <strong>{ $property }</strong>。
 inactive-css-at-position-try-not-supported = <strong>@position-try</strong> 規則不支援 <strong>{ $property }</strong>。

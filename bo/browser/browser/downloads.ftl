@@ -26,8 +26,6 @@ downloads-cmd-cancel-panel =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = མར་འཇུག་ཡིག་སྣོད་སྟོན་པ
 downloads-cmd-retry =
     .tooltiptext = བསྐྱར་དུ་ཚོད་ལྟ
 downloads-cmd-retry-panel =

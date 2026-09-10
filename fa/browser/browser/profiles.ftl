@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } با نمایه‌ای که اخیرا استفاده کرده‌اید باز خواهد شد.
 profile-window-create-profile = ایجاد نمایه
 profile-card-edit-button =
-    .title = ویرایش نمایه
     .aria-label = ویرایش نمایه
+    .title = ویرایش نمایه
 profile-card-delete-button =
-    .title = حذف نمایه
     .aria-label = حذف نمایه
+    .title = حذف نمایه
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = باز کردن { $profileName }
     .aria-label = باز کردن { $profileName }
+    .title = باز کردن { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = نمایه { $number }
@@ -55,9 +55,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = حذف نمایه { $profilename }
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = آیا نمایه { $profilename } را حذف کنم؟
 delete-profile-description = { -brand-short-name } به طور دائمی داده‌های زیر را از این دستگاه حذف خواهد کرد:
 # Open is an adjective, as in "browser windows currently open".
@@ -78,10 +75,6 @@ delete-profile-confirm = حذف
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = روشن
-# The default dark theme
-profiles-dark-theme = تیره
 # The default system theme
 profiles-system-theme = سیستم
 

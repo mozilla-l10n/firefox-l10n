@@ -10,7 +10,6 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Tamah { $extension }?
 webext-perms-sideload-header = { $extension } teutamah
 
 ##

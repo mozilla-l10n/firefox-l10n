@@ -26,23 +26,6 @@ webrtc-sharing-menu =
     .label = Feuggi che condividan dispoxitivi
     .accesskey = s
 
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = A fòtocamera e o micròfono en condivizi. Sciacca pe gestî a condivixon.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = A fòtocamera a l'é condiviza. Sciacca pe gestî a condivixon.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = O micròfono o l'é condivizo. Sciacca pe gestî a condivixon.
-webrtc-indicator-sharing-application =
-    .tooltiptext = N’aplicaçion a l'é condiviza. Sciacca pe gestî a condivixon.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = O schermo o l'é condivizo. Sciacca pe gestî a condivixon.
-webrtc-indicator-sharing-window =
-    .tooltiptext = 'N barcon o l'é condivizo. Sciacca pe gestî a condivixon.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = 'N feuggio o l'é condivizo. Sciacca pe gestî a condivixon.
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
@@ -106,7 +89,6 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
-webrtc-share-screen-learn-more = Pe saveine de ciù
 webrtc-pick-window-or-screen = Seleçionn-a barcon ò schermo
 webrtc-share-entire-screen = A tutto schermo
 # Variables:

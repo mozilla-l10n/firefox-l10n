@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Roghainnean ceangail
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Roghainnean ceangail
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -58,14 +58,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Ath-luchdaich
     .accesskey = A
-connection-proxy-autologin =
-    .label = Na iarr orm mo dhearbhadh ma chaidh am facal-faire a shàbhaladh ann
-    .accesskey = i
-    .tooltip = Nì an roghainn seo dearbhadh sàmhach as do leth mu choinneamh phrogsaidhean a chaidh ainm is facal-faire a shàbhaladh air an son. Thèid do bhrodadh mur an obraich an dearbhadh.
 connection-proxy-autologin-checkbox =
     .label = Na iarr orm mo dhearbhadh ma chaidh am facal-faire a shàbhaladh ann
-    .accesskey = i
     .tooltiptext = Nì an roghainn seo dearbhadh sàmhach as do leth mu choinneamh phrogsaidhean a chaidh ainm is facal-faire a shàbhaladh air an son. Thèid do bhrodadh mur an obraich an dearbhadh.
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = DNS progsaidh nuair a chleachdar SOCKS v5
     .accesskey = d
@@ -76,6 +72,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Cleachd an URL bunaiteach airson DNS fhuasgladh thar HTTPS
 connection-dns-over-https-url-custom =
     .label = Gnàthaichte
-    .accesskey = G
     .tooltiptext = Cuir a-steach URL gnàthaichte airson DNS fhuasgladh air HTTPS
-connection-dns-over-https-custom-label = Gnàthaichte
+    .accesskey = G

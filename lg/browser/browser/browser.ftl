@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 
 ## Searchbar context menu
 
@@ -34,8 +29,6 @@ urlbar-switch-to-tab =
     .value = Kyuusa ku Mapeesa
 urlbar-go-button2 =
     .title = Genda ku Ndagiriro eri mu Kabawo Akalagirira
-urlbar-go-button =
-    .tooltiptext = Genda ku Ndagiriro eri mu Kabawo Akalagirira
 
 ## Bookmarks panels, menus and toolbar
 
@@ -54,22 +47,6 @@ bookmarks-toolbar-placeholder =
     .title = Obulambe bw'Akabawo kebikozesa Ebintu
 bookmarks-toolbar-placeholder-button =
     .label = Obulambe bw'Akabawo kebikozesa Ebintu
-
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = Kkiriza bukyeleeta bwa { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Zibikira bukyeleeta bwa { $uriHost }
-    .accesskey = p
-
-##
-
-popups-infobar-dont-show-message =
-    .label = Tolaga bubaka buno nga bukyeleeta buzibiridwa
-    .accesskey = D
 
 ##
 

@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Chaidh an aithris a chur. Mòran taing!
-confirmation-hint-login-removed = Chaidh an clàradh a-steach a thoirt air falbh!
 confirmation-hint-password-removed = Chaidh am facal-faire a thoirt air falbh!
 confirmation-hint-page-bookmarked = Chaidh a shàbhaladh sna comharran-lìn
-confirmation-hint-password-saved = Chaidh am facal-faire a shàbhaladh!
 confirmation-hint-password-created = Chaidh am facal-faire a shàbhaladh
 confirmation-hint-password-updated = Chaidh am facal-faire ùrachadh
 confirmation-hint-address-created = Chaidh an seòladh a shàbhaladh

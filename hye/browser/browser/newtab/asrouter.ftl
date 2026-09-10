@@ -62,17 +62,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Համաժամեցրեք Ձեր էջանիշերը ամենուր։
-cfr-doorhanger-bookmark-fxa-body = Մեծ գտածո։ Այժմ մի մնացեք առանց այս էջանիշի Ձեր բջջային սարքերում։ Խորհուրդ ենք տալիս սկսել { -fxaccount-brand-name }-ի հետ։
 cfr-doorhanger-bookmark-fxa-link-text = Համաժամեցնել էջանիշերը…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Փակելու կոճակ
     .title = Փակել
-
-## Protections panel
-
-cfr-protections-panel-header = Զննարկել առանց հետեւուելու
-cfr-protections-panel-body = Ձեր տուեալները պահէք Ձեզ մաւտ։ { -brand-short-name }-ը Ձեզ պաշտպանում է ամենատարածուած վնասներից, որոնք հետեւում են այն ամէնին, ինչ դուք անում էք առցանց։
-cfr-protections-panel-link-text = Իմանալ աւելին
 
 ## What's New toolbar button and panel
 

@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Mga Setting ng Koneksyon
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Mga Setting ng Koneksyon
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -58,14 +58,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = i-Reload
     .accesskey = e
-connection-proxy-autologin =
-    .label = Huwag nang humingi ng authentication kung naka-save ang password
-    .accesskey = i
-    .tooltip = Ang pagpipiliang ito ay tahimik na nag-o-authenticate sa iyo sa mga proxy kapag may naka-save kang mga credential. Aabisuhan ka naman kung nabigo ang authentication.
 connection-proxy-autologin-checkbox =
     .label = Huwag nang humingi ng authentication kung naka-save ang password
-    .accesskey = i
     .tooltiptext = Ang pagpipiliang ito ay tahimik na nag-o-authenticate sa iyo sa mga proxy kapag may naka-save kang mga credential. Aabisuhan ka naman kung nabigo ang authentication.
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = Proxy DNS kapag gumagamit ng SOCKS v5
     .accesskey = d
@@ -76,6 +72,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Gamitin ang default na URL sa pagresolba ng DNS over HTTPS
 connection-dns-over-https-url-custom =
     .label = Custom
-    .accesskey = C
     .tooltiptext = Maglagay ng URL na gusto mong gamitin para sa pag-resolba ng DNS nang naka-HTTPS
-connection-dns-over-https-custom-label = Custom
+    .accesskey = C

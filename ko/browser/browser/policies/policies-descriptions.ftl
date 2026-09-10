@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = 기본 브라우저 에이전트가 작업�
 policy-DisableDeveloperTools = 개발자 도구 접근을 차단합니다.
 policy-DisableEncryptedClientHello = TLS 기능 ECH(Encrypted Client Hello) 사용을 비활성화합니다.
 policy-DisableFeedbackCommands = 도움말 메뉴의 의견 보내기 명령 (의견 보내기 및 가짜 사이트 신고)을 사용 안 합니다.
-policy-DisableFirefoxAccounts = 동기화를 포함한 { -fxaccount-brand-name } 기반의 서비스를 사용 안 합니다.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = 동기화를 포함한 계정 기반 서비스를 사용 안 합니다.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = 검색과 양식 기록을 기억하지 않습니다
 policy-DisableLaunchOnLogin = 사용자가 로그인할 때 { -brand-short-name }가 자동으로 실행되지 않도록 합니다.
 policy-DisablePrimaryPasswordCreation = True 값이면 기본 비밀번호를 만들 수 없습니다.
 policy-DisablePasswordReveal = 저장된 로그인에 비밀번호 보기 기능을 허용하지 않습니다.
-policy-DisablePocket2 = { -pocket-brand-name }에 웹 사이트 저장하는 기능을 사용 안 합니다.
 policy-DisablePrivateBrowsing = 사생활 보호 모드를 사용 안 합니다.
 policy-DisableProfileImport = 메뉴에서 다른 브라우저의 데이터를 가져오는 명령을 사용 안 합니다.
 policy-DisableProfileRefresh = about:support 페이지의 { -brand-short-name } 새로설정 버튼을 사용 안 합니다.
@@ -132,7 +130,6 @@ policy-PDFjs = { -brand-short-name }에 내장된 PDF 뷰어인 PDF.js를 사용
 policy-Permissions2 = 카메라, 마이크, 위치, 알림 및 자동 재생에 대한 권한을 구성합니다.
 policy-PictureInPicture = 화면 속 화면을 사용하거나 사용하지 않게 합니다.
 policy-PopupBlocking2 = 특정 웹 사이트가 팝업을 표시하고 제3자 프레임에 의해 리디렉션되도록 허용합니다.
-policy-PopupBlocking = 기본으로 특정 웹 사이트가 팝업을 보여주도록 허용합니다.
 policy-Preferences = 설정의 하위 집합에 대한 값을 설정하고 잠급니다.
 policy-PrivateBrowsingModeAvailability = 사생활 보호 모드의 가용성을 설정합니다.
 policy-PromptForDownloadLocation = 다운로드시 파일 저장 위치를 물어봅니다.

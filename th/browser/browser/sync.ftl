@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = กำลังซิงค์…
 sync-disconnect-dialog-title2 = ตัดการเชื่อมต่อหรือไม่
 sync-disconnect-dialog-body = { -brand-product-name } จะหยุดการซิงค์บัญชีของคุณ แต่จะไม่ลบข้อมูลการเรียกดูใด ๆ ของคุณบนอุปกรณ์นี้
 sync-disconnect-dialog-button = ตัดการเชื่อมต่อ
-fxa-signout-dialog2-title = ลงชื่อออก { -fxaccount-brand-name } หรือไม่
 fxa-signout-dialog-title2 = ออกจากระบบบัญชีของคุณหรือไม่?
 fxa-signout-dialog-body = ข้อมูลที่ซิงค์จะยังคงอยู่ในบัญชีของคุณ
 fxa-signout-dialog2-button = ลงชื่อออก
@@ -41,10 +40,6 @@ fxviewtabrow-send-to-mobile-not-verified = บัญชีไม่ได้ร�
 fxviewtabrow-send-to-mobile-verify-account = ยืนยันบัญชีของคุณ
 fxa-menu-send-to-mobile-turn-on-sync = เปิดการซิงค์เพื่อส่งแท็บ
 fxa-menu-send-to-mobile-connect-device = เชื่อมต่อกับอุปกรณ์เพื่อส่งแท็บ
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label = ส่ง { $tabCount } แท็บไปยังอุปกรณ์
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = กำลังซิงค์อุปกรณ์…

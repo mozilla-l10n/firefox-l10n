@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Tregues Ndarjeje
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Tregues Ndarjeje
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Po e ndani mikrofonin tuaj me të tjerët. Për të kontrolluar ndarjen, klikoni këtu.
 webrtc-screen-system-menu =
     .label = Po ndani me të tjerët një dritare ose një ekran. Për të kontrolluar ndarjen, klikoni këtu.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Po i ndani kamerën dhe mikrofonin tuaj me të tjerët. Për të kontrolluar ndarjen, klikoni këtu.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Po e ndani kamerën tuaj me të tjerët. Për të kontrolluar ndarjen, klikoni këtu.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Po e ndani mikrofonin tuaj me të tjerët. Për të kontrolluar ndarjen, klikoni këtu.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Po ndahet me të tjerët një aplikacion. Për të kontrolluar ndarjen, klikoni këtu.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Po e ndani ekranin tuaj me të tjerët. Për të kontrolluar ndarjen, klikoni këtu.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Po ndani një dritare me të tjerët. Për të kontrolluar ndarjen, klikoni këtu.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Po ndani një skedë me të tjerët. Për të kontrolluar ndarjen, klikoni këtu.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Të lejohet { $o
 
 webrtc-share-screen-warning = Ndani skena vetëm me sajte që i besoni. Ndarja e gjërave u lejon sajteve mashtrues të shfletojnë si të ishin ju dhe të vjedhin të dhëna tuajat private.
 webrtc-share-browser-warning = Ndajeni { -brand-short-name } vetëm me sajte që i besoni. Ndarja e gjërave u lejon sajteve mashtrues të shfletojnë si të ishin ju dhe të vjedhin të dhëna tuajat private.
-webrtc-share-screen-learn-more = Mësoni më tepër
 webrtc-pick-window-or-screen = Përzgjidhni dritare ose skenë
 webrtc-share-entire-screen = Krejt ekranin
 webrtc-share-pipe-wire-portal = Përdor rregullimet e sistemit operativ

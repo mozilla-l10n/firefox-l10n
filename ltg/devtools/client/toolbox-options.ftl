@@ -87,8 +87,6 @@ options-context-advanced-settings = Papyldu īstatiejumi
 options-disable-http-cache-label = Deaktivēt HTTP kešatmiņu (nui ir attaiseiti izstruoduotuoju reiki)
 options-disable-http-cache-tooltip =
     .title = Turning this option on will disable the HTTP cache for all tabs that have the toolbox open. Service Workers are not affected by this option.
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Deaktivēt JavaScript *
 options-disable-javascript-tooltip =
     .title = Itei īstatiejuma īsliegšona deaktivēs JavaScript aktivajā cilnē. Aiztaisūt cilni voi reiku jūslu itys īstatiejums natiks saglobuots.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -105,8 +103,6 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Enable Source Maps
 options-source-maps-tooltip =
     .title = If you enable this option sources will be mapped in the tools.
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Tikai itū seseju, puorluodej lopu
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

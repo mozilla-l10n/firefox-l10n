@@ -5,13 +5,6 @@
 xpinstall-prompt-dont-allow =
     .label = Net erlaben
     .accesskey = D
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = D'Installatioun vu Software gouf vun Dengem System-Administrateur desaktivéiert.
 xpinstall-disabled = D'Installatioun vu Software ass am Moment desaktivéiert. Klick op "Aktivéieren" a probéier nach eng Kéier.
 xpinstall-disabled-button =
     .label = Aktivéieren

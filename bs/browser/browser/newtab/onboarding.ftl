@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Dodaj { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Napredak: korak { $current } od { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -190,11 +184,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Zakačite { -brand-short-name } na traku zadataka i start meni
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Počnite sa pretraživačem koji podržava neprofitna organizacija. Mi branimo vašu privatnost dok se krećete po webu.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -224,57 +213,10 @@ mr2022-onboarding-set-default-subtitle = Koristite pretraživač koji podržava 
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Naša najnovija verzija napravljena je oko vas, što olakšava kretanje po webu nego ikad. Prepuna je funkcija za koje mislimo da ćete obožavati.
 mr2022-onboarding-get-started-primary-button-label = Postavite za nekoliko sekundi
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Munjevito podešavanje
-mr2022-onboarding-import-subtitle = Postavite { -brand-short-name } kako želite. Dodajte svoje zabilješke, lozinke i još mnogo toga iz svog starog pretraživača.
 mr2022-onboarding-import-primary-button-label-no-attribution = Uvezi iz prethodnog pretraživača
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Odaberite boju koja vas inspiriše
-mr2022-onboarding-colorway-subtitle = Nezavisni glasovi mogu promijeniti kulturu.
-mr2022-onboarding-colorway-primary-button-label-continue = Postavite i nastavite
-mr2022-onboarding-existing-colorway-checkbox-label = Neka { -firefox-home-brand-name } bude vaša šarena početna stranica
-mr2022-onboarding-colorway-label-default = Izvorno
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Trenutne boje { -brand-short-name }a
-mr2022-onboarding-colorway-description-default = <b>Koristite moje trenutne boje { -brand-short-name }.</b>
-mr2022-onboarding-colorway-label-playmaker = Playmaker
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Playmaker (crveno)
-mr2022-onboarding-colorway-description-playmaker = <b>Vi ste Playmaker.</b> Vi stvarate prilike za pobjedu i pomažete svima oko vas da podignu svoju igru.
-mr2022-onboarding-colorway-label-expressionist = Ekspresionista
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Ekspresionista (žuta)
-mr2022-onboarding-colorway-description-expressionist = <b>Vi ste ekspresionista.</b> Vi vidite svijet drugačije i vaše kreacije izazivaju emocije drugih.
-mr2022-onboarding-colorway-label-visionary = Vizionar
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Vizionar (zeleno)
-mr2022-onboarding-colorway-description-visionary = <b>Vi ste vizionar.</b> Dovodite u pitanje status quo i pokrećete druge da zamisle bolju budućnost.
-mr2022-onboarding-colorway-label-activist = Aktivist
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Aktivist (plavo)
-mr2022-onboarding-colorway-description-activist = <b>Vi ste aktivista.</b> Ostavljate svijet boljim mjestom nego što ste ga našli i navodite druge da vjeruju.
-mr2022-onboarding-colorway-label-dreamer = Sanjar
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Sanjar (ljubičasto)
-mr2022-onboarding-colorway-description-dreamer = <b>Vi ste sanjar.</b> Vjerujete da sreća favorizira hrabre i inspiriše druge da budu hrabri.
-mr2022-onboarding-colorway-label-innovator = Inovator
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Inovator (narandžasto)
-mr2022-onboarding-colorway-description-innovator = <b>Vi ste inovator.</b> Vidite prilike svuda i utičete na živote svih oko sebe.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Prebacite se sa laptopa na telefon i nazad
-mr2022-onboarding-mobile-download-subtitle = Uzmite tabove s jednog uređaja i nastavite gdje ste stali na drugom. Plus sinhronizirajte svoje oznake i lozinke svuda gdje koristite { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Skenirajte QR kod da dobijete { -brand-product-name } za mobilni telefon ili <a data-l10n-name="download-label">pošaljite sebi link za preuzimanje.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Skenirajte QR kod da dobijete { -brand-product-name } za mobilni.
 
@@ -327,15 +269,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Svijetloputi i tamnoputi daju peticu
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Pogled na zalazak sunca kroz prozor sa lisicom i kućnom biljkom na prozorskoj dasci
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Sprej za ruke oslikava šareni kolaž zelenog oka, narandžaste patike, crvene košarkaške lopte, ljubičastih slušalica, plavog srca i žute krune
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Lisica na ekranu laptopa maše. Laptop ima uključen miš.
 onboarding-device-migration-title = Dobrodošli nazad!
-onboarding-device-migration-subtitle = Prijavite se na svoj { -fxaccount-brand-name(capitalization: "sentence") } da ponesete svoje oznake, lozinke i historiju sa sobom na svom novom uređaju.
 onboarding-device-migration-subtitle2 = Prijavite se na svoj račun da ponesete svoje oznake, lozinke i historiju sa sobom na svom novom uređaju.
 onboarding-device-migration-primary-button-label = Prijava
 
@@ -445,11 +384,8 @@ onboarding-checklist-sign-up = Registruj se ili se prijavite na svoj račun
 
 tab-groups-onboarding-feature-callout-title = Isprobajte grupe tabova za manje nereda, više fokusa
 tab-groups-onboarding-feature-callout-subtitle = Organizirajte se prevlačenjem jednog taba na drugi da kreirate svoju prvu grupu.
-tab-groups-onboarding-create-group-title-2 = Ovdje možete pronaći svoje grupe tabova u bilo kojem trenutku.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Pronađite svoje grupe pretraživanjem u adresnoj traci.
-tab-groups-onboarding-saved-groups-title-2 = Kada zatvorite grupu tabova, možete je ponovo otvoriti ovdje u bilo kojem trenutku.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Pronađite svoje zatvorene grupe pretraživanjem u adresnoj traci.
-tab-groups-onboarding-session-restore-title = Ovdje možete ponovo otvoriti svoje grupe tabova bilo kada.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

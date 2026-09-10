@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Исключения
     .style = min-width: 55em
+    .title = Исключения
 permissions-close-key =
     .key = w
 permissions-address = Адрес веб-сайта
@@ -80,79 +80,64 @@ permissions-invalid-uri-label = Введите корректное сетево
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Исключения для улучшенной защиты от отслеживания
     .style = { permissions-window2.style }
+    .title = Исключения для улучшенной защиты от отслеживания
 permissions-exceptions-manage-etp-desc = Вы можете указать, на каких сайтах отключить «Улучшенную защиту от отслеживания». Введите точный адрес сайта, которым вы хотите управлять, и нажмите «Добавить исключение».
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Исключения — Куки и данные сайтов
     .style = { permissions-window2.style }
+    .title = Исключения — Куки и данные сайтов
 permissions-exceptions-cookie-desc = Вы можете указать, каким веб-сайтам разрешено всегда или никогда использовать куки и данные сайтов.  Введите точный адрес сайта и нажмите кнопку «Блокировать», «Разрешить на сессию» или «Разрешить».
 
 ## Exceptions - Clear on Shutdown
 
 permissions-exceptions-shutdown-clearing-window =
-    .title = Исключения — Удаление истории при выходе
     .style = { permissions-window2.style }
+    .title = Исключения — Удаление истории при выходе
 permissions-exceptions-shutdown-clearing-desc = Вы можете указать, какие веб-сайты будут сохранять свои данные, когда { -brand-short-name } удалит историю при закрытии. Введите точный адрес сайта, которым вы хотите управлять, и нажмите кнопку «Разрешить».
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Исключения — Режим «Только HTTPS»
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Вы можете отключить Режим «Только HTTPS» для определённых веб-сайтов. { -brand-short-name } не будет пытаться переключать соединение на защищённый HTTPS для этих сайтов. Исключения не распространяются на приватные окна.
+    .title = Исключения — Режим «Только HTTPS»
 permissions-exceptions-https-only-desc2 = Вы можете отключить режим «Только HTTPS» для определённых веб-сайтов. { -brand-short-name } не будет пытаться переключать соединение на защищённый HTTPS для этих сайтов.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
     .title = Разрешённые веб-сайты — Всплывающие окна и Сторонние перенаправления
-    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = Вы можете указать, каким веб-сайтам разрешено открывать всплывающие окна и перенаправляться сторонними фреймами.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Разрешённые веб-сайты — Всплывающие окна
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Вы можете указать, каким веб-сайтам разрешено открывать всплывающие окна. Введите точный адрес для каждого сайта и нажмите кнопку «Разрешить».
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Исключения — Сохранённые логины
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Логины для следующих веб-сайтов не будут сохранены
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Исключения — сохранённые пароли
     .style = { permissions-window2.style }
+    .title = Исключения — сохранённые пароли
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } не сохраняет пароли для перечисленных здесь сайтов.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Разрешённые веб-сайты — Установка дополнений
     .style = { permissions-window2.style }
+    .title = Разрешённые веб-сайты — Установка дополнений
 permissions-exceptions-addons-desc = Вы можете указать, каким веб-сайтам разрешено устанавливать дополнения. Введите точный адрес каждого сайта и нажмите кнопку «Разрешить».
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Настройки — Автовоспроизведение
     .style = { permissions-window2.style }
+    .title = Настройки — Автовоспроизведение
 permissions-site-autoplay-desc = Вы можете указать, какие сайты не будут следовать вашим настройкам автовоспроизведения по умолчанию.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Настройки — Разрешения на отправку уведомлений
     .style = { permissions-window2.style }
+    .title = Настройки — Разрешения на отправку уведомлений
 permissions-site-notification-desc = Следующие веб-сайты запросили разрешение отправлять вам уведомления. Вы можете указать каким веб-сайтам разрешено отправлять вам уведомления. Вы также можете блокировать новые запросы с просьбами разрешить отправлять вам уведомления.
 permissions-site-notification-disable-label =
     .label = Блокировать новые запросы на отправку вам уведомлений
@@ -161,8 +146,8 @@ permissions-site-notification-disable-desc = Это не позволит веб
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Настройки — Разрешения на доступ к местоположению
     .style = { permissions-window2.style }
+    .title = Настройки — Разрешения на доступ к местоположению
 permissions-site-location-desc = Следующие веб-сайты запросили разрешение на доступ к вашему местоположению. Вы можете указать каким веб-сайтам разрешено получать доступ к вашему местоположению. Вы также можете блокировать новые запросы с просьбами разрешить доступ к вашему местоположению.
 permissions-site-location-disable-label =
     .label = Блокировать новые запросы на доступ к вашему местоположению
@@ -171,8 +156,8 @@ permissions-site-location-disable-desc = Это не позволит веб-с�
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Параметры — Разрешения виртуальной реальности
     .style = { permissions-window2.style }
+    .title = Параметры — Разрешения виртуальной реальности
 permissions-site-xr-desc = Следующие веб-сайты запросили разрешение на доступ к вашим устройствам виртуальной реальности. Вы можете указать каким веб-сайтам разрешено получать доступ к вашим устройствам виртуальной реальности. Вы также можете блокировать новые запросы с просьбами разрешить доступ к вашим устройствам виртуальной реальности.
 permissions-site-xr-disable-label =
     .label = Запретить новые запросы на доступ к вашим устройствам виртуальной реальности
@@ -181,8 +166,8 @@ permissions-site-xr-disable-desc = Это не позволит сайтам, к
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Настройки — Разрешения на доступ к камере
     .style = { permissions-window2.style }
+    .title = Настройки — Разрешения на доступ к камере
 permissions-site-camera-desc = Следующие сайты запросили разрешение на доступ к вашей камере. Вы можете указать каким сайтам разрешено получать доступ к вашей камере. Вы также можете запретить новые запросы с просьбами разрешить доступ к вашей камере.
 permissions-site-camera-disable-label =
     .label = Блокировать новые запросы на доступ к вашей камере
@@ -191,8 +176,8 @@ permissions-site-camera-disable-desc = Это не позволит веб-са�
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = Параметры — Приложения и службы устройства
     .style = { permissions-window2.style }
+    .title = Параметры — Приложения и службы устройства
 permissions-site-localhost-desc = Следующие веб-сайты запросили доступ к приложениям и службам на этом устройстве. Вы можете разрешить или запретить сайтам это делать.
 permissions-site-localhost-disable-label =
     .label = Блокировать новые запросы на доступ к приложениям и службам на этом устройстве
@@ -201,8 +186,8 @@ permissions-site-localhost-disable-desc = Это не позволит веб-с
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = Параметры — Локальные сетевые устройства
     .style = { permissions-window2.style }
+    .title = Параметры — Локальные сетевые устройства
 permissions-site-local-network-desc = Эти веб-сайты запросили доступ к приложениям и службам на устройствах, подключенных к вашему Wi-Fi или локальной сети. Вы можете разрешить или запретить сайтам это делать.
 permissions-site-local-network-disable-label =
     .label = Запретить новые запросы на доступ к приложениям и службам на устройствах, подключенных к вашему Wi-Fi или локальной сети.
@@ -211,8 +196,8 @@ permissions-site-local-network-disable-desc = Это не позволит ве�
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Настройки — Разрешения на доступ к микрофону
     .style = { permissions-window2.style }
+    .title = Настройки — Разрешения на доступ к микрофону
 permissions-site-microphone-desc = Следующие веб-сайты запросили разрешение на доступ к вашему микрофону. Вы можете указать каким веб-сайтам разрешено получать доступ к вашему микрофону. Вы также можете блокировать новые запросы с просьбами разрешить доступ к вашему микрофону.
 permissions-site-microphone-disable-label =
     .label = Блокировать новые запросы на доступ к вашему микрофону
@@ -223,12 +208,12 @@ permissions-site-microphone-disable-desc = Это не позволит веб-�
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Параметры — Разрешения на доступ к динамику
     .style = { permissions-window2.style }
+    .title = Параметры — Разрешения на доступ к динамику
 permissions-site-speaker-desc = Следующие сайты запросили выбор устройства вывода звука. Вы можете указать, каким сайтам разрешено выбирать устройство вывода звука.
 permissions-exceptions-doh-window =
-    .title = Исключения сайтов для DNS через HTTPS
     .style = { permissions-window2.style }
+    .title = Исключения сайтов для DNS через HTTPS
 permissions-exceptions-manage-doh-desc = { -brand-short-name } не будет использовать безопасный DNS для этих сайтов и их поддоменов.
 permissions-doh-entry-field = Введите доменное имя сайта
     .accesskey = м

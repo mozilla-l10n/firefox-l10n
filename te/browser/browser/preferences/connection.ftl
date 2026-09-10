@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = అనుసంధాన అమరికలు
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = అనుసంధాన అమరికలు
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -53,14 +53,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = మళ్ళీ లోడుచేయి
     .accesskey = e
-connection-proxy-autologin =
-    .label = సంకేతపదం భద్రమైవుంటే అధీకరణకై అడుగకు
-    .accesskey = i
-    .tooltip = మీ ప్రాక్సీ ప్రవేశ వివరాలు భద్రపరచివుంటే ఈ ఎంపిక మిమ్మల్ని నిశ్శబ్దంగా ప్రాక్సీలకు అధీకరిస్తుంది. అధీకరణ విఫలమైనప్పుడు మిమ్మల్ని అడుగుతుంది.
 connection-proxy-autologin-checkbox =
     .label = సంకేతపదం భద్రమైవుంటే అధీకరణకై అడుగకు
-    .accesskey = i
     .tooltiptext = మీ ప్రాక్సీ ప్రవేశ వివరాలు భద్రపరచివుంటే ఈ ఎంపిక మిమ్మల్ని నిశ్శబ్దంగా ప్రాక్సీలకు అధీకరిస్తుంది. అధీకరణ విఫలమైనప్పుడు మిమ్మల్ని అడుగుతుంది.
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = SOCKS v5 వాడేటప్పుడు ప్రాక్సీ DNS
     .accesskey = D
@@ -71,6 +67,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = HTTPS ద్వారా DNS పరిష్కరించడానికి అప్రమేయ చిరునామా వాడండి
 connection-dns-over-https-url-custom =
     .label = అభిమతం
-    .accesskey = C
     .tooltiptext = DNSను HTTPS ద్వారా పరిష్కరించడానికి మీరు ప్రాధాన్యమిచ్చే URL ఇవ్వండి
-connection-dns-over-https-custom-label = అభిమతం
+    .accesskey = C

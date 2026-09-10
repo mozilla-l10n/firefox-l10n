@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] അറയിൽ കാണിക്കുക
            *[other] അറയിൽ കാണിക്കുക
         }
-downloads-cmd-show-downloads =
-    .label = ഇറക്കിവയ്ക്കൾ അറ കാണിക്കുക
 downloads-cmd-retry =
     .tooltiptext = വീണ്ടും ശ്രമിയ്ക്കുക
 downloads-cmd-retry-panel =

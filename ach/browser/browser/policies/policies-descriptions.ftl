@@ -20,7 +20,6 @@ policy-DisableAppUpdate = Geng keto ngec manyen i layeny.
 policy-DisableDeveloperTools = Geng nongo gitic pa ludiro.
 policy-DisableFeedbackCommands = Juk twero me cwalo adwogi ki ii gin ayera me Kony (Cwal Adwogi ki Mii ripot ikom kakube me bwola).
 policy-DisableFormHistory = Pe ipoo ikom gin mukato me yeny ki pwom
-policy-DisablePocket2 = Juk jami me gwoko potbuk me kakube i { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Juk Yeny i mung
 policy-DisableProfileImport = Juk twero me gin ayera me kelo data ki ii layeny mukene.
 policy-DisableSecurityBypass = Geng latic kwede pe me kalo ciko mogo me ber bedo.

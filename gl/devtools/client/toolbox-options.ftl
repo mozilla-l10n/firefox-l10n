@@ -115,8 +115,6 @@ options-context-advanced-settings = Configuración avanzada
 options-disable-http-cache-label = Desactivar a caché HTTP (cando a caixa de ferramentas está aberta)
 options-disable-http-cache-tooltip =
     .title = Activar esta opción desactivará a caché HTTP en todas as lapelas que teñan a caixa de ferramentas aberta. Esta opción non afecta aos service workers.
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Desactivar JavaScript *
 options-disable-javascript-tooltip =
     .title = Activar esta opción desactivará JavaScript na lapela actual. Se a lapela ou a caixa de ferramentas se pecha esquecerase esta configuración.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -143,8 +141,6 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Activar ligazóns a fontes
 options-source-maps-tooltip =
     .title = Se activa esta opción, as fontes ligaranse nas ferramentas.
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Para a sesión actual, recargue a páxina
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

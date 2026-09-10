@@ -22,7 +22,6 @@ autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } 正嘗�
 autofill-delete-payment-method-os-prompt-other = { -brand-short-name } 正嘗試刪除儲存的付款方式資訊。
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = 表單自動填寫選項
-autofill-options-link-osx = 表單自動填寫偏好設定
 
 ## The credit card capture doorhanger
 
@@ -72,16 +71,6 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = 銀聯
 autofill-card-network-visa = Visa
-# The warning text that is displayed for informing users what categories are
-# about to be filled.  The text would be, for example,
-#   Also autofills organization, phone, email.
-# Variables:
-#   $categories - one or more of the categories, see autofill-category-X below
-autofill-phishing-warningmessage-extracategory = 也會寫入 { $categories } 欄位
-# Variation when all are in the same category.
-# Variables:
-#   $categories - one or more of the categories
-autofill-phishing-warningmessage = 將自動填入 { $categories } 欄位
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = 地址
 autofill-category-name = 姓名

@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = An askouezh ne c'hall ket lenn pe kemmañ roadennoù
-origin-controls-quarantined =
-    .label = An askouezh n’eo ket aotreet da lenn pe kemmañ roadennoù
 origin-controls-quarantined-status =
     .label = Askouezh difennet war al lec’hiennoù bevennet
 origin-controls-quarantined-allow =

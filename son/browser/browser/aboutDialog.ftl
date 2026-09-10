@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Taagandiri goo ma zumandi — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Taagandiri goo ma zumandi — { $transfer }
 
@@ -29,7 +28,6 @@ settings-update-applying =
     .label = Taagandiri kanandi…
 update-failed = Taagandiri kay. <label data-l10n-name="failed-link">Dumi kokorantaa zumandi</label>
 update-failed-main = Taagandiri kay. <a data-l10n-name="failed-link-main">Dumi kokorantaa zumandi</a>
-update-adminDisabled = War juwalkaa na taagandirey kayandi
 update-noUpdatesFound = { -brand-short-name } n' ka taagandi
 settings-update-no-updates-found =
     .label = { -brand-short-name } n' ka taagandi
@@ -58,5 +56,3 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } fasalkaa ti <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, kaŋ ti <label data-l10n-name="community-creditsLink">aduɲɲa-mee jamaa</label> kaŋ ga goy nda cere hala interneti miɲoo ma duumi ka feeri borey kul se.
 helpus = Ga baa faaba? <label data-l10n-name="helpus-donateLink">Kanbuzaamay noo</label> wala <label data-l10n-name="helpus-getInvolvedLink">wa kanbe dam!</label>
 bottomLinks-license = Duɲekaddasu alhabar
-bottomLinks-rights = Goykaw alhakey
-bottomLinks-privacy = Sutura laada

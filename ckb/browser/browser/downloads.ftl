@@ -26,8 +26,6 @@ downloads-cmd-cancel-panel =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = بوخچەی داگرتنەکان پیشان بدە
 downloads-cmd-retry =
     .tooltiptext = هەوڵ بدەرەوە
 downloads-cmd-retry-panel =

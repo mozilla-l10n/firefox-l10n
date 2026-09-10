@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Jepysokue nomoñe’ẽi ha nomoambuekuaái mba’ekuaarã
-origin-controls-quarantined =
-    .label = Jepysokue nomoñe’ẽi ha nomoambuekuaái mba’ekuaarã
 origin-controls-quarantined-status =
     .label = Jepysokue ñemoneĩ’ỹva tenda jeikekekuaa’ỹhápe
 origin-controls-quarantined-allow =

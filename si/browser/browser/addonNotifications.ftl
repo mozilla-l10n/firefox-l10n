@@ -31,22 +31,10 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = ස්ථාපනයට ඉදිරියට
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = ඔබගේ පද්ධතියේ පරිපාලක විසින් මෘදුකාංග ස්ථාපනය අබල කර ඇත.
 xpinstall-disabled = මෘදුකාංග ස්ථාපනය දැනට අබල කර ඇත. සබල කරන්න යන්න ඔබන්න.
 xpinstall-disabled-button =
     .label = සබල
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = පද්ධතියේ පරිපාලක විසින් { $addonName } ({ $addonId }) අවහිර කර ඇත.
 addon-install-full-screen-blocked = පූර්ණ තිර ප්‍රකාරයේ සිටින විට හෝ ඊට පෙර එක්කහු ස්ථාපනයට ඉඩ නොදේ.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -64,9 +52,6 @@ webext-imported-addons = { -brand-short-name } වෙත ආයාත වූ ද
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = { $name } ඉවතලන්නද?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = { -brand-shorter-name } වෙතින් { $name } ඉවත් කරන්නද?
 addon-removal-button = ඉවත් කරන්න
 addon-removal-abuse-report-checkbox = මෙම එක්කහුව { -vendor-short-name } වෙත වාර්තා කරන්න
 # Variables:
@@ -101,4 +86,3 @@ addon-local-install-error-not-signed = සත්‍යාපනය නොකළ 
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { -brand-short-name } { $appVersion } සමඟ නොගැළපෙන නිසා { $addonName } ස්ථාපනය කිරීමට නොහැකිය.
-addon-install-error-blocklisted = ඉහළ අවදානමක් සහිත ආරක්‍ෂණ හෝ ස්ථායි ගැටළු තිබෙන නිසා { $addonName } ස්ථාපනය කිරීමට නොහැකිය.

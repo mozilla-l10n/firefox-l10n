@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = လက်မှတ် ဆွဲချနေတယ်
     .style = min-width: 46em
+    .title = လက်မှတ် ဆွဲချနေတယ်
 download-cert-message = လက်မှတ် အာဏာပိုင် (CA) သစ်တခုကို စိတ်ချဖို့ သင့်ကို တောင်းဆိုခဲ့တယ်။
 download-cert-trust-ssl =
     .label = ဝဘ်ဆိုက်များကို ခွဲခြားသိရှိနိုင်ရန် ယခု CA ကို သုံးမည်။
@@ -37,8 +37,6 @@ download-cert-view-text = CA လက်မှတ်ကို စစ်ဆေး�
 
 client-auth-window =
     .title = သုံးစွဲသူ ခွဲခြား ရွေးထုတ်မှု တောင်းဆိုချက်
-client-auth-site-description = ဒီကွန်ရက်က သင့်ကိုသင် လက်မှတ်တခုနဲ့ အထောက်အထားပြဖို့ တောင်းဆိုနေတယ် -
-client-auth-choose-cert = ခွဲခြား ရွေးထုတ်ချက် အနေနဲ့ တင်ပြဖို့ လက်မှတ်တခုကို ရွေးချယ်ပါ -
 client-auth-cert-details = ရွေးချယ်ထားတဲ့ လက်မှတ် အသေးစိတ်များ
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

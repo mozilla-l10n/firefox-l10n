@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Ychwanegu { $extension }?
-webext-perms-header-with-perms = Ychwanegu { $extension }? Bydd gan yr estyniad hwn ganiatâd i:
-webext-perms-header-unsigned = Ychwanegu { $extension }? Nid yw'r estyniad hwn wedi'i wirio. Gall estyniadau maleisus ddwyn eich manylion preifat neu gyfaddawdu eich cyfrifiadur. Ychwanegwch ef dim ond os ydych chi'n ymddiried yn y ffynhonnell.
-webext-perms-header-unsigned-with-perms = Ychwanegu { $extension }? Nid yw'r estyniad hwn wedi'i wirio. Gall estyniadau maleisus ddwyn eich manylion preifat neu gyfaddawdu eich cyfrifiadur. Ychwanegwch ef dim ond os ydych chi'n ymddiried yn y ffynhonnell. Bydd gan yr estyniad hwn ganiatâd i:
 webext-perms-sideload-header = Mae { $extension } wedi ei ychwanegu
 webext-perms-optional-perms-header2 = Mae { $extension } yn gofyn am ganiatâd ychwanegol
-webext-perms-optional-perms-header = Mae { $extension } yn gofyn am ganiatâd ychwanegol.
 webext-perms-header2 = Ychwanegu { $extension }
 webext-perms-list-intro-unsigned = Gall yr estyniad hwn, sydd heb ei wirio, peryglu eich preifatrwydd neu beryglu'ch dyfais. Dim ond os ydych chi'n ymddiried yn y ffynhonnell y dylech ei ychwanegu.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = Mae { $extension } wedi'i ddiweddaru. Rhaid i chi gymeradwyo'r caniatâd newydd cyn y bydd y fersiwn wedi'i diweddaru yn gosod. Bydd dewis “Diddymu” yn cadw fersiwn eich estyniad cyfredol.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = Mae { $extension } wedi'i ddiweddaru. Rhaid i chi gymeradwyo caniatâd newydd cyn y bydd y fersiwn wedi'i ddiweddaru'n cael ei osod. Bydd dewis “Diddymu” yn cynnal eich fersiwn estyniad cyfredol. Bydd gan yr estyniad hwn ganiatâd i:
 webext-perms-update-accept =
     .label = Diweddaru
     .accesskey = D
@@ -73,32 +65,8 @@ webext-perms-host-description-file-urls = Cael mynediad at ffeiliau lleol ar eic
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Cael mynediad at eich data ym mhob gwefan ym mharth { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [zero] Peidio cael mynediad at eich data mewn parthau eraill
-        [one] Cael mynediad at eich data mewn { $domainCount } parth arall
-        [two] Cael mynediad at eich data mewn { $domainCount } barth arall
-        [few] Cael mynediad at eich data mewn { $domainCount } parth arall
-        [many] Cael mynediad at eich data mewn { $domainCount } parth arall
-       *[other] Cael mynediad at eich data mewn { $domainCount } parth arall
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Cael mynediad at eich data yn { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [zero] Peidio cael mynediad at eich data mewn gwefannau eraill
-        [one] Cael mynediad at eich data mewn { $domainCount } gwefan arall
-        [two] Cael mynediad at eich data mewn { $domainCount } wefan arall
-        [few] Cael mynediad at eich data mewn { $domainCount } gwefan arall
-        [many] Cael mynediad at eich data mewn { $domainCount } gwefan arall
-       *[other] Cael mynediad at eich data mewn { $domainCount } gwefan arall
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

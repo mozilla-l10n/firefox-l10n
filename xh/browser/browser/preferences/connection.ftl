@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Iisetingi zonxibelelwano
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Iisetingi zonxibelelwano
 connection-close-key =
     .key = w
 connection-proxy-option-no =
@@ -30,14 +30,10 @@ connection-proxy-noproxy-desc = Umzekelo: .mozilla.org, .net.nz, 192.168.1.0/24
 connection-proxy-reload =
     .label = Khuphela kwakhona
     .accesskey = u
-connection-proxy-autologin =
-    .label = Musa ukuyalela imfezeko ukuba ipasiwedi igciniwe
-    .accesskey = z
-    .tooltip = Ekunokukhethwa kuko kukufezekisa ngenzolo kwiiproksi xa ugcine iikhridenshali zazo. Uya kuyalelwa ukuba imfezeko ayiphumelelanga.
 connection-proxy-autologin-checkbox =
     .label = Musa ukuyalela imfezeko ukuba ipasiwedi igciniwe
-    .accesskey = z
     .tooltiptext = Ekunokukhethwa kuko kukufezekisa ngenzolo kwiiproksi xa ugcine iikhridenshali zazo. Uya kuyalelwa ukuba imfezeko ayiphumelelanga.
+    .accesskey = z
 connection-proxy-socks-remote-dns =
     .label = I-DNS yeproksi xa usebenzisa iSOCKS v5
     .accesskey = d

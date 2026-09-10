@@ -87,8 +87,6 @@ options-context-advanced-settings = İleriletilgen ayarlar
 options-disable-http-cache-label = HTTP Zulasını Naqabilleştir (aletqutusı açıq olğanda)
 options-disable-http-cache-tooltip =
     .title = Bu seçenekni açmañız, aletqutusınıñ açıq olğanı ilmeklerniñ episi içün HTTP Zulasını naqabilleştirecek. Hızmet İşçileri bu seçenekten müteessir olmaz.
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = JavaBitigi'ni naqabilleştir
 options-disable-javascript-tooltip =
     .title = Bu seçenekniñ faalleştirilmesi JavaBitigi'ni cari ilmek içün ğayrıqabilleştirecek. İlmek yaki alet qutusı qapatılsa bu ayar unutılacaq.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -105,8 +103,6 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Qaynaq Haritalarını Qabilleştir
 options-source-maps-tooltip =
     .title = Bu seçenekni qabilleştirseñiz aletlerde menbalar haritalanğan olur.
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Faqat cari oturım, saifeni kene yükler
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

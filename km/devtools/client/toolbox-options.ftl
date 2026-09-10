@@ -68,8 +68,6 @@ options-sourceeditor-keybinding-default-label = លំនាំ​ដើម
 
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = ការ​កំណត់​កម្រិត​ខ្ពស់
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = បិទ JavaScript *
 options-disable-javascript-tooltip =
     .title = ប្ដូរ​ជម្រើស​នេះ​នឹង​បិទ JavaScript សម្រាប់​ផ្ទាំង​បច្ចុប្បន្ន។ ប្រសិនបើ​ផ្ទាំង ឬ​ប្រអប់​ឧបករណ៍​ត្រូវ​បាន​បិទ បន្ទាប់​ការ​កំណត់​នេះ​នឹង​ត្រូវ​បាន​បំភ្លេច។
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -82,8 +80,6 @@ options-enable-remote-label = បើក​ការ​បំបាត់​ក�
 options-enable-service-workers-http-label = បើក Service Workers តាម HTTP (នៅ​ពេល​ប្រអប់​ឧបករណ៍​បើក)
 options-enable-service-workers-http-tooltip =
     .title = ការ​បើក​ជម្រើស​នេះ​​នឹង​អនុញ្ញាត​ Service Workers តាម HTTP សម្រាប់​ផ្ទាំង​ទាំងអស់​ដែល​​បាន​បើក​ប្រអប់​ឧបករណ៍។
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = តែ​សម័យ​ប៉ុណ្ណោះ ផ្ទុក​ទំព័រ​​ឡើយ​វិញ
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

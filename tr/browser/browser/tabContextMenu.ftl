@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Yeni sekme
-    .accesskey = Y
 reload-tab =
     .label = Sekmeyi tazele
     .accesskey = z
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Yeni grup
     .accesskey = u
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -205,13 +198,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Paylaşılabilir bağlantı oluştur
     .accesskey = P
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Sekmeyi cihaza gönder
-           *[other] { $tabCount } sekmeyi cihaza gönder
-        }
-    .accesskey = n
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

@@ -8,7 +8,3 @@ about-reader-load-error = گو ناکام لوڈ کرنس منز آٹیکل پی
 
 about-reader-font-type-serif = سیریف
 about-reader-font-type-sans-serif = سینس۔ سیریف :
-
-## Reader View toolbar buttons
-
-about-reader-toolbar-type-controls = ٹایِپ کنٹرول

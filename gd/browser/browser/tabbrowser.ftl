@@ -8,11 +8,6 @@ tabbrowser-menuitem-close-tab =
     .label = Dùin an taba
 tabbrowser-menuitem-close =
     .label = Dùin
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -20,16 +15,6 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [one] Dùin { $tabCount } taba
-            [two] Dùin { $tabCount } thaba
-            [few] Dùin { $tabCount } tabaichean
-           *[other] Dùin { $tabCount } taba
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [one] Dùin { $tabCount } taba
             [two] Dùin { $tabCount } thaba
@@ -100,7 +85,6 @@ tabbrowser-confirm-close-tabs-title =
        *[other] A bheil thu airson an { $tabCount } taba a dhùnadh?
     }
 tabbrowser-confirm-close-tabs-button = Dùin na tabaichean
-tabbrowser-confirm-close-tabs-checkbox = Dearbh mus dèid iomadh taba a dhùnadh
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -126,9 +110,6 @@ tabbrowser-confirm-close-windows-button =
 
 tabbrowser-confirm-close-tabs-with-key-title = A bheil thu airson an uinneag a dhùnadh is { -brand-short-name } a dhùnadh?
 tabbrowser-confirm-close-tabs-with-key-button = Fàg { -brand-short-name }
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = Dearbh mus dèid fàgail an-seo le { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 

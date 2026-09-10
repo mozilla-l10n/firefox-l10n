@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = လက်မှတ်ကို လက်မ�
 cert-error-trust-signature-algorithm-disabled = The certificate is not trusted because it was signed using a signature algorithm that was disabled because that algorithm is not secure.
 cert-error-trust-expired-issuer = လက်မှတ်ကို လက်မှတ် ထုတ်ပြန်သူကို စိတ်မချတဲ့ အတွက် စိတ်မချရဘူး။
 cert-error-trust-self-signed = လက်မှတ်ကို ကိုယ်တိုင် ရေးထိုးထားတဲ့ အတွက် စိတ်မချရဘူး။
-cert-error-trust-symantec = GeoTrust၊ RapidSSL, Symantec, Thawte နှင့် VeriSign တို့မှထုတ်ပေးထားသောလက်မှတ်များသည်လုံခြုံမှုမရှိတော့ပါ။ အကြောင်းမှာ ထိုအာဏာပိုင်များသည်ယခင်ကလုံခြုံရေးအလေ့အထများကိုမလိုက်နာသောကြောင့်ဖြစ်သည်။
 cert-error-untrusted-default = လက်မှတ်ဟာ စိတ်ချရတဲ့ ရင်းမြစ်က မဟုတ်ပါ။
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -42,17 +41,12 @@ cert-error-not-yet-valid-now = ဝက်ဘ်ဆိုက်များ မှ
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = အမှား ကုဒ် : <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = ၀က်ဘ်ဆိုက်များ မှာ ၎င်းတို့ ၏ သက်သေခံ လက်မှတ်ကို လက်မှတ် ထုတ်ပိုင်ခွင့် အာဏာရှိသူမှ ထုတ်ပေး ကာ သက်သေခံ ကြသည်။ Browser အများစုသည် GeoTrust, RapidSSL, Symantec, Thawte နှင့် VeriSign မှထုတ်ပေးသော လက်မှတ်များ ကို မယုံကြည် တော့ပါ။ { $hostname } သည်ဤအာဏာပိုင်များအနက်မှ လက်မှတ်တစ်ခု ကိုအသုံးပြု သောကြောင့် ဝက်ဘ်ဆိုက်၏ စစ်မှန်မှု့ ကိုအတည်မပြုနိုင်ပါ။
-cert-error-symantec-distrust-admin = ဝက်ဘ်ဆိုက် အုပ်ချုပ်သူများ ကို အဆိုပါ ပြဿနာ အကြောင်း ကို သတင်းပို့ပါ။
-# Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # Variables:
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Certificate chain:
-open-in-new-window-for-csp-or-xfo-error = ဆိုက်ကို ဝင်းဒိုးအသစ်တွင် ဖွင့်ပါ
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = သင်၏လုံခြုံရေးကိုကာကွယ်ရန် { -brand-short-name } သည် အခြားဆိုဒ် တစ်ခု ပေါင်းစပ် နေသော { $hostname } ၏ စာမျက်နှာအားဖော်ပြခွင့်မပြုပါ။ ဤစာမျက်နှာကို ကြည့်လိုပါက သင် ၎င်းကို ဝင်းဒိုး အသစ် တွင် ဖွင့်ရန်လိုသည်။
@@ -85,7 +79,6 @@ redirectLoop-title = ယခုစာမျက်နှာသည် ကောင�
 unknownSocketType-title = ဆာဗာထံမှ မမျှော်မှန်းထားသော တုံ့ပြန်ချက်
 nssFailure2-title = လုံခြုံသောချိတ်ဆက်မှု မအောင်မြင်ပါ
 csp-xfo-error-title = { -brand-short-name } သည် ဤ စာမျက်နှာ ကို မဖွင့်နိုင်ပါ
-corruptedContentError-title = အကြောင်းအရာ မစုံလင်သော အမှား
 sslv3Used-title = လုံခြုံစိတ်ချစွာ မချိတ်ဆက်နိုင်ပါ
 inadequateSecurityError-title = ချိတ်ဆက်မှုသည် မလုံခြုံပါ
 blockedByPolicy-title = ပိတ်ပင်ထားသော စာမျက်နှာ

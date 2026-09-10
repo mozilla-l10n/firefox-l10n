@@ -2,36 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = நீங்கள் தடமறியப்பட விரும்பவில்லையென்று வலைத்தளங்களுக்கு “தடமறியாதே” சைகையை அனுப்பு
-do-not-track-learn-more = மேலும் அறிய
-do-not-track-option-always =
-    .label = எப்போதும்
 pane-general-title = பொது
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = முகப்பு
 pane-search-title2 = தேடு
     .title = தேடு
 pane-privacy-title3 = தனியுரிமை & பாதுகாப்பு
     .title = தனியுரிமை & பாதுகாப்பு
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = தேடு
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = தனியுரிமை & பாதுகாப்பு
-pane-privacy-title = தனியுரிமை & பாதுகாப்பு
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label2 = { -brand-short-name } ஆதரவு
     .title = { -brand-short-name } ஆதரவு
-help-button-label = { -brand-short-name } ஆதரவு
 focus-search =
     .key = f
 close-button =
@@ -70,20 +52,13 @@ search-results-help-link = உதவி தேவையா? <a data-l10n-name="u
 
 ## General Section
 
-startup-header = துவக்கம்
 always-check-default =
     .label = துவக்கத்தில் { -brand-short-name } முன்னிருப்பு உலாவியாக இருக்கிறதா என்று எப்போதும் சரி பார்
     .accesskey = y
-is-default = { -brand-short-name } தற்போது உங்களுடைய இயல்புநிலை உலாவியாக உள்ளது
-is-not-default = { -brand-short-name } உங்களுடைய முன்னிருப்பு உலாவியாக இல்லை
-set-as-my-default-browser =
-    .label = முன்னிருப்பாக்கு…
-    .accesskey = D
 disable-extension =
     .label = துணைநிரலை முடக்கவும்
 tabs-group-header2 =
     .label = கீற்றுகள்
-tabs-group-header = கீற்றுகள்
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab விசைக் கொண்டு அண்மையில் பாவித்த கீற்றுகளின் ஊடாக வலம் வரலாம்
     .accesskey = T
@@ -96,13 +71,7 @@ warn-on-open-many-tabs =
 show-tabs-in-taskbar =
     .label = Windows பணிப்பட்டையில் கீற்றுகளின் முன்பார்வைகளை காட்டு
     .accesskey = k
-browser-containers-enabled =
-    .label = கலன் கீற்றுகளை செயற்படுத்து
-    .accesskey = n
 browser-containers-learn-more = மேலும் அறிய
-browser-containers-settings =
-    .label = அமைவுகள்…
-    .accesskey = i
 containers-disable-alert-title = அனைத்து கலன் கீற்றுகளையும் மூடவா?
 startup-group =
     .label = துவக்கம்
@@ -138,13 +107,6 @@ containers-remove-cancel-button = இக்கலனை நீக்க வே�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = மொழி மற்றும் தோற்றம்
-default-font = முன்னிருப்பு எழுத்துரு
-    .accesskey = D
-default-font-size = அளவு
-    .accesskey = S
-advanced-fonts =
-    .label = உயர்நிலை...
-    .accesskey = உ
 language-header = மொழி
 choose-language-description = பக்கங்களை காட்ட உங்களுக்கு பிடித்தமான முதன்மை மொழியைத் தேர்ந்தெடுக்கவும்
 choose-button =
@@ -154,12 +116,6 @@ manage-browser-languages-button =
     .label = மாற்று வழிகளை அமை…
     .accesskey = i
 confirm-browser-language-change-button = செயற்படுத்தி மீட்தொடங்கு
-translate-web-pages =
-    .label = வலை உள்ளடக்கத்தை மொழிபெயர்
-    .accesskey = T
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = ஆல் மொழிபெயர்ப்பு <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = விதிவிலக்குகள்...
     .accesskey = x
@@ -174,23 +130,6 @@ download-save-files-header =
     .label = கோப்புகளை இங்கு சேமி
 download-save-where-3 =
     .aria-label = கோப்புகளை இங்கு சேமி
-download-header = பதிவிறக்கங்கள்
-download-save-where = கோப்புகளை இங்கு சேமி
-    .accesskey = v
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] தேர்ந்தெடு...
-           *[other] உலாவு...
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] த
-           *[other] ல
-        }
-download-always-ask-where =
-    .label = கோப்புகளை எங்கே சேமிக்க வேண்டுமென்று எப்போதும் என்னிடம் கேள்
-    .accesskey = A
 applications-header = பயன்பாடுகள்
 applications-description = நீங்கள் உலாவும்போது இணையம் அல்லது பயன்பாடுகளிலிருந்து பதிவிறக்கும் கோப்புகளை { -brand-short-name } எவ்வாறு கையாள வேண்டும் என்பதைத் தேர்ந்தெடுக்கவும்.
 applications-filter =
@@ -227,17 +166,11 @@ applications-always-ask =
 #   $type-description (string) - Description of the type (e.g "Portable Document Format")
 #   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = { $plugin-name }ஐ பயன்படுத்து ({ -brand-short-name }இல்)
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -253,35 +186,16 @@ applications-use-other-label =
 
 drm-group =
     .label = எண்முறை உரிமைகள் மேலாண்மை (DRM) உள்ளடக்கம்
-drm-content-header = எண்முறை உரிமைகள் மேலாண்மை (DRM) உள்ளடக்கம்
 play-drm-content =
     .label = DRM உள்ளடக்கங்கத்தை இயக்கு
     .accesskey = P
 play-drm-content-learn-more = மேலும் அறிய
-update-application-title = { -brand-short-name } மேம்படுத்தல்கள்
-update-application-description = சிறந்த செயல்திறன், நிலைப்புத்தன்மை மற்றும் பாதுகாப்பிற்காக { -brand-short-name } என்பதை இற்றைப்படுத்தி வைக்கவும்.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = பதிப்பு { $version } <a data-l10n-name="learn-more">புதியவைகள்</a>
 update-history-2 =
     .label = புதுப்பித்தல் வரலாறு
     .accesskey = p
-update-history =
-    .label = புதுப்பித்தல் வரலாறு…
-    .accesskey = p
-update-application-allow-description = பின்வரும் தேர்வுக்கு { -brand-short-name } உலாவியை அனுமதி
-update-application-auto =
-    .label = தானே புதுப்பிப்புகளை நிறுவவும் (பரிந்துரைக்கப்பட்டது)
-    .accesskey = A
-update-application-check-choose =
-    .label = புதுப்பிப்புகள் உள்ளதா எனச் சோதிக்கவும், நிறுவ வேண்டுமா என்பதை நானே தேர்வு செய்கிறேன்
-    .accesskey = C
-update-application-manual =
-    .label = புதுப்பித்தல்களைப் பார்க்க வேண்டாம் (பரிந்துரைக்கவில்லை)
-    .accesskey = N
-update-application-use-service =
-    .label = புதுப்பிப்புகளை நிறுவ ஒரு பின்புல சேவையைப் பயன்படுத்தவும்
-    .accesskey = b
 update-in-progress-title = புதுப்பிப்பு செயலிலுள்ளது
 update-in-progress-ok-button = & நிராகரி
 # Continue is the cancel button so pressing escape or using a platform standard
@@ -290,11 +204,6 @@ update-in-progress-cancel-button = &தொடரவும்
 
 ## General Section - Performance
 
-performance-title = செயல்திறன்
-performance-use-recommended-settings-checkbox =
-    .label = பரிந்துரைத்த செயல்திறன் அமைவுகளைப் பாவிக்கவும்
-    .accesskey = U
-performance-use-recommended-settings-desc = இந்த அமைவுகள் உங்கள் கணினியின் வன்பொருளுக்கும் இயங்குதளத்திற்கும் ஏற்ப அமைந்துள்ளது.
 performance-settings-learn-more = மேலும் அறிய
 performance-allow-hw-accel =
     .label = கிடைக்கும்போது வன்பொருள் முடுக்கத்தை பயன்படுத்தவும்
@@ -312,7 +221,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = உலாவல்
 browsing-use-autoscroll =
     .label = தானியக்க உருளலை பயன்படுத்து
     .accesskey = a
@@ -328,18 +236,8 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = நீங்கள் தட்டச்சு செய்யத்தொடங்கும்போது உரையைத் தேடவும்
     .accesskey = x
-browsing-cfr-recommendations-learn-more = மேலும் அறிய
 browsing-group =
     .label = உலாவல்
-
-## General Section - Proxy
-
-network-settings-title = வலைதள அமைவுகள்
-network-proxy-connection-description = { -brand-short-name } எவ்வாறு இணையத்துடன் இணைய வேண்டும் என்பதைக் கட்டமை.
-network-proxy-connection-learn-more = மேலும் அறிய
-network-proxy-connection-settings =
-    .label = அமைவுகள்…
-    .accesskey = e
 
 ## Home Section
 
@@ -386,8 +284,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = வலை தேடல்
-home-prefs-recommended-by-header =
-    .label = { $provider } என்பவரால் பரிந்துரைக்கப்பட்டது
 
 ##
 
@@ -400,12 +296,6 @@ home-prefs-highlights-options-bookmarks =
     .label = புத்தகக்குறிகள்
 home-prefs-highlights-option-most-recent-download =
     .label = அண்மைய பதிவிறக்கம்
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = துணுக்குகள்
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -417,28 +307,11 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = தேடும் பட்டை
-search-bar-hidden =
-    .label = தேடுதல் மற்றும் வழிகாட்டலுக்கு முகவரி பட்டையைப் பயன்படுத்தவும்
-search-bar-shown =
-    .label = கருவிப்பட்டையினுள் தேடும் பட்டையைச் சேர்
-search-engine-default-header = முன்னிருப்பு தேடுப்பொறி
-search-suggestions-option =
-    .label = தேடல் பரிந்துரைகளை வழங்கு
-    .accesskey = s
 search-show-suggestions-url-bar-option =
     .label = தேடல் பரிந்துரைகளை இடப்பட்டை முடிவுகளில் காண்பி
     .accesskey = l
 search-suggestions-cant-show-2 =
     .message = தேடல் பரிந்துரைகள் இடப்பட்டையில் காட்டப்படாது ஏனெனில் நீங்கள் { -brand-short-name } என்பதை வரலாற்றில் நினைவு கொள்ளாமல் இருக்கும்படி கட்டமைத்துள்ளீர்கள்.
-# This string describes what the user will observe when the system
-# prioritizes search suggestions over browsing history in the results
-# that extend down from the address bar. In the original English string,
-# "ahead" refers to location (appearing most proximate to), not time
-# (appearing before).
-search-show-suggestions-above-history-option =
-    .label = முகவரிப்பட்டை முடிவுகளில் உலாவல் வரலாற்றின் முன்னே தேடல் பரிந்துரைகளை காட்டு
-search-suggestions-cant-show = தேடல் பரிந்துரைகள் இடப்பட்டையில் காட்டப்படாது ஏனெனில் நீங்கள் { -brand-short-name } என்பதை வரலாற்றில் நினைவு கொள்ளாமல் இருக்கும்படி கட்டமைத்துள்ளீர்கள்.
 search-one-click-desc = நீங்கள் உள்ளிட துவங்கும்போது, இடப்பட்டை மற்றும் தேடுபட்டையின் அடியில் இடம்பெறும் மாற்று தேடுபொறியைத் தேர்ந்தெடுக
 search-choose-engine-column =
     .label = தேடுபொறி
@@ -463,15 +336,6 @@ search-engine-group =
 search-default-engine =
     .aria-label = முன்னிருப்பு தேடுப்பொறி
 
-## Containers Section
-
-containers-header = கலன் கீற்றுகள்
-containers-add-button =
-    .label = புதிய கலன்களைச் சேர்
-    .accesskey = A
-containers-remove-button =
-    .label = நீக்கு
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -488,8 +352,6 @@ sync-mobile-promo = பயர்பாக்சை <img data-l10n-name="android-
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = சுயவிவரப் படத்தை மாற்று
 sync-profile-picture-with-alt =
     .alt = சுயவிவரப் படத்தை மாற்று
     .tooltiptext = சுயவிவரப் படத்தை மாற்று
@@ -508,9 +370,6 @@ sync-signedin-login-failure = தயவுச்செய்து மீண்�
 
 ##
 
-sync-resend-verification =
-    .label = சரிபார்த்தலை மீண்டும் அனுப்பு
-    .accesskey = d
 sync-remove-account =
     .label = கணக்கை அகற்று
     .accesskey = R
@@ -534,10 +393,6 @@ sync-engine-addresses =
     .label = முகவரிகள்
     .tooltiptext = நீங்கள் சேமித்த அஞ்சல் முகவரிகள் (பணிமேடை)
     .accesskey = e
-sync-engine-creditcards =
-    .label = கடன் அட்டைகள்
-    .tooltiptext = பெயர்கள், எண்கள் மற்றும் காலாவதி தேதிகள் (பணித்திரைக்கு மட்டும்)
-    .accesskey = C
 sync-engine-addons =
     .label = கூடுதல்-வசதிகள்
     .tooltiptext = பணித்திரை பயர்பாக்சிற்கான நீட்சிகள் மற்றும் தீம்கள்
@@ -566,35 +421,15 @@ sync-device-name-save =
     .label = சேமி
     .accesskey = v
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = உறுதிப்படுத்தல் அனுப்பட்டது
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = ஓர் உறுததொடுப்பு { $email } க்கு அனுப்பட்டது.
-sync-verification-not-sent-title = சரிபார்ப்பை அனுப்பு இயலவில்லை
-sync-verification-not-sent-body = எங்களால் இப்பொழுது உறுதி மின்னஞ்சலை அனுப்ப முடியவில்லை, தயவு செய்து பின்னர் மீண்டும் முயற்ச்சிக்கவும்
-
 ## Privacy Section
 
 privacy-header = உலாவி தனியுரிமை
-
-## Privacy Section - Logins and Passwords
-
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = இணைய தளங்களுக்கான புகுபதிகைகள் கடவுச்சொற்களை சேமிக்க கேள்
-    .accesskey = r
 
 ## Privacy Panel Settings
 
 forms-exceptions =
     .label = விதிவிலக்குகள்…
     .accesskey = x
-forms-saved-logins =
-    .label = சேமிக்கப்பட்ட புகுபதிகைகள்...
-    .accesskey = L
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -605,32 +440,12 @@ forms-master-pw-fips-desc = கடவுச்சொல்லை மாற்ற
 
 ## Privacy Section - History
 
-history-header = வரலாறு
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name }
-    .accesskey = w
-history-remember-option-all =
-    .label = வரலாறை நினைவில் வைக்கும்
-history-remember-option-never =
-    .label = வரலாற்றை நினைவில் வைக்காது
-history-remember-option-custom =
-    .label = வரலாறுக்கான விருப்பமை அமைவுகளைப் பாவிக்கும்
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } உங்கள் உலாவல், பதிவிறக்கம், படிவம் மற்றும் தேடல் வரலாற்றை நினைவிற்கொள்ளும்.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } தனி உலாவல் அமைப்புகளையே பயன்படுத்தும் , மற்றும் நீங்கள் இணையத்தை உலாவும் போது எந்த வரலாற்றையும் நினைவில் கொள்ளாது.
-history-remember-description = { -brand-short-name } உங்கள் உலாவல், பதிவிறக்கம், படிவம் மற்றும் தேடல் வரலாற்றை நினைவிற்கொள்ளும்.
-history-dontremember-description = { -brand-short-name } தனி உலாவல் அமைப்புகளையே பயன்படுத்தும் , மற்றும் நீங்கள் இணையத்தை உலாவும் போது எந்த வரலாற்றையும் நினைவில் கொள்ளாது.
 history-private-browsing-permanent =
     .label = கமுக்க உலாவலை எப்போதும் பயன்படுத்து
     .accesskey = p
@@ -656,30 +471,13 @@ history-mode-radio-group =
 
 ## Privacy Section - Site Data
 
-sitedata-header = நினைவிகள் மற்றும் தள தரவு
 sitedata-total-size-calculating = தள தரவு மற்றும் இடையக அளவைக் கணக்கிடுகிறது...
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = நீங்கள் சேமித்த நினைவிகள், தள தரவு மற்றும் இடையகத்தின் தற்போதைய பயனளவு வன்தட்டில் { $value }{ $unit } அளவு பயன்படுத்தியுள்ளது.
 sitedata-learn-more = மேலும் அறிய
-# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
-# The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = வகை தடுக்கப்பட்டது
-    .accesskey = T
-sitedata-clear =
-    .label = தரவினை அழி
-    .accesskey = l
-sitedata-settings =
-    .label = தரவை நிர்வகி
-    .accesskey = M
 cookies-site-data-group =
     .label = நினைவிகள் மற்றும் தள தரவு
 
 ## Search Section
 
-addressbar-header = முகவரி பட்டை
-addressbar-suggest = இடப்பட்டையைப் பயன்படுத்தும் போது, பரிந்துரைக்கவும்
 addressbar-locbar-history-option =
     .label = உலாவல் வரலாறு
     .accesskey = h
@@ -689,7 +487,6 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = கீற்றுகளைத் திற
     .accesskey = O
-addressbar-suggestions-settings = தேடுபொறி பரிந்துரைத்துலுக்கான முன்னுரிமைகளை மாற்று
 
 ## Privacy Section - Content Blocking
 
@@ -711,36 +508,9 @@ enhanced-tracking-protection-setting-custom =
 
 ## Privacy Section - Permissions
 
-permissions-header = அனுமதிகள்
-permissions-location = இடம்
-permissions-location-settings =
-    .label = அமைவுகள்…
-    .accesskey = t
-permissions-camera = படக்கருவி
-permissions-camera-settings =
-    .label = அமைவுகள்…
-    .accesskey = t
-permissions-microphone = ஒலிவாங்கி
-permissions-microphone-settings =
-    .label = அமைவுகள்…
-    .accesskey = t
-permissions-notification = அறிவிப்புகள்
-permissions-notification-settings =
-    .label = அமைவுகள்…
-    .accesskey = t
-permissions-notification-link = மேலும் அறிய
 permissions-notification-pause =
     .label = { -brand-short-name } மறுதொடங்கும் வரை அறிவிப்புகளை இடைநிறுத்து
     .accesskey = n
-permissions-block-popups =
-    .label = பாப் அப் (துள்ளும்) சாளரங்களை தடுக்கவும்
-    .accesskey = ப
-permissions-addon-install-warning =
-    .label = வலைத்தளங்கள் துணை நிரல்களை நிறுவ முயற்சிக்கும் போது உங்களை எச்சரிக்கும்
-    .accesskey = W
-permissions-addon-exceptions =
-    .label = விதிவிலக்குகள்…
-    .accesskey = E
 permissions-location2 =
     .label = இடம்
 permissions-camera2 =
@@ -752,20 +522,6 @@ permissions-notification2 =
 
 ## Privacy Section - Data Collection
 
-collection-header = { -brand-short-name } தரவுத் திரட்டும் பயனளவும்
-collection-description = நாங்கள் உங்களுக்குத் தேர்வுகளை வழங்க உறுதிபூண்டுள்ளோம் மேலும் அனைவருக்கும் { -brand-short-name } வழங்க மற்றும் மேம்படுத்தத் தேவையானதை மட்டும் சேகரிக்கிறோம். நாங்கள் தனிப்பட்ட தகவல்களைப் பெறும் முன் எப்போதும் அனுமதி கேட்கிறோம்.
-collection-privacy-notice = தனியுரிமை அறிக்கை
-collection-health-report =
-    .label = தொழில்நுட்ப மற்றும் தொடர்புத் தரவுகளை { -vendor-short-name } நிறுவனத்திற்கு அனுப்ப { -brand-short-name } உலாவியை அனுமதி
-    .accesskey = r
-collection-health-report-link = மேலும் அறிய
-collection-studies =
-    .label = நிறுவ { -brand-short-name } அனுமதித்து பாடத்திட்டங்களை இயக்கு
-collection-studies-link = { -brand-short-name } பாடத்திட்டங்களைக் காண்க
-addon-recommendations-link = மேலும் அறிக
-# This message is displayed above disabled data sharing options in developer builds
-# or builds with no Telemetry support available.
-collection-health-report-disabled = இந்தக் கட்டமைப்பிற்கு தரவு அறிக்கை முடக்கப்பட்டுள்ளது
 data-collection-studies-link =
     .label = { -brand-short-name } பாடத்திட்டங்களைக் காண்க
 
@@ -775,7 +531,6 @@ data-collection-studies-link =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = பாதுகாப்பு
-security-browsing-protection = ஏமாற்று உள்ளடக்கம் மற்றும் ஆபத்தான மென்பொருள் பாதுகாப்பு
 security-enable-safe-browsing =
     .label = ஆபத்தான தீங்கிழைக்கும் உள்ளடக்கத்தைத் தடு
     .accesskey = B
@@ -789,20 +544,9 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = சான்றிதழ்கள்
-certs-enable-ocsp =
-    .label = சான்றிதழ்களின் செல்லுபடி நிலையை உறுதிப்படுத்துவதற்காக OCSP பதிலளிப்பு சேவையகங்களிடம் வினவு
-    .accesskey = Q
-certs-view =
-    .label = சான்றிதழ்களைப் பார்…
-    .accesskey = C
-certs-devices =
-    .label = பாதுகாப்பு சாதனங்கள்…
-    .accesskey = D
 certs-devices-enable-fips = FIPSஐ செயல்படுத்து
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = பணிமேடை
 downloads-folder-name = பதிவிறக்கங்கள்
-choose-download-folder-title = பதிவிறக்க அடைவை தேர்ந்தெடு:

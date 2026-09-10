@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = spamiyntej about:webrtc za
 about-webrtc-aec-logging-msg-label = Protokōł AEC
 about-webrtc-aec-logging-off-state-label = Sztartnij protokōł AEC
 about-webrtc-aec-logging-on-state-label = Sztopnij protokōł AAEC
-about-webrtc-aec-logging-on-state-msg = Protokōł AEC je aktywny (pora minut pogodej, a potym sztopnij nagrowanie)
 about-webrtc-aec-logging-toggled-on-state-msg = Protokōł AEC je aktywny (pora minut pogodej, a potym sztopnij nagrowanie)
 
 ##
@@ -75,17 +74,9 @@ about-webrtc-nominated = Nōminowane
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Ôbrane
 about-webrtc-save-page-label = Spamiyntej strōna
-about-webrtc-debug-mode-msg-label = Tryb debugowanio
-about-webrtc-debug-mode-off-state-label = Sztartnij tryb debugowanio
-about-webrtc-debug-mode-on-state-label = Sztopnij tryb debugowanio
-about-webrtc-stats-heading = Statystyki sesyje
 about-webrtc-stats-clear = Wypucuj historyjo
 about-webrtc-log-heading = Protokōł połōnczynio
 about-webrtc-log-clear = Wypucuj protokōł
-about-webrtc-log-show-msg = pokoż protokōł
-    .title = kliknij, coby rozszyrzyć ta sekcyjo
-about-webrtc-log-hide-msg = skryj protokōł
-    .title = kliknij, coby skryć ta sekcyjo
 about-webrtc-log-section-show-msg = Pokoż protokōł
     .title = Kliknij, coby rozszyrzyć ta sekcyjo
 about-webrtc-log-section-hide-msg = Skryj protokōł

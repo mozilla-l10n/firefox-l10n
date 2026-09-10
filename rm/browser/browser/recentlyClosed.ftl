@@ -16,15 +16,3 @@ recently-closed-menu-reopen-all-windows = Reavrir tut las fanestras
 
 recently-closed-panel-reopen-all-tabs = Reavrir tut ils tabs
 recently-closed-panel-reopen-all-windows = Reavrir tut las fanestras
-
-##
-
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [one] { $winTitle } (ed { $tabCount } auter tab)
-       *[other] { $winTitle } (e { $tabCount } auters tabs)
-    }

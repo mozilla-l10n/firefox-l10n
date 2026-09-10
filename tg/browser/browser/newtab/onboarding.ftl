@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Илова кардани «{ $addon-nam
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Пешравӣ: қадами { $current } аз { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -199,11 +193,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Васл кардани «{ -brand-short-name }» ба навори вазифа ва менюи оғоз
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Фаъолияти худро бо браузере, ки аз ҷониби ташкилоти ғайритиҷорӣ дастгирӣ мешавад, оғоз намоед. Вақте ки шумо дар Интернет сайру гашт мекунед, мо махфияти шуморо муҳофизат менамоем.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -233,57 +222,10 @@ mr2022-onboarding-set-default-subtitle = Аз браузере истифода 
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Версияи охирини мо барои ниёзҳои шумо сохта шуда, сайру гашти шуморо дар Интернет осотан мекунад. Ин версия хусусиятҳои наверо дар бар мегирад, ки ба назари мо ба шумо маъқул мешаванд.
 mr2022-onboarding-get-started-primary-button-label = Дар як лаҳза танзим кунед
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Танзими барқрафтор
-mr2022-onboarding-import-subtitle = Браузери «{ -brand-short-name }»-ро ба таври дилхоҳ танзим кунед. Хатбаракҳо, ниҳонвожаҳо ва чизҳои дигари худро аз браузери куҳна илова намоед.
 mr2022-onboarding-import-primary-button-label-no-attribution = Ворид кардани маълумот аз браузери қаблӣ
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Ранги илҳомбахши худро интихоб намоед
-mr2022-onboarding-colorway-subtitle = Садоҳои мустақил метавонанд фарҳанги браузерро тағйир диҳанд.
-mr2022-onboarding-colorway-primary-button-label-continue = Танзим кунед ва идома диҳед
-mr2022-onboarding-existing-colorway-checkbox-label = Бигузор { -firefox-home-brand-name } саҳифаи асосии рангини шумо шавад
-mr2022-onboarding-colorway-label-default = Пешфарз
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Рангҳои ҷории «{ -brand-short-name }»
-mr2022-onboarding-colorway-description-default = <b>Истифода бурдани рангҳои ҷории ман дар «{ -brand-short-name }».</b>
-mr2022-onboarding-colorway-label-playmaker = Бозингар
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Бозингар (сурх)
-mr2022-onboarding-colorway-description-playmaker = <b>Шумо бозингар ҳастед.</b> Шумо барои ғолиб шудан имкониятҳоро фароҳам меоред ва ба ҳар як кас дар атрофи худ барои баланд бардоштани бозии худ кумак мерасонед.
-mr2022-onboarding-colorway-label-expressionist = Экспрессионист
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Экспрессионист (зард)
-mr2022-onboarding-colorway-description-expressionist = <b>Шумо экспрессионист ҳастед.</b> Шумо ҷаҳонро дар рангҳои дигар мебинед ва эҷодиёти шумо ҳиссиёти одамонро ба ҳаяҷон меорад.
-mr2022-onboarding-colorway-label-visionary = Хаёлангез
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Хаёлангез (сабз)
-mr2022-onboarding-colorway-description-visionary = <b>Шумо хаёлангез ҳастед.</b> Шумо ҳолати корҳоро зери шубҳа қарор медиҳед ва дигаронро барои ҳаёл кардани ояндаи беҳтар руҳбаланд мекунед.
-mr2022-onboarding-colorway-label-activist = Фаъол
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Фаъол (кабуд)
-mr2022-onboarding-colorway-description-activist = <b>Шумо фаъол ҳастед.</b> Шумо ҷаҳонро нисбат ба он ҷойе, ки шумо онро пайдо кардед, беҳтар мекунед ва дигаронро роҳбарӣ мекунед, то онҳо ба шумо бовар кунанд.
-mr2022-onboarding-colorway-label-dreamer = Орзуманд
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Орзуманд (лоҷувард)
-mr2022-onboarding-colorway-description-dreamer = <b>Шумо орзуманд ҳастед.</b> Шумо бовар доред, ки бахт ҳамроҳи одами ҷасур мебошад ва дигарон барои ҷасур будан илҳом медиҳад.
-mr2022-onboarding-colorway-label-innovator = Навовар
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Навовар (норинҷӣ)
-mr2022-onboarding-colorway-description-innovator = <b>Шумо навовар ҳастед.</b> Шумо дар ҳама ҷо имкониятҳоро мебинед ва ба ҳаёти ҳар як кас дар атрофи шумо қувва медиҳед.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Аз ноутбук ба телефон гузаред ва боз баргардед
-mr2022-onboarding-mobile-download-subtitle = Варақаҳоро аз як дастгоҳ гирифта, кори худро бо онҳо дар дастгоҳи дигар идома диҳед. Илова бар ин, хатбаракҳо ва ниҳонвожаҳои худро дар ҳар ҷое, ки шумо аз «{ -brand-product-name }» истифода мебаред, ҳамоҳанг кунед.
 mr2022-onboarding-mobile-download-cta-text = Барои ба даст овардани «{ -brand-product-name }» дар телефони мобилии худ, рамзи «QR»-ро аксбардорӣ кунед ё <a data-l10n-name="download-label">пайванди боргириеро ба худ фиристонед.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Барои гирифтани гунаи мобилии «{ -brand-product-name }», рамзи «QR»-ро аксбардорӣ кунед.
 
@@ -336,15 +278,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Дастони равшану сиёҳпӯст ба ҳамдигар даст медиҳанд
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Намоиши ғуруби офтоб аз тиреза бо рӯбоҳ ва растании хонагӣ дар зертахтаи тиреза
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Спрейи дастӣ дар маҷмуи рангини чашми сабз, пойафзоли норанҷӣ, тӯби баскетболи сурх, гӯшмонакҳои арғувон, дили кабуд ва тоҷи зардро ранг мекунад
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Рӯбоҳ дар экрани компютери ноутбук печида ба боло баромад. Ноутбук муш дорад, ки ба он васл карда шудааст.
 onboarding-device-migration-title = Бозгаштатон муборак!
-onboarding-device-migration-subtitle = Барои интиқол додани хатбаракҳо, ниҳонвожаҳо ва таърихи тамошобинии худ ба дастгоҳи нав, ба { -fxaccount-brand-name(capitalization: "sentence") } ворид шавед.
 onboarding-device-migration-subtitle2 = Барои интиқол кардани хатбаракҳо, ниҳонвожаҳо ва таърихи худ ба дастгоҳи нав, ба ҳисоби худ ворид шавед.
 onboarding-device-migration-primary-button-label = Ворид шудан
 
@@ -461,15 +400,12 @@ tab-groups-onboarding-feature-callout-title = Гурӯҳҳои варақаҳо�
 tab-groups-onboarding-feature-callout-subtitle = Барои ба тартиб даровардани чизҳо ва эҷод кардани аввалин гурӯҳи варақаҳои худ, як варақаро кашида, ба варақаи дигар гузоред.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Гурӯҳҳои варақаҳои худро дар «Рӯйхати ҳамаи варақаҳо» дар вақти дилхоҳ пайдо намоед.
-tab-groups-onboarding-create-group-title-2 = Дар ин ҷой гурӯҳҳои варақаҳои худро дар вақти дилхоҳ пайдо намоед.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Гурӯҳҳои худро тавассути ҷустуҷӯи онҳо дар навори нишонӣ пайдо намоед.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Вақте ки шумо гурӯҳи варақаҳои худро мепӯшед, онҳоро дар «Рӯйхати ҳамаи варақаҳо» дар вақти дилхоҳ аз нав кушоед.
-tab-groups-onboarding-saved-groups-title-2 = Вақте ки шумо гурӯҳи варақаҳоеро мепӯшед, шумо метавонед онҳоро дар ин ҷой дар вақти дилхоҳ аз нав кушоед.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Гурӯҳҳои пӯшидаи худро тавассути ҷустуҷӯи онҳо дар навори нишонӣ пайдо намоед.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Гурӯҳҳои варақаҳои худро дар «Рӯйхати ҳамаи варақаҳо» дар вақти дилхоҳ аз нав кушоед.
-tab-groups-onboarding-session-restore-title = Дар ин ҷой гурӯҳҳои варақаҳои худро дар вақти дилхоҳ аз нав кушоед.
 tab-groups-onboarding-dismiss = ХУБ
 
 ## Multi Profiles feature onboarding messages

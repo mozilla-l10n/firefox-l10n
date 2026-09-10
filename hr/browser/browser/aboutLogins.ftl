@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Prijave i lozinke
-about-logins-login-filter =
-    .placeholder = Pretraži prijave
-    .key = F
-create-new-login-button =
-    .title = Stvori novu prijavu
 about-logins-page-title-name = Lozinke
 about-logins-login-filter2 =
-    .placeholder = Pretraži lozinke
     .key = F
+    .placeholder = Pretraži lozinke
 create-login-button =
     .title = Dodaj lozinku
 fxaccounts-sign-in-text = Nabavi lozinke na tvojim drugim uređajima
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Uvezi iz drugog preglednika…
 about-logins-menu-menuitem-import-from-a-file = Uvezi iz datoteke…
-about-logins-menu-menuitem-export-logins = Izvezi prijave…
-about-logins-menu-menuitem-remove-all-logins = Ukloni sve prijave…
 about-logins-menu-menuitem-export-logins2 = Izvezi lozinke…
 about-logins-menu-menuitem-remove-all-logins2 = Ukloni sve lozinke…
 menu-menuitem-preferences =
@@ -42,23 +34,6 @@ about-logins-menu-menuitem-help = Pomoć
 
 login-list =
     .aria-label = Prijave koje odgovaraju upitu
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } prijava
-        [few] { $count } prijave
-       *[other] { $count } prijava
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $count } od { $total } prijave
-        [few] { $count } od { $total } prijava
-       *[other] { $count } od { $total } prijava
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -84,14 +59,10 @@ login-list-username-reverse-option = Korisničko ime (Z-A)
 about-logins-login-list-alerts-option = Upozorenja
 login-list-last-changed-option = Zadnja promjena
 login-list-last-used-option = Zadnji put korišteno
-login-list-intro-title = Nema prijava
 login-list-intro-title2 = Nema spremljenih lozinki
 login-list-intro-description = Kad spremaš lozinku u { -brand-product-name }u, ona će se pojaviti ovdje.
-about-logins-login-list-empty-search-title = Nema prijava
 about-logins-login-list-empty-search-title2 = Nema pronađenih lozinki
 about-logins-login-list-empty-search-description = Nema rezultata koji odgovaraju tvojoj pretrazi.
-login-list-item-title-new-login = Nova prijava
-login-list-item-subtitle-new-login = Upiši svoje podatke za prijavu
 login-list-item-title-new-login2 = Dodaj lozinku
 login-list-item-subtitle-missing-username = (nema korisničkog imena)
 about-logins-list-item-breach-icon =
@@ -107,28 +78,20 @@ about-logins-list-section-week = Zadnjih 7 dana
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Tražiš spremljene prijave? Uključi sinkronizaciju ili ih uvezi.
-about-logins-login-intro-heading-logged-in = Nema sinkroniziranih prijava.
-login-intro-description = Ako su tvoje prijave spremljene u { -brand-product-name }u na jednom drugom uređaju, evo kako ih ovdje možeš preuzeti:
-login-intro-instructions-fxa = Stvori ili prijavi se na svoj { -fxaccount-brand-name } na uređaju gdje su spremljene tvoje prijave.
 about-logins-login-intro-heading-message = Spremite svoje lozinke na sigurno mjesto
 login-intro-description2 = Sve lozinke koje spremiš u { -brand-product-name } se šifriraju. Osim toga, pazimo na curenja lozinki i upozoravamo te ako si pogođen/a. <a data-l10n-name="breach-alert-link">Saznaj više</a>
 login-intro-instructions-fxa2 = Otvori račun ili se prijavi u svoj na uređaju gdje su tvoje prijave spremljene.
 login-intro-instructions-fxa-settings = Idi u Postavke > Sinkronizacija > Uključi sinkronizaciju … Odaberi opciju „Prijave i lozinke”.
 login-intro-instructions-fxa-passwords-help = Posjeti <a data-l10n-name="passwords-help-link">podršku za lozinke</a> za dodatnu pomoć.
-about-logins-intro-browser-only-import = Ako su tvoje prijave spremljene u drugom pregledniku, možeš ih <a data-l10n-name="import-link">uvesti u { -brand-product-name }</a>
-about-logins-intro-import2 = Ako su tvoje prijave spremljene izvan { -brand-product-name(case: "gen") }, možeš ih <a data-l10n-name="import-browser-link">uvesti iz jednog drugog preglednika</a> ili <a data-l10n-name="import-file-link">iz jedne datoteke</a>
 about-logins-intro-import3 = Odaberi gornji znak plus za dodavanje lozinke. Također možeš <a data-l10n-name="import-browser-link">uvesti lozinke iz jednog drugog preglednika</a> ili <a data-l10n-name="import-file-link">iz datoteke</a>.
 
 ## Login
 
-login-item-new-login-title = Stvori novu prijavu
 # Header for adding a password
 about-logins-login-item-new-login-title = Dodaj lozinku
 login-item-edit-button = Uredi
 about-logins-login-item-remove-button = Ukloni
 login-item-origin-label = Adresa web-stranice
-login-item-tooltip-message = Provjeri podudara li se adresa web-stranice na kojoj se prijavljuješ.
 about-logins-origin-tooltip2 = Upiši punu adresu i provjeri da točno odgovara stranici na kojoj se prijavljuješ.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -148,7 +111,6 @@ login-item-password-conceal-checkbox =
     .aria-label = Sakrij lozinku
 login-item-copy-password-button-text = Kopiraj
 login-item-copied-password-button-text = Kopirano!
-login-item-save-changes-button = Spremi promjene
 about-logins-login-item-save-changes-button = Spremi
 login-item-save-new-button = Spremi
 login-item-cancel-button = Odustani
@@ -172,11 +134,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Za uređivanje prijave, upiši svoje podatke za prijavu na Windows. To pomaže zaštiti sigurnost tvojih računa.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = uredi spremljenu prijavu
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -200,11 +157,6 @@ about-logins-copy-password-os-auth-dialog-message-win = Za kopiranje tvoje lozin
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopiraj spremljenu lozinku
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Za izvoz tvojih prijava, upiši svoje podatke za prijavu na Windows. To pomaže zaštiti sigurnost tvojih računa.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = izvezi spremljene prijave i lozinke
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = Za izvoz tvojih lozinki, upiši svoje Windows podatke za prijavu. To pomaže zaštiti sigurnost tvojih računa.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -222,8 +174,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Odustani
 confirmation-dialog-dismiss-button =
     .title = Odustani
-about-logins-confirm-remove-dialog-title = Ukloniti ovu prijavu?
-confirm-delete-dialog-message = Ovo je nepovratna radnja.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Ukloniti lozinku?
 # Message for modal to confirm the removal of one saved password
@@ -239,39 +189,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Ukloni
         [few] Ukloni sve
        *[other] Ukloni sve
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] Da, ukloni ovu prijavu
-        [one] Da, ukloni ovu prijavu
-        [few] Da, ukloni ove prijave
-       *[other] Da, ukloni ove prijave
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] Ukloniti { $count } prijavu?
-        [few] Ukloniti { $count } prijave?
-       *[other] Ukloniti { $count } prijava?
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljenu prijavu i sva upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju nećeš moći poništiti.
-        [one] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljenu prijavu i sva upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju nećeš moći poništiti.
-        [few] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljene prijave i sva upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju nećeš moći poništiti.
-       *[other] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljene prijave i sva upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju nećeš moći poništiti.
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] Ukloniti { $count } prijavu sa svih uređaja?
-        [few] Ukloniti { $count } prijave sa svih uređaja?
-       *[other] Ukloniti { $count } prijava sa svih uređaja?
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [1] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljenu prijavu na svim uređajima koji su sinkronizirani s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju nećeš moći poništiti.
-        [one] Ovo će ukloniti u { -brand-short-name(case: "loc") } spremljenu prijavu na svim uređajima koji su sinkronizirani s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju nećeš moći poništiti.
-        [few] Ovo će ukloniti sve u { -brand-short-name(case: "loc") } spremljene prijave na svim uređajima koji su sinkronizirani s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju nećeš moći poništiti.
-       *[other] Ovo će ukloniti sve u { -brand-short-name(case: "loc") } spremljene prijave na svim uređajima koji su sinkronizirani s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se ovdje pojave. Ovu radnju nećeš moći poništiti.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -314,15 +231,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = Izvezi prijave i lozinke
-about-logins-confirm-export-dialog-message = Vaše lozinke bit će spremljene kao čitljivi tekst (npr. Loš@L0zinka) pa će ih moći vidjeti svi koji mogu otvoriti izvezenu datoteku.
-about-logins-confirm-export-dialog-confirm-button = Izvezi …
 about-logins-confirm-export-dialog-title2 = Napomena o izvozu lozinki
 about-logins-confirm-export-dialog-message2 =
     Kada izvoziš, tvoje se lozinke spremaju u datoteku s čitljivim tekstom.
     Kada završiš koristiti datoteku, preporučujemo da je izbrišeš kako drugi koji koriste ovaj uređaj ne bi mogli vidjeti tvoje lozinke.
 about-logins-confirm-export-dialog-confirm-button2 = Nastavi s izvozom
-about-logins-alert-import-title = Uvoz je dovršen
 about-logins-alert-import-message = Pogledaj detaljni sažetak uvoza
 confirm-discard-changes-dialog-title = Odbaciti nespremljene promjene?
 confirm-discard-changes-dialog-message = Sve nespremljene promjene će se izgubiti.
@@ -359,11 +272,6 @@ about-logins-error-message-default = Došlo je do greške pri pokušaju spremanj
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Izvezi datoteku prijava
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = prijave.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = Izvezi lozinke iz { -brand-short-name(case: "gen") }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -379,8 +287,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = Uvezi datoteku s prijavama
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = Uvezi lozinke u { -brand-short-name }
 about-logins-import-file-picker-import-button = Uvezi
@@ -404,24 +310,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Uvoz je dovršen
-about-logins-import-dialog-items-added =
-    { $count ->
-        [one] <span>Dodane nove prijave:</span> <span data-l10n-name="count">{ $count }</span>
-        [few] <span>Dodane nove prijave:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Dodane nove prijave:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-        [one] <span>Aktualizirane postojeće prijave:</span> <span data-l10n-name="count">{ $count }</span>
-        [few] <span>Aktualizirane postojeće prijave:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Aktualizirane postojeće prijave:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-        [one] <span>Pronađene duple prijave:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
-        [few] <span>Pronađene duple prijave:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
-       *[other] <span>Pronađene duple prijave:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
-    }
 about-logins-import-dialog-items-added2 =
     { $count ->
        *[other] <span>Broj novo dodanih lozinki:</span> <span data-l10n-name="count">{ $count }</span>
@@ -459,15 +347,11 @@ about-logins-import-dialog-error-learn-more = Saznaj više
 about-logins-import-dialog-error-try-import-again = Pokušaj ponovo uvesti …
 about-logins-import-dialog-error-cancel = Odustani
 about-logins-import-report-title = Sažetak uvoza
-about-logins-import-report-description = Prijave i lozinke uvezene u { -brand-short-name }.
 about-logins-import-report-description2 = Lozinke uvezene u { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = { $number }. redak
-about-logins-import-report-row-description-no-change = Duplikat: točno podudaranje postojeće prijave
-about-logins-import-report-row-description-modified = Postojeća prijava je aktualizirana
-about-logins-import-report-row-description-added = Dodana je nova prijava
 about-logins-import-report-row-description-no-change2 = Duplikat: Točno podudaranje postojećeg unosa
 about-logins-import-report-row-description-modified2 = Postojeći unos aktualiziran
 about-logins-import-report-row-description-added2 = Nova lozinka dodana
@@ -484,24 +368,6 @@ about-logins-import-report-row-description-error-missing-field = Greška: nedost
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nova prijava dodana</div>
-        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nove prijave dodane</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novih prijava dodano</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">postojeća prijava je aktualizirana</div>
-        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">postojeće prijave su aktualizirane</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">postojećih prijava je aktualizirano</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikat prijave</div> <div data-l10n-name="not-imported">(nije uvezeno)</div>
-        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikata prijava</div> <div data-l10n-name="not-imported">(nije uvezeno)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikata prijava</div> <div data-l10n-name="not-imported">(nije uvezeno)</div>
-    }
 about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Nova lozinka dodana</div>

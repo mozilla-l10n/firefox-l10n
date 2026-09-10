@@ -23,17 +23,13 @@ neterror-override-exception-button = پذیرش خطر و ادامه
 neterror-pref-reset-button = بازگردانی تنظیمات پیش‌فرض
 neterror-return-to-previous-page-button = برو عقب
 neterror-return-to-previous-page-recommended-button = بازگشت (توصیه شده)
-neterror-try-again-button = تلاش دوباره
 neterror-add-exception-button = همیشه برای این وبگاه ادامه دهید
 neterror-settings-button = تنظیمات DNS را تغییر دهید
 neterror-view-certificate-link = نمایش گواهی
-neterror-trr-continue-this-time = این بار ادامه دهید
-neterror-disable-native-feedback-warning = همیشه ادامه دهید
 
 ##
 
 neterror-pref-reset = به نظر می‌رسد تنظیمات امنیتی شبکه شما ممکن است باعث این شده باشند. آیا می‌خواهید که تنظیمات پیش‌فرض دوباره تنظیم شوند؟
-neterror-error-reporting-automatic = خطاهایی مانند این را گزارش کنید تا به { -vendor-short-name } برای شناسایی و مسدود کردن وبگاه‌های مخرب کمک کنید.
 
 ## Specific error messages
 
@@ -57,25 +53,15 @@ neterror-dns-not-found-hint-firewall = بررسی کنید که { -brand-short-n
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } نمی‌تواند درخواست‌های شما برای نشانی این پایگاه را از طریق حل‌کنندهٔ ساناد معتمد ما محافظت کند. به این دلیل:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } نمی‌تواند درخواست شما برای نشانی این وبگاه را از طریق ارائه‌دهنده DNS ایمن ما محافظت کند. دلایلش اینجا است:
 neterror-dns-not-found-trr-third-party-warning2 = می‌توانید با حل‌کنندهٔ ساناد پیش‌فرض‌تان ادامه دهید. با این حال، ممکن است یک سوم‌شخص قادر به مشاهدهٔ وبگاهی که بازدید می‌کنید باشد.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } قادر به اتصال به { $trrDomain } نیست.
 neterror-dns-not-found-trr-only-timeout = اتصال به { $trrDomain } بیش‌تر از آن‌چه انتظار می‌رفت، طول کشید.
-neterror-dns-not-found-trr-offline = به اینترنت متصل نیستید.
 neterror-dns-not-found-trr-unknown-host2 = این وبگاه توسط { $trrDomain } پیدا نشد.
 neterror-dns-not-found-trr-server-problem = مشکلی با { $trrDomain } است.
 neterror-dns-not-found-bad-trr-url = نشانی اینترنتی نامعتبر است.
 neterror-dns-not-found-system-sleep = سیستم در حالت خواب است.
 neterror-dns-not-found-trr-unknown-problem = مشکل ناگهانی.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } نمی‌تواند درخواست‌های شما برای نشانی این پایگاه را از طریق حل‌کنندهٔ ساناد معتمد ما محافظت کند. به این دلیل:
-neterror-dns-not-found-native-fallback-heuristic = ساناد روی HTTPS روی شبکه‌تان از کار افتاده است.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } قادر به اتصال به { $trrDomain } نیست.
 
 ##
 
@@ -84,8 +70,6 @@ neterror-file-not-found-moved = بررسی کنید که آیا پرونده ج�
 neterror-access-denied = ممکن است حذف،‌ منتقل یا مجوز‌های پرونده از دسترسی به آن جلوگیری می‌کند.
 neterror-unknown-protocol = ممکن است نیاز به نصب برنامهٔ دیگری برای باز نمودن این نشانی داشته باشید.
 neterror-redirect-loop = این مشکل گاهی ممکن است به دلیل از کار انداختن یا خودداری از قبول کلوچک‌ها به وجود بیاید.
-neterror-unknown-socket-type-psm-installed = مطمئن شوید که «مدیریت امنیت شخصی» روی رایانهٔ شما نصب شده باشد.
-neterror-unknown-socket-type-server-config = این اشکال ممکن است از پیکربندی غیر استاندارد کارگزار باشد.
 neterror-not-cached-intro = پرونده درخواستی در حافظه { -brand-short-name } موجود نیست.
 neterror-not-cached-sensitive = برای احتیاط امنیتی بیشتر، { -brand-short-name } دیگر به‌طور خودکار درخواست پرونده‌های حساس نمی‌کند.
 neterror-not-cached-try-again = برای درخواست مجدد پرونده از این سایت، روی دکمه "تلاش دوباره" کلیک کنید.

@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Синхрондау…
 sync-disconnect-dialog-title2 = Байланысты үзу керек пе?
 sync-disconnect-dialog-body = { -brand-product-name } тіркелгіңізді синхрондауды тоқтатады, бірақ, бұл құрылғыда шолу тарихын өшірмейді.
 sync-disconnect-dialog-button = Байланысты үзу
-fxa-signout-dialog2-title = { -fxaccount-brand-name } ішінен шығу керек пе?
 fxa-signout-dialog-title2 = Тіркелгіңізден шығу керек пе?
 fxa-signout-dialog-body = Синхрондалған деректер сіздің тіркелгіңізде қалады.
 fxa-signout-dialog2-button = Шығу
@@ -42,14 +41,6 @@ fxviewtabrow-send-to-mobile-not-verified = Тіркелгі расталмаға
 fxviewtabrow-send-to-mobile-verify-account = Тіркелгіңізді растаңыз
 fxa-menu-send-to-mobile-turn-on-sync = Беттерді жіберу үшін синхронизацияны іске қосыңыз
 fxa-menu-send-to-mobile-connect-device = Беттерді жіберу үшін құрылғыны қосыңыз
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Бетті құрылғыға жіберу
-           *[other] { $tabCount } бетті құрылғыға жіберу
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Құрылғыларды синхрондау…

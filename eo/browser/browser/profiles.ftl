@@ -83,9 +83,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Forigi profilon { $profilename }
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = Ĉu forigi profilon { $profilename }?
 delete-profile-description = { -brand-short-name } definitive forigos la jenajn datumojn en tiu ĉi aparato:
 # Open is an adjective, as in "browser windows currently open".
@@ -112,28 +109,10 @@ delete-profile-confirm = Forigi
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Hela
-# The default dark theme
-profiles-dark-theme = Malhela
 # The default system theme
 profiles-system-theme = Sistemo
 profiles-system-theme-title =
     .title = Apliki sisteman etoson
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = Kalendula flavo
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = Pala lavendo
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = Menta verdo
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = Magnolia rozkoloro
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = Oceana bluo
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = Brika ruĝo
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = Muska verdo
 profiles-gray-theme = Griza
 profiles-gray-theme-title =
     .title = Apliki grizan etoson

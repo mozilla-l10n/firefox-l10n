@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Synchronizuje so…
 sync-disconnect-dialog-title2 = Zwisk dźělić?
 sync-disconnect-dialog-body = { -brand-product-name } přestanje waše konto synchronizować, ale njezhaša přehladowanske daty na tutym graće.
 sync-disconnect-dialog-button = Zwisk dźělić
-fxa-signout-dialog2-title = Z { -fxaccount-brand-name } wotzjewić?
 fxa-signout-dialog-title2 = Wot wašeho konta wotzjewić?
 fxa-signout-dialog-body = Synchronizowane daty we wašim konće wostanu.
 fxa-signout-dialog2-button = Wotzjewić
@@ -47,16 +46,6 @@ fxviewtabrow-send-to-mobile-not-verified = Konto njeje přepruwowane
 fxviewtabrow-send-to-mobile-verify-account = Přepruwujće swoje konto
 fxa-menu-send-to-mobile-turn-on-sync = Zmóžńće synchronizaciju, zo byšće rajtarki pósłał
 fxa-menu-send-to-mobile-connect-device = Zwjazajće grat, zo byšće rajtarki pósłał
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] { $tabCount } rajtark na grat pósłać
-            [two] { $tabCount } rajtarkaj na grat pósłać
-            [few] { $tabCount } rajtarki na grat pósłać
-           *[other] { $tabCount } rajtarkow na grat pósłać
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Graty so synchronizuja…

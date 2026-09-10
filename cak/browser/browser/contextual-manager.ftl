@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Tijik' pa jun Yakb'äl…
 contextual-manager-passwords-command-export = Tik'wäx ewan taq tzij
 contextual-manager-passwords-command-remove-all = Keyuj konojel ri ewan taq tzij
 contextual-manager-passwords-command-options = Taq cha'oj
-contextual-manager-passwords-command-settings = Taq nuk'ulem
 contextual-manager-passwords-command-help = To'ïk
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -125,8 +124,6 @@ contextual-manager-passwords-create-label =
     .label = Titz'aqatisäx ewan tzij
 contextual-manager-passwords-update-label =
     .label = Tik'ex ri ewan tzij
-contextual-manager-passwords-edit-label =
-    .label = Tinuk' ewan tzij
 contextual-manager-passwords-remove-label =
     .title = Tiyuj ri ewan tzij
 contextual-manager-passwords-origin-field =
@@ -164,8 +161,6 @@ contextual-manager-passwords-no-passwords-found-header =
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Ke'ayaka' pa jun jikil k'ojlib'äl ri ewan taq atzij
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header-2 = Ke'ayaka' pa jun jikil k'ojlib'äl ri ewan taq atzij
 

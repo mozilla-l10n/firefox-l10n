@@ -26,22 +26,10 @@ xpinstall-prompt-never-allow =
 xpinstall-prompt-install =
     .label = Ar aghaidh go dtí an tSuiteáil
     .accesskey = A
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = Tá suiteáil bhogearraí díchumasaithe ag riarthóir do chórais.
 xpinstall-disabled = Tá suiteáil bhogearraí díchumasaithe faoi láthair. Cliceáil Cumasaigh agus déan iarracht eile.
 xpinstall-disabled-button =
     .label = Cumasaigh
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = Chuir riarthóir do chórais cosc ar { $addonName } ({ $addonId }).
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = Cuireadh { $addonName } le { -brand-short-name }
@@ -51,9 +39,6 @@ webext-perms-update-menu-item = Ceadanna nua ag teastáil ó { $addonName }
 
 ## Add-on removal warning
 
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Bain { $name } ó { -brand-shorter-name }?
 addon-removal-button = Bain
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
@@ -119,4 +104,3 @@ addon-local-install-error-not-signed = Níorbh fhéidir an breiseán seo a shuit
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Níorbh fhéidir { $addonName } a shuiteáil toisc nach bhfuil sé comhoiriúnach le { -brand-short-name } { $appVersion }.
-addon-install-error-blocklisted = Tá baol mór ann go mbeidh an breiseán { $addonName } ina údar le fadhbanna slándála agus cobhsaíochta, agus ní féidir é a shuiteáil.

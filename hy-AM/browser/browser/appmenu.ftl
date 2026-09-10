@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = Ընդլայնումներ և ոճեր
 appmenuitem-extensions =
     .label = Ընդլայնումներ
-appmenuitem-addons-and-themes =
-    .label = Հավելումներ և ոճեր
 appmenuitem-print =
     .label = Տպել…
 appmenuitem-find-in-page =
@@ -153,7 +151,6 @@ fxa-menu-get-firefox-mobile =
     .label = Ստացեք { -brand-product-name }-ը Android-ի կամ iOS-ի համար
 fxa-menu-secure-sync-subpanel =
     .title = Անվտանգ համաժամեցում
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Հաշիվ
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -175,15 +172,6 @@ appmenuitem-save-page =
     .label = Պահել Էջը որպես…
 appmenuitem-fxa-sync-off-title = Համաժամեցումն անջատված է
 appmenuitem-fxa-sync-off-description = Պաշտպանեք և մատչեք ձեր էջանիշները, գաղտնաբառերը և ավելին ամենուր:
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Ինչն է նոր
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Ծանուցել նոր հնարավորությունների մասին
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -325,8 +313,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Անսարքության տեղեկատվություն
     .accesskey = t
-appmenu-help-report-site-issue =
-    .label = Զեկուցել կայքի խնդրի մասին…
 appmenu-help-share-ideas =
     .label = Կիսվեք գաղափարներով և կարծիքներով…
     .accesskey = S
@@ -392,7 +378,6 @@ appmenuitem-vpn-description5 = Ստացեք լրացուցիչ պաշտպանո�
 appmenuitem-vpn-title-signed-in1 = Ներբեռնել { -mozilla-vpn-brand-name }-ը
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }-ով
 appmenuitem-vpn-description-2 = Ստացեք ամբողջ սարքի պաշտպանություն
-appmenuitem-vpn-description = Պաշտպանեք ձեր առցանց գործունեությունը
 appmenu-services-header = Իմ ծառայությունները
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -402,7 +387,6 @@ appmenu-other-protection-header3 = Գաղտնիության գործիքներ
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Փորձեք այլ պաշտպանության գործիքներ Mozilla-ից՝
-appmenu-other-protection-header = Փորձեք պաշտպանության այլ գործիքներ { -vendor-short-name }-ից.
 
 ## Profiles panel
 

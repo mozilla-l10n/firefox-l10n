@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Verbindungsastellungen
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Verbindungsastellungen
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -51,14 +51,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Nei lueden
     .accesskey = e
-connection-proxy-autologin =
-    .label = Net fir Authentifizéierung froen wann d'Passwuert gespäichert ass
-    .accesskey = i
-    .tooltip = Dës Optioun authentifizéiert Dech bei de Proxyen wann de Login gespäichert ass. Du gëss gefrot wann d'Authentifizéierung feelschléit.
 connection-proxy-autologin-checkbox =
     .label = Net fir Authentifizéierung froen wann d'Passwuert gespäichert ass
-    .accesskey = i
     .tooltiptext = Dës Optioun authentifizéiert Dech bei de Proxyen wann de Login gespäichert ass. Du gëss gefrot wann d'Authentifizéierung feelschléit.
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = Proxy DNS bei Benotzung vun SOCKS v5
     .accesskey = D

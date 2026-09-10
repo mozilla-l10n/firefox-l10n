@@ -25,20 +25,9 @@ account-send-to-all-devices-titlecase = Ուղարկել բոլոր սարքեր
 account-manage-devices-titlecase = Կառավարել սարքերը…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = Կապակցուած սարքեր չկան
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = Իմացէք ուղարկել ներդիրների մասին…
-# Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = Կապակցել այլ սարք…
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Հաշիւը հաստատուած չէ
-account-send-tab-to-device-verify = Հաստատէք Ձեր հաշիւը…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 

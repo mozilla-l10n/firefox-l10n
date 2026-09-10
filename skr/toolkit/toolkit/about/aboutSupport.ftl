@@ -28,10 +28,6 @@ security-software-name = ناں
 security-software-antivirus = اینٹی وائرس
 security-software-antispyware = اینٹی سپائویر
 security-software-firewall = فائروال
-features-title = { -brand-short-name } خاصیتاں
-features-name = ناں
-features-version = ورشن
-features-id = آئی ڈی
 processes-title = پروبھرے عمل
 processes-type = قسم
 processes-count = ڳݨتری
@@ -57,7 +53,6 @@ app-basics-profile-dir =
         [linux] پروفائل ڈائریکٹری
        *[other] پروفائل فولڈر
     }
-app-basics-enabled-plugins = فعال تھئے پلگ ان
 app-basics-build-config = کنفیگریشن اُسارو
 app-basics-user-agent = صارف ایجنٹ
 app-basics-os = OS
@@ -95,9 +90,6 @@ show-dir-label =
 environment-variables-title = ماحولیاتی متغیر
 environment-variables-name = ناں
 environment-variables-value = قدر
-experimental-features-title = تجرباتی خصوصیات
-experimental-features-name = ناں
-experimental-features-value = قدر
 modified-key-prefs-title = اہم ترمیم شدہ ترجیحاں
 modified-prefs-name = ناں
 modified-prefs-value = قدر
@@ -203,9 +195,6 @@ media-cdm-capabilities = صلاحیتاں
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = صاف لیڈ
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = HDCP 2.2 ہم آہنگ
 
 ##
 
@@ -374,8 +363,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = تجربے نال غیرفعال تھیا
-fission-status-experiment-treatment = تجربے نال فعال تھیا
 fission-status-disabled-by-e10s-env = ماحول نال غیرفعال تھیا
 fission-status-enabled-by-env = ماحول نال فعال تھیا
 fission-status-disabled-by-env = ماحول نال غیرفعال تھیا
@@ -384,7 +371,6 @@ fission-status-disabled-by-default = ڈیفالٹ نال غیرفعال تھیا
 fission-status-enabled-by-user-pref = صارف دے ذریعے فعال کیتا ڳیا۔
 fission-status-disabled-by-user-pref = صارف دے ذریعہ غیر فعال
 fission-status-disabled-by-e10s-other = E10s غیر فعال
-fission-status-enabled-by-rollout = مرحلہ وار رول آؤٹ دے ذریعے فعال کیتا ڳیا۔
 async-pan-zoom = غیر مطابقت پذیر پین/زوم
 apz-none = کوئی کائنی
 wheel-enabled = وہیل ان پٹ فعال

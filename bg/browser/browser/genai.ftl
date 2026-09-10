@@ -46,11 +46,6 @@ genai-prompt-prefix-selection = Аз съм на страница „{ $tabTitle
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Попитайте AI чатбота
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Попитайте { $provider }
 genai-menu-open-generic =
     .label = Робот за разговори с ИИ
 # $provider (string) - name of the provider
@@ -98,8 +93,6 @@ genai-menu-no-provider-2 =
 genai-chatbot-title = AI чатбот
 genai-header-provider-menu =
     .title = Изберете чатбот
-genai-header-options-button =
-    .title = Отваряне на меню
 genai-header-close-button =
     .title = Затваряне
 genai-provider-view-details =
@@ -122,7 +115,6 @@ genai-page-button-summarize = Обобщаване на страницата
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Обобщавайте, обмисляйте и още, докато разглеждате
 genai-onboarding-choose-header = Изберете робот за разговори в страничната лента на { -brand-short-name }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Превключвайте по всяко време. За помощ при избора, <a data-l10n-name="learn-more">научете повече за роботите</a>.
@@ -130,45 +122,21 @@ genai-onboarding-primary = Напред
 genai-onboarding-secondary = Затваряне
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Научете повече за Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Научете повече за ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Научете повече за Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Научете повече за Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
-genai-onboarding-huggingchat-learn = Научете повече за HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Научете повече за Le Chat
-genai-onboarding-select-header = Изберете текст, за да видите предложения
-genai-onboarding-select-primary = Започнете разговор
 genai-chatbot-contextual-button = Избор на чатбот
 genai-chatbot-summarize-title = Ново! Обобщавайте страниците с един клик
 genai-chatbot-summarize-button = Обобщаване на страницата
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-provider-subtitle = Кликнете с десния бутон на мишката върху вашия AI чатбот в страничната лента и изберете „Обобщаване на страницата“.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Генериране на текст и код
-genai-onboarding-claude-analyze = Анализиране на документи и изображения
-genai-onboarding-claude-price = Безплатни и платени опции; изисква се профил
-genai-onboarding-chatgpt-generate = Генериране на текст, изображения и код
-genai-onboarding-chatgpt-analyze = Анализиране на документи и изображения
-genai-onboarding-chatgpt-price = Безплатни и платени опции; необходим е профил за някои държави и задачи
-genai-onboarding-gemini-generate = Генериране на текст, изображения и код
-genai-onboarding-gemini-analyze = Анализиране на изображения (безплатно) и документи (платено)
-genai-onboarding-gemini-price = Безплатни и платени опции; изисква се профил
-genai-onboarding-huggingchat-generate = Генериране на текст и код
-genai-onboarding-lechat-generate = Генериране на текст и код
-genai-onboarding-lechat-price = Безплатно е, но се изисква да имате профил
 
 ## Model Optin Component
 
@@ -198,8 +166,8 @@ link-preview-generation-error-unexpected = Нещо се обърка.
 # Text for the retry link when generation fails
 link-preview-generation-retry = Нов опит
 link-preview-settings-enable =
-    .label = Включване на визуализациите на връзки
     .description = Вижте заглавието, описанието и други неща, когато използвате прекия път или щракнете с десен бутон върху връзката.
+    .label = Включване на визуализациите на връзки
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Ново: Щракнете и задръжте върху препратка за бърз преглед
 # Header for the key points section

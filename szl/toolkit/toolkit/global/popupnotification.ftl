@@ -5,6 +5,3 @@
 popup-notification-learn-more = Przewiydz sie wiyncyj
 popup-notification-more-actions-button =
     .aria-label = Wiyncyj akcyjōw
-popup-notification-default-button =
-    .label = OK!
-    .accesskey = O

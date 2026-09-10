@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Itzuli orri hau
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Itzulpena burutzen
 translations-panel-settings-button =
     .aria-label = Kudeatu itzulpenen ezarpenak
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Kudeatu hizkuntzak
-translations-panel-settings-about = { -brand-shorter-name }(e)ko itzulpenei buruz
 translations-panel-settings-about2 =
     .label = { -brand-shorter-name }(e)ko itzulpenei buruz
 # Text displayed for the option to always translate a given language
@@ -91,14 +82,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = Sentitzen dugu, oraindik ez dugu { $language } onartzen.
 translations-panel-error-unsupported-hint-unknown-2 = Sentitzen dugu, oraindik ez dugu itzulpenik onartzen hizkuntza honetatik.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Sentitzen dugu, oraindik ez dugu { $language } onartzen.
-translations-panel-error-unsupported-hint-unknown = Sentitzen dugu, oraindik ez dugu hizkuntza hau onartzen.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -130,10 +113,6 @@ translations-manage-header = Itzulpenak
 translations-manage-settings-button =
     .label = Ezarpenak…
     .accesskey = z
-translations-manage-description = Deskargatu hizkuntzak lineaz kanpoko itzulpenerako.
-translations-manage-all-language = Hizkuntza guztiak
-translations-manage-download-button = Deskargatu
-translations-manage-delete-button = Ezabatu
 translations-manage-intro-2 = Ezarri zure hizkuntza eta guneen itzulpenerako hobespenak eta kudeatu lineaz kanpoko itzulpenerako deskargatuta dauden hizkuntzak.
 translations-manage-download-description = Deskargatu hizkuntzak lineaz kanpoko itzulpenerako
 translations-manage-language-download-button =
@@ -147,12 +126,11 @@ translations-manage-language-remove-all-button =
     .label = Kendu denak
     .accesskey = d
 translations-manage-error-download = Arazo bat gertatu da hizkuntza-fitxategiak deskargatzean. Saiatu berriro mesedez.
-translations-manage-error-delete = Arazo bat gertatu da hizkuntza-fitxategiak ezabatzean. Saiatu berriro mesedez.
 translations-manage-error-remove = Errore bat gertatu da hizkuntza-fitxategiak kentzean. Saiatu berriro mesedez.
 translations-manage-error-list = Huts egin du itzultzeko erabilgarri dauden hizkuntzen zerrenda eskuratzean. Berritu orria eta saiatu berriro.
 translations-settings-title =
-    .title = Itzulpenen ezarpenak
     .style = min-width: 36em
+    .title = Itzulpenen ezarpenak
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Itzulpena automatikoki egingo da ondorengo hizkuntzetarako
@@ -246,16 +224,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = Sentitzen dugu, oraindik ez dugu { $language } onartzen.
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = Sentitzen dugu, oraindik ez dugu itzulpenik onartzen hizkuntza honetatik.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Sentitzen dugu, oraindik ez dugu { $language } onartzen.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Sentitzen dugu, oraindik ez dugu hizkuntza hau onartzen.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Itzulpenen ezarpenak

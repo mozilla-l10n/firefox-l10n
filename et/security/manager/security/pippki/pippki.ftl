@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Sa oled FIPS-režiimis. See eeldab, et sin
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Ülemparooli lähtestamine
     .style = min-width: 40em
+    .title = Ülemparooli lähtestamine
 reset-password-button-label =
     .label = Lähtesta
 reset-primary-password-text = Ülemparooli lähtestamisel unustatakse kõik sinu salvestatud veebi ja e-posti paroolid, isiklikud sertifikaadid ja privaatvõtmed. Kas oled kindel, et soovid ülemparooli lähtestada?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Ülemparool on lähtestatud.
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Sertifikaadi allalaadimine
     .style = min-width: 46em
+    .title = Sertifikaadi allalaadimine
 download-cert-message = Uus sertifitseerimiskeskus (SK) palub end tunnustada.
 download-cert-trust-ssl =
     .label = Usalda seda SK-d veebilehtede tuvastamisel.
@@ -52,8 +52,6 @@ download-cert-view-text = SK sertifikaadi uurimine
 
 client-auth-window =
     .title = Kasutaja tuvastamispäring
-client-auth-site-description = See veebileht palub sul end sertifikaadiga tuvastada:
-client-auth-choose-cert = Vali sertifikaat tuvastamiseks:
 client-auth-cert-details = Valitud sertifikaadi üksikasjad:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

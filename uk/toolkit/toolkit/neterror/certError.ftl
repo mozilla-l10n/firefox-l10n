@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Немає довіри до сертифі�
 cert-error-trust-signature-algorithm-disabled = Немає довіри до сертифіката, бо він був підписаний алгоритмом підпису, котрий відтоді був вимкнений через небезпечність.
 cert-error-trust-expired-issuer = Сертифікат не є довіреним через те, що термін дії сертифіката видавця завершився.
 cert-error-trust-self-signed = Немає довіри до сертифіката, бо він самопідписаний.
-cert-error-trust-symantec = Сертифікати, видані GeoTrust, RapidSSL, Symantec, Thawte та VeriSign, більше не вважаються безпечними, оскільки ці видавці раніше не дотримувалися практики безпеки.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } не довіряє { $hostname }, оскільки не зміг довести його відповідність вимогам прозорості загальнодоступних сертифікатів.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Код помилки: <a data-l10n-name="error-co
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Під час з'єднання з { $hostname } сталася помилка. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Сайти підтверджують свою справжність за допомогою сертифікатів, що видаються центрами сертифікації. Більшість браузерів більше не довіряють сертифікатам, виданим GeoTrust, RapidSSL, Symantec, Thawte та VeriSign. { $hostname } використовує сертифікат від одного з цих видавців, тому справжність вебсайту не може бути засвідчена.
-cert-error-symantec-distrust-admin = Ви можете сповістити про цю проблему адміністратора вебсайту.
 cert-error-old-tls-version = Цей вебсайт може не підтримувати протокол TLS 1.2, що є мінімальною версією, яку підтримує { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,12 +62,10 @@ cert-error-details-hsts-label = Примусове захищене з'єдна�
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Закріплення відкритого ключа HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Ланцюжок сертифіката:
-open-in-new-window-for-csp-or-xfo-error = Відкрити сайт у новому вікні
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Щоб захистити вашу безпеку, { $hostname } не дозволятиме { -brand-short-name } показувати сторінку, якщо її вбудовано на іншому сайті. Щоб побачити цю сторінку, її потрібно відкрити в новому вікні.
 fp-certerror-view-certificate-link = Переглянути сертифікат сайту
-fp-certerror-return-to-previous-page-recommended-button = Назад (рекомендовано)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -104,21 +97,21 @@ fp-certerror-self-signed-important-note = ВАЖЛИВА ПРИМІТКА. Як�
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = Сайти використовують сертифікати, видані центром сертифікації, щоб підтвердити, що вони справді ті, за кого себе видають. { -brand-short-name } не довіряє цьому сайту, оскільки, схоже, що термін дії сертифіката закінчився { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-expired-why-dangerous-body = Сайти використовують сертифікати, видані центром сертифікації, щоб підтвердити, що вони справді ті, за кого себе видають. { -brand-short-name } не довіряє цьому сайту, оскільки, схоже, що термін дії сертифіката закінчився { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = Сайти використовують сертифікати, видані центром сертифікації, щоб підтвердити, що вони справді ті, за кого себе видають. { -brand-short-name } не довіряє цьому сайту, оскільки, схоже, сертифікат не буде дійсним до { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } .
+fp-certerror-not-yet-valid-why-dangerous-body = Сайти використовують сертифікати, видані центром сертифікації, щоб підтвердити, що вони справді ті, за кого себе видають. { -brand-short-name } не довіряє цьому сайту, оскільки, схоже, сертифікат не буде дійсним до { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } .
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = Годинник вашого пристрою встановлено на { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Якщо це правильно, проблема з безпекою, ймовірно, у самому сайті. Якщо це неправильно, ви можете змінити час у системних налаштуваннях свого пристрою.
+fp-certerror-expired-what-can-you-do-body = Годинник вашого пристрою встановлено на { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Якщо це правильно, проблема з безпекою, ймовірно, у самому сайті. Якщо це неправильно, ви можете змінити час у системних налаштуваннях свого пристрою.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Код помилки: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -131,11 +124,11 @@ fp-learn-more-about-time-related-errors = Докладніше про усуне
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } не довіряє цьому сайту, оскільки наданий сертифікат недійсний до { DATETIME($date, timeStyle: "short") } станом на { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } не довіряє цьому сайту, оскільки наданий сертифікат недійсний до { DATETIME($date, timeStyle: "short") } станом на { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Годинник вашого пристрою встановлено на { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Якщо це правильно, проблема з безпекою, ймовірно, у самому сайті. Якщо це неправильно, ви можете змінити час у системних налаштуваннях свого пристрою.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Годинник вашого пристрою встановлено на { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Якщо це правильно, проблема з безпекою, ймовірно, у самому сайті. Якщо це неправильно, ви можете змінити час у системних налаштуваннях свого пристрою.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -169,8 +162,6 @@ deniedPortAccess-title = Звернення до цієї адреси забо�
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Гм. Ніяк не вдається знайти цей сайт.
 internet-connection-offline-title = Схоже, виникла проблема з вашим інтернет-з'єднанням.
-dns-not-found-trr-only-title2 = Ймовірна загроза безпеки під час перегляду на цьому домені
-dns-not-found-native-fallback-title2 = Ймовірна загроза безпеки під час перегляду на цьому домені
 fileNotFound-title = Файл не знайдено
 fileAccessDenied-title = Доступ до файлу заборонено
 generic-title = Ой.
@@ -195,7 +186,6 @@ unknownSocketType-title = Неочікувана відповідь сервер
 nssFailure2-title = Не вдалося встановити захищене з'єднання
 csp-xfo-error-title = { -brand-short-name } не може відкрити цю сторінку
 corruptedContentErrorv2-title = Помилка пошкодженого вмісту
-corruptedContentError-title = Помилка пошкодженого вмісту
 sslv3Used-title = Не вдалося встановити захищене з'єднання
 inadequateSecurityError-title = Ваше з'єднання не захищене
 blockedByPolicy-title = Заблокована сторінка
@@ -218,7 +208,6 @@ fp-certerror-hide-advanced-button = Приховати подробиці
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Перейти до { $hostname } (ризиковано)
 fp-certerror-intro = { -brand-short-name } виявив потенційно серйозну проблему безпеки з <strong>{ $hostname }</strong>. Той, хто видає себе за сайт, може спробувати викрасти дані кредитної картки, паролі чи електронні листи.
 fp-certerror-expired-into = { -brand-short-name } виявив проблему безпеки з <strong>{ $hostname }</strong>. Сайт або годинник вашого пристрою налаштовано неправильно.
 fp-certerror-transparency-intro = Хтось від імені <strong>{ $hostname }</strong> може спробувати викрасти ваші особисті дані, як-от ім'я користувача, пароль або адресу електронної пошти.

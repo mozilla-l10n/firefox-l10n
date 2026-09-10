@@ -18,13 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Bidali gabeko hutsegite-txosten bat daukazu
-       *[other] Bidali gabeko { $reportCount } hutsegite-txosten dauzkazu
-    }
 pending-crash-reports-view-all =
     .label = Ikusi
 pending-crash-reports-send =
@@ -37,13 +30,6 @@ requested-crash-reports-message-new =
     { $reportCount ->
         [one] Bidali gabeko hutsegite-txosten bat duzu ikerketapean dauden hutsegiteekin zerikusia duena. Bidaltzeak { -brand-product-name } hobetzen lagunduko digu. Jakinarazpen hau ixteak txosten hau ezikusiko du.
        *[other] Bidali gabeko { $reportCount } hutsegite-txosten dituzu ikerketapean dauden hutsegiteekin zerikusia dutenak. Bidaltzeak { -brand-product-name } hobetzen lagunduko digu. Jakinarazpen hau ixteak txosten hau ezikusiko du.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Bidali gabeko hutsegite-txosten bat duzu ikerketapean dauden hutsegiteekin bat datorrena. Bidaltzeak { -brand-product-name } hobetzen lagunduko digu. Jakinarazpen hau ixteak txosten hau ezikusiko du.
-       *[other] Bidali gabeko { $reportCount } hutsegite-txosten dituzu ikerketapean dauden hutsegiteekin bat datozenak. Bidaltzeak { -brand-product-name } hobetzen lagunduko digu. Jakinarazpen hau ixteak txosten hau ezikusiko du.
     }
 requested-crash-reports-dont-show-again =
     .label = Ez erakutsi berriro

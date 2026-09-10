@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Mehr von { -vendor-short-name }
 more-from-moz-page-header =
     .heading = Mehr von { -vendor-short-name }
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } für Mobilgeräte
 more-from-moz-firefox-mobile-description = Der mobile Browser, für den Ihre Privatsphäre an erster Stelle steht.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } für Mobilgeräte
 more-from-moz-firefox-mobile =
-    .label = { -brand-product-name } für Mobilgeräte
     .description = Der mobile Browser, bei dem Ihre Privatsphäre an erster Stelle steht.
+    .label = { -brand-product-name } für Mobilgeräte
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Entdecken Sie eine zusätzliche Ebene des anonymen Surfens und Schutzes.
 more-from-moz-qr-code-box-firefox-mobile-title = Laden Sie ihn mit Ihrem Mobilgerät herunter. Richten Sie Ihre Kamera auf den QR-Code. Wenn ein Link angezeigt wird, tippen Sie darauf.
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = { -relay-brand-short-name } holen
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Nehmen Sie Ihre offengelegten persönlichen Daten automatisch zurück.
 more-from-moz-mozilla-monitor-global-description = Erhalten Sie Warnungen, wenn Ihre Daten von einem Leck betroffen sind.
 more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } holen
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name }-KI
 more-from-moz-solo-description = Erstellen Sie Ihre Website im Handumdrehen und verbinden Sie kostenlos Ihre eigene Domain.
 more-from-moz-solo-button = { -solo-ai-brand-name } ausprobieren
 more-from-moz-solo-title-2 = { -solo-ai-brand-name } KI Website-Ersteller
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = Download-Link per E-Mail an Ihr Handy 
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = Finden Sie mit einem kostenlosen Scan heraus, wo Ihre persönlichen Daten im Internet offengelegt wurden.
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = Sichern Sie sich zusätzlichen Schutz für alle Apps – nicht nur für Ihren Browser. Schützen Sie Ihre Daten in öffentlichen WLAN-Netzen und unsicheren Netzwerken.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = Schützen Sie Ihren Posteingang mit kostenloser E-Mail-Maskierung vor Spam.
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = Lernen Sie Webentwicklung mit kostenlosen Anleitungen und Nachschlagewerken.
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = Greifen Sie über eine einzige, schnelle App auf Ihre E-Mails, Kalender und Kontakte zu.
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = Erstellen Sie Ihre Website sofort und verbinden Sie Ihre eigene benutzerdefinierte Domain kostenlos.
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = { -vendor-short-name } neue Produkte
     .description = Entdecken Sie unsere neuesten Ideen und experimentellen Technologien.
+    .label = { -vendor-short-name } neue Produkte
 more-from-moz-mozilla-monitor-box-link =
     .label = Holen Sie sich { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =

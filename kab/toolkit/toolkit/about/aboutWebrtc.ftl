@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Ffer PeerConnections i 
 about-webrtc-aec-logging-msg-label = Asniɣmes AEC
 about-webrtc-aec-logging-off-state-label = Senker asniɣmes AEC
 about-webrtc-aec-logging-on-state-label = Seḥbes asniɣmes AEC
-about-webrtc-aec-logging-on-state-msg = Asniɣmes AEC irmed (meslay kra n tesdatin d unmeɣṛu-inek sakin rken asekles)
 about-webrtc-aec-logging-toggled-on-state-msg = Asniɣmes AEC irmed (meslay kra n tesdatin d unmeɣṛu-inek sakin rken asekles)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -92,17 +91,9 @@ about-webrtc-nominated = Iţusema
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Iţufren
 about-webrtc-save-page-label = Sekles asebter
-about-webrtc-debug-mode-msg-label = Askar n tseɣtit
-about-webrtc-debug-mode-off-state-label = Senker askar n tseɣtit
-about-webrtc-debug-mode-on-state-label = Seḥbes askar n tseɣtit
-about-webrtc-stats-heading = Tiddadanin n tɣimit
 about-webrtc-stats-clear = Sfeḍ azray
 about-webrtc-log-heading = Azray n tuqqna
 about-webrtc-log-clear = Sfeḍ aɣmis
-about-webrtc-log-show-msg = sken azray
-    .title = sit akken ad tesnefliḍ tigezmi-agi
-about-webrtc-log-hide-msg = ffer azray
-    .title = sit akken ad tesnefliḍ tigezmi-agi
 about-webrtc-log-section-show-msg = Sken azray
     .title = Sit akken ad tesnefliḍ tigezmi-agi
 about-webrtc-log-section-hide-msg = Ffer azray
@@ -135,19 +126,11 @@ about-webrtc-remote-candidate = Amzazwar anmeggag
 about-webrtc-raw-candidates-heading = Akk izirigen imazwaren
 about-webrtc-raw-local-candidate = Izirig amzazwar adigan
 about-webrtc-raw-remote-candidate = Izirig amzazwar anmeggag
-about-webrtc-raw-cand-show-msg = sken-d izirigen imazwaren
-    .title = sit akken ad tesnefliḍ tigezmi-agi
-about-webrtc-raw-cand-hide-msg = ffer izirigen imazwaren
-    .title = sit akken ad tesnefliḍ tigezmi-agi
 about-webrtc-raw-cand-section-show-msg = Sken-d izirigen imazwaren
     .title = Sit akken ad tesnefliḍ tigezmi-agi
 about-webrtc-raw-cand-section-hide-msg = Ffer izirigen imazwaren
     .title = Sit akken ad tesnefliḍ tigezmi-agi
 about-webrtc-priority = Tazwart
-about-webrtc-fold-show-msg = Sken aglam leqqayen
-    .title = sit akken ad tesnefliḍ tigezmi-agi
-about-webrtc-fold-hide-msg = Ffer aglam leqqayen
-    .title = sit akken ad tesnefliḍ tigezmi-agi
 about-webrtc-fold-default-show-msg = Sken aglam leqqayen
     .title = Sit akken ad tesnefliḍ tigezmi-agi
 about-webrtc-fold-default-hide-msg = Ffer aglam leqqayen
@@ -188,8 +171,6 @@ about-webrtc-configuration-element-provided = Yettunefk
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Ur yettunefk ara
-# The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Aseqdac yesbadu ismenyifen n WebRTC
 
 ##
 
@@ -213,13 +194,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Tidaddanin n frame n tvidyutin - Asulay n MediaStreamTrack: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = asebter yettwakles di: { $path }
-about-webrtc-debug-mode-off-state-msg = afaylu n lǧeṛṛa yella deg tansa-a : { $path }
-about-webrtc-debug-mode-on-state-msg = askar n tseɣtit irmed, afaylu n lǧeṛṛa yella deg tansa-yagi: { $path }
-about-webrtc-aec-logging-off-state-msg = ifuyla n usniɣmes yettwaṭfen ad ttwafen di: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

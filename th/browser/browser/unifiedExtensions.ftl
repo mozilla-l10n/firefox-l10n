@@ -33,9 +33,6 @@ unified-extensions-item-message-manage = จัดการส่วนขยา
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = { $extensionName } ถูกจำกัด การใช้ส่วนขยายนี้อาจมีความเสี่ยง
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName } ละเมิดนโยบายของ Mozilla การใช้ส่วนขยายนี้อาจมีความเสี่ยง
 
 ## Extension's context menu
 
@@ -54,8 +51,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = ส่วนขยายบางตัวไม่ได้รับอนุญาต
-unified-extensions-mb-quarantined-domain-message = ไซต์นี้อนุญาตเฉพาะส่วนขยายบางตัวที่ตรวจสอบโดย { -vendor-short-name } เท่านั้นเพื่อปกป้องข้อมูลของคุณ
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = ส่วนขยายบางตัวไม่ได้รับอนุญาต
@@ -71,13 +66,6 @@ unified-extensions-mb-blocklist-warning-single2 =
         ส่วนขยายนี้ถูกจำกัดและได้ถูกปิดใช้งานแล้ว
         คุณสามารถเปิดใช้งานส่วนขยายนี้ได้ในการตั้งค่า แต่การทำเช่นนี้อาจมีความเสี่ยง
 # Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } ถูกปิดใช้งาน
-    .message =
-        ส่วนขยายนี้ละเมิดนโยบายของ Mozilla และได้ถูกปิดใช้งาน
-        คุณสามารถเปิดใช้งานได้ในการตั้งค่า แต่การเปิดใช้งานอาจมีความเสี่ยง
-# Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } ถูกปิดใช้งาน
@@ -92,16 +80,6 @@ unified-extensions-mb-blocklist-warning-multiple2 =
     .message =
         มีส่วนขยายบางตัวของคุณถูกจำกัดและได้ถูกปิดใช้งานแล้ว
         คุณสามารถเปิดใช้งานส่วนขยายเหล่านั้นได้ในการตั้งค่า แต่การทำเช่นนี้อาจมีความเสี่ยง
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-           *[other] ส่วนขยาย { $extensionsCount } ตัวถูกปิดใช้งาน
-        }
-    .message =
-        ส่วนขยายบางตัวของคุณได้ถูกปิดใช้งานเนื่องจากละเมิดนโยบายของ Mozilla
-        คุณสามารถเปิดใช้งานได้ในการตั้งค่า แต่การเปิดใช้งานอาจมีความเสี่ยง
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =

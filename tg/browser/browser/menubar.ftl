@@ -251,8 +251,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Профилҳо
 menu-profiles-manage-profiles =
     .label = Идоракунии профилҳо
 menu-profiles-new-profile =
@@ -276,9 +274,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Васеъшавиҳо ва мавзӯъҳо
     .accesskey = В
-menu-tools-addons-and-themes =
-    .label = Ҷузъҳои иловагӣ ва мавзуъҳо
-    .accesskey = Ҷ
 menu-tools-fxa-sign-in2 =
     .label = Ворид шудан
     .accesskey = В
@@ -335,8 +330,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Маълумоти бештар оид ба ислоҳи нуқсонҳо
     .accesskey = М
-menu-help-report-site-issue =
-    .label = Гузориш дар бораи мушкилии сомона…
 menu-help-share-ideas =
     .label = Паҳн кардани фикру ақидаҳо…
     .accesskey = П

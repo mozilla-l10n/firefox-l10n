@@ -94,15 +94,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = सभटा सहयुक्ति सुरक्षित विधि क द्वारा निष्क्रिय कएल गेल अछि.
-extensions-warning-check-compatibility = सहयुक्ति सुसंगतता जाँच निष्क्रिय अछि. अहाँक पास असंगत सहयुक्ति भए सकैत अछि.
-extensions-warning-safe-mode2 =
-    .message = सभटा सहयुक्ति सुरक्षित विधि क द्वारा निष्क्रिय कएल गेल अछि.
 extensions-warning-check-compatibility2 =
     .message = सहयुक्ति सुसंगतता जाँच निष्क्रिय अछि. अहाँक पास असंगत सहयुक्ति भए सकैत अछि.
 extensions-warning-check-compatibility-button = सक्रिय  करू
     .title = सहयुक्ति सुसंगतता जाँच सक्रिय  करू
-extensions-warning-update-security = सहयुक्ति अद्यतन सुरक्षा जाँच निष्क्रिय अछि. अहाँक सुरक्षा अद्यतनक द्वारा संदिग्ध भए सकैत अछि.
 extensions-warning-update-security2 =
     .message = सहयुक्ति अद्यतन सुरक्षा जाँच निष्क्रिय अछि. अहाँक सुरक्षा अद्यतनक द्वारा संदिग्ध भए सकैत अछि.
 extensions-warning-update-security-button = सक्रिय  करू
@@ -153,24 +148,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } असंगत अछि { -brand-short-name } { $version } क सँग.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } असंगत अछि { -brand-short-name } { $version } क सँग.
-details-notification-unsigned-and-disabled = { $name } क { -brand-short-name } मे उपयोग सत्यापित नहि भ सकैत अछि आओर निष्क्रिय कए देल गेल अछि.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } क { -brand-short-name } मे उपयोग सत्यापित नहि भ सकैत अछि आओर निष्क्रिय कए देल गेल अछि.
-details-notification-unsigned-and-disabled-link = अधिक सूचना
-details-notification-unsigned = { -brand-short-name } मे उपयोग कलेल { $name } क सत्यापित नहि कएल जाए सकल. सावधानी केर सँग आगाँ बढ़ू.
 details-notification-unsigned2 =
     .message = { -brand-short-name } मे उपयोग कलेल { $name } क सत्यापित नहि कएल जाए सकल. सावधानी केर सँग आगाँ बढ़ू.
-details-notification-unsigned-link = अधिक सूचना
-details-notification-blocked = { $name } केँ सुरक्षा अथवा स्थायित्व कारण सँ निष्क्रिय कएल गेल अछि.
-details-notification-blocked-link = बेसी  सूचना
-details-notification-softblocked = { $name } सुरक्षा अथवा स्थायित्व कारण केँ पैदा करब क लेल जएनाइ जाएत अछि.
-details-notification-softblocked-link = बेसी  सूचना
-details-notification-gmp-pending = { $name } कनि काल मे संस्थापित कएल जाएत.
 details-notification-gmp-pending2 =
     .message = { $name } कनि काल मे संस्थापित कएल जाएत.
 

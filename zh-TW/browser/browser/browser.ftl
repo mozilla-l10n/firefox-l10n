@@ -2,113 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } 隱私瀏覽模式
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } 隱私瀏覽模式
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — 隱私瀏覽模式
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — 隱私瀏覽模式
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } 隱私瀏覽模式
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
 browser-shortcut-description = 又快又有隱私地上網
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } 隱私瀏覽模式
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } 隱私瀏覽模式
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } 隱私瀏覽模式
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } 隱私瀏覽模式
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } — 隱私瀏覽模式
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — 隱私瀏覽模式
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — 隱私瀏覽模式
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } 隱私瀏覽模式
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -176,8 +74,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = 開啟離線儲存訊息面板
 urlbar-password-notification-anchor =
     .tooltiptext = 開啟儲存密碼訊息面板
-urlbar-plugins-notification-anchor =
-    .tooltiptext = 管理附加元件使用情況
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = 管理您是否要與網站分享攝影機及/或麥克風
 # "Speakers" is used in a general sense that might include headphones or
@@ -190,15 +86,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = 將資料儲存於持續性儲存空間
 urlbar-addons-notification-anchor =
     .tooltiptext = 開啟附加元件安裝訊息面板
-urlbar-tip-help-icon =
-    .title = 取得幫助
 urlbar-search-tips-confirm = 好的，知道了
 urlbar-search-tips-confirm-short = 知道了！
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = 秘訣：
 urlbar-result-menu-button =
     .title = 開啟選單
 urlbar-result-menu-button-feedback = 意見回饋
@@ -243,9 +132,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = 忽略此建議
     .accesskey = D
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = 了解 { -firefox-suggest-brand-name } 的更多資訊
-    .accesskey = L
 urlbar-result-menu-manage-firefox-suggest =
     .label = 管理 { -firefox-suggest-brand-name }
     .accesskey = M
@@ -277,8 +163,6 @@ urlbar-dismissal-acknowledgment-weather = 感謝您的意見回饋，不再會�
 
 urlbar-search-tips-onboard = 打得更少，找到更多：直接從網址列進行 { $engineName } 搜尋。
 urlbar-search-tips-redirect-2 = 在網址列進行搜尋，就可看見由 { $engineName } 及瀏覽紀錄提供的搜尋建議。
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = 搜尋功能變得更簡單了，您可以直接在網址列讓搜尋變得更明確。若要改回顯示網址，請到設定當中的「搜尋」切換。
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = 使用此捷徑，讓您更快找到想要的東西。
@@ -312,8 +196,6 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = 您已封鎖此網站儲存資料至持續性儲存空間。
 urlbar-popup-blocked2 =
     .tooltiptext = 您已封鎖此網站的彈出型視窗與第三方重新導向。
-urlbar-popup-blocked =
-    .tooltiptext = 您封鎖了此網站的彈出型視窗。
 urlbar-autoplay-media-blocked =
     .tooltiptext = 您已封鎖此網站自動播放有聲音的媒體內容。
 urlbar-canvas-blocked =
@@ -424,24 +306,18 @@ quickactions-cmd-addons3 = 擴充套件, 佈景主題, 布景主題, 附加元�
 # Opens preferences page at AI controls
 quickactions-manageai = 管理 AI 控制選項
 quickactions-cmd-manageai = 停用 AI, 關閉 AI, 管理 AI, disable ai, off ai, manage ai
-quickactions-cmd-addons2 = 附加元件, 套件, 外掛, add-ons, addons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = 管理書籤
 quickactions-cmd-bookmarks = 書籤, 我的最愛, bookmarks, favorite, my favorite
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = 清除最近瀏覽記錄
 quickactions-cmd-clearrecenthistory2 = Cookie, 清除 Cookie, 快取, 清除快取, 上網資料, 瀏覽資料, 網頁資料, 網站資料, 清除上網資料, 清除瀏覽資料, 清除網頁資料, 清除網站資料, 瀏覽紀錄, 瀏覽記錄, 歷史紀錄, 歷史記錄, 清除瀏覽紀錄, 清除瀏覽記錄, 清除歷史紀錄, 清除歷史記錄, cookies, clear cookies, cache, clear cache, browsing data, clear browsing data, history, clear recent history
-quickactions-cmd-clearrecenthistory = 清除最近瀏覽記錄, 歷史記錄, 近期記錄, 記錄, 紀錄, clear recent history, history
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = 清除瀏覽記錄
-quickactions-cmd-clearhistory = 清除瀏覽紀錄, clear history
 # Opens about:downloads page
 quickactions-downloads2 = 檢視下載項目
 quickactions-cmd-downloads = 下載項目, 下載, downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = 管理擴充套件
 quickactions-cmd-extensions2 = 擴充套件, 佈景主題, 布景主題, 主題, 附加元件, 套件, 外掛, extensions, addons, add-ons
-quickactions-cmd-extensions = 擴充套件, extensions
 # Opens Firefox View
 quickactions-firefoxview = 開啟 { -firefoxview-brand-name }
 # English is using "view" and "open view", since the feature name is
@@ -460,7 +336,6 @@ quickactions-cmd-colorpicker = 取色器, 挑色器, 拾色器, 顏色選擇器,
 # Opens Firefox Library
 quickactions-cmd-library = 收藏庫
 quickactions-library = 開啟收藏庫
-quickactions-cmd-inspector = 檢測器, 開發工具, inspector, devtools
 # Opens about:logins
 quickactions-logins2 = 管理密碼
 quickactions-cmd-logins = 登入資訊, 密碼, 帳號, logins, passwords
@@ -470,9 +345,6 @@ quickactions-mute = 將正在播放音訊的分頁靜音
 # Replace with idiomatic expressions in your language to silence something or
 # someone.
 quickactions-cmd-mute = 靜音,噓
-# Opens about:addons page in the plugins section
-quickactions-plugins = 管理外掛程式
-quickactions-cmd-plugins = 外掛程式, plugins
 # Opens the print dialog
 quickactions-print2 = 列印頁面
 quickactions-cmd-print = 列印, print
@@ -497,19 +369,16 @@ quickactions-cmd-screenshot2 = 擷圖, 截圖, 擷取, 截取, 快照, screensho
 # Opens about:translations
 quickactions-translate = 翻譯
 quickactions-cmd-translate = 翻譯, translate
-quickactions-cmd-screenshot = 畫面擷圖, 擷圖, screenshot
 # Opens about:preferences
 quickactions-settings2 = 管理設定
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = 設定, 偏好設定, 選項, 管理, settings, preferences, options, manage
-quickactions-cmd-settings = 設定, 偏好設定, 選項, settings, preferences, options
 # Opens about:addons page in the themes section
 quickactions-themes = 管理佈景主題
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-themes2 = 佈景主題, 附加元件, 套件, 外掛, themes, add-ons, addons
-quickactions-cmd-themes = 佈景主題, themes
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = 更新 { -brand-short-name }
 quickactions-cmd-update = 更新, update
@@ -519,7 +388,6 @@ quickactions-cmd-viewsource2 = 原始碼, 檢視原始碼, 源碼, 頁面原始�
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = 開啟 { -firefoxlabs-brand-name }
 quickactions-cmd-labs = 實驗, 實驗室, 測試, 搶先, labs, experiment
-quickactions-cmd-viewsource = 檢視原始碼, 原始碼, view source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = 了解更多快速操作的相關資訊
@@ -576,9 +444,7 @@ identity-custom-root = 連線是由 Mozilla 不認識的憑證簽發者所驗證
 identity-passive-loaded = 本頁面中的部分內容（例如圖片）並不安全。
 identity-active-loaded = 您已停用此頁面中的保護。
 identity-weak-encryption = 此頁面使用了弱強度的加密。
-identity-insecure-login-forms = 在此頁面輸入的登入資訊可能會被洩漏。
 identity-https-only-connection-upgraded = （升級 HTTPS）
-identity-https-only-label = 純 HTTPS 模式
 identity-https-only-label2 = 自動將與此網站的連線升級為安全連線
 identity-https-only-dropdown-on =
     .label = 開啟
@@ -586,8 +452,6 @@ identity-https-only-dropdown-off =
     .label = 關閉
 identity-https-only-dropdown-off-temporarily =
     .label = 暫時關閉
-identity-https-only-info-turn-on2 = 若您想要 { -brand-short-name } 盡可能升級使用安全連線，請對此網站開啟純 HTTPS 模式。
-identity-https-only-info-turn-off2 = 若網頁外觀看起來不正常，您可能會想要針對此網站關閉純 HTTPS 模式，使用不安全的 HTTP 重新載入。
 identity-https-only-info-turn-on3 = 若您想要 { -brand-short-name } 盡可能升級使用安全連線，請對此網站 HTTPS 升級。
 identity-https-only-info-turn-off3 = 若網頁外觀看起來不正常，您可能會想要針對此網站關閉 HTTPS 升級，使用不安全的 HTTP 重新載入。
 identity-https-only-info-no-upgrade = 無法將網站連線從 HTTP 升級。
@@ -611,7 +475,6 @@ identity-remove-cert-exception =
     .label = 移除例外
     .accesskey = R
 identity-description-insecure = 您對此網站的連線並不私密。發送的資訊（像是密碼、訊息、信用卡等等）可能會被其他人看到。
-identity-description-insecure-login-forms = 此頁面並不安全，您的登入資訊可能會被洩漏。
 identity-description-weak-cipher-intro = 您與此網站間的連線使用了弱強度的加密，並不私密。
 identity-description-weak-cipher-risk = 其他人可以看到您的資訊，或修改網站的行為。
 identity-description-active-blocked2 = { -brand-short-name } 已經封鎖此頁面中不安全的部分。
@@ -622,12 +485,6 @@ identity-description-active-loaded = 此網站包含不安全的內容（例如�
 identity-description-active-loaded-insecure = 您提供給此網站的資訊（例如密碼、訊息、信用卡號等等）可能會被其他人看到。
 identity-description-tls-key-logging-heading = 您的連線可能不私密
 identity-description-tls-key-logging-message = 其他應用程式或服務可能會看到您與此網站間的加密傳輸資料。
-identity-disable-mixed-content-blocking =
-    .label = 暫時停止保護
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = 啟用保護
-    .accesskey = E
 identity-more-info-link-text =
     .label = 更多資訊
 
@@ -644,37 +501,6 @@ browser-window-close-button =
 # Clicking this button closes the window and returns to the tab where it was opened from
 browser-window-return-to-opener =
     .tooltiptext = 返回
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = 播放中
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = 靜音
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = 已封鎖自動播放
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = 子母畫面
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] 將分頁靜音
-       *[other] 將 { $count } 個分頁靜音
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] 將分頁取消靜音
-       *[other] 將 { $count } 個分頁取消靜音
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] 播放分頁聲音
-       *[other] 播放 { $count } 個分頁的聲音
-    }
 
 ## Bookmarks toolbar items
 
@@ -715,10 +541,6 @@ sharing-warning-disable-for-session =
 
 webserial-select-port-label = 選擇序列埠：
 webserial-no-ports-available = 無序列埠可以使用
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = 請透過「瀏覽器工具」選單開啟開發者工具，才能使用 F12 快速鍵。
 
 ## URL Bar
 
@@ -783,8 +605,6 @@ urlbar-extension =
     .value = 擴充套件:
 urlbar-go-button2 =
     .title = 按此前往網址列中的網址
-urlbar-go-button =
-    .tooltiptext = 按此前往網址列中的網址
 urlbar-page-action-button =
     .tooltiptext = 頁面操作
 urlbar-revert-button =
@@ -842,11 +662,6 @@ urlbar-result-action-tabtosearch-web = 從網址列直接使用 { $engine } 搜�
 urlbar-result-action-tabtosearch-other-engine = 從網址列直接搜尋 { $engine }
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = 複製
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = 未定義
 # The sub title of an add-on suggestion in the urlbar.
@@ -857,23 +672,6 @@ urlbar-result-mdn-subtitle = { -mdn-brand-name }
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
 urlbar-result-suggestion-recommended = 推薦
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
-# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
-# The last = sign will be shown as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
-# Shows the result of a formula expression being calculated, to a maximum of 9 significant
-# digits. This is used for numbers < 1.
-# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 # The title of a weather suggestion in the urlbar. The temperature and unit
 # substring should be inside a <strong> tag. If the temperature and unit are not
 # adjacent in the localization, it's OK to include only the temperature in the
@@ -1050,32 +848,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - 搜尋{ $localSear
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - 使用 { $engine } 搜尋
-urlbar-searchmode-dropmarker =
-    .tooltiptext = 挑選一套搜尋引擎
-urlbar-searchmode-bookmarks =
-    .label = 書籤
-urlbar-searchmode-tabs =
-    .label = 分頁
-urlbar-searchmode-history =
-    .label = 瀏覽紀錄
-urlbar-searchmode-actions =
-    .label = 動作
-urlbar-searchmode-exit-button =
-    .tooltiptext = 關閉
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = 這次使用下列搜尋引擎搜尋：
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = 搜尋設定
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button2 =
-    .label = { $engine }，挑選一套搜尋引擎
-    .tooltiptext = { $engine }，挑選一套搜尋引擎
-urlbar-searchmode-button-no-engine =
-    .label = 未選擇捷徑，請挑選一個捷徑
-    .tooltiptext = 未選擇捷徑，請挑選一個捷徑
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1182,16 +954,10 @@ urlbar-group-trending =
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = 不要顯示搜尋趨勢
     .accesskey = D
-# Label shown above sponsored suggestions in the urlbar results.
-urlbar-group-sponsored =
-    .label = 贊助項目
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = 不要顯示搜尋趨勢
     .accesskey = D
-urlbar-result-menu-trending-why =
-    .label = 為什麼我會看到這個？
-    .accesskey = W
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = 感謝您的意見回饋，不再會看到熱門搜尋趨勢。
@@ -1276,12 +1042,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] 隱藏書籤工具列
            *[other] 顯示書籤工具列
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] 從工具列移除書籤選單
-           *[other] 在工具列中加入書籤選單
-        }
 
 ##
 
@@ -1312,14 +1072,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = 書籤
-library-recent-activity-title =
-    .value = 近期動態
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = 儲存至 { -pocket-brand-name }
-    .tooltiptext = 儲存至 { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
@@ -1409,8 +1161,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = 使用者名稱
-panel-save-update-password = 密碼
 panel-save-update-username-2 =
     .label = 使用者名稱
 panel-save-update-password-2 =
@@ -1432,33 +1182,18 @@ menu-share-copy-links =
            *[other] 複製 { $count } 個鏈結
         }
     .accesskey = L
-menu-share-copy-link =
-    .label = 複製鏈結
-    .accesskey = L
 ui-tour-info-panel-close =
     .tooltiptext = 關閉
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
-popups-infobar-allow =
-    .label = 允許 { $uriHost } 的彈出型視窗
-    .accesskey = p
-popups-infobar-block =
-    .label = 封鎖 { $uriHost } 的彈出型視窗
-    .accesskey = p
 popups-infobar-allow2 =
     .label = 允許 { $uriHost } 的彈出型視窗與第三方重新導向
     .accesskey = p
 
 ##
 
-popups-infobar-dont-show-message =
-    .label = 擋下彈出型視窗時不顯示此訊息
-    .accesskey = D
-edit-popup-settings =
-    .label = 管理彈出型視窗設定…
-    .accesskey = M
 picture-in-picture-hide-toggle =
     .label = 隱藏子母畫面切換按鈕
     .accesskey = H
@@ -1484,8 +1219,6 @@ navbar-downloads =
     .label = 下載
 navbar-overflow-2 =
     .tooltiptext = 更多工具
-navbar-overflow =
-    .tooltiptext = 更多工具…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1586,13 +1319,8 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = 結束隱私瀏覽階段
-    .tooltiptext = 結束隱私瀏覽階段
 reset-pbm-panel-heading2 = 要清除資料並重新開始隱私瀏覽階段嗎？
 reset-pbm-panel-description2 = 不用關閉隱私瀏覽視窗，即可清除瀏覽紀錄、Cookie 以及所有其他網站資料。
-reset-pbm-panel-heading = 要結束隱私瀏覽階段嗎？
-reset-pbm-panel-description = 將關閉所有隱私分頁，並清除瀏覽紀錄、Cookie 及其他網站資料。
 reset-pbm-panel-always-ask-checkbox =
     .label = 每次都問我
     .accesskey = A
@@ -1602,9 +1330,6 @@ reset-pbm-panel-cancel-button =
 reset-pbm-panel-confirm-button2 =
     .label = 清除隱私瀏覽階段
     .accesskey = l
-reset-pbm-panel-confirm-button =
-    .label = 清除瀏覽階段資料
-    .accesskey = D
 reset-pbm-panel-complete = 已刪除瀏覽階段資料
 reset-pbm-toolbar-button2 =
     .label = 清除隱私瀏覽階段

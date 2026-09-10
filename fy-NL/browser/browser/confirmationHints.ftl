@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Rapport ferstjoerd. Tige tank!
-confirmation-hint-login-removed = Oanmelding fuortsmiten!
 confirmation-hint-password-removed = Wachtwurd fuortsmiten!
 confirmation-hint-page-bookmarked = Bewarre as blêdwizer
-confirmation-hint-password-saved = Wachtwurd bewarre!
 confirmation-hint-password-created = Wachtwurd bewarre
 confirmation-hint-password-updated = Wachtwurd bywurke
 confirmation-hint-address-created = Adres bewarre

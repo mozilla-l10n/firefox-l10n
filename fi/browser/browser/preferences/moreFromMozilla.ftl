@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Lisää { -vendor-short-name(case: "ablative") }
 more-from-moz-page-header =
     .heading = Lisää { -vendor-short-name }lta
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name }in mobiiliversio
 more-from-moz-firefox-mobile-description = Mobiiliselain, joka asettaa yksityisyytesi etusijalle.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } mobiililaitteille
 more-from-moz-firefox-mobile =
-    .label = { -brand-product-name } mobiililaitteille
     .description = Yksityisyytesi etusijalle asettava mobiiliselain.
+    .label = { -brand-product-name } mobiililaitteille
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Löydä lisätty taso anonyymiä selaamista ja suojausta.
 more-from-moz-qr-code-box-firefox-mobile-title = Lataa mobiililaitteellasi. Suuntaa kamerasi QR-koodiin. Kun linkki tulee näkyviin, napauta sitä.
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = Hanki { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Ota vuotaneet henkilötietosi automaattisesti takaisin.
 more-from-moz-mozilla-monitor-global-description = Vastaanota hälytyksiä, kun tietosi ovat joutuneet osaksi tietovuotoa.
 more-from-moz-mozilla-monitor-button = Hanki { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Luo verkkosivusto välittömästi ja yhdistä oma verkkotunnuksesi ilmaiseksi.
 more-from-moz-solo-button = Kokeile { -solo-ai-brand-name }a
 
@@ -76,26 +73,26 @@ more-from-moz-firefox-mobile-email-link = Lähetä latauslinkki sähköpostitse 
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = Tarkista missä henkilökohtaiset tietosi ovat paljastuneet verkossa ilmaisella tarkistuksella.
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = Lisäkerros suojausta kaikille sovelluksille — ei vain selaimelle. Pidä tietosi suojattuna julkisissa langattomissa verkoissa ja ei-turvallisissa verkoissa.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = Suojaa postilaatikkoasi roskapostilta ilmaisella sähköpostimaskilla.
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = Opi web-sovelluskehiystä ilmaisten ohjeiden ja viitteiden avulla.
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = Käytä sähköpostia, kalentereita ja yhteystietoja yhdessä nopeassa sovelluksessa.
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = Luo verkkosivusto hetkessä ja yhdistä omavalintainen verkkotunnus veloituksetta.
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = { -vendor-short-name }n uudet tuotteet
     .description = Tutki uusimpia ideoita ja kokeellisia teknologioita.
+    .label = { -vendor-short-name }n uudet tuotteet
 more-from-moz-mozilla-monitor-box-link =
     .label = Hanki { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =

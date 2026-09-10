@@ -13,4 +13,3 @@ about-reader-font-type-sans-serif = Sans-serif
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = O‘qish ko‘rinishini yopish
-about-reader-toolbar-type-controls = Boshqaruvlar turi

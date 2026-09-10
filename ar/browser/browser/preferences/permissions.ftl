@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = الاستثناءات
     .style = min-width: 45em
+    .title = الاستثناءات
 permissions-close-key =
     .key = w
 permissions-address = عنوان موقع وِب
@@ -80,15 +80,15 @@ permissions-invalid-uri-label = رجاءً أدخل اسم مستضيف صالح
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = استثناءات الحماية الموسّعة من التعقب
     .style = { permissions-window2.style }
+    .title = استثناءات الحماية الموسّعة من التعقب
 permissions-exceptions-manage-etp-desc = يمكنك تحديد أي مواقع أوقفت الحماية الموسّعة من التعقب. اكتب عنوان الموقع الذي تريد إدارته بدقة ثم انقر أضف إستثناء.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = الاستثناءات - الكعكات و بيانات المواقع
     .style = { permissions-window2.style }
+    .title = الاستثناءات - الكعكات و بيانات المواقع
 permissions-exceptions-cookie-desc = يمكنك تحديد المواقع التي يُسمح لها دائمًا أو لا يُسمح أبدًا باستخدام الكعكات و بيانات الموقع.  اكتب عنوان الموقع الذي تريد إدارته بدقة ثم انقر فوق ”احجب“، أو ”اسمح لهذه لجلسة“، أو ”اسمح“.
 
 ## Exceptions - Clear on Shutdown
@@ -98,58 +98,43 @@ permissions-exceptions-shutdown-clearing-desc = يمكنك تحديد الموا
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = الاستثناءات - وضع HTTPS فقط
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = يمكنك تعطيل وضع HTTPS فقط لمواقع بعينها. لن يحاول { -brand-short-name } ترقية الاتصال لتأمين HTTPS لهذه المواقع. لا تطبق الاستثناءات على النوافذ الخاصة.
+    .title = الاستثناءات - وضع HTTPS فقط
 permissions-exceptions-https-only-desc2 = يمكنك تعطيل وضع HTTPS فقط لمواقع بعينها. لن يحاول { -brand-short-name } ترقية الاتصال لتأمين HTTPS لهذه المواقع.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
     .title = المواقع المسموح بها - النوافذ المنبثقة وعمليات إعادة التوجيه من جهات خارجية
-    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = يمكنك تحديد المواقع الإلكترونية المسموح لها بفتح نوافذ منبثقة وإعادة التوجيه إليها بواسطة إطارات تابعة لجهات خارجية.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = مواقع الوِب المسموح لها - نوافذ منبثقة
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = يمكنك تحديد أي مواقع يسمح لها بفتح نوافذ منبثقة . اكتب عنوان الموقع الذي تريد إدارته ثم انقر اسمح.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = الاستثناءات - جلسات الولوج المحفوظة
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = لن تُحفظ جلسات الولوج لمواقع الوِب الآتية
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = الاستثناءات - كلمات السر المحفوظة
     .style = { permissions-window2.style }
+    .title = الاستثناءات - كلمات السر المحفوظة
 permissions-exceptions-saved-passwords-desc = لن يحفط { -brand-short-name } كلمات السر للمواقع المدرجة هنا.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = مواقع الوِب المسموح لها - تثبيت الإضافات
     .style = { permissions-window2.style }
+    .title = مواقع الوِب المسموح لها - تثبيت الإضافات
 permissions-exceptions-addons-desc = يمكنك تحديد أي مواقع يسمح لها بتثبيت إضافات. اكتب العنوان الكامل للموقع الذي تريد السماح له و اضغط اسمح.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = الإعدادات - التشغيل التلقائي
     .style = { permissions-window2.style }
+    .title = الإعدادات - التشغيل التلقائي
 permissions-site-autoplay-desc = يمكنك من هنا إدارة المواقع التي لا تتوافق مع الإعدادات المبدئية للتشغيل التلقائي.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = الإعدادات - تصاريح الإشعارات
     .style = { permissions-window2.style }
+    .title = الإعدادات - تصاريح الإشعارات
 permissions-site-notification-desc = طلبت المواقع الآتية إرسال الإشعارات. يمكنك تحديد أي المواقع مسموح لها إرسال الإشعارات، ويمكنك أيضًا حجب الطلبات الجديدة التي تطلب السماح الإشعارات.
 permissions-site-notification-disable-label =
     .label = احجب الطلبات الجديدة التي تطلب السماح الإشعارات
@@ -158,8 +143,8 @@ permissions-site-notification-disable-desc = سيمنع هذا مواقع الو
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = الإعدادات - تصاريح المكان
     .style = { permissions-window2.style }
+    .title = الإعدادات - تصاريح المكان
 permissions-site-location-desc = طلبت المواقع الآتية معرفة مكانك. يمكنك تحديد أي المواقع مسموح لها معرفة مكانك، ويمكنك أيضًا حجب الطلبات الجديدة التي تطلب معرفة مكانك.
 permissions-site-location-disable-label =
     .label = احجب الطلبات الجديدة التي تطلب معرفة مكاني
@@ -168,8 +153,8 @@ permissions-site-location-disable-desc = سيمنع هذا مواقع الوب �
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = الإعدادات - تصاريح الواقع الافتراضي
     .style = { permissions-window2.style }
+    .title = الإعدادات - تصاريح الواقع الافتراضي
 permissions-site-xr-desc = طلبت المواقع الآتية الوصول إلى أجهزة الواقع الافتراضي عندك. يمكنك تحديد أي المواقع مسموح لها الوصول إلى تلك الأجهزة، ويمكنك أيضًا حجب الطلبات الجديدة التي تطلب الوصول إلى تلك الأجهزة عندك.
 permissions-site-xr-disable-label =
     .label = احجب الطلبات الجديدة التي تطلب الوصول إلى أجهزة الواقع الافتراضي عندك
@@ -178,8 +163,8 @@ permissions-site-xr-disable-desc = سيمنع هذا مواقع الوب غير 
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = الإعدادات - تصاريح الكمرة
     .style = { permissions-window2.style }
+    .title = الإعدادات - تصاريح الكمرة
 permissions-site-camera-desc = طلبت المواقع الآتية استخدام الكمرة. يمكنك تحديد أي المواقع مسموح لها استخدام الكمرة، ويمكنك أيضًا حجب الطلبات الجديدة التي تطلب استخدام الكمرة.
 permissions-site-camera-disable-label =
     .label = احجب الطلبات الجديدة التي تطلب استخدام الكمرة
@@ -188,8 +173,8 @@ permissions-site-camera-disable-desc = سيمنع هذا مواقع الوب غ�
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = الإعدادات - تطبيقات وخدمات الجهاز
     .style = { permissions-window2.style }
+    .title = الإعدادات - تطبيقات وخدمات الجهاز
 permissions-site-localhost-desc = طلبت هذه المواقع الإلكترونية الوصول إلى التطبيقات والخدمات الموجودة على هذا الجهاز. يمكنك اختيار السماح لهذه المواقع أو حظرها من القيام بذلك.
 permissions-site-localhost-disable-label =
     .label = احظر الطلبات الجديدة للوصول إلى التطبيقات والخدمات على هذا الجهاز
@@ -198,8 +183,8 @@ permissions-site-localhost-disable-desc = سيمنع هذا الإجراء أي 
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = الإعدادات - أجهزة الشبكة المحلية
     .style = { permissions-window2.style }
+    .title = الإعدادات - أجهزة الشبكة المحلية
 permissions-site-local-network-desc = طلبت هذه المواقع الإلكترونية الوصول إلى التطبيقات والخدمات الموجودة على الأجهزة المتصلة بشبكة واي فاي أو الشبكة المحلية. يمكنك اختيار السماح لهذه المواقع أو حظرها من القيام بذلك.
 permissions-site-local-network-disable-label =
     .label = احظر الطلبات الجديدة للوصول إلى التطبيقات والخدمات على الأجهزة المتصلة بشبكة واي فاي أو شبكتك المحلية.
@@ -208,8 +193,8 @@ permissions-site-local-network-disable-desc = سيمنع هذا أي موقع و
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = الإعدادات - تصاريح الميكروفون
     .style = { permissions-window2.style }
+    .title = الإعدادات - تصاريح الميكروفون
 permissions-site-microphone-desc = طلبت المواقع الآتية استخدام الميكروفون. يمكنك تحديد أي المواقع مسموح لها استخدام الميكروفون، ويمكنك أيضًا حجب الطلبات الجديدة التي تطلب استخدام الميكروفون.
 permissions-site-microphone-disable-label =
     .label = احجب الطلبات الجديدة التي تطلب استخدام الميكروفون
@@ -220,12 +205,12 @@ permissions-site-microphone-disable-desc = سيمنع هذا مواقع الوب
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = الإعدادات - تصاريح السماعة
     .style = { permissions-window2.style }
+    .title = الإعدادات - تصاريح السماعة
 permissions-site-speaker-desc = طلبت المواقع الآتية إختيار جهاز خرج صوتي. يمكنك تحديد أي مواقع يسمح لها باختيار جهاز خرج صوت.
 permissions-exceptions-doh-window =
-    .title = استثناءات مواقع الويب لنظام DNS عبر HTTPS
     .style = { permissions-window2.style }
+    .title = استثناءات مواقع الويب لنظام DNS عبر HTTPS
 permissions-exceptions-manage-doh-desc = لن يستخدم { -brand-short-name } DNS آمن في هذه المواقع و مجالاتها الفرعية.
 permissions-doh-entry-field = أدخل اسم نطاق الموقع
     .accesskey = خ

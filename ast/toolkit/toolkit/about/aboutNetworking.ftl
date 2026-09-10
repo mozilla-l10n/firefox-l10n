@@ -30,7 +30,3 @@ about-networking-logging = Rexistru
 about-networking-dns-lookup-button = Resolver
 about-networking-dns-domain = Dominiu:
 about-networking-dns-lookup-table-column = IPs
-about-networking-rcwn-status = Estáu de RCWN
-about-networking-rcwn-operation = Operación de la caché
-about-networking-rcwn-avg-short = Media curtia
-about-networking-rcwn-avg-long = Media llarga

@@ -92,11 +92,5 @@ download-utils-time-left-single = { $time } باقی‌مانده
 download-utils-time-left-double = { $time1 } { $time2 } باقی‌مانده
 download-utils-time-few-seconds = چند ثانیه باقی‌مانده
 download-utils-time-unknown = زمان باقی‌مانده نامعلوم است
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = { $scheme } منبع
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = پروندهٔ محلی
 # Displayed time for files finished yesterday
 download-utils-yesterday = دیروز

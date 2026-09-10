@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Certifikat njejo dowěry gódny, dokulaž wu
 cert-error-trust-signature-algorithm-disabled = Toś ten certifikat njejo dowěry gódny, dokulaž jo se ze signěrowańskim algoritmusom signěrował, kótaryž jo se znjemóžnił, dokulaž algoritmus njejo wěsty.
 cert-error-trust-expired-issuer = Certifikat njejo dowěry gódny, dokulaž wudawarski certifikat jo pśepadnjony.
 cert-error-trust-self-signed = Certifikat njejo dowěry gódny, dokulaž jo se sam pódpisał.
-cert-error-trust-symantec = Certifikaty, kótarež GeoTrust, RapidSSL, Symantec, Thawte a VeriSign su wudali wěcej za wěste njamaju, dokulaž toś te certificěrowanišća w zajźonosći njejsu se źaržali za wěstotnymi pócynkami.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } { $hostname } njedowěrja, dokulaž njejo mógał dopokazaś, až pominanja transparence za zjawne certifikaty docynja.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Zmólkowy kod: <a data-l10n-name="error-code-link"
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Pśi zwězowanju z { $hostname } jo zmólka nastała. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Websedła swóju identitu pśez certifikaty dopokazuju, kótarež certificěrowanišća wudawaju. Nejwěcej wobglědowakow certifikatam wěcej njedowěrje, kótarež GeoTrust, RapidSSL, Symantec, Thawte a VeriSign su wudali. { $hostname } certifikat jadnogo z toś tych certificěrowanišćow wužywa a togodla njedajo se identita websedła dopokazaś.
-cert-error-symantec-distrust-admin = Snaź cośo administratora websedła wó toś tom problemje informěrowaś.
 cert-error-old-tls-version = Toś to websedło snaź protokolTLS 1.2 njepódpěra, kótaryž jo minimalna wersija, kótaruž { -brand-short-name } pódpěra.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Certifikatowy rjeśaz:
-open-in-new-window-for-csp-or-xfo-error = Sedło w nowem woknje wócyniś
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Aby swóju wěstotu šćitał, { $hostname } { -brand-short-name } njedowólijo, bok pokazaś, jolic jo zasajźony w drugem sedle. Aby toś ten bok wiźeł, musyśo jen w nowem woknje wócyniś.
 fp-certerror-view-certificate-link = Certifikat sedła pokazaś
 fp-certerror-return-to-previous-page-recommended-button-2 = Slědk (dopórucony)
     .accesskey = S
-fp-certerror-return-to-previous-page-recommended-button = Slědk (dopórucony)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -106,21 +99,21 @@ fp-certerror-self-signed-important-note = WAŽNA POKAZKA: Jolic wopytujośo, se 
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = Sedła certifikaty wužywaju, kótarež su se wudali wót certifikatoweje awtority, aby dopokazali, až wóni napšawdu te su, za kótarež se wudawaju. { -brand-short-name } toś tomu sedłoju njedowěrja, dokulaž se zda, až certifikat jo spadnuł dnja { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-expired-why-dangerous-body = Sedła certifikaty wužywaju, kótarež su se wudali wót certifikatoweje awtority, aby dopokazali, až wóni napšawdu te su, za kótarež se wudawaju. { -brand-short-name } toś tomu sedłoju njedowěrja, dokulaž se zda, až certifikat jo spadnuł dnja { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = Sedła certifikaty wužywaju, kótarež su se wudali wót certifikatoweje awtority, aby dopokazali, až wóni napšawdu te su, za kótarež se wudawaju. { -brand-short-name } toś tomu sedłoju njedowěrja, dokulaž se zda, až certifikat njebuźo płaśiwy až do dnja { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-not-yet-valid-why-dangerous-body = Sedła certifikaty wužywaju, kótarež su se wudali wót certifikatoweje awtority, aby dopokazali, až wóni napšawdu te su, za kótarež se wudawaju. { -brand-short-name } toś tomu sedłoju njedowěrja, dokulaž se zda, až certifikat njebuźo płaśiwy až do dnja { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = Zeger wašogo rěda jo na { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } stajony. Jolic to jo korektne, ma wěstotny problem nejskerjej ze sedłom samym cyniś. Jolic jo wopacny, móžośo to w swójich systemowych nastajenjach změniś.
+fp-certerror-expired-what-can-you-do-body = Zeger wašogo rěda jo na { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } stajony. Jolic to jo korektne, ma wěstotny problem nejskerjej ze sedłom samym cyniś. Jolic jo wopacny, móžośo to w swójich systemowych nastajenjach změniś.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Zmólkowy kod: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -133,11 +126,11 @@ fp-learn-more-about-time-related-errors = Zgóńśo wěcej wó rozwězowanju na 
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } toś tomu sedłoju njedowěrja, dokulaž se zda, až pódany certifikat njejo płaśiwy až do { DATETIME($date, timeStyle: "short") } dnja { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } toś tomu sedłoju njedowěrja, dokulaž se zda, až pódany certifikat njejo płaśiwy až do { DATETIME($date, timeStyle: "short") } dnja { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Zeger wašogo rěda jo na { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } stajony. Jolic to jo korektne, ma wěstotny problem nejskerjej ze sedłom samym cyniś. Jolic jo wopacny, móžośo to w swójich systemowych nastajenjach změniś.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Zeger wašogo rěda jo na { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } stajony. Jolic to jo korektne, ma wěstotny problem nejskerjej ze sedłom samym cyniś. Jolic jo wopacny, móžośo to w swójich systemowych nastajenjach změniś.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -179,8 +172,6 @@ deniedPortAccess-title = Toś ta adresa jo wobgranicowana
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hm. Mamy problemy, to sedło namakaś.
 internet-connection-offline-title = Zda se, až dajo problem z wašym internetnym zwiskom.
-dns-not-found-trr-only-title2 = Móžne wěstotne riziko pśi glědanju za toś teju domenu
-dns-not-found-native-fallback-title2 = Móžne wěstotne riziko pśi glědanju za toś teju domenu
 fileNotFound-title = Dataja njejo se namakała
 fileAccessDenied-title = Pśistup k dataji jo se wótpokazał
 generic-title = Hopla.
@@ -205,7 +196,6 @@ unknownSocketType-title = Njewótčakane wótegrono ze serwera
 nssFailure2-title = Wěsty zwisk njejo móžny
 csp-xfo-error-title = { -brand-short-name } njamóžo toś ten bok wócyniś
 corruptedContentErrorv2-title = Zmólka - wobškóźone wopśimjeśe
-corruptedContentError-title = Zmólka - wobškóźone wopśimjeśe
 sslv3Used-title = Wěsty zwisk njejo móžny
 inadequateSecurityError-title = Waš zwisk njejo wěsty
 blockedByPolicy-title = Zablokěrowany bok
@@ -228,7 +218,6 @@ fp-certerror-hide-advanced-button = Rozšyrjone schowaś
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Dalej k { $hostname } (riskantny)
 fp-certerror-intro = { -brand-short-name } jo namakał potencielnje śěžki wěstotny problem z <strong>{ $hostname }</strong>. Něchten, kótaryž twarźi, až toś to sedło wěcy ako informacije kreditowych kórtow, gronidła abo e-mailowe adrese kšadnjo.
 fp-certerror-expired-into = { -brand-short-name } jo namakał potencielnje śěžki wěstotny problem z <strong>{ $hostname }</strong>. Pak sedło njejo korektnje konfigurěrowane pak zeger wašogo rěda jo na wopacny datum/cas stajony.
 fp-certerror-transparency-intro = Něchten, kótaryž wudawa, až jo <strong>{ $hostname }</strong>, mógał wěcy ako waše informacije kreditoweje kórty, gronidła abo e-mailowe adrese kšadnuś.

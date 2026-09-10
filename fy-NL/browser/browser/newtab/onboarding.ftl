@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = { $addon-name } tafoegje
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Fuortgong: stap { $current } fan { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -199,11 +193,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = { -brand-short-name } oan taakbalke en it startmenu fêstmeitsje
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Start mei in browser stipe troch in non-profit. Wy ferdigenje jo privacy wylst jo sneupe op it ynternet.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -233,57 +222,10 @@ mr2022-onboarding-set-default-subtitle = Brûk in browser stipe troch in non-pro
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Us lêste ferzje is om jo hinne boud, wêrtroch it makliker is dan ea om op it web te sneupen. It is fol mei funksjes wêrfan wy tinke dat jo se wurdearje sille.
 mr2022-onboarding-get-started-primary-button-label = Ynstelle yn in pear tellen
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Bliksemfluch ynstelle
-mr2022-onboarding-import-subtitle = Stel { -brand-short-name } yn sa as jo dat graach wolle. Foegje jo blêdwizers, wachtwurden en mear ta fan jo âlde browser.
 mr2022-onboarding-import-primary-button-label-no-attribution = Ymportearje út foarige browser
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Kies de kleur dy’t jo ynspirearret
-mr2022-onboarding-colorway-subtitle = Unôfhinklike stimmen kinne kultuer feroarje.
-mr2022-onboarding-colorway-primary-button-label-continue = Ynstelle en trochgean
-mr2022-onboarding-existing-colorway-checkbox-label = Meitsje fan { -firefox-home-brand-name } jo kleurrike startside
-mr2022-onboarding-colorway-label-default = Standert
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Aktuele { -brand-short-name }-kleuren
-mr2022-onboarding-colorway-description-default = <b>Myn aktuele { -brand-short-name }-kleuren brûke.</b>
-mr2022-onboarding-colorway-label-playmaker = Spulmakker
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Spulmakker (read)
-mr2022-onboarding-colorway-description-playmaker = <b>Jo binne in spulmakker.</b> Jo meitsje kânsen om te winnen en helpe elkenien om jo hinne har spultsje te ferbetterjen.
-mr2022-onboarding-colorway-label-expressionist = Ekspresjonist
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Ekspresjonist (giel)
-mr2022-onboarding-colorway-description-expressionist = <b>Jo binne in ekspresjonist.</b> Jo sjogge de wrâld oars en jo kreaasjes reitsje de emoasjes fan oaren.
-mr2022-onboarding-colorway-label-visionary = Fisjonêr
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Fisjonêr (grien)
-mr2022-onboarding-colorway-description-visionary = <b>Jo binne in fisjonêr.</b> Jo twivelje oan de status-quo en stimulearje oaren om harren in bettere takomst foar te stellen.
-mr2022-onboarding-colorway-label-activist = Aktivist
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Aktivist (blau)
-mr2022-onboarding-colorway-description-activist = <b>Jo binne in aktivist.</b> Jo litte de wrâld moaier efter dan jo it fûn ha en lit oaren leauwe.
-mr2022-onboarding-colorway-label-dreamer = Dreamer
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Dreamer (pears)
-mr2022-onboarding-colorway-description-dreamer = <b>Jo binne in dreamer.</b> Jo leauwe dat gelok de dappere favoryt is en oaren ynspirearret om dapper te wêzen.
-mr2022-onboarding-colorway-label-innovator = Ynnovator
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Ynnovator (oranje)
-mr2022-onboarding-colorway-description-innovator = <b>Jo binne in ynnovator.</b> Jo sjogge oeral kânsen en hawwe ynfloed op it libben fan elkenien om jo hinne.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Wikselje fan laptop nei telefoan en wer werom
-mr2022-onboarding-mobile-download-subtitle = Pak ljepblêden fan ien apparaat en gean fierder wêr’t jo op in oar bleaun binne. Syngronisearje jo blêdwizers en wachtwurden ek oeral wêr’t jo { -brand-product-name } brûke.
 mr2022-onboarding-mobile-download-cta-text = Scan de QR-koade om { -brand-product-name } foar mobyl te krijen of <a data-l10n-name="download-label">stjoer josels in downloadkeppeling.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Scan de QR-koade om { -brand-product-name } op mobyl te downloaden.
 
@@ -336,15 +278,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Lichte en donkere hannen dogge in high five
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Utsicht op in sinneûndergong troch in finster mei in foks en in keamerplant op in finsterbank
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = In hân spuitet in kleurige kollaazje fan in grien each, oranje skuon, reade basketbal, pearze koptelefoan, blau hert en giele kroan
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = In swaaiende foks op it skerm fan in laptop. De laptop hat in mûs oansluten.
 onboarding-device-migration-title = Wolkom werom!
-onboarding-device-migration-subtitle = Meld jo oan by jo { -fxaccount-brand-name } om jo blêdwizers, wachtwurden en skiednis mei te nimmen op jo nije apparaat.
 onboarding-device-migration-subtitle2 = Meld jo oan by jo account om jo blêdwizers, wachtwurden en skiednis mei jo mei te nimmen op jo nije apparaat.
 onboarding-device-migration-primary-button-label = Oanmelde
 
@@ -461,15 +400,12 @@ tab-groups-onboarding-feature-callout-title = Probearje ljepblêdgroepen foar mi
 tab-groups-onboarding-feature-callout-subtitle = Wês organisearre troch it iene ljepblêd op it oar te slepen om jo earste groep te meitsjen.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Fyn jo ljepblêdgroepen altyd werom yn it menu Alle ljepblêdtitels toane.
-tab-groups-onboarding-create-group-title-2 = Fyn hjir altyd jo ljepblêdgroepen.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Fyn jo groepen troch dernei te sykjen yn de adresbalke.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Wannear’t jo in ljepblêdgroep slute, kinne jo dizze op elk winske momint opnij iepenje fan it menu Alle ljepblêdtitels toane út.
-tab-groups-onboarding-saved-groups-title-2 = Wannear’t jo in ljepblêdgroep slute, kinne jo dizze hjir altyd opnij iepenje.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Fyn jo sletten groepen troch dernei te sykjen yn de adresbalke.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Jo kinne jo ljepblêdgroepen op elk winske momint opnij iepenje fan it menu Alle ljepblêdtitels toane út.
-tab-groups-onboarding-session-restore-title = Iepenje hjir altyd jo ljepblêdgroepen.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

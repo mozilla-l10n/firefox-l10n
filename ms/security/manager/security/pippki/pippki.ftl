@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Memuat turun Sijil
     .style = min-width: 46em
+    .title = Memuat turun Sijil
 download-cert-message = Anda telah diminta untuk mempercayai Autoriti Sijil (CA) yang baru.
 download-cert-trust-ssl =
     .label = Percayai CA ini untuk mengenal pasti laman web.
@@ -37,8 +37,6 @@ download-cert-view-text = Periksa sijil CA
 
 client-auth-window =
     .title = Permintaan Pengenalan Pengguna
-client-auth-site-description = Laman ini meminta anda memperkenalkan diri menggunakan sijil:
-client-auth-choose-cert = Pilih sijil untuk dijadikan sebagai pengenalan:
 client-auth-cert-details = Butiran sijil yang dipilih:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

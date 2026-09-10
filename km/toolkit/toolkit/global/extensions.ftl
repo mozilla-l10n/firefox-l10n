@@ -10,9 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = បញ្ចូល { $extension }?
 webext-perms-sideload-header = បាន​បញ្ចូល { $extension }
-webext-perms-optional-perms-header = { $extension } ស្នើ​សុំ​ការអនុញ្ញាត​បន្ថែម។
 
 ##
 
@@ -45,13 +43,5 @@ webext-perms-host-description-all-urls = ចូលប្រើប្រាស់
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = ចូលប្រើប្រាស់​ទិន្នន័យ​របស់​អ្នក​សម្រាប់​​គេហទំព័រ​​នៅ​ក្នុង​ដែន { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards = ចូលប្រើប្រាស់​ទិន្នន័យ​របស់អ្នក​នៅ​ក្នុង​ដែន​ផ្សេង { $domainCount }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = ចូលប្រើប្រាស់​ទិន្នន័យ​របស់​អ្នក​សម្រាប់ { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites = ចូលប្រើប្រាស់​ទិន្នន័យ​របស់​អ្នក​នៅ​លើ​ទំព័រ​​ផ្សេង { $domainCount }

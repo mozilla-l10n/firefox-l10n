@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Tonen in Finder
            *[other] In map tonen
         }
-downloads-cmd-show-downloads =
-    .label = Map Downloads tonen
 downloads-cmd-retry =
     .tooltiptext = Opnieuw proberen
 downloads-cmd-retry-panel =

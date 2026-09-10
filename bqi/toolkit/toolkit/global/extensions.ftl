@@ -10,7 +10,6 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = ٱووردن { $extension }؟
 webext-perms-header2 = ٱووردن { $extension }
 
 ## Headers used in the webextension permissions dialog, inside the content.

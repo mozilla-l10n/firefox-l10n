@@ -246,8 +246,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Profiloù
 menu-profiles-manage-profiles =
     .label = Merañ ar profiloù
 menu-profiles-new-profile =
@@ -265,9 +263,6 @@ menu-tools =
 menu-tools-downloads =
     .label = Pellgargadurioù
     .accesskey = d
-menu-tools-addons-and-themes =
-    .label = Askouezhioù ha neuzioù
-    .accesskey = E
 menu-tools-fxa-sign-in2 =
     .label = Kennaskañ
     .accesskey = K
@@ -321,8 +316,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Muioc'h a ditouroù disac’hañ
     .accesskey = M
-menu-help-report-site-issue =
-    .label = Danevell kudennoù al lec'hienn…
 menu-help-share-ideas =
     .label = Kinnig mennozhioù hag alioù…
     .accesskey = K

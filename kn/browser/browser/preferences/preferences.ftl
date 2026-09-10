@@ -2,36 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = ನೀವು ಟ್ರ್ಯಾಕ್ ಮಾಡಲು ಬಯಸದ ಜಾಲತಾಣಗಳಿಗೆ "ಡು ನಾಟ್ ಟ್ರ್ಯಾಕ್" ಸಿಗ್ನಲ್ ಅನ್ನು ಕಳುಹಿಸಿ
-do-not-track-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
-do-not-track-option-always =
-    .label = ಯಾವಾಗಲೂ
 pane-general-title = ಸಾಮಾನ್ಯ
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = ಮನೆ
 pane-search-title2 = ಹುಡುಕು
     .title = ಹುಡುಕು
 pane-privacy-title3 = ಗೋಪ್ಯತೆ & ಸುರಕ್ಷತೆ
     .title = ಗೋಪ್ಯತೆ & ಸುರಕ್ಷತೆ
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = ಹುಡುಕು
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = ಗೋಪ್ಯತೆ & ಸುರಕ್ಷತೆ
-pane-privacy-title = ಗೋಪ್ಯತೆ & ಸುರಕ್ಷತೆ
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label2 = { -brand-short-name } ಸಹಾಯ
     .title = { -brand-short-name } ಸಹಾಯ
-help-button-label = { -brand-short-name } ಸಹಾಯ
 focus-search =
     .key = f
 close-button =
@@ -53,20 +35,13 @@ search-results-help-link = ಸಹಾಯ ಬೇಕೆ? ಭೇಟಿ ಮಾಡಿ 
 
 ## General Section
 
-startup-header = ಆರಂಭಿಕ
 always-check-default =
     .label = ಯಾವಾಗಲೂ { -brand-short-name } ನಿಮ್ಮ ಪೂರ್ವನಿಯೋಜಿತ ವೀಕ್ಷಕವಾಗಿದೆಯೆ ಎಂದು ಪರೀಕ್ಷಿಸಿ
     .accesskey = y
-is-default = { -brand-short-name } ಎನ್ನುವುದು ಪ್ರಸ್ತುತ ನಿಮ್ಮ ಪೂರ್ವನಿಯೋಜಿತ ಜಾಲವೀಕ್ಷಕವಾಗಿದೆ
-is-not-default = { -brand-short-name } ಪ್ರಸ್ತುತ ನಿಮ್ಮ ಪೂರ್ವನಿಯೋಜಿತ ವೀಕ್ಷಕವಾಗಿಲ್ಲ
-set-as-my-default-browser =
-    .label = ಪೂರ್ವನಿಯೋಜಿತವನ್ನಾಗಿ ಮಾಡು…
-    .accesskey = D
 disable-extension =
     .label = ಎಕ್ಸ್‌ಟೆನ್ಶನ್ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು
 tabs-group-header2 =
     .label = ಟ್ಯಾಬ್‌ಗಳು
-tabs-group-header = ಟ್ಯಾಬ್‌ಗಳು
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab ಇತ್ತೀಚೆಗೆ ಬಳಸಿದ ಟ್ಯಾಬ್‍ಗಳನ್ನು ತಿರುಗಿಕೊಡುತ್ತದೆ
     .accesskey = T
@@ -79,13 +54,7 @@ warn-on-open-many-tabs =
 show-tabs-in-taskbar =
     .label = ಹಾಳೆಗಳ ಮುನ್ನೋಟವನ್ನು ವಿಂಡೋಸ್ ಕಾರ್ಯಪಟ್ಟಿಕೆಯಲ್ಲಿ ತೋರಿಸು
     .accesskey = k
-browser-containers-enabled =
-    .label = ಕಂಟೈನರ್ ಟ್ಯಾಬ್ಸ್ ಸಕ್ರಿಯಗೊಳಿಸಿ
-    .accesskey = n
 browser-containers-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
-browser-containers-settings =
-    .label = ಸಿದ್ಧತೆಗಳು…‍
-    .accesskey = i
 startup-group =
     .label = ಆರಂಭಿಕ
 
@@ -99,13 +68,6 @@ containers-remove-cancel-button = ಈ ಕಂಟೇನರ್ ತೆಗೆದು�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = ಭಾಷೆ ಮತ್ತು ನೋಟ
-default-font = ಪೂರ್ವನಿಯೋಜಿತ ಅಕ್ಷರಶೈಲಿ
-    .accesskey = D
-default-font-size = ಗಾತ್ರ
-    .accesskey = S
-advanced-fonts =
-    .label = ಮುಂದುವರೆದ...
-    .accesskey = A
 language-header = ಭಾಷೆ
 choose-language-description = ಪುಟಗಳನ್ನು ತೋರಿಸಲು ನಿಮ್ಮ ಬಯಕೆಯ ಭಾಷೆಯನ್ನು ಆರಿಸಿ
 choose-button =
@@ -114,12 +76,6 @@ choose-button =
 manage-browser-languages-button =
     .label = ಪರ್ಯಾಯಗಳನ್ನು ಹೊಂದಿಸಿ...
     .accesskey = l
-translate-web-pages =
-    .label = ಜಾಲದಲ್ಲಿನ ಕಂಟೆಂಟ್ ಅನ್ನು ಅನುವಾದಿಸು
-    .accesskey = T
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = ಅನುವಾದಿಸಿದವರು <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = ಹೊರತಾದವುಗಳು...
     .accesskey = x
@@ -131,23 +87,6 @@ download-save-files-header =
     .label = ಕಡತಗಳನ್ನು ಇಲ್ಲಿ ಉಳಿಸು
 download-save-where-3 =
     .aria-label = ಕಡತಗಳನ್ನು ಇಲ್ಲಿ ಉಳಿಸು
-download-header = ಡೌನ್‍ಲೋಡ್‍ಗಳು
-download-save-where = ಕಡತಗಳನ್ನು ಇಲ್ಲಿ ಉಳಿಸು
-    .accesskey = v
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] ಆರಿಸು...
-           *[other] ನೋಡು...
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] o
-        }
-download-always-ask-where =
-    .label = ಎಲ್ಲಿ ಉಳಿಸಬೇಕೆಂದು ಪ್ರತಿ ಬಾರಿಯೂ ನನ್ನನ್ನು ಕೇಳು
-    .accesskey = A
 applications-header = ಅನ್ವಯಗಳು
 applications-filter =
     .placeholder = ಕಡತ ಬಗೆ ಅಥವಾ ಅನ್ವಯಗಳನ್ನು ಹುಡುಕು
@@ -183,17 +122,11 @@ applications-always-ask =
 #   $type-description (string) - Description of the type (e.g "Portable Document Format")
 #   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = { $plugin-name } ಅನ್ನು ಬಳಸು ({ -brand-short-name } ನಲ್ಲಿ)
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -208,27 +141,15 @@ applications-use-other-label =
 ## Firefox updates
 
 play-drm-content-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
-update-application-title = { -brand-short-name } ನವೀಕರಣಗಳು
 # Variables:
 # $version (string) - Firefox version
 update-application-version = ಆವೃತ್ತಿ{ $version } <a data-l10n-name="learn-more">ಹೊಸತೇನಿದೆ</a>
 update-history-2 =
     .label = ಅಪ್ಡೇಟ್ ಇತಿಹಾಸವನ್ನು ತೋರಿಸು
     .accesskey = p
-update-history =
-    .label = ಅಪ್ಡೇಟ್ ಇತಿಹಾಸವನ್ನು ತೋರಿಸು…
-    .accesskey = p
-update-application-allow-description = { -brand-short-name } ಅನುಮತಿಸು
-update-application-check-choose =
-    .label = ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಹುಡುಕುತ್ತದೆ, ಆದರೆ ಅವುಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸುವ ಆಯ್ಕೆಯನ್ನು ನಿಮಗೆ ಬಿಡುತ್ತದೆ
-    .accesskey = C
-update-application-use-service =
-    .label = ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಹಿನ್ನಲೆ ಸೇವೆಯನ್ನು ಬಳಸು
-    .accesskey = b
 
 ## General Section - Performance
 
-performance-title = ಕಾರ್ಯಕ್ಷಮತೆ
 performance-settings-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 performance-allow-hw-accel =
     .label = ಲಭ್ಯವಿದ್ದಾಗ ಯಂತ್ರಾಂಶ ವೇಗವರ್ಧನೆಯನ್ನು ಬಳಸು
@@ -244,7 +165,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = ವೀಕ್ಷಣೆ
 browsing-use-autoscroll =
     .label = ಸ್ವಯಂಚಲನೆಯನ್ನು(ಆಟೋ ಸ್ಕ್ರಾಲಿಂಗ್) ಬಳಸು
     .accesskey = a
@@ -257,17 +177,8 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = ಪುಟದಲ್ಲಿ ಸಂಚರಿಸಲು ಎಲ್ಲಾ ಸಮಯದಲ್ಲೂ ತೆರೆಸೂಚಕ ಕೀಲಿಗಳನ್ನು ಬಳಸು
     .accesskey = c
-browsing-cfr-recommendations-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 browsing-group =
     .label = ವೀಕ್ಷಣೆ
-
-## General Section - Proxy
-
-network-settings-title = ನೆಟ್ವರ್ಕ್ ಸಿದ್ಧತೆಗಳು
-network-proxy-connection-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
-network-proxy-connection-settings =
-    .label = ಸಿದ್ಧತೆಗಳು...
-    .accesskey = e
 
 ## Home Section - Default Browser
 
@@ -303,8 +214,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = ಜಾಲದ ಹುಡುಕಾಟ
-home-prefs-recommended-by-header =
-    .label = { $provider } ರಿಂದ ಶಿಫಾರಸುಮಾಡುಲಾಗಿದೆ
 
 ##
 
@@ -315,27 +224,11 @@ home-prefs-highlights-options-bookmarks =
     .label = ಪುಟಗುರುತುಗಳು
 home-prefs-highlights-option-most-recent-download =
     .label = ತೀರಾ ಇತ್ತೀಚಿನ ಡೌನ್ಲೋಡ್
-home-prefs-highlights-option-saved-to-pocket =
-    .label = { -pocket-brand-name } ನಲ್ಲಿ ಉಳಿಸಲಾದ ಪುಟಗಳು
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = ಉಲ್ಲೇಖಗಳು
 
 ## Search Section
 
-search-bar-header = ಹುಡುಕು  ಪಟ್ಟಿ
-search-bar-shown =
-    .label = ಹುಡುಕು ಪಟ್ಟಿಯನ್ನು ಉಪಕರಣಪಟ್ಟಿಗೆ ಸೇರಿಸು
-search-engine-default-header = ಪೂರ್ವನಿಯೋಜಿತ ಹುಡುಕು ಎಂಜಿನ್
-search-suggestions-option =
-    .label = search ಸಲಹೆಗಳನ್ನು ತೋರಿಸು
-    .accesskey = s
 search-suggestions-cant-show-2 =
     .message = ಎಂದಿಗೂ ಸಹ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಬೇಡ ಎಂದು ನೀವು { -brand-short-name } ಅನ್ನು ಸಂರಚಿಸಿರುವುದರಿಂದ ಹುಡುಕುವಾಗ ಸ್ಥಳದ ಪಟ್ಟಿಯ ಫಲಿತಾಂಶಗಳಲ್ಲಿ ಯಾವುದೆ ಸಲಹೆಗಳನ್ನು ತೋರಿಸಲಾಗುವುದಿಲ್ಲ.
-search-suggestions-cant-show = ಎಂದಿಗೂ ಸಹ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಬೇಡ ಎಂದು ನೀವು { -brand-short-name } ಅನ್ನು ಸಂರಚಿಸಿರುವುದರಿಂದ ಹುಡುಕುವಾಗ ಸ್ಥಳದ ಪಟ್ಟಿಯ ಫಲಿತಾಂಶಗಳಲ್ಲಿ ಯಾವುದೆ ಸಲಹೆಗಳನ್ನು ತೋರಿಸಲಾಗುವುದಿಲ್ಲ.
 search-choose-engine-column =
     .label = ಹುಡುಕು ಎಂಜಿನ್‌
 search-choose-keyword-column =
@@ -359,15 +252,6 @@ search-engine-group =
 search-default-engine =
     .aria-label = ಪೂರ್ವನಿಯೋಜಿತ ಹುಡುಕು ಎಂಜಿನ್
 
-## Containers Section
-
-containers-header = ಕಂಟೈನರ್ ಟ್ಯಾಬ್‍‍ಗಳು‍
-containers-add-button =
-    .label = ಹೊಸ ಕಂಟೈನರ್ ಸೇರಿಸಿ
-    .accesskey = A
-containers-remove-button =
-    .label = ತೆಗೆದುಹಾಕು
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -384,8 +268,6 @@ sync-mobile-promo = Firefox ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ<img data-l1
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = ಪ್ರೊಫೈಲ್ ಚಿತ್ರವನ್ನು ಬದಲಾಯಿಸು
 sync-profile-picture-with-alt =
     .alt = ಪ್ರೊಫೈಲ್ ಚಿತ್ರವನ್ನು ಬದಲಾಯಿಸು
     .tooltiptext = ಪ್ರೊಫೈಲ್ ಚಿತ್ರವನ್ನು ಬದಲಾಯಿಸು
@@ -447,16 +329,6 @@ sync-device-name-save =
     .label = ಉಳಿಸು‍
     .accesskey = v
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = ಪರಿಶೀಲನೆಯನ್ನು ಕಳುಹಿಸಲಾಗಿದೆ
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = ಒಂದು ಪರಿಶೀಲನಾ ಕೊಂಡಿಯನ್ನು { $email } ಗೆ ಕಳುಹಿಸಲಾಗಿದೆ.
-sync-verification-not-sent-title = ಧೃಡೀಕರಣವನ್ನು ಕಳಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ
-sync-verification-not-sent-body = ನಾವು ಈ ಸಮಯದಲ್ಲಿ ಒಂದು ದೃಢೀಕರಣ ಮೇಲ್ ಅನ್ನು ಕಳುಹಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ, ದಯವಿಟ್ಟು ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.
-
 ## Privacy Section
 
 privacy-header = ವೀಕ್ಷಕದ ಗೌಪ್ಯತೆ
@@ -466,9 +338,6 @@ privacy-header = ವೀಕ್ಷಕದ ಗೌಪ್ಯತೆ
 forms-exceptions =
     .label = ವಿನಾಯಿತಿಗಳು...
     .accesskey = x
-forms-saved-logins =
-    .label = ಉಳಿಸಿದ ಲಾಗಿನ್‌ಗಳು...
-    .accesskey = L
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -479,28 +348,9 @@ forms-master-pw-fips-desc = ಗುಪ್ತಪದವನ್ನು ಬದಲಾಯ
 
 ## Privacy Section - History
 
-history-header = ಇತಿಹಾಸ
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } ವು
-    .accesskey = w
-history-remember-option-all =
-    .label = ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುತ್ತದೆ
-history-remember-option-never =
-    .label = ಎಂದಿಗೂ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಬೇಡ
-history-remember-option-custom =
-    .label = ಇತಿಹಾಸಕ್ಕಾಗಿ ನಿಮ್ಮ ಇಚ್ಛೆಯ ಸಿದ್ಧತೆಗಳನ್ನು ಬಳಸಿ
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } ಖಾಸಗಿ ಜಾಲ ವೀಕ್ಷಣದ ರೀತಿಯದ್ದೆ ಆದ ಸಿದ್ಧತೆಗಳನ್ನು ಬಳಸುತ್ತದೆ, ಹಾಗು ನೀವು ಜಾಲವನ್ನು ವೀಕ್ಷಿಸುವಾಗ ಯಾವುದೆ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದಿಲ್ಲ.
-history-dontremember-description = { -brand-short-name } ಖಾಸಗಿ ಜಾಲ ವೀಕ್ಷಣದ ರೀತಿಯದ್ದೆ ಆದ ಸಿದ್ಧತೆಗಳನ್ನು ಬಳಸುತ್ತದೆ, ಹಾಗು ನೀವು ಜಾಲವನ್ನು ವೀಕ್ಷಿಸುವಾಗ ಯಾವುದೆ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದಿಲ್ಲ.
 history-private-browsing-permanent =
     .label = ಯಾವಾಗಲೂ ಖಾಸಗಿ ವೀಕ್ಷಣೆ ಕ್ರಮವನ್ನು ಬಳಸು
     .accesskey = p
@@ -520,21 +370,12 @@ history-mode-radio-group =
 
 ## Privacy Section - Site Data
 
-sitedata-header = ಕುಕ್ಕಿಗಳು ಮತ್ತು ತಾಣ ದತ್ತಾಂಶ
 sitedata-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
-sitedata-clear =
-    .label = ದತ್ತಾಂಶ ಬರಿದುಮಾಡು…
-    .accesskey = l
-sitedata-settings =
-    .label = ದತ್ತಾಂಶವನ್ನು ನಿರ್ವಹಿಸು…
-    .accesskey = M
 cookies-site-data-group =
     .label = ಕುಕ್ಕಿಗಳು ಮತ್ತು ತಾಣ ದತ್ತಾಂಶ
 
 ## Search Section
 
-addressbar-header = ವಿಳಾಸ ಪಟ್ಟಿ
-addressbar-suggest = ವಿಳಾಸ ಪಟ್ಟಿಯನ್ನು ಬಳಸುವಾಗ, ಇದನ್ನು ಸಲಹೆ ಮಾಡು
 addressbar-locbar-history-option =
     .label = ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸ
     .accesskey = H
@@ -544,7 +385,6 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Open ಹಾಳೆಗಳು
     .accesskey = O
-addressbar-suggestions-settings = ಹುಡುಕು ಯಂತ್ರಗಳ ಸಲಹೆಗಳ ಇಚ್ಛೆಗಳನ್ನು ಬದಲಾಯಿಸಿ
 
 ## Privacy Section - Content Blocking
 
@@ -552,30 +392,6 @@ content-blocking-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 
 ## Privacy Section - Permissions
 
-permissions-header = ಅನುಮತಿಗಳು
-permissions-location = ಸ್ಥಳ
-permissions-location-settings =
-    .label = ಸಿದ್ಧತೆಗಳು…
-    .accesskey = t
-permissions-camera = ಕ್ಯಾಮೆರಾ
-permissions-camera-settings =
-    .label = ಸಿದ್ಧತೆಗಳು…
-    .accesskey = t
-permissions-microphone = ಮೈಕ್ರೊಫೋನ್
-permissions-microphone-settings =
-    .label = ಸಿದ್ಧತೆಗಳು…
-    .accesskey = t
-permissions-notification = ಸೂಚನೆಗಳು
-permissions-notification-settings =
-    .label = ಸಿದ್ಧತೆಗಳು…
-    .accesskey = t
-permissions-notification-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
-permissions-block-popups =
-    .label = ಪುಟಿಕೆ (ಪಾಪ್-ಅಪ್) ಕಿಟಕಿಗಳನ್ನು ತಡೆ ಹಿಡಿ
-    .accesskey = B
-permissions-addon-exceptions =
-    .label = ವಿನಾಯಿತಿಗಳು...
-    .accesskey = E
 permissions-location2 =
     .label = ಸ್ಥಳ
 permissions-camera2 =
@@ -584,12 +400,6 @@ permissions-microphone2 =
     .label = ಮೈಕ್ರೊಫೋನ್
 permissions-notification2 =
     .label = ಸೂಚನೆಗಳು
-
-## Privacy Section - Data Collection
-
-collection-header = { -brand-short-name } ದತ್ತಾಂಶ ಸಂಗ್ರಹಣೆ ಮತ್ತು ಬಳಕೆ
-collection-privacy-notice = ಗೌಪ್ಯತಾ ಸೂಚನೆ
-collection-health-report-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 
 ## Privacy Section - Security
 ##
@@ -610,20 +420,9 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = ಪ್ರಮಾಣಪತ್ರಗಳು
-certs-enable-ocsp =
-    .label = ಪ್ರಮಾಣಪತ್ರಗಳ ಪ್ರಸಕ್ತ ಮಾನ್ಯತೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು OCSP ರೆಸ್ಪಾಂಡರ್ ಪೂರೈಕೆಗಣಕಗಳಿಗೆ ಮನವಿ ಮಾಡಿ
-    .accesskey = Q
-certs-view =
-    .label = ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ನೋಡು…
-    .accesskey = C
-certs-devices =
-    .label = ಸುರಕ್ಷತಾ ಸಾಧನಗಳು…
-    .accesskey = D
 certs-devices-enable-fips = FIPS ಅನ್ನು ಶಕ್ತಗೊಳಿಸಿ
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ಗಣಕತೆರೆ
 downloads-folder-name = ಡೌನ್‌ಲೋಡ್‌ಗಳು
-choose-download-folder-title = ಡೌನ್‌ಲೋಡ್‌ ಕಡತಕೋಶವನ್ನು ಆರಿಸು:

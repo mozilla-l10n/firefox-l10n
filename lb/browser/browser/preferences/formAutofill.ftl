@@ -14,7 +14,6 @@ autofill-manage-remove-button = Ewechhuelen
 
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Adress änneren
-autofill-address-given-name = Virnumm
 autofill-address-organization = Organisatioun
 autofill-address-province = Provënz
 

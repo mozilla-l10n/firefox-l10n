@@ -128,8 +128,6 @@ about-debugging-setup-network-troubleshoot = Problemas ao ligar via localizaçã
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Adicionar
-# Text to display when there are no locations to show.
-about-debugging-network-locations-empty-text = Nenhuma localização de rede foi adicionada ainda.
 # Text of the label for the text input that allows users to add new network locations in
 # the Connect page. A host is a hostname and a port separated by a colon, as suggested by
 # the input's placeholder "localhost:6080".

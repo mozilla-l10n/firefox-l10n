@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Baxando l'anovamientu — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Baxando l'anovamientu — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Baxando l'anovamientu — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Aplicando l'anovamientu…
 update-failed = L'anovamientu falló. <label data-l10n-name="failed-link">Baxa la última versión</label>
 update-failed-main = L'anovamientu falló. <a data-l10n-name="failed-link-main">Baxa la última versión</a>
-update-adminDisabled = L'alministrador del sistema desactivó los anovamientos
 update-noUpdatesFound = { -brand-short-name } ta anováu
 settings-update-no-updates-found =
     .label = { -brand-short-name } ta anováu
@@ -61,8 +59,6 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } ta diseñáu por <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, una <label data-l10n-name="community-creditsLink">comunidá global</label> que trabaya xunida pa caltener la web abierta, pública y accesible pa tol mundu.
 helpus = ¿Quies ayudar? ¡<label data-l10n-name="helpus-donateLink">Fai una donación</label> o <label data-l10n-name="helpus-getInvolvedLink">andecha</label>!
 bottomLinks-license = Información de la llicencia
-bottomLinks-rights = Derechos del usuariu final
-bottomLinks-privacy = Política de privacidá
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Nun àju fiducia nna stu cirtificatu picchì
 cert-error-trust-signature-algorithm-disabled = Nun àju fiducia nna stu cirtificatu picchì fu firmatu cu n’argurìtimu di firma chi fu disabbilitatu picchì nun è sicuru.
 cert-error-trust-expired-issuer = Nun àju fiducia nna stu cirtificatu picchì u cirtificatu di l’emittenti scadìu.
 cert-error-trust-self-signed = Nun àju fiducia nna stu cirtificatu picchì fu firmatu di iḍḍi stissi.
-cert-error-trust-symantec = I cirtificati criati di GeoTrust, RapidSSL, Symantec, Thawte e Verisign nun sunnu cchiù cunzidirati sicuri picchì st’auturità falleru a sicutari i megghiu pràtichi di sicurizza ’n passatu.
 cert-error-untrusted-default = Stu cirtificatu nun veni di na funti fidata.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -45,10 +44,6 @@ cert-error-not-yet-valid-now = I siti cunfèrmanu a so idintità chî cirtificat
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Còdici d’erruri: <a data-l10n-name="error-code-link">{ $error }</a>
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = I siti cunfèrmanu a so idintità chî cirtificati, chi vennu criati di n’auturità cirtificatrici. A majurìa dî navigatura nun ànnu cchiù fiducia nnî cirtificati criati di GeoTrust, RapidSSL, Symantec, Thawte e VeriSign. { $hostname } usa un cirtificatu criatu di una di st’auturità, e pi sta scaciuni nun è pussìbbili virificari l’idintità di stu situ.
-cert-error-symantec-distrust-admin = È pussìbbili cumunicari stu prubblema ô gisturi di stu situ.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }

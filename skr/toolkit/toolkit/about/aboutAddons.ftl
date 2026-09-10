@@ -158,15 +158,10 @@ addon-sitepermission-host = { $host } کیتے سائٹ دی اجازت
 
 ## These are global warnings
 
-extensions-warning-safe-mode = سیف موڈ دی طرفوں تمام ایڈ-آنز غیر فعال کر ݙتے ڳئے ہن۔
-extensions-warning-check-compatibility = ایڈ آن مطابقت پذیری دی جانچ غیر فعال ہے۔ تھی سڳدا ہے تہاݙے کول غیر مطابقت پذیر ایڈ آنز ہوون۔
-extensions-warning-safe-mode2 =
-    .message = سیف موڈ دی طرفوں تمام ایڈ-آنز غیر فعال کر ݙتے ڳئے ہن۔
 extensions-warning-check-compatibility2 =
     .message = ایڈ آن مطابقت پذیری دی جانچ غیر فعال ہے۔ تھی سڳدا ہے تہاݙے کول غیر مطابقت پذیر ایڈ آنز ہوون۔
 extensions-warning-check-compatibility-button = فعال بݨاؤ
     .title = ایڈ آن مطابقت پذیری دی جانچ فعال بݨاؤ
-extensions-warning-update-security = ایڈ آن اپ ڈیٹ سیکیورٹی چیکنگ غیر فعال ہے۔ تہاݙا اپ ڈیٹاں نال سمجھوتہ کیتا ونڄ سڳدا ہے۔
 extensions-warning-update-security2 =
     .message = ایڈ آن اپ ڈیٹ سیکیورٹی چیکنگ غیر فعال ہے۔ تہاݙا اپ ڈیٹاں نال سمجھوتہ کیتا ونڄ سڳدا ہے۔
 extensions-warning-update-security-button = فعال بݨاؤ
@@ -236,10 +231,6 @@ shortcuts-duplicate = ڈپلیکیٹ شارٹ کٹ
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } کوں ہک کنوں زیادہ صورتاں وِچ شارٹ کٹ دے طور تے استعمال کیتا ویندا پیا ہے۔ ڈپلیکیٹ شارٹ کٹ غیر متوقع رویے دا سبب بݨ سڳدے ہن۔
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } کوں ہک کنوں زیادہ صورتاں وِچ شارٹ کٹ دے طور تے استعمال کیتا ویندا پیا ہے۔ ڈپلیکیٹ شارٹ کٹ غیر متوقع رویے دا سبب بݨ سڳدے ہن۔
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -258,19 +249,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    ایکسٹینشنز تے تھیمز تہاݙے براؤزر کیتے ایپاں دی طراں ہن، تے او تہاکوں اجازت ݙیندے ہن۔
-    پاس ورڈز دی حفاظت کرو، ویڈیوز ڈاؤن لوڈ کرو، سودے تلاش کرو، پریشان کن اشتہاراں کوں روکو، تبدیلی کرو۔
-    تہاݙا براؤزر کیویں لڳدا ہے، تے ٻہوں کجھ۔ ایہ چھوٹے سافٹ ویئر پروگرام ہن۔
-    اکثر تریجھے فریق دے ذریعہ تیار کیتا ویندا ہے۔ اتھاں ہک انتخاب ہے { -brand-product-name }
-    غیر معمولی کیتے <a data-l10n-name="learn-more-trigger">تجویز کریندا ہے</a>
-    سیکورٹی، کارکردگی، تے فعالیت.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    انہاں وِچوں کجھ سفارشاں ذاتی نوعیت دیاں ہن۔ او ٻئے تے مبنی ہن
-    ایکسٹینشنز جیڑھیاں انسٹال کیتیا ہن، پروفائل دیاں ترجیحات، تے استعمال دے انگ اکھر۔
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -338,16 +316,9 @@ addon-detail-last-updated-label = چھیکڑی واری اپ ڈیٹ تھیا
 addon-detail-homepage-label = مکھ پناں
 addon-detail-rating-label = ریٹنگ
 # Message for add-ons with a staged pending update.
-install-postponed-message = ایہ توسیع ایں ویلھے اپ ڈیٹ تھی ویسے جݙاں { -brand-short-name } دوبارہ شروع تھیسے۔
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = ایہ توسیع ایں ویلھے اپ ڈیٹ تھی ویسے جݙاں { -brand-short-name } دوبارہ شروع تھیسے۔
 install-postponed-button = ہݨ ابڈیٹ کرو
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = 5 وِچوں { NUMBER($rating, maximumFractionDigits: 1) } دا درجہ ݙتا ڳیا ہے۔
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -363,9 +334,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> ہٹا ݙتا ڳیا ہے۔
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -384,11 +352,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = نجی ونڈوز وِچ اجازت ہے
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = نجی ونڈوز وِچ اجازت ہے
 addon-detail-private-browsing-help = اجازت ملݨ تے، ایکسٹینشن کوں نجی براؤزنگ دے دوران تہاݙی آن لائن سرگرمیاں تائیں رسائی حاصل تھیس۔ <a data-l10n-name="learn-more">ودھیک ڄاݨو</a>
 addon-detail-private-browsing-allow = اجازت ݙیوو
@@ -415,17 +378,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } صرف ایکسٹینشنز دی تجویز کریندا ہے جیڑھا سیکیورٹی تے کارکردگی کیتے اساݙے کیتے معیاراں تے پورا لہندے ہن۔
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = موزیلا دی طرفوں بݨایا ڳیا آفیشل ایکسٹینشن۔ سیکیورٹی تے کارکردگی دے معیار تے پورا لہندا ہے۔
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = سیکیورٹی تے کارکردگی کیتے اساݙے معیاراں تے پورا لہݨ کیتے ایں ایکسٹنش دا جائزہ گھدا ڳیا ہے
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -437,9 +389,6 @@ available-updates-heading = دستیاب تازہ کاریاں
 recent-updates-heading = حالیہ اپ ڈیٹاں
 release-notes-loading = لوڈ تھیندا پئے۔۔۔
 release-notes-error = معذرت، پر ریلیز نوٹس لوڈ کرݨ وِچ ہک خرابی ہئی۔
-addon-permissions-empty = ایں توسیع کوں کہیں اجازت دی لوڑ کائنی۔
-addon-permissions-required = بنیادی فعالیت کیتے درکار اجازتاں:
-addon-permissions-optional = اختیاری فعالیت کیتے اختیاری اجازتاں:
 addon-permissions-learnmore = اجازتاں بارے ٻیا سکھو
 recommended-extensions-heading = تجویز کردہ ایکسٹینشنز
 recommended-themes-heading = تجویز کردہ تھیمز
@@ -473,27 +422,14 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } { -brand-short-name } { $version } نال مطابقت نہیں رکھیندا۔
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } { -brand-short-name } { $version } نال مطابقت نہیں رکھیندا۔
-details-notification-incompatible-link = ودھیک معلومات
-details-notification-unsigned-and-disabled = { $name } دی { -brand-short-name } وِچ استعمال کیتے تصدیق نہیں تھی سڳی تے اینکوں غیر فعال کر ݙتا ڳیا ہے۔
 details-notification-unsigned-and-disabled2 =
     .message = { $name } دی { -brand-short-name } وِچ استعمال کیتے تصدیق نہیں تھی سڳی تے اینکوں غیر فعال کر ݙتا ڳیا ہے۔
-details-notification-unsigned-and-disabled-link = ودھیک معلومات
-details-notification-unsigned = { $name } دی { -brand-short-name } وِچ استعمال کیتے تصدیق نہیں تھی سڳی۔ احتیاط نال اڳو تے ودھو.
 details-notification-unsigned2 =
     .message = { $name } دی { -brand-short-name } وِچ استعمال کیتے تصدیق نہیں تھی سڳی۔ احتیاط نال اڳو تے ودھو.
-details-notification-unsigned-link = ودھیک معلومات
-details-notification-blocked = سیکیورٹی یا استحکام دے مسائل دی وجہ توں { $name } کوں غیر فعال کر ݙتا ڳیا ہے۔
 details-notification-blocked-link2 = تفصیلاں ݙیکھو
 details-notification-softblocked-link2 = تفصیلاں ݙیکھو
-details-notification-blocked-link = ودھیک معلومات
-details-notification-softblocked = { $name } سیکورٹی یا استحکام دے مسائل کیتے ڄاتا ویندا ہے۔
-details-notification-softblocked-link = ودھیک معلومات
-details-notification-gmp-pending = { $name } ستت انسٹال کر ݙتا ویسے۔
 details-notification-gmp-pending2 =
     .message = { $name } ستت انسٹال کر ݙتا ویسے۔
 

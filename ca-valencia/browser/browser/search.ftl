@@ -28,7 +28,7 @@ searchbar-icon =
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = Afig un motor de cerca
     .style = min-width: 32em;
+    .title = Afig un motor de cerca
 add-engine-button = Afig un motor personalitzat
 add-engine-name = Nom del motor de cerca

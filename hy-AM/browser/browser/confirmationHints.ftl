@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Զեկույցն ուղարկվեց։ Շնորհակալությու՛ն։
-confirmation-hint-login-removed = Մուտքագրումը հեռացվեց
 confirmation-hint-password-removed = Գաղտնաբառը հեռացվե՛ց
 confirmation-hint-page-bookmarked = Պահված է էջանիշներում
-confirmation-hint-password-saved = Գաղտնաբառը պահվել է։
 confirmation-hint-password-created = Գաղտնաբառը պահվեց
 confirmation-hint-password-updated = Գաղտնաբառը թարմացվեց
 confirmation-hint-address-created = Հասցեն պահվեց

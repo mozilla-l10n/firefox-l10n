@@ -23,7 +23,7 @@ searchbar-submit =
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = Amiestu d'un motor de busca
     .style = min-width: 32em;
+    .title = Amiestu d'un motor de busca
 add-engine-button = Amestar un motor personalizáu
 add-engine-name = Nome del motor de busca

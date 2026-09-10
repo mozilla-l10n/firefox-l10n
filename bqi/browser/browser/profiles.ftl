@@ -5,16 +5,16 @@
 profile-window-heading = پسند پوروفایل { -brand-short-name }
 profile-window-create-profile = وورکل پوروفایل
 profile-card-edit-button =
-    .title = آلشت پوروفایل
     .aria-label = آلشت پوروفایل
+    .title = آلشت پوروفایل
 profile-card-delete-button =
-    .title = پاک کردن پوروفایل
     .aria-label = پاک کردن پوروفایل
+    .title = پاک کردن پوروفایل
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = گۊشیڌن { $profileName }
     .aria-label = گۊشیڌن { $profileName }
+    .title = گۊشیڌن { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = پوروفایل { $number }
@@ -74,16 +74,10 @@ delete-profile-confirm = پاک کردن
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = رۊشن
-# The default dark theme
-profiles-dark-theme = تاریک
 # The default system theme
 profiles-system-theme = سیستوم
 profiles-system-theme-title =
     .title = ائمال زمینه سیستوم
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = ساوز نعنایی
 profiles-red-theme = سوئر
 profiles-red-theme-title =
     .title = ائمال زمینه سوئر
@@ -212,9 +206,6 @@ profiles-appmenu-callout-tour-title = پوروفایل نۊت ٱماڌه هڌ
 profiles-appmenu-callout-tour-primary-button = نشووݩ داڌن بارت کار
 barbell-avatar = هالتر
 bike-avatar = چرخ
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = ائمال آواتار هالتر
 bike-avatar-tooltip =

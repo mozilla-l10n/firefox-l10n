@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Aktualizacija se ześěgujo — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Aktualizacija se ześěgujo – <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Aktualizacija se ześěgujo — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Aktualizacija se nałožujo…
 update-failed = Aktualizěrowanje njejo se raźiło. <label data-l10n-name="failed-link">Nejnowšu wersiju ześěgnuś</label>
 update-failed-main = Aktualizěrowanje njejo se raźiło. <a data-l10n-name="failed-link-main">Nejnowšu wersiju ześěgnuś</a>
-update-adminDisabled = Aktualizacije su se wót twójogo administratora znjemóžnili
 update-policy-disabled = Aktualizacije su wót wašeje organizacije znjemóžnjone
 settings-update-policy-disabled =
     .label = Aktualizacije su wót wašeje organizacije znjemóžnjone
@@ -72,8 +70,6 @@ helpus-referrals2 = Cośo pomagaś? <label data-l10n-name="helpus-donateLink">P�
 bottomLinks-license = Licencne informacije
 bottom-links-terms = Wužywańske wuměnjenja
 bottom-links-privacy = Powěźeńka priwatnosći
-bottomLinks-rights = Pšawa kóńcnego wužywarja
-bottomLinks-privacy = Pšawidła priwatnosći
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

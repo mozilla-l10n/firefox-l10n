@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = На сертификатот не му се
 cert-error-trust-signature-algorithm-disabled = На овој сертификат не му се верува бидејќи беше потпишан со потпис со алгоритам кој е оневозможен затоа што не е безбеден.
 cert-error-trust-expired-issuer = На сертификатот не му се верува бидејќи сертификатот на издавачот е истечен.
 cert-error-trust-self-signed = На сертификатот не му се верува бидејќи е само-потпишан.
-cert-error-trust-symantec = Сертификатите издадени од GeoTrust, RapidSSL, Symantec, Thawte и VeriSign повеќе не се сметаат за безбедни бидејќи овие сертификати не успеаа да ги следат безбедносните практики во минатото.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } не му верува на { $hostname } бидејќи тоа не може да докаже дека ги исполнува барањата за транспарентност на јавниот сертификат.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Код за грешка: <a data-l10n-name="error
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Настана грешка при поврзување со { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Веб-страниците го докажуваат нивниот идентитет преку сертификати, кои ги издаваат органите за сертификати. Повеќето прелистувачи не им веруваат повеќе на сертификатите издадени од GeoTrust, RapidSSL, Symantec, Thawte и VeriSign. { $hostname } користи сертификат од еден од овие издавачи и затоа идентитетот на веб-страницата не може да се докаже.
-cert-error-symantec-distrust-admin = Може да го известите администраторот на веб-страницата за овој проблем.
 cert-error-old-tls-version = Оваа веб-локација можеби нема да го поддржува протоколот TLS 1.2, што е минималната верзија поддржана од { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = Строга безбедност на тран�
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Закачување јавен клуч HTTP:{ $hasHPKP }
 cert-error-details-cert-chain-label = Ланец на сертификати:
-open-in-new-window-for-csp-or-xfo-error = Отворете ја страницата во нов прозорец
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = За да ја заштитите вашата безбедност, { $hostname } нема да дозволи { -brand-short-name } да ја прикажува страницата ако ја вгради друга страница. За да ја видите оваа страница, треба да ја отворите во нов прозорец.
 fp-certerror-view-certificate-link = Погледнете го сертификатот на местото
 fp-certerror-return-to-previous-page-recommended-button-2 = Врати се назад (препорачливо)
     .accesskey = В
-fp-certerror-return-to-previous-page-recommended-button = Врати се назад (препорачливо)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -106,21 +99,21 @@ fp-certerror-self-signed-important-note = ВАЖНА ЗАБЕЛЕШКА: Док�
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = Мрежните места користат сертификати издадени од овластена организација за сертификати за да докажат дека се навистина тоа што се претставуваат. { -brand-short-name } не му верува на ова место бидејќи се чини дека сертификатот истекол на { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-expired-why-dangerous-body = Мрежните места користат сертификати издадени од овластена организација за сертификати за да докажат дека се навистина тоа што се претставуваат. { -brand-short-name } не му верува на ова место бидејќи се чини дека сертификатот истекол на { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = Мрежните места користат сертификати издадени од овластена организација за сертификати за да докажат дека се навистина тоа што се претставуваат. { -brand-short-name } не му верува на ова место бидејќи се чини дека сертификатот ќе стане валиден на{ DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-not-yet-valid-why-dangerous-body = Мрежните места користат сертификати издадени од овластена организација за сертификати за да докажат дека се навистина тоа што се претставуваат. { -brand-short-name } не му верува на ова место бидејќи се чини дека сертификатот ќе стане валиден на{ DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = Часовникот на вашиот уред е поставен на { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Ако ова е точно, безбедносниот проблем веројатно е во самото место. Ако е погрешно, можете да го промените во системските поставки на Вашиот уред.
+fp-certerror-expired-what-can-you-do-body = Часовникот на вашиот уред е поставен на { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Ако ова е точно, безбедносниот проблем веројатно е во самото место. Ако е погрешно, можете да го промените во системските поставки на Вашиот уред.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Код на грешка: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") }{ DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }{ DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -133,11 +126,11 @@ fp-learn-more-about-time-related-errors = Дознајте повеќе за р�
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } не му верува на ова место бидејќи се чини дека доставениот сертификат ќе стане валиден на{ DATETIME($date, timeStyle: "short") } а сега е { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } не му верува на ова место бидејќи се чини дека доставениот сертификат ќе стане валиден на{ DATETIME($date, timeStyle: "short") } а сега е { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Часовникот на вашиот уред е поставен на { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Ако ова е точно, безбедносниот проблем веројатно е во самото место. Ако е погрешно, можете да го промените во системските поставки на Вашиот уред.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Часовникот на вашиот уред е поставен на { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Ако ова е точно, безбедносниот проблем веројатно е во самото место. Ако е погрешно, можете да го промените во системските поставки на Вашиот уред.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -179,8 +172,6 @@ deniedPortAccess-title = Оваа адреса е забранета
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Хммм. Имаме проблем да ја најдеме таа страница.
 internet-connection-offline-title = Изгледа како да има проблем со Вашата интернет врска
-dns-not-found-trr-only-title2 = Можен безбедносен ризик при пребарување на овој домен
-dns-not-found-native-fallback-title2 = Можен безбедносен ризик при пребарување на овој домен
 fileNotFound-title = Датотеката не е пронајдена
 fileAccessDenied-title = Пристапот до датотеката беше одбиен
 generic-title = Упс.
@@ -205,7 +196,6 @@ unknownSocketType-title = Неочекуван одговор од сервер�
 nssFailure2-title = Безбедната врска не успеа
 csp-xfo-error-title = { -brand-short-name } Не можам да ја отворам оваа страница
 corruptedContentErrorv2-title = Грешка од оштетена содржина
-corruptedContentError-title = Грешка од оштетена содржина
 sslv3Used-title = Не може да се поврзе безбедно
 inadequateSecurityError-title = Врската не е безбедна
 blockedByPolicy-title = Блокирана страница
@@ -228,7 +218,6 @@ fp-certerror-hide-advanced-button = Сокриј напредно
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Продолжи кон { $hostname } (Ризично)
 fp-certerror-intro = { -brand-short-name } забележа потенцијално сериозен безбедносен проблем со <strong>{ $hostname } </strong>. Некој што се преправа дека е местото би можел да се обиде да украде работи како информации за кредитна картичка, лозинки или е-пошта.
 fp-certerror-expired-into = { -brand-short-name } забележа безбедносен проблем со <strong>{ $hostname } </strong>. Или местото не е правилно поставена или часовникот на Вашиот уред е поставен на погрешен датум/време.
 fp-certerror-transparency-intro = Некој што се преправа дека е <strong>{ $hostname }</strong> би можел да се обиде да украде работи како што се вашето корисничко име, лозинка или е-пошта.

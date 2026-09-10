@@ -4,14 +4,6 @@
 
 about-reader-loading = …ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 about-reader-load-error = ਸਫ਼ੇ ਤੋਂ ਲੇਖ ਲੋਡ ਕਰਨ ਲਈ ਫੇਲ੍ਹ ਹੈ
-about-reader-color-scheme-light = ਹਲਕਾ
-    .title = ਰੰਗ ਸਕੀਮ ਹਲਕੀ
-about-reader-color-scheme-dark = ਗੂੜ੍ਹਾ
-    .title = ਰੰਗ ਸਕੀਮ ਗੂੜ੍ਹੀ
-about-reader-color-scheme-sepia = ਭੂਰਾ
-    .title = ਰੰਗ ਸਕੀਮ ਭੂਰਾ
-about-reader-color-scheme-auto = ਆਟੋ
-    .title = ਰੰਗ ਸਕੀਮ ਆਪਣੇ-ਆਪ
 about-reader-color-light-theme = ਹਲਕਾ
     .title = ਹਲਕਾ ਥੀਮ
 about-reader-color-dark-theme = ਗੂੜ੍ਹਾ
@@ -24,16 +16,6 @@ about-reader-color-gray-theme = ਸਲੇਟੀ
     .title = ਸਲੇਟੀ ਥੀਮ
 about-reader-color-contrast-theme = ਕਨਟਰਾਸਟ
     .title = ਕਨਟਰਾਸਟ ਥੀਮ
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time =
-    { $rangePlural ->
-        [one] { $range } ਮਿੰਟ
-       *[other] { $range } ਮਿੰਟ
-    }
 
 ## Reader View text and layout menu
 
@@ -41,14 +23,6 @@ about-reader-toolbar-minus =
     .title = ਫ਼ੋਂਟ ਦਾ ਆਕਾਰ ਘਟਾਓ
 about-reader-toolbar-plus =
     .title = ਫ਼ੋਂਟ ਦਾ ਆਕਾਰ ਵਧਾਓ
-about-reader-toolbar-contentwidthminus =
-    .title = ਸਮੱਗਰ ਦੀ ਚੌੜਾਈ ਘਟਾਓ
-about-reader-toolbar-contentwidthplus =
-    .title = ਸਮੱਗਰੀ ਦੀ ਚੌੜਾਈ ਵਧਾਓ
-about-reader-toolbar-lineheightminus =
-    .title = ਲਾਈਨ ਦੀ ਉਚਾਈ ਘਟਾਓ
-about-reader-toolbar-lineheightplus =
-    .title = ਲਾਈਨ ਦੀ ਉਚਾਈ ਵਧਾਓ
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -59,7 +33,6 @@ about-reader-font-type-monospace = ਮੋਨੋਸਪੇਸ
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = ਰੀਡਰ ਝਲਕ ਬੰਦ ਕਰੋ
-about-reader-toolbar-type-controls = ਟਾਈਪ ਕੰਟਰੋਲ
 about-reader-toolbar-text-layout-controls = ਲਿਖਤ ਅਤੇ ਖਾਕਾ
 about-reader-toolbar-theme-controls = ਥੀਮ
 about-reader-toolbar-savetopocket = { -pocket-brand-name } ਨਾਲ ਸੰਭਾਲੋ

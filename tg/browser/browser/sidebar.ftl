@@ -32,7 +32,6 @@ sidebar-history-clear =
     .label = Пок кардани таърих
 sidebar-history-sort-by-heading-menucaption =
     .label = Мураттаб аз рӯи:
-sidebar-history-sort-by-heading = Мураттаб аз рӯи:
 sidebar-history-sort-option-date =
     .label = Сана
 sidebar-history-sort-option-site =
@@ -52,14 +51,9 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Васеъшавиҳои навори ҷонибӣ
-sidebar-customize-firefox-tools-header =
-    .label = Абзорҳои «{ -brand-product-name }»
 sidebar-customize-firefox-settings = Идораи танзимоти «{ -brand-short-name }»
 sidebar-vertical-tabs =
     .label = Варақаҳои амудӣ
-sidebar-settings =
-    .label = Танзимоти навори ҷонибӣ
 sidebar-hide-tabs-and-sidebar =
     .label = Пинҳон кардани варақаҳо ва навори ҷонибӣ
 sidebar-show-on-the-right =
@@ -78,8 +72,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Идоракунии васеъшавӣ
-sidebar-context-menu-remove-extension =
-    .label = Тоза кардани васеъшавӣ
 sidebar-context-menu-report-extension =
     .label = Шикоят дар бораи васеъшавӣ
 sidebar-context-menu-open-in-tab =

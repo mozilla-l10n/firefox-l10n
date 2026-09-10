@@ -230,8 +230,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Yardım
     .accesskey = Y
-menu-help-report-site-issue =
-    .label = Sayt Mes'elesini Maruzala…
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

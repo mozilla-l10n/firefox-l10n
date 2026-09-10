@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = Użytkownik
 certificate-viewer-tab-people = Osoby
 certificate-viewer-tab-servers = Serwery
 certificate-viewer-tab-ca = Organy certyfikacji
-certificate-viewer-tab-unkonwn = Nieznane

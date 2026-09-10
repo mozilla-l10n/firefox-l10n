@@ -261,8 +261,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = ਪਰੋਫਾਈਲ
 menu-profiles-manage-profiles =
     .label = ਪਰੋਫਾਈਲਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 menu-profiles-new-profile =
@@ -286,9 +284,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = ਇਕਸਟੈਨਸ਼ਨਾਂ ਅਤੇ ਥੀਮ
     .accesskey = E
-menu-tools-addons-and-themes =
-    .label = ਐਡ-ਆਨ ਅਤੇ ਥੀਮ
-    .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = ਸਾਈਨ ਇਨ ਕਰੋ
     .accesskey = g
@@ -345,8 +340,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = ਹੋਰ ਸਮੱਸਿਆ ਹੱਲ ਜਾਣਕਾਰੀ
     .accesskey = T
-menu-help-report-site-issue =
-    .label = …ਸਾਈਟ ਮਸਲੇ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿਓ
 menu-help-share-ideas =
     .label = …ਵਿਚਾਰ ਤੇ ਸੁਝਾਅ ਸਾਂਝੇ ਕਰੋ
     .accesskey = S

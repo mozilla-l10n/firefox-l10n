@@ -2,113 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title }—{ -brand-full-name }
-    .data-content-title-private = { $content-title }— Inig uslig { -brand-full-name }
-    .data-title-default = { -brand-full-name }
-    .data-title-private = Inig uslig { -brand-full-name }
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Tunigin tusligt
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Tunigin tusligt
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } tunigin tusligt
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
 browser-shortcut-description = Tinigin taruradt, tusligt deg we
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Tunigin tusligt
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } Tunigin tusligt
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } Tunigin tusligt
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Tunigin tusligt
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } — Tunigin tusligt
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Tunigin tusligt
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Tunigin tusligt
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Tunigin tusligt
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -155,8 +53,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Ldi agalis n yizen n usekles aruqqin
 urlbar-password-notification-anchor =
     .tooltiptext = Ldi agalis n yizen n wawal uffir yettwakelsen
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Sefrek aseqdec n yizegrar
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Sefrek beṭṭu n tkamirat-ik d/neɣ asawaḍ-ik d usmel
 # "Speakers" is used in a general sense that might include headphones or
@@ -169,15 +65,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Err-d isefka deg uselkim
 urlbar-addons-notification-anchor =
     .tooltiptext = Ldi agalis n yizen i usebded n uzegrir
-urlbar-tip-help-icon =
-    .title = Awi tallelt
 urlbar-search-tips-confirm = Ih, awi-t-id
 urlbar-search-tips-confirm-short = Awi-t
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Taxbalut:
 urlbar-result-menu-button =
     .title = Ldi umuɣ
 urlbar-result-menu-button-feedback = Feedback
@@ -211,9 +100,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = Anef i usumer-a
     .accesskey = A
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = Issin ugar ɣef { -firefox-suggest-brand-name }
-    .accesskey = I
 urlbar-result-menu-manage-firefox-suggest =
     .label = Sefrek { -firefox-suggest-brand-name }
     .accesskey = S
@@ -243,8 +129,6 @@ urlbar-dismissal-acknowledgment-weather = Tanemmirt ɣef triritik. Dayen ur tett
 
 urlbar-search-tips-onboard = Aru cwiṭ, af-d ugar : nadi s { $engineName } srid seg ufeggag n tensa.
 urlbar-search-tips-redirect-2 = Bdu anadi-ik deg ufeggag n tansiwin i wakken ad tsekneḍ isumar seg { $engineName } daɣen seg umuzruy-ik n tunigin.
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = Anadi yuɣal yeshel ugar. Ɛreḍ ad terreḍ anadi-inek•inem d uzzig ugar deg ufeggag n tansiwin. Akken ad d-tessekneḍ tansa URL, ẓer Anadi, deg yiɣewwaṛen.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Fren anegzum-a akken ad tafeḍ ayen tettnadiḍ s tɣawla.
@@ -274,8 +158,6 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Tesweḥleḍ asekles n yisefka i usmelweb-a.
 urlbar-popup-blocked2 =
     .tooltiptext = Tesweḥleḍ isfuyla udhimen d wis kraḍ yettuwellhen seg usmel-a wab.
-urlbar-popup-blocked =
-    .tooltiptext = Tesweḥleḍ asfaylu udhim i usmel-agi.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Teswaḥleḍ urar awurman n teywalt s umeslaw i usmel-agi web.
 urlbar-canvas-blocked =
@@ -378,23 +260,17 @@ quickactions-addons = Sken izegrar
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = iseɣẓanen, isental, izegrar
-quickactions-cmd-addons2 = Izegrar
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Sefrek ticraḍ n yisebtar
 quickactions-cmd-bookmarks = ticraḍ n isebtar
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Sfeḍ azray-ik n melmi kan
-quickactions-cmd-clearrecenthistory = sfeḍ azray-ik n melmi kan
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Sfeḍ azray
-quickactions-cmd-clearhistory = Sfeḍ azray
 # Opens about:downloads page
 quickactions-downloads2 = Sken isadaren
 quickactions-cmd-downloads = isadaren
 # Opens about:addons page in the extensions section
 quickactions-extensions = Sefrek isiɣzaf
 quickactions-cmd-extensions2 = isiɣzaf, izegrar
-quickactions-cmd-extensions = Isiɣzaf
 # Opens Firefox View
 quickactions-firefoxview = Mdel { -firefoxview-brand-name }
 # English is using "view" and "open view", since the feature name is
@@ -412,13 +288,9 @@ quickactions-colorpicker = Fren ini
 # Opens Firefox Library
 quickactions-cmd-library = tamkarḍit
 quickactions-library = Ldi tamkarḍit
-quickactions-cmd-inspector = amaswaḍ, devtools
 # Opens about:logins
 quickactions-logins2 = Sefrek awalen uffiren
 quickactions-cmd-logins = inekcam, awalen uffiren
-# Opens about:addons page in the plugins section
-quickactions-plugins = Sefrek izegrar
-quickactions-cmd-plugins = Izegrar
 # Opens the print dialog
 quickactions-print2 = Siggez asebter
 quickactions-cmd-print = siggez
@@ -443,19 +315,16 @@ quickactions-cmd-screenshot2 = tuṭṭfa n ugdil, ṭṭef agdil
 # Opens about:translations
 quickactions-translate = Suqel
 quickactions-cmd-translate = Suqel
-quickactions-cmd-screenshot = tuṭṭfa n ugdil
 # Opens about:preferences
 quickactions-settings2 = Sefrek iɣewwaren
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = iɣewwaren, ismenyafen, tixtiṛiyin, sefrek
-quickactions-cmd-settings = iɣewwaren, ismenyifen, tixtiṛiyin
 # Opens about:addons page in the themes section
 quickactions-themes = Sefrek isental
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-themes2 = isental, izegrar
-quickactions-cmd-themes = Isental
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Leqqem { -brand-short-name }
 quickactions-cmd-update = Leqqem
@@ -464,7 +333,6 @@ quickactions-viewsource2 = Tangalt taɣbalut n usebter
 quickactions-cmd-viewsource2 = sken aɣbalu, tangalt aɣbalut, asebter aɣbalu
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = Ldi { -firefoxlabs-brand-name }
-quickactions-cmd-viewsource = sken aɣbalu, aɣbalu
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Issin ugar ɣef tigawin tirurad
@@ -521,9 +389,7 @@ identity-custom-root = Tuqqna tettwasentem sɣur amazan n uselkin ur yessin ara 
 identity-passive-loaded = Kra n yiḥricen deg usebter-a mačči d iɣelsanen (am tugniwin).
 identity-active-loaded = Tessenseḍ ammesten deg usebter-a.
 identity-weak-encryption = Asebter-a isseqdac awgelhen fessusen.
-identity-insecure-login-forms = Isem n useqdac d wawal uffir i tesqedceḍ deg usmel-a zemren ad ttwakren.
 identity-https-only-connection-upgraded = (leqqem ɣer HTTPS)
-identity-https-only-label = Askar HTTPS-Only
 identity-https-only-label2 = Sali s wudem awurman asmel-a ɣer tuqqna taɣellsant
 identity-https-only-dropdown-on =
     .label = Yermed
@@ -531,8 +397,6 @@ identity-https-only-dropdown-off =
     .label = Yensa
 identity-https-only-dropdown-off-temporarily =
     .label = Sens i kra n wakud
-identity-https-only-info-turn-on2 = Rmed askar HTTPS-Only i usmel-a ma tebɣiḍ { -brand-short-name } i uleqqem n tuqqna melmi tzemreḍ.
-identity-https-only-info-turn-off2 = Ma asebter yettban yerreẓ, tzemreḍ ad tsenseḍ kan askar HTTPS i usmel-a akken ad talseḍ asali s useqdec n HTTP araɣellsan.
 identity-https-only-info-turn-on3 = Rmed ileqman HTTPS i usmel-a ma tebɣiḍ { -brand-short-name } i uleqqem n tuqqna melmi tzemreḍ.
 identity-https-only-info-turn-off3 = Ma asebter yettban yerreẓ, tzemreḍ ad tsenseḍ ileqman HTTPS i usmel-a akken ad talseḍ asali s useqdec n HTTP araɣellsan.
 identity-https-only-info-no-upgrade = Aleqqem n tuggna seg HTTP d awezɣi.
@@ -550,7 +414,6 @@ identity-remove-cert-exception =
     .label = Kkes tasureft
     .accesskey = K
 identity-description-insecure = Tuqqna-inek ɣer usmel-a mačči d tusligt. Zemren wiyaḍ ad walin talɣut ara tazneḍ (am wawalen uffiren, iznan, atg.).
-identity-description-insecure-login-forms = Talɣut n yisem n useqdac i d-tefkiḍ deg usebter-a mačči d taɣelsant u yezmer ad tettwaker.
 identity-description-weak-cipher-intro = Tuqqna-inek ɣeṛ usmel-a tesseqdac awgelhen fessusen u mačči d tusligt.
 identity-description-weak-cipher-risk = Zemren imdanen-nniḍen ad walin talɣut-ik neɣ ad beddlen tikli n usmel web.
 identity-description-active-blocked2 = { -brand-short-name } issewḥel kra n yiḥricen n usebter-a ur nelli ara d iɣelsanen.
@@ -559,12 +422,6 @@ identity-description-passive-loaded-insecure2 = Asmel-a isεa agbur araɣelsan (
 identity-description-passive-loaded-mixed2 = Ɣas akken { -brand-short-name } issewḥel kra n ugbur, mazal yella kra n ugbur ur nelli d aɣelsan deg usebter (am tugniwin).
 identity-description-active-loaded = Asmel-a isεa agbur araɣelsan (am iskripten) u tuqqna-inek ɣur-s mačči d tusligt.
 identity-description-active-loaded-insecure = Zemren wiyaḍ ad walin talɣut ara tebḍuḍ d usmel-a (am wawalen uffiren, iznan, atg.).
-identity-disable-mixed-content-blocking =
-    .label = Kkes ammesten i tura
-    .accesskey = K
-identity-enable-mixed-content-blocking =
-    .label = Sermed ammesten
-    .accesskey = R
 identity-more-info-link-text =
     .label = Ugar n telɣut
 
@@ -581,40 +438,6 @@ browser-window-close-button =
 # Clicking this button closes the window and returns to the tab where it was opened from
 browser-window-return-to-opener =
     .tooltiptext = Uɣal
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = TAƔURI
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = ISUSEM
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = TAƔURI TAWURMANT TETTUSEWḤEL
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = TUGNA-DEG-TUGNA
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] Sgugem iccer
-        [one] Sgugem iccer
-       *[other] Sgugem accaren { $count }
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] Kkes asgugem n yiccer
-        [one] Kkes asgugem n yiccer
-       *[other] Kkes asgugem n waccaren { $count }
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] ƔEṚ ICCER
-        [one] ƔEṚ ICCER
-       *[other] ƔEṚ ACCAREN N { $count }
-    }
 
 ## Bookmarks toolbar items
 
@@ -650,10 +473,6 @@ sharing-warning-proceed-to-tab =
     .label = Ɛeddi ɣer yiccer
 sharing-warning-disable-for-session =
     .label = Kkes beṭṭu n urmad n ummesten n tɣimit-a
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = I useqdec n unezgum F12, ldi qbel DevTools seg wumuɣ n yifecka n yiminig.
 
 ## URL Bar
 
@@ -718,8 +537,6 @@ urlbar-extension =
     .value = Asiɣzef:
 urlbar-go-button2 =
     .title = Ddu ɣer usebter n ufeggag n tansa
-urlbar-go-button =
-    .tooltiptext = Ddu ɣer usebter n ufeggag n tansa
 urlbar-page-action-button =
     .tooltiptext = Asebter n tigawin
 urlbar-revert-button =
@@ -776,11 +593,6 @@ urlbar-result-action-tabtosearch-web = Nadi s { $engine } srid seg ugalis n tans
 urlbar-result-action-tabtosearch-other-engine = Nadi s { $engine } srid seg ugalis n tansa
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Nɣel
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = d arbadu
 # The sub title of an add-on suggestion in the urlbar.
@@ -791,23 +603,6 @@ urlbar-result-mdn-subtitle = { -mdn-brand-name }
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
 urlbar-result-suggestion-recommended = Yettuwelleh
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
-# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
-# The last = sign will be shown as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
-# Shows the result of a formula expression being calculated, to a maximum of 9 significant
-# digits. This is used for numbers < 1.
-# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 # The title of a weather suggestion in the urlbar. The temperature and unit
 # substring should be inside a <strong> tag. If the temperature and unit are not
 # adjacent in the localization, it's OK to include only the temperature in the
@@ -917,32 +712,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Nadi { $localSearc
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Nadi s { $engine }
-urlbar-searchmode-dropmarker =
-    .tooltiptext = Fren amsedday n unadi
-urlbar-searchmode-bookmarks =
-    .label = Ticraḍ n isebtar
-urlbar-searchmode-tabs =
-    .label = Tibzimin
-urlbar-searchmode-history =
-    .label = Azray
-urlbar-searchmode-actions =
-    .label = Tigawin
-urlbar-searchmode-exit-button =
-    .tooltiptext = Mdel
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = Tikkelt-a, nadi s:
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = Iɣewwaren n unadi
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button2 =
-    .label = { $engine }, fren amsedday n unadi
-    .tooltiptext = { $engine }, fren amsedday n unadi
-urlbar-searchmode-button-no-engine =
-    .label = Ulac anegzum n unasiw i yettwafernen, ren anegzum
-    .tooltiptext = Ulac anegzum n unasiw i yettwafernen, ren anegzum
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1034,16 +803,10 @@ urlbar-group-trending =
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Ur d-skanay ara inadiyen yettwassnen
     .accesskey = U
-# Label shown above sponsored suggestions in the urlbar results.
-urlbar-group-sponsored =
-    .label = S lmendad
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Ur d-skanay ara inadiyen yettwassnen
     .accesskey = U
-urlbar-result-menu-trending-why =
-    .label = Acuɣer i ttwaliɣ aya?
-    .accesskey = A
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = Tanemmirt ɣef tamawt-ik. Dayen, ur tettuɣaleḍ ara ad twaliḍ inadiyen i yettwassnen.
@@ -1124,12 +887,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Ffer afeggag n yifecka n tecraḍ n yisebtar
            *[other] Sken afeggag n yifecka n tecraḍ n yisebtar
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Kkes umuγ n tecraḍ n yisebtar seg ufeggag
-           *[other] Rnu umuγ n tecraḍ n yisebtar ɣer ufeggag
-        }
 
 ##
 
@@ -1160,14 +917,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = Ticraḍ n yisebtar
-library-recent-activity-title =
-    .value = Armud n melmi kan
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Sekles ɣer { -pocket-brand-name }
-    .tooltiptext = Sekles ɣer { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
@@ -1240,8 +989,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = Isem n useqdac
-panel-save-update-password = Awal uffir
 panel-save-update-username-2 =
     .label = Isem n useqdac
 panel-save-update-password-2 =
@@ -1254,30 +1001,11 @@ menu-share-more =
     .label = Ugar…
 menu-share-windows =
     .label = Ugar n tnefrunin
-menu-share-copy-link =
-    .label = Nɣel aseɣwen
-    .accesskey = l
 ui-tour-info-panel-close =
     .tooltiptext = Mdel
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = Sireg isfuyla udhimen i { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Sewḥel isfuyla udhimen i { $uriHost }
-    .accesskey = p
-
 ##
 
-popups-infobar-dont-show-message =
-    .label = Ur d-skan ara izen-a ticki isfuyla udhimen weḥlen
-    .accesskey = D
-edit-popup-settings =
-    .label = Sefrek iɣewwaṛen n usfaylu udhim…
-    .accesskey = S
 picture-in-picture-hide-toggle =
     .label = Ffer asfaylu tugna deg tugna
     .accesskey = H
@@ -1303,8 +1031,6 @@ navbar-downloads =
     .label = Isadaren
 navbar-overflow-2 =
     .tooltiptext = Ugar n yifecka
-navbar-overflow =
-    .tooltiptext = Ugar n yifecka…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1389,11 +1115,6 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = Tiɣimit tusligt tekfa
-    .tooltiptext = Tiɣimit tusligt tekfa
-reset-pbm-panel-heading = Fakk tiɣimit-ik·im tusligt?
-reset-pbm-panel-description = Mdel meṛṛa accaren usligen syen kkes azray, inagan n tuqqna, akked yisefka niḍen n yismal.
 reset-pbm-panel-always-ask-checkbox =
     .label = Sutur yal tikkelt
     .accesskey = S
@@ -1403,9 +1124,6 @@ reset-pbm-panel-cancel-button =
 reset-pbm-panel-confirm-button2 =
     .label = Sfeḍ tiɣimit tusligt
     .accesskey = S
-reset-pbm-panel-confirm-button =
-    .label = Kkes isefka n tɣimit
-    .accesskey = K
 reset-pbm-panel-complete = Isefka n tɣimit tusligt ttwakksen
 reset-pbm-toolbar-button2 =
     .label = Sfeḍ tiɣimit tusligt

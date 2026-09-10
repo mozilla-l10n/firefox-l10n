@@ -23,13 +23,11 @@ neterror-override-exception-button = Priimti riziką ir tęsti
 neterror-pref-reset-button = Atstatyti numatytąsias nuostatas
 neterror-return-to-previous-page-button = Eiti atgal
 neterror-return-to-previous-page-recommended-button = Grįžti (rekomenduojama)
-neterror-try-again-button = Bandyti dar kartą
 neterror-view-certificate-link = Rodyti liudijimą
 
 ##
 
 neterror-pref-reset = Panašu, kad taip galėjo nutikti dėl jūsų tinklo saugumo nuostatų. Ar norite atstatyti numatytąsias reikšmes?
-neterror-error-reporting-automatic = Pranešdami apie tokias klaidas kaip ši, padėsite „{ -vendor-short-name }i“ nustatyti ir užblokuoti kenksmingas svetaines
 
 ## Specific error messages
 
@@ -46,8 +44,6 @@ neterror-file-not-found-moved = Patikrinkite, ar failas nebuvo perkeltas, pervar
 neterror-access-denied = Jis galėjo būti pašalintas, perkeltas arba priėjimą riboja failo leidimai.
 neterror-unknown-protocol = Gali būti, kad šiam adresui atverti reikia įdiegti papildomą programinę įrangą.
 neterror-redirect-loop = Ši klaida galėjo įvykti dėl to, kad naršyklė nepriima svetainės slapukų.
-neterror-unknown-socket-type-psm-installed = Įsitikinkite, kad į jūsų sistemą yra įdiegta asmeninio saugumo tvarkytuvė.
-neterror-unknown-socket-type-server-config = Ši klaida galėjo įvykti dėl nestandartinės serverio konfigūracijos.
 neterror-not-cached-intro = Prašomo dokumento „{ -brand-short-name }“ podėlyje nėra.
 neterror-not-cached-sensitive = Saugumo sumetimais „{ -brand-short-name }“ jautrių dokumentų automatiškai iš naujo neatsiunčia.
 neterror-not-cached-try-again = Jeigu norite dokumentą iš svetainės atsiųsti iš naujo, spustelėkite „Bandyti dar kartą“.

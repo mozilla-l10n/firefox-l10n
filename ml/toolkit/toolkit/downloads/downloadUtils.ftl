@@ -61,11 +61,5 @@ download-utils-time-left-single = { $time } ശേഷിക്കുന്നു
 download-utils-time-left-double = { $time1 } { $time2 } ശേഷിക്കുന്നു
 download-utils-time-few-seconds = കുുറച്ച് നിമിഷങ്ങള്‍ ബാക്കി
 download-utils-time-unknown = അറിയാത്ത സമയം ബാക്കി
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = { $scheme } ശ്രോതസ്സ്
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = ലോക്കല്‍ ഫയല്‍
 # Displayed time for files finished yesterday
 download-utils-yesterday = ഇന്നലെ

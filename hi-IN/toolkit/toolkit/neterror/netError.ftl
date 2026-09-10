@@ -22,13 +22,11 @@ neterror-override-exception-button = जोखिम को स्वीका�
 neterror-pref-reset-button = तयशुदा सेटिंग्स पुरानी स्थिति में लाएं
 neterror-return-to-previous-page-button = पीछे जाएँ
 neterror-return-to-previous-page-recommended-button = पीछे जाएँ (निर्देशित)
-neterror-try-again-button = फिर कोशिश करें
 neterror-view-certificate-link = प्रमाणपत्र देखें
 
 ##
 
 neterror-pref-reset = लगता है आपकी नेटवर्क सिक्योरिटी के कारण यह हो रहा है. क्या आप चाहते हैं कि आपकी सेटिंग पुरानी स्थिति में आ जाए?
-neterror-error-reporting-automatic = इस तरह की त्रुटियों की सूचना देकर { -vendor-short-name } का सहयोग करें ताकि { -vendor-short-name } दुर्भावनापूर्ण साइटों की पहचान कर बंद कर सके
 
 ## Specific error messages
 
@@ -45,8 +43,6 @@ neterror-file-not-found-moved = जाँचे यह देखने के �
 neterror-access-denied = यह हटाया, खिसकाया गया हो सकता है या फ़ाइल अनुमति पहुँच प्रतिबाधित कर सकती हैं.
 neterror-unknown-protocol = आप अन्य साफ्टवेयर को इस पता को खोलने के लिए संस्थापित कर सकते हैं.
 neterror-redirect-loop = यह समस्या कभी कभी कुकी को स्वीकार करने या निष्क्रिय करने के कारण होता है.
-neterror-unknown-socket-type-psm-installed = सुनिश्चित करने के लिए जाँचें कि आपके सिस्टम में निजी सुरक्षा प्रबंधक स्थापित है.
-neterror-unknown-socket-type-server-config = यह सर्वर पर किसी गैर मानक विन्यास के कारण हो सकता है.
 neterror-not-cached-intro = The requested document is not available in { -brand-short-name }'s cache.
 neterror-not-cached-sensitive = As a security precaution, { -brand-short-name } does not automatically re-request sensitive documents.
 neterror-not-cached-try-again = Click Try Again to re-request the document from the website.

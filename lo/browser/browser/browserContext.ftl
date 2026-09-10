@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = ກັບໄປຫນຶ່ງຫນ້າ ({ $shortcut })
     .aria-label = ກັບຄືນ
+    .tooltiptext = ກັບໄປຫນຶ່ງຫນ້າ ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = ໄປຫນ້າຖັດໄປ ({ $shortcut })
     .aria-label = ໄປຂ້າງຫນ້າ
+    .tooltiptext = ໄປຫນ້າຖັດໄປ ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -71,12 +71,6 @@ toolbar-button-stop =
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
-
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
 
 ## Account toolbar Button
 
@@ -125,9 +119,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = ບັນທຶກລີ້ງນີ້ໄວ້ທີ່...
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = ບັນທຶກລິ້ງໄປຫາ { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -265,40 +256,22 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = ສົ່ງຈົດໝາຍສຽງ…
     .accesskey = a
-main-context-menu-save-to-pocket =
-    .label = ບັນທຶກໜ້າໃສ່ { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = ສົ່ງຫນ້າໄປຫາອຸປະກອນ
-    .accesskey = D​
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = ໃຊ້ການເຂົ້າສູ່ລະບົບທີ່ບັນທຶກໄວ້
-    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = ໃຊ້ລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = ໃຊ້ { -relay-brand-short-name } Email Mask
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = ແນະນຳລະຫັດຜ່ານທີ່ເຂັ້ມແຂງ...
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = ການຈັດການການເຂົ້າສູ່ລະບົບ
-    .accesskey = M
 main-context-menu-manage-passwords =
     .label = ຈັດການລະຫັດຜ່ານ
     .accesskey = M
-main-context-menu-keyword =
-    .label = ປ້ອນຄຳທີ່ຕ້ອງການຄົ້ນຫາໃສ່...
-    .accesskey = K
 main-context-menu-add-engine =
     .label = ເພີ່ມເຄື່ອງມືການຄົ້ນຫາ
     .accesskey = S
@@ -344,9 +317,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = ຖ່າຍພາບຫນ້າຈໍ
     .accesskey = T
-main-context-menu-take-frame-screenshot =
-    .label = ຖ່າຍພາບຫນ້າຈໍ
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = ເບິງແຫລ່ງຂໍ້ມູນຂອງຫນ້ານີ້
     .accesskey = V

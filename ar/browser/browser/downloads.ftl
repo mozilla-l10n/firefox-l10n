@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] اعرض في فايندر
            *[other] اعرض في المجلد
         }
-downloads-cmd-show-downloads =
-    .label = اعرض مجلد التنزيلات
 downloads-cmd-retry =
     .tooltiptext = أعد المحاولة
 downloads-cmd-retry-panel =

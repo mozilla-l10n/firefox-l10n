@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } — Индикатор общего доступа
-webrtc-indicator-window =
-    .title = { -brand-short-name } — Индикатор общего доступа
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Вы открыли доступ к своему микрофону. Щёлкните для контроля доступа.
 webrtc-screen-system-menu =
     .label = Вы открыли доступ к одному из ваших окон или экрану. Щёлкните для контроля доступа.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = К вашей камере и микрофону имеется доступ. Щёлкните для контроля доступа.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = К вашей камере имеется доступ. Щёлкните для контроля доступа.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = К вашему микрофону имеется доступ. Щёлкните для контроля доступа.
-webrtc-indicator-sharing-application =
-    .tooltiptext = К приложению имеется доступ. Щёлкните для контроля доступа.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = К вашему экрану имеется доступ. Щёлкните для контроля доступа.
-webrtc-indicator-sharing-window =
-    .tooltiptext = К окну имеется доступ. Щёлкните для контроля доступа.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = К вкладке имеется доступ. Щёлкните для контроля доступа.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -191,7 +172,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Разрешит
 
 webrtc-share-screen-warning = Предоставляйте доступ к экрану только тем сайтам, которым доверяете. Предоставление доступа может позволить поддельным сайтам использовать Интернет от вашего имени и украсть ваши личные данные.
 webrtc-share-browser-warning = Предоставляйте доступ к { -brand-short-name } только тем сайтам, которым доверяете. Предоставление доступа может позволить поддельным сайтам использовать Интернет от вашего имени и украсть ваши личные данные.
-webrtc-share-screen-learn-more = Подробнее
 webrtc-pick-window-or-screen = Выберите окно или экран
 webrtc-share-entire-screen = Во весь экран
 webrtc-share-pipe-wire-portal = Использовать настройки операционной системы

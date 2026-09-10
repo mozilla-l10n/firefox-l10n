@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = लगइनहरू र पासवर्डहरू
-about-logins-login-filter =
-    .placeholder = लगइनहरू खोज्नुहोस्
-    .key = F
-create-new-login-button =
-    .title = नयाँ लगइन सिर्जना गर्नुहोस्
 about-logins-page-title-name = पासवर्डहरू
 about-logins-login-filter2 =
-    .placeholder = पासवर्डहरू खोज्नुहोस्
     .key = F
+    .placeholder = पासवर्डहरू खोज्नुहोस्
 create-login-button =
     .title = पासवर्ड थप्नुहोस्
 fxaccounts-sign-in-text = तपाईंको अन्य उपकरणहरूमा तपाईंको पासवर्डहरू प्राप्त गर्नुहोस्
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = अन्या ब्राउजरबाट आयात गर्नुहोस्…
 about-logins-menu-menuitem-import-from-a-file = एउटा फाइलबाट आयात गर्नुहोस्…
-about-logins-menu-menuitem-export-logins = लगइनहरु निर्यात गर्नुहोस्…
-about-logins-menu-menuitem-remove-all-logins = सबै लगइनहरु हटाउनुहोस्
 about-logins-menu-menuitem-export-logins2 = पासवर्ड निर्यात गर्नुहोस्…
 about-logins-menu-menuitem-remove-all-logins2 = सबै पासवर्डहरू हटाउनुहोस्...
 menu-menuitem-preferences =
@@ -42,21 +34,6 @@ about-logins-menu-menuitem-help = मद्दत
 
 login-list =
     .aria-label = खोज प्रश्न मिल्ने लगइनहरू
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count }लग - इन
-       *[other] { $count }लगइनहरू
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $count } वा { $total } लगइन गर्नुहोस्
-       *[other] { $count } वा { $total } लगइनहरू
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -80,14 +57,10 @@ login-list-username-reverse-option = प्रयोगकर्ता नाम
 about-logins-login-list-alerts-option = सुचनाहरु
 login-list-last-changed-option = पछिल्लो परिमार्जित
 login-list-last-used-option = अन्तिम प्रयोग गरिएको
-login-list-intro-title = लगइनहरू फेला परेन
 login-list-intro-title2 = कुनै पनि पासवर्ड सुरक्षित गरिएको छैन
 login-list-intro-description = जब तपाईं पासवर्ड बचत गर्नुहुन्छ { -brand-product-name }, यो यहाँ देखिनेछ।
-about-logins-login-list-empty-search-title = लगइनहरू फेला परेन
 about-logins-login-list-empty-search-title2 = कुनै पासवर्ड फेला परेन
 about-logins-login-list-empty-search-description = तपाईको खोजसँग मिल्ने कुनै परिणामहरू छैनन्।
-login-list-item-title-new-login = नयाँ लगईन
-login-list-item-subtitle-new-login = तपाईको लगईन प्रमाणहरू प्रविष्ट गर्नुहोस्
 login-list-item-title-new-login2 = पासवर्ड थप्नुहोस्
 login-list-item-subtitle-missing-username = (प्रयोगकर्ता नाम छैन)
 about-logins-list-item-breach-icon =
@@ -103,28 +76,20 @@ about-logins-list-section-week = पछिल्लो 7 दिन
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = सेभ गरेका लगइनहरु खोज्दै हुनुहुन्छ ? सिङ्कलाई सुचारु गर्नुहोस् वा आयात गर्नुहोस् ।
-about-logins-login-intro-heading-logged-in = सिङ्क गरिएका लगइनहरु भेट्टिएनन् ।
-login-intro-description = यदि तपाईंले आफ्नो लगइनहरू { -brand-product-name }  मा बिभिन्न उपकरणमा बचत गर्नुभयो भने, तिनीहरूलाई यहाँ कसरी लिने भन्ने बारे यहाँ छ:
-login-intro-instructions-fxa = खाता सिर्जना गर्नुहोस् वा साइन इन गर्नुहोस् तपाईंको { -fxaccount-brand-name } जसले गर्दा तपाईंको उपकरणमा लगइनहरू बचत हुन्छन्।
 about-logins-login-intro-heading-message = आफ्नो पासवर्डहरू सुरक्षित स्थानमा सुरक्षित गर्नुहोस्
 login-intro-description2 = तपाईंले { -brand-product-name } मा सुरक्षित गर्नुभएका सबै पासवर्डहरू इन्क्रिप्ट गरिएका छन्। साथै, हामी उल्लङ्घनहरूको लागि हेरचाह गर्छौं र यदि तपाईं प्रभावित हुनुहुन्छ भने तपाईंलाई सचेत गराउँछौं। <a data-l10n-name="breach-alert-link">थप जान्नुहोस्</a>
 login-intro-instructions-fxa2 = तपाईंको लगइनहरू बचत गरिएका यन्त्रमा तपाईंको खाता सिर्जना गर्नुहोस् वा साइन इन गर्नुहोस्।
 login-intro-instructions-fxa-settings = सेटिङ्गहरूमा जानुहोस् > सिङ्क > सिङ्किङ सक्षम गर्नुहोस… लगइनहरू र पासवर्डहरू जाँच बाकस चयन गर्नुहोस्।
 login-intro-instructions-fxa-passwords-help = थप मद्दतको लागि <a data-l10n-name="passwords-help-link">पासवर्ड समर्थन</a> मा जानुहोस्।
-about-logins-intro-browser-only-import = यदि तपाइँको लगइनहरू अर्को ब्राउजरमा बचत गरिएको छ भने, तपाइँ <a data-l10n-name="import-link">तिनीहरूलाई { -brand-product-name }</a>मा आयात गर्न सक्नुहुन्छ।
-about-logins-intro-import2 = यदि तपाइँको लगइनहरू { -brand-product-name } भन्दा बाहिर सुरक्षित गरिएका छन् भने, तपाइँ <a data-l10n-name="import-browser-link"> बाट तिनीहरूलाई अर्को ब्राउजरबाट </a> वा <a data-l10n-name="import-file-link">फाइलबाट आयात गर्न सक्नुहुन्छ</a>
 about-logins-intro-import3 = अब पासवर्ड थप्न माथिको प्लस साइन बटन चयन गर्नुहोस्। तपाईं पनि <a data-l10n-name="import-browser-link">अर्को ब्राउजरबाट पासवर्ड आयात गर्न सक्नुहुन्छ</a> वा <a data-l10n-name="import-file-link">फाइलबाट</a> a>।
 
 ## Login
 
-login-item-new-login-title = नयाँ लगइन सिर्जना गर्नुहोस्
 # Header for adding a password
 about-logins-login-item-new-login-title = पासवर्ड थप्नुहोस्
 login-item-edit-button = सम्पादन गर्नुहोस्
 about-logins-login-item-remove-button = हटाउनुहोस्
 login-item-origin-label = वेबसाइट ठेगाना
-login-item-tooltip-message = तपाईंले लगइन गर्नुभएको वेबसाइटको सही ठेगानासँग यो मेल खान्छ भन्ने कुरा निश्चित गर्नुहोस्।
 about-logins-origin-tooltip2 = पूरा ठेगाना प्रविष्ट गर्नुहोस् र तपाईंले साइन इन गर्नुभएको ठाउँसँग ठ्याक्कै मिल्दोजुल्दो छ भनी सुनिश्चित गर्नुहोस्।
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -142,7 +107,6 @@ login-item-password-reveal-checkbox =
     .aria-label = पासवर्ड देखाउनुहोस्
 login-item-copy-password-button-text = कपि गर्नुहोस्
 login-item-copied-password-button-text = प्रतिलिपि गरियो !
-login-item-save-changes-button = परिवर्तनहरू सुरक्षित गर्नुहोस्
 about-logins-login-item-save-changes-button = सङ्ग्रह गर्नुहोस्
 login-item-save-new-button = सङ्ग्रह गर्नुहोस्
 login-item-cancel-button = रद्द गर्नुहोस्
@@ -167,11 +131,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## notes are only valid for English. Please test in your respected locale.
 
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = आफ्नो लगइन सम्पादन गर्न, आफ्नो लगइन प्रमाणहरू प्रविष्ट गर्नुहोस्। यसले तपाईंको खाताहरूको सुरक्षालाई सुरक्षित गर्न सहयोग गर्छ।
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = बचत गरिएका लगइनहरु सम्पादन गर्नुहोस्
-# This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = आफ्नो पासवर्ड सम्पादन गर्न, आफ्नो Windows लगइन प्रमाणहरू प्रविष्ट गर्नुहोस्। यसले तपाईंको खाताहरूको सुरक्षालाई सुरक्षित गर्न मद्दत गर्छ।
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -186,11 +145,6 @@ about-logins-copy-password-os-auth-dialog-message-win = आफ्नो पा�
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = सेभ गरेको पासवर्ड कपि गर्नुहोस्
-# This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = आफ्नो लगइनहरु निर्यात गर्न, आफ्नो लगइन प्रमाणहरू प्रविष्ट गर्नुहोस्। यसले तपाईंको खाताहरूको सुरक्षालाई सुरक्षित गर्न सहयोग गर्छ।
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = सेभ गरिएका लगइनहरू र पासवर्डहरू निर्यात गर्नुहोस्
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = तपाईंको पासवर्डहरू निर्यात गर्न, तपाईंको Windows लगइन प्रमाणहरू प्रविष्ट गर्नुहोस्। यसले तपाईंको खाताहरूको सुरक्षालाई सुरक्षित गर्न मद्दत गर्छ।
 # This message can be seen when attempting to export a password in about:logins
@@ -209,8 +163,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = रद्द गर्नुहोस्
 confirmation-dialog-dismiss-button =
     .title = रद्द गर्नुहोस्
-about-logins-confirm-remove-dialog-title = यो लगइन हटाउन चाहनुहुन्छ?
-confirm-delete-dialog-message = यो कार्य पूर्ववत गर्न सकिँदैन ।
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = पासवर्ड हटाउने हो?
 # Message for modal to confirm the removal of one saved password
@@ -225,34 +177,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] हटाउनुहोस्
         [one] सबै हटाउनुहोस्
        *[other] सबै हटाउनुहोस्
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] हुन्छ, यो लगइन हटाउनुहोस्
-        [one] हुन्छ, यी लगइनहरू हटाउनुहोस्
-       *[other] हुन्छ, यी लगइनहरू हटाउनुहोस्
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] { $count } लगइन हटाउन चाहानुहुन्छ ?
-       *[other] { $count } लगइनहरु हटाउन चाहानुहुन्छ ?
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] यसले तपाईंले { -brand-short-name } मा सुरक्षित गर्नुभएको लगइन र यहाँ देखा पर्ने कुनै पनि उल्लङ्घन अलर्टहरू हटाउनेछ। तपाईंले यो कार्यलाई पहिलाको जस्तै गर्न सक्नुहुने छैन।
-        [one] यसले तपाईंले { -brand-short-name } मा सुरक्षित गर्नुभएका लगइनहरू र यहाँ देखा पर्ने कुनै पनि उल्लङ्घन अलर्टहरू हटाउनेछ। तपाईंले यो कार्यलाई पहिलाकै अवस्थामा गर्न सक्नुहुने छैन।
-       *[other] यसले तपाईंले { -brand-short-name } मा सुरक्षित गर्नुभएका लगइनहरू र यहाँ देखा पर्ने कुनै पनि उल्लङ्घन अलर्टहरू हटाउनेछ। तपाईंले यो कार्यलाई पहिलाकै अवस्थामा गर्न सक्नुहुने छैन।
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] के तपाईँ { $count } सबै यन्त्रहरूबाट लगइन हटाउन चाहानुहुन्छ ?
-       *[other] के तपाईँ { $count } सबै यन्त्रहरूबाट लगइनहरु हटाउन चाहानुहुन्छ ?
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [1] यसले तपाईंको { -fxaccount-brand-name } मा सिंक गरिएका सबै यन्त्रहरूमा { -brand-short-name } मा सुरक्षित गर्नुभएका सबै लगइनहरूलाई हटाउनेछ। यसले यहाँ देखा पर्ने उल्लङ्घन अलर्टहरू पनि हटाउनेछ। तपाईंले यो कार्यलाई अन्डू गर्न सक्नुहुने छैन।
-        [one] यसले तपाईंको { -fxaccount-brand-name } मा सिंक गरिएका सबै यन्त्रहरूमा { -brand-short-name } मा सुरक्षित गर्नुभएका सबै लगइनहरूलाई हटाउनेछ। यसले यहाँ देखा पर्ने उल्लङ्घन अलर्टहरू पनि हटाउनेछ। तपाईंले यो कार्यलाई अन्डू गर्न सक्नुहुने छैन।
-       *[other] यसले तपाईंको { -fxaccount-brand-name } मा सिंक गरिएका सबै यन्त्रहरूमा { -brand-short-name } मा सुरक्षित गर्नुभएका सबै लगइनहरूलाई हटाउनेछ। यसले यहाँ देखा पर्ने उल्लङ्घन अलर्टहरू पनि हटाउनेछ। तपाईंले यो कार्यलाई अन्डू गर्न सक्नुहुने छैन।
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -290,15 +214,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = लगइनहरू र पासवर्डहरू निर्यात गर्नुहोस्
-about-logins-confirm-export-dialog-message = तपाईंका पासवर्डहरू पढ्न योग्य अक्षर (जस्तै, BadP@ssw0rd) को रूपमा बचत गरिनेछ, ताकि जो कोहीले निर्यातित फाइलहरु खोल्न र तिनीहरूलाई हेर्न सक्छन्।
-about-logins-confirm-export-dialog-confirm-button = निर्यात गर्नुहोस्…
 about-logins-confirm-export-dialog-title2 = पासवर्ड निर्यात गर्ने बारे नोट
 about-logins-confirm-export-dialog-message2 =
     तपाईंले निर्यात गर्दा, तपाईंका पासवर्डहरू पढ्न सकिने पाठ भएको फाइलमा सुरक्षित हुन्छन्।
     तपाईंले फाइल प्रयोग गरिसकेपछि, यो यन्त्र प्रयोग गर्ने अरूहरूले तपाईंको पासवर्डहरू देख्न नपरोस् भन्नका खातिर हामी यसलाई मेटाउन सिफारिस गर्छौं।
 about-logins-confirm-export-dialog-confirm-button2 = निर्यात जारी राख्नुहोस्
-about-logins-alert-import-title = आयात सफल भयो
 about-logins-alert-import-message = विस्तृत आयात कार्यहरुको सारांश हेर्नुहोस्
 confirm-discard-changes-dialog-title = सङ्ग्रह नगरिएका परिवर्तनहरू रद्द गर्न चाहानुहुन्छ ?
 confirm-discard-changes-dialog-message = सबै सङ्ग्रह नगरिएका परिवर्तनहरू हराउने छन्।
@@ -335,11 +255,6 @@ about-logins-error-message-default = यो पासवर्ड सेभ ग�
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = लगइन फाइलहरु निर्यात गर्नुहोस्
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = लगइन्स.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = { -brand-short-name } बाट पासवर्ड निर्यात गर्नुहोस्
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -355,8 +270,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = लगइन फाइलहरु आयात गर्नुहोस्
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = { -brand-short-name } मा पासवर्ड आयात गर्नुहोस्
 about-logins-import-file-picker-import-button = आयात
@@ -380,21 +293,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = आयात सफल भयो
-about-logins-import-dialog-items-added =
-    { $count ->
-        [one] <span>नयाँ लगइनहरू थपियो:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>नयाँ लगइनहरू थपियो:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-        [one] <span>अवस्थित लगइनहरू अद्यावधिक गरियो:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>अवस्थित लगइनहरू अद्यावधिक गरियो:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-        [one] <span>डुप्लिकेट लगइनहरू फेला पर्यो:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(आयात गरिएको छैन)</span> >
-       *[other] <span>डुप्लिकेट लगइनहरू फेला पर्यो:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(आयात गरिएको छैन)</span> >
-    }
 about-logins-import-dialog-items-added2 =
     { $count ->
         [one] <span>नयाँ पासवर्ड थपियो:</span> <span data-l10n-name="count">{ $count }</span>
@@ -430,15 +328,11 @@ about-logins-import-dialog-error-learn-more = थप जान्नुहोस
 about-logins-import-dialog-error-try-import-again = फेरि आयात प्रयास गर्नुहोस्…
 about-logins-import-dialog-error-cancel = रद्द गर्नुहोस्
 about-logins-import-report-title = सारांश आयात गर्नुहोस्
-about-logins-import-report-description = लगइन र पासवर्डहरू { -brand-short-name } मा आयात गरियो।
 about-logins-import-report-description2 = पासवर्डहरू { -brand-short-name } मा आयात गरियो।
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = पङ्क्ति { $number }
-about-logins-import-report-row-description-no-change = नक्कल: अवस्थित लगइनको सटीक मिलान
-about-logins-import-report-row-description-modified = अवस्थित लगइन अद्यावधिक गरियो
-about-logins-import-report-row-description-added = नयाँ लगइन थपियो
 about-logins-import-report-row-description-no-change2 = नक्कल: अवस्थित प्रविष्टिको सटीक मिलान
 about-logins-import-report-row-description-modified2 = अवस्थित प्रविष्टि अद्यावधिक गरियो
 about-logins-import-report-row-description-added2 = नयाँ पासवर्ड थपियो
@@ -455,17 +349,6 @@ about-logins-import-report-row-description-error-missing-field = त्रुट
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">नयाँ लगइनहरू थपियो</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">नयाँ लगइनहरू थपियो</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">अवस्थित लगइनहरू अद्यावधिक गरियो</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">अवस्थित लगइनहरू अद्यावधिक गरियो</div>
-    }
-about-logins-import-report-no-change = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">डुप्लिकेट लगइनहरू</div> <div data-l10n-name="not-imported">(आयात गरिएको छैन)</div>
 about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">नयाँ पासवर्ड थपियो</div>

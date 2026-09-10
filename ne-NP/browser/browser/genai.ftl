@@ -16,11 +16,6 @@ genai-prompt-prefix-selection = म "{ $selection }" चयन गरिएक�
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = एआई च्याटबोटलाई सोध्नुहोस्
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = { $provider } सँग सोध्नुहोस्
 genai-input-ask-generic =
     .placeholder = एआई च्याटबोटलाई सोध्नुहोस्...
 # $provider (string) - name of the provider

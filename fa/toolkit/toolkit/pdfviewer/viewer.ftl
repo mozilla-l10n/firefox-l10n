@@ -152,19 +152,6 @@ pdfjs-printing-not-ready = اخطار: پرونده PDF بطور کامل بار
 
 ## Tooltips and alt text for side panel toolbar buttons
 
-pdfjs-toggle-sidebar-button =
-    .title = باز و بسته کردن نوار کناری
-pdfjs-toggle-sidebar-button-label = تغییرحالت نوارکناری
-pdfjs-document-outline-button =
-    .title = نمایش رئوس مطالب مدارک(برای بازشدن/جمع شدن همه موارد دوبار کلیک کنید)
-pdfjs-document-outline-button-label = طرح نوشتار
-pdfjs-attachments-button =
-    .title = نمایش پیوست‌ها
-pdfjs-attachments-button-label = پیوست‌ها
-pdfjs-layers-button-label = لایه‌ها
-pdfjs-thumbs-button =
-    .title = نمایش تصاویر بندانگشتی
-pdfjs-thumbs-button-label = تصاویر بندانگشتی
 pdfjs-findbar-button =
     .title = جستجو در سند
 pdfjs-findbar-button-label = پیدا کردن
@@ -173,18 +160,14 @@ pdfjs-findbar-button-label = پیدا کردن
 
 # Variables:
 #   $page (Number) - the page number
-pdfjs-thumb-page-title =
-    .title = صفحه { $page }
-# Variables:
-#   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
     .aria-label = تصویر بند‌ انگشتی صفحه { $page }
 
 ## Find panel button title and messages
 
 pdfjs-find-input =
-    .title = پیدا کردن
     .placeholder = پیدا کردن در سند…
+    .title = پیدا کردن
 pdfjs-find-previous-button =
     .title = پیدا کردن رخداد قبلی عبارت
 pdfjs-find-previous-button-label = قبلی
@@ -259,8 +242,8 @@ pdfjs-editor-highlight-button =
     .title = برجسته کردن
 pdfjs-editor-highlight-button-label = برجسته کردن
 pdfjs-highlight-floating-button1 =
-    .title = برجسته کردن
     .aria-label = برجسته کردن
+    .title = برجسته کردن
 pdfjs-highlight-floating-button-label = برجسته کردن
 
 ##
@@ -316,7 +299,4 @@ pdfjs-editor-new-alt-text-error-close-button = بستن
 
 ## Image alt-text settings
 
-pdfjs-editor-alt-text-settings-delete-model-button = حذف
-pdfjs-editor-alt-text-settings-download-model-button = دریافت
-pdfjs-editor-alt-text-settings-downloading-model-button = در حال دریافت…
 pdfjs-editor-alt-text-settings-close-button = بستن

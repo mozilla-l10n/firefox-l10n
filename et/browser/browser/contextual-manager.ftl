@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Otsi paroole
-    .key = F
     .aria-label = Otsi paroole
+    .key = F
+    .placeholder = Otsi paroole
 
 ## Passwords
 

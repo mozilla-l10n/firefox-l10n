@@ -24,7 +24,3 @@ appmenuitem-zoom-enlarge =
     .label = Saa kanu
 appmenuitem-zoom-reduce =
     .label = Saa luu
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Nchi yee ña tsaa

@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = 我選擇了「{ $tabTitle }」頁面中的「{ 
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = 問問 AI 聊天機器人
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = 問問 { $provider }
 genai-menu-open-generic =
     .label = 開啟 AI 聊天機器人
 # $provider (string) - name of the provider
@@ -112,8 +107,6 @@ genai-header-provider-menu =
     .title = 挑選一套機器人
 genai-header-settings-button =
     .title = AI 聊天選項
-genai-header-options-button =
-    .title = 開啟選單
 genai-header-close-button =
     .title = 關閉
 genai-provider-view-details =
@@ -141,37 +134,25 @@ genai-page-button-summarize = 摘要本頁
 
 ## Chatbot onboarding
 
-genai-onboarding-header = 一邊上網，一邊摘要、腦力激盪，還有更多功能
 genai-onboarding-choose-header = 挑選一套要在 { -brand-short-name } 側邊欄使用的 AI 聊天機器人
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = 挑選要在 { -brand-short-name } 側邊欄當中使用的 AI 聊天機器人。當您選擇時，我們會顯示每一套機器人的詳細資訊，也可隨時切換。<a data-l10n-name="learn-more">更多資訊</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = 可隨時切換。若需要挑選上的協助，請<a data-l10n-name="learn-more">閱讀本文了解每套機器人的更多資訊</a>。
 genai-onboarding-primary = 繼續
 genai-onboarding-secondary = 關閉
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = 了解 Claude 的更多資訊
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = 了解 ChatGPT 的更多資訊
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = 了解 Copilot 的更多資訊
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = 了解 Gemini 的更多資訊
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = 了解 HuggingChat 的更多資訊
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = 了解 Le Chat 的更多資訊
-genai-onboarding-select-header = 選擇文字即可檢視建議
-genai-onboarding-select-description = 選擇文字時，我們將提供您一些可以直接送到機器人的提示語，您也可以寫自己的提示語。
-genai-onboarding-select-primary = 開始聊天
 genai-chatbot-contextual-title = 不用切換分頁就能直接使用 AI 聊天機器人
 genai-chatbot-contextual-subtitle = 在 { -brand-short-name } 側邊欄新增 AI 聊天機器人，即可一邊上網，一邊與機器人聊天。
 genai-chatbot-contextual-button = 挑選一套機器人
@@ -184,27 +165,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = 對側邊欄中的火花按�
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = 在側邊欄開啟您的 AI 聊天機器人，然後選擇底部的「摘要本頁」。
 genai-chatbot-summarize-footer-generic-subtitle = 新增 AI 聊天機器人到 { -brand-short-name } 側邊欄，快速摘要頁面內容。
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = 產生文字或程式碼
-genai-onboarding-claude-analyze = 分析文件與圖片
-genai-onboarding-claude-price = 有免費與收費版，需要註冊
-genai-onboarding-chatgpt-generate = 產生文字、圖片或程式碼
-genai-onboarding-chatgpt-analyze = 分析文件與圖片
-genai-onboarding-chatgpt-price = 有免費與收費版，在某些國家或作特定任務時需要註冊
-genai-onboarding-copilot-generate = 產生文字、圖片或程式碼
-genai-onboarding-copilot-analyze = 分析圖片
-genai-onboarding-copilot-price = 有免費與收費版，作特定任務時需要註冊
-genai-onboarding-gemini-generate = 產生文字、圖片或程式碼
-genai-onboarding-gemini-analyze = 分析圖片（免費）與文件（收費）
-genai-onboarding-gemini-price = 有免費與收費版，需要註冊
-genai-onboarding-huggingchat-generate = 產生文字或程式碼
-genai-onboarding-huggingchat-switch = 切換使用一系列不同的開放模型
-genai-onboarding-huggingchat-price-2 = 免費，但發出一定數量請求後需要註冊
-genai-onboarding-lechat-generate = 產生文字或程式碼
-genai-onboarding-lechat-price = 免費，需要註冊
 
 ## Model Optin Component
 
@@ -239,8 +199,8 @@ link-preview-generation-retry = 重試
 link-preview-settings-button =
     .title = 預覽鏈結選項
 link-preview-settings-enable =
-    .label = 開啟預覽鏈結功能
     .description = 開啟捷徑或對鏈結按滑鼠右鍵的時候，先檢視頁面標題、描述與更多資訊。
+    .label = 開啟預覽鏈結功能
 link-preview-settings-key-points =
     .label = 允許 AI 讀取頁面頂部，產生頁面重點
 link-preview-settings-long-press =

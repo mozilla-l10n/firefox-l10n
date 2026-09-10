@@ -155,15 +155,10 @@ addon-sitepermission-host = Sydłowe prawa za { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Wšě přidatki su so přez wěsty modus znjemóžnili.
-extensions-warning-check-compatibility = Přepruwowanje přidatkoweje kompatibelnosće je znjemóžnjene. Je móžno, zo maće njekompatibelne přidatki.
-extensions-warning-safe-mode2 =
-    .message = Wšě přidatki su so přez wěsty modus znjemóžnili.
 extensions-warning-check-compatibility2 =
     .message = Přepruwowanje přidatkoweje kompatibelnosće je znjemóžnjene. Je móžno, zo maće njekompatibelne přidatki.
 extensions-warning-check-compatibility-button = Zmóžnić
     .title = Přepruwowanje přidatkoweje kompatibelnosće zmóžnić
-extensions-warning-update-security = Přepruwowanje wěstoty aktualizacije je znjemóžnjene. Je móžno, zo aktualizacije wam wohrožuja.
 extensions-warning-update-security2 =
     .message = Přepruwowanje wěstoty aktualizacije je znjemóžnjene. Je móžno, zo aktualizacije wam wohrožuja.
 extensions-warning-update-security-button = Zmóžnić
@@ -239,10 +234,6 @@ shortcuts-duplicate = Dwójna tastowa skrótšenka
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } so jako tastowa skrótšenka wjacekróć wužiwa. Dwójne tastowe skrótšenki móža njewočakowane zadźerženje zawinować.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } so jako tastowa skrótšenka wjacekróć wužiwa. Dwójne tastowe skrótšenki móža njewočakowane zadźerženje zawinować.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -264,11 +255,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Rozšěrjenja a drasty su kaž nałoženja za waš wobhladowak, a škitaja hesła, sćahuja wideja, namakaja hrabnjenčka, blokuja wobćežne wabjenje, měnjeja napohlad wašeho wobhladowaka a wjele wjace. Tute małe softwarowe programy so husto wot třećich wuwiwaja. Tu je wuběr { -brand-product-name } <a data-l10n-name="learn-more-trigger">doporučenych</a> rozšěrjenjow za { -brand-product-name } za wosebitu wěstotu, wukon a funkcionalnosć.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Někotre z tutych doporučenjow su personalizowane. Bazuja na rozšěrjenjach, kotrež sće instalował, profilowych nastajenjach a wužiwanskej statistice.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message = Někotre z tutych doporučenjow su personalizowane. Bazuja na rozšěrjenjach, kotrež sće instalował, profilowych nastajenjach a wužiwanskej statistice.
@@ -357,16 +343,9 @@ addon-detail-last-updated-label = Posledni raz zaktualizowany
 addon-detail-homepage-label = Startowa strona
 addon-detail-rating-label = Pohódnoćenje
 # Message for add-ons with a staged pending update.
-install-postponed-message = Tute rozšěrjenje budźe so aktualizować, hdyž so { -brand-short-name } znowa startuje.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Tute rozšěrjenje budźe so aktualizować, hdyž so { -brand-short-name } znowa startuje.
 install-postponed-button = Nětko aktualizować
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Pohódnoćeny z { NUMBER($rating, maximumFractionDigits: 1) } z 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -386,9 +365,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> je so wotstronił.
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = { $addon } je so wotstronił.
 pending-uninstall-undo-button = Cofnyć
@@ -405,11 +381,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = W priwatnych woknach dowoleny
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = W priwatnych woknach dowoleny
 addon-detail-private-browsing-help = Jeli maće prawo, ma rozšěrjenje přistup k wašim aktiwitam online w priwatnym modusu. <a data-l10n-name="learn-more">Dalše informacije</a>
 addon-detail-private-browsing-allow = Dowolić
@@ -436,17 +407,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } jenož rozšěrjenja doporučuje, kotrež našim standardam za wěstotu a wukon wotpowěduja.
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Oficielny rozšěrjenje, wuwite wot Mozilla. Spjelnja wěstotne a wukonowe standardy.
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Tute rozšěrjenje je so přepruwowało, zo by našim standardam za wěstotu a wukon wotpowědowało.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -476,9 +436,6 @@ addon-permissions-heading = Prawa
 addon-permissions-empty2 = Tute rozšěrjenje sej prawa njewužaduje.
 addon-permissions-required-label = Trěbny:
 addon-permissions-optional-label = Na přeće:
-addon-permissions-empty = Tute rozšěrjenje sej prawa njewužaduje
-addon-permissions-required = Trěbne prawa za jadrowu funkcionalnosć:
-addon-permissions-optional = Opcionalne prawa za přidatu funkcionalnosć:
 addon-permissions-learnmore = Dalše informacije wo prawach
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -519,25 +476,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } kompatibelny z { -brand-short-name } { $version } njeje.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } kompatibelny z { -brand-short-name } { $version } njeje.
-details-notification-incompatible-link = Dalše informacije
-details-notification-unsigned-and-disabled = { $name } njeda so za wužiwanje w { -brand-short-name } wobkrućić a je so znjemóžnił.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } njeda so za wužiwanje w { -brand-short-name } wobkrućić a je so znjemóžnił.
-details-notification-unsigned-and-disabled-link = Dalše informacije
-details-notification-unsigned = { $name } njeda so za wužiwanje w { -brand-short-name } wobkrućić. Pokročujće z kedźbliwosću.
 details-notification-unsigned2 =
     .message = { $name } njeda so za wužiwanje w { -brand-short-name } wobkrućić. Pokročujće z kedźbliwosću.
 details-notification-hard-blocked-extension =
     .message = Tute rozšěrjenje je přeńdźenja přećiwo prawidłam Mozilla dla zablokowane a je so znjemóžniło.
 details-notification-hard-blocked-other =
     .message = Tutón přidatk je přeńdźenja přećiwo prawidłam Mozilla dla zablokowany a je so znjemóžnił.
-details-notification-unsigned-link = Dalše informacije
-details-notification-blocked = { $name } je so dla problemow wěstoty abo stabilnosće znjemóžnił.
 details-notification-blocked-link2 = Hlejće podrobnosće
 details-notification-soft-blocked-extension-disabled2 =
     .message = Tute rozšěrjenje je wobmjezowane a je so znjemóžniło. Móžeće jo zmóžnić, ale to je snano riskantne.
@@ -547,19 +495,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = Tutón přidatk je wobmjezowany a je so znjemóžnił. Móžeće jón zmóžnić, ale to je snano riskantne.
 details-notification-soft-blocked-other-enabled2 =
     .message = Tutón přidatk je wobmjezowany. Jeho wužiwanje móže riskantne być.
-details-notification-soft-blocked-extension-disabled =
-    .message = Tute rozšěrjenje je přeńdźenja přećiwo prawidłam Mozilla dla wobmjezowane a je so znjemóžniło. Móžeće jo zmóžnić, ale to je snano riskantne.
-details-notification-soft-blocked-extension-enabled =
-    .message = Tute rozšěrjenje so přećiwo prawidłam Mozilla přeńdźe. Je riskantne jo wužiwać.
-details-notification-soft-blocked-other-disabled =
-    .message = Tutón přidatk je přeńdźenja přećiwo prawidłam Mozilla dla wobmjezowany a je so znjemóžnił. Móžeće jo zmóžnić, ale to je snano riskantne.
-details-notification-soft-blocked-other-enabled =
-    .message = Tutón přidatk so přećiwo prawidłam Mozilla přeńdźe. Je riskantne jón wužiwać.
 details-notification-softblocked-link2 = Hlejće podrobnosće
-details-notification-blocked-link = Dalše informacije
-details-notification-softblocked = { $name } je za to znaty, zo problemy wěstoty abo stabilnosće zawinuje.
-details-notification-softblocked-link = Dalše informacije
-details-notification-gmp-pending = { $name } budźe so bórze instalować.
 details-notification-gmp-pending2 =
     .message = { $name } budźe so bórze instalować.
 
@@ -575,8 +511,6 @@ plugins-widevine-description = Tutón tykač wothrawanje zaklučowanych medijow 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Trěbne hromadźenje datow:
-addon-permissions-optional-data-collection = Opcionalne hromadźenje datow:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Prawa a daty
 # This is a description for extension that use this AI model

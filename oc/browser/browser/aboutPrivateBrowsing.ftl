@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Dobrir una fenèstra de navegacion privada
     .accesskey = p
 about-private-browsing-search-placeholder = Recèrca sul web
-about-private-browsing-info-title = Sètz sus una fenèstra de navegacion privada
 about-private-browsing-search-btn =
     .title = Recercar sul web
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Recercar amb { $engine } o picar una adreça
 about-private-browsing-handoff-text-no-engine = Picar un tèrme de recercar o una adreça
 about-private-browsing-not-private = Pel moment, sètz pas dins una fenèstra de navegacion privada.
-about-private-browsing-info-description-private-window = Fenèstra privada : { -brand-short-name } escafa l’istoric de vòstras recèrcas e de vòstra navegacion a la tampadura de las fenèstras privada. Mas vos fa pas venir anonim.
-about-private-browsing-info-description-simplified = { -brand-short-name } escafa l’istoric de vòstras recèrcas e de vòstra navegacion a la tampadura de las fenèstras privada, mas vos fa pas venir anonim.
-about-private-browsing-learn-more-link = Ne saber mai
 about-private-browsing-hide-activity = Amagatz vòstras activitats e vòstres emplaçaments, pertot ont navegatz
 about-private-browsing-get-privacy = Protegissètz vòstra vida privada pertot ont navegatz
 about-private-browsing-hide-activity-1 = Amagatz vòstre navegacion e vòstre emplaçament amb { -mozilla-vpn-brand-name }. D’un simple clic, creatz una connexion securizada, amai sus un ret Wi-Fi public.
@@ -29,10 +25,6 @@ about-private-browsing-prominent-cta = Demoratz privat amb { -mozilla-vpn-brand-
 about-private-browsing-focus-promo-cta = Telecargar { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name } : navegacion privada sul pic
 about-private-browsing-focus-promo-text = Nòstra aplicacion dedicada a la navegacion privada escafa l’istoric e los cookies aprèp cada utilizacion.
-about-private-browsing-focus-promo-header-b = Metètz de la navegacion privada al vòstre mobil
-about-private-browsing-focus-promo-text-b =
-    Utilizatz { -focus-brand-name } per las recèrcas privadas que volètz
-    pas veire sus vòstre navegador mobil principal.
 about-private-browsing-focus-promo-header-c = Nivèl seguent de la confidencialitat sus mobil
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } escafa l’istoric a cada blocatge de reclamas e traçadors.
 # This string is the title for the banner for search engine selection
@@ -62,11 +54,6 @@ about-private-browsing-pin-promo-title = Cap de cookies o d’istoric pas enregi
 
 ## Strings used in a promotion message for cookie banner reduction
 
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = Fòra las bandièras de cookies !
-about-private-browsing-cookie-banners-promo-button = Reduire las bandièras de cookies
-about-private-browsing-cookie-banners-promo-message = Permetre a { -brand-short-name } de gerir automaticament las fenèstras sorgissentas de cookies per vos que trapetz una navegacion sens distraccion. { -brand-short-name } regetarà totas las demandas se possible.
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } s’ocupa dels cookies per vos

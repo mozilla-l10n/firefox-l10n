@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Tebek
 neterror-return-to-previous-page-recommended-button = Gean werom (oanrekommandearre)
 neterror-try-again-button-2 = Opnij probearje
     .accesskey = j
-neterror-try-again-button = Probearje it opnij
 neterror-add-exception-button = Altyd trochgean foar dizze website
 neterror-settings-button = DNS-ynstellingen wizigje
 neterror-view-certificate-link = Sertifikaat besjen
-neterror-trr-continue-this-time = Dizze kear trochgean
-neterror-disable-native-feedback-warning = Altyd trochgean
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = Mear ynfo
 ##
 
 neterror-pref-reset = It liket derop dat dit troch jo netwurkbefeiligingsynstellingen feroarsake wurdt. Wolle jo de standertynstellingen werom bringe?
-neterror-error-reporting-automatic = Flaters as dizze rapportearje om { -vendor-short-name } te helpen kweawollende websites te werkennen en te blokkearjen
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Ferbrek de ferbining ferbyn opni
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } kin jo oanfraach om it adres fan dizze website net beskermje fia ús fertroude DNS-resolver. Dit is de reden:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } kin jo oanfraach om it adres fan dizze website net beskermje fia ús feilige DNS-provider. Dit is de reden:
 neterror-dns-not-found-trr-third-party-warning2 = Jo kinne trochgean mei jo standert DNS-resolver, in tredde partij kin lykwols mooglik sjen hokker websites jo besykje
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } koe gjin ferbining meitsje mei { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = De ferbining mei { $trrDomain } duorre langer as ferwachte.
-neterror-dns-not-found-trr-offline = Jo binne net ferbûn mei it ynternet.
 neterror-dns-not-found-trr-unknown-host2 = Dizze website is net fûn troch { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Der is in probleem mei { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = Unjildige URL.
 neterror-dns-not-found-system-sleep = Systeem is yn sliepmodus.
 neterror-dns-not-found-trr-unknown-problem = Unferwachte probleem.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } kin jo oanfraach om it adres fan dizze website net beskermje fia ús fertroude DNS-resolver. Dit is de reden:
-neterror-dns-not-found-native-fallback-heuristic = DNS oer HTTPS is útskeakele op jo netwurk.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } koe gjin ferbining meitsje mei { $trrDomain }.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = It kin fuortsmiten wêze, ferpleatst, of bestânsmachti
 neterror-unknown-protocol = Miskien moatte jo oare software ynstallearje om dit adres te iepenjen.
 neterror-redirect-loop = Dit probleem kin somtiden feroarsake wurde troch it útskeakeljen of wegerjen fan cookies.
 neterror-unknown-socket-type-client-config = Dit kin it gefolch wêze fan in konfiguraasjeflater yn jo client.
-neterror-unknown-socket-type-psm-installed = Soargje derfoar dat de persoanlike befeiligingsbehearder op jo systeem ynstallearre is.
-neterror-unknown-socket-type-server-config = Dit kin it gefolch wêze fan in net-standert konfiguraasje fan de server.
 neterror-not-cached-intro = It opfrege dokumint is net beskikber yn de buffer fan { -brand-short-name }.
 neterror-not-cached-sensitive = As befeiligingsmaatregel freget { -brand-short-name } gefoelige dokuminten net automatysk opnij op.
 neterror-not-cached-try-again = Klik op Opnij probearje om it dokumint opnij fan de website op te freegjen.

@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Synchronisation…
 sync-disconnect-dialog-title2 = Disconnecter?
 sync-disconnect-dialog-body = { -brand-product-name } cessara le synchronisation de tu conto, ma non delera alcun de tu datos de navigation sur iste apparato.
 sync-disconnect-dialog-button = Disconnecter
-fxa-signout-dialog2-title = Clauder le session de { -fxaccount-brand-name }?
 fxa-signout-dialog-title2 = Disconnecter te de tu conto?
 fxa-signout-dialog-body = Le datos synchronisate remanera in tu conto.
 fxa-signout-dialog2-button = Clauder session
@@ -43,14 +42,6 @@ fxviewtabrow-send-to-mobile-not-verified = Conto non verificate
 fxviewtabrow-send-to-mobile-verify-account = Verifica tu conto
 fxa-menu-send-to-mobile-turn-on-sync = Activa le synchronisation pro inviar schedas
 fxa-menu-send-to-mobile-connect-device = Connecte un apparato pro inviar schedas
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Inviar scheda al apparato
-           *[other] Inviar { $tabCount } schedas al apparato
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Synchronisante apparatos…

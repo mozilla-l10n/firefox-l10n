@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Vos trobeu en mode FIPS. El FIPS requereix
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Reinicia la contrasenya principal
     .style = min-width: 40em
+    .title = Reinicia la contrasenya principal
 reset-password-button-label =
     .label = Reinicia
 reset-primary-password-text = Si reinicieu la vostra contrasenya principal, totes les vostres contrasenyes de web i de correu electrònic, els certificats personals i les claus privades emmagatzemades es perdran. Esteu segur que voleu reiniciar la vostra contrasenya principal?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = S'ha reiniciat la vostra contraseny
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Baixada de certificats
     .style = min-width: 46em
+    .title = Baixada de certificats
 download-cert-message = Se vos ha demanat que confieu en una entitat certificadora (CA) nova.
 download-cert-trust-ssl =
     .label = Confia en esta CA per identificar llocs web.
@@ -52,8 +52,6 @@ download-cert-view-text = Examina el certificat de la CA
 
 client-auth-window =
     .title = Sol·licitud d'identificació de l'usuari
-client-auth-site-description = Este lloc ha sol·licitat que vos identifiqueu amb un certificat:
-client-auth-choose-cert = Trieu un certificat per presentar-lo com a identificació:
 client-auth-cert-details = Detalls del certificat seleccionat:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

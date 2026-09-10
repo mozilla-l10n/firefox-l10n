@@ -4,12 +4,6 @@
 
 about-reader-loading = Memuatkan…
 about-reader-load-error = Gagal memuatkan artikel daripada halaman
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time = { $range } minit
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -19,4 +13,3 @@ about-reader-font-type-sans-serif = Sans-serif
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Tutup Reader View
-about-reader-toolbar-type-controls = Jenis kawalan

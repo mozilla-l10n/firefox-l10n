@@ -52,7 +52,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     Az adatok rögzítésének és keresésének különböző módjainak magyarázatához tekintse meg az
     <strong>Információk az adatokról</strong> lapot.
-about-glean-about-testing-header = Tudnivalók a tesztelésről
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     A teljes utasítások a
@@ -61,8 +60,6 @@ about-glean-manual-testing =
     de röviden ezeket kell tennie az mérőeszközök kézi teszteléséhez:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (egyáltalán ne küldjön pinget)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Az előző mezőben győződjön meg róla, hogy van egy jól megjegyezhető hibakeresési címke, hogy később felismerje a pingeket.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Állítson be egy megjegyezhető hibakeresési címkét <span>(20 vagy kevesebb karakter, csak alfanumerikus karakterek és -)</span>, hogy később felismerje a pingjeit.
 # An in-line drop down list precedes this string.
@@ -89,13 +86,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Keresse fel a { glean-debug-ping-viewer-brand-name } oldalt a címkézett pingekért</a>.
     A gomb megnyomása és a ping megérkezése között néhány másodpercnyi időnek kellene eltelnie.
     Néha ez néhány percet is igénybe vehet.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    További <i>ad hoc</i> teszteléshez,
-    egy adott műszer aktuális értékét is meghatározhatja
-    a fejlesztői konzol megnyitásával itt az <code>about:glean</code> oldalon
-    és a <code>testGetValue()</code> API használatával, például:
-    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     További <i>ad hoc</i> teszteléshez,
@@ -199,9 +189,6 @@ about-glean-no-data-to-display = Nincs megjeleníthető adat.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = A <code>DualLabeledCounter</code> statisztikák még nem támogatottak az <code>about:glean</code> nézetben.
 about-glean-unknown-metric-type-warning = Ismeretlen statisztikatípus.
-about-glean-about-data-explanation =
-    Az összegyűjtött adatok tallózásához tekintse meg a
-    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Szótárat</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

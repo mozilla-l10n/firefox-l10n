@@ -166,11 +166,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Piespraust { -brand-short-name } uzdevumjoslai un sākuma izvēlnei
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Sāciet ar pārlūku, ko atbalsta bezpeļņas organizācija. Mēs aizsargājam jūsu privātumu, kamēr jūs staigājat pa tīmekli.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -200,52 +195,10 @@ mr2022-onboarding-set-default-subtitle = Lietojiet pārlūku, ko atbalsta bezpe�
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Mūsu jaunākā versija ir veidota jums, padarot to vienkāršāku nekā jebkad agrāk. Tas ir aprīkots ar funkcijām, kuras, mūsuprāt, jums patiks.
 mr2022-onboarding-get-started-primary-button-label = Iestatiet dažās sekundēs
-mr2022-onboarding-import-header = Zibens ātra iestatīšana
-mr2022-onboarding-import-subtitle = Iestatiet { -brand-short-name }, kā jums patīk. Pievienojiet savas grāmatzīmes, paroles un citu saturu no vecā pārlūka.
 mr2022-onboarding-import-primary-button-label-no-attribution = Ievietot no iepriekšējā pārlūka
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Izvēlieties krāsu, kas jūs iedvesmo
-mr2022-onboarding-colorway-subtitle = Neatkarīgas balsis var mainīt kultūru.
-mr2022-onboarding-colorway-primary-button-label-continue = Iestatīt un turpināt
-mr2022-onboarding-existing-colorway-checkbox-label = Padari { -firefox-home-brand-name } par savu krāsaino sākumlapu
-mr2022-onboarding-colorway-label-default = Noklusējuma
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Pašreizējās { -brand-short-name } krāsas
-mr2022-onboarding-colorway-description-default = <b>Izmantot manas pašreizējās { -brand-short-name } krāsas.</b>
-mr2022-onboarding-colorway-label-playmaker = Saspēles vadītājs
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Saspēles vadītājs (sarkans)
-mr2022-onboarding-colorway-description-playmaker = <b>Jūs esat saspēles vadītājs.</b> Jūs radāt iespējas uzvarēt un palīdzat visiem apkārtējiem uzlabot savu sniegumu.
-mr2022-onboarding-colorway-label-expressionist = Ekspresionists
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Ekspresionists (dzeltens)
-mr2022-onboarding-colorway-description-expressionist = <b>Jūs esat ekspresionists.</b> Jūs redzat pasauli citādāk, un jūsu darbi citos rosina emocijas.
-mr2022-onboarding-colorway-label-visionary = Vizionārs
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Vizionārs (zaļš)
-mr2022-onboarding-colorway-description-visionary = <b>Jūs esat vizionārs.</b> Jūs pārskatāt esošo lietu kārtību un mudina citus iedomāties labāku nākotni.
-mr2022-onboarding-colorway-label-activist = Aktīvists
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Aktīvists (zils)
-mr2022-onboarding-colorway-description-activist = <b>Jūs esat aktīvists.</b> Jūs atstājat pasauli par labāku vietu, nekā jūs to atradāt, un liekat citiem noticēt.
-mr2022-onboarding-colorway-label-dreamer = Sapņotājs
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Sapņotājs (violets)
-mr2022-onboarding-colorway-description-dreamer = <b>Jūs esat sapņotājs.</b> Jūs ticat, ka veiksme dod priekšroku drosmīgajiem un iedvesmojat citus būt drosmīgiem.
-mr2022-onboarding-colorway-label-innovator = Inovators
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Inovators (oranžs)
-mr2022-onboarding-colorway-description-innovator = <b>Jūs esat novators.</b> Jūs redzat iespējas visur un atstājat ietekmi apkārtējo dzīvēs.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Brīvi pārslēdzieties starp klēpjdatoru un tālruni
-mr2022-onboarding-mobile-download-subtitle = Paņemiet cilnes no vienas ierīces un turpiniet darbu citā. Turklāt sinhronizējiet savas grāmatzīmes un paroles jebkurā vietā, kur izmantojat { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Skenējiet QR kodu, lai iegūtu { -brand-product-name } mobilajām ierīcēm, vai <a data-l10n-name="download-label">nosūtiet sev lejupielādes saiti.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Skenējiet QR kodu, lai iegūtu { -brand-product-name } mobilajām ierīcēm.
 
@@ -298,15 +251,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Gaišas un tumšas ādas rokas dod pieci
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Skats uz saulrietu pa logu ar lapsu un istabas augu uz palodzes
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Roka ar aerosolu krāso krāsainu kolāžu ar zaļu aci, oranžu apavu, sarkanu basketbolu, purpursarkanām austiņām, zilu sirdi un dzeltenu vainagu.
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Lapsa māj uz klēpjdatora ekrāna. Klēpjdatoram ir pievienota pele.
 onboarding-device-migration-title = Prieks jūs atkal redzēt!
-onboarding-device-migration-subtitle = Ierakstieties savā kontā { -fxaccount-brand-name }, lai jaunajā ierīcē izmantotu grāmatzīmes, paroles un vēsturi.
 onboarding-device-migration-subtitle2 = Ierakstieties savā kontā, lai jaunajā ierīcē ņemtu līdzi grāmatzīmes, paroles un vēsturi.
 onboarding-device-migration-primary-button-label = Ierakstīties
 

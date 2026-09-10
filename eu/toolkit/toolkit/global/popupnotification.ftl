@@ -8,6 +8,3 @@ popup-notification-more-actions-button =
 popup-notification-default-button2 =
     .label = Ados
     .accesskey = A
-popup-notification-default-button =
-    .label = Ados!
-    .accesskey = A

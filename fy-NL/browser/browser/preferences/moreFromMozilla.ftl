@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Mear fan { -vendor-short-name }
 more-from-moz-page-header =
     .heading = Mear fan { -vendor-short-name }
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } Mobyl
 more-from-moz-firefox-mobile-description = De mobile browser dy’t jo privacy foarop stelt.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } foar Mobyl
 more-from-moz-firefox-mobile =
-    .label = { -brand-product-name } foar Mobyl
     .description = De mobile browser dy’t jo privacy foarop stelt.
+    .label = { -brand-product-name } foar Mobyl
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Untdek in ekstra laach fan anonym navigearjen en beskerming.
 more-from-moz-qr-code-box-firefox-mobile-title = Downloade mei jo mobile apparaat. Rjochtsje jo kamera op de QR-koade. As der in keppeling ferskynt, tikke jo dêrop.
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = { -relay-brand-short-name } downloade
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Nim automatysk jo lekte persoanlike gegevens werom.
 more-from-moz-mozilla-monitor-global-description = Untfang warskôgingen wannear’t jo gegevens foarkomme yn in datalek.
 more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } downloade
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name }-AI
 more-from-moz-solo-description = Meitsje daliks jo website en keppelje fergees jo eigen oanpaste domein.
 more-from-moz-solo-button = { -solo-ai-brand-name } probearje
 more-from-moz-solo-title-2 = { -solo-ai-brand-name }-AI-websitemakker
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = De downloadkeppeling per e-mail nei jo
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = Untdek wêr’t jo persoanlike gegevens online lekt binne mei in fergeze scan.
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = Untfang ekstra beskerming foar alle apps – net allinnich jo browser. Hâld jo gegevens feilich op iepenbiere wifi en ûnfeilige netwurken.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = Beskermje jo Postfek YN tsjin spam mei fergeze e-mailmaskearring.
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = Lear webûntwikling mei fergeze gidsen en referinsjes.
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = Tagong ta e-mail, aginda’s en kontakten yn ien rappe app.
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = Meitsje yn in hânomdraai jo website en ferbyn fergees jo eigen oanpaste domein.
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = Nije produkten fan { -vendor-short-name }
     .description = Ferken ús nijste ideeën en eksperimintele technologyen.
+    .label = Nije produkten fan { -vendor-short-name }
 more-from-moz-mozilla-monitor-box-link =
     .label = { -monitor-brand-short-name } downloade
 more-from-moz-mozilla-vpn-box-link =

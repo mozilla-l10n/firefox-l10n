@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - බෙදාගැනීමේ දර්ශකය
-webrtc-indicator-window =
-    .title = { -brand-short-name } - බෙදාගැනීමේ දර්ශකය
 
 ## Used as list items in sharing menu
 
@@ -58,23 +56,6 @@ webrtc-microphone-system-menu =
 webrtc-screen-system-menu =
     .label = ඔබ කවුළුවක් හෝ තිරයක් බෙදා ගනිමින්. එය පාලනයට ඔබන්න.
 
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = ඔබගේ රූගතය හා ශබ්දවාහිනිය බෙදා ගැනෙමින් තිබේ. එය පාලනයට ඔබන්න.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = ඔබගේ රූගතය බෙදා ගැනෙමින් තිබේ. එය පාලනයට ඔබන්න.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = ශබ්දවාහිනිය බෙදා ගැනෙමින්. බෙදාගැනීම පාලනයට ඔබන්න.
-webrtc-indicator-sharing-application =
-    .tooltiptext = යෙදුමක් බෙදා ගැනෙමින්. බෙදාගැනීම පාලනයට ඔබන්න.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = තිරය බෙදා ගැනෙමින්. බෙදාගැනීම පාලනයට ඔබන්න.
-webrtc-indicator-sharing-window =
-    .tooltiptext = කවුළුව බෙදා ගැනෙමින්. බෙදාගැනීම පාලනයට ඔබන්න.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = පටිත්ත බෙදා ගැනෙමින්. බෙදාගැනීම පාලනයට ඔබන්න.
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
@@ -107,7 +88,6 @@ webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = { $thirdParty } 
 
 ##
 
-webrtc-share-screen-learn-more = තව දැනගන්න
 webrtc-pick-window-or-screen = කවුළුව හෝ තිරය තෝරන්න
 webrtc-share-entire-screen = සමස්ත තිරය
 webrtc-share-pipe-wire-portal = මෙ. පද්. සැකසුම් භාවිතා කරන්න

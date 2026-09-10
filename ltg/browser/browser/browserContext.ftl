@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Paīt vīnu lopu atpakaļ ({ $shortcut })
     .aria-label = Atpakaļ
+    .tooltiptext = Paīt vīnu lopu atpakaļ ({ $shortcut })
     .accesskey = a
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Paīt vīnu lopu iz prīšku ({ $shortcut })
     .aria-label = Iz prīšku
+    .tooltiptext = Paīt vīnu lopu iz prīšku ({ $shortcut })
     .accesskey = p
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -178,15 +178,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Nūsyuteit audio…
     .accesskey = a
-main-context-menu-send-to-device =
-    .label = Syuteit lopu iz īreici
-    .accesskey = i
 
 ##
 
-main-context-menu-keyword =
-    .label = Pīvīnuot mekliejuma atslāgi vuordu…
-    .accesskey = k
 main-context-menu-link-send-to-device =
     .label = Syuteit saiti iz īreici
     .accesskey = i

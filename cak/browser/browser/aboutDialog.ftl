@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Tajin niqasäx k'exoj ruwäch — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Niqasäx k'exoj — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Tajin niqasäx k'exoj ruwäch — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Nokisäx k'exoj…
 update-failed = Man xuchäp ta ri k'exoj ruwäch. <label data-l10n-name="failed-link">Taqasaj ri k'ak'a' ruwäch</label>
 update-failed-main = Man xuchäp ta ri k'exoj ruwäch. <a data-l10n-name="failed-link-main">Taqasaj ri k'ak'a' ruwäch</a>
-update-adminDisabled = Xechup ri taq k'exoj ruma ri runuk'samajel q'inoj
 update-noUpdatesFound = { -brand-short-name } jalon chik
 settings-update-no-updates-found =
     .label = { -brand-short-name } jalon chik
@@ -68,8 +66,6 @@ helpus = ¿La nawajo' yato'on? <label data-l10n-name="helpus-donateLink">Taya' j
 bottomLinks-license = Rutzijol Ya'öl Q'ij
 bottom-links-terms = Rojqanem Rokisaxik
 bottom-links-privacy = Ichinan Na'oj
-bottomLinks-rights = Kich'ojib'al K'isib'äl-Okisanel
-bottomLinks-privacy = Ichinan Na'oj
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

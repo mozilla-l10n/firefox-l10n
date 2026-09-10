@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Eheka Ñe’ẽñemi
-    .key = F
     .aria-label = Eheka Ñe’ẽñemi
+    .key = F
+    .placeholder = Eheka Ñe’ẽñemi
 contextual-manager-menu-more-options-button =
     .title = Jeporavorãve
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Marandurendágui jegueru…
 contextual-manager-passwords-command-export = Ñe’ẽñemi guerahauka
 contextual-manager-passwords-command-remove-all = Emboguepa opaite ñe’ẽñemi
 contextual-manager-passwords-command-options = Jeporavorã
-contextual-manager-passwords-command-settings = Ñemboheko
 contextual-manager-passwords-command-help = Pytyvõ
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Egueru ñe’ẽñemi
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Ipyahu: { $added }, Hekopyahu: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -219,8 +214,6 @@ contextual-manager-passwords-create-label =
     .label = Embojuaju ñe’ẽñemi
 contextual-manager-passwords-update-label =
     .label = Embopyahu ñe’ẽñemi
-contextual-manager-passwords-edit-label =
-    .label = Embosako’i ñe’ẽñemi
 contextual-manager-passwords-remove-label =
     .title = Emboguete ñe’ẽñemi
 contextual-manager-passwords-origin-field =
@@ -236,7 +229,6 @@ contextual-manager-passwords-password-field-description = Ehai ñe’ẽñemi ei
 contextual-manager-passwords-origin-tooltip = Ehai kundaharape emoñepyrũtaha tembiapo ko tendápe.
 contextual-manager-passwords-username-tooltip = Ehai poruhára réra, ñanduti veve kundaharape térã mba’ete papapy eike hag̃ua.
 contextual-manager-passwords-password-tooltip-2 = Ehai ñe’ẽñemi eiporúva eike hag̃ua ko mba’etépe.
-contextual-manager-passwords-password-tooltip = Ehai ñe’ẽñemi eiporúva eike hag̃ua ko mba’etépe.
 
 ## Password Card
 
@@ -283,10 +275,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Emonguatia Ñe’ẽñemi (Kyhyjerã)
 contextual-manager-edit-login-button = Mbosako’i
     .tooltiptext = Embosako’i Ñe’ẽñemi
-contextual-manager-view-alert-heading =
-    .heading = Ehecha kyhyjerã
-contextual-manager-view-alert-button =
-    .tooltiptext = Ehechajey kyhyjerã
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -315,13 +303,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Ndojejuhúi ñe’ẽñemi ñongatupyre
 contextual-manager-passwords-no-passwords-found-message-2 = Eiporu ambue ñe’ẽ ha eheka pyahu jey.
-contextual-manager-passwords-no-passwords-found-message = Ndojejuhúi ñe’ẽñeminguéra. Eheka ñe’ẽ ambuéva ha eha’ã jey.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Eñongatu ñe’ẽñemi tenda hekorosãvape.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Opaite ñe’ẽñemi oñembopapapy ha roma’ẽta oimeraẽva ñemboguáre, ha romomarandúta rohechárõ.

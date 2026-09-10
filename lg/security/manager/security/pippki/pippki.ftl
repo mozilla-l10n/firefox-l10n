@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Kuwanuula Santifikati
     .style = min-width: 46em
+    .title = Kuwanuula Santifikati
 download-cert-message = Obandee osabibwa ku kakasa Obunyiza bwa Santifikati empya (CA).
 download-cert-trust-ssl =
     .label = Wesige CA eno okwawula ebyapa.
@@ -37,8 +37,6 @@ download-cert-view-text = Kenenya Satifiketi ya CA
 
 client-auth-window =
     .title = Ebikwata ku Mukozesa Bisabwa
-client-auth-site-description = Omuko guno gusabye ebikukwatako ne satifiketi yo:
-client-auth-choose-cert = Londako satifiketi jogenda kuwayo ne bikukwatako:
 
 ## Set password (p12) dialog
 

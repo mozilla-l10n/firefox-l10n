@@ -118,4 +118,3 @@ certificate-viewer-tab-mine = ᱟᱢᱟᱜ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ
 certificate-viewer-tab-people = ᱦᱚᱲ
 certificate-viewer-tab-servers = ᱥᱟᱨᱣᱟᱨ ᱠᱚ
 certificate-viewer-tab-ca = ᱯᱚᱨᱢᱟᱱ ᱮᱢᱚᱜ ᱠᱚ
-certificate-viewer-tab-unkonwn = ᱵᱟᱝ ᱵᱟᱲᱟᱭᱟᱜ

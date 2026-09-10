@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = Ɛeddi seg yibenk ɣer wayeḍ s ulqaḍ
 callout-firefox-view-tab-pickup-subtitle = Kkes-d s zzerb accaren yeldin seg tiliɣri-inek·inem, teldiḍ-ten dagi i uktum uffay.
 callout-firefox-view-recently-closed-title = Err-d accaren-ik·im yettwamedlen s zzerb
 callout-firefox-view-recently-closed-subtitle = Akk accaren-ik·im i imedlen ad d-banen dagi war ma tfaqqeḍ. Ɣas ur ttagad ma yella yettwamdel kra n usmel weḥd-s.
-callout-firefox-view-colorways-title = Rnu ṛucc s yini
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Fren tiɣmi ara ak·am-d-yettmeslayen s ufran n yiniten. Yella kan deg { -brand-product-name }.
-callout-firefox-view-colorways-reminder-title = Snirem afran-nneɣ n yiniten aneggaru
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Seɣmu iminig-ik·im s tiɣma-a ifazen, i d-yettwadmen seg tuɣactilelliyin. Deg { -brand-product-name } kan.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

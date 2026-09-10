@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Estä oletusselainagenttia tekemästä mitä
 policy-DisableDeveloperTools = Estä pääsy web-työkaluihin.
 policy-DisableEncryptedClientHello = Poista käytöstä TLS-ominaisuus Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Estä komennot, joilla voi antaa palautetta Ohje-valikosta (Anna palautetta ja Ilmoita petollinen sivusto).
-policy-DisableFirefoxAccounts = Poista käytöstä { -fxaccount-brand-name }-pohjaiset palvelut, mukaan lukien Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Poista käytöstä tilipohjaiset palvelut, mukaan lukien synkronointi.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Älä tallenna haku- ja lomakehistoriaa.
 policy-DisableLaunchOnLogin = Estä { -brand-short-name }-selainta käynnistymästä automaattisesti, kun käyttäjä kirjautuu sisään.
 policy-DisablePrimaryPasswordCreation = Jos tosi, pääsalasanaa ei voi luoda.
 policy-DisablePasswordReveal = Älä salli salasanojen paljastamista tallennetuissa kirjautumistiedoissa.
-policy-DisablePocket2 = Poista käytöstä ominaisuus, jolla verkkosivuja voi tallentaa { -pocket-brand-name }-palveluun.
 policy-DisablePrivateBrowsing = Poista yksityinen selaus käytöstä.
 policy-DisableProfileImport = Poista käytöstä valikon komento, jolla tiedot voi tuoda toisesta selaimesta.
 policy-DisableProfileRefresh = Poista käytöstä about:support-sivulla oleva Palauta { -brand-short-name } -painike.
@@ -132,7 +130,6 @@ policy-PDFjs = Poista käytöstä tai määritä PDF.js, { -brand-short-name }in
 policy-Permissions2 = Aseta kameran, mikrofonin, sijainnin, ilmoitusten ja automaattisen toiston käyttöoikeuksien asetukset.
 policy-PictureInPicture = Ota käyttöön tai poista käytöstä Kuva kuvassa -ominaisuus.
 policy-PopupBlocking2 = Salli tiettyjen verkkosivustojen näyttää ponnahdusikkunoita ja kolmansien osapuolten kehysten ohjata uudelleen.
-policy-PopupBlocking = Salli tiettyjen sivustojen näyttää ponnahdusikkunoita oletusarvoisesti.
 policy-Preferences = Aseta ja lukitse arvo asetusten osajoukolle.
 policy-PrivateBrowsingModeAvailability = Aseta yksityisen selaustilan saatavuus.
 policy-PromptForDownloadLocation = Kysy ladattaessa minne tiedostot tallennetaan.

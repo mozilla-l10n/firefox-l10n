@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = ផ្ទាំង​ថ្មី
-newtab-settings-button =
-    .title = ប្តូរទំព័រ ផ្ទាំងថ្មី របស់អ្នកតាមបំណង
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -61,7 +59,6 @@ newtab-search-box-search-button =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = បន្ថែម​ម៉ាស៊ីន​ស្វែងរក
-newtab-topsites-edit-topsites-header = កែសម្រួលសាយកំពូល
 newtab-topsites-title-label = ចំណង​ជើង
 newtab-topsites-title-input =
     .placeholder = បញ្ចូលចំណងជើង
@@ -100,10 +97,6 @@ newtab-menu-section-tooltip =
 newtab-menu-content-tooltip =
     .aria-label = បើកម៉ឺនុយបរិបទសម្រាប់ { $title }
     .title = បើក​ម៉ឺនុយ
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = កែសម្រួលសាយនេះ
-    .title = កែសម្រួលសាយនេះ
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -114,13 +107,6 @@ newtab-menu-dismiss = បោះបង់ចោល
 newtab-menu-pin = ខ្ទាស់
 newtab-menu-unpin = ដកខ្ទាស់
 newtab-menu-delete-history = លុប​ពី​ប្រវត្តិ
-newtab-menu-save-to-pocket = រក្សាទុកទៅ { -pocket-brand-name }
-newtab-menu-delete-pocket = លុបចេញពី { -pocket-brand-name }
-newtab-menu-archive-pocket = ទុកក្នុងប័ណ្ណសារក្នុង { -pocket-brand-name }
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = ធ្វើ​រួច
 
 ##
 
@@ -160,44 +146,15 @@ newtab-label-download = បានទាញយក
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = លុប​ផ្នែក​ចេញ
-newtab-section-menu-collapse-section = បង្រួមផ្នែក
-newtab-section-menu-expand-section = ពង្រីកផ្នែក
-newtab-section-menu-manage-section = គ្រប់គ្រងផ្នែក
-newtab-section-menu-manage-webext = គ្រប់គ្រងផ្នែកបន្ថែម
-newtab-section-menu-add-topsite = បញ្ចូល​គេហទំព័រ​ពេញនិយម​បំផុត
-newtab-section-menu-add-search-engine = បន្ថែម​ម៉ាស៊ីន​ស្វែងរក
-newtab-section-menu-move-up = ​ផ្លាស់ទី​ឡើង​លើ
-newtab-section-menu-move-down = ផ្លាស់ទី​ចុះក្រោម
 newtab-section-menu-privacy-notice = ការជូនដំណឹង​អំពី​ឯកជនភាព
 
 ## Section Headers.
 
 newtab-section-header-topsites = វិបសាយ​លើ​គេ
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = បានណែនាំដោយ { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ចាប់ផ្តើមការរុករក ហើយយើងនឹងបង្ហាញអត្ថបទ វីដេអូ និងទំព័រដ៏អស្ចារ្យផ្សេងទៀតដែលអ្នកបានមើល ឬបានចំណាំនៅទីនេះ។
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = អ្នកបានអានរឿងទាំងអស់ហើយ។ ពិនិត្យ​រឿង​ដែល​ពេញនិយមបំផុត​ឡើងវិញ​​ពី { $provider }។ មិនអាចរង់ចាំ? ជ្រើសរើសប្រធានបទកំពុងពេញនិយម ដើម្បីស្វែងរករឿងដ៏អស្ចារ្យនៅ​លើ​អ៊ីនធឺណិត។
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = ប្រធានបទកំពុងពេញនិយម៖
-newtab-pocket-more-recommendations = ការណែនាំច្រើនទៀត
-newtab-pocket-cta-button = ទាញយក { -pocket-brand-name }
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = មិនមែនសម្រាប់ខ្ញុំទេ
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -224,10 +181,6 @@ newtab-weather-static-city = ទីក្រុងញូវយ៉ក
 ## Topic Selection Modal
 
 newtab-topic-selection-cancel-button = បោះបង់
-
-## Confirmation modal for blocking a section
-
-newtab-section-cancel-button = កុំទាន់
 
 ## Strings for new user activation custom wallpaper highlight
 

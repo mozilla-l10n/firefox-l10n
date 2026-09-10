@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Arvi 'n barcon privòu
     .accesskey = à
 about-private-browsing-search-placeholder = Çerca inta Ræ
-about-private-browsing-info-title = Ti ê inte 'n barcon privòu
 about-private-browsing-search-btn =
     .title = Çerca inta ræ
 # Variables
@@ -19,7 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Çerca con { $engine } ò scrivi indirisso
 about-private-browsing-handoff-text-no-engine = Çerca ò scrivi indirisso
 about-private-browsing-not-private = Sto chi o no l'é 'n barcon privòu.
-about-private-browsing-learn-more-link = Atre informaçioin
 about-private-browsing-focus-promo-cta = Scarega { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: navegaçion anònima donde se segge
 # This string is the title for the banner for search engine selection
@@ -44,10 +42,3 @@ about-private-browsing-pin-promo-link-text =
         [macos] Azonzi a-a bâra de aplicaçioin
        *[other] Azonzi a-a bâra de aplicaçioin
     }
-
-## Strings used in a promotion message for cookie banner reduction
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = Ferma i banner pe-i cookie
-about-private-browsing-cookie-banners-promo-button = Ridûxi o banner pe-i cookie

@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Nastajenja zwiskow
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Nastajenja zwiskow
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Znowego
     .accesskey = Z
-connection-proxy-autologin =
-    .label = Za awtentificěrowanim se njepšašaś, jolic gronidło jo składowane
-    .accesskey = i
-    .tooltip = Toś to nastajenje awtentificěrujo was w slězynje pla proksyjow, gaž sćo pśizjwjańske daty za nje składował. Dostanjośo informaciju, jolic se awtentificěrowanje njeraźijo.
 connection-proxy-autologin-checkbox =
     .label = Za awtentificěrowanim se njepšašaś, jolic gronidło jo składowane
-    .accesskey = i
     .tooltiptext = Toś to nastajenje awtentificěrujo was w slězynje pla proksyjow, gaž sćo pśizjwjańske daty za nje składował. Dostanjośo informaciju, jolic se awtentificěrowanje njeraźijo.
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = Proksy-DNS, gaž se SOCKS v4 wužywa
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Standardny URL za rozpušćowanje DNS pśez HTTPS wužywaś
 connection-dns-over-https-url-custom =
     .label = Swójski
-    .accesskey = S
     .tooltiptext = Zapodajśo preferěrowany URL za rozwězowanje DNS pśez HTTPS
-connection-dns-over-https-custom-label = Swójski
+    .accesskey = S

@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = Yiy humpito lowre ndee
 
@@ -38,8 +33,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Uddit alluwal ɓatakuuje ndesgu ceŋtol
 urlbar-password-notification-anchor =
     .tooltiptext = Uddit alluwal ɓatakuuje danndugol finnde
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Toppito kuutoragol ceŋe
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Toppito lollingol kameraa e/walla mikkoroo maa e ndee lowre
 urlbar-autoplay-notification-anchor =
@@ -48,14 +41,7 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Mooftu keɓe e Ndesgu Duumiingu
 urlbar-addons-notification-anchor =
     .tooltiptext = Uddit ɗaldugal ɓatakuure aafirgal ɓeyditte
-urlbar-tip-help-icon =
-    .title = Heɓ Ballal
 urlbar-search-tips-confirm = Eey, mi faamii
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Toɓɓu:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -79,8 +65,6 @@ urlbar-screen-blocked =
     .tooltiptext = A daaƴii ndee lowre e lollingol yaynirde maa.
 urlbar-persistent-storage-blocked =
     .tooltiptext = A daaƴii ndesgu duumiingu e ndee lowre.
-urlbar-popup-blocked =
-    .tooltiptext = A faddiima kenorɗe pop-up nder ndee lowre.
 urlbar-autoplay-media-blocked =
     .tooltiptext = A faddiima mejaa janngol ɗoon e ɗoon hito wonande ndee lowre.
 urlbar-canvas-blocked =
@@ -169,7 +153,6 @@ identity-custom-root = Ƴeewtii ceŋagol ngol ko dokkoowo seedamfaagu mo Mozilla
 identity-passive-loaded = Geɗe ɗe kisaani nana e ngoo hello (wano nate).
 identity-active-loaded = A dartinii ndeenka e ngoo hello.
 identity-weak-encryption = Ngoo hello huutortoo ko gannugol jaafngol.
-identity-insecure-login-forms = Ceŋorɗe naatnaaɗe e ngoo hello ena mbawi jaayeede.
 identity-permissions-reload-hint = Ena waawi coaklaa loowtude hello ngoo ngam bayle ɗee njaaɓa.
 identity-clear-site-data =
     .label = Mumtu kuukiije e keɓe lowre ndee…
@@ -181,7 +164,6 @@ identity-remove-cert-exception =
     .label = Momtu Paltol
     .accesskey = M
 identity-description-insecure = Ƴeŋagol maa e ndee lowre wonaa suuriinde. Humpito ngo naatnataa e mayre ena waawi yiyeede woɗɓe (wano findeeji, ɓatakuuje, karte banke, ekn.).
-identity-description-insecure-login-forms = Humpito ceŋagol naatnu-ɗaa e ngoo hello hisaani tee ena waawi jaayeede.
 identity-description-weak-cipher-intro = Ceŋagol maa e ndee lowre huutortoo ko gannugol jaafngol tee wonaa suuriinde.
 identity-description-weak-cipher-risk = Yimɓe woɗɓe ena mbaawi yiyde humpito maa walla mbayla ngonka lowre ndee.
 identity-description-active-blocked2 = { -brand-short-name } faliima geɗe e ngoo hello ɗe kisaani.
@@ -190,12 +172,6 @@ identity-description-passive-loaded-insecure2 = Ndee lowre ena waɗi loowdi ndi 
 identity-description-passive-loaded-mixed2 = Goonga { -brand-short-name } daaƴii won e loowdi, haa jooni ena waɗi loowdi e ngoo hello ndi hisaani (wano nate).
 identity-description-active-loaded = Ndee lowre ena waɗi loowdi ndi hisaani (wano dokkore) tee ceŋagol maa e mayre suuraaki.
 identity-description-active-loaded-insecure = Humpito ngo lollintaa e ngoo hello ena waawi woɗɓe njiya ɗum (wano finndeeji, ɓatakuuje, karte banke, ekn.).
-identity-disable-mixed-content-blocking =
-    .label = Daaƴ kisnugol e soo sahaa
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = Hurmin kisnugol
-    .accesskey = H
 identity-more-info-link-text =
     .label = Ɓeydu Humpito
 
@@ -234,8 +210,6 @@ urlbar-extension =
     .value = Timmitere:
 urlbar-go-button2 =
     .title = Yah to ñiiɓirde wonde e Palal Nokkuuje
-urlbar-go-button =
-    .tooltiptext = Yah to ñiiɓirde wonde e Palal Nokkuuje
 urlbar-page-action-button =
     .tooltiptext = Baɗe hello
 
@@ -305,12 +279,6 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Suuɗ Palal Maantore
            *[other] Hollu Palal Maantore
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Ittu Dosol Maantore e Palal Kuutorɗe
-           *[other] Ɓeydu Dosol Maantore to Palal Kuutorɗe
-        }
 
 ##
 
@@ -329,12 +297,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Maantore
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Danndu e { -pocket-brand-name }
-    .tooltiptext = Danndu e { -pocket-brand-name }
 
 ##
 
@@ -372,28 +334,10 @@ eme-notifications-drm-content-playing = Yoga e ojooji e widewooji ndee lowre ena
 ui-tour-info-panel-close =
     .tooltiptext = Uddu
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = Yamir cuppitte e { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Falo cuppitte e { $uriHost }
-    .accesskey = p
-
-##
-
-popups-infobar-dont-show-message =
-    .label = Hoto hollir nduu ɓatakuru so cuppitte palaama
-    .accesskey = D
-
 ##
 
 navbar-downloads =
     .label = Gaawte
-navbar-overflow =
-    .tooltiptext = Kuutorɗe goɗɗe…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

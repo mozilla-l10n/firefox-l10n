@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = ناڌن پا پۊرنیڌن
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = ای وبگه درخاست دسرسی و دسگایل MIDI (رابت دیجیتالی سازا آرنگ) ایسا ن داره. دسرسی و دسگا ن تره وا پۊرنیڌن ی وردنی فعال کونه.
 site-permission-install-first-prompt-midi-message = تزمینی سی ٱمن بیڌن ای دسرسی وۊجۊد نڌاره. تینا ی جۊر ترین رین وا پؽش ک و ای وبگه ائتماد داشته بۊین.
 site-permission-install-first-prompt-serial-header = ای وبگه درخاست دسرسی و دسگایل سریال ایسا ن داره. دسرسی و دسگا ن تره وا پۊرنیڌن ی وردنی فعال کونه.
 site-permission-install-first-prompt-serial-message = تزمینی سی ٱمن بیڌن ای دسرسی وۊجۊد نڌاره. تینا ی جۊر ترین رین وا پؽش ک و ای وبگه ائتماد داشته بۊین.
-
-##
-
-xpinstall-disabled-locked = دؽوۉدار سیستوم ایسا پۊرنیڌن برنومه ن قیر فعال کرده.
 xpinstall-disabled-by-policy = سازمووݩ ایسا پۊرنیڌن برنومه ن قیر فعال کرده.
 xpinstall-disabled = پۊرنیڌن برنومه سکو قیر فعال هڌ. ری «فعال کردن» کلیک کۊنین وو دووارته امتهووݩ کۊنین.
 xpinstall-disabled-button =
     .label = فعال کردن
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = ‫{ $addonName } ({ $addonId }) و دست دؽوۉدار سیستوم ایسا مسدۊد وابیڌه.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = دؽوۉدار سیستوم ایسا سی زفت وابیڌن کامپیتر تووݩ، ز درخاست پۊرستن برنومه و دست ای وبگه جلاو گری کرد.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = پۊرنیڌن وردنی یل و من ٱوورده و�
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = پاک کردن { $name }؟
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = پاک کردن { $name } ز { -brand-shorter-name }؟
 addon-removal-button = پاک کردن
 addon-removal-abuse-report-checkbox = گوزارش ای وردنی و { -vendor-short-name }
 # "it" refers to the local AI model that is paired to the AI feature
@@ -146,7 +129,5 @@ addon-local-install-no-addon-name-error-file-access = وردنی نؽپۊره چ
 addon-install-error-incompatible = وردنی { $addonName } وا نوسخه { $appVersion } ز { -brand-short-name } سازگار نؽ، وو سی دل هیمو نؽپۊره.
 addon-install-error-hard-blocked = { $addonName } خت مشی یل Mozilla ن زؽر پا انه وو نتره و ری { -brand-short-name } بپۊره.
 addon-install-error-soft-blocked2 = { $addonName } مئدۊد وابیڌه وو نتره و ری { -brand-short-name } بپۊره.
-addon-install-error-blocklisted = امکووݩ پۊرنیڌن { $addonName } سی دل پؽش ٱووڌن موشکلا پایداری وو ٱمنیتی و دست هو وۊجۊد نڌاره.
-addon-install-error-soft-blocked = { $addonName } خت مشی یل Mozilla ن زؽر پا انه وو نتره و ری { -brand-short-name } بپۊره.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = ایسا نترین { $addonName } ن و عونوان ی منتور دیندایی بپۊرنین، تینا تره و دست سازمووی وا و کار گرؽڌن سیاستا سازمووی بپۊره.

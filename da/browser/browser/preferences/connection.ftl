@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Forbindelsesindstillinger
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 44em
         }
+    .title = Forbindelsesindstillinger
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Genindlæs
     .accesskey = e
-connection-proxy-autologin =
-    .label = Spørg ikke efter godkendelse, hvis adgangskoden er gemt
-    .accesskey = g
-    .tooltip = Denne indstilling godkender dig automatisk overfor proxy-servere, når du har gemt login-informationer til dem. Du bliver spurgt, hvis godkendelsen slår fejl.
 connection-proxy-autologin-checkbox =
     .label = Spørg ikke efter godkendelse, hvis adgangskoden er gemt
-    .accesskey = g
     .tooltiptext = Denne indstilling godkender dig automatisk overfor proxy-servere, når du har gemt login-informationer til dem. Du bliver spurgt, hvis godkendelsen slår fejl.
+    .accesskey = g
 connection-proxy-socks4-remote-dns =
     .label = Brug en proxy til DNS-forespørgsler, når SOCKS v4 anvendes
     .accesskey = x
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Brug standard-URL'en til DNS-opslag over HTTPS
 connection-dns-over-https-url-custom =
     .label = Tilpasset
-    .accesskey = e
     .tooltiptext = Angiv den URL, du foretrækker til DNS-opslag over HTTPS
-connection-dns-over-https-custom-label = Tilpasset
+    .accesskey = e

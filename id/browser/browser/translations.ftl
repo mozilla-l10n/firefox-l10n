@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Terjemahkan laman ini
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Terjemahan sedang berlangsung
 translations-panel-settings-button =
     .aria-label = Kelola pengaturan terjemahan
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Kelola bahasa
-translations-panel-settings-about = Tentang terjemahan dalam { -brand-shorter-name }
 translations-panel-settings-about2 =
     .label = Tentang terjemahan dalam { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
@@ -91,14 +82,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = Maaf, kami belum mendukung terjemahan dari bahasa { $language }.
 translations-panel-error-unsupported-hint-unknown-2 = Maaf, kami belum mendukung terjemahan dari bahasa ini.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Maaf, kami belum mendukung { $language }.
-translations-panel-error-unsupported-hint-unknown = Maaf, kami belum mendukung bahasa ini.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -130,10 +113,6 @@ translations-manage-header = Terjemahan
 translations-manage-settings-button =
     .label = Pengaturan…
     .accesskey = t
-translations-manage-description = Unduh bahasa untuk terjemahan luring.
-translations-manage-all-language = Semua bahasa
-translations-manage-download-button = Unduh
-translations-manage-delete-button = Hapus
 translations-manage-intro-2 = Pilih preferensi terjemahan bahasa dan situs lalu kelola bahasa yang diunduh untuk terjemahan luring.
 translations-manage-download-description = Unduh bahasa untuk terjemahan luring.
 translations-manage-language-download-button =
@@ -147,12 +126,11 @@ translations-manage-language-remove-all-button =
     .label = Hapus semua
     .accesskey = e
 translations-manage-error-download = Terjadi masalah saat mengunduh data bahasa. Silakan coba lagi.
-translations-manage-error-delete = Terjadi masalah saat menghapus data bahasa. Silakan coba lagi.
 translations-manage-error-remove = Terjadi masalah saat menghapus data bahasa. Silakan coba lagi.
 translations-manage-error-list = Gagal mendapatkan daftar bahasa yang tersedia untuk diterjemahkan. Segarkan laman untuk mencoba lagi.
 translations-settings-title =
-    .title = Pengaturan Terjemahan
     .style = min-width: 36em
+    .title = Pengaturan Terjemahan
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Penerjemahan akan dilakukan secara otomatis untuk bahasa berikut
@@ -246,16 +224,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = Maaf, kami belum mendukung terjemahan dari bahasa { $language }.
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = Maaf, kami belum mendukung terjemahan dari bahasa ini.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Maaf, kami belum mendukung { $language }.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Maaf, kami belum mendukung bahasa ini.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Pengaturan Terjemahan

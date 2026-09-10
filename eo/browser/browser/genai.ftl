@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = Mi estas en la paĝo “{ $tabTitle }” kun “
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Demandi al dialoganto A.I.
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Demandi al { $provider }
 genai-menu-open-generic =
     .label = Malfermi dialoganton A.I.
 # $provider (string) - name of the provider
@@ -118,8 +113,6 @@ genai-header-provider-menu =
     .title = Elekti dialoganton
 genai-header-settings-button =
     .title = Agordoj de AI dialoganto
-genai-header-options-button =
-    .title = Malfermi menuon
 genai-header-close-button =
     .title = Fermi
 genai-provider-view-details =
@@ -147,37 +140,25 @@ genai-page-button-summarize = Resumi paĝon
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Resumu, trovu ideojn kaj pli, dum vi retumas
 genai-onboarding-choose-header = Elektu A.I. dialoganton por uzi en la flanka strio de { -brand-short-name }
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Elektu A.I. dialoganton por uzi en la flanka strio de { -brand-short-name }. Ni montros detalojn pri ĉiu dialoganto kiam vi elektas ĝin. Ŝanĝu la dialoganton iam ajn. <a data-l10n-name="learn-more">Pli da informo</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Ŝanĝu iam ajn. Jen <a data-l10n-name="learn-more">pli da informo</a> por helpi vin elekti.
 genai-onboarding-primary = Daŭrigi
 genai-onboarding-secondary = Fermi
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Pli da informo pri Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Pli da informo pri ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Pli da informo pri Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Pli da informo pri Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = Pli da informo pri HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Pli da informo pri Le Chat
-genai-onboarding-select-header = Elektu tekston por vidi sugestojn
-genai-onboarding-select-description = Kiam vi elektas tekston, ni sugestos mesaĝojn, kiujn vi povos sendi al la dialoganto. Vi povas ankaŭ skribi viajn proprajn mesaĝojn.
-genai-onboarding-select-primary = Komenci dialogi
 genai-chatbot-contextual-title = Uzi A.I. dialoganton sen ŝanĝi langeton
 genai-chatbot-contextual-subtitle = Dialogu kaj retumu, unu apud la alia, per aldono de A.I. dialoganto en la flanka strio de { -brand-short-name }.
 genai-chatbot-contextual-button = Elekti dialoganton
@@ -190,27 +171,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = Alkalku per la dekstra butono
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Malerfmu vian dialoganton A.I. en la flanka strio kaj elektu “Resumi paĝon” ĉe la malsupra parto.
 genai-chatbot-summarize-footer-generic-subtitle = Aldoni dialoganton A.I. al la flanka strion de { -brand-short-name } por rapide resumi paĝojn.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Krei tekston kaj kodon
-genai-onboarding-claude-analyze = Analizi dokumentojn kaj bildojn
-genai-onboarding-claude-price = Senpagaj kaj pagendaj ebloj; konto postulata
-genai-onboarding-chatgpt-generate = Krei tekston, bildojn kaj kodon
-genai-onboarding-chatgpt-analyze = Analizi dokumentojn kaj bildojn
-genai-onboarding-chatgpt-price = Senpagaj kaj pagendaj ebloj; konto postulata por kelkaj landoj kaj taskoj
-genai-onboarding-copilot-generate = Krei tekston, bildojn kaj kodon
-genai-onboarding-copilot-analyze = Analizi bildojn
-genai-onboarding-copilot-price = Senpagaj kaj pagendaj ebloj; konto postulata por kelkaj taskoj
-genai-onboarding-gemini-generate = Krei tekston, bildojn kaj kodon
-genai-onboarding-gemini-analyze = Analizi bildojn (senpage) kaj dokumentojn (pagende)
-genai-onboarding-gemini-price = Senpagaj kaj pagendaj ebloj; konto postulata
-genai-onboarding-huggingchat-generate = Krei tekston kaj kodon
-genai-onboarding-huggingchat-switch = Iri de unu modelo al alia inter diversa aro de malfermitaj modeloj
-genai-onboarding-huggingchat-price-2 = Senpaga; konto postulata post iu nombro de petoj
-genai-onboarding-lechat-generate = Krei tekston kaj kodon
-genai-onboarding-lechat-price = Senpage; konto postulata
 
 ## Model Optin Component
 
@@ -249,8 +209,8 @@ link-preview-generation-retry = Provu denove
 link-preview-settings-button =
     .title = Agordoj por antaŭmontrado de ligiloj
 link-preview-settings-enable =
-    .label = Aktivigi la antaŭmontradon de ligiloj
     .description = Montri la titolon de la paĝo, priskribon, kaj pli da informo kiam vi uzas la ŝparvojon aŭ alklakas ligilon per la dekstra butono.
+    .label = Aktivigi la antaŭmontradon de ligiloj
 link-preview-settings-key-points =
     .label = Permesi al AI legi la komencon de la paĝo kaj eltiri ĉefajn punktojn
 link-preview-settings-long-press =

@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Sćo tuchylu we FIPS-modusu. FIPS pomina s
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Głowne gronidło slědk stajiś
     .style = min-width: 40em
+    .title = Głowne gronidło slědk stajiś
 reset-password-button-label =
     .label = Slědk stajiś
 reset-primary-password-text = Jolic stajiśo swójo głowne gronidło slědk, zgubiju se wšykne waše składowane webowe a e-mailowe gronidła, wósobinske certifikaty a priwatne kluce. Cośo napšawdu swój głowne gronidło slědk stajiś?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Wašo głowne gronidło jo se slěd
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Ześěgnjenje certifikata
     .style = min-width: 46em
+    .title = Ześěgnjenje certifikata
 download-cert-message = Su was pśepšosyli nowej certifikatowej awtoriśe (CA) dowěriś.
 download-cert-trust-ssl =
     .label = Toś tej certifikatowej awtoriśe dowěriś, aby se websedła identificěrowali.
@@ -52,8 +52,6 @@ download-cert-view-text = Certifikat certifikatoweje awtority pśeglědaś
 
 client-auth-window =
     .title = Napšašowanje wó identifikaciji wužywarja
-client-auth-site-description = Toś to sedło jo pominał, až wy sam identificěrujośo se pśez certifikat:
-client-auth-choose-cert = Wubjeŕśo certifikat za identifikaciju:
 client-auth-send-no-certificate =
     .label = Certifikat njesłaś
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Pšosym awtentificěrujśo se pla wěstotnego rěda ({ $tokenName }). Kak musyśo to cyniś, wótwisujo wót rěda (na pśikład pśez wužywanje cytaka palcowych wótśišćow abo pśez zapódawanje koda z tastaturu).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Pšosym awtentificěrujśo se pla tokena “{ $tokenName }”. Kak musyśo to cyniś, wótwisujo wót tokena (na pśikład pśez wužywanje cytaka palcowych wótśišćow abo pśez zapódawanje koda z tastaturu).

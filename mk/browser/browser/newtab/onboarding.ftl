@@ -21,12 +21,6 @@ return-to-amo-add-extension-label = Додадете ја наставката
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 # String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = Најавете се
 mr1-onboarding-theme-secondary-button-label = Не сега

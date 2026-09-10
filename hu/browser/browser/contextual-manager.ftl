@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Jelszavak keresése
-    .key = F
     .aria-label = Jelszavak keresése
+    .key = F
+    .placeholder = Jelszavak keresése
 contextual-manager-menu-more-options-button =
     .title = További beállítások
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Importálás fájlból…
 contextual-manager-passwords-command-export = Jelszavak exportálása
 contextual-manager-passwords-command-remove-all = Összes jelszó eltávolítása
 contextual-manager-passwords-command-options = Beállítások
-contextual-manager-passwords-command-settings = Beállítások
 contextual-manager-passwords-command-help = Súgó
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Jelszavak importálva
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Új: { $added }, frissítve: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -219,8 +214,6 @@ contextual-manager-passwords-create-label =
     .label = Jelszó hozzáadása
 contextual-manager-passwords-update-label =
     .label = Jelszó frissítése
-contextual-manager-passwords-edit-label =
-    .label = Jelszó szerkesztése
 contextual-manager-passwords-remove-label =
     .title = Jelszó eltávolítása
 contextual-manager-passwords-origin-field =
@@ -236,7 +229,6 @@ contextual-manager-passwords-password-field-description = Adja meg a jelszót, h
 contextual-manager-passwords-origin-tooltip = Írja be a pontos címet, ahol bejelentkezik ezen az oldalon.
 contextual-manager-passwords-username-tooltip = Adja meg a bejelentkezéshez használt felhasználónevet, e-mail-címet vagy fiókszámot.
 contextual-manager-passwords-password-tooltip-2 = Adja meg a jelszót, hogy bejelentkezzen ebbe a fiókba.
-contextual-manager-passwords-password-tooltip = Adja meg a jelszót, amellyel bejelentkezett ebbe a fiókba.
 
 ## Password Card
 
@@ -283,10 +275,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Jelszó másolása (figyelmeztetés)
 contextual-manager-edit-login-button = Szerkesztés
     .tooltiptext = Jelszó szerkesztése
-contextual-manager-view-alert-heading =
-    .heading = Figyelmeztetés megtekintése
-contextual-manager-view-alert-button =
-    .tooltiptext = Figyelmeztetés felülvizsgálata
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -315,13 +303,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Nem találhatók jelszavak
 contextual-manager-passwords-no-passwords-found-message-2 = Próbáljon meg egy másik kifejezést, és keressen újra.
-contextual-manager-passwords-no-passwords-found-message = Nem találhatók jelszavak. Keressen egy másik kifejezést, és próbálja újra.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Mentse a jelszavait biztonságos helyre.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Az összes jelszó titkosítva van, és figyelünk arra, hogy érintett-e egy adatvédelmi incidensben vagy figyelmeztetésben.

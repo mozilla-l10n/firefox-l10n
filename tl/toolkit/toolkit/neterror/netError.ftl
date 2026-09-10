@@ -23,13 +23,11 @@ neterror-override-exception-button = Tanggapin ang Panganib at Magpatuloy
 neterror-pref-reset-button = Ibalik ang default settings
 neterror-return-to-previous-page-button = Bumalik
 neterror-return-to-previous-page-recommended-button = Bumalik (Inirerekomenda)
-neterror-try-again-button = Subukan uli
 neterror-view-certificate-link = Ipakita ang Certificate
 
 ##
 
 neterror-pref-reset = Mukhang ang iyong mga setting ng seguridad sa network ay maaaring magdulot nito. Nais mo bang maibalik ang mga default na setting?
-neterror-error-reporting-automatic = Mag-ulat ng mga error na kagaya nito para matulungan ang { -vendor-short-name } na matukoy at maharang ang mga delikadong site
 
 ## Specific error messages
 
@@ -47,8 +45,6 @@ neterror-file-not-found-moved = Suriin kung ang file ay nalipat, nabago ang pang
 neterror-access-denied = Maaaring ito ay nabura, nalipat, o ang nailagay na pahintulot sa file ang humarang upang ma-access ito.
 neterror-unknown-protocol = Mukhang kakailanganin mong mag-install ng ibang software para mabuksan ang address na ito.
 neterror-redirect-loop = Maaaring nangyayari ang problema na ito dahil na-disable o hindi pinayagan ang mga cookie.
-neterror-unknown-socket-type-psm-installed = Siguruhing naka-install sa iyong system ang Personal Security Manager.
-neterror-unknown-socket-type-server-config = Ito ay maaaring dahil sa hindi standard na configuration sa server.
 neterror-not-cached-intro = Ang dokumento na hiningi ay wala sa cache ng { -brand-short-name }.
 neterror-not-cached-sensitive = Bilang security precaution, hindi awtomatikong hinihingi ng { -brand-short-name } ang mga sensitibong dokumento.
 neterror-not-cached-try-again = Pindutin ang Subukan Uli para muling hingin ang dokumento mula sa website.

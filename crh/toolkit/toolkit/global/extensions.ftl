@@ -10,9 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = { $extension } Eklensinmi?
 webext-perms-sideload-header = { $extension } eklendi
-webext-perms-optional-perms-header = { $extension } ek ruhsetlerni istey.
 
 ##
 
@@ -45,21 +43,5 @@ webext-perms-host-description-all-urls = Ağ-saytlarınıñ episi içün veriler
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } saasındaki saytlar içün verileriñizge irişmek
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Diger { $domainCount } saada verileriñizge irişiñiz
-       *[other] Diger { $domainCount } saada verileriñizge irişiñiz
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } içün verileriñizge irişmek
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Diger { $domainCount } sayt üzerinde verileriñizge irişiñiz
-       *[other] Diger { $domainCount } sayt üzerinde verileriñizge irişiñiz
-    }

@@ -28,9 +28,6 @@ unified-extensions-item-message-manage = دؽوۉداری وردنی
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = { $extensionName } مئدۊد وابیڌه. و کار گرؽڌنس گاشڌ خترناک بۊ.
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName } وا سیاستا Mozilla نؽسازه. و کار گرؽڌنس گاشڌ خترناک بۊ.
 
 ## Extension's context menu
 
@@ -49,7 +46,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = ی قرد ز وردنی یل موجاز نؽڌن
 unified-extensions-mb-quarantined-domain-learn-more = قلوه دووسته بۊین
     .aria-label = قلوه دووسته بۊین: ی قرد ز وردنی یل موجاز نؽڌن
 unified-extensions-mb-about-addons-link = راو و سامووا وردنی

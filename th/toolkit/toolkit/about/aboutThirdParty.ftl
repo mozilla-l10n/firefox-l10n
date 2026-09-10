@@ -28,11 +28,11 @@ third-party-tag-shellex = ส่วนขยายของ Shell
 third-party-tag-background = เบื้องหลัง
     .title = โมดูลนี้ไม่ปิดกั้นแอปพลิเคชันเพราะถูกโหลดในเบื้องหลัง
 third-party-icon-unsigned =
-    .title = โมดูลนี้ไม่มีการลงลายเซ็น
     .alt = โมดูลนี้ไม่มีการลงลายเซ็น
+    .title = โมดูลนี้ไม่มีการลงลายเซ็น
 third-party-icon-warning =
-    .title = { -brand-short-name } ขัดข้องในโค้ดจากโมดูลนี้
     .alt = { -brand-short-name } ขัดข้องในโค้ดจากโมดูลนี้
+    .title = { -brand-short-name } ขัดข้องในโค้ดจากโมดูลนี้
 third-party-status-loaded = โหลดแล้ว
 third-party-status-blocked = ถูกปิดกั้น
 third-party-status-redirected = ถูกเปลี่ยนเส้นทาง
@@ -44,30 +44,17 @@ third-party-button-reload = โหลดใหม่ด้วยข้อมู�
     .title = โหลดใหม่ด้วยข้อมูลระบบ
 third-party-button-open =
     .title = เปิดตำแหน่งที่ตั้งไฟล์…
-third-party-button-to-block =
-    .title = ปิดกั้นโมดูลนี้
-    .aria-label = ปิดกั้นโมดูลนี้
-third-party-button-to-unblock =
-    .title = ขณะนี้ถูกปิดกั้นอยู่ คลิกเพื่อเลิกปิดกั้น
-    .aria-label = ขณะนี้ถูกปิดกั้นอยู่ คลิกเพื่อเลิกปิดกั้น
-third-party-button-to-unblock-disabled =
-    .title =
-        ขณะนี้ถูกทำเครื่องหมายว่าปิดกั้นอยู่ แม้ว่ารายการปิดกั้นจะถูกปิดใช้งานในการเรียกใช้
-        { -brand-short-name } ครั้งนี้ก็ตาม คลิกเพื่อเลิกปิดกั้น
-    .aria-label =
-        ขณะนี้ถูกทำเครื่องหมายว่าปิดกั้นอยู่ แม้ว่ารายการปิดกั้นจะถูกปิดใช้งานในการเรียกใช้
-        { -brand-short-name } ครั้งนี้ก็ตาม คลิกเพื่อเลิกปิดกั้น
 third-party-button-to-block-module = ปิดกั้นโมดูลนี้
-    .title = ปิดกั้นโมดูลนี้
     .aria-label = ปิดกั้นโมดูลนี้
+    .title = ปิดกั้นโมดูลนี้
 third-party-button-to-unblock-module = เลิกปิดกั้นโมดูลนี้
-    .title = ขณะนี้ถูกปิดกั้นอยู่ คลิกเพื่อเลิกปิดกั้น
     .aria-label = ขณะนี้ถูกปิดกั้นอยู่ คลิกเพื่อเลิกปิดกั้น
+    .title = ขณะนี้ถูกปิดกั้นอยู่ คลิกเพื่อเลิกปิดกั้น
 third-party-button-to-unblock-module-disabled = เลิกปิดกั้นโมดูลนี้ (รายการปิดกั้นถูกปิดใช้งานอยู่ในขณะนี้)
-    .title =
+    .aria-label =
         ขณะนี้ถูกทำเครื่องหมายว่าปิดกั้นอยู่ แม้ว่ารายการปิดกั้นจะถูกปิดใช้งานในการเรียกใช้
         { -brand-short-name } ครั้งนี้ คลิกเพื่อเลิกปิดกั้นโมดูล
-    .aria-label =
+    .title =
         ขณะนี้ถูกทำเครื่องหมายว่าปิดกั้นอยู่ แม้ว่ารายการปิดกั้นจะถูกปิดใช้งานในการเรียกใช้
         { -brand-short-name } ครั้งนี้ คลิกเพื่อเลิกปิดกั้นโมดูล
 third-party-button-expand =
@@ -79,5 +66,5 @@ third-party-should-restart-title = เริ่มการทำงาน { -br
 third-party-restart-now = เริ่มการทำงานใหม่ตอนนี้
 third-party-restart-later = เริ่มการทำงานใหม่ภายหลัง
 third-party-blocked-by-builtin =
-    .title = ถูกปิดกั้นโดย { -brand-short-name }
     .alt = ถูกปิดกั้นโดย { -brand-short-name }
+    .title = ถูกปิดกั้นโดย { -brand-short-name }

@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Kuna iin ventana
     .accesskey = K
 about-private-browsing-search-placeholder = Nduku nu web
-about-private-browsing-info-title = inkau nu ventana seé
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =

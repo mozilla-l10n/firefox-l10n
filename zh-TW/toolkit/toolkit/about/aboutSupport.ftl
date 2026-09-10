@@ -29,10 +29,6 @@ security-software-name = 名稱
 security-software-antivirus = 防毒軟體
 security-software-antispyware = 防間諜軟體
 security-software-firewall = 防火牆
-features-title = { -brand-short-name } 功能
-features-name = 名稱
-features-version = 版本
-features-id = ID
 processes-title = 遠端處理程序
 processes-type = 類型
 processes-count = 數量
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] 設定檔目錄
        *[other] 設定檔目錄
     }
-app-basics-enabled-plugins = 啟用的外掛程式
 app-basics-build-config = 編譯設定
 app-basics-user-agent = 使用者代理字串（User Agent）
 app-basics-os = 作業系統
@@ -96,9 +91,6 @@ show-dir-label =
 environment-variables-title = 環境變數
 environment-variables-name = 名稱
 environment-variables-value = 值
-experimental-features-title = 實驗功能
-experimental-features-name = 名稱
-experimental-features-value = 值
 modified-key-prefs-title = 修改過的重要偏好設定
 modified-prefs-name = 名稱
 modified-prefs-value = 值
@@ -220,9 +212,6 @@ media-cdm-capabilities = 系統能力
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = 不加密片頭（Clear Lead）
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = HDCP 2.2 相容
 
 ##
 
@@ -374,8 +363,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = 由實驗關閉
-fission-status-experiment-treatment = 由實驗開啟
 fission-status-disabled-by-e10s-env = 由環境關閉
 fission-status-enabled-by-env = 由環境開啟
 fission-status-disabled-by-env = 由環境關閉
@@ -384,7 +371,6 @@ fission-status-disabled-by-default = 預設關閉
 fission-status-enabled-by-user-pref = 由使用者開啟
 fission-status-disabled-by-user-pref = 由使用者關閉
 fission-status-disabled-by-e10s-other = 已停用 e10s
-fission-status-enabled-by-rollout = 透過分階段推出啟用
 async-pan-zoom = 異步 Pan/Zoom
 apz-none = 無
 wheel-enabled = 已啟用滾輪輸入

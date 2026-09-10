@@ -16,9 +16,6 @@ experimental-features-group-customize-browsing =
     .label = Personalitzeu la navegació
 experimental-features-group-productivity =
     .label = Productivitat
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Contrasenyes a la barra lateral
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Previsualitzacions d'enllaços

@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Meira frá { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Meira frá { -vendor-short-name }
 more-from-moz-subtitle = Skoðaðu aðrar { -vendor-short-name } vörur sem miða að stuðningi við heilbrigt internet.
@@ -32,13 +31,11 @@ more-from-moz-firefox-relay-button = Fáðu þér { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Taka sjálfkrafa til baka berskjaldaðar persónulegar upplýsingar frá þér.
 more-from-moz-mozilla-monitor-global-description = Fáðu tilkynningar þegar gögnin þín hafa komið við sögu í gagnaráni.
 more-from-moz-mozilla-monitor-button = Fáðu þér { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } gervigreind
 more-from-moz-solo-description = Búðu til þitt eigið vefsvæði í hvelli og tengdu þitt eigið sérsniðið lén ókeypis.
 more-from-moz-solo-button = Prófaðu { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = { -solo-ai-brand-name } AI-vefsíðugerð

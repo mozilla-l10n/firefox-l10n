@@ -21,11 +21,6 @@ tabbrowser-tab-tooltip-container = { $containerName }
 #   $tabGroupName (String): the user-defined name of the current tab group.
 #   $containerName (String): the name of the current container.
 tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -33,14 +28,6 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [one] Mdel Iccer
-           *[other] Mdel { $tabCount } iccaren
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [one] Mdel Iccer
            *[other] Mdel { $tabCount } iccaren
@@ -104,7 +91,6 @@ tabbrowser-unblock-tab-audio-aria-label =
 tabbrowser-confirm-close-tabs-title = Mdel { $tabCount } accaren?
 tabbrowser-confirm-close-tabs-button = Mdel iccaren
 tabbrowser-ask-close-tabs-checkbox = Ssuter send amdal n waṭas n waccaren
-tabbrowser-confirm-close-tabs-checkbox = Sentem send amdal n waṭas n waccaren
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -127,9 +113,6 @@ tabbrowser-confirm-close-tabs-with-key-button = Eǧǧ { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-ask-close-tabs-with-key-checkbox = Ssuter send ad teffɣeḍ s { $quitKey }
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = Sentem send tuffɣa s { $quitKey }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.

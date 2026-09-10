@@ -31,4 +31,3 @@ search-bookmarks = Comharran-lìn
 search-history = An eachdraidh
 search-opentabs = Tabaichean fosgailte
 search-tags = Tagaichean
-search-titles = Tiotalan

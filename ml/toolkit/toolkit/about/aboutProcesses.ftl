@@ -34,14 +34,6 @@ about-processes-extension-process = വിപുലീകരണങ്ങൾ ({ $
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = മറ്റുള്ളവ: { $type } ({ $pid })
 
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-isolated-process-private = { $origin } — സ്വകാര്യം ({ $pid })
-
 ## Details within processes
 
 # Thread details

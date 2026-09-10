@@ -7,4 +7,3 @@
 
 neterror-return-to-previous-page-button = Tornar
 neterror-return-to-previous-page-recommended-button = Tornar (recomandâ)
-neterror-try-again-button = Tornar a èprovar

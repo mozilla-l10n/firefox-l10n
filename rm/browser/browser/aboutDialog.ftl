@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>L'actualisaziun vegn telechargiada — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Telechargiar in'actualisaziun – <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = L'actualisaziun vegn telechargiada — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Applitgar l'actualisaziun…
 update-failed = L'actualisaziun n'è betg reussida. <label data-l10n-name="failed-link">Telechargiar la versiun actuala</label>
 update-failed-main = L'actualisaziun n'è betg reussida. <a data-l10n-name="failed-link-main">Telechargiar la versiun actuala</a>
-update-adminDisabled = La funcziun dad actualisaziuns è deactivada da tes administratur da sistem
 update-policy-disabled = Tia organisaziun ha deactivà las actualisaziuns
 settings-update-policy-disabled =
     .label = Tia organisaziun ha deactivà las actualisaziuns
@@ -72,8 +70,6 @@ helpus-referrals2 = Vuls ti gidar? <label data-l10n-name="helpus-donateLink">Fa 
 bottomLinks-license = Infurmaziuns davart la licenza
 bottom-links-terms = Cundiziuns d’utilisaziun
 bottom-links-privacy = Decleraziun davart la protecziun da datas
-bottomLinks-rights = Dretgs da l'utilisader
-bottomLinks-privacy = Directivas per la protecziun da datas
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

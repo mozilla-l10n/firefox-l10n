@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Descargando o certificau
     .style = min-width: 46em
+    .title = Descargando o certificau
 download-cert-message = Se l'ha demandau que confíe en una entidat certificadera (CA) nueva.
 download-cert-trust-ssl =
     .label = Confiar en ista CA ta identificar puestos web.
@@ -37,8 +37,6 @@ download-cert-view-text = Examinar o certificau d'a CA
 
 client-auth-window =
     .title = Solicitut d'identificación d'usuario
-client-auth-site-description = Iste puesto ha solicitau que s'identifique con un certificau:
-client-auth-choose-cert = Trigue un certificau ta presentar-lo como identificación:
 client-auth-cert-details = Detalles d'o certificau trigau:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

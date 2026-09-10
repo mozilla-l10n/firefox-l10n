@@ -25,8 +25,6 @@ appmenuitem-downloads =
     .label = Nadunïnj
 appmenuitem-passwords =
     .label = Nej da\'nga\' huìi
-appmenuitem-addons-and-themes =
-    .label = Nej sa nūtò’ nī nej têma
 appmenuitem-print =
     .label = Nari' ña du'ua
 appmenuitem-find-in-page =
@@ -71,7 +69,6 @@ appmenu-remote-tabs-unverified = Da'ui' ma ganatsij ma si kuentat
 appmenuitem-fxa-toolbar-sync-now2 = Nāgi\'hiaj nūguàn\'àn hìaj
 appmenuitem-fxa-sign-in = Nutà' si yuguît riña { -brand-product-name }
 appmenuitem-fxa-manage-account = Si Kuendâ administrador
-appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
@@ -83,15 +80,6 @@ appmenu-fxa-setup-sync =
     .label = Nāchrūn sa nāgi’hiaj gūñāan…
 appmenuitem-save-page =
     .label = Na'nïnj sà' Pâjina Gù'na…
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Nù huin sa nakà hua
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Gātāj na’ānj si huā sa nakà doj
-    .accesskey = ā
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -134,8 +122,6 @@ appmenu-recently-closed-windows =
 appmenu-about =
     .label = rayi'î { -brand-shorter-name }
     .accesskey = r
-appmenu-help-report-site-issue =
-    .label = Natà' si huā sa huā a'na' riña sitiô…
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

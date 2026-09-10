@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = හැරදැමීම්
     .style = min-width: 45em
+    .title = හැරදැමීම්
 permissions-close-key =
     .key = w
 permissions-address = අඩවියේ ලිපිනය
@@ -77,65 +77,50 @@ permissions-invalid-uri-label = වලංගු සත්කාරක නාම�
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = දියුණු කළ ලුහුබැඳීමේ රැකවරණය හැරදැමීම්
     .style = { permissions-window2.style }
+    .title = දියුණු කළ ලුහුබැඳීමේ රැකවරණය හැරදැමීම්
 permissions-exceptions-manage-etp-desc = දියුණු කළ ලුහුබැඳීමේ රැකවරණය අක්‍රිය කර තබන අඩවි සඳහන් කිරීමට හැකිය. ඔබට වුවමනා අඩවියේ නිවැරදි ලිපිනය ලිවීමෙන් පසුව හැරදැමීම යොදන්න ඔබන්න.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = හැරදැමීම් - දත්තකඩ හා අඩවි දත්ත
     .style = { permissions-window2.style }
+    .title = හැරදැමීම් - දත්තකඩ හා අඩවි දත්ත
 permissions-exceptions-cookie-desc = දත්තකඩ හා අඩවි දත්ත භාවිතා කිරීමට සැමවිට ඉඩ දෙන හෝ නොදෙන අඩවි ඔබට නිශ්චිතව දැක්වීමට හැකිය. කළමනාකරණය කිරීමට අවශ්‍ය අඩවිවල නිවැරදි ලිපිනය ලිවීමෙන් පසු අවහිර හෝ  වාරය සඳහා ඉඩ දෙන්න ඔබන්න.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
+    .style = { permissions-window2.style }
     .title = හැරදැමීම් - HTTPS-පමණි ප්‍රකාරය
-    .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = ඔබට නිශ්චිත වියමන අඩවි සඳහා HTTPS-පමණි ප්‍රකාරය අක්‍රිය කළ හැකිය. { -brand-short-name } එම අඩවි වෙත සම්බන්‍ධතාව ආරක්‍ෂිත HTTPS සඳහා උත්ශ්‍රේණි කිරීමට තැත් නොකරනු ඇත. පෞද්ගලික කවුළු සඳහා හැරදැමීම් අදාළ නොවේ.
 permissions-exceptions-https-only-desc2 = ඔබට නිශ්චිත වියමන අඩවි සඳහා HTTPS-පමණි ප්‍රකාරය අක්‍රිය කිරීමට හැකිය. { -brand-short-name } එම අඩවි වෙත සම්බන්‍ධතාව ආරක්‍ෂිත HTTPS සඳහා උත්ශ්‍රේණි නොකරනු ඇත.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = අවසර දුන් අඩවි - උත්පතන
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = උපත්තන කවුළු විවෘත කිරීමට ඉඩ දෙන අඩවි දැක්වීමට හැකිය. ඉඩ දීමට අවශ්‍ය අඩවිවල නිවැරදි ලිපිනය ලිවීමෙන් පසු ඉඩ දෙන්න ඔබන්න.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = හැරදැමීම් - සුරැකි පිවිසුම්
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = පහත වියමන අඩවි සඳහා පිවිසුම් සුරැකෙන්නේ නැත
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = හැරදැමීම් - සුරැකි මුරපද
     .style = { permissions-window2.style }
+    .title = හැරදැමීම් - සුරැකි මුරපද
 permissions-exceptions-saved-passwords-desc = මෙහි දැක්වෙන අඩවි සඳහා { -brand-short-name } මුරපද සුරකින්නේ නැත.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = ඉඩ දුන් වියමන අඩවි - එක්කහු ස්ථාපනය
     .style = { permissions-window2.style }
+    .title = ඉඩ දුන් වියමන අඩවි - එක්කහු ස්ථාපනය
 permissions-exceptions-addons-desc = එක්කහු ස්ථාපනය කිරීමට ඉඩ දෙන අඩවි දැක්වීමට හැකිය. ඉඩ දීමට අවශ්‍ය අඩවිවල නිවැරදි ලිපිනය ලිවීමෙන් පසු ඉඩ දෙන්න ඔබන්න.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = සැකසුම් - ස්වයං වාදනය
     .style = { permissions-window2.style }
+    .title = සැකසුම් - ස්වයං වාදනය
 permissions-site-autoplay-desc = පෙරනිමි ස්වයං වාදන සැකසුම් අනුගමනය නොකරන අඩවි මෙහි කළමනාකරණය කළ හැකිය.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = සැකසුම් - දැනුම්දීමේ අවසර
     .style = { permissions-window2.style }
+    .title = සැකසුම් - දැනුම්දීමේ අවසර
 permissions-site-notification-desc = පහත වියමන අඩවි ඔබට දැනුම්දීම් එවීමට ඉල්ලා ඇත. දැනුම්දීම් එවීමට ඉඩ දිය යුතු අඩවි මොනවාදැයි ඔබට සඳහන් කළ හැකිය. ඔබට දැනුම්දීම් එවීමට විමසන නව ඉල්ලීම් ද අවහිර කළ හැකිය.
 permissions-site-notification-disable-label =
     .label = දැනුම්දීම් සඳහා විමසන නව ඉල්ලීම් අවහිර කරන්න
@@ -144,8 +129,8 @@ permissions-site-notification-disable-desc = ඉහත ලේඛනගත කර
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = සැකසුම් - ස්ථාන අවසර
     .style = { permissions-window2.style }
+    .title = සැකසුම් - ස්ථාන අවසර
 permissions-site-location-desc = පහත වියමන අඩවි ඔබගේ ස්ථානයට ප්‍රවේශ වීමට ඉල්ලා ඇත. ස්ථානයට ප්‍රවේශ වීමට ඉඩ දිය යුතු අඩවි මොනවාදැයි ඔබට සඳහන් කළ හැකිය. ඔබගේ ස්ථානයට ප්‍රවේශ වීමට විමසන නව ඉල්ලීම් ද අවහිර කළ හැකිය.
 permissions-site-location-disable-label =
     .label = ස්ථානයට ප්‍රවේශ වීමට විමසන නව ඉල්ලීම් අවහිර කරන්න
@@ -154,8 +139,8 @@ permissions-site-location-disable-desc = ඉහත ලේඛනගත කර න
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = සැකසුම් - අතථ්‍ය යථාර්ථය අවසර
     .style = { permissions-window2.style }
+    .title = සැකසුම් - අතථ්‍ය යථාර්ථය අවසර
 permissions-site-xr-desc = පහත වියමන අඩවි ඔබගේ අතථ්‍ය යථාර්ථ උපාංග වෙත ප්‍රවේශ වීමට ඉල්ලා ඇත. අවසර දීමට අවශ්‍ය අඩවි මොනවාදැයි ඔබට සඳහන් කළ හැකිය. තවද, ප්‍රවේශ වීමට විමසන නව ඉල්ලීම් ද අවහිර කළ හැකිය.
 permissions-site-xr-disable-label =
     .label = අතථ්‍ය යථාර්ත උපාංග වෙත ප්‍රවේශය සඳහා නව ඉල්ලීම් අවහිර කරන්න
@@ -164,8 +149,8 @@ permissions-site-xr-disable-desc = ඉහත ලේඛනගත කර නැත
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = සැකසුම් - රූගතයට අවසර
     .style = { permissions-window2.style }
+    .title = සැකසුම් - රූගතයට අවසර
 permissions-site-camera-desc = පහත වියමන අඩවි ඔබගේ රූගත උපාංගයට ප්‍රවේශය ඉල්ලා ඇත. රූගත උපාංගය වෙත ප්‍රවේශ වීමට ඉඩ දිය යුතු අඩවි මොනවාදැයි ඔබට සඳහන් කළ හැකිය. ඔබගේ රූගත උපාංගයට ප්‍රවේශය විමසන නව ඉල්ලීම් ද අවහිර කළ හැකිය.
 permissions-site-camera-disable-label =
     .label = රූගතයට ප්‍රවේශ වීමට විමසන නව ඉල්ලීම් අවහිර කරන්න
@@ -174,8 +159,8 @@ permissions-site-camera-disable-desc = ඉහත ලේඛනගත කර න�
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = සැකසුම් - ශබ්දවාහිනියේ අවසර
     .style = { permissions-window2.style }
+    .title = සැකසුම් - ශබ්දවාහිනියේ අවසර
 permissions-site-microphone-desc = පහත වියමන අඩවි ඔබගේ ශබ්දවාහිනියට ප්‍රවේශය ඉල්ලා ඇත. ශබ්දවාහිනිය වෙත ප්‍රවේශ වීමට ඉඩ දිය යුතු අඩවි මොනවාදැයි ඔබට සඳහන් කළ හැකිය. ඔබගේ ශබ්දවාහිනියට ප්‍රවේශය විමසන නව ඉල්ලීම් ද අවහිර කළ හැකිය.
 permissions-site-microphone-disable-label =
     .label = ශබ්දවාහිනියට ප්‍රවේශය සඳහා නව ඉල්ලීම් අවහිර කරන්න
@@ -186,12 +171,12 @@ permissions-site-microphone-disable-desc = ඉහත ලේඛනගත කර �
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = සැකසුම් - විකාශකයේ අවසර
     .style = { permissions-window2.style }
+    .title = සැකසුම් - විකාශකයේ අවසර
 permissions-site-speaker-desc = පහත අඩවි හඬ ප්‍රතිදාන උපාංගයක් තේරීමට ඉල්ලා ඇත. හඬ ප්‍රතිදාන උපාංගයක් තෝරා ගැනීමට ඉඩ ලැබෙන අඩවි දැක්වීමට හැකිය.
 permissions-exceptions-doh-window =
-    .title = HTTPS හරහා ව.නා.ප. සඳහා අඩවි හැරදැමීම්
     .style = { permissions-window2.style }
+    .title = HTTPS හරහා ව.නා.ප. සඳහා අඩවි හැරදැමීම්
 permissions-exceptions-manage-doh-desc = { -brand-short-name } මෙම අඩවි හා ඒවායේ උප වසම් සඳහා ආරක්‍ෂිත ව.නා.ප. භාවිතා නොකරයි
 permissions-doh-entry-field = අඩවියේ වසම් නාමය යොදන්න
     .accesskey = d

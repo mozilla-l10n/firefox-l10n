@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Emongu’ejey ñemohenda
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Ko tenda oikese ne MIDI (Interfaz Digital de Instrumentos Musicales) mba’e’okápe. Pe mba’e’okápe jeike eguerekokuaa emohendávo pe tembiporu’i.
 site-permission-install-first-prompt-midi-message = Ndoje’ekuaái ndéve ko jeike hekorosãtaha. Eku’ejey ejeroviáramo ko tendáre.
 site-permission-install-first-prompt-serial-header = Ko tenda oikese ne mba’e’oka hysýivape. Pe ijeike ne mba’e’okaperã emyandykuaa emohenda rire peteĩ moĩmbaha.
 site-permission-install-first-prompt-serial-message = Ndoje’ekuaái ndéve ko jeike hekorosãtaha. Eku’ejey ejeroviáramo ko tenda rehe.
-
-##
-
-xpinstall-disabled-locked = Apopyvusu ñangarekohára ombotove Software ñemohenda.
 xpinstall-disabled-by-policy = Pe software ñemohenda oipe’aitéma ne mba’apohaguasu.
 xpinstall-disabled = Software ñemohenda oñembogue ko’ág̃a. Ejopy Myandy ha upéi eha’ã jey.
 xpinstall-disabled-button =
     .label = Myandy
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ojokohína apopyvusu ñangarekoha.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Pe apopyvusu ñangarekohára omboyke ko tendápe ojerurévo omohenda hag̃ua software ne mohendahápe.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = Emohu’ã jepysokue guerupyre ñemohenda { -brand-shor
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = ¿Emboguete { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = ¿Embogue { $name } { -brand-shorter-name }-gui?
 addon-removal-button = Mboguete
 addon-removal-abuse-report-checkbox = Emomarandu ko jepysokue rehegua { -vendor-short-name }-pe
 # "it" refers to the local AI model that is paired to the AI feature
@@ -139,7 +122,5 @@ addon-local-install-no-addon-name-error-file-access = { -brand-short-name } nomo
 addon-install-error-incompatible = { $addonName } ndaikatúi oñemohenda ndojokupytýi rupi { -brand-short-name } { $appVersion } ndive.
 addon-install-error-hard-blocked = { $addonName } omomarã Mozilla porureko ha ndaikatúi emohenda { -brand-short-name } rupive.
 addon-install-error-soft-blocked2 = { $addonName } ojokohína ha nomohendakuaái { -brand-short-name }-pe.
-addon-install-error-blocklisted = { $addonName } ndaikatúi oñemohenda ikatúgui omoapañuái mba’apoporã térã tekorosã rehegua.
-addon-install-error-soft-blocked = { $addonName } omomarã Mozilla porureko ha ndaikatúi emohenda { -brand-short-name } rupive.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Ndaikatúi emohenda { $addonName } poruhára paháramo, omohendakuaa tendaguasu oiporúva mba’apohaguasu porureko.

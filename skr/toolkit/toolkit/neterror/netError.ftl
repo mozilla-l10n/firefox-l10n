@@ -23,17 +23,13 @@ neterror-override-exception-button = خطرے کوں قبول کرو تے جار
 neterror-pref-reset-button = طے شدہ ترتیباں بحال کرو
 neterror-return-to-previous-page-button = واپس ون٘ڄو
 neterror-return-to-previous-page-recommended-button = واپس ون٘ڄو(سفارش کیتی ویندی ہے)
-neterror-try-again-button = ولدا کوشش کرو
 neterror-add-exception-button = ایں سائٹ کیتے ہمیشاں جاری رکھو
 neterror-settings-button = DNS ترتیباں تبدیل کرو
 neterror-view-certificate-link = تصدیق نامہ ݙیکھو
-neterror-trr-continue-this-time = ہݨ جاری رکھو
-neterror-disable-native-feedback-warning = ہمیشہ جاری رکھو
 
 ##
 
 neterror-pref-reset = ایویں لڳدا ہے جو تہاݙے نیٹ ورک دی سیکیورٹی دیاں ترتیباں ایندی وجہ بݨدیاں پیاں ہن۔ کیا تساں چاہندے او جو طے شدہ ترتیباں بحال تھیون؟
-neterror-error-reporting-automatic = اں طراں دیاں غلطیاں دی اطلاع ݙیوو تاں جو { -vendor-short-name } کوں خینسی سائٹاں دی سنڄاݨ تے بلاک کرݨ وِچ مدد ملے
 
 ## Specific error messages
 
@@ -55,25 +51,15 @@ neterror-dns-not-found-hint-firewall = چیک کرو جو { -brand-short-name } 
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } اساݙے قابل اعتماد DNS حل کنندہ دے ذریعے ایں سائٹ دے پتے کیتے تہاݙی درخواست دی حفاظت نہیں کر سڳدا۔ اتھاں کیوں ہے:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } اَساݙے محفوظ ڈی این ایس فراہم کنندہ دے ذریعے اِیں سائٹ دے پتے کِیتے تُہاݙی عرضی دی راکھی نِھیں کر سڳدا۔ اِتّھاں کیوں ہِے:
 neterror-dns-not-found-trr-third-party-warning2 = تساں آپݨے ڈیفالٹ ڈی این ایس حل کرݨ آلے نال جاری رکھ سڳدے ہو۔ ول وی تریجھا فریق ایہ ݙیکھݨ دے قابل تھی سڳدے جو تساں کہڑیاں ویب سائٹاں تے ویندے ہو۔
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } { $trrDomain } نال جڑݨ دے قابل کائنا ہا۔
 neterror-dns-not-found-trr-only-timeout = { $trrDomain } نال کنکشن وِچ توقع توں زیادہ وقت لڳا۔
-neterror-dns-not-found-trr-offline = تساں انٹرنیٹ نال منسلک کائنوے۔
 neterror-dns-not-found-trr-unknown-host2 = ایہ ویب سائٹ { $trrDomain } کنوں کائناں لبھی ہائی۔
 neterror-dns-not-found-trr-server-problem = { $trrDomain } دے نال ہک مسئلہ ہا۔
 neterror-dns-not-found-bad-trr-url = غلط یوآرایل۔
 neterror-dns-not-found-system-sleep = سسٹم سلیپ موڈ وچ ہے۔
 neterror-dns-not-found-trr-unknown-problem = غیر متوقع مسئلہ
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } اساݙے قابل اعتماد DNS حل کنندہ دے ذریعے ایں سائٹ دے پتے کیتے تہاݙی درخواست دی حفاظت نہیں کر سڳدا۔ اتھاں کیوں ہے:
-neterror-dns-not-found-native-fallback-heuristic = تہاݙے نیٹ ورک تے HTTPs تے ڈی این ایس غیرفعال کر ݙتا ڳئے۔
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } { $trrDomain } نال جڑݨ دے قابل کائنا ہا۔
 
 ##
 
@@ -82,8 +68,6 @@ neterror-file-not-found-moved = ایہ ݙیکھݨ کیتے چیک کرو جو آ
 neterror-access-denied = تھی سڳدا ہے اینکوں ہٹا ݙتا ڳیا ہووے، منتقل کر ݙتا ڳیا ہووے یا فائل دیاں اجازتاں رسائی کوں روکیندیاں پیاں ہوون۔
 neterror-unknown-protocol = ایں ایڈریس کوں کھولݨ کیتے تہاکوں ٻئے سافٹ ویئر انسٹال کرݨ دی لوڑ پئے سڳدی ہے۔
 neterror-redirect-loop = ایہ مسئلہ بعض اوقات کوکیاں کوں غیر فعال کرݨ یا قبول کرݨ کنوں انکار دی وجہ توں تھی سڳدا ہے۔
-neterror-unknown-socket-type-psm-installed = ایہ یقینی بݨاوݨ کیتے چیک کرو جو تہاݙے سسٹم وِچ پرسنل سیکیورٹی مینیجر انسٹال ہے۔
-neterror-unknown-socket-type-server-config = ایہ سرور تے غیر معیاری ترتیب دی وجہ توں تھی سڳدا ہے۔
 neterror-not-cached-intro = درخواست کردہ دستاویز { -brand-short-name } دے کیشے وِچ دستیاب کائنی۔
 neterror-not-cached-sensitive = حفاظتی احتیاط دے طور تے، { -brand-short-name } آپݨے آپ حساس دستاویزات دی دوبارہ درخواست نہیں کریندا۔
 neterror-not-cached-try-again = ویب سائٹ کنوں دستاویز دی دوبارہ درخواست کرݨ کیتے ولدا کوشش کرو تے کلک کرو۔

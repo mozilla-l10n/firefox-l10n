@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Ukryj zamknięte PeerCo
 about-webrtc-aec-logging-msg-label = Dziennik usuwania echa akustycznego (AEC)
 about-webrtc-aec-logging-off-state-label = Rozpocznij rejestrowanie informacji o usuwaniu echa akustycznego (AEC)
 about-webrtc-aec-logging-on-state-label = Zatrzymaj rejestrowanie informacji o usuwaniu echa akustycznego (AEC)
-about-webrtc-aec-logging-on-state-msg = Rejestrowanie informacji o usuwaniu echa akustycznego (AEC) (rozmawiaj przez kilka minut, po czym zatrzymaj rejestrowanie)
 about-webrtc-aec-logging-toggled-on-state-msg = Rejestrowanie informacji o usuwaniu echa akustycznego (AEC) (rozmawiaj przez kilka minut, po czym zatrzymaj rejestrowanie)
 about-webrtc-aec-logging-unavailable-sandbox = Eksport dzienników AEC wymaga zmiennej środowiskowej „MOZ_DISABLE_CONTENT_SANDBOX=1”. Ustaw tę zmienną wyłącznie wtedy, gdy rozumiesz możliwe ryzyko.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Nominowane
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Wybrane
 about-webrtc-save-page-label = Zapisz stronę
-about-webrtc-debug-mode-msg-label = Debugowanie
-about-webrtc-debug-mode-off-state-label = Rozpocznij debugowanie
-about-webrtc-debug-mode-on-state-label = Zatrzymaj debugowanie
-about-webrtc-stats-heading = Statystyki sesji
 about-webrtc-enable-logging-label = Włącz ustawienie dziennika WebRTC
 about-webrtc-peerconnections-section-heading = Statystyki RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = Pokaż statystyki RTCPeerConnection
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = Ukryj statystyki RTCPeerConnecti
 about-webrtc-stats-clear = Wyczyść historię
 about-webrtc-log-heading = Dziennik połączenia
 about-webrtc-log-clear = Wyczyść dziennik
-about-webrtc-log-show-msg = Dziennik
-    .title = Kliknij, aby rozwinąć sekcję
-about-webrtc-log-hide-msg = Ukryj dziennik
-    .title = Kliknij, aby zwinąć sekcję
 about-webrtc-log-section-show-msg = Dziennik
     .title = Kliknij, aby rozwinąć sekcję
 about-webrtc-log-section-hide-msg = Ukryj dziennik
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Zdalny kandydat
 about-webrtc-raw-candidates-heading = Wszyscy nieprzetworzeni kandydaci
 about-webrtc-raw-local-candidate = Nieprzetworzony lokalny kandydat
 about-webrtc-raw-remote-candidate = Nieprzetworzony zdalny kandydat
-about-webrtc-raw-cand-show-msg = Pokaż nieprzetworzonych kandydatów
-    .title = Kliknij, aby rozwinąć sekcję
-about-webrtc-raw-cand-hide-msg = Ukryj nieprzetworzonych kandydatów
-    .title = Kliknij, aby zwinąć sekcję
 about-webrtc-raw-cand-section-show-msg = Pokaż nieprzetworzonych kandydatów
     .title = Kliknij, aby rozwinąć sekcję
 about-webrtc-raw-cand-section-hide-msg = Ukryj nieprzetworzonych kandydatów
     .title = Kliknij, aby zwinąć sekcję
 about-webrtc-priority = Priorytet
-about-webrtc-fold-show-msg = Szczegóły
-    .title = Kliknij, aby rozwinąć sekcję
-about-webrtc-fold-hide-msg = Ukryj szczegóły
-    .title = Kliknij, aby zwinąć sekcję
 about-webrtc-fold-default-show-msg = Szczegóły
     .title = Kliknij, aby rozwinąć sekcję
 about-webrtc-fold-default-hide-msg = Ukryj szczegóły
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Podano
 # been provided
 about-webrtc-configuration-element-not-provided = Nie podano
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Preferencje WebRTC ustawione przez użytkownika
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Konfiguracja WebRTC zmodyfikowana przez użytkownika
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT w milisekundach
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Statystyki klatek wideo – identyfikator MediaStreamTrack: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = Strona zapisana jako { $path }
-about-webrtc-debug-mode-off-state-msg = Dziennik debugowania jest zapisywany w pliku { $path }
-about-webrtc-debug-mode-on-state-msg = Debugowanie aktywne, dziennik w { $path }
-about-webrtc-aec-logging-off-state-msg = Pliki dziennika znajdują się w katalogu { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

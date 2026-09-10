@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = ᱵᱚᱸᱫ ᱠᱟᱱ 
 about-webrtc-aec-logging-msg-label = AEC ᱞᱚᱜᱤᱝ
 about-webrtc-aec-logging-off-state-label = AEC ᱞᱚᱜᱤᱝᱮ ᱮᱛᱦᱚᱵ ᱢᱮ
 about-webrtc-aec-logging-on-state-label = AEC ᱞᱚᱜᱤᱝ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
-about-webrtc-aec-logging-on-state-msg = AEC ᱵᱚᱞᱚ ᱫᱚ ᱪᱚᱴᱠᱟᱨ ᱜᱮᱭᱟ (ᱠᱚᱞᱚᱨ ᱥᱟᱶ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱚᱠᱚᱛ ᱨᱚᱲ ᱢᱮ ᱟᱨ ᱚᱱᱟ ᱛᱟᱭᱚᱢ ᱠᱮᱯᱪᱚᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC ᱵᱚᱞᱚ ᱫᱚ ᱪᱚᱴᱠᱟᱨ ᱜᱮᱭᱟ (ᱠᱚᱞᱚᱨ ᱥᱟᱶ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱚᱠᱚᱛ ᱨᱚᱲ ᱢᱮ ᱟᱨ ᱚᱱᱟ ᱛᱟᱭᱚᱢ ᱠᱮᱯᱪᱚᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ)
 about-webrtc-aec-logging-unavailable-sandbox = ᱮᱱᱵᱷᱟᱭᱨᱚᱱᱢᱮᱱᱴ ᱵᱷᱮᱨᱤᱭᱮᱵᱚᱞ MOZ_DISABLE_CONTENT_SANDBOX=1 ᱫᱚ AEC ᱞᱚᱜᱽᱠᱚ ᱵᱷᱮᱡᱟ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾ ᱡᱩᱫᱤ ᱟᱢ ᱱᱚᱶᱟ ᱨᱤᱥᱠ ᱠᱚ ᱵᱟᱵᱚᱛ ᱴᱷᱟᱹᱣᱠᱟᱹ ᱥᱟᱹᱦᱤᱡ ᱵᱟᱲᱟᱭ ᱠᱷᱟᱱ ᱱᱚᱶᱟ ᱵᱷᱮᱨᱤᱭᱮᱵᱚᱞ ᱥᱮᱴ ᱢᱮ ᱾
 # Variables:
@@ -93,18 +92,10 @@ about-webrtc-nominated = ᱢᱚᱱᱚᱛᱤᱛ ᱠᱟᱱᱟᱭ
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = ᱵᱟᱪᱷᱟᱣᱮᱱᱟ
 about-webrtc-save-page-label = ᱥᱟᱦᱴᱟ ᱥᱟᱸᱪᱟᱣ ᱢᱮ
-about-webrtc-debug-mode-msg-label = ᱰᱮᱵᱩᱜᱽ ᱢᱳᱰ
-about-webrtc-debug-mode-off-state-label = ᱰᱮᱵᱩᱜᱽ ᱢᱳᱰ ᱮᱛᱦᱚᱵ ᱢᱮ
-about-webrtc-debug-mode-on-state-label = ᱰᱮᱵᱩᱜᱽ ᱢᱳᱰ ᱵᱚᱸᱫ ᱢᱮ
-about-webrtc-stats-heading = ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱟᱸᱠᱲᱟ
 about-webrtc-enable-logging-label = WebRTC ᱞᱚᱜᱽ ᱯᱨᱮᱡᱚᱱᱴ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
 about-webrtc-stats-clear = ᱦᱤᱛᱟᱹᱞ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
 about-webrtc-log-heading = ᱡᱚᱲᱟᱣ ᱞᱚᱜᱽ
 about-webrtc-log-clear = ᱞᱚᱜᱽ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
-about-webrtc-log-show-msg = ᱞᱚᱜᱽ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
-    .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟ ᱯᱟᱥᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
-about-webrtc-log-hide-msg = ᱩᱠᱩ ᱞᱚᱜᱽ
-    .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟᱸ ᱦᱩᱰᱤᱧ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
 about-webrtc-log-section-show-msg = ᱞᱚᱜᱽ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
     .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟ ᱯᱟᱥᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
 about-webrtc-log-section-hide-msg = ᱩᱠᱩ ᱞᱚᱜᱽ
@@ -137,19 +128,11 @@ about-webrtc-remote-candidate = ᱡᱷᱟᱹᱞ ᱠᱮᱱᱰᱤᱰᱮᱴ
 about-webrtc-raw-candidates-heading = ᱡᱷᱚᱛᱚ ᱵᱮᱨᱮᱞ ᱠᱮᱱᱰᱤᱰᱮᱴᱠᱚ
 about-webrtc-raw-local-candidate = ᱵᱮᱨᱮᱞ ᱥᱩᱯᱩᱨ ᱠᱮᱱᱰᱤᱰᱮᱴ
 about-webrtc-raw-remote-candidate = ᱡᱷᱟᱹᱞ ᱵᱮᱨᱮᱞ ᱠᱮᱱᱰᱤᱰᱮᱴ
-about-webrtc-raw-cand-show-msg = ᱵᱮᱨᱮᱞ ᱠᱮᱱᱰᱤᱰᱮᱴᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱠᱚᱢ
-    .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟ ᱯᱟᱥᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
-about-webrtc-raw-cand-hide-msg = ᱵᱮᱨᱮᱞ ᱠᱮᱱᱰᱤᱰᱮᱴᱠᱚ ᱩᱠᱩᱠᱚᱢ
-    .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟᱸ ᱦᱩᱰᱤᱧ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
 about-webrtc-raw-cand-section-show-msg = ᱵᱮᱨᱮᱞ ᱠᱮᱱᱰᱤᱰᱮᱴᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱠᱚᱢ
     .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟ ᱯᱟᱥᱱᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
 about-webrtc-raw-cand-section-hide-msg = ᱵᱮᱨᱮᱞ ᱠᱮᱱᱰᱤᱰᱮᱴᱠᱚ ᱩᱠᱩᱠᱚᱢ
     .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟᱸ ᱦᱩᱰᱤᱧ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
 about-webrtc-priority = ᱢᱚᱦᱚᱛ
-about-webrtc-fold-show-msg = ᱵᱤᱵᱨᱚᱬ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
-    .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟᱸ ᱡᱷᱟᱹᱞ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
-about-webrtc-fold-hide-msg = ᱵᱤᱵᱨᱟᱬ ᱩᱠᱩᱭ ᱢᱮ
-    .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟᱸ ᱡᱷᱟᱹᱞ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
 about-webrtc-fold-default-show-msg = ᱵᱤᱵᱨᱚᱬ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
     .title = ᱱᱚᱶᱟ ᱛᱟᱞᱢᱟᱸ ᱡᱷᱟᱹᱞ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ
 about-webrtc-fold-default-hide-msg = ᱵᱤᱵᱨᱟᱬ ᱩᱠᱩᱭ ᱢᱮ
@@ -190,8 +173,6 @@ about-webrtc-configuration-element-provided = ᱮᱢ ᱠᱟᱱᱟ
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = ᱵᱟᱝ ᱮᱢ ᱠᱟᱱᱟ
-# The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱫᱚ WebRTC ᱠᱩᱥᱤᱠᱚ ᱥᱮᱴ ᱠᱟᱫᱟᱭ
 
 ##
 
@@ -215,13 +196,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = ᱵᱷᱤᱰᱤᱭᱚ ᱯᱷᱮᱢ ᱟᱸᱠᱲᱟ - MediaStreamTrack ID: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = ᱛᱮ ᱥᱟᱦᱴᱟ ᱥᱟᱺᱪᱟᱣ ᱮᱱᱟ: { $path }
-about-webrtc-debug-mode-off-state-msg = ᱨᱮ ᱯᱟᱧᱡᱟ ᱞᱚᱜᱽ ᱧᱟᱢᱚᱜᱼᱟ : { $path }
-about-webrtc-debug-mode-on-state-msg = ᱰᱮᱵᱩᱜ ᱢᱳᱰ ᱪᱚᱴᱠᱟᱨ ᱜᱮᱭᱟ, ᱯᱟᱧᱡᱟ ᱞᱚᱜᱽ : { $path }
-about-webrtc-aec-logging-off-state-msg = ᱨᱮ ᱦᱟᱛᱟᱣ ᱠᱟᱱ ᱞᱚᱜᱽ ᱨᱮᱫᱽᱠᱚ ᱧᱟᱢᱚᱜᱼᱟ : { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

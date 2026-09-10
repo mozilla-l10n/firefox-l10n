@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = You are currently in FIPS mode. FIPS requi
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Reset Primary Password
     .style = min-width: 40em
+    .title = Reset Primary Password
 reset-password-button-label =
     .label = Reset
 reset-primary-password-text = If you reset your Primary Password, all your stored web and email passwords, personal certificates, and private keys will be forgotten. Are you sure you want to reset your Primary Password?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Your Primary Password has been rese
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Downloading Certificate
     .style = min-width: 46em
+    .title = Downloading Certificate
 download-cert-message = You have been asked to trust a new Certificate Authority (CA).
 download-cert-trust-ssl =
     .label = Trust this CA to identify websites.
@@ -52,8 +52,6 @@ download-cert-view-text = Examine CA certificate
 
 client-auth-window =
     .title = User Identification Request
-client-auth-site-description = This site has requested that you identify yourself with a certificate:
-client-auth-choose-cert = Choose a certificate to present as identification:
 client-auth-send-no-certificate =
     .label = Don’t send a certificate
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Please authenticate to the security device ({ $tokenName }). How to do so depends on the device (for example, using a fingerprint reader or entering a code with a keypad).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Please authenticate to the token “{ $tokenName }”. How to do so depends on the token (for example, using a fingerprint reader or entering a code with a keypad).

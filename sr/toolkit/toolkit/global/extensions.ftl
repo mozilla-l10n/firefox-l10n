@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Додати { $extension }?
-webext-perms-header-with-perms = Додати { $extension }? Овај додатак ће имати следеће дозволе:
-webext-perms-header-unsigned = Додати { $extension }? Овај додатак је непроверен. Злонамерни додаци могу украсти ваше личне податке или угрозити ваш рачунар. Додајте га само ако верујете његовом извору.
-webext-perms-header-unsigned-with-perms = Додати { $extension }? Овај додатак је непроверен. Злонамерни додаци могу украсти ваше личне податке или угрозити ваш рачунар. Додајте га само ако верујете његовом извору. Овај додатак ће имати следеће дозволе:
 webext-perms-sideload-header = Додатак { $extension } је додат
 webext-perms-optional-perms-header2 = { $extension } захтева додатна овлашћења
-webext-perms-optional-perms-header = { $extension } захтева додатне дозволе.
 webext-perms-header2 = Додај { $extension }
 webext-perms-list-intro-unsigned = Овај непроверени додатак може угрозити вашу приватност или ваш уређај. Додајте га само ако верујете извору.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } је ажуриран. Морате одобрити нове дозволе пре него што се ажурирано издање инсталира. Избор „Откажи” ће задржати ваше тренутно издање додатка.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = Додатак { $extension } је ажуриран. Морате да одобрите нове дозволе пре него што се ажурирана верзија инсталира. Кликом на „Откажи” задржаћете тренутну верзију додатка. Овај додатак ће имати следеће дозволе:
 webext-perms-update-accept =
     .label = Ажурирај
     .accesskey = А
@@ -73,26 +65,8 @@ webext-perms-host-description-file-urls = Приступите локалним 
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Приступ подацима за веб-сајтове у домену { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Приступ подацима у још { $domainCount } домену
-        [few] Приступ подацима у још { $domainCount } домена
-       *[other] Приступ подацима у још { $domainCount } домена
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Приступ подацима за сајт { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Приступ подацима на још { $domainCount } сајту
-        [few] Приступ подацима на још { $domainCount } сајта
-       *[other] Приступ подацима на још { $domainCount } сајтова
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

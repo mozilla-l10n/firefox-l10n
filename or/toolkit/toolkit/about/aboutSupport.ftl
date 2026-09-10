@@ -22,7 +22,6 @@ app-basics-profile-dir =
         [linux] ରୂପରେଖା ଡିରେକ୍ଟୋରୀ
        *[other] ରୂପରେଖା ଫୋଲଡର
     }
-app-basics-enabled-plugins = ସକ୍ରିୟ ପ୍ଲଗଇନଗୁଡ଼ିକ
 app-basics-build-config = ନିର୍ମିତ ସଂରଚନା
 app-basics-user-agent = ଚାଳକ ଯନ୍ତ୍ର
 app-basics-memory-use = ସ୍ମୃତିସ୍ଥାନ ବ୍ୟବହାର

@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = هەڵاوێردی
     .style = min-width: 45em
+    .title = هەڵاوێردی
 permissions-close-key =
     .key = w
 permissions-address = ناونیشانی ماڵپەڕ

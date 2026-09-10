@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = בתהליך סנכרון…
 sync-disconnect-dialog-title2 = להתנתק?
 sync-disconnect-dialog-body = ‏{ -brand-product-name } יפסיק להסתנכרן עם החשבון שלך אבל לא ימחק את נתוני הגלישה שלך ממכשיר זה.
 sync-disconnect-dialog-button = התנתקות
-fxa-signout-dialog2-title = להתנתק מ{ -fxaccount-brand-name(case: "the") }?
 fxa-signout-dialog-title2 = להתנתק מהחשבון שלך?
 fxa-signout-dialog-body = נתונים מסונכרנים יישארו בחשבון שלך.
 fxa-signout-dialog2-button = התנתקות
@@ -42,14 +41,6 @@ fxviewtabrow-send-to-mobile-not-verified = חשבון לא מאומת
 fxviewtabrow-send-to-mobile-verify-account = אימות החשבון שלך
 fxa-menu-send-to-mobile-turn-on-sync = יש להפעיל את הסנכרון כדי לשלוח לשוניות
 fxa-menu-send-to-mobile-connect-device = יש לחבר מכשיר כדי לשלוח לשוניות
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] שליחת לשונית למכשיר
-           *[other] שליחת { $tabCount } לשוניות למכשיר
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = סנכרון מכשירים…

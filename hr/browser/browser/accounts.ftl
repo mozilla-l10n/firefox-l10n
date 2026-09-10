@@ -25,27 +25,13 @@ account-send-to-all-devices-titlecase = Pošalji na sve uređaje
 account-manage-devices-titlecase = Upravljaj uređajima…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = Niti jedan uređaj nije povezan
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = Saznaj više o slanju kartica …
-# Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = Poveži novi uređaj…
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Račun nije potvrđen
 account-send-tab-to-device-verify2 = Potvrdi svoj račun
-account-send-tab-to-device-verify = Potvrdi tvoj račun …
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
-# The title shown in a notification when either this device or another device
-# has connected to, or disconnected from, a Firefox account.
-account-connection-title = { -fxaccount-brand-name }
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title-2 = Račun

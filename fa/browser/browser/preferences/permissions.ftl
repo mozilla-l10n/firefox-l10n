@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = استثناها
     .style = min-width: 45em
+    .title = استثناها
 permissions-close-key =
     .key = w
 permissions-address = آدرس وب‌سایت
@@ -74,56 +74,41 @@ permissions-invalid-uri-label = لطفاً نام میزبان معتبری را
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = استثناها برای سیستم محافظت پیشرفته در برابر ردگیری
     .style = { permissions-window2.style }
+    .title = استثناها برای سیستم محافظت پیشرفته در برابر ردگیری
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = استثناها - کلوچک‌ها و داده‌های پایگاه
     .style = { permissions-window2.style }
+    .title = استثناها - کلوچک‌ها و داده‌های پایگاه
 permissions-exceptions-cookie-desc = می‌توانید تعیین که چه پایگاه‌هایی می‌توانند همیشه یا هرگز دسترسی به کلوچک‌ها و داده‌های پایگاه داشته باشند. نشانی دقیق پایگاهی که می‌خواهید مدیریت کنید را وارد کنید و سپس بر روی «مسدود کردن»، «اجازه دادن در این نشست»، یا «اجازه دادن» کلیک کنید.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
+    .style = { permissions-window2.style }
     .title = موارد استثنا - حالتِ فقط-HTTPS
-    .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = شما می‌توانید حالت فقط-HTTPS را برای برخی از وب‌سایت‌ها غیرفعال کنید. { -brand-short-name } سعی به ارتقا اتصال در این وب‌سایت‌ها به HTTPS نخواهد کرد. موارد استثنا در پنجره‌های ناشناس تاثیر ندارند.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = سایت‌های مجاز ‐ پنجره‌های بازشو
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = شما می‌توانید مشخص کنید که کدام وبگاه‌ها مجازند پنجره‌های بازشو ایجاد کنند. نشانی دقیق پایگاهی را که می‌خواهید به آن اجازه دهید وارد کنید و روی «اجازه دادن» کلیک نمایید.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = استثناها - ورودهای ذخیره شده
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = ورود برای دنبال کردن پایگاه‌های اینترنتی که ذخیره نشده اند
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = سایت‌های مجاز ‐ نصب افزودنی‌ها
     .style = { permissions-window2.style }
+    .title = سایت‌های مجاز ‐ نصب افزودنی‌ها
 permissions-exceptions-addons-desc = شما می‌توانید مشخص کنید که کدام وبگاه‌ها مجازند افزودنی‌هایی نصب کنند. نشانی دقیق پایگاهی را که می‌خواهید به آن اجازه دهید وارد کنید و روی «اجازه دادن» کلیک نمایید.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = تنظیمات - پخش خودکار
     .style = { permissions-window2.style }
+    .title = تنظیمات - پخش خودکار
 permissions-site-autoplay-desc = شما می‌توانید پایگاه‌هایی که از تنظیمات پخش خودکار شما پیروی نمی‌کنند را اینجا مدیریت کنید.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = تنظیمات - مجوزهای اعلان
     .style = { permissions-window2.style }
+    .title = تنظیمات - مجوزهای اعلان
 permissions-site-notification-desc = وب سایت مقابل درخواست ارسال هشدار برای شما را ارسال کرده است. شما میتوانید انتخاب کنید کدوم وب سایت ها اجازه‌ی ارسال هشدار به شما دارند. همچنین شما می‌توانید درخواست جدید برای مجوز ارسال هشدار را مسدود کنید.
 permissions-site-notification-disable-label =
     .label = مسدود کردن درخواست جدید برای ارسال هشدار
@@ -132,8 +117,8 @@ permissions-site-notification-disable-desc = این باعث محافظت از �
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = تنظیمات - مجوزهای مکان
     .style = { permissions-window2.style }
+    .title = تنظیمات - مجوزهای مکان
 permissions-site-location-desc = پایگاه‌های مقابل درخواست دسترسی به مکان شما را داشته‌اند. شما می‌توانید مشخص کنید که چه پایگاه‌هایی می‌توانند به مختصات مکانی شما دسترسی داشته باشند. شما همچنین می‌توانید درخواست‌های جدید برای دسترسی به مکان خود را مسدود کنید.
 permissions-site-location-disable-label =
     .label = مسدود کردن درخواست‌های دسترسی به مختصات مکانی
@@ -142,8 +127,8 @@ permissions-site-location-disable-desc = این امکان درخواست اجا
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = تنظیمات - مجوزهای واقعیت مجازی
     .style = { permissions-window2.style }
+    .title = تنظیمات - مجوزهای واقعیت مجازی
 permissions-site-xr-desc = وب‌سایت‌های مقابل درخواست استفاده از دستگاه‌های واقعیت مجازی شما را کرده‌اند. شما می‌توانید تعیین کنید کدام وب‌سایت‌ها امکان استفاده از دستگاه‌های واقعیت مجازی را دارند. شما همچین درخواست‌های جدید برای دسترسی به دستگاه‌های واقعیت مجازی را مسدود کنید.
 permissions-site-xr-disable-label =
     .label = مسدود کردن درخواست‌های جدید برای دسترسی به دستگاه‌های واقعیت مجازی
@@ -152,8 +137,8 @@ permissions-site-xr-disable-desc = این کار باعث می‌شود وب‌�
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = تنظیمات - مجوزهای دوربین
     .style = { permissions-window2.style }
+    .title = تنظیمات - مجوزهای دوربین
 permissions-site-camera-desc = پایگاه‌های مقابل درخواست دسترسی به دوربین شما را داشته‌اند. شما می‌توانید مشخص کنید که کدام پایگاه‌ها می‌توانند به دوربین شما دسترسی داشته باشند. شما همچنین می‌توانید درخواست‌های جدید برای دسترسی به دوربین خود را مسدود کنید.
 permissions-site-camera-disable-label =
     .label = مسدود کردن درخواست‌های دسترسی به دوربین
@@ -162,8 +147,8 @@ permissions-site-camera-disable-desc = این امکان درخواست اجاز
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = تنظیمات - اجازه‌های صدابَر
     .style = { permissions-window2.style }
+    .title = تنظیمات - اجازه‌های صدابَر
 permissions-site-microphone-desc = پایگاه‌های مقابل درخواست دسترسی به صدابَر شما را داشته‌اند. شما می‌توانید مشخص کنید که کدام پایگاه‌ها می‌توانند به صدابَر شما دسترسی داشته باشند. شما همچنین می‌توانید درخواست‌های جدید برای دسترسی به صدابَر خود را مسدود کنید.
 permissions-site-microphone-disable-label =
     .label = مسدود کردن درخواست‌های دسترسی به صدابَر
@@ -174,8 +159,8 @@ permissions-site-microphone-disable-desc = این امکان درخواست اج
 ## "Speaker" refers to an audio output device.
 
 permissions-exceptions-doh-window =
-    .title = وبگاه‌های مستثنا برای ساناد روی HTTPS
     .style = { permissions-window2.style }
+    .title = وبگاه‌های مستثنا برای ساناد روی HTTPS
 permissions-doh-add-exception =
     .label = افزودن
     .accesskey = ا

@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Iɣewwaṛen n tuqqna
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Iɣewwaṛen n tuqqna
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -58,14 +58,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Smiren
     .accesskey = S
-connection-proxy-autologin =
-    .label = Ur sutur ara asesteb ma yella awal uffir yettwakles
-    .accesskey = k
-    .tooltip = Aɣewwaṛ-a ad k-isesteb s wudem awurman deg iqeddacen n apruksi, anda awal uffir yekles. Ticki asesteb ur yeddi ara, ad k-d-nessuter awal uffir.
 connection-proxy-autologin-checkbox =
     .label = Ur sutur ara asesteb ma yella awal uffir yettwakles
-    .accesskey = k
     .tooltiptext = Aɣewwaṛ-a ad k-isesteb s wudem awurman deg iqeddacen n apruksi, anda awal uffir yekles. Ticki asesteb ur yeddi ara, ad k-d-nessuter awal uffir.
+    .accesskey = k
 connection-proxy-socks4-remote-dns =
     .label = Apṛuksi DNS ticki SOCKS v4 yettwaseqdec
     .accesskey = 4
@@ -79,6 +75,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Seqdec tansa URL s wudem amezwer i tifrat n DNS s HTTPS
 connection-dns-over-https-url-custom =
     .label = Sagen
-    .accesskey = S
     .tooltiptext = Sekcem URL i tebɣiḍ i tifrat n DNS s HTTPS
-connection-dns-over-https-custom-label = Udmawan
+    .accesskey = S

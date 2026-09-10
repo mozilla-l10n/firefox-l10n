@@ -158,15 +158,10 @@ addon-sitepermission-host = { $host } ᱞᱟᱹᱜᱤᱫ ᱥᱟᱭᱤᱴ ᱦᱚ�
 
 ## These are global warnings
 
-extensions-warning-safe-mode = ᱡᱚᱛᱚ ᱮᱰ-ᱟᱹᱱᱥ ᱡᱟᱹᱯᱛᱤ ᱳᱵᱚᱥᱛᱟ ᱫᱟᱨᱟᱭ ᱛᱮ ᱵᱟᱝ ᱦᱩᱭ ᱦᱚᱪᱚ ᱟᱠᱟᱱᱟ᱾
-extensions-warning-check-compatibility = ᱮᱰ- ᱟᱹᱱ ᱥᱚᱸᱜᱚᱛᱟᱜ ᱧᱮᱞ ᱧᱮᱞ ᱫᱚ ᱵᱟᱭ ᱦᱩᱭ ᱦᱚᱪᱚ ᱟᱠᱟᱱᱟ᱾ᱟᱢ ᱮᱰ -ᱟᱹᱱ ᱵᱟᱝ ᱥᱚᱸᱜᱜᱚᱛ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜ ᱾
-extensions-warning-safe-mode2 =
-    .message = ᱡᱚᱛᱚ ᱮᱰ-ᱟᱹᱱᱥ ᱡᱟᱹᱯᱛᱤ ᱳᱵᱚᱥᱛᱟ ᱫᱟᱨᱟᱭ ᱛᱮ ᱵᱟᱝ ᱦᱩᱭ ᱦᱚᱪᱚ ᱟᱠᱟᱱᱟ᱾
 extensions-warning-check-compatibility2 =
     .message = ᱮᱰ- ᱟᱹᱱ ᱥᱚᱸᱜᱚᱛᱟᱜ ᱧᱮᱞ ᱧᱮᱞ ᱫᱚ ᱵᱟᱭ ᱦᱩᱭ ᱦᱚᱪᱚ ᱟᱠᱟᱱᱟ᱾ᱟᱢ ᱮᱰ -ᱟᱹᱱ ᱵᱟᱝ ᱥᱚᱸᱜᱜᱚᱛ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜ ᱾
 extensions-warning-check-compatibility-button = ᱦᱩᱭ ᱦᱚᱪᱚ
     .title = ᱦᱩᱭ ᱦᱚᱪᱚ ᱛᱮᱭᱟᱨ ᱮᱰ-ᱟᱹᱱ ᱥᱚᱸᱜᱚᱛ ᱮ ᱧᱮᱞᱮᱫ ᱟ
-extensions-warning-update-security = ᱮᱰ-ᱟᱹᱱ ᱟᱹᱯᱛᱤ ᱧᱮᱞ ᱫᱚ ᱵᱟᱝ ᱦᱩᱭ ᱦᱚᱪᱚ ᱵᱟᱠᱟᱱᱟ ᱾ ᱟᱢ ᱦᱟᱹᱞᱤ ᱠᱚ ᱫᱟᱨᱟᱭ ᱛᱮ ᱥᱩᱞᱟᱹᱱᱟᱢᱟ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱾
 extensions-warning-update-security2 =
     .message = ᱮᱰ-ᱟᱹᱱ ᱟᱹᱯᱛᱤ ᱧᱮᱞ ᱫᱚ ᱵᱟᱝ ᱦᱩᱭ ᱦᱚᱪᱚ ᱵᱟᱠᱟᱱᱟ ᱾ ᱟᱢ ᱦᱟᱹᱞᱤ ᱠᱚ ᱫᱟᱨᱟᱭ ᱛᱮ ᱥᱩᱞᱟᱹᱱᱟᱢᱟ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱾
 extensions-warning-update-security-button = ᱦᱩᱭ ᱦᱚᱪᱚ
@@ -233,10 +228,6 @@ shortcuts-duplicate = ᱰᱩᱯᱞᱤᱠᱮᱴ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱠᱷᱚᱱ ᱵᱟᱹᱲᱛᱤ ᱠᱮᱥ ᱨᱮ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱞᱮᱠᱟᱛᱮ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱᱟ ᱾ ᱰᱩᱯᱞᱤᱠᱮᱴ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱫᱚ ᱵᱟᱝ ᱵᱟᱲᱟᱭᱚᱜ ᱵᱮᱵᱷᱟᱨ ᱠᱚᱨᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱠᱷᱚᱱ ᱵᱟᱹᱲᱛᱤ ᱠᱮᱥ ᱨᱮ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱞᱮᱠᱟᱛᱮ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱᱟ ᱾ ᱰᱩᱯᱞᱤᱠᱮᱴ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱫᱚ ᱵᱟᱝ ᱵᱟᱲᱟᱭᱚᱜ ᱵᱮᱵᱷᱟᱨ ᱠᱚᱨᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -257,17 +248,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱟᱨ ᱛᱷᱤᱢ ᱠᱚ ᱫᱚ ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱞᱟᱹᱜᱤᱫ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱞᱮᱠᱟ ᱜᱮᱭᱟ, ᱟᱨ ᱚᱱᱟ ᱠᱚᱛᱮ ᱫᱚ ᱟᱢ
-    ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱫᱚᱦᱚ, ᱵᱷᱤᱰᱤᱭᱳ ᱠᱚ ᱰᱟᱣᱱᱞᱚᱰ, ᱵᱮᱯᱟᱨ ᱯᱟᱱᱛᱮ, ᱵᱟᱱᱴᱷᱤᱠ ᱰᱷᱟᱶᱨᱟ ᱠᱚ ᱟᱠᱚᱴ, ᱵᱽᱨᱟᱣᱡᱚᱨ ᱪᱮᱫ ᱞᱮᱠᱟ ᱧᱮᱞᱚᱜᱼᱟ, ᱟᱨᱦᱚᱸ ᱟᱭᱢᱟ ᱡᱤᱱᱤᱥ ᱠᱚᱨᱟᱣ ᱪᱷᱚ ᱫᱟᱲᱮ ᱢᱮᱭᱟᱭ ᱾ ᱱᱚᱶᱟ ᱦᱩᱰᱤᱧ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱯᱨᱚᱜᱽᱨᱟᱢ ᱠᱚᱫᱚ ᱛᱮᱥᱟᱨ ᱯᱟᱴᱤ ᱛᱮ ᱵᱮᱱᱟᱣ ᱟᱠᱟᱱᱟ ᱾ ᱱᱚᱰᱮ { -brand-product-name } ᱨᱮᱱᱟᱜ ᱢᱤᱫ 
-    <a data-l10n-name="learn-more-trigger">ᱵᱟᱪᱷᱟᱣ ᱢᱮᱱᱟᱜᱼᱟ</a> ᱡᱟᱦᱟᱸ ᱫᱚ
-    ᱨᱩᱠᱷᱤᱭᱟᱹ, ᱵᱮᱥ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    ᱱᱚᱶᱟ ᱠᱚ ᱵᱟᱛᱮᱣ ᱟᱭᱢᱟ ᱞᱮᱠᱟᱱᱟᱜ ᱟᱢ ᱠᱩᱥᱤ ᱞᱮᱠᱷᱟᱛᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱱᱩᱠᱩ ᱫᱚ ᱮᱴᱟᱜ
-     ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱡᱟᱦᱟᱸ ᱮᱢ ᱵᱚᱦᱟᱞ ᱠᱟᱫᱟᱢ , ᱢᱚᱦᱚᱨ ᱠᱩᱥᱤᱠᱚ ᱟᱨ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱷᱟ ᱠᱚ ᱪᱮᱛᱟᱱ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱾
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -335,16 +315,9 @@ addon-detail-last-updated-label = ᱢᱩᱪᱟᱹᱫ ᱦᱟᱹᱞᱤᱭᱟᱜ
 addon-detail-homepage-label = ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ
 addon-detail-rating-label = ᱫᱚᱨ ᱴᱷᱟᱹᱣᱠᱟᱹ
 # Message for add-ons with a staged pending update.
-install-postponed-message = { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵ ᱞᱮᱠᱷᱟᱱ ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠᱚᱜᱼᱟ ᱾
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵ ᱞᱮᱠᱷᱟᱱ ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠᱚᱜᱼᱟ ᱾
 install-postponed-button = ᱱᱤᱛᱚᱜ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = 5 ᱠᱷᱚᱱ { NUMBER($rating, maximumFractionDigits: 1) } ᱫᱚᱨ ᱮᱢ ᱦᱩᱭᱮᱱᱟ
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -363,9 +336,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> ᱫᱚ ᱚᱪᱚᱜ ᱮᱱᱟ ᱾
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = { $addon } ᱫᱚ ᱚᱪᱚᱜ ᱮᱱᱟ ᱾
 pending-uninstall-undo-button = ᱨᱩᱣᱟᱹᱲ
@@ -382,11 +352,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱳ ᱨᱮ ᱜᱚᱱᱚᱜᱼᱟ
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱳ ᱨᱮ ᱜᱚᱱᱚᱜᱼᱟ
 addon-detail-private-browsing-help = ᱛᱤᱧ ᱡᱷᱚᱜ ᱮᱢ ᱪᱷᱚᱜᱼᱟ, ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱟᱢᱟᱜ ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱚᱠᱛᱚ ᱨᱮ ᱟᱢᱟᱜ ᱚᱱᱞᱟᱭᱤᱱ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱚ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾ <a data-l10n-name="learn-more">ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
 addon-detail-private-browsing-allow = ᱦᱮᱥᱟᱨᱤᱭᱟᱹ
@@ -413,17 +378,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } ᱫᱚ ᱨᱩᱭᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱡᱟᱦᱟᱸ ᱟᱞᱮᱭᱟᱜ ᱢᱟᱱᱚᱠ ᱮ ᱢᱟᱱᱚᱣ ᱠᱷᱟᱱ ᱚᱱᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱞᱮ ᱯᱟᱥᱱᱟᱣᱟ
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Mozilla ᱵᱮᱱᱟᱣ ᱟᱠᱟᱱ ᱚᱫᱷᱤᱠᱟᱨᱤᱠ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱢᱟᱱᱚᱠ ᱮ ᱢᱟᱱᱚᱣᱟᱭ
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱟᱞᱮᱭᱟᱜ ᱨᱩᱭᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱢᱟᱱᱚᱠ ᱮ ᱢᱟᱱᱟᱣ ᱮᱫᱟᱭ
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -435,9 +389,6 @@ available-updates-heading = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱚ ᱢᱮᱱᱟᱜ�
 recent-updates-heading = ᱱᱤᱛᱚᱜ ᱦᱟᱹᱞᱤᱭᱟᱜ ᱠᱚ
 release-notes-loading = ᱞᱟᱫᱮᱜ ᱠᱟᱱᱟ…
 release-notes-error = ᱤᱠᱟᱹ, ᱢᱮᱱᱠᱷᱟᱱ ᱨᱤᱞᱤᱡᱽ ᱱᱚᱴ ᱞᱟᱫᱮ ᱡᱷᱚᱜ ᱢᱤᱫᱴᱟᱝ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ ᱾
-addon-permissions-empty = ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱨᱮ ᱡᱟᱦᱟᱸ ᱦᱚᱠ ᱞᱟᱹᱠᱛᱤ ᱵᱟᱹᱱᱩᱜ ᱟᱹᱱᱤᱡ
-addon-permissions-required = ᱠᱚᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱫᱟᱣ:
-addon-permissions-optional = ᱢᱚᱱᱮ ᱞᱮᱠᱟᱱᱟᱜ ᱫᱟᱣ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱥᱮᱞᱮᱫ ᱠᱟᱱᱟ :
 addon-permissions-learnmore = ᱪᱷᱟᱹᱲ ᱵᱟᱵᱚᱛ ᱡᱟᱹᱥᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ
 recommended-extensions-heading = ᱵᱟᱛᱟᱣ ᱠᱟᱱ ᱯᱟᱥᱱᱟᱣᱨᱠᱚ
 recommended-themes-heading = ᱵᱟᱛᱟᱣ ᱠᱟᱱ ᱛᱷᱤᱢᱠᱚ
@@ -471,25 +422,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } ᱫᱚ { -brand-short-name } { $version } ᱥᱟᱸᱣ ᱵᱟᱝ ᱥᱚᱸᱜᱚᱛᱟ᱾
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } ᱫᱚ { -brand-short-name } { $version } ᱥᱟᱸᱣ ᱵᱟᱝ ᱥᱚᱸᱜᱚᱛᱟ᱾
-details-notification-incompatible-link = ᱵᱟᱹᱲᱛᱤ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
-details-notification-unsigned-and-disabled = { $name } ᱫᱚ { -brand-short-name } ᱨᱮ ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱭ ᱯᱩᱥᱴᱟᱹᱣ ᱫᱟᱲᱮᱭᱟᱫᱼᱟ ᱟᱨ ᱚᱱᱟᱛᱮ ᱵᱚᱸᱫ ᱮᱱᱟ ᱾
 details-notification-unsigned-and-disabled2 =
     .message = { $name } ᱫᱚ { -brand-short-name } ᱨᱮ ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱭ ᱯᱩᱥᱴᱟᱹᱣ ᱫᱟᱲᱮᱭᱟᱫᱼᱟ ᱟᱨ ᱚᱱᱟᱛᱮ ᱵᱚᱸᱫ ᱮᱱᱟ ᱾
-details-notification-unsigned-and-disabled-link = ᱵᱟᱹᱲᱛᱤ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
-details-notification-unsigned = { $name } ᱫᱚ { -brand-short-name } ᱨᱮ ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱭ ᱯᱩᱥᱴᱟᱹᱣ ᱫᱟᱲᱮᱭᱟᱫᱼᱟ ᱾ ᱦᱩᱥᱤᱭᱟᱹᱨ ᱥᱟᱹᱦᱤᱡ ᱪᱟᱞᱟᱜ ᱢᱮ ᱾
 details-notification-unsigned2 =
     .message = { $name } ᱫᱚ { -brand-short-name } ᱨᱮ ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱭ ᱯᱩᱥᱴᱟᱹᱣ ᱫᱟᱲᱮᱭᱟᱫᱼᱟ ᱾ ᱦᱩᱥᱤᱭᱟᱹᱨ ᱥᱟᱹᱦᱤᱡ ᱪᱟᱞᱟᱜ ᱢᱮ ᱾
-details-notification-unsigned-link = ᱵᱟᱹᱲᱛᱤ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
-details-notification-blocked = { $name } ᱫᱚ ᱡᱟᱹᱯᱛᱤ ᱟᱨ ᱵᱟᱝ ᱛᱤᱸᱜᱩ ᱛᱷᱤᱨ ᱠᱟᱛᱷᱟ ᱠᱚ ᱠᱟᱨᱚᱱ ᱛᱮ ᱵᱟᱝ ᱦᱩᱭ ᱦᱚᱪᱚ ᱟᱠᱟᱱᱟ
-details-notification-blocked-link = ᱰᱷᱮᱨ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
-details-notification-softblocked = { $name }ᱫᱚ ᱡᱟᱹᱯᱛᱤ ᱟᱨ ᱵᱟᱝ ᱛᱤᱸᱜᱩ ᱛᱷᱤᱨ ᱠᱟᱛᱷᱟ ᱠᱚ ᱠᱟᱨᱚᱱ ᱛᱮ ᱵᱟᱰᱟᱭᱟ ᱠᱟᱱᱟ᱾
-details-notification-softblocked-link = ᱰᱷᱮᱨ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
-details-notification-gmp-pending = { $name } ᱫᱚ ᱠᱷᱟᱴᱚ ᱚᱠᱛᱚ ᱨᱮ ᱵᱚᱦᱟᱞᱚᱜᱼᱟ ᱾
 details-notification-gmp-pending2 =
     .message = { $name } ᱫᱚ ᱠᱷᱟᱴᱚ ᱚᱠᱛᱚ ᱨᱮ ᱵᱚᱦᱟᱞᱚᱜᱼᱟ ᱾
 

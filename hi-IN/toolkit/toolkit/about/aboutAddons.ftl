@@ -116,15 +116,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = सभी ऐड-ऑन्स सुरक्षित विधि के द्वारा निष्क्रिय की गई हैं.
-extensions-warning-check-compatibility = सहयुक्ति सुसंगतता जाँच निष्क्रिय है. आपके पास असंगत ऐड-ऑन्स हो सकती हैं.
-extensions-warning-safe-mode2 =
-    .message = सभी ऐड-ऑन्स सुरक्षित विधि के द्वारा निष्क्रिय की गई हैं.
 extensions-warning-check-compatibility2 =
     .message = सहयुक्ति सुसंगतता जाँच निष्क्रिय है. आपके पास असंगत ऐड-ऑन्स हो सकती हैं.
 extensions-warning-check-compatibility-button = सक्रिय करें
     .title = सहयुक्ति सुसंगतता जाँच सक्रिय करें
-extensions-warning-update-security = सहयुक्ति अद्यतन सुरक्षा जाँच निष्क्रिय है. आपकी सुरक्षा अद्यतन के द्वारा संदिग्ध हो सकती है.
 extensions-warning-update-security2 =
     .message = सहयुक्ति अद्यतन सुरक्षा जाँच निष्क्रिय है. आपकी सुरक्षा अद्यतन के द्वारा संदिग्ध हो सकती है.
 extensions-warning-update-security-button = सक्रिय करें
@@ -256,9 +251,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> हटाया जा चुका है।
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = { $addon } हटाया जा चुका है।
 pending-uninstall-undo-button = पहले जैसा
@@ -270,18 +262,12 @@ install-update-button = अपडेट
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
     .title = निजी विंडो में अनुमति है
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
-    .title = निजी विंडो में अनुमति है
 
 ##
 
 available-updates-heading = उपलब्ध अपडेट
 recent-updates-heading = हालिया अपडेट
 release-notes-loading = लोड हो रहा है…
-addon-permissions-empty = इस एक्सटेंशन को किसी भी अनुमति की आवश्यकता नहीं है
 
 ## Page headings
 
@@ -303,24 +289,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } असंगत है { -brand-short-name } { $version } के साथ.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } असंगत है { -brand-short-name } { $version } के साथ.
-details-notification-unsigned-and-disabled = { $name } का { -brand-short-name } मैं उपयोग सत्यापित नहीं हो सका है और निष्क्रिय कर दिया गया है.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } का { -brand-short-name } मैं उपयोग सत्यापित नहीं हो सका है और निष्क्रिय कर दिया गया है.
-details-notification-unsigned-and-disabled-link = अधिक सूचना
-details-notification-unsigned = { -brand-short-name } मैं उपयोग के लिए { $name } का सत्यापित नहीं किया जा सका. सावधानी के साथ आगे बढ़ें.
 details-notification-unsigned2 =
     .message = { -brand-short-name } मैं उपयोग के लिए { $name } का सत्यापित नहीं किया जा सका. सावधानी के साथ आगे बढ़ें.
-details-notification-unsigned-link = अधिक सूचना
-details-notification-blocked = { $name } को सुरक्षा या स्थायित्व कारणों से निष्क्रिय किया गया है.
-details-notification-blocked-link = अधिक सूचना
-details-notification-softblocked = { $name } सुरक्षा या स्थायित्व कारणों को पैदा करने के लिए जाना जाता है.
-details-notification-softblocked-link = अधिक सूचना
-details-notification-gmp-pending = { $name } जल्द ही संस्थापित होगा.
 details-notification-gmp-pending2 =
     .message = { $name } जल्द ही संस्थापित होगा.
 

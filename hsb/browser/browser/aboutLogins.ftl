@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Přizjewjenja a hesła
-about-logins-login-filter =
-    .placeholder = Přizjewjenja přepytać
-    .key = F
-create-new-login-button =
-    .title = Nowe přizjewjenje załožić
 about-logins-page-title-name = Hesła
 about-logins-login-filter2 =
-    .placeholder = Hesła pytać
     .key = F
+    .placeholder = Hesła pytać
 create-login-button =
     .title = Hesło přidać
 fxaccounts-sign-in-text = Přinjesće swoje hesła do wašich druhich gratow
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Z druheho wobhladowaka importować…
 about-logins-menu-menuitem-import-from-a-file = Z dataje importować…
-about-logins-menu-menuitem-export-logins = Přizjewjenja eksportować…
-about-logins-menu-menuitem-remove-all-logins = Wšě přizjewjenja wotstronić…
 about-logins-menu-menuitem-export-logins2 = Hesła eksportować…
 about-logins-menu-menuitem-remove-all-logins2 = Wšě hesła wotstronić…
 menu-menuitem-preferences =
@@ -42,25 +34,6 @@ about-logins-menu-menuitem-help = Pomoc
 
 login-list =
     .aria-label = Přizjewjenja, kotrež pytanskemu naprašowanju wotpowěduja
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } přizjewjenje
-        [two] { $count } přizjewjeni
-        [few] { $count } přizjewjenja
-       *[other] { $count } přizjewjenjow
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $count } z { $total } přizjewjenja
-        [two] { $count } z { $total } přizjewjenjow
-        [few] { $count } z { $total } přizjewjenjow
-       *[other] { $count } z { $total } přizjewjenjow
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -88,14 +61,10 @@ login-list-username-reverse-option = Wužiwarske mjeno (Z-A)
 about-logins-login-list-alerts-option = Warnowanja
 login-list-last-changed-option = Poslednjej změnje
 login-list-last-used-option = Poslednim wužiću
-login-list-intro-title = Žane přizjewjenja namakane
 login-list-intro-title2 = Žane hesła składowane
 login-list-intro-description = Hdyž hesło w { -brand-product-name } składujeće, wono so tu pokaza.
-about-logins-login-list-empty-search-title = Žane přizjewjenja namakane
 about-logins-login-list-empty-search-title2 = Žane hesła namakane
 about-logins-login-list-empty-search-description = Njejsu žane wuslědki, kotrež wašemu pytanju wotpowěduja.
-login-list-item-title-new-login = Nowe přizjewjenje
-login-list-item-subtitle-new-login = Zapodajće swoje přizjewjenske daty
 login-list-item-title-new-login2 = Hesło přidać
 login-list-item-subtitle-missing-username = (žane wužiwarske mjeno)
 about-logins-list-item-breach-icon =
@@ -111,28 +80,20 @@ about-logins-list-section-week = Zańdźene 7 dnjow
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Pytaće swoje składowane přizjewjenja? Synchronizujće abo importujće je.
-about-logins-login-intro-heading-logged-in = Žane synchronizowane přizjewjenja namakane.
-login-intro-description = Jeli sće swoje přizjewjenja { -brand-product-name } na druhim graće składował, tak móžeće je sem přinjesć:
-login-intro-instructions-fxa = Załožće abo přizjewće so pola swojeho { -fxaccount-brand-name } na graće, hdźež waše přizjewjenja su składowane
 about-logins-login-intro-heading-message = Składujće swoje hesła na wěstym městnje
 login-intro-description2 = Wšě hesła, kotrež w { -brand-product-name } składujeće, so zaklučuja. Nimo toho rozhladujemy so za datowymi dźěrami a warnujemy was, jeli sće potrjecheny. <a data-l10n-name="breach-alert-link">Dalše informacije</a>
 login-intro-instructions-fxa2 = Załožće abo přizjewće so pola swojeho konta na graće, hdźež waše přizjewjenja su składowane.
 login-intro-instructions-fxa-settings = Dźiće k Nastajenja > Sync > Synchronizaciju zmóžnić… Wubjerće kontrolny kašćik „Přizjewjenja a hesła“.
 login-intro-instructions-fxa-passwords-help = Wopytajće <a data-l10n-name="passwords-help-link">pomoc hesłow</a> za wjace pomocy.
-about-logins-intro-browser-only-import = Jeli waše přizjewjenja su składowane w druhim wobhladowaku, móžeće <a data-l10n-name="import-link">je do{ -brand-product-name } importować</a>
-about-logins-intro-import2 = Jeli waše přizjewjenja so zwonka { -brand-product-name } składuja, móžeće <a data-l10n-name="import-browser-link">je z druheho wobhladowaka importować</a>, abo <a data-l10n-name="import-file-link">z dataje</a>
 about-logins-intro-import3 = Wubjerće plusowe znamješko horjeka, zo byšće nětko hesło přidał. Móžeće tež <a data-l10n-name="import-browser-link">hesła z druheho wobhladowaka importować</a>, abo <a data-l10n-name="import-file-link">z dataje</a>.
 
 ## Login
 
-login-item-new-login-title = Nowe přizjewjenje załožić
 # Header for adding a password
 about-logins-login-item-new-login-title = Hesło přidać
 login-item-edit-button = Wobdźěłać
 about-logins-login-item-remove-button = Wotstronić
 login-item-origin-label = Adresa websydła
-login-item-tooltip-message = Přeswědčće so, zo to eksaktnej adresy websydła wotpowěduje, hdźež so chceće přizjewić.
 about-logins-origin-tooltip2 = Zapodajće dospołnu adresu a zawěsćće, zo je eksaktny wotpowědnik za město, hdźež so přizjewjeće.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -152,7 +113,6 @@ login-item-password-conceal-checkbox =
     .aria-label = Hesło schować
 login-item-copy-password-button-text = Kopěrować
 login-item-copied-password-button-text = Kopěrowane!
-login-item-save-changes-button = Změny składować
 about-logins-login-item-save-changes-button = Składować
 login-item-save-new-button = Składować
 login-item-cancel-button = Přetorhnyć
@@ -176,11 +136,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Zapodajće swoje přizjewjenske daty Windows, zo byšće swoje přizjewjenje wobdźěłował. To wěstotu wašich kontow škita.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = składowane přizjewjenje wobdźěłać
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -204,11 +159,6 @@ about-logins-copy-password-os-auth-dialog-message-win = Zapodajće swoje přizje
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = składowane hesło kopěrować
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Zapodajće swoje přizjewjenske daty Windows, zo byšće swoje přizjewjenja eksportował. To wěstotu wašich kontow škita.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = Składowane přizjewjenja a hesła eksportować
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = Zapodajće swoje přizjewjenske daty Windows, zo byšće swoje hesła eksportował. To wěstotu wašich kontow škita.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -226,8 +176,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Přetorhnyć
 confirmation-dialog-dismiss-button =
     .title = Přetorhnyć
-about-logins-confirm-remove-dialog-title = Tute přizjewjenje wotstronić?
-confirm-delete-dialog-message = Tuta akcija njeda so cofnyć.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Hesło wotstronić?
 # Message for modal to confirm the removal of one saved password
@@ -244,44 +192,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [two] Wšě wotstronić
         [few] Wšě wotstronić
        *[other] Wšě wotstronić
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] Haj, tute přizjewjenje wotstronić
-        [one] Haj, tute přizjewjenje wotstronić
-        [two] Haj, tutej přizjewjeni wotstronić
-        [few] Haj, tute přizjewjenja wotstronić
-       *[other] Haj, tute přizjewjenja wotstronić
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] { $count } přizjewjenje wotstronić?
-        [two] { $count } přizjewjeni wotstronić?
-        [few] { $count } přizjewjenja wotstronić?
-       *[other] { $count } přizjewjenjow wotstronić?
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] To přizjewjenje wotstroni, kotrež sće w { -brand-short-name } składował a wšě warnowanja wo datowych dźěrach, kotrež so tu pokazuja. Tuta akcija njeda so cofnyć.
-        [one] To přizjewjenje wotstroni, kotrež sće w { -brand-short-name } składował a wšě warnowanja wo datowych dźěrach, kotrež so tu pokazuja. Tuta akcija njeda so cofnyć.
-        [two] To přizjewjeni wotstroni, kotrejž sće w { -brand-short-name } składował a wšě warnowanja wo datowych dźěrach, kotrež so tu pokazuja. Tuta akcija njeda so cofnyć.
-        [few] To přizjewjenja wotstroni, kotrež sće w { -brand-short-name } składował a wšě warnowanja wo datowych dźěrach, kotrež so tu pokazuja. Tuta akcija njeda so cofnyć.
-       *[other] To přizjewjenja wotstroni, kotrež sće w { -brand-short-name } składował a wšě warnowanja wo datowych dźěrach, kotrež so tu pokazuja. Tuta akcija njeda so cofnyć.
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] { $count } přizjewjenje ze wšěch gratow wotstronić?
-        [two] { $count } přizjewjeni ze wšěch gratow wotstronić?
-        [few] { $count } přizjewjenja ze wšěch gratow wotstronić?
-       *[other] { $count } přizjewjenjow ze wšěch gratow wotstronić?
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [1] To přizjewjenje wotstroni, kotrež sće w { -brand-short-name } na wšěch gratach składował a kotrež je z wašim kontom { -fxaccount-brand-name } synchronizowane. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
-        [one] To přizjewjenje wotstroni, kotrež sće w { -brand-short-name } na wšěch gratach składował a kotrež je z wašim kontom { -fxaccount-brand-name } synchronizowane. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
-        [two] To přizjewjeni wotstroni, kotrejž sće w { -brand-short-name } na wšěch gratach składował a kotrejž stej z wašim kontom { -fxaccount-brand-name } synchronizowanej. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
-        [few] To přizjewjenja wotstroni, kotrež sće w { -brand-short-name } na wšěch gratach składował a kotrež su z wašim kontom { -fxaccount-brand-name } synchronizowane. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
-       *[other] To přizjewjenja wotstroni, kotrež sće w { -brand-short-name } na wšěch gratach składował a kotrež su z wašim kontom { -fxaccount-brand-name } synchronizowane. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -329,15 +239,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = Přizjewjenja a hesła eksportować
-about-logins-confirm-export-dialog-message = Waše hesła budu so jako čitajomny tekst składować (na př. BadP@ass0rd), tohodla móže kóždy, kotryž móže eksportowanu dataju wočinić, je widźeć.
-about-logins-confirm-export-dialog-confirm-button = Eksportować…
 about-logins-confirm-export-dialog-title2 = Notica wo eksportowanju hesłow
 about-logins-confirm-export-dialog-message2 =
     Hdyž eksportujeće, so waše hesła do dataje z čitajomnym tekstom składuja.
     Hdyž sće dataju dowužił, poručamy ju zhašeć, zo njebychu druzy, kotřiž tutón grat wužiwaja, waše hesła widźeli.
 about-logins-confirm-export-dialog-confirm-button2 = Z eksportom pokročować
-about-logins-alert-import-title = Importowanje dokónčene
 about-logins-alert-import-message = Nadrobne importowe zjeće pokazać
 confirm-discard-changes-dialog-title = Njeskładowane změny zaćisnyć?
 confirm-discard-changes-dialog-message = Wšě njeskładowane změny so zhubja.
@@ -374,11 +280,6 @@ about-logins-error-message-default = Při pospyće tute hesło składować, je z
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Dataju přizjewjenjow eksportować
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = logins.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = Hesła z { -brand-short-name } eksportować
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -394,8 +295,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = Dataju přizjewjenjow importować
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = Hesła do { -brand-short-name } importować
 about-logins-import-file-picker-import-button = Importować
@@ -419,27 +318,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Importowanje dokónčene
-about-logins-import-dialog-items-added =
-    { $count ->
-        [one] <span>Nowe přizjewjenje přidate:</span> <span data-l10n-name="count">{ $count }</span>
-        [two] <span>Nowej přizjewjeni přidatej:</span> <span data-l10n-name="count">{ $count }</span>
-        [few] <span>Nowe přizjewjenja přidate:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Nowe přizjewjenja přidate:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-        [one] <span>Eksistowace přizjewjenje zaktualizowane:</span> <span data-l10n-name="count">{ $count }</span>
-        [two] <span>Eksistowacej přizjewjeni zaktualizowanej:</span> <span data-l10n-name="count">{ $count }</span>
-        [few] <span>Eksistowace přizjewjenja zaktualizowane:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Eksistowace přizjewjenja zaktualizowane:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-        [one] <span>Dwójne přizjewjenje namakane:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowane)</span>
-        [two] <span>Dwójnej přizjewjeni namakanej:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowanej)</span>
-        [few] <span>Dwójne přizjewjenja namakane:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowane)</span>
-       *[other] <span>Dwójne přizjewjenja namakane:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowane)</span>
-    }
 about-logins-import-dialog-items-added2 =
     { $count ->
         [one] <span>Nowe hesło přidate:</span> <span data-l10n-name="count">{ $count }</span>
@@ -483,15 +361,11 @@ about-logins-import-dialog-error-learn-more = Dalše informacije
 about-logins-import-dialog-error-try-import-again = Spytajće znowa importować…
 about-logins-import-dialog-error-cancel = Přetorhnyć
 about-logins-import-report-title = Zjeće importować
-about-logins-import-report-description = Přizjewjenja a hesła su so do { -brand-short-name } importowali.
 about-logins-import-report-description2 = Hesła su so do { -brand-short-name } importowali.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Linka { $number }
-about-logins-import-report-row-description-no-change = Dwójny: Eksaktna kopija eksistowaceho přizjewjenja
-about-logins-import-report-row-description-modified = Eksistowace přizjewjenje je so zaktualizowało
-about-logins-import-report-row-description-added = Nowe přizjewjenje je so přidało
 about-logins-import-report-row-description-no-change2 = Dwójny: Eksaktna kopija eksistowaceho zapiska
 about-logins-import-report-row-description-modified2 = Eksistowacy zapisk je so zaktualizował
 about-logins-import-report-row-description-added2 = Nowe hesło je so přidało
@@ -508,27 +382,6 @@ about-logins-import-report-row-description-error-missing-field = Zmylk: Falowace
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nowe přizjewjenje přidate</div>
-        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nowej přizjewjeni přidatej</div>
-        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nowe přizjewjenja přidate</div>
-       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nowe přizjewjenja přidate</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">eksistowace přizjewjenje je so zaktualizowało</div>
-        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">eksistowacej přizjewjeni stej so zaktualizowałoj</div>
-        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">eksistowace přizjewjenja su so zaktualizowali</div>
-       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">eksistowacych přizjewjenjow je so zaktualizowało</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">dwójne přizjewjenje</div><div data-l10n-name="not-imported">(njeimportowane)</div>
-        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">dwójnej přizjewjeni</div><div data-l10n-name="not-imported">(njeimportowanej)</div>
-        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">dwójne přizjewjenja</div><div data-l10n-name="not-imported">(njeimportowane)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">dwójnych přizjewjenjow</div><div data-l10n-name="not-imported">(njeimportowane)</div>
-    }
 about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nowe hesło přidate</div>

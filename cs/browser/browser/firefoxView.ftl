@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Zobrazí nedávné prohlížení napříč okny a zařízeními
@@ -16,20 +13,8 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Zavřít
-    .aria-label = Zavřít
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Právě teď
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Panely
-firefoxview-tabpickup-description = Otevřete si stránky z jiných zařízení.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = Dokončeno { $percentValue } %
-firefoxview-tabpickup-step-signin-header = Plynule přecházejte mezi zařízeními
-firefoxview-tabpickup-step-signin-description = Pro převzetí svých panelů z telefonu se musíte přihlásit nebo si vytvořit účet.
-firefoxview-tabpickup-step-signin-primarybutton = Pokračovat
 firefoxview-syncedtabs-signin-header-2 =
     { -brand-short-name.gender ->
         [masculine] Váš { -brand-product-name } na všech vašich zařízeních
@@ -42,22 +27,6 @@ firefoxview-syncedtabs-signin-description-2 = Chcete-li zobrazit panely, které 
 firefoxview-syncedtabs-signin-header-3 = Z notebooku do telefonu, bezproblémově
 firefoxview-syncedtabs-signin-description-3 = Udržujte si při procházení webu propojenost napříč zařízeními — panely, hesla i historie budou vždy synchronizovány.
 firefoxview-syncedtabs-signin-primarybutton-2 = Přihlásit se
-firefoxview-tabpickup-adddevice-header =
-    { -brand-product-name.case-status ->
-        [with-cases] Synchronizujte { -brand-product-name(case: "acc") } se svým telefonem či tabletem.
-       *[no-cases] Synchronizujte aplikaci { -brand-product-name } se svým telefonem či tabletem.
-    }
-firefoxview-tabpickup-adddevice-description =
-    { -brand-product-name.case-status ->
-        [with-cases] Stáhněte si { -brand-product-name(case: "acc") } pro mobily a přihlaste se v něm.
-       *[no-cases] Stáhněte si aplikaci { -brand-product-name } pro mobily a přihlaste se v ní.
-    }
-firefoxview-tabpickup-adddevice-learn-how = Zjistěte jak
-firefoxview-tabpickup-adddevice-primarybutton =
-    { -brand-product-name.case-status ->
-        [with-cases] Získat { -brand-product-name(case: "acc") } pro mobily
-       *[no-cases] Získat aplikaci { -brand-product-name } pro mobily
-    }
 firefoxview-syncedtabs-adddevice-header-2 = Vezměte si panely odkudkoliv
 firefoxview-syncedtabs-adddevice-description-2 =
     { -brand-product-name.case-status ->
@@ -72,13 +41,6 @@ firefoxview-syncedtabs-adddevice-description-3 =
         [with-cases] Naskenujte QR kód a stáhněte si { -brand-product-name(case: "acc") } pro mobilní zařízení a začněte synchronizovat otevřené panely a další údaje. Zjistěte, jak <a data-l10n-name="url">připojit další zařízení</a>.
        *[no-cases] Naskenujte QR kód a stáhněte si aplikaci { -brand-product-name } pro mobilní zařízení a začněte synchronizovat otevřené panely a další údaje. Zjistěte, jak <a data-l10n-name="url">připojit další zařízení</a>.
     }
-firefoxview-tabpickup-synctabs-header = Zapnutí synchronizace panelů
-firefoxview-tabpickup-synctabs-description =
-    { -brand-short-name.case-status ->
-        [with-cases] Povolit { -brand-short-name(case: "dat") } sdílet panely mezi zařízeními.
-       *[no-cases] Povolit aplikaci { -brand-short-name } sdílet panely mezi zařízeními.
-    }
-firefoxview-tabpickup-synctabs-learn-how = Zjistěte jak
 firefoxview-tabpickup-synctabs-primarybutton = Synchronizovat otevřené panely
 firefoxview-tabpickup-synctabs-primarybutton-2 = Zapnutí synchronizace panelů
 firefoxview-syncedtabs-synctabs-header = Aktualizace nastavení synchronizace
@@ -90,7 +52,6 @@ firefoxview-syncedtabs-loading-description = Po dokončení se zobrazí všechny
 firefoxview-syncedtabs-loading-header-2 = Načítají se vaše panely…
 firefoxview-syncedtabs-loading-description-2 = Probíhá synchronizace. Panely budou brzy k dispozici.
 firefoxview-tabpickup-fxa-admin-disabled-header = Synchronizace je zakázána vaší organizací
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nemůže synchronizovat panely mezi zařízeními, protože je synchronizace zakázána vaším správcem.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } nemůže synchronizovat panely mezi zařízeními, protože vaše organizace zakázala synchronizaci.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Synchronizace panelů je vypnutá
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Vaše organizace tuto funkci zablokovala.
@@ -124,55 +85,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Odemkněte panely pomocí svého hlavního hesla
 firefoxview-tabpickup-password-locked-description-2 = Z důvodu ochrany vašich osobních údajů jsou synchronizované panely chráněny. Zadejte své hlavní heslo pro { -brand-short-name }, abyste mohli zobrazit panel z vašich dalších zařízení.
 firefoxview-tabpickup-signed-out-header = Pro opětovné připojení se přihlaste
-firefoxview-tabpickup-signed-out-description = Chcete-li se znovu připojit a získat své panely, přihlaste se ke svému { -fxaccount-brand-name(case: "dat", capitalization: "lower") }.
 firefoxview-tabpickup-signed-out-description2 = Chcete-li se znovu připojit a získat své panely, přihlaste se do svého účtu.
 firefoxview-tabpickup-signed-out-primarybutton = Přihlásit se
 firefoxview-tabpickup-signed-out-header-2 = Přihlaste se a zobrazte si panely
 firefoxview-tabpickup-signed-out-description-2 = Znovu se připojte, abyste mohli zobrazit panely z jiných zařízení.
-firefoxview-tabpickup-syncing = Posaďte se, zatímco se vaše panely synchronizují. Bude to jen chvilka.
-firefoxview-mobile-promo-header = Vezměte si sem panely z telefonu nebo tabletu
-firefoxview-mobile-promo-description =
-    { -brand-product-name.case-status ->
-        [with-cases] Pro zobrazení svých nejnovějších panelů z mobilu se musíte v systému iOS nebo Android přihlásit k { -brand-product-name(case: "gen") }.
-       *[no-cases] Pro zobrazení svých nejnovějších panelů z mobilu se musíte v systému iOS nebo Android přihlásit k aplikaci { -brand-product-name }.
-    }
-firefoxview-mobile-promo-primarybutton =
-    { -brand-product-name.case-status ->
-        [with-cases] Získat { -brand-product-name(case: "acc") } pro mobily
-       *[no-cases] Získat aplikaci { -brand-product-name } pro mobily
-    }
-firefoxview-mobile-confirmation-header = 🎉 Jdeme na to!
-firefoxview-mobile-confirmation-description =
-    { -brand-product-name.case-status ->
-        [with-cases] Nyní si můžete vzít panely z { -brand-product-name(case: "gen") } na svém tabletu nebo telefonu.
-       *[no-cases] Nyní si můžete vzít panely z aplikace { -brand-product-name } na svém tabletu nebo telefonu.
-    }
-firefoxview-closed-tabs-title = Nedávno zavřené
-firefoxview-closed-tabs-description2 = Znovu otevřete stránky, které jste v tomto okně zavřeli.
-firefoxview-closed-tabs-placeholder-header = Žádné nedávno zavřené panely
-firefoxview-closed-tabs-placeholder-body = Když v tomto okně zavřete panel, můžete ho načíst odtud.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Zavřít { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Nedávno používaný
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Otevřít { $targetURI } v novém panelu
-firefoxview-try-colorways-button = Vyzkoušet palety barev
-firefoxview-change-colorway-button = Změnit paletu barev
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Zatím tu nic není
-firefoxview-synced-tabs-placeholder-body =
-    { -brand-product-name.case-status ->
-        [with-cases] Až příště otevřete stránku ve { -brand-product-name(case: "loc") } na jiném zařízení, jako zázrakem ji najdete i tady.
-       *[no-cases] Až příště otevřete stránku v aplikaci { -brand-product-name } na jiném zařízení, jako zázrakem ji najdete i tady.
-    }
 firefoxview-collapse-button-show =
     .title = Zobrazit seznam
 firefoxview-collapse-button-hide =

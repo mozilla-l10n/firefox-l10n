@@ -12,10 +12,6 @@ crashes-no-config = ယခု အက်ပလီကေးရှင်းသည�
 support-addons-name = အမည်
 support-addons-version = မူအဆင့်
 support-addons-id = အိုင်ဒီ
-features-title = { -brand-short-name } တွင် ပါဝင်သော လုပ်ဆောင်ချက်များ
-features-name = အမည်
-features-version = ဗားရှင်း
-features-id = ID
 app-basics-title = အပ္ပလီကေးရှင်း အခြေခံ
 app-basics-name = အမည်
 app-basics-version = မူအဆင့်
@@ -28,7 +24,6 @@ app-basics-profile-dir =
         [linux] ပရိုဖိုင် လမ်းညွှန်
        *[other] ပရိုဖိုင် ဖိုဒါ
     }
-app-basics-enabled-plugins = ပက်လက်အင် အားဖွင့်ပါ
 app-basics-build-config = Configuration တည်ဆောက်ပါ
 app-basics-user-agent = အသုံးပြုသူ အေးဂျင့်
 app-basics-os = OS

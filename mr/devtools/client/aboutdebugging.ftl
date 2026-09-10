@@ -5,14 +5,8 @@
 
 ### These strings are used inside the about:debugging UI.
 
-
-# Page Title strings
-
 # Page title (ie tab title) for the Setup page
 about-debugging-page-title-setup-page = डीबगिंग - सेटअप
-
-# Sidebar strings
-
 # Sidebar heading and title for connecting to some remote source
 about-debugging-sidebar-setup2 = सेटअप
 about-debugging-sidebar-setup-title =
@@ -70,9 +64,6 @@ about-debugging-sidebar-support-icon =
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = उपकरणे पुन्हा दाखल करा
-
-# Setup Page strings
-
 # Title of the Setup page.
 about-debugging-setup-title = सेटअप
 # Title of the heading Connect section of the Setup page.
@@ -104,9 +95,6 @@ about-debugging-network-locations-host-input-label = यजमान
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = काढून टाका
-
-# Runtime Page strings
-
 # Below are the titles for the various categories of debug targets that can be found
 # on "runtime" pages of about:debugging.
 # Title of the temporary extensions category (only available for "This Firefox" runtime).
@@ -141,9 +129,6 @@ about-debugging-runtime-name = { $name } ( { $version })
 about-debugging-runtime-disconnect-button = खंडीत करा
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = प्रोफाइलर
-
-# Debug Targets strings
-
 # Displayed in the categories of "runtime" pages that don't have any debug target to
 # show. Debug targets depend on the category (extensions, tabs, workers...).
 about-debugging-debug-target-list-empty = आतापर्यंत काहीही नाही.

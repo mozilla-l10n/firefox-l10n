@@ -13,7 +13,6 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } পুনরা�
 
 ##
 
-firefox-relay-must-login-to-fxa = { -relay-brand-name } ব্যবহার করার জন্য আপনাকে অবশ্যই { -fxaccount-brand-name }-এ লগ ইন করতে হবে।
 firefox-relay-get-unlimited-masks =
     .label = মুখোশ পরিচালনা করুন
     .accesskey = M

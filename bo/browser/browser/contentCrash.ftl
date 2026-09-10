@@ -5,9 +5,6 @@
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message = ཁྱེད་ཀྱིས་བསྐུར་མ་ཚར་བའི་{ $reportCount }་གནད་སྐྱོན་གྱི་ཡར་ཞུ་ཡོད
 pending-crash-reports-view-all =
     .label = ལྟ་ཀློག
 pending-crash-reports-send =

@@ -25,17 +25,13 @@ neterror-override-exception-button = Terima Risikonya dan Lanjutkan
 neterror-pref-reset-button = Pulihkan setelan baku
 neterror-return-to-previous-page-button = Mundur
 neterror-return-to-previous-page-recommended-button = Kembali (Disarankan)
-neterror-try-again-button = Coba Lagi
 neterror-add-exception-button = Selalu lanjutkan untuk situs ini
 neterror-settings-button = Ubah Pengaturan DNS
 neterror-view-certificate-link = Tampilkan Sertifikat
-neterror-trr-continue-this-time = Lanjutkan untuk saat ini
-neterror-disable-native-feedback-warning = Selalu lanjutkan
 
 ##
 
 neterror-pref-reset = Tampaknya setelan keamanan jaringan Anda yang mungkin menyebabkan ini. Ingin setelan baku dipulihkan?
-neterror-error-reporting-automatic = Laporkan kesalahan seperti ini untuk membantu { -vendor-short-name } mengidentifikasi dan memblokir situs yang mencurigakan.
 
 ## Specific error messages
 
@@ -64,25 +60,15 @@ neterror-dns-not-found-offline-hint-reconnect = Putuskan dan sambungkan kembali 
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } tidak dapat melindungi permintaan Anda untuk alamat situs ini melalui resolusi DNS yang terpercaya kami. Alasannya adalah sebagai berikut:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } tidak dapat melindungi permintaan Anda untuk alamat situs ini melalui penyedia DNS aman kami. Alasannya sebagai berikut:
 neterror-dns-not-found-trr-third-party-warning2 = Anda dapat melanjutkan dengan resolver DNS baku Anda. Namun, pihak ketiga mungkin dapat melihat situs web yang Anda kunjungi.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } tidak dapat terhubung ke { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Sambungan ke { $trrDomain } memakan waktu lebih lama dari yang diharapkan.
-neterror-dns-not-found-trr-offline = Anda tidak tersambung ke internet.
 neterror-dns-not-found-trr-unknown-host2 = Situs web ini tidak ditemukan oleh { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Ada masalah dengan { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = URL tidak valid.
 neterror-dns-not-found-system-sleep = Sistem dalam mode tidur.
 neterror-dns-not-found-trr-unknown-problem = Kesalahan tak terduga.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } tidak dapat melindungi permintaan Anda untuk alamat situs ini melalui resolusi DNS yang terpercaya kami. Alasannya adalah sebagai berikut:
-neterror-dns-not-found-native-fallback-heuristic = DNS lewat HTTP telah dinonaktifkan pada jaringan Anda.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } tidak dapat terhubung ke { $trrDomain }.
 
 ##
 
@@ -91,8 +77,6 @@ neterror-file-not-found-moved = Periksa apakah berkas sudah dipindah, diganti na
 neterror-access-denied = Berkas mungkin sudah dihapus, dipindahkan, atau hak akses yang ada mencegah akses terhadap berkas.
 neterror-unknown-protocol = Anda mungkin perlu untuk menginstal perangkat lunak lain untuk membuka alamat ini.
 neterror-redirect-loop = Masalah ini kadangkala disebabkan karena mematikan fungsi atau menolak menerima kuki.
-neterror-unknown-socket-type-psm-installed = Pastikan sistem Anda telah terpasang Pengelola Keamanan Pribadi.
-neterror-unknown-socket-type-server-config = Hal ini mungkin disebabkan konfigurasi server yang tidak standar.
 neterror-not-cached-intro = Dokumen yang diminta tidak tersedia pada tembolok { -brand-short-name }.
 neterror-not-cached-sensitive = Sebagai tindakan pencegahan keamanan, { -brand-short-name } tidak meminta ulang dokumen sensitif secara otomatis.
 neterror-not-cached-try-again = Klik Coba Lagi untuk meminta ulang dokumen dari situs web.

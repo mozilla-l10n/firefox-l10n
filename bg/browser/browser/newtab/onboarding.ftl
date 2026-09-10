@@ -33,12 +33,6 @@ mr1-return-to-amo-add-extension-label = Добавяне на { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Напредък: стъпка { $current } от { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -196,51 +190,10 @@ mr2022-onboarding-set-default-primary-button-label = Задаване на { -br
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Последното издание е изградено на вашите желания, което прави по-лесно от всякога разглеждането в интернет. Изданието е пълно с функции, които смятаме, че ще обикнете.
 mr2022-onboarding-get-started-primary-button-label = Настройва се за секунди
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Светкавично-бърза настройка
-mr2022-onboarding-import-subtitle = Настройте { -brand-short-name } както ви харесва. Добавете вашите отметки, пароли и други от стария ви браузър.
 mr2022-onboarding-import-primary-button-label-no-attribution = Внасяне от предишен четец
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Изберете цвета, който ви вдъхновява
-mr2022-onboarding-colorway-subtitle = Независимите гласове могат да променят културата.
-mr2022-onboarding-colorway-primary-button-label-continue = Запазване и продължаване
-mr2022-onboarding-existing-colorway-checkbox-label = Направете вашата { -firefox-home-brand-name }  начална страница цветна
-mr2022-onboarding-colorway-label-default = По подразбиране
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Текущи { -brand-short-name } цветове
-mr2022-onboarding-colorway-label-playmaker = Плеймейкър
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Плеймейкър (червен)
-mr2022-onboarding-colorway-label-expressionist = Експресионист
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Експресионист (жълт)
-mr2022-onboarding-colorway-label-visionary = Визионер
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Визионерски (зелен)
-mr2022-onboarding-colorway-label-activist = Активист
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Активист (син)
-mr2022-onboarding-colorway-label-dreamer = Мечтател
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Мечтател (лилав)
-mr2022-onboarding-colorway-description-dreamer = <b>Вие мечтаете.</b> Вярвате, че късметът е благосклонен към смелите и вдъхновявате другите да бъдат смели.
-mr2022-onboarding-colorway-label-innovator = Изобретател
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Иноватор (оранжев)
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Прескачайте от лаптопа на телефона и обратно
-mr2022-onboarding-mobile-download-subtitle = Вземете разделите от вашето устройство и продължете на друго устройство от там, от където сте спрели. Синхронизирайте своите отметки и пароли навсякъде, където използвате { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Сканирайте QR кода, за да получите { -brand-product-name } за мобилно устройство или <a data-l10n-name="download-label">изпратете си връзка за изтегляне.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Сканирайте QR кода, за да получите { -brand-product-name } за мобилни устройства.
 
@@ -272,7 +225,6 @@ mr2022-onboarding-default-image-alt =
 ## Device migration onboarding
 
 onboarding-device-migration-title = Добре дошли отново!
-onboarding-device-migration-subtitle = Влезте в { -fxaccount-brand-name(capitalization: "sentence") }, за да пренесете своите отметки, пароли и история със себе си на новото ви устройство.
 onboarding-device-migration-primary-button-label = Вход
 
 ## Add-ons Picker screen

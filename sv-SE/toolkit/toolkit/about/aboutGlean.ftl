@@ -50,7 +50,6 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-additional-links = För en förklaring av olika sätt att registrera och hitta data, se fliken <strong>Om data</strong>.
-about-glean-about-testing-header = Om testning
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     Fullständiga instruktioner finns dokumenterade i
@@ -59,8 +58,6 @@ about-glean-manual-testing =
     men kort sagt, för att manuellt testa att din instrumentering fungerar, bör du:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (skicka inte in någon ping)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Se till att det finns en minnesvärd felsökningstagg i föregående fält så att du kan känna igen dina pingar senare.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Ställ in en minnesvärd felsökningstagg <span>(20 tecken eller färre, alfanumeriska och - endast)</span> så att du kan känna igen dina pingar senare.
 # An in-line drop down list precedes this string.
@@ -87,13 +84,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Besök sidan { glean-debug-ping-viewer-brand-name } för pingar med din tagg</a>.
     Det bör inte ta mer än några sekunder från att du trycker på knappen tills din ping kommer.
     Ibland kan det ta några minuter.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    För mer <i>ad hoc</i>-tester,
-    Du kan också bestämma det aktuella värdet för en viss instrumentering
-    genom att öppna en devtools-konsol här på <code>about:glean</code>
-    och använda <code>testGetValue()</code> API som
-    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     För mer <i>ad hoc</i>-tester,
@@ -179,9 +169,6 @@ about-glean-no-data-to-display = Ingen data att visa.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code>-mätvärden stöds ännu inte i <code>about:glean</code>-vyn.
 about-glean-unknown-metric-type-warning = Okänd mätvärdestyp.
-about-glean-about-data-explanation =
-    För att bläddra i listan över insamlade data, vänligen konsultera
-    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } ordbok</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

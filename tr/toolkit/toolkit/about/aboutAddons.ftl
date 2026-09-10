@@ -158,15 +158,10 @@ addon-sitepermission-host = { $host } site izinleri
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Güvenli kipte tüm eklentiler devre dışı bırakılmıştır.
-extensions-warning-check-compatibility = Eklenti uyumluluk denetimi devre dışı. Uyumsuz eklentileriniz olabilir.
-extensions-warning-safe-mode2 =
-    .message = Güvenli kipte tüm eklentiler devre dışı bırakılmıştır.
 extensions-warning-check-compatibility2 =
     .message = Eklenti uyumluluk denetimi devre dışı. Uyumsuz eklentileriniz olabilir.
 extensions-warning-check-compatibility-button = Etkinleştir
     .title = Eklenti uyumluluk denetimini devreye sok
-extensions-warning-update-security = Eklenti güncelleme güvenliği denetimi devre dışı. Güncellemelerle tehlikeye düşebilirsiniz.
 extensions-warning-update-security2 =
     .message = Eklenti güncelleme güvenliği denetimi devre dışı. Güncellemelerle tehlikeye düşebilirsiniz.
 extensions-warning-update-security-button = Etkinleştir
@@ -242,10 +237,6 @@ shortcuts-duplicate = Yinelenen kısayol
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } birden fazla yerde kısayol olarak kullanılıyor. Yinelenen kısayollar beklenmeyen davranışlara neden olabilir.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } birden fazla yerde kısayol olarak kullanılıyor. Yinelenen kısayollar beklenmeyen davranışlara neden olabilir.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -265,13 +256,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Uzantılar ve temalar tarayıcınızın içinde çalışan uygulamalar gibidir. Parolalarınızı saklamanıza, video indirmenize, indirimleri bulmanıza, sinir bozucu reklamları engellemenize, tarayıcınızın görünümünü değiştirmenize ve daha birçok şey yapmanıza olanak tanır. Bu küçük yazılımlar genellikle üçüncü şahıslar tarafından geliştirilir. Ekstra güvenlik, performans ve işlevsellik için { -brand-product-name } tarafından <a data-l10n-name="learn-more-trigger">önerilen</a> uzantı ve temaları aşağıda bulabilirsiniz.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    Bu önerilerden bazıları size özeldir. Önerilerimiz; yüklediğiniz
-    diğer uzantıları, profil tercihlerinizi ve kullanım istatistiklerinizi temel alır.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -354,16 +338,9 @@ addon-detail-last-updated-label = Son güncelleme
 addon-detail-homepage-label = Web sitesi
 addon-detail-rating-label = Puan
 # Message for add-ons with a staged pending update.
-install-postponed-message = { -brand-short-name } yeniden başlatılınca bu uzantı güncellenecek.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = { -brand-short-name } yeniden başlatılınca bu uzantı güncellenecek.
 install-postponed-button = Şimdi güncelle
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = 5 üzerinden { NUMBER($rating, maximumFractionDigits: 1) } puan
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -379,9 +356,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> kaldırıldı.
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -400,11 +374,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Gizli pencerelerde izinli
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Gizli pencerelerde izinli
 addon-detail-private-browsing-help = İzin verirseniz bu uzantı, gizli gezinti sırasında çevrimiçi etkinliklerinize erişebilir. <a data-l10n-name="learn-more">Daha fazla bilgi alın</a>
 addon-detail-private-browsing-allow = İzin ver
@@ -431,17 +400,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } yalnızca güvenlik ve performans standartlarımızı karşılayan uzantıları önerir
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Resmi Mozilla uzantısı. Güvenlik ve performans standartlarını karşılar.
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Bu uzantı incelendi, güvenlik ve performans standartlarımızı karşıladığı onaylandı
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -471,9 +429,6 @@ addon-permissions-heading = İzinler
 addon-permissions-empty2 = Bu uzantı herhangi bir izin gerektirmiyor.
 addon-permissions-required-label = Gerekli:
 addon-permissions-optional-label = İsteğe bağlı:
-addon-permissions-empty = Bu uzantı herhangi bir izin gerektirmiyor
-addon-permissions-required = Temel işlevler için gerekli izinler:
-addon-permissions-optional = Ek işlevler için isteğe bağlı izinler:
 addon-permissions-learnmore = İzinler hakkında daha fazla bilgi alın
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -514,25 +469,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } eklentisi { -brand-short-name } { $version } ile uyumsuz.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } eklentisi { -brand-short-name } { $version } ile uyumsuz.
-details-notification-incompatible-link = Daha fazla bilgi
-details-notification-unsigned-and-disabled = { $name } { -brand-short-name } üzerinde kullanım için doğrulanamadı ve etkisizleştirildi.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } { -brand-short-name } üzerinde kullanım için doğrulanamadı ve etkisizleştirildi.
-details-notification-unsigned-and-disabled-link = Daha fazla bilgi
-details-notification-unsigned = { $name } { -brand-short-name } üzerinde kullanım için doğrulanamadı. Lütfen dikkatli olun.
 details-notification-unsigned2 =
     .message = { $name } { -brand-short-name } üzerinde kullanım için doğrulanamadı. Lütfen dikkatli olun.
 details-notification-hard-blocked-extension =
     .message = Bu uzantı Mozilla politikalarını ihlal ettiği için engellendi ve devre dışı bırakıldı.
 details-notification-hard-blocked-other =
     .message = Bu eklenti Mozilla politikalarını ihlal ettiği için engellendi ve devre dışı bırakıldı.
-details-notification-unsigned-link = Daha fazla bilgi
-details-notification-blocked = { $name } güvenlik veya kararlılık gerekçesiyle devre dışı bırakıldı.
 details-notification-blocked-link2 = Ayrıntıları göster
 details-notification-soft-blocked-extension-disabled2 =
     .message = Bu uzantı kısıtlanmış olduğu için devre dışı bırakıldı. Uzantıyı etkinleştirebilirsiniz ama bu riskli olabilir.
@@ -542,19 +488,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = Bu eklenti kısıtlanmış olduğu için devre dışı bırakıldı. Eklentiyi etkinleştirebilirsiniz ama bu riskli olabilir.
 details-notification-soft-blocked-other-enabled2 =
     .message = Bu eklenti kısıtlanmıştır. Kullanımı riskli olabilir.
-details-notification-soft-blocked-extension-disabled =
-    .message = Bu uzantı Mozilla’nın politikalarını ihlal ettiği için kısıtlandı ve devre dışı bırakıldı. Uzantıyı etkinleştirebilirsiniz ama bu riskli olabilir.
-details-notification-soft-blocked-extension-enabled =
-    .message = Bu uzantı Mozilla politikalarını ihlal ediyor. Kullanılması riskli olabilir.
-details-notification-soft-blocked-other-disabled =
-    .message = Bu eklenti Mozilla’nın politikalarını ihlal ettiği için kısıtlandı ve devre dışı bırakıldı. Eklentiyi etkinleştirebilirsiniz ama bu riskli olabilir.
-details-notification-soft-blocked-other-enabled =
-    .message = Bu eklenti Mozilla politikalarını ihlal ediyor. Kullanılması riskli olabilir.
 details-notification-softblocked-link2 = Ayrıntıları göster
-details-notification-blocked-link = Daha fazla bilgi
-details-notification-softblocked = { $name } eklentisinin güvenlik veya kararlılık sorunlarına yol açtığı biliniyor.
-details-notification-softblocked-link = Daha fazla bilgi
-details-notification-gmp-pending = { $name } az sonra yüklenecektir.
 details-notification-gmp-pending2 =
     .message = { $name } az sonra yüklenecektir.
 
@@ -570,8 +504,6 @@ plugins-widevine-description = Bu yan uygulama, Encrypted Media Extensions şart
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Toplanması gereken veriler:
-addon-permissions-optional-data-collection = Toplanması isteğe bağlı veriler:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = İzinler ve veriler
 # This is a description for extension that use this AI model

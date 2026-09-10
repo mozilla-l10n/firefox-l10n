@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Yeni Vərəq
-newtab-settings-button =
-    .title = Yeni Vərəq səhifənizi fərdiləşdirin
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Bu səhifəni özəlləşdir
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = Özəlləşdir
 newtab-customize-panel-label =
     .label = Özəlləşdir
-newtab-personalize-settings-icon-label =
-    .aria-label = Tənzimləmələr
-    .title = Yeni Vərəqi Fərdiləşdirin
 newtab-settings-dialog-label =
     .aria-label = Tənzimləmələr
-newtab-personalize-icon-label =
-    .aria-label = Yeni vərəqi fərdiləşdir
-    .title = Yeni vərəqi fərdiləşdir
-newtab-personalize-dialog-label =
-    .aria-label = Fərdiləşdir
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -156,7 +146,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Axtarış mühərriyi əlavə et
 newtab-topsites-add-shortcut-header = Yeni Qısayol
-newtab-topsites-edit-topsites-header = Qabaqcıl Saytları Dəyişdir
 newtab-topsites-title-label = Başlıq
 newtab-topsites-title-input =
     .placeholder = Başlıq daxil et
@@ -195,10 +184,6 @@ newtab-menu-section-tooltip =
 newtab-menu-content-tooltip =
     .aria-label = { $title } üçün kontekst menyusunu aç
     .title = Menyunu aç
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Bu saytı düzəlt
-    .title = Bu saytı düzəlt
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -210,9 +195,6 @@ newtab-menu-dismiss = Rədd et
 newtab-menu-pin = Bərkid
 newtab-menu-unpin = Çıxart
 newtab-menu-delete-history = Tarixçədən Sil
-newtab-menu-save-to-pocket = { -pocket-brand-name }-ə Saxla
-newtab-menu-delete-pocket = { -pocket-brand-name }-dən sil
-newtab-menu-archive-pocket = { -pocket-brand-name }-də arxivləşdir
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Bildir
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -257,40 +239,16 @@ newtab-label-download = Endirildi
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Bölməni Sil
-newtab-section-menu-collapse-section = Bölməni Daralt
-newtab-section-menu-expand-section = Bölməni Genişlət
-newtab-section-menu-manage-section = Bölməni İdarə et
-newtab-section-menu-manage-webext = Uzantını idarə et
-newtab-section-menu-add-topsite = Qabaqcıl Sayt əlavə et
-newtab-section-menu-add-search-engine = Axtarış mühərriyi əlavə et
-newtab-section-menu-move-up = Yuxarı daşı
-newtab-section-menu-move-down = Aşağı daşı
 newtab-section-menu-privacy-notice = Məxfilik Bildirişi
 
 ## Section Headers.
 
 newtab-section-header-topsites = Qabaqcıl Saytlar
 newtab-section-header-recent-activity = Son fəaliyyət
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } məsləhət görür
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = İnternetdə gəzməyə başlayın, burada ziyarət edəcəyiniz və ya əlfəcinləyəcəyiniz məqalə, video və digər səhifələri göstərəcəyik.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Hamısını oxudunuz. Yeni { $provider } məqalələri üçün daha sonra təkrar yoxlayın. Gözləyə bilmirsiz? Məşhur mövzu seçərək internetdən daha çox gözəl məqalələr tapın.
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Məşhur Mövzular:
-newtab-pocket-more-recommendations = Daha Çox Tövsiyələr
-newtab-pocket-cta-button = { -pocket-brand-name } əldə edin
-newtab-pocket-cta-text = Sevdiyiniz məqalələri { -pocket-brand-name }-də saxlayın və möhtəşəm yeni yazıları kəşf edin.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -302,7 +260,6 @@ newtab-error-fallback-refresh-link = Təkrar yoxlamaq üçün səhifəni yenilə
 
 newtab-custom-row-description =
     .description = Sətir sayı
-newtab-custom-recent-title = Son fəaliyyət
 newtab-custom-widget-lists-toggle =
     .label = Siyahılar
 newtab-custom-widget-timer-toggle =

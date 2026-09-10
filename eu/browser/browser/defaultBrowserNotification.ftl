@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = Mantendu { -brand-short-name } esku-eskura 
 default-browser-prompt-message-pin-msix = Mantendu { -brand-short-name } esku-eskura — egizu zure nabigatzaile lehenetsia eta aingura ezazu ataza-barran eta hasierako menuan.
 default-browser-prompt-message-pin-mac = Mantendu { -brand-short-name } esku-eskura — egizu zure nabigatzaile lehenetsia eta aingura ezazu Dock-ean.
 default-browser-prompt-button-primary-set = Ezarri nabigatzaile nagusi gisa
-default-browser-prompt-button-primary-pin = Egin nabigatzaile nagusia
 default-browser-prompt-title-alt = Egin { -brand-short-name } zure nabigatzaile lehenetsia?
 default-browser-prompt-message-alt = Eskuratu abiadura, segurtasuna eta pribatutasuna nabigatzen duzun aldiro.
 default-browser-prompt-button-primary-alt = Ezarri nabigatzaile lehenetsi gisa

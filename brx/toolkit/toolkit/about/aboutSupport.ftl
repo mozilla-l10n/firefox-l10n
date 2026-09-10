@@ -15,9 +15,6 @@ support-addons-id = ID
 security-software-title = रैखाथि सफ्टवेयार
 security-software-type = रोखोम
 security-software-name = मुं
-features-name = मुं
-features-version = लिरस्लायनाय
-features-id = ID
 processes-type = रोखोम
 processes-count = काउन्ट
 app-basics-title = एप्लिकेसन गुदि
@@ -30,7 +27,6 @@ app-basics-profile-dir =
         [linux] प्रफाइल डिरेक्टरि
        *[other] प्रफाइल फल्डार
     }
-app-basics-enabled-plugins = हाहोनाय प्लागिनफोर
 app-basics-build-config = बिल्ड बाइजोमहर
 app-basics-user-agent = बाहायग्रा थान्दै
 app-basics-os = OS

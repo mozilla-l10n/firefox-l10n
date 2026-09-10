@@ -30,4 +30,3 @@ search-bookmarks = Nzingalibbra
 search-history = Crunuluggìa
 search-opentabs = Schedi raputi
 search-tags = Etichetti:
-search-titles = Tìtuli

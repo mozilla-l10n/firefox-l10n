@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Որոնել գաղտնաբառեր
-    .key = F
     .aria-label = Որոնել գաղտնաբառեր
+    .key = F
+    .placeholder = Որոնել գաղտնաբառեր
 contextual-manager-menu-more-options-button =
     .title = Լրացուցիչ ընտրանքներ
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Ներմուծել ֆայլից…
 contextual-manager-passwords-command-export = Արտահանել գաղտնաբառերը
 contextual-manager-passwords-command-remove-all = Հեռացնել բոլոր գաղտնաբառերը
 contextual-manager-passwords-command-options = Ընտրանքներ
-contextual-manager-passwords-command-settings = Կարգավորումներ
 contextual-manager-passwords-command-help = Օգնություն
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -60,10 +59,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Գաղտնաբառերը ներմուծված են
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Նոր՝ { $added }, Թարմացված՝ { $modified }
 contextual-manager-passwords-import-detailed-report = Դիտել մանրամասն զեկույցը
 contextual-manager-passwords-import-success-button = Պատրաստ է
 contextual-manager-passwords-import-error-heading-and-message =
@@ -188,8 +183,6 @@ contextual-manager-passwords-create-label =
     .label = Ավելացնել գաղտնաբառ
 contextual-manager-passwords-update-label =
     .label = Թարմացնել գաղտնաբառը
-contextual-manager-passwords-edit-label =
-    .label = Խմբագրել գաղտնաբառը
 contextual-manager-passwords-remove-label =
     .title = Հեռացնել գաղտնաբառը
 contextual-manager-passwords-origin-field =
@@ -201,7 +194,6 @@ contextual-manager-passwords-password-field =
     .label = Գաղտնաբառ
 contextual-manager-passwords-password-field-description = Մուտքագրեք գաղտնաբառը՝ այս հաշիվ մուտք գործելու համար։
 contextual-manager-passwords-password-tooltip-2 = Մուտքագրեք գաղտնաբառը՝ այս հաշիվ մուտք գործելու համար։
-contextual-manager-passwords-password-tooltip = Մուտքագրեք այս հաշիվ մուտք գործելու համար օգտագործված գաղտնաբառը։
 
 ## Password Card
 
@@ -248,10 +240,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Պատճենել գաղտնաբառը (զգուշացում)
 contextual-manager-edit-login-button = Խմբագրել
     .tooltiptext = Խմբագրել գաղտնաբառը
-contextual-manager-view-alert-heading =
-    .heading = Դիտել ահազանգը
-contextual-manager-view-alert-button =
-    .tooltiptext = Դիտել ահազանգը
 contextual-manager-show-password-button =
     .aria-label = Ցուցադրել գաղտնաբառը
     .title = Ցուցադրել գաղտնաբառը
@@ -265,8 +253,6 @@ contextual-manager-passwords-no-passwords-found-header =
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Պահեք ձեր գաղտնաբառերը անվտանգ տեղում։
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Ձեռքով ավելացնել
 

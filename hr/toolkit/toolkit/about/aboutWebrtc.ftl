@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = spremi about:webrtc kao
 about-webrtc-aec-logging-msg-label = AEC zapisnik
 about-webrtc-aec-logging-off-state-label = Započni AEC zapisnik
 about-webrtc-aec-logging-on-state-label = Zaustavi AEC zapisnik
-about-webrtc-aec-logging-on-state-msg = AEC zapisnik aktivan (razgovaraj s pozivateljem par minuta i zatim zaustavi snimanje)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC zapisnik aktivan (razgovaraj s pozivateljem par minuta i zatim zaustavi snimanje)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -83,17 +82,9 @@ about-webrtc-nominated = Predloženo
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Odabrano
 about-webrtc-save-page-label = Spremi stranicu
-about-webrtc-debug-mode-msg-label = Modus za otklanjanje grešaka
-about-webrtc-debug-mode-off-state-label = Pokreni modus za otklanjanja grešaka
-about-webrtc-debug-mode-on-state-label = Prekini modus za otklanjanja grešaka
-about-webrtc-stats-heading = Statistika sesije
 about-webrtc-stats-clear = Izbriši povijest
 about-webrtc-log-heading = Zapisnik povezivanja
 about-webrtc-log-clear = Izbriši zapisnik
-about-webrtc-log-show-msg = prikaži zapisnik
-    .title = klikni za rasklapanje ovog odjeljka
-about-webrtc-log-hide-msg = sakrij zapisnik
-    .title = klikni za sklapanje ovog odjeljka
 about-webrtc-log-section-show-msg = Prikaži zapisnik
     .title = Klikni za rasklapanje ovog odjeljka
 about-webrtc-log-section-hide-msg = Sakrij zapisnik
@@ -123,15 +114,9 @@ about-webrtc-short-receive-direction = Primanje: { $codecs }
 
 about-webrtc-local-candidate = Lokalni kandidat
 about-webrtc-remote-candidate = Udaljeni kandidat
-about-webrtc-raw-cand-hide-msg = sakrij neobrađene kandidate
-    .title = klikni za sklapanje ovog odjeljka
 about-webrtc-raw-cand-section-hide-msg = Sakrij neobrađene kandidate
     .title = Klikni za sklapanje ovog odjeljka
 about-webrtc-priority = Prioritet
-about-webrtc-fold-show-msg = prikaži detalje
-    .title = klikni za rasklapanje ovog odjeljka
-about-webrtc-fold-hide-msg = sakrij detalje
-    .title = klikni za sklapanje ovog odjeljka
 about-webrtc-fold-default-show-msg = Prikaži detalje
     .title = Klikni za rasklapanje ovog odjeljka
 about-webrtc-fold-default-hide-msg = Sakrij detalje
@@ -170,13 +155,6 @@ about-webrtc-user-modified-configuration-show-msg = Prikaži korisnički promije
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
-
-##
-
-about-webrtc-save-page-msg = stranica spremljena u: { $path }
-about-webrtc-debug-mode-off-state-msg = detaljni zapisnik se može pronaći u: { $path }
-about-webrtc-debug-mode-on-state-msg = modus za otklanjanja grešaka aktivan, detaljni zapisnik u: { $path }
-about-webrtc-aec-logging-off-state-msg = snimljene datoteke zapisnika se mogu pronaći u: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

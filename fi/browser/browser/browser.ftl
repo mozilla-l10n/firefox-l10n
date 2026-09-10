@@ -2,113 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Yksityinen selaus
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Yksityinen selaus
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Yksityinen selaus
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Yksityinen selaus
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } - Yksityinen selaus
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
 browser-shortcut-description = Nopeaa ja yksityistä verkkoselailua
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } — Yksityinen selaus
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } — Yksityinen selaus
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Yksityinen selaus
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } — Yksityinen selaus
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } — Yksityinen selaus
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Yksityinen selaus
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Yksityinen selaus
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } — Yksityinen selaus
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -177,8 +75,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Avaa verkkoyhteydettömän tilan tietovaraston viestipaneeli
 urlbar-password-notification-anchor =
     .tooltiptext = Avaa salasanan tallentamisen viestipaneeli
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Hallinnoi liitännäisen käyttöä
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Hallinnoi kameran tai mikrofonin jakamista sivustolle
 # "Speakers" is used in a general sense that might include headphones or
@@ -191,15 +87,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Tallenna tietoja pysyvään tallennustilaan
 urlbar-addons-notification-anchor =
     .tooltiptext = Avaa lisäosan asentamisen viestipaneeli
-urlbar-tip-help-icon =
-    .title = Apua ongelmiin
 urlbar-search-tips-confirm = Selvä
 urlbar-search-tips-confirm-short = Selvä
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Vinkki:
 urlbar-result-menu-button =
     .title = Avaa valikko
 urlbar-result-menu-button-feedback = Palaute
@@ -244,9 +133,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = Hylkää tämä ehdotus
     .accesskey = ä
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = Lisätietoja: { -firefox-suggest-brand-name }
-    .accesskey = L
 urlbar-result-menu-manage-firefox-suggest =
     .label = Hallitse { -firefox-suggest-brand-name }ia
     .accesskey = H
@@ -278,8 +164,6 @@ urlbar-dismissal-acknowledgment-weather = Kiitos palautteestasi. Et näe enää 
 
 urlbar-search-tips-onboard = Kirjoita vähemmän, löydä enemmän: Hae hakukoneella { $engineName } suoraan osoitepalkista.
 urlbar-search-tips-redirect-2 = Aloita hakeminen osoitepalkista, niin näet ehdotukset palvelusta { $engineName } ja selaushistoriastasi.
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = Haku yksinkertaistui. Yritä tarkentaa hakuasi täällä osoitepalkissa. Jos haluat haun sijaan näkyviin URL-osoitteen, siirry asetusten hakuosioon.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Valitse tämä, niin löydät etsimäsi nopeammin.
@@ -313,8 +197,6 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Olet estänyt pysyvän tallennustilan käytön tältä sivustolta.
 urlbar-popup-blocked2 =
     .tooltiptext = Olet estänyt ponnahdusikkunat ja kolmannen osapuolen uudelleenohjaukset tällä verkkosivustolla.
-urlbar-popup-blocked =
-    .tooltiptext = Olet estänyt ponnahdusikkunat tältä sivustolta.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Olet estänyt äänellisen median automaattisen toistamisen tältä sivustolta.
 urlbar-canvas-blocked =
@@ -425,24 +307,18 @@ quickactions-cmd-addons3 = laajennukset, teemat, lisäosat
 # Opens preferences page at AI controls
 quickactions-manageai = Hallitse tekoälysäätimiä
 quickactions-cmd-manageai = poista tekoäly käytöstä, tekoäly pois, hallitse tekoälyä
-quickactions-cmd-addons2 = lisäosat
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Hallitse kirjanmerkkejä
 quickactions-cmd-bookmarks = kirjanmerkit
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Tyhjennä viimeaikainen historia
 quickactions-cmd-clearrecenthistory2 = cookies, clear cookies, cache, clear cache, browsing data, clear browsing data, history, clear recent history, evästeet, tyhjennä evästeet, välimuisti, tyhjennä välimuisti, selaustiedot, tyhjennä selaustiedot, historia, tyhjennä viimeaikainen historia
-quickactions-cmd-clearrecenthistory = tyhjennä historia, historia
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Tyhjennä historia
-quickactions-cmd-clearhistory = tyhjennä historia
 # Opens about:downloads page
 quickactions-downloads2 = Näytä lataukset
 quickactions-cmd-downloads = lataukset
 # Opens about:addons page in the extensions section
 quickactions-extensions = Hallitse laajennuksia
 quickactions-cmd-extensions2 = laajennukset, lisäosat
-quickactions-cmd-extensions = laajennukset
 # Opens Firefox View
 quickactions-firefoxview = Avaa { -firefoxview-brand-name }
 # English is using "view" and "open view", since the feature name is
@@ -461,7 +337,6 @@ quickactions-cmd-colorpicker = color picker, eyedropper, pick color, värinvalit
 # Opens Firefox Library
 quickactions-cmd-library = kirjasto
 quickactions-library = Avaa kirjasto
-quickactions-cmd-inspector = tarkastaja, inspector, devtools
 # Opens about:logins
 quickactions-logins2 = Hallitse salasanoja
 quickactions-cmd-logins = käyttäjätunnukset, salasanat
@@ -471,9 +346,6 @@ quickactions-mute = Mykistä ääntä toistavat välilehdet
 # Replace with idiomatic expressions in your language to silence something or
 # someone.
 quickactions-cmd-mute = mykkä, hiljaa, sssssh
-# Opens about:addons page in the plugins section
-quickactions-plugins = Hallitse liitännäisiä
-quickactions-cmd-plugins = liitännäiset
 # Opens the print dialog
 quickactions-print2 = Tulosta sivu
 quickactions-cmd-print = tulosta
@@ -498,19 +370,16 @@ quickactions-cmd-screenshot2 = kuvakaappaus, ota kuvakaappaus
 # Opens about:translations
 quickactions-translate = Käännä
 quickactions-cmd-translate = käännä
-quickactions-cmd-screenshot = kuvakaappaus
 # Opens about:preferences
 quickactions-settings2 = Hallitse asetuksia
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = asetukset, valinnat, hallitse
-quickactions-cmd-settings = asetukset, valinnat
 # Opens about:addons page in the themes section
 quickactions-themes = Hallitse teemoja
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-themes2 = teemat, lisäosat
-quickactions-cmd-themes = teemat
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Päivitä { -brand-short-name }
 quickactions-cmd-update = päivitä
@@ -520,7 +389,6 @@ quickactions-cmd-viewsource2 = näytä lähdekoodi, lähde, sivun lähdekoodi
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = Avaa { -firefoxlabs-brand-name }
 quickactions-cmd-labs = laboratoriot, koe, labs, experiment
-quickactions-cmd-viewsource = näytä lähde, lähdekoodi
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Lue lisää pikatoiminnoista
@@ -577,9 +445,7 @@ identity-custom-root = Yhteys on suojattu varmenteella, jonka myöntäjää Mozi
 identity-passive-loaded = Tällä sivulla on suojaamatonta sisältöä (kuten kuvia).
 identity-active-loaded = Suojaamattoman sisällön estäminen on otettu pois päältä sivustolla.
 identity-weak-encryption = Sivusto käyttää heikkoa salausta.
-identity-insecure-login-forms = Tälle sivulle kirjoitettujen kirjautumistietojen turvallisuus voi vaarantua.
 identity-https-only-connection-upgraded = (päivitetty HTTPS:ksi)
-identity-https-only-label = Vain HTTPS -tila
 identity-https-only-label2 = Päivitä tämä sivusto automaattisesti suojattuun yhteyteen
 identity-https-only-dropdown-on =
     .label = Käytössä
@@ -587,8 +453,6 @@ identity-https-only-dropdown-off =
     .label = Ei käytössä
 identity-https-only-dropdown-off-temporarily =
     .label = Ei käytössä väliaikaisesti
-identity-https-only-info-turn-on2 = Ota Vain HTTPS -tila käyttöön tälle sivustolle, jos haluat, että { -brand-short-name } päivittää suojattuun yhteyteen mikäli mahdollista.
-identity-https-only-info-turn-off2 = Jos sivu näyttää rikkinäiseltä, saatat haluta poistaa Vain HTTPS -tilan käytöstä ja näin ladata sivun uudestaan käyttäen suojaamatonta HTTP:tä.
 identity-https-only-info-turn-on3 = Ota HTTPS-päivitykset käyttöön tälle sivustolle, jos haluat, että { -brand-short-name } päivittää yhteyden suojatuksi sen ollessa mahdollista.
 identity-https-only-info-turn-off3 = Jos sivu näyttää rikkinäiseltä, saatat haluta poistaa HTTPS-päivitykset käytöstä tältä sivustolta ladataksesi yhteyden uudelleen käyttämään suojaamatonta HTTP-yhteyttä.
 identity-https-only-info-no-upgrade = Yhteyden päivittäminen HTTP:stä epäonnistui.
@@ -612,7 +476,6 @@ identity-remove-cert-exception =
     .label = Poista poikkeus
     .accesskey = s
 identity-description-insecure = Yhteytesi verkkosivustoon ei ole yksityinen. Sivullisten on mahdollista tarkastella antamiasi tietoja (esim. salasanoja, viestejä, luottokorttitietoja).
-identity-description-insecure-login-forms = Kirjautumistiedot, jotka kirjoitat tälle sivulle, eivät ole suojassa ja voidaan murtaa.
 identity-description-weak-cipher-intro = Yhteytesi verkkosivustoon käyttää heikkoa salausta eikä sen takia ole yksityinen.
 identity-description-weak-cipher-risk = Sivullisten on mahdollista tarkastella antamiasi tietoja tai vaikuttaa sivuston toimintaan.
 identity-description-active-blocked2 = { -brand-short-name } on estänyt suojaamattoman sisällön näyttämisen.
@@ -623,12 +486,6 @@ identity-description-active-loaded = Tällä sivulla on suojaamatonta sisältö�
 identity-description-active-loaded-insecure = Sivullisten on mahdollista tarkastella antamiasi tietoja (esim. salasanoja, viestejä, luottokorttitietoja).
 identity-description-tls-key-logging-heading = Yhteytesi ei välttämättä ole suojattu
 identity-description-tls-key-logging-message = Sovellus tai palvelu saattaa nähdä salatun liikenteesi tältä sivustolta.
-identity-disable-mixed-content-blocking =
-    .label = Poista suojaus käytöstä
-    .accesskey = P
-identity-enable-mixed-content-blocking =
-    .label = Ota suojaus käyttöön
-    .accesskey = O
 identity-more-info-link-text =
     .label = Lisätietoja
 
@@ -645,38 +502,6 @@ browser-window-close-button =
 # Clicking this button closes the window and returns to the tab where it was opened from
 browser-window-return-to-opener =
     .tooltiptext = Palaa
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = TOISTETAAN
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = VAIMENNETTU
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = ÄÄNENTOISTO ESTETTY
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = KUVA KUVASSA
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] VAIMENNA VÄLILEHTI
-       *[other] VAIMENNA { $count } VÄLILEHTEÄ
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] PALAUTA ÄÄNI VÄLILEHTEEN
-       *[other] PALAUTA ÄÄNI { $count } VÄLILEHTEEN
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] TOISTA ÄÄNI VÄLILEHDELLÄ
-        [one] TOISTA ÄÄNI VÄLILEHDELLÄ
-       *[other] TOISTA ÄÄNI { $count } VÄLILEHDELLÄ
-    }
 
 ## Bookmarks toolbar items
 
@@ -717,10 +542,6 @@ sharing-warning-disable-for-session =
 
 webserial-select-port-label = Valitse sarjaportti:
 webserial-no-ports-available = Sarjaportteja ei ole käytettävissä
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = Käyttääksesi F12-pikanäppäintä, avaa ensin DevTools selaimen työkaluvalikosta.
 
 ## URL Bar
 
@@ -785,8 +606,6 @@ urlbar-extension =
     .value = Laajennus:
 urlbar-go-button2 =
     .title = Siirry osoitepalkissa olevaan osoitteeseen
-urlbar-go-button =
-    .tooltiptext = Siirry osoitepalkissa olevaan osoitteeseen
 urlbar-page-action-button =
     .tooltiptext = Sivun toiminnot
 urlbar-revert-button =
@@ -844,11 +663,6 @@ urlbar-result-action-tabtosearch-web = Hae hakukoneella { $engine } suoraan osoi
 urlbar-result-action-tabtosearch-other-engine = Hae hakukoneella { $engine } suoraan osoitepalkista
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Kopioi
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = määrittämätön
 # The sub title of an add-on suggestion in the urlbar.
@@ -859,23 +673,6 @@ urlbar-result-mdn-subtitle = { -mdn-brand-name }
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
 urlbar-result-suggestion-recommended = Suositeltu
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
-# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
-# The last = sign will be shown as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
-# Shows the result of a formula expression being calculated, to a maximum of 9 significant
-# digits. This is used for numbers < 1.
-# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 # The title of a weather suggestion in the urlbar. The temperature and unit
 # substring should be inside a <strong> tag. If the temperature and unit are not
 # adjacent in the localization, it's OK to include only the temperature in the
@@ -1064,32 +861,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Hae kohteesta { $l
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Hae käyttämällä { $engine }
-urlbar-searchmode-dropmarker =
-    .tooltiptext = Valitse hakukone
-urlbar-searchmode-bookmarks =
-    .label = Kirjanmerkit
-urlbar-searchmode-tabs =
-    .label = Välilehdet
-urlbar-searchmode-history =
-    .label = Sivuhistoria
-urlbar-searchmode-actions =
-    .label = Toiminnot
-urlbar-searchmode-exit-button =
-    .tooltiptext = Sulje
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = Tällä kertaa käytä hakuun:
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = Hakuasetukset
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button2 =
-    .label = { $engine }, valitse hakukone
-    .tooltiptext = { $engine }, valitse hakukone
-urlbar-searchmode-button-no-engine =
-    .label = Oikotietä ei ole valittu, valitse oikotie
-    .tooltiptext = Oikotietä ei ole valittu, valitse oikotie
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1196,16 +967,10 @@ urlbar-group-trending =
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Älä näytä suositujja hakuja
     .accesskey = Ä
-# Label shown above sponsored suggestions in the urlbar results.
-urlbar-group-sponsored =
-    .label = Sponsoroitu
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Älä näytä suositujja hakuja
     .accesskey = Ä
-urlbar-result-menu-trending-why =
-    .label = Miksi näen tämän?
-    .accesskey = M
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = Kiitos palautteestasi. Et näe enää suosittuja hakuja.
@@ -1290,12 +1055,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Piilota kirjanmerkkipalkki
            *[other] Näytä kirjanmerkkipalkki
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Poista Kirjanmerkit-valikko työkalupalkista
-           *[other] Lisää Kirjanmerkit-valikko työkalupalkkiin
-        }
 
 ##
 
@@ -1326,14 +1085,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = Kirjanmerkit
-library-recent-activity-title =
-    .value = Viimeisin toiminta
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Tallenna { -pocket-brand-name }-palveluun
-    .tooltiptext = Tallenna { -pocket-brand-name }-palveluun
 
 ## Repair text encoding toolbar button
 
@@ -1423,8 +1174,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = H
 
 ## Password save/update panel
 
-panel-save-update-username = Käyttäjätunnus
-panel-save-update-password = Salasana
 panel-save-update-username-2 =
     .label = Käyttäjätunnus
 panel-save-update-password-2 =
@@ -1446,33 +1195,18 @@ menu-share-copy-links =
            *[other] Kopioi { $count } linkkiä
         }
     .accesskey = l
-menu-share-copy-link =
-    .label = Kopioi linkki
-    .accesskey = l
 ui-tour-info-panel-close =
     .tooltiptext = Sulje
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
-popups-infobar-allow =
-    .label = Salli ponnahdusikkunat osoitteesta { $uriHost }
-    .accesskey = S
-popups-infobar-block =
-    .label = Estä ponnahdusikkunat osoitteesta { $uriHost }
-    .accesskey = S
 popups-infobar-allow2 =
     .label = Salli ponnahdusikkunat ja kolmannen osapuolen uudelleenohjaukset sivustolle { $uriHost }
     .accesskey = p
 
 ##
 
-popups-infobar-dont-show-message =
-    .label = Älä näytä tätä viestiä kun ponnahdusikkuna estetään
-    .accesskey = Ä
-edit-popup-settings =
-    .label = Hallitse ponnahdusasetuksia…
-    .accesskey = p
 picture-in-picture-hide-toggle =
     .label = Piilota kuva kuvassa -kytkin
     .accesskey = P
@@ -1498,8 +1232,6 @@ navbar-downloads =
     .label = Lataukset
 navbar-overflow-2 =
     .tooltiptext = Lisää työkaluja
-navbar-overflow =
-    .tooltiptext = Lisää työkaluja…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1602,13 +1334,8 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = Lopeta yksityinen istunto
-    .tooltiptext = Lopeta yksityinen istunto
 reset-pbm-panel-heading2 = Tyhjennetäänkö tiedot ja aloitetaanko uusi yksityinen istunto?
 reset-pbm-panel-description2 = Tämä poistaa historian, evästeet ja kaikki muut sivuston tiedot sulkematta yksityistä ikkunaa.
-reset-pbm-panel-heading = Lopetetaanko yksityinen istunto?
-reset-pbm-panel-description = Sulje kaikki yksityiset välilehdet ja poista historia, evästeet ja kaikki muut sivustotiedot.
 reset-pbm-panel-always-ask-checkbox =
     .label = Kysy aina
     .accesskey = A
@@ -1618,9 +1345,6 @@ reset-pbm-panel-cancel-button =
 reset-pbm-panel-confirm-button2 =
     .label = Tyhjennä yksityinen istunto
     .accesskey = i
-reset-pbm-panel-confirm-button =
-    .label = Poista istunnon tiedot
-    .accesskey = o
 reset-pbm-panel-complete = Yksityisen istunnon tiedot poistettu
 reset-pbm-toolbar-button2 =
     .label = Tyhjennä yksityinen istunto

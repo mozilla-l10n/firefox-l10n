@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Saat ini Anda berada pada mode FIPS. FIPS 
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Setel Ulang Sandi Utama
     .style = min-width: 40em
+    .title = Setel Ulang Sandi Utama
 reset-password-button-label =
     .label = Setel Ulang
 reset-primary-password-text = Jika Anda menyetel ulang sandi utama, semua sandi web dan email, data form, sertifikat pribadi, dan kunci pribadi akan hilang. Yakin akan menyetel ulang Sandi Utama?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Sandi Utama telah disetel ulang.
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Mengunduh Sertifikat
     .style = min-width: 46em
+    .title = Mengunduh Sertifikat
 download-cert-message = Anda diminta untuk mempercayai Otoritas Sertifikat (CA) yang baru.
 download-cert-trust-ssl =
     .label = Percayai CA ini untuk mengidentifikasi situs web.
@@ -52,8 +52,6 @@ download-cert-view-text = Periksa sertifikat CA
 
 client-auth-window =
     .title = Permintaan Identifikasi Pengguna
-client-auth-site-description = Situs telah meminta identifikasi Anda dengan sertifikat:
-client-auth-choose-cert = Pilih sertifikat untuk mewakili proses identifikasi:
 client-auth-send-no-certificate =
     .label = Jangan kirim sertifikat
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Silakan autentikasi ke perangkat keamanan ({ $tokenName }). Cara melakukannya tergantung pada perangkat (misalnya, menggunakan pembaca sidik jari atau memasukkan kode dengan papan tombol).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Autentikasikan dengan token “{ $tokenName }”. Cara melakukannya bergantung pada jenis token (misalnya, menggunakan pembaca sidik jari atau memasukkan kode dengan papan tombol).

@@ -32,9 +32,6 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Sānjoslas paplašinājumi
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name } rīki
 sidebar-customize-firefox-settings = Pārvaldīt { -brand-short-name } iestatījumus
 sidebar-vertical-tabs =
     .label = Vertikālas cilnes
@@ -51,8 +48,6 @@ sidebar-show-preview-on-hover =
 
 sidebar-context-menu-manage-extension =
     .label = Pārvaldīt paplašinājumu
-sidebar-context-menu-remove-extension =
-    .label = Izņemt paplašinājumu
 sidebar-context-menu-report-extension =
     .label = Ziņot par paplašinājumu
 sidebar-context-menu-customize-sidebar =

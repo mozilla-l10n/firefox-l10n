@@ -15,20 +15,12 @@ experimental-features-js-warp-description = Activar Warp, un proxecto para mello
 experimental-features-ime-search =
     .label = Barra de enderezos: amosar os resultados durante a composición IME
 experimental-features-ime-search-description = Un IME (Editor de método de entrada) é unha ferramenta que lle permite escribir símbolos complexos, tales como os utilizados na escrita de idiomas do leste asiático ou índico, utilizando un teclado estándar. Activando este experimento, manterase aberto o panel da barra de enderezos, que amosará os resultados da busca e suxestións, mentres se utiliza o IME para escribir texto. Note que o IME pode presentar un panel que cobre os resultados da barra de enderezos; daquela, esta preferencia só é unha suxestión para o IME que non utiliza este tipo de panel.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Picture-in-Picture: abrir automaticamente ao cambiar de pestana
-experimental-features-auto-pip-description = Activa Picture-in-Picture en vídeos activos ao cambiar de pestana.
 experimental-features-group-developer-tools =
     .label = Ferramentas de desenvolvemento
 experimental-features-group-webpage-display =
     .label = Visualización da páxina web
 experimental-features-group-customize-browsing =
     .label = Personaliza a túa navegación
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Contrasinais na barra lateral
-experimental-features-contextual-password-manager-description = Accede aos teus contrasinais dende a barra lateral. Evita a busca e o restablecemento de contrasinais cando intentes iniciar sesión. Para usar esta función, selecciona contrasinais na barra lateral. A continuación, vai á túa configuración xeral e, en deseño do navegador, elixe mostrar barra lateral. Despois, personaliza a túa barra lateral seleccionando contrasinais. Se o probas, <a data-l10n-name="connect">indícanos o que pensas</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Escolle un fondo ou unha cor personalizados para a nova pestana

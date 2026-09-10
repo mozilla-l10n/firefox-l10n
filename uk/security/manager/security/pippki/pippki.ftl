@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Зараз ви в режимі FIPS. Дл
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Скинути головний пароль
     .style = min-width: 40em
+    .title = Скинути головний пароль
 reset-password-button-label =
     .label = Скинути
 reset-primary-password-text = Якщо ви скинете свій головний пароль, усі збережені паролі до Інтернету та електронної пошти, особисті сертифікати та закриті ключі будуть втрачені. Ви дійсно хочете скинути свій головний пароль?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Ваш головний парол�
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Завантаження сертифіката
     .style = min-width: 46em
+    .title = Завантаження сертифіката
 download-cert-message = Вас просять довіряти новому центру сертифікації (CA).
 download-cert-trust-ssl =
     .label = Довіряти при ідентифікації вебсайтів.
@@ -52,8 +52,6 @@ download-cert-view-text = Перевірити сертифікат центру
 
 client-auth-window =
     .title = Запит ідентифікації користувача
-client-auth-site-description = Сайт питає, з яким сертифікатом вас асоціювати:
-client-auth-choose-cert = Виберіть сертифікат для ідентифікації:
 client-auth-send-no-certificate =
     .label = Не надсилати сертифікат
 # Variables:
@@ -100,9 +98,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Пароль резервної копії (ще раз):
 set-password-reminder = Увага: якщо ви забудете ваш пароль резервної копії сертифіката, ви не зможете відновити цю резервну копію пізніше. Цю інформацію треба зберігати в безпечному місці.
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Будь ласка, автентифікуйте токен “{ $tokenName }”. Спосіб автентифікації залежить від токена (наприклад, використання засобу зчитування відбитка пальця або введення коду на клавіатурі).

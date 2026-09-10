@@ -62,17 +62,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = మీ ఇష్టాంశాలను ప్రతిచోటా సింక్రనించుకోండి.
-cfr-doorhanger-bookmark-fxa-body = భలే కనుక్కొన్నారు! ఇప్పుడు మీ చరవాణి పరికరాల్లో ఈ ఇష్టాంశం లేకుండా ఉండకండి. { -fxaccount-brand-name } మొదలుపెట్టండి.
 cfr-doorhanger-bookmark-fxa-link-text = ఇష్టాంశాలను ఇప్పుడు సింక్రనించు…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = మూసివేయు బొత్తం
     .title = మూసివేయి
-
-## Protections panel
-
-cfr-protections-panel-header = అనుసరింపబడకుండా విహరించండి
-cfr-protections-panel-body = మీ డేటాను మీ వద్దనే ఉంచుకోండి. ఆన్‌లైన్‌లో మీ జాడ తెలుసుకునే చాలా సామాన్య ట్రాకర్ల నుండి { -brand-short-name } మిమ్మల్ని కాపాడుతుంది.
-cfr-protections-panel-link-text = ఇంకా తెలుసుకోండి
 
 ## What's New toolbar button and panel
 
@@ -137,22 +130,8 @@ spotlight-pin-secondary-button = ఇప్పుడు కాదు
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = నాకు తర్వాత గుర్తు చేయి
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = ప్రయత్నించు
-    .accesskey = T
-firefoxview-cfr-secondarybutton = ఇప్పుడు కాదు
-    .accesskey = N
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-primarybutton = ఎలా పనిచేస్తుందో చూడండి
-firefoxview-spotlight-promo-secondarybutton = దాటవేయి
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-dismiss-button = ఇప్పుడు కాదు
-    .accesskey = N
 cookie-banner-blocker-onboarding-learn-more = ఇంకా తెలుసుకోండి
 
 ## These strings are used in the Fox doodle Pin/set default spotlights

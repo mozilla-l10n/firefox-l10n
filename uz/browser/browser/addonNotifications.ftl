@@ -20,22 +20,10 @@ xpinstall-prompt-dont-allow =
 xpinstall-prompt-never-allow =
     .label = Hech qachon ruxsat berilmasin
     .accesskey = H
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = Dastur oʻrnatish tizim administratori tomonidan oʻchirilgan.
 xpinstall-disabled = Dastur oʻrnatish hozircha oʻchirilgan. "Yoqish" tugmasini bosing va qaytadan urining.
 xpinstall-disabled-button =
     .label = Yoqish
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) tizim administratori tomonidan bloklangan.
 addon-install-full-screen-blocked = Butun ekran rejimida yoki unga kirishdan oldin qoʻshimcha dastur oʻrnatishga ruxsat berilmaydi.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -95,4 +83,3 @@ addon-local-install-error-not-signed = Bu qo‘shimcha dasturni o‘rnatib bo‘
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName }’ni o‘rnatib bo‘lmaydi, chunki u { -brand-short-name } { $appVersion } bilan mos emas.
-addon-install-error-blocklisted = { $addonName } o‘rnatilmadi, chunki unda kompyuteringizni yaxshi ishlamasligiga va xavfsizlik muammolariga sabab bo‘luvchi yuqori xavf bor.

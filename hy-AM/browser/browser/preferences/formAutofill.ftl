@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Պահպանված հասցեներ
 autofill-manage-addresses-list-header = Հասցեներ
-autofill-manage-credit-cards-title = Պահպանված բանկային քարտեր
-autofill-manage-credit-cards-list-header = Բանկային քարտեր
 autofill-manage-payment-methods-title = Պահված վճարամիջոցներ
 autofill-manage-cards-list-header = Քարտեր
 autofill-manage-dialog =
@@ -44,15 +42,10 @@ address-capture-open-menu-button =
     .aria-label = Բացել ցանկը
 address-capture-edit-address-link = Խմբագրել հասցեն
     .aria-label = Խմբագրել հասցեն
-address-capture-edit-address-button =
-    .aria-label = Խմբագրել հասցեն
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Ավելացնել հասցե
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Խմբագրել հասցեն
-autofill-address-given-name = Անուն
-autofill-address-additional-name = Հայրանուն
-autofill-address-family-name = Ազգանուն
 autofill-address-name = Անուն
 autofill-address-organization = Կազմակերպություն
 autofill-address-street-address = Փողոցի հասցե
@@ -100,8 +93,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Ավելացնել նոր հասցե
 autofill-address-country = Երկիր կամ տարածաշրջան
 autofill-address-country-only = Երկիր
 autofill-address-tel = Հեռախոս
@@ -109,18 +100,6 @@ autofill-address-email = Էլ. փոստ
 autofill-cancel-button = Չեղարկել
 autofill-save-button = Պահպանել
 autofill-country-warning-message = Ինքնալրացման ձևը այժմ մատչելի է միայն որոշ երկրների համար:
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Ավելացնել նոր բանկային քարտ
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Խմբագրել բանկային քարտը
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] ցույց տալ բանկային քարտի տեղեկությունները
-        [windows] { -brand-short-name }-ը փորձում է ցուցադրել վարկային քարտի տեղեկություն։ Հաստատեք ստորև այս պատուհանների էջի մատչումը։
-       *[other] { -brand-short-name }-ը փորձում է ցցուցադրել բանկային քարտի տեղեկությունը։
-    }
 autofill-message-tooltip = Տեսնել ինքնալրացման մասին հաղորդագրությունը
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Ավելացնել քարտ
@@ -139,15 +118,3 @@ autofill-card-expires-month = Սպռ. ամիս
 autofill-card-expires-year = Սպռ. տարի
 autofill-card-billing-address = Վճարման հասցե
 autofill-card-network = Քարտի Տեսակ
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = Ամերիկական էքսպրես
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Հայտնաբերել
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Միավորման վճար
-autofill-card-network-visa = Վիզա

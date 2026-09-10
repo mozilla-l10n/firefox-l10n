@@ -47,7 +47,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Descodador de donadas ({ $pid })
 about-processes-socket-process = Ret ({ $pid })
-about-processes-remote-sandbox-broker-process = Agent de nauc de sabla distant ({ $pid })
 about-processes-fork-server-process = Còpia del servidor ({ $pid })
 about-processes-preallocated-process = Prealogat ({ $pid })
 about-processes-utility-process = Utilitat ({ $pid })
@@ -56,17 +55,6 @@ about-processes-utility-process = Utilitat ({ $pid })
 #    $pid (String) The process id of this process, assigned by the OS.
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = Autre : { $type } ({ $pid })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, ServiceWorker)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, processús multiorigina isolat)
-about-processes-web-isolated-process-private = { $origin } — Privat ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } — Privat ({ $pid }, processús multiorigina isolat)
 
 ## Details within processes
 

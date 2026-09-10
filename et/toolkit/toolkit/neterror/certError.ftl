@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Sertifikaati ei usaldata, kuna selle väljaa
 cert-error-trust-signature-algorithm-disabled = Sertifikaati ei usaldata, kuna see signeeriti signeerimisalgoritmiga, mis oli keelatud algoritmi ebaturvalisuse tõttu.
 cert-error-trust-expired-issuer = Sertifikaati ei usaldata, kuna selle väljaandja sertifikaat on aegunud.
 cert-error-trust-self-signed = Sertifikaati ei usaldata, kuna selle on signeerinud sertifikaadi omanik.
-cert-error-trust-symantec = Serte, mille väljaandjaks on GeoTrust, RapidSSL, Symantec, Thawte või VeriSign, ei peeta enam ohutuks, kuna need sertifitseerimiskeskused ei suutnud minevikus järgida vajalikke turvapraktikaid.
 cert-error-untrusted-default = Sertifikaat ei tule usaldatud allikast.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -52,10 +51,6 @@ cert-error-code-prefix-link = Veakood: <a data-l10n-name="error-code-link">{ $er
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Ühendumisel aadressiga { $hostname } esines viga. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Saidid tõestavad oma identiteeti turvasertide abil, mille on välja andnud sertifitseerimiskeskused. Enamik brausereid ei usalda enam serte, mille on välja andnud GeoTrust, RapidSSL, Symantec, Thawte või VeriSign. Sait { $hostname } kasutab serti, mille on väljastanud üks eelnimetatud sertifitseerimiskeskustest ja seetõttu pole selle saidi identiteeti võimalik tõestada.
-cert-error-symantec-distrust-admin = Sa võid teavitada saidi administraatorit sellest probleemist.
 cert-error-old-tls-version = See sait ei pruugi toetada protokolli TLS 1.2, mis on { -brand-short-name }i minimaalne toetatud versioon.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -64,7 +59,6 @@ cert-error-details-hsts-label = HTTP Strict Transport Security tehnoloogia: { $h
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning tehnoloogia: { $hasHPKP }
 cert-error-details-cert-chain-label = Sertifikaadiahel:
-open-in-new-window-for-csp-or-xfo-error = Ava sait uues aknas
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Sinu turvalisuse tagamiseks ei luba sait { $hostname } { -brand-short-name }il seda lehte teise saidi sees kuvada. Selle lehe nägemiseks pead selle avama uues aknas.
@@ -97,7 +91,6 @@ redirectLoop-title = Veebileht pole korralikult ümber suunatud
 unknownSocketType-title = Ootamatu vastus serverilt
 nssFailure2-title = Turvalise ühenduse viga
 csp-xfo-error-title = { -brand-short-name }il pole võimalik seda lehte avada
-corruptedContentError-title = Vigane sisu
 sslv3Used-title = Turvaline ühendumine pole võimalik
 inadequateSecurityError-title = Ühendus pole turvaline
 blockedByPolicy-title = Blokitud leht

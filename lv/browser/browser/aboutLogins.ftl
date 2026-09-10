@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Lietotājvārdi un paroles
-about-logins-login-filter =
-    .key = F
-    .placeholder = Meklēt pieteikumvārdus
-create-new-login-button =
-    .title = Izveidot jaunu lietotājvārdu
 about-logins-page-title-name = Paroles
 about-logins-login-filter2 =
     .key = F
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Ievietot datus no cita pārlūka…
 about-logins-menu-menuitem-import-from-a-file = Ievietot no datnes…
-about-logins-menu-menuitem-export-logins = Izgūt pieteikšanās vienumus…
-about-logins-menu-menuitem-remove-all-logins = Noņemt visus lietotājvārdus…
 about-logins-menu-menuitem-export-logins2 = Izgūt paroles…
 about-logins-menu-menuitem-remove-all-logins2 = Izņemt visas paroles…
 menu-menuitem-preferences =
@@ -42,23 +34,6 @@ about-logins-menu-menuitem-help = Palīdzība
 
 login-list =
     .aria-label = Meklēšanas nosacījumiem atbilstošie lietotājvārdi
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [zero] { $count } lietotājvārds
-        [one] { $count } lietotājvārdi
-       *[other] { $count } lietotājvārdu
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [zero] { $count } no { $total } lietotājvārdiem
-        [one] { $count } no { $total } lietotājvārdiem
-       *[other] { $count } no { $total } lietotājvārdu.
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -84,14 +59,10 @@ login-list-username-reverse-option = Lietotājvārds (Z-A)
 about-logins-login-list-alerts-option = Brīdinājumi
 login-list-last-changed-option = Pēdējoreiz mainīts
 login-list-last-used-option = Pēdējoreiz lietots
-login-list-intro-title = Lietotājvārdi nav atrasti
 login-list-intro-title2 = Nav saglabātu paroļu
 login-list-intro-description = Kad jūs saglabājat paroli { -brand-product-name }, tā parādās šeit.
-about-logins-login-list-empty-search-title = Lietotājvārdi nav atrasti
 about-logins-login-list-empty-search-title2 = Netika atrasta neviena parole
 about-logins-login-list-empty-search-description = Nekas neatbilst meklētajam.
-login-list-item-title-new-login = Jauns lietotājvārds
-login-list-item-subtitle-new-login = Ievadiet savus lietotājvārda datus
 login-list-item-title-new-login2 = Pievienot paroli
 login-list-item-subtitle-missing-username = (nav lietotājvārda)
 about-logins-list-item-breach-icon =
@@ -107,28 +78,20 @@ about-logins-list-section-week = Pēdējās 7 dienās
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Meklē saglabātos pieteikšanās vienumus? Ieslēdz vienādošanu vai ievieto tās!
-about-logins-login-intro-heading-logged-in = Nav atrastu sinhronizēto lietotājvārdu un paroļu.
-login-intro-description = Ja esat saglabājuši savas paroles iekšā { -brand-product-name } uz citas ierīces,  šeit ir aprakstīts, kā tās dabūt:
-login-intro-instructions-fxa = Izveidojiet jaunu kontu uz sava { -fxaccount-brand-name } uz ierīces, kur tika saglabātas jūsu paroles.
 about-logins-login-intro-heading-message = Saglabājiet savas paroles drošā vietā
 login-intro-description2 = Visas paroles, kuras saglabājat uz { -brand-product-name } ir šifrētas. Mēs arī uzraugām, vai ir notikušas paroļu noplūdes, un brīdinām jūs, ja jūsu paroles ir ietekmētas. <a data-l10n-name="breach-alert-link">Uzziniet vairāk</a>
 login-intro-instructions-fxa2 = Izveidojiet vai ierakstieties savā kontā uz ierīces, kur ir saglabāti jūsu lietotājvārdi.
 login-intro-instructions-fxa-settings = Ejiet uz Iestatījumi > Sinhronizācija > Ieslēgt sinhronizāciju… Atlasiet atzīmes rūtiņu LIetotājvārdi un paroles.
 login-intro-instructions-fxa-passwords-help = Apmeklējiet <a data-l10n-name="passwords-help-link">paroļu atbalstu</a>, lai saņemtu vairāk palīdzības.
-about-logins-intro-browser-only-import = Ja pieteikšanās vienumi ir saglabāti citā pārlūkā, tos var <a data-l10n-name="import-link">ievietot { -brand-product-name }</a>.
-about-logins-intro-import2 = Ja pieteikšanās vienumi ir saglabāti ārpus { -brand-product-name }, tos var <a data-l10n-name="import-browser-link">ievietot no cita pārlūka</a> vai <a data-l10n-name="import-file-link">datnes</a>
 about-logins-intro-import3 = Jāatlasa augstāk esošā plus zīmes poga, lai uzreiz pievienotu paroli. Paroles var arī <a data-l10n-name="import-browser-link">ievietot no cita pārlūka</a> vai <a data-l10n-name="import-file-link">datnes</a>.
 
 ## Login
 
-login-item-new-login-title = Jauna lietotājvārda izveide
 # Header for adding a password
 about-logins-login-item-new-login-title = Pievienot paroli
 login-item-edit-button = Labot
 about-logins-login-item-remove-button = Noņemt
 login-item-origin-label = Vietnes adrese
-login-item-tooltip-message = Pārliecinieties, vai tas precīzi atbilst tās vietnes adresei, kurā ierakstāties.
 about-logins-origin-tooltip2 = Ievadiet pilnu adresi un pārliecinieties, vai tā precīzi atbilst vietai, kur ierakstāties.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -148,7 +111,6 @@ login-item-password-conceal-checkbox =
     .aria-label = Paslēpt paroli
 login-item-copy-password-button-text = Kopēt
 login-item-copied-password-button-text = Nokopēts!
-login-item-save-changes-button = Saglabāt izmaiņas
 about-logins-login-item-save-changes-button = Saglabāt
 login-item-save-new-button = Saglabāt
 login-item-cancel-button = Atcelt
@@ -172,11 +134,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Lai labotu savu lietotājvārdu, jāievada Windows pieteikšanās informācija. Tas palīdz sargāt kontu drošību.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = labot saglabāto pieteikšanās vienumu
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -200,11 +157,6 @@ about-logins-copy-password-os-auth-dialog-message-win = Lai kopētu savu paroli,
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopēt saglabāto paroli
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Lai izgūtu savus pieteikšanās vienumus, jāievada savi Windows pieteikšanās dati. Tas palīdz aizsargāt kontu drošību.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = izgūt saglabātos lietotājvārdus un paroles
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = Lai izgūtu savas paroles, jāievada Windows pieteikšanās dati. Tas palīdz aizsargāt kontu drošību.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -222,8 +174,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Atcelt
 confirmation-dialog-dismiss-button =
     .title = Atcelt
-about-logins-confirm-remove-dialog-title = Izņemt šo lietotājvārdu?
-confirm-delete-dialog-message = Šo darbību nevar atsaukt.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Izņemt paroli?
 # Message for modal to confirm the removal of one saved password
@@ -239,39 +189,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [zero] Dzēst visu
         [one] Dzēst visu
        *[other] Dzēst visu
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] Jā, izņemt šo lietotājvārdu
-        [zero] Jā, izņemt šos lietotājvārdus
-        [one] Jā, izņemt šos lietotājvārdus
-       *[other] Jā, izņemt šos lietotājvārdus
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [zero] Izņemt { $count } lietotājvārdu?
-        [one] Izņemt { $count } lietotājvārdus?
-       *[other] Izņemt { $count } lietotājvārdu?
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] Šis izņems lietotājvārdu, kuru saglabājāt { -brand-short-name }, un visus šeit redzamos brīdinājumus par datu noplūdēm. Šo darbību nevarēs atsaukt.
-        [zero] Šis izņems lietotājvārdus, kurus saglabājāt { -brand-short-name }, un visus šeit redzamos brīdinājumus par datu noplūdēm. Šo darbību nevarēs atsaukt.
-        [one] Šis izņems lietotājvārdus, kurus saglabājāt { -brand-short-name }, un visus šeit redzamos brīdinājumus par datu noplūdēm. Šo darbību nevarēs atsaukt.
-       *[other] Šis izņems lietotājvārdus, kurus saglabājāt { -brand-short-name }, un visus šeit redzamos brīdinājumus par datu noplūdēm. Šo darbību nevarēs atsaukt.
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [zero] Noņemt { $count } lietotājvārdu no visām ierīcēm?
-        [one] Noņemt { $count } lietotājvārdus no visām ierīcēm?
-       *[other] Noņemt { $count } lietotājvārdus no visām ierīcēm?
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [1] Tādējādi tiks izņemts lietotājvārds, ko esat saglabājis { -brand-short-name }, visās ierīcēs, kas sinhronizētas ar jūsu { -fxaccount-brand-name }. Tādējādi tiks noņemti arī šeit redzamie brīdinājumi par datu noplūdēm. Šo darbību nevarēs atsaukt.
-        [zero] Tādējādi tiks izņemti visi lietotājvārdi, ko esat saglabājis { -brand-short-name }, visās ierīcēs, kas sinhronizētas ar jūsu { -fxaccount-brand-name }. Tādējādi tiks noņemti arī šeit redzamie brīdinājumi par datu noplūdēm. Šo darbību nevarēs atsaukt.
-        [one] Tādējādi tiks izņemti visi lietotājvārdi, ko esat saglabājis { -brand-short-name }, visās ierīcēs, kas sinhronizētas ar jūsu { -fxaccount-brand-name }. Tādējādi tiks noņemti arī šeit redzamie brīdinājumi par datu noplūdēm. Šo darbību nevarēs atsaukt.
-       *[other] Tādējādi tiks izņemti visi lietotājvārdi, ko esat saglabājis { -brand-short-name }, visās ierīcēs, kas sinhronizētas ar jūsu { -fxaccount-brand-name }. Tādējādi tiks noņemti arī šeit redzamie brīdinājumi par datu noplūdēm. Šo darbību nevarēs atsaukt.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -314,15 +231,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = Izgūt lietotājvārdus un paroles
-about-logins-confirm-export-dialog-message = Tavas paroles tiks saglabātas kā lasāms teksts (piemēram, S1ikt@Pa0le), tāpēc ikviens, kurš var atvērt izgūto datni, varēs tās apskatīt.
-about-logins-confirm-export-dialog-confirm-button = Izgūt…
 about-logins-confirm-export-dialog-title2 = Piezīme par paroļu izgūšanu
 about-logins-confirm-export-dialog-message2 =
     Izgūšanas laikā paroles tiek saglabātas datnē ar lasāmā veidā.
     Kad datnes izmantošana ir pabeigta, ir ieteicams to izdzēst, lai citi, kuri izmanto šo ierīci, nevarētu redzēt Tavas paroles.
 about-logins-confirm-export-dialog-confirm-button2 = Turpināt izgūšanu
-about-logins-alert-import-title = Ievietošana pabeigta
 about-logins-alert-import-message = Skatīt izvērstu ievietošanas kopsavilkumu
 confirm-discard-changes-dialog-title = Vai atmest nesaglabātās izmaiņas?
 confirm-discard-changes-dialog-message = Visas nesaglabātās izmaiņas tiks zaudētas.
@@ -359,11 +272,6 @@ about-logins-error-message-default = Radās kļūda, mēģinot saglabāt šo par
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Izgūt pieteikšanās vienumu datni
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = lietotājvārdi.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = Izgūt paroles no { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -379,8 +287,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = Ievietot pieteikšanās vienumu datni
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = ievietot paroles { -brand-short-name }
 about-logins-import-file-picker-import-button = Ievietot
@@ -404,24 +310,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Importēšana ir pabeigta
-about-logins-import-dialog-items-added =
-    { $count ->
-        [zero] <span>Pievienoti jauni lietotājvārdi:</span> <span data-l10n-name="count">{ $count }</span>
-        [one] <span>Pievienoti jauni lietotājvārdi:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Pievienoti jauni lietotājvārdi:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-        [zero] <span>Atjaunināti esošie lietotājvārdi:</span> <span data-l10n-name="count">{ $count }</span>
-        [one] <span>Atjaunināti esošie lietotājvārdi:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Atjaunināti esošie lietotājvārdi:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-        [zero] <span>Atrasti atkārtojošies pieteikšanās vienumi:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav ievietoti)</span >
-        [one] <span>Atrasti atkārtojošies pieteikšanās vienumi:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav ievietoti)</span >
-       *[other] <span>Atrasti atkārtojošies pieteikšanās vienumi:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav ievietoti)</span >
-    }
 about-logins-import-dialog-items-added2 =
     { $count ->
         [zero] <span>Pievienotas jaunas paroles:</span> <span data-l10n-name="count">{ $count }</span>
@@ -461,15 +349,11 @@ about-logins-import-dialog-error-learn-more = Uzzināt vairāk
 about-logins-import-dialog-error-try-import-again = Mēģināt ievietot vēlreiz…
 about-logins-import-dialog-error-cancel = Atcelt
 about-logins-import-report-title = Ievietot kopsavilkumu
-about-logins-import-report-description = Lietotāji un paroles ievietoti { -brand-short-name }.
 about-logins-import-report-description2 = Paroles ievietotas { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Rinda { $number }
-about-logins-import-report-row-description-no-change = Dublikāts: precīza atbilstība ar esošu lietotāju
-about-logins-import-report-row-description-modified = Esošais lietotājvārds ir atjaunināts
-about-logins-import-report-row-description-added = Pievienots jauns lietotājvārds
 about-logins-import-report-row-description-no-change2 = Dublikāts: precīza atbilstība ar esošu ierakstu
 about-logins-import-report-row-description-modified2 = Esošais ieraksts ir atjaunināts
 about-logins-import-report-row-description-added2 = Pievienota jauna parole
@@ -486,24 +370,6 @@ about-logins-import-report-row-description-error-missing-field = Kļūda: trūks
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Pievienoti jauni lietotājvārdi</div>
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Pievienoti jauni lietotājvārdi</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Pievienoti jauni lietotājvārdi</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Esošie lietotājvārdi ir atjaunināti</div>
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Esošie lietotājvārdi ir atjaunināti</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Esošie lietotājvārdi ir atjaunināti</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">pieteikšanās vienumu, kas atkārtojas</div> <div data-l10n-name="not-imported">(nav ievietoti)</div>
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">pieteikšanās vienumi, kas atkārtojas</div> <div data-l10n-name="not-imported">(nav ievietoti)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">pieteikšanās vienumi, kas atkārtojas</div> <div data-l10n-name="not-imported">(nav ievietoti)</div>
-    }
 about-logins-import-report-added2 =
     { $count ->
         [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Pievienota jauna parole</div>

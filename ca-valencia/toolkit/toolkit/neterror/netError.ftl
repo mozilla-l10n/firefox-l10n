@@ -23,13 +23,11 @@ neterror-override-exception-button = Accepte el risc i vull continuar
 neterror-pref-reset-button = Restaura la configuració per defecte
 neterror-return-to-previous-page-button = Vés arrere
 neterror-return-to-previous-page-recommended-button = Vés arrere (recomanat)
-neterror-try-again-button = Torna-ho a provar
 neterror-view-certificate-link = Mostra el certificat
 
 ##
 
 neterror-pref-reset = Pareix que la configuració actual de seguretat a la xarxa està causant este error. Voleu utilitzar la configuració per defecte?
-neterror-error-reporting-automatic = Informa dels errors com este per ajudar a { -vendor-short-name } a identificar i a blocar els llocs maliciosos
 
 ## Specific error messages
 
@@ -46,8 +44,6 @@ neterror-file-not-found-moved = Comproveu que el fitxer no s'haja mogut, canviat
 neterror-access-denied = Pot ser que s'haja eliminat, que s'haja traslladat o que els permisos del fitxer n'impedisquen l'accés.
 neterror-unknown-protocol = Pot ser que calga que instal·leu altre programari per obrir l'adreça.
 neterror-redirect-loop = Això podria passar per haver inhabilitat o rebutjat l'acceptació de galetes.
-neterror-unknown-socket-type-psm-installed = Assegureu-vos que el vostre sistema té un gestor de seguretat personal instal·lat.
-neterror-unknown-socket-type-server-config = Això podria ser a causa d'una configuració no estàndard del servidor.
 neterror-not-cached-intro = El document sol·licitat ja no està disponible a la memòria cau del { -brand-short-name }.
 neterror-not-cached-sensitive = Per precaució, el { -brand-short-name } no tornarà a sol·licitar automàticament els documents sensibles.
 neterror-not-cached-try-again = Feu clic a «Torna-ho a provar» per tornar a sol·licitar el document al lloc web.

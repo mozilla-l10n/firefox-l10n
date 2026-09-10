@@ -23,7 +23,6 @@ neterror-override-exception-button = ঝুঁকি নিন এবং চা�
 neterror-pref-reset-button = ডিফল্ট সেটিং পুনঃস্থাপন করুন
 neterror-return-to-previous-page-button = পিছনে ফিরে যাও
 neterror-return-to-previous-page-recommended-button = পেছনে যান (সুপারিশকৃত)
-neterror-try-again-button = আবার চেষ্টা করুন
 neterror-view-certificate-link = সার্টিফিকেট প্রদর্শন
 
 ##
@@ -52,8 +51,6 @@ neterror-file-not-found-moved = ফাইলের স্থান, নাম �
 neterror-access-denied = এটা মুছে ফেলা হতে পারে, সরিয়ে নেয়া হতে পারে, অথবা ফাইল প্রবেশাধিকার প্রতিরোধ করা হয়ে থাকতে পারে।
 neterror-unknown-protocol = এই ঠিকানা খোলার জন্য অন্য সফটওয়্যার ইনস্টল করার প্রয়োজন হতে পারে।
 neterror-redirect-loop = কুকি নিষ্ক্রিয় অথবা প্রত্যাখ্যান করা হলে এই সমস্যা হওয়ার সম্ভাবনা আছে।
-neterror-unknown-socket-type-psm-installed = আপনার সিস্টেমে ব্যক্তিগত নিরাপত্তা ব্যবস্থা উপস্থিত রয়েছে কিনা তা পরীক্ষা করুন।
-neterror-unknown-socket-type-server-config = সার্ভারে আদর্শ কনফিগারেশন না থাকার ফলে এই সমস্যাটি হতে পারে।
 neterror-not-cached-intro = { -brand-short-name }' এর ক্যাশে আপনি যে নথিটি চেয়েছেন তা পাওয়া যাচ্ছে না।
 neterror-not-cached-sensitive = নিরাপত্তার জন্য, { -brand-short-name } নাজুক নথির জন্য পুনরায় অনুরোধ পাঠাবে না।
 neterror-not-cached-try-again = আবার চেষ্টা করুন বাটনে ক্লিক করে ওয়েবসাইট থেকে নথিটি পুনরায় অনুরোধ করুন।

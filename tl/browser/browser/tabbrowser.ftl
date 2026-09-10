@@ -16,11 +16,6 @@ tabbrowser-tab-tooltip-tab-group = { $tabGroupName }
 #   $tabGroupName (String): the user-defined name of the current tab group.
 #   $containerName (String): the name of the current container.
 tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -28,14 +23,6 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [one] Isara ang tab
-           *[other] Isara mga ang { $tabCount } tab
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [one] Isara ang tab
            *[other] Isara mga ang { $tabCount } tab

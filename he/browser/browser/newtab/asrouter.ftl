@@ -62,7 +62,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = סנכרון הסימניות שלך לכל מקום.
-cfr-doorhanger-bookmark-fxa-body = מציאה מעולה! אל תישארו ללא הסימנייה הזו במכשירים הניידים שלכם. התחילו לעבוד עם { -fxaccount-brand-name(case: "the") }.
 cfr-doorhanger-bookmark-fxa-link-text = סנכרון הסימניות כעת…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = כפתור סגירה
@@ -74,12 +73,6 @@ fxa-adoption-credit-cards-backup-subtitle = ניתן להגן על אמצעי ה
 fxa-adoption-bookmarks-treatment-backup-title = בואו נגבה את הסימניות שלך
 fxa-adoption-bookmarks-treatment-backup-subtitle = ניתן להגן על הסימניות שלך על־ידי סנכרונם למכשירים שלך באמצעות הצפנה.
 fxa-adoption-primary-button-label = הרשמה
-
-## Protections panel
-
-cfr-protections-panel-header = לגלוש מבלי שעוקבים אחריך
-cfr-protections-panel-body = הנתונים שלך נשארים אצלך. { -brand-short-name } מגן עליך מפני רוב רכיבי הריגול שעוקבים אחר הפעילות המקוונת שלך.
-cfr-protections-panel-link-text = מידע נוסף
 
 ## What's New toolbar button and panel
 
@@ -175,37 +168,8 @@ mr2022-background-update-toast-primary-button-label = פתיחת { -brand-shorte
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = להזכיר לי מאוחר יותר
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = בואו ננסה
-    .accesskey = נ
-firefoxview-cfr-secondarybutton = לא כעת
-    .accesskey = ל
-firefoxview-cfr-header-v2 = להמשיך בזריזות מאיפה שהפסקת
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = תגידו שלום ל־{ -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = רוצה את הלשונית הפתוחה הזאת שבטלפון שלך? קיבלת. יש לך צורך באתר שבדיוק עכשיו ביקרת? פוף, הנה הוא כאן ב־{ -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = כיצד זה עובד
-firefoxview-spotlight-promo-secondarybutton = דילוג
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = בחירת ערכת צבעים
-    .accesskey = ב
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = צבעו את הדפדפן שלכם בגוונים בלעדיים של { -brand-short-name } בהשראת קולות שמשנים תרבות.
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = לאפשר ל־{ -brand-short-name } לדחות כרזות עוגיות?
-cfr-cbh-body = ‏{ -brand-short-name } יכול לדחות באופן אוטומטי מגוון רחב של בקשות כרזות עוגיות.
-cfr-cbh-confirm-button = דחיית כרזות עוגיות
-    .accesskey = ד
-cfr-cbh-dismiss-button = לא כעת
-    .accesskey = ל
 cookie-banner-blocker-onboarding-header = ‏{ -brand-short-name } סירב הרגע לכרזת עוגיות עבורך
 cookie-banner-blocker-onboarding-body = פחות הסחות דעת, פחות מעקב עם עוגיות באתר הזה.
 cookie-banner-blocker-onboarding-learn-more = מידע נוסף

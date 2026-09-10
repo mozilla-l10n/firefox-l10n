@@ -51,7 +51,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     I gael esboniad o wahanol ffyrdd o gofnodi a dod o hyd i ddata, cyfeiriwch at y
     tab <strong>Ynghylch Data</strong>.
-about-glean-about-testing-header = Ynghylch Profi
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     Mae cyfarwyddiadau llawn wedi'u dogfennu yn y
@@ -60,8 +59,6 @@ about-glean-manual-testing =
     ond, yn fyr, i brofi â llaw bod eich offeryniaeth yn gweithio, dylech:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (peidiwch â chyflwyno unrhyw pingiau)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Yn y maes blaenorol sicrhewch fod tag dadfygio cofiadwy fel y gallwch adnabod eich pingiau'n ddiweddarach.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Gosodwch dag dadfygio cofiadwy <span>(20 nod neu lai, alffaniwmerig a - yn unig)</span> er mwyn i chi allu adnabod eich pings yn nes ymlaen.
 # An in-line drop down list precedes this string.
@@ -88,13 +85,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Ewch i dudalen { glean-debug-ping-viewer-brand-name } am bingiau gyda'ch tag</a>.
     Dylai ddim cymryd mwy nag ychydig eiliadau o bwyso'r botwm i'ch ping gyrraedd.
     Weithiau gall gymryd ychydig o funudau.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    Am ragor o brofion <i>ad hoc</i>,
-    gallwch hefyd bennu gwerth cyfredol darn penodol o offeryniaeth
-    trwy agor consol devtools yma ar <code>about:glean</code>
-    a defnyddio'r API <code>testGetValue()</code> fel
-    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     Am ragor o brofion <i>ad hoc</i>,
@@ -199,9 +189,6 @@ about-glean-no-data-to-display = Dim data i'w ddangos.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Dyw metrigau <code>DualLabeledCounter</code> heb eu cefnogi eto yn y wedd <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Math metrig anhysbys.
-about-glean-about-data-explanation =
-    I bori drwy'r rhestr o ddata a gasglwyd, edrychwch ar y
-    <a data-l10n-name="glean-dictionary-link"> { -glean-brand-name } Geiriadur</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

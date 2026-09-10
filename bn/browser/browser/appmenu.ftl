@@ -27,8 +27,6 @@ appmenuitem-downloads =
     .label = ডাউনলোড
 appmenuitem-passwords =
     .label = পাসওয়ার্ড
-appmenuitem-addons-and-themes =
-    .label = অ্যাড-অন ও থিম
 appmenuitem-print =
     .label = মুদ্রণ…
 appmenuitem-find-in-page =
@@ -97,7 +95,6 @@ appmenu-remote-tabs-unverified = আপনার অ্যাকাউন্ট 
 appmenuitem-fxa-toolbar-sync-now2 = এখনই সিঙ্ক করুন
 appmenuitem-fxa-sign-in = { -brand-product-name } এ সাইন ইন করুন
 appmenuitem-fxa-manage-account = অ্যাকাউন্ট পরিচালনা করুন
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = অ্যাকাউন্ট
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -113,15 +110,6 @@ appmenuitem-save-page =
     .label = পাতা নতুনভাবে সংরক্ষণ…
 appmenuitem-fxa-sync-off-title = সিঙ্ক বন্ধ আছে
 appmenuitem-fxa-sync-off-description = আপনার বুকমার্ক, পাসওয়ার্ড এবং আরও অনেক কিছু যেকোন জায়গায় সুরক্ষিত করুন এবং ব্যবহার করুন৷
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = নতুন কি আছে
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = নতুন ফিচার সম্পর্কে জানান
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -225,8 +213,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = সমস্যা সমাধান সংক্রান্ত আরও তথ্য
     .accesskey = t
-appmenu-help-report-site-issue =
-    .label = সাইটের সমস্যা রিপোর্ট করুন…
 appmenu-help-share-ideas =
     .label = ধারনা ও প্রতিক্রিয়া শেয়ার করুন…
     .accesskey = S
@@ -271,7 +257,6 @@ appmenuitem-monitor-description = ডেটা লঙ্ঘনের সতর�
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = আপনার আসল ইমেল এবং ফোন মাস্ক করুন
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description = আপনার অনলাইন কার্যকলাপ রক্ষা করুন
 
 ## Profiles panel
 

@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Aktiver Warp, et projekt hvis formå
 experimental-features-ime-search =
     .label = Adressefelt: Vis resulter under IME-komponering
 experimental-features-ime-search-description = En IME (Input Method Editor) er et værktøj, der lader dig indtaste komplekse symboler med et almindeligt tastatur, fx symboler fra øst-asiatiske og indiske skriftsprog. Ved aktivering af dette eksperiment holdes adressefeltet åbent med søgeresultater og forslag, når du bruger IME til at indtaste tekst. Bemærk, at IME kan vise et panel, der dækker for resultaterne i adressefeltet. Derfor foreslås denne indstilling kun for IME, der ikke anvender denne type af panel.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Billede-i-billede: åbn automatisk ved skift af faneblad
-experimental-features-auto-pip-description = Aktiver Billede-i-billede på aktive videoer ved skift af faneblad.
 experimental-features-group-developer-tools =
     .label = Udviklerværktøjer
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Produktivitet
 experimental-features-group-newtab-widgets =
     .label = Widgets på { -firefox-home-brand-name }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Adgangskoder i sidepanelet
-experimental-features-contextual-password-manager-description = Hav adgang til dine adgangskoder direkte i sidepanelet. Slut med at lede efter adgangskoder eller nulstille dem, når du skal logge ind. For at bruge funktionen skal du vælge adgangskoder i sidepanelet. Derefter skal du gå til Indstillinger > Generelt og vælge "Vis sidepanel" under "Browser-layout". Tilpas så sidepanelet ved at vælge adgangskoder. Hvis du prøver funktionen må du meget gerne <a data-l10n-name="connect">fortælle os, hvad du synes</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Vælg en baggrund eller farve for Nyt faneblad

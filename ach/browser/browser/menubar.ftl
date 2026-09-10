@@ -239,8 +239,6 @@ menu-help =
 menu-get-help =
     .label = Nong Kony
     .accesskey = K
-menu-help-report-site-issue =
-    .label = Mi ripot ikom peko me kakube…
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

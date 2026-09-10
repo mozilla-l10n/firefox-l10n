@@ -49,7 +49,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Decodificador de datos ({ $pid })
 about-processes-socket-process = Rede ({ $pid })
-about-processes-remote-sandbox-broker-process = Broker de sandbox remoto ({ $pid })
 about-processes-fork-server-process = Servidor de rama ({ $pid })
 about-processes-preallocated-process = Pre-asignado ({ $pid })
 about-processes-utility-process = Utilidade ({ $pid })
@@ -59,17 +58,6 @@ about-processes-inference-process = Inferencia ({ $pid })
 #    $pid (String) The process id of this process, assigned by the OS.
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = Outro: { $type } ({ $pid })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, illado de orixe cruzada)
-about-processes-web-isolated-process-private = { $origin } — Privado ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } — Privado ({ $pid }, illado de orixe cruzada)
 
 ## Details within processes
 

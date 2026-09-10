@@ -21,11 +21,6 @@ tabbrowser-tab-tooltip-container = { $containerName }
 #   $tabGroupName (String): the user-defined name of the current tab group.
 #   $containerName (String): the name of the current container.
 tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -33,10 +28,6 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext = ปิด { $tabCount } แท็บ
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label = ปิด { $tabCount } แท็บ
 tab-splitview-splitter =
     .aria-label = ปรับขนาดแท็บมุมมองแยก
 
@@ -78,7 +69,6 @@ tabbrowser-unblock-tab-audio-aria-label =
 tabbrowser-confirm-close-tabs-title = ต้องการปิด { $tabCount } แท็บหรือไม่?
 tabbrowser-confirm-close-tabs-button = ปิดแท็บ
 tabbrowser-ask-close-tabs-checkbox = ถามก่อนที่จะปิดหลายแท็บ
-tabbrowser-confirm-close-tabs-checkbox = ยืนยันก่อนปิดหลายแท็บ
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -101,9 +91,6 @@ tabbrowser-confirm-close-tabs-with-key-button = ออกจาก { -brand-shor
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-ask-close-tabs-with-key-checkbox = ถามก่อนที่จะออกด้วย { $quitKey }
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = ยืนยันก่อนออกด้วย { $quitKey }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
@@ -387,8 +374,8 @@ tab-note-editor-button-save =
     .label = บันทึก
     .accesskey = บ
 tab-note-editor-button-delete =
-    .title = ลบบันทึกย่อ
     .aria-label = ลบบันทึกย่อ
+    .title = ลบบันทึกย่อ
     .accesskey = ล
 tab-note-preview-edit-icon =
     .alt = แก้ไขบันทึกย่อ

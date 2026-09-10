@@ -84,10 +84,6 @@ text-action-copy-clean-link-to-highlight =
 # visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-highlight =
     .label = 移除選擇範圍的強調效果
-# If the page has been loaded with a text fragment and text is
-# visibly highlighted, this removes any highlighted sections on the page.
-text-action-remove-all-highlights =
-    .label = 移除所有強調效果
 profile-window-menu-edit =
     .label = 編輯
     .accesskey = E

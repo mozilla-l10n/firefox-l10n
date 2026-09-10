@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Bæta við { $extension }?
-webext-perms-header-with-perms = Bæta við { $extension }? Þessi viðbót mun hafa leyfi til að:
-webext-perms-header-unsigned = Bæta við { $extension }? Þessi forritsauki er óstaðfestur. Skaðlegir forritsaukar geta stolið einkaupplýsingunum þínum eða berskjaldað tölvuna þína. Bættu honum aðeins við ef þú treystir upprunanum.
-webext-perms-header-unsigned-with-perms = Bæta við { $extension }? Þessi forritsauki er óstaðfestur. Skaðlegir forritsaukar geta stolið einkaupplýsingunum þínum eða berskjaldað tölvuna þína. Bættu honum aðeins við ef þú treystir upprunanum. Þessi forritsauki mun hafa heimildir til að:
 webext-perms-sideload-header = { $extension } bætt við
 webext-perms-optional-perms-header2 = { $extension } þarfnast auka heimilda
-webext-perms-optional-perms-header = { $extension } þarfnast auka heimilda.
 webext-perms-header2 = Bæta við { $extension }
 
 ## Headers used in the webextension permissions dialog, inside the content.
@@ -53,9 +48,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = Búið er að uppfæra { $extension }. Þú verður að samþykkja nýju heimildirnar áður en hægt er að setja inn nýju útgáfuna. Ef þú velur “Hætta við” verður núverandi útgáfa af forritsaukanum notuð í staðinn.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = Búið er að uppfæra { $extension }. Þú verður að samþykkja nýju heimildirnar áður en hægt er að setja inn nýju útgáfuna. Ef þú velur “Hætta við” verður núverandi útgáfa af forritsaukanum notuð í staðinn. Þessi forritsauki mun hafa heimildir til að:
 webext-perms-update-accept =
     .label = Uppfæra
     .accesskey = U
@@ -71,24 +63,8 @@ webext-perms-host-description-all-urls = Skoða gögnin þín fyrir öll vefsvæ
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Skoða gögnin þín fyrir vefsvæði á { $domain } léninu
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Skoða gögnin þín á { $domainCount } öðru léni
-       *[other] Skoða gögnin þín á { $domainCount } öðrum lénum
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Skoða gögnin þín fyrir { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Skoða gögnin þín á { $domainCount } öðru vefsvæði
-       *[other] Skoða gögnin þín á { $domainCount } öðrum vefsvæðum
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

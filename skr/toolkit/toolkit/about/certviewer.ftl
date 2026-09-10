@@ -118,4 +118,3 @@ certificate-viewer-tab-mine = تہاݙے سرٹیفکیٹ
 certificate-viewer-tab-people = لوک
 certificate-viewer-tab-servers = سرورز
 certificate-viewer-tab-ca = حکام
-certificate-viewer-tab-unkonwn = اݨ ڄاتا

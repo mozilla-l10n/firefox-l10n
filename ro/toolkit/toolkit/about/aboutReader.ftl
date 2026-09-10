@@ -4,14 +4,6 @@
 
 about-reader-loading = Se încarcă…
 about-reader-load-error = Imposibil de încărcat articolul de la pagina
-about-reader-color-scheme-light = Luminoasă
-    .title = Paletă de culori deschise
-about-reader-color-scheme-dark = Întunecat
-    .title = Paletă de culori întunecate
-about-reader-color-scheme-sepia = Sepia
-    .title = Paletă de culori sepia
-about-reader-color-scheme-auto = Automat
-    .title = Paletă de culori automată
 about-reader-color-light-theme = Luminoasă
     .title = Temă luminoasă
 about-reader-color-dark-theme = Întunecată
@@ -24,17 +16,6 @@ about-reader-color-gray-theme = Gri
     .title = Temă gri
 about-reader-color-contrast-theme = Contrast
     .title = Temă de contrast
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time =
-    { $rangePlural ->
-        [one] { $range } minute
-        [few] { $range } minute
-       *[other] { $range } de minute
-    }
 
 ## Reader View text and layout menu
 
@@ -42,14 +23,6 @@ about-reader-toolbar-minus =
     .title = Micșorează dimensiunea fontului
 about-reader-toolbar-plus =
     .title = Mărește dimensiunea fontului
-about-reader-toolbar-contentwidthminus =
-    .title = Micșorează lățimea conținutului
-about-reader-toolbar-contentwidthplus =
-    .title = Mărește lățimea conținutului
-about-reader-toolbar-lineheightminus =
-    .title = Micșorează înălțimea liniei
-about-reader-toolbar-lineheightplus =
-    .title = Mărește înălțimea liniei
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -60,7 +33,6 @@ about-reader-font-type-monospace = Monospațiat
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Închide modul de lectură
-about-reader-toolbar-type-controls = Controale de caractere
 about-reader-toolbar-text-layout-controls = Text și dispunere în pagină
 about-reader-toolbar-theme-controls = Temă
 about-reader-toolbar-savetopocket = Salvează în { -pocket-brand-name }

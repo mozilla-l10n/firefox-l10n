@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Nitah contenedor
-    .accesskey = N
 user-context-manage-containers =
     .label = Dugumî hue'ê' kontenedor
     .accesskey = O

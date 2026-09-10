@@ -264,8 +264,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Profile
 menu-profiles-manage-profiles =
     .label = Profile rjadować
 menu-profiles-new-profile =
@@ -289,9 +287,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Rozšěrjenja a drasty
     .accesskey = R
-menu-tools-addons-and-themes =
-    .label = Přidatki a drasty
-    .accesskey = P
 menu-tools-fxa-sign-in2 =
     .label = Přizjewić
     .accesskey = i
@@ -348,8 +343,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Informacije za rozrisowanje problemow
     .accesskey = I
-menu-help-report-site-issue =
-    .label = Sydłowy problem zdźělić…
 menu-help-share-ideas =
     .label = Ideje a měnjenja dźělić …
     .accesskey = I

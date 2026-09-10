@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Přihlašovací údaje
-about-logins-login-filter =
-    .placeholder = Hledat přihlašovací údaje
-    .key = F
-create-new-login-button =
-    .title = Nové přihlašovací údaje
 about-logins-page-title-name = Hesla
 about-logins-login-filter2 =
-    .placeholder = Hledat v heslech
     .key = F
+    .placeholder = Hledat v heslech
 create-login-button =
     .title = Přidat heslo
 fxaccounts-sign-in-text = Synchronizujte svá hesla i do ostatních zařízení
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importovat z jiného prohlížeče…
 about-logins-menu-menuitem-import-from-a-file = Importovat ze souboru…
-about-logins-menu-menuitem-export-logins = Exportovat přihlašovací údaje
-about-logins-menu-menuitem-remove-all-logins = Smazat všechny přihlašovací údaje
 about-logins-menu-menuitem-export-logins2 = Exportovat hesla…
 about-logins-menu-menuitem-remove-all-logins2 = Odstranit všechna hesla…
 menu-menuitem-preferences =
@@ -42,28 +34,6 @@ about-logins-menu-menuitem-help = Nápověda
 
 login-list =
     .aria-label = Nalezené přihlašovací údaje
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [0] žádné přihlašovací údaje
-        [2] dvoje přihlašovací údaje
-        [3] troje přihlašovací údaje
-        [4] čtvery přihlašovací údaje
-        [one] jedny přihlašovací údaje
-        [few] { $count } přihlašovací údaje
-       *[other] { $count } přihlašovacích údajů
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $count } z { $total } záznamu
-        [few] { $count } ze { $total } záznamů
-        [many] { $count } z { $total } záznamů
-       *[other] { $count } z { $total } záznamů
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -91,7 +61,6 @@ login-list-username-reverse-option = uživ. jména (Z-A)
 about-logins-login-list-alerts-option = upozornění
 login-list-last-changed-option = naposledy změněno
 login-list-last-used-option = naposledy použito
-login-list-intro-title = Nenalezeny žádné přihlašovací údaje
 login-list-intro-title2 = Žádná hesla nejsou uložena
 login-list-intro-description =
     { -brand-product-name.gender ->
@@ -100,11 +69,8 @@ login-list-intro-description =
         [neuter] Tady se zobrazí hesla uložená v { -brand-product-name(case: "loc") }.
        *[other] Tady se zobrazí hesla uložená v aplikaci { -brand-product-name }.
     }
-about-logins-login-list-empty-search-title = Nenalezeny žádné přihlašovací údaje
 about-logins-login-list-empty-search-title2 = Nebyla nalezena žádná hesla
 about-logins-login-list-empty-search-description = Vašemu vyhledávání neodpovídají žádné přihlašovací údaje.
-login-list-item-title-new-login = Nové přihlašovací údaje
-login-list-item-subtitle-new-login = Zadejte své přihlašovací údaje
 login-list-item-title-new-login2 = Přidat heslo
 login-list-item-subtitle-missing-username = (žádné uživatelské jméno)
 about-logins-list-item-breach-icon =
@@ -120,14 +86,6 @@ about-logins-list-section-week = Posledních 7 dní
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Hledáte své uložené přihlašovací údaje? Zapněte si synchronizaci nebo je naimportujte.
-about-logins-login-intro-heading-logged-in = Nenalezeny žádné synchronizované přihlašovací údaje.
-login-intro-description =
-    { -brand-product-name.case-status ->
-        [with-cases] Pokud jste si přihlašovací údaje uložili do { -brand-product-name(case: "gen") }, ale na jiném zařízení, můžete je zde získat takto:
-       *[no-cases] Pokud jste si přihlašovací údaje uložili do aplikace { -brand-product-name }, ale na jiném zařízení, můžete je zde získat takto:
-    }
-login-intro-instructions-fxa = Vytvořte nebo se přihlaste k { -fxaccount-brand-name(case: "dat", capitalization: "lower") } na zařízení, kde máte přihlašovací údaje uložené.
 about-logins-login-intro-heading-message = Uložte si svá hesla na bezpečné místo
 login-intro-description2 =
     { -brand-product-name.case-status ->
@@ -137,27 +95,15 @@ login-intro-description2 =
 login-intro-instructions-fxa2 = Přihlaste se do svého účtu nebo si ho vytvořte na zařízení, kde máte přihlašovací údaje uložené.
 login-intro-instructions-fxa-settings = Otevřete Nastavení > Synchronizace > Zapnout synchronizaci… a vyberte položku Přihlašovací údaje.
 login-intro-instructions-fxa-passwords-help = Navštivte <a data-l10n-name="passwords-help-link">nápovědu pro hesla</a>.
-about-logins-intro-browser-only-import =
-    { -brand-product-name.case-status ->
-        [with-cases] Pokud máte přihlašovací údaje uložené v jiném prohlížeči, můžete je <a data-l10n-name="import-link">naimportovat do { -brand-product-name(case: "gen") }</a>
-       *[no-cases] Pokud máte přihlašovací údaje uložené v jiném prohlížeči, můžete je <a data-l10n-name="import-link">naimportovat do aplikace { -brand-product-name }</a>
-    }
-about-logins-intro-import2 =
-    { -brand-product-name.case-status ->
-        [with-cases] Pokud máte přihlašovací údaje uložené mimo { -brand-product-name(case: "acc") }, můžete je <a data-l10n-name="import-browser-link">naimportovat z jiného prohlížeče</a> nebo <a data-l10n-name="import-file-link">ze souboru</a>
-       *[no-cases] Pokud máte přihlašovací údaje uložené mimo aplikaci { -brand-product-name }, můžete je <a data-l10n-name="import-browser-link">naimportovat z jiného prohlížeče</a> nebo <a data-l10n-name="import-file-link">ze souboru</a>
-    }
 about-logins-intro-import3 = Chcete-li nyní přidat heslo, vyberte výše uvedené tlačítko se znaménkem plus. Můžete také <a data-l10n-name="import-browser-link">importovat hesla z jiného prohlížeče</a> nebo <a data-l10n-name="import-file-link">ze souboru</a>.
 
 ## Login
 
-login-item-new-login-title = Nové přihlašovací údaje
 # Header for adding a password
 about-logins-login-item-new-login-title = Přidání hesla
 login-item-edit-button = Upravit
 about-logins-login-item-remove-button = Odstranit
 login-item-origin-label = Adresa serveru
-login-item-tooltip-message = Zkontrolujte, že toto pole přesně odpovídá adrese serveru, kde se přihlašujete.
 about-logins-origin-tooltip2 = Zadejte celou adresu a ujistěte se, že přesně odpovídá té, ze které se přihlašujete.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -177,7 +123,6 @@ login-item-password-conceal-checkbox =
     .aria-label = Skrýt heslo
 login-item-copy-password-button-text = Kopírovat
 login-item-copied-password-button-text = Zkopírováno!
-login-item-save-changes-button = Uložit změny
 about-logins-login-item-save-changes-button = Uložit
 login-item-save-new-button = Uložit
 login-item-cancel-button = Zrušit
@@ -201,11 +146,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Pro úpravu přihlašovacích údajů prosím zadejte své přihlašovací údaje k systému Windows. Toto opatření pomáhá v zabezpečení vašich účtů.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = upravit uložené přihlašovací údaje
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -229,11 +169,6 @@ about-logins-copy-password-os-auth-dialog-message-win = Pro zkopírování hesla
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = zkopírovat uložené heslo
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Pro export přihlašovacích údajů prosím zadejte své přihlašovací údaje k systému Windows. Toto opatření pomáhá v zabezpečení vašich účtů.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = exportovat uložená uživatelská jména a hesla
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = Chcete-li exportovat hesla, zadejte přihlašovací údaje do systému Windows. To pomáhá chránit bezpečnost vašich účtů.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -251,8 +186,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Zrušit
 confirmation-dialog-dismiss-button =
     .title = Zrušit
-about-logins-confirm-remove-dialog-title = Odstranit tyto přihlašovací údaje?
-confirm-delete-dialog-message = Tuto akci nelze vzít zpět.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Odstranit heslo?
 # Message for modal to confirm the removal of one saved password
@@ -268,29 +201,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Odstranit
         [few] Odstranit vše
        *[other] Odstranit vše
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label = Ano, odstranit tyto přihlašovací údaje
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] Odstranit jedny přihlašovací údaje
-        [few] Odstranit { $count } přihlašovací údaje
-       *[other] Odstranit { $count } přihlašovacích údajů
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { -brand-short-name.case-status ->
-        [with-cases] Tímto odstraníte všechny přihlašovací údaje uložené ve { -brand-short-name(case: "loc") } a také všechna zde zobrazovaná hlášení o únicích. Tuto akci nelze vzít zpět.
-       *[no-cases] Tímto odstraníte všechny přihlašovací údaje uložené v aplikaci { -brand-short-name } a také všechna zde zobrazovaná hlášení o únicích. Tuto akci nelze vzít zpět.
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] Odstranit jedny přihlašovací údaje ze všech zařízení
-        [few] Odstranit { $count } přihlašovací údaje ze všech zařízení
-       *[other] Odstranit { $count } přihlašovacích údajů ze všech zařízení
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { -brand-short-name.case-status ->
-        [with-cases] Tímto odstraníte všechny přihlašovací údaje uložené ve { -brand-short-name(case: "loc") } na všech zařízeních synchronizovaných pomocí vašeho { -fxaccount-brand-name(case: "gen", capitalization: "lower") } a také všechna zde zobrazovaná hlášení o únicích. Tuto akci nelze vzít zpět.
-       *[no-cases] Tímto odstraníte všechny přihlašovací údaje uložené v aplikaci { -brand-short-name } na všech zařízeních synchronizovaných pomocí vašeho { -fxaccount-brand-name(case: "gen", capitalization: "lower") } a také všechna zde zobrazovaná hlášení o únicích. Tuto akci nelze vzít zpět.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -332,15 +242,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = Export přihlašovacích údajů
-about-logins-confirm-export-dialog-message = Vaše hesla budou uložena v čitelné podobě (např. Šp4tnéH3sl0) a kdokoliv otevře exportovaný soubor, bude si je moci přečíst.
-about-logins-confirm-export-dialog-confirm-button = Exportovat…
 about-logins-confirm-export-dialog-title2 = Poznámka k exportování hesel
 about-logins-confirm-export-dialog-message2 =
     Při exportu jsou vaše hesla uložena do souboru ve formátu čitelného textu.
     Po dokončení práce s tímto souborem ho doporučujeme odstranit, aby vaše hesla nemohli vidět ostatní uživatelé tohoto zařízení.
 about-logins-confirm-export-dialog-confirm-button2 = Pokračovat v exportu
-about-logins-alert-import-title = Import byl dokončen
 about-logins-alert-import-message = Zobrazit podrobné shrnutí importu
 confirm-discard-changes-dialog-title = Zahodit neuložené změny?
 confirm-discard-changes-dialog-message = Všechny neuložené změny budou ztraceny.
@@ -377,11 +283,6 @@ about-logins-error-message-default = Při ukládání hesla nastala chyba.
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Exportovat hesla do souboru
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = logins.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 =
     { -brand-short-name.case-status ->
         [with-cases] Export hesel z { -brand-short-name(case: "gen") }
@@ -401,8 +302,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = Import souboru s přihlašovacími údaji
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 =
     { -brand-short-name.case-status ->
@@ -430,9 +329,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Import byl dokončen
-about-logins-import-dialog-items-added = <span>Nově přidané přihlašovací údaje:</span> <span data-l10n-name="count">{ $count }</span>
-about-logins-import-dialog-items-modified = <span>Aktualizované přihlašovací údaje:</span> <span data-l10n-name="count">{ $count }</span>
-about-logins-import-dialog-items-no-change = <span>Duplicitní přihlašovací údaje:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(neimportováno)</span>
 about-logins-import-dialog-items-added2 =
     { $count ->
         [one] <span>Nové heslo přidáno:</span> <span data-l10n-name="count">{ $count }</span>
@@ -470,11 +366,6 @@ about-logins-import-dialog-error-learn-more = Zjistit více
 about-logins-import-dialog-error-try-import-again = Zkusit importovat znovu…
 about-logins-import-dialog-error-cancel = Zrušit
 about-logins-import-report-title = Souhrn
-about-logins-import-report-description =
-    { -brand-short-name.case-status ->
-        [with-cases] Přihlašovací údaje importované do { -brand-short-name(case: "gen") }.
-       *[no-cases] Přihlašovací údaje importované do aplikace { -brand-short-name }.
-    }
 about-logins-import-report-description2 =
     { -brand-short-name.case-status ->
         [with-cases] Hesla byla importována do { -brand-short-name(case: "gen") }
@@ -484,9 +375,6 @@ about-logins-import-report-description2 =
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Řádek č. { $number }
-about-logins-import-report-row-description-no-change = Duplicitní: Přesná shoda se stávajícími údaji
-about-logins-import-report-row-description-modified = Přihlašovací údaje aktualizovány
-about-logins-import-report-row-description-added = Přidány nové přihlašovací údaje
 about-logins-import-report-row-description-no-change2 = Duplikát: přesná shoda s již existující položkou
 about-logins-import-report-row-description-modified2 = Existující položka byla aktualizována
 about-logins-import-report-row-description-added2 = Přidáno nové heslo
@@ -503,9 +391,6 @@ about-logins-import-report-row-description-error-missing-field = Chyba: chyběj�
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added = <div data-l10n-name="details">Nově přidané přihlašovací údaje:</div> <div data-l10n-name="count">{ $count }</div>
-about-logins-import-report-modified = <div data-l10n-name="details">Aktualizované přihlašovací údaje:</div> <div data-l10n-name="count">{ $count }</div>
-about-logins-import-report-no-change = <div data-l10n-name="details">Duplicitní přihlašovací údaje:</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="not-imported">(neimportováno)</div>
 about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nové přidané heslo</div>

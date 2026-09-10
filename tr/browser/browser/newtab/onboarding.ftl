@@ -193,11 +193,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = { -brand-short-name } uygulamasını görev çubuğuna ve başlat menüsüne sabitle
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Kâr amacı gütmeyen bir tarayıcıyla yola çıkın. Siz internette dolaşın, biz gizliliğinizi koruyalım.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -227,52 +222,10 @@ mr2022-onboarding-set-default-subtitle = Kâr amacı gütmeyen bir tarayıcıyla
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Yeni sürümümüz web’de gezinmenizi daha da kolaylaştıracak özelliklerle dolu.
 mr2022-onboarding-get-started-primary-button-label = Ayarlamaya başla
-mr2022-onboarding-import-header = Işık hızında kurulum
-mr2022-onboarding-import-subtitle = { -brand-short-name } tarayıcınızı istediğiniz gibi ayarlayın. İsterseniz eski tarayıcınızdaki yer imlerinizi, parolalarınızı ve diğer verilerinizi alabiliriz.
 mr2022-onboarding-import-primary-button-label-no-attribution = Önceki tarayıcımdan içe aktar
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Size ilham veren rengi seçin
-mr2022-onboarding-colorway-subtitle = Bağımsız sesler kültürü değiştirebilir.
-mr2022-onboarding-colorway-primary-button-label-continue = Ayarla ve devam et
-mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } renkli giriş sayfanız olsun
-mr2022-onboarding-colorway-label-default = Varsayılan
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Mevcut { -brand-short-name } renkleri
-mr2022-onboarding-colorway-description-default = <b>Mevcut { -brand-short-name } renklerimi kullan.</b>
-mr2022-onboarding-colorway-label-playmaker = Oyun Kurucu
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Oyun kurucu (kırmızı)
-mr2022-onboarding-colorway-description-playmaker = <b>Siz bir oyun kurucusunuz.</b> Hem kazanmanızı sağlayacak hem de çevrenizdeki herkese fayda sağlayacak fırsatlar yaratıyorsunuz.
-mr2022-onboarding-colorway-label-expressionist = Dışavurumcu
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Dışavurumcu (sarı)
-mr2022-onboarding-colorway-description-expressionist = <b>Siz bir dışavurumcusunuz.</b> Dünyayı farklı görüyorsunuz ve eserleriniz başkalarının duygularını harekete geçiriyor.
-mr2022-onboarding-colorway-label-visionary = Vizyoner
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Vizyoner (yeşil)
-mr2022-onboarding-colorway-description-visionary = <b>Siz bir vizyonersiniz.</b> Statükoyu sorguluyor ve insanları daha iyi bir gelecek hayal etmeye yönlendiriyorsunuz.
-mr2022-onboarding-colorway-label-activist = Aktivist
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Aktivist (mavi)
-mr2022-onboarding-colorway-description-activist = <b>Siz bir aktivistsiniz.</b> Dünyayı bulduğunuzdan daha iyi bir yer olarak bırakmak için insanlara önderlik ediyorsunuz.
-mr2022-onboarding-colorway-label-dreamer = Hayalperest
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Hayalperest (mor)
-mr2022-onboarding-colorway-description-dreamer = <b>Siz bir hayalperestsiniz.</b> Şansın cesurdan yana olduğuna inanıyor ve cesur olmaları için insanlara ilham veriyorsunuz.
-mr2022-onboarding-colorway-label-innovator = Yenilikçi
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Yenilikçi (turuncu)
-mr2022-onboarding-colorway-description-innovator = <b>Siz bir yenilikçisiniz.</b> Her yerde fırsatları görüyor ve çevrenizdeki herkesin hayatında bir etki yaratıyorsunuz.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Bilgisayardan telefona, telefondan bilgisayara atlayın
-mr2022-onboarding-mobile-download-subtitle = Bir cihazınızdaki sekmelere diğer cihazınızdan ulaşıp kaldığınız yerden devam edebilirsiniz. Üstelik { -brand-product-name } kullandığınız her yerden yer imlerinize ve parolalarınıza erişebilirsiniz.
 mr2022-onboarding-mobile-download-cta-text = { -brand-product-name } mobil uygulamasını indirmek için QR kodunu okutun veya <a data-l10n-name="download-label">kendinize indirme bağlantısını gönderin</a>.
 mr2022-onboarding-no-mobile-download-cta-text = { -brand-product-name } mobil uygulamasını indirmek için QR kodunu okutun.
 
@@ -325,15 +278,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Beşlik çakan açık ve koyu tenli eller
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Pencere kenarında bir tilki ve bir ev bitkisi olan bir pencereden gün batımı manzarası
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Yeşil göz, turuncu ayakkabı, kırmızı basketbol topu, mor kulaklık, mavi kalp ve sarı taçtan oluşan renkli bir kolajı boyayan el spreyi
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Dizüstü bilgisayarın ekranında el sallayan bir tilki. Dizüstü bilgisayara takılı bir fare var.
 onboarding-device-migration-title = Yeniden hoş geldiniz!
-onboarding-device-migration-subtitle = Yer imlerinizi, parolalarınızı ve geçmişinizi yeni cihazınıza taşımak için { -fxaccount-brand-name(capitalization: "sentence") }nıza giriş yapın.
 onboarding-device-migration-subtitle2 = Yer imlerinizi, parolalarınızı ve geçmişinizi yeni cihazınızda yanınızda taşımak için hesabınıza giriş yapın.
 onboarding-device-migration-primary-button-label = Giriş yap
 
@@ -450,15 +400,12 @@ tab-groups-onboarding-feature-callout-title = Dağınıklığı azaltarak daha i
 tab-groups-onboarding-feature-callout-subtitle = İlk grubunuzu oluşturmak için sekmeleri üst üste sürükleyin.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Sekme gruplarınızı istediğiniz zaman “Tüm sekmeleri listele” menüsünde bulabilirsiniz.
-tab-groups-onboarding-create-group-title-2 = Sekme gruplarınıza istediğiniz zaman buradan ulaşabilirsiniz.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Gruplarınızı adres çubuğundan arayarak bulabilirsiniz.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Bir sekme grubunu kapattığınızda istediğiniz zaman “Tüm sekmeleri listele” menüsünden yeniden açabilirsiniz.
-tab-groups-onboarding-saved-groups-title-2 = Bir sekme grubunu kapatırsanız istediğiniz zaman buradan yeniden açabilirsiniz.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Kapattığınız grupları adres çubuğundan arayarak bulabilirsiniz.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = İstediğiniz zaman “Tüm sekmeleri listele” menüsünden sekme gruplarınızı yeniden açabilirsiniz.
-tab-groups-onboarding-session-restore-title = Sekme gruplarınızı istediğiniz zaman buradan yeniden açabilirsiniz.
 tab-groups-onboarding-dismiss = Tamam
 
 ## Multi Profiles feature onboarding messages

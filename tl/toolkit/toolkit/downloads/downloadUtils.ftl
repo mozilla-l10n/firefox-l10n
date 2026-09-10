@@ -92,11 +92,5 @@ download-utils-time-left-single = { $time } ang natitira
 download-utils-time-left-double = { $time1 } { $time2 } ang natitira
 download-utils-time-few-seconds = Ilang segundo na lang ang natitira
 download-utils-time-unknown = Hindi alam na oras ang natitira
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = { $scheme } pinagkukunan
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = lokal na file
 # Displayed time for files finished yesterday
 download-utils-yesterday = Kahapon

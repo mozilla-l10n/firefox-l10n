@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = ਨਵੀਂ ਟੈਬ
-newtab-settings-button =
-    .title = ਆਪਣੇ ਨਵੀਂ ਟੈਬ ਸਫ਼ੇ ਨੂੰ ਆਪਣੇ ਮੁਤਾਬਕ ਢਾਲੋ
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = ਇਸ ਸਫ਼ੇ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = ਕਸਟਮਾਈਜ਼
 newtab-customize-panel-label =
     .label = ਕਸਟਮਾਈਜ਼
-newtab-personalize-settings-icon-label =
-    .aria-label = ਸੈਟਿੰਗਾਂ
-    .title = ਨਵੀਂ ਟੈਬ ਨੂੰ ਨਿੱਜੀ ਬਣਾਓ
 newtab-settings-dialog-label =
     .aria-label = ਸੈਟਿੰਗਾਂ
-newtab-personalize-icon-label =
-    .aria-label = ਨਵੀਂ ਟੈਬ ਨਿੱਜੀ ਬਣਾਓ
-    .title = ਨਵੀਂ ਟੈਬ ਨਿੱਜੀ ਬਣਾਓ
-newtab-personalize-dialog-label =
-    .aria-label = ਆਪਣਾ ਬਣਾਓ
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
@@ -520,7 +510,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = ਖੋਜ ਇੰਜਣ ਜੋੜੋ
 newtab-topsites-add-shortcut-header = ਨਵਾਂ ਸ਼ਾਰਟਕੱਟ
-newtab-topsites-edit-topsites-header = ਉਪਰਲੀ ਸਾਈਟ ਸੋਧੋ
 newtab-topsites-edit-shortcut-header = ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਸੋਧੋ
 newtab-topsites-add-shortcut-label = ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਜੋੜੋ
 newtab-topsites-add-shortcut-title =
@@ -590,20 +579,12 @@ newtab-topsites-hover-card-dismiss =
 newtab-menu-section-tooltip =
     .aria-label = ਮੇਨੂ ਖੋਲ੍ਹੋ
     .title = ਮੇਨੂ ਖੋਲ੍ਹੋ
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = ਹਟਾਓ
-    .title = ਹਟਾਓ
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = { $title } ਦੇ ਲਈ ਪ੍ਰਸੰਗ ਮੀਨੂੰ ਖ੍ਹੋਲੋ
     .title = ਮੇਨੂ ਖੋਲ੍ਹੋ
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = ਇਹ ਸਾਈਟ ਨੂੰ ਸੋਧੋ
-    .title = ਇਹ ਸਾਈਟ ਨੂੰ ਸੋਧੋ
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -615,11 +596,7 @@ newtab-menu-dismiss = ਰੱਦ ਕਰੋ
 newtab-menu-pin = ਟੰਗੋ
 newtab-menu-unpin = ਲਾਹੋ
 newtab-menu-delete-history = ਅਤੀਤ ਵਿੱਚੋਂ ਹਟਾਓ
-newtab-menu-save-to-pocket = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲੋ
-newtab-menu-delete-pocket = { -pocket-brand-name } ਤੋਂ ਹਟਾਓ
-newtab-menu-archive-pocket = { -pocket-brand-name } ਵਿੱਚ ਪੁਰਾਲੇਖਬੱਧ ਕਰੋ
 newtab-menu-show-privacy-info = ਸਾਡੇ ਸਪਾਂਸਰ ਅਤੇ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ
-newtab-menu-about-fakespot = { -fakespot-brand-name } ਬਾਰੇ
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = ਰਿਪੋਰਟ
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -630,26 +607,12 @@ newtab-menu-section-block = ਪਾਬੰਦੀ
 newtab-menu-section-unfollow-topic = ਅਣ-ਫ਼ਾਲੋ ਕਰੋ
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = ਹੋਰ ਜਾਣੋ
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = ਵਿਸ਼ੇ ਨੂੰ ਅਣ-ਫ਼ਾਲੋ ਕਰੋ
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = ਸਪੌਂਸਰ ਕੀਤੀ ਸਮੱਗਰੀ ਦਾ ਇੰਤਜ਼ਾਮ
 newtab-menu-our-sponsors-and-your-privacy = ਸਾਡੇ ਸਪੌਂਸਰ ਅਤੇ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ
 newtab-menu-report-this-ad = ਇਸ ਇਸ਼ਤਿਹਾਰ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = ਮੁਕੰਮਲ
-newtab-privacy-modal-button-manage = ਸਪਾਂਸਰ ਕੀਤੀ ਸਮੱਗਰੀ ਦੇ ਇੰਤਜ਼ਾਮ ਲਈ ਸੈਟਿੰਗਾਂ
-newtab-privacy-modal-header = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਮਹੱਤਵ ਰੱਖਦੀ ਹੈ।
-newtab-privacy-modal-paragraph-2 =
-    ਮਨਮੋਹਣੀਆਂ ਕਹਾਣੀਆਂ ਪਰੋਸਣ ਤੋਂ ਇਲਾਵਾ, ਅਸੀਂ ਤੁਹਾਨੂੰ ਢੁਕਵੇਂ,
-    ਚੋਣਵੇਂ ਪੇਸ਼ਕਾਰਾਂ ਤੋਂ ਬਹੁਤ ਜ਼ਿਆਦਾ ਜਾਂਚੀ ਗਈ ਸਮੱਗਰੀ ਵਿਖਾਵਾਂਗੇ। ਭਰੋਸਾ ਕਰੋ, <strong>ਤੁਹਾਡਾ ਬਰਾਊਜ਼ਿੰਗ ਡਾਟਾ ਤੁਹਾਡੇ { -brand-product-name } — ਦੀ ਨਿੱਜੀ ਕਾਪੀ ਤੋਂ ਕਦੇ ਬਾਹਰ ਨਹੀਂ ਜਾਂਦਾ</strong> — ਅਸੀਂ ਇਸਨੂੰ ਨਹੀਂ ਵੇਖਦੇ, ਅਤੇ ਸਾਡੇ
-    ਸਪੌਂਸਰ ਵੀ ਕਦੇ ਨਹੀਂ।
-newtab-privacy-modal-link = ਸਿੱਖੋ ਕਿ ਨਵੀਂ ਟੈਬ ਉੱਤੇ ਪਰਦੇਦਾਰੀ ਕਿਵੇਂ ਕੰਮ ਕਰਦੀ ਹੈ।
 
 ##
 
@@ -705,31 +668,12 @@ newtab-label-sponsored-fixed = ਸਪੌਂਸਰ ਕੀਤੇ
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = ਸੈਕਸ਼ਨ ਹਟਾਓ
-newtab-section-menu-collapse-section = ਸੈਕਸ਼ਨ ਨੂੰ ਸਮੇਟੋ
-newtab-section-menu-expand-section = ਸੈਕਸ਼ਨ ਦੀ ਫੈਲਾਓ
-newtab-section-menu-manage-section = ਸੈਕਸ਼ਨ ਦਾ ਬੰਦੋਬਸਤ
-newtab-section-menu-manage-webext = ਇਕਸਟੈਨਸ਼ਨ ਦਾ ਇੰਤਜ਼ਾਮ
-newtab-section-menu-add-topsite = ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ ਜੋੜੋ
-newtab-section-menu-add-search-engine = ਖੋਜ ਇੰਜਣ ਜੋੜੋ
-newtab-section-menu-move-up = ਉੱਤੇ ਭੇਜੋ
-newtab-section-menu-move-down = ਹੇਠਾਂ ਭੇਜੋ
 newtab-section-menu-privacy-notice = ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = ਭਾਗ ਨੂੰ ਸਮੇਟੋ
-newtab-section-expand-section-label =
-    .aria-label = ਭਾਗ ਫੈਲਾਓ
 
 ## Section Headers.
 
 newtab-section-header-topsites = ਸਿਖਰਲੀਆਂ ਸਾਈਟਾਂ
 newtab-section-header-recent-activity = ਤਾਜ਼ਾ ਸਰਗਰਮੀ
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } ਵਲੋਂ ਸਿਫਾਰਸ਼ੀ
 newtab-section-header-stories = ਸੋਚਣ ਲਈ ਮਜ਼ਬੂਰ ਕਰਨ ਵਾਲੇ ਲੇਖ
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = ਤੁਹਾਡੇ ਲਈ ਅੱਜ ਦੀਆਂ ਚੋਣਾਂ
@@ -737,10 +681,6 @@ newtab-section-header-todays-picks = ਤੁਹਾਡੇ ਲਈ ਅੱਜ ਦੀ�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ ਅਤੇ ਅਸੀਂ ਕੁਝ ਵਧੀਆ ਲੇਖ, ਵਿਡੀਓ ਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੋ ਗਏ ਜਾਂ ਬੁੱਕਮਾਰਕ ਕੀਤੇ ਹੋਰ ਸਫ਼ੇ ਇੱਥੇ ਦਿਖਾਵਾਂਗੇ।
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = ਤੁਸੀਂ ਪੂਰਾ ਕਰ ਚੁੱਕੇ ਹੋ। { $provider } ਵਲੋਂ ਹੋਰ ਕਹਾਣੀਆਂ ਲਈ ਬਾਅਦ ਵਿੱਚ ਵਾਪਸ ਚੈਕ ਕਰੀਓ। ਉਡੀਕ ਨਹੀਂ ਕਰ ਸਕਦੇ? ਤਾਂ ਫੇਰ ਵੈੱਬ ਉਤੋਂ ਹੋਰ ਵਧੀਆ ਕਹਾਣੀਆਂ ਵਾਸਤੇ ਹਰਮਨਪਿਆਰੇ ਵਿਸ਼ੇ ਨੂੰ ਚੁਣੋ।
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = ਤੁਸੀਂ ਪੂਰਾ ਕਰ ਚੁੱਕੇ ਹੋ। ਹੋਰ ਕਹਾਣੀਆਂ ਲਈ ਬਾਅਦ ਵਿੱਚ ਵਾਪਸ ਚੈਕ ਕਰੀਓ। ਉਡੀਕ ਨਹੀਂ ਕਰ ਸਕਦੇ? ਤਾਂ ਫੇਰ ਵੈੱਬ ਉਤੋਂ ਹੋਰ ਵਧੀਆ ਕਹਾਣੀਆਂ ਵਾਸਤੇ ਹਰਮਨਪਿਆਰੇ ਵਿਸ਼ੇ ਨੂੰ ਚੁਣੋ।
 
@@ -774,39 +714,6 @@ newtab-carousel-pause =
 newtab-carousel-play =
     .aria-label = ਆਪਣੇ-ਚੱਲਣ ਨੂੰ ਚਲਾਓ
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = ਹਰਮਨਪਿਆਰੇ ਵਿਸ਼ੇ:
-newtab-pocket-new-topics-title = ਹੋਰ ਲੇਖ ਚਾਹੁੰਦੇ ਹੋ? { -pocket-brand-name } ਵਲੋਂ ਇਹ ਹਰਮਨਪਿਆਰੇ ਵਿਸ਼ੇ ਵੇਖੋ
-newtab-pocket-more-recommendations = ਹੋਰ ਸਿਫਾਰਸ਼ਾਂ
-newtab-pocket-learn-more = ਹੋਰ ਜਾਣੋ
-newtab-pocket-cta-button = { -pocket-brand-name } ਲਵੋ
-newtab-pocket-cta-text = { -pocket-brand-name } ਵਿਚ ਆਪਣੀਆਂ ਕਹਾਣੀਆਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ, ਅਤੇ ਆਪਣੇ ਮਨ ਨੂੰ ਦਿਲਚਸਪ ਪੜ੍ਹ ਕੇ ਮਜਬੂਰ ਕਰੋ।
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } { -brand-product-name } ਗਰੁੱਪ ਦਾ ਭਾਗ ਹੈ
-newtab-pocket-save = ਸੰਭਾਲੋ
-newtab-pocket-saved = ਸੰਭਾਲਿਆ
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = ਇਸ ਵਰਗੇ ਹੋਰ
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = ਮੇਰੇ ਲਈ ਨਹੀਂ
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = ਧੰਨਵਾਦ! ਤੁਹਾਡਾ ਸੁਝਾਅ ਸਾਡੀ ਫੀਡ ਸੁਧਾਰਨ ਲਈ ਮਦਦਗਾਰ ਹੋਵੇਗਾ।
-newtab-toast-dismiss-button =
-    .aria-label = ਖ਼ਾਰਜ ਕਰੋ
-    .title = ਖ਼ਾਰਜ ਕਰੋ
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = ਵੈੱਬ ਤੋਂ ਸਭ ਤੋਂ ਵਧੀਆ ਖੋਜੋ
-newtab-pocket-onboarding-cta = { -pocket-brand-name } ਤੁਹਾਡੇ { -brand-product-name } ਬਰਾਊਜ਼ਰ ਲਈ ਵੱਧ ਜਾਣਕਾਰੀ ਭਰਪੂਰ, ਪ੍ਰੇਰਨਾਦਾਇਕ ਅਤੇ ਭਰੋਸੇਯੋਗ ਸਮੱਗਰੀ ਦੇਣ ਵਾਸਤੇ ਬਹੁਤ ਸਾਰੇ ਪ੍ਰਕਾਸ਼ਨ ਦੀ ਛਾਣਬੀਣ ਕਰਦਾ ਹੈ।
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -815,8 +722,6 @@ newtab-error-fallback-refresh-link = ਮੁੜ ਕੋਸ਼ਿਸ਼ ਲਈ ਸਫ਼ੇ 
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = ਸ਼ਾਰਟਕੱਟ
-newtab-custom-shortcuts-subtitle = ਸਾਈਟਾਂ ਤੁਸੀਂ ਸੰਭਾਲੀਆਂ ਜਾਂ ਖੋਲ੍ਹੀਆਂ
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = ਸਾਈਟਾਂ ਤੁਸੀਂ ਸੰਭਾਲੀਆਂ ਜਾਂ ਖੋਲ੍ਹੀਆਂ
@@ -837,16 +742,6 @@ newtab-custom-row-selector2 =
             [one] { $num } ਕਤਾਰ
            *[other] { $num } ਕਤਾਰ
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } ਕਤਾਰ
-       *[other] { $num } ਕਤਾਰ
-    }
-newtab-custom-sponsored-sites = ਸਪਾਂਸਰ ਕੀਤੇ ਸ਼ਾਰਟਕੱਟ
-newtab-custom-pocket-title = { -pocket-brand-name } ਵਲੋਂ ਸਿਫਾਰਸ਼ ਕੀਤੇ
-newtab-custom-pocket-subtitle = { -brand-product-name } ਦੇ ਹਿੱਸੇ ਵਜੋਂ { -pocket-brand-name } ਵਲੋਂ ਖਾਸ ਇਕੱਤਰ ਕੀਤੀ ਸਮੱਗਰੀ
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = { -brand-product-name } ਸਮੂਹ ਵਲੋਂ ਤਿਆਰੀ ਕੀਤੀ ਖਾਸ ਸਮੱਗਰੀ
@@ -858,10 +753,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = ਤੁਹਾਡੀ ਸਰਗਰਮੀ ਦੇ ਮੁਤਾਬਕ ਨਿੱਜੀ ਬਣਾਏ ਗਏ ਲੇਖ
 newtab-custom-stories-personalized-checkbox-label = ਤੁਹਾਡੀ ਸਰਗਰਮੀ ਦੇ ਮੁਤਾਬਕ ਨਿੱਜੀ ਬਣਾਏ ਗਏ ਲੇਖ
-newtab-custom-pocket-sponsored = ਸਪਾਂਸਰ ਕੀਤੀਆਂ ਕਹਾਣੀਆਂ
-newtab-custom-pocket-show-recent-saves = ਸੱਜਰੇ ਸੰਭਾਲੇ ਵੇਖੋ
-newtab-custom-recent-title = ਤਾਜ਼ਾ ਸਰਗਰਮੀ
-newtab-custom-recent-subtitle = ਤਾਜ਼ਾ ਸਾਈਟਾਂ ਤੇ ਸਮੱਗਰੀ ਦੀ ਚੋਣ
 newtab-custom-weather-toggle =
     .description = ਅੱਜ ਦੇ ਮੌਸਮ ਬਾਰੇ ਝਾਤ
     .label = ਮੌਸਮ
@@ -893,7 +784,6 @@ newtab-widget-manage-widget-button =
 newtab-custom-close-menu-button =
     .aria-label = ਮੇਨ ਨੂੰ ਬੰਦ ਕਰੋ
     .title = ਬੰਦ ਕਰੋ
-newtab-custom-close-button = ਬੰਦ ਕਰੋ
 newtab-custom-settings = ਹੋਰ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 
 ## New Tab Appearance (browser theme picker)
@@ -935,7 +825,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = ਚਿੱਤਰ ਫ਼ਾਇਲ ਦਾ ਆਕਾਰ { $file_size } MB ਤੋਂ ਵੱਧ ਗਿਆ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਛੋਟੇ ਆਕਾਰ ਦੀ ਫਾਇਲ ਅੱਪਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 newtab-wallpaper-error-upload-file-type = ਅਸੀਂ ਤੁਹਾਡੀ ਫ਼ਾਇਲ ਨੂੰ ਅੱਪਲੋਡ ਨਹੀਂ ਕਰ ਸਕੇ ਹਾਂ। ਚਿੱਤਰ  ਫ਼ਾਇਲ ਨਾਲ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰਕੇ ਵੇਖੋ।
-newtab-wallpaper-error-file-type = ਅਸੀਂ ਤੁਹਾਡੀ ਫ਼ਾਇਲ ਨੂੰ ਅੱਪਲੋਡ ਨਹੀਂ ਕਰ ਸਕੇ ਹਾਂ। ਵੱਖਰੀ ਫ਼ਾਇਲ ਕਿਸਮ ਨਾਲ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰਕੇ ਵੇਖੋ।
 newtab-wallpaper-light-red-panda = ਲਾਲ ਪਾਂਡਾ
 newtab-wallpaper-light-mountain = ਚਿੱਟਾ ਪਹਾੜ
 newtab-wallpaper-light-sky = ਜਾਮਨੀ ਅਤੇ ਗੁਲਾਬੀ ਬੱਦਲਾਂ ਨਾਲ ਅਸਮਾਨ
@@ -1079,10 +968,6 @@ newtab-wallpaper-celestial-river = ਦਰਿਆ ਦਾ ਉਪ-ਗ੍ਰਹਿ �
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = { $provider } ਵਿੱਚ ਭਵਿੱਖਬਾਣੀ ਵੇਖੋ
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ ਸਪਾਂਸਰ
 newtab-weather-menu-change-location = ਟਿਕਾਣੇ ਨੂੰ ਬਦਲੋ
 newtab-weather-change-location-search-input-placeholder =
@@ -1109,7 +994,6 @@ newtab-weather-menu-temperature-option-fahrenheit = ਫਾਹਰਨਹੀਟ
 newtab-weather-menu-temperature-option-celsius = ਸੈਲਸੀਅਸ
 newtab-weather-menu-change-temperature-units-fahrenheit = ਫਾਹਰਨਹੀਟ ਵਿੱਚ ਬਦਲੋ
 newtab-weather-menu-change-temperature-units-celsius = ਸੈਲਸੀਅ ਵਿੱਚ ਬਦਲੋ
-newtab-weather-menu-hide-weather = ਨਵੀਂ ਟੈਬ ਉੱਤੇ ਮੌਸਮ ਨੂੰ ਲੁਕਾਓ
 newtab-weather-menu-learn-more = ਹੋਰ ਜਾਣੋ
 newtab-weather-menu-detect-my-location = ਮੇਰੇ ਟਿਕਾਣੇ ਨੂੰ ਖੋਜੋ
 # This message is shown if user is working offline
@@ -1230,7 +1114,6 @@ newtab-section-unblock-topic =
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = ਹੁਣੇ ਨਹੀਂ
 newtab-section-confirm-block-topic-p1 = ਕੀ ਤੁਸੀਂ ਇਸ ਵਿਸ਼ੇ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
 newtab-section-confirm-block-topic-p2 = ਪਾਬੰਦੀ ਲਾਏ ਵਿਸ਼ੇ ਤੁਹਾਡੀ ਫੀਡ ਵਿੱਚ ਦਿਖਾਈ ਨਹੀਂ ਦੇਣਗੇ।
 # Variables:

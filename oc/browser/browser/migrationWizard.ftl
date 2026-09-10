@@ -19,11 +19,6 @@ migration-wizard-selection-option-without-profile = { $sourceBrowser }
 #  $sourceBrowser (String): the name of the browser to import from.
 #  $profileName (String): the name of the user profile to import from.
 migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
-
-# Each migrator is expected to include a display name string, and that display
-# name string should have a key with "migration-wizard-migrator-display-name-"
-# as a prefix followed by the unique identification key for the migrator.
-
 migration-wizard-migrator-display-name-brave = Brave
 migration-wizard-migrator-display-name-canary = Chrome Canary
 migration-wizard-migrator-display-name-chrome = Chrome
@@ -67,7 +62,6 @@ migration-bookmarks-option-label = Marcapaginas
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favorits
-migration-logins-and-passwords-option-label = Identificants e senhals salvats
 migration-passwords-option-label = Senhals enregistrats
 migration-history-option-label = Istoric de navegacion
 migration-extensions-option-label = Extensions
@@ -190,8 +184,6 @@ migration-safari-password-import-step3 = Enregistratz lo fichièr de senhals
 migration-safari-password-import-step4 = Utilizatz « Seleccionar un fichièr » çai jos per causir lo fichièrs de senhals qu’avètz salvat
 migration-manual-password-import-skip-button = Passar
 migration-manual-password-import-select-button = Seleccionar un fichièr
-migration-safari-password-import-skip-button = Passar
-migration-safari-password-import-select-button = Seleccionar un fichièr
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #

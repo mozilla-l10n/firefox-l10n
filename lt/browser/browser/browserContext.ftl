@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Vienu tinklalapiu atgal ({ $shortcut })
     .aria-label = Atgal
+    .tooltiptext = Vienu tinklalapiu atgal ({ $shortcut })
     .accesskey = A
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Vienu tinklalapiu pirmyn ({ $shortcut })
     .aria-label = Pirmyn
+    .tooltiptext = Vienu tinklalapiu pirmyn ({ $shortcut })
     .accesskey = P
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = „{ -fxaccount-brand-name }“ paskyra
-    .tooltiptext = „{ -fxaccount-brand-name }“ paskyra
-
 ## Save Page
 
 main-context-menu-page-save =
@@ -88,8 +82,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Įtraukti į adresyną…
-    .accesskey = k
     .tooltiptext = Įtraukti į adresyną
+    .accesskey = k
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -106,18 +100,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Įtraukti į adresyną…
-    .accesskey = k
     .tooltiptext = Įtraukti į adresyną ({ $shortcut })
+    .accesskey = k
 main-context-menu-edit-bookmark =
     .aria-label = Redaguoti adresyno įrašą…
-    .accesskey = g
     .tooltiptext = Redaguoti adresyno įrašą
+    .accesskey = g
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Redaguoti adresyno įrašą…
-    .accesskey = g
     .tooltiptext = Redaguoti adresyno įrašą ({ $shortcut })
+    .accesskey = g
 main-context-menu-open-link =
     .label = Atverti saitą
     .accesskey = A
@@ -139,9 +133,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Įrašyti saistomą objektą kaip…
     .accesskey = Į
-main-context-menu-save-link-to-pocket =
-    .label = Įrašyti saitą į „{ -pocket-brand-name }“
-    .accesskey = o
 
 ##
 
@@ -270,37 +261,19 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Išsiųsti garso įrašą el. paštu…
     .accesskey = s
-main-context-menu-save-to-pocket =
-    .label = Įrašyti tinklalapį į „{ -pocket-brand-name }“
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Siųsti tinklalapį į įrenginį
-    .accesskey = r
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Naudoti įrašytą prisijungimą
-    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Naudoti įrašytą slaptažodį
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Naudoti „{ -relay-brand-short-name }“ el. pašto kaukę
     .accesskey = e
 main-context-menu-suggest-strong-password =
     .label = Pasiūlyti stiprų slaptažodį…
     .accesskey = s
-main-context-menu-manage-logins2 =
-    .label = Tvarkyti prisijungimus
-    .accesskey = T
-main-context-menu-keyword =
-    .label = Įdėti šios paieškos reikšminį žodį…
-    .accesskey = p
 main-context-menu-link-send-to-device =
     .label = Siųsti saitą į įrenginį
     .accesskey = r
@@ -343,9 +316,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Padaryti ekrano nuotrauką
     .accesskey = n
-main-context-menu-take-frame-screenshot =
-    .label = Padaryti ekrano nuotrauką
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = Pirminis tekstas
     .accesskey = e

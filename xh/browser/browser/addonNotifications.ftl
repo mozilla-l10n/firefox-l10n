@@ -9,13 +9,6 @@ xpinstall-prompt = I-{ -brand-short-name } iyithintele le sayithi ekukuceleni uk
 xpinstall-prompt-dont-allow =
     .label = Musa Ukuvumela
     .accesskey = D
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = Ufakelo lwesoftwe aluvunywanga ngumlawuli-khompyutha wakho.
 xpinstall-disabled = Ukufakelwa kwesoftwe kuqhwalelisiwe kungokunje. Cofa uKwenza isebenze uze uzame kwakhona.
 xpinstall-disabled-button =
     .label = Vumela
@@ -74,4 +67,3 @@ addon-local-install-error-not-signed = Esi songezelelo asibanga nakufakwa kuba a
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } ayikwazanga kufakelwa kuba ayihambelani ne-{ -brand-short-name } { $appVersion }.
-addon-install-error-blocklisted = { $addonName } asibanga nakufakwa kuba inobungozi bokudala uzinzo okanye iingxaki zokhuseleko.

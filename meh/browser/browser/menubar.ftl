@@ -257,8 +257,6 @@ menu-help =
 menu-get-help =
     .label = Nánuku chineída noo´o
     .accesskey = H
-menu-help-report-site-issue =
-    .label = Iyo iin tixi nuu sitio ya´a...
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

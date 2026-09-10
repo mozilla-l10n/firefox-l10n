@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = جستجوی گذرواژه‌ها
-    .key = F
     .aria-label = جستجوی گذرواژه‌ها
+    .key = F
+    .placeholder = جستجوی گذرواژه‌ها
 contextual-manager-menu-more-options-button =
     .title = گزینه‌های بیشتر
 contextual-manager-more-options-popup =
@@ -18,7 +18,6 @@ contextual-manager-passwords-command-import-from-browser = درون‌ریزی �
 contextual-manager-passwords-command-import = درون‌ریزی از یک پرونده…
 contextual-manager-passwords-command-export = برون‌ریزی گذرواژه‌ها
 contextual-manager-passwords-command-remove-all = حذف همهٔ گذرواژه‌ها
-contextual-manager-passwords-command-settings = تنظیمات
 contextual-manager-passwords-command-help = راهنما
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -61,10 +60,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = گذرواژه‌ها درون‌ریزی شد
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = تازه: { $added }، به‌روز شده: { $modified }
 contextual-manager-passwords-import-detailed-report = مشاهده ریز گزارش
 contextual-manager-passwords-import-success-button = انجام شد
 contextual-manager-passwords-import-error-heading-and-message =
@@ -206,8 +201,6 @@ contextual-manager-passwords-add-username-button = افزودن نام کارب�
 
 contextual-manager-passwords-create-label =
     .label = افزودن گذرواژه
-contextual-manager-passwords-edit-label =
-    .label = ویرایش گذرواژه
 contextual-manager-passwords-remove-label =
     .title = حذف گذرواژه
 contextual-manager-passwords-origin-field =
@@ -221,7 +214,6 @@ contextual-manager-passwords-password-field =
     .label = گذرواژه
 contextual-manager-passwords-origin-tooltip = نشانی دقیق مکانی را که در آن به این وبگاه وارد می‌شوید، وارد کنید.
 contextual-manager-passwords-username-tooltip = نام‌کاربری، نشانی رایانامه یا شماره حساب کاربری که برای ورود استفاده می‌کنید را وارد کنید.
-contextual-manager-passwords-password-tooltip = گذرواژه‌ای که برای ورود به این حساب کاربری استفاده می‌شود را وارد کنید.
 
 ## Password Card
 
@@ -237,10 +229,6 @@ contextual-manager-alert-icon =
     .alt = هشدار
 contextual-manager-edit-login-button = ویرایش
     .tooltiptext = ویرایش گذرواژه
-contextual-manager-view-alert-heading =
-    .heading = نمایش هشدار
-contextual-manager-view-alert-button =
-    .tooltiptext = بازبینی هشدار
 contextual-manager-show-password-button =
     .aria-label = نمایش گذرواژه
     .title = نمایش گذرواژه
@@ -250,13 +238,6 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = هیچ گذرواژه‌ای یافت نشد
-contextual-manager-passwords-no-passwords-found-message = هیچ گذرواژه‌ای یافت نشد. عبارت دیگری را جستجو و دوباره امتحان کنید.
-
-## When the user has no saved passwords, we display the following messages to inform the user they can save
-## their passwords safely and securely in Firefox:
-
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = گذرواژه‌های خود را در مکانی امن ذخیره کنید.
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.

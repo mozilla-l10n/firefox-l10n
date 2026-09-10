@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Ҷустуҷӯи ниҳонвожаҳо
-    .key = F
     .aria-label = Ҷустуҷӯи ниҳонвожаҳо
+    .key = F
+    .placeholder = Ҷустуҷӯи ниҳонвожаҳо
 contextual-manager-menu-more-options-button =
     .title = Имконоти бештар
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Аз файл ворид кард�
 contextual-manager-passwords-command-export = Содир кардани ниҳонвожаҳо
 contextual-manager-passwords-command-remove-all = Тоза кардани ҳамаи ниҳонвожаҳо
 contextual-manager-passwords-command-options = Имконот
-contextual-manager-passwords-command-settings = Танзимот
 contextual-manager-passwords-command-help = Кумак
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Ниҳонвожаҳо ворид карда шуданд
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Нав: { $added }, ивазшуда: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -213,8 +208,6 @@ contextual-manager-passwords-create-label =
     .label = Илова кардани ниҳонвожа
 contextual-manager-passwords-update-label =
     .label = Нав кардани ниҳонвожа
-contextual-manager-passwords-edit-label =
-    .label = Таҳрир кардани ниҳонвожа
 contextual-manager-passwords-remove-label =
     .title = Тоза кардани ниҳонвожа
 contextual-manager-passwords-origin-field =
@@ -230,7 +223,6 @@ contextual-manager-passwords-password-field-description = Барои ворид 
 contextual-manager-passwords-origin-tooltip = Нишонии дақиқеро, ки шумо аз он ба ин сомона ворид мешавед, ворид намоед.
 contextual-manager-passwords-username-tooltip = Номи корбар, нишонии почтаи электронӣ ё рақами ҳисоберо, ки шумо барои воридшавӣ истифода мебаред, ворид намоед.
 contextual-manager-passwords-password-tooltip-2 = Барои ворид шудан ба ин ҳисоб ниҳонвожаро ворид намоед.
-contextual-manager-passwords-password-tooltip = Ниҳонвожаеро, ки барои воридшавӣ ба ин ҳисоб истифода мешавад, ворид намоед.
 
 ## Password Card
 
@@ -277,10 +269,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Нусха бардоштани ниҳонвожа (Огоҳӣ)
 contextual-manager-edit-login-button = Таҳрир кардан
     .tooltiptext = Таҳрир кардани ниҳонвожа
-contextual-manager-view-alert-heading =
-    .heading = Дидани огоҳӣ
-contextual-manager-view-alert-button =
-    .tooltiptext = Баррасӣ кардани огоҳӣ
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -307,13 +295,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Ягон ниҳонвожа ёфт нашуд
 contextual-manager-passwords-no-passwords-found-message-2 = Калидвожаи дигареро кӯшиш карда, аз нав ҷустуҷӯ кунед.
-contextual-manager-passwords-no-passwords-found-message = Ягон ниҳонвожа ёфт нашуд. Вожаи дигареро ҷустуҷӯ кунед ва аз нав кӯшиш намоед.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Ниҳонвожаҳои худро дар ҷойи бехатар нигоҳ доред.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Ҳамаи ниҳонвожаҳо рамзгузорӣ карда мешаванд ва мо ҳамаи ҳодисаҳои вайронкунӣ ва огоҳиҳоро назорат мекунем, агар онҳо ба шумо таъсир расонанд.

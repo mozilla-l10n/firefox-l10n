@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = ਛੋਟ
     .style = min-width: 36em
+    .title = ਛੋਟ
 permissions-close-key =
     .key = w
 permissions-address = ਵੈੱਬਸਾਈਟ ਦਾ ਸਿਰਨਾਵਾਂ
@@ -80,79 +80,64 @@ permissions-invalid-uri-label = ਠੀਕ ਹੋਸਟ ਨਾਂ ਦਿਓ ਜ�
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = ਵਧੇਰੇ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਲਈ ਛੋਟਾਂ
     .style = { permissions-window2.style }
+    .title = ਵਧੇਰੇ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਲਈ ਛੋਟਾਂ
 permissions-exceptions-manage-etp-desc = ਤੁਸੀਂ ਵੈੱਬਸਾਈਟਾਂ ਦੀ ਚੋਣ ਕਰ ਸਕਦੇ ਹੋ, ਜਿੰਨ੍ਹਾਂ ਲਈ ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਨੂੰ ਬੰਦ ਕਰਨਾ ਹੈ। ਜਿਸ ਸਾਈਟ ਦਾ ਤੁਸੀਂ ਇੰਤਜ਼ਾਮ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਦਾ ਸਹੀ ਸਿਰਨਾਵਾਂ ਲਿਖੋ ਅਤੇ ਛੋਟ ਜੋੜੋ ਨੂੰ ਕਲਿੱਕ ਕਰੋ।
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = ਛੋਟਾਂ - ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ
     .style = { permissions-window2.style }
+    .title = ਛੋਟਾਂ - ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ
 permissions-exceptions-cookie-desc = ਤੁਸੀਂ ਦੱਸ ਸਕਦੇ ਹੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈਬਸਾਈਟਾਂ ਨੂੰ ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ ਵਰਤਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਦਿੱਤੀ ਜਾਂਦੀ ਹੈ ਉਸ ਸਾਈਟ ਦਾ ਸਹੀ ਸਿਰਨਾਵਾਂ ਲਿਖੋ, ਜਿਸ ਦਾ ਤੁਸੀਂ ਬੰਦੋਬਸਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ ਅਤੇ ਫਿਰ ਪਾਬੰਦੀ ਲਾਓ, ਸੈਸ਼ਨ ਲਈ ਇਜਾਜ਼ਤ ਦਿਓ, ਜਾਂ ਇਜਾਜ਼ਤ ਦਿਓ।
 
 ## Exceptions - Clear on Shutdown
 
 permissions-exceptions-shutdown-clearing-window =
-    .title = ਛੋਟਾਂ - ਬੰਦ ਕਰਨ ਸਮੇਂ ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
     .style = { permissions-window2.style }
+    .title = ਛੋਟਾਂ - ਬੰਦ ਕਰਨ ਸਮੇਂ ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
 permissions-exceptions-shutdown-clearing-desc = ਤੁਸੀਂ ਦੱਸ ਸਕਦੇ ਹੋ ਕਿ { -brand-short-name } ਬੰਦ ਹੋਣ ਦੌਰਾਨ ਅਤੀਤ ਨੂੰ ਮਿਟਾਉਣ ਸਮੇਂ ਕਿਹੜੀਆਂ ਵੈੱਬ ਸਾਇਟਾਂ ਨੂੰ ਉਹਨਾਂ ਦਾ ਡਾਟਾ ਰੱਖਣ ਦੀ ਇਜਾਜ਼ਤ ਹੋਵੇਗੀ। ਉਸ ਵੈੱਬ ਸਾਇਟ ਦੀ ਠੀਕ ਐਡਰੈੱਸ ਦਿਓ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਇਜ਼ਾਜਤ ਦਿੰਦੇ ਹੋ, ਅਤੇ ਮਨਜ਼ੂਰ ਨੂੰ ਦਬਾਓ।
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = ਛੋਟ - ਸਿਰਫ਼-HTTPS ਮੋਡ
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = ਤੁਸੀਂ ਖਾਸ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਸਿਰਫ਼-HTTPS ਢੰਗ ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ। { -brand-short-name } ਉਹਨਾਂ ਸਾਈਟਾਂ ਲਈ ਸੁਰੱਖਿਅਤ HTTPS ਕਨੈਕਸ਼ਨ ਵਾਸਤੇ ਅੱਪਗਰੇਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਨਹੀਂ ਕਰੇਗਾ। ਛੋਟਾਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਉੱਤੇ ਲਾਗੂ ਨਹੀਂ ਹੁੰਦੀਆਂ ਹਨ।
+    .title = ਛੋਟ - ਸਿਰਫ਼-HTTPS ਮੋਡ
 permissions-exceptions-https-only-desc2 = ਤੁਸੀਂ ਖਾਸ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਸਿਰਫ਼-HTTPS ਢੰਗ ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ। { -brand-short-name } ਉਹਨਾਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਕਨੈਕਸ਼ਨ ਨੂੰ ਸੁਰੱਖਿਅਤ HTTPS ਵਾਸਤੇ ਅੱਪਗਰੇਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਨਹੀਂ ਕਰੇਗਾ।
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
     .title = ਮਨਜ਼ੂਰ ਕੀਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ - ਪੌਪਅੱਪ ਅਤੇ ਤੀਜੀ ਧਿਰ ਰੀ-ਡਾਇਰੈਕਟ
-    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = ਤੁਸੀਂ ਦੱਸ ਸਕਦੇ ਹੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਸੁਤੰਤਰ-ਧਿਰ ਫਰੇਮਾਂ ਵਲੋਂ ਪੌਪ-ਅੱਪ ਵਿੰਡੋ ਖੋਲ੍ਹਣ ਅਤੀ ਰੀ-ਡਾਇਰੈਕਟ ਕਰਨ ਦੀ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ ਜਾਵੇਗਾ।
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = ਇਜਾਜ਼ਤ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ - ਪੌਪਅੱਪ
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = ਤੁਸੀਂ ਦੱਸ ਸਕਦੇ ਹੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈਬ ਸਾਇਟਾਂ ਨੂੰ ਪੋਪਅੱਪ ਵਿੰਡੋਜ਼ ਨੂੰ ਲੋਡ ਕਰ ਸਕਦੀਆਂ ਹਨ। ਸਾਇਟ ਦਾ ਸਹੀਂ ਸਿਰਨਾਵਾਂ ਦਿਓ ਅਤੇ ਫਿਰ ਮਨਜ਼ੂਰ ਕਰੋ ਜਾਂ ਪਾਬੰਦੀ ਦਬਾਓ।
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = ਛੋਟਾਂ - ਸੰਭਾਲੇ ਲਾਗਇਨ
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = ਅੱਗੇ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਲਾਗਇਨਾਂ ਨੂੰ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾਵੇਗਾ
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = ਛੋਟਾਂ - ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡ
     .style = { permissions-window2.style }
+    .title = ਛੋਟਾਂ - ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡ
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } ਇੱਥੇ ਦਿੱਤੀਆਂ ਹੋਈਆਂ ਸਾਈਟਾਂ ਲਈ ਪਾਸਵਰਡ ਨਹੀਂ ਸੰਭਾਲੇਗਾ।
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = ਇਜਾਜ਼ਤ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ - ਐਨ-ਆਨ ਇੰਸਟਾਲੇਸ਼ਨ
     .style = { permissions-window2.style }
+    .title = ਇਜਾਜ਼ਤ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ - ਐਨ-ਆਨ ਇੰਸਟਾਲੇਸ਼ਨ
 permissions-exceptions-addons-desc = ਤੁਸੀਂ ਦੱਸ ਸਕਦੇ ਹੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈੱਬ ਸਾਇਟਾਂ ਤੋਂ ਐਂਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਇਜ਼ਾਜਤ ਹੈ। ਉਸ ਵੈੱਬ ਸਾਇਟ ਦੀ ਠੀਕ ਐਡਰੈੱਸ ਦਿਓ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਇਜ਼ਾਜਤ ਦਿੰਦੇ ਹੋ, ਅਤੇ ਇਜ਼ਾਜਤ ਹੈ ਨੂੰ ਦਬਾਓ।
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = ਸੈਟਿੰਗਾਂ - ਆਪੇ-ਚਲਾਓ
     .style = { permissions-window2.style }
+    .title = ਸੈਟਿੰਗਾਂ - ਆਪੇ-ਚਲਾਓ
 permissions-site-autoplay-desc = ਤੁਸੀਂ ਉਹਨਾਂ ਸਾਈਟਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰ ਸਕਦੇ ਹੋ ਜੋ ਤੁਹਾਡੀ ਮੂਲ ਆਟੋਪਲੇ ਸੈਟਿੰਗਾਂ ਦੀ ਪਾਲਣਾ ਨਹੀਂ ਕਰਦੀਆਂ।
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = ਸੈਟਿੰਗਾਂ - ਨੋਟੀਫਿਕੇਸ਼ਨ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window2.style }
+    .title = ਸੈਟਿੰਗਾਂ - ਨੋਟੀਫਿਕੇਸ਼ਨ ਇਜਾਜ਼ਤਾਂ
 permissions-site-notification-desc = ਹੇਠਲੀਆਂ ਵੈਬਸਾਈਟਾਂ ਨੇ ਤੁਹਾਨੂੰ ਸੂਚਨਾਵਾਂ ਭੇਜਣ ਦੀ ਬੇਨਤੀ ਕੀਤੀ ਹੈ ਤੁਸੀਂ ਇਹ ਨਿਰਧਾਰਿਤ ਕਰ ਸਕਦੇ ਹੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈਬਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਨੂੰ ਸੂਚਨਾਵਾਂ ਭੇਜਣ ਦੀ ਇਜਾਜ਼ਤ ਹੈ ਤੁਸੀਂ ਸੂਚਨਾਵਾਂ ਦੀ ਆਗਿਆ ਦੇਣ ਲਈ ਨਵੀਆਂ ਬੇਨਤੀਆਂ ਨੂੰ ਵੀ ਬਲੌਕ ਕਰ ਸਕਦੇ ਹੋ।
 permissions-site-notification-disable-label =
     .label = ਸੂਚਨਾਵਾਂ ਵਾਸਤੇ ਇਜਾਜ਼ਤ ਲਈ ਪੁੱਛਣ ਲਈ ਨਵੀਆਂ ਬੇਨਤੀਆਂ ਉੱਤੇ ਰੋਕ ਲਗਾਓ
@@ -161,8 +146,8 @@ permissions-site-notification-disable-desc = ਇਹ ਉੱਤੇ ਸੂਚੀਬ
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = ਸੈਟਿੰਗਾਂ - ਟਿਕਾਣਾ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window2.style }
+    .title = ਸੈਟਿੰਗਾਂ - ਟਿਕਾਣਾ ਇਜਾਜ਼ਤਾਂ
 permissions-site-location-desc = ਹੇਠਲੀਆਂ ਵੈਬਸਾਈਟਾਂ ਨੇ ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਦੀ ਬੇਨਤੀ ਕੀਤੀ ਹੈ। ਤੁਸੀਂ ਇਹ ਦੱਸ ਸਕਦੇ ਹੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਹੈ। ਤੁਸੀਂ ਆਪਣੇ ਟਿਕਾਣੇ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਨਵੀਂ ਬੇਨਤੀਆਂ ਉੱਤੇ ਪਾਬੰਦੀ ਵੀ ਲਾ ਸਕਦੇ ਹੋ।
 permissions-site-location-disable-label =
     .label = ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਲਈ ਪਹੁੰਚ ਵਾਸਤੇ ਪੁੱਛਣ ਦੀਆਂ ਨਵੀਆਂ ਬੇਨਤੀਆਂ ਉੱਤੇ ਰੋਕ ਲਗਾਓ
@@ -171,8 +156,8 @@ permissions-site-location-disable-desc = ਇਹ ਉੱਤੇ ਸੂਚੀਬੱ�
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = ਸੈਟਿੰਗਾਂ - ਵਰਚੁਅਲ ਰਿਐਲਟੀ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window2.style }
+    .title = ਸੈਟਿੰਗਾਂ - ਵਰਚੁਅਲ ਰਿਐਲਟੀ ਇਜਾਜ਼ਤਾਂ
 permissions-site-xr-desc = ਹੇਠਲੀਆਂ ਵੈਬਸਾਈਟਾਂ ਨੇ ਤੁਹਾਡੇ ਵਰਚੁਅਲ ਰਿਐਲਟੀ ਡਿਵਾਈਸ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਦੀ ਬੇਨਤੀ ਕੀਤੀ ਹੈ। ਤੁਸੀਂ ਇਹ ਨਿਰਧਾਰਤ ਕਰ ਸਕਦੇ ਹੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਡੇ ਵਰਚੁਅਲ ਰਿਐਲਟੀ ਡਿਵਾਈਸ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਹੈ। ਤੁਸੀਂ ਆਪਣੇ ਵਰਚੁਅਲ ਰਿਐਲਟੀ ਡਿਵਾਈਸ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਨਵੀਂ ਬੇਨਤੀਆਂ ਉੱਤੇ ਪਾਬੰਦੀ ਵੀ ਲਾ ਸਕਦੇ ਹੋ।
 permissions-site-xr-disable-label =
     .label = ਤੁਹਾਡੇ ਵਰਚੁਅਲ ਰਿਐਲਟੀ ਡਿਵਾਈਸ ਲਈ ਪਹੁੰਚ ਵਾਸਤੇ ਪੁੱਛਣ ਦੀਆਂ ਨਵੀਆਂ ਬੇਨਤੀਆਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
@@ -181,8 +166,8 @@ permissions-site-xr-disable-desc = ਇਹ ਉੱਤੇ ਸੂਚੀਬੱਧ ਨ
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = ਸੈਟਿੰਗਾਂ - ਕੈਮਰਾ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window2.style }
+    .title = ਸੈਟਿੰਗਾਂ - ਕੈਮਰਾ ਇਜਾਜ਼ਤਾਂ
 permissions-site-camera-desc = ਹੇਠਲੀਆਂ ਵੈਬਸਾਈਟਾਂ ਨੇ ਤੁਹਾਡੇ ਕੈਮਰੇ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਦੀ ਬੇਨਤੀ ਕੀਤੀ ਹੈ। ਤੁਸੀਂ ਇਹ ਨਿਰਧਾਰਤ ਕਰ ਸਕਦੇ ਹੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਡੇ ਕੈਮਰੇ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਹੈ। ਤੁਸੀਂ ਆਪਣੇ ਕੈਮਰੇ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਨਵੀਂ ਬੇਨਤੀਆਂ ਉੱਤੇ ਪਾਬੰਦੀ ਵੀ ਲਾ ਸਕਦੇ ਹੋ।
 permissions-site-camera-disable-label =
     .label = ਤੁਹਾਡੇ ਕੈਮਰੇ ਲਈ ਪਹੁੰਚ ਲਈ ਪੁੱਛਣ ਦੀਆਂ ਨਵੀਆਂ ਬੇਨਤੀਆਂ ਉੱਤੇ ਰੋਕ ਲਗਾਓ
@@ -191,8 +176,8 @@ permissions-site-camera-disable-desc = ਇਹ ਉੱਤੇ ਸੂਚੀਬੱਧ
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = ਸੈਟਿੰਗਾਂ - ਡਿਵਾਈਸ ਐਪਾਂ ਅਤੇ ਸੇਵਾਵਾਂ
     .style = { permissions-window2.style }
+    .title = ਸੈਟਿੰਗਾਂ - ਡਿਵਾਈਸ ਐਪਾਂ ਅਤੇ ਸੇਵਾਵਾਂ
 permissions-site-localhost-desc = ਇਹਨਾਂ ਵੈੱਬਸਾਈਟਾਂ ਨੇ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਐਪਾਂ ਅਤੇ ਸੇਵਾਵਾਂ ਲਈ ਪਹੁੰਚ ਦੀ ਬੇਨਤੀ ਕੀਤੀ ਹੈ। ਤੁਸੀਂ ਇਹ ਕਰਨ ਲਈ ਸਾਈਟਾਂ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦੇ ਜਾਂ ਪਾਬੰਦੀ ਲਗਾ ਸਕਦੇ ਹੋ।
 permissions-site-localhost-disable-label =
     .label = ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਹੋਰ ਐਪਾਂ ਅਤੇ ਸੇਵਾਵਾਂ ਲਈ ਪਹੁੰਚ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
@@ -201,8 +186,8 @@ permissions-site-localhost-disable-desc = ਇਹ ਉੱਤੇ ਦਿੱਤੀਆ
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = ਸੈਟਿੰਗਾਂ - ਲੋਕਲ ਨੈੱਟਵਰਕ ਡਿਵਾਈਸ
     .style = { permissions-window2.style }
+    .title = ਸੈਟਿੰਗਾਂ - ਲੋਕਲ ਨੈੱਟਵਰਕ ਡਿਵਾਈਸ
 permissions-site-local-network-desc = ਇਹਨਾਂ ਵੈੱਬਸਾਈਟਾਂ ਨੇ ਤੁਹਾਡੇ ਵਾਈ-ਫਾਈ ਜਾਂ ਲੋਕਲ ਨੈੱਟਵਰਕਾਂ ਉੱਤੇ ਇਹਨਾਂ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਐਪਾਂ ਅਤੇ ਸੇਵਾਵਾਂ ਲਈ ਪਹੁੰਚ ਦੀ ਬੇਨਤੀ ਕੀਤੀ ਹੈ। ਤੁਸੀਂ ਇਹ ਕਰਨ ਲਈ ਸਾਈਟਾਂ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦੇ ਜਾਂ ਪਾਬੰਦੀ ਲਗਾ ਸਕਦੇ ਹੋ।
 permissions-site-local-network-disable-label =
     .label = ਤੁਹਾਡੇ ਵਾਈ-ਫਾਈ ਜਾਂ ਲੋਕਲ ਨੈੱਟਵਰਕ ਰਾਹੀਂ ਕਨੈਕਟ ਹੋਏ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਐਪਾਂ ਅਤੇ ਸੇਵਾਵਾਂ ਲਈ ਪਹੁੰਚ ਉੱਤੇ ਨਵੀਆਂ ਬੇਨਤੀਆਂ ਉੱਤੇ ਰੋਕ ਲਾਓ।
@@ -211,8 +196,8 @@ permissions-site-local-network-disable-desc = ਇਹ ਉੱਤੇ ਦਿੱਤ�
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = ਸੈਟਿੰਗਾਂ - ਮਾਈਕਰੋਫ਼ੋਨ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window2.style }
+    .title = ਸੈਟਿੰਗਾਂ - ਮਾਈਕਰੋਫ਼ੋਨ ਇਜਾਜ਼ਤਾਂ
 permissions-site-microphone-desc = ਹੇਠਲੀਆਂ ਵੈਬਸਾਈਟਾਂ ਨੇ ਤੁਹਾਡੇ ਮਾਈਕਰੋਫ਼ੋਨ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਦੀ ਬੇਨਤੀ ਕੀਤੀ ਹੈ। ਤੁਸੀਂ ਇਹ ਨਿਰਧਾਰਤ ਕਰ ਸਕਦੇ ਹੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਡੇ ਮਾਈਕਰੋਫ਼ੋਨ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਹੈ। ਤੁਸੀਂ ਆਪਣੇ ਮਾਈਕਰੋਫ਼ੋਨ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਨਵੀਂ ਬੇਨਤੀਆਂ ਉੱਤੇ ਪਾਬੰਦੀ ਵੀ ਲਾ ਸਕਦੇ ਹੋ।
 permissions-site-microphone-disable-label =
     .label = ਤੁਹਾਡੇ ਮਾਈਕਰੋਫ਼ੋਨ ਲਈ ਪਹੁੰਚ ਵਾਸਤੇ ਪੁੱਛਣ ਦੀਆਂ ਨਵੀਆਂ ਬੇਨਤੀਆਂ ਉੱਤੇ ਰੋਕ ਲਗਾਓ
@@ -223,12 +208,12 @@ permissions-site-microphone-disable-desc = ਇਹ ਉੱਤੇ ਸੂਚੀਬ�
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = ਸੈਟਿੰਗਾਂ - ਸਪੀਕਰ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window2.style }
+    .title = ਸੈਟਿੰਗਾਂ - ਸਪੀਕਰ ਇਜਾਜ਼ਤਾਂ
 permissions-site-speaker-desc = ਅੱਗੇ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੇ ਆਡੀਓ ਆਉਟਪੁੱਟ ਡਿਵਾਈਸ ਚੁਣਨ ਦੀ ਬੇਨਤੀ ਕੀਤੀ ਹੈ। ਤੁਸੀਂ ਚੁਣ ਸਕਦੇ ਹੋ ਕਿ ਕਿਹੜੀ ਵੈੱਬਸਾਈਟ ਨੂੰ ਕਿਹੜਾ ਆਡੀਓ ਆਉਟਪੁੱਟ ਡਿਵਾਈਸ ਚੁਣਨ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣੀ ਹੈ।
 permissions-exceptions-doh-window =
-    .title = HTTPS ਰਾਹੀਂ DNS ਲਈ ਵੈੱਬਸਾਈਟ ਛੋਟਾਂ
     .style = { permissions-window2.style }
+    .title = HTTPS ਰਾਹੀਂ DNS ਲਈ ਵੈੱਬਸਾਈਟ ਛੋਟਾਂ
 permissions-exceptions-manage-doh-desc = { -brand-short-name } ਇਹਨਾਂ ਸਾਈਟਾਂ ਤੇ ਸਬ-ਡੋਮੇਨਾਂ ਲਈ ਸੁਰੱਖਿਅਤ DNS ਨਹੀਂ ਵਰਤੇਗਾ।
 permissions-doh-entry-field = ਵੈੱਬਸਾਈਟ ਡੋਮੇਨ ਨਾਂ ਦਿਓ
     .accesskey = d

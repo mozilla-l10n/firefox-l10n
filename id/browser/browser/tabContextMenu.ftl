@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Tab Baru
-    .accesskey = T
 reload-tab =
     .label = Muat Ulang Tab
     .accesskey = M
@@ -98,10 +95,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Grup Baru
     .accesskey = B
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -123,9 +116,6 @@ tab-context-move-tabs =
            *[other] Pindahkan Tab
         }
     .accesskey = P
-tab-context-send-tabs-to-device =
-    .label = Kirim Tab ke { $tabCount } Peranti
-    .accesskey = k
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

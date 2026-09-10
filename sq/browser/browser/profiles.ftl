@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name }-i do ta hapet me profilin tuaj të përdorur së fundi.
 profile-window-create-profile = Krijoni profil
 profile-card-edit-button =
-    .title = Përpunoni profil
     .aria-label = Përpunoni profil
+    .title = Përpunoni profil
 profile-card-delete-button =
-    .title = Fshini profil
     .aria-label = Fshini profil
+    .title = Fshini profil
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Hapni { $profileName }
     .aria-label = Hapni { $profileName }
+    .title = Hapni { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profili { $number }
@@ -76,9 +76,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Fshije profilin { $profilename }
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = Të fshihet profili { $profilename }?
 delete-profile-description = { -brand-short-name }-i do të fshijë përgjithmonë të dhënat vijuese nga kjo pajisje:
 # Open is an adjective, as in "browser windows currently open".
@@ -102,28 +99,10 @@ delete-profile-confirm = Fshije
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = E çelët
-# The default dark theme
-profiles-dark-theme = E errët
 # The default system theme
 profiles-system-theme = Sistem
 profiles-system-theme-title =
     .title = Apliko temë sistemi
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = E verdhë kashte
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = Trumzë e butë e zbehtë
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = E gjelbër mendre
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = E trëndafiltë e çelët
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = Blu oqeani
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = Bojëtulle
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = E gjelbër myshku
 profiles-gray-theme = Gri
 profiles-gray-theme-title =
     .title = Apliko temë gri
@@ -280,9 +259,6 @@ profiles-appmenu-callout-tour-subtitle = Te menuja ☰, prekni emrin e profilit 
 profiles-appmenu-callout-tour-primary-button = Tregomëni se si
 barbell-avatar = Shtangë
 bike-avatar = Biçikletë
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Apliko avatarin shtangë
 bike-avatar-tooltip =

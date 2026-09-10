@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Agordoj de konektado
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Agordoj de konektado
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Reŝargi
     .accesskey = e
-connection-proxy-autologin =
-    .label = Ne pridemandi aŭtentikigon se la pasvorto estas konservita
-    .accesskey = a
-    .tooltip = Tiu ĉi elekteblo silente legitimas vin ĉe retperantoj se vi konservis la legitimaĵojn por ili. Vi estos pridemandita se la legitimo estas malsukcesa.
 connection-proxy-autologin-checkbox =
     .label = Ne pridemandi aŭtentikigon se la pasvorto estas konservita
-    .accesskey = a
     .tooltiptext = Tiu ĉi elekteblo silente legitimas vin ĉe retperantoj se vi konservis la legitimaĵojn por ili. Vi estos pridemandita se la legitimo estas malsukcesa.
+    .accesskey = a
 connection-proxy-socks4-remote-dns =
     .label = Peranta DNS dum uzo de SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Uzi la norman retadreson por DNS per HTTPS
 connection-dns-over-https-url-custom =
     .label = Personecigita
-    .accesskey = P
     .tooltiptext = Entajpu retadreson de preferata servilo por DNS per HTTPS
-connection-dns-over-https-custom-label = Personecigita
+    .accesskey = P

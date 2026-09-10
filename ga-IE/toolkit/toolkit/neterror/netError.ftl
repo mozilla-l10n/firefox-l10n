@@ -15,12 +15,10 @@ neterror-learn-more-link = Tuilleadh eolais…
 neterror-open-portal-login-page-button = Logáil Isteach i Líonra
 neterror-pref-reset-button = Athchóirigh na réamhshocruithe
 neterror-return-to-previous-page-button = Siar
-neterror-try-again-button = Déan Iarracht Arís
 
 ##
 
 neterror-pref-reset = De réir cosúlachta, is éard atá cúis leis seo ná do chuid socruithe slándála líonra. An bhfuil fonn ort filleadh ar na réamhshocruithe?
-neterror-error-reporting-automatic = Tuairiscigh earráidí cosúil leis seo chun cuidiú le { -vendor-short-name } suíomhanna mailíseacha a aithint agus a chosc
 
 ## Specific error messages
 
@@ -37,8 +35,6 @@ neterror-file-not-found-moved = Féach an bhfuil an comhad bogtha, athainmnithe 
 neterror-access-denied = Seans nach bhfuil an comhad ann a thuilleadh, nó b'fhéidir nach bhfuil cead agat é a rochtain.
 neterror-unknown-protocol = B'fhéidir go mbeidh ort bogearraí eile a shuiteáil leis an seoladh seo a oscailt.
 neterror-redirect-loop = Uaireanta tarlaíonn an fhadhb seo de bharr fianáin a bheith díchumasaithe nó bheith ag diúltú leo.
-neterror-unknown-socket-type-psm-installed = Cinntigh go bhfuil an Bainisteoir Pearsanta Slándála suiteáilte ar do ríomhaire.
-neterror-unknown-socket-type-server-config = D'fhéadfadh seo tarlú de dheasca cumraíocht neamhchaighdeánach an fhreastalaí.
 neterror-not-cached-intro = Níl an cháipéis iarrtha ar fáil i dtaisce { -brand-short-name }.
 neterror-not-cached-sensitive = Mar gheall ar chúrsaí slándála, ní dhéanfaidh { -brand-short-name } iarracht eile aon cháipéis íogair a fháil go huathoibríoch.
 neterror-not-cached-try-again = Cliceáil 'Déan Iarracht Eile' chun an cháipéis a iarraidh ón suíomh arís.

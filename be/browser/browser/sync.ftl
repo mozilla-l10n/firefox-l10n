@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Сінхранізацыя…
 sync-disconnect-dialog-title2 = Адлучыць?
 sync-disconnect-dialog-body = { -brand-product-name } спыніць сінхранізацыю з вашым уліковым запісам, але не выдаліць дадзеныя аглядання на гэтай прыладзе.
 sync-disconnect-dialog-button = Адлучыць
-fxa-signout-dialog2-title = Выйсці з { -fxaccount-brand-name }?
 fxa-signout-dialog-title2 = Выйсці з уліковага запісу?
 fxa-signout-dialog-body = Сінхранізаваныя дадзеныя застануцца ў вашым уліковым запісе.
 fxa-signout-dialog2-button = Выйсці
@@ -45,15 +44,6 @@ fxviewtabrow-send-to-mobile-not-verified = Уліковы запіс не пац
 fxviewtabrow-send-to-mobile-verify-account = Пацвердзіце свой уліковы запіс
 fxa-menu-send-to-mobile-turn-on-sync = Уключыце сінхранізацыю, каб дасылаць карткі
 fxa-menu-send-to-mobile-connect-device = Падключыце прыладу, каб дасылаць карткі
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Даслаць картку на прыладу
-            [few] Даслаць { $tabCount } карткі на прыладу
-           *[many] Даслаць { $tabCount } картак на прыладу
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Сінхранізацыя прылад…

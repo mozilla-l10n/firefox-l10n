@@ -5,10 +5,7 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Pranešimas išsiųstas. Ačiū!
-confirmation-hint-login-removed = Prisijungimas pašalintas!
 confirmation-hint-page-bookmarked = Įtraukta į adresyną
-confirmation-hint-password-saved = Slaptažodis įrašytas!
 confirmation-hint-pin-tab = Įsegta!
 confirmation-hint-pin-tab-description = Norėdami išsegti kortelę, spustelėkite ją dešiniuoju pelės klavišu.
 confirmation-hint-send-to-device = Išsiųsta!

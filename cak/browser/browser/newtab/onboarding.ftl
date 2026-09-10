@@ -33,12 +33,6 @@ mr1-return-to-amo-add-extension-label = Titz'aqatisäx { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = B'enäq: { $current } ruxaq { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -198,54 +192,10 @@ mr2022-onboarding-set-default-primary-button-label = Tib'an nab'ey okik'amaya'l 
 ## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-get-started-primary-button-label = Tinuk'samajij pa jun ch'utiramaj
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Chanin runuk'ulem
 mr2022-onboarding-import-primary-button-label-no-attribution = Tijik' pe pa ri jun kan okik'amaya'l
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Tacha' ri b'onil yanatan rik'in
-mr2022-onboarding-colorway-primary-button-label-continue = Tijikib'äx chuqa' tisamajïx el
-mr2022-onboarding-existing-colorway-checkbox-label = Tib'an chi ri { -firefox-home-brand-name } jeb'ël rub'onil rutikirisaxik
-mr2022-onboarding-colorway-label-default = K'o wi
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Rub'onil { -brand-short-name } k'o
-mr2022-onboarding-colorway-description-default = <b>Ke'okisäx ri taq rub'onil { -brand-short-name } e k'o.</b>
-mr2022-onboarding-colorway-label-playmaker = Nuk'unel etz'anem
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Nuk'unel etz'anem (käq)
-mr2022-onboarding-colorway-description-playmaker = <b>Jun Nuk'unel Etz'anem.</b> Kakanon richin yach'ako chuqa' ye'ato' konojel e k'o chachi' richin nawutzilaj ri ketz'anem.
-mr2022-onboarding-colorway-label-expressionist = Ch'a'onel
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Ch'a'onel (q'än)
-mr2022-onboarding-colorway-description-expressionist = <b>Jun Ch'a'onel.</b> Jun wi natz'ët ri ruwach'ulew chuqa' ri yetz'uk chupam nikik'asoj ri kina'ojib'al ch'aqa' chik.
-mr2022-onboarding-colorway-label-visionary = Ch'akonel
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Ch'akonel (räx)
-mr2022-onboarding-colorway-description-visionary = <b>Jun Ch'akonel.</b> Ke'ach'ab'ej ri nima'q taq winäq richin ye'ak'asb'a' ri ch'aqa' chik richin nikiq'ajun jun utziläj k'aslemal ri chwa'q kab'ij.
-mr2022-onboarding-colorway-label-activist = Ajsamaj
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Ajsamaj (xar)
-mr2022-onboarding-colorway-description-activist = <b>Jun Ajsamaj.</b> Naya' kan ri ruwach'ulew achi'el jun utziläj k'ojlib'äl chuwäch atz'eton pe richin nab'än chi ri ch'aqa' chik tikinimaj.
-mr2022-onboarding-colorway-label-dreamer = Achik'anel
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Achik'anel (tuq')
-mr2022-onboarding-colorway-description-dreamer = <b>Jun Achik'anel.</b> Tanimaj chi ri nawïl yeruto' ri na'onela' chuqa' nub'än chi ri ch'aqa' chik nikiq'i' kuchuq'a'.
-mr2022-onboarding-colorway-label-innovator = Nuk'unel
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Nuk'unel (q'anq'öj)
-mr2022-onboarding-colorway-description-innovator = <b>Jun Nuk'unel.</b> Xab'akuchi' nutz'ët samaj ri k'o ruk'amon pe pa kik'aslem konojel e k'o naqaj.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Tajalala' kokisaxik awoyonib'al chuqa' akematz'ib'
 mr2022-onboarding-no-mobile-download-cta-text = Tatz'ajwachib'ej ri QR b'itz'ib' richin nak'ül { -brand-product-name } kichin awoyonib'al.
 
 ## MR2022 Upgrade Dialog screens

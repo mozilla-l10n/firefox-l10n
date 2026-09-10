@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Mais de { -vendor-short-name }
 more-from-moz-page-header =
     .heading = Mais de { -vendor-short-name }
 more-from-moz-category =
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = Obter o { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Recupere automaticamente a sua informação pessoal exposta.
 more-from-moz-mozilla-monitor-global-description = Receba alertas quando os seus dados estiverem numa violação de dados.
 more-from-moz-mozilla-monitor-button = Obter o { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = IA { -solo-ai-brand-name }
 more-from-moz-solo-description = Crie o seu site instantaneamente e associe o seu próprio domínio personalizado gratuitamente.
 more-from-moz-solo-button = Experimente o { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = Criador de sites com IA { -solo-ai-brand-name }

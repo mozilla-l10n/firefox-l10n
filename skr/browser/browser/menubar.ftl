@@ -242,8 +242,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = پروفائلاں
 menu-profiles-manage-profiles =
     .label = پروفائلاں منیج کرو
 menu-profiles-new-profile =
@@ -257,9 +255,6 @@ menu-tools =
 menu-tools-downloads =
     .label = ڈاؤن لوڈز
     .accesskey = D
-menu-tools-addons-and-themes =
-    .label = ایڈ آنز تے تھیمز
-    .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = سائن ان کرو
     .accesskey = g
@@ -313,8 +308,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = ودھیک ٹربل شوٹنگ معلومات
     .accesskey = T
-menu-help-report-site-issue =
-    .label = سائٹ مسئلہ رپورٹ کرو …
 menu-help-share-ideas =
     .label = خیالات تاثرات دی سانجھ کرو …
     .accesskey = S

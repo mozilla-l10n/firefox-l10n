@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = يُزامن…
 sync-disconnect-dialog-title2 = هل أقطع الاتصال؟
 sync-disconnect-dialog-body = سيتوقف { -brand-product-name } عن مزامنة حسابك، لكن لن يحذف أيًا من بيانات تصفحك على هذا الجهاز.
 sync-disconnect-dialog-button = اقطع الاتصال
-fxa-signout-dialog2-title = أتريد الخروج من { -fxaccount-brand-name }؟
 fxa-signout-dialog-title2 = تسجيل الخروج من حسابك؟
 fxa-signout-dialog-body = ستبقى البيانات المُزامنة في حسابك.
 fxa-signout-dialog2-button = اخرج
@@ -23,18 +22,6 @@ fxviewtabrow-send-to-mobile-not-verified = الحساب غير مُؤكّد
 fxviewtabrow-send-to-mobile-verify-account = أكّد حسابك
 fxa-menu-send-to-mobile-turn-on-sync = شغّل المزامنة لإرسال ألسنة
 fxa-menu-send-to-mobile-connect-device = صلّ جهاز لإرسال ألسنة
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [zero] لا تُرسل شيئا إلى الجهاز
-            [one] أرسِل اللسان إلى الجهاز
-            [two] أرسِل اللسانين إلى الجهاز
-            [few] أرسِل { $tabCount } ألسنة إلى الجهاز
-            [many] أرسِل { $tabCount } لسانا إلى الجهاز
-           *[other] أرسِل { $tabCount } لسان إلى الجهاز
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = يُزامن الأجهزة…

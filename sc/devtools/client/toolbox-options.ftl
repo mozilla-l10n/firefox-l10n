@@ -52,8 +52,6 @@ options-local-mode-domain-label = Domìniu personalizadu:
 
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Cunfiguratziones avantzadas
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Disativa JavaScript *
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Ativa sa curretzione de faddinas in remotu
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the

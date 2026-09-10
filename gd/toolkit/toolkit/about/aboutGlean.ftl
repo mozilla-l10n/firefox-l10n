@@ -43,7 +43,6 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
-about-glean-about-testing-header = About Testing
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     Full instructions are documented in the
@@ -52,8 +51,6 @@ about-glean-manual-testing =
     but, in short, to manually test that your instrumentation works, you should:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (don’t submit any ping)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = In the preceding field ensure there is a memorable debug tag so you can recognize your pings later.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
@@ -78,15 +75,5 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Visit the { glean-debug-ping-viewer-brand-name } page for pings with your tag</a>.
     It shouldn’t take more than a few seconds from pushing the button to your ping arriving.
     Sometimes it may take a small handful of minutes.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    For more <i>ad hoc</i> testing,
-    you can also determine the current value of a particular piece of instrumentation
-    by opening a devtools console here on <code>about:glean</code>
-    and using the <code>testGetValue()</code> API like
-    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Apply settings and submit ping
 about-glean-about-data-header = About Data
-about-glean-about-data-explanation =
-    To browse the list of collected data, please consult the
-    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dictionary</a>.

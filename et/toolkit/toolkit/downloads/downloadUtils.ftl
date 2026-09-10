@@ -92,11 +92,5 @@ download-utils-time-left-single = { $time } veel
 download-utils-time-left-double = { $time1 } { $time2 } veel
 download-utils-time-few-seconds = Veel mõned sekundid
 download-utils-time-unknown = Järelejäänud aeg on teadmata
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = { $scheme } fail
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = kohalik fail
 # Displayed time for files finished yesterday
 download-utils-yesterday = Eile

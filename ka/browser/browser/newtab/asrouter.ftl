@@ -62,7 +62,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = დაასინქრონეთ სანიშნები ყველგან.
-cfr-doorhanger-bookmark-fxa-body = რაც მთავარია! ახლა უკვე არ დარჩებით სანიშნის გარეშე თქვენს მობილურ მოწყობილობებზე. გამოიყენეთ { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = რაც მთავარია! ახლა უკვე არ დარჩებით სანიშნის გარეშე თქვენს მობილურ მოწყობილობებზე. გამოიყენეთ დაიწყეთ ანგარიშის გამოყენება.
 cfr-doorhanger-bookmark-fxa-link-text = დაასინქრონეთ სანიშნები ახლავე...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -75,12 +74,6 @@ fxa-adoption-credit-cards-backup-subtitle = დაიცავით თქვ�
 fxa-adoption-bookmarks-treatment-backup-title = სინჯეთ თქვენი სანიშნების დამარქაფება
 fxa-adoption-bookmarks-treatment-backup-subtitle = დაიცავით თქვენი სანიშნები დაშიფრულად დასინქრონებით სხვადასხვა მოწყობილობაზე.
 fxa-adoption-primary-button-label = ანგარიშის შექმნა
-
-## Protections panel
-
-cfr-protections-panel-header = მოინახულეთ გვერდები მეთვალყურეების გარეშე
-cfr-protections-panel-body = დატოვეთ თქვენი მონაცემები პირადი. { -brand-short-name } აგარიდებთ ცნობილი მეთვალყურეების უმეტესობას, რომლებიც თან დაგყვებათ ინტერნეტში.
-cfr-protections-panel-link-text = ვრცლად
 
 ## What's New toolbar button and panel
 
@@ -176,42 +169,8 @@ mr2022-background-update-toast-primary-button-label = გახსენით {
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = მოგვიანებით შეხსენება
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = მოსინჯვა
-    .accesskey = ჯ
-firefoxview-cfr-secondarybutton = ახლა არა
-    .accesskey = ა
-firefoxview-cfr-header-v2 = სწრაფადვე განაგრძეთ იქიდან, სადაც შეჩერდით
-firefoxview-cfr-body-v2 = დაიბრუნეთ ახლახან დახურული ჩანართები და ამასთანავე, შეუფერხებლად გადაერთეთ მოწყობილობებს შორის { -firefoxview-brand-name(case: "ins") }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = გაიცანით { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = გსურთ ამ ჩანართის ტელეფონზე ხილვა? გაიყოლეთ თან. დაგჭირდათ ადრე მონახულებული გვერდი? ბუფ და უცებ გაჩნდება { -firefoxview-brand-name(case: "ins") }.
-firefoxview-spotlight-promo-primarybutton = ნახეთ, როგორ მუშაობს
-firefoxview-spotlight-promo-secondarybutton = გამოტოვება
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = აირჩიეთ შეფერილობა
-    .accesskey = ფ
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = გააფერადეთ { -brand-short-name } გამორჩეული შეფერილობებით, შთაგონებული ხალხის ხმებით, რომელთაც შეცვალეს ღირებულებები.
-colorways-cfr-header-28days = დამოუკიდებელი ხმების შეფერილობათა ბოლო ვადაა 16 იანვარი
-colorways-cfr-header-14days = დამოუკიდებელი ხმების შეფერილობებს ვადა გასდის ორ კვირაში
-colorways-cfr-header-7days = დამოუკიდებელი ხმების შეფერილობებს ვადა გასდის ამ კვირაში
-colorways-cfr-header-today = დამოუკიდებელი ხმების შეფერილობებს ვადა გასდის დღეს
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = გსურთ, { -brand-short-name } უარყოფდეს ფუნთუშების ნებართვებს?
-cfr-cbh-body = { -brand-short-name } თავადვე უარყოფს ფუნთუშის მოთხოვნების უმეტესობას.
-cfr-cbh-confirm-button = ფუნთუშის მოთხოვნების უარყოფა
-    .accesskey = უ
-cfr-cbh-dismiss-button = ახლა არა
-    .accesskey = ა
 cookie-banner-blocker-onboarding-header = { -brand-short-name } ახლახან დაგეხმარათ ფუნთუშების მოთხოვნის არიდებაში
 cookie-banner-blocker-onboarding-body = ნაკლები ხელის შემშლელი და მეთვალყურე შიგთავსი საიტზე.
 cookie-banner-blocker-onboarding-learn-more = ვრცლად

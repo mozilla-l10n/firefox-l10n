@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = 扩展不可读取和更改任何数据
-origin-controls-quarantined =
-    .label = 不允许扩展读取和更改任何数据
 origin-controls-quarantined-status =
     .label = 扩展未被允许在受限网站上运行
 origin-controls-quarantined-allow =

@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Rapport transmis. Merci !
-confirmation-hint-login-removed = Identifiant supprimé !
 confirmation-hint-password-removed = Mot de passe supprimé !
 confirmation-hint-page-bookmarked = Enregistré dans les marque-pages
-confirmation-hint-password-saved = Mot de passe enregistré !
 confirmation-hint-password-created = Mot de passe enregistré
 confirmation-hint-password-updated = Mot de passe mis à jour
 confirmation-hint-address-created = Adresse enregistrée

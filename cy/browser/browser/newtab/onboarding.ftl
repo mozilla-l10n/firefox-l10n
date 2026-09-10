@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Ychwanegu { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Cynnydd: cam { $current } o { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -199,11 +193,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Pinio { -brand-short-name } i'r bar tasgau a'r ddewislen cychwyn
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Dechreuwch gyda phorwr sy'n cael ei gefnogi gan gorff dim-er-elw. Rydym yn diogelu eich preifatrwydd tra byddwch yn teithio o gwmpas y we.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -233,57 +222,10 @@ mr2022-onboarding-set-default-subtitle = Defnyddiwch borwr sy'n cael ei gefnogi 
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Mae ein fersiwn diweddaraf wedi'i adeiladu o'ch cwmpas chi, gan ei gwneud hi'n haws nag erioed i deithio o amgylch y we. Mae'n llawn o nodweddion rydyn ni'n meddwl y byddwch chi'n eu caru.
 mr2022-onboarding-get-started-primary-button-label = Ei osod mewn eiliadau
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Gosodiad chwim
-mr2022-onboarding-import-subtitle = Gosodwch { -brand-short-name } fel rydych chi'n ei hoffi. Ychwanegwch eich nodau tudalen, cyfrineiriau, a mwy o'ch hen borwr.
 mr2022-onboarding-import-primary-button-label-no-attribution = Mewnforiwch o'r porwr blaenorol
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Dewiswch y lliw sy'n eich ysbrydoli
-mr2022-onboarding-colorway-subtitle = Gall lleisiau annibynnol newid diwylliant.
-mr2022-onboarding-colorway-primary-button-label-continue = Gosod a pharhau
-mr2022-onboarding-existing-colorway-checkbox-label = Gwnewch { -firefox-home-brand-name } yn gartref liwgar i chi
-mr2022-onboarding-colorway-label-default = Rhagosodiad
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Lliwiau cyfredol { -brand-short-name }
-mr2022-onboarding-colorway-description-default = <b>Defnyddio fy lliwiau { -brand-short-name } cyfredol.</b>
-mr2022-onboarding-colorway-label-playmaker = Arweinydd
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Crëwr (coch)
-mr2022-onboarding-colorway-description-playmaker = <b>Rydych chi'n Arweinydd.</b> Rydych chi'n creu cyfleoedd i ennill a helpu pawb o'ch cwmpas i ddyrchafu eu gêm.
-mr2022-onboarding-colorway-label-expressionist = Mynegiadwr
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Mynegiadwr (melyn)
-mr2022-onboarding-colorway-description-expressionist = <b>Ydych chi'n Fynegiadwr.</b> Rydych chi'n gweld y byd yn wahanol ac mae eich creadigaethau'n cyffroi emosiynau pobl eraill.
-mr2022-onboarding-colorway-label-visionary = Gweledydd
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Gweledydd (gwyrdd)
-mr2022-onboarding-colorway-description-visionary = <b>Rydych chi'n Weledydd.</b> Rydych chi'n cwestiynu'r status quo ac yn symud eraill i ddychmygu dyfodol gwell.
-mr2022-onboarding-colorway-label-activist = Ymgyrchydd
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Ymgyrchydd (glas)
-mr2022-onboarding-colorway-description-activist = <b>Rydych chi'n Ymgyrchydd.</b> Rydych yn gadael y byd yn lle gwell nag y daethoch iddo ac yn arwain eraill i gredu.
-mr2022-onboarding-colorway-label-dreamer = Breuddwydiwr
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Breuddwydiwr (porffor)
-mr2022-onboarding-colorway-description-dreamer = <b>Rydych chi'n Freuddwydiwr.</b> Rydych chi'n credu bod ffortiwn yn ffafrio'r beiddgar ac yn ysbrydoli eraill i fod yn ddewr.
-mr2022-onboarding-colorway-label-innovator = Arloesydd
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Arloesydd (oren)
-mr2022-onboarding-colorway-description-innovator = <b>Rydych chi'n Arloesydd.</b> Rydych chi'n gweld cyfleoedd ym mhobman ac yn cael effaith ar fywydau pawb o'ch cwmpas.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Neidiwch o'r gliniadur i'r ffôn ac yn ôl eto
-mr2022-onboarding-mobile-download-subtitle = Cipiwch dabiau o un ddyfais a pharhau o le gwnaethoch chi ei adael ar ddyfais arall. Hefyd cydweddwch eich nodau tudalen a'ch cyfrineiriau lle bynnag rydych chi'n defnyddio { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Sganiwch y cod QR i gael { -brand-product-name } ar gyfer ffôn symudol neu <a data-l10n-name="download-label">anfon dolen llwytho i chi'ch hun.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Sganiwch y cod QR i gael { -brand-product-name } ar gyfer ffôn symudol.
 
@@ -336,15 +278,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Pawen lawen dwylo â chroen golau a chroen tywyll
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Golygfa o fachlud trwy ffenestr gyda llwynog a phlanhigyn tŷ ar silff ffenestr
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Mae llaw gyda chwistrell yn paentio collage lliwgar o lygad gwyrdd, esgid oren, pêl-fasged goch, clustffonau porffor, calon las a choron felen
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Llwynog ar sgrin gliniadur yn chwifio. Mae llygoden wedi'i phlygio i mewn i'r gliniadur.
 onboarding-device-migration-title = Croeso nôl
-onboarding-device-migration-subtitle = Mewngofnodwch i'ch { -fxaccount-brand-name(capitalization: "sentence") } i ddod â'ch nodau tudalen, cyfrineiriau a hanes gyda chi ar eich dyfais newydd.
 onboarding-device-migration-subtitle2 = Mewngofnodwch i'ch cyfrif i ddod â'ch nodau tudalen, cyfrineiriau, a hanes gyda chi ar eich dyfais newydd.
 onboarding-device-migration-primary-button-label = Mewngofnodi
 
@@ -461,15 +400,12 @@ tab-groups-onboarding-feature-callout-title = Rhowch gynnig ar grwpio tabiau am 
 tab-groups-onboarding-feature-callout-subtitle = Byddwch yn drefnus trwy lusgo un tab ar ben un arall i greu eich grŵp cyntaf.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Dewch o hyd i'ch grwpiau tabiau yn newislen Rhestr Pob Tab unrhyw bryd.
-tab-groups-onboarding-create-group-title-2 = Ailagor eich grwpiau tabiau yma unrhyw bryd.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Dewch o hyd i'ch grwpiau trwy chwilio amdanyn nhw yn y bar cyfeiriad.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Pan fyddwch yn cau grŵp tabiau, gallwch ei ailagor o'r ddewislen Rhestr Pob Tab unrhyw bryd.
-tab-groups-onboarding-saved-groups-title-2 = Pan fyddwch yn cau grŵp tabiau, gallwch ei ailagor yma unrhyw bryd.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Dewch o hyd i'ch grwpiau agored ar y bar tab neu drwy chwilio amdanyn nhw yn y bar cyfeiriad.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Ail agorwch eich grwpiau tab o ddewislen Rhestr Pob Tab unrhyw bryd.
-tab-groups-onboarding-session-restore-title = Ailagorwch eich grwpiau tab yma unrhyw bryd.
 tab-groups-onboarding-dismiss = Iawn
 
 ## Multi Profiles feature onboarding messages

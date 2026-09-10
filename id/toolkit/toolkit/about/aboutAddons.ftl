@@ -154,15 +154,10 @@ addon-sitepermission-host = Izin Situs untuk { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Semua pengaya telah dinonaktifkan dalam mode aman.
-extensions-warning-check-compatibility = Pemeriksaan kompatibilitas pengaya telah dinonaktifkan. Anda mungkin menggunakan pengaya yang tidak kompatibel.
-extensions-warning-safe-mode2 =
-    .message = Semua pengaya telah dinonaktifkan dalam mode aman.
 extensions-warning-check-compatibility2 =
     .message = Pemeriksaan kompatibilitas pengaya telah dinonaktifkan. Anda mungkin menggunakan pengaya yang tidak kompatibel.
 extensions-warning-check-compatibility-button = Aktifkan
     .title = Aktifkan pemeriksaan kompatibilitas pengaya
-extensions-warning-update-security = Pemeriksaan keamanan pemutakhiran pengaya telah dinonaktifkan. Pemutakhiran pengaya saat ini memiliki risiko keamanan.
 extensions-warning-update-security2 =
     .message = Pemeriksaan keamanan pemutakhiran pengaya telah dinonaktifkan. Pemutakhiran pengaya saat ini memiliki risiko keamanan.
 extensions-warning-update-security-button = Aktifkan
@@ -236,10 +231,6 @@ shortcuts-duplicate = Pintasan ganda
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } digunakan sebagai pintasan di lebih dari satu tempat. Pintasan duplikat dapat menyebabkan perilaku yang tidak terduga.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } digunakan sebagai pintasan di lebih dari satu tempat. Pintasan duplikat dapat menyebabkan perilaku yang tidak terduga.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -258,15 +249,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Ekstensi dan tema seperti layaknya aplikasi untuk browser Anda, dan mereka bisa digunakan untuk melindungi kata sandi, mengunduh video, menemukan penawaran, memblokir iklan yang mengganggu, mengubah tampilan peramban Anda, dan banyak lagi. Program perangkat lunak kecil ini banyak dikembangkan oleh pihak ketiga. Berikut adalah pilihan 
-    <a data-l10n-name="learn-more-trigger">yang disarankan</a> { -brand-product-name } berdasarkan keamanan, kinerja, dan fungsionalitas mereka.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    Beberapa rekomendasi ini dipersonalisasi. Rekomendasi tersebut didasarkan pada ekstensi lain
-    yang Anda pasang, preferensi profil, dan statistik penggunaan.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -334,16 +316,9 @@ addon-detail-last-updated-label = Terakhir Diperbarui
 addon-detail-homepage-label = Beranda
 addon-detail-rating-label = Peringkat
 # Message for add-ons with a staged pending update.
-install-postponed-message = Ekstensi ini akan diperbarui ketika { -brand-short-name } dimulai ulang.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Ekstensi ini akan diperbarui ketika { -brand-short-name } dimulai ulang.
 install-postponed-button = Perbarui Sekarang
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Peringkat { NUMBER($rating, maximumFractionDigits: 1) } dari 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -358,9 +333,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> telah dihapus.
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -379,11 +351,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Diizinkan di jendela pribadi
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Diizinkan di jendela pribadi
 addon-detail-private-browsing-help = Jika diizinkan, ekstensi akan memiliki akses ke aktivitas daring Anda saat menjelajah secara pribadi. <a data-l10n-name="learn-more">Pelajari lebih lanjut</a>
 addon-detail-private-browsing-allow = Izinkan
@@ -410,17 +377,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } hanya menyarankan ekstensi yang memenuhi standar keamanan dan kinerja kami.
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Ekstensi resmi yang dibuat oleh Mozilla, memenuhi standar keamanan dan kinerja
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Ekstensi ini telah ditinjau untuk memenuhi standar keamanan dan kinerja kami
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -433,9 +389,6 @@ recent-updates-heading = Versi Terkini
 release-notes-loading = Memuat…
 release-notes-error = Maaf, galat terjadi ketika memuat catatan rilis.
 addon-permissions-empty2 = Ekstensi ini tidak memerlukan izin apa pun.
-addon-permissions-empty = Ekstensi ini tidak memerlukan izin apa pun
-addon-permissions-required = Izin yang diperlukan untuk fungsi inti:
-addon-permissions-optional = Izin opsional untuk fungsi tambahan:
 addon-permissions-learnmore = Pelajari lebih lanjut tentang perizinan
 recommended-extensions-heading = Ekstensi yang Disarankan
 recommended-themes-heading = Tema yang Disarankan
@@ -469,39 +422,18 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } tidak kompatibel dengan { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } tidak kompatibel dengan { -brand-short-name } { $version }.
-details-notification-incompatible-link = Informasi Lebih Lanjut
-details-notification-unsigned-and-disabled = { $name } tidak dapat diverifikasi untuk digunakan di { -brand-short-name } dan telah dinonaktifkan.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } tidak dapat diverifikasi untuk digunakan di { -brand-short-name } dan telah dinonaktifkan.
-details-notification-unsigned-and-disabled-link = Informasi Lebih Lanjut
-details-notification-unsigned = { $name } tidak dapat diverifikasi untuk digunakan di { -brand-short-name }. Lanjutkan dengan hati-hati.
 details-notification-unsigned2 =
     .message = { $name } tidak dapat diverifikasi untuk digunakan di { -brand-short-name }. Lanjutkan dengan hati-hati.
 details-notification-hard-blocked-extension =
     .message = Ekstensi ini diblokir karena melanggar kebijakan Mozilla dan telah dinonaktifkan.
 details-notification-hard-blocked-other =
     .message = Pengaya ini diblokir karena melanggar kebijakan Mozilla dan telah dinonaktifkan.
-details-notification-unsigned-link = Informasi Lebih Lanjut
-details-notification-blocked = { $name } telah dimatikan karena masalah keamanan atau kestabilan.
 details-notification-blocked-link2 = Lihat Detail
-details-notification-soft-blocked-extension-disabled =
-    .message = Ekstensi ini dibatasi karena melanggar kebijakan Mozilla dan telah dinonaktifkan. Anda dapat mengaktifkannya, tetapi ini mungkin berisiko.
-details-notification-soft-blocked-extension-enabled =
-    .message = Ekstensi ini melanggar kebijakan Mozilla. Menggunakannya mungkin berisiko.
-details-notification-soft-blocked-other-disabled =
-    .message = Pengaya ini dibatasi karena melanggar kebijakan Mozilla dan telah dinonaktifkan. Anda dapat mengaktifkannya, tetapi ini mungkin berisiko.
-details-notification-soft-blocked-other-enabled =
-    .message = Pengaya ini melanggar kebijakan Mozilla. Menggunakannya mungkin berisiko.
 details-notification-softblocked-link2 = Lihat Detail
-details-notification-blocked-link = Informasi Lebih Lanjut
-details-notification-softblocked = { $name } telah dikenali mengakibatkan masalah keamanan atau kestabilan.
-details-notification-softblocked-link = Informasi Lebih Lanjut
-details-notification-gmp-pending = { $name } akan diinstal sebentar lagi.
 details-notification-gmp-pending2 =
     .message = { $name } akan diinstal sebentar lagi.
 

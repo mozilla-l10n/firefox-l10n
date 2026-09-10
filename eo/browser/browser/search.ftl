@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Via norma serĉilo estis ŝanĝita.</strong> { $oldEngine } ne plu estas disponebla kiel norma serĉilo en { -brand-short-name }. { $newEngine } estas nun via norma serĉilo. Por elekti alian norma serĉilon, iru al agordoj. <label data-l10n-name="remove-search-engine-article">Pli da informo</label>
 removed-search-engine-message2 = <strong>Via norma serĉilo estis ŝanĝita.</strong> { $oldEngine } ne plu estas disponebla kiel norma serĉilo en { -brand-short-name }. { $newEngine } estas nun via norma serĉilo. Por elekti alian norma serĉilon, iru al agordoj.
 remove-search-engine-button = Akcepti
 
@@ -52,11 +51,11 @@ install-search-engine-no = Ne
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Aldoni serĉilon
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Modifi serĉilon
     .style = min-width: 32em;
+    .title = Modifi serĉilon
 add-engine-button = Aldoni personecigitan serĉilon
 add-engine-name = Nomo de serĉilo
 add-engine-url2 = Retadreso kun %s anstataŭ serĉa teksto
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Provu aldoni %s anstataŭ la serĉan teksto
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Aldoni serĉilon
-    .buttonaccesskeyaccept = A
     .buttonlabelextra1 = Spertula
+    .buttonaccesskeyaccept = A
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Konservi serĉilon
-    .buttonaccesskeyaccept = K
     .buttonlabelextra1 = Spertula
+    .buttonaccesskeyaccept = K

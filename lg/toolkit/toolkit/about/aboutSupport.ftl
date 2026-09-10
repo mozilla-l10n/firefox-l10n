@@ -15,7 +15,6 @@ app-basics-profile-dir =
         [linux] Eteerekero Lya Profailo
        *[other] Ebaasa yo´Omukoozesa
     }
-app-basics-enabled-plugins = Ebyongerwamu ebitandikidwa
 app-basics-build-config = Zzimba Entekateka
 app-basics-user-agent = Akayamba Omukozesa
 app-basics-memory-use = Enkozesa Memory

@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Actualmente está en modo FIPS. FIPS requi
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Restablecer contrasinal principal
     .style = min-width: 40em
+    .title = Restablecer contrasinal principal
 reset-password-button-label =
     .label = Restabelecer
 reset-primary-password-text = Se restablece o seu contrasinal principal, esqueceranse todos os seus contrasinais de correo electrónico e correo electrónico, certificados persoais e chaves privadas. Confirma que desexa restablecer o seu contrasinal principal?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Restableceuse o seu contrasinal pri
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Descargando certificado
     .style = min-width: 46em
+    .title = Descargando certificado
 download-cert-message = Solicitouse que confíe nunha nova entidade de acreditación (AC).
 download-cert-trust-ssl =
     .label = Confiar nesta AC para identificar sitios web.
@@ -52,8 +52,6 @@ download-cert-view-text = Examinar o certificado da AC
 
 client-auth-window =
     .title = Solicitude de identificación de usuario
-client-auth-site-description = Este sitio solicitou que se identifique cun certificado:
-client-auth-choose-cert = Escolla un certificado para presentar como identificación:
 client-auth-send-no-certificate =
     .label = Non enviar un certificado
 # Variables:
@@ -100,9 +98,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Contrasinal da copia de seguranza do certificado (outra vez):
 set-password-reminder = Importante: Se esquece o contrasinal da copia de seguranza do certificado non poderá restaurar esa copia. Gárdeo nun lugar seguro.
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Verifique a súa identidade na ficha «{ $tokenName }». A forma de facelo depende da ficha (por exemplo, un lector de pegada ou introducir un código nun teclado).

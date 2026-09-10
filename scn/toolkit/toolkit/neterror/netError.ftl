@@ -9,7 +9,6 @@ neterror-copy-to-clipboard-button = Copia u testu nnô pitazzu
 neterror-learn-more-link = Cchiù nfurmazzioni…
 neterror-pref-reset-button = Ricùpira i mpustazzioni pridifinuti
 neterror-return-to-previous-page-button = Vai nn’arrè
-neterror-try-again-button = Torna a prova
 
 ## Specific error messages
 

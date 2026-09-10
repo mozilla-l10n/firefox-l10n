@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = ສົ່ງລາຍງານແລ້ວ. ຂອບ​ໃຈ!
-confirmation-hint-login-removed = ລຶບການເຂົ້າສູ່ລະບົບອອກແລ້ວ!
 confirmation-hint-password-removed = ລຶບລະຫັດຜ່ານອອກແລ້ວ
 confirmation-hint-page-bookmarked = ບັນທຶກໃສ່ບຸກມາກແລ້ວ
-confirmation-hint-password-saved = ບັນທຶກລະຫັດຜ່ານແລ້ວ!
 confirmation-hint-password-created = ບັນທຶກລະຫັດຜ່ານແລ້ວ!
 confirmation-hint-password-updated = ອັບເດດລະຫັດຜ່ານແລ້ວ
 confirmation-hint-address-created = ບັນທຶກທີ່ຢູ່ແລ້ວ

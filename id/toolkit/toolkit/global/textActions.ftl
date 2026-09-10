@@ -84,10 +84,6 @@ text-action-copy-clean-link-to-highlight =
 # visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-highlight =
     .label = Hapus Sorotan
-# If the page has been loaded with a text fragment and text is
-# visibly highlighted, this removes any highlighted sections on the page.
-text-action-remove-all-highlights =
-    .label = Hapus Semua Sorotan
 profile-window-menu-edit =
     .label = Sunting
     .accesskey = S

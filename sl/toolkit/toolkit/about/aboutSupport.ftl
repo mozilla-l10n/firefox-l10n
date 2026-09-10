@@ -32,10 +32,6 @@ security-software-name = Ime
 security-software-antivirus = Protivirusna zaščita
 security-software-antispyware = Protivohunska programska oprema
 security-software-firewall = Požarni zid
-features-title = Zmogljivosti { -brand-short-name(sklon: "rodilnik") }
-features-name = Ime
-features-version = Različica
-features-id = ID
 processes-title = Oddaljeni procesi
 processes-type = Vrsta
 processes-count = Število
@@ -61,7 +57,6 @@ app-basics-profile-dir =
         [linux] Mapa s profilom
        *[other] Mapa s profilom
     }
-app-basics-enabled-plugins = Omogočeni vtičniki
 app-basics-build-config = Nastavitev graditve
 app-basics-user-agent = Uporabniški agent
 app-basics-os = OS
@@ -99,9 +94,6 @@ show-dir-label =
 environment-variables-title = Spremenljivke okolja
 environment-variables-name = Ime
 environment-variables-value = Vrednost
-experimental-features-title = Poskusne zmogljivosti
-experimental-features-name = Ime
-experimental-features-value = Vrednost
 modified-key-prefs-title = Pomembne spremenjene nastavitve
 modified-prefs-name = Ime
 modified-prefs-value = Vrednost
@@ -213,9 +205,6 @@ media-cdm-capabilities = Zmogljivosti
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Čisti uvod
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = Združljiv s HDCP 2.2
 
 ##
 
@@ -397,8 +386,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Onemogočeno zaradi poskusa
-fission-status-experiment-treatment = Omogočeno zaradi poskusa
 fission-status-disabled-by-e10s-env = Onemogočeno s strani okolja
 fission-status-enabled-by-env = Omogočeno s strani okolja
 fission-status-disabled-by-env = Onemogočeno s strani okolja
@@ -407,7 +394,6 @@ fission-status-disabled-by-default = Privzeto onemogočeno
 fission-status-enabled-by-user-pref = Omogočil uporabnik
 fission-status-disabled-by-user-pref = Onemogočil uporabnik
 fission-status-disabled-by-e10s-other = E10s Onemogočen
-fission-status-enabled-by-rollout = Omogoča izdajanje po korakih
 async-pan-zoom = Asinhrono pomikanje/povečava
 apz-none = brez
 wheel-enabled = vnos s koleščkom omogočen

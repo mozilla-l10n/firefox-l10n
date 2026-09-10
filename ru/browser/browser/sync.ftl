@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Синхронизация…
 sync-disconnect-dialog-title2 = Отсоединиться?
 sync-disconnect-dialog-body = { -brand-product-name } прекратит синхронизацию с вашим аккаунтом, но не будет удалять ничего из ваших данных веб-сёрфинга на этом устройстве.
 sync-disconnect-dialog-button = Отсоединиться
-fxa-signout-dialog2-title = Выйти из { -fxaccount-brand-name(case: "genitive") }?
 fxa-signout-dialog-title2 = Выйти из аккаунта?
 fxa-signout-dialog-body = Синхронизированные данные останутся в вашем аккаунте.
 fxa-signout-dialog2-button = Выйти
@@ -45,15 +44,6 @@ fxviewtabrow-send-to-mobile-not-verified = Аккаунт не подтверж�
 fxviewtabrow-send-to-mobile-verify-account = Подтвердите свой аккаунт
 fxa-menu-send-to-mobile-turn-on-sync = Включите синхронизацию для отправки вкладок
 fxa-menu-send-to-mobile-connect-device = Подключите устройство для отправки вкладок
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Отправить { $tabCount } вкладку на устройство
-            [few] Отправить { $tabCount } вкладки на устройство
-           *[many] Отправить { $tabCount } вкладок на устройство
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Синхронизация устройств…

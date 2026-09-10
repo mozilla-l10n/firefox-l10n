@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = វិញ្ញាបនបត្រ​ម�
 cert-error-trust-signature-algorithm-disabled = វិញ្ញាបនបត្រ​មិន​ត្រូវ​បាន​ជឿ​ទុកចិត្ត ពីព្រោះ​វា​ត្រូ​វបាន​ចុះ​ហត្ថលេខា​ដោយ​ប្រើ​​ក្បួន​ហត្ថលេខា ដែល​ត្រូវ​បាន​បិទ ពីព្រោះ​ក្បួន​នោះ​មិនមាន​សុវត្ថិភាព​ទេ ។
 cert-error-trust-expired-issuer = វិញ្ញាបនបត្រ​មិន​ត្រូវ​បាន​ជឿ​ទុកចិត្ត​ឡើយ ពីព្រោះ​អ្នក​ចេញ​វិញ្ញាបនបត្រ​ផុត​កំណត់ ។
 cert-error-trust-self-signed = វិញ្ញាបនបត្រ​មិន​ត្រូវ​បាន​ជឿ​ទុកចិត្ត​ឡើយ ពីព្រោះ​វា​ត្រូវ​បាន​ចុះ​ហត្ថលេខា​ខ្លួន​ឯង ។
-cert-error-trust-symantec = វិញ្ញាបនបត្រ​ដែល​បាន​ចេញ​ដោយ GeoTrust, RapidSSL, Symantec, Thawte និង VeriSign លែង​ចាត់ទុក​ថា​មាន​សុវត្ថិភាព​ទៀត​ហើយ ដោយសារ​អាជ្ញាធរ​​វិញ្ញាបនបត្រ​ទាំងនេះ​មិន​អនុវត្ត​តាម​គោលការណ៍​សុវត្ថិភាព​កាលពី​មុន។
 cert-error-untrusted-default = វិញ្ញាបនបត្រ​មិន​មក​ពី​ប្រភព​ដែល​ជឿ​ទុកចិត្ត​ឡើយ ។
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -48,10 +47,6 @@ cert-error-code-prefix = កូដកំហុស៖ { $error }
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = បញ្ហា​កូដ៖ <a data-l10n-name="error-code-link">{ $error }</a>
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = គេហទំព័រ​បញ្ជាក់​អត្តសញ្ញាណ​របស់​ខ្លួន​តាមរយៈ​វិញ្ញាបនបត្រ ដែល​ត្រូវបាន​ចេញ​ដោយ​អាជ្ញាធរ​វិញ្ញាបនបត្រ។ កម្មវិធី​រុករក​តាម​អ៊ីនធឺណិត​ច្រើន​បំផុត​លែង​ទុកចិត្ត​វិញ្ញាបនបត្រ​ដែល​បាន​ចេញ​ដោយ GeoTrust, RapidSSL, Symantec, Thawte និង VeriSign ទៀត​ហើយ។ { $hostname } ប្រើប្រាស់​វិញ្ញាបនបត្រ​ពី​អាជ្ញាធរ​មួយ​ក្នុង​ចំណោម​អាជ្ញាធរ​ទាំងនេះ ដូច្នេះ​ហើយ​អត្តសញ្ញាណ​របស់​គេហទំព័រ​នេះ​មិន​អាច​បញ្ជាក់​បាន​ទេ។
-cert-error-symantec-distrust-admin = អ្នក​អាច​ជូនដំណឹង​ដល់​អ្នក​គ្រប់គ្រង​គេហទំព័រ​​អំពី​បញ្ហា​នេះ។
 cert-error-old-tls-version = គេហទំព័រ​នេះ​ប្រហែល​មិន​ស្គាល់​វិធីការ TLS 1.2 នេះទេ ដែល​ជា​កំណែ​ទាបបំផុត​ដែល​ស្គាល់​ដោយ { -brand-short-name }។
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -60,7 +55,6 @@ cert-error-details-hsts-label = សុវត្ថិភាព​ដឹកជញ
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = ការ​ខ្ទាស់​កូន​សោ​សាធារណៈ HTTP៖ { $hasHPKP }
 cert-error-details-cert-chain-label = ច្រវាក់​​វិញ្ញាបនបត្រ៖
-open-in-new-window-for-csp-or-xfo-error = បើក​គេហទំព័រ​នៅ​ក្នុង​ផ្ទាំង​ថ្មី
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = ដើម្បីការពារសុវត្ថិភាពរបស់អ្នក { $hostname }​ នឹងមិនអនុញ្ញាតឱ្យ { -brand-short-name } បង្ហាញទំព័រ ប្រសិនបើគេហទំព័រផ្សេងទៀតបានបង្កប់។ ដើម្បីមើលទំព័រនេះអ្នកត្រូវបើកវានៅក្នុងផ្ទាំង​ថ្មី។
@@ -93,7 +87,6 @@ redirectLoop-title = ទំព័រ​មិន​កំពុងតែ​ប�
 unknownSocketType-title = ចម្លើយតប​ពី​ម៉ាស៊ីន​បម្រើ​ដែល​មិន​បាន​រំពឹងទុក
 nssFailure2-title = ​ការ​តភ្ជាប់​សុវត្ថិភាព​បរាជ័យ
 csp-xfo-error-title = { -brand-short-name } មិនអាចបើកទំព័រនេះបានទេ
-corruptedContentError-title = កំហុស​មាតិកា​ដែល​ខូច
 sslv3Used-title = មិន​អាច​តភ្ជាប់​ដោយ​សុវត្ថិភាព​ឡើយ
 inadequateSecurityError-title = ការ​ត​ភ្ជាប់​របស់​អ្នក​មិន​មាន​សុវត្ថិភាពឡើយ​
 blockedByPolicy-title = ទំព័រត្រូវបានទប់ស្កាត់

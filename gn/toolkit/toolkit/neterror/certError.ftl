@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Ndojejeroviái pe mboajepyréva rehe pe ime�
 cert-error-trust-signature-algorithm-disabled = Ndojejeroviái pe mboajepyréva rehe omboheraguapy rupi oiporúvo algoritmo mboheraguapy rehegua ojejokomava’ekue nahekorosãi haguére.
 cert-error-trust-expired-issuer = Ndojejeroviái pe mboajepyre rehe pe ime’ẽhare ndoikovéima rupi.
 cert-error-trust-self-signed = Ndojejeroviái pe mboajepyre rehe oñemboheraguapyjehegui rupi.
-cert-error-trust-symantec = Umi mboajepyre oguenohẽva GeoTrust, RapidSSL, Symantec, Thawte y VeriSign nahekorosãvéima mboajepyre moakãharakuéra ndoguatái tekorosã rapére ymave.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } ndojeroviái { $hostname } rehe ndaikatúire ohechauka ojapoha he’íva pe mboajepyre opavaveguáva rekosakã.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Ayvu jejavy; <a data-l10n-name="error-code-link">{
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Oiko jejavy eikévo { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Umi ñanduti renda ohechauka heratee mboajepyre rupive, oguenohẽva mboajepyre moakãharakuéra. Hetave umi kundaha ndojeroviái oguenohẽva GeoTrust, RapidSSL, Symantec, Thawte y VeriSign. { $hostname } oiporu peteĩ mboajepyre peteĩva ko’ã moakãhárava ha, upéicha rupi, ndaikatúi eikua pe ñanduti renda réra.
-cert-error-symantec-distrust-admin = Ikatu emomarandu ñanduti renda ñangarekohárape ko apañuái rehegua.
 cert-error-old-tls-version = Ikatu ko ñanduti renda nomoneĩri pe taperekoite TLS 1.2, ha’éva tembiapokue michĩve omoneĩva { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = HTTP Tekorosãite Jegueraha Katu: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Ñe’ẽñemi Pavẽrovapeguáva Ñesa’ỹijo: { $hasHPKP }
 cert-error-details-cert-chain-label = Kuatia mboajepyre rysýi:
-open-in-new-window-for-csp-or-xfo-error = Embojuruja tenda ovetã pyahúpe
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Emo’ã hag̃ua ne rekorosã, { $hostname } nomoneĩmo’ãi { -brand-short-name } ohechaukávo kuatiarogue ambue tenda omoingéramo. Ehecha hag̃ua ko kuatiarogue, embojurujava’erã ovetã pyahúpe.
 fp-certerror-view-certificate-link = Ehecha tenda kuatia’atã
 fp-certerror-return-to-previous-page-recommended-button-2 = Eguevi (ñemoñe’ẽmbyre)
     .accesskey = G
-fp-certerror-return-to-previous-page-recommended-button = Eguevi (ñemoñe’ẽmbyre)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -93,13 +86,13 @@ fp-certerror-self-signed-important-note = JEHAIPY TUICHAMBA’ÉVA: Eñeha’ãr
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = Aravopapaha mba’e’oka pegua oñemboheko { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } ramo. Oĩ porãramo, oiméne apañuái tekorosãgua oĩhína pe tendapevoi. Oĩvaíramo, ikatu emoambue apopyvusu mba’e’oka ñembohekohápe.
+fp-certerror-expired-what-can-you-do-body = Aravopapaha mba’e’oka pegua oñemboheko { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } ramo. Oĩ porãramo, oiméne apañuái tekorosãgua oĩhína pe tendapevoi. Oĩvaíramo, ikatu emoambue apopyvusu mba’e’oka ñembohekohápe.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Ayvu jejavy: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -146,8 +139,6 @@ deniedPortAccess-title = Ko kundaharape ndaikatúi eiporu
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Oĩ apañuái ejuhu hag̃ua ko tenda.
 internet-connection-offline-title = Ha’eténte ku oĩva apañuái eikundaha hag̃ua ñandutípe.
-dns-not-found-trr-only-title2 = Tekorosã imarãkuaa ehekakuévo ko tendatee
-dns-not-found-native-fallback-title2 = Tekorosã imarãkuaa ehekakuévo ko tendatee
 fileNotFound-title = Marandurenda ndojejuhúiva
 fileAccessDenied-title = Marandurendápe jeike noñemoneĩri
 generic-title = Oops.
@@ -172,7 +163,6 @@ unknownSocketType-title = Mbohovái eha’ãrõ’ỹva mohendahavusúgui
 nssFailure2-title = Jeikekatu jejavýva
 csp-xfo-error-title = { -brand-short-name } ndoikekuaái ko kuatiaroguépe
 corruptedContentErrorv2-title = Tetepy imarãva jejavy
-corruptedContentError-title = Tetepy marãva jejavy
 sslv3Used-title = Ndaikatúi eikekatu
 inadequateSecurityError-title = Nde jeike ndahekokatúi
 blockedByPolicy-title = Kuatiarogue jokopyre
@@ -195,7 +185,6 @@ fp-certerror-hide-advanced-button = Eñomi opapotáva
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Ejapo { $hostname } ndive (ivaikuaa)
 fp-certerror-intro = { -brand-short-name } ohecha apañuái tekorosãgua ivaikuaáva <strong>{ $hostname }</strong> ndive. Oĩrõ oñembohasáva tenda rendaguépe ikatuhína omonda marandu kuatia’atã ñemurãgui, ñe’ẽñemi térã ñanduti veve.
 fp-certerror-expired-into = { -brand-short-name } ohechakuaa tekorosã apañuái <strong>{ $hostname }</strong> ndive. Térã tenda noñembohekoporãi térã mba’e’oka aravopapaha oñemohenda arange/aravo oĩvaívape.
 fp-certerror-transparency-intro = Peteĩ ohasáva <strong>{ $hostname }</strong> rekovia omondakuaa ne marandu ikatúva kuatia’atã mba’ekuaarã, ñe’ẽñemi térã ñanduti veve.

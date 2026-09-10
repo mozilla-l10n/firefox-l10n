@@ -59,9 +59,6 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-image-copy =
     .label = Salèn Gamba
     .accesskey = y
-main-context-menu-send-to-device =
-    .label = Peu'ét Laman u Alat
-    .accesskey = n
 
 ##
 

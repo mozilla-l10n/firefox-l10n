@@ -18,11 +18,6 @@ serviceworker-list-header = Service Workers
 serviceworker-list-aboutdebugging = Pro zobrazení service workerů z ostatních domén otevřete <a>about:debugging</a>
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Zrušit registraci
-# Text for the debug link displayed for an already started Service Worker. Clicking on the
-# link opens a new devtools toolbox for this service worker. The title attribute is only
-# displayed when the link is disabled.
-serviceworker-worker-debug = Ladit
-    .title = Ladit lze pouze běžící service workery
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
     .alt = Prozkoumat
@@ -33,7 +28,7 @@ serviceworker-worker-start3 = Spustit
 # display the last update time of the service worker script.
 # Variables:
 #   $date (date) - Update date
-serviceworker-worker-updated = Aktualizace <time>{ DATETIME($date, day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
+serviceworker-worker-updated = Aktualizace <time>{ DATETIME($date, day: "numeric", hour: "numeric", minute: "numeric", month: "numeric", second: "numeric", year: "numeric") }</time>
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.

@@ -31,7 +31,6 @@ inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</st
 inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> tidak didukung pada pseudo-elemen ::first-letter.
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> tidak didukung pada pseudo-elemen ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena memiliki nilai display <strong>{ $display }</strong>..
-inactive-css-not-display-block-on-floated = Nilai <strong>display</strong> telah diubah oleh mesin menjadi <strong>block</strong> karena elemennya <strong>mengambang</strong>.
 inactive-css-not-display-block-on-floated-2 = Nilai <strong>display</strong> telah diubah oleh mesin menjadi <strong>{ $display }</strong> karena elemennya <strong>mengambang</strong>.
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> tidak berpengaruh karena tidak dapat digunakan pada item grid atau flex.
 inactive-css-not-block = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena hanya berlaku untuk elemen tingkat blok.
@@ -50,16 +49,6 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 inactive-css-border-image = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena tidak dapat diterapkan pada elemen tabel internal di mana <strong>border-collapse</strong> disetel menjadi <strong>collapse</strong> pada elemen tabel induk.
 inactive-css-resize = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena hanya dapat diterapkan ke elemen dengan nilai luapan selain yang terlihat, dan untuk elemen tertentu yang diganti, seperti textareas.
 inactive-css-ruby-element = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena merupakan elemen ruby. Ukurannya ditentukan oleh ukuran font teks ruby.
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> tidak didukung pada pseudo-elemen highlight.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> tidak didukung pada pseudo-elemen ::cue.
 # Variables:

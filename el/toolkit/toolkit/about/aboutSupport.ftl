@@ -32,10 +32,6 @@ security-software-name = Όνομα
 security-software-antivirus = Προστασία από ιούς
 security-software-antispyware = Antispyware
 security-software-firewall = Τείχος προστασίας
-features-title = Χαρακτηριστικά { -brand-short-name }
-features-name = Όνομα
-features-version = Έκδοση
-features-id = ID
 processes-title = Απομακρυσμένες διεργασίες
 processes-type = Τύπος
 processes-count = Πλήθος
@@ -61,7 +57,6 @@ app-basics-profile-dir =
         [linux] Κατάλογος προφίλ
        *[other] Φάκελος προφίλ
     }
-app-basics-enabled-plugins = Ενεργά αρθρώματα
 app-basics-build-config = Ρύθμιση δομής
 app-basics-user-agent = Πράκτορας χρήστη
 app-basics-os = ΛΣ
@@ -99,9 +94,6 @@ show-dir-label =
 environment-variables-title = Μεταβλητές περιβάλλοντος
 environment-variables-name = Όνομα
 environment-variables-value = Τιμή
-experimental-features-title = Πειραματικές λειτουργίες
-experimental-features-name = Όνομα
-experimental-features-value = Τιμή
 modified-key-prefs-title = Σημαντικές τροποποιημένες προτιμήσεις
 modified-prefs-name = Όνομα
 modified-prefs-value = Τιμή
@@ -216,9 +208,6 @@ media-cdm-capabilities = Δυνατότητες
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Μη κρυπτογραφημένη έναρξη (Clear Lead)
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = Συμβατό με HDCP 2.2
 
 ##
 
@@ -390,8 +379,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Απενεργοποιήθηκε από πείραμα
-fission-status-experiment-treatment = Ενεργοποιήθηκε από πείραμα
 fission-status-disabled-by-e10s-env = Απενεργοποιήθηκε από το περιβάλλον
 fission-status-enabled-by-env = Ενεργοποιήθηκε από το περιβάλλον
 fission-status-disabled-by-env = Ανενεργό λόγω περιβάλλοντος
@@ -400,7 +387,6 @@ fission-status-disabled-by-default = Απενεργοποιήθηκε από π�
 fission-status-enabled-by-user-pref = Ενεργοποιήθηκε από τον χρήστη
 fission-status-disabled-by-user-pref = Απενεργοποιήθηκε από τον χρήστη
 fission-status-disabled-by-e10s-other = Ανενεργό E10s
-fission-status-enabled-by-rollout = Ενεργό με σταδιακή διάθεση
 async-pan-zoom = Ασύγχρονο pan/zoom
 apz-none = κανένα
 wheel-enabled = είσοδος ρόδας ενεργή

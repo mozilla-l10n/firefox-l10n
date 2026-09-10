@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Дар ҳоли боргирии навсозӣ — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Дар ҳоли боргирии навсозӣ — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Дар ҳоли боргирии навсозӣ — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Дар ҳоли татбиқи навсозӣ…
 update-failed = Навсозӣ иҷро нашуд. <label data-l10n-name="failed-link">Версияи охиринро боргирӣ намоед</label>
 update-failed-main = Навсозӣ иҷро нашуд. <a data-l10n-name="failed-link-main">Версияи охиринро боргирӣ намоед</a>
-update-adminDisabled = Навсозиҳо аз ҷониби маъмури низоми шумо ғайрифаъол карда шудаанд
 update-policy-disabled = Навсозиҳо аз ҷониби ташкилоти шумо ғайрифаъол карда шудаанд
 settings-update-policy-disabled =
     .label = Навсозиҳо аз ҷониби ташкилоти шумо ғайрифаъол карда шудаанд
@@ -72,8 +70,6 @@ helpus-referrals2 = Мехоҳед, ки ба мо кумак расонед? <l
 bottomLinks-license = Маълумот дар бораи гувоҳнома
 bottom-links-terms = Шартҳои истифода
 bottom-links-privacy = Огоҳномаи махфият
-bottomLinks-rights = Ҳуқуқҳои корбари ниҳоӣ
-bottomLinks-privacy = Сиёсати махфият
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

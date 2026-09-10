@@ -48,7 +48,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Bộ giải mã dữ liệu ({ $pid })
 about-processes-socket-process = Mạng ({ $pid })
-about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Máy chủ Fork ({ $pid })
 about-processes-preallocated-process = Được tải trước ({ $pid })
 about-processes-utility-process = Tiện ích ({ $pid })
@@ -72,17 +71,6 @@ about-processes-web-isolated-property-with-coop-coep = cross-origin isolated
 ##    $properties (String) A formatted list of properties from the above strings.
 
 about-processes-web-isolated-process2 = { $origin } ({ $properties })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, đã cô lập cross-origin)
-about-processes-web-isolated-process-private = { $origin } — Riêng tư ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } — Riêng tư ({ $pid }, đã cô lập cross-origin)
 
 ## Details within processes
 

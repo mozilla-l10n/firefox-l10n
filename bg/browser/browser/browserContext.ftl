@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Връщане една страница назад ({ $shortcut })
     .aria-label = Назад
+    .tooltiptext = Връщане една страница назад ({ $shortcut })
     .accesskey = з
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Отиване една страница напред ({ $shortcut })
     .aria-label = Напред
+    .tooltiptext = Отиване една страница напред ({ $shortcut })
     .accesskey = п
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Отмятане на страница...
-    .accesskey = О
     .tooltiptext = Отмятане на страница
+    .accesskey = О
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Отмятане на страницата…
-    .accesskey = О
     .tooltiptext = Отмята страницата ({ $shortcut })
+    .accesskey = О
 main-context-menu-edit-bookmark =
     .aria-label = Промяна на отметката…
-    .accesskey = П
     .tooltiptext = Променя отметката
+    .accesskey = П
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Промяна на отметката…
-    .accesskey = П
     .tooltiptext = Променя отметката ({ $shortcut })
+    .accesskey = П
 main-context-menu-open-link =
     .label = Отваряне на препратката
     .accesskey = п
@@ -145,9 +139,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Запазване на препратката като…
     .accesskey = к
-main-context-menu-save-link-to-pocket =
-    .label = Запазване на препратката в { -pocket-brand-name }
-    .accesskey = п
 
 ##
 
@@ -294,40 +285,22 @@ main-context-menu-send-to-device-2 =
     .label = Изпращане към устройство
     .accesskey = И
 main-context-menu-send-to-mobile-connect-phone2 = Свържете телефона си
-main-context-menu-save-to-pocket =
-    .label = Запазване на страницата в { -pocket-brand-name }
-    .accesskey = с
-main-context-menu-send-to-device =
-    .label = Изпращане на страница до устройство
-    .accesskey = у
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Използване на запазена регистрация
-    .accesskey = р
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Използване на запазена парола
     .accesskey = п
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Използвайте маскирането на имейл адреси с { -relay-brand-short-name }.
     .accesskey = е
 main-context-menu-suggest-strong-password =
     .label = Предлагане на добра парола…
     .accesskey = а
-main-context-menu-manage-logins2 =
-    .label = Управление на регистрации…
-    .accesskey = У
 main-context-menu-manage-passwords =
     .label = Управляване на пароли
     .accesskey = У
-main-context-menu-keyword =
-    .label = Добавяне на ключова дума за търсене…
-    .accesskey = к
 main-context-menu-add-engine =
     .label = Добавяне на търсеща машина
     .accesskey = Д
@@ -371,9 +344,6 @@ main-context-menu-view-selection-source =
     .label = Изходен код на избраното
     .accesskey = к
 main-context-menu-take-screenshot =
-    .label = Снимка на екрана
-    .accesskey = е
-main-context-menu-take-frame-screenshot =
     .label = Снимка на екрана
     .accesskey = е
 main-context-menu-view-page-source =

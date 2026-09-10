@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = ვიმყოფები გვერდზ�
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = ჰკითხეთ AI-თანამოსაუბრეს
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = გიპასუხებთ { $provider }
 genai-menu-open-generic =
     .label = AI-თანამოსაუბრის გახსნა
 # $provider (string) - name of the provider
@@ -120,8 +115,6 @@ genai-header-provider-menu =
     .title = აირჩიეთ თანამოსაუბრე
 genai-header-settings-button =
     .title = AI-სასაუბროს პარამეტრები
-genai-header-options-button =
-    .title = მენიუს გახსნა
 genai-header-close-button =
     .title = დახურვა
 genai-provider-view-details =
@@ -149,37 +142,25 @@ genai-page-button-summarize = გვერდის შეჯამება
 
 ## Chatbot onboarding
 
-genai-onboarding-header = იხილეთ დასკვნები, ახალი მოსაზრებები და ა. შ. გვერდების მონახულებისას
 genai-onboarding-choose-header = აირჩიეთ AI-თანამოსაუბრე, რომელსაც { -brand-short-name } გამოაჩენს გვერდით ზოლზე გამოსაყენებლად
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = აირჩიეთ AI-თანამოსაუბრე, რომელსაც გაგიხსნით { -brand-short-name } გვერდით ზოლზე გამოსაყენებლად. დაწვრილებით იხილავთ თითოეული თანამოსაუბრის შესახებ მათი შერჩევისას. ნებისმიერ დროს შეგეძლებათ შეცვლას. <a data-l10n-name="learn-more">ვრცლად</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = გადართვა ნებისმიერ დროსაა შესაძლებელი. არჩევანის გასაიოლებლად <a data-l10n-name="learn-more">იხილეთ ვრცლად თითოეული თანამოსაუბრის შესახებ</a>.
 genai-onboarding-primary = განაგრძეთ
 genai-onboarding-secondary = დახურვა
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = უკეთ გაიცანით Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = უკეთ გაიცანით ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = უკეთ გაიცანით Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = უკეთ გაიცანით Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = უკეთ გაიცანით HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = უკეთ გაიცანით Le Chat
-genai-onboarding-select-header = მონიშნეთ ტექსტი შემოთავაზებებისთვის
-genai-onboarding-select-description = ტექსტის მონიშვნისას შემოგთავაზებთ მოთხოვნებს, რომელთა გაგზავნაც შეგეძლებათ თანამოსაუბრისთვის. აგრეთვე შეგეძლებათ თავად მიუწეროთ თქვენი მოთხოვნები.
-genai-onboarding-select-primary = მიმოწერის დაწყება
 genai-chatbot-contextual-title = გამოიყენეთ AI-თანამოსაუბრე ჩანართების გადაურთველად.
 genai-chatbot-contextual-subtitle = ისაუბრეთ და ინახულეთ გვერდები ერთდროულად, { -brand-short-name } საშუალებას გაძლევთ, AI-თანამოსაუბრე გვერდით ზოლზე განათავსოთ.
 genai-chatbot-contextual-button = აირჩიეთ თანამოსაუბრე
@@ -192,27 +173,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = მარჯვენა წ�
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = გახსენით გვერდითი ზოლიდან თქვენი AI-თანამოსაუბრე და აირჩიეთ „გვერდის შეჯამება“ ქვემოთ.
 genai-chatbot-summarize-footer-generic-subtitle = გვერდის შინაარსის სწრაფად შესაჯამებლად დაამატეთ AI-თანამოსაუბრე, რომელსაც განათავსებს { -brand-short-name } გვერდით ზოლზე.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = ტექსტისა და კოდის შედგენა
-genai-onboarding-claude-analyze = დოკუმენტებისა და სურათების გარჩევა
-genai-onboarding-claude-price = უფასო და ფასიანი შესაძლებლობები; საჭიროებს ანგარიშს
-genai-onboarding-chatgpt-generate = ტექსტის, სურათებისა და კოდის შედგენა
-genai-onboarding-chatgpt-analyze = დოკუმენტებისა და სურათების გარჩევა
-genai-onboarding-chatgpt-price = უფასო და ფასიანი შესაძლებლობები; საჭიროებს ანგარიშს ზოგიერთი ქვეყნისა და დავალებისთვის
-genai-onboarding-copilot-generate = ტექსტის, სურათებისა და კოდის შედგენა
-genai-onboarding-copilot-analyze = სურათების გარჩევა
-genai-onboarding-copilot-price = უფასო და ფასიანი შესაძლებლობები; საჭიროებს ანგარიშს ზოგიერთი დავალებისთვის
-genai-onboarding-gemini-generate = ტექსტის, სურათებისა და კოდის შედგენა
-genai-onboarding-gemini-analyze = სურათებისა (უფასო) და დოკუმენტების გარჩევა (ფასიანი)
-genai-onboarding-gemini-price = უფასო და ფასიანი შესაძლებლობები; საჭიროებს ანგარიშს
-genai-onboarding-huggingchat-generate = ტექსტისა და კოდის შედგენა
-genai-onboarding-huggingchat-switch = სხვადასხვა ღია მოდელებზე გადართვა
-genai-onboarding-huggingchat-price-2 = უფასო; საჭიროებს ანგარიშს გარკვეული ოდენობის მოთხოვნების შემდეგ
-genai-onboarding-lechat-generate = ტექსტისა და კოდის შედგენა
-genai-onboarding-lechat-price = უფასო; საჭიროებს ანგარიშს
 
 ## Model Optin Component
 
@@ -251,8 +211,8 @@ link-preview-generation-retry = ხელახლა ცდა
 link-preview-settings-button =
     .title = ბმულის შეთვალიერების პარამეტრები
 link-preview-settings-enable =
-    .label = ბმულის შეთვალიერების ჩართვა
     .description = იხილეთ გვერდის სათაური, აღწერილობა და სხვ. მალსახმობის გამოყენებისას ან ბმულზე მარჯვენა წკაპით.
+    .label = ბმულის შეთვალიერების ჩართვა
 link-preview-settings-key-points =
     .label = ნებართვა, რომ ხელგონი წაიკითხავს გვერდის დასაწყისს და გამოკვეთს საკვანძო საკითხებს
 link-preview-settings-long-press =

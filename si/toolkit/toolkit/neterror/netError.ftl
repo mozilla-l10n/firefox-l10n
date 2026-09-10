@@ -23,17 +23,13 @@ neterror-override-exception-button = අවදානම පිළිගෙන �
 neterror-pref-reset-button = පෙරනිමි සැකසුම් ප්‍රත්‍යර්පණය
 neterror-return-to-previous-page-button = ආපසු යන්න
 neterror-return-to-previous-page-recommended-button = ආපසු යන්න (නිර්දේශිතයි)
-neterror-try-again-button = නැවත උත්සාහ කරන්න
 neterror-add-exception-button = සැමවිට මෙම අඩවියෙහි ඉදිරියට යන්න
 neterror-settings-button = ව.නා.ප. සැකසුම් වෙනස් කරන්න
 neterror-view-certificate-link = සහතිකය පෙන්වන්න
-neterror-trr-continue-this-time = මෙවර ඉදිරියට යන්න
-neterror-disable-native-feedback-warning = සැමවිට ඉදිරියට යන්න
 
 ##
 
 neterror-pref-reset = ඔබගේ ජාලයේ ආරක්‍ෂණ සැකසුම් මෙයට හේතු විය හැකි බව පෙනෙයි. ඔබට පෙරනිමි සැකසුම් ප්‍රත්‍යර්පණය කිරීමට වුවමනා ද?
-neterror-error-reporting-automatic = { -vendor-short-name } මගින් අනිෂ්ට අඩවි හඳුනාගෙන අවහිර කිරීමට මෙවැනි දෝෂ වාර්තා කරන්න
 
 ## Specific error messages
 
@@ -55,21 +51,11 @@ neterror-dns-not-found-hint-firewall = { -brand-short-name } සඳහා වි
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = මෙම අඩවියේ ලිපිනයට අපගේ විශ්වාසදායක ව.නා.ප. පිළිවිසඳුව හරහා { -brand-short-name } මගින් ඔබගේ ඉල්ලීම රැකීමට නොහැකිය. හේතුව:
 neterror-dns-not-found-trr-third-party-warning2 = ඔබගේ පෙරනිමි ව.නා.ප. පිළිවිසඳුව සමඟ ඉදිරියට යාමට හැකිය. කෙසේ වෙතත්, තෙවන පාර්ශ්වයකට ඔබ ගොඩවදින අඩවි මොනවාදැයි බැලීමට හැකිය.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } මගින් { $trrDomain } වෙත සම්බන්ධ වීමට නොහැකි විය.
 neterror-dns-not-found-trr-only-timeout = { $trrDomain } වෙත සම්බන්ධතාවට අපේක්‍ෂිත කාලයට වඩා ගත විය.
-neterror-dns-not-found-trr-offline = ඔබ අන්තර්ජාලයට සම්බන්ධ වී නැත.
 neterror-dns-not-found-bad-trr-url = ඒ.ස.නි. වැරදිය
 neterror-dns-not-found-trr-unknown-problem = අනපේක්‍ෂිත ගැටලුවකි.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = මෙම අඩවියේ ලිපිනයට අපගේ විශ්වාසදායක ව.නා.ප. පිළිවිසඳුව හරහා { -brand-short-name } මගින් ඔබගේ ඉල්ලීම රැකීමට නොහැකිය. හේතුව:
-neterror-dns-not-found-native-fallback-heuristic = HTTPS හරහා ව.නා.ප. ඔබගේ ජාලයට අබල කර ඇත.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } මගින් { $trrDomain } වෙත සම්බන්ධ වීමට නොහැකි විය.
 
 ##
 

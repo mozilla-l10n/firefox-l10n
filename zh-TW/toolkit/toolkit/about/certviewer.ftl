@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = 您的憑證
 certificate-viewer-tab-people = 人員
 certificate-viewer-tab-servers = 伺服器
 certificate-viewer-tab-ca = 憑證機構
-certificate-viewer-tab-unkonwn = 未知

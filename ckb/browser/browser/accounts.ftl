@@ -21,20 +21,9 @@ account-verify = بیسەلمێنە { $email }
 account-send-to-all-devices-titlecase = بینێرە بۆ هەموو ئامێرەکان
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = هیچ ئامێرێک پەیوەست نیە
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = زیاتر بزانە دەربارەی ناردنی بازدەرەکان...
-# Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = پەیوەندی بکە بە ئامێرێکی تر...
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = هەژمار نە سەلمێندراوە
-account-send-tab-to-device-verify = هەژمارەکەت بسەلمێنە...
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 

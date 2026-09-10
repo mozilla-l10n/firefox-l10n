@@ -22,7 +22,6 @@ about-glean-upload-enabled-local = رفع البيانات مفعّل فقط ل�
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>:{ $moz-official-define-value }
-about-glean-about-testing-header = حول الاختبار
 about-glean-about-data-header = حول البيانات
 about-glean-metrics-table-settings-hide-empty-value-rows = أخفِ صفوف القيم الفارغة
 # Label displayed near an input field that can be used to filter metrics

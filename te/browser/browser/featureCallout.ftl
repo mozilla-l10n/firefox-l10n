@@ -13,7 +13,6 @@ callout-primary-complete-button-label = అర్థమైంది!
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = ట్యాబ్ పికప్‌తో పరికరాల మధ్య గెంతండి
 callout-firefox-view-recently-closed-subtitle = మీరు మూసివేసిన ట్యాబులన్నీ మంత్రంవేసినట్టుగా ఇక్కడ ప్రత్యక్షమవుతాయి. ప్రమాదవశాత్తూ సైటును మూసివేయడం గురించి ఇక చింతించకండి.
-callout-firefox-view-colorways-title = కొంచెం రంగులు జల్లండి
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

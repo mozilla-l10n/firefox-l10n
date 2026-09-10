@@ -89,8 +89,6 @@ downloads-cmd-show-description-2 =
             [macos] Zobrazit ve Finderu
            *[other] Otevřít složku
         }
-downloads-cmd-show-downloads =
-    .label = Otevřít složku se staženými soubory
 downloads-cmd-retry =
     .tooltiptext = Opakovat
 downloads-cmd-retry-panel =

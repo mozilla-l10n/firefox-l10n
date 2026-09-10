@@ -31,8 +31,6 @@ downloads-cmd-cancel-panel =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = Прикажи папка за преземања
 downloads-cmd-retry =
     .tooltiptext = Пробај пак
 downloads-cmd-retry-panel =

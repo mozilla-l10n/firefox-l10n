@@ -5,6 +5,3 @@
 popup-notification-learn-more = Barrachd fiosrachaidh
 popup-notification-more-actions-button =
     .aria-label = Barrachd ghnìomhan
-popup-notification-default-button =
-    .label = Ceart ma-thà!
-    .accesskey = C

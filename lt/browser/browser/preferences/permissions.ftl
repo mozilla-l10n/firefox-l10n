@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Išimtys
     .style = min-width: 45em
+    .title = Išimtys
 permissions-close-key =
     .key = w
 permissions-address = Svetainės adresas
@@ -77,57 +77,42 @@ permissions-invalid-uri-label = Prašom surinkti teisingą serverio vardą
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Išimtys išplėstai apsaugai nuo stebėjimo
     .style = { permissions-window2.style }
+    .title = Išimtys išplėstai apsaugai nuo stebėjimo
 permissions-exceptions-manage-etp-desc = Galite nurodyti, kuriose svetainėse išjungta išplėsta apsauga nuo stebėjimo. Įveskite tikslų svetainės adresą, kurią norite tvarkyti, ir spustelėkite „Sukurti išimtį“.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Išimtys – slapukai ir svetainių duomenys
     .style = { permissions-window2.style }
+    .title = Išimtys – slapukai ir svetainių duomenys
 permissions-exceptions-cookie-desc = Galite nurodyti kurioms svetainėms visada, arba niekada, leidžiate naudoti slapukus bei svetainių duomenis.  Įveskite tikslų adresą svetainės, kuriai norite atlikti pakeitimus, ir tada spustelėkite „Neleisti“, „Leisti vienam seansui“, arba „Leisti“.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
+    .style = { permissions-window2.style }
     .title = Išimtys – tik HTTPS veiksena
-    .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Galite išjungti tik HTTPS veikseną tam tikroms svetainėms. „{ -brand-short-name }“ šioms svetainėms nebandys apsaugoti ryšio su HTTPS. Išimtys negalioja privačiojo naršymo languose.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Leistinos svetainės – iškylantieji langai
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Čia galima nurodyti svetaines, kurioms bus leidžiama atverti iškylančiuosius langus. Surinkite tikslų svetainės adresą ir spustelėkite mygtuką „Leisti“.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Išimtys – įrašyti prisijungimai
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Prisijungimai prie šių svetainių nebus įrašomi
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Leistinos svetainės – priedų diegimas
     .style = { permissions-window2.style }
+    .title = Leistinos svetainės – priedų diegimas
 permissions-exceptions-addons-desc = Čia galima nurodyti svetaines, kurioms bus leidžiama įdiegti priedus. Surinkite tikslų svetainės adresą ir spustelėkite mygtuką „Leisti“.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Nuostatos – automatinis grojimas
     .style = { permissions-window2.style }
+    .title = Nuostatos – automatinis grojimas
 permissions-site-autoplay-desc = Čia galite tvarkyti svetaines, kurioms netaikomos numatytosios automatinio grojimo nuostatos.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Nuostatos – pranešimų leidimai
     .style = { permissions-window2.style }
+    .title = Nuostatos – pranešimų leidimai
 permissions-site-notification-desc = Šios svetainės prašo leidimo siųsti jums pranešimus. Jūs galite nurodyti, kurioms svetainėms tai leidžiate daryti. Kartu galite užblokuoti naujus leidimų prašymus.
 permissions-site-notification-disable-label =
     .label = Blokuoti naujus pranešimų leidimo prašymus
@@ -136,8 +121,8 @@ permissions-site-notification-disable-desc = Tai neleis svetainėms, neišvardin
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Nuostatos – vietos leidimai
     .style = { permissions-window2.style }
+    .title = Nuostatos – vietos leidimai
 permissions-site-location-desc = Šios svetainės prašo leidimo nustatyti jūsų buvimo vietą. Jūs galite nurodyti, kurioms svetainėms tai leidžiate daryti. Kartu galite užblokuoti naujus leidimų prašymus.
 permissions-site-location-disable-label =
     .label = Blokuoti naujus jūsų buvimo vietos nustatymo prašymus
@@ -146,8 +131,8 @@ permissions-site-location-disable-desc = Tai neleis svetainėms, neišvardintoms
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Nuostatos – virtualios realybės leidimai
     .style = { permissions-window2.style }
+    .title = Nuostatos – virtualios realybės leidimai
 permissions-site-xr-desc = Šios svetainės prašo leidimo naudoti jūsų virtualios realybės įrenginius. Jūs galite nurodyti, kurioms svetainėms tai leidžiate daryti. Kartu galite užblokuoti naujus leidimų prašymus.
 permissions-site-xr-disable-label =
     .label = Blokuoti naujus virtualios realybės įrenginių naudojimo prašymus
@@ -156,8 +141,8 @@ permissions-site-xr-disable-desc = Tai neleis svetainėms, neišvardintoms aukš
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Nuostatos – kameros leidimai
     .style = { permissions-window2.style }
+    .title = Nuostatos – kameros leidimai
 permissions-site-camera-desc = Šios svetainės prašo leidimo naudoti jūsų kamerą. Jūs galite nurodyti, kurioms svetainėms tai leidžiate daryti. Kartu galite užblokuoti naujus leidimų prašymus.
 permissions-site-camera-disable-label =
     .label = Blokuoti naujus kameros naudojimo prašymus
@@ -166,8 +151,8 @@ permissions-site-camera-disable-desc = Tai neleis svetainėms, neišvardintoms a
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Nuostatos – mikrofono leidimai
     .style = { permissions-window2.style }
+    .title = Nuostatos – mikrofono leidimai
 permissions-site-microphone-desc = Šios svetainės prašo leidimo naudoti jūsų mikrofoną. Jūs galite nurodyti, kurioms svetainėms tai leidžiate daryti. Kartu galite užblokuoti naujus leidimų prašymus.
 permissions-site-microphone-disable-label =
     .label = Blokuoti naujus mikrofono naudojimo prašymus

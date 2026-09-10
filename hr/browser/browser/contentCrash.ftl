@@ -18,14 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Imaš { $reportCount } neposlani izvještaj o prekidu rada
-        [few] Imaš { $reportCount } neposlana izvještaja o prekidu rada
-       *[other] Imaš { $reportCount } neposlanih izvještaja o prekidu rada
-    }
 pending-crash-reports-view-all =
     .label = Prikaži
 pending-crash-reports-send =
@@ -39,14 +31,6 @@ requested-crash-reports-message-new =
         [one] Imaš jedan neposlan izvještaj o prekidu rada koji je povezan s prekidima koji se istražuju. Slanjem izvještaja ćeš nam pomoći poboljšati { -brand-product-name }. Zatvaranjem ove obavijesti se ovaj izvještaj zanemaruje.
         [few] Imaš { $reportCount } neposlana izvještaja o prekidu rada koji su povezani s prekidima koji se istražuju. Slanjem izvještaja ćeš nam pomoći poboljšati { -brand-product-name }. Zatvaranjem ove obavijesti se ovaj izvještaj zanemaruje.
        *[other] Imaš { $reportCount } neposlanih izvještaja o prekidu rada koji su povezani s prekidima koji se istražuju. Slanjem izvještaja ćeš nam pomoći poboljšati { -brand-product-name }. Zatvaranjem ove obavijesti se ovaj izvještaj zanemaruje.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Imaš { $reportCount } neposlani izvještaj o prekidu rada programa koji odgovara prekidima koji se istražuju. Slanjem izvještaja ćeš nam pomoći poboljšati { -brand-product-name }. Zatvaranjem ove obavijesti se ovaj izvještaj zanemaruje.
-        [few] Imaš { $reportCount } neposlana izvještaja o prekidu rada programa koji odgovaraju prekidima koji se istražuju. Slanjem izvještaja ćeš nam pomoći poboljšati { -brand-product-name }. Zatvaranjem ove obavijesti se ovaj izvještaj zanemaruje.
-       *[other] Imaš { $reportCount } neposlanih izvještaja o prekidu rada programa koji odgovaraju prekidima koji se istražuju. Slanjem izvještaja ćeš nam pomoći poboljšati { -brand-product-name }. Zatvaranjem ove obavijesti se ovaj izvještaj zanemaruje.
     }
 requested-crash-reports-dont-show-again =
     .label = Nemoj ponovo prikazati

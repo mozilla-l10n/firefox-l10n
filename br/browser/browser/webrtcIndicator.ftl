@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Merker ar rannañ
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Merker ar rannañ
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Emaoc'h o rannañ ho mikrofon. Klikit evit reoliñ ar rannañ.
 webrtc-screen-system-menu =
     .label = Emaoc'h o rannañ ur prenestr pe ur skramm. Klikit evit reoliñ ar rannañ.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Emaoc'h o rannañ ho kamera hag ho klevell. Klikit evit reoliñ ar rannañ.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Emaoc'h o rannañ ho kamera. Klikit evit reoliñ ar rannañ.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Emaoc'h o rannañ ho klevell. Klikit evit reoliñ ar rannañ.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Emaoc'h o rannañ un arload. Klikit evit reoliñ ar rannañ.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Emaoc'h o rannañ ho skramm. Klikit evit reoliñ ar rannañ.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Emaoc'h o rannañ ur prenestr. Klikit evit reoliñ ar rannañ.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Emaoc'h o rannañ un ivinell. Klikit evit reoliñ ar rannañ.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -195,7 +176,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Aotren { $origin
 
 webrtc-share-screen-warning = Rannit ho skrammoù gant lec’hiennoù ho peus fiziañs enno hepken. En ur rannañ e c’hallit aotren lec’hiennoù touellus da furchal ha da laerez ho roadennoù prevez.
 webrtc-share-browser-warning = Rannit { -brand-short-name } gant lec’hiennoù ho peus fiziañs enno hepken. En ur rannañ e c’hallit aotren lec’hiennoù touellus da furchal ha da laerez ho roadennoù prevez.
-webrtc-share-screen-learn-more = Gouzout hiroc'h
 webrtc-pick-window-or-screen = Diuzit ar prenestr pe ar skramm
 webrtc-share-entire-screen = Skramm a-bezh
 webrtc-share-pipe-wire-portal = Ober gant arventennoù ar reizhad korvoiñ

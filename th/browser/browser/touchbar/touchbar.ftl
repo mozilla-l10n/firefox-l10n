@@ -31,4 +31,3 @@ search-bookmarks = ที่คั่นหน้า
 search-history = ประวัติ
 search-opentabs = แท็บที่เปิด
 search-tags = ป้ายกำกับ
-search-titles = ชื่อเรื่อง

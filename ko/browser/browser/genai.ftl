@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = 나는 현재 “{ $selection }” 텍스트가 
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = AI 챗봇에게 물어보기
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = { $provider }에게 물어보기
 genai-menu-open-generic =
     .label = AI 챗봇 열기
 # $provider (string) - name of the provider
@@ -112,8 +107,6 @@ genai-header-provider-menu =
     .title = 챗봇 선택
 genai-header-settings-button =
     .title = AI 챗 설정
-genai-header-options-button =
-    .title = 메뉴 열기
 genai-header-close-button =
     .title = 닫기
 genai-provider-view-details =
@@ -141,37 +134,25 @@ genai-page-button-summarize = 페이지 요약
 
 ## Chatbot onboarding
 
-genai-onboarding-header = 탐색하면서 요약, 브레인스토밍 등을 하세요
 genai-onboarding-choose-header = { -brand-short-name } 사이드바에서 사용할 AI 챗봇 선택
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = { -brand-short-name } 사이드바에서 사용할 AI 챗봇을 선택하세요. 각 챗봇을 선택하면 해당 챗봇에 대한 세부 정보가 표시됩니다. 언제든지 전환할 수 있습니다. <a data-l10n-name="learn-more">더 알아보기</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = 언제든지 전환할 수 있습니다. 선택에 도움이 필요하면 <a data-l10n-name="learn-more">각 챗봇에 대해 더 알아보세요</a>.
 genai-onboarding-primary = 계속
 genai-onboarding-secondary = 닫기
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Claude에 대해 더 알아보기
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = ChatGPT에 대해 더 알아보기
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Copilot에 대해 더 알아보기
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Gemini에 대해 더 알아보기
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = HuggingChat에 대해 더 알아보기
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Le Chat에 대해 더 알아보기
-genai-onboarding-select-header = 제안을 보려면 텍스트를 선택하세요
-genai-onboarding-select-description = 텍스트를 선택하면 챗봇에 보낼 수 있는 메시지를 제안합니다. 자신만의 프롬프트를 작성할 수도 있습니다.
-genai-onboarding-select-primary = 채팅 시작
 genai-chatbot-contextual-title = 탭을 전환하지 않고 AI 챗봇 사용하기
 genai-chatbot-contextual-subtitle = { -brand-short-name } 사이드바에 AI 챗봇을 추가하면 채팅과 탐색이 나란히 표시됩니다.
 genai-chatbot-contextual-button = 챗봇 선택
@@ -184,27 +165,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = 사이드바의 반짝이는 
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = 사이드바에서 AI 챗봇을 열고 하단에서 "페이지 요약"을 선택하세요.
 genai-chatbot-summarize-footer-generic-subtitle = { -brand-short-name } 사이드바에 AI 챗봇을 추가하여 페이지를 빠르게 요약하세요.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = 텍스트와 코드 생성
-genai-onboarding-claude-analyze = 문서 및 이미지 분석
-genai-onboarding-claude-price = 무료 및 유료 옵션; 계정 필요
-genai-onboarding-chatgpt-generate = 텍스트, 이미지 및 코드 생성
-genai-onboarding-chatgpt-analyze = 문서 및 이미지 분석
-genai-onboarding-chatgpt-price = 무료 및 유료 옵션; 일부 국가 및 작업에는 계정 필요
-genai-onboarding-copilot-generate = 텍스트, 이미지 및 코드 생성
-genai-onboarding-copilot-analyze = 이미지 분석
-genai-onboarding-copilot-price = 무료 및 유료 옵션; 일부 작업에는 계정 필요
-genai-onboarding-gemini-generate = 텍스트, 이미지 및 코드 생성
-genai-onboarding-gemini-analyze = 이미지(무료)와 문서(유료) 분석
-genai-onboarding-gemini-price = 무료 및 유료 옵션; 계정 필요
-genai-onboarding-huggingchat-generate = 텍스트와 코드 생성
-genai-onboarding-huggingchat-switch = 다양한 개방형 모델 간 전환
-genai-onboarding-huggingchat-price-2 = 무료; 특정 횟수의 요청 후 계정 필요
-genai-onboarding-lechat-generate = 텍스트와 코드 생성
-genai-onboarding-lechat-price = 무료; 계정 필요
 
 ## Model Optin Component
 
@@ -239,8 +199,8 @@ link-preview-generation-retry = 다시 시도
 link-preview-settings-button =
     .title = 링크 미리보기 설정
 link-preview-settings-enable =
-    .label = 링크 미리보기 사용
     .description = 단축키나 링크의 해당 컨텍스트 메뉴로 페이지 제목, 설명 등을 확인할 수 있습니다.
+    .label = 링크 미리보기 사용
 link-preview-settings-key-points =
     .label = AI가 페이지의 시작 부분을 읽고 요점을 생성하도록 허용
 link-preview-settings-long-press =

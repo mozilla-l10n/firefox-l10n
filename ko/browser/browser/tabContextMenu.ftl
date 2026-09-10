@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = 새 탭
-    .accesskey = w
 reload-tab =
     .label = 탭 새로 고침
     .accesskey = R
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = 새 그룹
     .accesskey = G
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -198,9 +191,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = 공유 가능한 링크 만들기
     .accesskey = a
-tab-context-send-tabs-to-device =
-    .label = 탭 { $tabCount }개를 기기로 보내기
-    .accesskey = n
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

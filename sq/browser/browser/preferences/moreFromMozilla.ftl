@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Më tepër nga { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Më tepër nga { -vendor-short-name }
 more-from-moz-subtitle = Shihni produkte të tjera { -vendor-short-name } që punojnë për të përkrahur një internet të shëndetshëm.
@@ -32,13 +31,11 @@ more-from-moz-firefox-relay-button = Merrni { -relay-brand-short-name }-n
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Rifitoni automatikisht hollësi personale të ekspozuara.
 more-from-moz-mozilla-monitor-global-description = Merrni sinjalizime, kur të dhënat tuaja janë bërë pjesë e një cenimi.
 more-from-moz-mozilla-monitor-button = Merrni { -monitor-brand-short-name }-in
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = IA { -solo-ai-brand-name }
 more-from-moz-solo-description = Krijoni menjëherë sajtin tuaj dhe lidhni përkatësinë tuaj vetjake, falas
 more-from-moz-solo-button = Provoni { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = Krijues IA Sajtesh { -solo-ai-brand-name }

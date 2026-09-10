@@ -36,7 +36,3 @@ unified-extensions-context-menu-move-widget-up =
     .label = ඉහළට ගෙනයන්න
 unified-extensions-context-menu-move-widget-down =
     .label = පහළට ගෙනයන්න
-
-## Notifications
-
-unified-extensions-mb-quarantined-domain-title = ඇතැම් දිගු සඳහා ඉඩ නොදේ

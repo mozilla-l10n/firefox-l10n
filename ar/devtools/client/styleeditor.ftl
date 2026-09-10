@@ -18,8 +18,6 @@ styleeditor-save-button = احفظ
     .accesskey = ح
 styleeditor-options-button =
     .tooltiptext = خيارات محرر الأنماط
-styleeditor-editor-textbox =
-    .data-placeholder = اكتب CSS هنا.
 styleeditor-no-stylesheet = ليس لهذه الصفحة أي طُرز.
 styleeditor-no-stylesheet-tip = أترغب في <a data-l10n-name="append-new-stylesheet">إلحاق صفحة طُرز</a>بها؟
 styleeditor-open-link-new-tab =

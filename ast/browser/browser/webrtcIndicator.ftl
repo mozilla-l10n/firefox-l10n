@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } — Indicador de compartición
-webrtc-indicator-window =
-    .title = { -brand-short-name } — Indicador de compartición
 
 ## Used as list items in sharing menu
 
@@ -52,23 +50,6 @@ webrtc-microphone-system-menu =
 webrtc-screen-system-menu =
     .label = Tas compartiendo una ventana o pantalla. Calca pa controlar qué compartir.
 
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Tas compartiendo la cámara y el micrófonu. Calca pa controlar qué compartir.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Tas compartiendo la cámara. Calca pa controlar qué compartir.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Tas compartiendo'l micrófonu. Calca pa controlar qué compartir.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Tas compartiendo una aplicación. Calca pa controlar qué compartir.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Tas compartiendo la pantalla. Calca pa controlar qué compartir.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Tas compartiendo una ventana. Calca pa controlar qué compartir.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Tas compartiendo una llingüeta. Calca pa controlar qué compartir.
-
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
@@ -83,7 +64,6 @@ webrtc-allow-share-screen-and-audio-capture = ¿Permitir a { $origin } que sient
 
 ##
 
-webrtc-share-screen-learn-more = Lleer más
 webrtc-pick-window-or-screen = Esbilla una ventana o pantalla
 webrtc-share-entire-screen = Tola pantalla
 webrtc-share-pipe-wire-portal = Usar los axustes del sistema operativu

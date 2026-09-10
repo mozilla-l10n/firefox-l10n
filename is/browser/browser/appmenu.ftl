@@ -33,8 +33,6 @@ appmenuitem-extensions-and-themes =
     .label = Forritsaukar og þemu
 appmenuitem-extensions =
     .label = Forritsaukar
-appmenuitem-addons-and-themes =
-    .label = Viðbætur og þemu
 appmenuitem-print =
     .label = Prenta…
 appmenuitem-find-in-page =
@@ -103,7 +101,6 @@ appmenu-remote-tabs-unverified = Nauðsynlegt er að staðfesta reikning.
 appmenuitem-fxa-toolbar-sync-now2 = Samstilla núna
 appmenuitem-fxa-sign-in = Skrá inn í { -brand-product-name }
 appmenuitem-fxa-manage-account = Sýsla með reikning
-appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-account-header = Reikningur
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -119,15 +116,6 @@ appmenuitem-save-page =
     .label = Vista síðu sem…
 appmenuitem-fxa-sync-off-title = Slökkt er á samstillingu
 appmenuitem-fxa-sync-off-description = Verndaðu og nálgastu bókamerkin þín, lykilorð og fleira hvar sem er.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Hvað er nýtt
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Láta vita um nýja eiginleika
-    .accesskey = L
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -233,8 +221,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Frekari upplýsingar um úrræðaleit
     .accesskey = k
-appmenu-help-report-site-issue =
-    .label = Tilkynna vandamál á vefsvæði…
 appmenu-help-share-ideas =
     .label = Deildu hugmyndum og athugasemdum...
     .accesskey = D
@@ -282,9 +268,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Hyldu raunverulegt tölvupóstfang og símanúmerið þitt
 appmenuitem-services-relay-description = Ræsa stjórnborðið fyrir tölvupósthulur
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description = Verndaðu friðhelgi þína á netinu
 appmenu-services-header = Þjónusturnar mínar
-appmenu-other-protection-header = Prófa önnur verndunarverkfæri frá { -vendor-short-name }:
 
 ## Profiles panel
 

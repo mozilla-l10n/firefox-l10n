@@ -2,113 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } گشتن سیخومی
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } گشتن سیخومی
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — گشتن سیخومی
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — گشتن سیخومی
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } گشتن سیخومی
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
 browser-shortcut-description = گشتن وب زل وو سیخومی
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } گشتن سیخومی
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } گشتن سیخومی
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } گشتن سیخومی
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } گشتن سیخومی
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } — گشتن سیخومی
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — گشتن سیخومی
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — گشتن سیخومی
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } گشتن سیخومی
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -167,8 +65,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = گۊشیڌن تابلو زفت کردن آفلاین
 urlbar-password-notification-anchor =
     .tooltiptext = گۊشیڌن تابلو پیوما زفت رزم
-urlbar-plugins-notification-anchor =
-    .tooltiptext = دؽوۉداری و کار گرؽڌن وردنی
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = دؽوۉداری یو ک شؽواتگر وو/یا میکروفووݩ خوته وا ای وبگه یک رسۊوی اکۊنی یا ن
 # "Speakers" is used in a general sense that might include headphones or
@@ -181,15 +77,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = زفت کردن داده یل و جۊر زفت کردن دایومی
 urlbar-addons-notification-anchor =
     .tooltiptext = گۊشیڌن تابلو پیوما پۊرنیڌن وردنی یل
-urlbar-tip-help-icon =
-    .title = گرؽڌن هیاری
 urlbar-search-tips-confirm = خا، فئمیم
 urlbar-search-tips-confirm-short = فئمیم
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = نوکات:
 urlbar-result-menu-button =
     .title = گۊشیڌن نومگه
 urlbar-result-menu-button-feedback = منشڌ
@@ -234,9 +123,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = رڌ ای پؽشنهاڌ
     .accesskey = D
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = زبار { -firefox-suggest-brand-name } قلوه دووسته بۊین
-    .accesskey = L
 urlbar-result-menu-manage-firefox-suggest =
     .label = دؽوۉداری { -firefox-suggest-brand-name }
     .accesskey = M
@@ -268,8 +154,6 @@ urlbar-dismissal-acknowledgment-weather = ز منشڌ داڌن ایسا ممنو
 
 urlbar-search-tips-onboard = کمتر تایپ کۊنین، قلوه بجۊرین: تینا وا نوار نشۊوی با { $engineName } بپیتینین.
 urlbar-search-tips-redirect-2 = پیتینیڌن خوتووه من نوار نشۊوی تایپ کۊنین تا پؽشنهاڌایی ز { $engineName } وو ویرگار گشتن خوتووݩ بنیرین.
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = پیتینیڌن ساڌه تر وابیڌه. قپ ریت کۊنین پیتینیڌن خوتووݩ ن من ایچو من نوار نشۊوی دیاری تر کۊنین. سی نشووݩ داڌن نشۊوی وبگه و جا هو، و «پیتینیڌن» من سامووا ریوین.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = ای ره نهنگ ن سی جوستن زیتر اۊ چیه ک اخۊین، پسند کۊنین.
@@ -303,8 +187,6 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = ایسا ای وبگه ن سی زفت کردن دووسمندیا مسدۊد کردینه.
 urlbar-popup-blocked2 =
     .tooltiptext = ایسا نیمدری یل گۊشیڌنی وو آلشت تورا شخس سالس ن سی ای وبگه مسدۊد کردینه.
-urlbar-popup-blocked =
-    .tooltiptext = ایسا نیمدری یل گۊشیڌنی ن سی ای وبگه مسدۊد کردینه.
 urlbar-autoplay-media-blocked =
     .tooltiptext = ایسا پشک خوتکار وارسگر آرنگ ن سی ای وبگه مسدۊد کردینه.
 urlbar-canvas-blocked =
@@ -415,24 +297,18 @@ quickactions-cmd-addons3 = وردنی یل، زمینه یل، addons، add-ons
 # Opens preferences page at AI controls
 quickactions-manageai = دؽوۉداری کونتورولا هۊش مسنۊعی
 quickactions-cmd-manageai = قیر فعال کردن هۊش مسنۊعی، کۊر کردن هۊش مسنۊعی، دؽوۉداری هۊش مسنۊعی
-quickactions-cmd-addons2 = وردنی یل
 # Opens the bookmarks library window
 quickactions-bookmarks2 = دؽوۉداری نشووکا
 quickactions-cmd-bookmarks = نشووکا
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = روفتن ویرگار دیندایی
 quickactions-cmd-clearrecenthistory2 = کۊکیا، پاک کردن کۊکیا، ویرگه کش، پاک کردن ویرگه کش، داده یل گشتن، پاک کردن داده یل گشتن، ویرگار، پاک کردن ویرگار هیم دمۊوی
-quickactions-cmd-clearrecenthistory = روفتن ویرگار دیندایی، ویرگار
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = روفتن ویرگار
-quickactions-cmd-clearhistory = روفتن ویرگار
 # Opens about:downloads page
 quickactions-downloads2 = نیشتن دانلودا
 quickactions-cmd-downloads = دانلودا
 # Opens about:addons page in the extensions section
 quickactions-extensions = دؽوۉداری وردنی یل
 quickactions-cmd-extensions2 = وردنی یل، addons، add-ons
-quickactions-cmd-extensions = وردنی یل
 # Opens Firefox View
 quickactions-firefoxview = گۊشیڌن { -firefoxview-brand-name }
 # English is using "view" and "open view", since the feature name is
@@ -451,7 +327,6 @@ quickactions-cmd-colorpicker = پسند کون رنگ، قتره چکووݩ، پ
 # Opens Firefox Library
 quickactions-cmd-library = کتاو هووه
 quickactions-library = گۊشیڌن کتاو هووه
-quickactions-cmd-inspector = واجۊری، ٱوزارا برنومه نویسی
 # Opens about:logins
 quickactions-logins2 = دؽوۉداری رزما
 quickactions-cmd-logins = و من ٱووڌنا، رزما
@@ -461,9 +336,6 @@ quickactions-mute = بؽ دونگ کردن بلگه یلی ک آرنگ پشک ا
 # Replace with idiomatic expressions in your language to silence something or
 # someone.
 quickactions-cmd-mute = بؽ دونگ، بؽ سر سوڌا، هیس
-# Opens about:addons page in the plugins section
-quickactions-plugins = دؽوۉداری وردنی یل
-quickactions-cmd-plugins = وردنی یل
 # Opens the print dialog
 quickactions-print2 = چاپ بلگه
 quickactions-cmd-print = چاپ
@@ -488,19 +360,16 @@ quickactions-cmd-screenshot2 = شؽوات ز بلگه، گرؽڌن شؽوات ز
 # Opens about:translations
 quickactions-translate = ولرنیڌن
 quickactions-cmd-translate = ولرنیڌن
-quickactions-cmd-screenshot = شؽوات ز بلگه
 # Opens about:preferences
 quickactions-settings2 = دؽوۉداری سامووا
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = سامووا، ترجیهات، گۊزینه یل، دؽوۉداری کردن
-quickactions-cmd-settings = سامووا، ترجیهات، گۊزینه یل
 # Opens about:addons page in the themes section
 quickactions-themes = دؽوۉداری زمینه یل
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-themes2 = زمینه یل، وردنی یل، وردنی یل
-quickactions-cmd-themes = زمینه یل
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = ورۊ رسۊوی { -brand-short-name }
 quickactions-cmd-update = ورۊ رسۊوی
@@ -510,7 +379,6 @@ quickactions-cmd-viewsource2 = نیشتن بونچک، بونچک، بونچک �
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = گۊشیڌن { -firefoxlabs-brand-name }
 quickactions-cmd-labs = آزمایشگایل، آزمایش
-quickactions-cmd-viewsource = نیشتن بونچک، بونچک
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = زبار کارا زل قلوه دووسته بۊین
@@ -568,9 +436,7 @@ identity-custom-root = گوواهیِ ای منپیز، و دست سادرکون
 identity-passive-loaded = بشنایی ز ای بلگه ٱمن نؽ (جۊر شؽوات).
 identity-active-loaded = ایسا زفت وابیڌن ن من ای بلگه قیر فعال کردینه.
 identity-weak-encryption = ای بلگه رزم ناهاڌن زعیفی ن و کار گرؽڌه.
-identity-insecure-login-forms = دووسمندیا وورۊدی ک من ای بلگه ازنین ترن فاش بۊن.
 identity-https-only-connection-upgraded = (وا روء رئڌه و HTTPS)
-identity-https-only-label = هالت تینا-Https
 identity-https-only-label2 = و هالت خوتکار ای وبگه ن و ی منپیز ٱمن وا روء بوورین
 identity-https-only-dropdown-on =
     .label = رۊشن
@@ -578,8 +444,6 @@ identity-https-only-dropdown-off =
     .label = کۊر
 identity-https-only-dropdown-off-temporarily =
     .label = کۊر وابیڌن مووقت
-identity-https-only-info-turn-on2 = ٱر اخۊین وو امکووݩ داشته بۊ ک { -brand-short-name } منپیز ن بؽڌر کونه، هالت تینا HTTPS ن سی ای وبگه رۊشن کۊنین.
-identity-https-only-info-turn-off2 = ٱر بلگه خراو هڌ، گاشڌ بخۊین هالت تینا HTTPS ن سی ای وبگه کۊر کۊنین تا وبگه من هالت قیر ٱمن HTTP بار ونی بۊ.
 identity-https-only-info-turn-on3 = ٱر اخۊین وو امکووݩ داشته بۊ ک { -brand-short-name } منپیز ن بؽڌر کونه، بؽڌر وابیڌنا HTTPS ن سی ای وبگه رۊشن کۊنین.
 identity-https-only-info-turn-off3 = ٱر بلگه خراو هڌ، گاشڌ بخۊین بؽڌر وابیڌنا HTTPS ن سی ای وبگه کۊر کۊنین تا وبگه من هالت قیر ٱمن HTTP بار ونی بۊ.
 identity-https-only-info-no-upgrade = بؽڌر وابیڌن منپیز ز HTTP مومکن نبی.
@@ -603,7 +467,6 @@ identity-remove-cert-exception =
     .label = پاک کردن استسنا
     .accesskey = R
 identity-description-insecure = منپیز ایسا وا ای وبگه سیخومی نؽ. دووسمندیایی ک ایسا سبت اکۊنین گاشڌ و دست دیرووݩ دیڌه بۊوه (جۊر رزما، پیوما، کارتا بانکی وو قیره).
-identity-description-insecure-login-forms = دووسمندیا و من ٱووڌن ایسا ک من ای بلگه ازنین ٱمن نؽڌن وو گاشڌ من ختر بۊون.
 identity-description-weak-cipher-intro = منپیز ایسا وا ای وبگه، رزم ناهاڌن زعیفی ن و کار ابره وو سیخومی نؽ.
 identity-description-weak-cipher-risk = آڌۊمیل دیری ترن دووسمندیا ایسا ن بوینن یا رفتار وبگه ن آلشت بڌن.
 identity-description-active-blocked2 = { -brand-short-name } بشنایی ز ای بلگه ک ٱمن نؽڌن ن، مسدۊد کرده.
@@ -612,12 +475,6 @@ identity-description-passive-loaded-insecure2 = ای وبگه موئتوایی �
 identity-description-passive-loaded-mixed2 = وا یو ک { -brand-short-name } ی قرده ز موئتوا ن مسدۊد کرده، هنی موئتوایی من ای وبگه هڌه ک ٱمن نؽڌن (جۊر شؽوات).
 identity-description-active-loaded = ای وبگه موئتوایی داره ک ٱمن نؽڌن (جۊر کود نوشته یل) وو منپیز ایسا و هو سیخومی نؽ.
 identity-description-active-loaded-insecure = دووسمندیایی ک وا ای وبگه یک رسۊوی اکۊنین گاشڌ و دست دیرووݩ دیڌه بۊوه (جۊر رزما، پیوما، کارتا ائتواری وو قیره).
-identity-disable-mixed-content-blocking =
-    .label = سکو زفت وابیڌن قیر فعال بۊ
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = فعال کردن زفت وابیڌن
-    .accesskey = E
 identity-more-info-link-text =
     .label = دووسمندیا قلوه
 
@@ -634,40 +491,6 @@ browser-window-close-button =
 # Clicking this button closes the window and returns to the tab where it was opened from
 browser-window-return-to-opener =
     .tooltiptext = وورگشتن
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = هونی پشک ابۊ
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = بؽ دونگ
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = پشک خوتکار مسدۊد وابی
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = شؽوات من شؽوات
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] بؽ دونگ کردن بلگه
-        [one] بؽ دونگ کردن { $count } بلگه
-       *[other] بؽ دونگ کردن { $count } بلگه
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] وا دونگ کردن بلگه
-        [one] وا دونگ کردن { $count } بلگه
-       *[other] وا دونگ کردن { $count } بلگه
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] پشک بلگه
-        [one] پشک { $count } بلگه
-       *[other] پشک { $count } بلگه
-    }
 
 ## Bookmarks toolbar items
 
@@ -708,10 +531,6 @@ sharing-warning-disable-for-session =
 
 webserial-select-port-label = پسند پورت سریال:
 webserial-no-ports-available = پورت سریال مووجۊد نؽ
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = سی و کار گرؽڌن ره نهنگ F12، ٱول ٱوزارا برنومه نویسووݩ ن وا نومگه ٱوزار گشت گر بۊگۊشین.
 
 ## URL Bar
 
@@ -776,8 +595,6 @@ urlbar-extension =
     .value = وردنی:
 urlbar-go-button2 =
     .title = رئڌن و نشۊوی مۉجۊد من نوار جاگه
-urlbar-go-button =
-    .tooltiptext = رئڌن و نشۊوی مۉجۊد من نوار جاگه
 urlbar-page-action-button =
     .tooltiptext = کارا بلگه
 urlbar-revert-button =
@@ -833,11 +650,6 @@ urlbar-result-action-tabtosearch-web = وا { $engine } موستقیم ز نوا
 urlbar-result-action-tabtosearch-other-engine = وا { $engine } موستقیم ز نوار نشۊوی بپیتین
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = لف گیری
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = تعریف نوابیڌه
 # The sub title of an add-on suggestion in the urlbar.
@@ -848,23 +660,6 @@ urlbar-result-mdn-subtitle = { -mdn-brand-name }
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
 urlbar-result-suggestion-recommended = پؽشنهاڌ وابیڌه
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
-# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
-# The last = sign will be shown as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
-# Shows the result of a formula expression being calculated, to a maximum of 9 significant
-# digits. This is used for numbers < 1.
-# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 # The title of a weather suggestion in the urlbar. The temperature and unit
 # substring should be inside a <strong> tag. If the temperature and unit are not
 # adjacent in the localization, it's OK to include only the temperature in the
@@ -999,32 +794,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - پیتینیڌن {
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - پیتینیڌن وا { $engine }
-urlbar-searchmode-dropmarker =
-    .tooltiptext = پسند ی موتور پیتینیڌن
-urlbar-searchmode-bookmarks =
-    .label = نشووکا
-urlbar-searchmode-tabs =
-    .label = بلگه یل
-urlbar-searchmode-history =
-    .label = ویرگار
-urlbar-searchmode-actions =
-    .label = کارا
-urlbar-searchmode-exit-button =
-    .tooltiptext = بستن
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = ای کرت پیتینیڌن وا:
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = پیتینیڌن سامووا
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button2 =
-    .label = { $engine }، پسند ی موتور پیتینیڌن
-    .tooltiptext = { $engine }، پسند ی موتور پیتینیڌن
-urlbar-searchmode-button-no-engine =
-    .label = ره نهنگی پسند نوابیڌه، ی ره نهنگ پسند کۊنین
-    .tooltiptext = ره نهنگی پسند نوابیڌه، ی ره نهنگ پسند کۊنین
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1128,16 +897,10 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = ترند من { $engine }
-# Label shown above sponsored suggestions in the urlbar results.
-urlbar-group-sponsored =
-    .label = هؽزگری وابیڌه
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = پیتینیڌنا ترند ن نشووݩ مڌین
     .accesskey = D
-urlbar-result-menu-trending-why =
-    .label = سیچه مو یونه ابینوم؟
-    .accesskey = W
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = ز منشڌ داڌن ایسا ممنووݩ داریم. دی ای پیتینیڌنا ترند ن نیبینین.
@@ -1219,12 +982,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] بؽڌار کردن نوار ٱوزار نشووکا
            *[other] نشووݩ داڌن نوار ٱوزار نشووکا
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] وورداشتن نومگه نشووکا ز نوار ٱوزار
-           *[other] ٱووردن نومگه نشووکا و نوار ٱوزار
-        }
 
 ##
 
@@ -1255,14 +1012,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = نشووکا
-library-recent-activity-title =
-    .value = فعالیتا دیندایی
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = زفت کردن من { -pocket-brand-name }
-    .tooltiptext = زفت کردن من { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
@@ -1347,8 +1096,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = نوم منتوری
-panel-save-update-password = رزم
 panel-save-update-username-2 =
     .label = نوم منتوری
 panel-save-update-password-2 =
@@ -1370,30 +1117,11 @@ menu-share-copy-links =
            *[other] لف گیری { $count } لینگ
         }
     .accesskey = L
-menu-share-copy-link =
-    .label = لف گیری لینگ
-    .accesskey = L
 ui-tour-info-panel-close =
     .tooltiptext = بستن
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = هشتن نیمدری یل گۊشیڌنی سی ‎‪{ $uriHost }‬
-    .accesskey = p
-popups-infobar-block =
-    .label = مسدۊد کردن نیمدری یل گۊشیڌنی سی ‎‪{ $uriHost }‬
-    .accesskey = p
-
 ##
 
-popups-infobar-dont-show-message =
-    .label = ای پیوم ن هر سا ک نیمدریا گۊشیڌنی مسدۊد ابۊن نشووݩ مڌه
-    .accesskey = D
-edit-popup-settings =
-    .label = دؽوۉداری سامووا نیمدری یل گۊشیڌنی…
-    .accesskey = M
 picture-in-picture-hide-toggle =
     .label = بؽڌار کردن شؽوات-من-شؽوات
     .accesskey = H
@@ -1419,8 +1147,6 @@ navbar-downloads =
     .label = دانلودا
 navbar-overflow-2 =
     .tooltiptext = ٱوزارا قلوه
-navbar-overflow =
-    .tooltiptext = ٱوزارا قلوه…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1516,12 +1242,7 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = دیندا نشست سیخومی
-    .tooltiptext = دیندا نشست سیخومی
 reset-pbm-panel-heading2 = اخۊین داده یل ن برۊفنین وو بنین پا ی نشست سیخومی نۊ؟
-reset-pbm-panel-heading = اخۊین نشست سیخومی خوتووݩ ن تموم کۊنین؟
-reset-pbm-panel-description = پوی بلگه یل سیخومی بسته وابیڌه وو ویرگار وو کۊکیا وو داده پوی وبگه یل دی پاک ابۊن.
 reset-pbm-panel-always-ask-checkbox =
     .label = هی ز مو پۊرسیڌه بۊ
     .accesskey = A
@@ -1531,9 +1252,6 @@ reset-pbm-panel-cancel-button =
 reset-pbm-panel-confirm-button2 =
     .label = روفتن نشست سیخومی
     .accesskey = l
-reset-pbm-panel-confirm-button =
-    .label = داده یل نشست ن پاک کۊنین
-    .accesskey = D
 reset-pbm-panel-complete = داده یل نشست سیخومی پاک وابین
 reset-pbm-toolbar-button2 =
     .label = روفتن نشست سیخومی

@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = ดำเนินการติดตั้งต่อไป
     .accesskey = ด
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = ไซต์นี้กำลังขอเข้าถึงอุปกรณ์ MIDI (Musical Instrument Digital Interface) ของคุณ ซึ่งสามารถเปิดการเข้าถึงอุปกรณ์ได้ด้วยการติดตั้งส่วนเสริม
 site-permission-install-first-prompt-midi-message = ไม่รับประกันว่าการเข้าถึงนี้จะปลอดภัย ให้ดำเนินการต่อถ้าคุณไว้ใจไซต์นี้เท่านั้น
 site-permission-install-first-prompt-serial-header = ไซต์นี้กำลังขอเข้าถึงอุปกรณ์ซีเรียลของคุณ ซึ่งสามารถเปิดใช้งานการเข้าถึงอุปกรณ์ได้โดยการติดตั้งส่วนเสริม
 site-permission-install-first-prompt-serial-message = ไม่รับประกันว่าการเข้าถึงนี้จะปลอดภัย ให้ดำเนินการต่อหากคุณไว้ใจไซต์นี้เท่านั้น
-
-##
-
-xpinstall-disabled-locked = การติดตั้งซอฟต์แวร์ถูกปิดใช้งานโดยผู้ดูแลระบบของคุณ
 xpinstall-disabled-by-policy = การติดตั้งซอฟต์แวร์ถูกปิดใช้งานโดยองค์กรของคุณ
 xpinstall-disabled = การติดตั้งซอฟต์แวร์ถูกปิดใช้งานอยู่ในขณะนี้ คลิก เปิดใช้งาน แล้วลองอีกครั้ง
 xpinstall-disabled-button =
     .label = เปิดใช้งาน
     .accesskey = ป
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ถูกปิดกั้นโดยผู้ดูแลระบบของคุณ
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = ผู้ดูแลระบบของคุณได้ป้องกันไม่ให้ไซต์นี้ขอคุณเพื่อติดตั้งซอฟต์แวร์ลงในคอมพิวเตอร์ของคุณ
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = เสร็จสิ้นการติดตั้�
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = ต้องการเอา { $name } ออกหรือไม่?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = เอา { $name } ออกจาก { -brand-shorter-name }?
 addon-removal-button = เอาออก
 addon-removal-abuse-report-checkbox = รายงานส่วนขยายนี้ไปยัง { -vendor-short-name }
 # "it" refers to the local AI model that is paired to the AI feature
@@ -127,7 +110,5 @@ addon-local-install-no-addon-name-error-file-access = ไม่สามาร�
 addon-install-error-incompatible = ไม่สามารถติดตั้ง { $addonName } เนื่องจากใช้ร่วมกับ { -brand-short-name } { $appVersion } ไม่ได้
 addon-install-error-hard-blocked = { $addonName } ละเมิดนโยบายของ Mozilla และไม่สามารถติดตั้งบน { -brand-short-name } ได้
 addon-install-error-soft-blocked2 = { $addonName } ถูกจำกัดและไม่สามารถติดตั้งบน { -brand-short-name } ได้
-addon-install-error-blocklisted = ไม่สามารถติดตั้ง { $addonName } เนื่องจากมีความเสี่ยงสูงที่จะก่อให้เกิดปัญหาด้านเสถียรภาพหรือความปลอดภัย
-addon-install-error-soft-blocked = { $addonName } ละเมิดนโยบายของ Mozilla และไม่สามารถติดตั้งบน { -brand-short-name } ได้
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = คุณไม่สามารถติดตั้ง { $addonName } ในฐานะผู้ใช้ปลายทางได้ แต่สามารถติดตั้งได้โดยองค์กรที่ใช้นโยบายองค์กรเท่านั้น

@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>מנוע החיפוש ברירת המחדל שלך השתנה.</strong> { $oldEngine } אינו זמין יותר כמנוע חיפוש ברירת מחדל ב־{ -brand-short-name }. ‏{ $newEngine } הוא כעת מנוע החיפוש ברירת המחדל שלך. על מנת לשנות אותו למנוע חיפוש ברירת מחדל אחר, יש לעבור להגדרות. <label data-l10n-name="remove-search-engine-article">מידע נוסף</label>
 removed-search-engine-message2 = <strong>מנוע החיפוש ברירת המחדל שלך השתנה.</strong> { $oldEngine } אינו זמין יותר כמנוע חיפוש ברירת מחדל ב־{ -brand-short-name }. ‏{ $newEngine } הוא כעת מנוע החיפוש ברירת המחדל שלך. על מנת לשנות אותו למנוע חיפוש ברירת מחדל אחר, יש לעבור להגדרות.
 remove-search-engine-button = אישור
 
@@ -52,11 +51,11 @@ install-search-engine-no = לא
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = הוספת מנוע חיפוש
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = עריכת מנוע חיפוש
     .style = min-width: 32em;
+    .title = עריכת מנוע חיפוש
 add-engine-button = הוספת מנוע מותאם אישית
 add-engine-name = שם מנוע החיפוש
 add-engine-url2 = כתובת עם ‎%s במקום מונח החיפוש
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = כדאי לנסות לכלול ‎%s במק
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = הוספת מנוע
-    .buttonaccesskeyaccept = ה
     .buttonlabelextra1 = מתקדם
+    .buttonaccesskeyaccept = ה
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = שמירת מנוע
-    .buttonaccesskeyaccept = ש
     .buttonlabelextra1 = מתקדם
+    .buttonaccesskeyaccept = ש

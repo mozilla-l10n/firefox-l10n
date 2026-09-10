@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Näytä Finderissa
            *[other] Näytä kansiossa
         }
-downloads-cmd-show-downloads =
-    .label = Näytä latauskansio
 downloads-cmd-retry =
     .tooltiptext = Yritä uudestaan
 downloads-cmd-retry-panel =

@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = 该证书因为其颁发者证书不受信�
 cert-error-trust-signature-algorithm-disabled = 该证书不被信任，因为证书签名所使用的签名算法因不安全已被禁用。
 cert-error-trust-expired-issuer = 该证书因为其颁发者证书已过期而不被信任。
 cert-error-trust-self-signed = 该证书因为其自签名而不被信任。
-cert-error-trust-symantec = 由 GeoTrust、RapidSSL、Symantec、Thawte 以及 VeriSign 颁发的证书已不再被视为安全，因为这些证书颁发机构在过去未能严格遵循安全准则。
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } 无法信任 { $hostname }，因其无法证明自己符合公开证书透明度要求。
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = 错误代码：<a data-l10n-name="error-code-link"
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = 连接到 { $hostname } 时发生错误。{ $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = 各个网站通过证书证明自己的身份，而证书由证书颁发机构颁发。大多数浏览器已不再信任由 GeoTrust、RapidSSL、Symantec、Thawte 以及 VeriSign 颁发的证书。{ $hostname } 使用了由上述机构之一颁发的证书，因而网站身份无法证实。
-cert-error-symantec-distrust-admin = 您可以向网站管理员反馈此问题。
 cert-error-old-tls-version = 此网站可能不支持 TLS 1.2 协议，而这是 { -brand-short-name } 支持的最低版本。
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = HTTP 严格传输安全（HSTS）：{ $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP 公钥固定：{ $hasHPKP }
 cert-error-details-cert-chain-label = 证书链：
-open-in-new-window-for-csp-or-xfo-error = 在新窗口中打开网站
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = 为了保护您的安全，{ $hostname } 将不允许 { -brand-short-name } 显示嵌入了其他网站的页面。要查看此页面，请在新窗口中打开。
 fp-certerror-view-certificate-link = 查看网站证书
 fp-certerror-return-to-previous-page-recommended-button-2 = 返回（推荐）
     .accesskey = G
-fp-certerror-return-to-previous-page-recommended-button = 返回上一页（推荐）
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -106,21 +99,21 @@ fp-certerror-self-signed-important-note = 【重要提示】如果您正尝试�
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = 各个网站通过证书颁发机构颁发的证书证明自己声称的身份。{ -brand-short-name } 不能信任此网站，因为其证书似乎已于 { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") } 过期。
+fp-certerror-expired-why-dangerous-body = 各个网站通过证书颁发机构颁发的证书证明自己声称的身份。{ -brand-short-name } 不能信任此网站，因为其证书似乎已于 { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } 过期。
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = 各个网站通过证书颁发机构颁发的证书证明自己声称的身份。{ -brand-short-name } 不能信任此网站，因为其证书需到 { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") } 才开始生效。
+fp-certerror-not-yet-valid-why-dangerous-body = 各个网站通过证书颁发机构颁发的证书证明自己声称的身份。{ -brand-short-name } 不能信任此网站，因为其证书需到 { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } 才开始生效。
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = 您的设备时间为 { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }。若无误，则这可能是网站自身的安全问题。若有误，可在设备的系统设置中更改。
+fp-certerror-expired-what-can-you-do-body = 您的设备时间为 { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }。若无误，则这可能是网站自身的安全问题。若有误，可在设备的系统设置中更改。
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = 错误代码：{ $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -133,11 +126,11 @@ fp-learn-more-about-time-related-errors = 详细了解时间相关错误的解�
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } 不信任此网站，因为其提供的证书需到 { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } { DATETIME($date, timeStyle: "short") } 才开始生效。
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } 不信任此网站，因为其提供的证书需到 { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } { DATETIME($date, timeStyle: "short") } 才开始生效。
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = 您的设备时间为 { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }。若无误，则这可能是网站自身的安全问题。若有误，可在设备的系统设置中更改。
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = 您的设备时间为 { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }。若无误，则这可能是网站自身的安全问题。若有误，可在设备的系统设置中更改。
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -179,8 +172,6 @@ deniedPortAccess-title = 此网址已被限制
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = 呃…找不到此网站。
 internet-connection-offline-title = 您的网络连接似乎出了点问题。
-dns-not-found-trr-only-title2 = 查询此域名可能存在安全风险
-dns-not-found-native-fallback-title2 = 查询此域名可能存在安全风险
 fileNotFound-title = 找不到文件
 fileAccessDenied-title = 对该文件的访问请求被拒绝
 generic-title = 哎呀。
@@ -205,7 +196,6 @@ unknownSocketType-title = 服务器响应异常
 nssFailure2-title = 建立安全连接失败
 csp-xfo-error-title = { -brand-short-name } 无法打开此页面
 corruptedContentErrorv2-title = 内容损坏错误
-corruptedContentError-title = 内容损坏错误
 sslv3Used-title = 无法安全地连接
 inadequateSecurityError-title = 您的连接不安全
 blockedByPolicy-title = 页面已封锁
@@ -228,7 +218,6 @@ fp-certerror-hide-advanced-button = 隐藏高级选项
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = 继续前往 { $hostname }（有风险）
 fp-certerror-intro = { -brand-short-name } 发现 <strong>{ $hostname }</strong> 存在严重的安全隐患。若有人冒充此网站，其可试图窃取您的信用卡信息、密码、邮箱地址等信息。
 fp-certerror-expired-into = { -brand-short-name } 发现 <strong>{ $hostname }</strong> 存在安全问题。此网站可能未正确设置，或者您设备的日期/时间有误。
 fp-certerror-transparency-intro = 若有人冒充 <strong>{ $hostname }</strong>，其可试图窃取您的信用卡信息、密码、邮箱地址等信息。

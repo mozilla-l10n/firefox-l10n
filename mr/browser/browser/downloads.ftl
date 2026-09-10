@@ -26,8 +26,6 @@ downloads-cmd-cancel-panel =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = डाउनलोड फोल्डर दर्शवा
 downloads-cmd-retry =
     .tooltiptext = पुनःप्रयत्न करा
 downloads-cmd-retry-panel =

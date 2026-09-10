@@ -6,13 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Nowo karta
-newtab-settings-button =
-    .title = Napasuj strōna nowyj karty
-newtab-personalize-icon-label =
-    .aria-label = Napasuj nowo karta
-    .title = Napasuj nowo karta
-newtab-personalize-dialog-label =
-    .aria-label = Napasuj
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -86,7 +79,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Przidej wyszukowarka
 newtab-topsites-add-shortcut-header = Nowy skrōt
-newtab-topsites-edit-topsites-header = Edytuj topowo strōna
 newtab-topsites-edit-shortcut-header = Edytuj skrōt
 newtab-topsites-title-label = Tytuł
 newtab-topsites-title-input =
@@ -124,20 +116,12 @@ newtab-topsite-sponsored = Spōnsorowane
 newtab-menu-section-tooltip =
     .aria-label = Ôdewrzij myni
     .title = Ôdewrzij myni
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Skasuj
-    .title = Skasuj
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Ôdewrzij kōntekstowe myni do { $title }
     .title = Ôdewrzij myni
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Edytuj ta strōna
-    .title = Edytuj ta strōna
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -148,18 +132,7 @@ newtab-menu-dismiss = Ôdkoż
 newtab-menu-pin = Przipnij
 newtab-menu-unpin = Ôdepnij
 newtab-menu-delete-history = Skasuj z historyje
-newtab-menu-save-to-pocket = Spamiyntej do { -pocket-brand-name(case: "gen") }
-newtab-menu-delete-pocket = Skasuj ze { -pocket-brand-name(case: "gen") }
-newtab-menu-archive-pocket = Archiwizuj we { -pocket-brand-name(case: "loc") }
 newtab-menu-show-privacy-info = Nasze spōnsory a twoja prywatność
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Fertich
-newtab-privacy-modal-button-manage = Regiyruj sztalōnkami spōnsorowanyj zawartości
-newtab-privacy-modal-header = Twoja prywatność je ważno.
-newtab-privacy-modal-paragraph-2 = Krōm ciekawych ôzprowek pokazujymy ci tyż napasowane, sprawdzōne treści ôd ôbranych spōnsorōw. Możesz wierzić, iże <strong>dane twojigo przeglōndanio nigdy niy ôpuszczajōm twojij włosnyj kopije aplikacyje { -brand-product-name }</strong> — ani my, ani nasze spōnsory ich niy widzōm.
-newtab-privacy-modal-link = Przewiydz sie wiyncyj ô prywatności na strōnie nowyj karty
 
 ##
 
@@ -213,39 +186,16 @@ newtab-label-source-read-time = { $source } · { $timeToRead } min
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Wyciep sekcyjo
-newtab-section-menu-collapse-section = Swijej sekcyjo
-newtab-section-menu-expand-section = Rozszyrzej sekcyjo
-newtab-section-menu-manage-section = Regiyruj sekcyjōm
-newtab-section-menu-manage-webext = Regiyruj rozszyrzyniym
-newtab-section-menu-add-topsite = Przidej do topowych strōn
-newtab-section-menu-add-search-engine = Przidej wyszukowarka
-newtab-section-menu-move-up = Posuń na wiyrch
-newtab-section-menu-move-down = Posuń na spodek
 newtab-section-menu-privacy-notice = Ô prywatności
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Swijej sekcyjo
-newtab-section-expand-section-label =
-    .aria-label = Rozszyrzej sekcyjo
 
 ## Section Headers.
 
 newtab-section-header-topsites = Topowe strōny
 newtab-section-header-recent-activity = Niydowno aktywność
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Rekōmyndowane ôd { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Zacznij przeglōndać internet, a my pokożymy ci sam szumne artikle, filmy a inksze strōny niydowno nawiedzōne abo przidane do zokłodek.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = To tela. Wejrzij sam niyskorzij za nowymi artiklami ôd { $provider }. Niy umisz sie doczkać? Ôbier popularny tymat, coby znojś inkszo ciekawo zawartość z cołkigo neca.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -256,17 +206,6 @@ newtab-discovery-empty-section-topstories-loading = Ladowanie…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Niy podarziło sie blank zaladować tyj sekcyji.
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Popularne tymaty:
-newtab-pocket-new-topics-title = Chcesz wiyncyj artykułōw? Wejrzij na te popularne tymaty: { -pocket-brand-name }
-newtab-pocket-more-recommendations = Wiyncyj rekōmyndowanych
-newtab-pocket-learn-more = Przewiydz sie wiyncyj
-newtab-pocket-cta-button = Dostōń ze { -pocket-brand-name(case: "gen") }
-newtab-pocket-cta-text = Spamiyntuj we { -pocket-brand-name(case: "loc") } teksty, co ci pasujōm, coby durch mieć co ciekawego do poczytanio.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je tajlōm familije { -brand-product-name }
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -275,8 +214,6 @@ newtab-error-fallback-refresh-link = Ôdświyż strōna, coby sprōbować jeszcz
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Skrōty
-newtab-custom-shortcuts-subtitle = Spamiyntane i nawiydzane strōny
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Spamiyntane i nawiydzane strōny
@@ -293,21 +230,6 @@ newtab-custom-row-selector2 =
             [few] { $num } raje
            *[many] { $num } raji
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } raja
-        [few] { $num } raje
-       *[many] { $num } raji
-    }
-newtab-custom-sponsored-sites = Spōnsorowane skrōty
-newtab-custom-pocket-title = Doradzōne ôd { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Ekstra zawartość ôbrano ôd { -pocket-brand-name }, co je we familiji { -brand-product-name }
-newtab-custom-pocket-sponsored = Spōnsorowane nowiny
-newtab-custom-recent-title = Niydowno aktywność
-newtab-custom-recent-subtitle = Wybōr z niydownych strōn i zawartości
-newtab-custom-close-button = Zawrzij
 newtab-custom-settings = Inksze nasztalowania
 
 ## Strings for the Clock widget

@@ -87,8 +87,6 @@ options-context-advanced-settings = Inpostaçioin avansæ
 options-disable-http-cache-label = Dizabilita a cache HTTP (quande a bara di atressi a l'é averta)
 options-disable-http-cache-tooltip =
     .title = Se ti açendi sta òpçion saiâ dizabilitâ a cahce HTTP pe tutti i feuggi che gh'an a scatoa di atressi averta. I Service Worker no vegnan influensæ da sta òpçion.
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Dizativa JavaScript
 options-disable-javascript-tooltip =
     .title = Ativando sta opçion, JavaScript o saiâ dizativou pe o feuggio corente. Se o feuggio ò i strumenti pe-i svilupatoî vegnan seræ l'inpostaçion saiâ scancelâ.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -105,8 +103,6 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Abilita a mappa di sorgenti
 options-source-maps-tooltip =
     .title = Se ti abiliti sta òpçion i sorgenti saian mapæ inti atressi.
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * solo sescion corente, recarega a pagina
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

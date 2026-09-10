@@ -103,7 +103,6 @@ permissions-exceptions-shutdown-clearing-desc = Podeu especificar quins llocs we
 permissions-exceptions-https-only-window2 =
     .style = { permissions-window2.style }
     .title = Excepcions - Mode només HTTPS
-permissions-exceptions-https-only-desc = Podeu desactivar el mode només HTTPS per a llocs web específics. El { -brand-short-name } no intentarà canviar a una connexió HTTPS segura actualitzar per a aquests llocs. Les excepcions no s'apliquen a les finestres privades.
 permissions-exceptions-https-only-desc2 = Podeu desactivar el mode només HTTPS per a llocs web específics. El { -brand-short-name } no intentarà canviar a una connexió HTTPS segura per a aquests llocs.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
@@ -112,20 +111,6 @@ permissions-exceptions-popup-window3 =
     .style = { permissions-window2.style }
     .title = Llocs web permesos - Finestres emergents i redireccions de tercers
 permissions-exceptions-popup-desc2 = Podeu especificar quins llocs web poden obrir finestres emergents i ser redirigits per marcs de tercers.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .style = { permissions-window2.style }
-    .title = Llocs web permesos - Finestres emergents
-permissions-exceptions-popup-desc = Podeu especificar quins llocs web poden obrir finestres emergents. Escriviu l'adreça exacta del lloc que vulgueu permetre i feu clic a Permet.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .style = { permissions-window2.style }
-    .title = Excepcions - Inicis de sessió desats
-permissions-exceptions-saved-logins-desc = No es desaran les dades d'inici de sessió dels llocs web següents:
 
 ## Exceptions - Saved Passwords
 

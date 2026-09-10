@@ -36,9 +36,6 @@ unified-extensions-item-message-manage = Rheoli estyniadau
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = Mae { $extensionName } wedi'i gyfyngu. Gall fod yn beryglus ei ddefnyddio.
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = Mae { $extensionName } yn groes i bolisïau Mozilla. Gall fod yn beryglus ei ddefnyddio.
 
 ## Extension's context menu
 
@@ -57,8 +54,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Nid oes caniatâd i rai estyniadau
-unified-extensions-mb-quarantined-domain-message = Dim ond rhai estyniadau sy'n cael eu monitro gan { -vendor-short-name } sydd â chaniatâd ar y wefan hon er mwyn diogelu eich data.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Nid oes caniatâd i rai estyniadau
@@ -73,13 +68,6 @@ unified-extensions-mb-blocklist-warning-single2 =
     .message =
         Mae'r estyniad wedi ei gyfyngu ac wedi ei analluogi.
         Gallwch ei alluogi yn y gosodiadau, ond gall bynny fod yn beryglus.
-# Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = Analluogwyd { $extensionName }
-    .message =
-        Mae'r estyniad hwn yn torri polisïau Mozilla ac mae wedi'i analluogi.
-        Gallwch ei alluogi yn y gosodiadau, ond gall hyn fod yn beryglus.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
@@ -100,40 +88,6 @@ unified-extensions-mb-blocklist-warning-multiple2 =
     .message =
         Mae'r estyniad wedi ei gyfyngu ac wedi ei analluogi.
         Gallwch ei alluogi yn y gosodiadau, ond gall bynny fod yn beryglus.
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-            [zero]
-                Analluogwyd estyniad { $extensionsCount } 
-                Mae rhai o'ch estyniadau wedi'u hanalluogi am dorri polisïau Mozilla
-                Gallwch eu galluogi yn y gosodiadau, ond gall hynny fod yn beryglus.
-            [one]
-                Analluogwyd estyniad { $extensionsCount } 
-                Mae un o'ch estyniadau wedi'i analluogi am dorri polisïau Mozilla
-                Gallwch ei alluogi yn y gosodiadau, ond gall hynny fod yn beryglus.
-            [two]
-                Analluogwyd estyniad { $extensionsCount } 
-                Mae rhai o'ch estyniadau wedi'u hanalluogi am dorri polisïau Mozilla
-                Gallwch eu galluogi yn y gosodiadau, ond gall hynny fod yn beryglusf
-            [few]
-                Analluogwyd estyniad { $extensionsCount } 
-                Mae rhai o'ch estyniadau wedi'u hanalluogi am dorri polisïau Mozilla
-                Gallwch eu galluogi yn y gosodiadau, ond gall hynny fod yn beryglus.
-            [many]
-                Analluogwyd estyniad { $extensionsCount } 
-                Mae rhai o'ch estyniadau wedi'u hanalluogi am dorri polisïau Mozilla
-                Gallwch eu galluogi yn y gosodiadau ond gall hynny fod yn beryglus.
-           *[other]
-                Analluogwyd estyniad { $extensionsCount } 
-                Mae rhai o'ch estyniadau wedi'u hanalluogi am dorri polisïau Mozilla
-                Gallwch eu galluogi yn y gosodiadau, ond gall hynny fod yn beryglus.
-        }
-    .message =
-        Analluogwyd estyniad { $extensionsCount } 
-        Mae rhai o'ch estyniadau wedi'u hanalluogi am dorri polisïau Mozilla
-        Gallwch eu galluogi yn y gosodiadau, ond gall hynny fod yn beryglus.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =

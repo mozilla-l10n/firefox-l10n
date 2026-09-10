@@ -14,7 +14,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Jatsirantaxati jimpanhe ma — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Jatsirantaxati jimpanhe ma — { $transfer }
 
@@ -25,7 +24,6 @@ settings-update-applying =
     .label = Iasi anapu ampe úrani jarhani…
 update-failed = No jatanhentasti. <label data-l10n-name="failed-link">Sánteru jimpanhe ma jirinhantsï</label>
 update-failed-main = No jatanhentasti. <a data-l10n-name="failed-link-main">Sánteru jimpanhe ma jirinhantsï</a>
-update-adminDisabled = Iasi anapu ampe enka no tsinharhitini jaka xanhatatirini jimpo
 update-otherInstanceHandlingUpdates = { -brand-short-name } iasi anapu 'ukuatsati materu jasî anapu jimpo
 settings-update-other-instance-handling-updates =
     .label = { -brand-short-name } iasi anapu 'ukuatsati materu jasî anapu jimpo
@@ -47,5 +45,3 @@ warningDesc-version = { -brand-short-name } mónharhintani jámsïnti jimpoka y�
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label>Maesti<label data-l10n-name="community-exp-creditsLink">Parhakpini anapuecha</label>Mak'u ánchikwarhiparini jimpok'a web mentku mitakwarhitini jawaka.
 community-2 = { -brand-short-name } nésï eratsekuntani jaki <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, ma <label data-l10n-name="community-creditsLink">yapurisï anapuecha</label> yámituechaksï úati mítani ka exeni jimpokaksï márku jauaka ka méntku mítakurhitini jauati.
 bottomLinks-license = Sésikueri ampe
-bottomLinks-rights = Maruatatiiri sésikua
-bottomLinks-privacy = Nósesikueri ampe

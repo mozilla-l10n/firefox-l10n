@@ -151,15 +151,10 @@ addon-sitepermission-host = { $host } ostalarirako baimenak
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Modu seguruak gehigarri guztiak desgaitu ditu.
-extensions-warning-check-compatibility = Gehigarrien bateragarritasuna egiaztatzea desgaituta dago. Gehigarri bateraezinak izan ditzakezu.
-extensions-warning-safe-mode2 =
-    .message = Modu seguruak gehigarri guztiak desgaitu ditu.
 extensions-warning-check-compatibility2 =
     .message = Gehigarrien bateragarritasuna egiaztatzea desgaituta dago. Gehigarri bateraezinak izan ditzakezu.
 extensions-warning-check-compatibility-button = Gaitu
     .title = Gaitu gehigarrien bateragarritasuna egiaztatzea
-extensions-warning-update-security = Gehigarrien eguneraketa-segurtasuna egiaztatzea desgaituta dago. Eguneraketek arriskuan jar zaitzakete.
 extensions-warning-update-security2 =
     .message = Gehigarrien eguneraketa-segurtasuna egiaztatzea desgaituta dago. Eguneraketek arriskuan jar zaitzakete.
 extensions-warning-update-security-button = Gaitu
@@ -235,10 +230,6 @@ shortcuts-duplicate = Bikoiztutako lasterbidea
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } behin baino gehiagotan ari da erabiltzen lasterbide gisa. Bikoiztutako lasterbideek espero gabeko portaera eragin lezakete.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } behin baino gehiagotan ari da erabiltzen lasterbide gisa. Bikoiztutako lasterbideek espero gabeko portaera eragin lezakete.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -258,11 +249,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Aplikazioen antzerako zerak dira hedapenak eta itxurak eta besteak beste ahalbidetzen dute pasahitzak babestea, bideoak deskargatzea, eskaintzak aurkitzea, publizitatea blokeatzea edo nabigatzailearen itxura aldatzea. Software programa txiki hauek hirugarrenek garatuak izan ohi dira. Aparteko segurtasun, errendimendu eta eginbideetarako, hona hemen { -brand-product-name }(e)k <a data-l10n-name="learn-more-trigger">gomendatzen duen</a> hautapen bat.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Gomendio hauetako batzuk pertsonalizatuak dira. Instalatuta dituzun hedapenetan, zure hobespenetan eta erabilpen-estatistiketan oinarrituta daude.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message = Gomendio hauetako batzuk pertsonalizatuak dira. Instalatuta dituzun hedapenetan, zure hobespenetan eta erabilpen-estatistiketan oinarrituta daude.
@@ -351,16 +337,9 @@ addon-detail-last-updated-label = Azken eguneraketa
 addon-detail-homepage-label = Hasiera-orria
 addon-detail-rating-label = Balorazioa
 # Message for add-ons with a staged pending update.
-install-postponed-message = Hedapen hau { -brand-short-name } berrabiaraztean eguneratuko da.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Hedapen hau { -brand-short-name } berrabiaraztean eguneratuko da.
 install-postponed-button = Eguneratu orain
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Puntuazioa: { NUMBER($rating, maximumFractionDigits: 1) }/5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -376,9 +355,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> kendu egin da.
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -397,11 +373,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Leiho pribatuetan baimenduta
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Leiho pribatuetan baimenduta
 addon-detail-private-browsing-help = Baimenduta dagoenean, hedapenak zure lineako jardueretarako sarbidea izango du nabigatze pribatuko moduan. <a data-l10n-name="learn-more">Argibide gehiago</a>
 addon-detail-private-browsing-allow = Baimendu
@@ -428,17 +399,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = Segurtasun eta errendimendurako gure estandarrak betetzen dituzten hedapenak gomendatzen ditu { -brand-product-name }(e)k
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Mozillak sortutako hedapen ofiziala. Segurtasun- eta errendimendu-estandarrak betetzen ditu
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Gehigarri hau berrikusi egin da gure segurtasun- eta errendimendu-estandarrak betetzeko
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -468,9 +428,6 @@ addon-permissions-heading = Baimenak
 addon-permissions-empty2 = Hedapen honek ez du baimenik behar.
 addon-permissions-required-label = Beharrezkoa:
 addon-permissions-optional-label = Aukerakoa:
-addon-permissions-empty = Hedapen honek ez du baimenik behar
-addon-permissions-required = Oinarrizko funtzionaltasunerako beharrezko baimenak:
-addon-permissions-optional = Funtzionaltasun gehigarrirako aukerazko baimenak:
 addon-permissions-learnmore = Baimenei buruzko argibide gehiago
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -511,25 +468,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } bateraezina da { -brand-short-name } { $version } bertsioarekin.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } bateraezina da { -brand-short-name } { $version } bertsioarekin.
-details-notification-incompatible-link = Informazio gehiago
-details-notification-unsigned-and-disabled = Ezin da { $name } gehigarria { -brand-short-name }(r)en erabiltzeko egiaztatu eta desgaitu egin da.
 details-notification-unsigned-and-disabled2 =
     .message = Ezin da { $name } gehigarria { -brand-short-name }(r)en erabiltzeko egiaztatu eta desgaitu egin da.
-details-notification-unsigned-and-disabled-link = Informazio gehiago
-details-notification-unsigned = Ezin da { $name } gehigarria { -brand-short-name }(r)en erabiltzeko egiaztatu. Kontuz jarraitu.
 details-notification-unsigned2 =
     .message = Ezin da { $name } gehigarria { -brand-short-name }(r)en erabiltzeko egiaztatu. Kontuz jarraitu.
 details-notification-hard-blocked-extension =
     .message = Hedapen hau blokeatuta dago Mozillaren politikak bortxatzeagatik eta desgaitu egin da.
 details-notification-hard-blocked-other =
     .message = Gehigarri hau blokeatuta dago Mozillaren politikak bortxatzeagatik eta desgaitu egin da.
-details-notification-unsigned-link = Informazio gehiago
-details-notification-blocked = { $name } desgaitu egin da segurtasun- edo egonkortasun-arazoengatik.
 details-notification-blocked-link2 = Ikusi xehetasunak
 details-notification-soft-blocked-extension-disabled2 =
     .message = Hedapen hau mugatuta dago eta desgaitu egin da. Gaitzeko aukera daukazu baina arriskutsua izan liteke.
@@ -539,19 +487,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = Gehigarri hau mugatuta dago eta desgaitu egin da. Gaitzeko aukera daukazu baina arriskutsua izan liteke.
 details-notification-soft-blocked-other-enabled2 =
     .message = Gehigarri hau mugatuta dago. Erabiltzea arriskutsua izan liteke.
-details-notification-soft-blocked-extension-disabled =
-    .message = Hedapen hau mugatuta dago Mozillaren politikak bortxatzeagatik eta desgaitu egin da. Gaitzeko aukera daukazu baina arriskutsua izan liteke.
-details-notification-soft-blocked-extension-enabled =
-    .message = Hedapen honek Mozillaren politikak bortxatzen ditu. Arriskutsua izan liteke hau erabiltzea.
-details-notification-soft-blocked-other-disabled =
-    .message = Gehigarri hau mugatuta dago Mozillaren politikak bortxatzeagatik eta desgaitu egin da. Gaitzeko aukera daukazu baina arriskutsua izan liteke.
-details-notification-soft-blocked-other-enabled =
-    .message = Gehigarri honek Mozillaren politikak bortxatzen ditu. Arriskutsua izan liteke hau erabiltzea.
 details-notification-softblocked-link2 = Ikusi xehetasunak
-details-notification-blocked-link = Informazio gehiago
-details-notification-softblocked = { $name } gehigarriak segurtasun- edo egonkortasun-arazoak eragiten dituela jakina da.
-details-notification-softblocked-link = Informazio gehiago
-details-notification-gmp-pending = { $name } laster instalatuko da.
 details-notification-gmp-pending2 =
     .message = { $name } laster instalatuko da.
 
@@ -567,8 +503,6 @@ plugins-widevine-description = Plugin honek zifratutako multimediaren erreproduk
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Beharrezko datu-bilketa:
-addon-permissions-optional-data-collection = Aukerazko datu-bilketa:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Baimenak eta datuak
 # This is a description for extension that use this AI model

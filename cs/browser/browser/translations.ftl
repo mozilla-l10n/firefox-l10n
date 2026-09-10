@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Přeložit tuto stránku
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -31,21 +28,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Probíhá překlad
 translations-panel-settings-button =
     .aria-label = Spravovat nastavení překladu
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Správa jazyků
-translations-panel-settings-about =
-    { -brand-shorter-name.case-status ->
-        [with-cases] O překladech ve { -brand-shorter-name(case: "loc") }
-       *[no-cases] O překladech v aplikaci { -brand-shorter-name }
-    }
 translations-panel-settings-about2 =
     .label =
         { -brand-shorter-name.case-status ->
@@ -107,14 +94,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = Je nám líto, ale překlady z jazyka { $language } zatím nejsou podporovány.
 translations-panel-error-unsupported-hint-unknown-2 = Omlouváme se, ale překlady z tohoto jazyka zatím nejsou podporovány.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Omlouváme se, ale jazyk { $language } zatím není podporován.
-translations-panel-error-unsupported-hint-unknown = Omlouváme se, ale tento jazyk zatím není podporován.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -146,10 +125,6 @@ translations-manage-header = Překlady
 translations-manage-settings-button =
     .label = Nastavení…
     .accesskey = t
-translations-manage-description = Stažení jazyků pro offline překlad.
-translations-manage-all-language = Všechny jazyky
-translations-manage-download-button = Stáhnout
-translations-manage-delete-button = Smazat
 translations-manage-intro-2 = Nastavte předvolby jazyka a překladu webu a spravujte jazyky stažené pro překlad offline.
 translations-manage-download-description = Stažení jazyků pro offline překlad
 translations-manage-language-download-button =
@@ -163,12 +138,11 @@ translations-manage-language-remove-all-button =
     .label = Odebrat vše
     .accesskey = O
 translations-manage-error-download = Při stahování jazykových souborů se vyskytl problém. Zkuste to prosím znovu.
-translations-manage-error-delete = Při odstraňování jazykových souborů se vyskytl problém. Zkuste to prosím znovu.
 translations-manage-error-remove = Při odstraňování jazykových souborů došlo k chybě. Prosím zkuste to znovu.
 translations-manage-error-list = Nepodařilo se získat seznam dostupných jazyků pro překlad. Obnovte stránku a zkuste to znovu.
 translations-settings-title =
-    .title = Nastavení překladů
     .style = min-width: 36em
+    .title = Nastavení překladů
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Překlad pro následující jazyky proběhne automaticky
@@ -262,16 +236,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = Je nám líto, ale překlady z jazyka { $language } zatím nejsou podporovány.
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = Omlouváme se, ale překlady z tohoto jazyka zatím nejsou podporovány.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Omlouváme se, ale jazyk { $language } zatím není podporován.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Omlouváme se, ale tento jazyk zatím není podporován.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Nastavení překladu

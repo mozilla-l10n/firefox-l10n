@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Installation fortsetzen
     .accesskey = o
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Diese Website fordert Zugriff auf Ihre MIDI-Geräte (Musical Instrument Digital Interface) an. Der Gerätezugriff kann durch die Installation eines Add-ons aktiviert werden.
 site-permission-install-first-prompt-midi-message = Dieser Zugriff ist nicht garantiert sicher. Fahren Sie nur fort, wenn Sie dieser Website vertrauen.
 site-permission-install-first-prompt-serial-header = Diese Website fordert Zugriff auf Ihre seriellen Geräte an. Der Gerätezugriff kann durch die Installation eines Add-ons aktiviert werden.
 site-permission-install-first-prompt-serial-message = Dieser Zugriff ist nicht garantiert sicher. Fahren Sie nur fort, wenn Sie dieser Website vertrauen.
-
-##
-
-xpinstall-disabled-locked = Die Software-Installation wurde von Ihrem Administrator deaktiviert.
 xpinstall-disabled-by-policy = Die Software-Installation wurde von Ihrer Organisation deaktiviert.
 xpinstall-disabled = Die Software-Installation ist momentan deaktiviert. Klicken Sie auf "Aktivieren" und versuchen Sie es dann erneut.
 xpinstall-disabled-button =
     .label = Aktivieren
     .accesskey = k
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) wurde durch den Systemadministrator blockiert.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Ihr Systemadministrator hat diese Website daran gehindert, Sie zu fragen, ob Software auf Ihrem Computer installiert werden soll.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = Abschluss der Installation von Erweiterungen, die in { 
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = { $name } entfernen?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = { $name } aus { -brand-shorter-name } entfernen?
 addon-removal-button = Entfernen
 addon-removal-abuse-report-checkbox = Erweiterung an { -vendor-short-name } melden
 # "it" refers to the local AI model that is paired to the AI feature
@@ -139,7 +122,5 @@ addon-local-install-no-addon-name-error-file-access = Das Add-on konnte nicht in
 addon-install-error-incompatible = { $addonName } konnte nicht installiert werden, da es nicht mit { -brand-short-name } { $appVersion } kompatibel ist.
 addon-install-error-hard-blocked = { $addonName } verstößt gegen Mozillas Richtlinien und kann nicht auf { -brand-short-name } installiert werden.
 addon-install-error-soft-blocked2 = { $addonName } ist eingeschränkt und kann nicht auf { -brand-short-name } installiert werden.
-addon-install-error-blocklisted = { $addonName } konnte nicht installiert werden, da es ein hohes Risiko bezüglich Stabilität und Sicherheit darstellt.
-addon-install-error-soft-blocked = { $addonName } verstößt gegen Mozillas Richtlinien und kann nicht auf { -brand-short-name } installiert werden.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Sie können { $addonName } nicht als Endbenutzer installieren, es kann nur von einer Organisation installiert werden, die Unternehmensrichtlinien verwendet.

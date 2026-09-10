@@ -4,14 +4,6 @@
 
 about-reader-loading = Načítava sa…
 about-reader-load-error = Článok sa zo stránky nepodarilo načítať
-about-reader-color-scheme-light = Svetlá
-    .title = Svetlá farebná schéma
-about-reader-color-scheme-dark = Tmavá
-    .title = Tmavá farebná schéma
-about-reader-color-scheme-sepia = Sépia
-    .title = Farebná schéma sépia
-about-reader-color-scheme-auto = Automatická
-    .title = Automatická farebná schéma
 about-reader-color-light-theme = Svetlá
     .title = Svetlá téma
 about-reader-color-dark-theme = Tmavá
@@ -24,17 +16,6 @@ about-reader-color-gray-theme = Sivá
     .title = Sivá téma
 about-reader-color-contrast-theme = Kontrastná
     .title = Kontrastná téma
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time =
-    { $rangePlural ->
-        [one] { $range } minúta
-        [few] { $range } minúty
-       *[other] { $range } minút
-    }
 
 ## Reader View text and layout menu
 
@@ -42,14 +23,6 @@ about-reader-toolbar-minus =
     .title = Zmenšiť písmo
 about-reader-toolbar-plus =
     .title = Zväčšiť písmo
-about-reader-toolbar-contentwidthminus =
-    .title = Zúžiť obsah
-about-reader-toolbar-contentwidthplus =
-    .title = Rozšíriť obsah
-about-reader-toolbar-lineheightminus =
-    .title = Znížiť výšku riadkov
-about-reader-toolbar-lineheightplus =
-    .title = Zvýšiť výšku riadkov
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -60,7 +33,6 @@ about-reader-font-type-monospace = Neproporcionálne
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Zavrieť zobrazenie Čítačka
-about-reader-toolbar-type-controls = Nastavenie vzhľadu
 about-reader-toolbar-text-layout-controls = Text a rozloženie
 about-reader-toolbar-theme-controls = Téma vzhľadu
 about-reader-toolbar-savetopocket = Uložiť do služby { -pocket-brand-name }

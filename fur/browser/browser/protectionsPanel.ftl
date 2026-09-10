@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-protections-panel-sendreportview-error = Si è verificât un erôr tal inviâ la segnalazion. Par plasê torne prove plui indenant.
-# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
-protections-panel-sitefixedsendreport-label = Sît comedât? invie une segnalazion
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -23,11 +20,6 @@ protections-panel-etp-more-info =
     .aria-label = Plui informazions su la protezion des spiis miorade
 protections-panel-etp-on-header = La protezion miorade da lis spiis e je ATIVE par chest sît
 protections-panel-etp-off-header = La protezion miorade da lis spiis e je DISATIVADE par chest sît
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Il sît nol funzione?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Il sît nol funzione?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -35,20 +27,18 @@ protections-panel-site-not-working-view =
 ##   $host (String): the hostname of the site that is being displayed.
 
 protections-panel-etp-toggle-on =
-    .label = Protezion miorade da lis spiis
-    .description = Ative su chest sît
     .aria-label = Protezion miorade da lis spiis: ative par { $host }
-protections-panel-etp-toggle-off =
+    .description = Ative su chest sît
     .label = Protezion miorade da lis spiis
-    .description = Disativade par chest sît
+protections-panel-etp-toggle-off =
     .aria-label = Protezion miorade da lis spiis: disativade par { $host }
+    .description = Disativade par chest sît
+    .label = Protezion miorade da lis spiis
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = Parcè?
-protections-panel-not-blocking-why-etp-on-tooltip = Il bloc di chescj elements al podarès causâ il parziâl malfunzionament di cualchi sît web. Cence elements che ti spiin, i “trackers”, cualchi boton, formulari e cjamp pes credenziâls a podaressin no funzionâ.
-protections-panel-not-blocking-why-etp-off-tooltip = A son stadis cjariadis dutis lis spiis su chest sît, par vie che lis protezions a son disativadis.
 protections-panel-not-blocking-why-etp-on-tooltip-label =
     .label = Il bloc di chescj elements al podarès causâ il parziâl malfunzionament di cualchi sît web. Cence elements che ti spiin, i “trackers”, cualchi boton, formulari e cjamp pes credenziâls a podaressin no funzionâ.
 protections-panel-not-blocking-why-etp-off-tooltip-label =
@@ -89,23 +79,6 @@ smartblock-placeholder-button-text = Permet su { $websitehost }
 
 protections-panel-settings-label = Impostazions di protezion
 protections-panel-protectionsdashboard-label = Panel des protezions
-
-## In the Site Not Working? view, we suggest turning off protections if
-## the user is experiencing issues with any of a variety of functionality.
-
-# The header of the list
-protections-panel-site-not-working-view-header = Disative lis protezions se tu âs problemis cun:
-# The list items, shown in a <ul>
-protections-panel-site-not-working-view-issue-list-login-fields = Cjamps des credenziâls
-protections-panel-site-not-working-view-issue-list-forms = Formularis
-protections-panel-site-not-working-view-issue-list-payments = Paiaments
-protections-panel-site-not-working-view-issue-list-comments = Coments
-protections-panel-site-not-working-view-issue-list-videos = Videos
-protections-panel-site-not-working-view-issue-list-fonts = Caratars
-protections-panel-site-not-working-view-send-report = Invie une segnalazion
-
-##
-
 protections-panel-cross-site-tracking-cookies = Chescj cookies ti stan daûr di un sît a chel altri par tirâ sù dâts su ce che tu fasis in rêt. A son metûts impins di tiercis parts tant che agjenziis publicitariis e di analisi di dâts.
 protections-panel-cryptominers = I minadôrs di criptomonede a doprin la potente di elaborazion dal to sisteme par minâ monede digjitâl. I scripts par minâ la criptomonede ti cjucjin la batarie, ti morestin il computer e a puedin fâ cressi il cont de bolete de eletricitât.
 protections-panel-fingerprinters = I rilevadôrs di stamp numeric a tirin sù impostazions dal to navigadôr e dal to computer par creâ un to profîl. Doprant chest stamp numeric digjitâl, a puedin stâti daûr su diviers sîts web.
@@ -118,33 +91,10 @@ protections-panel-shim-allowed-indicator =
 protections-panel-content-blocking-manage-settings =
     .label = Gjestìs impostazions di protezion
     .accesskey = G
-protections-panel-content-blocking-breakage-report-view =
-    .title = Segnale un sît che nol funzione
-protections-panel-content-blocking-breakage-report-view-description = Blocant ciertis spiis tu puedis causâ problemis cun cualchi sît web. La segnalazion di chescj problemis e jude a miorâ { -brand-short-name } par ducj. Inviant cheste segnalazion tu inviarâs a Mozilla un URL e lis informazions su lis impostazions dal tô navigadôr. <label data-l10n-name="learn-more">Plui informazions</label>
-protections-panel-content-blocking-breakage-report-view-collection-url = URL
-protections-panel-content-blocking-breakage-report-view-collection-url-label =
-    .aria-label = URL
-protections-panel-content-blocking-breakage-report-view-collection-comments = Facoltatîf: descrîf il probleme
-protections-panel-content-blocking-breakage-report-view-collection-comments-label =
-    .aria-label = Facoltatîf: descrîf il probleme
-protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = Anule
-protections-panel-content-blocking-breakage-report-view-send-report =
-    .label = Invie segnalazion
-
-# Cookie Banner Handling
-
-protections-panel-cookie-banner-handling-header = Riduzion strissons pai cookies
 protections-panel-cookie-banner-blocker-header = Bloc strissons pai cookies
 protections-panel-cookie-banner-handling-enabled = Ative par chest sît
 protections-panel-cookie-banner-handling-disabled = Disativade par chest sît
 protections-panel-cookie-banner-handling-undetected = Sît pal moment no supuartât
-protections-panel-cookie-banner-view-title =
-    .title = Riduzion strissons pai cookies
-# Variables
-#  $host (String): the hostname of the site that is being displayed.
-protections-panel-cookie-banner-view-turn-off-for-site = Disativâ la riduzion dai strissons pai cookies par { $host }?
-protections-panel-cookie-banner-view-turn-on-for-site = Ativâ la riduzion dai strissons pai cookies par chest sît?
 protections-panel-cookie-banner-blocker-view-title =
     .title = Bloc strissons pai cookies
 # Variables
@@ -152,10 +102,6 @@ protections-panel-cookie-banner-blocker-view-title =
 protections-panel-cookie-banner-blocker-view-turn-off-for-site = Disativâ il bloc dai strissons pai cookies par { $host }?
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Ativâ il bloc dai strissons pai cookies par chest sît?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } al netarà vie i cookies di chest sît e al inzornarà la pagjine. Al è pussibil che cu la netisie dai cookies tu vegnis disconetût dal sît o che eventuâi carei de spese a vegnin disvuedâts.
-protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } al cîr di refudâ in automatic dutis lis richiestis dai cookies sui sîts supuartâts.
-protections-panel-cookie-banner-view-cancel = Anule
-protections-panel-cookie-banner-view-turn-off = Disative
-protections-panel-cookie-banner-view-turn-on = Ative
 protections-panel-cookie-banner-blocker-view-turn-on-description = Ativilu e { -brand-short-name } al cirarà di refudâ in automatic i strissons pai cookies su chest sît.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Anule

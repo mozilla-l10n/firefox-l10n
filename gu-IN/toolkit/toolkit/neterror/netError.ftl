@@ -23,13 +23,11 @@ neterror-override-exception-button = જોખમ સ્વીકારો અ�
 neterror-pref-reset-button = મૂળભુત સેટિંગ પાછા લાવો
 neterror-return-to-previous-page-button = પાછા જાવ
 neterror-return-to-previous-page-recommended-button = પાછા જાઓ (ભલામણ કરેલ)
-neterror-try-again-button = પુનઃપ્રયાસ કરો
 neterror-view-certificate-link = પ્રમાણપત્ર જુઓ
 
 ##
 
 neterror-pref-reset = એવું લાગી રહ્યું છે કે તમારાં નેટવર્કની સુરક્ષા વ્યવસ્થા ને કારણે આમ થઇ રહ્યુ છે. શું આપ મૂળભૂત વ્યવસ્થા પાછી લાવવાં ઈચ્છો છો?
-neterror-error-reporting-automatic = { -vendor-short-name } ને દૂષિત સાઇટ્સ ઓળખવા અને બ્લૉક કરવા માટે આની જેવી ભૂલોની જાણ કરો
 
 ## Specific error messages
 
@@ -46,8 +44,6 @@ neterror-file-not-found-moved = શું ફાઈલ ખસેડી દેવ
 neterror-access-denied = તે દૂર કરવામાં, ખસેડવામાં અથવા ફાઇલ પરવાનગીઓ હોઈ શકે છે ઍક્સેસ અટકાવી શકે છે.
 neterror-unknown-protocol = તમે આ સરનામાંને ખોલવા માટે બીજા સોફ્ટવેરને સ્થાપિત કરવાની જરૂર પડી શકે છે.
 neterror-redirect-loop = અમુક વાર કુકીઓ સ્વીકારવાનું નિષ્ક્રિય કરવાથી કે રદ કરવાથી આ સમસ્યા સર્જાય છે.
-neterror-unknown-socket-type-psm-installed = તમારી સિસ્ટમમાં ખાનગી સુરક્ષા વ્યવસ્થાપક સ્થઆપિત કરેલ છે કે નહિં તેની ખાતરી કરવા માટે ચકાસો.
-neterror-unknown-socket-type-server-config = આ સર્વર પરના બિન-પ્રમાણભૂત રૂપરેખાંકનને કારણે હોઈ શકે.
 neterror-not-cached-intro = અરજી થયેલ દસ્તાવેજ { -brand-short-name } ની કેશમાં ઉપલબ્ધ નથી.
 neterror-not-cached-sensitive = સુરક્ષાની પૂર્વકાળજીરૂપે, { -brand-short-name } સંવેદનશીલ દસ્તાવેજોની ફરી અરજી આપોઆપ કરશે નહિં.
 neterror-not-cached-try-again = વેબસાઇટમાંથી દસ્તાવેજની ફરી અરજી કરવા માટે ફરી પ્રયાસ કરો પર ક્લિક કરો.

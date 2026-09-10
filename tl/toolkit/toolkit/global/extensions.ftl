@@ -10,9 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Idagdag ang { $extension }?
 webext-perms-sideload-header = Idinagdag ang { $extension }
-webext-perms-optional-perms-header = Ang { $extension } ay humihingi ng mga karagdagang pahintulot.
 
 ##
 
@@ -45,21 +43,5 @@ webext-perms-host-description-all-urls = I-access ang iyong data para sa lahat n
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = i-Access ang iyong data para sa mga site sa { $domain } domain
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] i-Access ang iyong data sa { $domainCount } ibang domain
-       *[other] I-access ang iyong data sa { $domainCount } ibang domain
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = i-Access ang iyong data para sa { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] i-Access ang iyong data sa { $domainCount } na ibang site
-       *[other] I-access ang iyong data sa { $domainCount } na ibang site
-    }

@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Ngăn chặn tác nhân người dùng trìn
 policy-DisableDeveloperTools = Chặn truy cập đến công cụ nhà phát triển.
 policy-DisableEncryptedClientHello = Vô hiệu hóa việc sử dụng tính năng TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Tắt các lệnh để gửi phản hồi từ bảng chọn trợ giúp (gửi phản hồi và báo cáo trang web lừa đảo).
-policy-DisableFirefoxAccounts = Vô hiệu hóa { -fxaccount-brand-name } dựa trên các dịch vụ, bao gồm cả đồng bộ.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Vô hiệu hóa các dịch vụ dựa trên tài khoản, bao gồm cả đồng bộ hóa.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Không lưu lịch sử tìm kiếm và biểu mẫu
 policy-DisableLaunchOnLogin = Ngăn { -brand-short-name } tự động khởi chạy khi người dùng đăng nhập.
 policy-DisablePrimaryPasswordCreation = Nếu đúng, không thể tạo mật khẩu chính.
 policy-DisablePasswordReveal = Không cho phép mật khẩu được tiết lộ trong thông tin đăng nhập đã lưu.
-policy-DisablePocket2 = Tắt tính năng lưu trang web vào { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Vô hiệu hóa duyệt web riêng tư.
 policy-DisableProfileImport = Vô hiệu hóa lệnh nhập dữ liệu từ trình duyệt khác trên bảng chọn.
 policy-DisableProfileRefresh = Vô hiệu hóa nút khôi phục { -brand-short-name } trong trang about:support.
@@ -132,7 +130,6 @@ policy-PDFjs = Vô hiệu hóa hoặc cấu hình PDF.js, trình xem PDF tích h
 policy-Permissions2 = Cấu hình quyền truy cập cho máy ảnh, micrô, vị trí, thông báo và tự động phát.
 policy-PictureInPicture = Kích hoạt hoặc vô hiệu hóa hình trong hình.
 policy-PopupBlocking2 = Cho phép một số trang web hiển thị cửa sổ bật lên và được chuyển hướng bởi khung của bên thứ ba.
-policy-PopupBlocking = Cho phép các trang web nhất định hiển thị cửa sổ bật lên theo mặc định.
 policy-Preferences = Đặt và khóa giá trị cho một tập hợp con ưu tiên.
 policy-PrivateBrowsingModeAvailability = Đặt tính khả dụng của chế độ duyệt web riêng tư.
 policy-PromptForDownloadLocation = Hỏi nơi lưu tập tin khi tải xuống.

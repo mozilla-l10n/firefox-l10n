@@ -16,8 +16,6 @@ styleeditor-save-button = محفوظ کریں
     .accesskey = م
 styleeditor-options-button =
     .tooltiptext = انداز تدوین کار اختیار
-styleeditor-editor-textbox =
-    .data-placeholder = یہاں پر CSS لکھیں۔
 styleeditor-no-stylesheet = اس صفحے کا کوئی طرز ورق نہیں ہے۔
 styleeditor-no-stylesheet-tip = شاید آپ کو کرنا چاہوں گا<a data-l10n-name="append-new-stylesheet">نیا طرز ورق ملائیں</a>؟
 styleeditor-open-link-new-tab =

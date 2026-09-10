@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Cài đặt kết nối
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Cài đặt kết nối
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Tải lại
     .accesskey = i
-connection-proxy-autologin =
-    .label = Không yêu cầu xác nhận nếu đã lưu mật khẩu
-    .accesskey = n
-    .tooltip = Tùy chọn này xác thực ngầm bạn với proxy khi bạn đã lưu thông tin ủy nhiệm của chúng. Bạn sẽ được yêu cầu nếu việc xác thực thất bại.
 connection-proxy-autologin-checkbox =
     .label = Không yêu cầu xác nhận nếu đã lưu mật khẩu
-    .accesskey = n
     .tooltiptext = Tùy chọn này xác thực ngầm bạn với proxy khi bạn đã lưu thông tin ủy nhiệm của chúng. Bạn sẽ được yêu cầu nếu việc xác thực thất bại.
+    .accesskey = n
 connection-proxy-socks4-remote-dns =
     .label = DNS của proxy khi sử dụng SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Sử dụng đường dẫn mặc định để phân giải DNS over HTTPS
 connection-dns-over-https-url-custom =
     .label = Tùy chỉnh
-    .accesskey = C
     .tooltiptext = Nhập URL ưa thích của bạn để phân giải DNS over HTTPS
-connection-dns-over-https-custom-label = Tùy biến
+    .accesskey = C

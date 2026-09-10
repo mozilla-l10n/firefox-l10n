@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Ενεργοποίηση του Warp
 experimental-features-ime-search =
     .label = Γραμμή διευθύνσεων: εμφάνιση αποτελεσμάτων κατά τη σύνταξη IME
 experimental-features-ime-search-description = Το IME (Input Method Editor) είναι ένα εργαλείο που σας επιτρέπει να εισαγάγετε περίπλοκα σύμβολα, όπως αυτά που χρησιμοποιούνται στις γλώσσες της Ανατολικής Ασίας ή της Ινδίας, με ένα τυπικό πληκτρολόγιο. Η ενεργοποίηση αυτού του πειράματος θα διατηρεί ανοικτή τη λίστα της γραμμής διευθύνσεων, εμφανίζοντας αποτελέσματα και προτάσεις αναζήτησης, κατά τη χρήση του IME για εισαγωγή κειμένου. Σημειώστε ότι το IME ενδέχεται να εμφανίσει ένα παράθυρο που καλύπτει τα αποτελέσματα της γραμμής διευθύνσεων, επομένως αυτή η προτίμηση προτείνεται μόνο για IME που δεν χρησιμοποιεί αυτόν τον τύπο παραθύρου.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Εικόνα εντός εικόνας: αυτόματο άνοιγμα με εναλλαγή καρτελών
-experimental-features-auto-pip-description = Ενεργοποίηση λειτουργίας «Εικόνα εντός εικόνας» σε ενεργά βίντεο κατά την εναλλαγή καρτελών.
 experimental-features-group-developer-tools =
     .label = Εργαλεία ανάπτυξης
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Παραγωγικότητα
 experimental-features-group-newtab-widgets =
     .label = Γραφικά στοιχεία στην { -firefox-home-brand-name }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Κωδικοί πρόσβασης στην πλαϊνή γραμμή
-experimental-features-contextual-password-manager-description = Αποκτήστε πρόσβαση στους κωδικούς πρόσβασής σας απευθείας από την πλαϊνή γραμμή. Τέρμα οι άσκοπες αναζητήσεις ή η ανάγκη για επαναφορά των κωδικών πρόσβασης όταν προσπαθείτε να συνδεθείτε. Για να χρησιμοποιήσετε αυτήν τη λειτουργία, ενεργοποιήστε την αντίστοιχη επιλογή στην πλαϊνή γραμμή. Έπειτα, μεταβείτε στις γενικές ρυθμίσεις και ενεργοποιήστε την επιλογή «Εμφάνιση πλαϊνής γραμμής» στην ενότητα «Διάταξη προγράμματος περιήγησης». Τέλος, προσαρμόστε την πλαϊνή γραμμή σας επιλέγοντας κωδικούς πρόσβασης. Αν το δοκιμάσετε, <a data-l10n-name="connect">πείτε μας τη γνώμη σας</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Επιλέξτε μια προσαρμοσμένη ταπετσαρία ή χρώμα για τη νέα καρτέλα

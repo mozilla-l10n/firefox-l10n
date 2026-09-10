@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = Utvidingar og tema
 appmenuitem-extensions =
     .label = Utvidingar
-appmenuitem-addons-and-themes =
-    .label = Tillegg og tema
 appmenuitem-print =
     .label = Skriv ut…
 appmenuitem-find-in-page =
@@ -154,7 +152,6 @@ fxa-menu-get-firefox-mobile =
     .label = Få { -brand-product-name } for Android eller iOS
 fxa-menu-secure-sync-subpanel =
     .title = Sikker synkronisering
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Konto
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -176,15 +173,6 @@ appmenuitem-save-page =
     .label = Lagre sida som…
 appmenuitem-fxa-sync-off-title = Synkronisering er av
 appmenuitem-fxa-sync-off-description = Vern og få tilgang til bokmerke, passord, med meir, kvar som helst.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Kva er nytt
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Varsle om nye funksjonar
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -326,8 +314,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Meir feilsøkingsinformasjon
     .accesskey = M
-appmenu-help-report-site-issue =
-    .label = Rapporter problem med nettstad…
 appmenu-help-share-ideas =
     .label = Del idear og tilbakemeldingar...
     .accesskey = D
@@ -393,7 +379,6 @@ appmenuitem-vpn-description5 = Få ekstra vern på tvers av einingar
 appmenuitem-vpn-title-signed-in1 = Last ned { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Få vern for heile eininga
-appmenuitem-vpn-description = Vern nettaktiviteten din
 appmenu-services-header = Mine tenester
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -403,7 +388,6 @@ appmenu-other-protection-header3 = Personvernverktøy
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Prøv andre verneverktøy frå Mozilla:
-appmenu-other-protection-header = Prøv andre verneverktøy frå { -vendor-short-name }:
 
 ## Profiles panel
 

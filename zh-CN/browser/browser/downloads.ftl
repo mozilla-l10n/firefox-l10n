@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] 在访达中显示
            *[other] 在文件夹中显示
         }
-downloads-cmd-show-downloads =
-    .label = 显示下载文件夹
 downloads-cmd-retry =
     .tooltiptext = 重试
 downloads-cmd-retry-panel =

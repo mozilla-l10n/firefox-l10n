@@ -13,4 +13,3 @@ about-reader-font-type-sans-serif = ಸಾನ್ಸ್‍-ಸೆರಿಫ್
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = ಓದುಗ ನೋಟ ಮುಚ್ಚು
-about-reader-toolbar-type-controls = ಶೈಲಿ ನಿಯಂತ್ರಣಗಳು

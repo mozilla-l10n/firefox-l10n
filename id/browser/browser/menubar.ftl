@@ -261,8 +261,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Profil
 menu-profiles-manage-profiles =
     .label = Kelola profil
 menu-profiles-new-profile =
@@ -286,9 +284,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Ekstensi dan Tema
     .accesskey = E
-menu-tools-addons-and-themes =
-    .label = Pengaya dan Tema
-    .accesskey = P
 menu-tools-fxa-sign-in2 =
     .label = Masuk
     .accesskey = M
@@ -345,8 +340,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Informasi Pemecahan Masalah Lebih Lanjut
     .accesskey = I
-menu-help-report-site-issue =
-    .label = Laporkan Masalah Situs…
 menu-help-share-ideas =
     .label = Bagikan Ide dan Umpan Balik
     .accesskey = B

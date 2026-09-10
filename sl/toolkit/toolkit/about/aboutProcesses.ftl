@@ -71,15 +71,6 @@ about-processes-web-isolated-property-jit-disabled = JIT onemogočen
 
 about-processes-web-isolated-process2 = { $origin } ({ $properties })
 
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-web-isolated-process-private = { $origin } – Zaseben ({ $pid })
-
 ## Details within processes
 
 # Single-line summary of threads (non-idle process)

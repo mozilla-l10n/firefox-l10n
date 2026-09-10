@@ -18,13 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Þú ert með { $reportCount } ósenda villutilkynningu
-       *[other] Þú ert með { $reportCount } ósendar villutilkynningar
-    }
 pending-crash-reports-view-all =
     .label = Skoða
 pending-crash-reports-send =
@@ -37,13 +30,6 @@ requested-crash-reports-message-new =
     { $reportCount ->
         [one] Þú ert með ósenda hrunskýrslu sem tengist hrunum sem verið er að rannsaka. Ef þú sendir hana mun það hjálpa okkur að bæta { -brand-product-name }. Ef þessari tilkynningu er lokað verða skýrslurnar hunsaðar.
        *[other] Þú ert með { $reportCount } ósendar hrunskýrslur sem tengjast hrunum sem verið er að rannsaka. Ef þú sendir þær mun það hjálpa okkur að bæta { -brand-product-name }. Ef þessari tilkynningu er lokað verða skýrslurnar hunsaðar.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Þú ert með ósenda hrunskýrslu sem passar við hrun sem verið er að rannsaka; ef þú sendir hana mun það hjálpa okkur að bæta { -brand-product-name }. Ef þessari tilkynningu er lokað verða þessi skýrsla hunsuð.
-       *[other] Þú ert með { $reportCount } ósendar hrunskýrslur sem passa við hrun sem verið er að rannsaka; ef þú sendir þær mun það hjálpa okkur að bæta { -brand-product-name }. Ef þessari tilkynningu er lokað verða þessar skýrslur hunsaðar.
     }
 requested-crash-reports-dont-show-again =
     .label = Ekki sýna þetta aftur

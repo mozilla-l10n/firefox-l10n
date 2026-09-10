@@ -7,10 +7,6 @@
 
 neterror-page-title = Tatizo katika kupakia ukurasa
 
-## Error page actions
-
-neterror-try-again-button = Jaribu Tena
-
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } haiwezi kupakia ukurasa huu kwa sababu fulani.
@@ -24,8 +20,6 @@ neterror-file-not-found-filename = Kagua jina la faili kwa utumizi wa herufi kub
 neterror-file-not-found-moved = Kagua kuona kama faili iliondolewa, imepewa jina lipya au imefutwa.
 neterror-unknown-protocol = Huenda utahitaji kusakinsha programu nyingine ili kufungua anwani hii.
 neterror-redirect-loop = Shida hii yaweza wakati mwingine kusababishwa na kulemaza au kukataa kukubali vidukizo.
-neterror-unknown-socket-type-psm-installed = Kagua kuhakikisha kuwa mfumo wako umesakinisha Msimamizi wa Usalama wa Binafsi
-neterror-unknown-socket-type-server-config = Hii yaweza kusababishwa na usanidi usio sanifu kwenye sava.
 neterror-not-cached-intro = Waraka ulioombwa haupatikani katika { -brand-short-name } kache. .
 neterror-not-cached-sensitive = Kama hadhari ya usalama, { -brand-short-name } haiombi tena kiotomatiki nyaraka zenye hisia.
 neterror-not-cached-try-again = Bofya Jaribu Tena ili kuomba tena waraka kutoka kwa wavuti.

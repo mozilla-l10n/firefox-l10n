@@ -98,9 +98,6 @@ main-context-menu-audio-save-as =
 
 ##
 
-main-context-menu-keyword =
-    .label = Add a Keyword for this Search…
-    .accesskey = K
 main-context-menu-frame =
     .label = Daytoy a Kuadro
     .accesskey = h

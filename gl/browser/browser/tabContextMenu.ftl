@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Nova lapela
-    .accesskey = n
 reload-tab =
     .label = Recargar lapela
     .accesskey = R
@@ -98,10 +95,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Novo grupo
     .accesskey = g
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -126,13 +119,6 @@ tab-context-move-tabs =
            *[other] Mover lapelas
         }
     .accesskey = v
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Enviar a lapela ao dispositivo
-           *[other] Enviar { $tabCount } lapelas ao dispositivo
-        }
-    .accesskey = n
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

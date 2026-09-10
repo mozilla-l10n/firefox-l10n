@@ -24,11 +24,6 @@ home-prefs-highlights-option-visited-pages-srd =
 home-prefs-highlights-options-bookmarks-srd =
     .label = Boekmerke
 
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Klaar
-newtab-privacy-modal-header = U privaatheid maak saak.
-
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
@@ -41,13 +36,6 @@ newtab-label-download = Afgelaai
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-try-again-button = Probeer Weer
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Gewilde Onderwerpe:
-newtab-pocket-more-recommendations = Meer Aanbevelings
-newtab-pocket-cta-button = Kry { -pocket-brand-name }
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

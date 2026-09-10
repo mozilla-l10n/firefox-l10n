@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = { -vendor-short-name } ਵਲੋਂ ਹੋਰ
 more-from-moz-page-header =
     .heading = { -vendor-short-name } ਵਲੋਂ ਹੋਰ
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } ਮੋਬਾਇਲ
 more-from-moz-firefox-mobile-description = ਮੋਬਾਇਲ ਬਰਾਊਜ਼ਰ ਜੋ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲ ਦਿੰਦਾ ਹੈ।
 more-from-moz-firefox-mobile-title-1 = ਮੋਬਾਈਲ ਲਈ { -brand-product-name }
 more-from-moz-firefox-mobile =
-    .label = ਮੋਬਾਈਲ ਲਈ { -brand-product-name }
     .description = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲ ਦੇਣ ਵਾਲਾ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ।
+    .label = ਮੋਬਾਈਲ ਲਈ { -brand-product-name }
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = ਬਰਾਊਜ਼ ਕਰਨ ਵਾਲੇ ਅਣਪਛਾਤੇ ਰਹਿਣ ਦੀ ਪਰਤ ਜੋੜਨ ਅਤੇ ਸੁਰੱਖਿਆ ਲੈਣ ਬਾਰੇ ਜਾਣਕਾਰੀ ਲਵੋ।
 more-from-moz-qr-code-box-firefox-mobile-title = ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨੂੰ ਵਰਤ ਕੇ ਡਾਊਨਲੋਡ ਕਰੋ। ਆਪਣੇ ਕੈਮਰੇ ਨੂੰ QR ਕੋਡ ਵੱਲ ਕਰੋ। ਜਦੋਂ ਲਿੰਕ ਦਿਖਾਈ ਦੇਵੇ ਤਾਂ ਇਸ ਨੂੰ ਛੂਹੋ।
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = { -relay-brand-short-name } ਲਵੋ
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = ਤੁਹਾਡੀ ਜ਼ਾਹਿਰ ਹੋਈ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਨੂੰ ਆਪਣੇ-ਆਪ ਵਾਪਸ ਲਵੋ।
 more-from-moz-mozilla-monitor-global-description = ਜਦੋਂ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਸੰਨ੍ਹ ਲੱਗੇ ਤਾਂ ਚੇਤਾਵਨੀਆਂ ਲਵੋ।
 more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } ਲਵੋ
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = ਆਪਣੀ ਵੈੱਬਸਾਈਟ ਫ਼ੌਰਨ ਬਣਾਓ ਅਤੇ ਮੁਫ਼ਤ ਵਿੱਚ ਆਪਣੀ ਪਸੰਦੀਦਾ ਡੋਮੇਨ ਨਾਲ ਕਨੈਕਟ ਕਰੋ।
 more-from-moz-solo-button = { -solo-ai-brand-name } ਨੂੰ ਅਜ਼ਮਾਓ
 more-from-moz-solo-title-2 = { -solo-ai-brand-name } AI ਵੈੱਬਸਾਈਟ ਸਿਰਜਣਹਾਰ
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = ਡਾਊਨਲੋਡ ਲਿੰਕ ਨ
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਕਿਤੇ ਲੀਕ ਹੋਣ ਬਾਰੇ ਜਾਣਕਾਰੀ ਲੈਣ ਲਈ ਮੁਫ਼ਤ ਸਕੈਨ ਕਰੋ।
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = ਨਾ ਸਿਰਫ਼ ਆਪਣੇ ਬਰਾਊਜ਼ਰ, ਬਲਕਿ ਸਭ ਐਪਾਂ ਲਈ ਵਧੀਕ ਸੁਰੱਖਿਆ ਲਵੋ। ਪਬਲਿਕ Wi-Fi ਅਤੇ ਗ਼ੈਰ-ਸੁਰੱਖਿਅਤ ਨੈੱਟਵਰਕਾਂ ਉੱਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖੋ।
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = ਮੁਫ਼ਤ ਈਮੇਲ ਮਾਸਕਾਂ ਨਾਲ ਸਪੈਮ ਤੋਂ ਆਪਣੇ ਇਨਬਾਕਸ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ।
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = ਮੁਫ਼ਤ ਗਾਈਡਾਂ ਅਤੇ ਹਵਾਲਿਆਂ ਨਾਲ ਵੈੱਬ ਡਿਵੈਲਪੈਂਟਾਂ ਨੂੰ ਸਿੱਖੋ।
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = ਤੇਜ਼ ਤਰਾਰ ਐਪ ਵਿੱਚ ਆਪਣੇ ਈਮੇਲ, ਕੈਲੰਡਰ ਅਤੇ ਸੰਪਰਕਾਂ ਲਈ ਪਹੁੰਚ ਰੱਖੋ।
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = ਆਪਣੀ ਵੈੱਬਸਾਈਟ ਫ਼ੌਰਨ ਬਣਾਓ ਅਤੇ ਆਪਣੀ ਖੁਦ ਦੀ ਡੋਮੇਨ ਨਾਲ ਮੁਫ਼ਤ ਵਿੱਚ ਕਨੈਕਟ ਕਰੋ।
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = { -vendor-short-name } ਨਵੇਂ ਉਤਪਾਦ
     .description = ਸਾਡੇ ਨਵੇਂ ਵਿਚਾਰਾਂ ਅਤੇ ਤਜਰਬੇ ਅਧੀਨ ਤਕਨੀਕਾਂ ਦੀ ਛਾਣਬੀਣ ਕਰੋ।
+    .label = { -vendor-short-name } ਨਵੇਂ ਉਤਪਾਦ
 more-from-moz-mozilla-monitor-box-link =
     .label = { -monitor-brand-short-name } ਲਵੋ
 more-from-moz-mozilla-vpn-box-link =

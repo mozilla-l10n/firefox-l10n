@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = save about:webrtc as
 about-webrtc-aec-logging-msg-label = AEC Logging
 about-webrtc-aec-logging-off-state-label = Start AEC Logging
 about-webrtc-aec-logging-on-state-label = Stop AEC Logging
-about-webrtc-aec-logging-on-state-msg = AEC logging active (speak with the caller for a few minutes and then stop the capture)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC logging active (speak with the caller for a few minutes and then stop the capture)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -81,17 +80,9 @@ about-webrtc-nominated = Nominated
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Selected
 about-webrtc-save-page-label = Save Page
-about-webrtc-debug-mode-msg-label = Debug Mode
-about-webrtc-debug-mode-off-state-label = Start Debug Mode
-about-webrtc-debug-mode-on-state-label = Stop Debug Mode
-about-webrtc-stats-heading = Session Statistics
 about-webrtc-stats-clear = Clear History
 about-webrtc-log-heading = Connection Log
 about-webrtc-log-clear = Clear Log
-about-webrtc-log-show-msg = show log
-    .title = click to expand this section
-about-webrtc-log-hide-msg = hide log
-    .title = click to collapse this section
 about-webrtc-log-section-show-msg = Show log
     .title = Click to expand this section
 about-webrtc-log-section-hide-msg = Hide log
@@ -114,19 +105,11 @@ about-webrtc-remote-candidate = Remote Candidate
 about-webrtc-raw-candidates-heading = All Raw Candidates
 about-webrtc-raw-local-candidate = Raw Local Candidate
 about-webrtc-raw-remote-candidate = Raw Remote Candidate
-about-webrtc-raw-cand-show-msg = show raw candidates
-    .title = click to expand this section
-about-webrtc-raw-cand-hide-msg = hide raw candidates
-    .title = click to collapse this section
 about-webrtc-raw-cand-section-show-msg = Show raw candidates
     .title = Click to expand this section
 about-webrtc-raw-cand-section-hide-msg = Hide raw candidates
     .title = Click to collapse this section
 about-webrtc-priority = Priority
-about-webrtc-fold-show-msg = show details
-    .title = click to expand this section
-about-webrtc-fold-hide-msg = hide details
-    .title = click to collapse this section
 about-webrtc-fold-default-show-msg = Show details
     .title = Click to expand this section
 about-webrtc-fold-default-hide-msg = Hide details
@@ -161,8 +144,6 @@ about-webrtc-configuration-element-provided = Provided
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Not Provided
-# The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = User Set WebRTC Preferences
 
 ##
 
@@ -186,13 +167,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Video Frame Statistics - MediaStreamTrack ID: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = page saved to: { $path }
-about-webrtc-debug-mode-off-state-msg = trace log can be found at: { $path }
-about-webrtc-debug-mode-on-state-msg = debug mode active, trace log at: { $path }
-about-webrtc-aec-logging-off-state-msg = captured log files can be found in: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

@@ -5,9 +5,6 @@
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message = သင့်တွင် မပေးပို့ရသေးသော ပျက်စီးမှုအစီရင်ခံစာ { $reportCount } စောင် ရှိသည်။
 pending-crash-reports-view-all =
     .label = ကြည့်ရန်
 pending-crash-reports-send =

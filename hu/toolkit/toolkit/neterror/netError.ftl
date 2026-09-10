@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Ugrás vissza
 neterror-return-to-previous-page-recommended-button = Visszalépés (ajánlott)
 neterror-try-again-button-2 = Próbálja újra
     .accesskey = P
-neterror-try-again-button = Próbálja újra
 neterror-add-exception-button = Folytatás mindig ezen az oldalon
 neterror-settings-button = DNS beállítások módosítása
 neterror-view-certificate-link = Tanúsítvány megtekintése
-neterror-trr-continue-this-time = Most folytassa
-neterror-disable-native-feedback-warning = Folytatás mindig
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = További tudnivalók
 ##
 
 neterror-pref-reset = Úgy tűnik, ezt a hálózat biztonsági beállításai okozhatják. Szeretné helyreállítani az alapbeállításokat?
-neterror-error-reporting-automatic = Az ilyen hibák jelentése segít a { -vendor-short-name(ending: "accented") }nak a rosszindulatú oldalak azonosításában és blokkolásában
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Bontsa a kapcsolatot, majd kapcs
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = A { -brand-short-name } nem tudja megvédeni a webhely címére vonatkozó kérését a megbízható DNS-feloldónkon keresztül. Ennek ez az oka:
 neterror-dns-not-found-trr-only-reason2 = A { -brand-short-name } nem tudja megvédeni a webhely címére vonatkozó kérését a biztonságos DNS-szolgáltatónkon keresztül. Ennek ez az oka:
 neterror-dns-not-found-trr-third-party-warning2 = Folytathatja az alapértelmezett DNS-feloldóval. Előfordulhat azonban, hogy egy harmadik fél láthatja, hogy milyen webhelyeket keres fel.
 neterror-dns-not-found-trr-only-could-not-connect = A { -brand-short-name } nem tudott csatlakozni a következő domainhoz: { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = A következőhöz kapcsolódás a vártnál tovább tartott: { $trrDomain }.
-neterror-dns-not-found-trr-offline = Nem csatlakozik az internethez.
 neterror-dns-not-found-trr-unknown-host2 = Ezt a webhelyet nem találta meg a(z) { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Probléma lépett fel a következő domainen: { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = Érvénytelen webcím.
 neterror-dns-not-found-system-sleep = A rendszer alvó módban van.
 neterror-dns-not-found-trr-unknown-problem = Váratlan probléma.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = A { -brand-short-name } nem tudja megvédeni a webhely címére vonatkozó kérését a megbízható DNS-feloldónkon keresztül. Ennek ez az oka:
-neterror-dns-not-found-native-fallback-heuristic = A HTTP-n keresztüli DNS le van tiltva a hálózatán.
-neterror-dns-not-found-native-fallback-not-confirmed2 = A { -brand-short-name } nem tudott csatlakozni a következő domainhoz: { $trrDomain }.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = Lehet hogy törölve lett, át lett helyezve, vagy a f�
 neterror-unknown-protocol = Lehet, hogy egyéb szoftvert kell telepítenie a cím megnyitásához.
 neterror-redirect-loop = Ez a probléma néha a letiltott vagy visszautasított sütik miatt jelentkezik.
 neterror-unknown-socket-type-client-config = Ezt a kliens konfigurációs hibája okozhatja.
-neterror-unknown-socket-type-psm-installed = Ellenőrizze, hogy a rendszerre telepítve van-e a Personal Security Manager modul.
-neterror-unknown-socket-type-server-config = A hibát okozhatja a kiszolgáló nem szabványos beállítása is.
 neterror-not-cached-intro = A kért dokumentum nem érhető el a { -brand-short-name } gyorsítótárában.
 neterror-not-cached-sensitive = Biztonsági okokból a { -brand-short-name } nem kéri le automatikusan az érzékeny adatokat tartalmazó dokumentumokat.
 neterror-not-cached-try-again = Kattintson a „Próbálja újra” gombra, hogy újra lekérje a dokumentumot a webhelyről.

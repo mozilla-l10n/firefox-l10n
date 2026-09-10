@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Postavke spajanja
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Postavke spajanja
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Učitaj ponovo
     .accesskey = a
-connection-proxy-autologin =
-    .label = Ne pitaj za prijavu ako je lozinka spremljena
-    .accesskey = i
-    .tooltip = Ova mogućnost vas neprimjetno prijavljuje na proxije kada imate spremljene njihove lozinke. Ako prijava ne uspije, bit ćete obaviješteni.
 connection-proxy-autologin-checkbox =
     .label = Ne pitaj za prijavu ako je lozinka spremljena
-    .accesskey = i
     .tooltiptext = Ova mogućnost vas neprimjetno prijavljuje na proxije kada imate spremljene njihove lozinke. Ako prijava ne uspije, bit ćete obaviješteni.
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = Proxy DNS kada se koristi SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Koristi standardni URL za rješavanje DNS-a preko HTTPS-a
 connection-dns-over-https-url-custom =
     .label = Prilagođeno
-    .accesskey = o
     .tooltiptext = Unesite vaš preferirani URL za rješavanje DNS preko HTTPS
-connection-dns-over-https-custom-label = Prilagođeno
+    .accesskey = o

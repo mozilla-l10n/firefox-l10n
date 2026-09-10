@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Jauna cilne
-newtab-settings-button =
-    .title = Īstateit sovu jaunas cilnes lopu
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -52,7 +50,6 @@ newtab-search-box-search-button =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = Davīnōt mekleitōji
-newtab-topsites-edit-topsites-header = Maineit lopu topā
 newtab-topsites-title-label = Viersroksts
 newtab-topsites-title-input =
     .placeholder = Īvodi viersrokstu
@@ -91,10 +88,6 @@ newtab-menu-section-tooltip =
 newtab-menu-content-tooltip =
     .aria-label = Attaiseit izvielni deļ { $title }
     .title = Attaiseit izvielni
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Maineit lopu
-    .title = Maineit lopu
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -105,9 +98,6 @@ newtab-menu-dismiss = Paslēpt
 newtab-menu-pin = Daspraust
 newtab-menu-unpin = Atbreivōt
 newtab-menu-delete-history = Nūteireit nu viestures
-newtab-menu-save-to-pocket = Saglobōt { -pocket-brand-name }
-newtab-menu-delete-pocket = Dzēst nu { -pocket-brand-name }
-newtab-menu-archive-pocket = Arhivēt { -pocket-brand-name }
 
 ##
 
@@ -148,38 +138,15 @@ newtab-label-download = Nūlōdeits
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Aizvōkt sadaļu
-newtab-section-menu-collapse-section = Sakļaut sadaļu
-newtab-section-menu-expand-section = Izstīpt sadaļu
-newtab-section-menu-manage-section = Porvaldēt sadaļu
-newtab-section-menu-manage-webext = Porvaldēt paplašinōjumu
-newtab-section-menu-add-topsite = Jauna lopa topā
-newtab-section-menu-add-search-engine = Davīnōt mekleitōji
-newtab-section-menu-move-up = Porvītōt iz augšu
-newtab-section-menu-move-down = Porvītōt iz zamušku
 newtab-section-menu-privacy-notice = Privatuma pīzeime
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Sakļaut sadaļu
-newtab-section-expand-section-label =
-    .aria-label = Izstīpt sadaļu
 
 ## Section Headers.
 
 newtab-section-header-topsites = Popularōkōs lopys
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } īsaceitōs
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Sōc porlyukōšonu un mes tev parōdēsim dažus breineigus rokstus, video un cytys lopys, kuras tu naseņ esi skatiejs voi davīnōjs grōmotzeimem.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Esi vysu izlasiejs. Īej vāļōk, kab redzēt vaira ziņu nu { $provider }. Nagribi gaidēt? Izavielej popularu tēmu, kab atrostu vaira interesantu rokstu nu vysa interneta.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -189,14 +156,6 @@ newtab-discovery-empty-section-topstories-try-again-button = Raugi vēļreiz
 newtab-discovery-empty-section-topstories-loading = Īlōdej…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Malns! Mes gondreiž īlōdēm itū sadaļu, bet na da gola.
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Popularas tēmas:
-newtab-pocket-more-recommendations = Vaira īsacejumu
-newtab-pocket-cta-button = Paraugi { -pocket-brand-name }
-newtab-pocket-cta-text = Sagloboj interesantus stōstus { -pocket-brand-name } un paboroj sovu prōtu ar interesantu losamvīlu.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

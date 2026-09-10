@@ -188,8 +188,6 @@ options-disable-http-cache-tooltip =
     .title = Bu seçeneği açarsanız araç kutusunun açık olduğu tüm sekmelerde HTTP önbelleği devre dışı kalacaktır. Bu seçenek Service Worker’ları etkilemez.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label-2 = JavaScript’i devre dışı bırak
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = JavaScript’i devre dışı bırak *
 options-disable-javascript-tooltip =
     .title = Bu seçeneği açarsanız geçerli sekmede JavaScript devre dışı bırakılır. Sekme veya araç kutusu kapatılırsa bu ayar unutulacaktır.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -219,8 +217,6 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = (Yalnızca bu oturumda geçerli. Sayfayı yeniden yükler.)
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Yalnızca bu oturumda geçerli, sayfayı yeniden yükler
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (sayfayı tazeler)

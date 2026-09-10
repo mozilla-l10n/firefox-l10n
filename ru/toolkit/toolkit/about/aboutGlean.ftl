@@ -51,7 +51,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     Для получения описания различных способов записи и поиска данных, пожалуйста, обратитесь к
     вкладке <strong>О данных</strong>.
-about-glean-about-testing-header = О тестировании
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     Полные инструкции задокументированы в
@@ -60,8 +59,6 @@ about-glean-manual-testing =
     но, вкратце, чтобы вручную проверить работу вашего инструментария, вы должны:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (не отправлять никаких пингов)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = В предыдущем поле убедитесь, что установлен запоминающийся тег отладки, чтобы вы смогли позже распознать свои пинги.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Установите запоминающийся тег отладки <span>(не более 20 символов, только буквенно-цифровые и -)</span>, чтобы вы могли распознавать свои пинги позже.
 # An in-line drop down list precedes this string.
@@ -87,13 +84,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Посетите страницу { glean-debug-ping-viewer-brand-name } для работы с пингами с вашим тегом</a>.
     От нажатия кнопки до получения пинга должно пройти не более нескольких секунд.
     Иногда это может занять несколько минут.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    Для дополнительных <i>ad hoc</i> тестов
-    вы также можете определить текущее значение конкретного инструмента
-    открыв консоль devtools здесь, на <code>about:glean</code>
-    и используя API <code>testGetValue()</code>, например,
-    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     Чтобы узнать больше о <i>специальном</i> тестировании,
@@ -198,9 +188,6 @@ about-glean-no-data-to-display = Нет данных для отображени
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Метрики <code>DualLabeledCounter</code> пока не поддерживаются во вкладке <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Неизвестный тип метрики.
-about-glean-about-data-explanation =
-    Чтобы просмотреть список собранных данных, обратитесь к
-    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Словарю</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

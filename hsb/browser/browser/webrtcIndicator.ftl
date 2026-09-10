@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - dźělenski pokazowak
-webrtc-indicator-window =
-    .title = { -brand-short-name } - dźělenski pokazowak
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Dźěliće swóju mikrofon. Klikńće, zo byšće dźělenje wodźił.
 webrtc-screen-system-menu =
     .label = Dźěliće wokno abo wobrazowku. Klikńće, zo byšće dźělenje wodźił.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Waša kamera a waš mikrofon so dźěletej. Klikńće, zo byšće dźělenje wodźił.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Waša kamera so dźěli. Klikńće, zo byšće dźělenje wodźił.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Waš mikrofon so dźěli. Klikńće, zo byšće dźělenje wodźił.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Nałoženje so dźěli. Klikńće, zo byšće dźělenje kontrolował.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Waša wobrazowka so dźěli. Klikńće, zo byšće dźělenje wodźił.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Wokno so dźěli. Klikńće, zo byšće dźělenje wodźił.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Rajtark so dźěli. Klikńće, zo byšće dźělenje wodźił.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -197,7 +178,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Chceće { $origi
 
 webrtc-share-screen-warning = Dźělće jenož wobrazowki ze sydłami, kotrymž dowěriće. Dźělenje móže wobšudnym sydłam zmóžnić, jako wy přehladować a waše priwatne daty kradnyć.
 webrtc-share-browser-warning = Dźělće { -brand-short-name } jenož ze sydłami, kotrymž dowěriće. Dźělenje móže wobšudnym sydłam zmóžnić, jako wy přehladować a waše priwatne daty kradnyć.
-webrtc-share-screen-learn-more = Dalše informacije
 webrtc-pick-window-or-screen = Wubjerće wokno abo wobrazowku
 webrtc-share-entire-screen = Cyła wobrazowka
 webrtc-share-pipe-wire-portal = Nastajenja dźěłoweho systema wužiwać

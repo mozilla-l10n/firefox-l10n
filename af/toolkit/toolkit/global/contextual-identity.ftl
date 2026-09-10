@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Geen konteks
-    .accesskey = n
 user-context-personal-panel-item = Persoonlik
     .accesskey = P
 user-context-work-panel-item = Werk

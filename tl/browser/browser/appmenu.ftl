@@ -27,8 +27,6 @@ appmenuitem-downloads =
     .label = Mga Download
 appmenuitem-passwords =
     .label = Mga Password
-appmenuitem-addons-and-themes =
-    .label = Mga Add-on at Tema
 appmenuitem-print =
     .label = I-print…
 appmenuitem-find-in-page =
@@ -93,7 +91,6 @@ appmenu-remote-tabs-unverified = Ang iyong account ay kailangang ma-verify.
 appmenuitem-fxa-toolbar-sync-now2 = I-sync ngayon
 appmenuitem-fxa-sign-in = Mag-sign in sa { -brand-product-name }
 appmenuitem-fxa-manage-account = Pamahalaan ang account
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Account
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -106,15 +103,6 @@ appmenu-fxa-setup-sync =
     .label = Buksan ang Pag-sync…
 appmenuitem-save-page =
     .label = i-Save ang Pahina Bilang…
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Ano ang Bago
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Mag-abiso tungkol sa mga bagong feature
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -203,8 +191,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Karagdagang impormasyon sa pag-troubleshoot
     .accesskey = t
-appmenu-help-report-site-issue =
-    .label = Mag-report ng Site Issue…
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -243,4 +229,3 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = I-mask ang iyong tunay na email at telepono
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description = Protektahan ang iyong online na aktibidad

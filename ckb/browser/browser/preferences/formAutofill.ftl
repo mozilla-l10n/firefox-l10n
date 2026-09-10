@@ -16,9 +16,6 @@ autofill-manage-edit-button = دەستکاریکردن...
 ## autofill feature. For more information on the address structure (e.g. levels),
 ## see also https://developers.google.com/maps/documentation/javascript/geocoding
 
-autofill-address-given-name = ناوی یەکەم
-autofill-address-additional-name = ناوی باوک
-autofill-address-family-name = ناوی باپیر
 autofill-address-organization = ڕێکخراو
 autofill-address-street = ناونیشانی گەڕەک
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
@@ -44,10 +41,3 @@ autofill-address-email = پۆستی ئەلکترۆنی
 autofill-cancel-button = پاشگەزبوونەوە
 autofill-save-button = پاشەکەوتکردن
 autofill-card-network = جۆری کارت
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-visa = ڤیزا

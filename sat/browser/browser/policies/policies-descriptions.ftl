@@ -41,7 +41,6 @@ policy-DisableDefaultBrowserAgent = ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱫᱚ �
 policy-DisableDeveloperTools = ᱰᱮᱵᱷᱞᱚᱯᱚᱨ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱨᱮ ᱟᱫᱮᱨ ᱟᱠᱚᱴ ᱢᱮ ᱾
 policy-DisableEncryptedClientHello = TLS ᱯᱷᱤᱪᱟᱨ ᱮᱱᱠᱨᱤᱯᱴᱮᱰ ᱠᱞᱟᱭᱮᱱᱴ ᱦᱮᱞᱳ (ECH) ᱨᱮᱭᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
 policy-DisableFeedbackCommands = ᱜᱚᱲᱚ ᱢᱮᱱᱩ ᱠᱷᱚᱱ ᱯᱷᱤᱰᱵᱮᱠ ᱵᱷᱮᱡᱟ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱟᱫᱮᱥ ᱵᱚᱸᱫ ᱢᱮ  (ᱯᱷᱤᱰᱵᱮᱠ ᱯᱟᱨᱥᱚᱞ ᱟᱨ ᱮᱲᱮ ᱥᱟᱭᱤᱴ ᱠᱷᱚᱵᱚᱨ ᱢᱮ) ᱾
-policy-DisableFirefoxAccounts = { -fxaccount-brand-name } ᱡᱩᱲᱟᱹᱣ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱵᱚᱸᱫᱚᱭ ᱢᱮ, ᱥᱤᱝᱠ ᱥᱟᱶᱛᱮ ᱾
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = ᱥᱤᱝᱠ ᱥᱟᱶᱛᱮ ᱠᱷᱟᱛᱟ ᱥᱮᱵᱟ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -51,7 +50,6 @@ policy-DisableForgetButton = ᱦᱤᱲᱤᱧ ᱵᱩᱛᱟᱹᱢ ᱨᱮ ᱟᱫᱮ
 policy-DisableFormHistory = ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱯᱷᱚᱨᱢ ᱦᱤᱛᱟᱹᱞ ᱩᱭᱦᱟᱹᱨ ᱟᱞᱚᱫᱚᱦᱚᱭᱟᱢ ᱾
 policy-DisablePrimaryPasswordCreation = ᱡᱩᱫᱤ ᱥᱟᱹᱨᱤ ᱠᱷᱟᱱ, ᱢᱤᱫᱴᱟᱝ ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱫᱚ ᱛᱮᱭᱟᱨ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ ᱾
 policy-DisablePasswordReveal = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱦᱚᱨ ᱨᱮ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ ᱟᱞᱚ ᱫᱮᱠᱷᱟᱣ ᱪᱷᱚᱭᱟ ᱾
-policy-DisablePocket2 = { -pocket-brand-name } ᱨᱮ ᱣᱮᱵᱽᱥᱟᱦᱴᱟᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱯᱷᱤᱪᱚᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
 policy-DisablePrivateBrowsing = ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱵᱚᱱᱫ ᱠᱟᱜ ᱢᱮ ᱾
 policy-DisableProfileImport = ᱮᱴᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱷᱚᱱ ᱰᱟᱴᱟ ᱟᱹᱜᱩ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱢᱮᱱᱩ ᱠᱚᱢᱟᱱᱰ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
 policy-DisableProfileRefresh = about:support ᱥᱟᱦᱴᱟ ᱨᱮ ᱱᱟᱶᱟ { -brand-short-name } ᱟᱹᱨᱩ ᱵᱩᱛᱟᱹᱢ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
@@ -117,7 +115,6 @@ policy-PostQuantumKeyAgreementEnabled = TLS ᱞᱟᱹᱜᱤᱫ ᱯᱚᱥᱴ-ᱠ�
 policy-PDFjs = PDF.js ᱵᱚᱸᱫᱚᱭ ᱥᱮ ᱥᱮᱴ ᱢᱮ, { -brand-short-name } ᱨᱮ PDF ᱫᱮᱠᱷᱟᱣᱤᱭᱟᱹ ᱛᱮᱭᱟᱨ ᱢᱮᱱᱟᱜᱼᱟ ᱾
 policy-Permissions2 = ᱠᱮᱢᱮᱨᱟ, ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ, ᱡᱟᱭᱜᱟ, ᱠᱷᱚᱵᱚᱨ ᱟᱨ ᱚᱴᱚᱯᱞᱮ ᱞᱟᱹᱜᱤᱫ ᱪᱷᱟᱰᱠᱚ ᱥᱮᱴ ᱢᱮ ᱾
 policy-PictureInPicture = ᱪᱤᱛᱟᱹᱨᱼᱨᱮᱼᱪᱤᱛᱟᱹᱨ ᱮᱢ ᱥᱮ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
-policy-PopupBlocking = ᱢᱩᱞ ᱞᱮᱠᱟᱛᱮ ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ ᱫᱮᱠᱷᱟᱣ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱾
 policy-Preferences = ᱠᱩᱥᱤᱭᱟᱜ ᱢᱤᱫ ᱥᱚᱵᱥᱮᱴ ᱥᱟᱹᱜᱤᱫ ᱮᱞ ᱥᱮᱴ ᱥᱮ ᱠᱩᱞᱩᱯ ᱠᱟᱜ ᱢᱮ ᱾
 policy-PrivateBrowsingModeAvailability = ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ ᱢᱳᱰ ᱨᱮᱭᱟᱜ ᱢᱮᱱᱟᱜ ᱛᱟᱦᱮᱱ ᱥᱮᱴ ᱢᱮ ᱾
 policy-PromptForDownloadLocation = ᱰᱟᱣᱱᱞᱚᱰ ᱡᱷᱚᱜ ᱚᱠᱟᱨᱮ ᱨᱮᱫᱽ ᱥᱟᱺᱪᱟᱣᱜᱼᱟ ᱠᱩᱠᱞᱤ ᱢᱮ ᱾

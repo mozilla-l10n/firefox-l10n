@@ -13,12 +13,6 @@ protections-popup-footer-protection-label-custom = سفارشی
 protections-popup-footer-protection-label-standard = استاندارد
     .label = استاندارد
 
-##
-
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = وبگه کار نؽکونه؟
-
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
@@ -50,39 +44,12 @@ protections-panel-smartblock-blocking-toggle =
 ##
 
 protections-panel-settings-label = سامووا زفت کردنی
-
-## In the Site Not Working? view, we suggest turning off protections if
-## the user is experiencing issues with any of a variety of functionality.
-
-# The list items, shown in a <ul>
-protections-panel-site-not-working-view-issue-list-login-fields = فیلدا و من ٱووڌن
-protections-panel-site-not-working-view-issue-list-forms = فورما
-protections-panel-site-not-working-view-issue-list-payments = پرداختا مالی
-protections-panel-site-not-working-view-issue-list-videos = فیلما
-protections-panel-site-not-working-view-issue-list-fonts = قلما
-protections-panel-site-not-working-view-send-report = فشناڌن گوزارش
-
-##
-
 protections-panel-description-shim-allowed-learn-more = قلوه دووسته بۊین
-protections-panel-content-blocking-breakage-report-view =
-    .title = گوزارش ی وبگه خراو
-protections-panel-content-blocking-breakage-report-view-collection-url = نشۊوی اینترنتی
-protections-panel-content-blocking-breakage-report-view-collection-url-label =
-    .aria-label = نشۊوی اینترنتی
-protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = لقو
-
-# Cookie Banner Handling
-
 protections-panel-cookie-banner-blocker-header = مسدۊد کوݩ بنر کۊکی
 protections-panel-cookie-banner-handling-enabled = رۊشن سی ای وبگه
 protections-panel-cookie-banner-handling-disabled = کۊر سی ای وبگه
 protections-panel-cookie-banner-blocker-view-title =
     .title = مسدۊد کوݩ بنر کۊکی
-protections-panel-cookie-banner-view-cancel = لقو
-protections-panel-cookie-banner-view-turn-off = کۊر کردن
-protections-panel-cookie-banner-view-turn-on = رۊشن کردن
 protections-panel-cookie-banner-view-cancel-label =
     .label = لقو
 protections-panel-cookie-banner-view-turn-off-label =

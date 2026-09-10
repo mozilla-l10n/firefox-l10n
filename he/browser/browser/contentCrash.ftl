@@ -18,13 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] קיים דיווח קריסה אחד שלא נשלח
-       *[other] קיימים { $reportCount } דיווחי קריסה שלא נשלחו
-    }
 pending-crash-reports-view-all =
     .label = הצגה
 pending-crash-reports-send =
@@ -37,13 +30,6 @@ requested-crash-reports-message-new =
     { $reportCount ->
         [one] יש לך דיווח קריסה שלא נשלח הקשור לקריסות הנמצאות בתהליכי חקירה, שליחת הדיווח תסייע לנו לשפר את { -brand-product-name }. סגירת התרעה זו תתעלם מדיווח זה.
        *[other] יש לך { $reportCount } דיווחי קריסה שלא נשלחו הקשורות לקריסות הנמצאות בתהליכי חקירה, שליחת הדיווחים תסייע לנו לשפר את { -brand-product-name }. סגירת התרעה זו תתעלם מדיווחים אלו.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] יש לך דיווח קריסה אחד שלא נשלח שתואם לקריסות שנחקרות, שליחת הדיווח תסייע לנו לשפר את { -brand-product-name }. סגירת התרעה זו תתעלם מדיווח זה.
-       *[other] יש לך { $reportCount } דיווחי קריסה שלא נשלחו שתואמים לקריסות שנחקרות, שליחת הדיווחים תסייע לנו לשפר את { -brand-product-name }. סגירת התרעה זו תתעלם מדיווחים אלו.
     }
 requested-crash-reports-dont-show-again =
     .label = לא להציג שוב

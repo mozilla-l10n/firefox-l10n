@@ -23,13 +23,11 @@ neterror-override-exception-button = Akceptuj ryzyko i idź dalij
 neterror-pref-reset-button = Wrōć bazowe nasztalowania
 neterror-return-to-previous-page-button = Nazod
 neterror-return-to-previous-page-recommended-button = Nazod (Doradzane)
-neterror-try-again-button = Sprōbuj jeszcze roz
 neterror-view-certificate-link = Pokoż certyfikat
 
 ##
 
 neterror-pref-reset = Zdo sie, co może to być skuli nasztalowań bezpieczyństwa twojigo neca. Wrōcić bazowe nasztalowania?
-neterror-error-reporting-automatic = Zgłoszej take felery, żeby pōmōc ôrganizacyji { -vendor-short-name } poznować i szperować złośliwe strōny
 
 ## Specific error messages
 
@@ -53,8 +51,6 @@ neterror-file-not-found-moved = Badnij, jeźli zbiōr niy bōł wrażony kaj ind
 neterror-access-denied = Bōł skasowany, przeniysiōny, abo niy ma ku nimu dostympu skuli nasztalowanych przizwōlyń.
 neterror-unknown-protocol = Możno bydzie trza zainsztalować inksze programy, coby ôdewrzić ta adresa.
 neterror-redirect-loop = Niykedy tyn problym pokazuje sie skuli zastawiynio abo ôdkozanio zgody na cookies.
-neterror-unknown-socket-type-psm-installed = Badnij, jeźli tyn systym mo zainsztalowane Personal Security Manager.
-neterror-unknown-socket-type-server-config = Problym może sie pokazować skuli niysztandardowyj kōnfiguracyje serwera.
 neterror-not-cached-intro = Proszōny dokumynt niy ma dostympny w podryncznyj pamiyńci aplikacyje { -brand-short-name }.
 neterror-not-cached-sensitive = Skuli bezpieczynstwa { -brand-short-name } autōmatycznie  niy pobiyro zaś prywatnych dokumyntōw.
 neterror-not-cached-try-again = Kliknij "Sprōbuj jeszcze roz", coby jeszcze roz pobrać dokumynt ze strōny.

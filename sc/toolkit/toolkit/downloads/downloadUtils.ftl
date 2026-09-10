@@ -92,11 +92,5 @@ download-utils-time-left-single = { $time } a s'agabbu
 download-utils-time-left-double = { $time1 } { $time2 } a s'agabbu
 download-utils-time-few-seconds = Pagu segundos a s'agabbu
 download-utils-time-unknown = Tempus disconnotu a s'agabbu
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = Resursa { $scheme }
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = archìviu locale
 # Displayed time for files finished yesterday
 download-utils-yesterday = Erisero

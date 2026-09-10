@@ -23,13 +23,11 @@ neterror-override-exception-button = Acceptar lo risgo y continar
 neterror-pref-reset-button = Restaurar los achustes por defecto
 neterror-return-to-previous-page-button = Ir enta zaga
 neterror-return-to-previous-page-recommended-button = Tornar enta zaga (recomendau)
-neterror-try-again-button = Torna-lo a probar
 neterror-view-certificate-link = Amostrar lo certificau
 
 ##
 
 neterror-pref-reset = Pareix que los suyos achustes de seguranza de ret sigan la causa d'isto. Quiere restaurar los achustes por defecto?
-neterror-error-reporting-automatic = Informa d'errors como iste pa aduyar a { -vendor-short-name } a identificar y blocar puestos dolents.
 
 ## Specific error messages
 
@@ -46,8 +44,6 @@ neterror-file-not-found-moved = Comprebe si o fichero s'ha tresladau, renombrau 
 neterror-access-denied = Talment s'haiga borrau, moviu u l'acceso ye vedau por los permisos d'o fichero.
 neterror-unknown-protocol = Podría estar que calese instalar unatro software ta ubrir l'adreza.
 neterror-redirect-loop = Ixo podría pasar en haber desactivau u refusau l'acceptación de cookies.
-neterror-unknown-socket-type-psm-installed = Asegure-se de que o suyo sistema tiene un chestor de seguranza personal instalau.
-neterror-unknown-socket-type-server-config = Puestar se tracte de una configuración no estandar en o servidor.
 neterror-not-cached-intro = Lo documento requiesto ya no ye disponible en a memoria caché d'o { -brand-short-name }.
 neterror-not-cached-sensitive = Por precaución de seguranza, lo { -brand-short-name } no tornará a demandar automaticament documentos sensible.
 neterror-not-cached-try-again = Faga clic en Tornar-lo a intentar pa solicitar lo documento a lo puesto web.

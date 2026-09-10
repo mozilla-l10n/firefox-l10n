@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Sertifikat tidak dapat dipercaya karena sert
 cert-error-trust-signature-algorithm-disabled = Sertifikat tidak dapat dipercaya karena ditandatangani menggunakan algoritma tanda tangan yang dinonaktifkan dengan alasan algoritmanya tidak aman.
 cert-error-trust-expired-issuer = Sertifikat tidak dapat dipercaya karena sertifikat penerbit telah kedaluwarsa.
 cert-error-trust-self-signed = Sertifikat tidak dapat dipercaya karena hanya ditandatangani sendiri.
-cert-error-trust-symantec = Sertifikat yang diterbitkan oleh GeoTrust, RapidSSL, Symantec, Thawte, dan VeriSign tidak lagi dianggap aman karena dahulu pewenang sertifikat tersebut gagal mematuhi praktik keamanan.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } tidak mempercayai { $hostname } karena tidak dapat membuktikan bahwa itu memenuhi persyaratan transparansi sertifikat publik.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Kode kesalahan: <a data-l10n-name="error-code-link
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Terjadi kesalahan ketika menyambungkan ke { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Situs web membuktikan identitas mereka melalui sertifikat, yang diterbitkan oleh pewenang otoritas. Sebagian besar peramban tidak lagi memercayai sertifikat yang diterbitkan oleh GeoTrust, RapidSSL, Symantec, Thawte, dan VeriSign. { $hostname } menggunakan sertifikat dari salah satu pewenang ini sehingga identitas situs web tidak dapat dibuktikan.
-cert-error-symantec-distrust-admin = Anda mungkin dapat memberitahu administrator situs web tentang masalah ini.
 cert-error-old-tls-version = Situs web ini mungkin tidak mendukung protokol TLS 1.2, yang merupakan versi minimum yang didukung oleh { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Rangkaian sertifikat:
-open-in-new-window-for-csp-or-xfo-error = Buka Situs di Jendela Baru
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Untuk melindungi keamanan Anda, { $hostname } tidak akan mengizinkan { -brand-short-name } untuk menampilkan laman jika situs lain telah menyematkannya. Untuk melihat laman ini, Anda harus membukanya di jendela baru.
 fp-certerror-view-certificate-link = Lihat sertifikat situs
 fp-certerror-return-to-previous-page-recommended-button-2 = Kembali (Disarankan)
     .accesskey = b
-fp-certerror-return-to-previous-page-recommended-button = Kembali (Disarankan)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -147,8 +140,6 @@ deniedPortAccess-title = Penggunaan alamat ini dibatasi
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Kami kesulitan menemukan situsnya.
 internet-connection-offline-title = Sepertinya ada masalah dengan koneksi internet Anda.
-dns-not-found-trr-only-title2 = Kemungkinan risiko keamanan mencari domain ini
-dns-not-found-native-fallback-title2 = Kemungkinan risiko keamanan mencari domain ini
 fileNotFound-title = Berkas tidak ditemukan
 fileAccessDenied-title = Akses terhadap berkas ditolak
 generic-title = Ups.
@@ -173,7 +164,6 @@ unknownSocketType-title = Jawaban yang tidak diharapkan dari server
 nssFailure2-title = Sambungan Aman Gagal
 csp-xfo-error-title = { -brand-short-name } Tidak Dapat Membuka Laman Ini
 corruptedContentErrorv2-title = Galat Konten Rusak
-corruptedContentError-title = Galat Konten Rusak
 sslv3Used-title = Gagal Tersambung dengan Aman
 inadequateSecurityError-title = Sambungan Anda tidak aman
 blockedByPolicy-title = Laman Diblokir
@@ -196,7 +186,6 @@ fp-certerror-hide-advanced-button = Sembunyikan tingkat lanjut
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Lanjutkan ke { $hostname } (Berrisiko)
 fp-certerror-intro = { -brand-short-name } menemukan masalah keamanan yang berpotensi serius dengan <strong>{ $hostname }</strong>. Seseorang yang berpura-pura menjadi situs dapat mencoba mencuri hal-hal seperti info kartu kredit, kata sandi, atau surel.
 fp-certerror-expired-into = { -brand-short-name } menemukan masalah keamanan dengan <strong>{ $hostname }</strong>. Situs tidak diatur dengan benar atau jam perangkat Anda disetel ke tanggal/waktu yang salah.
 fp-certerror-transparency-intro = Seseorang yang berpura-pura menjadi <strong>{ $hostname }</strong> dapat mencoba mencuri hal-hal seperti info kartu kredit, sandi, atau surel.

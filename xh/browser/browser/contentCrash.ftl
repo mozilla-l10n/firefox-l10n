@@ -5,13 +5,6 @@
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Unengxelo engafakwanga yokukresha
-       *[other] Unengxelo yokukresha eyi-{ $reportCount } engafakwanga
-    }
 pending-crash-reports-view-all =
     .label = Buka
 pending-crash-reports-send =

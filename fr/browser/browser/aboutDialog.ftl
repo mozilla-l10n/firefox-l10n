@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Téléchargement de la mise à jour — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Téléchargement de la mise à jour — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Téléchargement de la mise à jour — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Application de la mise à jour…
 update-failed = La mise à jour a échoué. <label data-l10n-name="failed-link">Télécharger la dernière version</label>
 update-failed-main = La mise à jour a échoué. <a data-l10n-name="failed-link-main">Télécharger la dernière version</a>
-update-adminDisabled = Les mises à jour sont désactivées par votre administrateur système
 update-policy-disabled = Mises à jour désactivées par votre organisation
 settings-update-policy-disabled =
     .label = Mises à jour désactivées par votre organisation
@@ -72,8 +70,6 @@ helpus-referrals2 = Vous souhaitez aider ? Vous pouvez <label data-l10n-name="h
 bottomLinks-license = Informations de licence
 bottom-links-terms = Conditions d’utilisation
 bottom-links-privacy = Politique de confidentialité
-bottomLinks-rights = Droits de l’utilisateur
-bottomLinks-privacy = Politique de confidentialité
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

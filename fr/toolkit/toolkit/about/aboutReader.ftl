@@ -4,14 +4,6 @@
 
 about-reader-loading = Chargement…
 about-reader-load-error = Impossible de charger l’article à partir de la page
-about-reader-color-scheme-light = Clair
-    .title = Jeu de couleurs claires
-about-reader-color-scheme-dark = Sombre
-    .title = Jeu de couleurs sombres
-about-reader-color-scheme-sepia = Sépia
-    .title = Jeu de couleurs sépia
-about-reader-color-scheme-auto = Auto
-    .title = Jeu de couleurs automatique
 about-reader-color-light-theme = Clair
     .title = Thème clair
 about-reader-color-dark-theme = Sombre
@@ -24,16 +16,6 @@ about-reader-color-gray-theme = Gris
     .title = Thème gris
 about-reader-color-contrast-theme = Contrasté
     .title = Thème contrasté
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time =
-    { $rangePlural ->
-        [one] { $range } minute
-       *[other] { $range } minutes
-    }
 
 ## Reader View text and layout menu
 
@@ -41,14 +23,6 @@ about-reader-toolbar-minus =
     .title = Diminuer la taille de la police
 about-reader-toolbar-plus =
     .title = Augmenter la taille de la police
-about-reader-toolbar-contentwidthminus =
-    .title = Réduire la largeur du contenu
-about-reader-toolbar-contentwidthplus =
-    .title = Augmenter la largeur du contenu
-about-reader-toolbar-lineheightminus =
-    .title = Réduire la hauteur de ligne
-about-reader-toolbar-lineheightplus =
-    .title = Augmenter la hauteur de ligne
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -59,7 +33,6 @@ about-reader-font-type-monospace = Largeur fixe
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Quitter le mode lecture
-about-reader-toolbar-type-controls = Modifier la police
 about-reader-toolbar-text-layout-controls = Texte et mise en page
 about-reader-toolbar-theme-controls = Thème
 about-reader-toolbar-savetopocket = Enregistrer dans { -pocket-brand-name }

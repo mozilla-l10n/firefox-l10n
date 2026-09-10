@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Új lap
-newtab-settings-button =
-    .title = Az Új lap oldal személyre szabása
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Oldal testreszabása
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = Testreszabás
 newtab-customize-panel-label =
     .label = Testreszabás
-newtab-personalize-settings-icon-label =
-    .aria-label = Beállítások
-    .title = Új lap testreszabása
 newtab-settings-dialog-label =
     .aria-label = Beállítások
-newtab-personalize-icon-label =
-    .aria-label = Új lap testreszabása
-    .title = Új lap testreszabása
-newtab-personalize-dialog-label =
-    .aria-label = Testreszabás
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
@@ -528,7 +518,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Keresőszolgáltatás hozzáadása
 newtab-topsites-add-shortcut-header = Új gyorskereső
-newtab-topsites-edit-topsites-header = Népszerű oldal szerkesztése
 newtab-topsites-edit-shortcut-header = Gyorskereső szerkesztése
 newtab-topsites-add-shortcut-label = Indítóikon hozzáadása
 newtab-topsites-add-shortcut-title =
@@ -598,20 +587,12 @@ newtab-topsites-hover-card-dismiss =
 newtab-menu-section-tooltip =
     .aria-label = Menü megnyitása
     .title = Menü megnyitása
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Eltávolítás
-    .title = Eltávolítás
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Környezeti menü megnyitása ehhez: { $title }
     .title = Menü megnyitása
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Webhely szerkesztése
-    .title = Webhely szerkesztése
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -623,11 +604,7 @@ newtab-menu-dismiss = Elutasítás
 newtab-menu-pin = Rögzítés
 newtab-menu-unpin = Rögzítés feloldása
 newtab-menu-delete-history = Törlés az előzményekből
-newtab-menu-save-to-pocket = Mentés a { -pocket-brand-name }be
-newtab-menu-delete-pocket = Törlés a { -pocket-brand-name }ből
-newtab-menu-archive-pocket = Archiválás a { -pocket-brand-name }ben
 newtab-menu-show-privacy-info = Támogatóink és az Ön adatvédelme
-newtab-menu-about-fakespot = A { -fakespot-brand-name } névjegye
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Jelentés
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -638,27 +615,12 @@ newtab-menu-section-block = Tiltás
 newtab-menu-section-unfollow-topic = Követés megszüntetése
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = További tudnivalók
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = Téma követésének megszüntetése
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = Szponzorált tartalmak kezelése
 newtab-menu-our-sponsors-and-your-privacy = Támogatóink és az Ön adatvédelme
 newtab-menu-report-this-ad = Hirdetés jelentése
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Kész
-newtab-privacy-modal-button-manage = Szponzorált tartalom beállításainak kezelése
-newtab-privacy-modal-header = Számít az Ön adatvédelme.
-newtab-privacy-modal-paragraph-2 =
-    A magával ragadó történetek mellett, kiválasztott szponzoraink releváns,
-    válogatott tartalmait is megjelenítjük. Biztos lehet benne, hogy <strong>a böngészési adatai
-    sosem hagyják el az Ön { -brand-product-name } példányát</strong> – mi nem látjuk azokat,
-    és a szponzoraink sem.
-newtab-privacy-modal-link = Tudja meg, hogyan működik az adatvédelem az új lapon
 
 ##
 
@@ -714,31 +676,12 @@ newtab-label-sponsored-fixed = Szponzorált
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Szakasz eltávolítása
-newtab-section-menu-collapse-section = Szakasz összecsukása
-newtab-section-menu-expand-section = Szakasz lenyitása
-newtab-section-menu-manage-section = Szakasz kezelése
-newtab-section-menu-manage-webext = Kiegészítő kezelése
-newtab-section-menu-add-topsite = Hozzáadás a népszerű oldalakhoz
-newtab-section-menu-add-search-engine = Keresőszolgáltatás hozzáadása
-newtab-section-menu-move-up = Mozgatás felfelé
-newtab-section-menu-move-down = Mozgatás lefelé
 newtab-section-menu-privacy-notice = Adatvédelmi nyilatkozat
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Szakasz összecsukása
-newtab-section-expand-section-label =
-    .aria-label = Szakasz lenyitása
 
 ## Section Headers.
 
 newtab-section-header-topsites = Népszerű oldalak
 newtab-section-header-recent-activity = Legutóbbi tevékenység
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = A(z) { $provider } ajánlásával
 newtab-section-header-stories = Elgondolkodtató történetek
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = Mai kedvencek
@@ -746,10 +689,6 @@ newtab-section-header-todays-picks = Mai kedvencek
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Kezdjen el böngészni, és itt fognak megjelenni azok a nagyszerű cikkek, videók és más lapok, amelyeket nemrég meglátogatott vagy könyvjelzőzött.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Már felzárkózott. Nézzen vissza később a legújabb { $provider } hírekért. Nem tud várni? Válasszon egy népszerű témát, hogy még több sztorit találjon a weben.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = Már felzárkózott. Nézzen vissza később további történetekért. Nem tud várni? Válasszon egy népszerű témát, hogy még több sztorit találjon a weben.
 
@@ -783,39 +722,6 @@ newtab-carousel-pause =
 newtab-carousel-play =
     .aria-label = Automatikus lejátszás folytatása
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Népszerű témák:
-newtab-pocket-new-topics-title = Még több történetet szeretne? Nézze meg ezeket a népszerű témákat a { -pocket-brand-name }től.
-newtab-pocket-more-recommendations = További javaslatok
-newtab-pocket-learn-more = További tudnivalók
-newtab-pocket-cta-button = { -pocket-brand-name } beszerzése
-newtab-pocket-cta-text = Mentse az Ön által kedvelt történeteket a { -pocket-brand-name }be, és töltse fel elméjét lebilincselő olvasnivalókkal.
-newtab-pocket-pocket-firefox-family = A { -pocket-brand-name } a { -brand-product-name } család része
-newtab-pocket-save = Mentés
-newtab-pocket-saved = Mentve
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = Több hasonló
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = Nem nekem való
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = Köszönjük. Visszajelzése segít nekünk a hírforrás fejlesztésében.
-newtab-toast-dismiss-button =
-    .aria-label = Eltüntetés
-    .title = Eltüntetés
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = Fedezze fel a web legjavát
-newtab-pocket-onboarding-cta = A { -pocket-brand-name } publikációk széles választékát fedezi fel, hogy a lehető leginformatívabb, inspirálóbb és megbízhatóbb tartalmakat hozza el a { -brand-product-name } böngészőjébe.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -824,8 +730,6 @@ newtab-error-fallback-refresh-link = Az újrapróbálkozáshoz frissítse az old
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Indítóikonok
-newtab-custom-shortcuts-subtitle = Mentett vagy felkeresett webhelyek
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Mentett vagy felkeresett webhelyek
@@ -846,16 +750,6 @@ newtab-custom-row-selector2 =
             [one] { $num } sor
            *[other] { $num } sor
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } sor
-       *[other] { $num } sor
-    }
-newtab-custom-sponsored-sites = Szponzorált indítóikonok
-newtab-custom-pocket-title = A { -pocket-brand-name } által ajánlott
-newtab-custom-pocket-subtitle = Kivételes tartalmak a { -pocket-brand-name } válogatásában, amely a { -brand-product-name } család része
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = Kivételes tartalmak a { -brand-product-name } család válogatásában
@@ -867,10 +761,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = Személyre szabott történetek a tevékenysége alapján
 newtab-custom-stories-personalized-checkbox-label = Személyre szabott történetek a tevékenysége alapján
-newtab-custom-pocket-sponsored = Szponzorált történetek
-newtab-custom-pocket-show-recent-saves = Legutóbbi mentések megjelenítése
-newtab-custom-recent-title = Legutóbbi tevékenység
-newtab-custom-recent-subtitle = Válogatás a legutóbbi webhelyekből és tartalmakból
 newtab-custom-weather-toggle =
     .description = A mai előrejelzés egy pillantásra
     .label = Időjárás
@@ -902,7 +792,6 @@ newtab-widget-manage-widget-button =
 newtab-custom-close-menu-button =
     .aria-label = Menü bezárása
     .title = Bezárás
-newtab-custom-close-button = Bezárás
 newtab-custom-settings = További beállítások kezelése
 
 ## Customization Menu
@@ -951,7 +840,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = A kép túllépte a { $file_size } MB-os fájlméretkorlátot. Próbáljon meg egy kisebb fájlt feltölteni.
 newtab-wallpaper-error-upload-file-type = Nem tudtuk feltölteni a fájlt. Próbálja meg újra egy képfájllal.
-newtab-wallpaper-error-file-type = Nem tudtuk feltölteni a fájlt. Próbálja meg újra egy másik fájltípussal.
 newtab-wallpaper-light-red-panda = Vörös panda
 newtab-wallpaper-light-mountain = Fehér hegy
 newtab-wallpaper-light-sky = Ég, lila és rózsaszín felhőkkel
@@ -1095,10 +983,6 @@ newtab-wallpaper-celestial-river = Folyó műholdképe
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = Előrejelzés megtekintése itt: { $provider }
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Szponzorálva
 newtab-weather-menu-change-location = Hely módosítása
 newtab-weather-change-location-search-input-placeholder =
@@ -1125,7 +1009,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Váltás Fahrenheitre
 newtab-weather-menu-change-temperature-units-celsius = Váltás Celsiusra
-newtab-weather-menu-hide-weather = Időjárás elrejtése az Új lapon
 newtab-weather-menu-learn-more = További tudnivalók
 newtab-weather-menu-detect-my-location = Saját hely észlelése
 # This message is shown if user is working offline
@@ -1246,7 +1129,6 @@ newtab-section-unblock-topic =
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = Most nem
 newtab-section-confirm-block-topic-p1 = Biztos, hogy blokkolja ezt a témát?
 newtab-section-confirm-block-topic-p2 = A blokkolt témák többé nem fognak megjelenni a hírfolyamában.
 # Variables:

@@ -33,9 +33,6 @@ unified-extensions-item-message-manage = Керувати розширенням
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = { $extensionName } обмежено. Його використання може бути ризикованим.
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName } порушує політики Mozilla. Його використання може бути ризикованим.
 
 ## Extension's context menu
 
@@ -54,8 +51,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Деякі розширення не дозволені
-unified-extensions-mb-quarantined-domain-message = Для захисту ваших даних на цьому сайті дозволено використовувати лише деякі розширення, контрольовані { -vendor-short-name }.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Деякі розширення не дозволені
@@ -69,13 +64,6 @@ unified-extensions-mb-blocklist-warning-single2 =
     .heading = { $extensionName } вимкнено
     .message =
         Це розширення обмежено, тому його вимкнено.
-        Ви можете ввімкнути його в налаштуваннях, але це може бути ризиковано.
-# Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } вимкнено
-    .message =
-        Це розширення порушує політики Mozilla, тому його вимкнено.
         Ви можете ввімкнути його в налаштуваннях, але це може бути ризиковано.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
@@ -94,18 +82,6 @@ unified-extensions-mb-blocklist-warning-multiple2 =
     .message =
         Деякі з ваших розширень обмежено, тому їх вимкнено.
         Ви можете ввімкнути їх у налаштуваннях, але це може бути ризиковано.
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-            [one] { $extensionsCount } розширення вимкнено
-            [few] { $extensionsCount } розширення вимкнено
-           *[many] { $extensionsCount } розширень вимкнено
-        }
-    .message =
-        Деякі з ваших розширень вимкнено, оскільки вони порушують політики Mozilla.
-        Ви можете ввімкнути їх в налаштуваннях, але це може бути ризиковано.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =

@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = ເຂົ້າສູ່ລະບົບ & ລະຫັດຜ່ານ
-about-logins-login-filter =
-    .placeholder = ຄົ້ນຫາການລັອກອິນ
-    .key = F
-create-new-login-button =
-    .title = ສ້າງການເຂົ້າສູ່ລະບົບໃຫມ່
 about-logins-page-title-name = ລະຫັດຜ່ານ
 about-logins-login-filter2 =
-    .placeholder = ຄົ້ນຫາລະຫັດຜ່ານ
     .key = F
+    .placeholder = ຄົ້ນຫາລະຫັດຜ່ານ
 create-login-button =
     .title = ເພີ່ມລະຫັດຜ່ານ
 fxaccounts-sign-in-text = ເອົາລະຫັດຜ່ານຂອງທ່ານໃນອຸປະກອນອື່ນຂອງທ່ານ
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = ນຳເຂົ້າຂໍ້ມູນຈາກບຣາວເຊີອື່ນ…
 about-logins-menu-menuitem-import-from-a-file = ນຳເຂົ້າຈາກໄຟລ໌...
-about-logins-menu-menuitem-export-logins = ສົ່ງອອກການເຂົ້າສູ່ລະບົບ...
-about-logins-menu-menuitem-remove-all-logins = ລຶບການເຂົ້າສູ່ລະບົບທັງໝົດ...
 about-logins-menu-menuitem-export-logins2 = ສົ່ງອອກລະຫັດຜ່ານ…
 about-logins-menu-menuitem-remove-all-logins2 = ລຶບລະຫັດຜ່ານທັງໝົດ…
 menu-menuitem-preferences =
@@ -44,16 +36,6 @@ login-list =
     .aria-label = ການເຂົ້າສູ່ລະບົບກົງກັບຄໍາຖາມຄົ້ນຫາ
 # Variables
 #   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-       *[other] { $count } ເຂົ້າສູ່ລະບົບ
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count = { $count } ຂອງ { $total } ເຂົ້າສູ່ລະບົບ
-# Variables
-#   $count (number) - Number of logins
 login-list-count2 = { $count } ລະຫັດຜ່ານ
 # Variables
 #   $count (number) - Number of filtered logins
@@ -67,14 +49,10 @@ login-list-username-reverse-option = ຊື່ຜູ້ໃຊ້ (Z-A)
 about-logins-login-list-alerts-option = ແຈ້ງເຕືອນ
 login-list-last-changed-option = ການແກ້ໄຂຄັ້ງຫລ້າສຸດ
 login-list-last-used-option = ໃຊ້ຫຼ້າສຸດ
-login-list-intro-title = ບໍ່ພົບການເຂົ້າສູ່ລະບົບ
 login-list-intro-title2 = ບໍ່ມີລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
 login-list-intro-description = ເມື່ອທ່ານບັນທຶກລະຫັດຜ່ານໃນ { -brand-product-name }, ມັນຈະປາກົດຢູ່ບ່ອນນີ້.
-about-logins-login-list-empty-search-title = ບໍ່ພົບການເຂົ້າສູ່ລະບົບ
 about-logins-login-list-empty-search-title2 = ບໍ່ພົບລະຫັດຜ່ານ
 about-logins-login-list-empty-search-description = ບໍ່ມີຜົນໄດ້ຮັບທີ່ກົງກັບການຄົ້ນຫາຂອງທ່ານ.
-login-list-item-title-new-login = ເຂົ້າສູ່ລະບົບໃໝ່
-login-list-item-subtitle-new-login = ໃສ່ຂໍ້ມູນການເຂົ້າສູ່ລະບົບຂອງທ່ານ
 login-list-item-title-new-login2 = ເພີ່ມລະຫັດຜ່ານ
 login-list-item-subtitle-missing-username = (ບໍ່ມີຊື່ຜູ້ໃຊ້)
 about-logins-list-item-breach-icon =
@@ -90,28 +68,20 @@ about-logins-list-section-week = 7 ມື້ກ່ອນ
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = ຊອກຫາການເຂົ້າສູ່ລະບົບທີ່ບັນທຶກໄວ້ຂອງທ່ານບໍ? ເປີດການຊິງຄ໌ ຫຼືນໍາເຂົ້າ.
-about-logins-login-intro-heading-logged-in = ບໍ່ພົບການເຂົ້າສູ່ລະບົບທີ່ຊິ້ງ.
-login-intro-description = ຖ້າທ່ານບັນທຶກການເຂົ້າສູ່ລະບົບຂອງທ່ານໄປທີ່ { -brand-product-name } ໃນອຸປະກອນອື່ນ, ທ່ານສາມາດນຳມາໃຊ້ໃນອຸປະກອນນີ້ໄດ້ດ້ວຍວິທີ່ດັ່ງນີ້:
-login-intro-instructions-fxa = ສ້າງ ຫຼື ເຂົ້າສູ່ລະບົບ { -fxaccount-brand-name }ຂອງທ່ານຢູ່ໃນອຸປະກອນທີ່ບັນທຶກການເຂົ້າສູ່ລະບົບຂອງທ່ານ.
 about-logins-login-intro-heading-message = ບັນທຶກລະຫັດຜ່ານຂອງທ່ານໄວ້ໃນບ່ອນທີ່ປອດໄພ
 login-intro-description2 = ລະຫັດຜ່ານທັງໝົດທີ່ທ່ານບັນທຶກໄວ້ໃນ { -brand-product-name } ຖືກເຂົ້າລະຫັດໄວ້. ນອກຈາກນັ້ນ, ພວກເຮົາລະວັງການລະເມີດ ແລະ ແຈ້ງເຕືອນທ່ານຫາກທ່ານໄດ້ຮັບຜົນກະທົບ. <a data-l10n-name="breach-alert-link">ສຶກສາເພີ່ມເຕີມ</a>
 login-intro-instructions-fxa2 = ສ້າງ ຫຼື ເຂົ້າສູ່ລະບົບບັນຊີຂອງທ່ານຢູ່ໃນອຸປະກອນທີ່ບັນທຶກການເຂົ້າສູ່ລະບົບຂອງທ່ານ.
 login-intro-instructions-fxa-settings = ໄປ​ທີ່ ເມນູ ການຕັ້ງຄ່າ > Sync > ເປີດ​ການ​ຊິ້ງ​ຂໍ້​ມູນ… ເລືອກ​ເອົາ​ການ​ເຂົ້າ​ສູ່​ລະ​ບົບ​ແລະ​ລະ​ຫັດ​ຜ່ານ checkbox​.
 login-intro-instructions-fxa-passwords-help = ເຂົ້າເບິ່ງ <a data-l10n-name="passwords-help-link">ຊ່ອຍເຫຼືອລະຫັດຜ່ານ</a> ສໍາລັບການຊ່ວຍເຫຼືອເພີ່ມເຕີມ.
-about-logins-intro-browser-only-import = ຖ້າການເຂົ້າສູ່ລະບົບຂອງທ່ານຖືກບັນທຶກໄວ້ໃນບຣາວເຊີອື່ນ, ທ່ານສາມາດ <a data-l10n-name="import-link">ນຳພວກມັນເຂົ້າໄປໃນ { -brand-product-name }</a>
-about-logins-intro-import2 = ຖ້າການເຂົ້າສູ່ລະບົບຂອງທ່ານຖືກບັນທຶກໄວ້ພາຍນອກຂອງ { -brand-product-name }, ທ່ານສາມາດ <a data-l10n-name="import-browser-link">ນໍາເຂົ້າຈາກຕົວທ່ອງເວັບອື່ນ</a> ຫຼື <a data-l10n-name="import-file-link">ຈາກໄຟລ໌</a>
 about-logins-intro-import3 = ເລືອກປຸ່ມເຄື່ອງໝາຍບວກຂ້າງເທິງເພື່ອເພີ່ມລະຫັດຜ່ານດຽວນີ້. ນອກນັ້ນທ່ານຍັງສາມາດ <a data-l10n-name="import-browser-link">ນໍາເຂົ້າລະຫັດຜ່ານຈາກຕົວທ່ອງເວັບອື່ນ</a> ຫຼື <a data-l10n-name="import-file-link">ຈາກໄຟລ໌ໃດນຶ່ງ</a> a>.
 
 ## Login
 
-login-item-new-login-title = ສ້າງການລັອກອິນໃຫມ່
 # Header for adding a password
 about-logins-login-item-new-login-title = ເພີ່ມລະຫັດຜ່ານ
 login-item-edit-button = ແກ້ໄຂ
 about-logins-login-item-remove-button = ລຶບ
 login-item-origin-label = ທີ່ຢູ່ເວັບໄຊທ໌
-login-item-tooltip-message = ໃຫ້ແນ່ໃຈວ່ານີ້ກົງກັບທີ່ຢູ່ທີ່ແນ່ນອນຂອງເວັບໄຊທ໌ທີ່ທ່ານເຂົ້າສູ່ລະບົບ.
 about-logins-origin-tooltip2 = ໃສ່ທີ່ຢູ່ເຕັມ ແລະ ໃຫ້ແນ່ໃຈວ່າມັນກົງກັນແທ້ສໍາລັບບ່ອນທີ່ທ່ານເຂົ້າສູ່ລະບົບ.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -131,7 +101,6 @@ login-item-password-conceal-checkbox =
     .aria-label = ເຊື່ອງລະຫັດຜ່ານ
 login-item-copy-password-button-text = ສຳເນົາ
 login-item-copied-password-button-text = ສຳເນົາແລ້ວ!
-login-item-save-changes-button = ບັນທຶກການປ່ຽນແປງ
 about-logins-login-item-save-changes-button = ບັນທຶກ
 login-item-save-new-button = ບັນທຶກ
 login-item-cancel-button = ຍົກເລີກ
@@ -155,11 +124,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = ເພື່ອແກ້ໄຂການເຂົ້າສູ່ລະບົບຂອງທ່ານ, ກະລຸນາໃສ່ຂໍ້ມູນການເຂົ້າສູ່ລະບົບ Windows ຂອງທ່ານ. ນີ້ຊ່ວຍປົກປ້ອງຄວາມປອດໄພຂອງບັນຊີຂອງທ່ານ.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = ແກ້ໄຂການເຂົ້າສູ່ລະບົບທີ່ບັນທຶກໄວ້
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -183,11 +147,6 @@ about-logins-copy-password-os-auth-dialog-message-win = ເພື່ອສຳເ
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = ສຳເນົາລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = ເພື່ອສົ່ງອອກການເຂົ້າສູ່ລະບົບຂອງທ່ານ, ປ້ອນຂໍ້ມູນການເຂົ້າສູ່ລະບົບ Windows ຂອງທ່ານ. ນີ້ຊ່ວຍປົກປ້ອງຄວາມປອດໄພຂອງບັນຊີຂອງທ່ານ.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = ສົ່ງອອກການເຂົ້າສູ່ລະບົບແລະລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = ເພື່ອສົ່ງອອກລະຫັດຜ່ານຂອງທ່ານ, ກະລຸນາໃສ່ຂໍ້ມູນການເຂົ້າສູ່ລະບົບ Windows ຂອງທ່ານ. ນີ້ຊ່ວຍປົກປ້ອງຄວາມປອດໄພຂອງບັນຊີຂອງທ່ານ.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -205,8 +164,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = ຍົກເລີກ
 confirmation-dialog-dismiss-button =
     .title = ຍົກເລີກ
-about-logins-confirm-remove-dialog-title = ລົບການເຂົ້າສູ່ລະບົບນີ້?
-confirm-delete-dialog-message = ການກະທຳນີ້ບໍ່ສາມາດຍົກເລີກໄດ້.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = ລຶບລະຫັດຜ່ານອອກບໍ່?
 # Message for modal to confirm the removal of one saved password
@@ -220,29 +177,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] ລົບອອກ
        *[other] ລົບອອກທັງໝົດ
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] ແມ່ນແລ້ວ, ລຶບການເຂົ້າສູ່ລະບົບ
-       *[other] ແມ່ນແລ້ວ, ລຶບການເຂົ້າສູ່ລະບົບເຫຼົ່ານີ້ອອກ
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-       *[other] ລຶບການເຂົ້າສູ່ລະບົບທັງໝົດ { $count } ອອກບໍ?
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] ນີ້ຈະເປັນການລຶບການເຂົ້າສູ່ລະບົບທີ່ທ່ານບັນທຶກໄວ້ໃນ { -brand-short-name } ແລະການແຈ້ງເຕືອນການລະເມີດໃດໆກໍຕາມທີ່ປາກົດຢູ່ບ່ອນນີ້. ທ່ານຈະບໍ່ສາມາດຍົກເລີກຄຳສັ່ງນີ້ໄດ້.
-       *[other] ນີ້ຈະເປັນການລຶບການເຂົ້າສູ່ລະບົບທີ່ທ່ານບັນທຶກໄວ້ໃນ { -brand-short-name } ແລະການແຈ້ງເຕືອນການລະເມີດໃດໆກໍຕາມທີ່ປາກົດຢູ່ບ່ອນນີ້. ທ່ານຈະບໍ່ສາມາດຍົກເລີກຄຳສັ່ງນີ້ໄດ້.
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-       *[other] ລຶບການເຂົ້າສູ່ລະບົບທັງໝົດ { $count } ອອກຈາກທຸກອຸປະກອນບໍ?
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [1] ການດຳເນີນການນີ້ຈະເອົາການເຂົ້າສູ່ລະບົບທີ່ເຈົ້າບັນທຶກໄວ້ໃນ { -brand-short-name } ເທິງອຸປະກອນທັງໝົດທີ່ຊິ້ງກັບ{ -fxaccount-brand-name } ຂອງທ່ານ. ການດຳເນີນການນີ້ຈະເອົາການແຈ້ງເຕືອນກ່ຽວກັບການຮົ່ວໄຫຼທີ່ປາກົດບ່ອນນີ້ອອກນຳ. ທ່ານຈະບໍ່ສາມາດຍົກເລີກການດຳເນີນການນີ້ໄດ້.
-       *[other] ການດຳເນີນການນີ້ຈະເອົາການເຂົ້າສູ່ລະບົບທີ່ເຈົ້າບັນທຶກໄວ້ໃນ { -brand-short-name } ເທິງອຸປະກອນທັງໝົດທີ່ຊິ້ງກັບ{ -fxaccount-brand-name } ຂອງທ່ານ. ການດຳເນີນການນີ້ຈະເອົາການແຈ້ງເຕືອນກ່ຽວກັບການຮົ່ວໄຫຼທີ່ປາກົດບ່ອນນີ້ອອກນຳ. ທ່ານຈະບໍ່ສາມາດຍົກເລີກການດຳເນີນການນີ້ໄດ້.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -263,15 +197,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = ສົ່ງອອກເຂົ້າສູ່ລະບົບ ແລະລະຫັດຜ່ານ
-about-logins-confirm-export-dialog-message = ລະຫັດຜ່ານຂອງທ່ານຈະຖືກບັນທຶກໄວ້ເປັນຂໍ້ຄວາມທີ່ສາມາດອ່ານໄດ້ (ເຊັ່ນ: BadP@ssw0rd) ດັ່ງນັ້ນທຸກຄົນທີ່ສາມາດເປີດໄຟລ໌ທີ່ສົ່ງອອກສາມາດເບິ່ງໄດ້.
-about-logins-confirm-export-dialog-confirm-button = ສົ່ງອອກ...
 about-logins-confirm-export-dialog-title2 = ບັນທຶກກ່ຽວກັບການສົ່ງອອກລະຫັດຜ່ານ
 about-logins-confirm-export-dialog-message2 =
     ເມື່ອທ່ານສົ່ງອອກ, ລະຫັດຜ່ານຂອງທ່ານຈະຖືກບັນທຶກໄວ້ໃນໄຟລ໌ທີ່ມີຂໍ້ຄວາມທີ່ສາມາດອ່ານໄດ້.
     ເມື່ອທ່ານໃຊ້ໄຟລ໌ສຳເລັດແລ້ວ, ພວກເຮົາແນະນຳໃຫ້ລຶບມັນອອກ ເພື່ອໃຫ້ຜູ້ອື່ນທີ່ໃຊ້ອຸປະກອນນີ້ບໍ່ສາມາດເຫັນລະຫັດຜ່ານຂອງທ່ານໄດ້.
 about-logins-confirm-export-dialog-confirm-button2 = ສືບຕໍ່ການສົ່ງອອກ
-about-logins-alert-import-title = ນໍາເຂົ້າສໍາເລັດ
 about-logins-alert-import-message = ເບິ່ງລາຍລະອຽດການນໍາເຂົ້າ
 confirm-discard-changes-dialog-title = ຍົກເລີກການປ່ຽນແປງທີ່ບໍ່ໄດ້ບັນທຶກໄວ້ບໍ?
 confirm-discard-changes-dialog-message = ການປ່ຽນແປງທີ່ບໍ່ໄດ້ບັນທຶກໄວ້ທັງໝົດຈະສູນເສຍໄປ.
@@ -308,11 +238,6 @@ about-logins-error-message-default = ເກີດຄວາມຜິດພາດ�
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = ສົ່ງອອກໄຟລ໌ເຂົ້າສູ່ລະບົບ
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = logins.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = ສົ່ງອອກລະຫັດຜ່ານຈາກ { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -328,8 +253,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = ນໍາເຂົ້າໄຟລ໌ເຂົ້າສູ່ລະບົບ
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = ນຳເຂົ້າລະຫັດຜ່ານໃສ່ { -brand-short-name }
 about-logins-import-file-picker-import-button = ນຳເຂົ້າ
@@ -353,18 +276,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = ນໍາເຂົ້າສໍາເລັດ
-about-logins-import-dialog-items-added =
-    { $count ->
-       *[other] <span>ເພີ່ມການເຂົ້າສູ່ລະບົບໃໝ່:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-       *[other] <span>ອັບເດດການເຂົ້າສູ່ລະບົບທີ່ມີຢູ່ແລ້ວ:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-       *[other] <span>ພົບການເຂົ້າສູ່ລະບົບຊໍ້າກັນ:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ບໍ່ໄດ້ນຳເຂົ້າ)</span >
-    }
 about-logins-import-dialog-items-added2 = <span>ເພີ່ມລະຫັດຜ່ານໃໝ່:</span> <span data-l10n-name="count">{ $count }</span>
 about-logins-import-dialog-items-modified2 = <span>ອັບເດດລາຍການທີ່ມີຢູ່ແລ້ວ:</span> <span data-l10n-name="count">{ $count }</span>
 about-logins-import-dialog-items-no-change2 = <span>ພົບລາຍການຊໍ້າກັນ:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ບໍ່ໄດ້ນຳເຂົ້າ)</span >
@@ -387,15 +298,11 @@ about-logins-import-dialog-error-learn-more = ຮຽນຮູ້ເພີ່ມ�
 about-logins-import-dialog-error-try-import-again = ລອງນຳເຂົ້າອີກຄັ້ງ...
 about-logins-import-dialog-error-cancel = ຍົກເລີກ
 about-logins-import-report-title = ສະຫຼຸບການນໍາເຂົ້າ
-about-logins-import-report-description = ນໍາ​ເຂົ້າການເຂົ້າ​ສູ່​ລະ​ບົບ​ແລະ​ລະ​ຫັດ​ຜ່ານ​​ໄປຍັງ { -brand-short-name } ແລ້ວ.
 about-logins-import-report-description2 = ນຳເຂົ້າລະຫັດຜ່ານໃສ່ { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = ແຖວ { $number }
-about-logins-import-report-row-description-no-change = ຊໍ້າກັນ: ກົງກັນທຸກຢ່າງຂອງການເຂົ້າສູ່ລະບົບທີ່ມີຢູ່ແລ້ວ
-about-logins-import-report-row-description-modified = ອັບເດດການເຂົ້າສູ່ລະບົບທີ່ມີຢູ່ແລ້ວ
-about-logins-import-report-row-description-added = ເພີ່ມການເຂົ້າສູ່ລະບົບໃໝ່ແລ້ວ
 about-logins-import-report-row-description-no-change2 = ຊໍ້າກັນ: ກົງກັນທີ່ແນ່ນອນຂອງລາຍການທີ່ມີຢູ່
 about-logins-import-report-row-description-modified2 = ອັບເດດລາຍການທີ່ມີຢູ່ແລ້ວ
 about-logins-import-report-row-description-added2 = ເພີ່ມລະຫັດຜ່ານໃໝ່ແລ້ວ
@@ -412,18 +319,6 @@ about-logins-import-report-row-description-error-missing-field = ຜິດພາ
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">ເພີ່ມການເຂົ້າສູ່ລະບົບໃໝ່ແລ້ວ</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ອັບເດດການເຂົ້າສູ່ລະບົບທີ່ມີຢູ່ແລ້ວ</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ການເຂົ້າສູ່ລະບົບຊ້ຳກັນ</div> <div data-l10n-name="not-imported">(ບໍ່ໄດ້ນຳເຂົ້າ)</div>
-    }
 about-logins-import-report-added2 = <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">ເພີ່ມລະຫັດຜ່ານໃໝ່ແລ້ວ</div>
 about-logins-import-report-modified2 = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ອັບເດດລາຍການທີ່ມີຢູ່ກ່ອນແລ້ວ</div>
 about-logins-import-report-no-change2 = <div data-l10n-name="count">{ $count } </div> <div data-l10n-name="details">ລາຍການຊໍ້າກັນ</div> <div data-l10n-name="not-imported">(ບໍ່ໄດ້ນຳເຂົ້າ)</div>

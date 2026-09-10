@@ -21,8 +21,6 @@ styleeditor-save-button = Αποθήκευση
 styleeditor-options-button =
     .tooltiptext = Επιλογές επεξεργασίας στυλ
 styleeditor-at-rules = Κανόνες @
-styleeditor-editor-textbox =
-    .data-placeholder = Πληκτρολογήστε CSS εδώ.
 styleeditor-no-stylesheet = Αυτή η σελίδα δεν έχει φύλλο στυλ.
 styleeditor-no-stylesheet-tip = Μήπως θέλετε να <a data-l10n-name="append-new-stylesheet">προσαρτήσετε ένα νέο φύλλο μορφοποίησης</a>;
 styleeditor-open-link-new-tab =

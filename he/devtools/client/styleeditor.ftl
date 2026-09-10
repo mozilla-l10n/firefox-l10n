@@ -20,8 +20,6 @@ styleeditor-save-button = שמירה
     .accesskey = ש
 styleeditor-options-button =
     .tooltiptext = אפשרויות עורך סגנונות
-styleeditor-editor-textbox =
-    .data-placeholder = נא להזין קוד CSS כאן.
 styleeditor-no-stylesheet = לדף זה אין גליון סגנון.
 styleeditor-no-stylesheet-tip = ייתכן שתרצה<a data-l10n-name="append-new-stylesheet">להוסיף גליון סגנון חדש</a>?
 styleeditor-open-link-new-tab =

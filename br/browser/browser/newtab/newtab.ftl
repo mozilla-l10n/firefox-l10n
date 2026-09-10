@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Ivinell nevez
-newtab-settings-button =
-    .title = Personelait ho pajenn Ivinell Nevez
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Personelaat ar bejenn-mañ
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = Personelaat
 newtab-customize-panel-label =
     .label = Personelaat
-newtab-personalize-settings-icon-label =
-    .aria-label = Arventennoù
-    .title = Personelaat an ivinell nevez
 newtab-settings-dialog-label =
     .aria-label = Arventennoù
-newtab-personalize-icon-label =
-    .aria-label = Personelaat un ivinell nevez
-    .title = Personelaat un ivinell nevez
-newtab-personalize-dialog-label =
-    .aria-label = Personelaat
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 
@@ -115,7 +105,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Ouzhpennañ ul lusker klask
 newtab-topsites-add-shortcut-header = Berradenn nevez
-newtab-topsites-edit-topsites-header = Kemmañ al lec'hienn wellañ
 newtab-topsites-edit-shortcut-header = Kemmañ ar verradenn
 newtab-topsites-add-shortcut-label = Ouzhpennañ ur verradenn
 newtab-topsites-add-shortcut-title =
@@ -157,20 +146,12 @@ newtab-topsite-sponsored = Paeroniet
 newtab-menu-section-tooltip =
     .aria-label = Digeriñ al lañser
     .title = Digeriñ al lañser
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Dilemel
-    .title = Dilemel
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Digeriñ al lañser kemperzhel evit { $title }
     .title = Digeriñ al lañser
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Embann al lec'hienn-mañ
-    .title = Embann al lec'hienn-mañ
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -181,11 +162,7 @@ newtab-menu-dismiss = Argas
 newtab-menu-pin = Spilhennañ
 newtab-menu-unpin = Dispilhennañ
 newtab-menu-delete-history = Dilemel eus ar roll istor
-newtab-menu-save-to-pocket = Enrollañ etrezek { -pocket-brand-name }
-newtab-menu-delete-pocket = Dilemel eus { -pocket-brand-name }
-newtab-menu-archive-pocket = Diellaouiñ e { -pocket-brand-name }
 newtab-menu-show-privacy-info = Hor c’hevelerien hag ho puhez prevez
-newtab-menu-about-fakespot = A-zivout { -fakespot-brand-name }
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Stankañ
@@ -195,14 +172,6 @@ newtab-menu-section-learn-more = Gouzout hiroc’h
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-our-sponsors-and-your-privacy = Hor c’hevelerien hag ho puhez prevez
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Graet
-newtab-privacy-modal-button-manage = Merañ an arventennoù endalc’had paeroniet
-newtab-privacy-modal-header = Pouezus eo ho puhez prevez
-newtab-privacy-modal-paragraph-2 = Kinnig a reomp deoc'h istorioù dedennus, met ivez danvezioù dibabet gant aked gant hor paeroned. Bezit dinec'het: <strong>morse ne vo kaset ho roadennoù merdeiñ e diavaez ho eilenn hiniennel { -brand-product-name }</strong> — ne welont ket anezho hag hor paeroned kennebeut.
-newtab-privacy-modal-link = Deskit penaos ec'h a en-dro ar prevezded war an ivinell nevez
 
 ##
 
@@ -258,40 +227,17 @@ newtab-label-sponsored-fixed = Paeroniet
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Dilemel ar gevrenn
-newtab-section-menu-collapse-section = Bihanaat ar gevrenn
-newtab-section-menu-expand-section = Astenn ar gevrenn
-newtab-section-menu-manage-section = Merañ ar gevrenn
-newtab-section-menu-manage-webext = Merañ an askouezh
-newtab-section-menu-add-topsite = Ouzhpennañ ul lec'hienn gwellañ din
-newtab-section-menu-add-search-engine = Ouzhpennañ ul lusker klask
-newtab-section-menu-move-up = Dilec'hiañ etrezek ar c'hrec'h
-newtab-section-menu-move-down = Dilec'hiañ etrezek an traoñ
 newtab-section-menu-privacy-notice = Evezhiadennoù a-fet buhez prevez
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Bihanaat ar gevrenn
-newtab-section-expand-section-label =
-    .aria-label = Astenn ar gevrenn
 
 ## Section Headers.
 
 newtab-section-header-topsites = Lec'hiennoù pennañ
 newtab-section-header-recent-activity = Oberiantiz a-nevez
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Erbedet gant { $provider }
 newtab-section-header-stories = Boued spered
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Krogit da verdeiñ hag e tiskouezimp deoc’h pennadoù, videoioù ha pajennoù all gweladennet pe lakaet er sinedoù nevez ’zo.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Aet oc'h betek penn. Distroit diwezhatoc'h evit muioc’h a istorioù digant { $provider }. N’oc'h ket evit gortoz? Dibabit un danvez brudet evit klask muioc’h a bennadoù dedennus eus pep lec’h er web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -302,30 +248,6 @@ newtab-discovery-empty-section-topstories-loading = O kargañ…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Chaous! N'eo ket bet karget ar gevrenn en he fezh.
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Danvezioù brudet:
-newtab-pocket-new-topics-title = Fellout a ra deoc’h kaout pennadoù ouzhpenn? Sellit ouzh ar sujedoù brudet e { -pocket-brand-name }
-newtab-pocket-more-recommendations = Erbedadennoù ouzhpenn
-newtab-pocket-learn-more = Gouzout hiroc’h
-newtab-pocket-cta-button = Staliañ { -pocket-brand-name }
-newtab-pocket-cta-text = Enrollit pennadoù a-zoare e { -pocket-brand-name } ha magit ho spered gant lennadennoù boemus.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } a zo ul lodenn eus familh { -brand-product-name }
-newtab-pocket-save = Enrollañ
-newtab-pocket-saved = Enrollet
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-newtab-toast-dismiss-button =
-    .aria-label = Argas
-    .title = Argas
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = Dizoleiñ ar pep gwellañ eus ar web
-newtab-pocket-onboarding-cta = Furchal a ra { -pocket-brand-name } en embannadurioù liesseurt evit degas deoc'h an titouroù pouezusañ, awenusañ ha fiziadusañ, war-eeun war ho merdeer { -brand-product-name }.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -334,8 +256,6 @@ newtab-error-fallback-refresh-link = Adkargit ar bajenn evit klask en-dro.
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Berradennoù
-newtab-custom-shortcuts-subtitle = Lec'hiennoù bet enrollet pe gweladennet ganeoc'h
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Lec'hiennoù bet enrollet pe gweladennet ganeoc'h
@@ -354,24 +274,6 @@ newtab-custom-row-selector2 =
             [many] { $num } a renkoù
            *[other] { $num } renk
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } renk
-        [two] { $num } renk
-        [few] { $num } renk
-        [many] { $num } a renkoù
-       *[other] { $num } renk
-    }
-newtab-custom-sponsored-sites = Berradennoù paeroniet
-newtab-custom-pocket-title = Erbedet gant { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Danvezioù dibar dibabet gant { -pocket-brand-name }, ezel familh { -brand-product-name }
-newtab-custom-pocket-sponsored = Istorioù paeroniet
-newtab-custom-pocket-show-recent-saves = Diskouez an enrolladennoù diwezhañ
-newtab-custom-recent-title = Oberiantiz nevesañ
-newtab-custom-recent-subtitle = Un dibab lec'hiennoù ha danvezioù nevez
-newtab-custom-close-button = Serriñ
 newtab-custom-settings = Merañ muioc'h a arventennoù
 
 ## New Tab Wallpapers
@@ -515,7 +417,6 @@ newtab-section-blocked-button = Stanket
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = Ket bremañ
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Stankañ { $topic }

@@ -18,7 +18,6 @@ neterror-learn-more-link = மேலும் அறிக...
 neterror-open-portal-login-page-button = பிணையப் புகுபதிகை பக்கத்தைத் திற
 neterror-pref-reset-button = முன்னிருப்பு அமைவுகளை மீட்டுவை
 neterror-return-to-previous-page-button = பின்செல்
-neterror-try-again-button = மீண்டும் முயற்சிக்கவும்
 
 ##
 
@@ -39,8 +38,6 @@ neterror-file-not-found-moved = கோப்பு நகர்த்தப்�
 neterror-access-denied = கோப்பு நீக்கப்பட்டிருக்கலாம், நகர்த்தப்பட்டிருக்கலாம் அல்லது அனுமதி மறுக்கப்பட்டிருக்கலாம்
 neterror-unknown-protocol = இந்த இணைய முகவரியைத் திறக்க மற்ற மென்பொருளை நிறுவ வேண்டியருக்கும்.
 neterror-redirect-loop = சில நேரங்களில் நினைவிகளை ஏற்க மறுத்தாலோ (அ) செயலற்று இருந்தாலோ இந்தச் சிக்கல் ஏற்படும்.
-neterror-unknown-socket-type-psm-installed = Check to make sure your system has the Personal Security Manager installed.
-neterror-unknown-socket-type-server-config = This might be due to a non-standard configuration on the server.
 neterror-not-cached-intro = கோரப்பட்ட ஆவணம் { -brand-short-name } இன் தேக்ககத்தில் கிடைக்கவில்லை.
 neterror-not-cached-sensitive = பாதுகாப்பு எச்சரிக்கைக்காக, { -brand-short-name } ஆனது முக்கியமான ஆவணங்களை மறுமுறை கோராதபடி அமைக்கப்பட்டுள்ளது.
 neterror-not-cached-try-again = வலைத்தளத்திலிருந்து ஆவணத்தை மீண்டும் கோர மீண்டும் முயற்சிக்கவும் என்பதைக் கிளிக் செய்யவும்.

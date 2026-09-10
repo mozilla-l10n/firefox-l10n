@@ -5,5 +5,4 @@
 privatebrowsingpage-open-private-window-label = Attaiseit privatū lūgu
     .accesskey = p
 about-private-browsing-search-placeholder = Mekleit škārsteiklā
-about-private-browsing-info-title = Tu esi privatajā lūgā
 about-private-browsing-not-private = Itūbreid jius naasot privatajā lūgā.

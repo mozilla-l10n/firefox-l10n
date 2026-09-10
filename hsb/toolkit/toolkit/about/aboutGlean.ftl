@@ -52,7 +52,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     Za wujasnjenje rozdźělnych móžnosćow daty natočić a namakać, hlejće
     rajtark <strong>Wo datach</strong>.
-about-glean-about-testing-header = Wo testowanju
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     Dospołne instrukcije so w
@@ -61,8 +60,6 @@ about-glean-manual-testing =
     ale, krótko prajene, zo byšće manuelnje testował, hač waša instrumentacije funguje, wy měł:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ping njesłać)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Zawěsćće, zo je w předchadnym polu njezapomnita značka pytanja zmylka, zo byšće móhł swoje pingi pozdźišo spóznał.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Stajće spomjatkliwu značku pytanja zmylkow <span>(20 znamješkow abo mjenje, jenož alfanumeriske a -)</span>, zo byšće pozdźišo swoje pingi zaso spóznał.
 # An in-line drop down list precedes this string.
@@ -89,13 +86,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Wopytajće stronu { glean-debug-ping-viewer-brand-name } za pingi ze swojej značku</a>.
     Njeměło wjace hač por sekundow wot tłóčenja tłóčatka do přichoda wašeho pinga trać.
     Druhdy móže por mjeńšin trać.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    Za dalše testy <i>ad hoc</i>
-    móžeće tež aktualnu hódnotu wěsteho dźěla instrumentacije postajić,
-    hdyž konsolu wuwiwarskich nastrojow tu w <code>about:glean</code> wočinjeće
-    a API <code>testGetValue()</code> takle wužiwaće:
-    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     Za dalše testy <i>ad hoc</i>
@@ -199,9 +189,6 @@ about-glean-no-data-to-display = Za pokazowanje daty njejsu.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Metriki <code>DualLabeledCounter</code> so w napohledźe <code>about:glean</code> hišće njepodpěruja.
 about-glean-unknown-metric-type-warning = Njeznaty typ metriki.
-about-glean-about-data-explanation =
-    Zo byšće lisćinu zhromadźenych datow přepytał, skonsultujće
-    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Słownik</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

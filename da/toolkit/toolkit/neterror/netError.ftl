@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Gå tilbage
 neterror-return-to-previous-page-recommended-button = Gå tilbage (anbefalet)
 neterror-try-again-button-2 = Prøv igen
     .accesskey = P
-neterror-try-again-button = Prøv igen
 neterror-add-exception-button = Fortsæt altid for dette websted
 neterror-settings-button = Skift DNS-indstillinger
 neterror-view-certificate-link = Vis certifikat
-neterror-trr-continue-this-time = Fortsætte denne gang
-neterror-disable-native-feedback-warning = Fortsæt altid
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = Læs mere
 ##
 
 neterror-pref-reset = Det ser ud til, at dine indstillinger for netværkssikkerhed forårsager dette. Vil du gendanne til standard-indstillinger?
-neterror-error-reporting-automatic = Indberet automatisk fejl som denne for at hjælpe { -vendor-short-name } med at identificere og blokere ondsindede websteder.
 
 ## Specific error messages
 
@@ -112,25 +108,15 @@ neterror-dns-not-found-offline-hint-reconnect = Afbryd forbindelsen til wi-fi og
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } kan ikke beskytte din anmodning om dette websteds adresse gennem vores betroede DNS-resolver. Her er forklaringen:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } kan ikke beskytte din anmodning om dette websteds adresse gennem vores sikre DNS-udbyder. Her er forklaringen:
 neterror-dns-not-found-trr-third-party-warning2 = Du kan fortsætte med din standard DNS-resolver. Det kan dog betyde, at en tredjepart kan se, hvilke websteder du besøger.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } kunne ikke oprette forbindelse til { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Oprettelse af forbindelse til { $trrDomain } tog længere tid end ventet.
-neterror-dns-not-found-trr-offline = Du er ikke forbundet til internettet.
 neterror-dns-not-found-trr-unknown-host2 = Webstedet blev ikke fundet af { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Der opstod et problem med { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = Ugyldig URL.
 neterror-dns-not-found-system-sleep = Systemet er i dvaletilstand.
 neterror-dns-not-found-trr-unknown-problem = Uventet problem.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } kan ikke beskytte din anmodning om dette websteds adresse gennem vores betroede DNS-resolver. Her er forklaringen:
-neterror-dns-not-found-native-fallback-heuristic = DNS over HTTPS er blevet deaktiveret på dit netværk.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } kunne ikke oprette forbindelse til { $trrDomain }.
 
 ##
 
@@ -140,8 +126,6 @@ neterror-access-denied = Den kan være blevet slettet, flyttet, eller tilladelse
 neterror-unknown-protocol = Du er måske nødt til at installere andet software for at åbne denne adresse.
 neterror-redirect-loop = Dette problem kan nogle gange skyldes, at cookies er slået fra, eller modtagelse af cookies er blevet nægtet.
 neterror-unknown-socket-type-client-config = Dette kan skyldes en konfigurationsfejl i din klient.
-neterror-unknown-socket-type-psm-installed = Undersøg om dit system har Personal Security Manager installeret.
-neterror-unknown-socket-type-server-config = Dette kan skyldes en ikke-standardopsætning af serveren.
 neterror-not-cached-intro = Den forespurgte side er ikke tilgængelig i { -brand-short-name }' cache.
 neterror-not-cached-sensitive = Af sikkerhedshensyn henter { -brand-short-name } ikke automatisk følsomme sider igen.
 neterror-not-cached-try-again = Klik for at prøve at hente siden igen fra webstedet.

@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = ส่วนขยายไม่สามารถอ่านและเปลี่ยนแปลงข้อมูลได้
-origin-controls-quarantined =
-    .label = ส่วนขยายไม่ได้รับอนุญาตให้อ่านและเปลี่ยนแปลงข้อมูล
 origin-controls-quarantined-status =
     .label = ไม่อนุญาตให้ใช้ส่วนขยายบนไซต์ที่ถูกจำกัด
 origin-controls-quarantined-allow =

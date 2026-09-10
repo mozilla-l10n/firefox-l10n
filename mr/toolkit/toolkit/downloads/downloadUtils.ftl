@@ -92,11 +92,5 @@ download-utils-time-left-single = { $time } शिल्लक
 download-utils-time-left-double = { $time1 } { $time2 } शिल्लक
 download-utils-time-few-seconds = काहिच क्षण शिल्लक आहेत
 download-utils-time-unknown = किती वेळ लागेल निश्चीत नाही
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = { $scheme } स्रोत
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = स्थानीय फाइल
 # Displayed time for files finished yesterday
 download-utils-yesterday = काल

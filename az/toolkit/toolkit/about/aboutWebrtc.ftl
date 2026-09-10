@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = about:webrtc-ni fərqli qeyd et
 about-webrtc-aec-logging-msg-label = AEC Qeydiyyatı
 about-webrtc-aec-logging-off-state-label = AEC Qeydiyyatı başlat
 about-webrtc-aec-logging-on-state-label = AEC Qeydiyyatı dayandır
-about-webrtc-aec-logging-on-state-msg = AEC qeydiyyatı aktivdir (zəng edənlə bir neçə dəqiqə danışdıqdan sonra qeydiyyatı dayandırın)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC qeydiyyatı aktivdir (zəng edənlə bir neçə dəqiqə danışdıqdan sonra qeydiyyatı dayandırın)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -77,17 +76,9 @@ about-webrtc-nominated = Namizəd
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Seçildi
 about-webrtc-save-page-label = Səhifəni Yadda Saxla
-about-webrtc-debug-mode-msg-label = Sazlama Modu
-about-webrtc-debug-mode-off-state-label = Sazlama Modunu Başlat
-about-webrtc-debug-mode-on-state-label = Sazlama Modunu dayandır
-about-webrtc-stats-heading = Sessiya Statistikaları
 about-webrtc-stats-clear = Tarixçəni Təmizlə
 about-webrtc-log-heading = Bağlantı qeydləri
 about-webrtc-log-clear = Qeydiyyatı Təmizlə
-about-webrtc-log-show-msg = qeydləri göstər
-    .title = bu bölməni genişlətmək üçün klikləyin
-about-webrtc-log-hide-msg = qeydləri gizlə
-    .title = bu bölməni daraltmaq üşün klikləyin
 about-webrtc-log-section-show-msg = Qeydləri göstər
     .title = Bu bölməni genişlətmək üçün klikləyin
 about-webrtc-log-section-hide-msg = Qeydləri gizlə
@@ -110,19 +101,11 @@ about-webrtc-remote-candidate = Uzaq Namizəd
 about-webrtc-raw-candidates-heading = Bütün xam namizədlər
 about-webrtc-raw-local-candidate = Lokal xam namizədlər
 about-webrtc-raw-remote-candidate = Uzaq xam namizədlər
-about-webrtc-raw-cand-show-msg = xam namizədləri göstər
-    .title = bu bölməni genişlətmək üçün klikləyin
-about-webrtc-raw-cand-hide-msg = xam namizədləri gizlət
-    .title = bu bölməni daraltmaq üşün klikləyin
 about-webrtc-raw-cand-section-show-msg = Xam namizədləri göstər
     .title = Bu bölməni genişlətmək üçün klikləyin
 about-webrtc-raw-cand-section-hide-msg = Xam namizədləri gizlət
     .title = Bu bölməni daraltmaq üşün klikləyin
 about-webrtc-priority = Üstünlük
-about-webrtc-fold-show-msg = detalları göstər
-    .title = bu bölməni genişlətmək üçün klikləyin
-about-webrtc-fold-hide-msg = detalları gizlə
-    .title = bu bölməni daraltmaq üşün klikləyin
 about-webrtc-fold-default-show-msg = Detalları göstər
     .title = Bu bölməni genişlətmək üçün klikləyin
 about-webrtc-fold-default-hide-msg = Detalları gizlə
@@ -132,10 +115,6 @@ about-webrtc-encoder-label = Kodlayıcı
 
 ##
 
-about-webrtc-save-page-msg = səhifə { $path } bölməsinə saxlandı
-about-webrtc-debug-mode-off-state-msg = izləmə qeydiyyatı { $path } ünvanındadır.
-about-webrtc-debug-mode-on-state-msg = sazlama modu açıqdır, izləmə qeydiyyatı: { $path }
-about-webrtc-aec-logging-off-state-msg = qeydiyyat faylları buradadır: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

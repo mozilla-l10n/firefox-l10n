@@ -43,4 +43,3 @@ certificate-viewer-tab-mine = Seedanteeji maa
 certificate-viewer-tab-people = Yimɓe
 certificate-viewer-tab-servers = Carworɗe
 certificate-viewer-tab-ca = Hohowɓe
-certificate-viewer-tab-unkonwn = Anndaaka

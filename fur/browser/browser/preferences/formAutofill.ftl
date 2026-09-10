@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Recapits salvâts
 autofill-manage-addresses-list-header = Recapits
-autofill-manage-credit-cards-title = Cjartis di credit salvadis
-autofill-manage-credit-cards-list-header = Cjartis di credit
 autofill-manage-payment-methods-title = Metodis di paiament salvâts
 autofill-manage-cards-list-header = Cjartis
 autofill-manage-dialog =
@@ -45,15 +43,10 @@ address-capture-open-menu-button =
     .aria-label = Vierç menù
 address-capture-edit-address-link = Modifiche direzion
     .aria-label = Modifiche direzion
-address-capture-edit-address-button =
-    .aria-label = Modifiche direzion
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Zonte recapit
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Modifiche recapit
-autofill-address-given-name = Non
-autofill-address-additional-name = Secont non
-autofill-address-family-name = Cognon
 autofill-address-name = Non
 autofill-address-organization = Organizazion
 autofill-address-street-address = Direzion di cjase
@@ -101,8 +94,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Zonte gnûf recapit
 autofill-address-country = Paîs o regjon
 autofill-address-country-only = Paîs
 autofill-address-tel = Telefon
@@ -110,18 +101,6 @@ autofill-address-email = E-mail
 autofill-cancel-button = Anule
 autofill-save-button = Salve
 autofill-country-warning-message = La compilazion automatiche dai formularis e je disponibile dome par cualchi paîs.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Zonte gnove cjarte di credit
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Modifiche cjarte di credit
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] mostre informazions de cjarte di credit
-        [windows] { -brand-short-name } al sta cirint di visualizâ lis informazions de cjarte di credit. Conferme l'acès a chest account di Windows chi sot.
-       *[other] { -brand-short-name } al sta cirint di visualizâ lis informazions de cjarte di credit.
-    }
 autofill-message-tooltip = Mostre messaç su la compilazion automatiche
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Zonte cjarte
@@ -146,15 +125,3 @@ autofill-card-network = Gjenar di cjarte
 # methods section. Localizers should choose terms that make sense for payment
 # methods in their region.
 autofill-card-search-term-credit-cards = cjartis di credit, credit, cjartis, cjartis di debit, debit, tacuin, checkout, casse
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

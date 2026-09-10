@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Прикажи у фасцикли
            *[other] Прикажи у фасцикли
         }
-downloads-cmd-show-downloads =
-    .label = Отвори фасциклу са преузимањима
 downloads-cmd-retry =
     .tooltiptext = Покушај поново
 downloads-cmd-retry-panel =

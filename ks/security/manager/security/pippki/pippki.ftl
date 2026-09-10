@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = سرٹیفکیٹ  ڈاونلوڈ كران
     .style = min-width: 46em
+    .title = سرٹیفکیٹ  ڈاونلوڈ كران
 download-cert-message = تہئ چھُوئ وننئ آمُت زئ تہئ كریو نئوئ سرٹئفیكیٹ ایتھورٹی  (CA)پیٹھ بروسئ
 download-cert-trust-ssl =
     .label = یتھ CA پیٹھ كریو بروسئ ویب سایٹس پرزناونئ خٲطرئ.
@@ -37,8 +37,6 @@ download-cert-view-text = سرٹئفیكیٹ CA  وچھیو
 
 client-auth-window =
     .title = استیمال كرئن وئل سنز پرزناونچ درخواست
-client-auth-site-description = یئ سایٹ چھئوئ تہئ گزئرش كران زئ تہئ پرنئویو پنن پان سرٹئفیكیٹئ سئتھ
-client-auth-choose-cert = سرٹئفیكیٹ ژعریو شناخت پرزناونئ  خٲطرئ:
 
 ## Set password (p12) dialog
 

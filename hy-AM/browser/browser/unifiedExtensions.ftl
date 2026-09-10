@@ -33,9 +33,6 @@ unified-extensions-item-message-manage = Կառավարել ընդլայնում
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = { $extensionName }-ը սահմանափակված է։ Դրա օգտագործումը կարող է ռիսկային լինել։
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName }-ը խախտում է Mozilla-ի քաղաքականությունը։ Դրա օգտագործումը կարող է վտանգավոր լինել։
 
 ## Extension's context menu
 
@@ -54,8 +51,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Որոշ ընդլայնումներ չեն թույլատրվում
-unified-extensions-mb-quarantined-domain-message = Ձեր տվյալները պաշտպանելու համար այս կայքում թույլատրվում են միայն որոշ ընդլայնումներ, որոնք վերահսկվում են { -vendor-short-name }-ի կողմից։
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Որոշ ընդլայնումներ թույլատրված չեն
@@ -71,13 +66,6 @@ unified-extensions-mb-blocklist-warning-single2 =
         Այս ընդլայնումը սահմանափակված է և անջատվել է:
         Կարող եք այն միացնել կարգավորումներում, բայց դա վտանգավոր է:
 # Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName }-ն անջատված է
-    .message =
-        Այս ընդլայնումը խախտում է Mozilla-ի քաղաքականությունները և անջատված է:
-        Կարող եք այն միացնել կարգավորումներում, բայց դա վտանգավոր է:
-# Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName }-ն անջատված է
@@ -91,16 +79,6 @@ unified-extensions-mb-blocklist-warning-multiple2 =
         }
     .message =
         Ձեր որոշ ընդլայնումներ սահմանափակվել ու անջատվել են:
-        Կարող եք այն միացնել կարգավորումներում, բայց դա վտանգավոր է:
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-           *[other] { $extensionsCount } ընդլայնումներ անջատված են
-        }
-    .message =
-        Ձեր որոշ ընդլայնումներ անջատվել են Mozilla-ի քաղաքականությունները խախտելու համար:
         Կարող եք այն միացնել կարգավորումներում, բայց դա վտանգավոր է:
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.

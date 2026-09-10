@@ -26,23 +26,6 @@ webrtc-sharing-menu =
     .label = పరికరాలను పంచుకుంటున్న ట్యాబ్ లు
     .accesskey = d
 
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = మీ కెమెరా, మైక్రోఫోను పంచుకుంటున్నారు. పంచుకోలును నియంత్రించడానికి నొక్కండి.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = మీ కేమెరా పంచుకుంటున్నారు. పంచుకోలును నియంత్రించడానికి నొక్కండి.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = మీ మైక్రోఫోను పంచుకుంటున్నారు. పంచుకోలును నియంత్రించడానికి నొక్కండి.
-webrtc-indicator-sharing-application =
-    .tooltiptext = ఒక అనువర్తనాన్ని పంచుకుంటున్నారు. పంచుకోలును నియంత్రించడానికి నొక్కండి.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = మీ తెరను పంచుకుంటున్నారు. పంచుకోలును నియంత్రించడానికి నొక్కండి.
-webrtc-indicator-sharing-window =
-    .tooltiptext = ఒక విండోను పంచుకుంటున్నారు. పంచుకోలును నియంత్రించడానికి నొక్కండి.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = ఒక ట్యాబును పంచుకుంటున్నారు. పంచుకోలును నియంత్రించడానికి నొక్కండి.
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
@@ -106,7 +89,6 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
-webrtc-share-screen-learn-more = ఇంకా తెలుసుకోండి
 webrtc-pick-window-or-screen = కిటికీ లేదా తెరను ఎంచుకోండి
 webrtc-share-entire-screen = మొత్తం తెర
 webrtc-share-pipe-wire-portal = నిర్వాహక వ్యవస్థ అమరికలను వాడు

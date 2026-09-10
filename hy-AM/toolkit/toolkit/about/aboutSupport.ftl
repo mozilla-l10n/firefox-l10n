@@ -29,10 +29,6 @@ security-software-name = Անուն
 security-software-antivirus = ՀԱկավիրուս
 security-software-antispyware = Հակալրտես
 security-software-firewall = Հրապատ
-features-title = { -brand-short-name }-ի յուրահատկություններ
-features-name = Անուն
-features-version = Տարբերակ
-features-id = ID
 processes-title = Հեռավոր գործընթացներ
 processes-type = Տեսակ
 processes-count = Քանակը
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] Պրոֆիլի պահոց
        *[other] Պրոֆիլի թղթապանակը
     }
-app-basics-enabled-plugins = Միացված բաղադրիչներ
 app-basics-build-config = Հավաքման ձևաչափ
 app-basics-user-agent = Օգտետերի Դիտարկիչը
 app-basics-os = OS
@@ -96,9 +91,6 @@ show-dir-label =
 environment-variables-title = Միջավայրի փոփոխականներ
 environment-variables-name = Անուն
 environment-variables-value = Արժեքը
-experimental-features-title = Փորձարարական հատկություններ
-experimental-features-name = Անուն
-experimental-features-value = Արժեք
 modified-key-prefs-title = Կարևոր փոփոխված նախապատվություններ
 modified-prefs-name = Անուն
 modified-prefs-value = Արժեքը
@@ -210,9 +202,6 @@ media-cdm-capabilities = Հնարավորություններ
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Մաքուր կապար
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = HDCP 2.2 համատեղելի
 
 ##
 
@@ -384,8 +373,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Անջատված է փորձի պատճառով
-fission-status-experiment-treatment = Միացված է փորձի միջոցով
 fission-status-disabled-by-e10s-env = Անջատված է միջավայրի կողմից
 fission-status-enabled-by-env = Միացված է միջավայրի կողմից
 fission-status-disabled-by-env = Անջատված է միջավայրի կողմից
@@ -394,7 +381,6 @@ fission-status-disabled-by-default = Անջատված՝ ըստ սկզբնադի�
 fission-status-enabled-by-user-pref = Միացված օգտվողի կողմից
 fission-status-disabled-by-user-pref = Անջատված է օգտվողի կողմից
 fission-status-disabled-by-e10s-other = USB-ն անջատված է
-fission-status-enabled-by-rollout = Հնարավորություն է տրվել փուլային ներդրման միջոցով
 async-pan-zoom = Չհամաժամված շեղում/Դիտափոխում
 apz-none = նշում
 wheel-enabled = անիվի ներածումը միացված է

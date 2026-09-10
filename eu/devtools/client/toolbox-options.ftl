@@ -188,8 +188,6 @@ options-disable-http-cache-tooltip =
     .title = Ezarrita badago, Ezarrita badago, HTTP cachea desgaitu egingo da tresna-kutxa zabalik duten fitxa guztietan. Aukera honek ez die zerbitzu-langileei eragiten.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label-2 = Desgaitu JavaScript
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Desgaitu JavaScript *
 options-disable-javascript-tooltip =
     .title = Ezarrita badago, JavaScript desgaituko da uneko fitxan. Fitxa edo tresna-kutxa itxita badaude, ezarpen hau ahaztu egingo da.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -219,8 +217,6 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = (uneko saioa soilik, orria berritzen du)
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Uneko saioa soilik, orria berritzen du
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (orria berritzen du)

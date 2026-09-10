@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Nouvel onglet
-    .accesskey = N
 reload-tab =
     .label = Actualiser l’onglet
     .accesskey = A
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nouveau groupe
     .accesskey = N
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -200,13 +193,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Créer un lien partageable
     .accesskey = C
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Envoyer l’onglet à un appareil
-           *[other] Envoyer { $tabCount } onglets à un appareil
-        }
-    .accesskey = v
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

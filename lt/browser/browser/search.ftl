@@ -30,14 +30,13 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Jūsų numatytoji ieškyklė buvo pakeista.</strong> „{ $oldEngine }“ daugiau nebesiūloma kaip numatytoji „{ -brand-short-name }“ ieškyklė. Jūsų numatytąja ieškykle tapo „{ $newEngine }“. Norėdami pakeisti numatytąją naršyklę, eikite į nustatymus. <label data-l10n-name="remove-search-engine-article">Sužinoti daugiau</label>
 removed-search-engine-message2 = <strong>Jūsų numatytoji ieškyklė buvo pakeista.</strong> „{ $oldEngine }“ daugiau nebesiūloma kaip numatytoji „{ -brand-short-name }“ ieškyklė. Jūsų numatytąja ieškykle tapo „{ $newEngine }“. Norėdami pakeisti numatytąją naršyklę, eikite į nustatymus.
 remove-search-engine-button = Gerai
 
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = Pridėti ieškyklę
     .style = min-width: 32em;
+    .title = Pridėti ieškyklę
 add-engine-button = Pridėti tinkintą ieškyklę
 add-engine-name = Ieškyklės pavadinimas

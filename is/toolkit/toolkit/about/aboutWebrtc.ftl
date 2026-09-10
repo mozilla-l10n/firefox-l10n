@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = vista about:webrtc sem
 about-webrtc-aec-logging-msg-label = AEC atvikaskráning
 about-webrtc-aec-logging-off-state-label = Byrja AEC-atvikaskráningu
 about-webrtc-aec-logging-on-state-label = Hætta AEC-atvikaskráningu
-about-webrtc-aec-logging-on-state-msg = AEC-atvikaskráning virk (talaðu við viðmælanda í nokkrar mínútur og stöðvaðu svo skráninguna)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC-atvikaskráning virk (talaðu við viðmælanda í nokkrar mínútur og stöðvaðu svo skráninguna)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -81,17 +80,9 @@ about-webrtc-nominated = Þýðing
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Valið
 about-webrtc-save-page-label = Vista síðu
-about-webrtc-debug-mode-msg-label = Villuleitarhamur
-about-webrtc-debug-mode-off-state-label = Byrja í villuleitarham
-about-webrtc-debug-mode-on-state-label = Hætta í villuleitarham
-about-webrtc-stats-heading = Tölfræði lotunnar
 about-webrtc-stats-clear = Hreinsa feril
 about-webrtc-log-heading = Atvikaskrá tenginga
 about-webrtc-log-clear = Hreinsa annál
-about-webrtc-log-show-msg = sýna atvikaskrá
-    .title = smelltu til að stækka þetta svæði
-about-webrtc-log-hide-msg = fela atvikaskrá
-    .title = smelltu til að fella saman þetta svæði
 about-webrtc-log-section-show-msg = Sýna atvikaskrá
     .title = Smelltu til að stækka þetta svæði
 about-webrtc-log-section-hide-msg = Fela atvikaskrá
@@ -124,19 +115,11 @@ about-webrtc-remote-candidate = Fjarlægur aðili
 about-webrtc-raw-candidates-heading = Allir umsækjendur
 about-webrtc-raw-local-candidate = Staðbundnir umsækjendur
 about-webrtc-raw-remote-candidate = Útværir umsækjendur
-about-webrtc-raw-cand-show-msg = sýna umsækjendur
-    .title = smelltu til að stækka þetta svæði
-about-webrtc-raw-cand-hide-msg = fela umsækjendur
-    .title = smelltu til að fella saman þetta svæði
 about-webrtc-raw-cand-section-show-msg = Sýna umsækjendur
     .title = Smelltu til að stækka þetta svæði
 about-webrtc-raw-cand-section-hide-msg = Fela umsækjendur
     .title = Smelltu til að fella saman þetta svæði
 about-webrtc-priority = Forgangur
-about-webrtc-fold-show-msg = sýna nánar
-    .title = smelltu til að stækka þetta svæði
-about-webrtc-fold-hide-msg = fela nánar
-    .title = smelltu til að fella saman þetta svæði
 about-webrtc-fold-default-show-msg = Sýna nánar
     .title = Smelltu til að stækka þetta svæði
 about-webrtc-fold-default-hide-msg = Fela nánar
@@ -166,13 +149,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Tölfræði myndramma - MediaStreamTrack ID: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = síða vistuð á: { $path }
-about-webrtc-debug-mode-off-state-msg = rakningarskrá er að finna á: { $path }
-about-webrtc-debug-mode-on-state-msg = villuleitarhamur virkur, rakningarskrá á: { $path }
-about-webrtc-aec-logging-off-state-msg = hægt er að finna skrár fyrir atvikaskráningu í: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

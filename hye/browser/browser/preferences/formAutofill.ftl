@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Պահպանուած հասցէներ
 autofill-manage-addresses-list-header = Հասցէներ
-autofill-manage-credit-cards-title = Պահպանուած բանկային քարտեր
-autofill-manage-credit-cards-list-header = Բանկային քարտեր
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Հեռացնել
@@ -21,9 +19,6 @@ autofill-manage-edit-button = Խմբագրել…
 
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Խմբագրել հասցէները
-autofill-address-given-name = Անուն
-autofill-address-additional-name = Հայրանուն
-autofill-address-family-name = Ազգանուն
 autofill-address-organization = Կազմակերպութիւն
 autofill-address-street = Փողոցի հասցէներ
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
@@ -69,26 +64,12 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Աւելացնել նոր հասցէներ
 autofill-address-country = Երկիր կամ տարածաշրջան
 autofill-address-tel = Հեռախաւս
 autofill-address-email = Էլ֊փոստ
 autofill-cancel-button = Չեղարկել
 autofill-save-button = Պահպանել
 autofill-country-warning-message = Ինքնալրացման ձեւը այժմ մատչելի է միայն որոշ երկրների համար։
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Աւելացնել նոր բանկային քարտ
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Խմբագրել բանկային քարտը
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] ցուցադրել վարկային քարտի տուեալները
-        [windows] { -brand-short-name }-ը փորձում է ցուցադրել վարկային քարտի տեղեկութիւն։ Ստորեւ հաստատէք մուտքը Windows-ի սոյն հաշիւ։
-       *[other] { -brand-short-name }-ը փորձում է ցուցադրել վարկային քարտի տեղեկութիւնը։
-    }
 autofill-card-number-2 =
     .label = Քատի համարը
 autofill-card-number = Քատի համարը
@@ -102,15 +83,3 @@ autofill-card-expires-month = Սպառման ամիս
 autofill-card-expires-year = Սպառման տարի
 autofill-card-billing-address = Վճարման հասցէ
 autofill-card-network = Քարտի տեսակ
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = Ամերիկական էքսպրես
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Յայտնաբերել
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Վիզա

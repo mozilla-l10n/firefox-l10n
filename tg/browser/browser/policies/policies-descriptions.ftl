@@ -43,7 +43,6 @@ policy-DisableDefaultBrowserAgent = Ба омили браузер имкон н
 policy-DisableDeveloperTools = Ба абзорҳои барномарезӣ дастрасиро манъ мекунад.
 policy-DisableEncryptedClientHello = Ғайрифаъол кардани истифодаи вазифаи «TLS Encrypted Client Hello (ECH)».
 policy-DisableFeedbackCommands = Фармонҳоро барои ирсоли изҳори назар аз менюи «Кумак» ғайрифаъол мекунад («Ирсоли изҳори назар» ва «Гузориш дар бораи сомонаи фиребанда»).
-policy-DisableFirefoxAccounts = Хизматҳоро дар асоси { -fxaccount-brand-name } ғайрифаъол мекунад, аз он ҷумла «Ҳамоҳангсозӣ».
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Ғайрифаъол кардани хизматрасониҳо дар асоси ҳисобҳо, аз он ҷумла ҳамоҳангсозӣ.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -53,7 +52,6 @@ policy-DisableForgetButton = Дастрасиро ба тугмаи «Фаром
 policy-DisableFormHistory = Нигоҳдории таърихи ҷустуҷӯ ва шаклҳоро дар хотири низом ғайрифаъол мекунад.
 policy-DisablePrimaryPasswordCreation = Агар «true» бошад, ниҳонвожаи асосӣ эҷод карда намешавад.
 policy-DisablePasswordReveal = Имкон намедиҳад, ки ниҳонвожаҳо дар воридшавиҳои нигоҳдошташуда намоиш дода шаванд.
-policy-DisablePocket2 = Хусусиятро барои нигоҳ доштани саҳифаҳои сомона ба «{ -pocket-brand-name }» ғайрифаъол мекунад.
 policy-DisablePrivateBrowsing = Тамошобинии хусусиро ғайрифаъол мекунад.
 policy-DisableProfileImport = Фармони менюро барои ворид кардани маълумот аз браузери дигар ғайрифаъол мекунад.
 policy-DisableProfileRefresh = Тугмаи «Аз нав сохтани { -brand-short-name }»-ро дар саҳифаи «about:support» ғайрифаъол мекунад.
@@ -122,7 +120,6 @@ policy-PDFjs = «PDF.js», намоишгари «PDF»-и дарунсохтр�
 policy-Permissions2 = Иҷозатҳоро барои камера, микрофон, ҷойгиршавӣ, огоҳиҳо ва пахши худкор танзим мекунад.
 policy-PictureInPicture = Реҷаи «Расм-дар-расм»-ро фаъол ё хомӯш мекунад.
 policy-PopupBlocking2 = Ба сомонаҳои муайян иҷозат диҳед, ки дар онҳо равзанаҳои зоҳиршаванда нишон дода шаванд ва аз чорчӯбаҳои тарафи сеюм равона карда шаванд.
-policy-PopupBlocking = Ба баъзе сомонаҳо иҷозат медиҳад, то онҳо тавонанд равзанаҳои пайдошавандаро ба таври пешфарз намош диҳанд.
 policy-Preferences = Қиматро барои зермаҷмуи хусусиятҳо танзим ва бетағйир мекунад.
 policy-PrivateBrowsingModeAvailability = Танзимоти қобилияти дастрасии реҷаи «Тамошобинии хусусӣ».
 policy-PromptForDownloadLocation = Ҳангоми боргирӣ аз шумо мепурсад, ки файлҳоро ба куҷо нигоҳ медоред.

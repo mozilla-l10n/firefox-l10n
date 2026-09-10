@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Inis do shuímh “Ná Lorgaítear Mé” mura bhfuil tú ag iarraidh go lorgófaí thú
-do-not-track-learn-more = Tuilleadh eolais
-do-not-track-option-always =
-    .label = I gCónaí
 settings-page-title = Socruithe
 category-nav-heading =
     .heading = Socruithe
@@ -21,35 +17,19 @@ search-input-box2 =
     .placeholder = Aimsigh sna Socruithe
     .style = width: 15.4em
 pane-general-title = Ginearálta
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = Baile
 pane-search-title2 = Cuardaigh
     .title = Cuardaigh
 pane-privacy-title3 = Príobháideachas agus Slándáil
     .title = Príobháideachas agus Slándáil
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = Cuardaigh
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = Príobháideachas agus Slándáil
-pane-privacy-title = Príobháideachas agus Slándáil
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-pane-experimental-search-results-header = { -brand-short-name } Turgnaimh: Bí cúramach
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label2 = Tacaíocht { -brand-short-name }
     .title = Tacaíocht { -brand-short-name }
 addons-button-label2 = Eisínteachtaí agus Téamaí
     .title = Eisínteachtaí agus Téamaí
-help-button-label = Tacaíocht { -brand-short-name }
-addons-button-label = Eisínteachtaí agus Téamaí
 focus-search =
     .key = f
 close-button =
@@ -70,18 +50,11 @@ search-results-header = Torthaí an Chuardaigh
 
 ## General Section
 
-startup-header = Tosú
 always-check-default =
     .label = Seiceáil i gcónaí an é { -brand-short-name } an brabhsálaí réamhshocraithe
     .accesskey = g
-is-default = Is é { -brand-short-name } do bhrabhsálaí réamhshocraithe faoi láthair
-is-not-default = Ní hé { -brand-short-name } do bhrabhsálaí réamhshocraithe faoi láthair
-set-as-my-default-browser =
-    .label = Úsáid mar Réamhshocrú…
-    .accesskey = d
 tabs-group-header2 =
     .label = Cluaisíní
-tabs-group-header = Cluaisíní
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab le dul trí na cluaisíní san ord ar bhain tú úsáid astu le déanaí
     .accesskey = T
@@ -91,13 +64,7 @@ warn-on-open-many-tabs =
 show-tabs-in-taskbar =
     .label = Taispeáin réamhamharc ar chluaisíní sa tascbharra Windows
     .accesskey = c
-browser-containers-enabled =
-    .label = Cumasaigh Cluaisíní Coimeádáin
-    .accesskey = n
 browser-containers-learn-more = Tuilleadh eolais
-browser-containers-settings =
-    .label = Socruithe…
-    .accesskey = i
 containers-disable-alert-title = An bhfuil fonn ort gach Cluaisín Coimeádáin a dhúnadh?
 startup-group =
     .label = Tosú
@@ -142,25 +109,12 @@ containers-remove-cancel-button = Ná bain an Coimeádán seo
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Teanga agus Cuma
-default-font = Cló réamhshocraithe
-    .accesskey = r
-default-font-size = Méid
-    .accesskey = M
-advanced-fonts =
-    .label = Casta…
-    .accesskey = t
 language-header = Teanga
 choose-language-description = Roghnaigh an teanga is fearr leat le taispeáint leathanach
 choose-button =
     .label = Roghnaigh…
     .accesskey = o
 confirm-browser-language-change-button = Cuir i bhfeidhm agus atosaigh
-translate-web-pages =
-    .label = Aistrigh leathanaigh Ghréasáin
-    .accesskey = A
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = Aistrithe ag <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Eisceachtaí…
     .accesskey = s
@@ -175,23 +129,6 @@ download-save-files-header =
     .label = Sábháil comhaid i
 download-save-where-3 =
     .aria-label = Sábháil comhaid i
-download-header = Íoslódálacha
-download-save-where = Sábháil comhaid i
-    .accesskey = S
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Roghnaigh…
-           *[other] Brabhsáil…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] i
-           *[other] i
-        }
-download-always-ask-where =
-    .label = Fiafraigh díom cá sábhálfar an comhad i gcónaí
-    .accesskey = g
 applications-header = Feidhmchláir
 applications-description = Conas ba chóir do { -brand-short-name } déileáil le comhaid a íoslódálann tú ón Ghréasán nó le feidhmchláir a úsáideann tú le linn brabhsála.
 applications-filter =
@@ -228,17 +165,11 @@ applications-always-ask =
 #   $type-description (string) - Description of the type (e.g "Portable Document Format")
 #   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Úsáid { $plugin-name } (i { -brand-short-name })
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -254,43 +185,19 @@ applications-use-other-label =
 
 drm-group =
     .label = Ábhar DRM (Bainistíocht Ceart Digiteach)
-drm-content-header = Ábhar DRM (Bainistíocht Ceart Digiteach)
 play-drm-content =
     .label = Seinn ábhar DRM
     .accesskey = S
 play-drm-content-learn-more = Tuilleadh eolais
-update-application-title = Nuashonruithe { -brand-short-name }
-update-application-description = Coinnigh { -brand-short-name } cothrom le dáta chun an fheidhmíocht, an chobhsaíocht, agus an tslándáil is fearr a dheimhniú.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Leagan { $version } <a data-l10n-name="learn-more">Is geal gach nua</a>
 update-history-2 =
     .label = Taispeáin Stair na Nuashonruithe
     .accesskey = p
-update-history =
-    .label = Taispeáin Stair na Nuashonruithe…
-    .accesskey = p
-update-application-allow-description = Lig do { -brand-short-name }
-update-application-auto =
-    .label = Suiteáil nuashonruithe go huathoibríoch (molta)
-    .accesskey = a
-update-application-check-choose =
-    .label = Lorg nuashonruithe, ach lig dom iad a shuiteáil nuair is mian liom
-    .accesskey = L
-update-application-manual =
-    .label = Ná lorg nuashonruithe (ní mholtar é seo)
-    .accesskey = N
-update-application-use-service =
-    .label = Úsáid seirbhís sa chúlra chun nuashonruithe a shuiteáil
-    .accesskey = b
 
 ## General Section - Performance
 
-performance-title = Feidhmíocht
-performance-use-recommended-settings-checkbox =
-    .label = Bain úsáid as na socruithe feidhmíochta a mholtar
-    .accesskey = B
-performance-use-recommended-settings-desc = Cuireadh na socruithe seo in oiriúint do chrua-earraí agus do chóras oibriúcháin do ríomhaire.
 performance-settings-learn-more = Tuilleadh eolais
 performance-allow-hw-accel =
     .label = Úsáid luasghéarú crua-earraí más féidir
@@ -308,7 +215,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = Brabhsáil
 browsing-use-autoscroll =
     .label = Úsáid uathscrollú
     .accesskey = a
@@ -324,17 +230,8 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Cuardaigh téacs nuair a thosóidh mé ag clóscríobh
     .accesskey = t
-browsing-cfr-recommendations-learn-more = Tuilleadh eolais
 browsing-group =
     .label = Brabhsáil
-
-## General Section - Proxy
-
-network-settings-title = Socruithe Líonra
-network-proxy-connection-learn-more = Tuilleadh eolais
-network-proxy-connection-settings =
-    .label = Socruithe…
-    .accesskey = e
 
 ## Home Section - Default Browser
 
@@ -382,35 +279,18 @@ home-custom-homepage-bookmarks-button =
 home-prefs-homepage-extension-option =
     .label = Eisínteacht ({ $extension })
 
-## Home Section - Firefox Home Content Customization
-
-home-prefs-recommended-by-header =
-    .label = Molta ag { $provider }
-
 ##
 
 home-prefs-highlights-options-bookmarks =
     .label = Leabharmharcanna
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = Gearrthóga
 
 ## Search Section
 
-search-bar-header = Barra Cuardaigh
-search-engine-default-header = Inneall Cuardaigh Réamhshocraithe
-search-suggestions-option =
-    .label = Tabhair moltaí cuardaigh dom
-    .accesskey = c
 search-show-suggestions-url-bar-option =
     .label = Taispeáin moltaí cuardaigh i dtorthaí sa mbarra suímh
     .accesskey = s
 search-suggestions-cant-show-2 =
     .message = Ní thaispeánfar moltaí cuardaigh sa mbarra suímh toisc go ndúirt tú le { -brand-short-name } gan do stair bhrabhsála a mheabhrú.
-search-suggestions-cant-show = Ní thaispeánfar moltaí cuardaigh sa mbarra suímh toisc go ndúirt tú le { -brand-short-name } gan do stair bhrabhsála a mheabhrú.
 search-one-click-desc = Roghnaigh innill chuardaigh mhalartacha le taispeáint faoin bharra suímh agus faoin bharra cuardaigh nuair a thosaíonn tú ag clóscríobh.
 search-choose-engine-column =
     .label = Inneall Cuardaigh
@@ -438,19 +318,6 @@ search-engine-group =
 search-default-engine =
     .aria-label = Inneall Cuardaigh Réamhshocraithe
 
-## Containers Section
-
-containers-back-button2 =
-    .aria-label = Fill ar na Socruithe
-containers-header = Cluaisíní Coimeádáin
-containers-add-button =
-    .label = Coimeádán Nua
-    .accesskey = C
-containers-settings-button =
-    .label = Socruithe
-containers-remove-button =
-    .label = Bain
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -467,8 +334,6 @@ sync-mobile-promo = Íoslódáil Firefox ar <img data-l10n-name="android-icon"/>
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = Athraigh an pictiúr próifíle
 sync-profile-picture-with-alt =
     .alt = Athraigh an pictiúr próifíle
     .tooltiptext = Athraigh an pictiúr próifíle
@@ -507,10 +372,6 @@ sync-engine-tabs =
     .label = Cluaisíní oscailte
     .tooltiptext = Liosta de na cluaisíní oscailte ar gach gléas sioncronaithe
     .accesskey = t
-sync-engine-creditcards =
-    .label = Cártaí creidmheasa
-    .tooltiptext = Ainmneacha, uimhreacha, agus dátaí éaga (deasc amháin)
-    .accesskey = C
 
 ## The device name controls.
 
@@ -535,16 +396,6 @@ sync-device-name-save =
     .label = Sábháil
     .accesskey = b
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = Teachtaireacht Deimhnithe Seolta
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = Seoladh nasc deimhnithe chuig { $email }.
-sync-verification-not-sent-title = Níorbh fhéidir deimhniúchán a sheoladh
-sync-verification-not-sent-body = Ní rabhthas ábalta an ríomhphost deimhnithe a sheoladh; bain triail eile as ar ball.
-
 ## Privacy Section
 
 privacy-header = Príobháideachas
@@ -554,9 +405,6 @@ privacy-header = Príobháideachas
 forms-exceptions =
     .label = Eisceachtaí…
     .accesskey = s
-forms-saved-logins =
-    .label = Focail fhaire a sábháladh…
-    .accesskey = f
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -567,28 +415,9 @@ forms-master-pw-fips-desc = Theip ar athrú an fhocail faire.
 
 ## Privacy Section - History
 
-history-header = Stair
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = Cad is mian leat { -brand-short-name } a dhéanamh?
-    .accesskey = C
-history-remember-option-all =
-    .label = Meabhraigh an stair
-history-remember-option-never =
-    .label = Ná meabhraigh an stair riamh
-history-remember-option-custom =
-    .label = Úsáid socruithe saincheaptha don stair
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = Úsáidfidh { -brand-short-name } na socruithe céanna mar a úsáidtear sa bhrabhsáil phríobháideach, agus ní mheabhróidh sé stair ar bith agus tú ag brabhsáil an Ghréasáin.
-history-dontremember-description = Úsáidfidh { -brand-short-name } na socruithe céanna mar a úsáidtear sa bhrabhsáil phríobháideach, agus ní mheabhróidh sé stair ar bith agus tú ag brabhsáil an Ghréasáin.
 history-private-browsing-permanent =
     .label = Bain úsáid as Brabhsáil Phríobháideach i gcónaí
     .accesskey = P
@@ -608,15 +437,12 @@ history-mode-radio-group =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Fianáin agus Sonraí Suímh
 sitedata-learn-more = Tuilleadh eolais
 cookies-site-data-group =
     .label = Fianáin agus Sonraí Suímh
 
 ## Search Section
 
-addressbar-header = Barra Suímh
-addressbar-suggest = Agus an barra suímh in úsáid, mol
 addressbar-locbar-history-option =
     .label = Stair bhrabhsála
     .accesskey = h
@@ -626,10 +452,6 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Cluaisíní oscailte
     .accesskey = o
-addressbar-locbar-engines-option =
-    .label = Innill Chuardaigh
-    .accesskey = I
-addressbar-suggestions-settings = Roghanna a bhaineann le moltaí cuardaigh
 
 ## Privacy Section - Content Blocking
 
@@ -654,47 +476,9 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = Criptimhianadóirí
     .accesskey = i
-# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
-# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
-content-blocking-fingerprinters-label =
-    .label = Méarlorgairí
-    .accesskey = M
 
 ## Privacy Section - Permissions
 
-permissions-header = Ceadanna
-permissions-location = Suíomh
-permissions-location-settings =
-    .label = Socruithe…
-    .accesskey = t
-permissions-camera = Ceamara
-permissions-camera-settings =
-    .label = Socruithe…
-    .accesskey = t
-permissions-microphone = Micreafón
-permissions-microphone-settings =
-    .label = Socruithe…
-    .accesskey = t
-permissions-notification = Fógraí
-permissions-notification-settings =
-    .label = Socruithe…
-    .accesskey = t
-permissions-notification-link = Tuilleadh eolais
-permissions-autoplay-settings =
-    .label = Socruithe...
-    .accesskey = t
-permissions-block-popups =
-    .label = Cuir Cosc ar Phreabfhuinneoga
-    .accesskey = C
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button =
-    .label = Eisceachtaí…
-    .searchkeywords = míreanna aníos
-    .accesskey = E
-permissions-addon-exceptions =
-    .label = Eisceachtaí…
-    .accesskey = E
 permissions-location2 =
     .label = Suíomh
 permissions-camera2 =
@@ -703,17 +487,6 @@ permissions-microphone2 =
     .label = Micreafón
 permissions-notification2 =
     .label = Fógraí
-
-## Privacy Section - Data Collection
-
-collection-header = Bailiúchán agus Úsáid Sonraí { -brand-short-name }
-collection-description = Déanaimid ár ndícheall roghanna a thabhairt duit agus an méid is lú sonraí a bhailiú chun feabhas a chur ar { -brand-short-name } ar son an phobail. Iarraimid cead ort i gcónaí sula mbailímid sonraí pearsanta uait.
-collection-privacy-notice = Fógra Príobháideachais
-collection-health-report-link = Tuilleadh eolais
-addon-recommendations-link = Tuilleadh eolais
-# This message is displayed above disabled data sharing options in developer builds
-# or builds with no Telemetry support available.
-collection-health-report-disabled = Díchumasaíodh tuairisciú sonraí don chumraíocht leagain seo
 
 ## Privacy Section - Security
 ##
@@ -734,20 +507,9 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = Teastais
-certs-enable-ocsp =
-    .label = Iarr ar fhreastalaí freagróra OCSP bailíocht teastais a dheimhniú
-    .accesskey = O
-certs-view =
-    .label = Taispeáin Teastais…
-    .accesskey = s
-certs-devices =
-    .label = Gléasanna Slándála…
-    .accesskey = d
 certs-devices-enable-fips = Cumasaigh FIPS
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Deasc
 downloads-folder-name = Downloads
-choose-download-folder-title = Roghnaigh Fillteán Íoslódála:

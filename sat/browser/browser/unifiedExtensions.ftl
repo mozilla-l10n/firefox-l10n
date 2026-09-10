@@ -39,8 +39,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = ᱛᱤᱱᱟᱹᱜ ᱜᱤᱱ ᱮᱠᱥᱴᱮᱱᱥᱚᱱᱠᱚ ᱮᱢ ᱪᱷᱚ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ
-unified-extensions-mb-quarantined-domain-message = ᱱᱚᱣᱟ ᱥᱟᱭᱤᱴ ᱨᱮ ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ { -vendor-short-name } ᱧᱮᱞ ᱟᱠᱟᱫ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱚ ᱜᱮ ᱪᱟᱹᱞᱩ ᱜᱟᱱᱚᱜᱼᱟ ᱾
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = ᱛᱤᱱᱟᱹᱜ ᱜᱤᱱ ᱮᱠᱥᱴᱮᱱᱥᱚᱱᱠᱚ ᱮᱢ ᱪᱷᱚ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ

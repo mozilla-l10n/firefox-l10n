@@ -241,8 +241,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Aduya
     .accesskey = u
-menu-help-report-site-issue =
-    .label = Reportar un problema con o puesto…
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

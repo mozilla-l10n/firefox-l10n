@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Kuatiarogue mboyveguápe jeho ({ $shortcut })
     .aria-label = Tapykue
+    .tooltiptext = Kuatiarogue mboyveguápe jeho ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Kuatiarogue upeiguápe jeho ({ $shortcut })
     .aria-label = Tenonde
+    .tooltiptext = Kuatiarogue upeiguápe jeho ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Embojuaju kuatiarogue rechaukaháre…
-    .accesskey = m
     .tooltiptext = Embojuaju kuatiarogue rechaukaháre
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Embojuaju kuatiarogue techaukaháre…
-    .accesskey = m
     .tooltiptext = Embojuaju kuatiarogue techaukaháre ({ $shortcut })
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = Embosako’i Techaukaha…
-    .accesskey = m
     .tooltiptext = Embosako’i techaukaha
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Embosako’i Techaukaha…
-    .accesskey = m
     .tooltiptext = Embosako’i techaukaha ({ $shortcut })
+    .accesskey = m
 main-context-menu-open-link =
     .label = Joajuhápe jeike
     .accesskey = O
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Joajuha ñongatu pyahu…
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = Eñongatu juajuha { -pocket-brand-name }-pe
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Emyandy ñembojuehe emo
 main-context-menu-send-to-mobile-connect-phone3 = Embojuaju mba’e’oka emondo hag̃ua tendaykeita
 main-context-menu-send-to-mobile-connect-phone-from-link = Embojuaju mba’e’oka emondo hag̃ua juajuha
 main-context-menu-send-to-mobile-connect-phone-from-page = Embojuaju mba’e’oka emondo hag̃ua kuatiarogue
-main-context-menu-save-to-pocket =
-    .label = Eñongatu kuatiarogue { -pocket-brand-name }-pe
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Emondo Kuatiarogue Mba’e’okápe
-    .accesskey = n
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Eiporu tembiapo ñepyrũ ñongatupyre
-    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Eiporu ñe’ẽñemi ñongatupyre
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Eiporu { -relay-brand-short-name } Email Mask
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = Tojeporu ñe’ẽñemi hekorosãva…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = Eñangareko terarendáre
-    .accesskey = M
 main-context-menu-manage-passwords =
     .label = Eñangareko Ñe’ẽñemíre
     .accesskey = M
-main-context-menu-keyword =
-    .label = Jehero mbojoapy ko jehekápe g̃uarã…
-    .accesskey = K
 main-context-menu-add-engine =
     .label = Embojuaju hekaha mongu’eha
     .accesskey = S
@@ -393,9 +366,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Mba’erechaha jejapyhy
     .accesskey = T
-main-context-menu-take-frame-screenshot =
-    .label = Ejapyhy mba’erechaha
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = Kuatiarogue ayvu reñoiha jehecha
     .accesskey = V

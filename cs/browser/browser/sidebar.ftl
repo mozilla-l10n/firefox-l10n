@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = Vymazat historii
 sidebar-history-sort-by-heading-menucaption =
     .label = Řazení:
-sidebar-history-sort-by-heading = Řazení:
 sidebar-history-sort-option-date =
     .label = Datum
 sidebar-history-sort-option-site =
@@ -62,13 +61,6 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Rozšíření postranní lišty
-sidebar-customize-firefox-tools-header =
-    .label =
-        { -brand-product-name.case-status ->
-            [with-cases] Nástroje { -brand-product-name(case: "gen") }
-           *[no-cases] Nástroje aplikace { -brand-product-name }
-        }
 sidebar-customize-firefox-settings =
     { -brand-short-name.case-status ->
         [with-cases] Spravovat nastavení { -brand-short-name(case: "gen") }
@@ -78,8 +70,6 @@ sidebar-vertical-tabs =
     .label = Svislé panely
 sidebar-settings2 =
     .label = Nastavení
-sidebar-settings =
-    .label = Nastavení postranní lišty
 sidebar-hide-tabs-and-sidebar =
     .label = Skrýt panely a postranní lištu
 sidebar-open-tools-from-sidebar =
@@ -105,8 +95,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Spravovat rozšíření
-sidebar-context-menu-remove-extension =
-    .label = Odebrat rozšíření
 sidebar-context-menu-report-extension =
     .label = Nahlásit rozšíření
 sidebar-context-menu-open-in-tab =

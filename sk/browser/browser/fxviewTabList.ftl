@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxviewtabrow-open-menu-button =
-    .title = Otvoriť ponuku
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
@@ -24,10 +22,6 @@ fxviewtabrow-dismiss-tab-button =
     .title = Odstrániť { $tabTitle } zo zoznamu
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = práve teraz
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-delete = Odstrániť
     .accesskey = d
 fxviewtabrow-forget-about-this-site = Zabudnúť na túto stránku…
@@ -57,8 +51,6 @@ fxviewtabrow-send-to-device = Odoslať do zariadenia
     .accesskey = z
 fxviewtabrow-send-to-mobile = Odoslať do mobilu
     .accesskey = m
-fxviewtabrow-send-tab = Odoslať kartu do zariadenia
-    .accesskey = O
 fxviewtabrow-pin-tab = Pripnúť kartu
     .accesskey = r
 fxviewtabrow-unpin-tab = Zrušiť pripnutie karty
@@ -82,8 +74,5 @@ fxviewtabrow-send-to-mobile-connect-device = Pripojiť zariadenie a odoslať kar
 fxviewtabrow-send-to-mobile-device-missing2 = Nevidíte svoje zariadenie?
 fxviewtabrow-send-to-mobile-not-verified = Účet nie je overený
 fxviewtabrow-send-to-mobile-verify-account = Overte svoj účet
-
-## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
-
 fxviewtabrow-send-to-mobile-sign-in = Prihlásiť sa a odoslať karty
 fxviewtabrow-send-to-mobile-turn-on-sync = Zapnúť synchronizáciu a odoslať karty

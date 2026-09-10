@@ -62,7 +62,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Synkronoi kirjanmerkkisi kaikkialla.
-cfr-doorhanger-bookmark-fxa-body = Hyvä löytö! Älä jää ilman tätä kirjanmerkkiä mobiililaitteillasi. Aloita { -fxaccount-brand-name(case: "genitive") } käyttö.
 cfr-doorhanger-bookmark-fxa-body-2 = Hieno löytö! Älä jää paitsi tästä kirjanmerkistä mobiililaitteissasi. Aloita tilin käyttö.
 cfr-doorhanger-bookmark-fxa-link-text = Synkronoi kirjanmerkit nyt…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -75,12 +74,6 @@ fxa-adoption-credit-cards-backup-subtitle = Suojaa maksutapasi synkronoimalla ne
 fxa-adoption-bookmarks-treatment-backup-title = Varmuuskopioidaan kirjanmerkit
 fxa-adoption-bookmarks-treatment-backup-subtitle = Suojaa kirjanmerkkisi synkronoimalla ne laitteillesi salattuna.
 fxa-adoption-primary-button-label = Rekisteröidy
-
-## Protections panel
-
-cfr-protections-panel-header = Selaa ilman seurantaa
-cfr-protections-panel-body = Pidä tietosi itselläsi. { -brand-short-name } suojaa sinua useilta yleisiltä seuraimilta, jotka seuraavat tekemisiäsi verkossa.
-cfr-protections-panel-link-text = Lue lisää
 
 ## What's New toolbar button and panel
 
@@ -175,42 +168,8 @@ mr2022-background-update-toast-primary-button-label = Avaa { -brand-shorter-name
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Muistuta minua myöhemmin
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Kokeile
-    .accesskey = o
-firefoxview-cfr-secondarybutton = Ei nyt
-    .accesskey = n
-firefoxview-cfr-header-v2 = Jatka siitä mihin jäit
-firefoxview-cfr-body-v2 = Hanki äskettäin suljetut välilehdet takaisin ja siirry saumattomasti laitteiden välillä { -firefoxview-brand-name }llä.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Tervehdi { -firefoxview-brand-name }ä
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Haluatko avoimen välilehden puhelimeltasi? Nappaa se. Tarvitsetko sivuston, jolla juuri vierailit? Hokkuspokkus, se on palannut { -firefoxview-brand-name }llä.
-firefoxview-spotlight-promo-primarybutton = Katso miten se toimii
-firefoxview-spotlight-promo-secondarybutton = Ohita
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Valitse väriteema
-    .accesskey = ä
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Väritä selaimesi { -brand-short-name }in erityisillä sävyillä, jotka ovat saaneet vaikutteita kulttuuria muuttaneista äänistä.
-colorways-cfr-header-28days = Itsenäiset äänet -väriteemat vanhenevat 16. tammikuuta
-colorways-cfr-header-14days = Itsenäiset äänet -väriteemat vanhenevat kahden viikon kuluttua
-colorways-cfr-header-7days = Itsenäiset äänet -väriteemat vanhenevat tällä viikolla
-colorways-cfr-header-today = Itsenäiset äänet -väriteemat vanhenevat tänään
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Sallitko { -brand-short-name }in vastata evästekyselyihin kielteisesti?
-cfr-cbh-body = { -brand-short-name } voi automattisesti vastata moniin evästekyselyihin kielteisesti.
-cfr-cbh-confirm-button = Vastaa evästepyyntöihin kieltävästi
-    .accesskey = V
-cfr-cbh-dismiss-button = Ei nyt
-    .accesskey = N
 cookie-banner-blocker-onboarding-header = { -brand-short-name } kieltäytyi juuri evästeilmoituksesta puolestasi
 cookie-banner-blocker-onboarding-body = Vähemmän häiriötekijöitä, vähemmän sinua tällä sivustolla seuraavia evästeitä.
 cookie-banner-blocker-onboarding-learn-more = Lue lisää

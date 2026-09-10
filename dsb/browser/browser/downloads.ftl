@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] W Finder pokazaś
            *[other] W zarědniku pokazaś
         }
-downloads-cmd-show-downloads =
-    .label = Zarědnik ześěgnjenjow pokazaś
 downloads-cmd-retry =
     .tooltiptext = Hyšći raz wopytaś
 downloads-cmd-retry-panel =

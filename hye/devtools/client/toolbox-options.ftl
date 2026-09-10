@@ -94,8 +94,6 @@ options-context-advanced-settings = Լրացուցիչ կարգաւորումն�
 options-disable-http-cache-label = Անջատել HTTP յիշապահեստը (երբ գործիքատուփը բաց է)
 options-disable-http-cache-tooltip =
     .title = Այս ընտրանքի միացումը կանջատի HTTP յիշապահեստը բաց գործիքատուփ ունեցող բոլոր ներդիրների համար: Այս ընտրանքը չի ազդում սպասարկող աշխատողների վրայ:
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Անջատել JavaScript *
 options-disable-javascript-tooltip =
     .title = Այս ընտրանքը կանջատի JavaScript-ը տուեալ ներդիրի համար: Եթե ներդիրը կամ գործիքները փակ են, ապա այս ընտրանքը կմոռացուի:
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -118,8 +116,6 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Միացնել աղբիւրի քարտեզները
 options-source-maps-tooltip =
     .title = Եթե Դուք միացրել էք այս ընտրանքը, աղբիւրները կը տեղորոշուեն գործիքներում:
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Միայն ընթացիկ շրջանը, էջը վերբեռնում է
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

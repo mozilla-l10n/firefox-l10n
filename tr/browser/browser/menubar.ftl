@@ -262,8 +262,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Profiller
 menu-profiles-manage-profiles =
     .label = Profilleri yönet
 menu-profiles-new-profile =
@@ -287,9 +285,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Uzantılar ve temalar
     .accesskey = U
-menu-tools-addons-and-themes =
-    .label = Eklentiler ve temalar
-    .accesskey = a
 menu-tools-fxa-sign-in2 =
     .label = Giriş yap
     .accesskey = G
@@ -346,8 +341,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Sorun giderme bilgileri
     .accesskey = S
-menu-help-report-site-issue =
-    .label = Siteyle ilgili sorun bildir…
 menu-help-share-ideas =
     .label = Fikir ve görüş paylaş…
     .accesskey = F

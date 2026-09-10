@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Kapcsolat beállításai
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Kapcsolat beállításai
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Frissítés
     .accesskey = i
-connection-proxy-autologin =
-    .label = Ne kérjen hitelesítést, ha a jelszó el van mentve
-    .accesskey = h
-    .tooltip = Ez a beállítás csendben hitelesíti proxyk felé, ha mentette hozzájuk a hitelesítési adatokat. Ha a hitelesítés sikertelen, akkor felszólítást kap.
 connection-proxy-autologin-checkbox =
     .label = Ne kérjen hitelesítést, ha a jelszó el van mentve
-    .accesskey = h
     .tooltiptext = Ez a beállítás csendben hitelesíti proxyk felé, ha mentette hozzájuk a hitelesítési adatokat. Ha a hitelesítés sikertelen, akkor felszólítást kap.
+    .accesskey = h
 connection-proxy-socks4-remote-dns =
     .label = DNS proxyzása SOCKS v4 használatakor
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Az alapértelmezett URL használata a HTTPS feletti DNS feloldáshoz
 connection-dns-over-https-url-custom =
     .label = Egyéni
-    .accesskey = E
     .tooltiptext = Adja meg az előnyben részesített URL-t a HTTPS feletti DNS feloldáshoz
-connection-dns-over-https-custom-label = Egyéni
+    .accesskey = E

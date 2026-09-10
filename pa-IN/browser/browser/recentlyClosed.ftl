@@ -20,15 +20,6 @@ recently-closed-panel-reopen-all-windows = ਸਾਰੀਆਂ ਵਿੰਡੋ �
 ##
 
 # Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [one] { $winTitle } (ਤੇ { $tabCount } ਹੋਰ ਟੈਬ)
-       *[other] { $winTitle } (ਤੇ { $tabCount } ਅਤੇ ਹੋਰ ਟੈਬਾਂ)
-    }
-# Variables:
 #   $tabCount (Number): Number of tabs that were open in the closed window
 #   $winTitle (String): Window title
 #   $closedAt (Number): Milliseconds since epoch when the window was closed

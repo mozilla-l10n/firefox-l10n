@@ -32,10 +32,6 @@ security-software-name = Navn
 security-software-antivirus = Antivirus
 security-software-antispyware = Antispyware
 security-software-firewall = Firewall
-features-title = { -brand-short-name }-funktioner
-features-name = Navn
-features-version = Version
-features-id = ID
 processes-title = Fjern-processer
 processes-type = Type
 processes-count = Antal
@@ -61,7 +57,6 @@ app-basics-profile-dir =
         [linux] Profilmappe
        *[other] Profilmappe
     }
-app-basics-enabled-plugins = Aktive plugins
 app-basics-build-config = Byggekonfiguration
 app-basics-user-agent = User Agent
 app-basics-os = Styresystem
@@ -99,9 +94,6 @@ show-dir-label =
 environment-variables-title = Miljøvariabler
 environment-variables-name = Navn
 environment-variables-value = Værdi
-experimental-features-title = Eksperimentelle funktioner
-experimental-features-name = Navn
-experimental-features-value = Værdi
 modified-key-prefs-title = Vigtige ændrede indstillinger
 modified-prefs-name = Navn
 modified-prefs-value = Værdi
@@ -222,9 +214,6 @@ media-cdm-capabilities = Funktioner
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Ikke-krypteret start
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = HDCP 2.2-kompatibel
 
 ##
 
@@ -396,8 +385,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Deaktiveret af et eksperiment
-fission-status-experiment-treatment = Aktiveret af et eksperiment
 fission-status-disabled-by-e10s-env = Deaktiveret af miljøet
 fission-status-enabled-by-env = Aktiveret af miljøet
 fission-status-disabled-by-env = Deaktiveret af miljøet
@@ -406,7 +393,6 @@ fission-status-disabled-by-default = Deaktiveret som standard
 fission-status-enabled-by-user-pref = Aktiveret af bruger
 fission-status-disabled-by-user-pref = Deaktiveret af bruger
 fission-status-disabled-by-e10s-other = E10s deaktiveret
-fission-status-enabled-by-rollout = Aktiveret af trinvis udrulning
 async-pan-zoom = Asynkron panorering/zoom
 apz-none = ingen
 wheel-enabled = input fra rullehjul

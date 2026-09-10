@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Zuppentar las PeerConne
 about-webrtc-aec-logging-msg-label = Protocollar AEC
 about-webrtc-aec-logging-off-state-label = Cumenzar da protocollar AEC
 about-webrtc-aec-logging-on-state-label = Chalar da protocollar AEC
-about-webrtc-aec-logging-on-state-msg = protocollar AEC è activ (discurra in pèr minutas cun il telefonader e terminescha lura il protocollar)
 about-webrtc-aec-logging-toggled-on-state-msg = protocollar AEC è activ (discurra in pèr minutas cun il telefonader e terminescha lura il protocollar)
 about-webrtc-aec-logging-unavailable-sandbox = La variabla d'ambient MOZ_DISABLE_CONTENT_SANDBOX=1 è necessaria per exportar protocollaziuns AEC. Definescha mo questa variabla sche ti chapeschas il ristg potenzial.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Nominated
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Selected
 about-webrtc-save-page-label = Memorisar la pagina
-about-webrtc-debug-mode-msg-label = Modus per chattar sbagls
-about-webrtc-debug-mode-off-state-label = Lantschar il modus per chattar sbagls
-about-webrtc-debug-mode-on-state-label = Fermar il modus per chattar sbagls
-about-webrtc-stats-heading = Statistica da la sesida
 about-webrtc-enable-logging-label = Activar la preselecziun da protocollaziun per WebRTC
 about-webrtc-peerconnections-section-heading = Statisticas RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = Mussar statisticas RTCPeerConnection
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = Zuppentar statisticas RTCPeerCon
 about-webrtc-stats-clear = Stizzar la cronologia
 about-webrtc-log-heading = Connection Log
 about-webrtc-log-clear = Svidar il protocol
-about-webrtc-log-show-msg = show log
-    .title = click to expand this section
-about-webrtc-log-hide-msg = hide log
-    .title = click to collapse this section
 about-webrtc-log-section-show-msg = Show log
     .title = Click to expand this section
 about-webrtc-log-section-hide-msg = Hide log
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Remote Candidate
 about-webrtc-raw-candidates-heading = Tut ils candidats bruts
 about-webrtc-raw-local-candidate = Candidat brut local
 about-webrtc-raw-remote-candidate = Candidat brut lontan
-about-webrtc-raw-cand-show-msg = mussar ils candidats bruts
-    .title = click to expand this section
-about-webrtc-raw-cand-hide-msg = zuppentar ils candidats bruts
-    .title = click to collapse this section
 about-webrtc-raw-cand-section-show-msg = Mussar ils candidats bruts
     .title = Click to expand this section
 about-webrtc-raw-cand-section-hide-msg = Zuppentar ils candidats bruts
     .title = Click to collapse this section
 about-webrtc-priority = Priority
-about-webrtc-fold-show-msg = show details
-    .title = click to expand this section
-about-webrtc-fold-hide-msg = hide details
-    .title = click to collapse this section
 about-webrtc-fold-default-show-msg = Show details
     .title = Click to expand this section
 about-webrtc-fold-default-hide-msg = Hide details
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Inditgà
 # been provided
 about-webrtc-configuration-element-not-provided = Betg inditgà
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Preferenzas WebRTC definidas da l'utilisader
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Configuraziun WebRTC modifitgada da l'utilisad:ra
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT (ms)
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Statisticas da maletgs da video - ID MediaStreamTrack: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = memorisà la pagina sut: { $path }
-about-webrtc-debug-mode-off-state-msg = il protocol dal decurs sa chatta qua: { $path }
-about-webrtc-debug-mode-on-state-msg = modus per chattar sbagls activ, protocol dal decurs sut: { $path }
-about-webrtc-aec-logging-off-state-msg = datotecas da protocols registrads sa chattan qua: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

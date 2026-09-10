@@ -108,15 +108,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Semua add-ons telah dinyahdayakan oleh mod selamat.
-extensions-warning-check-compatibility = Pemeriksaan kesesuaian add-on telah dinyahdayakan. Anda mungkin mempunyai add-on yang tidak sesuai.
-extensions-warning-safe-mode2 =
-    .message = Semua add-ons telah dinyahdayakan oleh mod selamat.
 extensions-warning-check-compatibility2 =
     .message = Pemeriksaan kesesuaian add-on telah dinyahdayakan. Anda mungkin mempunyai add-on yang tidak sesuai.
 extensions-warning-check-compatibility-button = Dayakan
     .title = Dayakan semakan kesesuaian add-on
-extensions-warning-update-security = Semakan keselamatan kemaskini add-on telah dinyahdayakan. Anda mungkin terdedah kepada bahaya ketika mengemaskini.
 extensions-warning-update-security2 =
     .message = Semakan keselamatan kemaskini add-on telah dinyahdayakan. Anda mungkin terdedah kepada bahaya ketika mengemaskini.
 extensions-warning-update-security-button = Dayakan
@@ -176,24 +171,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } tidak serasi dengan { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } tidak serasi dengan { -brand-short-name } { $version }.
-details-notification-unsigned-and-disabled = { $name } tidak dapat disahkan untuk digunakan di { -brand-short-name } dan ia telah dinyahdayakan.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } tidak dapat disahkan untuk digunakan di { -brand-short-name } dan ia telah dinyahdayakan.
-details-notification-unsigned-and-disabled-link = Maklumat Lanjut
-details-notification-unsigned = { $name } tidak dapat disahkan untuk digunakan di { -brand-short-name }. Teruskan dengan berhati-hati.
 details-notification-unsigned2 =
     .message = { $name } tidak dapat disahkan untuk digunakan di { -brand-short-name }. Teruskan dengan berhati-hati.
-details-notification-unsigned-link = Maklumat Lanjut
-details-notification-blocked = { $name } telah dinyahdayakan kerana isu keselamatan atau kestabilan.
-details-notification-blocked-link = Maklumat Lanjut
-details-notification-softblocked = { $name } telah dikenalpasti sebagai punca dalam isu keselamatan dan kestabilan.
-details-notification-softblocked-link = Maklumat Lanjut
-details-notification-gmp-pending = { $name } akan dipasang sebentar lagi.
 details-notification-gmp-pending2 =
     .message = { $name } akan dipasang sebentar lagi.
 

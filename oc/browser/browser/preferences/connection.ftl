@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Paramètres de connexion
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Paramètres de connexion
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -58,14 +58,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Tornar cargar
     .accesskey = T
-connection-proxy-autologin =
-    .label = Me demandar pas de m'autentificar se lo senhal es enregistrat
-    .accesskey = g
-    .tooltip = Aquesta opcion vos autentifica automaticament suls servidors proxy que lo senhal n'es enregistrat. Se l'autentificacion fracassa, lo senhal vos serà demandat.
 connection-proxy-autologin-checkbox =
     .label = Me demandar pas de m'autentificar se lo senhal es enregistrat
-    .accesskey = g
     .tooltiptext = Aquesta opcion vos autentifica automaticament suls servidors proxy que lo senhal n'es enregistrat. Se l'autentificacion fracassa, lo senhal vos serà demandat.
+    .accesskey = g
 connection-proxy-socks-remote-dns =
     .label = Proxy DNS en utilizant SOCKS v5
     .accesskey = d
@@ -76,6 +72,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Utilizar l‘URL per defaut per la resolucion DNS via HTTPS
 connection-dns-over-https-url-custom =
     .label = Personalizat
-    .accesskey = P
     .tooltiptext = Picatz vòstra URL preferida per la resolucion de DNS via HTTPS
-connection-dns-over-https-custom-label = Personalizat
+    .accesskey = P

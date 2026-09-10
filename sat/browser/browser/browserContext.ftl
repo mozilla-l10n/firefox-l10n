@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = ᱢᱤᱫ ᱟᱥᱦᱴᱟ ᱛᱟᱭᱚᱢ ᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱢᱮ ({ $shortcut })
     .aria-label = ᱛᱟᱭᱚᱢ
+    .tooltiptext = ᱢᱤᱫ ᱟᱥᱦᱴᱟ ᱛᱟᱭᱚᱢ ᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱢᱮ ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = ᱢᱤᱫ ᱟᱥᱦᱴᱟ ᱞᱟᱦᱟ ᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱢᱮ ({ $shortcut })
     .aria-label = ᱞᱟᱦᱟ
+    .tooltiptext = ᱢᱤᱫ ᱟᱥᱦᱴᱟ ᱞᱟᱦᱟ ᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱢᱮ ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = ᱥᱟᱦᱴᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮ…
-    .accesskey = m
     .tooltiptext = ᱥᱟᱦᱴᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮ
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = ᱥᱟᱦᱴᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮ …
-    .accesskey = m
     .tooltiptext = ᱥᱟᱦᱴᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮ ({ $shortcut })
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱥᱟᱯᱲᱟᱣ ᱢᱮ …
-    .accesskey = m
     .tooltiptext = ᱵᱩᱠᱢᱟᱨᱠ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱥᱟᱯᱲᱟᱣ ᱢᱮ …
-    .accesskey = m
     .tooltiptext = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱥᱟᱯᱲᱟᱣ ᱢᱮ ({ $shortcut })
+    .accesskey = m
 main-context-menu-open-link =
     .label = ᱠᱷᱚᱧᱡᱟ ᱡᱷᱤᱡᱽ ᱢᱮ
     .accesskey = ᱠ
@@ -145,9 +139,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = ᱞᱮᱠᱷᱟ ᱠᱷᱚᱧᱡᱟ ᱥᱟᱺᱪᱟᱣ ᱢᱮ…
     .accesskey = ᱪ
-main-context-menu-save-link-to-pocket =
-    .label = { -pocket-brand-name } ᱨᱮ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
-    .accesskey = o
 
 ##
 
@@ -285,40 +276,22 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = ᱤᱢᱮᱞ ᱟᱺᱡᱚᱢᱟᱜ…
     .accesskey = ᱤ
-main-context-menu-save-to-pocket =
-    .label = ᱥᱟᱦᱴᱟ { -pocket-brand-name } ᱨᱮ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = ᱥᱟᱫᱷᱚᱱ ᱛᱮ ᱥᱟᱦᱴᱟ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
-    .accesskey = n
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
-    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } ᱤᱢᱮᱞ ᱢᱟᱥᱠ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = ᱟᱸᱴ ᱫᱟᱫᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱟᱛᱟᱣ ᱢᱮ …
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = ᱞᱚᱜᱤᱱ ᱵᱮᱵᱚᱥᱛᱷᱟ ᱠᱚ
-    .accesskey = M
 main-context-menu-manage-passwords =
     .label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
     .accesskey = ᱫ
-main-context-menu-keyword =
-    .label = ᱱᱚᱶᱟ ᱯᱟᱱᱛᱮ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱠᱟᱹᱴᱷᱤ ᱵᱚᱲ ᱥᱮᱞᱮᱫ ᱢᱮ …
-    .accesskey = ᱱ
 main-context-menu-add-engine =
     .label = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱥᱮᱞᱮᱫ ᱢᱮ
     .accesskey = ᱥ
@@ -364,9 +337,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = ᱥᱠᱨᱤᱱᱮᱚᱴ ᱤᱫᱤᱢᱮ
     .accesskey = T
-main-context-menu-take-frame-screenshot =
-    .label = ᱥᱠᱨᱤᱱᱮᱚᱴ ᱤᱫᱤᱢᱮ
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = ᱥᱟᱦᱴᱟ ᱥᱨᱚᱛ ᱧᱮᱞ ᱢᱮ
     .accesskey = V

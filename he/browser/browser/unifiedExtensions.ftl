@@ -36,9 +36,6 @@ unified-extensions-item-message-manage = ניהול הרחבה
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = ההרחבה { $extensionName } מוגבלת. השימוש בה עלול להיות כרוך בסיכון.
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = ההרחבה { $extensionName } מפרה את המדיניות של Mozilla. השימוש בה עשוי להיות כרוך בסיכון.
 
 ## Extension's context menu
 
@@ -57,8 +54,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = חלק מההרחבות אינן מורשות לשימוש
-unified-extensions-mb-quarantined-domain-message = רק חלק מההרחבות המנוטרות על־ידי { -vendor-short-name } מותרות לשימוש באתר זה כדי להגן על הנתונים שלך.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = חלק מההרחבות אינן מורשות לשימוש
@@ -71,13 +66,6 @@ unified-extensions-mb-about-addons-link = מעבר להגדרות ההרחבות
 unified-extensions-mb-blocklist-warning-single2 =
     .heading = ההרחבה { $extensionName } מושבתת
     .message = הרחבה זו מוגבלת ולכן הושבתה. באפשרותך להפעיל אותה בהגדרות, אבל ייתכן שזה יהיה כרוך בסיכון.
-# Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = ההרחבה { $extensionName } מושבתת
-    .message =
-        הרחבה זו מפרה את המדיניות של Mozilla ולכן הושבתה.
-        באפשרותך להפעיל אותה בהגדרות, אבל ייתכן שזה יהיה כרוך בסיכון.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
@@ -92,16 +80,6 @@ unified-extensions-mb-blocklist-warning-multiple2 =
            *[other] { $extensionsCount } הרחבות הושבתו
         }
     .message = חלק מההרחבות שלך מוגבלות ולכן הושבתו. באפשרותך להפעיל אותה בהגדרות, אבל ייתכן שזה יהיה כרוך בסיכון.
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-           *[other] { $extensionsCount } הרחבות מושבתות
-        }
-    .message =
-        חלק מההרחבות שלך הושבתו עקב הפרת המדיניות של Mozilla.
-        באפשרותך להפעיל אותן בהגדרות, אבל ייתכן שזה יהיה כרוך בסיכון.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =

@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Ien side tebek gean ({ $shortcut })
     .aria-label = Tebek
+    .tooltiptext = Ien side tebek gean ({ $shortcut })
     .accesskey = T
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Ien side foarút gean ({ $shortcut })
     .aria-label = Foarút
+    .tooltiptext = Ien side foarút gean ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Blêdwizer foar side meitsje…
-    .accesskey = m
     .tooltiptext = Blêdwizer foar side meitsje…
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Blêdwizer foar side meitsje…
-    .accesskey = m
     .tooltiptext = Blêdwizer foar side meitsje ({ $shortcut })
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = Blêdwizer bewurkje…
-    .accesskey = w
     .tooltiptext = Blêdwizer bewurkje…
+    .accesskey = w
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Blêdwizer bewurkje…
-    .accesskey = w
     .tooltiptext = Blêdwizer bewurkje ({ $shortcut })
+    .accesskey = w
 main-context-menu-open-link =
     .label = Keppeling iepenje
     .accesskey = K
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Keppeling bewarje as…
     .accesskey = l
-main-context-menu-save-link-to-pocket =
-    .label = Keppeling bewarje nei { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Skeakelje Syngronisaasj
 main-context-menu-send-to-mobile-connect-phone3 = Ferbyn in apparaat om ljepblêden te ferstjoeren
 main-context-menu-send-to-mobile-connect-phone-from-link = Ferbyn in apparaat om in keppeling te ferstjoeren
 main-context-menu-send-to-mobile-connect-phone-from-page = Ferbyn in apparaat om in side te ferstjoeren
-main-context-menu-save-to-pocket =
-    .label = Side bewarje nei { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Side nei apparaat ferstjoere
-    .accesskey = p
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Bewarre oanmeldingen brûke
-    .accesskey = B
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Bewarre wachtwurden brûke
     .accesskey = B
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name }-e-mailmasker brûke
     .accesskey = m
 main-context-menu-suggest-strong-password =
     .label = Sterk wachtwurd foarstelle…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = Oanmeldingen beheare
-    .accesskey = b
 main-context-menu-manage-passwords =
     .label = Wachtwurden beheare
     .accesskey = b
-main-context-menu-keyword =
-    .label = Kaaiwurd foar dizze sykopdracht tafoegje…
-    .accesskey = K
 main-context-menu-add-engine =
     .label = Sykmasine tafoegje
     .accesskey = S
@@ -393,9 +366,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Skermôfbylding meitsje
     .accesskey = k
-main-context-menu-take-frame-screenshot =
-    .label = Skermôfbylding meitsje
-    .accesskey = m
 main-context-menu-view-page-source =
     .label = Sideboarne besjen
     .accesskey = b

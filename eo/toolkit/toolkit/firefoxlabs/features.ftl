@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Aktivigi Warp, kiu estas projekto po
 experimental-features-ime-search =
     .label = Adresa strio: montri rezultojn dum komponado IME
 experimental-features-ime-search-description = IME (redaktilo de eniga metodo) estas ilo, kiu permesas al vi, pere de normala klavaro, tajpi malsimplajn signojn, kiel la uzatajn en la skribataj lingvoj de orienta Azio aŭ Barato. Se vi ŝaltas tiun ĉi eksperimenton, la adresa strio restos malfermita dum vi uzas IME por tajpi ion. Notu ke IME povus montri panelon kiu kovras la rezultojn de la adresa strio, tial tiu ĉi prefero estas sugestita por la IME, kiuj ne uzas tiajn panelojn.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Inkrustita video: aŭtomate malfermi post ŝanĝo de langeto
-experimental-features-auto-pip-description = Akvitivi inkrustitan videon en aktiva video post ŝanĝo de langeto.
 experimental-features-group-developer-tools =
     .label = Iloj por programistoj
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Produktemo
 experimental-features-group-newtab-widgets =
     .label = Komponantoj en { -firefox-home-brand-name }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Pasvortoj en la flanka strio
-experimental-features-contextual-password-manager-description = Aliru viajn pasvortojn rekte en la flanka strio. Ne plu serĉu aŭ restarigu pasvortojn kiam vi provas komenci seancon. Por uzi tiun ĉi trajton, elektu pasvortojn en la flanka strio. Poste iru al viaj ĝeneralaj agordoj kaj sub retumila aranĝo, elektu Montri flankan strion. Poste, agordu vian flankan strion per elekto de pasvortojn. Se vi provas tion, <a data-l10n-name="connect">informu al ni, kion vi pensas</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Elekti personecigitan ekranfonon aŭ koloron por novaj folioj

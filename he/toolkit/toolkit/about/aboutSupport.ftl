@@ -31,10 +31,6 @@ security-software-name = שם
 security-software-antivirus = אנטי וירוס
 security-software-antispyware = חוסם רוגלות
 security-software-firewall = חומת אש
-features-title = התכונות של { -brand-short-name }
-features-name = שם
-features-version = גרסה
-features-id = מזהה
 processes-title = תהליכים מרוחקים
 processes-type = סוג
 processes-count = כמות
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] תיקיית פרופיל
        *[other] תיקיית פרופיל
     }
-app-basics-enabled-plugins = תוספים חיצוניים פעילים
 app-basics-build-config = הגדרות בנייה
 app-basics-user-agent = סוכן משתמש
 app-basics-os = מערכת הפעלה
@@ -91,9 +86,6 @@ show-dir-label =
 environment-variables-title = משתנים סביבתיים
 environment-variables-name = שם
 environment-variables-value = ערך
-experimental-features-title = תכונות ניסיוניות
-experimental-features-name = שם
-experimental-features-value = ערך
 modified-key-prefs-title = העדפות חשובות ששונו
 modified-prefs-name = שם
 modified-prefs-value = ערך
@@ -353,8 +345,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = מושבת על־ידי ניסוי
-fission-status-experiment-treatment = מופעל על־ידי ניסוי
 fission-status-disabled-by-e10s-env = מושבת על־ידי הסביבה
 fission-status-enabled-by-env = מופעל על־ידי הסביבה
 fission-status-disabled-by-env = מושבת על־ידי הסביבה
@@ -363,7 +353,6 @@ fission-status-disabled-by-default = מושבת כברירת מחדל
 fission-status-enabled-by-user-pref = מופעל על־ידי המשתמש
 fission-status-disabled-by-user-pref = מושבת על־ידי המשתמש
 fission-status-disabled-by-e10s-other = ריבוי תהליכים מושבת
-fission-status-enabled-by-rollout = מופעל על־ידי השקה בשלבים
 apz-none = אין
 wheel-enabled = קלט גלגל מופעל
 touch-enabled = קלט מגע מופעל

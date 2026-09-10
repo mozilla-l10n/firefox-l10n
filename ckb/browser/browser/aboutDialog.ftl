@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/> داگرتنی نوێکاری —<label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = داگرتنی  نوێکاری —<label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = داگرتنی نوێکاری —{ $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = جێبەجێکردنی نوێکردنەوە…
 update-failed = نوێکردنەوە سەرکەوتوو نەبوو. <label data-l10n-name="failed-link"> دووا وەشان دابگرە </label>
 update-failed-main = نوێکردنەوە سەرکەوتوو نەبوو. <a data-l10n-name="failed-link-main">دووا وەشان دابگرە</a>
-update-adminDisabled = نوێکردنەوە ناچالاک کراوە لە بەڕێوەبەری سیستمەکەتەوە
 update-noUpdatesFound = { -brand-short-name } ئێستا لە دووا وەشانە
 settings-update-no-updates-found =
     .label = { -brand-short-name } ئێستا لە دووا وەشانە
@@ -61,8 +59,6 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } درووستکراوە لەلایەن <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a <label data-l10n-name="community-creditsLink">کۆمەڵگەییەکی جیهانییەوە</label> بەیەکەوە کاردەکرێت بۆ ئەوەی وێب بە کراوەیی، گشتی و بەردەست بێت بۆ هەموو کەسێک.
 helpus = دەتەوێت یارمەتیدەر بیت؟ <label data-l10n-name="helpus-donateLink"> ببەخشە </label> یان <label data-l10n-name="helpus-getInvolvedLink"> بەشدار بە</label>
 bottomLinks-license = زانیارییەکانی ڕێگەپێدان
-bottomLinks-rights = مافی بەکارهێنەر
-bottomLinks-privacy = ڕێوشوێنی تایبەتێتی
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

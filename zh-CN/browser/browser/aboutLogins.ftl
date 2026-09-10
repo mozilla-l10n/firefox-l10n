@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = 我的密码
-about-logins-login-filter =
-    .placeholder = 搜索登录信息
-    .key = F
-create-new-login-button =
-    .title = 新建登录信息
 about-logins-page-title-name = 密码
 about-logins-login-filter2 =
-    .placeholder = 搜索密码
     .key = F
+    .placeholder = 搜索密码
 create-login-button =
     .title = 添加密码
 fxaccounts-sign-in-text = 跨设备使用已保存的密码
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = 从其他浏览器导入…
 about-logins-menu-menuitem-import-from-a-file = 从文件导入…
-about-logins-menu-menuitem-export-logins = 导出登录信息…
-about-logins-menu-menuitem-remove-all-logins = 移除所有登录信息…
 about-logins-menu-menuitem-export-logins2 = 导出密码…
 about-logins-menu-menuitem-remove-all-logins2 = 移除所有密码…
 menu-menuitem-preferences =
@@ -44,16 +36,6 @@ login-list =
     .aria-label = 匹配搜索词的登录信息
 # Variables
 #   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-       *[other] { $count } 条登录信息
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count = { $count } / { $total } 条登录信息
-# Variables
-#   $count (number) - Number of logins
 login-list-count2 = { $count } 个密码
 # Variables
 #   $count (number) - Number of filtered logins
@@ -67,14 +49,10 @@ login-list-username-reverse-option = 用户名（Z-A）
 about-logins-login-list-alerts-option = 警报
 login-list-last-changed-option = 最后修改
 login-list-last-used-option = 上次使用
-login-list-intro-title = 未找到登录信息
 login-list-intro-title2 = 没有已保存的密码
 login-list-intro-description = 保存到 { -brand-product-name } 的密码会显示在这里。
-about-logins-login-list-empty-search-title = 未找到登录信息
 about-logins-login-list-empty-search-title2 = 找不到相关密码
 about-logins-login-list-empty-search-description = 没有符合您搜索条件的结果。
-login-list-item-title-new-login = 新建登录信息
-login-list-item-subtitle-new-login = 输入您的登录凭据
 login-list-item-title-new-login2 = 添加密码
 login-list-item-subtitle-missing-username = （无用户名）
 about-logins-list-item-breach-icon =
@@ -90,28 +68,20 @@ about-logins-list-section-week = 最近 7 天
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = 在寻找您保存的登录信息？请开启同步或进行导入。
-about-logins-login-intro-heading-logged-in = 未找到同步的登录信息。
-login-intro-description = 若您曾在其他设备上将登录信息保存到 { -brand-product-name }，请按以下步骤操作：
-login-intro-instructions-fxa = 在您保存登录信息的设备，注册或登录 { -fxaccount-brand-name }
 about-logins-login-intro-heading-message = 集中一处，安全保存密码
 login-intro-description2 = 所有保存到 { -brand-product-name } 的密码都受加密保护。我们还会关注外泄事件动态，并在您的账户受影响时向您发出警报。<a data-l10n-name="breach-alert-link">详细了解</a>
 login-intro-instructions-fxa2 = 在您保存登录信息的设备上创建或登录账户。
 login-intro-instructions-fxa-settings = 前往“设置”>“同步”>“开启同步…”，勾选“登录名和密码”复选框。
 login-intro-instructions-fxa-passwords-help = 若需更多帮助，请访问<a data-l10n-name="passwords-help-link">密码支持</a>页面。
-about-logins-intro-browser-only-import = 若登录信息保存在其他浏览器，您可以<a data-l10n-name="import-link">导入到 { -brand-product-name }</a>
-about-logins-intro-import2 = 若您的登录信息并未保存在 { -brand-product-name }，可以<a data-l10n-name="import-browser-link">从另一浏览器</a>或<a data-l10n-name="import-file-link">文件</a>导入
 about-logins-intro-import3 = 选择上方的加号按钮即可添加密码，也可以<a data-l10n-name="import-browser-link">从其他浏览器</a>或<a data-l10n-name="import-file-link">从文件</a>导入密码。
 
 ## Login
 
-login-item-new-login-title = 新建登录信息
 # Header for adding a password
 about-logins-login-item-new-login-title = 添加密码
 login-item-edit-button = 编辑
 about-logins-login-item-remove-button = 移除
 login-item-origin-label = 网址
-login-item-tooltip-message = 请确保其与您所登录的网站地址精确匹配。
 about-logins-origin-tooltip2 = 请输入完整地址，确保其与需登录网站的地址一致。
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -131,7 +101,6 @@ login-item-password-conceal-checkbox =
     .aria-label = 隐藏密码
 login-item-copy-password-button-text = 复制
 login-item-copied-password-button-text = 已复制！
-login-item-save-changes-button = 保存更改
 about-logins-login-item-save-changes-button = 保存
 login-item-save-new-button = 保存
 login-item-cancel-button = 取消
@@ -155,11 +124,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = 请输入 Windows 登录凭据，以继续编辑登录信息。这有助于保护您的账户安全。
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = 编辑保存的登录信息
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -183,11 +147,6 @@ about-logins-copy-password-os-auth-dialog-message-win = 请输入 Windows 登录
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = 复制保存的密码
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = 请输入 Windows 登录凭据，以继续导出登录信息。这有助于保护您的账户安全。
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = 导出保存的登录名和密码
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = 请输入 Windows 登录凭据，以导出密码。这有助于保护您的账户安全。
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -205,8 +164,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = 取消
 confirmation-dialog-dismiss-button =
     .title = 取消
-about-logins-confirm-remove-dialog-title = 确定要移除此登录信息吗？
-confirm-delete-dialog-message = 此操作不可撤销。
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = 确定要移除密码吗？
 # Message for modal to confirm the removal of one saved password
@@ -220,28 +177,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] 移除
        *[other] 全部移除
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] 是，移除此登录信息
-       *[other] 是，移除这些登录信息
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] 确定要移除 { $count } 条登录信息吗？
-       *[other] 确定要移除全部共 { $count } 条登录信息吗？
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-       *[other] 将移除您保存在 { -brand-short-name } 的登录信息，以及在此显示的任何数据外泄警报。此操作不可撤销。
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-       *[other] 要从所有设备移除 { $count } 条登录信息吗？
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-       *[other] 将在您所有与 { -fxaccount-brand-name }同步的设备上，移除保存在 { -brand-short-name } 的登录信息，以及在此显示的任何数据外泄警报。此操作不可撤销。
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -268,15 +203,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = 导出登录名和密码
-about-logins-confirm-export-dialog-message = 您的密码将存为可读文本（如 BadP@ssw0rd），因此任何可以打开导出文件的人都可以看到密码。
-about-logins-confirm-export-dialog-confirm-button = 导出…
 about-logins-confirm-export-dialog-title2 = 导出密码注意事项
 about-logins-confirm-export-dialog-message2 =
     密码导出后，将以明文形式保存在文件中。
     建议在使用完毕后删除文件，防止其他使用此设备的人看到您的密码。
 about-logins-confirm-export-dialog-confirm-button2 = 继续导出
-about-logins-alert-import-title = 导入完成
 about-logins-alert-import-message = 更多信息见：导入摘要报告
 confirm-discard-changes-dialog-title = 要丢弃未保存的更改吗？
 confirm-discard-changes-dialog-message = 将失去所有未保存的更改。
@@ -313,11 +244,6 @@ about-logins-error-message-default = 尝试保存该密码时发生错误。
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = 导出登录信息文件
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = 登录信息.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = 从 { -brand-short-name } 导出的密码
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -333,8 +259,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = 导入登录信息文件
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = 将密码导入 { -brand-short-name }
 about-logins-import-file-picker-import-button = 导入
@@ -358,18 +282,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = 导入完成
-about-logins-import-dialog-items-added =
-    { $count ->
-       *[other] <span>新增的登录信息：</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-       *[other] <span>更新的现有登录信息：</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-       *[other] <span>重复的登录信息：</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">（未导入）</span>
-    }
 about-logins-import-dialog-items-added2 = <span>已添加新密码：</span><span data-l10n-name="count">{ $count } 个</span>
 about-logins-import-dialog-items-modified2 = <span>已更新现有项：</span><span data-l10n-name="count">{ $count } 个</span>
 about-logins-import-dialog-items-no-change2 = <span>发现的重复项：</span><span data-l10n-name="count">{ $count } 个</span><span data-l10n-name="meta">（未导入）</span>
@@ -392,15 +304,11 @@ about-logins-import-dialog-error-learn-more = 详细了解
 about-logins-import-dialog-error-try-import-again = 再次尝试导入…
 about-logins-import-dialog-error-cancel = 取消
 about-logins-import-report-title = 导入摘要
-about-logins-import-report-description = 导入到 { -brand-short-name } 的登录名和密码。
 about-logins-import-report-description2 = 密码已导入 { -brand-short-name }｡
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = 第 { $number } 行
-about-logins-import-report-row-description-no-change = 重复：与现有登录信息完全一致
-about-logins-import-report-row-description-modified = 更新的现有登录信息
-about-logins-import-report-row-description-added = 新增的登录信息
 about-logins-import-report-row-description-no-change2 = 重复：与现有项完全一致
 about-logins-import-report-row-description-modified2 = 已更新现有项
 about-logins-import-report-row-description-added2 = 已添加新密码
@@ -417,18 +325,6 @@ about-logins-import-report-row-description-error-missing-field = 错误：缺少
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">新增的登录信息</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">更新的现有登录信息</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">重复的登录信息</div> <div data-l10n-name="not-imported">（未导入）</div>
-    }
 about-logins-import-report-added2 = <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">新增的密码</div>
 about-logins-import-report-modified2 = <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">更新的现有密码</div>
 about-logins-import-report-no-change2 = <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">重复的密码</div><div data-l10n-name="not-imported">（未导入）</div>

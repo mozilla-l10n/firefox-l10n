@@ -4,16 +4,3 @@
 
 protections-panel-content-blocking-cryptominers-label = Kriptomadenciler
 protections-panel-content-blocking-fingerprinters-label = Parmaq-izciler
-
-##
-
-protections-panel-content-blocking-breakage-report-view-collection-url = Adres
-protections-panel-content-blocking-breakage-report-view-collection-url-label =
-    .aria-label = Adres
-protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = Vazgeç
-protections-panel-content-blocking-breakage-report-view-send-report =
-    .label = Maruza Yiber
-
-# Cookie Banner Handling
-

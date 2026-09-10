@@ -10,9 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Add { $extension }?
 webext-perms-sideload-header = { $extension } added
-webext-perms-optional-perms-header = { $extension } requests additional permissions.
 
 ##
 
@@ -45,23 +43,5 @@ webext-perms-host-description-all-urls = Pīeja vysai informacejai vysōs lopōs
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Pīeja tovim datim lopōs nu { $domain } domena
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [zero] Pīeja tovim datim { $domainCount } cytūs domenūs
-        [one] Pīeja tovim datim { $domainCount } cytā domenā
-       *[other] Pīeja tovim datim { $domainCount } cytūs domenūs
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Pīeja tovim datim nu { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [zero] Pīeja tovim datim { $domainCount } cytōs lopōs
-        [one] Pīeja tovim datim { $domainCount } cytā lopā
-       *[other] Pīeja tovim datim { $domainCount } cytōs lopōs
-    }

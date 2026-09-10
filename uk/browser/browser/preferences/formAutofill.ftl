@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Збережені адреси
 autofill-manage-addresses-list-header = Адреси
-autofill-manage-credit-cards-title = Збережені кредитні картки
-autofill-manage-credit-cards-list-header = Кредитні картки
 autofill-manage-payment-methods-title = Збережені способи оплати
 autofill-manage-cards-list-header = Картки
 autofill-manage-dialog =
@@ -45,15 +43,10 @@ address-capture-open-menu-button =
     .aria-label = Відкрити меню
 address-capture-edit-address-link = Редагувати адресу
     .aria-label = Редагувати адресу
-address-capture-edit-address-button =
-    .aria-label = Редагувати адресу
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Додати адресу
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Змінити адресу
-autofill-address-given-name = Ім'я
-autofill-address-additional-name = По батькові
-autofill-address-family-name = Прізвище
 autofill-address-name = Ім'я
 autofill-address-organization = Організація
 autofill-address-street-address = Вулиця
@@ -101,8 +94,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Додати нову адресу
 autofill-address-country = Країна
 autofill-address-country-only = Країна
 autofill-address-tel = Телефон
@@ -110,18 +101,6 @@ autofill-address-email = Електронна пошта
 autofill-cancel-button = Скасувати
 autofill-save-button = Зберегти
 autofill-country-warning-message = Автозаповнення форм наразі доступне лише для певних країн.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Додати нову кредитну картку
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Змінити кредитну картку
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] показати інформацію про кредитну карту
-        [windows] { -brand-short-name } намагається показати інформацію кредитної картки. Підтвердьте доступ до цього облікового запису Windows внизу.
-       *[other] { -brand-short-name } намагається показати інформацію кредитної картки.
-    }
 autofill-message-tooltip = Переглянути повідомлення про автозаповнення
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Додати картку
@@ -146,15 +125,3 @@ autofill-card-network = Тип картки
 # methods section. Localizers should choose terms that make sense for payment
 # methods in their region.
 autofill-card-search-term-credit-cards = банківські картки, кредит, картки, дебетові картки, дебет, гаманець, оформлення замовлення
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = Аmerican Express
-autofill-card-network-cartebancaire = Сarte Bancaire
-autofill-card-network-diners = Dіners Club
-autofill-card-network-discover = Dіscover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCаrd
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Uniоn Pay
-autofill-card-network-visa = Vіsa

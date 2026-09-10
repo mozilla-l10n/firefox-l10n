@@ -153,15 +153,10 @@ addon-sitepermission-host = Sivuston { $host } oikeudet
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Kaikki lisäosat on poistettu käytöstä vikasietotilassa.
-extensions-warning-check-compatibility = Lisäosien yhteensopivuuden tarkistus ei ole käytössä. Osa lisäosista voi olla epäyhteensopivia.
-extensions-warning-safe-mode2 =
-    .message = Kaikki lisäosat on poistettu käytöstä vikasietotilassa.
 extensions-warning-check-compatibility2 =
     .message = Lisäosien yhteensopivuuden tarkistus ei ole käytössä. Osa lisäosista voi olla epäyhteensopivia.
 extensions-warning-check-compatibility-button = Ota käyttöön
     .title = Ota lisäosien yhteensopivuuden tarkistus käyttöön
-extensions-warning-update-security = Lisäosien päivitysten turvallisuustarkistus ei ole käytössä. Päivitykset voivat saastuttaa koneesi.
 extensions-warning-update-security2 =
     .message = Lisäosien päivitysten turvallisuustarkistus ei ole käytössä. Päivitykset voivat saastuttaa koneesi.
 extensions-warning-update-security-button = Ota käyttöön
@@ -237,10 +232,6 @@ shortcuts-duplicate = Päällekkäinen pikanäppäin
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } on käytössä pikanäppäimenä enemmän kuin yhdessä tapauksessa. Päällekkäiset pikanäppäimet saattavat aiheuttaa odottamatonta käytöstä.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } on käytössä pikanäppäimenä enemmän kuin yhdessä tapauksessa. Päällekkäiset pikanäppäimet saattavat aiheuttaa odottamatonta käytöstä.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -260,19 +251,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Laajennukset ja teemat ovat kuin sovelluksia selaimessa. Ne voivat suojata salasanojasi,
-    ladata videoita, löytää hyviä tarjouksia, estää ärsyttäviä mainoksia, muuttaa
-    selaimen ulkoasua ja paljon muuta. Nämä pienet ohjelmat ovat usein kolmansien
-    osapuolten kehittämiä. Tässä on valikoima { -brand-product-name }in
-    <a data-l10n-name="learn-more-trigger">suosittelemia</a> laajennuksia
-    tietoturvan, suorituskyvyn ja toiminnallisuuden parantamiseksi.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    Jotkin näistä suosituksista ovat henkilökohtaisia. Suositukset pohjautuvat
-    muihin asentamiisi laajennuksiin, profiiliasetuksiin ja käyttötilastoihin.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -359,16 +337,9 @@ addon-detail-last-updated-label = Päivitetty viimeksi
 addon-detail-homepage-label = Kotisivu
 addon-detail-rating-label = Arvostelu
 # Message for add-ons with a staged pending update.
-install-postponed-message = Tämä laajennus päivitetään, kun { -brand-short-name } käynnistyy uudelleen.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Tämä laajennus päivitetään, kun { -brand-short-name } käynnistyy uudelleen.
 install-postponed-button = Päivitä nyt
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Arvostelu { NUMBER($rating, maximumFractionDigits: 1) }/5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -384,9 +355,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> on poistettu.
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -405,11 +373,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Sallittu yksityisissä ikkunnoissa
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Sallittu yksityisissä ikkunnoissa
 addon-detail-private-browsing-help = Kun sallittu, laajennus voi seurata, mitä teet verkossa yksityisen selauksen tilassa. <a data-l10n-name="learn-more">Lue lisää</a>
 addon-detail-private-browsing-allow = Salli
@@ -436,17 +399,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } suosittelee vain laajennuksia, jotka täyttävät standardimme turvallisuuden ja suorituskyvyn suhteen
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Virallinen laajennus, jonka on toteuttanut Mozilla. Täyttää turvallisuus- ja suorituskykystandardit.
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Tämä laajennnus on katselmoitu, ja se täyttää standardimme turvallisuuden ja suorituskyvyn suhteen.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -476,9 +428,6 @@ addon-permissions-heading = Käyttöoikeudet
 addon-permissions-empty2 = Tämä laajennus ei vaadi mitään oikeuksia.
 addon-permissions-required-label = Vaadittu:
 addon-permissions-optional-label = Valinnainen:
-addon-permissions-empty = Tämä laajennus ei vaadi mitään oikeuksia
-addon-permissions-required = Vaaditut käyttöoikeudet ydintoiminnoille:
-addon-permissions-optional = Valinnaiset käyttöoikeudet lisätoiminnoille:
 addon-permissions-learnmore = Lue lisää käyttöoikeuksista
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -519,25 +468,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = Lisäosa { $name } on epäyhteensopiva { -brand-short-name }in version { $version } kanssa.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = Lisäosa { $name } on epäyhteensopiva { -brand-short-name }in version { $version } kanssa.
-details-notification-incompatible-link = Lisätietoja
-details-notification-unsigned-and-disabled = Lisäosaa { $name } ei ole varmennettu käytettäväksi { -brand-short-name }issa ja on otettu pois päältä.
 details-notification-unsigned-and-disabled2 =
     .message = Lisäosaa { $name } ei ole varmennettu käytettäväksi { -brand-short-name }issa ja on otettu pois päältä.
-details-notification-unsigned-and-disabled-link = Lisätietoja
-details-notification-unsigned = Lisäosaa { $name } ei ole varmennettu käytettäväksi { -brand-short-name }issa. Ole varovainen.
 details-notification-unsigned2 =
     .message = Lisäosaa { $name } ei ole varmennettu käytettäväksi { -brand-short-name }issa. Ole varovainen.
 details-notification-hard-blocked-extension =
     .message = Tämä laajennus on estetty Mozillan käytäntöjen rikkomisen vuoksi, ja se on poistettu käytöstä.
 details-notification-hard-blocked-other =
     .message = Tämä lisäosa on estetty Mozillan käytäntöjen rikkomisen vuoksi, ja se on poistettu käytöstä.
-details-notification-unsigned-link = Lisätietoja
-details-notification-blocked = Lisäosa { $name } poistettiin käytöstä turvallisuus- tai vakausongelmien takia.
 details-notification-blocked-link2 = Näytä yksityiskohdat
 details-notification-soft-blocked-extension-disabled2 =
     .message = Tämä laajennus on rajoitettu ja se on poistettu käytöstä. Voit ottaa sen käyttöön, mutta se voi olla riskialtista.
@@ -547,19 +487,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = Tämä lisäosa on rajoitettu ja se on poistettu käytöstä. Voit ottaa sen käyttöön, mutta se voi olla riskialtista.
 details-notification-soft-blocked-other-enabled2 =
     .message = Tämä lisäosa on rajoitettu. Sen käyttö voi olla riskialtista.
-details-notification-soft-blocked-extension-disabled =
-    .message = Tämä laajennus on rajoitettu Mozillan käytäntöjen rikkomisen vuoksi, ja se on poistettu käytöstä. Voit ottaa laajennuksen käyttöön, mutta se voi olla riskialtista.
-details-notification-soft-blocked-extension-enabled =
-    .message = Tämä laajennus rikkoo Mozillan käytäntöjä. Sen käyttö voi olla riskialtista.
-details-notification-soft-blocked-other-disabled =
-    .message = Tämä lisäosa on rajoitettu Mozillan käytäntöjen rikkomisen vuoksi, ja se on poistettu käytöstä. Voit ottaa lisäosan käyttöön, mutta se voi olla riskialtista.
-details-notification-soft-blocked-other-enabled =
-    .message = Tämä lisäosa rikkoo Mozillan käytäntöjä. Sen käyttö voi olla riskialtista.
 details-notification-softblocked-link2 = Näytä yksityiskohdat
-details-notification-blocked-link = Lisätietoja
-details-notification-softblocked = Lisäosa { $name } aiheuttaa tunnetusti turvallisuus- tai vakausongelmia.
-details-notification-softblocked-link = Lisätietoja
-details-notification-gmp-pending = { $name } asennetaan kohta.
 details-notification-gmp-pending2 =
     .message = { $name } asennetaan kohta.
 
@@ -575,8 +503,6 @@ plugins-widevine-description = Tämä liitännäinen mahdollistaa Encrypted Medi
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Pakollinen tiedonkeruu:
-addon-permissions-optional-data-collection = Valinnainen tiedonkeruu:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Käyttöoikeudet ja data
 # This is a description for extension that use this AI model

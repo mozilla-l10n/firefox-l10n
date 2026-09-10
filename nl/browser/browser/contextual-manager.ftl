@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Wachtwoorden zoeken
-    .key = F
     .aria-label = Wachtwoorden zoeken
+    .key = F
+    .placeholder = Wachtwoorden zoeken
 contextual-manager-menu-more-options-button =
     .title = Meer opties
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Uit een bestand importeren…
 contextual-manager-passwords-command-export = Wachtwoorden exporteren
 contextual-manager-passwords-command-remove-all = Alle wachtwoorden verwijderen
 contextual-manager-passwords-command-options = Opties
-contextual-manager-passwords-command-settings = Instellingen
 contextual-manager-passwords-command-help = Help
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Wachtwoorden geïmporteerd
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Nieuw: { $added }, bijgewerkt: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -219,8 +214,6 @@ contextual-manager-passwords-create-label =
     .label = Wachtwoord toevoegen
 contextual-manager-passwords-update-label =
     .label = Wachtwoord bijwerken
-contextual-manager-passwords-edit-label =
-    .label = Wachtwoord bewerken
 contextual-manager-passwords-remove-label =
     .title = Wachtwoord verwijderen
 contextual-manager-passwords-origin-field =
@@ -236,7 +229,6 @@ contextual-manager-passwords-password-field-description = Voer het wachtwoord in
 contextual-manager-passwords-origin-tooltip = Voer het exacte adres in waar u zich bij deze website zult aanmelden.
 contextual-manager-passwords-username-tooltip = Voer de gebruikersnaam, het e-mailadres of het accountnummer in dat u gebruikt om u aan te melden.
 contextual-manager-passwords-password-tooltip-2 = Voer het wachtwoord in om u aan te melden bij deze account.
-contextual-manager-passwords-password-tooltip = Voer het wachtwoord in dat is gebruikt om u aan te melden bij deze account.
 
 ## Password Card
 
@@ -283,10 +275,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Wachtwoord kopiëren (waarschuwing)
 contextual-manager-edit-login-button = Bewerken
     .tooltiptext = Wachtwoord bewerken
-contextual-manager-view-alert-heading =
-    .heading = Waarschuwing tonen
-contextual-manager-view-alert-button =
-    .tooltiptext = Waarschuwing beoordelen
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -315,13 +303,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Geen wachtwoorden gevonden
 contextual-manager-passwords-no-passwords-found-message-2 = Probeer een andere term en zoek opnieuw.
-contextual-manager-passwords-no-passwords-found-message = Geen wachtwoorden gevonden. Zoek een andere term en probeer het opnieuw.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Bewaar uw wachtwoorden op een veilige plek.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Alle wachtwoorden zijn versleuteld en we letten op voor datalekken en waarschuwingen als u hierdoor wordt getroffen.

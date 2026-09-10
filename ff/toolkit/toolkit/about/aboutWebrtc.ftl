@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = danndu baɗte:webrtc no
 about-webrtc-aec-logging-msg-label = Logagol AEC
 about-webrtc-aec-logging-off-state-label = Fuɗɗo Logagol AEC
 about-webrtc-aec-logging-on-state-label = Dartin Logagol AEC
-about-webrtc-aec-logging-on-state-msg = Logagol AEC hurmii (haaldu e nodduɗo oo kojome seeɗa kisa ndartinaa nokitol ngol)
 about-webrtc-aec-logging-toggled-on-state-msg = Logagol AEC hurmii (haaldu e nodduɗo oo kojome seeɗa kisa ndartinaa nokitol ngol)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -76,17 +75,9 @@ about-webrtc-nominated = Nominated
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Cuɓaaɗo
 about-webrtc-save-page-label = Danndu Hello
-about-webrtc-debug-mode-msg-label = Mbayka buggitagol
-about-webrtc-debug-mode-off-state-label = Fuɗɗo Mbayka buggitagol
-about-webrtc-debug-mode-on-state-label = Dartin Mbayka buggitagol
-about-webrtc-stats-heading = Limlimtooje Sarwoore
 about-webrtc-stats-clear = Momtu Aslol
 about-webrtc-log-heading = Logagol Ceŋagol
 about-webrtc-log-clear = Momtu Log
-about-webrtc-log-show-msg = holl log
-    .title = dobo ngam wertude taƴre
-about-webrtc-log-hide-msg = suuɗ log
-    .title = dobo ngam taggude taƴre
 about-webrtc-log-section-show-msg = Holl log
     .title = Dobo ngam wertude taƴre
 about-webrtc-log-section-hide-msg = Suuɗ log
@@ -109,19 +100,11 @@ about-webrtc-remote-candidate = Kanndidaa Goɗɗuɗo
 about-webrtc-raw-candidates-heading = Kanndidaaji kecci ɗii fof
 about-webrtc-raw-local-candidate = Kanndidaa Nokkuujo Kecco
 about-webrtc-raw-remote-candidate = Kanndidaa Goɗɗuɗo Kecco
-about-webrtc-raw-cand-show-msg = hollu kanndidaaji kecci
-    .title = dobo ngam wertude taƴre
-about-webrtc-raw-cand-hide-msg = suuɗ kanndidaaji kecci
-    .title = dobo ngam taggude taƴre
 about-webrtc-raw-cand-section-show-msg = Hollu kanndidaaji kecci
     .title = Dobo ngam wertude taƴre
 about-webrtc-raw-cand-section-hide-msg = Suuɗ kanndidaaji kecci
     .title = Dobo ngam taggude taƴre
 about-webrtc-priority = Ko ardii
-about-webrtc-fold-show-msg = holir cariiɗe
-    .title = dobo ngam wertude taƴre
-about-webrtc-fold-hide-msg = suuɗ cariiɗe
-    .title = dobo ngam taggude taƴre
 about-webrtc-fold-default-show-msg = Holir cariiɗe
     .title = Dobo ngam wertude taƴre
 about-webrtc-fold-default-hide-msg = Suuɗ cariiɗe
@@ -131,10 +114,6 @@ about-webrtc-encoder-label = Dokkorde
 
 ##
 
-about-webrtc-save-page-msg = helo danndaama to: { $path }
-about-webrtc-debug-mode-off-state-msg = pele logagol ena tawee to: { $path }
-about-webrtc-debug-mode-on-state-msg = mbayka buggitagol saasii, pele logagol to: { $path }
-about-webrtc-aec-logging-off-state-msg = nokitagol piille logagol ena tawee to: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

@@ -24,12 +24,9 @@ neterror-override-exception-button = Atzeta s'arriscu e sighi
 neterror-pref-reset-button = Recùpera sa cunfiguratzione predefinida
 neterror-return-to-previous-page-button = A coa
 neterror-return-to-previous-page-recommended-button = A coa (cussigiadu)
-neterror-try-again-button = Torra a nche proare
 neterror-add-exception-button = Sighi semper pro custu situ
 neterror-settings-button = Modìfica is cunfiguratziones de DNS
 neterror-view-certificate-link = Ammustra su tzertificadu
-neterror-trr-continue-this-time = Sighi custa borta
-neterror-disable-native-feedback-warning = Sighi semper
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -74,7 +71,6 @@ neterror-search-cta-learn-more = Àteras informatziones
 ##
 
 neterror-pref-reset = Podet dare chi sa cunfiguratzione de seguresa de rete tua siat sa càusa. Boles recuperare sa cunfiguratzione predefinida?
-neterror-error-reporting-automatic = Sinnala faddinas comente custa pro agiudare { -vendor-short-name } a identificare e blocare sitos malos
 
 ## Specific error messages
 
@@ -102,16 +98,9 @@ neterror-dns-not-found-offline-hint-reconnect = Disconnete e torra a connètere 
 
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } non s’est pòdidu connètere a { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Sa connessione a { $trrDomain } at bòlidu prus tempus de cussu abetadu.
-neterror-dns-not-found-trr-offline = Nissuna connessione a internet.
 neterror-dns-not-found-trr-server-problem = Faddina cun { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = URL non vàlidu.
 neterror-dns-not-found-trr-unknown-problem = Faddina disabetada.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } non s’est pòdidu connètere a { $trrDomain }.
 
 ##
 
@@ -120,8 +109,6 @@ neterror-file-not-found-moved = Averìgua si s'archìviu est istadu iscostiadu, 
 neterror-access-denied = Podet dare chi siat istadu cantzelladu o mòvidu, o chi is permissos de archìviu bi siant blochende s'atzessu.
 neterror-unknown-protocol = Podet dare chi depas installare àteros programmas pro abèrrere custu indiritzu.
 neterror-redirect-loop = A bortas sa càusa de custu problema est sa disativatzione o su refudu de testimòngios (cookies).
-neterror-unknown-socket-type-psm-installed = Controlla chi su sistema tuo tenet unu gestore de seguresa personale installadu.
-neterror-unknown-socket-type-server-config = Custu podet èssere causadu dae una cunfiguratzione non istandard de su serbidore.
 neterror-not-cached-intro = Su documentu rechestu no est a disponimentu in sa memòria temporànea de { -brand-short-name }.
 neterror-not-cached-sensitive = Comente mesura de seguresa, { -brand-short-name } non torrat a rechèdere in automàticu documentos sensìbiles.
 neterror-not-cached-try-again = Incarca "Torra a proare" pro torrare a preguntare su documentu dae su situ web.

@@ -10,9 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = { $extension } ઉમેરીએ?
 webext-perms-sideload-header = { $extension } ઉમેરી
-webext-perms-optional-perms-header = { $extension } એ અતિરિક્ત પરવાનગીઓની વિનંતી કરી છે.
 
 ##
 
@@ -45,21 +43,5 @@ webext-perms-host-description-all-urls = તમામ વેબસાઇટ્�
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } ડોમેનમાં સાઇટ્સ માટે તમારા ડેટાને ઍક્સેસ કરો
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] { $domainCount } અન્ય ડોમેન્સ તમારા ડેટાને ઍક્સેસ કરો
-       *[other] { $domainCount } અન્ય ડોમેન તમારા ડેટાને ઍક્સેસ કરો
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } માટે તમારા ડેટાને ઍક્સેસ કરો
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] { $domainCount } અન્ય સાઇટ પર તમારા ડેટાને ઍક્સેસ કરો
-       *[other] { $domainCount } અન્ય સાઇટ્સ પર તમારા ડેટાને ઍક્સેસ કરો
-    }

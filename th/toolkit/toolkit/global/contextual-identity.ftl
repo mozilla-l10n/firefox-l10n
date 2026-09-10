@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = ไม่มีที่แยกข้อมูล
-    .accesskey = ม
 user-context-manage-containers =
     .label = จัดการที่แยกข้อมูล
     .accesskey = จ

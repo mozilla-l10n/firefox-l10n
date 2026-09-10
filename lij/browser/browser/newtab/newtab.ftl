@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Neuvo feuggio
-newtab-settings-button =
-    .title = Personalizza a teu pagina Neuvo feuggio
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -51,7 +49,6 @@ newtab-search-box-search-button =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = Azonzi motô de riçerca
-newtab-topsites-edit-topsites-header = Cangia scito prinçipâ
 newtab-topsites-title-label = Titolo
 newtab-topsites-title-input =
     .placeholder = Scrivi 'n titolo
@@ -90,10 +87,6 @@ newtab-menu-section-tooltip =
 newtab-menu-content-tooltip =
     .aria-label = Arvi into menû contesto pe { $title }
     .title = Arvi menû
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Cangia sto scito
-    .title = Cangia sto scito
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -104,9 +97,6 @@ newtab-menu-dismiss = Scancella
 newtab-menu-pin = Azonzi a-a bacheca
 newtab-menu-unpin = Leva da bacheca
 newtab-menu-delete-history = Scancella da-a stöia
-newtab-menu-save-to-pocket = Sarva in { -pocket-brand-name }
-newtab-menu-delete-pocket = Scancella da { -pocket-brand-name }
-newtab-menu-archive-pocket = Archivia in { -pocket-brand-name }
 
 ##
 
@@ -151,38 +141,15 @@ newtab-label-source-read-time = { $source } · { $timeToRead } men
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Scancella seçion
-newtab-section-menu-collapse-section = Conprimmi seçion
-newtab-section-menu-expand-section = Espandi seçion
-newtab-section-menu-manage-section = Gestisci seçion
-newtab-section-menu-manage-webext = Gestisci estenscioin
-newtab-section-menu-add-topsite = Azonzi scito prinçipâ
-newtab-section-menu-add-search-engine = Azonzi motô de riçerca
-newtab-section-menu-move-up = Mescia in sciù
-newtab-section-menu-move-down = Mescia in zu
 newtab-section-menu-privacy-notice = Informativa in sciâ privacy
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Conprimmi seçion
-newtab-section-expand-section-label =
-    .aria-label = Espandi seçion
 
 ## Section Headers.
 
 newtab-section-header-topsites = I megio sciti
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Consegiou da { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Iniçia a navegâ e, in sta seçion, saian mostræ articoli, video e atre pagine vixitæ de fresco ò azonti a-i segnalibbri.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = No gh'é atro. Contròlla ciù tardi se gh'é atre stöie da { $provider }. No t'eu aspetâ? Seleçionn-a 'n argomento tra quelli ciù popolari pe descovrî atre notiçie interesanti da-o Web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -190,17 +157,6 @@ newtab-discovery-empty-section-topstories-try-again-button = Preuva torna
 newtab-discovery-empty-section-topstories-loading = Carego…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ahime mi! Emmo squæxi caregou sta seçion ma no semmo ariescîi a caregâla tutta.
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Argomenti popolari:
-newtab-pocket-more-recommendations = Atri conseggi
-newtab-pocket-learn-more = Atre informaçioin
-newtab-pocket-cta-button = Piggite { -pocket-brand-name }
-newtab-pocket-cta-text = Sarva e stöie che te piaxan into { -pocket-brand-name }, e carega torna a mente con letue che incantan.
-newtab-pocket-save = Sarva
-newtab-pocket-saved = Sarvòu
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -210,7 +166,6 @@ newtab-error-fallback-refresh-link = Agiorna pagina pe provâ torna.
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Scorsaieu
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -220,15 +175,6 @@ newtab-custom-row-selector2 =
             [one] { $num } riga
            *[other] { $num } righe
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } riga
-       *[other] { $num } righe
-    }
-newtab-custom-sponsored-sites = Scorsaieu sponsorizæ
-newtab-custom-pocket-title = Consegiou da { -pocket-brand-name }
 
 ## Strings for the Clock widget
 

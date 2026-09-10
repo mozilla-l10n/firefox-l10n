@@ -26,23 +26,6 @@ webrtc-sharing-menu =
     .label = टैब साझा डिवाइस (d)
     .accesskey = d
 
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = अहाँक कैमरा आओर माइक्रोफ़ोन साझा कएल जाएत अछि. साझा नियंत्रण कलेल क्लिक करू.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = अहाँक कैमरा साझा कएल जाएत अछि. साझा नियंत्रण कलेल क्लिक करू.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = अहाँक माइक्रोफ़ोन साझा कएल जाएत अछि. साझा नियंत्रण कलेल क्लिक करू.
-webrtc-indicator-sharing-application =
-    .tooltiptext = अनुप्रयोग साझा कएल जाएत अछि. साझा नियंत्रण कलेल क्लिक करू.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = अहाँक स्क्रीन साझा कएल जाएत अछि. साझा नियंत्रण कलेल क्लिक करू.
-webrtc-indicator-sharing-window =
-    .tooltiptext = अहाँक विंडो साझा कएल जाएत अछि. साझा नियंत्रण कलेल क्लिक करू.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = टैब साझा कएल जा रहल अछि. साझा नियंत्रण कलेल क्लिक करू.
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:

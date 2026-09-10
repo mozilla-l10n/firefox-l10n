@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Zawoborajśo standardnemu agentoju wobglědo
 policy-DisableDeveloperTools = Pśistup k wuwijaŕskim rědam blokěrowaś.
 policy-DisableEncryptedClientHello = Wužywanje TLS-funkcije Encrfypted Client Hello (ECH) znjemóžniś.
 policy-DisableFeedbackCommands = Pśikaze znjemóžniś, kótarež komentary z menija Pomoc sćelu (Pósudk pósłaś a Wobšudnikojske sedło k wěsći daś)
-policy-DisableFirefoxAccounts = Słužby na zakłaźe { -fxaccount-brand-name } znjemóžniś, inkluziwnje Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Słužby znjemóžniś, kótarež na konśe bazěruju, mjazy nimi synchronizaciju.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Pytańsku a formularnu historiju se njespomnjeś.
 policy-DisableLaunchOnLogin = Zawoborajśo { -brand-short-name } awtomatiski startowaś, gaž se wužywaŕ pśizjawja.
 policy-DisablePrimaryPasswordCreation = Jolic to trjefijo, njedajo se głowne gronidło napóraś.
 policy-DisablePasswordReveal = Njedowóliś, až se gronidła w skłaźonych pśizjawjenjach pokazuju
-policy-DisablePocket2 = Funkciju składowanja webbokow do { -pocket-brand-name } znjemóžniś.
 policy-DisablePrivateBrowsing = Priwatny modus znjemóžniś.
 policy-DisableProfileImport = Menijowy pśikaz za importěrowanje datow z drugego wobglědowaka znjemóžniś.
 policy-DisableProfileRefresh = Tłocašk { -brand-short-name } wótnowiś na boku about:support znjemóžniś.
@@ -132,7 +130,6 @@ policy-PDFjs = PDF.js znjemóžniś abo konfigurěrowaś, zatwarjony PDF-wobglě
 policy-Permissions2 = Pšawa za kameru, mikrofon, stojnišćo, powěźeńki a awtomatiske wótgraśe konfigurěrowaś.
 policy-PictureInPicture = Wobraz-we-wobrazu zmóžniś abo znjemóžniś.
 policy-PopupBlocking2 = Wěstym websedłam dowóliś, wuskokujuce wokna pokazaś a se pśez wobłuki tśeśich póbitowarjow dalej pósrědnjaju.
-policy-PopupBlocking = Wěstym websedłam dowóliś, wuskokujuce wokna pó standarźe pokazaś.
 policy-Preferences = Gódnotu za pódsajźbu nastajenjow stajiś a zastajiś
 policy-PrivateBrowsingModeAvailability = Nastajśo k-dispoziciji-byśe priwatnego modusa.
 policy-PromptForDownloadLocation = Pšašaś se, źož maju se dataje pśi ześěgowanju składowaś.

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Ikusi azken nabigazioa leiho eta gailuen artean
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Itxi
-    .aria-label = Itxi
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Oraintxe bertan
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Fitxa-bilketa
-firefoxview-tabpickup-description = Ireki orriak beste gailuetatik.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = %{ $percentValue } osatuta
-firefoxview-tabpickup-step-signin-header = Aldatu di-da batean gailuen artean
-firefoxview-tabpickup-step-signin-description = Zure telefonoko fitxak hemen izateko, hasi saioa edo sortu kontua lehenik.
-firefoxview-tabpickup-step-signin-primarybutton = Jarraitu
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } zure gailu guztietan
 firefoxview-syncedtabs-signin-description-2 = Zure telefono eta bestelako gailuetan irekita dauzkazun fitxak ikusteko, hasi saioa edo eman izena kontu bat sortzeko. Kontu batekin pasahitzak, historia eta gehiago ere sinkronizatu ahal izango duzu.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Ordenagailu eramangarritik telefonora, di-da
 firefoxview-syncedtabs-signin-description-3 = Lotu zure nabigazioa gailuen artean — fitxak, pasahitzak eta historia, dena sinkronizatuta.
 firefoxview-syncedtabs-signin-primarybutton-2 = Hasi saioa
-firefoxview-tabpickup-adddevice-header = Sinkronizatu { -brand-product-name } zure telefono edo tabletan
-firefoxview-tabpickup-adddevice-description = Deskargatu mugikorrerako { -brand-product-name } eta hasi saioa bertan.
-firefoxview-tabpickup-adddevice-learn-how = Ikasi nola
-firefoxview-tabpickup-adddevice-primarybutton = Eskuratu mugikorrerako { -brand-product-name }
 firefoxview-syncedtabs-adddevice-header-2 = Hartu fitxak edonondik
 firefoxview-syncedtabs-adddevice-description-2 = Hemen fitxak ikusteko, hasi saioa { -brand-product-name }(e)n zure telefonoan edo beste ordenagailu batean. Ikasi nola <a data-l10n-name="url">konektatu gailu gehiago</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Probatu mugikorrerako { -brand-product-name }
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Zure fitxek deitu dute. Zure telefonoan daude.
 firefoxview-syncedtabs-adddevice-description-3 = Eskaneatu QR kodea mugikorrerako { -brand-product-name } eskuratu eta besteak beste irekitako zure fitxak sinkronizatzen hasteko. Ikasi nola <a data-l10n-name="url">konektatu gailu gehiago</a>.
-firefoxview-tabpickup-synctabs-header = Gaitu fitxen sinkronizazioa
-firefoxview-tabpickup-synctabs-description = Baimendu { -brand-short-name }(r)i gailuen artean fitxak partekatzea.
-firefoxview-tabpickup-synctabs-learn-how = Ikasi nola
 firefoxview-tabpickup-synctabs-primarybutton = Sinkronizatu irekitako fitxak
 firefoxview-tabpickup-synctabs-primarybutton-2 = Gaitu fitxen sinkronizazioa
 firefoxview-syncedtabs-synctabs-header = Eguneratu zure sinkronizazio-ezarpenak
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Amaitutakoan, beste gailuetan ireki
 firefoxview-syncedtabs-loading-header-2 = Zure fitxak eskuratzen…
 firefoxview-syncedtabs-loading-description-2 = Sinkronizazioa lanean ari da. Fitxak laster izango dira hemen.
 firefoxview-tabpickup-fxa-admin-disabled-header = Zure erakundeak sinkronizazioa desgaitu du
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name }(e)k ezin ditu gailuen arteko fitxak sinkronizatu zure administratzaileak sinkronizazioa desgaitu duelako.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name }(e)k ezin ditu gailuen arteko fitxak sinkronizatu zure erakundeak sinkronizazioa desgaitu duelako.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Fitxen sinkronizazioa desgaituta dago
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Zure erakundeak eginbide hau blokeatu du.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Desblokeatu fitxak zure pasahitz nagusiarekin
 firefoxview-tabpickup-password-locked-description-2 = Zure pribatutasunerako, sinkronizatutako fitxak babestuta daude. Idatzi zure { -brand-short-name } pasahitz nagusia zure beste gailuetako fitxak ikusteko.
 firefoxview-tabpickup-signed-out-header = Hasi saioa birkonektatzeko
-firefoxview-tabpickup-signed-out-description = Berriro konektatu eta zure fitxak hartzeko, hasi saioa zure { -fxaccount-brand-name }(e)n.
 firefoxview-tabpickup-signed-out-description2 = Berriro konektatu eta zure fitxak hartzeko, hasi saioa zure kontuan.
 firefoxview-tabpickup-signed-out-primarybutton = Hasi saioa
 firefoxview-tabpickup-signed-out-header-2 = Hasi saioa zure fitxak ikusteko
 firefoxview-tabpickup-signed-out-description-2 = Konektatu berriro beste gailuetako fitxak ikusteko.
-firefoxview-tabpickup-syncing = Itxaron apur bat zure fitxak sinkronizatu bitartean. Une bat izango da soilik.
-firefoxview-mobile-promo-header = Hartu zure telefono edo tabletako fitxak
-firefoxview-mobile-promo-description = Zure mugikorreko azken fitxak ikusteko, hasi saioa iOS edo Androideko { -brand-product-name }(e)n.
-firefoxview-mobile-promo-primarybutton = Eskuratu mugikorrerako { -brand-product-name }
-firefoxview-mobile-confirmation-header = 🎉 Dena prest!
-firefoxview-mobile-confirmation-description = Hemendik aurrera zure tableta edo telefonoko { -brand-product-name }(e)n fitxak hartu ahal izango dituzu.
-firefoxview-closed-tabs-title = Itxitako azkenak
-firefoxview-closed-tabs-description2 = Berrireki leiho honetan itxi dituzun orriak.
-firefoxview-closed-tabs-placeholder-header = Itxitako azken fitxarik ez
-firefoxview-closed-tabs-placeholder-body = Leiho honetan fitxa bat ixtean, hemendik eskura dezakezu.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Baztertu { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Erabilitako azkena
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Ireki { $targetURI } fitxa berrian
-firefoxview-try-colorways-button = Probatu kolore-konbinazioak
-firefoxview-change-colorway-button = Aldatu kolore-konbinazioa
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Ikusteko ezer ez momentuz
-firefoxview-synced-tabs-placeholder-body = Beste gailu bateko { -brand-product-name }(e)n orri bat irekitzen duzun hurrengo aldian, esku-eskura izango duzu hemen.
 firefoxview-collapse-button-show =
     .title = Erakutsi zerrenda
 firefoxview-collapse-button-hide =

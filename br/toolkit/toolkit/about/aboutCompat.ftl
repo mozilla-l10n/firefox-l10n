@@ -8,11 +8,8 @@ label-interventions = Emelladurioù
 # Variables:
 #   $bug (string) - Bug number
 label-more-information = Titouroù ouzhpenn: Beug { $bug }
-label-overrides = Flastrañ an User Agent
 text-disabled-in-about-config = Diweredekaet eo bet ar c'heweriuster-mañ e about:config
 text-no-interventions = N'eus emelladur ebet war arver
-text-no-overrides = N'eus flastradenn UA evet war arver
-text-title = about:compat
 
 ## Do not translate "SmartBlock". For reference, SmartBlock is a feature
 ## of Firefox anti-tracking which fixes website breakage caused when

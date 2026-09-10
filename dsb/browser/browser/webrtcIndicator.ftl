@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - źěleński pokazowak
-webrtc-indicator-window =
-    .title = { -brand-short-name } - źěleński pokazowak
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Źěliśo swój mikrofon. Klikniśo, aby źělenje wóźił.
 webrtc-screen-system-menu =
     .label = Źěliśo swójo wokno abo wobrazowku. Klikniśo, aby źělenje wóźił.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Waša kamera a waš mikrofon se źělotej. Klikniśo, aby źělenje wóźił.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Waša kamera se źěli. Klikniśo, aby źělenje wóźił.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Waš mikrofon se źěli. Klikniśo, aby źělenje wóźił.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Nałoženje se źěli. Klikniśo, aby źělenje kontrolěrował.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Waša wobrazowka se źěli. Klikniśo, aby źělenje wóźił.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Wokno se źěli. Klikniśo, aby źělenje wóźił.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Rejtarik se źěli. Klikniśo, aby źělenje wóźił.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -197,7 +178,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Cośo { $origin 
 
 webrtc-share-screen-warning = Źělśo jano wobrazowki ze sedłami, kótarymž dowěriśo. Źělenje móžo wobšudnym sedłam zmóžniś, ako wy, pśeglědowaś a waše priwatne daty kšadnuś.
 webrtc-share-browser-warning = Źělśo { -brand-short-name } jano ze sedłami, kótarymž dowěriśo. Źělenje móžo wobšudnym sedłam zmóžniś, ako wy, pśeglědowaś a waše priwatne daty kšadnuś.
-webrtc-share-screen-learn-more = Dalšne informacije
 webrtc-pick-window-or-screen = Wubjeŕśo wokno abo wobrazowku
 webrtc-share-entire-screen = Ceła wobrazowka
 webrtc-share-pipe-wire-portal = Nastajenja źěłowego systema wužywaś

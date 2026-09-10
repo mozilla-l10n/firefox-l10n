@@ -60,13 +60,10 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     Za pojasnilo različnih načinov beleženja in iskanja podatkov si oglejte
     zavihek <strong>O podatkih</strong>.
-about-glean-about-testing-header = O preizkušanju
 # This message is followed by a numbered list.
 about-glean-manual-testing = V celoti so navodila objavljena v <a data-l10n-name="fog-instrumentation-test-doc-link">dokumentaciji za preskušanje inštrumentacije { -fog-brand-name }</a> in v <a data-l10n-name="glean-sdk-doc-link">dokumentaciji za { glean-sdk-brand-name }</a>, v glavnem pa morate za preizkus delovanja svoje inštrumentacije:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ne pošiljaj nobenega pinga)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = V predhodnem polju naj bo vpisana oznaka za razhroščevanje, ki si jo boste zapomnili, po kateri boste pozneje prepoznali svoje pinge.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Nastavite zapomnljivo oznako za razhroščevanje <span>(do 20 znakov, le alfanumerični znaki in -)</span>, po kateri boste pozneje prepoznali svoje pinge.
 # Do not translate strings between <code> </code> tags.
@@ -137,9 +134,6 @@ about-glean-button-watch = Spremljaj
 about-glean-button-unwatch = Nehaj spremljati
 about-glean-no-data-to-display = Ni podatkov za prikaz.
 about-glean-unknown-metric-type-warning = Neznana vrsta metrike.
-about-glean-about-data-explanation =
-    Za brskanje po seznamu zbranih podatkov si oglejte
-    <a data-l10n-name="glean-dictionary-link">slovar { -glean-brand-name(sklon: "rodilnik") }</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

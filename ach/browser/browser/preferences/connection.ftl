@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Ter me Kube
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Ter me Kube
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -51,14 +51,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Nwo cano
     .accesskey = o
-connection-proxy-autologin =
-    .label = Pe i peny pi roto ada kace kigwoko mung me donyo
-    .accesskey = d
-    .tooltip = Gin ayera man roto ada ni bot proxy laling kace i gwoko lok komi pi gi. Ki bi penyi kace roto ada opoto woko.
 connection-proxy-autologin-checkbox =
     .label = Pe i peny pi roto ada kace kigwoko mung me donyo
-    .accesskey = d
     .tooltiptext = Gin ayera man roto ada ni bot proxy laling kace i gwoko lok komi pi gi. Ki bi penyi kace roto ada opoto woko.
+    .accesskey = d
 connection-proxy-socks-remote-dns =
     .label = DNS me proxy ka itye katic ki SOCKS v5
     .accesskey = d

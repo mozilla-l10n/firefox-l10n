@@ -2,14 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = فشناڌن ی سیگنال «مونه رڌجۊری مکوݩ» سی وبگه یل اینترنتی ک ایسا نؽخۊین و دست هونووݩ رڌجۊری بۊین
-do-not-track-removal = ایما دی ز سیگنال «رڌجۊری نبۊوه» لادراری نؽکۊنیم
-do-not-track-learn-more = قلوه دووسته بۊین
-do-not-track-option-always =
-    .label = هی
 non-technical-privacy-group =
     .label = سامووا هریم سیخومی وبگه
-non-technical-privacy-header = سامووا هریم سیخومی وبگه
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -36,28 +30,16 @@ managed-notice-nav =
 category-list =
     .aria-label = کتنا
 pane-general-title = پوی وولاتی
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = هووه
 pane-search-title2 = پیتینیڌن
     .title = پیتینیڌن
 pane-privacy-title3 = هریم سیخومی وو ٱمنیت
     .title = هریم سیخومی وو ٱمنیت
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = پیتینیڌن
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = هریم سیخومی وو ٱمنیت
-pane-privacy-title = هریم سیخومی وو ٱمنیت
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = هوم گوم کردن
 pane-ai-controls-title2 = کونتورولا هۊش مسنۊعی
     .title = کونتورولا هۊش مسنۊعی
-category-sync3 =
-    .tooltiptext = { pane-sync-title3 }
 pane-about-firefox-title = زبار { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-downloads-title2 = دانلودا
@@ -72,18 +54,8 @@ preferences-languages-header3 =
     .heading = زووا
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-pane-experimental-title = آزمایشا { -brand-short-name }
-category-experimental =
-    .tooltiptext = آزمایشا { -brand-short-name }
-pane-experimental-subtitle = وا پاییڌن وا پؽش ریوین
-pane-experimental-search-results-header = آزمایشا { -brand-short-name }: خوتووݩ ن بپایین اوسو ریوین وا پؽش
-pane-experimental-description2 = آلشت سامووا کانفیگ پؽش رئڌه تره ری کارایی وو ٱمنیت { -brand-short-name } ٱسر داشته بۊ.
-settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-pane-labs-header =
     .heading = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
-pane-experimental-description3 = ویژیی یل آزمایشی ایما ن امتهووݩ کۊنین! هونووݩ هونی برنومه نویسی وو کامل ابۊن، ک ترن ری کارایی { -brand-short-name } ٱسر داشته بۊن.
 pane-experimental-reset =
     .label = وورگندن پؽش فرزا
     .accesskey = R
@@ -91,8 +63,6 @@ help-button-label2 = لادراری { -brand-short-name }
     .title = لادراری { -brand-short-name }
 addons-button-label2 = وردنی یل وو زمینه یل
     .title = وردنی یل وو زمینه یل
-help-button-label = لادراری { -brand-short-name }
-addons-button-label = وردنی یل وو زمینه یل
 focus-search =
     .key = f
 close-button =
@@ -140,12 +110,8 @@ search-results-header = نتیجه یل پیتینیڌن
 
 ## General Section
 
-startup-header = ره وندن
-startup-restore-warn-on-quit =
-    .label = مجال و در زیڌن ز گشت گر اختار اده
 disable-extension =
     .label = قیرفعال کردن وردنی
-preferences-data-migration-header = و من ٱووردن داده یل گشت گر
 preferences-data-migration-button =
     .label = و من ٱووردن داده یل
     .accesskey = m
@@ -156,9 +122,6 @@ preferences-profiles-subpane-description =
 preferences-profiles-section-header =
     .description = هر پوروفایل داده یل وو سامووا گشتن جوڌاکاری داره جۊر ویرگار، رزما، وو مووردا دیر.
     .label = پوروفایلا
-preferences-profiles-header = پوروفایلا
-preferences-manage-profiles-description = هر پوروفایل داده یل وو سامووا گشتن جوڌاکاری داره جۊر ویرگار، رزما، وو مووردا دیر.
-preferences-manage-profiles-learn-more = قلوه دووسته بۊین
 preferences-manage-profiles-button =
     .label = دؽوۉداری پوروفایلا
 preferences-profiles-settings-button =
@@ -179,7 +142,6 @@ tabs-opening-heading =
     .label = هونی اگوئشه
 tabs-closing-heading =
     .label = هونی ابنده
-tabs-group-header = بلگه یل
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab و ترتیب بلگه یلی ک هیم دمۊوی و کار گرؽڌه وابینه منجاسووݩ هرکت اکونه
     .accesskey = T
@@ -197,24 +159,10 @@ ask-on-close-multiple-tabs =
 ask-on-quit-with-key =
     .label = پۊرسیڌن پؽش ز و در زیڌن وا { $quitKey }
     .accesskey = b
-confirm-on-close-multiple-tabs =
-    .label = قوۊل کردن پؽش ز بستن چنتا بلگه
-    .accesskey = m
-# This string is used for the confirm before quitting preference.
-# Variables:
-#   $quitKey (string) - the quit keyboard shortcut, and formatted
-#                       in the same manner as it would appear,
-#                       for example, in the File menu.
-confirm-on-quit-with-key =
-    .label = قوۊل کردن پؽش ز و در زیڌن وا { $quitKey }
-    .accesskey = b
 warn-on-open-many-tabs =
     .label = ٱر گۊشیڌن چنتا بلگه ترسته بۊ ک { -brand-short-name } ن کوند کونه، و مو هوشدار بڌه
     .accesskey = d
 browser-containers-learn-more = قلوه دووسته بۊین
-browser-containers-settings =
-    .label = سامووا…
-    .accesskey = i
 startup-group =
     .label = ره وندن
 
@@ -223,28 +171,14 @@ startup-group =
 containers-disable-alert-cancel-button = فعال بمهنه
 browser-layout-header2 =
     .label = تئر بندی گشت گر
-browser-layout-header = تئر بندی گشت گر
-browser-layout-show-sidebar =
-    .label = نشووݩ داڌن نوار کلی
 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = زووݩ وو شؽوات
-preferences-web-appearance-header = شؽوات وبگه
 web-appearance-group =
     .aria-label = شؽوات وبگه
-preferences-web-appearance-choice-auto = خوتکار
-preferences-web-appearance-choice-light = رۊشن
-preferences-web-appearance-choice-dark = تاریک
-preferences-web-appearance-choice-input-auto =
-    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
-preferences-web-appearance-choice-input-light =
-    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
-preferences-web-appearance-choice-input-dark =
-    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 preferences-contrast-control-radio-group =
     .label = نیڌه گرؽڌن رنگا
-preferences-contrast-control-header = کونتورول کونتراست
 preferences-contrast-control-use-platform-settings =
     .label = خوتکار (و کار گرؽڌن سامووا سیستوم)
     .accesskey = A
@@ -257,26 +191,13 @@ preferences-contrast-control-custom =
 preferences-colors-manage-button2 =
     .label = دؽوۉداری رنگا
     .accesskey = C
-preferences-colors-header = رنگا
 preferences-colors-manage-button =
     .label = دؽوۉداری رنگا…
     .accesskey = C
 preferences-fonts-header2 =
     .label = قلما
-preferences-fonts-header = قلما
-default-font = قلم پؽش فرز
-    .accesskey = D
-default-font-size = هندا
-    .accesskey = S
-advanced-fonts =
-    .label = پؽش رئڌه…
-    .accesskey = A
 preferences-default-zoom-label =
     .label = زۊم پؽش فرز
-    .accesskey = z
-# Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = زۊم کردن
-preferences-default-zoom = زۊم پؽش فرز
     .accesskey = z
 # Variables:
 #   $percentage (number) - Zoom percentage value
@@ -311,13 +232,7 @@ confirm-browser-language-change-description = سی ائمال ای آلشتکا�
 confirm-browser-language-change-button = ائمال وو ره وندن دووارته
 browser-language-preferred-label =
     .label = زووݩ ترجیهی
-translate-web-pages =
-    .label = ولرنیڌن موئتوا وب
-    .accesskey = T
 fx-translate-web-pages = { -translations-brand-name }
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = ولرنیڌن وا <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = استسنایل…
     .accesskey = x
@@ -370,23 +285,6 @@ download-save-files-header =
     .label = زفت فایل من
 download-save-where-3 =
     .aria-label = زفت فایل من
-download-header = دانلودا
-download-save-where = زفت فایل من
-    .accesskey = v
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] پسند…
-           *[other] گشتن…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] o
-        }
-download-always-ask-where =
-    .label = هی زبار جاگه زفت کردن پۊرسیڌه بۊ
-    .accesskey = A
 applications-header = برنومه یل
 applications-description = یو ک چتاور { -brand-short-name } فایلا دانلود وابیڌه ز وبگه یا برنومه یلی ک مجال گشتن منه وب هونووݩ ن و کار اگیرین ن دؽوۉداری اکونه، ن پسند کۊنین.
 applications-filter =
@@ -434,10 +332,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = و کار گرؽڌن { $plugin-name } (من { -brand-short-name })
 applications-open-inapp =
     .label = گۊشیڌن من { -brand-short-name }
 
@@ -445,8 +339,6 @@ applications-open-inapp =
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -473,41 +365,22 @@ applications-save-for-new-types2 =
     .accesskey = S
 drm-group =
     .label = موئتوا دؽوۉداری هۊقۊق دیجیتال (DRM)
-drm-content-header = موئتوا دؽوۉداری هۊقۊق دیجیتال (DRM)
 play-drm-content =
     .label = پشک موئتوا کونتورول وابیڌه DRM
     .accesskey = P
 play-drm-content-learn-more = قلوه دووسته بۊین
-update-application-title = ورۊ رسۊوی یل { -brand-short-name }:
 # Variables:
 # $version (string) - Firefox version
 update-application-version = نوسخه { $version } <a data-l10n-name="learn-more">چ چیه نۊ هڌ</a>
 update-history-2 =
     .label = نشووݩ داڌن ویرگار ورۊ رسۊوی
     .accesskey = p
-update-history =
-    .label = نشووݩ داڌن ویرگار ورۊ رسۊوی…
-    .accesskey = p
-update-application-allow-description = هشتن { -brand-short-name } سی
-update-application-auto =
-    .label = و هالت خوتکار ورۊ رسۊوی بپۊره (پؽشنهاڌ ابۊ)
-    .accesskey = A
-update-application-check-choose =
-    .label = ورۊ رسۊوی ن واجۊری کوݩ، ٱما هشتن پۊرنیڌن و دست خوت هڌ
-    .accesskey = C
-update-application-manual =
-    .label = هیچ سی ورۊ رسۊویا واجۊری مکوݩ (پؽشنهاڌ نؽبۊ)
-    .accesskey = N
 update-application-background-enabled =
     .label = مجالی ک { -brand-short-name } ره نوسته
     .accesskey = W
 update-application-suppress-prompts-2 =
     .label = ویر ونی یل ورۊ رسۊوی کمتری نشووݩ بڌین
     .accesskey = n
-update-application-warning-cross-user-setting = ای سامووݩ سی پوی هساوا ویندۉز وو پوروفایلا { -brand-short-name } وا و کار گرؽڌن ای پۊرنیڌن { -brand-short-name } ائمال ابۊ.
-update-application-use-service =
-    .label = سرویس پس زمینه سی پۊرنیڌن ورۊ رسۊویا و کار بروه
-    .accesskey = b
 update-setting-write-failure-title2 = ختا مجال زفت کردن سامووا ورۊ رسۊوی
 update-in-progress-title = هونی ورۊ رسۊوی ابۊ
 update-in-progress-message = اخۊین { -brand-short-name } ای ورۊ رسۊوی ن وا پؽش بووره؟
@@ -535,11 +408,6 @@ support-share-ideas =
 
 ## General Section - Performance
 
-performance-title = کارایی
-performance-use-recommended-settings-checkbox =
-    .label = و کار گرؽڌن سامووا کارایی پؽشنهاڌ وابیڌه
-    .accesskey = U
-performance-use-recommended-settings-desc = ای سامووا و ری سخت ٱفزار وو سیستوم عامل کامپیتر ایسا سامووݩ ابۊن.
 performance-settings-learn-more = قلوه دووسته بۊین
 performance-allow-hw-accel =
     .label = ٱر شتاب سخت ٱفزاری من دسرس بی و کار گرؽڌه بۊ
@@ -555,16 +423,10 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = گشتن
-browsing-group-label =
-    .aria-label = گشتن
 settings-media-group =
     .label = وارسگر
-browsing-picture-in-picture-learn-more = قلوه دووسته بۊین
 recommendations-group =
     .label = پؽشنهاڌا
-browsing-media-control-learn-more = قلوه دووسته بۊین
-browsing-cfr-recommendations-learn-more = قلوه دووسته بۊین
 browsing-group =
     .label = گشتن
 preferences-accessibility-header =
@@ -574,14 +436,6 @@ preferences-default-zoom-select =
 preferences-fonts-advanced-settings =
     .label = سامووا پؽش رئڌه
     .accesskey = A
-
-## General Section - Proxy
-
-network-settings-title = سامووا شبکه
-network-proxy-connection-learn-more = قلوه دووسته بۊین
-network-proxy-connection-settings =
-    .label = سامووا…
-    .accesskey = e
 
 ## Home Section
 
@@ -663,8 +517,6 @@ home-prefs-shortcuts-header =
     .label = ره نهنگا
 home-prefs-shortcuts-by-option-sponsored =
     .label = ره نهنگا هؽزگرووݩ
-home-prefs-recommended-by-header =
-    .label = پؽشنهاڌ وابیڌه و دست { $provider }
 home-prefs-stories-header =
     .label = داستانا
 
@@ -673,8 +525,6 @@ home-prefs-stories-header =
 home-prefs-recommended-by-learn-more = یو چتاور کار اکونه
 home-prefs-recommended-by-option-sponsored-stories =
     .label = وزعیتا هؽزگرووݩ
-home-prefs-recommended-by-option-recent-saves =
-    .label = نشووݩ داڌن زفت وابیڌنا دیندایی
 home-prefs-highlights-option-visited-pages =
     .label = بلگه یل نیشته وابیڌه
 home-prefs-highlights-options-bookmarks =
@@ -704,18 +554,9 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = نوار پیتینیڌن
-search-bar-shown =
-    .label = ٱووردن نوار پیتینیڌن و نوار ٱوزار
-search-engine-default-header = موتور پیتینیڌن پؽش فرز
-search-suggestions-header = پؽشنهاڌا پیتینیڌن
-search-suggestions-option =
-    .label = جۊر کون پؽشنهاڌا پیتینیڌن
-    .accesskey = s
 search-show-suggestions-option =
     .label = نشووݩ داڌن پؽشنهاڌا پیتینیڌن
     .accesskey = S
-suggestions-addressbar-settings-generic2 = آلشت سامووا سی پوی پؽشنهاڌا من نوار نشۊوی
 search-one-click-header2 = پیتینیڌن ره نهنگا
 search-edit-engine-2 =
     .title = آلشت موتور پیتینیڌن
@@ -746,12 +587,6 @@ search-section =
 
 ## Containers Section
 
-containers-back-button2 =
-    .aria-label = وورگشتن و سامووا
-containers-settings-button =
-    .label = سامووا
-containers-remove-button =
-    .label = پاک کردن
 containers-section-header2 =
     .heading = سامووا هامل
 containers-add-button2 =
@@ -866,10 +701,8 @@ prefs-syncing-button-2 =
 sync-currently-syncing-bookmarks = نشووکا
 sync-currently-syncing-history = ویرگار
 sync-currently-syncing-tabs = بلگه یل واز
-sync-currently-syncing-logins-passwords = و من ٱووڌنا وو رزما
 sync-currently-syncing-passwords = رزما
 sync-currently-syncing-addresses = نشۊویا
-sync-currently-syncing-creditcards = کارتا ائتواری
 sync-currently-syncing-payment-methods = بارتا پرداخت
 sync-currently-syncing-addons = وردنی یل
 sync-currently-syncing-settings = سامووا
@@ -881,9 +714,6 @@ sync-manage-options-2 =
     .accesskey = M
 settings-sync-disconnect-button =
     .label = قت کردن منپیز
-sync-change-options =
-    .label = آلشت…
-    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
@@ -918,12 +748,6 @@ sync-connect-another-device = منپیز ی دسگا دیر
 sync-connect-another-device-2 =
     .label = منپیز ی دسگا دیر
 
-## Privacy Section - Logins and Passwords
-
-# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = و من ٱووڌنا وو رزما
-    .searchkeywords = { -lockwise-brand-short-name }
-
 ## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
@@ -938,9 +762,6 @@ forms-exceptions =
     .accesskey = x
 forms-breach-alerts-learn-more-link = قلوه دووسته بۊین
 relay-integration-learn-more-link = قلوه دووسته بۊین
-forms-saved-logins =
-    .label = و من ٱووڌنا زفت وابیڌه…
-    .accesskey = L
 forms-saved-passwords =
     .label = رزما زفت وابیڌه
     .accesskey = d
@@ -965,15 +786,6 @@ autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
-pane-privacy-autofill-header = پور کردن خوتکار
-autofill-addresses-checkbox = زفت وو پور کردن نشۊویا
-    .accesskey = a
-autofill-saved-addresses-button = نشۊویا زفت وابیڌه
-    .accesskey = S
-autofill-payment-methods-checkbox-message = زفت وو پور کردن بارتا پرداخت
-    .accesskey = m
-autofill-saved-payment-methods-button = بارتا پرداخت زفت وابیڌه
-    .accesskey = v
 autofill-payment-methods-header =
     .aria-label = بارتا پرداخت
 autofill-payment-methods-manage-payments-title =
@@ -1037,26 +849,8 @@ payments-group =
 
 ## Privacy Section - History
 
-history-header = ویرگار
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = گشت گر { -brand-short-name }
-    .accesskey = w
-history-remember-option-all =
-    .label = ویرگار و ویرس امهنه
 history-remember-option-custom2 =
     .label = سفارشی کردن ویرگار
-history-remember-option-never =
-    .label = هرگشت ویرگار و ویرس نؽمهنه
-history-remember-option-custom =
-    .label = سامووا خاسی ن سی ویرگار و کار اگره
 history-clear-on-close-settings =
     .label = سامووا…
     .accesskey = t
@@ -1083,12 +877,6 @@ sitedata-clear2 =
 sitedata-settings2 =
     .label = دؽوۉداری داده یل گشتن
     .accesskey = M
-sitedata-clear =
-    .label = روفتن داده یل…
-    .accesskey = l
-sitedata-settings =
-    .label = دؽوۉداری داده یل…
-    .accesskey = M
 cookies-site-data-group =
     .label = کۊکیا وو داده یل وبگه
 
@@ -1096,17 +884,9 @@ cookies-site-data-group =
 
 cookie-banner-blocker-header = مسدۊد کوݩ بنر کۊکی
 cookie-banner-learn-more = قلوه دووسته بۊین
-forms-handle-cookie-banners =
-    .label = کم کردن بنرا کۊکی
 
 ## Search Section
 
-addressbar-header = نوار نشۊوی
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest = نوار نشۊوی — { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
-# `addressbar-suggest-firefox-suggest`.
-addressbar-locbar-firefox-suggest-learn-more = قلوه دووسته بۊین
 addressbar-locbar-history-option =
     .label = ویرگار گشتن
     .accesskey = h
@@ -1123,21 +903,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-shortcuts-option =
     .label = ره نهنگا
     .accesskey = S
-addressbar-locbar-engines-option =
-    .label = موتورا پیتینیڌن
-    .accesskey = a
 addressbar-locbar-quickactions-option =
     .label = کارا زل
     .accesskey = Q
-addressbar-locbar-showrecentsearches-option =
-    .label = نشووݩ داڌن پیتینیڌنا دیندایی
-    .accesskey = r
-addressbar-locbar-suggest-sponsored-option =
-    .label = پؽشنهاڌا ز هؽزگرووݩ
-addressbar-quickactions-learn-more = قلوه دووسته بۊین
-addressbar-dismissed-suggestions-label = پؽشنهاڌا رڌ وابیڌه
-addressbar-restore-dismissed-suggestions-button =
-    .label = وورگندن
 
 ## Privacy Section - Content Blocking
 
@@ -1188,11 +956,6 @@ content-blocking-expand-section =
     .tooltiptext = دووسمندیا قلوه
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
-content-blocking-fingerprinters-label =
-    .label = کلک نگارا
-    .accesskey = F
-# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
-# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 #
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
 content-blocking-known-fingerprinters-label =
@@ -1212,43 +975,8 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = موجوزا
-permissions-location = جاگه
-permissions-location-settings =
-    .label = سامووا…
-    .accesskey = t
-permissions-xr = واقعیت مجازی
-permissions-xr-settings =
-    .label = سامووا…
-    .accesskey = t
-permissions-camera = شؽواتگر
-permissions-camera-settings =
-    .label = سامووا…
-    .accesskey = t
-permissions-microphone = میکروفووݩ
-permissions-microphone-settings =
-    .label = سامووا…
-    .accesskey = t
-permissions-speaker-settings =
-    .label = سامووا…
-    .accesskey = t
-permissions-notification = وارسۊویا
-permissions-notification-settings =
-    .label = سامووا…
-    .accesskey = t
-permissions-notification-link = قلوه دووسته بۊین
 permissions-autoplay2 =
     .label = پشک خوتکار
-permissions-autoplay = پشک خوتکار
-permissions-autoplay-settings =
-    .label = سامووا…
-    .accesskey = t
-permissions-block-popups =
-    .label = مسدۊد کردن نیمدری یل گۊشیڌنی
-    .accesskey = B
-permissions-addon-exceptions =
-    .label = استسنایل…
-    .accesskey = E
 permissions-location2 =
     .label = جاگه
 permissions-localhost2 =
@@ -1269,14 +997,8 @@ permissions-notification2 =
 
 ## Privacy Section - Data Collection
 
-preferences-view-profiles = نیشتن پوی پوروفایلا
-collection-privacy-notice = نوکات زفت مهرمووه ای
-collection-health-report-telemetry-disabled-link = قلوه دووسته بۊین
-collection-health-report-link = قلوه دووسته بۊین
-collection-studies-description = ویژیی یل وو ایده یل ن پؽش ز تیجنیڌن سی پوی امتهووݩ کۊنین.
 settings-redesign-promo-dismiss-button =
     .label = فئمیم
-addon-recommendations-link = قلوه دووسته بۊین
 data-collection-profiles-link = نیشتن پوی پوروفایلا
 
 ## Privacy Section - Security
@@ -1289,13 +1011,6 @@ security-enable-safe-browsing-link = قلوه دووسته بۊین
 
 ## Privacy Section - Certificates
 
-certs-header = گوواهینامه یل
-certs-view =
-    .label = نیشتن گوواهینامه یل…
-    .accesskey = C
-certs-devices =
-    .label = دسگایل ٱمنیتی…
-    .accesskey = D
 certs-devices-enable-fips = فعال کردن FIPS
 space-alert-over-5gb-settings-button =
     .label = گۊشیڌن سامووا
@@ -1303,8 +1018,6 @@ space-alert-over-5gb-settings-button =
 
 ## Privacy Section - HTTPS-Only
 
-httpsonly-header = هالت تینا-Https
-httpsonly-learn-more = قلوه دووسته بۊین
 httpsonly-label2 =
     .aria-label = { httpsonly-group.label }
 

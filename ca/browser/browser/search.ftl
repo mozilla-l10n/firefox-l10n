@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Ha canviat el motor de cerca per defecte.</strong> { $oldEngine } ja no està disponible com a motor de cerca per defecte del { -brand-short-name }. Ara el motor de cerca per defecte és { $newEngine }. Podeu canviar-lo per un altre motor de cerca per defecte en els paràmetres. <label data-l10n-name="remove-search-engine-article">Més informació</label>
 removed-search-engine-message2 = <strong>Ha canviat el motor de cerca per defecte.</strong> { $oldEngine } ja no està disponible com a motor de cerca per defecte del { -brand-short-name }. Ara el motor de cerca per defecte és { $newEngine }. Podeu canviar-lo per un altre motor de cerca per defecte en els paràmetres.
 remove-search-engine-button = D'acord
 
@@ -52,11 +51,11 @@ install-search-engine-no = No
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Afegeix un motor de cerca
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Edita el motor de cerca
     .style = min-width: 32em;
+    .title = Edita el motor de cerca
 add-engine-button = Afegeix un motor personalitzat
 add-engine-name = Nom del motor de cerca
 add-engine-url2 = URL amb %s en el lloc del terme de cerca
@@ -93,8 +92,8 @@ add-engine-missing-terms-post-data = Proveu d'incloure %s en el lloc del terme d
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Afegeix un motor
-    .buttonaccesskeyaccept = A
     .buttonlabelextra1 = Avançat
+    .buttonaccesskeyaccept = A
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =

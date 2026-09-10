@@ -5,12 +5,6 @@
 
 ### These strings are used inside the about:debugging UI.
 
-
-# Page Title strings
-
-
-# Sidebar strings
-
 # Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
 about-debugging-sidebar-usb-enabled = Kicako USB
 # Text displayed in the about:debugging sidebar when USB devices discovery is disabled
@@ -58,9 +52,6 @@ about-debugging-sidebar-support-icon =
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = Nwo cano nyonyo
-
-# Setup Page strings
-
 # Title of the Setup page.
 about-debugging-setup-title = Ter
 # Title of the heading Connect section of the Setup page.
@@ -81,9 +72,6 @@ about-debugging-network-locations-add-button = Medi
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Kwany
-
-# Runtime Page strings
-
 # Title of the tabs category.
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-tabs =
@@ -92,9 +80,6 @@ about-debugging-runtime-tabs =
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-service-workers =
     .name = Service Workers
-
-# Debug Targets strings
-
 # Displayed in the categories of "runtime" pages that don't have any debug target to
 # show. Debug targets depend on the category (extensions, tabs, workers...).
 about-debugging-debug-target-list-empty = Gin mo pud pe.

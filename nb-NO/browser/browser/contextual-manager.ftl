@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Søk etter passord
-    .key = F
     .aria-label = Søk etter passord
+    .key = F
+    .placeholder = Søk etter passord
 contextual-manager-menu-more-options-button =
     .title = Flere innstillinger
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Importer fra en fil…
 contextual-manager-passwords-command-export = Eksporter passord
 contextual-manager-passwords-command-remove-all = Fjern alle passord
 contextual-manager-passwords-command-options = Innstillinger
-contextual-manager-passwords-command-settings = Innstillinger
 contextual-manager-passwords-command-help = Hjelp
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Passord importert
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Nye: { $added }, Oppdaterte: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -213,8 +208,6 @@ contextual-manager-passwords-create-label =
     .label = Legg til passord
 contextual-manager-passwords-update-label =
     .label = Oppdater passord
-contextual-manager-passwords-edit-label =
-    .label = Rediger passord
 contextual-manager-passwords-remove-label =
     .title = Fjern passord
 contextual-manager-passwords-origin-field =
@@ -230,7 +223,6 @@ contextual-manager-passwords-password-field-description = Skriv inn passordet fo
 contextual-manager-passwords-origin-tooltip = Skriv inn den eksakte adressen, du bruker til å logge inn på dette nettstedet.
 contextual-manager-passwords-username-tooltip = Skriv inn brukernavnet, e-postadressen eller kontonummeret du bruker for å logge inn.
 contextual-manager-passwords-password-tooltip-2 = Skriv inn passordet for å logge på denne kontoen.
-contextual-manager-passwords-password-tooltip = Skriv inn passordet som ble brukt til å logge på denne kontoen.
 
 ## Password Card
 
@@ -277,10 +269,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Kopier passord (advarsel)
 contextual-manager-edit-login-button = Rediger
     .tooltiptext = Rediger passord
-contextual-manager-view-alert-heading =
-    .heading = Vis advarsel
-contextual-manager-view-alert-button =
-    .tooltiptext = Undersøk advarsel
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -307,13 +295,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Ingen passord funnet
 contextual-manager-passwords-no-passwords-found-message-2 = Prøv et annet begrep og søk på nytt.
-contextual-manager-passwords-no-passwords-found-message = Ingen passord funnet. Søk etter et annet ord og prøv på nytt.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Lagre passordene dine på et trygt sted.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Alle passord er kryptert, og vi vil følge med på datalekkasjer og varsler hvis du blir berørt.

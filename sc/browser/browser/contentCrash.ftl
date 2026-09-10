@@ -18,13 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Nch'est un'informe de faddina de imbiare
-       *[other] Nche sunt { $reportCount } informes de faddinas de imbiare
-    }
 pending-crash-reports-view-all =
     .label = Visualiza
 pending-crash-reports-send =
@@ -37,13 +30,6 @@ requested-crash-reports-message-new =
     { $reportCount ->
         [one] Tenes un’informe chi pertocat faddinas chi semus averiguende. Imbiende·ddu nos as a agiudare a megiorare { -brand-product-name }. Serra custu avisu pro inniorare custu informe.
        *[other] Tenes { $reportCount } informes chi pertocant faddinas chi semus averiguende. Imbiende·ddos nos as a agiudare a megiorare { -brand-product-name }. Serra custu avisu pro inniorare custos informes.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Tenes un’informe chi pertocat faddinas chi semus giai averiguende. Imbiende·ddu nos as a agiudare a megiorare { -brand-product-name }. Serra custu avisu pro inniorare custu informe.
-       *[other] Tenes { $reportCount } informes chi pertocant faddinas chi semus giai averiguende. Imbiende·ddos nos as a agiudare a megiorare { -brand-product-name }. Serra custu avisu pro inniorare custos informes.
     }
 requested-crash-reports-dont-show-again =
     .label = No dd’ammustres prus

@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Rādīt mapē
            *[other] Rādīt mapē
         }
-downloads-cmd-show-downloads =
-    .label = Rādīt lejupielāžu mapi
 downloads-cmd-retry =
     .tooltiptext = Atkārtot
 downloads-cmd-retry-panel =

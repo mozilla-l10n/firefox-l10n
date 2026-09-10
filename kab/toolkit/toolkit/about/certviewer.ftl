@@ -118,4 +118,3 @@ certificate-viewer-tab-mine = Iselkinen-ik(im)
 certificate-viewer-tab-people = Medden
 certificate-viewer-tab-servers = Iqeddacen
 certificate-viewer-tab-ca = Iduba
-certificate-viewer-tab-unkonwn = Arussin

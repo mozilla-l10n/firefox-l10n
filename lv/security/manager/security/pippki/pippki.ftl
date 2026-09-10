@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Lejupielādē sertifikātus
     .style = min-width: 46em
+    .title = Lejupielādē sertifikātus
 download-cert-message = Jums tiek vaicāts uzticēties jaunai Sertifikātu Autoritātei (CA).
 download-cert-trust-ssl =
     .label = Uzticēties šai CA tīmekļa vietņu identificēšanai.
@@ -37,8 +37,6 @@ download-cert-view-text = Apskatīt CA sertifikātu
 
 client-auth-window =
     .title = Lietotāja identifikācijas pieprasījums
-client-auth-site-description = Šī vietne pieprasīja, lai jūs identificētu sevi ar sertifikātu:
-client-auth-choose-cert = Izvēlieties sertifikātu, ar kuru identificēt sevi:
 client-auth-cert-details = Izvēlētā sertifikāta detaļas:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

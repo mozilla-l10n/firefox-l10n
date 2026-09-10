@@ -85,15 +85,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Vifaa vyote vya nyongeza vimelemazwa na hali tumizi ya usalama.
-extensions-warning-check-compatibility = Ukaguzi wa utangamanifu wa kifaa cha nyongeza umelemazwa. Waweza kuwa na vifaa vya nyongeza sitangamanifu.
-extensions-warning-safe-mode2 =
-    .message = Vifaa vyote vya nyongeza vimelemazwa na hali tumizi ya usalama.
 extensions-warning-check-compatibility2 =
     .message = Ukaguzi wa utangamanifu wa kifaa cha nyongeza umelemazwa. Waweza kuwa na vifaa vya nyongeza sitangamanifu.
 extensions-warning-check-compatibility-button = Wezesha
     .title = Wezesha ukaguzi wa utangamanifu wa kifaa cha nyongeza
-extensions-warning-update-security = Ukaguzi wa usalama wa kisasaisho cha vifaa vya nyongeza. Waweza kuwa umeafikiwa na visasaisho.
 extensions-warning-update-security2 =
     .message = Ukaguzi wa usalama wa kisasaisho cha vifaa vya nyongeza. Waweza kuwa umeafikiwa na visasaisho.
 extensions-warning-update-security-button = Wezesha
@@ -144,12 +139,5 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } sitangamanifu na { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } sitangamanifu na { -brand-short-name } { $version }.
-details-notification-blocked = { $name } imelemazwa kwa sababu ya usalama au mambo ya uthabiti.
-details-notification-blocked-link = Maelezo Zaidi
-details-notification-softblocked = { $name } inajulikana kusababisha usalama au mambo ya uthabiti.
-details-notification-softblocked-link = Maelezo Zaidi

@@ -75,7 +75,3 @@ text-action-comment-selection-1 =
 # visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-highlight =
     .label = Hiqe Theksimin
-# If the page has been loaded with a text fragment and text is
-# visibly highlighted, this removes any highlighted sections on the page.
-text-action-remove-all-highlights =
-    .label = Hiqi Krejt Theksimet

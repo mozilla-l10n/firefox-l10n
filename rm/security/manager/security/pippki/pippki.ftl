@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Ti es actualmain en il modus FIPS. FIPS pr
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Redefinir il pled-clav universal
     .style = min-width: 50em
+    .title = Redefinir il pled-clav universal
 reset-password-button-label =
     .label = Redefinir
 reset-primary-password-text = Sche tes pled-clav universal vegn redefinì, perdas ti tut tes pleds-clav memorisads da web e dad e-mail, tes certificats persunals e tias clavs privatas. Vuls ti propi redefinir tes pled-clav universal?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Tes pled-clav universal è vegnì r
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Telechargiar il certificat
     .style = min-width: 46em
+    .title = Telechargiar il certificat
 download-cert-message = Ti es vegnì dumandà da fidar ad in nov post da certificaziun (CA).
 download-cert-trust-ssl =
     .label = Fidar a questa CA per identifitgar websites.
@@ -52,8 +52,6 @@ download-cert-view-text = Controllar il certificat CA
 
 client-auth-window =
     .title = Dumonda d'identifitgar l'utilisader
-client-auth-site-description = Questa website pretenda che ti t'identifitgeschias cun in certificat:
-client-auth-choose-cert = Tscherna in certificat che vegn mussà sco identificaziun:
 client-auth-send-no-certificate =
     .label = Betg trametter in certificat
 # Variables:
@@ -100,9 +98,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Pled-clav da segirezza dal certificat (repeter):
 set-password-reminder = Impurtant: sche ti emblidas tes pled-clav da segirezza dal certificat, na pos ti pli tard betg pli restaurar questa copia da segirezza. Al notescha per plaschair en in lieu segir.
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = T'autentifitgescha per plaschair tar il token «{ $tokenName }». Co quai funcziuna dependa dal token (per exempel cun agid dad in lectur d'improntas dal det u cun endatar in code cun agid dad ina tastatura).

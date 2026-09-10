@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Ikhuphela isihlaziyi — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Ikhuphela isihlaziyi — { $transfer }
 
@@ -29,7 +28,6 @@ settings-update-applying =
     .label = Ukwenza uhlaziyo…
 update-failed = Uhlaziyo aluphumelelanga. <label data-l10n-name="failed-link">Khuphela inguqulelo yamva</label>
 update-failed-main = Uhlaziyo aluphumelelanga. <a data-l10n-name="failed-link-main">Khuphela inguqulelo yamva</a>
-update-adminDisabled = Uhlaziyo lurhoxiswe ngumlawuli wekhompyutha yakho
 update-noUpdatesFound = I-{ -brand-short-name } igqibelele
 settings-update-no-updates-found =
     .label = I-{ -brand-short-name } igqibelele
@@ -58,5 +56,3 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">I-{ -vendor-sh
 community-2 = I-{ -brand-short-name } iyilwe <label data-l10n-name="community-mozillaLink">I-{ -vendor-short-name }</label>, a<label data-l10n-name="community-creditsLink">uluntu lwehlabathi jikelele</label> olusebenza kunye ukugcina iWebhu ivulekile, iyeyomntu wonke kwaye ifikelela kuye wonke umntu.
 helpus = Ufuna ukunceda?<label data-l10n-name="helpus-donateLink">Nika  isipho</label> okanye <label data-l10n-name="helpus-getInvolvedLink">zibandakanye!</label>
 bottomLinks-license = Inkcazelo yonikezelo lwephepha-mvume
-bottomLinks-rights = Amalungelo omsebenzisi-mveliso
-bottomLinks-privacy = Umgaqo-nkqubo Wabucala

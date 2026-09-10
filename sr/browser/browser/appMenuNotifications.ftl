@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-update-available2 =
-    .label = Доступно је ажурирање
     .buttonlabel = Преузми
     .buttonaccesskey = П
+    .label = Доступно је ажурирање
     .secondarybuttonlabel = Одбаци
     .secondarybuttonaccesskey = О
 appmenu-update-available-message2 =
@@ -16,9 +16,9 @@ appmenu-update-available-message2 =
        *[other] Преузмите најновије издање програма { -brand-shorter-name }.
     }
 appmenu-update-manual2 =
-    .label = Доступно је ажурирање
     .buttonlabel = Преузми
     .buttonaccesskey = П
+    .label = Доступно је ажурирање
     .secondarybuttonlabel = Одбаци
     .secondarybuttonaccesskey = О
 appmenu-update-manual-message2 =
@@ -29,9 +29,9 @@ appmenu-update-manual-message2 =
        *[other] Аутоматско ажурирање програма { -brand-shorter-name } није успело. Ручно преузмите нову верзију; нећете изгубити сачуване податке ни подешавања.
     }
 appmenu-update-unsupported2 =
-    .label = Ажурирање није успело
     .buttonlabel = Сазнајте више
     .buttonaccesskey = С
+    .label = Ажурирање није успело
     .secondarybuttonlabel = Одбаци
     .secondarybuttonaccesskey = О
 appmenu-update-unsupported-message2 =
@@ -42,9 +42,9 @@ appmenu-update-unsupported-message2 =
        *[other] Ваш оперативни систем није компатибилан са најновијом верзијом програма { -brand-shorter-name }.
     }
 appmenu-update-restart2 =
-    .label = Доступно је ажурирање
     .buttonlabel = Ажурирај и поново покрени
     .buttonaccesskey = А
+    .label = Доступно је ажурирање
     .secondarybuttonlabel = Одбаци
     .secondarybuttonaccesskey = О
 appmenu-update-restart-message2 =
@@ -58,13 +58,6 @@ appmenu-theme-installed =
     .secondarybuttonlabel = Опозови
     .secondarybuttonaccesskey = U
 appmenu-update-other-instance =
-    .label =
-        { -brand-shorter-name.gender ->
-            [masculine] Није могуће инсталирати најновију верзију { -brand-shorter-name(case: "gen") }.
-            [feminine] Није могуће инсталирати најновију верзију { -brand-shorter-name(case: "gen") }.
-            [neuter] Није могуће инсталирати најновију верзију { -brand-shorter-name(case: "gen") }.
-           *[other] Није могуће инсталирати најновију верзију програма { -brand-shorter-name }.
-        }
     .buttonlabel =
         { -brand-shorter-name.gender ->
             [masculine] Ипак ажурирај { -brand-shorter-name(case: "acc") }
@@ -73,6 +66,13 @@ appmenu-update-other-instance =
            *[other] Ипак ажурирај програм { -brand-shorter-name }
         }
     .buttonaccesskey = а
+    .label =
+        { -brand-shorter-name.gender ->
+            [masculine] Није могуће инсталирати најновију верзију { -brand-shorter-name(case: "gen") }.
+            [feminine] Није могуће инсталирати најновију верзију { -brand-shorter-name(case: "gen") }.
+            [neuter] Није могуће инсталирати најновију верзију { -brand-shorter-name(case: "gen") }.
+           *[other] Није могуће инсталирати најновију верзију програма { -brand-shorter-name }.
+        }
     .secondarybuttonlabel = Касније
     .secondarybuttonaccesskey = К
 appmenu-update-other-instance-message =
@@ -82,9 +82,6 @@ appmenu-update-other-instance-message =
         [neuter] Доступно је ново ажурирање { -brand-shorter-name(case: "gen") }, али се не може инсталирати јер је покренут други примерак { -brand-shorter-name(case: "gen") }. Затворите га или ажурирајте упркос томе (други примерак можда неће радити док га не рестартујете).
        *[other] Доступно је ново ажурирање програма { -brand-shorter-name }, али се не може инсталирати јер је покренут други примерак програма { -brand-shorter-name }. Затворите га или ажурирајте упркос томе (други примерак можда неће радити док га не рестартујете).
     }
-appmenu-addon-private-browsing-installed2 =
-    .buttonlabel = У реду
-    .buttonaccesskey = У
 appmenu-addon-post-install-message3 = Управљајте додацима и темама из менија програма.
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
@@ -92,24 +89,21 @@ appmenu-addon-post-install-message-with-data-collection = Ажурирајте �
 appmenu-addon-post-install-pin-toolbarbutton-checkbox =
     .label = Окачи екстензију на радну линију
     .accesskey = P
-appmenu-addon-post-install-incognito-checkbox =
-    .label = Дозволи рад у приватним прозорима
-    .accesskey = Д
 appmenu-new-tab-controlled-changes =
-    .label = Страница новог језичка је промењена.
     .buttonlabel = Задржи промене
     .buttonaccesskey = З
+    .label = Страница новог језичка је промењена.
     .secondarybuttonlabel = Управљај новим језичцима
     .secondarybuttonaccesskey = У
 appmenu-homepage-controlled-changes =
-    .label = Ваша почетна страница је промењена.
     .buttonlabel = Задржите промене
     .buttonaccesskey = K
+    .label = Ваша почетна страница је промењена.
     .secondarybuttonlabel = Уредите почетну страницу
     .secondarybuttonaccesskey = M
 appmenu-tab-hide-controlled =
-    .label = Приступите скривеним језичцима
     .buttonlabel = Задржи језичке скривеним
     .buttonaccesskey = З
+    .label = Приступите скривеним језичцима
     .secondarybuttonlabel = Онемогући додатак
     .secondarybuttonaccesskey = О

@@ -2,113 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } — tryb prywatny
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — tryb prywatny
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — tryb prywatny
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — tryb prywatny
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } — tryb prywatny
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
 browser-shortcut-description = Szybkie i prywatne przeglądanie Internetu
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } — tryb prywatny
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } — tryb prywatny
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — tryb prywatny
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } — tryb prywatny
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } — tryb prywatny
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — tryb prywatny
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — tryb prywatny
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } — tryb prywatny
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -178,8 +76,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Wyświetl zapytanie o przechowywanie danych offline
 urlbar-password-notification-anchor =
     .tooltiptext = Określ, czy zachować hasło
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Zarządzaj wtyczkami używanymi na tej stronie
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Zarządzaj udostępnianiem tej witrynie kamery i mikrofonu
 # "Speakers" is used in a general sense that might include headphones or
@@ -192,15 +88,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Przechowywanie danych na komputerze
 urlbar-addons-notification-anchor =
     .tooltiptext = Wyświetl zapytanie o instalację dodatków
-urlbar-tip-help-icon =
-    .title = Pomoc
 urlbar-search-tips-confirm = OK
 urlbar-search-tips-confirm-short = OK
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Wskazówka:
 urlbar-result-menu-button =
     .title = Otwórz menu
 urlbar-result-menu-button-feedback = Opinia
@@ -245,9 +134,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = Odrzuć tę podpowiedź
     .accesskey = O
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = Więcej informacji o { -firefox-suggest-brand-name(capitalization: "lower", case: "loc") }
-    .accesskey = W
 urlbar-result-menu-manage-firefox-suggest =
     .label = Zarządzaj { -firefox-suggest-brand-name(capitalization: "lower", case: "ins") }
     .accesskey = Z
@@ -279,8 +165,6 @@ urlbar-dismissal-acknowledgment-weather = Dziękujemy za opinię. Nie będziemy 
 
 urlbar-search-tips-onboard = Pisz mniej, wyszukuj więcej: szukaj w { $engineName } prosto z paska adresu
 urlbar-search-tips-redirect-2 = Zacznij szukać na pasku adresu, aby uzyskać podpowiedzi od wyszukiwarki { $engineName } i wyniki na podstawie historii przeglądania
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = Wyszukiwanie właśnie stało się prostsze. Możesz uściślić wyszukiwane słowa już na pasku adresu. Aby zamiast tego wyświetlać adres wyszukiwarki, otwórz ustawienia wyszukiwania.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Kliknij ten skrót, aby szybciej znaleźć to, czego potrzebujesz
@@ -314,8 +198,6 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Przechowywanie danych na komputerze przez tę witrynę zostało zablokowane
 urlbar-popup-blocked2 =
     .tooltiptext = Wyskakujące okna i zewnętrzne przekierowania na tej witrynie są blokowane
-urlbar-popup-blocked =
-    .tooltiptext = Wyskakujące okna na tej witrynie są blokowane
 urlbar-autoplay-media-blocked =
     .tooltiptext = Automatyczne odtwarzanie treści z dźwiękiem przez tę witrynę zostało zablokowane
 urlbar-canvas-blocked =
@@ -426,24 +308,18 @@ quickactions-cmd-addons3 = rozszerzenia, motywy, dodatki
 # Opens preferences page at AI controls
 quickactions-manageai = Steruj sztuczną inteligencją
 quickactions-cmd-manageai = wyłącz si, wyłącz ai, zarządzaj si, zarządzaj ai, steruj si, steruj ai, sterowanie si, sterowanie ai
-quickactions-cmd-addons2 = dodatki
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Zarządzaj zakładkami
 quickactions-cmd-bookmarks = zakładki, ulubione
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Wyczyść historię przeglądania
 quickactions-cmd-clearrecenthistory2 = ciasteczka, cookies, wyczyść ciasteczka, usuń ciasteczka, wyczyść pamięć podręczną, dane przeglądania, wyczyść dane przeglądania, usuń dane przeglądania, historia, wyczyść historię, usuń historię
-quickactions-cmd-clearrecenthistory = wyczyść historię przeglądania, historia
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Wyczyść historię
-quickactions-cmd-clearhistory = wyczyść historię, usuń historię
 # Opens about:downloads page
 quickactions-downloads2 = Wyświetl listę pobranych plików
 quickactions-cmd-downloads = pobrane pliki, pobrane, pobierane, pobieranie
 # Opens about:addons page in the extensions section
 quickactions-extensions = Zarządzaj rozszerzeniami
 quickactions-cmd-extensions2 = rozszerzenia, dodatki
-quickactions-cmd-extensions = rozszerzenia
 # Opens Firefox View
 quickactions-firefoxview = Otwórz { -firefoxview-brand-name(capitalization: "lower", case: "acc") }
 # English is using "view" and "open view", since the feature name is
@@ -462,7 +338,6 @@ quickactions-cmd-colorpicker = wybierz kolor, kroplomierz, wybierak kolorów, se
 # Opens Firefox Library
 quickactions-cmd-library = biblioteka
 quickactions-library = Otwórz bibliotekę
-quickactions-cmd-inspector = inspektor, narzędzia dla programistów, narzędzia dla deweloperów, narzędzia dla twórców witryn, devtools
 # Opens about:logins
 quickactions-logins2 = Zarządzaj hasłami
 quickactions-cmd-logins = dane logowania, loginy, hasła
@@ -472,9 +347,6 @@ quickactions-mute = Wycisz karty odtwarzające dźwięk
 # Replace with idiomatic expressions in your language to silence something or
 # someone.
 quickactions-cmd-mute = wycisz, przycisz, cicho, cisza, ciii, sza
-# Opens about:addons page in the plugins section
-quickactions-plugins = Zarządzaj wtyczkami
-quickactions-cmd-plugins = wtyczki
 # Opens the print dialog
 quickactions-print2 = Drukuj stronę
 quickactions-cmd-print = drukuj, wydrukuj
@@ -499,19 +371,16 @@ quickactions-cmd-screenshot2 = zrzut ekranu, wykonaj zrzut ekranu
 # Opens about:translations
 quickactions-translate = Przetłumacz
 quickactions-cmd-translate = przetłumacz, tłumacz, tłumaczenie, przełóż, przekład
-quickactions-cmd-screenshot = zrzut ekranu, screenshot, skrin
 # Opens about:preferences
 quickactions-settings2 = Otwórz ustawienia
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = ustawienia, preferencje, opcje, zarządzaj
-quickactions-cmd-settings = ustawienia, preferencje, opcje
 # Opens about:addons page in the themes section
 quickactions-themes = Zarządzaj motywami
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-themes2 = motywy, dodatki
-quickactions-cmd-themes = motywy
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Uaktualnij { -brand-short-name(case: "acc") }
 quickactions-cmd-update = uaktualnij, uaktualnienie, zaktualizuj, aktualizuj, aktualizacja, apdejt
@@ -521,7 +390,6 @@ quickactions-cmd-viewsource2 = wyświetl źródło, źródło, źródło strony
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = Otwórz { -firefoxlabs-brand-name(capitalization: "lower", case: "acc") }
 quickactions-cmd-labs = laboratorium, laborki, labs, eksperyment
-quickactions-cmd-viewsource = pokaż źródło, źródło, wyświetl źródło
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Więcej informacji o szybkich działaniach
@@ -579,9 +447,7 @@ identity-custom-root = Połączenie zweryfikowane przez wystawcę certyfikatu, k
 identity-passive-loaded = Niektóre elementy tej strony (np. obrazy) nie były przesłane w sposób bezpieczny.
 identity-active-loaded = Ochrona na tej stronie została wyłączona przez użytkownika.
 identity-weak-encryption = Strona używa słabego szyfrowania.
-identity-insecure-login-forms = Dane logowania wprowadzone na tej stronie nie są chronione.
 identity-https-only-connection-upgraded = (przełączono na protokół HTTPS)
-identity-https-only-label = Tryb używania wyłącznie protokołu HTTPS
 identity-https-only-label2 = Automatycznie przełączaj tę witrynę na zabezpieczone połączenie
 identity-https-only-dropdown-on =
     .label = Włączony
@@ -589,8 +455,6 @@ identity-https-only-dropdown-off =
     .label = Wyłączony
 identity-https-only-dropdown-off-temporarily =
     .label = Tymczasowo wyłączony
-identity-https-only-info-turn-on2 = Włącz tryb używania wyłącznie protokołu HTTPS dla tej witryny, jeśli chcesz, aby { -brand-short-name } przełączał na zabezpieczone połączenie, kiedy to możliwe.
-identity-https-only-info-turn-off2 = Jeśli strona wydaje się niepoprawnie działać, możesz wyłączyć tryb używania wyłącznie protokołu HTTPS dla tej witryny, aby odświeżyć ją za pomocą niezabezpieczonego protokołu HTTP.
 identity-https-only-info-turn-on3 = Włącz przełączanie na protokół HTTPS dla tej witryny, jeśli chcesz, aby { -brand-short-name } przełączał na zabezpieczone połączenie, kiedy to możliwe.
 identity-https-only-info-turn-off3 = Jeśli strona wydaje się niepoprawnie działać, możesz wyłączyć przełączanie na protokół HTTPS dla tej witryny, aby odświeżyć ją za pomocą niezabezpieczonego protokołu HTTP.
 identity-https-only-info-no-upgrade = Nie można przełączyć połączenia z protokołu HTTP.
@@ -614,7 +478,6 @@ identity-remove-cert-exception =
     .label = Usuń wyjątek
     .accesskey = U
 identity-description-insecure = Prywatność podczas łączenia się z tą witryną nie jest chroniona. Przesyłane informacje (np. hasła, wiadomości, numery kart) mogą być dostępne dla innych.
-identity-description-insecure-login-forms = Dane logowania wprowadzone na tej stronie nie są bezpieczne i mogą być dostępne dla innych.
 identity-description-weak-cipher-intro = Połączenie z tą witryną nie zapewnia prywatności, ponieważ szyfrowanie nie jest wystarczające.
 identity-description-weak-cipher-risk = Informacje na witrynie mogą być dostępne dla innych, a jej działanie modyfikowane.
 identity-description-active-blocked2 = { -brand-short-name } zablokował elementy tej strony, które nie były przesłane w sposób bezpieczny.
@@ -625,12 +488,6 @@ identity-description-active-loaded = Witryna zawiera elementy, które nie były 
 identity-description-active-loaded-insecure = Przesyłane informacje (np. hasła, wiadomości, numery kart) mogą być dostępne dla innych.
 identity-description-tls-key-logging-heading = Połączenie może nie zapewniać prywatności
 identity-description-tls-key-logging-message = Aplikacja lub usługa może podejrzeć zaszyfrowany ruch z tej witryny.
-identity-disable-mixed-content-blocking =
-    .label = Tymczasowo wyłącz ochronę
-    .accesskey = T
-identity-enable-mixed-content-blocking =
-    .label = Włącz ochronę
-    .accesskey = W
 identity-more-info-link-text =
     .label = Więcej informacji
 
@@ -647,43 +504,6 @@ browser-window-close-button =
 # Clicking this button closes the window and returns to the tab where it was opened from
 browser-window-return-to-opener =
     .tooltiptext = Wróć
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = ODTWARZANIE
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = WYCISZONE
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = ZABLOKOWANO AUTOODTWARZANIE
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = OBRAZ W OBRAZIE
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] WYCISZ KARTĘ
-        [one] WYCISZ { $count } KARTĘ
-        [few] WYCISZ { $count } KARTY
-       *[many] WYCISZ { $count } KART
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] WŁĄCZ DŹWIĘK
-        [one] WŁĄCZ DŹWIĘK W { $count } KARCIE
-        [few] WŁĄCZ DŹWIĘK W { $count } KARTACH
-       *[many] WŁĄCZ DŹWIĘK W { $count } KARTACH
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] ODTWARZAJ
-        [one] ODTWARZAJ W { $count } KARCIE
-        [few] ODTWARZAJ W { $count } KARTACH
-       *[many] ODTWARZAJ W { $count } KARTACH
-    }
 
 ## Bookmarks toolbar items
 
@@ -724,10 +544,6 @@ sharing-warning-disable-for-session =
 
 webserial-select-port-label = Wybierz port szeregowy:
 webserial-no-ports-available = Brak dostępnych portów szeregowych
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = Aby móc użyć skrótu F12, najpierw otwórz narzędzia dla twórców witryn w menu „Narzędzia przeglądarki”.
 
 ## URL Bar
 
@@ -792,8 +608,6 @@ urlbar-extension =
     .value = Rozszerzenie:
 urlbar-go-button2 =
     .title = Przejdź do strony o podanym adresie
-urlbar-go-button =
-    .tooltiptext = Przejdź do strony o podanym adresie
 urlbar-page-action-button =
     .tooltiptext = Interakcje
 urlbar-revert-button =
@@ -851,11 +665,6 @@ urlbar-result-action-tabtosearch-web = szukaj w { $engine } prosto z paska adr
 urlbar-result-action-tabtosearch-other-engine = szukaj na witrynie { $engine } prosto z paska adresu
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = kopiuj
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = wynik nieokreślony
 # The sub title of an add-on suggestion in the urlbar.
@@ -866,23 +675,6 @@ urlbar-result-mdn-subtitle = { -mdn-brand-name }
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
 urlbar-result-suggestion-recommended = polecane
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
-# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
-# The last = sign will be shown as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
-# Shows the result of a formula expression being calculated, to a maximum of 9 significant
-# digits. This is used for numbers < 1.
-# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 # The title of a weather suggestion in the urlbar. The temperature and unit
 # substring should be inside a <strong> tag. If the temperature and unit are not
 # adjacent in the localization, it's OK to include only the temperature in the
@@ -1077,32 +869,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } – szukaj w: { $loc
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } – szukaj w { $engine }
-urlbar-searchmode-dropmarker =
-    .tooltiptext = Wybierz wyszukiwarkę
-urlbar-searchmode-bookmarks =
-    .label = Zakładki
-urlbar-searchmode-tabs =
-    .label = Karty
-urlbar-searchmode-history =
-    .label = Historia
-urlbar-searchmode-actions =
-    .label = Działania
-urlbar-searchmode-exit-button =
-    .tooltiptext = Zamknij
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = Tym razem szukaj w:
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = Ustawienia wyszukiwania
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button2 =
-    .label = { $engine }, wybierz wyszukiwarkę
-    .tooltiptext = { $engine }, wybierz wyszukiwarkę
-urlbar-searchmode-button-no-engine =
-    .label = Nie wybrano skrótu, wybierz jakiś
-    .tooltiptext = Nie wybrano skrótu, wybierz jakiś
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1209,16 +975,10 @@ urlbar-group-trending =
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Nie pokazuj popularnych wyszukiwań
     .accesskey = N
-# Label shown above sponsored suggestions in the urlbar results.
-urlbar-group-sponsored =
-    .label = Sponsorowane
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Nie pokazuj popularnych wyszukiwań
     .accesskey = N
-urlbar-result-menu-trending-why =
-    .label = Dlaczego to widzę?
-    .accesskey = D
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = Dziękujemy za opinię. Nie będziemy już pokazywać popularnych wyszukiwań.
@@ -1303,12 +1063,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Ukryj pasek zakładek
            *[other] Wyświetl pasek zakładek
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Usuń menu Zakładki z paska narzędzi
-           *[other] Dodaj menu Zakładki do paska narzędzi
-        }
 
 ##
 
@@ -1339,14 +1093,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = Zakładki
-library-recent-activity-title =
-    .value = Ostatnia aktywność
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Wyślij do { -pocket-brand-name }
-    .tooltiptext = Wyślij do { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
@@ -1436,8 +1182,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = Z
 
 ## Password save/update panel
 
-panel-save-update-username = Nazwa użytkownika
-panel-save-update-password = Hasło
 panel-save-update-username-2 =
     .label = Nazwa użytkownika
 panel-save-update-password-2 =
@@ -1460,33 +1204,18 @@ menu-share-copy-links =
            *[many] Kopiuj { $count } odnośników
         }
     .accesskey = K
-menu-share-copy-link =
-    .label = Kopiuj odnośnik
-    .accesskey = o
 ui-tour-info-panel-close =
     .tooltiptext = Zamknij
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
-popups-infobar-allow =
-    .label = Pozwól { $uriHost } otwierać wyskakujące okna
-    .accesskey = w
-popups-infobar-block =
-    .label = Blokuj wyskakujące okna z { $uriHost }
-    .accesskey = B
 popups-infobar-allow2 =
     .label = Pozwól { $uriHost } otwierać wyskakujące okna i zewnętrzne przekierowania
     .accesskey = w
 
 ##
 
-popups-infobar-dont-show-message =
-    .label = Nie pokazuj tej wiadomości, kiedy wyskakujące okna są blokowane
-    .accesskey = N
-edit-popup-settings =
-    .label = Ustawienia wyskakujących okien…
-    .accesskey = U
 picture-in-picture-hide-toggle =
     .label = Ukryj przycisk „Obraz w obrazie”
     .accesskey = U
@@ -1512,8 +1241,6 @@ navbar-downloads =
     .label = Pobieranie plików
 navbar-overflow-2 =
     .tooltiptext = Więcej narzędzi
-navbar-overflow =
-    .tooltiptext = Więcej narzędzi…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1616,13 +1343,8 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = Zakończ prywatną sesję
-    .tooltiptext = Zakończ prywatną sesję
 reset-pbm-panel-heading2 = Czy wyczyścić dane i rozpocząć nową sesję prywatną?
 reset-pbm-panel-description2 = Spowoduje to usunięcie historii, ciasteczek i wszystkich innych danych witryn bez zamykania okna prywatnego.
-reset-pbm-panel-heading = Czy zakończyć prywatną sesję?
-reset-pbm-panel-description = Zamknij wszystkie prywatne karty i usuń historię, ciasteczka i pozostałe dane witryn.
 reset-pbm-panel-always-ask-checkbox =
     .label = Pytaj za każdym razem
     .accesskey = P
@@ -1632,9 +1354,6 @@ reset-pbm-panel-cancel-button =
 reset-pbm-panel-confirm-button2 =
     .label = Wyczyść prywatną sesję
     .accesskey = c
-reset-pbm-panel-confirm-button =
-    .label = Usuń dane sesji
-    .accesskey = U
 reset-pbm-panel-complete = Usunięto dane prywatnej sesji
 reset-pbm-toolbar-button2 =
     .label = Wyczyść prywatną sesję

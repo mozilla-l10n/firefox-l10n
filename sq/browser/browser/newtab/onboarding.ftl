@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Shtoni { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Ecuri: hapi { $current } nga { $total } gjithsej
 # This button will open system settings to turn on prefers-reduced-motion
@@ -189,11 +183,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Fiksoje { -brand-short-name }-in te paneli dhe menuja e nisjes
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Fillojani me një shfletues që ka pas një ent jofitimprurës. Mbrojmë privatësinë tuaj, teksa ju baritni nëpër web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -223,57 +212,10 @@ mr2022-onboarding-set-default-subtitle = Përdorni një shfletues që ka pas nj�
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Versioni ynë më i ri është ndërtuar me ju në mendje, duke e bërë më të lehtë se kurrë të bridhni nëpër web. Është plot me veçori që mendojmë se do t’i adhuroni.
 mr2022-onboarding-get-started-primary-button-label = Ujdiseni brenda pak sekondash
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Ujdisje e shpejtë si rrufe
-mr2022-onboarding-import-subtitle = Ujdiseni { -brand-short-name }-in si e doni. Shtoni faqerojtësit tuaj, fjalëkalimet, etj prej shfletuesit tuaj të mëparshëm.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importo prej shfletuesi të mëparshëm
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Zgjidhni ngjyrën që ju frymëzon
-mr2022-onboarding-colorway-subtitle = Zërat e pavarur mund të ndryshojnë kulturë.
-mr2022-onboarding-colorway-primary-button-label-continue = Ujdise dhe vazhdo
-mr2022-onboarding-existing-colorway-checkbox-label = Bëjeni { -firefox-home-brand-name }-in faqen tuaj plot ngjyra
-mr2022-onboarding-colorway-label-default = Parazgjedhje
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Ngjyra të tanishme { -brand-short-name }
-mr2022-onboarding-colorway-description-default = <b>Përdor ngjyrat e mia { -brand-short-name } të tanishme.</b>
-mr2022-onboarding-colorway-label-playmaker = Mesfushor
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Playmaker (e kuqe)
-mr2022-onboarding-colorway-description-playmaker = <b>Jeni një mesfushor.</b> Krijoni mundësi që të fitohet dhe ndihmoni këdo përreth jush të ngrenë cilësinë e lojës.
-mr2022-onboarding-colorway-label-expressionist = Ekspresionist
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Ekspresionist (e verdhë)
-mr2022-onboarding-colorway-description-expressionist = <b>Jeni një Ekspresionis.t</b> E shihni ndryshe botën dhe krijimet tuaja trazojnë emocionet e të tjerëve.
-mr2022-onboarding-colorway-label-visionary = Largpamës
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Largpamës (e gjelbër)
-mr2022-onboarding-colorway-description-visionary = <b>Jeni një Largpamës.</b> Vini në dyshim status quo-në dhe i shtyni të tjerët të përfytyrojnë një të ardhme më të mirë.
-mr2022-onboarding-colorway-label-activist = Veprimtar
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Veprimtar (blu)
-mr2022-onboarding-colorway-description-activist = <b>Jeni një Veprimtar.</b> E lini botën një vend më të mirë se sa e gjetët dhe i shtyni të tjerët të besojnë.
-mr2022-onboarding-colorway-label-dreamer = Ëndërrimtar
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Ëndërrimtar (e purpur)
-mr2022-onboarding-colorway-description-dreamer = <b>Jeni një Ëndërrimtar.</b> Besoni se e ardhmja është në krah të guximtarëve dhe i frymëzoni të tjetër të jenë trima.
-mr2022-onboarding-colorway-label-innovator = Novator
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Novator (portokalli)
-mr2022-onboarding-colorway-description-innovator = <b>Jeni një Novator.</b> Shihni kudo mundësi dhe lini ndikim në jetët e kujtdo përreth jush.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Kaloni nga portativi te telefoni, ose anasjelltas
-mr2022-onboarding-mobile-download-subtitle = Merrni skedat nga një pajisje dhe rifilloni atje ku e latë, në një tjetër. Plus, njëkohësoni faqerojtësit dhe fjalëkalimet tuaja kudo ku përdorni { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Skanoni kodin QR që të merrni { -brand-product-name } për celular, ose <a data-l10n-name="download-label">dërgojini vetes një lidhje shkarkimi.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Skanoni kodin QR që të merrni { -brand-product-name } për celular.
 
@@ -324,15 +266,12 @@ mr2022-onboarding-pin-private-image-alt =
     .aria-label = Shkop magjik që bën të shfaqet stemë shfletimi privat { -brand-product-name } që nga një kapele
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Pamje e një perëndimi dielli përmes një dritareje me një dhelpër dhe një lule dhome në një parvaz
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Një sprei dore pikturon një kolazh plot ngjyra të një syri të gjelbër, këpuce portokalli, top të kuq basketbolli, kufje të purpura, zemër blu dhe kurorë të verdhë
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Një dhelpër në ekranin e një kompjuteri duke përshëndetur. Portativi ka miun të futur në të.
 onboarding-device-migration-title = Mirë se u kthyet!
-onboarding-device-migration-subtitle = Që të sillni në pajisjen tuaj të re faqerojtësit tuaj, fjalëkalime dhe historik, bëni hyrjen te { -fxaccount-brand-name(capitalization: "sentence") } juaj.
 onboarding-device-migration-subtitle2 = Që të sillni në pajisjen tuaj të re faqerojtësit tuaj, fjalëkalime dhe historik, bëni hyrjen te llogaria juaj.
 onboarding-device-migration-primary-button-label = Hyni
 
@@ -444,15 +383,12 @@ tab-groups-onboarding-feature-callout-title = Provoni grupe skedash për më pak
 tab-groups-onboarding-feature-callout-subtitle = Sistemoni gjërat, duke tërhequr një skedë mbi një tjetër, që të krijoni grupin tuaj të parë.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Gjeni kurdo grupet tuaj të skedave të menuja “Shfaq Krejt Skedat”.
-tab-groups-onboarding-create-group-title-2 = Gjeni këtu kurdo grupet tuaj të skedave.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Gjeni grupet tuaj të skedave duke kërkuar për ta te shtylla e adresave.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Kur mbyllni një grup skedash, rihapeni kurdo që nga menuja “Shfaq Krejt Skedat”.
-tab-groups-onboarding-saved-groups-title-2 = Kur mbyllni një grup skedash, mund ta rihapni këtu kurdo.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Gjeni grupet tuaj të mbyllur të skedave duke kërkuar për ta te shtylla e adresave.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Rihapni kurdo grupet tuaj të skedave, që nga menuja “Shfaq Krejt Skedat”.
-tab-groups-onboarding-session-restore-title = Rihapni këtu kurdo grupet tuaj të skedave.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

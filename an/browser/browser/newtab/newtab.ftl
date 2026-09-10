@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Nueva Pestanya
-newtab-settings-button =
-    .title = Personaliza la tuya pachina de Nueva Pestanya
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -51,7 +49,6 @@ newtab-search-box-search-button =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = Anyadir motor de busqueda
-newtab-topsites-edit-topsites-header = Editar lo puesto popular
 newtab-topsites-title-label = Titol
 newtab-topsites-title-input =
     .placeholder = Escribir un titol
@@ -84,20 +81,12 @@ newtab-confirm-delete-history-p2 = Esta acción no se puede desfer.
 newtab-menu-section-tooltip =
     .aria-label = Ubrir menú
     .title = Ubrir menú
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Eliminar
-    .title = Eliminar
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Ubrir menú contextual pa { $title }
     .title = Ubrir menú
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Editar este puesto
-    .title = Editar este puesto
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -108,18 +97,7 @@ newtab-menu-dismiss = Descartar
 newtab-menu-pin = Clavar
 newtab-menu-unpin = Desclavar
 newtab-menu-delete-history = Eliminar de l'historial
-newtab-menu-save-to-pocket = Alzar en { -pocket-brand-name }
-newtab-menu-delete-pocket = Borrar de { -pocket-brand-name }
-newtab-menu-archive-pocket = Archivar en { -pocket-brand-name }
 newtab-menu-show-privacy-info = Los nuestros patrocinadors y la tuya privacidat
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Feito
-newtab-privacy-modal-button-manage = Chestionar los achustos de contenius patrocinaus
-newtab-privacy-modal-header = La tuya privacidat ye important.
-newtab-privacy-modal-paragraph-2 = Amás d'amostrar los articlos mas cautivadors, tamién tos amostramos conteniu relevant de patrocinadors seleccionaus. Te garantizamos que <strong>los tuyos datos de navegación no salen nunca de { -brand-product-name }</strong>: no las veyemos ni nusatros ni los nuestros patrocinadors.
-newtab-privacy-modal-link = Saber mas sobre cómo funciona la privacidat en a nueva pestanya
 
 ##
 
@@ -168,38 +146,15 @@ newtab-label-sponsored-by = Patrocianu per { $sponsor }
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Borrar la sección
-newtab-section-menu-collapse-section = Plegar la sección
-newtab-section-menu-expand-section = Desplegar la sección
-newtab-section-menu-manage-section = Chestionar la sección
-newtab-section-menu-manage-webext = Chestionar la extensión
-newtab-section-menu-add-topsite = Anyadir un puesto popular
-newtab-section-menu-add-search-engine = Anyadir motor de busqueda
-newtab-section-menu-move-up = Puyar
-newtab-section-menu-move-down = Baixar
 newtab-section-menu-privacy-notice = Nota sobre privacidat
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Reducir la sección
-newtab-section-expand-section-label =
-    .aria-label = Ixamplar la sección
 
 ## Section Headers.
 
 newtab-section-header-topsites = Mas freqüents
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Recomendau per { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Empecipia a navegar, y t'iremos amostrando aquí grans articlos, videos y atras pachinas que has vesitau u marcau en zagueras.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Ya ye tot per agora. Torna mas ta debant pa veyer mas articlos populars de { $provider }. No i puetz aguardar? Tría un tema popular pa descubrir los articlos mas interesants de tot lo web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -209,15 +164,6 @@ newtab-discovery-empty-section-topstories-try-again-button = Torna-lo a intentar
 newtab-discovery-empty-section-topstories-loading = Se ye cargando…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ups! Pareix que no s'ha puesto cargar de tot esta sección.
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Temas populars:
-newtab-pocket-more-recommendations = Mas recomendacions
-newtab-pocket-learn-more = Saber-ne mas
-newtab-pocket-cta-button = Instala { -pocket-brand-name }
-newtab-pocket-cta-text = Alza los tuyos articlos preferius en { -pocket-brand-name }, y regala-te con lecturas fascinants.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

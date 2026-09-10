@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = No es confia en el certificat perquè no es 
 cert-error-trust-signature-algorithm-disabled = No es confia en el certificat perquè ha estat signat amb un algorisme de signatura que va ser inhabilitat per no ser segur.
 cert-error-trust-expired-issuer = No es confia en el certificat perquè l'emissor del certificat ha vençut.
 cert-error-trust-self-signed = No es confia en el certificat perquè està signat per ell mateix.
-cert-error-trust-symantec = Els certificats emesos per GeoTrust, RapidSSL, Symantec, Thawte i VeriSign ja no es consideren segurs, ja que estes entitats certificadores no han seguit les pràctiques de seguretat en el passat.
 cert-error-untrusted-default = El certificat no prové d'una font de confiança.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -53,17 +52,12 @@ cert-error-code-prefix-link = Codi d'error: <a data-l10n-name="error-code-link">
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = S'ha produït un error durant la connexió a { $hostname }. { $errorMessage }
 # Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Els llocs web demostren la seua identitat mitjançant certificats emesos per entitats certificadores.  La majoria de navegadors ja no confien en els certificats emesos per GeoTrust, RapidSSL, Symantec, Thawte i VeriSign. { $hostname } utilitza un certificat d'una d'estes entitats i, per tant, no es pot provar la identitat del lloc web.
-cert-error-symantec-distrust-admin = Podeu notificar el problema a l'administrador del lloc web.
-# Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = Seguretat estricta de transport HTTP: { $hasHSTS }
 # Variables:
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Fixació de claus públiques HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadena de certificats:
-open-in-new-window-for-csp-or-xfo-error = Obri el lloc en una finestra nova
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Per protegir la vostra seguretat, { $hostname } no permetrà al { -brand-short-name } mostrar la pàgina si està incrustada en un altre lloc. Per veure esta pàgina, cal obrir-la en una finestra nova.
@@ -96,7 +90,6 @@ redirectLoop-title = La pàgina no està redirigint correctament
 unknownSocketType-title = Resposta inesperada del servidor
 nssFailure2-title = Ha fallat la connexió segura
 csp-xfo-error-title = El { -brand-short-name } no pot obrir esta pàgina
-corruptedContentError-title = Error de contingut malmés
 sslv3Used-title = No s'ha pogut connectar de forma segura
 inadequateSecurityError-title = La connexió no és segura
 blockedByPolicy-title = Pàgina blocada

@@ -78,8 +78,6 @@ options-context-advanced-settings = ಸುಧಾರಿತ ಸಂಯೋಜನೆ�
 options-disable-http-cache-label = HTTP ಕ್ಯಾಶೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು (ಉಪಕರಣಪೆಟ್ಟಿಗೆಯು ತೆರೆದಾಗ)
 options-disable-http-cache-tooltip =
     .title = ‍ಈ ಆಯ್ಕೆಯನ್ನು ಆನ್ ಮಾಡುವುದರಿಂದ ಟೂಲ್‌ಬಾಕ್ಸ್ ತೆರೆದಿರುವ ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳಲ್ಲಿ HTTP ಕ್ಯಾಶೆ ನಿಷ್ಕ್ರಿಯಗೊಳ್ಳುತ್ತವೆ. ‍ಸರ್ವೀಸ್ ವರ್ಕರ್‌ಗಳು ಈ ಆಯ್ಕೆಯಿಂದ ತೊಂದರೆಗೊಳಗಾಗುವುದಿಲ್ಲ.
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = JavaScript * ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು
 options-disable-javascript-tooltip =
     .title = ಈ ಆಯ್ಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುವುದರಿಂದ ಪ್ರಸಕ್ತ ಟ್ಯಾಬ್‌ಗಾಗಿ JavaScript ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸದಂತಾಗುತ್ತದೆ. ಟ್ಯಾಬ್ ಅಥವ ಉಪಕರಣಪಟ್ಟಿಯನ್ನು ಮುಚ್ಚಿದಲ್ಲಿ ಈ ಸಿದ್ಧತೆಯನ್ನು ಅಳಿಸಲಾಗುತ್ತದೆ.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -94,8 +92,6 @@ options-enable-service-workers-http-tooltip =
     .title = ಈ ಆಯ್ಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುವುದರಿಂದ ಉಪಕರಣಪೆಟ್ಟಿಗೆಯನ್ನು ಯಾವ ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳಲ್ಲಿ ತೆರೆಯಲಾಗಿದೆಯೊ ಅವುಗಳಿಗೆ HTTP ಮೂಲಕ ಸೇವಾ ವರ್ಕರ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗುತ್ತದೆ.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = ಮೂಲ ನಕ್ಷೆಗಳನ್ನು ಸಕ್ರಿಯಗಳಿಸು
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * ಪ್ರಸಕ್ತ ಅಧಿವೇಶನ ಮಾತ್ರ, ಪುಟವನ್ನು ಮರಳಿ ಲೋಡ್ ಮಾಡುತ್ತದೆ
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

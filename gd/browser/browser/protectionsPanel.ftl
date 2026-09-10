@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-protections-panel-sendreportview-error = Thachair mearachd le cur na h-aithris. Feuch ris a-rithist an ceann greis.
-# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
-protections-panel-sitefixedsendreport-label = An deach an làrach a chàradh? Cuir aithris
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -23,18 +20,11 @@ protections-panel-etp-more-info =
     .aria-label = Barrach fiosrachaidh air an dìon adhartach o thracadh
 protections-panel-etp-on-header = Tha an dìon adhartach o thracadh AIR air an làrach seo
 protections-panel-etp-off-header = Tha an dìon adhartach o thracadh DHETH air an làrach seo
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Nach eil an làrach ag obair?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Nach eil an làrach ag obair?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = Carson?
-protections-panel-not-blocking-why-etp-on-tooltip = Ma bhacas tu an fheadhainn seo, dh’fhaoidte gum bris sin eileamaidean de chuid a làraichean-lìn. ’S dòcha nach obraich a h-uile putan, foirm is raon clàraidh a-steach às aonais nan tracaichean.
-protections-panel-not-blocking-why-etp-off-tooltip = Chaidh a h-uile tracaiche a luchdadh air an làrach seo on a chaidh an dìon a chur dheth.
 protections-panel-not-blocking-why-etp-on-tooltip-label =
     .label = Ma bhacas tu an fheadhainn seo, dh’fhaoidte gum bris sin eileamaidean de chuid a làraichean-lìn. ’S dòcha nach obraich a h-uile putan, foirm is raon clàraidh a-steach às aonais nan tracaichean.
 protections-panel-not-blocking-why-etp-off-tooltip-label =
@@ -62,23 +52,6 @@ protections-panel-not-found-label = Cha deach gin a lorg
 
 protections-panel-settings-label = Roghainnean an dìon
 protections-panel-protectionsdashboard-label = Deas-bhòrd an dìona
-
-## In the Site Not Working? view, we suggest turning off protections if
-## the user is experiencing issues with any of a variety of functionality.
-
-# The header of the list
-protections-panel-site-not-working-view-header = Cuir dheth an dìon ma tha duilgheadasan agad le:
-# The list items, shown in a <ul>
-protections-panel-site-not-working-view-issue-list-login-fields = Raointean clàraidh a-steach
-protections-panel-site-not-working-view-issue-list-forms = Foirmean
-protections-panel-site-not-working-view-issue-list-payments = Pàighidhean
-protections-panel-site-not-working-view-issue-list-comments = Beachdan
-protections-panel-site-not-working-view-issue-list-videos = Videothan
-protections-panel-site-not-working-view-issue-list-fonts = Cruthan-clò
-protections-panel-site-not-working-view-send-report = Cuir aithisg
-
-##
-
 protections-panel-cross-site-tracking-cookies = Leanaidh na briosgaidean seo thu o làrach gu làrach airson dàta a chruinneachadh mu na nì thu air loidhne. ’S e treas-phàrtaidhean mar luchd-sanasachd agus companaidhean anailise a shuidhicheas iad.
 protections-panel-cryptominers = Cleachdaidh criopto-mhèinneadairean comasan an t-siostaim agad airson airgead digiteach a chosnadh. Traoghaidh criopto-mhèinneadairean am bataraidh agad, nì iad an coimpiutair agad slaodach agus faodaidh gun èirich cosgaisean dealain dhut.
 protections-panel-fingerprinters = Cruinnichidh lorgairean-meòir roghainnean on bhrabhsair is on coimpiutair agad airson pròifil a chruthachadh dhiot. Leis an lorg-mheòir digiteach sin, nì iad tracadh ort thar iomadh làrach-lìn.
@@ -91,37 +64,10 @@ protections-panel-shim-allowed-indicator =
 protections-panel-content-blocking-manage-settings =
     .label = Stiùirich roghainnean an dìon
     .accesskey = S
-protections-panel-content-blocking-breakage-report-view =
-    .title = Dèan aithris air làrach bhriste
-protections-panel-content-blocking-breakage-report-view-description = Adhbharaichidh bacadh thracaichean sònraichte duilgheadasan air cuid a làraichean. Ma chuireas tu aithris thugainn mu na duilgheadasan seo, cuidichidh sin gun doireamaid piseach air { -brand-short-name } dhan a h-uile duine. Ma chuireas tu an aithris thugainn, gheibh Mozilla URL agus fiosrachadh mu roghainnean a’ bhrabhsair agad. <label data-l10n-name="learn-more">Barrachd fiosrachaidh</label>
-protections-panel-content-blocking-breakage-report-view-collection-url = URL
-protections-panel-content-blocking-breakage-report-view-collection-url-label =
-    .aria-label = URL
-protections-panel-content-blocking-breakage-report-view-collection-comments = Roghainneil: Mìnich an duilgheadas
-protections-panel-content-blocking-breakage-report-view-collection-comments-label =
-    .aria-label = Roghainneil: Mìnich an duilgheadas
-protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = Sguir dheth
-protections-panel-content-blocking-breakage-report-view-send-report =
-    .label = Cuir an aithisg
-
-# Cookie Banner Handling
-
-protections-panel-cookie-banner-handling-header = Nas lugha de bhrataichean bhriosgaidean
 protections-panel-cookie-banner-handling-enabled = Air air an làrach seo
 protections-panel-cookie-banner-handling-disabled = Dheth air an làrach seo
 protections-panel-cookie-banner-handling-undetected = Chan eil taic ris an làrach seo an-dràsta fhèin
-protections-panel-cookie-banner-view-title =
-    .title = Nas lugha de bhrataichean bhriosgaidean
-# Variables
-#  $host (String): the hostname of the site that is being displayed.
-protections-panel-cookie-banner-view-turn-off-for-site = A bheil thu airson gleus lùghdachadh brataichean nam briosgaidean a chur dheth airson { $host }?
-protections-panel-cookie-banner-view-turn-on-for-site = A bheil thu airson gleus lùghdachadh brataichean nam briosgaidean a chur air air an làrach seo?
 protections-panel-cookie-banner-view-cookie-clear-warning = Falamhaichidh { -brand-short-name } briosgaidean na làraich seo ’s ath-nuadhaichidh e an duilleag. Ma dh’fhalamhaicheas tu na briosgaidean air fad, dh’fhaoidte gun tèid do chlàradh a-mach ’s gum fàgaidh na cairtean seopadaireachd agad falamh.
-protections-panel-cookie-banner-view-turn-on-description = Feuchaidh { -brand-short-name } ri gach iarrtas airson briosgaidean a dhiùltadh air làraichean ris a bheil taic.
-protections-panel-cookie-banner-view-cancel = Sguir dheth
-protections-panel-cookie-banner-view-turn-off = Cuir dheth
-protections-panel-cookie-banner-view-turn-on = Cuir air
 protections-panel-cookie-banner-view-cancel-label =
     .label = Sguir dheth
 protections-panel-cookie-banner-view-turn-off-label =

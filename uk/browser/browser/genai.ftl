@@ -46,11 +46,6 @@ genai-prompt-prefix-selection = Я перебуваю на сторінці “{
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Запитати в чат-бота з ШІ
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Запитати в { $provider }
 genai-menu-open-generic =
     .label = Чат-бот Open AI
 # $provider (string) - name of the provider
@@ -112,8 +107,6 @@ genai-header-provider-menu =
     .title = Вибір чат-бота
 genai-header-settings-button =
     .title = Налаштування чату з ШІ
-genai-header-options-button =
-    .title = Відкрити меню
 genai-header-close-button =
     .title = Закрити
 genai-provider-view-details =
@@ -141,35 +134,23 @@ genai-page-button-summarize = Підсумувати вміст сторінки
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Підсумовуйте, проводьте мозкові штурми і виконуйте багато інших завдань у браузері
 genai-onboarding-choose-header = Виберіть чат-бота з ШІ для використання на бічній панелі { -brand-short-name }
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Оберіть чат-бот з ШІ на бічній панелі { -brand-short-name }, і ми покажемо детальну інформацію про нього. Змінити вибір можна будь-коли. <a data-l10n-name="learn-more">Докладніше</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Змінюйте будь-коли. Щоб отримати допомогу з вибором, <a data-l10n-name="learn-more">дізнайтеся більше про кожного чат-бота</a>.
 genai-onboarding-primary = Продовжити
 genai-onboarding-secondary = Закрити
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Докладніше про Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Докладніше про ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Докладніше про Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Докладніше про Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
-genai-onboarding-huggingchat-learn = Докладніше про HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Докладніше про Le Chat
-genai-onboarding-select-header = Виберіть текст, щоб переглянути пропозиції
-genai-onboarding-select-description = Після вибору тексту ми запропонуємо підказки запитів, які ви можете надіслати чат-боту. Також ви можете писати власні запити.
-genai-onboarding-select-primary = Почати спілкування
 genai-chatbot-contextual-title = Використовуйте чат-бота з ШІ безпосередньо на вкладці
 genai-chatbot-contextual-subtitle = Додайте чат-бота з ШІ до бічної панелі { -brand-short-name }, щоб користуватися ним одночасно з переглядом вебсторінок.
 genai-chatbot-contextual-button = Виберіть чат-бота
@@ -182,27 +163,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = Натисніть право
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Відкрийте свого чат-бота з ШІ на бічній панелі та виберіть внизу "Підсумувати вміст сторінки".
 genai-chatbot-summarize-footer-generic-subtitle = Додайте чат-бота з ШІ до бічної панелі { -brand-short-name } для швидкого підсумовування вмісту сторінок.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Генерування тексту і коду
-genai-onboarding-claude-analyze = Аналіз документів та зображень
-genai-onboarding-claude-price = Безплатні та платні можливості (потрібен обліковий запис)
-genai-onboarding-chatgpt-generate = Генерування тексту, зображень і коду
-genai-onboarding-chatgpt-analyze = Аналіз документів та зображень
-genai-onboarding-chatgpt-price = Безплатні та платні можливості (для деяких країн і завдань потрібен обліковий запис)
-genai-onboarding-copilot-generate = Генерування тексту, зображень і коду
-genai-onboarding-copilot-analyze = Аналіз зображень
-genai-onboarding-copilot-price = Безплатні та платні можливості; для деяких завдань потрібен обліковий запис
-genai-onboarding-gemini-generate = Генерування тексту, зображень і коду
-genai-onboarding-gemini-analyze = Аналіз зображень (безплатно) і документів (платно)
-genai-onboarding-gemini-price = Безплатні та платні можливості (потрібен обліковий запис)
-genai-onboarding-huggingchat-generate = Генерування тексту і коду
-genai-onboarding-huggingchat-switch = Перемикайтеся між різними наборами відкритих моделей
-genai-onboarding-huggingchat-price-2 = Безплатно; обліковий запис потрібен після певної кількості запитів
-genai-onboarding-lechat-generate = Генерування тексту і коду
-genai-onboarding-lechat-price = Безплатно (потрібен обліковий запис)
 
 ## Model Optin Component
 
@@ -242,8 +202,8 @@ link-preview-generation-retry = Повторити спробу
 link-preview-settings-button =
     .title = Налаштування перегляду посилань
 link-preview-settings-enable =
-    .label = Увімкнути перегляд посилань
     .description = Перегляд заголовка сторінки, опису та іншої інформації під час використання комбінації клавіш або натискання посилання правою кнопкою миші.
+    .label = Увімкнути перегляд посилань
 link-preview-settings-key-points =
     .label = Дозволити ШІ читати початок сторінки та генерувати ключові тези
 link-preview-settings-long-press =

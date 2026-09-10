@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = A kiegészítő nem tud adatokat olvasni és módosítani
-origin-controls-quarantined =
-    .label = A kiegészítő nem olvashatja és módosíthatja az adatokat
 origin-controls-quarantined-status =
     .label = A kiegészítő nem engedélyezett a korlátozott webhelyeken
 origin-controls-quarantined-allow =

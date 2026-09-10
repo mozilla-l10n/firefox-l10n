@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Məxfi Pəncərə Aç
     .accesskey = M
 about-private-browsing-search-placeholder = İnternetdə Axtar
-about-private-browsing-info-title = Məxfi Pəncərədəsiniz
 about-private-browsing-search-btn =
     .title = İnternetdə axtar
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = { $engine } ilə axtarın və ya ünvanı daxil edin
 about-private-browsing-handoff-text-no-engine = Axtar və ya ünvanı daxil et
 about-private-browsing-not-private = Hazırda məxfi pəncərədə deyilsiniz.
-about-private-browsing-info-description-private-window = Məxfi pəncərə: { -brand-short-name } siz bütün məxfi pəncərələri bağladıqdan sonra, axtarışlarınızı və baxış tarixçənizi təmizləyir. Bu sizi anonim etmir.
-about-private-browsing-info-description-simplified = Siz bütün məxfi pəncərələri bağladıqdan sonra, { -brand-short-name } axtarışlarınızı və baxış tarixçənizi təmizləyir, ancaq bu sizi anonim etmir.
-about-private-browsing-learn-more-link = Ətraflı öyrənin
 about-private-browsing-hide-activity = İnternetdə gəzdiyiniz hər yerdə fəaliyyətinizi və yerinizi gizlədin.
 about-private-browsing-get-privacy = İnternetdə gəzdiyiniz hər yerdə məxfilik qoruması alın
 # This string is the title for the banner for search engine selection
@@ -44,7 +40,6 @@ about-private-browsing-pin-promo-title = İş masanızdan birbaşa çərəzlər 
 
 ## Strings used in a promotion message for cookie banner reduction
 
-about-private-browsing-cookie-banners-promo-button = Çərəz Bildirişlərini Azalt
 about-private-browsing-cookie-banners-promo-body = İndi bir çox çərəz bildirişlərini avtomatik olaraq rədd edirik ki, daha az izləniləsiniz və diqqəti yayındırmayan səyahət rejiminə qayıda biləsiniz.
 
 ## Strings for the info section of about:privatebrowsing

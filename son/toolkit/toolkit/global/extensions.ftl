@@ -10,9 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = { $extension } tonton?
 webext-perms-sideload-header = { $extension } tontonandi
-webext-perms-optional-perms-header = { $extension } ga duɲeyan tontonanteyaŋ wiri.
 
 ##
 
@@ -45,21 +43,5 @@ webext-perms-host-description-all-urls = Duu war bayhayey interneti nungey kul s
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Duu war barhayey nungey kaŋ goo { $domain } laamaa ra
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Duu war bayhayey laama tana { $domainCount } ra
-       *[other] Duu war bayhayey laama tana { $domainCount } ra
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Duu war bayhayey { $domain } se
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Duu war bayhayey nungu tana { $domainCount } ra
-       *[other] Duu war bayhayey nungu tana { $domainCount } ra
-    }

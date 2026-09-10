@@ -50,17 +50,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = ຊິງຄ໌ບຸກມາກຂອງທ່ານຢູ່ທົ່ວທຸກແຫ່ງ.
-cfr-doorhanger-bookmark-fxa-body = ຊອກຫາທີ່ຍິ່ງໃຫຍ່! ດຽວນີ້ຢ່າປະໄວ້ໂດຍບໍ່ມີບຸກມາກນີ້ຢູ່ໃນອຸປະກອນມືຖືຂອງເຈົ້າ. ເລີ່ມຕົ້ນດ້ວຍ { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = ຊິ້ງຂໍ້ມູນບຸກມາກດຽວນີ້...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = ປຸ່ມປິດ
     .title = ປິດ
-
-## Protections panel
-
-cfr-protections-panel-header = ທ່ອງເວັບໂດຍບໍ່ມີການຕິດຕາມ
-cfr-protections-panel-body = ຮັກສາຂໍ້ມູນຂອງທ່ານໃຫ້ກັບຕົວທ່ານເອງ. { -brand-short-name } ປົກປ້ອງທ່ານຈາກຫຼາຍຕົວຕິດຕາມທົ່ວໄປທີ່ສຸດທີ່ປະຕິບັດຕາມສິ່ງທີ່ທ່ານເຮັດອອນໄລນ໌.
-cfr-protections-panel-link-text = ຮຽນຮູ້ເພີ່ມເຕີມ
 
 ## What's New toolbar button and panel
 
@@ -152,42 +145,8 @@ mr2022-background-update-toast-primary-button-label = ເປີດ { -brand-shor
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = ເຕືອນຂ້ອຍໃນພາຍຫຼັງ
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = ລອງ​ເບິ່ງ
-    .accesskey = T
-firefoxview-cfr-secondarybutton = ບໍ່ແມ່ນຕອນນີ້
-    .accesskey = N
-firefoxview-cfr-header-v2 = ເອົາບ່ອນທີ່ທ່ານປະໄວ້ຢ່າງໄວວາ
-firefoxview-cfr-body-v2 = ເອົາແຖບທີ່ປິດລົງເມື່ອບໍ່ດົນມານີ້ກັບຄືນມາ, ບວກກັບໄປລະຫວ່າງອຸປະກອນຕ່າງໆດ້ວຍ { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = ເວົ້າສະບາຍດີກັບ { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = ຕ້ອງການແຖບເປີດນັ້ນຢູ່ໃນໂທລະສັບຂອງທ່ານບໍ? ຄວ້າມັນ. ຕ້ອງການເວັບໄຊທີ່ເຈົ້າຫາກໍ່ເຂົ້າເບິ່ງບໍ? Poof, ມັນກັບມາກັບ { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = ເບິງວິທີການເຮັດວຽກຂອງມັນ
-firefoxview-spotlight-promo-secondarybutton = ຂ້າມ
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = ເລືອກສີ
-    .accesskey = C
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = ທາສີບຼາວເຊີຂອງທ່ານດ້ວຍ { -brand-short-name } ຮົ່ມສະເພາະທີ່ໄດ້ຮັບແຮງບັນດານໃຈຈາກສຽງທີ່ປ່ຽນວັດທະນະທໍາ.
-colorways-cfr-header-28days = Independent Voices colorways ຈະໝົດອາຍຸໃນວັນທີ 16 ມັງກອນນີ້
-colorways-cfr-header-14days = Independent Voices colorways ຈະໝົດອາຍຸໃນສອງອາທິດ
-colorways-cfr-header-7days = Independent Voices colorways ຈະໝົດອາຍຸໃນອາທິດນີ້
-colorways-cfr-header-today = Independent Voices colorways ຈະໝົດອາຍຸມື້ນີ້
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = ອະນຸຍາດໃຫ້ { -brand-short-name } ປະຕິເສດປ້າຍໂຄສະນາຄຸກກີບໍ?
-cfr-cbh-body = { -brand-short-name } ສາມາດປະຕິເສດຄຳຮ້ອງຂໍປ້າຍໂຄສະນາຄຸກກີໄດ້ໂດຍອັດຕະໂນມັດ.
-cfr-cbh-confirm-button = ປະຕິເສດປ້າຍໂຄສະນາຄຸກກີ
-    .accesskey = R
-cfr-cbh-dismiss-button = ບໍ່​ແມ່ນ​ຕອນ​ນີ້
-    .accesskey = N
 cookie-banner-blocker-onboarding-header = { -brand-short-name } ຫາກໍປະຕິເສດປ້າຍໂຄສະນາຄຸກກີສໍາລັບທ່ານ
 
 ## These strings are used in the Fox doodle Pin/set default spotlights

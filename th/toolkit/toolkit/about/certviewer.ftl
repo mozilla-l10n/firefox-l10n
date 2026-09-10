@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = ใบรับรองของคุณ
 certificate-viewer-tab-people = ผู้คน
 certificate-viewer-tab-servers = เซิร์ฟเวอร์
 certificate-viewer-tab-ca = หน่วยงาน
-certificate-viewer-tab-unkonwn = ไม่ทราบ

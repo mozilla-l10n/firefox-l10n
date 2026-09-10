@@ -15,12 +15,10 @@ neterror-learn-more-link = Funda okungakumbi…
 neterror-open-portal-login-page-button = Vula iPhepha lokuLoga uNgene kwiNethwekhi
 neterror-pref-reset-button = Buyisela iisetingi zeedifolti
 neterror-return-to-previous-page-button = Yiya Emva
-neterror-try-again-button = Zama Kwakhona
 
 ##
 
 neterror-pref-reset = Kukhangeleka ngathi iisetingi zakho zokhuseleko lwenetwekhi kusenokwenzeka zibangela oku. Ngaba ufuna ukuba iisetingi zibuyiselwe?
-neterror-error-reporting-automatic = Xela iimpazamo ezifana nale ukunceda u{ -vendor-short-name } afumanise aze abhloke iisayithi eziyingozi
 
 ## Specific error messages
 
@@ -37,8 +35,6 @@ neterror-file-not-found-moved = Khangela ubone ukuba ingaba ifayile yashenxiswa,
 neterror-access-denied = Kusenokwenzeka isusiwe, ikhutshiwe, okanye imvume yefayile kungenzeka ithintela ufikelelo.
 neterror-unknown-protocol = Kunokudingeka ukuba ufakele enye isoftwe ukuze uvule le dilesi.
 neterror-redirect-loop = Le ngxaki maxa wambi ingabangelwa ngokungasebenzisi okanye ngokwala ukwamkela iikhuki.
-neterror-unknown-socket-type-psm-installed = Khangela ukuqinisekisa ukuba isistim yakho ine-Personal Security Manager efakelweyo.
-neterror-unknown-socket-type-server-config = Oku kunokuba ngenxa yolungelelwano olungekho semgangathweni kwiseva.
 neterror-not-cached-intro = Uxwebhu oluceliweyo alufumaneki kwikhetshi ye-{ -brand-short-name }
 neterror-not-cached-sensitive = Njengesilumkiso sokhuseleko, i-{ -brand-short-name } ayiwaceli kwakhona ngokwayo amaxwebhu anobuzaza.
 neterror-not-cached-try-again = Cofa uZama kwakhona ukucela kwakhona uxwebhu kwiwebhusayithi.

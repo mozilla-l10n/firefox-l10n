@@ -8,6 +8,3 @@ popup-notification-more-actions-button =
 popup-notification-default-button2 =
     .label = Va ben
     .accesskey = V
-popup-notification-default-button =
-    .label = Va ben!
-    .accesskey = V

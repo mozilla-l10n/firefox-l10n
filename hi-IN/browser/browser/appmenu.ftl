@@ -23,8 +23,6 @@ appmenuitem-downloads =
     .label = डाउनलोड
 appmenuitem-passwords =
     .label = पासवर्ड
-appmenuitem-addons-and-themes =
-    .label = ऐड-ऑन और थीम
 appmenuitem-print =
     .label = छापें...
 appmenuitem-find-in-page =
@@ -83,22 +81,12 @@ appmenu-remote-tabs-unverified = आपके खाते की पृष्�
 appmenuitem-fxa-toolbar-sync-now2 = अभी सिंक करें
 appmenuitem-fxa-sign-in = { -brand-product-name } में साइन इन करें
 appmenuitem-fxa-manage-account = खाता प्रबंधित करें
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-sync-and-save-data2 = सिंक करें और डेटा सहेजें
 appmenu-fxa-signed-in-label = साइन इन
 appmenu-fxa-setup-sync =
     .label = सिंक चालू करें…
 appmenuitem-save-page =
     .label = पृष्ठ ऐसे सहेजें…
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = क्या नया है
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = नई सुविधाओं के बारे में सूचित करें
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -176,8 +164,6 @@ appmenu-about =
 appmenu-get-help =
     .label = मदद लें
     .accesskey = h
-appmenu-help-report-site-issue =
-    .label = साइट समस्या की रिपोर्ट करें…
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

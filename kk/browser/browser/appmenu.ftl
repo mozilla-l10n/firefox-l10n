@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = Кеңейтулер және темалар
 appmenuitem-extensions =
     .label = Кеңейтулер
-appmenuitem-addons-and-themes =
-    .label = Кеңейтулер және темалар
 appmenuitem-print =
     .label = Баспаға шығару…
 appmenuitem-find-in-page =
@@ -154,7 +152,6 @@ fxa-menu-get-firefox-mobile =
     .label = Android немесе iOS үшін { -brand-product-name } алу
 fxa-menu-secure-sync-subpanel =
     .title = Қауіпсіз синхрондау
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Тіркелгі
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -176,15 +173,6 @@ appmenuitem-save-page =
     .label = Парақты қалайша сақтау…
 appmenuitem-fxa-sync-off-title = Синхрондау сөндірулі тұр
 appmenuitem-fxa-sync-off-description = Кез келген жерде бетбелгілер, паррольдер және т.б. қорғау және оларға қол жеткізу.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Не жаңалық
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Жаңа мүмкіндіктер туралы хабарлау
-    .accesskey = м
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -326,8 +314,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Мәселелерді шешудің көбірек ақпараты
     .accesskey = ш
-appmenu-help-report-site-issue =
-    .label = Сайт мәселесі жөнінде хабарлау…
 appmenu-help-share-ideas =
     .label = Идеялар мен кері байланыспен бөлісіңіз…
     .accesskey = с
@@ -393,7 +379,6 @@ appmenuitem-vpn-description5 = Құрылғыларда қосымша қорғ�
 appmenuitem-vpn-title-signed-in1 = { -mozilla-vpn-brand-name } жүктеп алу
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Құрылғыны толығымен қорғауды алыңыз
-appmenuitem-vpn-description = Желідегі әрекетіңізді қорғаңыз
 appmenu-services-header = Менің қызметтерім
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -403,7 +388,6 @@ appmenu-other-protection-header3 = Жекелік сақтау сайманда�
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Mozilla ұсынған басқа қорғау құралдарын пайдаланып көріңіз:
-appmenu-other-protection-header = { -vendor-short-name } ұсынған басқа қорғау құралдарын қолданып көріңіз:
 
 ## Profiles panel
 

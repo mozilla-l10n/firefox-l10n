@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = האישור אינו מהימן מכיוו�
 cert-error-trust-signature-algorithm-disabled = האישור אינו מהימן מכיוון שהוא נחתם על־ידי אלגוריתם חתימה שהושבת מכיוון שאינו מאובטח.
 cert-error-trust-expired-issuer = האישור אינו מהימן מכיוון שתוקף האישור של הגורם המנפיק פג.
 cert-error-trust-self-signed = האישור אינו מהימן מכיוון שהוא נחתם עצמית.
-cert-error-trust-symantec = אישורים שהונפקו על־ידי GeoTrust, ‏RapidSSL, ‏Symantec, ‏Thawte ו־VeriSign אינם נחשבים עוד כבטוחים מכיוון שרשויות האישורים הללו כשלו ביישום נהלי אבטחה.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = ‏{ -brand-short-name } לא נותן אמון ב־{ $hostname } מכיוון שהוא לא הוכיח שהוא עומד בדרישות השקיפות של אישורים ציבוריים.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = קוד שגיאה: <a data-l10n-name="error-code-l
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = אירעה שגיאה בהתחברות אל { $hostname }.‏ { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = אתרים מוכיחים את זהותם באמצעות אישורי אבטחה, המונפקים על־ידי רשויות אישורים. מרבית הדפדפנים כבר לא סומכים על אישורים שהונפקו על־ידי GeoTrust, ‏RapidSSL, ‏Symantec, ‏Thawte וֿVeriSign. האתר { $hostname } עושה שימוש באישור של אחת מהרשויות הללו ולכן לא ניתן להוכיח את זהות האתר.
-cert-error-symantec-distrust-admin = באפשרותך להודיע למנהל האתר על אודות בעיה זו.
 cert-error-old-tls-version = ייתכן שאתר זה אינו תומך בפרוטוקול TLS 1.2, שהוא הגרסה המינימלית הנתמכת על־ידי { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = אבטחת תעבורה מחמירה של HTTP �
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = הצמדת מפתח ציבורי של HTTP:‏ { $hasHPKP }
 cert-error-details-cert-chain-label = שרשרת אישורים:
-open-in-new-window-for-csp-or-xfo-error = פתיחת אתר בחלון חדש
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = כדי להגן על האבטחה שלך, { $hostname } לא יאפשר ל־{ -brand-short-name } להציג את הדף אם אתר אחר הטמיע אותו. כדי לצפות בדף זה, עליך לפתוח אותו בחלון חדש.
 fp-certerror-view-certificate-link = הצגת אישור האתר
 fp-certerror-return-to-previous-page-recommended-button-2 = חזרה (מומלץ)
     .accesskey = ח
-fp-certerror-return-to-previous-page-recommended-button = חזרה (מומלץ)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -106,21 +99,21 @@ fp-certerror-self-signed-important-note = הערה חשובה: אם הינך מ�
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = אתרים משתמשים באישורי אבטחה המונפקים על־ידי רשות אישורים כדי להוכיח שהם באמת מי שהם אומרים שהם. { -brand-short-name } לא נותן אמון באתר זה מכיוון שנראה שפג התוקף של אישור האבטחה ב־{ DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-expired-why-dangerous-body = אתרים משתמשים באישורי אבטחה המונפקים על־ידי רשות אישורים כדי להוכיח שהם באמת מי שהם אומרים שהם. { -brand-short-name } לא נותן אמון באתר זה מכיוון שנראה שפג התוקף של אישור האבטחה ב־{ DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = אתרים משתמשים באישורי אבטחה המונפקים על־ידי רשות אישורים כדי להוכיח שהם באמת מי שהם אומרים שהם. { -brand-short-name } לא נותן אמון באתר זה מכיוון שנראה שאישור האבטחה לא יהיה תקף עד { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-not-yet-valid-why-dangerous-body = אתרים משתמשים באישורי אבטחה המונפקים על־ידי רשות אישורים כדי להוכיח שהם באמת מי שהם אומרים שהם. { -brand-short-name } לא נותן אמון באתר זה מכיוון שנראה שאישור האבטחה לא יהיה תקף עד { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = שעון המכשיר שלך מוגדר ל־{ DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. אם זה נכון, בעיית האבטחה היא כנראה באתר עצמו. אם זה שגוי, באפשרותך לשנות את התאריך והשעה בהגדרות המערכת של המכשיר שלך.
+fp-certerror-expired-what-can-you-do-body = שעון המכשיר שלך מוגדר ל־{ DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. אם זה נכון, בעיית האבטחה היא כנראה באתר עצמו. אם זה שגוי, באפשרותך לשנות את התאריך והשעה בהגדרות המערכת של המכשיר שלך.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = קוד שגיאה: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -133,11 +126,11 @@ fp-learn-more-about-time-related-errors = מידע נוסף על פתרון בע
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = ‏{ -brand-short-name } לא נותן אמון באתר זה מכיוון שנראה שאישור האבטחה שסופק אינו תקף עד { DATETIME($date, timeStyle: "short") } ב־{ DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = ‏{ -brand-short-name } לא נותן אמון באתר זה מכיוון שנראה שאישור האבטחה שסופק אינו תקף עד { DATETIME($date, timeStyle: "short") } ב־{ DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = שעון המכשיר שלך מוגדר ל־{ DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. אם זה נכון, בעיית האבטחה היא כנראה באתר עצמו. אם זה שגוי, באפשרותך לשנות את התאריך והשעה בהגדרות המערכת של המכשיר שלך.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = שעון המכשיר שלך מוגדר ל־{ DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. אם זה נכון, בעיית האבטחה היא כנראה באתר עצמו. אם זה שגוי, באפשרותך לשנות את התאריך והשעה בהגדרות המערכת של המכשיר שלך.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -179,8 +172,6 @@ deniedPortAccess-title = כתובת זו מוגבלת
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = אבוי. יש לנו בעיה למצוא את האתר הזה.
 internet-connection-offline-title = נראה שיש בעיה בחיבור האינטרנט שלך.
-dns-not-found-trr-only-title2 = סיכון אבטחה אפשרי בחיפוש מתחם זה
-dns-not-found-native-fallback-title2 = סיכון אבטחה אפשרי בחיפוש מתחם זה
 fileNotFound-title = קובץ לא נמצא
 fileAccessDenied-title = הגישה לקובץ נדחתה
 generic-title = אוי.
@@ -205,7 +196,6 @@ unknownSocketType-title = תגובה לא צפויה מהשרת
 nssFailure2-title = חיבור מאובטח נכשל
 csp-xfo-error-title = ‏{ -brand-short-name } לא יכול לפתוח דף זה
 corruptedContentErrorv2-title = שגיאת תוכן פגום
-corruptedContentError-title = שגיאת תוכן פגום
 sslv3Used-title = לא ניתן להתחבר באופן מאובטח
 inadequateSecurityError-title = החיבור שלך אינו מאובטח
 blockedByPolicy-title = עמוד חסום
@@ -228,7 +218,6 @@ fp-certerror-hide-advanced-button = הסתרת מתקדם
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = המשך אל { $hostname } (מסוכן)
 fp-certerror-intro = ‏{ -brand-short-name } זיהה בעיית אבטחה שעלולה להיות חמורה עם <strong>{ $hostname }</strong>. מישהו שמתחזה לאתר יכול לנסות לגנוב דברים כמו פרטי כרטיסי אשראי, ססמאות או דוא״ל.
 fp-certerror-expired-into = ‏{ -brand-short-name } זיהה בעיית אבטחה עם <strong>{ $hostname }</strong>. או שהאתר לא מוגדר נכון או ששעון המכשיר שלך מוגדר לתאריך/שעה הלא נכונים.
 fp-certerror-transparency-intro = מישהו שמתחזה לאתר <strong>{ $hostname }</strong> יכול לנסות לגנוב דברים כמו פרטים על כרטיסי אשראי, ססמאות או הודעות דוא״ל.

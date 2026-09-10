@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Tìm kiếm mật khẩu
-    .key = F
     .aria-label = Tìm kiếm mật khẩu
+    .key = F
+    .placeholder = Tìm kiếm mật khẩu
 contextual-manager-menu-more-options-button =
     .title = Tùy chọn khác
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Nhập từ tập tin…
 contextual-manager-passwords-command-export = Xuất mật khẩu
 contextual-manager-passwords-command-remove-all = Xóa tất cả mật khẩu
 contextual-manager-passwords-command-options = Tùy chọn
-contextual-manager-passwords-command-settings = Cài đặt
 contextual-manager-passwords-command-help = Trợ giúp
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Đã nhập mật khẩu
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Đã thêm: { $added }, Đã cập nhật: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -213,8 +208,6 @@ contextual-manager-passwords-create-label =
     .label = Thêm mật khẩu
 contextual-manager-passwords-update-label =
     .label = Đã cập nhật mật khẩu
-contextual-manager-passwords-edit-label =
-    .label = Chỉnh sửa mật khẩu
 contextual-manager-passwords-remove-label =
     .title = Xoá mật khẩu
 contextual-manager-passwords-origin-field =
@@ -230,7 +223,6 @@ contextual-manager-passwords-password-field-description = Nhập mật khẩu đ
 contextual-manager-passwords-origin-tooltip = Nhập địa chỉ chính xác mà bạn sẽ đăng nhập vào trang web này.
 contextual-manager-passwords-username-tooltip = Nhập tên người dùng, địa chỉ email hoặc số tài khoản bạn sử dụng để đăng nhập.
 contextual-manager-passwords-password-tooltip-2 = Nhập mật khẩu để đăng nhập vào tài khoản này.
-contextual-manager-passwords-password-tooltip = Nhập mật khẩu được sử dụng để đăng nhập vào tài khoản này.
 
 ## Password Card
 
@@ -277,10 +269,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Sao chép mật khẩu (Cảnh báo)
 contextual-manager-edit-login-button = Chỉnh sửa
     .tooltiptext = Chỉnh sửa mật khẩu
-contextual-manager-view-alert-heading =
-    .heading = Xem cảnh báo
-contextual-manager-view-alert-button =
-    .tooltiptext = Xem lại cảnh báo
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -307,13 +295,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Không tìm thấy mật khẩu nào
 contextual-manager-passwords-no-passwords-found-message-2 = Hãy thử một từ khoá khác và tìm kiếm lại.
-contextual-manager-passwords-no-passwords-found-message = Không tìm thấy mật khẩu. Hãy thử tìm lại với một từ khoá khác.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Lưu mật khẩu của bạn ở nơi an toàn.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Tất cả mật khẩu đều được mã hóa và chúng tôi sẽ theo dõi các vụ rò rỉ và cảnh báo nếu bạn bị ảnh hưởng.

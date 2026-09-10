@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = { $extension } ਨੂੰ ਜੋੜਨਾ ਹੈ?
-webext-perms-header-with-perms = { $extension } ਜੋੜਨ ਹੈ? ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਇਜਾਜ਼ਤਾਂ ਚਾਹੀਦੀਆਂ ਹੋਣਗੀਆਂ:
-webext-perms-header-unsigned = { $extension } ਜੋੜਨ ਹੈ? ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਦੀ ਜਾਂਚ ਨਹੀਂ ਕੀਤੀ ਹੋਈ ਹੈ। ਦੋਖੀ ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੁਹਾਡੀ ਪ੍ਰਾਈਵੇਟ ਜਾਣਕਾਰੀ ਚੋਰੀ ਕਰਨ ਸਕਦੀਆਂ ਹਨ ਜਾਂ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਲਈ ਸੰਨ੍ਹ ਲਾ ਸਕਦੀਆਂ ਹਨ। ਜੇ ਤੁਹਾਨੂੰ ਇਸ ਦੇ ਸਰੋਤ ਉੱਤੇ ਭਰੋਸਾ ਹੈ ਤਾਂ ਹੀ ਇਸ ਨੂੰ ਜੋੜੋ।
-webext-perms-header-unsigned-with-perms = { $extension } ਨੂੰ ਜੋੜਨਾ ਹੈ? ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਦੀ ਜਾਂਚ ਨਹੀਂ ਕੀਤੀ ਹੋਈ ਹੈ। ਦੋਖੀ ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੁਹਾਡੀ ਪ੍ਰਾਈਵੇਟ ਜਾਣਕਾਰੀ ਚੋਰੀ ਕਰਨ ਸਕਦੀਆਂ ਹਨ ਜਾਂ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਲਈ ਸੰਨ੍ਹ ਲਾ ਸਕਦੀਆਂ ਹਨ। ਜੇ ਤੁਹਾਨੂੰ ਇਸ ਦੇ ਸਰੋਤ ਉੱਤੇ ਭਰੋਸਾ ਹੈ ਤਾਂ ਹੀ ਇਸ ਨੂੰ ਜੋੜੋ। ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਇਜਾਜ਼ਤਾਂ ਚਾਹੀਦੀਆਂ ਹੋਣਗੀਆਂ:
 webext-perms-sideload-header = { $extension } ਨੂੰ ਜੋੜਿਆ ਗਿਆ
 webext-perms-optional-perms-header2 = { $extension } ਨੇ ਹੋਰ ਇਜਾਜ਼ਤਾਂ ਦੀ ਮੰਗ ਕੀਤੀ ਹੈ
-webext-perms-optional-perms-header = { $extension } ਨੇ ਹੋਰ ਇਜਾਜ਼ਤਾਂ ਦੀ ਮੰਗ ਕੀਤੀ ਹੈ।
 webext-perms-header2 = { $extension } ਨੂੰ ਜੋੜੋ
 webext-perms-list-intro-unsigned = ਇਹ ਗ਼ੈਰ-ਤਸਦੀਕ ਕੀਤੀ ਇਕਸਟੈਨਸ਼ਨ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਖ਼ਤਰੇ ਵਿੱਚ ਪਾ ਸਕਦੀ ਹੈ ਜਾਂ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਉੱਤੇ ਕਾਬੂ ਕਰ ਸਕਦੀ ਹੈ। ਜੇ ਤੁਹਾਨੂੰ ਸਰੋਤ ਉੱਤੇ ਭਰੋਸਾ ਹੋਵੇ ਤਾਂ ਹੀ ਇਸ ਨੂੰ ਜੋੜੋ।
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ ਹੈ। ਅੱਪਡੇਟ ਵਰਜ਼ਨ ਨੂੰ ਇੰਸਟਾਲ ਕੀਤੇ ਜਾਣ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਨੂੰ ਨਵੀਆਂ ਇਜਾਜ਼ਤਾਂ ਲਈ ਮਨਜ਼ੂਰੀ ਦੇਣੀ ਪਵੇਗੀ। ਆਪਣੇ ਮੌਜੂਦਾ ਇਕਸਟੈਨਸ਼ਨ ਵਰਜ਼ਨ ਨੂੰ ਬਣਾਈ ਰੱਖਣ ਲਈ “ਰੱਦ ਕਰੋ” ਨੂੰ ਚੁਣੋ।
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ ਹੈ। ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਕੀਤੇ ਵਰਜ਼ਨ ਨੂੰ ਇੰਸਟਾਲ ਕਰਹਨ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਨੂੰ ਨਵੀਆਂ ਇਜਾਜ਼ਤਾਂ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰਨਾ ਹੋਵੇਗਾ। ਆਪਣੇ ਮੌਜੂਦਾ ਇਕਸਟੈਨਸ਼ਨ ਵਰਜ਼ਨ ਨੂੰ ਰੱਖਣ ਲਈ “ਰੱਦ ਕਰੋ” ਨੂੰ ਚੁਣੋ। ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਇਜਾਜ਼ਤਾਂ ਦੀ ਲੋੜ ਹੋਵੇਗੀ:
 webext-perms-update-accept =
     .label = ਅੱਪਡੇਟ ਕਰੋ
     .accesskey = U
@@ -73,24 +65,8 @@ webext-perms-host-description-file-urls = ਆਪਣੇ ਕੰਪਿਊਟਰ ਉ
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } ਡੋਮੇਨ ਵਿੱਚ ਸਾਈਟਾਂ ਲਈ ਤੁਹਾਡੇ ਡਾਟੇ ਲਈ ਪਹੁੰਚ
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] { $domainCount } ਹੋਰ ਡੋਮੇਨ ਵਿੱਚ ਤੁਹਾਡੇ ਡਾਟੇ ਲਈ ਪਹੁੰਚ
-       *[other] { $domainCount } ਹੋਰ ਡੋਮੇਨਾਂ ਵਿੱਚ ਤੁਹਾਡੇ ਡਾਟੇ ਲਈ ਪਹੁੰਚ
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } ਲਈ ਤੁਹਾਡੇ ਡਾਟੇ ਵਾਸਤੇ ਪਹੁੰਚ
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] { $domainCount } ਹੋਰ ਸਾਈਟ ਉੱਤੇ ਤੁਹਾਡੇ ਡਾਟੇ ਲਈ ਪਹੁੰਚ
-       *[other] { $domainCount } ਹੋਰ ਸਾਈਟਾਂ ਉੱਤੇ ਤੁਹਾਡੇ ਡਾਟੇ ਲਈ ਪਹੁੰਚ
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

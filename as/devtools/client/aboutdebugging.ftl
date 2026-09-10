@@ -5,18 +5,12 @@
 
 ### These strings are used inside the about:debugging UI.
 
-
-# Page Title strings
-
 # Page title (ie tab title) for the Setup page
 about-debugging-page-title-setup-page = ডিবাগিং - ছেটআপ
 # Page title (ie tab title) for the Runtime page
 # Variables:
 #   $selectedRuntimeId - ID of the current runtime, such as "this-firefox", "localhost:6080", etc.
 about-debugging-page-title-runtime-page = ডিবাগিং - ৰানটাইম / { $selectedRuntimeId }
-
-# Sidebar strings
-
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = এই { -brand-shorter-name }
@@ -85,14 +79,8 @@ about-debugging-sidebar-support-icon =
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = ডিভাইচ সতেজ কৰক
-
-# Setup Page strings
-
 # Title of the Setup page.
 about-debugging-setup-title = ছেটআপ
-
-# Runtime Page strings
-
 # Title of the processes category.
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-processes =
@@ -113,9 +101,6 @@ about-debugging-profiler-dialog-title2 = প্ৰ'ফাইলাৰ
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
 about-debugging-collapse-expand-debug-targets = জপাওক / বহলাওক
-
-# Debug Targets strings
-
 # Displayed in the categories of "runtime" pages that don't have any debug target to
 # show. Debug targets depend on the category (extensions, tabs, workers...).
 about-debugging-debug-target-list-empty = এতিয়ালৈ একো নাই।

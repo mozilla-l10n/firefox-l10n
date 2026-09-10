@@ -256,8 +256,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Profili
 menu-profiles-manage-profiles =
     .label = Pārvaldīt profilus
 menu-profiles-new-profile =
@@ -280,9 +278,6 @@ menu-tools-downloads =
     .accesskey = d
 menu-tools-extensions-and-themes =
     .label = Paplašinājumi un tēmas
-    .accesskey = P
-menu-tools-addons-and-themes =
-    .label = Papildinājumi un motīvi
     .accesskey = P
 menu-tools-fxa-sign-in2 =
     .label = Ierakstīties
@@ -337,8 +332,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Plašāka informācija par problēmu novēršanu
     .accesskey = P
-menu-help-report-site-issue =
-    .label = Ziņot par problēmu ar lapu…
 menu-help-share-ideas =
     .label = Dalieties ar idejām un atsauksmēm…
     .accesskey = D

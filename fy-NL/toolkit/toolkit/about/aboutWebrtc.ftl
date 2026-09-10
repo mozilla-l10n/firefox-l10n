@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Sluten PeerConnections 
 about-webrtc-aec-logging-msg-label = AEC-registraasje
 about-webrtc-aec-logging-off-state-label = AEC-registraasje starte
 about-webrtc-aec-logging-on-state-label = AEC-registraasje stopje
-about-webrtc-aec-logging-on-state-msg = AEC-registraasje aktyf (sprek inkelde minuten mei de beller en stopje dêrnei it fêstlizzen)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC-registraasje aktyf (sprek inkelde minuten mei de beller en stopje dêrnei it fêstlizzen)
 about-webrtc-aec-logging-unavailable-sandbox = De omjouwingsfariabele MOZ_DISABLE_CONTENT_SANDBOX=1 is fereaske om AEC-lochboeken te eksportearjen. Stel dizze fariabele allinnich yn as jo de mooglike risiko’s begripe.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Beneamd
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Selektearre
 about-webrtc-save-page-label = Side bewarre
-about-webrtc-debug-mode-msg-label = Debugmodus
-about-webrtc-debug-mode-off-state-label = Debugmodus starte
-about-webrtc-debug-mode-on-state-label = Debugmodus stopje
-about-webrtc-stats-heading = Sesjestatistiken
 about-webrtc-enable-logging-label = WebRTC-lochboekfoarynstelling ynskeakelje
 about-webrtc-peerconnections-section-heading = RTCPeerConnection-statistiken
 about-webrtc-peerconnections-section-show-msg = RTCPeerConnection-statistiken toane
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = RTCPeerConnection-statistiken fe
 about-webrtc-stats-clear = Skiednis wiskje
 about-webrtc-log-heading = Ferbiningslochboek
 about-webrtc-log-clear = Lochboek wiskje
-about-webrtc-log-show-msg = lochboek toane
-    .title = klik om dizze seksje út te klappen
-about-webrtc-log-hide-msg = lochboek ferstopje
-    .title = klik om dizze seksje yn te klappen
 about-webrtc-log-section-show-msg = Lochboek toane
     .title = Klik om dizze seksje út te klappen
 about-webrtc-log-section-hide-msg = Lochboek ferstopje
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Eksterne kandidaat
 about-webrtc-raw-candidates-heading = Alle rûge kandidaten
 about-webrtc-raw-local-candidate = Rûge lokale kandidaat
 about-webrtc-raw-remote-candidate = Rûge eksterne kandidaat
-about-webrtc-raw-cand-show-msg = rûge kandidaten toane
-    .title = klik om dizze seksje út te klappen
-about-webrtc-raw-cand-hide-msg = rûge kandidaten ferstopje
-    .title = klik om dizze seksje yn te klappen
 about-webrtc-raw-cand-section-show-msg = Rûge kandidaten toane
     .title = Klik om dizze seksje út te klappen
 about-webrtc-raw-cand-section-hide-msg = Rûge kandidaten ferstopje
     .title = Klik om dizze seksje yn te klappen
 about-webrtc-priority = Prioriteit
-about-webrtc-fold-show-msg = details toane
-    .title = klik om dizze seksje út te klappen
-about-webrtc-fold-hide-msg = details ferstopje
-    .title = klik om dizze seksje yn te klappen
 about-webrtc-fold-default-show-msg = Details toane
     .title = Klik om dizze seksje út te klappen
 about-webrtc-fold-default-hide-msg = Details ferstopje
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Opjûn
 # been provided
 about-webrtc-configuration-element-not-provided = Net opjûn
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Troch brûker ynstelde WebRTC-foarkarren
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Troch brûker oanpaste WebRTC-konfiguraasje
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Fideoframestatistiken – MediaStreamTrack-ID: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = side bewarre yn: { $path }
-about-webrtc-debug-mode-off-state-msg = trasearlochboek is te finen yn: { $path }
-about-webrtc-debug-mode-on-state-msg = debugmodus aktyf, trasearlochboek yn: { $path }
-about-webrtc-aec-logging-off-state-msg = fêstleine lochbestannen binne te finen yn: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

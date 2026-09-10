@@ -16,15 +16,3 @@ recently-closed-menu-reopen-all-windows = Аз нав кушодани ҳама�
 
 recently-closed-panel-reopen-all-tabs = Аз нав кушодани ҳамаи варақаҳо
 recently-closed-panel-reopen-all-windows = Аз нав кушодани ҳамаи равзанаҳо
-
-##
-
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [one] { $winTitle } (ва { $tabCount } варақи дигар)
-       *[other] { $winTitle } (ва { $tabCount } варақи дигар)
-    }

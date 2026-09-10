@@ -36,23 +36,6 @@ webrtc-camera-unmuted =
 webrtc-camera-muted =
     .title = کیمرا چالو کریں
 
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = آپکا کیمرہ اور مائیکروفون شیئر کیا جا رہا ہے۔ شیئرنگ کنٹرول کرنے کے لئے کلک کریں۔
-webrtc-indicator-sharing-camera =
-    .tooltiptext = آپکا کیمرہ شیئر کیا جا رہا ہے۔ شیئرنگ کنٹرول کرنے کے لئے کلک کریں۔
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = آپکا مائیکروفون شیئر کیا جا رہا ہے۔ شیئرنگ کنٹرول کرنے کے لئے کلک کریں۔
-webrtc-indicator-sharing-application =
-    .tooltiptext = ایک ایپلی کیشن شیئر کیا جا رہا ہے۔ شیئرنگ کنٹرول کرنے کے لئے کلک کریں۔
-webrtc-indicator-sharing-screen =
-    .tooltiptext = آپکی سکرین شیئر کی جا رہی ہے۔ شیئرنگ کنٹرول کرنے کے لئے کلک کریں۔
-webrtc-indicator-sharing-window =
-    .tooltiptext = ایک ونڈوں شیئر کی جا رہی ہے۔ شیئرنگ کنٹرول کرنے کے لئے کلک کریں۔
-webrtc-indicator-sharing-browser =
-    .tooltiptext = ایک ٹیب شیئر کیا جا رہا ہے۔ شیئرنگ کنٹرول کرنے کے لئے کلک کریں۔
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
@@ -116,7 +99,6 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
-webrtc-share-screen-learn-more = مزید سیکھیں
 webrtc-pick-window-or-screen = ونڈو یا اسکرین منتخب کریں
 webrtc-share-entire-screen = پوری سکرین
 # Variables:

@@ -11,7 +11,7 @@ cert-error-code-prefix-link = کود ختا: <a data-l10n-name="error-code-link"
 cert-error-details-cert-chain-label = زنجیره گوواهی:
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 fp-learn-more-about-secure-connection-failures = زبار ختا یل منپیز ٱمن قلوه دووسته بۊین
 fp-learn-more-about-cert-issues = زبار ای نوع موشکلا گوواهی نامه قلوه دووسته بۊین
 fp-learn-more-about-time-related-errors = زبار عیو جۊری ختایل مربۊت و زمووݩ قلوه دووسته بۊین
@@ -28,7 +28,6 @@ redirectLoop-title = ای بلگه و خۊوی آلشت تور نؽڌه
 unknownSocketType-title = ولوم یهوی ز سرور
 nssFailure2-title = منپیز ٱمن شکست خرد
 corruptedContentErrorv2-title = ختا خراوی موئتوا
-corruptedContentError-title = ختا خراوی موئتوا
 blockedByPolicy-title = بلگه مسدۊد وابیڌه
 networkProtocolError-title = ختا پوروتوکول شبکه
 

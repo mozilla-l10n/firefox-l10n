@@ -21,9 +21,6 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Отваряне на меню за { $extensionName }
 unified-extensions-item-message-manage = Управление на разширението
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = Разширението { $extensionName } нарушава правилата на Mozilla. Използването му може да бъде рисковано.
 
 ## Extension's context menu
 
@@ -42,8 +39,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Някои разширения не са позволени
-unified-extensions-mb-quarantined-domain-message = С цел защита на данните на страницата са позволени само някои наблюдавани от { -vendor-short-name } разширения.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Някои разширения не са позволени
@@ -52,28 +47,10 @@ unified-extensions-mb-quarantined-domain-learn-more = Научете повеч�
     .aria-label = Научете повече: Някои разширения не са позволени
 unified-extensions-mb-about-addons-link = Настройки на разширението
 # Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = Разширението { $extensionName } е изключено
-    .message =
-        Нарушава правилата на Mozilla и за това е изключено.
-        Може да бъде включено в настройките, но може да има риск.
-# Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
     .heading = Разширението { $extensionName } е изключено
     .message = Нарушава правилата на Mozilla и за това е изключено
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-            [one] { $extensionsCount } разширение е изключено
-           *[other] { $extensionsCount } разширения са изключени
-        }
-    .message =
-        Някои от разширенията нарушават правилата на Mozilla и за това са изключени.
-        Може да ги включите в настройките, но може да има риск.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =

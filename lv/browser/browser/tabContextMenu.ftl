@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Jauna cilne
-    .accesskey = J
 reload-tab =
     .label = Pārlādēt cilni
     .accesskey = r
@@ -125,14 +122,6 @@ tab-context-move-tabs =
            *[other] Pārvietot cilnes
         }
     .accesskey = c
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [zero] Sūtīt { $tabCount } cilne uz ierīci
-            [one] Sūtīt { $tabCount } cilni uz ierīci
-           *[other] Sūtīt { $tabCount } cilnes uz ierīci
-        }
-    .accesskey = n
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

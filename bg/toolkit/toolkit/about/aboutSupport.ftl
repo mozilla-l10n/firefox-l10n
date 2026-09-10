@@ -18,10 +18,6 @@ security-software-name = Име
 security-software-antivirus = Борба с вируси
 security-software-antispyware = Борба с шпионски приложения
 security-software-firewall = Огнена стена
-features-title = Възможности на { -brand-short-name }
-features-name = Наименование
-features-version = Версия
-features-id = ID
 processes-title = Отдалечени процеси
 processes-type = Вид
 processes-count = Брой
@@ -46,7 +42,6 @@ app-basics-profile-dir =
         [linux] Директория на профила
        *[other] Папка на профила
     }
-app-basics-enabled-plugins = Включени приставки
 app-basics-build-config = Настройки на компилацията
 app-basics-user-agent = Потребителски агент
 app-basics-os = ОС

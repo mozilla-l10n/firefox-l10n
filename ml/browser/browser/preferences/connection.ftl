@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = കണക്ഷന്‍ സെറ്റിങ്ങുകള്‍
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = കണക്ഷന്‍ സെറ്റിങ്ങുകള്‍
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -51,15 +51,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = പുതുക്കുക
     .accesskey = e
-connection-proxy-autologin =
-    .label = ഒളിവാക്ക് സൂക്ഷിച്ചിട്ടുണ്ടെങ്കില്‍, ആധികാരികത ഉറപ്പാക്കുവാന്‍ ആവശ്യപ്പെടരുത്
-    .accesskey = i
-    .tooltip = പ്രോക്സികള്‍ക്ക് അനുമതികള്‍ സൂക്ഷിയ്ക്കുമ്പോള്‍ ഈ ഐച്ഛികം നിങ്ങളെ പ്രോക്സികളിലേക്ക് പ്രവേശിപ്പിയ്ക്കുന്നു. ആധികാരികത ഉറപ്പാക്കല്‍ പരാജയപ്പെട്ടാല്‍ നിങ്ങളെ അറിയിയ്ക്കുന്നു.
 connection-proxy-autologin-checkbox =
     .label = ഒളിവാക്ക് സൂക്ഷിച്ചിട്ടുണ്ടെങ്കില്‍, ആധികാരികത ഉറപ്പാക്കുവാന്‍ ആവശ്യപ്പെടരുത്
-    .accesskey = i
     .tooltiptext = പ്രോക്സികള്‍ക്ക് അനുമതികള്‍ സൂക്ഷിയ്ക്കുമ്പോള്‍ ഈ ഐച്ഛികം നിങ്ങളെ പ്രോക്സികളിലേക്ക് പ്രവേശിപ്പിയ്ക്കുന്നു. ആധികാരികത ഉറപ്പാക്കല്‍ പരാജയപ്പെട്ടാല്‍ നിങ്ങളെ അറിയിയ്ക്കുന്നു.
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = SOCKS v5 ഉപയോഗിക്കുമ്പോഴുള്ള പ്രോക്സി DNS
     .accesskey = d
-connection-dns-over-https-custom-label = ഇഷ്ടാനുസൃതം

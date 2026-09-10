@@ -21,8 +21,6 @@ styleeditor-save-button = Salvează
 styleeditor-options-button =
     .tooltiptext = Opțiuni editor de stiluri
 styleeditor-at-rules = Reguli @
-styleeditor-editor-textbox =
-    .data-placeholder = Tastează CSS aici.
 styleeditor-no-stylesheet = Pagina nu are nicio fișă de stil.
 styleeditor-no-stylesheet-tip = Poate că ai vrea să <a data-l10n-name="append-new-stylesheet">atașezi o fișă nouă de stil</a>?
 styleeditor-open-link-new-tab =

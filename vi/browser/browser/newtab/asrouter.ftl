@@ -60,7 +60,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Đồng bộ dấu trang của bạn ở mọi nơi.
-cfr-doorhanger-bookmark-fxa-body = Đã tìm thấy tuyệt vời! Bây giờ hãy đồng bộ các dấu trang này với thiết bị di động của bạn. Bắt đầu với một { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = Tìm thấy một trang web tuyệt vời! Tiếp theo, đừng để dấu trang này ra khỏi thiết bị di động của bạn. Đăng ký tài khoản để bắt đầu.
 cfr-doorhanger-bookmark-fxa-link-text = Đồng bộ hóa dấu trang ngay bây giờ...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -73,12 +72,6 @@ fxa-adoption-credit-cards-backup-subtitle = Bảo vệ phương thức thanh to�
 fxa-adoption-bookmarks-treatment-backup-title = Sao lưu dấu trang của bạn
 fxa-adoption-bookmarks-treatment-backup-subtitle = Bảo vệ dấu trang của bạn bằng cách đồng bộ chúng với thiết bị bằng mã hóa.
 fxa-adoption-primary-button-label = Đăng ký
-
-## Protections panel
-
-cfr-protections-panel-header = Duyệt mà không bị theo dõi
-cfr-protections-panel-body = Giữ dữ liệu của bạn cho chính mình. { -brand-short-name } bảo vệ bạn khỏi nhiều trình theo dõi phổ biến nhất theo dõi những gì bạn làm trực tuyến.
-cfr-protections-panel-link-text = Tìm hiểu thêm
 
 ## What's New toolbar button and panel
 
@@ -173,42 +166,8 @@ mr2022-background-update-toast-primary-button-label = Mở { -brand-shorter-name
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Nhắc tôi sau
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Thử ngay
-    .accesskey = T
-firefoxview-cfr-secondarybutton = Để sau
-    .accesskey = N
-firefoxview-cfr-header-v2 = Nhanh chóng bắt đầu từ nơi bạn đã dừng lại
-firefoxview-cfr-body-v2 = Lấy lại các thẻ đã đóng gần đây, cộng với chuyển đổi liền mạch giữa các thiết bị với { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Xin chào với { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Muốn thẻ đang mở nằm trên điện thoại của bạn? Lấy nó. Cần trang web mà bạn vừa truy cập? Nó đã trở lại với { -firefoxview-brand-name }
-firefoxview-spotlight-promo-primarybutton = Xem cách hoạt động
-firefoxview-spotlight-promo-secondarybutton = Bỏ qua
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Chọn đường màu
-    .accesskey = C
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Tô màu trình duyệt của bạn với các sắc thái độc quyền của { -brand-short-name } lấy cảm hứng từ những tiếng nói thay đổi văn hóa.
-colorways-cfr-header-28days = Các màu cho giọng nói độc lập sẽ hết hạn vào ngày 16 tháng 1
-colorways-cfr-header-14days = Màu sắc của giọng nói độc lập sẽ hết hạn sau hai tuần nữa
-colorways-cfr-header-7days = Các màu cho giọng nói độc lập sẽ hết hạn trong tuần này
-colorways-cfr-header-today = Các màu giọng nói độc lập sẽ hết hạn vào ngày hôm nay
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Cho phép { -brand-short-name } từ chối biểu ngữ cookie?
-cfr-cbh-body = { -brand-short-name } có thể tự động từ chối nhiều yêu cầu biểu ngữ cookie.
-cfr-cbh-confirm-button = Từ chối biểu ngữ cookie
-    .accesskey = R
-cfr-cbh-dismiss-button = Để sau
-    .accesskey = N
 cookie-banner-blocker-onboarding-header = { -brand-short-name } vừa từ chối một biểu ngữ cookie cho bạn
 cookie-banner-blocker-onboarding-body = Ít phiền nhiễu hơn, ít cookie theo dõi bạn hơn trên trang web này.
 cookie-banner-blocker-onboarding-learn-more = Tìm hiểu thêm

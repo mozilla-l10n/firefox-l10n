@@ -44,7 +44,6 @@ policy-DisableDefaultBrowserAgent = ป้องกันไม่ให้ต�
 policy-DisableDeveloperTools = ปิดกั้นการเข้าถึงเครื่องมือนักพัฒนา
 policy-DisableEncryptedClientHello = ปิดใช้คุณลักษณะ Encrypted Client Hello (ECH) ของ TLS
 policy-DisableFeedbackCommands = ปิดใช้งานคำสั่งสำหรับส่งข้อเสนอแนะจากเมนู วิธีใช้ (ส่งข้อเสนอแนะและรายงานไซต์หลอกลวง)
-policy-DisableFirefoxAccounts = ปิดใช้งานบริการที่ใช้ { -fxaccount-brand-name } รวมถึง Sync ด้วย
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = ปิดใช้บริการที่ใช้บัญชี รวมถึงการซิงค์
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -54,7 +53,6 @@ policy-DisableForgetButton = ป้องกันไม่ให้เข้า
 policy-DisableFormHistory = ไม่จดจำประวัติการค้นหาและแบบฟอร์ม
 policy-DisablePrimaryPasswordCreation = ถ้าเป็นค่า true จะไม่สามารถสร้างรหัสผ่านหลักได้
 policy-DisablePasswordReveal = ไม่อนุญาตให้เปิดเผยรหัสผ่านในการเข้าสู่ระบบที่บันทึกไว้
-policy-DisablePocket2 = ปิดใช้งานคุณลักษณะในการบันทึกหน้าเว็บไปยัง { -pocket-brand-name }
 policy-DisablePrivateBrowsing = ปิดใช้งานการเรียกดูแบบส่วนตัว
 policy-DisableProfileImport = ปิดใช้งานคำสั่งเมนูในการนำเข้าข้อมูลจากเบราว์เซอร์อื่น
 policy-DisableProfileRefresh = ปิดใช้งานปุ่ม ล้าง { -brand-short-name } ใหม่ ในหน้า about:support
@@ -125,7 +123,6 @@ policy-PDFjs = ปิดใช้งานหรือกำหนดค่า P
 policy-Permissions2 = กำหนดค่าการอนุญาตสิทธิ์สำหรับกล้อง ไมโครโฟน ตำแหน่งที่ตั้ง การแจ้งเตือน และการเล่นอัตโนมัติ
 policy-PictureInPicture = เปิดหรือปิดใช้งานภาพซ้อนภาพ
 policy-PopupBlocking2 = อนุญาตให้บางเว็บไซต์แสดงหน้าต่างป๊อปอัปและถูกเปลี่ยนเส้นทางโดยเฟรมจากภายนอกได้
-policy-PopupBlocking = อนุญาตให้บางเว็บไซต์แสดงป็อปอัปตามค่าเริ่มต้น
 policy-Preferences = ตั้งค่าและล็อคค่าสำหรับชุดย่อยของค่าปรับแต่ง
 policy-PrivateBrowsingModeAvailability = ตั้งค่าความพร้อมใช้งานของโหมดการเรียกดูแบบส่วนตัว
 policy-PromptForDownloadLocation = ถามตำแหน่งที่จะบันทึกไฟล์เมื่อดาวน์โหลด

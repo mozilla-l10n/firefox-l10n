@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } — Paylaşım Göstergesi
-webrtc-indicator-window =
-    .title = { -brand-short-name } — Paylaşım Göstergesi
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Mikrofonunuzu paylaşıyorsunuz. Paylaşımı yönetmek için tıklayın.
 webrtc-screen-system-menu =
     .label = Bir pencereyi veya ekranı paylaşıyorsunuz. Paylaşımı yönetmek için tıklayın.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Kamera ve mikrofonunuz paylaşılıyor. Paylaşımı yönetmek için tıklayın.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Kameranız paylaşılıyor. Paylaşımı yönetmek için tıklayın.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Mikrofonunuz paylaşılıyor. Paylaşımı yönetmek için tıklayın.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Bir uygulama paylaşılıyor. Paylaşımı yönetmek için tıklayın.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Ekranınız paylaşılıyor. Paylaşımı yönetmek için tıklayın.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Bir pencere paylaşılıyor. Paylaşımı yönetmek için tıklayın.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Bir sekme paylaşılıyor. Paylaşımı yönetmek için tıklayın.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = { $origin } { $t
 
 webrtc-share-screen-warning = Yalnızca güvendiğiniz sitelerle ekranınızı paylaşın. Paylaşım, aldatıcı sitelerin sizin adınıza web’de dolaşmasına ve özel verilerinizi çalmasına olanak tanıyabilir.
 webrtc-share-browser-warning = { -brand-short-name } tarayıcınızı yalnızca güvendiğiniz sitelerle paylaşın. Paylaşım, aldatıcı sitelerin sizin adınıza web’de gezinmesine ve özel verilerinizi çalmasına olanak tanıyabilir.
-webrtc-share-screen-learn-more = Daha fazla bilgi alın
 webrtc-pick-window-or-screen = Pencere veya ekranı seçin
 webrtc-share-entire-screen = Tüm ekran
 webrtc-share-pipe-wire-portal = İşletim sistemi ayarlarını kullan

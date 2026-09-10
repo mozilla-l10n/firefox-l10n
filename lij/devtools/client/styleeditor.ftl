@@ -17,8 +17,6 @@ styleeditor-save-button = Sarva
 styleeditor-options-button =
     .tooltiptext = Editô do stile
 styleeditor-at-rules = At-rules
-styleeditor-editor-textbox =
-    .data-placeholder = Scrivi o CSS chi.
 styleeditor-no-stylesheet = Sta pagina a no l'à feuggio de stile.
 styleeditor-no-stylesheet-tip = Fòscia ti ti veu <a data-l10n-name="append-new-stylesheet">azonzi 'n neuvo feuggio de stile</a>?
 styleeditor-open-link-new-tab =

@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Continuă instalarea
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Acest site cere permisiunea de a-ți accesa dispozitivele MIDI (Musical Instrument Digital Interface). Accesul poate fi permis prin instalarea unui supliment.
 site-permission-install-first-prompt-midi-message = Nu garantăm că accesul este sigur. Continuă doar dacă ai încredere în acest site.
 site-permission-install-first-prompt-serial-header = Site-ul solicită acces la dispozitivele tale seriale. Accesul la dispozitive poate fi activat prin instalarea unui supliment.
 site-permission-install-first-prompt-serial-message = Accesul nu este garantat sigur. Continuă numai dacă ai încredere în site.
-
-##
-
-xpinstall-disabled-locked = Instalarea de programe a fost dezactivată de administratorul de sistem.
 xpinstall-disabled-by-policy = Instalarea de software a fost dezactivată de organizația ta.
 xpinstall-disabled = Instalarea de programe este dezactivată în prezent. Dă clic pe Activează și încearcă din nou.
 xpinstall-disabled-button =
     .label = Activează
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) este blocat de administratorul de sistem.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Administratorul tău de sistem a împiedicat acest site să îți ceară instalarea de software pe calculator.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = Finalizează instalarea de extensii importate în { -br
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Elimini { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Elimini { $name } din { -brand-shorter-name }?
 addon-removal-button = Elimină
 addon-removal-abuse-report-checkbox = Raportează această extensie la { -vendor-short-name }
 # "it" refers to the local AI model that is paired to the AI feature
@@ -146,7 +129,5 @@ addon-local-install-no-addon-name-error-file-access = Suplimentul nu a putut fi 
 addon-install-error-incompatible = { $addonName } nu a putut fi instalat deoarece nu este compatibil cu { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = { $addonName } încalcă politicile Mozilla și nu poate fi instalat pe { -brand-short-name }.
 addon-install-error-soft-blocked2 = { $addonName } este restricționat și nu poate fi instalat pe { -brand-short-name }.
-addon-install-error-blocklisted = { $addonName } nu a putut fi instalat deoarece prezintă un risc ridicat de a produce probleme de stabilitate sau securitate.
-addon-install-error-soft-blocked = { $addonName } încalcă politicile Mozilla și nu poate fi instalat pe { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Nu poți instala { $addonName } ca utilizator final. Poate fi instalat doar de o organizație care folosește politici de întreprindere.

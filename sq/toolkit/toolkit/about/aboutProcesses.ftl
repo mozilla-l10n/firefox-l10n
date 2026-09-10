@@ -49,7 +49,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Shkodues të Dhënash ({ $pid })
 about-processes-socket-process = Rrjet ({ $pid })
-about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-utility-process = Mjet ({ $pid })
 # Unknown process names
 # Variables:
@@ -67,15 +66,6 @@ about-processes-web-isolated-property-private = private
 ##    $properties (String) A formatted list of properties from the above strings.
 
 about-processes-web-isolated-process2 = { $origin } ({ $properties })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-web-isolated-process-private = { $origin } — Privat ({ $pid })
 
 ## Details within processes
 

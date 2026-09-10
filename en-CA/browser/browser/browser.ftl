@@ -2,113 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Private Browsing
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Private Browsing
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Private Browsing
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Private Browsing
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Private Browsing
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
 browser-shortcut-description = Fast and private web browsing
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Private Browsing
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } Private Browsing
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } Private Browsing
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Private Browsing
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } — Private Browsing
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Private Browsing
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Private Browsing
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Private Browsing
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -176,8 +74,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Open offline storage message panel
 urlbar-password-notification-anchor =
     .tooltiptext = Open save password message panel
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Manage plug-in use
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Manage sharing your camera and/or microphone with the site
 # "Speakers" is used in a general sense that might include headphones or
@@ -190,15 +86,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Store data in Persistent Storage
 urlbar-addons-notification-anchor =
     .tooltiptext = Open add-on installation message panel
-urlbar-tip-help-icon =
-    .title = Get help
 urlbar-search-tips-confirm = Okay, Got It
 urlbar-search-tips-confirm-short = Got it
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Tip:
 urlbar-result-menu-button =
     .title = Open menu
 urlbar-result-menu-button-feedback = Feedback
@@ -243,9 +132,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = Dismiss this suggestion
     .accesskey = D
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = Learn more about { -firefox-suggest-brand-name }
-    .accesskey = L
 urlbar-result-menu-manage-firefox-suggest =
     .label = Manage { -firefox-suggest-brand-name }
     .accesskey = M
@@ -277,8 +163,6 @@ urlbar-dismissal-acknowledgment-weather = Thanks for your feedback. You won’t 
 
 urlbar-search-tips-onboard = Type less, find more: Search { $engineName } right from your address bar.
 urlbar-search-tips-redirect-2 = Start your search in the address bar to see suggestions from { $engineName } and your browsing history.
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = Searching just got simpler. Try making your search more specific here in the address bar. To show the URL instead, visit Search, in settings.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Select this shortcut to find what you need faster.
@@ -312,8 +196,6 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = You have blocked persistent storage for this website.
 urlbar-popup-blocked2 =
     .tooltiptext = You have blocked pop-ups and third-party redirects for this website.
-urlbar-popup-blocked =
-    .tooltiptext = You have blocked pop-ups for this website.
 urlbar-autoplay-media-blocked =
     .tooltiptext = You have blocked autoplay media with sound for this website.
 urlbar-canvas-blocked =
@@ -424,24 +306,18 @@ quickactions-cmd-addons3 = extensions, themes, addons, add-ons
 # Opens preferences page at AI controls
 quickactions-manageai = Manage AI controls
 quickactions-cmd-manageai = disable ai, off ai, manage ai
-quickactions-cmd-addons2 = add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Manage bookmarks
 quickactions-cmd-bookmarks = bookmarks
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Clear recent history
 quickactions-cmd-clearrecenthistory2 = cookies, clear cookies, cache, clear cache, browsing data, clear browsing data, history, clear recent history
-quickactions-cmd-clearrecenthistory = clear recent history, history
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Clear History
-quickactions-cmd-clearhistory = clear history
 # Opens about:downloads page
 quickactions-downloads2 = View downloads
 quickactions-cmd-downloads = downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = Manage extensions
 quickactions-cmd-extensions2 = extensions, addons, add-ons
-quickactions-cmd-extensions = extensions
 # Opens Firefox View
 quickactions-firefoxview = Open { -firefoxview-brand-name }
 # English is using "view" and "open view", since the feature name is
@@ -460,7 +336,6 @@ quickactions-cmd-colorpicker = colour picker, eyedropper, pick colour
 # Opens Firefox Library
 quickactions-cmd-library = library
 quickactions-library = Open Library
-quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins2 = Manage passwords
 quickactions-cmd-logins = logins, passwords
@@ -470,9 +345,6 @@ quickactions-mute = Mute tabs playing audio
 # Replace with idiomatic expressions in your language to silence something or
 # someone.
 quickactions-cmd-mute = mute, shush, shhhhh, hush, quiet, loud
-# Opens about:addons page in the plugins section
-quickactions-plugins = Manage plugins
-quickactions-cmd-plugins = plugins
 # Opens the print dialog
 quickactions-print2 = Print page
 quickactions-cmd-print = print
@@ -497,19 +369,16 @@ quickactions-cmd-screenshot2 = screenshot, take a screenshot
 # Opens about:translations
 quickactions-translate = Translate
 quickactions-cmd-translate = translate
-quickactions-cmd-screenshot = screenshot
 # Opens about:preferences
 quickactions-settings2 = Manage settings
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = settings, preferences, options, manage
-quickactions-cmd-settings = settings, preferences, options
 # Opens about:addons page in the themes section
 quickactions-themes = Manage themes
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-themes2 = themes, add-ons, addons
-quickactions-cmd-themes = themes
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Update { -brand-short-name }
 quickactions-cmd-update = update
@@ -519,7 +388,6 @@ quickactions-cmd-viewsource2 = view source, source, page source
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = Open { -firefoxlabs-brand-name }
 quickactions-cmd-labs = labs, experiment
-quickactions-cmd-viewsource = view source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Learn more about Quick actions
@@ -576,9 +444,7 @@ identity-custom-root = Connection verified by a certificate issuer that is not r
 identity-passive-loaded = Parts of this page are not secure (such as images).
 identity-active-loaded = You have disabled protection on this page.
 identity-weak-encryption = This page uses weak encryption.
-identity-insecure-login-forms = Logins entered on this page could be compromised.
 identity-https-only-connection-upgraded = (upgraded to HTTPS)
-identity-https-only-label = HTTPS-Only Mode
 identity-https-only-label2 = Automatically upgrade this site to a secure connection
 identity-https-only-dropdown-on =
     .label = On
@@ -586,8 +452,6 @@ identity-https-only-dropdown-off =
     .label = Off
 identity-https-only-dropdown-off-temporarily =
     .label = Off temporarily
-identity-https-only-info-turn-on2 = Turn on HTTPS-Only Mode for this site if you want { -brand-short-name } to upgrade the connection when possible.
-identity-https-only-info-turn-off2 = If the page seems broken, you may want to turn off HTTPS-Only Mode for this site to reload using insecure HTTP.
 identity-https-only-info-turn-on3 = Turn on HTTPS upgrades for this site if you want { -brand-short-name } to upgrade the connection when possible.
 identity-https-only-info-turn-off3 = If the page seems broken, you may want to turn off HTTPS upgrades for this site to reload using insecure HTTP.
 identity-https-only-info-no-upgrade = Unable to upgrade connection from HTTP.
@@ -611,7 +475,6 @@ identity-remove-cert-exception =
     .label = Remove Exception
     .accesskey = R
 identity-description-insecure = Your connection to this site is not private. Information you submit could be viewed by others (like passwords, messages, credit cards, etc.).
-identity-description-insecure-login-forms = The login information you enter on this page is not secure and could be compromised.
 identity-description-weak-cipher-intro = Your connection to this website uses weak encryption and is not private.
 identity-description-weak-cipher-risk = Other people can view your information or modify the website’s behaviour.
 identity-description-active-blocked2 = { -brand-short-name } has blocked parts of this page that are not secure.
@@ -622,12 +485,6 @@ identity-description-active-loaded = This website contains content that is not s
 identity-description-active-loaded-insecure = Information you share with this site could be viewed by others (like passwords, messages, credit cards, etc.).
 identity-description-tls-key-logging-heading = Your connection may not be private
 identity-description-tls-key-logging-message = An app or service may see your encrypted traffic from this site.
-identity-disable-mixed-content-blocking =
-    .label = Disable protection for now
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = Enable protection
-    .accesskey = E
 identity-more-info-link-text =
     .label = More information
 
@@ -644,37 +501,6 @@ browser-window-close-button =
 # Clicking this button closes the window and returns to the tab where it was opened from
 browser-window-return-to-opener =
     .tooltiptext = Return
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = PLAYING
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = MUTED
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = AUTOPLAY BLOCKED
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = PICTURE-IN-PICTURE
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] MUTE TAB
-       *[other] MUTE { $count } TABS
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] UNMUTE TAB
-       *[other] UNMUTE { $count } TABS
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] PLAY TAB
-       *[other] PLAY { $count } TABS
-    }
 
 ## Bookmarks toolbar items
 
@@ -715,10 +541,6 @@ sharing-warning-disable-for-session =
 
 webserial-select-port-label = Select a serial port:
 webserial-no-ports-available = No serial ports available
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = To use the F12 shortcut, first open DevTools via the Browser Tools menu.
 
 ## URL Bar
 
@@ -783,8 +605,6 @@ urlbar-extension =
     .value = Extension:
 urlbar-go-button2 =
     .title = Go to the address in the Location Bar
-urlbar-go-button =
-    .tooltiptext = Go to the address in the Location Bar
 urlbar-page-action-button =
     .tooltiptext = Page actions
 urlbar-revert-button =
@@ -842,11 +662,6 @@ urlbar-result-action-tabtosearch-web = Search with { $engine } directly from the
 urlbar-result-action-tabtosearch-other-engine = Search { $engine } directly from the address bar
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Copy
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = undefined
 # The sub title of an add-on suggestion in the urlbar.
@@ -857,23 +672,6 @@ urlbar-result-mdn-subtitle = { -mdn-brand-name }
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
 urlbar-result-suggestion-recommended = Recommended
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
-# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
-# The last = sign will be shown as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
-# Shows the result of a formula expression being calculated, to a maximum of 9 significant
-# digits. This is used for numbers < 1.
-# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 # The title of a weather suggestion in the urlbar. The temperature and unit
 # substring should be inside a <strong> tag. If the temperature and unit are not
 # adjacent in the localization, it's OK to include only the temperature in the
@@ -1062,32 +860,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Search { $localSea
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Search with { $engine }
-urlbar-searchmode-dropmarker =
-    .tooltiptext = Pick a Search Engine
-urlbar-searchmode-bookmarks =
-    .label = Bookmarks
-urlbar-searchmode-tabs =
-    .label = Tabs
-urlbar-searchmode-history =
-    .label = History
-urlbar-searchmode-actions =
-    .label = Actions
-urlbar-searchmode-exit-button =
-    .tooltiptext = Close
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = This time search with:
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = Search Settings
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button2 =
-    .label = { $engine }, pick a search engine
-    .tooltiptext = { $engine }, pick a search engine
-urlbar-searchmode-button-no-engine =
-    .label = No shortcut selected, pick a shortcut
-    .tooltiptext = No shortcut selected, pick a shortcut
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1194,16 +966,10 @@ urlbar-group-trending =
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Don’t show trending searches
     .accesskey = D
-# Label shown above sponsored suggestions in the urlbar results.
-urlbar-group-sponsored =
-    .label = Sponsored
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Don’t show trending searches
     .accesskey = D
-urlbar-result-menu-trending-why =
-    .label = Why am I seeing this?
-    .accesskey = W
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = Thanks for your feedback. You won’t see trending searches anymore.
@@ -1288,12 +1054,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Hide bookmarks toolbar
            *[other] Show bookmarks toolbar
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Remove bookmarks menu from toolbar
-           *[other] Add bookmarks menu to toolbar
-        }
 
 ##
 
@@ -1324,14 +1084,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = Bookmarks
-library-recent-activity-title =
-    .value = Recent Activity
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Save to { -pocket-brand-name }
-    .tooltiptext = Save to { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
@@ -1421,8 +1173,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = Username
-panel-save-update-password = Password
 panel-save-update-username-2 =
     .label = Username
 panel-save-update-password-2 =
@@ -1444,33 +1194,18 @@ menu-share-copy-links =
            *[other] Copy { $count } Links
         }
     .accesskey = L
-menu-share-copy-link =
-    .label = Copy Link
-    .accesskey = L
 ui-tour-info-panel-close =
     .tooltiptext = Close
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
-popups-infobar-allow =
-    .label = Allow pop-ups for { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Block pop-ups for { $uriHost }
-    .accesskey = p
 popups-infobar-allow2 =
     .label = Allow pop-ups and third-party redirects for { $uriHost }
     .accesskey = p
 
 ##
 
-popups-infobar-dont-show-message =
-    .label = Don’t show this message when pop-ups are blocked
-    .accesskey = D
-edit-popup-settings =
-    .label = Manage pop-up settings…
-    .accesskey = M
 picture-in-picture-hide-toggle =
     .label = Hide Picture-in-Picture Toggle
     .accesskey = H
@@ -1496,8 +1231,6 @@ navbar-downloads =
     .label = Downloads
 navbar-overflow-2 =
     .tooltiptext = More tools
-navbar-overflow =
-    .tooltiptext = More tools…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1600,13 +1333,8 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = End Private Session
-    .tooltiptext = End Private Session
 reset-pbm-panel-heading2 = Clear data and start a fresh private session?
 reset-pbm-panel-description2 = This deletes history, cookies, and all other site data without closing your Private Window.
-reset-pbm-panel-heading = End your private session?
-reset-pbm-panel-description = Close all private tabs and delete history, cookies, and all other site data.
 reset-pbm-panel-always-ask-checkbox =
     .label = Always ask me
     .accesskey = A
@@ -1616,9 +1344,6 @@ reset-pbm-panel-cancel-button =
 reset-pbm-panel-confirm-button2 =
     .label = Clear private session
     .accesskey = l
-reset-pbm-panel-confirm-button =
-    .label = Delete session data
-    .accesskey = D
 reset-pbm-panel-complete = Private session data deleted
 reset-pbm-toolbar-button2 =
     .label = Clear private session

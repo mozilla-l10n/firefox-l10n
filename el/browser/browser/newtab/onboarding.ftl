@@ -192,11 +192,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Καρφίτσωμα του { -brand-short-name } στη γραμμή εργασιών και το μενού έναρξης
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Ξεκινήστε με ένα πρόγραμμα περιήγησης που υποστηρίζεται από έναν μη κερδοσκοπικό οργανισμό. Υπερασπιζόμαστε το απόρρητό σας ενώ περιηγείστε στο διαδίκτυο.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -226,52 +221,10 @@ mr2022-onboarding-set-default-subtitle = Χρησιμοποιήστε ένα π�
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Η πιο πρόσφατη έκδοσή μας έχει προσαρμοστεί στις ανάγκες σας, κάνοντας πιο εύκολη από ποτέ την περιήγησή σας στο διαδίκτυο. Είναι γεμάτη με λειτουργίες που πιστεύουμε ότι θα λατρέψετε.
 mr2022-onboarding-get-started-primary-button-label = Ρύθμιση σε δευτερόλεπτα
-mr2022-onboarding-import-header = Αστραπιαία ρύθμιση
-mr2022-onboarding-import-subtitle = Ρυθμίστε το { -brand-short-name } όπως σας αρέσει. Προσθέστε σελιδοδείκτες, κωδικούς πρόσβασης και πολλά άλλα από το παλιό σας πρόγραμμα περιήγησης.
 mr2022-onboarding-import-primary-button-label-no-attribution = Εισαγωγή από προηγούμενο πρόγραμμα περιήγησης
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Επιλέξτε το χρώμα που σας εμπνέει
-mr2022-onboarding-colorway-subtitle = Οι ανεξάρτητες φωνές μπορούν να αλλάξουν τον πολιτισμό.
-mr2022-onboarding-colorway-primary-button-label-continue = Ορισμός και συνέχεια
-mr2022-onboarding-existing-colorway-checkbox-label = Κάντε την { -firefox-home-brand-name } σας μια πολύχρωμη αρχική σελίδα
-mr2022-onboarding-colorway-label-default = Προεπιλογή
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Τρέχοντα χρώματα { -brand-short-name }
-mr2022-onboarding-colorway-description-default = <b>Χρήση τρεχόντων χρωμάτων στο { -brand-short-name }.</b>
-mr2022-onboarding-colorway-label-playmaker = Δημιουργός
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Δημιουργός (κόκκινο)
-mr2022-onboarding-colorway-description-playmaker = <b>Δημιουργός:</b> Δημιουργείτε ευκαιρίες για να κερδίσετε και βοηθάτε όλα τα άτομα γύρω σας να καταβάλουν τα μέγιστα.
-mr2022-onboarding-colorway-label-expressionist = Εξπρεσιονιστής
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Εξπρεσιονιστής (κίτρινο)
-mr2022-onboarding-colorway-description-expressionist = <b>Εξπρεσιονιστής:</b> Βλέπετε τον κόσμο διαφορετικά και οι δημιουργίες σας διεγείρουν τα συναισθήματα των άλλων.
-mr2022-onboarding-colorway-label-visionary = Οραματιστής
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Οραματιστής (πράσινο)
-mr2022-onboarding-colorway-description-visionary = <b>Οραματιστής:</b> Αμφισβητείτε το status quo και κάνετε τους άλλους να φαντάζονται ένα καλύτερο μέλλον.
-mr2022-onboarding-colorway-label-activist = Ακτιβιστής
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Ακτιβιστής (μπλε)
-mr2022-onboarding-colorway-description-activist = <b>Ακτιβιστής:</b> Παραδίδετε έναν καλύτερο κόσμο στους επόμενους και κάνετε τους άλλους να πιστεύουν.
-mr2022-onboarding-colorway-label-dreamer = Ονειροπόλος
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Ονειροπόλος (μωβ)
-mr2022-onboarding-colorway-description-dreamer = <b>Ονειροπόλος:</b> Πιστεύετε ότι η τύχη ευνοεί τους τολμηρούς και εμπνέετε τους άλλους να είναι γενναίοι.
-mr2022-onboarding-colorway-label-innovator = Νεωτεριστής
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Νεωτεριστής (πορτοκαλί)
-mr2022-onboarding-colorway-description-innovator = <b>Νεωτεριστής:</b> Βλέπετε ευκαιρίες παντού και επηρεάζετε τις ζωές όλων των ατόμων γύρω σας.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Εναλλαγή από τον υπολογιστή στο τηλέφωνο και αντίστροφα
-mr2022-onboarding-mobile-download-subtitle = Λάβετε καρτέλες από μια συσκευή και συνεχίστε από εκεί που σταματήσατε σε μια άλλη. Συγχρονίστε τους σελιδοδείκτες και τους κωδικούς πρόσβασής σας οπουδήποτε χρησιμοποιείτε το { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Σαρώστε τον κωδικό QR για να αποκτήσετε το { -brand-product-name } για κινητές συσκευές ή <a data-l10n-name="download-label">στείλτε στον εαυτό σας έναν σύνδεσμο λήψης.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Σαρώστε τον κωδικό QR για λήψη του { -brand-product-name } για κινητές συσκευές.
 
@@ -324,15 +277,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Ανοιχτόχρωμα και σκουρόχρωμα χέρια που κάνουν χειρονομία «κόλλα πέντε»
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Άποψη ενός ηλιοβασιλέματος μέσα από ένα παράθυρο με μια αλεπού και ένα φυτό σε περβάζι
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Ένα χέρι ζωγραφίζει με σπρέι ένα πολύχρωμο κολάζ με ένα πράσινο μάτι, ένα πορτοκαλί παπούτσι, μια κόκκινη μπάλα μπάσκετ, μοβ ακουστικά, μια μπλε καρδιά και ένα κίτρινο στέμμα
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Μια αλεπού χαιρετά στην οθόνη ενός φορητού υπολογιστή. Έχει συνδεθεί ένα ποντίκι στον φορητό υπολογιστή.
 onboarding-device-migration-title = Καλώς ορίσατε και πάλι!
-onboarding-device-migration-subtitle = Συνδεθείτε στον { -fxaccount-brand-name(capitalization: "lower", case: "acc") } σας για να έχετε μαζί σας τους σελιδοδείκτες, τους κωδικούς πρόσβασης και το ιστορικό σας στη νέα σας συσκευή.
 onboarding-device-migration-subtitle2 = Συνδεθείτε στον λογαριασμό σας για να μεταφέρετε τους σελιδοδείκτες, τους κωδικούς πρόσβασης και το ιστορικό σας στη νέα σας συσκευή.
 onboarding-device-migration-primary-button-label = Σύνδεση
 
@@ -449,15 +399,12 @@ tab-groups-onboarding-feature-callout-title = Δοκιμάστε τις ομάδ
 tab-groups-onboarding-feature-callout-subtitle = Οργανωθείτε σύροντας μια καρτέλα πάνω σε κάποια άλλη για να δημιουργήσετε την πρώτη σας ομάδα.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Βρείτε τις ομάδες καρτελών σας στο μενού «Παράθεση όλων των καρτελών» ανά πάσα στιγμή.
-tab-groups-onboarding-create-group-title-2 = Βρείτε τις ομάδες καρτελών σας εδώ, ανά πάσα στιγμή.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Βρείτε τις ομάδες σας αναζητώντας τες στη γραμμή διευθύνσεων.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Όταν κλείσετε μια ομάδα καρτελών, ανοίξτε την ξανά από το μενού «Παράθεση όλων των καρτελών» ανά πάσα στιγμή.
-tab-groups-onboarding-saved-groups-title-2 = Όταν κλείσετε μια ομάδα καρτελών, μπορείτε να την ανοίξετε ξανά εδώ, ανά πάσα στιγμή.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Βρείτε τις ομάδες που κλείσατε αναζητώντας τες στη γραμμή διευθύνσεων.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Ανοίξτε ξανά τις ομάδες καρτελών σας από το μενού «Παράθεση όλων των καρτελών» ανά πάσα στιγμή.
-tab-groups-onboarding-session-restore-title = Ανοίξτε ξανά τις ομάδες καρτελών σας εδώ, ανά πάσα στιγμή.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Tiada Penyimpan
-    .accesskey = T
 user-context-manage-containers =
     .label = Urus Penyimpan
     .accesskey = U

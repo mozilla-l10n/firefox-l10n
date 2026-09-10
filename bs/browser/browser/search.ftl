@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Vaš zadani pretraživač je promijenjen.</strong> { $oldEngine } više nije dostupan kao zadani pretraživač u { -brand-short-name }. { $newEngine } je sada vaš zadani pretraživač. Da biste promijenili na drugi zadani pretraživač, idite u postavke. <label data-l10n-name="remove-search-engine-article">Saznajte više</label>
 removed-search-engine-message2 = <strong>Vaš zadani pretraživač je promijenjen.</strong> { $oldEngine } više nije dostupan kao zadani pretraživač u { -brand-short-name }. { $newEngine } je sada vaš zadani pretraživač. Da biste promijenili na drugi zadani pretraživač, idite u postavke.
 remove-search-engine-button = OK
 
@@ -52,11 +51,11 @@ install-search-engine-no = Ne
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Dodaj pretraživač
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Uredi pretraživač
     .style = min-width: 32em;
+    .title = Uredi pretraživač
 add-engine-button = Dodajte prilagođeni pretraživač
 add-engine-name = Naziv pretraživača
 add-engine-url2 = URL sa %s umjesto pojma za pretragu
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Pokušajte uključiti %s umjesto pojma za p
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Dodaj pretraživač
-    .buttonaccesskeyaccept = A
     .buttonlabelextra1 = Napredno
+    .buttonaccesskeyaccept = A
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Sačuvaj pretraživač
-    .buttonaccesskeyaccept = S
     .buttonlabelextra1 = Napredno
+    .buttonaccesskeyaccept = S

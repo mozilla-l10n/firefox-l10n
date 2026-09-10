@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Ausnamen
     .style = min-width: 45em
+    .title = Ausnamen
 permissions-close-key =
     .key = w
 permissions-address = Adress vum Internetsite

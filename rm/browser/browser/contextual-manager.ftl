@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Tschertgar en ils pleds-clav
-    .key = F
     .aria-label = Tschertgar en ils pleds-clav
+    .key = F
+    .placeholder = Tschertgar en ils pleds-clav
 contextual-manager-menu-more-options-button =
     .title = Ulteriuras opziuns
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Importar dad ina datoteca…
 contextual-manager-passwords-command-export = Exportar ils pleds-clav
 contextual-manager-passwords-command-remove-all = Stizzar tut ils pleds-clav
 contextual-manager-passwords-command-options = Opziuns
-contextual-manager-passwords-command-settings = Parameters
 contextual-manager-passwords-command-help = Agid
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Importà ils pleds-clav
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Nov: { $added }, actualisà: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -214,8 +209,6 @@ contextual-manager-passwords-create-label =
     .label = Agiuntar in pled-clav
 contextual-manager-passwords-update-label =
     .label = Actualisar il pled-clav
-contextual-manager-passwords-edit-label =
-    .label = Modifitgar il pled-clav
 contextual-manager-passwords-remove-label =
     .title = Allontanar il pled-clav
 contextual-manager-passwords-origin-field =
@@ -231,7 +224,6 @@ contextual-manager-passwords-password-field-description = Endatescha il pled-cla
 contextual-manager-passwords-origin-tooltip = Endatescha l’adressa exacta per s’annunziar en questa website.
 contextual-manager-passwords-username-tooltip = Endatescha il num d’utilisader, l’adressa dad e-mail u il numer dal conto che ti utiliseschas per s’annunziar.
 contextual-manager-passwords-password-tooltip-2 = Endatescha il pled-clav per s’annunziar cun quest conto.
-contextual-manager-passwords-password-tooltip = Endatescha il pled-clav utilisà per s’annunziar en quest conto.
 
 ## Password Card
 
@@ -278,10 +270,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Copiar il pled-clav (Avertiment)
 contextual-manager-edit-login-button = Modifitgar
     .tooltiptext = Modifitgar il pled-clav
-contextual-manager-view-alert-heading =
-    .heading = Mussar l’avertiment
-contextual-manager-view-alert-button =
-    .tooltiptext = Examinar l’avertiment
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -308,13 +296,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Na chattà nagins pleds-clav
 contextual-manager-passwords-no-passwords-found-message-2 = Emprova cun in auter term e tschertga anc ina giada.
-contextual-manager-passwords-no-passwords-found-message = Na chattà nagins pleds-clav. Tschertga in auter term ed emprova anc ina giada.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Memorisescha tes pleds-clav en in lieu segir.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Tut ils pleds-clav èn criptads e nus vegnin a tegnair en egl perditas da datas ed avertiments sche ti es pertutgà.

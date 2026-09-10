@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Besjoch jo resinte navigaasje fan finsters en apparaten
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Slute
-    .aria-label = Slute
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Sa krekt
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Syngronisearre ljepblêden
-firefoxview-tabpickup-description = Siden fan oare apparaten ôf iepenje
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% foltôge
-firefoxview-tabpickup-step-signin-header = Wikselje maklik tusken apparaten
-firefoxview-tabpickup-step-signin-description = Meld jo earst oan of meitsje in account om hjir de ljepblêden fan jo telefoan te iepenjen.
-firefoxview-tabpickup-step-signin-primarybutton = Trochgean
 firefoxview-syncedtabs-signin-header-2 = Jo { -brand-product-name } op al jo apparaten
 firefoxview-syncedtabs-signin-description-2 = Meld jo oan of registrearje jo foar in account om op jo telefoan en oare apparaten iepene ljepblêden te sjen. Mei in account kinne jo ek jo wachtwurden, skiednis en mear syngronisearje.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Fan laptop nei telefoan, naadleas
 firefoxview-syncedtabs-signin-description-3 = Hâld jo navigaasje ferbûn oer ferskate apparaten – ljepblêden, wachtwurden en skiednis, allegearre syngronisearre.
 firefoxview-syncedtabs-signin-primarybutton-2 = Oanmelde
-firefoxview-tabpickup-adddevice-header = { -brand-product-name } op jo telefoan of tablet syngronisearje
-firefoxview-tabpickup-adddevice-description = Download { -brand-product-name } foar mobyl en meld jo dêr oan.
-firefoxview-tabpickup-adddevice-learn-how = Mear ynfo
-firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } foar mobyl downloade
 firefoxview-syncedtabs-adddevice-header-2 = Pak oeral ljepblêden
 firefoxview-syncedtabs-adddevice-description-2 = Meld jo oan by { -brand-product-name } op jo telefoan of in oare kompjûter om hjir ljepblêden te sjen. Lês hoe’t jo <a data-l10n-name="url">ekstra apparaten ferbine kinne</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = { -brand-product-name } foar mobyl probearje
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Jo ljepblêden hawwe belle. Se steane op jo telefoan.
 firefoxview-syncedtabs-adddevice-description-3 = Scan de QR-koade om { -brand-product-name } foar mobyl te downloaden en te begjinnen mei it syngronisearjen fan jo iepene ljepblêden en mear. Lês hoe’t jo <a data-l10n-name="url">ekstra apparaten oanslute kinne</a>.
-firefoxview-tabpickup-synctabs-header = Ljepblêdsyngronisaasje ynskeakelje
-firefoxview-tabpickup-synctabs-description = { -brand-short-name } tastean om ljepblêden tusken apparaten te dielen.
-firefoxview-tabpickup-synctabs-learn-how = Mear ynfo
 firefoxview-tabpickup-synctabs-primarybutton = Iepen ljepblêden syngronisearje
 firefoxview-tabpickup-synctabs-primarybutton-2 = Ljepblêdsyngronisaasje ynskeakelje
 firefoxview-syncedtabs-synctabs-header = Wurkje jo syngronisaasje-ynstellingen by
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = As dit dien is, sjogge jo alle ljep
 firefoxview-syncedtabs-loading-header-2 = Jo ljepblêden ophelje…
 firefoxview-syncedtabs-loading-description-2 = Der wurdt syngronisearre. Ljepblêden folgje ynkoarten.
 firefoxview-tabpickup-fxa-admin-disabled-header = Jo organisaasje hat syngronisaasje útskeakele
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } is net yn steat om ljepblêden tusken apparaten te syngronisearjen, omdat jo behearder syngronisaasje útskeakele hat.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } is net yn steat om ljepblêden tusken apparaten te syngronisearjen, omdat jo organisaasje syngronisaasje útskeakele hat.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Ljepblêdsyngronisaasje is útskeakele
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Jo organisaasje hat dizze funksje blokkearre.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Untskoattelje ljepblêden mei jo haadwachtwurd
 firefoxview-tabpickup-password-locked-description-2 = Foar jo privacy binne syngronisearre ljepblêden beskerme. Fier jo haadwachtwurd foar { -brand-short-name } yn om ljepblêden fan jo oare apparaten te besjen.
 firefoxview-tabpickup-signed-out-header = Oanmelde om opnij te ferbinen
-firefoxview-tabpickup-signed-out-description = Meld jo oan by jo { -fxaccount-brand-name } om opnij te ferbinen en jo ljepblêden op te pakken.
 firefoxview-tabpickup-signed-out-description2 = Meld jo oan by jo account om opnij te ferbinen en jo ljepblêden op te heljen.
 firefoxview-tabpickup-signed-out-primarybutton = Oanmelde
 firefoxview-tabpickup-signed-out-header-2 = Meld jo oan om ljepblêden te sjen
 firefoxview-tabpickup-signed-out-description-2 = Meitsje opnij ferbining om ljepblêden fan oare apparaten te besjen.
-firefoxview-tabpickup-syncing = Bliuw sitten wylst jo ljepblêden syngronisearje. It duorret mar in amerijke.
-firefoxview-mobile-promo-header = Iepenje ljepblêden fan jo telefoan of tablet
-firefoxview-mobile-promo-description = Meld jo oan by { -brand-product-name } op iOS of Android om jo lêste mobile ljepblêden te besjen.
-firefoxview-mobile-promo-primarybutton = { -brand-product-name } foar mobyl downloaden
-firefoxview-mobile-confirmation-header = 🎉 Jo binne ree!
-firefoxview-mobile-confirmation-description = No kinne jo jo { -brand-product-name }-ljepblêden fan jo tablet of telefoan iepenje.
-firefoxview-closed-tabs-title = Koartlyn sluten
-firefoxview-closed-tabs-description2 = Iepenje siden opnij dy’t jo yn dit finster sluten hawwe.
-firefoxview-closed-tabs-placeholder-header = Gjin koartlyn sluten ljepblêden
-firefoxview-closed-tabs-placeholder-body = Wannear’t jo in ljepblêd yn dit finster slute, kinne jo it hjir ophelje.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = { $tabTitle } slute
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Lêst aktyf
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = { $targetURI } iepenje yn in nij ljepblêd
-firefoxview-try-colorways-button = Kleurstellingen probearje
-firefoxview-change-colorway-button = Kleurstelling wizigje
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Noch neat te sjen
-firefoxview-synced-tabs-placeholder-body = De folgjende kear dat jo op in oar apparaat in side iepenje yn { -brand-product-name }, pak dy dan hjir as is it magy.
 firefoxview-collapse-button-show =
     .title = List toane
 firefoxview-collapse-button-hide =

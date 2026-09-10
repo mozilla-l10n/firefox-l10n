@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Jarraitu instalazioa
     .accesskey = J
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Gune hau zure MIDI (Musical Instrument Digital Interface) gailuetarako sarbidea eskatzen ari da. Gehigarri bat instalatuz gai daiteke gailuetarako sarbidea.
 site-permission-install-first-prompt-midi-message = Ezin da ziurtatu sarbidea segurua denik. Jarraitu soilik gunea konfiantzazkoa bada.
 site-permission-install-first-prompt-serial-header = Gune hau zure serieko gailuetarako sarbidea eskatzen ari da. Gailuetarako sarbidea gehigarri bat instalatuz gai daiteke.
 site-permission-install-first-prompt-serial-message = Ezin da ziurtatu sarbidea segurua denik. Jarraitu soilik gunea konfiantzazkoa bada.
-
-##
-
-xpinstall-disabled-locked = Softwarearen instalazioa sistemaren kudeatzaileak ezgaitu du.
 xpinstall-disabled-by-policy = Softwarearen instalazioa desgaitu du zure erakundeak.
 xpinstall-disabled = Softwareren instalazioa ezgaituta dago. Egin klik 'Gaitu' botoian eta saiatu berriro.
 xpinstall-disabled-button =
     .label = Gaitu
     .accesskey = G
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) blokeatu du zure sistemaren administratzaileak.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Zure sistemaren kudeatzaileak gune honi galarazi egin dio ordenagailuan softwarea instalatzeaz galdetzea.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = Amaitu { -brand-short-name }(e)ra inportatutako hedapen
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = { $name } kendu?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Kendu { $name } { -brand-shorter-name }(e)tik?
 addon-removal-button = Kendu
 addon-removal-abuse-report-checkbox = Salatu hedapen hau { -vendor-short-name }(r)i
 # "it" refers to the local AI model that is paired to the AI feature
@@ -139,7 +122,5 @@ addon-local-install-no-addon-name-error-file-access = Ezin izan da gehigarria in
 addon-install-error-incompatible = Ezin da { $addonName } instalatu ez delako { -brand-short-name } { $appVersion } bertsioarekin bateragarria.
 addon-install-error-hard-blocked = { $addonName } gehigarriak Mozillaren politikak bortxatzen ditu eta ezin da { -brand-short-name }(e)n instalatu.
 addon-install-error-soft-blocked2 = { $addonName } gehigarria mugatuta dago eta ezin da { -brand-short-name }(e)n instalatu.
-addon-install-error-blocklisted = Ezin izan da { $addonName } instalatu egonkortasun- eta segurtasun-arazoak eragiteko arrisku handia daukalako.
-addon-install-error-soft-blocked = { $addonName } gehigarriak Mozillaren politikak bortxatzen ditu eta ezin da { -brand-short-name }(e)n instalatu.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Ezin duzu erabiltzaile gisa { $addonName } gehigarria instalatu, enpresa-politikak darabiltzan erakunde batek bakarrik instala dezake.

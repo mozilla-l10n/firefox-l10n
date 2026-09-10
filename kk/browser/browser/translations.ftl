@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Бұл парақты аудару
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Аудару орындалуда
 translations-panel-settings-button =
     .aria-label = Аударма баптауларын басқару
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } БЕТА
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Тілдерді басқару
-translations-panel-settings-about = { -brand-shorter-name } ішіндегі аудармалар туралы
 translations-panel-settings-about2 =
     .label = { -brand-shorter-name } ішіндегі аудармалар туралы
 # Text displayed for the option to always translate a given language
@@ -91,14 +82,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = Кешіріңіз, { $language } тілінен аудармаға әлі қолдау жоқ.
 translations-panel-error-unsupported-hint-unknown-2 = Кешіріңіз, бұл тілден аудармаға әлі қолдау жоқ.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Кешіріңіз, { $language } тіліне қолдау әлі жоқ.
-translations-panel-error-unsupported-hint-unknown = Кешіріңіз, бұл тілге қолдау әлі жоқ.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -130,10 +113,6 @@ translations-manage-header = Аудармалар
 translations-manage-settings-button =
     .label = Баптаулар…
     .accesskey = т
-translations-manage-description = Желіден тыс аударма үшін тілдерді жүктеп алу.
-translations-manage-all-language = Барлық тілдер
-translations-manage-download-button = Жүктеп алу
-translations-manage-delete-button = Өшіру
 translations-manage-intro-2 = Тілді және сайт аудармасының баптауларын орнатыңыз және желіден тыс аударма үшін жүктеліп алынған тілдерді басқарыңыз.
 translations-manage-download-description = Желіден тыс аударма үшін тілдерді жүктеп алу
 translations-manage-language-download-button =
@@ -147,12 +126,11 @@ translations-manage-language-remove-all-button =
     .label = Барлығын өшіру
     .accesskey = ш
 translations-manage-error-download = Тілдік файлды жүктеп алу кезінде мәселе орын алды. Қайталап көріңіз.
-translations-manage-error-delete = Тілдік файлдарды өшіру кезінде қате орын алды. Қайталап көріңіз.
 translations-manage-error-remove = Тілдік файлдарды өшіру кезінде қате орын алды. Қайталап көріңіз.
 translations-manage-error-list = Аударма үшін қолжетімді тілдер тізімін алу сәтсіз аяқталды. Әрекетті қайталау үшін бетті жаңартыңыз.
 translations-settings-title =
-    .title = Аударма баптаулары
     .style = min-width: 36em
+    .title = Аударма баптаулары
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Келесі тілдер үшін аударма автоматты түрде орындалады
@@ -246,16 +224,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = Кешіріңіз, { $language } тілінен аудармаға әлі қолдау жоқ.
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = Кешіріңіз, бұл тілден аудармаға әлі қолдау жоқ.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Кешіріңіз, { $language } тіліне қолдау әлі жоқ.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Кешіріңіз, бұл тілге қолдау әлі жоқ.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Аударма баптаулары

@@ -16,8 +16,6 @@ styleeditor-save-button = Danndu
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Cuɓe Taƴtorde Panni
-styleeditor-editor-textbox =
-    .data-placeholder = Tappu ɗoo CSS.
 styleeditor-no-stylesheet = Ngoo hello alaa hay ɗerewol panni gootol.
 styleeditor-no-stylesheet-tip = Ina gasa tawa aɗa yidi <a data-l10n-name="append-new-stylesheet">ɓeydude ɗerewol panni kesol</a>?
 styleeditor-open-link-new-tab =

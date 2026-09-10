@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>您的默认搜索引擎有变动。</strong>“{ $oldEngine }”不再作为 { -brand-short-name } 的默认搜索引擎，现已替换为“{ $newEngine }”。若要使用其他搜索引擎，请前往“设置”页面。<label data-l10n-name="remove-search-engine-article">详细了解</label>
 removed-search-engine-message2 = <strong>您的默认搜索引擎有变动。</strong>“{ $oldEngine }”不再作为 { -brand-short-name } 的默认搜索引擎，现已替换为“{ $newEngine }”。若要使用其他搜索引擎，请前往“设置”页面。
 remove-search-engine-button = 确定
 
@@ -52,11 +51,11 @@ install-search-engine-no = 取消
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = 添加搜索引擎
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = 编辑搜索引擎
     .style = min-width: 32em;
+    .title = 编辑搜索引擎
 add-engine-button = 添加自定义引擎
 add-engine-name = 搜索引擎名称
 add-engine-url2 = 网址（用 %s 代替搜索词）
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = 请尝试用 %s 代替搜索词。
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = 添加搜索引擎
-    .buttonaccesskeyaccept = A
     .buttonlabelextra1 = 高级
+    .buttonaccesskeyaccept = A
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = 保存引擎
-    .buttonaccesskeyaccept = S
     .buttonlabelextra1 = 高级
+    .buttonaccesskeyaccept = S

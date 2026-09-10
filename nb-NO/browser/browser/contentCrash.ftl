@@ -18,13 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Du har en usendt krasjrapport
-       *[other] Du har { $reportCount } usendte krasjrapporter
-    }
 pending-crash-reports-view-all =
     .label = Vis
 pending-crash-reports-send =
@@ -37,13 +30,6 @@ requested-crash-reports-message-new =
     { $reportCount ->
         [one] Du har en usendt krasjrapport relatert til krasj som blir undersøkt. Om du sender denne vil du hjelpe oss med å forbedre { -brand-product-name }. Hvis du lukker dette varselet, ignoreres disse rapportene.
        *[other] Du har { $reportCount } usendte krasjrapporter relatert til krasj som blir undersøkt. Om du sender disse vil du hjelpe oss med å forbedre { -brand-product-name }. Hvis du lukker dette varselet, ignoreres disse rapportene.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Du har en usendt krasjrapport som samsvarer med krasj som undersøkes. Om du sender denne vil du hjelpe oss med å forbedre { -brand-product-name }. Hvis du lukker dette varselet, ignoreres denne rapporten.
-       *[other] Du har { $reportCount } usendte krasjrapporter som samsvarer med krasj som undersøkes. Om du sender disse vil du hjelpe oss med å forbedre { -brand-product-name }. Hvis du lukker dette varselet, ignoreres disse rapportene.
     }
 requested-crash-reports-dont-show-again =
     .label = Ikke vis igjen

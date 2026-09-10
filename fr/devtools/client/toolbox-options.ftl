@@ -188,8 +188,6 @@ options-disable-http-cache-tooltip =
     .title = Activer cette option désactivera le cache HTTP pour l’ensemble des onglets dans lesquels la boîte à outils est ouverte. Cette option n’a aucun effet sur les service workers.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label-2 = Désactiver JavaScript
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Désactiver JavaScript *
 options-disable-javascript-tooltip =
     .title = Activer cette option désactivera JavaScript pour l’onglet courant. Ce paramètre sera oublié à la fermeture de l’onglet ou de la boîte à outils.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -219,8 +217,6 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = (pour cette session, recharge la page)
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Pour cette session, recharge la page
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (actualise la page)

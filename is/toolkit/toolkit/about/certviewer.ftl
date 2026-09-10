@@ -120,4 +120,3 @@ certificate-viewer-tab-mine = Skilríkin þín
 certificate-viewer-tab-people = Fólk
 certificate-viewer-tab-servers = Netþjónar
 certificate-viewer-tab-ca = Vottunarstöðvar
-certificate-viewer-tab-unkonwn = Óþekkt

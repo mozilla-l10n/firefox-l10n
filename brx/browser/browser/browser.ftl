@@ -2,49 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title }  — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Private Browsing
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Private Browsing
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Private Browsing
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Private Browsing
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Private Browsing
@@ -59,15 +16,8 @@ urlbar-eme-notification-anchor =
     .tooltiptext = DRM software बाहायनायखौ सामलाइ
 urlbar-autoplay-notification-anchor =
     .tooltiptext = गावनो गोमगा् फेनेलखौ खुलि
-urlbar-tip-help-icon =
-    .title = मदद नागिर
 urlbar-search-tips-confirm = Okay, मिथिबाय
 urlbar-search-tips-confirm-short = मिथिबाय
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = सुबुरुन:
 urlbar-result-menu-button =
     .title = मेनु खेव
 urlbar-result-menu-learn-more2 = गोबां सोलों
@@ -106,8 +56,6 @@ urlbar-screen-blocked =
     .tooltiptext = नों बे वेबसाइथनि फरदाखखौ गुबुनजों बाहागो खालामनायनिफाय बन्द खालामना दोनबाय
 urlbar-persistent-storage-blocked =
     .tooltiptext = नों बे वेबसाइथनि दलरै थानाय थिनानै दोनगा् जायगाखौ बन्द खालामना दोनबाय
-urlbar-popup-blocked =
-    .tooltiptext = नों बे वेबसाइथनि फफ आफ खौ बन्द खालामना दोनबाय
 urlbar-autoplay-media-blocked =
     .tooltiptext = नों बे वेबसाइथनि गावनो गाव गोमगा् मिदिया आरो सोदोबखौ बन्द खालामना दोनबाय
 urlbar-canvas-blocked =
@@ -198,9 +146,6 @@ search-one-offs-actions =
 ## the action. English commas should be used, i.e. ,
 
 quickactions-cmd-bookmarks = बुकमार्कफोर
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = जारिमिनखौ खोमोर
-quickactions-cmd-clearhistory = जारिमिनखौ खोमोर
 quickactions-cmd-downloads = डाउनल'डफोर
 # Opens about:logins
 quickactions-logins2 = पासवर्डफोरखौ सोमलाय
@@ -218,7 +163,6 @@ quickactions-cmd-restart = फिन जागाय
 quickactions-cmd-update = आपडेट
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = बिलाइ फुंखाखौ नाय
-quickactions-cmd-viewsource = फुंखाखौ नाय, फुंखा
 
 ## Bookmark Panel
 
@@ -246,7 +190,6 @@ bookmark-panel =
 
 identity-connection-secure = रोखाथि गोनां फोनांजाब
 identity-connection-failure = फोनांजाब फेलें
-identity-https-only-label = HTTPS-लो म'ड
 identity-https-only-dropdown-on =
     .label = अन
 identity-https-only-dropdown-off =
@@ -256,9 +199,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-permissions-storage-access-learn-more = गोबां सोलों
 identity-clear-site-data =
     .label = कुकिज आरो साइट दाटा फोरखौ खोमोर...
-identity-disable-mixed-content-blocking =
-    .label = दानि थाखाय रैखाथिखौ लोरबां खालाम
-    .accesskey = D
 identity-more-info-link-text =
     .label = गोबां फोरमायथिहोग्रा
 
@@ -268,13 +208,6 @@ browser-window-minimize-button =
     .tooltiptext = मिनिमाइज खालाम
 browser-window-close-button =
     .tooltiptext = बन्द खालाम
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = दामगासिनो
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = सावगारि सिङाव सावगारि
 
 ## WebRTC Pop-up notifications
 
@@ -314,8 +247,6 @@ urlbar-extension =
     .value = बारायनायफोर:
 urlbar-go-button2 =
     .title = लकेसन बारनि थंआव थां
-urlbar-go-button =
-    .tooltiptext = लकेसन बारनि थंआव थां
 
 ## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
 ## results with last-visited dates like history and top sites, these strings
@@ -330,20 +261,9 @@ urlbar-result-action-switch-tab = टेबाव थां
 urlbar-result-action-visit = थां
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = कपि खालाम
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
-urlbar-searchmode-tabs =
-    .label = टेबफोर
-urlbar-searchmode-history =
-    .label = जारिमिन
-urlbar-searchmode-actions =
-    .label = एक्सनफोर
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -400,12 +320,6 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = बुकमाकॅफोर
 
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = { -pocket-brand-name } आव थिना दोन
-    .tooltiptext = { -pocket-brand-name } आव थिना दोन
-
 ##
 
 # Variables:
@@ -444,8 +358,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = बाहायग्रा मुं
-panel-save-update-password = पासवर्ड
 panel-save-update-username-2 =
     .label = बाहायग्रा मुं
 panel-save-update-password-2 =
@@ -459,22 +371,6 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = बन्द खालाम
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = { $uriHost } नि थाखाय प'पआपखौ गनायथि हो
-    .accesskey = p
-popups-infobar-block =
-    .label = { $uriHost } नि थाखाय प'पआपखौ ब्लक खालाम
-    .accesskey = p
-
-##
-
-popups-infobar-dont-show-message =
-    .label = प'पआपखौ ब्लक खालामनाय समाव बे खौरांखौ दिनथिनो नाङा
-    .accesskey = D
-
 ##
 
 # This string is a spoken label that should not include
@@ -484,8 +380,6 @@ navbar-accessible =
     .aria-label = नेभिगेसन
 navbar-downloads =
     .label = डाउनल'डफोर
-navbar-overflow =
-    .tooltiptext = गोबां टुल...
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

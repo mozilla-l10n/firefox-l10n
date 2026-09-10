@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Laai tans sertifikaat af
     .style = min-width: 46em
+    .title = Laai tans sertifikaat af
 download-cert-message = U is gevra om 'n nuwe sertifikaatowerheid (SO) te vertrou.
 download-cert-trust-ssl =
     .label = Vertrou hierdie SO om webwerwe te identifiseer.
@@ -37,8 +37,6 @@ download-cert-view-text = Ondersoek SO-sertifikaat
 
 client-auth-window =
     .title = Gebruikersidentifikasie-versoek
-client-auth-site-description = Die werf versoek dat u uself deur middel van 'n sertifikaat identifiseer:
-client-auth-choose-cert = Kies 'n sertifikaat om as identifikasie aan te bied:
 client-auth-cert-details = Besonderhede van gekose sertifikaat:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

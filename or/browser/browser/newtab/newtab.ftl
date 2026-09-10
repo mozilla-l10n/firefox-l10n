@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = ନୂତନ ଟ୍ୟାବ
-newtab-settings-button =
-    .title = ଆପଣଙ୍କର ନୂତନ ଟ୍ୟାବ ପୃଷ୍ଠାକୁ ଇଚ୍ଛାରୂପଣ କରନ୍ତୁ
 
 ## Firefox Home content
 
@@ -26,7 +24,6 @@ newtab-search-box-search-button =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = ଖୋଜା ଯନ୍ତ୍ର ଯୋଗ କରନ୍ତୁ
-newtab-topsites-edit-topsites-header = ସବୁଠାରୁ ଭଲ ସାଇଟଗୁଡ଼ିକୁ ସମ୍ପାଦନ କରନ୍ତୁ
 newtab-topsites-title-label = ଶୀର୍ଷକ
 newtab-topsites-title-input =
     .placeholder = ଏକ ଶୀର୍ଷକ ଭରନ୍ତୁ
@@ -61,10 +58,6 @@ newtab-menu-section-tooltip =
 newtab-menu-content-tooltip =
     .aria-label = { $title } ପାଇଁ ତାଲିକା ଖୋଲନ୍ତୁ
     .title = ତାଲିକା ଖୋଲନ୍ତୁ
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = ଏହି ସାଇଟକୁ ସମ୍ପାଦନ କରନ୍ତୁ
-    .title = ଏହି ସାଇଟକୁ ସମ୍ପାଦନ କରନ୍ତୁ
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -75,14 +68,6 @@ newtab-menu-dismiss = ବରଖାସ୍ତ
 newtab-menu-pin = ପିନ୍
 newtab-menu-unpin = ଅସଂଲଘ୍ନ
 newtab-menu-delete-history = ପୁରୁଣା ତଥ୍ୟରୁ ବାହାର କରନ୍ତୁ
-newtab-menu-save-to-pocket = { -pocket-brand-name }ରେ ସଂରକ୍ଷଣ କରନ୍ତୁ
-newtab-menu-delete-pocket = { -pocket-brand-name }ରୁ ବିଲୋପ କରନ୍ତୁ
-newtab-menu-archive-pocket = { -pocket-brand-name }ରେ ସକ୍ରିୟ
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = ସମାପ୍ତ
-newtab-privacy-modal-header = ଆପଣଙ୍କର ଗୋପନୀୟତା ଜରୁରୀ ଅଟେ
 
 ##
 
@@ -123,31 +108,12 @@ newtab-label-download = ଆହରଣ ହୋଇସାରିଛି
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = ପରିଚ୍ଛେଦ ହଟାନ୍ତୁ
-newtab-section-menu-collapse-section = ପରିଚ୍ଛେଦକୁ ଜାକି ଦିଅନ୍ତୁ
-newtab-section-menu-expand-section = ପରିଚ୍ଛେଦକୁ ବିସ୍ତୃତ କରିଦିଅନ୍ତୁ
-newtab-section-menu-manage-section = ପରିଚ୍ଛେଦ ପରିଚାଳନା
-newtab-section-menu-manage-webext = ଏକଷ୍ଟେନ୍ସନ ପରିଚାଳନା
-newtab-section-menu-add-topsite = ସବୁଠାରୁ ଭଲ ସାଇଟଟିଏ ଯୋଡ଼ନ୍ତୁ
-newtab-section-menu-add-search-engine = ଖୋଜା ଯନ୍ତ୍ର ଯୋଗ କରନ୍ତୁ
-newtab-section-menu-move-up = ଉପରକୁ ଯାଆନ୍ତୁ
-newtab-section-menu-move-down = ତଳକୁ ଯାଆନ୍ତୁ
 newtab-section-menu-privacy-notice = ଗୋପନୀୟତା ବିଜ୍ଞପ୍ତି
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = ପରିଚ୍ଛେଦକୁ ଜାକି ଦିଅନ୍ତୁ
-newtab-section-expand-section-label =
-    .aria-label = ପରିଚ୍ଛେଦକୁ ବିସ୍ତୃତ କରିଦିଅନ୍ତୁ
 
 ## Section Headers.
 
 newtab-section-header-topsites = ସବୁଠାରୁ ଭଲ ସାଇଟଗୁଡ଼ିକ
 newtab-section-header-recent-activity = ସାମ୍ପ୍ରତିକ ଗତିବିଧି
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider }ଦ୍ୱାରା ସୁପାରିଶକୃତ
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -158,21 +124,8 @@ newtab-discovery-empty-section-topstories-loading = ଲୋଡ଼ ହେଉଛି
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = ଓହୋ! ପରିଚ୍ଛେଦଟି ଲୋଡ ହଉ ହଉ ରହିଗଲା ।
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = ଲୋକପ୍ରିୟ ବିଷୟଗୁଡ଼ିକ:
-newtab-pocket-more-recommendations = ଅଧିକ ସୁପାରିଶ
-newtab-pocket-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
-newtab-pocket-cta-button = { -pocket-brand-name } ପାଆନ୍ତୁ
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = ଇସ୍, ଏହି ବିଷୟବସ୍ତୁ ଲୋଡ୍ କରିବାରେ କିଛି ଗଡ଼ବଡ଼ ଦେଖାଯାଇଛି।
 newtab-error-fallback-refresh-link = ପୃଷ୍ଠାଟିକୁ ରିଫ୍ରେଶ କରି ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ
-
-## New Tab Appearance (browser theme picker)
-
-newtab-custom-recent-title = ସାମ୍ପ୍ରତିକ ଗତିବିଧି
-newtab-custom-close-button = ବନ୍ଦ କରନ୍ତୁ

@@ -26,24 +26,10 @@ xpinstall-prompt-never-allow =
 xpinstall-prompt-install =
     .label = Շարունակել տեղակայումը
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = Ծրագրերի տեղակայումը պասիւացուել է Ձեր համակարգի վարիչի կողմից։
 xpinstall-disabled = Ծրագրերի տեղակայումը ժամանակաւորապէս պասիւացուած է։ Սեղմէք ակտիւացնել եւ կրկին փորձէք։
 xpinstall-disabled-button =
     .label = Միացնել
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName }({ $addonId }) արգելափակուած է Ձեր վարչարարի կողմից։
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Ձեր համակարգի վարիչն արգելել է այս կայքին բեռնել ծրագրաշար համակարգչում։
 addon-install-full-screen-blocked = Յաւելումի տեղադրումը չի թոյլատրուում լիեկրան աշխատակերպում կամ նախքան լիեկրան կերպին անցնելը։
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -57,9 +43,6 @@ webext-perms-update-menu-item = { $addonName }-ը պահանջում է նոր �
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Հեռացնե՞լ { $name }-ը
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Հեռացնե՞լ { $name }֊ը { -brand-shorter-name }֊ից։
 addon-removal-button = Հեռացնել
 addon-removal-abuse-report-checkbox = Դիմել { -vendor-short-name }-ին ընդլայման խնդրի վերաբերեալ
 # Variables:
@@ -112,4 +95,3 @@ addon-local-install-error-not-signed = Այս հաւելումը հնարաւո�
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName }-ը հնարաւոր չէ տեղադրել, որովհետեւ համատեղելի չէ { -brand-short-name } { $appVersion }-ի հետ։
-addon-install-error-blocklisted = { $addonName }-ը հնարաւոր չէ տեղադրել, որովհետեւ այն պարունակում է անվտանգութեան խնդիրներ։

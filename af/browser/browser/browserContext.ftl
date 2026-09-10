@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Gaan een bladsy terug ({ $shortcut })
     .aria-label = Terug
+    .tooltiptext = Gaan een bladsy terug ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Gaan een bladsy vorentoe ({ $shortcut })
     .aria-label = Vorentoe
+    .tooltiptext = Gaan een bladsy vorentoe ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -98,9 +98,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = Stoor skakel as…
     .accesskey = e
-main-context-menu-save-link-to-pocket =
-    .label = Stoor skakel in { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -181,18 +178,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = E-pos klank…
     .accesskey = a
-main-context-menu-save-to-pocket =
-    .label = Stoor bladsy in { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Stuur bladsy na toestel
-    .accesskey = r
 
 ##
 
-main-context-menu-keyword =
-    .label = Voeg 'n sleutelwoord vir dié soektog by…
-    .accesskey = s
 main-context-menu-link-send-to-device =
     .label = Stuur skakel na toestel
     .accesskey = r

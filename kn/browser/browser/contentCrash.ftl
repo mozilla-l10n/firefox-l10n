@@ -5,13 +5,6 @@
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] ‍ನೀವು ಕಳಿಸದಿರುವ ಕ್ರಾಶ್ ವರದಿಯನ್ನು ಹೊಂದಿದ್ದೀರಿ
-       *[other] ನೀವು { $reportCount } ಕಳಿಸದಿರುವ ಕ್ರಾಶ್ ವರದಿಗಳನ್ನು ಹೊಂದಿದ್ದೀರಿ
-    }
 pending-crash-reports-view-all =
     .label = ನೋಟ
 pending-crash-reports-send =

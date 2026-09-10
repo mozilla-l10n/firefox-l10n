@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = На предыдущую страницу ({ $shortcut })
     .aria-label = Назад
+    .tooltiptext = На предыдущую страницу ({ $shortcut })
     .accesskey = Н
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = На следующую страницу ({ $shortcut })
     .aria-label = Вперёд
+    .tooltiptext = На следующую страницу ({ $shortcut })
     .accesskey = В
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name(case: "nominative_uppercase") }
-    .tooltiptext = { -fxaccount-brand-name(case: "nominative_uppercase") }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Добавить страницу в закладки…
-    .accesskey = а
     .tooltiptext = Добавить страницу в закладки
+    .accesskey = а
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Добавить страницу в закладки…
-    .accesskey = а
     .tooltiptext = Добавить страницу в закладки ({ $shortcut })
+    .accesskey = а
 main-context-menu-edit-bookmark =
     .aria-label = Изменить закладку…
-    .accesskey = м
     .tooltiptext = Изменить закладку
+    .accesskey = м
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Изменить закладку…
-    .accesskey = м
     .tooltiptext = Изменить закладку ({ $shortcut })
+    .accesskey = м
 main-context-menu-open-link =
     .label = Открыть ссылку
     .accesskey = О
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Сохранить объект как…
     .accesskey = С
-main-context-menu-save-link-to-pocket =
-    .label = Сохранить ссылку в { -pocket-brand-name }
-    .accesskey = р
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Включить син
 main-context-menu-send-to-mobile-connect-phone3 = Подключить устройство, чтобы отправить вкладки
 main-context-menu-send-to-mobile-connect-phone-from-link = Подключить устройство, чтобы отправить ссылку
 main-context-menu-send-to-mobile-connect-phone-from-page = Подключить устройство, чтобы отправить страницу
-main-context-menu-save-to-pocket =
-    .label = Сохранить страницу в { -pocket-brand-name }
-    .accesskey = ь
-main-context-menu-send-to-device =
-    .label = Отправить страницу на устройство
-    .accesskey = п
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Использовать сохранённый логин
-    .accesskey = й
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Использовать сохранённый пароль
     .accesskey = н
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Использовать псевдоним эл. почты { -relay-brand-short-name }
     .accesskey = н
 main-context-menu-suggest-strong-password =
     .label = Предложить надёжный пароль…
     .accesskey = ж
-main-context-menu-manage-logins2 =
-    .label = Управление логинами
-    .accesskey = п
 main-context-menu-manage-passwords =
     .label = Управление паролями
     .accesskey = ь
-main-context-menu-keyword =
-    .label = Добавить ключевое слово для этого запроса…
-    .accesskey = к
 main-context-menu-add-engine =
     .label = Добавить поисковую систему
     .accesskey = Ы
@@ -393,9 +366,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Сделать снимок экрана
     .accesskey = э
-main-context-menu-take-frame-screenshot =
-    .label = Сделать снимок экрана
-    .accesskey = н
 main-context-menu-view-page-source =
     .label = Исходный код страницы
     .accesskey = о

@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Indikator Berbagi
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Indikator Berbagi
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Anda sedang membagikan mikrofon Anda. Klik untuk mengendalikan berbagi.
 webrtc-screen-system-menu =
     .label = Anda sedang membagikan jendela atau layar Anda. Klik untuk mengendalikan berbagi.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Kamera dan mikrofon Anda sedang dibagikan. Klik untuk mengendalikan berbagi.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Kamera Anda sedang dibagikan. Klik untuk mengendalikan berbagi.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Mikrofon Anda sedang dibagikan. Klik untuk mengendalikan berbagi.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Sebuah aplikasi sedang dibagikan. Klik untuk mengendalikan berbagi.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Layar Anda sedang dibagikan. Klik untuk mengendalikan berbagi.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Sebuah jendela sedang dibagikan. Klik untuk mengendalikan berbagi.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Sebuah tab sedang dibagikan. Klik untuk mengendalikan berbagi.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -161,7 +142,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Izinkan { $origi
 
 webrtc-share-screen-warning = Hanya bagikan layar dengan situs yang Anda percaya. Berbagi layar memungkinkan situs penipuan untuk menjelajah sebagai Anda dan mencuri data pribadi Anda.
 webrtc-share-browser-warning = Hanya bagikan { -brand-short-name } dengan situs yang Anda percaya. Berbagi memungkinkan situs penipuan untuk menjelajah sebagai Anda dan mencuri data pribadi Anda.
-webrtc-share-screen-learn-more = Pelajari Lebih Lanjut
 webrtc-pick-window-or-screen = Pilih Jendela atau Layar
 webrtc-share-entire-screen = Seluruh layar
 webrtc-share-pipe-wire-portal = Gunakan pengaturan sistem operasi

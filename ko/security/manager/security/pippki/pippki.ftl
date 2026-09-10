@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = 현재 FIPS 모드입니다. FIPS는 비�
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = 기본 비밀번호 재설정
     .style = min-width: 40em
+    .title = 기본 비밀번호 재설정
 reset-password-button-label =
     .label = 재설정
 reset-primary-password-text = 기본 비밀번호를 재설정하면, 저장된 모든 웹, 이메일 비밀번호, 양식 데이터, 개인 인증서 및 개인 키에 접근하지 못하게 됩니다. 정말로 기본 비밀번호를 재설정하시겠습니까?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = 기본 비밀번호가 재설정되
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = 인증서 다운로드 중
     .style = min-width: 46em
+    .title = 인증서 다운로드 중
 download-cert-message = 새 인증 기관 (CA)을 신뢰하라는 요청을 받았습니다.
 download-cert-trust-ssl =
     .label = 신뢰된 인증 기관 (웹 사이트)
@@ -52,8 +52,6 @@ download-cert-view-text = 인증 기관 인증서 조사
 
 client-auth-window =
     .title = 개인 인증서 요청
-client-auth-site-description = 이 사이트에서 인증서로 본인을 식별하도록 요청:
-client-auth-choose-cert = 제공할 인증서 선택:
 client-auth-send-no-certificate =
     .label = 인증서를 보내지 않음
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = 보안 기기({ $tokenName })로 인증해 주세요. 인증 방법은 기기에 따라 다릅니다 (예: 지문 인식기 사용 또는 키패드로 코드 입력).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = “{ $tokenName }” 토큰으로 인증하세요. 이를 수행하는 방법은 토큰에 따라 다릅니다 (예: 지문 판독기 사용 또는 키패드로 코드 입력).

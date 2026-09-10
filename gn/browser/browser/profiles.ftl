@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } ijurujáta pe mba’ete eiporuramovévape.
 profile-window-create-profile = Emoheñói mba’ete
 profile-card-edit-button =
-    .title = Embosako’i mba’ete
     .aria-label = Embosako’i mba’ete
+    .title = Embosako’i mba’ete
 profile-card-delete-button =
-    .title = Emboguete mba’ete
     .aria-label = Emboguete mba’ete
+    .title = Emboguete mba’ete
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Embojuruja { $profileName }
     .aria-label = Embojuruja { $profileName }
+    .title = Embojuruja { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Mba’ete { $number }
@@ -83,9 +83,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Embogue mba’ete { $profilename }
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = Embogue mba’ete { $profilename }
 delete-profile-description = { -brand-short-name } omboguetéta ko’ã mba’ekuaarã ko mba’e’okágui:
 # Open is an adjective, as in "browser windows currently open".
@@ -112,28 +109,10 @@ delete-profile-confirm = Mboguete
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Tesakã
-# The default dark theme
-profiles-dark-theme = Ypytũ
 # The default system theme
 profiles-system-theme = Apopyvusu
 profiles-system-theme-title =
     .title = Emoĩ téma apopyvusugua
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = Sa’yju narã overáva
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = Líla kangy
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = Menta hovyũva
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = Pytãngymíva
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = Hovy mbarete
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = Pytã ladríllo
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = Ehecha ygáu
 profiles-gray-theme = Hũngy
 profiles-gray-theme-title =
     .title = Emoĩ téma hũngýva
@@ -290,9 +269,6 @@ profiles-appmenu-callout-tour-subtitle = Poravorã ☰, eikutu ne mba’ete rér
 profiles-appmenu-callout-tour-primary-button = Ehechauka mba’éichapa
 barbell-avatar = Bárra mba’epohýi reheve
 bike-avatar = Vísi
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Embohéra avatar rupa
 bike-avatar-tooltip =

@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Man nikuqub'äx ta k'u'x chi rij re ruwujil 
 cert-error-trust-signature-algorithm-disabled = Man kuqub'an ta kuxaj chi rij ri ruwujil b'i'aj, ruma chi juch'un rik'in jun rub'eyal jik'oj, ri xchuputäj ruma chi itzel.
 cert-error-trust-expired-issuer = Man nikuqub'äx ta k'u'x chi rij re ruwujil b'i'aj ruma chi ri tikirisanel rutzij ri ruwujil b'i'aj xk'is ruq'ijul.
 cert-error-trust-self-signed = Man ütz ta re jun ruwujil b'i'aj re' ruma chi yonijuch'un.
-cert-error-trust-symantec = Ri taq iqitzijib'äl elesan ruma GeoTrust. RapidSSL, Symantec, Thawte, chuqa' VeriSign yetz'et chi man e jikïl ta chik ruma chi ri kik'amöl taq b'ey iqitzijib'äl man xekojqajta ri taq rusamaj jikomal ke la' kan.
 cert-error-untrusted-default = Ri ruwujil b'i'aj man petenäq ta pa jun kuqel ruxe'el.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -52,10 +51,6 @@ cert-error-code-prefix-link = Rusachoj b'itz'ib': <a data-l10n-name="error-code-
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Xk'ulwachitäj jun sachoj toq ntajin ri okem pa { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Ri ajk'amaya'l taq ruxaq nikitojtob'ej ri ab'anikil kik'in taq iqitzijib'äl e'elesan kuma ri kik'amöl taq b'ey iqitzijib'anem. Konojel ri taq okik'amaya'l man nikikuqub'a' ta chik kik'u'x chi kij ri taq iqitzijib'äl elesan kuma GeoTrust, RapidSSL, Symantec, Thawte, chuqa' VeriSign. { $hostname } nrokisaj jun riqitzijib'al jun chi ke re k'amöl taq b'ey re' ruma ri' toq man tikirel ta nitojtob'ëx rub'anikil ri ajk'amaya'l ruxaq.
-cert-error-symantec-distrust-admin = Yatikïr naya' rutzijol chi re ri runuk'samajel ajk'amaya'l ruxaq chi rij re k'ayewal re'.
 cert-error-old-tls-version = Rik'in jub'a' re ruxaq man nuk'ül ta ri rub'eyal TLS 1.2, ja ri ko'öl ruwäch nuk'ül ri { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -64,7 +59,6 @@ cert-error-details-hsts-label = HTTP Jikïl ruchajixik ruk'waxik: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Xjikib'äx ri ewan tzij kichin winäq: { $hasHPKP }
 cert-error-details-cert-chain-label = Rucholajil wujil:
-open-in-new-window-for-csp-or-xfo-error = Tijaq Ruxaq pa jun K'ak'a' Tzuwäch
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Richin nichajïx ri ajikomal, man xtuya' ta q'ij ri { $hostname } chi re ri { -brand-short-name } richin nuk'üt pe ri ruxaq we jun chik ruxaq k'amaya'l ruch'ikib'an. Richin nitz'et re ruxaq re', k'o chi nijaq pa jun k'ak'a' tzuwäch.
@@ -97,7 +91,6 @@ redirectLoop-title = Man ütz ta tajin niq'axan ri ruxaq k'amaya'l
 unknownSocketType-title = Man oyob'en ta re rutzijol tajin nuya' pe ri ruk'u'x samaj
 nssFailure2-title = Xq'ate' ri ütz okem
 csp-xfo-error-title = { -brand-short-name } Man Nitikïr Ta Nujäq Re Ruxaq Re'
-corruptedContentError-title = Sachoj Ruma Itzel Rupam
 sslv3Used-title = Man tikirel ta ütz nok
 inadequateSecurityError-title = Itzel ri awokem
 blockedByPolicy-title = Xq'at Ruxaq

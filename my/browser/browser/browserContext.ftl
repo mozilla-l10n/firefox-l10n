@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = တစ်မျက်နှာ နောက်ဆုတ်ပါ ({ $shortcut })
     .aria-label = နောက်သို့
+    .tooltiptext = တစ်မျက်နှာ နောက်ဆုတ်ပါ ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = တစ်မျက်နှာ ရှေ့သွားပါ ({ $shortcut })
     .aria-label = ရှေ့သို့
+    .tooltiptext = တစ်မျက်နှာ ရှေ့သွားပါ ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -178,15 +178,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = အော်ဒီယိုကို အီးမေးလ်ပို့ရန်…
     .accesskey = a
-main-context-menu-send-to-device =
-    .label = စာမျက်နှာကို ကိရိယာသို့ ပို့ပါ
-    .accesskey = D
 
 ##
 
-main-context-menu-keyword =
-    .label = ဒီရှာဖွေမှုအတွက် အဓိကစာလုံးကို ထည့်ပါ…
-    .accesskey = K
 main-context-menu-link-send-to-device =
     .label = လင့်ခ်ကို ကိရိယာသို့ ပို့ပါ
     .accesskey = D

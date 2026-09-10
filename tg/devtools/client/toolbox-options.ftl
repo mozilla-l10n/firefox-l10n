@@ -121,8 +121,6 @@ options-disable-http-cache-tooltip =
     .title = Фаъолсозии ин имкон зерҳофизаи «HTTP»-ро барои ҳамаи варақаҳое, ки дорои қуттии абзорҳои кушода мебошанд, ғайрифаъол мекунад. Ин имкон ба коргузори хизматрасонӣ таъсир намерасонад.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label-2 = Ғайрифаъол кардани «JavaScript»
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Ғайрифаъол кардани JavaScript *
 options-disable-javascript-tooltip =
     .title = Фаъолсозии ин имкон «JavaScript»-ро барои варақаи ҷорӣ ғайрифаъол мекунад. Агар варақа ё қуттии абзорҳо пӯшида шавад, пас ин танзим бекор карда мешавад.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -152,8 +150,6 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = (танҳо ҷаласаи ҷорӣ, саҳифаро аз нав бор мекунад)
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Танҳо ҷаласаи ҷорӣ, саҳифаро аз нав бор мекунад
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (саҳифаро аз нав бор мекунад)

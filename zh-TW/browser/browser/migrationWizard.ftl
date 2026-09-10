@@ -19,11 +19,6 @@ migration-wizard-selection-option-without-profile = { $sourceBrowser }
 #  $sourceBrowser (String): the name of the browser to import from.
 #  $profileName (String): the name of the user profile to import from.
 migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
-
-# Each migrator is expected to include a display name string, and that display
-# name string should have a key with "migration-wizard-migrator-display-name-"
-# as a prefix followed by the unique identification key for the migrator.
-
 migration-wizard-migrator-display-name-brave = Brave
 migration-wizard-migrator-display-name-canary = Chrome Canary
 migration-wizard-migrator-display-name-chrome = Chrome
@@ -75,7 +70,6 @@ migration-bookmarks-option-label = 書籤
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = 我的最愛
-migration-logins-and-passwords-option-label = 儲存的登入資訊與密碼
 migration-passwords-option-label = 已存密碼
 migration-history-option-label = 瀏覽紀錄
 migration-extensions-option-label = 擴充套件
@@ -197,8 +191,6 @@ migration-chrome-windows-password-import-step4 = 回到此處，然後點擊「�
 migration-manual-password-import-skip-button = 略過
 migration-manual-password-import-cancel-button = 取消
 migration-manual-password-import-select-button = 選擇檔案
-migration-safari-password-import-skip-button = 略過
-migration-safari-password-import-select-button = 選擇檔案
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #

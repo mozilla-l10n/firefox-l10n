@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = Mbwíʔ yêts ré
 
@@ -56,8 +51,6 @@ urlbar-switch-to-tab =
     .value = Xhe loo gibb:
 urlbar-go-button2 =
     .title = Cuan taa diff loo
-urlbar-go-button =
-    .tooltiptext = Cuan taa diff loo
 
 ## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
 ## results with last-visited dates like history and top sites, these strings
@@ -124,8 +117,6 @@ ui-tour-info-panel-close =
 
 navbar-downloads =
     .label = Koo blaal
-navbar-overflow =
-    .tooltiptext = Loo ree yibb...
 navbar-search =
     .title = KwàɁn
 # Name for the tabs toolbar as spoken by screen readers. The word

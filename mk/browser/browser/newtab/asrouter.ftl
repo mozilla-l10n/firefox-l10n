@@ -50,15 +50,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Синхронизирајте ги вашите обележувачи насекаде.
-cfr-doorhanger-bookmark-fxa-body = Одличен пронајдок! Сега не останувајте без овој обележувач на мобилните уреди. Започнете со { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Синхронизирај обележувачи сега...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = копче Затвори
     .title = Затвори
-
-## Protections panel
-
-cfr-protections-panel-link-text = Дознајте повеќе
 
 ## What's New toolbar button and panel
 

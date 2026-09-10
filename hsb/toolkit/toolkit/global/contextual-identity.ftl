@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Žadyn kontejner
-    .accesskey = n
 user-context-manage-containers =
     .label = Kontejnery rjadować
     .accesskey = K

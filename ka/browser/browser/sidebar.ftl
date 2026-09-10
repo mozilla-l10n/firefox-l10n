@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = ისტორიის გასუფთავება
 sidebar-history-sort-by-heading-menucaption =
     .label = დალაგება:
-sidebar-history-sort-by-heading = დალაგება:
 sidebar-history-sort-option-date =
     .label = თარიღით
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = გვერდითი ზოლის გაფართოებები
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name } – ხელსაწყოები
 sidebar-customize-firefox-settings = გამართეთ { -brand-short-name }
 sidebar-vertical-tabs =
     .label = შვეული ჩანართები
 sidebar-settings2 =
     .label = პარამეტრები
-sidebar-settings =
-    .label = გვერდითი ზოლის გამართვა
 sidebar-hide-tabs-and-sidebar =
     .label = ჩანართების და გვერდითი ზოლის დამალვა
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = გაფართოების მართვა
-sidebar-context-menu-remove-extension =
-    .label = გაფართოების მოცილება
 sidebar-context-menu-report-extension =
     .label = გაფართოების გასაჩივრება
 sidebar-context-menu-open-in-tab =

@@ -10,7 +10,6 @@ neterror-page-title = ପୃଷ୍ଠା ଧାରଣ କରିବାରେ ସ�
 ## Error page actions
 
 neterror-learn-more-link = ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ…
-neterror-try-again-button = ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ
 
 ## Specific error messages
 
@@ -25,8 +24,6 @@ neterror-file-not-found-filename = ଅକ୍ଷର ପ୍ରକାର କିମ�
 neterror-file-not-found-moved = ଫାଇଲଟି କଢ଼ାଯାଇଛି କି ନାହିଁ , ପୁନଃନାମକରଣ ଅଥବା ଅପସାରଣ ହୋଇଛି କି ନାହିଁ ଦେଖିବା ପାଇଁ ଯାଞ୍ଚ କରନ୍ତୁ।
 neterror-unknown-protocol = ଏହି ଠିକଣାକୁ ଖୋଲିବା ପାଇଁ ଆପଣଙ୍କୁ ହୁଏତଃ ଅନ୍ୟ ସଫ୍ଟୱେର ସ୍ଥାପନ କରିବାକୁ ଆବଶ୍ୟକ ହୋଇପାରେ।
 neterror-redirect-loop = ଏହି ସମସ୍ୟା ବେଳେବେଳେ କୁକିଗୁଡ଼ିକୁ ଗ୍ରହଣ କରିବାରୁ ନିଷ୍କ୍ରିୟକରିବା କିମ୍ବା ବାରଣ କରିବା ହେତୁ ଘଟିଥାଏ।
-neterror-unknown-socket-type-psm-installed = ନିଶ୍ଚିତ କରିବା ପାଇଁ ଯାଞ୍ଚକରନ୍ତୁ ଯେ ଆପଣଙ୍କର ତନ୍ତ୍ରରେ ବ୍ୟକ୍ତିଗତ ସୁରକ୍ଷା ପରିଚାଳକ ସ୍ଥାପିତ ଅଛି।
-neterror-unknown-socket-type-server-config = ଏହା ହୁଏତଃ ସର୍ଭରରେ କୌଣସି ମାନ୍ୟତାପ୍ରାପ୍ତ ହୋଇନଥିବା ସଂରଚନା ହେତୁ ହୋଇଥାଏ।
 neterror-not-cached-intro = ଅନୁରୋଧ କରାଯାଇଥିବା ଦଲିଲଟି { -brand-short-name } ର କ୍ୟାଶେରେ ଉପଲବ୍ଧ ନାହିଁ।
 neterror-not-cached-sensitive = ସୁରକ୍ଷା ଦୃଷ୍ଟିକୋଣରୁ, { -brand-short-name } ଜରୁଜୀ ଦଲିଲଗୁଡ଼ିକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ପୁନଃ-ଅନୁରୋଧ କରିନଥାଏ।
 neterror-not-cached-try-again = ୱେବସାଇଟରୁ ଦଲିଲକୁ ପୁନଃ-ଅନୁରୋଧ କରିବା ପାଇଁ ପୁଣଥରେ ଚେଷ୍ଟାକରନ୍ତୁ କୁ କ୍ଲିକ କରନ୍ତୁ।

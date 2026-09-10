@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Περισσότερα από τη { -vendor-short-name }
 more-from-moz-page-header =
     .heading = Περισσότερα από τη { -vendor-short-name }
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } για κινητέ
 more-from-moz-firefox-mobile-description = Το πρόγραμμα περιήγησης για κινητές συσκευές με προτεραιότητα στο απόρρητό σας.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } για κινητές συσκευές
 more-from-moz-firefox-mobile =
-    .label = { -brand-product-name } για κινητές συσκευές
     .description = Το πρόγραμμα περιήγησης για κινητές συσκευές που θέτει σε προτεραιότητα το απόρρητό σας.
+    .label = { -brand-product-name } για κινητές συσκευές
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Ανακαλύψτε ένα επιπλέον επίπεδο ανώνυμης περιήγησης και προστασίας.
 more-from-moz-qr-code-box-firefox-mobile-title = Κάντε λήψη στην κινητή σας συσκευή. Στρέψτε την κάμερά σας προς τον κωδικό QR. Όταν εμφανιστεί ένας σύνδεσμος, πατήστε τον.
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = Απόκτηση του { -relay-brand-shor
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Πάρτε αυτόματα πίσω τα εκτεθειμένα προσωπικά σας στοιχεία.
 more-from-moz-mozilla-monitor-global-description = Λάβετε ειδοποιήσεις όταν τα δεδομένα σας έχουν παραβιαστεί.
 more-from-moz-mozilla-monitor-button = Απόκτηση του { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Δημιουργήστε άμεσα τον ιστότοπό σας και συνδέστε τον δικό σας προσαρμοσμένο τομέα δωρεάν.
 more-from-moz-solo-button = Δοκιμή του { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = { -solo-ai-brand-name } — Δημιουργία ιστοτόπων με ΤΝ
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = Αποστολή συνδέσμου λ
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = Μάθετε πού έχουν εκτεθεί οι προσωπικές σας πληροφορίες στο διαδίκτυο με μια δωρεάν σάρωση.
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = Λάβετε επιπλέον προστασία για όλες τις εφαρμογές, όχι μόνο για το πρόγραμμα περιήγησής σας. Διατηρήστε τα δεδομένα σας ασφαλή σε δημόσια Wi-Fi και επισφαλή δίκτυα.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = Προστατέψτε τα εισερχόμενά σας από ανεπιθύμητα μηνύματα με δωρεάν μάσκες email.
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = Μάθετε προγραμματισμό ιστού με δωρεάν οδηγούς και πόρους.
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = Αποκτήστε πρόσβαση στο ηλεκτρονικό ταχυδρομείο, τα ημερολόγια και τις επαφές σας με μια γρήγορη εφαρμογή.
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = Δημιουργήστε άμεσα τον ιστότοπό σας και συνδέστε δωρεάν τον δικό σας προσαρμοσμένο τομέα.
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = Νέα προϊόντα της { -vendor-short-name }
     .description = Εξερευνήστε τις τελευταίες ιδέες και πειραματικές τεχνολογίες μας.
+    .label = Νέα προϊόντα της { -vendor-short-name }
 more-from-moz-mozilla-monitor-box-link =
     .label = Απόκτηση του { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =

@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = Sayt malümatını kör
 
@@ -38,8 +33,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Devre-tışı mağaz mesaj panelini aç
 urlbar-password-notification-anchor =
     .tooltiptext = Saqlanğan sır-söz mesaj panelini aç
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Plagin qullanımını idare et
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Sayt ile kamera ve/yaki mikrofonnı üleşmeni idare etiñiz
 urlbar-autoplay-notification-anchor =
@@ -70,8 +63,6 @@ urlbar-screen-blocked =
     .tooltiptext = Bu saytnıñ ekranıñıznı üleşmesini bloklağan olasıñız.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Bu sayt içün sebatkâr mağaznı bloklağan olasıñız.
-urlbar-popup-blocked =
-    .tooltiptext = Bu ağ-saytı içün peydalarnı bloklağan olasıñız.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Bu ağ-saytı içün davuşlı avto-oynat vasatını bloklağan olasıñız.
 urlbar-canvas-blocked =
@@ -149,7 +140,6 @@ identity-active-blocked = { -brand-short-name } bu saifeniñ emniyetli olmağan 
 identity-passive-loaded = Bu saifeniñ bazı qısımları (meselâ, suretler) emniyetli degildir.
 identity-active-loaded = Bu saifede imayeni naqabilleştirdiñiz.
 identity-weak-encryption = Bu saife zayıf şifreleme qullana.
-identity-insecure-login-forms = Bu saifede kirsetilgen içeri imzalanışlarğa halel kelebilir.
 identity-permissions-reload-hint = Deñişikliklerniñ uyğulanması içün saifeni kene yüklemeñiz kerekebilir.
 identity-clear-site-data =
     .label = Çörekler ve Sayt Verilerini Temizle…
@@ -157,7 +147,6 @@ identity-remove-cert-exception =
     .label = İstisnanı Çetleştir
     .accesskey = e
 identity-description-insecure = Bu saytqa bağlantıñız hususiy degildir. Teslim etkeniñiz malümat (sır-sözler, mesajlar, kredit kartları vs.) başqaları tarafından körülebilir edi.
-identity-description-insecure-login-forms = Bu saifede kirsetecegiñiz içeri imzalanış malümatı emniyetli degildir ve oña halel berilebilir.
 identity-description-weak-cipher-intro = Bu ağ-saytına bağlantıñız zayıf şifreleme qullana ve hususiy degildir.
 identity-description-weak-cipher-risk = Başqa kişiler malümatıñıznı körebilir yaki ağ-saytınıñ davranışını başqalaştırabilir.
 identity-description-active-blocked2 = { -brand-short-name } bu saifeniñ emniyetli olmağan qısımlarını bloklağandır.
@@ -166,12 +155,6 @@ identity-description-passive-loaded-insecure2 = Bu sayt emniyetli olmağan muhte
 identity-description-passive-loaded-mixed2 = { -brand-short-name } bazı muhtevanı bloklağan olmasına rağmen, bu saifede halâ emniyetli olmağan muhteva (meselâ, suretler) bardır.
 identity-description-active-loaded = Bu sayt emniyetli olmağan muhteva (meselâ, bitikler) ihtiva ete ve oña bağlantıñız hususiy degildir.
 identity-description-active-loaded-insecure = Bu sayt ile üleşkeniñiz malümat (sır-sözler, mesajlar, kredit kartları vs. kibi) başqaları tarafından körülebilir edi.
-identity-disable-mixed-content-blocking =
-    .label = Şimdilik imayeni naqabilleştir
-    .accesskey = n
-identity-enable-mixed-content-blocking =
-    .label = İmayeni qabilleştir
-    .accesskey = l
 identity-more-info-link-text =
     .label = Daa Çoq Malümat
 
@@ -206,8 +189,6 @@ urlbar-extension =
     .value = Uzantı:
 urlbar-go-button2 =
     .title = Qonum Çubuğındaki adreske bar
-urlbar-go-button =
-    .tooltiptext = Qonum Çubuğındaki adreske bar
 urlbar-page-action-button =
     .tooltiptext = Saife amelleri
 
@@ -277,12 +258,6 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Saife-imleri Alet-çubuğını Gizle
            *[other] Saife-imleri Alet Çubuğını Köster
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Alet Çubuğından Saife-imleri Menüsini Çetleştir
-           *[other] Alet Çubuğına Saife-imleri Menüsini Ekle
-        }
 
 ##
 
@@ -301,12 +276,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Saife-imleri
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = { -pocket-brand-name }’ke Saqla
-    .tooltiptext = { -pocket-brand-name }’ke Saqla
 
 ##
 
@@ -344,28 +313,10 @@ eme-notifications-drm-content-playing = Bu sayttaki bazı audio yaki video DRM y
 ui-tour-info-panel-close =
     .tooltiptext = Qapat
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = { $uriHost } içün peyda pencerelerge izin ber
-    .accesskey = P
-popups-infobar-block =
-    .label = { $uriHost } içün peyda pencerelerni blokla
-    .accesskey = P
-
-##
-
-popups-infobar-dont-show-message =
-    .label = Peydalar bloklanğanda bu mesajnı kösterme
-    .accesskey = d
-
 ##
 
 navbar-downloads =
     .label = Endirmeler
-navbar-overflow =
-    .tooltiptext = Daa çoq alet…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

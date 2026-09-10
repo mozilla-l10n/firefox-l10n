@@ -14,15 +14,3 @@ extension-firefox-compact-dark-name = Ćmawy
 extension-firefox-compact-dark-description = Motyw ze ćmawymi farbami
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Użyj bōntych knefli, myni i ôkiyn.
-
-## Colorway Themes
-## These themes are variants of a colorway. The colorway is specified in the
-## $colorway-name variable.
-## Variables
-##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
-
-extension-colorways-soft-name = { $colorway-name } — delikatno
-extension-colorways-balanced-name = { $colorway-name } — Zbalansowano
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-extension-colorways-bold-name = { $colorway-name } — Wyrazisto

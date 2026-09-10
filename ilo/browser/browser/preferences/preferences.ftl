@@ -3,20 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pane-general-title = Sapasap
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-search-title2 = Search
     .title = Search
-pane-search-title = Search
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 focus-search =
     .key = f
 close-button =
@@ -30,17 +20,11 @@ restart-later = Irugi Manen Intono Madamdama
 
 ## General Section
 
-startup-header = Pagirugian
 startup-group =
     .label = Pagirugian
 
 ## General Section - Language & Appearance
 
-default-font-size = Kadakkel
-    .accesskey = K
-advanced-fonts =
-    .label = Nangatngato...
-    .accesskey = a
 choose-button =
     .label = Pilien...
     .accesskey = o
@@ -54,9 +38,6 @@ download-save-files-header =
     .label = Pagidulinan ti intar
 download-save-where-3 =
     .aria-label = Pagidulinan ti intar
-download-header = Downloads
-download-save-where = Pagidulinan ti intar
-    .accesskey = v
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } nga intar
@@ -74,8 +55,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -87,12 +66,6 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-## Firefox updates
-
-update-application-use-service =
-    .label = Akinlikod a serbisio ti manginstala iti pagtarimaan
-    .accesskey = A
-
 ## General Section - Performance
 
 performance-allow-hw-accel =
@@ -101,7 +74,6 @@ performance-allow-hw-accel =
 
 ## Accessibility page
 
-browsing-title = Panagsursur
 browsing-group =
     .label = Panagsursur
 
@@ -150,20 +122,6 @@ history-private-browsing-permanent =
 ## Privacy Section - Site Data
 
 sitedata-total-size-calculating = Bilbilangen ti kadakkel dagiti datos ti sitio ken impempen a damdamag …
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Dagiti indulin a galietas, datos ti sitio ken dadduma nga impempen ket agnanaed iti { $value } a { $unit } iti disk.
-
-## Privacy Section - Permissions
-
-permissions-addon-exceptions =
-    .label = Laksid...
-    .accesskey = E
-
-## Privacy Section - Certificates
-
-certs-header = Sertipiko
 
 ## The following strings are used in the Download section of settings
 

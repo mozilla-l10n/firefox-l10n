@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = Sertifikat Anda
 certificate-viewer-tab-people = Perseorangan
 certificate-viewer-tab-servers = Server
 certificate-viewer-tab-ca = Otoritas
-certificate-viewer-tab-unkonwn = Tidak dikenal

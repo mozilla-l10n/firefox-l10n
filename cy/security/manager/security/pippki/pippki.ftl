@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Rydych ym modd FIPS. Mae FIPS angen gyfrin
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Ailosod Prif Gyfrinair
     .style = min-width: 40em
+    .title = Ailosod Prif Gyfrinair
 reset-password-button-label =
     .label = Ailosod
 reset-primary-password-text = Os byddwch yn ailosod eich Prif Gyfrinair, bydd eich cyfrineiriau gwe ac e-bost, data ffurflen, tystysgrifau personol ac allweddi preifat sydd wedi eu cadw'n cael eu colli. Ydych chi'n siŵr eich bod eisiau ailosod eich Prif Gyfrinair?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Mae eich Prif Gyfrinair wedi cael e
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Wrthi'n Llwytho Tystysgrifau i Lawr
     .style = min-width: 46em
+    .title = Wrthi'n Llwytho Tystysgrifau i Lawr
 download-cert-message = Rydych wedi cael cais i ymddiried mewn Awdurdod Tystysgrifo (CA) newydd.
 download-cert-trust-ssl =
     .label = Ymddiried yn yr Awdurdod Tystysgrifo i adnabod gwefannau.
@@ -52,8 +52,6 @@ download-cert-view-text = Archwilio tystysgrif Awdurdod Tystysgrifo
 
 client-auth-window =
     .title = Cais am Adnabod Defnyddiwr
-client-auth-site-description = Mae'r wefan yn gofyn i chi ddweud pwy ydych gyda thystysgrif diogelwch:
-client-auth-choose-cert = Dewiswch dystysgrif i'w chyflwyno fel adnabyddiaeth:
 client-auth-send-no-certificate =
     .label = Peidio ag anfon tystysgrif
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Dilyswch i'r ddyfais ddiogelwch ( { $tokenName } ). Mae sut i wneud hynny yn dibynnu ar y ddyfais (er enghraifft, defnyddio darllenydd olion bysedd neu nodi cod gyda bysellbad).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Dilyswch i'r tocyn “{ $tokenName }”. Mae sut i wneud hynny yn dibynnu ar y tocyn (er enghraifft, defnyddio darllenydd bysbrint neu roi cod gyda bysellbad).

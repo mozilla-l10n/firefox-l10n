@@ -153,15 +153,10 @@ addon-sitepermission-host = Permisiuni site-uri pentru { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Toate suplimentele sunt dezactivate în modul Sigur.
-extensions-warning-check-compatibility = Verificarea compatibilității suplimentelor este dezactivată. Ai putea avea suplimente incompatibile.
-extensions-warning-safe-mode2 =
-    .message = Toate suplimentele sunt dezactivate în modul Sigur.
 extensions-warning-check-compatibility2 =
     .message = Verificarea compatibilității suplimentelor este dezactivată. Ai putea avea suplimente incompatibile.
 extensions-warning-check-compatibility-button = Activează
     .title = Activează verificarea compatibilității suplimentelor
-extensions-warning-update-security = Verificarea securității actualizărilor de suplimente este dezactivată. Ai putea primi actualizări compromise.
 extensions-warning-update-security2 =
     .message = Verificarea securității actualizărilor de suplimente este dezactivată. Ai putea primi actualizări compromise.
 extensions-warning-update-security-button = Activează
@@ -237,10 +232,6 @@ shortcuts-duplicate = Comandă rapidă duplicată
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } este folosită drept comandă rapidă în mai mult de un caz. Comenzile rapide duplicate pot produce comportamente neașteptate.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } este folosită drept comandă rapidă în mai mult de un caz. Comenzile rapide duplicate pot produce comportamente neașteptate.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -261,11 +252,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Extensiile și temele sunt ca un fel de aplicații pentru browser și îți permit să îți protejezi parolele, să descarci videoclipuri, să descoperi oferte, să blochezi reclame enervante, să schimbi aspectul browserului și multe altele. Aceste programe software mici sunt adesea dezvoltate de părți terțe. Iată o selecție pe care { -brand-product-name } <a data-l10n-name="learn-more-trigger">o recomandă</a> pentru securitate, performanță și funcționalitate de excepție.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Unele dintre aceste recomandări sunt personalizate. Această selecție se bazează pe alte extensii pe care le-ai instalat, pe preferințele de profil și pe statisticile de utilizare.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message = Unele dintre aceste recomandări sunt personalizate. Această selecție se bazează pe alte extensii pe care le-ai instalat, pe preferințele de profil și pe statisticile de utilizare.
@@ -353,16 +339,9 @@ addon-detail-last-updated-label = Ultima actualizare
 addon-detail-homepage-label = Pagină de start
 addon-detail-rating-label = Evaluare
 # Message for add-ons with a staged pending update.
-install-postponed-message = Această extensie va fi actualizată la repornirea { -brand-short-name }.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Această extensie va fi actualizată la repornirea { -brand-short-name }.
 install-postponed-button = Actualizează acum
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Evaluat la { NUMBER($rating, maximumFractionDigits: 1) } din 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -381,9 +360,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> a fost eliminat.
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = { $addon } a fost eliminat.
 pending-uninstall-undo-button = Anulează
@@ -400,11 +376,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Permis în ferestre private
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Permis în ferestre private
 addon-detail-private-browsing-help = Când are accesul permis, extensia va avea acces la activitățile tale online în navigarea privată. <a data-l10n-name="learn-more">Află mai multe</a>
 addon-detail-private-browsing-allow = Permite
@@ -431,17 +402,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } recomandă numai extensiile care ne întrunesc standardele de securitate și performanță
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Extensie oficială creată de Mozilla. Întrunește standardele de securitate și performanță.
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Extensia a fost revizuită și întrunește standardele noastre de securitate și performanță
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -471,9 +431,6 @@ addon-permissions-heading = Permisiuni
 addon-permissions-empty2 = Această extensie nu necesită nicio permisiune.
 addon-permissions-required-label = Necesare:
 addon-permissions-optional-label = Opționale:
-addon-permissions-empty = Această extensie nu necesită nicio permisiune
-addon-permissions-required = Permisiuni necesare pentru funcționalitatea de bază:
-addon-permissions-optional = Permisiuni opționale pentru funcționalitatea adăugată:
 addon-permissions-learnmore = Află mai multe despre permisiuni
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -514,25 +471,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } este incompatibil cu { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } este incompatibil cu { -brand-short-name } { $version }.
-details-notification-incompatible-link = Mai multe informații
-details-notification-unsigned-and-disabled = { $name } nu a putut fi verificat pentru a fi folosit în { -brand-short-name } și a fost dezactivat.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } nu a putut fi verificat pentru a fi folosit în { -brand-short-name } și a fost dezactivat.
-details-notification-unsigned-and-disabled-link = Mai multe informații
-details-notification-unsigned = { $name } nu a putut fi verificat pentru a fi folosit în { -brand-short-name }. Continuă cu atenție.
 details-notification-unsigned2 =
     .message = { $name } nu a putut fi verificat pentru a fi folosit în { -brand-short-name }. Continuă cu atenție.
 details-notification-hard-blocked-extension =
     .message = Această extensie este blocată pentru încălcarea politicilor Mozilla și a fost dezactivată.
 details-notification-hard-blocked-other =
     .message = Acest supliment este blocat pentru încălcarea politicilor Mozilla și a fost dezactivat.
-details-notification-unsigned-link = Mai multe informații
-details-notification-blocked = { $name } a fost dezactivat din cauza unor probleme de securitate sau stabilitate.
 details-notification-blocked-link2 = Vezi detalii
 details-notification-soft-blocked-extension-disabled2 =
     .message = Această extensie este restricționată și a fost dezactivată. O poți activa, dar poate fi riscant.
@@ -542,19 +490,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = Acest supliment este restricționat și a fost dezactivat. Îl poți activa, dar poate fi riscant.
 details-notification-soft-blocked-other-enabled2 =
     .message = Acest supliment este restricționat. Utilizarea lui poate fi riscantă.
-details-notification-soft-blocked-extension-disabled =
-    .message = Această extensie este restricționată pentru încălcarea politicilor Mozilla și a fost dezactivată. O poți activa, dar poate fi riscant.
-details-notification-soft-blocked-extension-enabled =
-    .message = Această extensie încalcă politicile Mozilla. Utilizarea ei poate fi riscantă.
-details-notification-soft-blocked-other-disabled =
-    .message = Acest supliment este restricționat pentru încălcarea politicilor Mozilla și a fost dezactivat. Îl poți activa, dar poate fi riscant.
-details-notification-soft-blocked-other-enabled =
-    .message = Acest supliment încalcă politicile Mozilla. Utilizarea lui poate fi riscantă.
 details-notification-softblocked-link2 = Vezi detalii
-details-notification-blocked-link = Mai multe informații
-details-notification-softblocked = Se știe că { $name } poate provoca probleme de securitate sau stabilitate.
-details-notification-softblocked-link = Mai multe informații
-details-notification-gmp-pending = { $name } va fi instalat în scurt timp.
 details-notification-gmp-pending2 =
     .message = { $name } va fi instalat în scurt timp.
 
@@ -570,8 +506,6 @@ plugins-widevine-description = Acest plugin permite redarea fișierelor multimed
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Colectare de date necesare:
-addon-permissions-optional-data-collection = Colectare de date opționale:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Permisiuni și date
 # This is a description for extension that use this AI model

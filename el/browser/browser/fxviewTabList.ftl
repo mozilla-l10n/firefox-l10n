@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxviewtabrow-open-menu-button =
-    .title = Άνοιγμα μενού
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
@@ -24,10 +22,6 @@ fxviewtabrow-dismiss-tab-button =
     .title = Απόρριψη «{ $tabTitle }»
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Μόλις τώρα
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-delete = Διαγραφή
     .accesskey = Δ
 fxviewtabrow-forget-about-this-site = Διαγραφή δεδομένων ιστοτόπου…
@@ -57,8 +51,6 @@ fxviewtabrow-send-to-device = Αποστολή σε συσκευή
     .accesskey = π
 fxviewtabrow-send-to-mobile = Αποστολή σε κινητή συσκευή
     .accesskey = π
-fxviewtabrow-send-tab = Αποστολή καρτέλας σε συσκευή
-    .accesskey = λ
 fxviewtabrow-pin-tab = Καρφίτσωμα καρτέλας
     .accesskey = Κ
 fxviewtabrow-unpin-tab = Ξεκαρφίτσωμα καρτέλας
@@ -82,8 +74,5 @@ fxviewtabrow-send-to-mobile-connect-device = Συνδέστε μια συσκε�
 fxviewtabrow-send-to-mobile-device-missing2 = Δεν βλέπετε τη συσκευή σας;
 fxviewtabrow-send-to-mobile-not-verified = Μη επαληθευμένος λογαριασμός
 fxviewtabrow-send-to-mobile-verify-account = Επαλήθευση λογαριασμού
-
-## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
-
 fxviewtabrow-send-to-mobile-sign-in = Συνδεθείτε για αποστολή καρτελών
 fxviewtabrow-send-to-mobile-turn-on-sync = Ενεργοποιήστε τον συγχρονισμό για αποστολή καρτελών

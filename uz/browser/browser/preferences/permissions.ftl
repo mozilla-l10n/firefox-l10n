@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Istisnolar
     .style = min-width: 45em
+    .title = Istisnolar
 permissions-close-key =
     .key = w
 permissions-address = Sayt manzili
@@ -45,16 +45,6 @@ permissions-capabilities-listitem-allow-session =
 
 permissions-invalid-uri-title = Notogʻri host nomi kiritilgan
 permissions-invalid-uri-label = Iltimos, toʻgʻri host nomini kiriting
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-desc = Siz xohlagan vebsaytlaringizga paydo boʻluvchi oynalarni ochishiga ruxsat berishingiz mumkin. Ruxsat bermoqchi boʻlgan saytingiz manzilini yozing va "Ruxsat berish" tugmasini bosing.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Istisnolar - saqlangan taxalluslar
-    .style = { permissions-window2.style }
 
 ## Exceptions - Add-ons
 

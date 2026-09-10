@@ -15,7 +15,6 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--lockwise-brand-name = Firefox Lockwise
 -monitor-brand-name = Firefox Monitor
 -mozmonitor-brand-name = Mozilla Monitor
 -send-brand-name = Firefox Send

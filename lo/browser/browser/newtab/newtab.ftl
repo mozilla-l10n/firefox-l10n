@@ -6,13 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = ແທັບໃຫມ່
-newtab-settings-button =
-    .title = ປັບແຕ່ງຫນ້າແທັບໃຫມ່ຂອງທ່ານ
-newtab-personalize-icon-label =
-    .aria-label = ປັບແຕ່ງແຖບໃໝ່
-    .title = ປັບແຕ່ງແຖບໃໝ່
-newtab-personalize-dialog-label =
-    .aria-label = ປັບແຕ່ງສ່ວນຕົວ
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 
@@ -85,7 +78,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = ເພີ່ມ Search Engine
 newtab-topsites-add-shortcut-header = ທາງລັດໃໝ່
-newtab-topsites-edit-topsites-header = ແກ້ໄຂເວັບໄຊທ໌ຍອດນິຍົມ
 newtab-topsites-edit-shortcut-header = ແກ້ໄຂທາງລັດ
 newtab-topsites-title-label = ຊື່ເລື່ອງ
 newtab-topsites-title-input =
@@ -123,14 +115,6 @@ newtab-topsite-sponsored = ໄດ້ຮັບການສະຫນັບສະ�
 newtab-menu-section-tooltip =
     .aria-label = ເປີດເມນູ
     .title = ເປີດເມນູ
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = ລຶບ
-    .title = ລຶບ
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = ແກ້ໄຂເວັບໄຊທ໌ນີ້
-    .title = ແກ້ໄຂເວັບໄຊທ໌ນີ້
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -141,22 +125,7 @@ newtab-menu-dismiss = ຍົກເລີກ
 newtab-menu-pin = ປັກໝຸດ
 newtab-menu-unpin = ຖອນປັກໝຸດ
 newtab-menu-delete-history = ລຶບອອກຈາກປະຫວັດການນຳໃຊ້
-newtab-menu-save-to-pocket = ບັນທືກໄປທີ່ { -pocket-brand-name }
-newtab-menu-delete-pocket = ລຶບອອກຈາກ { -pocket-brand-name }
-newtab-menu-archive-pocket = ເກັບຖາວອນໃນ { -pocket-brand-name }
 newtab-menu-show-privacy-info = ຜູ້ສະຫນັບສະຫນູນຂອງພວກເຮົາ & ຄວາມເປັນສ່ວນຕົວຂອງທ່ານ
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = ສຳເລັດ
-newtab-privacy-modal-button-manage = ຈັດການການຕັ້ງຄ່າເນື້ອຫາທີ່ສະປອນເຊີ
-newtab-privacy-modal-header = ຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າສຳຄັນ.
-newtab-privacy-modal-paragraph-2 =
-    ນອກ​ເໜືອ​ໄປ​ຈາກ​ການ​ເລົ່າ​ເລື່ອງ​ທີ່​ໜ້າ​ຈັບ​ໃຈ​ແລ້ວ, ພວກ​ເຮົາ​ຍັງ​ສະ​ແດງ​ໃຫ້​ທ່ານ​ເຫັນ​ກ່ຽວ​ກັບ
-    ເນື້ອຫາທີ່ໄດ້ຮັບການກວດສອບສູງຈາກຜູ້ສະຫນັບສະຫນູນທີ່ເລືອກ. ໝັ້ນໃຈໄດ້, <strong>ການທ່ອງເວັບຂອງເຈົ້າ
-    ຂໍ້ມູນບໍ່ເຄີຍຖິ້ມສຳເນົາສ່ວນຕົວຂອງເຈົ້າຂອງ { -brand-product-name }</strong> — ພວກເຮົາບໍ່ເຫັນມັນ, ແລະຂອງພວກເຮົາ
-    ຜູ້ສະຫນັບສະຫນູນກໍ່ບໍ່ໄດ້.
-newtab-privacy-modal-link = ຮຽນຮູ້ວິທີຄວາມເປັນສ່ວນຕົວເຮັດວຽກຢູ່ໃນແຖບໃໝ່
 
 ##
 
@@ -210,39 +179,16 @@ newtab-label-source-read-time = { $source } · { $timeToRead } ນທ
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = ລຶບສ່ວນ
-newtab-section-menu-collapse-section = ຍຸບສ່ວນ
-newtab-section-menu-expand-section = ຂະຫຍາຍສ່ວນ
-newtab-section-menu-manage-section = ຈັດການສ່ວນ
-newtab-section-menu-manage-webext = ຈັດການສ່ວນເສີມ
-newtab-section-menu-add-topsite = ເພີ່ມເວັບໄຊທ໌ຍອດນິຍົມ
-newtab-section-menu-add-search-engine = ເພີ່ມ Search Engine
-newtab-section-menu-move-up = ຍ້າຍຂື້ນ
-newtab-section-menu-move-down = ຍ້າຍລົງ
 newtab-section-menu-privacy-notice = ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = ຍຸບສ່ວນ
-newtab-section-expand-section-label =
-    .aria-label = ຂະຫຍາຍສ່ວນ
 
 ## Section Headers.
 
 newtab-section-header-topsites = ເວັບໄຊຕ໌ຍອດນິຍົມ
 newtab-section-header-recent-activity = ກິດ​ຈະ​ກໍາ​ທີ່​ຜ່ານ​ມາ
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = ແນະນຳໂດຍ { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ເລີ່ມການທ່ອງເວັບ ແລະ ພວກເຮົາຈະສະແດງເນື້ອຫາ, ວິດີໂອ ແລະ ຫນ້າອື່ນໆບາງສ່ວນທີ່ທ່ານຫາກໍເຂົ້າໄປເບິງມາ ຫລື ຫາກໍໄດ້ບຸກມາກໄວ້ທີ່ນີ້.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = ທ່ານໄດ້ອ່ານເລື່ອງລາວຄົບທັງຫມົດແລ້ວ. ທ່ານສາມາດກັບມາເບິ່ງເລື່ອງລາວເດັ່ນໄດ້ຈາກ { $provider } ໃນພາຍຫລັງ. ອົດໃຈຖ້າບໍ່ໄດ້ແມ່ນບໍ່? ເລືອກຫົວຂໍ້ຍອດນິຍົມເພື່ອຄົ້ນຫາເລື່ອງລາວທີ່ຍອດຢ້ຽມຈາກເວັບຕ່າງໆ.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -253,24 +199,6 @@ newtab-discovery-empty-section-topstories-loading = ກຳລັງໂຫລດ�
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = ອຸຍ! ພວກເຮົາເກືອບຈະໂຫລດພາກສ່ວນນີ້, ແຕ່ບໍ່ແມ່ນຂ້ອນຂ້າງ.
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = ຫົວຂໍ້ຍອດນິຍົມ:
-newtab-pocket-new-topics-title = ຕ້ອງການເລື່ອງເພີ່ມເຕີມບໍ? ເບິ່ງຫົວຂໍ້ຍອດນິຍົມເຫຼົ່ານີ້ຈາກ { -pocket-brand-name }
-newtab-pocket-more-recommendations = ຂໍ້ແນະນໍາເພີ່ມເຕີມ
-newtab-pocket-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
-newtab-pocket-cta-button = ຮັບ { -pocket-brand-name }
-newtab-pocket-cta-text = ຊ່ວຍບັນທຶກເລື່ອງທີ່ທ່ານຮັກໃນ { -pocket-brand-name }, ແລະນ້ໍາໃຈຂອງທ່ານກັບອ່ານທີ່ຫນ້າສົນໃຈ.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } ແມ່ນສ່ວນໜຶ່ງຂອງຄອບຄົວ { -brand-product-name }
-newtab-pocket-save = ບັນທຶກ
-newtab-pocket-saved = ບັນທຶກແລ້ວ
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = ຄົ້ນພົບສິ່ງທີ່ດີທີ່ສຸດຂອງເວັບ
-newtab-pocket-onboarding-cta = { -pocket-brand-name } ສຳຫຼວດຄວາມຫຼາກຫຼາຍຂອງສິ່ງພິມຕ່າງໆເພື່ອນຳເອົາເນື້ອຫາໃຫ້ຂໍ້ມູນ, ເປັນແຮງບັນດານໃຈ, ແລະ ເຊື່ອຖືໄດ້ຫຼາຍທີ່ສຸດໃຫ້ກັບຕົວທ່ອງເວັບ { -brand-product-name } ຂອງທ່ານ.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -279,8 +207,6 @@ newtab-error-fallback-refresh-link = ຟື້ນຟູໜ້າເພື່ອ�
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = ທາງລັດ
-newtab-custom-shortcuts-subtitle = ເວັບໄຊທທີ່ທ່ານໄດ້ບັນທຶກໄວ້ ຫລື ເຂົ້າໄປເບິງມາ
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = ເວັບໄຊທທີ່ທ່ານໄດ້ບັນທຶກໄວ້ ຫລື ເຂົ້າໄປເບິງມາ
@@ -292,17 +218,6 @@ newtab-custom-shortcuts-nova =
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
 newtab-custom-row-selector2 =
     .label = { $num } ແຖວ
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector = { $num } ແຖວ
-newtab-custom-sponsored-sites = ທາງລັດສະປອນເຊີ
-newtab-custom-pocket-title = ແນະນຳໂດຍ { -pocket-brand-name }
-newtab-custom-pocket-subtitle = ເນື້ອຫາພິເສດທີ່ຄັດສັນໂດຍ { -pocket-brand-name }, ສ່ວນຫນຶ່ງຂອງຄອບຄົວ { -brand-product-name }
-newtab-custom-pocket-sponsored = ເລື່ອງລາວທີ່ໄດ້ຮັບການສະຫນັບສະຫນູນ
-newtab-custom-pocket-show-recent-saves = ສະແດງບັນທຶກຫຼ້າສຸດ
-newtab-custom-recent-title = ກິດ​ຈະ​ກໍາ​ທີ່​ຜ່ານ​ມາ
-newtab-custom-recent-subtitle = ການເລືອກເວັບໄຊ ແລະເນື້ອຫາຫຼ້າສຸດ
-newtab-custom-close-button = ປິດ
 newtab-custom-settings = ຈັດການການຕັ້ງຄ່າເພີ່ມເຕີມ
 
 ## Strings for the Clock widget

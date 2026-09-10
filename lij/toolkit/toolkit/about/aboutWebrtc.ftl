@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = Sarva about:webrtc comme
 about-webrtc-aec-logging-msg-label = Registraçion AEC
 about-webrtc-aec-logging-off-state-label = Inandia registraçion AEC
 about-webrtc-aec-logging-on-state-label = Ferma registraçion AEC
-about-webrtc-aec-logging-on-state-msg = Registraçion AEC ativa (parlâ pe quarche menuto con 'n interlocutô e fermâ a registraçion)
 about-webrtc-aec-logging-toggled-on-state-msg = Registraçion AEC ativa (parlâ pe quarche menuto con 'n interlocutô e fermâ a registraçion)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -77,17 +76,9 @@ about-webrtc-nominated = Nominou
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Seleçionou
 about-webrtc-save-page-label = Sarva pagina
-about-webrtc-debug-mode-msg-label = Modalitæ de debug
-about-webrtc-debug-mode-off-state-label = Inandia modalitæ de debug
-about-webrtc-debug-mode-on-state-label = Ferma modalitæ de debug
-about-webrtc-stats-heading = Statistiche de-e sescioin
 about-webrtc-stats-clear = Scancella Stöia
 about-webrtc-log-heading = Registro de conescion
 about-webrtc-log-clear = Scancella Diaio
-about-webrtc-log-show-msg = Fanni vedde registro
-    .title = sciacca pe espande sta seçion
-about-webrtc-log-hide-msg = Ascondi registro
-    .title = sciacca pe asconde sta seçion
 about-webrtc-log-section-show-msg = Fanni vedde registro
     .title = Sciacca pe espande sta seçion
 about-webrtc-log-section-hide-msg = Ascondi registro
@@ -110,19 +101,11 @@ about-webrtc-remote-candidate = Candidou remòtto
 about-webrtc-raw-candidates-heading = Tutti i candidæ abretio
 about-webrtc-raw-local-candidate = Candidou locale abretio
 about-webrtc-raw-remote-candidate = Candidou remòtto abretio
-about-webrtc-raw-cand-show-msg = fanni vedde candidæ abretio
-    .title = sciacca pe espande sta seçion
-about-webrtc-raw-cand-hide-msg = ascondi candidæ abretio
-    .title = sciacca pe asconde sta seçion
 about-webrtc-raw-cand-section-show-msg = Fanni vedde candidæ abretio
     .title = Sciacca pe espande sta seçion
 about-webrtc-raw-cand-section-hide-msg = Ascondi candidæ abretio
     .title = Sciacca pe asconde sta seçion
 about-webrtc-priority = Prioritæ
-about-webrtc-fold-show-msg = fanni vedde detalli
-    .title = sciacca pe espande sta seçion
-about-webrtc-fold-hide-msg = ascondi detalli
-    .title = sciacca pe asconde sta seçion
 about-webrtc-fold-default-show-msg = Fanni vedde detalli
     .title = Sciacca pe espande sta seçion
 about-webrtc-fold-default-hide-msg = Ascondi detalli
@@ -132,10 +115,6 @@ about-webrtc-encoder-label = Codificatô
 
 ##
 
-about-webrtc-save-page-msg = Pagina sarvâ in: { $path }
-about-webrtc-debug-mode-off-state-msg = I registri de traccia en chi: { $path }
-about-webrtc-debug-mode-on-state-msg = Modalitæ de debug ativa, scritua registri de traccia in: { $path }
-about-webrtc-aec-logging-off-state-msg = i schedai de registro creæ en chi: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

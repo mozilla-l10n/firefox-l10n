@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxviewtabrow-open-menu-button =
-    .title = Eike poravorãme
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
@@ -24,10 +22,6 @@ fxviewtabrow-dismiss-tab-button =
     .title = Emboyke { $tabTitle }
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Ko’ag̃aite
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-delete = Mboguete
     .accesskey = D
 fxviewtabrow-forget-about-this-site = Eñenbuesarái ko Ñanduti Rendágui…
@@ -57,8 +51,6 @@ fxviewtabrow-send-to-device = Emondo mba’e’okápe
     .accesskey = n
 fxviewtabrow-send-to-mobile = Emondo pumbyrýpe
     .accesskey = n
-fxviewtabrow-send-tab = Emondo Tendayke Mba’e’okápe
-    .accesskey = n
 fxviewtabrow-pin-tab = Emboja tendayke
     .accesskey = P
 fxviewtabrow-unpin-tab = Epoi tendayke
@@ -82,8 +74,5 @@ fxviewtabrow-send-to-mobile-connect-device = Embojuaju mba’e’oka emondo hag�
 fxviewtabrow-send-to-mobile-device-missing2 = ¿Nderehechái ne mba’e’oka?
 fxviewtabrow-send-to-mobile-not-verified = Mba’ete ojehechajey’ỹva
 fxviewtabrow-send-to-mobile-verify-account = Ehechajey pe mba’ete
-
-## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
-
 fxviewtabrow-send-to-mobile-sign-in = Eike ñandutípe emondo hag̃ua tendayke
 fxviewtabrow-send-to-mobile-turn-on-sync = Emyandy ñembojuehe emondo hag̃ua tendaykeita

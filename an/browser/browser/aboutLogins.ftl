@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Inicios de sesión y claus
 fxaccounts-sign-in-text = Acceder a las claus dende totz los tuyos dispositivos
 fxaccounts-avatar-button =
     .title = Chestionar la cuenta
@@ -15,7 +14,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importar dende belatro navegador…
 about-logins-menu-menuitem-import-from-a-file = Importar dende un fichero…
-about-logins-menu-menuitem-export-logins = Exportar os inicios de sesión…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opcions
@@ -27,40 +25,22 @@ about-logins-menu-menuitem-help = Aduya
 
 login-list =
     .aria-label = Nombres d'usuario que coinciden con la busqueda
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } nombre d'usuario
-       *[other] { $count } nombres d'usuario
-    }
 login-list-sort-label-text = Ordenar per:
 login-list-name-option = Nombre (A-Z)
 login-list-name-reverse-option = Nombre (Z-A)
 about-logins-login-list-alerts-option = Alertas
 login-list-last-changed-option = Zaguera modificación
 login-list-last-used-option = Zaguer uso
-login-list-intro-title = No s'ha trobau garra nombre d'usuario
 login-list-intro-description = Quan alces una clau en { -brand-product-name }, s'amostrará aquí
-about-logins-login-list-empty-search-title = No s'ha trobau garra nombre d'usuario
 about-logins-login-list-empty-search-description = No i hai garra resultau que coincida con a busqueda
-login-list-item-title-new-login = Nuevo nombre d'usuario
-login-list-item-subtitle-new-login = Escribe la tuya información d'inicio de sesión
 login-list-item-subtitle-missing-username = (garra nombre d'usuario)
 about-logins-list-item-breach-icon =
     .title = Puesto web con filtración de datos
 about-logins-list-item-vulnerable-password-icon =
     .title = Clau vulnerable
 
-## Introduction screen
-
-about-logins-login-intro-heading-logged-in = No s'ha trobau garra inicio de sesión sincronizau.
-login-intro-description = Si has alzau inicios de sesión en { -brand-product-name } en belatro dispositivo, esta ye la manera de tener-los tamién aquí:
-about-logins-intro-import2 = Si os tuyos inicios de sesión son guardaus defuera de { -brand-product-name }, puetz <a data-l10n-name="import-browser-link"> importar-los dende atro navegador</a> u <a data-l10n-name="import-file-link"> dende un archivo</a>
-
 ## Login
 
-login-item-new-login-title = Creyar un nuevo nombre d'usuario
 login-item-edit-button = Editar
 about-logins-login-item-remove-button = Eliminar
 login-item-origin-label = Adreza d'o puesto web
@@ -76,7 +56,6 @@ login-item-password-reveal-checkbox =
     .aria-label = Amostrar a clau
 login-item-copy-password-button-text = Copiar
 login-item-copied-password-button-text = S'ha copiau!
-login-item-save-changes-button = Alzar los cambios
 login-item-save-new-button = Alzar
 login-item-cancel-button = Cancelar
 
@@ -88,11 +67,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Pa editar tu inicio de sesión, escribe las tuyas credencias d'acceso a Windows. Esto te aduya a protecher la seguranza d'as tuyas cuentas.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = editar l'inicio de sesión alzau
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Ta veyer a tuya clau, escribe las tuyas credencials d'acceso a Windows. Esto t'aduya a protecher la seguranza d'as tuyas cuentas.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -103,11 +77,6 @@ about-logins-copy-password-os-auth-dialog-message-win = Pa veyer a tuya clau, es
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copia la clau alzada
-# This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Pa exportar los tuyos inicios de sesión, escribe las tuyas credencials d'acceso a Windows. Esto t'aduya a protecher la seguranza d'as tuyas cuentas.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = exportar los inicios de sesión y claus
 
 ## Primary Password notification
 
@@ -121,15 +90,10 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Cancelar
 confirmation-dialog-dismiss-button =
     .title = Cancelar
-about-logins-confirm-remove-dialog-title = Eliminar este nombre d'usuario?
-confirm-delete-dialog-message = Esta acción no se puet desfer.
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
 
 ##
 
-about-logins-confirm-export-dialog-title = Exportar inicios de sesión y claus
-about-logins-confirm-export-dialog-message = Las tuyas claus s'han alzau como testo lechible (exemplo, BadP@ssw0rd) asinas que qualsiquiera que pueda ubrir lo archivo alzau podrá leyer-las.
-about-logins-confirm-export-dialog-confirm-button = Exportar…
 confirm-discard-changes-dialog-title = Descartar los cambios sin alzar?
 confirm-discard-changes-dialog-message = Totz los cambios sin alzar se pueden perder.
 confirm-discard-changes-dialog-confirm-button = Escartar
@@ -164,11 +128,6 @@ about-logins-error-message-default = S'ha produciu una error quan se miraba d'al
 
 ## Login Export Dialog
 
-# Title of the file picker dialog
-about-logins-export-file-picker-title = Exportar lo fichero d'inicios de sesión
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = logins.csv
 about-logins-export-file-picker-export-button = Exportar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -180,8 +139,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = Importar lo fichero d'inicios de sesión
 about-logins-import-file-picker-import-button = Importar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.

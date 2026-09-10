@@ -127,8 +127,6 @@ private-browsing-shortcut =
 ## The shortcuts below are for Mac specific
 ## global menu.
 
-help-shortcut =
-    .key = ?
 preferences-shortcut =
     .key = ,
 hide-app-shortcut =

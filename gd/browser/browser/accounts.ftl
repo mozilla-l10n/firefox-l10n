@@ -25,26 +25,12 @@ account-send-to-all-devices-titlecase = Cuir gun a h-uile uidheam
 account-manage-devices-titlecase = Stiùirich na h-uidheaman…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = Chan eil uidheam sam bith ceangailte ris
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = Fiosrachadh mu chur nan taba...
-# Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = Ceangail uidheam eile ris...
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Cha deach an cunntas a dhearbhadh
-account-send-tab-to-device-verify = Dearbh an cunntas agad...
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
-# The title shown in a notification when either this device or another device
-# has connected to, or disconnected from, a Firefox account.
-account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title-2 = Cunntas

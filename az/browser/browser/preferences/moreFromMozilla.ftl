@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = { -vendor-short-name }-dan daha çoxu
 more-from-moz-page-header =
     .heading = { -vendor-short-name }-dan daha çoxu
 more-from-moz-category =

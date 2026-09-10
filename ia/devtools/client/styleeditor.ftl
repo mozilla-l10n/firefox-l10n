@@ -21,8 +21,6 @@ styleeditor-save-button = Salvar
 styleeditor-options-button =
     .tooltiptext = Optiones del editor de stilos
 styleeditor-at-rules = At-rules
-styleeditor-editor-textbox =
-    .data-placeholder = Scribe ci CSS.
 styleeditor-no-stylesheet = Iste pagina non ha folio de stilos.
 styleeditor-no-stylesheet-tip = Forsan tu volerea <a data-l10n-name="append-new-stylesheet">adder un nove folio de stilos</a>?
 styleeditor-open-link-new-tab =

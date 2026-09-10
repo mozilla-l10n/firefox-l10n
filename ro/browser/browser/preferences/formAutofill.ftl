@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Adrese salvate
 autofill-manage-addresses-list-header = Adrese
-autofill-manage-credit-cards-title = Carduri de credit salvate
-autofill-manage-credit-cards-list-header = Carduri de credit
 autofill-manage-payment-methods-title = Metode de plată salvate
 autofill-manage-cards-list-header = Carduri
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = Deschide meniul
 address-capture-edit-address-link = Editează adresa
     .aria-label = Editează adresa
-address-capture-edit-address-button =
-    .aria-label = Editează adresa
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Adaugă o adresă
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Editează adresa
-autofill-address-given-name = Prenume
-autofill-address-additional-name = Al doilea nume
-autofill-address-family-name = Nume de familie
 autofill-address-name = Nume
 autofill-address-organization = Organizație
 autofill-address-street-address = Strada
@@ -104,8 +97,6 @@ autofill-address-eircode = Eircode (Irlanda)
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Adaugă o adresă nouă
 autofill-address-country = Țară sau regiune
 autofill-address-country-only = Țara
 autofill-address-tel = Număr de telefon
@@ -114,18 +105,6 @@ autofill-cancel-button = Anulează
 autofill-save-button = Salvează
 autofill-country-warning-message-2 = Completarea automată a formularelor este disponibilă în prezent numai pentru anumite țări
 autofill-country-warning-message = Completarea automată a formularelor este în prezent disponibilă numai pentru anumite țări.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Adaugă card de credit nou
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Editează cardul de credit
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] afișează informațiile cardului de credit
-        [windows] { -brand-short-name } încearcă să afișeze informații despre cardurile de credit. Confirmă accesul la acest cont de Windows mai jos.
-       *[other] { -brand-short-name } încearcă să afișeze informații despre cardurile de credit.
-    }
 autofill-message-tooltip = Vezi mesajul despre completarea automată
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Adaugă card
@@ -211,15 +190,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = Nu salva niciodată pașapoarte
     .accessKey = N
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

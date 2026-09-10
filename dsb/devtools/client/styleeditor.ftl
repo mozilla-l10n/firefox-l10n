@@ -21,8 +21,6 @@ styleeditor-save-button = Składowaś
 styleeditor-options-button =
     .tooltiptext = Nastajenja stilowego editora
 styleeditor-at-rules = @-pšawidła
-styleeditor-editor-textbox =
-    .data-placeholder = Zapišćo how CSS.
 styleeditor-no-stylesheet = Toś ten bok njama stilowu pśedłogu.
 styleeditor-no-stylesheet-tip = Snaź wy by rady <a data-l10n-name="append-new-stylesheet">nowu stilowu pśedłogu pśipowjesył</a>?
 styleeditor-open-link-new-tab =

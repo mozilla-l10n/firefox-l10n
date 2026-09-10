@@ -3,10 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Error page actions
-
-neterror-try-again-button = Uliten
-
 ## Specific error messages
 
 neterror-generic-error = Adda met ti rason no apay saan a maikarga ti { -brand-short-name } daytoy a panid.

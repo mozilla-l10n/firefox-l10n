@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = Βρίσκομαι στη σελίδα «{ $tabT
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Ερώτηση στο chatbot ΤΝ
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Ερώτηση στο { $provider }
 genai-menu-open-generic =
     .label = Άνοιγμα chatbot ΤΝ
 # $provider (string) - name of the provider
@@ -118,8 +113,6 @@ genai-header-provider-menu =
     .title = Επιλέξτε ένα chatbot
 genai-header-settings-button =
     .title = Ρυθμίσεις συνομιλίας ΤΝ
-genai-header-options-button =
-    .title = Άνοιγμα μενού
 genai-header-close-button =
     .title = Κλείσιμο
 genai-provider-view-details =
@@ -147,37 +140,25 @@ genai-page-button-summarize = Σύνοψη σελίδας
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Περιλήψεις, νέες ιδέες και πολλά άλλα κατά την περιήγηση
 genai-onboarding-choose-header = Επιλέξτε ένα chatbot τεχνητής νοημοσύνης για χρήση στην πλαϊνή γραμμή του { -brand-short-name }
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Επιλέξτε ένα chatbot ΤΝ για χρήση στην πλαϊνή γραμμή του { -brand-short-name }. Θα σας εμφανίζουμε λεπτομέρειες για κάθε chatbot όταν το επιλέγετε. Αλλάξτε το ανά πάσα στιγμή. <a data-l10n-name="learn-more">Μάθετε περισσότερα</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Μπορείτε να το αλλάξετε ανά πάσα στιγμή. Για βοήθεια με την επιλογή, <a data-l10n-name="learn-more">μάθετε περισσότερα για κάθε chatbot</a>.
 genai-onboarding-primary = Συνέχεια
 genai-onboarding-secondary = Κλείσιμο
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Μάθετε περισσότερα σχετικά με το Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Μάθετε περισσότερα σχετικά με το ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Μάθετε περισσότερα σχετικά με το Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Μάθετε περισσότερα σχετικά με το Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = Μάθετε περισσότερα σχετικά με το HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Μάθετε περισσότερα σχετικά με το Le Chat
-genai-onboarding-select-header = Επιλέξτε κείμενο για να δείτε προτάσεις
-genai-onboarding-select-description = Όταν επιλέγετε κείμενο, θα προτείνουμε εντολές που μπορείτε να στείλετε στο chatbot. Μπορείτε επίσης να γράψετε τις δικές σας.
-genai-onboarding-select-primary = Έναρξη συνομιλίας
 genai-chatbot-contextual-title = Χρησιμοποιήστε ένα chatbot ΤΝ χωρίς να αλλάξετε καρτέλες
 genai-chatbot-contextual-subtitle = Συνομιλήστε και περιηγηθείτε παράλληλα, προσθέτοντας ένα chatbot ΤΝ στην πλαϊνή γραμμή του { -brand-short-name }.
 genai-chatbot-contextual-button = Επιλέξτε ένα chatbot
@@ -190,27 +171,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = Κάντε δεξί κλικ 
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Ανοίξτε το chatbot ΤΝ σας στην πλαϊνή γραμμή και επιλέξτε «Σύνοψη σελίδας» στο κάτω μέρος.
 genai-chatbot-summarize-footer-generic-subtitle = Προσθέστε ένα chatbot ΤΝ στην πλαϊνή γραμμή του { -brand-short-name } για γρήγορη σύνοψη σελίδων.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Δημιουργία κειμένου και κώδικα
-genai-onboarding-claude-analyze = Ανάλυση εγγράφων και εικόνων
-genai-onboarding-claude-price = Δωρεάν και επί πληρωμή επιλογές· απαιτείται λογαριασμός
-genai-onboarding-chatgpt-generate = Δημιουργία κειμένου, εικόνων και κώδικα
-genai-onboarding-chatgpt-analyze = Ανάλυση εγγράφων και εικόνων
-genai-onboarding-chatgpt-price = Δωρεάν και επί πληρωμή επιλογές· απαιτείται λογαριασμός για ορισμένες χώρες και εργασίες
-genai-onboarding-copilot-generate = Δημιουργία κειμένου, εικόνων και κώδικα
-genai-onboarding-copilot-analyze = Ανάλυση εικόνων
-genai-onboarding-copilot-price = Δωρεάν και επί πληρωμή επιλογές· απαιτείται λογαριασμός για ορισμένες εργασίες
-genai-onboarding-gemini-generate = Δημιουργία κειμένου, εικόνων και κώδικα
-genai-onboarding-gemini-analyze = Ανάλυση εικόνων (δωρεάν) και εγγράφων (επί πληρωμή)
-genai-onboarding-gemini-price = Δωρεάν και επί πληρωμή επιλογές· απαιτείται λογαριασμός
-genai-onboarding-huggingchat-generate = Δημιουργία κειμένου και κώδικα
-genai-onboarding-huggingchat-switch = Εναλλαγή ανάμεσα σε ένα ευρύ φάσμα ανοικτών μοντέλων
-genai-onboarding-huggingchat-price-2 = Δωρεάν· απαιτείται λογαριασμός μετά από έναν ορισμένο αριθμό αιτημάτων
-genai-onboarding-lechat-generate = Δημιουργία κειμένου και κώδικα
-genai-onboarding-lechat-price = Δωρεάν· απαιτείται λογαριασμός
 
 ## Model Optin Component
 

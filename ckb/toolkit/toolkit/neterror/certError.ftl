@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = بڕوانامە باوەڕپێنەکراو�
 cert-error-trust-signature-algorithm-disabled = بڕوانامەکە باوەڕپێنەکراوە چونکە بە ئەلگۆریتمێکی ئیمزاکردن ئیمزاکراوە کە لەکارخراوە چونکە ئەو ئەلگۆریتمە پارێزراو نیە.
 cert-error-trust-expired-issuer = بڕوانامەکە بڕواپێکراو نیە چونکە بڕوانامەی بڵاوکەرەوەکەی بەسەرچوە.
 cert-error-trust-self-signed = بڕوانامەکە بڕواپێکراو نیە چونکە خۆی ئیمزای کردوە.
-cert-error-trust-symantec = بڕوانامەی دەرکراو لەلایەن GeoTrust، RapidSSL، Symantec، Thwate و VeriSign چیتر بە پارێزراو دانانرێن چونکە ئەم دەسەڵاتانەی بڕوانامەپێدان سەرنەکەوتوو بون لە کرداری پاراستندا لە ڕابردوودا.
 cert-error-untrusted-default = ئەم بڕوانامەیە لە سەرچاوەیەکی متمانەپێکراوەوە نەهاتوە.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -52,10 +51,6 @@ cert-error-code-prefix-link = کۆدی هەڵە: <a data-l10n-name="error-code-l
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = هەلەیەك تێبنی کرا لە کاتی پەیوەندی کردن بە { $hostname }.{ $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = ماڵپەڕەکان ناسنامەی خۆیان بە بڕوانامە ئەسەلمێنن کە لەلایەن دەسەڵاتە بڕوانامەپێدەرەکانەوە دەر ئەکرێن. زۆرینەی وێبگەڕەکان چیتر بڕوانامەی دەرکراوە لەلایەن GeoTrust، RapidSSL، Symantec، Thwate، و VeriSign بە متمانەپێکراو نازانن. { $hostname } بڕوانامەیەکی بەکارهێناوە لەلایەن یەکێ لەم دەسەڵاتانەوە و بۆیەش ناکرێ ناسنامەی ماڵپەڕەکە بسەلمێنرێت.
-cert-error-symantec-distrust-admin = تۆ ئەکرێ بەڕێوەبەرەکانی ئەم ماڵەپەڕە ئاگادار بکەیتەوە لەم کێشەیە.
 cert-error-old-tls-version = لەوانەیە ئەم ماڵپەڕە پشتگیری لە پرۆتۆکۆڵی TLS 1.2 نەکات، کە کەمترین وەشانی پشتگیری دەکرێت لەلایەن { -brand-short-name }
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -64,7 +59,6 @@ cert-error-details-hsts-label = پرۆکۆلی پاراستنی توندی گو�
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = پرۆتۆکۆلی دەستنیشانکردنی کلیلی گشتی: { $hasHPKP }
 cert-error-details-cert-chain-label = زنجیرەی بڕوانامە:
-open-in-new-window-for-csp-or-xfo-error = لە پەنجەرەیەکی نوێ بیکەرەوە
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = بۆ پاراستنی سەلامەتیت، { $hostname } ڕێگە نادات { -brand-short-name } ئەو پەڕەیە نیشان بدات ئەگەر ماڵەپەڕێکی تر لەناو خۆی دانابێت. بۆ بینینی ئەم پەڕەیە، تۆ پێویستە لە پەنجەرەیەکی تازەدا بیکەیتەوە.
@@ -97,7 +91,6 @@ redirectLoop-title = پەڕە بەشێوەیەکی ڕاست دووبارە نا�
 unknownSocketType-title = وەڵامێکی چاوەڕواننەکراو لە ڕاژەوە
 nssFailure2-title = پەیوەندی پارێزراو سەرکەوتوو نەبوو
 csp-xfo-error-title = { -brand-short-name } ئەم پەڕەیە ناتوانرێت بکرێتەوە
-corruptedContentError-title = هەڵەی شێواوی ناوەڕۆک ڕوویدا.
 sslv3Used-title = نەتوانرا بە پارێزراوی پەیوەندی بگریت
 inadequateSecurityError-title = پەیوەندی پارێزراو نیە
 blockedByPolicy-title = پەڕەی بلۆککراو

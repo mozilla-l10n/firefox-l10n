@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Gå tillbaka
 neterror-return-to-previous-page-recommended-button = Gå tillbaka (rekommenderas)
 neterror-try-again-button-2 = Försök igen
     .accesskey = F
-neterror-try-again-button = Försök igen
 neterror-add-exception-button = Fortsätt alltid för den här webbplatsen
 neterror-settings-button = Ändra DNS-inställningar
 neterror-view-certificate-link = Visa certifikat
-neterror-trr-continue-this-time = Fortsätt den här gången
-neterror-disable-native-feedback-warning = Fortsätt alltid
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = Läs mer
 ##
 
 neterror-pref-reset = Det ser ut som nätverkets säkerhetsinställningar kan orsaka detta. Vill du att standardinställningarna ska återställas?
-neterror-error-reporting-automatic = Rapportera fel som detta för att hjälpa { -vendor-short-name } identifiera och blockera skadliga webbplatser
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Koppla ner och återanslut till 
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } kan inte skydda din begäran om den här webbplatsens adress genom vår betrodda DNS-resolver. Här är varför:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } kan inte skydda din begäran om den här webbplatsens adress via vår säkra DNS-leverantör. Här är varför:
 neterror-dns-not-found-trr-third-party-warning2 = Du kan fortsätta med din standard DNS-resolver. Men en tredje part kanske kan se vilka webbplatser du besöker.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } kunde inte ansluta till { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Anslutningen till { $trrDomain } tog längre tid än förväntat.
-neterror-dns-not-found-trr-offline = Du är inte ansluten till internet.
 neterror-dns-not-found-trr-unknown-host2 = Den här webbplatsen hittades inte av { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Det uppstod ett problem med { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = Ogiltig URL.
 neterror-dns-not-found-system-sleep = Systemet är i viloläge.
 neterror-dns-not-found-trr-unknown-problem = Oväntat problem.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } kan inte skydda din begäran om den här webbplatsens adress genom vår betrodda DNS-lösare. Här är varför:
-neterror-dns-not-found-native-fallback-heuristic = DNS över HTTPS har inaktiverats i ditt nätverk.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } kunde inte ansluta till { $trrDomain }.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = Den kan ha tagits bort, flyttats eller så kan filrätt
 neterror-unknown-protocol = Du kan behöva installera andra program för att öppna den här sidan.
 neterror-redirect-loop = Det här problemet kan ibland uppstå om du inaktiverat eller nekat att ta emot kakor.
 neterror-unknown-socket-type-client-config = Detta kan bero på ett konfigurationsfel med din klient.
-neterror-unknown-socket-type-psm-installed = Kontrollera att Personal Security Manager finns installerat på datorn.
-neterror-unknown-socket-type-server-config = Det här kan ibland bero på en ovanlig konfiguration på servern.
 neterror-not-cached-intro = Det efterfrågade dokumentet finns inte längre i { -brand-short-name } cache.
 neterror-not-cached-sensitive = Av säkerhetsskäl försöker inte { -brand-short-name } automatiskt att hämta om känsliga dokument.
 neterror-not-cached-try-again = Klicka på Försök igen för att åter hämta dokumentet från webbplatsen.

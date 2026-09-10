@@ -43,11 +43,8 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
-about-glean-about-testing-header = Diwar-benn an testañ
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (chom hep kas tamm ping ebet)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Er vaezienn gent, bezit sur ez eus enni ur valizenn ziveugañ aes da zerc'hel soñj evit ma c'hallfec'h anavezout ho ping diwezhatoc'h.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
@@ -71,17 +68,5 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Gweladennit lec'hienn { glean-debug-ping-viewer-brand-name } evit gwelout ar ping gant ho tikedenn</a>.
     Rankout a rafe ar ping erruout un nebeud eilennoù goude m'ho pefe pouezet war ar bouton.
     A-wechoù e c'hall kemer un nebeud munutennoù.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    Evit muioc'h a destoù <i>ad hoc</i>
-    e c'hallit ivez didermeniñ talvoud elfenn-benviañ-mañ elfenn-benviañ
-    en ur zigeriñ ul letrin devtools amañ war <code>
-    about:glean</code>
-    hag en ur implijout an <code>testGetValue()</code> API like
-    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Lakaat an arventennoù e pleustr ha kinnig ar ping
 about-glean-about-data-header = Diwar-benn ar roadennoù
-about-glean-about-data-explanation =
-    Evit gwelout listenn ar roadennoù dastumet e c'hallit gweladenniñ ar
-    <a data-l10n-name="glean-dictionary-link">
-    Geriadur { -glean-brand-name }</a>.

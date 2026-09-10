@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/> आपडेटखौ डाउनल'ड खालाम गासिनो दं — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = डाउनल'ड खालाम गासिनो दं — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = आपडेटखौ डाउनल'ड खालाम गासिनो दं — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = आपडेटखौ बाहायगासिनो दं...
 update-failed = आपडेट खालामनाया फेलें जाबाय।<label data-l10n-name="failed-link">गोदानथार लिरस्लायनायखौ डाउनल'ड खालाम</label>
 update-failed-main = आपडेट खालामनाया फेलें जाबाय।<a data-l10n-name="failed-link-main">गोदानथार लिरस्लायनायखौ डाउनल'ड खालाम</a>
-update-adminDisabled = आपडेटफोरखौ नोंथांनि सिस्टेम खुंगिरिजों लोरबां खालामनाय जाबाय
 update-noUpdatesFound = { -brand-short-name } आ गोदान
 settings-update-no-updates-found =
     .label = { -brand-short-name } आ गोदान
@@ -66,8 +64,6 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = जों { -brand-short-name } खौ डिजाइन खालामनाय जाबाय<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a <label data-l10n-name="community-creditsLink">बुहुमनां माहारि</label>वेबखौ खेवनानै दोननो, राइजो-राजा आरो बयबो हाबहो हाथाव खालामनो जयै खामानि मावगासिनो दं
 helpus = मदद खालामनो लुबैयो? <label data-l10n-name="helpus-donateLink">दान खालाम</label>एबा<label data-l10n-name="helpus-getInvolvedLink">थाफादेर!</label>
 bottomLinks-license = लाइसेन्सिं फोरमायथिहोग्रा
-bottomLinks-rights = जोबथा-बाहायग्रा मोनथाइ
-bottomLinks-privacy = गुमुरगोनां पलिसि
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

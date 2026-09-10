@@ -36,9 +36,6 @@ unified-extensions-item-message-manage = Gerer extension
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = { $extensionName } es limitate. Usar lo pote esser riscose.
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName } viola le directivas de Mozilla. Usar lo pote esser riscose.
 
 ## Extension's context menu
 
@@ -57,8 +54,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Alcun extensiones non es permittite
-unified-extensions-mb-quarantined-domain-message = Solo alcun extensiones surveliate per { -vendor-short-name } es permittite in iste sito pro proteger tu datos.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Alcun extensiones non es permittite
@@ -73,13 +68,6 @@ unified-extensions-mb-blocklist-warning-single2 =
     .message =
         Iste extension es limitate e ha essite disactivate.
         Tu pote activar lo in parametros, ma isto pote esser riscose.
-# Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } disactivate
-    .message =
-        Iste extensiones viola le directivas de Mozilla e ha essite disactivate.
-        Tu pote activar los in parametros, ma isto pote esser riscose.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
@@ -96,16 +84,6 @@ unified-extensions-mb-blocklist-warning-multiple2 =
     .message =
         Parte de tu extensiones es limitate e ha essite disactivate.
         Tu pote activar los in parametros, ma isto pote esser riscose.
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-           *[other] { $extensionsCount } extensiones disactivate
-        }
-    .message =
-        Alcun de tu extensiones viola le directivas de Mozilla e ha essite disactivate.
-        Tu pote activar los, ma isto pote esser riscose.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =

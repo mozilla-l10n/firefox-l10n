@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = La etendaĵo povas nek legi nek ŝanĝi datumojn
-origin-controls-quarantined =
-    .label = La etendaĵo rajtas nek legi nek ŝanĝi datumojn
 origin-controls-quarantined-status =
     .label = Etendaĵo ne permesata en limigitaj retejoj
 origin-controls-quarantined-allow =

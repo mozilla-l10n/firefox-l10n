@@ -28,7 +28,6 @@ inactive-css-not-flex-container = <strong>{ $property }</strong> ᱨᱮᱭᱟᱜ
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> ᱨᱮᱭᱟᱜ ᱪᱮᱫ ᱦᱚᱸ ᱯᱨᱚᱵᱷᱟᱣ ᱱᱚᱶᱟ ᱱᱚᱢᱩᱱᱟ ᱨᱮ ᱵᱚᱹᱱᱩᱜ ᱠᱟᱫᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱤᱱᱞᱟᱭᱤᱱ ᱥᱮ ᱴᱮᱵᱩᱞ ᱥᱮᱞ ᱱᱟᱹᱢᱩᱱᱟ ᱵᱟᱝ ᱠᱟᱱᱟ ᱾
 inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> ᱫᱚ ::first-line ᱥᱤᱰᱚᱼᱱᱚᱢᱩᱱᱟ ᱨᱮ ᱥᱚᱦᱚᱫ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱫᱼᱟ ᱾
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ᱨᱮᱭᱟᱜ ᱪᱮᱫ ᱦᱚᱸ ᱯᱨᱚᱵᱷᱟᱣ ᱱᱚᱶᱟ ᱱᱚᱢᱩᱱᱟ ᱨᱮ ᱵᱚᱹᱱᱩᱜ ᱠᱟᱫᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱱᱚᱶᱟ ᱨᱮ <strong>{ $display }</strong> ᱨᱮᱭᱟᱜ ᱰᱤᱥᱯᱞᱮ ᱢᱮᱱᱟᱜ ᱠᱟᱫᱟ ᱾
-inactive-css-not-display-block-on-floated = <strong>block</strong> ᱞᱟᱹᱜᱤᱫ <strong>display</strong> ᱮᱞ ᱫᱚ ᱤᱧᱡᱤᱱ ᱛᱮ ᱵᱚᱫᱚᱞ ᱠᱟᱱᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱱᱚᱢᱩᱱᱟ ᱫᱚ <strong>floated</strong> ᱠᱟᱱᱟ ᱾
 inactive-css-property-is-impossible-to-override-in-visited = <strong>{ $property }</strong> ᱚᱣᱚᱨᱨᱟᱭᱤᱰ ᱫᱚ <strong>:ᱦᱤᱨᱤ ᱠᱟᱱᱟ</strong> ᱵᱟᱹᱰ ᱞᱟᱹᱜᱤᱫ ᱢᱚᱴᱮ ᱵᱟᱭᱜᱟᱱᱚᱜᱼᱟ ᱾
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ᱨᱮᱭᱟᱜ ᱪᱮᱫ ᱦᱚᱸ ᱯᱨᱚᱵᱷᱟᱣ ᱱᱚᱶᱟ ᱱᱚᱢᱩᱱᱟ ᱨᱮ ᱵᱚᱹᱱᱩᱜ ᱠᱟᱫᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱵᱟᱹᱭᱥᱟᱹᱣ ᱱᱚᱢᱩᱱᱟ ᱵᱟᱝ ᱠᱟᱱᱟ ᱾
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ᱨᱮᱭᱟᱜ ᱪᱮᱫ ᱦᱚᱸ ᱯᱨᱚᱵᱷᱟᱣ ᱱᱚᱶᱟ ᱱᱚᱢᱩᱱᱟ ᱨᱮ ᱵᱚᱹᱱᱩᱜ ᱠᱟᱫᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱱᱚᱶᱟ ᱫᱚ <strong>overflow:hidden</strong> ᱵᱟᱭ ᱥᱮᱴ ᱠᱟᱱᱟ ᱾
@@ -39,16 +38,6 @@ inactive-css-not-table-cell = <strong>{ $property }</strong> ᱨᱮᱭᱟᱜ ᱪ
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> ᱨᱮᱭᱟᱜ ᱪᱮᱫ ᱦᱚᱸ ᱯᱨᱚᱵᱷᱟᱣ ᱱᱚᱶᱟ ᱱᱚᱢᱩᱱᱟ ᱨᱮ ᱵᱚᱹᱱᱩᱜ ᱠᱟᱫᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱱᱚᱶᱟ ᱫᱚ ᱵᱟᱭ ᱠᱷᱚᱥᱨᱚᱫᱚᱜ ᱠᱟᱱᱟ ᱾
 inactive-css-border-image = <strong>{ $property }</strong> ᱨᱮᱭᱟᱜ ᱯᱨᱚᱵᱷᱟᱣ ᱫᱚ ᱱᱚᱢᱩᱱᱟ ᱨᱮ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱫᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱱᱚᱶᱟ ᱫᱚ ᱤᱱᱴᱚᱨᱱᱟᱞ ᱴᱮᱵᱩᱞ ᱱᱚᱢᱩᱱᱟ ᱨᱮ ᱮᱢ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ ᱡᱟᱦᱟᱸ ᱨᱮ<strong>border-collapse</strong> ᱫᱚ ᱜᱷᱟᱨᱚᱸᱧᱡᱽ ᱴᱮᱵᱩᱞ ᱱᱟᱹᱢᱩᱱᱟ ᱨᱮ <strong>collapse</strong> ᱨᱮ ᱥᱮᱴ ᱠᱟᱱᱟ ᱾
 inactive-css-ruby-element = <strong>{ $property }</strong>ᱟᱜ ᱫᱚ ᱱᱚᱶᱟ ᱱᱚᱢᱩᱱᱟ ᱪᱮᱛᱟᱱ ᱨᱮ ᱪᱮᱫ ᱯᱨᱚᱵᱷᱟᱣ ᱵᱟᱭ ᱯᱟᱲᱟᱣᱜᱼᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱨᱩᱵᱤ ᱱᱚᱢᱩᱱᱟ ᱠᱟᱱᱟ ᱾ ᱱᱚᱣᱟ ᱨᱮᱭᱟᱜ ᱢᱟᱯ ᱫᱚ ᱨᱩᱵᱤ ᱚᱞ ᱨᱮᱭᱟᱜ ᱪᱤᱠᱤ ᱢᱟᱯ ᱛᱮ ᱵᱟᱲᱟᱭᱚᱜᱼᱟ ᱾
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> ᱫᱚ ᱦᱟᱭᱞᱟᱭᱤ ᱥᱤᱰᱚᱼᱱᱚᱢᱩᱱᱟ ᱨᱮ ᱥᱚᱦᱚᱫ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱫᱼᱟ ᱾
 
 ## In the Rule View when a CSS property cannot be successfully applied we display

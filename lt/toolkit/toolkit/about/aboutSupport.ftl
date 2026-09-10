@@ -21,10 +21,6 @@ security-software-name = Pavadinimas
 security-software-antivirus = Antivirusinė
 security-software-antispyware = Antišnipinėjimo
 security-software-firewall = Užkarda
-features-title = „{ -brand-short-name }“ savybės
-features-name = Pavadinimas
-features-version = Laida
-features-id = ID
 processes-title = Nuotoliniai procesai
 processes-type = Tipas
 processes-count = Kiekis
@@ -50,7 +46,6 @@ app-basics-profile-dir =
         [linux] Profilio aplankas
        *[other] Profilio aplankas
     }
-app-basics-enabled-plugins = Įjungti priedai
 app-basics-build-config = Darinio konfigūracija
 app-basics-user-agent = Naršyklės identifikacinė eilutė
 app-basics-os = OS
@@ -87,9 +82,6 @@ show-dir-label =
 environment-variables-title = Aplinkos kintamieji
 environment-variables-name = Pavadinimas
 environment-variables-value = Reikšmė
-experimental-features-title = Eksperimentinės funkcijos
-experimental-features-name = Pavadinimas
-experimental-features-value = Reikšmė
 modified-key-prefs-title = Svarbios pakeistos nuostatos
 modified-prefs-name = Vardas
 modified-prefs-value = Reikšmė
@@ -329,8 +321,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Išjungta dėl tyrimo
-fission-status-experiment-treatment = Įjungta dėl tyrimo
 fission-status-disabled-by-e10s-env = Išjungta dėl aplinkos
 fission-status-enabled-by-env = Įjungta dėl aplinkos
 fission-status-disabled-by-env = Išjungta dėl aplinkos
@@ -339,7 +329,6 @@ fission-status-disabled-by-default = išjungta pagal numatymą
 fission-status-enabled-by-user-pref = Įjungta naudotojo
 fission-status-disabled-by-user-pref = išjungta naudotojo
 fission-status-disabled-by-e10s-other = E10s išjungta
-fission-status-enabled-by-rollout = Įjungta išleidžiant palaipsniui
 async-pan-zoom = Asinchroninis apžvelgimas/priartinimas
 apz-none = nėra
 wheel-enabled = įjungta įvestis ratuku

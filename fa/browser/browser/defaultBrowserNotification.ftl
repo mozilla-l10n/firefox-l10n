@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = { -brand-short-name } را در نوک ان
 default-browser-prompt-message-pin-msix = { -brand-short-name } را همیشه در دسترس خود نگه‌دارید — آن را به مرورگر پیش‌فرض خود تبدیل کنید و آن را به نوار وظیفه و منوی شروع خود سنجاق کنید.
 default-browser-prompt-message-pin-mac = { -brand-short-name } را در نوک انگشتان خود داشته باشید — آن را مرورگر پیش فرض خود و در Dock پین کنید.
 default-browser-prompt-button-primary-set = تنظیم به عنوان مرورگر اصلی
-default-browser-prompt-button-primary-pin = تبدیل کردن به مرورگر پیش‌فرض
 default-browser-prompt-title-alt = { -brand-short-name } را به مرورگر پیش‌فرض خود تبدیل می‌کنید؟
 default-browser-prompt-message-alt = در هر زمانی هنگام مرور اینترنت، سرعت، امنیت و حریم‌خصوصی را همراه داشته باشید.
 default-browser-prompt-button-primary-alt = تنظیم به عنوان مرورگر پیش‌فرض

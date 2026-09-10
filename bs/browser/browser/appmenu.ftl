@@ -31,8 +31,6 @@ appmenuitem-extensions-and-themes =
     .label = Ekstenzije i teme
 appmenuitem-extensions =
     .label = Ekstenzije
-appmenuitem-addons-and-themes =
-    .label = Add-oni i teme
 appmenuitem-print =
     .label = Štampaj…
 appmenuitem-find-in-page =
@@ -101,7 +99,6 @@ appmenu-remote-tabs-unverified = Vaš račun mora biti verifikovan.
 appmenuitem-fxa-toolbar-sync-now2 = Sinhronizuj odmah
 appmenuitem-fxa-sign-in = Prijava u { -brand-product-name }
 appmenuitem-fxa-manage-account = Upravljanje računom
-appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-account-header = Račun
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -117,15 +114,6 @@ appmenuitem-save-page =
     .label = Spasi stranicu kao…
 appmenuitem-fxa-sync-off-title = Sinhronizacija je isključena
 appmenuitem-fxa-sync-off-description = Zaštitite i pristupite svojim oznakama, lozinkama i još mnogo toga bilo gdje.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Šta je novo
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Obavijesti o novim mogućnostima
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -235,8 +223,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Više informacija o rješavanju problema
     .accesskey = t
-appmenu-help-report-site-issue =
-    .label = Prijavite problem sa stranicom…
 appmenu-help-share-ideas =
     .label = Podijelite ideje i povratne informacije…
     .accesskey = S
@@ -282,9 +268,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Maskirajte svoj pravi e-mail i telefon
 appmenuitem-services-relay-description = Pokreni kontrolnu ploču za email maske
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description = Zaštitite svoju aktivnost na mreži
 appmenu-services-header = Moje usluge
-appmenu-other-protection-header = Isprobajte druge alate za zaštitu od { -vendor-short-name }a:
 
 ## Profiles panel
 

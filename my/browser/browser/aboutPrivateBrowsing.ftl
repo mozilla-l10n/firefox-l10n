@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = သီးသန့်ဝင်းဒိုးကို ဖွင့်ပါ
     .accesskey = P
 about-private-browsing-search-placeholder = ဝဘ်တွင် ရှာဖွေပါ
-about-private-browsing-info-title = သင်ဟာ ကိုယ်ပိုင်ဝင်းဒိုးရှာဖွေမှုထဲတွင်ရှိပါသည်။
 about-private-browsing-handoff-text-no-engine = ရှာဖွေပါ (သို့) လိပ်စာရိုက်ပါ
 about-private-browsing-not-private = သင်သည် လက်ရှိတွင် သီးသန့်ဝင်းဒိုးတွင် ရှိမနေပါ။
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ဖြင့် သီးသန့်သုံးပါ။

@@ -22,13 +22,11 @@ neterror-override-exception-button = خطرے کو قبول کریں اور جا
 neterror-pref-reset-button = طے شدہ سیٹنگز بحال کریں
 neterror-return-to-previous-page-button = واپس جائیں
 neterror-return-to-previous-page-recommended-button = واپس جائیں (تجویز شدہ)
-neterror-try-again-button = دوبارہ کوشش کریں
 neterror-view-certificate-link = تصدیق نامہ دیکھیں
 
 ##
 
 neterror-pref-reset = ایسا لگتا ہے کہ اس کی وجہ آپ کی نیٹ ورک سلامتی کی سیٹنگز ہو سکتی ہے۔ کیا آپ طےشدہ سیٹنگز بحال کرناچاہتے ہیں؟
-neterror-error-reporting-automatic = { -vendor-short-name } کی مدد کرے نقصان کردہ سائٹ کی شناخت اور بلاک کرنیں کے لئے اس طرح کی نقص رپورٹ کرے
 
 ## Specific error messages
 
@@ -45,8 +43,6 @@ neterror-file-not-found-moved = چیک کریں کہ مسل ہٹائی، نام 
 neterror-access-denied = یہ شاید ہٹائی گئی ہو، منتقل کر دیا ہو یا مسل کی اجازت رسائ سے روک رہی ہو
 neterror-unknown-protocol = آپ کو یہ پتہ کھولنے کے لیے دیگر سافٹ ویئر تنصیب کرنے کی ضرورت پڑھ سکتی ہے۔
 neterror-redirect-loop = یہ مسلہ کبھی کبھی کوکیز نااہل کرنے یا انہیں قبول کہ کرنے کی وجہ سے ہو سکتی ہے۔
-neterror-unknown-socket-type-psm-installed = چیک کریں کہ آپ کے سسٹم پر پرسنل سکیورٹی مینیجر  تنصیب ہے۔
-neterror-unknown-socket-type-server-config = یہ پیش کار پر غیر سٹینڈرڈ تشکیل کی وجہ سے ہو سکتا ہے۔
 neterror-not-cached-intro = درخواست کردہ دستاویز { -brand-short-name } کے کیسے میں دستیاب نہیں۔
 neterror-not-cached-sensitive = احتیاط کے لیے { -brand-short-name } حساس دستاویز خود بخود دوبارہ نہیں مانگتا۔
 neterror-not-cached-try-again = ویب سائٹ سے دستاویز پھر مانگنے کے لیے "پھر کوشش کریں" پر کلک کریں۔

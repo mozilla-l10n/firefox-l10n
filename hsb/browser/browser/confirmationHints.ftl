@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Rozprawa je so pósłała. Wulki dźak!
-confirmation-hint-login-removed = Přizjewjenje je so wotstroniło!
 confirmation-hint-password-removed = Hesło je so wotstroniło!
 confirmation-hint-page-bookmarked = Do zapołožkow składowane
-confirmation-hint-password-saved = Hesło je so składowało!
 confirmation-hint-password-created = Hesło je so składowało
 confirmation-hint-password-updated = Hesło je so zaktualizowało
 confirmation-hint-address-created = Adresa je so składowała

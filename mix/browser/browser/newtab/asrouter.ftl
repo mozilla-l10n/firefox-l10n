@@ -50,10 +50,6 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Kasi botón
     .title = Kasi
 
-## Protections panel
-
-cfr-protections-panel-link-text = Skua'a kuakaa
-
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =

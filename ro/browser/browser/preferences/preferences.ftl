@@ -2,13 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Trimite site-urilor web un semnal „Nu urmări” pentru a indica faptul că nu vrei să fii urmărit
-do-not-track-removal = Nu mai acceptăm semnalul „Nu urmări”
-do-not-track-learn-more = Află mai multe
-do-not-track-option-default-content-blocking-known =
-    .label = Numai când { -brand-short-name } este setat să blocheze elemente de urmărire cunoscute
-do-not-track-option-always =
-    .label = Întotdeauna
 global-privacy-control-description =
     .label = Spune site-urilor web să nu-mi vândă sau să nu-mi partajeze datele
     .accesskey = s
@@ -21,7 +14,6 @@ non-technical-privacy-heading =
 preferences-privacy-relay-available =
     .description = Îți ascunde adresa reală pentru a-ți proteja căsuța poștală de spam.
     .label = Recomandă măști de e-mail { -relay-brand-name }
-non-technical-privacy-header = Preferințe de confidențialitate pe site-uri web
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -50,8 +42,6 @@ tls-key-logging-notice-nav =
 category-list =
     .aria-label = Categorii
 pane-general-title = General
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = Pagină de start
 pane-home-startup-title2 = Pagină de start și pornire
     .title = Pagină de start și pornire
@@ -59,21 +49,11 @@ pane-search-title2 = Căutare
     .title = Căutare
 pane-privacy-title3 = Confidențialitate și securitate
     .title = Confidențialitate și securitate
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = Căutare
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = Confidențialitate și securitate
-pane-privacy-title = Confidențialitate și securitate
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Sincronizare
 pane-ai-controls-title2 = Comenzi AI
     .title = Comenzi AI
-category-sync3 =
-    .tooltiptext = { pane-sync-title3 }
 pane-about-firefox-title = Despre { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Aspect
@@ -90,19 +70,9 @@ preferences-languages-header3 =
     .heading = Limbi
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-pane-experimental-title = Experimente { -brand-short-name }
-category-experimental =
-    .tooltiptext = Experimente { -brand-short-name }
-pane-experimental-subtitle = Procedează cu grijă
-pane-experimental-search-results-header = Experimente { -brand-short-name }: Procedează cu grijă
-pane-experimental-description2 = Modificarea setărilor avansate de configurare poate afecta performanța sau securitatea din { -brand-short-name }.
-settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-pane-labs-header =
     .heading = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Încearcă funcțiile noastre experimentale! Sunt în curs de dezvoltare și evoluție, ceea ce ar putea afecta modul în care funcționează { -brand-short-name }. Primim date despre utilizarea acestor funcții numai dacă ai activat <a data-l10n-name="data-collection">datele tehnice și de interacțiune</a>.
-pane-experimental-description3 = Încearcă funcționalitățile noastre experimentale! Sunt în curs de dezvoltare și evoluție, ceea ce ar putea influența modul în care funcționează { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaurează valorile implicite
     .accesskey = R
@@ -110,8 +80,6 @@ help-button-label2 = Asistență { -brand-short-name }
     .title = Asistență { -brand-short-name }
 addons-button-label2 = Extensii și teme
     .title = Extensii și teme
-help-button-label = Asistență { -brand-short-name }
-addons-button-label = Extensii și teme
 focus-search =
     .key = f
 close-button =
@@ -175,15 +143,9 @@ search-results-help-link = Ai nevoie de ajutor? Intră pe <a data-l10n-name="url
 
 ## General Section
 
-startup-header = Pornire
 always-check-default =
     .label = Verifică întotdeauna dacă { -brand-short-name } este browserul implicit
     .accesskey = y
-is-default = { -brand-short-name } este în prezent browserul implicit
-is-not-default = { -brand-short-name } nu este browserul implicit
-set-as-my-default-browser =
-    .label = Setează ca implicit…
-    .accesskey = D
 startup-restore-windows-and-tabs =
     .label = Deschide ferestrele și filele închise anterior
     .accesskey = s
@@ -197,16 +159,11 @@ windows-launch-on-login-disabled = Preferința a fost dezactivată în Windows. 
 windows-launch-on-login-open-new-tab =
     .label = Deschide și o filă nouă
     .accesskey = n
-windows-launch-on-login-profile-disabled = Activează preferința bifând „{ profile-manager-use-selected.label }” în fereastra „Alege profilul de utilizator”.
-startup-restore-warn-on-quit =
-    .label = Avertizează la închiderea browserului
 disable-extension =
     .label = Dezactivează extensia
 preferences-data-migration-group =
     .description = Adu-ți marcajele, parolele, istoricul, extensiile și datele de completat automat dintr-un alt browser.
     .label = Importă date dintr-un browser
-preferences-data-migration-header = Importă date dintr-un browser
-preferences-data-migration-description = Importă marcajele, parolele, istoricul și date de completare automată în { -brand-short-name }.
 preferences-data-migration-button =
     .label = Importă date
     .accesskey = m
@@ -217,9 +174,6 @@ preferences-profiles-subpane-description =
 preferences-profiles-section-header =
     .description = Fiecare profil are date și setări de navigare separate, inclusiv istoric, parole și multe altele.
     .label = Profiluri
-preferences-profiles-header = Profiluri
-preferences-manage-profiles-description = Fiecare profil are date și setări de navigare separate, inclusiv istoric, parole și multe altele.
-preferences-manage-profiles-learn-more = Află mai multe
 preferences-manage-profiles-button =
     .label = Gestionează profilurile
 preferences-profiles-settings-button =
@@ -252,7 +206,6 @@ tabs-containers-heading =
     .label = Containere
 tabs-closing-heading =
     .label = Închidere
-tabs-group-header = File
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab parcurge filele în ordinea celor mai recent folosite
     .accesskey = T
@@ -272,25 +225,11 @@ ask-on-close-multiple-tabs =
 ask-on-quit-with-key =
     .label = Întreabă înainte de a ieși cu { $quitKey }
     .accesskey = b
-confirm-on-close-multiple-tabs =
-    .label = Confirmă înainte de a închide mai multe file
-    .accesskey = m
-# This string is used for the confirm before quitting preference.
-# Variables:
-#   $quitKey (string) - the quit keyboard shortcut, and formatted
-#                       in the same manner as it would appear,
-#                       for example, in the File menu.
-confirm-on-quit-with-key =
-    .label = Confirmă înainte de a ieși cu { $quitKey }
-    .accesskey = b
 warn-on-open-many-tabs =
     .label = Te avertizează când deschiderea mai multor file ar putea încetini { -brand-short-name }
     .accesskey = d
 switch-to-new-tabs-2 =
     .label = La deschiderea de linkuri sau media într-o filă nouă, treci la ea imediat
-    .accesskey = h
-switch-to-new-tabs =
-    .label = Când deschid un link, o imagine sau un conținut media într-o nouă filă, comută imediat pe ea
     .accesskey = h
 show-tabs-in-taskbar =
     .label = Afișează previzualizări ale filelor în bara de activități Windows
@@ -298,16 +237,10 @@ show-tabs-in-taskbar =
 browser-containers-enabled-2 =
     .label = Folosește File în container
     .accesskey = n
-browser-containers-enabled =
-    .label = Activează filele container
-    .accesskey = n
 browser-containers-learn-more = Află mai multe
 browser-containers-settings-2 =
     .label = Gestionează setările
     .accesskey = i
-browser-containers-settings =
-    .label = Setări…
-    .accesskey = t
 containers-disable-alert-title = Închizi toate filele container?
 startup-group =
     .label = Pornire
@@ -362,16 +295,6 @@ browser-layout-show-sidebar2 =
     .label = Afișează bara laterală
 page-navigation-group =
     .label = Navigare în pagină
-browser-layout-header = Aspect browser
-browser-layout-horizontal-tabs =
-    .label = File orizontale
-browser-layout-horizontal-tabs-desc = Afișare în partea de sus a browserului
-browser-layout-vertical-tabs =
-    .label = File verticale
-browser-layout-vertical-tabs-desc = Afișare laterală, în bara laterală
-browser-layout-show-sidebar =
-    .label = Afișează bara laterală
-browser-layout-show-sidebar-desc = Accesează rapid marcaje, file de pe telefon, chatbot-uri AI și multe altele fără a ieși vizualizarea principală.
 
 ## General Section - Language & Appearance
 
@@ -382,8 +305,6 @@ appearance-group2 =
 preferences-web-appearance-choice-auto3 =
     .label = Sistem
     .title = Schimbă automat fundalurile site-urilor web și conținutul în baza setărilor tale de sistem și a temei { -brand-short-name }
-preferences-web-appearance-header = Aspectul site-urilor web
-preferences-web-appearance-description = Unele site-uri web își adaptează schema de culori pe baza preferințelor tale. Alege schema de culori pe care dorești să o folosești pentru aceste site-uri.
 preferences-web-appearance-choice-light2 =
     .label = Luminos
     .title = Folosește un aspect luminos pentru fundalurile și conținutul site-urilor web.
@@ -392,21 +313,6 @@ preferences-web-appearance-choice-dark2 =
     .title = Folosește o temă întunecată pentru fundalurile și conținutul site-urilor web.
 web-appearance-group =
     .aria-label = Aspectul site-urilor web
-preferences-web-appearance-choice-auto = Automat
-preferences-web-appearance-choice-light = Luminos
-preferences-web-appearance-choice-dark = Întunecat
-preferences-web-appearance-choice-tooltip-auto =
-    .title = Schimbă automat fundalurile și conținutul site-urilor web în funcție de setările sistemului și de tema { -brand-short-name }
-preferences-web-appearance-choice-tooltip-light =
-    .title = Folosește un aspect deschis pentru fundalurile și conținutul site-urilor web.
-preferences-web-appearance-choice-tooltip-dark =
-    .title = Folosește un aspect întunecat pentru fundalurile și conținutul site-urilor web.
-preferences-web-appearance-choice-input-auto =
-    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
-preferences-web-appearance-choice-input-light =
-    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
-preferences-web-appearance-choice-input-dark =
-    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning3 =
@@ -418,14 +324,6 @@ preferences-contrast-control-group =
     .label = Contrast site
 preferences-contrast-control-radio-group =
     .label = Suprascrie culorile
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning = Alegerile tale de culoare suprascriu aspectul site-urilor web. <a data-l10n-name="colors-link">Gestionează culorile</a>
-# This message contains one link. It can be moved within the sentence as needed
-# to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = Gestionează temele { -brand-short-name } în <a data-l10n-name="themes-link">Extensii și teme</a>
-preferences-contrast-control-header = Reglarea contrastului
-preferences-contrast-control-description = Site-urile web au o varietate de culori de prim-plan și de fundal. Configurează { -brand-short-name } să utilizeze aceleași culori pe toate site-urile web pentru o lizibilitate îmbunătățită.
 preferences-contrast-control-use-platform-settings =
     .label = Automat (folosește setările de sistem)
     .accesskey = A
@@ -438,27 +336,13 @@ preferences-contrast-control-custom =
 preferences-colors-manage-button2 =
     .label = Gestionează culorile
     .accesskey = C
-preferences-colors-header = Culori
-preferences-colors-description = Suprascrie culorile implicite ale { -brand-short-name } pentru text, fundalurile site-urilor web și linkuri.
 preferences-colors-manage-button =
     .label = Gestionează culorile…
     .accesskey = C
 preferences-fonts-header2 =
     .label = Fonturi
-preferences-fonts-header = Fonturi
-default-font = Font implicit
-    .accesskey = D
-default-font-size = Dimensiune
-    .accesskey = S
-advanced-fonts =
-    .label = Avansat…
-    .accesskey = A
 preferences-default-zoom-label =
     .label = Zoom implicit
-    .accesskey = z
-# Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = Zoom
-preferences-default-zoom = Zoom implicit
     .accesskey = z
 # Variables:
 #   $percentage (number) - Zoom percentage value
@@ -469,8 +353,6 @@ preferences-zoom-text-only =
     .accesskey = t
 preferences-text-zoom-override-warning2 =
     .message = Dacă este activat „Mărește doar textul” și zoom-ul implicit nu este 100%, este posibil ca unele site-uri să nu afișeze corect conținutul.
-preferences-text-zoom-override-warning =
-    .message = Avertisment: Dacă selectezi „Mărește doar textul” și zoom-ul implicit nu este setat la 100%, este posibil ca unele site-uri sau conținuturi să nu funcționeze corect.
 language-header = Limbă
 choose-language-description = Alege limba în care preferi să vezi paginile
 website-language-heading =
@@ -514,13 +396,7 @@ browser-language-fallback-label =
     .label = Limbă de revenire
 browser-language-install-error =
     .message = { -brand-short-name } nu poate actualiza limbile tale acum. Verifică dacă ești conectat la internet și încearcă din nou.
-translate-web-pages =
-    .label = Tradu conținutul web
-    .accesskey = T
 fx-translate-web-pages = { -translations-brand-name }
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = Traduceri de <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepții…
     .accesskey = x
@@ -614,23 +490,6 @@ download-always-ask-where2 =
 download-private-browsing-delete2 =
     .label = La închidere, șterge descărcările făcute în ferestre private
     .accesskey = D
-download-header = Descărcări
-download-save-where = Salvează fișierele în
-    .accesskey = v
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Alege…
-           *[other] Răsfoiește…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] o
-        }
-download-always-ask-where =
-    .label = Întreabă întotdeauna unde să salvez fișierele
-    .accesskey = n
 applications-header = Aplicații
 applications-description = Alege felul în care { -brand-short-name } gestionează fișierele pe care le descarci de pe web sau aplicațiile pe care le folosești în timp ce navighezi.
 applications-setting2 =
@@ -681,10 +540,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Folosește { $plugin-name } (în { -brand-short-name })
 applications-open-inapp =
     .label = Deschide în { -brand-short-name }
 
@@ -692,8 +547,6 @@ applications-open-inapp =
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -726,13 +579,10 @@ applications-ask-before-handling2 =
     .accesskey = A
 drm-group =
     .label = Conținut Digital Rights Management (DRM)
-drm-content-header = Conținut Digital Rights Management (DRM)
 play-drm-content =
     .label = Redă conținut controlat prin DRM
     .accesskey = p
 play-drm-content-learn-more = Află mai multe
-update-application-title = Actualizări { -brand-short-name }
-update-application-description = Menține { -brand-short-name } actualizat pentru cea mai bună performanță, stabilitate și securitate.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versiunea { $version } <a data-l10n-name="learn-more">Ce este nou</a>
@@ -746,22 +596,9 @@ update-application-radio-group =
 update-application-auto-2 =
     .label = Să instaleze automat actualizări (recomandat)
     .accesskey = A
-update-history =
-    .label = Afișează istoricul actualizărilor…
-    .accesskey = p
-update-application-allow-description = Permite ca { -brand-short-name }
-update-application-auto =
-    .label = Să instaleze automat actualizări (recomandat)
-    .accesskey = A
 update-application-check-choose-2 =
     .label = Caută actualizări, dar alege tu când să fie instalate
     .accesskey = C
-update-application-check-choose =
-    .label = Să caute actualizări, dar să te lase să decizi dacă le instalezi
-    .accesskey = C
-update-application-manual =
-    .label = Să nu caute niciodată actualizări (nerecomandat)
-    .accesskey = N
 update-application-background-enabled =
     .label = Când { -brand-short-name } nu este deschis
     .accesskey = W
@@ -769,13 +606,6 @@ update-application-warning-cross-user-setting-2 =
     .message = Această setare se va aplica pentru toate conturile Windows și profilurile { -brand-short-name } care folosesc această instalare de { -brand-short-name }.
 update-application-suppress-prompts-2 =
     .label = Afișează mai puține memento-uri despre actualizări
-    .accesskey = n
-update-application-warning-cross-user-setting = Această setare se va aplica pentru toate conturile Windows și profilurile { -brand-short-name } care folosesc această instalare de { -brand-short-name }.
-update-application-use-service =
-    .label = Folosește un serviciu în fundal pentru a instala actualizări
-    .accesskey = b
-update-application-suppress-prompts =
-    .label = Afișează mai puține solicitări de notificare a actualizărilor
     .accesskey = n
 update-setting-write-failure-title2 = Eroare la salvarea setărilor de actualizare
 # Variables:
@@ -820,11 +650,6 @@ support-share-ideas =
 
 ## General Section - Performance
 
-performance-title = Performanță
-performance-use-recommended-settings-checkbox =
-    .label = Folosește setările recomandate de performanță
-    .accesskey = U
-performance-use-recommended-settings-desc = Aceste setări sunt adaptate pentru hardware-ul și sistemul de operare al calculatorului.
 performance-settings-learn-more = Află mai multe
 performance-allow-hw-accel =
     .label = Folosește accelerarea hardware atunci când este disponibilă
@@ -846,9 +671,6 @@ performance-use-recommended-settings-checkbox-2 =
 
 ## Accessibility page
 
-browsing-title = Navigare
-browsing-group-label =
-    .aria-label = Navigare
 browsing-use-autoscroll =
     .label = Folosește derularea automată
     .accesskey = a
@@ -887,26 +709,20 @@ settings-media-group =
 browsing-picture-in-picture-toggle-enabled-2 =
     .label = Folosește imagine-în-imagine
     .accesskey = e
-browsing-picture-in-picture-toggle-enabled =
-    .label = Activează comenzile video picture-in-picture
-    .accesskey = E
 browsing-picture-in-picture-enable-when-switching-tabs =
     .label = Continuă redarea videoclipurilor în modul imagine-în-imagine la schimbarea filelor
     .accesskey = s
-browsing-picture-in-picture-learn-more = Află mai multe
 browsing-media-control =
     .label = Controlează conținutul media via tastatură, căști sau interfață virtuală
     .accesskey = v
 recommendations-group =
     .label = Recomandări
-browsing-media-control-learn-more = Află mai multe
 browsing-cfr-recommendations =
     .label = Recomandă extensii pe măsură ce navighezi
     .accesskey = R
 browsing-cfr-features =
     .label = Funcționalități recomandate în timpul navigării
     .accesskey = f
-browsing-cfr-recommendations-learn-more = Află mai multe
 browsing-group =
     .label = Navigare
 preferences-accessibility-header =
@@ -925,12 +741,6 @@ preferences-fonts-advanced-settings =
 
 ## General Section - Proxy
 
-network-settings-title = Setări de rețea
-network-proxy-connection-description = Configurează modul în care { -brand-short-name } se conectează la internet.
-network-proxy-connection-learn-more = Află mai multe
-network-proxy-connection-settings =
-    .label = Setări…
-    .accesskey = e
 network-proxy-group2 =
     .description = Configurează cum se conectează { -brand-short-name } la internet.
     .label = Setări proxy
@@ -1042,9 +852,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Site-uri pe care le salvezi sau le vizitezi
 home-prefs-shortcuts-by-option-sponsored =
     .label = Comenzi rapide sponsorizate
-home-prefs-recommended-by-header =
-    .label = Recomandat de { $provider }
-home-prefs-recommended-by-description-new = Conținut excepțional, selecționat de { $provider }, parte a familiei { -brand-product-name }
 home-prefs-recommended-by-header-generic =
     .label = Articole recomandate
 home-prefs-recommended-by-description-generic = Conținut excepțional, selecționat de familia { -brand-product-name }
@@ -1057,26 +864,15 @@ home-prefs-stories-description = Articole personalizate bazate pe activitatea ta
 home-prefs-recommended-by-learn-more = Cum funcționează
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Articole sponsorizate
-home-prefs-recommended-by-option-recent-saves =
-    .label = Afișează salvările recente
 home-prefs-highlights-option-visited-pages =
     .label = Pagini vizitate
 home-prefs-highlights-options-bookmarks =
     .label = Marcaje
 home-prefs-highlights-option-most-recent-download =
     .label = Cele mai recente descărcări
-home-prefs-highlights-option-saved-to-pocket =
-    .label = Pagini salvate în { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = Activitate recentă
 home-prefs-recent-activity-description = O selecție de site-uri și conținut recente
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = Fragmente
-home-prefs-snippets-description-new = Sfaturi și știri de la { -vendor-short-name } și { -brand-product-name }
 home-prefs-weather-header =
     .label = Meteo
 home-prefs-weather-description = Vremea azi dintr-o privire
@@ -1100,22 +896,6 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = Bară de căutare
-search-bar-hidden =
-    .label = Folosește bara de adresă pentru căutare și navigare
-search-bar-shown =
-    .label = Adaugă bara de căutare în bara de instrumente
-search-engine-default-header = Motor de căutare implicit
-search-engine-default-desc-2 = Este motorul tău de căutare implicit din bara de adresă și bara de căutare. Îl poți schimba oricând.
-search-engine-default-private-desc-2 = Alege un alt motor de căutare implicit numai pentru ferestrele private
-search-separate-default-engine =
-    .label = Folosește acest motor de căutare în ferestrele private
-    .accesskey = U
-search-suggestions-header = Sugestii de căutare
-search-suggestions-desc = Alege felul în care apar sugestiile motoarelor de căutare.
-search-suggestions-option =
-    .label = Furnizează sugestii de căutare
-    .accesskey = s
 search-show-suggestions-option =
     .label = Afișează sugestiile de căutare
     .accesskey = S
@@ -1151,22 +931,6 @@ search-separate-default-engine-dropdown =
     .aria-label = Motor de căutare implicit în ferestrele private
 search-suggestions-header-2 =
     .label = Sugestii motor de căutare
-# With this option enabled, on the search results page
-# the URL will be replaced by the search terms in the address bar
-# when using the current default search engine.
-search-show-search-term-option =
-    .label = Afișează termenii de căutare în loc de URL pe pagina rezultatelor motorului de căutare implicit
-# This string describes what the user will observe when the system
-# prioritizes search suggestions over browsing history in the results
-# that extend down from the address bar. In the original English string,
-# "ahead" refers to location (appearing most proximate to), not time
-# (appearing before).
-search-show-suggestions-above-history-option =
-    .label = Afișează sugestiile de căutare înaintea istoricului de navigare în rezultatele din bara de adresă
-search-show-suggestions-private-windows =
-    .label = Afișează sugestii de căutare în ferestrele private
-suggestions-addressbar-settings-generic2 = Schimbă setările pentru alte sugestii în bara de adrese
-search-suggestions-cant-show = Sugestiile de căutare nu vor fi afișate în rezultatele din bara de adrese deoarece ai configurat { -brand-short-name } ca să nu țină minte niciodată istoricul.
 search-one-click-header2 = Comenzi rapide pentru căutări
 search-one-click-desc = Alege motoarele de căutare alternative care apar sub bara de adresă și bara de căutare atunci când începi să introduci un cuvânt cheie.
 search-one-click-header-3 =
@@ -1227,19 +991,6 @@ search-section =
 
 ## Containers Section
 
-containers-back-button2 =
-    .aria-label = Înapoi la setări
-containers-header = File container
-containers-add-button =
-    .label = Adaugă un container nou
-    .accesskey = A
-containers-new-tab-check =
-    .label = Selectează un container pentru fiecare filă nouă
-    .accesskey = S
-containers-settings-button =
-    .label = Setări
-containers-remove-button =
-    .label = Elimină
 containers-section-header2 =
     .heading = Setări container
 containers-card-header2 =
@@ -1323,8 +1074,6 @@ sync-mobile-promo = Descarcă Firefox pentru <img data-l10n-name="android-icon"/
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = Schimbă fotografia de profil
 sync-profile-picture-with-alt =
     .alt = Schimbă fotografia de profil
     .tooltiptext = Schimbă fotografia de profil
@@ -1364,9 +1113,6 @@ sync-account-signed-in-display-name =
 
 ##
 
-sync-resend-verification =
-    .label = Retrimite verificarea
-    .accesskey = d
 sync-verify-account =
     .label = Verifică contul
     .accesskey = V
@@ -1393,10 +1139,6 @@ prefs-sync-turn-on-syncing-2 =
     .label = Activează sincronizarea
     .accesskey = s
 prefs-sync-offer-setup-label2 = Sincronizează marcajele, istoricul, filele, parolele, suplimentele și setările pe toate dispozitivele.
-prefs-sync-now =
-    .labelnotsyncing = Sincronizează acum
-    .labelsyncing = Se sincronizează…
-    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = Sincronizează acum
     .accesskey = N
@@ -1419,10 +1161,8 @@ sync-syncing-across-devices-empty-state2 =
 sync-currently-syncing-bookmarks = Marcaje
 sync-currently-syncing-history = Istoric
 sync-currently-syncing-tabs = File deschise
-sync-currently-syncing-logins-passwords = Date de autentificare și parole
 sync-currently-syncing-passwords = Parole
 sync-currently-syncing-addresses = Adrese
-sync-currently-syncing-creditcards = Carduri de credit
 sync-currently-syncing-payment-methods = Metode de plată
 sync-currently-syncing-addons = Suplimente
 sync-currently-syncing-settings = Setări
@@ -1434,20 +1174,9 @@ sync-manage-options-2 =
     .accesskey = M
 settings-sync-disconnect-button =
     .label = Deconectare
-sync-change-options =
-    .label = Modifică…
-    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
-sync-choose-what-to-sync-dialog3 =
-    .buttonlabelaccept = Salvează modificările
-    .buttonlabelextra2 = Deconectează-te…
-    .buttonaccesskeyaccept = S
-    .buttonaccesskeyextra2 = D
-    .style = min-width: 36em;
-    .title = Alege ce să se sincronizeze
-sync-choose-dialog-subtitle = Modificările aduse listei elementelor de sincronizat se vor reflecta pe toate dispozitivele tale conectate.
 sync-engine-bookmarks =
     .label = Marcaje
     .accesskey = M
@@ -1458,10 +1187,6 @@ sync-engine-tabs =
     .label = File deschise
     .tooltiptext = O listă cu ce este deschis pe toate dispozitivele sincronizate
     .accesskey = T
-sync-engine-logins-passwords =
-    .label = Date de autentificare și parole
-    .tooltiptext = Denumiri de utilizator și parole salvate
-    .accesskey = L
 sync-engine-passwords =
     .label = Parole
     .tooltiptext = Parole pe care le-ai salvat
@@ -1470,10 +1195,6 @@ sync-engine-addresses =
     .label = Adrese
     .tooltiptext = Adrese poștale salvate (doar desktop)
     .accesskey = e
-sync-engine-creditcards =
-    .label = Carduri de credit
-    .tooltiptext = Nume, numere și date de expirare (doar desktop)
-    .accesskey = c
 sync-engine-payment-methods2 =
     .label = Metode de plată
     .tooltiptext = Nume, numere ale cardurilor și date ale expirării
@@ -1520,29 +1241,9 @@ sync-connect-another-device = Conectează alt dispozitiv
 sync-connect-another-device-2 =
     .label = Conectează alt dispozitiv
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = Verificare trimisă
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = Un link de verificare a fost trimis la { $email }.
-sync-verification-not-sent-title = Nu se poate trimite verificarea
-sync-verification-not-sent-body = Nu putem să trimitem un e-mail de verificare în acest moment, te rugăm să încerci din nou mai târziu.
-
 ## Privacy Section
 
 privacy-header = Confidențialitate în browser
-
-## Privacy Section - Logins and Passwords
-
-# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = Autentificări și parole
-    .searchkeywords = { -lockwise-brand-short-name }
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = Solicită salvarea autentificărilor și parolelor pentru site-urile web
-    .accesskey = r
 
 ## Privacy Panel Settings
 
@@ -1563,9 +1264,6 @@ forms-manage-password-exceptions =
 forms-exceptions =
     .label = Excepții…
     .accesskey = x
-forms-generate-passwords =
-    .label = Sugerează și generează parole puternice
-    .accesskey = u
 forms-suggest-passwords =
     .label = Recomandă parole puternice
     .accesskey = S
@@ -1573,19 +1271,10 @@ forms-breach-alerts =
     .label = Afișează alerte despre parole pentru site-urile web a căror securitate a fost încălcată
     .accesskey = b
 forms-breach-alerts-learn-more-link = Află mai multe
-preferences-relay-integration-checkbox =
-    .label = Recomandă măști de e-mail { -relay-brand-name } pentru protejarea adresei de e-mail
 preferences-relay-integration-checkbox2 =
     .label = Recomandă măști de e-mail { -relay-brand-name } pentru protejarea adresei de e-mail
     .accesskey = r
 relay-integration-learn-more-link = Află mai multe
-# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
-forms-fill-logins-and-passwords =
-    .label = Completează automat autentificări și parole
-    .accesskey = i
-forms-saved-logins =
-    .label = Date de autentificare salvate…
-    .accesskey = L
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-usernames-and-passwords =
     .label = Completează automat numele de utilizator și parolele
@@ -1675,20 +1364,6 @@ autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
-pane-privacy-autofill-header = Completare automată
-autofill-addresses-checkbox = Salvează și completează adrese
-    .accesskey = a
-autofill-saved-addresses-button = Adrese salvate
-    .accesskey = S
-autofill-payment-methods-checkbox-message = Salvează și completează metodele de plată
-    .accesskey = m
-autofill-payment-methods-checkbox-submessage = Include carduri de credit și de debit
-    .accesskey = I
-autofill-saved-payment-methods-button = Metode de plată salvate
-    .accesskey = v
-# This operation requires the user to authenticate with the operating system (device sign-in)
-autofill-reauth-payment-methods-checkbox = Trebuie să intri în cont pe dispozitiv ca să completezi și să gestionezi metode de plată
-    .accesskey = o
 autofill-payment-methods-header =
     .aria-label = Metode de plată
 autofill-payment-methods-checkbox-message-2 =
@@ -1777,29 +1452,11 @@ payments-group =
 
 ## Privacy Section - History
 
-history-header = Istoric
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name }
-    .accesskey = w
-history-remember-option-all =
-    .label = Va ține minte istoricul
 history-remember-option-never2 =
     .description = Fiecare fereastră se comportă ca o fereastră privată. Când este activat acest mod, extensiile au nevoie de permisiuni.
     .label = Nu reține niciodată istoricul
 history-remember-option-custom2 =
     .label = Personalizează istoricul
-history-remember-option-never =
-    .label = Nu va ține minte istoricul niciodată
-history-remember-option-custom =
-    .label = Va folosi setări personalizate pentru istoric
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } va ține minte istoricul navigării, descărcărilor, formularelor și căutărilor.
@@ -1809,8 +1466,6 @@ history-dontremember-description4 =
 history-custom-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } va folosi setări personalizate pentru navigare, descărcări, formulare și istoricul căutărilor.
-history-remember-description = { -brand-short-name } va ține minte istoricul navigării, descărcărilor, formularelor și căutărilor.
-history-dontremember-description = { -brand-short-name } va folosi aceleași setări ca navigarea privată și nu va ține minte istoricul în timp ce navighezi pe web.
 history-private-browsing-permanent =
     .label = Folosește mereu modul de navigare privată
     .accesskey = m
@@ -1851,48 +1506,26 @@ history-remember-option-all2 =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Cookie-uri și date ale site-urilor
 sitedata-total-size-calculating = Se calculează datele site-urilor și mărimea cache-ului…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = Site-urile folosesc acum <strong>{ $value } { $unit }</strong> din spațiul de pe disc.
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Cookie-urile stocate, datele site-urilor și cache-ul folosesc în prezent { $value } { $unit } din spațiul de pe disc.
 sitedata-learn-more = Află mai multe
 sitedata-delete-on-close2 =
     .label = Șterge cookie-urile și datele site-urilor de fiecare dată când închizi { -brand-short-name }
-    .accesskey = c
-sitedata-delete-on-close =
-    .label = Șterge cookie-urile și datele site-urilor la închiderea { -brand-short-name }
     .accesskey = c
 sitedata-delete-on-close-private-browsing3 =
     .message = Pe baza setărilor istoricului, { -brand-short-name } șterge cookie-urile și datele site-urilor din sesiune la închiderea browserului.
 sitedata-delete-on-close-private-browsing4 =
     .heading = Istoricul nu va fi salvat.
     .message = { -brand-short-name } elimină cookie-urile și datele site-urilor din sesiune când închizi browserul.
-sitedata-delete-on-close-private-browsing = În modul de navigare privată permanentă, cookie-urile și datele site-urilor vor fi întotdeauna șterse la închiderea { -brand-short-name }.
-sitedata-delete-on-close-private-browsing2 = Pe baza setărilor istoricului, { -brand-short-name } șterge cookie-urile și datele site-urilor din sesiune la închiderea browserului.
-sitedata-allow-cookies-option =
-    .label = Acceptă cookie-uri și datele site-urilor
-    .accesskey = A
-sitedata-disallow-cookies-option =
-    .label = Blochează cookie-urile și datele site-urilor
-    .accesskey = B
-# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
-# The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = Tipul conținutului blocat
-    .accesskey = T
 sitedata-option-block-cross-site-trackers =
     .label = Elemente de urmărire inter-site-uri
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Cookie-uri de urmărire inter-site-uri
 sitedata-option-block-cross-site-cookies2 =
     .label = Izolează cookie-urile inter-site-uri
-sitedata-option-block-cross-site-cookies =
-    .label = Cookie-uri de urmărire inter-site-uri și izolează celelate cookie-uri inter-site-uri
 sitedata-option-block-unvisited =
     .label = Cookie-uri de pe site-uri web nevizitate
 sitedata-option-block-all-cross-site-cookies =
@@ -1904,12 +1537,6 @@ sitedata-clear2 =
     .accesskey = l
 sitedata-settings2 =
     .label = Gestionează datele de navigare
-    .accesskey = M
-sitedata-clear =
-    .label = Șterge datele…
-    .accesskey = l
-sitedata-settings =
-    .label = Gestionează datele…
     .accesskey = M
 sitedata-cookies-exceptions =
     .label = Gestionează excepțiile…
@@ -1931,32 +1558,16 @@ sitedata-cookies-exceptions3 =
 cookies-site-data-group =
     .label = Cookie-uri și date ale site-urilor
 
-## Privacy Section - Cookie Banner Handling
-
-cookie-banner-handling-header = Reducerea bannerelor de cookie-uri
-cookie-banner-handling-description = { -brand-short-name } încearcă automat să respingă solicitările de cookie-uri din bannerele de cookie-uri de pe site-urile acceptate.
-
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Blocarea bannerelor de cookie-uri
 cookie-banner-blocker-description = Când un site întreabă dacă poate folosi cookie-uri în modul de navigare privată, { -brand-short-name } refuză automat pentru tine. Numai pe site-urile acceptate.
 cookie-banner-learn-more = Află mai multe
-forms-handle-cookie-banners =
-    .label = Reducerea bannerelor de cookie-uri
 cookie-banner-blocker-checkbox-label =
     .label = Refuză automat bannerele de cookie-uri
 
 ## Search Section
 
-addressbar-header = Bară de adrese
-addressbar-suggest = Când se folosește bara de adresă, sugerează:
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest = Bară de adrese — { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest = Alege tipul de sugestii care apar în bara de adrese.
-# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
-# `addressbar-suggest-firefox-suggest`.
-addressbar-locbar-firefox-suggest-learn-more = Află mai multe
 addressbar-locbar-history-option =
     .label = Istoric de navigare
     .accesskey = H
@@ -1979,9 +1590,6 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option-1 =
     .label = Sugerează motoare de căutare pentru folosire
     .accesskey = a
-addressbar-locbar-engines-option =
-    .label = Motoare de căutare
-    .accesskey = a
 addressbar-locbar-quickactions-option =
     .label = Acțiuni rapide
     .accesskey = Q
@@ -1998,20 +1606,6 @@ addressbar-locbar-suggest-all-option-2 =
 addressbar-locbar-suggest-sponsored-option-2 =
     .description = Susține { -brand-short-name } cu sugestii sponsorizate ocazionale.
     .label = Sugestii de la sponsori
-addressbar-suggestions-settings = Schimbă preferințele pentru sugestiile motoarelor de căutare…
-addressbar-locbar-showrecentsearches-option =
-    .label = Afișează căutările recente
-    .accesskey = r
-addressbar-locbar-showtrendingsuggestions-option =
-    .label = Afișează sugestii de căutare în tendințe
-    .accesskey = t
-# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
-addressbar-locbar-suggest-nonsponsored-option =
-    .label = Sugestii de la { -brand-short-name }
-addressbar-locbar-suggest-nonsponsored-desc = Obține sugestii de pe web legate de căutarea ta.
-addressbar-locbar-suggest-sponsored-option =
-    .label = Sugestii de la sponsori
-addressbar-locbar-suggest-sponsored-desc = Susține { -brand-short-name } cu sugestii sponsorizate ocazionale.
 # This string is used for a checkbox in the settings UI that opts the
 # user into "online" Firefox Suggest, allowing them to receive suggestions from
 # Mozilla's Merino server.
@@ -2025,11 +1619,6 @@ addressbar-dismissed-suggestions-label-2 =
     .label = Sugestii respinse
 addressbar-restore-dismissed-suggestions-button-2 =
     .label = Restaurează suggestiile
-addressbar-quickactions-learn-more = Află mai multe
-addressbar-dismissed-suggestions-label = Sugestii respinse
-addressbar-restore-dismissed-suggestions-description = Restaurează sugestiile respinse de la sponsori și { -brand-short-name }.
-addressbar-restore-dismissed-suggestions-button =
-    .label = Restaurează
 
 ## Privacy Section - Content Blocking
 
@@ -2067,7 +1656,6 @@ content-blocking-cross-site-cookies-in-all-windows2 = Cookie-uri inter-site-uri 
 content-blocking-cross-site-tracking-cookies = Cookie-uri de urmărire inter-site-uri
 content-blocking-all-cross-site-cookies-private-windows = Cookie-uri inter-site-uri în ferestrele private
 content-blocking-isolate-cross-site-cookies = Izolează cookie-urile inter-site-uri
-content-blocking-cross-site-tracking-cookies-plus-isolate = Cookie-uri de urmărire inter-site-uri și izolează restul cookie-urilor
 content-blocking-social-media-trackers = Elementele de urmărire ale rețelelor sociale
 content-blocking-all-cookies = Toate cookie-urile
 content-blocking-unvisited-cookies = Cookie-uri de la site-uri nevizitate
@@ -2083,12 +1671,10 @@ content-blocking-known-and-suspected-fingerprinters = Detectoare cunoscute și s
 content-blocking-etp-standard-tcp-rollout-description = Protecția totală a cookie-urilor izolează cookie-urile către site-ul pe care te afli, astfel încât elementele de urmărire nu le pot folosi pentru a te urmări între site-uri.
 content-blocking-etp-standard-tcp-rollout-learn-more = Află mai multe
 content-blocking-etp-standard-tcp-title = Include protecția totală a cookie-urilor, cea mai puternică funcție de confidențialitate pe care am proiectat-o noi vreodată
-content-blocking-warning-title = Atenție!
 content-blocking-warning-title-2 = Unele site-uri ar putea funcționa necorespunzător cu protecție strictă împotriva urmăririi
 content-blocking-warning-title-custom = Se poate ca unele site-uri să nu funcționeze cu protecția personalizată împotriva urmăririi
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } recomandă folosirea setărilor „Rezolvă problemele site-urilor” pentru reducerea funcționalităților și conținutului nefuncțional de pe site-uri. Dacă un site pare nefuncțional, încearcă să dezactivezi protecția împotriva urmăririi pentru site-ul respectiv ca să se încarce tot conținutul.
-content-blocking-and-isolating-etp-warning-description-2 = Această setare poate poate determina unele site-uri web să nu afișeze conținut sau să nu funcționeze corect. Dacă un site pare să fie defect, ai posibilitatea de a dezactiva protecția de urmărire pentru acel site pentru a încărca tot conținutul.
 content-blocking-warning-learn-how = Află cum
 content-blocking-baseline-exceptions-3 =
     .description = Ajută la încărcarea site-urilor și a funcționalităților prin deblocarea numai a elementelor esențiale care ar putea conține elemente de urmărire. Rezolvă majoritatea problemelor frecvente.
@@ -2114,7 +1700,6 @@ content-blocking-tracking-protection-option-all-windows =
 content-blocking-option-private =
     .label = Doar în ferestrele private
     .accesskey = P
-content-blocking-tracking-protection-change-block-list = Modifică lista de blocare
 content-blocking-cookies-label =
     .label = Cookie-uri
     .accesskey = C
@@ -2124,11 +1709,6 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = Criptomineri
     .accesskey = y
-# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
-# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
-content-blocking-fingerprinters-label =
-    .label = Detectoare de amprente digitale
-    .accesskey = F
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 #
@@ -2150,42 +1730,11 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = Permisiuni
-permissions-location = Locație
-permissions-location-settings =
-    .label = Setări…
-    .accesskey = l
-permissions-xr = Realitate virtuală
-permissions-xr-settings =
-    .label = Setări…
-    .accesskey = t
-permissions-camera = Cameră
-permissions-camera-settings =
-    .label = Setări…
-    .accesskey = t
-permissions-microphone = Microfon
-permissions-microphone-settings =
-    .label = Setări…
-    .accesskey = m
-# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
-permissions-speaker = Selectare boxe
-permissions-speaker-settings =
-    .label = Setări...
-    .accesskey = t
-permissions-notification = Notificări
-permissions-notification-settings =
-    .label = Setări…
-    .accesskey = n
-permissions-notification-link = Află mai multe
 permissions-notification-pause =
     .label = Pune pe pauză notificările până la repornirea lui { -brand-short-name }
     .accesskey = n
 permissions-autoplay2 =
     .label = Redare automată
-permissions-autoplay = Redare automată
-permissions-autoplay-settings =
-    .label = Setări…
-    .accesskey = t
 permissions-block-popups2 =
     .label = Blochează ferestrele pop-up și redirecționările părți terțe
     .accesskey = B
@@ -2201,21 +1750,6 @@ permissions-addon-install-warning3 =
     .accesskey = W
 permissions-addon-exceptions2 =
     .label = Alege ce site-uri web pot instala extensii
-    .accesskey = E
-permissions-block-popups =
-    .label = Blochează ferestrele pop-up
-    .accesskey = B
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button =
-    .label = Excepții…
-    .searchkeywords = popup
-    .accesskey = E
-permissions-addon-install-warning =
-    .label = Avertizează atunci când site-urile web încearcă să instaleze suplimente
-    .accesskey = w
-permissions-addon-exceptions =
-    .label = Excepții…
     .accesskey = E
 permissions-location2 =
     .label = Locație
@@ -2244,17 +1778,6 @@ pane-permissions-data-title2 = Permisiuni și date
 
 ## Privacy Section - Data Collection
 
-collection-header = Colectarea și utilizarea de date din { -brand-short-name }
-collection-header2 = Colectarea și utilizarea de date în { -brand-short-name }
-    .searchkeywords = telemetrie
-preferences-collection-description = Ne străduim să îți oferim opțiuni și să colectăm doar datele minime necesare pentru a îmbunătăți { -brand-product-name } pentru toți.
-preferences-collection-privacy-notice = Vezi notificarea privind confidențialitatea
-preferences-across-profiles = Setările se aplică fiecărui profil { -brand-product-name } de pe acest dispozitiv.
-preferences-view-profiles = Vezi toate profilurile
-collection-description = Ne străduim să îți oferim posibilitatea de a face alegeri și colectăm doar ceea ce avem nevoie ca să furnizăm și să îmbunătățim { -brand-short-name } pentru toată lumea. Întotdeauna solicităm permisiunea înainte de a primi informații cu caracter personal.
-collection-privacy-notice = Notificare privind confidențialitatea
-collection-health-report-telemetry-disabled = Nu mai permiți { -vendor-short-name } să îți capteze datele tehnice și de interacționare. Toate datele anterioare vor fi șterse în 30 de zile.
-collection-health-report-telemetry-disabled-link = Află mai multe
 backup-multi-profile-warning-message =
     .message = Pentru siguranța că modificarea este inclusă în copiile de rezervă, deschide fiecare profil și alege „Fă acum copie de rezervă” în Setări.
 nimbus-rollouts =
@@ -2263,27 +1786,6 @@ nimbus-rollouts =
 addon-recommendations3 =
     .description = Obține recomandări de extensii pentru a-ți îmbunătăți experiența de navigare.
     .label = Permite recomandări personalizate pentru extensii
-collection-usage-ping =
-    .label = Trimite un ping de utilizare zilnică către { -vendor-short-name }
-    .accesskey = u
-collection-usage-ping-description = Ajută { -vendor-short-name } să estimeze utilizatorii activi.
-collection-health-report2 =
-    .label = Trimite date tehnice și de interacțiune către { -vendor-short-name }
-    .accesskey = r
-collection-health-report =
-    .label = Permite ca { -brand-short-name } să trimită informații tehnice și de interacțiune către { -vendor-short-name }
-    .accesskey = r
-collection-health-report-link = Află mai multe
-collection-health-report-description = Ne ajută să îmbunătățim funcționalitățile, performanța și stabilitatea { -brand-product-name }.
-collection-studies2 =
-    .label = Instalează și execută studii
-collection-studies-description = Încearcă funcționalitățile și ideile înainte de a le lansa public.
-collection-studies =
-    .label = Permite ca { -brand-short-name } să instaleze și să realizeze studii
-collection-studies-link = Vezi studiile { -brand-short-name }
-addon-recommendations2 =
-    .label = Permite recomandări personalizate pentru extensii
-addon-recommendations-description = Obține recomandări de extensii pentru a-ți îmbunătăți experiența de navigare.
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = Raportarea datelor este dezactivată în configurația folosită.
@@ -2297,14 +1799,6 @@ settings-redesign-promo =
     .message = Am reorganizat pagina ca să îți vină mai ușor să scanezi și să explorezi. Setările tale personale nu s-au modificat și ai totul în continuare aici. Sfat: folosește căutările ca să sari direct la ce îți trebuie.
 settings-redesign-promo-dismiss-button =
     .label = Am înțeles
-addon-recommendations =
-    .label = Permite ca { -brand-short-name } să facă recomandări de extensii personalizate
-addon-recommendations-link = Află mai multe
-# This message is displayed above disabled data sharing options in developer builds
-# or builds with no Telemetry support available.
-collection-health-report-disabled = Raportarea datelor este dezactivată în configurația folosită
-collection-backlogged-crash-reports-with-link = Permite ca { -brand-short-name } să trimită în numele tău rapoarte de defecțiuni înregistrate în jurnal <a data-l10n-name="crash-reports-link">Află mai multe</a>
-    .accesskey = c
 privacy-segmentation-section-header = Funcționalități noi care îmbunătățesc navigarea
 privacy-segmentation-section-description = Când oferim funcționalități care îți utilizează datele pentru a-ți oferi o experiență mai personalizată:
 privacy-segmentation-radio-off =
@@ -2344,14 +1838,6 @@ data-collection-usage-ping =
     .label = Trimite un ping de utilizare zilnică către { -vendor-short-name }
     .accesskey = u
 
-## Privacy Section - Website Advertising Preferences
-
-website-advertising-header = Preferințe de publicitate pe site-urile web
-website-advertising-private-attribution =
-    .label = Permite site-urilor web să efectueze măsurători ale anunțurilor care respectă confidențialitatea
-    .accesskey = a
-website-advertising-private-attribution-description = Ajută site-urile să înțeleagă cum se comportă anunțurile lor fără a colecta date despre tine.
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -2361,7 +1847,6 @@ security-header = Securitate
 browsing-protection-group2 =
     .description = Site-urile și descărcările periculoase îți pot pune în pericol datele și dispozitivul. { -brand-short-name } le blochează automat și te avertizează despre softuri riscante sau nedorite.
     .label = Protecție împotriva conținutului înșelător și a programelor periculoase
-security-browsing-protection = Protecție împotriva conținutului înșelător și a programelor periculoase
 security-enable-safe-browsing =
     .label = Blochează conținutul periculos și înșelător
     .accesskey = B
@@ -2377,16 +1862,6 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = Certificate
-certs-enable-ocsp =
-    .label = Interoghează serverele de răspuns OCSP pentru confirmarea valabilității actuale a certificatelor
-    .accesskey = h
-certs-view =
-    .label = Vezi certificatele…
-    .accesskey = c
-certs-devices =
-    .label = Dispozitive de securitate…
-    .accesskey = D
 certs-thirdparty-toggle =
     .label = Permite { -brand-short-name } să acorde automat încredere certificatelor-rădăcină terțe pe care le instalezi
     .accesskey = t
@@ -2408,19 +1883,13 @@ certs-devices2 =
 
 ## Privacy Section - HTTPS-Only
 
-httpsonly-header = Mod numai HTTPS
-httpsonly-description3 = Permite doar conexiuni securizate la site-uri web. { -brand-short-name } va întreba înainte de a se conecta în mod nesecurizat.
 httpsonly-learn-more2 = Cum funcționează Numai HTTPS
-httpsonly-description = HTTPS oferă o conexiune criptată și securizată între { -brand-short-name } și site-urile web pe care intri. Cele mai multe site-uri au suport pentru HTTPS și, dacă este activat modul numai HTTPS, atunci { -brand-short-name } va folosi HTTPS pentru toate conexiunile.
-httpsonly-learn-more = Află mai multe
 httpsonly-radio-enabled =
     .label = Activează modul numai HTTPS în toate ferestrele
 httpsonly-radio-enabled-pbm =
     .label = Activează modul numai HTTPS doar în ferestrele private
 httpsonly-radio-disabled3 =
     .description = { -brand-short-name } poate încă activa modul pe unele conexiuni
-    .label = Nu activa modul numai HTTPS
-httpsonly-radio-disabled =
     .label = Nu activa modul numai HTTPS
 httpsonly-group =
     .description = Permite doar conexiuni securizate la site-uri web. { -brand-short-name } va întreba înainte de a se conecta în mod nesecurizat.
@@ -2434,7 +1903,6 @@ preferences-doh-header = DNS prin HTTPS
 dns-over-https-group2 =
     .description = Sistemul de nume de domenii prin HTTPS (DoH) criptează căutările de site-uri, astfel încât furnizorului tău de internet sau altor persoane le este mai greu să vadă pe ce site-uri urmează să intri.
     .label = DNS prin HTTPS
-preferences-doh-description = Sistemul de nume de domeniu (DNS) prin HTTPS îți trimite cerere pentru un nume de domeniu printr-o conexiune criptată, creând un DNS securizat și făcând mai dificil pentru alții să vadă ce site web urmează să accesezi.
 preferences-doh-description2 = Sistemul de nume de domeniu (DNS) prin HTTPS îți trimite cerere pentru un nume de domeniu printr-o conexiune criptată, creând un DNS securizat și făcând mai dificil pentru alții să vadă ce site web urmează să accesezi.
 # Variables:
 #   $status (string) - The status of the DoH connection
@@ -2451,7 +1919,6 @@ preferences-doh-status-disabled = Dezactivat
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Inactiv ({ $reason })
-preferences-doh-group-message = Activează DNS securizat folosind:
 preferences-doh-group-message2 = Activează DNS prin HTTPS folosind:
 preferences-doh-radio-group =
     .aria-label = Activează DNS prin HTTPS folosind:
@@ -2483,11 +1950,7 @@ preferences-doh-setting-off =
     .label = Dezactivat
     .accesskey = O
 preferences-doh-off-desc = Folosește rezolverul DNS implicit
-preferences-doh-checkbox-warn =
-    .label = Avertizează dacă un terț împiedică în mod activ utilizarea unui DNS securizat
-    .accesskey = W
 preferences-doh-select-resolver = Alege furnizorul:
-preferences-doh-exceptions-description = { -brand-short-name } nu va folosi DNS securizat pe aceste site-uri
 preferences-doh-manage-exceptions =
     .label = Gestionează excepțiile...
     .accesskey = x
@@ -2569,7 +2032,6 @@ preferences-connection-link-button =
 
 desktop-folder-name = Desktop
 downloads-folder-name = Descărcări
-choose-download-folder-title = Alege dosarul de descărcare:
 
 ## Appearance page
 

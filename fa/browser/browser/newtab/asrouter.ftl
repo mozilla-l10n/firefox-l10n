@@ -62,17 +62,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = نشانک‌های خود را در هر جایی همگام کنید.
-cfr-doorhanger-bookmark-fxa-body = یک یافته فوق العاده! اکنون بدون این نشانک در دستگاه‌های تلفن همراه خود نماند. با یک { -fxaccount-brand-name } شروع کنید.
 cfr-doorhanger-bookmark-fxa-link-text = نشانک‌ها را همگام کن...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = دکمه بستن
     .title = بستن
-
-## Protections panel
-
-cfr-protections-panel-header = بدون دنبال شدن مرور کنید
-cfr-protections-panel-body = داده‌های خود را نزد خود نگه دارید. { -brand-short-name } شما را از بسیاری از متداول‌ترین ردیاب‌هایی که شما را به صورت آنلاین دنبال می‌کنند محافظت می‌کند.
-cfr-protections-panel-link-text = بیشتر بدانید
 
 ## What's New toolbar button and panel
 
@@ -150,11 +143,6 @@ spotlight-pin-secondary-button = اکنون نه
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = زمانی دیگر یادآوری کن
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-primarybutton = ببینید چگونه کار می‌کند
-firefoxview-spotlight-promo-secondarybutton = پرش
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 

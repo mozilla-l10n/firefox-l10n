@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 
 ## Searchbar context menu
 
@@ -34,8 +29,6 @@ urlbar-switch-to-tab =
     .value = Dem ci koñ bi:
 urlbar-go-button2 =
     .title = Dem ci xët wi ñu joxoñ ci banqaasu makkaan
-urlbar-go-button =
-    .tooltiptext = Dem ci xët wi ñu joxoñ ci banqaasu makkaan
 
 ## Reader View toolbar buttons
 
@@ -62,28 +55,10 @@ bookmarks-toolbar-placeholder =
 bookmarks-toolbar-placeholder-button =
     .label = Mbiri banqaasu bopp
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = Jox ndigal popup yi ngir { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Boloke popup yi ngir { $uriHost }
-    .accesskey = p
-
-##
-
-popups-infobar-dont-show-message =
-    .label = Bañ wone bataaxal bi su fekkee popup yi dañu leen boloke
-    .accesskey = D
-
 ##
 
 navbar-downloads =
     .label = Yeb yi
-navbar-overflow =
-    .tooltiptext = Yeneeni jumtukaay...
 navbar-search =
     .title = Wut
 # Name for the tabs toolbar as spoken by screen readers. The word

@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = 回到上一頁（{ $shortcut }）
     .aria-label = 返回
+    .tooltiptext = 回到上一頁（{ $shortcut }）
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = 前進下一頁（{ $shortcut }）
     .aria-label = 前進
+    .tooltiptext = 前進下一頁（{ $shortcut }）
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = 將頁面加入書籤…
-    .accesskey = m
     .tooltiptext = 將頁面加入書籤
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = 將頁面加入書籤…
-    .accesskey = m
     .tooltiptext = 將頁面加入書籤（{ $shortcut }）
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = 編輯書籤…
-    .accesskey = m
     .tooltiptext = 編輯書籤
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = 編輯書籤…
-    .accesskey = m
     .tooltiptext = 編輯書籤（{ $shortcut }）
+    .accesskey = m
 main-context-menu-open-link =
     .label = 開啟鏈結
     .accesskey = O
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = 鏈結另存新檔…
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = 將鏈結儲存至 { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = 開啟 Sync 即可傳�
 main-context-menu-send-to-mobile-connect-phone3 = 連結裝置即可傳送分頁
 main-context-menu-send-to-mobile-connect-phone-from-link = 連結裝置即可傳送鏈結
 main-context-menu-send-to-mobile-connect-phone-from-page = 連結裝置即可傳送頁面
-main-context-menu-save-to-pocket =
-    .label = 將頁面儲存至 { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = 將頁面傳送至裝置
-    .accesskey = D
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = 使用已存的登入資訊
-    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = 使用已存的密碼
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = 使用 { -relay-brand-short-name } 轉寄信箱
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = 建議一組安全的密碼…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = 管理登入資訊
-    .accesskey = M
 main-context-menu-manage-passwords =
     .label = 管理密碼
     .accesskey = M
-main-context-menu-keyword =
-    .label = 設為用關鍵字搜尋…
-    .accesskey = K
 main-context-menu-add-engine =
     .label = 新增搜尋引擎
     .accesskey = E
@@ -393,9 +366,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = 拍攝畫面擷圖
     .accesskey = T
-main-context-menu-take-frame-screenshot =
-    .label = 拍攝畫面擷圖
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = 檢視原始碼
     .accesskey = V

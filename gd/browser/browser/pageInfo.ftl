@@ -152,7 +152,6 @@ media-unknown-not-cached =
     .value = Neo-aithnichte (gun tasgadh)
 permissions-use-default =
     .label = Cleachd an roghainn bhunaiteach
-security-no-visits = Chan eil
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -232,11 +231,6 @@ media-file-size = { $size } kB
 ## Variables:
 ##   $website (string) — The url of the website pageInfo is getting info for
 
-# This string is used to display the website name next to the
-# "Block Images" checkbox in the media tab
-media-block-image =
-    .label = Cuir bacadh air dealbhan o { $website }
-    .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 page-info-page =

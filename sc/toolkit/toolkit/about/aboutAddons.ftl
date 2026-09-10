@@ -145,15 +145,10 @@ addon-sitepermission-host = Permissos de situ pro { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Sa modalidade segura at disativadu totu is cumplementos.
-extensions-warning-check-compatibility = S'averiguada de cumpatibilidade de is estensiones est disativada. Dias pòdere tènnere estensiones non cumpatìbiles.
-extensions-warning-safe-mode2 =
-    .message = Sa modalidade segura at disativadu totu is cumplementos.
 extensions-warning-check-compatibility2 =
     .message = S'averiguada de cumpatibilidade de is estensiones est disativada. Dias pòdere tènnere estensiones non cumpatìbiles.
 extensions-warning-check-compatibility-button = Ativa
     .title = Ativa s'averiguada de cumpatibilidade de is estensiones
-extensions-warning-update-security = S'averiguada de seguresa de is atualizatziones de is estensiones est disativada. Is atualizatziones diant pòdere èssere unu perìgulu.
 extensions-warning-update-security2 =
     .message = S'averiguada de seguresa de is atualizatziones de is estensiones est disativada. Is atualizatziones diant pòdere èssere unu perìgulu.
 extensions-warning-update-security-button = Ativa
@@ -217,10 +212,6 @@ shortcuts-duplicate = Curtzadòrgiu repìtidu
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } est giai impreadu comente curtzadòrgiu in prus de un'ocasione. Is curtzadòrgios repìtidos podent causare unu cumportamentu inabetadu.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } est giai impreadu comente curtzadòrgiu in prus de un'ocasione. Is curtzadòrgios repìtidos podent causare unu cumportamentu inabetadu.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -240,19 +231,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Is estensiones e is temas sunt comente aplicatziones pro su navigadore tuo, e ti permitint de
-    amparare craes, iscarrigare vìdeos, agatare ofertas, blocare publitzidade infadosa,
-    modificare s’aspetu de su navigadore e meda àteru. Custos programmas piticos
-    a s’ispissu sunt isvilupados dae àtere. Inoghe tenes una seletzione de estensiones
-    <a data-l10n-name="learn-more-trigger">cussigiada</a> dae { -brand-product-name }
-    pro otènnere unu livellu etzetzionale de seguresa, rendimentu e funtzionalidade.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    Unos cantos de custos cussìgios sunt personalizados. Sunt basados in
-    àteras estensiones chi as installadu, is preferèntzias de profilu e is istatìsticas de impreu.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -330,16 +308,9 @@ addon-detail-last-updated-label = Ùrtima atualizatzione
 addon-detail-homepage-label = Pàgina printzipale
 addon-detail-rating-label = Valutatzione
 # Message for add-ons with a staged pending update.
-install-postponed-message = Custa estensione at a èssere atualizada comente torras a aviare { -brand-short-name }.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Custa estensione at a èssere atualizada comente torras a aviare { -brand-short-name }.
 install-postponed-button = Agiorna immoe
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Valutadu cun { NUMBER($rating, maximumFractionDigits: 1) }/5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -357,9 +328,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> est istadu cantzelladu.
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = { $addon } est istadu cantzelladu.
 pending-uninstall-undo-button = Iscontza
@@ -373,11 +341,6 @@ install-update-button = Agiorna
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
     .title = Permìtida in is ventanas privadas
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
-    .title = Permìtida in is ventanas privadas
 addon-detail-private-browsing-allow = Permite
 addon-detail-private-browsing-disallow = Non permitas
 
@@ -387,9 +350,6 @@ available-updates-heading = Atualizatziones a disponimentu
 recent-updates-heading = Atualizatziones reghentes
 release-notes-loading = Carrighende…
 release-notes-error = Faddina in sa càrriga de is notas de sa versione.
-addon-permissions-empty = Custa estensione non rechedet permissos
-addon-permissions-required = Permissos netzessàrios pro is funtziones de base:
-addon-permissions-optional = Permissos optzionales pro is funtziones agiuntivas:
 addon-permissions-learnmore = Àteras informatziones subra de is permissos
 recommended-extensions-heading = Estensiones cussigiadas
 recommended-themes-heading = Temas cussigiados
@@ -417,22 +377,10 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } no est cumpatìbile cun { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } no est cumpatìbile cun { -brand-short-name } { $version }.
-details-notification-incompatible-link = Àteras informatziones
-details-notification-unsigned-and-disabled-link = Àteras informatziones
-details-notification-unsigned = { $name } no est averiguadu pro s'impreu in { -brand-short-name }. Sighi cun atentzione.
 details-notification-unsigned2 =
     .message = { $name } no est averiguadu pro s'impreu in { -brand-short-name }. Sighi cun atentzione.
-details-notification-unsigned-link = Àteras informatziones
-details-notification-blocked = { $name } est istadu disativadu pro more de problemas de seguresa o de istabilidade.
-details-notification-blocked-link = Àteras informatziones
-details-notification-softblocked = { $name } podet generare problemas de seguresa e de istabilidade.
-details-notification-softblocked-link = Àteras informatziones
-details-notification-gmp-pending = { $name } at a èssere installadu de immoe a pagu.
 details-notification-gmp-pending2 =
     .message = { $name } at a èssere installadu de immoe a pagu.
 

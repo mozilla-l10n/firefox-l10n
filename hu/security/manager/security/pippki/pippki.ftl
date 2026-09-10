@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Jelenleg FIPS-módban van. A FIPS-hez köt
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Elsődleges jelszó visszaállítása
     .style = min-width: 40em
+    .title = Elsődleges jelszó visszaállítása
 reset-password-button-label =
     .label = Alaphelyzet
 reset-primary-password-text = Ha visszaállítja az elsődleges jelszót, akkor minden tárolt webes és e-mail-jelszó, űrlapadat, valamint személyes tanúsítvány és privát kulcs elvész. Biztos, hogy visszaállítja az elsődleges jelszót?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Az elsődleges jelszó vissza lett 
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Tanúsítvány letöltése
     .style = min-width: 46em
+    .title = Tanúsítvány letöltése
 download-cert-message = Arra kérik, hogy bízzon meg egy új hitelesítésszolgáltatóban (CA-ban).
 download-cert-trust-ssl =
     .label = Megbízás webhelyek azonosítására
@@ -52,8 +52,6 @@ download-cert-view-text = A CA tanúsítványának megvizsgálása
 
 client-auth-window =
     .title = Felhasználóazonosítási kérelem
-client-auth-site-description = A webhely azt kéri, hogy igazolja magát egy tanúsítvánnyal:
-client-auth-choose-cert = Válassza ki az azonosításhoz használandó tanúsítványt:
 client-auth-send-no-certificate =
     .label = Ne küldjön tanúsítványt
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Hitelesítsen a(z) „{ $tokenName }” biztonsági eszközön. Ennek módja az eszköztől függ (például ujjlenyomat-olvasó használata vagy kód beírása billentyűzettel).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Hitelesítsen a(z) „{ $tokenName }” tokennel. Ennek módja a tokentől függ (például ujjlenyomat-olvasó használata vagy kód beírása billentyűzettel).

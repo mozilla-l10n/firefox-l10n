@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = एकगोट पृष्ठ पाछाँ जाउ ({ $shortcut })
     .aria-label = पाछाँ
+    .tooltiptext = एकगोट पृष्ठ पाछाँ जाउ ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = एक पृष्ठ आगाँ जाउ ({ $shortcut })
     .aria-label = अग्रेषित करू
+    .tooltiptext = एक पृष्ठ आगाँ जाउ ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -172,15 +172,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = ऑडियो ईमेल करू (a)…
     .accesskey = a
-main-context-menu-send-to-device =
-    .label = डिवाइस मे पृष्ठ पठाबू
-    .accesskey = n
 
 ##
 
-main-context-menu-keyword =
-    .label = ई खोज के लिए बीजशब्द जोडू…
-    .accesskey = K
 main-context-menu-link-send-to-device =
     .label = डिवाइस मे लिंक पठाबू
     .accesskey = n

@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = වාර්තාව යැවිණි. ඔබට ස්තුතියි!
-confirmation-hint-login-removed = පිවිසුම ඉවතලිණි!
 confirmation-hint-password-removed = මුරපදය ඉවත් කෙරිණි!
 confirmation-hint-page-bookmarked = පොත්යොමු වෙත සුරැකිණි
-confirmation-hint-password-saved = මුරපදය සුරැකිණි!
 confirmation-hint-password-created = මුරපදය සුරැකිණි
 confirmation-hint-password-updated = මුරපදය යාවත්කාල විය
 confirmation-hint-address-created = ලිපිනය සුරැකිණි

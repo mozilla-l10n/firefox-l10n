@@ -32,10 +32,6 @@ security-software-name = Emër
 security-software-antivirus = Antivirus
 security-software-antispyware = Antispyware
 security-software-firewall = Firewall
-features-title = Veçori { -brand-short-name }-i
-features-name = Emër
-features-version = Version
-features-id = ID
 processes-title = Procese të Largët
 processes-type = Lloj
 processes-count = Numër
@@ -61,7 +57,6 @@ app-basics-profile-dir =
         [linux] Drejtoria e Profilit
        *[other] Dosje Profili
     }
-app-basics-enabled-plugins = Shtojca të Aktivizuara
 app-basics-build-config = Formësim Montimi
 app-basics-user-agent = Agjent Përdoruesi
 app-basics-os = OS
@@ -98,9 +93,6 @@ show-dir-label =
 environment-variables-title = Ndryshore Mjedisi
 environment-variables-name = Emër
 environment-variables-value = Vlerë
-experimental-features-title = Veçori Eksperimentale
-experimental-features-name = Emër
-experimental-features-value = Vlerë
 modified-key-prefs-title = Parapëlqime të Rëndësishme të Ndryshuara
 modified-prefs-name = Emër
 modified-prefs-value = Vlerë
@@ -199,9 +191,6 @@ media-content-decryption-modules-title = Informacion Modulesh Shfshehtëzimi Lë
 media-video-robustness = Fortësi Videoje
 media-audio-robustness = Fortësi Audioje
 media-cdm-capabilities = Aftësi
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = I përputhshëm me HDCP 2.2
 
 ##
 
@@ -371,8 +360,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Çaktivizuar nga eksperiment
-fission-status-experiment-treatment = Aktivizuar nga eksperiment
 fission-status-disabled-by-e10s-env = Çaktivizuar nga mjedisi
 fission-status-enabled-by-env = Aktivizuar nga mjedisi
 fission-status-disabled-by-env = Çaktivizuar nga mjedisi

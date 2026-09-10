@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = Ukazovateľ zdieľania aplikácie { -brand-short-name }
-webrtc-indicator-window =
-    .title = Ukazovateľ zdieľania aplikácie { -brand-short-name }
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Zdieľate svoj mikrofón. Pre úpravu zdieľania kliknite sem.
 webrtc-screen-system-menu =
     .label = Zdieľate svoje okno alebo obrazovku. Pre úpravu zdieľania kliknite sem.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Vaša kamera a mikrofón sú práve zdieľané. Kliknutím sem zmeníte nastavenia.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Vaša kamera je práve zdieľaná. Kliknutím sem zmeníte nastavenia.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Váš mikrofón je práve zdieľaný. Kliknutím sem zmeníte nastavenia.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Aplikácia je práve zdieľaná. Kliknutím sem zmeníte nastavenia.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Vaša obrazovka je práve zdieľaná. Kliknutím sem zmeníte nastavenia.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Okno je práve zdieľané. Kliknutím sem zmeníte nastavenia.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Karta je práve zdieľaná. Kliknutím sem zmeníte nastavenia.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -191,7 +172,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Chcete povoliť 
 
 webrtc-share-screen-warning = Obrazovku zdieľajte len so stránkami, ktorým veríte. Zdieľanie môže umožniť klamlivým stránkam sledovať vaše prehliadanie a ukradnúť vaše osobné údaje.
 webrtc-share-browser-warning = { -brand-short-name } zdieľajte len so stránkami, ktorým veríte. Zdieľanie môže umožniť klamlivým stránkam sledovať vaše prehliadanie a ukradnúť vaše osobné údaje.
-webrtc-share-screen-learn-more = Ďalšie informácie
 webrtc-pick-window-or-screen = Vybrať okno alebo obrazovku
 webrtc-share-entire-screen = Celá obrazovka
 webrtc-share-pipe-wire-portal = Použiť nastavenia operačného systému

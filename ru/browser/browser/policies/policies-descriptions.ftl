@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Не позволяет агенту бра�
 policy-DisableDeveloperTools = Блокирует доступ к инструментам разработчика.
 policy-DisableEncryptedClientHello = Отключает использование функции TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Отключает команды отправки отзывов в меню Справка («Отправить отзыв...» и «Сообщить о поддельном сайте...»).
-policy-DisableFirefoxAccounts = Отключает службы, основанные на { -fxaccount-brand-name(case: "prepositional") }, включая синхронизацию.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Отключает службы на основе аккаунтов, включая синхронизацию.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Отключает запоминание истор
 policy-DisableLaunchOnLogin = Запрещает автоматический запуск { -brand-short-name } при входе пользователя в систему.
 policy-DisablePrimaryPasswordCreation = Не позволяет устанавливать основной пароль, если установлено значение true.
 policy-DisablePasswordReveal = Не позволяет просматривать пароли у сохранённых логинов.
-policy-DisablePocket2 = Отключает сохранение страниц в { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Отключает приватный режим.
 policy-DisableProfileImport = Отключает команду меню для импорта данных из другого браузера.
 policy-DisableProfileRefresh = Отключает кнопку Обновить { -brand-short-name } на странице about:support.
@@ -132,7 +130,6 @@ policy-PDFjs = Отключает или настраивает PDF.js, встр
 policy-Permissions2 = Настраивает разрешения для камеры, микрофона, местоположения, уведомлений и автовоспроизведения.
 policy-PictureInPicture = Включает или отключает функцию «Картинка в картинке».
 policy-PopupBlocking2 = Разрешает некоторым веб-сайтам показывать всплывающие окна и перенаправлять их сторонними фреймами.
-policy-PopupBlocking = Разрешает некоторым веб-сайтам открывать всплывающие окна по умолчанию.
 policy-Preferences = Устанавливает и фиксирует значение набора настроек.
 policy-PrivateBrowsingModeAvailability = Устанавливает доступность приватного режима.
 policy-PromptForDownloadLocation = Спрашивает, куда сохранять файлы при скачивании.

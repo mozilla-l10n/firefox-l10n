@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = เพิ่ม { $extension } หรือไม่?
-webext-perms-header-with-perms = เพิ่ม { $extension } หรือไม่? ส่วนขยายนี้จะมีสิทธิ์:
-webext-perms-header-unsigned = เพิ่ม { $extension } หรือไม่? ส่วนขยายนี้ยังไม่ได้ผ่านการยืนยัน ส่วนขยายที่ประสงค์ร้ายสามารถขโมยข้อมูลส่วนบุคคลของคุณหรือคุกคามคอมพิวเตอร์ของคุณได้ ให้เพิ่มก็ต่อเมื่อคุณเชื่อถือแหล่งที่มาเท่านั้น
-webext-perms-header-unsigned-with-perms = เพิ่ม { $extension } หรือไม่? ส่วนขยายนี้ยังไม่ได้ผ่านการยืนยัน ส่วนขยายที่ประสงค์ร้ายสามารถขโมยข้อมูลส่วนบุคคลของคุณหรือคุกคามคอมพิวเตอร์ของคุณได้ ให้เพิ่มก็ต่อเมื่อคุณเชื่อถือแหล่งที่มาเท่านั้น ส่วนขยายนี้จะมีสิทธิ์:
 webext-perms-sideload-header = เพิ่ม { $extension } แล้ว
 webext-perms-optional-perms-header2 = { $extension } ขอสิทธิ์เพิ่มเติม
-webext-perms-optional-perms-header = { $extension } ร้องขอสิทธิ์เพิ่มเติม
 webext-perms-header2 = เพิ่ม { $extension }
 webext-perms-list-intro-unsigned = ส่วนขยายที่ยังไม่ตรวจสอบนี้อาจเสี่ยงต่อความเป็นส่วนตัวของคุณหรือเป็นอันตรายต่ออุปกรณ์ของคุณได้ ให้เพิ่มส่วนขยายนี้ก็ต่อเมื่อคุณเชื่อถือแหล่งที่มาเท่านั้น
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } ได้อัปเดตแล้ว คุณต้องอนุมัติสิทธิ์ใหม่ก่อนที่รุ่นอัปเดตจะติดตั้ง การเลือก “ยกเลิก” จะคงส่วนขยายรุ่นปัจจุบันของคุณไว้
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } ได้ถูกอัปเดตแล้ว คุณต้องอนุมัติสิทธิ์ใหม่ก่อนที่รุ่นอัปเดตจะติดตั้ง การเลือก “ยกเลิก” จะคงรุ่นส่วนขยายปัจจุบันของคุณไว้ ส่วนขยายนี้จะมีสิทธิ์:
 webext-perms-update-accept =
     .label = อัปเดต
     .accesskey = อ
@@ -73,16 +65,8 @@ webext-perms-host-description-file-urls = เข้าถึงไฟล์ใ�
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = เข้าถึงข้อมูลของคุณสำหรับไซต์ในโดเมน { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards = เข้าถึงข้อมูลของคุณใน { $domainCount } โดเมนอื่น ๆ
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = เข้าถึงข้อมูลของคุณสำหรับ { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites = เข้าถึงข้อมูลของคุณบน { $domainCount } ไซต์อื่น ๆ
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

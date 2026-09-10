@@ -16,8 +16,6 @@ styleeditor-save-button = Na'nïnj sà'
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Sa huā riña editor estîlo
-styleeditor-editor-textbox =
-    .data-placeholder = Yi'nïn' CSS hiūj nan.
 styleeditor-no-stylesheet = Nitāj ñanj estîlo hua riña pajinâ nan.
 styleeditor-no-stylesheet-tip = Si guruhuaj nī gini'ñānjt <a data-l10n-name="append-new-stylesheet">na'nïnj a'ngô ñanj estilô nakàa</a>?
 styleeditor-open-link-new-tab =

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Ver a navegação recente entre janelas e dispositivos
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .aria-label = Fechar
-    .title = Fechar
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Agora mesmo
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Escolha de separador
-firefoxview-tabpickup-description = Abrir páginas de outros dispositivos.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% concluído
-firefoxview-tabpickup-step-signin-header = Alterne facilmente entre dispositivos
-firefoxview-tabpickup-step-signin-description = Para obter os separadores do seu telemóvel aqui, primeiro, entre ou crie uma conta.
-firefoxview-tabpickup-step-signin-primarybutton = Continuar
 firefoxview-syncedtabs-signin-header-2 = O seu { -brand-product-name } em todos os seus dispositivos
 firefoxview-syncedtabs-signin-description-2 = Para ver os separadores que tem abertos no seu telemóvel e outros dispositivos, inicie sessão ou registe-se para uma conta. Com uma conta, pode também sincronizar as suas palavras-passe, histórico e muito mais.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Do portátil para o telemóvel, facilmente
 firefoxview-syncedtabs-signin-description-3 = Mantenha a sua navegação conectada entre dispositivos — separadores, palavras-passe e histórico, tudo sincronizado.
 firefoxview-syncedtabs-signin-primarybutton-2 = Iniciar sessão
-firefoxview-tabpickup-adddevice-header = Sincronize o { -brand-product-name } no seu telemóvel ou tablet
-firefoxview-tabpickup-adddevice-description = Transfira o { -brand-product-name } para dispositivos móveis e inicie sessão no mesmo.
-firefoxview-tabpickup-adddevice-learn-how = Saber mais
-firefoxview-tabpickup-adddevice-primarybutton = Obtenha o { -brand-product-name } para dispositivos móveis.
 firefoxview-syncedtabs-adddevice-header-2 = Obtenha separadores a partir de qualquer sítio
 firefoxview-syncedtabs-adddevice-description-2 = Inicie sessão no { -brand-product-name } no seu telefone ou outro computador para ver os separadores aqui. Aprenda como <a data-l10n-name="url">associar dispositivos adicionais</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Experimente o { -brand-product-name } para dispositivos móveis
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Os seus separadores ligaram. Eles estão no seu telemóvel.
 firefoxview-syncedtabs-adddevice-description-3 = Digitalize o código QR para obter o { -brand-product-name } para telemóvel e comece a sincronizar os seus separadores abertos e mais. Saiba como <a data-l10n-name="url">associar dispositivos adicionais</a>.
-firefoxview-tabpickup-synctabs-header = Ativar sincronização de separadores
-firefoxview-tabpickup-synctabs-description = Permitir que o { -brand-short-name } partilhe separadores entre dispositivos.
-firefoxview-tabpickup-synctabs-learn-how = Saber mais
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizar separadores abertos
 firefoxview-tabpickup-synctabs-primarybutton-2 = Ativar sincronização de separadores
 firefoxview-syncedtabs-synctabs-header = Atualize as suas definições de sincronização
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Quando terminar, irá ver todos os 
 firefoxview-syncedtabs-loading-header-2 = A buscar os seus separadores...
 firefoxview-syncedtabs-loading-description-2 = Sincronização em curso. Os separadores estarão aqui em breve.
 firefoxview-tabpickup-fxa-admin-disabled-header = A sua organização desativou a sincronização
-firefoxview-tabpickup-fxa-admin-disabled-description = O { -brand-short-name } não consegue sincronizar separadores entre dispositivos porque o seu administrador desativou a sincronização.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = O { -brand-short-name } não é capaz de sincronizar separadores entre dispositivos porque a sua organização desativou a sincronização.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = A sincronização de separadores está desativada
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = A sua organização bloqueou esta funcionalidade.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Desbloqueie separadores com a sua palavra-passe primária
 firefoxview-tabpickup-password-locked-description-2 = Para sua privacidade, os separadores sincronizados estão protegidos. Introduza a sua palavra-passe primária do { -brand-short-name } para ver separadores dos seus outros dispositivos.
 firefoxview-tabpickup-signed-out-header = Iniciar sessão para restabelecer a ligação
-firefoxview-tabpickup-signed-out-description = Para reassociar e aceder aos seus separadores, inicie sessão na { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Para reassociar e obter aos seus separadores, inicie sessão na sua conta
 firefoxview-tabpickup-signed-out-primarybutton = Iniciar sessão
 firefoxview-tabpickup-signed-out-header-2 = Inicie sessão para ver os seus separadores
 firefoxview-tabpickup-signed-out-description-2 = Reconecte para ver os separadores de outros dispositivos.
-firefoxview-tabpickup-syncing = Aguarde enquanto os seus separadores estão a ser sincronizados. Será apenas um momento.
-firefoxview-mobile-promo-header = Obter separadores do seu telemóvel ou tablet
-firefoxview-mobile-promo-description = Para ver os seus separadores móveis mais recentes, inicie sessão no { -brand-product-name } para iOS ou Android.
-firefoxview-mobile-promo-primarybutton = Obtenha o { -brand-product-name } para dispositivos móveis
-firefoxview-mobile-confirmation-header = 🎉 Tudo pronto!
-firefoxview-mobile-confirmation-description = Agora pode obter os seus separadores do { -brand-product-name } a partir do seu tablet ou telemóvel.
-firefoxview-closed-tabs-title = Fechados recentemente
-firefoxview-closed-tabs-description2 = Reabrir as páginas que fechou nesta janela.
-firefoxview-closed-tabs-placeholder-header = Nenhum separador fechado recentemente
-firefoxview-closed-tabs-placeholder-body = Quando fecha um separador nesta janela, pode obtê-lo a partir daqui.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Desativar { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Ativo pela última vez
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Abrir { $targetURI } num novo separador
-firefoxview-try-colorways-button = Experimente os estilos de cor
-firefoxview-change-colorway-button = Alterar estilo de cor
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Nada para ver ainda
-firefoxview-synced-tabs-placeholder-body = Da próxima vez que abrir uma página no { -brand-product-name } noutro dispositivo, obtenha-a aqui, como magia.
 firefoxview-collapse-button-show =
     .title = Mostrar lista
 firefoxview-collapse-button-hide =

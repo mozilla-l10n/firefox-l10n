@@ -26,23 +26,6 @@ webrtc-sharing-menu =
     .label = Cihazlar üleşken ilmekler
     .accesskey = C
 
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Kamera ve mikrofonıñız üleşile. Üleşimni muraqabe etmek içün çertiñiz.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Kamerañız üleşile. Üleşimni muraqabe etmek içün çertiñiz.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Mikrofonıñız üleşile. Üleşimni muraqabe etmek içün çertiñiz.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Bir uyğulama üleşile. Üleşimni muraqabe etmek içün çertiñiz.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Ekranıñız üleşile. Üleşimni muraqabe etmek içün çertiñiz.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Bir pencere üleşile. Üleşimni muraqabe etmek içün çertiñiz.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Bir ilmek üleşile. Üleşimni muraqabe etmek içün çertiñiz.
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
@@ -106,7 +89,6 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
-webrtc-share-screen-learn-more = Daa Çoq Ögren
 webrtc-pick-window-or-screen = Pencere yaki Ekran sayla
 webrtc-share-entire-screen = Bütün ekran
 # Variables:

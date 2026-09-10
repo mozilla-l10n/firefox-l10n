@@ -255,8 +255,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Պրոֆիլներ
 menu-profiles-manage-profiles =
     .label = Կառավարել պրոֆիլները
 menu-profiles-new-profile =
@@ -280,9 +278,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Ընդլայնումներ և ոճեր
     .accesskey = E
-menu-tools-addons-and-themes =
-    .label = Հավելումներ և ոճեր
-    .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = Մուտք գործել
     .accesskey = g
@@ -339,8 +334,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Անսարքության տեղեկատվություն
     .accesskey = T
-menu-help-report-site-issue =
-    .label = Զեկուցել կայքի խնդրի մասին…
 menu-help-share-ideas =
     .label = Կիսվել գաղափարներով և արձագանքներով…
     .accesskey = S

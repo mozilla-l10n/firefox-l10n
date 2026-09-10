@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Оновлення завантажується – <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Оновлення завантажується – <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Оновлення завантажується – { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Оновлення застосовується…
 update-failed = Не вдалося оновити. <label data-l10n-name="failed-link">Завантажити останню версію</label>
 update-failed-main = Не вдалося оновити. <a data-l10n-name="failed-link-main">Завантажити останню версію</a>
-update-adminDisabled = Оновлення вимкнені системним адміністратором
 update-policy-disabled = Оновлення вимкнено вашою організацією
 settings-update-policy-disabled =
     .label = Оновлення вимкнено вашою організацією
@@ -72,8 +70,6 @@ helpus-referrals2 = Хочете допомогти? <label data-l10n-name="help
 bottomLinks-license = Ліцензійна інформація
 bottom-links-terms = Умови користування
 bottom-links-privacy = Положення про приватність
-bottomLinks-rights = Права кінцевого користувача
-bottomLinks-privacy = Політика приватності
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

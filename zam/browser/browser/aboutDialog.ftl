@@ -15,7 +15,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>De lal ko kub — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = De lal ko kub — { $transfer }
 
@@ -26,7 +25,6 @@ settings-update-applying =
     .label = Dee toob koo kub…
 update-failed = Naa blii noo gaan toob no ree koo kub. <label data-l10n-name="failed-link">Blaa koo kub</label>
 update-failed-main = Naa blii noo gaan toob no ree koo kub. <a data-l10n-name="failed-link-main">Blaa koo kub</a>
-update-adminDisabled = Ree koo kub gaad toob
 update-noUpdatesFound = { -brand-short-name } gooc laa
 settings-update-no-updates-found =
     .label = { -brand-short-name } gooc laa
@@ -54,5 +52,3 @@ warningDesc-version = { -brand-short-name } nara the thus kue noy.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> naak diif <label data-l10n-name="community-exp-creditsLink">loo yehs</label> the ke xhin xha Internet naak par ree taa men.
 community-2 = { -brand-short-name } kue thus kue <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, diif <label data-l10n-name="community-creditsLink">Men naa loo xhiu</label> the kee noo xhiin xha Internet taak lii xhin ree taa men.
 bottomLinks-license = Cho thus kuey
-bottomLinks-rights = Kue naak chan xha ko lee xhin naa
-bottomLinks-privacy = laab kue

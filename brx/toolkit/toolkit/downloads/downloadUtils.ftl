@@ -90,11 +90,5 @@ download-utils-time-left-single = { $time } आगसि
 #   $time1 (string) - Time left, including a unit
 #   $time2 (string) - Smaller measure of time left, including a unit
 download-utils-time-left-double = { $time1 } { $time2 } आगसि
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = { $scheme } सम्पद
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = जायगानि फाइल
 # Displayed time for files finished yesterday
 download-utils-yesterday = मैया

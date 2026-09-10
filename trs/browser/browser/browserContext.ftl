@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Naniko' 'ngo pagina ({ $shortcut })
     .aria-label = Ne' rukuu
+    .tooltiptext = Naniko' 'ngo pagina ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Gachin' a'ngo pagina ({ $shortcut })
     .aria-label = Ne'ñaan
+    .tooltiptext = Gachin' a'ngo pagina ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -98,9 +98,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = Na'ninj so' enlase...
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = Na'nïnj sà' link riña { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -197,18 +194,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Ga'ni' nanèe 'ngà korreo…
     .accesskey = a
-main-context-menu-save-to-pocket =
-    .label = Nannj sà' pâjina riña { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Ga'nïnj pâgina gan'anj aga'
-    .accesskey = a
 
 ##
 
-main-context-menu-keyword =
-    .label = Gachun' 'ngo nugua' yitïnj guenda sa nana'ui' na...
-    .accesskey = K
 main-context-menu-link-send-to-device =
     .label = Ga'nïnj enlâse riña Aga'
     .accesskey = A

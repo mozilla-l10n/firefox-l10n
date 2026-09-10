@@ -70,7 +70,6 @@ migration-bookmarks-option-label = Laster-markak
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Gogokoak
-migration-logins-and-passwords-option-label = Gordetako saio-hasierak eta pasahitzak
 migration-passwords-option-label = Gordetako pasahitzak
 migration-history-option-label = Nabigatze-historia
 migration-extensions-option-label = Hedapenak
@@ -204,8 +203,6 @@ migration-chrome-windows-password-import-step4 = Itzuli hona eta "Hautatu fitxat
 migration-manual-password-import-skip-button = Saltatu
 migration-manual-password-import-cancel-button = Utzi
 migration-manual-password-import-select-button = Hautatu fitxategia
-migration-safari-password-import-skip-button = Saltatu
-migration-safari-password-import-select-button = Hautatu fitxategia
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #

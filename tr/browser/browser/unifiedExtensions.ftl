@@ -36,9 +36,6 @@ unified-extensions-item-message-manage = Uzantıyı yönet
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = { $extensionName } uzantısı kısıtlanmıştır. Kullanımı riskli olabilir.
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName }, Mozilla politikalarını ihlal ediyor. Kullanılması riskli olabilir.
 
 ## Extension's context menu
 
@@ -57,8 +54,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Bazı uzantılara izin verilmiyor
-unified-extensions-mb-quarantined-domain-message = Verilerinizi korumak amacıyla, bu sitede yalnızca { -vendor-short-name } onaylı bazı uzantılara izin verilir.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Bazı uzantılara izin verilmiyor
@@ -73,13 +68,6 @@ unified-extensions-mb-blocklist-warning-single2 =
     .message =
         Bu uzantı kısıtlanmış olduğu için devre dışı bırakıldı.
         Ayarlardan uzantıyı etkinleştirebilirsiniz ama bu riskli olabilir.
-# Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } devre dışı
-    .message =
-        Bu uzantı Mozilla’nın politikalarını ihlal ettiği için devre dışı bırakıldı.
-        Uzantıyı etkinleştirebilirsiniz ama bu riskli olabilir.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
@@ -96,17 +84,6 @@ unified-extensions-mb-blocklist-warning-multiple2 =
     .message =
         Bazı uzantılarınız kısıtlandığı için devre dışı bırakıldı.
         Bu uzantıları ayarlardan etkinleştirebilirsiniz ama bu işlem riskli olabilir.
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-            [one] { $extensionsCount } uzantı devre dışı bırakıldı
-           *[other] { $extensionsCount } uzantı devre dışı bırakıldı
-        }
-    .message =
-        Uzantılarınızdan bazıları Mozilla’nın politikalarını ihlal ettiği için devre dışı bırakıldı.
-        Bunları ayarlardan etkinleştirebilirsiniz ama bu riskli olabilir.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =

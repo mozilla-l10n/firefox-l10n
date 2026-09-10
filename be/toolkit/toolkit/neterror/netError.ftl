@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Вярнуцца
 neterror-return-to-previous-page-recommended-button = Вярнуцца (рэкамендуецца)
 neterror-try-again-button-2 = Спрабаваць зноў
     .accesskey = н
-neterror-try-again-button = Паспрабаваць ізноў
 neterror-add-exception-button = Заўсёды працягваць для гэтага сайта
 neterror-settings-button = Змяніць налады DNS
 neterror-view-certificate-link = Паказаць сертыфікаты
-neterror-trr-continue-this-time = Працягваць на гэты раз
-neterror-disable-native-feedback-warning = Заўсёды працягваць
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = Даведацца больш
 ##
 
 neterror-pref-reset = Выглядае, што выклікаць гэта маглі вашы налады сеткавай бяспекі. Хочаце скінуць налады да прадвызначаных?
-neterror-error-reporting-automatic = Паведамляць пра памылкі такога кшталту, каб дапамагчы { -vendor-short-name } выяўляць і блакаваць зламысныя сайты
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Адключыцеся і зн�
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } не можа абараніць ваш запыт на адрас гэтага сайта праз нашу давераную службу DNS. Вось чаму:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } не можа абараніць ваш запыт на адрас гэтага сайта праз нашага надзейнага правайдара DNS. Вось чаму:
 neterror-dns-not-found-trr-third-party-warning2 = Вы можаце працягнуць са сваёй тыповай службай DNS. Аднак, трэці бок можа ўбачыць, якія сайты вы наведваеце.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } не змог злучыцца з { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Злучэнне з { $trrDomain } заняло больш часу, чым чакалася.
-neterror-dns-not-found-trr-offline = Няма злучэння з Інтэрнэтам.
 neterror-dns-not-found-trr-unknown-host2 = Гэты сайт не быў знойдзены ў { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Узнікла праблема з { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = Несапраўдны URL.
 neterror-dns-not-found-system-sleep = Сістэма ў рэжыме спячкі.
 neterror-dns-not-found-trr-unknown-problem = Нечаканая праблема.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } не можа абараніць ваш запыт на адрас гэтага сайта праз нашу давераную службу DNS. Вось чаму:
-neterror-dns-not-found-native-fallback-heuristic = DNS па HTTPS быў адключаны ў вашай сетцы.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } не змог злучыцца з { $trrDomain }.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = Магчыма, што ён быў выдалены а�
 neterror-unknown-protocol = Магчыма, вам спатрэбіцца ўсталяваць іншую праграму, каб адкрыць гэты адрас.
 neterror-redirect-loop = Гэтая праблема часам вынікае з адключэння або адмовы прыняць кукі.
 neterror-unknown-socket-type-client-config = Магчыма, гэта з-за памылкі канфігурацыі вашага кліента.
-neterror-unknown-socket-type-psm-installed = Упэўніцеся, што Менеджар асабістай бяспекі ўсталяваны ў вашай сістэме.
-neterror-unknown-socket-type-server-config = Гэта звязана, магчыма, з незвычайнымі наладамі сервера.
 neterror-not-cached-intro = Запатрабаваны дакумент не даступны ў кэшы { -brand-short-name }.
 neterror-not-cached-sensitive = Дзеля бяспекі { -brand-short-name } не перазапытвае значныя дакументы самастойна.
 neterror-not-cached-try-again = Націсніце "Паспрабаваць зноў", каб запытаць дакумент з вэб-сайта ізноў.

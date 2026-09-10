@@ -8,8 +8,5 @@ label-interventions = Intervenciones
 # Variables:
 #   $bug (string) - Bug number
 label-more-information = Más información: Fallu { $bug }
-label-overrides = Anulaciones del axente d'usuariu
 text-disabled-in-about-config = Esta carauterística desactivóse en about:config
 text-no-interventions = Nun tán usándose intervenciones
-text-no-overrides = Nun tán usándose anulaciones d'axente d'usuariu
-text-title = about:compat

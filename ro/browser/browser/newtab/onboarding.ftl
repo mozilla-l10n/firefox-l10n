@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Adaugă { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Progres: pasul { $current } din { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -199,11 +193,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Fixează { -brand-short-name } în bara de activități și în meniul Start
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Începe cu un browser susținut de o organizație non-profit. Îți apărăm confidențialitatea când navighezi pe web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -233,57 +222,10 @@ mr2022-onboarding-set-default-subtitle = Folosește un browser susținut de o or
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Cea mai recentă versiune este făcută pentru tine, navigarea pe web este mai ușoară ca niciodată. Este plină de funcționalități pe care credem că le vei adora.
 mr2022-onboarding-get-started-primary-button-label = Configurează în câteva secunde
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Configurare cât ai zice pește
-mr2022-onboarding-import-subtitle = Configurează { -brand-short-name } cum vrei. Adaugă marcajele, parolele și multe altele din vechiul browser.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importă dintr-un browser anterior
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Alege culoarea care te inspiră
-mr2022-onboarding-colorway-subtitle = Vocile independente pot schimba cultura.
-mr2022-onboarding-colorway-primary-button-label-continue = Setează și continuă
-mr2022-onboarding-existing-colorway-checkbox-label = Fă din pagina de { -firefox-home-brand-name } pagina ta de start colorată
-mr2022-onboarding-colorway-label-default = Implicit
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Culorile actuale { -brand-short-name }
-mr2022-onboarding-colorway-description-default = <b>Folosește culorile mele actuale { -brand-short-name }.</b>
-mr2022-onboarding-colorway-label-playmaker = Jucător în echipă
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Jucător în echipă (roșu)
-mr2022-onboarding-colorway-description-playmaker = <b>Ești un Jucător în echipă.</b> Creezi oportunități de a câștiga și îi ajuți pe toți cei din jurul tău să-și îmbunătățească jocul.
-mr2022-onboarding-colorway-label-expressionist = Expresionistul
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Expresionist (galben)
-mr2022-onboarding-colorway-description-expressionist = <b>Ești un Expresionist.</b> Vezi lumea diferit, iar creațiile tale stârnesc emoțiile celorlalți.
-mr2022-onboarding-colorway-label-visionary = Vizionarul
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Vizionar (verde)
-mr2022-onboarding-colorway-description-visionary = <b>Ești un Vizionar.</b> Ieși din tipare și îi faci și pe alții să își imagineze un viitor mai bun.
-mr2022-onboarding-colorway-label-activist = Activistul
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Activist (albastru)
-mr2022-onboarding-colorway-description-activist = <b>Ești un Activist.</b> Lași lumea un loc mai bun decât ai găsit-o și îi faci pe ceilalți să creadă.
-mr2022-onboarding-colorway-label-dreamer = Visătorul
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Visător (violet)
-mr2022-onboarding-colorway-description-dreamer = <b>Ești un Visător.</b> Crezi că norocul le surâde celor îndrăzneți și îi inspiri pe ceilalți să fie curajoși.
-mr2022-onboarding-colorway-label-innovator = Inovatorul
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Inovator (portocaliu)
-mr2022-onboarding-colorway-description-innovator = <b>Ești un Inovator.</b> Vezi oportunități peste tot și influențezi viața tuturor celor din jur.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Sari de pe laptop pe telefon și viceversa
-mr2022-onboarding-mobile-download-subtitle = Ia filele de pe un dispozitiv și continuă de unde ai rămas pe celălalt. În plus, sincronzează-ți marcajele și parolele oriunde folosești { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Scanează codul QR pentru a obține { -brand-product-name } pentru mobil sau <a data-l10n-name="download-label">trimite-ți un link de descărcare.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Scanează codul QR pentru a obține { -brand-product-name } pentru mobil.
 
@@ -336,15 +278,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Două mâini, cu piele de culoare deschisă și cu piele de culoare închisă, care dau palma
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Vedere a unui apus de soare printr-o fereastră cu o vulpe și o plantă de casă pe pervaz
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = O mână pictează cu spray un colaj colorat cu un ochi verde, un pantof portocaliu, o minge de baschet roșie, căști mov, o inimă albastră și o coroană galbenă.
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = O vulpe pe ecranul unui laptop care face cu mâna. Laptopul are un mouse conectat.
 onboarding-device-migration-title = Bine ai revenit!
-onboarding-device-migration-subtitle = Intră în contul tău { -fxaccount-brand-name(capitalization: "sentence") } ca să îți aduci marcajele, parolele și istoricul pe dispozitivul nou.
 onboarding-device-migration-subtitle2 = Intră în contul tău ca să îți aduci marcajele, parolele și istoricul pe dispozitivul nou.
 onboarding-device-migration-primary-button-label = Intră în cont
 
@@ -461,15 +400,12 @@ tab-groups-onboarding-feature-callout-title = Încearcă grupurile de file pentr
 tab-groups-onboarding-feature-callout-subtitle = Organizează-te trăgând o filă peste alta ca să creezi primul grup.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Găsești oricând grupurile de file în meniul Listează toate filele.
-tab-groups-onboarding-create-group-title-2 = Ai aici grupurile de file oricând.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Caută grupurile prin căutare în bara de adrese.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Când închizi un grup de file, îl poți redeschide oricând din meniul Listează toate filele.
-tab-groups-onboarding-saved-groups-title-2 = Când închizi un grup de file, îl poți redeschide oricând aici.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Găsești grupurile închise căutând-le în bara de adrese.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Redeschide grupurile de file în orice moment din meniul Listează toate filele.
-tab-groups-onboarding-session-restore-title = Redeschizi grupurile de file aici oricând.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

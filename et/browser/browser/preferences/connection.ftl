@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Ühenduse sätted
     .style =
         { PLATFORM() ->
             [macos] min-width: 48em
            *[other] min-width: 53em
         }
+    .title = Ühenduse sätted
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -58,14 +58,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Laadi uuesti
     .accesskey = d
-connection-proxy-autologin =
-    .label = Salvestatud paroolide korral autentimist ei küsita
-    .accesskey = v
-    .tooltip = Selle valiku korral autenditakse sind automaatselt puhverserveritega, mille parool on salvestatud. Parooli küsitakse juhul, kui autentimine ebaõnnestub.
 connection-proxy-autologin-checkbox =
     .label = Salvestatud paroolide korral autentimist ei küsita
-    .accesskey = v
     .tooltiptext = Selle valiku korral autenditakse sind automaatselt puhverserveritega, mille parool on salvestatud. Parooli küsitakse juhul, kui autentimine ebaõnnestub.
+    .accesskey = v
 connection-proxy-socks-remote-dns =
     .label = Puhverserveri DNS, kui kasutusel on SOCKS v5
     .accesskey = e
@@ -76,6 +72,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Kasuta nimede lahendamiseks üle HTTPSi vaikimisi URLi
 connection-dns-over-https-url-custom =
     .label = kohandatud
-    .accesskey = k
     .tooltiptext = Sisesta üle HTTPSi töötava DNSi jaoks oma eelistatud URL
-connection-dns-over-https-custom-label = Kohandatud
+    .accesskey = k

@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Το πιστοποιητικό δεν εί�
 cert-error-trust-signature-algorithm-disabled = Το πιστοποιητικό δεν είναι αξιόπιστο επειδή υπογράφτηκε με έναν αλγόριθμό υπογραφής που έχει απενεργοποιηθεί, καθώς δεν είναι ασφαλής.
 cert-error-trust-expired-issuer = Το πιστοποιητικό δεν είναι έμπιστο επειδή το πιστοποιητικό εκδότη έχει λήξει.
 cert-error-trust-self-signed = Το πιστοποιητικό δεν είναι έμπιστο επειδή είναι αυτοϋπογεγραμμένο.
-cert-error-trust-symantec = Τα πιστοποιητικά που εκδίδονται από τις GeoTrust, RapidSSL, Symantec, Thawte και VeriSign δεν θεωρούνται πλέον ασφαλή επειδή αυτές οι αρχές πιστοποιητικών δεν ακολούθησαν πρακτικές ασφαλείας στο παρελθόν.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = Το { -brand-short-name } δεν εμπιστεύεται το { $hostname }, επειδή δεν μπόρεσε να αποδείξει ότι πληροί τις απαιτήσεις διαφάνειας του δημόσιου πιστοποιητικού.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Κωδικός σφάλματος: <a data-l10n-na
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Προέκυψε σφάλμα κατά τη σύνδεση στο { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Οι ιστότοποι αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών, τα οποία εκδίδονται από αρχές πιστοποιητικών. Τα περισσότερα προγράμματα περιήγησης δεν εμπιστεύονται πλέον πιστοποιητικά από τις GeoTrust, RapidSSL, Symantec, Thawte και VeriSign. Το { $hostname } χρησιμοποιεί ένα πιστοποιητικό από μία από αυτές τις αρχές και για τον λόγο αυτό, η ταυτότητα του ιστοτόπου δεν μπορεί να αποδειχθεί.
-cert-error-symantec-distrust-admin = Μπορείτε να ειδοποιήσετε τον διαχειριστή του ιστοτόπου σχετικά με αυτό το πρόβλημα.
 cert-error-old-tls-version = Αυτός ο ιστότοπος ενδέχεται να μην υποστηρίζει το πρωτόκολλο TLS 1.2, που είναι η ελάχιστη έκδοση που υποστηρίζεται από το { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Ακολουθία πιστοποιητικού:
-open-in-new-window-for-csp-or-xfo-error = Άνοιγμα ιστοτόπου σε νέο παράθυρο
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Για την ασφάλειά σας, το { $hostname } δεν επιτρέπει στο { -brand-short-name } την προβολή της σελίδας αν κάποιος άλλος ιστότοπος την έχει ενσωματώσει. Για να δείτε αυτήν τη σελίδα, θα πρέπει να την ανοίξετε σε νέο παράθυρο.
 fp-certerror-view-certificate-link = Προβολή πιστοποιητικού ιστοτόπου
 fp-certerror-return-to-previous-page-recommended-button-2 = Επιστροφή (Προτείνεται)
     .accesskey = Ε
-fp-certerror-return-to-previous-page-recommended-button = Επιστροφή (Προτείνεται)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -106,21 +99,21 @@ fp-certerror-self-signed-important-note = ΣΗΜΑΝΤΙΚΗ ΣΗΜΕΙΩΣΗ: �
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = Οι ιστότοποι χρησιμοποιούν πιστοποιητικά που έχουν εκδοθεί από μια αρχή πιστοποίησης για να αποδείξουν ότι είναι πράγματι αυτό που δηλώνουν. Το { -brand-short-name } δεν εμπιστεύεται αυτόν τον ιστότοπο, επειδή φαίνεται ότι το πιστοποιητικό έληξε στις { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } .
+fp-certerror-expired-why-dangerous-body = Οι ιστότοποι χρησιμοποιούν πιστοποιητικά που έχουν εκδοθεί από μια αρχή πιστοποίησης για να αποδείξουν ότι είναι πράγματι αυτό που δηλώνουν. Το { -brand-short-name } δεν εμπιστεύεται αυτόν τον ιστότοπο, επειδή φαίνεται ότι το πιστοποιητικό έληξε στις { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } .
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = Οι ιστότοποι χρησιμοποιούν πιστοποιητικά που έχουν εκδοθεί από μια αρχή πιστοποίησης για να αποδείξουν ότι είναι πράγματι αυτό που δηλώνουν. Το { -brand-short-name } δεν εμπιστεύεται αυτόν τον ιστότοπο, επειδή φαίνεται ότι το πιστοποιητικό δεν θα είναι έγκυρο μέχρι τις { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } .
+fp-certerror-not-yet-valid-why-dangerous-body = Οι ιστότοποι χρησιμοποιούν πιστοποιητικά που έχουν εκδοθεί από μια αρχή πιστοποίησης για να αποδείξουν ότι είναι πράγματι αυτό που δηλώνουν. Το { -brand-short-name } δεν εμπιστεύεται αυτόν τον ιστότοπο, επειδή φαίνεται ότι το πιστοποιητικό δεν θα είναι έγκυρο μέχρι τις { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } .
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = Το ρολόι της συσκευής σας έχει οριστεί σε { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Εάν είναι σωστό, το ζήτημα ασφαλείας οφείλεται μάλλον στον ίδιο τον ιστότοπο. Εάν είναι λάθος, μπορείτε να το αλλάξετε από τις ρυθμίσεις συστήματος της συσκευής σας.
+fp-certerror-expired-what-can-you-do-body = Το ρολόι της συσκευής σας έχει οριστεί σε { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Εάν είναι σωστό, το ζήτημα ασφαλείας οφείλεται μάλλον στον ίδιο τον ιστότοπο. Εάν είναι λάθος, μπορείτε να το αλλάξετε από τις ρυθμίσεις συστήματος της συσκευής σας.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Κωδικός σφάλματος: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -133,11 +126,11 @@ fp-learn-more-about-time-related-errors = Μάθετε περισσότερα σ
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = Το { -brand-short-name } δεν εμπιστεύεται αυτόν τον ιστότοπο, επειδή φαίνεται ότι το πιστοποιητικό του δεν είναι έγκυρο μέχρι τις { DATETIME($date, timeStyle: "short") } στις { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = Το { -brand-short-name } δεν εμπιστεύεται αυτόν τον ιστότοπο, επειδή φαίνεται ότι το πιστοποιητικό του δεν είναι έγκυρο μέχρι τις { DATETIME($date, timeStyle: "short") } στις { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Το ρολόι της συσκευής σας έχει οριστεί σε { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Εάν είναι σωστό, το ζήτημα ασφαλείας οφείλεται μάλλον στον ίδιο τον ιστότοπο. Εάν είναι λάθος, μπορείτε να το αλλάξετε από τις ρυθμίσεις συστήματος της συσκευής σας.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Το ρολόι της συσκευής σας έχει οριστεί σε { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Εάν είναι σωστό, το ζήτημα ασφαλείας οφείλεται μάλλον στον ίδιο τον ιστότοπο. Εάν είναι λάθος, μπορείτε να το αλλάξετε από τις ρυθμίσεις συστήματος της συσκευής σας.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -179,8 +172,6 @@ deniedPortAccess-title = Αυτή η διεύθυνση είναι περιορ�
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Προέκυψε πρόβλημα με την εύρεση του ιστότοπου.
 internet-connection-offline-title = Φαίνεται ότι υπάρχει κάποιο πρόβλημα με τη σύνδεσή σας στο διαδίκτυο.
-dns-not-found-trr-only-title2 = Πιθανός κίνδυνος ασφαλείας κατά την αναζήτηση αυτού του τομέα
-dns-not-found-native-fallback-title2 = Πιθανός κίνδυνος ασφαλείας κατά την αναζήτηση αυτού του τομέα
 fileNotFound-title = Το αρχείο δεν βρέθηκε
 fileAccessDenied-title = Άρνηση πρόσβασης στο αρχείο
 generic-title = Ωχ!
@@ -205,7 +196,6 @@ unknownSocketType-title = Απρόσμενη απάντηση από τον δι
 nssFailure2-title = Αποτυχία ασφαλούς σύνδεσης
 csp-xfo-error-title = Το { -brand-short-name } δεν μπορεί να ανοίξει τη σελίδα
 corruptedContentErrorv2-title = Σφάλμα κατεστραμμένου περιεχομένου
-corruptedContentError-title = Σφάλμα κατεστραμμένου περιεχομένου
 sslv3Used-title = Δεν είναι δυνατή η ασφαλής σύνδεση
 inadequateSecurityError-title = Η σύνδεσή σας δεν είναι ασφαλής
 blockedByPolicy-title = Αποκλεισμένη σελίδα
@@ -228,7 +218,6 @@ fp-certerror-hide-advanced-button = Απόκρυψη σύνθετων επιλο
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Συνέχεια στο { $hostname } (Επικίνδυνο)
 fp-certerror-intro = Το { -brand-short-name } εντόπισε ένα σοβαρό ζήτημα ασφαλείας με το <strong>{ $hostname }</strong>. Κάποιος που προσποιείται ότι είναι ο ιστότοπος μπορεί να προσπαθήσει να υποκλέψει δεδομένα, όπως στοιχεία πιστωτικών καρτών, κωδικούς πρόσβασης ή email.
 fp-certerror-expired-into = Το { -brand-short-name } εντόπισε ένα ζήτημα ασφαλείας με το <strong>{ $hostname }</strong>. Είτε ο ιστότοπος δεν έχει ρυθμιστεί σωστά είτε το ρολόι της συσκευής σας έχει ρυθμιστεί σε λανθασμένη ημερομηνία/ώρα.
 fp-certerror-transparency-intro = Κάποιος που προσποιείται ότι είναι το <strong>{ $hostname }</strong> θα μπορούσε να υποκλέψει στοιχεία, όπως πληροφορίες πιστωτικών καρτών, κωδικούς πρόσβασης ή email.

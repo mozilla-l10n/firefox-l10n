@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Wyjątki
     .style = min-width: 35em
+    .title = Wyjątki
 permissions-close-key =
     .key = w
 permissions-address = Adres witryny:
@@ -80,79 +80,64 @@ permissions-invalid-uri-label = Podaj prawidłową nazwę hosta
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Wzmocniona ochrona przed śledzeniem — wyjątki
     .style = { permissions-window2.style }
+    .title = Wzmocniona ochrona przed śledzeniem — wyjątki
 permissions-exceptions-manage-etp-desc = Określ, na których witrynach wyłączyć wzmocnioną ochronę przed śledzeniem. Podaj dokładny adres witryny, której ustawienia chcesz zmodyfikować, i naciśnij Dodaj wyjątek.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Ciasteczka i dane witryn — wyjątki
     .style = { permissions-window2.style }
+    .title = Ciasteczka i dane witryn — wyjątki
 permissions-exceptions-cookie-desc = Określ zasady akceptacji ciasteczek i danych witryn. Podaj dokładny adres witryny, której uprawnienia chcesz zmodyfikować, a następnie naciśnij Zezwalaj, Blokuj lub Zezwalaj na czas sesji.
 
 ## Exceptions - Clear on Shutdown
 
 permissions-exceptions-shutdown-clearing-window =
-    .title = Czyszczenie historii podczas wyłączania — wyjątki
     .style = { permissions-window2.style }
+    .title = Czyszczenie historii podczas wyłączania — wyjątki
 permissions-exceptions-shutdown-clearing-desc = Określ, których witryn dane nie będą usuwane, kiedy { -brand-short-name } czyści historię podczas zamykania. Podaj dokładny adres witryny, która będzie zarządzana przez użytkownika, i naciśnij Zezwalaj.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Tryb używania wyłącznie protokołu HTTPS — wyjątki
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Określ, na których witrynach nie korzystać z trybu używania wyłącznie protokołu HTTPS. { -brand-short-name } nie będzie próbował przełączyć na zabezpieczone połączenie HTTPS na tych witrynach. Wyjątki nie są uwzględniane w oknach prywatnych.
+    .title = Tryb używania wyłącznie protokołu HTTPS — wyjątki
 permissions-exceptions-https-only-desc2 = Określ, na których witrynach nie korzystać z trybu używania wyłącznie protokołu HTTPS. { -brand-short-name } nie będzie próbował przełączyć na zabezpieczone połączenie HTTPS na tych witrynach.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
     .title = Wyskakujące okna i zewnętrzne przekierowania — uprawnione witryny
-    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = Określ, które witryny mogą otwierać wyskakujące okna i być przekierowywane przez zewnętrzne ramki.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Wyskakujące okna — uprawnione witryny
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Określ, które witryny mogą otwierać wyskakujące okna. Podaj dokładny adres witryny, której chcesz na to zezwolić, i naciśnij Zezwalaj.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Zachowywanie danych logowania — wyjątki
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Dane logowania dla następujących witryn nie będą zachowywane.
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Zachowywanie hasła — wyjątki
     .style = { permissions-window2.style }
+    .title = Zachowywanie hasła — wyjątki
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } nie będzie zachowywać haseł do wymienionych tutaj witryn.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Instalacja dodatków — uprawnione witryny
     .style = { permissions-window2.style }
+    .title = Instalacja dodatków — uprawnione witryny
 permissions-exceptions-addons-desc = Określ, które witryny mogą instalować dodatki. Podaj dokładny adres witryny, której chcesz na to zezwolić, i naciśnij Zezwalaj.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Automatyczne odtwarzanie — uprawnione witryny
     .style = { permissions-window2.style }
+    .title = Automatyczne odtwarzanie — uprawnione witryny
 permissions-site-autoplay-desc = Zarządzaj witrynami, które nie korzystają z domyślnych ustawień automatycznego odtwarzania.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Wyświetlanie powiadomień — uprawnione witryny
     .style = { permissions-window2.style }
+    .title = Wyświetlanie powiadomień — uprawnione witryny
 permissions-site-notification-desc = Następujące strony prosiły o możliwość wyświetlania powiadomień. Określ, które witryny mogą je wyświetlać. Można także zablokować nowe prośby.
 permissions-site-notification-disable-label =
     .label = Blokowanie nowych próśb o możliwość wyświetlania powiadomień
@@ -161,8 +146,8 @@ permissions-site-notification-disable-desc = Uniemożliwi to witrynom spoza list
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Informowanie o położeniu — uprawnione witryny
     .style = { permissions-window2.style }
+    .title = Informowanie o położeniu — uprawnione witryny
 permissions-site-location-desc = Następujące strony prosiły o możliwość uzyskiwania informacji o położeniu. Określ, które witryny mogą je uzyskiwać. Można także zablokować nowe prośby.
 permissions-site-location-disable-label =
     .label = Blokowanie nowych próśb o możliwość uzyskiwania informacji o położeniu
@@ -171,8 +156,8 @@ permissions-site-location-disable-desc = Uniemożliwi to witrynom spoza listy po
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Rzeczywistość wirtualna — uprawnione witryny
     .style = { permissions-window2.style }
+    .title = Rzeczywistość wirtualna — uprawnione witryny
 permissions-site-xr-desc = Następujące strony prosiły o dostęp do urządzeń rzeczywistości wirtualnej. Określ, które witryny mogą uzyskiwać do nich dostęp. Można także zablokować nowe prośby.
 permissions-site-xr-disable-label =
     .label = Blokowanie nowych próśb o dostęp do urządzeń rzeczywistości wirtualnej
@@ -181,8 +166,8 @@ permissions-site-xr-disable-desc = Uniemożliwi to witrynom spoza listy powyżej
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Udostępnianie kamery — uprawnione witryny
     .style = { permissions-window2.style }
+    .title = Udostępnianie kamery — uprawnione witryny
 permissions-site-camera-desc = Następujące strony prosiły o dostęp do kamery. Określ, które witryny mogą uzyskiwać do niej dostęp. Można także zablokować nowe prośby.
 permissions-site-camera-disable-label =
     .label = Blokowanie nowych próśb o dostęp do kamery
@@ -191,8 +176,8 @@ permissions-site-camera-disable-desc = Uniemożliwi to witrynom spoza listy powy
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = Aplikacje i usługi na urządzeniu — uprawnione witryny
     .style = { permissions-window2.style }
+    .title = Aplikacje i usługi na urządzeniu — uprawnione witryny
 permissions-site-localhost-desc = Te strony prosiły o dostęp do aplikacji i usług na tym urządzeniu. Możesz na to zezwolić lub zablokować witrynom ten dostęp.
 permissions-site-localhost-disable-label =
     .label = Blokowanie nowych próśb o dostęp do aplikacji i usług na tym urządzeniu
@@ -201,8 +186,8 @@ permissions-site-localhost-disable-desc = Spowoduje to, że witryny spoza powyż
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = Urządzenia w sieci lokalnej — uprawnione witryny
     .style = { permissions-window2.style }
+    .title = Urządzenia w sieci lokalnej — uprawnione witryny
 permissions-site-local-network-desc = Te strony prosiły o dostęp do aplikacji i usług na urządzeniach podłączonych do sieci lokalnej lub Wi-Fi. Możesz na to zezwolić lub zablokować witrynom ten dostęp.
 permissions-site-local-network-disable-label =
     .label = Blokowanie nowych próśb o dostęp do aplikacji i usług na urządzeniach podłączonych do sieci lokalnej lub Wi-Fi
@@ -211,8 +196,8 @@ permissions-site-local-network-disable-desc = Spowoduje to, że witryny spoza po
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Udostępnianie mikrofonu — uprawnione witryny
     .style = { permissions-window2.style }
+    .title = Udostępnianie mikrofonu — uprawnione witryny
 permissions-site-microphone-desc = Następujące strony prosiły o dostęp do mikrofonu. Określ, które witryny mogą uzyskiwać do niego dostęp. Można także zablokować nowe prośby.
 permissions-site-microphone-disable-label =
     .label = Blokowanie nowych próśb o dostęp do mikrofonu
@@ -223,12 +208,12 @@ permissions-site-microphone-disable-desc = Uniemożliwi to witrynom spoza listy 
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Wybieranie głośników — uprawnione witryny
     .style = { permissions-window2.style }
+    .title = Wybieranie głośników — uprawnione witryny
 permissions-site-speaker-desc = Następujące strony prosiły o możliwość wyboru wyjściowego urządzenia dźwiękowego. Określ, które witryny mogą je wybierać.
 permissions-exceptions-doh-window =
-    .title = DNS poprzez HTTPS — wyjątki
     .style = { permissions-window2.style }
+    .title = DNS poprzez HTTPS — wyjątki
 permissions-exceptions-manage-doh-desc = { -brand-short-name } nie będzie używał zabezpieczonego serwera DNS na tych witrynach i ich poddomenach.
 permissions-doh-entry-field = Wpisz nazwę domeny
     .accesskey = W

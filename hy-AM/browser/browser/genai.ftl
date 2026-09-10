@@ -22,11 +22,6 @@ genai-prompt-prefix-selection = Ես “{ $tabTitle }” էջում եմ, որտ
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Հարցրեք ԱԲ չաթբոտին
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Հարցրեք { $provider }-ին
 genai-menu-open-generic =
     .label = Բաց AI չաթբոտը
 # $provider (string) - name of the provider
@@ -76,8 +71,6 @@ genai-header-provider-menu =
     .title = Ընտրեք չաթբոտ
 genai-header-settings-button =
     .title = ԱԲ զրույցի կարգավորումներ
-genai-header-options-button =
-    .title = Բացել ցանկը
 genai-header-close-button =
     .title = Փակել
 genai-provider-view-details =
@@ -100,36 +93,25 @@ genai-page-button-summarize = Ամփոփել էջը
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Ամփոփեք, մտագրոհ և ավելին դիտարկման ընթացքում
 genai-onboarding-choose-header = Ընտրեք ԱԲ չաթբոտ՝ { -brand-short-name }-ի կողագոտիում օգտագործելու համար
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Ընտրեք ԱԲ չաթբոտ՝ օգտագործելու համար { -brand-short-name } կողագոտիում: Մենք կցուցադրենք մանրամասներ յուրաքանչյուր չաթբոտի մասին, երբ ընտրեք այն: Փոխանջատեք ցանկացած ժամանակ: <a data-l10n-name="learn-more">Իմանալ ավելին</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Փոխեք ցանկացած ժամանակ։ Ընտրության հարցում օգնություն ստանալու համար <a data-l10n-name="learn-more">իմացեք ավելին յուրաքանչյուր չաթբոտի մասին</a>։
 genai-onboarding-primary = Շարունակել
 genai-onboarding-secondary = Փակել
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Իմացեք ավելին Claude-ի մասին
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Իմացեք ավելին ChatGPT-ի մասին:
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Իմանալ ավելին Copilot-ի մասին:
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Իմանալ ավելին Gemini-ի մասին
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Միստրալ Վայբ
-genai-onboarding-huggingchat-learn = Իմացեք ավելին HuggingChat-ի մասին
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Իմացեք ավելին Le Chat-ի մասին
-genai-onboarding-select-header = Ընտրեք տեքստ՝ առաջարկներ տեսնելու համար
-genai-onboarding-select-primary = Սկսել զրուցել
 genai-chatbot-contextual-title = Օգտագործեք արհեստական բանականության չաթբոտ՝ առանց ներդիրները փոխելու
 genai-chatbot-contextual-button = Ընտրեք չաթբոտ
 genai-chatbot-summarize-title = Նորույթ։ Ամփոփեք էջերը մեկ սեղմումով
@@ -137,27 +119,6 @@ genai-chatbot-summarize-button = Ամփոփել էջը
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Բացեք ձեր ԱԲ չաթբոտը կողագոտիում և ընտրեք «Ամփոփել էջը» ներքևում:
 genai-chatbot-summarize-footer-generic-subtitle = Ավելացրեք արհեստական բանականության չաթբոտy { -brand-short-name } կողագոտիում՝ էջերը արագ ամփոփելու համար։
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Ստեղծեք գրվածք և կոդ
-genai-onboarding-claude-analyze = Վերլուծել փաստաթղթերը և պատկերները
-genai-onboarding-claude-price = Անվճար և վճարովի տարբերակներ. անհրաժեշտ է հաշիվ
-genai-onboarding-chatgpt-generate = Ստեղծեք տեքստ, պատկերներ և կոդ
-genai-onboarding-chatgpt-analyze = Վերլուծել փաստաթղթերը և պատկերները
-genai-onboarding-chatgpt-price = Անվճար և վճարովի տարբերակներ. որոշ երկրների և առաջադրանքների համար անհրաժեշտ հաշիվ
-genai-onboarding-copilot-generate = Ստեղծեք տեքստ, պատկերներ և կոդ
-genai-onboarding-copilot-analyze = Վերլուծել պատկերները
-genai-onboarding-copilot-price = Անվճար և վճարովի տարբերակներ. անհրաժեշտ է հաշիվ
-genai-onboarding-gemini-generate = Ստեղծեք տեքստ, պատկերներ և կոդ
-genai-onboarding-gemini-analyze = Վերլուծել պատկերները (անվճար) և փաստաթղթերը (վճարովի)
-genai-onboarding-gemini-price = Անվճար և վճարովի տարբերակներ; անհրաժեշտ է հաշիվ
-genai-onboarding-huggingchat-generate = Ստեղծեք գրվածք և կոդ
-genai-onboarding-huggingchat-switch = Անցեք բաց մոդելների բազմազան հավաքածուի միջև
-genai-onboarding-huggingchat-price-2 = Անվճար; հաշիվ պահանջվում է որոշակի քանակի հարցումներից հետո
-genai-onboarding-lechat-generate = Ստեղծեք գրվածք և կոդ
-genai-onboarding-lechat-price = Անվճար; անհրաժեշտ է հաշիվ
 
 ## Model Optin Component
 
@@ -182,8 +143,8 @@ link-preview-generation-retry = Կրկին փորձել
 link-preview-settings-button =
     .title = Հղման նախադիտման կարգավորումներ
 link-preview-settings-enable =
-    .label = Միացնել հղումների նախադիտումները
     .description = Տեսեք էջի վերնագիրը, նկարագրությունը և այլն, երբ օգտագործում եք կարճ հղումը կամ աջ սեղմեք հղման վրա։
+    .label = Միացնել հղումների նախադիտումները
 link-preview-settings-long-press =
     .label = Դյուրանցում. Սեղմեք և պահեք հղումը 1 վայրկյան (երկար սեղմեք)
 # Title that appears when user is shown the opt-in flow for link previews

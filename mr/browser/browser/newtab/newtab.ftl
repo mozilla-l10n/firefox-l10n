@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = नवीन टॅब
-newtab-settings-button =
-    .title = आपले नवीन टॅब पृष्ठ सानुकूलित करा
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -51,7 +49,6 @@ newtab-search-box-search-button =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = शोध इंजीन जोडा
-newtab-topsites-edit-topsites-header = खास साईट संपादित करा
 newtab-topsites-title-label = शिर्षक
 newtab-topsites-title-input =
     .placeholder = शिर्षक प्रविष्ट करा
@@ -90,10 +87,6 @@ newtab-menu-section-tooltip =
 newtab-menu-content-tooltip =
     .aria-label = { $title } साठी संदर्भ मेनू उघडा
     .title = मेनु उघडा
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = ही साइट संपादित करा
-    .title = ही साइट संपादित करा
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -104,16 +97,7 @@ newtab-menu-dismiss = रद्द करा
 newtab-menu-pin = पिन लावा
 newtab-menu-unpin = पिन काढा
 newtab-menu-delete-history = इतिहासातून नष्ट करा
-newtab-menu-save-to-pocket = { -pocket-brand-name } मध्ये जतन करा
-newtab-menu-delete-pocket = { -pocket-brand-name } मधून हटवा
-newtab-menu-archive-pocket = { -pocket-brand-name } मध्ये संग्रहित करा
 newtab-menu-show-privacy-info = आमचे प्रायोजक आणि आपली गोपनीयता
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = झाले
-newtab-privacy-modal-header = आपली गोपनीयता महत्वाची आहे.
-newtab-privacy-modal-link = नवीन टॅबवर गोपनीयता कसे कार्य करते ते जाणून घ्या
 
 ##
 
@@ -154,38 +138,15 @@ newtab-label-download = डाउनलोड केलेले
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = विभाग काढा
-newtab-section-menu-collapse-section = विभाग ढासळा
-newtab-section-menu-expand-section = विभाग वाढवा
-newtab-section-menu-manage-section = विभाग व्यवस्थापित करा
-newtab-section-menu-manage-webext = एक्सटेन्शन व्यवस्थापित करा
-newtab-section-menu-add-topsite = खास साईट्स जोडा
-newtab-section-menu-add-search-engine = शोध इंजीन जोडा
-newtab-section-menu-move-up = वर जा
-newtab-section-menu-move-down = खाली जा
 newtab-section-menu-privacy-notice = गोपनीयता सूचना
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = विभाग संकुचित करा
-newtab-section-expand-section-label =
-    .aria-label = विभाग विस्तृत करा
 
 ## Section Headers.
 
 newtab-section-header-topsites = खास साईट
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } तर्फे शिफारस
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ब्राउझिंग सुरू करा, आणि आम्ही आपल्याला इथे आपण अलीकडील भेट दिलेले किंवा वाचनखूण लावलेले उत्कृष्ठ लेख, व्हिडिओ, आणि इतर पृष्ठांपैकी काही दाखवू.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = तुम्ही सर्व बघितले. { $provider } कडून आणखी महत्वाच्या गोष्टी बघण्यासाठी नंतर परत तपासा. प्रतीक्षा करू शकत नाही? वेबवरील छान गोष्टी शोधण्यासाठी लोकप्रिय विषय निवडा.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -194,13 +155,6 @@ newtab-discovery-empty-section-topstories-try-again-button = पुन्हा 
 newtab-discovery-empty-section-topstories-loading = लोड करत आहे…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = अरेरे! आम्ही हा विभाग जवळजवळ लोड केला आहे, परंतु बर्‍यापैकी नाही.
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = लोकप्रिय विषय:
-newtab-pocket-more-recommendations = अधिक शिफारसी
-newtab-pocket-cta-button = { -pocket-brand-name } मिळवा
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

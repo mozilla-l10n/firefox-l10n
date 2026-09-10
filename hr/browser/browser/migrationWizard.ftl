@@ -19,11 +19,6 @@ migration-wizard-selection-option-without-profile = { $sourceBrowser }
 #  $sourceBrowser (String): the name of the browser to import from.
 #  $profileName (String): the name of the user profile to import from.
 migration-wizard-selection-option-with-profile = { $sourceBrowser } – { $profileName }
-
-# Each migrator is expected to include a display name string, and that display
-# name string should have a key with "migration-wizard-migrator-display-name-"
-# as a prefix followed by the unique identification key for the migrator.
-
 migration-wizard-migrator-display-name-brave = Brave
 migration-wizard-migrator-display-name-canary = Chrome Canary
 migration-wizard-migrator-display-name-chrome = Chrome
@@ -75,7 +70,6 @@ migration-bookmarks-option-label = Zabilješke
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favoriti
-migration-logins-and-passwords-option-label = Spremi prijave i lozinke
 migration-passwords-option-label = Spremljene lozinke
 migration-history-option-label = Povijest pregledavanja
 migration-extensions-option-label = Proširenja
@@ -207,8 +201,6 @@ migration-chrome-windows-password-import-step3 = Odaberi „Preuzmi datoteku” 
 migration-chrome-windows-password-import-step4 = Vrati se ovamo i odaberi „Odaberi datoteku” za završavanje uvoza.
 migration-manual-password-import-skip-button = Preskoči
 migration-manual-password-import-select-button = Odaberi datoteku
-migration-safari-password-import-skip-button = Preskoči
-migration-safari-password-import-select-button = Odaberi datoteku
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #

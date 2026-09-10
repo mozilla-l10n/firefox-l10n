@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-protections-panel-sendreportview-error = Hubo un error al enviar el informe. Pruebe de nuevo más tarde.
-# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
-protections-panel-sitefixedsendreport-label = ¿Sitio arreglado? Enviar informe
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -23,11 +20,6 @@ protections-panel-etp-more-info =
     .aria-label = Más información sobre la protección de rastreo aumentada
 protections-panel-etp-on-header = La protección contra rastreo aumentada ahora está habilitada para este sitio
 protections-panel-etp-off-header = La protección contra rastreo aumentada ahora está deshabilitada para este sitio
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = ¿El sitio no funciona?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = ¿El sitio no funciona?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -35,20 +27,18 @@ protections-panel-site-not-working-view =
 ##   $host (String): the hostname of the site that is being displayed.
 
 protections-panel-etp-toggle-on =
-    .label = Protección de rastreo aumentada
-    .description = Habilitada para este sitio
     .aria-label = Protección de rastreo aumentada: Habilitada para { $host }
-protections-panel-etp-toggle-off =
+    .description = Habilitada para este sitio
     .label = Protección de rastreo aumentada
-    .description = Deshabilitada para este sitio
+protections-panel-etp-toggle-off =
     .aria-label = Protección de rastreo aumentada: Deshabilitada para { $host }
+    .description = Deshabilitada para este sitio
+    .label = Protección de rastreo aumentada
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = ¿Por qué?
-protections-panel-not-blocking-why-etp-on-tooltip = Bloquear estos podría dañar elementos de algunos sitios web. Sin rastreadores algunos botones, formularios y campos de inicio de sesión podrían no funcionar.
-protections-panel-not-blocking-why-etp-off-tooltip = Todos los rastreadores en este sitio se cargaron porque las protecciones están desactivadas.
 protections-panel-not-blocking-why-etp-on-tooltip-label =
     .label = Bloquear estos podría dañar elementos de algunos sitios web. Sin rastreadores algunos botones, formularios y campos de inicio de sesión podrían no funcionar.
 protections-panel-not-blocking-why-etp-off-tooltip-label =
@@ -94,23 +84,6 @@ smartblock-placeholder-content-header = Contenido de embed bloqueado
 
 protections-panel-settings-label = Configuración de protección
 protections-panel-protectionsdashboard-label = Panel de protecciones
-
-## In the Site Not Working? view, we suggest turning off protections if
-## the user is experiencing issues with any of a variety of functionality.
-
-# The header of the list
-protections-panel-site-not-working-view-header = Desactive las protecciones si tiene problemas con:
-# The list items, shown in a <ul>
-protections-panel-site-not-working-view-issue-list-login-fields = Campos de inicio de sesión
-protections-panel-site-not-working-view-issue-list-forms = Formularios
-protections-panel-site-not-working-view-issue-list-payments = Pagos
-protections-panel-site-not-working-view-issue-list-comments = Comentarios
-protections-panel-site-not-working-view-issue-list-videos = Videos
-protections-panel-site-not-working-view-issue-list-fonts = Tipografía
-protections-panel-site-not-working-view-send-report = Enviar informe
-
-##
-
 protections-panel-cross-site-tracking-cookies = Estas cookies lo siguen de un sitio a otro para recopilar datos sobre lo que hace en línea. Las establecen terceros, como anunciantes y empresas de análisis.
 protections-panel-cryptominers = Los criptomineros utilizan la potencia informática de su sistema para extraer dinero digital. Las secuencias de comandos de cifrado de los mismos agotan su batería, ralentizan su computadora y pueden aumentar su factura de electricidad.
 protections-panel-fingerprinters = Los detectores de huellas digitales recolectan la configuración de su navegador y su computadora para crear un perfil suyo. Usando este detector de huella digital pueden seguirlo a través de diferentes sitios web.
@@ -123,33 +96,10 @@ protections-panel-shim-allowed-indicator =
 protections-panel-content-blocking-manage-settings =
     .label = Administrar la configuración de protección
     .accesskey = M
-protections-panel-content-blocking-breakage-report-view =
-    .title = Informar un sitio roto
-protections-panel-content-blocking-breakage-report-view-description = El bloqueo de ciertos rastreadores puede causar problemas con algunos sitios web. Informar sobre estos problemas ayuda a que { -brand-short-name } sea mejor para todos. Al enviar este informe, se enviará a Mozilla una URL e información sobre la configuración de su navegador. <label data-l10n-name="learn-more">Aprender más</label>
-protections-panel-content-blocking-breakage-report-view-collection-url = URL
-protections-panel-content-blocking-breakage-report-view-collection-url-label =
-    .aria-label = URL
-protections-panel-content-blocking-breakage-report-view-collection-comments = Opcional: Describir el problema
-protections-panel-content-blocking-breakage-report-view-collection-comments-label =
-    .aria-label = Opcional: Describir el problema
-protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = Cancelar
-protections-panel-content-blocking-breakage-report-view-send-report =
-    .label = Enviar informe
-
-# Cookie Banner Handling
-
-protections-panel-cookie-banner-handling-header = Reducción de mensajes de cookies
 protections-panel-cookie-banner-blocker-header = Bloqueador de mensajes de cookies
 protections-panel-cookie-banner-handling-enabled = Activada para este sitio
 protections-panel-cookie-banner-handling-disabled = Desactivada para este sitio
 protections-panel-cookie-banner-handling-undetected = El sitio actualmente no es compatible
-protections-panel-cookie-banner-view-title =
-    .title = Reducción de mensajes de cookies
-# Variables
-#  $host (String): the hostname of the site that is being displayed.
-protections-panel-cookie-banner-view-turn-off-for-site = ¿Desactivar la reducción de mensajes de cookies para { $host }?
-protections-panel-cookie-banner-view-turn-on-for-site = ¿Activar la reducción de mensajes de cookies para este sitio?
 protections-panel-cookie-banner-blocker-view-title =
     .title = Bloqueador de mensajes de cookies
 # Variables
@@ -157,10 +107,6 @@ protections-panel-cookie-banner-blocker-view-title =
 protections-panel-cookie-banner-blocker-view-turn-off-for-site = ¿Desactivar el bloqueo de mensajes de cookies para { $host }?
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = ¿Activar el bloqueo de mensajes de cookies para este sitio?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } eliminará las cookies de este sitio y actualizará la página. Eliminar todas las cookies puede cerrar su sesión o vaciar los carritos de compras.
-protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } intenta rechazar automáticamente todas las solicitudes de cookies en los sitios compatibles.
-protections-panel-cookie-banner-view-cancel = Cancelar
-protections-panel-cookie-banner-view-turn-off = Desactivar
-protections-panel-cookie-banner-view-turn-on = Activar
 protections-panel-cookie-banner-blocker-view-turn-on-description = Al activarlo { -brand-short-name } intentará rechazar automáticamente los mensajes de cookies en este sitio.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Cancelar

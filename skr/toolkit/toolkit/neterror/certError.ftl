@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = سرٹیفکیٹ تے بھروسہ کائن�
 cert-error-trust-signature-algorithm-disabled = تصدیق نامہ ناقابل بروسہ ہے کیوں جو اینکوں االگورزم دے دستخط استعمال کریندیں ہوئیں دستخط کیتا ڳیا ہا جینکوں نااہل بݨایا ڳیا ہا کیوں جو وہ الگورزم قابل بھروسا کائنا ہا
 cert-error-trust-expired-issuer = ایہ تصدیق نامہ قابل اعتماد کائنی کیوں جو جاری کرݨ والے دا تصدیق نامہ زائد المیعاد ہے۔
 cert-error-trust-self-signed = ایہ تصدیق نامہ قابل اعتماد کائنی کوں جو ایہ آپوں دستخط شدہ ہے۔
-cert-error-trust-symantec = GeoTrust ، RapidSSL ، Symantec، Thawteتے  VeriSign دے ذریعہ جاری کردہ تصدہق نانواں کوں ہݨ ہتھیکڑا نئیں سمجھا ویندا کیوں جو ایہ تصدہق نانواں  حکام ماضی وِچ سلامتی دے طریقیاں تے عمل کرݨ وچ ناکام رہے ہن۔
 cert-error-untrusted-default = ایہ تصدیق نامہ قابل اعتماد ماخذ کنوں کائنی۔
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -52,10 +51,6 @@ cert-error-code-prefix-link = نقص دا کوڈ:<a data-l10n-name="error-code-l
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = { $hostname } کنوں کنکشن دے دوران ہک خرابی پیش آڳئی ہے۔ { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = ویب سائٹاں سرٹیفکیٹ دے ذریعے اپݨی شناخت ثابت کریندیاں ہن، جیڑھے سرٹیفکیٹ حکام دے ذریعہ جاری کیتے ویندے ہن۔ زیادہ تر براؤزرز ہݨ GeoTrust، RapidSSL، Symantec، Thawte، تے VeriSign دے جاری کردہ سرٹیفکیٹس تے بھروسہ نہیں کریندے۔ { $hostname } انہاں وِچوں کہیں ہک اتھارٹی دا سرٹیفکیٹ استعمال کریندا ہے تے ایں واسطے ویب سائٹ دی سنڄاݨ ثابت نہیں کیتی ونڄ سڳدی۔
-cert-error-symantec-distrust-admin = تساں ایں مسئلے دے بارے ویب سائٹ دے منتظم کوں اطلاع کر سڳدے او۔
 cert-error-old-tls-version = تھی سڳدے اے ویب سائٹ TLS1.2 پروٹوکول کوں سپورٹ نہ کرے، جیڑھا جو { -brand-short-name } دا گھٹ توں گھٹ ورشن والا ہے
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -64,7 +59,6 @@ cert-error-details-hsts-label = HTTP سخت ٹرانسپورٹ سیکورٹی { 
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP عوامی کنجی پننگ: { $hasHPKP }
 cert-error-details-cert-chain-label = تصدیق نامہ سلسلہ:
-open-in-new-window-for-csp-or-xfo-error = سائٹ نویں ونڈو وچ کھولو
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = تہاݙی سلامتی دے تحفظ کیتے، { $hostname } دی طرفوں { -brand-short-name } کوں ورقہ ݙکھاوݨ دی اجازت کینا ملسے جے  کہیں ٻئی سائٹ ایندے وِچ سرایت کر گھدی ہووے۔ ایں ورقے کوں ݙیکھݨ کیتے تہاکوں اینکوں ہک نویں ونڈو وِچ کھولݨ دی ضرورت ہے۔
@@ -76,8 +70,6 @@ deniedPortAccess-title = ایہ پتہ رسٹرکٹڈ ہے
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = ہمممم۔ اساکوں او ویب سائٹ لبھݨ اِچ دِڳت تھین٘دی پئی اے
-dns-not-found-trr-only-title2 = ایں ڈومین کوں لبھݨ وچ ممکنہ سکیورٹی خدشہ
-dns-not-found-native-fallback-title2 = ایں ڈومین کوں لبھݨ وچ ممکنہ سکیورٹی خدشہ
 fileNotFound-title = فائل کائنی لبھی
 fileAccessDenied-title = فائل تائیں رسائی مسترد کر ݙتی ڳئی ہائی
 generic-title = اوہو۔
@@ -100,7 +92,6 @@ redirectLoop-title = ورقہ ٹھیک طرح ری ڈائریکٹ کائنی ت�
 unknownSocketType-title = سرور ولوں غیر متوقع  جواب
 nssFailure2-title = قابل بھروسہ کنکشن ناکام تھی ڳیا
 csp-xfo-error-title = { -brand-short-name } ایہ ورقہ کائنی کھول سڳدا
-corruptedContentError-title = خراب مواد نقص
 sslv3Used-title = حفاظتی طور تے سلھڑݨ اِچ ناکام
 inadequateSecurityError-title = تہاݙا کنکشن محفوظ کائنی۔
 blockedByPolicy-title = بلاک تھیا ورقہ

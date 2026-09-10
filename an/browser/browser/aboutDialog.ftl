@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Descargando actualización — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Se ye baixando l'actualización — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Descargando actualización — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Se ye esviellando…
 update-failed = L'actualización ha fallau. <label data-l10n-name="failed-link">Descargar a zaguera versión</label>
 update-failed-main = L'actualización ha fallau. <a data-l10n-name="failed-link-main">Descargar a zaguera versión</a>
-update-adminDisabled = Actualizacions desactivadas por o suyo administrador
 update-policy-disabled = La tuya organización ha desactivau las actualizacions
 settings-update-policy-disabled =
     .label = La tuya organización ha desactivau las actualizacions
@@ -69,8 +67,6 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } ye disenyau por <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, una <label data-l10n-name="community-creditsLink">comunidat global</label> que treballa a zofra ta preservar o ret ubierto, publico y accesible ta totz.
 helpus = Quiere aduyar? <label data-l10n-name="helpus-donateLink">Faiga una donación</label> u <label data-l10n-name="helpus-getInvolvedLink">embreque-se-ie!</label>
 bottomLinks-license = Información d'a licencia
-bottomLinks-rights = Dreitos d'os usuarios finals
-bottomLinks-privacy = Politica de privacidat
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

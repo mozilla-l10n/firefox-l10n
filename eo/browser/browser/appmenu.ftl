@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = Etendaĵoj kaj etosoj
 appmenuitem-extensions =
     .label = Etendaĵoj
-appmenuitem-addons-and-themes =
-    .label = Aldonaĵoj kaj etosoj
 appmenuitem-print =
     .label = Presi…
 appmenuitem-find-in-page =
@@ -154,7 +152,6 @@ fxa-menu-get-firefox-mobile =
     .label = Elŝutu { -brand-product-name } por Android aŭ iOS
 fxa-menu-secure-sync-subpanel =
     .title = Sekura spegulado
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Konto
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -176,15 +173,6 @@ appmenuitem-save-page =
     .label = Konservi paĝon kiel…
 appmenuitem-fxa-sync-off-title = Spegulado estas malŝaltita
 appmenuitem-fxa-sync-off-description = Protektu kaj aliru el ie ajn viajn legosignojn, pasvortojn kaj pli.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Novaĵoj
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Sciigi pri novaj trajtoj
-    .accesskey = S
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -326,8 +314,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Pli da problemsolva informo
     .accesskey = p
-appmenu-help-report-site-issue =
-    .label = Raporti problemon kun retejo…
 appmenu-help-share-ideas =
     .label = Dividi ideojn kaj komentojn…
     .accesskey = D
@@ -393,7 +379,6 @@ appmenuitem-vpn-description5 = Profitu aldonan protekton en ĉiuj aparatoj
 appmenuitem-vpn-title-signed-in1 = Elŝuti { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Protekto por la integra aparato
-appmenuitem-vpn-description = Protektu vian retumon
 appmenu-services-header = Miaj servoj
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -403,7 +388,6 @@ appmenu-other-protection-header3 = Iloj pri privateco
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Provu aliajn protektajn ilojn de Mozilla:
-appmenu-other-protection-header = Testu aliajn protektajn ilojn de { -vendor-short-name }:
 
 ## Profiles panel
 

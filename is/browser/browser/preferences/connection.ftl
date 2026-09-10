@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Stillingar tengingar
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Stillingar tengingar
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Endurnýja
     .accesskey = E
-connection-proxy-autologin =
-    .label = Ekki biðja um auðkenningu ef lykilorð er vistað
-    .accesskey = i
-    .tooltip = Þessi valmöguleiki auðkennir þig á milliþjónum ef búið er að vista auðkenni. Spurt verður um auðkenni ef innskráning misheppnast.
 connection-proxy-autologin-checkbox =
     .label = Ekki biðja um auðkenningu ef lykilorð er vistað
-    .accesskey = i
     .tooltiptext = Þessi valmöguleiki auðkennir þig á milliþjónum ef búið er að vista auðkenni. Spurt verður um auðkenni ef innskráning misheppnast.
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = DNS milliþjónn ef notað er SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Nota sjálfgefna slóð til að lesa DNS með HTTPS
 connection-dns-over-https-url-custom =
     .label = Sérsniðið
-    .accesskey = n
     .tooltiptext = Settu inn valda vefslóð til að leysa DNS yfir HTTPS
-connection-dns-over-https-custom-label = Sérsníða
+    .accesskey = n

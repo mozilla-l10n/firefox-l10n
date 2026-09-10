@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Rozšěrjenje njemóže daty čitać a změnić
-origin-controls-quarantined =
-    .label = Rozšěrjenje njesmě daty čitać a změnić
 origin-controls-quarantined-status =
     .label = Rozšěrjenje na wobmjezowanych sydłach dowolene njeje
 origin-controls-quarantined-allow =

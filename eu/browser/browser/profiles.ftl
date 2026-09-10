@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = Erabilitako azken profila irekiko du { -brand-short-name }(e)k.
 profile-window-create-profile = Sortu profila
 profile-card-edit-button =
-    .title = Editatu profila
     .aria-label = Editatu profila
+    .title = Editatu profila
 profile-card-delete-button =
-    .title = Ezabatu profila
     .aria-label = Ezabatu profila
+    .title = Ezabatu profila
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Ireki { $profileName }
     .aria-label = Ireki { $profileName }
+    .title = Ireki { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = { $number }. profila
@@ -83,9 +83,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Ezabatu { $profilename } profila
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = Ezabatu { $profilename } profila?
 delete-profile-description = { -brand-short-name }(e)k behin betiko ezabatuko ditu ondorengo datuak gailu honetatik:
 # Open is an adjective, as in "browser windows currently open".
@@ -112,28 +109,10 @@ delete-profile-confirm = Ezabatu
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Argia
-# The default dark theme
-profiles-dark-theme = Iluna
 # The default system theme
 profiles-system-theme = Sistema
 profiles-system-theme-title =
     .title = Aplikatu sistemaren itxura
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = Aingerulore horia
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = Izpiliku zurbila
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = Menda-belar berdea
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = Magnolia arrosa
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = Ozeano urdina
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = Adreilu gorria
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = Goroldio berdea
 profiles-gray-theme = Grisa
 profiles-gray-theme-title =
     .title = Aplikatu itxura grisa
@@ -290,9 +269,6 @@ profiles-appmenu-callout-tour-subtitle = ☰ menuan, sakatu zure profilaren izen
 profiles-appmenu-callout-tour-primary-button = Erakuts iezadazu nola
 barbell-avatar = Pisu-barra
 bike-avatar = Bizikleta
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Aplikatu pisu-barraren abatarra
 bike-avatar-tooltip =

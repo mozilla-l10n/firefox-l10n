@@ -30,7 +30,5 @@ about-networking-dns-lookup = Consulta DNS
 about-networking-dns-lookup-button = Resol
 about-networking-dns-domain = Domini:
 about-networking-dns-lookup-table-column = IP
-about-networking-rcwn-operation = Operació de memòria cau
-about-networking-rcwn-perf-open = Obri
 about-networking-networkid = ID de xarxa
 about-networking-networkid-id = ID de xarxa

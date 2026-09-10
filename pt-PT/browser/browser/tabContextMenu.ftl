@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Novo separador
-    .accesskey = v
 reload-tab =
     .label = Recarregar separador
     .accesskey = R
@@ -199,13 +196,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Criar ligação partilhável
     .accesskey = a
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Enviar separador para dispositivo
-           *[other] Enviar { $tabCount } separadores para dispositivo
-        }
-    .accesskey = n
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

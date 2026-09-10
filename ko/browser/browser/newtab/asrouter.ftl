@@ -60,7 +60,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = 어디서나 북마크 동기화
-cfr-doorhanger-bookmark-fxa-body = 멋진 발견! 이제 다른 휴대 기기에서도 이 북마크를 사용해 보세요. { -fxaccount-brand-name }로 시작해 보세요.
 cfr-doorhanger-bookmark-fxa-body-2 = 멋진 발견! 이제 다른 휴대 기기에서도 이 북마크를 사용해 보세요. 계정을 시작해 보세요.
 cfr-doorhanger-bookmark-fxa-link-text = 북마크 지금 동기화…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -73,12 +72,6 @@ fxa-adoption-credit-cards-backup-subtitle = 암호화를 통해 결제 수단을
 fxa-adoption-bookmarks-treatment-backup-title = 북마크를 백업합시다
 fxa-adoption-bookmarks-treatment-backup-subtitle = 암호화를 통해 북마크를 기기에 동기화하여 보호하세요.
 fxa-adoption-primary-button-label = 가입
-
-## Protections panel
-
-cfr-protections-panel-header = 브라우저 추적 차단하기
-cfr-protections-panel-body = 자신의 데이터를 보호하세요. { -brand-short-name }는 온라인에서 하는 일을 추적하는 가장 일반적인 많은 추적기로부터 사용자를 보호합니다.
-cfr-protections-panel-link-text = 더 알아보기
 
 ## What's New toolbar button and panel
 
@@ -173,42 +166,8 @@ mr2022-background-update-toast-primary-button-label = 지금 { -brand-shorter-na
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = 나중에 알림
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = 사용해 보기
-    .accesskey = T
-firefoxview-cfr-secondarybutton = 나중에
-    .accesskey = N
-firefoxview-cfr-header-v2 = 중단한 부분부터 빠르게 다시 시작하세요
-firefoxview-cfr-body-v2 = { -firefoxview-brand-name }를 사용하여 최근에 닫은 탭을 다시 가져오고, 기기 간에 원활하게 전환하세요.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = { -firefoxview-brand-name }를 만나보세요
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = 휴대폰에서 열린 탭을 보고 싶으세요? 가져오세요. 방금 방문했던 사이트가 필요하세요? { -firefoxview-brand-name }로 다시 여세요.
-firefoxview-spotlight-promo-primarybutton = 작동 방식 보기
-firefoxview-spotlight-promo-secondarybutton = 건너뛰기
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = 컬러웨이 선택
-    .accesskey = C
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = 문화를 바꾼 목소리에서 영감을 받은 { -brand-short-name } 독점 색상으로 브라우저를 색칠하세요.
-colorways-cfr-header-28days = 독립적인 목소리 컬러웨이 1월 16일 만료됨
-colorways-cfr-header-14days = 독립적인 목소리 컬러웨이 2주 후 만료됨
-colorways-cfr-header-7days = 독립적인 목소리 컬러웨이 이번 주 만료됨
-colorways-cfr-header-today = 독립적인 목소리 컬러웨이 오늘 만료됨
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = { -brand-short-name }가 쿠키 배너를 거부하도록 허용하시겠습니까?
-cfr-cbh-body = { -brand-short-name }가 많은 쿠키 배너 요청을 자동으로 거부할 수 있습니다.
-cfr-cbh-confirm-button = 쿠키 배너 거부
-    .accesskey = R
-cfr-cbh-dismiss-button = 나중에
-    .accesskey = N
 cookie-banner-blocker-onboarding-header = { -brand-short-name }가 쿠키 배너를 거부했습니다.
 cookie-banner-blocker-onboarding-body = 방해 요소가 줄어들고, 이 사이트에서 사용자를 추적하는 쿠키가 줄어듭니다.
 cookie-banner-blocker-onboarding-learn-more = 더 알아보기

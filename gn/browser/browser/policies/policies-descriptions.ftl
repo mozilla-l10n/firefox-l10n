@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Omboyke pe kundahára ijypyguáva oñepyrũv
 policy-DisableDeveloperTools = Ejoko ñangarekohára rembiporúpe jeike.
 policy-DisableEncryptedClientHello = Eipe’a tembiapoite jeporu TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Eipe’a mbohapeha emondo hag̃ua neñe’ẽ pytyvõha poravorã guive (Emondo neñe’ẽ ha emomarandu tenda imarãva).
-policy-DisableFirefoxAccounts = Eipe’a mba’epytyvõrã { -fxaccount-brand-name } pegua, oĩhápe avei Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Eipe’a umi mba’eporu mba’etegua, oikehápe ñembojuehe.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Ani nemandu’a jeheka ha tembiasakue myanyhẽha re
 policy-DisableLaunchOnLogin = Emboyke ani { -brand-short-name } oñepyrũ ijeheguiete poruhára oike jave.
 policy-DisablePrimaryPasswordCreation = Añetérõ, ndaikatúi emoheñói Ñe’ẽñemi ha’etéva.
 policy-DisablePasswordReveal = Ani emoneĩ ojehecha ñe’ẽñemi tembiapo ñepyrũ ñongatupyrépe.
-policy-DisablePocket2 = Eipe’a ñanduti renda ñeñongatu rembiapoite { -pocket-brand-name }-pe.
 policy-DisablePrivateBrowsing = Eipe’a kundaha ñemigua.
 policy-DisableProfileImport = Eipe’a poravorã mbohapeha egueru hag̃ua mba’ekuaarã ambue kundaháragui.
 policy-DisableProfileRefresh = Eipe’a votõ Myanyhẽjey { -brand-short-name } about:support kuatyaroguépe.
@@ -132,7 +130,6 @@ policy-PDFjs = Eipe’a térã emboheko PDF.js, PDF jehechaha oĩva { -brand-sho
 policy-Permissions2 = Emboheko ñemoneĩ ta’ãnganohẽha, ñe’ẽatãha, tendaite, marandu’í ha ñembohetápe g̃uarã.
 policy-PictureInPicture = Emyandy térã embogue Picture-in-Picture.
 policy-PopupBlocking2 = Eheja peteĩva ñanduti rogue tohechauka ovetã apysẽ ha toñemondo mbohapyha rupive.
-policy-PopupBlocking = Emoneĩ ndahetái ñanduti rendápe ohechaukávo ovetã iñapysẽva ijypykue rupi.
 policy-Preferences = Emboheko ha ejoko tepykue jeguerohoryvéva aty’ípe g̃uarã.
 policy-PrivateBrowsingModeAvailability = Emboheko ñeikundaha ñemiguáva rekópe.
 policy-PromptForDownloadLocation = Eporandu moõpa eñongatúta marandurenda emboguejykuévo.

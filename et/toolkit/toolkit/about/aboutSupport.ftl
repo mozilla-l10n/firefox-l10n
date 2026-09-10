@@ -24,10 +24,6 @@ security-software-name = Nimi
 security-software-antivirus = Viirusetõrje
 security-software-antispyware = Nuhkvaratõrje
 security-software-firewall = Tulemüür
-features-title = { -brand-short-name }i erifunktsioonid
-features-name = Nimi
-features-version = Versioon
-features-id = ID
 processes-title = Kaugprotsessid
 processes-type = Tüüp
 processes-count = Arv
@@ -53,7 +49,6 @@ app-basics-profile-dir =
         [linux] Profiili kaust
        *[other] Profiili kaust
     }
-app-basics-enabled-plugins = Lubatud pluginad
 app-basics-build-config = Kompileerimise konfiguratsioon
 app-basics-user-agent = Identifikaator
 app-basics-os = OS
@@ -90,9 +85,6 @@ show-dir-label =
 environment-variables-title = Keskkonnamuutujad
 environment-variables-name = Nimi
 environment-variables-value = Väärtus
-experimental-features-title = Eksperimendid
-experimental-features-name = Nimi
-experimental-features-value = Väärtus
 modified-key-prefs-title = Olulised muudetud eelistused
 modified-prefs-name = Nimi
 modified-prefs-value = Väärtus
@@ -327,8 +319,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = eksperimendi poolt keelatud
-fission-status-experiment-treatment = eksperimendi poolt lubatud
 fission-status-disabled-by-e10s-env = keskkonnamuutuja poolt keelatud
 fission-status-enabled-by-env = keskkonnamuutuja poolt lubatud
 fission-status-disabled-by-env = keskkonnamuutuja poolt keelatud
@@ -337,7 +327,6 @@ fission-status-disabled-by-default = vaikimisi keelatud
 fission-status-enabled-by-user-pref = kasutaja poolt lubatud
 fission-status-disabled-by-user-pref = kasutaja poolt keelatud
 fission-status-disabled-by-e10s-other = E10s poolt keelatud
-fission-status-enabled-by-rollout = lubatud etapiviisilise levitamise tõttu
 async-pan-zoom = Asünkroonne suurendamine
 apz-none = puudub
 wheel-enabled = rulliku sisend on lubatud

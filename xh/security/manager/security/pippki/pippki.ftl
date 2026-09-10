@@ -18,8 +18,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Kuthotywa Umthwalo Wesatifikethi
     .style = min-width: 46em
+    .title = Kuthotywa Umthwalo Wesatifikethi
 download-cert-message = Ucelwe ukuba uthembe Ugunyaziwe Wesatifikethi omtsha (CA).
 download-cert-trust-email =
     .label = Themba le-CA ukuchonga abasebenzisi bemeyile.
@@ -32,8 +32,6 @@ download-cert-view-text = Hlola isatifikethi se-CA
 
 client-auth-window =
     .title = Isicelo Sokuchongeka Somsebenzisi
-client-auth-site-description = Esi siza sicele ukuba uzichonge ngesatifikethi:
-client-auth-choose-cert = Khetha isatifikethi osinikela nengendlela yokuchongeka:
 
 ## Set password (p12) dialog
 

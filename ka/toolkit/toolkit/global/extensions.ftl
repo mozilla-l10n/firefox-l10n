@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = დაემატოს { $extension }?
-webext-perms-header-with-perms = დაემატოს { $extension }? ამ გაფართოებას შეეძლება:
-webext-perms-header-unsigned = დაემატოს { $extension }? ეს გაფართოება დაუმოწმებელია. მავნე გაფართოებებს, შეუძლია თქვენი პირადი მონაცემების მოპარვა ან თქვენი კომპიუტერის ხელყოფა. მხოლოდ სანდო წყაროდან დაამატეთ.
-webext-perms-header-unsigned-with-perms = დაემატოს { $extension }? ეს გაფართოება დაუმოწმებელია. მავნე გაფართოებები იპარავს პირად მონაცემებს და ხელყოფს კომპიუტერს. მხოლოდ სანდო წყაროდან დაამატეთ. ამ გაფართოებას შეეძლება:
 webext-perms-sideload-header = { $extension } დაემატა
 webext-perms-optional-perms-header2 = { $extension } ითხოვს დამატებით ნებართვებს.
-webext-perms-optional-perms-header = { $extension } ითხოვს დამატებით ნებართვებს.
 webext-perms-header2 = დაემატოს { $extension }
 webext-perms-list-intro-unsigned = ამ გადაუმოწმებელი გაფართოებით შესაძლოა, თქვენი პირადულობა საფრთხეში აღმოჩნდეს ან ხელყონ თქვენი მოწყობილობა. დაამატეთ მხოლოდ სანდო წყაროს მქონე.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } განახლდა. განახლებულის დაყენება საჭიროებს ახალ ნებართვებს. „გაუქმების“ არჩევის შემთხვევაში არსებული ვერსია შენარჩუნდება.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } განახლდა. განახლების დაყენებამდე საჭიროებს ახალ ნებართვებს. მიუთითეთ „გაუქმება“ არსებული ვერსიის დასატოვებლად. მოთხოვნილი ნებართვები:
 webext-perms-update-accept =
     .label = განახლება
     .accesskey = ა
@@ -73,24 +65,8 @@ webext-perms-host-description-file-urls = წვდომა ადგილო�
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = თქვენს მონაცემებთან წვდომა საიტებზე დაბოლოებით { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] თქვენს მონაცემებთან წვდომა { $domainCount } სხვა დაბოლოების საიტზე
-       *[other] თქვენს მონაცემებთან წვდომა { $domainCount } სხვა დაბოლოების საიტზე
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = თქვენს მონაცემებთან წვდომა საიტზე { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] თქვენს მონაცემებთან წვდომა სხვა საიტზე
-       *[other] თქვენს მონაცემებთან წვდომა სხვა { $domainCount } საიტზე
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

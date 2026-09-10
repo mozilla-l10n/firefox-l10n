@@ -2,17 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-# This file intentionally uses hard-coded brand names instead of Fluent terms.
-# This approach minimizes issues across multiple release channels and rebranded
-# versions.
-
 default-bookmarks-title = ที่คั่นหน้า
 default-bookmarks-heading = ที่คั่นหน้า
-default-bookmarks-toolbarfolder = โฟลเดอร์แถบเครื่องมือที่คั่นหน้า
-default-bookmarks-toolbarfolder-description = เพิ่มที่คั่นหน้าไปยังโฟลเดอร์นี้เพื่อให้แสดงผลบนแถบเครื่องมือที่คั่นหน้า
-# link title for https://www.mozilla.org/firefox/central/
-default-bookmarks-getting-started = เริ่มต้นใช้งาน
 # Firefox links folder name
 default-bookmarks-firefox-heading = Mozilla Firefox
 # link title for https://www.mozilla.org/firefox/help/

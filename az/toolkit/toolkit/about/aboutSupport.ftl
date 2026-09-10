@@ -18,10 +18,6 @@ security-software-name = Adı
 security-software-antivirus = Antivirus
 security-software-antispyware = Antispyware
 security-software-firewall = Qoruyucu divar
-features-title = { -brand-short-name } Özəllikləri
-features-name = Ad
-features-version = Versiya
-features-id = ID
 app-basics-title = Proqramın əsasları
 app-basics-name = Ad
 app-basics-version = Buraxılış
@@ -34,7 +30,6 @@ app-basics-profile-dir =
         [linux] Kimlik qovluğu
        *[other] Profil qovluğu
     }
-app-basics-enabled-plugins = Aktiv Qoşmalar
 app-basics-build-config = Konfiqurasiya
 app-basics-user-agent = İstifadəçi Vəkli
 app-basics-os = ƏS

@@ -18,10 +18,6 @@ security-software-name = નામ
 security-software-antivirus = એન્ટિવાયરસ
 security-software-antispyware = એન્ટીસ્વાઇવયર
 security-software-firewall = ફાયરવૉલ
-features-title = { -brand-short-name } વિશેષતા
-features-name = નામ
-features-version = આવૃત્તિ
-features-id = ID
 processes-title = દૂરસ્થ પ્રક્રિયાઓ
 processes-type = પ્રકાર
 processes-count = ગણના
@@ -37,7 +33,6 @@ app-basics-profile-dir =
         [linux] રૂપરેખા ડિરેક્ટરી
        *[other] રૂપરેખા ફોલ્ડર
     }
-app-basics-enabled-plugins = સક્રિય થયેલ પ્લગઇનો
 app-basics-build-config = બિલ્ડ રૂપરેખાંકન
 app-basics-user-agent = વપરાશકર્તા એજન્ટ
 app-basics-os = OS

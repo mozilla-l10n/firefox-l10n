@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Olet parhaillaan FIPS-tilassa. FIPS edelly
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Nollaa pääsalasana
     .style = min-width: 40em
+    .title = Nollaa pääsalasana
 reset-password-button-label =
     .label = Poista
 reset-primary-password-text = Jos pääsalasana poistetaan, kaikki tallennetut sivusto- ja sähköpostisalasanat, henkilökohtaiset varmenteet ja salaiset avaimet unohdetaan. Poistetaanko pääsalasana?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Pääsalasanasi on nollattu.
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Ladataan varmennetta
     .style = min-width: 46em
+    .title = Ladataan varmennetta
 download-cert-message = Aseta uuden varmentajan luotettavuus.
 download-cert-trust-ssl =
     .label = Sivustojen todentajana.
@@ -52,8 +52,6 @@ download-cert-view-text = Tarkastele varmentajan varmennetta
 
 client-auth-window =
     .title = Käyttäjän todentamispyyntö
-client-auth-site-description = Sivusto pyytää sinua todentamaan itsesi varmenteella:
-client-auth-choose-cert = Valitse todentavana esitettävä varmenne:
 client-auth-send-no-certificate =
     .label = Älä lähetä varmennetta
 # Variables:

@@ -62,17 +62,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Sincronitzeu les adreces d'interés a tot arreu.
-cfr-doorhanger-bookmark-fxa-body = Una gran troballa! No vos quedeu sense esta adreça d'interés en els vostres dispositius mòbils. Creeu un { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronitza ara les adreces d'interés…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botó Tanca
     .title = Tanca
-
-## Protections panel
-
-cfr-protections-panel-header = Navegueu sense sentir-vos observat
-cfr-protections-panel-body = Protegiu les vostres dades. El { -brand-short-name } vos protegeix de molts dels elements de seguiment més habituals que recopilen dades sobre allò que feu a Internet.
-cfr-protections-panel-link-text = Més informació
 
 ## What's New toolbar button and panel
 

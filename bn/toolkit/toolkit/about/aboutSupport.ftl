@@ -18,10 +18,6 @@ security-software-name = নাম
 security-software-antivirus = এন্টিভাইরাস
 security-software-antispyware = এন্টিস্পাইওয়্যার
 security-software-firewall = ফায়ারওয়াল
-features-title = { -brand-short-name } বৈশিষ্ট্যসমূহ
-features-name = নাম
-features-version = সংস্করণ
-features-id = ID
 processes-title = দূরবর্তী প্রক্রিয়া
 processes-type = ধরণ
 processes-count = গণনা
@@ -46,7 +42,6 @@ app-basics-profile-dir =
         [linux] প্রোফাইল ডিরেক্টরি
        *[other] প্রোফাইল ফোল্ডার
     }
-app-basics-enabled-plugins = সক্রিয় প্লাগইন
 app-basics-build-config = বিল্ড কনফিগারেশন
 app-basics-user-agent = ব্যবহারকারী এজেন্ট
 app-basics-os = OS

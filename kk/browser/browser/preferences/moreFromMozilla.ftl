@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = { -vendor-short-name } ұсынған көбірек
 more-from-moz-page-header =
     .heading = { -vendor-short-name } ұсынған көбірек
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = Мобильді { -brand-product-name }
 more-from-moz-firefox-mobile-description = Сіздің жекелігіңізді бірінші орынға қоятын мобильді браузер.
 more-from-moz-firefox-mobile-title-1 = Мобильді { -brand-product-name }
 more-from-moz-firefox-mobile =
-    .label = Мобильді { -brand-product-name }
     .description = Сіздің жекелігіңізді бірінші орынға қоятын мобильді браузер.
+    .label = Мобильді { -brand-product-name }
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Анонимді шолу мен қорғаныстың қосымша қабатын өзіңіз үшін ашыңыз.
 more-from-moz-qr-code-box-firefox-mobile-title = Мобильді құрылғы арқылы жүктеп алыңыз. Камераны QR кодқа бағыттаңыз. Сілтеме пайда болған кезде оны шертіңіз.
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = { -relay-brand-short-name } алу
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Ашылған жеке ақпаратыңызды автоматты түрде қайтарыңыз.
 more-from-moz-mozilla-monitor-global-description = Деректеріңіз бұзылған кезде ескертулер алыңыз.
 more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } алу
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } ЖИ
 more-from-moz-solo-description = Өз сайтыңызды бірден жасап, жеке доменіңізді тегін қосыңыз.
 more-from-moz-solo-button = { -solo-ai-brand-name } қолданып көру
 more-from-moz-solo-title-2 = { -solo-ai-brand-name } веб-сайттарды ЖИ жасаушысы
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = Жүктеп алу сілтемесі
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = Жеке ақпаратыңыздың желіде қай жерде ашылып қалғанын тегін сканерлеу арқылы біліңіз.
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = Барлық қолданбалар үшін қосымша қорғанысқа ие болыңыз — тек браузер үшін ғана емес. Деректеріңізді ашық Wi-Fi және қауіпсіз емес желілерде қауіпсіз сақтаңыз.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = Тегін электрондық пошта маскасы арқылы кіріс жәшігіңізді спамнан қорғаңыз.
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = Тегін нұсқаулықтар мен анықтамалықтар арқылы веб-әзірлеуді үйреніңіз.
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = Бір жылдам қолданба арқылы электрондық поштаңызға, күнтізбелеріңізге және контактілеріңізге қол жеткізіңіз.
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = Веб-сайтыңызды лезде жасаңыз және жеке доменіңізді тегін қосыңыз.
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = { -vendor-short-name } жаңа өнімдері
     .description = Соңғы идеяларымыз бен тәжірибелік технологияларымызды зерттеңіз.
+    .label = { -vendor-short-name } жаңа өнімдері
 more-from-moz-mozilla-monitor-box-link =
     .label = { -monitor-brand-short-name } алу
 more-from-moz-mozilla-vpn-box-link =

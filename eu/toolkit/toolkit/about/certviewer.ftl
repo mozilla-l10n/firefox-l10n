@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = Zure ziurtagiriak
 certificate-viewer-tab-people = Norbanakoak
 certificate-viewer-tab-servers = Zerbitzariak
 certificate-viewer-tab-ca = Autoritateak
-certificate-viewer-tab-unkonwn = Ezezaguna

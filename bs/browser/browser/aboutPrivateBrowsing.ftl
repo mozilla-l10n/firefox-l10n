@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Otvori Privatni prozor
     .accesskey = r
 about-private-browsing-search-placeholder = Pretražujte web
-about-private-browsing-info-title = Nalazite se u Privatnom prozoru
 about-private-browsing-search-btn =
     .title = Pretraži web
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Pretražite pomoću { $engine } ili unesite adresu
 about-private-browsing-handoff-text-no-engine = Pretražite ili unesite adresu
 about-private-browsing-not-private = Trenutno niste u privatnom prozoru.
-about-private-browsing-info-description-private-window = Privatni prozor: { -brand-short-name } briše vašu historiju pretraživanja i pretraživanja kada zatvorite sve privatne prozore. Ovo vas ne čini anonimnim.
-about-private-browsing-info-description-simplified = { -brand-short-name } briše vašu historiju pretraživanja i pretraživanja kada zatvorite sve privatne prozore, ali to vas ne čini anonimnim.
-about-private-browsing-learn-more-link = Saznajte više
 about-private-browsing-hide-activity = Sakrijte svoju aktivnost i lokaciju, gdje god da pretražujete
 about-private-browsing-get-privacy = Dobijte zaštitu privatnosti gdje god da pretražujete
 about-private-browsing-hide-activity-1 = Sakrijte aktivnost pretraživanja i lokaciju pomoću { -mozilla-vpn-brand-name }a. Jedan klik stvara sigurnu vezu, čak i na javnoj Wi-Fi mreži.
@@ -29,8 +25,6 @@ about-private-browsing-prominent-cta = Ostanite privatni uz { -mozilla-vpn-brand
 about-private-browsing-focus-promo-cta = Preuzmite { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Privatno pretraživanje u pokretu
 about-private-browsing-focus-promo-text = Naša namjenska mobilna aplikacija za privatno pretraživanje svaki put briše vašu historiju i kolačiće.
-about-private-browsing-focus-promo-header-b = Prebacite privatno pretraživanje na svoj telefon
-about-private-browsing-focus-promo-text-b = Koristite { -focus-brand-name } za ona privatna pretraživanja koja ne želite da vaš glavni pretraživač mobilnog telefona vidi.
 about-private-browsing-focus-promo-header-c = Sljedeći nivo privatnosti na mobilnom uređaju
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } briše vašu historiju svaki put dok istovremeno blokira oglase i pratioce.
 # This string is the title for the banner for search engine selection
@@ -60,11 +54,6 @@ about-private-browsing-pin-promo-title = Nema sačuvanih kolačića ili historij
 
 ## Strings used in a promotion message for cookie banner reduction
 
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = Baneri kolačića, nestanite!
-about-private-browsing-cookie-banners-promo-button = Smanji pojavljivanje dijaloga kolačića
-about-private-browsing-cookie-banners-promo-message = Neka { -brand-short-name } automatski odgovara na iskačuće prozore kolačića umjesto vas kako biste se mogli vratiti na pretraživanje bez ometanja. { -brand-short-name } će odbiti sve zahtjeve ako je moguće.
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } brine o banerima kolačića za vas

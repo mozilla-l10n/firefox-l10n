@@ -50,7 +50,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     Барои гирифтани машварати муфассал дар бораи роҳҳои гуногун ҷиҳати сабт ё пайдо кардани маълумот, лутфан, ба варақаи
     <strong>«Дар бораи маълумот»</strong> муроҷиат намоед.
-about-glean-about-testing-header = Дар бораи «Санҷиш»
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     Дастурҳои пурра дар ҳуҷҷатҳои
@@ -58,8 +57,6 @@ about-glean-manual-testing =
     ва дар ҳуҷҷатҳои <a data-l10n-name="glean-sdk-doc-link">оид ба «{ glean-sdk-brand-name }»</a> таҳия карда шудаанд, аммо дар шакли мухтасар, агар шумо хоҳед, ки кори абзорҳоро ба таври дастӣ санҷед, шумо бояд:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ягон пинг фиристода нашавад)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Мутмаин шавед, ки дар майдони қаблӣ барчаспи хотиравии ислоҳи хатоҳо танзим шудааст, то шумо тавонед дар оянда пингҳои худро муайян кунед.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Барчаспи хотиравиро барои ислоҳи хато танзим кунед <span>(20 аломат ё камтар, танҳо дар асоси алифбо, рақамҳо ва тире - )</span>, то тавонед пингҳои худро дертар муайян намоед.
 # An in-line drop down list precedes this string.
@@ -82,8 +79,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Барои дидани пингҳо бо барчаспи худ, ба саҳифаи «{ glean-debug-ping-viewer-brand-name }» гузаред</a>.
     Ин амал аз лаҳзаи пахши тугма то лаҳзаи қабули пинги шумо бояд на зиёда аз якчанд сония вақт гирад.
     Дар баъзе мавридҳо, ин амал метавонад якчанд дақиқа вақт гирад.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation = Барои гузаронидани санҷишҳои иловагии <i>ad hoc</i>, шумо, инчунин, метавонед ба воситаи кушоиши консоли «devtools» дар саҳифаи <code>about:glean</code> ва истифодаи рамзи <code>testGetValue()</code> API монанди <code>Glean.metricCategory.metricName.testGetValue()</code>, қимати ҷории қисми махсуси абзорҳоро муайян кунед.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 = Барои гузаронидани санҷишҳои иловагии <i>ad hoc</i>, шумо, инчунин, метавонед ба воситаи кушоиши консоли «devtools» дар саҳифаи <code>about:glean</code> ва истифодаи рамзи <code>testGetValue()</code> API монанди <code>Glean.metricCategory.metricName.testGetValue()</code> барои меъёр бо номи <code>metric.category.metric_name</code>, қимати ҷории қисми махсуси абзорҳоро муайян кунед.
 # Do not translate strings between <code> </code> tags.
@@ -177,7 +172,6 @@ about-glean-no-data-to-display = Ягон маълумот барои намои
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Нишондиҳандаҳои <code>DualLabeledCounter</code> ҳоло дар намуди <code>about:glean</code> дастгирӣ карда намешаванд.
 about-glean-unknown-metric-type-warning = Навъи нишондиҳандаҳои номаълум.
-about-glean-about-data-explanation = Барои дидани маълумоти ҷамъшуда, лутфан, ба <a data-l10n-name="glean-dictionary-link">Луғати «{ -glean-brand-name }»</a> муроҷиат кунед.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

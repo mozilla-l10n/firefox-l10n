@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = Miej przeglądarkę { -brand-short-name } z
 default-browser-prompt-message-pin-msix = Miej przeglądarkę { -brand-short-name } zawsze pod ręką — ustaw ją jako domyślną oraz przypnij do paska zadań i menu Start.
 default-browser-prompt-message-pin-mac = Miej przeglądarkę { -brand-short-name } zawsze pod ręką — ustaw ją jako domyślną i zatrzymaj ją w Docku.
 default-browser-prompt-button-primary-set = Ustaw jako główną przeglądarkę
-default-browser-prompt-button-primary-pin = Ustaw jako główną przeglądarkę
 default-browser-prompt-title-alt = Ustawić przeglądarkę { -brand-short-name } jako domyślną?
 default-browser-prompt-message-alt = Zawsze szybko, bezpiecznie i prywatnie przeglądaj Internet.
 default-browser-prompt-button-primary-alt = Ustaw jako domyślną przeglądarkę

@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>העדכון בהורדה — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = העדכון בהורדה — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = העדכון בהורדה — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = מחיל עדכון…
 update-failed = העדכון נכשל. <label data-l10n-name="failed-link">הורדת הגרסה האחרונה</label>
 update-failed-main = העדכון נכשל. <a data-l10n-name="failed-link-main">הורדת הגרסה האחרונה</a>
-update-adminDisabled = עדכונים נוטרלו על־ידי מנהל המערכת שלך
 update-policy-disabled = העדכונים הושבתו על־ידי הארגון שלך
 settings-update-policy-disabled =
     .label = העדכונים הושבתו על־ידי הארגון שלך
@@ -72,8 +70,6 @@ helpus-referrals2 = מעוניינים לסייע? <label data-l10n-name="helpus
 bottomLinks-license = מידע רישוי
 bottom-links-terms = תנאי שימוש
 bottom-links-privacy = הצהרת פרטיות
-bottomLinks-rights = זכויות משתמש קצה
-bottomLinks-privacy = מדיניות פרטיות
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

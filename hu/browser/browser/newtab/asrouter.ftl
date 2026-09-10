@@ -62,7 +62,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Szinkronizálja a könyvjelzőit mindenhol.
-cfr-doorhanger-bookmark-fxa-body = Nagyszerű találat! Ne maradjon könyvjelzők nélkül a mobileszközein sem. Kezdjen egy { -fxaccount-brand-name }kal.
 cfr-doorhanger-bookmark-fxa-body-2 = Nagyszerű találat! Ne maradjon könyvjelzők nélkül a mobileszközein sem. Kezdjen egy fiókkal.
 cfr-doorhanger-bookmark-fxa-link-text = Könyvjelzők szinkronizálása most…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -75,12 +74,6 @@ fxa-adoption-credit-cards-backup-subtitle = Védje meg a fizetési módjait azá
 fxa-adoption-bookmarks-treatment-backup-title = Készítsen biztonsági mentést a könyvjelzőiről
 fxa-adoption-bookmarks-treatment-backup-subtitle = Védje meg a könyvjelzőit azáltal, hogy titkosítva szinkronizálja azokat az eszközeire.
 fxa-adoption-primary-button-label = Regisztráció
-
-## Protections panel
-
-cfr-protections-panel-header = Böngésszen anélkül, hogy követnék
-cfr-protections-panel-body = Tartsa meg az adatait. A { -brand-short-name } megvédi a leggyakoribb nyomkövetőktől, amelyek követik az online tevékenységét.
-cfr-protections-panel-link-text = További tudnivalók
 
 ## What's New toolbar button and panel
 
@@ -176,42 +169,8 @@ mr2022-background-update-toast-primary-button-label = A { -brand-shorter-name } 
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Figyelmeztetés később
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Próbálja ki
-    .accesskey = P
-firefoxview-cfr-secondarybutton = Most nem
-    .accesskey = n
-firefoxview-cfr-header-v2 = Folytassa gyorsan ott, ahol abbahagyta
-firefoxview-cfr-body-v2 = Szerezze vissza a nemrég bezárt lapokat, és zökkenőmentesen váltson az eszközök között a { -firefoxview-brand-name } segítségével.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Köszöntse a { -firefoxview-brand-name }t
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Szeretné ezt a nyitott lapot a telefonján? Vegye át. Szüksége van arra az oldalra, amelyet most látogatott meg? Puff, vissza is jött a { -firefoxview-brand-name }sel.
-firefoxview-spotlight-promo-primarybutton = Nézze meg a működését
-firefoxview-spotlight-promo-secondarybutton = Kihagyás
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Válasszon színvilágot
-    .accesskey = V
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Színezze böngészőjét a { -brand-short-name } exkluzív árnyalataival, amelyeket a kultúrát megváltoztató hangok ihlettek.
-colorways-cfr-header-28days = A „Független hangok” színvilágok január 16-án járnak le
-colorways-cfr-header-14days = A „Független hangok” színvilágok két hét múlva járnak le
-colorways-cfr-header-7days = A „Független hangok” színvilágok a héten járnak le
-colorways-cfr-header-today = A „Független hangok” színvilágok ma járnak le
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Engedélyezi a { -brand-short-name } számára a sütibannerek elutasítását?
-cfr-cbh-body = A { -brand-short-name } automatikusan elutasíthat számos sütibanneres kérést.
-cfr-cbh-confirm-button = Sütibannerek elutasítása
-    .accesskey = u
-cfr-cbh-dismiss-button = Most nem
-    .accesskey = n
 cookie-banner-blocker-onboarding-header = A { -brand-short-name } épp most utasított el egy sütibannert Önnek
 cookie-banner-blocker-onboarding-body = Kevesebb zavaró tényező, kevesebb süti, amely követné ezen az oldalon.
 cookie-banner-blocker-onboarding-learn-more = További tudnivalók

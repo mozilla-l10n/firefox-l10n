@@ -2,111 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } സ്വകാര്യ തിരച്ചിൽ
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } സ്വകാര്യ തിരച്ചിൽ
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — സ്വകാര്യ തിരച്ചിൽ
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — സ്വകാര്യ തിരച്ചിൽ
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } സ്വകാര്യ തിരച്ചിൽ
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } സ്വകാര്യ തിരച്ചിൽ
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } സ്വകാര്യ തിരച്ചിൽ
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } സ്വകാര്യ തിരച്ചിൽ
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } സ്വകാര്യ തിരച്ചിൽ
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } — സ്വകാര്യ തിരച്ചിൽ
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — സ്വകാര്യ തിരച്ചിൽ
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — സ്വകാര്യ തിരച്ചിൽ
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } സ്വകാര്യ തിരച്ചിൽ
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -153,8 +51,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = ഓഫ്ലൈൻ സംഭരണ സന്ദേശഫലകം തുറക്കുക
 urlbar-password-notification-anchor =
     .tooltiptext = ഒളിവാക്കു് സംരക്ഷണത്തിനുള്ള സന്ദേശഫലകം തുറക്കുക
-urlbar-plugins-notification-anchor =
-    .tooltiptext = പ്ളഗ് ഇൻ ഉപയോഗം കൈകാര്യം ചെയ്യുക
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = താങ്കളുടെ ക്യാമറ അല്ലെങ്കില്‍ മൈക്രോഫോണ്‍ അല്ലെങ്കില്‍ അവ രണ്ടും സൈറ്റുമായി പങ്കിടുന്നത് ക്രമീകരിക്കുക
 urlbar-autoplay-notification-anchor =
@@ -163,15 +59,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = ദത്ത ഉറച്ചനില സംഭരണത്തിൽ സംഭരിക്കുക
 urlbar-addons-notification-anchor =
     .tooltiptext = ആഡ് ഓൺ സ്ഥാപിക്കൽ ഫലകം തുറക്കുക
-urlbar-tip-help-icon =
-    .title = പിന്തുണ തേടുക
 urlbar-search-tips-confirm = ശരി, മനസ്സിലായി
 urlbar-search-tips-confirm-short = മനസ്സിലായി
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = നുറുങ്ങ്:
 urlbar-result-menu-button =
     .title = കുറിപ്പടികട്ട തുറക്കുക
 urlbar-result-menu-button-feedback = പ്രതികരണം
@@ -206,9 +95,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = ഈ നിൎദ്ദേശം കളഞ്ഞേക്കുക
     .accesskey = ക
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = { -firefox-suggest-brand-name }-നെ പറ്റി കൂടുതലറിയുക
-    .accesskey = അ
 urlbar-result-menu-manage-firefox-suggest =
     .label = { -firefox-suggest-brand-name } കൈകാര്യം ചെയ്യുക
     .accesskey = ക
@@ -237,8 +123,6 @@ urlbar-dismissal-acknowledgment-weather = താങ്ങളുടെ പ്ര�
 
 urlbar-search-tips-onboard = കുറച്ചു എഴുതുകയും കൂടുതൽ കണ്ടെത്തുകയും: വിലാസപ്പട്ടയിൽ നിന്നു് നേരിട്ടു് { $engineName }-കൂടെ തിരയുക.
 urlbar-search-tips-redirect-2 = { $engineName }-ൽ അല്ലെങ്കിൽ നാൾവഴിയിൽ താങ്ങളുടെ തിരയൽ വിലാസപ്പട്ടയിൽ നിന്നു് തുടങ്ങുക
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = ഇപ്പോൾ തിരച്ചിൽ ഇനിയും എളുപ്പമായിയിരിക്കുന്നു. വിലാസപ്പട്ടയിൽ താങ്ങളുടെ തിരയൽ കൂടുതൽ നിൎദ്ദിഷ്ടമാക്കാൻ ശ്രമിക്കുക. പകരം യൂ.ർ.ൽ കാണിക്കാൻ ക്രമീകരണങ്ങളിൽ തിരച്ചിൽ വിഭാഗത്തിലോട്ടു് ചെല്ലുക.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = താങ്ങൾക്കു് ആവശ്യമുള്ളതു് പെട്ടന്നു് കണ്ടെത്താൻ ഈ കുറുക്കുവഴി തിരഞ്ഞെടുക്കുക.
@@ -266,8 +150,6 @@ urlbar-screen-blocked =
     .tooltiptext = ഈ വെബ് സൈറ്റിന് നിങ്ങളുടെ സ്ക്രീൻ പങ്കിടുവാൻ സാധ്യമല്ല.
 urlbar-persistent-storage-blocked =
     .tooltiptext = നിങ്ങൾ ഈ വെബ് സൈറ്റ്ലെ സ്ഥിര ഡാറ്റ സൂക്ഷിപ്പ്  തടഞ്ഞിരിക്കുകയാണ്
-urlbar-popup-blocked =
-    .tooltiptext = നിങ്ങള്‍ ഈ വെബ്സൈറ്റിന്റെ പോപ്പ് അപ്പുകള്‍ നിരോധിച്ചിരിക്കുന്നു.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -358,22 +240,16 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = ആഡ്-ഓണുകള്‍ കാണാം
-quickactions-cmd-addons2 = ആഡ് ഓൺ
 # Opens the bookmarks library window
 quickactions-bookmarks2 = അടയാളക്കുറിപ്പുകളെ കൈകാര്യം ചെയ്യുക
 quickactions-cmd-bookmarks = അടയാളക്കുറിപ്പുകള്‍
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = ഏറ്റവും ഒടുവിലുള്ള നാള്‍വഴി വെടിപ്പാക്കുക
-quickactions-cmd-clearrecenthistory = ഏറ്റവും ഒടുവിലത്തെ നാൾവഴി വെടിപ്പാക്കുക, നാൾവഴി
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = നാള്‍വഴി മായ്ക്കൂ
-quickactions-cmd-clearhistory = നാള്‍വഴി മായ്ക്കൂ
 # Opens about:downloads page
 quickactions-downloads2 = ഇറക്കിവയ്ക്കലുകൾ കാണുക
 quickactions-cmd-downloads = ഇറക്കിവയ്ക്കലുകൾ
 # Opens about:addons page in the extensions section
 quickactions-extensions = വിപുലീകരണങ്ങൾ കൈകാര്യം ചെയ്യുക
-quickactions-cmd-extensions = വിപുലീകരണങ്ങൾ
 # Opens Firefox View
 quickactions-firefoxview = { -firefoxview-brand-name } തുറക്കുക
 # Opens SUMO home page
@@ -410,26 +286,22 @@ quickactions-cmd-screenshot2 = പ്രതലപ്പിളൎപ്പു്,
 # Opens about:translations
 quickactions-translate = മൊഴിമാറ്റുക
 quickactions-cmd-translate = മൊഴിമാറ്റുക
-quickactions-cmd-screenshot = പ്രതലപ്പിളർപ്പു്
 # Opens about:preferences
 quickactions-settings2 = ക്രമീകരണങ്ങളെ നിയന്ത്രിക്കുക
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = ക്രമീകരണങ്ങളും മുൻഗണനകളും സാധ്യതകളും ക്രമീകരിക്കുക
-quickactions-cmd-settings = ക്രമീകരണങ്ങളും മുൻഗണനകളും സാധ്യതകളും
 # Opens about:addons page in the themes section
 quickactions-themes = അലങ്കാരങ്ങളെ കൈകാര്യം ചെയ്യുക
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-themes2 = അലങ്കാരങ്ങൾ, ആഡ് ഓൺ, ആഡോണുകൾ
-quickactions-cmd-themes = അലങ്കാരങ്ങൾ
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } പുതുക്കുക
 quickactions-cmd-update = പുതുക്കുക
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = താളിന്റെ ഉറവിടം കാണുക
 quickactions-cmd-viewsource2 = ഉറവിടം കാണുക, ഉറവിടം, താളുറവിടം
-quickactions-cmd-viewsource = ഉറവിടം കാണുക, ഉറവിടം
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = ഉടൻ നടപടികളെക്കുറിച്ചു് കൂടുതലറിയുക
@@ -486,8 +358,6 @@ identity-active-blocked = ഈ താളിന്റെ ചില ഭാഗങ്
 identity-passive-loaded = ഈ താളിന്റെ ചില ഭാഗങ്ങള്‍ സുരക്ഷിതമല്ല (ചിത്രങ്ങള്‍ പോലുള്ളവ).
 identity-active-loaded = താങ്കള്‍ ഈ താളില്‍ സംരക്ഷണം നിര്‍വീര്യമാക്കിയിരിക്കുന്നു.
 identity-weak-encryption = ഈ താള്‍ ദുര്‍ബലമായ എന്‍ക്രിപ്ഷന്‍ ഉപയോഗിക്കുന്നു.
-identity-insecure-login-forms = ഈ പേജില്‍ എന്റര്‍ചെയ്യുന്ന ലോഗിനുകള്‍ വീഴ്ചകള്‍ക്കുവിധേയമായേക്കാം.
-identity-https-only-label = HTTPS-മാത്രം രീതി
 identity-https-only-dropdown-on =
     .label = തുടങ്ങിയതു്
 identity-https-only-dropdown-off =
@@ -506,7 +376,6 @@ identity-remove-cert-exception =
     .label = എക്സപ്ഷൻ നീക്കം ചെയ്യുക
     .accesskey = R
 identity-description-insecure = ഈ സൈറ്റുമായുള്ള താങ്കളുടെ ബന്ധം സ്വകാര്യമല്ല. താങ്കള്‍ സമര്‍പ്പിക്കുന്ന വിവരങ്ങള്‍ (ഒളിവാക്ക്, സന്ദേശങ്ങള്‍, ക്രെഡിറ്റ് കാര്‍ഡുകള്‍ മുതലായവ) മറ്റുള്ളവര്‍ക്ക് കാണാന്‍ സാധിക്കും.
-identity-description-insecure-login-forms = നിങ്ങള്‍ ഈ താളില്‍ നല്‍കിയിരിയ്ക്കുന്ന പ്രവേശന വിവരങ്ങള്‍ സുരക്ഷിതമല്ലാത്തതിനാല്‍ പ്രശ്നത്തിലാവാൻ സാധ്യതയുണ്ട്.
 identity-description-weak-cipher-intro = ഈ വെബ്സൈറ്റുമായി താങ്കള്‍ക്കുള്ള ബന്ധം ദുര്‍ബലമായ എന്‍ക്രിപ്ഷന്‍ ഉപയോഗിക്കുന്നതിനാല്‍ സ്വകാര്യമല്ല
 identity-description-weak-cipher-risk = മറ്റുള്ളവര്‍ക്കു് നിങ്ങളുടെ വിവരങ്ങള്‍ കാണുവോനോ ഈ വെബ്സൈറ്റിന്റെ പ്രവര്‍ത്തനത്തില്‍ മാറ്റം വരുത്താനോ സാധിക്കും.
 identity-description-active-blocked2 = ഈ താളിലെ ചില ഭാഗങ്ങള്‍ സുരക്ഷിതമല്ലാത്തതിനാല്‍ { -brand-short-name } അത് തടഞ്ഞിട്ടുണ്ട്.
@@ -515,12 +384,6 @@ identity-description-passive-loaded-insecure2 = ഈ വെബ്സൈറ്റ�
 identity-description-passive-loaded-mixed2 = സുരക്ഷിതമല്ലാത്ത ഉള്ളടക്കങ്ങള്‍ ചിലതൊക്കെ { -brand-short-name } തടഞ്ഞിട്ടുണ്ടെങ്കിലും, മറ്റു് ചിലതു് (ചിത്രങ്ങള്‍ പോലുള്ളതു്) ഇപ്പോഴും ഈ താളില്‍ ഉണ്ട്
 identity-description-active-loaded = ഈ വെബ്സൈറ്റില്‍ സുരക്ഷിതമല്ലാത്ത ഉള്ളടക്കമുണ്ട് ( സ്ക്രിപ്റ്റുകള്‍ മുതലായവ). കൂടാതെ ഇതിലേക്കുള്ള താങ്കളുടെ ബന്ധം സ്വകാര്യവുമല്ല.
 identity-description-active-loaded-insecure = ഈ വെബ്‌ സൈറ്റുമായി താങ്കള്‍ പങ്കിടുന്ന വിവരങ്ങള്‍ (ഒളിവാക്കുകള്‍, സന്ദേശങ്ങള്‍, ക്രെഡിറ്റ് ചീട്ടുകൾ മുതലായവ) മറ്റുള്ളവര്‍ക്ക് കാണാന്‍ സാധിച്ചേക്കാം.
-identity-disable-mixed-content-blocking =
-    .label = ഇപ്പോഴത്തേക്ക് സുരക്ഷ പ്രവര്‍ത്തന രഹിതമാക്കുക
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = സംരക്ഷണം സജ്ജമാക്കുക
-    .accesskey = E
 identity-more-info-link-text =
     .label = കൂടുതല്‍ വിവരങ്ങള്‍
 
@@ -535,28 +398,6 @@ browser-window-close-button =
 # Clicking this button closes the window and returns to the tab where it was opened from
 browser-window-return-to-opener =
     .tooltiptext = തിരിയ്ക്കുക
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = പ്ലേ ചെയ്യുന്നു
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = മൂക്കമായിവച്ചിരിക്കുന്നു
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = താനെപ്ലേ തടഞ്ഞിരിക്കുന്നു
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = ചിത്രത്തിൽ ചിത്രം
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] ടാബു് മൂക്കമാക്കുക
-        [one] { $count } ടാബുകളെ മൂക്കമാക്കുക
-       *[other] { $count } ടാബുകളെ മൂക്കമാക്കുക
-    }
 
 ## Bookmarks toolbar items
 
@@ -648,8 +489,6 @@ urlbar-extension =
     .value = ‌‌എക്സ്ടെൻഷൻ:
 urlbar-go-button2 =
     .title = വിലാസപ്പട്ടയിലുള്ള വിലാസത്തിലേക്കു ചെല്ലുക
-urlbar-go-button =
-    .tooltiptext = വിലാസപ്പട്ടയിലുള്ള വിലാസത്തിലേക്കു ചെല്ലുക
 urlbar-page-action-button =
     .tooltiptext = താൾ നടപടികൾ
 urlbar-revert-button =
@@ -706,30 +545,8 @@ urlbar-result-action-tabtosearch-web = { $engine } നേരിട്ടു് �
 urlbar-result-action-tabtosearch-other-engine = { $engine } നേരിട്ടു് ഉപയോഗിച്ചു് വിലാസപ്പട്ടയിൽ നിന്നു് തിരയുക
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = പകര്‍ത്തുക
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The sub title of a Yelp suggestion in the urlbar.
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
-# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
-# The last = sign will be shown as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
-# Shows the result of a formula expression being calculated, to a maximum of 9 significant
-# digits. This is used for numbers < 1.
-# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 # Shows the name of the provider of weather data in a weather suggestion in the
 # urlbar.
 # Variables:
@@ -843,32 +660,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - { $localSearchMode
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - { $engine } കൂടെ പരതുക
-urlbar-searchmode-dropmarker =
-    .tooltiptext = തിരയൽയന്ത്രം തിരഞ്ഞെടുക്കുക
-urlbar-searchmode-bookmarks =
-    .label = അടയാളക്കുറിപ്പുകള്‍
-urlbar-searchmode-tabs =
-    .label = ടാബുകള്‍
-urlbar-searchmode-history =
-    .label = നാള്‍വഴി
-urlbar-searchmode-actions =
-    .label = നടപടികൾ
-urlbar-searchmode-exit-button =
-    .tooltiptext = അടയ്ക്കുക
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = ഈ വട്ടം, ഇതുപയോഗിച്ച് തിരയുക:
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = തിരച്ചിൽ ക്രമീകരണങ്ങൾ
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button2 =
-    .label = { $engine }, തിരയൽയന്ത്രം തിരഞ്ഞെടുക്കുക
-    .tooltiptext = { $engine }, തിരയൽയന്ത്രം തിരഞ്ഞെടുക്കുക
-urlbar-searchmode-button-no-engine =
-    .label = കുറുക്കുവഴിയൊന്നും തിരഞ്ഞെടുത്തിട്ടില്ല, ഒരു കുറുക്കുവഴിയെ തിരഞ്ഞെടുക്കുക
-    .tooltiptext = കുറുക്കുവഴിയൊന്നും തിരഞ്ഞെടുത്തിട്ടില്ല, ഒരു കുറുക്കുവഴിയെ തിരഞ്ഞെടുക്കുക
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -929,12 +720,6 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = { $engine }-ൽ ട്രെൻഡിംഗ്
-# Label shown above sponsored suggestions in the urlbar results.
-urlbar-group-sponsored =
-    .label = പണമടച്ചു് പ്രചരിപ്പിച്ചതു്
-urlbar-result-menu-trending-why =
-    .label = എന്തുകൊണ്ട് ഞാനിത് കാണുന്നു
-    .accesskey = എ
 
 ## Reader View toolbar buttons
 
@@ -1007,12 +792,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] അടയാളക്കുറിപ്പുക്കരുപ്പട്ടയെ ഒളിപ്പിക്കുക
            *[other] അടയാളക്കുറിപ്പുക്കരുപ്പട്ടയെ കാണിക്കുക
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] ടൂൾബാറിൽ നിന്ന് ബൂക്കമാർക്ക് മെനു നീക്കം ചെയ്യുക
-           *[other] ബൂക്കമാർക്ക് മെനു ടൂൾ ബാർലേക്ക് ചേർക്കുക
-        }
 
 ##
 
@@ -1043,14 +822,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = അടയാളക്കുറിപ്പുകൾ
-library-recent-activity-title =
-    .value = ഒടുവിലുള്ള പ്രവർത്തനം
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = { -pocket-brand-name }-ലേക്കു് കരുതിവയ്ക്കുക
-    .tooltiptext = { -pocket-brand-name }-ലേക്കു് കരുതിവയ്ക്കുക
 
 ## Repair text encoding toolbar button
 
@@ -1120,8 +891,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = ക
 
 ## Password save/update panel
 
-panel-save-update-username = ഉപയോക്തൃപ്പേരു്
-panel-save-update-password = ഒളിവാക്കു്
 panel-save-update-username-2 =
     .label = ഉപയോക്തൃപ്പേരു്
 panel-save-update-password-2 =
@@ -1132,30 +901,8 @@ panel-save-update-password-2 =
 # "More" item in macOS share menu
 menu-share-more =
     .label = കൂടുതൽ…
-menu-share-copy-link =
-    .label = കണ്ണി പകൎത്തുക
-    .accesskey = ക
 ui-tour-info-panel-close =
     .tooltiptext = അടയ്ക്കുക
-
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = { $uriHost } ന്‌ പോപ്പപ്പുകള്‍ അനുവദിക്കുക
-    .accesskey = p
-popups-infobar-block =
-    .label = { $uriHost } ന്‌ പോപ്പപ്പുകള്‍ തടയുക
-    .accesskey = p
-
-##
-
-popups-infobar-dont-show-message =
-    .label = പൊന്തുവരികൾ തടയുമ്പോള്‍ ഇനി ഈ സന്ദേശം കാണിക്കരുതു്
-    .accesskey = D
-edit-popup-settings =
-    .label = പൊന്തുവരൽ ക്രമീകരണങ്ങൾ നിയന്ത്രിക്കുക...
-    .accesskey = ക
 
 ##
 
@@ -1168,8 +915,6 @@ navbar-downloads =
     .label = ഇറക്കിവയ്ക്കലുകൾ
 navbar-overflow-2 =
     .tooltiptext = കൂടുതൽ കരുകൾ
-navbar-overflow =
-    .tooltiptext = കൂടുതല്‍ പ്രയോഗങ്ങള്‍...
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1246,16 +991,12 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
-reset-pbm-panel-description = എല്ലാ സ്വകാര്യ ടാബുകളും അടച്ചിട്ടു് നാൾവഴിയും കുക്കികളും മറ്റു് എല്ലാ വെബിടദത്തയും മായ്ക്കുക.
 reset-pbm-panel-always-ask-checkbox =
     .label = എപ്പോഴും ചോദിക്കുക
     .accesskey = എ
 reset-pbm-panel-cancel-button =
     .label = റദ്ദാക്കുക
     .accesskey = റ
-reset-pbm-panel-confirm-button =
-    .label = ഘട്ടം ദത്ത മായ്ക്കുക
-    .accesskey = മ
 reset-pbm-panel-complete = സ്വകാര്യ ഘട്ടത്തിന്റെ ദത്ത മായച്ചു
 
 ## Autorefresh blocker

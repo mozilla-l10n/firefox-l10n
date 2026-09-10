@@ -34,23 +34,6 @@ webrtc-stop-sharing-button = പങ്കിടൽ നിൎത്തുക
 webrtc-screen-system-menu =
     .label = താങ്ങൾ ഒരു ജാലകം അല്ലെങ്കിൽ പ്രതലം പങ്കിടുന്നു. പങ്കിടൽ അടക്കാൻ അമൎത്തുക
 
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = താങ്ങളുടെ ക്യാമറയും മൈക്രോഫോണും പങ്കിടുന്നു. ഇതു് നിയന്ത്രിയ്ക്കുന്നതിനു് അമൎത്തുക
-webrtc-indicator-sharing-camera =
-    .tooltiptext = ക്യാമറ പങ്കിടുന്നു. ഇതു് നിയന്ത്രിയ്ക്കുന്നതിനു് അമൎത്തുക.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = മൈക്രോഫോണ്‍ പങ്കിടുന്നു. ഇതു് നിയന്ത്രിയ്ക്കുന്നതിനു് അമൎത്തുക
-webrtc-indicator-sharing-application =
-    .tooltiptext = പ്രയോഗം പങ്കിടുന്നു. ഇതു് നിയന്ത്രിയ്ക്കുന്നതിനു് അമൎത്തുക
-webrtc-indicator-sharing-screen =
-    .tooltiptext = സ്ക്രീന്‍ പങ്കിടുന്നു. ഇതു് നിയന്ത്രിയ്ക്കുന്നതിനു് അമൎത്തുക
-webrtc-indicator-sharing-window =
-    .tooltiptext = ജാലകം പങ്കിടുന്നു. ഇതു് നിയന്ത്രിയ്ക്കുന്നതിന് ക്ലിക്ക് ചെയ്യുക.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = ടാബ് പങ്കിടുന്നു. ഇതു് നിയന്ത്രിയ്ക്കുന്നതിന് ക്ലിക്ക് ചെയ്യുക.
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
@@ -114,7 +97,6 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
-webrtc-share-screen-learn-more = കൂടുതല്‍ അറിയുക
 webrtc-pick-window-or-screen = ജാലകം അല്ലെങ്കിൽ പ്രതലം തിരഞ്ഞെടുക്കുക
 webrtc-share-entire-screen = മൊത്ത പ്രതലം
 # Variables:

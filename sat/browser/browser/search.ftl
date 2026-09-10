@@ -30,14 +30,13 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>ᱟᱢᱟᱜ ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱫᱚ ᱵᱚᱫᱚᱞ ᱮᱱᱟ ᱾</strong> { $oldEngine } ᱫᱚ { -brand-short-name } ᱨᱮ ᱟᱨ ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱞᱮᱠᱷᱟ ᱵᱟᱹᱱᱩᱜᱼᱟ ᱾ { $newEngine } ᱫᱚ ᱱᱤᱛᱚᱜ ᱟᱢᱟᱜ ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱠᱟᱱᱟ ᱾ ᱮᱴᱟᱜ ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱛᱮ ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ, ᱥᱟᱡᱟᱣ ᱛᱮ ᱪᱟᱞᱟᱜ ᱢᱮ ᱾ <label data-l10n-name="remove-search-engine-article">ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</label>
 removed-search-engine-message2 = <strong>ᱟᱢᱟᱜ ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱫᱚ ᱵᱚᱫᱚᱞ ᱮᱱᱟ ᱾</strong> { $oldEngine } ᱫᱚ { -brand-short-name } ᱨᱮ ᱟᱨ ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱞᱮᱠᱷᱟ ᱵᱟᱹᱱᱩᱜᱼᱟ ᱾ { $newEngine } ᱫᱚ ᱱᱤᱛᱚᱜ ᱟᱢᱟᱜ ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱠᱟᱱᱟ ᱾ ᱮᱴᱟᱜ ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱛᱮ ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ, ᱥᱟᱡᱟᱣ ᱛᱮ ᱪᱟᱞᱟᱜ ᱢᱮ ᱾
 remove-search-engine-button = ᱴᱷᱤᱠ
 
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱥᱮᱞᱮᱫ ᱢᱮ
     .style = min-width: 32em;
+    .title = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱥᱮᱞᱮᱫ ᱢᱮ
 add-engine-button = ᱱᱤᱡᱚᱨᱟᱜ ᱤᱧᱡᱤᱱ ᱥᱮᱞᱮᱫ ᱢᱮ
 add-engine-name = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱧᱩᱛᱩᱢ

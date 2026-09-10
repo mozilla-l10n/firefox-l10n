@@ -27,17 +27,13 @@ neterror-return-to-previous-page-button = Ir atrás
 neterror-return-to-previous-page-recommended-button = Retroceder (recomendado)
 neterror-try-again-button-2 = Volver a intentarlo
     .accesskey = V
-neterror-try-again-button = Reintentar
 neterror-add-exception-button = Continuar siempre para este sitio
 neterror-settings-button = Cambiar la configuración de DNS
 neterror-view-certificate-link = Ver certificado
-neterror-trr-continue-this-time = Continuar esta vez
-neterror-disable-native-feedback-warning = Continuar siempre
 
 ##
 
 neterror-pref-reset = Parece que su configuración de seguridad de red podría estar causando esto. ¿Quiere restaurar la configuración predeterminada?
-neterror-error-reporting-automatic = Informar de errores como esto ayuda a { -vendor-short-name } a identificar y bloquear sitios maliciosos
 
 ## Specific error messages
 
@@ -70,25 +66,15 @@ neterror-dns-not-found-offline-hint-reconnect = Desconecte y reconecte el Wi-Fi.
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } no puede proteger su solicitud de la dirección de este sitio a través de nuestro sistema de resolución de DNS de confianza. Éste es el motivo:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } no puede proteger su solicitud de la dirección de este sitio a través de nuestro proveedor de DNS seguro. Éste es el motivo:
 neterror-dns-not-found-trr-third-party-warning2 = Puede continuar con su servicio de DNS predeterminado. Sin embargo, un tercero podría ser capaz de ver los sitios web que visite.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } no se ha podido conectar a { $trrDomain }
 neterror-dns-not-found-trr-only-timeout = La conexión a { $trrDomain } ha necesitado más tiempo de lo esperado.
-neterror-dns-not-found-trr-offline = No está conectado a Internet.
 neterror-dns-not-found-trr-unknown-host2 = Este sitio web no fue encontrado por { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Ha habido un problema con { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = URL no válida.
 neterror-dns-not-found-system-sleep = El sistema está en modo suspensión
 neterror-dns-not-found-trr-unknown-problem = Problema inesperado.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } no puede proteger su solicitud de la dirección de este sitio a través de nuestro sistema de resolución de DNS de confianza. Éste es el motivo:
-neterror-dns-not-found-native-fallback-heuristic = DNS sobre HTTPS ha sido desactivado en su red.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } no se ha podido conectar a { $trrDomain }
 
 ##
 
@@ -102,8 +88,6 @@ neterror-access-denied = Puede haber sido eliminado, movido o sus permisos de ar
 neterror-unknown-protocol = Podría necesitar instalar otro software para abrir esta dirección.
 neterror-redirect-loop = Este problema a veces está causado por desactivar o rechazar la recepción de cookies.
 neterror-unknown-socket-type-client-config = Esto puede deberse a un error de configuración en el cliente.
-neterror-unknown-socket-type-psm-installed = Compruebe que su sistema tiene el administrador personal de seguridad instalado.
-neterror-unknown-socket-type-server-config = Esto podría deberse a una configuración no estándar en el servidor.
 neterror-not-cached-intro = El documento requerido ya no está disponible en la caché de { -brand-short-name }.
 neterror-not-cached-sensitive = Como precaución de seguridad, { -brand-short-name } no vuelve a pedir automáticamente documentos sensibles.
 neterror-not-cached-try-again = Haga clic en Reintentar para volver a pedir el documento del sitio web.

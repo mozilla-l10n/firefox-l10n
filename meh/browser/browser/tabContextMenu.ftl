@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Sukua jíía
-    .accesskey = w
 reload-tab =
     .label = Nachu'un tuku pestaña
     .accesskey = R
@@ -62,10 +59,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Kua´a
     .accesskey = h
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-move-tabs =
     .label =
         { $tabCount ->

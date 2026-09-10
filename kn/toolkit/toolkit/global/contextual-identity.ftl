@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = ಕಂಟೈನರ್ ಲಭ್ಯವಿಲ್ಲ
-    .accesskey = N
 user-context-personal-panel-item = ವೈಯಕ್ತಿಕ
     .accesskey = P
 user-context-work-panel-item = ಕೆಲಸ

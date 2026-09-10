@@ -9,6 +9,3 @@ all-tabs-menu-new-user-context =
     .label = A jíía pestaña contenedora
 all-tabs-menu-hidden-tabs =
     .label = Pestañas yu'u
-all-tabs-menu-manage-user-context =
-    .label = Gestionar contenedores
-    .accesskey = O

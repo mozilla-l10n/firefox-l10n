@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Varsayılan arama motorunuz değiştirildi.</strong> { $oldEngine } artık varsayılan { -brand-short-name } arama motorları arasında yer almıyor. Yeni varsayılan arama motorunuzu { $newEngine } olarak ayarladık. Varsayılan arama motorunuzu ayarlardan değiştirebilirsiniz. <label data-l10n-name="remove-search-engine-article">Daha fazla bilgi alın</label>
 removed-search-engine-message2 = <strong>Varsayılan arama motorunuz değiştirildi.</strong> { $oldEngine } artık varsayılan { -brand-short-name } arama motorları arasında yer almıyor. Yeni varsayılan arama motorunuzu { $newEngine } olarak ayarladık. Varsayılan arama motorunuzu ayarlardan değiştirebilirsiniz.
 remove-search-engine-button = Tamam
 
@@ -52,11 +51,11 @@ install-search-engine-no = Ekleme
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Arama motoru ekle
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Arama motorunu düzenle
     .style = min-width: 32em;
+    .title = Arama motorunu düzenle
 add-engine-button = Özel motor ekle
 add-engine-name = Arama motoru adı
 add-engine-url2 = Aranacak terimin yerine %s gelecek şekilde URL
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Arama teriminin yerine %s eklemeyi deneyin.
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Motoru ekle
-    .buttonaccesskeyaccept = M
     .buttonlabelextra1 = Gelişmiş
+    .buttonaccesskeyaccept = M
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Motoru kaydet
-    .buttonaccesskeyaccept = M
     .buttonlabelextra1 = Gelişmiş
+    .buttonaccesskeyaccept = M

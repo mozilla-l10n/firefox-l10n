@@ -26,13 +26,6 @@ xpinstall-prompt-never-allow =
 xpinstall-prompt-install =
     .label = Mede me keto
     .accesskey = M
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = Ngat ma loyo nyonyo ni ojuko keto purugram woko.
 xpinstall-disabled = Keto purugram pud kijuko woko kombedi. Dii Ye kadong i tem doki.
 xpinstall-disabled-button =
     .label = Ye
@@ -46,9 +39,6 @@ webext-perms-update-menu-item = { $addonName } mito twero manyen
 
 ## Add-on removal warning
 
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Kwany { $name } ki ii { -brand-shorter-name }?
 addon-removal-button = Kwany
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
@@ -99,4 +89,3 @@ addon-local-install-error-not-signed = Med-ikome man pe onongo twero kete pien p
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } pe onongo twero kete pien pe rwate ki { -brand-short-name } { $appVersion }.
-addon-install-error-blocklisted = { $addonName } pe onongo twero kete pien tye ki teko ma lamal me kelo ayela i cung matek onyo ber bedo.

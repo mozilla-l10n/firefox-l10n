@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Mesin pencari baku Anda telah diubah.</strong> { $oldEngine } tidak lagi tersedia sebagai mesin pencari baku di { -brand-short-name }. Kini, { $newEngine } menjadi mesin pencari baku Anda. Untuk mengubah ke mesin pencari baku lainnya, buka pengaturan. <label data-l10n-name="remove-search-engine-article">Pelajari lebih lanjut</label>
 removed-search-engine-message2 = <strong>Mesin pencari baku Anda telah diubah.</strong> { $oldEngine } tidak lagi tersedia sebagai mesin pencari baku di { -brand-short-name }. Kini, { $newEngine } menjadi mesin pencari baku Anda. Untuk mengubah ke mesin pencari baku lainnya, buka pengaturan.
 remove-search-engine-button = Oke
 
@@ -52,11 +51,11 @@ install-search-engine-no = Tidak
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Tambah Mesin Pencari
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Sunting Mesin Pencari
     .style = min-width: 32em;
+    .title = Sunting Mesin Pencari
 add-engine-button = Tambahkan Mesin Khusus
 add-engine-name = Nama mesin pencari
 add-engine-url2 = URL dengan %s sebagai pengganti istilah pencarian
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Coba sertakan %s sebagai pengganti istilah 
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Tambahkan Mesin
-    .buttonaccesskeyaccept = A
     .buttonlabelextra1 = Tingkat Lanjut
+    .buttonaccesskeyaccept = A
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Simpan Mesin
-    .buttonaccesskeyaccept = S
     .buttonlabelextra1 = Tingkat Lanjut
+    .buttonaccesskeyaccept = S

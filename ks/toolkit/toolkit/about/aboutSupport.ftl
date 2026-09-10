@@ -24,7 +24,6 @@ app-basics-profile-dir =
         [linux] پروفایل ڈایریكٹری
        *[other] پروفایل فولڈر
     }
-app-basics-enabled-plugins = مجازكرمت  پلگ-انس
 app-basics-build-config = كنفیوگریشن بنٲویو
 app-basics-user-agent = استیمال كرن وۄل ایجینٹ
 app-basics-memory-use = میمری ہیوند  استیمال

@@ -23,13 +23,11 @@ neterror-override-exception-button = Garayino' si ahī hua ma nī gun' ne'ñaan
 neterror-pref-reset-button = Nagi'iaj run' hua nianj
 neterror-return-to-previous-page-button = Nanikàj rukù
 neterror-return-to-previous-page-recommended-button = Nanikàj ruku' (Sa sā' huin)
-neterror-try-again-button = A'ngô ñû
 neterror-view-certificate-link = Ni'io' sertifikado
 
 ##
 
 neterror-pref-reset = Rû’ huaj sisī konfigurasiûn si seguridâ internet ‘iaj hua sa huā dànanj. Ruhuât nanìka dàj rû’ hua niñanj ‘naj da’ nahuin sà’aj aj?
-neterror-error-reporting-automatic = Ga'ninj nugua'an ga'anj riña { -vendor-short-name } da' gini'in' nej sitio hua yi'ī.
 
 ## Specific error messages
 
@@ -46,8 +44,6 @@ neterror-file-not-found-moved = Natsij ni ni'iajt si nu narè' archivo, gisikij 
 neterror-access-denied = ga'ue si ganare'ej nej si guisikïj dadin' na'ue gun ña atû'.
 neterror-unknown-protocol = Da'uît ni ga'nïnjt a'ngô programa da' nu nayi'nïj riña dirección na.
 neterror-redirect-loop = 'Iaj chì' riña aga' na si guruhuaj dadin ga'nèjt nej cookies.
-neterror-unknown-socket-type-psm-installed = Natsij ni ni'iajt sisi nikaj si aga't 'ngo sa narán riña nej nuguan'  a'min rayi'î ra.
-neterror-unknown-socket-type-server-config = Sa nagi'iaj nakàt ni se 'ngo sa aran' dugui' ngà servidor huin yi'ì dan 'iaj chíj a.
 neterror-not-cached-intro = Nitaj si nu ñaj nana'ui't riña cache { -brand-short-name }.
 neterror-not-cached-sensitive = Guenda ga yitiïnj, { -brand-short-name } ni si gachín da' nana'ui' ma'an ma ñaj hua ahi
 neterror-not-cached-try-again = Ga'ui' riña taj garahue ñu' da' gachinjt ñaj na riña sitio web.

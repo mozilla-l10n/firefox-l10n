@@ -19,7 +19,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Maʼlumotlar dekoderi ({ $pid })
 about-processes-socket-process = Tarmoq ({ $pid })
-about-processes-remote-sandbox-broker-process = Masofadagi sinov brokeri ({ $pid })
 about-processes-fork-server-process = Fork server ({ $pid })
 about-processes-preallocated-process = Oldindan belgilangan ({ $pid })
 # Unknown process names
@@ -27,13 +26,3 @@ about-processes-preallocated-process = Oldindan belgilangan ({ $pid })
 #    $pid (String) The process id of this process, assigned by the OS.
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = Boshqa: { $type } ({ $pid })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, tashqi manbalardan izolyatsiyalangan)
-about-processes-web-isolated-process-private = { $origin } — Maxfiy ({ $pid })

@@ -40,7 +40,6 @@ sidebar-history-clear =
     .label = Počisti zgodovino
 sidebar-history-sort-by-heading-menucaption =
     .label = Razvrsti po:
-sidebar-history-sort-by-heading = Razvrsti po:
 sidebar-history-sort-option-date =
     .label = datumu
 sidebar-history-sort-option-site =
@@ -60,16 +59,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Razširitve za stransko vrstico
-sidebar-customize-firefox-tools-header =
-    .label = Orodja za { -brand-product-name(sklon: "tozilnik") }
 sidebar-customize-firefox-settings = Upravljanje nastavitev { -brand-short-name(sklon: "rodilnik") }
 sidebar-vertical-tabs =
     .label = Navpični zavihki
 sidebar-settings2 =
     .label = Nastavitve
-sidebar-settings =
-    .label = Nastavitve stranske vrstice
 sidebar-hide-tabs-and-sidebar =
     .label = Skrij zavihke in stransko vrstico
 sidebar-open-tools-from-sidebar =
@@ -95,8 +89,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Upravljanje razširitve
-sidebar-context-menu-remove-extension =
-    .label = Odstrani razširitev
 sidebar-context-menu-report-extension =
     .label = Prijavi razširitev
 sidebar-context-menu-open-in-tab =

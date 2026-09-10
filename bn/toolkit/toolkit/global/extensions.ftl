@@ -10,9 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = { $extension } যোগ করবেন?
 webext-perms-sideload-header = { $extension } যোগ হয়েছে
-webext-perms-optional-perms-header = { $extension } অতিরিক্ত অনুমতির জন্য অনুরোধ করেছে।
 
 ##
 
@@ -45,21 +43,5 @@ webext-perms-host-description-all-urls = সকল ওয়েবসাইটে�
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } ডোমেইনে থাকা সাইটের জন্য আপনার তথ্য ব্যবহার করুন
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] আপনার তথ্য { $domainCount } অন্য ডোমেইনে ব্যবহার করুন
-       *[other] আপনার তথ্য { $domainCount } অন্য ডোমেইনগুলোতে ব্যবহার করুন
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } এর জন্য আপনার তথ্য ব্যবহার করুন
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] আপনার তথ্য { $domainCount } অন্য ডোমেইনে ব্যবহার করুন
-       *[other] আপনার তথ্য { $domainCount } অন্য ডোমেইনগুলোতে ব্যবহার করুন
-    }

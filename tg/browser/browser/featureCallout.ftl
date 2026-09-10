@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = Бо интихоби варақаҳо �
 callout-firefox-view-tab-pickup-subtitle = Варақаҳои кушодашударо аз телефони худ зуд ба даст оред ва онҳоро барои пешравии кор дар ин ҷо кушоед.
 callout-firefox-view-recently-closed-title = Дар як лаҳза варақаҳои пӯшидаро бозгардонед
 callout-firefox-view-recently-closed-subtitle = Ҳамаи варақаҳои шумо ҳайратангезона дар ин ҷо намоиш дода мешаванд. Ҳеҷ гоҳ хавотир нашавед, ки сомона боз ногаҳон пӯшида мешавад.
-callout-firefox-view-colorways-title = Чакраҳои рангро илова намоед
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Тобишеро интихоб намоед, ки бо шумо тавассути нақшу нигор суҳбат мекунад. Танҳо дар «{ -brand-product-name }» дастрас аст.
-callout-firefox-view-colorways-reminder-title = Нақшу нигори навтарини моро озмоед
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Браузери худро бо ин сояҳои тасвирие ранг кунед, ки аз ҷониби садоҳои мустақил эҷод карда шудаанд. Танҳо дар «{ -brand-product-name }» дастрасанд.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

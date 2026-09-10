@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Bağlantı seçimləri
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Bağlantı seçimləri
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -51,19 +51,14 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Yenilə
     .accesskey = l
-connection-proxy-autologin =
-    .label = Parol yadda saxlanıbsa, autentifikasiya istəmə
-    .accesskey = i
-    .tooltip = Bu seçim sizi etimadnamələri olan proksilərdə səssizcə təsdiqləyir. Əgər təsdiqləmədə xəta olsa sizə xəbər ediləcək.
 connection-proxy-autologin-checkbox =
     .label = Parol yadda saxlanıbsa, autentifikasiya istəmə
-    .accesskey = i
     .tooltiptext = Bu seçim sizi etimadnamələri olan proksilərdə səssizcə təsdiqləyir. Əgər təsdiqləmədə xəta olsa sizə xəbər ediləcək.
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = SOCKS v5 işlədərkən Proksi DNS
     .accesskey = d
 connection-dns-over-https-url-custom =
     .label = Fərdi
-    .accesskey = F
     .tooltiptext = HTTPS üzərindən DNS almaq üçün fərdi ünvanınızı daxil edin
-connection-dns-over-https-custom-label = Fərdi
+    .accesskey = F

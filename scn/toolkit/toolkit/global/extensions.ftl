@@ -10,9 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Jùnciri { $extension }?
 webext-perms-sideload-header = { $extension } junciutu
-webext-perms-optional-perms-header = { $extension } addumanna pirmissi superchiu.
 
 ##
 
@@ -45,21 +43,5 @@ webext-perms-host-description-all-urls = Accèdiri ê to dati pi tutti i siti
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Accèdiri ê to dati pî siti nnô duminiu { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Accèdiri ê to dati nna n’autru duminiu
-       *[other] Accèdiri ê to dati nna { $domainCount } autri dumini
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Accèdiri ê to dati pi { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Accèdiri ê to dati nna n’autru situ
-       *[other] Accèdiri ê to dati nna { $domainCount } autri siti
-    }

@@ -26,7 +26,6 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> একটি flex �
 inactive-css-not-flex-container = <strong>{ $property }</strong> একটি flex container না হওয়ায় এই উপাদানটির উপর কোনো প্রভাব নেই।
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> একটি inline বা table-cell না হওয়ায় এই উপাদানটির উপর কোনো প্রভাব নেই।
 inactive-css-property-because-of-display = <strong>{ $display }</strong> এটি প্রদর্শন থাকার কারণে <strong>{ $property }</strong> উপাদানটির কোন প্রভাব নেই।
-inactive-css-not-display-block-on-floated = <strong>প্রদর্শন</strong> মান ইঞ্জিন দ্বারা পরিবর্তিত <strong>ব্লক</strong> হয়েছে কারণ উপাদানটি <strong>ফ্লোটেড</strong>।
 inactive-css-property-is-impossible-to-override-in-visited = এটি ওভাররাইড করা অসম্ভব<strong>{ $property }</strong><strong>:পরিদর্শন</strong>নিষেধাজ্ঞার কারণে।
 inactive-css-position-property-on-unpositioned-box = এই উপাদানটির ওপর <strong>{ $property }</strong> এর কোন প্রভাব নেই কারণ এটি positioned element নয়।
 

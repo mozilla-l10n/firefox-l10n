@@ -24,7 +24,6 @@ neterror-override-exception-button = Продължаване въпреки р�
 neterror-pref-reset-button = Възстановяване на настройки по подразбиране
 neterror-return-to-previous-page-button = Връщане назад
 neterror-return-to-previous-page-recommended-button = Връщане назад (препоръчително)
-neterror-try-again-button = Нов опит
 neterror-add-exception-button = Продължаване винаги за този сайт
 neterror-settings-button = Промяна на настройките за DNS
 neterror-view-certificate-link = Преглед на сертификата
@@ -32,7 +31,6 @@ neterror-view-certificate-link = Преглед на сертификата
 ##
 
 neterror-pref-reset = Изглежда настройките на сигурността може да са предизвикали това. Искате ли да бъдат възстановени настройките по подразбиране?
-neterror-error-reporting-automatic = Докладване на такива грешки, за да може { -vendor-short-name } да идентифицира и ограничи злонамерени сайтове
 
 ## Specific error messages
 
@@ -55,7 +53,6 @@ neterror-dns-not-found-offline-hint-header = <strong>Какво можете д�
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-offline = Не сте свързани с интернет.
 neterror-dns-not-found-trr-unknown-host2 = Този сайт не беше намерен от { $trrDomain }.
 
 ##
@@ -65,8 +62,6 @@ neterror-file-not-found-moved = Проверете дали файлът не е
 neterror-access-denied = Може да е премахнат, преместен или правата му да ограничават достъпа.
 neterror-unknown-protocol = Вероятно ще трябва да инсталирате друг софтуер, за да отворите този адрес.
 neterror-redirect-loop = Такъв проблем може да е причинен от изключване или забраняване на бисквитките.
-neterror-unknown-socket-type-psm-installed = Проверете дали системата има инсталиран Personal Security Manager.
-neterror-unknown-socket-type-server-config = Настройките на сървъра може да са нестандартни.
 neterror-not-cached-intro = Търсеният документ не е наличен в склада на { -brand-short-name }.
 neterror-not-cached-sensitive = Като предпазна мярка { -brand-short-name } не прави повторна заявка на документи с поверително съдържание.
 neterror-not-cached-try-again = Натиснете „Повторен опит“ за нова заявка на документа от страницата.

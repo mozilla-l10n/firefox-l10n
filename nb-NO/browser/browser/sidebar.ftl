@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = Tøm historikk
 sidebar-history-sort-by-heading-menucaption =
     .label = Sorter etter:
-sidebar-history-sort-by-heading = Sorter etter:
 sidebar-history-sort-option-date =
     .label = Dato
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Sidestolpeutvidelser
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name }-verktøy
 sidebar-customize-firefox-settings = Behandle { -brand-short-name }-innstillinger
 sidebar-vertical-tabs =
     .label = Vertikale faner
 sidebar-settings2 =
     .label = Innstillinger
-sidebar-settings =
-    .label = Innstillinger for sidestolpe
 sidebar-hide-tabs-and-sidebar =
     .label = Skjul faner og sidestolpe
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Behandle utvidelse
-sidebar-context-menu-remove-extension =
-    .label = Fjern utvidelse
 sidebar-context-menu-report-extension =
     .label = Rapporter utvidelse
 sidebar-context-menu-open-in-tab =

@@ -15,10 +15,6 @@ experimental-features-js-warp-description = ჩაირთვება Warp, �
 experimental-features-ime-search =
     .label = მისამართის ზოლი: შედეგების ჩვენება IME კომპოზიციის დროს
 experimental-features-ime-search-description = IME (შეყვანის დამხმარე საშუალება) არის ხელსაწყო, რომლითაც ხერხდება რთული ასონიშნების შეტანა, მათ შორის აღმოსავლურ-აზიური ენებიდან ან ინდური დამწერლობებიდან, ჩვეულებრივი კლავიატურით. ამ საცდელი შესაძლებლობის ჩართვა მისამართის ზოლს ტოვებს გახსნილს ძიების შედეგებითა და შემოთავაზებებით, როცა გამოიყენება IME. გაითვალისწინეთ, რომ IME და მისი არე ზოგჯერ ფარავს მისამართების ზოლის შედეგებს, ამიტომ ეს პარამეტრი გამოსადეგია, როცა ისეთი IME გამოიყენება, რომელსაც არ გააჩნია ამგვარი არე.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = ეკრანი-ეკრანში: თავისთავად გახსნა სხვა ჩანართზე გადასვლისას
-experimental-features-auto-pip-description = ეკრანი-ეკრანში გაეშვება მოქმედი ვიდეოები ჩანართის შეცვლისას.
 experimental-features-group-developer-tools =
     .label = შემმუშავებლის ხელსაწყოები
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = სარგებლიანობა
 experimental-features-group-newtab-widgets =
     .label = ჩანამატები – { -firefox-home-brand-name }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = პაროლები გვერდით ზოლზე
-experimental-features-contextual-password-manager-description = წვდომა თქვენს პაროლებთან პირდაპირ გვერდითი ზოლიდან. აღარავითარი ძიება ან პაროლების განულება შესვლის მცდელობისას. ამ შესაძლებლობით სარგებლობისთვის აირჩიეთ პაროლები გვერდით ზოლზე. გადადით მთავარ პარამეტრებში და განლაგების განყოფილებაში მიუთითეთ გვერდითი ზოლის ჩვენება. შემდეგ კი მოირგეთ გვერდითი ზოლი პაროლების არჩევით. თუ მოსინჯავთ, <a data-l10n-name="connect">გვაცნობეთ, რას აზრის ხართ</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = აირჩიეთ სასურველი ფონი ან ფერი ახალი ჩანართისთვის

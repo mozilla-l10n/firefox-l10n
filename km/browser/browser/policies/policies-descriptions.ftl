@@ -26,7 +26,6 @@ policy-DefaultDownloadDirectory = កំណត់ថតឯកសារទាញ�
 policy-DisableAppUpdate = បង្ការ​កម្មវិធី​រុករក​ពី​ការ​ធ្វើ​បច្ចុប្បន្នភាព។
 policy-DisableBuiltinPDFViewer = បិទដំណើរការឯកសារ PDF.js កម្មវិធីមើល PDF ដែល​បាន​បង្កើត​ស្រាប់​នៅ​ក្នុង { -brand-short-name } ។
 policy-DisableDeveloperTools = ទប់ស្កាត់​ការ​ចូល​ទៅ​ឧបករណ៍​អភិវឌ្ឍន៍។
-policy-DisableFirefoxAccounts = បិទសេវាកម្មដែលមានមូលដ្ឋានលើ { -fxaccount-brand-name } រួមទាំងការធ្វើសមកាលកម្ម។
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = បិទ​មុខងារ​រូបថត​អេក្រង់​របស់ Firefox ។
 policy-DisableFirefoxStudies = រារាំង { -brand-short-name } ពី​ដំណើការ​ការសិក្សា។
@@ -34,7 +33,6 @@ policy-DisableForgetButton = រារាំង​ការ​ចូល​ប្
 policy-DisableFormHistory = មិន​ចងចាំ​ប្រវត្តិ​ស្វែងរក និង​សំណុំ​បែបបទ
 policy-DisablePrimaryPasswordCreation = ប្រសិនបើ​ពិត នោះពាក្យសម្ងាត់​ចម្បង​មិនអាចត្រូវបានបង្កើតទេ។
 policy-DisablePasswordReveal = កុំអនុញ្ញាតឱ្យបង្ហាញពាក្យសម្ងាត់នៅក្នុងការចូលដែលបានរក្សាទុក។
-policy-DisablePocket2 = បិទដំណើរការមុខងារ ដើម្បីរក្សាទុកគេហទំព័រទៅ​ { -pocket-brand-name }។
 policy-DisablePrivateBrowsing = បិទដំណើររុករកឯកជន។
 policy-DisplayBookmarksToolbar = បង្ហាញរបារឧបករណ៍ចំណាំតាមលំនាំដើម
 policy-DisplayMenuBar = បង្ហាញរបារម៉ឺនុយតាមលំនាំដើម។

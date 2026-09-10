@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = ថយក្រោយ​មួយ​ទំព័រ ({ $shortcut })
     .aria-label = ថយក្រោយ
+    .tooltiptext = ថយក្រោយ​មួយ​ទំព័រ ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = ទៅមុខ​មួយ​ទំព័រ ({ $shortcut })
     .aria-label = ទៅមុខ
+    .tooltiptext = ទៅមុខ​មួយ​ទំព័រ ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -88,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = ទំព័រចំណាំ…
-    .accesskey = M
     .tooltiptext = ទំព័រចំណាំ
+    .accesskey = M
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -106,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = ទំព័រចំណាំ…
-    .accesskey = m
     .tooltiptext = ទំព័រចំណាំ ({ $shortcut })
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = កែសម្រួល​ចំណាំ…
-    .accesskey = m
     .tooltiptext = កែសម្រួល​ចំណាំ
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = កែសម្រួល​ចំណាំ…
-    .accesskey = m
     .tooltiptext = កែសម្រួល​ចំណាំ ({ $shortcut })
+    .accesskey = m
 main-context-menu-open-link =
     .label = បើក​តំណ
     .accesskey = O
@@ -139,9 +139,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = រក្សាទុក​តំណជា...
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = រក្សាទុកតំណទៅ { -pocket-brand-name }
-    .accesskey = ទ
 
 ##
 
@@ -241,9 +238,6 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = អ៊ីមែលអូឌីយ៉ូ...
     .accesskey = a
-main-context-menu-send-to-device =
-    .label = ផ្ញើ​ទំព័រ​ទៅ​ឧបករណ៍
-    .accesskey = D
 
 ##
 
@@ -251,18 +245,12 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-password =
     .label = ប្រើពាក្យសម្ងាត់ដែលបានរក្សាទុក
     .accesskey = o
-
-##
-
 main-context-menu-suggest-strong-password =
     .label = ណែនាំពាក្យសម្ងាត់ខ្លាំង...
     .accesskey = S
 main-context-menu-manage-passwords =
     .label = គ្រប់គ្រងពាក្យសម្ងាត់
     .accesskey = M
-main-context-menu-keyword =
-    .label = បន្ថែម​ពាក្យ​គន្លឹះ​សម្រាប់​ការ​ស្វែងរក​នេះ...
-    .accesskey = K
 main-context-menu-link-send-to-device =
     .label = ផ្ញើ​តំណ​ទៅ​ឧបករណ៍
     .accesskey = D

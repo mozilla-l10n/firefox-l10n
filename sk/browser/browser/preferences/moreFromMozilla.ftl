@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Ďalšie produkty { -vendor-short-name(case: "gen") }
 more-from-moz-page-header =
     .heading = Ďalšie produkty { -vendor-short-name(case: "gen") }
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } pre mobilné zariad
 more-from-moz-firefox-mobile-description = Mobilný prehliadač, pre ktorý je vaše súkromie na prvom mieste.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } pre mobilné zariadenia
 more-from-moz-firefox-mobile =
-    .label = { -brand-product-name } pre mobilné zariadenia
     .description = Mobilný prehliadač, ktorý kladie vaše súkromie na prvé miesto.
+    .label = { -brand-product-name } pre mobilné zariadenia
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Objavte ďalšiu vrstvu anonymného prehliadania a ochrany.
 more-from-moz-qr-code-box-firefox-mobile-title = Stiahnite si ho pomocou mobilného zariadenia. Namierte fotoaparát na QR kód. Keď sa zobrazí odkaz, ťuknite naň.
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = Získať { -relay-brand-short-name(case: "a
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Automaticky si vezmite späť svoje odhalené osobné údaje.
 more-from-moz-mozilla-monitor-global-description = Dostávajte upozornenia, keď dôjde k narušeniu bezpečnosti vašich údajov.
 more-from-moz-mozilla-monitor-button = Získať { -monitor-brand-short-name(case: "acc") }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Okamžite vytvorte svoju webovú stránku a pripojte svoju vlastnú doménu zadarmo.
 more-from-moz-solo-button = Vyskúšať { -solo-ai-brand-name(case: "acc") }
 more-from-moz-solo-title-2 = { -solo-ai-brand-name } - AI tvorca webových stránok
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = Poslať odkaz na stiahnutie e‑mailom
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = Vďaka bezplatnému skenovaniu zistite, či boli vaše osobné údaje súčasťou úniku údajov.
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = Získajte dodatočnú ochranu pre všetky aplikácie – nielen pre váš prehliadač. Chráňte svoje údaje na verejných sieťach Wi‑Fi a nezabezpečených sieťach.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = Chráňte svoju e‑mailovú schránku pred nevyžiadanou poštou pomocou bezplatného maskovania e‑mailových adries.
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = Naučte sa vývoj webových stránok s bezplatnými a komplexnými sprievodcami a referenciami.
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = Získajte prístup ku všetkým svojim e‑mailom, kalendárom a kontaktom v jednej rýchlej aplikácii. Filtrujte a usporiadajte ich tak, ako chcete.
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = V priebehu chvíľku si vytvorte svoju webovú stránku a pripojte svoju vlastnú doménu. Zadarmo.
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = Nové produkty { -vendor-short-name(case: "gen") }
     .description = Preskúmajte naše najnovšie nápady a experimentálne technológie.
+    .label = Nové produkty { -vendor-short-name(case: "gen") }
 more-from-moz-mozilla-monitor-box-link =
     .label = Získať { -monitor-brand-short-name(case: "acc") }
 more-from-moz-mozilla-vpn-box-link =

@@ -30,14 +30,13 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Zmiyniyła sie bazowo wyszukowarka.</strong>Wyszukowarka { $oldEngine } już niy je dostympno jako bazowo wyszukowarka w aplikacyji { -brand-short-name }. Teroz za bazowo wyszukowarka robi { $newEngine }. Coby jōm zmiynic na inkszo, idź do sztalōnkōw. <label data-l10n-name="remove-search-engine-article">Przewiydz sie wiyncyj</label>
 removed-search-engine-message2 = <strong>Zmiyniyła sie bazowo wyszukowarka.</strong>Wyszukowarka { $oldEngine } już niy je dostympno jako bazowo wyszukowarka w aplikacyji { -brand-short-name }. Teroz za bazowo wyszukowarka robi { $newEngine }. Coby jōm zmiynic na inkszo, idź do sztalōnkōw.
 remove-search-engine-button = OK
 
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = Przidej wyszukowarka
     .style = min-width: 32em;
+    .title = Przidej wyszukowarka
 add-engine-button = Przidej włosno wyszukowarka
 add-engine-name = Miano wyszukowarki

@@ -52,8 +52,6 @@ download-cert-view-text = Sprawdź certyfikat organu certyfikacji
 
 client-auth-window =
     .title = Prośba o identyfikację użytkownika
-client-auth-site-description = Ta witryna poprosiła o przedstawienie certyfikatu w celu dokonania identyfikacji:
-client-auth-choose-cert = Wybierz certyfikat, który zostanie przedstawiony jako identyfikator użytkownika:
 client-auth-send-no-certificate =
     .label = Nie wysyłaj certyfikatu
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Proszę uwierzytelnić się w urządzeniu zabezpieczającym ({ $tokenName }). Metoda uwierzytelnienia zależy od urządzenia (np. za pomocą czytnika linii papilarnych lub przez wpisanie kodu na specjalnej klawiaturze).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Proszę uwierzytelnić się w tokenie „{ $tokenName }”. Metoda uwierzytelnienia zależy od tokenu (np. za pomocą czytnika linii papilarnych lub przez wpisanie kodu na specjalnej klawiaturze).

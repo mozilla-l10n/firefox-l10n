@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Přejde na předchozí stránku ({ $shortcut })
     .aria-label = Zpět
+    .tooltiptext = Přejde na předchozí stránku ({ $shortcut })
     .accesskey = Z
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Přejde na následující stránku ({ $shortcut })
     .aria-label = Vpřed
+    .tooltiptext = Přejde na následující stránku ({ $shortcut })
     .accesskey = V
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name(capitalization: "upper") }
-    .tooltiptext = { -fxaccount-brand-name(capitalization: "upper") }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Přidat stránku do záložek…
-    .accesskey = P
     .tooltiptext = Přidá stránku do záložek
+    .accesskey = P
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Přidat stránku do záložek…
-    .accesskey = P
     .tooltiptext = Přidá stránku do záložek ({ $shortcut })
+    .accesskey = P
 main-context-menu-edit-bookmark =
     .aria-label = Upravit záložku…
-    .accesskey = p
     .tooltiptext = Upraví záložku
+    .accesskey = p
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Upravit záložku…
-    .accesskey = p
     .tooltiptext = Upraví záložku ({ $shortcut })
+    .accesskey = p
 main-context-menu-open-link =
     .label = Otevřít odkaz
     .accesskey = O
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Uložit odkaz jako…
     .accesskey = U
-main-context-menu-save-link-to-pocket =
-    .label = Uložit odkaz do { -pocket-brand-name(case: "gen") }
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Pro odeslání stránky
 main-context-menu-send-to-mobile-connect-phone3 = Pro posílání panelů zařízení připojte
 main-context-menu-send-to-mobile-connect-phone-from-link = Pro odeslání odkazu zařízení připojte
 main-context-menu-send-to-mobile-connect-phone-from-page = Pro odeslání stránky zařízení připojte
-main-context-menu-save-to-pocket =
-    .label = Uložit stránku do { -pocket-brand-name(case: "gen") }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Poslat stránku do zařízení
-    .accesskey = e
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Použít uložené uživatelské jméno
-    .accesskey = u
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Použít uložené heslo
     .accesskey = u
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Použít e-mailovou masku { -relay-brand-short-name }
     .accesskey = e
 main-context-menu-suggest-strong-password =
     .label = Navrhnout bezpečně vygenerované heslo…
     .accesskey = g
-main-context-menu-manage-logins2 =
-    .label = Správa přihlašovacích údajů
-    .accesskey = S
 main-context-menu-manage-passwords =
     .label = Správa hesel
     .accesskey = S
-main-context-menu-keyword =
-    .label = Přiřadit tomuto vyhledávání klíčové slovo…
-    .accesskey = h
 main-context-menu-add-engine =
     .label = Přidat vyhledávač
     .accesskey = v
@@ -393,9 +366,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Pořídit snímek
     .accesskey = s
-main-context-menu-take-frame-screenshot =
-    .label = Pořídit snímek
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = Zobrazit zdrojový kód stránky
     .accesskey = r

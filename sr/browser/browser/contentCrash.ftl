@@ -18,14 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Имате извештај о отказивању који нисте послали
-        [few] Имате { $reportCount } извештаја о отказивању које нисте послали
-       *[other] Имате { $reportCount } извештаја о отказивању које нисте послали
-    }
 pending-crash-reports-view-all =
     .label = Прикажи
 pending-crash-reports-send =
@@ -39,14 +31,6 @@ requested-crash-reports-message-new =
         [one] Имате непослат извештај о рушењу повезан са рушењима која се испитују. Слање тог извештаја ће нам помоћи да побољшамо { -brand-product-name }. Затварањем овог обавештења ћете занемарити овај извештај.
         [few] Имате { $reportCount } непослата извештаја о рушењу повезана са рушењима која се испитују. Слање тих извештаја ће нам помоћи да побољшамо { -brand-product-name }. Затварањем овог обавештења ћете занемарити ове извештаје.
        *[other] Имате { $reportCount } непослатих извештаја о рушењу повезаних са рушењима која се испитују. Слање тих извештаја ће нам помоћи да побољшамо { -brand-product-name }. Затварањем овог обавештења ћете занемарити ове извештаје.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Имате непослат извештај о рушењу који одговара рушењима која се испитују. Слање тог извештаја ће нам помоћи да побољшамо { -brand-product-name }. Затварањем овог обавештења ћете занемарити овај извештај.
-        [few] Имате { $reportCount } непослата извештаја о рушењу који одговарају рушењима која се испитују. Слање тих извештаја ће нам помоћи да побољшамо { -brand-product-name }. Затварањем овог обавештења ћете занемарити ове извештаје.
-       *[other] Имате { $reportCount } непослатих извештаја о рушењу који одговарају рушењима која се испитују. Слање тих извештаја ће нам помоћи да побољшамо { -brand-product-name }. Затварањем овог обавештења ћете занемарити ове извештаје.
     }
 requested-crash-reports-dont-show-again =
     .label = Не приказуј поново

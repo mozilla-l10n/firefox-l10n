@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Delingsvisar
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Delingsvisar
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Du deler mikrofonen din. Klikk for å kontrollere deling.
 webrtc-screen-system-menu =
     .label = Du deler eit vindauge eller ein skjerm. Klikk for å kontrollere deling.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Kamera og mikrofon vert delte no. Trykk for å kontrollere deling.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Kamera vert delt no. Trykk for å kontrollere deling.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Mikrofonen vert delt no. Trykk for å kontrollere deling.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Eit program vert delt. Trykk for å kontrollere deling.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Skjermen din vert delt no. Trykk for å kontrollere deling.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Eit vindauge vert delt no. Trykk her for å kontrollere deling.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Ei fane vert delt no. Trykk for å kontrollere deling.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Tillate { $origi
 
 webrtc-share-screen-warning = Del skjermen din berre med nettstadar du stolar på. Deling kan tillate villeiande nettstadar å surfe som deg og stele dei private dataa dine.
 webrtc-share-browser-warning = Del berre { -brand-short-name } med nettstadar du stolar på. Deling kan tillate villeiande nettstadar å surfe som deg og stele dei privata dataa dine.
-webrtc-share-screen-learn-more = Les meir
 webrtc-pick-window-or-screen = Vel vindauge eller skjerm
 webrtc-share-entire-screen = Heile skjermen
 webrtc-share-pipe-wire-portal = Bruk innstillingane til operativsystemet

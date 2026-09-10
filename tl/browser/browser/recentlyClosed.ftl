@@ -16,15 +16,3 @@ recently-closed-menu-reopen-all-windows = Muling buksan ang Lahat ng mga Window
 
 recently-closed-panel-reopen-all-tabs = Muling Buksan ang Lahat ng mga Tab
 recently-closed-panel-reopen-all-windows = Muling buksan ang Lahat ng mga Window
-
-##
-
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [one] { $winTitle } (at { $tabCount } pang ibang tab)
-       *[other] { $winTitle } (at { $tabCount } pang mga ibang tab)
-    }

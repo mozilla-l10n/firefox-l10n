@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = Ich bin auf der Seite "{ $tabTitle }" und habe "
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = KI-Chatbot fragen
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = { $provider } fragen
 genai-menu-open-generic =
     .label = KI-Chatbot öffnen
 # $provider (string) - name of the provider
@@ -120,8 +115,6 @@ genai-header-provider-menu =
     .title = Wählen Sie einen Chatbot
 genai-header-settings-button =
     .title = Einstellungen für den KI-Chat
-genai-header-options-button =
-    .title = Menü öffnen
 genai-header-close-button =
     .title = Schließen
 genai-provider-view-details =
@@ -149,37 +142,25 @@ genai-page-button-summarize = Seite zusammenfassen
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Zusammenfassen, Brainstorming und mehr, während Sie surfen
 genai-onboarding-choose-header = Wählen Sie einen KI-Chatbot aus, der in der { -brand-short-name }-Sidebar verwendet werden soll
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Wählen Sie einen KI-Chatbot aus, der in der { -brand-short-name }-Sidebar verwendet werden soll. Wir zeigen Details zu jedem Chatbot, wenn Sie ihn auswählen. Sie können jederzeit wechseln. <a data-l10n-name="learn-more">Weitere Informationen</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Jederzeit wechseln. Für Hilfe bei der Auswahl lesen Sie <a data-l10n-name="learn-more">weitere Informationen zu den einzelnen Chatbots</a>.
 genai-onboarding-primary = Weiter
 genai-onboarding-secondary = Schließen
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Mehr über Claude erfahren
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Mehr über ChatGPT erfahren
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Mehr über Copilot erfahren
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Mehr über Gemini erfahren
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = Mehr über HuggingChat erfahren
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Mehr über Le Chat erfahren
-genai-onboarding-select-header = Wählen Sie Text aus, um Vorschläge zu sehen
-genai-onboarding-select-description = Wenn Sie Text auswählen, schlagen wir Ihnen Prompts vor, die Sie an den Chatbot senden können. Sie können auch Ihre eigenen Prompts schreiben.
-genai-onboarding-select-primary = Chat starten
 genai-chatbot-contextual-title = Verwenden Sie einen KI-Chatbot, ohne Tabs zu wechseln
 genai-chatbot-contextual-subtitle = Chatten und surfen Sie Seite an Seite, wenn Sie einen KI-Chatbot in der { -brand-short-name }-Sidebar hinzufügen.
 genai-chatbot-contextual-button = Wählen Sie einen Chatbot
@@ -192,27 +173,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = Klicken Sie mit der rechten M
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Öffnen Sie Ihren KI-Chatbot in der Sidebar und wählen Sie unten "Seite zusammenfassen".
 genai-chatbot-summarize-footer-generic-subtitle = Fügen Sie einen KI-Chatbot in der { -brand-short-name }-Sidebar hinzu, um Seiten schnell zusammenzufassen.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Text und Code erzeugen
-genai-onboarding-claude-analyze = Dokumente und Grafiken analysieren
-genai-onboarding-claude-price = Kostenlose und kostenpflichtige Optionen; Konto erforderlich
-genai-onboarding-chatgpt-generate = Text, Grafiken und Code erzeugen
-genai-onboarding-chatgpt-analyze = Dokumente und Grafiken analysieren
-genai-onboarding-chatgpt-price = Kostenlose und kostenpflichtige Optionen; für einige Länder und Aufgaben Konto erforderlich
-genai-onboarding-copilot-generate = Text, Grafiken und Code erzeugen
-genai-onboarding-copilot-analyze = Grafiken analysieren
-genai-onboarding-copilot-price = Kostenlose und kostenpflichtige Optionen; Konto für einige Aufgaben erforderlich
-genai-onboarding-gemini-generate = Text, Grafiken und Code erzeugen
-genai-onboarding-gemini-analyze = Bilder (kostenlos) und Dokumente (kostenpflichtig) analysieren
-genai-onboarding-gemini-price = Kostenlose und kostenpflichtige Optionen; Konto erforderlich
-genai-onboarding-huggingchat-generate = Text und Code erzeugen
-genai-onboarding-huggingchat-switch = Wechseln Sie zwischen einer Vielzahl offener Modelle
-genai-onboarding-huggingchat-price-2 = Kostenlos; Konto nach einer bestimmten Anzahl von Anfragen erforderlich
-genai-onboarding-lechat-generate = Text und Code erzeugen
-genai-onboarding-lechat-price = Kostenlos; Konto erforderlich
 
 ## Model Optin Component
 
@@ -251,8 +211,8 @@ link-preview-generation-retry = Erneut versuchen
 link-preview-settings-button =
     .title = Einstellungen für die Link-Vorschau
 link-preview-settings-enable =
-    .label = Link-Vorschau aktivieren
     .description = Sehen Sie den Seitentitel, die Beschreibung und mehr, wenn Sie die Tastenkombination verwenden oder mit der rechten Maustaste auf einen Link klicken.
+    .label = Link-Vorschau aktivieren
 link-preview-settings-key-points =
     .label = Der KI erlauben, den Anfang der Seite zu lesen und Stichpunkte daraus zu generieren
 link-preview-settings-long-press =

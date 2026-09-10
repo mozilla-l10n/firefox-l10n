@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } — شاخص اشتراک‌گذاری
-webrtc-indicator-window =
-    .title = { -brand-short-name } — شاخص اشتراک‌گذاری
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = شما صدابَر خود را هم‌رسانی کرده‌اید. برای واپایش هم‌رسانی کلیک کنید.
 webrtc-screen-system-menu =
     .label = شما در حال اشتراک‌گذاری یک پنجره یا کل صفحه هستید. برای کنترل اشتراک‌گذاری کلیک کنید.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = دوربین و صدابَر شما هم‌رسانی شدند. برای واپایش هم‌رسانی کلید کنید.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = دوربین شما به اشتراک گذاشته شد. کلیک برای مدیریت به اشتراک گذاری.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = صدابَر شما هم‌رسانی شد. برای واپایش هم‌رسانی کلید کنید.
-webrtc-indicator-sharing-application =
-    .tooltiptext = برنامه به اشتراک گذاشته شد. کلیک برای مدیریت به اشتراک گذاری.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = صفحه نمایشگر شما به اشتراک گذاشته شد. کلیک برای مدیریت به اشتراک گذاری.
-webrtc-indicator-sharing-window =
-    .tooltiptext = پنجره به اشتراک گذاشته شد. کلیک برای مدیریت به اشتراک گذاری.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = زبانه به اشتراک گذاشته شد. کلیک برای مدیریت به اشتراک گذاری.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -171,7 +152,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = آیا به { $o
 
 webrtc-share-screen-warning = صفحه‌نمایش را تنها با سایت‌هایی که به آنها اعتماد دارید به اشتراک بگذارید. اشتراک‌گذاری صفحه می‌تواند به سایت‌های گمراه‌کننده اجازه دهد تا بجای شما در وب مرور کرده و داده‌های خصوصی شما را سرقت کنند.
 webrtc-share-browser-warning = { -brand-short-name } را تنها با سایت‌هایی که به آنها اعتماد دارید به اشتراک بگذارید. اشتراک‌گذاری صفحه می‌تواند به سایت‌های گمراه‌کننده اجازه دهد تا بجای شما در وب مرور کرده و داده‌های خصوصی شما را سرقت کنند.
-webrtc-share-screen-learn-more = اطلاعات بیشتر
 webrtc-pick-window-or-screen = پنجره یا صفحه را انتخاب کنید
 webrtc-share-entire-screen = تمام صفحه
 webrtc-share-pipe-wire-portal = استفاده از تنظیمات سیستم‌عامل

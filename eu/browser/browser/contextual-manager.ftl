@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Bilatu pasahitzak
-    .key = F
     .aria-label = Bilatu pasahitzak
+    .key = F
+    .placeholder = Bilatu pasahitzak
 contextual-manager-menu-more-options-button =
     .title = Aukera gehiago
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Inportatu fitxategitik…
 contextual-manager-passwords-command-export = Esportatu pasahitzak
 contextual-manager-passwords-command-remove-all = Ezabatu pasahitz guztiak
 contextual-manager-passwords-command-options = Aukerak
-contextual-manager-passwords-command-settings = Ezarpenak
 contextual-manager-passwords-command-help = Laguntza
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Pasahitzak inportatuta
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Berriak: { $added }, Eguneratuak: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -219,8 +214,6 @@ contextual-manager-passwords-create-label =
     .label = Gehitu pasahitza
 contextual-manager-passwords-update-label =
     .label = Eguneratu pasahitza
-contextual-manager-passwords-edit-label =
-    .label = Editatu pasahitza
 contextual-manager-passwords-remove-label =
     .title = Kendu pasahitza
 contextual-manager-passwords-origin-field =
@@ -236,7 +229,6 @@ contextual-manager-passwords-password-field-description = Idatzi kontu honetara 
 contextual-manager-passwords-origin-tooltip = Idatzi gune honetan saioa hasiko duzun helbide zehatza.
 contextual-manager-passwords-username-tooltip = Idatzi saioa hasteko erabiltzen duzun erabiltzaile-izena, helbide elektronikoa edo kontu-zenbakia.
 contextual-manager-passwords-password-tooltip-2 = Idatzi kontu honetara sartzeko pasahitza.
-contextual-manager-passwords-password-tooltip = Idatzi kontu honetara sartzeko erabiltzen den pasahitza.
 
 ## Password Card
 
@@ -283,10 +275,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Kopiatu pasahitza (abisua)
 contextual-manager-edit-login-button = Editatu
     .tooltiptext = Editatu pasahitza
-contextual-manager-view-alert-heading =
-    .heading = Ikusi alerta
-contextual-manager-view-alert-button =
-    .tooltiptext = Berrikusi alerta
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -315,13 +303,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Ez da pasahitzik aurkitu
 contextual-manager-passwords-no-passwords-found-message-2 = Saiatu bestelako termino batekin eta bilatu berriro.
-contextual-manager-passwords-no-passwords-found-message = Ez da pasahitzik aurkitu. Bilatu beste terminoren bat eta saiatu berriro.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Gorde zure pasahitzak toki seguru batean.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Pasahitz guztiak zifratuta daude eta adi ibiliko gara eragingo lizuketen datu-urratze eta alertetara.

@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Ldi asfaylu uslig
     .accesskey = s
 about-private-browsing-search-placeholder = Nadi di Web
-about-private-browsing-info-title = Deg usfaylu uslig i telliḍ tura
 about-private-browsing-search-btn =
     .title = Nadi di web
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Nadi s { $engine } neɣ sekcem tansa
 about-private-browsing-handoff-text-no-engine = Nadi neɣ sekcem tansa
 about-private-browsing-not-private = Mačči deg usfaylu uslig i telliḍ tura.
-about-private-browsing-info-description-private-window = Asfaylu uslig: { -brand-short-name } iseffeḍ anadi-inek·inem d uzray n tunigin mi ara tmedleḍ akk isfuyla usligen. Aya ur ak·akem-yettarra ara d t·udrig·t.
-about-private-browsing-info-description-simplified = { -brand-short-name } iseffeḍ anadi-inek·inem d uzray n tunigin mi ara tmedleḍ akk isfuyla usligen, maca aya ur ak·akem-yettarra ara d t·udrig·t.
-about-private-browsing-learn-more-link = Issin ugar
 about-private-browsing-hide-activity = Ffer armud-ik·im d wadig, anida akk i tettinigeḍ
 about-private-browsing-get-privacy = Sεu ammesten n tbaḍnit anida akk tettinigeḍ
 about-private-browsing-hide-activity-1 = Ffer armud d wadig n tunigin s { -mozilla-vpn-brand-name }. Yiwen n usiti, rnu tuqqna , ula ɣef Wi-Fi azayaz.
@@ -29,8 +25,6 @@ about-private-browsing-prominent-cta = Qqim d uslig s { -mozilla-vpn-brand-name 
 about-private-browsing-focus-promo-cta = Sader { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: tunigin tusligt tazirazt
 about-private-browsing-focus-promo-text = Asnas-nneɣ aziraz yettwagen i tunigin tusligt itekkes azray-inek d yinagan n tuqqna seld yal aseqdec.
-about-private-browsing-focus-promo-header-b = Fṛes tunigin tusligt ɣef tiliɣri-inek
-about-private-browsing-focus-promo-text-b = Seqdec { -focus-brand-name } i yinadiyen-a usligen ur tebɣiḍ ad ten-iwali iminig-ik aziraz.
 about-private-browsing-focus-promo-header-c = Tabaḍnit izaden ɣef uziraz
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } iseffeḍ azray-ik yal mi ara ttusweḥlen udellel d yineḍfaren.
 # This string is the title for the banner for search engine selection
@@ -60,10 +54,6 @@ about-private-browsing-pin-promo-title = Ulac inagan n tuqqqna neɣ azray i yett
 
 ## Strings used in a promotion message for cookie banner reduction
 
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = Dayen iɣarracen n yinagan n tuqqna!
-about-private-browsing-cookie-banners-promo-button = Senqes iɣarracen n yinagan n tuqqna
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } yecɣel d yissutar n yinagan n tuqqna deg ubdil-ik

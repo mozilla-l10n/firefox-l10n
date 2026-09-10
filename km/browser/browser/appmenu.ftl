@@ -31,8 +31,6 @@ appmenuitem-extensions-and-themes =
     .label = ផ្នែកបន្ថែម និងរចនាប័ទ្ម
 appmenuitem-extensions =
     .label = ផ្នែក​បន្ថែម
-appmenuitem-addons-and-themes =
-    .label = កម្មវិធីបន្ថែមស្បែក
 appmenuitem-print =
     .label = បោះពុម្ព…
 appmenuitem-find-in-page =
@@ -101,7 +99,6 @@ appmenu-remote-tabs-unverified = គណនី​របស់​អ្នក​�
 appmenuitem-fxa-toolbar-sync-now2 = ធ្វើសមកាលកម្មឥឡូវនេះ
 appmenuitem-fxa-sign-in = ចូលទៅកាន់ { -brand-product-name }
 appmenuitem-fxa-manage-account = គ្រប់គ្រង​គណនី
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = គណនី
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -117,15 +114,6 @@ appmenuitem-save-page =
     .label = រក្សា​ទុក​ទំព័រជា...
 appmenuitem-fxa-sync-off-title = សមកាលកម្មត្រូវបានបិទ
 appmenuitem-fxa-sync-off-description = ការពារ និងចូលប្រើចំណាំ ពាក្យសម្ងាត់ និងច្រើនទៀតរបស់អ្នកនៅគ្រប់ទីកន្លែង។
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = អ្វីដែលថ្មី
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = ជួបដំណឹងមុខងារថ្មីៗ
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -215,8 +203,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = ព័ត៌មាន​អំពី​ដំណោះស្រាយ​បញ្ហាបន្ថែម
     .accesskey = t
-appmenu-help-report-site-issue =
-    .label = រាយការណ៍​បញ្ហា​គេហទំព័រ…
 appmenu-help-share-ideas =
     .label = ចែករំលែកគំនិតនិងមតិយោបល់…
     .accesskey = S
@@ -258,13 +244,11 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = ចូលទៅក្នុងគណនីរបស់អ្នក
-appmenuitem-vpn-description = ការពារសកម្មភាពអនឡាញរបស់អ្នក
 appmenu-services-header = សេវាកម្មរបស់ខ្ញុំ
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = សាកល្បងឧបករណ៍ការពារផ្សេងទៀតពី Mozilla៖
-appmenu-other-protection-header = សាកល្បងឧបករណ៍ការពារផ្សេងទៀតពី { -vendor-short-name }៖
 
 ## Profiles panel
 

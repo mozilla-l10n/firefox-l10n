@@ -3,28 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pane-general-title = Yamma
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-search-title2 = Ceeci
     .title = Ceeci
 pane-privacy-title3 = Sutura nda saajaw
     .title = Sutura nda saajaw
-pane-search-title = Ceeci
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = Sutura nda saajaw
-pane-privacy-title = Sutura nda saajaw
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label2 = { -brand-short-name } faaba
     .title = { -brand-short-name } faaba
-help-button-label = { -brand-short-name } faaba
 focus-search =
     .key = f
 close-button =
@@ -44,15 +32,11 @@ search-results-header = Ceeci duurawey
 
 ## General Section
 
-startup-header = Tunandi
 always-check-default =
     .label = Guna waati kul wala { -brand-short-name } ti war tilasu ceecikaa
     .accesskey = w
-is-default = { -brand-short-name } ti war tilasu ceecikaa sohõda.
-is-not-default = { -brand-short-name } manti war tilasu ceecikaa sohõda
 tabs-group-header2 =
     .label = Kanjey
-tabs-group-header = Kanjey
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab willandey kanjey game goyyan kanandi koraw ra
     .accesskey = T
@@ -62,13 +46,7 @@ warn-on-open-many-tabs =
 show-tabs-in-taskbar =
     .label = Moo-daaru kanji cebe Windows goymaaboŋ ra
     .accesskey = m
-browser-containers-enabled =
-    .label = Diikey kanjey tunandi
-    .accesskey = n
 browser-containers-learn-more = Bay ka tonton
-browser-containers-settings =
-    .label = Kayandiyaney…
-    .accesskey = n
 containers-disable-alert-title = Sun kanjey kul daabu?
 startup-group =
     .label = Tunandi
@@ -96,23 +74,10 @@ containers-remove-cancel-button = Ma ši sunoo woo kaa
 
 ## General Section - Language & Appearance
 
-default-font = Tilasu šigira
-    .accesskey = T
-default-font-size = Adadu
-    .accesskey = A
-advanced-fonts =
-    .label = Jinehere…
-    .accesskey = J
 choose-language-description = War šenni ibaayantaa suuba ka moɲey cebe
 choose-button =
     .label = Suuba…
     .accesskey = u
-translate-web-pages =
-    .label = Interneti gundekuna berandi
-    .accesskey = b
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = Berandikey <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Hasarawey…
     .accesskey = H
@@ -126,23 +91,6 @@ download-save-files-header =
     .label = Tukey gaabu ga
 download-save-where-3 =
     .aria-label = Tukey gaabu ga
-download-header = Zumandiyaney
-download-save-where = Tukey gaabu ga
-    .accesskey = g
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Suuba…
-           *[other] Guna…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] S
-           *[other] G
-        }
-download-always-ask-where =
-    .label = Ay hãa waati kul nungu kaŋ ra tukey ga jiši
-    .accesskey = w
 applications-type-column =
     .label = Gundekuna dumi
     .accesskey = d
@@ -175,17 +123,11 @@ applications-always-ask =
 #   $type-description (string) - Description of the type (e.g "Portable Document Format")
 #   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Goy nda { $plugin-name } ({ -brand-short-name } ra)
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -200,30 +142,12 @@ applications-use-other-label =
 ## Firefox updates
 
 play-drm-content-learn-more = Bay ka tonton
-update-application-title = { -brand-short-name } taagandirey
 update-history-2 =
     .label = Taagandiri taariki cebe
     .accesskey = a
-update-history =
-    .label = Taagandiri taariki cebe…
-    .accesskey = a
-update-application-allow-description = Naŋ { -brand-short-name } ma
-update-application-check-choose =
-    .label = Taagandirey guna, amma naŋ ma sinji dogoo suuba
-    .accesskey = g
-update-application-manual =
-    .label = Ma ši taagandirey ceeci abada (ši yaamarandi)
-    .accesskey = b
-update-application-use-service =
-    .label = Goy bandafaari zaa ka taagarandirey sinji
-    .accesskey = b
 
 ## General Section - Performance
 
-performance-title = Teeyan sahã
-performance-use-recommended-settings-checkbox =
-    .label = Goy nda goy sahã kayandiyan yaamarantey
-    .accesskey = o
 performance-allow-hw-accel =
     .label = Goy nda jinay šenda cahãndikaw nd'a ga bara
     .accesskey = j
@@ -234,7 +158,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = Ceeciyan
 browsing-use-autoscroll =
     .label = Boŋ-cendiyan goyandi
     .accesskey = c
@@ -252,12 +175,6 @@ browsing-search-on-start-typing =
     .accesskey = H
 browsing-group =
     .label = Ceeciyan
-
-## General Section - Proxy
-
-network-proxy-connection-settings =
-    .label = Kayandiyaney…
-    .accesskey = a
 
 ## Custom Homepage subpage
 
@@ -278,13 +195,8 @@ choose-bookmark =
 
 ## Search Section
 
-search-engine-default-header = Tilasu ceecijinay
-search-suggestions-option =
-    .label = Ceeci honnandiyaney noo
-    .accesskey = C
 search-suggestions-cant-show-2 =
     .message = Ceeci honnandiyaney ši cebe gorodoo zuu hunyaney ra zama war na { -brand-short-name } hanse a ma ši honga taariki kul.
-search-suggestions-cant-show = Ceeci honnandiyaney ši cebe gorodoo zuu hunyaney ra zama war na { -brand-short-name } hanse a ma ši honga taariki kul.
 search-choose-engine-column =
     .label = Ceecijinay
 search-choose-keyword-column =
@@ -307,15 +219,6 @@ search-engine-group =
 search-default-engine =
     .aria-label = Tilasu ceecijinay
 
-## Containers Section
-
-containers-header = Diikey kanjey
-containers-add-button =
-    .label = Sun taaga tonton
-    .accesskey = o
-containers-remove-button =
-    .label = Kaa
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -332,8 +235,6 @@ sync-mobile-promo = Firefox zumandi <img data-l10n-name="android-icon"/> <a data
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = Alhaali bii barmay
 sync-profile-picture-with-alt =
     .alt = Alhaali bii barmay
     .tooltiptext = Alhaali bii barmay
@@ -383,24 +284,11 @@ sync-device-name-save =
     .label = Gaabu
     .accesskey = b
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = Tabatandiyan sanbandi
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = Tabatandiyan dobu sanbandi { $email } do.
-sync-verification-not-sent-title = Mana hin ka tabatandiyan sanba
-sync-verification-not-sent-body = Ir mana hin ka tabatandiyan bataga sanba sohõda, wa ceeci koyne waati foo.
-
 ## Privacy Panel Settings
 
 forms-exceptions =
     .label = Hasarawey…
     .accesskey = s
-forms-saved-logins =
-    .label = Huruyan maa gaabuntey…
-    .accesskey = m
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -411,28 +299,9 @@ forms-master-pw-fips-desc = Šennikufal mana hin ka barmay mana
 
 ## Privacy Section - History
 
-history-header = Taariki
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } ga
-    .accesskey = g
-history-remember-option-all =
-    .label = Hongu taarikoo
-history-remember-option-never =
-    .label = Ma ši honga taarikoo abada
-history-remember-option-custom =
-    .label = Hanse bonse taariku se goyandi
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } ga goy nda kayandiyan follokey kaŋ goo nda sutura ceeciyan, amma a ši taariku gaabu war tataaru ceeciroo waate.
-history-dontremember-description = { -brand-short-name } ga goy nda kayandiyan follokey kaŋ goo nda sutura ceeciyan, amma a ši taariku gaabu war tataaru ceeciroo waate.
 history-private-browsing-permanent =
     .label = Wa goy sutura naarumi alhaali ra waati kul
     .accesskey = s
@@ -458,17 +327,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Nor lokey feeri
     .accesskey = f
-addressbar-suggestions-settings = Ibaa&ey barmay ceecijinay honnandiyaney se
 
 ## Privacy Section - Permissions
 
-permissions-notification = Bangandiyaney
-permissions-block-popups =
-    .label = Biiboŋ bata zanfuney daabu
-    .accesskey = B
-permissions-addon-exceptions =
-    .label = Hasarawey…
-    .accesskey = H
 permissions-notification2 =
     .label = Bangandiyaney
 
@@ -490,14 +351,9 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = Tabatiyan-tiirawey
-certs-enable-ocsp =
-    .label = Hayyan OCSP zaabi feršikey ka sohõda tabatandi tiira booriyanoo cimandi.
-    .accesskey = H
 certs-devices-enable-fips = FIPS tunandi
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Goytaabal
 downloads-folder-name = Zumandey
-choose-download-folder-title = Zumandi foolo suuba:

@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = { $extension } přidać?
-webext-perms-header-with-perms = { $extension } přidać? Tute rozšěrjenje změje prawo za:
-webext-perms-header-unsigned = { $extension } přidać? Tute rozšěrjenje je njepřepruwowane. Złóstne rozšěrjenja móža waše priwatne daty kradnyć abo wašemu ličakej škodźić. Přidajće jo jenož, hdyž žórłu dowěrjeće.
-webext-perms-header-unsigned-with-perms = { $extension } přidać? Tute rozšěrjenje je njepřepruwowane. Złóstne rozšěrjenja móža waše priwatne daty kradnyć abo wašemu ličakej škodźić. Přidajće jo jenož, hdyž žórłu dowěrjeće. Tute rozšěrjneje změje prawo za:
 webext-perms-sideload-header = { $extension } je so přidał
 webext-perms-optional-perms-header2 = { $extension } wo přidatne prawa prosy
-webext-perms-optional-perms-header = { $extension } wo přidatne prawa prosy.
 webext-perms-header2 = { $extension } přidać
 webext-perms-list-intro-unsigned = Tute njepřepruwowane rozšěrjenje móhło wašu priwatnosć na hrački stajić abo waš grat škodźić. Přidajće jo jenož, jeli žórłu dowěrjeće.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } je so zaktualizował. Dyrbiće nowe prawa schwalić, prjedy hač budźe so zaktualizowana wersija instalować. Jeli „Přetorhnyć“ wubjerće, so waša aktualna wersija rozšěrjenja wobchowa.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } je so zaktualizował. Dyrbiće nowe prawa schwalić, prjedy hač budźe so zaktualizowana wersija instalować. Jeli „Přetorhnyć“ wubjerće, so waša aktualna wersija rozšěrjenja wobchowa. Tute rozšěrjenje změje prawo za:
 webext-perms-update-accept =
     .label = Aktualizować
     .accesskey = A
@@ -73,28 +65,8 @@ webext-perms-host-description-file-urls = Přistup k lokalnym datajam na wašim 
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Mějće přistup k swojim datam za sydła w domenje { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Mějće přistup k swojim datam w { $domainCount } druhej domenje
-        [two] Mějće přistup k swojim datam w { $domainCount } druhimaj domenomaj
-        [few] Mějće přistup k swojim datam w { $domainCount } druhich domenach
-       *[other] Mějće přistup k swojim datam w { $domainCount } druhich domenach
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Mějće přistup k swojim datam za { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Mějće přistup k swojim datam na { $domainCount } druhim sydle
-        [two] Mějće přistup k swojim datam na { $domainCount } druhimaj sydłomaj
-        [few] Mějće přistup k swojim datam na { $domainCount } druhich sydłach
-       *[other] Mějće přistup k swojim datam na { $domainCount } druhich sydłach
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

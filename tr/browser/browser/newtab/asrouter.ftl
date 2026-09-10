@@ -62,7 +62,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Yer imlerinize her yerden ulaşın.
-cfr-doorhanger-bookmark-fxa-body = Bu yer imine mobil cihazlarınızdan da ulaşmak istemez miydiniz? Hemen { -fxaccount-brand-name } açın.
 cfr-doorhanger-bookmark-fxa-body-2 = Bu yer imine mobil cihazlarınızdan da ulaşmak istemez miydiniz? Hemen hesap açın.
 cfr-doorhanger-bookmark-fxa-link-text = Yer imlerini eşitle…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -75,12 +74,6 @@ fxa-adoption-credit-cards-backup-subtitle = Ödeme yöntemlerinizi şifreleyip d
 fxa-adoption-bookmarks-treatment-backup-title = Yer imlerinizi yedekleyelim
 fxa-adoption-bookmarks-treatment-backup-subtitle = Yer imlerinizi şifreleyip diğer cihazlarınızla eşitleyerek onları koruyabilirsiniz.
 fxa-adoption-primary-button-label = Kaydol
-
-## Protections panel
-
-cfr-protections-panel-header = Takip edilmeden gezin
-cfr-protections-panel-body = Verileriniz sizde kalsın. { -brand-short-name }, internette ne yaptığınızı öğrenmeye çalışan takip kodlarının çoğundan sizi korur.
-cfr-protections-panel-link-text = Daha fazla bilgi alın
 
 ## What's New toolbar button and panel
 
@@ -176,42 +169,8 @@ mr2022-background-update-toast-primary-button-label = { -brand-shorter-name }’
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Daha sonra hatırlat
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Deneyin
-    .accesskey = D
-firefoxview-cfr-secondarybutton = Şimdi değil
-    .accesskey = m
-firefoxview-cfr-header-v2 = Kaldığınız yerden hızlıca devam edin
-firefoxview-cfr-body-v2 = { -firefoxview-brand-name } ile yakın zamanda kapattığınız sekmeleri geri getirebilir ve cihazlarınız arasında kolayca geçiş yapabilirsiniz.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = { -firefoxview-brand-name }’a merhaba deyin
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Telefonunuzdan baktığınız sayfayı görmek mi istiyorsunuz? Az önce ziyaret ettiğiniz siteye geri dönmeniz mi gerekiyor? { -firefoxview-brand-name } ile hepsi yanınızda.
-firefoxview-spotlight-promo-primarybutton = Nasıl çalıştığını görün
-firefoxview-spotlight-promo-secondarybutton = Geç
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Renk kuşağını seç
-    .accesskey = R
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Kültürü değiştiren seslerden ilham alan { -brand-short-name } renkleriyle tarayıcınızı renklendirin.
-colorways-cfr-header-28days = Bağımsız Sesler renk kuşakları 16 Ocak’ta kullanımdan kalkıyor
-colorways-cfr-header-14days = Bağımsız Sesler renk kuşakları iki hafta sonra kullanımdan kalkıyor
-colorways-cfr-header-7days = Bağımsız Sesler renk kuşakları bu hafta kullanımdan kalkıyor
-colorways-cfr-header-today = Bağımsız Sesler renk kuşakları bugün kullanımdan kalkıyor
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = { -brand-short-name } çerez bildirimlerini reddedebilsin mi?
-cfr-cbh-body = { -brand-short-name } birçok çerez bildirimi isteğini otomatik olarak reddedebilir.
-cfr-cbh-confirm-button = Çerez bildirimlerini reddet
-    .accesskey = r
-cfr-cbh-dismiss-button = Şimdi değil
-    .accesskey = m
 cookie-banner-blocker-onboarding-header = { -brand-short-name } sizin için bir çerez bildirimini reddetti
 cookie-banner-blocker-onboarding-body = Bu site dikkatinizi daha az dağıtacak, çerezler sizi daha az izleyecek.
 cookie-banner-blocker-onboarding-learn-more = Daha fazla bilgi alın

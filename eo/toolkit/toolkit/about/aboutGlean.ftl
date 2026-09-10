@@ -47,15 +47,12 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-additional-links = Oni trovas klarigon pri la malsamaj manieron registri kaj trovi datumojn en la langeto <strong>Pri datumoj</strong>.
-about-glean-about-testing-header = Pri testoj
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     La <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } dokumentoj pri instrumentadaj testoj</a> kaj
     la <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } dokumentaro</a> enhavas kompletajn instrukciojn, sed mallonge dirite, por kontroli ĉu via instrumentado funkcias vi devus:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (sendi neniun ping-on)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = En la antaŭa kampo, certu ke estas memorebla erarserĉila etikedo, tiel ke vi povos poste rekoni viajn ping-ojn.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Elekti memoreblan senerarigilan etikedon <span>(20 signoj aŭ malpli, nur literoj kaj ciferoj)</span> tiel ke vi povos poste rekoni viajn ping.
 # An in-line drop down list precedes this string.
@@ -77,8 +74,6 @@ about-glean-label-for-controls-submit =
 about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Vizitu la paĝon de { glean-debug-ping-viewer-brand-name } por vidi ping-ojn kun via etikedo</a>.
     Inter la premo de la butono kaj la alveno de via ping ne devus pasi pli ol kelkaj sekundoj. Kelkfoje tio povus postuli kelkajn minutojn.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation = Por pli specifaj testoj, vi ankaŭ povas determini la nunan valoron de iu instrumento per malfermo de konzolo de programistoj ĉi tie en <code>about:glean</code> kaj uzo de la API <code>testGetValue()</code>, ekzemple <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 = Por pli specifaj testoj, vi ankaŭ povas determini la nunan valoron de iu instrumento per malfermo de konzolo de programistoj ĉi tie en <code>about:glean</code> kaj uzo de la API <code>testGetValue()</code>, ekzemple <code>Glean.metricCategory.metricName.testGetValue()</code> por mezuro nomita <code>metric.category.metric_name</code>.
 # Do not translate strings between <code> </code> tags.
@@ -155,7 +150,6 @@ about-glean-no-data-to-display = Neniu datumo montrebla.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code> statistikoj ne estas ankoraŭ subtenataj en la video de <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Nekonata tipo de statistiko.
-about-glean-about-data-explanation = Por vidi la liston de kolektitaj datumoj, bonvolu konsulti la <a data-l10n-name="glean-dictionary-link">vortaron de { -glean-brand-name }</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

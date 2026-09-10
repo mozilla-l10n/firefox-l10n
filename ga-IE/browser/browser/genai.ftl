@@ -14,8 +14,6 @@ genai-input-ask-provider =
 
 ## Chatbot header
 
-genai-header-options-button =
-    .title = Oscail an roghchlár
 genai-header-close-button =
     .title = Dún
 
@@ -31,12 +29,6 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-select-primary = Tosaigh an comhrá
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-lechat-price = Tá cuntas in aisce ag teastáil
 
 ## Model Optin Component
 

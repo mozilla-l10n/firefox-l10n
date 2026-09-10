@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Caută parole
-    .key = F
     .aria-label = Caută parole
+    .key = F
+    .placeholder = Caută parole
 contextual-manager-menu-more-options-button =
     .title = Mai multe opțiuni
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Importă dintr-un fișier…
 contextual-manager-passwords-command-export = Exportă parolele
 contextual-manager-passwords-command-remove-all = Elimină toate parolele
 contextual-manager-passwords-command-options = Opțiuni
-contextual-manager-passwords-command-settings = Setări
 contextual-manager-passwords-command-help = Ajutor
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Parole importate
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Noi: { $added }, Actualizate: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -219,8 +214,6 @@ contextual-manager-passwords-create-label =
     .label = Adaugă parola
 contextual-manager-passwords-update-label =
     .label = Actualizează parola
-contextual-manager-passwords-edit-label =
-    .label = Editează parola
 contextual-manager-passwords-remove-label =
     .title = Elimină parola
 contextual-manager-passwords-origin-field =
@@ -236,7 +229,6 @@ contextual-manager-passwords-password-field-description = Introdu parola ca să 
 contextual-manager-passwords-origin-tooltip = Introdu adresa exactă de la unde te vei autentifica pe acest site.
 contextual-manager-passwords-username-tooltip = Introdu numele de utilizator, adresa de e-mail sau numărul de cont pe care îl/o utilizezi pentru autentificare.
 contextual-manager-passwords-password-tooltip-2 = Introdu parola ca să intri în cont.
-contextual-manager-passwords-password-tooltip = Introdu parola utilizată pentru autentificarea în acest cont.
 
 ## Password Card
 
@@ -283,10 +275,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Copiază parola (Avertisment)
 contextual-manager-edit-login-button = Editează
     .tooltiptext = Editează parola
-contextual-manager-view-alert-heading =
-    .heading = Vezi alerta
-contextual-manager-view-alert-button =
-    .tooltiptext = Revezi alerta
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -313,13 +301,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Nu s-au găsit parole
 contextual-manager-passwords-no-passwords-found-message-2 = Încearcă alt termen de căutare și caută din nou.
-contextual-manager-passwords-no-passwords-found-message = Nu s-au găsit parole. Caută un alt termen și încearcă din nou.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Salvează-ți parolele într-un loc sigur.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Toate parolele sunt criptate și vom fi atenți la încălcarea securității datelor și la alerte dacă te afectează.

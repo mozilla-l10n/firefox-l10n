@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = এই পৃষ্ঠাখন অনুবাদ কৰক
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = অনুবাদ প্ৰগতিশীল অৱস্থাত আছে
 translations-panel-settings-button =
     .aria-label = অনুবাদৰ ছেটিংছ পৰিচালনা কৰক
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } বিটা
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = ভাষা পৰিচালনা কৰক
-translations-panel-settings-about = { -brand-shorter-name }-ত অনুবাদ সম্বন্ধে সবিশেষ
 translations-panel-settings-about2 =
     .label = { -brand-shorter-name }-ত অনুবাদ সম্বন্ধে সবিশেষ
 # Text displayed for the option to always translate a given language
@@ -83,14 +74,6 @@ translations-panel-error-dismiss-button =
     .label = বুজিলোঁ
 translations-panel-error-change-button =
     .label = উৎস-ভাষা সলাওক
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = ক্ষমা কৰিব, আমি এতিয়াও { $language } ভাষা সমৰ্থন নকৰোঁ।
-translations-panel-error-unsupported-hint-unknown = ক্ষমা কৰিব, আমি এতিয়াও এই ভাষা সমৰ্থন নকৰোঁ।
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -122,22 +105,17 @@ translations-manage-header = অনুবাদবোৰ
 translations-manage-settings-button =
     .label = ছেটিংছ…
     .accesskey = t
-translations-manage-description = অফলাইন অনুবাদৰ বাবে ভাষা ডাউনল’ড কৰক।
-translations-manage-all-language = সকলো ভাষা
-translations-manage-download-button = ডাউনল’ড কৰক
-translations-manage-delete-button = মচক
 translations-manage-language-remove-button =
     .label = আঁতৰাওক
 translations-manage-language-remove-all-button =
     .label = সকলো আঁতৰাওক
     .accesskey = e
 translations-manage-error-download = ভাষাৰ ফাইলবোৰ ডাউনল’ড কৰোঁতে কিবা সমস্যা হৈছে। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।
-translations-manage-error-delete = ভাষাৰ ফাইলবোৰ মচোঁতে কিবা ত্ৰুটি ঘটিছে। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।
 translations-manage-error-remove = ভাষাৰ ফাইলবোৰ আঁতৰাওঁতে কিবা ত্ৰুটি ঘটিছে। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।
 translations-manage-error-list = অনুবাদৰ বাবে উপলব্ধ ভাষাৰ তালিকা পোৱাত বিফল। পুনৰ চেষ্টা কৰিবলৈ পৃষ্ঠাখন সতেজ কৰক।
 translations-settings-title =
-    .title = অনুবাদৰ ছেটিংছ
     .style = min-width: 36em
+    .title = অনুবাদৰ ছেটিংছ
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = এইকেইটা ভাষাৰ ক্ষেত্ৰত অনুবাদ স্বয়ংক্ৰিয়ভাৱে হ’ব
@@ -171,13 +149,3 @@ select-translations-panel-try-again-button =
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = অনুবাদ কৰোঁতে কিবা সমস্যা হৈছে। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = ক্ষমা কৰিব, আমি এতিয়াও { $language } ভাষা সমৰ্থন নকৰোঁ।
-select-translations-panel-unsupported-language-message-unknown =
-    .message = ক্ষমা কৰিব, আমি এতিয়াও এই ভাষা সমৰ্থন নকৰোঁ।

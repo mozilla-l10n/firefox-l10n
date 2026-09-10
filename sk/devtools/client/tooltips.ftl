@@ -35,7 +35,6 @@ inactive-css-first-line-pseudo-element-not-supported = Vlastnosť <strong>{ $pro
 inactive-css-first-letter-pseudo-element-not-supported = Vlastnosť <strong>{ $property }</strong> nie je podporovaná na pseudoprvkoch ::first-letter.
 inactive-css-placeholder-pseudo-element-not-supported = Vlastnosť <strong>{ $property }</strong> nie je podporovaná na pseudoprvkoch ::placeholder.
 inactive-css-property-because-of-display = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože tento má nastavenú vlastnosť display na hodnotu <strong>{ $display }</strong>.
-inactive-css-not-display-block-on-floated = Hodnota vlastnosti <strong>display</strong> bola vykresľovačom zmenená na <strong>block</strong>, pretože prvok je <strong>plávajúci</strong>.
 inactive-css-not-display-block-on-floated-2 = Hodnota vlastnosti <strong>display</strong> bola vykresľovačom zmenená na <strong>{ $display }</strong>, pretože prvok je <strong>plávajúci</strong>.
 inactive-css-only-non-grid-or-flex-item = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože ju nemožno použiť na položky typu flex alebo grid.
 inactive-css-not-block = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože sa vzťahuje iba na prvky na úrovni bloku.
@@ -56,16 +55,6 @@ inactive-scroll-padding-when-not-scroll-container = Vlastnosť <strong>{ $proper
 inactive-css-border-image = Vlastnosť <strong>{ $property }</strong> nemá žiadny vplyv na tento prvok, pretože ju nemožno použiť na interné prvky tabuľky, kde je vlastnosť <strong>border-collapse</strong> na nadradenom prvku tabuľky nastavená na hodnotu <strong>collapse</strong>.
 inactive-css-resize = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože ju možno použiť iba na prvky s inou hodnotou pretečenia ako "visible" a na určité nahradené prvky, ako sú textové oblasti.
 inactive-css-ruby-element = Vlastnosť <strong>{ $property }</strong> nemá žiadny vplyv na tento prvok, pretože je to prvok ruby. Jeho veľkosť je určená veľkosťou písma textu prvku ruby.
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> nie je podporované na zvýraznených pseudoprvkoch.
 inactive-css-cue-pseudo-element-not-supported = Vlastnosť <strong>{ $property }</strong> nie je podporovaná na pseudoprvkoch ::cue.
 inactive-css-at-position-try-not-supported = Vlastnosť <strong>{ $property }</strong> nie je podporovaná v pravidlách <strong>@position-try</strong>.

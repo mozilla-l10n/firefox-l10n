@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = חזרה
 neterror-return-to-previous-page-recommended-button = חזרה (מומלץ)
 neterror-try-again-button-2 = ניסיון חוזר
     .accesskey = נ
-neterror-try-again-button = נסה שוב
 neterror-add-exception-button = תמיד להמשיך עבור אתר זה
 neterror-settings-button = שינוי הגדרות DNS
 neterror-view-certificate-link = הצגת אישור
-neterror-trr-continue-this-time = להמשיך רק הפעם
-neterror-disable-native-feedback-warning = תמיד להמשיך
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = מידע נוסף
 ##
 
 neterror-pref-reset = נראה שהגדרות אבטחת הרשת שלך עשוי לגרום לכך. האם ברצונך לשחזר להגדרות ברירת מחדל?
-neterror-error-reporting-automatic = דיווח על תקלות מסוג זה כדי לסייע ל־{ -vendor-short-name } לזהות ולחסום אתרים מסוכנים
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = להתנתק ולהתחבר מח
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = ‏{ -brand-short-name } לא יכול להגן על הבקשה שלך עבור כתובת אתר זה באמצעות מפענח ה־DNS המהימן שלנו. הנה הסיבה:
 neterror-dns-not-found-trr-only-reason2 = ‏{ -brand-short-name } לא יכול להגן על הבקשה שלך עבור כתובת אתר זה באמצעות ספק ה־DNS המאובטח שלנו. הנה הסיבה:
 neterror-dns-not-found-trr-third-party-warning2 = באפשרותך להמשיך עם מפענח ה־DNS ברירת המחדל שלך. עם זאת, ייתכן שגורם מצד שלישי יוכל לראות באילו אתרים אתה מבקר.
 neterror-dns-not-found-trr-only-could-not-connect = ‏{ -brand-short-name } לא הצליח להתחבר אל { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = החיבור אל { $trrDomain } ארך זמן רב מהצפוי.
-neterror-dns-not-found-trr-offline = אין חיבור לאינטרנט.
 neterror-dns-not-found-trr-unknown-host2 = אתר זה לא נמצא על־ידי { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = הייתה בעיה עם { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = כתובת לא תקנית.
 neterror-dns-not-found-system-sleep = המערכת נמצאת במצב שינה.
 neterror-dns-not-found-trr-unknown-problem = בעיה לא צפויה.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = ‏{ -brand-short-name } לא יכול להגן על הבקשה שלך עבור כתובת אתר זה באמצעות מפענח ה־DNS המהימן שלנו. הנה הסיבה:
-neterror-dns-not-found-native-fallback-heuristic = ‏DNS over HTTPS הושבת ברשת שלך.
-neterror-dns-not-found-native-fallback-not-confirmed2 = ‏{ -brand-short-name } לא הצליח להתחבר אל { $trrDomain }.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = ייתכן שהקובץ הוסר, הועבר או שה�
 neterror-unknown-protocol = ייתכן שיהיה צורך להתקין יישום אחר כדי לפתוח כתובת זו.
 neterror-redirect-loop = בעיה זו נגרמת לעיתים מסירוב לקבל עוגיות או ניטרולן.
 neterror-unknown-socket-type-client-config = ייתכן שזה נובע משגיאת תצורה עם הלקוח שלך.
-neterror-unknown-socket-type-psm-installed = ודא כי מותקן על המערכת שלך מנהל האבטחה האישי.
-neterror-unknown-socket-type-server-config = ייכתן וההגדרות השרת אינן תקניות
 neterror-not-cached-intro = המסמך המבוקש לא זמין במטמון של { -brand-short-name }.
 neterror-not-cached-sensitive = כאמצעי זהירות, { -brand-short-name } לא יבקש שוב אוטומטית מסמכים רגישים.
 neterror-not-cached-try-again = לחץ נסה שוב כדי לבקש מחדש את המסמך מאתר האינטרנט.

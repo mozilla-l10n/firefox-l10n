@@ -30,15 +30,3 @@ extension-default-theme-description2 = لون رمادي بنفسجي متواز
 # Name for a neutral gray-purple theme. Conveys a standard, default look. Not a
 # color word; translate the sense of "standard."
 extension-default-theme-name2 = المبدئي
-
-## Colorway Themes
-## These themes are variants of a colorway. The colorway is specified in the
-## $colorway-name variable.
-## Variables
-##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
-
-extension-colorways-soft-name = { $colorway-name } — ناعم
-extension-colorways-balanced-name = { $colorway-name } — متوازن
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-extension-colorways-bold-name = { $colorway-name } — غامق

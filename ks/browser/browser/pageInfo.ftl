@@ -94,7 +94,6 @@ media-unknown-not-cached =
     .value = نامولول(چھُ نئ كیشڈ)
 permissions-use-default =
     .label = ڈیفالٹ كریو استیمال
-security-no-visits = نئ
 # This string is used to display the type of
 # an image
 # Variables:

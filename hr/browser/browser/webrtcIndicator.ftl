@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } – indikator dijeljenja
-webrtc-indicator-window =
-    .title = { -brand-short-name } – indikator dijeljenja
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Dijeliš svoj mikrofon. Klikni za upravljanje dijeljenjem.
 webrtc-screen-system-menu =
     .label = Dijeliš prozor ili ekran. Klikni za upravljanje dijeljenjem.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Tvoja kamera i mikrofon se dijele. Klikni za upravljanje dijeljenjem.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Tvoja kamera se dijeli. Klikni za upravljanje dijeljenjem.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Tvoj mikrofon se dijeli. Klikni za upravljanje dijeljenjem.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Aplikacija se dijeli. Klikni za upravljanje dijeljenjem.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Tvoj ekran se dijeli. Klikni za upravljanje dijeljenjem.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Prozor se dijeli. Klikni za upravljanje dijeljenjem.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Kartica se dijeli. Klikni za upravljanje dijeljenjem.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -191,7 +172,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Dopustiti strani
 
 webrtc-share-screen-warning = Dijeli ekrane samo s web-stranicama kojima vjeruješ. Dijeljenje može dozvoliti obmanjujućim web-stranicama da pregledavaju kao i ti, te ukrasti tvoje privatne podatke.
 webrtc-share-browser-warning = Dijeli { -brand-short-name } samo s web-stranicama kojima vjeruješ. Dijeljenje može dozvoliti obmanjujućim web-stranicama da pregledavaju kao ti, te ukrasti tvoje privatne podatke.
-webrtc-share-screen-learn-more = Saznaj više
 webrtc-pick-window-or-screen = Odaberi prozor ili ekran
 webrtc-share-entire-screen = Cijeli ekran
 webrtc-share-pipe-wire-portal = Koristi postavke operacijskog sustava

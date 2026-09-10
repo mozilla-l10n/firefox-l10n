@@ -60,7 +60,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = ซิงค์ที่คั่นหน้าของคุณได้ทุกที่
-cfr-doorhanger-bookmark-fxa-body = เยี่ยมมาก! ตอนนี้อย่าออกไปโดยไม่มีที่คั่นหน้านี้บนอุปกรณ์มือถือของคุณ เริ่มต้นกับ { -fxaccount-brand-name }
 cfr-doorhanger-bookmark-fxa-body-2 = เยี่ยมมาก! ตอนนี้อย่าเพิ่งออกไปโดยไม่มีที่คั่นหน้านี้บนมือถือของคุณ เริ่มต้นด้วยการสร้างบัญชีใหม่เลย
 cfr-doorhanger-bookmark-fxa-link-text = ซิงค์ที่คั่นหน้าของคุณตอนนี้…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -73,12 +72,6 @@ fxa-adoption-credit-cards-backup-subtitle = ปกป้องวิธีกา
 fxa-adoption-bookmarks-treatment-backup-title = มาสำรองที่คั่นหน้าของคุณกันเถอะ
 fxa-adoption-bookmarks-treatment-backup-subtitle = ปกป้องที่คั่นหน้าของคุณด้วยการซิงค์กับอุปกรณ์ต่าง ๆ พร้อมการเข้ารหัสลับ
 fxa-adoption-primary-button-label = ลงทะเบียน
-
-## Protections panel
-
-cfr-protections-panel-header = เรียกดูโดยไม่ต้องมีใครมาติดตาม
-cfr-protections-panel-body = เก็บข้อมูลของคุณไว้กับตัวคุณเอง { -brand-short-name } ปกป้องคุณจากตัวติดตามที่พบบ่อยที่สุดซึ่งติดตามสิ่งที่คุณทำทางออนไลน์
-cfr-protections-panel-link-text = เรียนรู้เพิ่มเติม
 
 ## What's New toolbar button and panel
 
@@ -173,42 +166,8 @@ mr2022-background-update-toast-primary-button-label = เปิด { -brand-shor
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = เตือนฉันภายหลัง
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = ลองดู
-    .accesskey = ล
-firefoxview-cfr-secondarybutton = ไม่ใช่ตอนนี้
-    .accesskey = ม
-firefoxview-cfr-header-v2 = ทำต่อจากจุดที่คุณค้างไว้อย่างรวดเร็ว
-firefoxview-cfr-body-v2 = นำแท็บที่ปิดไปล่าสุดกลับมา รวมทั้งสลับไปมาระหว่างอุปกรณ์ได้อย่างราบรื่นด้วย { -firefoxview-brand-name }
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = ทำความรู้จัก { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = ต้องการให้แท็บที่เปิดไว้มาอยู่บนโทรศัพท์ของคุณหรือเปล่า เอามันมาเลยสิ ต้องการไซต์นั้นที่คุณเพิ่งเข้าชมไปหรือเปล่า ปิ๊ง มันกลับมาแล้วใน { -firefoxview-brand-name }
-firefoxview-spotlight-promo-primarybutton = ดูวิธีการทำงาน
-firefoxview-spotlight-promo-secondarybutton = ข้าม
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = เลือกชุดรูปแบบสี
-    .accesskey = ล
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = แต่งเติมสีสันให้กับเบราว์เซอร์ของคุณด้วยเฉดสีสุดพิเศษสำหรับ { -brand-short-name } ที่ได้แรงบันดาลใจจากเสียงที่เปลี่ยนแปลงวัฒนธรรม
-colorways-cfr-header-28days = ชุดรูปแบบสี Independent Voices จะหมดเขต 16 มกราคมนี้
-colorways-cfr-header-14days = ชุดรูปแบบสี Independent Voices จะหมดเขตในอีกสองสัปดาห์นี้
-colorways-cfr-header-7days = ชุดรูปแบบสี Independent Voices จะหมดเขตสัปดาห์นี้
-colorways-cfr-header-today = ชุดรูปแบบสี Independent Voices จะหมดเขตวันนี้
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = อนุญาตให้ { -brand-short-name } ปฏิเสธแบนเนอร์คุกกี้หรือไม่?
-cfr-cbh-body = { -brand-short-name } สามารถปฏิเสธคำขอคุกกี้จำนวนมากได้โดยอัตโนมัติ
-cfr-cbh-confirm-button = ปฏิเสธแบนเนอร์คุกกี้
-    .accesskey = ป
-cfr-cbh-dismiss-button = ไม่ใช่ตอนนี้
-    .accesskey = ม
 cookie-banner-blocker-onboarding-header = { -brand-short-name } ได้ปฏิเสธแบนเนอร์คุกกี้ให้คุณเมื่อสักครู่นี้
 cookie-banner-blocker-onboarding-body = ลดคุกกี้ที่คอยติดตามคุณบนไซต์นี้ให้น้อยลง เพื่อลดการรบกวนสมาธิ
 cookie-banner-blocker-onboarding-learn-more = เรียนรู้เพิ่มเติม

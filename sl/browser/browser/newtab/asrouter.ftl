@@ -66,7 +66,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Sinhronizirajte zaznamke povsod.
-cfr-doorhanger-bookmark-fxa-body = Odlično! Vzemite ta zaznamek še na mobilno napravo. Začnite s { -fxaccount-brand-name }om.
 cfr-doorhanger-bookmark-fxa-body-2 = Odlično! Želite ta zaznamek tudi na mobilni napravi? Začnite z računom.
 cfr-doorhanger-bookmark-fxa-link-text = Sinhroniziraj zaznamke zdaj …
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -79,12 +78,6 @@ fxa-adoption-credit-cards-backup-subtitle = Zaščitite svoje načine plačila, 
 fxa-adoption-bookmarks-treatment-backup-title = Varnostno kopirajmo zaznamke
 fxa-adoption-bookmarks-treatment-backup-subtitle = Zavarujte svoje zaznamke pred izgubo, tako da jih šifrirane sinhronizirate s svojimi drugimi napravami.
 fxa-adoption-primary-button-label = Prijava
-
-## Protections panel
-
-cfr-protections-panel-header = Brskajte brez sledenja
-cfr-protections-panel-body = Obdržite svoje podatke zase. { -brand-short-name } vas ščiti pred številnimi najpogostejšimi sledilci, ki sledijo vašemu brskanju po spletu.
-cfr-protections-panel-link-text = Več o tem
 
 ## What's New toolbar button and panel
 
@@ -182,42 +175,8 @@ mr2022-background-update-toast-primary-button-label = Odpri { -brand-shorter-nam
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Opomni me kasneje
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Preizkusite ga
-    .accesskey = P
-firefoxview-cfr-secondarybutton = Ne zdaj
-    .accesskey = N
-firefoxview-cfr-header-v2 = Preprosto nadaljujte, kjer ste končali
-firefoxview-cfr-body-v2 = Obnovite nedavno zaprte zavihke in nemoteno preskakujte med napravami s { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Spoznajte { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Želite zavihek, ki ga imate odprtega na telefonu? Na dosegu roke. Potrebujete zavihek, ki ste ga pravkar zaprli? Čaka vas v { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Oglejte si, kako deluje
-firefoxview-spotlight-promo-secondarybutton = Preskoči
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Izberi barvno kombinacijo
-    .accesskey = I
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Obarvajte svoj brskalnik v ekskluzivne { -brand-short-name }ove odtenke, navdihnjene z glasovi, ki so spreminjali kulturo.
-colorways-cfr-header-28days = Barvne kombinacije Neodvisni glasovi potečejo 16. januarja
-colorways-cfr-header-14days = Barvne kombinacije Neodvisni glasovi potečejo čez dva tedna
-colorways-cfr-header-7days = Barvne kombinacije Neodvisni glasovi potečejo ta teden
-colorways-cfr-header-today = Barvne kombinacije Neodvisni glasovi potečejo danes
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Dovolite { -brand-short-name(sklon: "dajalnik") }, da zavrača pasice s piškotki?
-cfr-cbh-body = { -brand-short-name } lahko samodejno zavrne številne zahteve za shranjevanje piškotkov.
-cfr-cbh-confirm-button = Zavračaj pasice s piškotki
-    .accesskey = Z
-cfr-cbh-dismiss-button = Ne zdaj
-    .accesskey = N
 cookie-banner-blocker-onboarding-header = { -brand-short-name } je za vas pravkar zavrnil pasico s piškotki
 cookie-banner-blocker-onboarding-body = Manj motenj in manj piškotkov, ki vam sledijo po tem spletnem mestu.
 cookie-banner-blocker-onboarding-learn-more = Več o tem

@@ -27,17 +27,13 @@ neterror-return-to-previous-page-button = Kthehu Mbrapsht
 neterror-return-to-previous-page-recommended-button = Shkoni Mbrapsht (E këshilluar)
 neterror-try-again-button-2 = Riprovoni
     .accesskey = R
-neterror-try-again-button = Riprovoni
 neterror-add-exception-button = Vazhdo përherë për këtë sajt
 neterror-settings-button = Ndryshoni rregullime DNS
 neterror-view-certificate-link = Shihni Dëshmi
-neterror-trr-continue-this-time = Vazhdoje këtë herë
-neterror-disable-native-feedback-warning = Vazhdoje përherë
 
 ##
 
 neterror-pref-reset = Duket se kjo shkaktohet nga rregullimet tuaja për sigurinë e rrjetit. Doni të rikthehen rregullimet parazgjedhje?
-neterror-error-reporting-automatic = Raportoni gabime si ky, që të ndihmoni { -vendor-short-name }-n të identifikojë dhe bllokojë sajte dashakeqë
 
 ## Specific error messages
 
@@ -70,25 +66,15 @@ neterror-dns-not-found-offline-hint-reconnect = Shkëputuni dhe rilidhuni me Wi-
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name }-i s’mund ta mbrojë kërkesën tuaj për këtë adresë sajti përmes ftilluesit tonë të besuar për DNS. Ja pse:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name }-i s’mund ta mbrojë kërkesën tuaj për këtë adresë sajti përmes ftilluesit tonë të siguruar për DNS. Ja pse:
 neterror-dns-not-found-trr-third-party-warning2 = Mund të vazhdoni me ftilluesin tuaj parazgjedhje të DNS-ve. Por, një palë e tretë mund të jetë në gjendje të shohë cilat sajte vizitoni.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name }-i s’qe në gjendje të lidhet me { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Lidhja me { $trrDomain } zgjati më shumë se ç’pritej.
-neterror-dns-not-found-trr-offline = S’jeni i lidhur në internet.
 neterror-dns-not-found-trr-unknown-host2 = Ky sajt s’u gjet nga { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Pati një problem me { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = URL e pavlefshme.
 neterror-dns-not-found-system-sleep = Sistemi gjendet nën mënyrën dremitje.
 neterror-dns-not-found-trr-unknown-problem = Problem i papritur.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name }-i s’mund ta mbrojë kërkesën tuaj për këtë adresë sajti përmes ftilluesit tonë të besuar për DNS. Ja pse:
-neterror-dns-not-found-native-fallback-heuristic = DNS përmes HTTPS është çaktivizuar në rrjetin tuaj.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name }-i s’qe në gjendje të lidhet me { $trrDomain }.
 
 ##
 
@@ -98,8 +84,6 @@ neterror-access-denied = Kartela mund të jetë hequr, lëvizur, ose hyrjen e pe
 neterror-unknown-protocol = Mund t'ju duhet të instaloni tjetër program për të hapur këtë adresë.
 neterror-redirect-loop = Ndonjëherë ky problem mund të shkaktohet nga çaktivizim ose mospranim cookie-sh.
 neterror-unknown-socket-type-client-config = Kjo mund të vijë nga një gabim formësimi me klientin tuaj.
-neterror-unknown-socket-type-psm-installed = Kontrolloni për t'u siguruar që sistemi juaj ka të instaluar Përgjegjësin e Sigurisë Vetjake.
-neterror-unknown-socket-type-server-config = Kjo mund të vijë nga një formësim jostandard te shërbyesi.
 neterror-not-cached-intro = Dokumenti i kërkuar nuk gjendet më te fshehtina e { -brand-short-name }-it.
 neterror-not-cached-sensitive = Si një masë parandaluese sigurie, { -brand-short-name }-i nuk rikërkon vetvetiu dokumente rezervat.
 neterror-not-cached-try-again = Që ta rikërkoni dokumentin prej sajtit, klikoni mbi Riprovoni.

@@ -32,7 +32,6 @@ sidebar-history-clear =
     .label = Hapus riwayat
 sidebar-history-sort-by-heading-menucaption =
     .label = Urut berdasarkan:
-sidebar-history-sort-by-heading = Urut berdasarkan:
 sidebar-history-sort-option-date =
     .label = Tanggal
 sidebar-history-sort-option-site =
@@ -52,14 +51,9 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Ekstensi bilah sisi
-sidebar-customize-firefox-tools-header =
-    .label = Alat { -brand-product-name }
 sidebar-customize-firefox-settings = Kelola pengaturan { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Tab vertikal
-sidebar-settings =
-    .label = Pengaturan bilah samping
 sidebar-hide-tabs-and-sidebar =
     .label = Sembunyikan tab dan bilah samping
 sidebar-show-on-the-right =
@@ -75,8 +69,6 @@ expand-sidebar-on-hover =
 
 sidebar-context-menu-manage-extension =
     .label = Kelola ekstensi
-sidebar-context-menu-remove-extension =
-    .label = Hapus ekstensi
 sidebar-context-menu-report-extension =
     .label = Laporkan ekstensi
 sidebar-context-menu-open-in-tab =

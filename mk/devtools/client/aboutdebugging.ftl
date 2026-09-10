@@ -5,12 +5,6 @@
 
 ### These strings are used inside the about:debugging UI.
 
-
-# Page Title strings
-
-
-# Sidebar strings
-
 # Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
 about-debugging-sidebar-usb-enabled = УСБ е овозможено
 # Text displayed in the about:debugging sidebar when USB devices discovery is disabled
@@ -35,9 +29,6 @@ about-debugging-sidebar-runtime-item-name =
 #   $displayName (string) - Displayed name
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
-
-# Setup Page strings
-
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Поврзете уред
 # USB section of the Setup page
@@ -51,9 +42,6 @@ about-debugging-network-locations-add-button = Додај
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Отстрани
-
-# Runtime Page strings
-
 # Title of the tabs category.
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-tabs =
@@ -62,9 +50,6 @@ about-debugging-runtime-tabs =
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
 about-debugging-runtime-name = { $name } ({ $version })
-
-# Debug Targets strings
-
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Отстрани

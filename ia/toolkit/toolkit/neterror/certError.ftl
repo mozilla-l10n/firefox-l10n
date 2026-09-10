@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Le certificato non es digne de fide perque l
 cert-error-trust-signature-algorithm-disabled = Le certificato non es digne de fide perque illo ha essite signate con un algorithmo de signatura que ha essite disactivate perque ille algorithmo non es secur.
 cert-error-trust-expired-issuer = Le certificato non es digne de fide perque le certificato del emissor ha expirate.
 cert-error-trust-self-signed = Le certificato non es digne de fide perque illo es auto-signate.
-cert-error-trust-symantec = Le certificatos emittite per GeoTrust, RapidSSL, Symantec, Thawte e VeriSign non es plus considerate secur perque iste autoritates de certification ha fallite de sequer le practicas de securitate in le passato.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } non confide in { $hostname } perque illo non poteva provar que illo satisface le public requisitos de transparentia del certificato.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Codice de error: <a data-l10n-name="error-code-lin
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Un error ha occurrite durante un connexion a { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Le sitos web garanti lor identitate per certificatos, le quales es emittite per autoritates de certification. Le major parte del navigatores non confide plus in le certificatos emittite per GeoTrust, RapidSSL, Symantec, Thawte e VeriSign. { $hostname } usa un certificato de un de iste autoritates. Consequentemente, le identitate del sito web non pote esser garantite.
-cert-error-symantec-distrust-admin = Tu pote informar le administrator del sito web de iste problema.
 cert-error-old-tls-version = Iste sito web possibilemente non supporta le protocollo TLS 1.2, que es le minime version supportate per { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = Securitate stricte de transporto HTTP: { $hasHST
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Fixation de clave public HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Catena de certificatos:
-open-in-new-window-for-csp-or-xfo-error = Aperir sito in nove fenestra
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Pro proteger tu securitate, { $hostname } non permitte a { -brand-short-name } monstrar le pagina si un altere sito lo ha integrate. Pro vider iste pagina, tu debe aperir lo in un nove fenestra.
 fp-certerror-view-certificate-link = Vider le certificato del sito
 fp-certerror-return-to-previous-page-recommended-button-2 = Retroceder (Recommendate)
     .accesskey = R
-fp-certerror-return-to-previous-page-recommended-button = Retroceder (Recommendate)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -106,21 +99,21 @@ fp-certerror-self-signed-important-note = NOTA IMPORTANTE: si tu tenta visitar i
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = Le sitos usa certificatos emittite per un autoritate de certification pro provar que illos es realmente lo que illos dice esser. { -brand-short-name } non se fide de iste sito perque il pare que le certificato ha expirate le { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-expired-why-dangerous-body = Le sitos usa certificatos emittite per un autoritate de certification pro provar que illos es realmente lo que illos dice esser. { -brand-short-name } non se fide de iste sito perque il pare que le certificato ha expirate le { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = Le sitos usa certificatos emittite per un autoritate de certification pro provar que illos es realmente lo que illos dice esser. { -brand-short-name }  non se fide de iste sito perque il pare que le certificato non sera valide usque le { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-not-yet-valid-why-dangerous-body = Le sitos usa certificatos emittite per un autoritate de certification pro provar que illos es realmente lo que illos dice esser. { -brand-short-name }  non se fide de iste sito perque il pare que le certificato non sera valide usque le { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = Le horologio de tu apparato es regulate a { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Si isto es correcte, le problema de securitate es probabilemente con le sito mesme.
+fp-certerror-expired-what-can-you-do-body = Le horologio de tu apparato es regulate a { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Si isto es correcte, le problema de securitate es probabilemente con le sito mesme.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Codice de error: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -133,11 +126,11 @@ fp-learn-more-about-time-related-errors = Saper plus sur le resolution de proble
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name }non se fide de iste sito, perque il pare que le certificato fornite non es valide ante le { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } de { DATETIME($date, timeStyle: "short") }
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name }non se fide de iste sito, perque il pare que le certificato fornite non es valide ante le { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } de { DATETIME($date, timeStyle: "short") }
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Le horologio de tu apparato es configurate a { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Si isto es correcte, le problema de securitate es probabilemente con le sito mesme. Si illo es errate, tu pote cambiar illo in le parametros de systema de tu apparato.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Le horologio de tu apparato es configurate a { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Si isto es correcte, le problema de securitate es probabilemente con le sito mesme. Si illo es errate, tu pote cambiar illo in le parametros de systema de tu apparato.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -179,8 +172,6 @@ deniedPortAccess-title = Iste adresse es restringite
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Nos ha problemas a trovar iste sito.
 internet-connection-offline-title = Il pare haber un problema con tu connexion a internet.
-dns-not-found-trr-only-title2 = Possible risco de securitate cercante iste dominio
-dns-not-found-native-fallback-title2 = Possibile risco de securitate cercante in iste dominio
 fileNotFound-title = File non trovate
 fileAccessDenied-title = Le accesso al file ha essite refusate
 generic-title = Ups.
@@ -205,7 +196,6 @@ unknownSocketType-title = Responsa inexpectate del servitor
 nssFailure2-title = Connexion secur fallite
 csp-xfo-error-title = { -brand-short-name } non pote aperir iste pagina
 corruptedContentErrorv2-title = Error de contento corrupte
-corruptedContentError-title = Error de contento corrumpite
 sslv3Used-title = Incapace de connecter se securmente
 inadequateSecurityError-title = Tu connexion non es secur
 blockedByPolicy-title = Pagina blocate
@@ -228,7 +218,6 @@ fp-certerror-hide-advanced-button = Celar avantiate
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Continuar a { $hostname } (Riscose)
 fp-certerror-intro = { -brand-short-name } ha detegite un problema de securitate potentialmente grave con <strong>{ $hostname }</strong>. Alcuno que finge esser le sito poterea tentar robar cosas como informationes de carta de credito, contrasignos, o adresses de e-mail.
 fp-certerror-expired-into = { -brand-short-name } individuava un problema de securitate con <strong>{ $hostname }</strong>. O le sito non es implementate correctemente o le horologio de tu apparato es regulate al data/tempore errate.
 fp-certerror-transparency-intro = Alcuno que finge de esser <strong>{ $hostname }</strong> poterea tentar de robar cosas como informationes de carta de credito, contrasignos, o emails.

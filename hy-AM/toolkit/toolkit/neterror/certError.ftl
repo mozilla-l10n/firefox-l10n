@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Վկայագիրը վստահելի չէ, ո
 cert-error-trust-signature-algorithm-disabled = Վկայագիրը վստահելի չէ, որովհետև այն ստորագրվել է օգտագործելով ստորագրության հաշվեկարգ, որը անջատվել է, որովհետև այդ հաշվեկարգը անվտանգ չէ։
 cert-error-trust-expired-issuer = Վկայագիրը վստահելի չէ, քանի որ արտոնագիր տրամադրողի ժամկետը սպառվել է:
 cert-error-trust-self-signed = Վկայագիրը վստահելի չէ քանի որ այն ստորագրվել է իր իսկ կողմից:
-cert-error-trust-symantec = GeoTrust- ի, RapidSSL- ի, Symantec- ի, Thawte- ի և VeriSign- ի կողմից թողարկված վկայականներն այլևս անվտանգ չեն համարվում, քանի որ անցյալում արտոնացման այս մարմիններին չի հաջողվել հետևել անվտանգության ունակություններին:
 cert-error-untrusted-default = Վկայագիրը ստամադրող աղբյուրը վստահելի չէ:
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -53,17 +52,12 @@ cert-error-code-prefix-link = Սխալի կոդ՝ <a data-l10n-name="error-code-
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = { $hostname }-ի հետ կապակցման ժամանակ տեղի է ունեցել սխալ: { $errorMessage }
 # Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Վեբ կայքերը ապացուցում են իրենց ինքնությունը վկայականների միջոցով, որոնք թողարկվում են հավաստագրման մարմինների կողմից: Դիտարկիչների մեծ մասը այլևս չի վստահում GeoTrust- ի, RapidSSL- ի, Symantec- ի, Thawte- ի և VeriSign- ի կողմից թողարկված վկայագրերին: { $hostname } ն օգտագործում է վկայագիր այս իշխանություններից որևէ մեկի կողմից, ուստի կայքի ինքնությունը չի կարող ապացուցվել:
-cert-error-symantec-distrust-admin = Այս խնդրի մասին կարող եք տեղեկացնել վեբ կայքի համակարգավարին:
-# Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP խիստ փոխանցման անվտանգություն. { $hasHSTS }
 # Variables:
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Վկայագրի նպատակ.
-open-in-new-window-for-csp-or-xfo-error = Բացել կայքը նոր պատուհանում
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Ձեր անվտանգությունը պաշտպանելու համար { $hostname }-ը թույլ չի տա, որ { -brand-short-name }-ը ցուցադրի էջը, եթե մեկ այլ կայք ներկառուցել է այն: Այս էջը տեսնելու համար հարկավոր է այն բացել նոր պատուհանում:
@@ -73,15 +67,15 @@ fp-certerror-return-to-previous-page-recommended-button-2 = Գնալ ետ (խո�
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = Կայքերը օգտագործում են վկայագրման մարմնի կողմից տրված վկայագրեր՝ ապացուցելու համար, որ իրենք իրականում այն են, ինչ ներկայացնում են։ { -brand-short-name }-ը չի վստահում այս կայքին, քանի որ, կարծես թե, վկայագրի ժամկետը լրացել է { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }:
+fp-certerror-expired-why-dangerous-body = Կայքերը օգտագործում են վկայագրման մարմնի կողմից տրված վկայագրեր՝ ապացուցելու համար, որ իրենք իրականում այն են, ինչ ներկայացնում են։ { -brand-short-name }-ը չի վստահում այս կայքին, քանի որ, կարծես թե, վկայագրի ժամկետը լրացել է { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }:
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = Կայքերը օգտագործում են վկայագրման մարմնի կողմից տրված վկայագրեր՝ ապացուցելու համար, որ իրենք իրականում այն են, ինչ ներկայացնում են։ { -brand-short-name }-ը չի վստահում այս կայքին, քանի որ, կարծես թե, վկայագիրը վավեր չի լինի մինչև { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }:
+fp-certerror-not-yet-valid-why-dangerous-body = Կայքերը օգտագործում են վկայագրման մարմնի կողմից տրված վկայագրեր՝ ապացուցելու համար, որ իրենք իրականում այն են, ինչ ներկայացնում են։ { -brand-short-name }-ը չի վստահում այս կայքին, քանի որ, կարծես թե, վկայագիրը վավեր չի լինի մինչև { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }:
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = Ձեր սարքի ժամացույցը կարգավորված է { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }: Եթե սա ճիշտ է, անվտանգության խնդիրը, հավանաբար, կայքի մեջ է: Եթե այն սխալ է, կարող եք այն փոխել ձեր սարքի համակարգի կարգավորումներում:
+fp-certerror-expired-what-can-you-do-body = Ձեր սարքի ժամացույցը կարգավորված է { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }: Եթե սա ճիշտ է, անվտանգության խնդիրը, հավանաբար, կայքի մեջ է: Եթե այն սխալ է, կարող եք այն փոխել ձեր սարքի համակարգի կարգավորումներում:
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Սխալի կոդ՝ { $error }
@@ -89,7 +83,7 @@ fp-learn-more-about-time-related-errors = Իմացեք ավելին ժամանա
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Ձեր սարքի ժամացույցը կարգավորված է { DATETIME($date, timeStyle: "short") }{ DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }: Եթե սա ճիշտ է, անվտանգության խնդիրը, հավանաբար, կայքի մեջ է: Եթե այն սխալ է, կարող եք այն փոխել ձեր սարքի համակարգի կարգավորումներում:
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Ձեր սարքի ժամացույցը կարգավորված է { DATETIME($date, timeStyle: "short") }{ DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }: Եթե սա ճիշտ է, անվտանգության խնդիրը, հավանաբար, կայքի մեջ է: Եթե այն սխալ է, կարող եք այն փոխել ձեր սարքի համակարգի կարգավորումներում:
 
 ## Messages used for certificate error titles
 
@@ -121,7 +115,6 @@ redirectLoop-title = Էջի սխալ վերահասցեավորում
 unknownSocketType-title = Սպասարկիչի պատասխանը անհասկանալի է:
 nssFailure2-title = Չհաջողվեց կատարել Պաշտպանված կապակցում
 csp-xfo-error-title = { -brand-short-name } Հնարավոր չէ բացել այս էջը
-corruptedContentError-title = Բովանդակությունը վնասված է
 sslv3Used-title = Չհաջողվեց անվտանգ կապակցումը
 inadequateSecurityError-title = Կապակցումն անվտանգ չէ
 blockedByPolicy-title = Արգելափակված էջ
@@ -144,7 +137,6 @@ fp-certerror-hide-advanced-button = Թաքցնել ընդլայնվածը
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Շարունակել { $hostname }-ում (վտանգավոր)
 fp-certerror-intro = { -brand-short-name }-ը հայտնաբերել է հավանական լուրջ անվտանգության խնդիր <strong>{ $hostname } </strong>-ի հետ։  Կայքի անունից ներկայացող որևէ մեկը կարող է փորձել գողանալ այնպիսի բաներ, ինչպիսիք են վարկային քարտի տվյալները, գաղտնաբառերը կամ էլեկտրոնային փոստը։
 fp-certerror-expired-into = { -brand-short-name }-ն անվտանգության խնդիր է հայտնաբերել <strong>{ $hostname } </strong>-ի հետ։ Կամ կայքը ճիշտ չի կարգավորված, կամ ձեր սարքի ժամացույցը սխալ ամսաթիվ/ժամ է սահմանված։
 fp-certerror-override-exception-button-2 = Շարունակել { $hostname }-ում (վտանգավոր)

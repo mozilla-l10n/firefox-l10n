@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Activar Warp, un projecto pro melior
 experimental-features-ime-search =
     .label = Barra de adresse: monstrar resultatos durante le composition IME
 experimental-features-ime-search-description = Un IME (Input Method Editor, editor a methodos de entrata) es un utensile que te permitte scriber symbolos complexe, como illos usate pro scriber in linguas est-asiatic o indic, usante un claviero standard. Iste experimento mantenera le pannello del barra de adresse aperte, monstrante le resultatos e suggestiones de recerca durante que tu usa IME pro entrar texto. Nota que le IME pote monstrar un pannello que coperi le resultatos del barra de adresse, dunque iste preferentia es solo suggerite pro IME que non usa iste typo de pannello.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Imagine annidate: aperir automaticamente al cambio de scheda
-experimental-features-auto-pip-description = Activar Imagine annidate sur le videos active quando se cambia de scheda.
 experimental-features-group-developer-tools =
     .label = Instrumentos de disveloppamento
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Productivitate
 experimental-features-group-newtab-widgets =
     .label = Widgets sur { -firefox-home-brand-name }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Contrasignos in le barra lateral
-experimental-features-contextual-password-manager-description = Accede a tu contrasignos justo ab le barra lateral. Pone fin al necessitate de cercar o reinitialisar contrasignos quando tu tenta aperir session. Pro usar iste function, selige le contrasignos in le barra lateral. Pois visita tu parametros general e sub Disposition del navigator, selige Monstrar barra lateral. Pois, personalisa tu barra lateral seligente le contrasignos. Si tu lo prova, <a data-l10n-name="connect">face nos saper lo que tu pensa</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Selige un fundo o color personalisate pro le pagina de nove scheda

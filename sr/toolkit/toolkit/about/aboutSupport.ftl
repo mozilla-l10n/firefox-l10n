@@ -32,16 +32,6 @@ security-software-name = Назив
 security-software-antivirus = Антивирус
 security-software-antispyware = Антиспајвер
 security-software-firewall = Заштитни зид
-features-title =
-    { -brand-short-name.gender ->
-        [masculine] Функције { -brand-short-name(case: "gen") }
-        [feminine] Функције { -brand-short-name(case: "gen") }
-        [neuter] Функције { -brand-short-name(case: "gen") }
-       *[other] Функције програма { -brand-short-name }
-    }
-features-name = Назив
-features-version = Верзија
-features-id = ID
 processes-title = Удаљени процеси
 processes-type = Тип
 processes-count = Број
@@ -59,7 +49,6 @@ app-basics-show-update-history = Прикажи историју ажурира�
 # Represents the path to the binary used to start the application.
 app-basics-binary = Бинарна датотека програма
 app-basics-profile-dir = Фасцикла профила
-app-basics-enabled-plugins = Омогућене додатне компоненте
 app-basics-build-config = Конфигурација верзије
 app-basics-user-agent = Корисник
 app-basics-os = ОС
@@ -92,9 +81,6 @@ show-dir-label = Прикажи у фасцикли
 environment-variables-title = Варијабле окружења
 environment-variables-name = Назив
 environment-variables-value = Вредност
-experimental-features-title = Експерименталне функције
-experimental-features-name = Назив
-experimental-features-value = Вредност
 modified-key-prefs-title = Важне измењене поставке
 modified-prefs-name = Назив
 modified-prefs-value = Вредност
@@ -216,9 +202,6 @@ media-cdm-capabilities = Могућности
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Чист почетак (Clear Lead)
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = HDCP 2.2 компатибилно
 
 ##
 
@@ -395,8 +378,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Онемогућио експеримент
-fission-status-experiment-treatment = Омогућио експеримент
 fission-status-disabled-by-e10s-env = Онемогућило окружење
 fission-status-enabled-by-env = Омогућило окружење
 fission-status-disabled-by-env = Онемогућило окружење
@@ -405,7 +386,6 @@ fission-status-disabled-by-default = Подразумевано онемогућ
 fission-status-enabled-by-user-pref = Омогућио корисник
 fission-status-disabled-by-user-pref = Онемогућио корисник
 fission-status-disabled-by-e10s-other = E10s онемогућен
-fission-status-enabled-by-rollout = Омогућено фазним распоређивањем
 async-pan-zoom = Асинхроно кретање/увеличавање
 apz-none = нема
 wheel-enabled = унос точкића омогућен

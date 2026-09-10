@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Naka-save na mga Tirahan
 autofill-manage-addresses-list-header = Mga tirahan
-autofill-manage-credit-cards-title = Mga Nai-save na Credit Card
-autofill-manage-credit-cards-list-header = Mga Credit Card
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Tanggalin
@@ -21,9 +19,6 @@ autofill-manage-edit-button = Baguhin…
 
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Baguhin ang Tirahan
-autofill-address-given-name = Pangalan
-autofill-address-additional-name = Gitnang Pangalan
-autofill-address-family-name = Apelyido
 autofill-address-organization = Organisasyon
 autofill-address-street = Kalye ng Tirahan
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
@@ -69,26 +64,12 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Magdagdag ng Bagong Tirahan
 autofill-address-country = Bansa o Rehiyon
 autofill-address-tel = Telepono
 autofill-address-email = Email
 autofill-cancel-button = Kanselahin
 autofill-save-button = I-save
 autofill-country-warning-message = Ang Form Autofill ay limitado lamang sa iilang mga bansa.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Magdagdag ng Bagong Credit Card
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = I-edit ang Credit Card
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] ipakita ang impormasyon sa credit card
-        [windows] Sinusubukan ng { -brand-short-name } na magpakita ng credit card information. I-confirm sa baba ang access sa Windows account na ito.
-       *[other] Sinusubukan ng { -brand-short-name } na magpakita ng credit card information.
-    }
 autofill-card-number-2 =
     .label = Card Number
 autofill-card-number = Card Number
@@ -102,15 +83,3 @@ autofill-card-expires-month = Buwan ng Expiry
 autofill-card-expires-year = Taon ng Expiry
 autofill-card-billing-address = Tirahan
 autofill-card-network = Uri ng Card
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

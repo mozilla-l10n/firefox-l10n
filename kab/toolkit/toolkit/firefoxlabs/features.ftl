@@ -21,9 +21,6 @@ experimental-features-group-customize-browsing =
     .label = Sagen tunigin-ik
 experimental-features-group-productivity =
     .label = Tiffurest
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Awal n uɛeddi deg ufeggag adisan
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Tiskanin n useɣwen

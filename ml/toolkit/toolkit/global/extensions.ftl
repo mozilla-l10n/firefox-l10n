@@ -10,9 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = { $extension } ചേര്‍ക്കണോ?
 webext-perms-sideload-header = { $extension } ചേര്‍ത്തിരിക്കുന്നു
-webext-perms-optional-perms-header = { $extension } അധിക അനുമതികള്‍ ചോദിക്കുന്നു.
 
 ##
 
@@ -45,21 +43,5 @@ webext-perms-host-description-all-urls = എല്ലാ വെബ്സൈറ�
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } ഡൊമെയ്നിലെ സൈറ്റുകൾക്കായുള്ള നിങ്ങളുടെ ഡാറ്റ ആക്സസ് ചെയ്യുക
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] { $domainCount } ഡൊമെയ്നിലെ നിങ്ങളുടെ ഡാറ്റ ആക്സസ്സുചെയ്യുക
-       *[other] { $domainCount } മറ്റ് ഡൊമെയ്നുകളിലെ നിങ്ങളുടെ ഡാറ്റ ആക്സസ്സുചെയ്യുക
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } നായുള്ള നിങ്ങളുടെ ഡാറ്റ ആക്സസ് ചെയ്യുക
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] { $domainCount } മറ്റൊരു സൈറ്റിലെ നിങ്ങളുടെ ഡാറ്റ ആക്സസ്സുചെയ്യുക
-       *[other] { $domainCount } സൈറ്റുകളിലെ നിങ്ങളുടെ ഡാറ്റ ആക്സസ്സുചെയ്യുക
-    }

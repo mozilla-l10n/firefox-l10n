@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Sýna í Finder
            *[other] Sýna í möppu
         }
-downloads-cmd-show-downloads =
-    .label = Sýna niðurhalsmöppu
 downloads-cmd-retry =
     .tooltiptext = Reyna aftur
 downloads-cmd-retry-panel =

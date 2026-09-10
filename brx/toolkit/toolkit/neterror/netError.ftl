@@ -16,7 +16,6 @@ neterror-malformed-uri-page-title = बाहायजायै URL
 neterror-advanced-button = जौगाहोनाय…
 neterror-learn-more-link = गोबां सोलों
 neterror-return-to-previous-page-button = उनथिं थांफिन
-neterror-try-again-button = फिन नाजा
 neterror-view-certificate-link = चार्टिफिकेटखौ नाय
 
 ## Specific error messages
@@ -32,8 +31,6 @@ neterror-file-not-found-filename = गेदेर हांखो एबा ग
 neterror-file-not-found-moved = फाइलखौ लोरिहोबाय, फिन मुं होनाय एबा खोमोरबाय नामा नायनो थाखाय आनजाद खालाम।
 neterror-unknown-protocol = नोंथाङा बे थंखौ खेवनो गुबुन सफ्टवेयारखौ इनष्टल खालामनांगोन जानांगौ।
 neterror-redirect-loop = बे जेंनाया माब्लाबा माब्लाबा कुकिखौ आजावनाय एबा नेवसिनायनि थाखायजानो हागौ।
-neterror-unknown-socket-type-psm-installed = नोंथांनि सिस्टेमआ निजि रैखाथि मेनेजारखौ इनष्टल खालामबाय नामा रोखा खालामनो आनजाद खालाम।
-neterror-unknown-socket-type-server-config = बेयो सार्भारआव स्टेण्डार्ड-नङै बाइजोमहरनि थाखाय जानो हागौ।
 neterror-not-cached-intro = खावलायखानाय फोरमान बिलाइआ { -brand-short-name }नि केछआव गैया।
 neterror-not-cached-sensitive = रैखाथिनि आगु-सांग्रां महरै, { -brand-short-name } आ बदगोनां फोरमान बिलाइखौ गावनो गाव महरै फिन-खावलाया।
 neterror-not-cached-try-again = फोरमान बिलाइखौ वेबसाइट निफ्राय फिन-खावलायनो फिन नाजा-खौ क्लिक खालाम।

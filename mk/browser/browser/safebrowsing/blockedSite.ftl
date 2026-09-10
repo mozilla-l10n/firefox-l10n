@@ -23,49 +23,18 @@ safeb-palm-see-details-label = Види детали
 
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> беше пријавено како <a data-l10n-name='error_desc_link'>измамничко место</a>. Вие можете <a data-l10n-name='report_detection'> да направите исправка на оваа пријава</a> или <a data-l10n-name='ignore_warning_link'>да го игнорирате ризикот </a> и одите на ова небезбедно место.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> беше пријавено како <a data-l10n-name='error_desc_link'>измамничко место</a>. Вие можете <a data-l10n-name='report_detection'> да направите исправка на оваа пријава</a> .
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-phishing-page-learn-more =
     Дознајте повеќе околу измамнички сајтови и риболов на <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Дознајте повеќе за Заштитата од риболов и злонамерен софтвер што ја има { -brand-short-name }
     на <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> беше <a data-l10n-name='error_desc_link'> пријавен дека содржи злонамерен софтвер</a>. Вие можете<a data-l10n-name='ignore_warning_link'> да го игнорирате ризикот </a> и да одите на ова небезбедно.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> беше <a data-l10n-name='error_desc_link'> пријавен дека содржи злонамерен софтвер</a>.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-malware-page-learn-more-sumo = Дознајте повеќе за Заштитата од риболов и злонамерен софтвер што ја има { -brand-short-name } на <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> беше <a data-l10n-name='error_desc_link'> пријавен дека содржи штетен софтвер</a>. Вие можете<a data-l10n-name='ignore_warning_link'> да го игнорирате ризикот </a> и да одите на овој небезбеден сајт.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> беше <a data-l10n-name='error_desc_link'> пријавен дека содржи штетен софтвер</a>.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-learn-more = Дознајте повеќе за штетен и непосакуван софтвер на<a data-l10n-name='learn_more_link'>Политика за непосакуван софтвер</a>. Дознајте повеќе за Заштитата од риболов и злонамерен софтвер што ја има { -brand-short-name } на <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> беше <a data-l10n-name='error_desc_link'> пријавен дека содржи потенцијално штетна програма</a>. Вие можете <a data-l10n-name='ignore_warning_link'> да го игнорирате ризикот </a> и да одите на ова небезбедно место.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> беше <a data-l10n-name='error_desc_link'> пријавен дека содржи потенцијално штетна програма</a>.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-harmful-page-learn-more = Дознајте повеќе за Заштитата од риболов и злонамерен софтвер што ја има { -brand-short-name } на <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
-safeb-palm-notdeceptive =
-    .label = Ова не е измамничко место...
-    .accesskey = м
 
 ## Variables:
 ##  $addonName (string) - the name of the harmful add-on

@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Nasztalowania połōnczynio
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Nasztalowania połōnczynio
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -58,14 +58,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Przeladuj
     .accesskey = z
-connection-proxy-autologin =
-    .label = Niy pytej ô autyntyzacyjo, jak je spamiyntane hasło
-    .accesskey = i
-    .tooltip = Ta ôpcyjo po cichu autyntyzuje cie do serwerōw proxy, jak mosz do nich spamiyntane dane. Spytajōm cie dopiyro, jak niy podarzi sie autyntyzacyjo.
 connection-proxy-autologin-checkbox =
     .label = Niy pytej ô autyntyzacyjo, jak je spamiyntane hasło
-    .accesskey = i
     .tooltiptext = Ta ôpcyjo po cichu autyntyzuje cie do serwerōw proxy, jak mosz do nich spamiyntane dane. Spytajōm cie dopiyro, jak niy podarzi sie autyntyzacyjo.
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = Proxy DNS przi używaniu SOCKS v5
     .accesskey = D
@@ -76,6 +72,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Używej bazowego URL do rozwiōnzowanio DNS over HTTPS
 connection-dns-over-https-url-custom =
     .label = Włosno
-    .accesskey = W
     .tooltiptext = Wkludź preferowano adresa URL do rozwiōnzowanio DNS over HTTPS
-connection-dns-over-https-custom-label = Włosno
+    .accesskey = W

@@ -21,8 +21,6 @@ styleeditor-save-button = Spara
 styleeditor-options-button =
     .tooltiptext = Alternativ för stilredigerare
 styleeditor-at-rules = At-rules
-styleeditor-editor-textbox =
-    .data-placeholder = Skriv in CSS här.
 styleeditor-no-stylesheet = Den här sidan har ingen stilmall.
 styleeditor-no-stylesheet-tip = Kanske vill du <a data-l10n-name="append-new-stylesheet">lägga till en ny stilmall</a>?
 styleeditor-open-link-new-tab =

@@ -17,7 +17,6 @@ autofill-edit-payment-method-os-prompt-windows = { -brand-short-name }가 저장
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name }가 저장된 결제 수단 정보를 표시하려고 합니다.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = 양식 자동 채우기 옵션
-autofill-options-link-osx = 양식 자동 채우기 설정
 
 ## The credit card capture doorhanger
 
@@ -67,16 +66,6 @@ autofill-card-network-mastercard = 마스터카드
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = 유니온페이
 autofill-card-network-visa = 비자카드
-# The warning text that is displayed for informing users what categories are
-# about to be filled.  The text would be, for example,
-#   Also autofills organization, phone, email.
-# Variables:
-#   $categories - one or more of the categories, see autofill-category-X below
-autofill-phishing-warningmessage-extracategory = { $categories }도 자동 채우기
-# Variation when all are in the same category.
-# Variables:
-#   $categories - one or more of the categories
-autofill-phishing-warningmessage = { $categories } 자동 채우기
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = 주소
 autofill-category-name = 이름

@@ -5,4 +5,3 @@
 
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
-about-glean-about-testing-header = Tungkol sa Pag-test

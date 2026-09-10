@@ -31,4 +31,3 @@ search-bookmarks = Обележивачи
 search-history = Историја
 search-opentabs = Отворене језичке
 search-tags = Етикете
-search-titles = Наслови

@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Ezkutatu itxitako PeerC
 about-webrtc-aec-logging-msg-label = AEC erregistroa
 about-webrtc-aec-logging-off-state-label = Hasi AEC erregistroa
 about-webrtc-aec-logging-on-state-label = Gelditu AEC erregistroa
-about-webrtc-aec-logging-on-state-msg = AEC erregistroa aktibo (hitz egin denbora batez deitu duenarekin eta gelditu kaptura gero)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC erregistroa aktibo (hitz egin denbora batez deitu duenarekin eta gelditu kaptura gero)
 about-webrtc-aec-logging-unavailable-sandbox = Beharrezkoa da MOZ_DISABLE_CONTENT_SANDBOX=1 ingurune-aldagaia AEC log-fitxategiak esportatzeko. Ezarri aldagai hau soilik arrisku posibleak ulertzen badituzu.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Izendatua
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Hautatuta
 about-webrtc-save-page-label = Gorde orria
-about-webrtc-debug-mode-msg-label = Arazketa-modua
-about-webrtc-debug-mode-off-state-label = Hasi arazketa modua
-about-webrtc-debug-mode-on-state-label = Gelditu arazketa modua
-about-webrtc-stats-heading = Saioaren estatistikak
 about-webrtc-enable-logging-label = Gaitu WebRTC erregistrorako aurrezarpena
 about-webrtc-peerconnections-section-heading = RTCPeerConnection estatistikak
 about-webrtc-peerconnections-section-show-msg = Erakutsi RTCPeerConnection estatistikak
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = Ezkutatu RTCPeerConnection estat
 about-webrtc-stats-clear = Garbitu historia
 about-webrtc-log-heading = Konexioaren erregistroa
 about-webrtc-log-clear = Garbitu erregistroa
-about-webrtc-log-show-msg = erakutsi erregistroa
-    .title = egin klik atal hau zabaltzeko
-about-webrtc-log-hide-msg = ezkutatu erregistroa
-    .title = egin klik atal hau tolesteko
 about-webrtc-log-section-show-msg = Erakutsi erregistroa
     .title = Egin klik atal hau zabaltzeko
 about-webrtc-log-section-hide-msg = Ezkutatu erregistroa
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Urruneko hautagaia
 about-webrtc-raw-candidates-heading = Hautagai gordin guztiak
 about-webrtc-raw-local-candidate = Hautagai lokal gordina
 about-webrtc-raw-remote-candidate = Urruneko hautagai gordina
-about-webrtc-raw-cand-show-msg = erakutsi hautagai gordinak
-    .title = egin klik atal hau zabaltzeko
-about-webrtc-raw-cand-hide-msg = ezkutatu hautagai gordinak
-    .title = egin klik atal hau tolesteko
 about-webrtc-raw-cand-section-show-msg = Erakutsi hautagai gordinak
     .title = Egin klik atal hau zabaltzeko
 about-webrtc-raw-cand-section-hide-msg = Ezkutatu hautagai gordinak
     .title = Egin klik atal hau tolesteko
 about-webrtc-priority = Lehentasuna
-about-webrtc-fold-show-msg = erakutsi xehetasunak
-    .title = egin klik atal hau zabaltzeko
-about-webrtc-fold-hide-msg = ezkutatu xehetasunak
-    .title = egin klik atal hau tolesteko
 about-webrtc-fold-default-show-msg = Erakutsi xehetasunak
     .title = Egin klik atal hau zabaltzeko
 about-webrtc-fold-default-hide-msg = Ezkutatu xehetasunak
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Hornitua
 # been provided
 about-webrtc-configuration-element-not-provided = Ez hornitua
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Erabiltzaileak ezarritako WebRTC hobespenak
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Erabiltzaileak aldatutako WebRTC konfigurazioa
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Bideoko markoen estatistikak - MediaStreamTrack IDa: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = orria hona gordeta: { $path }
-about-webrtc-debug-mode-off-state-msg = trazaren erregistroa hemen aurki daiteke: { $path }
-about-webrtc-debug-mode-on-state-msg = arazketa modua aktibo, trazaren erregistroaren kokapena: { $path }
-about-webrtc-aec-logging-off-state-msg = kapturatutako erregistro-fitxategiak hemen aurki daitezke: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

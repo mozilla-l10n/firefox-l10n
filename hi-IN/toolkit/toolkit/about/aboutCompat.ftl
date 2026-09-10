@@ -10,5 +10,3 @@ label-interventions = हस्तक्षेप
 label-more-information = अधिक जानकारी: बग { $bug }
 text-disabled-in-about-config = इस सुविधा को लगभग: config में अक्षम कर दिया गया है
 text-no-interventions = कोई हस्तक्षेप नहीं किया जा रहा है
-text-no-overrides = कोई यूए ओवरराइड का उपयोग नहीं किया जा रहा है
-text-title = के बारे में: compat

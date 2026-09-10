@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Uusi välilehti
-newtab-settings-button =
-    .title = Muokkaa Uusi välilehti -sivua
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Mukauta tätä sivua
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = Mukauta
 newtab-customize-panel-label =
     .label = Mukauta
-newtab-personalize-settings-icon-label =
-    .aria-label = Asetukset
-    .title = Mukauta uutta välilehteä
 newtab-settings-dialog-label =
     .aria-label = Asetukset
-newtab-personalize-icon-label =
-    .aria-label = Muokkaa uutta välilehteä
-    .title = Muokkaa uutta välilehteä
-newtab-personalize-dialog-label =
-    .aria-label = Muokkaa
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
@@ -528,7 +518,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Lisää hakukone
 newtab-topsites-add-shortcut-header = Uusi oikotie
-newtab-topsites-edit-topsites-header = Muokkaa ykkössivustoa
 newtab-topsites-edit-shortcut-header = Muokkaa oikotietä
 newtab-topsites-add-shortcut-label = Lisää pikavalinta
 newtab-topsites-add-shortcut-title =
@@ -602,20 +591,12 @@ newtab-topsites-hover-card-dismiss =
 newtab-menu-section-tooltip =
     .aria-label = Avaa valikko
     .title = Avaa valikko
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Poista
-    .title = Poista
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Avaa pikavalikko sivustolle { $title }
     .title = Avaa valikko
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Muokkaa tätä sivustoa
-    .title = Muokkaa tätä sivustoa
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -627,11 +608,7 @@ newtab-menu-dismiss = Hylkää
 newtab-menu-pin = Kiinnitä
 newtab-menu-unpin = Poista kiinnitys
 newtab-menu-delete-history = Poista historiasta
-newtab-menu-save-to-pocket = Tallenna { -pocket-brand-name }-palveluun
-newtab-menu-delete-pocket = Poista { -pocket-brand-name }-palvelusta
-newtab-menu-archive-pocket = Arkistoi { -pocket-brand-name }-palveluun
 newtab-menu-show-privacy-info = Tukijamme ja yksityisyytesi
-newtab-menu-about-fakespot = Tietoja { -fakespot-brand-name }ista
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Ilmoita
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -642,27 +619,12 @@ newtab-menu-section-block = Estä
 newtab-menu-section-unfollow-topic = Lopeta seuraaminen
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Lue lisää
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = Lopeta aiheen seuraaminen
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = Hallinnoi sponsoroitua sisältöä
 newtab-menu-our-sponsors-and-your-privacy = Tukijamme ja yksityisyytesi
 newtab-menu-report-this-ad = Ilmoita tästä mainoksesta
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Valmis
-newtab-privacy-modal-button-manage = Hallitse sponsoroidun sisällön asetuksia
-newtab-privacy-modal-header = Yksityisyydelläsi on merkitystä.
-newtab-privacy-modal-paragraph-2 =
-    Kiehtovien tarinoiden tarjoamisen lisäksi näytämme sinulle myös kiinnostavaa,
-    tarkastettua sisältöä valituilta sponsoreilta. Voit olla varma, että <strong>selaustietosi
-    pysyvät omassa { -brand-product-name }-kopiossasi</strong> – emme näe niitä eivätkä 
-    myöskään sponsorimme.
-newtab-privacy-modal-link = Opi miten yksityisyys on esillä uusi välilehti -sivulla
 
 ##
 
@@ -718,31 +680,12 @@ newtab-label-sponsored-fixed = Sponsoroitu
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Poista osio
-newtab-section-menu-collapse-section = Pienennä osio
-newtab-section-menu-expand-section = Laajenna osio
-newtab-section-menu-manage-section = Muokkaa osiota
-newtab-section-menu-manage-webext = Hallitse laajennusta
-newtab-section-menu-add-topsite = Lisää ykkössivusto
-newtab-section-menu-add-search-engine = Lisää hakukone
-newtab-section-menu-move-up = Siirrä ylös
-newtab-section-menu-move-down = Siirrä alas
 newtab-section-menu-privacy-notice = Tietosuojakäytäntö
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Pienennä osio
-newtab-section-expand-section-label =
-    .aria-label = Laajenna osio
 
 ## Section Headers.
 
 newtab-section-header-topsites = Ykkössivustot
 newtab-section-header-recent-activity = Viimeisin toiminta
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Suositukset lähteestä { $provider }
 newtab-section-header-stories = Ajatuksia herättäviä tarinoita
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = Tämän päivän valinnat sinulle
@@ -750,10 +693,6 @@ newtab-section-header-todays-picks = Tämän päivän valinnat sinulle
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Ala selata, niin tässä alkaa näkyä hyviä juttuja, videoita ja muita sivuja, joilla olet käynyt hiljattain tai jotka olet lisännyt kirjanmerkkeihin.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Ei enempää suosituksia juuri nyt. Katso myöhemmin uudestaan lisää ykkösjuttuja lähteestä { $provider }. Etkö malta odottaa? Valitse suosittu aihe ja löydä lisää hyviä juttuja ympäri verkkoa.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = Ei enempää suosituksia juuri nyt. Katso myöhemmin uudestaan lisää juttuja. Etkö malta odottaa? Valitse suosittu aihe ja löydä lisää hyviä juttuja ympäri verkkoa.
 
@@ -787,39 +726,6 @@ newtab-carousel-pause =
 newtab-carousel-play =
     .aria-label = Jatka automaattista toistoa
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Suositut aiheet:
-newtab-pocket-new-topics-title = Haluatko lisää tarinoita? Katso nämä suositut aiheet { -pocket-brand-name }ista
-newtab-pocket-more-recommendations = Lisää suosituksia
-newtab-pocket-learn-more = Lue lisää
-newtab-pocket-cta-button = Hanki { -pocket-brand-name }
-newtab-pocket-cta-text = Tallenna tykkäämäsi tekstit { -pocket-brand-name }iin ja ravitse mieltäsi kiinnostavilla teksteillä.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } on osa { -brand-product-name }-perhettä
-newtab-pocket-save = Tallenna
-newtab-pocket-saved = Tallennettu
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = Lisää tällaista
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = Ei minulle
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = Kiitos. Palautteesi auttaa meitä parantamaan syötettäsi.
-newtab-toast-dismiss-button =
-    .aria-label = Hylkää
-    .title = Hylkää
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = Löydä verkon parhaat puolet
-newtab-pocket-onboarding-cta = { -pocket-brand-name } tutkii monenlaisia julkaisuja tarjotakseen informatiivisimman, inspiroivimman ja luotettavimman sisällön suoraan { -brand-product-name }-selaimellesi.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -828,8 +734,6 @@ newtab-error-fallback-refresh-link = Yritä uudestaan päivittämällä sivu.
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Oikotiet
-newtab-custom-shortcuts-subtitle = Tallentamasi tai vierailemasi sivustot
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Tallentamasi tai vierailemasi sivustot
@@ -850,16 +754,6 @@ newtab-custom-row-selector2 =
             [one] { $num } rivi
            *[other] { $num } riviä
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } rivi
-       *[other] { $num } riviä
-    }
-newtab-custom-sponsored-sites = Sponsoroidut oikotiet
-newtab-custom-pocket-title = { -pocket-brand-name } suosittelee
-newtab-custom-pocket-subtitle = Poikkeuksellista, valikoitua sisältöä { -pocket-brand-name }-palvelulta, osana { -brand-product-name }-perhettä
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = Poikkeuksellista { -brand-product-name }-perheen kuratoimaa sisältöä
@@ -871,10 +765,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = Personoituja tarinoita aktiivisuuteesi pohjautuen
 newtab-custom-stories-personalized-checkbox-label = Personoituja tarinoita aktiivisuuteesi pohjautuen
-newtab-custom-pocket-sponsored = Sponsoroidut tarinat
-newtab-custom-pocket-show-recent-saves = Näytä viimeisimmät tallennukset
-newtab-custom-recent-title = Viimeisin toiminta
-newtab-custom-recent-subtitle = Valikoima viimeisimpiä sivustoja ja sisältöä
 newtab-custom-weather-toggle =
     .description = Päivän sääennuste yhdellä vilkaisulla
     .label = Sää
@@ -906,7 +796,6 @@ newtab-widget-manage-widget-button =
 newtab-custom-close-menu-button =
     .aria-label = Sulje valikko
     .title = Sulje
-newtab-custom-close-button = Sulje
 newtab-custom-settings = Muokkaa lisää asetuksia
 
 ## Customization Menu
@@ -955,7 +844,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Kuvan koko ylitti tiedostokokorajan { $file_size } Mt. Yritä ladata pienempi tiedosto.
 newtab-wallpaper-error-upload-file-type = Tiedostosi lataaminen epäonnistui. Yritä uudelleen kuvatiedostolla.
-newtab-wallpaper-error-file-type = Tiedostoa ei voitu lähettää. Yritä uudelleen toisella tiedostotyypillä.
 newtab-wallpaper-light-red-panda = Kultapanda
 newtab-wallpaper-light-mountain = Valkoinen vuori
 newtab-wallpaper-light-sky = Taivas violettien ja vaaleanpunaisten pilvien kera
@@ -1099,10 +987,6 @@ newtab-wallpaper-celestial-river = Satelliittikuva joesta
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = Katso ennuste palvelussa { $provider }
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponsoroitu
 newtab-weather-menu-change-location = Vaihda sijaintia
 newtab-weather-change-location-search-input-placeholder =
@@ -1129,7 +1013,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Vaihda Fahrenheitiin
 newtab-weather-menu-change-temperature-units-celsius = Vaihda Celsiukseen
-newtab-weather-menu-hide-weather = Piilota sää uudessa välilehdessä
 newtab-weather-menu-learn-more = Lue lisää
 newtab-weather-menu-detect-my-location = Havaitse sijaintini
 # This message is shown if user is working offline
@@ -1250,7 +1133,6 @@ newtab-section-unblock-topic =
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = Ei nyt
 newtab-section-confirm-block-topic-p1 = Haluatko varmasti estää tämän aiheen?
 newtab-section-confirm-block-topic-p2 = Estetyt aiheet eivät enää näy syötteessäsi.
 # Variables:

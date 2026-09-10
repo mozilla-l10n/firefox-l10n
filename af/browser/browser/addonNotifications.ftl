@@ -9,13 +9,6 @@ xpinstall-prompt = { -brand-short-name } het hierdie werf daarvan verhoed om u t
 xpinstall-prompt-dont-allow =
     .label = Moenie toelaat nie
     .accesskey = M
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = Sagteware-installering is deur u stelseladministrateur gedeaktiveer.
 xpinstall-disabled = Sagteware-installering is tans gedeaktiveer. Kliek Aktiveer en probeer weer.
 xpinstall-disabled-button =
     .label = Aktiveer
@@ -78,4 +71,3 @@ addon-local-install-error-not-signed = Hierdie byvoeging kon nie geïnstalleer w
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } kon nie geïnstalleer word nie omdat dit onversoenbaar is met { -brand-short-name } { $appVersion }.
-addon-install-error-blocklisted = { $addonName } kon nie geïnstalleer word nie omdat dit 'n hoë risiko dra om stabiliteit- en sekuriteit-probleme te veroorsaak.

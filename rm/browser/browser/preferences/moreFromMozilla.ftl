@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Dapli da { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Dapli da { -vendor-short-name }
 more-from-moz-subtitle = Dà in tgit ad auters products da { -vendor-short-name } che han l'intent da promover in internet pli saun.
@@ -32,13 +31,11 @@ more-from-moz-firefox-relay-button = Ir per { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Surpiglia automaticamain puspè la controlla da tias infurmaziuns persunalas expostas en il web.
 more-from-moz-mozilla-monitor-global-description = Retschaiva in avertiment en cas che tias datas èn pertutgadas dad ina sperdita da datas.
 more-from-moz-mozilla-monitor-button = Obtegnair { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Creescha immediatamain tia website e connectescha gratuitamain tia atgna domena.
 more-from-moz-solo-button = Emprova { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = Creatur da websites IA { -solo-ai-brand-name }

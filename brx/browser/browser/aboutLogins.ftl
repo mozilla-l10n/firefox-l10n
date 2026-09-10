@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = लगिन & पासवर्डखौ
-about-logins-login-filter =
-    .placeholder = लोगिनफोर नागिर
-    .key = F
-create-new-login-button =
-    .title = गोदान लोगिन बानाय
 fxaccounts-sign-in-text = नोंनि पासवर्दखौ गुबुन डिभाइस आव लाबो
 fxaccounts-avatar-button =
     .title = एकाउन्ट सामलाय
@@ -20,7 +14,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = गुबुन मोनसे ब्राउजार निफ्राय लाबो...
 about-logins-menu-menuitem-import-from-a-file = फाइल निफ्राय लाबो…
-about-logins-menu-menuitem-remove-all-logins = गासै दिन्थिनाय ल'गइनफोर बोखार
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] उफ्रा
@@ -32,24 +25,14 @@ about-logins-menu-menuitem-help = हेफाजाब
 
 login-list =
     .aria-label = लाग इनफोरजों मिलायनाय नागिरसंनाय
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } ल'गइन
-       *[other] { $count } ल'हइनफोर
-    }
 login-list-sort-label-text = बासिदों
 login-list-name-option = मुं (A-Z)
 login-list-name-reverse-option = मुं (Z-A)
 about-logins-login-list-alerts-option = सांग्रां फोर
 login-list-last-changed-option = जोबथि सोलायनाय
 login-list-last-used-option = जोबथि बाहायनाय
-login-list-intro-title = लगइन फोर गैया
 login-list-intro-description = पासवर्दखौ { -brand-product-name }याव दोनोब्ला, बेयाव नुजागोन
-about-logins-login-list-empty-search-title = लगइन फोर गैया
 about-logins-login-list-empty-search-description = नोथाङा नागिरनाय बादि जेबो गैया
-login-list-item-title-new-login = गोदान लगइन
 login-list-item-subtitle-missing-username = (बाहायग्रा मुं गया)
 about-logins-list-item-breach-icon =
     .title = गाजि् जानाय वेवसाइथ
@@ -59,7 +42,6 @@ about-logins-list-section-week = थांनाय 7 सान
 
 ## Login
 
-login-item-new-login-title = गोदान ल'गइन खुलि
 login-item-edit-button = सुजुनाय
 about-logins-login-item-remove-button = बोखार
 login-item-origin-label = वेबसाइट थं
@@ -75,7 +57,6 @@ login-item-password-reveal-checkbox =
     .aria-label = पासवर्डखौ दिन्थि
 login-item-copy-password-button-text = कपि खालाम
 login-item-copied-password-button-text = कपि खालामबाय!
-login-item-save-changes-button = सोलायनायफोर थिना दोन
 login-item-save-new-button = थिना दोन
 login-item-cancel-button = नेवसि
 
@@ -98,9 +79,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = सेभ थानाय लगइनखौ एडिट खालाम
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = सेभ थानाय पासवार्दखौ खोंन्धा
@@ -116,8 +94,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = नेवसि
 confirmation-dialog-dismiss-button =
     .title = नेवसि
-about-logins-confirm-remove-dialog-title = बे ल'गइनखौ बोखारनो?
-confirm-delete-dialog-message = बे हाबाखौ मावनो हायै खालामनो हाया।
 about-logins-confirm-remove-dialog-confirm-button = बोखार
 
 ## Variables
@@ -128,17 +104,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] बोखार
         [one] बोखारजोब
        *[other] बोखारजोब
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] औ, बेयो लोगइनखौ बोखार
-        [one] औ, बेयो लोगइनखौ बोखार
-       *[other] औ, बे लोगइनफोरखौ बोखार
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] बे { $count } लोहइनखौ बोखारनो ?
-       *[other] बे { $count } लोहइनफोरखौ बोखारनो ?
     }
 
 ##

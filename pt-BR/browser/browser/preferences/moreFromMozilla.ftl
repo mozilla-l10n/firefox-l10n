@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Mais da { -vendor-short-name }
 more-from-moz-page-header =
     .heading = Mais da { -vendor-short-name }
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } para dispositivos m
 more-from-moz-firefox-mobile-description = O navegador para dispositivos móveis que coloca sua privacidade em primeiro lugar.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } para dispositivos móveis
 more-from-moz-firefox-mobile =
-    .label = { -brand-product-name } para dispositivos móveis
     .description = O navegador para dispositivos móveis que coloca sua privacidade em primeiro lugar.
+    .label = { -brand-product-name } para dispositivos móveis
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Descubra uma camada adicional de proteção e navegação anônima.
 more-from-moz-qr-code-box-firefox-mobile-title = Instale em seu dispositivo. Aponte a câmera para o código QR e toque no link que aparecer.
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = Use o { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Recupere automaticamente suas informações pessoais expostas.
 more-from-moz-mozilla-monitor-global-description = Receba alertas quando seus dados estiverem em vazamentos de dados.
 more-from-moz-mozilla-monitor-button = Use o { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = Inteligência artificial do { -solo-ai-brand-name }
 more-from-moz-solo-description = Crie seu site imediatamente e conecte seu próprio domínio personalizado gratuitamente.
 more-from-moz-solo-button = Experimente o { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = Criador de sites com inteligência artificial { -solo-ai-brand-name }
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = Enviar por email o link de instalaçã
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = Descubra onde suas informações pessoais foram expostas online com uma busca gratuita.
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = Tenha proteção extra em todos os aplicativos, não apenas no navegador. Mantenha seus dados protegidos em redes públicas de WiFi e em redes não seguras.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = Proteja sua caixa de entrada contra spam usando máscaras de email gratuitas.
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = Aprenda desenvolvimento web com guias e referências gratuitos.
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = Acesse seus emails, agendas e contatos em um único aplicativo rápido.
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = Crie seu site num instante e conecte seu próprio domínio personalizado gratuitamente.
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = Novos produtos { -vendor-short-name }
     .description = Conheça nossas ideias e tecnologias experimentais mais recentes.
+    .label = Novos produtos { -vendor-short-name }
 more-from-moz-mozilla-monitor-box-link =
     .label = Use o { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =

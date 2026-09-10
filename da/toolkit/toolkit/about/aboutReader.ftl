@@ -4,14 +4,6 @@
 
 about-reader-loading = Indlæser…
 about-reader-load-error = Indlæsning af artikel fra side mislykkedes
-about-reader-color-scheme-light = Lys
-    .title = Lyst farveskema
-about-reader-color-scheme-dark = Mørk
-    .title = Mørkt farveskema
-about-reader-color-scheme-sepia = Sepia
-    .title = Sepia farveskema
-about-reader-color-scheme-auto = Auto
-    .title = Automatisk farveskema
 about-reader-color-light-theme = Lyst
     .title = Lyst tema
 about-reader-color-dark-theme = Mørkt
@@ -24,16 +16,6 @@ about-reader-color-gray-theme = Gråt
     .title = Gråt tema
 about-reader-color-contrast-theme = Kontrast
     .title = Tema med høj kontrast
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time =
-    { $rangePlural ->
-        [one] { $range } minutter
-       *[other] { $range } minutter
-    }
 
 ## Reader View text and layout menu
 
@@ -41,14 +23,6 @@ about-reader-toolbar-minus =
     .title = Formindsk skriftstørrelsen
 about-reader-toolbar-plus =
     .title = Forøg skriftstørrelsen
-about-reader-toolbar-contentwidthminus =
-    .title = Formindsk indholdets bredde
-about-reader-toolbar-contentwidthplus =
-    .title = Forøg indholdets bredde
-about-reader-toolbar-lineheightminus =
-    .title = Formindsk linjeafstanden
-about-reader-toolbar-lineheightplus =
-    .title = Forøg linjeafstanden
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -59,7 +33,6 @@ about-reader-font-type-monospace = Fast tegnbredde
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Luk læsevisning
-about-reader-toolbar-type-controls = Indstillinger
 about-reader-toolbar-text-layout-controls = Tekst og layout
 about-reader-toolbar-theme-controls = Temaer
 about-reader-toolbar-savetopocket = Gem til { -pocket-brand-name }

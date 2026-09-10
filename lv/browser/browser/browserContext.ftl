@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Doties vienu lapu atpakaļ ({ $shortcut })
     .aria-label = Atpakaļ
+    .tooltiptext = Doties vienu lapu atpakaļ ({ $shortcut })
     .accesskey = A
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Iet vienu lapu uz priekšu ({ $shortcut })
     .aria-label = Uz priekšu
+    .tooltiptext = Iet vienu lapu uz priekšu ({ $shortcut })
     .accesskey = P
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Saglabāta grāmatzīmēs…
-    .accesskey = g
     .tooltiptext = Saglabāta grāmatzīmēs
+    .accesskey = g
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Saglabāta grāmatzīmēs…
-    .accesskey = g
     .tooltiptext = Saglabāta grāmatzīmēs ({ $shortcut })
+    .accesskey = g
 main-context-menu-edit-bookmark =
     .aria-label = Labot grāmatzīmi…
-    .accesskey = g
     .tooltiptext = Labot grāmatzīmi
+    .accesskey = g
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Labot grāmatzīmi…
-    .accesskey = g
     .tooltiptext = Labot grāmatzīmi ({ $shortcut })
+    .accesskey = g
 main-context-menu-open-link =
     .label = Atvērt saiti
     .accesskey = A
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Saglabāt saiti kā…
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = Saglabāt saiti uz { -pocket-brand-name }
-    .accesskey = u
 
 ##
 
@@ -296,40 +287,22 @@ main-context-menu-audio-email =
 main-context-menu-send-to-device-2 =
     .label = Sūtīt uz ierīci
     .accesskey = n
-main-context-menu-save-to-pocket =
-    .label = Saglabāt lapu { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Sūtīt lapu uz ierīci
-    .accesskey = I
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Izmantot saglabāto lietotājvārdu
-    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Izmantot saglabāto paroli
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Izmantot { -relay-brand-short-name } e-pasta aizsegu
     .accesskey = e
 main-context-menu-suggest-strong-password =
     .label = Ieteikt spēcīgu paroli…
     .accesskey = s
-main-context-menu-manage-logins2 =
-    .label = Pārvaldīt lietotājvārdus
-    .accesskey = P
 main-context-menu-manage-passwords =
     .label = Pārvaldīt paroles
     .accesskey = P
-main-context-menu-keyword =
-    .label = Pievienot šim meklējumam atslēgvārdu…
-    .accesskey = a
 main-context-menu-add-engine =
     .label = Pievienot meklētāju
     .accesskey = m
@@ -375,9 +348,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Uzņemt ekrānuzņēmumu
     .accesskey = t
-main-context-menu-take-frame-screenshot =
-    .label = Uzņemt ekrānuzņēmumu
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = Skatīt lapas pirmkodu
     .accesskey = S

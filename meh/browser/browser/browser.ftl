@@ -2,49 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = Kaka yu'u jii { $content-title } — { -brand-full-name }
-    .data-title-default = { -brand-full-name }
-    .data-title-private = Kaka yu'u jii { -brand-full-name }
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = Nánuku jii { $content-title }
-    .data-title-default = { -brand-full-name }
-    .data-title-private = Nánuku jii { -brand-full-name }
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = Kune´ya tu´un sitio
 
@@ -78,8 +35,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Síne panel mensajes nchuva´a ntu íyo conexión
 urlbar-password-notification-anchor =
     .tooltiptext = Síne panel da mensajes da contraseñas nchuva´a
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Tetiñu naja ni´i plugins
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Tetiñu kua´a ka̱a̱ natava / micrófono ji sitio
 urlbar-autoplay-notification-anchor =
@@ -88,15 +43,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Chuva´a datos kino kue´e kivɨ
 urlbar-addons-notification-anchor =
     .tooltiptext = Síne panel da mensajes chu´un nachisó-kúmani
-urlbar-tip-help-icon =
-    .title = Nánuku chineída noo´o
 urlbar-search-tips-confirm = OK, vatu!
 urlbar-search-tips-confirm-short = Kuka´nu inini
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Tip:
 urlbar-result-menu-button =
     .title = Síne menu
 urlbar-result-menu-learn-more2 = Ka´vi kue´eka
@@ -149,8 +97,6 @@ urlbar-screen-blocked =
     .tooltiptext = Nuu web ya´a nasɨ je nkuvi kua´a pantalla.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Nñasɨnɨ nchuva´a nuu sitio web ya´a.
-urlbar-popup-blocked =
-    .tooltiptext = Nasɨ da pop-ups nuu sitio web ya´a.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Nñasɨnɨ nkajie´e kata nasun nuu web ya´a.
 urlbar-canvas-blocked =
@@ -241,28 +187,19 @@ search-one-offs-history =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Kune´yá ka̱a̱ chunta´an
-quickactions-cmd-addons2 = Ka̱a̱ chunta´an
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Tetiñu da marcadores
 quickactions-cmd-bookmarks = A ta´an ini noo´o
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Sna da historial
-quickactions-cmd-clearhistory = Sna da historial
 # Opens about:downloads page
 quickactions-downloads2 = Kune´ya a nxinuu
 quickactions-cmd-downloads = Da nxinú
 # Opens about:addons page in the extensions section
 quickactions-extensions = Tetiñu extensión
-quickactions-cmd-extensions = Extensiones
 # Opens the devtools web inspector
 quickactions-inspector2 = Síne ka̱a̱ ñɨvɨ sá´á sofware
-quickactions-cmd-inspector = inspector, herramientas de desarrollo
 # Opens about:logins
 quickactions-logins2 = Tetiñu da contraseñas
 quickactions-cmd-logins = Nuu kajie´e sesión, contraseñas
-# Opens about:addons page in the plugins section
-quickactions-plugins = Tetiñu da plugins
-quickactions-cmd-plugins = plugins
 # Opens the print dialog
 quickactions-print2 = Natava página
 quickactions-cmd-print = Nátava
@@ -270,8 +207,6 @@ quickactions-cmd-print = Nátava
 quickactions-private2 = Síne iin ventana yu´u
 quickactions-cmd-private = Nánuku yu´u
 quickactions-cmd-restart = Nákajie´e
-quickactions-cmd-themes = temas
-quickactions-cmd-viewsource = Kune'ya fuente, fuente
 
 ## Bookmark Panel
 
@@ -307,14 +242,11 @@ identity-custom-root = Conexión verificada ji iin vetiñu taji certificados je 
 identity-passive-loaded = Sava página ya´a ntu iyo vatu (kua da tutu nátava).
 identity-active-loaded = Nnakasɨnɨ a kumi noo´o nuu página ya´a.
 identity-weak-encryption = Nuu ya´a ni´i encriptación ntu nakui.
-identity-insecure-login-forms = Da nuu kajie´e sesión nuu página ya´a sana kuvi sá´á xeen.
 identity-https-only-connection-upgraded = (actualizado a HTTPS)
-identity-https-only-label = Ntu xini HTTPS
 identity-https-only-dropdown-on =
     .label = Activado
 identity-https-only-dropdown-off =
     .label = Xina´va
-identity-https-only-info-turn-off2 = De ntu íyo tiñu, sana kuvinu xitanu HTTPS je nachu'unu tuku je ni'inu iin conexión HTTP ntu vatu.
 identity-https-only-info-no-upgrade = Nkuvi sa actualizar conexión ji HTTP.
 identity-permissions-storage-access-header = Cookies ji da sitios
 identity-permissions-storage-access-learn-more = Ka´vi kue´eka
@@ -329,7 +261,6 @@ identity-remove-cert-exception =
     .label = Xina excepción
     .accesskey = E
 identity-description-insecure = Conexión noo´o ntu íyo yu´u. Tu´un chu´un íchinu sana kutuvi nuu inka ñivɨ (contraseñas, mensajes, da tutu xu´un, etc.).
-identity-description-insecure-login-forms = Tu´un nuu kajie´e sesión chu´unu nuu página ya´a ntu íyo va´a je kuvi sakui´inadama.
 identity-description-weak-cipher-intro = Conexión noo´o ji nuu web ya´a ni´i encriptación ntu nakui je ntu íyo yu´u.
 identity-description-weak-cipher-risk = Inka ñivɨ kuvi kune´ya tu´un noo´o a xiin sama naja satiñu nuu web ya´a.
 identity-description-active-blocked2 = { -brand-short-name } nñasɨ sava página ya´a a ntu íyo vatu.
@@ -338,12 +269,6 @@ identity-description-passive-loaded-insecure2 = Nuu web ya´a kumi tu´un ntu í
 identity-description-passive-loaded-mixed2 = { -brand-short-name } nñasɨ yaku tu´un, íyo tu´un nuu página ntu íyo va´a (kua tutu natava).
 identity-description-active-loaded = Nuu web ya´a kumi tu´un ntu va´a (kua scripts) je conexión noo´o ji da ya´a ntu yu´u.
 identity-description-active-loaded-insecure = Información jia´anu ji nuu ya´a kuvi kune´ya inka ñivɨ (kua contraseñas, mensajes, tutu crédito, etc.).
-identity-disable-mixed-content-blocking =
-    .label = Protección nñasɨ ntañu´u
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = Tee protección
-    .accesskey = H
 identity-more-info-link-text =
     .label = Kue´eka tu´un
 
@@ -357,11 +282,6 @@ browser-window-restore-down-button =
     .tooltiptext = Nate chuve
 browser-window-close-button =
     .tooltiptext = Kasɨ
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = PICTURE-IN-PICTURE
 
 ## Bookmarks toolbar items
 
@@ -445,8 +365,6 @@ urlbar-extension =
     .value = Extension:
 urlbar-go-button2 =
     .title = Kaka nu barra nuu.
-urlbar-go-button =
-    .tooltiptext = Kaka nu barra nuu.
 urlbar-page-action-button =
     .tooltiptext = Acciones de la página
 
@@ -492,22 +410,9 @@ urlbar-result-action-tabtosearch-web = Nánuku ji { $engine } barra da nuu
 urlbar-result-action-tabtosearch-other-engine = Nánuku ji { $engine } barra nuu
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Tɨɨn
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
-urlbar-searchmode-bookmarks =
-    .label = A ta´a ini noo´o
-urlbar-searchmode-tabs =
-    .label = Da sukua
-urlbar-searchmode-history =
-    .label = Historial
-urlbar-searchmode-actions =
-    .label = Acciones
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -574,12 +479,6 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Chiyu'u barra a ta´a ini noo´o
            *[other] Kune'ya barra a ta´a ini noo´o
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Xita menú ta'an ini noo'o nu barra ka̱a̱
-           *[other] Tee menú ta'an ini noo'o nu barra ka̱a̱
-        }
 
 ##
 
@@ -605,14 +504,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = A ta´a ini noo´o
-library-recent-activity-title =
-    .value = Da a skuata nsá´á
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Chuva´a nuu { -pocket-brand-name }
-    .tooltiptext = Chuva´a nuu { -pocket-brand-name }
 
 ##
 
@@ -656,8 +547,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = Sɨvu ñɨvu
-panel-save-update-password = Contraseña
 panel-save-update-username-2 =
     .label = Sɨvu ñɨvu
 panel-save-update-password-2 =
@@ -671,16 +560,6 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = Nakasɨ
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = Kuvi kene da ventanas nava { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Kasɨ nkene da ventanas nava { $uriHost }
-    .accesskey = p
-
 ##
 
 # This string is a spoken label that should not include
@@ -690,8 +569,6 @@ navbar-accessible =
     .aria-label = Navegación
 navbar-downloads =
     .label = Da nxinú
-navbar-overflow =
-    .tooltiptext = Kue'eka ka̱a̱...
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Kaŝi fermitajn PeerCon
 about-webrtc-aec-logging-msg-label = Registrado de AEC
 about-webrtc-aec-logging-off-state-label = Komenci registradon de AEC
 about-webrtc-aec-logging-on-state-label = Haltigi registradon de AEC
-about-webrtc-aec-logging-on-state-msg = Registrado de AEC aktiva (parolu kun la vokinto dum kelkaj minutoj kaj poste haltigu la kaptadon)
 about-webrtc-aec-logging-toggled-on-state-msg = Registrado de AEC aktiva (parolu kun la vokinto dum kelkaj minutoj kaj poste haltigu la kaptadon)
 about-webrtc-aec-logging-unavailable-sandbox = La ĉirkaŭaĵa varianto MOZ_DISABLE_CONTENT_SANDBOX=1 estas postulata por eksporti registrojn AEC. Difinu tiun varianton nur se vi komprenas la eblajn riskojn.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Nomumita
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Elektita
 about-webrtc-save-page-label = Konservi paĝon
-about-webrtc-debug-mode-msg-label = Senerariga reĝimo
-about-webrtc-debug-mode-off-state-label = Komenci senerarigan reĝimon
-about-webrtc-debug-mode-on-state-label = Haltigi senerarigan reĝimon
-about-webrtc-stats-heading = Statistikoj pri seanco
 about-webrtc-enable-logging-label = Aktivigi norma registro de WebRTC
 about-webrtc-peerconnections-section-heading = Statisktikoj de RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = Montri statistikojn de RTCPeerConnection
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = Kaŝi statistikojn de RTCPeerCon
 about-webrtc-stats-clear = Viŝi historion
 about-webrtc-log-heading = Registro de konektoj
 about-webrtc-log-clear = Viŝi registron
-about-webrtc-log-show-msg = montri registron
-    .title = alklkaku por malfaldi tiun ĉi sekcion
-about-webrtc-log-hide-msg = kaŝi registron
-    .title = alklaku por faldi tiun ĉi sekcion
 about-webrtc-log-section-show-msg = Montri registron
     .title = Alklkaku por malfaldi tiun ĉi sekcion
 about-webrtc-log-section-hide-msg = Kaŝi registron
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Fora kandidato
 about-webrtc-raw-candidates-heading = Ĉiuj krudaj kandidatoj
 about-webrtc-raw-local-candidate = Kruda loka kandidato
 about-webrtc-raw-remote-candidate = Kruda fora kandidato
-about-webrtc-raw-cand-show-msg = montri krudajn kandidatojn
-    .title = alklkaku por malfaldi tiun ĉi sekcion
-about-webrtc-raw-cand-hide-msg = kaŝi krudajn kandidatojn
-    .title = alklaku por faldi tiun ĉi sekcion
 about-webrtc-raw-cand-section-show-msg = Montri krudajn kandidatojn
     .title = Alklkaku por malfaldi tiun ĉi sekcion
 about-webrtc-raw-cand-section-hide-msg = Kaŝi krudajn kandidatojn
     .title = Alklaku por faldi tiun ĉi sekcion
 about-webrtc-priority = Prioritato
-about-webrtc-fold-show-msg = montri detalojn
-    .title = alklkaku por malfaldi tiun ĉi sekcion
-about-webrtc-fold-hide-msg = kaŝi detalojn
-    .title = alklaku por faldi tiun ĉi sekcion
 about-webrtc-fold-default-show-msg = Montri detalojn
     .title = Alklkaku por malfaldi tiun ĉi sekcion
 about-webrtc-fold-default-hide-msg = Kaŝi detalojn
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Provizita
 # been provided
 about-webrtc-configuration-element-not-provided = Ne provizita
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Preferoj de WebRTC difinitaj de uzanto
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Agordoj de WebRTC modifitaj de uzanto
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = Tienreena tempo (RTT) (ms)
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Statistikoj pri kadroj videaj - Identigilo de MediaStreamTrack: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = paĝo konservita kiel: { $path }
-about-webrtc-debug-mode-off-state-msg = spurregistrado troveblas en: { $path }
-about-webrtc-debug-mode-on-state-msg = senerariga reĝimo aktiva, spurregistrado en: { $path }
-about-webrtc-aec-logging-off-state-msg = kaptitaj dosieroj de registrado troveblas en: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

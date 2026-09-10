@@ -158,15 +158,10 @@ addon-sitepermission-host = Иҷозатҳои сомона барои { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Ҳамаи ҷузъҳои иловагӣ дар реҷаи бехатар ғайрифаъол карда шудаанд.
-extensions-warning-check-compatibility = Санҷиши мувофиқати ҷузъи иловагӣ ғайрифаъол аст. Эҳтимол, шумо ҷузъҳои иловагии номувофиқ доред.
-extensions-warning-safe-mode2 =
-    .message = Ҳамаи ҷузъҳои иловагӣ дар реҷаи бехатар ғайрифаъол карда шудаанд.
 extensions-warning-check-compatibility2 =
     .message = Санҷиши мувофиқати ҷузъи иловагӣ ғайрифаъол аст. Эҳтимол, шумо ҷузъҳои иловагии номувофиқ доред.
 extensions-warning-check-compatibility-button = Фаъол кардан
     .title = Фаъол кардани санҷиши мутобиқати ҷузъи иловагӣ
-extensions-warning-update-security = Санҷиши навсозии амнияти ҷузъи иловагӣ ғайрифаъол аст. Навсозиҳо метавонанд шуморо дар зери хатар гузоранд.
 extensions-warning-update-security2 =
     .message = Санҷиши навсозии амнияти ҷузъи иловагӣ ғайрифаъол аст. Навсозиҳо метавонанд шуморо дар зери хатар гузоранд.
 extensions-warning-update-security-button = Фаъол кардан
@@ -242,10 +237,6 @@ shortcuts-duplicate = Миёнбури такрорӣ
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } ҳамчун миёнбур дар зиёда аз як маврид истифода мешавад. Миёнбурҳои такрорӣ метавонанд рафтори ногаҳонро ба вуҷуд оранд.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } ҳамчун миёнбур дар зиёда аз як маврид истифода мешавад. Миёнбурҳои такрорӣ метавонанд рафтори ногаҳонро ба вуҷуд оранд.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -264,15 +255,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Васеъшавиҳо ва мавзуъҳо — онҳо мисли барномаҳо дар браузери шумо кор мекунанд, ва имкон медиҳанд, ки шумо тавонед ниҳонвожаҳоро муҳофизат кунед, видеоҳоро боргирӣ намоед, тахфифҳоро ба даст оред, рекламаи безоркунандаро манъ кунед, намуди зоҳирии браузери худро иваз намоед, ва ғайра. Ҳамин барномаҳои хурди
-    нармафзор аксари вақт аз ҷониби тарафҳои сеюм таҳия карда мешаванд. Маҷмуи зерин аз тарафи { -brand-product-name } нисбат ба амният, самаранокии кор ва фаъолият <a data-l10n-name="learn-more-trigger">тавсия дода мешавад</a>.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    Баъзе аз ин тавсияҳо шахсӣ карда шудаанд. Онҳо дар омори истифодабарӣ, бартариҳои
-    профил ва васеъшавиҳои дигаре, ки шумо насб кардед, асос меёбанд.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -360,16 +342,9 @@ addon-detail-last-updated-label = Санаи навсозии охирин
 addon-detail-homepage-label = Саҳифаи асосӣ
 addon-detail-rating-label = Баҳодиҳӣ
 # Message for add-ons with a staged pending update.
-install-postponed-message = Ин васеъшавӣ навсозӣ карда мешавад, вақте ки «{ -brand-short-name }» аз нав оғоз мешавад.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Ин васеъшавӣ навсозӣ карда мешавад, вақте ки «{ -brand-short-name }» аз нав оғоз мешавад.
 install-postponed-button = Ҳозир навсозӣ кунед
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Баҳои { NUMBER($rating, maximumFractionDigits: 1) } аз 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -385,9 +360,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> тоза карда шуд.
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -406,11 +378,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Дар равзанаҳои хусусӣ иҷозат дода мешавад
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Дар равзанаҳои хусусӣ иҷозат дода мешавад
 addon-detail-private-browsing-help = Агар иҷозат бошад, васеъшавӣ дар реҷаи тамошобинии хусусӣ дорои қобили дастрасӣ ба фаъолияти шумо дар Интернет мебошад. <a data-l10n-name="learn-more">Маълумоти бештар</a>
 addon-detail-private-browsing-allow = Иҷозат додан
@@ -437,17 +404,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } танҳо он васеъшавиҳоро тавсия медиҳад, ки ба стандартҳои мо оид ба амният ва самаранокӣ ҷавобгӯ мебошанд
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Васеъшавии расмие, ки аз тарафи «Mozilla» эҷод карда шудааст. Ба стандартҳои мо оид ба амният ва самаранокӣ ҷавобгӯ мебошад
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Ин васеъшавӣ нисбат ба мувофиқат ба стандартҳои мо оид ба амният ва самаранокӣ тасдиқ карда шудааст
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -477,9 +433,6 @@ addon-permissions-heading = Иҷозатҳо
 addon-permissions-empty2 = Ин васеъшавӣ ягон иҷозатро талаб намекунад.
 addon-permissions-required-label = Ҳатмӣ аст:
 addon-permissions-optional-label = Интихобӣ аст:
-addon-permissions-empty = Ин васеъшавӣ ягон иҷозатро талаб намекунад
-addon-permissions-required = Иҷозатҳои лозимӣ барои фаъолияти асосӣ:
-addon-permissions-optional = Иҷозатҳои ихтиёрӣ барои фаъолияти иловагӣ:
 addon-permissions-learnmore = Маълумоти бештар дар бораи иҷозатҳо
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -520,25 +473,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } ба { -brand-short-name } { $version } мувофиқат намекунад.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } ба { -brand-short-name } { $version } мувофиқат намекунад.
-details-notification-incompatible-link = Маълумоти бештар
-details-notification-unsigned-and-disabled = Истифодаи «{ $name }» дар «{ -brand-short-name }» тасдиқ карда нашуд ва ба ин сабаб ғайрифаъол карда шуд.
 details-notification-unsigned-and-disabled2 =
     .message = Истифодаи «{ $name }» дар «{ -brand-short-name }» тасдиқ карда нашуд ва ба ин сабаб ғайрифаъол карда шуд.
-details-notification-unsigned-and-disabled-link = Маълумоти бештар
-details-notification-unsigned = Истифодаи «{ $name }» дар «{ -brand-short-name }» тасдиқ карда нашуд. Бо эҳтиёт истифода баред.
 details-notification-unsigned2 =
     .message = Истифодаи «{ $name }» дар «{ -brand-short-name }» тасдиқ карда нашуд. Бо эҳтиёт истифода баред.
 details-notification-hard-blocked-extension =
     .message = Ин васеъшавӣ ба сабаби вайрон кардани сиёсатҳои «Mozilla» манъ карда шуд ва ғайрифаъол шудааст.
 details-notification-hard-blocked-other =
     .message = Ин ҷузъи иловагӣ ба сабаби вайрон кардани сиёсатҳои «Mozilla» манъ карда шуд ва ғайрифаъол шудааст.
-details-notification-unsigned-link = Маълумоти бештар
-details-notification-blocked = Ба сабабҳои мушкилиҳои амниятӣ ё ноустувории кор, { $name } ғайрифаъол карда шуд.
 details-notification-blocked-link2 = Дидани тафсилот
 details-notification-soft-blocked-extension-disabled2 =
     .message = Ин васеъшавӣ маҳдуд шудааст ва ҳам ғайрифаъол шудааст. Шумо метавонед онро фаъол созед, аммо ин метавонад хатарнок бошад.
@@ -548,19 +492,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = Ин ҷузъи иловагӣ маҳдуд шудааст ва пас ғайрифаъол шудааст. Шумо метавонед онро фаъол созед, аммо ин метавонад хатарнок бошад.
 details-notification-soft-blocked-other-enabled2 =
     .message = Ин ҷузъи иловагӣ маҳдуд шудааст. Истифодаи он метавонад хатарнок бошад.
-details-notification-soft-blocked-extension-disabled =
-    .message = Ин васеъшавӣ ба сабаби вайрон кардани сиёсатҳои «Mozilla» маҳдуд карда шуд ва ғайрифаъол шудааст. Шумо метавонед онро фаъол созед, аммо ин метавонад хатарнок бошад.
-details-notification-soft-blocked-extension-enabled =
-    .message = Ин васеъшавӣ сиёсати «Mozilla»-ро вайрон мекунад. Истифодаи он метавонад хатарнок бошад.
-details-notification-soft-blocked-other-disabled =
-    .message = Ин ҷузъи иловагӣ ба сабаби вайрон кардани сиёсатҳои «Mozilla» маҳдуд карда шуд ва ғайрифаъол шудааст. Шумо метавонед онро фаъол созед, аммо ин метавонад хатарнок бошад.
-details-notification-soft-blocked-other-enabled =
-    .message = Ин ҷузъи иловагӣ сиёсати «Mozilla»-ро вайрон мекунад. Истифодаи он метавонад хатарнок бошад.
 details-notification-softblocked-link2 = Дидани тафсилот
-details-notification-blocked-link = Маълумоти бештар
-details-notification-softblocked = { $name } мушкилиҳои амниятӣ ва ноустувории корро ба вуҷуд меорад.
-details-notification-softblocked-link = Маълумоти бештар
-details-notification-gmp-pending = { $name } ба зудӣ насб карда мешавад.
 details-notification-gmp-pending2 =
     .message = { $name } ба зудӣ насб карда мешавад.
 
@@ -576,8 +508,6 @@ plugins-widevine-description = Ин плагин пахшкунии расона
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Ҷамъоварии маълумоти зарурӣ:
-addon-permissions-optional-data-collection = Ҷамъоварии маълумоти иловагӣ:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Иҷозатҳо ва маълумот
 # This is a description for extension that use this AI model

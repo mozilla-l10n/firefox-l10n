@@ -34,12 +34,6 @@ mr1-return-to-amo-add-extension-label = { $addon-name } ചേൎക്കുക
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = മുന്നേറ്റം: { $total }-ൽ { $current }-ആം പടി
 # String for the Firefox Accounts button
@@ -144,22 +138,7 @@ mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } ത�
 ## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-get-started-primary-button-label = നിമിഷങ്ങൾക്കുള്ളിൽ സജ്ജമാക്കുക
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
 mr2022-onboarding-import-primary-button-label-no-attribution = മുമ്പത്തെ അന്വേഷിയന്ത്രം നിന്നു് ഇറക്കുമതി ചെയ്യുക
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-primary-button-label-continue = തീൎച്ചപ്പെടുത്തിയിട്ടു് തുടരുക
-mr2022-onboarding-colorway-label-default = തനിമട്ട്
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = വിനവുക്കാണി (ഊതന്നിറം)
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -244,11 +223,8 @@ onboarding-checklist-sign-up = താങ്ങളുടെ അക്കൗണ്
 
 ## Tab Groups feature onboarding strings
 
-tab-groups-onboarding-create-group-title-2 = താങ്ങൾക്കു് എപ്പോൾ വേണമെങ്കിലും താങ്ങളുടെ ടാബുക്കൂട്ടങ്ങളെ ഇവിടെ കാണാം.
 tab-groups-onboarding-create-group-no-alltabs-button-title = താങ്ങളുടെ ടാബുക്കൂട്ടങ്ങളെ തിരച്ചിൽപ്പട്ട വഴി കണ്ടുപ്പിടിക്കുക.
-tab-groups-onboarding-saved-groups-title-2 = ടാബുക്കൂട്ടത്തിനെ താങ്ങൾ അടച്ചാലെങ്കിലും താങ്ങൾക്കു് അതിനെ എപ്പോൾ വേണമെങ്കിലും ഇവിടെ പിന്നെയും തുറക്കാം.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = താങ്ങളുടെ ടാബുക്കൂട്ടങ്ങളെ തിരച്ചിൽപ്പട്ട വഴി കണ്ടുപ്പിടിക്കുക.
-tab-groups-onboarding-session-restore-title = താങ്ങൾക്കു് എപ്പോൾ വേണമെങ്കിലും താങ്ങളുടെ ടാബുക്കൂട്ടങ്ങളെ ഇവിടെ വീണ്ടും തുറക്കാം.
 tab-groups-onboarding-dismiss = ശരി
 
 ## Multi Profiles feature onboarding messages

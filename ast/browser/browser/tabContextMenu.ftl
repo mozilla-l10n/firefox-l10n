@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Llingüeta nueva
-    .accesskey = L
 reload-tab =
     .label = Volver cargar la llingüeta
     .accesskey = R
@@ -70,10 +67,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Compartir
     .accesskey = C
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->

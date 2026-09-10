@@ -117,8 +117,6 @@ options-disable-http-cache-tooltip =
     .title = Uključivanjem ove mogućnosti, deaktivirat će se HTTP predmemorija za sve kartice s otvorenom kutijom alata. Ova mogućnost nema utjecaja na service workere.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label-2 = Deaktiviraj JavaScript
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Onemogući JavaScript *
 options-disable-javascript-tooltip =
     .title = Isključivanje ove mogućnosti će onemogućiti JavaScript za trenutačnu karticu. Ako se kartica ili alatna traka zatvore, ova će se postavka zaboraviti.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -148,8 +146,6 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = (samo trenutačna sesija, ponovo učitava stranicu)
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Samo trenutačna sesija, ponovo učitava stranicu
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (ponovo učitava stranicu)

@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = Įrašyti „about:webrtc“ kaip
 about-webrtc-aec-logging-msg-label = AEC įrašymas
 about-webrtc-aec-logging-off-state-label = Pradėti AEC įrašinėjimą
 about-webrtc-aec-logging-on-state-label = Baigti AEC įrašinėjimą
-about-webrtc-aec-logging-on-state-msg = AEC įrašinėjimas aktyvus (pakalbėkite su pašnekovu keletą minučių, o tada sustabdykite įrašymą)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC įrašinėjimas aktyvus (pakalbėkite su pašnekovu keletą minučių, o tada sustabdykite įrašymą)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -81,17 +80,9 @@ about-webrtc-nominated = Nominuota
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Pasirinkta
 about-webrtc-save-page-label = Įrašyti tinklalapį
-about-webrtc-debug-mode-msg-label = Derinimo veiksena
-about-webrtc-debug-mode-off-state-label = Įjungti derinimo veikseną
-about-webrtc-debug-mode-on-state-label = Išjungti derinimo veikseną
-about-webrtc-stats-heading = Seanso statistika
 about-webrtc-stats-clear = Išvalyti istoriją
 about-webrtc-log-heading = Ryšio žurnalas
 about-webrtc-log-clear = Išvalyti žurnalą
-about-webrtc-log-show-msg = rodyti žurnalą
-    .title = spustelėkite, norėdami išskleisti šią sekciją
-about-webrtc-log-hide-msg = slėpti žurnalą
-    .title = spustelėkite, norėdami suskleisti šią sekciją
 about-webrtc-log-section-show-msg = Rodyti žurnalą
     .title = Spustelėkite, norėdami išskleisti šią sekciją
 about-webrtc-log-section-hide-msg = Slėpti žurnalą
@@ -114,19 +105,11 @@ about-webrtc-remote-candidate = Nuotolinis kandidatas
 about-webrtc-raw-candidates-heading = Visi neapdoroti kandidatai
 about-webrtc-raw-local-candidate = Neapdorotas vietinis kandidatas
 about-webrtc-raw-remote-candidate = Neapdorotas nuotolinis kandidatas
-about-webrtc-raw-cand-show-msg = rodyti neapdorotus kandidatus
-    .title = spustelėkite, norėdami išskleisti šią sekciją
-about-webrtc-raw-cand-hide-msg = slėpti neapdorotus kandidatus
-    .title = spustelėkite, norėdami suskleisti šią sekciją
 about-webrtc-raw-cand-section-show-msg = Rodyti neapdorotus kandidatus
     .title = Spustelėkite, norėdami išskleisti šią sekciją
 about-webrtc-raw-cand-section-hide-msg = Slėpti neapdorotus kandidatus
     .title = Spustelėkite, norėdami suskleisti šią sekciją
 about-webrtc-priority = Prioritetas
-about-webrtc-fold-show-msg = išsamiau
-    .title = spustelėkite, norėdami išskleisti šią sekciją
-about-webrtc-fold-hide-msg = mažiau
-    .title = spustelėkite, norėdami suskleisti šią sekciją
 about-webrtc-fold-default-show-msg = Išsamiau
     .title = Spustelėkite, norėdami išskleisti šią sekciją
 about-webrtc-fold-default-hide-msg = Mažiau
@@ -161,8 +144,6 @@ about-webrtc-configuration-element-provided = Pateikta
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Nepateikta
-# The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Naudotojo nustatytos „WebRTC“ parinktys
 
 ##
 
@@ -186,13 +167,6 @@ about-webrtc-round-trip-time-ms = RTT (ms)
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Vaizdo kadrų statistika – „MediaStreamTrack“ ID: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = tinklalapis įrašytas į: { $path }
-about-webrtc-debug-mode-off-state-msg = vykdymo sekimo žurnalas yra čia: { $path }
-about-webrtc-debug-mode-on-state-msg = derinimo veiksena aktyvi, vykdymo sekimo žurnalas čia: { $path }
-about-webrtc-aec-logging-off-state-msg = įrašyti žurnalo failai yra čia: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

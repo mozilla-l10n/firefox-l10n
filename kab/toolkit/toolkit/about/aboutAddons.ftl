@@ -154,15 +154,10 @@ addon-sitepermission-host = Tisirag n usmel i { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Armad n izegrar yekkes-it uskar aɣalsan.
-extensions-warning-check-compatibility = Asenqed n umṣada n izegrar ur yermid ara. Yezmer ad tesɛuḍ izegrar ur yemṣadan ara.
-extensions-warning-safe-mode2 =
-    .message = Armad n izegrar yekkes-it uskar aɣalsan.
 extensions-warning-check-compatibility2 =
     .message = Asenqed n umṣada n izegrar ur yermid ara. Yezmer ad tesɛuḍ izegrar ur yemṣadan ara.
 extensions-warning-check-compatibility-button = Rmed
     .title = Rmed asenqed n tisiḍent
-extensions-warning-update-security = Asenqed n ileqman n tɣellist n izegrar ur yermid ara. Yezmer ad tesɛuḍ yir izegrar.
 extensions-warning-update-security2 =
     .message = Asenqed n ileqman n tɣellist n izegrar ur yermid ara. Yezmer ad tesɛuḍ yir izegrar.
 extensions-warning-update-security-button = Rmed
@@ -234,10 +229,6 @@ shortcuts-duplicate = Sleg anegzum
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } yettwaseqdec am unegzum deg ddeqs n yimukan. Inegzumen imsinen zemren ad d-glun s tiddin ur nelhi ara.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } yettwaseqdec am unegzum deg ddeqs n yimukan. Inegzumen imsinen zemren ad d-glun s tiddin ur nelhi ara.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -257,13 +248,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Isiɣzaf akked isental am yisnasen i  yiminig-ik ara k-yeǧǧen ad temmestneḍ awalen-ik uffiren, ad tessadreḍ tividyutin, ad d-tafeḍ tignatin yelhan, ad tesweḥleḍ adellel udhim, ad tbeddleḍ udem n yiminig,atg. Iseɣzanen-a imeẓyanen deg tuget xeddmen-ten ineflayen ilelliyen. A-tt-a kra n tefrant anida { -brand-product-name }<a data-l10n-name="learn-more-trigger">yettwellih</a> i tɣellist, tamellit akked tmahilin meqqren.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    Kra seg yiwellihen-a d udmawanen. Tagrumma-a tebna ɣef yisiɣzaf-nniḍen
-    i tesbeddeḍ, iɣewwaren n umaɣnu-ik akked tiddadanin n useqdec.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -332,16 +316,9 @@ addon-detail-last-updated-label = Aleqqem aneggaru
 addon-detail-homepage-label = Asebter agejdan
 addon-detail-rating-label = Tizmilin
 # Message for add-ons with a staged pending update.
-install-postponed-message = Asiɣzef-a ad yettwaleqqem mi ara iɛawed { -brand-short-name } asenker.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Asiɣzef-a ad yettwaleqqem mi ara iɛawed { -brand-short-name } asenker.
 install-postponed-button = Leqqem tura
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Yettwasezmel { NUMBER($rating, maximumFractionDigits: 1) } ɣef 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -357,9 +334,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> yettwakkes.
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -378,11 +352,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Yettusireg def usfaylu uslig kan
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Yettusireg def usfaylu uslig kan
 addon-detail-private-browsing-help = Ma yettwasireg, asiɣzef ad yekcem ɣer urmud-ik srid deg tunigt tusrigt.<a data-l10n-name="learn-more">Issin ugar</a>
 addon-detail-private-browsing-allow = Sireg
@@ -407,17 +376,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } ur ittwelleh ala isiɣzaf yemṣadan d yilugan-nneɣ icudden ɣer tɣellist akked timellit.
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Asiɣzef unṣib tebna Mozila. Iteddu d yilugan n tɣellist d temlellit.
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Asiɣzef-a yettusenqed i wakken ara yemṣada d yilugan-nneɣ icudden ɣer tɣellist akked timellit.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -447,9 +405,6 @@ addon-permissions-heading = Tisirag
 addon-permissions-empty2 = Asiɣzef ur yesri kra n tsiregt.
 addon-permissions-required-label = Yettawsra:
 addon-permissions-optional-label = D axetṛan:
-addon-permissions-empty = Asiɣzef-agi ur yesra ara tisirag
-addon-permissions-required = Tisirag yettwasran i tmahilin n uzadur:
-addon-permissions-optional = Tisirag tifrayanin i tmahilin yettwarnan:
 addon-permissions-learnmore = Issin ugar ɣef tsirag
 recommended-extensions-heading = Isiɣzaf ihulen
 recommended-themes-heading = Isental ihulen
@@ -486,39 +441,18 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } ur imṣada ara d { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } ur imṣada ara d { -brand-short-name } { $version }.
-details-notification-incompatible-link = Ugar n telɣut
-details-notification-unsigned-and-disabled = { $name } ur iţusenqed ara i weseqdec-ines ɣef { -brand-short-name }, atan ihi irermed.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } ur iţusenqed ara i weseqdec-ines ɣef { -brand-short-name }, atan ihi irermed.
-details-notification-unsigned-and-disabled-link = Ugar n telɣut
-details-notification-unsigned = { $name } ur iţusenqed ara i weseqdec-ines ɣef { -brand-short-name }. Ɣuṛ-k.
 details-notification-unsigned2 =
     .message = { $name } ur iţusenqed ara i weseqdec-ines ɣef { -brand-short-name }. Ɣuṛ-k.
 details-notification-hard-blocked-extension =
     .message = Asiɣzef-a yettusewḥel acku yetεedda ɣef tsertit n Mozilla ɣef waya yensa.
 details-notification-hard-blocked-other =
     .message = Azegrir-a yettusewḥel acku yetεedda ɣef tsertit n Mozilla ɣef waya yensa.
-details-notification-unsigned-link = Ugar n telɣut
-details-notification-blocked = { $name } yensa imi d-imuger uguren n tɣellist neɣ n urkad.
 details-notification-blocked-link2 = Wali talqayt
-details-notification-soft-blocked-extension-disabled =
-    .message = Asiɣzef-a yesεa tilas, ur iquder ara tasertit n Mozilla, yettwakkes. Tzemreḍ ad t-tremdeḍ, d acu yezmer ad tesεḍ uguren.
-details-notification-soft-blocked-extension-enabled =
-    .message = Asiɣzef-a ur iquder ara tasertit n Mozilla. Aseqdec-is yezmer ad d-yeglu s wuguren.
-details-notification-soft-blocked-other-disabled =
-    .message = Azegrir-a yesεa tilas, ur iquder ara tasertit n Mozilla, yettwakkes. Tzemreḍ ad t-tremdeḍ, d acu yezmer ad tesεḍ uguren.
-details-notification-soft-blocked-other-enabled =
-    .message = Azegrir-a ur iquder ara tasertit n Mozilla. Aseqdec-is yezmer ad d-yeglu s wuguren.
 details-notification-softblocked-link2 = Wali talqayt
-details-notification-blocked-link = Ugar n telɣut
-details-notification-softblocked = { $name } iţwassen dakken iggar-d uguren n tɣellist neɣ n urkad.
-details-notification-softblocked-link = Ugar n telɣut
-details-notification-gmp-pending = { $name } ad iţwasebded si sya ɣer da.
 details-notification-gmp-pending2 =
     .message = { $name } ad iţwasebded si sya ɣer da.
 
@@ -534,8 +468,6 @@ plugins-widevine-description = Azegrir-agi ad irmed taɣuri n wallalen n teywalt
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Yesra alqaḍ n yisefka:
-addon-permissions-optional-data-collection = Alqaḍ n yisefka axetṛan:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Tisirag akked yisefka
 # This is a description for extension that use this AI model

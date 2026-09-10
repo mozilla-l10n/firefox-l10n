@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = விதிவிலக்குகள்
     .style = min-width: 45em
+    .title = விதிவிலக்குகள்
 permissions-close-key =
     .key = w
 permissions-address = வலைத்தளத்தின் முகவரி
@@ -57,58 +57,44 @@ permissions-invalid-uri-label = ஒரு சரியான புரவலன�
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
+    .style = { permissions-window2.style }
     .title = விதிவிலக்குகள் - நினைவிகளும் தள தரவும்
-    .style = { permissions-window2.style }
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = அனுமதிக்கப்பட்ட தளங்கள் - துள்ளல்கள்
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = எந்த இணையதளங்கள் பாப்பப் சாளரங்களை திறக்க அனுமதிக்கும் என்பதைக் குறிப்பிடலாம். மேலாண்மை செய்ய வேண்டிய இணைய தளத்தின் சரியான முகவரியை தட்டச்சு செய்து பின் அனுமதி என்பதை சொடுக்கவும்.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = விதிவிலக்குகள் - சேமிக்கப்பட்ட புகுபதிகைகள்
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = பின்வரும் தளங்களின் புகுபதிகைகள் சேமிக்கப்படாது
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = அனுமதிக்கப்பட்ட இணைய தளங்கள் - கூடுதல் இணைப்பு நிறுவல்
     .style = { permissions-window2.style }
+    .title = அனுமதிக்கப்பட்ட இணைய தளங்கள் - கூடுதல் இணைப்பு நிறுவல்
 permissions-exceptions-addons-desc = எந்த இணையதளங்கள் கூடுதல் இணைப்புகளை நிறுவ அனுமதிக்கும் என்பதைக் குறிப்பிடலாம். மேலாண்மை செய்ய வேண்டிய இணைய தளத்தின் சரியான முகவரியை தட்டச்சு செய்து பின் அனுமதி என்பதை சொடுக்கவும்.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = அமைப்புகள் - அறிவிப்பு அனுமதிகள்
     .style = { permissions-window2.style }
+    .title = அமைப்புகள் - அறிவிப்பு அனுமதிகள்
 permissions-site-notification-disable-label =
     .label = அறிவிப்புகளை அனுமதிக்கும் புதிய கோரிக்கைகளைத் தடு
 
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = அமைப்புகள் - இட அனுமதிகள்
     .style = { permissions-window2.style }
+    .title = அமைப்புகள் - இட அனுமதிகள்
 permissions-site-location-disable-label =
     .label = உங்கள் இருப்பிடத்தை அணுகும் புதிய கோரிக்கைகளைத் தடு
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = அமைப்புகள் - படக்கருவி அனுமதிகள்
     .style = { permissions-window2.style }
+    .title = அமைப்புகள் - படக்கருவி அனுமதிகள்
 permissions-site-camera-disable-label =
     .label = உங்கள் இருப்பிடத்தை அணுகும் புதிய கோரிக்கைகளைத் தடு
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = அமைப்புகள் - ஒலிவாங்கி அனுமதிகள்
     .style = { permissions-window2.style }
+    .title = அமைப்புகள் - ஒலிவாங்கி அனுமதிகள்
 permissions-site-microphone-disable-label =
     .label = உங்கள் ஒலிவாங்கி அணுகும் புதிய கோரிக்கைகளைத் தடு

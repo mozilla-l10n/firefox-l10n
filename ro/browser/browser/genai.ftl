@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = Sunt pe pagina „{ $tabTitle }” cu textul „
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Întreabă un chatbot AI
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Întreabă { $provider }
 genai-menu-open-generic =
     .label = Deschide un chatbot AI
 # $provider (string) - name of the provider
@@ -122,8 +117,6 @@ genai-header-provider-menu =
     .title = Alege un chatbot
 genai-header-settings-button =
     .title = Setări chat AI
-genai-header-options-button =
-    .title = Deschide meniul
 genai-header-close-button =
     .title = Închide
 genai-provider-view-details =
@@ -151,37 +144,25 @@ genai-page-button-summarize = Fă rezumatul paginii
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Rezumă, găsește idei și mai multe în timp ce navighezi
 genai-onboarding-choose-header = Alege un chatbot AI de utilizat în bara laterală { -brand-short-name }
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Alege un chatbot AI de folosit în bara laterală { -brand-short-name }. Vom afișa detalii despre fiecare chatbot când îl alegi. Îl poți schimba oricând. <a data-l10n-name="learn-more">Află mai multe</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Îl schimbi oricând. Pentru ajutor în alegere, <a data-l10n-name="learn-more">află mai multe despre fiecare chatbot</a>.
 genai-onboarding-primary = Continuă
 genai-onboarding-secondary = Închide
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Află mai multe despre Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Află mai multe despre ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Află mai multe despre Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Află mai multe despre Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = Află mai multe despre HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Află mai multe despre Le Chat
-genai-onboarding-select-header = Selectează text pentru a vedea sugestii
-genai-onboarding-select-description = Când selectezi text, îți vom sugera interogări pe care le poți trimite chatbotului. Poți scrie și propriile interogări.
-genai-onboarding-select-primary = Începe discuția
 genai-chatbot-contextual-title = Folosește un chatbot AI fără să schimbi fila
 genai-chatbot-contextual-subtitle = Discuți și navighezi juxtapus când adaugi un chatbot AI în bara laterală { -brand-short-name }.
 genai-chatbot-contextual-button = Alege un chatbot
@@ -194,27 +175,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = Dă clic dreapta pe butonul c
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Deschide chatbotul AI în bara laterală și alege „Fă rezumatul paginii” din partea de jos.
 genai-chatbot-summarize-footer-generic-subtitle = Adaugă un chatbot AI în bara laterală { -brand-short-name } pentru rezumatul rapid al paginilor.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Generează text și cod
-genai-onboarding-claude-analyze = Analizează documente și imagini
-genai-onboarding-claude-price = Opțiuni gratuite și contra cost; necesită cont
-genai-onboarding-chatgpt-generate = Generează text, imagini și cod
-genai-onboarding-chatgpt-analyze = Analizează documente și imagini
-genai-onboarding-chatgpt-price = Opțiuni gratuite și contra cost; necesită cont în anumite țări sau pentru anumite sarcini
-genai-onboarding-copilot-generate = Generează text, imagini și cod
-genai-onboarding-copilot-analyze = Analizează imaginile
-genai-onboarding-copilot-price = Opțiuni gratuite și contra cost; necesită cont pentru unele sarcini
-genai-onboarding-gemini-generate = Generează text, imagini și cod
-genai-onboarding-gemini-analyze = Analizează imagini (gratuit) și documente (contra cost)
-genai-onboarding-gemini-price = Opțiuni gratuite și contra cost; necesită cont
-genai-onboarding-huggingchat-generate = Generează text și cod
-genai-onboarding-huggingchat-switch = Treci de la un set la altul de modele deschise
-genai-onboarding-huggingchat-price-2 = Gratuit; necesită cont după un anumit număr de interogări
-genai-onboarding-lechat-generate = Generează text și cod
-genai-onboarding-lechat-price = Gratuit; necesită cont
 
 ## Model Optin Component
 
@@ -254,8 +214,8 @@ link-preview-generation-retry = Încearcă din nou
 link-preview-settings-button =
     .title = Setări de previzualizare a linkurilor
 link-preview-settings-enable =
-    .label = Activează previzualizările linkurilor
     .description = Vezi titlul paginii, descrierea și multe altele când folosești comanda rapidă sau dai clic dreapta pe un link.
+    .label = Activează previzualizările linkurilor
 link-preview-settings-key-points =
     .label = Permite AI să citească începutul paginii și să genereze puncte-cheie
 link-preview-settings-long-press =

@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = قلوه ز { -vendor-short-name }
 more-from-moz-page-header =
     .heading = قلوه ز { -vendor-short-name }
 more-from-moz-category =
@@ -13,8 +12,8 @@ more-from-moz-category =
 more-from-moz-firefox-mobile-title = { -brand-product-name } موبایل
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } سی موبایل
 more-from-moz-firefox-mobile =
-    .label = { -brand-product-name } سی موبایل
     .description = گشت گر موبایلی ک هریم سیخومی ایسا ن اولویت انه.
+    .label = { -brand-product-name } سی موبایل
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-qr-code-box-firefox-mobile-button = و جا هو، و تیلیفووݩ خوتووݩ ایمیل بفشنین
 more-from-moz-qr-code-firefox-mobile-img =

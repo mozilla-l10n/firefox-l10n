@@ -16,8 +16,6 @@ styleeditor-save-button = Sábháil
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Roghanna don Eagarthóir Stíle
-styleeditor-editor-textbox =
-    .data-placeholder = Cuir CSS anseo.
 styleeditor-no-stylesheet = Níl aon stílbhileog ag an leathanach seo.
 styleeditor-no-stylesheet-tip = B'fhéidir gur mhaith leat <a data-l10n-name="append-new-stylesheet">stílbhileog nua a chur leis</a>?
 styleeditor-open-link-new-tab =

@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Ch'aqa' chik chi rij { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Ch'aqa' chik chi rij { -vendor-short-name }
 more-from-moz-firefox-mobile-title = { -brand-product-name } Oyonib'äl

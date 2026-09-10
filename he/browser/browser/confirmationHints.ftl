@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = הדיווח נשלח. תודה!
-confirmation-hint-login-removed = הכניסה הוסרה!
 confirmation-hint-password-removed = הססמה הוסרה!
 confirmation-hint-page-bookmarked = נשמר לסימניות
-confirmation-hint-password-saved = הססמה נשמרה!
 confirmation-hint-password-created = הססמה נשמרה
 confirmation-hint-password-updated = הססמה עודכנה
 confirmation-hint-address-created = הכתובת נשמרה

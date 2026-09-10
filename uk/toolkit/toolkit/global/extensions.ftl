@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Додати { $extension }?
-webext-perms-header-with-perms = Додати { $extension }? Це розширення матиме такі дозволи:
-webext-perms-header-unsigned = Додати { $extension }? Це розширення неперевірене. Зловмисні розширення можуть викрадати вашу особисту інформацію, або компрометувати ваш комп'ютер. Додавайте його лише якщо ви впевнені в надійності джерела.
-webext-perms-header-unsigned-with-perms = Додати { $extension }? Це розширення неперевірене. Зловмисні розширення можуть викрадати вашу особисту інформацію, або компрометувати ваш комп'ютер. Додавайте його лише якщо ви впевнені в надійності джерела. Це розширення матиме дозвіл:
 webext-perms-sideload-header = { $extension } додано
 webext-perms-optional-perms-header2 = { $extension } запитує додаткові дозволи
-webext-perms-optional-perms-header = { $extension } запитує додаткові дозволи.
 webext-perms-header2 = Додати { $extension }
 webext-perms-list-intro-unsigned = Це неперевірене розширення може поставити під загрозу вашу приватність або скомпрометувати ваш пристрій. Додавайте його, лише якщо довіряєте походженню.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = Розширення { $extension } оновлено. Ви повинні схвалити нові дозволи, перш ніж буде встановлено оновлену версію. Якщо вибрати "Скасувати", збережеться ваша поточна версія розширення.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } було оновлено. Ви повинні схвалити нові дозволи перед встановленням оновленої версії. Вибравши “Скасувати”, розширення не оновиться і ви продовжите користуватися поточною версією. Це розширення матиме такі дозволи:
 webext-perms-update-accept =
     .label = Оновити
     .accesskey = н
@@ -73,26 +65,8 @@ webext-perms-host-description-file-urls = Доступ до локальних �
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Доступ до ваших даних для сайтів у домені { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Доступ до ваших даних для ще { $domainCount } домену
-        [few] Доступ до ваших даних для ще { $domainCount } доменів
-       *[many] Доступ до ваших даних для ще { $domainCount } доменів
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Доступ до ваших даних для { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Доступ до ваших даних для ще { $domainCount } сайту
-        [few] Доступ до ваших даних для ще { $domainCount } сайтів
-       *[many] Доступ до ваших даних для ще { $domainCount } сайтів
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

@@ -56,4 +56,3 @@ certificate-viewer-unknown-group-label = (അറിയാത്തത്)
 
 certificate-viewer-tab-people = ആളുകള്‍
 certificate-viewer-tab-ca = മേൽക്കോയ്മർ
-certificate-viewer-tab-unkonwn = അറിയാത്തതു്

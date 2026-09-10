@@ -38,8 +38,6 @@ appmenuitem-extensions-and-themes =
     .label = Udvidelser og temaer
 appmenuitem-extensions =
     .label = Udvidelser
-appmenuitem-addons-and-themes =
-    .label = Tilføjelser og temaer
 appmenuitem-print =
     .label = Udskriv…
 appmenuitem-find-in-page =
@@ -153,7 +151,6 @@ fxa-menu-get-firefox-mobile =
     .label = Hent { -brand-product-name } til Android eller iOS
 fxa-menu-secure-sync-subpanel =
     .title = Sikker synkronisering
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Konto
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -174,15 +171,6 @@ appmenuitem-save-page =
     .label = Gem side som…
 appmenuitem-fxa-sync-off-title = Synkronisering er slået fra
 appmenuitem-fxa-sync-off-description = Beskyt og få adgang til dine bogmærker, adgangskoder og mere fra enhver enhed.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Nyheder
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Giv besked om nye funktioner
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -319,8 +307,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Mere teknisk information
     .accesskey = t
-appmenu-help-report-site-issue =
-    .label = Rapportér problem med websted…
 appmenu-help-share-ideas =
     .label = Del ideer og feedback…
     .accesskey = D
@@ -380,13 +366,11 @@ appmenuitem-vpn-title2 = Skjul din placering med { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title-signed-in1 = Hent { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Få beskyttelse af hele din enhed
-appmenuitem-vpn-description = Beskyt din aktivitet på nettet
 appmenu-services-header = Mine tjenester
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Prøv andre beskyttelses-værktøjer fra Mozilla:
-appmenu-other-protection-header = Prøv andre beskyttelses-værktøjer fra { -vendor-short-name }:
 
 ## Profiles panel
 

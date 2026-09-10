@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Yab dirica me mung
     .accesskey = m
 about-private-browsing-search-placeholder = Yeny Kakube
-about-private-browsing-info-title = Itye ii Dirica me Mung
 about-private-browsing-search-btn =
     .title = Yeny kakube
 # Variables
@@ -19,7 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Yeny ki { $engine } onyo ket kanonge
 about-private-browsing-handoff-text-no-engine = Yeny onyo ket kanonge
 about-private-browsing-not-private = Kombedi pe itye i dirica me mung.
-about-private-browsing-learn-more-link = Nong ngec mapol
 about-private-browsing-prominent-cta = Bed i mung ki { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Gam { -focus-brand-name }
 # This string is the title for the banner for search engine selection

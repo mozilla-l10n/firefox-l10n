@@ -10,12 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = { $extension } ᱥᱮᱞᱮᱫᱼᱟ?
-webext-perms-header-with-perms = { $extension } ᱥᱮᱞᱮᱫ ᱟ ᱥᱮ? ᱱᱚᱶᱟ ᱯᱟᱥᱱᱟᱣ ᱴᱷᱮᱱ ᱪᱷᱟᱲ ᱠᱚ ᱛᱟᱦᱮᱸᱱᱟ :
-webext-perms-header-unsigned = { $extension } ᱥᱮᱞᱮᱫ ᱟ ᱥᱮ? ᱱᱚᱶᱟ ᱯᱟᱥᱱᱟᱣ ᱫᱚ ᱵᱟᱝ ᱯᱩᱥᱴᱟᱹᱣᱟᱜ ᱠᱟᱱᱟ ᱾ ᱵᱟᱱᱴᱷᱤᱠ ᱯᱟᱥᱱᱟᱣ ᱠᱚ ᱟᱢᱟᱜ ᱱᱤᱡᱚᱨ ᱡᱤᱱᱤᱥ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱟᱢᱟᱜ ᱠᱳᱢᱯᱩᱴᱚᱨ ᱨᱮᱭᱟᱜ ᱡᱤᱱᱥᱤ ᱠᱚ ᱦᱟᱛᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾ ᱡᱤᱫᱤ ᱥᱨᱚᱛ ᱵᱷᱚᱨᱥᱟ ᱠᱷᱟᱱ ᱚᱱᱟ ᱥᱮᱞᱮᱫ ᱠᱟᱜ ᱢᱮ ᱾
-webext-perms-header-unsigned-with-perms = { $extension } ᱥᱮᱞᱮᱫ ᱟ ᱥᱮ? ᱱᱚᱶᱟ ᱯᱟᱥᱱᱟᱣ ᱫᱚ ᱵᱟᱝ ᱯᱩᱥᱴᱟᱹᱣᱟᱜ ᱠᱟᱱᱟ ᱾ ᱵᱟᱱᱴᱷᱤᱠ ᱯᱟᱥᱱᱟᱣ ᱠᱚ ᱟᱢᱟᱜ ᱱᱤᱡᱚᱨ ᱡᱤᱱᱤᱥ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱟᱢᱟᱜ ᱠᱳᱢᱯᱩᱴᱚᱨ ᱨᱮᱭᱟᱜ ᱡᱤᱱᱥᱤ ᱠᱚ ᱦᱟᱛᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾ ᱡᱤᱫᱤ ᱥᱨᱚᱛ ᱵᱷᱚᱨᱥᱟ ᱠᱷᱟᱱ ᱚᱱᱟ ᱥᱮᱞᱮᱫ ᱠᱟᱜ ᱢᱮ ᱾ ᱱᱚᱶᱟ ᱯᱟᱥᱱᱟᱣ ᱠᱚ ᱫᱚ ᱱᱚᱶᱟ ᱠᱚ ᱪᱷᱟᱰ ᱛᱟᱦᱮᱸᱱ ᱛᱟᱠᱚᱣᱟ ᱺ
 webext-perms-sideload-header = { $extension } ᱥᱮᱞᱮᱫ ᱮᱱᱟ
-webext-perms-optional-perms-header = { $extension } ᱫᱚ ᱟᱨᱦᱚᱸ ᱦᱚᱠ ᱛᱟᱭ ᱫᱚᱨᱠᱟᱨ ᱾
 
 ##
 
@@ -33,9 +28,6 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = ᱵᱟᱹᱰᱨᱟᱹ
     .accesskey = C
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } ᱫᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱦᱩᱭ ᱮᱱᱟ ᱾ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱟᱱ ᱵᱷᱚᱨᱥᱚᱱ ᱵᱟᱦᱟᱞ ᱢᱟᱲᱟᱝ ᱨᱮ ᱟᱢ ᱫᱚ ᱱᱟᱶᱟ ᱦᱚᱠ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱾ “ᱵᱟᱹᱰᱨᱟᱹ” ᱵᱟᱪᱷᱟᱣ ᱞᱮᱠᱷᱟᱱ ᱫᱚ ᱱᱤᱛᱚᱜᱟᱜ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱵᱷᱚᱨᱥᱚᱱ ᱨᱮ ᱛᱟᱦᱮᱸᱱᱟ ᱾ ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱪᱷᱮᱱ ᱦᱚᱠ ᱛᱟᱦᱸᱱᱟ :
 webext-perms-update-accept =
     .label = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ
     .accesskey = U
@@ -51,24 +43,8 @@ webext-perms-host-description-all-urls = ᱡᱚᱛᱚ ᱣᱮᱵᱥᱟᱭᱤᱴ �
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } ᱰᱚᱢᱮᱱ ᱨᱮ ᱥᱟᱭᱤᱴᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱟᱫᱮᱨ ᱢᱮ
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱮᱴᱟᱜ { $domainCount } ᱰᱚᱢᱮᱱ ᱨᱮ ᱟᱫᱮᱨ ᱢᱮ
-       *[other] ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱮᱴᱟᱜ { $domainCount } ᱰᱚᱢᱮᱱ ᱨᱮ ᱟᱫᱮᱨ ᱢᱮ
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } ᱞᱟᱹᱜᱤᱫ ᱰᱟᱴᱟ ᱟᱫᱮᱨ ᱢᱮ
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] ᱟᱢᱟᱜ ᱰᱟᱴᱟ { $domainCount } ᱮᱴᱟᱜ ᱥᱟᱦᱴᱟ ᱨᱮ ᱧᱟᱢ ᱢᱮ
-       *[other] ᱟᱢᱟᱜ ᱰᱟᱴᱟ { $domainCount } ᱮᱴᱟᱜ ᱥᱟᱦᱴᱟ ᱨᱮ ᱧᱟᱢ ᱢᱮ
-    }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

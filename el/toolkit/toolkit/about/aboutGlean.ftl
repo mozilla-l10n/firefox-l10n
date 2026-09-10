@@ -52,7 +52,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     Για μια εξήγηση των διάφορων τρόπων καταγραφής και εύρεσης δεδομένων, ανατρέξτε
     στην καρτέλα <strong>Σχετικά με τα δεδομένα</strong>.
-about-glean-about-testing-header = Σχετικά με τη δοκιμή
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     Οι πλήρεις οδηγίες τεκμηριώνονται στα
@@ -61,8 +60,6 @@ about-glean-manual-testing =
     αλλά, εν συντομία, για να ελέγξετε χειροκίνητα ότι η ενοργάνισή σας λειτουργεί, θα πρέπει να:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (χωρίς υποβολή ping)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Στο προηγούμενο πεδίο, βεβαιωθείτε ότι υπάρχει μια ετικέτα ελέγχου σφαλμάτων που θα θυμάστε εύκολα, ώστε να μπορέσετε να αναγνωρίσετε τα ping σας αργότερα.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Ορίστε μια ετικέτα ελέγχου σφαλμάτων που θα θυμάστε εύκολα <span>(20 χαρακτήρες ή λιγότεροι, μόνο αλφαριθμητικά και -)</span>, ώστε να αναγνωρίσετε αργότερα τα ping σας.
 # An in-line drop down list precedes this string.
@@ -89,13 +86,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Επισκεφτείτε τη σελίδα του { glean-debug-ping-viewer-brand-name } για τα ping με την ετικέτα σας</a>.
     Δεν θα πρέπει να διαρκέσει πάνω από μερικά δευτερόλεπτα από το πάτημα του κουμπιού μέχρι την άφιξη του ping σας.
     Μερικές φορές, ενδέχεται να διαρκέσει λίγα λεπτά.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    Για περισσότερες δοκιμές <i>ad hoc</i>,
-    μπορείτε να καθορίσετε την τρέχουσα τιμή ενός συγκεκριμένου τμήματος ενοργάνισης
-    ανοίγοντας μια κονσόλα εργαλείων ανάπτυξης εδώ στο <code>about:glean</code>
-    και χρησιμοποιώντας το <code>testGetValue()</code> API όπως το
-    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     Για περισσότερες δοκιμές <i>ad hoc</i>,
@@ -198,9 +188,6 @@ about-glean-no-data-to-display = Δεν υπάρχουν δεδομένα προ
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Οι μετρήσεις <code>DualLabeledCounter</code> δεν υποστηρίζονται ακόμα στην προβολή <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Άγνωστος τύπος μέτρησης.
-about-glean-about-data-explanation =
-    Για να περιηγηθείτε στη λίστα των συλλεγμένων δεδομένων, συμβουλευτείτε το
-    <a data-l10n-name="glean-dictionary-link">Λεξικό του { -glean-brand-name }</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

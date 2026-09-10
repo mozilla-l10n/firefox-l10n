@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = بازدەری نوێ
-newtab-settings-button =
-    .title = پەڕەی بازدەری نوێ بە دڵی خۆت لێبکە
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -52,7 +50,6 @@ newtab-search-box-search-button =
 
 newtab-topsites-add-search-engine-header = بزوێنەری گەڕان زیادبکە
 newtab-topsites-add-shortcut-header = قەدبڕی نوێ
-newtab-topsites-edit-topsites-header = ماڵپەڕی سەرەکی دەستکاریبکە
 newtab-topsites-edit-shortcut-header = قەدبڕ دەستکاریبکە
 newtab-topsites-title-label = سەردێڕ
 newtab-topsites-title-input =
@@ -90,20 +87,12 @@ newtab-topsite-sponsored = پاڵپشتیکراو
 newtab-menu-section-tooltip =
     .aria-label = پێڕست بکەرەوە
     .title = پێڕست بکەرەوە
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = بیسڕەوە
-    .title = بیسڕەوە
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = کردنەوەی پێکهاتەی پێڕست بۆ { $title }
     .title = پێڕست بکەرەوە
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = ئەم ماڵپەڕە دەستکاری بکە
-    .title = ئەم ماڵپەڕە دەستکاری بکە
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -114,16 +103,7 @@ newtab-menu-dismiss = پشتگوێخستن
 newtab-menu-pin = هەڵواسین
 newtab-menu-unpin = لابردن
 newtab-menu-delete-history = سڕینەوە لە مێژووی کار
-newtab-menu-save-to-pocket = پاشەکەوتکردن لە { -pocket-brand-name }
-newtab-menu-delete-pocket = سڕینەوە لە { -pocket-brand-name }
-newtab-menu-archive-pocket = ئەرشیف کردن لە { -pocket-brand-name }
 newtab-menu-show-privacy-info = سپۆنسەرەکانمان و تایبەتێتی تۆ
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = تەواو
-newtab-privacy-modal-header = تایبەتێتی تۆ گرنگە
-newtab-privacy-modal-link = فێربە چۆن تایبەتێتی کاردەکات لە بازدەرێکی نوێ
 
 ##
 
@@ -168,38 +148,15 @@ newtab-label-sponsored = { $sponsorOrSource } · سپۆنسەرکراو
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = بەش بسڕەوە
-newtab-section-menu-collapse-section = داخستنەوەی بەش
-newtab-section-menu-expand-section = فراوانکردنی بەش
-newtab-section-menu-manage-section = ڕێکخستنی بەش
-newtab-section-menu-manage-webext = ڕێکخستنی پێوەکراو
-newtab-section-menu-add-topsite = ماڵپەڕی سەرەکی زیادبکە
-newtab-section-menu-add-search-engine = بزوێنەری گەڕان زیادبکە
-newtab-section-menu-move-up = بیبە سەرەوە
-newtab-section-menu-move-down = بیبە خوارەوە
 newtab-section-menu-privacy-notice = تێبینی لەسەر تایبەتێتی
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = داخستنەوەی بەش
-newtab-section-expand-section-label =
-    .aria-label = فراوانکردنی بەش
 
 ## Section Headers.
 
 newtab-section-header-topsites = ماڵپەڕە سەرەکییەکان
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = پێشنیازکراوە لە لایەن { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = دەست بکە بە گەڕان، ئێمەش چەن بابەتێک باشت پیشان دەدەین، ڤیدیۆ، چەند پەرەیەکی تر کە پێشتر سەردانت کردووە یان دڵخوازت کردووە.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = هەموویت ئەنجام دا. کاتێکی تر وەرەوە بۆ چیرۆکی زیاتر لە { $provider }وە. ناتوانیت چاوەڕی بکەیت؟ بابەتێکی بەناوبانگ هەڵبژێرە بۆ ئەوەی چیرۆکی نایاب بدۆزیتەوە لە هەموو وێب.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -209,15 +166,6 @@ newtab-discovery-empty-section-topstories-try-again-button = دووبارە هە
 newtab-discovery-empty-section-topstories-loading = باردەکرێت...
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = ئوپس! وا هەموو بەشەکە باردەکەین، بەڵام بە تەواوی نا.
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = بابەتی بەناوبانگ:
-newtab-pocket-more-recommendations = پێشنیازکراوی زیاتر
-newtab-pocket-learn-more = زیاتر بزانە
-newtab-pocket-cta-button = بەدەستهێنانی { -pocket-brand-name }
-newtab-pocket-cta-text = چیرۆکە دڵخوازەکانت پاشەکەوت بکە لە { -pocket-brand-name }، مێشکت پڕ بکە لە خوێندنەوەی دڵڕفێن.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

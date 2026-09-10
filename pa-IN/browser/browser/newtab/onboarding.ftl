@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = { $addon-name } ਜੋੜੋ
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = ਤਰੱਕੀ: { $total } ਵਿੱਚੋਂ { $current } ਪੜਾਅ
 # This button will open system settings to turn on prefers-reduced-motion
@@ -199,11 +193,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = { -brand-short-name } ਨੂੰ ਟਾਸਕ-ਬਾਰ ਤੇ ਸਟਾਰਟ ਮੇਨੂ ਵਿੱਚ ਟੰਗੋ
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = ਗ਼ੈਰ-ਫਾਇਦੇ ਵਲੋਂ ਸਮਰੱਥਨ ਮਿਲੇ ਬਰਾਊਜ਼ਰ ਨਾਲ ਸ਼ੁਰੂ ਕਰੋ। ਤੁਹਾਡੇ ਵਲੋਂ ਵੈੱਬ ਦੇ ਫੇਰੇ ਲਾਉਣ ਦੌਰਾਨ ਅਸੀਂ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦੀ ਸੁਰੱਖਿਆ ਕਰਦੇ ਹਾਂ।
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -233,57 +222,10 @@ mr2022-onboarding-set-default-subtitle = ਗ਼ੈਰ-ਫਾਇਦੇ ਵਲੋ�
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = ਸਾਡਾ ਨਵਾਂ ਵਰਜ਼ਨ ਤੁਹਾਡੇ ਵਾਸਤੇ ਬਣਾਇਆ ਹੈ, ਜਿਸ ਨਾਲ ਤੁਹਾਨੂੰ ਵੈੱਬ ਉੱਤੇ ਭੌਣਾ ਪਹਿਲਾਂ ਤੋਂ ਸੁਖਾਲਾ ਹੋਇਆ ਹੈ। ਇਸ ਵਿੱਚ ਫ਼ੀਚਰ ਭਰੇ ਹਨ, ਸਾਨੂੰ ਆਸ ਹੈ ਕਿ ਜਿਹਨਾਂ ਦੀ ਤੁਸੀਂ ਪ੍ਰਸੰਸਾ ਕਰੋਗੇ।
 mr2022-onboarding-get-started-primary-button-label = ਸਕਿੰਟਾਂ ਵਿੱਚ ਸੈਟਅੱਪ ਕਰੋ
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = ਹਨ੍ਹੇਰੀ ਵਰਗਾ ਤੇਜ਼ ਸੈਟਅੱਪ
-mr2022-onboarding-import-subtitle = { -brand-short-name } ਨੂੰ ਜਿਵੇਂ ਤੁਸੀਂ ਚਾਹੋ, ਉਵੇਂ ਸੈਟਅੱਪ ਕਰੋ। ਆਪਣੇ ਪੁਰਾਣੇ ਬਰਾਊਜ਼ਰ ਤੋਂ ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਅਤੇ ਕਈ ਕੁਝ ਜੋੜੋ।
 mr2022-onboarding-import-primary-button-label-no-attribution = ਪਿਛਲੇ ਬਰਾਊਜ਼ਰ ਤੋਂ ਦਰਾਮਦ ਕਰੋ
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = ਰੰਗ ਚੁਣੋ, ਜੋ ਤੁਹਾਡੇ ਦਿਲ ਨੂੰ ਖਿੱਚ ਪਾਉਣ
-mr2022-onboarding-colorway-subtitle = ਆਜ਼ਾਦ ਆਵਾਜ਼ਾਂ, ਜੋ ਕਿ ਸੱਭਿਆਚਾਰ ਨੂੰ ਬਦਲ ਸਕਦੀਆਂ ਹਨ।
-mr2022-onboarding-colorway-primary-button-label-continue = ਲਾਓ ਤੇ ਜਾਰੀ ਰੱਖੋ
-mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } ਆਪਣਾ ਰੰਗਦਾਰ ਮੁੱਖ-ਸਫ਼ਾ ਬਣਾਓ
-mr2022-onboarding-colorway-label-default = ਡਿਫਾਲਟ
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = ਮੌਜੂਦਾ { -brand-short-name } ਰੰਗ
-mr2022-onboarding-colorway-description-default = <b>ਮੇਰੇ ਮੌਜੂਦਾ { -brand-short-name } ਰੰਗਾਂ ਨੂੰ ਵਰਤੋਂ।</b>
-mr2022-onboarding-colorway-label-playmaker = ਪਲੇਅਮੇਕਰ
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = ਪਲੇਅਮੇਕਰ (ਲਾਲ)
-mr2022-onboarding-colorway-description-playmaker = <b>ਤੁਸੀਂ ਪਲੇਅਮੇਕਰ ਹੋ।</b> ਤੁਸੀਂ ਜਿੱਤਣ ਦੇ ਮੌਕੇ ਬਣਾਉਂਦੇ ਹੋ ਅਤੇ ਆਪਣੇ ਆਲੇ-ਦੁਆਲੇ ਦੇ ਲੋਕਾਂ ਨੂੰ ਉਹਨਾਂ ਦੀ ਖੇਡ 'ਚ ਅੱਗੇ ਵਧਣ ਲਈ ਮਦਦ ਕਰਦੇ ਹੋ।
-mr2022-onboarding-colorway-label-expressionist = ਪਰਗਟਾਵਾਦੀ
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = ਪਰਗਟਾਵਾਦੀ (ਪੀਲਾ)
-mr2022-onboarding-colorway-description-expressionist = <b>ਤੁਸੀਂ ਪਰਗਟਾਵਾਦੀ ਹੋ। </b> ਤੁਸੀਂ ਸੰਸਾਰ ਨੂੰ ਵੱਖਰੇ ਢੰਗ ਨਾਲ ਵੇਖਦੇ ਹੋ ਅਤੇ ਤੁਹਾਡੀਆਂ ਰਚਨਾਵਾਂ ਹੋਰਾਂ ਦੇ ਜਜ਼ਬਾਤਾਂ ਨੂੰ ਟੁੰਬਦੀਆਂ ਹਨ।
-mr2022-onboarding-colorway-label-visionary = ਭਵਿੱਖਦਰਸ਼ੀ
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = ਭਵਿੱਖਦਰਸ਼ੀ (ਹਰਾ)
-mr2022-onboarding-colorway-description-visionary = <b>ਤੁਸੀਂ ਭਵਿੱਖਦਰਸ਼ੀ ਹੋ।</b> ਤੁਸੀਂ ਮੌਜੂਦਾ ਹਾਲਤਾਂ ਉੱਤੇ ਸਵਾਲ ਕਰਦੇ ਹੋ ਅਤੇ ਹੋਰਾਂ ਨੂੰ ਬੇਹਤਰ ਭਵਿੱਖ ਬਾਰੇ ਸੋਚਣ ਲਈ ਮਜ਼ਬੂਰ ਕਰਦੇ ਹੋ।
-mr2022-onboarding-colorway-label-activist = ਕਾਰਕੁੰਨ
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = ਕਾਰਕੁੰਨ (ਨੀਲਾ)
-mr2022-onboarding-colorway-description-activist = <b>ਤੁਸੀਂ ਕਾਰਕੁੰਨ ਹੋ।</b> ਤੁਸੀਂ ਸੰਸਾਰ ਨੂੰ ਪਹਿਲਾਂ ਨਾਲੋਂ ਬੇਹਤਰ ਥਾਂ ਬਣਾ ਕੇ ਰੱਖਦੇ ਹੋ ਅਤੇ ਹੋਰਾਂ ਦਾ ਭਰੋਸਾ ਵਧਾਉਂਦੇ ਹੋ।
-mr2022-onboarding-colorway-label-dreamer = ਸੁਪਨਸਾਜ਼
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = ਸੁਪਨਸਾਜ਼ (ਜਾਮਨੀ)
-mr2022-onboarding-colorway-description-dreamer = <b>ਤੁਸੀਂ ਸੁਪਨਸਾਜ਼ ਹੋ।</b> ਤੁਸੀਂ ਭਰੋਸਾ ਰੱਖਦੋ ਹੋ ਕਿ ਖੁਸ਼ਹਾਲੀ ਦੇ ਤਰਫ਼ਦਾਰੀਆਂ ਵੱਡੇ ਅਸਰ ਰੱਖਦੀਆਂ ਹਨ ਤੇ ਹੋਰਾਂ ਨੂੰ ਬਹਾਦਰ ਬਣਨ ਲਈ ਪ੍ਰੇਰਿਤ ਕਰਦੀਆਂ ਹਨ।
-mr2022-onboarding-colorway-label-innovator = ਖੋਜੀ
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = ਖੋਜੀ (ਸੰਤਰੀ)
-mr2022-onboarding-colorway-description-innovator = <b>ਤੁਸੀਂ ਖੋਜੀ ਹੋ।</b> ਤੁਸੀਂ ਹਰ ਥਾਂ ਉੱਤੇ ਮੌਕੇ ਤਲਾਸ਼ਦੇ ਹੋ ਅਤੇ ਆਪਣੇ ਆਲੇ ਦੁਆਲੇ ਹਰ ਕਿਸੇ ਦੀ ਜ਼ਿੰਦਗੀ ਉੱਤੇ ਅਸਰ ਛੱਡਦੇ ਹੋ।
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = ਲੈਪਟਾਪ ਤੋਂ ਫ਼ੋਨ ਉੱਤੇ ਜਾਓ ਅਤੇ ਫੇਰ ਵਾਪਸ ਆਓ
-mr2022-onboarding-mobile-download-subtitle = ਕਿਸੇ ਡਿਵਾਈਸ ਤੋਂ ਟੈਬਾਂ ਲਵੋ ਅਤੇ ਜਿੱਥੇ ਤੁਸੀਂ ਹੋਰ ਉੱਤੇ ਕੰਮ ਕਰਦੇ ਸੀ, ਉਥੋਂ ਜਾਰੀ ਰੱਖੋ। { -brand-product-name } ਨੂੰ ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ ਵਰਤੋਂ, ਆਪਣੇ ਬੁੱਕਮਾਰਕ ਅਤੇ ਪਾਸਵਰਡ ਸਿੰਕ ਵੀ ਕਰ ਲਵੋ।
 mr2022-onboarding-mobile-download-cta-text = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਲਈ QR ਕੋਡ ਸਕੈਨ ਕਰੋ ਜਾਂ <a data-l10n-name="download-label">ਖੁਦ ਨੂੰ ਡਾਊਨਲੋਡ ਲਿੰਕ ਭੇਜੋ।</a>
 mr2022-onboarding-no-mobile-download-cta-text = ਮੋਬਾਇਲ ਲਈ { -brand-product-name } ਲੈਣ ਲਈ QR ਕੋਡ ਸਕੈਨ ਕਰੋ।
 
@@ -336,15 +278,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = ਹਲਕੇ ਅਤੇ ਗੂੜ੍ਹੇ ਰੰਗ ਰੱਦ ਹੱਥ ਜਿੱਤ ਦਰਸਾਉਂਦੇ ਹਨ
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = ਲੂੰਬੜੀ ਨਾਲ ਅਤੇ ਝਰੋਖੇ ਉੱਤੇ ਬਣੇ ਬੂਟੇ ਰਾਹੀਂ ਡੁੱਬਦੇ ਸੂਰਜ ਨੂੰ ਨਿਹਾਰਨਾ
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = ਹੱਥ ਨਾਲ ਸਪਰੇਅ ਕਰਕੇ ਹਰੇ ਰੰਗ ਦੀ ਅੱਖ, ਸੰਤਰੀ ਰੰਗ ਦੇ ਜੁੱਤੇ, ਲਾਲ ਬਾਸਟਕਬਾਲ, ਜਾਮਨੀ ਹੈੱਡਫੋਨ, ਨੀਲਾ ਦਿਲ ਅਤੇ ਪੀਲਾ ਤਾਜ ਬਣਾਓ
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = ਲੈਪਟਾਪ ਕੰਪਿਊਟਰ ਦੀ ਸਕਰੀਨ ਉੱਤੇ ਲੂੰਬੜੀ ਝਾਤੀਆਂ ਮਾਰਦੀ ਹੈ। ਲੈਪਟਾਪ ਨਾਲ ਮਾਊਸ ਦਾ ਪਲੱਗ ਲੱਗਾ ਹੈ।
 onboarding-device-migration-title = ਫਿਰ ਜੀ ਆਇਆਂ ਨੂੰ!
-onboarding-device-migration-subtitle = ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਪਾਸਵਰਡਾਂ ਅਤੇ ਅਤੀਤ ਨੂੰ ਆਪਣੇ ਨਵੇਂ ਡਿਵਾਈਸ ਉੱਤੇ ਆਪਣੇ ਨਾਲ ਲਿਆਉਣ ਵਾਸਤੇ ਆਪਣੇ { -fxaccount-brand-name(capitalization: "sentence") } ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
 onboarding-device-migration-subtitle2 = ਆਪਣੇ ਨਵੇਂ ਡਿਵਾਈਸ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਅਤੇ ਅਤੀਤ ਨੂੰ ਆਪਣੇ ਨਾਲ ਲਿਆਉਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
 onboarding-device-migration-primary-button-label = ਸਾਈਨ ਇਨ
 
@@ -461,15 +400,12 @@ tab-groups-onboarding-feature-callout-title = ਘੱਟ ਗਾਹ ਅਤੇ ਵ�
 tab-groups-onboarding-feature-callout-subtitle = ਸੁਚੱਜੇ ਢੰਗ ਨਾਲ ਇੰਤਜ਼ਾਮ ਵਾਸਤੇ ਇੱਕ ਟੈਬ ਨੂੰ ਦੂਜੀ ਟੈਬ ਉੱਤੇ ਰੱਖ ਕੇ ਆਪਣਾ ਪਹਿਲਾਂ ਗਰੁੱਪ ਬਣਾਓ।
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = ਸਭ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਵਿੱਚੋਂ ਕਿਸੇ ਵੀ ਵੇਲੇ ਆਪਣੇ ਟੈਬ ਗਰੁੱਪਾਂ ਨੂੰ ਲੱਭੋ।
-tab-groups-onboarding-create-group-title-2 = ਕਿਸੇ ਵੀ ਸਮੇਂ ਆਪਣੇ ਟੈਬਾਂ ਦੇ ਗਰੁੱਪ ਨੂੰ ਲੱਭੋ।
 tab-groups-onboarding-create-group-no-alltabs-button-title = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਆਪਣੇ ਗਰੁੱਪਾਂ ਨੂੰ ਖੋਜ ਕੇ ਲੱਭੋ।
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = ਜਦੋਂ ਤੁਸੀਂ ਕਿਸੇ ਟੈਬ ਗਰੁੱਪ ਨੂੰ ਬੰਦ ਕਰਦੇ ਹੋ ਤਾਂ ਸਭ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਵਿੱਚੋਂ ਕਿਸੇ ਵੀ ਵੇਲੇ ਇਸ ਨੂੰ ਫੇਰ ਖੋਲ੍ਹੋ।
-tab-groups-onboarding-saved-groups-title-2 = ਜਦੋਂ ਤੁਸੀਂ ਟੈਬ ਗਰੁੱਪ ਨੂੰ ਬੰਦ ਕਰਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਇਸ ਨੂੰ ਕਿਵੇਂ ਵੀ ਵੇਲੇ ਇੱਥੋਂ ਖੋਲ੍ਹ ਸਕਦੇ ਹੋ।
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਆਪਣੇ ਬੰਦ ਕੀਤੇ ਗਰੁੱਪਾਂ ਨੂੰ ਖੋਜ ਕੇ ਲੱਭੋ।
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = ਸਭ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਵਿੱਚੋਂ ਕਿਸੇ ਵੀ ਵੇਲੇ ਆਪਣੇ ਟੈਬ ਗਰੁੱਪਾਂ ਨੂੰ ਫੇਰ ਖੋਲ੍ਹੋ।
-tab-groups-onboarding-session-restore-title = ਕਿਸੇ ਵੀ ਸਮੇਂ ਆਪਣੇ ਟੈਬਾਂ ਦੇ ਗਰੁੱਪ ਨੂੰ ਵਾਪਸ ਖੋਲ੍ਹੋ।
 tab-groups-onboarding-dismiss = ਠੀਕ ਹੈ
 
 ## Multi Profiles feature onboarding messages

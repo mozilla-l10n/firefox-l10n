@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Tilkoplingsinnstillingar
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Tilkoplingsinnstillingar
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Oppdater
     .accesskey = O
-connection-proxy-autologin =
-    .label = Ikkje spør om autentiseringdersom passordet er lagra
-    .accesskey = i
-    .tooltip = Dette valet autentiserer identiteten din stille mot proxiar når du har lagra innloggingsdetaljar for dei. Du vil få spørsmål dersom autentiseringa er mislykka.
 connection-proxy-autologin-checkbox =
     .label = Ikkje spør om autentisering dersom passordet er lagra
-    .accesskey = i
     .tooltiptext = Dette valet autentiserer identiteten din stille mot proxiar når du har lagra innloggingsdetaljar for dei. Du vil få spørsmål dersom autentiseringa er mislykka.
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = Proxy DNS når du brukar SOCKS v4
     .accesskey = P
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Bruk standard-URL-en til DNS-oppslag over HTTPS
 connection-dns-over-https-url-custom =
     .label = Tilpassa
-    .accesskey = s
     .tooltiptext = Spesifiser føretrekt nettadresse for å slå opp DNS over HTTPS
-connection-dns-over-https-custom-label = Tilpassa
+    .accesskey = s

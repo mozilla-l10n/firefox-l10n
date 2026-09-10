@@ -52,7 +52,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     Hesakãporãve hag̃ua mba’échapa eeñemboheraguapýta mba’ekuaarã jejuhu, eporandu
     tendayke <strong>Mba’ekuaarã rehegua</strong>.
-about-glean-about-testing-header = Ñeha’ã rehegua
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     Ko’ã jeguatarã tuichaháicha oñembokuatia
@@ -61,8 +60,6 @@ about-glean-manual-testing =
     hákatu, mbykyhápe, eha’ãkuaa hag̃ua nde po rupi hembiapoite oikoporãha, ejapo:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (aníke emondo ping)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Kora mboyvegua, ehecháke toĩ ñemboguaha reramoĩ hasy’ỹva iñemomandu’a eikuaa porã hag̃ua pings tenondeve.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Emboaje teramoĩ mopotĩha nemandu’átava <span>(20 tairenda térã sa’ive, alfanumérico ha - pévante)</span> ohechakuaa hag̃ua pings uperire.
 # An in-line drop down list precedes this string.
@@ -88,13 +85,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Eike kuatiaroguépe { glean-debug-ping-viewer-brand-name } ehecha hag̃ua umi ping nde reramoĩ reheve </a>.
     Ndoguerahamo’ãi heta aravo’ive votõ ejopy’ypy guive og̃uahẽ peve pe ping.
     Hákatu hetajey oguerahakuaa heta aravo’i.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    Eha’ãve hag̃ua <i>ad hoc</i>,
-    avei ehechakuaa porupyrã repy ag̃aguáva
-    embojurujávo peteĩ tembiporu mba’e’okarupa ñemboguataha ko’ápe <code>about:glean</code>
-    ha eiporúvo pe API <code>testGetValue()</code> ko
-    <code>Glean.metricCategory.metricName.testGetValue()</code> ramo.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     Eha’ãve hag̃ua <i>ad hoc</i>,
@@ -184,9 +174,6 @@ about-glean-no-data-to-display = Ndaipóri mba’ekuaarã jehechaukarã.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Umi <code>DualLabeledCounter</code> métrica ndojokupytýi <code>about:glean</code> jehechauka ndive.
 about-glean-unknown-metric-type-warning = Peteĩ métrica ojekuaa’ỹva.
-about-glean-about-data-explanation =
-    Eikundaha hag̃ua mba’ekuaarã mbyatypyre rysýire, eporandu pe
-    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Ñe’ẽryru</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

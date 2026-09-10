@@ -2,113 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Navigare privată
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Navigare privată
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Navigare privată
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Navigare privată
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Navigare privată
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
 browser-shortcut-description = Navigare web rapidă și privată
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Navigare privată
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } Navigare privată
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } Navigare privată
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Navigare privată
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } — Navigare privată
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Navigare privată
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Navigare privată
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Navigare privată
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -178,8 +76,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Deschide panoul cu mesaje despre stocarea în modul offline
 urlbar-password-notification-anchor =
     .tooltiptext = Deschide panoul cu mesaje despre salvarea parolelor
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Gestionează utilizarea pluginurilor
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Gestionează partajarea camerei și/sau a microfonului cu acest site
 # "Speakers" is used in a general sense that might include headphones or
@@ -192,15 +88,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Stochează date în spațiul de stocare persistent
 urlbar-addons-notification-anchor =
     .tooltiptext = Deschide panoul cu mesaje privind instalarea de suplimente
-urlbar-tip-help-icon =
-    .title = Obține ajutor
 urlbar-search-tips-confirm = OK, am înțeles
 urlbar-search-tips-confirm-short = Am înțeles
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Pont:
 urlbar-result-menu-button =
     .title = Deschide meniul
 urlbar-result-menu-button-feedback = Feedback
@@ -245,9 +134,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = Respinge sugestia
     .accesskey = D
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = Află mai multe despre { -firefox-suggest-brand-name }
-    .accesskey = L
 urlbar-result-menu-manage-firefox-suggest =
     .label = Gestionează { -firefox-suggest-brand-name }
     .accesskey = M
@@ -279,8 +165,6 @@ urlbar-dismissal-acknowledgment-weather = Îți mulțumim pentru feedback. Nu ve
 
 urlbar-search-tips-onboard = Scrii mai puțin, găsești mai multe: caută cu { $engineName } direct în bara de adrese.
 urlbar-search-tips-redirect-2 = Începe căutarea în bara de adrese ca să vezi sugestii de la { $engineName } și din istoricul tău de navigare.
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = Căutarea a devenit mai simplă. Încearcă să restrângi căutarea aici, în bara de adrese. Pentru afișarea adresei URL, mergi la Căutare, în setări.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Selectează această comandă rapidă pentru a găsi mai repede ceea ce ai nevoie.
@@ -314,8 +198,6 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Ai blocat stocarea persistentă a datelor pentru acest site web.
 urlbar-popup-blocked2 =
     .tooltiptext = Ai blocat ferestrele pop-up și redirecționările către terți pentru acest site.
-urlbar-popup-blocked =
-    .tooltiptext = Ai blocat ferestrele pop-up pe acest site.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Ai blocat redarea automată a conținutului media cu sunet pe acest site web.
 urlbar-canvas-blocked =
@@ -426,24 +308,18 @@ quickactions-cmd-addons3 = extensii, teme, suplimente
 # Opens preferences page at AI controls
 quickactions-manageai = Gestionează comenzile AI
 quickactions-cmd-manageai = dezactivează ai, oprește ai, gestionează ai
-quickactions-cmd-addons2 = suplimente
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Gestionează marcajele
 quickactions-cmd-bookmarks = marcaje
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Șterge istoricul recent
 quickactions-cmd-clearrecenthistory2 = cookie-uri, șterge cookie-uri, memorie cache, șterge memoria cache, date de navigare, șterge date de navigare, istoric, șterge istoric recent
-quickactions-cmd-clearrecenthistory = șterge istoricul recent, istoric
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Șterge istoricul
-quickactions-cmd-clearhistory = șterge istoricul
 # Opens about:downloads page
 quickactions-downloads2 = Vezi descărcările
 quickactions-cmd-downloads = descărcări
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gestionează extensiile
 quickactions-cmd-extensions2 = extensii, suplimente
-quickactions-cmd-extensions = extensii
 # Opens Firefox View
 quickactions-firefoxview = Deschide { -firefoxview-brand-name }
 # English is using "view" and "open view", since the feature name is
@@ -462,7 +338,6 @@ quickactions-cmd-colorpicker = selector de culori, pipetă, alege culoare
 # Opens Firefox Library
 quickactions-cmd-library = bibliotecă
 quickactions-library = Bibliotecă deschisă
-quickactions-cmd-inspector = inspector, instrumente de dezvoltare
 # Opens about:logins
 quickactions-logins2 = Gestionează parolele
 quickactions-cmd-logins = autentificări, parole
@@ -472,9 +347,6 @@ quickactions-mute = Dezactivează sonorul filelor care redau conținut audio
 # Replace with idiomatic expressions in your language to silence something or
 # someone.
 quickactions-cmd-mute = mut, șșșș, șșșș
-# Opens about:addons page in the plugins section
-quickactions-plugins = Gestionează pluginurile
-quickactions-cmd-plugins = pluginuri
 # Opens the print dialog
 quickactions-print2 = Printează pagina
 quickactions-cmd-print = printare
@@ -499,19 +371,16 @@ quickactions-cmd-screenshot2 = captură de ecran, fă o captură de ecran
 # Opens about:translations
 quickactions-translate = Tradu
 quickactions-cmd-translate = tradu
-quickactions-cmd-screenshot = captură de ecran
 # Opens about:preferences
 quickactions-settings2 = Gestionează setările
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = setări, preferințe, opțiuni, gestionează
-quickactions-cmd-settings = setări, preferințe, opțiuni
 # Opens about:addons page in the themes section
 quickactions-themes = Gestionează temele
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-themes2 = teme, suplimente
-quickactions-cmd-themes = teme
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Actualizează { -brand-short-name }
 quickactions-cmd-update = actualizează
@@ -521,7 +390,6 @@ quickactions-cmd-viewsource2 = vizualizare sursă, sursă, sursă pagină
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = Deschide { -firefoxlabs-brand-name }
 quickactions-cmd-labs = laboratoare, experiment
-quickactions-cmd-viewsource = vezi sursa, sursă
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Află mai multe despre acțiunile rapide
@@ -579,9 +447,7 @@ identity-custom-root = Conexiune verificată de un emițător de certificate ner
 identity-passive-loaded = Unele părți din pagină nu sunt sigure (cum ar fi imaginile).
 identity-active-loaded = Ai dezactivat protecția pe această pagină.
 identity-weak-encryption = Această pagină folosește criptare slabă.
-identity-insecure-login-forms = Datele de autentificare introduse pe această pagină ar putea fi compromise.
 identity-https-only-connection-upgraded = (actualizat la HTTPS)
-identity-https-only-label = Mod numai HTTPS
 identity-https-only-label2 = Trece automat acest site la o conexiune securizată
 identity-https-only-dropdown-on =
     .label = Activat
@@ -589,8 +455,6 @@ identity-https-only-dropdown-off =
     .label = Dezactivat
 identity-https-only-dropdown-off-temporarily =
     .label = Dezactivat temporar
-identity-https-only-info-turn-on2 = Activează modul numai HTTPS pentru acest site dacă vrei ca { -brand-short-name } să actualizeze conexiunea atunci când este posibil.
-identity-https-only-info-turn-off2 = Dacă pagina nu pare funcțională, poate vrei să dezactivezi modul HTTPS-Only pentru ca acest site și să se reîncarce folosind HTTP nesigur.
 identity-https-only-info-turn-on3 = Activează îmbunătățirile HTTPS pentru acest site dacă vrei ca { -brand-short-name } să securizeze conexiunea când este posibil.
 identity-https-only-info-turn-off3 = Dacă pagina pare să nu funcționeze corect, ar fi bine să dezactivezi îmbunătățirile HTTPS pentru acest site și să îl reîncarci cu HTTP nesecurizat.
 identity-https-only-info-no-upgrade = Conexiunea este imposibil de securizat.
@@ -614,7 +478,6 @@ identity-remove-cert-exception =
     .label = Elimină excepția
     .accesskey = R
 identity-description-insecure = Conexiunea la acest site nu este privată. Informațiile pe care le trimiți pot fi văzute de alții (cum ar fi parolele, mesajele, cardurile de credit, etc.).
-identity-description-insecure-login-forms = Datele de autentificare pe care le introduci pe această pagină nu sunt securizate și pot fi compromise.
 identity-description-weak-cipher-intro = Conexiunea la acest site web folosește criptare slabă și nu este privată.
 identity-description-weak-cipher-risk = Alte persoane îți pot vedea informațiile sau pot modifica comportamentul site-ului web.
 identity-description-active-blocked2 = { -brand-short-name } a blocat părți ale acestei pagini care nu sunt sigure.
@@ -625,12 +488,6 @@ identity-description-active-loaded = Acest site web are conținut care nu este s
 identity-description-active-loaded-insecure = Informațiile pe care le partajezi cu site-ul ar putea fi văzute de alții (cum ar fi parolele, mesajele, cardurile de credit, etc.).
 identity-description-tls-key-logging-heading = Conexiunea ar putea să nu fie privată
 identity-description-tls-key-logging-message = O aplicație sau un serviciu ar putea vedea traficul criptat de pe acest site.
-identity-disable-mixed-content-blocking =
-    .label = Dezactivează protecția deocamdată
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = Activează protecția
-    .accesskey = E
 identity-more-info-link-text =
     .label = Mai multe informații
 
@@ -647,43 +504,6 @@ browser-window-close-button =
 # Clicking this button closes the window and returns to the tab where it was opened from
 browser-window-return-to-opener =
     .tooltiptext = Înapoi
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = SE REDĂ
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = SONOR DEZACTIVAT
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = REDARE AUTOMATĂ BLOCATĂ
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = IMAGINE ÎN IMAGINE
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] ÎNCHIDE SONORUL FILEI
-        [one] ÎNCHIDE SONORUL PENTRU 1 FILĂ
-        [few] ÎNCHIDE SONORUL PENTRU { $count } FILE
-       *[other] ÎNCHIDE SONORUL PENTRU { $count } DE FILE
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] REDĂ SONORUL FILEI
-        [one] REDĂ SONORUL FILEI
-        [few] REDĂ SONORUL A { $count } FILE
-       *[other] REDĂ SONORUL A { $count } DE FILE
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] REDĂ FILA
-        [one] REDĂ FILA
-        [few] REDĂ { $count } FILE
-       *[other] REDĂ { $count } DE FILE
-    }
 
 ## Bookmarks toolbar items
 
@@ -724,10 +544,6 @@ sharing-warning-disable-for-session =
 
 webserial-select-port-label = Selectează un port serial:
 webserial-no-ports-available = Nu există porturi seriale disponibile
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = Pentru a folosi comanda rapidă F12, deschide mai întâi instrumentele pentru dezvoltatori din meniul de instrumente al browserului.
 
 ## URL Bar
 
@@ -792,8 +608,6 @@ urlbar-extension =
     .value = Extensie:
 urlbar-go-button2 =
     .title = Mergi la adresa din bara de adrese
-urlbar-go-button =
-    .tooltiptext = Mergi la adresa din bara de adrese
 urlbar-page-action-button =
     .tooltiptext = Acțiuni pe pagină
 urlbar-revert-button =
@@ -851,11 +665,6 @@ urlbar-result-action-tabtosearch-web = Caută cu { $engine } direct din bara de 
 urlbar-result-action-tabtosearch-other-engine = Caută { $engine } direct din bara de adrese
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Copiază
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = nedefinit
 # The sub title of an add-on suggestion in the urlbar.
@@ -866,23 +675,6 @@ urlbar-result-mdn-subtitle = { -mdn-brand-name }
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
 urlbar-result-suggestion-recommended = Recomandate
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
-# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
-# The last = sign will be shown as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
-# Shows the result of a formula expression being calculated, to a maximum of 9 significant
-# digits. This is used for numbers < 1.
-# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 # The title of a weather suggestion in the urlbar. The temperature and unit
 # substring should be inside a <strong> tag. If the temperature and unit are not
 # adjacent in the localization, it's OK to include only the temperature in the
@@ -1077,32 +869,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Caută { $localSea
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Caută cu { $engine }
-urlbar-searchmode-dropmarker =
-    .tooltiptext = Alege un motor de căutare
-urlbar-searchmode-bookmarks =
-    .label = Marcaje
-urlbar-searchmode-tabs =
-    .label = File
-urlbar-searchmode-history =
-    .label = Istoric
-urlbar-searchmode-actions =
-    .label = Acțiuni
-urlbar-searchmode-exit-button =
-    .tooltiptext = Închide
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = De data asta caută cu:
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = Setări de căutare
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button2 =
-    .label = { $engine }, alege un motor de căutare
-    .tooltiptext = { $engine }, alege un motor de căutare
-urlbar-searchmode-button-no-engine =
-    .label = Nicio comandă rapidă selectată, alege o comandă rapidă
-    .tooltiptext = Nicio comandă rapidă selectată, alege o comandă rapidă
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1209,16 +975,10 @@ urlbar-group-trending =
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Nu afișa căutări în tendințe
     .accesskey = D
-# Label shown above sponsored suggestions in the urlbar results.
-urlbar-group-sponsored =
-    .label = Sponsorizat
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Nu afișa căutări în tendințe
     .accesskey = D
-urlbar-result-menu-trending-why =
-    .label = De ce văd asta?
-    .accesskey = W
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = Îți mulțumim pentru feedback. Nu vei mai vedea căutări în tendințe de acum înainte.
@@ -1303,12 +1063,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Ascunde bara de marcaje
            *[other] Afișează bara de marcaje
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Elimină meniul de marcaje din bara de instrumente
-           *[other] Adaugă meniul de marcaje în bara de instrumente
-        }
 
 ##
 
@@ -1339,14 +1093,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = Marcaje
-library-recent-activity-title =
-    .value = Activitate recentă
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Salvează în { -pocket-brand-name }
-    .tooltiptext = Salvează în { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
@@ -1436,8 +1182,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = Nume de utilizator
-panel-save-update-password = Parolă
 panel-save-update-username-2 =
     .label = Nume de utilizator
 panel-save-update-password-2 =
@@ -1460,33 +1204,18 @@ menu-share-copy-links =
            *[other] Copiază { $count } de linkuri
         }
     .accesskey = L
-menu-share-copy-link =
-    .label = Copiază linkul
-    .accesskey = L
 ui-tour-info-panel-close =
     .tooltiptext = Închide
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
-popups-infobar-allow =
-    .label = Permite ferestre pop-up pentru { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Blochează ferestrele pop-up pentru { $uriHost }
-    .accesskey = p
 popups-infobar-allow2 =
     .label = Permite ferestre pop-up și redirecționări către terți pentru { $uriHost }
     .accesskey = p
 
 ##
 
-popups-infobar-dont-show-message =
-    .label = Nu afișa acest mesaj când sunt blocate ferestre pop-up
-    .accesskey = D
-edit-popup-settings =
-    .label = Gestionează setările ferestrelor pop-up…
-    .accesskey = M
 picture-in-picture-hide-toggle =
     .label = Ascunde butonul de imagine-în-imagine
     .accesskey = H
@@ -1512,8 +1241,6 @@ navbar-downloads =
     .label = Descărcări
 navbar-overflow-2 =
     .tooltiptext = Mai multe instrumente
-navbar-overflow =
-    .tooltiptext = Mai multe instrumente…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1616,13 +1343,8 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = Închide sesiunea privată
-    .tooltiptext = Închide sesiunea privată
 reset-pbm-panel-heading2 = Ștergi datele și începi o sesiune privată nouă?
 reset-pbm-panel-description2 = Va șterge istoricul, cookie-urile și toate celelalte date ale site-ului fără să închizi fereastra privată.
-reset-pbm-panel-heading = Termini sesiunea privată?
-reset-pbm-panel-description = Închide toate filele private și șterge istoricul, cookie-urile și toate celelalte date ale site-urilor.
 reset-pbm-panel-always-ask-checkbox =
     .label = Întreabă-mă mereu
     .accesskey = A
@@ -1632,9 +1354,6 @@ reset-pbm-panel-cancel-button =
 reset-pbm-panel-confirm-button2 =
     .label = Șterge sesiunea privată
     .accesskey = l
-reset-pbm-panel-confirm-button =
-    .label = Șterge datele sesiunii
-    .accesskey = D
 reset-pbm-panel-complete = Datele sesiunii private au fost șterse
 reset-pbm-toolbar-button2 =
     .label = Șterge sesiunea privată

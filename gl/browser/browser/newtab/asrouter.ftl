@@ -62,19 +62,12 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Sincronice os seus marcadores en todas partes.
-cfr-doorhanger-bookmark-fxa-body = Un gran achado! Agora non quedará sen este marcador nos seus dispositivos móbiles. Comece cun { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = Gran achado! Agora non te quedes sen este marcador nos teus dispositivos móbiles. Comeza cunha conta.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronizar marcadores agora ...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botón de peche
     .title = Pechar
 fxa-adoption-primary-button-label = Rexistrarse
-
-## Protections panel
-
-cfr-protections-panel-header = Navegar sen ser seguido
-cfr-protections-panel-body = Manteña os seus datos para si mesmo. { -brand-short-name } protéxeo de moitos dos rastreadores máis comúns que seguen o que fai na Rede.
-cfr-protections-panel-link-text = Máis información
 
 ## What's New toolbar button and panel
 
@@ -170,42 +163,8 @@ mr2022-background-update-toast-primary-button-label = Abrir { -brand-shorter-nam
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Lembrarmo máis tarde
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Probalo
-    .accesskey = P
-firefoxview-cfr-secondarybutton = Agora non
-    .accesskey = n
-firefoxview-cfr-header-v2 = Seguir onde o deixou
-firefoxview-cfr-body-v2 = Recupere as lapelas pechadas recentemente e salte sen problemas entre dispositivos con { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Saúde a { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Quere esa lapela aberta no seu teléfono? Cóllaa. Necesita ese sitio que acabas de visitar? Veña, teno de volta con { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Vexa como funciona
-firefoxview-spotlight-promo-secondarybutton = Saltar
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Escoller unha combinación de cores
-    .accesskey = c
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Coloree o seu navegador con tonalidades exclusivas de { -brand-short-name } inspiradas en voces que cambiaron a cultura.
-colorways-cfr-header-28days = As combinacións de cores de Independent Voices caducan o 16 de xaneiro
-colorways-cfr-header-14days = As combinacións de cores de Independent Voices caducan en dúas semanas
-colorways-cfr-header-7days = As combinacións de cores de Independent Voices caducan esta semana
-colorways-cfr-header-today = As combinacións de cores de Independent Voices caducan hoxe
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Permitir que { -brand-short-name } rexeite os avisos de cookies?
-cfr-cbh-body = { -brand-short-name } pode rexeitar automaticamente moitas solicitudes de avisos de cookies.
-cfr-cbh-confirm-button = Rexeitar os avisos de cookies
-    .accesskey = R
-cfr-cbh-dismiss-button = Agora non
-    .accesskey = n
 cookie-banner-blocker-onboarding-header = { -brand-short-name } acaba de rexeitar un banner de cookies por ti
 cookie-banner-blocker-onboarding-body = Menos distraccións, menos cookies que te rastrexan neste sitio.
 cookie-banner-blocker-onboarding-learn-more = Máis información

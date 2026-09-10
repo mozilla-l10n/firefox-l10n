@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = گۊشیڌن نیمدری سیخومی
     .accesskey = P
 about-private-browsing-search-placeholder = پیتینیڌن من وب
-about-private-browsing-info-title = ایسا من ی نیمدری سیخومی هڌین
 about-private-browsing-search-btn =
     .title = پیتینیڌن من وب
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = پیتینیڌن وا { $engine } یا ی نشۊوی بزنین
 about-private-browsing-handoff-text-no-engine = پیتینیڌن یا زیڌن نشۊوی
 about-private-browsing-not-private = ایسا من ی نیمدری سیخومی نؽڌین.
-about-private-browsing-info-description-private-window = نیمدری سیخومی: { -brand-short-name } ویرگار پیتینیڌن وو گشتن ایسا ن بئڌ بستن پوی نیمدری یل سیخومی پاک اکونه. ای کار ایسا ن ناشناس نؽکونه.
-about-private-browsing-info-description-simplified = { -brand-short-name } ویرگار پیتینیڌن وو گشتن ایسا ن بئڌ بستن پوی نیمدری یل سیخومی پاک اکونه. ٱما ای کار ایسا ن ناشناس نؽکونه.
-about-private-browsing-learn-more-link = قلوه دووسته بۊین
 about-private-browsing-hide-activity = فعالیتا وو جاگه خوتووݩ ن من هر جایی ک اگردین بؽڌار کۊنین
 about-private-browsing-get-privacy = هر جایی ک اخۊی اینترنت ن اگردی، هریم سیخومی خوتووݩ ن زفت کۊنین
 about-private-browsing-hide-activity-1 = فعالیت گشتن وو جاگه خوتووݩ ن وا { -mozilla-vpn-brand-name } بؽڌار کۊنین. وا ی کلیک، هتا من وای فای پوی وولاتی، ی منپیز ٱمن داشته بۊین.
@@ -29,8 +25,6 @@ about-private-browsing-prominent-cta = وا { -mozilla-vpn-brand-name } ناشن
 about-private-browsing-focus-promo-cta = دانلود { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name } گشتن مهرمووه من تور
 about-private-browsing-focus-promo-text = برنومه اختساسی گشتن سیخومی موبایل ایما، هر کرت ویرگار وو کۊکیا ایسا ن پاک اکونه.
-about-private-browsing-focus-promo-header-b = گشتن مهرمووه ن و تیلیفووݩ تووݩ بوورین
-about-private-browsing-focus-promo-text-b = { -focus-brand-name } ن سی پیتینیڌنا ناشناسی ک نؽخۊین گشت گر ٱسلی تیلیفووݩ تووݩ بنیره، و کار بوورین.
 about-private-browsing-focus-promo-header-c = گوم بئڌی مهرمووه ای من تیلیفووݩ
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } سوا ز مسدۊد کردن تبلیقات وو رڌجۊرا، هر کرت ویرگار تووݩ ن پاک اکونه.
 # This string is the title for the banner for search engine selection
@@ -60,11 +54,6 @@ about-private-browsing-pin-promo-title = ی جۊری من اینترنت بگر�
 
 ## Strings used in a promotion message for cookie banner reduction
 
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = بنرا کۊکی قترسووݩ ن کندن!
-about-private-browsing-cookie-banners-promo-button = کم کردن بنرا کۊکی
-about-private-browsing-cookie-banners-promo-message = بؽلین { -brand-short-name } و توور خوتکار و ینیمدری یل گۊشیڌنی کۊکی جواو بڌه تا ایسا ترسته بۊین وا هواس جمع منه اینترنت بگردین. { -brand-short-name } ٱر امکووݩ داشته بۊ پوی درخاستا ن رڌ اکونه.
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } درخاستا کۊکی کمتری نشووݩ اده

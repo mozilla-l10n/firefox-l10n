@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Ammustra in Finder
            *[other] Ammustra in sa cartella
         }
-downloads-cmd-show-downloads =
-    .label = Ammustra sa cartella de iscarrigamentos
 downloads-cmd-retry =
     .tooltiptext = Torra a proare
 downloads-cmd-retry-panel =

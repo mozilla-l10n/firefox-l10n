@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = चार्टिफिकेट डाउनल'ड खालाम गासिनो दङ
     .style = min-width: 46em
+    .title = चार्टिफिकेट डाउनल'ड खालाम गासिनो दङ
 download-cert-message = नोंथांखौ मोनसे गोदान चार्टिफिकेट अथ'रिटि (CA) फोथायनो थिननाय जाबाय।
 download-cert-trust-ssl =
     .label = वेबसाइटफोरखौ सिनायथि खालामनो बे CA खौ फोथाय
@@ -37,8 +37,6 @@ download-cert-view-text = CA चार्टिफिकेट आनजाद �
 
 client-auth-window =
     .title = बाहायग्रानि सिनायथि खावलायनाय
-client-auth-site-description = बे साइटा मोनसे चार्टिफिकेटजों नोंथांखौ गावजों सिनायथि होनो खावलायबाय:
-client-auth-choose-cert = सिनायथि बादि मोनसे चार्टिफिकेट दिनथिनो बासिख:
 # Variables:
 # $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
 client-auth-cert-details-serial-number = फारि अनजिमा: { $serialNumber }

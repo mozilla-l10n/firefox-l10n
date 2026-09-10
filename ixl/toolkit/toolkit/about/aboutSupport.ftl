@@ -5,8 +5,6 @@
 support-addons-name = B'ii
 support-addons-version = Tilax ivatz
 security-software-name = B'ii
-features-name = B'ii
-features-version = Tilax ivatz
 app-basics-name = B'ii
 app-basics-version = Tilax ivatz
 modified-prefs-name = B'ii

@@ -21,9 +21,6 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Avrir il menu per { $extensionName }
 unified-extensions-item-message-manage = Administrar l'extensiun
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName } violescha las directivas da Mozilla. L’utilisaziun po esser ristgusa.
 
 ## Extension's context menu
 
@@ -42,8 +39,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Tschertas extensiuns n'èn betg permessas
-unified-extensions-mb-quarantined-domain-message = Mo tschertas extensiuns survegliadas da { -vendor-short-name } èn permessas sin questa website per proteger tias datas.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Tschertas extensiuns n'èn betg permessas
@@ -52,27 +47,10 @@ unified-extensions-mb-quarantined-domain-learn-more = Ulteriuras infurmaziuns
     .aria-label = Ulteriuras infurmaziuns: Tschertas extensiuns n'èn betg permessas
 unified-extensions-mb-about-addons-link = Ir als parameters da l’extensiun
 # Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = Deactivà { $extensionName }
-    .message =
-        Questa extensiun violescha las directivas da Mozilla ed è vegnida deactivada.
-        Ti pos l’activar en ils parameters, ma quai po esser ristgus.
-# Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
     .heading = Deactivà { $extensionName }
     .message = Questa extensiun violescha las directivas da Mozilla ed è vegnida deactivada.
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-           *[other] { $extensionsCount } extensiuns deactivadas
-        }
-    .message =
-        Tschertas da tias extensiuns èn vegnidas deactivadas perquai ch’ellas violeschan las directivas da Mozilla.
-        Ti pos las activar en ils parameters, ma quai po esser ristgus.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =

@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Pojdi na prejšnjo stran ({ $shortcut })
     .aria-label = Nazaj
+    .tooltiptext = Pojdi na prejšnjo stran ({ $shortcut })
     .accesskey = z
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Pojdi na naslednjo stran ({ $shortcut })
     .aria-label = Naprej
+    .tooltiptext = Pojdi na naslednjo stran ({ $shortcut })
     .accesskey = r
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name(capitalization: "sentence") }
-    .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Dodaj stran med zaznamke …
-    .accesskey = m
     .tooltiptext = Dodaj stran med zaznamke
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Dodaj stran med zaznamke …
-    .accesskey = m
     .tooltiptext = Dodaj stran med zaznamke ({ $shortcut })
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = Uredi zaznamek …
-    .accesskey = m
     .tooltiptext = Uredi zaznamek
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Uredi zaznamek …
-    .accesskey = m
     .tooltiptext = Uredi zaznamek ({ $shortcut })
+    .accesskey = m
 main-context-menu-open-link =
     .label = Odpri povezavo
     .accesskey = O
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Shrani povezavo kot …
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = Shrani povezavo v { -pocket-brand-name }
-    .accesskey = e
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Za pošiljanje strani v
 main-context-menu-send-to-mobile-connect-phone3 = Za pošiljanje zavihkov povežite drugo napravo
 main-context-menu-send-to-mobile-connect-phone-from-link = Za pošiljanje povezave povežite drugo napravo
 main-context-menu-send-to-mobile-connect-phone-from-page = Za pošiljanje strani povežite drugo napravo
-main-context-menu-save-to-pocket =
-    .label = Shrani stran v { -pocket-brand-name }
-    .accesskey = s
-main-context-menu-send-to-device =
-    .label = Pošlji stran na napravo
-    .accesskey = N
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Uporabi shranjeno prijavo
-    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Uporabi shranjeno geslo
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Uporabi e-poštno masko { -relay-brand-short-name }
     .accesskey = e
 main-context-menu-suggest-strong-password =
     .label = Predlagaj močno geslo …
     .accesskey = m
-main-context-menu-manage-logins2 =
-    .label = Upravljanje prijav
-    .accesskey = U
 main-context-menu-manage-passwords =
     .label = Upravljanje gesel
     .accesskey = U
-main-context-menu-keyword =
-    .label = Dodaj ključno besedo k iskanju …
-    .accesskey = K
 main-context-menu-add-engine =
     .label = Dodaj iskalnik
     .accesskey = D
@@ -391,9 +364,6 @@ main-context-menu-view-selection-source =
     .label = Pokaži izvorno kodo izbora
     .accesskey = r
 main-context-menu-take-screenshot =
-    .label = Zajemi posnetek zaslona
-    .accesskey = p
-main-context-menu-take-frame-screenshot =
     .label = Zajemi posnetek zaslona
     .accesskey = p
 main-context-menu-view-page-source =

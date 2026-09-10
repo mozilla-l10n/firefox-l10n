@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Չպարունակող
-    .accesskey = N
 user-context-manage-containers =
     .label = Կառավարել պարունակները
     .accesskey = O

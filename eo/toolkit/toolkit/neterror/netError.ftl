@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Iri reen
 neterror-return-to-previous-page-recommended-button = Reen (rekomendita)
 neterror-try-again-button-2 = Provi denove
     .accesskey = P
-neterror-try-again-button = Klopodi denove
 neterror-add-exception-button = Ĉiam daŭrigi por tiu ĉi retejo
 neterror-settings-button = Ŝanĝi agordojn de DNS
 neterror-view-certificate-link = Vidi atestilon
-neterror-trr-continue-this-time = Daŭrigi, ĉi foje
-neterror-disable-native-feedback-warning = Ĉiam daŭrigi
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = Pli da informo
 ##
 
 neterror-pref-reset = Ŝajne viaj retaj sekurecaj agordoj povus esti la kaŭzo. Ĉu vi volas restarigi la normajn agordojn?
-neterror-error-reporting-automatic = Raporti erarojn kiel tiu ĉi por helpi { -vendor-short-name }n identigi kaj bloki malicajn retejojn
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Malkonektu kaj rekonektu la send
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = Per niaj fidatajserviloj DNS { -brand-short-name } ne povas protekti vian peton al tiu ĉi adreso de retejo. Jen la kialo:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } ne povas protekti vian peton pri la adreso de tiu ĉi retejo per nia sekura provizanto de DNS. Jen la kialo:
 neterror-dns-not-found-trr-third-party-warning2 = Vi povas daŭrigi per via norma serĉilo DNS. Tamen, iu alia povus vidi, kiujn retejoj vi vizitas.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } ne povis konektiĝi al { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = La konekto al { $trrDomain } daŭris pli longe ol atendite.
-neterror-dns-not-found-trr-offline = Vi ne estas konektita al interreto.
 neterror-dns-not-found-trr-unknown-host2 = Tiu ĉi retejo ne estis trovita de { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Okazis problemo kun { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = Nevalida retadreso.
 neterror-dns-not-found-system-sleep = La sistemo estas en dorma reĝimo.
 neterror-dns-not-found-trr-unknown-problem = Neatendita problemo.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ne povas protekti vian peton pri la adreso de tiu ĉi retejo uzante niajn fidatajn serĉilojn DNS. Jen la kialo:
-neterror-dns-not-found-native-fallback-heuristic = DNS per HTTPS estis malaktivigita en via reto.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ne povis konektiĝi al { $trrDomain }.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = Eble ĝi estis forigita, aŭ movita, aŭ la permesoj do
 neterror-unknown-protocol = Vi eble bezonos instali alian programon por malfermi ĉi tiun adreson.
 neterror-redirect-loop = Tiu ĉi problemo povas okazi pro malaktivigo aŭ rifuzo de kuketoj.
 neterror-unknown-socket-type-client-config = Tio ĉi povus okazi pro agorda eraro en via kliento.
-neterror-unknown-socket-type-psm-installed = Kontrolu kaj certiĝu ke via sistemo havas la Administranton de persona sekureco instalita.
-neterror-unknown-socket-type-server-config = Tiu povus okazi pro nenorma agordado de la servilo.
 neterror-not-cached-intro = La petita dokumento ne ekzistas en la stokejo de { -brand-short-name }.
 neterror-not-cached-sensitive = Pro sekureca singardo, { -brand-short-name } aŭtomate ne repetas delikatajn dokumentojn.
 neterror-not-cached-try-again = Alklaku 'Klopodi denove' por peti denove la dokumenton al la retejo.

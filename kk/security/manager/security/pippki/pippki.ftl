@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Сіз FIPS-ке сәйкестеу реж
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Басты парольді қолдану
     .style = min-width: 40em
+    .title = Басты парольді қолдану
 reset-password-button-label =
     .label = Тастау
 reset-primary-password-text = Басты пароліңізді тастасаңыз, сақталған электронды пошта парольдері, жеке сертификаттар және жеке кілттер жоғалып кетеді. Басты парольді тастауды шынымен қалайсыз ба?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Сіздің басты парол�
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Сертификатты жүктеу
     .style = min-width: 46em
+    .title = Сертификатты жүктеу
 download-cert-message = Сізден жаңа Сертификаттау Орталығына (CA) сену сұранды.
 download-cert-trust-ssl =
     .label = Веб-сайттарды идентификациялауда осы CA сену.
@@ -52,8 +52,6 @@ download-cert-view-text = CA сертификатын тексеру
 
 client-auth-window =
     .title = Пайдаланушыны идентификациялаұ сұранымы
-client-auth-site-description = Сайт сізден өзіңізді сертификат арқылы анықтауды сұрап тұр:
-client-auth-choose-cert = Өзіңізді анықтайтын сертификатты таңдаңыз:
 client-auth-send-no-certificate =
     .label = Сертификат жібермеу
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Қауіпсіздік құрылғысын ({ $tokenName }) аутентификациялаңыз. Мұны қалай жасау құрылғы түріне байланысты (мысалы, саусақ ізін оқу құралын пайдалану немесе пернетақта арқылы кодты енгізу).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = "{ $tokenName }" токенін аутентификациялаңыз. Мұны қалай жасау токен түріне байланысты (мысалы, саусақ ізін оқу құралын пайдалану немесе пернетақта арқылы кодты енгізу).

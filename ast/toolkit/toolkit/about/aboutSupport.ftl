@@ -24,10 +24,6 @@ security-software-name = Nome
 security-software-antivirus = Antivirus
 security-software-antispyware = Antispyware
 security-software-firewall = Tornafuéu
-features-title = Carauterístiques de { -brand-short-name }
-features-name = Nome
-features-version = Versión
-features-id = ID
 processes-title = Procesos remotos
 processes-type = Tipu
 processes-count = Cantidá
@@ -53,7 +49,6 @@ app-basics-profile-dir =
         [linux] Direutoriu del perfil
        *[other] Carpeta del perfil
     }
-app-basics-enabled-plugins = Plugins activaos
 app-basics-build-config = Configuración de la compilación
 app-basics-user-agent = Axente d'usuariu
 app-basics-os = SO
@@ -75,9 +70,6 @@ show-dir-label =
 environment-variables-title = Variables d'entornu
 environment-variables-name = Nome
 environment-variables-value = Valor
-experimental-features-title = Carauterístiques esperimentales
-experimental-features-name = Nome
-experimental-features-value = Valor
 modified-prefs-name = Nome
 modified-prefs-value = Valor
 user-js-title = Preferencies d'user.js

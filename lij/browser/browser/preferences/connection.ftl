@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Preferense de conescion
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Preferense de conescion
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -51,19 +51,14 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Recarega
     .accesskey = e
-connection-proxy-autologin =
-    .label = No domandâ l’aotenticaçion se a paròlla segreta a l'é sarvâ
-    .accesskey = c
-    .tooltip = Sta òpçion a permette de aotenticase diretamente con in proxy se ti gh'æ de credensiali sarvæ. A domanda ti a vediæ in caxo de'erô.
 connection-proxy-autologin-checkbox =
     .label = No domandâ l’aotenticaçion se a paròlla segreta a l'é sarvâ
-    .accesskey = c
     .tooltiptext = Sta òpçion a permette de aotenticase diretamente con in proxy se ti gh'æ de credensiali sarvæ. A domanda ti a vediæ in caxo de'erô.
+    .accesskey = c
 connection-proxy-socks-remote-dns =
     .label = Proxy DNS quande se deuvia SOCKS v5
     .accesskey = D
 connection-dns-over-https-url-custom =
     .label = Personalizou
-    .accesskey = P
     .tooltiptext = Scrivi a teu URL preferia pe risolve DNS sorvia HTTPS
-connection-dns-over-https-custom-label = Personalizou
+    .accesskey = P

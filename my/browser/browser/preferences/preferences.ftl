@@ -2,39 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = ၀က်ဆိုက်များအား "နောက်ခံမလိုက်"  အချက်ပြပြီး သင့်အား နောက်လိုက် စုံစမ်း ခြင်း ရပ်တန့် ရန် ပြောပါ
-do-not-track-learn-more = ဆက်လက် လေ့လာပါ
-do-not-track-option-always =
-    .label = အမြဲတမ်း
 pane-general-title = အထွေထွေ
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = အဖွင့်စာမျက်နှာ
 pane-search-title2 = ရှာပါ
     .title = ရှာပါ
 pane-privacy-title3 = ကိုယ်ရေးကာကွယ်မှု နှင့် လုံခြုံရေး
     .title = ကိုယ်ရေးကာကွယ်မှု နှင့် လုံခြုံရေး
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = ရှာပါ
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = ကိုယ်ရေးကာကွယ်မှု နှင့် လုံခြုံရေး
-pane-privacy-title = ကိုယ်ရေးကာကွယ်မှု နှင့် လုံခြုံရေး
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label2 = { -brand-short-name } အထောက်အပံ့
     .title = { -brand-short-name } အထောက်အပံ့
 addons-button-label2 = တပ်တိုးအပိုနှင့် နောက်ခံအပြင်ဆင်
     .title = တပ်တိုးအပိုနှင့် နောက်ခံအပြင်ဆင်
-help-button-label = { -brand-short-name } အထောက်အပံ့
-addons-button-label = တပ်တိုးအပိုနှင့် နောက်ခံအပြင်ဆင်
 focus-search =
     .key = f
 close-button =
@@ -73,22 +54,13 @@ search-results-help-link = အကူအညီ လိုပါသလား။ <a 
 
 ## General Section
 
-startup-header = စတင်ခြင်း
 always-check-default =
     .label = { -brand-short-name } သည် ပုံသေဘရောင်ဇာ ဟုတ်/မဟုတ် အမြဲစစ်ဆေးပါ
     .accesskey = y
-is-default = { -brand-short-name } သည် လက်ရှိတွင် ပုံသေဘရောက်ဇာ ဖြစ်ပါသည်
-is-not-default = { -brand-short-name } သည် ပုံသေဘရောက်ဇာ ဖြစ်မနေပါ
-set-as-my-default-browser =
-    .label = စံသတ်မှတ်...
-    .accesskey = D
-startup-restore-warn-on-quit =
-    .label = ဘရောက်ဇာပိတ်လျှင်အသိပေးပါ
 disable-extension =
     .label = တိုးချဲ့မှု အားပိတ်ထားပါ
 tabs-group-header2 =
     .label = တပ်ဗ်များ
-tabs-group-header = တပ်ဗ်များ
 ctrl-tab-recently-used-order =
     .label = Ctrl+tab သည် အရင်သုံးခဲ့ဖူးသည့် တပ်ဗ်များကို အစဉ်လိုက် ပြောင်းပေးသွားမည်
     .accesskey = T
@@ -101,13 +73,7 @@ warn-on-open-many-tabs =
 show-tabs-in-taskbar =
     .label = ဝင်းဒိုး တက်စ်ဘားတွင် တပ်ဗ်အကြိုမြင်ကွင်းကို ပြပါ
     .accesskey = k
-browser-containers-enabled =
-    .label = ကွန်တိန်နာတပ်ဗ်များအသုံးပြုခြင်းကို ဖွင့်ရန်
-    .accesskey = n
 browser-containers-learn-more = ပိုမိုလေ့လာရန်
-browser-containers-settings =
-    .label = အပြင်အဆင်များ…
-    .accesskey = i
 containers-disable-alert-title = ကွန်တိန်နာတပ်ဗ်အားလုံးကို ပိတ်ပါမည်လား။
 startup-group =
     .label = စတင်ခြင်း
@@ -131,13 +97,6 @@ containers-remove-cancel-button = ကွန်တိုင်အား မဖယ
 ## General Section - Language & Appearance
 
 language-and-appearance-header = ဘာသာစကားနှင့် အသွင်အပြင်
-default-font = မူသေ ဖောင့်
-    .accesskey = D
-default-font-size = အရွယ်အ​စား
-    .accesskey = S
-advanced-fonts =
-    .label = အဆင့်မြင့်…
-    .accesskey = A
 language-header = ဘာသာစကား
 choose-language-description = စာမျက်နှာများကို ပြသရန် နှစ်သက်ရာဘာသာစကားကို ရွေးပါ
 choose-button =
@@ -147,12 +106,6 @@ manage-browser-languages-button =
     .label = အခြားရွေးစရာ သတ်မှတ်ရန်
     .accesskey = I
 confirm-browser-language-change-button = သတ်မှတ်ပြီး ပြန်ဖွင့်ပါ
-translate-web-pages =
-    .label = ဝဘ်စာမျက်နှာရှိ အကြောင်းအရာများကို ဘာသာပြန်ပါ
-    .accesskey = T
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = ဘာသာပြန်ဆိုသူ <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = ခြွင်းချက်များ...
     .accesskey = x
@@ -167,23 +120,6 @@ download-save-files-header =
     .label = ဖိုင်များကို ထိုနေရာတွင် သိမ်းရန်
 download-save-where-3 =
     .aria-label = ဖိုင်များကို ထိုနေရာတွင် သိမ်းရန်
-download-header = ဆွဲယူထားသည့် ဖိုင်များ
-download-save-where = ဖိုင်များကို ထိုနေရာတွင် သိမ်းရန်
-    .accesskey = v
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] ရွေးပါ…
-           *[other] ရှာဖွေရန်…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] o
-        }
-download-always-ask-where =
-    .label = မည်သည့်နေရာတွင် ဖိုင်သိမ်းရမည်ကိုမေးပါ
-    .accesskey = A
 applications-header = အက်ပလီကေးရှင်းများ
 applications-description = ဝဘ်အသုံးပြုနေစဉ် ဝဘ် သို့မဟုတ် အက်ပလီကေးရှင်းများထံမှ ဆွဲယူထားသော ဖိုင်များကို { -brand-short-name } က မည်သို့ကိုင်တွယ်ရမည်ကို ရွေးပါ။
 applications-filter =
@@ -224,17 +160,11 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = ({ $plugin-name } တွင်) { -brand-short-name } ကို အသုံးပြုပါ
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -250,43 +180,19 @@ applications-use-other-label =
 
 drm-group =
     .label = Digital Rights Management (DRM) အကြောင်းအရာ
-drm-content-header = Digital Rights Management (DRM) အကြောင်းအရာ
 play-drm-content =
     .label = DRMဖြင့်ထိန်းထားသော အကြောင်းအရာကို ဖွင့်ပါ
     .accesskey = p
 play-drm-content-learn-more = ပိုမိုလေ့လာရန်
-update-application-title = { -brand-short-name } မွမ်းမံမှုများ
-update-application-description = အကောင်းဆုံးစွမ်းရည်၊ တည်ငြိမ်မှုနှင့် လုံခြုံရေး ရရှိစေရန် { -brand-short-name } ကို နောက်ဆုံးပေါ် ဖြစ်စေပါ။
 # Variables:
 # $version (string) - Firefox version
 update-application-version = ဗားရှင်း { $version } <a data-l10n-name="learn-more">ဘာအသစ်တွေပါသလဲ</a>
 update-history-2 =
     .label = မြှင့်တင်မှုမှတ်တမ်းကို ပြပါ
     .accesskey = p
-update-history =
-    .label = မြှင့်တင်မှုမှတ်တမ်းကို ပြပါ…
-    .accesskey = p
-update-application-allow-description = { -brand-short-name } ကို ဆောင်ရွက်ခွင့်ပြုရန်
-update-application-auto =
-    .label = အဆင့်မြှင့်တင်မှုကို အလိုလျောက် ဆောင်ရွက်ပါ (အကြံပြုထားသည်)
-    .accesskey = a
-update-application-check-choose =
-    .label = အဆင့်မြှင့်တင်မှုများ ရှိ/မရှိ စစ်ဆေးပါ၊ သို့သော် ၎င်းတို့ကို တပ်ဆင်မည်ဆိုပါက ရွေးချယ်ခွင့်ပေးပါ။
-    .accesskey = C
-update-application-manual =
-    .label = အဆင့်မြှင့်တင်မှုများကို ဘယ်သောအခါမှ မစစ်ဆေးပါနှင့် (အကြံမပြုလိုပါ)
-    .accesskey = N
-update-application-use-service =
-    .label = နောက်ဆုံးပေါ် ပြုပြင်မှုများကို တပ်ဆင်ပါက နောက်ကွယ်လုပ်ငန်းစဉ်ကို အသုံးပြုပါ
-    .accesskey = b
 
 ## General Section - Performance
 
-performance-title = စွမ်းဆောင်ရည်
-performance-use-recommended-settings-checkbox =
-    .label = အကြံပြုထားသော စွမ်းဆောင်ရည်ဆိုင်ရာ အပြင်အဆင်ကို အသုံးပြုပါ
-    .accesskey = u
-performance-use-recommended-settings-desc = ယခုအပြင်အဆင်များကို ကွန်ပျူတာ၏အမာထည်နှင့် လည်ပတ်စနစ်အရ သတ်မှတ်ထားခြင်း ဖြစ်သည်။
 performance-settings-learn-more = ပိုမိုလေ့လာရန်
 performance-allow-hw-accel =
     .label = ဖြစ်နိုင်လျှင် စက်ကိရိယာဖြင့် အရှိန်မြှင့်တင်ခြင်းကို အသုံးပြုပါ
@@ -303,7 +209,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = ကြည့်ရှုခြင်း
 browsing-use-autoscroll =
     .label = အလိုအလျောက် အပေါ်အောက်ရွှေ့သည့်စနစ်ကို အသုံးပြုပါ
     .accesskey = a
@@ -322,18 +227,8 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = သင် လိုက်ကြည့် သောအပိုနောက်တိုး မျိုးကို အကြံပြုမည် (R)
     .accesskey = R
-browsing-cfr-recommendations-learn-more = ပိုမိုလေ့လာရန်
 browsing-group =
     .label = ကြည့်ရှုခြင်း
-
-## General Section - Proxy
-
-network-settings-title = ကွန်ယက် အပြင်အဆင်များ
-network-proxy-connection-description = အင်တာနက်နှင့် { -brand-short-name } ချိတ်ဆက်ပုံကို ပြုပြင်ပါ
-network-proxy-connection-learn-more = ပိုမိုလေ့လာရန်
-network-proxy-connection-settings =
-    .label = အပြင်အဆင်များ...
-    .accesskey = e
 
 ## Home Section
 
@@ -379,8 +274,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = ဝက်ဘ် ရှာ‌ရန်
-home-prefs-recommended-by-header =
-    .label = { $provider } က အကြံပြုထားသည်
 
 ##
 
@@ -393,14 +286,6 @@ home-prefs-highlights-options-bookmarks =
     .label = စာမှတ်များ
 home-prefs-highlights-option-most-recent-download =
     .label = လတ်တလော ဒေါင်းလုပ် ခဲ့သည်များ
-home-prefs-highlights-option-saved-to-pocket =
-    .label = { -pocket-brand-name } တွင် သိမ်းထားသည့် စာမျက်နှာများ
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = မှတ်စုတိုများ
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -411,28 +296,11 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = ရှာဖွေရေးဘားတန်း
-search-bar-hidden =
-    .label = ရှာဖွေရန်နှင့် သွားရောက်ရန် လိပ်စာဘားတန်းကို အသုံးပြုပါ
-search-bar-shown =
-    .label = ရှာဖွေရေးဘားတန်းကို ကိရိယာဘားတန်းသို့ ထည့်ပါ
-search-engine-default-header = မူသေ ရှာဖွေရေး ယန္တရား
-search-suggestions-option =
-    .label = ရှာဖွေရေး အကြံပြုချက်များကို ပြပါ
-    .accesskey = s
 search-show-suggestions-url-bar-option =
     .label = ရှာဖွေရေးအကြံပြုချက်များကို လိပ်စာဘားတန်းရလဒ်ထဲတွင် ပြသပါ
     .accesskey = i
 search-suggestions-cant-show-2 =
     .message = ရှာဖွေရေးဘားတွင် ရှာဖွေမှု အကြံပြုချက်များကို ပြသမည်မဟုတ်ပါ။ မှတ်တမ်းများ မှတ်မထားရန် { -brand-short-name } ကို သတ်မှတ်ထားသောကြောင့် ဖြစ်သည်။
-# This string describes what the user will observe when the system
-# prioritizes search suggestions over browsing history in the results
-# that extend down from the address bar. In the original English string,
-# "ahead" refers to location (appearing most proximate to), not time
-# (appearing before).
-search-show-suggestions-above-history-option =
-    .label = ရှာဖွေခဲ့သောစာရင်းများထဲမှ အကြံပြုချက်များကို လိပ်စာဘားတန်းရလဒ်ထဲတွင် ပြသပါ
-search-suggestions-cant-show = ရှာဖွေရေးဘားတွင် ရှာဖွေမှု အကြံပြုချက်များကို ပြသမည်မဟုတ်ပါ။ မှတ်တမ်းများ မှတ်မထားရန် { -brand-short-name } ကို သတ်မှတ်ထားသောကြောင့် ဖြစ်သည်။
 search-one-click-desc = ပြောင်းလဲအသုံးပြုလိုသော ရှာဖွေရေးယန္တရားကို ရွေးချယ်ပါ။ ရှာဖွေလိုသောစာလုံးကို ရိုက်နှိပ်သောအခါ ၎င်းသည် လိပ်စာဘားတန်းနှင့် ရှာဖွေရေးဘားတန်းတို့ အောက်တွင် ပေါ်လာမည်။
 search-choose-engine-column =
     .label = ရှာဖွေရေးယန္တရား
@@ -457,15 +325,6 @@ search-engine-group =
 search-default-engine =
     .aria-label = မူသေ ရှာဖွေရေး ယန္တရား
 
-## Containers Section
-
-containers-header = ကွန်တိန်နာတပ်ဗ်များ
-containers-add-button =
-    .label = ကွန်တိန်နာအသစ်ထပ်ထည့်ပါ
-    .accesskey = A
-containers-remove-button =
-    .label = ဖယ်ရှားပါ
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -482,8 +341,6 @@ sync-mobile-promo = ထိုစနစ်အတွက် မီးမြေခ�
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = ပရိုဖိုင်းရုပ်ပုံကို ပြောင်းလဲရန်
 sync-profile-picture-with-alt =
     .alt = ပရိုဖိုင်းရုပ်ပုံကို ပြောင်းလဲရန်
     .tooltiptext = ပရိုဖိုင်းရုပ်ပုံကို ပြောင်းလဲရန်
@@ -502,9 +359,6 @@ sync-signedin-login-failure = ပြန်လည်ချိတ်ဆက်ရ�
 
 ##
 
-sync-resend-verification =
-    .label = အတည်ပြုချက်ကို ပြန်လည်ပေးပို့ပါ
-    .accesskey = d
 sync-remove-account =
     .label = အကောင့်ကို ဖယ်ရှားပါ
     .accesskey = R
@@ -515,9 +369,6 @@ sync-sign-in =
 ## The list of things currently syncing.
 
 sync-currently-syncing-bookmarks = စာမှတ်များ
-sync-change-options =
-    .label = ပြောင်းလဲရန်
-    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
@@ -535,10 +386,6 @@ sync-engine-addresses =
     .label = လိပ်စာများ
     .tooltiptext = မှတ်သားထားသော စာပို့လိပ်စာများ (ဒက်စတော့အတွက်သာ)
     .accesskey = e
-sync-engine-creditcards =
-    .label = အကြွေးကဒ်များ
-    .tooltiptext = နာမည်၊ နံပါတ်နှင့် ကုန်ဆုံးရက်များ (ဒက်စတော့အတွက်သာ)
-    .accesskey = C
 sync-engine-addons =
     .label = အတ်အွန်များ
     .tooltiptext = Firefox ဒက်စတော့အတွက် ပေါင်းထည့်ဆော့ဖ်ဝဲများနှင့် အခင်းအကျင်းများ
@@ -570,38 +417,15 @@ sync-connect-another-device = အခြားကိရိယာကို ချ�
 sync-connect-another-device-2 =
     .label = အခြားကိရိယာကို ချိတ်ပါ။
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = အတည်ပြုချက်ပေးပို့ပြီး
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = အတည်ပြုခြင်းဆိုင်ရာ လင့်ခ်တစ်ခုကို { $email } သို့ ပို့လိုက်သည်။
-sync-verification-not-sent-title = အတည်ပြုချက်ကို မပေးပို့နိုင်ပါ
-sync-verification-not-sent-body = ဒီအချိန်တွင် အတည်ပြုရန်ချောစာကို ကျွန်ုပ်တို့ မပို့နိုင်သေးပါ။ ကျေးဇူးပြု၍ နောင်တွင် ထပ်မံ ဆောင်ရွက်ကြည့်ပါ။
-
 ## Privacy Section
 
 privacy-header = ဘရောင်ဇာ ကိုယ်ရေးကာကွယ်မှု
-
-## Privacy Section - Logins and Passwords
-
-# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = အကောင့်ဝင်ရောက်မှုနှင့်စကားဝှက်များ
-    .searchkeywords = { -lockwise-brand-short-name }
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = ဆိုက်များအတွက် ဝင်ရောက်မှုများနှင့် စကားဝှက်များကို မှတ်ရန် မေးပါ
-    .accesskey = r
 
 ## Privacy Panel Settings
 
 forms-exceptions =
     .label = ခြွင်းချက်များ...
     .accesskey = x
-forms-saved-logins =
-    .label = သိမ်းထားသည့် ဝင်ရောက်မှု အချက်အလက်များ…
-    .accesskey = L
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -612,32 +436,12 @@ forms-master-pw-fips-desc = စကားဝှက်ပြောင်းလဲ�
 
 ## Privacy Section - History
 
-history-header = မှတ်တမ်း
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } သည်
-    .accesskey = w
-history-remember-option-all =
-    .label = မှတ်တမ်းကို မှတ်ထားမည်
-history-remember-option-never =
-    .label = မှတ်တမ်းကို ဘယ်တော့မှ မမှတ်ထားပါ
-history-remember-option-custom =
-    .label = မှတ်တမ်းအတွက် စိတ်ကြိုက်အပြင်အဆင်ကို အသုံးပြုမည်
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name }သည် သင့်၏ရှာဖွေမှု၊ဆွဲယူမှု၊ရှာဖွေမှတ်တမ်းများကို မှတ်သားမည်။
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } က တူညီတဲ့ အပြင်အဆင်များကို သီးသန့် လှော်လှန်မှုအဖြစ် သုံးစွဲမှာ ဖြစ်ပြီး၊ ကွန်ရက်ကို သင်လှော်လှန်နေစဉ် ဘယ် မှတ်တမ်းကိုမှ မှတ်သားထားမှာ မဟုတ်ဘူး။
-history-remember-description = { -brand-short-name }သည် သင့်၏ရှာဖွေမှု၊ဆွဲယူမှု၊ရှာဖွေမှတ်တမ်းများကို မှတ်သားမည်။
-history-dontremember-description = { -brand-short-name } က တူညီတဲ့ အပြင်အဆင်များကို သီးသန့် လှော်လှန်မှုအဖြစ် သုံးစွဲမှာ ဖြစ်ပြီး၊ ကွန်ရက်ကို သင်လှော်လှန်နေစဉ် ဘယ် မှတ်တမ်းကိုမှ မှတ်သားထားမှာ မဟုတ်ဘူး။
 history-private-browsing-permanent =
     .label = သီးသန့်ကြည့်ရှုခြင်းကို အမြဲ အသုံးပြုမည်
     .accesskey = p
@@ -663,28 +467,13 @@ history-mode-radio-group =
 
 ## Privacy Section - Site Data
 
-sitedata-header = ကွတ်ကီးနှင့် ဆိုက်အချက်အလက်များ
 sitedata-total-size-calculating = ဆိုက်အချက်အလက်နှင့် ယာယီအချက်အလက် cache သုံးစွဲမှုပမာဏကို တွက်ချက်နေသည်...
 sitedata-learn-more = ပိုမိုလေ့လာရန်
-sitedata-allow-cookies-option =
-    .label = ကွတ်ကီးများနှင့် ဆိုက်အချက်အလက်ကို လက်ခံရန်
-    .accesskey = A
-sitedata-disallow-cookies-option =
-    .label = ကွတ်ကီးများနှင့် ဆိုက်အချက်အလက်ကို မသိမ်းရန်
-    .accesskey = B
-sitedata-clear =
-    .label = အချက်အလက်ကို ရှင်းပါ...
-    .accesskey = l
-sitedata-settings =
-    .label = အချက်အလက်ကို စီမံပါ...
-    .accesskey = M
 cookies-site-data-group =
     .label = ကွတ်ကီးနှင့် ဆိုက်အချက်အလက်များ
 
 ## Search Section
 
-addressbar-header = လိပ်စာဘား
-addressbar-suggest = လိပ်စာဘားတန်းတွင်ရှာဖွေပါက အကြံပေးပါ
 addressbar-locbar-history-option =
     .label = ရှာဖွေကြည့်ရှုမှု မှတ်တမ်း
     .accesskey = h
@@ -694,7 +483,6 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = ဖွင့်ထားသည့် စာမျက်နှာများ
     .accesskey = O
-addressbar-suggestions-settings = ရှာဖွေရေးယန္တရား၏ အကြံပေးချက်များအတွက် အပြင်အဆင်ကို ပြောင်းလဲရန်
 
 ## Privacy Section - Content Blocking
 
@@ -716,7 +504,6 @@ content-blocking-all-cookies = ကွတ်ကီးအားလုံး
 content-blocking-unvisited-cookies = မလည်ပတ်သောဆိုက်များမှ ကွတ်ကီးများ
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = လက်ဗွေများ
-content-blocking-warning-title = ကြိုတင်အသိပေးသည်!
 content-blocking-reload-tabs-button =
     .label = တပ်ဗ်အားလုံးကို ပြန်ဖွင့်ရန်
     .accesskey = R
@@ -726,17 +513,11 @@ content-blocking-tracking-protection-option-all-windows =
 content-blocking-option-private =
     .label = ကိုယ်ပိုင်ဝင်းဒိုးတွင်သာလျှင်
     .accesskey = p
-content-blocking-tracking-protection-change-block-list = ပိတ်ထားသည့်စာရင်းကို ပြောင်းရန်
 content-blocking-cookies-label =
     .label = ကွတ်ကီးများ
     .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = ပိုမို အချက်အလက်
-# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
-# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
-content-blocking-fingerprinters-label =
-    .label = လက်ဗွေရာများ
-    .accesskey = F
 
 ## Privacy Section - Tracking
 
@@ -746,36 +527,9 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = ခွင့်ပြုချက်များ
-permissions-location = တည်နေရာ
-permissions-location-settings =
-    .label = အပြင်အဆင်များ...
-    .accesskey = t
-permissions-camera = ကင်မရာ
-permissions-camera-settings =
-    .label = အပြင်အဆင်များ...
-    .accesskey = t
-permissions-microphone = မိုက်ကရိုဖုန်း
-permissions-microphone-settings =
-    .label = အပြင်အဆင်များ...
-    .accesskey = t
-permissions-notification = အသိပေးချက်များ
-permissions-notification-settings =
-    .label = အပြင်အဆင်များ...
-    .accesskey = t
-permissions-notification-link = ပိုမိုလေ့လာရန်
 permissions-notification-pause =
     .label = အသိပေးချက်ကို { -brand-short-name } ပြန်လည်စတင်မှု မတိုင်ခင်ထိ ရပ်တန့်ထားပါ
     .accesskey = n
-permissions-block-popups =
-    .label = ပေါ့အပ်ဝင်းဒိုးများကို မဖွင့်ပါနှင့်
-    .accesskey = B
-permissions-addon-install-warning =
-    .label = ဝဘ်ဆိုက်များက အတ်အွန်များ တပ်ဆင်လိုသည့်အခါ အသိပေးပါ
-    .accesskey = W
-permissions-addon-exceptions =
-    .label = ခြွင်းချက်များ...
-    .accesskey = E
 permissions-location2 =
     .label = တည်နေရာ
 permissions-camera2 =
@@ -787,21 +541,6 @@ permissions-notification2 =
 
 ## Privacy Section - Data Collection
 
-collection-header = { -brand-short-name } ချက်လက်စုစည်းမှုနှင့်အသုံးပြုမှု
-collection-privacy-notice = ကိုယ်ရေးကာကွယ်မှု အသိပေးချက်
-collection-health-report =
-    .label = { -vendor-short-name } သို့နည်းပညာဆိုင်ရာချက်လက်များပို့ရန်{ -brand-short-name } ကို ခွင့်ပြုပါ
-    .accesskey = r
-collection-health-report-link = ပိုမိုလေ့လာရန်
-collection-studies =
-    .label = { -brand-short-name } ကို ထည့်သွင်းခြင်းနှင့် လေ့လာမှုလုပ်ရန် ခွင့်ပြုပါ
-collection-studies-link = { -brand-short-name }လေ့လာမှု ကြည့်ရန်
-addon-recommendations =
-    .label = ‌ { -brand-short-name } က ကိုယ်တစ်ကိုယ်ရည် နောက်တိုးအပိုအကြံပေးချက်ကို ခွင့်ပြုမည်
-addon-recommendations-link = ပိုမိုလေ့လာရန်
-# This message is displayed above disabled data sharing options in developer builds
-# or builds with no Telemetry support available.
-collection-health-report-disabled = တည်ဆောက်မှုဆိုင်ရာ ယခုအပြင်အဆင်အတွက် အချက်အလက်အစီရင်ခံခြင်းကို ပိတ်ထားသည်
 data-collection-studies-link =
     .label = { -brand-short-name }လေ့လာမှု ကြည့်ရန်
 
@@ -811,7 +550,6 @@ data-collection-studies-link =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = လုံခြုံရေး
-security-browsing-protection = အချက်အလက်အတုနှင့် အန္တရာယ်ရှိသော ဆော့ဖ်ဝဲ ကာကွယ်မှု
 security-enable-safe-browsing =
     .label = အန္တရာယ်ရှိသည့် အကြောင်းအရာတုများကို တားဆီးပါ
     .accesskey = B
@@ -825,20 +563,9 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = အသိအမှတ်ပြုလက်မှတ်များ
-certs-enable-ocsp =
-    .label = လက်ရှိအထောက်အထားများ၏ ခိုင်လုံမှုကို အတည်ပြုရန် OSCP responder servers များကို ဆွဲထုတ်ပါ Q
-    .accesskey = Q
-certs-view =
-    .label = အထောက်အထားများကို ကြည့်ရန်...
-    .accesskey = C
-certs-devices =
-    .label = လုံခြုံရေး ကိရိယာများ...
-    .accesskey = D
 certs-devices-enable-fips = FIPS ကို ဖွင့်ထားပါ
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ဒက်စ်တော့
 downloads-folder-name = ဆွဲယူထားသော ဖိုင်များ
-choose-download-folder-title = ဆွဲယူထားသည့် ဖိုင်များထားရာနေရာကို ရွေးပါ

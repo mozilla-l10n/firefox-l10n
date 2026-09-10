@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Sertifikat yuklab olinmoqda
     .style = min-width: 46em
+    .title = Sertifikat yuklab olinmoqda
 download-cert-message = Sizdan yangi sertifikat tasdig‘i (CA)ga ishonishingiz so‘ralgan edi.
 download-cert-trust-ssl =
     .label = Ushbu CA tasdiqli vebsaytlarga ishonish.
@@ -37,8 +37,6 @@ download-cert-view-text = CA sertifikatini sinovdan o‘tkazish
 
 client-auth-window =
     .title = Foydalanuvchini tasdiqdan o‘tkazish so‘rovi
-client-auth-site-description = Bu sayt sertifikat yordamida identifikatsiyalanishni so‘ramoqda:
-client-auth-choose-cert = Tasdiqdan o‘tish sifatida ko‘rsatiladigan sertifikatni tanlang:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
 client-auth-cert-details-issued-to = Muallifi: { $issuedTo }

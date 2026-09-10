@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Hindrer at standardnettleseren gjør noe. Gj
 policy-DisableDeveloperTools = Blokker tilgang til utviklerverktøyene.
 policy-DisableEncryptedClientHello = Deaktiver bruk av TLS-funksjonen Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Deaktiver kommandoer for å sende tilbakemelding fra Hjelp-menyen (Gi tilbakemelding og Rapporter villedende nettsted).
-policy-DisableFirefoxAccounts = Deaktiver { -fxaccount-brand-name }-baserte tjenester, inkludert Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Deaktiver kontobaserte tjenester, inkludert synkronisering.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Ikke lagre søke- og skjemahistorikk.
 policy-DisableLaunchOnLogin = Hindre at { -brand-short-name } starter automatisk når brukeren logger inn.
 policy-DisablePrimaryPasswordCreation = Om aktiv, kan ikke et hovedpassord lages.
 policy-DisablePasswordReveal = Ikke la passord bli avslørt for lagrede innlogginger.
-policy-DisablePocket2 = Deaktiver funksjonen for å lagre nettsider til { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Slå av privat nettlesing.
 policy-DisableProfileImport = Deaktiver meny-kommandoen for å importere data fra en annen nettleser.
 policy-DisableProfileRefresh = Deaktiver knappen Tilbakestill { -brand-short-name } på siden about:support.
@@ -132,7 +130,6 @@ policy-PDFjs = Deaktiver eller konfigurer PDF.js, det innebygde PDF-visningsprog
 policy-Permissions2 = Konfigurer tillatelser for kamera, mikrofon, plassering og auto-avspilling.
 policy-PictureInPicture = Slå på eller av bilde-i-bilde
 policy-PopupBlocking2 = Tillat enkelte nettsteder å vise sprettoppvinduer og videresendes av tredjepartsrammer.
-policy-PopupBlocking = Tillat at visse nettsteder skal kunne vise sprettoppvinduer som standard.
 policy-Preferences = Still inn og lås verdien for en undergruppe av innstillingene.
 policy-PrivateBrowsingModeAvailability = Angi tilgjengeligheten av privat nettlesingsmodus.
 policy-PromptForDownloadLocation = Spør hvor du skal lagre filer når du laster ned.

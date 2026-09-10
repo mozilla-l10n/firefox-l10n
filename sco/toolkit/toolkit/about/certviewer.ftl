@@ -118,4 +118,3 @@ certificate-viewer-tab-mine = Yer Certificates
 certificate-viewer-tab-people = Fowk
 certificate-viewer-tab-servers = Servers
 certificate-viewer-tab-ca = Authorities
-certificate-viewer-tab-unkonwn = Unkent

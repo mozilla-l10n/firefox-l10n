@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Fitxa berria
-    .accesskey = b
 reload-tab =
     .label = Berritu fitxa
     .accesskey = r
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Talde berria
     .accesskey = b
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -200,13 +193,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Sortu partekatzeko lotura
     .accesskey = a
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Bidali fitxa gailura
-           *[other] Bidali { $tabCount } fitxa gailura
-        }
-    .accesskey = d
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

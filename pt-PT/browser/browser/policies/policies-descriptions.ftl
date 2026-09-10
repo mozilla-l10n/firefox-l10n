@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Impedir que o agente do navegador predefinid
 policy-DisableDeveloperTools = Bloquear acesso às ferramentas de programador.
 policy-DisableEncryptedClientHello = Desativar a utilização da funcionalidade TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Desativar comandos para enviar comentários a partir do menu de Ajuda (enviar feedback e reportar sites fraudulentos)
-policy-DisableFirefoxAccounts = Desativar os serviços baseados na { -fxaccount-brand-name }, incluindo o Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Desativar os serviços baseados na conta, incluindo a sincronização.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Não guardar histórico de pesquisas ou de formulár
 policy-DisableLaunchOnLogin = Impedir que o { -brand-short-name } seja iniciado automaticamente quando o utilizador inicia sessão.
 policy-DisablePrimaryPasswordCreation = Se verdadeiro, não poderá ser criada uma palavra-passe principal.
 policy-DisablePasswordReveal = Impedir que as palavras-passe sejam reveladas nas credenciais guardadas.
-policy-DisablePocket2 = Desativar a funcionalidade de guardar páginas web no { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Desativar a Navegação privada.
 policy-DisableProfileImport = Desativar o menu de comando para importar dados de outro navegador.
 policy-DisableProfileRefresh = Desativar o botão Restaurar { -brand-short-name } na página about:support.
@@ -132,7 +130,6 @@ policy-PDFjs = Desativar ou configurar o PDF.js, o visualizador integrado de PDF
 policy-Permissions2 = Configurar as permissões para a câmara, microfone, localização, notificações e reprodução automática.
 policy-PictureInPicture = Ativar ou desativar a janela flutuante.
 policy-PopupBlocking2 = Permitir que determinados sites mostrem popups e sejam redirecionados por molduras de terceiros.
-policy-PopupBlocking = Permitir que determinados sites mostrem pop-ups por predefinição.
 policy-Preferences = Definir e bloquear o valor para um subconjunto de preferências.
 policy-PrivateBrowsingModeAvailability = Definir a disponibilidade do modo de navegação privada.
 policy-PromptForDownloadLocation = Perguntar onde guardar os ficheiros durante a transferência.

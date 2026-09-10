@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>ਤੁਹਾਡਾ ਮੂਲ ਖੋਜ ਇੰਜਣ ਬਦਲਿਆ ਗਿਆ ਹੈ।</strong>{ $oldEngine } { -brand-short-name } ਵਿੱਚ ਮੂਲ ਖੋਜ ਇੰਜਣ ਵਜੋਂ ਕੰਮ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੈ। { $newEngine } ਹੁਣ ਤੁਹਾਡਾ ਮੂਲ ਖੋਜ ਇੰਜਣ ਹੈ। ਹੋਰ ਮੂਲ ਖੋਜ ਇੰਜਣ ਬਦਲਣ ਲਈ ਸੈਟਿੰਗਾਂ ਉੱਤੇ ਜਾਓ। <label data-l10n-name="remove-search-engine-article">ਹੋਰ ਸਿੱਖੋ</label>
 removed-search-engine-message2 = <strong>ਤੁਹਾਡਾ ਮੂਲ ਖੋਜ ਇੰਜਣ ਬਦਲਿਆ ਗਿਆ ਹੈ।</strong>{ $oldEngine } { -brand-short-name } ਵਿੱਚ ਮੂਲ ਖੋਜ ਇੰਜਣ ਵਜੋਂ ਕੰਮ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੈ। { $newEngine } ਹੁਣ ਤੁਹਾਡਾ ਮੂਲ ਖੋਜ ਇੰਜਣ ਹੈ। ਹੋਰ ਮੂਲ ਖੋਜ ਇੰਜਣ ਬਦਲਣ ਲਈ ਸੈਟਿੰਗਾਂ ਉੱਤੇ ਜਾਓ।
 remove-search-engine-button = ਠੀਕ ਹੈ
 
@@ -52,11 +51,11 @@ install-search-engine-no = ਨਹੀਂ
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = ਖੋਜ ਇੰਜਣ ਜੋੜੋ
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = ਖੋਜ ਇੰਜਣ ਨੂੰ ਸੋਧੋ
     .style = min-width: 32em;
+    .title = ਖੋਜ ਇੰਜਣ ਨੂੰ ਸੋਧੋ
 add-engine-button = ਕਸਟਮ ਇੰਜਣ ਜੋੜੋ
 add-engine-name = ਖੋਜ ਇੰਜਣ ਦਾ ਨਾਂ
 add-engine-url2 = ਖੋਜ ਸ਼ਬਦ ਦੀ ਥਾਂ ਉੱਤੇ %s ਨਾਲ URL ਦਿਓ
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = ਖੋਜ ਸ਼ਬਦ ਦੀ ਥਾਂ ਉੱ
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = ਇੰਜਣ ਨੂੰ ਜੋੜੋ
-    .buttonaccesskeyaccept = A
     .buttonlabelextra1 = ਤਕਨੀਕੀ
+    .buttonaccesskeyaccept = A
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = ਇੰਜਣ ਨੂੰ ਸੰਭਾਲੋ
-    .buttonaccesskeyaccept = S
     .buttonlabelextra1 = ਤਕਨੀਕੀ
+    .buttonaccesskeyaccept = S

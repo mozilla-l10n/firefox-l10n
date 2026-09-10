@@ -5,14 +5,8 @@
 
 ### These strings are used inside the about:debugging UI.
 
-
-# Page Title strings
-
 # Page title (ie tab title) for the Setup page
 about-debugging-page-title-setup-page = Bugdichtin - Setup
-
-# Sidebar strings
-
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = This { -brand-shorter-name }
@@ -62,9 +56,6 @@ about-debugging-sidebar-runtime-item-name =
 #   $displayName (string) - Displayed name
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
-
-# Setup Page strings
-
 # Title of the Setup page.
 about-debugging-setup-title = Setup
 # USB section of the Setup page
@@ -91,9 +82,6 @@ about-debugging-network-locations-host-input-label = Host
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Remuive
-
-# Runtime Page strings
-
 # Title of the extensions category.
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-extensions =
@@ -115,9 +103,6 @@ about-debugging-runtime-name = { $name } ({ $version })
 about-debugging-runtime-disconnect-button = Disconnect
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = Profiler
-
-# Debug Targets strings
-
 # Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...

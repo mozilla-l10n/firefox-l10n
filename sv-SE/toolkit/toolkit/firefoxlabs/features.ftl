@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Aktivera Warp, ett projekt för att 
 experimental-features-ime-search =
     .label = Adressfält: visa resultat under IME-komposition
 experimental-features-ime-search-description = En IME (Input Method Editor) är ett verktyg som låter dig skriva in komplexa symboler, som de som används i östasiatiska eller indiska skriftspråk, med ett vanligt tangentbord. Om du aktiverar detta experiment hålls adressfältets panel öppen och visar sökresultat och förslag medan du använder IME för att mata in text. Observera att IME kan visa en panel som täcker resultat i adressfältet, därför föreslås denna inställning endast för IME som inte använder denna typ av panel.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Bild-i-bild: öppnas automatisk när du byter flik
-experimental-features-auto-pip-description = Aktivera bild-i-bild på aktiva videor när du byter flikar.
 experimental-features-group-developer-tools =
     .label = Utvecklarverktyg
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Produktivitet
 experimental-features-group-newtab-widgets =
     .label = Widgetar för { -firefox-home-brand-name }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Lösenord i sidofältet
-experimental-features-contextual-password-manager-description = Kom åt dina lösenord direkt från sidofältet. Inget mer letande eller återställning av lösenord när du försöker logga in. För att använda den här funktionen väljer du lösenord i sidofältet. Gå sedan till dina allmänna inställningar och under webbläsarlayout, välj visa sidofält. Anpassa sedan sidofältet genom att välja lösenord. Om du provar det, <a data-l10n-name="connect">berätta för oss vad du tycker</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Välj en egen bakgrundsbild eller färg för Ny flik

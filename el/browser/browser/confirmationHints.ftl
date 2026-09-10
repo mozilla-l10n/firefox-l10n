@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Απεστάλη αναφορά. Ευχαριστούμε!
-confirmation-hint-login-removed = Η σύνδεση αφαιρέθηκε!
 confirmation-hint-password-removed = Ο κωδικός πρόσβασης αφαιρέθηκε!
 confirmation-hint-page-bookmarked = Αποθηκεύτηκε στους σελιδοδείκτες
-confirmation-hint-password-saved = Ο κωδικός πρόσβασης αποθηκεύτηκε!
 confirmation-hint-password-created = Ο κωδικός πρόσβασης αποθηκεύτηκε
 confirmation-hint-password-updated = Ο κωδικός πρόσβασης ενημερώθηκε
 confirmation-hint-address-created = Η διεύθυνση αποθηκεύτηκε

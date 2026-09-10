@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = La saji kam yol at sti' tu tatinb'ale'
 
@@ -38,8 +33,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Jaj u atinb'ala' uve' at kat kan unq'a yole' uve' kolel tu kan tul ye'l Internet
 urlbar-password-notification-anchor =
     .tooltiptext = Jaj u atinb'ale' uve' kolel kat kan unq'a kach'ub' tetze'
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Il isuuchil ib'anb'el unq'a tz'ajsab' tetze'
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Il isuuchil ajatxat ab'anb'et va eesan vatzib'ale' tuk'/moj va microfono tuk' u vaa'
 urlbar-autoplay-notification-anchor =
@@ -48,8 +41,6 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Kolel kan unq'a yole' uva' at chitu'
 urlbar-addons-notification-anchor =
     .tooltiptext = Jaj u tatinb'al unq'a yole' uve' at ve't ok ti' itz'ajsab' tetz
-urlbar-tip-help-icon =
-    .title = La lej lochb'al
 
 ##
 

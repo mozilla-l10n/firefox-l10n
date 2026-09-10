@@ -46,11 +46,6 @@ genai-prompt-prefix-selection = So in sa pàgina “{ $tabTitle }” e apo selet
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Pregunta a su Chatbot IA
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Pregunta a { $provider }
 genai-menu-open-generic =
     .label = Aberi su chatbot IA
 # $provider (string) - name of the provider
@@ -119,8 +114,6 @@ genai-header-provider-menu =
     .title = Sèbera unu chatbot
 genai-header-settings-button =
     .title = Cunfiguratziones de tzarrada IA
-genai-header-options-button =
-    .title = Aberi su menù
 genai-header-close-button =
     .title = Serra
 genai-provider-view-details =
@@ -148,35 +141,23 @@ genai-page-button-summarize = Faghe unu resumu de sa pàgina
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Resumina, gènera ideas e prus mentres nàvigas
 genai-onboarding-choose-header = Sèbera su chatbot IA chi boles impreare dae sa barra laterale de { -brand-short-name }
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Sèbera unu chatbot de impreare in sa barra laterale de { -brand-short-name }. T'amus a ammustrare detàllios in contu de onni chatbot cando ddu sèberas. Càmbia in cale si siat momentu. <a data-l10n-name="learn-more">Iscoberi de prus</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Càmbia in cale si siat momentu. Pro agiudu a seberare, <a data-l10n-name="learn-more">iscoberi de prus a subra de onni chatbot</a>.
 genai-onboarding-primary = Sighi
 genai-onboarding-secondary = Serra
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Àteras informatziones in pitzus de Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Àteras informatziones in pitzus de ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Àteras informatziones in pitzus de Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Àteras informatziones in pitzus de Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
-genai-onboarding-huggingchat-learn = Àteras informatziones in pitzus de HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Àteras informatziones in pitzus de Le Chat
-genai-onboarding-select-header = Seletziona testu pro bìdere cussìgios
-genai-onboarding-select-description = Cando as a seletzionare testu, t’amus a cussigiare inditos chi podes imbiare a su chatbot. Podes iscrìere puru is inditos tuos.
-genai-onboarding-select-primary = Cumintza a tzarrare
 genai-chatbot-contextual-title = Imprea unu chatbot IA chene cambiare de ischeda
 genai-chatbot-contextual-subtitle = Arresona e nàviga acòstias a pare cando agiunghes unu chatbot IA a sa barra laterale de { -brand-short-name }.
 genai-chatbot-contextual-button = Sèbera unu chatbot
@@ -186,27 +167,6 @@ genai-chatbot-summarize-button = Faghe unu resumu de sa pàgina
 genai-chatbot-summarize-sidebar-provider-subtitle = Incarca cun su butone deretu su chatbot IA dae sa barra laterale e sèbera “Faghe unu resumu de sa pàgina”.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Aberi su chatbot IA dae sa barra laterale e sèbera “Faghe unu resumu de sa pàgina” in bàsciu.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Gènera testu e còdighe
-genai-onboarding-claude-analyze = Analiza documentos e immàgines
-genai-onboarding-claude-price = Optziones de badas e de pagamentu; contu rechestu
-genai-onboarding-chatgpt-generate = Gènera testu, immàgines e còdighe
-genai-onboarding-chatgpt-analyze = Analiza documentos e immàgines
-genai-onboarding-chatgpt-price = Optziones de badas e de pagamentu; contu rechestu pro tzertos paisos e tareas
-genai-onboarding-copilot-generate = Gènera testu, immàgines e còdighe
-genai-onboarding-copilot-analyze = Analiza immàgines
-genai-onboarding-copilot-price = Optziones de badas e de pagamentu; contu rechestu pro tzertas tareas
-genai-onboarding-gemini-generate = Gènera testu, immàgines e còdighe
-genai-onboarding-gemini-analyze = Analiza immàgines (de badas) e documentos (de pagamentu)
-genai-onboarding-gemini-price = Optziones de badas e de pagamentu; contu rechestu
-genai-onboarding-huggingchat-generate = Gènera testu e còdighe
-genai-onboarding-huggingchat-switch = Sèbera intre una sèrie de modellos abertos
-genai-onboarding-huggingchat-price-2 = De badas; contu rechestu a pustis de unu nùmeru de rechestas
-genai-onboarding-lechat-generate = Gènera testu e còdighe
-genai-onboarding-lechat-price = De badas; contu rechestu
 
 ## Model Optin Component
 
@@ -245,8 +205,8 @@ link-preview-generation-retry = Torra a nche proare
 link-preview-settings-button =
     .title = Cunfiguratzione de previsualizatzione de ligòngiu
 link-preview-settings-enable =
-    .label = Ativa sa previsualizatzione de ligòngios
     .description = Ammustra su tìtulu de sa pàgina, sa descritzione e àteru cando impreas su curtzadòrgiu o incarcas unu ligòngiu cun su butone deretu.
+    .label = Ativa sa previsualizatzione de ligòngios
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Nde boles bìdere de prus cun IA?
 # Onboarding card title for long press

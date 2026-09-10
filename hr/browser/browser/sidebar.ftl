@@ -34,7 +34,6 @@ sidebar-history-clear =
     .label = Izbriši povijest
 sidebar-history-sort-by-heading-menucaption =
     .label = Razvrstaj po:
-sidebar-history-sort-by-heading = Razvrstaj po:
 sidebar-history-sort-option-date =
     .label = Datum
 sidebar-history-sort-option-site =
@@ -54,14 +53,9 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Proširenja u bočnoj traci
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name } alati
 sidebar-customize-firefox-settings = Upravljaj { -brand-short-name } postavkama
 sidebar-vertical-tabs =
     .label = Okomite kartice
-sidebar-settings =
-    .label = Postavke bočne trake
 sidebar-hide-tabs-and-sidebar =
     .label = Sakrij kartice i bočnu traku
 sidebar-show-on-the-right =
@@ -77,8 +71,6 @@ expand-sidebar-on-hover =
 
 sidebar-context-menu-manage-extension =
     .label = Upravljaj proširenjem
-sidebar-context-menu-remove-extension =
-    .label = Ukloni proširenje
 sidebar-context-menu-report-extension =
     .label = Prijavi proširenje
 sidebar-context-menu-open-in-tab =

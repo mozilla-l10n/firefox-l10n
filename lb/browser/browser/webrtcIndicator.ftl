@@ -10,8 +10,4 @@ webrtc-sharing-menuitem =
 
 ##
 
-webrtc-share-screen-learn-more = Fir méi ze wëssen
-
-##
-
 webrtc-remember-allow-checkbox = Dës Decisioun verhalen

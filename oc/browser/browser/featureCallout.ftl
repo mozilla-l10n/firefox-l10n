@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = Jonglatz entre vòstres aparelhs gràcia
 callout-firefox-view-tab-pickup-subtitle = Trapatz rapidament los onglets dobèrts sus vòstre mobil e tornatz-los dobrir dirèctament aquí.
 callout-firefox-view-recently-closed-title = Retrobatz lèu lèu los onglets qu’avètz tampats
 callout-firefox-view-recently-closed-subtitle = Totes los onglets tampats seràn mostrats aquí coma per magia. Pas mai de pensament tocant los onglets tampats per accident.
-callout-firefox-view-colorways-title = Botatz de color
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Causissètz la nuança que vos correspond via los colorits. Sonque dins { -brand-product-name }.
-callout-firefox-view-colorways-reminder-title = Descobrissètz nòstres darrièrs colorits
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Botatz de colors a vòstre navegador amb de tintas notablas, inspiradas per de voses independentas. Solament dins { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

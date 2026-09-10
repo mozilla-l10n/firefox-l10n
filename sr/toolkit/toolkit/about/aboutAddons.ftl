@@ -165,15 +165,10 @@ addon-sitepermission-host = Дозволе за сајт за { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Сви додаци су онемогућени у безбедном начину рада.
-extensions-warning-check-compatibility = Провера усклађености додатака је искључена. Можда имате некомпатибилне додатке.
-extensions-warning-safe-mode2 =
-    .message = Сви додаци су онемогућени у безбедном начину рада.
 extensions-warning-check-compatibility2 =
     .message = Провера усклађености додатака је искључена. Можда имате некомпатибилне додатке.
 extensions-warning-check-compatibility-button = Укључи
     .title = Омогући проверавање компатибилности додатка
-extensions-warning-update-security = Безбедносна провера додатака је искључена. Неисправни додаци могу да наруше безбедност система.
 extensions-warning-update-security2 =
     .message = Безбедносна провера додатака је искључена. Неисправни додаци могу да наруше безбедност система.
 extensions-warning-update-security-button = Омогући
@@ -249,10 +244,6 @@ shortcuts-duplicate = Дупликат пречице
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } се користи као пречица у више од једног случаја. Дупликати пречица могу проузроковати неочекивано понашање.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } се користи као пречица у више од једног случаја. Дупликати пречица могу проузроковати неочекивано понашање.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -273,11 +264,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Додаци и теме су попут апликација за прегледач и омогућавају вам да заштитите лозинке, преузимате видео-снимке, блокирате досадне рекламе, промените изглед прегледача и још много тога. Њих често развијају независни програмери. { -brand-product-name } <a data-l10n-name="learn-more-trigger">препоручује</a> следеће додатке и теме за изузетну безбедност, перформансе и функционалност.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Неке од ових препорука се заснивају на инсталираним додацима, подешавањима из профила и статистици употребе.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message = Неке од ових препорука се заснивају на инсталираним додацима, подешавањима из профила и статистици употребе.
@@ -354,16 +340,9 @@ addon-detail-last-updated-label = Последње ажурирање
 addon-detail-homepage-label = Веб-сајт
 addon-detail-rating-label = Оцена
 # Message for add-ons with a staged pending update.
-install-postponed-message = Овај додатак ће се ажурирати током поновног покретања { -brand-short-name }-а.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Овај додатак ће се ажурирати током поновног покретања { -brand-short-name }-а.
 install-postponed-button = Ажурирајте сада
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Оцењено је { NUMBER($rating, maximumFractionDigits: 1) } од 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -382,9 +361,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = Додатак <span data-l10n-name="addon-name">{ $addon }</span> је уклоњен.
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = Додатак { $addon } је уклоњен.
 pending-uninstall-undo-button = Опозови
@@ -401,11 +377,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Дозвољено у приватним прозорима
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Дозвољено у приватним прозорима
 addon-detail-private-browsing-help = Ако дозволите, додатак ће имати приступ вашим активностима у приватним прозорима. <a data-l10n-name="learn-more">Сазнајте више</a>
 addon-detail-private-browsing-allow = Дозволи
@@ -432,17 +403,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } препоручује само додатке који задовољавају наше стандарде безбедности и перформанси
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Званични додатак организације Mozilla. Задовољава стандарде безбедности и перформанси
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Овај додатак је прегледан и задовољава наше стандарде безбедности и перформанси
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -472,9 +432,6 @@ addon-permissions-heading = Овлашћења
 addon-permissions-empty2 = Овај додатак не захтева никакве дозволе.
 addon-permissions-required-label = Обавезно:
 addon-permissions-optional-label = Опционо:
-addon-permissions-empty = Овај додатак не захтева никакве дозволе
-addon-permissions-required = Потребне дозволе за основну функционалност:
-addon-permissions-optional = Додатне дозволе за додатну функционалност:
 addon-permissions-learnmore = Сазнајте више о дозволама
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -515,25 +472,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } није сагласан са { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } није сагласан са { -brand-short-name } { $version }.
-details-notification-incompatible-link = Више информација
-details-notification-unsigned-and-disabled = { $name } није могао бити потврђен за коришћење у { -brand-short-name }-у и онемогућен је.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } није могао бити потврђен за коришћење у { -brand-short-name }-у и онемогућен је.
-details-notification-unsigned-and-disabled-link = Више информација
-details-notification-unsigned = { $name } није могао бити потврђен за коришћење у { -brand-short-name }-у. Наставите са опрезом.
 details-notification-unsigned2 =
     .message = { $name } није могао бити потврђен за коришћење у { -brand-short-name }-у. Наставите са опрезом.
 details-notification-hard-blocked-extension =
     .message = Овај додатак је блокиран и онемогућен због кршења Mozilla-иних смерница.
 details-notification-hard-blocked-other =
     .message = Овај додатак је блокиран и онемогућен због кршења Mozilla-иних смерница.
-details-notification-unsigned-link = Више информација
-details-notification-blocked = { $name } је онемогућен због проблема са безбедношћу или стабилношћу.
 details-notification-blocked-link2 = Прикажи детаље
 details-notification-soft-blocked-extension-disabled2 =
     .message = Овај додатак је ограничен и онемогућен. Можете га омогућити, али то може бити ризично.
@@ -543,19 +491,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = Овај додатак је ограничен и онемогућен. Можете га омогућити, али то може бити ризично.
 details-notification-soft-blocked-other-enabled2 =
     .message = Овај додатак је ограничен. Његово коришћење може бити ризично.
-details-notification-soft-blocked-extension-disabled =
-    .message = Овај додатак је ограничен и онемогућен због кршења Mozilla-иних смерница. Можете га омогућити, али то може да буде ризично.
-details-notification-soft-blocked-extension-enabled =
-    .message = Овај додатак крши Mozilla-ине смернице. Коришћење може да буде ризично.
-details-notification-soft-blocked-other-disabled =
-    .message = Овај додатак је ограничен и онемогућен због кршења Mozilla-иних смерница. Можете га омогућити, али то може да буде ризично.
-details-notification-soft-blocked-other-enabled =
-    .message = Овај додатак крши Mozilla-ине смернице. Коришћење може да буде ризично.
 details-notification-softblocked-link2 = Прикажи детаље
-details-notification-blocked-link = Више информација
-details-notification-softblocked = Познато је да { $name } проузрокује проблеме са безбедношћу или стабилношћу.
-details-notification-softblocked-link = Више информација
-details-notification-gmp-pending = { $name } ће ускоро бити инсталиран.
 details-notification-gmp-pending2 =
     .message = { $name } ће ускоро бити инсталиран.
 
@@ -571,8 +507,6 @@ plugins-widevine-description = Ова додатна компонента омо
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Обавезно прикупљање података:
-addon-permissions-optional-data-collection = Опционо прикупљање података:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Дозволе и подаци
 # This is a description for extension that use this AI model

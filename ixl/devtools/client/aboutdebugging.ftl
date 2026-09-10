@@ -5,12 +5,6 @@
 
 ### These strings are used inside the about:debugging UI.
 
-
-# Page Title strings
-
-
-# Sidebar strings
-
 # Sidebar heading for selecting the currently running instance of Firefox
 # .name is processed by fluent-react / SidebarFixedItem
 about-debugging-sidebar-this-firefox =
@@ -27,9 +21,6 @@ about-debugging-sidebar-runtime-item-name =
 #   $displayName (string) - Displayed name
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
-
-# Setup Page strings
-
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
 # Text of a button displayed after the network locations "Host" input.
@@ -38,16 +29,10 @@ about-debugging-network-locations-add-button = Aq'o'ke'
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Sojsa el
-
-# Runtime Page strings
-
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
 about-debugging-runtime-name = { $name } ({ $version })
-
-# Debug Targets strings
-
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Sojsa el

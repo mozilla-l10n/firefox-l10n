@@ -6,13 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Taba ùr
-newtab-settings-button =
-    .title = Gnàthaich duilleag nan tabaichean ùra agad
-newtab-personalize-icon-label =
-    .aria-label = Gnàthaich an taba ùr
-    .title = Gnàthaich an taba ùr
-newtab-personalize-dialog-label =
-    .aria-label = Gnàthaich
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -94,7 +87,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Cuir einnsean-luirg ris
 newtab-topsites-add-shortcut-header = Ath-ghoirid ùr
-newtab-topsites-edit-topsites-header = Deasaich am brod làraich
 newtab-topsites-edit-shortcut-header = Deasaich an ath-ghoirid
 newtab-topsites-title-label = Tiotal
 newtab-topsites-title-input =
@@ -132,20 +124,12 @@ newtab-topsite-sponsored = Sponsairichte
 newtab-menu-section-tooltip =
     .aria-label = Fosgail an clàr-taice
     .title = Fosgail an clàr-taice
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Thoir air falbh
-    .title = Thoir air falbh
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Fosgail an clàr-taice co-theacsail aig { $title }
     .title = Fosgail an clàr-taice
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Deasaich an làrach seo
-    .title = Deasaich an làrach seo
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -156,22 +140,7 @@ newtab-menu-dismiss = Leig seachad
 newtab-menu-pin = Prìnich
 newtab-menu-unpin = Dì-phrìnich
 newtab-menu-delete-history = Sguab às an eachdraidh
-newtab-menu-save-to-pocket = Sàbhail ann am { -pocket-brand-name }
-newtab-menu-delete-pocket = Air a sguabadh à { -pocket-brand-name }
-newtab-menu-archive-pocket = Tasglannaich ann am { -pocket-brand-name }
 newtab-menu-show-privacy-info = Na sponsairean againn ⁊ do phrìobhaideachd
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Deiseil
-newtab-privacy-modal-button-manage = Stiùirich roghainnean na susbaint sponsairichte
-newtab-privacy-modal-header = Tha do phrìobhaideachd cudromach.
-newtab-privacy-modal-paragraph-2 =
-    A bharrachd air naidheachdan inntinneach, seallaidh sinn susbaint làn-
-    sgrùdaichte o sponsairean àraidh dhut. Na gabh dragh, <strong>chan fhalbh an dàta
-    brabhsaidh agad am { -brand-product-name } agad fhèin uair sam bith</strong> – chan fhaic sinn e
-    agus chan fhaic na sponsairean againn e nas mò.
-newtab-privacy-modal-link = Fiosraich mar a dh’obraicheas a’ phrìobhaideachd san taba ùr
 
 ##
 
@@ -225,39 +194,16 @@ newtab-label-source-read-time = { $source } · { $timeToRead } mion
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Thoir an earrann air falbh
-newtab-section-menu-collapse-section = Co-theannaich an earrann
-newtab-section-menu-expand-section = Leudaich an earrann
-newtab-section-menu-manage-section = Stiùirich an earrann
-newtab-section-menu-manage-webext = Stiùirich an leudachan
-newtab-section-menu-add-topsite = Cuir ris brod làraich
-newtab-section-menu-add-search-engine = Cuir einnsean-luirg ris
-newtab-section-menu-move-up = Gluais suas
-newtab-section-menu-move-down = Gluais sìos
 newtab-section-menu-privacy-notice = Sanas prìobhaideachd
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Co-theannaich an earrann
-newtab-section-expand-section-label =
-    .aria-label = Leudaich an earrann
 
 ## Section Headers.
 
 newtab-section-header-topsites = Brod nan làrach
 newtab-section-header-recent-activity = Gnìomhachd o chionn goirid
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = ’Ga mholadh le { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Tòisich air brabhsadh is seallaidh sinn dhut an-seo cuid dhe na h-artaigilean, videothan is duilleagan eile air an do thadhail thu no a chuir thu ris na comharran-lìn o chionn goirid.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Sin na naidheachdan uile o { $provider } an-dràsta ach bidh barrachd ann a dh’aithghearr. No thoir sùil air cuspair air a bheil fèill mhòr is leugh na tha a’ dol mun cuairt air an lìon an-dràsta.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -268,24 +214,6 @@ newtab-discovery-empty-section-topstories-loading = ’Ga luchdadh…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ìoc, tha sinn cha mhòr air an earrann seo a luchdadh ach chan ann buileach fhathast.
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Cuspairean fèillmhor:
-newtab-pocket-new-topics-title = A bheil thu ag iarraidh fiù barrachd? Thoir sùil air na cuspairean seo o { -pocket-brand-name } air a bheil fèill mhòr
-newtab-pocket-more-recommendations = Barrachd mholaidhean
-newtab-pocket-learn-more = Barrachd fiosrachaidh
-newtab-pocket-cta-button = Faigh { -pocket-brand-name }
-newtab-pocket-cta-text = Sàbhail na sgeulachdan as fhearr leat ann am { -pocket-brand-name } is faigh toileachas inntinn san leughadh.
-newtab-pocket-pocket-firefox-family = Tha { -pocket-brand-name } ’na phàirt de theaghlach bathar { -brand-product-name }
-newtab-pocket-save = Sàbhail
-newtab-pocket-saved = Air a shàbhaladh
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = Faigh lorg air brod an lìn
-newtab-pocket-onboarding-cta = Rùraichidh { -pocket-brand-name } raon farsaing de dh’fhoillseachaidhean airson an t-susbaint as fiosrachaile, as brosnachaile agus as earbsaiche a chur ri do làimh an-seo ann am brabhsair { -brand-product-name } agad fhèin.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -294,8 +222,6 @@ newtab-error-fallback-refresh-link = Ath-nuadhaich an duilleag airson fheuchainn
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Ath-ghoiridean
-newtab-custom-shortcuts-subtitle = Làraichean a shàbhail thu no a thadhail thu orra
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Làraichean a shàbhail thu no a thadhail thu orra
@@ -313,23 +239,6 @@ newtab-custom-row-selector2 =
             [few] { $num } ràghan
            *[other] { $num } ràgh
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } ràgh
-        [two] { $num } ràgh
-        [few] { $num } ràghan
-       *[other] { $num } ràgh
-    }
-newtab-custom-sponsored-sites = Ath-ghoiridean sponsairichte
-newtab-custom-pocket-title = ’Ga mholadh le { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Sàr-shusbaint ’ga thasgadh le { -pocket-brand-name } mar phàirt de theaghlach { -brand-product-name }
-newtab-custom-pocket-sponsored = Sgeulachdan sponsairichte
-newtab-custom-pocket-show-recent-saves = Seall na chaidh a shàbhaladh o chionn goird
-newtab-custom-recent-title = Gnìomhachd o chionn goirid
-newtab-custom-recent-subtitle = Roghainn de làraichean is susbaint faisg ort
-newtab-custom-close-button = Dùin
 newtab-custom-settings = Stiùirich barrachd roghainnean
 
 ## Strings for the Clock widget

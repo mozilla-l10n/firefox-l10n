@@ -49,7 +49,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Datan purku ({ $pid })
 about-processes-socket-process = Verkko ({ $pid })
-about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Fork Server ({ $pid })
 about-processes-preallocated-process = Esijaettu ({ $pid })
 about-processes-utility-process = Apuohjelma ({ $pid })
@@ -58,17 +57,6 @@ about-processes-utility-process = Apuohjelma ({ $pid })
 #    $pid (String) The process id of this process, assigned by the OS.
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = Muu: { $type } ({ $pid })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, lähteet eristetty toisistaan)
-about-processes-web-isolated-process-private = { $origin } — yksityinen ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } — yksityinen ({ $pid }, lähteet eristetty toisistaan)
 
 ## Details within processes
 

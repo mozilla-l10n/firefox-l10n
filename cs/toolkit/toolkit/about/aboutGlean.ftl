@@ -60,7 +60,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     Pro vysvětlení různých způsobů záznamu a vyhledávání dat prosím použijte
     panel <strong>O datech</strong>.
-about-glean-about-testing-header = O testování
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     Úplné pokyny jsou uvedeny v dokumentu
@@ -69,8 +68,6 @@ about-glean-manual-testing =
     ale zkrátka, abyste mohli ručně otestovat, zda vaše instrumentace funguje, měli byste:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (neodesílat žádný ping)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = V předchozím poli se ujistěte, že je zde paměťová značka pro ladění, abyste mohli později rozpoznat své pingy.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Nastavte zapamatovatelnou značku pro ladění <span>(maximálně 20 znaků, pouze alfanumerické znaky a -)</span>, abyste mohli později rozpoznat své pingy.
 # An in-line drop down list precedes this string.
@@ -97,13 +94,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Navštivte stránku { glean-debug-ping-viewer-brand-name }, kde najdete pingy s vaší značkou</a>.
     Od stisknutí tlačítka do příchodu pingu by nemělo uplynout více než několik sekund.
     Někdy to může trvat několik minut.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    Pro další <i>ad hoc</i> testování
-    můžete také zjistit aktuální hodnotu určitého prvku instrumentace.
-    otevřením konzole devtools zde na <code>about:glean</code>.
-    a pomocí rozhraní API <code>testGetValue()</code> jako např.
-    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     Pro další <i>ad hoc</i> testování,
@@ -207,9 +197,6 @@ about-glean-no-data-to-display = Žádná data k zobrazení.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Metriky <code>DualLabeledCounter</code> zatím nejsou v zobrazení <code>about:glean</code> podporovány.
 about-glean-unknown-metric-type-warning = Neznámý typ metriky.
-about-glean-about-data-explanation =
-    Chcete-li si prohlédnout seznam shromážděných údajů, podívejte se na stránku
-    <a data-l10n-name="glean-dictionary-link">slovníku { -glean-brand-name }</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = ᱣᱤᱱᱰᱚ ᱟᱨ ᱥᱟᱫᱷᱚᱱ ᱠᱚ ᱫᱟᱨᱟᱭ ᱛᱮ ᱱᱤᱛᱚᱜᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱧᱮᱞ
@@ -16,40 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
-    .aria-label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = ᱱᱤᱛᱚᱜ ᱜᱮ
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = ᱴᱮᱵᱽ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
-firefoxview-tabpickup-description = ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱥᱟᱦᱴᱟ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ ᱾
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
-firefoxview-tabpickup-step-signin-header = ᱥᱟᱫᱷᱚᱱ ᱛᱟᱞᱟ ᱨᱮ ᱚᱫᱚᱞᱵᱚᱫᱚᱞᱚᱜ ᱢᱮ
-firefoxview-tabpickup-step-signin-description = ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱴᱮᱵᱽ ᱠᱚ ᱱᱚᱰᱮ ᱦᱟᱛᱟᱣ ᱞᱟᱹᱜᱤᱫ, ᱢᱟᱲᱟᱝ ᱫᱚ ᱟᱢ ᱥᱩᱦᱤ ᱮᱢ ᱛᱮ ᱦᱩᱭᱟᱢᱟᱸ ᱟᱨᱵᱟᱝ ᱢᱤᱫᱴᱟᱝ ᱠᱷᱟᱛᱟ ᱛᱮᱭᱟᱨ ᱛᱮ ᱦᱩᱭᱟᱢᱟᱸ ᱾
-firefoxview-tabpickup-step-signin-primarybutton = ᱞᱮᱛᱟᱲ
 firefoxview-syncedtabs-signin-header-2 = ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢᱟᱜ { -brand-product-name }
 firefoxview-syncedtabs-signin-description-2 = ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱟᱨ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱠᱚ ᱨᱮ ᱡᱷᱤᱡ ᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ, ᱥᱩᱦᱤ ᱮᱢᱚᱜ ᱢᱮ ᱵᱟᱝᱠᱷᱟᱱ ᱢᱤᱫ ᱮᱠᱟᱣᱩᱱᱴ ᱞᱟᱹᱜᱤᱫ ᱧᱩᱛᱩᱢ ᱮᱢᱚᱜ ᱢᱮ ᱾  ᱢᱤᱫᱴᱟᱹᱝ ᱮᱠᱟᱣᱩᱱᱴ ᱥᱟᱶᱛᱮ, ᱟᱢ ᱟᱢᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ, ᱱᱟᱜᱟᱢ ᱟᱨ ᱟᱭᱢᱟ ᱡᱤᱱᱤᱥᱠᱚ ᱥᱤᱝᱠ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ᱾
 firefoxview-syncedtabs-signin-primarybutton-2 = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
-firefoxview-tabpickup-adddevice-header = { -brand-product-name } ᱫᱚ ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱟᱨᱵᱟᱝ ᱴᱮᱵᱞᱮᱴ ᱨᱮ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱢᱮ
-firefoxview-tabpickup-adddevice-description = ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ  { -brand-product-name } ᱰᱟᱣᱱᱞᱳᱰ ᱢᱮ ᱟᱨ ᱚᱱᱰᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ ᱾
-firefoxview-tabpickup-adddevice-learn-how = ᱪᱮᱫᱢᱮ
-firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱜᱩᱭ ᱢᱮ
 firefoxview-syncedtabs-adddevice-header-2 = ᱡᱟᱦᱟᱸ ᱠᱷᱚᱱ ᱜᱮ ᱴᱮᱵᱽᱠᱚ ᱦᱟᱛᱟᱣ ᱢᱮ
 firefoxview-syncedtabs-adddevice-description-2 = ᱱᱚᱸᱰᱮ ᱴᱮᱵᱽ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱥᱮ ᱮᱴᱟᱜ ᱠᱚᱢᱯᱭᱩᱴᱟᱨ ᱨᱮ { -brand-product-name } ᱨᱮ ᱧᱩᱛᱩᱢ ᱞᱮᱠᱷᱟᱭ ᱢᱮ ᱾  ᱪᱮᱫ ᱢᱮ ᱪᱮᱫ ᱞᱮᱠᱟ ᱛᱮ <a data-l10n-name="url">ᱵᱟᱹᱲᱛᱤ ᱥᱟᱫᱷᱚᱱ ᱠᱚ ᱡᱚᱯᱲᱟᱣ ᱦᱩᱭᱩᱜᱼᱟ</a>᱾
 firefoxview-syncedtabs-adddevice-primarybutton = ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱛᱮ { -brand-product-name } ᱪᱮᱥᱴᱟᱭ ᱢᱮ
-firefoxview-tabpickup-synctabs-header = ᱴᱮᱵᱽ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
-firefoxview-tabpickup-synctabs-description = ᱥᱟᱫᱷᱚᱱ ᱵᱷᱤᱛᱤᱨ ᱨᱮ ᱴᱮᱵᱽ ᱠᱚ ᱦᱟᱹᱴᱤᱧ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱠᱚᱨᱟᱣ ᱪᱷᱚᱭᱮᱢ ᱾
-firefoxview-tabpickup-synctabs-learn-how = ᱪᱮᱫᱢᱮ
 firefoxview-tabpickup-synctabs-primarybutton = ᱠᱷᱩᱞᱟᱹ ᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱢᱮ
 firefoxview-syncedtabs-synctabs-header = ᱟᱢᱟᱜ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱥᱟᱡᱟᱣᱠᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ
 firefoxview-syncedtabs-synctabs-description = ᱮᱴᱟᱜ ᱥᱟᱫᱷᱟᱱ ᱠᱷᱚᱱ ᱴᱮᱵᱽᱠᱚ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱛᱮ, ᱟᱢ ᱫᱚ ᱟᱢᱟᱜ ᱠᱷᱩᱞᱟᱹ ᱴᱮᱵᱽ ᱠᱷᱚᱱ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱠᱚᱨᱟᱣ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾
 firefoxview-syncedtabs-loading-header = ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱪᱟᱹᱞᱩ ᱠᱟᱱᱟ
 firefoxview-syncedtabs-loading-description = ᱡᱚᱠᱷᱚᱱ ᱱᱚᱣᱟ ᱯᱩᱨᱟᱹᱣ ᱞᱮᱱᱠᱷᱟᱱ, ᱟᱢ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢ ᱡᱷᱤᱡ ᱟᱠᱟᱱ ᱡᱟᱦᱟᱱ ᱴᱮᱵᱽ ᱜᱮᱢ ᱧᱮᱞᱟ ᱾ ᱞᱚᱜᱚᱱ ᱫᱚᱦᱲᱟ ᱧᱮᱞ ᱢᱮ᱾
 firefoxview-tabpickup-fxa-admin-disabled-header = ᱟᱢᱟᱜ ᱜᱟᱶᱛᱟ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱵᱚᱱᱫ ᱠᱟᱫᱟᱭ
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ᱫᱚ ᱥᱟᱫᱷᱚᱱ ᱵᱷᱤᱛᱨᱤ ᱨᱮ ᱴᱮᱵᱽ ᱠᱚ ᱵᱟᱝ ᱥᱤᱝᱠ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟᱭ ᱪᱮᱫᱟᱜ ᱥᱮ ᱟᱢᱤᱡ ᱮᱰᱢᱤᱱ ᱫᱚ ᱥᱤᱝᱠ ᱵᱚᱸᱫ ᱠᱟᱫᱟᱭ ᱾
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ᱫᱚ ᱥᱟᱫᱷᱚᱱ ᱵᱷᱤᱛᱨᱤ ᱨᱮ ᱴᱮᱵᱽ ᱠᱚ ᱵᱟᱝ ᱥᱤᱝᱠ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟᱭ ᱪᱮᱫᱟᱜ ᱥᱮ ᱟᱢ ᱜᱟᱶᱛᱮ ᱫᱚ ᱥᱤᱝᱠ ᱵᱚᱸᱫ ᱠᱟᱫᱟᱭ ᱾
 firefoxview-tabpickup-network-offline-header = ᱟᱢᱟᱜ ᱤᱱᱴᱟᱹᱨᱱᱮᱴ ᱡᱚᱱᱚᱲᱟᱣ ᱧᱮᱞ ᱵᱤᱲᱟᱣ ᱢᱮ
 firefoxview-tabpickup-network-offline-description = ᱡᱩᱫᱤ ᱟᱢ ᱯᱷᱟᱭᱟᱨᱣᱟᱞ ᱟᱨ ᱯᱨᱚᱠᱥᱤ ᱵᱮᱵᱷᱟᱨᱮᱫ ᱠᱷᱟᱱ, ᱧᱮᱞ ᱢᱮ ᱡᱮ { -brand-short-name } ᱴᱷᱮᱱ ᱣᱮᱵᱽ ᱟᱫᱮᱨ ᱞᱟᱹᱜᱤᱫ ᱥᱚᱦᱢᱚᱛ ᱫᱚᱨᱠᱟᱨ ᱠᱟᱱᱟ ᱥᱮ ᱵᱟᱝᱟ ᱾
@@ -66,37 +43,16 @@ firefoxview-tabpickup-password-locked-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 firefoxview-tabpickup-password-locked-primarybutton = ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱟᱫᱮᱨ ᱢᱮ
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
 firefoxview-tabpickup-signed-out-header = ᱫᱩᱲᱟᱹ ᱡᱚᱲᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ ᱢᱮ
-firefoxview-tabpickup-signed-out-description = ᱫᱩᱦᱲᱟᱹ ᱡᱩᱲᱟᱹᱣ ᱟᱨ ᱴᱮᱵᱽ ᱠᱚ ᱦᱟᱛᱟᱣ ᱞᱟᱹᱜᱤᱫ, ᱟᱢᱟᱜ { -fxaccount-brand-name } ᱨᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ ᱾
 firefoxview-tabpickup-signed-out-description2 = ᱫᱩᱦᱲᱟᱹ ᱡᱩᱲᱟᱹᱣ ᱟᱨ ᱴᱮᱵᱽ ᱠᱚ ᱦᱟᱛᱟᱣ ᱞᱟᱹᱜᱤᱫ, ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱨᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ ᱾
 firefoxview-tabpickup-signed-out-primarybutton = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
-firefoxview-tabpickup-syncing = ᱟᱢᱟᱜ ᱴᱮᱵᱽ ᱥᱤᱝᱠ ᱡᱷᱚᱜ ᱟᱨᱟᱢ ᱨᱮ ᱫᱩᱲᱩᱵ ᱠᱚᱜ ᱢᱮ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱞᱚᱜᱚᱱ ᱜᱮ ᱦᱩᱭ ᱜᱚᱫᱚᱜᱼᱟ ᱾
-firefoxview-mobile-promo-header = ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱵᱟᱝᱠᱷᱟᱱ ᱴᱮᱵᱽᱞᱮᱴ ᱠᱷᱚᱱ ᱴᱮᱵᱽ ᱠᱚ ᱦᱚᱛᱟᱣ ᱢᱮ
-firefoxview-mobile-promo-description = ᱟᱢᱟᱜ ᱱᱮᱱᱮᱭᱟᱜ ᱢᱚᱵᱟᱭᱤᱞ ᱴᱮᱵᱽ ᱠᱚ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ, iOS ᱟᱨ ᱵᱟᱝ Android ᱨᱮᱭᱟᱜ { -brand-product-name } ᱨᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ ᱾
-firefoxview-mobile-promo-primarybutton = { -brand-product-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱜᱩᱭ ᱢᱮ
-firefoxview-mobile-confirmation-header = 🎉 ᱪᱟᱞᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱥ ᱜᱮᱭᱟ!
-firefoxview-mobile-confirmation-description = ᱱᱤᱛᱚᱜ ᱫᱚ ᱟᱢ ᱟᱢᱟᱜ ᱴᱮᱵᱽᱞᱮᱴ ᱟᱨ ᱵᱟᱝ ᱯᱷᱚᱱ ᱠᱷᱚᱱ { -brand-product-name } ᱴᱮᱵᱽ ᱦᱟᱛᱮᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
-firefoxview-closed-tabs-title = ᱱᱤᱛᱚᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ
-firefoxview-closed-tabs-description2 = ᱱᱚᱶᱟ ᱣᱤᱱᱰᱳ ᱨᱮ ᱵᱚᱸᱫ ᱟᱠᱟᱱ ᱥᱟᱦᱴᱟ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ ᱾
-firefoxview-closed-tabs-placeholder-header = ᱱᱤᱛᱚᱜᱽᱼᱟᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ ᱴᱮᱵᱽ ᱠᱚ ᱵᱟᱹᱱᱩᱜᱼᱟ
-firefoxview-closed-tabs-placeholder-body = ᱛᱤᱧ ᱡᱷᱚᱜ ᱟᱢ ᱱᱚᱶᱟ ᱣᱤᱱᱰᱳ ᱨᱮ ᱴᱮᱵᱽ ᱮᱢ ᱵᱚᱱᱫ ᱮᱫᱟ, ᱟᱢ ᱫᱚ ᱱᱚᱰᱮ ᱠᱷᱚᱱ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = { $tabTitle } ᱵᱚᱸᱫᱚᱭ ᱢᱮ
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = ᱢᱟᱲᱟᱝ ᱪᱚᱴᱠᱟᱨᱟᱜ
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = ᱢᱤᱫᱴᱟᱝ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ { $targetURI } ᱡᱷᱤᱡᱽ ᱢᱮ
-firefoxview-try-colorways-button = ᱠᱚᱞᱚᱨᱣᱮ ᱵᱤᱰᱟᱹᱣ ᱧᱚᱜᱽ ᱢᱮ
-firefoxview-change-colorway-button = ᱠᱚᱞᱚᱨᱣᱮ ᱵᱚᱫᱚᱞ ᱢᱮ
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱹᱱᱩᱜᱼᱟ
-firefoxview-synced-tabs-placeholder-body = ᱫᱚᱥᱟᱨ ᱡᱷᱚᱜ ᱟᱢ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮ { -brand-product-name } ᱨᱮ ᱢᱤᱫᱴᱟᱝ ᱥᱟᱦᱴᱟ ᱠᱷᱩᱞᱟᱹ ᱡᱷᱚᱜ, ᱡᱟᱫᱩ ᱞᱮᱠᱷᱟ ᱛᱮ ᱦᱟᱛᱟᱣ ᱢᱮ ᱾
 firefoxview-collapse-button-show =
     .title = ᱞᱤᱥᱴᱤ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 firefoxview-collapse-button-hide =

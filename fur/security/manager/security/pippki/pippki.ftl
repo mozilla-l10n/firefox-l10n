@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = In chest moment tu sês in modalitât FIPS
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Azere password principâl
     .style = min-width: 40em
+    .title = Azere password principâl
 reset-password-button-label =
     .label = Scancele
 reset-primary-password-text = Se tu azeris la tô password principâl, ducj i sîts web, lis passwords des e-mails, i certificâts personâi  e lis clâfs privadis a vignaran dismenteadis. Azerâ pardabon la tô password principâl?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = La tô password principâl e je sta
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Daûr a cjamâ certificât
     .style = min-width: 46em
+    .title = Daûr a cjamâ certificât
 download-cert-message = Ti domandin di fidâti di une gnove Autoritât di Certificazion (CA).
 download-cert-trust-ssl =
     .label = Fiditi di cheste CA (autoritât di certificazion) par identificâ i sîts web.
@@ -52,8 +52,6 @@ download-cert-view-text = Esamine certificât CA
 
 client-auth-window =
     .title = Domande di identificâ utent
-client-auth-site-description = Chest sît al domande che tu ti identifichis cuntune certificât:
-client-auth-choose-cert = Sielç une certificât par presentâ come identificazion:
 client-auth-send-no-certificate =
     .label = No sta inviâ un certificât
 # Variables:
@@ -100,9 +98,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Password de copie di sigurece dal certificât (ancjemò):
 set-password-reminder = Impuartant: Se tu vessis di dismenteâ la tô password de copie di sigurece dal certificât, no tu podarâs plui recuperâ la copie.  Viôt di vuardâle ben.
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Autentichiti pal gjeton “{ $tokenName }”. Pe modalitât al dipent dal gjeton (par esempli, doprant un letôr di impronts digjitâi o inserint un codiç cuntun tastierin numeric).

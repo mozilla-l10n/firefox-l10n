@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = Ihre Zertifikate
 certificate-viewer-tab-people = Personen
 certificate-viewer-tab-servers = Server
 certificate-viewer-tab-ca = Zertifizierungsstellen
-certificate-viewer-tab-unkonwn = Unbekannt

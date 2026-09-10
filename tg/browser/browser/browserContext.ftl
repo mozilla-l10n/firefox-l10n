@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Гузариш ба як саҳифа қафо ({ $shortcut })
     .aria-label = Бозгашт
+    .tooltiptext = Гузариш ба як саҳифа қафо ({ $shortcut })
     .accesskey = Б
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Гузариш ба як саҳифа пеш ({ $shortcut })
     .aria-label = Гузариш ба пеш
+    .tooltiptext = Гузариш ба як саҳифа пеш ({ $shortcut })
     .accesskey = Г
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Гузоштани хатбарак барои ин саҳифа…
-    .accesskey = х
     .tooltiptext = Гузоштани хатбарак барои ин саҳифа
+    .accesskey = х
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Гузоштани хатбарак барои ин саҳифа…
-    .accesskey = х
     .tooltiptext = Гузоштани хатбарак барои ин саҳифа ({ $shortcut })
+    .accesskey = х
 main-context-menu-edit-bookmark =
     .aria-label = Таҳрир кардани хатбарак…
-    .accesskey = т
     .tooltiptext = Таҳрир кардани хатбарак
+    .accesskey = т
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Таҳрир кардани хатбарак…
-    .accesskey = т
     .tooltiptext = Таҳрир кардани хатбарак ({ $shortcut })
+    .accesskey = т
 main-context-menu-open-link =
     .label = Кушодани пайванд
     .accesskey = К
@@ -147,9 +141,6 @@ main-context-menu-bookmark-link-2 =
     .accesskey = Г
 main-context-menu-save-link =
     .label = Нигоҳ доштани пайванд ҳамчун…
-    .accesskey = Н
-main-context-menu-save-link-to-pocket =
-    .label = Нигоҳ доштани пайванд дар { -pocket-brand-name }
     .accesskey = Н
 
 ##
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Барои фирист
 main-context-menu-send-to-mobile-connect-phone3 = Пайваст кардани дастгоҳ барои фиристодани варақаҳо
 main-context-menu-send-to-mobile-connect-phone-from-link = Пайваст кардани дастгоҳ барои фиристодани пайванд
 main-context-menu-send-to-mobile-connect-phone-from-page = Пайваст кардани дастгоҳ барои фиристодани саҳифа
-main-context-menu-save-to-pocket =
-    .label = Нигоҳ доштани саҳифа ба { -pocket-brand-name }
-    .accesskey = Н
-main-context-menu-send-to-device =
-    .label = Фиристодани саҳифа ба дастгоҳ
-    .accesskey = Ф
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Истифода кардани воридшавии нигоҳдошташуда
-    .accesskey = И
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Истифода кардани ниҳонвожаи нигоҳдошташуда
     .accesskey = И
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Истифодаи ниқоби почтаи электронии «{ -relay-brand-short-name }»
     .accesskey = И
 main-context-menu-suggest-strong-password =
     .label = Пешниҳод кардани ниҳонвожаи боқувват…
     .accesskey = П
-main-context-menu-manage-logins2 =
-    .label = Идоракунии воридшавиҳо
-    .accesskey = И
 main-context-menu-manage-passwords =
     .label = Идоракунии ниҳонвожаҳо
     .accesskey = д
-main-context-menu-keyword =
-    .label = Илова кардани калимаи калидӣ барои ин ҷустуҷӯ…
-    .accesskey = И
 main-context-menu-add-engine =
     .label = Илова кардани низоми ҷустуҷӯӣ
     .accesskey = И
@@ -391,9 +364,6 @@ main-context-menu-view-selection-source =
     .label = Дидани манбаи интихоб
     .accesskey = Д
 main-context-menu-take-screenshot =
-    .label = Гирифтани акси экран
-    .accesskey = Г
-main-context-menu-take-frame-screenshot =
     .label = Гирифтани акси экран
     .accesskey = Г
 main-context-menu-view-page-source =

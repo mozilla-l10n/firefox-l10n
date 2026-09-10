@@ -18,9 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message = คุณมี { $reportCount } รายงานข้อขัดข้องที่ยังไม่ได้ส่ง
 pending-crash-reports-view-all =
     .label = ดู
 pending-crash-reports-send =
@@ -34,9 +31,6 @@ requested-crash-reports-message-new =
         [one] คุณมีรายงานข้อขัดข้องที่ยังไม่ได้ส่ง ซึ่งเกี่ยวข้องกับข้อขัดข้องที่กำลังตรวจสอบอยู่ การส่งรายงานนี้จะช่วยให้เราปรับปรุง { -brand-product-name } ได้ การปิดการแจ้งเตือนนี้จะละเว้นรายงานนี้
        *[other] คุณมี { $reportCount } รายงานข้อขัดข้องที่ยังไม่ได้ส่ง ซึ่งเกี่ยวข้องกับข้อขัดข้องที่กำลังตรวจสอบอยู่ การส่งรายงานเหล่านี้จะช่วยให้เราปรับปรุง { -brand-product-name } ได้ การปิดการแจ้งเตือนนี้จะละเว้นรายงานเหล่านี้
     }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message = คุณมี { $reportCount } รายงานข้อขัดข้องที่ยังไม่ได้ส่งซึ่งตรงกับข้อขัดข้องที่กำลังตรวจสอบอยู่ การส่งรายงานดังกล่าวจะช่วยให้เราปรับปรุง { -brand-product-name } ได้ การปิดการแจ้งเตือนนี้จะละเว้นรายงานเหล่านี้
 requested-crash-reports-dont-show-again =
     .label = ไม่ต้องแสดงอีก
     .accesskey = D

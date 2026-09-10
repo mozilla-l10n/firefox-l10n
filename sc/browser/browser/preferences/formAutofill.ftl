@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Indiritzos sarvados
 autofill-manage-addresses-list-header = Indiritzos
-autofill-manage-credit-cards-title = Cartas de crèditu sarvadas
-autofill-manage-credit-cards-list-header = Cartas de crèditu
 autofill-manage-payment-methods-title = Mètodos de pagamentu sarvados
 autofill-manage-cards-list-header = Cartas
 autofill-manage-dialog =
@@ -45,15 +43,10 @@ address-capture-open-menu-button =
     .aria-label = Aberi su menù
 address-capture-edit-address-link = Modìfica s’indiritzu
     .aria-label = Modìfica s’indiritzu
-address-capture-edit-address-button =
-    .aria-label = Modìfica s’indiritzu
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Agiunghe un’indiritzu
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Modìfica s'indiritzu
-autofill-address-given-name = Nòmine
-autofill-address-additional-name = Segundu nòmine
-autofill-address-family-name = Sangunadu
 autofill-address-name = Nòmine
 autofill-address-organization = Organizatzione
 autofill-address-street-address = Indiritzu postale
@@ -101,8 +94,6 @@ autofill-address-eircode = Còdighe postale (Eircode)
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Agiunghe un'indiritzu nou
 autofill-address-country = Paisu o regione
 autofill-address-country-only = Istadu
 autofill-address-tel = Telèfonu
@@ -111,18 +102,6 @@ autofill-cancel-button = Annulla
 autofill-save-button = Sarva
 autofill-country-warning-message-2 = Su cumpletamentu automàticu de formulàrios est a disponimentu isceti pro unos cantos paisos, pro immoe
 autofill-country-warning-message = Su cumpletamentu automàticu de formulàrios est a disponimentu isceti pro unos cantos paisos, pro immoe.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Agiunghe una carta de crèditu noa
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Modìfica sa carta de crèditu
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] ammustra informatzione de una carta de crèditu
-        [windows] { -brand-short-name } est chirchende de ammustrare informatzione de una carta de crèditu. Cunfirma s'atzessu a custu contu de Windows in bàsciu.
-       *[other] { -brand-short-name } est chirchende de ammustrare informatzione de una carta de crèditu.
-    }
 autofill-message-tooltip = Ammustra su messàgiu de cumpletamentu automàticu
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Agiunghe una carta
@@ -204,15 +183,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = Non sarves mai is passaportos
     .accessKey = m
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

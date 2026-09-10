@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = ارسال یک سیگنال «من را دنبال نکن» برای پایگاه‌های اینترنتی که شما نمی‌خواهید توسط آن‌ها دنبال شوید
-do-not-track-learn-more = اطلاعات بیشتر
-do-not-track-option-default-content-blocking-known =
-    .label = تنها وقتی که { -brand-short-name } برای مسدودسازی ردیاب‌های شناخته شده تنظیم شده است
-do-not-track-option-always =
-    .label = همیشه
 settings-page-title = تنظیمات
 category-nav-heading =
     .heading = تنظیمات
@@ -28,37 +22,16 @@ managed-notice-nav =
 category-list =
     .aria-label = دسته‌بندی‌ها
 pane-general-title = عمومی
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = خانه
 pane-search-title2 = جست‌وجو
     .title = جست‌وجو
 pane-privacy-title3 = حریم‌خصوصی و امنیت
     .title = حریم‌خصوصی و امنیت
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = جست‌وجو
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = حریم‌خصوصی و امنیت
-pane-privacy-title = حریم‌خصوصی و امنیت
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = همگام‌سازی
-category-sync3 =
-    .tooltiptext = { pane-sync-title3 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-pane-experimental-title = آزمایش‌های { -brand-short-name }
-category-experimental =
-    .tooltiptext = آزمایش‌های { -brand-short-name }
-pane-experimental-subtitle = با هوشیاری پیش بروید
-pane-experimental-search-results-header = آزمایش‌های { -brand-short-name }: با احتیاط ادامه دهید
-pane-experimental-description2 = تغییر تنظیمات پیشرفته می‌تواند بر روی کارآیی و امنیت { -brand-short-name } تاثیر بگذارد.
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = بازنشانی پیش‌فرض‌ها
     .accesskey = R
@@ -66,8 +39,6 @@ help-button-label2 = پشتیبانی { -brand-short-name }
     .title = پشتیبانی { -brand-short-name }
 addons-button-label2 = افزونه‌ها و پوسته‌ها
     .title = افزونه‌ها و پوسته‌ها
-help-button-label = پشتیبانی { -brand-short-name }
-addons-button-label = افزونه‌ها و پوسته‌ها
 focus-search =
     .key = f
 close-button =
@@ -110,58 +81,29 @@ search-results-help-link = نیاز به راهنمایی دارید؟ از <a d
 
 ## General Section
 
-startup-header = راه‌اندازی
 always-check-default =
     .label = همیشه بررسی شود که آیا { -brand-short-name } مرورگر پیش‌فرض شما است یا خیر
     .accesskey = ه
-is-default = { -brand-short-name } مرورگر همیشگی شماست
-is-not-default = { -brand-short-name } مرورگر پیش‌فرض شما نیست
-set-as-my-default-browser =
-    .label = تنظیم به عنوان پیش‌فرض…
-    .accesskey = پ
 startup-restore-windows-and-tabs =
     .label = باز کردن زبانه‌ها و پنجره‌های قبلی
     .accesskey = ه
-startup-restore-warn-on-quit =
-    .label = هنگام خروج اخطار می‌دهد
 disable-extension =
     .label = غیرفعال سازی افزونه
 tabs-group-header2 =
     .label = زبانه‌ها
-tabs-group-header = زبانه‌ها
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab به ترتیب زبانه‌های اخیرا استفاده شده بین آنها حرکت می‌کند
     .accesskey = T
 open-new-link-as-tabs =
     .label = بازکردن پیوندها در زبانه به جای بازکردن در پنجره
     .accesskey = w
-confirm-on-close-multiple-tabs =
-    .label = هنگام بستن چندین زبانه هشدار داده شود
-    .accesskey = م
-# This string is used for the confirm before quitting preference.
-# Variables:
-#   $quitKey (string) - the quit keyboard shortcut, and formatted
-#                       in the same manner as it would appear,
-#                       for example, in the File menu.
-confirm-on-quit-with-key =
-    .label = قبل از خروج با { $quitKey } سوال شود
-    .accesskey = س
 warn-on-open-many-tabs =
     .label = در صورتی که باز کردن چند زبانه بتواند باعث کند کردن { -brand-short-name } بشود، به من هشدار بده
     .accesskey = ک
-switch-to-new-tabs =
-    .label = هنگام باز کردن یک پیوند، عکس یا رسانه در یک زبانهٔ جدید، سریعا به آن منتقل بشو
-    .accesskey = ن
 show-tabs-in-taskbar =
     .label = پیش‌نمایش زبانه‌ها در نوار وضعیت ویندوز
     .accesskey = ز
-browser-containers-enabled =
-    .label = فعال‌سازی زبانه‌های حامل
-    .accesskey = ع
 browser-containers-learn-more = اطلاعات بیشتر
-browser-containers-settings =
-    .label = تنظیمات…
-    .accesskey = ت
 containers-disable-alert-title = بستن تمام زبانه‌های حامل؟
 startup-group =
     .label = راه‌اندازی
@@ -197,32 +139,10 @@ containers-remove-cancel-button = این حامل حذف نشود
 ## General Section - Language & Appearance
 
 language-and-appearance-header = زبان و ظاهر
-preferences-web-appearance-choice-auto = خودکار
-preferences-web-appearance-choice-light = روشن
-preferences-web-appearance-choice-dark = تاریک
-preferences-web-appearance-choice-input-auto =
-    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
-preferences-web-appearance-choice-input-light =
-    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
-preferences-web-appearance-choice-input-dark =
-    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
-preferences-colors-header = رنگ‌ها
 preferences-fonts-header2 =
     .label = قلم‌ها
-preferences-fonts-header = قلم‌ها
-default-font = قلم پیش‌فرض
-    .accesskey = D
-default-font-size = اندازه
-    .accesskey = ا
-advanced-fonts =
-    .label = پیشرفته...
-    .accesskey = پ
 preferences-default-zoom-label =
     .label = بزرگنمایی پیش‌فرض
-    .accesskey = z
-# Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = بزرگنمایی
-preferences-default-zoom = بزرگنمایی پیش‌فرض
     .accesskey = z
 # Variables:
 #   $percentage (number) - Zoom percentage value
@@ -244,13 +164,7 @@ confirm-browser-language-change-description = برای اعمال این تغی�
 confirm-browser-language-change-button = اعمال و راه‌اندازی دوباره
 browser-language-install-error =
     .message = { -brand-short-name } نمی‌تواند زبان شما را در حال حاضر بروزرسانی کند. بررسی کنید که به اینترنت متصل هستید یا دوباره تلاش کنید.
-translate-web-pages =
-    .label = ترجمه محتویات وب
-    .accesskey = ت
 fx-translate-web-pages = { -translations-brand-name }
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = ترجمه با <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = استثناها…
     .accesskey = س
@@ -269,23 +183,6 @@ download-save-files-header =
     .label = ذخیره پرونده در
 download-save-where-3 =
     .aria-label = ذخیره پرونده در
-download-header = بارگیری‌ها
-download-save-where = ذخیره پرونده در
-    .accesskey = ذ
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] انتخاب…
-           *[other] مرور…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] ا
-           *[other] م
-        }
-download-always-ask-where =
-    .label = همیشه در مورد محل ذخیره سازی سوال شود
-    .accesskey = ه
 applications-header = برنامه‌ها
 applications-description = اینکه چگونه { -brand-short-name } پرونده‌های دریافت شده از وب یا برنامه‌هایی که هنگام مرور در وب از آنها استفاده می‌کنید را مدیریت کند، را انتخاب کنید.
 applications-filter =
@@ -333,10 +230,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = استفاده از { $plugin-name } (در { -brand-short-name })
 applications-open-inapp =
     .label = باز کردن در { -brand-short-name }
 
@@ -344,8 +237,6 @@ applications-open-inapp =
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -369,41 +260,21 @@ applications-save-for-new-types =
     .accesskey = ذ
 drm-group =
     .label = محتوا مدیریت حقوق دیجیتال(DRM)
-drm-content-header = محتوا مدیریت حقوق دیجیتال(DRM)
 play-drm-content =
     .label = پخش محتوا کنترل شده-DRM
     .accesskey = پ
 play-drm-content-learn-more = بیشتر بدانید
-update-application-title = بروزرسانی‌های { -brand-short-name }:
-update-application-description = برای تجربهٔ بهترین کارایی، پایداری و امنیت { -brand-short-name } را به روز نگاه دارید.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = نسخه{ $version } <a data-l10n-name="learn-more">امکانات جدید</a>
 update-history-2 =
     .label = نمایش تاریخچهٔ بروزرسانی
     .accesskey = ت
-update-history =
-    .label = نمایش تاریخچهٔ بروزرسانی…
-    .accesskey = ت
-update-application-allow-description = اجازه داده به { -brand-short-name } برای
-update-application-auto =
-    .label = به صورت خودکار بروزرسانی نصب شود (پیشنهاد می‌شود)
-    .accesskey = A
-update-application-check-choose =
-    .label = وجود بروزرسانی‌ها را بررسی کن، اما به شما اجازه انتخاب برای نصب داده شود
-    .accesskey = و
-update-application-manual =
-    .label = هرگز برای بروزرسانی‌ها بررسی نکن (توصیه نمی‌شود)
-    .accesskey = ه
 update-application-background-enabled =
     .label = هنگامی که { -brand-short-name } در حال اجرا نیست
     .accesskey = ن
 update-application-warning-cross-user-setting-2 =
     .message = این تنظیم برای همه حساب‌های ویندوز و نمایه‌های { -brand-short-name } با استفاده از این نصب { -brand-short-name } اعمال می شود.
-update-application-warning-cross-user-setting = این تنظیم برای همه حساب‌های ویندوز و نمایه‌های { -brand-short-name } با استفاده از این نصب { -brand-short-name } اعمال می شود.
-update-application-use-service =
-    .label = از سرویس پس‌زمینه برای نصب بروزرسانی ها استفاده شود
-    .accesskey = پ
 update-setting-write-failure-title2 = خطا در هنگام ذخیرهٔ تنطیمات بروزرسانی
 # Variables:
 #   $path (string) - Path to the configuration file
@@ -422,11 +293,6 @@ update-in-progress-cancel-button = &ادامه
 
 ## General Section - Performance
 
-performance-title = کارایی
-performance-use-recommended-settings-checkbox =
-    .label = استفاده از تنظیماتِ کارایی توصیه شده
-    .accesskey = س
-performance-use-recommended-settings-desc = این تنظیمات بر اساس سخت‌افزار و سیستم‌عامل رایانهٔ شما تنظیم می‌شود.
 performance-settings-learn-more = بیشتر بدانید
 performance-allow-hw-accel =
     .label = استفاده از شتاب‌دهنده‌های سخت‌افزاری در صورت وجود
@@ -444,7 +310,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = مرور
 browsing-use-autoscroll =
     .label = استفاده از لغزش خودکار
     .accesskey = ل
@@ -460,32 +325,17 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = هنگامی که شروع به وارد کردن حروف می‌کنم، به دنبال متن جستجو شود
     .accesskey = ج
-browsing-picture-in-picture-toggle-enabled =
-    .label = کنترل‌های ویدیویی تصویر در تصویر را فعال کنید
-    .accesskey = E
-browsing-picture-in-picture-learn-more = بیشتر بدانید
 browsing-media-control =
     .label = کنترل رسانه‌ها از طریق کیبورد، هدست، یا رابط مجازی
     .accesskey = v
-browsing-media-control-learn-more = اطلاعات بیشتر
 browsing-cfr-recommendations =
     .label = پیشنهاد دادن افزونه‌ها همزمان با مرور
     .accesskey = R
 browsing-cfr-features =
     .label = پیشنهاد دادن ویژگی‌ها همزمان با مرور وب
     .accesskey = f
-browsing-cfr-recommendations-learn-more = بیشتر بدانید
 browsing-group =
     .label = مرور
-
-## General Section - Proxy
-
-network-settings-title = تنظیمات شبکه
-network-proxy-connection-description = نحوهٔ اتصال { -brand-short-name } به اینترنت را پیکربندی کنید.
-network-proxy-connection-learn-more = اطلاعات بیشتر
-network-proxy-connection-settings =
-    .label = تنظیمات…
-    .accesskey = ت
 
 ## Home Section
 
@@ -542,35 +392,21 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = وب‌سایت‌هایی که ذخیره یا بازدید کرده‌اید
 home-prefs-shortcuts-by-option-sponsored =
     .label = میانبرهایی از حامیان مالی
-home-prefs-recommended-by-header =
-    .label = پیشنهاد شده توسط { $provider }
-home-prefs-recommended-by-description-new = محتوای استثنایی که توسط { $provider }، بخشی از خانواده { -brand-product-name }، جمع‌آوری شده‌اند.
 
 ##
 
 home-prefs-recommended-by-learn-more = این چجوری کار میکنه
 home-prefs-recommended-by-option-sponsored-stories =
     .label = محتوایی از حامیان مالی
-home-prefs-recommended-by-option-recent-saves =
-    .label = نمایش ذخیره‌های اخیر
 home-prefs-highlights-option-visited-pages =
     .label = صفحات بازدید شده
 home-prefs-highlights-options-bookmarks =
     .label = نشانک‌ها
 home-prefs-highlights-option-most-recent-download =
     .label = جدیدترین بارگیری
-home-prefs-highlights-option-saved-to-pocket =
-    .label = صفحات ذخیره شده در { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = فعالیت‌های اخیر
 home-prefs-recent-activity-description = منتخبی از وب‌سایت‌ها و مطالب اخیر
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = قطعه‌ها
-home-prefs-snippets-description-new = نکات و اخبار از { -vendor-short-name } و { -brand-product-name }
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -582,38 +418,11 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = نوار جستجو
-search-bar-hidden =
-    .label = استفاده از نوادر آدرس برای پیمایش و جستجو
-search-bar-shown =
-    .label = اضافه کردن نوار جستجو به نوار ابزار
-search-engine-default-header = موتور جستجو پیش‌فرض
-search-engine-default-desc-2 = این موتور جستجو پیش‌فرض شما در نوار آدرس و نوار جستجو است. می‌توانید آن را در هر زمانی تغییر دهید.
-search-engine-default-private-desc-2 = برای پنجره‌های ناشناس یک موتور جستجوی متفاوت انتخاب کنید
-search-separate-default-engine =
-    .label = از این موتور جستجو در پنجره‌های ناشناس استفاده کنید
-    .accesskey = U
-search-suggestions-header = پیشنهادهای جستجو
-search-suggestions-desc = نحوه ارائه پیشنهادات از موتورهای جستجو را انتخاب کنید.
-search-suggestions-option =
-    .label = عرضه پیشنهادهای جستجو
-    .accesskey = ج
 search-show-suggestions-url-bar-option =
     .label = نمایش پیشنهادهای جست‌و‌جو در نوار آدرس
     .accesskey = آ
 search-suggestions-cant-show-2 =
     .message = پیشنهادهای جستجو در نوار مکان نمایش داده نخواهد شده زیرا شما { -brand-short-name } را به گونه‌ای تنظیم کرده‌اید که هیچ تاریخچه‌ای را نگه ندارد.
-# This string describes what the user will observe when the system
-# prioritizes search suggestions over browsing history in the results
-# that extend down from the address bar. In the original English string,
-# "ahead" refers to location (appearing most proximate to), not time
-# (appearing before).
-search-show-suggestions-above-history-option =
-    .label = نمایش پیشنهاداتِ جستجو، پیش از تاریخچهٔ مرور در نوار آدرس
-search-show-suggestions-private-windows =
-    .label = نمایش پیشنهادات جستجو در پنجره‌های ناشناس
-suggestions-addressbar-settings-generic2 = تغییر تنظیمات برای سایر پیشنهادات در نوار آدرس
-search-suggestions-cant-show = پیشنهادهای جستجو در نوار مکان نمایش داده نخواهد شده زیرا شما { -brand-short-name } را به گونه‌ای تنظیم کرده‌اید که هیچ تاریخچه‌ای را نگه ندارد.
 search-one-click-header2 = میانبرهای جستجو
 search-one-click-desc = در هنگام وارد کردن کلید واژه‌ها جهت جستجو، موتورهای جستجو جایگزین را از قسمت پایینی نوار آدرس یا نوار جستجو انتخاب کنید.
 search-choose-engine-column =
@@ -642,22 +451,6 @@ search-engine-group =
 search-default-engine =
     .aria-label = موتور جستجو پیش‌فرض
 
-## Containers Section
-
-containers-back-button2 =
-    .aria-label = بازگشت به تنظیمات
-containers-header = زبانه‌های حامل
-containers-add-button =
-    .label = افزودن حامل جدید
-    .accesskey = ا
-containers-new-tab-check =
-    .label = برای هر زبانهٔ جدید یک محفظه انتخاب کنید
-    .accesskey = م
-containers-settings-button =
-    .label = تنظیمات
-containers-remove-button =
-    .label = حذف
-
 ## Account and sync
 
 sync-group-label =
@@ -683,8 +476,6 @@ sync-mobile-promo = بارگیری فایرفاکس برای <img data-l10n-name
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = تغییرتصویر نمایه
 sync-profile-picture-with-alt =
     .alt = تغییرتصویر نمایه
     .tooltiptext = تغییرتصویر نمایه
@@ -709,9 +500,6 @@ sync-signedin-login-failure = لطفا جهت ارتباط مجدد وارد ش�
 
 ##
 
-sync-resend-verification =
-    .label = ارسال مجدد تاییدیه
-    .accesskey = d
 sync-remove-account =
     .label = حذف حساب
     .accesskey = R
@@ -730,10 +518,6 @@ prefs-sync-turn-on-syncing-2 =
     .label = روشن کردن همگام‌سازی
     .accesskey = ر
 prefs-sync-offer-setup-label2 = نشانک‌ها، تاریخچه، زبانه‌ها، گذرواژه‌ها، افزونه‌ها و ترجیحات خود را در تمام دستگاه‌هایتان همگام کنید.
-prefs-sync-now =
-    .labelnotsyncing = هم‌اکنون همگام‌سازی کنید
-    .labelsyncing = درحال همگام‌سازی...
-    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = هم‌اکنون همگام‌سازی کنید
     .accesskey = N
@@ -751,24 +535,12 @@ prefs-syncing-button-2 =
 sync-currently-syncing-bookmarks = نشانک‌ها
 sync-currently-syncing-history = تاریخچه
 sync-currently-syncing-tabs = زبانه‌های باز
-sync-currently-syncing-logins-passwords = ورودها و گذرواژه‌ها
 sync-currently-syncing-addresses = نشانی‌ها
-sync-currently-syncing-creditcards = کارت‌های اعتباری
 sync-currently-syncing-addons = افزونه‌ها
 sync-currently-syncing-settings = تنظیمات
-sync-change-options =
-    .label = تغییر…
-    .accesskey = c
 
 ## The "Choose what to sync" dialog.
 
-sync-choose-what-to-sync-dialog3 =
-    .buttonlabelaccept = ذخیره تغییرات
-    .buttonlabelextra2 = قطع ارتباط
-    .buttonaccesskeyaccept = S
-    .buttonaccesskeyextra2 = D
-    .style = min-width: 36em;
-    .title = چه چیزی را می‌خواهید همگام کنید
 sync-engine-bookmarks =
     .label = نشانک‌ها
     .accesskey = ن
@@ -779,18 +551,10 @@ sync-engine-tabs =
     .label = زبانه‌های باز
     .tooltiptext = فهرستی از تمام دستگاه‌های همگام سازی شده باز
     .accesskey = t
-sync-engine-logins-passwords =
-    .label = ورودها و گذرواژه‌ها
-    .tooltiptext = نام‌های کاربری و گذرواژه‌هایی که ذخیره کرده‌اید
-    .accesskey = L
 sync-engine-addresses =
     .label = آدرس‌ها
     .tooltiptext = آدرس پستی که شما ذخیره کرده‌ اید(تنها رومیزی)
     .accesskey = آ
-sync-engine-creditcards =
-    .label = کارت‌های اعتباری
-    .tooltiptext = نام، اعداد و تاریخ انقضا (تنها رومیزی)
-    .accesskey = ک
 sync-engine-addons =
     .label = افزودنی‌ها
     .tooltiptext = افزونه‌ها و زمینه‌ها برای فایرفاکس رومیزی
@@ -826,50 +590,20 @@ sync-connect-another-device = اتصال یک دستگاه دیگر
 sync-connect-another-device-2 =
     .label = اتصال یک دستگاه دیگر
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = تایید ارسال
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = یک لینک تایید برای { $email } ارسال شد.
-sync-verification-not-sent-title = قادر به ارسال ایمیل تاییدیه نیست
-sync-verification-not-sent-body = در حال حاضر امکان ارسال پشت‌الکترونیکی تایید را نداریم، لطفا بعدا دوباره تلاش کنید.
-
 ## Privacy Section
 
 privacy-header = حریم خصوصی مرورگر
-
-## Privacy Section - Logins and Passwords
-
-# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = ورودها و گذرواژه‌ها
-    .searchkeywords = { -lockwise-brand-short-name }
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = در مورد ذخیره کردن نام‌کاربری و گذرواژه‌ها برای پایگاه‌ها سوال کن
-    .accesskey = r
 
 ## Privacy Panel Settings
 
 forms-exceptions =
     .label = استثناها…
     .accesskey = ث
-forms-generate-passwords =
-    .label = پیشنهاد و تولید گذرواژه‌های قوی
-    .accesskey = u
 forms-breach-alerts =
     .label = هشدارهای مربوط به گذرواژه‌ها در خصوص سایت‌های هک شده را نمایش بده
     .accesskey = b
 forms-breach-alerts-learn-more-link = بیشتر بدانید
 relay-integration-learn-more-link = بیشتر بدانید
-# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
-forms-fill-logins-and-passwords =
-    .label = پُر کردن خودکار ورودها و گذرواژه‌ها
-    .accesskey = پ
-forms-saved-logins =
-    .label = ورودهای ذخیره شده
-    .accesskey = و
 forms-primary-pw-use =
     .label = استفاده از یک گذرواژهٔ اصلی
     .accesskey = ا
@@ -907,32 +641,12 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
-history-header = تاریخچه
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = مرورگر { -brand-short-name }
-    .accesskey = م
-history-remember-option-all =
-    .label = تاریخچه را به خاطر خواهد داشت
-history-remember-option-never =
-    .label = هرگز تاریخچه را به خاطر نمی‌سپارد
-history-remember-option-custom =
-    .label = تنظیمات خاصی را برای تاریخچه استفاده می‌کند
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } سابقهٔ مرور، دریافت‌ها، اطلاعات فرم‌ها و تاریخچهٔ جستجوهای شما را به خاطر خواهد سپرد.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } تنظیمات حالت مرور ناشناس را استفاده خواهد کرد، و هیچ تاریخچه‌ای از مرور شما در وب نگه نخواهد داشت.
-history-remember-description = { -brand-short-name } سابقهٔ مرور، دریافت‌ها، اطلاعات فرم‌ها و تاریخچهٔ جستجوهای شما را به خاطر خواهد سپرد.
-history-dontremember-description = { -brand-short-name } تنظیمات حالت مرور ناشناس را استفاده خواهد کرد، و هیچ تاریخچه‌ای از مرور شما در وب نگه نخواهد داشت.
 history-private-browsing-permanent =
     .label = همیشه از حالت  مرور خصوصی استفاده کن
     .accesskey = م
@@ -958,43 +672,16 @@ history-mode-radio-group =
 
 ## Privacy Section - Site Data
 
-sitedata-header = کلوچک‌ها و داده‌های پایگاه
 sitedata-total-size-calculating = در حال محاسبهٔ اطلاعات پایگاه‌ها و اندازهٔ حافظهٔ نهان…
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = کلوچک‌ها، داده‌های پایگاه و حافظهٔ نهانِ ذخیره شده در حال حاضر از { $value } { $unit } از فضای دیسک شما استفاده می‌کنند.
 sitedata-learn-more = بیشتر بدانید
-sitedata-delete-on-close =
-    .label = پاک کردن کلوچک‌ها و داده‌های پایگاه هنگام بستن { -brand-short-name }
-    .accesskey = پ
-sitedata-delete-on-close-private-browsing = در حالتِ مرور ناشناسِ دائمی، پس از بستن { -brand-short-name }، کلوچک‌ها و داده‌های پایگاه پاک می‌شوند.
-sitedata-allow-cookies-option =
-    .label = پذیرفتن کلوچک‌ها و داده‌های پایگاه
-    .accesskey = A
-sitedata-disallow-cookies-option =
-    .label = مسدودسازی کلوچک‌ها و داده‌های پایگاه
-    .accesskey = B
-# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
-# The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = الگوی مسدود شده
-    .accesskey = ل
 sitedata-option-block-cross-site-trackers =
     .label = ردیاب‌های بین‌پایگاهی
 sitedata-option-block-cross-site-tracking-cookies =
     .label = کلوچک‌های ردیابِ میان‌پایگاهی
-sitedata-option-block-cross-site-cookies =
-    .label = کلوچک‌های ردیابِ میان‌پایگاهی، و منزوی کردن سایر کلوچک‌های میان‌پایگاهی
 sitedata-option-block-unvisited =
     .label = کلوچک‌ها از وبگاه‌های مشاهده نشده
 sitedata-option-block-all =
     .label = تمام کلوچک‌ها (باعث از کار افتادن وبگاه‌ها می‌شود)
-sitedata-clear =
-    .label = پاک کردن اطلاعات…
-    .accesskey = I
-sitedata-settings =
-    .label = مدیریت اطلاعات…
-    .accesskey = M
 sitedata-cookies-exceptions =
     .label = مدیریت استثناها…
     .accesskey = x
@@ -1003,8 +690,6 @@ cookies-site-data-group =
 
 ## Search Section
 
-addressbar-header = نوار نشانی
-addressbar-suggest = هنگام استفاده از نوار مکان، پیشنهاد بده
 addressbar-locbar-history-option =
     .label = تاریخچه‌ی مرورگر
     .accesskey = م
@@ -1021,11 +706,6 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = سایت‌های برتر
     .accesskey = T
-addressbar-locbar-engines-option =
-    .label = موتورهای جستجو
-    .accesskey = a
-addressbar-suggestions-settings = تغییر ترجیحات مربوط به پیشنهادهای موتورهای جستجو
-addressbar-quickactions-learn-more = بیشتر بدانید
 
 ## Privacy Section - Content Blocking
 
@@ -1057,7 +737,6 @@ content-blocking-etp-blocking-desc = { -brand-short-name } موارد زیر ر�
 content-blocking-private-windows = محتوای ردیابی در پنجره‌های ناشناس
 content-blocking-cross-site-tracking-cookies = کلوچک‌های ردیابِ میان‌پایگاهی
 content-blocking-all-cross-site-cookies-private-windows = کلوچک‌های میان‌پایگاهی در پنجره‌های ناشناس
-content-blocking-cross-site-tracking-cookies-plus-isolate = کلوچک‌های ردیابِ میان‌پایگاهی، و منزوی کردن سایر کلوچک‌ها
 content-blocking-social-media-trackers = ردیاب‌های شبکه‌های اجتماعی
 content-blocking-all-cookies = تمام کلوچک‌ها
 content-blocking-unvisited-cookies = کلوچک‌های پایگاه‌های بازدید نشده
@@ -1067,8 +746,6 @@ content-blocking-fingerprinters = برداشت کنندگان اثر انگشت
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = حفاظت کامل از کلوچک‌ها حاوی کلوچک‌هایی برای پایگاهی است که در آن هستید، بنابراین ردیاب‌ها نمی‌توانند از آن‌ها برای دنبال کردن شما بین پایگاه‌ها استفاده کنند.
 content-blocking-etp-standard-tcp-rollout-learn-more = اطلاعات بیشتر
-content-blocking-warning-title = هوشیار باشید!
-content-blocking-and-isolating-etp-warning-description-2 = این تنظیم ممکن است باعث شود بعضی از وب‌سایت‌ها محتوایی نمایش ندهند یا به درستی کار نکنند. اگر سایتی خراب به نظر می‌سد، ممکن است بخواهید محافظت از ردیابی آن سایت را خاموش کنید تا همه مطالب بارگیری شود.
 content-blocking-warning-learn-how = بیشتر بدانید
 content-blocking-reload-description = برای اعمال این تغییرات باید زبانه‌های خود را دوباره بارگیری کنید.
 content-blocking-reload-tabs-button =
@@ -1083,7 +760,6 @@ content-blocking-tracking-protection-option-all-windows =
 content-blocking-option-private =
     .label = تنها در پنجره‌های ناشناس
     .accesskey = p
-content-blocking-tracking-protection-change-block-list = تغییر لیست مسدودی‌ها
 content-blocking-cookies-label =
     .label = کلوچک‌ها
     .accesskey = C
@@ -1093,11 +769,6 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = استخراج کننده‌های رمزارزها
     .accesskey = y
-# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
-# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
-content-blocking-fingerprinters-label =
-    .label = برداشت کنندگان اثر انگشت
-    .accesskey = F
 
 ## Privacy Section - Tracking
 
@@ -1107,52 +778,11 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = مجوزها
-permissions-location = مکان
-permissions-location-settings =
-    .label = تنظیمات…
-    .accesskey = l
-permissions-xr = واقعیت مجازی
-permissions-xr-settings =
-    .label = تنظیمات…
-    .accesskey = t
-permissions-camera = دوربین
-permissions-camera-settings =
-    .label = تنظیمات…
-    .accesskey = c
-permissions-microphone = صدابَر
-permissions-microphone-settings =
-    .label = تنظیمات…
-    .accesskey = m
-permissions-notification = اعلان‌ها
-permissions-notification-settings =
-    .label = تنظیمات…
-    .accesskey = n
-permissions-notification-link = بیشتر بدانید
 permissions-notification-pause =
     .label = توقف هوشدار تا زمانی که { -brand-short-name } مجدد راه اندازی شود
     .accesskey = n
 permissions-autoplay2 =
     .label = پخش خودکار
-permissions-autoplay = پخش خودکار
-permissions-autoplay-settings =
-    .label = تنظیمات...
-    .accesskey = t
-permissions-block-popups =
-    .label = مسدود کردن پنجره‌های بازشو
-    .accesskey = م
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button =
-    .label = استثناها…
-    .searchkeywords = popups
-    .accesskey = س
-permissions-addon-install-warning =
-    .label = درهنگام تلاش پایگاه اینترنتی برای نصب افزودنی، به من هشدار داده شود
-    .accesskey = د
-permissions-addon-exceptions =
-    .label = استثناها…
-    .accesskey = ت
 permissions-location2 =
     .label = مکان
 permissions-xr2 =
@@ -1166,26 +796,6 @@ permissions-notification2 =
 
 ## Privacy Section - Data Collection
 
-collection-header = ذخیره اطلاعات و استفاده { -brand-short-name }
-collection-description = ما تمام تلاش خود را می‌کنیم که به شما حق انتخاب بدهیم و تنها اطلاعاتی را جمع‌آوری کنیم که برای بهبود { -brand-short-name } برای همه، کمک کند. ما همیشه قبل از دریافت اطلاعات شخصی از شما اجازه خواهیم گرفت.
-collection-privacy-notice = نکات حفظ حریم خصوصی
-collection-health-report-telemetry-disabled = شما دیگر به { -vendor-short-name } اجازهٔ ضبط داده‌های فنی و تعاملی را نداده‌‌اید. تمام اطلاعات قبلی تا ۳۰ روز آینده حذف خواهند شد.
-collection-health-report-telemetry-disabled-link = اطلاعات بیشتر
-collection-health-report =
-    .label = اجازه دادن به { -brand-short-name } برای ارسال اطلاعاتِ فنی و رفتاری به { -vendor-short-name }
-    .accesskey = r
-collection-health-report-link = بیشتر بدانید
-collection-studies =
-    .label = اجازه دادن به { -brand-short-name } برای نصب و اجرای studyها
-collection-studies-link = نمایش studyهای { -brand-short-name }
-addon-recommendations =
-    .label = اجازه دادن به { -brand-short-name } برای ساخت پیشنهادهای سفارشی شدهٔ مربوط به افزونه‌ها
-addon-recommendations-link = بیشتر بدانید
-# This message is displayed above disabled data sharing options in developer builds
-# or builds with no Telemetry support available.
-collection-health-report-disabled = گزارش کردن داده‌ها برای این پیکربندی ساخته شده غیرفعال شده است
-collection-backlogged-crash-reports-with-link = به { -brand-short-name } اجازه دهید گزارش‌های خرابی عقب مانده را از طرف شما ارسال کند <a data-l10n-name="crash-reports-link">اطلاعات بیشتر</a>
-    .accesskey = ج
 data-collection-health-report-telemetry-disabled =
     .message = شما دیگر به { -vendor-short-name } اجازهٔ ضبط داده‌های فنی و تعاملی را نداده‌‌اید. تمام اطلاعات قبلی تا ۳۰ روز آینده حذف خواهند شد.
 data-collection-studies-link =
@@ -1197,7 +807,6 @@ data-collection-studies-link =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = امنیت
-security-browsing-protection = محافظت در مقابل نرم‌افزارهای خطرناک و محتوا فریبنده
 security-enable-safe-browsing =
     .label = مسدود سازی محتوا‌های خطرناک و فریبنده
     .accesskey = م
@@ -1211,16 +820,6 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = گواهینامه‌ها
-certs-enable-ocsp =
-    .label = پرس‌وجو از کارگزار پاسخگوی OCSP جهت تصدیق اعتبار فعلی گواهینامه
-    .accesskey = پ
-certs-view =
-    .label = نمایش‌ گواهینامه‌ها…
-    .accesskey = گ
-certs-devices =
-    .label = امنیت دستگاه‌ها…
-    .accesskey = د
 certs-devices-enable-fips = به کار انداختن FIPS
 space-alert-over-5gb-settings-button =
     .label = باز کردن تنظیمات
@@ -1230,20 +829,14 @@ space-alert-under-5gb-message2 = <strong>فضای دیسک { -brand-short-name }
 
 ## Privacy Section - HTTPS-Only
 
-httpsonly-header = حالت فقط HTTPS
-httpsonly-description = HTTPS یک اتصال امن و رمزگذاری شده بین { -brand-short-name } و وب‌سایتهایی که بازدید می‌کنید، ارائه می‌دهد. اکثر وب‌سایت‌ها از HTTPS پشتیبانی می‌کنند و چناچه حالت فقط HTTPS فعال باشد، { -brand-short-name } تمام اتصال‌ها را به HTTPS ارتقا می‌دهد.
-httpsonly-learn-more = بیشتر بدانید
 httpsonly-radio-enabled =
     .label = فعال‌سازی حالت فقط-HTTPS در تمام پنجره‌ها
 httpsonly-radio-enabled-pbm =
     .label = فعال‌سازی حالت فقط-HTTPS تنها در پنجره‌های ناشناس
-httpsonly-radio-disabled =
-    .label = حالت فقط-HTTPS فعال نشود
 
 ## DoH Section
 
 preferences-doh-header = ساناد روی HTTPS
-preferences-doh-description = سامانهٔ نام دامنه (ساناد) روی HTTPS درخواست شما برای نام دامنه را از طریق اتصال رمزگذاشته می‌فرستد، سانادی ایمن ایجاد می‌کند و مشاهدهٔ وبگاه‌هایی که بازدید می‌کنید را برای دیگران سخت‌تر می‌کند.
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-resolver = فراهم‌کننده: { $name }
@@ -1252,4 +845,3 @@ preferences-doh-resolver = فراهم‌کننده: { $name }
 
 desktop-folder-name = رومیزی
 downloads-folder-name = بارگیری‌ها
-choose-download-folder-title = انتخاب پوشهٔ بارگیری:‏

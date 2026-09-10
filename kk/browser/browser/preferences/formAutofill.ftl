@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Сақталған адрестер
 autofill-manage-addresses-list-header = Адрестер
-autofill-manage-credit-cards-title = Сақталған несиелік карталар
-autofill-manage-credit-cards-list-header = Несиелік карталар
 autofill-manage-payment-methods-title = Сақталған төлем әдістері
 autofill-manage-cards-list-header = Карталар
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = Мәзірді ашу
 address-capture-edit-address-link = Адресті түзету
     .aria-label = Адресті түзету
-address-capture-edit-address-button =
-    .aria-label = Адресті түзету
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Адресті қосу
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Адресті түзету
-autofill-address-given-name = Аты
-autofill-address-additional-name = Әкесінің аты
-autofill-address-family-name = Тегi
 autofill-address-name = Аты
 autofill-address-organization = Ұйым
 autofill-address-street-address = Көше адресі
@@ -104,8 +97,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Жаңа адресті қосу
 autofill-address-country = Ел немесе аймақ
 autofill-address-country-only = Ел
 autofill-address-tel = Телефон
@@ -114,18 +105,6 @@ autofill-cancel-button = Бас тарту
 autofill-save-button = Сақтау
 autofill-country-warning-message-2 = Формаларды автотолтыру ағымдағы уақытта тек кейбір елдер үшін қолжетімді
 autofill-country-warning-message = Формаларды автотолтыру ағымдағы уақытта тек кейбір елдер үшін қолжетімді.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Жаңа несиелік картаны қосу
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Несиелік картаны түзету
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] несие картасы ақпаратын көрсету
-        [windows] { -brand-short-name } сақталған несие карта ақпаратын қолданғысы келеді. Бұл Windows тіркелгісіне қатынау рұқсатын төменде растаңыз.
-       *[other] { -brand-short-name } несие карта ақпаратын көрсеткісі келеді.
-    }
 autofill-message-tooltip = Автоматты толтыру туралы хабарламаны қарау
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Картаны қосу
@@ -211,15 +190,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = Паспорттарды ешқашан сақтамау
     .accessKey = н
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

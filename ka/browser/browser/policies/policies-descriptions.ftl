@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = ნაგულისხმევ ბრა�
 policy-DisableDeveloperTools = შემმუშავებლის ხელსაწყოებთან წვდომის შეზღუდვა.
 policy-DisableEncryptedClientHello = გაითიშოს TLS-შესაძლებლობის მქონე Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = უკუკავშირის ბრძანებების გათიშვა დახმარების მენიუდან (გამოხმაურებისა და თაღლითურ საიტზე მოხსენების გაგზავნა)
-policy-DisableFirefoxAccounts = მომსახურებების გათიშვა, რომელთა მუშაობასაც { -fxaccount-brand-name } უზრუნველყოფს, სინქრონიზაციის ჩათვლით.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = ანგარიშზე დამოკიდებული მომსახურებების გათიშვა, მათ შორის დასინქრონებისა.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = ძიებისა და ველების �
 policy-DisableLaunchOnLogin = აღიკვეთოს შესაძლებლობა, თავისთავად გაეშვას { -brand-short-name } მომხმარებლის შესვლისთანავე.
 policy-DisablePrimaryPasswordCreation = თუ მოქმედია, მთავარი პაროლი ვერ შეიქმნება.
 policy-DisablePasswordReveal = შენახული ანგარიშების პაროლებთან წვდომის აკრძალვა.
-policy-DisablePocket2 = ვებგვერდების { -pocket-brand-name }-ში შენახვის შესაძლებლობის გათიშვა.
 policy-DisablePrivateBrowsing = პირადი დათვალიერების გათიშვა.
 policy-DisableProfileImport = მენიუდან სხვა ბრაუზერის მონაცემების გადმოტანის შესაძლებლობის გათიშვა.
 policy-DisableProfileRefresh = about:support გვერდზე, გაითიშოს ღილაკი { -brand-short-name } – შეკეთება.
@@ -132,7 +130,6 @@ policy-PDFjs = გათიშვა ან გამართვა PDF.js-ი�
 policy-Permissions2 = ნებართვების გამართვა კამერაზე, მიკროფონზე, მდებარეობაზე, შეტყობინებებსა და თვითგაშვებაზე.
 policy-PictureInPicture = ჩაირთოს ან გამოირთოს ეკრანი-ეკრანში
 policy-PopupBlocking2 = ცალკეული ვებსაიტებისთვის ამომხტომებისა და გარე გადამისამართების ჩარჩოების ნებართვა.
-policy-PopupBlocking = ცალკეული ვებსაიტებისთვის ამომხტომი ფანჯრების დაშვება ნაგულისხმევად.
 policy-Preferences = მნიშვნელობების შერჩევა და ჩაკეტვა, პარამეტრების ნაწილისთვის.
 policy-PrivateBrowsingModeAvailability = პირადი დათვალიერების რეჟიმის ხელმისაწვდომობის მითითება.
 policy-PromptForDownloadLocation = ფაილების ჩამოტვირთვისას ადგილმდებარეობის მითითება.

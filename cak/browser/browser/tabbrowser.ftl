@@ -8,11 +8,6 @@ tabbrowser-menuitem-close-tab =
     .label = Titz'apïx ruwi'
 tabbrowser-menuitem-close =
     .label = Titz'apïx
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -20,14 +15,6 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [one] Titz'apïx ruwi'
-           *[other] Ketz'apïx { $tabCount } ruwi'
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [one] Titz'apïx ruwi'
            *[other] Ketz'apïx { $tabCount } ruwi'
@@ -84,7 +71,6 @@ tabbrowser-confirm-close-tabs-title =
        *[other] ¿ La yetz'apïx { $tabCount } ruwi'?
     }
 tabbrowser-confirm-close-tabs-button = Ketz'apïx Ruwi'
-tabbrowser-confirm-close-tabs-checkbox = Nab'ey tijikib'äx toq yetz'apïx jalajöj taq ruwi'
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -108,9 +94,6 @@ tabbrowser-confirm-close-windows-button =
 
 tabbrowser-confirm-close-tabs-with-key-title = ¿La nitz'apïx tzuwäch chuqa' nel pa { -brand-short-name }?
 tabbrowser-confirm-close-tabs-with-key-button = Titz'apïx { -brand-short-name }
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = Nab'ey tijikib'äx richin nel rik'in { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 

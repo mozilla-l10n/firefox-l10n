@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Zpátky
 neterror-return-to-previous-page-recommended-button = Zpátky (doporučeno)
 neterror-try-again-button-2 = Zkusit znovu
     .accesskey = Z
-neterror-try-again-button = Zkusit znovu
 neterror-add-exception-button = Na tomto webu vždy pokračovat
 neterror-settings-button = Změnit nastavení DNS
 neterror-view-certificate-link = Zobrazit certifikát
-neterror-trr-continue-this-time = Tentokrát pokračovat
-neterror-disable-native-feedback-warning = Vždy pokračovat
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,11 +74,6 @@ neterror-search-cta-learn-more = Zjistit více
 ##
 
 neterror-pref-reset = Zdá se, že příčinou může být vaše nastavení zabezpečení. Chcete obnovit výchozí nastavení?
-neterror-error-reporting-automatic =
-    { -vendor-short-name.case-status ->
-        [with-cases] Hlásit chyby jako je tato a pomoci tak { -vendor-short-name(case: "dat") } identifikovat a blokovat škodlivé stránky
-       *[no-cases] Hlásit chyby jako je tato a pomoci tak organizaci { -vendor-short-name } identifikovat a blokovat škodlivé stránky
-    }
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -128,7 +120,6 @@ neterror-dns-not-found-offline-hint-reconnect = Odpojte se a znovu se připojte 
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } nemůže ochránit vaše požadavky pro tento server pomocí důvěryhodného překladače DNS z těchto důvodů:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } nemůže ochránit váš požadavek na adresu tohoto webu prostřednictvím našeho zabezpečeného poskytovatele DNS. Zde je důvod:
 neterror-dns-not-found-trr-third-party-warning2 = Můžete pokračovat s použitím svého výchozího překladače DNS. Třetí strany pak ale mohou zjistit, jaké webové stránky navštěvujete.
 neterror-dns-not-found-trr-only-could-not-connect =
@@ -137,24 +128,11 @@ neterror-dns-not-found-trr-only-could-not-connect =
        *[no-cases] Aplikaci { -brand-short-name } se nepodařilo připojit k DNS překladači { $trrDomain }.
     }
 neterror-dns-not-found-trr-only-timeout = Připojení k DNS překladači { $trrDomain } trvalo déle, než se očekávalo.
-neterror-dns-not-found-trr-offline = Nejste připojeni k internetu.
 neterror-dns-not-found-trr-unknown-host2 = Tento server nebyl překladačem { $trrDomain } nalezen.
 neterror-dns-not-found-trr-server-problem = Vyskytl se problém s DNS překladačem { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = Neplatná adresa URL.
 neterror-dns-not-found-system-sleep = Systém je v režimu spánku.
 neterror-dns-not-found-trr-unknown-problem = Neočekávaný problém.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } nemůže ochránit vaše požadavky pro tento server pomocí důvěryhodného překladače DNS z těchto důvodů:
-neterror-dns-not-found-native-fallback-heuristic = DNS over HTTPS je ve vaší síti zakázáno.
-neterror-dns-not-found-native-fallback-not-confirmed2 =
-    { -brand-short-name.case-status ->
-        [with-cases] { -brand-short-name(case: "dat") } se nepodařilo připojit k DNS překladači { $trrDomain }.
-       *[no-cases] Aplikaci { -brand-short-name } se nepodařilo připojit k DNS překladači { $trrDomain }.
-    }
 
 ##
 
@@ -168,8 +146,6 @@ neterror-access-denied = Možná byl smazán, přesunut nebo jeho oprávnění z
 neterror-unknown-protocol = Pro otevření této adresy budete patrně potřebovat nainstalovat další software.
 neterror-redirect-loop = Tento problém může být způsoben zakázáním nebo odmítnutím cookies.
 neterror-unknown-socket-type-client-config = To může být způsobeno chybou při konfiguraci vašeho klienta.
-neterror-unknown-socket-type-psm-installed = Zkontrolujte, že je ve vašem systému nainstalován Personal Security Manager.
-neterror-unknown-socket-type-server-config = Tato chyba může být také způsobena nestandardní konfigurací serveru.
 neterror-not-cached-intro =
     { -brand-short-name.case-status ->
         [with-cases] Požadovaný dokument už není dostupný v mezipaměti { -brand-short-name(case: "gen") }.

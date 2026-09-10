@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = Трымайце { -brand-short-name } па
 default-browser-prompt-message-pin-msix = Трымайце { -brand-short-name } паблізу — зрабіце яго прадвызначаным браўзерам і замацуйце на панэлі заданняў і ў стартавым меню.
 default-browser-prompt-message-pin-mac = Трымайце { -brand-short-name } пад рукой — зрабіце яго прадвызначаным браўзерам і дадайце ў Док.
 default-browser-prompt-button-primary-set = Прызначыць асноўным браўзерам
-default-browser-prompt-button-primary-pin = Зрабіць асноўным браўзерам
 default-browser-prompt-title-alt = Зрабіць { -brand-short-name } вашым прадвызначаным браўзерам?
 default-browser-prompt-message-alt = Атрымайце хуткасць, бяспеку і прыватнасць пры кожным праглядзе.
 default-browser-prompt-button-primary-alt = Зрабіць прадвызначаным браўзерам

@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Pengaturan Sambungan
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Pengaturan Sambungan
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Muat ulang
     .accesskey = u
-connection-proxy-autologin =
-    .label = Jangan tanyakan autentikasi jika sandinya disimpan
-    .accesskey = i
-    .tooltip = Opsi ini akan mengautentikasi Anda tanpa pemberitahuan jika Anda telah menyimpan sandinya. Anda akan ditanya hanya jika proses autentikasinya gagal.
 connection-proxy-autologin-checkbox =
     .label = Jangan tanyakan autentikasi jika sandinya disimpan
-    .accesskey = i
     .tooltiptext = Opsi ini akan mengautentikasi Anda tanpa pemberitahuan jika Anda telah menyimpan sandinya. Anda akan ditanya hanya jika proses autentikasinya gagal.
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = DNS proksi saat menggunakan SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Gunakan URL baku untuk memecahkan masalah DNS atas HTTPS
 connection-dns-over-https-url-custom =
     .label = Khusus
-    .accesskey = K
     .tooltiptext = Masukkan URL yang diinginkan untuk mendapatkan DNS lewat HTTPS
-connection-dns-over-https-custom-label = Ubahsuai
+    .accesskey = K

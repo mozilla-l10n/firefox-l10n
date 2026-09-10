@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = 비밀번호 검색
-    .key = F
     .aria-label = 비밀번호 검색
+    .key = F
+    .placeholder = 비밀번호 검색
 contextual-manager-menu-more-options-button =
     .title = 추가 옵션
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = 파일에서 가져오기…
 contextual-manager-passwords-command-export = 비밀번호 내보내기
 contextual-manager-passwords-command-remove-all = 모든 비밀번호 제거
 contextual-manager-passwords-command-options = 옵션
-contextual-manager-passwords-command-settings = 설정
 contextual-manager-passwords-command-help = 도움말
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = 비밀번호 가져옴
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = 신규: { $added }개, 업데이트됨: { $modified }개
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -213,8 +208,6 @@ contextual-manager-passwords-create-label =
     .label = 비밀번호 추가
 contextual-manager-passwords-update-label =
     .label = 비밀번호 업데이트
-contextual-manager-passwords-edit-label =
-    .label = 비밀번호 편집
 contextual-manager-passwords-remove-label =
     .title = 비밀번호 제거
 contextual-manager-passwords-origin-field =
@@ -230,7 +223,6 @@ contextual-manager-passwords-password-field-description = 이 계정에 로그�
 contextual-manager-passwords-origin-tooltip = 이 사이트에 로그인할 정확한 주소를 입력하세요.
 contextual-manager-passwords-username-tooltip = 사용자 이름, 이메일 주소 또는 로그인할 때 사용한 계정 번호를 입력하세요.
 contextual-manager-passwords-password-tooltip-2 = 이 계정에 로그인하려면 비밀번호를 입력하세요.
-contextual-manager-passwords-password-tooltip = 이 계정에 로그인할 때 사용했던 비밀번호를 입력해 주세요.
 
 ## Password Card
 
@@ -277,10 +269,6 @@ contextual-manager-password-login-line-with-alert =
     .title = 비밀번호 복사 (경고)
 contextual-manager-edit-login-button = 편집
     .tooltiptext = 비밀번호 편집
-contextual-manager-view-alert-heading =
-    .heading = 알림 보기
-contextual-manager-view-alert-button =
-    .tooltiptext = 알림 리뷰
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -307,13 +295,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = 비밀번호를 찾을 수 없음
 contextual-manager-passwords-no-passwords-found-message-2 = 다른 용어를 사용하고 다시 검색해 보세요.
-contextual-manager-passwords-no-passwords-found-message = 비밀번호를 찾을 수 없습니다. 다른 용어를 검색하고 다시 시도하세요.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = 비밀번호를 안전한 장소에 저장하세요.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = 모든 비밀번호는 암호화되며 유출을 감시하고 영향을 받는 경우 알림을 받습니다.

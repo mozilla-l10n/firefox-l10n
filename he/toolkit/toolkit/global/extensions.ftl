@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = להוסיף את { $extension }?
-webext-perms-header-with-perms = להוסיף את { $extension }? להרחבה זו תהיה ההרשאות הבאות:
-webext-perms-header-unsigned = להוסיף את { $extension }? הרחבה זו אינה מאומתת. הרחבות זדוניות יכולות לגנוב מידע אישי או לסכן את המחשב שלך. יש להוסיף אותה רק אם הגיעה ממקור מהימן.
-webext-perms-header-unsigned-with-perms = להוסיף את { $extension }? הרחבה זו אינה מאומתת. הרחבות זדוניות יכולות לגנוב מידע אישי או לסכן את המחשב שלך. יש להוסיף אותה רק אם הגיעה ממקור מהימן. להרחבה זו תהיה ההרשאות הבאות:
 webext-perms-sideload-header = { $extension } נוספה
 webext-perms-optional-perms-header2 = ההרחבה { $extension } מבקשת הרשאות נוספות
-webext-perms-optional-perms-header = ההרחבה { $extension } מבקשת הרשאות נוספות.
 webext-perms-header2 = הוספת { $extension }
 webext-perms-list-intro-unsigned = הרחבה לא מאומתת זו עלולה לסכן את הפרטיות שלך או לפגוע במכשיר שלך. יש להוסיף אותה רק אם הגיעה ממקור מהימן.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = ההרחבה { $extension } עודכנה. עליך לאשר את ההרשאות החדשות לפני שהגרסה המעודכנת תותקן. בחירה ב״ביטול״ תשאיר את גרסת ההרחבה הנוכחית.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = ההרחבה { $extension } עודכנה. עליך לאשר הרשאות חדשות לפני שהגרסה העדכנית תותקן. בחירה באפשרות ״ביטול״ תשאיר את ההרחבה בגרסתה הנוכחית. להרחבה זו תהיה ההרשאות הבאות:
 webext-perms-update-accept =
     .label = עדכון
     .accesskey = ע
@@ -73,24 +65,8 @@ webext-perms-host-description-file-urls = גישה לקבצים מקומיים �
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = גישה לנתונים שלך עבור אתרים תחת שם המתחם { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] גישה לנתונים שלך בשם מתחם נוסף
-       *[other] גישה לנתונים שלך ב־{ $domainCount } שמות מתחם נוספים
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = גישה לנתונים שלך עבור { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] גישה לנתונים שלך באתר נוסף
-       *[other] גישה לנתונים שלך ב־{ $domainCount } אתרים נוספים
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

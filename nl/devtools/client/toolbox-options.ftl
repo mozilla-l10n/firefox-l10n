@@ -188,8 +188,6 @@ options-disable-http-cache-tooltip =
     .title = Door deze optie aan te zetten, wordt de HTTP-buffer voor alle tabbladen die de werkset hebben geopend uitgeschakeld. Service Workers worden niet door deze optie beïnvloed.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label-2 = JavaScript uitschakelen
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = JavaScript uitschakelen *
 options-disable-javascript-tooltip =
     .title = Door deze optie aan te zetten, wordt JavaScript voor het huidige tabblad uitgeschakeld. Als het tabblad of de werkset wordt gesloten, wordt deze instelling vergeten.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -219,8 +217,6 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = (alleen huidige sessie, vernieuwt de pagina)
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Alleen huidige sessie, vernieuwt de pagina
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (laadt de pagina opnieuw)

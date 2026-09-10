@@ -32,10 +32,6 @@ security-software-name = Име
 security-software-antivirus = Антивирус
 security-software-antispyware = Антишпионски софтвер
 security-software-firewall = Заштитен ѕид
-features-title = Особености на { -brand-short-name }
-features-name = Име
-features-version = Верзија
-features-id = ID
 processes-title = Далечински процеси
 processes-type = Тип
 processes-count = Број
@@ -61,7 +57,6 @@ app-basics-profile-dir =
         [linux] Директориум на профилот
        *[other] Папка на профилот
     }
-app-basics-enabled-plugins = Овозможени приклучоци
 app-basics-build-config = Конфигурација на изданието
 app-basics-user-agent = Кориснички агент
 app-basics-os = ОС
@@ -99,9 +94,6 @@ show-dir-label =
 environment-variables-title = Променливи на околината
 environment-variables-name = Име
 environment-variables-value = Вредност
-experimental-features-title = Експериментални особености
-experimental-features-name = Име
-experimental-features-value = Вредност
 modified-key-prefs-title = Важни променети параметри
 modified-prefs-name = Име
 modified-prefs-value = Вредност

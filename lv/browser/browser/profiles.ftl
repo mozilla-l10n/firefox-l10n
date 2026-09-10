@@ -9,16 +9,16 @@ profile-window-checkbox-label-2 =
     .label = Izvēlēties profilu, kad tiek atvērts { -brand-short-name }
 profile-window-create-profile = Izveidot profilu
 profile-card-edit-button =
-    .title = Labot profilu
     .aria-label = Labot profilu
+    .title = Labot profilu
 profile-card-delete-button =
-    .title = Dzēst profilu
     .aria-label = Dzēst profilu
+    .title = Dzēst profilu
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Atvērt { $profileName }
     .aria-label = Atvērt { $profileName }
+    .title = Atvērt { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profils { $number }
@@ -75,9 +75,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Izdzēst profilu { $profilename }
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = Izdzēst profilu { $profilename }?
 delete-profile-description = { -brand-short-name } no šīs ierīces neatgriezeniski izdzēsīs šādus datus:
 # Open is an adjective, as in "browser windows currently open".
@@ -98,26 +95,10 @@ delete-profile-confirm = Dzēst
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Gaišs
-# The default dark theme
-profiles-dark-theme = Tumšs
 # The default system theme
 profiles-system-theme = Sistēmas
 profiles-system-theme-title =
     .title = Lietot sistēmas motīvu
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = Bāla lavanda
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = Piparmētru zaļa
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = Magnolijas rozā
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = Okeāna zils
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = Ķieģeļsarkans
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = Sūnu zaļa
 profiles-gray-theme-title =
     .title = Lietot pelēko motīvu
 profiles-yellow-theme-title =

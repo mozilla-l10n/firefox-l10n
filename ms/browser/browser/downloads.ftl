@@ -26,8 +26,6 @@ downloads-cmd-cancel-panel =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = Papar Folder Muat turun
 downloads-cmd-retry =
     .tooltiptext = Cuba lagi
 downloads-cmd-retry-panel =

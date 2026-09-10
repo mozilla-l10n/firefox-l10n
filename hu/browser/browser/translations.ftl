@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Oldal lefordítása
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Fordítás folyamatban
 translations-panel-settings-button =
     .aria-label = Fordítási beállítások kezelése
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BÉTA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Nyelvek kezelése
-translations-panel-settings-about = A { -brand-shorter-name } fordításainak névjegye
 translations-panel-settings-about2 =
     .label = A { -brand-shorter-name } fordításainak névjegye
 # Text displayed for the option to always translate a given language
@@ -91,14 +82,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = Sajnos még nem támogatjuk az erről a nyelvről történő fordítást: { $language }.
 translations-panel-error-unsupported-hint-unknown-2 = Sajnos még nem támogatjuk az erről a nyelvről történő fordítást.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Sajnos a(z) { $language } nyelv még nem támogatott.
-translations-panel-error-unsupported-hint-unknown = Sajnos még nem támogatjuk ezt a nyelvet.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -130,10 +113,6 @@ translations-manage-header = Fordítások
 translations-manage-settings-button =
     .label = Beállítások…
     .accesskey = B
-translations-manage-description = Nyelvek letöltése a kapcsolat nélküli fordításhoz.
-translations-manage-all-language = Összes nyelv
-translations-manage-download-button = Letöltés
-translations-manage-delete-button = Törlés
 translations-manage-intro-2 = Adja meg a nyelvi és webhelyfordítási beállításokat, és kezelje az offline fordításhoz letöltött nyelveket.
 translations-manage-download-description = Nyelvek letöltése az offline fordításhoz
 translations-manage-language-download-button =
@@ -147,12 +126,11 @@ translations-manage-language-remove-all-button =
     .label = Összes eltávolítása
     .accesskey = e
 translations-manage-error-download = Hiba történt a nyelvi fájlok letöltése során. Próbálja meg újra.
-translations-manage-error-delete = Hiba történt a nyelvi fájlok törlése során. Próbálja meg újra.
 translations-manage-error-remove = Hiba történt a nyelvi fájlok eltávolítása során. Próbálja meg újra.
 translations-manage-error-list = Nem sikerült lekérni a fordításhoz elérhető nyelveket. Az újrapróbálkozáshoz frissítse az oldalt.
 translations-settings-title =
-    .title = Fordítási beállítások
     .style = min-width: 36em
+    .title = Fordítási beállítások
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = A fordítás automatikusan megtörténik ezen nyelveknél
@@ -246,16 +224,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = Sajnos még nem támogatjuk az erről a nyelvről történő fordítást: { $language }.
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = Sajnos még nem támogatjuk az erről a nyelvről történő fordítást.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Sajnos a(z) { $language } nyelv még nem támogatott.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Sajnos még nem támogatjuk ezt a nyelvet.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Fordítási beállítások

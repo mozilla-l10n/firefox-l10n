@@ -16,8 +16,6 @@
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
 -facebook-container-brand-name = Facebook खनथेनार
--lockwise-brand-name = Firefox Lockwise
--lockwise-brand-short-name = Lockwise
 -monitor-brand-name = फायारफक्स Monitor
 -monitor-brand-short-name = Monitor
 -mozmonitor-brand-name = Mozilla Monitor

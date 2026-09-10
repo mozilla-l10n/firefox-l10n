@@ -87,8 +87,6 @@ options-context-advanced-settings = تنظیمات پیشرفته
 options-disable-http-cache-label = غیرفعال کردن ذخیره نهان HTTP‌ (وقتی جعبه ابزار باز است)
 options-disable-http-cache-tooltip =
     .title = فعال کردن این گزینه حافظه نهان HTTP را برای تمامی زبانه‌ها فعالی که جعبه‌ابزار آن ها باز است غیرفعال می‌کند. کارگرهای خدمات دهده تحت تاثیر این گزینه قرار نمی‌گیرند.
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = غیرفعال کردن جاوا اسکریپت *
 options-disable-javascript-tooltip =
     .title = فعال کردن ای گزینه JavaScript را از زبان فعلی غیرفعال می‌کند. اگر زبانه یا ابزار بسته شد سپس ممکن است این تنظیمات فراموش شود.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -105,8 +103,6 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = فعال‌سازی نقشه های منابع
 options-source-maps-tooltip =
     .title = اگر شما این قابلیت را فعال کنید منابع قادر به ترسیم در ابزارخواهند بود.
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = تنها نشست فعلی، صفحه را بازآوری می‌کند
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

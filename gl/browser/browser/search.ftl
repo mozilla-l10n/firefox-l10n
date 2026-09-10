@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>O teu motor de busca predeterminado cambiou.</strong> { $oldEngine } xa non está dispoñíbel como motor de busca predeterminado en { -brand-short-name }. Agora { $newEngine } é o teu motor de busca predeterminado. Para cambiar a outro motor de busca predeterminado, accede á configuración. <label data-l10n-name="remove-search-engine-article">Máis información</label>
 removed-search-engine-message2 = <strong>O teu motor de busca predeterminado cambiou.</strong> { $oldEngine } xa non está dispoñíbel como motor de busca predeterminado en { -brand-short-name }. Agora { $newEngine } é o teu motor de busca predeterminado. Para cambiar a outro motor de busca predeterminado, accede á configuración.
 remove-search-engine-button = Aceptar
 
@@ -52,11 +51,11 @@ install-search-engine-no = Non
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Engadir motor de busca
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Editar buscador
     .style = min-width: 32em;
+    .title = Editar buscador
 add-engine-button = Engadir motor personalizado
 add-engine-name = Nome do motor de busca
 add-engine-url2 = URL con %s en lugar do termo de busca
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Proba a incluír %s no lugar do termo de bu
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Engadir motor
-    .buttonaccesskeyaccept = E
     .buttonlabelextra1 = Avanzado
+    .buttonaccesskeyaccept = E
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Gardar motor
-    .buttonaccesskeyaccept = G
     .buttonlabelextra1 = Avanzado
+    .buttonaccesskeyaccept = G

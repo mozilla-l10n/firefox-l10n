@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Դուք այժմ ընթացիկ FIPS աշ
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Վերակայել առաջնային գաղտնաբառը
     .style = min-width: 40em
+    .title = Վերակայել առաջնային գաղտնաբառը
 reset-password-button-label =
     .label = Վերագործարկել
 reset-primary-password-text = Եթե Դուք վերակայել էք Ձեր առաջնային գաղտնաբառը, Ձեր բոլոր ցանցային պահեստները եւ ել.հասցէի գաղտնաբառերը, անհատական վկայագրերը եւ անձնական բանալիները կը մոռացուեն: Համոզուա՞ծ էք, որ ցանկանում էք վերակայել Ձեր առաջնային գաղտնաբառը:
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Ձեր առաջնային գաղտ�
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Վկայագրի բեռնում
     .style = min-width: 46em
+    .title = Վկայագրի բեռնում
 download-cert-message = Դուք հայց էք ստացել նոր վկայագրի հաստատման (CA) համար:
 download-cert-trust-ssl =
     .label = Վստահել այս CA-ին՝ վեբկայքերի նոյնացման համար:
@@ -52,8 +52,6 @@ download-cert-view-text = Ոսումնասիրել ԱՀ վկայագիրը
 
 client-auth-window =
     .title = Աւգտատիրոջ նոյնացման հարցում
-client-auth-site-description = Այս կայքը պահանջում է, որ դուք ձեր վկայագիրը ներկայացնէք.
-client-auth-choose-cert = Ընտրէք թուային ինքնութիւնը ներկայացնող վկայագիրը.
 client-auth-cert-details = Ընտրուած վկայագրի մանրամասները.
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

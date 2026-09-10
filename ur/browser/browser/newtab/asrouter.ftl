@@ -62,17 +62,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = ہر جگہ اپنے بک مارکس کی ہمہ وقت سازی کریں
-cfr-doorhanger-bookmark-fxa-body = بہت اچھا! اب آپ کو اپنے موبائل آلات پر اس نشانی کے بغیر نہیں چھوڑے گا۔ ایک { -fxaccount-brand-name } کے ساتھ شروع کریں۔
 cfr-doorhanger-bookmark-fxa-link-text = ابھی بک مارک کی ہہمہ وقت سازی کریں…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = بٹن بند کریں
     .title = بند کریں
-
-## Protections panel
-
-cfr-protections-panel-header = بغیر پیروی کیے براؤز کریں
-cfr-protections-panel-body = اپنا ڈیٹا اپنے پاس رکھیں۔{ -brand-short-name } آپ کو بہت سے عام ٹریکرس سے بچاتا ہے جواسکی پیروی کر تےھیں کے آپ آن لائن کیا کرتے ہیں ۔
-cfr-protections-panel-link-text = مزید سیکھیں
 
 ## What's New toolbar button and panel
 

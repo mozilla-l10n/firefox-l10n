@@ -132,9 +132,6 @@ main-context-menu-video-email =
 
 ##
 
-main-context-menu-keyword =
-    .label = Gattako Ekigambo ekikulu kukunoonyereza kunno…
-    .accesskey = E
 main-context-menu-frame =
     .label = Olugo Luno
     .accesskey = n

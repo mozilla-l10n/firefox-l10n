@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Voorkomen dat de standaard browseragent enig
 policy-DisableDeveloperTools = Toegang tot de ontwikkelaarshulpmiddelen blokkeren.
 policy-DisableEncryptedClientHello = Gebruik van de TLS-functie Encrypted Client Hello (ECH) uitschakelen.
 policy-DisableFeedbackCommands = Opdrachten voor het verzenden van feedback vanuit het menu Help uitschakelen (Feedback verzenden en Misleidende website rapporteren).
-policy-DisableFirefoxAccounts = Op { -fxaccount-brand-name } gebaseerde services uitschakelen, waaronder Synchronisatie.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Accountgebaseerde services uitschakelen, waaronder synchronisatie.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Geen zoek- en formuliergeschiedenis onthouden.
 policy-DisableLaunchOnLogin = Voorkomen dat { -brand-short-name } automatisch wordt gestart wanneer de gebruiker zich aanmeldt.
 policy-DisablePrimaryPasswordCreation = Wanneer true, kan geen hoofdwachtwoord worden aangemaakt.
 policy-DisablePasswordReveal = Niet toestaan dat wachtwoorden worden onthuld in opgeslagen aanmeldingen.
-policy-DisablePocket2 = De functie voor het opslaan van webpagina’s naar { -pocket-brand-name } uitschakelen.
 policy-DisablePrivateBrowsing = Privénavigatie uitschakelen.
 policy-DisableProfileImport = De menuopdracht voor het importeren van gegevens vanuit een andere browser uitschakelen.
 policy-DisableProfileRefresh = De knop { -brand-short-name } opfrissen in de about:support-pagina uitschakelen.
@@ -132,7 +130,6 @@ policy-PDFjs = PDF.js, de in { -brand-short-name } ingebouwde PDF-lezer, uitscha
 policy-Permissions2 = Toestemmingen voor camera, microfoon, locatie, notificaties en automatisch afspelen configureren.
 policy-PictureInPicture = Picture-in-picture in- of uitschakelen.
 policy-PopupBlocking2 = Toestaan dat bepaalde websites pop-ups weergeven en door frames van derden worden doorgestuurd.
-policy-PopupBlocking = Toestaan dat bepaalde websites standaard pop-ups weergeven.
 policy-Preferences = De waarde voor een subset van voorkeuren instellen en vergrendelen.
 policy-PrivateBrowsingModeAvailability = Beschikbaarheid van privénavigatiemodus instellen.
 policy-PromptForDownloadLocation = Vragen waar gedownloade bestanden moeten worden opgeslagen.

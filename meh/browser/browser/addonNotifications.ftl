@@ -23,13 +23,6 @@ xpinstall-prompt-never-allow =
 xpinstall-prompt-install =
     .label = Kaka je chu'un
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = Tee tetiñu ka̱a̱ nnakasɨ chu´un software.
 xpinstall-disabled = A chu´un software ntu nune ntañu'un. Kuaxi sikune je nákajie´e tuku.
 xpinstall-disabled-button =
     .label = Naxituvi
@@ -46,9 +39,6 @@ webext-perms-update-menu-item = { $addonName } nejika chu'unu a jíía permisos
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = ¿Xina { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Xina { $name } nee { -brand-shorter-name }?
 addon-removal-button = Xita
 addon-download-verifying = Verificando
 addon-install-cancel-button =

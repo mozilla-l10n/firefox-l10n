@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = Ljep tusken apparaten mei opheljen fan l
 callout-firefox-view-tab-pickup-subtitle = Iepenje hjir fluch ljepblêden fan jo telefoan en gean fierder wêr’t jo bleaun wiene.
 callout-firefox-view-recently-closed-title = Iepenje ienfâldichwei jo krekt sluten ljepblêden
 callout-firefox-view-recently-closed-subtitle = Al jo sletten ljepblêden sille hjir op magyske wize ferskine. Nea wer soargen oer it mei fersin sluten fan in website.
-callout-firefox-view-colorways-title = Foegje wat kleur ta
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Kies it kleur dy’t jo oansprekt mei kleurstellingen. Allinnich yn { -brand-product-name }.
-callout-firefox-view-colorways-reminder-title = Untdek ús nijste kleurstellingen
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Kleur jo browser mei dizze ikoanyske tinten, ynspirearre troch ûnôfhinklike stimmen. Allinnich yn { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

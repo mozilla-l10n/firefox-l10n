@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Bekijk uw recente navigatie van vensters en apparaten
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Sluiten
-    .aria-label = Sluiten
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Zojuist
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Tabbladen ophalen
-firefoxview-tabpickup-description = Open pagina’s van andere apparaten.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% voltooid
-firefoxview-tabpickup-step-signin-header = Schakel naadloos tussen apparaten
-firefoxview-tabpickup-step-signin-description = Meld u eerst aan of maak een account aan om hier de tabbladen van uw telefoon op te halen.
-firefoxview-tabpickup-step-signin-primarybutton = Doorgaan
 firefoxview-syncedtabs-signin-header-2 = Uw { -brand-product-name } op al uw apparaten
 firefoxview-syncedtabs-signin-description-2 = Meld u aan of registreer u voor een account om op uw telefoon en andere apparaten geopende tabbladen te zien. Met een account kunt u ook uw wachtwoorden, geschiedenis en meer synchroniseren.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Van laptop naar telefoon, naadloos
 firefoxview-syncedtabs-signin-description-3 = Houd uw navigatie verbonden op verschillende apparaten – tabbladen, wachtwoorden en geschiedenis, allemaal gesynchroniseerd.
 firefoxview-syncedtabs-signin-primarybutton-2 = Aanmelden
-firefoxview-tabpickup-adddevice-header = { -brand-product-name } op uw telefoon of tablet synchroniseren
-firefoxview-tabpickup-adddevice-description = Download { -brand-product-name } voor mobiel en meld u daar aan.
-firefoxview-tabpickup-adddevice-learn-how = Meer info
-firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } voor mobiel downloaden
 firefoxview-syncedtabs-adddevice-header-2 = Pak overal tabbladen
 firefoxview-syncedtabs-adddevice-description-2 = Meld u aan bij { -brand-product-name } op uw telefoon of een andere computer om hier tabbladen te bekijken. Lees hoe u <a data-l10n-name="url">extra apparaten kunt verbinden</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = { -brand-product-name } voor mobiel proberen
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Uw tabbladen hebben gebeld. Ze staan op uw telefoon.
 firefoxview-syncedtabs-adddevice-description-3 = Scan de QR-code om { -brand-product-name } voor mobiel te downloaden en te beginnen met het synchroniseren van uw geopende tabbladen en meer. Lees hoe u <a data-l10n-name="url">extra apparaten kunt aansluiten</a>.
-firefoxview-tabpickup-synctabs-header = Tabbladsynchronisatie inschakelen
-firefoxview-tabpickup-synctabs-description = { -brand-short-name } toestaan om tabbladen tussen apparaten te delen.
-firefoxview-tabpickup-synctabs-learn-how = Meer info
 firefoxview-tabpickup-synctabs-primarybutton = Open tabbladen synchroniseren
 firefoxview-tabpickup-synctabs-primarybutton-2 = Tabbladsynchronisatie inschakelen
 firefoxview-syncedtabs-synctabs-header = Werk uw synchronisatie-instellingen bij
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Als dit is afgerond, ziet u alle ta
 firefoxview-syncedtabs-loading-header-2 = Uw tabbladen ophalen…
 firefoxview-syncedtabs-loading-description-2 = Er wordt gesynchroniseerd. Tabbladen volgen binnenkort.
 firefoxview-tabpickup-fxa-admin-disabled-header = Uw organisatie heeft synchronisatie uitgeschakeld
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kan geen tabbladen synchroniseren tussen apparaten, omdat uw beheerder synchronisatie heeft uitgeschakeld.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } kan geen tabbladen synchroniseren tussen apparaten, omdat uw organisatie synchronisatie heeft uitgeschakeld.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Tabbladsynchronisatie is uitgeschakeld
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Uw organisatie heeft deze functie geblokkeerd.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Ontgrendel tabbladen met uw hoofdwachtwoord
 firefoxview-tabpickup-password-locked-description-2 = Voor uw privacy zijn gesynchroniseerde tabbladen beschermd. Voer uw hoofdwachtwoord voor { -brand-short-name } in om tabbladen van uw andere apparaten te bekijken.
 firefoxview-tabpickup-signed-out-header = Aanmelden om opnieuw te verbinden
-firefoxview-tabpickup-signed-out-description = Meld u aan bij uw { -fxaccount-brand-name } om opnieuw te verbinden en uw tabbladen op te halen.
 firefoxview-tabpickup-signed-out-description2 = Meld u aan bij uw account om opnieuw te verbinden en uw tabbladen op te halen.
 firefoxview-tabpickup-signed-out-primarybutton = Aanmelden
 firefoxview-tabpickup-signed-out-header-2 = Meld u aan om uw tabbladen te zien
 firefoxview-tabpickup-signed-out-description-2 = Maak opnieuw verbinding om tabbladen van andere apparaten te bekijken.
-firefoxview-tabpickup-syncing = Een ogenblik, uw tabbladen worden gesynchroniseerd.
-firefoxview-mobile-promo-header = Haal tabbladen op van uw telefoon of tablet
-firefoxview-mobile-promo-description = Meld u aan bij { -brand-product-name } in iOS of Android om uw laatste mobiele tabbladen te bekijken.
-firefoxview-mobile-promo-primarybutton = { -brand-product-name } voor mobiel downloaden
-firefoxview-mobile-confirmation-header = 🎉 U kunt van start!
-firefoxview-mobile-confirmation-description = U kunt nu uw { -brand-product-name }-tabbladen van uw tablet of telefoon ophalen.
-firefoxview-closed-tabs-title = Onlangs gesloten
-firefoxview-closed-tabs-description2 = Open pagina’s die u in dit venster hebt gesloten opnieuw.
-firefoxview-closed-tabs-placeholder-header = Geen onlangs gesloten tabbladen
-firefoxview-closed-tabs-placeholder-body = Wanneer u een tabblad in dit venster sluit, kunt u het hier ophalen.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = { $tabTitle } uit de lijst verwijderen
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Laatst actief
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = { $targetURI } openen in een nieuw tabblad
-firefoxview-try-colorways-button = Kleurstellingen proberen
-firefoxview-change-colorway-button = Kleurstelling wijzigen
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Nog niets te zien
-firefoxview-synced-tabs-placeholder-body = De volgende keer dat u op een ander apparaat een pagina opent in { -brand-product-name }, kunt u deze hier als bij toverslag pakken.
 firefoxview-collapse-button-show =
     .title = Lijst tonen
 firefoxview-collapse-button-hide =

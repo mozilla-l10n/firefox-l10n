@@ -2,49 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } පෞද්. පිරික්සුම
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } පෞද්. පිරික්සුම
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — පෞද්. පිරික්සුම
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — පෞද්. පිරික්සුම
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } පෞද්. පිරික්සුම
@@ -79,8 +36,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = මාර්ගඅපගත ආචයන පණිවිඩ මඬල අරින්න
 urlbar-password-notification-anchor =
     .tooltiptext = සුරැකි මුරපද පණිවිඩ මඬල අරින්න
-urlbar-plugins-notification-anchor =
-    .tooltiptext = පේනු භාවිතය කළමනාකරණය
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = අඩවිය සමඟ රූගතය හා/හෝ ශබ්දවාහිනිය බෙදා ගැනීම කළමනාකරණය
 # "Speakers" is used in a general sense that might include headphones or
@@ -93,15 +48,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = අනවරත ආචයනයේ දත්ත ගබඩා කරන්න
 urlbar-addons-notification-anchor =
     .tooltiptext = එක්කහු ස්ථාපන පණිවිඩ මඬල අරින්න
-urlbar-tip-help-icon =
-    .title = උදව් ගන්න
 urlbar-search-tips-confirm = හරි, තේරුණා
 urlbar-search-tips-confirm-short = තේරුණා
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = ඉඟිය:
 urlbar-result-menu-button =
     .title = වට්ටෝරුව අරින්න
 urlbar-result-menu-button-feedback = ප්‍රතිපෝෂණය
@@ -156,8 +104,6 @@ urlbar-screen-blocked =
     .tooltiptext = ඔබ මෙම අඩවිය ඔබගේ තිරය බෙදාගැනීම අවහිර කර ඇත.
 urlbar-persistent-storage-blocked =
     .tooltiptext = ඔබ මෙම අඩවියට අනවරත ආචයනය අවහිර කර ඇත.
-urlbar-popup-blocked =
-    .tooltiptext = ඔබ මෙම අඩවිය සඳහා උත්පතන වළක්වා ඇත.
 urlbar-autoplay-media-blocked =
     .tooltiptext = ඔබ මෙම අඩවිය සඳහා ශබ්දය සහිත ස්වයං වාදන මාධ්‍ය අවහිර කර ඇත.
 urlbar-midi-blocked =
@@ -254,28 +200,19 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = එක්කහු බලන්න
-quickactions-cmd-addons2 = එක්කහු
 # Opens the bookmarks library window
 quickactions-bookmarks2 = පොත්යොමු කළමනාකරණය
 quickactions-cmd-bookmarks = පොත්යොමු
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = ඉතිහාසය මකන්න
-quickactions-cmd-clearhistory = ඉතිහාසය මකන්න
 # Opens about:downloads page
 quickactions-downloads2 = බාගැනීම් බලන්න
 quickactions-cmd-downloads = බාගැනීම්
 # Opens about:addons page in the extensions section
 quickactions-extensions = දිගු කළමනාකරණය
-quickactions-cmd-extensions = දිගු
 # Opens the devtools web inspector
 quickactions-inspector2 = සංවර්ධක මෙවලම් අරින්න
-quickactions-cmd-inspector = සෝදිසිකරු, සං.මෙවලම්
 # Opens about:logins
 quickactions-logins2 = මුරපද කළමනාකරණය
 quickactions-cmd-logins = පිවිසුම්, මුරපද
-# Opens about:addons page in the plugins section
-quickactions-plugins = පේනු කළමණාකරණය
-quickactions-cmd-plugins = පේනු
 # Opens the print dialog
 quickactions-print2 = මුද්‍රණ පිටුව
 quickactions-cmd-print = මුද්‍රණය
@@ -292,19 +229,15 @@ quickactions-restart = { -brand-short-name } යළි අරඹන්න
 quickactions-cmd-restart = යළි අරඹන්න
 # Opens the screenshot tool
 quickactions-screenshot3 = තිර සේයාවක් ගන්න
-quickactions-cmd-screenshot = තිරසේයාව
 # Opens about:preferences
 quickactions-settings2 = සැකසුම් කළමනාකරණය
-quickactions-cmd-settings = සැකසුම්, අභිප්‍රේත, විකල්ප
 # Opens about:addons page in the themes section
 quickactions-themes = තේමා කළමනාකරණය
-quickactions-cmd-themes = තේමා
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } යාවත්කාල
 quickactions-cmd-update = යාවත්කාල
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = පිටුවේ මූලාශ්‍රය බලන්න
-quickactions-cmd-viewsource = මූලාශ්‍රය බලන්න, මූලාශ්‍රය
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = ඉක්මන් ක්‍රියාමාර්ග ගැන තව දැනගන්න
@@ -357,9 +290,7 @@ identity-custom-root = සම්බන්ධතාව සත්‍යාපන�
 identity-passive-loaded = මෙම පිටුවේ කොටස් ආරක්‍ෂිත නොවේ (රූප වැනි).
 identity-active-loaded = ඔබ මෙම පිටුව සඳහා රැකවරණය අබල කර ඇත.
 identity-weak-encryption = මෙම පිටුව දුර්වල සංකේතනයක් භාවිතා කරයි.
-identity-insecure-login-forms = මෙම පිටුවට යොදන පිවිසුම් තොරතුරු බිඳ හෙළීමකට ලක් විය හැකිය.
 identity-https-only-connection-upgraded = (HTTPS වෙත උත්ශ්‍රේණියි)
-identity-https-only-label = HTTPS-පමණි ප්‍රකාරය
 identity-https-only-label2 = මෙම අඩවිය ආරක්‍ෂිත සම්බන්‍ධතාවකට ස්වයංක්‍රියව උත්ශ්‍රේණි කරන්න
 identity-https-only-dropdown-on =
     .label = සක්‍රිය
@@ -382,7 +313,6 @@ identity-remove-cert-exception =
     .label = හැරදැමීම ඉවත් කරන්න
     .accesskey = R
 identity-description-insecure = මෙම අඩවිය වෙත ඔබගේ සම්බන්ධතාව පෞද්ගලික නොවේ. යොමු කරන තොරතුරු අන් අය බලනු ඇත (මුරපද, පණිවිඩ, ණයපත්, ආදිය).
-identity-description-insecure-login-forms = මෙම පිටුවට යොදන පිවිසුම් තොරතුරු ආරක්‍ෂිත නොවන නිසා බිඳ හෙළීමකට ලක් විය හැකිය.
 identity-description-weak-cipher-intro = ඔබගේ සම්බන්ධතාව මෙම අඩවිය වෙත දුර්වල සංකේතනයක් භාවිතා කරයි, එය පෞද්ගලික නොවේ.
 identity-description-weak-cipher-risk = අන් අයට ඔබගේ තොරතුරු බැලීමට හෝ අඩවියේ හැසිරීම මෙහෙයවීමට හැකිය.
 identity-description-active-blocked2 = { -brand-short-name } මෙම පිටුවේ ආරක්‍ෂිත නොවන කොටස් අවහිර කර ඇත.
@@ -391,12 +321,6 @@ identity-description-passive-loaded-insecure2 = මෙම අඩවියේ ආ
 identity-description-passive-loaded-mixed2 = { -brand-short-name } යම් කොටස් අවහිර කළ ද තවමත් ආරක්‍ෂිත නොවන කොටස් අඩංගු විය හැකිය (රූප වැනි) .
 identity-description-active-loaded = මෙම අඩවියේ ආරක්‍ෂිත නොවන (අත්පත් වැනි) අන්තර්ගතය අඩංගු වේ. ඔබගේ සම්බන්‍ධතාව පෞද්ගලික නොවේ.
 identity-description-active-loaded-insecure = මෙම අඩවියට ඔබ යොමු කරන තොරතුරු අන් අය බලනු ඇත (මුරපද, පණිවිඩ, ණයපත් ආදිය).
-identity-disable-mixed-content-blocking =
-    .label = දැනට රැකවරණය අබල කරන්න
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = රැකවරණය සබල කරන්න
-    .accesskey = E
 identity-more-info-link-text =
     .label = තවත් තොරතුරු
 
@@ -410,37 +334,6 @@ browser-window-restore-down-button =
     .tooltiptext = හකුළන්න
 browser-window-close-button =
     .tooltiptext = වසන්න
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = වාදනය වෙමින්
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = නිහඬයි
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = ස්වයං වාදනය අවහිරයි
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = ඡායාරූපයෙන්-ඡායාරූපය
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] පටිත්ත නිහඬව
-       *[other] පටිති { $count } ක් නිහඬව
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] පටිත්ත නොනිහඬව
-       *[other] පටිති { $count } ක් නොනිහඬව
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] පටිත්ත වාදනය
-       *[other] පටිති { $count } ක් වාදනය
-    }
 
 ## Bookmarks toolbar items
 
@@ -536,8 +429,6 @@ urlbar-extension =
     .value = දිගුව:
 urlbar-go-button2 =
     .title = ස්ථාන තීරුවේ ලිපිනය වෙත යන්න
-urlbar-go-button =
-    .tooltiptext = ස්ථාන තීරුවේ ලිපිනය වෙත යන්න
 urlbar-page-action-button =
     .tooltiptext = පිටුවේ ක්‍රියාමාර්ග
 
@@ -583,25 +474,12 @@ urlbar-result-action-tabtosearch-web = ලිපින තීරුවෙන් 
 urlbar-result-action-tabtosearch-other-engine = ලිපින තීරුවෙන් සෘජුව { $engine } හි සොයන්න
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = පිටපතක්
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
 urlbar-result-search-with = { $engine } සමඟ සොයන්න
-urlbar-searchmode-bookmarks =
-    .label = පොත්යොමු
-urlbar-searchmode-tabs =
-    .label = පටිති
-urlbar-searchmode-history =
-    .label = ඉතිහාසය
-urlbar-searchmode-actions =
-    .label = ක්‍රියාමාර්ග
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -709,12 +587,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] පොත්යොමු මෙවලම්තීරුව සඟවන්න
            *[other] පොත්යොමු මෙවලම්තීරුව පෙන්වන්න
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] මෙවලම් තීරුවෙන් පොත්යොමු වට්ටෝරුව ඉවතලන්න
-           *[other] මෙවලම් තීරුවට පොත්යොමු වට්ටෝරුව එක් කරන්න
-        }
 
 ##
 
@@ -745,14 +617,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = පොත්යොමු
-library-recent-activity-title =
-    .value = මෑත ක්‍රියාකාරකම
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = { -pocket-brand-name } වෙත සුරකින්න
-    .tooltiptext = { -pocket-brand-name } වෙත සුරකින්න
 
 ## Repair text encoding toolbar button
 
@@ -806,8 +670,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = පරිශ්‍රීලක නාමය
-panel-save-update-password = මුරපදය
 panel-save-update-username-2 =
     .label = පරිශ්‍රීලක නාමය
 panel-save-update-password-2 =
@@ -821,25 +683,6 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = වසන්න
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = { $uriHost } උත්පතනවලට ඉඩදෙන්න
-    .accesskey = p
-popups-infobar-block =
-    .label = { $uriHost } උත්පතන අවහිර කරන්න
-    .accesskey = p
-
-##
-
-popups-infobar-dont-show-message =
-    .label = උත්පතන අවහිර විට මෙම පණිවිඩය නොපෙන්වන්න
-    .accesskey = D
-edit-popup-settings =
-    .label = උත්පතන සැකසුම් කළමනාකරණය…
-    .accesskey = M
-
 ##
 
 # This string is a spoken label that should not include
@@ -849,8 +692,6 @@ navbar-accessible =
     .aria-label = යාත්‍රණය
 navbar-downloads =
     .label = බාගැනීම්
-navbar-overflow =
-    .tooltiptext = තවත් මෙවලම්...
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -920,16 +761,12 @@ unified-extensions-button-quarantined =
 
 ## Private browsing reset button
 
-reset-pbm-panel-description = පෞද්ගලික පටිති සියල්ල වසා ඉතිහාසය, දත්තකඩ සහ අනෙකුත් සියලුම අඩවි දත්ත මකන්න.
 reset-pbm-panel-always-ask-checkbox =
     .label = සැමවිට අසන්න
     .accesskey = A
 reset-pbm-panel-cancel-button =
     .label = අවලංගු
     .accesskey = C
-reset-pbm-panel-confirm-button =
-    .label = වාරයේ දත්ත මකන්න
-    .accesskey = D
 reset-pbm-panel-complete = පෞද්. වාරයේ දත්ත මැකිණි
 
 ## Autorefresh blocker

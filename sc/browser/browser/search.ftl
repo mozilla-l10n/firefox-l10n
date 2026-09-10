@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Su motore de chirca predefinidu tuo est cambiadu.</strong> { $oldEngine } no est prus a disponimentu comente motore de chirca predefinidu in { -brand-short-name }. { $newEngine } est immoe su motore de chirca predefinidu tuo. Pro torrare a cambiare su motore de chirca predefinidu tuo, bae a is cunfiguratziones. <label data-l10n-name="remove-search-engine-article">Àteras informatziones</label>
 removed-search-engine-message2 = <strong>Su motore de chirca predefinidu tuo est cambiadu.</strong> { $oldEngine } no est prus a disponimentu comente motore de chirca predefinidu in { -brand-short-name }. { $newEngine } est immoe su motore de chirca predefinidu tuo. Pro torrare a cambiare su motore de chirca predefinidu tuo, bae a is cunfiguratziones.
 remove-search-engine-button = Andat bene
 
@@ -52,11 +51,11 @@ install-search-engine-no = Nono
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Agiunghe unu motore de chirca
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Modìfica su motore de chirca
     .style = min-width: 32em;
+    .title = Modìfica su motore de chirca
 add-engine-button = Agiunghe unu motore personalizadu
 add-engine-name = Nòmine de su motore de chirca
 add-engine-url2 = URL cun %s imbetzes de su tèrmine de chirca
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Proa a inclùdere %s imbetzes de su tèrmin
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Agiunghe su motore
-    .buttonaccesskeyaccept = u
     .buttonlabelextra1 = Avantzadu
+    .buttonaccesskeyaccept = u
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Sarva su motore
-    .buttonaccesskeyaccept = S
     .buttonlabelextra1 = Avantzadu
+    .buttonaccesskeyaccept = S

@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Cunfiguratzione de sa connessione
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Cunfiguratzione de sa connessione
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Torra a carrigare
     .accesskey = T
-connection-proxy-autologin =
-    .label = Non rechedas s'autenticatzione si sa crae est sarvada
-    .accesskey = i
-    .tooltip = Custu sèberu t'autènticat in automàticu in is serbidores intermediàrios de is chi as sarvadu is credentziales. Si s'autenticatzione andat male, s'ant a rechèdere is credentziales.
 connection-proxy-autologin-checkbox =
     .label = Non rechedas s'autenticatzione si sa crae est sarvada
-    .accesskey = i
     .tooltiptext = Custu sèberu t'autènticat in automàticu in is serbidores intermediàrios de is chi as sarvadu is credentziales. Si s'autenticatzione andat male, s'ant a rechèdere is credentziales.
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = Serbidore intermediàriu DNS in s’impreu de SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Imprea s'URL predefinidu pro risòlvere rechestas DNS subra HTTPS
 connection-dns-over-https-url-custom =
     .label = Personalizadu
-    .accesskey = P
     .tooltiptext = Inserta s'URL preferidu tuo pro risòlvere sa rechesta DNS subra HTTPS
-connection-dns-over-https-custom-label = Personalizadu
+    .accesskey = P

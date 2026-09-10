@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Нов раздел
-    .accesskey = д
 reload-tab =
     .label = Презареждане на раздела
     .accesskey = П
@@ -98,10 +95,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Нова група
     .accesskey = г
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -123,13 +116,6 @@ tab-context-move-tabs =
            *[other] Преместване на раздели
         }
     .accesskey = П
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Изпращане на раздела до устройство
-           *[other] Изпращане на { $tabCount } раздела до устройство
-        }
-    .accesskey = у
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

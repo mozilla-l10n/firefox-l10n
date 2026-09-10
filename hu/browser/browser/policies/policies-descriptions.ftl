@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Akadályozza meg, hogy az alapértelmezett b
 policy-DisableDeveloperTools = A fejlesztői eszközökhöz hozzáférés blokkolása.
 policy-DisableEncryptedClientHello = Az Encrypted Client Hello (ECH) TLS funkció használatának letiltása.
 policy-DisableFeedbackCommands = A visszajelzés küldési parancsok letiltása a Súgó menüben (Visszajelzés beküldése és Félrevezető oldal jelentése).
-policy-DisableFirefoxAccounts = A { -fxaccount-brand-name } alapú szolgáltatások letiltása, beleértve a Syncet.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Fiókalapú szolgáltatások, köztük a szinkronizálás letiltása.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Ne jegyezze meg a keresőmezők és űrlapmezők el�
 policy-DisableLaunchOnLogin = A { -brand-short-name } automatikus elindulásának megakadályozása, amikor a felhasználó bejelentkezik.
 policy-DisablePrimaryPasswordCreation = Ha igaz, akkor nem hozható létre elsődleges jelszó.
 policy-DisablePasswordReveal = Ne engedje, hogy a mentet bejelentkezésekben szereplő jelszavak megjelenítésre kerüljenek.
-policy-DisablePocket2 = A weboldalak { -pocket-brand-name }be mentését biztosító funkció letiltása.
 policy-DisablePrivateBrowsing = Privát böngészés letiltása.
 policy-DisableProfileImport = A más böngészőből történő adatimportálás parancsok letiltása.
 policy-DisableProfileRefresh = A { -brand-short-name } felfrissítése gomb letiltása az about:support oldalon.
@@ -132,7 +130,6 @@ policy-PDFjs = A PDF.js-nek, a { -brand-short-name } beépített PDF-megjelenít
 policy-Permissions2 = A kamera, mikrofon, helyadatok, értesítések és automatikus lejátszás jogosultságának beállítása.
 policy-PictureInPicture = Kép a képben engedélyezése vagy letiltása.
 policy-PopupBlocking2 = Engedélyezés, hogy bizonyos weboldalak felugró ablakokat jelenítsenek meg, és harmadik féltől származó keretek átirányítsák őket.
-policy-PopupBlocking = Bizonyos weboldalak alapértelmezetten jeleníthessenek meg felugró ablakokat.
 policy-Preferences = Értékek beállítása és zárolása a beállítások egy részhalmazánál.
 policy-PrivateBrowsingModeAvailability = A privát böngészési mód elérhetőségének beállítása.
 policy-PromptForDownloadLocation = Kérdezze meg, hogy hová legyenek letöltve a fájlok.

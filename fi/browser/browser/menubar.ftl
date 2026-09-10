@@ -265,8 +265,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Profiilit
 menu-profiles-manage-profiles =
     .label = Hallitse profiileja
 menu-profiles-new-profile =
@@ -290,9 +288,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Laajennukset ja teemat
     .accesskey = E
-menu-tools-addons-and-themes =
-    .label = Lisäosat ja teemat
-    .accesskey = L
 menu-tools-fxa-sign-in2 =
     .label = Kirjaudu sisään
     .accesskey = K
@@ -349,8 +344,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Lisää vianmääritystietoja
     .accesskey = L
-menu-help-report-site-issue =
-    .label = Ilmoita sivuston ongelmasta…
 menu-help-share-ideas =
     .label = Jaa ideoita ja palautetta…
     .accesskey = d

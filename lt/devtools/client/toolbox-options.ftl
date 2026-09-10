@@ -92,8 +92,6 @@ options-context-advanced-settings = Sudėtingesnės nuostatos
 options-disable-http-cache-label = Išjungti HTTP podėlį (kol atverta įrankinė)
 options-disable-http-cache-tooltip =
     .title = Įjungę šią nuostatą, išjungsite HTTP podėlį visoms kortelėms, kurios kuri atvirą įrankinę. Aptarnavimo scenarijams ši nuostata įtakos neturi.
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Išjungti „JavaScript“ *
 options-disable-javascript-tooltip =
     .title = Pažymėję šią parinktį, išjungsite „JavaScript“ vykdymą šioje kortelėje. Užvėrus kortelę arba įrankinę, ši nuostata bus užmiršta.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -112,8 +110,6 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Įgalinti ištekliaus žemėlapius
 options-source-maps-tooltip =
     .title = Įjungus šią parinktį, ištekliai bus atvaizduojami priemonėse.
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Galioja tik šią sesiją, įkelia tinklalapį iš naujo
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

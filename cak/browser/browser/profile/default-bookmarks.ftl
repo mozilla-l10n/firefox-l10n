@@ -2,17 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-# This file intentionally uses hard-coded brand names instead of Fluent terms.
-# This approach minimizes issues across multiple release channels and rebranded
-# versions.
-
 default-bookmarks-title = Taq yaketal
 default-bookmarks-heading = Taq yaketal
-default-bookmarks-toolbarfolder = Rukajtz'ik taq samajib'äl pa ri ruyakwuj taq yaketal
-default-bookmarks-toolbarfolder-description = Ke'atz'aqatisaj ri taq yaketal pa re yakwuj re' richin ye'atz'ët pa ri rukajtz'ik taq samajib'äl richin taq yaketal
-# link title for https://www.mozilla.org/firefox/central/
-default-bookmarks-getting-started = Rutikirisaxik
 # Firefox links folder name
 default-bookmarks-firefox-heading = Mozilla Firefox
 # link title for https://www.mozilla.org/firefox/help/

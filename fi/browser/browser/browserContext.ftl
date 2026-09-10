@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Siirry sivu taaksepäin ({ $shortcut })
     .aria-label = Edellinen
+    .tooltiptext = Siirry sivu taaksepäin ({ $shortcut })
     .accesskey = E
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Siirry sivu eteenpäin ({ $shortcut })
     .aria-label = Seuraava
+    .tooltiptext = Siirry sivu eteenpäin ({ $shortcut })
     .accesskey = e
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name(capitalization: "sentence") }
-    .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Lisää sivu kirjanmerkkeihin…
-    .accesskey = L
     .tooltiptext = Lisää sivu kirjanmerkkeihin
+    .accesskey = L
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Lisää sivu kirjanmerkkeihin…
-    .accesskey = L
     .tooltiptext = Lisää sivu kirjanmerkkeihin ({ $shortcut })
+    .accesskey = L
 main-context-menu-edit-bookmark =
     .aria-label = Muokkaa kirjanmerkkiä…
-    .accesskey = m
     .tooltiptext = Muokkaa kirjanmerkkiä
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Muokkaa kirjanmerkkiä…
-    .accesskey = m
     .tooltiptext = Muokkaa kirjanmerkkiä ({ $shortcut })
+    .accesskey = m
 main-context-menu-open-link =
     .label = Avaa
     .accesskey = A
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Tallenna kohde levylle…
     .accesskey = T
-main-context-menu-save-link-to-pocket =
-    .label = Tallenna linkki { -pocket-brand-name }-palveluun
-    .accesskey = k
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Ota synkronointi käytt
 main-context-menu-send-to-mobile-connect-phone3 = Yhdistä laite lähettääksesi välilehtiä
 main-context-menu-send-to-mobile-connect-phone-from-link = Yhdistä laite lähettääksesi linkin
 main-context-menu-send-to-mobile-connect-phone-from-page = Yhdistä laite lähettääksesi sivun
-main-context-menu-save-to-pocket =
-    .label = Tallenna sivu { -pocket-brand-name }-palveluun
-    .accesskey = c
-main-context-menu-send-to-device =
-    .label = Lähetä sivu laitteeseen
-    .accesskey = L
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Käytä tallennettua kirjautumistietoa
-    .accesskey = k
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Käytä tallennettua salasanaa
     .accesskey = s
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Käytä { -relay-brand-short-name }-sähköpostimaskia
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = Ehdota vahvaa salasanaa…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = Hallitse kirjautumistietoja
-    .accesskey = H
 main-context-menu-manage-passwords =
     .label = Hallitse salasanoja
     .accesskey = H
-main-context-menu-keyword =
-    .label = Lisää pikakomento tälle haulle…
-    .accesskey = L
 main-context-menu-add-engine =
     .label = Lisää hakukone
     .accesskey = s
@@ -391,9 +364,6 @@ main-context-menu-view-selection-source =
     .label = Näytä valinnan lähdekoodi
     .accesskey = n
 main-context-menu-take-screenshot =
-    .label = Ota kuvakaappaus
-    .accesskey = O
-main-context-menu-take-frame-screenshot =
     .label = Ota kuvakaappaus
     .accesskey = O
 main-context-menu-view-page-source =

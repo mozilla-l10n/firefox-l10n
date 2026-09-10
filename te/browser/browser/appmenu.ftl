@@ -27,8 +27,6 @@ appmenuitem-extensions-and-themes =
     .label = పొడగింతలు, అలంకారాలు
 appmenuitem-extensions =
     .label = పొడగింతలు
-appmenuitem-addons-and-themes =
-    .label = పొడగింతలు, అలంకారాలు
 appmenuitem-print =
     .label = ముద్రించు…
 appmenuitem-find-in-page =
@@ -91,20 +89,10 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = మీ ఇతర పరికరాల నుండి ట్యాబుల జాబితాను చూడండి.
 appmenu-remote-tabs-unverified = మీ ఖాతాను తనిఖీ చెయ్యాలి.
 appmenuitem-fxa-manage-account = ఖాతా నిర్వహణ
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = ఖాతా
 appmenu-fxa-signed-in-label = ప్రవేశించు
 appmenuitem-save-page =
     .label = పేజీని ఇలా భద్రపరచు…
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = కొత్తవి ఏమిటి
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = కొత్త సౌలభ్యాల గురించి తెలియజేయి
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -175,8 +163,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = మరింత సమస్యాపరిష్కారపు సమాచారం
     .accesskey = T
-appmenu-help-report-site-issue =
-    .label = సైటులోని సమస్యను నివేదించండి…
 appmenu-help-share-ideas =
     .label = ఆలోచనలను, అభిప్రాయాలను పంచుకోండి…
     .accesskey = S
@@ -216,10 +202,8 @@ appmenuitem-sign-in-account = మీ ఖాతా లోనికి ప్ర�
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description = మీ ఆన్‌లైన్ కార్యాచరణను సంరక్షించుకోండి
 appmenu-services-header = నా సేవలు
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = మొజిల్లా వారి ఇతర సంరక్షణ పనిముట్లను ప్రయత్నించండి:
-appmenu-other-protection-header = { -vendor-short-name } వారి ఇతర రక్షణ పనిముట్లని ప్రయత్నించండి:

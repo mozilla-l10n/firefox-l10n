@@ -32,10 +32,6 @@ security-software-name = Naam
 security-software-antivirus = Antivirus
 security-software-antispyware = Antispyware
 security-software-firewall = Firewall
-features-title = { -brand-short-name }-functies
-features-name = Naam
-features-version = Versie
-features-id = ID
 processes-title = Externe processen
 processes-type = Type
 processes-count = Aantal
@@ -61,7 +57,6 @@ app-basics-profile-dir =
         [linux] Profielmap
        *[other] Profielmap
     }
-app-basics-enabled-plugins = Ingeschakelde plug-ins
 app-basics-build-config = Buildconfiguratie
 app-basics-user-agent = Useragent
 app-basics-os = OS
@@ -99,9 +94,6 @@ show-dir-label =
 environment-variables-title = Omgevingsvariabelen
 environment-variables-name = Naam
 environment-variables-value = Waarde
-experimental-features-title = Experimentele functies
-experimental-features-name = Naam
-experimental-features-value = Waarde
 modified-key-prefs-title = Belangrijke aangepaste voorkeuren
 modified-prefs-name = Naam
 modified-prefs-value = Waarde
@@ -214,9 +206,6 @@ media-cdm-capabilities = Mogelijkheden
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Schone start
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = HDCP 2.2-compatibel
 
 ##
 
@@ -388,8 +377,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Uitgeschakeld door experiment
-fission-status-experiment-treatment = Ingeschakeld door experiment
 fission-status-disabled-by-e10s-env = Uitgeschakeld door omgeving
 fission-status-enabled-by-env = Ingeschakeld door omgeving
 fission-status-disabled-by-env = Uitgeschakeld door omgeving
@@ -398,7 +385,6 @@ fission-status-disabled-by-default = Standaard uitgeschakeld
 fission-status-enabled-by-user-pref = Ingeschakeld door gebruiker
 fission-status-disabled-by-user-pref = Uitgeschakeld door gebruiker
 fission-status-disabled-by-e10s-other = E10s uitgeschakeld
-fission-status-enabled-by-rollout = Ingeschakeld door gefaseerde uitrol
 async-pan-zoom = Asynchroon pannen/zoomen
 apz-none = geen
 wheel-enabled = wielinvoer ingeschakeld

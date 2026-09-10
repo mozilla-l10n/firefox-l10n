@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Saved Addresses
 autofill-manage-addresses-list-header = Addresses
-autofill-manage-credit-cards-title = Saved Credit Cairds
-autofill-manage-credit-cards-list-header = Credit Cairds
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Remuive
@@ -21,9 +19,6 @@ autofill-manage-edit-button = Edit…
 
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Edit Address
-autofill-address-given-name = First Nemme
-autofill-address-additional-name = Middle Nemme
-autofill-address-family-name = Last Nemme
 autofill-address-organization = Organisation
 autofill-address-street = Street Address
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
@@ -69,26 +64,12 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Add New Addresses
 autofill-address-country = Kintra or Region
 autofill-address-tel = Phone
 autofill-address-email = Email
 autofill-cancel-button = Stap
 autofill-save-button = Save
 autofill-country-warning-message = Form Autofeenish is available anely fur certain kintras the noo.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Eik On New Credit Caird
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Edit Credit Caird
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] kythe credit caird information
-        [windows] { -brand-short-name } is tryin tae kythe credit caird information. Confirm ingang tae this Windows accoont ablow.
-       *[other] { -brand-short-name } is tryin tae kythe credit caird information.
-    }
 autofill-card-number-2 =
     .label = Caird Nummer
 autofill-card-number = Caird Nummer
@@ -102,15 +83,3 @@ autofill-card-expires-month = Exp. Month
 autofill-card-expires-year = Exp. Year
 autofill-card-billing-address = Billin Address
 autofill-card-network = Caird Type
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = Nen ngec ikom kakube
 
@@ -32,23 +27,14 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Yab dirica me kwena pi kan mape iwiyamo
 urlbar-password-notification-anchor =
     .tooltiptext = Yab dirica me kwena pi gwoko mung me donyo
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Lo tic ki larwak
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Lo nywako lamak cal ki/onyo mikropon mamegi ki kakube
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Yab dirica me tuko pire kene
 urlbar-addons-notification-anchor =
     .tooltiptext = Yab dirica me kwena pi keto med-ikome
-urlbar-tip-help-icon =
-    .title = Nong kony
 urlbar-search-tips-confirm = Aya, Aniang
 urlbar-search-tips-confirm-short = Aniang!
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Ngec:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -146,9 +132,6 @@ search-one-offs-add-engine-menu =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action. English commas should be used, i.e. ,
 
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Jwa gin mukato
-quickactions-cmd-clearhistory = jwa gin mukato
 # Restarts the browser
 quickactions-restart = Nwo cako { -brand-short-name }
 quickactions-cmd-restart = nwo cako
@@ -195,7 +178,6 @@ identity-custom-root = Kimoko kube ki lami catibiket ma Mozilla pe ngeyo.
 identity-passive-loaded = But potbuk man pe tye ki ber bedo (calo cal).
 identity-active-loaded = I juko gwokke woko ki i potbuk man.
 identity-weak-encryption = Potbuk man tiyo ki loko ngec i kod ma goro.
-identity-insecure-login-forms = Donyo iyie ma kiketo gi i potbuk man twero bedo ki goro.
 identity-https-only-dropdown-on =
     .label = Tye
 identity-https-only-dropdown-off =
@@ -213,7 +195,6 @@ identity-remove-cert-exception =
     .label = Kwany ma kiweko woko
     .accesskey = K
 identity-description-insecure = Kube ni ki kakube man pe tye i mung. Jo mukene twero neno ngec ma i cwalo (calo mung me donyo, kwena, ka me wil, ki mukene).
-identity-description-insecure-login-forms = Ngec me donyo iye ma i keto i pot buk man pe ki ber bedo kadong ki romo libo ne.
 identity-description-weak-cipher-intro = Kube ni ki kakube man tiyo ki loko ngec i kod ma goro ki peke i mung.
 identity-description-weak-cipher-risk = Jo mukene twero neno ngec mamegi onyo loko time pa kakube.
 identity-description-active-blocked2 = { -brand-short-name } ogengo but potbuk man ma pe tye ki ber bedo.
@@ -222,12 +203,6 @@ identity-description-passive-loaded-insecure2 = Kakube man tye ki jami mogo ma p
 identity-description-passive-loaded-mixed2 = Kadi bed { -brand-short-name } ogengo jami mogo, pud tye jami i potbuk man ma pe tye ki ber bedo (calo cal).
 identity-description-active-loaded = Kakube man tye ki jami ma pe tye ki ber bedo (calo coc) ki kube mamegi iye pe tye i mung.
 identity-description-active-loaded-insecure = Jo mukene twero neno ngec ma i nywako ki kakube man (calo mung me donyo, kwena, ka me wil, ki mukene).
-identity-disable-mixed-content-blocking =
-    .label = Juk gwoke pi kombedi
-    .accesskey = J
-identity-enable-mixed-content-blocking =
-    .label = Cak gwoke
-    .accesskey = C
 identity-more-info-link-text =
     .label = Ngec mapol
 
@@ -270,8 +245,6 @@ urlbar-extension =
     .value = Lamed:
 urlbar-go-button2 =
     .title = Cit i kanonge ma i lanyut me gintic kabedo
-urlbar-go-button =
-    .tooltiptext = Cit i kanonge ma i lanyut me gintic kabedo
 urlbar-page-action-button =
     .tooltiptext = Jami atima me potbuk
 
@@ -306,20 +279,9 @@ urlbar-result-action-before-tabtosearch-web = Dii Dirica matidi me yenyo ki { $e
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-before-tabtosearch-other = Dii Dirica matidi me yenyo { $engine }
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
-urlbar-searchmode-bookmarks =
-    .label = Alama buk
-urlbar-searchmode-tabs =
-    .label = Dirica matino
-urlbar-searchmode-history =
-    .label = Gin mukato
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -395,12 +357,6 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Kan gitic me alamabuk
            *[other] Nen gintic alama buk
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Kwany jami ayera me alamabuk ki i Gitic
-           *[other] Med jami ayera me alamabuk ii Gitic
-        }
 
 ##
 
@@ -426,12 +382,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Alamabuk
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Gwok i { -pocket-brand-name }
-    .tooltiptext = Gwok i { -pocket-brand-name }
 
 ##
 
@@ -472,28 +422,10 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = Lor
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = Ye pye-malo pi { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Geng pye-malo pi { $uriHost }
-    .accesskey = p
-
-##
-
-popups-infobar-dont-show-message =
-    .label = Pe inyut kwena man kace kigengo pye-malo woko
-    .accesskey = D
-
 ##
 
 navbar-downloads =
     .label = Gam
-navbar-overflow =
-    .tooltiptext = Jami tic mukene…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

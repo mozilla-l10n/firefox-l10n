@@ -28,7 +28,6 @@ webrtc-sharing-menu =
 
 ##
 
-webrtc-share-screen-learn-more = Learn More
 webrtc-share-entire-screen = Entire screen
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).

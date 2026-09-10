@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Ягон дарбаргиранда нест
-    .accesskey = N
 user-context-manage-containers =
     .label = Идоракунии дарбаргирандаҳо
     .accesskey = И

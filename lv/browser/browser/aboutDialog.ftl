@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Lejupielādē atjauninājumu — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Lejupielādē atjauninājumu — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Lejupielādē atjauninājumu — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Uzstāda atjauninājumu…
 update-failed = Atjaunināšana neizdevās. <label data-l10n-name="failed-link">Lejupielādējiet jaunāko versiju</label>
 update-failed-main = Atjaunināšana neizdevās. <a data-l10n-name="failed-link-main">Lejupielādējiet jaunāko versiju</a>
-update-adminDisabled = Sistēmas administrators ir izslēdzis atjaunināšanu
 update-policy-disabled = Jūsu organizācija ir izslēgusi atjaunināšanu
 settings-update-policy-disabled =
     .label = Jūsu organizācija ir izslēgusi atjaunināšanu
@@ -72,8 +70,6 @@ helpus-referrals2 = Vēlies palīdzēt? <label data-l10n-name="helpus-donateLink
 bottomLinks-license = Licencēšanas informācija
 bottom-links-terms = Lietošanas noteikumi
 bottom-links-privacy = Privātuma paziņojums
-bottomLinks-rights = Galalietotāja tiesības
-bottomLinks-privacy = Privātuma politika
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

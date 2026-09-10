@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = Bydd { -brand-short-name } yn agor i'ch proffil ddefnyddiwyd yn fwyaf diweddar.
 profile-window-create-profile = Creu proffil
 profile-card-edit-button =
-    .title = Golygu proffil
     .aria-label = Golygu proffil
+    .title = Golygu proffil
 profile-card-delete-button =
-    .title = Dileu proffil
     .aria-label = Dileu proffil
+    .title = Dileu proffil
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Agor { $profileName }
     .aria-label = Agor { $profileName }
+    .title = Agor { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Proffil { $number }
@@ -83,9 +83,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Dileu proffil { $profilename }
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = Dileu proffil { $profilename }?
 delete-profile-description = Bydd { -brand-short-name } yn dileu'r data canlynol o'r ddyfais hon yn barhaol:
 # Open is an adjective, as in "browser windows currently open".
@@ -112,28 +109,10 @@ delete-profile-confirm = Dileu
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Golau
-# The default dark theme
-profiles-dark-theme = Tywyll
 # The default system theme
 profiles-system-theme = System
 profiles-system-theme-title =
     .title = Defnyddio thema'r system
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = Melyn llachar
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = Lafant golau
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = Gwyrdd mintys
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = Pinc magnolia
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = Cefnfor glas
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = Coch brics
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = Gwyrdd mwsogl
 profiles-gray-theme = Llwyd
 profiles-gray-theme-title =
     .title = Gosod thema lwyd
@@ -290,9 +269,6 @@ profiles-appmenu-callout-tour-subtitle = Yn y ddewislen ☰, tapiwch enw eich pr
 profiles-appmenu-callout-tour-primary-button = Dangos i mi sut
 barbell-avatar = Barbell
 bike-avatar = Beic
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Gosod afatar barbell
 bike-avatar-tooltip =

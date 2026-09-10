@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = ניקוי היסטוריה
 sidebar-history-sort-by-heading-menucaption =
     .label = מיון לפי:
-sidebar-history-sort-by-heading = מיון לפי:
 sidebar-history-sort-option-date =
     .label = תאריך
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = הרחבות סרגל צד
-sidebar-customize-firefox-tools-header =
-    .label = כלים של { -brand-product-name }
 sidebar-customize-firefox-settings = ניהול הגדרות { -brand-short-name }
 sidebar-vertical-tabs =
     .label = לשוניות אנכיות
 sidebar-settings2 =
     .label = הגדרות
-sidebar-settings =
-    .label = הגדרות סרגל הצד
 sidebar-hide-tabs-and-sidebar =
     .label = הסתרת לשוניות וסרגל הכלים
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = ניהול הרחבה
-sidebar-context-menu-remove-extension =
-    .label = הסרת הרחבה
 sidebar-context-menu-report-extension =
     .label = דיווח על הרחבה
 sidebar-context-menu-open-in-tab =

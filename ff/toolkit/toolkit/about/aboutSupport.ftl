@@ -12,10 +12,6 @@ crashes-no-config = Ngal jaaɓnirgal feewniraaka ngam hollude jaŋte kooke.
 support-addons-name = Innde
 support-addons-version = Yamre
 support-addons-id = ID
-features-title = { -brand-short-name } Fannuuji
-features-name = Innde
-features-version = Yamre
-features-id = ID
 app-basics-title = Beeɓtuɗe Jaaɓnirgal
 app-basics-name = Innde
 app-basics-version = Yamre
@@ -28,7 +24,6 @@ app-basics-profile-dir =
         [linux] Runngere Keftinirɗe
        *[other] Runngere Keftinirɗe
     }
-app-basics-enabled-plugins = Ceŋe Daaƴtaaɗe
 app-basics-build-config = Taf Teeltannde
 app-basics-user-agent = Ajajo Kuutoro
 app-basics-os = OS

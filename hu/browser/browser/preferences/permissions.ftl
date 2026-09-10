@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Kivételek
     .style = min-width: 55em
+    .title = Kivételek
 permissions-close-key =
     .key = w
 permissions-address = Weboldal címe
@@ -80,79 +80,64 @@ permissions-invalid-uri-label = Írjon be egy érvényes gépnevet.
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Kivételek a fokozott követés elleni védelemhez
     .style = { permissions-window2.style }
+    .title = Kivételek a fokozott követés elleni védelemhez
 permissions-exceptions-manage-etp-desc = Megadhatja azokat a webhelyeket, amelyeken ki van kapcsolva a Fokozott követés elleni védelem. Írja be a kezelendő webhely pontos címét, majd kattintson a Kivétel hozzáadása gombra.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Kivételek – Sütik és oldaladatok
     .style = { permissions-window2.style }
+    .title = Kivételek – Sütik és oldaladatok
 permissions-exceptions-cookie-desc = Megadhatja mely webhelyek nem használhatnak soha sütiket és oldaladatokat, illetve melyek használhatnak mindig. Írja be a kezelendő oldal pontos címét, majd kattintson a Tiltás, Engedélyezés a munkamenetben, vagy az Engedélyezés gombra.
 
 ## Exceptions - Clear on Shutdown
 
 permissions-exceptions-shutdown-clearing-window =
-    .title = Kivételek – előzmények törlése leállításkor
     .style = { permissions-window2.style }
+    .title = Kivételek – előzmények törlése leállításkor
 permissions-exceptions-shutdown-clearing-desc = Megadhatja azokat a webhelyeket, amelyekről akkor is megtartja az adatokat, ha a { -brand-short-name } bezáráskor törli az előzményeket. Írja be a kezelni kívánt webhely pontos nevét, majd kattintson az Engedélyezés gombra.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Kivételek – Csak HTTPS mód
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Az egyes webhelyeknél kikapcsolhatja a Csak HTTPS módot. A { -brand-short-name } nem próbálja meg biztonságos HTTPS-re frissíteni a kapcsolatot ezeknél a webhelyeknél. A kivételek nem vonatkoznak a privát ablakokra.
+    .title = Kivételek – Csak HTTPS mód
 permissions-exceptions-https-only-desc2 = Az egyes webhelyeknél kikapcsolhatja a Csak HTTPS módot. A { -brand-short-name } nem próbálja meg biztonságos HTTPS-re frissíteni a kapcsolatot ezeknél a webhelyeknél.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
     .title = Engedélyezett webhelyek – Felugró ablakok és harmadik féltől származó átirányítások
-    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = Megadhatja, hogy mely weboldalak nyithatnak felugró ablakokat, és melyeket irányíthatják át a harmadik féltől származó keretek.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Engedélyezett webhelyek – Felugró ablakok
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Megadhatja azokat a webhelyeket, amelyek felugró ablakot nyithatnak. Írja be a kezelni kívánt webhely pontos nevét, majd kattintson az Engedélyezés gombra.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Kivételek – mentett bejelentkezések
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = A bejelentkezések a következő oldalakhoz nem lesznek mentve
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Kivételek – mentett jelszavak
     .style = { permissions-window2.style }
+    .title = Kivételek – mentett jelszavak
 permissions-exceptions-saved-passwords-desc = A { -brand-short-name } nem menti el a jelszavakat az itt felsorolt webhelyeknél.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Engedélyezett webhelyek – Kiegészítők telepítése
     .style = { permissions-window2.style }
+    .title = Engedélyezett webhelyek – Kiegészítők telepítése
 permissions-exceptions-addons-desc = Megadhatja azokat a webhelyeket, amelyekről engedélyezett a kiegészítők telepítése. Írja be a kezelni kívánt webhely pontos nevét, majd kattintson az Engedélyezés gombra.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Beállítások – Automatikus lejátszás
     .style = { permissions-window2.style }
+    .title = Beállítások – Automatikus lejátszás
 permissions-site-autoplay-desc = Itt kezelheti azokat a webhelyeket, amelyek nem követik az alapértelmezett automatikus lejátszási beállításokat.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Beállítások – Értesítési engedélyek
     .style = { permissions-window2.style }
+    .title = Beállítások – Értesítési engedélyek
 permissions-site-notification-desc = A következő weboldalak kérték, hogy küldhessenek értesítéseket. Megadhatja, hogy mely weboldalak küldhetnek értesítéseket. Az új értesítés engedélyezési kéréseket is blokkolhatja.
 permissions-site-notification-disable-label =
     .label = Új értesítés engedélyezési kérések blokkolása
@@ -161,8 +146,8 @@ permissions-site-notification-disable-desc = Ez megakadályozza, hogy a fent fel
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Beállítások – Tartózkodási hely engedélyek
     .style = { permissions-window2.style }
+    .title = Beállítások – Tartózkodási hely engedélyek
 permissions-site-location-desc = A következő weboldalak a helyadatait kérték. Megadhatja, hogy mely weboldalak érhetik el a tartózkodási helyét. Az új helyadat-kéréseket is blokkolhatja.
 permissions-site-location-disable-label =
     .label = Új kérések blokkolása, melyek hozzáférést kérnek a tartózkodási helyéhez
@@ -171,8 +156,8 @@ permissions-site-location-disable-desc = Ez megakadályozza, hogy a fent fel nem
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Beállítások – Virtuális valóság engedélyek
     .style = { permissions-window2.style }
+    .title = Beállítások – Virtuális valóság engedélyek
 permissions-site-xr-desc = A következő weboldalak hozzáférést kértek a virtuális valóság eszközeihez. Megadhatja, hogy mely weboldalak érhetik el a virtuális valóság eszközeit. Az új virtuális valóság eszközkéréseket is blokkolhatja.
 permissions-site-xr-disable-label =
     .label = Új kérések blokkolása, melyek hozzáférést kérnek a virtuális valóságot nyújtó eszközeihez
@@ -181,8 +166,8 @@ permissions-site-xr-disable-desc = Ez megakadályozza, hogy a fent fel nem sorol
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Beállítások – Kameraengedélyek
     .style = { permissions-window2.style }
+    .title = Beállítások – Kameraengedélyek
 permissions-site-camera-desc = A következő weboldalak kérték, hogy hozzáférhessenek a kamerájához. Megadhatja, hogy mely weboldalak férjenek hozzá a kamerájához. Az új kamera-hozzáférési kéréseket is blokkolhatja.
 permissions-site-camera-disable-label =
     .label = Új kérések blokkolása, melyek hozzáférést kérnek a kamerájához
@@ -191,8 +176,8 @@ permissions-site-camera-disable-desc = Ez megakadályozza, hogy a fent fel nem s
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = Beállítások – Eszközalkalmazások és -szolgáltatások
     .style = { permissions-window2.style }
+    .title = Beállítások – Eszközalkalmazások és -szolgáltatások
 permissions-site-localhost-desc = Ezek a webhelyek alkalmazásokhoz és szolgáltatásokhoz kértek hozzáférést ezen az eszközön. Kiválaszthatja, hogy engedélyezi vagy letiltja ezt a webhelyek számára.
 permissions-site-localhost-disable-label =
     .label = Alkalmazások és szolgáltatások elérésére vonatkozó új kérések blokkolása ezen az eszközön
@@ -201,8 +186,8 @@ permissions-site-localhost-disable-desc = Ez megakadályozza, hogy a fent fel ne
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = Beállítások –Helyi hálózati eszközök
     .style = { permissions-window2.style }
+    .title = Beállítások –Helyi hálózati eszközök
 permissions-site-local-network-desc = Ezek a webhelyek alkalmazásokhoz és szolgáltatásokhoz kértek hozzáférést a Wi-Fi-jéhez vagy helyi hálózatához csatlakoztatott eszközökön. Kiválaszthatja, hogy engedélyezi vagy letiltja ezt a webhelyek számára.
 permissions-site-local-network-disable-label =
     .label = A helyi hálózatra csatlakozó eszközök alkalmazásainak és szolgáltatásainak elérésére vonatkozó új kérések blokkolása.
@@ -211,8 +196,8 @@ permissions-site-local-network-disable-desc = Ez megakadályozza, hogy a fent fe
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Beállítások – Mikrofonengedélyek
     .style = { permissions-window2.style }
+    .title = Beállítások – Mikrofonengedélyek
 permissions-site-microphone-desc = A következő weboldalak kérték, hogy hozzáférhessenek a mikrofonjához. Megadhatja, hogy mely weboldalak férjenek hozzá a mikrofonjához. Az új mikrofon hozzáférési kéréseket is blokkolhatja.
 permissions-site-microphone-disable-label =
     .label = Új kérések blokkolása, melyek hozzáférést kérnek a mikrofonjához
@@ -223,12 +208,12 @@ permissions-site-microphone-disable-desc = Ez megakadályozza, hogy a fent fel n
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Beállítások – Hangszóróengedélyek
     .style = { permissions-window2.style }
+    .title = Beállítások – Hangszóróengedélyek
 permissions-site-speaker-desc = A következő weboldalak kérték, hogy kiválasszanak egy hangkimeneti eszközt. Megadhatja, hogy mely weboldalak választhassanak hangkimeneti eszközt.
 permissions-exceptions-doh-window =
-    .title = Webhelykivételek a HTTPS-en keresztüli DNS-hez
     .style = { permissions-window2.style }
+    .title = Webhelykivételek a HTTPS-en keresztüli DNS-hez
 permissions-exceptions-manage-doh-desc = A { -brand-short-name } nem használ biztonságos DNS-t ezeken a webhelyeken és az aldomainjeiken.
 permissions-doh-entry-field = Adja meg a weboldal domainnevét
     .accesskey = d

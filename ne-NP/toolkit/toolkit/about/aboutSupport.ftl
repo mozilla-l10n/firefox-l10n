@@ -18,10 +18,6 @@ security-software-name = नाम
 security-software-antivirus = एन्टिवायरस
 security-software-antispyware = एन्टिस्पायवेयर
 security-software-firewall = फायरवाल
-features-title = { -brand-short-name } विशेषताहरु
-features-name = नाम
-features-version = संस्करण
-features-id = ID
 app-basics-title = अनुप्रयोगका आधारहरू
 app-basics-name = नाम
 app-basics-version = संस्करण
@@ -34,7 +30,6 @@ app-basics-profile-dir =
         [linux] प्रोफाइल डाइरेक्टरी
        *[other] प्रोफाइल फोल्डर
     }
-app-basics-enabled-plugins = सक्षम गरिएका प्लगइनहरू
 app-basics-build-config = कन्फिगरेसन बनाउनुहोस्
 app-basics-user-agent = प्रयोगकर्ता-प्रतिनिधि
 app-basics-os = OS

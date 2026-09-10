@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಡೌನ್‍ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ
     .style = min-width: 46em
+    .title = ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಡೌನ್‍ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ
 download-cert-message = ಒಂದು ಹೊಸ ಪ್ರಮಾಣಪತ್ರ ಅಥಾರಿಟಿಯನ್ನು(CA) ನಂಬುವಂತೆ ನಿಮ್ಮನ್ನು ಕೇಳಲಾಗಿದೆ .
 download-cert-trust-ssl =
     .label = ಜಾಲ ತಾಣಗಳನ್ನು ಗುರುತಿಸಲು ಈ CA ಅನ್ನು ನಂಬು.
@@ -37,8 +37,6 @@ download-cert-view-text = CA ಪ್ರಮಾಣಪತ್ರವನ್ನು ಪ�
 
 client-auth-window =
     .title = ಬಳಕೆದಾರರ ಗುರುತಿಗೆ ಮನವಿ
-client-auth-site-description = ನೀವು ಒಂದು ಪ್ರಮಾಣಪತ್ರದಿಂದ ನಿಮ್ಮನ್ನು ಗುರುತಿಸಿಕೊಳ್ಳಲು ಈ ತಾಣವು ಅಪೇಕ್ಷಿಸಿದೆ:
-client-auth-choose-cert = ಗುರುತಾಗಿ ಪ್ರಸ್ತುತ ಪಡಿಸಲು ಒಂದು ಪ್ರಮಾಣಪತ್ರವನ್ನು ಆರಿಸಿ:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
 client-auth-cert-details-issued-to = ಇದಕ್ಕೆ ವಿತರಿಸಲಾಗಿದೆ: { $issuedTo }

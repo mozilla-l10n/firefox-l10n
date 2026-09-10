@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxviewtabrow-open-menu-button =
-    .title = Menu openen
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
@@ -24,10 +22,6 @@ fxviewtabrow-dismiss-tab-button =
     .title = { $tabTitle } uit de lijst verwijderen
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Zojuist
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-delete = Verwijderen
     .accesskey = V
 fxviewtabrow-forget-about-this-site = Deze website vergeten…
@@ -57,8 +51,6 @@ fxviewtabrow-send-to-device = Naar apparaat verzenden
     .accesskey = z
 fxviewtabrow-send-to-mobile = Naar Mobiel verzenden
     .accesskey = z
-fxviewtabrow-send-tab = Tabblad naar apparaat verzenden
-    .accesskey = z
 fxviewtabrow-pin-tab = Tabblad vastmaken
     .accesskey = v
 fxviewtabrow-unpin-tab = Tabblad losmaken
@@ -82,8 +74,5 @@ fxviewtabrow-send-to-mobile-connect-device = Verbind een apparaat om tabbladen t
 fxviewtabrow-send-to-mobile-device-missing2 = Ziet u uw apparaat niet?
 fxviewtabrow-send-to-mobile-not-verified = Account niet geverifieerd
 fxviewtabrow-send-to-mobile-verify-account = Verifieer uw account
-
-## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
-
 fxviewtabrow-send-to-mobile-sign-in = Meld u aan om tabbladen te verzenden
 fxviewtabrow-send-to-mobile-turn-on-sync = Schakel synchronisatie in om tabbladen te verzenden

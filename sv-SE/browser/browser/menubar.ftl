@@ -261,8 +261,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Profiler
 menu-profiles-manage-profiles =
     .label = Hantera profiler
 menu-profiles-new-profile =
@@ -284,9 +282,6 @@ menu-tools-downloads =
     .label = Filhämtaren
     .accesskey = F
 menu-tools-extensions-and-themes =
-    .label = Tillägg och teman
-    .accesskey = T
-menu-tools-addons-and-themes =
     .label = Tillägg och teman
     .accesskey = T
 menu-tools-fxa-sign-in2 =
@@ -345,8 +340,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Mer felsökningsinformation
     .accesskey = f
-menu-help-report-site-issue =
-    .label = Rapportera webbplatsproblem…
 menu-help-share-ideas =
     .label = Dela idéer och feedback...
     .accesskey = D

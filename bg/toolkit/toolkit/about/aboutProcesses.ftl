@@ -21,7 +21,6 @@ about-processes-plugin-process = Приставки ({ $pid })
 about-processes-gmp-plugin-process = Приставки за медия на Gecko ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
 about-processes-socket-process = Мрежа ({ $pid })
-about-processes-remote-sandbox-broker-process = Посредник за отдалечена пясъчна среда ({ $pid })
 
 ## Details within processes
 

@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Zonte { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Avanzament: pas { $current } di { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -199,11 +193,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Fisse { -brand-short-name } te sbare des aplicazions e tal menù Start
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Scomence cuntun navigadôr sostignût di une organizazion cence fin di vuadagn. O difindìn la tô riservatece intant che tu navighis ator sul web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -233,57 +222,10 @@ mr2022-onboarding-set-default-subtitle = Dopre un navigadôr sostignût di une o
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = La nestre ultime version e je costruide su misure par te, rindint plui facil che mai lâ ator pal web. E inclût funzionalitâts che o crodìn che tu adorarâs.
 mr2022-onboarding-get-started-primary-button-label = Configure in pôcs seconts
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Configurazion super-svelte
-mr2022-onboarding-import-subtitle = Configure { -brand-short-name } come che ti plâs. Zonte segnelibris, passwords e altri dal to vecjo navigadôr.
 mr2022-onboarding-import-primary-button-label-no-attribution = Impuarte dal navigadôr di prime
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Sielç il colôr che ti spire
-mr2022-onboarding-colorway-subtitle = Lis vôs indipendentis a puedin cambiâ la societât.
-mr2022-onboarding-colorway-primary-button-label-continue = Configure e continue
-mr2022-onboarding-existing-colorway-checkbox-label = Fâs deventâ { -firefox-home-brand-name } la tô pagjine iniziâl colorade
-mr2022-onboarding-colorway-label-default = Predefinît
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Colôrs corints di { -brand-short-name }
-mr2022-onboarding-colorway-description-default = <b>Dopre i miei colôrs corints di { -brand-short-name }.</b>
-mr2022-onboarding-colorway-label-playmaker = Regjist(e)
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Regjist(e) (rosse)
-mr2022-onboarding-colorway-description-playmaker = <b>Regjist/Regjiste:</b> tu creis lis oportunitâts par vinci e judâ dutis lis personis tor ator di te a miorâ il lôr zûc.
-mr2022-onboarding-colorway-label-expressionist = Espressionist(e)
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Espressionist(e) (zale)
-mr2022-onboarding-colorway-description-expressionist = <b>Espressionist/Espressioniste:</b> tu viodis il mont in maniere diferente e lis tôs creazions a movin emozions ta chei altris.
-mr2022-onboarding-colorway-label-visionary = Visionari(e)
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Visionari(e) (verde)
-mr2022-onboarding-colorway-description-visionary = <b>Visionari/Visionarie:</b> tu metis in dubi il stât des robis e tu sburtis chei altris a imagjinâ un futûr miôr.
-mr2022-onboarding-colorway-label-activist = Ativist(e)
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Ativist(e) (blu)
-mr2022-onboarding-colorway-description-activist = <b>Ativist/Ativiste:</b> tu lassis il mont miôr di cemût che tu lu vevis cjatât e tu convincis chei altris a crodi tal cambiament.
-mr2022-onboarding-colorway-label-dreamer = Insumiadôr/Insumiadore
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Insumiadôr/Insumiadore (viole)
-mr2022-onboarding-colorway-description-dreamer = <b>Insumiadôr/Insumiadore:</b> tu crodis che la furtune e judi i ardîts e che e spiri chei altris a jessi ardimentôs.
-mr2022-onboarding-colorway-label-innovator = Inovadôr/Inovadore
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Inovadôr/Inovadore (naranç)
-mr2022-onboarding-colorway-description-innovator = <b>Inovadôr/Inovadore:</b> tu viodis oportunitâts dapardut e tu lassis un segn te vite di ducj chei che ti stan ator.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Passe dal portatil al telefon e contrari
-mr2022-onboarding-mobile-download-subtitle = Recupere lis schedis di un altri dispositîf e ripie di dulà che tu jeris restât. In plui, sincronize i tiei segnelibris e lis passwords di cualsisei bande tu ti cjatis a doprâ { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Scansione il codiç QR par otignî { -brand-product-name } par dispositîfs mobii o <a data-l10n-name="download-label">manditi un colegament par discjamâlu.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Scansione il codiç QR par otignî { -brand-product-name } par dispositîfs mobii.
 
@@ -336,15 +278,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Dôs mans, une clare e une scure, che si dan il cinc
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Viodude di un tramont a traviers di un barcon, cuntune bolp e une plante su la plane
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Une man e dissegne un grafît cuntun collage colorât che al à un voli vert, une scarpe naranç, un balon ros di bale tal zei, scufis viole, un cûr blu e une corone zale
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Une bolp sul schermi di un computer portatil che e salude. Il portatil al à un mouse tacât.
 onboarding-device-migration-title = Bentornâts!
-onboarding-device-migration-subtitle = Jentre tal to { -fxaccount-brand-name(capitalization: "sentence") } par puartâti daûr i tiei segnelibris, lis passwords e la cronologjie sul to gnûf dispositîf.
 onboarding-device-migration-subtitle2 = Jentre tal to account par puartâ cun te, sul to gnûf dispositîf, i tiei segnelibris, lis passwords e la cronologjie.
 onboarding-device-migration-primary-button-label = Jentre
 
@@ -456,15 +395,12 @@ tab-groups-onboarding-feature-callout-title = Prove i grups di schedis par vê m
 tab-groups-onboarding-feature-callout-subtitle = Organiziti strissinant une schede sore di chê altre par creâ il to prin grup.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Cjate i tiei grups di schedis in ogni moment tal menù “Liste di dutis lis schedis”.
-tab-groups-onboarding-create-group-title-2 = Cjate achì i tiei grups di schedis in ogni moment.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Cîr i tiei grups cu la sbare de direzion par cjatâju.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Cuant che tu sieris un grup di schedis, al è pussibil tornâ a vierzilu dal menù “Liste di dutis lis schedis” in ogni moment.
-tab-groups-onboarding-saved-groups-title-2 = Cuant che tu sieris un grup di schedis, tu puedis tornâ a vierzilu in ogni moment.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Cîr cu la sbare de direzion i tiei grups che tu âs sierât, par cjatâju.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Torne vierç i grups di schedis al menù “Liste di dutis lis schedis” in ogni moment.
-tab-groups-onboarding-session-restore-title = Torne vierzi achì i grups di schedis in ogni moment.
 tab-groups-onboarding-dismiss = Va ben
 
 ## Multi Profiles feature onboarding messages

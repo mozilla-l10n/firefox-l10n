@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = "{ $tabTitle }" orrian nago "{ $selection }" hau
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Galdetu AA txaterako botari
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Galdetu { $provider } hornitzaileari
 genai-menu-open-generic =
     .label = Ireki AA txaterako bota
 # $provider (string) - name of the provider
@@ -120,8 +115,6 @@ genai-header-provider-menu =
     .title = Aukeratu txaterako bota
 genai-header-settings-button =
     .title = AA txataren ezarpenak
-genai-header-options-button =
-    .title = Ireki menua
 genai-header-close-button =
     .title = Itxi
 genai-provider-view-details =
@@ -149,37 +142,25 @@ genai-page-button-summarize = Laburbildu orria
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Nabigatu ahala laburbildu, ideiak jaso eta gehiago
 genai-onboarding-choose-header = Aukeratu { -brand-short-name } alboko barran erabili beharreko AA txaterako bota
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Aukeratu { -brand-short-name } alboko barran erabili beharreko AA txaterako bota. Hautatzean, bot bakoitzari buruzko xehetasunak erakutsiko ditugu. Aldatu edonoiz. <a data-l10n-name="learn-more">Argibide gehiago</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Aldatu edonoiz. Aukeratzeko laguntzarako, eskuratu <a data-l10n-name="learn-more">txaterako bot bakoitzari buruzko argibide gehiago</a>.
 genai-onboarding-primary = Jarraitu
 genai-onboarding-secondary = Itxi
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Claude-ri buruzko argibide gehiago
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = ChatGPTri buruzko argibide gehiago
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Copilot-i buruzko argibide gehiago
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Geminiri buruzko argibide gehiago
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = HuggingChat-i buruzko argibide gehiago
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Le Chat-i buruzko argibide gehiago
-genai-onboarding-select-header = Hautatu testua gomendioak ikusteko
-genai-onboarding-select-description = Testua hautatzean, txaterako botari bidal diezazkiozun gonbitak gomendatuko dizkizugu. Zure gonbit propioak ere idatz ditzakezu.
-genai-onboarding-select-primary = Hasi txateatzen
 genai-chatbot-contextual-title = Erabili AA txaterako bota fitxarik aldatu gabe
 genai-chatbot-contextual-subtitle = Txateatu eta nabigatu alboz albo AA txaterako bota { -brand-short-name }(e)n alboko barran gehitzean.
 genai-chatbot-contextual-button = Aukeratu txaterako bota
@@ -192,27 +173,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = Egin eskuin-klika alboko barr
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Ireki alboko barran AA txaterako bota eta aukeratu behean "Laburbildu orria".
 genai-chatbot-summarize-footer-generic-subtitle = Gehitu AA txaterako bota { -brand-short-name } alboko barran orriak ziztu batean laburbiltzeko.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Sortu testua eta kodea
-genai-onboarding-claude-analyze = Analizatu dokumentuak eta irudiak
-genai-onboarding-claude-price = Doako eta ordainpeko aukerak; kontua beharrezkoa da
-genai-onboarding-chatgpt-generate = Sortu testua, irudiak eta kodea
-genai-onboarding-chatgpt-analyze = Analizatu dokumentuak eta irudiak
-genai-onboarding-chatgpt-price = Doako eta ordainpeko aukera; kontua beharrezkoa da zenbait herrialde eta atazentzat
-genai-onboarding-copilot-generate = Sortu testua, irudiak eta kodea
-genai-onboarding-copilot-analyze = Aztertu irudiak
-genai-onboarding-copilot-price = Doako eta ordainpeko aukerak; kontua behar da zenbait atazetarako
-genai-onboarding-gemini-generate = Sortu testua, irudiak eta kodea
-genai-onboarding-gemini-analyze = Analizatu irudiak (doakoa) eta dokumentuak (ordainpekoa)
-genai-onboarding-gemini-price = Doako eta ordainpeko aukerak; kontua beharrezkoa da
-genai-onboarding-huggingchat-generate = Sortu testua eta kodea
-genai-onboarding-huggingchat-switch = Aldatu modelo irekien sorta anitzen artean
-genai-onboarding-huggingchat-price-2 = Doakoa; kontua behar da eskaera kopuru jakin baten ondoren
-genai-onboarding-lechat-generate = Sortu testua eta kodea
-genai-onboarding-lechat-price = Doakoa; kontua beharrezkoa da
 
 ## Model Optin Component
 
@@ -251,8 +211,8 @@ link-preview-generation-retry = Saiatu berriro
 link-preview-settings-button =
     .title = Loturen aurrebisten ezarpenak
 link-preview-settings-enable =
-    .label = Gaitu loturen aurrebistak
     .description = Ikusi orriaren izenburua, azalpena eta gehiago lasterbidea erabiltzean edo loturan eskuin-klika egitean.
+    .label = Gaitu loturen aurrebistak
 link-preview-settings-key-points =
     .label = Baimendu AAri orriaren hasiera irakurri eta puntu nagusiak sortzea
 link-preview-settings-long-press =

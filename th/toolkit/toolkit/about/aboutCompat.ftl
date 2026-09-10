@@ -8,12 +8,9 @@ label-interventions = การแทรกแซง
 # Variables:
 #   $bug (string) - Bug number
 label-more-information = ข้อมูลเพิ่มเติม: ข้อบกพร่อง { $bug }
-label-overrides = การแทนที่ตัวแทนผู้ใช้
 text-disabled-in-about-config = คุณลักษณะนี้ได้ถูกปิดใช้งานใน about:config
 text-no-interventions = ไม่มีการแทรกแซงใด ๆ ที่ถูกใช้
 text-page-title = ความเข้ากันได้ของเว็บ
-text-no-overrides = ไม่มีการแทนที่ตัวแทนผู้ใช้ใด ๆ ที่ถูกใช้
-text-title = about:compat
 
 ## Do not translate "SmartBlock". For reference, SmartBlock is a feature
 ## of Firefox anti-tracking which fixes website breakage caused when

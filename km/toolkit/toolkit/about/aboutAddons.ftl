@@ -95,15 +95,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = កម្មវិធី​បន្ថែម​ទាំងអស់​ត្រូវ​បាន​បិទ​ដោយ​របៀប​សុវត្ថិភាព ។
-extensions-warning-check-compatibility = ការ​ត្រួតពិនិត្យ​ភាព​ឆបគ្នា​នៃ​កម្មវិធី​បន្ថែម​នេះ​ត្រូវ​បាន​បិទ ។ អ្នក​អាច​នឹង​មាន​កម្មវិធី​បន្ថែម​ដែល​មិន​ឆប​គ្នា ។
-extensions-warning-safe-mode2 =
-    .message = កម្មវិធី​បន្ថែម​ទាំងអស់​ត្រូវ​បាន​បិទ​ដោយ​របៀប​សុវត្ថិភាព ។
 extensions-warning-check-compatibility2 =
     .message = ការ​ត្រួតពិនិត្យ​ភាព​ឆបគ្នា​នៃ​កម្មវិធី​បន្ថែម​នេះ​ត្រូវ​បាន​បិទ ។ អ្នក​អាច​នឹង​មាន​កម្មវិធី​បន្ថែម​ដែល​មិន​ឆប​គ្នា ។
 extensions-warning-check-compatibility-button = បើក
     .title = បើក​ការ​ត្រួតពិនិត្យ​មើល​ភាព​ឆបគ្នា​នៃ​កម្មវិធី​បន្ថែម
-extensions-warning-update-security = ការ​ត្រួតពិនិត្យ​សុវត្ថិភាព​នៃ​បច្ចុប្បន្នភាព​របស់​កម្មវិធី​បន្ថែម​ត្រូវ​បាន​បិទ ។ អ្នក​អាច​នឹង​ត្រូវ​បាន​សម្របសម្រួល​ទៅតាម​បច្ចុប្បន្នភាព ។
 extensions-warning-update-security2 =
     .message = ការ​ត្រួតពិនិត្យ​សុវត្ថិភាព​នៃ​បច្ចុប្បន្នភាព​របស់​កម្មវិធី​បន្ថែម​ត្រូវ​បាន​បិទ ។ អ្នក​អាច​នឹង​ត្រូវ​បាន​សម្របសម្រួល​ទៅតាម​បច្ចុប្បន្នភាព ។
 extensions-warning-update-security-button = បើក
@@ -179,24 +174,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } មិន​ឆប​ជាមួយ { -brand-short-name } { $version } ។
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } មិន​ឆប​ជាមួយ { -brand-short-name } { $version } ។
-details-notification-unsigned-and-disabled = { $name } មិន​អាច​បញ្ជាក់​សម្រាប់​ប្រើ​នៅ​ក្នុង { -brand-short-name } និង​ត្រូវ​បាន​បិទ​ដំណើរការ។
 details-notification-unsigned-and-disabled2 =
     .message = { $name } មិន​អាច​បញ្ជាក់​សម្រាប់​ប្រើ​នៅ​ក្នុង { -brand-short-name } និង​ត្រូវ​បាន​បិទ​ដំណើរការ។
-details-notification-unsigned-and-disabled-link = ព័ត៌មាន​បន្ថែម
-details-notification-unsigned = { $name } មិន​អាច​បញ្ជាក់​សម្រាប់​ប្រើ​នៅ​ក្នុង { -brand-short-name }។ ចាប់ផ្ដើម​ដំណើរការ​ដោយ​ប្រុងប្រយ័ត្ន។
 details-notification-unsigned2 =
     .message = { $name } មិន​អាច​បញ្ជាក់​សម្រាប់​ប្រើ​នៅ​ក្នុង { -brand-short-name }។ ចាប់ផ្ដើម​ដំណើរការ​ដោយ​ប្រុងប្រយ័ត្ន។
-details-notification-unsigned-link = ព័ត៌មាន​បន្ថែម
-details-notification-blocked = { $name } ត្រូវ​បាន​បិទ​ ដោយសារ​តែ​បញ្ហា​សុវត្ថិភាព ឬ​ស្ថិរភាព ។
-details-notification-blocked-link = ព័ត៌មាន​បន្ថែម
-details-notification-softblocked = { $name } ត្រូវ​បាន​គេ​ដឹង​ថា នឹង​បង្ក​ឲ្យ​មាន​បញ្ហា​សុវត្ថិភាព ឬ​ស្ថិរភាព ។
-details-notification-softblocked-link = ព័ត៌មាន​បន្ថែម
-details-notification-gmp-pending = { $name } នឹង​ត្រូវ​បាន​ដំឡើង​នៅ​ពេល​បន្តិច​ទៀត។
 details-notification-gmp-pending2 =
     .message = { $name } នឹង​ត្រូវ​បាន​ដំឡើង​នៅ​ពេល​បន្តិច​ទៀត។
 

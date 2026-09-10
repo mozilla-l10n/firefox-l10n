@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Rnu { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Asesfar:takkayt { $current } n { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -190,11 +184,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Senteḍ { -brand-short-name } deg ufeggag n tiwuriwin akked wumuɣ n usenker
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Bdu s yiminig ur nettnadi ara ɣef tedrimt. Nekkat ɣef uqader n tudert-ik·im tabaḍnit mi ara tettinigeḍ deg web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -224,55 +213,10 @@ mr2022-onboarding-set-default-subtitle = Seqdec iminig ur nettnadi ara ɣef tedr
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Lqem-nneɣ aneggaru yettwafeṣṣel almend n wakken i tḥemmleḍ, err-it fessus ugarqef wayen iɛeddan mi ara tettinigeḍ deg web. Yeččur d timahilin i neẓra ad awint leɛqel-ik·im.
 mr2022-onboarding-get-started-primary-button-label = Asesteb deg kra n tesdatin
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Asesteb s zzerb ugar
-mr2022-onboarding-import-subtitle = Sesteb { -brand-short-name } akken i t-tebɣiḍ. Rnu ticraḍ-ik·im n yisebtar, awalen uffiren d wayen-nniḍen seg yiminig-ik·im aqbur.
 mr2022-onboarding-import-primary-button-label-no-attribution = Kter seg yiminig wayeḍ
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Fren ini ara ak·akem-yerren deg usugnen
-mr2022-onboarding-colorway-subtitle = Tuɣac tilelliyen zemrent ad beddlent idles.
-mr2022-onboarding-colorway-primary-button-label-continue = Sbadu syen kemmel
-mr2022-onboarding-existing-colorway-checkbox-label = Err { -firefox-home-brand-name } d asebter-ik·im agejdan s yiniten
-mr2022-onboarding-colorway-label-default = Amezwer
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Initen n imiranen { -brand-short-name }
-mr2022-onboarding-colorway-description-default = <b>Seqdec initen-inu imiranen n { -brand-short-name }.</b>
-mr2022-onboarding-colorway-label-playmaker = Playmaker
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Playmaker (azewwaɣ)
-mr2022-onboarding-colorway-description-playmaker = <b>Kečč.Kemm d Playmaker.</b> Trennuḍ-d tugnatin i rrbaḥ, akken daɣen i tettɛawaneḍ yal win i ak·am-d-yezzin ad issali urar-is.
-mr2022-onboarding-colorway-label-expressionist = Anfalan
-mr2022-onboarding-colorway-description-expressionist = <b>Kečč·Kemm d Experssionist.</b> Tettwaliḍ amaḍal s tmuɣli-nniḍen, isnulfuyen-ik·im senkarayen-d iḥulfan n wiyaḍ.
-mr2022-onboarding-colorway-label-visionary = Visionary
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Visionary (azegzaw)
-mr2022-onboarding-colorway-description-visionary = <b>Kečč·Kemm d Visionary.</b> Tettcukkuteḍ aṭas deg tegnit-agi n tura, tettdeggireḍ wiyaḍ ad sugnen imal igerrzen ugar.
-mr2022-onboarding-colorway-label-activist = Ameɣnas
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Ameɣnas/Tameɣnast (anili)
-mr2022-onboarding-colorway-description-activist = <b>Kečč·Kemm d Ameqnas.</b> Tettaǧǧaḍ-d amaḍal igerrez ugar n wamek i t-id-tufiḍ, trennuḍ tgelluḍ s wiyaḍ ad amnen s waya.
-mr2022-onboarding-colorway-label-dreamer = Win·Tin yettargun
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Win/Tin yettargun (ajenjaṛ)
-mr2022-onboarding-colorway-description-dreamer = <b>Kečč·kemm d b·mmtirga.</b> Tumneḍ ssɛaya tetteg tissas, tettarra wiyaḍ sɛan tabɣest.
-mr2022-onboarding-colorway-label-innovator = Amesnulfu
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Amesnulfu/Tamesnulfut (aččini)
-mr2022-onboarding-colorway-description-innovator = <b>Kečč·kemm d t·amesnulfuṭ.</b> Tettwaliḍ tignatin deg yal adeg, tettḥazeḍ ula d tudert n wid i ak·am-d-yezzin.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Ɛeddi seg uselkim ɣer tiliɣri, neɣ seg tiliɣri ɣer uselkim
-mr2022-onboarding-mobile-download-subtitle = Lqeḍ accaren seg yiwen yibenk syen kemmel segwanda i tḥebseḍ ɣef yibenk-nniḍen. Daɣen, mtawi accaren-ik·im d wawalen uffiren anida akk i tesseqdaceḍ { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Smiḍen tangalt QR i wakken ad tawiḍ { -brand-product-name } i uziraz neɣ <a data-l10n-name="download-label">sader s timmad-ik·im aseɣwen n usader.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Smiḍen tangalt QR i wakken ad tawiḍ { -brand-product-name } i uziraz.
 
@@ -403,8 +347,6 @@ onboarding-checklist-sign-up = Kcem neɣ qqen ɣer umiḍan-ik
 
 ## Tab Groups feature onboarding strings
 
-tab-groups-onboarding-create-group-title-2 = Af igrawen n waccaren-ik da yal tikkelt.
-tab-groups-onboarding-session-restore-title = Ales alday n yigrawen n waccaren-ik da yal tikkelt.
 tab-groups-onboarding-dismiss = IH
 
 ## Multi Profiles feature onboarding messages

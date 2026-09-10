@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } — Kopīgošanas rādītājs
-webrtc-indicator-window =
-    .title = { -brand-short-name } — Kopīgošanas rādītājs
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Jūs kopīgojat savu mikrofonu. Noklikšķiniet, lai kontrolētu kopīgošanu.
 webrtc-screen-system-menu =
     .label = Jūs kopīgojat logu vai ekrānu. Noklikšķiniet, lai kontrolētu kopīgošanu.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Jūsu kamera un mikrofons tiek koplietoti. Klikšķiniet, lai kontrolētu koplietošanu.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Jūsu kamera tiek koplietot. Klikšķiniet, lai kontrolētu koplietošanu.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Jūsu mikrofons tiek koplietots. Klikšķiniet, lai kontrolētu koplietošanu.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Jūsu lietotne tiek koplietota. Klikšķiniet, lai kontrolētu koplietošanu.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Jūsu ekrāns tiek koplietots. Klikšķiniet, lai kontrolētu koplietošanu.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Jūsu logs tiek koplietots. Klikšķiniet, lai kontrolētu koplietošanu.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Jūsu logs tiek koplietots. Klikšķiniet, lai kontrolētu koplietošanu.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -191,7 +172,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Vai atļaut { $o
 
 webrtc-share-screen-warning = Kopīgojiet ekrānu tikai ar lapām, kam uzticaties. Koplietošana var atļaut negodīgām lapām lietot internetu jūsu vārdā un nozagt jūsu privātos datus.
 webrtc-share-browser-warning = Kopīgojiet { -brand-short-name } tikai ar lapām, kam uzticaties. Koplietošana var atļaut negodīgām lapām lietot internetu jūsu vārdā un nozagt jūsu privātos datus.
-webrtc-share-screen-learn-more = Uzzināt vairāk
 webrtc-pick-window-or-screen = Izvēlieties logu vai ekrānu
 webrtc-share-entire-screen = Visu ekrānu
 webrtc-share-pipe-wire-portal = Izmantot operētājsistēmas iestatījumus

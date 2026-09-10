@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = محفوظ شدہ پتے
 autofill-manage-addresses-list-header = پتے
-autofill-manage-credit-cards-title = محفوظ شدہ کریڈٹ کارڈ…
-autofill-manage-credit-cards-list-header = کریڈٹ کارڈز
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = ہٹائیں
@@ -21,9 +19,6 @@ autofill-manage-edit-button = تدوین کریں…
 
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = پتہ تدوین کریں
-autofill-address-given-name = پہلا نام
-autofill-address-additional-name = درمیانی نام
-autofill-address-family-name = آخری نام
 autofill-address-organization = تنظیم
 autofill-address-street = گلی کا پتہ
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
@@ -69,18 +64,12 @@ autofill-address-eircode = ایروکوڈ
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = نیا پتہ شامل کریں
 autofill-address-country = ملک یا علاقہ
 autofill-address-tel = فون
 autofill-address-email = ای میل
 autofill-cancel-button = منسوخ کریں
 autofill-save-button = محفوظ کریں
 autofill-country-warning-message = فارم آٹوفل فی الحال صرف مخصوص ممالک کے لئے دستیاب ہے۔
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = نیا کریڈٹ کارڈ شامل کریں
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = کریڈٹ کارڈ میں ترمیم کریں
 autofill-card-number-2 =
     .label = کارڈ کا نمبر
 autofill-card-number = کارڈ کا نمبر
@@ -94,15 +83,3 @@ autofill-card-expires-month = اختتامی مہینہ
 autofill-card-expires-year = اختتامی سال
 autofill-card-billing-address = بل کا پتہ
 autofill-card-network = کارڈ کی قسم
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = کارٹے بانکیئر
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = دریافت
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

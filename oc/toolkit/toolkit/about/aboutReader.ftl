@@ -4,14 +4,6 @@
 
 about-reader-loading = Cargament…
 about-reader-load-error = Impossible de cargar l’article dins de la pagina
-about-reader-color-scheme-light = Clar
-    .title = Jòc de colors claras
-about-reader-color-scheme-dark = Negre
-    .title = Jòc de colors foscas
-about-reader-color-scheme-sepia = Sèpia
-    .title = Jòc de colors sépia
-about-reader-color-scheme-auto = Auto
-    .title = Jòc de colors auto
 about-reader-color-light-theme = Clar
     .title = Tèma clar
 about-reader-color-dark-theme = Escur
@@ -24,16 +16,6 @@ about-reader-color-gray-theme = Gris
     .title = Tèma gris
 about-reader-color-contrast-theme = Contrast
     .title = Tèma contrast
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time =
-    { $rangePlural ->
-        [one] { $range } minuta
-       *[other] { $range } minutas
-    }
 
 ## Reader View text and layout menu
 
@@ -41,14 +23,6 @@ about-reader-toolbar-minus =
     .title = Reduire la talha de la polissa
 about-reader-toolbar-plus =
     .title = Aumentar la talha de la polissa
-about-reader-toolbar-contentwidthminus =
-    .title = Reduire la largor del contengut
-about-reader-toolbar-contentwidthplus =
-    .title = Aumentar la largor del contengut
-about-reader-toolbar-lineheightminus =
-    .title = Reduire la nautor de la linha
-about-reader-toolbar-lineheightplus =
-    .title = Aumentar la largor de la linha
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -59,7 +33,6 @@ about-reader-font-type-monospace = Largor fixa
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Tampar la vista de lectura
-about-reader-toolbar-type-controls = Contraròtles de tipes
 about-reader-toolbar-text-layout-controls = Tèxte e agençament
 about-reader-toolbar-theme-controls = Tèma
 about-reader-toolbar-savetopocket = Enregistrar dins { -pocket-brand-name }

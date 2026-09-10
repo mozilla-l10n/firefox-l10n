@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Paràmetres de connexió
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Paràmetres de connexió
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Actualitza
     .accesskey = z
-connection-proxy-autologin =
-    .label = No sol·licitis autenticació si la contrasenya està desada
-    .accesskey = i
-    .tooltip = Aquesta opció us autentica automàticament en els servidors intermediaris dels quals heu desat les credencials. Si l'autenticació falla, se us sol·licitaran les credencials.
 connection-proxy-autologin-checkbox =
     .label = No sol·licitis autenticació si la contrasenya està desada
-    .accesskey = i
     .tooltiptext = Aquesta opció us autentica automàticament en els servidors intermediaris dels quals heu desat les credencials. Si l'autenticació falla, se us sol·licitaran les credencials.
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = Servidor intermediari DNS en utilitzar SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Utilitza l'URL per defecte per resoldre DNS sobre HTTPS
 connection-dns-over-https-url-custom =
     .label = Personalitzat
-    .accesskey = P
     .tooltiptext = Introduïu el vostre URL preferit per resoldre DNS sobre HTTPS
-connection-dns-over-https-custom-label = Personalitzat
+    .accesskey = P

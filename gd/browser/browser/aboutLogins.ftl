@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Clàraidhean a-steach ⁊ faclan-faire
-about-logins-login-filter =
-    .placeholder = Lorg sna clàraidhean a-steach
-    .key = F
-create-new-login-button =
-    .title = Cruthaich clàradh a-steach ùr
 about-logins-page-title-name = Faclan-faire
 about-logins-login-filter2 =
-    .placeholder = Lorg sna faclan-faire
     .key = f
+    .placeholder = Lorg sna faclan-faire
 create-login-button =
     .title = Cuir facal-faire ris
 fxaccounts-sign-in-text = Faigh cothrom air na faclan-faire agad air uidheaman eile
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Ion-phortaich o bhrabhsair eile…
 about-logins-menu-menuitem-import-from-a-file = Ion-phortaich o fhaidhle…
-about-logins-menu-menuitem-export-logins = Às-phortaich na clàraidhean a-stach…
-about-logins-menu-menuitem-remove-all-logins = Thoir air falbh a h-uile clàradh a-steach…
 about-logins-menu-menuitem-export-logins2 = Às-phortaich na faclan-faire…
 about-logins-menu-menuitem-remove-all-logins2 = Thoir air falbh a h-uile facal-faire…
 menu-menuitem-preferences =
@@ -42,25 +34,6 @@ about-logins-menu-menuitem-help = Cobhair
 
 login-list =
     .aria-label = Clàraidhean a-steach a fhreagras air na lorg thu
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } chlàradh a-steach
-        [two] { $count } chlàradh a-steach
-        [few] { $count } clàraidhean a-steach
-       *[other] { $count } clàradh a-steach
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $count } à { $total } chlàradh a-steach
-        [two] { $count } à { $total } chlàradh a-steach
-        [few] { $count } à { $total } clàraidhean a-steach
-       *[other] { $count } à { $total } clàradh a-steach
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -88,14 +61,10 @@ login-list-username-reverse-option = Ainm-cleachdaiche (Z-A)
 about-logins-login-list-alerts-option = Caismeachdan
 login-list-last-changed-option = Atharrachadh mu dheireadh
 login-list-last-used-option = Cleachdadh mu dheireadh
-login-list-intro-title = Cha deach clàradh a-steach a lorg
 login-list-intro-title2 = Cha deach facal-faire sam bith a shàbhaladh
 login-list-intro-description = Nuair a shàbhaileas tu facal-faire ann an { -brand-product-name }, nochdaidh e an-seo.
-about-logins-login-list-empty-search-title = Cha deach clàradh a-steach a lorg
 about-logins-login-list-empty-search-title2 = Cha deach facal-faire sam bith a lorg
 about-logins-login-list-empty-search-description = Chan eil toradh ann a tha a’ freagairt ris na lorg thu.
-login-list-item-title-new-login = Clàradh a-steach ùr
-login-list-item-subtitle-new-login = Cuir a-steach an t-ainm is facal-faire agad
 login-list-item-title-new-login2 = Cuir facal-faire ris
 login-list-item-subtitle-missing-username = (gun ainm-cleachdaiche)
 about-logins-list-item-breach-icon =
@@ -111,28 +80,20 @@ about-logins-list-section-week = Na 7 làithean seo chaidh
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = A bheil na logins a shàbhail thu a dhìth ort? Cuir an sioncronachadh air no ion-phortaich iad.
-about-logins-login-intro-heading-logged-in = Cha deach clàradh a-steach sioncronaichte a lorg.
-login-intro-description = Ma shàbhail thu na clàraidhean a-steach agad ann am { -brand-product-name } air uidheam eile, seo mar a gheibh thu greim orra an-seo:
-login-intro-instructions-fxa = Cruthaich { -fxaccount-brand-name } air an uidheam far an do shàbhail thu na logins agad no cruthaich cunntas ùr.
 about-logins-login-intro-heading-message = Sàbhail na faclan-faire agad ann an àite sàbhailte
 login-intro-description2 = Thèid facak-faire sam bith a shàbhaileas tu ann am { -brand-product-name } a chrioptachadh. Agus cumaidh sinn sùil air aithisgean mu dhàta a bhriseadh a-steach air is innsidh sinn dhut ma bhios tusa nam measg. <a data-l10n-name="breach-alert-link">Barrachd fiosrachaidh</a>
 login-intro-instructions-fxa2 = Cruthaich cunntas no clàraich a-steach dhan chunntas agad air an uidheam far an deach na clàraidhean a-steach a shàbhaladh
 login-intro-instructions-fxa-settings = Tadhail air “Roghainnean” > “Sioncronachadh” > “Cuir an sioncronachadh air…” agus tagh am bogsa-cromaige “Clàraidhean a-steach ⁊ faclan-faire”.
 login-intro-instructions-fxa-passwords-help = Tadhail air <a data-l10n-name="passwords-help-link">taic nam faclan-faire</a> airson barrachd cuideachaidh.
-about-logins-intro-browser-only-import = Ma shàbhail thu na clàraidhean a-steach agad ann am brabhsair eile, ’s urrainn dhut <a data-l10n-name="import-link">an ion-phortadh gu { -brand-product-name }</a>
-about-logins-intro-import2 = Ma chaidh na clàraidhean a-steach agad a shàbhaladh taobh a-muigh { -brand-product-name }, ’s urrainn dhut an <a data-l10n-name="import-browser-link">ion-phortadh à brabhsair eile</a> no <a data-l10n-name="import-file-link">à faidhle</a>
 about-logins-intro-import3 = Briog air a’ chomharra plus gu h-àrd airson facal-faire a chur ris an-dràsta. ’S urrainn dhut <a data-l10n-name="import-browser-link">faclan-faire ion-phortadh o bhrabhsair eile cuideachd</a> no <a data-l10n-name="import-file-link">o fhaidhle</a>.
 
 ## Login
 
-login-item-new-login-title = Cruthaich clàradh a-steach ùr
 # Header for adding a password
 about-logins-login-item-new-login-title = Cuir facal-faire ris
 login-item-edit-button = Deasaich
 about-logins-login-item-remove-button = Thoir air falbh
 login-item-origin-label = Seòladh na làraich-lìn
-login-item-tooltip-message = Dèan cinnteach gur e seo an seòladh mionaideach dhen làrach-lìn far a bheil thu a’ clàradh a-steach.
 about-logins-origin-tooltip2 = Cuir a-steach an seòladh slàn is dèan cinnteach gu bheil e co-ionnann ris an fhear a chleachdas tu far an dèan thu clàradh a-steach.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -152,7 +113,6 @@ login-item-password-conceal-checkbox =
     .aria-label = Falaich am facal-faire
 login-item-copy-password-button-text = Lethbhreac
 login-item-copied-password-button-text = Lethbhreac air a dhèanamh!
-login-item-save-changes-button = Sàbhail na h-atharraichean
 about-logins-login-item-save-changes-button = Sàbhail
 login-item-save-new-button = Sàbhail
 login-item-cancel-button = Sguir dheth
@@ -176,11 +136,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Airson an clàradh a-steach agad a dheasachadh, cuir a-steach teisteas clàraidh a-steach Windows. Cuiridh seo ri dìon tèarainteachd nan cunntasan agad.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = an clàradh a-steach a shàbhail thu a dheasachadh
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -204,11 +159,6 @@ about-logins-copy-password-os-auth-dialog-message-win = Airson lethbhreac a dhè
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = lethbhreac a dhèanamh dhen fhacal-fhaire a shàbhail thu
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Airson na clàraidhean a-steach agad às-phortadh, cuir a-steach teisteas clàraidh a-steach Windows. Cuiridh seo ri dìon tèarainteachd nan cunntasan agad.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = na clàraidhean a-steach ’s faclan-faire air an sàbhaladh às-phortadh
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = Airson na faclan-faire agad às-phortadh, cuir a-steach teisteas clàraidh a-steach Windows. Cuiridh seo ri dìon tèarainteachd nan cunntasan agad.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -226,8 +176,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Sguir dheth
 confirmation-dialog-dismiss-button =
     .title = Sguir dheth
-about-logins-confirm-remove-dialog-title = A bheil thu airson an clàradh a-steach seo a thoirt air falbh?
-confirm-delete-dialog-message = Cha ghabh seo a neo-dhèanamh.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = A bheil thu airson am facal-faire a thoirt air falbh?
 # Message for modal to confirm the removal of one saved password
@@ -244,44 +192,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [two] Thoir air falbh na h-uile
         [few] Thoir air falbh na h-uile
        *[other] Thoir air falbh na h-uile
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] Thoir air falbh an clàradh a-steach seo
-        [one] Thoir air falbh na clàraidhean a-steach seo
-        [two] Thoir air falbh na clàraidhean a-steach seo
-        [few] Thoir air falbh na clàraidhean a-steach seo
-       *[other] Thoir air falbh na clàraidhean a-steach seo
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] A bheil thu airson an { $count } chlàradh a-steach a thoirt air falbh?
-        [two] A bheil thu airson an { $count } clàradh a-steach a thoirt air falbh?
-        [few] A bheil thu airson an { $count } clàraidhean a-steach a thoirt air falbh?
-       *[other] A bheil thu airson an { $count } clàradh a-steach a thoirt air falbh?
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] Bheir seo air falbh an clàradh a-steach a shàbhail thu gu { -brand-short-name } agus caismeachd sam bith air brisidhean a-steach a nochd an-seo. Chan urrainn dhut seo a neo-dhèanamh.
-        [one] Bheir seo air falbh na clàraidhean a-steach a shàbhail thu gu { -brand-short-name } agus caismeachd sam bith air brisidhean a-steach a nochd an-seo. Chan urrainn dhut seo a neo-dhèanamh.
-        [two] Bheir seo air falbh na clàraidhean a-steach a shàbhail thu gu { -brand-short-name } agus caismeachd sam bith air brisidhean a-steach a nochd an-seo. Chan urrainn dhut seo a neo-dhèanamh.
-        [few] Bheir seo air falbh na clàraidhean a-steach a shàbhail thu gu { -brand-short-name } agus caismeachd sam bith air brisidhean a-steach a nochd an-seo. Chan urrainn dhut seo a neo-dhèanamh.
-       *[other] Bheir seo air falbh na clàraidhean a-steach a shàbhail thu gu { -brand-short-name } agus caismeachd sam bith air brisidhean a-steach a nochd an-seo. Chan urrainn dhut seo a neo-dhèanamh.
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] A bheil thu airson { $count } chlàradh a-steach a thoirt air falbh o gach uidheam?
-        [two] A bheil thu airson { $count } chlàradh a-steach a thoirt air falbh o gach uidheam?
-        [few] A bheil thu airson { $count } clàraidhean a-steach a thoirt air falbh o gach uidheam?
-       *[other] A bheil thu airson { $count } clàradh a-steach a thoirt air falbh o gach uidheam?
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [1] Bheir seo air falbh an clàradh a-steach a shàbhail thu gu { -brand-short-name } air gach uidheam a chaidh a shioncronachadh dhan { -fxaccount-brand-name } agad. Bheir seo air falbh caismeachd sam bith air brisidhean a-steach a nochd an-seo cuideachd. Chan urrainn dhut seo a neo-dhèanamh.
-        [one] Bheir seo air falbh gach clàradh a-steach a shàbhail thu gu { -brand-short-name } air gach uidheam a chaidh a shioncronachadh dhan { -fxaccount-brand-name } agad. Bheir seo air falbh caismeachd sam bith air brisidhean a-steach a nochd an-seo cuideachd. Chan urrainn dhut seo a neo-dhèanamh.
-        [two] Bheir seo air falbh gach clàradh a-steach a shàbhail thu gu { -brand-short-name } air gach uidheam a chaidh a shioncronachadh dhan { -fxaccount-brand-name } agad. Bheir seo air falbh caismeachd sam bith air brisidhean a-steach a nochd an-seo cuideachd. Chan urrainn dhut seo a neo-dhèanamh.
-        [few] Bheir seo air falbh gach clàradh a-steach a shàbhail thu gu { -brand-short-name } air gach uidheam a chaidh a shioncronachadh dhan { -fxaccount-brand-name } agad. Bheir seo air falbh caismeachd sam bith air brisidhean a-steach a nochd an-seo cuideachd. Chan urrainn dhut seo a neo-dhèanamh.
-       *[other] Bheir seo air falbh gach clàradh a-steach a shàbhail thu gu { -brand-short-name } air gach uidheam a chaidh a shioncronachadh dhan { -fxaccount-brand-name } agad. Bheir seo air falbh caismeachd sam bith air brisidhean a-steach a nochd an-seo cuideachd. Chan urrainn dhut seo a neo-dhèanamh.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -329,15 +239,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = Às-phortaich na clàraidhean a-steach agus faclan-faire agad
-about-logins-confirm-export-dialog-message = Thèid na faclan-faire agad a shàbhaladh ’nan teacsa a ghabhas leughadh (m.e. BadP@ssw0rd) agus chì duine sam bith iad as urrainn dhan fhaidhle air às-phortadh fhosgladh.
-about-logins-confirm-export-dialog-confirm-button = Às-phortaich…
 about-logins-confirm-export-dialog-title2 = Nòta mu dhèidhinn às-phortadh fhaclan-faire
 about-logins-confirm-export-dialog-message2 =
     Nuair a thèid faclan-faire às-phortadh, thèid an sàbhaladh ann am faidhle sa bheil teacsa so-leughta.
     Nuair a bhios tu deiseil leis an fhaidhle, mholamaid dhut a sguabadh às mus fhaic daoine eile a chleachdas an t-uidheam seo na faclan-faire agad.
 about-logins-confirm-export-dialog-confirm-button2 = Lean air adhart leis an às-phortadh
-about-logins-alert-import-title = Ion-phortadh deiseil
 about-logins-alert-import-message = Seall geàrr-chunntas mionaideach dhen ion-phortadh
 confirm-discard-changes-dialog-title = A bheil thu airson na h-atharraichean gun sàbhaladh a thilgeil air falbh?
 confirm-discard-changes-dialog-message = Thèid gach atharrachadh gun sàbhaladh air chall.
@@ -374,11 +280,6 @@ about-logins-error-message-default = Thachair mearachd nuair a dh’fheuch sinn 
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Às-phortaich na clàraidhean a-steach mar fhaidhle
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = clàraidhean a-steach.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = Às-phortaich na faclan-faire o { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -394,8 +295,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = Ion-phortaich faidhle chlàraidhean a-steach
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = Ion-phortaich na faclan-faire gu { -brand-short-name }
 about-logins-import-file-picker-import-button = Ion-phortaich
@@ -419,30 +318,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Ion-phortadh deiseil
-about-logins-import-dialog-items-added =
-    { $count ->
-        [1] <span>Clàradh a-steach ùr air a chur ris:</span> <span data-l10n-name="count">{ $count }</span>
-        [one] <span>Clàraidhean a-steach ùra air an cur ris:</span> <span data-l10n-name="count">{ $count }</span>
-        [two] <span>Clàraidhean a-steach ùra air an cur ris:</span> <span data-l10n-name="count">{ $count }</span>
-        [few] <span>Clàraidhean a-steach ùra air an cur ris:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Clàraidhean a-steach ùra air an cur ris:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-        [1] <span>Clàradh a-steach air ùrachadh:</span> <span data-l10n-name="count">{ $count }</span>
-        [one] <span>Clàraidhean a-steach air an ùrachadh:</span> <span data-l10n-name="count">{ $count }</span>
-        [two] <span>Clàraidhean a-steach air an ùrachadh:</span> <span data-l10n-name="count">{ $count }</span>
-        [few] <span>Clàraidhean a-steach air an ùrachadh:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Clàraidhean a-steach air an ùrachadh:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-        [1] <span>Clàradh a-steach dùblaichte air a lorg:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(gun ion-phortadh)</span>
-        [one] <span>Clàraidhean a-steach dùblaichte air an lorg:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(gun ion-phortadh)</span>
-        [two] <span>Clàraidhean a-steach dùblaichte air an lorg:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(gun ion-phortadh)</span>
-        [few] <span>Clàraidhean a-steach dùblaichte air an lorg:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(gun ion-phortadh)</span>
-       *[other] <span>Clàraidhean a-steach dùblaichte air an lorg:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(gun ion-phortadh)</span>
-    }
 about-logins-import-dialog-items-added2 =
     { $count ->
         [one] <span>Chaidh faclan-faire ùra a chur ris:</span><span data-l10n-name="count">{ $count }</span>
@@ -487,15 +362,11 @@ about-logins-import-dialog-error-learn-more = Barrachd fiosrachaidh
 about-logins-import-dialog-error-try-import-again = Feuch ris an ion-phortadh a-rithist…
 about-logins-import-dialog-error-cancel = Sguir dheth
 about-logins-import-report-title = Geàrr-chunntas an ion-phortaidh
-about-logins-import-report-description = Chaidh na clàraidhean a-steach ’s na faclan-faire ion-phortadh gu { -brand-short-name }.
 about-logins-import-report-description2 = Chaidh na faclan-faire ion-phortadh gu { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Ràgh { $number }
-about-logins-import-report-row-description-no-change = Dùblachadh: Tha seo co-ionnann ri clàradh a-steach a tha ann mu thràth
-about-logins-import-report-row-description-modified = Chaidh an clàradh a-steach a bha ann mu thràth ùrachadh
-about-logins-import-report-row-description-added = Chaidh clàradh a-steach ùr a chur ris
 about-logins-import-report-row-description-no-change2 = Dùblachadh: Tha seo co-ionnann ri innteart làithreach
 about-logins-import-report-row-description-modified2 = Chaidh an t-inneart làithreach ùrachadh
 about-logins-import-report-row-description-added2 = Chaidh facal-faire ùr a chur ris
@@ -512,27 +383,6 @@ about-logins-import-report-row-description-error-missing-field = Mearachd: Tha {
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">chlàradh  a-steach ùr air a chur ris</div>
-        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">chlàradh  a-steach ùr air a chur ris</div>
-        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">clàraidhean  a-steach ùra air an cur ris</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">clàradh  a-steach ùr air a chur ris</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">chlàradh a-steach a tha ann air ùrachadh</div>
-        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">chlàradh a-steach a tha ann air ùrachadh</div>
-        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">clàraidhean a-steach a tha ann air an ùrachadh</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">clàradh a-steach a tha ann air ùrachadh</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">chlàradh a-steach dùblaichte</div> <div data-l10n-name="not-imported">(gun ion-phortadh)</div>
-        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">chlàradh a-steach dùblaichte</div> <div data-l10n-name="not-imported">(gun ion-phortadh)</div>
-        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">clàraidhean a-steach dùblaichte</div> <div data-l10n-name="not-imported">(gun ion-phortadh)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">clàradh a-steach dùblaichte</div> <div data-l10n-name="not-imported">(gun ion-phortadh)</div>
-    }
 about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">Chaidh { $count }</div> <div data-l10n-name="details">fhacal-faire ùr a chur ris</div>

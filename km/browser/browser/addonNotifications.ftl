@@ -23,13 +23,6 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = បន្តទៅការដំឡើង
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = ការ​ដំឡើង​កម្មវិធី​ត្រូវ​បាន​បិទ​ដោយ​អ្នក​គ្រប់គ្រង​ប្រព័ន្ធ​របស់​អ្នក។
 xpinstall-disabled = ការ​ដំឡើង​កម្មវិធី​បច្ចុប្បន្ន​នេះ​ត្រូវ​បាន​បិទ ។ ចុច​​បើក​ហើយ​​ព្យាយាម​ម្ដងទៀត។
 xpinstall-disabled-button =
     .label = បើក
@@ -46,9 +39,6 @@ webext-perms-update-menu-item = { $addonName } តម្រូវ​ឲ្យ​
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = លុប { $name } ចេញ?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = លុប { $name } ចេញពី { -brand-shorter-name } មែនទេ?
 addon-removal-button = លុប​ចេញ
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
@@ -86,4 +76,3 @@ addon-local-install-error-not-signed = មិន​អាច​ដំឡើង�
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } មិន​អាច​ដំឡើង​បាន​ទេ​ព្រោះ​វា​មិន​ត្រូវ​គ្នា​ជាមួយ { -brand-short-name } { $appVersion } ។
-addon-install-error-blocklisted = { $addonName } មិន​អាច​ដំឡើង​បាន​ទេ ព្រោះ​វា​មាន​​ហានិភ័យ​​ខ្ពស់ ដែល​អាច​បណ្ដាលឲ្យ​មាន​បញ្ហា​ស្ថិរភាព ឬ​សុវត្ថិភាព។

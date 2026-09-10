@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Unntak
     .style = min-width: 45em
+    .title = Unntak
 permissions-close-key =
     .key = w
 permissions-address = Adressen til nettstedet
@@ -80,79 +80,64 @@ permissions-invalid-uri-label = Skriv inn et gyldig servernavn
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Unntak for utvidet sporingsbeskyttelse
     .style = { permissions-window2.style }
+    .title = Unntak for utvidet sporingsbeskyttelse
 permissions-exceptions-manage-etp-desc = Du kan oppgi hvilke nettsteder som har utvidet sporingsbeskyttelse slått av. Skriv inn den eksakte adressen til nettstedet du vil administrere, og klikk deretter på Legg til unntak.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Unntak - Infokapsler og nettstedsdata
     .style = { permissions-window2.style }
+    .title = Unntak - Infokapsler og nettstedsdata
 permissions-exceptions-cookie-desc = Du kan spesifisere hvilke nettsteder som alltid eller aldri får bruke infokapsler og nettsteddata.  Skriv inn den eksakte adressen til nettstedet du vil administrere, og klikk deretter Blokker, Tillat for økt, eller Tillat.
 
 ## Exceptions - Clear on Shutdown
 
 permissions-exceptions-shutdown-clearing-window =
-    .title = Unntak – Tøm historikk ved avslutning
     .style = { permissions-window2.style }
+    .title = Unntak – Tøm historikk ved avslutning
 permissions-exceptions-shutdown-clearing-desc = Du kan angi hvilke nettsteder som skal beholde dataene sine når { -brand-short-name } tømmer historikken ved avslutning. Skriv inn den nøyaktige adressen til nettstedet du vil behandle, og klikk deretter på Tillat.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Unntak - kun-HTTPS-modus
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Du kan slå av kun-HTTPS-modus for bestemte nettsteder. { -brand-short-name } prøver ikke å oppgradere tilkoblingen til sikker HTTPS for disse nettstedene. Unntak gjelder ikke private vinduer.
+    .title = Unntak - kun-HTTPS-modus
 permissions-exceptions-https-only-desc2 = Du kan slå av kun-HTTPS-modus for bestemte nettsteder. { -brand-short-name } prøver ikke å oppgradere tilkoblingen til sikker HTTPS for disse nettstedene.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
     .title = Tillatte nettsteder – sprettoppvinduer og tredjepartvideresendinger
-    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = Du kan angi hvilke nettsteder som har lov til å åpne sprettoppvinduer og bli videresendt av tredjepartsrammer.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Tillatte nettsteder - Sprettoppvinduer
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Du kan oppgi hvilke nettsted som har tillatelse til å åpne sprettoppvinduer. Skriv inn den eksakte adressen til nettstedet du vil tillate, og trykk «Tillat».
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Unntak - lagrede innlogginger
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Innlogginger fra følgende nettsteder vil ikke bli lagret
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Unntak - lagrede passord
     .style = { permissions-window2.style }
+    .title = Unntak - lagrede passord
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } lagrer ikke passord for nettsteder som er oppført her.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Tillatte nettsteder - Installering av utvidelser
     .style = { permissions-window2.style }
+    .title = Tillatte nettsteder - Installering av utvidelser
 permissions-exceptions-addons-desc = Du kan oppgi hvilke nettsted som har tillatelse til å installere programtillegg. Skriv inn den eksakte adressen til nettstedet du vil tillate, og trykk «Tillat».
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Innstillinger - Automatisk avspilling
     .style = { permissions-window2.style }
+    .title = Innstillinger - Automatisk avspilling
 permissions-site-autoplay-desc = Du kan håndtere de nettsteder som ikke følger dine standardinnstillinger for automatisk avspilling her.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Innstillinger - Varslingstillatelser
     .style = { permissions-window2.style }
+    .title = Innstillinger - Varslingstillatelser
 permissions-site-notification-desc = Følgende nettsider har bedt om å få sende deg varsler. Du kan spesifisere hvilke nettsider som har tillatelse til å sende deg varsler. Du kan også blokkere nye forespørsler som ber om tillatelse til å sende varsel.
 permissions-site-notification-disable-label =
     .label = Blokkere nye forespørsler som ber om tillatelse til å sende varsel
@@ -161,8 +146,8 @@ permissions-site-notification-disable-desc = Dette forhindrer nettsteder som ikk
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Innstillinger - Plasseringstillatelser
     .style = { permissions-window2.style }
+    .title = Innstillinger - Plasseringstillatelser
 permissions-site-location-desc = Følgende nettsteder har bedt om tilgang til plasseringen din. Du kan spesifisere hvilke nettsteder som får tilgang til plasseringen din. Du kan også blokkere nye forespørsler som ber om tilgang til plasseringen din.
 permissions-site-location-disable-label =
     .label = Blokker nye forespørsler som ber om tilgang til plasseringen din
@@ -171,8 +156,8 @@ permissions-site-location-disable-desc = Dette forhindrer nettsteder som ikke er
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Innstillinger - Tillatelser for virtuell virkelighet
     .style = { permissions-window2.style }
+    .title = Innstillinger - Tillatelser for virtuell virkelighet
 permissions-site-xr-desc = Følgende nettsteder har bedt om tilgang til din virtuell virkelighetsenhet. Du kan spesifisere hvilke nettsteder som får tilgang til din virtuell virkelighetsenhet. Du kan også blokkere nye forespørsler som ber om tilgang til din virtuell virkelighetsenhet.
 permissions-site-xr-disable-label =
     .label = Blokker nye forespørsler som ber om tilgang til din virtuell virkelighetsenhet.
@@ -181,8 +166,8 @@ permissions-site-xr-disable-desc = Dette forhindrer nettsteder som ikke er oppf�
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Innstillinger - Kameratillatelser
     .style = { permissions-window2.style }
+    .title = Innstillinger - Kameratillatelser
 permissions-site-camera-desc = Følgende nettsteder har bedt om tilgang til kameraet ditt. Du kan spesifisere hvilke nettsteder som får tilgang til kameraet ditt. Du kan også blokkere nye forespørsler som ber om tilgang til kameraet ditt.
 permissions-site-camera-disable-label =
     .label = Blokker nye forespørsler som ber om tilgang til kameraet ditt
@@ -191,8 +176,8 @@ permissions-site-camera-disable-desc = Dette forhindrer nettsteder som ikke er o
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = Innstillinger – Enhetsapper og -tjenester
     .style = { permissions-window2.style }
+    .title = Innstillinger – Enhetsapper og -tjenester
 permissions-site-localhost-desc = Disse nettstedene har bedt om tilgang til apper og tjenester på denne enheten. Du kan velge å tillate eller blokkere nettsteder fra å gjøre dette.
 permissions-site-localhost-disable-label =
     .label = Blokker nye forespørsler om tilgang til apper og tjenester på denne enheten
@@ -201,8 +186,8 @@ permissions-site-localhost-disable-desc = Dette vil hindre nettsteder som ikke e
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = Innstillinger – Lokale nettverksenheter
     .style = { permissions-window2.style }
+    .title = Innstillinger – Lokale nettverksenheter
 permissions-site-local-network-desc = Disse nettstedene har bedt om tilgang til apper og tjenester på enheter som er koblet til Wi-Fi-nettverket eller det lokale nettverket ditt. Du kan velge å tillate eller blokkere nettsteder fra å gjøre dette.
 permissions-site-local-network-disable-label =
     .label = Blokker nye forespørsler om tilgang til apper og tjenester på enheter som er koblet til Wi-Fi-nettverket eller det lokale nettverket ditt.
@@ -211,8 +196,8 @@ permissions-site-local-network-disable-desc = Dette vil hindre nettsteder som ik
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Innstillinger - Mikrofontillatelser
     .style = { permissions-window2.style }
+    .title = Innstillinger - Mikrofontillatelser
 permissions-site-microphone-desc = Følgende nettsteder har bedt om tilgang til mikrofonen din. Du kan spesifisere hvilke nettsteder som får tilgang til mikrofonen din. Du kan også blokkere nye forespørsler som ber om tilgang til mikrofonen din.
 permissions-site-microphone-disable-label =
     .label = Blokker nye forespørsler som ber om tilgang til mikrofonen din
@@ -223,12 +208,12 @@ permissions-site-microphone-disable-desc = Dette forhindrer nettsteder som ikke 
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Innstillinger - Høyttalertillatelser
     .style = { permissions-window2.style }
+    .title = Innstillinger - Høyttalertillatelser
 permissions-site-speaker-desc = Følgende nettsteder har bedt om å velge en lydutgangsenhet. Du kan spesifisere hvilke nettsteder som har lov til å velge en lydutgangsenhet.
 permissions-exceptions-doh-window =
-    .title = Nettstedunntak for DNS-over-HTTPS
     .style = { permissions-window2.style }
+    .title = Nettstedunntak for DNS-over-HTTPS
 permissions-exceptions-manage-doh-desc = { -brand-short-name } vil ikke bruke sikker DNS på disse nettstedene og deres underdomener.
 permissions-doh-entry-field = Skriv inn nettstedets domenenavn
     .accesskey = k

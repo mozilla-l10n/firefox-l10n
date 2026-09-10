@@ -262,8 +262,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Profilok
 menu-profiles-manage-profiles =
     .label = Profilok kezelése
 menu-profiles-new-profile =
@@ -285,9 +283,6 @@ menu-tools-downloads =
     .label = Letöltések
     .accesskey = L
 menu-tools-extensions-and-themes =
-    .label = Kiegészítők és témák
-    .accesskey = K
-menu-tools-addons-and-themes =
     .label = Kiegészítők és témák
     .accesskey = K
 menu-tools-fxa-sign-in2 =
@@ -346,8 +341,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Több hibakeresési információ
     .accesskey = T
-menu-help-report-site-issue =
-    .label = Hibás webhely bejelentése…
 menu-help-share-ideas =
     .label = Ötletek és visszajelzések megosztása…
     .accesskey = o

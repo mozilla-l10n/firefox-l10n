@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Etzetziones
     .style = min-width: 45em
+    .title = Etzetziones
 permissions-close-key =
     .key = w
 permissions-address = Indiritzu de su situ web
@@ -77,65 +77,50 @@ permissions-invalid-uri-label = Inserta unu nòmine de elaboradore tzentrale và
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Etzetziones pro s'amparu megioradu contra sa sighidura
     .style = { permissions-window2.style }
+    .title = Etzetziones pro s'amparu megioradu contra sa sighidura
 permissions-exceptions-manage-etp-desc = Podes pretzisare pro cales sitos web boles disativare s’amparu megioradu contra sa sighidura. Iscrie s’indiritzu esatu de su situ chi boles gestire e incarca Agiunghe un’etzetzione.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Etzetziones - Testimòngios (cookies) e datos de is sitos
     .style = { permissions-window2.style }
+    .title = Etzetziones - Testimòngios (cookies) e datos de is sitos
 permissions-exceptions-cookie-desc = Podes pretzisare a cales sitos web est semper o mai permìtidu de impreare testimòngios (cookies) e datos de is sitos. Iscrie s'indiritzu esatu de su situ chi boles gestire e luego incarca Bloca, Permite in sa sessione, o Permite.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
+    .style = { permissions-window2.style }
     .title = Etzetziones - Modalidade isceti HTTPS
-    .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Podes disativare sa modalidade isceti HTTPS pro sitos web ispetzìficos. { -brand-short-name } no at a tentare de agiornare sa connessione a sa versione de HTTPS segura pro custos sitos. Is etzetziones non s'ant a aplicare a is ventanas privadas.
 permissions-exceptions-https-only-desc2 = Podes disativare sa modalidade isceti HTTPS pro sitos web ispetzìficos. { -brand-short-name } no at a tentare de atualizare sa connessione a sa versione de HTTPS segura pro custos sitos.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Sitos permìtidos - Ventanas a cumparsa
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Podes pretzisare a cales cales sitos web est permìtidu de abèrrere is ventanas a cumparsa. Iscrie s'indiritzu esatu de su situ a su chi ddu boles permìtere e incarca Permite.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Etzetziones - Credentziales sarvadas
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Is credentziales pro is sitos web imbenientes no ant a èssere sarvadas
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Etzetziones - Craes sarvadas
     .style = { permissions-window2.style }
+    .title = Etzetziones - Craes sarvadas
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } no at a sarvare craes pro is sitos in custu elencu.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Sitos web permìtidos - Installatzione de is cumplementos
     .style = { permissions-window2.style }
+    .title = Sitos web permìtidos - Installatzione de is cumplementos
 permissions-exceptions-addons-desc = Podes pretzisare is sitos in ue est permìtida s'installatzione de cumplementos. Iscrie s'indiritzu esatu de su situ a su chi boles donare permissu e incarca Permite.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Cunfiguratzione - Riprodutzione in automàticu
     .style = { permissions-window2.style }
+    .title = Cunfiguratzione - Riprodutzione in automàticu
 permissions-site-autoplay-desc = Inoghe podes gestire is sitos chi non sighent sa cunfiguratzione tua pro sa riprodutzione in automàticu.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Cunfiguratzione - Permissos de notìficas
     .style = { permissions-window2.style }
+    .title = Cunfiguratzione - Permissos de notìficas
 permissions-site-notification-desc = Is sitos web imbenientes ant rechestu de t'imbiare notìficas. Podes pretzisare is sitos a is chi permitis s'imbiu de notìficas. Podes fintzas blocare is rechestas noas de permissos de notìficas.
 permissions-site-notification-disable-label =
     .label = Bloca is rechestas noas de permissos de notìficas
@@ -144,8 +129,8 @@ permissions-site-notification-disable-desc = Custu at a evitare chi is sitos web
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Cunfiguratzione - Permissos de positzione
     .style = { permissions-window2.style }
+    .title = Cunfiguratzione - Permissos de positzione
 permissions-site-location-desc = Is sitos web imbenientes ant rechestu de atzèdere a sa positzione tua. Podes pretzisare a cales sitos est permìtidu de atzèdere a sa positzione tua. Podes fintzas blocare is rechestas noas de atzessu a sa positzione.
 permissions-site-location-disable-label =
     .label = Bloca is rechestas noas de atzessu a sa positzione
@@ -154,8 +139,8 @@ permissions-site-location-disable-desc = Custu at a evitare chi is sitos web chi
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Cunfiguratzione - Permissos de realidade virtuale
     .style = { permissions-window2.style }
+    .title = Cunfiguratzione - Permissos de realidade virtuale
 permissions-site-xr-desc = Is sitos web imbenientes ant rechestu de atzèdere a is dispositivos tuos de realidade virtuale. Podes pretzisare a cales sitos est permìtidu de atzèdere a is dispositivos tuos de realidade virtuale. Podes fintzas blocare is rechestas noas de atzessu a is dispositivos de realidade virtuale.
 permissions-site-xr-disable-label =
     .label = Bloca is rechestas noas de atzessu a is dispositivos tuos de realidade virtuale
@@ -164,8 +149,8 @@ permissions-site-xr-disable-desc = Custu at a evitare chi is sitos web chi non s
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Cunfiguratzione - Permissos de sa fotocàmera
     .style = { permissions-window2.style }
+    .title = Cunfiguratzione - Permissos de sa fotocàmera
 permissions-site-camera-desc = Is sitos web imbenientes ant rechestu de atzèdere a sa fotocàmera. Podes pretzisare a cales sitos est permìtidu de atzèdere a sa fotocàmera. Podes fintzas blocare is rechestas noas de atzessu a sa fotocàmera.
 permissions-site-camera-disable-label =
     .label = Bloca is rechestas noas de atzessu a sa fotocàmera
@@ -174,8 +159,8 @@ permissions-site-camera-disable-desc = Custu at a evitare chi is sitos web chi n
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Cunfiguratzione - Permissos de su micròfonu
     .style = { permissions-window2.style }
+    .title = Cunfiguratzione - Permissos de su micròfonu
 permissions-site-microphone-desc = Is sitos web imbenientes ant rechestu de atzèdere a su micròfonu. Podes pretzisare a cales sitos est permìtidu de atzèdere a su micròfonu. Podes fintzas blocare is rechestas noas de atzessu a su micròfonu.
 permissions-site-microphone-disable-label =
     .label = Bloca is rechestas noas de atzessu a su micròfonu
@@ -186,12 +171,12 @@ permissions-site-microphone-disable-desc = Custu at a evitare chi is sitos web c
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Cunfiguratzione - Permissos de s’altoparlante
     .style = { permissions-window2.style }
+    .title = Cunfiguratzione - Permissos de s’altoparlante
 permissions-site-speaker-desc = Is sitos imbenientes rechedent de seberare unu dispositivu de essida àudio. Podes inditare cales sitos tenent su permissu de seberare unu dispositivu de essida àudio.
 permissions-exceptions-doh-window =
-    .title = Etzetziones de sitos pro DNS subra de HTTPS
     .style = { permissions-window2.style }
+    .title = Etzetziones de sitos pro DNS subra de HTTPS
 permissions-exceptions-manage-doh-desc = { -brand-short-name } no at a impreare su DNS seguru pro custos sitos nen pro is sutadomìnios issoro.
 permissions-doh-entry-field = Inserta su nòmine de domìniu de su situ
     .accesskey = I

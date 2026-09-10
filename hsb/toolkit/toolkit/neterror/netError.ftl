@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Wróćo hić
 neterror-return-to-previous-page-recommended-button = Wróćo (doporučeny)
 neterror-try-again-button-2 = Hišće raz spytać
     .accesskey = H
-neterror-try-again-button = Hišće raz spytać
 neterror-add-exception-button = Za tute sydło přeco pokročować
 neterror-settings-button = DNS-nastajenja změnić
 neterror-view-certificate-link = Certifikat pokazać
-neterror-trr-continue-this-time = Tutón raz pokročować
-neterror-disable-native-feedback-warning = Přeco pokročować
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = Dalše informacije
 ##
 
 neterror-pref-reset = Zda so, zo waše nastajenja syćoweje wěstoty móhli to zawinować. Chceće standardne nastajenja wobnowić?
-neterror-error-reporting-automatic = Zdźělće zmylki kaž tute, zo byšće { -vendor-short-name } pomhał, złowólne sydła identifikował a blokował
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Dźělće wot a zwjazajće zaso 
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } njemóže waše naprašowanje za adresu tutoho sydła přez naš dowěry hódny DNS resolwer škitać. Přičina je:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } njemóže waše naprašowanje za adresu tutoho sydła přez našeho poskićowarja wěsteho DNS škitać. Přičina je:
 neterror-dns-not-found-trr-third-party-warning2 = Móžeće ze swojim standardnym  DNS-resolwerom pokročować. Ale třeći poskićowar móhł widźeć, kotre websydła wopytujeće.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } njemóžeše z { $trrDomain } zwjazać.
 neterror-dns-not-found-trr-only-timeout = Zwjazowanje z { $trrDomain } je dlěje trało hač wočakowane.
-neterror-dns-not-found-trr-offline = Njejsće z internetom zwjazany.
 neterror-dns-not-found-trr-unknown-host2 = Tute websydło njeje so wot { $trrDomain } namakało.
 neterror-dns-not-found-trr-server-problem = Problem z { $trrDomain } je nastał.
 neterror-dns-not-found-bad-trr-url = Njepłaćiwy URL.
 neterror-dns-not-found-system-sleep = System je w spanskim modusu.
 neterror-dns-not-found-trr-unknown-problem = Njewočakowany problem.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } njemóže waše naprašowanje za adresu tutoho sydła přez naš dowěry hódny DNS reselwer škitać. Přičina je:
-neterror-dns-not-found-native-fallback-heuristic = DNS přez HTTPS je so we wašej syći znjemóžnił.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } njemóžeše z { $trrDomain } zwjazać.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = Snano je so wotstroniła, přesunyła, abo datajowe pra
 neterror-unknown-protocol = Snano dyrbiće druhe programy instalować, zo by so tuta adresa wočiniła.
 neterror-redirect-loop = Tutón problem so druhdy přeze znjemóžnjenje abo wotpokazowanje plackow zawinuje.
 neterror-unknown-socket-type-client-config = To móhło dla konfiguraciskeho zmylka z wašim klientom być.
-neterror-unknown-socket-type-psm-installed = Pruwujće, hač Personal Security Manager je instalowany na wašim systemje.
-neterror-unknown-socket-type-server-config = Přičina je snano njestandardna konfiguracija na wašim serwerje.
 neterror-not-cached-intro = Požadany dokument w pufrowaku { -brand-short-name } k dispoziciji njesteji.
 neterror-not-cached-sensitive = Jako wěstotnu naprawu { -brand-short-name } sensibelne dokumenty awtomatisce znowa njewotwołuje.
 neterror-not-cached-try-again = Klikńće na Hišće raz, zo byšće dokument hišće raz z websydła wotwołał.

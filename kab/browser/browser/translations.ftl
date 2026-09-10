@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Suqel asebter-a
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Tasuqqilt tettedduḍ
 translations-panel-settings-button =
     .aria-label = Sefrek iɣewwaren n usuqqel
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Sefrek tutlayin
-translations-panel-settings-about = Ɣef tsuqqilin deg { -brand-shorter-name }
 translations-panel-settings-about2 =
     .label = Ɣef tsuqqilin deg { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
@@ -83,14 +74,6 @@ translations-panel-error-dismiss-button =
     .label = Awi-t
 translations-panel-error-change-button =
     .label = Beddel tutlayt n uɣbalu
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Nesḥassef, ur nessefrak ara { $language } akka tura.
-translations-panel-error-unsupported-hint-unknown = Nesḥassef, ur nessefrak ara tutlayt-a akka tura.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -122,10 +105,6 @@ translations-manage-header = Tisuqilin
 translations-manage-settings-button =
     .label = Iɣewwaren…
     .accesskey = ɣ
-translations-manage-description = Sader tutlayin i usuqqel aruqqin.
-translations-manage-all-language = Meṛṛa tutlayin
-translations-manage-download-button = Sader
-translations-manage-delete-button = Kkes
 translations-manage-intro-2 = Sbadu ismenyifen-ik·im n tutlayt akked tsuqilt n yismal rnu sefrek n tutlayin i d-yettwasidren i tsuqilt war tuqqna.
 translations-manage-download-description = Sader tutlayin i usuqqel aruqqin
 translations-manage-language-download-button =
@@ -139,12 +118,11 @@ translations-manage-language-remove-all-button =
     .label = Kkes kullec
     .accesskey = e
 translations-manage-error-download = Yella-d wugur deg usader n yifuyla n tutlayt. Ttxil-k·m ɛreḍ tikkelt niḍen.
-translations-manage-error-delete = Tella-d tuccḍa deg tukksa n yifuyla n tutlayt. ttxil-k·m ɛreḍ tikkelt niḍen.
 translations-manage-error-remove = Tella-d tuccḍa deg tukksa n yifuyla n tutlayt. ttxil-k·m ɛreḍ tikkelt niḍen.
 translations-manage-error-list = Ur yessaweḍ ara ad d-yawi umuɣ n tutlayin yellan i tsuqilt. Smiren asebter-a akken ad tɛerḍeḍ tikkelt nniḍen.
 translations-settings-title =
-    .title = Iɣewwaren n tsuqqilin
     .style = min-width: 36em
+    .title = Iɣewwaren n tsuqqilin
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Tasuqilt ad d-tili s wudem awurman i tutlayin-a
@@ -228,16 +206,6 @@ select-translations-panel-init-failure-message =
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Yella wugur deg usuqqel. Ttxil-k ɛreḍ tikkelt niḍen.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Nesḥassef, ur nessefrak ara { $language } akka tura.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Nesḥassef, ur nessefrak ara tutlayt-a akka tura.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Iɣewwaren n usuqqel

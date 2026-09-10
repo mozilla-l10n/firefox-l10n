@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Dok cen pot buk acel ({ $shortcut })
     .aria-label = Cen
+    .tooltiptext = Dok cen pot buk acel ({ $shortcut })
     .accesskey = C
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Cit anyim pot buk acel ({ $shortcut })
     .aria-label = Anyim
+    .tooltiptext = Cit anyim pot buk acel ({ $shortcut })
     .accesskey = A
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Save Page
 
 main-context-menu-page-save =
@@ -104,9 +98,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = Gwok kakube calo…
     .accesskey = e
-main-context-menu-save-link-to-pocket =
-    .label = Gwok Kakube i { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -197,18 +188,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Cwal dwon…
     .accesskey = l
-main-context-menu-save-to-pocket =
-    .label = Gwok Potbuk i { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Cwal Potbuk i Nyonyo
-    .accesskey = o
 
 ##
 
-main-context-menu-keyword =
-    .label = Med lok mapire tek pi yeny man…
-    .accesskey = l
 main-context-menu-link-send-to-device =
     .label = Cwal kakube i Nyonyo
     .accesskey = o

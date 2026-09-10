@@ -6,15 +6,8 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = కొత్త ట్యాబు
-newtab-settings-button =
-    .title = మీ కొత్త ట్యాబు పేజీని మలచుకోండి
 newtab-settings-dialog-label =
     .aria-label = అమరికలు
-newtab-personalize-icon-label =
-    .aria-label = కొత్త ట్యాబును వ్యక్తిగతీకరించుకోండి
-    .title = కొత్త ట్యాబును వ్యక్తిగతీకరించుకోండి
-newtab-personalize-dialog-label =
-    .aria-label = వ్యక్తిగతీకరించు
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 
@@ -88,7 +81,6 @@ newtab-search-box-input =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = శోధన యంత్రాన్ని జోడించండి
-newtab-topsites-edit-topsites-header = టాప్ సైట్ను సవరించండి
 newtab-topsites-title-label = శీర్షిక
 newtab-topsites-title-input =
     .placeholder = శీర్షికను నమోదు చేయండి
@@ -125,20 +117,12 @@ newtab-topsite-sponsored = ప్రాయోజితం
 newtab-menu-section-tooltip =
     .aria-label = మెనూని తెరువు
     .title = మెనూని తెరువు
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = తీసివేయి
-    .title = తీసివేయి
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = { $title } కోసం సందర్భోచిత మెనూని తెరవు
     .title = మెనూని తెరువు
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = ఈ సైటును మార్చు
-    .title = ఈ సైటును మార్చు
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -149,19 +133,9 @@ newtab-menu-dismiss = విస్మరించు
 newtab-menu-pin = పిన్ను
 newtab-menu-unpin = పిన్ను తీసివేయి
 newtab-menu-delete-history = చరిత్ర నుంచి తీసివేయి
-newtab-menu-save-to-pocket = { -pocket-brand-name } కి సేవ్ చేయండి
-newtab-menu-delete-pocket = { -pocket-brand-name } నుండి తొలగించు
-newtab-menu-archive-pocket = { -pocket-brand-name }లో ఆర్కయివ్ చెయ్యి
 newtab-menu-show-privacy-info = మా స్పాన్సర్లు & మీ అంతరంగికత
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = ఇంకా తెలుసుకోండి
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = పూర్తయింది
-newtab-privacy-modal-button-manage = ప్రాయోజిత విషయపు అమరికలను నిర్వహించండి
-newtab-privacy-modal-header = మీ అంతరంగికత ముఖ్యమైనది.
-newtab-privacy-modal-link = కొత్త ట్యాబులో అంతరంగికత ఎలా పనిచేస్తుందో తెలుసుకోండి
 
 ##
 
@@ -215,31 +189,12 @@ newtab-label-source-read-time = { $source } · { $timeToRead } నిమి
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = విభాగాన్ని తీసివేయి
-newtab-section-menu-collapse-section = విభాగాన్ని ముడిచివేయి
-newtab-section-menu-expand-section = విభాగాన్ని విస్తరించు
-newtab-section-menu-manage-section = విభాగ నిర్వహణ
-newtab-section-menu-manage-webext = పొడగింత నిర్వహణ
-newtab-section-menu-add-topsite = మేటి సైటును చేర్చు
-newtab-section-menu-add-search-engine = శోధన యంత్రాన్ని జోడించండి
-newtab-section-menu-move-up = పైకి జరుపు
-newtab-section-menu-move-down = కిందకి జరుపు
 newtab-section-menu-privacy-notice = అంతరంగికత గమనిక
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = విభాగాన్ని కుదించు
-newtab-section-expand-section-label =
-    .aria-label = విభాగాన్ని విస్తరించు
 
 ## Section Headers.
 
 newtab-section-header-topsites = మేటి సైట్లు
 newtab-section-header-recent-activity = ఇటీవలి కార్యకలాపం
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider }చే సిఫార్సు చేయబడినది
 newtab-section-header-stories = ఆలోచింపజేసే కథనాలు
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = మీ కోసం నేటి ఎంపికలు
@@ -247,10 +202,6 @@ newtab-section-header-todays-picks = మీ కోసం నేటి ఎంప�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = విహారించడం మొదలుపెట్టండి, మీరు ఈమధ్య చూసిన లేదా ఇష్టపడిన గొప్ప వ్యాసాలను, వీడియోలను, ఇతర పేజీలను ఇక్కడ చూపిస్తాం.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = మీరు పట్టుబడ్డారు. { $provider } నుండి మరింత అగ్ర కథనాల కోసం తరువాత తనిఖీ చేయండి. వేచి ఉండలేరా? జాలములోని అంతటి నుండి మరింత గొప్ప కథనాలను కనుగొనడానికి ప్రసిద్ధ అంశం ఎంచుకోండి.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -258,21 +209,6 @@ newtab-discovery-empty-section-topstories-header = మీరు అన్నీ 
 newtab-discovery-empty-section-topstories-content = మరిన్న కథనాల కోసం కాసేపటి తర్వాత చూడండి.
 newtab-discovery-empty-section-topstories-try-again-button = మళ్ళీ ప్రయత్నించు
 newtab-discovery-empty-section-topstories-loading = వస్తోంది…
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = ప్రముఖ అంశాలు:
-newtab-pocket-more-recommendations = మరిన్ని సిఫారసులు
-newtab-pocket-learn-more = ఇంకా తెలుసుకోండి
-newtab-pocket-cta-button = { -pocket-brand-name } పొందండి
-newtab-pocket-save = భద్రపరుచు
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = ఇలాంటివి మరిన్ని
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -282,7 +218,6 @@ newtab-error-fallback-refresh-link = మళ్ళీ ప్రయత్నిం
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-subtitle = మీరు భద్రపరచుకున్న లేదా చూసిన సైట్లు
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -292,23 +227,13 @@ newtab-custom-row-selector2 =
             [one] { $num } వరుస
            *[other] { $num } వరుసలు
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } వరుస
-       *[other] { $num } వరుసలు
-    }
 newtab-custom-stories-personalized-toggle =
     .label = కథనాలు
-newtab-custom-pocket-sponsored = ప్రాయోజిక కథనాలు
-newtab-custom-recent-title = ఇటీవలి కార్యకలాపం
 newtab-custom-weather-toggle =
     .description = నేటి వాతావరణ అంచనా
     .label = వాతావరణం
 newtab-custom-widget-lists-toggle =
     .label = జాబితాలు
-newtab-custom-close-button = మూసివేయి
 
 ## Solid Colors
 

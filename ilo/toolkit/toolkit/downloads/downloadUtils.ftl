@@ -32,8 +32,5 @@ download-utils-transfer-diff-units = { $progress } a { $progressUnits } / { $tot
 #   $progress (string) - Progress number.
 #   $progressUnits (string) - Unit.
 download-utils-transfer-no-total = { $progress } a { $progressUnits }
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = rekurso a { $scheme }
 # Displayed time for files finished yesterday
 download-utils-yesterday = Idi Kalman

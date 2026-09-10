@@ -28,7 +28,7 @@ searchbar-icon =
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = অনুসন্ধান ইঞ্জিন যোগ করুন
     .style = min-width: 32em;
+    .title = অনুসন্ধান ইঞ্জিন যোগ করুন
 add-engine-button = স্বনির্ধারিত ইঞ্জিন যোগ করুন
 add-engine-name = অনুসন্ধান ইঞ্জিনের নাম

@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Er að samstilla…
 sync-disconnect-dialog-title2 = Aftengjast?
 sync-disconnect-dialog-body = { -brand-product-name } mun hætta að samstilla reikninginn þinn en mun ekki eyða neinum vafragögnum á þessu tæki.
 sync-disconnect-dialog-button = Aftengjast
-fxa-signout-dialog2-title = Skrá út af { -fxaccount-brand-name }?
 fxa-signout-dialog-title2 = Skrá þig út af reikningnum þínum?
 fxa-signout-dialog-body = Samstillt gögn verða áfram á reikningnum þínum.
 fxa-signout-dialog2-button = Útskrá
@@ -18,14 +17,6 @@ fxa-menu-turn-on-sync =
 fxa-menu-turn-on-sync-default = Kveikja á samstillingu
 fxa-menu-connect-another-device =
     .label = Tengja annað tæki…
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Senda flipa í tæki
-           *[other] senda { $tabCount } flipa í tæki
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Samstilli tæki…

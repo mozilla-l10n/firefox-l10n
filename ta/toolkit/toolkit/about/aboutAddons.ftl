@@ -102,15 +102,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = பாதுகாப்பு முறைமையால் அனைத்து கூடுதல் இணைப்புகளும் செயல்நீக்கப்பட்டன.
-extensions-warning-check-compatibility = கூடுதல் இணைப்பு ஒத்தியல்பு சரிபார்த்தல் செயல்நீக்கப்பட்டுள்ளது. நீங்கள் ஒத்தியல்பில்லாத கூடுதல் இணைப்புகளை கொண்டிருக்கலாம்.
-extensions-warning-safe-mode2 =
-    .message = பாதுகாப்பு முறைமையால் அனைத்து கூடுதல் இணைப்புகளும் செயல்நீக்கப்பட்டன.
 extensions-warning-check-compatibility2 =
     .message = கூடுதல் இணைப்பு ஒத்தியல்பு சரிபார்த்தல் செயல்நீக்கப்பட்டுள்ளது. நீங்கள் ஒத்தியல்பில்லாத கூடுதல் இணைப்புகளை கொண்டிருக்கலாம்.
 extensions-warning-check-compatibility-button = செயல்படுத்து
     .title = கூடுதல் இணைப்பு ஒத்தியல்பு சரிபார்த்தலை செயல்படுத்து
-extensions-warning-update-security = கூடுதல் இணைப்பு புதுப்பித்தல் பாதுகாப்பு சரிபார்த்தல் செயல்நீக்கப்பட்டுள்ளது.நீங்கள் புதுப்பித்தல்களால் திருப்தியடையலாம்.
 extensions-warning-update-security2 =
     .message = கூடுதல் இணைப்பு புதுப்பித்தல் பாதுகாப்பு சரிபார்த்தல் செயல்நீக்கப்பட்டுள்ளது.நீங்கள் புதுப்பித்தல்களால் திருப்தியடையலாம்.
 extensions-warning-update-security-button = செயல்படுத்து
@@ -163,24 +158,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } ஆனது { -brand-short-name } { $version }-உடன் ஒத்தியல்பாக இல்லை.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } ஆனது { -brand-short-name } { $version }-உடன் ஒத்தியல்பாக இல்லை.
-details-notification-unsigned-and-disabled = { $name } ஐ { -brand-short-name } என்பதில் பயன்படுத்துவதற்குச் சரிபார்க்க இயலாததால் முடக்கப்பட்டது.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } ஐ { -brand-short-name } என்பதில் பயன்படுத்துவதற்குச் சரிபார்க்க இயலாததால் முடக்கப்பட்டது.
-details-notification-unsigned-and-disabled-link = கூடுதல் தகவல்
-details-notification-unsigned = { $name } ஐ { -brand-short-name } என்பதில் பயன்படுத்துவதற்குச் சரிபார்க்க இயலவில்லை. எச்சரிக்கையுடன் தொடரவும்.
 details-notification-unsigned2 =
     .message = { $name } ஐ { -brand-short-name } என்பதில் பயன்படுத்துவதற்குச் சரிபார்க்க இயலவில்லை. எச்சரிக்கையுடன் தொடரவும்.
-details-notification-unsigned-link = கூடுதல் தகவல்
-details-notification-blocked = { $name } பாதுகாப்பு அல்லது நிலைப்புத்தன்மை சிக்கல்களால் செயல்நீக்கப்பட்டது.
-details-notification-blocked-link = கூடுதல் தகவல்
-details-notification-softblocked = { $name } பாதுகாப்பு அல்லது நிலைப்புத்தன்மை சிக்கல்களை உருவாக்குவதாகும்.
-details-notification-softblocked-link = கூடுதல் தகவல்
-details-notification-gmp-pending = { $name } விரைவில் நிறுவப்படும்.
 details-notification-gmp-pending2 =
     .message = { $name } விரைவில் நிறுவப்படும்.
 

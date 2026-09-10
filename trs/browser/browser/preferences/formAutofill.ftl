@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Nej direksion ma sa'
 autofill-manage-addresses-list-header = Hiuj gun'
-autofill-manage-credit-cards-title = Na'nïnj sa'aj Tarjeta Yikín
-autofill-manage-credit-cards-list-header = Tarjeta Yikín
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Guxūn
@@ -21,9 +19,6 @@ autofill-manage-edit-button = Nagi'iô'…
 
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Nagi'io' Direksiôn
-autofill-address-given-name = Si yugui asini ma
-autofill-address-additional-name = A'go si yugui't
-autofill-address-family-name = Sa nata' ràt
 autofill-address-organization = Yi'ni'in
 autofill-address-street = Hiuj ne't
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
@@ -69,18 +64,12 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Nuto' Direksiôn Nakàa
 autofill-address-country = País ne't
 autofill-address-tel = Si telefonot
 autofill-address-email = Korrêo
 autofill-cancel-button = Duyichin'
 autofill-save-button = Na'nïnj sà'
 autofill-country-warning-message = Nej sa nachra ma'ān ni si daran' hiuj 'iah sun ma.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Nuto' Tarjeta Yikíin
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Nagi'iô' Tarjeta Yikíin
 autofill-card-number-2 =
     .label = Si Numero Tarjeta
 autofill-card-number = Si Numero Tarjeta
@@ -94,15 +83,3 @@ autofill-card-expires-month = Ahui ganahuij ma
 autofill-card-expires-year = Hio' ganahuij ma
 autofill-card-billing-address = Direksiôn faktura
 autofill-card-network = Nej y'ni' Tarjeta
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

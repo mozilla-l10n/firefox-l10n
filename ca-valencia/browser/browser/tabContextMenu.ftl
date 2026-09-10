@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Pestanya nova
-    .accesskey = n
 reload-tab =
     .label = Torna a carregar la pestanya
     .accesskey = r
@@ -76,10 +73,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Comparteix
     .accesskey = x
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -101,10 +94,3 @@ tab-context-move-tabs =
            *[other] Mou les pestanyes
         }
     .accesskey = M
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Envia la pestanya a un dispositiu
-           *[other] Envia { $tabCount } pestanyes a un dispositiu
-        }
-    .accesskey = n

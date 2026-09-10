@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Tab Baru
-newtab-settings-button =
-    .title = Ubahsuai laman Tab Baru Anda
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Ubahsuai laman ini
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = Sesuaikan
 newtab-customize-panel-label =
     .label = Sesuaikan
-newtab-personalize-settings-icon-label =
-    .aria-label = Pengaturan
-    .title = Personalisasikan Tab Baru
 newtab-settings-dialog-label =
     .aria-label = Pengaturan
-newtab-personalize-icon-label =
-    .aria-label = Personalisasikan tab baru
-    .title = Personalisasikan tab baru
-newtab-personalize-dialog-label =
-    .aria-label = Personalisasikan
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 
@@ -109,7 +99,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Tambahkan Mesin Pencari
 newtab-topsites-add-shortcut-header = Pintasan Baru
-newtab-topsites-edit-topsites-header = Ubah Situs Pilihan
 newtab-topsites-edit-shortcut-header = Edit Pintasan
 newtab-topsites-add-shortcut-label = Tambahkan Pintasan
 newtab-topsites-add-shortcut-title =
@@ -159,20 +148,12 @@ topsite-label-pinned =
 newtab-menu-section-tooltip =
     .aria-label = Buka menu
     .title = Buka menu
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Hapus
-    .title = Hapus
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Buka menu konteks untuk { $title }
     .title = Buka menu
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Edit situs ini
-    .title = Edit situs ini
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -183,11 +164,7 @@ newtab-menu-dismiss = Tutup
 newtab-menu-pin = Semat
 newtab-menu-unpin = Lepas
 newtab-menu-delete-history = Hapus dari Riwayat
-newtab-menu-save-to-pocket = Simpan ke { -pocket-brand-name }
-newtab-menu-delete-pocket = Hapus dari { -pocket-brand-name }
-newtab-menu-archive-pocket = Arsip di { -pocket-brand-name }
 newtab-menu-show-privacy-info = Sponsor kami & privasi Anda
-newtab-menu-about-fakespot = Tentang { -fakespot-brand-name }
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Laporkan
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -195,23 +172,12 @@ newtab-menu-report = Laporkan
 newtab-menu-section-block = Blokir
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Pelajari lebih lanjut
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = Berhenti Mengikuti Topik
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = Kelola konten bersponsor
 newtab-menu-our-sponsors-and-your-privacy = Sponsor kami dan privasi Anda
 newtab-menu-report-this-ad = Laporkan iklan ini
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Selesai
-newtab-privacy-modal-button-manage = Kelola pengaturan konten sponsor
-newtab-privacy-modal-header = Privasi Anda penting.
-newtab-privacy-modal-paragraph-2 = Selain menampilkan berbagai kisah menawan, kami juga menampilkan konten yang relevan, yang telah diperiksa dari sponsor tertentu, untuk Anda. Yakinlah, <strong>data penjelajahan Anda tidak pernah meninggalkan { -brand-product-name } Anda</strong> — kami dan sponsor kami tidak melihatnya.
-newtab-privacy-modal-link = Pelajari cara privasi bekerja di tab baru
 
 ##
 
@@ -267,31 +233,12 @@ newtab-label-sponsored-fixed = Disponsori
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Hapus Bagian
-newtab-section-menu-collapse-section = Ciutkan Bagian
-newtab-section-menu-expand-section = Bentangkan Bagian
-newtab-section-menu-manage-section = Kelola Bagian
-newtab-section-menu-manage-webext = Kelola Ekstensi
-newtab-section-menu-add-topsite = Tambah Situs Pilihan
-newtab-section-menu-add-search-engine = Tambahkan Mesin Pencari
-newtab-section-menu-move-up = Naikkan
-newtab-section-menu-move-down = Turunkan
 newtab-section-menu-privacy-notice = Kebijakan Privasi
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Ciutkan Bagian
-newtab-section-expand-section-label =
-    .aria-label = Bentangkan Bagian
 
 ## Section Headers.
 
 newtab-section-header-topsites = Situs Teratas
 newtab-section-header-recent-activity = Aktivitas terbaru
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Disarankan oleh { $provider }
 newtab-section-header-stories = Cerita yang menggugah pikiran
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = Pilihan hari ini untuk Anda
@@ -299,10 +246,6 @@ newtab-section-header-todays-picks = Pilihan hari ini untuk Anda
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Mulai menjelajah, dan kami akan menampilkan beberapa artikel bagus, video, dan halaman lain yang baru saja Anda kunjungi atau termarkah di sini.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Maaf Anda tercegat. Periksa lagi nanti untuk lebih banyak cerita terbaik dari { $provider }. Tidak mau menunggu? Pilih topik populer untuk menemukan lebih banyak cerita hebat dari seluruh web.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = Semuanya sudah dibuka. Silakan kembali nanti untuk cerita lainnya. Tidak sabar? Pilih topik populer untuk menemukan lebih banyak cerita hebat dari seluruh web.
 
@@ -315,39 +258,6 @@ newtab-discovery-empty-section-topstories-loading = Memuat…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ups! Kami belum selesai memuat bagian ini, tetapi ternyata belum.
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Topik Populer:
-newtab-pocket-new-topics-title = Ingin lebih banyak cerita? Lihat topik populer ini dari { -pocket-brand-name }
-newtab-pocket-more-recommendations = Rekomendasi Lainnya
-newtab-pocket-learn-more = Pelajari lebih lanjut
-newtab-pocket-cta-button = Dapatkan { -pocket-brand-name }
-newtab-pocket-cta-text = Simpan cerita yang anda sukai di { -pocket-brand-name }, dan dapatkan bacaan menarik untuk Anda.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } adalah bagian dari keluarga { -brand-product-name }
-newtab-pocket-save = Simpan
-newtab-pocket-saved = Disimpan
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = Lainnya seperti ini
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = Bukan untuk saya
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = Terima kasih. Umpan balik Anda akan membantu kami meningkatkan umpan Anda.
-newtab-toast-dismiss-button =
-    .aria-label = Tutup
-    .title = Tutup
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = Temukan yang terbaik dari web
-newtab-pocket-onboarding-cta = { -pocket-brand-name } mengeksplorasi beragam publikasi untuk menghadirkan konten yang paling informatif, inspiratif, dan dapat dipercaya langsung ke peramban { -brand-product-name } Anda.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -356,8 +266,6 @@ newtab-error-fallback-refresh-link = Segarkan laman untuk mencoba lagi.
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Pintasan
-newtab-custom-shortcuts-subtitle = Situs yang Anda simpan atau kunjungi
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Situs yang Anda simpan atau kunjungi
@@ -372,15 +280,6 @@ newtab-custom-row-selector2 =
         { $num ->
            *[other] { $num } baris
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-       *[other] { $num } baris
-    }
-newtab-custom-sponsored-sites = Pintasan bersponsor
-newtab-custom-pocket-title = Disarankan oleh { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Konten luar biasa yang dikelola oleh { -pocket-brand-name }, bagian dari keluarga { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = Konten luar biasa yang dikurasi oleh keluarga { -brand-product-name }
@@ -392,10 +291,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = Cerita yang dipersonalisasi berdasarkan aktivitas Anda
 newtab-custom-stories-personalized-checkbox-label = Cerita yang dipersonalisasi berdasarkan aktivitas Anda
-newtab-custom-pocket-sponsored = Konten bersponsor
-newtab-custom-pocket-show-recent-saves = Tampilkan penyimpanan terbaru
-newtab-custom-recent-title = Aktivitas terbaru
-newtab-custom-recent-subtitle = Pilihan situs dan konten terbaru
 newtab-custom-weather-toggle =
     .description = Sekilas prakiraan cuaca hari ini
     .label = Cuaca
@@ -411,7 +306,6 @@ newtab-widget-manage-title = Widget
 newtab-custom-close-menu-button =
     .aria-label = Tutup menu
     .title = Tutup
-newtab-custom-close-button = Tutup
 newtab-custom-settings = Kelola pengaturan lainnya
 
 ## New Tab Wallpapers
@@ -429,7 +323,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Gambar melebihi batas ukuran berkas sebesar { $file_size }MB. Coba unggah berkas yang lebih kecil.
 newtab-wallpaper-error-upload-file-type = Kami tidak dapat mengunggah berkas Anda. Silakan coba lagi dengan berkas gambar.
-newtab-wallpaper-error-file-type = Kami tidak dapat mengunggah berkas Anda. Silakan coba lagi dengan jenis berkas yang berbeda.
 newtab-wallpaper-light-red-panda = Panda merah
 newtab-wallpaper-light-mountain = Pegunungan putih
 newtab-wallpaper-light-sky = Langit dengan awan ungu dan merah muda
@@ -526,10 +419,6 @@ newtab-wallpaper-celestial-river = Citra satelit sungai
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = Lihat prakiraan di { $provider }
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Bersponsor
 newtab-weather-menu-change-location = Ubah lokasi
 newtab-weather-change-location-search-input-placeholder =
@@ -548,7 +437,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celcius
 newtab-weather-menu-change-temperature-units-fahrenheit = Beralih ke Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Beralih ke Celcius
-newtab-weather-menu-hide-weather = Sembunyikan cuaca di Tab Baru
 newtab-weather-menu-learn-more = Pelajari lebih lanjut
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Data cuaca tidak tersedia saat ini.
@@ -623,7 +511,6 @@ newtab-section-unblock-button = Buka blokir
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = Jangan sekarang
 newtab-section-confirm-block-topic-p1 = Yakin ingin memblokir topik ini?
 newtab-section-confirm-block-topic-p2 = Topik yang diblokir tidak akan muncul lagi di asupan Anda.
 # Variables:

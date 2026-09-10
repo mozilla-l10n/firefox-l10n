@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = ایک صفحہ واپس جائیں ({ $shortcut })
     .aria-label = واپس
+    .tooltiptext = ایک صفحہ واپس جائیں ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = ایک صفحہ آگے جائیں ({ $shortcut })
     .aria-label = آگے
+    .tooltiptext = ایک صفحہ آگے جائیں ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Save Page
 
 main-context-menu-page-save =
@@ -104,9 +98,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = ربط محفوظ کریں بطور ...
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = { -pocket-brand-name } میں ربط محفوظ کریں
-    .accesskey = o
 
 ##
 
@@ -221,34 +212,16 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = آڈیو ای میل کریں…
     .accesskey = a
-main-context-menu-save-to-pocket =
-    .label = { -pocket-brand-name } میں صفحہ محفوظ کریں
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = صفحہ کو آلہ پر ارسال کریں
-    .accesskey = n
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = محفوظ شدہ  لاگ ان کا استعمال کریں
-    .accesskey = p
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = محفوظ شدہ پاس ورڈ استعمال کریں
     .accesskey = o
-
-##
-
 main-context-menu-suggest-strong-password =
     .label = مضبوط پاس ورڈ تجویز کریں…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = لاگ ان منظم کریں
-    .accesskey = M
-main-context-menu-keyword =
-    .label = اس تلاش کے لیے کلیدی لفظ ڈالیں…
-    .accesskey = K
 main-context-menu-link-send-to-device =
     .label = ربط کو آلہ پر ارسال کریں
     .accesskey = n
@@ -285,9 +258,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = ایک سکرین شاٹ لیں
     .accesskey = T
-main-context-menu-take-frame-screenshot =
-    .label = ایک سکرین شاٹ لیں
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = صفحہ ماخذ نظارہ کریں
     .accesskey = V

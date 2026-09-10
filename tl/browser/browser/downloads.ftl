@@ -80,8 +80,6 @@ downloads-cmd-show-description-2 =
             [macos] Ipakita sa Finder
            *[other] Ipakita sa Folder
         }
-downloads-cmd-show-downloads =
-    .label = Ipakita ang Folder ng Mga Download
 downloads-cmd-retry =
     .tooltiptext = Subukan muli
 downloads-cmd-retry-panel =

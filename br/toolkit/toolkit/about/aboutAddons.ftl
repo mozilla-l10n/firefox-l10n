@@ -149,15 +149,10 @@ addon-sitepermission-host = Aotreoù al lec’hienn evit { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = An holl askouezhioù zo bet diweredekaet gant ar mod diogelroez.
-extensions-warning-check-compatibility = Gwiriañ keverlec'hded an askouezhioù zo dizaotreet. Posupl eo deoc'h kaout askouezhioù nad int ket keverlec'h.
-extensions-warning-safe-mode2 =
-    .message = An holl askouezhioù zo bet diweredekaet gant ar mod diogelroez.
 extensions-warning-check-compatibility2 =
     .message = Gwiriañ keverlec'hded an askouezhioù zo dizaotreet. Posupl eo deoc'h kaout askouezhioù nad int ket keverlec'h.
 extensions-warning-check-compatibility-button = Gweredekaat
     .title = Gweredekaat ar gwiriadur evit keverlec'hded an askouezh
-extensions-warning-update-security = Diweredekaet eo ar gwiriañ evit hizivaat an askouezhioù. Marteze e viot lakaet en arvar gant hizivadurioù.
 extensions-warning-update-security2 =
     .message = Diweredekaet eo ar gwiriañ evit hizivaat an askouezhioù. Marteze e viot lakaet en arvar gant hizivadurioù.
 extensions-warning-update-security-button = Gweredekaat
@@ -224,10 +219,6 @@ shortcuts-duplicate = Eilañ ar verradenn
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } a zo implijet evel berradenn e plegennoù disheñvel. An doublennoù berradennoù a c’hall kaout un emzalc’h dic’hortoz.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } a zo implijet evel berradenn e plegennoù disheñvel. An doublennoù berradennoù a c’hall kaout un emzalc’h dic’hortoz.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -250,18 +241,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    An astennadoù ha temoù a zo evel arloadoù evit ho merdeer. Gallout a reont 
-    suraat ho kerioù-tremen, pellgargañ videoioù, kavout taolioù mat, stankañ 
-    ar bruderezh strobus, cheñch neuz ho merdeer hag all. An arloadigoù-se a vez 
-    diorroet gant un tredeour. Setu un dibab <a data-l10n-name="learn-more-trigger">kuzuliet</a> 
-    gant { -brand-product-name } evit ur surentez, un digonusted hag arc’hweladurioù dibar.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    Lod ag an erbedadennoù-se a zo personelaet. Diazezet int war an askouezhioù
-    all ho peus staliet, penndibaboù ho profil hag ar stadegoù implij.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -329,16 +308,9 @@ addon-detail-last-updated-label = Hizivaet da ziwezhañ
 addon-detail-homepage-label = Pennbajenn
 addon-detail-rating-label = Notenn
 # Message for add-ons with a staged pending update.
-install-postponed-message = Hizivaet e vo an askouezh-mañ pa adloc’ho { -brand-short-name }.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Hizivaet e vo an askouezh-mañ pa adloc’ho { -brand-short-name }.
 install-postponed-button = Hizivaat bremañ
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Notennet { NUMBER($rating, maximumFractionDigits: 1) } war 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -359,9 +331,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> a zo bet dilemet.
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = { $addon } a zo bet dilemet.
 pending-uninstall-undo-button = Dizober
@@ -378,11 +347,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Aotreet er prenestroù prevez
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Aotreet er prenestroù prevez
 addon-detail-private-browsing-help = Ma’z eo aotreet e c’hall an askouezh haeziñ hoc’h obererezh enlinenn e-pad ar merdeiñ prevez. <a data-l10n-name="learn-more">Gouzout hiroc’h</a>
 addon-detail-private-browsing-allow = Aotren
@@ -401,13 +365,6 @@ addon-detail-quarantined-domains-disallow = Na aotren
 # aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
 addon-detail-group-label-quarantined-domains =
     .aria-label = { addon-detail-quarantined-domains-label }
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } ne erbed nemet an askouezhioù a zouj d’hor reoladoù surentez hag efedusted
 
 ##
 
@@ -442,27 +399,14 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = Digeverlec’h eo { $name } gant { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = Digeverlec’h eo { $name } gant { -brand-short-name } { $version }.
-details-notification-incompatible-link = Muioc’h a ditouroù
-details-notification-unsigned-and-disabled = N'haller ket gwiriekaat arver { $name } e { -brand-short-name } ha diweredekaet eo bet.
 details-notification-unsigned-and-disabled2 =
     .message = N'haller ket gwiriekaat arver { $name } e { -brand-short-name } ha diweredekaet eo bet.
-details-notification-unsigned-and-disabled-link = Muioc'h a ditouroù
-details-notification-unsigned = N'haller ket gwiriekaat arver { $name } e { -brand-short-name }. Kendalc'hit gant evezh.
 details-notification-unsigned2 =
     .message = N'haller ket gwiriekaat arver { $name } e { -brand-short-name }. Kendalc'hit gant evezh.
-details-notification-unsigned-link = Muioc'h a ditouroù
-details-notification-blocked = Diweredekaet eo bet { $name } en abeg da gudennoù a-fet diogelroez pe stabilded.
 details-notification-blocked-link2 = Gwelet ar munudoù
 details-notification-softblocked-link2 = Gwelet ar munudoù
-details-notification-blocked-link = Muioc'h a ditouroù
-details-notification-softblocked = Anavezet eo { $name } evit degas kudennoù e-keñver diogelroez pe stabilded.
-details-notification-softblocked-link = Muioc'h a ditouroù
-details-notification-gmp-pending = Staliet e vo { $name } a-benn nebeut.
 details-notification-gmp-pending2 =
     .message = Staliet e vo { $name } a-benn nebeut.
 

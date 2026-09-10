@@ -5,12 +5,6 @@
 
 ### These strings are used inside the about:debugging UI.
 
-
-# Page Title strings
-
-
-# Sidebar strings
-
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = ఈ { -brand-shorter-name }
@@ -46,9 +40,6 @@ about-debugging-sidebar-support-icon =
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = పరికరాలను తాజాకరించు
-
-# Setup Page strings
-
 # USB section of the Setup page (USB status)
 about-debugging-setup-usb-status-enabled = చేతనం
 about-debugging-setup-usb-status-disabled = అచేతనం
@@ -58,9 +49,6 @@ about-debugging-network-locations-add-button = చేర్చు
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = తొలగించు
-
-# Runtime Page strings
-
 # Below are the titles for the various categories of debug targets that can be found
 # on "runtime" pages of about:debugging.
 # Title of the temporary extensions category (only available for "This Firefox" runtime).
@@ -83,9 +71,6 @@ about-debugging-runtime-service-workers =
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
 about-debugging-runtime-name = { $name } ({ $version })
-
-# Debug Targets strings
-
 # Displayed in the categories of "runtime" pages that don't have any debug target to
 # show. Debug targets depend on the category (extensions, tabs, workers...).
 about-debugging-debug-target-list-empty = ఇంకా ఏమీలేదు.

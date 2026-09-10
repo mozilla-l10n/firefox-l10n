@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = ਇੱਕ ਪਿਛਲੇ ਸਫ਼ੇ 'ਤੇ ਜਾਓ ({ $shortcut })
     .aria-label = ਪਿੱਛੇ
+    .tooltiptext = ਇੱਕ ਪਿਛਲੇ ਸਫ਼ੇ 'ਤੇ ਜਾਓ ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = ਇੱਕ ਸਫ਼ੇ 'ਤੇ ਅੱਗੇ ਜਾਓ ({ $shortcut })
     .aria-label = ਅੱਗੇ
+    .tooltiptext = ਇੱਕ ਸਫ਼ੇ 'ਤੇ ਅੱਗੇ ਜਾਓ ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = …ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
-    .accesskey = m
     .tooltiptext = ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = …ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
-    .accesskey = m
     .tooltiptext = ਸਫ਼ਾ ਬੁਕਮਾਰਕ ਕਰੋ({ $shortcut })
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = …ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ
-    .accesskey = m
     .tooltiptext = ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = …ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ
-    .accesskey = m
     .tooltiptext = ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ ({ $shortcut })
+    .accesskey = m
 main-context-menu-open-link =
     .label = ਲਿੰਕ ਨੂੰ ਖੋਲ੍ਹੋ
     .accesskey = O
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = …ਲਿੰਕ ਨੂੰ ਇੰਝ ਸੰਭਾਲੋ
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = ਲਿੰਕ ਨੂੰ { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲੋ
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = ਕਿਸੇ ਸਫ਼ੇ 
 main-context-menu-send-to-mobile-connect-phone3 = ਟੈਬਾਂ ਨੂੰ ਭੇਜਣ ਲਈ ਕਿਸੇ ਡਿਵਾਈਸ ਨੂੰ ਕਨੈਕਟ ਕਰੋ
 main-context-menu-send-to-mobile-connect-phone-from-link = ਕਿਸੇ ਲਿੰਕ ਨੂੰ ਭੇਜਣ ਲਈ ਕਿਸੇ ਡਿਵਾਈਸ ਨੂੰ ਕਨੈਕਟ ਕਰੋ
 main-context-menu-send-to-mobile-connect-phone-from-page = ਕਿਸੇ ਸਫ਼ੇ ਨੂੰ ਭੇਜਣ ਲਈ ਕਿਸੇ ਡਿਵਾਈਸ ਨੂੰ ਕਨੈਕਟ ਕਰੋ
-main-context-menu-save-to-pocket =
-    .label = ਸਫ਼ੇ ਨੂੰ { -pocket-brand-name } ‘ਚ ਸੰਭਾਲੋ
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = ਸਫ਼ੇ ਨੂੰ ਡਿਵਾਈਸ ‘ਤੇ ਭੇਜੋ
-    .accesskey = D
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = ਸੰਭਾਲੇ ਲਾਗਇਨ ਨੂੰ ਵਰਤੋਂ
-    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਨੂੰ ਵਰਤੋਂ
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } ਈਮੇਲ ਮਾਸਕ ਵਰਤੋਂ
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = ਮਜਬੂਤ ਪਾਸਵਰਡ ਲਈ ਸੁਝਾਅ…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = ਲਾਗਇਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
-    .accesskey = M
 main-context-menu-manage-passwords =
     .label = ਪਾਸਵਰਡਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
     .accesskey = M
-main-context-menu-keyword =
-    .label = ਇਸ ਖੋਜ ਲਈ ਸ਼ਬਦ ਦਿਓ…
-    .accesskey = K
 main-context-menu-add-engine =
     .label = ਖੋਜ ਇੰਜਣ ਨੂੰ ਖੋਜੋ
     .accesskey = S
@@ -393,9 +366,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = ਸਕਰੀਨ-ਸ਼ਾਟ ਲਵੋ
     .accesskey = T
-main-context-menu-take-frame-screenshot =
-    .label = ਸਕਰੀਨਸ਼ਾਟ ਲਵੋ
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = ਸਫ਼ੇ ਦੇ ਸਰੋਤ ਨੂੰ ਵੇਖੋ
     .accesskey = V

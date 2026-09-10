@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Jo standertsykmasine is wizige.</strong> { $oldEngine } is net mear as standertsykmasine beskikber yn { -brand-short-name }. { $newEngine } is no jo standertsykmasine. Gean nei jo ynstellingen om oer te skeakeljen nei in oare standertsykmasine. <label data-l10n-name="remove-search-engine-article">Mear ynfo</label>
 removed-search-engine-message2 = <strong>Jo standertsykmasine is wizige.</strong> { $oldEngine } is net mear as standertsykmasine beskikber yn { -brand-short-name }. { $newEngine } is no jo standertsykmasine. Gean nei jo ynstellingen om oer te skeakeljen nei in oare standertsykmasine.
 remove-search-engine-button = OK
 
@@ -52,11 +51,11 @@ install-search-engine-no = Nee
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Sykmasine tafoegje
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Sykmasine bewurkje
     .style = min-width: 32em;
+    .title = Sykmasine bewurkje
 add-engine-button = Oanpaste sykmasine tafoegje…
 add-engine-name = Namme sykmasine
 add-engine-url2 = URL mei %s op it plak fan de sykterm
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Probearje %s op te nimmen op it plak fan de
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Sykmasine tafoegje
-    .buttonaccesskeyaccept = t
     .buttonlabelextra1 = Avansearre
+    .buttonaccesskeyaccept = t
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Sykmasine bewarje
-    .buttonaccesskeyaccept = y
     .buttonlabelextra1 = Avansearre
+    .buttonaccesskeyaccept = y

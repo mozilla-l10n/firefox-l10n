@@ -2,111 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } ᱱᱤᱡᱚᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } ᱱᱤᱡᱚᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — ᱱᱤᱡᱚᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — ᱱᱤᱡᱚᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } ᱱᱤᱡᱚᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } — ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -150,8 +48,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = ᱚᱯᱷᱯᱟᱭᱤᱱ ᱫᱚᱦᱚ ᱡᱟᱭᱜᱟ ᱢᱮᱥᱮᱡᱽ ᱯᱮᱱᱟᱞ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
 urlbar-password-notification-anchor =
     .tooltiptext = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱷᱚᱵᱚᱨ ᱯᱮᱱᱟᱞ ᱥᱟᱺᱪᱟᱣ ᱟᱨ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
-urlbar-plugins-notification-anchor =
-    .tooltiptext = ᱢᱟᱴᱚᱡ ᱯᱞᱚᱜᱽᱼᱤᱱ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱥᱟᱶ ᱟᱢᱟᱜ ᱠᱟᱢᱨᱟ ᱟᱨ/ᱟᱨ ᱵᱟᱝ ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱦᱟᱹᱴᱤᱧ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 # "Speakers" is used in a general sense that might include headphones or
@@ -164,15 +60,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = ᱦᱚᱴ ᱫᱚᱦᱚ ᱨᱮ ᱰᱟᱴᱟ ᱫᱚᱦᱚᱭ ᱢᱮ
 urlbar-addons-notification-anchor =
     .tooltiptext = ᱮᱰᱼᱚᱱᱥ ᱵᱚᱦᱟᱞ ᱠᱷᱚᱵᱚᱨ ᱯᱮᱱᱟᱞ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
-urlbar-tip-help-icon =
-    .title = ᱜᱚᱲᱚ ᱤᱫᱤ ᱢᱮ
 urlbar-search-tips-confirm = ᱴᱷᱤᱠ, ᱵᱟᱰᱟᱭ ᱠᱮᱜᱼᱟᱹᱧ
 urlbar-search-tips-confirm-short = ᱵᱩᱡᱷᱟᱹᱣ ᱠᱮᱫᱟ
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = ᱥᱚᱞᱦᱟ:
 urlbar-result-menu-button =
     .title = ᱢᱮᱱᱩ ᱡᱷᱤᱡᱽ ᱢᱮ
 urlbar-result-menu-button-feedback = ᱯᱷᱤᱰᱵᱮᱠ
@@ -207,9 +96,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = ᱱᱚᱣᱟ ᱥᱚᱞᱦᱟ ᱠᱷᱟᱨᱟᱯ ᱢᱮ
     .accesskey = ᱱ
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = { -firefox-suggest-brand-name } ᱵᱟᱵᱚᱛ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱲᱟᱭ ᱢᱮ
-    .accesskey = ᱵ
 urlbar-result-menu-manage-firefox-suggest =
     .label = { -firefox-suggest-brand-name } ᱢᱮᱱᱮᱡ ᱢᱮ
     .accesskey = ᱢ
@@ -238,8 +124,6 @@ urlbar-dismissal-acknowledgment-weather = ᱟᱢᱟᱜ ᱢᱚᱱᱚᱛ ᱞᱟᱹ
 
 urlbar-search-tips-onboard = ᱠᱚᱢ ᱚᱞ, ᱡᱟᱹᱥᱛᱤ ᱯᱟᱱᱛᱮ : ᱟᱢᱟᱜ ᱴᱷᱤᱠᱬᱟᱹ ᱵᱟᱨ ᱠᱷᱚᱱ { $engineName } ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ ᱾
 urlbar-search-tips-redirect-2 = { $engineName } ᱟᱨ ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱦᱤᱛᱟᱹᱞ ᱠᱷᱚᱱ ᱵᱟᱛᱟᱣ ᱠᱚ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱥᱮᱸᱫᱽᱨᱟ ᱫᱚ ᱴᱷᱤᱠᱬᱟᱹ ᱵᱟᱨ ᱨᱮ ᱧᱮᱞ ᱢᱮ ᱾
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = ᱥᱮᱸᱫᱽᱨᱟ ᱫᱚ ᱟᱹᱰᱤ ᱟᱞᱜᱟ ᱮᱱᱟ ᱾ ᱴᱷᱤᱠᱬᱟᱹ ᱵᱟᱨ ᱨᱮ ᱡᱟᱹᱛᱤ ᱮᱛᱟᱝ ᱫᱷᱟᱨᱟ ᱛᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ ᱾ URL ᱫᱮᱠᱷᱟᱣ ᱞᱟᱹᱜᱤ, ᱥᱟᱡᱟᱣ ᱨᱮ, ᱥᱮᱸᱫᱽᱨᱟ ᱱᱮᱦᱚᱨ ᱢᱮ ᱾
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = ᱟᱢ ᱞᱚᱜᱚᱱ ᱡᱟᱦᱟᱺ ᱫᱚᱨᱠᱟᱨ ᱚᱱᱟ ᱯᱟᱱᱛᱮ ᱞᱟᱹᱜᱤᱫ ᱱᱚᱶᱟ ᱠᱷᱚᱴᱚᱢᱟᱪᱷᱟ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
@@ -267,8 +151,6 @@ urlbar-screen-blocked =
     .tooltiptext = ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱟᱢᱟᱜ ᱯᱚᱨᱫᱟ ᱦᱟᱹᱴᱤᱧ ᱨᱮᱭᱟᱜ ᱟᱫᱮᱨ ᱵᱞᱚᱠ ᱠᱮᱜᱼᱟᱢ ᱾
 urlbar-persistent-storage-blocked =
     .tooltiptext = ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱜᱷᱤᱲ ᱫᱚᱦᱚ, ᱵᱞᱚᱠ ᱠᱮᱜᱼᱟᱢ ᱾
-urlbar-popup-blocked =
-    .tooltiptext = ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ ᱠᱚ ᱵᱞᱚᱠ ᱠᱮᱜᱼᱟᱢ ᱾
 urlbar-autoplay-media-blocked =
     .tooltiptext = ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱟᱡ ᱛᱮ ᱯᱞᱮ ᱢᱮᱰᱤᱭᱟ ᱥᱟᱶ ᱥᱟᱰᱮ ᱵᱞᱚᱠ ᱠᱮᱜᱼᱟᱢ ᱾
 urlbar-canvas-blocked =
@@ -371,22 +253,16 @@ quickactions-addons = ᱮᱰ-ᱚᱱ ᱧᱮᱞ ᱢᱮ
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ, ᱛᱷᱤᱢ, ᱮᱰᱰᱚᱱ, ᱮᱰ-ᱚᱱᱥ
-quickactions-cmd-addons2 = ᱮᱰ-ᱚᱱ ᱠᱚ
 # Opens the bookmarks library window
 quickactions-bookmarks2 = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 quickactions-cmd-bookmarks = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = ᱱᱤᱛᱚᱜᱼᱟᱜ ᱱᱟᱜᱟᱢ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
-quickactions-cmd-clearrecenthistory = ᱱᱤᱛᱚᱜᱼᱟᱜ ᱱᱟᱜᱟᱢ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ, ᱱᱟᱜᱟᱢ
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = ᱦᱤᱛᱟᱹᱞ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
-quickactions-cmd-clearhistory = ᱦᱤᱛᱟᱹᱞ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
 # Opens about:downloads page
 quickactions-downloads2 = ᱰᱟᱣᱱᱞᱚᱰ ᱠᱚ ᱧᱮᱞ ᱢᱮ
 quickactions-cmd-downloads = ᱰᱟᱣᱱᱞᱚᱰ ᱠᱚ
 # Opens about:addons page in the extensions section
 quickactions-extensions = ᱮᱠᱮᱴᱮᱱᱮᱚᱱ ᱠᱚ ᱢᱮᱱᱟᱡᱽ ᱢᱮ
-quickactions-cmd-extensions = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱚ
 # Opens Firefox View
 quickactions-firefoxview = { -firefoxview-brand-name } ᱡᱷᱤᱡᱽ ᱢᱮ
 # English is using "view" and "open view", since the feature name is
@@ -399,13 +275,9 @@ quickactions-cmd-help = ᱜᱚᱲᱚ, ᱜᱚᱲᱚ
 # Opens the devtools web inspector
 quickactions-inspector2 = ᱰᱮᱵᱷᱞᱚᱯᱚᱨ ᱦᱟᱹᱛᱷᱤᱭᱟᱹᱨ ᱠᱚ ᱡᱷᱤᱡᱽ ᱢᱮ
 quickactions-cmd-inspector2 = ᱤᱱᱥᱯᱮᱠᱴᱚᱨ, ᱫᱮᱣ ᱴᱩᱞᱥ, ᱫᱮᱣ ᱴᱩᱞᱥ
-quickactions-cmd-inspector = ᱤᱱᱥᱯᱮᱠᱴᱚᱨ, ᱰᱮᱣᱦᱟᱹᱛᱤᱭᱟᱨ ᱠᱚ
 # Opens about:logins
 quickactions-logins2 = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 quickactions-cmd-logins = ᱵᱚᱞᱚᱱ ᱠᱚ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
-# Opens about:addons page in the plugins section
-quickactions-plugins = ᱯᱞᱚᱜᱤᱱ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
-quickactions-cmd-plugins = ᱯᱞᱚᱜᱤᱱ ᱠᱚ
 # Opens the print dialog
 quickactions-print2 = ᱥᱟᱦᱴᱟ ᱪᱷᱟᱯᱟᱭ ᱢᱮ
 quickactions-cmd-print = ᱪᱷᱟᱯᱟ
@@ -424,22 +296,18 @@ quickactions-cmd-restart = ᱫᱚᱦᱲᱟ ᱮᱦᱚᱵ
 # Opens the screenshot tool
 quickactions-screenshot3 = ᱢᱤᱫᱴᱟᱝ ᱥᱠᱨᱤᱱᱥᱚᱴ ᱤᱫᱤᱢᱮ
 quickactions-cmd-screenshot2 = ᱥᱠᱨᱤᱱ ᱥᱚᱴ, ᱢᱤᱫ ᱥᱠᱨᱤᱱ ᱥᱚᱴ ᱦᱟᱛᱟᱣ ᱢᱮ
-quickactions-cmd-screenshot = ᱥᱠᱨᱤᱱᱥᱚᱴ
 # Opens about:preferences
 quickactions-settings2 = ᱥᱟᱡᱟᱣ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = ᱥᱟᱡᱟᱣ ᱠᱚ, ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ, ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱠᱚ, ᱢᱮᱱᱮᱡᱽ ᱢᱮ
-quickactions-cmd-settings = ᱥᱟᱡᱟᱣ ᱠᱚ, ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ, ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱠᱚ
 # Opens about:addons page in the themes section
 quickactions-themes = ᱛᱷᱤᱢ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
-quickactions-cmd-themes = ᱛᱷᱤᱢ ᱠᱚ
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } ᱦᱟᱹᱞᱤᱭᱟᱠ ᱢᱮ
 quickactions-cmd-update = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = ᱥᱟᱦᱴᱟ ᱢᱩᱞ ᱧᱮᱞ ᱢᱮ
 quickactions-cmd-viewsource2 = ᱥᱨᱚᱛ ᱧᱮᱞ ᱢᱮ, ᱥᱨᱚᱛ, ᱥᱟᱦᱴᱟ ᱥᱨᱚᱛ
-quickactions-cmd-viewsource = ᱥᱨᱚᱛ ᱧᱮᱞ ᱢᱮ, ᱥᱨᱚᱛ
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = ᱞᱚᱜᱚᱱ ᱠᱟᱹᱢᱤ ᱦᱚᱨᱟ ᱠᱚ ᱵᱟᱵᱚᱫ ᱵᱟᱲᱛᱤ ᱪᱮᱫ ᱢᱮ
@@ -498,9 +366,7 @@ identity-custom-root = ᱡᱚᱲᱟᱹᱣ ᱫᱚ Mozilla ᱵᱟᱝ ᱪᱤᱱᱦ�
 identity-passive-loaded = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮᱭᱟᱜ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱡᱤᱱᱤᱥ ᱵᱟᱝ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱜᱮᱭᱟ (ᱡᱮᱞᱠᱟ ᱪᱤᱛᱟᱹᱨ ᱠᱚ)
 identity-active-loaded = ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱚᱸᱫ ᱟᱠᱟᱫᱟᱢ ᱾
 identity-weak-encryption = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱫᱚ ᱠᱚᱢᱡᱩᱨᱤᱭᱟᱹ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱮᱵᱷᱟᱨ ᱟᱠᱟᱫᱟᱭ ᱾
-identity-insecure-login-forms = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱟᱫᱮᱨ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱮᱴᱟᱜ ᱦᱚᱲ ᱵᱟᱲᱟᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱠᱚ ᱾
 identity-https-only-connection-upgraded = (HTTPS ᱛᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱦᱩᱭᱮᱱᱟ)
-identity-https-only-label = ᱠᱷᱟᱹᱞᱤᱼHTTPS ᱢᱳᱰ
 identity-https-only-label2 = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱡᱩᱲᱟᱹᱣ ᱞᱮᱠᱟ ᱟᱡ ᱛᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱪᱷᱚᱭ ᱢᱮ
 identity-https-only-dropdown-on =
     .label = ᱪᱟᱹᱞᱩ
@@ -508,8 +374,6 @@ identity-https-only-dropdown-off =
     .label = ᱵᱚᱸᱫᱚ
 identity-https-only-dropdown-off-temporarily =
     .label = ᱛᱤᱱᱟᱹᱜ ᱚᱠᱛᱚ ᱞᱟᱹᱜᱤᱫ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
-identity-https-only-info-turn-on2 = ᱡᱩᱫᱤ ᱟᱢ { -brand-short-name } ᱱᱟᱶᱟ ᱡᱩᱲᱟᱹᱣ ᱛᱮ ᱡᱩᱨ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱥᱮᱱᱟᱢ ᱠᱟᱱᱟ ᱢᱮᱱᱠᱷᱟᱱ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ  HTTPS-ᱠᱷᱟᱹᱞᱤ ᱢᱳᱰ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱾
-identity-https-only-info-turn-off2 = ᱡᱩᱫᱤ ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱟᱹᱯᱩᱫ ᱛᱟᱦᱮᱸᱱ ᱠᱷᱟᱱ, ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱵᱟᱝᱨᱩᱠᱷᱭᱟ HTTP ᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱞᱟᱫᱮ ᱠᱟᱛᱮ ᱟᱢ ᱠᱷᱟᱹᱞᱤᱼHTTPS ᱢᱳᱰ ᱵᱚᱸᱫ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
 identity-https-only-info-turn-on3 = ᱡᱩᱫᱤ ᱟᱢ { -brand-short-name } ᱱᱟᱶᱟ ᱡᱩᱲᱟᱹᱣ ᱛᱮ ᱡᱩᱨ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱥᱮᱱᱟᱢ ᱠᱟᱱᱟ ᱢᱮᱱᱠᱷᱟᱱ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ HTTPS ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱾
 identity-https-only-info-turn-off3 = ᱡᱩᱫᱤ ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱟᱹᱯᱩᱫ ᱛᱟᱦᱮᱸᱱ ᱠᱷᱟᱱ, ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱵᱟᱝᱨᱩᱠᱷᱭᱟ HTTP ᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱞᱟᱫᱮ ᱠᱟᱛᱮ ᱟᱢ HTTPS ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱵᱚᱸᱫ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
 identity-https-only-info-no-upgrade = HTTP ᱛᱮ ᱡᱩᱲᱟᱹᱣ ᱡᱩᱨ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱵᱟᱭ ᱜᱟᱱ ᱞᱮᱱᱟ ᱾
@@ -527,7 +391,6 @@ identity-remove-cert-exception =
     .label = ᱟᱯᱚᱛ ᱚᱪᱚᱜᱽ ᱢᱮ
     .accesskey = R
 identity-description-insecure = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱮᱨ ᱟᱢᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱫᱚ ᱱᱤᱡᱚᱨᱟᱜ ᱵᱟᱝ ᱠᱟᱱᱟ ᱾ ᱟᱢ ᱡᱚᱢᱟ ᱠᱟᱫ ᱡᱤᱱᱤᱥ ᱠᱚ ᱫᱚ ᱮᱴᱟᱜ ᱦᱚᱲ ᱠᱚ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ (ᱡᱮᱞᱠᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ, ᱠᱷᱚᱵᱚᱨ ᱠᱚ, ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱠᱚ, ᱮᱴᱟᱜ .) ᱾
-identity-description-insecure-login-forms = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱟᱫᱮᱨ ᱠᱟᱱ ᱵᱚᱞᱚ ᱡᱤᱱᱤᱥ ᱠᱚ ᱮᱴᱟᱜ ᱦᱚᱲ ᱵᱟᱲᱟᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱠᱚ ᱾
 identity-description-weak-cipher-intro = ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱥᱟᱞᱟᱜ ᱡᱩᱲᱟᱹᱣᱜ ᱨᱮ ᱠᱚᱢᱡᱩᱨᱤᱭᱟᱹ ᱫᱟᱱᱟᱝ ᱵᱮᱵᱷᱟᱨ ᱮᱫᱟᱭ ᱟᱨ ᱩᱠᱩ ᱨᱮ ᱵᱟᱭ ᱛᱟᱦᱮᱸᱱᱟ ᱾
 identity-description-weak-cipher-risk = ᱮᱴᱟᱜ ᱦᱚᱲ ᱠᱚ ᱫᱚ ᱟᱢᱟᱜ ᱵᱟᱵᱚᱛ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱟᱹᱢᱤ ᱠᱚ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 identity-description-active-blocked2 = { -brand-short-name } ᱫᱚ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱠᱟᱱ ᱥᱟᱦᱴᱟ ᱠᱚ ᱵᱞᱚᱠ ᱠᱮᱜᱼᱟᱭ ᱚᱠᱟ ᱫᱚ ᱵᱟᱝ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱜᱮᱭᱟ ᱾
@@ -536,12 +399,6 @@ identity-description-passive-loaded-insecure2 = ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟ�
 identity-description-passive-loaded-mixed2 = ᱢᱮᱱᱠᱷᱟᱱ { -brand-short-name } ᱫᱚ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱡᱤᱱᱤᱥ ᱵᱞᱚᱠ ᱟᱠᱟᱫᱟᱭ, ᱥᱟᱦᱴᱟ ᱨᱮ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱡᱤᱱᱥ ᱢᱮᱱᱟᱜᱼᱟ ᱚᱠᱟ ᱫᱚ ᱵᱟᱝ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱜᱮᱭᱟ (ᱡᱮᱞᱠᱟ ᱪᱤᱛᱟᱹᱨ ᱠᱚ) ᱾
 identity-description-active-loaded = ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱨᱮ ᱚᱱᱟ ᱡᱤᱱᱤᱥ ᱢᱮᱱᱟᱜᱼᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱵᱟᱭ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱜᱮᱭᱟ (ᱡᱮᱞᱠᱟ ᱥᱠᱨᱤᱯᱴ) ᱟᱨ ᱟᱢᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱫᱚ ᱩᱠᱩ ᱨᱮ ᱵᱟᱹᱱᱩᱜᱼᱟ ᱾
 identity-description-active-loaded-insecure = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱨᱮ ᱵᱷᱟᱮᱫ ᱠᱷᱚᱵᱚᱨ ᱠᱚ ᱫᱚ ᱮᱴᱟᱜ ᱦᱚᱲ ᱠᱚ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ (ᱡᱮᱞᱠᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ, ᱠᱷᱚᱵᱚᱨ ᱠᱚ, ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱠᱚ, ᱟᱭᱢᱟ ᱾) ᱾
-identity-disable-mixed-content-blocking =
-    .label = ᱱᱤᱛᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱟᱲ ᱵᱟᱝ ᱦᱩᱭ ᱦᱚᱪᱚᱜ ᱠᱟᱱᱟ
-    .accesskey = ᱱ
-identity-enable-mixed-content-blocking =
-    .label = ᱨᱩᱠᱷᱤᱭᱟᱹ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
-    .accesskey = E
 identity-more-info-link-text =
     .label = ᱵᱟᱹᱲᱛᱤ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
 
@@ -555,43 +412,6 @@ browser-window-restore-down-button =
     .tooltiptext = ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚ ᱨᱩᱣᱟᱹᱲ
 browser-window-close-button =
     .tooltiptext = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = ᱮᱱᱮᱡ ᱪᱷᱚ
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = ᱥᱟᱰᱮ ᱛᱷᱤᱨ ᱦᱚᱪᱚᱭᱱᱟ
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = ᱟᱡ ᱛᱮ ᱮᱱᱮᱡ ᱵᱟᱹᱰᱨᱟᱹ
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = ᱪᱤᱛᱟᱹᱨᱼᱵᱷᱤᱛᱨᱤᱼᱪᱤᱛᱟᱹᱨ
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] ᱴᱮᱵᱽ ᱛᱷᱤᱨ ᱦᱚᱪᱚ
-        [one] { $count } ᱴᱮᱵᱽ ᱛᱷᱤᱨ ᱦᱚᱪᱚ
-        [two] { $count } ᱴᱮᱵᱽ ᱠᱤᱱ ᱛᱷᱤᱨ ᱦᱚᱪᱚ
-       *[other] { $count } ᱴᱮᱵᱽ ᱠᱚ ᱛᱷᱤᱨ ᱦᱚᱪᱚ
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] ᱴᱟᱵᱽ ᱥᱟᱰᱮ ᱦᱚᱪᱚ
-        [one] { $count } ᱴᱟᱵᱽ ᱥᱟᱰᱮ ᱦᱚᱪᱚ
-        [two] { $count } ᱴᱟᱵᱽ ᱠᱤᱱ ᱥᱟᱰᱮ ᱦᱚᱪᱚ
-       *[other] { $count } { $count } ᱴᱟᱵᱽ ᱠᱚ ᱥᱟᱰᱮ ᱦᱚᱪᱚ
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] ᱮᱱᱮᱡ ᱴᱮᱵᱽ
-        [one] { $count } ᱴᱮᱵᱽ ᱮᱱᱮᱡ ᱪᱷᱚᱭ ᱢᱮ
-        [two] { $count } ᱴᱮᱵᱽ ᱠᱤᱱ ᱮᱱᱮᱡ ᱪᱷᱚᱭ ᱢᱮ
-       *[other] { $count } ᱴᱮᱵᱽ ᱠᱚ ᱮᱱᱮᱡ ᱪᱷᱚᱭ ᱢᱮ
-    }
 
 ## Bookmarks toolbar items
 
@@ -627,10 +447,6 @@ sharing-warning-proceed-to-tab =
     .label = ᱴᱮᱵᱽ ᱛᱮ ᱪᱟᱞᱟᱜ ᱢᱮ
 sharing-warning-disable-for-session =
     .label = ᱱᱚᱶᱟ ᱠᱟᱹᱢᱤ ᱞᱟᱹᱜᱤᱫ ᱦᱟᱹᱴᱤᱧ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = F12 ᱥᱚᱴᱠᱚᱴ ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ, ᱯᱩᱭᱞᱩ ᱨᱮ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱵᱮᱵᱷᱟᱨ ᱟᱛᱮᱫ DevTools ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ ᱾
 
 ## URL Bar
 
@@ -695,8 +511,6 @@ urlbar-extension =
     .value = ᱯᱟᱥᱱᱟᱣ:
 urlbar-go-button2 =
     .title = ᱴᱷᱟᱣ ᱵᱟᱨ ᱴᱷᱤᱠᱬᱟᱹ ᱨᱮ ᱪᱟᱞᱟᱣ
-urlbar-go-button =
-    .tooltiptext = ᱴᱷᱟᱣ ᱵᱟᱨ ᱴᱷᱤᱠᱬᱟᱹ ᱨᱮ ᱪᱟᱞᱟᱣ
 urlbar-page-action-button =
     .tooltiptext = ᱥᱟᱦᱟᱴᱟ ᱠᱟᱹᱢᱤ ᱠᱚ
 urlbar-revert-button =
@@ -753,30 +567,8 @@ urlbar-result-action-tabtosearch-web = { $engine } ᱥᱟᱞᱟᱜ ᱴᱷᱤᱠ�
 urlbar-result-action-tabtosearch-other-engine = { $engine } ᱛᱮ ᱴᱷᱤᱠᱱᱟᱹ ᱵᱟᱨ ᱠᱷᱚᱱ ᱥᱚᱡᱷᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱵᱤᱱ
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = ᱱᱚᱠᱚᱞ
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = ᱵᱟᱝ ᱩᱱᱩᱫᱩᱜ
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
-# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
-# The last = sign will be shown as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
-# Shows the result of a formula expression being calculated, to a maximum of 9 significant
-# digits. This is used for numbers < 1.
-# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 # The title of a weather suggestion in the urlbar. The temperature and unit
 # substring should be inside a <strong> tag. If the temperature and unit are not
 # adjacent in the localization, it's OK to include only the temperature in the
@@ -832,32 +624,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - { $localSearchMode
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - { $engine } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
-urlbar-searchmode-dropmarker =
-    .tooltiptext = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
-urlbar-searchmode-bookmarks =
-    .label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
-urlbar-searchmode-tabs =
-    .label = ᱴᱮᱵᱽ ᱠᱚ
-urlbar-searchmode-history =
-    .label = ᱱᱟᱜᱟᱢ
-urlbar-searchmode-actions =
-    .label = ᱠᱟᱹᱢᱤ ᱠᱚ
-urlbar-searchmode-exit-button =
-    .tooltiptext = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = ᱱᱤᱭᱟᱹ ᱫᱷᱟᱣ ᱱᱚᱶᱟ ᱛᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮᱺ
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = ᱥᱮᱸᱫᱽᱨᱟ ᱥᱟᱡᱟᱣ ᱠᱚ
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button2 =
-    .label = { $engine }, ᱢᱤᱫ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
-    .tooltiptext = { $engine }, ᱢᱤᱫ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
-urlbar-searchmode-button-no-engine =
-    .label = ᱥᱚᱴᱠᱟᱴ ᱵᱟᱝ ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱱᱟ, ᱢᱤᱫ ᱥᱚᱴᱠᱟᱴ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
-    .tooltiptext = ᱥᱚᱴᱠᱟᱴ ᱵᱟᱝ ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱱᱟ, ᱢᱤᱫ ᱥᱚᱴᱠᱟᱴ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -921,16 +687,10 @@ urlbar-group-trending =
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = ᱴᱨᱮᱱᱰᱤᱝ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱞᱚᱢ ᱩᱫᱩᱜᱼᱟ
     .accesskey = D
-# Label shown above sponsored suggestions in the urlbar results.
-urlbar-group-sponsored =
-    .label = ᱠᱟᱹᱢᱤᱼᱤᱭᱟᱹ
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = ᱴᱨᱮᱱᱰᱤᱝ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱞᱚᱢ ᱩᱫᱩᱜᱼᱟ
     .accesskey = D
-urlbar-result-menu-trending-why =
-    .label = ᱤᱧ ᱪᱮᱫᱟᱜ ᱱᱚᱣᱟᱧ ᱧᱮᱞᱮᱫᱼᱟ ?
-    .accesskey = W
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = ᱟᱢᱟᱜ ᱢᱚᱱᱚᱛ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱨᱦᱟᱣ ᱾ ᱟᱢ ᱴᱨᱮᱱᱰᱤᱝ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱟᱢ ᱧᱮᱞ ᱧᱟᱢᱟ ᱾
@@ -1012,12 +772,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] ᱦᱟᱹᱛᱤᱭᱟᱨᱵᱟᱨ ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱩᱠᱩᱭ ᱢᱮ
            *[other] ᱦᱟᱹᱛᱤᱭᱟᱨᱵᱟᱨ ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮᱱᱩ ᱠᱷᱚᱱ ᱦᱚᱛᱷᱤᱭᱟᱨ ᱵᱟᱨ ᱚᱪᱚᱜᱽ ᱢᱮ
-           *[other] ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮᱱᱩ ᱠᱚ ᱦᱚᱛᱷᱤᱭᱟᱨ ᱵᱟᱨ ᱨᱮ ᱥᱮᱞᱮᱫ ᱢᱮ
-        }
 
 ##
 
@@ -1048,14 +802,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
-library-recent-activity-title =
-    .value = ᱱᱤᱛᱚᱜᱟᱜ ᱠᱟᱹᱢᱤ ᱠᱚ
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱢᱮ
-    .tooltiptext = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱢᱮ
 
 ## Repair text encoding toolbar button
 
@@ -1112,8 +858,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹᱜ ᱧᱩᱛᱩᱢ
-panel-save-update-password = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ
 panel-save-update-username-2 =
     .label = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹᱜ ᱧᱩᱛᱩᱢ
 panel-save-update-password-2 =
@@ -1124,30 +868,11 @@ panel-save-update-password-2 =
 # "More" item in macOS share menu
 menu-share-more =
     .label = ᱟᱨᱦᱚᱸ…
-menu-share-copy-link =
-    .label = ᱞᱤᱝᱠ ᱱᱚᱠᱚᱞ ᱢᱮ
-    .accesskey = ᱞ
 ui-tour-info-panel-close =
     .tooltiptext = ᱵᱚᱸᱫ ᱢᱮ
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = { $uriHost } ᱞᱟᱹᱜᱤᱫ ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ ᱠᱚᱨᱟᱣ ᱪᱷᱚᱭ ᱢᱮ
-    .accesskey = p
-popups-infobar-block =
-    .label = { $uriHost } ᱞᱟᱹᱜᱤᱫ ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ ᱟᱞᱳ ᱠᱚᱨᱟᱣ ᱪᱷᱚᱭᱟᱢ
-    .accesskey = p
-
 ##
 
-popups-infobar-dont-show-message =
-    .label = ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ ᱵᱞᱚᱠ ᱡᱷᱚᱜ ᱱᱚᱶᱟ ᱠᱷᱚᱵᱚᱨ ᱟᱞᱚᱢ ᱫᱮᱠᱷᱟᱣᱟᱢ
-    .accesskey = D
-edit-popup-settings =
-    .label = ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ ᱥᱟᱡᱟᱣ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ …
-    .accesskey = M
 picture-in-picture-hide-toggle =
     .label = ᱪᱤᱛᱟᱹᱨᱼᱵᱷᱤᱛᱨᱤᱼᱪᱤᱛᱟᱹᱨ ᱩᱪᱟᱹᱲ ᱩᱠᱩᱭ ᱢᱮ
     .accesskey = H
@@ -1173,8 +898,6 @@ navbar-downloads =
     .label = ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ
 navbar-overflow-2 =
     .tooltiptext = ᱵᱟᱹᱲᱛᱤ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱠᱚ
-navbar-overflow =
-    .tooltiptext = ᱵᱟᱹᱲᱛᱤ ᱴᱩᱞᱥ…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1265,20 +988,12 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = ᱯᱨᱟᱭᱣᱮᱴ ᱥᱮᱥᱚᱱ ᱢᱩᱪᱟᱹᱫ ᱢᱮ
-    .tooltiptext = ᱯᱨᱟᱭᱣᱮᱴ ᱥᱮᱥᱚᱱ ᱢᱩᱪᱟᱹᱫ ᱢᱮ
-reset-pbm-panel-heading = ᱱᱤᱡᱮᱨᱟᱜ ᱠᱟᱹᱢᱤ ᱦᱚᱨᱟ ᱵᱚᱸᱫᱚᱭ ᱟ ᱥᱮ ?
-reset-pbm-panel-description = ᱡᱚᱛᱚ ᱯᱨᱟᱭᱣᱮᱴ ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱟᱨ ᱦᱤᱛᱟᱹᱞ, ᱠᱩᱠᱤ ᱟᱨ ᱮᱴᱟᱜ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱠᱚ ᱢᱮᱴᱟᱣ ᱢᱮ ᱾
 reset-pbm-panel-always-ask-checkbox =
     .label = ᱥᱟᱨᱟ ᱜᱷᱟᱹᱲᱤᱡ ᱤᱧ ᱠᱩᱞᱤᱧ ᱢᱮ
     .accesskey = A
 reset-pbm-panel-cancel-button =
     .label = ᱵᱟᱹᱰᱨᱟᱹ
     .accesskey = C
-reset-pbm-panel-confirm-button =
-    .label = ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱰᱟᱴᱟ ᱢᱮᱴᱟᱣ ᱢᱮ
-    .accesskey = D
 reset-pbm-panel-complete = ᱯᱨᱟᱭᱣᱮᱴ ᱥᱮᱥᱚᱱ ᱰᱟᱴᱟ ᱢᱮᱴᱟᱣ ᱮᱱᱟ
 
 ## Autorefresh blocker

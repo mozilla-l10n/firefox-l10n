@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = La atestilo ne estas fidata ĉar la atestilo
 cert-error-trust-signature-algorithm-disabled = La atestilo ne estas fidata ĉar ĝi estis subskribita per subskriba algortimo, kiu ne plu estas aktiva pro ĝia nesekureco.
 cert-error-trust-expired-issuer = La atestilo ne estas fidata ĉar la atestilo de la eldoninto senvalidiĝis.
 cert-error-trust-self-signed = La atestilo ne estas fidata ĉar ĝi estas memsubskribita.
-cert-error-trust-symantec = Atestiloj eldonitaj de RapidSSL, RapidSSL, Symantec, Thawte kaj VeriSign ne plu estas konsiderataj sekuraj, ĉar en la pasinteco tiuj atestilaj aŭtoritatoj ne plenumis sekurecajn praktikojn.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } ne fidas { $hostname } ĉar ĝi ne povis pruvi ĝian observon de la publikaj postuloj pri atestila travideblo.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Erarkodo: <a data-l10n-name="error-code-link">{ $e
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Okazis eraro dum la konekto al { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Retejoj legitimas sin per sekurecaj atestiloj, kiuj estas eldonitaj de atestilaj aŭtoritatoj. La plimulto de la retumiloj ne plu fidas sekurecajn atestilojn eldonitajn de GeoTrust, RapidSSL, Symantec, Thawte, and VeriSign. { $hostname } uzas atestilon de unu el tiuj aŭtoritatoj kaj do oni ne povas kontroli la identon de la retejo.
-cert-error-symantec-distrust-admin = Vi povas sciigi la administraton de la retejo pri tiu ĉi problemo.
 cert-error-old-tls-version = Tiu ĉi retejo povus ne subteni la protokolon TLS 1.2, kiu estas la minimuma versio subtenata de { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Atestila ĉeno:
-open-in-new-window-for-csp-or-xfo-error = Malfermi retejon en nova fenestro
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Por protekti vian sekurecon, { $hostname } ne permesas al { -brand-short-name } montri la paĝon se ĝi estis enmetita en alian retejon. Por vidi tiun ĉi paĝon, vi devas malfermi ĝin en nova fenestro.
 fp-certerror-view-certificate-link = Montri la atestilon de la retejo
 fp-certerror-return-to-previous-page-recommended-button-2 = Reen (rekomendita)
     .accesskey = R
-fp-certerror-return-to-previous-page-recommended-button = Reen (rekomendita)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -106,21 +99,21 @@ fp-certerror-self-signed-important-note = GRAVA NOTO: se vi klopodas viziti tiun
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = Retejoj uzas atestilojn eldonitaj de atestila aŭtoritato por pruvi sian identecon. { -brand-short-name } ne fidas tiun ĉi retejon ĉar ŝajnas ke ĝia atestilo senvalidiĝis je { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-expired-why-dangerous-body = Retejoj uzas atestilojn eldonitaj de atestila aŭtoritato por pruvi sian identecon. { -brand-short-name } ne fidas tiun ĉi retejon ĉar ŝajnas ke ĝia atestilo senvalidiĝis je { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = Retejoj uzas atestilojn eldonitaj de atestila aŭtoritato por pruvi sian identecon. { -brand-short-name } ne fidas tiun ĉi retejon ĉar ŝajnas ke ĝia atestilo ne estos valida antaŭ { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-not-yet-valid-why-dangerous-body = Retejoj uzas atestilojn eldonitaj de atestila aŭtoritato por pruvi sian identecon. { -brand-short-name } ne fidas tiun ĉi retejon ĉar ŝajnas ke ĝia atestilo ne estos valida antaŭ { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = La horloĝo de via aparato montras { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Se tio ĝustas la sekureca problemo estas verŝajne en la retejo mem. Se tio malĝustas, vi povas tion ŝanĝi en la sistemaj agordoj de via aparato.
+fp-certerror-expired-what-can-you-do-body = La horloĝo de via aparato montras { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Se tio ĝustas la sekureca problemo estas verŝajne en la retejo mem. Se tio malĝustas, vi povas tion ŝanĝi en la sistemaj agordoj de via aparato.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Erarkodo: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -133,11 +126,11 @@ fp-learn-more-about-time-related-errors = Pli da informo pri solvo de problemoj 
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } ne fidas tiun ĉi retejon ĉar ŝajne la provizita atestilo ne validas antaŭ { DATETIME($date, timeStyle: "short") } je { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } ne fidas tiun ĉi retejon ĉar ŝajne la provizita atestilo ne validas antaŭ { DATETIME($date, timeStyle: "short") } je { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = La horloĝo de via aparato montras { DATETIME($date, timeStyle: "short") }{ DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Se tio ĝustas la sekureca problemo estas verŝajne en la retejo mem. Se tio malĝustas, vi povas tion ŝanĝi en la sistemaj agordoj de via aparato.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = La horloĝo de via aparato montras { DATETIME($date, timeStyle: "short") }{ DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Se tio ĝustas la sekureca problemo estas verŝajne en la retejo mem. Se tio malĝustas, vi povas tion ŝanĝi en la sistemaj agordoj de via aparato.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -179,8 +172,6 @@ deniedPortAccess-title = Aliro al tiu ĉi adreso estas limigata
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm, ni ne sukcesas trovi tiun retejon.
 internet-connection-offline-title = Ŝajne estas problemo kun via retaliro.
-dns-not-found-trr-only-title2 = Ebla sekureca risko dum serĉo de tiu ĉi nomregno
-dns-not-found-native-fallback-title2 = Ebla sekureca risko dum serĉo de tiu ĉi nomregno
 fileNotFound-title = Dosiero ne trovita
 fileAccessDenied-title = Rifuzita aliro al dosiero
 generic-title = Fuŝ’.
@@ -205,7 +196,6 @@ unknownSocketType-title = Neatendita respondo el servilo
 nssFailure2-title = Malsukcesa sekura konekto
 csp-xfo-error-title = { -brand-short-name } ne povas malfermi tiun ĉi paĝon
 corruptedContentErrorv2-title = Eraro pro difektita enhavo
-corruptedContentError-title = Eraro pro difektita enhavo
 sslv3Used-title = Ne eblas sekure konektiĝi
 inadequateSecurityError-title = Via konekto ne estas sekura
 blockedByPolicy-title = Blokita paĝo
@@ -228,7 +218,6 @@ fp-certerror-hide-advanced-button = Kaŝi spertulajn elementojn
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Daŭrigi al { $hostname } (riska)
 fp-certerror-intro = { -brand-short-name } eltrovis eble gravan sekurecan problemon kun <strong>{ $hostname }</strong>. Iu kiu ŝajnigas esti tiu retejo povus ŝteli aferojn, ekzemple kreditkartajn informojn, pasvortojn aŭ retpoŝtajn mesaĝojn.
 fp-certerror-expired-into = { -brand-short-name } eltrovis sekurecan problemon kun <strong>{ $hostname }</strong>. Ĉu la retejo ne estas bone agordita ĉu la horloĝo en via aparato ne havas la ĝustan daton/horon.
 fp-certerror-transparency-intro = Io, kio pretendas esti <strong>{ $hostname }</strong>, povus klopodi ŝteli aferojn kiel informojn de kreditkaroj, pasvortojn aŭ retpoŝtajn mesaĝojn.

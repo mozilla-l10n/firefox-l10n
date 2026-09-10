@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Ugrás az előző oldalra ({ $shortcut })
     .aria-label = Vissza
+    .tooltiptext = Ugrás az előző oldalra ({ $shortcut })
     .accesskey = V
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Ugrás a következő oldalra ({ $shortcut })
     .aria-label = Előre
+    .tooltiptext = Ugrás a következő oldalra ({ $shortcut })
     .accesskey = E
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Lap könyvjelzőzése…
-    .accesskey = k
     .tooltiptext = Lap könyvjelzőzése
+    .accesskey = k
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Lap könyvjelzőzése…
-    .accesskey = k
     .tooltiptext = Lap könyvjelzőzése ({ $shortcut })
+    .accesskey = k
 main-context-menu-edit-bookmark =
     .aria-label = Könyvjelző szerkesztése…
-    .accesskey = j
     .tooltiptext = Könyvjelző szerkesztése
+    .accesskey = j
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Könyvjelző szerkesztése…
-    .accesskey = j
     .tooltiptext = Könyvjelző szerkesztése ({ $shortcut })
+    .accesskey = j
 main-context-menu-open-link =
     .label = Hivatkozás megnyitása
     .accesskey = H
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Hivatkozás mentése más néven…
     .accesskey = n
-main-context-menu-save-link-to-pocket =
-    .label = Hivatkozás mentése a { -pocket-brand-name }be
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Kapcsolja be a szinkron
 main-context-menu-send-to-mobile-connect-phone3 = Csatlakoztasson egy eszközt a lapok küldéséhez
 main-context-menu-send-to-mobile-connect-phone-from-link = Csatlakoztasson egy eszközt a hivatkozás küldéséhez
 main-context-menu-send-to-mobile-connect-phone-from-page = Csatlakoztasson egy eszközt a lap küldéséhez
-main-context-menu-save-to-pocket =
-    .label = Oldal mentése a { -pocket-brand-name }be
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Oldal küldése eszközre
-    .accesskey = e
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Mentett bejelentkezés használata
-    .accesskey = b
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Mentett jelszó használata
     .accesskey = j
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } e-mail-maszk használata
     .accesskey = e
 main-context-menu-suggest-strong-password =
     .label = Erős jelszó javaslata…
     .accesskey = E
-main-context-menu-manage-logins2 =
-    .label = Bejelentkezések kezelése…
-    .accesskey = B
 main-context-menu-manage-passwords =
     .label = Jelszavak kezelése
     .accesskey = k
-main-context-menu-keyword =
-    .label = Kulcsszó hozzáadása a kereséshez…
-    .accesskey = u
 main-context-menu-add-engine =
     .label = Keresőszolgáltatás hozzáadása
     .accesskey = K
@@ -393,9 +366,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Képernyőkép készítése
     .accesskey = e
-main-context-menu-take-frame-screenshot =
-    .label = Képernyőkép készítése
-    .accesskey = K
 main-context-menu-view-page-source =
     .label = Oldal forrása
     .accesskey = f

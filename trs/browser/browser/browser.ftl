@@ -2,27 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Riña aché un hui’
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Riña aché un hui’
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = Si nuguan' sitio na
 
@@ -54,8 +33,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Na'nïn' riña ma nigua' mahuin ro'ô' antaj si nitaj konesiôn
 urlbar-password-notification-anchor =
     .tooltiptext = Na'nïn' riña ma sa' nej da'ngà' huìi
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Nachrá so' plugins
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Gi'iaj sun sitio na 'ngà si kamarat ni mikrofono
 urlbar-autoplay-notification-anchor =
@@ -64,15 +41,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Nachrâ so' datos da' gahuin rān ma
 urlbar-addons-notification-anchor =
     .tooltiptext = Na'nïn' riña ma nugua'an da' ga'ni' sa ni'iaj nichro' doj
-urlbar-tip-help-icon =
-    .title = Nana'uì' sa rugûñu'ūnj sò'
 urlbar-search-tips-confirm = Gā'hue, ngà nikà man
 urlbar-search-tips-confirm-short = Ngà nikà man
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Nuguan’ gā’hue rūgûñu’ūnj un:
 urlbar-result-menu-button =
     .title = Nā\'nīn riña menû
 
@@ -104,8 +74,6 @@ urlbar-screen-blocked =
     .tooltiptext = Gi'iaj blokeandot da' ni si gini'iaj nej dugui' a'ngo hiuj u riña du'ua si aga't.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Gi'iaj blokeandot da' si nachrá sa' nuguan'an guenda sitio web na.
-urlbar-popup-blocked =
-    .tooltiptext = Gi'iaj blokeandot nej pop-ups guenda sitio web na.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Gi'iaj blokeandot sa uxun nanèe guenda sitio web na.
 urlbar-canvas-blocked =
@@ -159,12 +127,6 @@ search-one-offs-context-set-as-default-private =
 search-one-offs-add-engine-menu =
     .label = Nutò' a'ngô sa ruguñu'unj ñù' nana'uì'
 
-## QuickActions are shown in the urlbar as the user types a matching string
-## The -cmd- strings are comma separated list of keywords that will match
-## the action. English commas should be used, i.e. ,
-
-quickactions-cmd-addons2 = sa gā\'ue nūtò\'
-
 ## Bookmark Panel
 
 bookmark-panel-cancel =
@@ -207,7 +169,6 @@ identity-custom-root = 'Ngō sa ri sertifikadô nitāj si nani'in Mozilla gini'i
 identity-passive-loaded = Hua da'aj nej sa 'na' riña ñanj na ni sa yi'ìi huin nej ma (daj rû' nej ñadu'ua ni'io')
 identity-active-loaded = Guxunt sa dugumin pajinâ na.
 identity-weak-encryption = Ûta ninaj hua sifrado arajsun pajinâ na.
-identity-insecure-login-forms = Nej sesion ayi'ì hiuna nī nitaj si yitïnj hua ma.
 identity-permissions-reload-hint = Nagi'iaj nakà ñut pajinâ na da' gi'iaj sun sa nadunat.
 identity-clear-site-data =
     .label = Nagi'iaj niñu' kookies nī si dato sitio...
@@ -219,7 +180,6 @@ identity-remove-cert-exception =
     .label = Dure' sa taj a
     .accesskey = R
 identity-description-insecure = Nitaj si yitïnj hua sitio na. Hua da'aj nej nuguan' a'nît nī ga'ue ni'iaj a'ngò dugui' (Daj run' da'nga' huìi, tarjetâ yikín, etc.).
-identity-description-insecure-login-forms = Nej nuguan' achrut riña ayi'ìt sesion nī nitaj si yitïnj hua ma riña pajinâ na, ga'ue rikij 'ngo sa si garan' ruat.
 identity-description-weak-cipher-intro = Si conexión riña sitio na nī ûta akò huaj nitaj si hua huìi ma.
 identity-description-weak-cipher-risk = Hua a'ngo dugui' ga'ue gini'iaj si nuguant nī ga'ue si gi'iaj sun hue'ê sitio web na.
 identity-description-active-blocked2 = { -brand-short-name } garán ma riña da'aj sa 'na' riña pajinâ na dadin' ahī hua ma.
@@ -228,12 +188,6 @@ identity-description-passive-loaded-insecure2 = Nitaj si yitïnj hua sa ma riña
 identity-description-passive-loaded-mixed2 = Antaj si { -brand-short-name } garán riña da'aj sa ma na sani nū gè sa yi'ì riña pajinâ na (daj run' ñadu'ua).
 identity-description-active-loaded = Nitaj si yitïnj hua sa ma riña pajinâ web na (daj run' skripts) nī nitaj si yitïnj hua riña ma.
 identity-description-active-loaded-insecure = Nej nuguan' a'nínt riña sitio na nī ga'ue gini'iaj a'ngo dugui' (Daj run' da'ngà huìi, tarjeta yikín, etc.).
-identity-disable-mixed-content-blocking =
-    .label = Nitaj si 'raj sun sa dugumî ñù'
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = Nachrun' sa dugumî ñù'
-    .accesskey = E
 identity-more-info-link-text =
     .label = Doj nuguan' a'min rayi'î nan
 
@@ -270,8 +224,6 @@ urlbar-extension =
     .value = A'ngô ra'a:
 urlbar-go-button2 =
     .title = Gun' dukuán 'na direksion
-urlbar-go-button =
-    .tooltiptext = Gun' dukuán 'na direksion
 urlbar-page-action-button =
     .tooltiptext = Sa gi'iaj pajinâ na
 
@@ -286,17 +238,6 @@ urlbar-page-action-button =
 urlbar-result-action-search-w-engine = Nana'uì' 'ngà { $engine }
 urlbar-result-action-switch-tab = Naduno' a'ngô rakij ñaj
 urlbar-result-action-visit = Gatu gan'anj ni'iajt
-
-## Strings used for buttons in the urlbar
-
-urlbar-searchmode-bookmarks =
-    .label = Nej sa râj sun nichrà\'t doj
-urlbar-searchmode-tabs =
-    .label = Nej rakïj ñanj
-urlbar-searchmode-history =
-    .label = Sa gini’hiājt
-urlbar-searchmode-actions =
-    .label = Sa gi'hiát
 
 ## Reader View toolbar buttons
 
@@ -352,12 +293,6 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Gachrī hui' dukuâ sa raj sun'
            *[other] Ni'io riña sa gara sun'
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Gahī hui' dukuân sa raj sun'
-           *[other] Nuto' dukuân sa raj sun'
-        }
 
 ##
 
@@ -383,12 +318,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Sa raj sun nichrò' doj
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Nanín sa'aj riña { -pocket-brand-name }
-    .tooltiptext = Nanín sa'aj riña { -pocket-brand-name }
 
 ##
 
@@ -426,21 +355,8 @@ eme-notifications-drm-content-playing = Hua 'ngo sa achráa nej si video ni rajs
 ui-tour-info-panel-close =
     .tooltiptext = Narán
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = Ga'nïn' gi'iaj sun ventana ra'ñanj an { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Si gi'iaj sun ventana ra'ñanj an { $uriHost }
-    .accesskey = p
-
 ##
 
-popups-infobar-dont-show-message =
-    .label = Si gà ra'nga ventana 'ngà narran' riña ventana râ'ñanj an
-    .accesskey = D
 picture-in-picture-hide-toggle =
     .label = Ga'nïnj huì sa ni'io' riña sa ni'io' Naduna
     .accesskey = H
@@ -454,8 +370,6 @@ navbar-accessible =
     .aria-label = Sun aché nuu
 navbar-downloads =
     .label = Nadunïnj
-navbar-overflow =
-    .tooltiptext = Doj sa ga'ue garasun'
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

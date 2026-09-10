@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Ցուցադրել որոնիչում
            *[other] Ցուցադրել պանակում
         }
-downloads-cmd-show-downloads =
-    .label = Ցուցադրել ներբեռնումների թղթապանակը
 downloads-cmd-retry =
     .tooltiptext = Կրկին փորձել
 downloads-cmd-retry-panel =

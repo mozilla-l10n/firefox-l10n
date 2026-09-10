@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Tallennetut osoitteet
 autofill-manage-addresses-list-header = Osoitteet
-autofill-manage-credit-cards-title = Tallennetut luottokortit
-autofill-manage-credit-cards-list-header = Luottokortit
 autofill-manage-payment-methods-title = Tallennetut maksutavat
 autofill-manage-cards-list-header = Kortit
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = Avaa valikko
 address-capture-edit-address-link = Muokkaa osoitetta
     .aria-label = Muokkaa osoitetta
-address-capture-edit-address-button =
-    .aria-label = Muokkaa osoitetta
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Lisää osoite
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Muokkaa osoitetta
-autofill-address-given-name = Etunimi
-autofill-address-additional-name = Toinen nimi
-autofill-address-family-name = Sukunimi
 autofill-address-name = Nimi
 autofill-address-organization = Organisaatio
 autofill-address-street-address = Katuosoite
@@ -104,8 +97,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Lisää uusi osoite
 autofill-address-country = Maa tai alue
 autofill-address-country-only = Maa
 autofill-address-tel = Puhelin
@@ -114,18 +105,6 @@ autofill-cancel-button = Peruuta
 autofill-save-button = Tallenna
 autofill-country-warning-message-2 = Lomakkeen automaattinen täyttö on tällä hetkellä käytettävissä vain tietyissä maissa.
 autofill-country-warning-message = Lomakkeiden automaattitäyttö on tällä hetkellä käytettävissä vain joillekin maille.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Lisää uusi luottokortti
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Muokkaa luottokorttia
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] esittää luottokorttitietoja
-        [windows] { -brand-short-name } yrittää näyttää luottokorttitietoja. Vahvista tämän Windows-tilin käyttöoikeus alla.
-       *[other] { -brand-short-name } yrittää esittää luottokorttitietoja.
-    }
 autofill-message-tooltip = Näytä automaattista täyttöä koskeva viesti
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Lisää kortti
@@ -211,15 +190,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = Älä koskaan tallenna passeja
     .accessKey = n
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

@@ -31,4 +31,3 @@ search-bookmarks = Marcapaginas
 search-history = Chronologia
 search-opentabs = Schedas aperte
 search-tags = Etiquettas
-search-titles = Titulos

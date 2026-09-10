@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Atualmente, está no modo FIPS. Este modo 
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Repor palavra-passe principal
     .style = min-width: 40em
+    .title = Repor palavra-passe principal
 reset-password-button-label =
     .label = Repor
 reset-primary-password-text = Se remover a sua palavra-passe principal, todas as suas palavras-passe da Internet e e-mail, certificados pessoais e chaves privadas guardadas serão esquecidas. Tem a certeza de que pretende repor a sua palavra-passe principal?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = A sua palavra-passe principal foi r
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = A transferir certificado
     .style = min-width: 46em
+    .title = A transferir certificado
 download-cert-message = Foi-lhe pedido para confiar numa nova autoridade certificadora (CA).
 download-cert-trust-ssl =
     .label = Confiar nesta entidade de certificação para identificar sites.
@@ -52,8 +52,6 @@ download-cert-view-text = Examinar certificado da CA
 
 client-auth-window =
     .title = Pedido de identificação do utilizador
-client-auth-site-description = Este site pediu que se identificasse com um certificado:
-client-auth-choose-cert = Escolher um certificado para utilizar como identificação:
 client-auth-send-no-certificate =
     .label = Não enviar um certificado.
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Autentique-se no dispositivo de segurança ({ $tokenName }). O método de autenticação depende do dispositivo (por exemplo, através de um leitor de impressões digitais ou introduzindo um código num teclado).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Por favor, autentique-se na chave “{ $tokenName }”. A forma de fazer isto depende da chave (por exemplo, utilizando um leitor de impressão digital ou inserindo um código com um teclado).

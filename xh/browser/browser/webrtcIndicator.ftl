@@ -26,23 +26,6 @@ webrtc-sharing-menu =
     .label = Iitabhu zokwabelana needivayisi
     .accesskey = d
 
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Ikhamera nemayikhrofowuni kwabelwana ngazo. Cofa ukulawula ukwabelana.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Ikhamera yakho kwabelwana ngayo. Cofa ukulawula ukwabelana.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Imayikhrofowuni yakho kwabelwana ngayo. Cofa ukulawula ukwabelana.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Usetyenziso kwabelwana ngalo. Cofa ukulawula ukwabelana.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Iskrini sakho kwabelwana ngaso. Cofa ukulawula ukwabelana.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Iwindowu kwabelwana ngayo. Cofa ukulawula ukwabelana.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = I-tab kwabelwana ngayo. Cofa ukulawula ukwabelana.
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
@@ -106,7 +89,6 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
-webrtc-share-screen-learn-more = Funda Okungakumbi
 webrtc-share-entire-screen = Sonke iskrini
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).

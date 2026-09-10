@@ -109,8 +109,6 @@ full-zoom-reset-shortcut-alt =
 ## The shortcuts below are for Mac specific
 ## global menu.
 
-help-shortcut =
-    .key = ?
 preferences-shortcut =
     .key = ,
 hide-app-shortcut =

@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Adder { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Progresso: passo { $current } de { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -198,11 +192,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Fixar { -brand-short-name } al barra de apps e al menu Initiar
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Comencia con un navigator sustenite per un organisation sin scopo lucrative. Nos defende tu vita private durante que tu naviga sur le web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -232,57 +221,10 @@ mr2022-onboarding-set-default-subtitle = Usa un navigator sustenite per un organ
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Nostre ultime version es construite circa te, rendente le navigation del web plus facile que jammais. Es replete de functiones que nos crede que tu va adorar.
 mr2022-onboarding-get-started-primary-button-label = Configura lo in secundas
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Installation fulminee
-mr2022-onboarding-import-subtitle = Configura { -brand-short-name } como te place. Adde le marcapaginas, contrasignos e multo plus de tu navigator ancian.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importar ab previe navigator
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Elige le color que te inspira
-mr2022-onboarding-colorway-subtitle = Le voces independente pote cambiar le cultura.
-mr2022-onboarding-colorway-primary-button-label-continue = Definir e continuar
-mr2022-onboarding-existing-colorway-checkbox-label = Rende { -firefox-home-brand-name } tu multicolor pagina principal del combination de colores
-mr2022-onboarding-colorway-label-default = Predefinite
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Colores actual de { -brand-short-name }
-mr2022-onboarding-colorway-description-default = <b>Usa mi colores actual de { -brand-short-name }.</b>
-mr2022-onboarding-colorway-label-playmaker = Gestor de joco
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Gestor de joco (rubie)
-mr2022-onboarding-colorway-description-playmaker = <b>Tu es un Gestor de joco.</b> Tu crea opportunitates pro vincer e adjutar totes circum te a elevar lor joco.
-mr2022-onboarding-colorway-label-expressionist = Expressionista
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Expressionista (jalne)
-mr2022-onboarding-colorway-description-expressionist = <b>Tu es un Expressionista.</b> Tu vide le mundo differentemente e tu creationes agita le emotiones de alteres.
-mr2022-onboarding-colorway-label-visionary = Visionario
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Visionario (verde)
-mr2022-onboarding-colorway-description-visionary = <b>Tu es un Visionario.</b> Tu mitte in dubita le status quo e move alteres a imaginar un futuro melior.
-mr2022-onboarding-colorway-label-activist = Activista
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Activista (blau)
-mr2022-onboarding-colorway-description-activist = <b>Tu es un Activista.</b> Tu lassa le mundo melior de illo que tu trovava, e duce alsi alteres a creder.
-mr2022-onboarding-colorway-label-dreamer = Soniator
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Soniator (purpuree)
-mr2022-onboarding-colorway-description-dreamer = <b>Tu es un Soniator.</b> Tu crede que le fortuna favora les audace e inspira les altere a esser coragiose.
-mr2022-onboarding-colorway-label-innovator = Innovator
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Innovator (orange)
-mr2022-onboarding-colorway-description-innovator = <b>Tu es un Innovator.</b> Tu vide ubique opportunitates de grande impacto super le vitas de totes circum te.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Passa de portabile a telephono e vice versa
-mr2022-onboarding-mobile-download-subtitle = Prende le schedas de un apparato e continua ubi tu lassava sur un altere. Synchronisa tu marcapaginas e contrasignos ubicunque tu usa { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Scanna le codice QR pro haber { -brand-product-name } sur tu apparato mobile o <a data-l10n-name="download-label">invia te un ligamine de discargamento.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Scanna le codice QR pro haber { -brand-product-name } sur tu apparato mobile.
 
@@ -335,15 +277,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Manos de pelle clar e de pelle obscur que se da le cinque
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Vision de un sol ponente per un fenestra con un vulpe e un planta de interno sur un appoio del fenestra
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Un mano pinge con spray un collage multicolor de un oculo verde, un scarpa orange, un ballon de basket rubie, auriculares purpuree, un corde blau e un corona jalne
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Un vulpe salutante sur le schermo de un computator portabile. Le portabile ha un mus inserite in illo.
 onboarding-device-migration-title = Bentornate!
-onboarding-device-migration-subtitle = Accede a tu { -fxaccount-brand-name } pro portar con te sur tu nove apparato tu marcapaginas, contrasignos, e chronologia.
 onboarding-device-migration-subtitle2 = Accede a tu conto pro portar con te marcapaginas, contrasignos, e chronologia sur tu nove apparato.
 onboarding-device-migration-primary-button-label = Aperir session
 
@@ -460,15 +399,12 @@ tab-groups-onboarding-feature-callout-title = Prova le gruppos de schedas pro mi
 tab-groups-onboarding-feature-callout-subtitle = Organisa te trahente un scheda al summitate de un altere pro crear tu prime gruppo.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Trova quandocunque tu gruppos de schedas in le menu Listar tote le schedas.
-tab-groups-onboarding-create-group-title-2 = Trova hic tu gruppos de schedas in omne momento.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Pro trovar tu gruppos, cerca los in le barra de adresse.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Si tu claudeva un gruppo de schedas, reaperi lo quandocunque per le menu Listar tote le schedas.
-tab-groups-onboarding-saved-groups-title-2 = Quando tu claude un gruppo de schedas, tu pote reaperir lo hic in omne momento.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Pro trovar tu gruppos claudite, cerca los in le barra de adresse.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Reaperi tu gruppos de schedas quandocunque per le menu Listar tote le schedas.
-tab-groups-onboarding-session-restore-title = Reaperi tu gruppos de schedas hic in omne momento.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

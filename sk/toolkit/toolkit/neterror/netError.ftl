@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Prejsť naspäť
 neterror-return-to-previous-page-recommended-button = Prejsť naspäť (odporúča sa)
 neterror-try-again-button-2 = Skúsiť znova
     .accesskey = S
-neterror-try-again-button = Skúsiť znova
 neterror-add-exception-button = Vždy pokračovať pre túto stránku
 neterror-settings-button = Zmeniť nastavenia DNS
 neterror-view-certificate-link = Zobraziť certifikát
-neterror-trr-continue-this-time = Tentoraz pokračovať
-neterror-disable-native-feedback-warning = Vždy pokračovať
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = Ďalšie informácie
 ##
 
 neterror-pref-reset = Zdá sa, že príčinou môžu byť vaše nastavenia zabezpečenia internetu. Chceli by ste obnoviť predvolené nastavenia?
-neterror-error-reporting-automatic = Hlásiť chyby ako je táto a pomôcť tým { -vendor-short-name(case: "dat") } identifikovať a blokovať škodlivé stránky
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Odpojte sa a znova pripojte k si
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } nedokáže ochrániť vašu žiadosť o adresu tohto webu prostredníctvom nášho dôveryhodného nástroja DNS resolver. Tu je dôvod:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } nedokáže ochrániť vašu žiadosť o adresu tohto webu prostredníctvom nášho zabezpečeného poskytovateľa DNS. Tu je dôvod:
 neterror-dns-not-found-trr-third-party-warning2 = Môžete pokračovať s vaším predvoleným nástrojom na prekladanie DNS. Tretia strana však môže vidieť, aké webové stránky navštevujete.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name(case: "dat") } sa nepodarilo pripojiť k { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Pripojenie k { $trrDomain } trvalo dlhšie, ako sa očakávalo.
-neterror-dns-not-found-trr-offline = Nie ste pripojení na internet.
 neterror-dns-not-found-trr-unknown-host2 = Táto stránka nebola pomocou servera { $trrDomain } nájdená.
 neterror-dns-not-found-trr-server-problem = Vyskytol sa problém s { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = Neplatná adresa URL.
 neterror-dns-not-found-system-sleep = Systém je v režime spánku.
 neterror-dns-not-found-trr-unknown-problem = Neočakávaný problém.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } nedokáže ochrániť vašu žiadosť o adresu tohto webu prostredníctvom nášho dôveryhodného nástroja DNS resolver. Tu je dôvod:
-neterror-dns-not-found-native-fallback-heuristic = DNS cez HTTPS bol vo vašej sieti zakázaný.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name(case: "dat") } sa nepodarilo pripojiť k { $trrDomain }.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = Mohol byť odstránený, premiestnený alebo vám v pr�
 neterror-unknown-protocol = Na otvorenie tejto adresy možno bude potrebné nainštalovať ďalší softvér.
 neterror-redirect-loop = Tento problém môže nastať pri nepovolení, resp. odmietnutí cookies.
 neterror-unknown-socket-type-client-config = Môže to byť spôsobené chybou konfigurácie vášho klienta.
-neterror-unknown-socket-type-psm-installed = Uistite sa, či je v systéme nainštalovaný Správca súkromných kľúčov (PSM).
-neterror-unknown-socket-type-server-config = Môže to byť spôsobené neštandardnou konfiguráciou servera.
 neterror-not-cached-intro = Požadovaný dokument sa nenachádza vo vyrovnávacej pamäti { -brand-short-name(case: "gen") }.
 neterror-not-cached-sensitive = Z bezpečnostných dôvodov { -brand-short-name } automaticky nežiada o opätovné načítanie citlivých dokumentov.
 neterror-not-cached-try-again = Kliknutím na tlačidlo Skúsiť znova požiadate o opätovné načítanie dokumentu.

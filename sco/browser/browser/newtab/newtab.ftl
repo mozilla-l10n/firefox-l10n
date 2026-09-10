@@ -6,13 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = New Tab
-newtab-settings-button =
-    .title = Mak yer New Tab page yer ain
-newtab-personalize-icon-label =
-    .aria-label = Personalise new tab
-    .title = Personalise new tab
-newtab-personalize-dialog-label =
-    .aria-label = Personalise
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -85,7 +78,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Eik On Airt-oot Engine
 newtab-topsites-add-shortcut-header = New Shortcut
-newtab-topsites-edit-topsites-header = Edit Tap Site
 newtab-topsites-edit-shortcut-header = Edit Shortcut
 newtab-topsites-title-label = Title
 newtab-topsites-title-input =
@@ -123,20 +115,12 @@ newtab-topsite-sponsored = Sponsored
 newtab-menu-section-tooltip =
     .aria-label = Open menu
     .title = Open menu
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Remuive
-    .title = Remuive
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Open context menu fur { $title }
     .title = Open menu
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Edit this site
-    .title = Edit this site
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -147,22 +131,7 @@ newtab-menu-dismiss = Dismiss
 newtab-menu-pin = Peen
 newtab-menu-unpin = Remuive Peen
 newtab-menu-delete-history = Dicht fae Historie
-newtab-menu-save-to-pocket = Save tae { -pocket-brand-name }
-newtab-menu-delete-pocket = Dicht fae { -pocket-brand-name }
-newtab-menu-archive-pocket = Archive in { -pocket-brand-name }
 newtab-menu-show-privacy-info = Oor sponsors & yer privacy
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Duin
-newtab-privacy-modal-button-manage = Manage sponsored content settins
-newtab-privacy-modal-header = Yer privacy maitters.
-newtab-privacy-modal-paragraph-2 =
-    Forby dishin oot the maist by-ordinar stories, we can shaw ye relevant,
-    tentily checked-oot content fae selectit sponsors. Dinnae fash, <strong>yer stravaigin
-    data nivver leaves yer ain copy o { -brand-product-name }</strong> — we dinnae see it, and oor
-    sponsors dinnae either.
-newtab-privacy-modal-link = Lairn how privacy wirks on the new tab
 
 ##
 
@@ -216,39 +185,16 @@ newtab-label-source-read-time = { $source } · { $timeToRead } min
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Remuive Section
-newtab-section-menu-collapse-section = In-fauld Section
-newtab-section-menu-expand-section = Oot-fauld Section
-newtab-section-menu-manage-section = Manage Section
-newtab-section-menu-manage-webext = Manage Extension
-newtab-section-menu-add-topsite = Eik On Tap Site
-newtab-section-menu-add-search-engine = Eik On Airt-oot Engine
-newtab-section-menu-move-up = Shift Up
-newtab-section-menu-move-down = Shift Doon
 newtab-section-menu-privacy-notice = Privacy Notice
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = In-fauld Section
-newtab-section-expand-section-label =
-    .aria-label = Oot-fauld Section
 
 ## Section Headers.
 
 newtab-section-header-topsites = Tap Sites
 newtab-section-header-recent-activity = Recent activity
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Recommendit by { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Stert stravaigin, and we'll shaw some o the smashin airticles, videos, and ither pages ye've recently veesitit or buikmerkt here.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Ye're aw caught up. Check back efter fur mair tap stories fae { $provider }. Cannae wait? Wale a popular topic fur tae find mair smashin stories fae aroond the wab.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -259,16 +205,6 @@ newtab-discovery-empty-section-topstories-loading = Loadin…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Och! We'd nearly loadit this section, but it didnae quite happen.
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Popular Topics:
-newtab-pocket-more-recommendations = Mair Recommendations
-newtab-pocket-learn-more = Lairn mair
-newtab-pocket-cta-button = Get { -pocket-brand-name }
-newtab-pocket-cta-text = Save the stories ye're intae wi { -pocket-brand-name }, and nourish yer mind wi some wunnerfu reads.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } is pairt o the { -brand-product-name } faimily
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -277,8 +213,6 @@ newtab-error-fallback-refresh-link = Refresh page fur tae gie it anither shottie
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Shortcuts
-newtab-custom-shortcuts-subtitle = Sites ye save or veesit
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Sites ye save or veesit
@@ -294,20 +228,6 @@ newtab-custom-row-selector2 =
             [one] { $num } row
            *[other] { $num } rows
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } row
-       *[other] { $num } rows
-    }
-newtab-custom-sponsored-sites = Sponsored shortcuts
-newtab-custom-pocket-title = Recommendit by { -pocket-brand-name }
-newtab-custom-pocket-subtitle = By-ordinar content pit thegither by { -pocket-brand-name }, pairt o the { -brand-product-name } faimily.
-newtab-custom-pocket-sponsored = Sponsored stories
-newtab-custom-recent-title = Recent activity
-newtab-custom-recent-subtitle = A walin o recent sites and content
-newtab-custom-close-button = Sneck
 newtab-custom-settings = Manage mair settins
 
 ## Strings for the Clock widget

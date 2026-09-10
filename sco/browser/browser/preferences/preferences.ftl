@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Send wabsites a "Dinnae Track" signal that ye dinnae want tae be tracked.
-do-not-track-learn-more = Lairn mair
-do-not-track-option-default-content-blocking-known =
-    .label = Anely when { -brand-short-name } is set tae block kent trackers
-do-not-track-option-always =
-    .label = Ayeweys
 settings-page-title = Settins
 category-nav-heading =
     .heading = Settins
@@ -28,37 +22,16 @@ managed-notice-nav =
 category-list =
     .aria-label = Categories
 pane-general-title = General
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = Hame
 pane-search-title2 = Sairch
     .title = Sairch
 pane-privacy-title3 = Privacy & Siccarness
     .title = Privacy & Siccarness
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = Sairch
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = Privacy & Siccarness
-pane-privacy-title = Privacy & Siccarness
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Sync
-category-sync3 =
-    .tooltiptext = { pane-sync-title3 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-pane-experimental-title = { -brand-short-name } Experiments
-category-experimental =
-    .tooltiptext = { -brand-short-name } Experiments
-pane-experimental-subtitle = Haud Forrit wi Tent
-pane-experimental-search-results-header = { -brand-short-name } Experiments: Haud Forrit wi Tent
-pane-experimental-description2 = Chyngin advanced confeeguration settins can effect { -brand-short-name } performance or siccarness.
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Restore Staunarts
     .accesskey = R
@@ -66,8 +39,6 @@ help-button-label2 = { -brand-short-name } Hauners
     .title = { -brand-short-name } Hauners
 addons-button-label2 = Extensions & Themes
     .title = Extensions & Themes
-help-button-label = { -brand-short-name } Hauners
-addons-button-label = Extensions & Themes
 focus-search =
     .key = f
 close-button =
@@ -108,58 +79,29 @@ search-results-help-link = Needin a haun? Veesit <a data-l10n-name="url">{ -bran
 
 ## General Section
 
-startup-header = Stertup
 always-check-default =
     .label = Ayeweys check if { -brand-short-name } is yer staunart stravaiger
     .accesskey = y
-is-default = { -brand-short-name } is yer staunart stravaiger the noo
-is-not-default = { -brand-short-name } isnae yer staunart stravaiger
-set-as-my-default-browser =
-    .label = Mak Staunart…
-    .accesskey = S
 startup-restore-windows-and-tabs =
     .label = Open previous windaes and tabs
     .accesskey = s
-startup-restore-warn-on-quit =
-    .label = Warn ye when quittin the stravaiger
 disable-extension =
     .label = Disable Extension
 tabs-group-header2 =
     .label = Tabs
-tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab gangs through tabs in the order ye last yaised them
     .accesskey = T
 open-new-link-as-tabs =
     .label = Open links in tabs insteid o new windaes
     .accesskey = w
-confirm-on-close-multiple-tabs =
-    .label = Confirm afore sneckin multiple tabs
-    .accesskey = m
-# This string is used for the confirm before quitting preference.
-# Variables:
-#   $quitKey (string) - the quit keyboard shortcut, and formatted
-#                       in the same manner as it would appear,
-#                       for example, in the File menu.
-confirm-on-quit-with-key =
-    .label = Confirm afore quittin wi { $quitKey }
-    .accesskey = b
 warn-on-open-many-tabs =
     .label = Warn ye when openin mair nor ane tab micht gar { -brand-short-name } slow doon
     .accesskey = d
-switch-to-new-tabs =
-    .label = When ye open a link, image or media in a new tab, switch ower tae it straicht awa
-    .accesskey = h
 show-tabs-in-taskbar =
     .label = Kythe tab previews in the Windows taskbaur
     .accesskey = k
-browser-containers-enabled =
-    .label = Enable Conteener Tabs
-    .accesskey = n
 browser-containers-learn-more = Lairn mair
-browser-containers-settings =
-    .label = Settins…
-    .accesskey = i
 containers-disable-alert-title = Sneck Aw Conteener Tabs?
 startup-group =
     .label = Stertup
@@ -195,19 +137,8 @@ containers-remove-cancel-button = Dinnae remuive this Conteener
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Leid and Kythe
-default-font = Staunart font
-    .accesskey = S
-default-font-size = Size
-    .accesskey = z
-advanced-fonts =
-    .label = Advanced…
-    .accesskey = A
 preferences-default-zoom-label =
     .label = Staunart zoom
-    .accesskey = z
-# Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = Zoom
-preferences-default-zoom = Staunart zoom
     .accesskey = z
 # Variables:
 #   $percentage (number) - Zoom percentage value
@@ -229,13 +160,7 @@ confirm-browser-language-change-description = Restert { -brand-short-name } tae 
 confirm-browser-language-change-button = Apply and Restert
 browser-language-install-error =
     .message = { -brand-short-name } cannae update yer leids the noo. Mak siccar ye're connectit tae the internet or gie it anither shottie.
-translate-web-pages =
-    .label = Owerset wab content
-    .accesskey = t
 fx-translate-web-pages = { -translations-brand-name }
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = Owersettins by <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Exceptions…
     .accesskey = x
@@ -254,23 +179,6 @@ download-save-files-header =
     .label = Save files tae
 download-save-where-3 =
     .aria-label = Save files tae
-download-header = Doonloads
-download-save-where = Save files tae
-    .accesskey = v
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Wale…
-           *[other] Stravaig…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] o
-        }
-download-always-ask-where =
-    .label = Ayeweys speir ye whaur tae save files
-    .accesskey = A
 applications-header = Applications
 applications-description = Decide how { -brand-short-name } haunles the files ye doonload fae the wab or the applications ye yaise while stravaigin.
 applications-filter =
@@ -318,10 +226,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Yaise { $plugin-name } (in { -brand-short-name })
 applications-open-inapp =
     .label = Open in { -brand-short-name }
 
@@ -329,8 +233,6 @@ applications-open-inapp =
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -350,41 +252,21 @@ applications-use-os-default-label =
 
 drm-group =
     .label = Digital Richts Management (DRM) Content
-drm-content-header = Digital Richts Management (DRM) Content
 play-drm-content =
     .label = Pley DRM-controlled content
     .accesskey = P
 play-drm-content-learn-more = Lairn mair
-update-application-title = { -brand-short-name } Updates
-update-application-description = Keep { -brand-short-name } up tae date for the best performance, stieveness, and siccarness.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Version { $version } <a data-l10n-name="learn-more">Whit’s new</a>
 update-history-2 =
     .label = Kythe Update Historie
     .accesskey = p
-update-history =
-    .label = Kythe Update Historie...
-    .accesskey = p
-update-application-allow-description = Alloo { -brand-short-name } tae
-update-application-auto =
-    .label = Automatically instaw updates (recommendit)
-    .accesskey = A
-update-application-check-choose =
-    .label = Check fur updates but lat yersel decide whether tae instaw them
-    .accesskey = C
-update-application-manual =
-    .label = Nivver check fur updates (no recommendit)
-    .accesskey = N
 update-application-background-enabled =
     .label = When { -brand-short-name } isnae rinnin
     .accesskey = W
 update-application-warning-cross-user-setting-2 =
     .message = This settin will applt tae aw Windows accoonts and { -brand-short-name } profiles yaisin this instawment o { -brand-short-name }.
-update-application-warning-cross-user-setting = This settin will applt tae aw Windows accoonts and { -brand-short-name } profiles yaisin this instawment o { -brand-short-name }.
-update-application-use-service =
-    .label = Yaise a backgrund service fur tae instaw updates
-    .accesskey = b
 update-setting-write-failure-title2 = Mishanter savin Update settins
 # Variables:
 #   $path (string) - Path to the configuration file
@@ -403,11 +285,6 @@ update-in-progress-cancel-button = &Haud Forrit
 
 ## General Section - Performance
 
-performance-title = Performance
-performance-use-recommended-settings-checkbox =
-    .label = Yaise recommendit performance settins
-    .accesskey = Y
-performance-use-recommended-settings-desc = These settins are shapit tae yer computer's haurdware and operatin system.
 performance-settings-learn-more = Lairn mair
 performance-allow-hw-accel =
     .label = Yaise haurdware acceleration whaur possible
@@ -425,7 +302,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = Stravaigin
 browsing-use-autoscroll =
     .label = Yaise autoscroll
     .accesskey = a
@@ -441,32 +317,17 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Sairch fur text when ye stert typin
     .accesskey = x
-browsing-picture-in-picture-toggle-enabled =
-    .label = Mak yaise o pictur-in-pictur video controls
-    .accesskey = y
-browsing-picture-in-picture-learn-more = Lairn mair
 browsing-media-control =
     .label = Control media through keybuird, heidset, or virtual interface
     .accesskey = v
-browsing-media-control-learn-more = Lairn mair
 browsing-cfr-recommendations =
     .label = Recommend extensions as ye stravaig
     .accesskey = R
 browsing-cfr-features =
     .label = Recommend featurs as ye stravaig
     .accesskey = f
-browsing-cfr-recommendations-learn-more = Lairn mair
 browsing-group =
     .label = Stravaigin
-
-## General Section - Proxy
-
-network-settings-title = Netwark settins
-network-proxy-connection-description = Confeegur how { -brand-short-name } connects tae the internet.
-network-proxy-connection-learn-more = Lairn mair
-network-proxy-connection-settings =
-    .label = Settins…
-    .accesskey = e
 
 ## Home Section
 
@@ -518,9 +379,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Sites ye save or veesit
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsored shortcuts
-home-prefs-recommended-by-header =
-    .label = Recommendit by { $provider }
-home-prefs-recommended-by-description-new = Gallus content pit thegither by { $provider }, pairt o the { -brand-product-name } faimily
 
 ##
 
@@ -533,18 +391,9 @@ home-prefs-highlights-options-bookmarks =
     .label = Buikmerks
 home-prefs-highlights-option-most-recent-download =
     .label = Maist Recent Doonload
-home-prefs-highlights-option-saved-to-pocket =
-    .label = Pages Saved tae { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = Recent activity
 home-prefs-recent-activity-description = A walin o recent sites and content
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = Bitties
-home-prefs-snippets-description-new = Tips and news fae { -vendor-short-name } and { -brand-product-name }
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -556,38 +405,11 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = Sairch Baur
-search-bar-hidden =
-    .label = Yaise the address baur for sairchin and flittin aboot
-search-bar-shown =
-    .label = Eik on sairch baur in toolbaur
-search-engine-default-header = Staunart Airt-oot Engine
-search-engine-default-desc-2 = This is yer staunart airt-oot engine in the address baur and sairch baur. Ye can chynge it at onie time.
-search-engine-default-private-desc-2 = Wale anither staunart airt-oot engine fur Private Windaes anely
-search-separate-default-engine =
-    .label = Yaise this airt-oot engine in Private Windaes
-    .accesskey = Y
-search-suggestions-header = Airt-oot Suggestions
-search-suggestions-desc = Decide how suggestions fae airt-oot engines kythe.
-search-suggestions-option =
-    .label = Gie's airt-oot suggestions
-    .accesskey = s
 search-show-suggestions-url-bar-option =
     .label = Kythe airt-oot suggestions in address baur results
     .accesskey = l
 search-suggestions-cant-show-2 =
     .message = Airt-oot suggestions willnae be kythed in location baur results acause ye've confeegurt { -brand-short-name } tae nivver mind o historie.
-# This string describes what the user will observe when the system
-# prioritizes search suggestions over browsing history in the results
-# that extend down from the address bar. In the original English string,
-# "ahead" refers to location (appearing most proximate to), not time
-# (appearing before).
-search-show-suggestions-above-history-option =
-    .label = Kythe airt-oot suggestions aheid o stravaigin historie in address baur results
-search-show-suggestions-private-windows =
-    .label = Kythe airt-oot suggestions in Private Windaes
-suggestions-addressbar-settings-generic2 = Chynge settins for ither address baur suggestions
-search-suggestions-cant-show = Airt-oot suggestions willnae be kythed in location baur results acause ye've confeegurt { -brand-short-name } tae nivver mind o historie.
 search-one-click-header2 = Sairch Shortcuts
 search-one-click-desc = Wale the ither airt-oot engines that kythe unner the address baur and sairch baur when ye stert tae inpit a keywird.
 search-choose-engine-column =
@@ -616,22 +438,6 @@ search-engine-group =
 search-default-engine =
     .aria-label = Staunart Airt-oot Engine
 
-## Containers Section
-
-containers-back-button2 =
-    .aria-label = Back tae Settins
-containers-header = Conteener Tabs
-containers-add-button =
-    .label = Eik On New Conteener
-    .accesskey = E
-containers-new-tab-check =
-    .label = Wale a conteener fur ilka new tab
-    .accesskey = W
-containers-settings-button =
-    .label = Settins
-containers-remove-button =
-    .label = Remuive
-
 ## Account and sync
 
 sync-group-label =
@@ -657,8 +463,6 @@ sync-mobile-promo = Doonload Firefox fur <img data-l10n-name="android-icon"/> <a
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = Chynge profile pictur
 sync-profile-picture-with-alt =
     .alt = Chynge profile pictur
     .tooltiptext = Chynge profile pictur
@@ -683,9 +487,6 @@ sync-signedin-login-failure = Gonnae sign in tae reconnect { $email }
 
 ##
 
-sync-resend-verification =
-    .label = Resend Trystmakkin
-    .accesskey = d
 sync-remove-account =
     .label = Remuive Accoont
     .accesskey = R
@@ -704,10 +505,6 @@ prefs-sync-turn-on-syncing-2 =
     .label = Turn on syncin
     .accesskey = s
 prefs-sync-offer-setup-label2 = Synchronise yer buikmerks, historie, tabs, passwirds, eik-ons, and settins across aw yer devices.
-prefs-sync-now =
-    .labelnotsyncing = Sync Noo
-    .labelsyncing = Syncin…
-    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = Sync Noo
     .accesskey = N
@@ -725,24 +522,12 @@ prefs-syncing-button-2 =
 sync-currently-syncing-bookmarks = Buikmerks
 sync-currently-syncing-history = Historie
 sync-currently-syncing-tabs = Open tabs
-sync-currently-syncing-logins-passwords = Logins and passwirds
 sync-currently-syncing-addresses = Addresses
-sync-currently-syncing-creditcards = Credit cairds
 sync-currently-syncing-addons = Eik-ons
 sync-currently-syncing-settings = Settins
-sync-change-options =
-    .label = Chynge...
-    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
-sync-choose-what-to-sync-dialog3 =
-    .buttonlabelaccept = Save Chynges
-    .buttonlabelextra2 = Disconnect…
-    .buttonaccesskeyaccept = S
-    .buttonaccesskeyextra2 = D
-    .style = min-width: 36em;
-    .title = Wale Whit Tae Sync
 sync-engine-bookmarks =
     .label = Buikmerks
     .accesskey = m
@@ -753,18 +538,10 @@ sync-engine-tabs =
     .label = Open tabs
     .tooltiptext = A list o whit’s open on aw synced devices
     .accesskey = t
-sync-engine-logins-passwords =
-    .label = Logins and passwirds
-    .tooltiptext = Yaiser nemmes and passwirds ye’ve saved
-    .accesskey = L
 sync-engine-addresses =
     .label = Addresses
     .tooltiptext = Post addresses ye’ve saved (desktap anely)
     .accesskey = e
-sync-engine-creditcards =
-    .label = Credit cairds
-    .tooltiptext = Nemmes, nummers and expiry dates (desktap anely)
-    .accesskey = C
 sync-engine-addons =
     .label = Eik-ons
     .tooltiptext = Extensions and themes fur Firefox desktap
@@ -800,49 +577,19 @@ sync-connect-another-device = Connect anither device
 sync-connect-another-device-2 =
     .label = Connect anither device
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = Trystmakkin Sent
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = A trystmakkin link has been sent tae { $email }.
-sync-verification-not-sent-title = No Able tae Send Trystmakkin
-sync-verification-not-sent-body = We're no able tae send a trystmakkin mail jist the noo, gie it anither shottie efter.
-
 ## Privacy Section
 
 privacy-header = Stravaiger Privacy
-
-## Privacy Section - Logins and Passwords
-
-# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = Logins and Passwirds
-    .searchkeywords = { -lockwise-brand-short-name }
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = Speir fur tae save logins and passwirds for wabsites
-    .accesskey = r
 
 ## Privacy Panel Settings
 
 forms-exceptions =
     .label = Exceptions…
     .accesskey = x
-forms-generate-passwords =
-    .label = Suggest and mak strang passwirds
-    .accesskey = u
 forms-breach-alerts =
     .label = Kythe alerts aboot passwirds fur breached wabsites
     .accesskey = b
 forms-breach-alerts-learn-more-link = Lairn mair
-# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
-forms-fill-logins-and-passwords =
-    .label = Autofeenish logins and passwirds
-    .accesskey = i
-forms-saved-logins =
-    .label = Saved Logins…
-    .accesskey = L
 forms-primary-pw-use =
     .label = Yaise a Primary Passwird
     .accesskey = Y
@@ -880,32 +627,12 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
-history-header = Historie
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } will
-    .accesskey = w
-history-remember-option-all =
-    .label = Mind yer historie
-history-remember-option-never =
-    .label = Nivver mind yer historie
-history-remember-option-custom =
-    .label = Yaise custom settins for historie
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } will mind yer stravaigin, doonload, form and sairch historie.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } will yaise the same settins as private stravaigin, and willnae mind o onie historie as ye stravaig the Wab.
-history-remember-description = { -brand-short-name } will mind yer stravaigin, doonload, form and sairch historie.
-history-dontremember-description = { -brand-short-name } will yaise the same settins as private stravaigin, and willnae mind o onie historie as ye stravaig the Wab.
 history-private-browsing-permanent =
     .label = Ayeweys yaise private stravaigin mode
     .accesskey = p
@@ -931,43 +658,16 @@ history-mode-radio-group =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Cookies and Site Data
 sitedata-total-size-calculating = Wirkin oot site data and cache size...
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Yer stored cookies, site data, and cache richt noo are yaisin { $value } { $unit } o disk space.
 sitedata-learn-more = Lairn mair
-sitedata-delete-on-close =
-    .label = Dicht cookies and site data when { -brand-short-name } is sneckit
-    .accesskey = c
-sitedata-delete-on-close-private-browsing = In ayebidin private stravaigin mode, cookies and site date will ayeweys be dichtit when { -brand-short-name } is sneckit.
-sitedata-allow-cookies-option =
-    .label = Accept cookies and site data
-    .accesskey = A
-sitedata-disallow-cookies-option =
-    .label = Block cookies and site data
-    .accesskey = B
-# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
-# The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = Type blockit
-    .accesskey = T
 sitedata-option-block-cross-site-trackers =
     .label = Cross-site trackers
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Cross-site trackin cookies
-sitedata-option-block-cross-site-cookies =
-    .label = Cross-site trackin cookies, and isolate ither cross-site cookies
 sitedata-option-block-unvisited =
     .label = Cookies fae wabsites ye hivnae veesitit
 sitedata-option-block-all =
     .label = Aw cookies (will gar wabsites tae brek)
-sitedata-clear =
-    .label = Dicht Data…
-    .accesskey = D
-sitedata-settings =
-    .label = Manage Data…
-    .accesskey = M
 sitedata-cookies-exceptions =
     .label = Manage Exceptions…
     .accesskey = x
@@ -976,8 +676,6 @@ cookies-site-data-group =
 
 ## Search Section
 
-addressbar-header = Address Baur
-addressbar-suggest = When yaisin the address baur, suggest
 addressbar-locbar-history-option =
     .label = Stravaigin historie
     .accesskey = h
@@ -994,10 +692,6 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Tap sites
     .accesskey = T
-addressbar-locbar-engines-option =
-    .label = Airt-oot engines
-    .accesskey = A
-addressbar-suggestions-settings = Chynge preferences fur airt-oot engine suggestions
 
 ## Privacy Section - Content Blocking
 
@@ -1029,7 +723,6 @@ content-blocking-etp-blocking-desc = { -brand-short-name } blocks the follaein:
 content-blocking-private-windows = Trackin content in Private Windaes
 content-blocking-cross-site-tracking-cookies = Cross-site trackin cookies
 content-blocking-all-cross-site-cookies-private-windows = Cross-site cookies in Private Windaes
-content-blocking-cross-site-tracking-cookies-plus-isolate = Cross-site trackin cookies, and isolate onie ither cookies
 content-blocking-social-media-trackers = Social media trackers
 content-blocking-all-cookies = Aw cookies
 content-blocking-unvisited-cookies = Cookies fae sites ye hivnae veesitit
@@ -1037,8 +730,6 @@ content-blocking-all-windows-tracking-content = Trackin content in aw windaes
 content-blocking-cryptominers = Cryptohowkers
 content-blocking-fingerprinters = Fingirprenters
 content-blocking-etp-standard-tcp-rollout-learn-more = Lairn mair
-content-blocking-warning-title = Haud the bus!
-content-blocking-and-isolating-etp-warning-description-2 = This settin micht gar some wabsites tae no kythe content or wirk richt. Gin a site luiks mogert, ye micht want tae turn aff trackin bieldin fur thon site tae load aw content.
 content-blocking-warning-learn-how = Lairn how
 content-blocking-reload-description = Ye'll need tae reload yer tabs fur tae mak yaise o these chynges
 content-blocking-reload-tabs-button =
@@ -1053,7 +744,6 @@ content-blocking-tracking-protection-option-all-windows =
 content-blocking-option-private =
     .label = Anely in Private Windaes
     .accesskey = p
-content-blocking-tracking-protection-change-block-list = Chynge block list
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
@@ -1063,11 +753,6 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = Cryptohowkers
     .accesskey = y
-# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
-# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
-content-blocking-fingerprinters-label =
-    .label = Fingirprenters
-    .accesskey = F
 
 ## Privacy Section - Tracking
 
@@ -1077,52 +762,11 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = Permeesions
-permissions-location = Airtin
-permissions-location-settings =
-    .label = Settins…
-    .accesskey = t
-permissions-xr = Virtual Reality
-permissions-xr-settings =
-    .label = Settins…
-    .accesskey = t
-permissions-camera = Camera
-permissions-camera-settings =
-    .label = Settins…
-    .accesskey = t
-permissions-microphone = Microphone
-permissions-microphone-settings =
-    .label = Settins…
-    .accesskey = t
-permissions-notification = Notifications
-permissions-notification-settings =
-    .label = Settins…
-    .accesskey = t
-permissions-notification-link = Lairn mair
 permissions-notification-pause =
     .label = Pit notifications on haud the noo until { -brand-short-name } resterts
     .accesskey = n
 permissions-autoplay2 =
     .label = Autopley
-permissions-autoplay = Autopley
-permissions-autoplay-settings =
-    .label = Settins…
-    .accesskey = t
-permissions-block-popups =
-    .label = Block lowp-up windaes
-    .accesskey = B
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button =
-    .label = Exceptions…
-    .searchkeywords = lowpups
-    .accesskey = E
-permissions-addon-install-warning =
-    .label = Warn ye when wabsites ettle tae instaw eik-ons
-    .accesskey = W
-permissions-addon-exceptions =
-    .label = Exceptions…
-    .accesskey = E
 permissions-location2 =
     .label = Airtin
 permissions-xr2 =
@@ -1136,26 +780,6 @@ permissions-notification2 =
 
 ## Privacy Section - Data Collection
 
-collection-header = { -brand-short-name } Data Collection and Yaise
-collection-description = We ettle tae gie ye chyces and tae gaither anely whit we need tae provide and tae forder { -brand-short-name } for awbodie. We ayeweys speir for permeesion afore gettin personal information.
-collection-privacy-notice = Privacy Notice
-collection-health-report-telemetry-disabled = Ye're nae langer lattin { -vendor-short-name } captur technical and interaction data. Aw bygane data will be dichtit within 30 days.
-collection-health-report-telemetry-disabled-link = Lairn mair
-collection-health-report =
-    .label = Allow { -brand-short-name } tae send technical and interaction data tae { -vendor-short-name }
-    .accesskey = r
-collection-health-report-link = Lairn mair
-collection-studies =
-    .label = Alloo { -brand-short-name } tae instaw and rin studies
-collection-studies-link = View { -brand-short-name } studies
-addon-recommendations =
-    .label = Alloo { -brand-short-name } tae mak personalised extension recommendations
-addon-recommendations-link = Lairn mair
-# This message is displayed above disabled data sharing options in developer builds
-# or builds with no Telemetry support available.
-collection-health-report-disabled = Data reportin is disabled fur this build confeeguration
-collection-backlogged-crash-reports-with-link = Alloo { -brand-short-name } tae send backlogged crash reports on yer behauf <a data-l10n-name="crash-reports-link">Lairn mair</a>
-    .accesskey = c
 data-collection-health-report-telemetry-disabled =
     .message = Ye're nae langer lattin { -vendor-short-name } captur technical and interaction data. Aw bygane data will be dichtit within 30 days.
 data-collection-studies-link =
@@ -1167,7 +791,6 @@ data-collection-studies-link =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Siccarness
-security-browsing-protection = Begowkin Content and Uncannie Saftware Bieldin
 security-enable-safe-browsing =
     .label = Block uncannie and begowkin content
     .accesskey = B
@@ -1181,16 +804,6 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = Certificates
-certs-enable-ocsp =
-    .label = Speir at OCSP responder servers tae mak siccar o the validity o certificates the noo
-    .accesskey = S
-certs-view =
-    .label = View Certificates…
-    .accesskey = C
-certs-devices =
-    .label = Siccarness Devices…
-    .accesskey = D
 certs-devices-enable-fips = Enable FIPS
 space-alert-over-5gb-settings-button =
     .label = Open Settins
@@ -1200,18 +813,12 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } is rinnin oot o d
 
 ## Privacy Section - HTTPS-Only
 
-httpsonly-header = HTTPS-Anely Mode
-httpsonly-description = HTTPS provides a siccar, encryptit connection atween { -brand-short-name } and the wabsites you veesit. Maist websites support HTTPS, and gin HTTPS-Anely Mode is in yaise, then { -brand-short-name } will upgrade aw connections tae HTTPS.
-httpsonly-learn-more = Lairn mair
 httpsonly-radio-enabled =
     .label = Yaise HTTPS-Anely Mode in aw windaes
 httpsonly-radio-enabled-pbm =
     .label = Yaise HTTPS-Anely Mode in private windaes, jist
-httpsonly-radio-disabled =
-    .label = Dinnae yaise HTTPS-Anely Mode
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktap
 downloads-folder-name = Doonloads
-choose-download-folder-title = Wale Doonload Folder:

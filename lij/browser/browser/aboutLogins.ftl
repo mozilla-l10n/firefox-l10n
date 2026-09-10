@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Login e Poule segrete
-about-logins-login-filter =
-    .placeholder = Çerca inti login
-    .key = F
-create-new-login-button =
-    .title = Crea neuvo login
 about-logins-page-title-name = Poule segrette
 about-logins-login-filter2 =
-    .placeholder = Çerta inte poule segrette
     .key = F
+    .placeholder = Çerta inte poule segrette
 create-login-button =
     .title = Azzonzi poula segretta
 fxaccounts-sign-in-text = Treuva torna e teu poule segrête in sci âtri dispoxitivi
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Inportâ da un atro navegatô…
 about-logins-menu-menuitem-import-from-a-file = Inpòrta da 'n schedaio…
-about-logins-menu-menuitem-export-logins = Espòrta acessi…
-about-logins-menu-menuitem-remove-all-logins = Scancella tutti i acessi
 about-logins-menu-menuitem-export-logins2 = Espòrta e poule segrette…
 about-logins-menu-menuitem-remove-all-logins2 = Scassa tutte e poule segrette…
 menu-menuitem-preferences =
@@ -42,21 +34,6 @@ about-logins-menu-menuitem-help = Agiutto
 
 login-list =
     .aria-label = Acessi corispondenti a-a riçerca
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } acesso
-       *[other] { $count } acessi
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $count } de { $total } login
-       *[other] { $count } de { $total } login
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -80,14 +57,10 @@ login-list-username-reverse-option = Nomme utente (Z-A)
 about-logins-login-list-alerts-option = Alarmi
 login-list-last-changed-option = Urtimo cangiamento
 login-list-last-used-option = Urtima vòtta
-login-list-intro-title = Nisciun acesso trovou
 login-list-intro-title2 = Nisciunn-a poula segreta sarvâ
 login-list-intro-description = E poule segrête sarvæ in { -brand-product-name } saian mostræ chi.
-about-logins-login-list-empty-search-title = Nisciun acesso trovou
 about-logins-login-list-empty-search-title2 = Nisciunn-a poula segreta trovâ
 about-logins-login-list-empty-search-description = No gh'é exiti da teu riçerca
-login-list-item-title-new-login = Nuovo login
-login-list-item-subtitle-new-login = Scrivi e teu credensiali
 login-list-item-title-new-login2 = Azzonzi poula segretta
 login-list-item-subtitle-missing-username = (nisciun nomme utente)
 about-logins-list-item-breach-icon =
@@ -103,13 +76,10 @@ about-logins-list-section-week = Urtimi 7 giorni
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Ti çerchi i teu login sarvæ? Ativa a scincronizaçion ò inportali.
-about-logins-login-intro-heading-logged-in = Nisciun bagon scincronizou trovou.
 about-logins-login-intro-heading-message = Sarvite e poule segrete inte 'n pòsto segûo
 
 ## Login
 
-login-item-new-login-title = Crea neuvo acesso
 # Header for adding a password
 about-logins-login-item-new-login-title = Azonzi poula segreta
 login-item-edit-button = Cangia
@@ -127,7 +97,6 @@ login-item-password-reveal-checkbox =
     .aria-label = Mostra poula segreta
 login-item-copy-password-button-text = Còpia
 login-item-copied-password-button-text = Copiou!
-login-item-save-changes-button = Sarva cangiamenti
 about-logins-login-item-save-changes-button = Sarva
 login-item-save-new-button = Sarva
 login-item-cancel-button = Anulla
@@ -151,18 +120,12 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = cangia l'acesso sarvou
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = mostra e poule segrete
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = còpia a poula segretta sarvâ
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = espòrta acesci e poule segrette
 
 ## Primary Password notification
 
@@ -175,8 +138,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Anulla
 confirmation-dialog-dismiss-button =
     .title = Anulla
-about-logins-confirm-remove-dialog-title = Scancelâ st'acesso?
-confirm-delete-dialog-message = St'açion a no peu ese anula.
 about-logins-confirm-remove-dialog-confirm-button = Scancella
 
 ## Variables
@@ -187,17 +148,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] Scancella
         [one] Scancella
        *[other] Scancella tutto
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] Scì, scancella st’acesso
-        [one] Scì, scancella st’acesso
-       *[other] Scì, scancella sti accessi
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] Scancella { $count } acesso?
-       *[other] Scancella tutti { $count } i acessi?
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -215,10 +165,7 @@ about-logins-confirm-remove-all-dialog-title2 =
 
 ##
 
-about-logins-confirm-export-dialog-title = Espòrta acessi e poule segrete
-about-logins-confirm-export-dialog-confirm-button = Espòrta…
 about-logins-confirm-export-dialog-confirm-button2 = Vanni avanti con l'esportaçion
-about-logins-alert-import-title = Inportaçion terminâ
 confirm-discard-changes-dialog-confirm-button = Ignòra
 
 ## Breach Alert notification
@@ -238,9 +185,6 @@ about-logins-vulnerable-alert-learn-more-link = Atre informaçioin
 
 ## Login Export Dialog
 
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = acesci.csv
 about-logins-export-file-picker-export-button = Espòrta
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -252,8 +196,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = Inpòrta file de acesso
 about-logins-import-file-picker-import-button = Inpòrta
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.

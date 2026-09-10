@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = გაფართოებას არ შეეძლება მონაცემების წაკითხვა და შეცვლა
-origin-controls-quarantined =
-    .label = გაფართოებას ეკრძალება მონაცემების წაკითხვა და შეცვლა
 origin-controls-quarantined-status =
     .label = გაფართოება ვერ გაეშვება შეზღუდულ საიტებზე
 origin-controls-quarantined-allow =

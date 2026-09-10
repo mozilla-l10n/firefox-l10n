@@ -13,4 +13,3 @@ about-reader-font-type-sans-serif = I-sans-serif
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Imo Yokufunda Esondeleyo
-about-reader-toolbar-type-controls = Izilawuli zohlobo

@@ -48,7 +48,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     Par vê une spiegazion dai diviers mûts par regjistrâ e cjatâ dâts, fâs riferiment ae
     schede <strong>Informazions sui dâts</strong>.
-about-glean-about-testing-header = Informazions su lis provis
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     Lis istruzions completis a son documentadis te
@@ -57,8 +56,6 @@ about-glean-manual-testing =
     ma, in curt, par provâ in maniere manuâl che la strumentazion e funzioni, tu varessis:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (no inviâ pings)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Jessi sigûr che, tal cjamp che al precêt, e sedi une etichete di debug facile di impensâsi, cussì di podê ricognossi i tiei pings, plui indenant.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Stabilìs une etichete di debug facile di tignî iniments <span>(massim 20 caratars, dome caratars alfanumerics e -)</span>, in mût di podê ricognossi i pings plui indevant.
 # An in-line drop down list precedes this string.
@@ -81,13 +78,6 @@ about-glean-label-for-controls-submit =
     Frache il boton par zontâ la etichete a ducj i pings { -glean-brand-name } e inviâ il ping selezionât.
     (Ducj i pings inviâts di chel moment indevant a varan la etichete <code>{ $debug-tag }</code>, al sarà cussì fin cuant che la aplicazion no vignarà inviade di gnûf.)
 about-glean-li-for-visit-gdpv = <a data-l10n-name="gdpv-tagged-pings-link">Visite la pagjine di { glean-debug-ping-viewer-brand-name } par viodi i pings cu la tô etichete</a>. Nol varès di puartâ vie plui di cualchi secont tra la pression dal boton e la ricezion dai pings, ma in cualchi câs al podarès coventâ cualchi minût.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    Par fâ provis plui <i>specifichis</i>,
-    tu puedis determinâ il valôr atuâl di un specific element de strumentazion
-    vierzint la console dai struments di svilup achì su <code>about:glean</code>
-    e doprant la API <code>testGetValue()</code> come par esempli
-    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     Par fâ provis plui smiradis,
@@ -191,9 +181,6 @@ about-glean-no-data-to-display = Nissun dât di visualizâ.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Lis metrichis <code>DualLabeledCounter</code> no son supuartadis te viodude <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Gjenar di metriche no cognossût.
-about-glean-about-data-explanation =
-    Par sgarfâ te liste dai dâts racuelts, consulte il
-    <a data-l10n-name="glean-dictionary-link">Dizionari di { -glean-brand-name }</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

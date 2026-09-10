@@ -45,13 +45,10 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     Para uma explicação das diferentes formas de gravar e encontrar dados, consulte a aba
     <strong>Informações sobre dados</strong>.
-about-glean-about-testing-header = Informações sobre testes
 # This message is followed by a numbered list.
 about-glean-manual-testing = Instruções completas estão documentadas na <a data-l10n-name="fog-instrumentation-test-doc-link">documentação de testes de instrumentação do { -fog-brand-name }</a> e na <a data-l10n-name="glean-sdk-doc-link">documentação do { glean-sdk-brand-name }</a>, mas, resumindo, para testar manualmente se sua instrumentação funciona, você deve:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (não enviar nenhum ping)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = No campo anterior, certifique-se de que haja uma tag de debug que você lembre para poder reconhecer seus pings mais tarde.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Defina um tag de depuração fácil de lembrar <span>(20 caracteres ou menos, somente letras, números e -)</span> para poder reconhecer seus pings mais tarde.
 # An in-line drop down list precedes this string.
@@ -66,8 +63,6 @@ about-glean-label-for-controls-submit =
     Pressione o botão anterior para marcar todos os pings do { -glean-brand-name } com sua tag e envie o ping selecionado (todos os pings enviados até você reiniciar o aplicativo serão marcados com
     <code>{ $debug-tag }</code>).
 about-glean-li-for-visit-gdpv = <a data-l10n-name="gdpv-tagged-pings-link">Visite a página { glean-debug-ping-viewer-brand-name } para ver pings com sua tag</a>. Não deve demorar mais do que alguns segundos desde apertar o botão até o seu ping chegar. Às vezes, pode levar alguns minutos.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation = Para testes mais específicos, você também pode determinar o valor atual de um elemento de instrumentação, abrindo um console do devtools aqui em <code>about:glean</code> e usando a API <code>testGetValue()</code> como <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 = Para testes mais específicos, você também pode determinar o valor atual de um elemento de instrumentação, abrindo um console do devtools aqui em <code>about:glean</code> e usando a API <code>testGetValue()</code> como <code>Glean.metricCategory.metricName.testGetValue()</code> de uma métrica de nome <code>metric.category.metric_name</code>.
 # Do not translate strings between <code> </code> tags.
@@ -150,9 +145,6 @@ about-glean-no-data-to-display = Nenhum dado a ser exibido.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Ainda não há suporte para métricas <code>DualLabeledCounter</code> na exibição <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Tipo de métrica desconhecido.
-about-glean-about-data-explanation =
-    Para ver a lista de dados coletados, consulte o
-    <a data-l10n-name="glean-dictionary-link">dicionário do { -glean-brand-name }</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

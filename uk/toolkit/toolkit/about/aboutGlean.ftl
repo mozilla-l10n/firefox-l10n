@@ -52,7 +52,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     Щоб отримати пояснення щодо різних способів запису та пошуку даних, перегляньте
     вкладку <strong>Про дані</strong>.
-about-glean-about-testing-header = Про тестування
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     Повні інструкції викладено в
@@ -61,8 +60,6 @@ about-glean-manual-testing =
     але, простіше кажучи, для ручного тестування роботи вашого інструментарію, виконайте такі дії:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (не надсилати жодного пінгу)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Переконайтеся, що в попередньому полі є мітка налагодження, яку легко запам'ятати, щоб згодом ви могли розпізнавати ваші пінги.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Встановіть мітку налагодження, яку легко запам'ятати <span>(щонайбільше 20 символів, лише літери, цифри та дефіси "-"),</span> щоб згодом ви могли розпізнати свої пінги.
 # An in-line drop down list precedes this string.
@@ -89,13 +86,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Відвідайте сторінку { glean-debug-ping-viewer-brand-name }, щоб побачити пінги з вашою міткою</a>.
     Після натискання кнопки має пройти не більш ніж кілька секунд до отримання ваших пінгів.
     Іноді це може тривати декілька хвилин.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    Для додаткового тестування <i>ad hoc</i>
-    ви також можете вказати поточне значення конкретної частини інструментарію,
-    відкривши консоль інструментів розробника <code>about:glean</code>
-    та скориставшись <code>testGetValue()</code> API, наприклад,
-    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     Для додаткового тестування <i>ad hoc</i>
@@ -200,9 +190,6 @@ about-glean-no-data-to-display = Немає даних для показу.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Показники <code>DualLabeledCounter</code> ще не підтримуються у поданні <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Невідомий тип показника.
-about-glean-about-data-explanation =
-    Щоб переглянути список зібраних даних, зверніться до
-    <a data-l10n-name="glean-dictionary-link">Словника { -glean-brand-name }</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

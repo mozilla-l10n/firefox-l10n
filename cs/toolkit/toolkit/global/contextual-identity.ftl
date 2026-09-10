@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Žádný kontejner
-    .accesskey = d
 user-context-manage-containers =
     .label = Správa kontejnerů
     .accesskey = k

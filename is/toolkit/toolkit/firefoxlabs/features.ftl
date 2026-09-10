@@ -16,9 +16,6 @@ experimental-features-group-webpage-display =
     .label = Birting vefsíðna
 experimental-features-group-customize-browsing =
     .label = Sérsníddu vafrið þitt
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Lykilorð í hliðarstikunni
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Veldu sérsniðinn bakgrunn eða lit fyrir nýjan flipa

@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Есептеме жіберілді. Рахмет!
-confirmation-hint-login-removed = Логин өшірілді!
 confirmation-hint-password-removed = Пароль өшірілді!
 confirmation-hint-page-bookmarked = Бетбелгілерге сақталды
-confirmation-hint-password-saved = Пароль сақталды!
 confirmation-hint-password-created = Пароль сақталды
 confirmation-hint-password-updated = Пароль жаңартылды
 confirmation-hint-address-created = Адрес сақталды

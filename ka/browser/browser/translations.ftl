@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = გვერდის თარგმნა
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = ითარგმნება
 translations-panel-settings-button =
     .aria-label = თარგმნის პარამეტრების გამართვა
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = ენების მართვა
-translations-panel-settings-about = { -brand-shorter-name }-თარგმანის შესახებ
 translations-panel-settings-about2 =
     .label = { -brand-shorter-name }-თარგმანის შესახებ
 # Text displayed for the option to always translate a given language
@@ -91,14 +82,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = სამწუხაროდ, თარგმნისას ჯერჯერობით მხარდაუჭერელია { $language }.
 translations-panel-error-unsupported-hint-unknown-2 = სამწუხაროდ, თარგმნისას ჯერჯერობით მხარდაუჭერელია ეს ენა.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = სამწუხაროდ, ჯერ არაა მხარდაჭერილი { $language }.
-translations-panel-error-unsupported-hint-unknown = სამწუხაროდ, ჯერ არაა მხარდაჭერილი ეს ენა.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -130,10 +113,6 @@ translations-manage-header = თარგმანები
 translations-manage-settings-button =
     .label = პარამეტრები…
     .accesskey = ტ
-translations-manage-description = ენები ჩამოტვირთვა კავშირგარეშე თარგმნისთვის.
-translations-manage-all-language = ყველა ენა
-translations-manage-download-button = ჩამოტვირთვა
-translations-manage-delete-button = წაშლა
 translations-manage-intro-2 = მიუთითეთ თქვენი ენისა და საიტის თარგმნის პარამეტრები და მართეთ კავშირგარეშე თარგმნისთვის ჩამოტვირთული ენები.
 translations-manage-download-description = ენები ჩამოტვირთვა კავშირგარეშე თარგმნისთვის.
 translations-manage-language-download-button =
@@ -147,12 +126,11 @@ translations-manage-language-remove-all-button =
     .label = ყველას მოცილება
     .accesskey = ც
 translations-manage-error-download = ხარვეზი წარმოიშვა ენის ფაილების ჩამოტვირთვისას. გთხოვთ სცადოთ მოგვიანებით.
-translations-manage-error-delete = ხარვეზი წარმოიშვა ენის ფაილების წაშლისას. გთხოვთ სცადოთ მოგვიანებით.
 translations-manage-error-remove = ხარვეზი წარმოიშვა ენის ფაილების მოცილებისას. გთხოვთ სცადოთ მოგვიანებით.
 translations-manage-error-list = ვერ მოხერხდა თარგმნისთვის ხელმისაწვდომი ენების მოძიება. ახლიდან გახსენით გვერდი და კვლავ სცადეთ.
 translations-settings-title =
-    .title = თარგმნის პარამეტრები
     .style = min-width: 36em
+    .title = თარგმნის პარამეტრები
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = თავისთავად გადაითარგმნება მოცემული ენებიდან
@@ -246,16 +224,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = სამწუხაროდ, თარგმნისას ჯერჯერობით მხარდაუჭერელია { $language }.
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = სამწუხაროდ, თარგმნისას ჯერჯერობით მხარდაუჭერელია ეს ენა.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = სამწუხაროდ, ჯერ არაა მხარდაჭერილი { $language }.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = სამწუხაროდ, ჯერ არაა მხარდაჭერილი ეს ენა.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = თარგმნის პარამეტრები

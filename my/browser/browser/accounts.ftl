@@ -16,20 +16,9 @@ account-verify = { $email } ကို အတည်ပြုရန်
 account-send-to-all-devices-titlecase = ကိရိယာများအားလုံးသို့ ပို့ပါ
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = မည်သည့်ကိရိယာမျှ မချိတ်ဆက်ထားပါ
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = တပ်ဗ်များပေးပို့ခြင်းကို လေ့လာရန်…
-# Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = အခြားကိရိယာကို ချိတ်ဆက်ရန်…
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = အတည်မပြုရသေးသော အကောင့်
-account-send-tab-to-device-verify = အကောင့်ကို အတည်ပြုပါ…
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.

@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = E mod FIPS emaoc’h bremañ. Azgoulenn a 
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Adderaouekaat ar ger-tremen pennañ
     .style = min-width: 40em
+    .title = Adderaouekaat ar ger-tremen pennañ
 reset-password-button-label =
     .label = Adderaouekaat
 reset-primary-password-text = Mar adderaouekait ho ker-tremen pennañ e vo ankouaet ho kerioù-tremen evit internet, ho posteloù, ho testenioù personel hag hoc’h alc’hwezioù prevez. Fellout a ra deoc’h dilemel ho ker-tremen pennañ?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Diweredekaet eo bet ho ker-tremen p
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = O pellgargañ an testeni
     .style = min-width: 46em
+    .title = O pellgargañ an testeni
 download-cert-message = Goulennet ez eus bet diganeoc'h kaout fiziañs en un aotrouniezh testeniañ nevez.
 download-cert-trust-ssl =
     .label = Kaout fiziañ en aotrouniezh testeniañ-mañ evit anaout al lec'hiennoù web.
@@ -52,8 +52,6 @@ download-cert-view-text = Sellout ouzh testeni an aotrouniezh testeniañ
 
 client-auth-window =
     .title = Azgoulenn anaoudadur an arveriad
-client-auth-site-description = Azgoulennet eo bet gant al lec'hienn-mañ e vefec'h hennadet gant un testeni:
-client-auth-choose-cert = Dibabit un testeni evit kinnig evel anaoudadur:
 client-auth-cert-details = Munudoù an testeni bet diuzet:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

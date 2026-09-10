@@ -37,7 +37,6 @@ sidebar-history-clear =
     .label = روفتن ویرگار
 sidebar-history-sort-by-heading-menucaption =
     .label = ترتیب و ری:
-sidebar-history-sort-by-heading = ترتیب و ری:
 sidebar-history-sort-option-date =
     .label = تاریخ
 sidebar-history-sort-option-site =
@@ -55,14 +54,9 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = وردنی یل نوار کلی
-sidebar-customize-firefox-tools-header =
-    .label = ٱوزارا { -brand-product-name }
 sidebar-customize-firefox-settings = دؽوۉداری { -brand-short-name } سامووا
 sidebar-settings2 =
     .label = سامووا
-sidebar-settings =
-    .label = سامووا نوار کلی
 sidebar-customize-extensions-header2 = وردنی یل
 sidebar-customize-firefox-tools-header2 =
     .label = ٱوزارا
@@ -71,8 +65,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = دؽوۉداری وردنی
-sidebar-context-menu-remove-extension =
-    .label = پاک کردن وردنی
 sidebar-context-menu-report-extension =
     .label = گوزارش وردنی
 sidebar-context-menu-open-in-tab =

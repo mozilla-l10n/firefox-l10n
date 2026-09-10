@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Chwilio Cyfrineiriau
-    .key = F
     .aria-label = Chwilio Cyfrineiriau
+    .key = F
+    .placeholder = Chwilio Cyfrineiriau
 contextual-manager-menu-more-options-button =
     .title = Rhagor o ddewisiadau
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Mewnforio o Ffeil…
 contextual-manager-passwords-command-export = Allforio cyfrineiriau
 contextual-manager-passwords-command-remove-all = Tynnu pob cyfrinair
 contextual-manager-passwords-command-options = Dewisiadau
-contextual-manager-passwords-command-settings = Gosodiadau
 contextual-manager-passwords-command-help = Cymorth
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Cyfrineiriau wedi'u mewnforio
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Newydd: { $added }, Diweddarwyd: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -243,8 +238,6 @@ contextual-manager-passwords-create-label =
     .label = Ychwanegu cyfrinair
 contextual-manager-passwords-update-label =
     .label = Diweddaru cyfrinair
-contextual-manager-passwords-edit-label =
-    .label = Golygu cyfrinair
 contextual-manager-passwords-remove-label =
     .title = Tynnu'r cyfrinair
 contextual-manager-passwords-origin-field =
@@ -260,7 +253,6 @@ contextual-manager-passwords-password-field-description = Rhowch y cyfrinair i f
 contextual-manager-passwords-origin-tooltip = Rhowch yr union gyfeiriad lle byddwch yn mewngofnodi i'r wefan hon.
 contextual-manager-passwords-username-tooltip = Rhowch yr enw defnyddiwr, cyfeiriad e-bost, neu rif cyfrif rydych chi'n ei ddefnyddio i fewngofnodi.
 contextual-manager-passwords-password-tooltip-2 = Rhowch y cyfrinair i fewngofnodi i'r cyfrif hwn.
-contextual-manager-passwords-password-tooltip = Rhowch y cyfrinair a ddefnyddiwyd i fewngofnodi i'r cyfrif hwn.
 
 ## Password Card
 
@@ -307,10 +299,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Copïo Cyfrinair (Rhybudd)
 contextual-manager-edit-login-button = Golygu
     .tooltiptext = Golygu'r Cyfrinair
-contextual-manager-view-alert-heading =
-    .heading = Gweld y rhybudd
-contextual-manager-view-alert-button =
-    .tooltiptext = Darllen y rhybudd
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -347,13 +335,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Heb ganfod cyfrineiriau
 contextual-manager-passwords-no-passwords-found-message-2 = Rhowch gynnig ar derm gwahanol a chwiliwch eto.
-contextual-manager-passwords-no-passwords-found-message = Heb ganfod cyfrineiriau. Chwiliwch am derm gwahanol a cheisio eto.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Cadwch eich cyfrineiriau mewn man diogel.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Mae'r holl gyfrineiriau wedi'u hamgryptio a byddwn yn cadw llygad am dor-data a rhybuddion os yw hyn yn effeithio arnoch chi.

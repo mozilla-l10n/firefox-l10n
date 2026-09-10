@@ -126,15 +126,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-email =
     .label = Imeel Wideyo…
     .accesskey = e
-main-context-menu-send-to-device =
-    .label = Yónnee Xët wi ab jumtukaay
-    .accesskey = D
 
 ##
 
-main-context-menu-keyword =
-    .label = Yokk benn caabi baat ci wut bii…
-    .accesskey = Y
 main-context-menu-link-send-to-device =
     .label = Yónnee Lëkkalekaay bi ab jumtukaay
     .accesskey = D

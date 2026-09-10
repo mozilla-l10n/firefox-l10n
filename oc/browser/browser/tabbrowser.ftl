@@ -8,11 +8,6 @@ tabbrowser-menuitem-close-tab =
     .label = Tampar l'onglet
 tabbrowser-menuitem-close =
     .label = Tampar
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -20,14 +15,6 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [one] Tampar l’onglet
-           *[other] Tampar { $tabCount } onglets
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [one] Tampar l’onglet
            *[other] Tampar { $tabCount } onglets
@@ -81,7 +68,6 @@ tabbrowser-unblock-tab-audio-tooltip =
 tabbrowser-confirm-close-tabs-title = Tampar { $tabCount } onglets ?
 tabbrowser-confirm-close-tabs-button = Tampar los onglets
 tabbrowser-ask-close-tabs-checkbox = Demandar abans de tampar mantun onglet
-tabbrowser-confirm-close-tabs-checkbox = Confirmar abans la tampadura de mantun onglet
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -104,9 +90,6 @@ tabbrowser-confirm-close-tabs-with-key-button = Quitar { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-ask-close-tabs-with-key-checkbox = Demandar abans de quitar amb { $quitKey }
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = Confirmar abans de quitar amb { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 

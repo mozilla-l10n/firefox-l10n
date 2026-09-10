@@ -188,8 +188,6 @@ options-disable-http-cache-tooltip =
     .title = Η ενεργοποίηση αυτής της επιλογής θα απενεργοποιήσει την κρυφή μνήμη HTTP για όλες τις καρτέλες που έχουν ανοικτή την εργαλειοθήκη. Τα service worker δεν επηρεάζονται από αυτήν την επιλογή.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label-2 = Απενεργοποίηση JavaScript
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Απενεργοποίηση JavaScript *
 options-disable-javascript-tooltip =
     .title = Η ενεργοποίηση αυτής της επιλογής θα απενεργοποιήσει το JavaScript για την τρέχουσα καρτέλα. Αν η καρτέλα ή η εργαλειοθήκη είναι κλειστή, τότε αυτή η ρύθμιση θα ξεχαστεί.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -219,8 +217,6 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = (μόνο στην τρέχουσα συνεδρία, ανανεώνει τη σελίδα)
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Τρέχουσα συνεδρία μόνο, επαναφορτώνει τη σελίδα
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (ανανεώνει τη σελίδα)

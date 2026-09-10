@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = Ik bin op side ‘{ $tabTitle }’ mei ‘{ $sel
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = AI-chatbot freegje
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = { $provider } freegje
 genai-menu-open-generic =
     .label = AI-chatbot iepenje
 # $provider (string) - name of the provider
@@ -118,8 +113,6 @@ genai-header-provider-menu =
     .title = Kies in chatbot
 genai-header-settings-button =
     .title = AI-chatynstellingen
-genai-header-options-button =
-    .title = Menu iepenje
 genai-header-close-button =
     .title = Slute
 genai-provider-view-details =
@@ -147,37 +140,25 @@ genai-page-button-summarize = Side gearfetsje
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Gearfetsje, brainstoarmje, en mear wylst jo sneupe
 genai-onboarding-choose-header = Kies in AI-chatbot om te brûken yn de { -brand-short-name }-sydbalke
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Kies in AI-chatbot om te brûken yn de { -brand-short-name }-sidebalke. Wy toane details oer elke chatbot as jo dizze selektearje. Wikselje op elk winske momint. <a data-l10n-name="learn-more">Mear ynfo</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Wikselje op elk winske momint. Lês foar help by it kiezen <a data-l10n-name="learn-more">mear oer elke chatbot</a>.
 genai-onboarding-primary = Trochgean
 genai-onboarding-secondary = Slute
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Mear ynfo oer Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Mear ynfo oer ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Mear ynfo oer Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Mear ynfo oer Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = Mear ynfo oer HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Mear ynfo oer Le Chat
-genai-onboarding-select-header = Selektearje tekst om suggestjes te sjen
-genai-onboarding-select-description = As jo tekst selektearje, sille wy fragen foarstelle dy’t jo nei de chatbot stjoere kinne. Jo kinne ek jo eigen fragen stelle.
-genai-onboarding-select-primary = Begjinne mei chatte
 genai-chatbot-contextual-title = Brûk in AI-chatbot sûnder fan ljepblêd te wikseljen
 genai-chatbot-contextual-subtitle = Chat en sneup njonken inoar as jo in AI-chatbot tafoegje yn de sydbalke fan { -brand-short-name }.
 genai-chatbot-contextual-button = Kies in chatbot
@@ -190,27 +171,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = Klik mei de rjochtermûsknop 
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Iepenje jo AI-chatbot yn de sydbalke en kies ûnderoan ‘Side gearfetsje’.
 genai-chatbot-summarize-footer-generic-subtitle = Foegje in AI-chatbot ta oan de  { -brand-short-name }-sydbalke om fluch siden gear te fetsjen.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Tekst en koade generearje
-genai-onboarding-claude-analyze = Dokuminten en ôfbyldingen analysearje
-genai-onboarding-claude-price = Fergeze en betelle opsjes; account nedich
-genai-onboarding-chatgpt-generate = Tekst, ôfbyldingen en koade generearje
-genai-onboarding-chatgpt-analyze = Dokuminten en ôfbyldingen analysearje
-genai-onboarding-chatgpt-price = Fergeze en betelle opsjes; account nedich foar guon lannen en taken
-genai-onboarding-copilot-generate = Tekst, ôfbyldingen en koade generearje
-genai-onboarding-copilot-analyze = Ofbyldingen analysearje
-genai-onboarding-copilot-price = Fergeze en betelle opsjes; account nedich foar guon taken
-genai-onboarding-gemini-generate = Tekst, ôfbyldingen en koade generearje
-genai-onboarding-gemini-analyze = Ofbyldingen (fergees) en dokuminten (betelle) analysearje
-genai-onboarding-gemini-price = Fergeze en betelle opsjes; account nedich
-genai-onboarding-huggingchat-generate = Tekst en koade generearje
-genai-onboarding-huggingchat-switch = Skeakelje tusken in ferskaat oan iepen modellen
-genai-onboarding-huggingchat-price-2 = Fergees; account nedich nei in bepaald oantal oanfragen
-genai-onboarding-lechat-generate = Tekst en koade generearje
-genai-onboarding-lechat-price = Fergees; account nedich
 
 ## Model Optin Component
 
@@ -249,8 +209,8 @@ link-preview-generation-retry = Opnij probearje
 link-preview-settings-button =
     .title = Ynstellingen foar keppelingsfoarbyld
 link-preview-settings-enable =
-    .label = Keppelingsfoarbylden ynskeakelje
     .description = De sidetitel, beskriuwing en mear besjen, as jo de fluchkeppeling brûke of mei jo rjochtermûsknop op in keppeling klikke.
+    .label = Keppelingsfoarbylden ynskeakelje
 link-preview-settings-key-points =
     .label = AI tastean om it begjin fan de side te lêzen en haadpunten oan te meitsjen
 link-preview-settings-long-press =

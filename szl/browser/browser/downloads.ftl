@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Pokoż we Finderze
            *[other] Pokoż w katalogu
         }
-downloads-cmd-show-downloads =
-    .label = Pokoż katalog z pobranymi zbiorami
 downloads-cmd-retry =
     .tooltiptext = Sprōbuj zaś
 downloads-cmd-retry-panel =

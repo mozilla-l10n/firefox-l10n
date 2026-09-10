@@ -48,7 +48,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = 데이터 디코더 ({ $pid })
 about-processes-socket-process = 네트워크 ({ $pid })
-about-processes-remote-sandbox-broker-process = 원격 샌드박스 브로커 ({ $pid })
 about-processes-fork-server-process = 포크 서버 ({ $pid })
 about-processes-preallocated-process = 사전 할당 ({ $pid })
 about-processes-utility-process = 유틸리티 ({ $pid })
@@ -72,17 +71,6 @@ about-processes-web-isolated-property-with-coop-coep = 교차 출처 격리됨
 ##    $properties (String) A formatted list of properties from the above strings.
 
 about-processes-web-isolated-process2 = { $origin } ({ $properties })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, 교차 출처 격리됨)
-about-processes-web-isolated-process-private = { $origin } — 사생활 보호 ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } — 사생활 보호 ({ $pid }, 교차 출처 격리됨)
 
 ## Details within processes
 

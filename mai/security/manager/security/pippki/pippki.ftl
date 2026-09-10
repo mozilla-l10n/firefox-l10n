@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = प्रमाणपत्र डाउनलोड कए रहल  अछि
     .style = min-width: 46em
+    .title = प्रमाणपत्र डाउनलोड कए रहल  अछि
 download-cert-message = आपको एकटाटा नव सर्टिफिकेट आथोरिटी (CA) पर विश्वास  कलेल  पूछा जएताह.
 download-cert-trust-ssl =
     .label = ई CA केँ भरोसा करू वेबसाइट केँ पहचानने  कलेल .
@@ -37,8 +37,6 @@ download-cert-view-text = CA प्रमाणपत्र जाँचू
 
 client-auth-window =
     .title = प्रयोक्ता पहचान आग्रह
-client-auth-site-description = ई साइट ने आपसे एकटाटा प्रमाणपत्र सँ अपने केँ पहचानने क आग्रह कएल  अछि :
-client-auth-choose-cert = एकटाटा पहचान क रूपेँ एकटाटा प्रमाणपत्र  कलेल  चुनू:
 
 ## Set password (p12) dialog
 

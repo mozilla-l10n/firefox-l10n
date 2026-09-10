@@ -135,9 +135,6 @@ main-context-menu-video-email =
 
 ##
 
-main-context-menu-keyword =
-    .label = Ongeza Neno Msingi la Tafutizo hili…
-    .accesskey = N
 main-context-menu-frame =
     .label = Fremu Hii
     .accesskey = m

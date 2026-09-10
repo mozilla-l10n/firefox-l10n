@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Zobrazenie nedávneho prehliadania v oknách a zariadeniach
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Zavrieť
-    .aria-label = Zavrieť
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = práve teraz
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Vyzdvihnutie karty
-firefoxview-tabpickup-description = Otvorte si stránky z iných zariadení.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = Dokončené na { $percentValue } %
-firefoxview-tabpickup-step-signin-header = Plynule prepínajte medzi zariadeniami
-firefoxview-tabpickup-step-signin-description = Ak chcete získať karty z telefónu, najprv sa prihláste alebo si vytvorte účet.
-firefoxview-tabpickup-step-signin-primarybutton = Pokračovať
 firefoxview-syncedtabs-signin-header-2 = Váš { -brand-product-name } na všetkých vašich zariadeniach
 firefoxview-syncedtabs-signin-description-2 = Ak chcete zobraziť karty, ktoré máte otvorené v telefóne a iných zariadeniach, prihláste sa alebo si vytvorte účet. Pomocou účtu môžete tiež synchronizovať svoje heslá, históriu a ďalšie.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Z notebooku do telefónu, bezproblémovo
 firefoxview-syncedtabs-signin-description-3 = Udržujte si prehliadanie prepojené naprieč zariadeniami – karty, heslá a história, všetko synchronizované.
 firefoxview-syncedtabs-signin-primarybutton-2 = Prihlásiť sa
-firefoxview-tabpickup-adddevice-header = Synchronizujte { -brand-product-name } na svojom telefóne alebo tablete
-firefoxview-tabpickup-adddevice-description = Stiahnite si { -brand-product-name } pre mobilné zariadenie a prihláste sa tam.
-firefoxview-tabpickup-adddevice-learn-how = Ďalšie informácie
-firefoxview-tabpickup-adddevice-primarybutton = Získať { -brand-product-name } pre mobilné zariadenie
 firefoxview-syncedtabs-adddevice-header-2 = Vezmite si karty odkiaľkoľvek
 firefoxview-syncedtabs-adddevice-description-2 = Prihláste sa do { -brand-product-name(case: "gen") } na svojom telefóne alebo inom počítači, aby ste tu mohli vidieť karty. Pozrite sa, ako <a data-l10n-name="url">pripojiť ďalšie zariadenia</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Vyskúšajte { -brand-product-name } pre mobilné zariadenia
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Volajú tvoje karty. Sú v tvojom telefóne.
 firefoxview-syncedtabs-adddevice-description-3 = Naskenujte QR kód, získajte { -brand-product-name(case: "acc") } pre mobilné zariadenia a môžete synchronizovať otvorené karty a ďalšie položky. Pozrite sa, ako môžete <a data-l10n-name="url">pripojiť ďalšie zariadenia</a>.
-firefoxview-tabpickup-synctabs-header = Zapnite synchronizáciu kariet
-firefoxview-tabpickup-synctabs-description = Povoľte { -brand-short-name(case: "dat") } zdieľať karty medzi zariadeniami.
-firefoxview-tabpickup-synctabs-learn-how = Ďalšie informácie
 firefoxview-tabpickup-synctabs-primarybutton = Zapnúť synchronizáciu kariet
 firefoxview-tabpickup-synctabs-primarybutton-2 = Zapnúť synchronizáciu kariet
 firefoxview-syncedtabs-synctabs-header = Aktualizujte nastavenia synchronizácie
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Po dokončení uvidíte všetky kar
 firefoxview-syncedtabs-loading-header-2 = Načítavajú sa vaše karty…
 firefoxview-syncedtabs-loading-description-2 = Prebieha synchronizácia. Karty tu budú čoskoro.
 firefoxview-tabpickup-fxa-admin-disabled-header = Vaša organizácia zakázala synchronizáciu
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nemôže synchronizovať karty medzi zariadeniami, pretože váš správca zakázal synchronizáciu.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } nemôže synchronizovať karty medzi zariadeniami, pretože vaša organizácia zakázala synchronizáciu.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Synchronizácia kariet je vypnutá
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Vaša organizácia túto funkciu zablokovala.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Odomknite karty pomocou svojho hlavného hesla
 firefoxview-tabpickup-password-locked-description-2 = Z dôvodu ochrany vášho súkromia sú synchronizované karty chránené. Zadajte svoje hlavné heslo do { -brand-short-name(case: "gen") } a zobrazte si karty z ostatných zariadení.
 firefoxview-tabpickup-signed-out-header = Pre opätovné pripojenie sa prihláste
-firefoxview-tabpickup-signed-out-description = Ak sa chcete znova pripojiť a prevziať svoje karty, prihláste sa do svojho { -fxaccount-brand-name(case: "gen", capitalization: "lower") }.
 firefoxview-tabpickup-signed-out-description2 = Ak sa chcete znova pripojiť a získať svoje karty, prihláste sa do svojho účtu.
 firefoxview-tabpickup-signed-out-primarybutton = Prihlásiť sa
 firefoxview-tabpickup-signed-out-header-2 = Prihláste sa a zobrazte si karty
 firefoxview-tabpickup-signed-out-description-2 = Ak chcete zobraziť karty z iných zariadení, znova sa pripojte.
-firefoxview-tabpickup-syncing = Posaďte sa, kým sa vaše karty synchronizujú. Bude to len chvíľa.
-firefoxview-mobile-promo-header = Získajte karty z telefónu alebo tabletu
-firefoxview-mobile-promo-description = Ak chcete zobraziť svoje najnovšie karty z mobilného zariadenia, prihláste sa do { -brand-product-name(case: "gen") } v systéme iOS alebo Android.
-firefoxview-mobile-promo-primarybutton = Získať { -brand-product-name } pre mobilné zariadenie
-firefoxview-mobile-confirmation-header = 🎉 Výborne!
-firefoxview-mobile-confirmation-description = Teraz si môžete vziať karty z { -brand-product-name(case: "gen") } v tablete alebo telefóne.
-firefoxview-closed-tabs-title = Nedávno zatvorené
-firefoxview-closed-tabs-description2 = V tomto okne znova otvorte stránky, ktoré ste zatvorili.
-firefoxview-closed-tabs-placeholder-header = Žiadne nedávno zatvorené karty
-firefoxview-closed-tabs-placeholder-body = Keď zatvoríte kartu v tomto okne, môžete ju opätovne získať tu.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Odstrániť { $tabTitle } zo zoznamu
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Naposledy prezerané
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Otvoriť { $targetURI } na novej karte
-firefoxview-try-colorways-button = Vyskúšajte farebné témy
-firefoxview-change-colorway-button = Zmeniť farebnú tému
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Zatiaľ tu nič nie je
-firefoxview-synced-tabs-placeholder-body = Keď nabudúce otvoríte stránku vo { -brand-product-name(case: "loc") } na inom zariadení, ako zázrakom ju nájdete aj tu.
 firefoxview-collapse-button-show =
     .title = Zobraziť zoznam
 firefoxview-collapse-button-hide =

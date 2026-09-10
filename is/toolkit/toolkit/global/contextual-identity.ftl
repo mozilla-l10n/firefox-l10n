@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Ekkert sérefni
-    .accesskey = n
 user-context-manage-containers =
     .label = Stjórna sérefnisfllipum
     .accesskey = f

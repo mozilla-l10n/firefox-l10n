@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = Som na boku “{ $tabTitle }” ze slědujucym t
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = AI chatbot se pšašaś
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = { $provider } se pšašaś
 genai-menu-open-generic =
     .label = Chatbot KI wócyniś
 # $provider (string) - name of the provider
@@ -124,8 +119,6 @@ genai-header-provider-menu =
     .title = Wubjeŕśo chatbot
 genai-header-settings-button =
     .title = Nastajenja KI Chat
-genai-header-options-button =
-    .title = Meni wócyniś
 genai-header-close-button =
     .title = Zacyniś
 genai-provider-view-details =
@@ -153,37 +146,25 @@ genai-page-button-summarize = Bok zespominaś
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Zespominaś, namakanje idejow a wěcej, gaž pśeglědujośo
 genai-onboarding-choose-header = Wubjeŕśo chatbot KI, kótaryž se ma w bocnicy { -brand-short-name } wužywaś
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Wubjeŕśo chatowy bot, aby jen w bocnicy { -brand-short-name } wužywał. Pokažomy drobnostki wó kuždem chatowem bośe, gaž jen wuběraśo. Móžośo jen kuždy cas změniś. <a data-l10n-name="learn-more">Dalšne informacije</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Změńśo kuždy cas. <a data-l10n-name="learn-more">Zgóńśo wěcej wó kuždem chatbośe</a> za pomoc.
 genai-onboarding-primary = Dalej
 genai-onboarding-secondary = Zacyniś
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Zgóńśo wěcej wó Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Zgóńśo wěcej wó ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Zgóńśo wěcej wó Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Zgóńśo wěcej wó Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = Zgóńśo wěcej wó HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Zgóńśo wěcej wó Le Chat
-genai-onboarding-select-header = Wubjeŕśo tekst, aby naraźenja wiźeł
-genai-onboarding-select-description = Gaž tekst wuběraśo, naraźujomy wam naspominanja, kótarež móžośo na chatowy bot pósłaś. Móžośo teke do swójskich naspominanjow pisaś.
-genai-onboarding-select-primary = Chattowaś zachopiś
 genai-chatbot-contextual-title = Wužywajśo chatbot KI bźez togo, aby rejtariki pśešaltował
 genai-chatbot-contextual-subtitle = Chattujśo a pśeglědujśo bok pó boku, gaž chatbox KI w bocnicy { -brand-short-name } pśidawaśo.
 genai-chatbot-contextual-button = Wubjeŕśo chatbot
@@ -196,27 +177,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = Klikniśo z pšaweju tastu na
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Wócyńśo swój chatbot KI w bocnicy a wubjeŕśo dołojce „Bok zespominaś“.
 genai-chatbot-summarize-footer-generic-subtitle = Pśidajśo bocnicy { -brand-short-name } chatbot KI, aby malsnje boki zespominał.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Tekst a kod generěrowaś
-genai-onboarding-claude-analyze = Dokumenty a wobraze analyzěrowaś
-genai-onboarding-claude-price = Dermotne a płaśobne móžnosći; konto jo trjebne
-genai-onboarding-chatgpt-generate = Tekst, wobraze a kod generěrowaś
-genai-onboarding-chatgpt-analyze = Dokumenty a wobraze analyzěrowaś
-genai-onboarding-chatgpt-price = Dermotne a płaśobne móžnosći; konto jo trjebne za někotare kraje a nadawki
-genai-onboarding-copilot-generate = Tekst, wobraze a kod generěrowaś
-genai-onboarding-copilot-analyze = Wobraze analyzěrowaś
-genai-onboarding-copilot-price = Dermotne a płaśobne móžnosći; konto jo trjebne za někotare nadawki
-genai-onboarding-gemini-generate = Tekst, wobraze a kod generěrowaś
-genai-onboarding-gemini-analyze = Wobraze analyzěrowaś (dermotny) a dokumenty analyzěrowaś (płaśobny)
-genai-onboarding-gemini-price = Dermotne a płaśobne móžnosći; konto jo trjebne
-genai-onboarding-huggingchat-generate = Tekst a kod generěrowaś
-genai-onboarding-huggingchat-switch = Pśešaltujśo mjazy rozdźělneju sajźbu wótwórjonych modelow
-genai-onboarding-huggingchat-price-2 = Dermotny; konto trjebne pó wěstej licbje napšašowanjow
-genai-onboarding-lechat-generate = Tekst a kod generěrowaś
-genai-onboarding-lechat-price = Dermotny; konto jo trjebne
 
 ## Model Optin Component
 
@@ -257,8 +217,8 @@ link-preview-generation-retry = Hyšći raz wopytaś
 link-preview-settings-button =
     .title = Nastajenja pśeglěda wótkaza
 link-preview-settings-enable =
-    .label = Pśeglědy wótkazow zmóžniś
     .description = Pokažćo titel boka, wopisanje a wěcej, gaž zwězanje wužywaśo abo na wótkaz klikaśo.
+    .label = Pśeglědy wótkazow zmóžniś
 link-preview-settings-key-points =
     .label = KI dowóliś, zachopjeńk boka cytaś a klucowe dypki generěrowaś
 link-preview-settings-long-press =

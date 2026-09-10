@@ -48,7 +48,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     Farklı veri kaydetme ve bulma yollarını öğrenmek için 
     <strong>Veriler hakkında</strong> sekmesine bakabilirsiniz.
-about-glean-about-testing-header = Test Hakkında
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     Yönergelerin tamamını
@@ -57,8 +56,6 @@ about-glean-manual-testing =
     ama kısaca, enstrümantasyonunuzun çalıştığını manuel olarak test etmek için şunları yapmalısınız:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (hiçbir ping gönderme)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Önceki alanda, pinglerinizi daha sonra tanıyabilmeniz için akılda kalıcı bir hata ayıklama etiketi olduğundan emin olun.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Ping'lerinizi daha sonra tanıyabilmeniz için akılda kalıcı bir hata ayıklama etiketi <span>(en fazla 20 karakter; yalnızca harf, rakam ve “-”)</span> belirleyin.
 # An in-line drop down list precedes this string.
@@ -83,8 +80,6 @@ about-glean-label-for-controls-submit =
 about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Etiketinizle gönderilen ping’leri görmek için { glean-debug-ping-viewer-brand-name } sayfasını ziyaret edin</a>.
     Düğmeye bastıktan sonra ping’inizin ulaşması genellikle birkaç saniye sürer ama bazen birkaç dakikayı bulabilir.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation = Daha fazla <i>ad hoc</i> test için <code>about:glean</code> sayfasında geliştirici araçları konsolunu açıp <code>testGetValue()</code> API’sini <code>Glean.metricCategory.metricName.testGetValue()</code> örneğindeki gibi kullanarak belirli bir enstrümantasyonun geçerli değerini de belirleyebilirsiniz.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 = Daha fazla <i>ad hoc</i> test için <code>about:glean</code> sayfasında geliştirici araçları konsolunu açıp <code>testGetValue()</code> API’sini kullanarak belirli bir enstrümantasyonun geçerli değerini de belirleyebilirsiniz. Örneğin <code>metric.category.metric_name</code> adında bir metrik için <code>Glean.metricCategory.metricName.testGetValue()</code> şeklinde kullanabilirsiniz.
 # Do not translate strings between <code> </code> tags.
@@ -183,7 +178,6 @@ about-glean-no-data-to-display = Görüntülenecek veri yok.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code> ölçümleri henüz <code>about:glean</code> görünümünde desteklenmiyor.
 about-glean-unknown-metric-type-warning = Bilinmeyen ölçüm türü.
-about-glean-about-data-explanation = Toplanan verilerin listesine göz atmak için lütfen <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Sözlüğü’nü inceleyin</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Танзимоти пайваст
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Танзимоти пайваст
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Аз нав бор кардан
     .accesskey = А
-connection-proxy-autologin =
-    .label = Санҷиши ҳаққоният дархост карда нашавад, агар ниҳонвожа нигоҳ дошта шуда бошад.
-    .accesskey = i
-    .tooltip = Вақте ки шумо маълумоти воридшавиро барои сомонаҳоро нигоҳ медоред, ин имкон шуморо ба чунин сомонаҳо ба таври худкор ворид мекунад. Агар воридшавӣ кор накунад, санҷиши ҳаққоният дархост карда мешавад.
 connection-proxy-autologin-checkbox =
     .label = Санҷиши ҳаққоният дархост карда нашавад, агар ниҳонвожа нигоҳ дошта шуда бошад.
-    .accesskey = i
     .tooltiptext = Вақте ки шумо маълумоти воридшавиро барои сомонаҳоро нигоҳ медоред, ин имкон шуморо ба чунин сомонаҳо ба таври худкор ворид мекунад. Агар воридшавӣ кор накунад, санҷиши ҳаққоният дархост карда мешавад.
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = Фиристодани дархостҳои DNS тавассути прокси ҳангоми истифодаи SOCKS v4
     .accesskey = Ф
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Истифодаи нишонии «URL»-и пешфарз барои танзими «DNS» тавассути «HTTPS»
 connection-dns-over-https-url-custom =
     .label = Фармоишӣ
-    .accesskey = Ф
     .tooltiptext = Барои танзими DNS тавассути HTTPS нишонии URL-и пазируфтаи худро ворид намоед
-connection-dns-over-https-custom-label = Фармоишӣ
+    .accesskey = Ф

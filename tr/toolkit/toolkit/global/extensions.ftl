@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = { $extension } eklensin mi?
-webext-perms-header-with-perms = { $extension } eklensin mi? Bu uzantı şu izinlere sahip olacak:
-webext-perms-header-unsigned = { $extension } eklensin mi? Bu uzantı doğrulanmamış. Kötü amaçlı uzantılar kişisel bilgilerinizi çalabilir veya bilgisayarınızı tehlikeye atabilir. Yalnızca kaynağına güveniyorsanız bu uzantıyı ekleyin.
-webext-perms-header-unsigned-with-perms = { $extension } eklensin mi? Bu uzantı doğrulanmamış. Kötü amaçlı uzantılar kişisel bilgilerinizi çalabilir veya bilgisayarınızı tehlikeye atabilir. Yalnızca kaynağına güveniyorsanız bu uzantıyı ekleyin. Bu uzantı şu izinlere sahip olacak:
 webext-perms-sideload-header = { $extension } eklendi
 webext-perms-optional-perms-header2 = { $extension } ek izinler istiyor
-webext-perms-optional-perms-header = { $extension } ek izinler istiyor.
 webext-perms-header2 = { $extension } uzantısını ekle
 webext-perms-list-intro-unsigned = Bu doğrulanmamış uzantı gizliliğinizi riske atabilir veya cihazınızın güvenliğini tehlikeye sokabilir. Yalnızca kaynağa güveniyorsanız ekleyin.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } güncellendi. Güncellenen sürüm yüklenmeden önce yeni izinleri onaylamanız gerekiyor. “Vazgeç”i seçerseniz mevcut uzantı sürümünüz korunacaktır.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } güncellendi. Güncellenen sürümü yüklemek için yeni izinleri onaylamanız gerekiyor. “Vazgeç”i seçerseniz mevcut sürümünüz korunacaktır. Güncellerseniz bu uzantı şu izinlere sahip olacaktır:
 webext-perms-update-accept =
     .label = Güncelle
     .accesskey = G
@@ -73,24 +65,8 @@ webext-perms-host-description-file-urls = Bilgisayarınızdaki dosyalara erişme
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } alan adındaki sitelere ait verilerinize erişme
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Diğer { $domainCount } alan adındaki verilerinize erişme
-       *[other] Diğer { $domainCount } alan adındaki verilerinize erişme
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } verilerinize erişme
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Diğer { $domainCount } sitedeki verilerinize erişme
-       *[other] Diğer { $domainCount } sitedeki verilerinize erişme
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

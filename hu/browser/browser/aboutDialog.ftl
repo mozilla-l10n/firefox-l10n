@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Frissítés letöltése – <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Frissítés letöltése – <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Frissítés letöltése – { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Frissítés alkalmazása…
 update-failed = A frissítés sikertelen.<label data-l10n-name="failed-link">Töltse le a legújabb verziót</label>
 update-failed-main = A frissítés sikertelen.<a data-l10n-name="failed-link-main">Töltse le a legújabb verziót</a>
-update-adminDisabled = A frissítéseket a rendszergazda letiltotta
 update-policy-disabled = A frissítéseket a szervezete letiltotta
 settings-update-policy-disabled =
     .label = A frissítéseket a szervezete letiltotta
@@ -72,8 +70,6 @@ helpus-referrals2 = Szeretne segíteni? <label data-l10n-name="helpus-donateLink
 bottomLinks-license = Licencinformációk
 bottom-links-terms = Felhasználási feltételek
 bottom-links-privacy = Adatvédelmi nyilatkozat
-bottomLinks-rights = Végfelhasználói jogok
-bottomLinks-privacy = Adatvédelmi irányelvek
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

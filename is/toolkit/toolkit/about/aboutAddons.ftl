@@ -156,15 +156,10 @@ addon-sitepermission-host = Heimildir vefsvæðis fyrir { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Allar viðbætur hafa verið gerðar óvirkar vegna öryggishams.
-extensions-warning-check-compatibility = Samhæfnisathugun viðbóta er óvirk. Hugsanlegt er að þú sért með ósamhæfðar viðbætur.
-extensions-warning-safe-mode2 =
-    .message = Allar viðbætur hafa verið gerðar óvirkar vegna öryggishams.
 extensions-warning-check-compatibility2 =
     .message = Samhæfnisathugun viðbóta er óvirk. Hugsanlegt er að þú sért með ósamhæfðar viðbætur.
 extensions-warning-check-compatibility-button = Virkja
     .title = Virkja samhæfnisathugun viðbóta
-extensions-warning-update-security = Öryggisuppfærslur fyrir viðbætur eru óvirkar. Þú gætir verið í hættu vegna uppfærslu.
 extensions-warning-update-security2 =
     .message = Öryggisuppfærslur fyrir viðbætur eru óvirkar. Þú gætir verið í hættu vegna uppfærslu.
 extensions-warning-update-security-button = Virkja
@@ -234,10 +229,6 @@ shortcuts-duplicate = Tvítaka flýtilykil
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } er notað sem flýtileið í fleiri en einu tilviki. Tvíteknar flýtileiðir geta valdið óvæntri hegðun.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } er notað sem flýtileið í fleiri en einu tilviki. Tvíteknar flýtileiðir geta valdið óvæntri hegðun.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -257,19 +248,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Forritsaukar og þemu eru eins og forrit fyrir vafrann þinn og þau gera þér
-    kleift vernda lykilorð, hlaða niður myndskeiðum, finna tilboð, loka fyrir 
-    pirrandi auglýsingar, breyta útliti vafrans þíns og margt fleira. Þessi litlu 
-    hugbúnaðarforrit eru oft þróuð af utanaðkomandi aðilum. Hér er úrval
-    sem { -brand-product-name } <a data-l10n-name="learn-more-trigger">mælir með</a> fyrir einstakt
-    öryggi, afköst og virkni.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    Sumar af þessum ráðleggingum eru sérsniðnar. Þær eru byggðar á öðrum
-    forritsaukum sem þú hefur sett upp, stillingum persónusniðs og notkunartölfræði.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -348,16 +326,9 @@ addon-detail-last-updated-label = Síðast uppfært
 addon-detail-homepage-label = Upphafssíða
 addon-detail-rating-label = Einkunn
 # Message for add-ons with a staged pending update.
-install-postponed-message = Þessi forritsauki verður uppfærður þegar { -brand-short-name } endurræsir.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Þessi forritsauki verður uppfærður þegar { -brand-short-name } endurræsir.
 install-postponed-button = Uppfæra núna
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Einkunn { NUMBER($rating, maximumFractionDigits: 1) } af 5 mögulegum
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -373,9 +344,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> hefur verið fjarlægt.
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -394,11 +362,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Leyfilegt í huliðsgluggum
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Leyfilegt í huliðsgluggum
 addon-detail-private-browsing-help = Þegar það er leyft, hefur þessi forritsauki aðgang að athöfnum þínum á netinu á meðan huliðsvafri stendur. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
 addon-detail-private-browsing-allow = Leyfa
@@ -425,17 +388,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } mælir aðeins með forritsaukum sem uppfylla staðla okkar um öryggi og afköst
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Opinber forritsauki byggður af Mozilla. Uppfyllir öryggis- og afkastastaðla
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Þessi forritsauki hefur verið yfirfarinn til að uppfylla staðla okkar um öryggi og afköst
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -465,9 +417,6 @@ addon-permissions-heading = Heimildir
 addon-permissions-empty2 = Þessi forritsauki þarf engar heimildir.
 addon-permissions-required-label = Nauðsynlegt:
 addon-permissions-optional-label = Valkvætt:
-addon-permissions-empty = Þessi forritsauki þarf engar heimildir
-addon-permissions-required = Nauðsynlegar heimildir fyrir kjarnavirkni:
-addon-permissions-optional = Valfrjálsar heimildir fyrir aukna virkni:
 addon-permissions-learnmore = Frekari upplýsingar um heimildir
 recommended-extensions-heading = Forritsaukar sem mælt er með
 recommended-themes-heading = Þemu sem mælt er með
@@ -504,39 +453,18 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } er ósamhæfð við { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } er ósamhæfð við { -brand-short-name } { $version }.
-details-notification-incompatible-link = Nánari upplýsingar
-details-notification-unsigned-and-disabled = Ekki tókst að staðfesta { $name } fyrir notkun í { -brand-short-name } þar af leiðandi var viðbót gerð óvirk.
 details-notification-unsigned-and-disabled2 =
     .message = Ekki tókst að staðfesta { $name } fyrir notkun í { -brand-short-name } þar af leiðandi var viðbót gerð óvirk.
-details-notification-unsigned-and-disabled-link = Ítarlegri upplýsingar
-details-notification-unsigned = Ekki tókst að staðfesta { $name } fyrir notkun í { -brand-short-name }. Farðu varlega í að halda áfram.
 details-notification-unsigned2 =
     .message = Ekki tókst að staðfesta { $name } fyrir notkun í { -brand-short-name }. Farðu varlega í að halda áfram.
 details-notification-hard-blocked-extension =
     .message = Lokað er á þennan forritsauka vegna brota á reglum Mozilla og hefur hann því verið gerður óvirkur.
 details-notification-hard-blocked-other =
     .message = Lokað er á þessa viðbót vegna brota á reglum Mozilla og hefur hún því verið gerð óvirk.
-details-notification-unsigned-link = Ítarlegri upplýsingar
-details-notification-blocked = { $name } hefur verið gerð óvirk vegna vandamála með öryggi eða stöðugleika.
 details-notification-blocked-link2 = Sjá nánar
-details-notification-soft-blocked-extension-disabled =
-    .message = Þessi forritsauki er takmarkaður vegna brota gegn reglum Mozilla og hefur verið gerður óvirkur. Þú getur virkjað þetta, en það gæti verið áhættusamt.
-details-notification-soft-blocked-extension-enabled =
-    .message = Þessi forritsauki brýtur gegn reglum Mozilla. Það getur verið áhættusamt að nota hann.
-details-notification-soft-blocked-other-disabled =
-    .message = Þessi viðbót er takmörkuð vegna brota gegn reglum Mozilla og hefur verið gerður óvirk. Þú getur virkjað þetta, en það gæti verið áhættusamt.
-details-notification-soft-blocked-other-enabled =
-    .message = Þessi viðbót brýtur gegn reglum Mozilla. Það getur verið áhættusamt að nota hana.
 details-notification-softblocked-link2 = Sjá nánar
-details-notification-blocked-link = Meiri upplýsingar
-details-notification-softblocked = { $name } er þekkt fyrir að valda vandamálum með öryggi eða stöðugleika.
-details-notification-softblocked-link = Meiri upplýsingar
-details-notification-gmp-pending = { $name } verður sett inn fljótlega.
 details-notification-gmp-pending2 =
     .message = { $name } verður sett inn fljótlega.
 
@@ -552,8 +480,6 @@ plugins-widevine-description = Þetta tengiforrit býður upp á afspilun dulkó
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Nauðsynleg gagnasöfnun:
-addon-permissions-optional-data-collection = Valkvæð gagnasöfnun:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Heimildir og gögn
 # This is a description for extension that use this AI model

@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } sẽ mở với hồ sơ bạn sử dụng gần đây nhất.
 profile-window-create-profile = Tạo hồ sơ
 profile-card-edit-button =
-    .title = Chỉnh sửa hồ sơ
     .aria-label = Chỉnh sửa hồ sơ
+    .title = Chỉnh sửa hồ sơ
 profile-card-delete-button =
-    .title = Xoá hồ sơ
     .aria-label = Xoá hồ sơ
+    .title = Xoá hồ sơ
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Mở { $profileName }
     .aria-label = Mở { $profileName }
+    .title = Mở { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Hồ sơ { $number }
@@ -83,9 +83,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Xoá hồ sơ { $profilename }
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = Xoá hồ sơ { $profilename }?
 delete-profile-description = { -brand-short-name } sẽ xóa vĩnh viễn dữ liệu sau khỏi thiết bị này:
 # Open is an adjective, as in "browser windows currently open".
@@ -112,28 +109,10 @@ delete-profile-confirm = Xóa
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Sáng
-# The default dark theme
-profiles-dark-theme = Tối
 # The default system theme
 profiles-system-theme = Hệ thống
 profiles-system-theme-title =
     .title = Áp dụng chủ đề hệ thống
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = Vàng cúc vạn thọ
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = Hoa oải hương
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = Xanh bạc hà
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = Mộc lan hồng
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = Xanh đại dương
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = Đỏ gạch
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = Xanh rêu
 profiles-gray-theme = Xám
 profiles-gray-theme-title =
     .title = Áp dụng chủ đề màu xám
@@ -290,9 +269,6 @@ profiles-appmenu-callout-tour-subtitle = Trong menu ☰, nhấp vào vào tên h
 profiles-appmenu-callout-tour-primary-button = Hướng dẫn tôi
 barbell-avatar = Thanh tạ
 bike-avatar = Xe đạp
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Áp dụng hình đại diện thanh tạ
 bike-avatar-tooltip =

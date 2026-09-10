@@ -21,11 +21,6 @@ tabbrowser-tab-tooltip-container = { $containerName }
 #   $tabGroupName (String): the user-defined name of the current tab group.
 #   $containerName (String): the name of the current container.
 tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } – { $containerName }
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -33,14 +28,6 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [one] Ljepblêd slute
-           *[other] { $tabCount } ljepblêden slute
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [one] Ljepblêd slute
            *[other] { $tabCount } ljepblêden slute
@@ -108,7 +95,6 @@ tabbrowser-unblock-tab-audio-aria-label =
 tabbrowser-confirm-close-tabs-title = { $tabCount } ljepblêden slute?
 tabbrowser-confirm-close-tabs-button = Ljepblêden slute
 tabbrowser-ask-close-tabs-checkbox = Freegje foar it sluten fan meardere ljepblêden
-tabbrowser-confirm-close-tabs-checkbox = Warskôgje by it sluten fan meardere ljepblêden
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -131,9 +117,6 @@ tabbrowser-confirm-close-tabs-with-key-button = { -brand-short-name } ôfslute
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-ask-close-tabs-with-key-checkbox = Freegje foar ôfsluten mei { $quitKey }
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = Befêstigje foardat jo stopje mei { $quitKey }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
@@ -438,8 +421,8 @@ tab-note-editor-button-save =
     .label = Bewarje
     .accesskey = r
 tab-note-editor-button-delete =
-    .title = Notysje fuortsmite
     .aria-label = Notysje fuortsmite
+    .title = Notysje fuortsmite
     .accesskey = f
 tab-note-preview-edit-icon =
     .alt = Notysje bewurkje

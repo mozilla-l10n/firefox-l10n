@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Uɣal ɣer deffir s yiwen usebter ({ $shortcut })
     .aria-label = Γer deffir
+    .tooltiptext = Uɣal ɣer deffir s yiwen usebter ({ $shortcut })
     .accesskey = D
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Aẓ ɣer zdat s yiwen usebter ({ $shortcut })
     .aria-label = Ɣer zdat
+    .tooltiptext = Aẓ ɣer zdat s yiwen usebter ({ $shortcut })
     .accesskey = Z
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Creḍ asebter…
-    .accesskey = ḍ
     .tooltiptext = Creḍ asebter
+    .accesskey = ḍ
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Creḍ asebter…
-    .accesskey = ḍ
     .tooltiptext = Creḍ asebter ({ $shortcut })
+    .accesskey = ḍ
 main-context-menu-edit-bookmark =
     .aria-label = Ẓreg tacreḍt n usebter…
-    .accesskey = ḍ
     .tooltiptext = Ẓreg tacreḍt n usebter
+    .accesskey = ḍ
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Ẓreg tacreḍt n usebter…
-    .accesskey = ḍ
     .tooltiptext = Ẓreg tacreḍt n usebter ({ $shortcut })
+    .accesskey = ḍ
 main-context-menu-open-link =
     .label = Ldi aseɣwen
     .accesskey = L
@@ -145,9 +139,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Sekles aseɣwen s yisem…
     .accesskey = S
-main-context-menu-save-link-to-pocket =
-    .label = Sekles aseɣwen ɣer { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -285,40 +276,22 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Azen ameslaw s yimayl…
     .accesskey = a
-main-context-menu-save-to-pocket =
-    .label = Sekles asebter ɣer { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Azen asebter ɣer yibenk
-    .accesskey = b
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Seqdec inekcam yettwakelsen
-    .accesskey = k
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Seqdec awal uffir yettwaskelsen
     .accesskey = a
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Seqdec agelmus n yimayl { -relay-brand-short-name }
     .accesskey = I
 main-context-menu-suggest-strong-password =
     .label = SuƔer awal uffir iǧehden…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = Sefrek inekcam
-    .accesskey = S
 main-context-menu-manage-passwords =
     .label = Sefrek awalen uffiren
     .accesskey = S
-main-context-menu-keyword =
-    .label = Rnu awal tasarut i unadi-a…
-    .accesskey = w
 main-context-menu-add-engine =
     .label = Rnu amsedday n unadi
     .accesskey = R
@@ -364,9 +337,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Ṭṭef agdil
     .accesskey = Ṭ
-main-context-menu-take-frame-screenshot =
-    .label = Ṭṭef agdil
-    .accesskey = g
 main-context-menu-view-page-source =
     .label = Tangalt taɣbalut n usebter
     .accesskey = T

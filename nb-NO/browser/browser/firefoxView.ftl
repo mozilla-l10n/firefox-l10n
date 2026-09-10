@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Se nylig nettlesing på tvers av vinduer og enheter
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Lukk
-    .aria-label = Lukk
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Akkurat nå
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Synkroniserte faner
-firefoxview-tabpickup-description = Åpne sider fra andre enheter.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue } % fullført
-firefoxview-tabpickup-step-signin-header = Bytt enkelt mellom enheter
-firefoxview-tabpickup-step-signin-description = For å hente telefonfanene dine hit, logger du først inn eller oppretter en konto.
-firefoxview-tabpickup-step-signin-primarybutton = Fortsett
 firefoxview-syncedtabs-signin-header-2 = Din { -brand-product-name } på alle dine enheter
 firefoxview-syncedtabs-signin-description-2 = For å se faner du har åpne på telefonen og andre enheter, logg inn eller registrer deg for en konto. Med en konto kan du også synkronisere passord, historikk, med mer.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Fra bærbar PC til telefon, sømløst
 firefoxview-syncedtabs-signin-description-3 = Hold surfingen synkronisert på tvers av enhetene dine — faner, passord og historikk, alt synkronisert.
 firefoxview-syncedtabs-signin-primarybutton-2 = Logg inn
-firefoxview-tabpickup-adddevice-header = Synkroniser { -brand-product-name } på telefonen eller nettbrettet
-firefoxview-tabpickup-adddevice-description = Last ned { -brand-product-name } for mobil og logg inn der.
-firefoxview-tabpickup-adddevice-learn-how = Les hvordan
-firefoxview-tabpickup-adddevice-primarybutton = Få { -brand-product-name } for mobil
 firefoxview-syncedtabs-adddevice-header-2 = Hent faner uansett hvor du er
 firefoxview-syncedtabs-adddevice-description-2 = Logg på { -brand-product-name } på telefonen eller en annen datamaskin for å se faner her. Finn ut hvordan du <a data-l10n-name="url">kobler til flere enheter</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prøv { -brand-product-name } for mobil
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Fanene dine venter på telefonen.
 firefoxview-syncedtabs-adddevice-description-3 = Skann QR-koden for å få { -brand-product-name } på mobilen og begynn å synkronisere åpne faner og mer. Les hvordan du <a data-l10n-name="url">kobler til flere enheter</a>.
-firefoxview-tabpickup-synctabs-header = Slå på fanesynkronisering
-firefoxview-tabpickup-synctabs-description = Tillat { -brand-short-name } å dele faner mellom enheter.
-firefoxview-tabpickup-synctabs-learn-how = Les hvordan
 firefoxview-tabpickup-synctabs-primarybutton = Synkroniser åpne faner
 firefoxview-tabpickup-synctabs-primarybutton-2 = Slå på fanesynkronisering
 firefoxview-syncedtabs-synctabs-header = Oppdater dine synkroniseringsinnstillinger
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Når det er gjort, vil du se alle f
 firefoxview-syncedtabs-loading-header-2 = Henter dine faner…
 firefoxview-syncedtabs-loading-description-2 = Synkronisering pågår. Fanene kommer snart.
 firefoxview-tabpickup-fxa-admin-disabled-header = Organisasjonen din har deaktivert synkronisering
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kan ikke synkronisere faner mellom enheter fordi administratoren din har deaktivert synkronisering.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } kan ikke synkronisere faner mellom enheter fordi organisasjonen din har deaktivert synkronisering.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Fanesynkronisering er av
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Organisasjonen din har blokkert denne funksjonen.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Lås opp faner med hovedpassordet ditt
 firefoxview-tabpickup-password-locked-description-2 = For personvernets skyld er synkroniserte faner beskyttet. Skriv inn hovedpassordet for { -brand-short-name } for å se fanene fra dine andre enheter.
 firefoxview-tabpickup-signed-out-header = Logg inn for å koble til på nytt
-firefoxview-tabpickup-signed-out-description = For å koble til igjen og få tak i fanene dine, logg in på din { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = For å koble til igjen og få tak i fanene dine, logg in på kontoen din.
 firefoxview-tabpickup-signed-out-primarybutton = Logg inn
 firefoxview-tabpickup-signed-out-header-2 = Logg inn for å se dine faner
 firefoxview-tabpickup-signed-out-description-2 = Koble til på nytt for å se faner fra andre enheter.
-firefoxview-tabpickup-syncing = Vi synkroniserer fanene dine, det tar bare et øyeblikk.
-firefoxview-mobile-promo-header = Åpne faner fra telefonen eller nettbrettet
-firefoxview-mobile-promo-description = For å se de siste mobilfanene dine, logg på { -brand-product-name } på iOS eller Android.
-firefoxview-mobile-promo-primarybutton = Få { -brand-product-name } for mobil
-firefoxview-mobile-confirmation-header = 🎉 Alt klart!
-firefoxview-mobile-confirmation-description = Nå kan du hente { -brand-product-name }-fanene fra nettbrettet eller telefonen.
-firefoxview-closed-tabs-title = Nylig lukket
-firefoxview-closed-tabs-description2 = Gjenåpne sider du har lukket i dette vinduet.
-firefoxview-closed-tabs-placeholder-header = Ingen nylig lukkede faner
-firefoxview-closed-tabs-placeholder-body = Når du lukker en fane i dette vinduet, kan du hente den herfra.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Avvis { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Sist aktiv
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Åpne { $targetURI } i en ny fane
-firefoxview-try-colorways-button = Prøv fargesammensettinger
-firefoxview-change-colorway-button = Endre fargesammensetting
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Ingenting å se ennå
-firefoxview-synced-tabs-placeholder-body = Neste gang du åpner en side i { -brand-product-name } på en annen enhet, kan du hente den her.
 firefoxview-collapse-button-show =
     .title = Vis liste
 firefoxview-collapse-button-hide =

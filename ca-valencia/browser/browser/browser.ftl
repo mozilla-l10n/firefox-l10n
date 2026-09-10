@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = Mostra la informació del lloc
 
@@ -40,8 +35,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Obri la subfinestra del missatge d'emmagatzematge fora de línia
 urlbar-password-notification-anchor =
     .tooltiptext = Obri la subfinestra del missatge de guardar la contrasenya
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Gestiona l'ús dels complements
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Gestiona la compartició de la càmera o del micròfon amb el lloc
 # "Speakers" is used in a general sense that might include headphones or
@@ -54,14 +47,7 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Guarda dades en l'emmagatzematge persistent
 urlbar-addons-notification-anchor =
     .tooltiptext = Obri la subfinestra del missatge d'instal·lació del complement
-urlbar-tip-help-icon =
-    .title = Obteniu ajuda
 urlbar-search-tips-confirm = Entesos
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Consell:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -96,8 +82,6 @@ urlbar-screen-blocked =
     .tooltiptext = Heu blocat la compartició de la pantalla en este lloc web.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Heu blocat l'emmagatzematge persistent per a este lloc web.
-urlbar-popup-blocked =
-    .tooltiptext = Heu blocat les finestres emergents per a este lloc web.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Heu blocat la reproducció automàtica de contingut multimèdia amb so per a este lloc web.
 urlbar-canvas-blocked =
@@ -226,17 +210,13 @@ identity-custom-root = Connexió verificada per un emissor de certificats que no
 identity-passive-loaded = Parts d'esta pàgina no són segures (com les imatges).
 identity-active-loaded = Heu desactivat la protecció en esta pàgina.
 identity-weak-encryption = Esta pàgina utilitza xifratge feble.
-identity-insecure-login-forms = Les dades d'inici de sessió que introduïu en esta pàgina podrien estar en risc.
 identity-https-only-connection-upgraded = (actualitzat a HTTPS)
-identity-https-only-label = Mode només HTTPS
 identity-https-only-dropdown-on =
     .label = Activat
 identity-https-only-dropdown-off =
     .label = Desactivat
 identity-https-only-dropdown-off-temporarily =
     .label = Desactivat temporalment
-identity-https-only-info-turn-on2 = Activeu el mode només HTTPS per a este lloc si voleu que el { -brand-short-name } canvie a una connexió segura quan siga possible.
-identity-https-only-info-turn-off2 = Si pareix que la pàgina no funciona bé, podeu provar de desactivar el mode només HTTPS per a este lloc per tornar-lo a carregar amb HTTP insegur.
 identity-https-only-info-no-upgrade = No s'ha pogut actualitzar la connexió des d'HTTP.
 identity-permissions-storage-access-header = Galetes entre llocs
 identity-permissions-storage-access-hint = Estos subjectes poden utilitzar galetes entre llocs i dades del lloc mentre esteu en este lloc.
@@ -252,7 +232,6 @@ identity-remove-cert-exception =
     .label = Elimina l'excepció
     .accesskey = x
 identity-description-insecure = La connexió a este lloc no és privada. La informació que envieu podria ser visualitzada per altres persones (com contrasenyes, missatges, targetes de crèdit, etc.).
-identity-description-insecure-login-forms = La informació d'inici de sessió que introduïu en esta pàgina no és segura i podria interceptar-se.
 identity-description-weak-cipher-intro = La connexió a este lloc web utilitza un xifratge feble i no és privada.
 identity-description-weak-cipher-risk = Altres persones podrien visualitzar la informació o modificar el comportament del lloc web.
 identity-description-active-blocked2 = El { -brand-short-name } ha blocat parts d'esta pàgina que no són segures.
@@ -261,12 +240,6 @@ identity-description-passive-loaded-insecure2 = Este lloc web inclou contingut q
 identity-description-passive-loaded-mixed2 = Malgrat que el { -brand-short-name } ha blocat parts del contingut, encara hi ha contingut de la pàgina que no és segur (such as images).
 identity-description-active-loaded = Este lloc web inclou contingut que no és segur (com els scripts) i la connexió no és privada.
 identity-description-active-loaded-insecure = La informació que compartiu amb este lloc podria ser visualitzada per altres persones (com contrasenyes, missatges, targetes de crèdit, etc.).
-identity-disable-mixed-content-blocking =
-    .label = Desactiva la protecció esta vegada
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = Activa la protecció
-    .accesskey = v
 identity-more-info-link-text =
     .label = Més informació
 
@@ -280,37 +253,6 @@ browser-window-restore-down-button =
     .tooltiptext = Restaura avall
 browser-window-close-button =
     .tooltiptext = Tanca
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = REPRODUINT
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = SILENCIADA
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = REPRODUCC. AUTOMÀTICA BLOCADA
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = IMATGE SOBRE IMATGE
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] SILENCIA LA PESTANYA
-       *[other] SILENCIA { $count } PESTANYES
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] NO SILENCIÏS LA PESTANYA
-       *[other] NO SILENCIÏS { $count } PESTANYES
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] REPRODUEIX LA PESTANYA
-       *[other] REPRODUEIX { $count } PESTANYES
-    }
 
 ## Bookmarks toolbar items
 
@@ -402,8 +344,6 @@ urlbar-extension =
     .value = Extensió:
 urlbar-go-button2 =
     .title = Vés a l'adreça de la barra d'ubicació
-urlbar-go-button =
-    .tooltiptext = Vés a l'adreça de la barra d'ubicació
 urlbar-page-action-button =
     .tooltiptext = Accions de la pàgina
 
@@ -449,20 +389,9 @@ urlbar-result-action-tabtosearch-web = Cerca amb { $engine } directament des de 
 urlbar-result-action-tabtosearch-other-engine = Cerca en { $engine } directament des de la barra d'adreces
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Copia
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
-urlbar-searchmode-bookmarks =
-    .label = Adreces d'interés
-urlbar-searchmode-tabs =
-    .label = Pestanyes
-urlbar-searchmode-history =
-    .label = Historial
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -553,12 +482,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Amaga la barra de les adreces d'interès
            *[other] Mostra la barra de les adreces d'interès
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Elimina el menú d'adreces d'interès de la barra d'eines
-           *[other] Afegeix el menú d'adreces d'interès a la barra d'eines
-        }
 
 ##
 
@@ -584,14 +507,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Adreces d'interés
-library-recent-activity-title =
-    .value = Activitat recent
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Guarda al { -pocket-brand-name }
-    .tooltiptext = Guarda al { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
@@ -645,8 +560,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = Nom d'usuari
-panel-save-update-password = Contrasenya
 panel-save-update-username-2 =
     .label = Nom d'usuari
 panel-save-update-password-2 =
@@ -660,24 +573,8 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = Tanca
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = Permet les finestres emergents per a { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Bloca les finestres emergents per a { $uriHost }
-    .accesskey = p
-
 ##
 
-popups-infobar-dont-show-message =
-    .label = No mostres este missatge quan es bloquin finestres emergents
-    .accesskey = n
-edit-popup-settings =
-    .label = Gestiona els paràmetres de finestres emergents…
-    .accesskey = G
 picture-in-picture-hide-toggle =
     .label = Amaga el botó d'Imatge sobre imatge
     .accesskey = m
@@ -701,8 +598,6 @@ navbar-accessible =
     .aria-label = Navegació
 navbar-downloads =
     .label = Baixades
-navbar-overflow =
-    .tooltiptext = Més eines…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Teastas á íoslódáil
     .style = min-width: 46em
+    .title = Teastas á íoslódáil
 download-cert-message = Iarrtar ort muinín a bheith agat as Údarás Deimhniúcháin nua.
 download-cert-trust-ssl =
     .label = Tá muinín agat as an údarás deimhniúcháin seo chun suímh Ghréasáin a shainaithint.
@@ -37,8 +37,6 @@ download-cert-view-text = Scrúdaigh Teastas an Údaráis Deimhniúcháin
 
 client-auth-window =
     .title = Iarratas Aitheantais Úsáideora
-client-auth-site-description = Iarann an suíomh seo ort tú féin a shainaithint le teastas:
-client-auth-choose-cert = Roghnaigh teastas le taispeáint mar aitheantas:
 client-auth-cert-details = Mionsonraí an teastais roghnaithe:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

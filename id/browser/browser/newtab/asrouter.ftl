@@ -60,19 +60,12 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Sinkronkan markah Anda di mana saja.
-cfr-doorhanger-bookmark-fxa-body = Penemuan yang mantap! Sekarang jangan pergi tanpa markah ini di perangkat seluler Anda. Mulai dengan { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = Temuan yang bagus! Gunakan markah ini kapan saja - juga di perangkat seluler Anda. Mulai dengan membuat akun.
 cfr-doorhanger-bookmark-fxa-link-text = Sinkronkan markah sekarang…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tombol tutup
     .title = T
 fxa-adoption-primary-button-label = Daftar
-
-## Protections panel
-
-cfr-protections-panel-header = Menjelajah tanpa diikuti
-cfr-protections-panel-body = Simpan data Anda untuk diri sendiri. { -brand-short-name } melindungi Anda dari banyak pelacak umum yang mengikuti apa yang Anda lakukan daring.
-cfr-protections-panel-link-text = Pelajari lebih lanjut
 
 ## What's New toolbar button and panel
 
@@ -167,42 +160,8 @@ mr2022-background-update-toast-primary-button-label = Buka { -brand-shorter-name
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Ingatkan Saya nanti
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Coba sekarang
-    .accesskey = C
-firefoxview-cfr-secondarybutton = Jangan sekarang
-    .accesskey = J
-firefoxview-cfr-header-v2 = Cepat lanjutkan dari bagian terakhir yang Anda tinggalkan
-firefoxview-cfr-body-v2 = Dapatkan kembali tab yang baru saja ditutup, plus mulus melompat antar perangkat dengan { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Mari menyambut { -firefoxview-brand-name }.
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Ingin mendapatkan tab terbuka di ponsel Anda? Buka saja. Perlu situs yang baru saja dikunjungi? Tentu! Langsung kembali dengan { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Lihat cara kerjanya
-firefoxview-spotlight-promo-secondarybutton = Lewati
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Pilih ragam warna
-    .accesskey = r
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Warnai peramban Anda dengan bayangan eksklusif { -brand-short-name } yang diilhami oleh suara yang mengubah budaya.
-colorways-cfr-header-28days = Ragam warna Suara Independen kedaluarsa pada 16 Januari
-colorways-cfr-header-14days = Ragam warna Suara Independen kedaluarsa dalam dua minggu
-colorways-cfr-header-7days = Ragam warna Suara Independen kedaluarsa minggu ini
-colorways-cfr-header-today = Ragam warna Suara Independen kedaluarsa hari ini
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Izinkan { -brand-short-name } untuk menolak spanduk kuki?
-cfr-cbh-body = { -brand-short-name } dapat menolak permintaan berbagai spanduk secara otomatis.
-cfr-cbh-confirm-button = Tolak spanduk kuki
-    .accesskey = T
-cfr-cbh-dismiss-button = Jangan sekarang
-    .accesskey = J
 cookie-banner-blocker-onboarding-header = { -brand-short-name } baru saja menolak spanduk kuki untuk Anda
 cookie-banner-blocker-onboarding-body = Lebih sedikit gangguan, lebih sedikit kuki yang melacak Anda di situs ini.
 cookie-banner-blocker-onboarding-learn-more = Pelajari lebih lanjut

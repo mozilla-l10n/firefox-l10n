@@ -64,7 +64,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Majte svoje záložky všade so sebou.
-cfr-doorhanger-bookmark-fxa-body = Skvelý nález! Chcete mať túto záložku aj vo svojom mobilnom zariadení? Použite { -fxaccount-brand-name(capitalization: "sentence") }.
 cfr-doorhanger-bookmark-fxa-body-2 = Skvelý nález! Chcete mať túto záložku aj vo svojom mobilnom zariadení? Použite svoj účet.
 cfr-doorhanger-bookmark-fxa-link-text = Synchronizujte svoje záložky…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -77,12 +76,6 @@ fxa-adoption-credit-cards-backup-subtitle = Chráňte svoje platobné metódy ic
 fxa-adoption-bookmarks-treatment-backup-title = Poďme zálohovať vaše záložky
 fxa-adoption-bookmarks-treatment-backup-subtitle = Chráňte svoje záložky ich synchronizáciou so zariadeniami pomocou šifrovania.
 fxa-adoption-primary-button-label = Zaregistrovať sa
-
-## Protections panel
-
-cfr-protections-panel-header = Nenechajte sa pri prehliadaní sledovať
-cfr-protections-panel-body = { -brand-short-name } vás chráni pred mnohými sledovacími prvkami, ktoré zbierajú informácie o tom, čo robíte na internete.
-cfr-protections-panel-link-text = Ďalšie informácie
 
 ## What's New toolbar button and panel
 
@@ -179,42 +172,8 @@ mr2022-background-update-toast-primary-button-label = Spustiť { -brand-shorter-
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Pripomenúť neskôr
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Vyskúšajte ho
-    .accesskey = V
-firefoxview-cfr-secondarybutton = Teraz nie
-    .accesskey = T
-firefoxview-cfr-header-v2 = Rýchlo pokračujte tam, kde ste skončili
-firefoxview-cfr-body-v2 = Získajte späť nedávno zatvorené karty a navyše plynulo preskakujte medzi zariadeniami vďaka { -firefoxview-brand-name(case: "gen") }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Pozdravte { -firefoxview-brand-name(case: "acc") }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Chcete získať kartu otvorenú vo vašom telefóne? Vezmite si ju. Potrebujete opäť stránku, ktorú ste práve navštívili? Uf, sú späť vďaka funkcii { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Pozrite sa, ako to funguje
-firefoxview-spotlight-promo-secondarybutton = Preskočiť
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Zvoľte si farebnú tému
-    .accesskey = Z
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Vyfarbite svoj prehliadač { -brand-short-name } exkluzívne odtieňmi inšpirovanými hlasmi, ktoré zmenili kultúru.
-colorways-cfr-header-28days = Farebná téma Nezávislé hlasy je dostupná už len do 16. januára
-colorways-cfr-header-14days = Farebná téma Nezávislé hlasy je dostupná už len dva týždne
-colorways-cfr-header-7days = Farebná téma Nezávislé hlasy je dostupná už len týždeň
-colorways-cfr-header-today = Farebná téma Nezávislé hlasy je dostupná už len dnes
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Povoliť { -brand-short-name(case: "dat") } odmietnuť bannery k súborom cookie?
-cfr-cbh-body = { -brand-short-name } môže automaticky odmietnuť mnohé požiadavky na povolenie súborov cookie.
-cfr-cbh-confirm-button = Odmietnuť bannery k súborom cookie
-    .accesskey = O
-cfr-cbh-dismiss-button = Teraz nie
-    .accesskey = T
 cookie-banner-blocker-onboarding-header = { -brand-short-name } pre vás práve odmietol banner k súborom cookie
 cookie-banner-blocker-onboarding-body = Menej rozptyľovania, menej súborov cookie, ktoré vás na tejto stránke sledujú.
 cookie-banner-blocker-onboarding-learn-more = Ďalšie informácie

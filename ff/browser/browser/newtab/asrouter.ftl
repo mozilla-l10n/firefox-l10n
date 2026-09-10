@@ -67,12 +67,6 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Butoŋ uddugol
     .title = Uddu
 
-## Protections panel
-
-cfr-protections-panel-header = Wanngo tawo a rewindaaka
-cfr-protections-panel-body = Mooftan hoore maa keɓe maa. { -brand-short-name } ina reen maa e ko heewi e rewindotooɓe ɓurɓe wooweede rewooɓe e maa e ceŋogol.
-cfr-protections-panel-link-text = Ɓeydu humpito
-
 ## What's New toolbar button and panel
 
 # This string is used by screen readers to offer a text based alternative for

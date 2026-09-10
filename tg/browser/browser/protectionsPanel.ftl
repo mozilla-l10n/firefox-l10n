@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-protections-panel-sendreportview-error = Ҳангоми фиристодани гузориш хато ба миён омад. Лутфан, баъдтар аз нав кӯшиш кунед.
-# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
-protections-panel-sitefixedsendreport-label = Сомона ислоҳ шуд? Гузориш диҳед
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -23,11 +20,6 @@ protections-panel-etp-more-info =
     .aria-label = Маълумоти бештар оид ба муҳофизати такмилёфта аз пайгирӣ
 protections-panel-etp-on-header = Муҳофизати такмилёфта аз пайгирӣ барои ин сомона фаъол аст
 protections-panel-etp-off-header = Муҳофизати такмилёфта аз пайгирӣ барои ин сомона ғайрифаъол аст
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Сомона кор намекунад?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Сомона кор намекунад?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -35,20 +27,18 @@ protections-panel-site-not-working-view =
 ##   $host (String): the hostname of the site that is being displayed.
 
 protections-panel-etp-toggle-on =
-    .label = Муҳофизати такмилёфта аз пайгирӣ
-    .description = Барои ин сомона фаъол аст
     .aria-label = Муҳофизати такмилёфта аз пайгирӣ: Барои { $host } фаъол аст
-protections-panel-etp-toggle-off =
+    .description = Барои ин сомона фаъол аст
     .label = Муҳофизати такмилёфта аз пайгирӣ
-    .description = Барои ин сомона хомӯш аст
+protections-panel-etp-toggle-off =
     .aria-label = Муҳофизати такмилёфта аз пайгирӣ: Барои { $host } хомӯш аст
+    .description = Барои ин сомона хомӯш аст
+    .label = Муҳофизати такмилёфта аз пайгирӣ
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = Чаро?
-protections-panel-not-blocking-why-etp-on-tooltip = Амали манъкунӣ метавонад унсурҳои баъзе сомонаҳоро вайрон кунад. Бе васоити пайгирӣ баъзе тугмаҳо, шаклҳо ва майдонҳои воридшавӣ метавонанд кор накунанд.
-protections-panel-not-blocking-why-etp-off-tooltip = Ҳамаи васоити пайгирӣ дар ин сомона бор карда шудаанд, зеро ки муҳофизат ғайрифаъол аст.
 protections-panel-not-blocking-why-etp-on-tooltip-label =
     .label = Амали манъкунӣ метавонад унсурҳои баъзе сомонаҳоро вайрон кунад. Бе васоити пайгирӣ баъзе тугмаҳо, шаклҳо ва майдонҳои воридшавӣ метавонанд кор накунанд.
 protections-panel-not-blocking-why-etp-off-tooltip-label =
@@ -94,23 +84,6 @@ smartblock-placeholder-content-header = Муҳтаво аз унсури дар�
 
 protections-panel-settings-label = Танзимоти муҳофизат
 protections-panel-protectionsdashboard-label = Лавҳаи вазъияти муҳофизат
-
-## In the Site Not Working? view, we suggest turning off protections if
-## the user is experiencing issues with any of a variety of functionality.
-
-# The header of the list
-protections-panel-site-not-working-view-header = Агар шумо бо зерин мушкилӣ кашед, муҳофизатро ғайрифаъол кунед:
-# The list items, shown in a <ul>
-protections-panel-site-not-working-view-issue-list-login-fields = Майдонҳои воридшавӣ
-protections-panel-site-not-working-view-issue-list-forms = Шаклҳо
-protections-panel-site-not-working-view-issue-list-payments = Прадохтҳо
-protections-panel-site-not-working-view-issue-list-comments = Шарҳҳо
-protections-panel-site-not-working-view-issue-list-videos = Видеоҳо
-protections-panel-site-not-working-view-issue-list-fonts = Ҳуруф
-protections-panel-site-not-working-view-send-report = Фиристодани гузориш
-
-##
-
 protections-panel-cross-site-tracking-cookies = Чунин кукиҳо шуморо аз сомона ба сомона пайгирӣ мекунанд ва дар бораи фаъолияти шумо дар онлайн маълумотро ҷамъ мекунанд. Онҳо аз ҷониби тарафҳои сеюм монанди ширкатҳои таҳлилӣ ё рекламадеҳ ба роҳ монда мешаванд.
 protections-panel-cryptominers = Криптомайнерҳо барои ба даст овардани пули рақамӣ аз қувваи барқи компютери шумо истифода мебаранд. Скриптҳои криптомайнингӣ батареяи шуморо бемадор мекунанд ва кори компютерро суст менамоянд ва метавонанд маблағи пардохтҳои шуморо барои масрафи барқ зиёд кунанд.
 protections-panel-fingerprinters = Хонандаи нақши ангуштон барои эҷод кардани профили шумо танзимотро аз браузер ва компютери шумо ҷамъ мекунад. Бо истифодаи чунин нақши ангушти рақамӣ, онҳо метавонанд шуморо аз байни сомонаҳои гуногун пайгирӣ намоянд.
@@ -123,33 +96,10 @@ protections-panel-shim-allowed-indicator =
 protections-panel-content-blocking-manage-settings =
     .label = Идоракунии танзимоти муҳофизат
     .accesskey = И
-protections-panel-content-blocking-breakage-report-view =
-    .title = Гузориш дар бораи сомонаи вайроншуда
-protections-panel-content-blocking-breakage-report-view-description = Амали манъкунии васоити пайгирии муайян метавонад нисбат ба баъзе сомонаҳо мушкилиҳо ба вуҷуд орад. Гузоришдиҳӣ оид ба чунин мушкилиҳо барои беҳтар кардани «{ -brand-short-name }» ба фоидаи ҳамаи корбарон кумак мерасонад. Ҳангоми ирсолкунии ин гузориш, нишонии «URL» ва маълумот дар бораи танзимоти браузери шумо ба ширкати «Mozilla» фиристода мешавад. <label data-l10n-name="learn-more">Маълумоти бештар</label>
-protections-panel-content-blocking-breakage-report-view-collection-url = Нишонии URL
-protections-panel-content-blocking-breakage-report-view-collection-url-label =
-    .aria-label = Нишонии URL
-protections-panel-content-blocking-breakage-report-view-collection-comments = Ихтиёрӣ: Масъаларо шарҳ диҳед
-protections-panel-content-blocking-breakage-report-view-collection-comments-label =
-    .aria-label = Ихтиёрӣ: Масъаларо шарҳ диҳед
-protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = Бекор кардан
-protections-panel-content-blocking-breakage-report-view-send-report =
-    .label = Фиристодани гузориш
-
-# Cookie Banner Handling
-
-protections-panel-cookie-banner-handling-header = Маҳдудкунии баннери куки
 protections-panel-cookie-banner-blocker-header = Манъкунандаи баннери куки
 protections-panel-cookie-banner-handling-enabled = Барои ин сомона фаъол аст
 protections-panel-cookie-banner-handling-disabled = Барои ин сомона хомӯш аст
 protections-panel-cookie-banner-handling-undetected = Ин сомона дар айни замон дастгирӣ намешавад
-protections-panel-cookie-banner-view-title =
-    .title = Маҳдудкунии баннери куки
-# Variables
-#  $host (String): the hostname of the site that is being displayed.
-protections-panel-cookie-banner-view-turn-off-for-site = «Маҳдудкунии баннери куки»-ро барои { $host } хомӯш месозед?
-protections-panel-cookie-banner-view-turn-on-for-site = «Маҳдудкунии баннери куки»-ро барои ин сомона хомӯш месозед?
 protections-panel-cookie-banner-blocker-view-title =
     .title = Манъкунандаи баннери куки
 # Variables
@@ -157,10 +107,6 @@ protections-panel-cookie-banner-blocker-view-title =
 protections-panel-cookie-banner-blocker-view-turn-off-for-site = «Манъкунандаи баннери куки»-ро барои сомонаи { $host } хомӯш месозед?
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = «Манъкунандаи баннери куки»-ро барои сомонаи { $host } фаъол месозед?
 protections-panel-cookie-banner-view-cookie-clear-warning = «{ -brand-short-name }» кукиҳои ин сомонаро тоза мекунад ва саҳифаро аз нав бор мекунад. Амали тозакунии ҳамаи кукиҳо метавонад шуморо аз сомона хориҷ кунад ва сабадҳои харидории шуморо холӣ намояд.
-protections-panel-cookie-banner-view-turn-on-description = «{ -brand-short-name }» кӯшиш мекунад, ки ҳамаи дархостҳои кукиҳоро дар сомонаҳои дастгиришаванда ба таври худкор рад кунад.
-protections-panel-cookie-banner-view-cancel = Бекор кардан
-protections-panel-cookie-banner-view-turn-off = Хомӯш кардан
-protections-panel-cookie-banner-view-turn-on = Фаъол кардан
 protections-panel-cookie-banner-blocker-view-turn-on-description = Фаъол созед, ва «{ -brand-short-name }» кӯшиш мекунад, ки баннерҳои кукиро дар ин сомона ба таври худкор рад кунад.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Бекор кардан

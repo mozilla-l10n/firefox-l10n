@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Dane logowanio
 fxaccounts-sign-in-text = Używej swojich haseł na inkszych maszinach
 fxaccounts-sign-in-sync-button = Wloguj sie do synchrōnizacyje
 fxaccounts-avatar-button =
@@ -16,8 +15,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importuj z inkszyj przeglōndarki…
 about-logins-menu-menuitem-import-from-a-file = Importuj ze zbioru…
-about-logins-menu-menuitem-export-logins = Eksportuj loginy…
-about-logins-menu-menuitem-remove-all-logins = Wymaż wszyske dane logowanio
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Ôpcyje
@@ -29,14 +26,6 @@ about-logins-menu-menuitem-help = Pōmoc
 
 login-list =
     .aria-label = Dane logowanio, co pasujōm do wyszukowanio
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } dane logowanio
-        [few] { $count } dane logowanio
-       *[many] { $count } danych logowanio
-    }
 login-list-sort-label-text = Zortuj podle:
 login-list-name-option = Miano (A-Z)
 login-list-name-reverse-option = Miano (Z-A)
@@ -45,12 +34,8 @@ login-list-username-reverse-option = Miano użytkownika (Z-A)
 about-logins-login-list-alerts-option = Powiadōmiynia
 login-list-last-changed-option = Ôstatnio zmiyniōne
 login-list-last-used-option = Ôstatnio użyte
-login-list-intro-title = Niy szło znojś żodnych danych logowanio
 login-list-intro-description = Jak spamiyntosz hasło we aplikacyji { -brand-product-name }, to ône sie sam pokoże.
-about-logins-login-list-empty-search-title = Niy szło znojś żodnych danych logowanio
 about-logins-login-list-empty-search-description = Wyszukowaniu niy ôdpowiadajōm żodne dane logowanio.
-login-list-item-title-new-login = Nowe dane logowanio
-login-list-item-subtitle-new-login = Wkludź dane logowanio
 login-list-item-subtitle-missing-username = (bez miana ôd używocza)
 about-logins-list-item-breach-icon =
     .title = Serwer, co z niego wyciykły hasła
@@ -65,22 +50,14 @@ about-logins-list-section-week = Ôstatnie 7 dni
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Szukosz za spamiyntanymi danymi logowanio? Załōncz synchrōnizacyjo abo je importnij.
-about-logins-login-intro-heading-logged-in = Niy szło znojś żodnych danych logowanio.
-login-intro-description = Jeźli dane logowanio do aplikacyje { -brand-product-name } były spamiyntane na inkszyj maszinie, idzie je ściōngnōńć takōm metodōm:
-login-intro-instructions-fxa = Zaregistruj abo zaloguj sie do { -fxaccount-brand-name } na maszinie, co na nij sōm spamiyntane dane logowanio
 login-intro-instructions-fxa-settings = Idź do > Sztalōnki > Synchrōnizacyjo > Załōncz synchrōnizacyjo… Ôbier ôkynko danych logowanio i hasłōw.
 login-intro-instructions-fxa-passwords-help = Nawiydź <a data-l10n-name="passwords-help-link">sparcie haseł</a>, kaj je wiyncyj informacyji.
-about-logins-intro-browser-only-import = Jak twoje dane logowanio sōm spamiyntane we inkszyj przeglōndarce, to możesz <a data-l10n-name="import-link">importować je do usugi { -brand-product-name }</a>
-about-logins-intro-import2 = Jak dane logowanio mosz spamiyntane kaj indzij jak we przeglōndarce { -brand-product-name }, możesz <a data-l10n-name="import-browser-link">importnōnć je z inkszyj przeglōndarki</a> abo <a data-l10n-name="import-file-link">ze zbioru</a>
 
 ## Login
 
-login-item-new-login-title = Nowe dane logowanio
 login-item-edit-button = Edytuj
 about-logins-login-item-remove-button = Skasuj
 login-item-origin-label = Adresa ôd serwera
-login-item-tooltip-message = Dej pozōr, coby adres akuratnie sztimowoł z adresym, na kerym sie logujesz.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Miano ôd używocza
@@ -93,7 +70,6 @@ login-item-password-reveal-checkbox =
     .aria-label = Pokoż hasło
 login-item-copy-password-button-text = Kopiuj
 login-item-copied-password-button-text = Skopiowano
-login-item-save-changes-button = Spamiyntej umiany
 login-item-save-new-button = Spamiyntej
 login-item-cancel-button = Pociep
 
@@ -105,11 +81,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Żeby edytować login, wkludź swoje dane logowanio Windows. To suży chrōniyniu twojich kōnt.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = edytować spamiyntane dane logowanio
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Żeby ôbejzdrzeć hasło, wkludź swoje dane logowanio Windows. To suży chrōniyniu twojich kōnt.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -120,11 +91,6 @@ about-logins-copy-password-os-auth-dialog-message-win = Żeby skopiować hasło,
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = skopiować spamiyntane hasło
-# This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Żeby eksportować swoje loginy, wkludź swoje dane logowanio Windows. To suży chrōniyniu twojich kōnt.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = eksportuj spamiyntane dane logowanio i hasła
 
 ## Primary Password notification
 
@@ -138,8 +104,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Pociep
 confirmation-dialog-dismiss-button =
     .title = Pociep
-about-logins-confirm-remove-dialog-title = Skasować te dane logowanio?
-confirm-delete-dialog-message = Tyj akcyje niy idzie cofnōńć.
 about-logins-confirm-remove-dialog-confirm-button = Skasuj
 
 ## Variables
@@ -150,46 +114,9 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] Skasuj
        *[other] Skasuj wszyske
     }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] Ja, skasuj te dane logowanio
-        [one] Ja, skasuj te dane logowanio
-        [few] Ja, skasuj te dane logowanio
-       *[many] Ja, skasuj te dane logowanio
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] Skasować { $count } dane logowanio?
-        [few] Skasować { $count } danych logowanio?
-       *[many] Skasować { $count } danych logowanio?
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] Skasuje to dane logowanio spamiyntane w aplikacyji { -brand-short-name } i wszyske wycieki danych, co sam sōm pokozane. Niy pōdzie cofnōnć tyj akcyje.
-        [one] Skasuje to dane logowanio spamiyntane w aplikacyji { -brand-short-name } i wszyske wycieki danych, co sam sōm pokozane. Niy pōdzie cofnōnć tyj akcyje.
-        [few] Skasuje to dane logowanio spamiyntane w aplikacyji { -brand-short-name } i wszyske wycieki danych, co sam sōm pokozane. Niy pōdzie cofnōnć tyj akcyje.
-       *[many] Skasuje to dane logowanio spamiyntane w aplikacyji { -brand-short-name } i wszyske wycieki danych, co sam sōm pokozane. Niy pōdzie cofnōnć tyj akcyje.
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] Skasować { $count } dane logowanio ze wszyskich maszin?
-        [few] Skasować { $count } dane logowanio ze wszyskich maszin?
-       *[many] Skasować { $count } dane logowanio ze wszyskich maszin?
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [1] Skasuje to wszyske dane logowanio spamiyntane w aplikacyji { -brand-short-name } na wszyskich maszinach synchrōnizowanych ze { -fxaccount-brand-name }. Skasuje to tyż wszyske wycieki danych, co sōm sam pokozane. Niy pōdzie cofnōć tyj akcyje.
-        [one] Skasuje to wszyske dane logowanio spamiyntane w aplikacyji { -brand-short-name } na wszyskich maszinach synchrōnizowanych ze { -fxaccount-brand-name }. Skasuje to tyż wszyske wycieki danych, co sōm sam pokozane. Niy pōdzie cofnōć tyj akcyje.
-        [few] Skasuje to wszyske dane logowanio spamiyntane w aplikacyji { -brand-short-name } na wszyskich maszinach synchrōnizowanych ze { -fxaccount-brand-name }. Skasuje to tyż wszyske wycieki danych, co sōm sam pokozane. Niy pōdzie cofnōć tyj akcyje.
-       *[many] Skasuje to wszyske dane logowanio spamiyntane w aplikacyji { -brand-short-name } na wszyskich maszinach synchrōnizowanych ze { -fxaccount-brand-name }. Skasuje to tyż wszyske wycieki danych, co sōm sam pokozane. Niy pōdzie cofnōć tyj akcyje.
-    }
 
 ##
 
-about-logins-confirm-export-dialog-title = Eksportuj dane logowanio i hasła
-about-logins-confirm-export-dialog-message = Twoje hasła bydōm spamiyntane za czytelny tekst (bp. Złeh@sł0), tōż kożdy, fto bydzie mōg ôtworzić eksportowany zbiōr, bydzie je widzieć.
-about-logins-confirm-export-dialog-confirm-button = Eksportuj…
-about-logins-alert-import-title = Import je skōńczōny
 about-logins-alert-import-message = Pokoż akuratne podsumowanie importu
 confirm-discard-changes-dialog-title = Ôdciepnōńć niyspamiyntane umiany?
 confirm-discard-changes-dialog-message = Wszyjske niyspamiyntane umiany bydōm stracōne.
@@ -225,11 +152,6 @@ about-logins-error-message-default = Doszło do feleru przi prōbie spamiyntanio
 
 ## Login Export Dialog
 
-# Title of the file picker dialog
-about-logins-export-file-picker-title = Eksportuj zbiōr loginōw…
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = loginy.csv
 about-logins-export-file-picker-export-button = Eksportuj
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -241,8 +163,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = Import zbioru z danymi logowanio
 about-logins-import-file-picker-import-button = Importuj
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -264,24 +184,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Import je skōńczōny
-about-logins-import-dialog-items-added =
-    { $count ->
-        [one] <span>Nowe dane logowanio sōm przidane:</span><span data-l10n-name="count">{ $count }</span>
-        [few] <span>Nowe dane logowanio sōm przidane:</span><span data-l10n-name="count">{ $count }</span>
-       *[many] <span>Nowe dane logowanio sōm przidane:</span><span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-        [one] <span>Nowe dane logowanio sōm aktualniynte:</span><span data-l10n-name="count">{ $count }</span>
-        [few] <span>Nowe dane logowanio sōm aktualniynte:</span><span data-l10n-name="count">{ $count }</span>
-       *[many] <span>Nowe dane logowanio sōm aktualniynte:</span><span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-        [one] <span>Znodniynte sōm tuplowane dane logowanio:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(niyzaimportowane)</span>
-        [few] <span>Znodniynte sōm tuplowane dane logowanio:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(niyzaimportowane)</span>
-       *[many] <span>Znodniynte sōm tuplowane dane logowanio:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(niyzaimportowane)</span>
-    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Felery:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(niyzaimportowane)</span>
@@ -303,14 +205,10 @@ about-logins-import-dialog-error-learn-more = Przewiydz sie wiyncyj
 about-logins-import-dialog-error-try-import-again = Sprōbuj importować jeszcze roz…
 about-logins-import-dialog-error-cancel = Pociep
 about-logins-import-report-title = Importuj podsumowanie
-about-logins-import-report-description = Dane logowanio i hasła sōm importniynte do aplikacyje { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Raja { $number }
-about-logins-import-report-row-description-no-change = Stuplowane: Akuratnie pasuje do danych logowanio, co już sōm
-about-logins-import-report-row-description-modified = Dane logowanio sōm zaktualizowane
-about-logins-import-report-row-description-added = Nowe dane logowanio sōm przidane
 about-logins-import-report-row-description-error = Feler: chybio pola
 
 ##
@@ -324,24 +222,6 @@ about-logins-import-report-row-description-error-missing-field = Feler: chybio {
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Nowe dane logowanio sōm przidane</div>
-        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Nowe dane logowanio sōm przidane</div>
-       *[many] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Nowe dane logowanio sōm przidane</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Dane logowanio sōm zaktualizowane</div>
-        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Dane logowanio sōm zaktualizowane</div>
-       *[many] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Dane logowanio sōm zaktualizowane</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Stuplowane dane logowanio</div><div data-l10n-name="not-imported">(niy importniynte)</div>
-        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Stuplowane dane logowanio</div><div data-l10n-name="not-imported">(niy importniynte)</div>
-       *[many] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Stuplowane dane logowanio</div><div data-l10n-name="not-imported">(niy importniynte)</div>
-    }
 about-logins-import-report-error =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Felery</div><div data-l10n-name="not-imported">(niy importniynte)</div>

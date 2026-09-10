@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = 翻譯此頁面
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = 翻譯中
 translations-panel-settings-button =
     .aria-label = 管理翻譯設定
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = 管理語言
-translations-panel-settings-about = 關於 { -brand-shorter-name } 的翻譯功能
 translations-panel-settings-about2 =
     .label = 關於 { -brand-shorter-name } 的翻譯功能
 # Text displayed for the option to always translate a given language
@@ -91,14 +82,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = 抱歉，我們尚未支援翻譯{ $language }。
 translations-panel-error-unsupported-hint-unknown-2 = 抱歉，我們尚未支援翻譯這種語言。
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = 抱歉，我們尚未支援{ $language }。
-translations-panel-error-unsupported-hint-unknown = 抱歉，我們尚未支援此語言。
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -130,10 +113,6 @@ translations-manage-header = 翻譯
 translations-manage-settings-button =
     .label = 設定…
     .accesskey = t
-translations-manage-description = 下載語言檔案，進行離線翻譯。
-translations-manage-all-language = 所有語言
-translations-manage-download-button = 下載
-translations-manage-delete-button = 刪除
 translations-manage-intro-2 = 設定您的語言與網站翻譯偏好設定，或管理已下載的離線翻譯語言檔。
 translations-manage-download-description = 下載語言檔案進行離線翻譯
 translations-manage-language-download-button =
@@ -147,12 +126,11 @@ translations-manage-language-remove-all-button =
     .label = 移除全部
     .accesskey = e
 translations-manage-error-download = 下載語言檔案時發生問題，請再試一次。
-translations-manage-error-delete = 刪除語言檔案時發生錯誤，請再試一次。
 translations-manage-error-remove = 移除語言檔案時發生錯誤，請再試一次。
 translations-manage-error-list = 取得可下載語言清單時發生錯誤，請重新整理頁面後再試一次。
 translations-settings-title =
-    .title = 翻譯設定
     .style = min-width: 36em
+    .title = 翻譯設定
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = 自動翻譯下列語言頁面
@@ -246,16 +224,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = 抱歉，我們尚未支援翻譯{ $language }。
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = 抱歉，我們尚未支援翻譯這種語言。
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = 抱歉，我們尚未支援{ $language }。
-select-translations-panel-unsupported-language-message-unknown =
-    .message = 抱歉，我們尚未支援此語言。
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = 翻譯設定

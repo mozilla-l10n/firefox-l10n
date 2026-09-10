@@ -10,9 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Quiere anyader { $extension }?
 webext-perms-sideload-header = S'ha anyadiu { $extension }
-webext-perms-optional-perms-header = { $extension } demanda permisos adicionals.
 
 ##
 
@@ -45,21 +43,5 @@ webext-perms-host-description-all-urls = Accedir a los datos de totz los puestos
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Accedir a los datos web d'o dominio { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Accedir a los datos en { $domainCount } atro dominion
-       *[other] Accedir a los datos en { $domainCount } atros dominios
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Accedir a los datos de { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Accedir a los datos en { $domainCount } atro dominio
-       *[other] Accedir a los datos en { $domainCount } atros dominios
-    }

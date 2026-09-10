@@ -68,8 +68,6 @@ options-sourceeditor-keybinding-default-label = पूर्वनिर्ध�
 
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = उन्नत सेटिंग
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = जावास्क्रिप्ट अक्षम करू*
 options-disable-javascript-tooltip =
     .title = ई विकल्प केँ बंद कएनाइ जावास्क्रिप्ट केँ निष्क्रिय कए देत मोजुदा टैब कलेल. जँ ओ टैब अथवा अओज़ारपेटी बन्न अछि तँ ई सेटिंग विस्मृत कए देल जाएत.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -82,8 +80,6 @@ options-enable-remote-label = दूरस्थ डिबगिंग सक्
 options-enable-service-workers-http-label = HTTP पर वर्कर सेवा सक्षम करू (जखन औजारपेटी खुलल होए)
 options-enable-service-workers-http-tooltip =
     .title = एहि विकल्प कए सक्रिय करबा स HTTP पर वर्कर सेवा सक्रिय भए जाएत  ओ सभटा टैब क लेल जेकरा मे औजारपेटी खुजल होएत |
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * वर्तमान सत्र केवल, फिनु सँ पृष्ठ लोड करैत अछि
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

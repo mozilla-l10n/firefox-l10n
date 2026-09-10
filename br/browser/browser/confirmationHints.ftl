@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Danevell kaset. Trugarez!
-confirmation-hint-login-removed = Login dilemet!
 confirmation-hint-password-removed = Ger-tremen dilamet!
 confirmation-hint-page-bookmarked = Enrollañ er sinedoù
-confirmation-hint-password-saved = Ger-tremen enrollet!
 confirmation-hint-password-created = Ger-tremen enrollet
 confirmation-hint-password-updated = Ger-tremen hizivaet
 confirmation-hint-address-created = Chomlec'h enrollet

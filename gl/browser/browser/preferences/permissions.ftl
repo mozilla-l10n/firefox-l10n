@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Excepcións
     .style = min-width: 45em
+    .title = Excepcións
 permissions-close-key =
     .key = w
 permissions-address = Enderezo do sitio web
@@ -77,65 +77,50 @@ permissions-invalid-uri-label = Introduza un nome de servidor válido
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Excepcións da protección mellorada contra o rastrexo
     .style = { permissions-window2.style }
+    .title = Excepcións da protección mellorada contra o rastrexo
 permissions-exceptions-manage-etp-desc = Pode indicar que sitios web teñen desactivada a protección mellorada contra o rastrexo. Escriba o enderezo exacto do sitio que queira xestionar e prema «Engadir unha excepción».
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Excepcións - Cookies e datos do sitio
     .style = { permissions-window2.style }
+    .title = Excepcións - Cookies e datos do sitio
 permissions-exceptions-cookie-desc = Pode especificar que sitios web teñen permiso ou non para usar cookies e datos do sitio. Escriba o enderezo exacto do sitio que quere xestionar e prema Bloquear, Permitir nesta sesión ou Permitir.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
+    .style = { permissions-window2.style }
     .title = Excepcións: modo só HTTPS
-    .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Pode desactivar o modo só HTTPS para sitios web específicos. { -brand-short-name } non intentará anovar a conexión a HTTPS seguros para eses sitios. As excepcións non se aplican ás xanelas privadas.
 permissions-exceptions-https-only-desc2 = Podes desactivar o modo só HTTPS para sitios web específicos. { -brand-short-name } non tentará actualizar a conexión a HTTPS seguro neses sitios.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Sitios web permitidos - Xanelas emerxentes
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Pode especificar que sitios web teñen permiso para abrir xanelas emerxentes. Escriba o enderezo exacto do sitio e despois prema Permitir.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Excepcións - Identificacións gardadas
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Non se gardarán as identificacións dos seguintes sitios web
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Excepcións - Contrasinais gardados
     .style = { permissions-window2.style }
+    .title = Excepcións - Contrasinais gardados
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } non gardará os contrasinais dos sitios que aparecen aquí.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Sitios web permitidos - Instalación de complementos
     .style = { permissions-window2.style }
+    .title = Sitios web permitidos - Instalación de complementos
 permissions-exceptions-addons-desc = Pode especificar que sitios web teñen permiso para instalar complementos. Escriba o enderezo exacto do sitio e despois prema Permitir.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Configuración: Reprodución automática
     .style = { permissions-window2.style }
+    .title = Configuración: Reprodución automática
 permissions-site-autoplay-desc = Aquí pode xestionar os sitios que non seguen a súa configuración de reprodución automática predeterminada.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Configuración - Permisos de notificacións
     .style = { permissions-window2.style }
+    .title = Configuración - Permisos de notificacións
 permissions-site-notification-desc = Os seguintes sitios web solicitaron enviarlle notificacións. Pode especificar que sitios teñen permiso para enviarlle notificacións. Tamén pode bloquear novas peticións de envío de notificacións.
 permissions-site-notification-disable-label =
     .label = Bloquear novas peticións de envío de notificacións
@@ -144,8 +129,8 @@ permissions-site-notification-disable-desc = Isto evitará que os sitios web non
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Configuración - Permisos de localización
     .style = { permissions-window2.style }
+    .title = Configuración - Permisos de localización
 permissions-site-location-desc = Os seguintes sitios web solicitaron acceder á súa localización. Pode especificar que sitios teñen permiso para acceder á súa localización. Tamén pode bloquear novas peticións de acceso á localización.
 permissions-site-location-disable-label =
     .label = Bloquear novas peticións de acceso á localización
@@ -154,8 +139,8 @@ permissions-site-location-disable-desc = Isto evitará que os sitios web non lis
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Configuración: Permisos de realidade virtual
     .style = { permissions-window2.style }
+    .title = Configuración: Permisos de realidade virtual
 permissions-site-xr-desc = Os seguintes sitios web solicitaron acceder aos seus dispositivos de realidade virtual. Pode especificar que sitios web están autorizados a acceder aos seus dispositivos de realidade virtual. Tamén pode bloquear novas solicitudes solicitando acceder aos seus dispositivos de realidade virtual.
 permissions-site-xr-disable-label =
     .label = Bloquear novas solicitudes que soliciten acceder aos seus dispositivos de realidade virtual
@@ -164,8 +149,8 @@ permissions-site-xr-disable-desc = Isto evitará que os sitios web non listados 
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Configuración - Permisos da cámara
     .style = { permissions-window2.style }
+    .title = Configuración - Permisos da cámara
 permissions-site-camera-desc = Os seguintes sitios web solicitaron acceder á cámara. Pode especificar que sitios teñen permiso para acceder á cámara. Tamén pode bloquear novas peticións de acceso á cámara.
 permissions-site-camera-disable-label =
     .label = Bloquear novas peticións de acceso á cámara
@@ -174,14 +159,14 @@ permissions-site-camera-disable-desc = Isto evitará que os sitios web non lista
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = Configuración: aplicacións e servizos do dispositivo
     .style = { permissions-window2.style }
+    .title = Configuración: aplicacións e servizos do dispositivo
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Configuración - Permisos do micrófono
     .style = { permissions-window2.style }
+    .title = Configuración - Permisos do micrófono
 permissions-site-microphone-desc = Os seguintes sitios web solicitaron acceder ao micrófono. Pode especificar que sitios teñen permiso para acceder ao micrófono. Tamén pode bloquear novas peticións de acceso ao micrófono.
 permissions-site-microphone-disable-label =
     .label = Bloquear novas solicitudes de acceso ao micrófono
@@ -192,12 +177,12 @@ permissions-site-microphone-disable-desc = Isto evitará que os sitios web non l
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Configuración - Permisos de altofalantes
     .style = { permissions-window2.style }
+    .title = Configuración - Permisos de altofalantes
 permissions-site-speaker-desc = Os seguintes sitios web solicitaron seleccionar un dispositivo de saída de son. Podes indicar que sitios web teñen permiso para seleccionar un dispositivo de saída de son.
 permissions-exceptions-doh-window =
-    .title = Excepcións de sitios web para DNS sobre HTTPS
     .style = { permissions-window2.style }
+    .title = Excepcións de sitios web para DNS sobre HTTPS
 permissions-exceptions-manage-doh-desc = { -brand-short-name } non usará DNS seguro nestes sitios e nos seus subdominios.
 permissions-doh-entry-field = Introduza o nome de dominio do sitio web
     .accesskey = I

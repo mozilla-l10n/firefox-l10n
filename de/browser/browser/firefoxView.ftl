@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Kürzliches Surfen über Fenster und Geräte hinweg ansehen
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Schließen
-    .aria-label = Schließen
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Gerade eben
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Synchronisierte Tabs
-firefoxview-tabpickup-description = Öffnen Sie Seiten von anderen Geräten.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% abgeschlossen
-firefoxview-tabpickup-step-signin-header = Nahtlos zwischen Geräten wechseln
-firefoxview-tabpickup-step-signin-description = Um Ihre Tabs vom Telefon hier abzurufen, melden Sie sich zuerst an oder erstellen Sie ein Konto.
-firefoxview-tabpickup-step-signin-primarybutton = Weiter
 firefoxview-syncedtabs-signin-header-2 = Ihr { -brand-product-name } auf all Ihren Geräten
 firefoxview-syncedtabs-signin-description-2 = Melden Sie sich an oder erstellen Sie ein Konto, um Tabs zu sehen, die Sie auf Ihrem Telefon und anderen Geräten geöffnet haben. Mit einem Konto können Sie auch Ihre Passwörter, Chronik und mehr synchronisieren.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Nahtlos vom Laptop zum Telefon
 firefoxview-syncedtabs-signin-description-3 = Halten Sie Ihr Surfen über Geräte hinweg verbunden – Tabs, Passwörter und Chronik, alles durch Synchronisation.
 firefoxview-syncedtabs-signin-primarybutton-2 = Anmelden
-firefoxview-tabpickup-adddevice-header = Synchronisieren Sie { -brand-product-name } auf Ihrem Telefon oder Tablet
-firefoxview-tabpickup-adddevice-description = Laden Sie { -brand-product-name } für Mobilgeräte herunter und melden Sie sich dort an.
-firefoxview-tabpickup-adddevice-learn-how = Erfahren Sie, wie es geht
-firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } für Mobilgeräte holen
 firefoxview-syncedtabs-adddevice-header-2 = Holen Sie sich Tabs von überall
 firefoxview-syncedtabs-adddevice-description-2 = Melden Sie sich bei { -brand-product-name } auf Ihrem Handy oder einem anderen Computer an, um hier Tabs anzuzeigen. Erfahren Sie, wie Sie <a data-l10n-name="url">weitere Geräte verbinden</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = { -brand-product-name } für Mobilgeräte ausprobieren
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Ihre Tabs aufgerufen. Sie sind auf Ihrem Telefon.
 firefoxview-syncedtabs-adddevice-description-3 = Scannen Sie den QR-Code, um sich { -brand-product-name } für Mobilgeräte zu holen und Ihre offenen Tabs und mehr zu synchronisieren. Erfahren Sie, wie Sie <a data-l10n-name="url">weitere Geräte verbinden</a>.
-firefoxview-tabpickup-synctabs-header = Tab-Synchronisation aktivieren
-firefoxview-tabpickup-synctabs-description = Erlauben Sie { -brand-short-name }, Tabs zwischen Geräten zu teilen.
-firefoxview-tabpickup-synctabs-learn-how = Erfahren Sie, wie es geht
 firefoxview-tabpickup-synctabs-primarybutton = Offene Tabs synchronisieren
 firefoxview-tabpickup-synctabs-primarybutton-2 = Tab-Synchronisation aktivieren
 firefoxview-syncedtabs-synctabs-header = Synchronisationseinstellungen aktualisieren
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Wenn es abgeschlossen ist, sehen Si
 firefoxview-syncedtabs-loading-header-2 = Ihre Tabs abholen…
 firefoxview-syncedtabs-loading-description-2 = Synchronisation läuft. Tabs werden bald hier sein.
 firefoxview-tabpickup-fxa-admin-disabled-header = Ihre Organisation hat das Synchronisieren deaktiviert
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kann Tabs nicht zwischen Geräten synchronisieren, da Ihr Administrator das Synchronisieren deaktiviert hat.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } kann Tabs nicht zwischen Geräten synchronisieren, da Ihre Organisation das Synchronisieren deaktiviert hat.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Tab-Synchronisation ist deaktiviert
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Ihre Organisation hat diese Funktion blockiert.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Entsperren Sie Tabs mit Ihrem Hauptpasswort
 firefoxview-tabpickup-password-locked-description-2 = Für Ihre Privatsphäre werden synchronisierte Tabs geschützt. Geben Sie Ihr { -brand-short-name }-Hauptpasswort ein, um Tabs auf Ihren anderen Geräten anzuzeigen.
 firefoxview-tabpickup-signed-out-header = Melden Sie sich an, um die Verbindung wiederherzustellen
-firefoxview-tabpickup-signed-out-description = Um die Verbindung wiederherzustellen und Ihre Tabs abzurufen, melden Sie sich bei Ihrem { -fxaccount-brand-name } an.
 firefoxview-tabpickup-signed-out-description2 = Um die Verbindung wiederherzustellen und Ihre Tabs abzurufen, melden Sie sich bei Ihrem Konto an.
 firefoxview-tabpickup-signed-out-primarybutton = Anmelden
 firefoxview-tabpickup-signed-out-header-2 = Melden Sie sich an, um Ihre Tabs zu sehen
 firefoxview-tabpickup-signed-out-description-2 = Stellen Sie die Verbindung wieder her, um Tabs von anderen Geräten anzuzeigen.
-firefoxview-tabpickup-syncing = Warten Sie, während Ihre Tabs synchronisiert werden. Es wird nur einen Moment dauern.
-firefoxview-mobile-promo-header = Holen Sie sich Tabs von Ihrem Telefon oder Tablet
-firefoxview-mobile-promo-description = Um Ihre neuesten mobilen Tabs anzuzeigen, melden Sie sich auf iOS oder Android bei { -brand-product-name } an.
-firefoxview-mobile-promo-primarybutton = { -brand-product-name } für Mobilgeräte holen
-firefoxview-mobile-confirmation-header = 🎉 Alles startklar!
-firefoxview-mobile-confirmation-description = Jetzt können Sie Ihre { -brand-product-name }-Tabs von Ihrem Tablet oder Telefon holen.
-firefoxview-closed-tabs-title = Kürzlich geschlossen
-firefoxview-closed-tabs-description2 = Öffnen Sie Seiten erneut, die Sie in diesem Fenster geschlossen haben.
-firefoxview-closed-tabs-placeholder-header = Keine kürzlich geschlossenen Tabs
-firefoxview-closed-tabs-placeholder-body = Wenn Sie einen Tab in diesem Fenster schließen, können Sie ihn von hier abrufen.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = { $tabTitle } schließen
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Zuletzt aktiv
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = { $targetURI } in einem neuen Tab öffnen
-firefoxview-try-colorways-button = Farbwelten ausprobieren
-firefoxview-change-colorway-button = Farbwelt ändern
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Noch nichts zu sehen
-firefoxview-synced-tabs-placeholder-body = Wenn Sie das nächste Mal eine Seite in { -brand-product-name } auf einem anderen Gerät öffnen, greifen Sie hier wie von Zauberhand darauf zu.
 firefoxview-collapse-button-show =
     .title = Liste anzeigen
 firefoxview-collapse-button-hide =

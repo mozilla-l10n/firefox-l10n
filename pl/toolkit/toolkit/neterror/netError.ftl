@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Wróć do poprzedniej strony
 neterror-return-to-previous-page-recommended-button = Wróć do poprzedniej strony (zalecane)
 neterror-try-again-button-2 = Spróbuj ponownie
     .accesskey = S
-neterror-try-again-button = Spróbuj ponownie
 neterror-add-exception-button = Zawsze kontynuuj na tej witrynie
 neterror-settings-button = Zmień ustawienia DNS
 neterror-view-certificate-link = Wyświetl certyfikat
-neterror-trr-continue-this-time = Kontynuuj tym razem
-neterror-disable-native-feedback-warning = Zawsze kontynuuj
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = Więcej informacji
 ##
 
 neterror-pref-reset = Może to być spowodowane zmienionymi ustawieniami przeglądarki dotyczącymi bezpieczeństwa sieci. Czy przywrócić domyślne ustawienia?
-neterror-error-reporting-automatic = Automatyczne zgłaszanie podobnych temu błędów (pomaga { -vendor-short-name(case: "dat") } identyfikować i blokować niebezpieczne strony)
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Rozłącz się z sieci Wi-Fi i�
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } nie może ochronić zapytania o adres tej witryny za pomocą naszego zaufanego serwera DNS, ponieważ:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } nie może ochronić zapytania o adres tej witryny za pomocą naszego dostawcy zabezpieczonego serwera DNS, ponieważ:
 neterror-dns-not-found-trr-third-party-warning2 = Możesz dalej korzystać z domyślnego serwera DNS, ale osoby trzecie będą mogły podejrzeć, jakie witryny otwierasz.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } nie mógł połączyć się z serwerem { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Łączenie z serwerem { $trrDomain } trwało dłużej, niż powinno.
-neterror-dns-not-found-trr-offline = Nie ma połączenia z Internetem.
 neterror-dns-not-found-trr-unknown-host2 = Serwer { $trrDomain } nie odnalazł tej witryny.
 neterror-dns-not-found-trr-server-problem = Wystąpił problem z serwerem { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = Nieprawidłowy adres URL.
 neterror-dns-not-found-system-sleep = System jest w trybie uśpienia.
 neterror-dns-not-found-trr-unknown-problem = Nieoczekiwany problem.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } nie może ochronić zapytania o adres tej witryny za pomocą naszego zaufanego serwera DNS, ponieważ:
-neterror-dns-not-found-native-fallback-heuristic = Obsługa DNS poprzez HTTPS została wyłączona w Twojej sieci.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } nie mógł połączyć się z serwerem { $trrDomain }.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = Plik mógł zostać usunięty, przeniesiony lub jego up
 neterror-unknown-protocol = Aby otworzyć ten adres, może być konieczna instalacja innego programu.
 neterror-redirect-loop = Problem ten może się pojawić w wyniku zablokowania lub odrzucenia ciasteczek.
 neterror-unknown-socket-type-client-config = Może to być spowodowane błędem konfiguracji klienta.
-neterror-unknown-socket-type-psm-installed = Należy sprawdzić, czy zainstalowany jest menedżer zabezpieczeń (PSM).
-neterror-unknown-socket-type-server-config = Powodem tego błędu może też być niestandardowa konfiguracja serwera.
 neterror-not-cached-intro = Żądany dokument nie jest dostępny w pamięci podręcznej { -brand-short-name(case: "gen") }.
 neterror-not-cached-sensitive = Ze względów bezpieczeństwa, { -brand-short-name } automatycznie nie pobiera ponownie prywatnych dokumentów.
 neterror-not-cached-try-again = Kliknij przycisk „Spróbuj ponownie”, aby jeszcze raz pobrać dokument z witryny.

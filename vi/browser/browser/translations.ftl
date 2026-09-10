@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Dịch trang này
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Đang dịch trang
 translations-panel-settings-button =
     .aria-label = Quản lý cài đặt dịch
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Quản lý ngôn ngữ
-translations-panel-settings-about = Về bản dịch trong { -brand-shorter-name }
 translations-panel-settings-about2 =
     .label = Về bản dịch trong { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
@@ -91,14 +82,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = Rất tiếc, hiện tại chúng tôi chưa hỗ trợ dịch từ { $language }.
 translations-panel-error-unsupported-hint-unknown-2 = Rất tiếc, hiện tại chúng tôi chưa hỗ trợ dịch từ ngôn ngữ này.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Xin lỗi, chúng tôi chưa hỗ trợ { $language }.
-translations-panel-error-unsupported-hint-unknown = Xin lỗi, chúng tôi chưa hỗ trợ ngôn ngữ này.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -130,10 +113,6 @@ translations-manage-header = Dịch
 translations-manage-settings-button =
     .label = Cài đặt…
     .accesskey = t
-translations-manage-description = Tải xuống ngôn ngữ để dịch ngoại tuyến.
-translations-manage-all-language = Tất cả ngôn ngữ
-translations-manage-download-button = Tải xuống
-translations-manage-delete-button = Xóa
 translations-manage-intro-2 = Đặt tùy chọn ngôn ngữ và bản dịch trang web của bạn, đồng thời quản lý các ngôn ngữ được tải xuống để dịch ngoại tuyến.
 translations-manage-download-description = Tải xuống ngôn ngữ để dịch ngoại tuyến
 translations-manage-language-download-button =
@@ -147,12 +126,11 @@ translations-manage-language-remove-all-button =
     .label = Xóa tất cả
     .accesskey = e
 translations-manage-error-download = Đã xảy ra sự cố khi tải xuống tập tin ngôn ngữ. Hãy thử lại.
-translations-manage-error-delete = Đã xảy ra sự cố khi xóa tập tin ngôn ngữ. Hãy thử lại.
 translations-manage-error-remove = Đã xảy ra lỗi khi xóa tập tin ngôn ngữ. Vui lòng thử lại.
 translations-manage-error-list = Không tải được danh sách các ngôn ngữ có sẵn để dịch. Làm mới trang để thử lại.
 translations-settings-title =
-    .title = Cài đặt dịch
     .style = min-width: 36em
+    .title = Cài đặt dịch
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Bản dịch sẽ được tự động thực hiện cho các ngôn ngữ sau
@@ -246,16 +224,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = Rất tiếc, hiện tại chúng tôi chưa hỗ trợ dịch từ { $language }.
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = Rất tiếc, hiện tại chúng tôi chưa hỗ trợ dịch từ ngôn ngữ này.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Xin lỗi, chúng tôi chưa hỗ trợ { $language }.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Xin lỗi, chúng tôi chưa hỗ trợ ngôn ngữ này.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Cài đặt dịch

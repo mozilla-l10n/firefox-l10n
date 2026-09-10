@@ -8,8 +8,8 @@
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Vai na pàggina nn’arrè ({ $shortcut })
     .aria-label = Nn’arrè
+    .tooltiptext = Vai na pàggina nn’arrè ({ $shortcut })
     .accesskey = a
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -25,8 +25,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Vai avanti di na pàggina ({ $shortcut })
     .aria-label = Avanti
+    .tooltiptext = Vai avanti di na pàggina ({ $shortcut })
     .accesskey = A
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -92,9 +92,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = Sarba a lijami comu…
     .accesskey = j
-main-context-menu-save-link-to-pocket =
-    .label = Sarba a lijami nne { -pocket-brand-name }
-    .accesskey = S
 
 ##
 

@@ -18,14 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Máte neodoslané hlásenie o páde
-        [few] Máte { $reportCount } neodoslané hlásenia o páde
-       *[other] Máte { $reportCount } neodoslaných hlásení o páde
-    }
 pending-crash-reports-view-all =
     .label = Zobraziť
 pending-crash-reports-send =
@@ -40,15 +32,6 @@ requested-crash-reports-message-new =
         [few] Máte { $reportCount } neodoslaných hlásení o zlyhaniach súvisiacich s vyšetrovanými zlyhaniami. Ich odoslaním nám pomôžete vylepšiť { -brand-product-name }. Zatvorením tohto upozornenia sa tieto hlásenia ignorujú.
         [many] Máte { $reportCount } neodoslaných hlásení o zlyhaniach súvisiacich s vyšetrovanými zlyhaniami. Ich odoslaním nám pomôžete vylepšiť { -brand-product-name }. Zatvorením tohto upozornenia sa tieto hlásenia ignorujú.
        *[other] Máte { $reportCount } neodoslaných hlásení o zlyhaniach súvisiacich s vyšetrovanými zlyhaniami. Ich odoslaním nám pomôžete vylepšiť { -brand-product-name }. Zatvorením tohto upozornenia sa tieto hlásenia ignorujú.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Máte { $reportCount } neodoslanú správu o zlyhaní, ktorá zodpovedá vyšetrovaným zlyhaniam. Odoslanie nám pomôže zlepšiť { -brand-product-name }. Zatvorením tohto upozornenia bude táto správa ignorované.
-        [few] Máte { $reportCount } neodoslané správy o zlyhaní, ktoré zodpovedajú vyšetrovaným zlyhaniam. Odoslanie nám pomôže zlepšiť { -brand-product-name }. Zatvorením tohto upozornenia budú tieto správy ignorované.
-        [many] Máte { $reportCount } neodoslaných správ o zlyhaní, ktoré zodpovedajú vyšetrovaným zlyhaniam. Odoslanie nám pomôže zlepšiť { -brand-product-name }. Zatvorením tohto upozornenia budú tieto správy ignorované.
-       *[other] Máte { $reportCount } neodoslaných správ o zlyhaní, ktoré zodpovedajú vyšetrovaným zlyhaniam. Odoslanie nám pomôže zlepšiť { -brand-product-name }. Zatvorením tohto upozornenia budú tieto správy ignorované.
     }
 requested-crash-reports-dont-show-again =
     .label = Nabudúce nezobrazovať

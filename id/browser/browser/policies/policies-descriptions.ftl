@@ -44,7 +44,6 @@ policy-DisableDefaultBrowserAgent = Cegah agen bawaan peramban untuk melakukan t
 policy-DisableDeveloperTools = Blokir akses ke alat pengembang.
 policy-DisableEncryptedClientHello = Nonaktifkan penggunaan fitur TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Nonaktifkan perintah untuk mengirim umpan balik dari menu Bantuan (Kirim Saran dan Laporkan Situs Tipuan).
-policy-DisableFirefoxAccounts = Nonaktifkan layanan berbasis { -fxaccount-brand-name }, termasuk Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Nonaktifkan layanan berbasis akun, termasuk sinkronisasi.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -54,7 +53,6 @@ policy-DisableForgetButton = Cegah akses ke tombol Lupakan.
 policy-DisableFormHistory = Jangan ingat riwayat pencarian dan formulir.
 policy-DisablePrimaryPasswordCreation = Jika ya, Sandi Utama tidak bisa dibuat.
 policy-DisablePasswordReveal = Jangan izinkan untuk menampilkan kata sandi dalam info masuk tersimpan.
-policy-DisablePocket2 = Nonaktifkan fitur untuk menyimpan laman web ke { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Nonaktifkan Penjelajahan Pribadi.
 policy-DisableProfileImport = Nonaktifkan perintah menu untuk mengimpor data dari peramban lainnya.
 policy-DisableProfileRefresh = Nonaktifkan tombol Segarkan { -brand-short-name } di laman about:support.
@@ -126,7 +124,6 @@ policy-PDFjs = Nonaktifkan atau atur konfigurasi PDF.js, penampil PDF bawaan di 
 policy-Permissions2 = Atur izin untuk kamera, mikrofon, lokasi, notifikasi, dan putar-otomatis.
 policy-PictureInPicture = Aktifkan atau nonaktifkan Picture-in-Picture.
 policy-PopupBlocking2 = Izinkan situs web tertentu untuk menampilkan popup dan dialihkan oleh bingkai pihak ketiga.
-policy-PopupBlocking = Izinkan situs tertentu untuk menampilkan pop-up secara otomatis.
 policy-Preferences = Tetapkan dan kunci nilai untuk subset preferensi.
 policy-PrivateBrowsingModeAvailability = Setel ketersediaan mode penjelajahan pribadi.
 policy-PromptForDownloadLocation = Tanyakan di mana berkas disimpan saat mengunduh.

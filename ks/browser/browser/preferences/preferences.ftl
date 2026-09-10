@@ -3,20 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pane-general-title = عام
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-search-title2 = ژھآنڈیو
     .title = ژھآنڈیو
-pane-search-title = ژھآنڈیو
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 close-button =
     .aria-label = بند
 
@@ -28,12 +18,8 @@ should-restart-title = { -brand-short-name }  كریو وئن شروع
 
 ## General Section
 
-startup-header = شروعات
-is-default = برینڈ لكُٹ ناو چھُ حالس تُہند ڈیفالٹ براوزر
-is-not-default = برانڈ شاٹ ناو چھُ حالس تُہند ڈیفالٹ براوزر&
 tabs-group-header2 =
     .label = ٹیبس
-tabs-group-header = ٹیبس
 show-tabs-in-taskbar =
     .label = ٹیب پیْ منظر ہٲویو وِندوز تاسك بارس منز
     .accesskey = k
@@ -42,19 +28,10 @@ startup-group =
 
 ## General Section - Language & Appearance
 
-advanced-fonts =
-    .label = ایڈوانسڈ...
-    .accesskey = A
 choose-language-description = پن۪ین پسندیدئ زبان ژٲریو صفحئ ہاونئ خٲطرئ
 choose-button =
     .label = ژٲریو...
     .accesskey = o
-translate-web-pages =
-    .label = ویب کنٹینٹس کْریو ترجُم&
-    .accesskey = T
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = ترجُم بذریعہ <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = غٲر مومول
     .accesskey = x
@@ -65,20 +42,6 @@ download-save-files-header =
     .label = فایل كریو محفوظ
 download-save-where-3 =
     .aria-label = فایل كریو محفوظ
-download-header = ڈاونلوڈس
-download-save-where = فایل كریو محفوظ
-    .accesskey = v
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] ژٲریو
-           *[other] براوز
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] o
-        }
 applications-type-column =
     .label = مواد قئسم
     .accesskey = T
@@ -111,17 +74,11 @@ applications-always-ask =
 #   $type-description (string) - Description of the type (e.g "Portable Document Format")
 #   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = كریو استیمال { $plugin-name } (in { -brand-short-name })
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -133,12 +90,6 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-## Firefox updates
-
-update-application-use-service =
-    .label = پس۪ی منظر خدمت كریو استیمال اپڈیٹس اِنسٹال كرنئ خٲطرئ
-    .accesskey = b
-
 ## General Section - Performance
 
 performance-allow-hw-accel =
@@ -147,7 +98,6 @@ performance-allow-hw-accel =
 
 ## Accessibility page
 
-browsing-title = براوزِنگ
 browsing-use-autoscroll =
     .label = آٹو سكرالینگ كریو استیمال
     .accesskey = a
@@ -159,12 +109,6 @@ browsing-use-cursor-navigation =
     .accesskey = c
 browsing-group =
     .label = براوزِنگ
-
-## General Section - Proxy
-
-network-proxy-connection-settings =
-    .label = سیٹینگس
-    .accesskey = e
 
 ## Custom Homepage subpage
 
@@ -185,10 +129,6 @@ choose-bookmark =
 
 ## Search Section
 
-search-engine-default-header = ڈیفالٹْہ تلاش اِنجن
-search-suggestions-option =
-    .label = فراہم کْریو تلاش صلاح &
-    .accesskey = s
 search-choose-engine-column =
     .label = ژھانڈ  اِ نجن
 search-choose-keyword-column =
@@ -227,12 +167,6 @@ sync-engine-history =
     .label = تٲریخ
     .accesskey = r
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = تصدیق آیہ سوزنْہ
-sync-verification-not-sent-title = ہیوک نْہ سوزِتھ تصدیق
-
 ## Privacy Panel Settings
 
 forms-exceptions =
@@ -248,17 +182,9 @@ forms-master-pw-fips-desc = خفیہ لفظ   تبدیلی گئی ناكام
 
 ## Privacy Section - History
 
-history-header = تٲریخ
-history-remember-option-all =
-    .label = تٲریخ تھٲویو یاد
-history-remember-option-never =
-    .label = تٲریخ مئ  تھٲویو زَہ۪ین  یاد
-history-remember-option-custom =
-    .label = كسٹم سیٹینگس كریو استیمال تٲریخ خٲطرئ
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = &برانڈ شاٹ ناو؛ کرِ استعمال تِمے سیٹینگ یم ذن پرایویٹ براوزینگ چھ، تْہ تھأوِ نْہ یاد کانہہ ہسٹری یوتُھی توہیہ براوُز کْریو ویب۔
-history-dontremember-description = &برانڈ شاٹ ناو؛ کرِ استعمال تِمے سیٹینگ یم ذن پرایویٹ براوزینگ چھ، تْہ تھأوِ نْہ یاد کانہہ ہسٹری یوتُھی توہیہ براوُز کْریو ویب۔
 history-private-browsing-permanent =
     .label = ہمیشئ كریو پوشیدئ براوزینگ موڈ
     .accesskey = p
@@ -285,25 +211,11 @@ addressbar-locbar-openpage-option =
     .label = ٹیب  كھولیو
     .accesskey = ٹ
 
-## Privacy Section - Permissions
-
-permissions-block-popups =
-    .label = پاپ اپ وِنڈوز كریو بند
-    .accesskey = B
-permissions-addon-exceptions =
-    .label = غٲر مومول...
-    .accesskey = E
-
 ## Privacy Section - Certificates
 
-certs-header = سرٹیفیکٹس
-certs-enable-ocsp =
-    .label = کیوری او سی ایس پی ریسپانڈر سْرور تصدیق کرنْہ باپت موجود ویلیڈیٹی سرٹیفیکٹن ہْنز
-    .accesskey = ک
 certs-devices-enable-fips = FIPS  بنٲویو ممكن
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ڈیسك ٹاپ
 downloads-folder-name = ڈاونلوڈس
-choose-download-folder-title = ڈاونلوڈس فولڈر ژٲریو

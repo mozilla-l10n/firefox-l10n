@@ -4,14 +4,6 @@
 
 about-reader-loading = იტვირთება…
 about-reader-load-error = გვერდიდან სტატიის ჩატვირთვა ვერ მოხერხდა
-about-reader-color-scheme-light = ნათელი
-    .title = ნათელი ფერები
-about-reader-color-scheme-dark = მუქი
-    .title = მუქი ფერები
-about-reader-color-scheme-sepia = სეპია
-    .title = მოყავისფრო ფერები
-about-reader-color-scheme-auto = ავტომატური
-    .title = ფერთა თვითშერჩევა
 about-reader-color-light-theme = ნათელი
     .title = ნათელი იერსახე
 about-reader-color-dark-theme = მუქი
@@ -24,16 +16,6 @@ about-reader-color-gray-theme = რუხი
     .title = მონაცრისფრო იერსახე
 about-reader-color-contrast-theme = მკვეთრი
     .title = იერსახე მკვეთრი ფერებით
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time =
-    { $rangePlural ->
-        [one] { $range } წუთი
-       *[other] { $range } წუთი
-    }
 
 ## Reader View text and layout menu
 
@@ -41,14 +23,6 @@ about-reader-toolbar-minus =
     .title = ნაწერის დაპატარავება
 about-reader-toolbar-plus =
     .title = ნაწერის გადიდება
-about-reader-toolbar-contentwidthminus =
-    .title = სიგანის შემცირება
-about-reader-toolbar-contentwidthplus =
-    .title = სიგანის გაზრდა
-about-reader-toolbar-lineheightminus =
-    .title = ხაზებს შორის დაშორების შემცირება
-about-reader-toolbar-lineheightplus =
-    .title = ხაზებს შორის დაშორების გაზრდა
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -59,7 +33,6 @@ about-reader-font-type-monospace = თანაბარსიგანიან
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = კითხვის რეჟიმის დახურვა
-about-reader-toolbar-type-controls = შრიფტის მახასიათებლები
 about-reader-toolbar-text-layout-controls = ნაწერი და განლაგება
 about-reader-toolbar-theme-controls = იერსახე
 about-reader-toolbar-savetopocket = შეინახავს { -pocket-brand-name }

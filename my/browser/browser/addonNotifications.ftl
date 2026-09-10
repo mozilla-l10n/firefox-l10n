@@ -9,13 +9,6 @@ xpinstall-prompt = သင့်ကွန်ပျူတာတွင် ဆော
 xpinstall-prompt-dont-allow =
     .label = ခွင့်မပြုပါနှင့်
     .accesskey = D
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = ဆော့ဖ်ဝဲထည့်သွင်းခြင်းကို စနစ်စီမံကြီးကြပ်သူက ပိတ်ထားသည်။
 xpinstall-disabled = ဆော့ဖ်ဝဲထည့်သွင်းမှုကို ယခုခွင့်မပြုထားပါ။ အကယ်လို့များ ထည့်သွင်းလိုပါက လုပ်ဆောင်နိုင်စေမည် ကို နှိပ်ပြီး တစ်ခါဆောင်ရွက်ကြည့်ပါ။
 xpinstall-disabled-button =
     .label = လုပ်ဆောင်နိုင်စေမည်။
@@ -29,9 +22,6 @@ webext-perms-update-menu-item = { $addonName } သည် ခွင့်ပြ�
 
 ## Add-on removal warning
 
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = { -brand-shorter-name }မှ { $name } ကို ပယ်ဖျက်ချင်ပါသလား?
 addon-removal-button = ပယ်ဖျက်ပါ
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
@@ -69,4 +59,3 @@ addon-local-install-error-not-signed = ဤအတ်အွန်ကို တပ�
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } အား  { -brand-short-name } { $appVersion } နှင့်ကိုက်ညီခြင်း မရှိသဖြင့် တပ်ဆင်မရနိုင်ပါ။
-addon-install-error-blocklisted = { $addonName } အား တည်ငြိမ်မှုနှင့် လုံခြုံရေးပြသာနာများ အရ တပ်ဆင်ခြင်း မပြုနိုင်ပါ

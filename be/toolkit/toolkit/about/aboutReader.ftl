@@ -4,14 +4,6 @@
 
 about-reader-loading = Загрузка…
 about-reader-load-error = Не ўдалося загрузіць артыкул са старонкі
-about-reader-color-scheme-light = Светлы
-    .title = Колеравая схема Светлая
-about-reader-color-scheme-dark = Цёмны
-    .title = Колеравая схема Цёмная
-about-reader-color-scheme-sepia = Сэпія
-    .title = Колеравая схема Сэпія
-about-reader-color-scheme-auto = Аўта
-    .title = Аўтаматычная колеравая схема
 about-reader-color-light-theme = Светлая
     .title = Светлая тэма
 about-reader-color-dark-theme = Цёмная
@@ -24,17 +16,6 @@ about-reader-color-gray-theme = Шэрая
     .title = Шэрая тэма
 about-reader-color-contrast-theme = Кантрасная
     .title = Кантрасная тэма
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time =
-    { $rangePlural ->
-        [one] { $range } хвіліна
-        [few] { $range } хвіліны
-       *[many] { $range } хвілін
-    }
 
 ## Reader View text and layout menu
 
@@ -42,14 +23,6 @@ about-reader-toolbar-minus =
     .title = Паменшыць памер шрыфту
 about-reader-toolbar-plus =
     .title = Павялічыць памер шрыфту
-about-reader-toolbar-contentwidthminus =
-    .title = Паменшыць шырыню змесціва
-about-reader-toolbar-contentwidthplus =
-    .title = Павялічыць шырыню змесціва
-about-reader-toolbar-lineheightminus =
-    .title = Паменшыць вышыню радкоў
-about-reader-toolbar-lineheightplus =
-    .title = Павялічыць вышыню радкоў
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -60,7 +33,6 @@ about-reader-font-type-monospace = Роўнашырокі
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Закрыць Рэжым чытання
-about-reader-toolbar-type-controls = Налады шрыфтоў
 about-reader-toolbar-text-layout-controls = Тэкст і выклад
 about-reader-toolbar-theme-controls = Тэма
 about-reader-toolbar-savetopocket = Захаваць у { -pocket-brand-name }

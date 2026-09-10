@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Connection Settins
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Connection Settins
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -58,14 +58,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Reload
     .accesskey = e
-connection-proxy-autologin =
-    .label = Dinnae speir fur authentication if passwird is saved
-    .accesskey = i
-    .tooltip = This option silently authenticates ye tae proxies when ye hae saved credentials fur them. Ye'll be promptit if authentication misgaes.
 connection-proxy-autologin-checkbox =
     .label = Dinnae speir fur authentication if passwird is saved
-    .accesskey = i
     .tooltiptext = This option silently authenticates ye tae proxies when ye hae saved credentials fur them. Ye'll be promptit if authentication misgaes.
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = Proxy DNS when yaisin SOCKS v5
     .accesskey = D
@@ -76,6 +72,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Yaise the staunart URL fur dealin wi DNS ower HTTPS
 connection-dns-over-https-url-custom =
     .label = Custom
-    .accesskey = C
     .tooltiptext = Inpit yer preferred URL fur dealin wi DNS ower HTTPS
-connection-dns-over-https-custom-label = Custom
+    .accesskey = C

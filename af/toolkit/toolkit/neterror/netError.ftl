@@ -15,12 +15,10 @@ neterror-learn-more-link = Meer inligting…
 neterror-open-portal-login-page-button = Open die netwerk se aanmeldbladF
 neterror-pref-reset-button = Herstel verstekinstellings
 neterror-return-to-previous-page-button = Gaan terug
-neterror-try-again-button = Probeer weer
 
 ##
 
 neterror-pref-reset = Dit lyk of u instellings vir netwerksekuriteit dit dalk veroorsaak. Wil u die verstekinstellings herstel?
-neterror-error-reporting-automatic = Rapporteer foute soos dié om { -vendor-short-name } te help om kwaadwillige werwe te identifiseer en te blok
 
 ## Specific error messages
 
@@ -37,8 +35,6 @@ neterror-file-not-found-moved = Kontroleer of die lêer verskuif, hernoem of ges
 neterror-access-denied = Dit is moontlik verwyder, geskuif, of dalk verbied lêertoegangsregte toegang.
 neterror-unknown-protocol = Dalk moet u ander sagteware installeer om hierdie adres te open.
 neterror-redirect-loop = Hierdie probleem kan soms veroorsaak word deur koekies te deaktiveer of te weier om koekies te aanvaar.
-neterror-unknown-socket-type-psm-installed = Kontroleer of die persoonlike sekuriteitbestuurder op u rekenaar geïnstalleer is.
-neterror-unknown-socket-type-server-config = Dit kan wees vanweë 'n niestandaard-opstelling op die bediener.
 neterror-not-cached-intro = Die aangevraagde dokument is nie beskikbaar in { -brand-short-name } se kas nie.
 neterror-not-cached-sensitive = As 'n sekuriteitsmaatreël vra { -brand-short-name } nie outomaties weer vir sensitiewe dokumente nie.
 neterror-not-cached-try-again = Klik Probeer weer om die dokument weer van die webwerf aan te vra.

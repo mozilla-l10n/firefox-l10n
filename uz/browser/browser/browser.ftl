@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Maxfiy koʻrish
@@ -43,8 +38,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Xabarlarni oflayn saqlash panelini ochish
 urlbar-password-notification-anchor =
     .tooltiptext = Parolni saqlash xabari panelini ochish
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Plaginlarni boshqarishdan foydalanilmoqda
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Kamera yoki mikrofonni sayt bilan bo‘lishishni boshqarish
 urlbar-autoplay-notification-anchor =
@@ -53,14 +46,7 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Ma’lumotlarni doimiy xotiraga saqlash
 urlbar-addons-notification-anchor =
     .tooltiptext = Qo‘shimcha dastur o‘rnatish xabari panelini ochish
-urlbar-tip-help-icon =
-    .title = Yordam olish
 urlbar-search-tips-confirm = Tushundim
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Maslahat:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -96,8 +82,6 @@ urlbar-screen-blocked =
     .tooltiptext = Bu sayt uchun ekranni ulashishni bloklab qo‘ygansiz.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Bu sayt uchun doimiy xotirani blokladingiz.
-urlbar-popup-blocked =
-    .tooltiptext = Bu sayt uchun qalqib chiquvchi oynalarni blokladingiz.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Bu saytdagi ovozli mediani avto ijro etishni bloklagansiz.
 urlbar-canvas-blocked =
@@ -187,15 +171,10 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Qoʻshimchalarni koʻrish
-quickactions-cmd-addons2 = qoʻshimchalar
 quickactions-cmd-bookmarks = xatchoʻplar
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Tarixni tozalash
-quickactions-cmd-clearhistory = tarixni tozalash
 quickactions-cmd-downloads = yuklab olingan fayllar
 # Opens about:addons page in the extensions section
 quickactions-extensions = Kengaytmalarni boshqarish
-quickactions-cmd-extensions = kengaytmalar
 
 ## Bookmark Panel
 
@@ -233,7 +212,6 @@ identity-custom-root = Aloqa Mozilla tomonidan tasdiqlanmagan sertifikat beruvch
 identity-passive-loaded = Ushbu sahifa qismlari xavfsiz emas (masalan, rasmlar).
 identity-active-loaded = Siz bu sahifadagi himoyani o‘chirib qo‘ygansiz.
 identity-weak-encryption = Ushbu sahifa kuchsiz kodlash usulidan foydalanadi.
-identity-insecure-login-forms = Bu sahifaga kiritilgan ma’lumotlar o‘g‘irlanishi mumkin.
 identity-permissions-reload-hint = O‘zgarishlar amalga oshishi uchun sahifani yangilashingiz kerak.
 identity-clear-site-data =
     .label = Kuki va sayt ma’lumotlarini tozalash
@@ -245,7 +223,6 @@ identity-remove-cert-exception =
     .label = Istisnoni olib tashlash
     .accesskey = o
 identity-description-insecure = Ushbu saytga ulanish maxfiy emas. Siz jo‘natgan ma’lumotlarni (masalan, parol, xabar, kredit karta va hokazoni) boshqalar ko‘rishi mumkin.
-identity-description-insecure-login-forms = Bu sahifada kiritiladigan login ma’lumotlari himoyalanmaydi, ular xavf ostida bo‘lishi mumkin.
 identity-description-weak-cipher-intro = Ushbu vebsahifaga ulanish kuchsiz kodlash usulidan foydalanadi, shuning uchun u maxfiy emas.
 identity-description-weak-cipher-risk = Boshqa odamlar ma’lumotlaringizni ko‘rishi yoki sayt xususiyatlarini o‘zgartirishi mumkin.
 identity-description-active-blocked2 = { -brand-short-name } ushbu sahifaning xavfli bo‘lgan qismlarini blokladi.
@@ -254,12 +231,6 @@ identity-description-passive-loaded-insecure2 = Ushbu saytda xavfsiz bo‘lmagan
 identity-description-passive-loaded-mixed2 = { -brand-short-name } ba’zi tarkibni blokladi, ammo sahifada hali ham xavfli tarkiblar (masalan, rasmlar) bor.
 identity-description-active-loaded = Ushbu saytda xavfli tarkib mavjud (masalan, skriptlar), shuning uchun ulanish maxfiy emas.
 identity-description-active-loaded-insecure = Bu sayt bilan bo‘lishgan ma’lumotlaringizni (masalan, parol, xabar, kredit kartalarini) boshqalar ko‘rishi mumkin.
-identity-disable-mixed-content-blocking =
-    .label = Himoyani hozir o‘chirish
-    .accesskey = h
-identity-enable-mixed-content-blocking =
-    .label = Himoyani yoqish
-    .accesskey = H
 identity-more-info-link-text =
     .label = Ko‘proq ma’lumot
 
@@ -327,8 +298,6 @@ urlbar-extension =
     .value = Kengaytma:
 urlbar-go-button2 =
     .title = Manzil panelidagi manzilga o‘tish
-urlbar-go-button =
-    .tooltiptext = Manzil panelidagi manzilga o‘tish
 urlbar-page-action-button =
     .tooltiptext = Sahifa amallari
 
@@ -359,22 +328,9 @@ urlbar-result-action-before-tabtosearch-web = { $engine } bilan qidirish uchun T
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-result-action-tabtosearch-web = { $engine } yordamida toʻgʻridan-toʻgʻri manzil panelidan qidiring
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
-urlbar-searchmode-bookmarks =
-    .label = Xatchoʻplar
-urlbar-searchmode-tabs =
-    .label = Varaqlar
-urlbar-searchmode-history =
-    .label = Tarix
-urlbar-searchmode-actions =
-    .label = Amallar
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -443,12 +399,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Xatchoʻplar panelini yashirish
            *[other] Xatchoʻplar panelini koʻrsatish
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Xatcho‘plar menyusini paneldan olib tashlash
-           *[other] Xatcho‘plar menyusini panelga qo‘shish
-        }
 
 ##
 
@@ -474,12 +424,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Xatcho‘plar
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = { -pocket-brand-name } xizmatiga saqlash
-    .tooltiptext = { -pocket-brand-name } xizmatiga saqlash
 
 ## Repair text encoding toolbar button
 
@@ -530,8 +474,6 @@ eme-notifications-drm-content-playing-manage = Sozlamalarni boshqarish
 
 ## Password save/update panel
 
-panel-save-update-username = Foydalanuvchi nomi
-panel-save-update-password = Parol
 panel-save-update-username-2 =
     .label = Foydalanuvchi nomi
 panel-save-update-password-2 =
@@ -542,24 +484,8 @@ panel-save-update-password-2 =
 ui-tour-info-panel-close =
     .tooltiptext = Yopish
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = { $uriHost } uchun paydo bo‘luvchi oynalarga ruxsat berish
-    .accesskey = p
-popups-infobar-block =
-    .label = { $uriHost } uchun paydo bo‘luvchi oynalarni bloklash
-    .accesskey = p
-
 ##
 
-popups-infobar-dont-show-message =
-    .label = Paydo bo‘luvchi oynalar bloklanganda ushbu xabar ko‘rsatilmasin
-    .accesskey = D
-edit-popup-settings =
-    .label = Qalquvchi oyna sozlamalarini boshqarish…
-    .accesskey = m
 picture-in-picture-hide-toggle =
     .label = Rasm ichida rasm rejimini yashirish
     .accesskey = H
@@ -573,8 +499,6 @@ navbar-accessible =
     .aria-label = Navigatsiya
 navbar-downloads =
     .label = Yuklab olishlar
-navbar-overflow =
-    .tooltiptext = Ko‘proq asboblar…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

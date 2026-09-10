@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = Saját tanúsítványok
 certificate-viewer-tab-people = Emberek
 certificate-viewer-tab-servers = Kiszolgálók
 certificate-viewer-tab-ca = Hitelesítésszolgáltatók
-certificate-viewer-tab-unkonwn = Ismeretlen

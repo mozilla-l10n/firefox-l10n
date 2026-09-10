@@ -119,7 +119,6 @@ saved-passwords-no = Saan
 media-select-folder = Pilienyo ti Karpeta a Pagidulinan ti Ladawan
 media-unknown-not-cached =
     .value = Di-naammuan (Di pay impenpen)
-security-no-visits = Saan
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
@@ -129,11 +128,6 @@ media-file-size = { $size } a KB
 ## Variables:
 ##   $website (string) — The url of the website pageInfo is getting info for
 
-# This string is used to display the website name next to the
-# "Block Images" checkbox in the media tab
-media-block-image =
-    .label = Lapdan ti Ladawan manipud ti { $website }
-    .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 page-info-page =

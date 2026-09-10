@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = i-save ang about:webrtc bilang
 about-webrtc-aec-logging-msg-label = AEC Logging
 about-webrtc-aec-logging-off-state-label = Simulan ang AEC Logging
 about-webrtc-aec-logging-on-state-label = Ihinto ang AEC Logging
-about-webrtc-aec-logging-on-state-msg = Aktib ang AEC Logging (makipag-usap sa tumawag mga ilang minuto at pagkatapos ay ihindi ang pag-capture)
 about-webrtc-aec-logging-toggled-on-state-msg = Aktib ang AEC Logging (makipag-usap sa tumawag mga ilang minuto at pagkatapos ay ihindi ang pag-capture)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -79,17 +78,9 @@ about-webrtc-nominated = Nakatalaga
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Napili
 about-webrtc-save-page-label = I-save ang Pahina
-about-webrtc-debug-mode-msg-label = Mode na Pag-debug
-about-webrtc-debug-mode-off-state-label = Simulan ang Debug Mode
-about-webrtc-debug-mode-on-state-label = Itigil ang Debug Mode
-about-webrtc-stats-heading = Istatika ng Sesyon
 about-webrtc-stats-clear = Linisin ang Kasasayan
 about-webrtc-log-heading = Koneksyon Log
 about-webrtc-log-clear = Linisin ang Log
-about-webrtc-log-show-msg = ipakita ang log
-    .title = pindutin para i-expand ang bahaging ito
-about-webrtc-log-hide-msg = itago ang log
-    .title = pindutin para i-collapse ang seksyong ito
 about-webrtc-log-section-show-msg = Ipakita ang log
     .title = Pindutin para i-expand ang bahaging ito
 about-webrtc-log-section-hide-msg = Itago ang log
@@ -112,19 +103,11 @@ about-webrtc-remote-candidate = Remote na Kandidato
 about-webrtc-raw-candidates-heading = Lahat ng mga Sariwang Kandidato
 about-webrtc-raw-local-candidate = Sariwang Lokal na Kandidato
 about-webrtc-raw-remote-candidate = Sariwang Remote na Kandidato
-about-webrtc-raw-cand-show-msg = ipakita ang mga sariwang kandidato
-    .title = pindutin para i-expand ang bahaging ito
-about-webrtc-raw-cand-hide-msg = itago ang mga bagong kandidato
-    .title = pindutin para i-collapse ang seksyong ito
 about-webrtc-raw-cand-section-show-msg = Ipakita ang mga sariwang kandidato
     .title = Pindutin para i-expand ang bahaging ito
 about-webrtc-raw-cand-section-hide-msg = Itago ang mga bagong kandidato
     .title = Pindutin para i-collapse ang seksyong ito
 about-webrtc-priority = Prioridad
-about-webrtc-fold-show-msg = ipakita ang mga detalye
-    .title = pindutin para i-expand ang bahaging ito
-about-webrtc-fold-hide-msg = itago ang detalye
-    .title = pindutin para i-collapse ang seksyong ito
 about-webrtc-fold-default-show-msg = Ipakita ang mga detalye
     .title = Pindutin para i-expand ang bahaging ito
 about-webrtc-fold-default-hide-msg = Itago ang detalye
@@ -147,10 +130,6 @@ about-webrtc-remote-send-ssrc = Remote Sending SSRC
 
 ##
 
-about-webrtc-save-page-msg = ang pahina ay inisave sa: { $path }
-about-webrtc-debug-mode-off-state-msg = ang trace log ay maaaring makita sa: { $path }
-about-webrtc-debug-mode-on-state-msg = aktib ang debug mode, ang trace log ay nasa: { $path }
-about-webrtc-aec-logging-off-state-msg = ang nakuhang mga log file ay makikita sa: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

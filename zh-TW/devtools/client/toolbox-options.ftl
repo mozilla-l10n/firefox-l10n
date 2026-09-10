@@ -188,8 +188,6 @@ options-disable-http-cache-tooltip =
     .title = 開啟此選項後，將停用所有已開啟工具箱的分頁的 HTTP 快取；Service Worker 不受此選項影響。
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label-2 = 關閉 JavaScript
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = 停用 JavaScript *
 options-disable-javascript-tooltip =
     .title = 開啟此選項後將停用目前分頁中的 JavaScript。當您關閉工具箱或分頁後此設定將會被遺忘。
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -219,8 +217,6 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = （僅在目前瀏覽階段有效，將重新載入頁面）
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * 僅在目前瀏覽階段有效，將會重新載入頁面
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = （將重新載入網頁）

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Cyfieithu'r dudalen hon
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Wrthi'n cyfieithu
 translations-panel-settings-button =
     .aria-label = Rheoli gosodiadau cyfieithu
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Rheoli ieithoedd
-translations-panel-settings-about = Ynghylch cyfieithu yn { -brand-shorter-name }
 translations-panel-settings-about2 =
     .label = Ynghylch cyfieithu yn { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
@@ -91,14 +82,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = Ymddiheuriadau, dydyn ni ddim yn cefnogi cyfieithiadau o'r { $language } eto.
 translations-panel-error-unsupported-hint-unknown-2 = Ymddiheuriadau, dydyn ni ddim yn cefnogi cyfieithiadau o'r iaith hon eto.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Mae'n ddrwg gennym, nid ydym yn cefnogi'r { $language } eto.
-translations-panel-error-unsupported-hint-unknown = Ymddiheuriadau, nid ydym yn cefnogi'r { $language } eto.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -130,10 +113,6 @@ translations-manage-header = Cyfieithu
 translations-manage-settings-button =
     .label = Gosodiadau…
     .accesskey = G
-translations-manage-description = Llwythwch i lawr ieithoedd ar gyfer cyfieithu all-lein.
-translations-manage-all-language = Pob iaith
-translations-manage-download-button = Llwytho i lawr
-translations-manage-delete-button = Dileu
 translations-manage-intro-2 = Gosodwch eich dewisiadau iaith a chyfieithu gwefan a rheoli'r ieithoedd sydd wedi'u llwytho i lawr ar gyfer cyfieithu all-lein.
 translations-manage-download-description = Llwytho i lawr ieithoedd ar gyfer cyfieithu all-lein
 translations-manage-language-download-button =
@@ -147,12 +126,11 @@ translations-manage-language-remove-all-button =
     .label = Tynnu'r cyfan
     .accesskey = T
 translations-manage-error-download = Bu anhawster wrth lwytho'r ffeiliau iaith i lawr. Ceisiwch eto.
-translations-manage-error-delete = Bu gwall wrth ddileu'r ffeiliau iaith. Ceisiwch eto.
 translations-manage-error-remove = Bu gwall wrth dynnu'r ffeiliau iaith. Ceisiwch eto.
 translations-manage-error-list = Wedi methu â chael y rhestr o ieithoedd sydd ar gael i'w cyfieithu. Ail-lwythwch y dudalen i geisio eto.
 translations-settings-title =
-    .title = Gosodiadau Cyfieithu
     .style = min-width: 36em
+    .title = Gosodiadau Cyfieithu
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Bydd cyfieithu'n digwydd yn awtomatig ar gyfer yr ieithoedd canlynol
@@ -246,16 +224,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = Ymddiheuriadau, dydyn ni ddim yn cefnogi cyfieithiadau o'r { $language } eto.
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = Ymddiheuriadau, dydyn ni ddim yn cefnogi cyfieithiadau o'r iaith hon eto.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Mae'n ddrwg gennym, nid ydym yn cefnogi'r { $language } eto.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Ymddiheuriadau, nid ydym yn cefnogi'r { $language } eto.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Gosodiadau cyfieithu

@@ -261,8 +261,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = 配置文件
 menu-profiles-manage-profiles =
     .label = 管理配置文件
 menu-profiles-new-profile =
@@ -286,9 +284,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = 扩展和主题
     .accesskey = E
-menu-tools-addons-and-themes =
-    .label = 扩展和主题
-    .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = 登录
     .accesskey = g
@@ -345,8 +340,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = 更多故障排除信息
     .accesskey = T
-menu-help-report-site-issue =
-    .label = 反馈网站问题…
 menu-help-share-ideas =
     .label = 分享想法和意见反馈…
     .accesskey = S

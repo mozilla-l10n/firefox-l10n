@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Obri una finestra privada
     .accesskey = p
 about-private-browsing-search-placeholder = Cerca al web
-about-private-browsing-info-title = Esteu en una finestra privada
 about-private-browsing-search-btn =
     .title = Cerca al web
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Cerqueu amb { $engine } o escriviu una adreça
 about-private-browsing-handoff-text-no-engine = Escriviu una cerca o adreça
 about-private-browsing-not-private = Actualment no esteu en una finestra privada.
-about-private-browsing-info-description-private-window = Finestra privada: En tancar totes les finestres privades, el { -brand-short-name } esborra el vostre l'historial de navegació i de cerca. Això no vos fa anònim.
-about-private-browsing-info-description-simplified = En tancar totes les finestres privades, el { -brand-short-name } esborra el vostre l'historial de navegació i de cerca, tot i que això no vos fa anònim.
-about-private-browsing-learn-more-link = Més informació
 about-private-browsing-hide-activity = Oculteu la vostra activitat i ubicació, arreu on navegueu
 about-private-browsing-get-privacy = Protegiu la vostra privadesa arreu on navegueu
 about-private-browsing-hide-activity-1 = Oculteu l'activitat de navegació i la ubicació amb el { -mozilla-vpn-brand-name }. Creeu una connexió segura amb un sol clic, fins i tot en connexions Wi-Fi públiques.

@@ -35,7 +35,6 @@ inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</st
 inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> ndojokupytýi mba’eporugua’u ndive ::first-letter.
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> ndojokupytýi mba’eporugua’u ndive ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ndoguerekói mba’evai ko mba’eporúpe, oguereko rupi jehechaha <strong>{ $display }</strong>.
-inactive-css-not-display-block-on-floated = Pe mongu’eha omoambue <strong>jehecha</strong> repykue <strong>jokoha</strong> pe mba’eporu oĩgui <strong>vevuihápe</strong>.
 inactive-css-not-display-block-on-floated-2 = Pe mongu’eha omoambue <strong>jehecha</strong> repykue <strong>{ $display }</strong> pe mba’eporu oĩgui <strong>vevuihápe</strong>.
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’eporúpe, ndaha’éi rupi osẽtava renda ha avei mba’eporu hu’ũva.
 inactive-css-not-block = <strong>{ $property }</strong> ndorekói mba’evéichagua mba’evai ko mba’eporúpe ndaha’éi rupi mba’eporu osẽtava renda.
@@ -56,16 +55,6 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 inactive-css-border-image = <strong>{ $property }</strong> ndoguerekói mba’eve ko mba’eporúpe ndaikatúi rupi oñemohembiapo mba’eporuita hyepyguávape <strong>border-collapse</strong>oguereko tepykue<strong>collapse</strong> mba’eporu mba’ekuaarã’aty tuichavévape.
 inactive-css-resize = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’eporúpe ikatu rupi oku’e mba’eporu hepykue yvatéva ndive ojehecha’ỹva ha mba’eporu myengoviapyre.
 inactive-css-ruby-element = <strong>{ $property }</strong> nombyaikuaái ko mba’eporúpe ha’e rupi mba’eporu ruby. Tuichakue ojehecha moñe’ẽrã ruby reñoiha tuichakue.
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> ndojokupytýi mba’eporugua’u mbosa’ypyrére.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> ojokupyty mba’eporugua’u ndive ::cue.
 inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> ndorekói ñepytyvõ oikóva <strong>@position-try</strong>.

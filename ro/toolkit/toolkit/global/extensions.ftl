@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Adaugi { $extension }?
-webext-perms-header-with-perms = Adaugi { $extension }? Aceasta va avea permisiunea:
-webext-perms-header-unsigned = Adaugi { $extension }? Această extensie este neverificată. Extensiile rău intenționate îți pot fura informațiile private sau compromite calculatorul. Adaug-o numai dacă ai încredere în sursă.
-webext-perms-header-unsigned-with-perms = Adaugi { $extension }? Această extensie este neverificată. Extensiile rău intenționate îți pot fura informațiile private sau compromite calculatorul. Adaug-o numai dacă ai încredere în sursă. Această extensie va avea permisiunea:
 webext-perms-sideload-header = { $extension } adăugat
 webext-perms-optional-perms-header2 = { $extension } solicită permisiuni suplimentare
-webext-perms-optional-perms-header = { $extension } solicită permisiuni suplimentare.
 webext-perms-header2 = Adaugă { $extension }
 webext-perms-list-intro-unsigned = Această extensie neverificată ar putea să îți pună în pericol confidențialitatea sau să îți compromită dispozitivul. Adaug-o numai dacă ai încredere în sursă.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } a fost actualizată. Trebuie să aprobi permisiuni noi înainte de instalarea versiunii actualizate. Dacă alegi „Anulează”, vei menține versiunea actuală a extensiei.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } a fost actualizat. Trebuie să aprobi permisiuni noi înainte de instalarea versiunii actualizate. Dacă alegi „Anulează”, vei menține versiunea actuală a extensiei. Această extensie va avea permisiunea:
 webext-perms-update-accept =
     .label = Actualizează
     .accesskey = U
@@ -73,26 +65,8 @@ webext-perms-host-description-file-urls = Accesează fișiere locale de pe calcu
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Să îți acceseze datele pentru site-uri din domeniul { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Să îți acceseze datele într-un alt domeniu
-        [few] Să îți acceseze datele în alte { $domainCount } domenii
-       *[other] Să îți acceseze datele în alte { $domainCount } de domenii
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Să îți acceseze datele pentru { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Să îți acceseze datele pe { $domainCount } alt site
-        [few] Să îți acceseze datele pe alte { $domainCount } site-uri
-       *[other] Să îți acceseze datele pe alte { $domainCount } de site-uri
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

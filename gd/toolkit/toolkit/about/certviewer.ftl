@@ -118,4 +118,3 @@ certificate-viewer-tab-mine = Na teisteanasan agad
 certificate-viewer-tab-people = Daoine
 certificate-viewer-tab-servers = Frithealaichean
 certificate-viewer-tab-ca = Ùghdarrasan
-certificate-viewer-tab-unkonwn = Chan eil fhios

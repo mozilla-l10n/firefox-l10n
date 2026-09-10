@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Evita que l'agent de navegador per defecte r
 policy-DisableDeveloperTools = Bloca l'accés a les eines per a desenvolupadors.
 policy-DisableEncryptedClientHello = Desactiva l'ús de la funció TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Desactiva les ordres per enviar comentaris del menú Ajuda («Envia comentaris» i «Informa que el lloc és enganyós»).
-policy-DisableFirefoxAccounts = Desactiva els serveis basats en el { -fxaccount-brand-name }, que inclou el Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Desactiva els serveis basats en comptes, inclosa la sincronització.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = No recorda l'historial de cerca ni de formularis.
 policy-DisableLaunchOnLogin = Evita que el { -brand-short-name } s'iniciï automàticament quan l'usuari inicia sessió.
 policy-DisablePrimaryPasswordCreation = Si és cert, no es pot crear una contrasenya principal.
 policy-DisablePasswordReveal = No permet mostrar les contrasenyes dels inicis de sessió desats.
-policy-DisablePocket2 = Desactiva la funció de desar llocs web al { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Desactiva la navegació privada.
 policy-DisableProfileImport = Desactiva l'ordre de menú «Importa les dades d'un altre navegador».
 policy-DisableProfileRefresh = Desactiva el botó «Restableix el { -brand-short-name } a l'estat inicial» de la pàgina about:support.
@@ -132,7 +130,6 @@ policy-PDFjs = Desactiva o configura el PDF.js, el visor de PDF incorporat en el
 policy-Permissions2 = Configura els permisos de la càmera, el micròfon, la ubicació, les notificacions i la reproducció automàtica.
 policy-PictureInPicture = Activa o desactiva el mode d'Imatge sobre imatge.
 policy-PopupBlocking2 = Permet que certs llocs web mostrin finestres emergents i siguin redirigits per marcs de tercers.
-policy-PopupBlocking = Permet que determinats llocs web mostrin finestres emergents per defecte.
 policy-Preferences = Defineix i bloca els valors d'un subconjunt de preferències.
 policy-PrivateBrowsingModeAvailability = Estableix la disponibilitat del mode de navegació privada.
 policy-PromptForDownloadLocation = Demana on es desaran els fitxers en baixar-los.

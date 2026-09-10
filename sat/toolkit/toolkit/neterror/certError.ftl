@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱫᱚ �
 cert-error-trust-signature-algorithm-disabled = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱢᱵᱟᱝ ᱯᱟᱹᱛᱤᱣᱟᱹᱜ ᱠᱟᱱᱟ ᱪᱮᱫᱚᱜ ᱡᱮ ᱱᱚᱶᱟ ᱜᱚᱞᱟᱝ ᱮᱞᱮᱠᱷ ᱴᱩᱰᱟᱹᱜ ᱥᱩᱦᱤ ᱵᱮᱵᱷᱟᱨ ᱛᱮ ᱥᱩᱦᱤ ᱞᱮᱱ ᱛᱟᱦᱮᱸᱱᱟ ᱚᱠᱟ ᱵᱟᱝ ᱦᱩᱭ ᱦᱚᱪᱚ ᱞᱮᱱᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱜᱚᱞᱚᱝ ᱮᱞᱮᱠᱷ ᱴᱩᱰᱟᱹᱜ ᱵᱟᱭ ᱡᱟᱹᱯᱛᱤ ᱟ ᱾
 cert-error-trust-expired-issuer = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱵᱟᱝ ᱯᱟᱹᱛᱤᱣᱟᱹᱜ ᱠᱟᱱᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱮᱢᱚᱜᱤᱡ ᱚᱠᱛᱚ ᱪᱟᱵᱟ ᱟᱠᱟᱱᱟ ᱾
 cert-error-trust-self-signed = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱵᱟᱝ ᱯᱟᱹᱛᱤᱣᱟᱹᱜ ᱠᱟᱱᱟ ᱪᱮᱫᱟᱜ ᱡᱮ ᱱᱚᱶᱟ ᱱᱤᱡᱮ ᱥᱩᱦᱤᱭᱟᱜ ᱠᱟᱱᱟ ᱾
-cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte, ᱟᱨ VeriSign ᱠᱚ ᱮᱢ ᱪᱷᱚ ᱠᱟᱫ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱫᱚ ᱟᱨ ᱵᱟᱝ ᱡᱟᱹᱯᱛᱤᱭᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱩᱱᱠᱩ ᱫᱚ ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱠᱟᱹᱢᱤ ᱨᱮ ᱰᱤᱜᱟᱹᱣ ᱛᱟᱦᱮᱸ ᱠᱟᱱ ᱛᱟᱠᱚᱣᱟ ᱾
 cert-error-untrusted-default = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱯᱟᱹᱛᱤᱣᱟᱹᱜ ᱥᱨᱚᱛ ᱠᱷᱚᱱ ᱵᱟᱭ ᱦᱮᱡ ᱟᱠᱟᱱᱟ ᱾
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -52,10 +51,6 @@ cert-error-code-prefix-link = ᱵᱷᱩᱞ ᱠᱳᱰ: <a data-l10n-name="error-c
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = { $hostname } ᱥᱟᱞᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱡᱷᱚᱜ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ ᱾ { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = ᱣᱮᱵᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱠᱚᱣᱟᱜ ᱪᱤᱦᱟᱹᱯ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱛᱮ ᱠᱚ ᱯᱩᱥᱴᱟᱹᱣᱟ, ᱚᱠᱟ ᱫᱚ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱮᱢᱚᱜᱤᱡ ᱮᱢ ᱪᱷᱚ ᱟᱠᱟᱜᱟᱭ ᱾ GeoTrust, RapidSSL, Symantec, Thawte, and VeriSign ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱮᱢ ᱪᱟᱞᱤᱭᱟᱹ ᱠᱚᱣᱟᱜ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱛᱮ ᱫᱚ ᱵᱟᱹᱲᱛᱤ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱵᱟᱠᱚ ᱯᱩᱥᱴᱟᱹᱣᱜᱼᱟ ᱾ { $hostname } ᱫᱚ ᱱᱚᱶᱟ ᱠᱚ ᱢᱤᱫᱴᱟᱝ ᱮᱢᱚᱜᱤᱡ ᱠᱷᱚᱱ ᱵᱮᱵᱷᱟᱨᱟᱭ ᱟᱨ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱪᱤᱱᱦᱟᱹᱯ ᱫᱚ ᱵᱟᱭ ᱯᱚᱨᱢᱟᱱ ᱫᱟᱲᱮᱭᱟᱫᱟ ᱾
-cert-error-symantec-distrust-admin = ᱱᱚᱶᱟ ᱰᱤᱜᱟᱹᱣ ᱵᱟᱵᱚᱛ ᱟᱢ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱮᱰᱢᱤᱱᱤᱥᱴᱨᱮᱴᱚᱨ ᱮᱢ ᱮᱛᱞᱟ ᱫᱟᱲᱮᱟᱭᱟ ᱾
 cert-error-old-tls-version = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ TLS 1.2 ᱯᱨᱚᱴᱚᱠᱚᱞ ᱵᱟᱭ ᱥᱟᱹᱯᱚᱴ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ, ᱡᱟᱦᱟᱸ ᱫᱚ { -brand-short-name } ᱥᱟᱹᱯᱚᱴ ᱠᱟᱫ ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱦᱚᱯᱚᱱ ᱵᱷᱚᱨᱥᱚᱱ ᱠᱟᱱᱟ ᱾
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -64,7 +59,6 @@ cert-error-details-hsts-label = HTTP ᱥᱴᱨᱤᱠᱴ ᱴᱨᱟᱱᱥᱯᱚᱴ
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP ᱯᱟᱹᱵᱞᱤᱠ ᱠᱤᱭ ᱯᱤᱱᱤᱝ : { $hasHPKP }
 cert-error-details-cert-chain-label = ᱯᱚᱨᱢᱟᱱ ᱪᱮᱱ ᱺ
-open-in-new-window-for-csp-or-xfo-error = ᱱᱟᱶᱟ ᱣᱤᱱᱰᱳ ᱨᱮ ᱥᱟᱭᱤᱴ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = ᱟᱢᱟᱜ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ, { $hostname } ᱫᱚ { -brand-short-name } ᱵᱷᱮᱜᱟᱨ ᱥᱟᱭᱤᱴ ᱮᱢ ᱛᱚᱵᱮᱫ ᱠᱟᱫ ᱥᱟᱦᱴᱟ ᱵᱟᱭ ᱮᱢ ᱪᱷᱚᱣᱟᱜᱼᱟᱭ ᱾ ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱧᱮᱱ ᱞᱟᱹᱜᱤᱜ, ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱱᱟᱶᱟ ᱣᱤᱱᱰᱳ ᱨᱮ ᱠᱷᱩᱞᱟᱹ ᱛᱮ ᱦᱩᱭᱟᱢᱟ ᱾
@@ -76,8 +70,6 @@ deniedPortAccess-title = ᱱᱚᱶᱟ ᱴᱷᱤᱠᱬᱟᱹ ᱫᱚ ᱠᱚᱦᱲ�
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = ᱦᱢ ᱾ ᱚᱱᱟ ᱥᱟᱭᱤᱴ ᱯᱟᱱᱛᱮ ᱨᱮ ᱟᱞᱮ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱞᱮ ᱵᱩᱡᱷᱟᱹᱣᱮᱫᱼᱟ ᱾
-dns-not-found-trr-only-title2 = ᱱᱚᱶᱟ ᱰᱮᱢᱮᱱ ᱞᱟᱹᱜᱤᱫ ᱦᱩᱭ ᱫᱟᱲᱟᱭᱟᱜ ᱠᱟᱱ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱨᱤᱥᱠ ᱧᱮᱞ ᱮᱫᱟ
-dns-not-found-native-fallback-title2 = ᱱᱚᱶᱟ ᱰᱮᱢᱮᱱ ᱞᱟᱹᱜᱤᱫ ᱦᱩᱭ ᱫᱟᱲᱟᱭᱟᱜ ᱠᱟᱱ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱨᱤᱥᱠ ᱧᱮᱞ ᱮᱫᱟ
 fileNotFound-title = ᱨᱮᱫ ᱵᱟᱝ ᱧᱟᱢ ᱞᱮᱱᱟ
 fileAccessDenied-title = ᱨᱮᱫ ᱨᱮ ᱫᱚᱠᱷᱚᱞ ᱫᱚ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ
 generic-title = ᱮᱦᱮ ᱾
@@ -99,7 +91,6 @@ redirectLoop-title = ᱥᱟᱦᱴᱟ ᱣᱮᱵᱽ ᱞᱮᱠᱟ ᱛᱮ ᱵᱟᱭ 
 unknownSocketType-title = ᱥᱟᱹᱨᱣᱟᱹᱨ ᱠᱷᱚᱱ ᱵᱟᱝ ᱟᱝᱥᱟᱠ ᱨᱚᱲ ᱨᱩᱣᱟᱹᱲ ᱾
 nssFailure2-title = ᱡᱟᱯᱛᱤ ᱡᱚᱱᱚᱲᱟᱣ ᱦᱩᱲᱟᱹᱜ
 csp-xfo-error-title = { -brand-short-name } ᱥᱟᱦᱴᱟ ᱠᱷᱩᱞᱟᱹ ᱵᱟᱭ ᱜᱟᱱᱚᱜ ᱠᱟᱱᱟ
-corruptedContentError-title = ᱨᱟᱹᱯᱩᱫᱟᱜ ᱵᱤᱥᱚᱭ ᱵᱷᱩᱞ
 sslv3Used-title = ᱨᱩᱠᱷᱤᱭᱟᱹ ᱛᱮ ᱡᱩᱲᱟᱹᱣ ᱵᱟᱝ ᱜᱟᱱ ᱞᱮᱱᱟ
 inadequateSecurityError-title = ᱟᱢᱟᱜ ᱡᱩᱲᱟᱣ ᱫᱚ ᱵᱟᱝ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱜᱮᱭᱟ
 blockedByPolicy-title = ᱵᱞᱚᱠ ᱠᱟᱱ ᱥᱟᱦᱴᱟ

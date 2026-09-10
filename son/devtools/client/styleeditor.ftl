@@ -16,8 +16,6 @@ styleeditor-save-button = Gaabu
     .accesskey = G
 styleeditor-options-button =
     .tooltiptext = Fasal hanseka suubarey
-styleeditor-editor-textbox =
-    .data-placeholder = CSS hantum ne.
 styleeditor-no-stylesheet = Moɲoo woo ši nda kaymi zuu kul.
 styleeditor-no-stylesheet-tip = A hin ka tee war ga baa ka <a data-l10n-name="append-new-stylesheet">kaymi zuu taaga dobu</a>?
 styleeditor-open-link-new-tab =

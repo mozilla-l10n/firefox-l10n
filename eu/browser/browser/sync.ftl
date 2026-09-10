@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Sinkronizatzen…
 sync-disconnect-dialog-title2 = Deskonektatu?
 sync-disconnect-dialog-body = { -brand-product-name }(e)k zure kontuarekin sinkronizatzeari utziko dio baina ez du gailu honetako zure nabigatze-daturik ezabatuko.
 sync-disconnect-dialog-button = Deskonektatu
-fxa-signout-dialog2-title = Amaitu { -fxaccount-brand-name(kasua: "ko") } saioa?
 fxa-signout-dialog-title2 = Zure kontuko saioa amaitu?
 fxa-signout-dialog-body = Sinkronizatutako datuek zure kontuan jarraituko dute.
 fxa-signout-dialog2-button = Amaitu saioa
@@ -41,14 +40,6 @@ fxviewtabrow-send-to-mobile-not-verified = Kontua egiaztatu gabe
 fxviewtabrow-send-to-mobile-verify-account = Egiaztatu zure kontua
 fxa-menu-send-to-mobile-turn-on-sync = Aktibatu sinkronizazioa fitxak bidaltzeko
 fxa-menu-send-to-mobile-connect-device = Konektatu gailu bat fitxak bidaltzeko
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Bidali fitxa gailura
-           *[other] Bidali { $tabCount } fitxa gailura
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Gailuak sinkronizatzen…

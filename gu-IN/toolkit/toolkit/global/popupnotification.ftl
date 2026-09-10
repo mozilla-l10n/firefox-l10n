@@ -4,6 +4,3 @@
 
 popup-notification-more-actions-button =
     .aria-label = વધુ ક્રિયાઓ
-popup-notification-default-button =
-    .label = ઠીક છે!
-    .accesskey = O

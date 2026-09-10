@@ -35,7 +35,6 @@ inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</st
 inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> özelliği ::first-letter sözde elemanlarında desteklenmez.
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> özelliği ::placeholder sözde elemanlarında desteklenmez.
 inactive-css-property-because-of-display = Bu eleman <strong>{ $display }</strong> olarak görüntülendiği için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
-inactive-css-not-display-block-on-floated = Bu eleman <strong>floated</strong> olduğu için <strong>display</strong> değeri motor tarafından <strong>block</strong> olarak değiştirildi.
 inactive-css-not-display-block-on-floated-2 = Bu eleman <strong>floated</strong> olduğu için <strong>display</strong> değeri motor tarafından <strong>{ $display }</strong> olarak değiştirildi.
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> özelliği grid veya flex öğelerinde kullanılamadığı için etkisi yoktur.
 inactive-css-not-block = Yalnızca blok seviyesindeki elemanlara uygulanabileceği için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
@@ -56,16 +55,6 @@ inactive-scroll-padding-when-not-scroll-container = Bu eleman scroll edilemediğ
 inactive-css-border-image = <strong>border-collapse</strong> özelliğinin ana tablo elemanında <strong>collapse</strong> olarak ayarlandığı dahili tablo elemanlarına <strong>{ $property }</strong> özelliği uygulanamayacağı için bu özellik bu eleman üzerinde hiçbir etkiye sahip değildir.
 inactive-css-resize = <strong>{ $property }</strong> özelliği yalnızca visible dışında bir taşma değerine sahip elemanlara ve textarea gibi belirli değiştirilmiş elemanlara uygulanabileceği için bu eleman üzerinde bir etkisi yoktur.
 inactive-css-ruby-element = Bu eleman bir ruby elemanı olduğundan <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur. Elemanın boyutu ruby metninin yazı tipi boyutuna göre belirlenir.
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> özelliği, vurgulanmış sözde elemanlarda desteklenmez.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> özelliği ::cue sözde elemanlarında desteklenmez.
 inactive-css-at-position-try-not-supported = <strong>@position-try</strong> kurallarında <strong>{ $property }</strong> desteklenmiyor.

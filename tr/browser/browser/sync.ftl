@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Eşitleniyor…
 sync-disconnect-dialog-title2 = Bağlantı kesilsin mi?
 sync-disconnect-dialog-body = { -brand-product-name } artık hesabınızla eşitlenmeyecektir ama bu cihazdaki mevcut gezinti verileri silinmeyecektir.
 sync-disconnect-dialog-button = Bağlantıyı kes
-fxa-signout-dialog2-title = { -fxaccount-brand-name }ndan çıkılsın mı?
 fxa-signout-dialog-title2 = Hesabınızdan çıkış yapılsın mı?
 fxa-signout-dialog-body = Eşitlenmiş veriler hesabınızda kalacaktır.
 fxa-signout-dialog2-button = Çıkış yap
@@ -43,14 +42,6 @@ fxviewtabrow-send-to-mobile-not-verified = Hesap doğrulanmamış
 fxviewtabrow-send-to-mobile-verify-account = Hesabınızı doğrulayın
 fxa-menu-send-to-mobile-turn-on-sync = Sekme göndermek için eşitlemeyi açın
 fxa-menu-send-to-mobile-connect-device = Sekme göndermek için bir cihaz bağlayın
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Sekmeyi cihaza gönder
-           *[other] { $tabCount } sekmeyi cihaza gönder
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Cihazlar eşitleniyor…

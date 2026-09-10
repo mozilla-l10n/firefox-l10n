@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Nastavitve povezave
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Nastavitve povezave
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Ponovno naloži
     .accesskey = n
-connection-proxy-autologin =
-    .label = Brez overjanja, če je geslo shranjeno
-    .accesskey = e
-    .tooltip = Ta možnost izvede tiho overjanje s posredniki, če imate shranjena gesla zanje. Če overjanje ne uspe, boste morali vnesti geslo.
 connection-proxy-autologin-checkbox =
     .label = Brez overjanja, če je geslo shranjeno
-    .accesskey = e
     .tooltiptext = Ta možnost izvede tiho overjanje s posredniki, če imate shranjena gesla zanje. Če overjanje ne uspe, boste morali vnesti geslo.
+    .accesskey = e
 connection-proxy-socks4-remote-dns =
     .label = Posredniški DNS, kadar se uporablja SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Uporabi privzeti URL za razreševanje DNS preko HTTPS
 connection-dns-over-https-url-custom =
     .label = Po meri
-    .accesskey = P
     .tooltiptext = Vnesite želeni URL za razreševanje DNS preko HTTPS
-connection-dns-over-https-custom-label = Po meri
+    .accesskey = P

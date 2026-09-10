@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Serĉi pasvortojn
-    .key = F
     .aria-label = Serĉi pasvortojn
+    .key = F
+    .placeholder = Serĉi pasvortojn
 contextual-manager-menu-more-options-button =
     .title = Pli da ebloj
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Importi el dosiero …
 contextual-manager-passwords-command-export = Eksporti pasvortojn…
 contextual-manager-passwords-command-remove-all = Forviŝi ĉiujn pasvortojn
 contextual-manager-passwords-command-options = Elektebloj
-contextual-manager-passwords-command-settings = Agordoj
 contextual-manager-passwords-command-help = Helpo
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Pasvortoj importitaj
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Novaj: { $added }, ĝisdatigitaj: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -214,8 +209,6 @@ contextual-manager-passwords-create-label =
     .label = Aldoni pasvorton
 contextual-manager-passwords-update-label =
     .label = Pasvorto ĝisdatigita
-contextual-manager-passwords-edit-label =
-    .label = Modifi pasvorton
 contextual-manager-passwords-remove-label =
     .title = Forigi pasvorton
 contextual-manager-passwords-origin-field =
@@ -231,7 +224,6 @@ contextual-manager-passwords-password-field-description = Tajpu la pasvorton por
 contextual-manager-passwords-origin-tooltip = Tajpu la ekzaktan adreson, kie vi komencos seancon en tiu ĉi retejo.
 contextual-manager-passwords-username-tooltip = Tajpu la nomon de uzanto, retpoŝtan adreson, aŭ numeron de konto, kiun vi uzos por komenci seancon.
 contextual-manager-passwords-password-tooltip-2 = Tajpu la pasvorton por komenci seancon per tiu ĉi konto.
-contextual-manager-passwords-password-tooltip = Tajpu la pasvorton, kiun vi uzas por komenci seancon per tiu ĉi konto.
 
 ## Password Card
 
@@ -278,10 +270,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Kopii pasvorton (Averto)
 contextual-manager-edit-login-button = Modifi
     .tooltiptext = Modifi pasvorton
-contextual-manager-view-alert-heading =
-    .heading = Montri atentigon
-contextual-manager-view-alert-button =
-    .tooltiptext = Revizii atentigon
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -308,13 +296,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Neniu pasvorto trovita
 contextual-manager-passwords-no-passwords-found-message-2 = Provu alian tekston kaj serĉu denove.
-contextual-manager-passwords-no-passwords-found-message = Neniu pasvorto trovita. Provu serĉi ion alian.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Konservu viajn pasvortojn en sekura ejo.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Ĉiuj pasvortoj estas ĉifritaj kaj ni atente kontrolos datumfuĝojn kaj atentigos vin se ili koncernas vin.

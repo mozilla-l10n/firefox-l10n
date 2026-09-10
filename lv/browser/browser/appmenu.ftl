@@ -35,8 +35,6 @@ appmenuitem-extensions-and-themes =
     .label = Paplašinājumi un motīvi
 appmenuitem-extensions =
     .label = Paplašinājumi
-appmenuitem-addons-and-themes =
-    .label = Paplašinājumi un motīvi
 appmenuitem-print =
     .label = Drukāt…
 appmenuitem-find-in-page =
@@ -150,7 +148,6 @@ fxa-menu-get-firefox-mobile =
     .label = Iegūt { -brand-product-name } Android vai iOS lietotni
 fxa-menu-secure-sync-subpanel =
     .title = Droša vienādošana
-appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-account-header = Konts
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -169,15 +166,6 @@ appmenuitem-save-page =
     .label = Saglabāt lapu kā…
 appmenuitem-fxa-sync-off-title = Sinhronizācija ir izslēgta
 appmenuitem-fxa-sync-off-description = Aizsargājiet un piekļūstiet savām grāmatzīmēm, parolēm un vēl no jebkuras vietas.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Kas jauns?
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Paziņot par jaunām funkcijām
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -295,8 +283,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Plašāka informācija par problēmu novēršanu
     .accesskey = P
-appmenu-help-report-site-issue =
-    .label = Ziņot par problēmu ar lapu…
 appmenu-help-share-ideas =
     .label = Dalieties ar idejām un atsauksmēm…
     .accesskey = s
@@ -350,13 +336,11 @@ appmenuitem-vpn-description5 = Iegūsti papildu aizsardzību savās ierīcēs
 appmenuitem-vpn-title-signed-in1 = Lejupielādēt { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Iegūstiet visas ierīces aizsardzību
-appmenuitem-vpn-description = Aizsargā savas tiešsaistes darbības
 appmenu-services-header = Mani pakalpojumi
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Izmēģiniet citus Mozilla aizsardzības rīkus:
-appmenu-other-protection-header = Izmēģini citus aizsardzības rīkus no { -vendor-short-name }:
 
 ## Profiles panel
 

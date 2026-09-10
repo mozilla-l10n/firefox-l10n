@@ -124,15 +124,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Kit maber ojuko woko med-ikome weng.
-extensions-warning-check-compatibility = Med ikome kityeko juko woko roto rwate ne. I romo bedo ki med ikome mape rwate.
-extensions-warning-safe-mode2 =
-    .message = Kit maber ojuko woko med-ikome weng.
 extensions-warning-check-compatibility2 =
     .message = Med ikome kityeko juko woko roto rwate ne. I romo bedo ki med ikome mape rwate.
 extensions-warning-check-compatibility-button = Ye
     .title = Ye ngiyo rwate me tic pa med-ikome
-extensions-warning-update-security = Ngiyo ber bedo pa ngec manyen me med-ikome kijuko woko. Mogo nongo inongo peko ki bot ngec manyen.
 extensions-warning-update-security2 =
     .message = Ngiyo ber bedo pa ngec manyen me med-ikome kijuko woko. Mogo nongo inongo peko ki bot ngec manyen.
 extensions-warning-update-security-button = Ye
@@ -199,24 +194,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } pe rwate kwede { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } pe rwate kwede { -brand-short-name } { $version }.
-details-notification-unsigned-and-disabled = pe onongo kiromo moko ada pa { $name } me tic kwede i { -brand-short-name } kadong ki juko woko.
 details-notification-unsigned-and-disabled2 =
     .message = pe onongo kiromo moko ada pa { $name } me tic kwede i { -brand-short-name } kadong ki juko woko.
-details-notification-unsigned-and-disabled-link = Ngec mapol
-details-notification-unsigned = pe onongo kiromo moko ada pa { $name } me tic kwede i { -brand-short-name }. Mede ki diro.
 details-notification-unsigned2 =
     .message = pe onongo kiromo moko ada pa { $name } me tic kwede i { -brand-short-name }. Mede ki diro.
-details-notification-unsigned-link = Ngec mapol
-details-notification-blocked = { $name } kityeko kwanyo pi kelo kop ikom gwok onyo bedo mot.
-details-notification-blocked-link = Ngec Mukene
-details-notification-softblocked = { $name } ngene pi kelo kop ikom gwok onyo bedo mot.
-details-notification-softblocked-link = Ngec Mukene
-details-notification-gmp-pending = { $name } bi kete ma cokcoki.
 details-notification-gmp-pending2 =
     .message = { $name } bi kete ma cokcoki.
 

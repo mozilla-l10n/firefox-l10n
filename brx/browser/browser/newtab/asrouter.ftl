@@ -39,10 +39,6 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = बन्द खालामनाय बोटन
     .title = बन्द खालाम
 
-## Protections panel
-
-cfr-protections-panel-link-text = गोबां सोलों
-
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =

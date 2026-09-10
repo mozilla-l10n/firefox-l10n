@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = ᱵᱚᱦᱟᱞ ᱞᱟᱦᱟᱭ ᱢᱮ
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱢᱟᱜ MIDI (ᱢᱭᱩᱡᱤᱠᱟᱱ ᱤᱱᱥᱴᱨᱩᱢᱮᱱᱴ ᱰᱤᱡᱤᱴᱟᱞ ᱤᱱᱴᱚᱨᱯᱷᱮᱥ) ᱥᱟᱫᱷᱚᱱ ᱟᱫᱮᱨ ᱞᱟᱹᱜᱤᱫ ᱱᱮᱦᱮᱨᱮᱫᱟᱭ ᱢᱤᱫᱴᱟᱝ ᱮᱰᱼᱚᱱ ᱵᱚᱦᱟᱞ ᱠᱟᱛᱮ ᱥᱟᱫᱷᱚᱱ ᱦᱚᱠ ᱠᱚᱵᱚᱡᱽ ᱜᱟᱱᱚᱜᱼᱟ ᱾
 site-permission-install-first-prompt-midi-message = ᱱᱚᱶᱟ ᱨᱮᱭᱟᱜ ᱟᱫᱮᱨ ᱫᱚ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱛᱟᱦᱮᱸᱱ ᱵᱟᱭ ᱜᱮᱨᱮᱱᱴᱤᱭᱟᱭ ᱾ ᱡᱩᱫᱤ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱵᱷᱚᱨᱥᱟᱦᱟᱜ ᱠᱟᱱᱟᱢ ᱠᱷᱚᱱ ᱞᱮᱛᱟᱲ ᱢᱮ ᱾
 site-permission-install-first-prompt-serial-header = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱢᱟᱜ ᱥᱤᱨᱤᱭᱟᱞ ᱥᱟᱫᱷᱚᱱ ᱠᱚ ᱮᱠᱥᱮᱥ ᱞᱟᱹᱜᱤᱫ ᱟᱨᱫᱟᱥ ᱮᱢ ᱠᱟᱱᱟ ᱾ ᱰᱤᱵᱷᱟᱭᱤᱥ ᱮᱠᱥᱮᱥ ᱫᱚ ᱮᱰ-ᱚᱱ ᱤᱱᱥᱴᱚᱞ ᱠᱟᱛᱮ ᱪᱟᱹᱞᱩ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾
 site-permission-install-first-prompt-serial-message = ᱱᱚᱶᱟ ᱨᱮᱭᱟᱜ ᱟᱫᱮᱨ ᱫᱚ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱛᱟᱦᱮᱸᱱ ᱵᱟᱭ ᱜᱮᱨᱮᱱᱴᱤᱭᱟᱭ ᱾ ᱡᱩᱫᱤ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱵᱷᱚᱨᱥᱟᱦᱟᱜ ᱠᱟᱱᱟᱢ ᱠᱷᱚᱱ ᱞᱮᱛᱟᱲ ᱢᱮ ᱾
-
-##
-
-xpinstall-disabled-locked = ᱥᱯᱷᱴᱣᱮᱭᱨ ᱵᱚᱦᱟᱞ ᱟᱢᱤᱡ ᱥᱭᱥᱴᱚᱢ ᱥᱟᱥᱚᱱᱤᱡ ᱫᱟᱨᱚᱭ ᱛᱮ ᱵᱟᱝ ᱞᱮᱜ ᱛᱮᱭᱟᱨ ᱦᱩᱭ ᱟᱠᱟᱱᱟ ᱾
 xpinstall-disabled-by-policy = ᱥᱯᱷᱴᱣᱮᱭᱨ ᱵᱚᱦᱟᱞ ᱟᱢᱤᱡ ᱜᱟᱶᱛᱟ ᱫᱟᱨᱚᱭ ᱛᱮ ᱵᱟᱝ ᱞᱮᱜ ᱛᱮᱭᱟᱨ ᱦᱩᱭ ᱟᱠᱟᱱᱟ ᱾
 xpinstall-disabled = ᱥᱚᱯᱷᱴᱣᱮᱨ ᱵᱚᱦᱟᱞ ᱫᱚ ᱱᱤᱛᱚᱜ ᱵᱚᱸᱫ ᱛᱷᱟᱲ ᱠᱟᱱᱟ ᱾ ᱮᱢ ᱪᱷᱚᱛ ᱨᱮ ᱚᱛᱟ ᱠᱟᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ ᱾
 xpinstall-disabled-button =
     .label = ᱦᱩᱭ ᱦᱚᱪᱚ ᱛᱮᱭᱟᱨ
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ᱫᱚ ᱟᱢᱤᱡ ᱥᱭᱥᱴᱚᱢ ᱥᱟᱥᱚᱱᱤᱡ ᱛᱮ ᱵᱞᱚᱠ ᱟᱠᱟᱱᱟ ᱾
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = ᱟᱢᱟᱜ ᱥᱤᱥᱴᱚᱢ ᱪᱟᱪᱞᱟᱣᱤᱭᱟᱹ ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱠᱷᱚᱱ ᱟᱢᱟᱜ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱨᱮ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱵᱚᱦᱟᱞ ᱠᱷᱚᱱ ᱢᱟᱱᱟ ᱠᱮᱫᱟᱭ ᱾
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = ᱴᱷᱟᱹᱣᱠᱟᱹ ᱵᱚᱦᱟᱞ ᱮᱠᱥᱴ�
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = { $name } ᱚᱪᱚᱜᱟᱢ ᱥᱮ?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = { -brand-shorter-name } ᱠᱷᱚᱱ { $name } ᱚᱪᱚᱜᱽᱟᱢ ᱥᱮ ?
 addon-removal-button = ᱚᱪᱚᱜᱽ ᱢᱮ
 addon-removal-abuse-report-checkbox = ᱱᱚᱶᱟ ᱯᱟᱥᱱᱟᱣ ᱫᱚ { -vendor-short-name } ᱛᱮ ᱠᱷᱚᱵᱚᱨ ᱢᱮ
 # "it" refers to the local AI model that is paired to the AI feature
@@ -139,7 +122,5 @@ addon-local-install-no-addon-name-error-file-access = ᱯᱟᱥᱱᱟᱣ ᱫᱚ 
 addon-install-error-incompatible = { $addonName } ᱫᱚ ᱵᱟᱝ ᱵᱚᱦᱟᱞ ᱫᱟᱲᱮ ᱞᱮᱱᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱱᱚᱣᱟ ᱫᱚ { -brand-short-name } { $appVersion } ᱥᱟᱞᱟᱜ ᱢᱮᱞ ᱵᱟᱭ ᱡᱚᱢ ᱞᱮᱫᱼᱟ ᱾
 addon-install-error-hard-blocked = { $addonName } ᱫᱚ Mozilla ᱨᱮᱭᱟᱜ ᱯᱚᱞᱤᱥᱤ ᱵᱟᱝ ᱢᱟᱱᱟᱶ ᱮᱫᱟᱭ ᱟᱨ { -brand-short-name } ᱨᱮ ᱚᱱᱟᱛᱮ ᱵᱟᱝ ᱵᱚᱦᱟᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 addon-install-error-soft-blocked2 = { $addonName } ᱫᱚ ᱵᱟᱱᱫᱷᱟᱣ ᱟᱠᱟᱱᱟ ᱟᱨ { -brand-short-name } ᱨᱮ ᱵᱚᱦᱟᱞ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ ᱾
-addon-install-error-blocklisted = { $addonName } ᱫᱚ ᱵᱚᱦᱟᱞ ᱵᱟᱝ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱫᱼᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱱᱚᱣᱟ ᱫᱚ ᱥᱴᱮᱵᱤᱞᱤᱴᱤ ᱟᱨᱵᱟᱝ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱦᱩᱰᱟᱹᱜ ᱢᱮᱱᱟᱜᱼᱟ ᱾
-addon-install-error-soft-blocked = { $addonName } ᱫᱚ Mozilla ᱨᱮᱭᱟᱜ ᱯᱚᱞᱤᱥᱤ ᱵᱟᱝ ᱢᱟᱱᱟᱶ ᱮᱫᱟᱭ ᱟᱨ { -brand-short-name } ᱨᱮ ᱚᱱᱟᱛᱮ ᱵᱟᱝ ᱵᱚᱦᱟᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = ᱟᱢ ᱫᱚ { $addonName } ᱢᱩᱪᱟᱹᱫ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱞᱮᱠᱟ ᱵᱟᱢ ᱤᱱᱥᱴᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ, ᱱᱚᱶᱟ ᱫᱚ ᱮᱠᱮᱱ ᱮᱱᱴᱚᱨᱯᱨᱟᱭᱤᱡᱽ ᱯᱚᱞᱤᱥ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱮ ᱢᱤᱫ ᱜᱟᱶᱛᱟ ᱫᱟᱨᱟᱭ ᱛᱮ ᱤᱱᱥᱴᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾

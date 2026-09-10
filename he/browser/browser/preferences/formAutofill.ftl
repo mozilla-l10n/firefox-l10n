@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = כתובות שמורות
 autofill-manage-addresses-list-header = כתובות
-autofill-manage-credit-cards-title = כרטיסי אשראי שמורים
-autofill-manage-credit-cards-list-header = כרטיסי אשראי
 autofill-manage-payment-methods-title = אמצעי תשלום שמורים
 autofill-manage-cards-list-header = כרטיסים
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = פתיחת תפריט
 address-capture-edit-address-link = עריכת כתובת
     .aria-label = עריכת כתובת
-address-capture-edit-address-button =
-    .aria-label = עריכת כתובת
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = הוספת כתובת
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = עריכת כתובת
-autofill-address-given-name = שם פרטי
-autofill-address-additional-name = שם אמצעי
-autofill-address-family-name = שם משפחה
 autofill-address-name = שם
 autofill-address-organization = ארגון
 autofill-address-street-address = כתובת רחוב
@@ -104,8 +97,6 @@ autofill-address-eircode = מיקוד אירי
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = הוספת כתובת חדשה
 autofill-address-country = ארץ או איזור
 autofill-address-country-only = מדינה
 autofill-address-tel = טלפון
@@ -114,18 +105,6 @@ autofill-cancel-button = ביטול
 autofill-save-button = שמירה
 autofill-country-warning-message-2 = מילוי טפסים אוטומטי זמין כרגע למדינות מסוימות בלבד
 autofill-country-warning-message = מילוי טפסים אוטומטי זמין כרגע למדינות מסוימות בלבד.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = הוספת כרטיס אשראי חדש
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = עריכת כרטיס אשראי
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] להציג פרטי כרטיס אשראי
-        [windows] מתבצע ניסיון מצד { -brand-short-name } להציג נתוני כרטיס אשראי. יש לאשר את הגישה לחשבון ה־Windows הזה להלן.
-       *[other] מתבצע ניסיון מצד { -brand-short-name } להציג נתוני כרטיס אשראי.
-    }
 autofill-message-tooltip = הצגת הודעה על מילוי אוטומטי
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = הוספת כרטיס
@@ -211,15 +190,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = לעולם לא לשמור דרכונים
     .accessKey = ע
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = אמריקן אקספרס
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = דיינרס קלאב
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = מאסטרקארד
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = ויזה

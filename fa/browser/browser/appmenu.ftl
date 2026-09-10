@@ -33,8 +33,6 @@ appmenuitem-extensions-and-themes =
     .label = افزونه‌ها و زمینه‌ها
 appmenuitem-extensions =
     .label = افزونه‌ها
-appmenuitem-addons-and-themes =
-    .label = افزایه‌ها و زمینه‌ها
 appmenuitem-print =
     .label = چاپ...
 appmenuitem-find-in-page =
@@ -103,7 +101,6 @@ appmenu-remote-tabs-unverified = حسابتان باید تأیید شود.
 appmenuitem-fxa-toolbar-sync-now2 = اکنون همگام شود
 appmenuitem-fxa-sign-in = ورود به { -brand-product-name }
 appmenuitem-fxa-manage-account = مدیریت حساب
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = حساب کاربری
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -121,15 +118,6 @@ appmenuitem-save-page =
     .label = ذخیرهٔ صفحه به عنوان…
 appmenuitem-fxa-sync-off-title = همگام‌سازی خاموش است
 appmenuitem-fxa-sync-off-description = محافظت و دسترسی به نشانک‌ها، گذرواژه‌ها و موارد دیگر در هر مکان
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = چه چیزی جدید است
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = آگاهی دربارهٔ قابلیت‌های جدید
-    .accesskey = ق
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -235,8 +223,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = اطلاعات عیب‌یابی بیشتر
     .accesskey = ع
-appmenu-help-report-site-issue =
-    .label = گزارش مشکلات پایگاه…
 appmenu-help-share-ideas =
     .label = هم‌رسانی ایده‌ها و بازخوردها…
     .accesskey = س
@@ -284,9 +270,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = پنهان کردن رایانامه و شماره تلفن واقعی شما
 appmenuitem-services-relay-description = پیش‌خوان راه‌اندازی نقاب‌های رایانامه
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description = حفاظت از فعالیت آنلاین شما
 appmenu-services-header = خدمات من
-appmenu-other-protection-header = سایر ابزارهای حفاظتی از { -vendor-short-name } را امتحان کنید:
 
 ## Profiles panel
 

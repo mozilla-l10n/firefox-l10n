@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Sie sind derzeit im FIPS-Modus. FIPS benö
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Hauptpasswort zurücksetzen
     .style = min-width: 40em
+    .title = Hauptpasswort zurücksetzen
 reset-password-button-label =
     .label = Zurücksetzen
 reset-primary-password-text = Wenn Sie Ihr Hauptpasswort zurücksetzen, gehen all Ihre gespeicherten Web- und E-Mail-Passwörter, Formulardaten, persönlichen Zertifikate und privaten Schlüssel verloren. Soll Ihr Hauptpasswort trotzdem zurückgesetzt werden?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Ihr Hauptpasswort wurde zurückgese
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Herunterladen des Zertifikats
     .style = min-width: 46em
+    .title = Herunterladen des Zertifikats
 download-cert-message = Sie wurden gebeten, einer neuen Zertifizierungsstelle (CA) zu vertrauen.
 download-cert-trust-ssl =
     .label = Dieser CA vertrauen, um Websites zu identifizieren.
@@ -52,8 +52,6 @@ download-cert-view-text = CA-Zertifikat überprüfen
 
 client-auth-window =
     .title = Benutzer-Identifikationsanfrage
-client-auth-site-description = Diese Website verlangt, dass Sie sich mit einem Zertifikat identifizieren:
-client-auth-choose-cert = Wählen Sie ein Zertifikat, das als Identifikation vorgezeigt wird:
 client-auth-send-no-certificate =
     .label = Kein Zertifikat senden
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Bitte authentifizieren Sie sich beim Kryptographie-Modul ({ $tokenName }). Wie dies zu tun ist, hängt vom Gerät ab (Sie verwenden beispielsweise einen Fingerabdruckleser oder geben einen Code über eine Tastatur ein).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Bitte authentifizieren Sie sich beim Token "{ $tokenName }". Wie dies zu tun ist, hängt vom Token ab (z. B. über einen Fingerabdruckleser oder die Eingabe eines Codes über eine Tastatur).

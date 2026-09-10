@@ -62,7 +62,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Համաժամեցրեք ձեր էջանիշերը ամեն տեղ:
-cfr-doorhanger-bookmark-fxa-body = Մեծ գտածո: Այժմ մի մնացեք առանց այս էջանիշի ձեր բջջային սարքերում: Խորհուրդ ենք տալիս սկսել { -fxaccount-brand-name }-ի հետ։
 cfr-doorhanger-bookmark-fxa-body-2 = Հիանալի գտածո է։ Հիմա մի՛ մնացեք առանց այս էջանիշի ձեր բջջային սարքերում։ Սկսեք հաշիվ ստեղծելով։
 cfr-doorhanger-bookmark-fxa-link-text = Համաժամեցնել էջանիշերը...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -75,12 +74,6 @@ fxa-adoption-credit-cards-backup-subtitle = Պաշտպանեք ձեր վճարմ
 fxa-adoption-bookmarks-treatment-backup-title = Եկեք պահուստավորենք ձեր էջանիշները
 fxa-adoption-bookmarks-treatment-backup-subtitle = Պաշտպանեք ձեր էջանիշները՝ համաժամեցնելով դրանք ձեր սարքերի հետ կոդավորմամբ։
 fxa-adoption-primary-button-label = Գրանցվել
-
-## Protections panel
-
-cfr-protections-panel-header = Դիտարկել  առանց հետագծվելու
-cfr-protections-panel-body = Ձեր տվյալները պահեք ձեզ մոտ: { -brand-short-name }-ը ձեզ պաշտպանում է ամենատարածված վնասներից, որոնք հետևում են այն ամենին, ինչ դուք անում եք առցանց:
-cfr-protections-panel-link-text = Իմանալ ավելին
 
 ## What's New toolbar button and panel
 
@@ -176,42 +169,8 @@ mr2022-background-update-toast-primary-button-label = Բացել { -brand-shorte
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Հիշեցնել ավելի ուշ
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Փորձիր
-    .accesskey = T
-firefoxview-cfr-secondarybutton = Ոչ հիմա
-    .accesskey = N
-firefoxview-cfr-header-v2 = Արագ շարունակեք այնտեղից, որտեղ կանգ եք առել
-firefoxview-cfr-body-v2 = Վերադարձրեք վերջերս փակված ներդիրները, ինչպես նաև անխափան անցեք սարքերի միջև { -firefoxview-brand-name }-ի միջոցով։
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Ասեք բարև { -firefoxview-brand-name }-ին
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Ցանկանո՞ւմ եք բացել ներդիրը ձեր հեռախոսում: Արեք դա: Պետք է բացել այն կայքը, որը նոր էիք այցելել: Պահ, այն { -firefoxview-brand-name }-ում է:
-firefoxview-spotlight-promo-primarybutton = Տեսեք, թե ինչպես է այն աշխատում
-firefoxview-spotlight-promo-secondarybutton = Բաց թողնել
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Ընտրեք գունային գամմա
-    .accesskey = C
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Գունավորեք ձեր դիտարկիչը { -brand-short-name } բացառիկ երանգներով, որոնք ոգեշնչված են մշակույթը փոխած ձայներից։
-colorways-cfr-header-28days = «Անկախ ձայներ» գունային գամման ավարտվում է հունվարի 16-ին
-colorways-cfr-header-14days = «Անկախ ձայներ» գունային գամման ժամկետը լրանում է երկու շաբաթից
-colorways-cfr-header-7days = «Անկախ ձայներ» գունային գամման ժամկետը լրանում է այս շաբաթ
-colorways-cfr-header-today = «Անկախ ձայներ» գունային գամմաների ժամկետը լրանում է այսօր
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Թույլատրե՞լ { -brand-short-name }-ին մերժել թխուկների պաստառները:
-cfr-cbh-body = { -brand-short-name }-ը կարող է ավտոմատ կերպով մերժել cookie-ների բազմաթիվ բաններային հարցումներ։
-cfr-cbh-confirm-button = Մերժել թխուկների պաստառները
-    .accesskey = R
-cfr-cbh-dismiss-button = Ոչ հիմա
-    .accesskey = N
 cookie-banner-blocker-onboarding-header = { -brand-short-name }-ը հենց նոր մերժեց ձեզ համար cookie-ի պաստառը
 cookie-banner-blocker-onboarding-body = Ավելի քիչ շեղումներ, ավելի քիչ թխուկներ, որոնք հետևում են ձեզ այս կայքում:
 cookie-banner-blocker-onboarding-learn-more = Իմանալ ավելին

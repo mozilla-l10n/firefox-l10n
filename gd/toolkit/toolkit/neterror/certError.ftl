@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Chan eil earbsa againn san teisteanas seo o 
 cert-error-trust-signature-algorithm-disabled = Chan eil earbsa againn san teisteanas o chionn ’s gun deach a shoidhneadh le algairim soidhnidh a chaidh a chur à comas o chionn ’s nach eil an algairim tèarainte.
 cert-error-trust-expired-issuer = Chan eil earbsa againn san teisteanas seo o chionn ’s gun do dh’fhalbh an ùine air teisteanas an fhoillsicheir.
 cert-error-trust-self-signed = Chan eil earbsa againn san teisteanas seo o chionn ’s gun deach a fhèin-shoidhneadh.
-cert-error-trust-symantec = Chan eilear dhen bheachd gu bheil teisteanasan le GeoTrust, RapidSSL, Symantec, Thawte agus VeriSign sàbhailte tuilleadh a chionn ’s nach robh na h-ùghdarrasan theisteanasan seo a’ leantainn gnàthasan tèarainteach roimhe seo.
 cert-error-untrusted-default = Chan eil earbsa againn san tùs on dàinig an teisteanas seo.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -52,10 +51,6 @@ cert-error-code-prefix-link = Còd na mearachd: <a data-l10n-name="error-code-li
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Thachair mearachd fhad 's a bha ceangal ann ri { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Bidh làraichean-lìn a’ dearbhadh cò iad le teisteanasan tèarainteachd a tha ’gam foillseachadh le ùghdarrasan theisteanasan. Chan eil earbsa aig a’ mhòrchuid de bhrabhsairean ann an GeoTrust, RapidSSL, Symantec, Thawte agus VeriSign tuilleadh. Tha { $hostname } a’ cleachdadh teisteanas o aon dhe na h-ùghdarrasan seo agus cha ghabh dearbh-aithne na làraich-lìn a dhearbhadh ri linn sin.
-cert-error-symantec-distrust-admin = ’S urrainn dhut fios a leigeil gu rianaire na làraich-lìn seo mun duilgheadas seo.
 cert-error-old-tls-version = Dh’fhaoidte nach cuir an làrach-lìn seo taic dhan phròtacail TLS 1.2 ach sin an tionndadh as lugha ris an cuir { -brand-short-name } taic.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -64,7 +59,6 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Sèine an teisteanais:
-open-in-new-window-for-csp-or-xfo-error = Fosgail an làrach ann an uinneag ùr
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Gus do thèarainteachd a dhìon, cha leig { $hostname } le { -brand-short-name } an duilleag a thaisbeanadh ma tha làrach eile leabaichte na bhroinn. Feumaidh tu an duilleag seo fhosgladh ann an uinneag ùr mus fhaic thu e.
@@ -76,8 +70,6 @@ deniedPortAccess-title = Tha an seòladh seo cuingichte
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hm, tha duilgheasan againn a’ faighinn sgeul air an làrach seo.
-dns-not-found-trr-only-title2 = Bidh e na chunnart tèarainteachd ma dh’fhaoidte ma bheirear sùil air an àrainn seo
-dns-not-found-native-fallback-title2 = Bidh e na chunnart tèarainteachd ma dh’fhaoidte ma bheirear sùil air an àrainn seo
 fileNotFound-title = Cha deach am faidhle a lorg
 fileAccessDenied-title = Chaidh inntrigeadh dhan fhaidhle a dhiùltadh
 generic-title = Mo chreach!
@@ -99,7 +91,6 @@ redirectLoop-title = Chan eil an duilleag ag ath-stiùireadh mar bu chòir
 unknownSocketType-title = Freagairt ris nach robh dùil on fhrithealaiche
 nssFailure2-title = Dh’fhàillig an ceangal tèarainte
 csp-xfo-error-title = Chan urrainn dha { -brand-short-name } an duilleag seo fhosgladh
-corruptedContentError-title = Mearachd air sgàth susbaint thruaillte
 sslv3Used-title = Chan urrainn dhuinn ceangal tèarainte a dhèanamh
 inadequateSecurityError-title = Chan eil an ceangal agad tèarainte
 blockedByPolicy-title = Duilleag bhacte

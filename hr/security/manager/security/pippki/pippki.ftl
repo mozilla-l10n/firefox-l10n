@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Trenutačno si u FIPS modusu. FIPS ne dopu
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Ponovno postavljanje primarne lozinke
     .style = min-width: 40em
+    .title = Ponovno postavljanje primarne lozinke
 reset-password-button-label =
     .label = Poništi
 reset-primary-password-text = Ako resetiraš primarnu lozinku, zaboravit će se sve spremljene lozinke web stranica i e-pošte te spremljeni formulari, osobni certifikati i privatni ključevi. Zaista želiš poništiti svoju primarnu lozinku?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Tvoja primarna lozinka ponovno je p
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Preuzimanje certifikata
     .style = min-width: 46em
+    .title = Preuzimanje certifikata
 download-cert-message = Novo certifikacijsko tijelo (CA) traži da mu se vjeruje.
 download-cert-trust-ssl =
     .label = Vjeruj ovom CA-u za identifikaciju web stranica.
@@ -52,8 +52,6 @@ download-cert-view-text = Ispitaj CA-ov certifikat
 
 client-auth-window =
     .title = Zahtjev identifikacije korisnika
-client-auth-site-description = Ova stranica je zatražila da se identificirate s certifikatom:
-client-auth-choose-cert = Odaberi certifikat za identifikaciju:
 client-auth-send-no-certificate =
     .label = Nemoj poslati certifikat
 # Variables:
@@ -100,9 +98,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Lozinka sigurnosne kopije certifikata (još jednom):
 set-password-reminder = Važno: ako zaboraviš svoju lozinku sigurnosne kopije certifikata, kasnije nećeš moći obnoviti ovu sigurnosnu kopiju. Spremi lozinku na sigurno mjesto.
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Autentificiraj se na token „{ $tokenName }”. Kako to učiniti ovisi o tokenu (npr. skeniranjem otiska prsta ili unosom koda na tipkovnici).

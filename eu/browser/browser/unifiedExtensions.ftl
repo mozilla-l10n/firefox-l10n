@@ -36,9 +36,6 @@ unified-extensions-item-message-manage = Kudeatu hedapena
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = { $extensionName } mugatuta dago. Erabiltzea arriskutsua izan liteke.
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName } hedapenak Mozillaren politikak bortxatzen ditu. Arriskutsua izan liteke hau erabiltzea.
 
 ## Extension's context menu
 
@@ -57,8 +54,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Zenbait hedapen ez dira onartzen
-unified-extensions-mb-quarantined-domain-message = Zure datuak babesteko, bakarrik { -vendor-short-name }(e)k monitorizatutako zenbait hedapen daude baimenduta gune honetan.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Zenbait hedapen ez dira onartzen
@@ -74,13 +69,6 @@ unified-extensions-mb-blocklist-warning-single2 =
         Hedapen hau mugatuta dago eta desgaitu egin da.
         Ezarpenetan gaitzeko aukera daukazu baina arriskutsua izan liteke.
 # Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } desgaituta
-    .message =
-        Hedapen honek Mozillaren politikak bortxatzen ditu eta desgaitu egin da.
-        Ezarpenetan gaitzeko aukera daukazu baina arriskutsua izan liteke.
-# Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } desgaituta
@@ -93,16 +81,6 @@ unified-extensions-mb-blocklist-warning-multiple2 =
            *[other] { $extensionsCount } extensions disabled
         }
     .message = { $extensionsCount } hedapen desgaituta
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-           *[other] { $extensionsCount } hedapen desgaituta
-        }
-    .message =
-        Zure zenbait hedapen desgaitu egin dira Mozillaren politikak bortxatzen dituztelako.
-        Ezarpenetan gaitzeko aukera daukazu baina arriskutsua izan liteke.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =

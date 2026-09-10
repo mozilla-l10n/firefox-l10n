@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Boles agiùnghere { $extension }?
-webext-perms-header-with-perms = Boles agiùnghere { $extension }? Custa estensione at a tènnere permissu pro:
-webext-perms-header-unsigned = Boles agiùnghere { $extension }? Custa estensione no est averiguada. Is estensiones malas ti nde podent furare is informatziones riservadas o pònnere s'elaboradore in perìgulu. Agiunghe isceti si ti fidas de s'orìgine.
-webext-perms-header-unsigned-with-perms = Boles agiùnghere { $extension }? Custa estensione no est averiguada. Is estensiones malas ti nde podent furare is informatziones riservadas o pònnere s'elaboradore in perìgulu. Agiunghe isceti si ti fidas de s'orìgine. Custa estensione at a tènnere permissu pro:
 webext-perms-sideload-header = { $extension } agiuntu
 webext-perms-optional-perms-header2 = { $extension } pedit permissos agiuntivos
-webext-perms-optional-perms-header = { $extension } pedit permissos agiuntivos.
 webext-perms-header2 = Agiunghe { $extension }
 
 ## Headers used in the webextension permissions dialog, inside the content.
@@ -53,9 +48,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } est istada atualizada. Depes aprovare is permissos noos in antis chi sa versione noa siat installada. Si sèberas “Annulla” s’at a mantènnere sa versione atuale de s’estensione.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } est istadu atualizadu. Depes aprovare is permissos noos in antis de s'installatzione de sa versione atualizada. Si sèberas “annulla” as a abarrare cun sa versione atuale de s'estensione. S'estensione at a tènnere permissu pro:
 webext-perms-update-accept =
     .label = Agiorna
     .accesskey = g
@@ -71,24 +63,8 @@ webext-perms-host-description-all-urls = Atzèdere a is datos de totu is sitos w
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Atzèdere a is datos tuos pro sitos de su domìniu { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Atzèdere a is datos in { $domainCount } àteru domìniu
-       *[other] Atzèdere a is datos in { $domainCount } àteros domìnios
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Atzèdere a is datos tuos de { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Atzèdere a is datos de { $domainCount } àteru domìniu
-       *[other] Atzèdere a is datos de { $domainCount } àteros domìnios
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

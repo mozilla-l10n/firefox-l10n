@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Ogled nedavnega brskanja v drugih oknih in napravah
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Zapri
-    .aria-label = Zapri
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Pravkar
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Sinhronizirani zavihki
-firefoxview-tabpickup-description = Odprite strani z drugih naprav.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% dokončano
-firefoxview-tabpickup-step-signin-header = Brez težav preklapljajte med napravami
-firefoxview-tabpickup-step-signin-description = Če želite tukaj prikazati zavihke s telefona, se prijavite ali ustvarite račun.
-firefoxview-tabpickup-step-signin-primarybutton = Nadaljuj
 firefoxview-syncedtabs-signin-header-2 = Vaš { -brand-product-name } na vseh napravah
 firefoxview-syncedtabs-signin-description-2 = Če si želite ogledati zavihke, ki jih imate odprte na telefonu in drugih napravah, se prijavite ali ustvarite račun. Z računom lahko sinhronizirate tudi gesla, zgodovino in drugo.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Preprosto preklapljajte med prenosnikom in telefonom
 firefoxview-syncedtabs-signin-description-3 = Vaše brskanje naj bo povezano na vseh napravah — zavihki, gesla in zgodovina bodo vedno usklajeni.
 firefoxview-syncedtabs-signin-primarybutton-2 = Prijava
-firefoxview-tabpickup-adddevice-header = Sinhronizirajte { -brand-product-name } s telefonom ali tablico
-firefoxview-tabpickup-adddevice-description = Prenesite { -brand-product-name } za mobilne naprave in se prijavite vanj.
-firefoxview-tabpickup-adddevice-learn-how = Poglejte, kako
-firefoxview-tabpickup-adddevice-primarybutton = Prenesi { -brand-product-name } za mobilne naprave
 firefoxview-syncedtabs-adddevice-header-2 = Zajemite zavihke od koderkoli
 firefoxview-syncedtabs-adddevice-description-2 = Za ogled zavihkov se prijavite v { -brand-product-name } na telefonu ali drugem računalniku. Naučite se, kako <a data-l10n-name="url">povežete dodatne naprave</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Preizkusite { -brand-product-name } za mobilne naprave
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Vaši zavihki so vas poklicali. Najdete jih na svojem telefonu.
 firefoxview-syncedtabs-adddevice-description-3 = Skenirajte kodo QR , prenesite { -brand-product-name(sklon: "tozilnik") } za mobilne naprave ter začnite sinhronizacijo odprtih zavihkov in drugih vsebin. Naučite se, kako <a data-l10n-name="url">povežete dodatne naprave</a>.
-firefoxview-tabpickup-synctabs-header = Vklopi sinhronizacijo zavihkov
-firefoxview-tabpickup-synctabs-description = { -brand-short-name(sklon: "dajalnik") } dovoli skupno rabo zavihkov med napravami.
-firefoxview-tabpickup-synctabs-learn-how = Poglejte, kako
 firefoxview-tabpickup-synctabs-primarybutton = Sinhroniziraj odprte zavihke
 firefoxview-tabpickup-synctabs-primarybutton-2 = Vklopi sinhronizacijo zavihkov
 firefoxview-syncedtabs-synctabs-header = Spremeni nastavitve sinhronizacije
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Ko se bo končala, se bodo prikazal
 firefoxview-syncedtabs-loading-header-2 = Pridobivanje zavihkov …
 firefoxview-syncedtabs-loading-description-2 = Sinhronizacija poteka. Zavihki bodo kmalu tu.
 firefoxview-tabpickup-fxa-admin-disabled-header = Vaša organizacija je onemogočila sinhronizacijo
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ne more sinhronizirati zavihkov med napravami, ker je skrbnik onemogočil sinhronizacijo.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ne more sinhronizirati zavihkov med napravami, ker je vaša organizacija onemogočila sinhronizacijo.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Sinhroniziranje zavihkov je izklopljeno
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Vaša organizacija je prepovedala uporabo te možnosti.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Odklenite zavihke z glavnim geslom
 firefoxview-tabpickup-password-locked-description-2 = Zaradi vaše zasebnosti so sinhronizirani zavihki zaščiteni. Za ogled zavihkov z drugih naprav vnesite glavno geslo za { -brand-short-name(sklon: "tozilnik") }.
 firefoxview-tabpickup-signed-out-header = Prijavite se, da se ponovno povežete
-firefoxview-tabpickup-signed-out-description = Za ponovno vzpostavitev povezave in zajem zavihkov se prijavite v { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Za ponovno vzpostavitev povezave in zajem zavihkov se prijavite v račun.
 firefoxview-tabpickup-signed-out-primarybutton = Prijava
 firefoxview-tabpickup-signed-out-header-2 = Prijavite se za prikaz svojih zavihkov
 firefoxview-tabpickup-signed-out-description-2 = Za ogled zavihkov z drugih naprav se znova povežite.
-firefoxview-tabpickup-syncing = Počakajte, da se zavihki sinhronizirajo. Trajalo bo samo trenutek.
-firefoxview-mobile-promo-header = Zajemite zavihke s telefona ali tablice
-firefoxview-mobile-promo-description = Za ogled najnovejših mobilnih zavihkov se prijavite v { -brand-product-name(sklon: "tozilnik") } v sistemu iOS ali Android.
-firefoxview-mobile-promo-primarybutton = Prenesi { -brand-product-name } za mobilne naprave
-firefoxview-mobile-confirmation-header = 🎉 Opravljeno!
-firefoxview-mobile-confirmation-description = Zdaj lahko zajamete zavihke iz { -brand-product-name(sklon: "rodilnik") } na tablici ali telefonu.
-firefoxview-closed-tabs-title = Nedavno zaprto
-firefoxview-closed-tabs-description2 = Ponovno odprite strani, ki ste jih zaprli v tem oknu.
-firefoxview-closed-tabs-placeholder-header = Ni nedavno zaprtih zavihkov
-firefoxview-closed-tabs-placeholder-body = Tukaj lahko najdete zavihke, ki ste jih zaprli v tem oknu.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Zapri { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Zadnja dejavnost
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Odpri { $targetURI } v novem zavihku
-firefoxview-try-colorways-button = Preizkusite barvne kombinacije
-firefoxview-change-colorway-button = Spremeni barvno kombinacijo
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Tu ni še ničesar
-firefoxview-synced-tabs-placeholder-body = Ko naslednjič odprete stran v { -brand-product-name(sklon: "mestnik") } na drugi napravi, si jo lahko ogledate tudi tukaj.
 firefoxview-collapse-button-show =
     .title = Prikaži seznam
 firefoxview-collapse-button-hide =

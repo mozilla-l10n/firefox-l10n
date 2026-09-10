@@ -60,7 +60,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Бетбелгілерді барлық жерде синхрондаңыз.
-cfr-doorhanger-bookmark-fxa-body = Тамаша табу! Енді мобильді құрылғыларыңызда бұл бетбелгісіз қалмаңыз. { -fxaccount-brand-name } қызметімен жұмысты бастаңыз.
 cfr-doorhanger-bookmark-fxa-body-2 = Тамаша табу! Енді мобильді құрылғыларыңызда бұл бетбелгісіз қалмаңыз. Тіркелгіден бастаңыз.
 cfr-doorhanger-bookmark-fxa-link-text = Бетбелгілерді қазір синхрондау…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -73,12 +72,6 @@ fxa-adoption-credit-cards-backup-subtitle = Төлем әдістеріңізд�
 fxa-adoption-bookmarks-treatment-backup-title = Бетбелгілеріңіздің сақтық көшірмесін жасайық
 fxa-adoption-bookmarks-treatment-backup-subtitle = Бетбелгілеріңізді құрылғыларыңызбен шифрленген түрде синхрондау арқылы қорғаңыз.
 fxa-adoption-primary-button-label = Тіркелу
-
-## Protections panel
-
-cfr-protections-panel-header = Бақылаусыз шолу
-cfr-protections-panel-body = Деректеріңізді тек өзіңіз үшін қалдырыңыз. { -brand-short-name } желіде сіздің соңыңыздан еретін ең кең тараған трекерлердің көбінен қорғайды.
-cfr-protections-panel-link-text = Көбірек білу
 
 ## What's New toolbar button and panel
 
@@ -173,42 +166,8 @@ mr2022-background-update-toast-primary-button-label = { -brand-shorter-name } қ
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Кейінірек еске салу
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Қолданып көріңіз
-    .accesskey = н
-firefoxview-cfr-secondarybutton = Қазір емес
-    .accesskey = е
-firefoxview-cfr-header-v2 = Тоқтаған жерден жылдам жалғастырыңыз
-firefoxview-cfr-body-v2 = Жақында жабылған беттерді қайтарып алыңыз, сонымен қатар { -firefoxview-brand-name } көмегімен құрылғылар арасында кедергісіз өтіңіз.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = { -firefoxview-brand-name } өнімін қарсы алыңыз
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Телефоныңыздағы ашық бетті қалайсыз ба? Оны алыңыз. Сізге жаңа ғана кірген сайт керек пе? Ол { -firefoxview-brand-name } арқылы қайта оралды.
-firefoxview-spotlight-promo-primarybutton = Бұл қалай жұмыс жасайтынын қарау
-firefoxview-spotlight-promo-secondarybutton = Аттап кету
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Түстер схемасын таңдау
-    .accesskey = т
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Браузеріңізді мәдениетті өзгерткен дауыстардан шабыттандырылған { -brand-short-name } эксклюзивті реңктермен бояңыз.
-colorways-cfr-header-28days = Тәуелсіз дауыстар түстер схемаларының мерзімі 16 қаңтарда аяқталады
-colorways-cfr-header-14days = Тәуелсіз дауыстар түстер схемаларының мерзімі екі аптадан кейін аяқталады
-colorways-cfr-header-7days = Тәуелсіз дауыстар түстер схемаларының мерзімі осы аптада аяқталады
-colorways-cfr-header-today = Тәуелсіз дауыстар түстер схемаларының мерзімі бүгін аяқталады
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = { -brand-short-name } үшін cookie баннерлерін елемеу рұқсатын бересіз бе?
-cfr-cbh-body = { -brand-short-name } көптеген cookie баннер сұрауларын автоматты түрде қабылдамау әрекетін жасай алады.
-cfr-cbh-confirm-button = Cookie баннерлерін елемеу
-    .accesskey = р
-cfr-cbh-dismiss-button = Қазір емес
-    .accesskey = м
 cookie-banner-blocker-onboarding-header = { -brand-short-name } жаңа ғана сіз үшін cookie баннерінен бас тартты
 cookie-banner-blocker-onboarding-body = Бұл сайтта алаңдататын нәрселерді мен сізді бақылайтын cookie файлдарын азырақ қылу.
 cookie-banner-blocker-onboarding-learn-more = Көбірек білу

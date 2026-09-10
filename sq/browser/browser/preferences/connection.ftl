@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Rregullime Lidhjeje
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Rregullime Lidhjeje
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Ringarkoje
     .accesskey = R
-connection-proxy-autologin =
-    .label = Mos shfaq kërkesë mirëfilltësimi, nëse është ruajtur fjalëkalim
-    .accesskey = i
-    .tooltip = Me këtë mundësi, mirëfilltësimi te ndërmjetësit, bëhet heshtazi, kur keni kredenciale të ruajtura për ta. Nëse mirëfilltësimi dështon, do të shfaqet kërkesa.
 connection-proxy-autologin-checkbox =
     .label = Mos shfaq kërkesë mirëfilltësimi, nëse është ruajtur fjalëkalim
-    .accesskey = i
     .tooltiptext = Me këtë mundësi, mirëfilltësimi te ndërmjetësit, bëhet heshtazi, kur keni kredenciale të ruajtura për ta. Nëse mirëfilltësimi dështon, do të shfaqet kërkesa.
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = Kaloje DNS-në nën Ndërmjetës, kur përdoret SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Për ftillim DNS-je përmes HTTPS-je përdor URL-në parazgjedhje
 connection-dns-over-https-url-custom =
     .label = Vetjake
-    .accesskey = V
     .tooltiptext = Jepni URL-në tuaj të parapëlqyer për ftillim DNS-je përmes HTTPS-së
-connection-dns-over-https-custom-label = Vetjak
+    .accesskey = V

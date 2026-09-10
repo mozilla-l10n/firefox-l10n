@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Nieuw tabblad
-    .accesskey = i
 reload-tab =
     .label = Tabblad vernieuwen
     .accesskey = n
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nieuwe groep
     .accesskey = g
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -205,13 +198,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Deelbare koppeling maken
     .accesskey = a
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Tabblad naar apparaat verzenden
-           *[other] { $tabCount } tabbladen naar apparaat verzenden
-        }
-    .accesskey = z
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

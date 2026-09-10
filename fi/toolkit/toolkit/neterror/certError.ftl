@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Varmenteeseen ei luoteta, koska sen myöntä
 cert-error-trust-signature-algorithm-disabled = Varmenteeseen ei luoteta, koska se on allekirjoitettu allekirjoitusalgoritmilla, joka ei ole turvallinen.
 cert-error-trust-expired-issuer = Varmenteeseen ei luoteta, koska sen myöntäjän varmenne on vanhentunut.
 cert-error-trust-self-signed = Varmenteeseen ei luoteta, koska se on allekirjoitettu itsellään.
-cert-error-trust-symantec = Varmenteisiin, joiden myöntäjänä on GeoTrust, RapidSSL, Symantec, Thawte tai VeriSign, ei enää luoteta, koska nämä varmenteiden myöntäjät eivät noudattaneet tietoturvakäytäntöjä.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } ei luota sivustoon { $hostname }, koska se ei pystynyt todistamaan, että se täyttää julkisen varmenteen läpinäkyvyysvaatimukset.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Virhekoodi: <a data-l10n-name="error-code-link">{ 
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Tapahtui virhe oltaessa yhteydessä osoitteeseen { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Sivustot todistavat identiteettinsä varmenteella, jonka myöntää varmentaja. Useimmat selaimet eivät enää luota varmenteisiin, joiden varmentaja on GeoTrust, RapidSSL, Symantec, Thawte tai VeriSign. { $hostname } käyttää varmennetta, jonka on myöntänyt jokin ennalta mainituista varmentajista. Sivuston identiteettiä ei siksi voida todistaa.
-cert-error-symantec-distrust-admin = Voit ilmoittaa tästä ongelmasta sivuston ylläpitäjälle.
 cert-error-old-tls-version = Tämä sivusto ei välttämättä tue TLS 1.2 -protokollaa, joka on pienin { -brand-short-name }in tukema versio protokollasta.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Varmenneketju:
-open-in-new-window-for-csp-or-xfo-error = Avaa sivusto uuteen ikkunaan
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Turvallisuutesi suojaamiseksi { $hostname } ei salli, että { -brand-short-name } näyttää sivun, jos se on upotettu toiselle sivulle. Jotta voit nähdä tämän sivun, sinun tulee avata se uudessa ikkunassa.
 fp-certerror-view-certificate-link = Näytä sivuston varmenne
 fp-certerror-return-to-previous-page-recommended-button-2 = Palaa takaisin (suositus)
     .accesskey = P
-fp-certerror-return-to-previous-page-recommended-button = Palaa (suositellaan)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -106,21 +99,21 @@ fp-certerror-self-signed-important-note = TÄRKEÄ HUOMAUTUS: Jos yrität vierai
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = Sivustot käyttävät CA-varmentajan myöntämiä varmenteita todistaakseen olevansa todella sitä, mitä väittävät. { -brand-short-name } ei luota tähän sivustoon, koska vaikuttaa siltä, että varmenne on vanhentunut { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-expired-why-dangerous-body = Sivustot käyttävät CA-varmentajan myöntämiä varmenteita todistaakseen olevansa todella sitä, mitä väittävät. { -brand-short-name } ei luota tähän sivustoon, koska vaikuttaa siltä, että varmenne on vanhentunut { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = Sivustot käyttävät CA-varmentajan myöntämiä varmenteita todistaakseen olevansa todella sitä, mitä väittävät. { -brand-short-name } ei luota tähän sivustoon, koska vaikuttaa siltä, että varmenne on voimassa vasta { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-not-yet-valid-why-dangerous-body = Sivustot käyttävät CA-varmentajan myöntämiä varmenteita todistaakseen olevansa todella sitä, mitä väittävät. { -brand-short-name } ei luota tähän sivustoon, koska vaikuttaa siltä, että varmenne on voimassa vasta { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = Laitteesi kello on asetettu { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Jos tämä on oikein, tietoturvaongelma johtuu todennäköisesti itse sivustosta. Jos kellonaika on väärin, voit muuttaa sitä laitteesi järjestelmäasetuksista.
+fp-certerror-expired-what-can-you-do-body = Laitteesi kello on asetettu { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Jos tämä on oikein, tietoturvaongelma johtuu todennäköisesti itse sivustosta. Jos kellonaika on väärin, voit muuttaa sitä laitteesi järjestelmäasetuksista.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Virhekoodi: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -133,11 +126,11 @@ fp-learn-more-about-time-related-errors = Lue lisää aikaan liittyvien virheide
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } ei luota tähän sivustoon, koska vaikuttaa siltä, että varmenne ei ole voimassa ennen { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } ei luota tähän sivustoon, koska vaikuttaa siltä, että varmenne ei ole voimassa ennen { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Laitteesi kello on asetettu aikaan { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Jos tämä on oikein, tietoturvaongelma on todennäköisesti itse sivustossa. Jos kellonaika tai päivä on väärin, voit muuttaa päiväyksen asetuksia laitteesi järjestelmäasetuksissa.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Laitteesi kello on asetettu aikaan { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Jos tämä on oikein, tietoturvaongelma on todennäköisesti itse sivustossa. Jos kellonaika tai päivä on väärin, voit muuttaa päiväyksen asetuksia laitteesi järjestelmäasetuksissa.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -179,8 +172,6 @@ deniedPortAccess-title = Osoitteen käyttö on rajoitettu
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Sivua ei löydy.
 internet-connection-offline-title = Vaikuttaa siltä, että Internet-yhteydessäsi on ongelma.
-dns-not-found-trr-only-title2 = Mahdollinen tietoturvariski tätä verkkotunnusta etsittäessä
-dns-not-found-native-fallback-title2 = Mahdollinen tietoturvariski tätä verkkotunnusta etsittäessä
 fileNotFound-title = Tiedostoa ei löytynyt
 fileAccessDenied-title = Tiedoston käyttö estettiin
 generic-title = Verkkopyyntöä ei kyetä toteuttamaan
@@ -205,7 +196,6 @@ unknownSocketType-title = Odottamaton vastaus palvelimelta
 nssFailure2-title = Suojatun yhteyden muodostaminen epäonnistui
 csp-xfo-error-title = { -brand-short-name } ei voi avata tätä sivua
 corruptedContentErrorv2-title = Sisältö vioittunut -virhe
-corruptedContentError-title = Sisältö vioittunut -virhe
 sslv3Used-title = Ei voitu muodostaa suojattua yhteyttä
 inadequateSecurityError-title = Yhteys ei ole suojattu
 blockedByPolicy-title = Estetty sivu
@@ -228,7 +218,6 @@ fp-certerror-hide-advanced-button = Piilota lisäasetukset
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Jatka sivustolle { $hostname } (riskialtista)
 fp-certerror-intro = { -brand-short-name } havaitsi mahdollisesti vakavan tietoturvaongelman sivustossa <strong>{ $hostname }</strong>. Sivustona esiintyvä taho voi yrittää varastaa esimerkiksi luottokorttitietoja, salasanoja tai sähköposteja.
 fp-certerror-expired-into = { -brand-short-name } havaitsi tietoturvaongelman sivustossa <strong>{ $hostname }</strong>. Joko sivustoa ei ole määritetty oikein tai laitteesi kello on asetettu väärään päivämäärään/aikaan.
 fp-certerror-transparency-intro = Joku, joka tekeytyy sivustoksi <strong>{ $hostname }</strong>, voi yrittää varastaa esimerkiksi luottokorttitietosi, salasanasi tai sähköpostisi.

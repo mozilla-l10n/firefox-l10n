@@ -16,8 +16,6 @@ styleeditor-save-button = Saqlash
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Uslubni tahrirlagich moslamalari
-styleeditor-editor-textbox =
-    .data-placeholder = CSS‘ni shu joyda kiriting.
 styleeditor-no-stylesheet = Ushbu sahifada uslublar jadvali yo‘q.
 styleeditor-no-stylesheet-tip = Balkim siz <a data-l10n-name="append-new-stylesheet">yangi uslub jadvaliga qo‘shishni xohlarsiz</a>?
 styleeditor-find =

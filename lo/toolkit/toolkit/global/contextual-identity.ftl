@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = ບໍ່ມີການແຍກຂໍ້ມູນ
-    .accesskey = N
 user-context-manage-containers =
     .label = ຈັດການການແຍກຂໍ້ມູນ
     .accesskey = O

@@ -5,12 +5,6 @@
 
 ### These strings are used inside the about:debugging UI.
 
-
-# Page Title strings
-
-
-# Sidebar strings
-
 # Sidebar heading and title for connecting to some remote source
 about-debugging-sidebar-setup2 = តម្លើង
 about-debugging-sidebar-setup-title =
@@ -67,9 +61,6 @@ about-debugging-sidebar-support = ការគាំទ្រការបំប�
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = ផ្ទុកឧបករណ៍ឡើងវិញ
-
-# Setup Page strings
-
 # Title of the Setup page.
 about-debugging-setup-title = តម្លើង
 # Title of the heading Connect section of the Setup page.
@@ -88,16 +79,10 @@ about-debugging-setup-usb-status-updating = កំពុងធ្វើបច្
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = ដកចេញ
-
-# Runtime Page strings
-
 # Title of the processes category.
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-processes =
     .name = ដំណើរការ
-
-# Debug Targets strings
-
 # This string is displayed as a label of the button that starts a service worker.
 # .disabledTitle is processed by the fluent-react / ActionButton code.
 about-debugging-worker-action-start2 = ចាប់ផ្ដើម

@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Galluogi Warp, project i wella perff
 experimental-features-ime-search =
     .label = Bar Cyfeiriadau: dangos canlyniadau wrth ddefnyddio'r IME
 experimental-features-ime-search-description = Offeryn yw IME (Golygydd Dull Mewnbwn) sy'n eich galluogi i nodi symbolau cymhleth, fel y rhai sy'n cael eu ddefnyddio mewn ieithoedd ysgrifenedig yn Nwyrain Asia neu India, gan ddefnyddio bysellfwrdd safonol. Bydd galluogi'r arbrawf hwn yn cadw'r panel bar cyfeiriadau ar agor, dangos canlyniadau chwilio ac awgrymiadau, tra'n defnyddio IME i fewnbynnu testun. Sylwch y gallai'r IME ddangos panel sy'n ymdrin â chanlyniadau'r bar cyfeiriad, felly mae'r dewis hwn yn cael ei awgrymu ar gyfer IME sydd ddim yn defnyddio'r math hwn o banel.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Llun-mewn-Llun: agor yn awtomatig wrth newid tabiau
-experimental-features-auto-pip-description = Galluogi Llun-mewn-Llun ar fideos byw wrth newid tabiau.
 experimental-features-group-developer-tools =
     .label = Offer Datblygwyr
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Cynhyrchedd
 experimental-features-group-newtab-widgets =
     .label = Teclynnau ar { -firefox-home-brand-name }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Cyfrineiriau yn y bar ochr
-experimental-features-contextual-password-manager-description = Cael mynediad o'ch cyfrineiriau o'r bar ochr. Dim mwy o chwilio o gwmpas neu ailosod cyfrineiriau pan fyddwch chi'n ceisio mewngofnodi. I ddefnyddio'r nodwedd hon, dewiswch gyfrineiriau yn y bar ochr. Yna ewch i'ch gosodiadau cyffredinol ac o dan gynllun porwr, dewiswch ddangos y bar ochr. Yna, cyfaddaswch eich bar ochr trwy ddewis cyfrineiriau. Os rhowch gynnig arni, <a data-l10n-name="connect"> rhowch wybod i ni beth yw eich barn</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Dewiswch bapur wal neu liw cyfaddas ar gyfer Tab Newydd

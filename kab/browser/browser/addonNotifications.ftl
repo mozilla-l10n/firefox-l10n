@@ -31,27 +31,13 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Kemmel asebded
     .accesskey = S
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Asmel-a yesra anekcum ɣer yibenkan-ik MIDI (Musical Instrument Digital Interface). Anekcum ɣer yibenkan yezmer ad yettsireg s usbeddi n uzegrir niḍen.
 site-permission-install-first-prompt-midi-message = Taɣellist n unekcum-a ur yettwaḍman ara. Ur ttkemmil ara alamma tḍemneḍ asmel-a.
-
-##
-
-xpinstall-disabled-locked = Asebded n yiseɣẓanen issewḥel-it unebdal n unagraw-ik.
 xpinstall-disabled-by-policy = Asebded n yiseɣẓanen yettwasens sɣur tkebbanit.
 xpinstall-disabled = Asebded n yiseɣẓanen yewḥel. Sit ɣef Rmed sakin ɛreḍ tikelt-nniḍen.
 xpinstall-disabled-button =
     .label = Rmed
     .accesskey = r
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) yesweḥl-it unedbal-ik n unagraw.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Anedbal-ik·im n unagraw ur yeǧǧi ara asmel-a ad isebded aseɣẓan ɣef uselkim-inek·inem.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -76,9 +62,6 @@ webext-imported-addons = Smed asebded n yisiɣzaf i d-ttwaketren seg { -brand-sh
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Kkes { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Kkes { $name } seg { -brand-shorter-name }?
 addon-removal-button = Kkes
 addon-removal-abuse-report-checkbox = Mmel asiɣzef-a i { -vendor-short-name }
 # Variables:
@@ -132,7 +115,5 @@ addon-local-install-error-not-signed = Azegrir-a ur yebdid ara acku ur yettwasen
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } ur yezmir ara ad yebded acku ur imṣaba ara d { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = { $addonName } ur iquder ara tasertit n Mozilla, ur yezmir ara ad yettusbedd ɣef { -brand-short-name }.
-addon-install-error-blocklisted = { $addonName } ur yezmir ara ad yebded acku yella wugur meqqren n tɣellist d urkad.
-addon-install-error-soft-blocked = { $addonName } ur iquder ara tasertit n Mozilla, ur yezmir ara ad yettusbedd ɣef { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Ur ezmireḍ ara ad tesbeddeḍ azegrir { $addonName } am useqdac kan i yiman-is, asbeddi-ines yesra takebbanit yesseqdacen tisirag n tkebbanit.

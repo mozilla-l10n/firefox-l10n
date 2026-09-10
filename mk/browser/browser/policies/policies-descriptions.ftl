@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Спречи го стандардниот �
 policy-DisableDeveloperTools = Блокирај пристап до програмерските алатки.
 policy-DisableEncryptedClientHello = Оневозможи ја употребата на особеноста TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Оневозможи ги командите за испраќање повратни информации од менито „Помош“ (Испрати повратни информации и Пријави измамничка страница).
-policy-DisableFirefoxAccounts = Оневозможи ги услугите базирани на { -fxaccount-brand-name }, вклучувајќи го и Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Оневозможи услуги базирани на сметки, вклучително и синхронизација.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Не памети историја на пребар
 policy-DisableLaunchOnLogin = Спречи автоматско стартување на { -brand-short-name } кога корисникот ќе се најави.
 policy-DisablePrimaryPasswordCreation = Ако е вклучено, не може да се креира главна лозинка.
 policy-DisablePasswordReveal = Не дозволувај да се откриваат лозинките во снимените пријавувања.
-policy-DisablePocket2 = Оневозможи ја особеноста за снимање мрежни страници во { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Оневозможи приватно пребарување.
 policy-DisableProfileImport = Оневозможи ја командата од менито за увоз на податоци од друг прелистувач.
 policy-DisableProfileRefresh = Оневозможи го копчето Освежи го { -brand-short-name } на страницата about:support.
@@ -132,7 +130,6 @@ policy-PDFjs = Оневозможи го или конфигурирај го PD
 policy-Permissions2 = Конфигурирај дозволи за камера, микрофон, локација, известувања и автоматска репродукција.
 policy-PictureInPicture = Овозможи или оневозможи слика во слика.
 policy-PopupBlocking2 = Дозволи одредени мрежни места да прикажуваат скокачки прозорци и да бидат пренасочени на рамки од трети страни.
-policy-PopupBlocking = Дозволи одредени мрежни места да прикажуваат скокачки прозорци.
 policy-Preferences = Постави и заклучи ја вредноста за дел од преференциите.
 policy-PrivateBrowsingModeAvailability = Постави достапност на режим за приватно сурфање.
 policy-PromptForDownloadLocation = Прашај каде да се снимаат датотеките при преземање.

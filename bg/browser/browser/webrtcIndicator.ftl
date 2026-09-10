@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Споделяне
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Споделяне
 
 ## Used as list items in sharing menu
 
@@ -38,23 +36,6 @@ webrtc-sharing-screen = Споделяте целия си екран
 webrtc-stop-sharing-button = Спиране на споделянето
 webrtc-minimize =
     .title = Минимизиране на индикатора
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Споделяте своите камера и микрофон. Натиснете за настройка на споделянето.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Споделяте своята камера. Натиснете за настройка на споделянето.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Споделяте своя микрофон. Натиснете за настройка на споделянето.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Споделяте приложение. Натиснете за настройка на споделянето.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Споделяте своя екран. Натиснете за настройка на споделянето.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Споделяте прозорец. Натиснете за настройка на споделянето.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Споделяте раздел. Натиснете за настройка на споделянето.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -129,7 +110,6 @@ webrtc-allow-share-screen-and-microphone-with-file = Разрешавате ли
 ##
 
 webrtc-share-screen-warning = Споделяйте екрани само със сайтове, на които вярвате. Споделянето може да позволи на измамни сайтове да сърфират като вас и да откраднат личните ви данни.
-webrtc-share-screen-learn-more = Научете повече
 webrtc-pick-window-or-screen = Избиране на прозорец или екран
 webrtc-share-entire-screen = Целият екран
 # Variables:

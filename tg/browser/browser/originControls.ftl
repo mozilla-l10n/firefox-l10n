@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Васеъшавӣ наметавонад, ки маълумотро хонад ва тағйир диҳад
-origin-controls-quarantined =
-    .label = Васеъшавӣ иҷозат надорад, ки маълумотро хонад ва тағйир диҳад
 origin-controls-quarantined-status =
     .label = Васеъшавӣ дар сомонаҳои маҳдудшуда иҷозат дода намешаванд
 origin-controls-quarantined-allow =

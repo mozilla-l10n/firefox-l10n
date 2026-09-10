@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Gwelet ar roll istor merdeiñ a-nevez eus an holl brenestroù ha trevnadoù
@@ -16,36 +13,16 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Serriñ
-    .aria-label = Serriñ
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Diouzhtu
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Adtapout ivinelloù
-firefoxview-tabpickup-description = Digeriñ pajennoù deus trevnadoù all.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% echu
-firefoxview-tabpickup-step-signin-header = Tremen aes eus un trevnad d'unan all
-firefoxview-tabpickup-step-signin-description = Evit adtapout ivinelloù ho pellgomz e rankit kevreañ pe krouiñ ur gont da gentañ penn.
-firefoxview-tabpickup-step-signin-primarybutton = Kenderc'hel
 firefoxview-syncedtabs-signin-primarybutton-2 = Kennaskañ
-firefoxview-tabpickup-adddevice-header = Goubredit { -brand-product-name } war ho pellgomz pe dablezenn
-firefoxview-tabpickup-adddevice-description = Pellgargit { -brand-product-name } evit pellgomz hezoug ha kennaskit amañ
-firefoxview-tabpickup-adddevice-learn-how = Gouzout penaos
-firefoxview-tabpickup-adddevice-primarybutton = Ho pezet { -brand-product-name } evit pellgomz hezoug.
 firefoxview-syncedtabs-adddevice-header-2 = Tapit ivinelloù adalek forzh pe lec’h
 firefoxview-syncedtabs-adddevice-primarybutton = Esaeit { -brand-product-name } war hezoug
-firefoxview-tabpickup-synctabs-header = Gweredekaat goubredañ an ivinelloù
-firefoxview-tabpickup-synctabs-description = Aotren { -brand-short-name } da rannañ ivinelloù etre an trevnadoù.
-firefoxview-tabpickup-synctabs-learn-how = Gouzout penaos
 firefoxview-tabpickup-synctabs-primarybutton = Goubredañ an ivinelloù digor
 firefoxview-syncedtabs-synctabs-header = Hizivait hoc’h arventennoù goubredañ
 firefoxview-syncedtabs-synctabs-description = Evit gwelet ivinelloù eus trevnadoù all ho peus ezhomm da c'houbredañ hoc’h ivinelloù digor.
 firefoxview-syncedtabs-loading-header = O c'houbredañ
 firefoxview-tabpickup-fxa-admin-disabled-header = Diweredekaet eo bet ar c'houbredañ gant hoc'h aozadur
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } n'eo ket gouest da c'houbredañ ivinelloù etre trevnadoù peogwir eo bet diweredekaet ar c'houbredañ gant ho merour.
 firefoxview-tabpickup-network-offline-header = Gweredekait oc'h kennasket mat ouzh internet
 firefoxview-tabpickup-network-offline-description = Ma implijit ur maltouter pe ur proksi, gwiriit en deus { -brand-short-name } an aotre da vont war ar web.
 firefoxview-tabpickup-network-offline-primarybutton = Klask en-dro
@@ -61,37 +38,16 @@ firefoxview-tabpickup-password-locked-link = Gouzout hiroc’h
 firefoxview-tabpickup-password-locked-primarybutton = Enankañ ar ger-tremen pennañ
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Gouzout hiroc’h</a>
 firefoxview-tabpickup-signed-out-header = Kennaskit en-dro
-firefoxview-tabpickup-signed-out-description = Evit adkennaskañ ha tapout hoc’h ivinelloù, kennaskit ouzh ho { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Evit adkennaskañ ha tapout hoc'h ivinelloù, kennaskit ouzh ho kont.
 firefoxview-tabpickup-signed-out-primarybutton = Kennaskañ
-firefoxview-tabpickup-syncing = Gortozit e-pad ma vez goubredet hoc'h ivinelloù. Ne bado ket pell.
-firefoxview-mobile-promo-header = Adtapit ivinelloù ho pellgomz pe dablezenn
-firefoxview-mobile-promo-description = Evit gwelout ivinelloù diwezhañ ho pellgomz hezoug e rankit kennaskañ ouzh { -brand-product-name } war iOS pe Android.
-firefoxview-mobile-promo-primarybutton = Ho pezet { -brand-product-name } evit pellgomz hezoug.
-firefoxview-mobile-confirmation-header = 🎉 Deomp de'i !
-firefoxview-mobile-confirmation-description = Bremañ e c'hallit tapout hoc’h ivinelloù { -brand-product-name } diouzh ho tablezenn pe ho pellgomzer.
-firefoxview-closed-tabs-title = Ivinelloù serret nevez zo
-firefoxview-closed-tabs-description2 = Digeriñ en-dro ar pajennoù bet serret nevez zo er prenestr-mañ.
-firefoxview-closed-tabs-placeholder-header = N’eus ivinell nevez serret ebet
-firefoxview-closed-tabs-placeholder-body = Pa serrit un ivinell er prenestr-mañ e c’hallit kerc’hat anezhi adalek amañ.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Skarzhañ { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Ivinell implijet diwezhañ
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Digeriñ { $targetURI } en un ivinell nevez
-firefoxview-try-colorways-button = Klask al livioù
-firefoxview-change-colorway-button = Cheñch liv
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Netra da welout evit poent
-firefoxview-synced-tabs-placeholder-body = Ar wech a zeu e tigorit ur bajenn e { -brand-product-name } war un trevnad all, tapit anezhi amañ.
 firefoxview-collapse-button-show =
     .title = Diskouez al listenn
 firefoxview-collapse-button-hide =

@@ -39,11 +39,3 @@ addon-detail-updates-radio-default = A' chite' at kan
 
 theme-heading = Nuk' unq'a kame'
 locale-heading = Nuk' unq'a va yolb'ale'
-
-## Detail notifications
-## Variables:
-##   $name (string) - Name of the add-on.
-
-details-notification-unsigned-and-disabled-link = Joltu txumb'al
-details-notification-unsigned-link = Joltu txumb'al
-details-notification-softblocked-link = Joltu txumb'al

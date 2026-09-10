@@ -2,22 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = ແປຫນ້ານີ້
 translations-panel-settings-button =
     .aria-label = ຈັດການການຕັ້ງຄ່າການແປ
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } ເບຕ້າ
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = ຈັດການພາສາ
-translations-panel-settings-about = ກ່ຽວກັບການແປໃນ { -brand-shorter-name }
 translations-panel-settings-about2 =
     .label = ກ່ຽວກັບການແປໃນ { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
@@ -58,14 +49,6 @@ translations-panel-error-dismiss-button =
     .label = ເຂົ້າໃຈແລ້ວ
 translations-panel-error-change-button =
     .label = ປ່ຽນພາສາຕົ້ນສະບັບ
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = ຂໍອະໄພ, ພວກເຮົາຍັງບໍ່ຮອງຮັບ { $language } ເທື່ອ.
-translations-panel-error-unsupported-hint-unknown = ຂໍອະໄພ, ພວກເຮົາຍັງບໍ່ຮອງຮັບພາສານີ້ເທື່ອ.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -97,12 +80,7 @@ translations-manage-header = ການແປ
 translations-manage-settings-button =
     .label = ການຕັ້ງຄ່າ…
     .accesskey = t
-translations-manage-description = ດາວໂຫຼດພາສາສຳລັບການແປແບບອອບລາຍ.
-translations-manage-all-language = ພາສາທັງໝົດ
-translations-manage-download-button = ດາວໂຫລດ
-translations-manage-delete-button = ລຶບ
 translations-manage-error-download = ມີບັນຫາໃນການດາວໂຫຼດໄຟລ໌ພາສາ. ກະລຸນາລອງອີກຄັ້ງ.
-translations-manage-error-delete = ມີຄວາມຜິດພາດໃນການລຶບໄຟລ໌ພາສາ. ກະລຸນາລອງອີກຄັ້ງ.
 translations-manage-error-list = ລົ້ມເຫລວໃນການຮັບເອົາລາຍຊື່ພາສາທີ່ມີຢູ່ສໍາລັບການແປ. ໂຫຼດໜ້ານີ້ຄືນໃໝ່ເພື່ອລອງອີກຄັ້ງ.
 translations-settings-close-key =
     .key = w
@@ -134,13 +112,3 @@ select-translations-panel-try-again-button =
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = ມີບັນຫາໃນການແປ. ກະລຸນາລອງອີກຄັ້ງ.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = ຂໍອະໄພ, ພວກເຮົາຍັງບໍ່ຮອງຮັບ { $language } ເທື່ອ.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = ຂໍອະໄພ, ພວກເຮົາຍັງບໍ່ຮອງຮັບພາສານີ້ເທື່ອ.

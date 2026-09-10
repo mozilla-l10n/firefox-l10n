@@ -21,7 +21,6 @@ pippki-pw-not-wanted = ¡Alvertencia! Decidiesti nun usar una contraseña. { pip
 
 client-auth-window =
     .title = Solicitú d'identificación d'un usuariu
-client-auth-site-description = Esti sitiu solicitó que t'indentifiques con un certificáu:
 client-auth-cert-details = Detalles del certificáu esbilláu:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

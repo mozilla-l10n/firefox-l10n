@@ -188,8 +188,6 @@ options-disable-http-cache-tooltip =
     .title = Turning this option on will disable the HTTP cache for all tabs that have the toolbox open. Service Workers are not affected by this option.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label-2 = Disable JavaScript
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Disable JavaScript *
 options-disable-javascript-tooltip =
     .title = Turning this option on will disable JavaScript for the current tab. If the tab or the toolbox is closed then this setting will be forgotten.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -219,8 +217,6 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = (current session only, reloads the page)
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Current session only, reloads the page
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (reloads the page)

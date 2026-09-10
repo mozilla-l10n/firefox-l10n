@@ -261,8 +261,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Profilak
 menu-profiles-manage-profiles =
     .label = Kudeatu profilak
 menu-profiles-new-profile =
@@ -286,9 +284,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Hedapenak eta itxurak
     .accesskey = H
-menu-tools-addons-and-themes =
-    .label = Gehigarriak eta itxurak
-    .accesskey = G
 menu-tools-fxa-sign-in2 =
     .label = Hasi saioa
     .accesskey = H
@@ -345,8 +340,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Arazoak konpontzeko informazio gehiago
     .accesskey = f
-menu-help-report-site-issue =
-    .label = Eman gunearen arazoaren berri…
 menu-help-share-ideas =
     .label = Partekatu ideiak eta iritzia…
     .accesskey = P

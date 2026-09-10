@@ -107,4 +107,3 @@ certificate-viewer-tab-mine = Ho testenioù
 certificate-viewer-tab-people = Tud
 certificate-viewer-tab-servers = Servijerioù
 certificate-viewer-tab-ca = Aotrouniezhoù
-certificate-viewer-tab-unkonwn = Dianav

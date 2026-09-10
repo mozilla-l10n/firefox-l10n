@@ -28,11 +28,11 @@ third-party-tag-shellex = Extensión de shell
 third-party-tag-background = Fondo
     .title = Este módulo non bloqueou a aplicación porque se cargou no fondo.
 third-party-icon-unsigned =
-    .title = Este módulo non está asinado
     .alt = Este módulo non está asinado
+    .title = Este módulo non está asinado
 third-party-icon-warning =
-    .title = { -brand-short-name } quebrou en código deste módulo
     .alt = { -brand-short-name } quebrou en código deste módulo
+    .title = { -brand-short-name } quebrou en código deste módulo
 third-party-status-loaded = Cargado
 third-party-status-blocked = Bloqueado
 third-party-status-redirected = Redirixido
@@ -44,32 +44,17 @@ third-party-button-reload = Recargar con información do sistema
     .title = Recargar coa información do sistema
 third-party-button-open =
     .title = Abrir localización do ficheiro ...
-third-party-button-to-block =
-    .title = Bloquear este módulo
-    .aria-label = Bloquear este módulo
-third-party-button-to-unblock =
-    .title = Bloqueado actualmente. Preme para desbloquealo.
-    .aria-label = Bloqueado actualmente. Preme para desbloquealo.
-third-party-button-to-unblock-disabled =
-    .title =
-        Marcado actualmente como bloqueado, aínda que a lista de bloqueos está 
-        desactivada para esta execución de { -brand-short-name }. Preme para 
-        desbloquealo.
-    .aria-label =
-        Marcado actualmente como bloqueado, aínda que a lista de bloqueos está 
-        desactivada para esta execución de { -brand-short-name }. Preme para 
-        desbloquealo.
 third-party-button-to-block-module = Bloquear este módulo
-    .title = Bloquear este módulo
     .aria-label = Bloquear este módulo
+    .title = Bloquear este módulo
 third-party-button-to-unblock-module = Desbloquear este módulo
-    .title = Actualmente bloqueado. Faga clic para desbloquealo.
     .aria-label = Actualmente bloqueado. Faga clic para desbloquealo.
+    .title = Actualmente bloqueado. Faga clic para desbloquealo.
 third-party-button-to-unblock-module-disabled = Desbloquear este módulo (lista de bloqueo actualmente desactivada)
-    .title =
+    .aria-label =
         Actualmente marcada como bloqueada, anque a lista de bloqueo está desactivada para esta execución
         de { -brand-short-name }. Faga click para desbloquear
-    .aria-label =
+    .title =
         Actualmente marcada como bloqueada, anque a lista de bloqueo está desactivada para esta execución
         de { -brand-short-name }. Faga click para desbloquear
 third-party-button-expand =
@@ -81,5 +66,5 @@ third-party-should-restart-title = Reiniciar { -brand-short-name }
 third-party-restart-now = Reiniciar agora
 third-party-restart-later = Reiniciar máis tarde
 third-party-blocked-by-builtin =
-    .title = Bloqueado por { -brand-short-name }
     .alt = Bloqueado por { -brand-short-name }
+    .title = Bloqueado por { -brand-short-name }

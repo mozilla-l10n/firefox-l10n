@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>განახლების ჩამოტვირთვა — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = განახლების ჩამოტვირთვა — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = განახლების ჩამოტვირთვა — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = განახლების ამოქმედება…
 update-failed = განახლება ვერ მოხერხდა. <label data-l10n-name="failed-link">უახლესი ვერსიის ჩამოტვირთვა</label>
 update-failed-main = განახლება ვერ მოხერხდა. <a data-l10n-name="failed-link-main">უახლესი ვერსიის ჩამოტვირთვა</a>
-update-adminDisabled = განახლებები აკრძალულია თქვენი სისტემის ზედამხედველის მიერ
 update-policy-disabled = განახლებებს ზღუდავს თქვენი დაწესებულება
 settings-update-policy-disabled =
     .label = განახლებებს ზღუდავს თქვენი დაწესებულება
@@ -72,8 +70,6 @@ helpus-referrals2 = დახმარება გსურთ? <label data-l10
 bottomLinks-license = ლიცენზირების შესახებ
 bottom-links-terms = გამოყენების პირობები
 bottom-links-privacy = პირადულობის განაცხადი
-bottomLinks-rights = მომხმარებლის უფლებები
-bottomLinks-privacy = პირადი მონაცემების დაცვის დებულება
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

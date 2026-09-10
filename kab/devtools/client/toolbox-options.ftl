@@ -101,8 +101,6 @@ options-context-advanced-settings = Iɣewwaṛen leqqayen
 options-disable-http-cache-label = Arurmid uffir HTTP ( ma telddi Tanaka n ifecka )
 options-disable-http-cache-tooltip =
     .title = Armed n weɣewwaṛ-agi ad irurmed Uffir HTTP i yakk iccaren i yesɛan Tanaka n ifecka yeldin. Tinafutin ur ttwarurmdent ara s uɣewwaṛ-agi.
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Ssens JavaScript *
 options-disable-javascript-tooltip =
     .title = Armad n uɣewwaṛ-agi ad isens JavaScript i yiccer amiran. Aɣewwaṛ-agi ad ittwattu ticki tmedleḍ iccer neɣ tanaka n ifecka.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -125,8 +123,6 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Rmed aɣbalu n tifelwiyi
 options-source-maps-tooltip =
     .title = Ma tremdeḍ aɣewwar-agi Taɣbalut ad tt-ttwacreḍ deg ufecku.
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Tiɣimit-agi, ad isali tikelt nniḍen asebter
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

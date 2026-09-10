@@ -2,113 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } 隐私浏览
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } 隐私浏览
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — 隐私浏览
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — 隐私浏览
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } 隐私浏览
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
 browser-shortcut-description = 浏览快如风，隐私断跟踪
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } 隐私浏览
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } 隐私浏览
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } 隐私浏览
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } 隐私浏览
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } — 隐私浏览
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — 隐私浏览
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — 隐私浏览
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } 隐私浏览
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -176,8 +74,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = 打开离线存储消息面板
 urlbar-password-notification-anchor =
     .tooltiptext = 打开保存密码消息面板
-urlbar-plugins-notification-anchor =
-    .tooltiptext = 管理插件使用
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = 管理您是否与该网站共享摄像头和麦克风
 # "Speakers" is used in a general sense that might include headphones or
@@ -190,15 +86,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = 在持久存储中存储数据
 urlbar-addons-notification-anchor =
     .tooltiptext = 打开附加组件安装消息面板
-urlbar-tip-help-icon =
-    .title = 获取帮助
 urlbar-search-tips-confirm = 好的，明白了
 urlbar-search-tips-confirm-short = 知道了
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = 提示：
 urlbar-result-menu-button =
     .title = 打开菜单
 urlbar-result-menu-button-feedback = 意见反馈
@@ -243,9 +132,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = 忽略此建议
     .accesskey = D
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = 详细了解 { -firefox-suggest-brand-name }
-    .accesskey = L
 urlbar-result-menu-manage-firefox-suggest =
     .label = 管理 { -firefox-suggest-brand-name }
     .accesskey = M
@@ -277,8 +163,6 @@ urlbar-dismissal-acknowledgment-weather = 感谢反馈，天气建议将不再�
 
 urlbar-search-tips-onboard = 输入寥寥，搜遍万千：在地址栏就能用 { $engineName } 搜索。
 urlbar-search-tips-redirect-2 = 在地址栏搜索，可以看到 { $engineName } 提供的建议，还有您的相关浏览历史。
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = 搜索向简洁进化，让您的搜索在地址栏更直观。若要改回显示网址，可到设置中的“搜索”切换。
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = 一键直达，高效搜索。
@@ -312,8 +196,6 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = 您已阻止此网站使用持久存储。
 urlbar-popup-blocked2 =
     .tooltiptext = 您已拦截此网站的弹出式窗口和第三方重定向。
-urlbar-popup-blocked =
-    .tooltiptext = 您已拦截此网站的弹出窗口。
 urlbar-autoplay-media-blocked =
     .tooltiptext = 您已阻止此网站自动播放有声媒体内容。
 urlbar-canvas-blocked =
@@ -424,24 +306,18 @@ quickactions-cmd-addons3 = 扩展, 主题, 附加组件, extensions, themes, add
 # Opens preferences page at AI controls
 quickactions-manageai = 管理 AI 控制
 quickactions-cmd-manageai = 禁用 ai, 关闭 ai, 管理 ai, disable ai, off ai, manage ai
-quickactions-cmd-addons2 = 附加组件, add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = 管理书签
 quickactions-cmd-bookmarks = 书签, bookmarks
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = 清除最近的历史记录
 quickactions-cmd-clearrecenthistory2 = Cookie, 清除 Cookies, 缓存, 清除缓存, 浏览数据, 清除浏览数据, 历史, 历史记录, 清除最近历史, 清除最近历史记录, cookies, clear cookies, cache, clear cache, browsing data, clear browsing data, history, clear recent history
-quickactions-cmd-clearrecenthistory = 清除, 清除最近的历史记录, 历史记录, 历史, clear recent history, history
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = 清除历史
-quickactions-cmd-clearhistory = 清除历史, clear history
 # Opens about:downloads page
 quickactions-downloads2 = 查看下载
 quickactions-cmd-downloads = 下载, downloads
 # Opens about:addons page in the extensions section
 quickactions-extensions = 管理扩展
 quickactions-cmd-extensions2 = 扩展, 附加组件, 附加组件, extensions, addons, add-ons
-quickactions-cmd-extensions = 扩展, extensions
 # Opens Firefox View
 quickactions-firefoxview = 打开 { -firefoxview-brand-name }
 # English is using "view" and "open view", since the feature name is
@@ -460,7 +336,6 @@ quickactions-cmd-colorpicker = 取色器, 拾色器, 吸管, 滴管, 选取颜�
 # Opens Firefox Library
 quickactions-cmd-library = 我的足迹, 足迹, library
 quickactions-library = 打开“我的足迹”
-quickactions-cmd-inspector = 查看器, 开发工具, inspector, devtools
 # Opens about:logins
 quickactions-logins2 = 管理密码
 quickactions-cmd-logins = 登录信息, 密码, logins, passwords
@@ -470,9 +345,6 @@ quickactions-mute = 静音正在播放音频的标签页
 # Replace with idiomatic expressions in your language to silence something or
 # someone.
 quickactions-cmd-mute = 静音, 关闭声音, mute, shush, sssssh
-# Opens about:addons page in the plugins section
-quickactions-plugins = 管理插件
-quickactions-cmd-plugins = 插件, plugins
 # Opens the print dialog
 quickactions-print2 = 打印页面
 quickactions-cmd-print = 打印, print
@@ -497,19 +369,16 @@ quickactions-cmd-screenshot2 = 截图, 截屏, 屏幕截图, screenshot, take a 
 # Opens about:translations
 quickactions-translate = 翻译
 quickactions-cmd-translate = 翻译, translate
-quickactions-cmd-screenshot = 截图, screenshot
 # Opens about:preferences
 quickactions-settings2 = 管理设置
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = 设置, 首选项, 偏好设置, 偏好, 选项, 管理, settings, preferences, options, manage
-quickactions-cmd-settings = 设置, 首选项, 偏好设置, 偏好, 选项, settings, preferences, options
 # Opens about:addons page in the themes section
 quickactions-themes = 管理主题
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-themes2 = 主题, 附加组件, 附加组件, themes, add-ons, addons
-quickactions-cmd-themes = 主题, themes
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = 更新 { -brand-short-name }
 quickactions-cmd-update = 更新, update
@@ -519,7 +388,6 @@ quickactions-cmd-viewsource2 = 查看源代码, 源代码, 页面源代码, 查�
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = 打开 { -firefoxlabs-brand-name }
 quickactions-cmd-labs = 实验室, 实验, labs, experiment
-quickactions-cmd-viewsource = 查看源代码, 查看源码, 源代码, 源码, view source, source
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = 详细了解“快捷操作”
@@ -572,9 +440,7 @@ identity-custom-root = 连接由 Mozilla 不认可的证书颁发者所验证。
 identity-passive-loaded = 此页面上部分内容不安全（例如图像）。
 identity-active-loaded = 您在此页面上已禁用保护。
 identity-weak-encryption = 此页面使用较弱加密。
-identity-insecure-login-forms = 在此网页上输入的登录信息可能会泄露。
 identity-https-only-connection-upgraded = （升级为 HTTPS）
-identity-https-only-label = HTTPS-Only 模式
 identity-https-only-label2 = 自动将此网站的连接升级为安全连接
 identity-https-only-dropdown-on =
     .label = 开启
@@ -582,8 +448,6 @@ identity-https-only-dropdown-off =
     .label = 关闭
 identity-https-only-dropdown-off-temporarily =
     .label = 暂时关闭
-identity-https-only-info-turn-on2 = 若想要 { -brand-short-name } 尽可能升级为安全连接，请为此网站开启 HTTPS-Only 模式。
-identity-https-only-info-turn-off2 = 若页面看起来不正常，则可能需要为此网站关闭 HTTPS-Only 模式，使用不安全的 HTTP 重新加载。
 identity-https-only-info-turn-on3 = 若想要 { -brand-short-name } 尽可能升级为安全连接，请为此网站开启“升级为 HTTPS”。
 identity-https-only-info-turn-off3 = 如果页面看起来不正常，则可能需要为此网站关闭“升级为 HTTPS”，使用不安全的 HTTP 重新加载。
 identity-https-only-info-no-upgrade = 无法将网站连接从 HTTP 升级。
@@ -607,7 +471,6 @@ identity-remove-cert-exception =
     .label = 移除例外
     .accesskey = R
 identity-description-insecure = 您至此网站的连接非私密。您提交的信息可能被其他人看到（例如密码、邮件、信用卡等）。
-identity-description-insecure-login-forms = 在此页面输入您的登录信息并不安全，可能会泄露。
 identity-description-weak-cipher-intro = 您与此网站的连接使用了较弱的加密，并不私密。
 identity-description-weak-cipher-risk = 其他人可能查看您的信息或修改该网站的行为。
 identity-description-active-blocked2 = { -brand-short-name } 已拦截此页面上不安全的内容。
@@ -618,12 +481,6 @@ identity-description-active-loaded = 此网站包含不安全内容（例如脚�
 identity-description-active-loaded-insecure = 您提供给此网站的信息（例如密码、聊天消息、信用卡等）可能会被其他人看到。
 identity-description-tls-key-logging-heading = 您的连接可能不私密
 identity-description-tls-key-logging-message = 其他应用或服务可能可以看到您来自此网站的加密流量。
-identity-disable-mixed-content-blocking =
-    .label = 暂时解除保护
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = 启用保护
-    .accesskey = E
 identity-more-info-link-text =
     .label = 更多信息
 
@@ -640,37 +497,6 @@ browser-window-close-button =
 # Clicking this button closes the window and returns to the tab where it was opened from
 browser-window-return-to-opener =
     .tooltiptext = 返回
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = 播放声音中
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = 静音
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = 已阻止自动播放
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = 画中画
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] 静音标签页
-       *[other] 静音 { $count } 个标签页
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] 取消静音标签页
-       *[other] 取消静音 { $count } 个标签页
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] 播放标签页
-       *[other] 播放 { $count } 个标签页
-    }
 
 ## Bookmarks toolbar items
 
@@ -711,10 +537,6 @@ sharing-warning-disable-for-session =
 
 webserial-select-port-label = 选择串行端口：
 webserial-no-ports-available = 无可用串行端口
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = 要使用 F12 快捷键，请先由“浏览器工具”菜单打开开发者工具。
 
 ## URL Bar
 
@@ -779,8 +601,6 @@ urlbar-extension =
     .value = 扩展：
 urlbar-go-button2 =
     .title = 转到地址栏中指向的网址
-urlbar-go-button =
-    .tooltiptext = 转到地址栏中指向的网址
 urlbar-page-action-button =
     .tooltiptext = 页面操作
 urlbar-revert-button =
@@ -838,11 +658,6 @@ urlbar-result-action-tabtosearch-web = 直接从地址栏 { $engine } 一下
 urlbar-result-action-tabtosearch-other-engine = 直接从地址栏在 { $engine } 上搜索
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = 复制
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = 未定义
 # The sub title of an add-on suggestion in the urlbar.
@@ -853,23 +668,6 @@ urlbar-result-mdn-subtitle = { -mdn-brand-name }
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
 urlbar-result-suggestion-recommended = 推荐
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
-# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
-# The last = sign will be shown as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
-# Shows the result of a formula expression being calculated, to a maximum of 9 significant
-# digits. This is used for numbers < 1.
-# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 # The title of a weather suggestion in the urlbar. The temperature and unit
 # substring should be inside a <strong> tag. If the temperature and unit are not
 # adjacent in the localization, it's OK to include only the temperature in the
@@ -1034,32 +832,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - 搜索{ $localSear
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - 使用 { $engine } 搜索
-urlbar-searchmode-dropmarker =
-    .tooltiptext = 选取搜索引擎
-urlbar-searchmode-bookmarks =
-    .label = 书签
-urlbar-searchmode-tabs =
-    .label = 标签页
-urlbar-searchmode-history =
-    .label = 历史记录
-urlbar-searchmode-actions =
-    .label = 操作
-urlbar-searchmode-exit-button =
-    .tooltiptext = 关闭
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = 本次搜索使用：
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = 搜索设置
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button2 =
-    .label = { $engine }，选取搜索引擎
-    .tooltiptext = { $engine }，选取搜索引擎
-urlbar-searchmode-button-no-engine =
-    .label = 未选择快捷方式，请选择
-    .tooltiptext = 未选择快捷方式，请选择
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1166,16 +938,10 @@ urlbar-group-trending =
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = 不再显示热门搜索
     .accesskey = D
-# Label shown above sponsored suggestions in the urlbar results.
-urlbar-group-sponsored =
-    .label = 赞助推广
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = 不再显示热门搜索
     .accesskey = D
-urlbar-result-menu-trending-why =
-    .label = 为什么我会看到这个？
-    .accesskey = W
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = 感谢反馈，热门搜索将不再显示。
@@ -1260,12 +1026,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] 隐藏书签工具栏
            *[other] 显示书签工具栏
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] 从工具栏移除书签菜单
-           *[other] 添加书签菜单到工具栏
-        }
 
 ##
 
@@ -1296,14 +1056,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = 书签
-library-recent-activity-title =
-    .value = 近期动态
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = 保存到 { -pocket-brand-name }
-    .tooltiptext = 保存到 { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
@@ -1393,8 +1145,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = 用户名
-panel-save-update-password = 密码
 panel-save-update-username-2 =
     .label = 用户名
 panel-save-update-password-2 =
@@ -1412,33 +1162,18 @@ menu-share-windows =
 menu-share-copy-links =
     .label = 复制 { $count } 个链接
     .accesskey = L
-menu-share-copy-link =
-    .label = 复制链接
-    .accesskey = L
 ui-tour-info-panel-close =
     .tooltiptext = 关闭
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
-popups-infobar-allow =
-    .label = 允许 { $uriHost } 弹出窗口
-    .accesskey = p
-popups-infobar-block =
-    .label = 阻止 { $uriHost } 弹出窗口
-    .accesskey = p
 popups-infobar-allow2 =
     .label = 允许 { $uriHost } 的弹出式窗口和第三方重定向
     .accesskey = p
 
 ##
 
-popups-infobar-dont-show-message =
-    .label = 当弹出式窗口被拦截时不显示此消息
-    .accesskey = D
-edit-popup-settings =
-    .label = 管理弹出式窗口设置…
-    .accesskey = M
 picture-in-picture-hide-toggle =
     .label = 隐藏画中画切换按钮
     .accesskey = H
@@ -1464,8 +1199,6 @@ navbar-downloads =
     .label = 下载
 navbar-overflow-2 =
     .tooltiptext = 更多工具
-navbar-overflow =
-    .tooltiptext = 更多工具…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1566,13 +1299,8 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = 结束隐私浏览
-    .tooltiptext = 结束隐私浏览
 reset-pbm-panel-heading2 = 确定要清除数据并开始新的隐私浏览吗？
 reset-pbm-panel-description2 = 这将删除历史记录、Cookie 以及其他所有网站数据，但不关闭隐私窗口。
-reset-pbm-panel-heading = 要结束隐私浏览吗？
-reset-pbm-panel-description = 关闭所有隐私标签页，并删除历史记录和 Cookie 等所有网站数据。
 reset-pbm-panel-always-ask-checkbox =
     .label = 总是询问
     .accesskey = A
@@ -1582,9 +1310,6 @@ reset-pbm-panel-cancel-button =
 reset-pbm-panel-confirm-button2 =
     .label = 清除本次隐私浏览
     .accesskey = l
-reset-pbm-panel-confirm-button =
-    .label = 删除本次浏览数据
-    .accesskey = D
 reset-pbm-panel-complete = 本次隐私浏览数据已删除
 reset-pbm-toolbar-button2 =
     .label = 清除本次隐私浏览

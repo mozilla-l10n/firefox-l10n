@@ -21,8 +21,6 @@ styleeditor-save-button = Ñongatu
 styleeditor-options-button =
     .tooltiptext = Style Editor jeporavorã
 styleeditor-at-rules = At-mbojojaha
-styleeditor-editor-textbox =
-    .data-placeholder = Ehai CSS ápe.
 styleeditor-no-stylesheet = Ko kuatiarogue ndoguerekói kuatia.
 styleeditor-no-stylesheet-tip = Reipota mba’éramo<a data-l10n-name="append-new-stylesheet">Emoirũ peteĩ kuatia pyahu</a>?
 styleeditor-open-link-new-tab =

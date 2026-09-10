@@ -19,20 +19,9 @@ account-verify = Natsij { $email }
 account-send-to-all-devices-titlecase = Ga'ni' riña darān aga'a
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = Nitaj a'ngo aga'a hua conektado
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = Gini'in' daj ga'ni' pestaña...
-# Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = Ganachun' 'ngà a'ngo aga'a...
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Hua nï' nu natsij ma kuendâ na
-account-send-tab-to-device-verify = Natsîj si kuedât...
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 

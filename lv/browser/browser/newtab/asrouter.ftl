@@ -64,18 +64,11 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Sinhronizējiet savas grāmatzīmes visur.
-cfr-doorhanger-bookmark-fxa-body = Lielisks atradums! Tagad nepaliec bez šīs grāmatzīmes savās viedierīcēs! Sākt darbu ar { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = Lielisks atradums! Tagad nepaliec bez šīs grāmatzīmes savās viedierīcēs. Uzsākt ar kontu.
 cfr-doorhanger-bookmark-fxa-link-text = Sinhronizēt grāmatzīmes tūlīt…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Aizvērt poga
     .title = Aizvērt
-
-## Protections panel
-
-cfr-protections-panel-header = Pārlūkošana bez izsekošanas
-cfr-protections-panel-body = Paturiet savus datus pie sevis. { -brand-short-name } aizsargā jūs no daudziem visizplatītākajiem izsekotājiem, kas seko jūsu darbībām tiešsaistē.
-cfr-protections-panel-link-text = Uzzināt vairāk
 
 ## What's New toolbar button and panel
 
@@ -172,42 +165,8 @@ mr2022-background-update-toast-primary-button-label = Atvērt { -brand-shorter-n
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Atgādināt vēlāk
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Izmēģini
-    .accesskey = I
-firefoxview-cfr-secondarybutton = Ne tagad
-    .accesskey = N
-firefoxview-cfr-header-v2 = Ātri turpiniet no vietas, kur pārtraucāt
-firefoxview-cfr-body-v2 = Atgūstiet nesen aizvērtās cilnes, kā arī viegli pārejiet starp ierīcēm, izmantojot { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Sasveicinieties ar { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Vēlaties šo atvērto cilni savā tālrunī? Paņemiet to. Vajag atgriezties vietnē, kuru tikko apmeklējāt? Ar { -firefoxview-brand-name } tā ir atpakaļ.
-firefoxview-spotlight-promo-primarybutton = Apskatiet kā tas strādā
-firefoxview-spotlight-promo-secondarybutton = Izlaist
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Izvēlieties krāsu ceļu
-    .accesskey = c
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Krāsojiet savu pārlūkprogrammu ar { -brand-short-name } ekskluzīviem toņiem, ko iedvesmojušas balsis, kas mainīja kultūru.
-colorways-cfr-header-28days = “Neatkarīgās balsis” krāsu ceļš beidzas 16. janvārī
-colorways-cfr-header-14days = “Neatkarīgās balsis” krāsu ceļa termiņš beigsies pēc divām nedēļām
-colorways-cfr-header-7days = Šonedēļ beidzas “Neatkarīgās balsis” krāsu ceļa termiņš
-colorways-cfr-header-today = “Neatkarīgās balsis” krāsu ceļa termiņš beidzas šodien
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Vai atļaut { -brand-short-name } noraidīt sīkdatņu paziņojumus?
-cfr-cbh-body = { -brand-short-name } var automātiski noraidīt daudzus sīkdatņu paziņojumu pieprasījumus.
-cfr-cbh-confirm-button = Noraidīt sīkdatņu paziņojumus
-    .accesskey = r
-cfr-cbh-dismiss-button = Ne tagad
-    .accesskey = N
 cookie-banner-blocker-onboarding-header = { -brand-short-name } tikko jūsu vietā noraidīja sīkdatņu paziņojumu
 cookie-banner-blocker-onboarding-body = Mazāk traucēkļu, mazāk sīkdatņu, kas izseko jūs šajā vietnē.
 cookie-banner-blocker-onboarding-learn-more = Uzzināt vairāk

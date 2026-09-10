@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = البحث في كلمات السر
-    .key = F
     .aria-label = البحث في كلمات السر
+    .key = F
+    .placeholder = البحث في كلمات السر
 contextual-manager-menu-more-options-button =
     .title = خيارات أكثر
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = استورِد من ملف…
 contextual-manager-passwords-command-export = صدّر كلمات السر
 contextual-manager-passwords-command-remove-all = أزل كل كلمات السر
 contextual-manager-passwords-command-options = الخيارات
-contextual-manager-passwords-command-settings = الإعدادات
 contextual-manager-passwords-command-help = مساعدة
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = استوردت كلمات السر
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = جديد: { $added }، حُدِّث: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -194,8 +189,6 @@ contextual-manager-passwords-create-label =
     .label = أضِف كلمة سر
 contextual-manager-passwords-update-label =
     .label = حدّث كلمة السر
-contextual-manager-passwords-edit-label =
-    .label = حرّر كلمة السر
 contextual-manager-passwords-remove-label =
     .title = أزِل كلمة السر
 contextual-manager-passwords-origin-field =
@@ -211,7 +204,6 @@ contextual-manager-passwords-password-field-description = أدخل كلمة ال
 contextual-manager-passwords-origin-tooltip = أدخل بدقة العنوان الذي ستولِج من خلاله إلى هذا الموقع.
 contextual-manager-passwords-username-tooltip = أدخل اسم المستخدم أو عنوان البريد الإلكتروني أو رقم الحساب الذي تستخدمه للولوج.
 contextual-manager-passwords-password-tooltip-2 = أدخل كلمة السر للولوج إلى هذا الحساب.
-contextual-manager-passwords-password-tooltip = أدخل كلمة السر للولوج إلى هذا الحساب.
 
 ## Password Card
 
@@ -258,10 +250,6 @@ contextual-manager-password-login-line-with-alert =
     .title = انسخ كلمة السر (تحذير)
 contextual-manager-edit-login-button = حرّر
     .tooltiptext = حرّر كلمة السر
-contextual-manager-view-alert-heading =
-    .heading = اعرض التنبيه
-contextual-manager-view-alert-button =
-    .tooltiptext = تنبيه المراجعة
 contextual-manager-show-password-button =
     .aria-label = أظهر كلمة السر
     .title = أظهر كلمة السر
@@ -272,13 +260,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = لم يُعثر على كلمات السر
 contextual-manager-passwords-no-passwords-found-message-2 = حاول مصطلح آخر ثم ابحث مجددًا.
-contextual-manager-passwords-no-passwords-found-message = لم يُعثر على كلمات السر. ابحث عن مصطلح آخر وحاول مرة أخرى.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = احفظ كلمات سرك في مكان آمن.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = جميع كلمات سرك مُعمّاة وسنراقب أي تسريبات ونرسل لك تنبيهات في حالة تأثرك بها.

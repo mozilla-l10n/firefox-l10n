@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = ᱟᱢ ᱫᱚ ᱱᱤᱛᱚᱜ FIPS ᱢᱳ�
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱨᱤᱥᱮᱴ ᱢᱮ
     .style = min-width: 40em
+    .title = ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱨᱤᱥᱮᱴ ᱢᱮ
 reset-password-button-label =
     .label = ᱫᱚᱦᱲᱟ ᱥᱟᱡᱟᱣ
 reset-primary-password-text = ᱡᱩᱫᱤ ᱟᱢ ᱟᱢᱟᱜ ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱫᱚᱦᱲᱟᱢ ᱥᱟᱡᱟᱣᱟ, ᱡᱷᱚᱛᱚ ᱟᱢᱟᱜ ᱡᱚᱜᱟᱣ ᱣᱮᱵᱽ ᱟᱨ ᱤᱼᱢᱮᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ, ᱛᱮᱭᱟᱨ ᱰᱟᱴᱟ, ᱱᱤᱡᱚᱨ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱠᱚ ᱟᱨ ᱱᱤᱡᱮᱨᱟᱜ ᱠᱟᱹᱴᱷᱤ ᱠᱚ ᱦᱤᱲᱤᱧᱟ ᱾ ᱪᱮᱫ ᱟᱢ ᱟᱢᱟᱜ ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱫᱚᱦᱲᱟ ᱥᱟᱡᱟᱣ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = ᱟᱢᱟᱜ ᱢᱩᱞ ᱫᱟᱱᱟ
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱟᱹᱛᱩᱨ ᱟᱸᱲᱜᱚᱭᱮᱫ ᱟ
     .style = min-width: 46em
+    .title = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱟᱹᱛᱩᱨ ᱟᱸᱲᱜᱚᱭᱮᱫ ᱟ
 download-cert-message = ᱟᱢ ᱱᱟᱣᱟ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱮᱢᱚᱜᱤᱡ (CA) ᱪᱮᱛᱟᱱ ᱯᱟᱹᱛᱭᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱞᱤ ᱭᱟᱠᱟᱱᱟᱢ᱾
 download-cert-trust-ssl =
     .label = ᱱᱚᱣᱟ CA ᱣᱮᱵ ᱥᱟᱭᱤᱴ ᱠᱚ ᱩᱯᱨᱩᱢ ᱞᱟᱹᱜᱤᱫ ᱯᱟᱹᱛᱭᱟᱹᱣᱟᱜ ᱢᱮ᱾
@@ -52,8 +52,6 @@ download-cert-view-text = CA ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱯᱚᱨᱚᱠ 
 
 client-auth-window =
     .title = ᱵᱮᱵᱷᱟᱨᱤᱡᱟᱜ ᱩᱯᱨᱩᱢ ᱵᱟᱵᱚᱛ ᱱᱮᱦᱚᱨ
-client-auth-site-description = ᱱᱚᱣᱟ ᱥᱟᱭᱤᱴ ᱱᱮᱦᱚᱨ ᱟᱠᱟᱫ ᱟ ᱡᱮ ᱟᱢ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱥᱟᱸᱣ ᱟᱢᱛᱮ ᱩᱯᱨᱩᱢᱚᱜ ᱢᱮ :
-client-auth-choose-cert = ᱩᱯᱨᱩᱢ ᱩᱫᱩᱠ ᱞᱮᱠᱟ ᱢᱤᱫ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱵᱟᱪᱷᱟᱣ ᱢᱮ:
 client-auth-cert-details = ᱵᱟᱪᱷᱟᱣ ᱠᱟᱱ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱵᱚᱵᱚᱛ :
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
@@ -88,9 +86,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱱᱚᱠᱚᱞ ᱡᱚᱜᱟᱣ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ (ᱫᱚᱦᱲᱟ ):
 set-password-reminder = ᱞᱟᱹᱠᱛᱤᱭᱟᱜ: ᱡᱩᱫᱤ ᱟᱢ ᱟᱢᱟᱜ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱱᱚᱠᱚᱞ ᱡᱚᱜᱟᱣ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱦᱤᱲᱤᱧ ᱟᱠᱟᱫ ᱟᱢ, ᱟᱢ ᱛᱟᱭᱚᱢ ᱛᱮ ᱱᱚᱣᱟ ᱱᱚᱠᱚᱞ ᱡᱚᱜᱟᱣ ᱫᱚᱦᱲᱟ ᱛᱮ ᱵᱟᱢ ᱡᱚᱜᱟᱣ ᱫᱟᱲᱮᱭᱟᱜ ᱟ᱾ ᱱᱚᱣᱟ ᱱᱚᱣᱟ ᱥᱚᱱᱮᱥᱮᱫ ᱡᱟᱭᱜᱟ ᱨᱮ ᱨᱮᱠᱚᱨᱰ ᱢᱮ ᱾
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = ᱫᱟᱭᱟᱠᱟᱛᱮ ᱴᱚᱠᱮᱱ “{ $tokenName }” ᱛᱮ ᱯᱚᱨᱚᱢᱟᱱ ᱛᱷᱚᱭ ᱢᱮ ᱾ ᱛᱮᱫ ᱞᱮᱠᱷᱟ ᱠᱚᱨᱟᱣᱟ ᱚᱱᱟ ᱫᱚ ᱴᱚᱠᱮᱱ ᱪᱮᱛᱟᱱ ᱨᱮ ᱛᱟᱦᱮᱸ ᱮᱱᱟ (ᱡᱮᱢᱚᱱ, ᱛᱤᱠᱟᱹᱴᱩᱵᱽᱪᱷᱟᱯᱟ ᱯᱟᱲᱦᱟᱣᱤᱭᱟᱹ ᱥᱮ ᱢᱤᱫᱴᱟᱝ ᱠᱤᱯᱮᱰ ᱛᱮ ᱠᱳᱰ ᱟᱫᱮᱨ ᱡᱷᱚᱜ) ᱾

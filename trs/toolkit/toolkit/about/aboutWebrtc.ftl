@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = na'nïnj sà' about:webrtc danaj
 about-webrtc-aec-logging-msg-label = AEC Ayi'ìj sesiûn
 about-webrtc-aec-logging-off-state-label = Gayi'ì AEC sesiûn
 about-webrtc-aec-logging-on-state-label = Ganikïn' AEC Ayi'ì sesiûn
-about-webrtc-aec-logging-on-state-msg = AEC Hua actibô sa ayi'ì sesiûn (ga'min ngà guì a'mint 'ngo diû nukuaj ni girìt kaptura)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC Hua actibô sa ayi'ì sesiûn (ga'min ngà guì a'mint 'ngo diû nukuaj ni girìt kaptura)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -77,17 +76,9 @@ about-webrtc-nominated = Gutà' si yugui
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Sa naguit
 about-webrtc-save-page-label = Na'nïnj sà' pâjina
-about-webrtc-debug-mode-msg-label = Huaj da' gi'iaj depurandoj
-about-webrtc-debug-mode-off-state-label = Hua yugui da' gi'iaj depurandoj
-about-webrtc-debug-mode-on-state-label = Ganikïnj da' gi'iaj depurandoj
-about-webrtc-stats-heading = Si estadistikâ sesiûn
 about-webrtc-stats-clear = Nadure' sa gahuin
 about-webrtc-log-heading = Hìaj 'iaj Konektandoj
 about-webrtc-log-clear = Na'nïn' sa 'iaj konektandoj
-about-webrtc-log-show-msg = digan sa 'iaj konektandoj
-    .title = Ga'uì' klik da' nahuin yachìj sesiûn nan
-about-webrtc-log-hide-msg = Gachri huì sa 'iaj konektandoj
-    .title = ga'uì' klik da' durê't sesiûn nan
 about-webrtc-log-section-show-msg = Digan sa 'iaj konektandoj
     .title = Ga'uì' klik da' nahuin yachìj sesiûn nan
 about-webrtc-log-section-hide-msg = Gachri huì sa 'iaj konektandoj
@@ -110,19 +101,11 @@ about-webrtc-remote-candidate = Candidatô nâ
 about-webrtc-raw-candidates-heading = Daran nej kandidato nakàa
 about-webrtc-raw-local-candidate = Kandidatò ñan dukuàa
 about-webrtc-raw-remote-candidate = kandidatô na nâ
-about-webrtc-raw-cand-show-msg = Digan daran' nej kandidâto
-    .title = Ga'uì' klik da' nahuin yachìj sesiûn nan
-about-webrtc-raw-cand-hide-msg = gachri huì nej kandidatô ñaa
-    .title = ga'uì' klik da' durê't sesiûn nan
 about-webrtc-raw-cand-section-show-msg = Digan daran' nej kandidâto
     .title = Ga'uì' klik da' nahuin yachìj sesiûn nan
 about-webrtc-raw-cand-section-hide-msg = Gachri huì nej kandidatô ñaa
     .title = Ga'uì' klik da' durê't sesiûn nan
 about-webrtc-priority = Sa ña'an doj
-about-webrtc-fold-show-msg = Ni'iaj dàj huaj
-    .title = Ga'uì' klik da' nahuin yachìj sesiûn nan
-about-webrtc-fold-hide-msg = gachri huì sa huaa
-    .title = ga'uì' klik da' durê't sesiûn nan
 about-webrtc-fold-default-show-msg = Ni'iaj dàj huaj
     .title = Ga'uì' klik da' nahuin yachìj sesiûn nan
 about-webrtc-fold-default-hide-msg = Gachri huì sa huaa
@@ -132,10 +115,6 @@ about-webrtc-encoder-label = Codofikadôr
 
 ##
 
-about-webrtc-save-page-msg = pajinâ nanun sà' riña: { $path }
-about-webrtc-debug-mode-off-state-msg = riña naj nuguan' gini'iajt nu sà' riña: { $path }
-about-webrtc-debug-mode-on-state-msg = 'iaj sun modo actîbo, riña 'na' nuguan' gini'iajt nu: { $path }
-about-webrtc-aec-logging-off-state-msg = nej archibî gi'iaj kapturandôt ni ga'ue narì't riña: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

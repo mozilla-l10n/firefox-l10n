@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = Պահեք { -brand-short-name }-ը ձեր 
 default-browser-prompt-message-pin-msix = Պահեք { -brand-short-name }-ը ձեր ձեռքի տակ՝ դարձրեք այն ձեր սկզբնադիր դիտարկիչը և ամրացրեք այն ձեր խնդրագոտում և մեկնարկային ցանկում:
 default-browser-prompt-message-pin-mac = Պահեք { -brand-short-name }-ը ձեր ձեռքի տակ՝ դարձրեք այն ձեր սկզբնադիր դիտարկիչը և ամրացրեք այն ձեր Dock-ում:
 default-browser-prompt-button-primary-set = Կայել որպես հիմնական դիտարկիչ
-default-browser-prompt-button-primary-pin = Դարձնել սկզբնադիր դիտարկիչ
 default-browser-prompt-title-alt = Դարձնե՞լ { -brand-short-name }-ը Ձեր սկզբնադիր դիտարկիչ:
 default-browser-prompt-message-alt = Ստացեք արագություն, անվտանգություն և գաղտնիություն ամեն անգամ զննելիս:
 default-browser-prompt-button-primary-alt = Կայել որպես սկզբնադիր դիտարկիչ

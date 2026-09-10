@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Sće tuchwilu we FIPS-modusu. FIPS sej hes
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Hłowne hesło wróćo stajić
     .style = min-width: 40em
+    .title = Hłowne hesło wróćo stajić
 reset-password-button-label =
     .label = Wróćo stajić
 reset-primary-password-text = Jeli swoje hłowne hesło wróćo stajiće, zabudu se wšě waše składowane webowe a e-mejlowe hesła, wosobinski certifikata a priwatne kluče. Chceće woprawdźe swoje hłowne hesło wróćo stajić?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Waše hłowne hesło je so wróćo 
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Sćehnjenje certifikata
     .style = min-width: 46em
+    .title = Sćehnjenje certifikata
 download-cert-message = Bušće poprošeny nowej certifikatowej awtoriće (CA) dowěrić.
 download-cert-trust-ssl =
     .label = Tutej certifikatowej awtoriće dowěrić, zo bychu so websydła identifikowali.
@@ -52,8 +52,6 @@ download-cert-view-text = Certifikat certifikatoweje awtority přepruwować
 
 client-auth-window =
     .title = Požadanje na identifikaciju wužiwarja
-client-auth-site-description = Tute sydło je požadało, zo wy sam so přezc ertifikat identifukujeće:
-client-auth-choose-cert = Wubjerće certifikat za identifikaciju:
 client-auth-send-no-certificate =
     .label = Certifikat njesłać
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Prošu awtentifikujće so pola wěstotneho grata ({ $tokenName }). Kak dyrbiće to činić, wotwisuje wot grata (na přikład přez wužiwanje čitaka porstowych wotćišćow abo přez zapodawanje koda z tastaturu).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Prošu awtentifikujće so pola tokena “{ $tokenName }”. Kak dyrbiće to činić, wotwisuje wot tokena (na přikład přez wužiwanje čitaka porstowych wotćišćow abo přez zapodawanje koda z tastaturu).

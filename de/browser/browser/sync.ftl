@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Wird synchronisiert…
 sync-disconnect-dialog-title2 = Trennen?
 sync-disconnect-dialog-body = { -brand-product-name } beendet die Synchronisation mit Ihrem Konto, löscht aber keine Surf-Daten auf diesem Gerät.
 sync-disconnect-dialog-button = Trennen
-fxa-signout-dialog2-title = Von { -fxaccount-brand-name } abmelden?
 fxa-signout-dialog-title2 = Von Ihrem Konto abmelden?
 fxa-signout-dialog-body = Synchronisierte Daten bleiben weiter in Ihrem Konto.
 fxa-signout-dialog2-button = Abmelden
@@ -43,14 +42,6 @@ fxviewtabrow-send-to-mobile-not-verified = Konto nicht verifiziert
 fxviewtabrow-send-to-mobile-verify-account = Verifizieren Sie Ihr Konto
 fxa-menu-send-to-mobile-turn-on-sync = Synchronisation zum Senden von Tabs aktivieren
 fxa-menu-send-to-mobile-connect-device = Verbinden Sie ein Gerät, um Tabs zu senden
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Tab an Gerät senden
-           *[other] { $tabCount } Tabs an Gerät senden
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Geräte werden synchronisiert…

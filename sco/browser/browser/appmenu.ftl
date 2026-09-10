@@ -27,8 +27,6 @@ appmenuitem-downloads =
     .label = Doonloads
 appmenuitem-passwords =
     .label = Passwirds
-appmenuitem-addons-and-themes =
-    .label = Eik-ons and Themes
 appmenuitem-print =
     .label = Prent…
 appmenuitem-find-in-page =
@@ -91,7 +89,6 @@ appmenu-remote-tabs-unverified = Your accoont needs tae be trystmakkit.
 appmenuitem-fxa-toolbar-sync-now2 = Sync Noo
 appmenuitem-fxa-sign-in = Sign in tae { -brand-product-name }
 appmenuitem-fxa-manage-account = Manage Accoont
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
@@ -103,15 +100,6 @@ appmenu-fxa-setup-sync =
     .label = Turn On Syncin…
 appmenuitem-save-page =
     .label = Save Page As…
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Whit's New
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Lat me ken aboot new featurs
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -194,8 +182,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Mair Fankle-fixin Information
     .accesskey = T
-appmenu-help-report-site-issue =
-    .label = Report Site Issue…
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

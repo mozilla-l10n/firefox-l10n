@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = آدرس‌های ذخیره شده
 autofill-manage-addresses-list-header = آدرس‌ها
-autofill-manage-credit-cards-title = کارت‌های اعتباری ذخیره شده
-autofill-manage-credit-cards-list-header = کارت‌های اعتباری
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = حذف
@@ -21,9 +19,6 @@ autofill-manage-edit-button = ویرایش…
 
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = نشانی رایانامه
-autofill-address-given-name = نام
-autofill-address-additional-name = نام میانی
-autofill-address-family-name = نام خانوادگی
 autofill-address-organization = سازمان
 autofill-address-street = نشانی خیابان
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
@@ -69,26 +64,12 @@ autofill-address-eircode = کد پستی
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = افزودن آدرس جدید
 autofill-address-country = کشور یا منطقه
 autofill-address-tel = تلفن
 autofill-address-email = رایانامه
 autofill-cancel-button = لغو
 autofill-save-button = ذخیره
 autofill-country-warning-message = پرکردن خودکار فرم در حال حاضر برای تعدادی از کشورها فعال است.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = افزودن کارت اعتباری جدید
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = ویرایش کارت اعتباری
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] نمایش اطلاعات کارت اعتباری
-        [windows] { -brand-short-name } در تلاش است تا اطلاعات کارت اعتباری را نمایش دهد. دسترسی به این حساب Windows را در زیر تأیید کنید.
-       *[other] { -brand-short-name } در تلاش است تا اطلاعات کارت اعتباری را نمایش دهد.
-    }
 autofill-card-number-2 =
     .label = شماره کارت
 autofill-card-number = شماره کارت
@@ -102,15 +83,3 @@ autofill-card-expires-month = ماه انقضا
 autofill-card-expires-year = سال انقضا
 autofill-card-billing-address = آدرس قبض
 autofill-card-network = نوع کارت
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = امریکن اکسپرس
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = اکتشاف
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = ویزا

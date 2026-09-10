@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Actualament, sètz en mòde FIPS. Lo mòde
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Reïnicializar lo senhal principal
     .style = min-width: 40em
+    .title = Reïnicializar lo senhal principal
 reset-password-button-label =
     .label = Escafar
 reset-primary-password-text = Se reïnicializatz vòstre senhal principal, totes vòstres senhals e email salvats, certificats personals e vòstras claus privadas seràn oblidats. Volètz vertadièrament suprimir lo senhal principal ?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Vòstre senhal es estat reïniciali
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Telecargament del certificat
     .style = min-width: 46em
+    .title = Telecargament del certificat
 download-cert-message = Se vos a demandat de confirmar una autoritat de certificacion novèla (AC).
 download-cert-trust-ssl =
     .label = Confirmar aquesta AC per identificar de sites Web.
@@ -52,8 +52,6 @@ download-cert-view-text = Examinar lo certificat d'AC
 
 client-auth-window =
     .title = Requèsta d'identificacion d'utilizaire
-client-auth-site-description = Aqueste sit vos demanda de vos identificar amb un certificat de seguretat :
-client-auth-choose-cert = Causir un certificat de presentar coma identificacion :
 client-auth-send-no-certificate =
     .label = Enviar pas cap de certificat
 client-auth-cert-details = Detalhs del certificat seleccionat :
@@ -90,9 +88,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Senhal de salvament del certificat (encara) :
 set-password-reminder = Important : s'avètz oblidat vòstre senhal de seguretat, poiretz pas mai importar aquesta salvagarda mai tard. Conservatz-lo en luòc segur.
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Volgatz vos autentificar en utilizant lo geton « { $tokenName } ». La manièra de far depend del geton (per exemple, en utilizant un lector d’emprentas digitalas o en picant un còdi al clavièr).

@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = 我在页面“{ $tabTitle }”上选中了“{ 
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = 询问 AI 聊天机器人
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = 询问 { $provider }
 genai-menu-open-generic =
     .label = 打开 AI 聊天机器人
 # $provider (string) - name of the provider
@@ -112,8 +107,6 @@ genai-header-provider-menu =
     .title = 选择聊天机器人
 genai-header-settings-button =
     .title = AI 聊天设置
-genai-header-options-button =
-    .title = 打开菜单
 genai-header-close-button =
     .title = 关闭
 genai-provider-view-details =
@@ -141,37 +134,25 @@ genai-page-button-summarize = 生成页面摘要
 
 ## Chatbot onboarding
 
-genai-onboarding-header = 在浏览的同时，摘要总结、集思广益、处理大小任务
 genai-onboarding-choose-header = 选择要在 { -brand-short-name } 侧栏中使用的 AI 聊天机器人
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = 选择在 { -brand-short-name } 侧栏中使用的 AI 聊天机器人。您在选择聊天机器人时，将看到其详细信息，以后也可以随时切换。<a data-l10n-name="learn-more">详细了解</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = 以后可随时切换。若不确定该选哪款，可<a data-l10n-name="learn-more">详细了解各款聊天机器人</a>。
 genai-onboarding-primary = 继续
 genai-onboarding-secondary = 关闭
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = 详细了解 Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = 详细了解 ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = 详细了解 Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = 详细了解 Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = 详细了解 HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = 详细了解 Le Chat
-genai-onboarding-select-header = 选中文本可查看建议
-genai-onboarding-select-description = 选中文本时，我们会为您建议提示词。您可以直接向聊天机器人发送，也可以自行撰写。
-genai-onboarding-select-primary = 开始聊天
 genai-chatbot-contextual-title = 使用 AI 聊天机器人时，无需再切换标签页
 genai-chatbot-contextual-subtitle = 在 { -brand-short-name } 侧栏中添加 AI 聊天机器人，让聊天与浏览齐驱并进。
 genai-chatbot-contextual-button = 选择聊天机器人
@@ -184,27 +165,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = 右键点击侧栏中的星�
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = 在侧栏中打开 AI 聊天机器人，然后选择底部的“生成页面摘要”。
 genai-chatbot-summarize-footer-generic-subtitle = 将 AI 聊天机器人添加到 { -brand-short-name } 侧栏，方便快速生成页面摘要。
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = 生成文本和代码
-genai-onboarding-claude-analyze = 分析文档和图像
-genai-onboarding-claude-price = 提供免费和付费选项；需要登录账户
-genai-onboarding-chatgpt-generate = 生成文本、图像、代码
-genai-onboarding-chatgpt-analyze = 分析文档和图像
-genai-onboarding-chatgpt-price = 提供免费和付费选项；在部分国家/地区或处理部分任务需登录账户
-genai-onboarding-copilot-generate = 生成文本、图像、代码
-genai-onboarding-copilot-analyze = 分析图像
-genai-onboarding-copilot-price = 提供免费和付费选项；处理部分任务需要登录账户
-genai-onboarding-gemini-generate = 生成文本、图像、代码
-genai-onboarding-gemini-analyze = 分析图像（免费）和文档（付费）
-genai-onboarding-gemini-price = 提供免费和付费选项；需要登录账户
-genai-onboarding-huggingchat-generate = 生成文本和代码
-genai-onboarding-huggingchat-switch = 可在多个开源模型间切换
-genai-onboarding-huggingchat-price-2 = 免费；请求超过一定次数后需要登录账户
-genai-onboarding-lechat-generate = 生成文本和代码
-genai-onboarding-lechat-price = 免费；需要登录账户
 
 ## Model Optin Component
 
@@ -239,8 +199,8 @@ link-preview-generation-retry = 重试
 link-preview-settings-button =
     .title = 预览链接设置
 link-preview-settings-enable =
-    .label = 启用预览链接
     .description = 使用快捷方式或右击链接，查看页面标题、描述等信息。
+    .label = 启用预览链接
 link-preview-settings-key-points =
     .label = 允许 AI 读取页面开头并生成要点
 link-preview-settings-long-press =

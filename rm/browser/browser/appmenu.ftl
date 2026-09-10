@@ -31,8 +31,6 @@ appmenuitem-extensions-and-themes =
     .label = Extensiuns e designs
 appmenuitem-extensions =
     .label = Extensiuns
-appmenuitem-addons-and-themes =
-    .label = Supplements e designs
 appmenuitem-print =
     .label = Stampar…
 appmenuitem-find-in-page =
@@ -101,7 +99,6 @@ appmenu-remote-tabs-unverified = Tes conto sto vegnir verifitgà.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronisar ussa
 appmenuitem-fxa-sign-in = S'annunziar tar { -brand-product-name }
 appmenuitem-fxa-manage-account = Administrar il conto
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Conto
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -117,15 +114,6 @@ appmenuitem-save-page =
     .label = Memorisar la pagina sut…
 appmenuitem-fxa-sync-off-title = La sincronisaziun è deactivada
 appmenuitem-fxa-sync-off-description = Protegia ed acceda a tes segnapaginas, pleds-clav e dapli da nua ch’i saja.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Novaziuns
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Infurmar davart novas funcziunalitads
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -238,8 +226,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Dapli infurmaziuns per schliar problems
     .accesskey = D
-appmenu-help-report-site-issue =
-    .label = Rapportar in problem cun la pagina…
 appmenu-help-share-ideas =
     .label = Cundivida ideas e resuns…
     .accesskey = s
@@ -286,13 +272,11 @@ appmenuitem-relay-description = Zuppenta tia adressa dad e-mail e tes numer da t
 appmenuitem-services-relay-description = Avrir la survista dals alias dad e-mail
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Protecziun per l’entir apparat
-appmenuitem-vpn-description = Protegia tias activitads online
 appmenu-services-header = Mes servetschs
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Emprova auters utensils da protecziun da Mozilla:
-appmenu-other-protection-header = Emprova era auters utensils da protecziun da { -vendor-short-name }:
 
 ## Profiles panel
 

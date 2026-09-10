@@ -25,8 +25,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = സര്‍ട്ടിഫിക്കറ്റ്‌ ഡൌണ്‍ലോഡ്‌ ചെയ്യുന്നു
     .style = min-width: 46em
+    .title = സര്‍ട്ടിഫിക്കറ്റ്‌ ഡൌണ്‍ലോഡ്‌ ചെയ്യുന്നു
 download-cert-message = നിങ്ങള്‍ ഒരു പുതിയ സര്‍ട്ടിഫിക്കേറ്റ് അഥോറിറ്റിയെ (CA) വിശ്വസിക്കുവാന്‍ ആവശ്യപ്പെട്ടിരിക്കുന്നു.
 download-cert-trust-ssl =
     .label = വെബ്‌ സൈറ്റുകള്‍ തിരിച്ചറിയുന്നതിനായി ഈ CA വിശ്വസിക്കുക
@@ -41,8 +41,6 @@ download-cert-view-text = CA സര്‍ട്ടിഫിക്കേറ്റ
 
 client-auth-window =
     .title = ഉപയോക്താവിനെ തിരിച്ചറിയുവാന്‍ ആവശ്യപ്പെടുക
-client-auth-site-description = ഈ സൈറ്റിനു് നിങ്ങള്‍ ഒരു സര്‍ട്ടിഫിക്കേറ്റ് ഉപയോഗിച്ചു് നിങ്ങളുടെ തിരിച്ചറിയല്‍ ഉറപ്പിക്കണം:
-client-auth-choose-cert = തിരിച്ചറിയുന്നതിനുള്ള ഒരു സര്‍ട്ടിഫിക്കേറ്റ് തെരഞ്ഞെടുക്കുക:
 client-auth-cert-details = തിരഞ്ഞെടുത്ത സർട്ടിഫിക്കറ്റിന്റെ വിശദാംശങ്ങൾ:
 # Variables:
 # $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")

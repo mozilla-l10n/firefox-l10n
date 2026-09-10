@@ -152,7 +152,6 @@ media-unknown-not-cached =
     .value = ບໍ່ຮູ້ຈັກ (ບໍ່ຖືກເກັບໄວ້)
 permissions-use-default =
     .label = ໃຊ້ຄ່າເລີ່ມຕົ້ນ
-security-no-visits = ບໍ່
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:

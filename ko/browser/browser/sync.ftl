@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = 동기화 중…
 sync-disconnect-dialog-title2 = 연결을 끊으시겠습니까?
 sync-disconnect-dialog-body = { -brand-product-name }가 계정과의 동기화를 중단하지만 이 기기의 탐색 데이터는 삭제하지 않습니다.
 sync-disconnect-dialog-button = 연결 끊기
-fxa-signout-dialog2-title = { -fxaccount-brand-name }에서 로그아웃하시겠습니까?
 fxa-signout-dialog-title2 = 계정에서 로그아웃하시겠습니까?
 fxa-signout-dialog-body = 동기화된 데이터는 계정에 남아 있습니다.
 fxa-signout-dialog2-button = 로그아웃
@@ -41,10 +40,6 @@ fxviewtabrow-send-to-mobile-not-verified = 계정이 확인되지 않음
 fxviewtabrow-send-to-mobile-verify-account = 계정 확인
 fxa-menu-send-to-mobile-turn-on-sync = 탭을 보내려면 동기화를 켜세요
 fxa-menu-send-to-mobile-connect-device = 탭을 보내려면 기기를 연결하세요
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label = 탭 { $tabCount }개를 기기로 보내기
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = 기기를 동기화하고 있습니다…

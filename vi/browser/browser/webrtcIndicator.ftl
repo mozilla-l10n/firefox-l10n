@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Chỉ báo chia sẻ
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Chỉ báo chia sẻ
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Bạn đang chia sẻ micrô của mình. Nhấp để kiểm soát việc chia sẻ.
 webrtc-screen-system-menu =
     .label = Bạn đang chia sẻ một cửa sổ hoặc một màn hình. Nhấp để kiểm soát việc chia sẻ.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Bạn đang chia sẻ máy ảnh và micro. Nhấn vào đây để kiểm soát những gì được chia sẻ.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Bạn đang chia sẻ máy ảnh. Nhấn vào đây để kiểm soát những gì được chia sẻ.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Bạn đang chia sẻ micro. Nhấn vào đây để kiểm soát những gì được chia sẻ.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Bạn đang chia sẻ một ứng dụng. Nhấn vào đây để kiểm soát những gì được chia sẻ.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Bạn đang chia sẻ màn hình. Nhấn vào đây để kiểm soát những gì bạn chia sẻ.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Bạn đang chia sẻ một cửa sổ. Nhấn vào đây để kiểm soát những gì bạn chia sẻ.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Bạn đang chia sẻ một thẻ. Nhấn vào đây để kiểm soát những gì bạn chia sẻ.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -161,7 +142,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Cho phép { $ori
 
 webrtc-share-screen-warning = Chỉ chia sẻ màn hình với các trang web mà bạn tin tưởng. Chia sẻ có thể cho phép các trang web lừa đảo duyệt web như bạn và lấy cắp dữ liệu cá nhân của bạn.
 webrtc-share-browser-warning = Chỉ chia sẻ { -brand-short-name } với các trang web mà bạn tin tưởng. Chia sẻ có thể cho phép các trang web lừa đảo duyệt web như bạn và lấy cắp dữ liệu cá nhân của bạn.
-webrtc-share-screen-learn-more = Tìm hiểu thêm
 webrtc-pick-window-or-screen = Chọn cửa sổ hoặc màn hình
 webrtc-share-entire-screen = Toàn bộ màn hình
 webrtc-share-pipe-wire-portal = Sử dụng cài đặt của hệ điều hành

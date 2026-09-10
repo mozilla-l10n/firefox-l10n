@@ -34,12 +34,6 @@ mr1-return-to-amo-add-extension-label = Cuir { $addon-name } ris
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Adhartas: ceum { $current } à { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -183,11 +177,6 @@ mr2022-onboarding-pin-primary-button-label =
         [macos] Cùm { -brand-short-name } air an doca
        *[other] Prìnich { -brand-short-name } ri bàr nan saothair
     }
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Cleachd brabhsair aig a bheil cùl-taic buidhean neo-phrothaideachd. Dìonaidh do phrìobhaideachd fhad ’s a shiùbhlas tusa ceithir-thimcheall an lìn.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -217,57 +206,10 @@ mr2022-onboarding-set-default-subtitle = Cleachd brabhsair aig a bheil cùl-taic
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Chaidh an tionndadh as ùire againn a dhealbhadh is tusa aig a theis-meadhan is nì seo nas fhasa dhut e ceithir-thimcheall an lìn a shiubhal na a-riamh roimhe. Tha e loma-làn de rudan a chòrdas riut fìor-mhath nar beachd-ne.
 mr2022-onboarding-get-started-primary-button-label = Suidhich e ann am priobadh na sùla
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Suidheachadh cho luatha ri seabhag
-mr2022-onboarding-import-subtitle = Suidhiche { -brand-short-name } mar a lùigeas tu fhèin e. Cuir ris na comharran-lìn, faclan-faire ’s mòran a bharrachd on t-seann-bhrabhsair agad.
 mr2022-onboarding-import-primary-button-label-no-attribution = Ion-phortaich on bhrabhsair a chleachd thu roimhe
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Tagh an dath a chuireas air bhioran thu
-mr2022-onboarding-colorway-subtitle = Bidh buaidh air cultar aig guthan neo-eisimeileach gu tric.
-mr2022-onboarding-colorway-primary-button-label-continue = Suidhich is lean air adhart
-mr2022-onboarding-existing-colorway-checkbox-label = Cleachd { -firefox-home-brand-name } mar an duilleag-dhachaigh dhathach agad
-mr2022-onboarding-colorway-label-default = Bun-roghainn
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Na dathan làithreach aig { -brand-short-name }
-mr2022-onboarding-colorway-description-default = <b>Cleachd na dathan a th’ agam ann am { -brand-short-name } an-dràsta.</b>
-mr2022-onboarding-colorway-label-playmaker = Playmaker
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Playmaker (dearg)
-mr2022-onboarding-colorway-description-playmaker = <b>’S e Playmaker a th’ annad.</b> Bidh tu a’ cruthachadh cothroman buannachaidh agus a’ cuideachadh càch mun cuairt ort airson ’s gun soirbhich leotha.
-mr2022-onboarding-colorway-label-expressionist = Eas-preiseanaiche
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Eas-preiseanaiche (buidhe)
-mr2022-onboarding-colorway-description-expressionist = <b>’S e eas-preiseanaiche a th’ annad.</b> Tha stèidh-amhairc eile agad agus tha na chruthaicheas tu a’ gluasad cridhe chàch.
-mr2022-onboarding-colorway-label-visionary = Lèirsinniche
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Lèirsinniche (uaine)
-mr2022-onboarding-colorway-description-visionary = <b>’S e lèirsinniche a th’ annad.</b> Tha thu a’ ceasnachadh mar a tha cùisean agus a’ brosnachadh chàch lèirsinn de shaoghal nas fheàrr a chruthachadh.
-mr2022-onboarding-colorway-label-activist = Neach-iomairt
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Neach-iomairt (gorm)
-mr2022-onboarding-colorway-description-activist = <b>’S e neach-iomairt a th’ annad.</b> Tha thu a’ fàgail an t-saoghail na àite nas fheàrr na bha e romhad-sa agus a’ toirt comas creidsinn do chàch.
-mr2022-onboarding-colorway-label-dreamer = Aislingiche
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Aislingiche (purpaidh)
-mr2022-onboarding-colorway-description-dreamer = <b>’S e aislingiche a th’ annad.</b> Tha thu dhen bheachd gu bheil fortan an cuideachd nan treun agus a’ brosnachadh càch gu treuntas.
-mr2022-onboarding-colorway-label-innovator = Ùr-ghnàthaichear
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Ùr-ghnàthaichear (orains)
-mr2022-onboarding-colorway-description-innovator = <b>’S e ùr-ghnàthaichear a th’ annad.</b> Tha thu a’ faicinn cothroman air feadh an àite ’s tha buaidh agad air beatha nan daoine mun cuairt ort.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Leum eadar laptop is fòn agus air ais a-rithist an uair sin
-mr2022-onboarding-mobile-download-subtitle = Faigh grein air na tabaichean a th’ agad air an dàrna uidheam is lean ort far an do stad thu air fear eile. Agus is urrainn dhut na comharran-lìn is faclan-faire agad a shioncronachadh àite sam bith a chleachdas tu { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Sganaich an còd QR airson { -brand-product-name } fhaighinn airson mobile no <a data-l10n-name="download-label">cuir ceangal thugad fhèin airson a luchdadh a-nuas.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Sganaich an còd QR airson { -brand-product-name } fhaighinn airson mobile.
 
@@ -320,15 +262,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Còig an àirde le craiceann soilleir is craiceann dorcha
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Laighe na grèine ann an uinneag le madadh-ruadh is lus-taighe air sòla uinneige
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Làmh a’ spreidhigeadh dealbh dathach le sùil uaine, bròg orains, ball-basgaid dearg, headphones purpaidh, cridhe gorm is crùn buidhe
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Madadh-ruadh air sgrìn laptop a’ smèideadh. Tha luchag plugte a-staigh san laptop.
 onboarding-device-migration-title = Fàilte air ais!
-onboarding-device-migration-subtitle = Clàraich a-steach dhan { -fxaccount-brand-name(capitalization: "sentence") } agad is thoir leat na comharran-lìn, faclan-faire ’s an eachdraidh agad gun uidheam ùr agad.
 onboarding-device-migration-subtitle2 = Clàraich a-steach dhan chunntas agad is thoir leat na comharran-lìn, faclan-faire agus an eachdraidh agad gun uidheam ùr.
 onboarding-device-migration-primary-button-label = Clàraich a-steach
 

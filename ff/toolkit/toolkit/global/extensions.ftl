@@ -10,9 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Ɓeydu { $extension }?
 webext-perms-sideload-header = { $extension } ɓeydaama
-webext-perms-optional-perms-header = { $extension } ɗaɓɓaaɗe jamirooje goɗɗe.
 
 ##
 
@@ -45,21 +43,5 @@ webext-perms-host-description-all-urls = Yetto keɓe lowe ɗee fof
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Yetto keɓe maa wonande lowe to domen { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Yetto keɓe maa to domen goɗɗo nder { $domainCount }
-       *[other] Yetto keɓe maa to domenaaji goɗɗi nder { $domainCount }
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Yetto keɓe maa wonande { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Yetto keɓe maa to lowre woɗnde { $domainCount }
-       *[other] Yetto keɓe maa to lowe goɗɗe { $domainCount }
-    }

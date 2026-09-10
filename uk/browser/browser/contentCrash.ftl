@@ -18,14 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] У вас є не надісланий звіт про збій
-        [few] У вас є { $reportCount } не надісланих звіти про збої
-       *[many] У вас є { $reportCount } не надісланих звітів про збої
-    }
 pending-crash-reports-view-all =
     .label = Переглянути
 pending-crash-reports-send =
@@ -39,14 +31,6 @@ requested-crash-reports-message-new =
         [one] У вас є ненадісланий звіт про збій, який наразі досліджується. Надіславши його, ви допоможете нам покращити { -brand-product-name }. Закривши це сповіщення, звіт буде проігноровано.
         [few] У вас є { $reportCount } ненадіслані звіти про збої, які наразі досліджуються. Надіславши їх, ви допоможете нам покращити { -brand-product-name }. Закривши це сповіщення, звіти буде проігноровано.
        *[many] У вас є { $reportCount } ненадісланих звітів про збої, які наразі досліджуються. Надіславши їх, ви допоможете нам покращити { -brand-product-name }. Закривши це сповіщення, звіти буде проігноровано.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] У вас є не надісланий звіт про збій, який входить до числа збоїв, що досліджуються. Надсилання допоможе нам покращити { -brand-product-name }. Якщо закрити це сповіщення, звіт проігнорується.
-        [few] У вас є { $reportCount } не надіслані звіти про збої, які входять до числа збоїв, що досліджуються. Надсилання допоможе нам покращити { -brand-product-name }. Якщо закрити це сповіщення, звіти проігноруються.
-       *[many] У вас є { $reportCount } не надісланих звітів про збої, які входять до числа збоїв, що досліджуються. Надсилання допоможе нам покращити { -brand-product-name }. Якщо закрити це сповіщення, звіти проігноруються.
     }
 requested-crash-reports-dont-show-again =
     .label = Більше не показувати

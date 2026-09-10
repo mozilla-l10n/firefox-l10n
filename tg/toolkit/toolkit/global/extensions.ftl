@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = { $extension }-ро илова мекунед?
-webext-perms-header-with-perms = { $extension }-ро илова мекунед? Ин васеъшавӣ ба зерин дастрасӣ пайдо мекунад:
-webext-perms-header-unsigned = { $extension }-ро илова мекунед? Ин васеъшавӣ тасдиқнашуда аст. Васеъшавиҳои зараррасон метавонанд маълумоти шахсии шуморо дуздӣ кунанд ё компютери шуморо зери хатар гузоранд. Онро он гоҳ илова кунед, агар ба манбаъ эътимод дошта бошед.
-webext-perms-header-unsigned-with-perms = { $extension }-ро илова мекунед? Ин васеъшавӣ тасдиқнашуда аст. Васеъшавиҳои зараррасон метавонанд маълумоти шахсии шуморо дуздӣ кунанд ё компютери шуморо зери хатар гузоранд. Онро он гоҳ илова кунед, агар ба манбаъ эътимод дошта бошед. Ин васеъшавӣ ба зерин дастрасӣ пайдо мекунад:
 webext-perms-sideload-header = { $extension } илова карда шуд
 webext-perms-optional-perms-header2 = «{ $extension }» иҷозатҳои иловагиро дархост мекунад.
-webext-perms-optional-perms-header = { $extension } иҷозати иловагиро дархост мекунад.
 webext-perms-header2 = Илова кардани «{ $extension }»
 webext-perms-list-intro-unsigned = Ин васеъшавии тасдиқнашуда метавонад махфияти шахсӣ ё амнияти дастгоҳи шуморо дар зери хатар гузорад. Танҳо дар сурате онро илова кунед, ки агар ба манбаи он пурра эътимод дошта бошед.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = «{ $extension }» навсозӣ шудааст. Пеш аз он, ки версия навшуда насб карда мешавад, шумо бояд иҷозатҳои навро тасдиқ намоед. Агар шумо имкони «Бекор кардан»-ро интихоб кунед, версия васеъшавии ҷорӣ нигоҳ дошта мешавад.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } навсозӣ шудааст. Пеш аз он, ки версия навшуда насб карда мешавад, шумо бояд иҷозатҳои навро тасдиқ намоед. Агар шумо имкони «Бекор кардан»-ро интихоб кунед, версия васеъшавии ҷорӣ нигоҳ дошта мешавад. Ин васеъшавӣ ба зерин дастрасӣ пайдо мекунад:
 webext-perms-update-accept =
     .label = Навсозӣ кардан
     .accesskey = U
@@ -72,24 +64,8 @@ webext-perms-host-description-all-urls = Пайдо кардани дастра�
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Пайдо кардани дастрасӣ ба маълумоти худ барои сомонаҳо дар домени { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Дастрас кардани маълумоти шумо дар { $domainCount } домени дигар
-       *[other] Дастрас кардани маълумоти шумо дар { $domainCount } домени дигар
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Дастрас кардани маълумоти шумо барои { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Дастрас кардани маълумоти шумо дар { $domainCount } сомонаи дигар
-       *[other] Дастрас кардани маълумоти шумо дар { $domainCount } сомонаи дигар
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

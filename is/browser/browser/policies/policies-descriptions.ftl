@@ -41,7 +41,6 @@ policy-DisableDefaultBrowserAgent = Koma í veg fyrir að sjálfgefið vafrakenn
 policy-DisableDeveloperTools = Loka aðgangi að þróunartólum.
 policy-DisableEncryptedClientHello = Gerðu óvirka notkun TLS-eiginleikans Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Slökkva á "Senda viðbrögð" og "Tilkynna svindlsvæði" í hjálparvalmyndinni.
-policy-DisableFirefoxAccounts = Slökkva á { -fxaccount-brand-name } tengdri þjónustu, m.a. Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Slökkva á reikningstengdum þjónustum, þar með talið samstillingu.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -51,7 +50,6 @@ policy-DisableForgetButton = Koma í veg fyrir aðgang að Gleyma-hnappnum.
 policy-DisableFormHistory = Ekki muna leitar- og innfyllingarferil.
 policy-DisablePrimaryPasswordCreation = Ef satt, er ekki hægt að búa til aðallykilorð.
 policy-DisablePasswordReveal = Ekki leyfa birtingu lykilorða í vistuðum innskráningum.
-policy-DisablePocket2 = Slökkva á valkostinum til að geyma vefsíður í { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Gera huliðsvafur óvirkt.
 policy-DisableProfileImport = Slökkva á valmyndinni til að flytja inn gögn úr öðrum vafra.
 policy-DisableProfileRefresh = Slökkva á Endurhlaða { -brand-short-name } takkanum á about:support siðunni.
@@ -117,7 +115,6 @@ policy-PostQuantumKeyAgreementEnabled = Virkja samþykki fyrir skammtatölvulykl
 policy-PDFjs = Stilla eða gera PDF.js óvirkt, innbyggða PDF-lesarann í { -brand-short-name }.
 policy-Permissions2 = Stilla heimildir fyrir myndavél, hljóðnema, staðsetningu, tilkynningar og sjálfvirka afspilun.
 policy-PictureInPicture = Virkja eða slökkva á mynd-í-mynd.
-policy-PopupBlocking = Leyfa tilteknum vefsvæðum að birta sprettglugga sjálfgefið.
 policy-Preferences = Stilltu og læstu gildið fyrir undirhóp af stillingum.
 policy-PrivateBrowsingModeAvailability = Stilltu framboð á huliðsvafurham.
 policy-PromptForDownloadLocation = Spyrðja hvar eigi að vista skrár frá niðurhali.

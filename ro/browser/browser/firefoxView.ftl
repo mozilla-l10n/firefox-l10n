@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Vezi navigarea recentă de pe toate ferestrele și dispozitivele
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Închide
-    .aria-label = Închide
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Adineauri
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Recuperare file
-firefoxview-tabpickup-description = Deschide pagini de pe alte dispozitive.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% finalizat
-firefoxview-tabpickup-step-signin-header = Treci fără întreruperi de la un dispozitiv la altul
-firefoxview-tabpickup-step-signin-description = Ca să preiei filele de pe telefon, intră în cont sau creează-ți un cont.
-firefoxview-tabpickup-step-signin-primarybutton = Continuă
 firefoxview-syncedtabs-signin-header-2 = Al tău { -brand-product-name } pe toate dispozitivele
 firefoxview-syncedtabs-signin-description-2 = Ca să vezi filele deschise pe telefon și pe alte dispozitive, intră în cont sau fă-ți un cont. Cu un cont, poți sincroniza și parolele, istoricul și multe altele.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = De pe laptop pe telefon, fără probleme
 firefoxview-syncedtabs-signin-description-3 = Păstrează-ți navigarea conectată pe dispozitive — file, parole și istoric, toate sincronizate.
 firefoxview-syncedtabs-signin-primarybutton-2 = Intră în cont
-firefoxview-tabpickup-adddevice-header = Sincronizează { -brand-product-name } pe telefon sau tabletă
-firefoxview-tabpickup-adddevice-description = Descarcă { -brand-product-name } pe mobil și intră în cont.
-firefoxview-tabpickup-adddevice-learn-how = Află cum
-firefoxview-tabpickup-adddevice-primarybutton = Obține { -brand-product-name } pentru mobil
 firefoxview-syncedtabs-adddevice-header-2 = Preia file de oriunde
 firefoxview-syncedtabs-adddevice-description-2 = Intră în contul tău { -brand-product-name } pe telefon sau alt calculator ca să vezi filele aici. Află cum să <a data-l10n-name="url">conectezi alte dispozitive</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Încearcă { -brand-product-name } pe mobil
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Te cheamă filele. Sunt pe telefon.
 firefoxview-syncedtabs-adddevice-description-3 = Scanează codul QR ca să obții { -brand-product-name } pentru dispozitive mobile și începe sincronizarea filelor deschise și a multor alte elemente. Află cum să <a data-l10n-name="url">conectezi dispozitive suplimentare</a>.
-firefoxview-tabpickup-synctabs-header = Pornește sincronizarea filelor
-firefoxview-tabpickup-synctabs-description = Permite { -brand-short-name } să partajeze file între dispozitive.
-firefoxview-tabpickup-synctabs-learn-how = Află cum
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizează filele deschise
 firefoxview-tabpickup-synctabs-primarybutton-2 = Pornește sincronizarea filelor
 firefoxview-syncedtabs-synctabs-header = Actualizează setările sincronizate
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Când este gata, vei vedea orice fi
 firefoxview-syncedtabs-loading-header-2 = Se preiau filele…
 firefoxview-syncedtabs-loading-description-2 = Sincronizare în curs. Vei regăsi filele aici în curând.
 firefoxview-tabpickup-fxa-admin-disabled-header = Organizația ta a dezactivat sincronizarea
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nu a putut sincroniza filele între dispozitive, deoarece administratorul tău a dezactivat sincronizarea.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } nu a putut sincroniza filele între dispozitive, deoarece organizația ta a dezactivat sincronizarea.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Sincronizarea filelor este dezactivată
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Organizația ta ți-a blocat această funcționalitate.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Deblochează filele cu parola primară
 firefoxview-tabpickup-password-locked-description-2 = Pentru confidențialitatea ta, filele sincronizate sunt protejate. Introdu parola primară { -brand-short-name } ca să vezi filele de pe celelalte dispozitive ale tale.
 firefoxview-tabpickup-signed-out-header = Intră în cont pentru reconectare
-firefoxview-tabpickup-signed-out-description = Pentru reconectare și preluarea filelor, intră în contul tău { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Pentru reconectare și preluarea filelor, intră în contul tău.
 firefoxview-tabpickup-signed-out-primarybutton = Intră în cont
 firefoxview-tabpickup-signed-out-header-2 = Intră în cont ca să îți vezi filele
 firefoxview-tabpickup-signed-out-description-2 = Reconectează-te ca să vezi filele de pe celelalte dispozitive.
-firefoxview-tabpickup-syncing = Ai răbdare până sincronizăm filele. Nu va dura mult.
-firefoxview-mobile-promo-header = Preia filele de pe telefon sau tabletă.
-firefoxview-mobile-promo-description = Pentru a-ți vedea filele recente de pe mobil, intră în contul tău { -brand-product-name } pe iOS sau Android
-firefoxview-mobile-promo-primarybutton = Obține { -brand-product-name } pentru mobil
-firefoxview-mobile-confirmation-header = 🎉Gata de acțiune!
-firefoxview-mobile-confirmation-description = Acum îți poți prelua filele { -brand-product-name } de pe telefon sau tabletă.
-firefoxview-closed-tabs-title = Închise recent
-firefoxview-closed-tabs-description2 = Redeschide paginile închise din această fereastră.
-firefoxview-closed-tabs-placeholder-header = Nicio filă închisă recent
-firefoxview-closed-tabs-placeholder-body = Când închizi o filă din această fereastră, o poți prelua de aici.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Respinge { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Ultima activă
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Deschide { $targetURI } într-o filă nouă
-firefoxview-try-colorways-button = Încearcă paletele de culori
-firefoxview-change-colorway-button = Schimbă paleta de culori
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Nimic de văzut deocamdată
-firefoxview-synced-tabs-placeholder-body = Data viitoare când vei deschide o pagină cu { -brand-product-name } pe un alt dispozitiv, o poți prelua de aici ca prin magie.
 firefoxview-collapse-button-show =
     .title = Afișează lista
 firefoxview-collapse-button-hide =

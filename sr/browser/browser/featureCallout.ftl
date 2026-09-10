@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = Жонглирајте између ур
 callout-firefox-view-tab-pickup-subtitle = Језичци отворени на мобилном могу се овде прегледати и слободно се пребацивати.
 callout-firefox-view-recently-closed-title = Брзо вратите затворене језичке
 callout-firefox-view-recently-closed-subtitle = Ваши затворени језичци ће се магично појавити овде. Више не морате да бринете да ћете грешком затворити језичке.
-callout-firefox-view-colorways-title = Додајте мало боје
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Изаберите нијансу која вам се свиђа уз комбинације боја. Само у { -brand-product-name }.
-callout-firefox-view-colorways-reminder-title = Истражите најновије комбинације боја
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Обојите прегледач нијансама инспирисаним независним гласовима. Доступно само на { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

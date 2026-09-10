@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Eng Säit zréckgoen ({ $shortcut })
     .aria-label = Zréck
+    .tooltiptext = Eng Säit zréckgoen ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Eng Säit no vir goen ({ $shortcut })
     .aria-label = Virun
+    .tooltiptext = Eng Säit no vir goen ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -110,9 +110,6 @@ main-context-menu-image-reload =
 main-context-menu-image-info =
     .label = Informatioune vum Bild weisen
     .accesskey = f
-main-context-menu-send-to-device =
-    .label = Säit op en Apparat schécken
-    .accesskey = n
 
 ##
 

@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } ће се отворити са вашим последње коришћеним профилом.
 profile-window-create-profile = Направи профил
 profile-card-edit-button =
-    .title = Уреди профил
     .aria-label = Уреди профил
+    .title = Уреди профил
 profile-card-delete-button =
-    .title = Обриши профил
     .aria-label = Обриши профил
+    .title = Обриши профил
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Отвори { $profileName }
     .aria-label = Отвори { $profileName }
+    .title = Отвори { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Профил { $number }
@@ -81,9 +81,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Обриши { $profilename } профил
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = Обрисати { $profilename } профил?
 delete-profile-description = { -brand-short-name } ће трајно обрисати следеће податке са овог уређаја:
 # Open is an adjective, as in "browser windows currently open".
@@ -110,28 +107,10 @@ delete-profile-confirm = Обриши
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Светла
-# The default dark theme
-profiles-dark-theme = Тамна
 # The default system theme
 profiles-system-theme = Системска
 profiles-system-theme-title =
     .title = Примени системску тему
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = Невен жута
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = Бледа лаванда
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = Мента зелена
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = Магнолија розе
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = Океан плава
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = Цигла црвена
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = Маховина зелена
 profiles-gray-theme = Сива
 profiles-gray-theme-title =
     .title = Примени сиву тему
@@ -288,9 +267,6 @@ profiles-appmenu-callout-tour-subtitle = У ☰ менију, додирните
 profiles-appmenu-callout-tour-primary-button = Покажи ми како
 barbell-avatar = Тег
 bike-avatar = Бицикл
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Примени аватар са тегом
 bike-avatar-tooltip =

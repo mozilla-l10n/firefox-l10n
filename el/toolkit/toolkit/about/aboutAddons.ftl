@@ -155,15 +155,10 @@ addon-sitepermission-host = Άδειες ιστοτόπου για το { $host 
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Όλα τα πρόσθετα έχουν απενεργοποιηθεί στην ασφαλή λειτουργία.
-extensions-warning-check-compatibility = Ο έλεγχος συμβατότητας προσθέτων είναι ανενεργός. Μπορεί να έχετε ασύμβατα πρόσθετα.
-extensions-warning-safe-mode2 =
-    .message = Όλα τα πρόσθετα έχουν απενεργοποιηθεί στην ασφαλή λειτουργία.
 extensions-warning-check-compatibility2 =
     .message = Ο έλεγχος συμβατότητας προσθέτων είναι ανενεργός. Μπορεί να έχετε ασύμβατα πρόσθετα.
 extensions-warning-check-compatibility-button = Ενεργοποίηση
     .title = Ενεργοποίηση ελέγχου συμβατότητας προσθέτων
-extensions-warning-update-security = Ο έλεγχος ασφαλείας ενημερώσεων  προσθέτων είναι ανενεργός. Μπορεί να κινδυνέψετε.
 extensions-warning-update-security2 =
     .message = Ο έλεγχος ασφαλείας ενημερώσεων  προσθέτων είναι ανενεργός. Μπορεί να κινδυνέψετε.
 extensions-warning-update-security-button = Ενεργοποίηση
@@ -239,10 +234,6 @@ shortcuts-duplicate = Διπλή συντόμευση
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = Το { $shortcut } χρησιμοποιείται ως συντόμευση σε περισσότερες από μία περιπτώσεις. Οι διπλές συντομεύσεις ίσως προκαλέσουν απροσδόκητη συμπεριφορά.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = Το { $shortcut } χρησιμοποιείται ως συντόμευση σε περισσότερες από μία περιπτώσεις. Οι διπλές συντομεύσεις ίσως προκαλέσουν απροσδόκητη συμπεριφορά.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -262,17 +253,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Οι επεκτάσεις και τα θέματα αποτελούν μικρές εφαρμογές για το πρόγραμμα περιήγησής σας και μπορούν να
-    χρησιμοποιηθούν για την προστασία των κωδικών πρόσβασής σας, τη λήψη βίντεο, την εύρεση προσφορών,
-    τη φραγή διαφημίσεων, την αλλαγή της εμφάνισης του προγράμματος περιήγησής σας και πολλά άλλα. Οι
-    μικρές αυτές εφαρμογές αυτές αναπτύσσονται συνήθως από τρίτους. Δείτε μια <a data-l10n-name="learn-more-trigger">προτεινόμενη</a> συλλογή από το { -brand-product-name } για εξαιρετική ασφάλεια, επιδόσεις και λειτουργικότητα.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    Μερικές από αυτές τις προτάσεις είναι εξατομικευμένες. Βασίζονται σε άλλες
-    επεκτάσεις που έχετε εγκαταστήσει, σε προτιμήσεις προφίλ και σε στατιστικά χρήσης.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -364,16 +344,9 @@ addon-detail-last-updated-label = Τελευταία ενημέρωση
 addon-detail-homepage-label = Αρχική σελίδα
 addon-detail-rating-label = Βαθμολογία
 # Message for add-ons with a staged pending update.
-install-postponed-message = Αυτή η επέκταση θα ενημερωθεί όταν επανεκκινηθεί το { -brand-short-name }.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Αυτή η επέκταση θα ενημερωθεί όταν επανεκκινηθεί το { -brand-short-name }.
 install-postponed-button = Ενημέρωση τώρα
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Με βαθμό { NUMBER($rating, maximumFractionDigits: 1) } από 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -389,9 +362,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = Το <span data-l10n-name="addon-name">{ $addon }</span> έχει αφαιρεθεί.
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -410,11 +380,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Επιτρέπεται σε ιδιωτικά παράθυρα
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Επιτρέπεται σε ιδιωτικά παράθυρα
 addon-detail-private-browsing-help = Όταν επιτρέπεται, η επέκταση θα έχει πρόσβαση στις δραστηριότητές σας στο διαδίκτυο κατά την ιδιωτική περιήγηση. <a data-l10n-name="learn-more">Μάθετε περισσότερα</a>
 addon-detail-private-browsing-allow = Αποδοχή
@@ -441,17 +406,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = Το { -brand-product-name } προτείνει μόνο επεκτάσεις που πληρούν τα πρότυπα ασφαλείας και επιδόσεών μας
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Επίσημη επέκταση από τη Mozilla. Πληροί τα πρότυπα ασφαλείας και επιδόσεων
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Αυτή η επέκταση έχει ελεγχθεί και πληροί τα πρότυπα ασφαλείας και επιδόσεών μας
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -481,9 +435,6 @@ addon-permissions-heading = Δικαιώματα
 addon-permissions-empty2 = Αυτή η επέκταση δεν απαιτεί κανένα δικαίωμα.
 addon-permissions-required-label = Απαιτούμενα:
 addon-permissions-optional-label = Προαιρετικά:
-addon-permissions-empty = Αυτή η επέκταση δεν απαιτεί δικαιώματα
-addon-permissions-required = Απαιτούμενα δικαιώματα για βασική λειτουργικότητα:
-addon-permissions-optional = Προαιρετικά δικαιώματα για επιπρόσθετη λειτουργικότητα:
 addon-permissions-learnmore = Μάθετε περισσότερα σχετικά με τα δικαιώματα
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -524,25 +475,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = Το { $name } είναι ασύμβατο με τον { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = Το { $name } είναι ασύμβατο με τον { -brand-short-name } { $version }.
-details-notification-incompatible-link = Περισσότερες πληροφορίες
-details-notification-unsigned-and-disabled = Δεν ήταν δυνατή η επαλήθευση του { $name } για χρήση στο { -brand-short-name }, οπότε απενεργοποιήθηκε.
 details-notification-unsigned-and-disabled2 =
     .message = Δεν ήταν δυνατή η επαλήθευση του { $name } για χρήση στο { -brand-short-name }, οπότε απενεργοποιήθηκε.
-details-notification-unsigned-and-disabled-link = Περισσότερες πληροφορίες
-details-notification-unsigned = Δεν ήταν δυνατή η επαλήθευση του { $name } για χρήση στο { -brand-short-name }. Συνεχίστε με προσοχή.
 details-notification-unsigned2 =
     .message = Δεν ήταν δυνατή η επαλήθευση του { $name } για χρήση στο { -brand-short-name }. Συνεχίστε με προσοχή.
 details-notification-hard-blocked-extension =
     .message = Αυτή η επέκταση έχει αποκλειστεί επειδή παραβιάζει τις πολιτικές της Mozilla και έχει απενεργοποιηθεί.
 details-notification-hard-blocked-other =
     .message = Αυτό το πρόσθετο έχει αποκλειστεί επειδή παραβιάζει τις πολιτικές της Mozilla και έχει απενεργοποιηθεί.
-details-notification-unsigned-link = Περισσότερες πληροφορίες
-details-notification-blocked = Το { $name } έχει απενεργοποιηθεί για λόγους ασφαλείας ή σταθερότητας.
 details-notification-blocked-link2 = Προβολή λεπτομερειών
 details-notification-soft-blocked-extension-disabled2 =
     .message = Αυτή η επέκταση είναι περιορισμένη και έχει απενεργοποιηθεί. Μπορείτε να την ενεργοποιήσετε, αλλά αυτό ενδέχεται να είναι επικίνδυνο.
@@ -552,19 +494,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = Αυτό το πρόσθετο είναι περιορισμένο και έχει απενεργοποιηθεί. Μπορείτε να το ενεργοποιήσετε, αλλά αυτό ενδέχεται να είναι επικίνδυνο.
 details-notification-soft-blocked-other-enabled2 =
     .message = Αυτό το πρόσθετο είναι περιορισμένο. Η χρήση του ενδέχεται να είναι επικίνδυνη.
-details-notification-soft-blocked-extension-disabled =
-    .message = Αυτή η επέκταση περιορίζεται επειδή παραβιάζει τις πολιτικές της Mozilla και έχει απενεργοποιηθεί. Μπορείτε να το ενεργοποιήσετε, αλλά αυτό ενδέχεται να είναι επικίνδυνο.
-details-notification-soft-blocked-extension-enabled =
-    .message = Αυτή η επέκταση παραβιάζει τις πολιτικές της Mozilla. Η χρήση της ενδέχεται να είναι επικίνδυνη.
-details-notification-soft-blocked-other-disabled =
-    .message = Αυτό το πρόσθετο περιορίζεται επειδή παραβιάζει τις πολιτικές της Mozilla και έχει απενεργοποιηθεί. Μπορείτε να το ενεργοποιήσετε, αλλά αυτό ενδέχεται να είναι επικίνδυνο.
-details-notification-soft-blocked-other-enabled =
-    .message = Αυτό το πρόσθετο παραβιάζει τις πολιτικές της Mozilla. Η χρήση του ενδέχεται να είναι επικίνδυνη.
 details-notification-softblocked-link2 = Προβολή λεπτομερειών
-details-notification-blocked-link = Περισσότερες πληροφορίες
-details-notification-softblocked = Το { $name } είναι γνωστό ότι προκαλεί προβλήματα ασφαλείας ή σταθερότητας.
-details-notification-softblocked-link = Περισσότερες πληροφορίες
-details-notification-gmp-pending = Το πρόσθετο { $name } θα εγκατασταθεί σύντομα.
 details-notification-gmp-pending2 =
     .message = Το πρόσθετο { $name } θα εγκατασταθεί σύντομα.
 
@@ -580,8 +510,6 @@ plugins-widevine-description = Αυτό το άρθρωμα ενεργοποιε
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Συλλογή υποχρεωτικών δεδομένων:
-addon-permissions-optional-data-collection = Συλλογή προαιρετικών δεδομένων:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Δικαιώματα και δεδομένα
 # This is a description for extension that use this AI model

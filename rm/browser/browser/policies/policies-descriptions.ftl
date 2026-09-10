@@ -42,7 +42,6 @@ policy-DisableDefaultBrowserAgent = Impedir ch'il navigatur «default browser ag
 policy-DisableDeveloperTools = Bloccar l'access als utensils per sviluppaders.
 policy-DisableEncryptedClientHello = Deactivar l’utilisaziun da la funcziun TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Deactivar ils cumonds per trametter resuns en il menu d'agid (Trametter in resun e Rapportar ina pagina che engiona).
-policy-DisableFirefoxAccounts = Deactivar ils servetschs che sa basan sin { -fxaccount-brand-name }, inclus Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Deactivar servetschs che pretendan in conto, tranter auter la sincronisaziun.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -52,7 +51,6 @@ policy-DisableForgetButton = Impedir l'access al buttun «Emblidar».
 policy-DisableFormHistory = Betg memorisar las endataziuns en champs da tschertgar ed en formulars.
 policy-DisablePrimaryPasswordCreation = Sche activà, èsi impussibel da crear in pled-clav universal.
 policy-DisablePasswordReveal = Betg permetter da mussar pleds-clav en las infurmaziuns d'annunzia memorisadas.
-policy-DisablePocket2 = Deactivar la funcziun da memorisar paginas d'internet en { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Deactivar il modus privat.
 policy-DisableProfileImport = Deactivar il punct da menu per importar datas dad in auter navigatur.
 policy-DisableProfileRefresh = Deactivar il buttun da redefinir { -brand-short-name } sin la pagina about:support.
@@ -121,7 +119,6 @@ policy-PDFjs = Deactivar u configurar PDF.js, il lectur per PDFs integrà en { -
 policy-Permissions2 = Configurar permissiuns per camera, microfon, posiziun, notificaziuns e la reproducziun automatica.
 policy-PictureInPicture = Activar u deactivar maletg-en-maletg.
 policy-PopupBlocking2 = Permetter a tschertas websites da mussar pop-ups e da vegnir renviadas da frames da terzas partidas.
-policy-PopupBlocking = Permetter a tschertas websites da mussar popups sco standard.
 policy-Preferences = Definescha e fixescha la valur per ina subgruppa da preferenzas.
 policy-PrivateBrowsingModeAvailability = Definir la disponibladad dal modus privat.
 policy-PromptForDownloadLocation = Dumandar nua memorisar datotecas cun telechargiar.

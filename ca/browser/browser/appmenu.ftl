@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = Extensions i temes
 appmenuitem-extensions =
     .label = Extensions
-appmenuitem-addons-and-themes =
-    .label = Complements i temes
 appmenuitem-print =
     .label = Imprimeix…
 appmenuitem-find-in-page =
@@ -154,7 +152,6 @@ fxa-menu-get-firefox-mobile =
     .label = Instal·leu el { -brand-product-name } per a l'Android o l'iOS
 fxa-menu-secure-sync-subpanel =
     .title = Sincronització segura
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Compte
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -176,15 +173,6 @@ appmenuitem-save-page =
     .label = Anomena i desa la pàgina…
 appmenuitem-fxa-sync-off-title = La sincronització està desactivada
 appmenuitem-fxa-sync-off-description = Protegiu i accediu a les vostres adreces d'interès, contrasenyes i més des de qualsevol dispositiu.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Novetats
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Informa'm de les característiques noves
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -326,8 +314,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Més informació de resolució de problemes
     .accesskey = n
-appmenu-help-report-site-issue =
-    .label = Informa d'un problema amb el lloc…
 appmenu-help-share-ideas =
     .label = Comparteix idees i comentaris…
     .accesskey = s
@@ -393,7 +379,6 @@ appmenuitem-vpn-description5 = Obteniu una protecció addicional entre dispositi
 appmenuitem-vpn-title-signed-in1 = Baixa { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Obtén una protecció integral de tot el dispositiu
-appmenuitem-vpn-description = Protegiu la vostra activitat a la xarxa
 appmenu-services-header = Els meus serveis
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -403,7 +388,6 @@ appmenu-other-protection-header3 = Eines de privadesa
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Prova altres eines de protecció del Mozilla:
-appmenu-other-protection-header = Proveu altres eines de protecció de { -vendor-short-name }:
 
 ## Profiles panel
 

@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Nissun contignidôr
-    .accesskey = N
 user-context-manage-containers =
     .label = Gjestìs contignidôrs
     .accesskey = G

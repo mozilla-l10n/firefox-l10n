@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = සුරැකි ලිපින
 autofill-manage-addresses-list-header = ලිපින
-autofill-manage-credit-cards-title = සුරැකි ණය පත්
-autofill-manage-credit-cards-list-header = ණය පත්
 autofill-manage-payment-methods-title = සුරැකි ගෙවීම් ක්‍රම
 autofill-manage-cards-list-header = පත්
 autofill-manage-dialog =
@@ -38,9 +36,6 @@ address-capture-update-button =
 autofill-add-address-title = ලිපිනය යොදන්න
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = ලිපිනය සංස්කරණය
-autofill-address-given-name = මුල් නම
-autofill-address-additional-name = මැද නම
-autofill-address-family-name = අග නම
 autofill-address-organization = සංවිධානය
 autofill-address-street = වීදියේ ලිපිනය
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
@@ -86,26 +81,12 @@ autofill-address-eircode = Eirකේතය
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = නව ලිපිනයක් යොදන්න
 autofill-address-country = රට හෝ කලාපය
 autofill-address-tel = දුරකථනය
 autofill-address-email = වි-තැපෑල
 autofill-cancel-button = අවලංගු කරන්න
 autofill-save-button = සුරකින්න
 autofill-country-warning-message = ආකෘති ස්වයං පිරවුම දැනට තිබෙන්නේ ඇතැම් රටවල් සඳහා පමණයි.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = නව ණය පතක් යොදන්න
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = ණයපත සංශෝධනය
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] ණය පතෙහි තොරතුරු පෙන්වන්න
-        [windows] { -brand-short-name } ගබඩා කළ ණයපත් තොරතුරු පෙන්වීමට උත්සාහ කරයි. මෙම වින්ඩෝස් ගිණුමට ප්‍රවේශය පහතින් තහවුරු කරන්න.
-       *[other] { -brand-short-name } ණය පතෙහි තොරතුරු පෙන්වීමට උත්සාහ කරයි.
-    }
 autofill-message-tooltip = ස්වයං පිරවීම පිළිබඳ පණිවිඩය බලන්න
 autofill-card-number-2 =
     .label = ණයපත් අංකය
@@ -120,15 +101,3 @@ autofill-card-expires-month = කල් ඉකු. මාසය
 autofill-card-expires-year = කල් ඉකු. වසර
 autofill-card-billing-address = ලදුපත් ලිපිනය
 autofill-card-network = පතෙහි වර්ගය
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = ඇමරිකන් එක්ස්ප්‍රස්
-autofill-card-network-cartebancaire = කාර්ටේ බැංකෙයර්
-autofill-card-network-diners = ඩයිනර්ස් ක්ලබ්
-autofill-card-network-discover = ඩිස්කවර්
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = මාස්ටර් කාඩ්
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = යුනියන් පේ
-autofill-card-network-visa = වීසා

@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Ouvrir une fenêtre de navigation privée
     .accesskey = u
 about-private-browsing-search-placeholder = Rechercher sur le Web
-about-private-browsing-info-title = Cette fenêtre de navigation est privée
 about-private-browsing-search-btn =
     .title = Rechercher sur le Web
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Rechercher avec { $engine } ou saisir une adresse
 about-private-browsing-handoff-text-no-engine = Rechercher ou saisir une adresse
 about-private-browsing-not-private = Vous ne vous trouvez pas dans une fenêtre de navigation privée.
-about-private-browsing-info-description-private-window = Fenêtre de navigation privée : { -brand-short-name } efface l’historique de vos recherches et de votre navigation à la fermeture des fenêtres privées. Cela ne vous rend pas anonyme.
-about-private-browsing-info-description-simplified = { -brand-short-name } efface l’historique de vos recherches et de votre navigation à la fermeture des fenêtres privées, mais cela ne vous rend pas pour autant anonyme.
-about-private-browsing-learn-more-link = En savoir plus
 about-private-browsing-hide-activity = Cachez vos activités et votre emplacement, partout où vous mène votre navigation
 about-private-browsing-get-privacy = Protégez votre vie privée partout où vous naviguez
 about-private-browsing-hide-activity-1 = Masquez votre navigation et votre emplacement avec { -mozilla-vpn-brand-name }. D’un simple clic, créez une connexion sécurisée, même sur un réseau Wi-Fi public.
@@ -29,8 +25,6 @@ about-private-browsing-prominent-cta = Gardez votre vie privée avec { -mozilla-
 about-private-browsing-focus-promo-cta = Télécharger { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name } : navigation privée mobile
 about-private-browsing-focus-promo-text = Notre application mobile dédiée à la navigation privée efface votre historique et vos cookies après chaque utilisation.
-about-private-browsing-focus-promo-header-b = Profitez de la navigation privée sur votre téléphone
-about-private-browsing-focus-promo-text-b = Utilisez { -focus-brand-name } pour des recherches privées que vous voulez cacher à votre navigateur mobile habituel.
 about-private-browsing-focus-promo-header-c = Confidentialité de haut niveau sur mobile
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } efface systématiquement votre historique et bloque aussi publicités et traqueurs.
 # This string is the title for the banner for search engine selection
@@ -66,11 +60,6 @@ about-private-browsing-relay-promo-link-text = Essayer les alias de messagerie
 
 ## Strings used in a promotion message for cookie banner reduction
 
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = Fini les bannières de cookies !
-about-private-browsing-cookie-banners-promo-button = Réduire les bannières de cookies
-about-private-browsing-cookie-banners-promo-message = Laisser { -brand-short-name } répondre automatiquement aux popups de cookies pour une navigation sans distraction. { -brand-short-name } rejettera toutes les demandes si possible.
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } s’occupe pour vous des demandes de cookies.

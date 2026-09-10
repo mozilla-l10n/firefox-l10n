@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Alamat Tersimpan
 autofill-manage-addresses-list-header = Alamat
-autofill-manage-credit-cards-title = Kartu Kredit Tersimpan
-autofill-manage-credit-cards-list-header = Kartu Kredit
 autofill-manage-payment-methods-title = Metode pembayaran tersimpan
 autofill-manage-cards-list-header = Kartu
 autofill-manage-dialog =
@@ -45,15 +43,10 @@ address-capture-open-menu-button =
     .aria-label = Buka menu
 address-capture-edit-address-link = Edit alamat
     .aria-label = Edit alamat
-address-capture-edit-address-button =
-    .aria-label = Edit alamat
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Tambahkan alamat
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Edit Alamat
-autofill-address-given-name = Nama Depan
-autofill-address-additional-name = Nama Tengah
-autofill-address-family-name = Nama Belakang
 autofill-address-name = Nama
 autofill-address-organization = Organisasi
 autofill-address-street-address = Jalan
@@ -101,8 +94,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Tambahkan Alamat Baru
 autofill-address-country = Negara atau Wilayah
 autofill-address-country-only = Negara
 autofill-address-tel = Telepon
@@ -110,18 +101,6 @@ autofill-address-email = Email
 autofill-cancel-button = Batalkan
 autofill-save-button = Simpan
 autofill-country-warning-message = Saat ini fitur IsiOtomatis Formulir hanya tersedia untuk negara tertentu.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Tambahkan Kartu Kredit Baru
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Edit Kartu Kredit
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] menampilkan informasi kartu kredit.
-        [windows] { -brand-short-name } berusaha menampilkan informasi kartu kredit. Konfirmasikan akses ke akun Windows di bawah ini.
-       *[other] { -brand-short-name } berusaha menampilkan informasi kartu kredit.
-    }
 autofill-message-tooltip = Lihat pesan tentang isi otomatis
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Tambah kartu
@@ -146,15 +125,3 @@ autofill-card-network = Jenis Kartu
 # methods section. Localizers should choose terms that make sense for payment
 # methods in their region.
 autofill-card-search-term-credit-cards = kartu kredit, kredit, kartu, kartu debit, debit, dompet, checkout
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

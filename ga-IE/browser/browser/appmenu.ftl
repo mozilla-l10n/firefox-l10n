@@ -80,20 +80,10 @@ appmenu-remote-tabs-welcome = Amharc ar liosta cluaisíní ó do ghléasanna eil
 appmenu-remote-tabs-unverified = Ní mór duit do chuntas a dheimhniú.
 appmenuitem-fxa-sign-in = Logáil isteach i { -brand-product-name }
 appmenuitem-fxa-manage-account = Bainistigh an cuntas
-appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-account-header = Cuntas
 appmenu-fxa-setup-sync-new = Cas air
 appmenuitem-save-page =
     .label = Sábháil an Leathanach Mar…
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Gnéithe Nua
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Cuir ar an eolas mé faoi ghnéithe nua
-    .accesskey = g
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -163,8 +153,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Faigh cabhair
     .accesskey = h
-appmenu-help-report-site-issue =
-    .label = Tuairiscigh Fadhb le Suíomh…
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

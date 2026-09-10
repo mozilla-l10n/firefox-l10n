@@ -2,48 +2,24 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Kuzatishlarini xohlamasangiz, saytlarga "Kuzatilmasin" signalini yuboring
-do-not-track-learn-more = Batafsil ma’lumot
-do-not-track-option-default-content-blocking-known =
-    .label = { -brand-short-name } maʼlum kuzatuvchilarni bloklash uchun sozlanganda
-do-not-track-option-always =
-    .label = Doimo
 managed-notice = Brauzeringiz tashkilotingiz tomonidan boshqariladi.
 managed-notice-nav =
     .label = Brauzeringiz tashkilotingiz tomonidan boshqariladi.
 pane-general-title = Umumiy
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = Bosh sahifa
 pane-search-title2 = Izlash
     .title = Izlash
 pane-privacy-title3 = Maxfiylik va xavfsizlik
     .title = Maxfiylik va xavfsizlik
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = Izlash
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = Maxfiylik va xavfsizlik
-pane-privacy-title = Maxfiylik va xavfsizlik
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Sinxronizatsiya
-category-sync3 =
-    .tooltiptext = { pane-sync-title3 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-pane-experimental-search-results-header = { -brand-short-name } Tajriba: Ehtiyotkorlik bilan foydalaning
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label2 = { -brand-short-name } yordami
     .title = { -brand-short-name } yordami
 addons-button-label2 = Kengaytmalar va mavzular
     .title = Kengaytmalar va mavzular
-help-button-label = { -brand-short-name } yordami
-addons-button-label = Kengaytmalar va mavzular
 focus-search =
     .key = f
 close-button =
@@ -65,50 +41,29 @@ search-results-help-link = Yordam kerakmi? <a data-l10n-name="url">{ -brand-shor
 
 ## General Section
 
-startup-header = Ishga tushirish
 always-check-default =
     .label = Agar { -brand-short-name } standart brauzeringiz bo‘lsa, doimo tekshirilsin
     .accesskey = t
-is-default = { -brand-short-name } - hozircha standart brauzeringiz
-is-not-default = { -brand-short-name } - standart brauzeringiz emas
-set-as-my-default-browser =
-    .label = Asosiy sifatida o‘rnatish
-    .accesskey = A
 startup-restore-windows-and-tabs =
     .label = Oldingi oyna va varaqlarni ochish
     .accesskey = O
-startup-restore-warn-on-quit =
-    .label = Brauzerdan chiqishda sizni ogohlantiradi
 disable-extension =
     .label = Kengaytmani oʻchirib qoʻyish
 tabs-group-header2 =
     .label = Varaqlar
-tabs-group-header = Varaqlar
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab yordamida varaqlarga soʻnggi foydalanish tartibida oʻtish mumkin
     .accesskey = T
 open-new-link-as-tabs =
     .label = Havolalarni yangi oynalarning varaqlarida ochish
     .accesskey = w
-confirm-on-close-multiple-tabs =
-    .label = Bir nechta varaqlarni yopishdan oldin tasdiqlash
-    .accesskey = B
 warn-on-open-many-tabs =
     .label = { -brand-short-name }ni sekinlashtirishi mumkin bo‘lgan bir necha varaqlar ochilayotganda ogohlantirilsin
     .accesskey = o
-switch-to-new-tabs =
-    .label = Ochilgan havola, rasm yoki mediaga oʻtish
-    .accesskey = O
 show-tabs-in-taskbar =
     .label = Varaqlarning umumiy koʻrinishini vazifalar panelida koʻrsatish
     .accesskey = v
-browser-containers-enabled =
-    .label = Konteyner varaqlarini yoqib qoʻyish
-    .accesskey = y
 browser-containers-learn-more = Batafsil ma’lumot
-browser-containers-settings =
-    .label = Sozlamalar
-    .accesskey = s
 containers-disable-alert-title = Barcha Container oynalari yopilsinmi?
 startup-group =
     .label = Ishga tushirish
@@ -144,19 +99,8 @@ containers-remove-cancel-button = Bu konteyner olib tahlanmasin
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Til va interfeys
-default-font = Standart shrift
-    .accesskey = S
-default-font-size = Hajmi
-    .accesskey = H
-advanced-fonts =
-    .label = Qo‘shimcha…
-    .accesskey = Q
 preferences-default-zoom-label =
     .label = Standart masshtab
-    .accesskey = S
-# Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = Masshtab
-preferences-default-zoom = Standart masshtab
     .accesskey = S
 # Variables:
 #   $percentage (number) - Zoom percentage value
@@ -176,12 +120,6 @@ manage-browser-languages-button =
     .accesskey = l
 browser-language-install-error =
     .message = { -brand-short-name } tillarni hozir yangilay olmaydi. Internetga ulanishni tekshiring va qaytadan urining.
-translate-web-pages =
-    .label = Veb saytni tarjima qilish
-    .accesskey = t
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = Tarjimon: <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Istisnolar...
     .accesskey = s
@@ -196,23 +134,6 @@ download-save-files-header =
     .label = Fayllarni saqlash manzili:
 download-save-where-3 =
     .aria-label = Fayllarni saqlash manzili:
-download-header = Yuklab olishlar
-download-save-where = Fayllarni saqlash manzili:
-    .accesskey = s
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Tanlash
-           *[other] Ko‘rish…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] T
-           *[other] K
-        }
-download-always-ask-where =
-    .label = Fayllarni qayerga saqlash doimo mendan so‘ralsin
-    .accesskey = d
 applications-header = Ilova dasturlar
 applications-filter =
     .placeholder = Fayl turlari yoki ilova dasturlarni tanlang
@@ -252,17 +173,11 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = { $plugin-name }`dan foydalanish ({ -brand-short-name }da)
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -278,35 +193,16 @@ applications-use-other-label =
 
 drm-group =
     .label = Raqamli huquqlar boshqaruvi (DRM) kontenti
-drm-content-header = Raqamli huquqlar boshqaruvi (DRM) kontenti
 play-drm-content =
     .label = DRM boshqaruvdagi kontentni ishga tushirish
     .accesskey = D
 play-drm-content-learn-more = Batafsil ma’lumot
-update-application-title = { -brand-short-name } yangilanishlari
-update-application-description = { -brand-short-name } tez, barqaror va xavfsiz bo‘lishi uchun muntazam yangilab turing.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versiyasi{ $version } <a data-l10n-name="learn-more">Yangi xususiyatlar</a>
 update-history-2 =
     .label = Yangilash tarixini koʻrsatish
     .accesskey = n
-update-history =
-    .label = Yangilash tarixini koʻrsatish…
-    .accesskey = n
-update-application-allow-description = { -brand-short-name }
-update-application-auto =
-    .label = Yangilanishlarni avtomatik o‘rnatish (tavsiya etiladi)
-    .accesskey = A
-update-application-check-choose =
-    .label = Yangilanishlar uchun tekshirsin, ammo foydalanuvchining o‘zi tanlab oʻrnatsin
-    .accesskey = t
-update-application-manual =
-    .label = Yangilanishlar uchun hech qachon tekshirmasin (tavsiya qilinmaydi)
-    .accesskey = h
-update-application-use-service =
-    .label = Yangilanishlarni oʻrnatish uchun orqa fon xizmatidan foydalanish
-    .accesskey = o
 update-in-progress-title = Yangilanmoqda
 update-in-progress-ok-button = &Rad etish
 # Continue is the cancel button so pressing escape or using a platform standard
@@ -315,11 +211,6 @@ update-in-progress-cancel-button = &Davom etish
 
 ## General Section - Performance
 
-performance-title = Samaradorlik
-performance-use-recommended-settings-checkbox =
-    .label = Tavsiya qilingan samaradorlik moslamalaridan foydalansin
-    .accesskey = f
-performance-use-recommended-settings-desc = Bu moslamalar kompyuteringizning qurilmasi va operatsion tizimiga moslanadi.
 performance-settings-learn-more = Batafsil ma’lumot
 performance-allow-hw-accel =
     .label = Uskuna aniqlanganda, tez chaqirishdan foydalanish
@@ -337,7 +228,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = Koʻrish
 browsing-use-autoscroll =
     .label = Avtosiljitishdan foydalanish
     .accesskey = A
@@ -353,22 +243,11 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Yozishni boshlaganimda, matn izlansin
     .accesskey = n
-browsing-picture-in-picture-learn-more = Batafsil
 browsing-cfr-recommendations =
     .label = Koʻrish vaqtida kengaytmalarni tavsiya qilish
     .accesskey = t
-browsing-cfr-recommendations-learn-more = Batafsil
 browsing-group =
     .label = Koʻrish
-
-## General Section - Proxy
-
-network-settings-title = Tarmoq sozlamalari
-network-proxy-connection-description = { -brand-short-name } brauzerni internetga ulanishini sozlash.
-network-proxy-connection-learn-more = Batafsil ma’lumot
-network-proxy-connection-settings =
-    .label = Sozlamalar…
-    .accesskey = e
 
 ## Home Section
 
@@ -415,8 +294,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = Internetdan qidirish
-home-prefs-recommended-by-header =
-    .label = { $provider } tomonidan tavsiya qilingan
 
 ##
 
@@ -429,14 +306,6 @@ home-prefs-highlights-options-bookmarks =
     .label = Xatcho‘plar
 home-prefs-highlights-option-most-recent-download =
     .label = Oxirgi yuklanmalar
-home-prefs-highlights-option-saved-to-pocket =
-    .label = { -pocket-brand-name }’ga saqlangan sahifalar
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = Parchalar
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -448,37 +317,11 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = Qidiruv paneli
-search-bar-hidden =
-    .label = Izlash va kuzatish uchun manzil panelidan foydalaning
-search-bar-shown =
-    .label = Asboblar paneliga qidiruv panelini qo‘shish
-search-engine-default-header = Standart qidiruv tizimi
-search-engine-default-desc-2 = Bu manzil va qidiruv panelida chiqadigan standart qidiruv tizimi. Xohlagan vaqtingizda uni oʻzgartirishingiz mumkin.
-search-engine-default-private-desc-2 = Faqat Maxfiy oyanalarda ishlatiladigan boshqa standart qidiruv tizimini tanlang
-search-separate-default-engine =
-    .label = Bu qidiruv tizimidan Maxfiy oyanalarda foydalanish
-    .accesskey = y
-search-suggestions-header = Qidiruv tavsiyalari
-search-suggestions-desc = Qidiruv tizimidan takliflar chiqadigan joydan takiflarni tanlang.
-search-suggestions-option =
-    .label = Izlash uchun tavsiya berish
-    .accesskey = t
 search-show-suggestions-url-bar-option =
     .label = Manzil panelida qidiruv tavsiyalari ko‘rsatilsin
     .accesskey = l
 search-suggestions-cant-show-2 =
     .message = Qidiruv tavsiyalari manzil qatorida ko‘rsatilmaydi, chunki { -brand-short-name } brauzerini tarixni eslab qolmaydigan qilib sozlagansiz.
-# This string describes what the user will observe when the system
-# prioritizes search suggestions over browsing history in the results
-# that extend down from the address bar. In the original English string,
-# "ahead" refers to location (appearing most proximate to), not time
-# (appearing before).
-search-show-suggestions-above-history-option =
-    .label = Manzil panelida brauzer tarixi bo‘yicha qidiruv tavsiyalari ko‘rsatilsin
-search-show-suggestions-private-windows =
-    .label = Qidiruv tavsiyalarini Maxfiy oynalarda koʻrsatish
-search-suggestions-cant-show = Qidiruv tavsiyalari manzil qatorida ko‘rsatilmaydi, chunki { -brand-short-name } brauzerini tarixni eslab qolmaydigan qilib sozlagansiz.
 search-one-click-desc = Izlanadigan so‘zlarni manzil va qidiruv paneliga kiritganingizda  uning ostida paydo bo‘ladigan muqobil qidiruv tizimlarini tanlang.
 search-choose-engine-column =
     .label = Qidiruv tizimlari
@@ -502,15 +345,6 @@ search-engine-group =
     .label = Standart qidiruv tizimi
 search-default-engine =
     .aria-label = Standart qidiruv tizimi
-
-## Containers Section
-
-containers-header = Konteynerdagi varaqlar
-containers-add-button =
-    .label = Yangi konteyner qo‘shish
-    .accesskey = q
-containers-remove-button =
-    .label = Olib tashlash
 
 ## Account and sync
 
@@ -537,8 +371,6 @@ sync-mobile-promo = Firefox brauzerini mobil qurilmangiz bilan sinxronlash uchun
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = Profil rasmini o‘zgartirish
 sync-profile-picture-with-alt =
     .alt = Profil rasmini o‘zgartirish
     .tooltiptext = Profil rasmini o‘zgartirish
@@ -563,9 +395,6 @@ sync-signedin-login-failure = Qayta ulanish uchun kiring { $email }
 
 ##
 
-sync-resend-verification =
-    .label = Tasdiqlashni qayta yuborish
-    .accesskey = y
 sync-remove-account =
     .label = Hisobni olib tashlash
     .accesskey = o
@@ -584,10 +413,6 @@ prefs-sync-turn-on-syncing-2 =
     .label = Sinxronizatsiyani yoqish
     .accesskey = S
 prefs-sync-offer-setup-label2 = Xatchoʻplar, tarix, varaqlar, parollar, qoʻshimcha dasturlar va boshqa sozlamalarni barcha qurilmalaringizga sinxronlang.
-prefs-sync-now =
-    .labelnotsyncing = Sinxronlash
-    .labelsyncing = Sinxronlanmoqda…
-    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = Sinxronlash
     .accesskey = N
@@ -605,24 +430,12 @@ prefs-syncing-button-2 =
 sync-currently-syncing-bookmarks = Xatchoʻplar
 sync-currently-syncing-history = Tarix
 sync-currently-syncing-tabs = Ochiq varaqlar
-sync-currently-syncing-logins-passwords = Login va parollar
 sync-currently-syncing-addresses = Manzillar
-sync-currently-syncing-creditcards = Kredit kartalari
 sync-currently-syncing-addons = Qoʻshimcha dasturlar
 sync-currently-syncing-settings = Sozlamalar
-sync-change-options =
-    .label = Oʻzgartirish…
-    .accesskey = O
 
 ## The "Choose what to sync" dialog.
 
-sync-choose-what-to-sync-dialog3 =
-    .buttonlabelaccept = Oʻzgarishlarni saqlash
-    .buttonlabelextra2 = Uzish…
-    .buttonaccesskeyaccept = S
-    .buttonaccesskeyextra2 = D
-    .style = min-width: 36em;
-    .title = Nimani sinxronlashni tanlang
 sync-engine-bookmarks =
     .label = Xatchoʻplar
     .accesskey = X
@@ -633,18 +446,10 @@ sync-engine-tabs =
     .label = Ochiq varaqlar
     .tooltiptext = Barcha sinxronlangan qurilmalardagi ochiq ichki oynalar ro‘yxati
     .accesskey = O
-sync-engine-logins-passwords =
-    .label = Login va parollar
-    .tooltiptext = Siz saqlagan foydalanuvchi nomi va parollar
-    .accesskey = L
 sync-engine-addresses =
     .label = Manzillar
     .tooltiptext = Siz saqlagtan manzillar (faqat kompyuterda)
     .accesskey = M
-sync-engine-creditcards =
-    .label = Kredit kartalar
-    .tooltiptext = Nomi, raqami va amal qilish muddati (faqat kompyuterda)
-    .accesskey = K
 sync-engine-addons =
     .label = Qoʻshimcha dasturlar
     .tooltiptext = Kompyuter uchun Firefox kengaytma va mavzulari
@@ -680,35 +485,15 @@ sync-connect-another-device = Boshqa qurilmani ulash
 sync-connect-another-device-2 =
     .label = Boshqa qurilmani ulash
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = Tasdiqlash jo‘natilgan
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = Tasdiqlash havolasi { $email } nomli e-pochtaga jo‘natildi
-sync-verification-not-sent-title = Tasdiqlash jo‘natilmadi
-sync-verification-not-sent-body = Ayni paytda tekshirish xatini yubora olmaymiz, keyinroq urinib ko‘ring.
-
 ## Privacy Section
 
 privacy-header = Brauzer maxfiyligi
-
-## Privacy Section - Logins and Passwords
-
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = Saytlar uchun taxallus va parollarni saqlash so‘ralsin
-    .accesskey = r
 
 ## Privacy Panel Settings
 
 forms-exceptions =
     .label = Istisnolar
     .accesskey = I
-forms-saved-logins =
-    .label = Saqlangan login ma’lumotlari…
-    .accesskey = l
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -719,32 +504,12 @@ forms-master-pw-fips-desc = Maxfiy soʻzni oʻzgartirib boʻlmadi
 
 ## Privacy Section - History
 
-history-header = Tarix
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name }
-    .accesskey = w
-history-remember-option-all =
-    .label = Tarix eslab qolinsin
-history-remember-option-never =
-    .label = Tarix hech qachon eslab qolinmasin
-history-remember-option-custom =
-    .label = Tarix uchun boshqa sozlamalardan foydalanish
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } kirilgan saytlar, yuklanmalar, anketalar va qidiruv tarixini eslab qoladi.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } xuddi shu moslamalardan shaxsiy ko‘rish sifatida foydalanadi va tarixni saqlab qolmaydi.
-history-remember-description = { -brand-short-name } kirilgan saytlar, yuklanmalar, anketalar va qidiruv tarixini eslab qoladi.
-history-dontremember-description = { -brand-short-name } xuddi shu moslamalardan shaxsiy ko‘rish sifatida foydalanadi va tarixni saqlab qolmaydi.
 history-private-browsing-permanent =
     .label = Doimo maxfiy ko‘rish usulidan foydalanish
     .accesskey = m
@@ -767,21 +532,12 @@ history-mode-radio-group =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Kuki va sayt ma’lumotlari
 sitedata-learn-more = Batafsil ma’lumot
-sitedata-clear =
-    .label = Ma’lumotlarni tozalash
-    .accesskey = l
-sitedata-settings =
-    .label = Ma’lumotlarni boshqarish
-    .accesskey = M
 cookies-site-data-group =
     .label = Kuki va sayt ma’lumotlari
 
 ## Search Section
 
-addressbar-header = Manzil paneli
-addressbar-suggest = Manzil panelidan foydalanilganda, taklif qilinsin
 addressbar-locbar-history-option =
     .label = Ko‘rish tarixi
     .accesskey = K
@@ -791,40 +547,12 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Varaqlarni ochish
     .accesskey = o
-addressbar-suggestions-settings = Qidiruv tizimi tavsiyalari uchun sozlamalarni o‘zgartirish
 
 ## Privacy Section - Permissions
 
-permissions-header = Huquqlar
-permissions-location = Manzili
-permissions-location-settings =
-    .label = Sozlamalar
-    .accesskey = S
-permissions-camera = Kamera
-permissions-camera-settings =
-    .label = Sozlamalar…
-    .accesskey = s
-permissions-microphone = Mikrofon
-permissions-microphone-settings =
-    .label = Sozlamalar…
-    .accesskey = S
-permissions-notification = Eslatmalar
-permissions-notification-settings =
-    .label = Sozlamalar…
-    .accesskey = t
-permissions-notification-link = Batafsil ma’lumot
 permissions-notification-pause =
     .label = { -brand-short-name } qayta ishga tushgunga qadar eslatmalar to‘xtatilsin
     .accesskey = q
-permissions-block-popups =
-    .label = Paydo bo‘luvchi oynalarni bloklash
-    .accesskey = P
-permissions-addon-install-warning =
-    .label = Saytlar qo‘shimcha dasturlarni o‘rnatishga uringanda menga ogohlantirish ko‘rsatilsin
-    .accesskey = r
-permissions-addon-exceptions =
-    .label = Istisnolar
-    .accesskey = I
 permissions-location2 =
     .label = Manzili
 permissions-camera2 =
@@ -833,21 +561,6 @@ permissions-microphone2 =
     .label = Mikrofon
 permissions-notification2 =
     .label = Eslatmalar
-
-## Privacy Section - Data Collection
-
-collection-header = { -brand-short-name } ma’lumotlarni to‘plash va foydalanish
-collection-privacy-notice = Maxfiylik qaydlari
-collection-health-report =
-    .label = { -vendor-short-name }ga texnik va interaktiv ma’lumotlarni yuborish uchun { -brand-short-name }ga ruxsat berish
-    .accesskey = l
-collection-health-report-link = Batafsil ma’lumot
-addon-recommendations =
-    .label = { -brand-short-name }ga moslashtirilgan kengaytmalarni tavsiya qilishga ruxsat berish
-addon-recommendations-link = Batafsil
-# This message is displayed above disabled data sharing options in developer builds
-# or builds with no Telemetry support available.
-collection-health-report-disabled = Ma’lumotlar hisoboti moslama uchun o‘chirib qo‘yilgan
 
 ## Privacy Section - Security
 ##
@@ -868,20 +581,9 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = Sertifikatlar
-certs-enable-ocsp =
-    .label = so‘rovi OCSP javob berish serverlari sertifikatlarning joriy yaroqliligini tasdiqlash uchun
-    .accesskey = s
-certs-view =
-    .label = Sertifikatlarni ko‘rish
-    .accesskey = k
-certs-devices =
-    .label = Xavfsizlik qurilmalari
-    .accesskey = X
 certs-devices-enable-fips = FIPS’ni yoqib qo‘yish
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Ish stoli
 downloads-folder-name = Yuklab olishlar
-choose-download-folder-title = Yuklanish jildini tanlang:

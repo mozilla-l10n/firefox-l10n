@@ -76,11 +76,5 @@ download-utils-time-left-single = { $time } 남음
 download-utils-time-left-double = { $time1 } { $time2 } 남음
 download-utils-time-few-seconds = 몇 초 남음
 download-utils-time-unknown = 남은 시간 알 수 없음
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = { $scheme } 리소스
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = 로컬 파일
 # Displayed time for files finished yesterday
 download-utils-yesterday = 어제

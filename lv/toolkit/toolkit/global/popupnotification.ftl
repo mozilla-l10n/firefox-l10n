@@ -3,6 +3,3 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 popup-notification-learn-more = Uzzināt vairāk
-popup-notification-default-button =
-    .label = Labi!
-    .accesskey = L

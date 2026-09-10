@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Indicador de compartilhamento
-webrtc-indicator-window =
-    .title = { -brand-short-name } — Indicador de compartilhamento
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Você está compartilhando seu microfone. Clique para controlar o compartilhamento.
 webrtc-screen-system-menu =
     .label = Você está compartilhando uma janela ou tela. Clique para controlar o compartilhamento.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Sua câmera e seu microfone estão sendo compartilhados. Clique para controlar o compartilhamento.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Sua câmera está sendo compartilhada. Clique para controlar o compartilhamento.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Seu microfone está sendo compartilhado. Clique para controlar o compartilhamento.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Um aplicativo está sendo compartilhado. Clique para controlar o compartilhamento.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Sua tela está sendo compartilhada. Clique para controlar o compartilhamento.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Uma janela está sendo compartilhada. Clique para controlar o compartilhamento.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Uma aba está sendo compartilhada. Clique para controlar o compartilhamento.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Permitir que { $
 
 webrtc-share-screen-warning = Só compartilhe telas com sites que você confia. Compartilhar pode permitir que sites enganosos naveguem como se fossem você e roubem seus dados privativos.
 webrtc-share-browser-warning = Só compartilhe o { -brand-short-name } com sites que você confia. Compartilhar pode permitir que sites enganosos naveguem como se fossem você e roubem seus dados privativos.
-webrtc-share-screen-learn-more = Saiba mais
 webrtc-pick-window-or-screen = Selecionar janela ou tela
 webrtc-share-entire-screen = Tela inteira
 webrtc-share-pipe-wire-portal = Usar configurações do sistema operacional

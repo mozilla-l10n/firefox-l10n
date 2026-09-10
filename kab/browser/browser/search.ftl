@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Ammsedday-inek·inem n unadi yettwabeddel.</strong> { $oldEngine } d ayen ur yuɣal ara d amsedday n unadi amezwer deg { -brand-short-name }. { $newEngine } d wagi i d amsedday n unadi amezwer akka turai. I wakken ad tbeddleḍ amsedday-nniḍen n unadi amezwer, ddu ɣer yiɣewwaren. <label data-l10n-name="remove-search-engine-article">Issin ugar</label>
 removed-search-engine-message2 = <strong>Ammsedday-inek·inem n unadi yettwabeddel.</strong> { $oldEngine } d ayen ur yuɣal ara d amsedday n unadi amezwer deg { -brand-short-name }. { $newEngine } d wagi i d amsedday n unadi amezwer akka turai. I wakken ad tbeddleḍ amsedday-nniḍen n unadi amezwer, ddu ɣer yiɣewwaren.
 remove-search-engine-button = IH
 
@@ -51,11 +50,11 @@ install-search-engine-no = Ala
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Rnu amsedday n unadi
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Ẓreg amsedday n unadi
     .style = min-width: 32em;
+    .title = Ẓreg amsedday n unadi
 add-engine-button = Rnu amsedday n unadi udmawan
 add-engine-name = Isem n umsedday n unadi
 add-engine-keyword2 = Anasiw (d afrayan)
@@ -80,11 +79,11 @@ add-engine-no-url = Ma ulac aɣilif sekcem tansa URL.
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Rnu Amsedday
-    .buttonaccesskeyaccept = A
     .buttonlabelextra1 = Talqayt
+    .buttonaccesskeyaccept = A
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Sekles Amsedday
-    .buttonaccesskeyaccept = S
     .buttonlabelextra1 = Talqayt
+    .buttonaccesskeyaccept = S

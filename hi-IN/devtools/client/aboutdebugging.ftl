@@ -5,18 +5,12 @@
 
 ### These strings are used inside the about:debugging UI.
 
-
-# Page Title strings
-
 # Page title (ie tab title) for the Setup page
 about-debugging-page-title-setup-page = डिबगिंग - सेटअप
 # Page title (ie tab title) for the Runtime page
 # Variables:
 #   $selectedRuntimeId - ID of the current runtime, such as "this-firefox", "localhost:6080", etc.
 about-debugging-page-title-runtime-page = डिबगिंग - रनटाइम / { $selectedRuntimeId }
-
-# Sidebar strings
-
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = यह { -brand-shorter-name }
@@ -85,9 +79,6 @@ about-debugging-sidebar-support-icon =
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = उपकरणों को ताज़ा करें
-
-# Setup Page strings
-
 # Title of the Setup page.
 about-debugging-setup-title = सेटअप
 # Title of the heading Connect section of the Setup page.
@@ -127,9 +118,6 @@ about-debugging-network-locations-host-input-label = होस्ट
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = हटाएं
-
-# Runtime Page strings
-
 # Title of the extensions category.
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-extensions =
@@ -159,9 +147,6 @@ about-debugging-runtime-profile-button2 = प्रोफाइल प्रद�
 about-debugging-runtime-name = { $name } ({ $version })
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = प्रोफाइलर
-
-# Debug Targets strings
-
 # Displayed in the categories of "runtime" pages that don't have any debug target to
 # show. Debug targets depend on the category (extensions, tabs, workers...).
 about-debugging-debug-target-list-empty = अभी तक कुछ नहीं.

@@ -25,27 +25,13 @@ account-send-to-all-devices-titlecase = Фиристодан ба ҳамаи д�
 account-manage-devices-titlecase = Идоракунии дастгоҳҳо…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = Ягон дастгоҳ пайваст нашуд
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = Маълумоти бештар дар бораи фиристодани варақаҳо…
-# Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = Пайваст кардани дастгоҳи дигар…
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Ҳисоб тасдиқ нашудааст
 account-send-tab-to-device-verify2 = Ҳисоби худро тасдиқ кунед
-account-send-tab-to-device-verify = Ҳисоби худро тасдиқ кунед…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
-# The title shown in a notification when either this device or another device
-# has connected to, or disconnected from, a Firefox account.
-account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title-2 = Ҳисоб

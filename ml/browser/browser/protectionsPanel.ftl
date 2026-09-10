@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-protections-panel-sendreportview-error = വിവരം അയയ്‌ക്കുന്നതിൽ ഒരു പിശക് ഉണ്ടായിരുന്നു. പിന്നീട് വീണ്ടും ശ്രമിക്കുക.
-# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
-protections-panel-sitefixedsendreport-label = വെബുസ്ഥാനം ശരിയായോ? റിപ്പോർട്ട് അയയ്ക്കുക
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -23,11 +20,6 @@ protections-panel-etp-more-info =
     .aria-label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണത്തെ പറ്റി കൂടുതൽ വിവരങ്ങൾ
 protections-panel-etp-on-header = ഈ വെബിടത്തിനു് മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം തുടങ്ങിവച്ചിട്ടുണ്ടു്.
 protections-panel-etp-off-header = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം ഈ വെബിടത്തനു് അണച്ചു് വച്ചിരിക്കുന്നു
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = സൈറ്റ് പ്രവർത്തിക്കുന്നില്ലേ?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = സൈറ്റ് പ്രവർത്തിക്കുന്നില്ലേ?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -35,13 +27,13 @@ protections-panel-site-not-working-view =
 ##   $host (String): the hostname of the site that is being displayed.
 
 protections-panel-etp-toggle-on =
-    .label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം
-    .description = ഈ വെബിടത്തിനു് തുടങ്ങിയിട്ടുണ്ടു്
     .aria-label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം: { $host }-നു് തുടങ്ങിവച്ചിരിക്കുന്നു
-protections-panel-etp-toggle-off =
+    .description = ഈ വെബിടത്തിനു് തുടങ്ങിയിട്ടുണ്ടു്
     .label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം
-    .description = ഈ വെബിടത്തിനു് അണച്ചതു്
+protections-panel-etp-toggle-off =
     .aria-label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം: { $host }-നു് അണച്ചിരിക്കുന്നു
+    .description = ഈ വെബിടത്തിനു് അണച്ചതു്
+    .label = മെച്ചപ്പെടുത്തിയ പിന്തുടർച്ച പരിരക്ഷണം
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -77,44 +69,13 @@ smartblock-placeholder-button-text = { $websitehost }-ൽ അനുവദിക�
 ##
 
 protections-panel-settings-label = പരിരക്ഷണ ക്രമീകരണങ്ങൾ
-
-## In the Site Not Working? view, we suggest turning off protections if
-## the user is experiencing issues with any of a variety of functionality.
-
-# The list items, shown in a <ul>
-protections-panel-site-not-working-view-issue-list-login-fields = പ്രവേശന തലങ്ങൾ
-protections-panel-site-not-working-view-issue-list-forms = ഫോമുകൾ
-protections-panel-site-not-working-view-issue-list-payments = പണമടക്കൽ
-protections-panel-site-not-working-view-issue-list-comments = അഭിപ്രായങ്ങൾ
-protections-panel-site-not-working-view-issue-list-videos = ദൃശ്യങ്ങൾ
-protections-panel-site-not-working-view-issue-list-fonts = അക്ഷരശൈലികൾ
-protections-panel-site-not-working-view-send-report = വിവരം അറിയിക്കുക
-
-##
-
 protections-panel-description-shim-allowed-learn-more = കൂടുതല്‍ അറിയുക
-protections-panel-content-blocking-breakage-report-view =
-    .title = പൊട്ടിയയൊരു വെബ്സ്ഥാനത്തിന്റെ വിവരം അറിയിക്കുക
-protections-panel-content-blocking-breakage-report-view-collection-url = യുആര്‍എല്‍
-protections-panel-content-blocking-breakage-report-view-collection-url-label =
-    .aria-label = യുആര്‍എല്‍
-protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = റദ്ദാക്കുക
-protections-panel-content-blocking-breakage-report-view-send-report =
-    .label = വിവരം അറിയിക്കുക
-
-# Cookie Banner Handling
-
-protections-panel-cookie-banner-handling-header = കുക്കീപൊന്തുവരൽ കുറയ്ക്കൽ
 protections-panel-cookie-banner-blocker-header = കുക്കിപൊന്തുവരൽ തടയൽയന്ത്രം
 protections-panel-cookie-banner-handling-enabled = ഈ സൈറ്റിനു് തുടങ്ങിവച്ചതു്
 protections-panel-cookie-banner-handling-disabled = ഈ വെബ്സ്ഥാനത്തിനു് അണച്ചതു്
 protections-panel-cookie-banner-handling-undetected = വെബുസ്ഥാനം നിലവിൽ പിന്തുണയ്ക്കുന്നില്ല
 protections-panel-cookie-banner-blocker-view-title =
     .title = കുക്കി പൊന്തുവരൽ തടയൽയന്ത്രം
-protections-panel-cookie-banner-view-cancel = റദ്ദാക്കുക
-protections-panel-cookie-banner-view-turn-off = അണക്കുക
-protections-panel-cookie-banner-view-turn-on = തുടങ്ങി വയ്ക്കുക
 protections-panel-cookie-banner-view-cancel-label =
     .label = റദ്ദാക്കുക
 protections-panel-cookie-banner-view-turn-off-label =

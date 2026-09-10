@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } سيفتح على الملف الشخصي الذي استخدمته حديثًا.
 profile-window-create-profile = أنشئ ملفًا شخصيًا
 profile-card-edit-button =
-    .title = حرّر الملف الشخصي
     .aria-label = حرّر الملف الشخصي
+    .title = حرّر الملف الشخصي
 profile-card-delete-button =
-    .title = احذف الملف الشخصي
     .aria-label = احذف الملف الشخصي
+    .title = احذف الملف الشخصي
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = افتح { $profileName }
     .aria-label = افتح { $profileName }
+    .title = افتح { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = ملف شخصي: { $number }
@@ -79,9 +79,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = احذف الملف الشخصي { $profilename }
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = احذف الملف الشخصي { $profilename }؟
 delete-profile-description = سيؤدي الأمر { -brand-short-name } إلى حذف البيانات التالية بشكل دائم من هذا الجهاز:
 # Open is an adjective, as in "browser windows currently open".
@@ -105,28 +102,10 @@ delete-profile-confirm = احذف
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = فاتح
-# The default dark theme
-profiles-dark-theme = داكن
 # The default system theme
 profiles-system-theme = النظام
 profiles-system-theme-title =
     .title = طبّق سمة النظام
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = أصفر القطيفة
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = لون الخزامى الباهت
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = أخضر نعناعي
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = ماغنوليا بينك
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = أزرق المحيط
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = أحمر طوبي
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = أخضر طحلبي
 profiles-gray-theme = رمادي
 profiles-gray-theme-title =
     .title = طبّق المظهر الرمادي
@@ -242,9 +221,6 @@ profiles-appmenu-callout-tour-title = ملفك الشخصي الجديد جاه�
 # "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
 profiles-appmenu-callout-tour-subtitle = في قائمة ☰، انقر على اسم ملفك الشخصي لإنشاء ملف آخر أو حرّر هذا الملف أو التنقل بين حياتك الرقمية.
 profiles-appmenu-callout-tour-primary-button = ما الطريقة؟
-
-## Tooltips for default avatar icons
-
 sparkle-single-avatar-tooltip =
     .tooltiptext = تطبيق صورة رمزية متألقة
 star-avatar-tooltip =

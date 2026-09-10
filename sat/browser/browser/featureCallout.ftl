@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = ᱴᱮᱵᱽ ᱵᱟᱪᱷᱟᱣ ᱥᱟ�
 callout-firefox-view-tab-pickup-subtitle = ᱠᱷᱩᱞᱟᱹ ᱴᱮᱵᱽ ᱠᱚ ᱫᱚ ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱠᱷᱚᱱ ᱞᱚᱜᱚᱱ ᱦᱟᱛᱟᱣ ᱢᱮ ᱟᱨ ᱰᱷᱮᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱠᱷᱩᱞᱟᱹ ᱠᱚᱢ ᱾
 callout-firefox-view-recently-closed-title = ᱢᱤᱫ ᱡᱷᱚᱴᱚᱠ ᱨᱮ ᱟᱢᱟᱜ ᱵᱚᱱᱫ ᱠᱟᱱ ᱴᱮᱵᱽ ᱛᱮ ᱨᱩᱣᱟᱹᱲ ᱢᱮ
 callout-firefox-view-recently-closed-subtitle = ᱟᱢᱟᱜ ᱡᱷᱚᱛᱚ ᱵᱚᱱᱫ ᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱫᱚ ᱡᱟᱹᱫᱩ ᱞᱮᱠᱷᱟᱛᱮ ᱱᱚᱰᱮ ᱫᱮᱠᱷᱟᱣᱜᱼᱟ ᱾ ᱛᱮᱥ ᱦᱚ ᱵᱷᱩᱞ ᱛᱮ ᱥᱟᱭᱤᱴ ᱵᱚᱱᱫ ᱨᱮᱭᱟᱜ ᱪᱤᱱᱛᱟᱹ ᱟᱞᱚᱢ ᱠᱚᱨᱟᱣᱟ ᱾
-callout-firefox-view-colorways-title = ᱨᱚᱝ ᱨᱮᱭᱟᱜ ᱟᱨᱮᱡ ᱥᱮᱞᱮᱫ ᱢᱮ
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = ᱢᱤᱫᱴᱟᱝ ᱨᱚᱝ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱡᱟᱦᱟᱸ ᱫᱚ ᱯᱚᱴᱚᱣᱜ ᱟᱢ ᱾ { -brand-product-name } ᱨᱮᱜᱮ ᱾
-callout-firefox-view-colorways-reminder-title = ᱟᱞᱮᱭᱟᱜ ᱱᱟᱣᱟ ᱠᱚᱞᱚᱨᱣᱮ ᱥᱮᱱᱫᱽᱨᱟᱭ ᱯᱮ
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = ᱱᱚᱶᱟ ᱪᱚᱨᱚᱠ ᱨᱚᱝ ᱥᱟᱞᱟᱜ ᱛᱮ ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱨᱚᱝ ᱢᱮ, ᱥᱟᱹᱫᱷᱤᱱ ᱨᱚᱲ ᱛᱮ ᱩᱫᱽᱜᱟᱹᱣ ᱾ ᱠᱷᱟᱹᱞᱤ { -brand-product-name } ᱨᱮᱜᱮ ᱾
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

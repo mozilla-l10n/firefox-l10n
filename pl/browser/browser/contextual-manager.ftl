@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Szukaj haseł
-    .key = F
     .aria-label = Szukaj haseł
+    .key = F
+    .placeholder = Szukaj haseł
 contextual-manager-menu-more-options-button =
     .title = Więcej opcji
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Importuj z pliku…
 contextual-manager-passwords-command-export = Eksportuj hasła
 contextual-manager-passwords-command-remove-all = Usuń wszystkie hasła
 contextual-manager-passwords-command-options = Opcje
-contextual-manager-passwords-command-settings = Ustawienia
 contextual-manager-passwords-command-help = Pomoc
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Zaimportowano hasła
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Nowe: { $added }, zaktualizowane: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -214,8 +209,6 @@ contextual-manager-passwords-create-label =
     .label = Dodaj hasło
 contextual-manager-passwords-update-label =
     .label = Aktualizuj hasło
-contextual-manager-passwords-edit-label =
-    .label = Edytuj hasło
 contextual-manager-passwords-remove-label =
     .title = Usuń hasło
 contextual-manager-passwords-origin-field =
@@ -231,7 +224,6 @@ contextual-manager-passwords-password-field-description = Wprowadź hasło, aby 
 contextual-manager-passwords-origin-tooltip = Wprowadź dokładny adres logowania do tej witryny.
 contextual-manager-passwords-username-tooltip = Wprowadź nazwę użytkownika, adres e-mail lub numer konta używany do logowania.
 contextual-manager-passwords-password-tooltip-2 = Wprowadź hasło, aby zalogować się na to konto.
-contextual-manager-passwords-password-tooltip = Wprowadź hasło używane do logowania się na to konto.
 
 ## Password Card
 
@@ -278,10 +270,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Kopiuj hasło (ostrzeżenie)
 contextual-manager-edit-login-button = Edytuj
     .tooltiptext = Edytuj hasło
-contextual-manager-view-alert-heading =
-    .heading = Wyświetl powiadomienie
-contextual-manager-view-alert-button =
-    .tooltiptext = Przejrzyj powiadomienie
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -308,13 +296,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Nie odnaleziono żadnych haseł
 contextual-manager-passwords-no-passwords-found-message-2 = Spróbuj wyszukać ponownie za pomocą innego słowa.
-contextual-manager-passwords-no-passwords-found-message = Nie odnaleziono żadnych haseł. Spróbuj ponownie za pomocą innego słowa.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Zachowuj swoje hasła w bezpiecznym miejscu.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Wszystkie hasła są zaszyfrowane. Będziemy monitorować wycieki danych i wyślemy powiadomienie, jeśli jakiś Cię dotyczy.

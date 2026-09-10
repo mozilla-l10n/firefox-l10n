@@ -25,7 +25,6 @@ help-button =
 media-bg-img = K´uanatsekua anapu
 saved-passwords-yes = k’uaniaka
 saved-passwords-no = nómbe
-security-no-visits = nómbe
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image

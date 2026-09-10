@@ -110,15 +110,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = सेफ मोडद्वारे सर्व ॲड-ऑन्स् बंद केले आहे.
-extensions-warning-check-compatibility = ॲड-ऑन सहत्वता तपासणी बंद केली आहे. आपल्याकडे असहत्व ॲड-ऑन्स् असू शकतात.
-extensions-warning-safe-mode2 =
-    .message = सेफ मोडद्वारे सर्व ॲड-ऑन्स् बंद केले आहे.
 extensions-warning-check-compatibility2 =
     .message = ॲड-ऑन सहत्वता तपासणी बंद केली आहे. आपल्याकडे असहत्व ॲड-ऑन्स् असू शकतात.
 extensions-warning-check-compatibility-button = सुरू करा
     .title = ॲड-ऑन सहत्वता तपासणी सुरू करा
-extensions-warning-update-security = ॲड-ऑन सुधारणा सुरक्षा तपासणी बंद केले आहे. सुधारणा करतेवेळी सतर्क रहा.
 extensions-warning-update-security2 =
     .message = ॲड-ऑन सुधारणा सुरक्षा तपासणी बंद केले आहे. सुधारणा करतेवेळी सतर्क रहा.
 extensions-warning-update-security-button = सुरू करा
@@ -210,7 +205,6 @@ available-updates-heading = उपलब्ध सुधारणा
 recent-updates-heading = नुकतीच सुधारणा
 release-notes-loading = लोड करत आहे…
 release-notes-error = माफ करा, परंतु प्रकाशन टिपा लोड करतेवेळी त्रुटी आढळली.
-addon-permissions-empty = या विस्तारास कोणत्याही परवानगीची आवश्यकता नाही
 recommended-extensions-heading = शिफारस केलेले विस्तार
 
 ## Page headings
@@ -230,24 +224,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name }, { -brand-short-name } { $version } सह असहत्व आहे.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name }, { -brand-short-name } { $version } सह असहत्व आहे.
-details-notification-unsigned-and-disabled = { -brand-short-name } मध्ये वापरासाठी { $name } ची पडताळणी होऊ शकली नाही आणि ते अक्षम करण्यात आले आहे.
 details-notification-unsigned-and-disabled2 =
     .message = { -brand-short-name } मध्ये वापरासाठी { $name } ची पडताळणी होऊ शकली नाही आणि ते अक्षम करण्यात आले आहे.
-details-notification-unsigned-and-disabled-link = अधिक माहिती
-details-notification-unsigned = { -brand-short-name } मध्ये वापरासाठी { $name } ची पडताळणी होऊ शकली नाही. काळजीपूर्वक पुढे जा.
 details-notification-unsigned2 =
     .message = { -brand-short-name } मध्ये वापरासाठी { $name } ची पडताळणी होऊ शकली नाही. काळजीपूर्वक पुढे जा.
-details-notification-unsigned-link = अधिक माहिती
-details-notification-blocked = { $name } सुरक्षा किंवा स्थिरता अडचणींमुळे बंद केले.
-details-notification-blocked-link = अधिक माहिती
-details-notification-softblocked = { $name } सुरक्षा किंवा स्थिरता अडचणी निर्माण करण्यास परिचीत आहे.
-details-notification-softblocked-link = अधिक माहिती
-details-notification-gmp-pending = { $name } लवकरच इंस्टॉल केले जाईल.
 details-notification-gmp-pending2 =
     .message = { $name } लवकरच इंस्टॉल केले जाईल.
 

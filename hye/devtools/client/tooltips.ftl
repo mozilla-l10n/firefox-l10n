@@ -26,7 +26,6 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> չունի որեւ�
 inactive-css-not-flex-container = <strong>{ $property }</strong> չունի որեւէ ազդեցութիւն այս տարրի վրայ, քանզի այն սնուցման պահուստ չէ։
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong>-ը չունի որեւէ ազդեցութիւն այս տարրի վրայ, քանզի այն ներտողի կամ աղիւսակի-վանդակի բաղադրիչ չէ։
 inactive-css-property-because-of-display = <strong>{ $property }</strong>-ը չունի որեւէ ազդեցութիւն այս տարրի վրայ, քանզի այն ցուցադրուում է որպէս <strong>{ $display }</strong>։
-inactive-css-not-display-block-on-floated = <strong>ցուցադրման</strong> արժէքը փոխուել է ենթահամակարգի կողմից <strong>արգելափակել</strong>, որովետեւ բաղադրիչը <strong>տեղաշարժուել է</strong>։
 inactive-css-property-is-impossible-to-override-in-visited = <strong>․այցելուած</strong> սահմանափակման պատճառով անհնար է վերագրել <strong>{ $property }</strong>։
 inactive-css-position-property-on-unpositioned-box = <strong> { $property } </strong> չունի որեւէ ազդեցութիւն այս տարրի վրայ, քանի որ այն դիրքաւորուած տարր չէ:
 inactive-text-overflow-when-no-overflow = <strong> { $property } </strong> չունի որեւէ պատկերում այս տարրի վրայ, քանի որ <strong> ընդարձակել։թաքցնել </strong> այն դրուած չէ:

@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Sjálfgefnu leitarvélinni þinni hefur verið breytt.</strong> { $oldEngine } er ekki lengur tiltæk sem sjálfgefin leitarvél í { -brand-short-name }. { $newEngine } er nú sjálfgefna leitarvélin þín. Farðu í stillingarnar til að skipta yfir í aðra sjálfgefna leitarvél. <label data-l10n-name="remove-search-engine-article">Frekari upplýsingar</label>
 removed-search-engine-message2 = <strong>Sjálfgefnu leitarvélinni þinni hefur verið breytt.</strong> { $oldEngine } er ekki lengur tiltæk sem sjálfgefin leitarvél í { -brand-short-name }. { $newEngine } er nú sjálfgefna leitarvélin þín. Farðu í stillingarnar til að skipta yfir í aðra sjálfgefna leitarvél.
 remove-search-engine-button = Í lagi
 
@@ -51,11 +50,11 @@ install-search-engine-no = Nei
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Bæta við leitarvél
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Breyta leitarvél
     .style = min-width: 32em;
+    .title = Breyta leitarvél
 add-engine-button = Bæta við sérsniðinni leitarvél
 add-engine-name = Heiti leitarvélar
 add-engine-url2 = Vefslóð með %s í stað leitarorða
@@ -89,11 +88,11 @@ add-engine-missing-terms-post-data = Prófaðu að setja %s inn í stað leitaro
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Bæta við leitarvél
-    .buttonaccesskeyaccept = A
     .buttonlabelextra1 = Nánar
+    .buttonaccesskeyaccept = A
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Vista leitarvél
-    .buttonaccesskeyaccept = S
     .buttonlabelextra1 = Nánar
+    .buttonaccesskeyaccept = S

@@ -8,11 +8,8 @@ label-interventions = Taq majoj
 # Variables:
 #   $bug (string) - Bug number
 label-more-information = Ch'aqa' chik Etamab'äl: Sachoj { $bug }
-label-overrides = Taq Ruyujuj Rub'anel Winäq
 text-disabled-in-about-config = Re rub'anikil re' xchup pa about:config
 text-no-interventions = Man ye'okisäx ta taq majoj
-text-no-overrides = Man ye'okisäx ta taq UA yujuj
-text-title = about:compat
 
 ## Do not translate "SmartBlock". For reference, SmartBlock is a feature
 ## of Firefox anti-tracking which fixes website breakage caused when

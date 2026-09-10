@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - ตัวบ่งชี้การแบ่งปัน
-webrtc-indicator-window =
-    .title = { -brand-short-name } - ตัวบ่งชี้การแบ่งปัน
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = คุณกำลังแบ่งปันไมโครโฟนของคุณ คลิกเพื่อควบคุมการแบ่งปัน
 webrtc-screen-system-menu =
     .label = คุณกำลังแบ่งปันหน้าต่างหรือหน้าจอ คลิกเพื่อควบคุมการแบ่งปัน
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = กล้องและไมโครโฟนของคุณกำลังถูกแบ่งปัน คลิกเพื่อควบคุมการแบ่งปัน
-webrtc-indicator-sharing-camera =
-    .tooltiptext = กล้องของคุณกำลังถูกแบ่งปัน คลิกเพื่อควบคุมการแบ่งปัน
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = ไมโครโฟนของคุณกำลังถูกแบ่งปัน คลิกเพื่อควบคุมการแบ่งปัน
-webrtc-indicator-sharing-application =
-    .tooltiptext = แอปพลิเคชันกำลังถูกแบ่งปัน คลิกเพื่อควบคุมการแบ่งปัน
-webrtc-indicator-sharing-screen =
-    .tooltiptext = หน้าจอของคุณกำลังถูกแบ่งปัน คลิกเพื่อควบคุมการแบ่งปัน
-webrtc-indicator-sharing-window =
-    .tooltiptext = หน้าต่างกำลังถูกแบ่งปัน คลิกเพื่อควบคุมการแบ่งปัน
-webrtc-indicator-sharing-browser =
-    .tooltiptext = แท็บกำลังถูกแบ่งปัน คลิกเพื่อควบคุมการแบ่งปัน
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -161,7 +142,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = อนุญา�
 
 webrtc-share-screen-warning = โปรดแบ่งปันหน้าจอเฉพาะกับไซต์ที่คุณเชื่อถือเท่านั้น การแบ่งปันอาจอนุญาตให้ไซต์หลอกลวงเรียกดูในชื่อคุณและขโมยข้อมูลส่วนตัวของคุณ
 webrtc-share-browser-warning = โปรดแบ่งปัน { -brand-short-name } เฉพาะกับไซต์ที่คุณเชื่อถือเท่านั้น การแบ่งปันอาจอนุญาตให้ไซต์หลอกลวงเรียกดูในชื่อคุณและขโมยข้อมูลส่วนตัวของคุณ
-webrtc-share-screen-learn-more = เรียนรู้เพิ่มเติม
 webrtc-pick-window-or-screen = เลือกหน้าต่างหรือหน้าจอ
 webrtc-share-entire-screen = ทั้งหน้าจอ
 webrtc-share-pipe-wire-portal = ใช้การตั้งค่าระบบปฏิบัติการ

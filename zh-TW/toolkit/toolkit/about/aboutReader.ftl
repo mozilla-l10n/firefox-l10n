@@ -4,14 +4,6 @@
 
 about-reader-loading = 載入中…
 about-reader-load-error = 無法自頁面載入文章
-about-reader-color-scheme-light = 亮色調
-    .title = 亮色主題
-about-reader-color-scheme-dark = 暗色調
-    .title = 暗色主題
-about-reader-color-scheme-sepia = 棕褐色調
-    .title = 棕褐色調主題
-about-reader-color-scheme-auto = 自動
-    .title = 自動色彩布景
 about-reader-color-light-theme = 亮色
     .title = 亮色佈景主題
 about-reader-color-dark-theme = 暗色
@@ -24,12 +16,6 @@ about-reader-color-gray-theme = 灰色
     .title = 灰色佈景主題
 about-reader-color-contrast-theme = 高對比
     .title = 高對比度佈景主題
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time = { $range } 分鐘
 
 ## Reader View text and layout menu
 
@@ -37,14 +23,6 @@ about-reader-toolbar-minus =
     .title = 縮小文字
 about-reader-toolbar-plus =
     .title = 放大文字
-about-reader-toolbar-contentwidthminus =
-    .title = 縮小內容寬度
-about-reader-toolbar-contentwidthplus =
-    .title = 放大內容寬度
-about-reader-toolbar-lineheightminus =
-    .title = 縮小行高
-about-reader-toolbar-lineheightplus =
-    .title = 增加行高
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -55,7 +33,6 @@ about-reader-font-type-monospace = 等寬
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = 關閉閱讀畫面
-about-reader-toolbar-type-controls = 字體控制
 about-reader-toolbar-text-layout-controls = 文字與版面
 about-reader-toolbar-theme-controls = 佈景主題
 about-reader-toolbar-savetopocket = 儲存至 { -pocket-brand-name }

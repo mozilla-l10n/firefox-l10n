@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = আপনার নখদর্পণে { 
 default-browser-prompt-message-pin-msix = আপনার নখদর্পণে { -brand-short-name } রাখুন — এটিকে আপনার ডিফল্ট ব্রাউজার করুন এবং এটিকে আপনার টাস্কবার এবং স্টার্ট মেনুতে পিন করুন।
 default-browser-prompt-message-pin-mac = আপনার নখদর্পণে { -brand-short-name } রাখুন — এটিকে আপনার ডিফল্ট ব্রাউজার করুন এবং আপনার ডকে রাখুন।
 default-browser-prompt-button-primary-set = প্রাথমিক ব্রাউজার হিসেবে সেট করুন
-default-browser-prompt-button-primary-pin = প্রাথমিক ব্রাউজার বানান
 default-browser-prompt-title-alt = { -brand-short-name }-কে আপনার ডিফল্ট ব্রাউজার বানাবেন?
 default-browser-prompt-message-alt = প্রতিবার ব্রাউজ করার সময় গতি, নিরাপত্তা ও গোপনীয়তা পান।
 default-browser-prompt-button-primary-alt = ডিফল্ট ব্রাউজার হিসাবে নির্ধারণ করুন

@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = अपवाद
     .style = min-width: 45em
+    .title = अपवाद
 permissions-close-key =
     .key = w
 permissions-address = वेब साइट पता
@@ -64,29 +64,15 @@ permissions-invalid-uri-label = एक वैध मेजबाननाम ड
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
+    .style = { permissions-window2.style }
     .title = अपवाद - कुकीज़ और साइट डेटा
-    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = आप विशेष रूप से चुन सकते हैं कि कूकीज तथा साइट डेटा किन वेबसाइटों को हमेशा या कभी नहीं उपयोग करने की अनुमति है.   जिस साइट को आप प्रबंधित करना चाहते हैं उसका सटीक पता टाइप करें और फिर ब्लॉक, सत्र के लिए अनुमति, या अनुमति दें पर क्लिक करें.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = अनुमत वेबसाइट - पॉप-अप
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = कौन-सी वेबसाइटों की पॉपअप विंडो खुलेंगी यह आपके हाथ में है. जिनको आप यह अनुमति देना चाहते हैं उनका सही वेब पता लिखें और अनुमति दें पर क्लिक करें.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = अपवाद - संग्रहित प्रवेश
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = निम्न वेबसाइटों के लिए लॉगिन सहेजे नहीं जाएंगे
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = अनुमत वेबसाइटें - एड-ऑन अधिष्ठापन
     .style = { permissions-window2.style }
+    .title = अनुमत वेबसाइटें - एड-ऑन अधिष्ठापन
 permissions-exceptions-addons-desc = कौन-सी वेबसाइटें सहयुक्तियों का संस्थापन करेंगी यह आपके हाथ में है. जिनको आप यह अनुमति देना चाहते हैं उनका सही वेब पता लिखें और अनुमति दें पर क्लिक करें.
 
 ## Site Permissions - Autoplay
@@ -96,8 +82,8 @@ permissions-site-autoplay-desc = आप उन साइटों को प्�
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = सेटिंग्स - अधिसूचना अनुमतियां
     .style = { permissions-window2.style }
+    .title = सेटिंग्स - अधिसूचना अनुमतियां
 permissions-site-notification-desc = निम्नलिखित वेबसाइटों ने आपको सूचनाएँ भेजने का अनुरोध किया है. आप निर्दिष्ट कर सकते है कि किन वेबसाइटों को आपको सूचनाएं भेजने की अनुमति है. आप सूचनाओं को अनुमति देने के लिए पूछ रहे नए अनुरोधों को अवरोधित भी कर सकते हैं.
 permissions-site-notification-disable-label =
     .label = अधिसूचना की अनुमति के लिए पूछ रहे नए अनुरोधों को ब्लॉक करें
@@ -106,8 +92,8 @@ permissions-site-notification-disable-desc = इससे किसी भी �
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = सेटिंग्स - स्थान अनुमतियां
     .style = { permissions-window2.style }
+    .title = सेटिंग्स - स्थान अनुमतियां
 permissions-site-location-desc = निम्नलिखित वेबसाइटों ने आपकी लोकेशन का उपयोग करने की अनुमति का अनुरोध किया है. आप निर्दिष्ट कर सकतें हैं की किन वेबसाइटों को आप अपने लोकेशन का उपयोग करने की अनुमति देना चाहते हैं. आपकी लोकेशन के उपयोग की अनुमति के नये अनुरोध को आप अवरूद्ध भी कर सकतें हैं.
 permissions-site-location-disable-label =
     .label = आपके लोकेशन का उपयोग करने के लिए आने वाले नए निवेदनों को रोकें
@@ -116,8 +102,8 @@ permissions-site-location-disable-desc = इससे किसी भी वे
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = सेटिंग्स - कैमरा अनुमतियां
     .style = { permissions-window2.style }
+    .title = सेटिंग्स - कैमरा अनुमतियां
 permissions-site-camera-desc = निम्नलिखित वेबसाइटों ने आपके कैमरा का उपयोग करने का अनुरोध किया है. आप निर्दिष्ट कर सकतें हैं कि किन वेबसाइटों को आप अपने कैमरा का उपयोग करने की अनुमति देना चाहते हैं. आपके कैमरे के उपयोग के नये अनुरोधों को आप ब्लॉक भी कर सकतें हैं.
 permissions-site-camera-disable-label =
     .label = आपके कैमरा का उपयोग करने के लिए आने वाले नए अनुरोधों को अवरूद्ध करें
@@ -126,8 +112,8 @@ permissions-site-camera-disable-desc = इससे किसी भी वे�
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = सेटिंग्स - माइक्रोफ़ोन अनुमतियां
     .style = { permissions-window2.style }
+    .title = सेटिंग्स - माइक्रोफ़ोन अनुमतियां
 permissions-site-microphone-desc = निम्नलिखित वेबसाइटों ने आपके माइक्रोफोन का उपयोग करने का अनुरोध किया है. आप निर्दिष्ट कर सकतें हैं की किन वेबसाइटों को आप अपने माइक्रोफोन का उपयोग करने की अनुमति देना चाहते हैं. आपके माइक्रोफोन के उपयोग की अनुमति के नये अनुरोधों को आप अवरूद्ध भी कर सकतें हैं.
 permissions-site-microphone-disable-label =
     .label = आपके माइक्रोफोन का उपयोग करने के लिए आने वाले नए अनुरोधों को रोकें

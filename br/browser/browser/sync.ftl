@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = O c'houbredañ...
 sync-disconnect-dialog-title2 = Digennaskañ ?
 sync-disconnect-dialog-body = { -brand-product-name } a baouezo da c'houbredañ ho kont met ne zilamo ket ho roadennoù merdeiñ war an trevnad-mañ.
 sync-disconnect-dialog-button = Digennaskañ
-fxa-signout-dialog2-title = Digennaskañ diouzh { -fxaccount-brand-name } ?
 fxa-signout-dialog-title2 = Digennaskañ diouzh ho kont?
 fxa-signout-dialog-body = Ar roadennoù goubredet a chomo en ho kont.
 fxa-signout-dialog2-button = Digennaskañ
@@ -18,17 +17,6 @@ fxa-menu-turn-on-sync =
 fxa-menu-turn-on-sync-default = Gweredekaat ar c’houbredañ
 fxa-menu-connect-another-device =
     .label = Kennaskañ un trevnad all…
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Kas an ivinell d'an trevnad
-            [two] Kas { $tabCount } ivinell d'an trevnad
-            [few] Kas { $tabCount } ivinell d'an trevnad
-            [many] Kas { $tabCount } a ivinelloù d'an trevnad
-           *[other] Kas { $tabCount } ivinell d'an trevnad
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Trevnadoù o c'houbredañ...

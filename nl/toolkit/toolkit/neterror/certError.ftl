@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Het certificaat wordt niet vertrouwd, omdat 
 cert-error-trust-signature-algorithm-disabled = Het certificaat wordt niet vertrouwd, omdat het is ondertekend via een ondertekeningsalgoritme dat is uitgeschakeld omdat dat algoritme niet beveiligd is.
 cert-error-trust-expired-issuer = Het certificaat wordt niet vertrouwd, omdat het uitgeverscertificaat is verlopen.
 cert-error-trust-self-signed = Het certificaat wordt niet vertrouwd, omdat het zelfondertekend is.
-cert-error-trust-symantec = Certificaten die door GeoTrust, RapidSSL, Symantec, Thawte en VeriSign zijn uitgegeven, worden niet meer als veilig beschouwd, omdat deze certificaatautoriteiten in het verleden geen beveiligingsprocedures hebben gevolgd.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } vertrouwt { $hostname } niet, omdat het niet kan bewijzen dat het aan de transparantievereisten voor openbare certificaten voldoet.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Foutcode: <a data-l10n-name="error-code-link">{ $e
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Fout tijdens het verbinden met { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Websites tonen hun identiteit aan via certificaten, die door certificaatautoriteiten worden uitgegeven. De meeste browsers vertrouwen certificaten die door GeoTrust, RapidSSL, Symantec, Thawte en VeriSign zijn uitgegeven niet meer. { $hostname } gebruikt een certificaat van een van deze autoriteiten, waardoor de identiteit van de website niet kan worden aangetoond.
-cert-error-symantec-distrust-admin = U kunt de beheerder van de website over dit probleem informeren.
 cert-error-old-tls-version = Deze website ondersteunt mogelijk niet het TLS 1.2-protocol, de minimale versie die wordt ondersteund door { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Certificaatketen:
-open-in-new-window-for-csp-or-xfo-error = Website openen in nieuw venster
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Om uw veiligheid te beschermen, staat { $hostname } niet toe dat { -brand-short-name } de pagina toont als een andere website deze heeft ingebed. Om deze pagina te bekijken moet u deze openen in een nieuw venster.
 fp-certerror-view-certificate-link = Certificaat van de website bekijken
 fp-certerror-return-to-previous-page-recommended-button-2 = Teruggaan (Aanbevolen)
     .accesskey = g
-fp-certerror-return-to-previous-page-recommended-button = Teruggaan (Aanbevolen)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -133,7 +126,7 @@ fp-learn-more-about-time-related-errors = Meer info over het oplossen van tijdge
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } vertrouwt deze website niet, omdat het erop lijkt dat het aangeboden certificaat niet geldig is tot { DATETIME($date, timeStyle: "short") } op { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } vertrouwt deze website niet, omdat het erop lijkt dat het aangeboden certificaat niet geldig is tot { DATETIME($date, timeStyle: "short") } op { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
@@ -179,8 +172,6 @@ deniedPortAccess-title = Dit adres heeft beperkte toegang
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. We kunnen die website niet vinden.
 internet-connection-offline-title = Het lijkt erop dat er een probleem is met uw internetverbinding.
-dns-not-found-trr-only-title2 = Mogelijk beveiligingsrisico bij opzoeken van dit domein
-dns-not-found-native-fallback-title2 = Mogelijk beveiligingsrisico bij opzoeken van dit domein
 fileNotFound-title = Bestand niet gevonden
 fileAccessDenied-title = Toegang tot het bestand is geweigerd
 generic-title = Oeps.
@@ -205,7 +196,6 @@ unknownSocketType-title = Onverwacht antwoord van server
 nssFailure2-title = Beveiligde verbinding mislukt
 csp-xfo-error-title = { -brand-short-name } kan deze pagina niet openen
 corruptedContentErrorv2-title = Beschadigde-inhoudsfout
-corruptedContentError-title = Beschadigde-inhoudsfout
 sslv3Used-title = Kan geen beveiligde verbinding maken
 inadequateSecurityError-title = Uw verbinding is niet beveiligd
 blockedByPolicy-title = Geblokkeerde pagina
@@ -228,7 +218,6 @@ fp-certerror-hide-advanced-button = Geavanceerd verbergen
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Doorgaan naar { $hostname } (Risicovol)
 fp-certerror-intro = { -brand-short-name } heeft een mogelijk ernstig beveiligingsprobleem met <strong>{ $hostname }</strong> opgemerkt. Iemand die zich voordoet als de website kan zaken zoals creditcardgegevens, wachtwoorden of e-mailadressen proberen te stelen.
 fp-certerror-expired-into = { -brand-short-name } heeft een beveiligingsprobleem ontdekt met <strong>{ $hostname }</strong>. Of de website is niet goed ingesteld, of de klok van uw apparaat is op de verkeerde datum/tijd ingesteld.
 fp-certerror-transparency-intro = Iemand die zich voordoet als <strong>{ $hostname }</strong> kan dingen zoals creditcardgegevens, wachtwoorden of e-mailadressen proberen te stelen.

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Þýða þessa síðu
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Þýðing í gangi
 translations-panel-settings-button =
     .aria-label = Sýsla með þýðingarstillingar
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BETA-prófunarútgáfa
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Sýsla með tungumál
-translations-panel-settings-about = Um þýðingar í { -brand-shorter-name }
 translations-panel-settings-about2 =
     .label = Um þýðingar í { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
@@ -83,14 +74,6 @@ translations-panel-error-dismiss-button =
     .label = Ég skil
 translations-panel-error-change-button =
     .label = Breyta frummáli
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Því miður styðjum við ekki { $language } ennþá.
-translations-panel-error-unsupported-hint-unknown = Því miður styðjum við ekki þetta tungumál ennþá.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -122,10 +105,6 @@ translations-manage-header = Þýðingar
 translations-manage-settings-button =
     .label = Stillingar…
     .accesskey = t
-translations-manage-description = Sækja tungumál fyrir þýðingar án nettengingar.
-translations-manage-all-language = Öll tungumál
-translations-manage-download-button = Sækja
-translations-manage-delete-button = Eyða
 translations-manage-intro-2 = Stilltu tungumála- og vefþýðingastillingar þínar og stjórnaðu tungumálum sem eru sótt fyrir þýðingar án nettengingar.
 translations-manage-download-description = Sækja tungumál fyrir þýðingar án nettengingar.
 translations-manage-language-download-button =
@@ -139,12 +118,11 @@ translations-manage-language-remove-all-button =
     .label = Fjarlægja allt
     .accesskey = F
 translations-manage-error-download = Villa kom upp við að sækja tungumálaskrárnar. Reyndu aftur.
-translations-manage-error-delete = Villa kom upp við að eyða tungumálaskránum. Reyndu aftur.
 translations-manage-error-remove = Villa kom upp við að fjarlægja tungumálaskrárnar. Reyndu aftur.
 translations-manage-error-list = Ekki tókst að ná í lista yfir tiltæk tungumál fyrir þýðingar. Endurnýjaðu síðuna til að reyna aftur.
 translations-settings-title =
-    .title = Þýðingastillingar
     .style = min-width: 36em
+    .title = Þýðingastillingar
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Þýðing mun gerast sjálfkrafa fyrir eftirfarandi tungumál
@@ -228,16 +206,6 @@ select-translations-panel-init-failure-message =
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Vandamál kom upp við að þýða. Reyndu aftur.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Því miður styðjum við ekki { $language } ennþá.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Því miður styðjum við ekki þetta tungumál ennþá.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Þýðingastillingar

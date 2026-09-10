@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = 已保存的地址
 autofill-manage-addresses-list-header = 地址
-autofill-manage-credit-cards-title = 已保存的信用卡
-autofill-manage-credit-cards-list-header = 信用卡
 autofill-manage-payment-methods-title = 保存的付款方式
 autofill-manage-cards-list-header = 卡片
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = 打开菜单
 address-capture-edit-address-link = 编辑地址
     .aria-label = 编辑地址
-address-capture-edit-address-button =
-    .aria-label = 编辑地址
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = 添加地址
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = 编辑地址
-autofill-address-given-name = 名
-autofill-address-additional-name = 中间名
-autofill-address-family-name = 姓
 autofill-address-name = 姓名
 autofill-address-organization = 组织
 autofill-address-street-address = 街道地址
@@ -104,8 +97,6 @@ autofill-address-eircode = 邮政编码（Eircode）
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = 添加新地址
 autofill-address-country = 国家/地区
 autofill-address-country-only = 国家/地区
 autofill-address-tel = 电话号码
@@ -114,18 +105,6 @@ autofill-cancel-button = 取消
 autofill-save-button = 保存
 autofill-country-warning-message-2 = 表单自动填写目前仅部分国家/地区可用。
 autofill-country-warning-message = 表单自动填写目前仅部分国家/地区可用。
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = 添加新信用卡
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = 编辑信用卡
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] 显示信用卡信息
-        [windows] { -brand-short-name } 正尝试显示信用卡信息。请在下方登录此 Windows 账户确认。
-       *[other] { -brand-short-name } 正尝试显示信用卡信息。
-    }
 autofill-message-tooltip = 查看关于自动填写的信息
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = 添加卡片
@@ -211,15 +190,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = 永不保存护照信息
     .accessKey = N
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = 美国运通
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = 万事达卡
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = 银联
-autofill-card-network-visa = Visa

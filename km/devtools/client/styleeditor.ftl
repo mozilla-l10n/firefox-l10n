@@ -16,8 +16,6 @@ styleeditor-save-button = រក្សា​ទុក
     .accesskey = រ
 styleeditor-options-button =
     .tooltiptext = ជម្រើស​កម្មវិធី​កែ​រចនាប័ទ្ម
-styleeditor-editor-textbox =
-    .data-placeholder = វាយ CSS នៅ​ទីនេះ ។
 styleeditor-no-stylesheet = ទំព័រ​នេះ មិន​មាន​សន្លឹក​រចនាប័ទ្ម​ទេ ។
 styleeditor-no-stylesheet-tip = ប្រហែល​ជា​អ្នក​ចង់<a data-l10n-name="append-new-stylesheet">បន្ថែម​សន្លឹក​រចនាប័ទ្ម​ថ្មី</a>?
 styleeditor-open-link-new-tab =

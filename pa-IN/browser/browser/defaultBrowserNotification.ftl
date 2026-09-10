@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = { -brand-short-name } ਨੂੰ ਆਪਣ�
 default-browser-prompt-message-pin-msix = { -brand-short-name } ਨੂੰ ਆਪਣੇ ਨੇੜੇ ਰੱਖੋ — ਇਸ ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ ਅਤੇ ਆਪਣੀ ਟਾਸਕ-ਬਾਰ ਤੇ ਸਟਾਰਟ ਮੇਨੂ ਵਿੱਚ ਟੰਗੋ।
 default-browser-prompt-message-pin-mac = { -brand-short-name } ਨੂੰ ਆਪਣੇ ਕੋਲ ਰੱਖੋ — ਇਸ ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ ਤੇ ਆਪਣੇ ਡੌਕ ਵਿੱਚ ਰੱਖੋ।
 default-browser-prompt-button-primary-set = ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
-default-browser-prompt-button-primary-pin = ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ
 default-browser-prompt-title-alt = { -brand-short-name } ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਉਣਾ ਹੈ?
 default-browser-prompt-message-alt = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰੋ ਤਾਂ ਸਪੀਡ, ਸੁਰੱਖਿਆ ਅਤੇ ਪਰਦੇਦਾਰੀ ਨਾਲ ਲੈੱਸ ਰਹੋ।
 default-browser-prompt-button-primary-alt = ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ

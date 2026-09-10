@@ -10,9 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Add { $extension }?
 webext-perms-sideload-header = { $extension } added
-webext-perms-optional-perms-header = { $extension } requests additional permissions.
 
 ##
 

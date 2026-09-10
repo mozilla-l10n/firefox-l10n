@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Alaa Mooftirɗe
-    .accesskey = A
 user-context-manage-containers =
     .label = Toppito baɗirɗe
     .accesskey = O

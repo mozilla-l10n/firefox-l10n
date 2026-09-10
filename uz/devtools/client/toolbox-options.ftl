@@ -69,8 +69,6 @@ options-sourceeditor-keybinding-default-label = Standart
 options-context-advanced-settings = Qoʻshimcha sozlamalar
 options-disable-http-cache-tooltip =
     .title = Buni yoqib qo‘ysangiz, u asboblar paneli ochiq bo‘lgan barcha ichki oynalar uchun HTTP keshni o‘chirib qo‘yadi. Service Workers ta’minotiga ta’sir qilmaydi.
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = JavaScript *’ni o‘chirib qo‘yish
 options-disable-javascript-tooltip =
     .title = Agar buni tanlasangiz, joriy ichki oyna uchun JavaScript o‘chiriladi. Agar ichki oyna yoki asboblar paneli yopilsa, ushbu moslashlar oʻz kuchini yoʻqotadi.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -83,8 +81,6 @@ options-enable-remote-label = Masofadan nosozliklarni jo‘natishni yoqish
 options-enable-service-workers-http-label = Service Workers ta’minotini sinash xususiyatlarini yoqib qo‘yadi (asboblar paneli ochiq bo‘lganda)
 options-enable-service-workers-http-tooltip =
     .title = Asboblar paneli bo‘lgan barcha ichki oynalar uchun HTTP ustida service workers ta’minotni yoqib qo‘yadi.
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Faqat joriy seans, sahifani qayta yuklaydi
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

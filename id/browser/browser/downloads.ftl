@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Tampilkan di Finder
            *[other] Tampilkan di Folder
         }
-downloads-cmd-show-downloads =
-    .label = Tampilkan Folder Unduhan
 downloads-cmd-retry =
     .tooltiptext = Coba Lagi
 downloads-cmd-retry-panel =

@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Momentálně jste v režimu FIPS, který v
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Obnovení hlavního hesla
     .style = min-width: 40em
+    .title = Obnovení hlavního hesla
 reset-password-button-label =
     .label = Obnovit
 reset-primary-password-text = Pokud obnovíte hlavní heslo, všechna vaše uložená hesla z webových stránek a e-mailů, vyplněná data z formulářů, osobní certifikáty a klíče budou ztraceny. Chcete přesto hlavní heslo obnovit?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Vaše hlavní heslo bylo obnoveno.
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Stažení certifikátu
     .style = min-width: 46em
+    .title = Stažení certifikátu
 download-cert-message = Byli jste požádáni o uznání nové certifikační autority (CA).
 download-cert-trust-ssl =
     .label = Uznat tuto CA pro identifikaci serverů.
@@ -52,8 +52,6 @@ download-cert-view-text = Zobrazit certifikát CA
 
 client-auth-window =
     .title = Požadavek na identifikaci uživatele
-client-auth-site-description = Tato stránka vyžaduje vaši identifikaci certifikátem:
-client-auth-choose-cert = Vyberte certifikát, který vás identifikuje:
 client-auth-send-no-certificate =
     .label = Neodesílat certifikát
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Přihlaste se prosím k bezpečnostnímu zařízení ({ $tokenName }). Způsob přihlášení závisí na konkrétním zařízení (například pomocí čtečky otisků prstů nebo zadáním kódu na klávesnici).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Ověřte prosím token „{ $tokenName }“. Jak to udělat, závisí na tokenu (například pomocí čtečky otisků prstů nebo zadáním kódu pomocí klávesnice).

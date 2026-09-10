@@ -76,16 +76,6 @@ pdfjs-printing-not-ready = آگأہی: یہ پی ڈی ایف چُھ نْہ پ�
 
 ## Tooltips and alt text for side panel toolbar buttons
 
-pdfjs-toggle-sidebar-button =
-    .title = ٹوگل سایِڈ بار
-pdfjs-toggle-sidebar-button-label = ٹوگل سایِڈ بار
-pdfjs-document-outline-button-label = دستاەیزن ھِنز آوٹلاین
-pdfjs-attachments-button =
-    .title = اٹیچمینٹ ہأیو
-pdfjs-attachments-button-label = اٹیچمینٹ
-pdfjs-thumbs-button =
-    .title = تھمبنیلس ھآویو
-pdfjs-thumbs-button-label = تھمبنیلس
 pdfjs-findbar-button =
     .title = دستاویزس منز وْچھیو
 

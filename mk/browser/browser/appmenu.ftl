@@ -17,8 +17,6 @@ appmenuitem-downloads =
     .label = Преземања
 appmenuitem-passwords =
     .label = Лозинки
-appmenuitem-addons-and-themes =
-    .label = Додатоци и теми
 appmenuitem-print =
     .label = Печати…
 appmenuitem-find-in-page =
@@ -55,14 +53,9 @@ appmenu-remote-tabs-opensettings =
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Сакате да ги видите вашите јазичиња од други уреди овде?
 appmenuitem-fxa-toolbar-sync-now2 = Синхронизирај сега
-appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-fxa-signed-in-label = Најавете се
 appmenuitem-save-page =
     .label = Сними страница како…
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Што е ново
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click

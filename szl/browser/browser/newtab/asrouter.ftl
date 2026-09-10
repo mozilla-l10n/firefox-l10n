@@ -64,17 +64,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Miyj swoje zokłodki wszyńdzie zsynchrōnizowane.
-cfr-doorhanger-bookmark-fxa-body = Terozki już nigdy niy ôstaniesz bez tyj zokłodki na swojich maszinach. Napocznij używać { -fxaccount-brand-name(case: "gen") }.
 cfr-doorhanger-bookmark-fxa-link-text = Synchrōnizuj swoje zokłodki…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Knefel zawiyranio
     .title = Zawrzij
-
-## Protections panel
-
-cfr-protections-panel-header = Przeglōndej tak, coby żodyn na ciebie niy filowoł
-cfr-protections-panel-body = Trzimej swoje dane ino do sia. { -brand-short-name } brōni cie ôd mocki śledzōncych elemyntōw, co filujōm na ciebie, jak żeś je w internecie.
-cfr-protections-panel-link-text = Przewiydz sie wiyncyj
 
 ## What's New toolbar button and panel
 

@@ -2,23 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-option-always =
-    .label = Tojòrn
 pane-general-title = G·ènèrâl
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = Reçua
-category-home =
-    .tooltiptext = { pane-home-title }
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 close-button =
     .aria-label = Sarrar
 
@@ -31,15 +18,9 @@ cancel-no-restart-button = Anular
 always-check-default =
     .label = Tojòrn vèrifiar que { -brand-short-name } est lo navìgatòr prèsèlèccionâ
     .accesskey = T
-browser-containers-settings =
-    .label = Règllajos...
-    .accesskey = R
 
 ## General Section - Files and Applications
 
-download-always-ask-where =
-    .label = Tojòrn demandar onte sarvar los fôlyos
-    .accesskey = T
 applications-always-ask =
     .label = Tojòrn demandar
 # Variables:
@@ -51,8 +32,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -66,7 +45,6 @@ applications-use-other-label =
 
 ## Accessibility page
 
-browsing-title = Navìgacion
 browsing-group =
     .label = Navìgacion
 
@@ -80,11 +58,6 @@ home-homepage-custom-url =
 search-remove-engine =
     .label = Garar
     .accesskey = G
-
-## Containers Section
-
-containers-remove-button =
-    .label = Garar
 
 ##
 
@@ -101,20 +74,5 @@ sync-device-name-cancel =
 ## Privacy Section - History
 
 history-clear-on-close-settings =
-    .label = Règllajos
-    .accesskey = R
-
-## Privacy Section - Permissions
-
-permissions-location-settings =
-    .label = Règllajos
-    .accesskey = R
-permissions-camera-settings =
-    .label = Règllajos
-    .accesskey = R
-permissions-microphone-settings =
-    .label = Règllajos
-    .accesskey = R
-permissions-notification-settings =
     .label = Règllajos
     .accesskey = R

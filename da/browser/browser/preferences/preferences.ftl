@@ -2,13 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Send websteder signalet 'Spor mig ikke' ('Do not track') for at fortælle, at du ikke vil spores
-do-not-track-removal = Vi understøtter ikke længere "Spor mig ikke"-signalet
-do-not-track-learn-more = Læs mere
-do-not-track-option-default-content-blocking-known =
-    .label = Kun når { -brand-short-name } er indstillet til at blokere kendte sporings-teknologier
-do-not-track-option-always =
-    .label = Altid
 global-privacy-control-description =
     .label = Fortæl websteder, at de ikke skal sælge eller dele mine data
     .accesskey = s
@@ -18,7 +11,6 @@ do-not-track-removal3 =
     .message = Vi understøtter ikke længere "Spor mig ikke"-funktionen.
 non-technical-privacy-heading =
     .label = Yderligere beskyttelse
-non-technical-privacy-header = Privatlivsindstillinger for websted
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -47,8 +39,6 @@ tls-key-logging-notice-nav =
 category-list =
     .aria-label = Kategorier
 pane-general-title = Generelt
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = Hjem
 pane-home-startup-title2 = Startside og opstart
     .title = Startside og opstart
@@ -56,21 +46,11 @@ pane-search-title2 = Søgning
     .title = Søgning
 pane-privacy-title3 = Privatliv og sikkerhed
     .title = Privatliv og sikkerhed
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = Søgning
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = Privatliv og sikkerhed
-pane-privacy-title = Privatliv & sikkerhed
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Synkronisering
 pane-ai-controls-title2 = AI-indstillinger
     .title = AI-indstillinger
-category-sync3 =
-    .tooltiptext = { pane-sync-title3 }
 pane-about-firefox-title = Om { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Udseende
@@ -87,19 +67,9 @@ preferences-languages-header3 =
     .heading = Sprog
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-pane-experimental-title = { -brand-short-name }-eksperimenter
-category-experimental =
-    .tooltiptext = { -brand-short-name }-eksperimenter
-pane-experimental-subtitle = Fortsæt på eget ansvar
-pane-experimental-search-results-header = { -brand-short-name }-eksperimenter: Fortsæt på eget ansvar
-pane-experimental-description2 = Ændring af avancerede indstillinger for opsætning kan påvirke ydelse eller sikkerhed for { -brand-short-name }.
-settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-pane-labs-header =
     .heading = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Prøv vores eksperimentelle funktioner! De er under udvikling og bliver ændret løbende, hvilket kan påvirke, hvordan { -brand-short-name } virker. Vi modtager kun data om din brug af disse funktioner, hvis du har sagt ja til at dele <a data-l10n-name="data-collection">tekniske data og data om brug</a>.
-pane-experimental-description3 = Prøv vores eksperimentelle funktioner! De er under udvikling og ændres løbende, hvilket kan have indflydelse på, hvordan { -brand-short-name } fungerer.
 pane-experimental-reset =
     .label = Gendan standarder
     .accesskey = G
@@ -107,8 +77,6 @@ help-button-label2 = Hjælp til { -brand-short-name }
     .title = Hjælp til { -brand-short-name }
 addons-button-label2 = Udvidelser og temaer
     .title = Udvidelser og temaer
-help-button-label = Hjælp til { -brand-short-name }
-addons-button-label = Udvidelser og temaer
 focus-search =
     .key = f
 close-button =
@@ -172,15 +140,9 @@ search-results-help-link = Har du brug for hjælp? Besøg <a data-l10n-name="url
 
 ## General Section
 
-startup-header = Opstart
 always-check-default =
     .label = Undersøg altid om { -brand-short-name } er min standardbrowser
     .accesskey = U
-is-default = { -brand-short-name } er sat som din standardbrowser
-is-not-default = { -brand-short-name } er ikke din standardbrowser
-set-as-my-default-browser =
-    .label = Sæt som standard…
-    .accesskey = D
 startup-restore-windows-and-tabs =
     .label = Åbn tidligere vinduer og faneblade
     .accesskey = t
@@ -190,16 +152,11 @@ windows-launch-on-login =
     .label = Åbn { -brand-short-name } automatisk når din computer starter
     .accesskey = a
 windows-launch-on-login-disabled = Denne indstilling er blevet deaktiveret i Windows. Gå til <a data-l10n-name="startup-link">Apps > Start</a> i Indstillinger for at ændre den.
-windows-launch-on-login-profile-disabled = Aktiver denne indstilling ved at sætte flueben ud for "{ profile-manager-use-selected.label }" i vinduet "Vælg din brugerprofil".
-startup-restore-warn-on-quit =
-    .label = Advar mig, når jeg lukker browseren
 disable-extension =
     .label = Deaktiver udvidelse
 preferences-data-migration-group =
     .description = Tag dine bogmærker, adgangskoder, udvidelser, data til autofyldning og din historik med dig fra en anden browser.
     .label = Importer browserdata
-preferences-data-migration-header = Importer browserdata
-preferences-data-migration-description = Importer bogmærker, adgangskoder, historik og data til autofyldning til { -brand-short-name }.
 preferences-data-migration-button =
     .label = Importer data
     .accesskey = m
@@ -210,9 +167,6 @@ preferences-profiles-subpane-description =
 preferences-profiles-section-header =
     .description = Hver profil har forskellige browsing-data og -indstillinger, inklusive historik, adgangskoder med mere.
     .label = Profiler
-preferences-profiles-header = Profiler
-preferences-manage-profiles-description = Hver profil har forskellige browsing-data og -indstillinger, inklusive historik, adgangskoder med mere.
-preferences-manage-profiles-learn-more = Læs mere
 preferences-manage-profiles-button =
     .label = Håndter profiler
 preferences-profiles-settings-button =
@@ -245,7 +199,6 @@ tabs-containers-heading =
     .label = Kontekster
 tabs-closing-heading =
     .label = Lukning
-tabs-group-header = Faneblade
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tabulator-tasten skifter mellem de senest anvendte faneblade
     .accesskey = T
@@ -265,36 +218,16 @@ ask-on-close-multiple-tabs =
 ask-on-quit-with-key =
     .label = Spørg, inden jeg afslutter med { $quitKey }
     .accesskey = a
-confirm-on-close-multiple-tabs =
-    .label = Bekræft, når jeg lukker flere faneblade
-    .accesskey = B
-# This string is used for the confirm before quitting preference.
-# Variables:
-#   $quitKey (string) - the quit keyboard shortcut, and formatted
-#                       in the same manner as it would appear,
-#                       for example, in the File menu.
-confirm-on-quit-with-key =
-    .label = Bekræft, inden jeg afslutter med { $quitKey }
-    .accesskey = a
 warn-on-open-many-tabs =
     .label = Advar mig, hvis jeg åbner flere faneblade, som kan gøre { -brand-short-name } langsommere
     .accesskey = å
-switch-to-new-tabs =
-    .label = Skift fokus til det nye faneblad, når jeg åbner et link, billede eller medie i det
-    .accesskey = S
 show-tabs-in-taskbar =
     .label = Vis forhåndsvisning for faneblade på Windows Proceslinje
     .accesskey = W
 browser-containers-enabled-2 =
     .label = Brug kontekst-faneblade
     .accesskey = k
-browser-containers-enabled =
-    .label = Aktiver kontekst-faneblade
-    .accesskey = A
 browser-containers-learn-more = Læs mere
-browser-containers-settings =
-    .label = Indstillinger…
-    .accesskey = n
 containers-disable-alert-title = Luk alle kontekst-faneblade?
 startup-group =
     .label = Opstart
@@ -342,22 +275,10 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .description = Få hurtig adgang til bogmærker, faneblade fra din telefon, AI-chatbots og mere uden at forlade din primære visning.
     .label = Vis sidepanel
-browser-layout-header = Browser-layout
-browser-layout-horizontal-tabs =
-    .label = Vandrette faneblade
-browser-layout-horizontal-tabs-desc = Vises øverst i browseren
-browser-layout-vertical-tabs =
-    .label = Lodrette faneblade
-browser-layout-vertical-tabs-desc = Vis i siden, i sidepanelet
-browser-layout-show-sidebar =
-    .label = Vis sidepanel
-browser-layout-show-sidebar-desc = Få hurtig adgang til bogmærker, faneblade fra din telefon, AI-chatbots og mere uden at forlade din primære visning.
 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Sprog og udseende
-preferences-web-appearance-header = Websteds-udseende
-preferences-web-appearance-description = Nogle websteder tilpasser deres farvetema efter dine præferencer. Vælg, hvilket farvetema, du ønsker at bruge til disse websteder.
 preferences-web-appearance-choice-light2 =
     .label = Lyst
     .title = Brug lyst udseende for websteders baggrund og indhold.
@@ -366,21 +287,6 @@ preferences-web-appearance-choice-dark2 =
     .title = Brug mørkt udseende for websteders baggrund og indhold.
 web-appearance-group =
     .aria-label = Websteds-udseende
-preferences-web-appearance-choice-auto = Automatisk
-preferences-web-appearance-choice-light = Lyst
-preferences-web-appearance-choice-dark = Mørkt
-preferences-web-appearance-choice-tooltip-auto =
-    .title = Skift automatisk websteders baggrund og indhold baseret på dine systemindstillinger og  { -brand-short-name }-tema.
-preferences-web-appearance-choice-tooltip-light =
-    .title = Brug lyst udseende for websteders baggrund og indhold.
-preferences-web-appearance-choice-tooltip-dark =
-    .title = Brug mørkt udseende for websteders baggrund og indhold.
-preferences-web-appearance-choice-input-auto =
-    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
-preferences-web-appearance-choice-input-light =
-    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
-preferences-web-appearance-choice-input-dark =
-    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning3 =
@@ -392,14 +298,6 @@ preferences-contrast-control-group =
     .label = Websteds-kontrast
 preferences-contrast-control-radio-group =
     .label = Erstat farver
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning = Dine farvevalg tilsidesætter webstedets udseende. <a data-l10n-name="colors-link">Håndter farver</a>
-# This message contains one link. It can be moved within the sentence as needed
-# to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = Håndter { -brand-short-name }-temaer i <a data-l10n-name="themes-link">Udvidelser og temaer</a>
-preferences-contrast-control-header = Kontrastkontrol
-preferences-contrast-control-description = Websteder har alle mulige farver i forgrunden og baggrunden. Indstil { -brand-short-name } til at bruge de samme farver på alle websteder for at gøre det nemmere at læse tekst.
 preferences-contrast-control-use-platform-settings =
     .label = Automatisk (brug systemets indstillinger)
     .accesskey = A
@@ -412,27 +310,13 @@ preferences-contrast-control-custom =
 preferences-colors-manage-button2 =
     .label = Håndter farver
     .accesskey = f
-preferences-colors-header = Farver
-preferences-colors-description = Tilsidesæt { -brand-short-name }' standardfarver for tekst, websteds-baggrunde og links.
 preferences-colors-manage-button =
     .label = Håndter farver…
     .accesskey = f
 preferences-fonts-header2 =
     .label = Skrifttyper
-preferences-fonts-header = Skrifttyper
-default-font = Standardskrifttype:
-    .accesskey = k
-default-font-size = Størrelse:
-    .accesskey = t
-advanced-fonts =
-    .label = Avanceret…
-    .accesskey = v
 preferences-default-zoom-label =
     .label = Standard-zoom
-    .accesskey = z
-# Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = Zoom
-preferences-default-zoom = Standard-zoom
     .accesskey = z
 # Variables:
 #   $percentage (number) - Zoom percentage value
@@ -441,8 +325,6 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Zoom kun tekst
     .accesskey = t
-preferences-text-zoom-override-warning =
-    .message = Advarsel: Hvis du vælger "Zoom kun tekst" og din standard-indstilling for zoom ikke er sat til 100%, kan det medføre at nogle websteder eller indhold ikke fungerer korrekt.
 language-header = Sprog
 choose-language-description = Vælg dit foretrukne sprog at få vist sider i
 website-language-heading =
@@ -483,13 +365,7 @@ browser-language-preferred-label =
     .label = Foretrukket sprog
 browser-language-install-error =
     .message = { -brand-short-name } kan ikke opdatere dine sprog lige nu. Kontrollér din internetforbindelse eller prøv igen.
-translate-web-pages =
-    .label = Oversæt webindhold
-    .accesskey = O
 fx-translate-web-pages = { -translations-brand-name }
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = Oversættelser af <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Undtagelser…
     .accesskey = n
@@ -577,23 +453,6 @@ download-save-where-3 =
 download-always-ask-where2 =
     .label = Spørg mig, hvor filer skal gemmes, inden de hentes
     .accesskey = p
-download-header = Filhentning
-download-save-where = Gem filer i:
-    .accesskey = m
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Vælg…
-           *[other] Gennemse…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] æ
-           *[other] e
-        }
-download-always-ask-where =
-    .label = Spørg mig altid, hvor filer skal gemmes
-    .accesskey = a
 applications-header = Programmer
 applications-description = Vælg, hvordan { -brand-short-name } håndterer hentede filer og eksterne programmer.
 applications-setting2 =
@@ -644,10 +503,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Brug { $plugin-name } (i { -brand-short-name })
 applications-open-inapp =
     .label = Åbn i { -brand-short-name }
 
@@ -655,8 +510,6 @@ applications-open-inapp =
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -689,13 +542,10 @@ applications-ask-before-handling2 =
     .accesskey = p
 drm-group =
     .label = Indhold beskyttet af digital rettigheds-styring (DRM)
-drm-content-header = Indhold beskyttet af digital rettigheds-styring (DRM)
 play-drm-content =
     .label = Afspil DRM-kontrolleret indhold
     .accesskey = A
 play-drm-content-learn-more = Læs mere
-update-application-title = { -brand-short-name }-opdateringer
-update-application-description = Hold { -brand-short-name } opdateret for at få den bedste ydelse, stabilitet og sikkerhed.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Version { $version }. <a data-l10n-name="learn-more">Nyheder</a>
@@ -706,31 +556,11 @@ update-application-installation =
     .label = Installation
 update-application-radio-group =
     .aria-label = Installation
-update-history =
-    .label = Vis opdateringshistorik…
-    .accesskey = V
-update-application-allow-description = { -brand-short-name } skal
-update-application-auto =
-    .label = installere opdateringer automatisk (anbefalet)
-    .accesskey = A
-update-application-check-choose =
-    .label = søge efter opdateringer, men lad mig vælge, om de skal installeres
-    .accesskey = S
-update-application-manual =
-    .label = aldrig søge efter opdateringer (frarådes)
-    .accesskey = N
 update-application-background-enabled =
     .label = Når { -brand-short-name } ikke kører
     .accesskey = N
 update-application-warning-cross-user-setting-2 =
     .message = Denne indstilling vil gælde alle Windows-konti og { -brand-short-name }-profiler, der anvender denne { -brand-short-name }-installation.
-update-application-warning-cross-user-setting = Denne indstilling vil gælde alle Windows-konti og { -brand-short-name }-profiler, der anvender denne { -brand-short-name }-installation.
-update-application-use-service =
-    .label = bruge en baggrundsservice til at installere opdateringer
-    .accesskey = b
-update-application-suppress-prompts =
-    .label = Vis færre meddelelser om opdatering
-    .accesskey = o
 update-setting-write-failure-title2 = Fejl under lagring af indstillinger for opdatering
 # Variables:
 #   $path (string) - Path to the configuration file
@@ -774,11 +604,6 @@ support-share-ideas =
 
 ## General Section - Performance
 
-performance-title = Ydelse
-performance-use-recommended-settings-checkbox =
-    .label = Brug de anbefalede indstillinger for ydelse
-    .accesskey = a
-performance-use-recommended-settings-desc = Disse indstillinger er skræddersyede til din computers hardware og operativsystem
 performance-settings-learn-more = Læs mere
 performance-allow-hw-accel =
     .label = Brug hardware-acceleration hvor muligt
@@ -796,9 +621,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = Browsing
-browsing-group-label =
-    .aria-label = Browsing
 browsing-use-autoscroll =
     .label = Anvend autoscrolling
     .accesskey = a
@@ -828,26 +650,20 @@ settings-media-group =
 browsing-picture-in-picture-toggle-enabled-2 =
     .label = Brug Billede-i-billede
     .accesskey = u
-browsing-picture-in-picture-toggle-enabled =
-    .label = Vis kontrol-knapper for Billede-i-billede
-    .accesskey = v
 browsing-picture-in-picture-enable-when-switching-tabs =
     .label = Fortsæt afspilning af videoer i Billede-i-billede, når du skifter faneblade
     .accesskey = s
-browsing-picture-in-picture-learn-more = Læs mere
 browsing-media-control =
     .label = Kontrollér medieindhold med tastatur, headset eller virtuelt interface
     .accesskey = v
 recommendations-group =
     .label = Anbefalinger
-browsing-media-control-learn-more = Læs mere
 browsing-cfr-recommendations =
     .label = Anbefal udvidelser mens jeg browser
     .accesskey = u
 browsing-cfr-features =
     .label = Anbefal funktioner mens jeg browser
     .accesskey = f
-browsing-cfr-recommendations-learn-more = Læs mere
 browsing-group =
     .label = Browsing
 preferences-accessibility-header =
@@ -857,12 +673,6 @@ preferences-default-zoom-select =
 
 ## General Section - Proxy
 
-network-settings-title = Forbindelsesindstillinger
-network-proxy-connection-description = Indstil hvordan { -brand-short-name } skal oprette forbindelse til internettet.
-network-proxy-connection-learn-more = Læs mere
-network-proxy-connection-settings =
-    .label = Indstillinger…
-    .accesskey = I
 network-proxy-group2 =
     .description = Indstil hvordan { -brand-short-name } skal oprette forbindelse til internettet.
     .label = Proxy-indstillinger
@@ -974,9 +784,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Gemte eller besøgte websteder
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsorerede genveje
-home-prefs-recommended-by-header =
-    .label = Anbefalet af { $provider }
-home-prefs-recommended-by-description-new = Interessant indhold udvalgt af { $provider }, en del af { -brand-product-name }-familien
 home-prefs-recommended-by-header-generic =
     .label = Anbefalede historier
 home-prefs-recommended-by-description-generic = Interessant indhold udvalgt af { -brand-product-name }-holdet
@@ -989,26 +796,15 @@ home-prefs-stories-description = Tilpassede historier baseret på din aktivitet
 home-prefs-recommended-by-learn-more = Sådan virker det
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsorerede historier
-home-prefs-recommended-by-option-recent-saves =
-    .label = Vis seneste gemte
 home-prefs-highlights-option-visited-pages =
     .label = Besøgte sider
 home-prefs-highlights-options-bookmarks =
     .label = Bogmærker
 home-prefs-highlights-option-most-recent-download =
     .label = Seneste filhentninger
-home-prefs-highlights-option-saved-to-pocket =
-    .label = Sider gemt til { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = Seneste aktivitet
 home-prefs-recent-activity-description = Et udvalg af seneste websteder og indhold
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = Notitser
-home-prefs-snippets-description-new = Tips og nyheder fra { -vendor-short-name } og { -brand-product-name }
 home-prefs-weather-header =
     .label = Vejr
 home-prefs-weather-description = Dagens vejrudsigt
@@ -1031,22 +827,6 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = Søgefelt
-search-bar-hidden =
-    .label = Brug adressefeltet til søgning og navigering
-search-bar-shown =
-    .label = Tilføj søgefeltet til værktøjslinjen
-search-engine-default-header = Standard-søgetjeneste
-search-engine-default-desc-2 = Dette er din standard-søgetjeneste i adressefeltet og søgefeltet. Du kan altid skifte den ud med en anden.
-search-engine-default-private-desc-2 = Vælg en anden søgetjeneste til brug i private vinduer.
-search-separate-default-engine =
-    .label = Brug denne søgetjeneste i private vinduer.
-    .accesskey = B
-search-suggestions-header = Søgeforslag
-search-suggestions-desc = Vælg hvordan søgeforslag fra søgetjenester skal vises.
-search-suggestions-option =
-    .label = Vis søgeforslag
-    .accesskey = s
 search-show-suggestions-option =
     .label = Vis søgeforslag
     .accesskey = s
@@ -1082,22 +862,6 @@ search-separate-default-engine-dropdown =
     .aria-label = Standard-søgetjeneste i private vinduer
 search-suggestions-header-2 =
     .label = Forslag fra søgetjenester
-# With this option enabled, on the search results page
-# the URL will be replaced by the search terms in the address bar
-# when using the current default search engine.
-search-show-search-term-option =
-    .label = Vis søgestrenge fremfor adressen på standard-søgetjenestens resultatside
-# This string describes what the user will observe when the system
-# prioritizes search suggestions over browsing history in the results
-# that extend down from the address bar. In the original English string,
-# "ahead" refers to location (appearing most proximate to), not time
-# (appearing before).
-search-show-suggestions-above-history-option =
-    .label = Vis søgeforslag før resultater fra min browserhistorik i adressefeltet
-search-show-suggestions-private-windows =
-    .label = Vis søgeforslag i private vinduer
-suggestions-addressbar-settings-generic2 = Skift indstillinger for andre forslag i adressefeltet
-search-suggestions-cant-show = Søgeforslag vil ikke blive vist i adressefeltet, fordi du har sat { -brand-short-name } op til aldrig at gemme historik.
 search-one-click-header2 = Søge-genveje
 search-one-click-desc = Vælg de alternative søgetjenester, der vises under adressefeltet og søgefeltet, når du begynder at indtaste en søgeterm.
 search-one-click-header-3 =
@@ -1156,19 +920,6 @@ search-section =
 
 ## Containers Section
 
-containers-back-button2 =
-    .aria-label = Tilbage til indstillinger
-containers-header = Kontekst-faneblade
-containers-add-button =
-    .label = Tilføj ny kontekst
-    .accesskey = T
-containers-new-tab-check =
-    .label = Vælg en kontekst for hvert nyt faneblad
-    .accesskey = V
-containers-settings-button =
-    .label = Indstillinger
-containers-remove-button =
-    .label = Fjern
 containers-section-header2 =
     .heading = Indstillinger for kontekst
 containers-card-header2 =
@@ -1249,8 +1000,6 @@ sync-mobile-promo = Hent Firefox til <img data-l10n-name="android-icon"/> <a dat
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = Skift profilbillede
 sync-profile-picture-with-alt =
     .alt = Skift profilbillede
     .tooltiptext = Skift profilbillede
@@ -1290,9 +1039,6 @@ sync-account-signed-in-display-name =
 
 ##
 
-sync-resend-verification =
-    .label = Send verifikation igen
-    .accesskey = d
 sync-verify-account =
     .label = Bekræft konto
     .accesskey = B
@@ -1319,10 +1065,6 @@ prefs-sync-turn-on-syncing-2 =
     .label = Slå synkronisering til
     .accesskey = S
 prefs-sync-offer-setup-label2 = Synkroniser din historik, dine bogmærker, faneblade, adgangskoder, tilføjelser og indstillinger på tværs af dine enheder.
-prefs-sync-now =
-    .labelnotsyncing = Synkroniser nu
-    .labelsyncing = Synkroniserer…
-    .accesskeynotsyncing = n
 prefs-sync-now-button =
     .label = Synkroniser nu
     .accesskey = n
@@ -1342,10 +1084,8 @@ sync-syncing-across-devices-heading-2 = Synkroniserede data på tværs af enhede
 sync-currently-syncing-bookmarks = Bogmærker
 sync-currently-syncing-history = Historik
 sync-currently-syncing-tabs = Åbne faneblade
-sync-currently-syncing-logins-passwords = Logins og adgangskoder
 sync-currently-syncing-passwords = Adgangskoder
 sync-currently-syncing-addresses = Adresser
-sync-currently-syncing-creditcards = Betalingskort
 sync-currently-syncing-payment-methods = Betalingsmetoder
 sync-currently-syncing-addons = Tilføjelser
 sync-currently-syncing-settings = Indstillinger
@@ -1357,20 +1097,9 @@ sync-manage-options-2 =
     .accesskey = H
 settings-sync-disconnect-button =
     .label = Afbryd
-sync-change-options =
-    .label = Skift…
-    .accesskey = S
 
 ## The "Choose what to sync" dialog.
 
-sync-choose-what-to-sync-dialog3 =
-    .buttonlabelaccept = Gem ændringer
-    .buttonlabelextra2 = Afbryd…
-    .buttonaccesskeyaccept = G
-    .buttonaccesskeyextra2 = A
-    .style = min-width: 36em;
-    .title = Vælg hvad der skal synkroniseres
-sync-choose-dialog-subtitle = Ændringer til listen med elementer, der skal synkroniseres, vil blive afspejlet på alle dine forbundne enheder.
 sync-engine-bookmarks =
     .label = Bogmærker
     .accesskey = B
@@ -1381,10 +1110,6 @@ sync-engine-tabs =
     .label = Åbne faneblade
     .tooltiptext = En liste over åbne faneblade på alle synkroniserede enheder
     .accesskey = f
-sync-engine-logins-passwords =
-    .label = Logins og adgangskoder
-    .tooltiptext = Gemte brugernavne og adgangskoder
-    .accesskey = L
 sync-engine-passwords =
     .label = Adgangskoder
     .tooltiptext = Gemte adgangskoder
@@ -1393,10 +1118,6 @@ sync-engine-addresses =
     .label = Adresser
     .tooltiptext = Gemte postadresser (kun til computer)
     .accesskey = A
-sync-engine-creditcards =
-    .label = Betalingskort
-    .tooltiptext = Navne, numre og udløbsdatoer (kun til computer)
-    .accesskey = e
 sync-engine-payment-methods2 =
     .label = Betalingsmetoder
     .tooltiptext = Navne, kortnumre og udløbsdatoer
@@ -1443,29 +1164,9 @@ sync-connect-another-device = Opret forbindelse til en ny enhed
 sync-connect-another-device-2 =
     .label = Opret forbindelse til en ny enhed
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = Bekræftelse er sendt
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = Et bekræftelseslink er blevet sendt til { $email }.
-sync-verification-not-sent-title = Kunne ikke sende bekræftelse
-sync-verification-not-sent-body = Det er i øjeblikket ikke muligt for os at sende en bekræftelsesmail. Prøv igen senere.
-
 ## Privacy Section
 
 privacy-header = Beskyttelse af privatliv
-
-## Privacy Section - Logins and Passwords
-
-# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = Logins og adgangskoder
-    .searchkeywords = { -lockwise-brand-short-name }
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = Spørg om at gemme logins og adgangskoder til websteder
-    .accesskey = l
 
 ## Privacy Panel Settings
 
@@ -1486,9 +1187,6 @@ forms-manage-password-exceptions =
 forms-exceptions =
     .label = Undtagelser…
     .accesskey = U
-forms-generate-passwords =
-    .label = Hjælp med at lave stærke adgangskoder
-    .accesskey = s
 forms-suggest-passwords =
     .label = Foreslå stærke adgangskoder
     .accesskey = s
@@ -1496,19 +1194,10 @@ forms-breach-alerts =
     .label = Vis advarsler om adgangskoder for hackede websteder
     .accesskey = a
 forms-breach-alerts-learn-more-link = Læs mere
-preferences-relay-integration-checkbox =
-    .label = Foreslå { -relay-brand-name }-mail-masker for at beskytte din mailadresse
 preferences-relay-integration-checkbox2 =
     .label = Foreslå { -relay-brand-name }-mail-masker for at beskytte din mailadresse
     .accesskey = F
 relay-integration-learn-more-link = Læs mere
-# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
-forms-fill-logins-and-passwords =
-    .label = Autofyld logins og adgangskoder
-    .accesskey = i
-forms-saved-logins =
-    .label = Gemte logins…
-    .accesskey = G
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-usernames-and-passwords =
     .label = Udfyld brugernavne og adgangskoder automatisk
@@ -1590,20 +1279,6 @@ autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
-pane-privacy-autofill-header = Autofyld
-autofill-addresses-checkbox = Gem og udfyld adresser
-    .accesskey = u
-autofill-saved-addresses-button = Gemte adresser
-    .accesskey = G
-autofill-payment-methods-checkbox-message = Gem og udfyld betalingsmetoder
-    .accesskey = b
-autofill-payment-methods-checkbox-submessage = Inkluder kredit- og debetkort
-    .accesskey = n
-autofill-saved-payment-methods-button = Gemte betalingsmetoder
-    .accesskey = m
-# This operation requires the user to authenticate with the operating system (device sign-in)
-autofill-reauth-payment-methods-checkbox = Kræv login på enhed for at udfylde og håndtere betalingsmetoder
-    .accesskey = o
 autofill-payment-methods-header =
     .aria-label = Betalingsmetoder
 autofill-payment-methods-checkbox-message-2 =
@@ -1692,24 +1367,6 @@ payments-group =
 
 ## Privacy Section - History
 
-history-header = Historik
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } vil:
-    .accesskey = i
-history-remember-option-all =
-    .label = Gemme historik
-history-remember-option-never =
-    .label = Aldrig gemme historik
-history-remember-option-custom =
-    .label = Bruge tilpassede indstillinger for historik
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } vil huske din historik, dine filhentninger samt søgninger og data, du har indtastet i formularer.
@@ -1719,8 +1376,6 @@ history-dontremember-description4 =
 history-custom-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } vil bruge tilpassede indstillinger for browsing og filhentninger, samt historik for formularer og søgning.
-history-remember-description = { -brand-short-name } vil huske din historik, dine filhentninger samt søgninger og data, du har indtastet i formularer.
-history-dontremember-description = { -brand-short-name } vil bruge de samme indstillinger som privat browsing, og vil ikke gemme nogen historik, mens du surfer på nettet.
 history-private-browsing-permanent =
     .label = Brug altid privat browsing-tilstand
     .accesskey = P
@@ -1750,45 +1405,23 @@ history-remember-option-all2 =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Cookies og websteds-data
 sitedata-total-size-calculating = Udregner størrelse på cache og websteds-data…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = Websteder bruger lige nu <strong>{ $value } { $unit } </strong> diskplads.
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Dine gemte cookies, websteds-data og cache bruger lige nu { $value } { $unit } diskplads.
 sitedata-learn-more = Læs mere
 sitedata-delete-on-close2 =
     .label = Ryd cookies og websteds-data hver gang du lukker { -brand-short-name }
     .accesskey = R
-sitedata-delete-on-close =
-    .label = Slet cookies og websteds-data, når { -brand-short-name } lukkes
-    .accesskey = l
 sitedata-delete-on-close-private-browsing3 =
     .message = På baggrund af dine indstillinger for historik sletter { -brand-short-name } cookies og webstedsdata fra din session, når du lukker browseren.
-sitedata-delete-on-close-private-browsing = I permanent privat browsing-tilstand bliver cookies og webstedsdata altid slettet, når { -brand-short-name } afsluttes.
-sitedata-delete-on-close-private-browsing2 = På baggrund af dine indstillinger for historik sletter { -brand-short-name } cookies og webstedsdata fra din session, når du lukker browseren.
-sitedata-allow-cookies-option =
-    .label = Accepter cookies og websteds-data
-    .accesskey = A
-sitedata-disallow-cookies-option =
-    .label = Bloker cookies og websteds-data
-    .accesskey = B
-# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
-# The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = Type blokeret
-    .accesskey = T
 sitedata-option-block-cross-site-trackers =
     .label = Sporings-teknologier på tværs af websteder
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Sporings-cookies på tværs af websteder
 sitedata-option-block-cross-site-cookies2 =
     .label = Isoler cookies på tværs af websteder
-sitedata-option-block-cross-site-cookies =
-    .label = Sporings-cookies på tværs af websteder, og isolér andre cookies på tværs af websteder
 sitedata-option-block-unvisited =
     .label = Cookies fra ikke-besøgte websteder
 sitedata-option-block-all-cross-site-cookies =
@@ -1801,12 +1434,6 @@ sitedata-clear2 =
 sitedata-settings2 =
     .label = Håndter browserdata
     .accesskey = b
-sitedata-clear =
-    .label = Ryd data…
-    .accesskey = R
-sitedata-settings =
-    .label = Håndter data…
-    .accesskey = H
 sitedata-cookies-exceptions =
     .label = Håndter undtagelser…
     .accesskey = u
@@ -1820,32 +1447,16 @@ sitedata-heading =
 cookies-site-data-group =
     .label = Cookies og websteds-data
 
-## Privacy Section - Cookie Banner Handling
-
-cookie-banner-handling-header = Reduktion af cookie-bannere
-cookie-banner-handling-description = { -brand-short-name } forsøger automatisk at afvise cookie-anmodninger på cookie-bannere på understøttede websteder.
-
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Blokering af cookie-bannere
 cookie-banner-blocker-description = Når et websted spørger om det må bruge cookies i privat browsing-tilstand, så afviser { -brand-short-name } anmodningen automatisk for dig. Kun på understøttede websteder.
 cookie-banner-learn-more = Læs mere
-forms-handle-cookie-banners =
-    .label = Færre cookie-bannere
 cookie-banner-blocker-checkbox-label =
     .label = Afvis automatisk cookie-bannere
 
 ## Search Section
 
-addressbar-header = Adressefelt
-addressbar-suggest = Når jeg bruger adressefeltet ønsker jeg forslag fra
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest = Adressefelt — { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest = Vælg hvilken slags forslag, du vil have vist i adressefeltet.
-# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
-# `addressbar-suggest-firefox-suggest`.
-addressbar-locbar-firefox-suggest-learn-more = Læs mere
 addressbar-locbar-history-option =
     .label = Historik
     .accesskey = H
@@ -1868,9 +1479,6 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option-1 =
     .label = Forslag til søgetjenester
     .accesskey = a
-addressbar-locbar-engines-option =
-    .label = Søgetjenester
-    .accesskey = S
 addressbar-locbar-quickactions-option =
     .label = Hurtige handlinger
     .accesskey = H
@@ -1887,20 +1495,6 @@ addressbar-locbar-suggest-all-option-2 =
 addressbar-locbar-suggest-sponsored-option-2 =
     .description = Støt { -brand-short-name } med lejlighedsvise sponsorerede forslag.
     .label = Forslag fra sponsorer
-addressbar-suggestions-settings = Skift indstillinger for søgeforslag
-addressbar-locbar-showrecentsearches-option =
-    .label = Vis seneste søgninger
-    .accesskey = s
-addressbar-locbar-showtrendingsuggestions-option =
-    .label = Vis populære søgeforslag
-    .accesskey = p
-# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
-addressbar-locbar-suggest-nonsponsored-option =
-    .label = Forslag fra { -brand-short-name }
-addressbar-locbar-suggest-nonsponsored-desc = Få forslag fra internettet relateret til din søgning.
-addressbar-locbar-suggest-sponsored-option =
-    .label = Forslag fra sponsorer
-addressbar-locbar-suggest-sponsored-desc = Støt { -brand-short-name } med lejlighedsvise sponsorerede forslag.
 # This string is used for a checkbox in the settings UI that opts the
 # user into "online" Firefox Suggest, allowing them to receive suggestions from
 # Mozilla's Merino server.
@@ -1914,11 +1508,6 @@ addressbar-dismissed-suggestions-label-2 =
     .label = Afviste forslag
 addressbar-restore-dismissed-suggestions-button-2 =
     .label = Gendan forslag
-addressbar-quickactions-learn-more = Læs mere
-addressbar-dismissed-suggestions-label = Afviste forslag
-addressbar-restore-dismissed-suggestions-description = Gendan afviste forslag fra sponsorer og { -brand-short-name }.
-addressbar-restore-dismissed-suggestions-button =
-    .label = Gendan
 
 ## Privacy Section - Content Blocking
 
@@ -1956,7 +1545,6 @@ content-blocking-cross-site-cookies-in-all-windows2 = Cookies på tværs af webs
 content-blocking-cross-site-tracking-cookies = Sporings-cookies på tværs af websteder
 content-blocking-all-cross-site-cookies-private-windows = Cookies på tværs af websteder i private vinduer
 content-blocking-isolate-cross-site-cookies = Isoler cookies på tværs af websteder
-content-blocking-cross-site-tracking-cookies-plus-isolate = Sporings-cookies på tværs af websteder, isolering af resterende cookies.
 content-blocking-social-media-trackers = Sporing via sociale medier
 content-blocking-all-cookies = Alle cookies
 content-blocking-unvisited-cookies = Cookies fra ikke-besøgte websteder
@@ -1972,12 +1560,10 @@ content-blocking-known-and-suspected-fingerprinters = Kendte og formodede finger
 content-blocking-etp-standard-tcp-rollout-description = Komplet Cookiebeskyttelse begrænser cookies til det websted, du befinder dig på. Så kan sporingsmekanismer ikke følge dig på tværs af websteder.
 content-blocking-etp-standard-tcp-rollout-learn-more = Læs mere
 content-blocking-etp-standard-tcp-title = Inkluderer Komplet Cookiebeskyttelse - vores hidtil stærkeste privatlivs-beskyttelse
-content-blocking-warning-title = Vigtigt!
 content-blocking-warning-title-2 = Nogle websteder fungerer muligvis ikke som de skal, når striks beskyttelse mod sporing er slået til
 content-blocking-warning-title-custom = Nogle websteder fungerer muligvis ikke som de skal, når tilpasset beskyttelse mod sporing er slået til
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } anbefaler, at du bruger indstillingerne "Løs problemer med websted" for at reducere problemer med websteder, der ikke virker som de skal. Hvis et websted ikke virker som forventet, så prøv at slå beskyttelse mod sporing fra for webstedet for at indlæse alt indhold.
-content-blocking-and-isolating-etp-warning-description-2 = Denne indstilling kan medføre, at nogle websteder ikke viser indhold eller ikke fungerer som de skal. Hvis et websted ikke ser ud til at fungere korrekt, så prøv at slå beskyttelse mod sporing fra for webstedet for at indlæse alt indhold.
 content-blocking-warning-learn-how = Læs hvordan
 content-blocking-baseline-exceptions-3 =
     .description = Hjælper med at indlæse websteder og funktioner ved at ophæve blokeringen af vigtige elementer, der kan indeholde sporings-mekanismer. Kan løse de mest almindelige problemer.
@@ -2003,7 +1589,6 @@ content-blocking-tracking-protection-option-all-windows =
 content-blocking-option-private =
     .label = Kun i private vinduer
     .accesskey = p
-content-blocking-tracking-protection-change-block-list = Skift blokeringsliste
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
@@ -2013,11 +1598,6 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = Cryptominers
     .accesskey = y
-# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
-# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
-content-blocking-fingerprinters-label =
-    .label = Fingerprinters
-    .accesskey = F
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 #
@@ -2039,42 +1619,11 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = Tilladelser
-permissions-location = Position
-permissions-location-settings =
-    .label = Indstillinger…
-    .accesskey = I
-permissions-xr = Virtual reality
-permissions-xr-settings =
-    .label = Indstillinger…
-    .accesskey = I
-permissions-camera = Kamera
-permissions-camera-settings =
-    .label = Indstillinger…
-    .accesskey = I
-permissions-microphone = Mikrofon
-permissions-microphone-settings =
-    .label = Indstillinger…
-    .accesskey = I
-# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
-permissions-speaker = Valg af højtaler
-permissions-speaker-settings =
-    .label = Indstillinger…
-    .accesskey = I
-permissions-notification = Beskeder
-permissions-notification-settings =
-    .label = Indstillinger…
-    .accesskey = I
-permissions-notification-link = Læs mere
 permissions-notification-pause =
     .label = Sæt beskeder på pause, indtil { -brand-short-name } starter igen
     .accesskey = b
 permissions-autoplay2 =
     .label = Automatisk afspilning
-permissions-autoplay = Automatisk afspilning
-permissions-autoplay-settings =
-    .label = Indstillinger…
-    .accesskey = I
 permissions-block-popups2 =
     .label = Bloker pop op-vinduer og tredjeparts-omdirigeringer
     .accesskey = B
@@ -2091,21 +1640,6 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Vælg hvilke websteder, som kan installere udvidelser
     .accesskey = u
-permissions-block-popups =
-    .label = Bloker pop op-vinduer
-    .accesskey = B
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button =
-    .label = Undtagelser
-    .searchkeywords = Pop op-vinduer
-    .accesskey = U
-permissions-addon-install-warning =
-    .label = Advar mig når websteder forsøger at installere tilføjelser
-    .accesskey = A
-permissions-addon-exceptions =
-    .label = Undtagelser…
-    .accesskey = U
 permissions-location2 =
     .label = Position
 permissions-localhost2 =
@@ -2130,44 +1664,12 @@ pane-permissions-data-title2 = Tilladelser og data
 
 ## Privacy Section - Data Collection
 
-collection-header = Indsamling og brug af data i { -brand-short-name }
-collection-header2 = Indsamling og brug af data i { -brand-short-name }
-    .searchkeywords = telemetry
-preferences-collection-description = Vi stræber efter at give dig mulighed for at vælge og indsamler kun data, der er nødvendige for at forbedre { -brand-product-name } for alle.
-preferences-collection-privacy-notice = Se privatlivserklæring
-preferences-across-profiles = Disse indstillinger vil gælde alle { -brand-product-name }-profiler på denne enhed.
-preferences-view-profiles = Vis alle profiler
-collection-description = Vi stræber efter at give dig mulighed for selv at vælge og indsamler kun, hvad vi har brug for til at forbedre { -brand-short-name } for alle. Vi spørger altid om din tilladelse, før vi modtager personlig information.
-collection-privacy-notice = Privatlivserklæring
-collection-health-report-telemetry-disabled = Du tillader ikke længere, at { -vendor-short-name } indsamler teknisk data og data om brug. Alle tidligere data vil blive slettet indenfor 30 dage.
-collection-health-report-telemetry-disabled-link = Læs mere
 nimbus-rollouts =
     .description = Ændringerne vil blive implementeret eksternt.
     .label = Tillad, at { -brand-short-name } forbedrer funktioner, ydeevne og stabilitet mellem opdateringer
 addon-recommendations3 =
     .description = Få anbefalinger om udvidelser, der kan forbedre din oplevelse på nettet.
     .label = Tillad tilpassede anbefalinger af udvidelser
-collection-usage-ping =
-    .label = Send ping for dagligt brug til { -vendor-short-name }
-    .accesskey = b
-collection-usage-ping-description = Dette hjælper { -vendor-short-name } med at vurdere antallet af aktive brugere.
-collection-health-report2 =
-    .label = Send tekniske data og data om brug til { -vendor-short-name }
-    .accesskey = r
-collection-health-report =
-    .label = Tillad at { -brand-short-name } indsender tekniske data og data om brug til { -vendor-short-name }
-    .accesskey = d
-collection-health-report-link = Læs mere
-collection-health-report-description = Dette hjælper os med at forbedre funktionerne i { -brand-product-name } samt ydelse og stabilitet.
-collection-studies2 =
-    .label = Installer og kør undersøgelser
-collection-studies-description = Prøv nye funktioner og idéer, før de bliver tilgængelige for alle.
-collection-studies =
-    .label = Tillad at { -brand-short-name } installerer og afvikler undersøgelser
-collection-studies-link = Vis { -brand-short-name }-undersøgelser
-addon-recommendations2 =
-    .label = Tillad tilpassede anbefalinger af udvidelser
-addon-recommendations-description = Få anbefalinger om udvidelser, der kan forbedre din oplevelse på nettet.
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = Data-rapportering er deaktiveret for denne build-konfiguration.
@@ -2177,14 +1679,6 @@ collection-backlogged-crash-reports2 =
 collection-backlogged-crash-reports-description = Dette hjælper { -vendor-short-name } med at diagnosticere og løse problemer med browseren. Rapporter kan indeholde personlige eller følsomme data.
 settings-redesign-promo-dismiss-button =
     .label = Forstået
-addon-recommendations =
-    .label = Tillad at { -brand-short-name } anbefaler udvidelser specielt udvalgt til dig
-addon-recommendations-link = Læs mere
-# This message is displayed above disabled data sharing options in developer builds
-# or builds with no Telemetry support available.
-collection-health-report-disabled = Data-rapportering er deaktiveret for denne build-konfiguration
-collection-backlogged-crash-reports-with-link = Tillad at { -brand-short-name } sender ophobede fejlrapporter på dine vegne <a data-l10n-name="crash-reports-link">Læs mere</a>
-    .accesskey = o
 privacy-segmentation-section-header = Nye funktioner, der forbedrer din browsing
 privacy-segmentation-section-description = Når vi tilbyder funktioner, der brugere dine data til at give dig en mere personlig oplevelse:
 privacy-segmentation-radio-off =
@@ -2216,21 +1710,12 @@ data-collection-usage-ping =
     .label = Send ping for dagligt brug til { -vendor-short-name }
     .accesskey = b
 
-## Privacy Section - Website Advertising Preferences
-
-website-advertising-header = Indstillinger for webstedsannoncering
-website-advertising-private-attribution =
-    .label = Tillad websteder at udføre annoncemålinger, der respekterer brugerens privatliv
-    .accesskey = a
-website-advertising-private-attribution-description = Det hjælper websider med at forstå, hvordan deres annoncer fungerer, uden at indsamle data om dig.
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sikkerhed
-security-browsing-protection = Beskyttelse mod vildledende indhold og farlig software
 security-enable-safe-browsing =
     .label = Bloker farlige og vildledende websteder
     .accesskey = B
@@ -2244,16 +1729,6 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = Certifikater
-certs-enable-ocsp =
-    .label = Send forespørgsel til OCSP responder-servere for at bekræfte certifikaters aktuelle gyldighed
-    .accesskey = O
-certs-view =
-    .label = Vis certificater…
-    .accesskey = c
-certs-devices =
-    .label = Sikkerhedsmoduler…
-    .accesskey = S
 certs-thirdparty-toggle =
     .label = Tillad { -brand-short-name } at automatisk stole på rodcertifikater fra tredjeparter, som du installerer
     .accesskey = r
@@ -2279,19 +1754,13 @@ certs-devices2 =
 
 ## Privacy Section - HTTPS-Only
 
-httpsonly-header = Tilstanden Kun-HTTPS
-httpsonly-description3 = Tillad kun sikre forbindelser til websteder. { -brand-short-name } vil spørge, før en usikker forbindelse oprettes.
 httpsonly-learn-more2 = Sådan virker tilstanden kun-HTTPS
-httpsonly-description = HTTPS sørger for en sikker, krypteret forbindelse mellem { -brand-short-name } og de websteder, du besøger. De fleste websteder understøtter HTTPS, og hvis kun-HTTPS er slået til, så opgraderer { -brand-short-name } alle forbindelser til HTTPS.
-httpsonly-learn-more = Læs mere
 httpsonly-radio-enabled =
     .label = Slå kun-HTTPS til for alle vinduer
 httpsonly-radio-enabled-pbm =
     .label = Slå udelukkende kun-HTTPS til for private vinduer
 httpsonly-radio-disabled3 =
     .description = { -brand-short-name } kan stadig opgradere nogle forbindelser
-    .label = Slå ikke kun-HTTPS til
-httpsonly-radio-disabled =
     .label = Slå ikke kun-HTTPS til
 httpsonly-group =
     .description = Tillad kun sikre forbindelser til websteder. { -brand-short-name } vil spørge, før en usikker forbindelse oprettes.
@@ -2302,7 +1771,6 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS via HTTPS
-preferences-doh-description = DNS-opslag foretaget med DNS via HTTPS sender din forespørgsel efter et domænenavn via en krypteret forbindelse. På denne måde håndteres DNS sikkert, og det bliver sværere for andre at se, hvilket websted du har tænkt dig at besøge.
 preferences-doh-description2 = Domain Name System (DNS) via HTTPS sender din forespørgsel efter et domænenavn over en krypteret forbindelse for at sikre DNS og gøre det sværere for andre at se, hvilket websted du skal til at besøge.
 # Variables:
 #   $status (string) - The status of the DoH connection
@@ -2319,7 +1787,6 @@ preferences-doh-status-disabled = Fra
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Ikke aktiv ({ $reason })
-preferences-doh-group-message = Aktiver sikker DNS ved at bruge:
 preferences-doh-group-message2 = Aktiver DNS via HTTPS med:
 preferences-doh-radio-group =
     .aria-label = Aktiver DNS via HTTPS med:
@@ -2351,11 +1818,7 @@ preferences-doh-setting-off =
     .label = Fra
     .accesskey = F
 preferences-doh-off-desc = Brug din standard DNS-resolver
-preferences-doh-checkbox-warn =
-    .label = Advar, hvis en tredjepart aktivt forhindrer sikker DNS
-    .accesskey = A
 preferences-doh-select-resolver = Vælg udbyder:
-preferences-doh-exceptions-description = { -brand-short-name } vil ikke anvende sikker DNS på disse websteder
 preferences-doh-manage-exceptions =
     .label = Håndter undtagelser…
     .accesskey = u
@@ -2412,7 +1875,6 @@ preferences-connection-link-button =
 
 desktop-folder-name = Skrivebord
 downloads-folder-name = Hentede filer
-choose-download-folder-title = Gem filer i
 
 ## Appearance page
 

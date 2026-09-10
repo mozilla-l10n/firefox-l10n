@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = زانیاری مالپەڕ پیشان بدە
 
@@ -36,20 +31,11 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = پانێڵی پەیامی بیرگەی دەرهێڵ بکەرەوە
 urlbar-password-notification-anchor =
     .tooltiptext = پانێڵی پەیامی پاشەکەوتی وشەی تێپەڕ بکەرەوە
-urlbar-plugins-notification-anchor =
-    .tooltiptext = ڕێکخستنی ئەو پێوەکراوانەی لە کاردان
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = ڕێکخستنی بڵاوکردنەوەی کامێرا و مایکرۆفۆن لەگەڵ ئەم ماڵپەڕە
 urlbar-autoplay-notification-anchor =
     .tooltiptext = پانێڵی لێدانی خۆکار بکەرەوە
-urlbar-tip-help-icon =
-    .title = یارمەتی بەدەستبهێنە
 urlbar-search-tips-confirm = باشە، تێگەشتم
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = زانیاری:
 urlbar-result-menu-tip-get-help2 = یارمەتی بەدەستبهێنە
     .accesskey = ی
 urlbar-result-menu-tip-get-help =
@@ -78,8 +64,6 @@ urlbar-screen-blocked =
     .tooltiptext = تۆ بڵاوکردنەوەی کامێرات بۆ ئەم ماڵپەڕە بلۆک کرد.
 urlbar-persistent-storage-blocked =
     .tooltiptext = تۆ بیرگەی هەمیشەییت بۆ ئەم ماڵپەڕە بلۆک کردووە.
-urlbar-popup-blocked =
-    .tooltiptext = تۆ دەرپڕاندنەکانت بۆ ئەم ماڵپەڕە بلۆک کرد.
 urlbar-autoplay-media-blocked =
     .tooltiptext = تۆ پێکردنی خۆکاری دەنگیت بۆ ئەم ماڵپەڕە بلۆک کرد.
 # Variables
@@ -175,7 +159,6 @@ identity-custom-root = پەیوەندی سەلمێنراوە لە لایەنێک
 identity-passive-loaded = بەشێک لەم پەڕەیە پارێزراو نیە (وەک وێنەکان).
 identity-active-loaded = تۆ پارێزگاریت ناچالاک کرد بۆ ئەم پەڕەیە.
 identity-weak-encryption = ئەم پەڕە شێوازی پارێزگاری لاواز بەکاردێنێت.
-identity-insecure-login-forms = چوونەژوورەوەکان لە م پەڕەیە لەوانەیە دزەبکات.
 identity-https-only-connection-upgraded = (بەرزکرایەوە بۆ https)
 identity-https-only-dropdown-on =
     .label = کارا
@@ -191,12 +174,6 @@ identity-ev-owner-label = بڕوانامە دراوە لە لایەن:
 identity-remove-cert-exception =
     .label = سڕینەوەی هەڵاوێردی
     .accesskey = ڵ
-identity-disable-mixed-content-blocking =
-    .label = پارێزگاری ناچالاک بکە لە ئێستادا
-    .accesskey = پ
-identity-enable-mixed-content-blocking =
-    .label = پارێزگاری چالاک بکە
-    .accesskey = چ
 identity-more-info-link-text =
     .label = زانیاری زیاتر
 
@@ -277,8 +254,6 @@ urlbar-extension =
     .value = پێوەکراوەکان:
 urlbar-go-button2 =
     .title = بڕۆ بۆ ناونیشان لە توڵی شوێن
-urlbar-go-button =
-    .tooltiptext = بڕۆ بۆ ناونیشان لە توڵی شوێن
 urlbar-page-action-button =
     .tooltiptext = کردارەکانی پەڕە
 
@@ -316,20 +291,6 @@ urlbar-result-action-before-tabtosearch-web = پەنجە بنێ بە بازدە�
 urlbar-result-action-before-tabtosearch-other = پەنجە بنێ بە بازدەر بۆ گەڕان { $engine }
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = لەبەرگرتنەوە
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
-
-## Strings used for buttons in the urlbar
-
-urlbar-searchmode-bookmarks =
-    .label = دڵخوازەکان
-urlbar-searchmode-tabs =
-    .label = بازدەرەکان
-urlbar-searchmode-history =
-    .label = مێژوو
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -393,12 +354,6 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] توڵامرازی دڵخوازەکان بشارەوە
            *[other] توڵامرازی دڵخوازەکان ببینە
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] پێڕستی دڵخوازەکان بسڕەوە لە توڵامراز
-           *[other] پێڕستی دڵخوازەکان زیادبکە بۆ توڵامراز
-        }
 
 ##
 
@@ -424,12 +379,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = دڵخوازەکان
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = پاشەکەوتی بکە لە { -pocket-brand-name }
-    .tooltiptext = پاشەکەوتی بکە لە { -pocket-brand-name }
 
 ##
 
@@ -460,7 +409,6 @@ toolbar-button-new-private-window =
 
 ## Password save/update panel
 
-panel-save-update-password = وشەی تێپەڕبوون
 panel-save-update-password-2 =
     .label = وشەی تێپەڕبوون
 
@@ -487,8 +435,6 @@ navbar-accessible =
     .aria-label = ڕێدۆزی
 navbar-downloads =
     .label = داگرتنەکان
-navbar-overflow =
-    .tooltiptext = ئامرازی تر...
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

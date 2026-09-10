@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>您的預設搜尋引擎有變動。</strong>{ -brand-short-name } 已不再將 { $oldEngine } 作為預設搜尋引擎，現在起將以 { $newEngine } 做為新的預設搜尋引擎。若要改用其他的預設搜尋引擎，請到「設定」調整。<label data-l10n-name="remove-search-engine-article">了解更多</label>
 removed-search-engine-message2 = <strong>您的預設搜尋引擎有變動。</strong>{ -brand-short-name } 已不再將 { $oldEngine } 作為預設搜尋引擎，現在起將以 { $newEngine } 做為新的預設搜尋引擎。若要改用其他的預設搜尋引擎，請到「設定」調整。
 remove-search-engine-button = 確定
 
@@ -52,11 +51,11 @@ install-search-engine-no = 不要
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = 新增搜尋引擎
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = 編輯搜尋引擎
     .style = min-width: 32em;
+    .title = 編輯搜尋引擎
 add-engine-button = 新增自訂搜尋引擎
 add-engine-name = 搜尋引擎名稱
 add-engine-url2 = 網址（使用 %s 取代搜尋詞彙部分）
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = 請將 %s 放置於搜尋詞彙的位置，
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = 新增搜尋引擎
-    .buttonaccesskeyaccept = A
     .buttonlabelextra1 = 進階
+    .buttonaccesskeyaccept = A
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = 儲存搜尋引擎
-    .buttonaccesskeyaccept = S
     .buttonlabelextra1 = 進階
+    .buttonaccesskeyaccept = S

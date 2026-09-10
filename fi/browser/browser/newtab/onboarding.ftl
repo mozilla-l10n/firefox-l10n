@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Lisää { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Edistyminen: vaihe { $current }/{ $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -199,11 +193,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Kiinnitä { -brand-short-name } tehtäväpalkkiin ja Käynnistä-valikkoon
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Aloita voittoa tavoittelemattoman säätiön tukemalla selaimella. Puolustamme yksityisyyttäsi, kun selaat verkkoa.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -233,57 +222,10 @@ mr2022-onboarding-set-default-subtitle = Käytä voittoa tavoittelemattoman sä�
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Uusin versiomme on rakennettu ympärillesi; verkossa liikkuminen on helpompaa kuin koskaan. Se on täynnä ominaisuuksia, joihin uskomme sinun ihastuvan.
 mr2022-onboarding-get-started-primary-button-label = Määritä sekunneissa
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Salamannopea määritys
-mr2022-onboarding-import-subtitle = Määritä { -brand-short-name } haluamallasi tavalla. Lisää kirjanmerkkisi, salasanasi ja paljon muuta aiemmin käyttämästäsi selaimesta.
 mr2022-onboarding-import-primary-button-label-no-attribution = Tuo edellisestä selaimesta
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Valitse väri, joka inspiroi sinua
-mr2022-onboarding-colorway-subtitle = Itsenäiset äänet voivat muuttaa kulttuuria.
-mr2022-onboarding-colorway-primary-button-label-continue = Aseta ja jatka
-mr2022-onboarding-existing-colorway-checkbox-label = Tee { -firefox-home-brand-name }ista värikäs kotisivusi
-mr2022-onboarding-colorway-label-default = Oletus
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Nykyiset { -brand-short-name }-värit
-mr2022-onboarding-colorway-description-default = <b>Käytä nykyisiä { -brand-short-name }-värejä.</b>
-mr2022-onboarding-colorway-label-playmaker = Pelinrakentaja
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Pelinrakentaja (punainen)
-mr2022-onboarding-colorway-description-playmaker = <b>Olet pelinrakentaja.</b> Luot mahdollisuuksia voittaa ja autat kaikkia ympärilläsi olevia nostamaan panostaan.
-mr2022-onboarding-colorway-label-expressionist = Ekspressionisti
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Ekspressionisti (keltainen)
-mr2022-onboarding-colorway-description-expressionist = <b>Olet ekspressionisti.</b> Näet maailman eri tavalla ja luomuksesi herättävät muissa tunteita.
-mr2022-onboarding-colorway-label-visionary = Visionääri
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Visionääri (vihreä)
-mr2022-onboarding-colorway-description-visionary = <b>Olet visionääri.</b> Kyseenalaistat nykytilan ja kannustat muita kuvittelemaan parempaa tulevaisuutta.
-mr2022-onboarding-colorway-label-activist = Aktivisti
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Aktivisti (sininen)
-mr2022-onboarding-colorway-description-activist = <b>Olet aktivisti.</b> Jätät maailman aiempaa paremmaksi paikaksi ja saat muut uskomaan parempaan.
-mr2022-onboarding-colorway-label-dreamer = Unelmoija
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Unelmoija (violetti)
-mr2022-onboarding-colorway-description-dreamer = <b>Olet unelmoija.</b> Uskot, että onni suosii rohkeita ja innostat muita olemaan rohkeita.
-mr2022-onboarding-colorway-label-innovator = Uudistaja
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Uudistaja (oranssi)
-mr2022-onboarding-colorway-description-innovator = <b>Olet uudistaja.</b> Näet mahdollisuuksia kaikkialla ja vaikutat muiden ympärilläsi olevien elämään.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Hyppää kannettavalta tietokoneelta puhelimelle ja takaisin
-mr2022-onboarding-mobile-download-subtitle = Nouda välilehdet yhdeltä laitteelta ja jatka toisella laitteella siitä mihin jäit. Synkronoi kirjanmerkkisi ja salasanasi missä tahansa käytät { -brand-product-name }ia.
 mr2022-onboarding-mobile-download-cta-text = Skannaa QR-koodi saadaksesi { -brand-product-name }in mobiililaitteille tai <a data-l10n-name="download-label">lähetä itsellesi latauslinkki.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Skannaa QR-koodi saadaksesi { -brand-product-name }in mobiililaitteille.
 
@@ -336,15 +278,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Vaalea- ja tummaihoiset kädet tekemässä ylävitosta
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Näkymä auringonlaskuun ikkunan läpi, jossa on kettu ja huonekasvi ikkunalaudalla
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Käsisuihke maalaa värikkään kollaasin vihreästä silmästä, oranssista kengästä, punaisesta koripallosta, violeteista kuulokkeista, sinisestä sydämestä ja keltaisesta kruunusta
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Kettu kannettavan tietokoneen näytöllä heiluttamassa. Kannettavassa tietokoneessa on hiiri kytkettynä.
 onboarding-device-migration-title = Tervetuloa takaisin!
-onboarding-device-migration-subtitle = Kirjaudu sisään { -fxaccount-brand-name(capitalization: "sentence") }llesi, niin voit tuoda kirjanmerkkisi, salasanasi ja historiasi uudelle laitteellesi.
 onboarding-device-migration-subtitle2 = Kirjaudu tilillesi tuodaksesi kirjanmerkkisi, salasanasi ja historiasi uudelle laitteellesi.
 onboarding-device-migration-primary-button-label = Kirjaudu sisään
 
@@ -461,15 +400,12 @@ tab-groups-onboarding-feature-callout-title = Kokeile välilehtiryhmiä vähent�
 tab-groups-onboarding-feature-callout-subtitle = Järjestäydy vetämällä välilehti toisen päälle ja luo siten ensimmäinen ryhmä.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Löydä välilehtiryhmäsi Listaa kaikki välilehdet -valikosta milloin tahansa.
-tab-groups-onboarding-create-group-title-2 = Löydät välilehtiryhmät täältä milloin tahansa.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Löydä ryhmäsi etsimällä niitä osoitepalkista.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Kun suljet välilehtiryhmän, voit avata sen uudelleen milloin tahansa Listaa kaikki välilehdet -valikosta.
-tab-groups-onboarding-saved-groups-title-2 = Kun suljet välilehtiryhmän, voit avata sen uudelleen milloin tahansa täältä.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Löydä suljetut ryhmät etsimällä niitä osoitepalkista.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Avaa välilehtiryhmäsi uudelleen Listaa kaikki välilehdet -valikosta milloin tahansa.
-tab-groups-onboarding-session-restore-title = Avaa välilehtiryhmät uudelleen milloin tahansa täältä.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

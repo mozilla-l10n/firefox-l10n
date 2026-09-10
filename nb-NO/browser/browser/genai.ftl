@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = Jeg er på siden «{ $tabTitle }» med «{ $sele
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Spør AI-chatbot
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Spør { $provider }
 genai-menu-open-generic =
     .label = Open AI Chatbot
 # $provider (string) - name of the provider
@@ -118,8 +113,6 @@ genai-header-provider-menu =
     .title = Velg en chatbot
 genai-header-settings-button =
     .title = Innstillinger for AI-chat
-genai-header-options-button =
-    .title = Åpne meny
 genai-header-close-button =
     .title = Lukk
 genai-provider-view-details =
@@ -147,37 +140,25 @@ genai-page-button-summarize = Oppsummer side
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Oppsummer, idémyldre og mer mens du surfer
 genai-onboarding-choose-header = Velg en AI-chatbot som skal brukes i { -brand-short-name }-sidestolpen
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Velg en AI-chatbot du vil bruke i { -brand-short-name }-sidestolpen. Vi viser detaljer om hver chatbot når du velger den. Bytt når som helst. <a data-l10n-name="learn-more">Les mer</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Bytt når som helst. For hjelp med å velge, <a data-l10n-name="learn-more">les mer om hver chatbot</a>.
 genai-onboarding-primary = Fortsett
 genai-onboarding-secondary = Lukk
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Les mer om Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Les mer om ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Les mer om Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Les mer om Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = Les mer om HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Les mer om Le Chat
-genai-onboarding-select-header = Marker tekst for å se forslag
-genai-onboarding-select-description = Når du velger tekst, foreslår vi instrukser du kan sende til chatboten. Du kan også skrive inn dine egne instrukser.
-genai-onboarding-select-primary = Begynn å chatte
 genai-chatbot-contextual-title = Bruk en AI-chatbot uten å bytte faner
 genai-chatbot-contextual-subtitle = Chat og surf side om side når du legger til en AI-chatbot i { -brand-short-name }-sidestolpen.
 genai-chatbot-contextual-button = Velg en chatbot
@@ -190,27 +171,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = Høyreklikk på sparkles-knap
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Åpne AI-chatboten din i sidestolpen og velg «Oppsummer side» nederst.
 genai-chatbot-summarize-footer-generic-subtitle = Legg til en AI-chatbot i { -brand-short-name }-sidestolpen for å raskt oppsummere sider.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Generer tekst og kode
-genai-onboarding-claude-analyze = Analyser dokumenter og bilder
-genai-onboarding-claude-price = Gratis og betalte alternativer; konto kreves
-genai-onboarding-chatgpt-generate = Generer tekst, bilder og kode
-genai-onboarding-chatgpt-analyze = Analyser dokumenter og bilder
-genai-onboarding-chatgpt-price = Gratis og betalte alternativer; konto kreves for enkelte land og oppgaver
-genai-onboarding-copilot-generate = Generer tekst, bilder og kode
-genai-onboarding-copilot-analyze = Analyser bilder
-genai-onboarding-copilot-price = Gratis og betalte alternativer; konto kreves for enkelte oppgaver
-genai-onboarding-gemini-generate = Generer tekst, bilder og kode
-genai-onboarding-gemini-analyze = Analyser bilder (gratis) og dokumenter (betalt)
-genai-onboarding-gemini-price = Gratis og betalte alternativer; konto kreves
-genai-onboarding-huggingchat-generate = Generer tekst og kode
-genai-onboarding-huggingchat-switch = Veksle mellom et mangfoldig sett med åpne modeller
-genai-onboarding-huggingchat-price-2 = Gratis; konto kreves etter et visst antall forespørsler
-genai-onboarding-lechat-generate = Generer tekst og kode
-genai-onboarding-lechat-price = Gratis; konto kreves
 
 ## Model Optin Component
 
@@ -249,8 +209,8 @@ link-preview-generation-retry = Prøv igjen
 link-preview-settings-button =
     .title = Innstillinger for forhåndsvisning av lenke
 link-preview-settings-enable =
-    .label = Aktiver forhåndsvisninger av lenker
     .description = Se sidetittel, beskrivelse og mer når du bruker snarveien eller høyreklikker på en lenke.
+    .label = Aktiver forhåndsvisninger av lenker
 link-preview-settings-key-points =
     .label = La AI lese begynnelsen av siden og generere hovedpunkter
 link-preview-settings-long-press =

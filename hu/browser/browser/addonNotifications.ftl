@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Telepítés folytatása
     .accesskey = f
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Ez az oldal hozzáférést kér a MIDI-eszközeihez (Musical Instrument Digital Interface). Az eszközhozzáférés egy kiegészítő telepítésével engedélyezhető.
 site-permission-install-first-prompt-midi-message = Ez a hozzáférés nem garantált, hogy biztonságos. Csak akkor folytassa, ha megbízik ebben a webhelyben.
 site-permission-install-first-prompt-serial-header = Ez a webhely hozzáférést kér a soros portos eszközeihez. Az eszköz elérése egy kiegészítő telepítésével engedélyezhető.
 site-permission-install-first-prompt-serial-message = Ez a hozzáférés nem garantált, hogy biztonságos. Csak akkor folytassa, ha megbízik ebben a webhelyben.
-
-##
-
-xpinstall-disabled-locked = A szoftvertelepítést a rendszergazda megtiltotta.
 xpinstall-disabled-by-policy = A szoftvertelepítést a szervezete letiltotta.
 xpinstall-disabled = A szoftvertelepítés jelenleg tiltva van. Kattintson az Engedélyezés gombra, és próbálja újra.
 xpinstall-disabled-button =
     .label = Engedélyezés
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = A(z) { $addonName } ({ $addonId }) telepítését a rendszergazda blokkolta.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = A rendszergazda megakadályozta, hogy a webhely engedélyt kérjen szoftver telepítéséhez.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = A { -brand-short-name }ba importált kiegészítők tel
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Eltávolítja a következőt: { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Eltávolítja a(z) { $name } kiegészítőt a { -brand-shorter-name }ból?
 addon-removal-button = Eltávolítás
 addon-removal-abuse-report-checkbox = A kiegészítő jelentése a { -vendor-short-name } felé
 # "it" refers to the local AI model that is paired to the AI feature
@@ -139,7 +122,5 @@ addon-local-install-no-addon-name-error-file-access = A kiegészítő nem telep�
 addon-install-error-incompatible = A(z) { $addonName } nem volt telepíthető, mert nem kompatibilis a { -brand-short-name } { $appVersion } verzióval.
 addon-install-error-hard-blocked = A(z) { $addonName } sérti a Mozilla házirendjeit, és nem telepíthető a { -brand-short-name }ra.
 addon-install-error-soft-blocked2 = A(z) { $addonName } korlátozott, és nem telepíthető a { -brand-short-name }ra.
-addon-install-error-blocklisted = A(z) { $addonName } nem volt telepíthető, mert stabilitási és biztonsági szempontból magas kockázatú.
-addon-install-error-soft-blocked = A(z) { $addonName } sérti a Mozilla házirendjeit, és nem telepíthető a { -brand-short-name }ra.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Végfelhasználóként nem telepítheti a(z) { $addonName } kiegészítőt, csak a szervezete telepítheti vállalati házirendek használatával.

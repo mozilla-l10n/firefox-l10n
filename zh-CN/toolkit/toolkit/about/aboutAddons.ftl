@@ -153,15 +153,10 @@ addon-sitepermission-host = { $host } 的网站权限
 
 ## These are global warnings
 
-extensions-warning-safe-mode = 所有附加组件都已被安全模式暂时禁用。
-extensions-warning-check-compatibility = 附加组件兼容性检查已禁用。您可能有不兼容的附加组件。
-extensions-warning-safe-mode2 =
-    .message = 所有附加组件都已被安全模式暂时禁用。
 extensions-warning-check-compatibility2 =
     .message = 附加组件兼容性检查已禁用。您可能有不兼容的附加组件。
 extensions-warning-check-compatibility-button = 启用
     .title = 启用附加组件兼容性检查
-extensions-warning-update-security = 附加组件更新安全检查已被禁用。您可能会受到更新带来的安全威胁。
 extensions-warning-update-security2 =
     .message = 附加组件更新安全检查已被禁用。您可能会受到更新带来的安全威胁。
 extensions-warning-update-security-button = 启用
@@ -237,10 +232,6 @@ shortcuts-duplicate = 快捷键重复
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = 有超过一个附加组件使用 { $shortcut } 作为快捷键，重复的快捷键可能会导致无法预料的行为。
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = 有超过一个附加组件使用 { $shortcut } 作为快捷键，重复的快捷键可能会导致无法预料的行为。
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -259,11 +250,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = 扩展和主题就像手机上的应用，可帮助您保管密码、下载视频、查找优惠信息、拦截恼人广告、改变浏览器外观等等。这些小型程序大多由第三方开发。以下是一些 { -brand-product-name } <a data-l10n-name="learn-more-trigger">推荐</a>的附加组件，它们在安全性、性能和功能等方面表现优秀。
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = 以下的部分推荐是基于您的已安装附加组件、选项设置和使用统计得出的个性化结果。
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message = 以下的部分推荐是基于您的已安装附加组件、选项设置和使用统计得出的个性化结果。
@@ -344,16 +330,9 @@ addon-detail-last-updated-label = 上次更新
 addon-detail-homepage-label = 主页
 addon-detail-rating-label = 评分
 # Message for add-ons with a staged pending update.
-install-postponed-message = 该扩展将在 { -brand-short-name } 重启后完成更新。
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = 该扩展将在 { -brand-short-name } 重启后完成更新。
 install-postponed-button = 立即更新
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = 评分：{ NUMBER($rating, maximumFractionDigits: 1) } / 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -368,9 +347,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> 已被移除。
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -389,11 +365,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = 允许运行于隐私窗口
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = 允许运行于隐私窗口
 addon-detail-private-browsing-help = 若允许，扩展可在隐私浏览中获知您的在线活动。 <a data-l10n-name="learn-more">详细了解</a>
 addon-detail-private-browsing-allow = 允许
@@ -420,17 +391,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } 只推荐符合我们的安全和性能标准的扩展。
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = 由 Mozilla 构建的官方扩展，符合安全和性能标准
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = 此扩展已通过审核，符合我们的安全和性能标准
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -460,9 +420,6 @@ addon-permissions-heading = 权限
 addon-permissions-empty2 = 此扩展未要求任何权限。
 addon-permissions-required-label = 必要：
 addon-permissions-optional-label = 可选：
-addon-permissions-empty = 此扩展未要求任何权限
-addon-permissions-required = 核心功能所需的权限：
-addon-permissions-optional = 附加功能的可选权限：
 addon-permissions-learnmore = 详细了解“权限”
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -503,25 +460,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } 不兼容 { -brand-short-name } { $version }。
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } 不兼容 { -brand-short-name } { $version }。
-details-notification-incompatible-link = 更多信息
-details-notification-unsigned-and-disabled = { $name } 未通过针对是否适用于 { -brand-short-name } 的验证，现已被禁用。
 details-notification-unsigned-and-disabled2 =
     .message = { $name } 未通过针对是否适用于 { -brand-short-name } 的验证，现已被禁用。
-details-notification-unsigned-and-disabled-link = 了解详情
-details-notification-unsigned = { $name } 未通过针对是否适用于 { -brand-short-name } 的验证。请谨慎。
 details-notification-unsigned2 =
     .message = { $name } 未通过针对是否适用于 { -brand-short-name } 的验证。请谨慎。
 details-notification-hard-blocked-extension =
     .message = 此扩展因违反 Mozilla 的政策而被阻止，并且已被禁用。
 details-notification-hard-blocked-other =
     .message = 此附加组件因违反 Mozilla 的政策而被阻止，并且已被禁用。
-details-notification-unsigned-link = 了解详情
-details-notification-blocked = { $name } 由于安全或稳定性问题已被禁用。
 details-notification-blocked-link2 = 查阅详情
 details-notification-soft-blocked-extension-disabled2 =
     .message = 此扩展受到限制且已被禁用。您可以重新启用，但可能存在风险。
@@ -531,19 +479,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = 此附加组件受到限制且已被禁用。您可以重新启用，但可能存在风险。
 details-notification-soft-blocked-other-enabled2 =
     .message = 此附加组件已受限，继续使用可能存在风险。
-details-notification-soft-blocked-extension-disabled =
-    .message = 此扩展因违反 Mozilla 的政策而受限，并且已经被禁用。您可以重新启用，但可能存在风险。
-details-notification-soft-blocked-extension-enabled =
-    .message = 此扩展违反了 Mozilla 的政策，使用时可能存在风险。
-details-notification-soft-blocked-other-disabled =
-    .message = 此附加组件因违反 Mozilla 的政策而受限，并且已经被禁用。您可以重新启用，但可能存在风险。
-details-notification-soft-blocked-other-enabled =
-    .message = 此附加组件违反了 Mozilla 的政策，使用时可能存在风险。
 details-notification-softblocked-link2 = 查阅详情
-details-notification-blocked-link = 了解详情
-details-notification-softblocked = { $name } 已知会导致安全性或稳定性问题。
-details-notification-softblocked-link = 了解详情
-details-notification-gmp-pending = “{ $name }”即将安装。
 details-notification-gmp-pending2 =
     .message = “{ $name }”即将安装。
 
@@ -559,8 +495,6 @@ plugins-widevine-description = 此插件让您可播放符合加密媒体扩展�
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = 必要的数据收集：
-addon-permissions-optional-data-collection = 可选的数据收集：
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = 权限与数据
 # This is a description for extension that use this AI model

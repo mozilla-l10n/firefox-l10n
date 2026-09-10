@@ -16,19 +16,3 @@ recently-closed-menu-reopen-all-windows = أعِد فتح كل النوافذ
 
 recently-closed-panel-reopen-all-tabs = أعِد فتح كل الألسنة
 recently-closed-panel-reopen-all-windows = أعِد فتح كل النوافذ
-
-##
-
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [zero] { $winTitle } (بدون ألسنة أخرى)
-        [one] { $winTitle } (و لسان واحد آخر)
-        [two] { $winTitle } (و لسانين آخران)
-        [few] { $winTitle } (و { $tabCount } ألسنة أخرى)
-        [many] { $winTitle } (و { $tabCount } لسانًا آخر)
-       *[other] { $winTitle } (و { $tabCount } لسان آخر)
-    }

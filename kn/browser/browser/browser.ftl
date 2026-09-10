@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = ತಾಣದ ಮಾಹಿತಿಯನ್ನು ನೋಡಿ
 
@@ -30,8 +25,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = ಆಫ್‌ಲೈನ್ ಶೇಖರಣಾ ಸಂದೇಶ ಹಲಗೆಯನ್ನು ತೆರೆಯಿರಿ
 urlbar-password-notification-anchor =
     .tooltiptext = ಗುಪ್ತಪದ ಉಳಿಸುವ ಸಂದೇಶ ಹಲಗೆಯನ್ನು ತೆರೆಯಿರಿ
-urlbar-plugins-notification-anchor =
-    .tooltiptext = ಪ್ಲಗ್‌ಇನ್‌ಗಳ ಬಳಕೆಯನ್ನು ನಿರ್ವಹಿಸಿ
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = ನಿಮ್ಮ ಕ್ಯಾಮೆರಾ ಮತ್ತು ಮೈಕ್ರೊಫೋನ್ ಅನ್ನು ನೀವು ಪ್ರಸಕ್ತ ಹಂಚಿಕೊಂಡಿರುವ ತಾಣಗಳನ್ನು ತೋರಿಸು
 urlbar-persistent-storage-notification-anchor =
@@ -53,8 +46,6 @@ urlbar-screen-blocked =
     .tooltiptext = ನಿಮ್ಮ ಪರದೆಯನ್ನು ಈ ಜಾಲತಾಣದಲ್ಲಿ ಹಂಚಿಕೊಳ್ಳದಂತೆ ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.
 urlbar-persistent-storage-blocked =
     .tooltiptext = ಪರ್‌ಸಿಸ್‌ಟೆಂಟ್ ಶೇಖರಣೆಯನ್ನು ನೀವು ಈ ಜಾಲತಾಣಕ್ಕೆ ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.
-urlbar-popup-blocked =
-    .tooltiptext = ನೀವು ಪಾಪ್-ಅಪ್ ಗಳನ್ನು ಈ ಜಾಲತಾಣದಲ್ಲಿ ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.
 urlbar-canvas-blocked =
     .tooltiptext = ಕ್ಯಾನ್ವಸ್ ದತ್ತಾಂಶ ಶೇಖರಿಸುವುದನ್ನು ಈ ಜಾಲತಾಣಕ್ಕೆ ನೀವು ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.
 # Variables
@@ -104,13 +95,11 @@ identity-active-blocked = ಈ ಪುಟದ ಸುರಕ್ಷಿತವಲ್ಲ�
 identity-passive-loaded = ಪುಟದ ಕೆಲ ಭಾಗಗಳು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲ(ಉದಾ. ಚಿತ್ರಗಳು).
 identity-active-loaded = ಈ ಪುಟದಲ್ಲಿ ಸುರಕ್ಷತೆಯನ್ನು ನೀವು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದ್ದೀರಿ.
 identity-weak-encryption = ಈ ಪುಟವು ದುರ್ಬಲ ಎನ್‌ಕ್ರಿಪ್ಷನ್‌ ಅನ್ನು ಬಳಸುತ್ತದೆ.
-identity-insecure-login-forms = ಈ ಪುಟದಲ್ಲಿ ನಮೂದಿಸಲಾದ ಲಾಗಿನ್‌ ವಿವರಗಳು ದುರ್ಬಳಕೆಯಾಗುವ ಸಾಧ್ಯತೆ ಇದೆ.
 identity-permissions-reload-hint = ನಿಮ್ಮ ಬದಲಾವಣೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳಲು ನೀವು ಪುಟವನ್ನು ಪುನಃ ಲೋಡಮಾಡಬೇಕಾಗುತ್ತದೆ.
 identity-remove-cert-exception =
     .label = ಆಕ್ಷೇಪಣೆಯನ್ನು ತೆಗೆದುಹಾಕು
     .accesskey = R
 identity-description-insecure = ಈ ತಾಣಕ್ಕೆ ನಿಮ್ಮ ಸಂಪರ್ಕವು ಗೌಪ್ಯವಾಗಿಲ್ಲ. ನೀವು ಇಲ್ಲಿ ಸಲ್ಲಿಸುವ ಮಾಹಿತಿಯನ್ನು ಇತರರು ನೋಡಬಹುದು (ಗುಪ್ತಪದಗಳು, ಸಂದೇಶಗಳು ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್‌ಗಳು, ಇತರೆ.)
-identity-description-insecure-login-forms = ನೀವು ಇಲ್ಲಿ ದಾಖಲಿಸಿದ ಮಾಹಿತಿಯು ಸುರಕ್ಷಿತವಾಗಿರುವುದಿಲ್ಲ ಮತ್ತು ಅದನ್ನು ಇತರರು ನೋಡಬಹುದಾಗಿರುತ್ತದೆ.
 identity-description-weak-cipher-intro = ಈ ಜಾಲತಾಣಕ್ಕೆ ನಿಮ್ಮ ಸಂಪರ್ಕವು ದುರ್ಬಲ ಎನ್‌ಕ್ರಿಪ್ಷನ್ ಅನ್ನು ಬಳಸುತ್ತದೆ ಮತ್ತು ಖಾಸಗಿಯಾಗಿಲ್ಲ.
 identity-description-weak-cipher-risk = ಇತರೆ ವ್ಯಕ್ತಿಗಳು ನಿಮ್ಮ ಮಾಹಿತಿಯನ್ನು ನೋಡಬಹುದು ಅಥವಾ ಜಾಲತಾಣದ ವರ್ತನೆಯನ್ನು ಬದಲಾಯಿಸಬಹುದು.
 identity-description-active-blocked2 = ಈ ಪುಟದ ಸುರಕ್ಷಿತವಲ್ಲದ ಕೆಲ ಭಾಗಗಳನ್ನು { -brand-short-name } ವು ನಿರ್ಬಂಧಿಸಿದೆ.
@@ -119,12 +108,6 @@ identity-description-passive-loaded-insecure2 = ಈ ತಾಣವು ಸುರಕ
 identity-description-passive-loaded-mixed2 = { -brand-short-name } ವು ಸುರಕ್ಷಿತವಲ್ಲದ ವಿಷಯವನ್ನು ನಿರ್ಬಂಧಿಸಿದ್ದರೂ ಸಹ, ಪುಟವು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲದ ವಿಷಯಗಳನ್ನು ಒಳಗೊಂಡಿದೆ (ಉದಾ. ಚಿತ್ರಗಳು).
 identity-description-active-loaded = ಈ ತಾಣವು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲದ ಕೆಲವು ವಿಷಯಗಳನ್ನು ಒಳಗೊಂಡಿದೆ (ಉದಾ. ಸ್ಕ್ರಿಪ್ಟ್‌) ಮತ್ತು ನಿಮ್ಮ ಸಂಪರ್ಕ ಖಾಸಗಿಯಾದುದಲ್ಲ.
 identity-description-active-loaded-insecure = ನೀವು ಈ ತಾಣದ ಜೊತೆ ಹಂಚಿಕೊಳ್ಳುವ ಮಾಹಿತಿಯನ್ನು ಇತರರು ನೋಡಬಹುದು (ಗುಪ್ತಪದಗಳು, ಸಂದೇಶಗಳು ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್‌ಗಳು, ಇತರೆ.
-identity-disable-mixed-content-blocking =
-    .label = ಸಂರಕ್ಷಣೆಯನ್ನು ಸಧ್ಯಕ್ಕೆ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು (D)
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = ಸಂರಕ್ಷಣೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು
-    .accesskey = E
 identity-more-info-link-text =
     .label = ಹೆಚ್ಚಿನ ಮಾಹಿತಿ
 
@@ -155,8 +138,6 @@ urlbar-extension =
     .value = ವಿಸ್ತರಣೆ:‍
 urlbar-go-button2 =
     .title = ಸ್ಥಿತಿ ಪಟ್ಟಿಯಲ್ಲಿನ ವಿಳಾಸಕ್ಕೆ ತೆರಳು
-urlbar-go-button =
-    .tooltiptext = ಸ್ಥಿತಿ ಪಟ್ಟಿಯಲ್ಲಿನ ವಿಳಾಸಕ್ಕೆ ತೆರಳು
 urlbar-page-action-button =
     .tooltiptext = ಪುಟದ ಕಾರ್ಯಗಳು
 
@@ -226,12 +207,6 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] ‍ಪುಟಗುರುತುಗಳ ಉಪಕರಣಪಟ್ಟಿಯನ್ನು ಅಡಗಿಸು
            *[other] ಪುಟಗುರುತುಗಳ ಉಪಕರಣಪಟ್ಟಿಯನ್ನು ನೋಡು
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] ‍ಪುಟಗುರುತುಗಳ ಮೆನುವನ್ನು ಉಪಕರಣಪಟ್ಟಿಯಿಂದ ತೆಗೆಯಿರಿ
-           *[other] ‍ಪುಟಗುರುತುಗಳ ಮೆನುವನ್ನು ಉಪಕರಣಪಟ್ಟಿಗೆ ಸೇರಿಸಿ
-        }
 
 ##
 
@@ -287,28 +262,10 @@ eme-notifications-drm-content-playing = ಈ ತಾಣದಲ್ಲಿರುವ �
 ui-tour-info-panel-close =
     .tooltiptext = ಮುಚ್ಚು
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = { $uriHost } ಕ್ಕೆ ಪುಟಿಕೆಗಳನ್ನು ಅನುಮತಿಸು
-    .accesskey = p
-popups-infobar-block =
-    .label = { $uriHost } ಕ್ಕೆ ಪುಟಿಕೆಗಳನ್ನು ಪ್ರತಿಬಂಧಿಸು
-    .accesskey = p
-
-##
-
-popups-infobar-dont-show-message =
-    .label = ಪುಟಿಕೆಗಳು ಪ್ರತಿಬಂಧಿತಗೊಂಡಾಗ ಈ ಸಂದೇಶವನ್ನು ತೋರಿಸಬೇಡ
-    .accesskey = D
-
 ##
 
 navbar-downloads =
     .label = ಡೌನ್‍ಲೋಡ್‍ಗಳು
-navbar-overflow =
-    .tooltiptext = ಹೆಚ್ಚಿನ ಉಪಕರಣಗಳು…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

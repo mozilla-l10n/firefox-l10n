@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Saglabātās adreses
 autofill-manage-addresses-list-header = Adreses
-autofill-manage-credit-cards-title = Saglabātās kredītkartes
-autofill-manage-credit-cards-list-header = Kredītkartes
 autofill-manage-payment-methods-title = Saglabātie maksājumu veidi
 autofill-manage-cards-list-header = Kartes
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = Atvērt izvēlni
 address-capture-edit-address-link = Labot adresi
     .aria-label = Labot adresi
-address-capture-edit-address-button =
-    .aria-label = Labot adresi
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Pievienot adresi
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Labot adresi
-autofill-address-given-name = Vārds
-autofill-address-additional-name = Otrs vārds
-autofill-address-family-name = Uzvārds
 autofill-address-name = Nosaukums
 autofill-address-organization = Uzņēmums
 autofill-address-street-address = Ielas adrese
@@ -104,8 +97,6 @@ autofill-address-eircode = Eirkode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Pievienot adresi
 autofill-address-country = Štats vai reģions
 autofill-address-country-only = Valsts
 autofill-address-tel = Telefons
@@ -114,18 +105,6 @@ autofill-cancel-button = Atcelt
 autofill-save-button = Saglabāt
 autofill-country-warning-message-2 = Veidlapu automātiskā aizpilde šobrīd ir pieejama tikai noteiktās valstīs
 autofill-country-warning-message = Veidlapu automātiskā aizpilde šobrīd ir pieejama tikai noteiktās valstīs.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Paslēpt kredītkarti
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Labot maksājumu karti
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] parādīt kredītkartes informāciju
-        [windows] { -brand-short-name } mēģina parādīt kredītkartes informāciju. Zemāk apstipriniet piekļuvi šim Windows kontam.
-       *[other] { -brand-short-name } mēģina parādīt kredītkartes informāciju.
-    }
 autofill-message-tooltip = Skatīt ziņojumu par automātisko aizpildīšanu
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Pievienot karti
@@ -159,15 +138,3 @@ autofill-card-search-term-credit-cards = kredītkartes, kredīts, kartes, debetk
 
 # The dialog title for creating a passport in browser preferences.
 autofill-add-passport-title = Pievienot pasi
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

@@ -23,13 +23,11 @@ neterror-override-exception-button = Acetta o reizego e vanni avanti
 neterror-pref-reset-button = Repiggia inpostaçioin predefinie
 neterror-return-to-previous-page-button = Vanni inderê
 neterror-return-to-previous-page-recommended-button = Vanni inderê (Racomandou)
-neterror-try-again-button = Preuva Torna
 neterror-view-certificate-link = Amia certificato
 
 ##
 
 neterror-pref-reset = Pâ che segian e teu inpostaçioin de seguessa a caozâ questo. Ti veu repigiâ e inpostaçioin predefinie?
-neterror-error-reporting-automatic = Segnala eroî comme sto chi pe agiutâ { -vendor-short-name } a identificâ e blocâ sciti danozi
 
 ## Specific error messages
 

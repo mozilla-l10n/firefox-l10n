@@ -21,13 +21,11 @@ neterror-override-exception-button = जोखिम स्वीकारा �
 neterror-pref-reset-button = पूर्वनिर्धारीत सेटिंग पुनर्स्थापित करा
 neterror-return-to-previous-page-button = मागे जा
 neterror-return-to-previous-page-recommended-button = मागे जा (शिफारसीय)
-neterror-try-again-button = पुन्हा प्रयत्न करा
 neterror-view-certificate-link = प्रमाणपत्र पहा
 
 ##
 
 neterror-pref-reset = असे दिसते की आपल्या नेटवर्क सुरक्षा सेटिंग्ज या साठी कारणीभूत असू शकते.आपण पूर्वनिर्धारित सेटिंग्ज पुनर्संचयित करू इच्छिता का?
-neterror-error-reporting-automatic = { -vendor-short-name } ला दुर्भावनायुक्त साईट्स ओळखता यावे साठी व त्यांना अवरोधीत करता यावे यासाठी अश्या प्रकारच्या त्रुटी सादर करा
 
 ## Specific error messages
 
@@ -44,8 +42,6 @@ neterror-file-not-found-moved = फाइल स्थानांतरित,�
 neterror-access-denied = ते कदाचित काढून टाकले गेले, हलविले, किंवा त्यास फाइल परवानग्या प्रवेश प्रतिबंधित करत असतील.
 neterror-unknown-protocol = आपणास हा पत्ता पाहण्यासाठी दुसरे सॉफ्टवेअर इंस्टॉल करावे लागेल.
 neterror-redirect-loop = ही अडचन कधीकधी कुकीज असमर्थीत किंवा स्वीकार न केल्यामुळेही होते.
-neterror-unknown-socket-type-psm-installed = प्रणालीवर व्यक्तिगत सुरक्षा व्यवस्थापक प्रस्थापित आहे याची खात्रीदायक तपासनी करा.
-neterror-unknown-socket-type-server-config = याचे कारण सर्व्हर वरील अमानक संरचना असू शकते.
 neterror-not-cached-intro = { -brand-short-name }च्या कॅशेत विनंती केलेले दस्तऐवज उपलब्ध नाही.
 neterror-not-cached-sensitive = सुरक्षा सावधगिरि म्हणून, { -brand-short-name } स्वयं संवदेनशील दस्तऐवजकरीता पुनःविनंती करत नाही.
 neterror-not-cached-try-again = संकेतस्थळापासून दस्तऐवजला पुनःविनंती करण्यासाठी पुनःप्रयत्न करा ला क्लिक करा.

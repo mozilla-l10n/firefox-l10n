@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Тарҷума кардани саҳифаи ҷорӣ
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Дар ҳоли тарҷума қарор дорад
 translations-panel-settings-button =
     .aria-label = Идоракунии танзимоти тарҷума
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } БЕТА
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Идоракунии забонҳо
-translations-panel-settings-about = Дар бораи тарҷумаҳо тавассути «{ -brand-shorter-name }»
 translations-panel-settings-about2 =
     .label = Дар бораи тарҷумаҳо тавассути «{ -brand-shorter-name }»
 # Text displayed for the option to always translate a given language
@@ -83,14 +74,6 @@ translations-panel-error-dismiss-button =
     .label = Фаҳмидам
 translations-panel-error-change-button =
     .label = Забони матни аслиро иваз намоед
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Мутаассифона, айни ҳол забони «{ $language }» дастгирӣ намешавад.
-translations-panel-error-unsupported-hint-unknown = Мутаассифона, айни ҳол ин забон дастгирӣ намешавад.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -122,10 +105,6 @@ translations-manage-header = Тарҷумаҳо
 translations-manage-settings-button =
     .label = Танзимот…
     .accesskey = Т
-translations-manage-description = Барои тарҷума дар реҷаи офлайн бе пайвасти Интернет забонҳоро боргирӣ намоед.
-translations-manage-all-language = Ҳамаи забонҳо
-translations-manage-download-button = Боргирӣ кардан
-translations-manage-delete-button = Нест кардан
 translations-manage-intro-2 = Хусусиятҳои забон ва тарҷумаи сомонаро танзим кунед ва забонҳои боргиришударо барои тарҷумаҳои офлайн идора намоед.
 translations-manage-download-description = Барои тарҷума дар реҷаи офлайн бе пайвасти Интернет забонҳоро боргирӣ намоед
 translations-manage-language-download-button =
@@ -139,12 +118,11 @@ translations-manage-language-remove-all-button =
     .label = Ҳамаро тоза кардан
     .accesskey = Ҳ
 translations-manage-error-download = Ҳангоми боргирӣ кардани файлҳои забонӣ мушкилие ба миён омад. Лутфан, аз нав кӯшиш кунед.
-translations-manage-error-delete = Ҳангоми несткунии файлҳои забонӣ мушкилие ба миён омад. Лутфан, аз нав кӯшиш кунед.
 translations-manage-error-remove = Ҳангоми тоза кардани файлҳои забонӣ мушкилие ба миён омад. Лутфан, аз нав кӯшиш кунед.
 translations-manage-error-list = Рӯйхати забонҳои дастрас барои тарҷума ба даст оварда нашуд. Саҳифаро аз нав бор карда, аз нав кӯшиш намоед.
 translations-settings-title =
-    .title = Танзимоти тарҷума
     .style = min-width: 36em
+    .title = Танзимоти тарҷума
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Тарҷума барои забонҳои зерин ба таври худкор пешниҳод карда мешавад
@@ -228,16 +206,6 @@ select-translations-panel-init-failure-message =
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Ҳангоми тарҷума мушкилие ба миён омад. Лутфан, аз нав кӯшиш кунед.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Мутаассифона, айни ҳол забони «{ $language }» дастгирӣ намешавад.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Мутаассифона, айни ҳол ин забон дастгирӣ намешавад.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Танзимоти тарҷума

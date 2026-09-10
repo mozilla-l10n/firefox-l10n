@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Gronidła pytaś
-    .key = F
     .aria-label = Gronidła pytaś
+    .key = F
+    .placeholder = Gronidła pytaś
 contextual-manager-menu-more-options-button =
     .title = Dalšne nastajenja
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Z dataje importěrowaś…
 contextual-manager-passwords-command-export = Gronidła eksportěrowaś
 contextual-manager-passwords-command-remove-all = Wšykne gronidła wótwónoźeś
 contextual-manager-passwords-command-options = Nastajenja
-contextual-manager-passwords-command-settings = Nastajenja
 contextual-manager-passwords-command-help = Pomoc
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Gronidła su se importěrowali
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Nowy: { $added }, zaktualizěrowany: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -231,8 +226,6 @@ contextual-manager-passwords-create-label =
     .label = Gronidło pśidaś
 contextual-manager-passwords-update-label =
     .label = Gronidło aktualizěrowaś
-contextual-manager-passwords-edit-label =
-    .label = Gronidło wobźěłaś
 contextual-manager-passwords-remove-label =
     .title = Gronidło wótwónoźeś
 contextual-manager-passwords-origin-field =
@@ -248,7 +241,6 @@ contextual-manager-passwords-password-field-description = Zapódajśo gronidło,
 contextual-manager-passwords-origin-tooltip = Zapódajśo eksaktnu adresu, źož se pla toś togo sedła pśizjawjaśo.
 contextual-manager-passwords-username-tooltip = Zapódajśo wužywaŕske mě, e-mailowu adresu abo kontowy numer, kótaryž wužywaśo, aby se pśizjawił.
 contextual-manager-passwords-password-tooltip-2 = Zapódajśo gronidło, aby se pla toś togo konta pśizjawił.
-contextual-manager-passwords-password-tooltip = Zapódajśo gronidło, kótarež se wužywa, aby se pla toś togo konta pśizjawił.
 
 ## Password Card
 
@@ -295,10 +287,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Gronidło kopěrowaś (warnowanje)
 contextual-manager-edit-login-button = Wobźěłaś
     .tooltiptext = Gronidło wobźěłaś
-contextual-manager-view-alert-heading =
-    .heading = Warnowanje pokazaś
-contextual-manager-view-alert-button =
-    .tooltiptext = Warnowanje pógódnośiś
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -331,13 +319,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Žedne gronidła namakane
 contextual-manager-passwords-no-passwords-found-message-2 = Wopytajśo drugi wuraz a pytajśo hyšći raz.
-contextual-manager-passwords-no-passwords-found-message = Žedne gronidła namakane. Pytajśo za drugim wurazom a wopytajśo hyšći raz.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Składujśo swóje gronidła na wěstem městnje.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Wšykne gronidła su skoděrowane a my glědamy za datowych źěrami a warnowanjami, jolic sćo pótrjefjony.

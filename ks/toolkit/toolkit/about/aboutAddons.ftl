@@ -85,15 +85,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = سٲری ایڈ آنس چھَ ناممكن بناونئ آمِت سیف موڈ كئ زریع
-extensions-warning-check-compatibility = ایڈ۔آن کمپیٹیبیلٹی چکینگ چھ ڈیسیبلْڈ۔ توہیہ ما آسن اِن کمپیٹیبْل ایڈ۔آن۔
-extensions-warning-safe-mode2 =
-    .message = سٲری ایڈ آنس چھَ ناممكن بناونئ آمِت سیف موڈ كئ زریع
 extensions-warning-check-compatibility2 =
     .message = ایڈ۔آن کمپیٹیبیلٹی چکینگ چھ ڈیسیبلْڈ۔ توہیہ ما آسن اِن کمپیٹیبْل ایڈ۔آن۔
 extensions-warning-check-compatibility-button = مجاز
     .title = ایڈ آں رلُن جانچ بنٲویو ممكن
-extensions-warning-update-security = ایڈ۔آن اپڈیٹ حفاظت چکینگ چھ ڈیسیبْل کرنْہ آمْژ۔ توہیہ ما أسیو کمپرومایز کورمُت اپڈیٹو ذریعہ۔
 extensions-warning-update-security2 =
     .message = ایڈ۔آن اپڈیٹ حفاظت چکینگ چھ ڈیسیبْل کرنْہ آمْژ۔ توہیہ ما أسیو کمپرومایز کورمُت اپڈیٹو ذریعہ۔
 extensions-warning-update-security-button = مجاز
@@ -144,16 +139,8 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name }  چھُ نئ رلان  { -brand-short-name } { $version } سٲت.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name }  چھُ نئ رلان  { -brand-short-name } { $version } سٲت.
-details-notification-blocked = { $name }  چھُ آمُت نا ممكن بناونئ حفٲظتی یا سٹیبلٹی وجوہاتٲو كِن
-details-notification-blocked-link = مزید مولومات
-details-notification-softblocked = { $name }  چھُ پٲدئ كران حفٲظتی یا سٹیبلٹی د قت
-details-notification-softblocked-link = مزید مولومات
-details-notification-gmp-pending = یِیہ انسٹال کرنْہ جلدی۔{ $name }
 details-notification-gmp-pending2 =
     .message = یِیہ انسٹال کرنْہ جلدی۔{ $name }
 

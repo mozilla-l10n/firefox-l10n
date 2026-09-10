@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = 返回
 neterror-return-to-previous-page-recommended-button = 返回上一頁（建議）
 neterror-try-again-button-2 = 重試
     .accesskey = T
-neterror-try-again-button = 重試
 neterror-add-exception-button = 總是繼續開啟此網站
 neterror-settings-button = 更改 DNS 設定
 neterror-view-certificate-link = 檢視憑證
-neterror-trr-continue-this-time = 這次先繼續
-neterror-disable-native-feedback-warning = 總是繼續
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = 更多資訊
 ##
 
 neterror-pref-reset = 看來可能是您的網路安全設定造成此問題，您是否要恢復預設設定值？
-neterror-error-reporting-automatic = 回報這類的錯誤，幫助 { -vendor-short-name } 找出並封鎖惡意網站
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = 中斷，然後重新連線到 W
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } 無法透過信任的 DNS 解析器保護您對本網址的瀏覽請求。原因如下：
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } 無法透過我們的加密 DNS 業者來保護您對本網址的瀏覽請求。原因如下：
 neterror-dns-not-found-trr-third-party-warning2 = 您可以繼續使用預設 DNS 解析器，但第三方仍可能得知您造訪過哪些網站。
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } 無法連線到 { $trrDomain }。
 neterror-dns-not-found-trr-only-timeout = 連線到 { $trrDomain } 的時間比預期得久。
-neterror-dns-not-found-trr-offline = 您未連線到網際網路。
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } 找不到此網站。
 neterror-dns-not-found-trr-server-problem = { $trrDomain } 發生問題。
 neterror-dns-not-found-bad-trr-url = 網址無效。
 neterror-dns-not-found-system-sleep = 系統處於睡眠模式。
 neterror-dns-not-found-trr-unknown-problem = 發生未預期的問題。
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } 無法透過信任的 DNS 解析器保護您對本網址的瀏覽請求。原因如下：
-neterror-dns-not-found-native-fallback-heuristic = 您的網路已停用 DNS over HTTPS。
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } 無法連線到 { $trrDomain }。
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = 可能是檔案被移走、移除，或存取權限不�
 neterror-unknown-protocol = 您可能需要安裝其他軟體才能開啟此網址。
 neterror-redirect-loop = 有時候停用或拒絕接受 Cookie 會造成此問題。
 neterror-unknown-socket-type-client-config = 可能是您的客戶端設定有誤。
-neterror-unknown-socket-type-psm-installed = 請確定電腦已安裝個人安全管理員 (Personal Security Manager)。
-neterror-unknown-socket-type-server-config = 可能是伺服器上的非標準設定所造成的。
 neterror-not-cached-intro = 您所請求的文件已不存在於 { -brand-short-name } 的快取當中。
 neterror-not-cached-sensitive = 為了您的安全，{ -brand-short-name } 將不會自動重新請求敏感文件。
 neterror-not-cached-try-again = 請點下重試以重新向網站請求取得文件。

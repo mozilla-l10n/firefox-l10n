@@ -20,8 +20,6 @@ genai-prompts-summarize =
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Sİ söhbət botundan soruş
 genai-menu-summarize-page = Səhifənin xülasəsini hazırla
 # $provider (string) - name of the provider
 genai-menu-ask-provider-2 =
@@ -51,30 +49,17 @@ genai-onboarding-choose-header = { -brand-short-name } yan panelində istifadə 
 genai-onboarding-choose-description = İstənilən vaxt dəyişin. Seçim etməkdə kömək üçün <a data-l10n-name="learn-more">hər bir söhbət botu haqqında ətraflı öyrənin</a>.
 genai-onboarding-primary = Davam et
 genai-onboarding-secondary = Bağla
-genai-onboarding-claude-learn = Claude haqqında daha çox öyrənin
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = ChatGPT haqqında daha çox öyrənin
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Copilot haqqında daha çox öyrənin
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Gemini haqqında daha çox öyrənin
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Le Chat haqqında daha çox öyrən
-genai-onboarding-select-primary = Söhbətə başla
 genai-chatbot-summarize-button = Səhifənin icmalını çıxart
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-chatgpt-generate = Mətn, şəkil və kod yaradın
-genai-onboarding-gemini-generate = Mətn, şəkil və kod yaradın
-genai-onboarding-huggingchat-generate = Mətn və kod yaradın
 
 ## Model Optin Component
 

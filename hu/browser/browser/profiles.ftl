@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = A { -brand-short-name } a legutóbb használt profiljával fog megnyílni.
 profile-window-create-profile = Profil létrehozása
 profile-card-edit-button =
-    .title = Profil szerkesztése
     .aria-label = Profil szerkesztése
+    .title = Profil szerkesztése
 profile-card-delete-button =
-    .title = Profil törlése
     .aria-label = Profil törlése
+    .title = Profil törlése
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = { $profileName } megnyitása
     .aria-label = { $profileName } megnyitása
+    .title = { $profileName } megnyitása
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = { $number }. profil
@@ -83,9 +83,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = A(z) { $profilename } profil törlése
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = Törli a(z) { $profilename } profilt?
 delete-profile-description = A { -brand-short-name } véglegesen törli a következő adatokat erről az eszközről:
 # Open is an adjective, as in "browser windows currently open".
@@ -112,28 +109,10 @@ delete-profile-confirm = Törlés
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Világos
-# The default dark theme
-profiles-dark-theme = Sötét
 # The default system theme
 profiles-system-theme = Rendszer
 profiles-system-theme-title =
     .title = Rendszertéma alkalmazása
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = Körömvirágsárga
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = Halvány levendula
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = Mentazöld
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = Magnólia-rózsaszín
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = Óceánkék
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = Téglavörös
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = Mohazöld
 profiles-gray-theme = Szürke
 profiles-gray-theme-title =
     .title = Szürke téma alkalmazása
@@ -290,9 +269,6 @@ profiles-appmenu-callout-tour-subtitle = A ☰ menüben koppintson a profilnevé
 profiles-appmenu-callout-tour-primary-button = Mutassa meg hogyan
 barbell-avatar = Súlyzó
 bike-avatar = Kerékpár
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Súlyzó profilkép alkalmazása
 bike-avatar-tooltip =

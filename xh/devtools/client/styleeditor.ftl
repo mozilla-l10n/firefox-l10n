@@ -16,8 +16,6 @@ styleeditor-save-button = Gcina
     .accesskey = G
 styleeditor-options-button =
     .tooltiptext = Ukhetho lomHleli weSimbo
-styleeditor-editor-textbox =
-    .data-placeholder = Tayipa iCSS apha.
 styleeditor-no-stylesheet = Eli phepha alinalo uxwebhu lwesimbo.
 styleeditor-no-stylesheet-tip = Mhlawumbi ungathanda<a data-l10n-name="append-new-stylesheet">ukuhlomela uxwebhu olutsha lwesimbo</a>?
 styleeditor-open-link-new-tab =

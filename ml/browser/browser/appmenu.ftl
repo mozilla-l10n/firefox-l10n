@@ -31,8 +31,6 @@ appmenuitem-extensions-and-themes =
     .label = വിപുലീകരണങ്ങളും അലങ്കാരങ്ങളും
 appmenuitem-extensions =
     .label = വിപുലീകരണങ്ങൾ
-appmenuitem-addons-and-themes =
-    .label = ആഡ്-ഓണുകളും അലങ്കാരുകളും
 appmenuitem-print =
     .label = അച്ചടിപ്പിക്കുക
 appmenuitem-find-in-page =
@@ -101,7 +99,6 @@ appmenu-remote-tabs-unverified = നിങ്ങളുടെ അക്കൌണ�
 appmenuitem-fxa-toolbar-sync-now2 = ഉടന്‍ സമന്വയിപ്പിക്കുക
 appmenuitem-fxa-sign-in = { -brand-product-name }-ലേക്കു് പ്രവേശിക്കുക
 appmenuitem-fxa-manage-account = അക്കൗണ്ട് കൈകാര്യം ചെയ്യുക
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = അക്കൗണ്ട്
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -117,15 +114,6 @@ appmenuitem-save-page =
     .label = താള്‍ ഇങ്ങനെ സൂക്ഷിക്കുക
 appmenuitem-fxa-sync-off-title = സമന്വയം അണച്ചിരിക്കുന്നു
 appmenuitem-fxa-sync-off-description = താങ്കളുടെ അടയാളക്കുറിപ്പുകളും ഒളിവാക്കുകളും തുടങ്ങിയവ എല്ലായിടത്തും നിന്നു് ലഭ്യമാക്കുന്നു
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = പുതിയതെന്താണ്
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = പുതിയ സവിഷേതളെ കുറിച്ചു് അറിയിക്കുക
-    .accesskey = അ
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -215,8 +203,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = കൂടുതൽ പ്രശ്നനിവാരണവിവരങ്ങൾ
     .accesskey = t
-appmenu-help-report-site-issue =
-    .label = സൈറ്റ് ഇഷ്യു റിപ്പോർട്ട് ചെയ്യുക…
 appmenu-help-share-ideas =
     .label = ഊഹങ്ങളും പ്രതികരണവും കൊടുക്കുക
     .accesskey = ക
@@ -264,9 +250,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = താങ്ങളുടെ യഥാർത്ഥ ഇ-തപാലും ഫോണും മറയ്ക്കുക
 appmenuitem-services-relay-description = ഇ-തപാൽ പൊയ്മുഖ ഡാഷ്പോർടു് വിപേക്ഷിക്കുക
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description = താങ്ങളുടെ തൽസമയ പ്രവൎത്തനങ്ങളെ പരിരക്ഷിക്കുക
 appmenu-services-header = ഞാൻ ഉപയോഗിക്കുന്ന സേവണങ്ങൾ
-appmenu-other-protection-header = { -vendor-short-name } നിന്നുള്ള മറ്റു് സംരക്ഷണക്കരുകൾ പ്രയോഗിച്ചു് നോക്കുക
 
 ## Profiles panel
 

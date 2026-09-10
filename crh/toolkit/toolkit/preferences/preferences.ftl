@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-password-not-set =
-    .value = (birşey ayarlanmadı)
 pw-change-success-title = Parola değiştirme başarılı
 pw-change-failed-title = Parola değiştirme başarısız
 pw-remove-button =
@@ -14,17 +12,10 @@ set-password-new =
     .label = Yeni parola:
 set-password-reenter =
     .label = Yeni parola (tekrar):
-set-password-old-password = Şu anki parola:
-set-password-new-password = Yeni parola:
-set-password-reenter-password = Yeni parola (tekrar):
 set-password-meter = Parola kalite ölçümü
 set-password-meter-loading = Yüklene
-remove-info =
-    .value = Devam etmek için güncel ana parolanızı girmeniz gerekli:
 remove-password-old =
     .label = Güncel parola:
-remove-password-old-password =
-    .value = Güncel parola:
 set-password-not-set =
     .label = Şu anki parola:
     .placeholder = (birşey ayarlanmadı)

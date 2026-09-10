@@ -26,8 +26,6 @@ downloads-cmd-cancel-panel =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = Hollu runngere gaawte
 downloads-cmd-retry =
     .tooltiptext = Fuɗɗito
 downloads-cmd-retry-panel =

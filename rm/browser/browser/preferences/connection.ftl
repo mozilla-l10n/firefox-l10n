@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Parameters da connexiun
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Parameters da connexiun
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Rechargiar
     .accesskey = R
-connection-proxy-autologin =
-    .label = Betg pretender l'autentificaziun sch'il pled-clav è memorisà
-    .accesskey = i
-    .tooltip = Questa opziun t'autentifitgescha automaticamain tar proxies sche ti has memorisà las datas d'access. L'autentificaziun manuala è necessaria sch'i dat ina errur.
 connection-proxy-autologin-checkbox =
     .label = Betg pretender l'autentificaziun sch'il pled-clav è memorisà
-    .accesskey = i
     .tooltiptext = Questa opziun t'autentifitgescha automaticamain tar proxies sche ti has memorisà las datas d'access. L'autentificaziun manuala è necessaria sch'i dat ina errur.
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = Utilisar in proxy per DNS cun SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Utilisar l'URL da standard per dissolver DNS sur HTTPS
 connection-dns-over-https-url-custom =
     .label = Persunalisà
-    .accesskey = P
     .tooltiptext = Endatescha tes URL preferì per resolver DNS via HTTPS
-connection-dns-over-https-custom-label = Persunalisà
+    .accesskey = P

@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Sun kul šii
-    .accesskey = S
 user-context-personal-panel-item = Boralhaali
     .accesskey = B
 user-context-work-panel-item = Goy

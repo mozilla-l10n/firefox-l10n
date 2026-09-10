@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } — 共享指示器
-webrtc-indicator-window =
-    .title = { -brand-short-name } — 共享指示器
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = 您正在共享麦克风。点击以控制共享。
 webrtc-screen-system-menu =
     .label = 您正在共享窗口或者屏幕。点击以控制共享。
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = 您的摄像头和麦克风目前已被共享。点击这里控制共享。
-webrtc-indicator-sharing-camera =
-    .tooltiptext = 正在共享您的摄像头。点击此处控制要共享的项目。
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = 正在共享您的麦克风。点击此处控制要共享的项目。
-webrtc-indicator-sharing-application =
-    .tooltiptext = 正在共享应用程序。点击此处控制要共享的项目。
-webrtc-indicator-sharing-screen =
-    .tooltiptext = 正在共享您的屏幕。点击此处控制要共享的项目。
-webrtc-indicator-sharing-window =
-    .tooltiptext = 正在共享窗口。点击此处控制要共享的项目。
-webrtc-indicator-sharing-browser =
-    .tooltiptext = 正在共享标签页。点击此处控制要共享的项目。
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -161,7 +142,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = 要允许 { $ori
 
 webrtc-share-screen-warning = 请只与您信任的网站共享屏幕。否则诈骗网站将随您一同浏览，并因而能窃取您的隐私数据。
 webrtc-share-browser-warning = 请只与您信任的网站共享 { -brand-short-name }。否则诈骗网站将随您一同浏览，并因而能窃取您的隐私数据。
-webrtc-share-screen-learn-more = 详细了解
 webrtc-pick-window-or-screen = 选择窗口或屏幕
 webrtc-share-entire-screen = 整个屏幕
 webrtc-share-pipe-wire-portal = 遵循操作系统设置

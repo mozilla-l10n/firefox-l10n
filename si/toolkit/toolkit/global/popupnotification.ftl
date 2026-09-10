@@ -5,6 +5,3 @@
 popup-notification-learn-more = තව දැනගන්න
 popup-notification-more-actions-button =
     .aria-label = තවත් ක්‍රියාමාර්ග
-popup-notification-default-button =
-    .label = හරි!
-    .accesskey = O

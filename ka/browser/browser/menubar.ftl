@@ -261,8 +261,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = პროფილები
 menu-profiles-manage-profiles =
     .label = პროფილების მართვა
 menu-profiles-new-profile =
@@ -286,9 +284,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = გაფართოებები და თემები
     .accesskey = ფ
-menu-tools-addons-and-themes =
-    .label = დამატებები და თემები
-    .accesskey = დ
 menu-tools-fxa-sign-in2 =
     .label = შესვლა
     .accesskey = ვ
@@ -345,8 +340,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = ხარვეზის აღმოფხვრის ვრცელი მონაცემები
     .accesskey = ფ
-menu-help-report-site-issue =
-    .label = საიტის ხარვეზის მოხსენება…
 menu-help-share-ideas =
     .label = გაგვიზიარეთ მოსაზრებები და გამოგვეხმაურეთ…
     .accesskey = ზ

@@ -25,27 +25,13 @@ account-send-to-all-devices-titlecase = Hantar ke Semua Peranti
 account-manage-devices-titlecase = Urus Peranti...
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = Tiada Peranti Dihubungkan
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = Belajar Perihal Menghantar Tab…
-# Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = Sambung Peranti Lain…
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Akaun Tidak Disahkan
 account-send-tab-to-device-verify2 = Sahkan Akaun Anda
-account-send-tab-to-device-verify = Sahkan Akaun Anda…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
-# The title shown in a notification when either this device or another device
-# has connected to, or disconnected from, a Firefox account.
-account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title-2 = Akaun

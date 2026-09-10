@@ -21,8 +21,6 @@ styleeditor-save-button = Opslaan
 styleeditor-options-button =
     .tooltiptext = Stijleditoropties
 styleeditor-at-rules = At-regels
-styleeditor-editor-textbox =
-    .data-placeholder = Voer hier CSS in.
 styleeditor-no-stylesheet = Deze pagina heeft geen stijlblad.
 styleeditor-no-stylesheet-tip = Misschien wilt u <a data-l10n-name="append-new-stylesheet">een nieuw stijlblad toevoegen</a>?
 styleeditor-open-link-new-tab =

@@ -29,10 +29,6 @@ security-software-name = Nafn
 security-software-antivirus = Vírusvörn
 security-software-antispyware = Vírusvörn
 security-software-firewall = Eldveggur
-features-title = { -brand-short-name } eiginleikar
-features-name = Nafn
-features-version = Útgáfa
-features-id = Auðkenni
 processes-title = Fjarvinnslur
 processes-type = Tegund
 processes-count = Fjöldi
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] Notandamappa
        *[other] Notandamappa
     }
-app-basics-enabled-plugins = Virk tengiforrit
 app-basics-build-config = Smíð stillingar
 app-basics-user-agent = Auðkenni forrits
 app-basics-os = Stýrikerfi
@@ -96,9 +91,6 @@ show-dir-label =
 environment-variables-title = Umhverfisbreytur
 environment-variables-name = Heiti
 environment-variables-value = Gildi
-experimental-features-title = Tilraunaeiginleikar
-experimental-features-name = Heiti
-experimental-features-value = Gildi
 modified-key-prefs-title = Mikilvægar breyttar stillingar
 modified-prefs-name = Nafn
 modified-prefs-value = Gildi
@@ -204,9 +196,6 @@ media-cdm-capabilities = Hæfni
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Ótruflað á undan
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = HDCP 2.2 samhæft
 
 ##
 
@@ -378,8 +367,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Gert óvirkt af tilraun
-fission-status-experiment-treatment = Gert virkt af tilraun
 fission-status-disabled-by-e10s-env = Gert óvirkt af kerfisumhverfi
 fission-status-enabled-by-env = Gert virkt af kerfisumhverfi
 fission-status-disabled-by-env = Gert óvirkt af kerfisumhverfi
@@ -388,7 +375,6 @@ fission-status-disabled-by-default = Sjálfgefið óvirkt
 fission-status-enabled-by-user-pref = Virkjað af notanda
 fission-status-disabled-by-user-pref = Gert óvirkt af notanda
 fission-status-disabled-by-e10s-other = E10s óvirkt
-fission-status-enabled-by-rollout = Gert virkt af útfærslu í áföngum
 async-pan-zoom = Ósamstillt hliðrun/aðdráttur
 apz-none = ekkert
 wheel-enabled = músa skrunhjól virkt

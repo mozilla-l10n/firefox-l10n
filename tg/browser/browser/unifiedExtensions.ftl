@@ -33,9 +33,6 @@ unified-extensions-item-message-manage = Идоракунии васеъшавӣ
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = Ин «{ $extensionName }» маҳдуд шудааст. Истифодаи он метавонад хатарнок бошад.
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = Ин «{ $extensionName }» сиёсати «Mozilla»-ро вайрон мекунад. Истифодаи он метавонад хатарнок бошад.
 
 ## Extension's context menu
 
@@ -54,8 +51,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Баъзе васеъшавиҳо иҷозат дода намешаванд
-unified-extensions-mb-quarantined-domain-message = Барои муҳофизат кардани маълумоти шумо, танҳо баъзе васеъшавиҳо, ки аз тарафи «{ -vendor-short-name }» назорат карда мешаванд, дар ин сомона иҷозат дода мешаванд.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Баъзе васеъшавиҳо иҷозат дода намешаванд
@@ -71,11 +66,6 @@ unified-extensions-mb-blocklist-warning-single2 =
         Ин васеъшавӣ маҳдуд шудааст ва ҳам ғайрифаъол шудааст.
         Шумо метавонед онро фаъол созед, аммо ин метавонад хатарнок бошад.
 # Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = «{ $extensionName }» ғайрифаъол шуд
-    .message = Ин васеъшавӣ сиёсати «Mozilla»-ро вайрон мекунад ва ғайрифаъол шудааст. Шумо метавонед онро дар танзимот фаъол созед, аммо ин метавонад хатарнок бошад.
-# Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
     .heading = «{ $extensionName }» ғайрифаъол шуд
@@ -88,14 +78,6 @@ unified-extensions-mb-blocklist-warning-multiple2 =
            *[other] { $extensionsCount } васеъшавӣ ғайрифаъол карда шудаанд
         }
     .message = Баъзе васеъшавиҳои шумо маҳдуд ва ғайрифаъол шудаанд. Шумо метавонед онҳоро фаъол созед, аммо ин метавонад хатарнок бошад.
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-           *[other] { $extensionsCount } васеъшавӣ ғайрифаъол карда шудаанд
-        }
-    .message = Баъзе аз васеъшавиҳои шумо сиёсати «Mozilla»-ро вайрон мекунанд ва ғайрифаъол карда шудаанд. Шумо метавонед онҳоро дар танзимот фаъол созед, аммо ин метавонад хатарнок бошад.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =

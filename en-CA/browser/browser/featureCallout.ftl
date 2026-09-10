@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = Hop between devices with tab pickup
 callout-firefox-view-tab-pickup-subtitle = Quickly grab open tabs from your phone and open them here for maximum flow.
 callout-firefox-view-recently-closed-title = Get back your closed tabs in a snap
 callout-firefox-view-recently-closed-subtitle = All your closed tabs will magically show up here. Never worry about accidentally closing a site again.
-callout-firefox-view-colorways-title = Add a splash of colour
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Choose the shade that speaks to you with colourways. Only in { -brand-product-name }.
-callout-firefox-view-colorways-reminder-title = Explore our latest colourways
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Colour your browser with these iconic shades, inspired by independent voices. Only in { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
@@ -142,23 +136,14 @@ taskbar-tabs-value-prop-callout-subtitle = Launch it in its own window and a sim
 # Treatment B changes only the title for chat; the subtitle is unchanged from
 # treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
 taskbar-tabs-chat-callout-title-v3 = Stay connected from your taskbar
-
 taskbar-tabs-email-callout-title-v3 = Keep your inbox in your taskbar
-
 taskbar-tabs-email-callout-subtitle-v3 = Launch your email sites like an app in a streamlined window protected by { -brand-short-name }.
-
 taskbar-tabs-media-callout-title-v3 = Keep your streaming in your taskbar
-
 taskbar-tabs-media-callout-subtitle-v3 = Launch your media sites like an app in a streamlined window protected by { -brand-short-name }.
-
 taskbar-tabs-value-prop-callout-title-v3 = Pin your favourite sites to your taskbar
-
 taskbar-tabs-value-prop-callout-subtitle-v3 = Launch any site like an app in a streamlined window protected by { -brand-short-name }.
-
 taskbar-tabs-gaming-callout-title-v3 = Get back to gaming from your taskbar
-
 taskbar-tabs-gaming-callout-subtitle-v3 = Launch your gaming sites like an app in a streamlined window protected by { -brand-short-name }.
-
 # Button that pins the current site to the taskbar as a taskbar tab
 taskbar-tabs-callout-primary-button-v3 = Pin to taskbar
 

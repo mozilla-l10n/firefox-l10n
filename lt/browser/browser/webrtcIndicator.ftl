@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = „{ -brand-short-name }“ – dalinimosi indikatorius
-webrtc-indicator-window =
-    .title = „{ -brand-short-name }“ – dalinimosi indikatorius
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Šiuo metu leidžiama prieiti prie kompiuterio mikrofono. Spustelėkite prieigai valdyti.
 webrtc-screen-system-menu =
     .label = Šiuo metu leidžiama matyti ekrane rodomą vaizdą. Spustelėkite prieigai valdyti.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Šiuo metu leidžiama prieiti prie kompiuterio kameros ir mikrofono. Spustelėkite prieigai valdyti.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Šiuo metu leidžiama prieiti prie kompiuterio kameros. Spustelėkite prieigai valdyti.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Šiuo metu leidžiama prieiti prie kompiuterio mikrofono. Spustelėkite prieigai valdyti.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Šiuo metu leidžiama matyti ekrane rodomą programą. Spustelėkite prieigai valdyti.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Šiuo metu leidžiama matyti ekrane rodomą vaizdą. Spustelėkite prieigai valdyti.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Šiuo metu leidžiama matyti ekrane rodomą langą. Spustelėkite prieigai valdyti.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Šiuo metu leidžiama matyti ekrane rodomą kortelę. Spustelėkite prieigai valdyti.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -176,7 +157,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Leisti „{ $ori
 
 webrtc-share-screen-warning = Prieigą prie ekrano suteikite tik patikimoms svetainėmis. Apgaulingoms svetainėms tai gali leisti naršyti jūsų vardu ir pavogti jūsų asmeninius duomenis.
 webrtc-share-browser-warning = Prieigą prie „{ -brand-short-name }“ suteikite tik patikimoms svetainėms. Apgaulingoms svetainėms tai gali leisti naršyti jūsų vardu ir pavogti jūsų asmeninius duomenis.
-webrtc-share-screen-learn-more = Sužinoti daugiau
 webrtc-pick-window-or-screen = Pasirinkite langą arba ekraną
 webrtc-share-entire-screen = Visas ekranas
 webrtc-share-pipe-wire-portal = Naudoti operacinės sistemos nuostatas

@@ -2,113 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } huliðsvafur
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } huliðsvafur
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - Huliðsvafur
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - Huliðsvafur
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = Huliðsvafur { -brand-shortcut-name }
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
 browser-shortcut-description = Hraðvirkt vafur með verndun persónuupplýsinga
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } huliðsvafur
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } huliðsvafur
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } huliðsvafur
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } huliðsvafur
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } — huliðsvafur
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — huliðsvafur
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — huliðsvafur
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } huliðsvafur
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -165,8 +63,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Opna skilaboðaflipa fyrir aftengda geymslu
 urlbar-password-notification-anchor =
     .tooltiptext = Opna skilaboðaflipa fyrir vistuð lykilorð
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Sýsla með notkun tengiforrita
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Sýsla með deilingu á myndavél og/eða hljóðnema fyrir þetta vefsvæði
 # "Speakers" is used in a general sense that might include headphones or
@@ -179,15 +75,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Geyma gögn í varanlegri gagnageymslu
 urlbar-addons-notification-anchor =
     .tooltiptext = Opna skilaboðaflipa fyrir viðbótauppsetningu
-urlbar-tip-help-icon =
-    .title = Fá hjálp
 urlbar-search-tips-confirm = Allt í lagi, ég skil
 urlbar-search-tips-confirm-short = Náði því
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Ábending:
 urlbar-result-menu-button =
     .title = Opna valmynd
 urlbar-result-menu-button-feedback = Viðbrögð
@@ -222,9 +111,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = Vísa þessari tillögu frá
     .accesskey = V
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = Frekari upplýsingar um { -firefox-suggest-brand-name }
-    .accesskey = F
 urlbar-result-menu-manage-firefox-suggest =
     .label = Sýsla með { -firefox-suggest-brand-name }
     .accesskey = m
@@ -256,8 +142,6 @@ urlbar-dismissal-acknowledgment-weather = Takk fyrir álit þitt. Þú munt ekki
 
 urlbar-search-tips-onboard = Minni innsláttur, finna meira: Leitaðu með { $engineName } beint úr veffangastikunni.
 urlbar-search-tips-redirect-2 = Byrjaðu að leita í veffangastikunni til að sjá tillögur frá { $engineName } og úr leitarferli þínum.
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = Leitin varð bara einfaldari. Prófaðu að gera leitina nákvæmari hér í veffangastikunni. Til að sýna frekar vefslóðina skaltu fara á 'Leita' í stillingunum.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Veldu þessa flýtileið til að finna það sem þú þarft hraðar.
@@ -291,8 +175,6 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Þú hefur lokað fyrir gagna geymslu á þessu vefsvæði.
 urlbar-popup-blocked2 =
     .tooltiptext = Þú hefur lokað á sprettglugga og utanaðkomandi endurbeiningar fyrir þetta vefsvæði.
-urlbar-popup-blocked =
-    .tooltiptext = Þú hefur lokað á sprettiglugga fyrir þetta vefsvæði.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Þú hefur lokað fyrir sjálfkrafa afspilun á þessari vefsíðu.
 urlbar-canvas-blocked =
@@ -395,23 +277,17 @@ quickactions-addons = Skoða viðbætur
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = forritsaukar, þemu, viðbætur
-quickactions-cmd-addons2 = viðbætur
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Sýsla með bókamerki
 quickactions-cmd-bookmarks = bókamerki
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Hreinsa nýlega ferla
-quickactions-cmd-clearrecenthistory = Hreinsa nýlega ferla, vafurferill, ferlar
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Hreinsa feril
-quickactions-cmd-clearhistory = hreinsa feril
 # Opens about:downloads page
 quickactions-downloads2 = Skoða sóttar skrár
 quickactions-cmd-downloads = sóttar skrár
 # Opens about:addons page in the extensions section
 quickactions-extensions = Sýsla með forritsauka
 quickactions-cmd-extensions2 = forritsaukar, viðbætur
-quickactions-cmd-extensions = forritsaukar
 # Opens Firefox View
 quickactions-firefoxview = Opna { -firefoxview-brand-name }
 # English is using "view" and "open view", since the feature name is
@@ -424,13 +300,9 @@ quickactions-cmd-help = hjálp, aðstoð
 # Opens the devtools web inspector
 quickactions-inspector2 = Opna forritunarverkfæri
 quickactions-cmd-inspector2 = skoðunaverkfæri, þróunartól, verkfæri fyrir forritara
-quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins2 = Sýsla með lykilorð
 quickactions-cmd-logins = innskráningar, lykilorð
-# Opens about:addons page in the plugins section
-quickactions-plugins = Sýsla með tengiforrit
-quickactions-cmd-plugins = tengiforrit
 # Opens the print dialog
 quickactions-print2 = Prenta síðu
 quickactions-cmd-print = prenta
@@ -452,26 +324,22 @@ quickactions-cmd-screenshot2 = skjámynd, taka skjámynd
 # Opens about:translations
 quickactions-translate = Þýða
 quickactions-cmd-translate = þýða
-quickactions-cmd-screenshot = skjámynd
 # Opens about:preferences
 quickactions-settings2 = Sýsla með stillingar
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = stillingar, kjörstillingar, valkostir, sýsla með, breyta
-quickactions-cmd-settings = stillingar, kjörstillingar, valkostir
 # Opens about:addons page in the themes section
 quickactions-themes = Sýsla með þemu
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-themes2 = þemu, forritsaukar, viðbætur
-quickactions-cmd-themes = þemu
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Uppfæra { -brand-short-name }
 quickactions-cmd-update = uppfærsla
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Skoða frumkóða síðu
 quickactions-cmd-viewsource2 = skoða frumkóða, frumkóði, frumkóði síðu
-quickactions-cmd-viewsource = skoða frumkóða, frumkóði
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Fræðast meira um flýtiaðgerðir
@@ -528,9 +396,7 @@ identity-custom-root = Tenging staðfest af útgefanda skilríkis sem ekki er vi
 identity-passive-loaded = Sumir hlutir á þessari síðu eru ekki öruggir (eins og myndir).
 identity-active-loaded = Þú hefur slökkt á vernd fyrir þessa síðu.
 identity-weak-encryption = Þessi síða notar lélega dulkóðun.
-identity-insecure-login-forms = Hugsanlega gæti þriðji aðili komist yfir allar þær skráningar sem þú setur inn á þessa síðu.
 identity-https-only-connection-upgraded = (uppfært í HTTPS)
-identity-https-only-label = Einungis-HTTPS-hamur
 identity-https-only-label2 = Uppfæra sjálfkrafa þetta vefsvæði í örugga tengingu
 identity-https-only-dropdown-on =
     .label = Virkt
@@ -538,8 +404,6 @@ identity-https-only-dropdown-off =
     .label = Óvirkt
 identity-https-only-dropdown-off-temporarily =
     .label = Slökkt tímabundið
-identity-https-only-info-turn-on2 = Kveiktu á Einungis-HTTPS-ham fyrir þessa síðu ef þú vilt að { -brand-short-name } uppfæri tenginguna þegar mögulegt er.
-identity-https-only-info-turn-off2 = Ef síðan virðist biluð gætirðu viljað slökkva á Einungis-HTTPS-ham fyrir þessa síðu til að endurlesa hana með óöruggu HTTP.
 identity-https-only-info-turn-on3 = Kveiktu á HTTPS-uppfærslum fyrir þetta vefsvæði ef þú vilt að { -brand-short-name } uppfæri tenginguna þegar mögulegt er.
 identity-https-only-info-turn-off3 = Ef síðan virðist biluð gætirðu viljað slökkva á HTTPS-uppfærslum fyrir þessa síðu til að endurlesa hana með óöruggu HTTP.
 identity-https-only-info-no-upgrade = Ekki er hægt að uppfæra tengingu úr HTTP.
@@ -557,7 +421,6 @@ identity-remove-cert-exception =
     .label = Fjarlægja undantekningu
     .accesskey = r
 identity-description-insecure = Tengingin við þetta vefsvæði er ekki læst. Þær upplýsingar sem þú sendir gætu aðrir skoðað (til dæmis lykilorð, skilaboð, greiðslukort, og fleira).
-identity-description-insecure-login-forms = Upplýsingarnar sem þú setur inn á þessa síðu eru ekki öruggar og hugsanlega gæti þriðji aðili komist yfir þær.
 identity-description-weak-cipher-intro = Tengingin við þetta vefsvæði notar lélega dulkóðun og er ekki lokuð.
 identity-description-weak-cipher-risk = Aðrir geta skoðað þessar upplýsingar eða breytt virkni vefsvæðisins.
 identity-description-active-blocked2 = { -brand-short-name } hefur lokað á suma hluta á þessari síðu sem eru ekki öruggir.
@@ -566,12 +429,6 @@ identity-description-passive-loaded-insecure2 = Þetta vefsvæði inniheldur gö
 identity-description-passive-loaded-mixed2 = Þótt { -brand-short-name } hafi lokað á sumt efni, er ennþá efni á síðunni sem er ekki öruggt (eins og t.d. myndir).
 identity-description-active-loaded = Þetta vefsvæði inniheldur gögn sem eru ekki örugg (eins og skriftur) og tengingin er ekki lokuð.
 identity-description-active-loaded-insecure = Þær upplýsingar sem þú gefur upp á þessu vefsvæði gætu aðrir skoðað (til dæmis lykilorð, skilaboð, greiðslukort, og fleira).
-identity-disable-mixed-content-blocking =
-    .label = Slökkva á vernd í bili
-    .accesskey = S
-identity-enable-mixed-content-blocking =
-    .label = Virkja verndun
-    .accesskey = e
 identity-more-info-link-text =
     .label = Nánari upplýsingar
 
@@ -585,40 +442,6 @@ browser-window-restore-down-button =
     .tooltiptext = Endurheimta niður
 browser-window-close-button =
     .tooltiptext = Loka
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = AFSPILUN
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = ÞAGGAÐ
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = LOKAÐ Á SJÁLFSPILUN
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = MYND-Í-MYND
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] ÞAGGA FLIPA
-        [one] ÞAGGA FLIPA
-       *[other] ÞAGGA { $count } FLIPA
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] AFÞAGGA FLIPA
-        [one] AFÞAGGA FLIPA
-       *[other] AFÞAGGA { $count } FLIPA
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] SPILA FLIPA
-        [one] SPILA FLIPA
-       *[other] SPILA { $count } FLIPA
-    }
 
 ## Bookmarks toolbar items
 
@@ -654,10 +477,6 @@ sharing-warning-proceed-to-tab =
     .label = Halda áfram á flipa
 sharing-warning-disable-for-session =
     .label = Slökkva á deilivörn fyrir þessa lotu
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = Til að nota F12 flýtileiðina skaltu fyrst opna DevTools í gegnum valmyndina fyrir vafraverkfærin.
 
 ## URL Bar
 
@@ -722,8 +541,6 @@ urlbar-extension =
     .value = Forritsauki:
 urlbar-go-button2 =
     .title = Hoppa á tengilinn sem er í veffangastikunni
-urlbar-go-button =
-    .tooltiptext = Hoppa á tengilinn sem er í veffangastikunni
 urlbar-page-action-button =
     .tooltiptext = Síðu aðgerðir
 urlbar-revert-button =
@@ -780,11 +597,6 @@ urlbar-result-action-tabtosearch-web = Leita með { $engine } beint af veffangas
 urlbar-result-action-tabtosearch-other-engine = Leita með { $engine } beint af veffangastikunni
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Afrita
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = óskilgreint
 # The sub title of a mdn suggestion in the urlbar.
@@ -793,23 +605,6 @@ urlbar-result-mdn-subtitle = { -mdn-brand-name }
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
 urlbar-result-suggestion-recommended = Mælt með
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
-# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
-# The last = sign will be shown as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
-# Shows the result of a formula expression being calculated, to a maximum of 9 significant
-# digits. This is used for numbers < 1.
-# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 # The title of a weather suggestion in the urlbar. The temperature and unit
 # substring should be inside a <strong> tag. If the temperature and unit are not
 # adjacent in the localization, it's OK to include only the temperature in the
@@ -936,32 +731,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Leita í { $localS
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Leita með { $engine }
-urlbar-searchmode-dropmarker =
-    .tooltiptext = Veldu leitarvél
-urlbar-searchmode-bookmarks =
-    .label = Bókamerki
-urlbar-searchmode-tabs =
-    .label = Flipar
-urlbar-searchmode-history =
-    .label = Ferill
-urlbar-searchmode-actions =
-    .label = Aðgerðir
-urlbar-searchmode-exit-button =
-    .tooltiptext = Loka
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = Að þessu sinni leita með:
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = Leitarstillingar
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button2 =
-    .label = { $engine }, veldu leitarvél
-    .tooltiptext = { $engine }, veldu leitarvél
-urlbar-searchmode-button-no-engine =
-    .label = Engin flýtileið valin, veldu flýtileið
-    .tooltiptext = Engin flýtileið valin, veldu flýtileið
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1030,16 +799,10 @@ urlbar-group-trending =
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Ekki sýna vinsælar leitir
     .accesskey = k
-# Label shown above sponsored suggestions in the urlbar results.
-urlbar-group-sponsored =
-    .label = Kostað
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Ekki sýna vinsælar leitir
     .accesskey = k
-urlbar-result-menu-trending-why =
-    .label = Hvers vegna er ég að sjá þetta?
-    .accesskey = v
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = Takk fyrir álit þitt. Þú munt ekki lengur sjá vinsælar leitir.
@@ -1121,12 +884,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Fela bókamerkjastiku
            *[other] Sýna bókamerkjastiku
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Fjarlægja bókamerkjavalmynd úr verkfærastiku
-           *[other] Bæta bókamerkjavalmynd við verkfærastiku
-        }
 
 ##
 
@@ -1157,14 +914,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = Bókamerki
-library-recent-activity-title =
-    .value = Nýleg virkni
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Vista í { -pocket-brand-name }
-    .tooltiptext = Vista í { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
@@ -1221,8 +970,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = H
 
 ## Password save/update panel
 
-panel-save-update-username = Notandanafn
-panel-save-update-password = Lykilorð
 panel-save-update-username-2 =
     .label = Notandanafn
 panel-save-update-password-2 =
@@ -1233,33 +980,18 @@ panel-save-update-password-2 =
 # "More" item in macOS share menu
 menu-share-more =
     .label = Meira…
-menu-share-copy-link =
-    .label = Afrita tengil
-    .accesskey = l
 ui-tour-info-panel-close =
     .tooltiptext = Loka
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
-popups-infobar-allow =
-    .label = Leyfa sprettiglugga frá { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Loka sprettigluggum frá { $uriHost }
-    .accesskey = p
 popups-infobar-allow2 =
     .label = Leyfa sprettglugga og utanaðkomandi endurbeiningar fyrir { $uriHost }
     .accesskey = p
 
 ##
 
-popups-infobar-dont-show-message =
-    .label = Ekki sýna þessi skilaboð þegar sprettigluggum er lokað
-    .accesskey = D
-edit-popup-settings =
-    .label = Sýsla með sprettgluggastillingar...
-    .accesskey = g
 picture-in-picture-hide-toggle =
     .label = Fela mynd-í-mynd víxlhnapp
     .accesskey = F
@@ -1285,8 +1017,6 @@ navbar-downloads =
     .label = Niðurhal
 navbar-overflow-2 =
     .tooltiptext = Fleiri verkfæri
-navbar-overflow =
-    .tooltiptext = Fleiri verkfæri…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1381,20 +1111,12 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = Ljúka huliðslotu
-    .tooltiptext = Ljúka huliðslotu
-reset-pbm-panel-heading = Ljúka huliðslotunni þinni?
-reset-pbm-panel-description = Loka öllum huliðsflipum og eyða vafurferli, vefkökum og öllum öðrum gögnum vefsvæðisins.
 reset-pbm-panel-always-ask-checkbox =
     .label = Spyrja alltaf
     .accesskey = a
 reset-pbm-panel-cancel-button =
     .label = Hætta við
     .accesskey = H
-reset-pbm-panel-confirm-button =
-    .label = Eyða lotugögnum
-    .accesskey = g
 reset-pbm-panel-complete = Huliðsvafurgögnum eytt
 
 ## Autorefresh blocker

@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Усклађивање…
 sync-disconnect-dialog-title2 = Прекинути везу?
 sync-disconnect-dialog-body = { -brand-product-name } ће зауставити усклађивање са вашим налогом, али неће избрисати податке прегледања на овом уређају.
 sync-disconnect-dialog-button = Отпоји
-fxa-signout-dialog2-title = Одјавити се са { -fxaccount-brand-name(case: "gen") }?
 fxa-signout-dialog-title2 = Одјавите се из налога?
 fxa-signout-dialog-body = Усклађени подаци ће остати на вашем налогу.
 fxa-signout-dialog2-button = Одјави ме
@@ -44,15 +43,6 @@ fxviewtabrow-send-to-mobile-not-verified = Налог није потврђен
 fxviewtabrow-send-to-mobile-verify-account = Потврдите ваш налог
 fxa-menu-send-to-mobile-turn-on-sync = Укључите усклађивање за слање језичака
 fxa-menu-send-to-mobile-connect-device = Повежите уређај за слање језичака
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Пошаљи језичак на уређај
-            [few] Пошаљи { $tabCount } језичка на уређај
-           *[other] Пошаљи { $tabCount } језичака на уређај
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Усклађивање уређаја…

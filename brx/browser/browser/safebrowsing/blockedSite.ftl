@@ -11,10 +11,3 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } बे वेब�
 safeb-palm-advisory-desc = बोसोन होजादों  <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = थांफिन
 safeb-palm-see-details-label = गुवारै नाइ
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-safeb-palm-notdeceptive =
-    .label = बे जायगाया गाजि् जानाय नंआ
-    .accesskey = ज

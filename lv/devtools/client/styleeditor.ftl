@@ -12,12 +12,10 @@ styleeditor-visibility-toggle =
     .tooltiptext = Pārslēgt stila faila redzamību
     .accesskey = S
 styleeditor-save-button = Saglabāt
-    .accesskey = S
     .tooltiptext = Saglabāt šo stila lapu datnē
+    .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Stila redaktora iestatījumi
-styleeditor-editor-textbox =
-    .data-placeholder = Rakstiet CSS šeit.
 styleeditor-no-stylesheet = Šajā lapā nav stila dokumentu.
 styleeditor-no-stylesheet-tip = Iespējams jūs vēlaties <a data-l10n-name="append-new-stylesheet">pievienot jaunu stila dokumentu</a>?
 styleeditor-open-link-new-tab =

@@ -5,10 +5,7 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Raport je posłany. Dziynkujymy!
-confirmation-hint-login-removed = Dane logowania sōm skasowane!
 confirmation-hint-page-bookmarked = Spamiyntane do zokłodek
-confirmation-hint-password-saved = Hasło je spamiyntane!
 confirmation-hint-pin-tab = Przipniynte!
 confirmation-hint-pin-tab-description = Coby ôdepnōnć karta, kliknij na nia prawym prziciskiym.
 confirmation-hint-send-to-device = Posłane!

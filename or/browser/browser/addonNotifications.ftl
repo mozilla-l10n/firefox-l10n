@@ -6,7 +6,6 @@ xpinstall-prompt = { -brand-short-name } ଆପଣଙ୍କ କମ୍ପୁଟ�
 
 ##
 
-xpinstall-disabled-locked = ସଫ୍ଟୱେର ସ୍ଥାପନ ଆପଣଙ୍କର ତନ୍ତ୍ର ପ୍ରଶାସକଙ୍କ ଦ୍ୱାରା ନିଷ୍କ୍ରିୟ କରାଯାଇଛି.
 xpinstall-disabled = ସଫ୍ଟୱେର ସ୍ଥାପନ ବର୍ତ୍ତମାନ ନିଷ୍କ୍ରିୟ ଅଛି. ସକ୍ରିୟ କରନ୍ତୁ କୁ ଦବାନ୍ତୁ ଏବଂ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ.
 
 ## Add-on removal warning
@@ -28,4 +27,3 @@ addon-local-install-error-file-access = { -brand-short-name } ଦରକାରୀ
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { -brand-short-name } { $appVersion } ସହ ମେଳ ଖାଉନଥିବାରୁ { $addonName } ଇନଷ୍ଟଲ କରାଯାଇପାରିବ ନାହିଁ ।
-addon-install-error-blocklisted = ଏଥିରେ ସ୍ଥାୟୀତ୍ୱ କିମ୍ବା ନିରାପତ୍ତା ସମସ୍ୟା ଘଟାଇବାର ଘୋର ବିପଦ ଥିବାରୁ { $addonName } ଇନଷ୍ଟଲ କରାଯାଇପାରିବ ନାହିଁ ।

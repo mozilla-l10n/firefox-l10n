@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = ທີ່ຢູ່ທີ່ບັນທຶກໄວ້
 autofill-manage-addresses-list-header = ທີ່ຢູ່
-autofill-manage-credit-cards-title = ບັດເຄຣດິດທີ່ບັນທຶກໄວ້
-autofill-manage-credit-cards-list-header = ບັດເຄຣດິດ
 autofill-manage-cards-list-header = ບັດ
 autofill-manage-dialog =
     .style = min-width: 560px
@@ -40,15 +38,10 @@ address-capture-learn-more-button =
     .label = ຮຽນຮູ້ເພີ່ມເຕີມ
 address-capture-open-menu-button =
     .aria-label = ເປີດເມນູ
-address-capture-edit-address-button =
-    .aria-label = ແກ້ໄຂທີ່ຢູ່
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = ເພີ່ມທີ່ຢູ່
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = ແກ້ໄຂທີ່ຢູ່
-autofill-address-given-name = ຊື່ແທ້
-autofill-address-additional-name = ຊື່ກາງ
-autofill-address-family-name = ນາມສະກຸນ
 autofill-address-name = ຊື່
 autofill-address-organization = ອົງການຈັດຕັ້ງ
 autofill-address-street-address = ທີ່​ຢູ່​ຖະ​ຫນົນ
@@ -96,8 +89,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = ເພີ່ມທີ່ຢູ່ໃໝ່
 autofill-address-country = ປະເທດ ຫຼືພາກພື້ນ
 autofill-address-country-only = ປະເທດ
 autofill-address-tel = ໂທລະສັບ
@@ -105,10 +96,6 @@ autofill-address-email = ອີເມວ
 autofill-cancel-button = ຍົກເລີກ
 autofill-save-button = ບັນທຶກ
 autofill-country-warning-message = ການຕື່ມແບບຟອມອັດຕະໂນມັດແມ່ນສາມາດໃຊ້ໄດ້ກັບບາງປະເທດເທົ່ານັ້ນ.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = ເພີ່ມບັດເຄຣດິດໃໝ່
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = ແກ້ໄຂບັດເຄຣດິດ
 autofill-message-tooltip = ເບິ່ງຂໍ້ຄວາມກ່ຽວກັບການຕື່ມຂໍ້ມູນອັດຕະໂນມັດ
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = ເພີ່ມບັດ
@@ -133,15 +120,3 @@ autofill-card-network = ປະເພດບັດ
 # methods section. Localizers should choose terms that make sense for payment
 # methods in their region.
 autofill-card-search-term-credit-cards = ບັດເຄຣດິດ, ເຄຣດິດ, ບັດຕ່າງໆ, ບັດເດບິດ, ເດບິດ, ກະເປົາເງິນ, ການຈ່າຍເງິນ
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = ຄົ້ນພົບ
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

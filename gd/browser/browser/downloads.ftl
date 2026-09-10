@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Seall san lorgaire
            *[other] Seall sa phasgan
         }
-downloads-cmd-show-downloads =
-    .label = Seall pasgan nan luchdadh a-nuas
 downloads-cmd-retry =
     .tooltiptext = Feuch ris a-rithist
 downloads-cmd-retry-panel =

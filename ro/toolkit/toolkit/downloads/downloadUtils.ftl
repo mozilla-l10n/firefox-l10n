@@ -96,11 +96,5 @@ download-utils-time-left-single = { $time } rămas
 download-utils-time-left-double = { $time1 } { $time2 } rămas
 download-utils-time-few-seconds = Au mai rămas câteva secunde
 download-utils-time-unknown = Timp rămas necunoscut
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = Resursă { $scheme }
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = fișier local
 # Displayed time for files finished yesterday
 download-utils-yesterday = Ieri

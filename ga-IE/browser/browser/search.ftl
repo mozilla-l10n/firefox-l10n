@@ -28,6 +28,6 @@ searchbar-icon =
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = Cuir Inneall Cuardaigh Leis
     .style = min-width: 32em;
+    .title = Cuir Inneall Cuardaigh Leis
 add-engine-name = Ainm an innill chuardaigh

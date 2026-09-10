@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Ρυθμίσεις σύνδεσης
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Ρυθμίσεις σύνδεσης
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Ανανέωση
     .accesskey = ν
-connection-proxy-autologin =
-    .label = Να μην ζητείται ταυτοποίηση αν είναι αποθηκευμένος ο κωδικός πρόσβασης
-    .accesskey = μ
-    .tooltip = Αυτή η επιλογή ελέγχει κρυφά την ταυτότητά σας σε διακομιστές μεσολάβησης όταν έχετε αποθηκεύσει τα διαπιστευτήριά τους. Θα ειδοποιηθείτε αν αποτύχει η ταυτοποίηση.
 connection-proxy-autologin-checkbox =
     .label = Να μην ζητείται ταυτοποίηση αν είναι αποθηκευμένος ο κωδικός πρόσβασης
-    .accesskey = μ
     .tooltiptext = Αυτή η επιλογή ελέγχει κρυφά την ταυτότητά σας σε διακομιστές μεσολάβησης όταν έχετε αποθηκεύσει τα διαπιστευτήριά τους. Θα ειδοποιηθείτε αν αποτύχει η ταυτοποίηση.
+    .accesskey = μ
 connection-proxy-socks4-remote-dns =
     .label = Χρήση διακομιστή μεσολάβησης DNS κατά τη χρήση του SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Χρήση του προεπιλεγμένου URL για ανάλυση DNS μέσω HTTPS
 connection-dns-over-https-url-custom =
     .label = Προσαρμοσμένο
-    .accesskey = Π
     .tooltiptext = Εισάγετε το προτιμώμενο URL σας για επίλυση DNS αντί HTTPS
-connection-dns-over-https-custom-label = Προσαρμοσμένο
+    .accesskey = Π

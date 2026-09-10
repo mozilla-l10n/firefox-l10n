@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Yañı İlmek
-newtab-settings-button =
-    .title = Yañı İlmek saifeñizni Özelleştiriñiz
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -50,7 +48,6 @@ newtab-search-box-search-button =
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
-newtab-topsites-edit-topsites-header = Üst Saytnı Tahrir Et
 newtab-topsites-title-label = Serlevha
 newtab-topsites-title-input =
     .placeholder = Bir serlevha kirset
@@ -75,13 +72,6 @@ newtab-confirm-delete-history-p1 = Bu saifeniñ her danesini keçmişiñizden si
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Bu amel keri yapılalmaz.
 
-## Context Menu - Action Tooltips.
-
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Bu saytnı tahrir et
-    .title = Bu saytnı tahrir et
-
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Tahrir Et
@@ -91,9 +81,6 @@ newtab-menu-dismiss = Sav
 newtab-menu-pin = Tüyre
 newtab-menu-unpin = Tüyrelmegen yap
 newtab-menu-delete-history = Keçmişten sil
-newtab-menu-save-to-pocket = { -pocket-brand-name }'ke Saqla
-newtab-menu-delete-pocket = { -pocket-brand-name }’ten sil
-newtab-menu-archive-pocket = { -pocket-brand-name }’te arhivle
 
 ##
 
@@ -133,23 +120,8 @@ newtab-label-download = Endirilgen
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Kesimni Çetleştir
-newtab-section-menu-collapse-section = Kesimni Eştir
-newtab-section-menu-expand-section = Kesimni Cayıldır
-newtab-section-menu-manage-section = Kesimni İdare Et
-newtab-section-menu-add-topsite = Zirvedeki Sayt Ekle
-newtab-section-menu-move-up = Yuqarı Avuştır
-newtab-section-menu-move-down = Aşağı Avuştır
 newtab-section-menu-privacy-notice = Hususiyat Tebliği
 
 ## Section Headers.
 
 newtab-section-header-topsites = Zirvedeki Saytlar
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } tevsiyeli
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Popülâr Mevzular:

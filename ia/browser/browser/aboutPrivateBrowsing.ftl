@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Aperir un fenestra private
     .accesskey = P
 about-private-browsing-search-placeholder = Cercar in le Web
-about-private-browsing-info-title = Tu es in un fenestra private
 about-private-browsing-search-btn =
     .title = Cercar in le Web
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Cercar con { $engine } o inserer un adresse
 about-private-browsing-handoff-text-no-engine = Cercar o inserer un adresse
 about-private-browsing-not-private = Tu non es actualmente in un fenestra private.
-about-private-browsing-info-description-private-window = Fenestra private: { -brand-short-name } cancella le chronologia de recerca e navigation quando es claudite tote le fenestras private. Isto non te rende anonyme.
-about-private-browsing-info-description-simplified = { -brand-short-name } cancella le chronologia de recerca e navigation quando es claudite tote le fenestras private, ma isto non te rende anonyme.
-about-private-browsing-learn-more-link = Saper plus
 about-private-browsing-hide-activity = Cela tu activitate e tu position, ubicunque tu naviga
 about-private-browsing-get-privacy = Obtene protectiones de confidentialitate ubicunque tu naviga
 about-private-browsing-hide-activity-1 = Cela tu activate de navigation e tu position con { -mozilla-vpn-brand-name }. Un sol clic pro crear un connexion secur, mesmo sur wi-fi public.
@@ -29,8 +25,6 @@ about-private-browsing-prominent-cta = Resta private con { -mozilla-vpn-brand-na
 about-private-browsing-focus-promo-cta = Discargar{ -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: navigation anonyme al volo
 about-private-browsing-focus-promo-text = Nostre app mobile devote al navigation anonyme, clara tu chronologia e cookies cata vice.
-about-private-browsing-focus-promo-header-b = Porta le navigation private a tu telephono
-about-private-browsing-focus-promo-text-b = Usa { -focus-brand-name } pro cercar qualcosa sin lassar tracias in tu navigator mobile principal.
 about-private-browsing-focus-promo-header-c = Confidentialitate de nivello superior sur mobile
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } elimina automaticamente le chronologia, ultra a blocar le publicitate e le traciatores.
 # This string is the title for the banner for search engine selection
@@ -66,11 +60,6 @@ about-private-browsing-relay-promo-link-text = Essaya le mascas de e-mail
 
 ## Strings used in a promotion message for cookie banner reduction
 
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = Bandieras pro cookies adeo!
-about-private-browsing-cookie-banners-promo-button = Reducer bandieras pro cookies
-about-private-browsing-cookie-banners-promo-message = Lassa que { -brand-short-name } responde automaticamente al quadros resaltante de cookies pro te, assi que tu pote navigar de novo libere de distractiones. { -brand-short-name } rejectara tote le requestas si possibile.
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } cura bandieras pro cookies pro te

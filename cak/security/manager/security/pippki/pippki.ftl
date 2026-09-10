@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Wakami at k'o pa rub'eyal FIPS. FIPS nrajo
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Titzolïx Nab'ey Ewan Tzij
     .style = min-width: 40em
+    .title = Titzolïx Nab'ey Ewan Tzij
 reset-password-button-label =
     .label = Titzolïx
 reset-primary-password-text = We natzolij ri Nab'ey Ewan Atzij, xkeyujtäj el ri nab'ey ewan taq tzij richin ajk'amaya'l chuqa' taqoya'l kichin tzij, ri taq kitzij nojwuj, ichinan ruwujil taq b'i'aj chuqa' ichinan ewan taq tzij. ¿La kan nawajo' natzolij ri nab'ey ewan atzij?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Xtzolïx Nab'ey Ewan Atzij.
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Tajin niqasäx ri ruwujil rub'i'
     .style = min-width: 46em
+    .title = Tajin niqasäx ri ruwujil rub'i'
 download-cert-message = Nik'utüx chawe chi tatz'eta' ütz ri k'ak'a' Taqonel Ya'öl Ruwujil B'i'aj (CA).
 download-cert-trust-ssl =
     .label = Takuqub'a' ak'u'x rik'in re CA richin ye'atz'ët ajk'amaya'l taq ruxaq k'amaya'l.
@@ -52,8 +52,6 @@ download-cert-view-text = Tinik'öx ruwujil rub'i' CA
 
 client-auth-window =
     .title = Ruk'utuxik ri rub'i' ri winäq
-client-auth-site-description = Re jun ruxaq k'amaya'l re' xuk'utuj pe chi taya' ab'i' rik'in jun ruwujil b'i'aj:
-client-auth-choose-cert = Tacha' jun ruwujil b'i'aj richin nak'utub'ej awi':
 client-auth-cert-details = Cha'on kib'anikil ruwujil b'i'aj:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = وردنی یل وو زمینه یل
 appmenuitem-extensions =
     .label = وردنی یل
-appmenuitem-addons-and-themes =
-    .label = وردنی یل وو زمینه یل
 appmenuitem-print =
     .label = چاپ…
 appmenuitem-find-in-page =
@@ -150,7 +148,6 @@ fxa-menu-get-firefox-mobile =
     .label = گرؽڌن { -brand-product-name } سی ٱندروید وو iOS
 fxa-menu-secure-sync-subpanel =
     .title = هوم گوم کردن ٱمن
-appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-account-header = هساو منتوری
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -172,15 +169,6 @@ appmenuitem-save-page =
     .label = زفت کردن بلگه و عونوان…
 appmenuitem-fxa-sync-off-title = هوم گوم کردن کۊر هڌ
 appmenuitem-fxa-sync-off-description = زفت کردن وو دسرسی و نشووکا، رزما وو مووردا دیری من هر جاگهی
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = چ چیه نۊ هڌ
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = وارسۊوی زبار چیا نۊ
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -322,8 +310,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = دووسمندیا قلوه زبار عیو جۊری
     .accesskey = t
-appmenu-help-report-site-issue =
-    .label = گوزارش موشکلا وبگه…
 appmenu-help-share-ideas =
     .label = یک رسۊوی ایده یل وو منشڌا…
     .accesskey = S
@@ -386,7 +372,6 @@ appmenuitem-services-relay-description = داشبورد ره وندن ماسکا
 appmenuitem-vpn-title2 = جاگه خوتووݩ ن وا { -mozilla-vpn-brand-name } بؽڌار کۊنین
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = پوی دسگا ن زفت کۊنین
-appmenuitem-vpn-description = زفت کردن فعالیت ریتور ایسا
 appmenu-services-header = خدمات مو
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -396,7 +381,6 @@ appmenu-other-protection-header3 = ٱوزارا زفت کردن هریم سیخ�
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = ٱوزارا زفت وابیڌنی دیری Mozilla ن امتهووݩ کۊنین:
-appmenu-other-protection-header = پوی ٱوزارا زفت وابیڌنی ز { -vendor-short-name } ن امتهووݩ کۊنین:
 
 ## Profiles panel
 

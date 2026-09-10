@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Undanþágur
     .style = min-width: 45em
+    .title = Undanþágur
 permissions-close-key =
     .key = w
 permissions-address = Vistfang vefsvæðis
@@ -80,71 +80,56 @@ permissions-invalid-uri-label = Settu inn löglegt vélarheiti.
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Undanþágur fyrir aukna rakningarvörn
     .style = { permissions-window2.style }
+    .title = Undanþágur fyrir aukna rakningarvörn
 permissions-exceptions-manage-etp-desc = Þú getur skilgreint hvaða vefsvæði hafi slökkt á aukinni rakningarvörn. Settu inn nákvæma vefslóð fyrir vefsvæðið og smelltu svo á Bæta við undantekningu.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Undantekningar - Vefkökur og gögn vefsvæðis
     .style = { permissions-window2.style }
+    .title = Undantekningar - Vefkökur og gögn vefsvæðis
 permissions-exceptions-cookie-desc = Þú getur skilgreint hvaða vefsvæði hafa leyfi eða ekki til að geyma vefkökur og gögn.  Settu inn nákvæma slóð fyrir það vefsvæði sem þú vilt sýsla með og smelltu svo á að loka, leyfa fyrir lotu eða leyfa.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Undantekningar - Einungis-HTTPS-hamur
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Þú getur slökkt á Einungis-HTTPS-ham fyrir tilteknar vefsíður. { -brand-short-name } mun ekki reyna að uppfæra tenginguna til að tryggja HTTPS fyrir þessar síður. Undantekningar eiga ekki við um huliðsglugga.
+    .title = Undantekningar - Einungis-HTTPS-hamur
 permissions-exceptions-https-only-desc2 = Þú getur slökkt á Einungis-HTTPS-ham fyrir tilteknar vefsíður. { -brand-short-name } mun ekki reyna að uppfæra tenginguna til að tryggja HTTPS fyrir þessar síður.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
     .title = Leyfð vefsvæði - sprettgluggar og utanaðkomandi endurbeiningar
-    .style = { permissions-window2.style }
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Leyfð vefsvæði - Sprettgluggar
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Þú getur skilgreint hvaða vefsvæði hafa leyfi til að opna sprettglugga. Settu inn nákvæma vefslóð fyrir vefsvæðið og smelltu svo á að leyfa.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Undantekningar - Vistaðar innskráningar
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Innskráningar fyrir eftirfarandi vefsvæði verða ekki vistuð
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Undantekningar - Vistuð lykilorð
     .style = { permissions-window2.style }
+    .title = Undantekningar - Vistuð lykilorð
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } mun ekki vista lykilorð fyrir vefsvæði sem skráð eru hér.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Leyfð vefsvæði - Uppsetning á viðbótum
     .style = { permissions-window2.style }
+    .title = Leyfð vefsvæði - Uppsetning á viðbótum
 permissions-exceptions-addons-desc = Þú getur skilgreint hvaða vefsvæði hafa leyfi til að setja inn viðbætur. Settu inn nákvæma vefslóð fyrir vefsvæðið og smelltu svo á að leyfa.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Stillingar - sjálfspillun
     .style = { permissions-window2.style }
+    .title = Stillingar - sjálfspillun
 permissions-site-autoplay-desc = Hér getur þú getur stjórnað þeim síðum sem ekki fylgja sjálfgefnum stillingum sjálfspilunar.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Stillingar - Leyfðar tilkynningar
     .style = { permissions-window2.style }
+    .title = Stillingar - Leyfðar tilkynningar
 permissions-site-notification-desc = Eftirfarandi vefsvæði hafa beðið um að senda þér tilkynningar. Þú getur skilgreint hvaða vefsvæði hafa leyfi til að senda þér tilkynningar. Þú getur einnig lokað á nýjar beiðnir um að leyfa tilkynningar.
 permissions-site-notification-disable-label =
     .label = Loka á nýjar beiðnir sem spyrja um hvort leyfa megi tilkynningar
@@ -153,8 +138,8 @@ permissions-site-notification-disable-desc = Þetta kemur í veg fyrir að vefsv
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Stillingar - Leyfðar staðsetningar
     .style = { permissions-window2.style }
+    .title = Stillingar - Leyfðar staðsetningar
 permissions-site-location-desc = Eftirfarandi vefsvæði hafa beðið um að fá að aðgang að staðsetningu. Þú getur skilgreint hvaða vefsvæði hafa aðgang að staðsetningu. Þú getur einnig lokað á nýjar beiðnir um staðsetningu.
 permissions-site-location-disable-label =
     .label = Loka á nýjar beiðnir sem spyrja um aðgang að staðsetningu
@@ -163,8 +148,8 @@ permissions-site-location-disable-desc = Þetta kemur í veg fyrir að vefsvæð
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Stillingar - Heimildir fyrir sýndarveruleika
     .style = { permissions-window2.style }
+    .title = Stillingar - Heimildir fyrir sýndarveruleika
 permissions-site-xr-desc = Eftirfarandi vefsvæði hafa beðið um að fá að aðgang að sýndarveruleikatækjum. Þú getur skilgreint hvaða vefsvæði hafa aðgang að sýndarveruleikatækjunum þínum. Þú getur einnig lokað á nýjar beiðnir um aðgang að sýndarveruleikatækjum.
 permissions-site-xr-disable-label =
     .label = Loka á nýjar beiðnir sem spyrja um aðgang að sýndarveruleikatækjum
@@ -173,8 +158,8 @@ permissions-site-xr-disable-desc = Þetta kemur í veg fyrir að vefsvæði sem 
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Stillingar - Leyfi fyrir myndavél
     .style = { permissions-window2.style }
+    .title = Stillingar - Leyfi fyrir myndavél
 permissions-site-camera-desc = Eftirfarandi vefsvæði hafa beðið um að fá að aðgang að myndavél. Þú getur skilgreint hvaða vefsvæði hafa aðgang að myndavél. Þú getur einnig lokað á nýjar beiðnir um aðgang að myndavél.
 permissions-site-camera-disable-label =
     .label = Loka á nýjar beiðnir sem spyrja um aðgang að myndavél
@@ -183,8 +168,8 @@ permissions-site-camera-disable-desc = Þetta kemur í veg fyrir að vefsvæði 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Stillingar - Leyfi fyrir hljóðnema
     .style = { permissions-window2.style }
+    .title = Stillingar - Leyfi fyrir hljóðnema
 permissions-site-microphone-desc = Eftirfarandi vefsvæði hafa beðið um að fá að aðgang að hljóðnema. Þú getur skilgreint hvaða vefsvæði hafa aðgang að hljóðnema. Þú getur einnig lokað á nýjar beiðnir um aðgang að hljóðnema.
 permissions-site-microphone-disable-label =
     .label = Loka á nýjar beiðnir sem spyrja um aðgang að hljóðnema
@@ -195,12 +180,12 @@ permissions-site-microphone-disable-desc = Þetta kemur í veg fyrir að vefsvæ
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Stillingar - Leyfi fyrir hátalara
     .style = { permissions-window2.style }
+    .title = Stillingar - Leyfi fyrir hátalara
 permissions-site-speaker-desc = Eftirfarandi vefsvæði hafa beðið um að fá að velja hljóðúttakstæki. Þú getur skilgreint hvaða vefsvæði hafi heimild til að velja hljóðúttakstæki.
 permissions-exceptions-doh-window =
-    .title = Undantekningar á vefsvæðum fyrir DNS yfir HTTPS
     .style = { permissions-window2.style }
+    .title = Undantekningar á vefsvæðum fyrir DNS yfir HTTPS
 permissions-exceptions-manage-doh-desc = { -brand-short-name } mun ekki nota öruggt DNS á þessum vefsvæðum og undirlénum þeirra.
 permissions-doh-entry-field = Settu inn lén vefsvæðisins
     .accesskey = l

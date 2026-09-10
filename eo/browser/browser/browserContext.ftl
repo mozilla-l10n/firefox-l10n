@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Unu paĝo malantaŭen ({ $shortcut })
     .aria-label = Malantaŭen
+    .tooltiptext = Unu paĝo malantaŭen ({ $shortcut })
     .accesskey = M
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Unu paĝo antaŭen ({ $shortcut })
     .aria-label = Antaŭen
+    .tooltiptext = Unu paĝo antaŭen ({ $shortcut })
     .accesskey = A
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Aldoni paĝon al legosignoj…
-    .accesskey = p
     .tooltiptext = Aldoni paĝon al legosignoj
+    .accesskey = p
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Aldoni paĝon al legosignoj…
-    .accesskey = p
     .tooltiptext = Aldoni paĝon al legosignoj ({ $shortcut })
+    .accesskey = p
 main-context-menu-edit-bookmark =
     .aria-label = Modifi legosignon…
-    .accesskey = M
     .tooltiptext = Modifi legosignon
+    .accesskey = M
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Modifi legosignon…
-    .accesskey = M
     .tooltiptext = Modifi legosignon ({ $shortcut })
+    .accesskey = M
 main-context-menu-open-link =
     .label = Malfermi ligilon
     .accesskey = O
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Konservi ligitan dosieron kiel…
     .accesskey = K
-main-context-menu-save-link-to-pocket =
-    .label = Konservi ligilon en { -pocket-brand-name }
-    .accesskey = l
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Ŝaltu speguladon por s
 main-context-menu-send-to-mobile-connect-phone3 = Konektu aparaton por sendi langetojn
 main-context-menu-send-to-mobile-connect-phone-from-link = Konektu aparaton por sendi ligilon
 main-context-menu-send-to-mobile-connect-phone-from-page = Konektu aparaton por sendi paĝon
-main-context-menu-save-to-pocket =
-    .label = Konservi paĝon en { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Sendi paĝon al aparato
-    .accesskey = a
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Uzi konservitan legitimilon
-    .accesskey = U
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Uzi konservitan pasvorton
     .accesskey = p
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Uzi retpoŝtan maskon de { -relay-brand-short-name }
     .accesskey = r
 main-context-menu-suggest-strong-password =
     .label = Sugesti fortan pasvorton…
     .accesskey = f
-main-context-menu-manage-logins2 =
-    .label = Administri legitimilojn
-    .accesskey = l
 main-context-menu-manage-passwords =
     .label = Administri pasvortojn
     .accesskey = p
-main-context-menu-keyword =
-    .label = Aldoni kategorian vorton por tiu ĉi serĉado…
-    .accesskey = v
 main-context-menu-add-engine =
     .label = Aldoni serĉilon
     .accesskey = s
@@ -391,9 +364,6 @@ main-context-menu-view-selection-source =
     .label = Vidi fonton de selekto
     .accesskey = e
 main-context-menu-take-screenshot =
-    .label = Fari ekrankopion
-    .accesskey = e
-main-context-menu-take-frame-screenshot =
     .label = Fari ekrankopion
     .accesskey = e
 main-context-menu-view-page-source =

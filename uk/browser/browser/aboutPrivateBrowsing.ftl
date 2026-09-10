@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Відкрити приватне вікно
     .accesskey = п
 about-private-browsing-search-placeholder = Пошук в Інтернеті
-about-private-browsing-info-title = Ви у приватному вікні
 about-private-browsing-search-btn =
     .title = Пошук в Інтернеті
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Шукайте за допомогою { $engine } або введіть адресу
 about-private-browsing-handoff-text-no-engine = Введіть запит чи адресу
 about-private-browsing-not-private = Зараз ви не у приватному вікні.
-about-private-browsing-info-description-private-window = Приватне вікно: { -brand-short-name } очищує історію пошуку та перегляду, коли ви закриваєте всі приватні вікна. Це не робить вас анонімними.
-about-private-browsing-info-description-simplified = { -brand-short-name } очищує історію пошуку та перегляду, коли ви закриваєте усі приватні вікна, але це не робить вас анонімними.
-about-private-browsing-learn-more-link = Докладніше
 about-private-browsing-hide-activity = Приховуйте свою активність і місцеперебування де б ви не переглядали щось в інтернеті
 about-private-browsing-get-privacy = Отримайте захист приватності в інтернеті всюди
 about-private-browsing-hide-activity-1 = Приховуйте діяльність в інтернеті та розташування за допомогою { -mozilla-vpn-brand-name }. Створюйте захищене з'єднання одним натисканням — навіть у публічній мережі Wi-Fi.
@@ -29,8 +25,6 @@ about-private-browsing-prominent-cta = Зберігайте приватніст
 about-private-browsing-focus-promo-cta = Завантажити { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: приватний перегляд у дорозі
 about-private-browsing-focus-promo-text = Наша спеціальна програма для приватного перегляду на мобільних пристроях щоразу очищає вашу історію і файли cookie.
-about-private-browsing-focus-promo-header-b = Перейдіть до приватного перегляду на своєму телефоні
-about-private-browsing-focus-promo-text-b = Користуйтеся { -focus-brand-name } для тих приватних пошуків, які ви хочете приховати від основного мобільного браузера.
 about-private-browsing-focus-promo-header-c = Приватність вищого рівня на мобільному пристрої
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } щоразу очищує вашу історію, блокуючи рекламу та елементи стеження.
 # This string is the title for the banner for search engine selection
@@ -66,11 +60,6 @@ about-private-browsing-relay-promo-link-text = Спробуйте маски е�
 
 ## Strings used in a promotion message for cookie banner reduction
 
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = Приберіть банери про файли cookie!
-about-private-browsing-cookie-banners-promo-button = Зменшити кількість банерів про файли cookie
-about-private-browsing-cookie-banners-promo-message = Дозвольте { -brand-short-name } автоматично відповідати на спливні запити про файли cookie, щоб вони не заважали вам під час онлайн-перегляду. { -brand-short-name } відхилить усі запити, якщо це можливо.
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } оброблятиме запити про файли cookie для вас

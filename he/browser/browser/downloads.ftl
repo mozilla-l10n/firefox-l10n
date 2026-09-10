@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] הצגה ב־Finder
            *[other] הצגה בתיקייה
         }
-downloads-cmd-show-downloads =
-    .label = הצגת תיקיית ההורדות
 downloads-cmd-retry =
     .tooltiptext = ניסיון חוזר
 downloads-cmd-retry-panel =

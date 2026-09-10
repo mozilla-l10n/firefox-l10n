@@ -30,7 +30,6 @@ inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</st
 inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> mbulohet në ::first-letter pseudo-elements.
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> nuk mbulohet në ::placeholder pseudo-elements.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë ka shfaqje të <strong>{ $display }</strong>.
-inactive-css-not-display-block-on-floated = Vlera <strong>display</strong> është ndryshuar nga motori në <strong>block</strong>, ngaqë elementi është <strong>floated</strong>.
 inactive-css-not-block = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë ka vend vetëm për elementë në nivel blloku.
 inactive-css-property-is-impossible-to-override-in-visited = Është e pamundur të anashkalohet <strong>{ $property }</strong>, për shkak të kufizimit <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë s’është element i pozicionuar.
@@ -44,16 +43,6 @@ inactive-css-not-table-cell = <strong>{ $property }</strong> s’ka efekt mbi k�
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> s’ka ndikim mbi këtë element, ngaqë ky nuk kryen rrëshqitje.
 inactive-css-border-image = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë s’mund të aplikohet mbi elementë tabelash të brendshme, kur <strong>border-collapse</strong> është caktuar si <strong>collapse</strong>, te elementi i tabelës mëmë.
 inactive-css-ruby-element = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë është një element ruby. Madhësia e tij përcaktohet nga madhësia e shkronjave të tekstit ruby.
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> nuk mbulohet për pseudo-elementë të theksuar.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> nuk mbulohet për ::cue pseudo-elements.
 inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> s’mbulohet në rregulla <strong>@position-try</strong>.

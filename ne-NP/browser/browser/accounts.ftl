@@ -25,26 +25,12 @@ account-send-to-all-devices-titlecase = सम्पूर्ण उपकरण
 account-manage-devices-titlecase = यन्त्रहरू प्रबन्धन गर्नुहोस्...
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = कुनैपनि उपकरणहरु जडान गरिएको छैन
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = पठाउने ट्याबहरुबारे सिक्नुहोस्...
-# Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = अर्को उपकरण जडान गर्नुहोस्…
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = खाता प्रमाणित छैन
-account-send-tab-to-device-verify = खाता प्रमाणित गर्नुहोस्...
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
-# The title shown in a notification when either this device or another device
-# has connected to, or disconnected from, a Firefox account.
-account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title-2 = खाता

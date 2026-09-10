@@ -13,7 +13,6 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } کوں دوبا�
 
 ##
 
-firefox-relay-must-login-to-fxa = { -relay-brand-name } استعمال کرݨ کیتے تہاکوں { -fxaccount-brand-name } وِچ لاگ ان کرݨا پوسے۔
 firefox-relay-must-login-to-account = آپݨے { -relay-brand-name } ای میل ماسکس ورتݨ کِیتے آپݨے اکاؤنٹ وِچ سائن ان تھیوو۔
 firefox-relay-get-unlimited-masks =
     .label = ماسک منظم کرو
@@ -33,27 +32,12 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = ہݨ نئیں
     .accesskey = N
-firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
-    .label = سائن اپ
-    .accesskey = S
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = ایہ میکوں ولا نہ ݙکھاؤ
     .accesskey = D
 firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = ہݨ کائناں
     .accesskey = N
-
-## The "basic-info" variation of the Relay offer popup
-
-firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
-    .label = سائن اپ
-    .accesskey = S
-
-## The "with-domain" variation of the Relay offer popup
-
-firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
-    .label = سائن اپ
-    .accesskey = S
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 

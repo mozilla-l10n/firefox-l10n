@@ -62,7 +62,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Embojuehe nde rechaukaha eimeha guive.
-cfr-doorhanger-bookmark-fxa-body = ¡Mba’eguasu jejuhu! Ko’ág̃a aníke epyta ko techaukaha’ỹre ne pumbyry popeguápe. Eñepyrũ { -fxaccount-brand-name } ndive.
 cfr-doorhanger-bookmark-fxa-body-2 = ¡Mba’eguasu jejuhu! Ko’ág̃a aníke epyta techaukaha’ỹre ne pumbyry popeguápe. Eñepyrũ mba’ete ndive.
 cfr-doorhanger-bookmark-fxa-link-text = Embojuehehína techaukaha...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -75,12 +74,6 @@ fxa-adoption-credit-cards-backup-subtitle = Emo’ã nde jehepyme’ẽrã rape 
 fxa-adoption-bookmarks-treatment-backup-title = Ñañongatu jey techaukaha rekorosãrã
 fxa-adoption-bookmarks-treatment-backup-subtitle = Emo’ã nde rechaukaha mbojuehepyre ne mba’e’okápe eiporúvo mbopapapy.
 fxa-adoption-primary-button-label = Eñemboheraguapy
-
-## Protections panel
-
-cfr-protections-panel-header = Eikundaha ejehapykueho’ỹre
-cfr-protections-panel-body = Eñongatu ne mba’ekuaarã ndéve g̃uarã. { -brand-short-name } omo’ãta heta tapykuehohágui ohecháva mba’etépa ejapo ñandutípe.
-cfr-protections-panel-link-text = Eikuaave
 
 ## What's New toolbar button and panel
 
@@ -175,42 +168,8 @@ mr2022-background-update-toast-primary-button-label = Embojuruja { -brand-shorte
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Chemomandu’a ag̃ave
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Eha’ã jey
-    .accesskey = T
-firefoxview-cfr-secondarybutton = Ani ko’ág̃a
-    .accesskey = N
-firefoxview-cfr-header-v2 = Eku’ejey pya’e eheja haguetégui
-firefoxview-cfr-body-v2 = Eguerujey tendayke oñembotyramóva ha ehasa pya’e mba’e’oka pa’ũme { -firefoxview-brand-name } ndive.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Emomaitei { -firefoxview-brand-name }-pe
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = ¿Eipota tendayke ijurujáva ne pumbyrúpe? Eguerujey pya’e. ¿Eikotevẽ tenda eikeramoha rehe? Oĩ { -firefoxview-brand-name }-pe.
-firefoxview-spotlight-promo-primarybutton = Ehecha mba’éichapa omba’apo
-firefoxview-spotlight-promo-secondarybutton = Jepo
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Eiporaro sa’y ojueheguáva
-    .accesskey = C
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Embosa’y kundahára eipotavévape { -brand-short-name } ndive ohechakuaáva umi ñe’ẽ omoambuéva mba’ekuaa.
-colorways-cfr-header-28days = Umi sa’y ojuehegua Independent Voices ndojeporukuaavéitama 16 jasyteĩ guive
-colorways-cfr-header-14days = Sa’y ojuehegua Independent Voices ndojeporukuaavéitama mokõi arapokõindýpe
-colorways-cfr-header-7days = Umi sa’y ojuehegua Independent Voices ndojeporukuaavéitama ko arapokõindýpe
-colorways-cfr-header-today = Umi sa’y ojuehegua Independent Voices ndojeporukuaavéitama ko árape
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = ¿Emoneĩ { -brand-short-name } tomboyke kookie banner?
-cfr-cbh-body = { -brand-short-name } omboykekuaa ijehegui heta kookie banner mba’ejerure.
-cfr-cbh-confirm-button = Embojevy kookie banner
-    .accesskey = R
-cfr-cbh-dismiss-button = Ani ko’ág̃a
-    .accesskey = N
 cookie-banner-blocker-onboarding-header = { -brand-short-name } omboyke kookie marandu’i nde rérape
 cookie-banner-blocker-onboarding-body = Sa’ive ñakãity, sa’ive kookie nde rapykuehóva ko tendápe.
 cookie-banner-blocker-onboarding-learn-more = Eikuaave

@@ -19,11 +19,6 @@ migration-wizard-selection-option-without-profile = { $sourceBrowser }
 #  $sourceBrowser (String): the name of the browser to import from.
 #  $profileName (String): the name of the user profile to import from.
 migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
-
-# Each migrator is expected to include a display name string, and that display
-# name string should have a key with "migration-wizard-migrator-display-name-"
-# as a prefix followed by the unique identification key for the migrator.
-
 migration-wizard-migrator-display-name-brave = Brave
 migration-wizard-migrator-display-name-canary = Chrome Canary
 migration-wizard-migrator-display-name-chrome = Chrome
@@ -75,7 +70,6 @@ migration-bookmarks-option-label = Dấu trang
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Trang ưa thích
-migration-logins-and-passwords-option-label = Thông tin đăng nhập và mật khẩu đã lưu
 migration-passwords-option-label = Mật khẩu đã lưu
 migration-history-option-label = Lịch sử duyệt web
 migration-extensions-option-label = Tiện ích mở rộng
@@ -197,8 +191,6 @@ migration-chrome-windows-password-import-step4 = Quay lại đây và “Chọn 
 migration-manual-password-import-skip-button = Bỏ qua
 migration-manual-password-import-cancel-button = Hủy bỏ
 migration-manual-password-import-select-button = Chọn tập tin
-migration-safari-password-import-skip-button = Bỏ qua
-migration-safari-password-import-select-button = Chọn tập tin
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #

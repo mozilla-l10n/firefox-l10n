@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Gnove schede
-    .accesskey = G
 reload-tab =
     .label = Torne cjarie la schede
     .accesskey = r
@@ -102,10 +99,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Gnûf grup
     .accesskey = G
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -137,13 +130,6 @@ tab-context-send-to-device =
             [1] Mande a dispositîf
             [one] Mande a dispositîf
            *[other] Mande { $tabCount } schedis a dispositîf
-        }
-    .accesskey = n
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Mande la schede al dispositîf
-           *[other] Mande { $tabCount } schedis al dispositîf
         }
     .accesskey = n
 tab-context-unload-n-tabs =

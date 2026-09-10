@@ -19,10 +19,6 @@ security-software-name = పేరు
 security-software-antivirus = యాంటీవైరస్
 security-software-antispyware = యాంటీస్పైవేర్
 security-software-firewall = ఫైర్వాల్
-features-title = { -brand-short-name } విశేషాలు
-features-name = పేరు
-features-version = వెర్షను
-features-id = ID
 processes-type = రకం
 app-basics-title = అనువర్తనం ప్రాధమికాలు
 app-basics-name = పేరు
@@ -36,7 +32,6 @@ app-basics-profile-dir =
         [linux] ప్రొఫైల్ డైరెక్టరీ
        *[other] ప్రొఫైల్ సంచయం
     }
-app-basics-enabled-plugins = చేతనపరచిన చొప్పింతలు
 app-basics-build-config = నిర్మామ ఆకృతీకరణ
 app-basics-user-agent = వాడుకరి ప్రతినిధి
 app-basics-os = OS
@@ -56,9 +51,6 @@ show-dir-label =
     }
 environment-variables-name = పేరు
 environment-variables-value = విలువ
-experimental-features-title = ప్రయోగాత్మక సౌలభ్యాలు
-experimental-features-name = పేరు
-experimental-features-value = విలువ
 modified-key-prefs-title = సవరించిన అభిరుచులలో ముఖ్యమైనవి
 modified-prefs-name = పేరు
 modified-prefs-value = విలువ

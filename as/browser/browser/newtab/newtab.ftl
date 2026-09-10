@@ -6,13 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = নতুন টেব
-newtab-settings-button =
-    .title = আপোনাৰ নতুন টেবৰ পৃষ্ঠা কাষ্টমাইজ কৰক
-newtab-personalize-icon-label =
-    .aria-label = নতুন টেব ব্যক্তিগতকৰণ কৰক।
-    .title = নতুন টেব ব্যক্তিগতকৰণ কৰক
-newtab-personalize-dialog-label =
-    .aria-label = ব্যক্তিগতকৰণ কৰক
 
 ## Firefox Home content
 
@@ -50,7 +43,6 @@ newtab-search-box-input =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = ছাৰ্চ ইঞ্জিন যোগ কৰক
-newtab-topsites-edit-topsites-header = শীৰ্ষ ছাইট সম্পাদনা কৰক
 newtab-topsites-title-label = শীৰ্ষক
 newtab-topsites-title-input =
     .placeholder = শীৰ্ষক প্ৰবিষ্ট কৰক
@@ -86,20 +78,12 @@ newtab-topsite-sponsored = পৃষ্ঠপোষকতা কৰা
 newtab-menu-section-tooltip =
     .aria-label = মেন্যু খোলক
     .title = মেন্যু খোলক
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = আঁতৰাওক
-    .title = আঁতৰাওক
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = { $title }-ৰ কণ্টেক্স্‌ট মেন্যু খোলক
     .title = মেন্যু খোলক
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = এই ছাইট সম্পাদনা কৰক
-    .title = এই ছাইট সম্পাদনা কৰক
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -110,15 +94,7 @@ newtab-menu-dismiss = খাৰিজ কৰক
 newtab-menu-pin = পিন কৰক
 newtab-menu-unpin = আনপিন কৰক
 newtab-menu-delete-history = ইতিহাসৰ পৰা মচি পেলাওক
-newtab-menu-save-to-pocket = { -pocket-brand-name }-ত সাঁচি থওক
-newtab-menu-delete-pocket = { -pocket-brand-name }-ৰ পৰা মচি পেলাওক
-newtab-menu-archive-pocket = { -pocket-brand-name }-ত আৰ্কাইভ কৰক
 newtab-menu-show-privacy-info = আমাৰ স্পঞ্চৰ আৰু আপোনাৰ গোপনিয়তা
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = হৈ গ'ল
-newtab-privacy-modal-header = আপোনাৰ গোপনিয়তাৰ গুৰুত্ব আছে।
 
 ##
 
@@ -162,31 +138,12 @@ newtab-label-sponsored-by = { $sponsor }দ্বাৰা পৃষ্ঠপো
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = শাখা আঁতৰাওক
-newtab-section-menu-collapse-section = শাখা জপাওক
-newtab-section-menu-expand-section = শাখা বহলাওক
-newtab-section-menu-manage-section = শাখা পৰিচালনা কৰক
-newtab-section-menu-manage-webext = এক্সটেনশ্যন পৰিচালনা
-newtab-section-menu-add-topsite = শীৰ্ষ ছাইট যোগ কৰক
-newtab-section-menu-add-search-engine = ছাৰ্চ ইঞ্জিন যোগ কৰক
-newtab-section-menu-move-up = ওপৰলৈ নিয়ক
-newtab-section-menu-move-down = তললৈ নিয়ক
 newtab-section-menu-privacy-notice = গোপনিয়তা জাননী
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = শাখা জপাওক
-newtab-section-expand-section-label =
-    .aria-label = শাখা বহলাওক
 
 ## Section Headers.
 
 newtab-section-header-topsites = শীৰ্ষ ছাইটসমূহ
 newtab-section-header-recent-activity = শেহতীয়া কাৰ্যকলাপ
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider }-ৰ দ্বাৰা পৰামৰ্শিত
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -197,11 +154,6 @@ newtab-discovery-empty-section-topstories-loading = ল'ড হৈ আছে…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = উস্! আমি এই শাখাটো ল'ড কৰিছিলোঁৱেই প্ৰায়, কিন্তু পূৰা নহ'ল।
 
-## Pocket Content Section.
-
-newtab-pocket-learn-more = অধিক জানক
-newtab-pocket-cta-button = { -pocket-brand-name } পাওক
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -209,7 +161,6 @@ newtab-error-fallback-refresh-link = পুনৰ চেষ্টা কৰি�
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-subtitle = আপুনি সাঁচি থোৱা বা দৰ্শন কৰা ছাইটসমূহ
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -219,11 +170,3 @@ newtab-custom-row-selector2 =
             [one] { $num }টা শাৰী
            *[other] { $num }টা শাৰী
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num }টা শাৰী
-       *[other] { $num }টা শাৰী
-    }
-newtab-custom-close-button = বন্ধ কৰক

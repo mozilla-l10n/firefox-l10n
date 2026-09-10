@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = དྲ་ངོས་ཤིག་ཕྱིར་ལོག ({ $shortcut })
     .aria-label = ཕྱིར་ལོག
+    .tooltiptext = དྲ་ངོས་ཤིག་ཕྱིར་ལོག ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = དྲ་ངོས་ཤིག་མདུན་སྐྱོད ({ $shortcut })
     .aria-label = མདུན་སྐྱོད
+    .tooltiptext = དྲ་ངོས་ཤིག་མདུན་སྐྱོད ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -178,15 +178,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = གློག་ཡིག་བརྒྱུད་ནས་སྒྲ་སྐུར་བ…
     .accesskey = a
-main-context-menu-send-to-device =
-    .label = དྲ་ངོས་དེ་སྒྲིག་ཆས་ལ་སྐུར་བ
-    .accesskey = n
 
 ##
 
-main-context-menu-keyword =
-    .label = འཚོལ་བཤེར་འདི་ལ་གནད་ཚིག་ཞིག་ཁ་སྣོན…
-    .accesskey = K
 main-context-menu-link-send-to-device =
     .label = སྦྲེལ་ཐག་དེ་སྒྲིག་ཆས་ལ་སྐུར་བ
     .accesskey = n

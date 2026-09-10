@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Raporto sendita. Dankon!
-confirmation-hint-login-removed = Legitimilo forigita!
 confirmation-hint-password-removed = Pasvorto forigita!
 confirmation-hint-page-bookmarked = Konservita en la legosignoj
-confirmation-hint-password-saved = Pasvorto konservita!
 confirmation-hint-password-created = Pasvorto konservita
 confirmation-hint-password-updated = Pasvorto ĝisdatigita
 confirmation-hint-address-created = Adreso konservita

@@ -7,7 +7,6 @@
 
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = ပုံစံ ဖြည့်ပေးသူ ၏ ရွေးချယ်စရာများ
-autofill-options-link-osx = ပုံစံ ဖြည့်ပေးသူ အပြင်အဆင်များ
 
 ## The credit card capture doorhanger
 
@@ -18,16 +17,6 @@ autofill-clear-form-label = အလိုအလျောက် ပုံစံဖ
 
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
-# The warning text that is displayed for informing users what categories are
-# about to be filled.  The text would be, for example,
-#   Also autofills organization, phone, email.
-# Variables:
-#   $categories - one or more of the categories, see autofill-category-X below
-autofill-phishing-warningmessage-extracategory = { $categories }ကိုလည်းအလိုလျောက်ဖြည့်စွက်မှုလုပ်ပါ
-# Variation when all are in the same category.
-# Variables:
-#   $categories - one or more of the categories
-autofill-phishing-warningmessage = { $categories } ကို အလိုအလျောက်ဖြည့်စွက်ပါ
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = လိပ်စာ
 autofill-category-name = နာမည်

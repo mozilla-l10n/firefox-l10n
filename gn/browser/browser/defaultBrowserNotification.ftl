@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = Ereko { -brand-short-name } aig̃ui ndehegu
 default-browser-prompt-message-pin-msix = Ereko { -brand-short-name } ag̃ui ndehegui: ejapo chugui kundahára ypyguáva ha emboja tembiaporã rupa ha poravoha ñepyrũhápe.
 default-browser-prompt-message-pin-mac = Ereko { -brand-short-name } ag̃ui ndehegui — ejapo chugui kundahára ijypyguáva ha emoĩ nde Dock-pe.
 default-browser-prompt-button-primary-set = Ejapo kundahára eiporuvévarõ
-default-browser-prompt-button-primary-pin = Ejapo kundahára eiporuvévarõ
 default-browser-prompt-title-alt = Ejapo { -brand-short-name }-gui ne kundaha ypyguávarõ
 default-browser-prompt-message-alt = Erekosépa ipya’e, hekorosã ha hekoñemíva eikundaha vove.
 default-browser-prompt-button-primary-alt = Ejapo kundahára ijypyguávarõ

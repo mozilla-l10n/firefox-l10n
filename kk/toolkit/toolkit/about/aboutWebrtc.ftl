@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Жабылған PeerCo
 about-webrtc-aec-logging-msg-label = AEC логтауы
 about-webrtc-aec-logging-off-state-label = AEC логтауын іске қосу
 about-webrtc-aec-logging-on-state-label = AEC логтауын тоқтату
-about-webrtc-aec-logging-on-state-msg = AEC логтауы белсенді (абонентпен бірнеше минут бойы сөйлесіп, жазуды тоқтатыңыз)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC логтауы белсенді (абонентпен бірнеше минут бойы сөйлесіп, жазуды тоқтатыңыз)
 about-webrtc-aec-logging-unavailable-sandbox = MOZ_DISABLE_CONTENT_SANDBOX=1 қоршам айнымалысы AEC журналдарын экспорттау үшін керек. Бұл айнымалыны тек мүмкін болатын тәуекелдерді түсінсеңіз ғана орнатыңыз.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Ұсынған
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Таңдалған
 about-webrtc-save-page-label = Парақты сақтау
-about-webrtc-debug-mode-msg-label = Жөндеу режимі
-about-webrtc-debug-mode-off-state-label = Жөндеу режимін іске қосу
-about-webrtc-debug-mode-on-state-label = Жөндеу режимін тоқтату
-about-webrtc-stats-heading = Сессия статистикасы
 about-webrtc-enable-logging-label = WebRTC журналының алдын ала баптауын іске қосу
 about-webrtc-peerconnections-section-heading = RTCPeerConnection статистикасы
 about-webrtc-peerconnections-section-show-msg = RTCPeerConnection статистикасын көрсету
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = RTCPeerConnection статист
 about-webrtc-stats-clear = Тарихты тазарту
 about-webrtc-log-heading = Байланыстар логы
 about-webrtc-log-clear = Логты тазарту
-about-webrtc-log-show-msg = логты көрсету
-    .title = бұл санатты жазық қылу үшін шертіңіз
-about-webrtc-log-hide-msg = логты жасыру
-    .title = бұл санатты жинау үшін шертіңіз
 about-webrtc-log-section-show-msg = Логты көрсету
     .title = Бұл санатты жазық қылу үшін шертіңіз
 about-webrtc-log-section-hide-msg = Логты жасыру
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Қашықтағы кандидат
 about-webrtc-raw-candidates-heading = Барлық өңделмеген кандидаттар
 about-webrtc-raw-local-candidate = Өңделмеген жергілікті кандидат
 about-webrtc-raw-remote-candidate = Өңделмеген қашықтағы кандидат
-about-webrtc-raw-cand-show-msg = өңделмеген кандидаттарды көрсету
-    .title = бұл санатты жазық қылу үшін шертіңіз
-about-webrtc-raw-cand-hide-msg = өңделмеген кандидаттарды жасыру
-    .title = бұл санатты жинау үшін шертіңіз
 about-webrtc-raw-cand-section-show-msg = Өңделмеген кандидаттарды көрсету
     .title = Бұл санатты жазық қылу үшін шертіңіз
 about-webrtc-raw-cand-section-hide-msg = Өңделмеген кандидаттарды жасыру
     .title = Бұл санатты жинау үшін шертіңіз
 about-webrtc-priority = Приоритет
-about-webrtc-fold-show-msg = ақпаратын көрсету
-    .title = бұл санатты жазық қылу үшін шертіңіз
-about-webrtc-fold-hide-msg = ақпаратын жасыру
-    .title = бұл санатты жинау үшін шертіңіз
 about-webrtc-fold-default-show-msg = Ақпаратын көрсету
     .title = Бұл санатты жазық қылу үшін шертіңіз
 about-webrtc-fold-default-hide-msg = Ақпаратын жасыру
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Ұсынылған
 # been provided
 about-webrtc-configuration-element-not-provided = Ұсынылмаған
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = WebRTC пайдаланушы баптаулары
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Пайдаланушы өзгерткен WebRTC конфигурациясы
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT (мс)
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Видео фрейм статистикасы - MediaStreamTrack ID: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = бет сақталған жері: { $path }
-about-webrtc-debug-mode-off-state-msg = трейс логын келесі жерден табу мүмкін емес: { $path }
-about-webrtc-debug-mode-on-state-msg = жөндеу режимі іске қосулы, трей лог жері: { $path }
-about-webrtc-aec-logging-off-state-msg = жиналған лог файлдарының орналасқан жері: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

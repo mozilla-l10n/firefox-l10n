@@ -18,14 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Nieprzesłane zgłoszenie awarii
-        [few] { $reportCount } nieprzesłane zgłoszenia awarii
-       *[many] { $reportCount } nieprzesłanych zgłoszeń awarii
-    }
 pending-crash-reports-view-all =
     .label = Wyświetl
 pending-crash-reports-send =
@@ -39,14 +31,6 @@ requested-crash-reports-message-new =
         [one] Nieprzesłane zgłoszenie awarii jest związane z obecnie badaną awarią. Przesłanie go pomoże nam ulepszyć { -brand-product-name(case: "acc") }. Zamknięcie tego powiadomienia spowoduje zignorowanie tego zgłoszenia.
         [few] { $reportCount } nieprzesłane zgłoszenia awarii są związane z obecnie badanymi awariami. Przesłanie ich pomoże nam ulepszyć { -brand-product-name(case: "acc") }. Zamknięcie tego powiadomienia spowoduje zignorowanie tych zgłoszeń.
        *[many] { $reportCount } nieprzesłanych zgłoszeń awarii jest związanych z obecnie badanymi awariami. Przesłanie ich pomoże nam ulepszyć { -brand-product-name(case: "acc") }. Zamknięcie tego powiadomienia spowoduje zignorowanie tych zgłoszeń.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Nieprzesłane zgłoszenie awarii pasuje do obecnie badanej awarii. Przesłanie go pomoże nam ulepszyć { -brand-product-name(case: "acc") }. Zamknięcie tego powiadomienia spowoduje zignorowanie tego zgłoszenia.
-        [few] { $reportCount } nieprzesłane zgłoszenia awarii pasują do obecnie badanych awarii. Przesłanie ich pomoże nam ulepszyć { -brand-product-name(case: "acc") }. Zamknięcie tego powiadomienia spowoduje zignorowanie tych zgłoszeń.
-       *[many] { $reportCount } nieprzesłanych zgłoszeń awarii pasuje do obecnie badanych awarii. Przesłanie ich pomoże nam ulepszyć { -brand-product-name(case: "acc") }. Zamknięcie tego powiadomienia spowoduje zignorowanie tych zgłoszeń.
     }
 requested-crash-reports-dont-show-again =
     .label = Nie pokazuj ponownie

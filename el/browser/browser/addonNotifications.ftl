@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Συνέχεια εγκατάστασης
     .accesskey = Σ
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Αυτός ο ιστότοπος απαιτεί πρόσβαση στις συσκευές MIDI (Musical Instrument Digital Interface) σας. Η πρόσβαση στις συσκευές μπορεί να ενεργοποιηθεί με την εγκατάσταση ενός προσθέτου.
 site-permission-install-first-prompt-midi-message = Αυτή η πρόσβαση δεν είναι εγγυημένο ότι είναι ασφαλής. Συνεχίστε μόνο εάν εμπιστεύεστε αυτόν τον ιστότοπο.
 site-permission-install-first-prompt-serial-header = Αυτός ο ιστότοπος ζητά πρόσβαση στις σειριακές συσκευές σας. Η πρόσβαση στη συσκευή μπορεί να ενεργοποιηθεί με την εγκατάσταση ενός πρόσθετου.
 site-permission-install-first-prompt-serial-message = Αυτή η πρόσβαση δεν είναι εγγυημένο ότι είναι ασφαλής. Συνεχίστε μόνο εάν εμπιστεύεστε αυτόν τον ιστότοπο.
-
-##
-
-xpinstall-disabled-locked = Η εγκατάσταση λογισμικού έχει απενεργοποιηθεί από τον διαχειριστή του συστήματός σας.
 xpinstall-disabled-by-policy = Η εγκατάσταση λογισμικού έχει απενεργοποιηθεί από τον οργανισμό σας.
 xpinstall-disabled = Η εγκατάσταση λογισμικού είναι απενεργοποιημένη αυτήν τη στιγμή. Κάντε κλικ στο «Ενεργοποίηση» και δοκιμάστε ξανά.
 xpinstall-disabled-button =
     .label = Ενεργοποίηση
     .accesskey = ν
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = Το { $addonName } ({ $addonId }) έχει αποκλειστεί από τον διαχειριστή του συστήματός σας.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Ο διαχειριστής του συστήματός σας εμπόδισε αυτόν τον ιστότοπο από το να ζητήσει την εγκατάσταση λογισμικού στον υπολογιστή σας.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = Ολοκληρώστε την εγκατάσταση τ
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Αφαίρεση του { $name };
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Αφαίρεση του { $name } από το { -brand-shorter-name };
 addon-removal-button = Αφαίρεση
 addon-removal-abuse-report-checkbox = Αναφορά επέκτασης στη { -vendor-short-name }
 # "it" refers to the local AI model that is paired to the AI feature
@@ -139,7 +122,5 @@ addon-local-install-no-addon-name-error-file-access = Δεν ήταν δυνατ
 addon-install-error-incompatible = Δεν ήταν δυνατή η εγκατάσταση του { $addonName } επειδή δεν είναι συμβατό με το { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = Το { $addonName } παραβιάζει τις πολιτικές της Mozilla και δεν είναι δυνατή η εγκατάστασή του στο { -brand-short-name }.
 addon-install-error-soft-blocked2 = Το { $addonName } είναι περιορισμένο και δεν είναι δυνατή η εγκατάστασή του στο { -brand-short-name }.
-addon-install-error-blocklisted = Δεν ήταν δυνατή η εγκατάσταση του { $addonName } επειδή υπάρχει μεγάλος κίνδυνος πρόκλησης προβλημάτων σταθερότητας ή ασφάλειας.
-addon-install-error-soft-blocked = Το { $addonName } παραβιάζει τις πολιτικές της Mozilla και δεν είναι δυνατή η εγκατάστασή του στο { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Δεν μπορείτε να εγκαταστήσετε το { $addonName } ως τελικός χρήστης, καθώς μπορεί να εγκατασταθεί μόνο από έναν οργανισμό που χρησιμοποιεί εταιρικές πολιτικές.

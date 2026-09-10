@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Add { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Progress: step { $current } of { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -199,11 +193,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Pin { -brand-short-name } to taskbar and start menu
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Start with a browser backed by a non-profit. We defend your privacy while you zip around the web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -233,57 +222,10 @@ mr2022-onboarding-set-default-subtitle = Use a browser backed by a non-profit. W
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Our latest version is built around you, making it easier than ever to zip around the web. It’s packed with features we think you’ll adore.
 mr2022-onboarding-get-started-primary-button-label = Set up in seconds
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Lightning-fast setup
-mr2022-onboarding-import-subtitle = Set up { -brand-short-name } how you like it. Add your bookmarks, passwords, and more from your old browser.
 mr2022-onboarding-import-primary-button-label-no-attribution = Import from previous browser
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Choose the colour that inspires you
-mr2022-onboarding-colorway-subtitle = Independent voices can change culture.
-mr2022-onboarding-colorway-primary-button-label-continue = Set and continue
-mr2022-onboarding-existing-colorway-checkbox-label = Make { -firefox-home-brand-name } your colourful homepage
-mr2022-onboarding-colorway-label-default = Default
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Current { -brand-short-name } colours
-mr2022-onboarding-colorway-description-default = <b>Use my current { -brand-short-name } colours.</b>
-mr2022-onboarding-colorway-label-playmaker = Playmaker
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Playmaker (red)
-mr2022-onboarding-colorway-description-playmaker = <b>You are a Playmaker.</b> You create opportunities to win and help everyone around you elevate their game.
-mr2022-onboarding-colorway-label-expressionist = Expressionist
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Expressionist (yellow)
-mr2022-onboarding-colorway-description-expressionist = <b>You are an Expressionist.</b> You see the world differently and your creations stir the emotions of others.
-mr2022-onboarding-colorway-label-visionary = Visionary
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Visionary (green)
-mr2022-onboarding-colorway-description-visionary = <b>You are a Visionary.</b> You question the status quo and move others to imagine a better future.
-mr2022-onboarding-colorway-label-activist = Activist
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Activist (blue)
-mr2022-onboarding-colorway-description-activist = <b>You are an Activist.</b> You leave the world a better place than you found it and lead others to believe.
-mr2022-onboarding-colorway-label-dreamer = Dreamer
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Dreamer (purple)
-mr2022-onboarding-colorway-description-dreamer = <b>You are a Dreamer.</b> You believe that fortune favours the bold and inspire others to be brave.
-mr2022-onboarding-colorway-label-innovator = Innovator
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Innovator (orange)
-mr2022-onboarding-colorway-description-innovator = <b>You are an Innovator.</b> You see opportunities everywhere and make an impact on the lives of everyone around you.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Hop from laptop to phone and back again
-mr2022-onboarding-mobile-download-subtitle = Grab tabs from one device and pick up where you left off on another. Plus sync your bookmarks and passwords anywhere you use { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Scan the QR code to get { -brand-product-name } for mobile or <a data-l10n-name="download-label">send yourself a download link.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Scan the QR code to get { -brand-product-name } for mobile.
 
@@ -336,15 +278,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Light-skinned and dark-skinned hands high five
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = View of a sunset through a window with a fox and a house plant on a windowsill
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = A hand spray paints a colourful collage of a green eye, orange shoe, red basketball, purple headphones, blue heart, and yellow crown
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = A fox on the screen of a laptop computer waving. The laptop has a mouse plugged into it.
 onboarding-device-migration-title = Welcome back!
-onboarding-device-migration-subtitle = Sign in to your { -fxaccount-brand-name(capitalization: "sentence") } to bring your bookmarks, passwords, and history with you on your new device.
 onboarding-device-migration-subtitle2 = Sign in to your account to bring your bookmarks, passwords, and history with you on your new device.
 onboarding-device-migration-primary-button-label = Sign in
 
@@ -451,10 +390,8 @@ onboarding-checklist-extension = Add an extension
 onboarding-checklist-sign-up = Sign up or sign in to your account
 onboarding-checklist-minimize =
     .label = Minimize
-
 onboarding-checklist-remove =
     .label = Remove checklist
-
 onboarding-checklist-remove-2 = Remove checklist
 
 ## Tab Groups feature onboarding strings
@@ -463,15 +400,12 @@ tab-groups-onboarding-feature-callout-title = Try tab groups for less clutter, m
 tab-groups-onboarding-feature-callout-subtitle = Get organized by dragging one tab on top of another to create your first group.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Find your tab groups in the List All Tabs menu anytime.
-tab-groups-onboarding-create-group-title-2 = Find your tab groups here anytime.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Find your groups by searching for them in the address bar.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = When you close a tab group, reopen it from the List All Tabs menu anytime.
-tab-groups-onboarding-saved-groups-title-2 = When you close a tab group, you can reopen it here anytime.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Find your closed groups by searching for them in the address bar.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Reopen your tab groups from the List All Tabs menu anytime.
-tab-groups-onboarding-session-restore-title = Reopen your tab groups here anytime.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages
@@ -609,13 +543,11 @@ onboarding-refresh-gratitude-title = { -brand-short-name } has your back
 
 smartwindow-switcher-callout = Switch between Smart and Classic Windows anytime.
 
-# Existing users
-smartwindow-existing-user-fx-tou-title = { -brand-product-name } Terms of Use
-
-smartwindow-existing-user-fx-tou-body = To use { -smart-window-brand-name }, please accept the <a data-l10n-name="terms_of_use">Terms of Use</a> and updated <a data-l10n-name="privacy_notice">Privacy Notice</a>.
-
 ## Smart Window ToU modal
 
+# Existing users
+smartwindow-existing-user-fx-tou-title = { -brand-product-name } Terms of Use
+smartwindow-existing-user-fx-tou-body = To use { -smart-window-brand-name }, please accept the <a data-l10n-name="terms_of_use">Terms of Use</a> and updated <a data-l10n-name="privacy_notice">Privacy Notice</a>.
 smartwindow-existing-user-fx-tou-accept = Accept
 smartwindow-existing-user-fx-tou-go-back = Go back
 

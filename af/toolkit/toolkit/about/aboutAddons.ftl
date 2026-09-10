@@ -99,15 +99,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Alle byvoegings is deur veilige modus gedeaktiveer.
-extensions-warning-check-compatibility = Kontrolering of byvoegings versoenbaar is, is gedeaktiveer. U het moontlik onversoenbare byvoegings.
-extensions-warning-safe-mode2 =
-    .message = Alle byvoegings is deur veilige modus gedeaktiveer.
 extensions-warning-check-compatibility2 =
     .message = Kontrolering of byvoegings versoenbaar is, is gedeaktiveer. U het moontlik onversoenbare byvoegings.
 extensions-warning-check-compatibility-button = Aktiveer
     .title = Aktiveer byvoeging-versoenbaarheidkontrole
-extensions-warning-update-security = Kontrolering vir bywerkings vir byvoegings is gedeaktiveer. U kan dalk deur bywerkings gekompromitteer word.
 extensions-warning-update-security2 =
     .message = Kontrolering vir bywerkings vir byvoegings is gedeaktiveer. U kan dalk deur bywerkings gekompromitteer word.
 extensions-warning-update-security-button = Aktiveer
@@ -160,24 +155,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } is onversoenbaar met { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } is onversoenbaar met { -brand-short-name } { $version }.
-details-notification-unsigned-and-disabled = { $name } kon nie vir gebruik in { -brand-short-name } geverifieer word nie en is gedeaktiveer.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } kon nie vir gebruik in { -brand-short-name } geverifieer word nie en is gedeaktiveer.
-details-notification-unsigned-and-disabled-link = Meer inligting
-details-notification-unsigned = { $name } kon nie vir gebruik in { -brand-short-name } geverifieer word nie. Wees versigtig.
 details-notification-unsigned2 =
     .message = { $name } kon nie vir gebruik in { -brand-short-name } geverifieer word nie. Wees versigtig.
-details-notification-unsigned-link = Meer inligting
-details-notification-blocked = { $name } is gedeaktiveer weens sekuriteit- of stabiliteitprobleme.
-details-notification-blocked-link = Meer inligting
-details-notification-softblocked = { $name } is bekend daarvoor dat dit sekuriteit- of stabiliteitprobleme oplewer.
-details-notification-softblocked-link = Meer inligting
-details-notification-gmp-pending = { $name } sal binnekort geïnstalleer word.
 details-notification-gmp-pending2 =
     .message = { $name } sal binnekort geïnstalleer word.
 

@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Gang back ane page ({ $shortcut })
     .aria-label = Gang back
+    .tooltiptext = Gang back ane page ({ $shortcut })
     .accesskey = a
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Gang forrit ane page ({ $shortcut })
     .aria-label = Forrit
+    .tooltiptext = Gang forrit ane page ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name(capitalization: "sentence") }
-    .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
-
 ## Save Page
 
 main-context-menu-page-save =
@@ -104,9 +98,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = Save Link As…
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = Save Link tae { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -229,34 +220,16 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Email Soond…
     .accesskey = a
-main-context-menu-save-to-pocket =
-    .label = Save Page tae { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Send Page tae Device
-    .accesskey = n
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Yaise Saved Login
-    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Yaise Saved Passwird
     .accesskey = i
-
-##
-
 main-context-menu-suggest-strong-password =
     .label = Propone Strang Passwird…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = Manage Logins
-    .accesskey = M
-main-context-menu-keyword =
-    .label = Eik On a Keywird fur this Sairch…
-    .accesskey = K
 main-context-menu-link-send-to-device =
     .label = Send Link tae Device
     .accesskey = n
@@ -293,9 +266,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Tak Screenshot
     .accesskey = T
-main-context-menu-take-frame-screenshot =
-    .label = Tak Screenshot
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = View Page Soorce
     .accesskey = V

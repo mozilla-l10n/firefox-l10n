@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = განაგრძეთ ჩადგმა
     .accesskey = ჩ
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = საიტი ითხოვს წვდომას თქვენს MIDI-მოწყობილობებთან (მუსიკალური საკრავის ციფრული მაკავშირებელი). მოწყობილობასთან წვდომის მიღება შესაძლებელია დამატების ჩადგმით.
 site-permission-install-first-prompt-midi-message = წვდომის მიღებისას უსაფრთხოების საწინდარი არ არსებობს. განაგრძეთ მხოლოდ იმ შემთხვევაში, თუ ენდობით ამ საიტს.
 site-permission-install-first-prompt-serial-header = საიტი ითხოვს თქვენს მიმდევრობითი შეერთების მოწყობილობასთან წვდომას. წვდომის მიღება მოხერხდება დამატების ჩადგმით.
 site-permission-install-first-prompt-serial-message = წვდომის მიღებისას უსაფრთხოების საწინდარი არ არსებობს. განაგრძეთ მხოლოდ იმ შემთხვევაში, თუ ენდობით ამ საიტს.
-
-##
-
-xpinstall-disabled-locked = პროგრამების ჩადგმა ამჟამად გამორთულია თქვენი სისტემის ზედამხედველის მიერ.
 xpinstall-disabled-by-policy = პროგრამების ჩადგმა გამორთულია დაწესებულების დებულებით.
 xpinstall-disabled = პროგრამების ჩადგმა შეჩერებულია. დააწკაპეთ ჩართვაზე და ხელახლა სცადეთ.
 xpinstall-disabled-button =
     .label = ჩართვა
     .accesskey = ჩ
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) შეზღუდულია თქვენი სისტემის ზედამხედველის მიერ.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = თქვენი სისტემის ზედამხედველი უკრძალავს ამ საიტს თქვენს კომპიუტერში პროგრამის დაყენების მოთხოვნას.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = სრულდება გადმოტანილ
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = მოცილდეს { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = { $name } გაფართოებას ამოშლის { -brand-shorter-name }, გნებავთ?
 addon-removal-button = ამოშლა
 addon-removal-abuse-report-checkbox = გაფართოების შესახებ საჩივარი { -vendor-short-name }-ს
 # "it" refers to the local AI model that is paired to the AI feature
@@ -139,7 +122,5 @@ addon-local-install-no-addon-name-error-file-access = დამატება �
 addon-install-error-incompatible = { $addonName } ვერ ჩაიდგმება, რადგან არათავსებადია { -brand-short-name } { $appVersion } ვერსიასთან.
 addon-install-error-hard-blocked = { $addonName } არღვევს Mozilla-ს დებულებებს და { -brand-short-name } ვერ დააყენებს.
 addon-install-error-soft-blocked2 = { $addonName } შეზღუდულია და ვერ ჩადგამს { -brand-short-name }.
-addon-install-error-blocklisted = { $addonName } ვერ ჩაიდგმება, რადგან დიდი ალბათობით საფრთხეს შეუქმნის მდგრადობას და უსაფრთხოებას.
-addon-install-error-soft-blocked = { $addonName } არღვევს Mozilla-ს დებულებებს და { -brand-short-name } ვერ დააყენებს.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = თქვენ არ შეგიძლიათ { $addonName } დააყენოთ, როგორც მომხმარებელმა, მისი დაყენება შეუძლია მხოლოდ დაწესებულებას შესაბამისი დებულებებით.

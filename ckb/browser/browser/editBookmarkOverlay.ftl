@@ -4,10 +4,6 @@
 
 bookmark-overlay-choose =
     .label = دیاریبکە...
-bookmark-overlay-folders-expander =
-    .tooltiptext = هەموو بوخچە دڵخوازراوەکان پیشان بدە
-    .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
-    .tooltiptextup = شاردنەوە
 bookmark-overlay-folders-expander2 =
     .tooltiptext = هەموو بوخچە دڵخوازراوەکان پیشان بدە
 bookmark-overlay-folders-expander-hide =
@@ -17,10 +13,6 @@ bookmark-overlay-new-folder-button =
     .accesskey = ب
 bookmark-overlay-tags-empty-description =
     .placeholder = تاگەکان جیابکەرەوە بە کۆما
-bookmark-overlay-tags-expander =
-    .tooltiptext = هەموو تاگەکان پیشان بدە
-    .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
-    .tooltiptextup = شاردنەوە
 bookmark-overlay-tags-expander2 =
     .tooltiptext = هەموو تاگەکان پیشان بدە
 bookmark-overlay-tags-expander-hide =

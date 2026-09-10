@@ -8,6 +8,3 @@ popup-notification-more-actions-button =
 popup-notification-default-button2 =
     .label = D’acord
     .accesskey = D
-popup-notification-default-button =
-    .label = D'acord
-    .accesskey = D

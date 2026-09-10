@@ -2,113 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } – { -brand-full-name }
-    .data-content-title-private = Priwatny modus { $content-title } – { -brand-full-name }
-    .data-title-default = { -brand-full-name }
-    .data-title-private = Priwatny modus { -brand-full-name }
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } – priwatny modus
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } – priwatny modus
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = Priwatny modus { -brand-shortcut-name }
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
 browser-shortcut-description = Malsne a priwatne pśeglědowanje
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — Priwatny modus { -brand-full-name }
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Priwatny modus { -brand-full-name }
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = Priwatny modus { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — Priwatny modus { -brand-full-name }
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } — Priwatny modus
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Priwatny modus
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Priwatny modus
-    .data-title-private-with-profile = { $profile-name } — Priwatny modus { -brand-full-name }
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -179,8 +77,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Wobceŕk powěźeńki składowanja offline wócyniś
 urlbar-password-notification-anchor =
     .tooltiptext = Wobceŕk powěźeńki składowanja gronidła wócyniś
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Wužywanje tykacow zastojaś
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Źělenje wašeje kamery a/abo wašogo mikrofona ze sedłom zastojaś
 # "Speakers" is used in a general sense that might include headphones or
@@ -193,15 +89,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Daty w trajnem składowaku składowaś
 urlbar-addons-notification-anchor =
     .tooltiptext = Wobceŕk powěźeńki dodankoweje instalacije wócyniś
-urlbar-tip-help-icon =
-    .title = Pomoc wobstaraś
 urlbar-search-tips-confirm = W pórěźe, som zrozměł
 urlbar-search-tips-confirm-short = Som zrozměł
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Tip:
 urlbar-result-menu-button =
     .title = Meni wócyniś
 urlbar-result-menu-button-feedback = Komentar
@@ -246,9 +135,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = Naraźenje zachyśiś
     .accesskey = z
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = Zgóńśo wěcej wó { -firefox-suggest-brand-name }
-    .accesskey = Z
 urlbar-result-menu-manage-firefox-suggest =
     .label = { -firefox-suggest-brand-name } zastojaś
     .accesskey = z
@@ -280,8 +166,6 @@ urlbar-dismissal-acknowledgment-weather = Wjeliki źěk za waš komentar. Njebu�
 
 urlbar-search-tips-onboard = Pišćo mjenjej, namakajśo wěcej: Pytajśo z { $engineName } direktnje ze swójogo adresowego póla.
 urlbar-search-tips-redirect-2 = Zachopśo swójo pytanje w adresowem pólu, aby naraźenja wót { $engineName } a ze swójeje pśeglědowańskeje historije wiźeł.
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = Pytanje jo něnto lažčejše. Cyńśo swójo pytanje wěcej specifiske w adresowem pólu. Aby město togo URL pokazał, źiśo k pytańskim nastajenjam.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Wubjeŕśo toś to zwězanje, aby malsnjej namakał, což trjebaśo.
@@ -315,8 +199,6 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Sćo trajny składowak za toś to websedło blokěrował.
 urlbar-popup-blocked2 =
     .tooltiptext = Sćo blokěrował wuskokujuce wokna a dalejpósrědnjenja tśeśich póbitowarjow za toś to websedło.
-urlbar-popup-blocked =
-    .tooltiptext = Sćo wuskokujuce wokna za toś to websedło blokěrował.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Sćo zablokěrował awtomatiske wótgraśe medijow ze zukom za toś to websedło.
 urlbar-canvas-blocked =
@@ -427,24 +309,18 @@ quickactions-cmd-addons3 = rozšyrjenja, drastwy, dodanki
 # Opens preferences page at AI controls
 quickactions-manageai = Wóźeńske elementy KI zastojaś
 quickactions-cmd-manageai = KI znjemóžniś, KI zastojaś
-quickactions-cmd-addons2 = dodanki
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Cytańske znamjenja zastojaś
 quickactions-cmd-bookmarks = cytańske znamjenja
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Aktualnu historiju wuprozniś
 quickactions-cmd-clearrecenthistory2 = cookieje, cookieje lašowaś, pufrowak, pufrowak wuprozniś, pśeglědowańske daty, pśeglědowańske daty lašowaś, historija, nejnowšu historiju lašowaś
-quickactions-cmd-clearrecenthistory = Aktualnu historiju wuprozniś, historija
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Historiju wuprozniś
-quickactions-cmd-clearhistory = historiju wuprozniś
 # Opens about:downloads page
 quickactions-downloads2 = Ześěgnjenja pokazaś
 quickactions-cmd-downloads = ześěgnjenja
 # Opens about:addons page in the extensions section
 quickactions-extensions = Rozšyrjenja zastojaś
 quickactions-cmd-extensions2 = rozšyrjenja, dodanki
-quickactions-cmd-extensions = rozšyrjenja
 # Opens Firefox View
 quickactions-firefoxview = { -firefoxview-brand-name } wócyniś
 # English is using "view" and "open view", since the feature name is
@@ -463,7 +339,6 @@ quickactions-cmd-colorpicker = wuběrak barwow, barwowa pipeta, barwu wubraś
 # Opens Firefox Library
 quickactions-cmd-library = biblioteka
 quickactions-library = Biblioteku wócyniś
-quickactions-cmd-inspector = inspektor, wuwijaŕske rědy
 # Opens about:logins
 quickactions-logins2 = Gronidła zastojaś
 quickactions-cmd-logins = pśizjawjenja, gronidła
@@ -473,9 +348,6 @@ quickactions-mute = Rejtariki znimiś, kótarež awdio wótgrawaju
 # Replace with idiomatic expressions in your language to silence something or
 # someone.
 quickactions-cmd-mute = pst, š, pšt
-# Opens about:addons page in the plugins section
-quickactions-plugins = Tykace zastojaś
-quickactions-cmd-plugins = tykace
 # Opens the print dialog
 quickactions-print2 = Bok śišćaś
 quickactions-cmd-print = śišćaś
@@ -500,19 +372,16 @@ quickactions-cmd-screenshot2 = foto wobrazowki, foto wobrazowki gótowaś
 # Opens about:translations
 quickactions-translate = Pśełožyś
 quickactions-cmd-translate = pśełožyś
-quickactions-cmd-screenshot = foto wobrazowki
 # Opens about:preferences
 quickactions-settings2 = Nastajenja zastojaś
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = nastajenja, zastojaś
-quickactions-cmd-settings = nastajenja
 # Opens about:addons page in the themes section
 quickactions-themes = Drastwy zastojaś
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-themes2 = drastwy, dodanki
-quickactions-cmd-themes = drastwy
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } aktualizěrowaś
 quickactions-cmd-update = aktualizěrowaś
@@ -522,7 +391,6 @@ quickactions-cmd-viewsource2 = žrědło pokazaś, žrědło, žrědło boka
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = { -firefoxlabs-brand-name } wócyniś
 quickactions-cmd-labs = lab, labs, eksperiment
-quickactions-cmd-viewsource = žrědło pokazaś, žrědło
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Zgóńśo wěcej wó malsnych akcijach
@@ -581,9 +449,7 @@ identity-custom-root = Zwisk jo se pśeglědował pśez certifikatowego wudawarj
 identity-passive-loaded = Źěle toś togo boka njejsu wěste (na pśikład wobraze).
 identity-active-loaded = Sćo šćit na toś tom boku znjemóžnił.
 identity-weak-encryption = Toś ten bok wužywa słabe koděrowanje.
-identity-insecure-login-forms = Pśizjawjenja, kótarež zapódawaju se na toś tom boku, by mógli wobgrozone byś.
 identity-https-only-connection-upgraded = (na HTTPS zaktualizěrowany)
-identity-https-only-label = Modus jano-HTTPS
 identity-https-only-label2 = Toś to sedło awtomatiski na wěsty zwisk aktualizěrowaś
 identity-https-only-dropdown-on =
     .label = Zašaltowany
@@ -591,8 +457,6 @@ identity-https-only-dropdown-off =
     .label = Wušaltowany
 identity-https-only-dropdown-off-temporarily =
     .label = Nachylu wušaltowany
-identity-https-only-info-turn-on2 = Zmóžniśo modus Jano-HTTPS, jolic cośo, až { -brand-short-name } zwisk aktualizěrujo, jolic móžno.
-identity-https-only-info-turn-off2 = Jolic se zda, až bok jo wobškóźony, cośo snaź  modus Jano-HTTPS za toś to sedło znjemóžniś. aby zasej njewěsty HTTP wužywał.
 identity-https-only-info-turn-on3 = Zmóžniśo aktualizacije HTTPS za toś to sedło, jolic cośo, až { -brand-short-name } zwisk aktualizěrujo, jolic móžno.
 identity-https-only-info-turn-off3 = Jolic se zda, až bok jo wobškóźony, cośo snaź  aktualizacije HTTPS za toś to sedło znjemóžniś. aby zasej njewěsty HTTP wužywał.
 identity-https-only-info-no-upgrade = Zwisk njedajo se z HTTP aktualizěrowaś.
@@ -616,7 +480,6 @@ identity-remove-cert-exception =
     .label = Wuwześe wótpóraś
     .accesskey = W
 identity-description-insecure = Waš zwisk z toś tym sedłom njejo priwatny. Druge luźe by mógli Informacije wiźeś, kótarež sćelośo (na pśikład gronidła, powěsći, kreditne kórty atd.).
-identity-description-insecure-login-forms = Pśizjawjeńske informacije, kótarež zapódawaśo na toś tom boku, njejsu wěste a by mógli se wobgrozyś.
 identity-description-weak-cipher-intro = Waš zwisk z websedłom wužywa słabe koděrowanje a njejo priwatny.
 identity-description-weak-cipher-risk = Druge luźe mógu se waše informacije woglědaś abo zaźaržanje websedła změniś.
 identity-description-active-blocked2 = { -brand-short-name } jo źěle toś togo boka blokěrował, kótarež njejsu wěste.
@@ -627,12 +490,6 @@ identity-description-active-loaded = Toś to websedło wopśimujo wopśimjeśe, 
 identity-description-active-loaded-insecure = Druge luźe mógu informacije wiźeś, kótarež źěliśo z toś tym sedłom (na pśikład gronidła, powěsći, kreditne kórty atd.).
 identity-description-tls-key-logging-heading = Waš zwisk snaź njejo priwatny
 identity-description-tls-key-logging-message = Nałoženje abo słužba móžo waš skoděrowany wobchad z toś togo sedła wiźeś.
-identity-disable-mixed-content-blocking =
-    .label = Šćit nachylnje znjemóžniś
-    .accesskey = z
-identity-enable-mixed-content-blocking =
-    .label = Šćit zmóžniś
-    .accesskey = z
 identity-more-info-link-text =
     .label = Dalšne informacije
 
@@ -649,46 +506,6 @@ browser-window-close-button =
 # Clicking this button closes the window and returns to the tab where it was opened from
 browser-window-return-to-opener =
     .tooltiptext = Slědk
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = WÓTGRAWA SE
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = NIMY
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = AWTOMATISKE WÓTGRAŚE ZABLOKĚROWANE
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = WOBRAZ-WE-WOBRAZU
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] ZUK REJTARIKA WUŠALTOWAŚ
-        [one] ZUK { $count } REJTARIKA WUŠALTOWAŚ
-        [two] ZUK { $count } REJTARIKOWU WUŠALTOWAŚ
-        [few] ZUK { $count } REJTARIKOW WUŠALTOWAŚ
-       *[other] ZUK { $count } REJTARIKOW WUŠALTOWAŚ
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] ZUK REJTARIKOW ZAŠALTOWAŚ
-        [one] ZUK { $count } REJTARIKA ZAŠALTOWAŚ
-        [two] ZUK { $count } REJTARIKOWU ZAŠALTOWAŚ
-        [few] ZUK { $count } REJTARIKOW ZAŠALTOWAŚ
-       *[other] ZUK { $count } REJTARIKOW ZAŠALTOWAŚ
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] REJTARIK WÓTGRAŚ
-        [one] { $count } REJTARIK WÓTGRAŚ
-        [two] { $count } REJTARIKA WÓTGRAŚ
-        [few] { $count } REJTARIKI WÓTGRAŚ
-       *[other] { $count } REJTARIKOW WÓTGRAŚ
-    }
 
 ## Bookmarks toolbar items
 
@@ -729,10 +546,6 @@ sharing-warning-disable-for-session =
 
 webserial-select-port-label = Wubjeŕśo serijowy port:
 webserial-no-ports-available = Žedne serijowe porty k dispoziciji.
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = Aby tastu F12 wužywał, wócyńśo nejpjerwjej DevTools pśez meni Rědy wobglědowaka.
 
 ## URL Bar
 
@@ -797,8 +610,6 @@ urlbar-extension =
     .value = Rozšyrjenje:
 urlbar-go-button2 =
     .title = K adresy w adresowem pólu
-urlbar-go-button =
-    .tooltiptext = K adresy w adresowem pólu
 urlbar-page-action-button =
     .tooltiptext = Akcije boka
 urlbar-revert-button =
@@ -856,11 +667,6 @@ urlbar-result-action-tabtosearch-web = Z { $engine } direktnje z adresowego pól
 urlbar-result-action-tabtosearch-other-engine = Z { $engine } direktnje z adresowego póla pytaś
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Kopěrowaś
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = njedefiněrowany
 # The sub title of an add-on suggestion in the urlbar.
@@ -871,23 +677,6 @@ urlbar-result-mdn-subtitle = { -mdn-brand-name }
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
 urlbar-result-suggestion-recommended = Dopórucony
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
-# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
-# The last = sign will be shown as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
-# Shows the result of a formula expression being calculated, to a maximum of 9 significant
-# digits. This is used for numbers < 1.
-# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 # The title of a weather suggestion in the urlbar. The temperature and unit
 # substring should be inside a <strong> tag. If the temperature and unit are not
 # adjacent in the localization, it's OK to include only the temperature in the
@@ -1088,32 +877,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } – { $localSearchMo
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } – z { $engine } pytaś
-urlbar-searchmode-dropmarker =
-    .tooltiptext = Wubjeŕśo pytnicu
-urlbar-searchmode-bookmarks =
-    .label = Cytańske znamjenja
-urlbar-searchmode-tabs =
-    .label = Rejtariki
-urlbar-searchmode-history =
-    .label = Historija
-urlbar-searchmode-actions =
-    .label = Akcije
-urlbar-searchmode-exit-button =
-    .tooltiptext = Zacyniś
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = Tenraz pytaś z:
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = Pytańske nastajenja
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button2 =
-    .label = { $engine }, wubjeŕśo pytnicu
-    .tooltiptext = { $engine }, wubjeŕśo pytnicu
-urlbar-searchmode-button-no-engine =
-    .label = Žedna skrotconka wubrana, wubjeŕśo skrotconku
-    .tooltiptext = Žedna skrotconka wubrana, wubjeŕśo skrotconku
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1220,16 +983,10 @@ urlbar-group-trending =
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Trendowe pytanja njepokazaś
     .accesskey = T
-# Label shown above sponsored suggestions in the urlbar results.
-urlbar-group-sponsored =
-    .label = Sponserowany
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Trendowe pytanja njepokazaś
     .accesskey = T
-urlbar-result-menu-trending-why =
-    .label = Cogodla se to pokazujo?
-    .accesskey = C
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = Wjeliki źěk za waš komentar. Njebuźośo wěcej trendowe pytanja wiźeś.
@@ -1314,12 +1071,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Rědku cytańskich znamjenjow pokazaś
            *[other] Rědku cytańskich znamjenjow schowaś
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Meni cytańskich znamjenjow ze symboloweje rědki wótwónoźeś
-           *[other] Symbolowej rědce meni cytańskich znamjenjow pśidaś
-        }
 
 ##
 
@@ -1350,14 +1101,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = Cytańske znamjenja
-library-recent-activity-title =
-    .value = Nejnowša aktiwita
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Pla { -pocket-brand-name } składowaś
-    .tooltiptext = Pla { -pocket-brand-name } składowaś
 
 ## Repair text encoding toolbar button
 
@@ -1447,8 +1190,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = Z
 
 ## Password save/update panel
 
-panel-save-update-username = Wužywaŕske mě
-panel-save-update-password = Gronidło
 panel-save-update-username-2 =
     .label = Wužywaŕske mě
 panel-save-update-password-2 =
@@ -1472,33 +1213,18 @@ menu-share-copy-links =
            *[other] { $count } wótkazow kopěrowaś
         }
     .accesskey = k
-menu-share-copy-link =
-    .label = Wótkaz kopěrowaś
-    .accesskey = k
 ui-tour-info-panel-close =
     .tooltiptext = Zacyniś
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
-popups-infobar-allow =
-    .label = Wuskokujuce wokna za { $uriHost } dowóliś
-    .accesskey = u
-popups-infobar-block =
-    .label = Wuskokujuce wokna za { $uriHost } blokěrowaś
-    .accesskey = u
 popups-infobar-allow2 =
     .label = Wuskokujuce wokna a dalejpósrědnjenja tśeśich póbitowarjow za { $uriHost } dowóliś
     .accesskey = k
 
 ##
 
-popups-infobar-dont-show-message =
-    .label = Toś tu powěsć njepokazaś, gaž wuskokujuce wokna se blokěruju
-    .accesskey = n
-edit-popup-settings =
-    .label = Nastajenja wuskokujucych woknow zastojaś…
-    .accesskey = N
 picture-in-picture-hide-toggle =
     .label = Pśešaltowanje wobraz-we-wobrazu schowaś
     .accesskey = P
@@ -1524,8 +1250,6 @@ navbar-downloads =
     .label = Ześěgnjenja
 navbar-overflow-2 =
     .tooltiptext = Dalšne rědy
-navbar-overflow =
-    .tooltiptext = Dalšne rědy…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1628,13 +1352,8 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = Priwatne pósejźenje skóńcyś
-    .tooltiptext = Priwatne pósejźenje skóńcyś
 reset-pbm-panel-heading2 = Daty lašowaś a nowe priwatne pósejźenje zachopiś?
 reset-pbm-panel-description2 = To historiju, cookieje a wšykne waše druge sedłowe daty lašujo, bźez togo aby se priwatne wokno zacyniło.
-reset-pbm-panel-heading = Priwatne pósejźenje skóńcyś?
-reset-pbm-panel-description = Zacyńśo wšykne priwatne rejtariki a lašujśo historiju, cookieje a wšykne druge sedłowe daty.
 reset-pbm-panel-always-ask-checkbox =
     .label = Pśecej se pšašaś
     .accesskey = P
@@ -1644,9 +1363,6 @@ reset-pbm-panel-cancel-button =
 reset-pbm-panel-confirm-button2 =
     .label = Priwatne pósejźenje wulašowaś
     .accesskey = P
-reset-pbm-panel-confirm-button =
-    .label = Pósejźeńske daty lašowaś
-    .accesskey = l
 reset-pbm-panel-complete = Priwatne pósejźeńske daty su se wulašowali
 reset-pbm-toolbar-button2 =
     .label = Priwatne pósejźenje wulašowaś

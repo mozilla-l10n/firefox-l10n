@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = “ട്രാക്ക് ചെയ്യരുത്” എന്ന സിഗ്നൽ വെബ്സൈറ്റുകൾക്ക് അയയ്ക്കുക
-do-not-track-removal = ഞങ്ങൾ ഇനി "പിന്തുൎതു്" മുന്നറിയിപ്പ് വ്യവസ്ഥയെ പിന്തുണയ്ക്കാരില്ല
-do-not-track-learn-more = കൂടുതലറിവ് നേടുക
-do-not-track-option-always =
-    .label = എപ്പോഴും
 settings-page-title = ക്രമീകരണങ്ങള്‍
 category-nav-heading =
     .heading = ക്രമീകരണങ്ങള്‍
@@ -26,36 +21,16 @@ managed-notice-info-icon =
 category-list =
     .aria-label = ഇനങ്ങൾ
 pane-general-title = സാധാരണ
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = പൂമുഖം
 pane-search-title2 = തെരയുക
     .title = തെരയുക
 pane-privacy-title3 = സ്വകാര്യത & സുരക്ഷ
     .title = സ്വകാര്യത & സുരക്ഷ
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = തെരയുക
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = സ്വകാര്യത & സുരക്ഷ
-pane-privacy-title = സ്വകാര്യത & സുരക്ഷ
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = സമന്വയം
-category-sync3 =
-    .tooltiptext = { pane-sync-title3 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-pane-experimental-title = { -brand-short-name } പരീക്ഷണങ്ങൾ
-category-experimental =
-    .tooltiptext = { -brand-short-name } പരീക്ഷണങ്ങൾ
-pane-experimental-subtitle = ശ്രദ്ധയോടെ മുൻപൊട്ട് പോകുക
-pane-experimental-search-results-header = { -brand-short-name } പരീക്ഷണങ്ങൾ: ശ്രദ്ധത്തോടു് മുൻപോട്ടു് ചെല്ലുക
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = തനതായവ നിലനിറുത്തുക
     .accesskey = ത
@@ -63,8 +38,6 @@ help-button-label2 = { -brand-short-name } പിന്തുണ
     .title = { -brand-short-name } പിന്തുണ
 addons-button-label2 = വിപുലീകരണങ്ങളും തീമുകളും
     .title = വിപുലീകരണങ്ങളും തീമുകളും
-help-button-label = { -brand-short-name } പിന്തുണ
-addons-button-label = വിപുലീകരണങ്ങളും തീമുകളും
 focus-search =
     .key = f
 close-button =
@@ -87,15 +60,9 @@ search-results-header = തിരച്ചില്‍ ഫലങ്ങള്‍
 
 ## General Section
 
-startup-header = തുടക്കം
 always-check-default =
     .label = { -brand-short-name } താങ്ങളുടെ തനതായ അന്വേഷിയന്ത്രമാണെന്നു് എപ്പോഴും പരിശോധിക്കുക
     .accesskey = y
-is-default = { -brand-short-name } ആണു് ഇപ്പോള്‍ തനതായ അന്വേഷിയന്ത്രം
-is-not-default = { -brand-short-name } അല്ല ഇപ്പോള്‍ തനതായ അന്വേഷിയന്ത്രം
-set-as-my-default-browser =
-    .label = തനതാക്കുക…
-    .accesskey = D
 startup-restore-windows-and-tabs =
     .label = മുമ്പത്തെ ജാലകങ്ങളും ടാബുകളും തുറക്കുക
     .accesskey = ത
@@ -103,20 +70,14 @@ startup-restore-windows-and-tabs =
 windows-launch-on-login-open-new-tab =
     .label = അതുകൂടാതെ ഒരു പുതിയ ടാബും തുറക്കുക
     .accesskey = പ
-startup-restore-warn-on-quit =
-    .label = അന്വേഷിയന്ത്രത്തിൽ നിന്നു പുറത്തുക്കടക്കുമ്പോഴു് താങ്ങൾക്കു് മുന്നറിയിപ്പ് നൽകുക
 disable-extension =
     .label = വിപുലീകരണം പ്രവർത്തനരഹിതമാക്കുക
 preferences-data-migration-group =
     .description = മറ്റൊരു അന്വേഷിയന്ത്രത്തിൽ നിന്നു അടയാളക്കുറിപ്പുകളും ഒളിവാക്കുകളും നാൾവഴിയും വിപുലീകരണങ്ങളും താനെപ്പൂരിപ്പിക്കൽ ഡാറ്റയും കൊണ്ടുവരുക.
     .label = അന്വേഷിയന്ത്രദത്ത ഇറക്കുമതിക്കുക
-preferences-data-migration-header = അന്വേഷിയന്ത്രദത്ത ഇറക്കുമതി ചെയ്യുക
-preferences-data-migration-description = { -brand-short-name }-ലോട്ടു് തന്നെതാനെ അടയാളക്കുറിപ്പുകളും ഒളിവാക്കുകളും നാൾവഴിയും മറ്റേതും ഇറക്കുമതിക്കുക
 preferences-data-migration-button =
     .label = ദത്ത ഇറക്കുമതിക്കുക
     .accesskey = ഇ
-preferences-profiles-header = രൂപരേഖകൾ
-preferences-manage-profiles-learn-more = കൂടുതലറിയുക
 preferences-manage-profiles-button =
     .label = രൂപരേഖകൾ കൈകാര്യം ചെയ്യുക
 preferences-profiles-settings-button =
@@ -126,7 +87,6 @@ tabs-group-header2 =
     .label = റ്റാബുകള്‍
 tabs-opening-heading =
     .label = തുറക്കുന്നു
-tabs-group-header = റ്റാബുകള്‍
 ctrl-tab-recently-used-order =
     .label = അടുത്തിടെ ഉപയോഗിച്ച ഓർഡറില്‍ ടാബുകളിലൂടെ പോവാന്‍ Ctrl + Tab ഉപയോഗിക്കുക
     .accesskey = T
@@ -150,13 +110,7 @@ warn-on-open-many-tabs =
 show-tabs-in-taskbar =
     .label = ജാലകത്തിന്റെ റ്റാസ്ക് ബാറില്‍ റ്റാബ്  തിരനോട്ടം (പ്രിവ്യൂ) കാണിയ്ക്കുക
     .accesskey = k
-browser-containers-enabled =
-    .label = കണ്ടെയ്നർ ടാബുകൾ എനേബിള്‍ ചെയ്യുക
-    .accesskey = n
 browser-containers-learn-more = കൂടുതലറിവ് നേടുക
-browser-containers-settings =
-    .label = ക്രമീകരണങ്ങൾ…
-    .accesskey = i
 containers-disable-alert-title = എല്ലാ കണ്ടൈനർ ടാബുകളും ക്ലോസ് ചെയ്യണോ?
 startup-group =
     .label = തുടക്കം
@@ -188,24 +142,12 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = ഈ കണ്ടൈനര്‍ നീക്കം ചെയ്യുക
 containers-remove-cancel-button = ഈ കണ്ടൈനര്‍ നീക്കം ചെയ്യാതിരിക്കുക
-browser-layout-show-sidebar =
-    .label = അണിവക്കം കാണിക്കുക
 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = ഭാഷയും രൂപവും
-preferences-web-appearance-header = വെബിട പുരംകാഴ്ച
 web-appearance-group =
     .aria-label = വെബിട പുരംകാഴ്ച
-preferences-web-appearance-choice-auto = തന്നെതാനെ
-preferences-web-appearance-choice-light = തെളിച്ചം
-preferences-web-appearance-choice-dark = ഇരുണ്ടതു്
-preferences-web-appearance-choice-input-auto =
-    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
-preferences-web-appearance-choice-input-light =
-    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
-preferences-web-appearance-choice-input-dark =
-    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 preferences-contrast-control-use-platform-settings =
     .label = തന്നെതാനെ (വ്യവസ്ഥ ക്രമീകരണങ്ങൾ ഉപയോഗിക്കുക)
     .accesskey = ത
@@ -215,23 +157,10 @@ preferences-contrast-control-off =
 preferences-contrast-control-custom =
     .label = ഇഷ്ടാനുസൃതം
     .accesskey = ഇ
-preferences-colors-header = നിറങ്ങള്‍
 preferences-fonts-header2 =
     .label = അക്ഷരശൈലികൾ
-preferences-fonts-header = അക്ഷരശൈലികൾ
-default-font = തനതായ ഫോണ്ടാക്കുക
-    .accesskey = D
-default-font-size = വലുപ്പം
-    .accesskey = S
-advanced-fonts =
-    .label = സങ്കീര്‍ണ്ണമായവ...
-    .accesskey = A
 preferences-default-zoom-label =
     .label = തനതായ വലുപ്പളവു്
-    .accesskey = വ
-# Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = വലുതാക്കുക
-preferences-default-zoom = തനതായ വലുപ്പളവു്
     .accesskey = വ
 # Variables:
 #   $percentage (number) - Zoom percentage value
@@ -248,13 +177,7 @@ choose-button =
 confirm-browser-language-change-button = പ്രയോഗിക്കുക, പുനരാരംഭിക്കുക
 browser-language-install-error =
     .message = { -brand-short-name }-നു് ഇപ്പോൾ താങ്ങളുടെ ഭാഷകളെ പുതുക്കാൻ പറ്റിന്നില്ല. താങ്ങൾ ഗോളാന്തരവലയിലേക്കു് ബന്ധിച്ചിരിക്കുന്നോ ഒരു വട്ടം നോക്കിൻ അല്ലെങ്കിൽ വീണ്ടും ശ്രമിക്കിൻ
-translate-web-pages =
-    .label = വെബിലുള്ളവ തര്‍ജ്ജമ ചെയ്യുക
-    .accesskey = ത
 fx-translate-web-pages = { -translations-brand-name }
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = തര്‍ജ്ജമ ചെയ്തത് <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = വിട്ടുവീഴ്ചകള്‍…
     .accesskey = ക
@@ -291,23 +214,6 @@ download-save-files-header =
     .label = ഫയലുകള്‍ ഇവിടെ സൂക്ഷിക്കുക
 download-save-where-3 =
     .aria-label = ഫയലുകള്‍ ഇവിടെ സൂക്ഷിക്കുക
-download-header = ഇറക്കിവയ്ക്കലുകൾ
-download-save-where = ഫയലുകള്‍ ഇവിടെ സൂക്ഷിക്കുക
-    .accesskey = v
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] തിരഞ്ഞെടുക്കുക
-           *[other] തിരയുക
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] o
-        }
-download-always-ask-where =
-    .label = ഫയലുകള്‍ എവിടെ സൂക്ഷിക്കണമെന്ന് എപ്പോഴും ചോദിക്കുക
-    .accesskey = A
 applications-header = ആപ്ലിക്കേഷനുകള്‍
 applications-description = വെബിൽ നിന്നും ഡൗൺലോഡുചെയ്യുന്ന ഫയലുകൾ അല്ലെങ്കിൽ ബ്രൌസുചെയ്യുമ്പോൾ നിങ്ങൾ ഉപയോഗിക്കുന്ന അപ്ലിക്കേഷനുകൾ എങ്ങനെയാണ് { -brand-short-name } കൈകാര്യം ചെയ്യുന്നതെന്ന് തിരഞ്ഞെടുക്കുക.
 applications-filter =
@@ -348,10 +254,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = { $plugin-name } ഉപയോഗിക്കുക ({ -brand-short-name }-ല്‍)
 applications-open-inapp =
     .label = { -brand-short-name }-ൽ തുറക്കുക
 
@@ -359,8 +261,6 @@ applications-open-inapp =
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -383,35 +283,16 @@ applications-save-for-new-types =
     .accesskey = ക
 drm-group =
     .label = ഡിജിറ്റല്‍ റൈറ്റ് മാനേജ്മെന്റ്(DRM) കണ്ടന്റ്
-drm-content-header = ഡിജിറ്റല്‍ റൈറ്റ് മാനേജ്മെന്റ്(DRM) കണ്ടന്റ്
 play-drm-content =
     .label = DRM- നിയന്ത്രിത കണ്ടന്റ് പ്ലേ ചെയ്യുക
     .accesskey = P
 play-drm-content-learn-more = കൂടുതല്‍ മനസിലാക്കൂ
-update-application-title = { -brand-short-name } അപേഡേറ്റുകള്‍
-update-application-description = മികച്ച പ്രകടനത്തിനും സ്ഥിരതയ്ക്കും സുരക്ഷയ്ക്കും വേണ്ടി { -brand-short-name } അപഡേറ്റഡായി സൂക്ഷിക്കുക.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = പതിപ്പ് { $version } <a data-l10n-name="learn-more">പുതിയതെന്തെല്ലാം</a>
 update-history-2 =
     .label = പുതുക്കിയ നാള്‍വഴി കാണിക്കുക
     .accesskey = p
-update-history =
-    .label = പുതുക്കിയ നാള്‍വഴി കാണിക്കുക…
-    .accesskey = p
-update-application-allow-description = { -brand-short-name } നെ അനുവധിക്കുക
-update-application-auto =
-    .label = അപ്ഡേറ്റുകള്‍ തനിയേ ഇന്‍സ്റ്റാള്‍ ചെയ്യുക (നിര്‍ദേശിക്കുന്നത്‌‌)
-    .accesskey = A
-update-application-check-choose =
-    .label = അപ്ഡേറ്റുകള്‍ക്കായി പരിശോധിക്കുക അവ ഇന്‍സ്റ്റാള്‍ ചെയ്യാനുള്ള തീരുമാനം താങ്കള്‍ക്ക് വിടുക
-    .accesskey = C
-update-application-manual =
-    .label = അപ്ഡേറ്റുകള്‍ക്കായി പരിശോധിക്കാതിരിക്കുക (നിര്‍ദേശിക്കപ്പെടുന്നില്ല)
-    .accesskey = N
-update-application-use-service =
-    .label = പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതിനായി ഒരു പശ്ചാത്തല സര്‍വീസ് ഉപയോഗിയ്ക്കുക
-    .accesskey = b
 update-in-progress-title = പുതുക്കൽ നടപ്പിലാണു്
 update-in-progress-ok-button = &കളയുക
 # Continue is the cancel button so pressing escape or using a platform standard
@@ -425,11 +306,6 @@ support-get-help =
 
 ## General Section - Performance
 
-performance-title = പ്രകടനം
-performance-use-recommended-settings-checkbox =
-    .label = നിര്‍ദേശിച്ച പ്രകടന ക്രമീകരണങ്ങള്‍ ഉപയോഗിക്കുക
-    .accesskey = U
-performance-use-recommended-settings-desc = ഈ സജ്ജീകരണങ്ങൾ നിങ്ങളുടെ കമ്പ്യൂട്ടറിന്റെ ഹാർഡ്വെയറിനും ഓപ്പറേറ്റിംഗ് സിസ്റ്റവുമായി കൂട്ടിച്ചേർക്കപ്പെട്ടവയാണ്.
 performance-settings-learn-more = കൂടുതല്‍ അറിയുക
 performance-allow-hw-accel =
     .label = ലഭ്യമാകുമ്പോള്‍ ഹാര്‍ഡ്‌വെയര്‍ ആക്സിലറേഷന്‍ ഉപയോഗിയ്ക്കുക
@@ -447,9 +323,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = തെരഞ്ഞുകൊണ്ടിരിക്കുന്നു
-browsing-group-label =
-    .aria-label = തിരച്ചിൽ
 browsing-use-autoscroll =
     .label = ഓട്ടോ സ്ക്രോളിംങ് ഉപയോഗിക്കുക
     .accesskey = a
@@ -465,19 +338,8 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = ടൈപ്പ് ചെയ്യാന്‍ ആരംഭിക്കുമ്പോള്‍ തന്നെ വാക്കുകള്‍ക്കായി തിരയുക
     .accesskey = x
-browsing-picture-in-picture-learn-more = കൂടുതല്‍ അറിയുക
-browsing-media-control-learn-more = കൂടുതല്‍ അറിയുക
-browsing-cfr-recommendations-learn-more = കൂടുതല്‍ അറിയുക
 browsing-group =
     .label = തെരഞ്ഞുകൊണ്ടിരിക്കുന്നു
-
-## General Section - Proxy
-
-network-settings-title = നെറ്റ്വർക്ക് ക്രമീകരണങ്ങൾ
-network-proxy-connection-learn-more = കൂടുതലറിയുക
-network-proxy-connection-settings =
-    .label = ക്രമീകരണങ്ങള്‍
-    .accesskey = e
 
 ## Home Section
 
@@ -557,8 +419,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = താങ്ങൾ കരുതിവയ്ക്കുന്ന അല്ലെങ്കിൽ സന്ദൎശിക്കുന്ന വെബ്സ്ഥാനങ്ങൾ
 home-prefs-shortcuts-by-option-sponsored =
     .label = പണം കൊണ്ടു് പ്രസരിപ്പിച്ച കുറുക്കുവഴികൾ
-home-prefs-recommended-by-header =
-    .label = { $provider } ശുപാർശ ചെയ്തത്
 home-prefs-recommended-by-header-generic =
     .label = ശുപാൎശ ചെയ്യപ്പെട്ട കഥകൾ
 
@@ -567,24 +427,14 @@ home-prefs-recommended-by-header-generic =
 home-prefs-recommended-by-learn-more = ഇത് എങ്ങനെ പ്രവർത്തിക്കുന്നു
 home-prefs-recommended-by-option-sponsored-stories =
     .label = പണം കൊണ്ടു് പ്രസരിപ്പിച്ച കഥകൾ
-home-prefs-recommended-by-option-recent-saves =
-    .label = അടുത്തിടെ കരുതിവച്ചതെല്ലാം കാണിക്കുക
 home-prefs-highlights-option-visited-pages =
     .label = സന്ദർശിച്ച പേജുകൾ
 home-prefs-highlights-options-bookmarks =
     .label = ബുക്ക്മാർക്കുകൾ
 home-prefs-highlights-option-most-recent-download =
     .label = ഏറ്റവും അടുത്തിടെ ഇറക്കിവച്ച സാധനം
-home-prefs-highlights-option-saved-to-pocket =
-    .label = { -pocket-brand-name }-ലോട്ടു് താളുകളെ കരുതിവച്ചു
 home-prefs-recent-activity-header =
     .label = ഒടുവിലുള്ള പ്രവൎത്തനം
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = ലഘു കുറിപ്പുകൾ
 home-prefs-weather-header =
     .label = കാലാവസ്ഥ
 home-prefs-weather-description = ഇന്നത്തെ കാലാവസ്ഥാ പ്രവചനം ഒറ്റനോട്ടത്തിൽ
@@ -601,24 +451,11 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = സെര്‍ച്ച് ബാര്‍
-search-bar-hidden =
-    .label = തിരയൽ, നാവിഗേഷൻ എന്നിവയ്ക്കായി അഡ്ഡ്രസ്സ് ബാര്‍ ഉപയോഗിക്കുക
-search-bar-shown =
-    .label = ടൂൾബാറിൽ സെർച്ച് ബാർ ചേർക്കുക
-search-engine-default-header = സ്വതവേയുള്ള തിരച്ചില്‍ യന്ത്രം
-search-suggestions-option =
-    .label = തിരച്ചിലിനുള്ള നിര്‍ദ്ദേശങ്ങള്‍ നല്‍കുക
-    .accesskey = s
 search-show-suggestions-url-bar-option =
     .label = അഡ്ഡ്രസ്സ് ബാറിലെ ഫലങ്ങളിൽ തിരയൽ നിർദ്ദേശങ്ങൾ ദൃശ്യമാക്കുക
     .accesskey = I
 search-suggestions-cant-show-2 =
     .message = സ്ഥാനപട്ടയില്‍ തെരച്ചില്‍ നിര്‍ദ്ദേശങ്ങള്‍ കാണിക്കുന്നതല്ല. കാരണം, താങ്കള്‍ { -brand-short-name } ക്രമീകരിച്ചിരിയ്ക്കുന്നതു് നാള്‍വഴി ഒരിക്കലും ഓര്‍ക്കാതിരിയ്ക്കാനാണു്.
-search-show-suggestions-private-windows =
-    .label = തിരയൽ നിർദ്ദേശം സ്വകാര്യ ജാലകങ്ങളിൽ കാണിക്കുക
-suggestions-addressbar-settings-generic2 = മറ്റെ വിലാസപ്പട്ട നിൎദ്ദേശങ്ങൾക്കായി ക്രമീകരണങ്ങൾ മാറ്റുക
-search-suggestions-cant-show = സ്ഥാനപട്ടയില്‍ തെരച്ചില്‍ നിര്‍ദ്ദേശങ്ങള്‍ കാണിക്കുന്നതല്ല. കാരണം, താങ്കള്‍ { -brand-short-name } ക്രമീകരിച്ചിരിയ്ക്കുന്നതു് നാള്‍വഴി ഒരിക്കലും ഓര്‍ക്കാതിരിയ്ക്കാനാണു്.
 search-one-click-header2 = കുറുക്കുവഴികളിൽ തിരയുക
 search-one-click-desc = നിങ്ങൾ കീവേഡ് നൽകുന്നത് ആരംഭിക്കുമ്പോൾ വിലാസ ബാറിനും സെർച്ച് ബാറിനും താഴെയുള്ള ഇതര തിരയൽ എഞ്ചിനുകൾ തിരഞ്ഞെടുക്കുക.
 search-choose-engine-column =
@@ -650,19 +487,6 @@ search-engine-group =
 search-default-engine =
     .aria-label = സ്വതവേയുള്ള തിരച്ചില്‍ യന്ത്രം
 
-## Containers Section
-
-containers-back-button2 =
-    .aria-label = ക്രമീകരണങ്ങളിലേക്കു് തിരിച്ചു്
-containers-header = കണ്ടൈനര്‍ ടാബുകള്‍
-containers-add-button =
-    .label = പുതിയ കണ്ടെയ്നര്‍ ചേര്‍ക്കുക
-    .accesskey = A
-containers-settings-button =
-    .label = ക്രമീകരണങ്ങള്‍
-containers-remove-button =
-    .label = നീക്കുക
-
 ## Account and sync
 
 sync-group-label =
@@ -691,8 +515,6 @@ sync-mobile-promo = വേണ്ടി ഫയർഫോക്സ് ഡൌൺല�
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = പ്രൊഫൈല്‍ ചിത്രം മാറ്റുക
 sync-profile-picture-with-alt =
     .alt = പ്രൊഫൈല്‍ ചിത്രം മാറ്റുക
     .tooltiptext = പ്രൊഫൈല്‍ ചിത്രം മാറ്റുക
@@ -721,9 +543,6 @@ sync-signedin-login-failure = വീണ്ടും കണക്ട് ചെയ
 
 ##
 
-sync-resend-verification =
-    .label = പരിശോധന വീണ്ടും അയയ്ക്കുക
-    .accesskey = d
 sync-verify-account =
     .label = അക്കൗണ്ടു് ഉറപ്പാക്കുക
     .accesskey = ഉ
@@ -745,10 +564,6 @@ prefs-sync-turn-on-syncing-2 =
     .label = സമന്വയം തുടങ്ങി വയ്ക്കുക
     .accesskey = ത
 prefs-sync-offer-setup-label2 = താങ്ങളുടെ അടയാളക്കുറിപ്പുകളും നാള്‍വഴിയും ടാബുകളും ഒളിവാക്കുകളും ആഡോണുകളും ക്രമീകരണങ്ങളും താങ്ങളുടെ എല്ല ഉപകരണങ്ങൾ സമന്വയിപ്പിക്കുക.
-prefs-sync-now =
-    .labelnotsyncing = സമന്വയിപ്പിക്കുക
-    .labelsyncing = സമന്വയിപ്പിക്കുന്നു
-    .accesskeynotsyncing = സ
 prefs-sync-now-button =
     .label = സമന്വയിപ്പിക്കുക
     .accesskey = സ
@@ -766,7 +581,6 @@ prefs-syncing-button-2 =
 sync-currently-syncing-bookmarks = അടയാളക്കുറിപ്പുകള്‍
 sync-currently-syncing-history = നാള്‍വഴി
 sync-currently-syncing-tabs = തുറന്ന ടാബുകള്‍
-sync-currently-syncing-logins-passwords = പ്രവേശണങ്ങളും ഒളിവാക്കുകളും
 sync-currently-syncing-passwords = ഒളിവാക്കുകൾ
 sync-currently-syncing-addresses = വിലാസങ്ങള്‍
 sync-currently-syncing-payment-methods = പണമടക്കൽ മുറകൾ
@@ -775,9 +589,6 @@ sync-currently-syncing-settings = ക്രമീകരണങ്ങള്‍
 sync-manage-options =
     .label = സമന്വയം കൈകാര്യം ചെയ്യുക...
     .accesskey = സ
-sync-change-options =
-    .label = മാറ്റുക...
-    .accesskey = മ
 
 ## The "Choose what to sync" dialog.
 
@@ -791,10 +602,6 @@ sync-engine-tabs =
     .label = ടാബുകള്‍ തുറക്കുക
     .tooltiptext = എല്ലാ സിങ്ക് ചെയ്ത ഉപകരണങ്ങളിലും തുറന്നിട്ടുള്ള ടാബുകളുടെ പട്ടിക
     .accesskey = t
-sync-engine-logins-passwords =
-    .label = പ്രവേശണങ്ങളും ഒളിവാക്കുകളും
-    .tooltiptext = താങ്ങൾ കരുതിവച്ച പ്രവേശണങ്ങളും ഒളിവാക്കുകളും
-    .accesskey = ള
 sync-engine-passwords =
     .label = ഒളിവാക്കുകൾ
     .tooltiptext = താങ്ങൾ കരുതിവച്ച ഒളിവാക്കുകൾ
@@ -803,10 +610,6 @@ sync-engine-addresses =
     .label = മേൽവിലാസങ്ങൾ
     .tooltiptext = താങ്ങൾ കരുതിവച്ച മേൽവിലാസങ്ങൾ (ഉപരിഫലകം മാത്രം)
     .accesskey = മ
-sync-engine-creditcards =
-    .label = ക്രഡിറ്റ് കാർഡുകൾ
-    .tooltiptext = പേര്, നമ്പർ, കാലാവധി
-    .accesskey = C
 sync-engine-payment-methods2 =
     .label = പണമടക്കൽ മുറകൾ
     .tooltiptext = പേരുകളും ചീട്ടക്കങ്ങളും കാലാവധി തീരുന്ന തീയതിയും
@@ -842,29 +645,9 @@ sync-connect-another-device = മറ്റൊരു ഉപകരണം ബന്
 sync-connect-another-device-2 =
     .label = മറ്റൊരു ഉപകരണം ബന്ധിപ്പിക്കുക
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = ഉറപ്പാക്കല്‍ വിവരങ്ങള്‍ അയച്ചിരിയ്ക്കുന്നു
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = ഉറപ്പാക്കുന്നതിനുള്ള ഒരു കണ്ണി { $email }-ലേക്ക് അയച്ചിട്ടുണ്ട്.
-sync-verification-not-sent-title = ഉറപ്പാക്കുന്നതിനുള്ളതു് അയയ്ക്കുവാനായില്ല
-sync-verification-not-sent-body = ഉറപ്പാക്കാനുള്ള മെയില്‍ ഇപ്പോള്‍ അയക്കാനായില്ല, പിന്നീട് ശ്രമിക്കൂ.
-
 ## Privacy Section
 
 privacy-header = ബ്രൗസർ സ്വകാര്യത
-
-## Privacy Section - Logins and Passwords
-
-# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = ഉപയോക്തൃനാമങ്ങളും ഒളിവാക്കുകളും
-    .searchkeywords = { -lockwise-brand-short-name }
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = വെബിടങ്ങൾക്കായി പ്രവേശനകളും ഒളിവാക്കുകളും കരുതിവയ്ക്കാൻ ചോദിക്കുക
-    .accesskey = ച
 
 ## Privacy Panel Settings
 
@@ -882,21 +665,11 @@ forms-ask-to-save-passwords =
 forms-exceptions =
     .label = ഒഴിവാക്കേണ്ടവ…
     .accesskey = x
-forms-generate-passwords =
-    .label = കരുത്തുറ്റ ഒളിവാക്കുകളുണ്ടാക്കുക
-    .accesskey = ക
 forms-suggest-passwords =
     .label = കരുത്തുറ്റ ഒളിവാക്കുകൾ നൽകുക
     .accesskey = ന
 forms-breach-alerts-learn-more-link = കൂടുതല്‍ അറിയുക
 relay-integration-learn-more-link = കൂടുതല്‍ അറിയുക
-# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
-forms-fill-logins-and-passwords =
-    .label = താനെപ്പൂരിപ്പിച്ച പ്രവേശനങ്ങളും ഒളിവാക്കുകളും
-    .accesskey = വ
-forms-saved-logins =
-    .label = ശേഖരിച്ചിട്ടുള്ള പ്രവേശനങ്ങള്‍…
-    .accesskey = L
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-usernames-and-passwords =
     .label = തന്നെതാനെ ഉപയോക്തൃപ്പേരുകളും ഒളിവാക്കുകളും പൂരിപ്പിക്കുക
@@ -922,15 +695,6 @@ autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
-pane-privacy-autofill-header = തന്നെതാനെ പൂരിപ്പിക്കുക
-autofill-addresses-checkbox = വിലാസങ്ങൾ കരുതവച്ചുിട്ടു് പൂരിപ്പിക്കുക
-    .accesskey = വ
-autofill-saved-addresses-button = കരുതിവച്ച വിലാസങ്ങൾ
-    .accesskey = വ
-autofill-payment-methods-checkbox-message = പണമടക്കൽമുറകൾ കരുതിവച്ചിട്ടു് പൂരിപ്പിക്കുക
-    .accesskey = മ
-autofill-saved-payment-methods-button = കരുതിവച്ച പണമടക്കൽമുറകൾ
-    .accesskey = പ
 autofill-payment-methods-header =
     .aria-label = പണമടക്കൽ മുറകൾ
 autofill-payment-methods-checkbox-message-2 =
@@ -954,28 +718,9 @@ payments-group =
 
 ## Privacy Section - History
 
-history-header = നാള്‍വഴി
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name }
-    .accesskey = w
-history-remember-option-all =
-    .label = നാള്‍വഴി ഓര്‍ക്കുക
-history-remember-option-never =
-    .label = നാള്‍വഴികൾ ഇനിയും മുതല്‍ ഓര്‍ക്കരുത്
-history-remember-option-custom =
-    .label = നാള്‍വഴിക്കു വേണ്ടി ഇച്ഛാനുസൃതം സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കുക
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } സ്വകാര്യ തിരയലിന്റെ സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കും, അതിനാല്‍ നിങ്ങള്‍ വെബ് തിരയുംബോള്‍ നാള്‍വഴികൾ ഓര്‍ക്കുകയില്ല.
-history-dontremember-description = { -brand-short-name } സ്വകാര്യ തിരയലിന്റെ സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കും, അതിനാല്‍ നിങ്ങള്‍ വെബ് തിരയുംബോള്‍ നാള്‍വഴികൾ ഓര്‍ക്കുകയില്ല.
 history-private-browsing-permanent =
     .label = എപ്പോഴും സ്വകാര്യ ബ്രൌസിങ് മോഡ് ഉപയോഗിയ്ക്കുക
     .accesskey = p
@@ -1001,16 +746,9 @@ history-mode-radio-group =
 
 ## Privacy Section - Site Data
 
-sitedata-header = കുക്കികളും സൈറ്റ് ഡാറ്റയും
 sitedata-learn-more = കൂടുതല്‍ അറിയുക
 sitedata-option-block-unvisited =
     .label = ചെല്ലാത്ത വെബിടങ്ങളിൽ നിന്ന കുക്കികൾ
-sitedata-clear =
-    .label = ഡാറ്റ വെടിപ്പാക്കുക
-    .accesskey = I
-sitedata-settings =
-    .label = ഡാറ്റ ക്രമീകരിക്കുക
-    .accesskey = M
 cookies-site-data-group =
     .label = കുക്കികളും സൈറ്റ് ഡാറ്റയും
 
@@ -1018,18 +756,11 @@ cookies-site-data-group =
 
 cookie-banner-blocker-header = കുക്കീസു പൊന്തുവരൽ തടയൽയന്ത്രം
 cookie-banner-learn-more = കൂടുതല്‍ അറിയുക
-forms-handle-cookie-banners =
-    .label = കുക്കി പൊന്തുവരലുകൾ ചെറുതാക്കുക
 cookie-banner-blocker-checkbox-label =
     .label = കുക്കി പൊന്തുവരലുകൾ താനെ നിരസിക്കുക
 
 ## Search Section
 
-addressbar-header = വിലാസപ്പട്ട
-addressbar-suggest = വിലാസപ്പട്ട ഉപയോഗിക്കുമ്പോഴു് നിൎദ്ദേശിക്കുക
-# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
-# `addressbar-suggest-firefox-suggest`.
-addressbar-locbar-firefox-suggest-learn-more = കൂടുതലറിയുക
 addressbar-locbar-history-option =
     .label = തിരച്ചിൽ നാള്‍വഴി
     .accesskey = H
@@ -1049,22 +780,12 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = ഏറ്റവും മികച്ച വെബിടങ്ങൾ
     .accesskey = വ
-addressbar-locbar-engines-option =
-    .label = തിരച്ചിൽയന്ത്രങ്ങൾ
-    .accesskey = ത
 addressbar-locbar-quickactions-option =
     .label = ഉടൻ നടപടികൾ
     .accesskey = ഉ
 addressbar-locbar-showrecentsearches-option-2 =
     .label = അടുത്തിടെ തിരഞ്ഞതു്
     .accesskey = അ
-addressbar-suggestions-settings = സെര്‍ച്ച് എഞ്ചിൻ നിർദ്ദേശങ്ങളുടെ പ്രഫറന്‍സ് മാറ്റുക
-addressbar-locbar-showrecentsearches-option =
-    .label = അടുത്തിടെ തിരഞ്ഞതെല്ലാം കാണിക്കുവിൻ
-    .accesskey = അ
-addressbar-quickactions-learn-more = കൂടുതല്‍ അറിയുക
-addressbar-restore-dismissed-suggestions-button =
-    .label = വീണ്ടെടുക്കുക
 
 ## Privacy Section - Content Blocking
 
@@ -1095,7 +816,6 @@ content-blocking-fingerprinters = വിരലടയാളങ്ങൾ
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = അറിയപ്പെടുന്നതും സംശയിക്കപ്പെടുന്നതുമായ വിരലടയാളപ്പിന്തുടൎച്ചയന്ത്രം
 content-blocking-etp-standard-tcp-rollout-learn-more = കൂടുതലറിയുക
-content-blocking-warning-title = മുന്നറിയിപ്പ്
 content-blocking-warning-learn-how = എങ്ങനെയെന്നറിയാം
 content-blocking-baseline-uncheck-warning-dialog-title = പരിഹാരങ്ങൾ അണയ്ക്കണമെന്നു തീൎച്ചയാണോ?
 content-blocking-cookies-label =
@@ -1103,11 +823,6 @@ content-blocking-cookies-label =
     .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = കൂടുതല്‍ വിവരങ്ങള്‍
-# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
-# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
-content-blocking-fingerprinters-label =
-    .label = വിരലടയാളപ്പിന്തുടൎച്ചയന്ത്രം
-    .accesskey = വ
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 #
@@ -1123,52 +838,9 @@ content-blocking-suspected-fingerprinters-label =
 
 ## Privacy Section - Permissions
 
-permissions-header = അനുമതികൾ
-permissions-location = സ്ഥലവിവരം
-permissions-location-settings =
-    .label = ക്രമീകരണങ്ങൾ…
-    .accesskey = t
-permissions-xr = മിഥ്യുണ്മ
-permissions-xr-settings =
-    .label = ക്രമീകരണങ്ങള്‍
-    .accesskey = ക
-permissions-camera = ക്യാമറ
-permissions-camera-settings =
-    .label = ക്രമീകരണങ്ങൾ…
-    .accesskey = t
-permissions-microphone = മൈക്രോഫോണ്‍
-permissions-microphone-settings =
-    .label = ക്രമീകരണങ്ങൾ…
-    .accesskey = t
-permissions-speaker-settings =
-    .label = ക്രമീകരണങ്ങൾ…
-    .accesskey = ക
-permissions-notification = അറിയിപ്പുകള്‍
-permissions-notification-settings =
-    .label = ക്രമീകരണങ്ങൾ…
-    .accesskey = t
-permissions-notification-link = കൂടുതലറിയുക
 permissions-notification-pause =
     .label = { -brand-short-name } റീസ്റ്റാര്‍ട്ട് ചയ്യുന്ന വരെ അറിയിപ്പുകൾ താൽക്കാലികമായി നിർത്തുക
     .accesskey = n
-permissions-autoplay-settings =
-    .label = ക്രമീകരണങ്ങൾ…
-    .accesskey = ക
-permissions-block-popups =
-    .label = പോപ്പപ്‌ ജാലകങ്ങള്‍ തടയുക
-    .accesskey = B
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button =
-    .label = വിട്ടുവീഴ്ചകള്‍…
-    .searchkeywords = പൊന്തുവരലുകൾ
-    .accesskey = വ
-permissions-addon-install-warning =
-    .label = വെബ്സൈറ്റുകൾ ആഡ്-ഓൺസ് ഇൻസ്റ്റാൾ ചെയ്യാൻ ശ്രമിക്കുമ്പോൾ നിങ്ങൾക്ക് മുന്നറിയിപ്പ് നൽകുക
-    .accesskey = W
-permissions-addon-exceptions =
-    .label = ഒഴിവാക്കേണ്ടവ…
-    .accesskey = E
 permissions-location2 =
     .label = സ്ഥലവിവരം
 permissions-localhost2 =
@@ -1187,28 +859,7 @@ permissions-notification2 =
 
 ## Privacy Section - Data Collection
 
-collection-header = { -brand-short-name } വിവര ശേഖരണവും ഉപയോഗവും
-collection-header2 = { -brand-short-name } ഡാറ്റ പിരിവും ഉപയോഗവും
-    .searchkeywords = നിരീക്ഷണം
-preferences-collection-privacy-notice = സ്വകാര്യത അറിയിപ്പു് കാണുക
-collection-description = നിങ്ങൾക്ക് തിരഞ്ഞെടുക്കാനുള്ള അവസരങ്ങള്‍ നല്‍കാനും { -brand-short-name } മെച്ചപെടുത്താനായി ആവശ്യമുള്ളതുമാത്രം ശേഖരിക്കാനും ഞങ്ങൾ പരിശ്രമിക്കുകയാണ്. വ്യക്തിപരമായ വിവരങ്ങൾ കൈക്കൊള്ളുന്നതിന് മുമ്പ് ഞങ്ങൾ എല്ലായ്പ്പോഴും അനുമതി ചോദിക്കും.
-collection-privacy-notice = സ്വകാര്യതാ പോളിസി
-collection-health-report-telemetry-disabled-link = കൂടുതല്‍ അറിയുക
-collection-health-report =
-    .label = { -brand-short-name }ലേക്കുള്ള സാങ്കേതിക, ഇന്ററാക്ഷൻ ഡാറ്റ അയയ്ക്കാൻ { -vendor-short-name } നെ അനുവദിക്കുക
-    .accesskey = r
-collection-health-report-link = കൂടുതല്‍ അറിയുക
-collection-studies2 =
-    .label = പാഠനങ്ങൾ സ്ഥാപിച്ചിട്ടു് അവയെ നടത്തുക
-addon-recommendations-link = കൂടുതല്‍ അറിയുക
-# This message is displayed above disabled data sharing options in developer builds
-# or builds with no Telemetry support available.
-collection-health-report-disabled = ഈ ബിൽഡ് കോൺഫിഗറേഷനായി ഡാറ്റ റിപ്പോർട്ടുചെയ്യൽ പ്രവർത്തനരഹിതമാക്കി
 data-collection-link = സ്വകാര്യത അറിയിപ്പു് കാണുക
-
-## Privacy Section - Website Advertising Preferences
-
-website-advertising-header = വെബിടപ്പരസ്യമുൻഗണനകൾ
 
 ## Privacy Section - Security
 ##
@@ -1216,7 +867,6 @@ website-advertising-header = വെബിടപ്പരസ്യമുൻഗണ
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = സുരക്ഷ
-security-browsing-protection = വഞ്ചനാപരമായ ഉള്ളടക്കത്തില്‍ നിന്നും അപകടകരമായ സോഫ്റ്റ്വെയറില്‍ നിന്നും സുരക്ഷ
 security-enable-safe-browsing =
     .label = അപകടകരവും വഞ്ചനാപരവുമായ ഉള്ളടക്കം തടയുക
     .accesskey = B
@@ -1230,24 +880,10 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = സര്‍ട്ടിഫിക്കറ്റുകള്‍
-certs-enable-ocsp =
-    .label = സമ്മതപത്രങ്ങളുടെ നിലവിലുള്ള സാധുത ഉറപ്പാക്കുന്നതിന് ഒസിഎസ്‌പി റസ്പോണ്ടര്‍ സര്‍വറുകള്‍ ചോദ്യം ചെയ്യുക
-    .accesskey = ക
-certs-view =
-    .label = സെര്‍ട്ടിഫിക്കേറ്റുകള്‍ കാണിക്കുക…
-    .accesskey = C
-certs-devices =
-    .label = സുരക്ഷാ ഉപകരണങ്ങള്‍…
-    .accesskey = D
 certs-devices-enable-fips = FIPS പ്രാപ്തമാക്കുക
 space-alert-over-5gb-settings-button =
     .label = ക്രമീകരണങ്ങൾ തുറക്കുക
     .accesskey = ത
-
-## Privacy Section - HTTPS-Only
-
-httpsonly-learn-more = കൂടുതലറിയുക
 
 ## DoH Section
 
@@ -1270,7 +906,6 @@ preferences-doh-setting-off =
 
 desktop-folder-name = ഉപരിഫലകം
 downloads-folder-name = ഇറക്കിവയ്ക്കലുകൾ
-choose-download-folder-title = ഇറക്കിവയ്പ്പറ തിരഞ്ഞെടുക്കുക
 
 ## AI controls page
 

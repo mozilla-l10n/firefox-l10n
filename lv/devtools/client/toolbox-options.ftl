@@ -115,8 +115,6 @@ options-context-advanced-settings = Papildu iestatījumi
 options-disable-http-cache-label = Izslēgt HTTP kešatmiņu (ja ir atvērti izstrādātāju rīki)
 options-disable-http-cache-tooltip =
     .title = Šīs iespējas ieslēgšana deaktivēs HTTP kešatmiņu visām cilnēm, kurām ir atvērta šo rīku josla. Pakalpojumu strādņus šī konfigurācijas iespēja neietekmē.
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Izslēgt JavaScript *
 options-disable-javascript-tooltip =
     .title = Šī iestatījuma ieslēgšana izslēgs JavaScript pašreizējā cilnē. Šis iestatījums netiks saglabāts pēc cilnes vai rīklodziņa aizvēršanas.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -143,8 +141,6 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Ieslēgt pirmkoda kartes
 options-source-maps-tooltip =
     .title = Ja ieslēgsiet šo iespēju, pirmkods tika kartēts rīkos.
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Tikai šo sesiju, pārlādē lapu
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

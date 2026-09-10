@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = ချိတ်ဆက်မှု အပြင်အဆင်များ
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = ချိတ်ဆက်မှု အပြင်အဆင်များ
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -51,14 +51,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = ပြန်ဖွင့်ပါ
     .accesskey = e
-connection-proxy-autologin =
-    .label = စကားဝှက် သိမ်းပြီးသားရှိပါက အတည်ပြုခြင်းအတွက် ထပ်မမေးပါနှင့်
-    .accesskey = i
-    .tooltip = ကြားခံဆာဗာများအတွက် အတည်ပြုအချက်အလက်များကို သိမ်းထားပါက ယခုအပြင်အဆင်သည် ကြားခံဆာဗာများနှင့် အတည်ပြုရာတွင် တိတ်ဆိတ်စွာ ဆောင်ရွက်ပေးသည်။ အကယ်၍ အတည်ပြုခြင်း မအောင်မြင်ပါက အတည်ပြုအချက်အလက်ကို တောင်းခံပါမည်။
 connection-proxy-autologin-checkbox =
     .label = စကားဝှက် သိမ်းပြီးသားရှိပါက အတည်ပြုခြင်းအတွက် ထပ်မမေးပါနှင့်
-    .accesskey = i
     .tooltiptext = ကြားခံဆာဗာများအတွက် အတည်ပြုအချက်အလက်များကို သိမ်းထားပါက ယခုအပြင်အဆင်သည် ကြားခံဆာဗာများနှင့် အတည်ပြုရာတွင် တိတ်ဆိတ်စွာ ဆောင်ရွက်ပေးသည်။ အကယ်၍ အတည်ပြုခြင်း မအောင်မြင်ပါက အတည်ပြုအချက်အလက်ကို တောင်းခံပါမည်။
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = SOCKS v5 ကို အသုံးပြုသည့်အခါ DNS ကို ကြားခံအနေဖြင့် အသုံးပြုပါ
     .accesskey = d
@@ -69,5 +65,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = HTTPS ပေါ်မှ DNS ရယူချင်း အတွက် URL ကို မူလသတ်မှတ်ချက်အတိုင်း သုံးမည်
 connection-dns-over-https-url-custom =
     .label = စိတ်ကြိုက်
-    .accesskey = C
     .tooltiptext = Enter your preferred URL for resolving DNS over HTTPS
+    .accesskey = C

@@ -31,10 +31,6 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = অবৈধ হস্টনাম দিয়া হৈছে
 permissions-invalid-uri-label = এটা বৈধ হস্টনাম দিয়ক
 
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-desc = কোনবোৰ ৱেব ছাইটে প'প-আপ উইণ্ড' খুলিব পাৰে আপুনি সেইটো নিৰ্ধাৰিত কৰিব পাৰে। আপুনি আজ্ঞা দিব খোজা ছাইটৰ সঠিক ঠিকনা দিয়ক আৰু আজ্ঞা দিয়কত টিপক।
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = কোনবোৰ ৱেব ছাইটে এড-অন ইনস্টল কৰিব পাৰে আপুনি সেইটো নিৰ্ধাৰিত কৰিব পাৰে। আপুনি আজ্ঞা দিব খোজা ছাইটৰ সঠিক ঠিকনা দিয়ক আৰু আজ্ঞা দিয়কত টিপক।

@@ -52,15 +52,3 @@ extension-nova-tide-name = גאות ושפל
 extension-nova-ash-name = אפר
 # Name for a warm gray-beige theme. Refers to the hazy color of smoke.
 extension-nova-smoke-name = עשן
-
-## Colorway Themes
-## These themes are variants of a colorway. The colorway is specified in the
-## $colorway-name variable.
-## Variables
-##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
-
-extension-colorways-soft-name = ‏{ $colorway-name } — רך
-extension-colorways-balanced-name = ‏{ $colorway-name } — מאוזן
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-extension-colorways-bold-name = ‏{ $colorway-name } — נועז

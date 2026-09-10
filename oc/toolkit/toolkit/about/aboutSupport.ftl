@@ -24,10 +24,6 @@ security-software-name = Nom
 security-software-antivirus = Antivirus
 security-software-antispyware = Antispyware
 security-software-firewall = Parafuòc
-features-title = Foncionalitats de { -brand-short-name }
-features-name = Nom
-features-version = Version
-features-id = ID
 processes-title = Processús distants
 processes-type = Tipe
 processes-count = Nombre
@@ -53,7 +49,6 @@ app-basics-profile-dir =
         [linux] Dossièr de perfil
        *[other] Dossièr de perfil
     }
-app-basics-enabled-plugins = Plugins activats
 app-basics-build-config = Build Configuration
 app-basics-user-agent = User Agent
 app-basics-os = SO
@@ -90,9 +85,6 @@ show-dir-label =
 environment-variables-title = Variablas d’environament
 environment-variables-name = Nom
 environment-variables-value = Valor
-experimental-features-title = Foncions experimentalas
-experimental-features-name = Nom
-experimental-features-value = Valor
 modified-key-prefs-title = Preferéncias modificadas importantas
 modified-prefs-name = Nom
 modified-prefs-value = Valor
@@ -353,8 +345,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Desactivada a causa d’experimentacions
-fission-status-experiment-treatment = Activada a causa d’experimentacions
 fission-status-disabled-by-e10s-env = Desactivada a causa de l’environament
 fission-status-enabled-by-env = Activada a causa de l’environament
 fission-status-disabled-by-env = Desactivada per l’environament
@@ -363,7 +353,6 @@ fission-status-disabled-by-default = Desactivada per defaut
 fission-status-enabled-by-user-pref = Activada per l’utilizaire
 fission-status-disabled-by-user-pref = Desactivada per l’utilizaire
 fission-status-disabled-by-e10s-other = E10s desactivat
-fission-status-enabled-by-rollout = Activat per desplegament progressiu
 async-pan-zoom = Zoom/Panoramic asincròns
 apz-none = pas cap
 wheel-enabled = entrada rodeta activada

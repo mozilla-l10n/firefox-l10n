@@ -32,7 +32,6 @@ sidebar-history-clear =
     .label = Stizzar la cronologia
 sidebar-history-sort-by-heading-menucaption =
     .label = Zavrar tenor:
-sidebar-history-sort-by-heading = Zavrar tenor:
 sidebar-history-sort-option-date =
     .label = Data
 sidebar-history-sort-option-site =
@@ -52,14 +51,9 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Extensiuns da la trav laterala
-sidebar-customize-firefox-tools-header =
-    .label = Utensils da { -brand-product-name }
 sidebar-customize-firefox-settings = Administrar ils parameters da { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Tabs verticals
-sidebar-settings =
-    .label = Parameters da la trav laterala
 sidebar-hide-tabs-and-sidebar =
     .label = Zuppentar ils tabs e la trav laterala
 sidebar-show-on-the-right =
@@ -75,8 +69,6 @@ expand-sidebar-on-hover =
 
 sidebar-context-menu-manage-extension =
     .label = Administrar l’extensiun
-sidebar-context-menu-remove-extension =
-    .label = Allontanar l’extensiun
 sidebar-context-menu-report-extension =
     .label = Rapportar l’extensiun
 sidebar-context-menu-open-in-tab =

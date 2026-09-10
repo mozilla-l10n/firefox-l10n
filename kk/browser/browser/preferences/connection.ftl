@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Байланыс баптаулары
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Байланыс баптаулары
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Жаңарту
     .accesskey = р
-connection-proxy-autologin =
-    .label = Пароль сақталып тұрса, аутентификацияны сұрамау
-    .accesskey = и
-    .tooltip = Бұл баптау тіркелгі ақпараты сақталған прокси серверлерде тыныш аутентификацияны жасайды. Аутентификация сәтсіз болса, тіркелгі ақпараты сізден сұралады.
 connection-proxy-autologin-checkbox =
     .label = Пароль сақталып тұрса, аутентификацияны сұрамау
-    .accesskey = и
     .tooltiptext = Бұл баптау тіркелгі ақпараты сақталған прокси серверлерде тыныш аутентификацияны жасайды. Аутентификация сәтсіз болса, тіркелгі ақпараты сізден сұралады.
+    .accesskey = и
 connection-proxy-socks4-remote-dns =
     .label = SOCKS v4 қолдану кезінде DNS сұранымдарын прокси арқылы жіберу
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = HTTPS арқылы DNS шешу үшін бастапқы URL қолдану
 connection-dns-over-https-url-custom =
     .label = Таңдауыңызша
-    .accesskey = т
     .tooltiptext = HTTPS арқылы DNS шешу үшін таңдауыңызша URL енгізіңіз
-connection-dns-over-https-custom-label = Таңдауыңызша
+    .accesskey = т

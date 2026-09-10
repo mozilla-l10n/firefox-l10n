@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = ເພີ່ມເຕີມຈາກ { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = ເພີ່ມເຕີມຈາກ { -vendor-short-name }
 more-from-moz-subtitle = ກວດເບິ່ງຜະລິດຕະພັນອື່ນໆຂອງ { -vendor-short-name } ທີ່ເຮັດວຽກເພື່ອຮອງຮັບອິນເຕີເນັດທີ່ມີສຸຂະພາບດີ.
@@ -32,13 +31,11 @@ more-from-moz-firefox-relay-button = ເອົາ { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = ເອົາຂໍ້ມູນສ່ວນຕົວທີ່ຖືກເປີດເຜີຍຂອງທ່ານກັບຄືນໂດຍອັດຕະໂນມັດ.
 more-from-moz-mozilla-monitor-global-description = ຮັບການແຈ້ງເຕືອນເມື່ອເກີດການຮົ່ວໄຫລຂໍ້ມູນຂອງທ່ານ.
 more-from-moz-mozilla-monitor-button = ດາວໂຫລດ { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = ສ້າງເວັບໄຊທຂອງທ່ານທັນທີ ແລະ ເຊື່ອມຕໍ່ກັບໂດເມນທີ່ທ່ານກຳນົດເອງໄດ້ໂດຍບໍ່ເສຍຄ່າ.
 more-from-moz-solo-button = ທົດລອງນຳໃຊ້ { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = ຜູ້ສ້າງເວັບໄຊທດ້ວຍ AI ຂອງ { -solo-ai-brand-name }

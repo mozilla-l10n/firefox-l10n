@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Amtawi…
 sync-disconnect-dialog-title2 = Ffeɣ?
 sync-disconnect-dialog-body = { -brand-product-name } ur yettuɣal ara ad yemtawi d umiḍan-ik, maca ur itekkes ula d asefku n tunigin seg yibenk-ik.
 sync-disconnect-dialog-button = Ffeɣ
-fxa-signout-dialog2-title = Ffeɣ seg { -fxaccount-brand-name }
 fxa-signout-dialog-title2 = Ffeɣ seg umiḍan-ik·ik?
 fxa-signout-dialog-body = Isefkan yemtawin ad qqimen deg umiḍan-ik·m.
 fxa-signout-dialog2-button = Ffeɣ
@@ -18,14 +17,6 @@ fxa-menu-turn-on-sync =
 fxa-menu-turn-on-sync-default = Rmed amtawi
 fxa-menu-connect-another-device =
     .label = Qqen ibenk-nniḍen...
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Azen iccer ɣer yibenk
-           *[other] Azen { $tabCount } waccaren ɣer yibenk
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Amtawi n yibenkan…

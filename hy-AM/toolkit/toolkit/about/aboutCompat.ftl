@@ -8,8 +8,5 @@ label-interventions = Միջամտություններ
 # Variables:
 #   $bug (string) - Bug number
 label-more-information = Հավելյալ տեղեկություն․ Վրիպակ { $bug }
-label-overrides = User Agent-ը գերակայում է
 text-disabled-in-about-config = Այս հատկությունը անջատված է about:config
 text-no-interventions = Ոչ մի միջամտություն չի օգտագործվում
-text-no-overrides = UA֊ի ոչ մի գերակայում չի օգտագործվում
-text-title = about:compat

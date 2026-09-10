@@ -2,17 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-# This file intentionally uses hard-coded brand names instead of Fluent terms.
-# This approach minimizes issues across multiple release channels and rebranded
-# versions.
-
 default-bookmarks-title = Bookmarks
 default-bookmarks-heading = Bookmarks
-default-bookmarks-toolbarfolder = Bookmarks Toolbar Folder
-default-bookmarks-toolbarfolder-description = Add bookmarks to this folder to see them displayed on the Bookmarks Toolbar
-# link title for https://www.mozilla.org/firefox/central/
-default-bookmarks-getting-started = Getting Started
 # Firefox links folder name
 default-bookmarks-firefox-heading = Mozilla Firefox
 # link title for https://www.mozilla.org/firefox/help/

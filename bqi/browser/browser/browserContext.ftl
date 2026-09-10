@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = وورگشتن و بلگه دیندایی ({ $shortcut })
     .aria-label = وورگشتن
+    .tooltiptext = وورگشتن و بلگه دیندایی ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = جلاو رئڌن و بلگه نیایی ({ $shortcut })
     .aria-label = نیایی
+    .tooltiptext = جلاو رئڌن و بلگه نیایی ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = نشووک ناهاڌن بلگه…
-    .accesskey = m
     .tooltiptext = نشووک ناهاڌن بلگه
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = نشووک ناهاڌن بلگه…
-    .accesskey = m
     .tooltiptext = نشووک ناهاڌن بلگه ({ $shortcut })
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = آلشت نشووک
-    .accesskey = m
     .tooltiptext = آلشت نشووک
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = آلشت نشووک
-    .accesskey = m
     .tooltiptext = آلشت نشووک ({ $shortcut })
+    .accesskey = m
 main-context-menu-open-link =
     .label = گۊشیڌن لینگ
     .accesskey = O
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = زفت کردن لینگ و عونوان…
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = زفت کردن لینگ من { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = سی فشناڌن بل�
 main-context-menu-send-to-mobile-connect-phone3 = منپیز دسگا سی فشناڌن بلگه یل
 main-context-menu-send-to-mobile-connect-phone-from-link = منپیز دسگا سی فشناڌن لینگ
 main-context-menu-send-to-mobile-connect-phone-from-page = منپیز دسگا سی فشناڌن بلگه
-main-context-menu-save-to-pocket =
-    .label = زفت کردن بلگه من { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = فشناڌن بلگه و دسگا
-    .accesskey = n
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = و کار گرؽڌن و من ٱووڌن زفت وابیڌه
-    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = و کار گرؽڌن رزم زفت وابیڌه
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = و کار گرؽڌن ماسک ایمیل { -relay-brand-short-name }
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = پؽشنهاڌ ی رزم قوی…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = دؽوۉداری و من ٱووڌنا
-    .accesskey = M
 main-context-menu-manage-passwords =
     .label = دؽوۉداری رزما
     .accesskey = M
-main-context-menu-keyword =
-    .label = ٱووردن ی کیلیت واژه و ای پیتینیڌن…
-    .accesskey = K
 main-context-menu-add-engine =
     .label = ٱووردن موتور پیتینیڌن
     .accesskey = S
@@ -393,9 +366,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = گرؽڌن شؽوات ز بلگه
     .accesskey = T
-main-context-menu-take-frame-screenshot =
-    .label = گرؽڌن شؽوات ز بلگه
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = نیشتن کود بونچک بلگه
     .accesskey = V

@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = 搜索密码
-    .key = F
     .aria-label = 搜索密码
+    .key = F
+    .placeholder = 搜索密码
 contextual-manager-menu-more-options-button =
     .title = 更多选项
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = 从文件导入…
 contextual-manager-passwords-command-export = 导出密码
 contextual-manager-passwords-command-remove-all = 移除所有密码
 contextual-manager-passwords-command-options = 选项
-contextual-manager-passwords-command-settings = 设置
 contextual-manager-passwords-command-help = 帮助
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = 密码已导入
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = 已新增 { $added } 个，已更新 { $modified } 个
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -213,8 +208,6 @@ contextual-manager-passwords-create-label =
     .label = 添加密码
 contextual-manager-passwords-update-label =
     .label = 更新密码
-contextual-manager-passwords-edit-label =
-    .label = 编辑密码
 contextual-manager-passwords-remove-label =
     .title = 移除密码
 contextual-manager-passwords-origin-field =
@@ -230,7 +223,6 @@ contextual-manager-passwords-password-field-description = 输入密码以登录�
 contextual-manager-passwords-origin-tooltip = 输入此网站的准确登录地址。
 contextual-manager-passwords-username-tooltip = 输入用于登录的用户名、邮箱地址或账号。
 contextual-manager-passwords-password-tooltip-2 = 输入密码以登录此账户。
-contextual-manager-passwords-password-tooltip = 输入用于登录此账户的密码。
 
 ## Password Card
 
@@ -277,10 +269,6 @@ contextual-manager-password-login-line-with-alert =
     .title = 复制密码（警告）
 contextual-manager-edit-login-button = 编辑
     .tooltiptext = 编辑密码
-contextual-manager-view-alert-heading =
-    .heading = 查看警报
-contextual-manager-view-alert-button =
-    .tooltiptext = 查看警报
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -307,13 +295,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = 找不到相关密码
 contextual-manager-passwords-no-passwords-found-message-2 = 请尝试搜索其他关键词。
-contextual-manager-passwords-no-passwords-found-message = 找不到密码，请尝试搜索其他关键词。
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = 集中一处，安全保存密码
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = 所有密码都受加密保护。我们还会关注外泄事件动态，并在您的账户受影响时发出警报。

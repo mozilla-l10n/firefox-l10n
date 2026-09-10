@@ -31,26 +31,12 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Cuntinua e nzita
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Stu situ sta addumannannu l’accessu ê to dispusitivi MIDI (Musical Instrument Digital Interface). L’accessu ê dispusitivi po èssiri abbilitatu doppu chi nziti na juncitina.
-
-##
-
-xpinstall-disabled-locked = U nzitamentu dî prugrammi fu sdisabbilitatu di l’amministraturi dû sistema.
 xpinstall-disabled-by-policy = U nzitamentu dî prugrammi fu sdisabbilitatu dâ to urganizzazzioni.
 xpinstall-disabled = P’accamora u nzitamentu dî prugrammi è sdisabbilitatu. Ammacca «Abbìlita» e torna a prova.
 xpinstall-disabled-button =
     .label = Abbìlita
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) fu bluccatu di l’amministraturi dû to sistema.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = L’amministraturi dû to sistema bluccau a stu situ di addumannàriti di nzitari prugrammi nnô to computer.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -75,9 +61,6 @@ webext-imported-addons = Cumpleta u nzitamentu dî stinneri mpurtati nne { -bran
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Vo’ livari { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Vo’ livari { $name } di { -brand-shorter-name }?
 addon-removal-button = Leva
 addon-removal-abuse-report-checkbox = Riporta stu stinneriu a { -vendor-short-name }
 # Variables:
@@ -129,4 +112,3 @@ addon-local-install-error-not-signed = Mpussìbbili nzitari sta juncitina picch�
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Mpussìbbili nzitari «{ $addonName }» picchì nun è cumpatìbbili cu { -brand-short-name } { $appVersion }.
-addon-install-error-blocklisted = Mpussìbbili nzitari «{ $addonName }» picchì àvi un rìsicu autu di causàriti prubblemi di sicurizza o stabbilità.

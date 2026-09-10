@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] ᱧᱟᱢᱤᱡ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
            *[other] ᱯᱚᱴᱚᱢ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
         }
-downloads-cmd-show-downloads =
-    .label = ᱰᱟᱣᱱᱞᱚᱰ ᱯᱚᱴᱚᱢ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 downloads-cmd-retry =
     .tooltiptext = ᱫᱚᱲᱟ ᱠᱩᱨᱩᱢᱩᱴᱩ
 downloads-cmd-retry-panel =

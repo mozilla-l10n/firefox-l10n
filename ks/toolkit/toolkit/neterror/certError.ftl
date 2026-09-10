@@ -30,5 +30,4 @@ proxyConnectFailure-title = پراكزی سرور چھُ رٲبطئ رد كرا�
 proxyResolveFailure-title = پراكزی سرور ہ۪یك نئ لب۪یتھ
 redirectLoop-title = صفحئ چھُ نئ ری ڈایریكٹ كران سہی پٲٹھ
 unknownSocketType-title = غٲر مُتوقع جواب سرور پ۪یٹھئ
-corruptedContentError-title = مشمولات چھَ كورپٹڈ
 sslv3Used-title = ہیوک نْہ کنیکٹْہ کْرتھ حفاظت سان

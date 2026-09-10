@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = İhtivacı Yoq
-    .accesskey = Y
 user-context-manage-containers =
     .label = Konteynerlerni İdare Et
     .accesskey = o

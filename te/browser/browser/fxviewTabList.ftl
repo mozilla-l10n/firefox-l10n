@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxviewtabrow-open-menu-button =
-    .title = మెనూని తెరువు
 # Variables:
 #   $targetURI (string) - URL of tab that will be opened in the new tab
 fxviewtabrow-tabs-list-tab =
@@ -14,10 +12,6 @@ fxviewtabrow-close-tab-button =
     .title = { $tabTitle }ను మూసివేయి
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = ఇప్పుడే
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-delete = తొలగించు
     .accesskey = D
 fxviewtabrow-open-in-window = కొత్త విండోలో తెరువు

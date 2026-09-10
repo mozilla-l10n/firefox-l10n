@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Agiuntar { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Progress: pass { $current } da { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -190,11 +184,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Fixescha { -brand-short-name } en la taskbar ed en il menu start
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Cumenza cun in navigatur dad ina organisaziun senza finamira da profit. Nus protegin tia sfera privata fertant che ti navigheschas en il web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -224,57 +213,10 @@ mr2022-onboarding-set-default-subtitle = Utilisescha in navigatur dad ina organi
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Nossa actualisaziun la pli nova è adattada a tes basegns e renda pli simpel che mai da navigar en il web. Ella porta numerusas funcziuns che ti vegns ad adurar.
 mr2022-onboarding-get-started-primary-button-label = Configurà en in pèr secundas
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Configuraziun sveltischma
-mr2022-onboarding-import-subtitle = Configurescha { -brand-short-name } tenor tes basegns. Agiuntescha segnapaginas, pleds-clav e dapli da tes navigatur vegl.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importar dad in auter navigatur
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Tscherna la colur che inspirescha tai
-mr2022-onboarding-colorway-subtitle = Vuschs independentas pon midar la societad.
-mr2022-onboarding-colorway-primary-button-label-continue = Configurar e cuntinuar
-mr2022-onboarding-existing-colorway-checkbox-label = Utilisescha { -firefox-home-brand-name } per ina pagina da partenza plain colurs
-mr2022-onboarding-colorway-label-default = Standard
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Colurs actualas da { -brand-short-name }
-mr2022-onboarding-colorway-description-default = <b>Utilisar mias colurs da { -brand-short-name } actualas.</b>
-mr2022-onboarding-colorway-label-playmaker = Capo
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Capo (cotschen)
-mr2022-onboarding-colorway-description-playmaker = <b>Ti es in capo.</b> Ti creeschas occasiuns per gudagnar e gidas mintgin enturn tai da giugar anc meglier.
-mr2022-onboarding-colorway-label-expressionist = Expressiunist
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Expressiunist (mellen)
-mr2022-onboarding-colorway-description-expressionist = <b>Ti es in expressiunist.</b> Ti vesas il mund cun auters egls e tias creaziuns sveglian emoziuns.
-mr2022-onboarding-colorway-label-visionary = Visiunari
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Visiunari (verd)
-mr2022-onboarding-colorway-description-visionary = <b>Ti es in visiunari.</b> Ti mettas en dumonda il status quo ed animeschas auters da s'imaginar in meglier mund.
-mr2022-onboarding-colorway-label-activist = Activist
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Activist (blau)
-mr2022-onboarding-colorway-description-activist = <b>Ti es in activist.</b> Ti laschas enavos in meglier mund e mussas ad auters da crair en il futur.
-mr2022-onboarding-colorway-label-dreamer = Siemiader
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Siemiader (violet)
-mr2022-onboarding-colorway-description-dreamer = <b>Ti es ina siemiader.</b> Ti crais ch'il cletg gidia ils giagliards ed inspireschas auters dad esser curaschus.
-mr2022-onboarding-colorway-label-innovator = Innovatur
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Innovatura (oransch)
-mr2022-onboarding-colorway-description-innovator = <b>Ti es in innovatur.</b> Ti vesas dapertut ina pussaivladad ed influenzeschas las vitas da las persunas enturn tai.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Mida dal laptop al telefonin e puspè enavos
-mr2022-onboarding-mobile-download-subtitle = Va per tabs dad in apparat e cuntinuescha là nua che ti has chalà sin in auter apparat. Sincronisescha ultra da quai tes segnapaginas e pleds-clav dapertut nua che ti utiliseschas { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Scannescha il code QR per ir per { -brand-product-name } per apparats mobils u <a data-l10n-name="download-label">ta trametta ina colliaziun a la telechargiada</a>.
 mr2022-onboarding-no-mobile-download-cta-text = Scannescha il code QR per telechargiar { -brand-product-name } per apparats mobils.
 
@@ -327,15 +269,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = High five dad in maun cun pel stgira ed in cun pel clera
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Vista dad in tramunt tras ina fanestra cun ina vulp ed ina planta da chasa sin il curnisch
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = In maun dissegna in collascha colurada da graffitis cun in egl verd, in chalzer oransch, ina balla-basket cotschna, uregliers violets, in cor blau ed ina curuna melna
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Ina vulp che salida sin in visur dad in laptop. Ina mieur è connectada cun il laptop.
 onboarding-device-migration-title = Bel da ta vesair puspè!
-onboarding-device-migration-subtitle = T'annunzia en tes { -fxaccount-brand-name(capitalization: "sentence") } per prender cun tai tes segnapaginas, pleds-clav e tia cronologia sin tes nov apparat.
 onboarding-device-migration-subtitle2 = T'annunzia en tes conto per purtar cun tai tes segnapaginas, pleds-clav e la cronologia sin tes nov apparat.
 onboarding-device-migration-primary-button-label = S'annunziar
 
@@ -447,15 +386,12 @@ tab-groups-onboarding-feature-callout-title = Emprova las gruppas da tabs per da
 tab-groups-onboarding-feature-callout-subtitle = Optimescha l’organisaziun cun trair in tab sin in auter per crear tia emprima gruppa.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Ti chattas tias gruppas da tabs adina en il menu «Glista da tut ils tabs».
-tab-groups-onboarding-create-group-title-2 = Ti chattas qua da tut temp tias gruppas da tabs.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Chatta tias gruppas cun las tschertgar en la trav d’adressas.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Cura che ti serras ina gruppa da tabs, la pos ti reavrir da tut temp en il menu «Glista da tut ils tabs».
-tab-groups-onboarding-saved-groups-title-2 = Sche ti serras ina gruppa da tabs, pos ti la reavrir qua da tut temp.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Chatta tias gruppas serradas cun las tschertgar en la trav d’adressas.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Reavra da tut temp tias gruppas da tabs en il menu «Glista da tut ils tabs».
-tab-groups-onboarding-session-restore-title = Reavra qua tias gruppas da tabs da tut temp.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

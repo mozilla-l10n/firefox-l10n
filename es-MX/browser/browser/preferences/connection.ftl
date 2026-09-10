@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Configuración de conexión
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Configuración de conexión
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Recargar
     .accesskey = e
-connection-proxy-autologin =
-    .label = No pedir identificación si la contraseña está guardada
-    .accesskey = i
-    .tooltip = Esta opción te identifica silenciosamente con los proxys cuando has guardado credenciales para ellos. Serás requerido si la identificación falla.
 connection-proxy-autologin-checkbox =
     .label = No pedir identificación si la contraseña está guardada
-    .accesskey = i
     .tooltiptext = Esta opción te identifica silenciosamente con los proxys cuando has guardado credenciales para ellos. Serás requerido si la identificación falla.
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = Proxy DNS al usar SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Usa la URL predeterminada para resolver DNS sobre HTTPS
 connection-dns-over-https-url-custom =
     .label = Personalizar
-    .accesskey = e
     .tooltiptext = Ingrese su URL preferida para resolver los DNS sobre HTTPS
-connection-dns-over-https-custom-label = Personalizado
+    .accesskey = e

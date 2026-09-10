@@ -19,11 +19,6 @@ migration-wizard-selection-option-without-profile = { $sourceBrowser }
 #  $sourceBrowser (String): the name of the browser to import from.
 #  $profileName (String): the name of the user profile to import from.
 migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
-
-# Each migrator is expected to include a display name string, and that display
-# name string should have a key with "migration-wizard-migrator-display-name-"
-# as a prefix followed by the unique identification key for the migrator.
-
 migration-wizard-migrator-display-name-brave = Brave
 migration-wizard-migrator-display-name-canary = Chrome Canary
 migration-wizard-migrator-display-name-chrome = Chrome
@@ -75,7 +70,6 @@ migration-bookmarks-option-label = Bokmerker
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favoritter
-migration-logins-and-passwords-option-label = Lagrede innlogginger og passord
 migration-passwords-option-label = Lagrede passord
 migration-history-option-label = Nettleserhistorikk
 migration-extensions-option-label = Utvidelser
@@ -209,8 +203,6 @@ migration-chrome-windows-password-import-step4 = Gå tilbake hit og trykk på «
 migration-manual-password-import-skip-button = Hopp over
 migration-manual-password-import-cancel-button = Avbryt
 migration-manual-password-import-select-button = Velg fil
-migration-safari-password-import-skip-button = Hopp over
-migration-safari-password-import-select-button = Velg fil
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #

@@ -30,11 +30,6 @@ genai-prompt-prefix-selection = أنا في الصفحة "{ $tabTitle }" مع ت
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = اسأل روبوت دردشة AI
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = اسأل { $provider }
 # $provider (string) - name of the provider
 genai-menu-open-provider =
     .label = افتح { $provider }
@@ -74,8 +69,6 @@ genai-header-provider-menu =
     .title = اختر روبوت المحادثة
 genai-header-settings-button =
     .title = إعدادات دردشة الذكاء الاصطناعي
-genai-header-options-button =
-    .title = افتح القائمة
 genai-header-close-button =
     .title = أغلق
 genai-provider-view-details =
@@ -101,32 +94,20 @@ genai-page-button-summarize = لخص الصفحة
 
 ## Chatbot onboarding
 
-genai-onboarding-header = تلخيص، والتفكير، والمزيد أثناء التصفح
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = اختر روبوت محادثة ذكيًا لاستخدامه في الشريط الجانبي { -brand-short-name }. سنعرض تفاصيل كل روبوت محادثة عند اختياره. يمكنك التبديل في أي وقت. <a data-l10n-name="learn-more">اطّلع على المزيد</a>
 genai-onboarding-primary = واصِل
 genai-onboarding-secondary = أغلق
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = اعرف المزيد عن Claude
 genai-onboarding-chatgpt-tooltip =
     .title = chatGPT
-genai-onboarding-chatgpt-learn = اعرف المزيد عن ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = اعرف المزيد عن Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = اعرف المزيد عن Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
-genai-onboarding-huggingchat-learn = اعرف المزيد عن HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = اعرف المزيد عن Le Chat
-genai-onboarding-select-header = حدّد النص لرؤية الاقتراحات
-genai-onboarding-select-description = عند اختيار نص، سنقترح عليك توجيهات يمكنك إرسالها إلى آلي المحادثة. يمكنك أيضًا كتابة توجيهاتك الخاصة.
-genai-onboarding-select-primary = ابدأ الدردشة
 genai-chatbot-contextual-title = استخدم آلي محادثة يعمل بالذكاء الاصطناعي دون الحاجة إلى تبديل الألسنة
 genai-chatbot-contextual-button = اختر آلي دردشة
 genai-chatbot-summarize-title = جديد! لخص الصفحات بنقرة واحدة
@@ -134,27 +115,6 @@ genai-chatbot-summarize-button = لخص الصفحة
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
 genai-chatbot-summarize-sidebar-generic-subtitle = انقر بزر الفأرة الأيمن على زر التألق في الشريط الجانبي واختر “لخص الصفحة”". في المرة الأولى، ستختار أيضًا روبوت محادثة يعمل بالذكاء الاصطناعي.
 genai-chatbot-summarize-footer-generic-subtitle = أضف روبوت محادثة يعمل بالذكاء الاصطناعي إلى الشريط الجانبي { -brand-short-name } لتلخيص الصفحات بسرعة.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = ولّد نص ورمز
-genai-onboarding-claude-analyze = حلّل المستندات والصور
-genai-onboarding-claude-price = خيارات مجانية ومدفوعة؛ يلزم وجود حساب
-genai-onboarding-chatgpt-generate = أنشئ نصوص وصور ورموز
-genai-onboarding-chatgpt-analyze = حلّل المستندات والصور
-genai-onboarding-chatgpt-price = خيارات مجانية ومدفوعة؛ مطلوب حساب لبعض البلدان والمهام
-genai-onboarding-copilot-generate = ولّد نص وصور ورمز
-genai-onboarding-copilot-analyze = حلّل الصور
-genai-onboarding-copilot-price = خيارات مجانية ومدفوعة؛ يتطلب حسابًا لبعض المهام
-genai-onboarding-gemini-generate = ولّد نص وصور ورمز
-genai-onboarding-gemini-analyze = حلّل الصور (مجاني) والمستندات (مدفوعة)
-genai-onboarding-gemini-price = خيارات مجانية ومدفوعة؛ مطلوب حساب
-genai-onboarding-huggingchat-generate = ولّد نص ورمز
-genai-onboarding-huggingchat-switch = بدّل بين مجموعة متنوعة من النماذج المفتوحة
-genai-onboarding-huggingchat-price-2 = مجاني؛ مطلوب حساب بعد عدد معين من الطلبات
-genai-onboarding-lechat-generate = ولّد نص ورمز
-genai-onboarding-lechat-price = مجاني؛ مطلوب حساب
 
 ## Model Optin Component
 
@@ -181,8 +141,8 @@ link-preview-generation-retry = حاول مجددًا
 link-preview-settings-button =
     .title = إعدادات معاينة الرابط
 link-preview-settings-enable =
-    .label = فعِّل معاينات الروابط
     .description = شاهد عنوان الصفحة والوصف والمزيد عند استخدام الاختصار أو النقر بزر الفأرة الأيمن على أي رابط.
+    .label = فعِّل معاينات الروابط
 link-preview-settings-key-points =
     .label = اسمح للذكاء الاصطناعي بقراءة بداية الصفحة وتحديد النقاط الرئيسية
 link-preview-settings-long-press =

@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Go backwards one page ({ $shortcut })
     .aria-label = Backwards
+    .tooltiptext = Go backwards one page ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Go forwards one page ({ $shortcut })
     .aria-label = Forwards
+    .tooltiptext = Go forwards one page ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name(capitalization: "sentence") }
-    .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Bookmark Page…
-    .accesskey = m
     .tooltiptext = Bookmark page
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Bookmark Page…
-    .accesskey = m
     .tooltiptext = Bookmark page ({ $shortcut })
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = Edit Bookmark…
-    .accesskey = m
     .tooltiptext = Edit bookmark
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Edit Bookmark…
-    .accesskey = m
     .tooltiptext = Edit bookmark ({ $shortcut })
+    .accesskey = m
 main-context-menu-open-link =
     .label = Open Link
     .accesskey = O
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Save Link As…
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = Save Link to { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Turn on Sync to Send a 
 main-context-menu-send-to-mobile-connect-phone3 = Connect a Device to Send Tabs
 main-context-menu-send-to-mobile-connect-phone-from-link = Connect a Device to Send a Link
 main-context-menu-send-to-mobile-connect-phone-from-page = Connect a Device to Send a Page
-main-context-menu-save-to-pocket =
-    .label = Save Page to { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Send Page to Device
-    .accesskey = n
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Use Saved Login
-    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Use Saved Password
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Use { -relay-brand-short-name } Email Mask
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = Suggest Strong Password…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = Manage Logins
-    .accesskey = M
 main-context-menu-manage-passwords =
     .label = Manage Passwords
     .accesskey = M
-main-context-menu-keyword =
-    .label = Add a Keyword for this Search…
-    .accesskey = K
 main-context-menu-add-engine =
     .label = Add Search Engine
     .accesskey = S
@@ -393,9 +366,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Take Screenshot
     .accesskey = T
-main-context-menu-take-frame-screenshot =
-    .label = Take Screenshot
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = View Page Source
     .accesskey = V

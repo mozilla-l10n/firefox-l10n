@@ -13,7 +13,6 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } man xtikïr ta x
 
 ##
 
-firefox-relay-must-login-to-fxa = K'o chi natikirisaj molojri'ïl pa { -fxaccount-brand-name } richin nawokisaj { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = Kenuk'samajïx taq k'oj
     .accesskey = n

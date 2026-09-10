@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = ย้อนกลับไปหนึ่งหน้า ({ $shortcut })
     .aria-label = ย้อนกลับ
+    .tooltiptext = ย้อนกลับไปหนึ่งหน้า ({ $shortcut })
     .accesskey = ย
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = เดินหน้าไปหนึ่งหน้า ({ $shortcut })
     .aria-label = เดินหน้า
+    .tooltiptext = เดินหน้าไปหนึ่งหน้า ({ $shortcut })
     .accesskey = ด
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = เพิ่มที่คั่นหน้าสำหรับหน้า…
-    .accesskey = พ
     .tooltiptext = เพิ่มที่คั่นหน้าสำหรับหน้า
+    .accesskey = พ
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = เพิ่มที่คั่นหน้าสำหรับหน้า…
-    .accesskey = ท
     .tooltiptext = เพิ่มที่คั่นหน้าสำหรับหน้า ({ $shortcut })
+    .accesskey = ท
 main-context-menu-edit-bookmark =
     .aria-label = แก้ไขที่คั่นหน้า…
-    .accesskey = ท
     .tooltiptext = แก้ไขที่คั่นหน้า
+    .accesskey = ท
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = แก้ไขที่คั่นหน้า…
-    .accesskey = ท
     .tooltiptext = แก้ไขที่คั่นหน้า ({ $shortcut })
+    .accesskey = ท
 main-context-menu-open-link =
     .label = เปิดลิงก์
     .accesskey = ป
@@ -147,9 +141,6 @@ main-context-menu-bookmark-link-2 =
     .accesskey = พ
 main-context-menu-save-link =
     .label = บันทึกลิงก์เป็น…
-    .accesskey = น
-main-context-menu-save-link-to-pocket =
-    .label = บันทึกลิงก์ไปยัง { -pocket-brand-name }
     .accesskey = น
 
 ##
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = เปิดการ�
 main-context-menu-send-to-mobile-connect-phone3 = เชื่อมต่อกับอุปกรณ์เพื่อส่งแท็บ
 main-context-menu-send-to-mobile-connect-phone-from-link = เชื่อมต่อกับอุปกรณ์เพื่อส่งลิงก์
 main-context-menu-send-to-mobile-connect-phone-from-page = เชื่อมต่อกับอุปกรณ์เพื่อส่งหน้าเว็บ
-main-context-menu-save-to-pocket =
-    .label = บันทึกหน้าไปยัง { -pocket-brand-name }
-    .accesskey = บ
-main-context-menu-send-to-device =
-    .label = ส่งหน้าไปยังอุปกรณ์
-    .accesskey = ส
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = ใช้การเข้าสู่ระบบที่บันทึกไว้
-    .accesskey = บ
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = ใช้รหัสผ่านที่บันทึกไว้
     .accesskey = ห
-
-##
-
 main-context-menu-use-relay-mask =
     .label = ใช้ตัวปกปิดอีเมลของ { -relay-brand-short-name }
     .accesskey = อ
 main-context-menu-suggest-strong-password =
     .label = แนะนำรหัสผ่านที่คาดเดายาก…
     .accesskey = ย
-main-context-menu-manage-logins2 =
-    .label = จัดการการเข้าสู่ระบบ
-    .accesskey = จ
 main-context-menu-manage-passwords =
     .label = จัดการรหัสผ่าน
     .accesskey = จ
-main-context-menu-keyword =
-    .label = เพิ่มคำสำคัญสำหรับการค้นหานี้…
-    .accesskey = พ
 main-context-menu-add-engine =
     .label = เพิ่มเครื่องมือค้นหา
     .accesskey = ค
@@ -393,9 +366,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = ถ่ายภาพหน้าจอ
     .accesskey = ถ
-main-context-menu-take-frame-screenshot =
-    .label = ถ่ายภาพหน้าจอ
-    .accesskey = ภ
 main-context-menu-view-page-source =
     .label = ดูต้นฉบับหน้า
     .accesskey = ด

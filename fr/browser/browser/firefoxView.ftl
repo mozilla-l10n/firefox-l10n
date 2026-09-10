@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Afficher l’historique de navigation récent des diverses fenêtres et différents appareils
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Fermer
-    .aria-label = Fermer
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = À l’instant
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Récupération d’onglets
-firefoxview-tabpickup-description = Ouvrez des pages provenant d’autres appareils.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = Terminé à { $percentValue } %
-firefoxview-tabpickup-step-signin-header = Passez facilement d’un appareil à l’autre
-firefoxview-tabpickup-step-signin-description = Pour récupérer les onglets de votre téléphone ici, commencez par vous connecter ou créer un compte.
-firefoxview-tabpickup-step-signin-primarybutton = Continuer
 firefoxview-syncedtabs-signin-header-2 = Votre { -brand-product-name } sur tous vos appareils
 firefoxview-syncedtabs-signin-description-2 = Pour afficher les onglets ouverts sur votre téléphone et vos autres appareils, connectez-vous ou créez un compte. Avec un compte, vous pouvez également synchroniser mots de passe, historique et plus encore.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Passez sans effort de votre ordinateur portable à votre téléphone
 firefoxview-syncedtabs-signin-description-3 = Synchronisez votre navigation sur tous vos appareils : onglets, mots de passe, historique, tout est synchronisé.
 firefoxview-syncedtabs-signin-primarybutton-2 = Connexion
-firefoxview-tabpickup-adddevice-header = Synchronisez { -brand-product-name } avec votre téléphone ou votre tablette
-firefoxview-tabpickup-adddevice-description = Téléchargez { -brand-product-name } pour mobile et connectez-vous.
-firefoxview-tabpickup-adddevice-learn-how = Découvrez comment
-firefoxview-tabpickup-adddevice-primarybutton = Installez { -brand-product-name } sur votre appareil mobile
 firefoxview-syncedtabs-adddevice-header-2 = Récupérez vos onglets où que vous soyez
 firefoxview-syncedtabs-adddevice-description-2 = Connectez-vous à { -brand-product-name } sur votre téléphone ou un autre ordinateur pour afficher leurs onglets ici. Découvrez comment <a data-l10n-name="url">connecter des appareils supplémentaires</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Essayer { -brand-product-name } pour mobile
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Vos onglets ont appelé votre téléphone. Ils sont aussi là-bas maintenant.
 firefoxview-syncedtabs-adddevice-description-3 = Scannez le code QR pour obtenir { -brand-product-name } sur votre téléphone et commencer à synchroniser votre onglets ouverts et plus encore. Découvrez comment <a data-l10n-name="url">connecter des appareils supplémentaires</a>.
-firefoxview-tabpickup-synctabs-header = Activez la synchronisation des onglets
-firefoxview-tabpickup-synctabs-description = Autorisez { -brand-short-name } à partager les onglets entre vos appareils.
-firefoxview-tabpickup-synctabs-learn-how = Me montrer comment faire
 firefoxview-tabpickup-synctabs-primarybutton = Synchroniser les onglets ouverts
 firefoxview-tabpickup-synctabs-primarybutton-2 = Activer la synchronisation des onglets
 firefoxview-syncedtabs-synctabs-header = Mettez à jour vos paramètres de synchronisation
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Une fois terminée, vous verrez ici
 firefoxview-syncedtabs-loading-header-2 = Récupération de vos onglets…
 firefoxview-syncedtabs-loading-description-2 = La synchronisation est en cours. Vos onglets seront bientôt disponibles.
 firefoxview-tabpickup-fxa-admin-disabled-header = Votre organisation a désactivé la synchronisation
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ne peut pas synchroniser d’onglets entre appareils car votre administrateur·trice a désactivé la synchronisation.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ne peut pas synchroniser d’onglets entre appareils car votre organisation a désactivé la synchronisation.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = La synchronisation des onglets est désactivée
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Votre organisation a bloqué cette fonctionnalité.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Déverrouillez les onglets avec votre mot de passe principal
 firefoxview-tabpickup-password-locked-description-2 = Afin de respecter votre vie privée, les onglets synchronisés sont protégés. Entrez votre mot de passe principal { -brand-short-name } pour afficher les onglets de vos autres appareils.
 firefoxview-tabpickup-signed-out-header = Identifiez-vous pour vous reconnecter
-firefoxview-tabpickup-signed-out-description = Pour vous reconnecter et récupérer vos onglets, connectez-vous à votre { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Pour vous reconnecter et récupérer vos onglets, connectez-vous à votre compte.
 firefoxview-tabpickup-signed-out-primarybutton = Se connecter
 firefoxview-tabpickup-signed-out-header-2 = Connectez-vous pour afficher vos onglets
 firefoxview-tabpickup-signed-out-description-2 = Reconnectez-vous pour afficher les onglets de vos autres appareils.
-firefoxview-tabpickup-syncing = Veuillez patienter pendant la synchronisation de vos onglets. Ce ne sera pas long.
-firefoxview-mobile-promo-header = Récupérez les onglets de votre téléphone ou de votre tablette
-firefoxview-mobile-promo-description = Pour afficher les derniers onglets de votre appareil mobile, connectez-vous à { -brand-product-name } sous iOS ou Android.
-firefoxview-mobile-promo-primarybutton = Installez { -brand-product-name } sur votre appareil mobile
-firefoxview-mobile-confirmation-header = 🎉 C’est parti !
-firefoxview-mobile-confirmation-description = Vous pouvez maintenant récupérer les onglets du { -brand-product-name } de votre tablette ou votre téléphone.
-firefoxview-closed-tabs-title = Récemment fermés
-firefoxview-closed-tabs-description2 = Rouvrez des pages que vous avez fermées dans cette fenêtre.
-firefoxview-closed-tabs-placeholder-header = Aucun onglet récemment fermé
-firefoxview-closed-tabs-placeholder-body = Si vous avez fermé un onglet de cette fenêtre, vous pouvez le récupérer ici.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Retirer { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Dernier onglet actif
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Ouvrir { $targetURI } dans un nouvel onglet
-firefoxview-try-colorways-button = Essayer les coloris
-firefoxview-change-colorway-button = Changer de coloris
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Rien à voir pour l’instant
-firefoxview-synced-tabs-placeholder-body = La prochaine fois que vous ouvrez une page dans { -brand-product-name } sur un autre appareil, retrouvez-la ici comme par magie.
 firefoxview-collapse-button-show =
     .title = Afficher la liste
 firefoxview-collapse-button-hide =

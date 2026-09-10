@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Ĉu aldoni { $extension }?
-webext-perms-header-with-perms = Ĉu aldoni { $extension }? Tiu ĉi etendaĵo havos la jenajn permesojn:
-webext-perms-header-unsigned = Ĉu aldoni { $extension }? Tiu ĉi etendaĵo ne estis kontrolita. Malicaj etendaĵoj povas ŝteli vian privatajn datumojn aŭ malŝirmi vian komputilon. Aldonu ĝin nur se vi fidas la originon.
-webext-perms-header-unsigned-with-perms = Ĉu aldoni { $extension }? Tiu ĉi etendaĵo ne estis kontrolita. Malicaj etendaĵoj povas ŝteli vian privatajn datumojn aŭ malŝirmi vian komputilon. Aldonu ĝin nur se vi fidas la originon. Tiu ĉi etendaĵo havos la jenajn permesojn:
 webext-perms-sideload-header = { $extension } aldonita
 webext-perms-optional-perms-header2 = { $extension } petas aldonajn permesojn
-webext-perms-optional-perms-header = { $extension } petas aldonajn permesojn.
 webext-perms-header2 = Aldoni { $extension }
 webext-perms-list-intro-unsigned = Tiu ĉi nekontrolia etendaĵo povus riski vian privatecon aŭ elmeti vian aparaton. Aldonu ĝin nur se vi fidas la fonton.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } estis ĝisdatigita. Vi devas aprobi novajn permesojn antaŭ ol la ĝisdatigita versio estos instalita. Se vi elektas "Nuligi" vi gardos la nunan version de la etendaĵo.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } estis ĝisdatigita. Vi devas aprobi la novajn permesojn por povi instali la ĝisdatigitan version. Se vi elektas “Nuligi“ vi gardos vian nunan version. Tiu ĉi etendaĵo havs la jenan permesojn:
 webext-perms-update-accept =
     .label = Ĝisdatigi
     .accesskey = d
@@ -73,24 +65,8 @@ webext-perms-host-description-file-urls = Aliri lokajn dosierojn en via komputil
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Aliri viajn datumojn por retejoj en la nomregno { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Aliri viajn datumojn en { $domainCount } alia nomregno
-       *[other] Aliri viajn datumojn en { $domainCount } aliaj nomregnojn
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Aliri viajn datumojn por { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Aliri viajn datumojn en { $domainCount } alia retejo
-       *[other] Aliri viajn datumojn en { $domainCount } aliaj retejoj
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

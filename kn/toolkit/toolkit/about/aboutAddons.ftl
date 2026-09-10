@@ -97,15 +97,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = ಎಲ್ಲಾ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಸುರಕ್ಷತಾ ಕ್ರಮದಿಂದ ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ.
-extensions-warning-check-compatibility = ಆಡ್-ಆನ್‌ ಹೊಂದಾಣಿಕೆ ಪರಿಶೀಲನೆಯನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ. ನೀವು ಹೊಂದಾಣಿಕೆಯಾಗದ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಹೊಂದಿರಬಹುದು.
-extensions-warning-safe-mode2 =
-    .message = ಎಲ್ಲಾ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಸುರಕ್ಷತಾ ಕ್ರಮದಿಂದ ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ.
 extensions-warning-check-compatibility2 =
     .message = ಆಡ್-ಆನ್‌ ಹೊಂದಾಣಿಕೆ ಪರಿಶೀಲನೆಯನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ. ನೀವು ಹೊಂದಾಣಿಕೆಯಾಗದ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಹೊಂದಿರಬಹುದು.
 extensions-warning-check-compatibility-button = ಶಕ್ತಗೊಳಿಸು
     .title = ಆಡ್-ಆನ್ ಹೊಂದಾಣಿಕೆ ಪರಿಶೀಲನೆಯನ್ನು ಶಕ್ತಗೊಳಿಸು
-extensions-warning-update-security = ಆಡ್-ಆನ್ ಅಪ್‌ಡೇಟ್ ಸುರಕ್ಷತಾ ಪರಿಶೀಲನೆಯನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ. ನೀವು ಅಪ್‌ಡೇಟ್‌ಗಳಿಂದ ರಾಜಿ ಮಾಡಿಕೊಂಡಂತಾಗಬಹುದು.
 extensions-warning-update-security2 =
     .message = ಆಡ್-ಆನ್ ಅಪ್‌ಡೇಟ್ ಸುರಕ್ಷತಾ ಪರಿಶೀಲನೆಯನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ. ನೀವು ಅಪ್‌ಡೇಟ್‌ಗಳಿಂದ ರಾಜಿ ಮಾಡಿಕೊಂಡಂತಾಗಬಹುದು.
 extensions-warning-update-security-button = ಶಕ್ತಗೊಳಿಸು
@@ -158,24 +153,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } ಎನ್ನುವುದು { -brand-short-name } { $version } ನೊಂದಿಗೆ ಹೊಂದಿಕೆಯಾಗುತ್ತಿಲ್ಲ.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } ಎನ್ನುವುದು { -brand-short-name } { $version } ನೊಂದಿಗೆ ಹೊಂದಿಕೆಯಾಗುತ್ತಿಲ್ಲ.
-details-notification-unsigned-and-disabled = { $name } ಅನ್ನು { -brand-short-name } ನಲ್ಲಿ ಬಳಕೆಗೆ ದೃಢಪಡಿಸಲಾಗಿಲ್ಲ ಮತ್ತು ಅದನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } ಅನ್ನು { -brand-short-name } ನಲ್ಲಿ ಬಳಕೆಗೆ ದೃಢಪಡಿಸಲಾಗಿಲ್ಲ ಮತ್ತು ಅದನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ.
-details-notification-unsigned-and-disabled-link = ಹೆಚ್ಚಿನ ಮಾಹಿತಿ
-details-notification-unsigned = { $name } ಅನ್ನು { -brand-short-name } ನಲ್ಲಿ ಬಳಕೆಗೆ ದೃಢಪಡಿಸಲಾಗಿಲ್ಲ. ಎಚ್ಚರಿಕೆಯಿಂದ ಮುಂದುವರೆಯಿರಿ.
 details-notification-unsigned2 =
     .message = { $name } ಅನ್ನು { -brand-short-name } ನಲ್ಲಿ ಬಳಕೆಗೆ ದೃಢಪಡಿಸಲಾಗಿಲ್ಲ. ಎಚ್ಚರಿಕೆಯಿಂದ ಮುಂದುವರೆಯಿರಿ.
-details-notification-unsigned-link = ಹೆಚ್ಚಿನ ಮಾಹಿತಿ
-details-notification-blocked = ಸುರಕ್ಷತೆ ಅಥವ ಸ್ಥಿರತೆಯ ಸಮಸ್ಯೆಗಳಿಂದಾಗಿ { $name } ಅನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ.
-details-notification-blocked-link = ಹೆಚ್ಚಿನ ಮಾಹಿತಿ
-details-notification-softblocked = { $name } ಎನ್ನುವುದು ಸುರಕ್ಷತೆ ಅಥವ ಸ್ಥಿರತೆಯ ಸಮಸ್ಯೆಗಳಿಗೆ ಕಾರಣವಾಗುತ್ತದೆ ಎಂದು ತಿಳಿದು ಬಂದಿದೆ.
-details-notification-softblocked-link = ಹೆಚ್ಚಿನ ಮಾಹಿತಿ
-details-notification-gmp-pending = { $name } ಸದ್ಯದಲ್ಲಿಯೆ ಅನುಸ್ಥಾಪಿಸಲಾಗುತ್ತದೆ.
 details-notification-gmp-pending2 =
     .message = { $name } ಸದ್ಯದಲ್ಲಿಯೆ ಅನುಸ್ಥಾಪಿಸಲಾಗುತ್ತದೆ.
 

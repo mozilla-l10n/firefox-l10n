@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = Rozšírenia a témy vzhľadu
 appmenuitem-extensions =
     .label = Rozšírenia
-appmenuitem-addons-and-themes =
-    .label = Doplnky a témy
 appmenuitem-print =
     .label = Tlačiť…
 appmenuitem-find-in-page =
@@ -154,7 +152,6 @@ fxa-menu-get-firefox-mobile =
     .label = Získajte { -brand-product-name(case: "acc") } pre Android alebo iOS
 fxa-menu-secure-sync-subpanel =
     .title = Bezpečná synchronizácia
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Účet
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -176,15 +173,6 @@ appmenuitem-save-page =
     .label = Uložiť stránku ako…
 appmenuitem-fxa-sync-off-title = Synchronizácia je vypnutá
 appmenuitem-fxa-sync-off-description = Chráňte svoje záložky, heslá a ďalšie položky a pristupujte k nim odkiaľkoľvek.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Čo je nové
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Informovať o nových funkciách
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -326,8 +314,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Ďalšie informácie pre riešenie problémov
     .accesskey = a
-appmenu-help-report-site-issue =
-    .label = Nahlásiť problém so stránkou…
 appmenu-help-share-ideas =
     .label = Zdieľať nápady a spätnú väzbu…
     .accesskey = d
@@ -393,7 +379,6 @@ appmenuitem-vpn-description5 = Získajte dodatočnú ochranu naprieč zariadenia
 appmenuitem-vpn-title-signed-in1 = Stiahnuť { -mozilla-vpn-brand-name(case: "acc") }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Získajte ochranu celého zariadenia
-appmenuitem-vpn-description = Chráňte svoju online aktivitu
 appmenu-services-header = Moje služby
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -403,7 +388,6 @@ appmenu-other-protection-header3 = Nástroje na ochranu súkromia
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Vyskúšajte ďalšie nástroje na vašu ochranu od Mozilly:
-appmenu-other-protection-header = Vyskúšajte ďalšie nástroje na vašu ochranu od { -vendor-short-name(case: "gen") }:
 
 ## Profiles panel
 

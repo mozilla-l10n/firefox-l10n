@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Custa estensione non podet lèghere nen modificare datos
-origin-controls-quarantined =
-    .label = Custa estensione no est autorizada a lèghere nen modificare datos
 origin-controls-quarantined-status =
     .label = Custa estensione no est autorizada in is sitos restrintos
 origin-controls-quarantined-allow =

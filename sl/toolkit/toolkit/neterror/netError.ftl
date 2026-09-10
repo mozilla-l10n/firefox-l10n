@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Nazaj
 neterror-return-to-previous-page-recommended-button = Pojdi nazaj (priporočeno)
 neterror-try-again-button-2 = Poskusi znova
     .accesskey = z
-neterror-try-again-button = Poskusi znova
 neterror-add-exception-button = Vedno nadaljuj za to spletno mesto
 neterror-settings-button = Spremeni nastavitve DNS
 neterror-view-certificate-link = Ogled digitalnega potrdila
-neterror-trr-continue-this-time = Tokrat nadaljuj
-neterror-disable-native-feedback-warning = Vedno nadaljuj
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = Več o tem
 ##
 
 neterror-pref-reset = Videti je, da to povzročajo omrežne nastavitve. Ali želite obnoviti privzete nastavitve?
-neterror-error-reporting-automatic = S prijavo podobnih napak pomagajte { -vendor-short-name(sklon: "dajalnik") } prepoznati in zavračati zlonamerne strani
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Odklopite se od omrežja Wi-Fi i
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } ne more zavarovati vašega zahtevka za naslov tega spletnega mesta prek našega zaupanja vrednega razreševalnika DNS. Razlog:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } ne more zavarovati vašega zahtevka za naslov tega spletnega mesta prek našega varnega ponudnika DNS. Razlog:
 neterror-dns-not-found-trr-third-party-warning2 = Nadaljujete lahko s privzetim razreševalnikom DNS. V tem primeru obstaja možnost, da bi tretje osebe spremljale, katera spletna mesta obiskujete.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } se ni mogel povezati s spletnim mestom { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Povezovanje s spletnim mestom { $trrDomain } je trajalo dlje kot običajno.
-neterror-dns-not-found-trr-offline = Niste povezani z internetom.
 neterror-dns-not-found-trr-unknown-host2 = Tega spletnega mesta { $trrDomain } ni našel.
 neterror-dns-not-found-trr-server-problem = Prišlo je do težave s strežnikom { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = Neveljaven spletni naslov.
 neterror-dns-not-found-system-sleep = Sistem je v načinu spanja.
 neterror-dns-not-found-trr-unknown-problem = Nepričakovana težava.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ne more zavarovati vašega zahtevka za naslov tega spletnega mesta prek našega zaupanja vrednega razreševalnika DNS. Razlog:
-neterror-dns-not-found-native-fallback-heuristic = DNS prek HTTPS je v vašem omrežju onemogočen.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } se ni mogel povezati s spletnim mestom { $trrDomain }.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = Morda je bila odstranjena, premaknjena ali pa dovoljenj
 neterror-unknown-protocol = Za odpiranje tega naslova boste morda morali namestiti dodaten program.
 neterror-redirect-loop = Težavo lahko povzroča onemogočanje ali zavračanje piškotkov.
 neterror-unknown-socket-type-client-config = Lahko bi bila kriva napaka v nastavitvah vašega odjemalca.
-neterror-unknown-socket-type-psm-installed = Prepričajte se, da je nameščen upravitelj osebne varnosti.
-neterror-unknown-socket-type-server-config = Vzrok napaki je lahko nestandardna nastavitev strežnika.
 neterror-not-cached-intro = Zahtevan dokument ni več na voljo v predpomnilniku { -brand-short-name }a.
 neterror-not-cached-sensitive = { -brand-short-name } občutljivih dokumentov iz varnostnih razlogov samodejno ne nalaga ponovno.
 neterror-not-cached-try-again = Kliknite poskusi znova za ponovno nalaganje dokumenta s spletne strani.

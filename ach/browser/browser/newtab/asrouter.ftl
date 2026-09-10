@@ -25,12 +25,6 @@ cfr-doorhanger-extension-author = ki { $name }
 
 cfr-doorhanger-bookmark-fxa-link-text = Rib alama buk kombedi…
 
-## Protections panel
-
-cfr-protections-panel-header = Yeny ma nongo pe kilubo kor in
-cfr-protections-panel-body = Gwok data mamegi boti keni. { -brand-short-name } gwoki ki ikom lulub kor mapol ata ma pol kare lubo kor ngo ma itimo iwiyamo.
-cfr-protections-panel-link-text = Nong ngec mapol
-
 ## What's New toolbar button and panel
 
 # This string is used by screen readers to offer a text based alternative for
@@ -75,20 +69,6 @@ mr2022-background-update-toast-primary-button-label = Yab { -brand-shorter-name 
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Poo wiya Lacen
-
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Tem kombedi
-    .accesskey = T
-firefoxview-cfr-secondarybutton = Pe kombedi
-    .accesskey = P
-firefoxview-cfr-header-v2 = Cak oyot ki kama i giko iyie ni
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Wac irii bot { -firefoxview-brand-name }
-firefoxview-spotlight-promo-primarybutton = Nen kit ma tiyo kwede
-firefoxview-spotlight-promo-secondarybutton = Kal
 
 ## FxA sync CFR
 

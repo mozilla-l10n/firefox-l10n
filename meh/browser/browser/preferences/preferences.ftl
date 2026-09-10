@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-learn-more = Ka´vi kue´eka
-do-not-track-option-always =
-    .label = Ntaka ichi
 settings-page-title = Da nu ke´i
 category-nav-heading =
     .heading = Da nu ke´i
@@ -14,36 +11,16 @@ managed-notice-nav =
 category-list =
     .aria-label = Categories
 pane-general-title = General
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = Nuu kajie´e
 pane-search-title2 = Nánuku
     .title = Nánuku
 pane-privacy-title3 = Privacidad ji seguridad
     .title = Privacidad ji seguridad
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = Nánuku
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = Privacidad ji seguridad
-pane-privacy-title = Privacidad ji seguridad
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Sync
-category-sync3 =
-    .tooltiptext = { pane-sync-title3 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-pane-experimental-title = Experimentos de { -brand-short-name }
-category-experimental =
-    .tooltiptext = Experimentos de { -brand-short-name }
-pane-experimental-subtitle = Kaka ji precaución
-pane-experimental-search-results-header = Experimentos de { -brand-short-name }: kaka ji precaución
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Natee tuku predeterminados
     .accesskey = R
@@ -51,8 +28,6 @@ help-button-label2 = Soporte { -brand-short-name }
     .title = Soporte { -brand-short-name }
 addons-button-label2 = Complementos ji temas
     .title = Complementos ji temas
-help-button-label = Soporte { -brand-short-name }
-addons-button-label = Complementos ji temas
 focus-search =
     .key = f
 close-button =
@@ -74,29 +49,14 @@ search-results-help-link = ¿Nukunu chineiani noo´o? Kune´ya <a data-l10n-name
 
 ## General Section
 
-startup-header = Nuu kajie´e
-is-default = { -brand-short-name } kuvi ka̱a̱ nánuku xinañu'u
-is-not-default = { -brand-short-name } ntu kuvi ka̱a̱ nánuku xinañu'u
-set-as-my-default-browser =
-    .label = Sá´á kua vají
-    .accesskey = S
-startup-restore-warn-on-quit =
-    .label = Kachi sa kene nuu ka̱a̱ nánuku
 disable-extension =
     .label = Xita extensión
 tabs-group-header2 =
     .label = Pestañas
-tabs-group-header = Pestañas
 open-new-link-as-tabs =
     .label = Síne enlaces nu da sukua je ntu ventanas
     .accesskey = w
-browser-containers-enabled =
-    .label = Tee da sukua contenedoras
-    .accesskey = n
 browser-containers-learn-more = Ka´vi jiee ya´a
-browser-containers-settings =
-    .label = Ke´i...
-    .accesskey = i
 containers-disable-alert-title = ¿Nakasɨ kuaíyo contenedor pestañas?
 startup-group =
     .label = Nuu kajie´e
@@ -118,19 +78,8 @@ containers-remove-cancel-button = Nxina a ta´a ini noo´o ya´a
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Tu´un ji naja kutuvi
-default-font = Kua vaji fuente
-    .accesskey = D
-default-font-size = Naja ka´nu
-    .accesskey = N
-advanced-fonts =
-    .label = A biji…
-    .accesskey = A
 preferences-default-zoom-label =
     .label = Kua vaji zoom
-    .accesskey = z
-# Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = Zoom
-preferences-default-zoom = Kua vaji zoom
     .accesskey = z
 # Variables:
 #   $percentage (number) - Zoom percentage value
@@ -149,12 +98,6 @@ confirm-browser-language-change-description = Nakajie´e { -brand-short-name } s
 confirm-browser-language-change-button = Tee je nakajie´e
 browser-language-install-error =
     .message = { -brand-short-name } ntu nkuvi xinuun da tu´un ntañu´u. Kune´ya íyo internet a xíín nachu´un tuku.
-translate-web-pages =
-    .label = Traducir contenido web
-    .accesskey = T
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = Traducciones nsá'á <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepciones…
     .accesskey = X
@@ -169,23 +112,6 @@ download-save-files-header =
     .label = Chuva´a tutu nuu
 download-save-where-3 =
     .aria-label = Chuva´a tutu nuu
-download-header = Da a xinuun
-download-save-where = Chuva´a tutu nuu
-    .accesskey = C
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Sama...
-           *[other] Ka̱a̱ nánuku...
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] o
-        }
-download-always-ask-where =
-    .label = Ntaka ichi katu´un nuu´u nenu chuva´aní da archivos
-    .accesskey = N
 applications-header = Da ka̱a̱
 applications-description = Kaji naja { -brand-short-name } tetiñu da archivos xinuu nuu web a xíín da inka ka̱a̱ ni'inu ntaka nánukunu.
 applications-filter =
@@ -233,10 +159,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Ni´i { $plugin-name } (nuu { -brand-short-name })
 applications-open-inapp =
     .label = Síne nuu { -brand-short-name }
 
@@ -244,8 +166,6 @@ applications-open-inapp =
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -265,35 +185,18 @@ applications-use-os-default-label =
 
 drm-group =
     .label = Tu'un DRM (Digital Rights Management - Tetiñu da Derechos Digitales)
-drm-content-header = Tu'un DRM (Digital Rights Management - Tetiñu da Derechos Digitales)
 play-drm-content =
     .label = Reproducir contenido controlado por DRM
     .accesskey = P
 play-drm-content-learn-more = Ka´vi kue´eka
-update-application-title = { -brand-short-name } actualizaciones
-update-application-description = Kino { -brand-short-name } actualizado saa kuvi satiñu va'a, koo estabilidad ji seguridad.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versión { $version } <a data-l10n-name="learn-more"> Nakuvi a jíía íyo</a>
 update-history-2 =
     .label = Tuvi kuaiyo historial actualizaciones
     .accesskey = p
-update-history =
-    .label = Tuvi kuaiyo historial actualizaciones...
-    .accesskey = p
-update-application-allow-description = Kuvini a { -brand-short-name }
-update-application-check-choose =
-    .label = Nánuku actualizaciones so nejika cachini de kuvi chu'un a xíín ntuvi
-    .accesskey = B
-update-application-manual =
-    .label = Nnánukunu actualizaciones (no recomendado)
-    .accesskey = N
 update-application-warning-cross-user-setting-2 =
     .message = A nke'i ya'a koo nuu ntaka da cuentas Windows ji perfiles { -brand-short-name } ni'i a nchu'un { -brand-short-name }.
-update-application-warning-cross-user-setting = A nke'i ya'a koo nuu ntaka da cuentas Windows ji perfiles { -brand-short-name } ni'i a nchu'un { -brand-short-name }.
-update-application-use-service =
-    .label = Ni'i servicio ji a uvi plano sa chu'un da actualizaciones
-    .accesskey = s
 update-in-progress-title = Actualización en curso
 update-in-progress-message = ¿A kuvinu { -brand-short-name } kaka ji a naxi´ñá?
 update-in-progress-ok-button = &Xita
@@ -303,10 +206,6 @@ update-in-progress-cancel-button = &Kɨ´ɨ
 
 ## General Section - Performance
 
-performance-title = Naja satiñu
-performance-use-recommended-settings-checkbox =
-    .label = Ni'i da ke'i rendimiento recomendadas
-    .accesskey = U
 performance-settings-learn-more = Ka´vi jiee ya´a
 performance-allow-hw-accel =
     .label = Ni´i aceleración hardware de ntu íyo disponible
@@ -320,7 +219,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = Navegación
 browsing-use-autoscroll =
     .label = Ni'i desplazamiento automatico
     .accesskey = d
@@ -336,29 +234,14 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Nánuku tu'un sa kajie'enu teenu
     .accesskey = x
-browsing-picture-in-picture-toggle-enabled =
-    .label = Tee controles video picture-in-picture
-    .accesskey = A
-browsing-picture-in-picture-learn-more = Ka´vi kue´eka
-browsing-media-control-learn-more = Ka´vi kue´eka
 browsing-cfr-recommendations =
     .label = Kachi da ka̱a̱ chunta'an sa jikanu
     .accesskey = R
 browsing-cfr-features =
     .label = Kachi da funciones sa jikanu
     .accesskey = R
-browsing-cfr-recommendations-learn-more = Ka´vi kue´eka
 browsing-group =
     .label = Navegación
-
-## General Section - Proxy
-
-network-settings-title = Ke´i conexión
-network-proxy-connection-description = Ke´i naja { -brand-short-name } kivu nuu internet.
-network-proxy-connection-learn-more = Ka´vi jiee ya´a
-network-proxy-connection-settings =
-    .label = Ke´i
-    .accesskey = e
 
 ## Home Section
 
@@ -410,8 +293,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Da nuu chuva´anu a xíín ne´yanu
 home-prefs-shortcuts-by-option-sponsored =
     .label = Da atajo íyo patrocinado
-home-prefs-recommended-by-header =
-    .label = A kachi { $provider }
 
 ##
 
@@ -424,16 +305,8 @@ home-prefs-highlights-options-bookmarks =
     .label = A ta´a ini noo´o
 home-prefs-highlights-option-most-recent-download =
     .label = Nxinuun Ntañu´u
-home-prefs-highlights-option-saved-to-pocket =
-    .label = Páginas nchuva´a { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = Da a skuata nsá´á
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = Fragmentos
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -444,33 +317,9 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = Nuu nánuku
-search-bar-hidden =
-    .label = Ni´i barra da nuu nánuku ji kaka
-search-bar-shown =
-    .label = Tee barra nánuku nuu barra da ka̱a̱
-search-engine-default-header = Ka̱a̱ nánuku kua vaji
-search-engine-default-private-desc-2 = Kaji inka ka̱a̱ nánuku xinañu'u ntu xinu nuu da ventana yu'u
-search-separate-default-engine =
-    .label = Ni'i ka̱a̱ nánuku ya'a nuu ventanas yu'u
-    .accesskey = U
-search-suggestions-header = Nánuku sugerencias
-search-suggestions-desc = Kaji naja tuvi da sugerencias nuu ka̱a̱ nánuku.
-search-suggestions-option =
-    .label = Xituvi da sugerencias a nánuku
-    .accesskey = s
 search-show-suggestions-url-bar-option =
     .label = Xituvi sugerencias nánuku nuu da a kene nuu barra nuu
     .accesskey = l
-# This string describes what the user will observe when the system
-# prioritizes search suggestions over browsing history in the results
-# that extend down from the address bar. In the original English string,
-# "ahead" refers to location (appearing most proximate to), not time
-# (appearing before).
-search-show-suggestions-above-history-option =
-    .label = Xituvi sugerencias nánuku nuu da nnánukunu nuu da a kene nuu barra nuu
-search-show-suggestions-private-windows =
-    .label = Xituvi sugerencias nánuku nuu da ventana yu'u
 search-one-click-header2 = Atajos nánuku
 search-choose-engine-column =
     .label = Ka̱a̱ nánuku
@@ -494,20 +343,6 @@ search-engine-group =
 search-default-engine =
     .aria-label = Ka̱a̱ nánuku kua vaji
 
-## Containers Section
-
-containers-header = Pestañas contenedoras
-containers-add-button =
-    .label = Tee iin contenedor jíía
-    .accesskey = A
-containers-new-tab-check =
-    .label = Kaji iin contenedor nu ntaka pestaña
-    .accesskey = S
-containers-settings-button =
-    .label = Ke´i
-containers-remove-button =
-    .label = Xita
-
 ## Account and sync
 
 sync-group-label =
@@ -529,8 +364,6 @@ sync-mobile-promo = Xinuun Firefox <img data-l10n-name="android-icon"/><a data-l
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = Sama tutu natava perfil
 sync-profile-picture-with-alt =
     .alt = Sama tutu natava perfil
     .tooltiptext = Sama tutu natava perfil
@@ -555,9 +388,6 @@ sync-signedin-login-failure = Kuamani ini noo´o je kajie´e sesión tuku { $ema
 
 ##
 
-sync-resend-verification =
-    .label = Chu'un íchi verificación íchika
-    .accesskey = d
 sync-remove-account =
     .label = Xina cuenta
     .accesskey = X
@@ -569,10 +399,6 @@ sync-sign-in =
 
 prefs-syncing-on = Sincronización: ACTIVADA
 prefs-syncing-off = Sincronización: DESACTIVADA
-prefs-sync-now =
-    .labelnotsyncing = Sincronizar ntañu´u
-    .labelsyncing = Sincronizando…
-    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = Sincronizar ntañu´u
     .accesskey = N
@@ -590,24 +416,12 @@ prefs-syncing-button-2 =
 sync-currently-syncing-bookmarks = A ta´a ini noo´o
 sync-currently-syncing-history = Historial
 sync-currently-syncing-tabs = Síne pestañas
-sync-currently-syncing-logins-passwords = Da nuu kajie´e sesión ji contraseñas
 sync-currently-syncing-addresses = Da nuu
-sync-currently-syncing-creditcards = Da tutu crédito
 sync-currently-syncing-addons = Ka̱a̱ chunta´an
 sync-currently-syncing-settings = Da nu ke´i
-sync-change-options =
-    .label = Sama
-    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
-sync-choose-what-to-sync-dialog3 =
-    .buttonlabelaccept = Chuva'a nsama
-    .buttonlabelextra2 = Nakasɨ sesión…
-    .buttonaccesskeyaccept = S
-    .buttonaccesskeyextra2 = D
-    .style = min-width: 36em;
-    .title = Kaji ne´i kuvi saa sincronizar
 sync-engine-bookmarks =
     .label = A ta´a ini noo´o
     .accesskey = m
@@ -618,18 +432,10 @@ sync-engine-tabs =
     .label = Síne pestañas
     .tooltiptext = iin lista nakuvi nune nuu kuaiyo daa ka̱a̱ sincronizados
     .accesskey = t
-sync-engine-logins-passwords =
-    .label = Nuu kajie´e sesión ji contraseñas
-    .tooltiptext = Sivɨ jii contraseñas nchuva´anu
-    .accesskey = L
 sync-engine-addresses =
     .label = Da nuu
     .tooltiptext = Da nuu ve´i nchuva´anu (ntu xini escritorio)
     .accesskey = e
-sync-engine-creditcards =
-    .label = Da tutu crédito
-    .tooltiptext = Sivɨ, tuni ji kivɨ nɨ'ɨ (ntu xini nuu escritorio)
-    .accesskey = C
 sync-engine-addons =
     .label = Ka̱a̱ chunta´an
     .tooltiptext = Ka̱a̱ chunta´an Firefox escritorio
@@ -661,49 +467,19 @@ sync-connect-another-device = Chu´un inka ka̱a̱
 sync-connect-another-device-2 =
     .label = Chu´un inka ka̱a̱
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = Nchu'un ichí verificación
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = Iin enlace verificación nchu'un ichí { $email }.
-sync-verification-not-sent-title = Ntu nkuvi chu'un ichí verificación
-sync-verification-not-sent-body = Ntañu'u ntu kuvi chu'un ichí iin correo verificación, sa'ama inka ichí tuku.
-
 ## Privacy Section
 
 privacy-header = Nánuku yu´u
-
-## Privacy Section - Logins and Passwords
-
-# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = Nuu kajie´e sesión ji contraseñas
-    .searchkeywords = { -lockwise-brand-short-name }
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = Katu´un de chuva´a nuu kajie´e sesión ji contraseñas nuu da web
-    .accesskey = r
 
 ## Privacy Panel Settings
 
 forms-exceptions =
     .label = Excepciones…
     .accesskey = x
-forms-generate-passwords =
-    .label = Kachi je sa'a contraseñas nakui
-    .accesskey = u
 forms-breach-alerts =
     .label = Kune'ya tu'un nava jie da contraseña nu da nuu web ntu vatu
     .accesskey = b
 forms-breach-alerts-learn-more-link = Ka´vi kue´eka
-# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
-forms-fill-logins-and-passwords =
-    .label = Chu'un nuu kajie'e sesión ji contraseñas
-    .accesskey = i
-forms-saved-logins =
-    .label = Nuu kajie´e sesión nchuva´a
-    .accesskey = L
 forms-primary-pw-use =
     .label = Ni´i contraseña primaria
     .accesskey = U
@@ -735,28 +511,9 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
-history-header = Sɨ´ɨ
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name }
-    .accesskey = w
-history-remember-option-all =
-    .label = Nasku'u historial
-history-remember-option-never =
-    .label = Nchuva´a historial
-history-remember-option-custom =
-    .label = Ni'i configuraciones personalizadas nuu historial
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } kuna̱'an a nkanu, nxinu, formularios ji historial nnánukunu.
-history-remember-description = { -brand-short-name } kuna̱'an a nkanu, nxinu, formularios ji historial nnánukunu.
 history-private-browsing-permanent =
     .label = Ntaka ichí ni'i nánuku yu'u
     .accesskey = p
@@ -782,34 +539,14 @@ history-mode-radio-group =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Cookies ji datos nuu ya´a
 sitedata-total-size-calculating = Chunku'va ka'nu datos nuu ji caché…
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Da cookies, datos sitio ji caché nchuva'a ni'i ntañu'u iin { $value } { $unit } espacio nuu disco.
 sitedata-learn-more = Ka´vi jiee ya´a
-sitedata-delete-on-close =
-    .label = Xina cookies ji datos sitio sa nakasɨ { -brand-short-name }
-    .accesskey = c
-sitedata-allow-cookies-option =
-    .label = Kuvi kino cookies ji datos nuu ya´a
-    .accesskey = A
-sitedata-disallow-cookies-option =
-    .label = Kasɨ da cookies ji datos nuu ya'a
-    .accesskey = B
 sitedata-option-block-cross-site-trackers =
     .label = Rastreadores multisitio
 sitedata-option-block-unvisited =
     .label = Cookies nuu web ntu nne'ya
 sitedata-option-block-all =
     .label = Kuaiyo da cookies (kuvi tava errores nuu da web)
-sitedata-clear =
-    .label = Sá´á noo datos
-    .accesskey = S
-sitedata-settings =
-    .label = Tetiñu datos...
-    .accesskey = T
 sitedata-cookies-exceptions =
     .label = Tetiñu da excepciones...
     .accesskey = x
@@ -818,8 +555,6 @@ cookies-site-data-group =
 
 ## Search Section
 
-addressbar-header = Barra da nuu
-addressbar-suggest = Saa ni'inu barra nuu, sugerir
 addressbar-locbar-history-option =
     .label = Sɨ´ɨ nnánukunu
     .accesskey = H
@@ -836,10 +571,6 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Da sitio vii
     .accesskey = T
-addressbar-locbar-engines-option =
-    .label = Da ka̱a̱ nánuku
-    .accesskey = a
-addressbar-suggestions-settings = Sama preferencias nuu sugerencias ka̱a̱ nánuku
 
 ## Privacy Section - Content Blocking
 
@@ -866,7 +597,6 @@ content-blocking-all-cookies = Kuaiyo da cookies
 content-blocking-unvisited-cookies = Cookies nuu web ntu nne'ya
 content-blocking-cryptominers = Criptomineros
 content-blocking-fingerprinters = Huellas dactilares
-content-blocking-warning-title = ¡Atención!
 content-blocking-warning-learn-how = Kutu´va naja
 content-blocking-reload-description = Nejika nakajie´e tuku da pestañas saa kino da nsama.
 content-blocking-reload-tabs-button =
@@ -878,7 +608,6 @@ content-blocking-tracking-protection-option-all-windows =
 content-blocking-option-private =
     .label = Ntu xini ventana yu´u
     .accesskey = N
-content-blocking-tracking-protection-change-block-list = Sama lista nasɨ
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
@@ -888,11 +617,6 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = Criptomineros
     .accesskey = y
-# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
-# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
-content-blocking-fingerprinters-label =
-    .label = Fingerprinters
-    .accesskey = F
 
 ## Privacy Section - Tracking
 
@@ -902,37 +626,6 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = Permisos
-permissions-location = Nuu iñɨnu
-permissions-location-settings =
-    .label = Ke´i...
-    .accesskey = K
-permissions-xr = Realidad virtual
-permissions-xr-settings =
-    .label = Da ke´i...
-    .accesskey = t
-permissions-camera = Ka̱a̱ natava
-permissions-camera-settings =
-    .label = Ke´i
-    .accesskey = K
-permissions-microphone = Micrófono
-permissions-microphone-settings =
-    .label = Ke´i...
-    .accesskey = K
-permissions-notification = Notificaciones
-permissions-notification-settings =
-    .label = Ke´i…
-    .accesskey = n
-permissions-notification-link = Ka´vi kue´eka
-permissions-autoplay-settings =
-    .label = Ke´i…
-    .accesskey = A
-permissions-block-popups =
-    .label = Nakasɨ da ventanas nava
-    .accesskey = B
-permissions-addon-exceptions =
-    .label = Excepciones…
-    .accesskey = E
 permissions-location2 =
     .label = Nuu iñɨnu
 permissions-xr2 =
@@ -946,11 +639,6 @@ permissions-notification2 =
 
 ## Privacy Section - Data Collection
 
-collection-privacy-notice = Tu´un xitu a nejika kumio
-collection-health-report-telemetry-disabled-link = Ka´vi kue´eka
-collection-health-report-link = Ka´vi kue´eka
-collection-studies-link = Kune'ya da estudio { -brand-short-name }
-addon-recommendations-link = Ka´vi kue´eka
 data-collection-studies-link =
     .label = Kune'ya da estudio { -brand-short-name }
 
@@ -971,29 +659,14 @@ security-block-uncommon-software =
     .label = Kachi de íyo software ntu nnika je ntu íyo ntaka ichi
     .accesskey = C
 
-## Privacy Section - Certificates
-
-certs-header = Certificados
-certs-view =
-    .label = Kune´ya certificados…
-    .accesskey = C
-certs-devices =
-    .label = Ka̱a̱ seguridad...
-    .accesskey = D
-
 ## Privacy Section - HTTPS-Only
 
-httpsonly-header = Modo solo HTTPS
-httpsonly-learn-more = Ka´vi kue´eka
 httpsonly-radio-enabled =
     .label = Tee HTTPS nu ntaka da ventanas
 httpsonly-radio-enabled-pbm =
     .label = Tee HTTPS nu ntaka da ventanas yu'u
-httpsonly-radio-disabled =
-    .label = Nte kutuvi HTTPS
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escritorio
 downloads-folder-name = Nxinuu
-choose-download-folder-title = Kaji carpeta chuva´a da nxinuun:

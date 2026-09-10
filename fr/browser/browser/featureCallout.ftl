@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = Jonglez entre vos appareils grâce à la
 callout-firefox-view-tab-pickup-subtitle = Récupérez rapidement les onglets ouverts sur votre téléphone et rouvrez-les directement ici.
 callout-firefox-view-recently-closed-title = Retrouvez à la volée les onglets que vous avez fermés.
 callout-firefox-view-recently-closed-subtitle = Tous vos onglets fermés s’affichent ici comme par magie. Vous n’avez plus à vous soucier d’en fermer un accidentellement.
-callout-firefox-view-colorways-title = Ajoutez une touche de couleur
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Choisissez la nuance qui vous correspond grâce aux coloris. Seulement dans { -brand-product-name }.
-callout-firefox-view-colorways-reminder-title = Découvrez nos derniers coloris
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Donnez des couleurs à votre navigateur avec ces teintes emblématiques, inspirées par des voix indépendantes. Uniquement dans { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

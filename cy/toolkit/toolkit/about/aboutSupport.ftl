@@ -29,10 +29,6 @@ security-software-name = Enw
 security-software-antivirus = Gwrth Firws
 security-software-antispyware = Gwrthysbiwar
 security-software-firewall = Mur Cadarn
-features-title = Nodweddion { -brand-short-name }
-features-name = Enw
-features-version = Fersiwn
-features-id = ID
 processes-title = Prosesau Pell
 processes-type = Math
 processes-count = Cyfrif
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] Cyfeiriadur Proffil
        *[other] Ffolder Proffil
     }
-app-basics-enabled-plugins = Ategion Galluogwyd
 app-basics-build-config = Ffurfweddiad Adeiladu
 app-basics-user-agent = Asiant Defnyddiwr
 app-basics-os = SW
@@ -96,9 +91,6 @@ show-dir-label =
 environment-variables-title = Newidiolion Amgylcheddol
 environment-variables-name = Enw
 environment-variables-value = Gwerth
-experimental-features-title = Nodweddion Arbrofol
-experimental-features-name = Enw
-experimental-features-value = Gwerth
 modified-key-prefs-title = Dewisiadau Pwysig wedi eu Newid
 modified-prefs-name = Enw
 modified-prefs-value = Gwerth
@@ -220,9 +212,6 @@ media-cdm-capabilities = Galluoedd
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Cychwyn Clir (Clear Lead)
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = Yn gydnaws â HDCP 2.2
 
 ##
 
@@ -414,8 +403,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Analluogwyd trwy arbrawf
-fission-status-experiment-treatment = Galluogwyd trwy arbrawf
 fission-status-disabled-by-e10s-env = Analluogwyd gan yr amgylchedd
 fission-status-enabled-by-env = Galluogwyd gan yr amgylchedd
 fission-status-disabled-by-env = Analluogwyd gan yr amgylchedd
@@ -424,7 +411,6 @@ fission-status-disabled-by-default = Analluogwyd drwy ragosodiad
 fission-status-enabled-by-user-pref = Galluogwyd gan y defnyddiwr
 fission-status-disabled-by-user-pref = Analluogwyd gan y defnyddiwr
 fission-status-disabled-by-e10s-other = E10s wedi ei analluogi
-fission-status-enabled-by-rollout = Wedi'i alluogi trwy ei gyflwyno fesul cam
 async-pan-zoom = Chwyddo a Thremio Anghydamseredig
 apz-none = dim
 wheel-enabled = mewnbwn olwyn wedi ei alluogi

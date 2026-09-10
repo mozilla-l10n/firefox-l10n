@@ -28,12 +28,6 @@ return-to-amo-add-theme-label = అలంకారాన్ని చేర్�
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 mr1-onboarding-theme-header = దీన్ని మీ స్వంతం చేసుకోండి
 mr1-onboarding-theme-subtitle = ఒక అలంకారంతో { -brand-short-name }‌ని వ్యక్తిగతీకరించుకోండి.
 mr1-onboarding-theme-secondary-button-label = ఇప్పుడు కాదు
@@ -62,14 +56,6 @@ onboarding-live-language-skip-button-label = దాటవేయి
 ## Firefox 100 Thank You screens
 
 mr2022-onboarding-secondary-skip-button-label = ఈ అంచెను దాటవేయి
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-label-default = అప్రమేయం
-mr2022-onboarding-colorway-description-default = <b>నా ప్రస్తుత { -brand-short-name } రంగులను వాడు.</b>
 
 ## MR2022 Privacy Segmentation screen strings
 

@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Tramess il rapport. Grazia!
-confirmation-hint-login-removed = Allontanà l'infurmaziun d'annunzia!
 confirmation-hint-password-removed = Allontanà il pled-clav!
 confirmation-hint-page-bookmarked = Memorisà en ils segnapaginas
-confirmation-hint-password-saved = Memorisà il pled-clav!
 confirmation-hint-password-created = Memorisà il pled-clav
 confirmation-hint-password-updated = Actualisà il pled-clav
 confirmation-hint-address-created = Memorisà l'adressa

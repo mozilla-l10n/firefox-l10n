@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = הוספת { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = התקדמות: שלב { $current } מתוך { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -217,32 +211,10 @@ mr2022-onboarding-set-default-primary-button-label = הגדרת { -brand-short-n
 ## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-get-started-primary-button-label = התקנה תוך שניות
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = התקנה במהירות הבזק
-mr2022-onboarding-import-subtitle = ניתן להגדיר את { -brand-short-name } איך שמתחשק לך. אפשר להוסיף את הסימניות, הססמאות ועוד מהדפדפן הישן שלך.ת
 mr2022-onboarding-import-primary-button-label-no-attribution = ייבוא מהדפדפן הקודם
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = בחירה בצבע שהכי מעורר את ההשראה שלך
-mr2022-onboarding-colorway-subtitle = קולות עצמאיים יכולים לשנות תרבות.
-mr2022-onboarding-colorway-primary-button-label-continue = הגדרה והמשך
-mr2022-onboarding-existing-colorway-checkbox-label = להפוך את { -firefox-home-brand-name } לדף הבית הצבעוני שלך
-mr2022-onboarding-colorway-label-default = ברירת מחדל
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = הצבעים הנוכחיים של { -brand-short-name }
-mr2022-onboarding-colorway-description-default = <b>שימוש בצבעי { -brand-short-name } הנוכחיים שלי.</b>
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = דילוג מהמחשב הנייד לטלפון ובחזרה
 mr2022-onboarding-no-mobile-download-cta-text = יש לסרוק את קוד ה־QR כדי להוריד את { -brand-product-name } למכשיר הנייד.
 
 ## MR2022 Upgrade Dialog screens
@@ -292,15 +264,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = ידיים בהירות וכהות עור נותנות כיף
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = מבט על שקיעה דרך חלון עם שועל וצמח בית על אדן החלון
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = תרסיס יד שצובע קולאז' צבעוני של עין ירוקה, נעל כתומה, כדורסל אדום, אוזניות סגולות, לב כחול וכתר צהוב
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = שועל מנופף על מסך של מחשב נייד. למחשב הנייד מחובר עכבר.
 onboarding-device-migration-title = ברוכים השבים!
-onboarding-device-migration-subtitle = באפשרותך להיכנס אל { -fxaccount-brand-name(case: "the") } שלך כדי להביא איתך את הסימניות, הססמאות וההיסטוריה שלך במכשיר החדש שלך.
 onboarding-device-migration-subtitle2 = באפשרותך להיכנס לחשבון שלך כדי להביא איתך את הסימניות, הססמאות וההיסטוריה שלך במכשיר החדש שלך.
 onboarding-device-migration-primary-button-label = כניסה
 
@@ -416,15 +385,12 @@ tab-groups-onboarding-feature-callout-title = ניתן לנסות קבוצות �
 tab-groups-onboarding-feature-callout-subtitle = ניתן לעשות סדר בבלאגן על־ידי גרירת לשונית אחת על גבי לשונית אחרת כדי ליצור את הקבוצה הראשונה שלך.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = ניתן למצוא את קבוצות הלשוניות שלך בתפריט ״רשימת כל הלשוניות״ בכל עת.
-tab-groups-onboarding-create-group-title-2 = ניתן למצוא את קבוצות הלשוניות שלך כאן בכל עת.
 tab-groups-onboarding-create-group-no-alltabs-button-title = ניתן למצוא את הקבוצות שלך על־ידי חיפושן בשורת הכתובת.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = לאחר סגירת קבוצת לשוניות, ניתן לפתוח אותה מחדש בתפריט ״רשימת כל הלשוניות״ בכל עת.
-tab-groups-onboarding-saved-groups-title-2 = לאחר סגירת קבוצת לשוניות, באפשרותך לפתוח אותה מחדש כאן בכל עת.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = ניתן למצוא את הקבוצות הסגורות שלך על־ידי חיפושן בשורת הכתובת.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = ניתן לפתוח מחדש את קבוצות הלשוניות שלך מהתפריט ״רשימת כל הלשוניות״ בכל עת.
-tab-groups-onboarding-session-restore-title = ניתן לפתוח את קבוצות הלשוניות שלך כאן בכל עת.
 tab-groups-onboarding-dismiss = אישור
 
 ## Multi Profiles feature onboarding messages

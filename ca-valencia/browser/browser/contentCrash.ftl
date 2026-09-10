@@ -18,13 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Hi ha un informe de fallada pendent d'enviar
-       *[other] Hi ha { $reportCount } informes de fallada pendents d'enviar
-    }
 pending-crash-reports-view-all =
     .label = Visualitza
 pending-crash-reports-send =

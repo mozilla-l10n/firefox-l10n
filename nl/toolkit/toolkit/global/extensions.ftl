@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = { $extension } toevoegen?
-webext-perms-header-with-perms = { $extension } toevoegen? Deze extensie heeft toestemming om:
-webext-perms-header-unsigned = { $extension } toevoegen? Deze extensie is niet geverifieerd. Kwaadwillende extensies kunnen uw privégegevens stelen of de controle over uw computer overnemen. Voeg deze extensie alleen toe als u de bron vertrouwt.
-webext-perms-header-unsigned-with-perms = { $extension } toevoegen? Deze extensie is niet geverifieerd. Kwaadwillende extensies kunnen uw privégegevens stelen of de controle over uw computer overnemen. Voeg de extensie alleen toe als u de bron vertrouwt. Deze extensie heeft toestemming om:
 webext-perms-sideload-header = { $extension } is toegevoegd
 webext-perms-optional-perms-header2 = { $extension } vraagt aanvullende toestemmingen
-webext-perms-optional-perms-header = { $extension } vraagt aanvullende toestemmingen.
 webext-perms-header2 = { $extension } toevoegen
 webext-perms-list-intro-unsigned = Deze niet-geverifieerde extensie kan uw privacy of uw apparaat in gevaar brengen. Voeg het alleen toe als u de bron vertrouwt.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } is bijgewerkt. U moet nieuwe toestemmingen goedkeuren voordat de bijgewerkte versie wordt geïnstalleerd. ‘Annuleren’ kiezen zal de huidige versie van uw extensie behouden.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } is bijgewerkt. U moet nieuwe toestemmingen goedkeuren voordat de bijgewerkte versie wordt geïnstalleerd. ‘Annuleren’ kiezen zal de huidige versie van de extensie behouden. Deze extensie heeft toestemming om:
 webext-perms-update-accept =
     .label = Bijwerken
     .accesskey = B
@@ -73,24 +65,8 @@ webext-perms-host-description-file-urls = Lokale bestanden op uw computer benade
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Uw gegevens voor websites in het domein { $domain } benaderen
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Uw gegevens in { $domainCount } ander domein benaderen
-       *[other] Uw gegevens in { $domainCount } andere domeinen benaderen
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Uw gegevens voor { $domain } benaderen
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Uw gegevens op { $domainCount } andere website benaderen
-       *[other] Uw gegevens op { $domainCount } andere websites benaderen
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

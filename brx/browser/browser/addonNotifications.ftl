@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-xpinstall-disabled-locked = सफ्टवेयार इनष्टलेसनखौ नोंथांनि सिस्टेम खुंगिरिजों लोरबां खालामनाय जाबाय।
 xpinstall-disabled = सफ्टवेयार इनष्टलेसनआ दासान्दि लोरबां खालामजानाय। हाहोनाय खालाम आरो फिन नाजा-खौ क्लिक खालाम ।
 xpinstall-disabled-button =
     .label = मावथि खालाम

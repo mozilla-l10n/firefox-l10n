@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } Կիսուած
-webrtc-indicator-window =
-    .title = { -brand-short-name } Կիսուած
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Դուք համաւգտագործում էք Ձեր խաւսափողը: Կտտացրէք` համաւգտագործումը ղեկավարելու համար:
 webrtc-screen-system-menu =
     .label = Դուք համաւգտագործում էք պատուհանը կամ եկրանը: Կտտացրէք համաւգտագործումը ղեկավարելու համար:
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Ձեր տեսախցիկը եւ խաւսափողը համաւգտագործուում են։ Սեղմէք՝ կառավարելու համար։
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Ձեր տեսախցիկը համաւգտագործուում է։ Սեղմէք կառավարելու համար։
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Ձեր խաւսափողը համաւգտագործուում է։ Սեղմէք՝ կառավարելու համար։
-webrtc-indicator-sharing-application =
-    .tooltiptext = Յաւելուածը համաւգտագործուում է։ Սեղմէք կառավարելու համար։
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Եկրանը համաւգտագործուում է։ Սեղմէք կառավարելու համար։
-webrtc-indicator-sharing-window =
-    .tooltiptext = Պատուհանը համաւգտագործուում է։ Սեղմէք կառավարելու համար։
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Ներդիրը համաւգտագործուում է։ Սեղմէք՝ կառավարելու համար։
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -170,7 +151,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Թոյղատրե
 
 webrtc-share-screen-warning = Եկրանների ցուցադրումը իրականացրէք միայն վստահելի կայքերի հետ։ Ցուցադրումը կարող է որոշ կայքերի հնարաւորութիւն տալ գողանալու անձնական եւ գաղտնի տեղեկութիւններ։
 webrtc-share-browser-warning = { -brand-short-name }-ի ցուցադրումն իրականացնել միայն վստահելի կայքերի հետ։ Ցուցադրումը կարող է որոշ կայքերի հնարաւորութիւն տալ գողանալ անձնական եւ գաղտնի տեղեկութիւններ։
-webrtc-share-screen-learn-more = Իմանալ աւելին
 webrtc-pick-window-or-screen = Ընտրէք պատուհան կամ ցուցադրիչ
 webrtc-share-entire-screen = Ամբողջական եկրան
 webrtc-share-pipe-wire-portal = Աւգտագործէք գործառնական համակարգի կարգաւորումները

@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = لاگ ان تے پاس ورڈ
-about-logins-login-filter =
-    .placeholder = لاگ ان ڳولو
-    .key = F
-create-new-login-button =
-    .title = نواں لاگ ان بݨاؤ
 about-logins-page-title-name = پاس ورڈز
 about-logins-login-filter2 =
-    .placeholder = پاس ورڈز ڳولو
     .key = F
+    .placeholder = پاس ورڈز ڳولو
 create-login-button =
     .title = پاس ورڈ شامل کرو
 fxaccounts-sign-in-text = اپݨے پاسورڈز ٻئے آلات تے حاصل کرو
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = ٻئے براؤزر کنوں درآمد کرو…
 about-logins-menu-menuitem-import-from-a-file = فائل کنوں درآمد کرو…
-about-logins-menu-menuitem-export-logins = لاگ اناں برآمد کرو…
-about-logins-menu-menuitem-remove-all-logins = سارے لاگ ان ہٹاؤ۔۔۔
 about-logins-menu-menuitem-export-logins2 = پاس ورڈز برآمد کرو۔۔۔
 about-logins-menu-menuitem-remove-all-logins2 = سارے پاس ورڈ ہٹاؤ۔۔۔
 menu-menuitem-preferences =
@@ -42,21 +34,6 @@ about-logins-menu-menuitem-help = مدد
 
 login-list =
     .aria-label = لاگ اناں ڳولݨ والی کیوری
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } لاگ ان
-       *[other] { $count } لاگ اناں
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $total } لاگ ان وچوں { $count }
-       *[other] { $total } لاگ اناں وچوں { $count }
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -80,14 +57,10 @@ login-list-username-reverse-option = ورتݨ ناں (Z-A)
 about-logins-login-list-alerts-option = انتباہات
 login-list-last-changed-option = چھیکڑی واری تبدیل تھیا
 login-list-last-used-option = چھیکڑی ورتاوا
-login-list-intro-title = کوئی لاگ ان کائنی لبھے
 login-list-intro-title2 = کوئی پاس ورڈ محفوظ کائنی تھئے
 login-list-intro-description = جݙاں تساں { -brand-product-name } وِچ پاس ورڈ محفوظ کریسو تاں ، او اتھاں ݙکھایا ویسے.
-about-logins-login-list-empty-search-title = کوئی لاگ ان کائنی لبھے
 about-logins-login-list-empty-search-title2 = کوئی پاس ورڈ کائنی لبھا
 about-logins-login-list-empty-search-description = تہاݙی ڳول نال رلدڑ نتیجے نئیں لبھدے پئے۔
-login-list-item-title-new-login = نواں لاگ ان
-login-list-item-subtitle-new-login = آپݨی لاگ ان سنداں درج کرو
 login-list-item-title-new-login2 = پاس ورڈ شامل کرو
 login-list-item-subtitle-missing-username = (ورتݨ ناں کوئی کائنی)
 about-logins-list-item-breach-icon =
@@ -103,28 +76,20 @@ about-logins-list-section-week = چھیکڑی ٧ ݙین٘ہ
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = اپݨے ہتھیکڑے لاگ انز تلاش کریندے پئے او؟ مطابقت پذیری کوں آن کرو یا انہیں کوں برآمد کرو۔
-about-logins-login-intro-heading-logged-in = کوئی سینکڈ لاگ ان نئیں ملیا۔
-login-intro-description = جے تساں اپݨے لاگ انز { -brand-product-name } کوں کہیں ٻئے آلے تے محفوظ کیتا ہویا ہے تاں، انہیں کوں اتھاں حاصل کرݨ دا طریقہ ایویں ہے:
-login-intro-instructions-fxa = اپݨے { -fxaccount-brand-name } کوں ایں دیوائس تے بݨاؤ یا سائن ان کرو جتھاں تہاݙے کیتے لاگ ان ہتھیکڑے کیتے ڳئے ہن۔
 about-logins-login-intro-heading-message = آپݨے پاس ورڈ کوں محفوظ جاء اُتے سان٘بھو
 login-intro-description2 = اُوہ سارے پاس ورڈ جِنّھاں کوں تُساں { -brand-product-name }وِچ محفوظ کرین٘دے ہِیوے انکرپٹ تھئے ہوئے ہِن۔ این٘دے توں اَن٘ج، اَساں خلاف ورزیاں اُتے نظر رکھین٘دے ہِسے اَتے ڄیکر تُساں متاثر تھین٘دے ہِیوے تاں تُہاکوں ݙسین٘دے ہِسے۔ <a data-l10n-name="breach-alert-link">ٻِیا ڄاݨو</a>
 login-intro-instructions-fxa2 = اِیں ڈیوائس اُتے آپݨاں اکاؤنٹ بݨاؤ یا سائن اِن تِھیوو جِتّھاں تُہاݙے لاگ اِن محفوظ ہِن۔
 login-intro-instructions-fxa-settings = ترتیباں > مطابقت پذیری > مطابقت پذیری کوں آن کرو تے  ونڄو ... لاگ ان تے پاس ورڈ چیک باکس کوں منتخب کرو۔
 login-intro-instructions-fxa-passwords-help = ودھیک مدد کیتے <a data-l10n-name="passwords-help-link">پاس ورڈ سپورٹ</a> ملاحظہ کرو۔
-about-logins-intro-browser-only-import = جے تہاݙے لاگ ان کہیں ٻئے براؤزر وِچ محفوظ ہن، تاں تساں <a data-l10n-name="import-link">انہاں کوں{ -brand-product-name } وِچ درآمد کر سڳدے ہو</a>
-about-logins-intro-import2 = جے تہاݙے لاگ ان { -brand-product-name } دے ٻاہر ہتھیکڑے کیتے ڳئے ہن، تاں تساں <a data-l10n-name="import-browser-link">  انہاں کوں ٻئے براؤزر کنوں درآمد کر سڳدے او </a> یا <a data-l10n-name="import-file-link"> کنوں ہک فائل </a>
 about-logins-intro-import3 = ہُݨیں پاس ورڈ رلاوݨ کِیتے اُتّے پلس سائن بٹݨ کوں چُݨو۔ تُساں <a data-l10n-name="import-browser-link">کئیں ٻئے براؤزر کنوں پاس ورڈ درآمد کر سڳدے ہِیوے</a>یا <a data-l10n-name="import-file-link">کئیں فائل وِچوں</a>۔
 
 ## Login
 
-login-item-new-login-title = نواں لاگ ان بݨاؤ
 # Header for adding a password
 about-logins-login-item-new-login-title = پاس ورڈ شامل کرو
 login-item-edit-button = تبدیلی کرو
 about-logins-login-item-remove-button = ہٹاؤ
 login-item-origin-label = ویب سائٹ پتہ
-login-item-tooltip-message = پک کرو جو اے اوں ویب سائٹ دے عین مطابق ایڈریس نال میل کھان٘دے جتھاں تساں لاگ ان تھین٘دے او۔
 about-logins-origin-tooltip2 = پورا پتہ درج کرو اَتے یقینی بݨاؤ جو اِیہ تُہاݙے سائن اِن کرݨ دے اَصلُوں مطابق ہِے۔
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -144,7 +109,6 @@ login-item-password-conceal-checkbox =
     .aria-label = پاس ورڈ لکاؤ
 login-item-copy-password-button-text = نقل کرو
 login-item-copied-password-button-text = نقل تھی ڳیا!
-login-item-save-changes-button = تبدیلیاں محفوظ کرو
 about-logins-login-item-save-changes-button = محفوظ
 login-item-save-new-button = محفوظ
 login-item-cancel-button = منسوخ
@@ -168,11 +132,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = اپݨے لاگ ان وِچ ترمیم کرݨ سان٘گے، اپݨے ون٘ڈوز لاگ ان دیاں سنداں درج کرو۔ این٘دے نال تہاݙے اکاؤنٹس دی حفاظت وِچ مدد ملدی ہے۔
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = محفوظ تھئے لاگ ان وچ تبدیلی کرو
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -196,11 +155,6 @@ about-logins-copy-password-os-auth-dialog-message-win = اپݨا پاس ورڈ �
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = محفوظ تھئے پاس ورڈ نقل کرو
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = اپݨے لاگ ان برآمد کرݨ سانگے، اپݨے ونڈوز لاگ ان دیاں سنداں درج کرو۔ ایندے نال تہاݙے اکاؤنٹس دی حفاظت وِچ مدد ملدی ہے۔
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = سوگھا لاگ ان تے پاس ورڈ برآمد کرو
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = آپݨے پاس ورڈ برآمد کرݨ کِیتے، آپݨے ونڈوز لاگ اِن دیاں سنداں درج کرو۔ اِین٘دے نال تُہاݙے اکاؤنٹس دی راکھی وِچ مَدت مِلدی ہِے۔
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -218,8 +172,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = منسوخ
 confirmation-dialog-dismiss-button =
     .title = منسوخ
-about-logins-confirm-remove-dialog-title = ایہ لاگ ان ہٹاؤں؟
-confirm-delete-dialog-message = ایہ عمل آیا ون٘ڄایا نئیں تھی سڳدا۔
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = پاس ورڈ ہٹاؤں؟
 # Message for modal to confirm the removal of one saved password
@@ -234,32 +186,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] ہٹاؤ
         [one] ہٹاؤ
        *[other] سارے ہٹاؤ
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] جیا، ایہ لاگ ان ہٹاؤ
-        [one] جیا، ایہ لاگ ان ہٹاؤ
-       *[other] جیا، ایہ لاگ اناں ہٹاؤ
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] سبھے { $count } لاگ ان ہٹا ݙیوں؟
-       *[other] سبھے { $count } لاگ انز ہٹا ݙیوں؟
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] ایہ ایں لاگ ان کوں ہٹا ݙیسے جینکوں تساں { -brand-short-name } وِچ ہتھیکڑا کیتا ہے تے خلاف ورزی دیاں چتاوݨیاں جیڑھیاں اتھاں ظاہر تھیسن۔ تساں ایں کارروائی کوں کالعدم نہ کر سڳسو۔
-       *[other] ایہ ان لاگ انز کوں ہٹا ݙیسے جیڑھے تساں { -brand-short-name } وِچ ہتھیکڑے کیتے ہن تے خلاف ورزی دیاں چتاوݨیاں جیڑھیاں اتھاں ظاہر تھیسن۔ تساں ایں کارروائی کوں کالعدم نہ کر سڳسو۔
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] { $count } لاگ ان سبھ آلات کنوں ہٹا ݙیوں؟
-       *[other] سبھے { $count } سبھ آلات کنوں ہٹا ݙیوں؟
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [1] ایہ تہاݙے { -fxaccount-brand-name } نال مطابقت پذیر تمام آلات تے { -brand-short-name } وِچ ہتھیکڑے لاگ ان کوں ہٹا ݙیسے۔ ایہ اتھاں ظاہر تھیوݨ والے خلاف ورزی دیاں چتاوݨیاں کوں وی ہٹا ݙیسے۔ تساں ایں کارروائی کوں کالعدم نہ کر سڳسو۔
-       *[other] ایہ تہاݙے { -fxaccount-brand-name } نال مطابقت پذیر تمام آلات تے { -brand-short-name } وِچ ہتھیکڑے کیتے ڳئے تمام لاگ انز کوں ہٹا ݙیسے۔ ایہ اتھاں ظاہر تھیوݨ والیاں خلاف ورزی دیاں چتاوݨیاں کوں وی ہٹا ݙیس۔ تساں ایں کارروائی کوں کالعدم نہ کر سڳسو۔
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -297,15 +223,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = لاگ ان تے پاس ورڈ برآمد کرو
-about-logins-confirm-export-dialog-message = تہاݙے پاس ورڈز کوں پڑھݨ دے قابل متن دے طور تے ہتھیکڑا کیتا ویسے ( مثلاً (e.g., BadP@ssw0rd)  تاں جو جیڑھا وی برآمد شدہ فائل کوں کھول سڳدا ہے وہ انہاں کوں ݙیکھ سڳے۔
-about-logins-confirm-export-dialog-confirm-button = برآمد کرو…
 about-logins-confirm-export-dialog-title2 = پاس ورڈز برآمد کرݨ دے بارے وِچ ہِک چِتاوݨی
 about-logins-confirm-export-dialog-message2 =
     جہڑیلے تُساں برآمد کرین٘دے ہِیوے، تاں تُہاݙے پاس ورڈز پڑھݨ دے قابل متن آلی فائل وِچ محفوظ تھی وین٘دے ہِن۔
     جہڑیلے تُساں فائل دا استعمال کر گِھن٘دے ہِیوے، تاں اَساں اِیکوں حذف کرݨ دی صلاح ݙین٘دے ہِیوے تاں جو اِیں ڈائس کوں استعمال کرݨ آلے ٻئے تُہاݙے پاس ورڈز نہ ݙٰکھ سڳِن۔
 about-logins-confirm-export-dialog-confirm-button2 = برآمد نال جاری رکھو
-about-logins-alert-import-title = درآمد مکمل تھئی
 about-logins-alert-import-message = درآمد دا تفصیلی خلاصہ ݙیکھو
 confirm-discard-changes-dialog-title = غیر محفوظ شدہ تبدیلیاں ہٹا ݙیوں؟
 confirm-discard-changes-dialog-message = سبھے غیر محفوظ شدہ تبدیلیاں ختم تھی ویسن۔
@@ -342,11 +264,6 @@ about-logins-error-message-default = ایں پاس ورڈ کوں سوگھا کر
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = لاگ ان فائل برآمد کرو
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = logins.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = { -brand-short-name } کنوں پاس ورڈ برآمد کرو
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -362,8 +279,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = لاگ ان فائل درآمد کرو
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = { -brand-short-name } تے  پاس ورڈ درآمد کرو
 about-logins-import-file-picker-import-button = درآمد کرو
@@ -387,20 +302,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = درآمد مکمل تھئی
-about-logins-import-dialog-items-added =
-    { $count ->
-       *[other] <span>نویں لاگ ان شامل تھئے:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-        [one] <span>موجودہ لاگ ان اپ ڈیٹ تھئی:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>موجودہ لاگ اناں اپ ڈیٹ تھیاں:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-        [one] <span>ڈپلیکیٹ لاگ ان لبھا:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(امپورٹ کائنی تھیا)</span>
-       *[other] <span>ڈپلیکیٹ لاگ انز لبھن:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(امپورٹ کائنی تھئے)</span>
-    }
 about-logins-import-dialog-items-added2 =
     { $count ->
         [one] <span>نواں پاس ورڈ رلایا ڳِیا ہِے:</span><span data-l10n-name="count">{ $count }</span>
@@ -436,15 +337,11 @@ about-logins-import-dialog-error-learn-more = ٻیا سِکھو
 about-logins-import-dialog-error-try-import-again = ولا درآمد کرݨ دی کوشش کرو…
 about-logins-import-dialog-error-cancel = منسوخ
 about-logins-import-report-title = درآمد دا خلاصہ
-about-logins-import-report-description = لاگ انز تے پاس ورڈس { -brand-short-name } تے برآمد کیتے ڳئے ہن
 about-logins-import-report-description2 = { -brand-short-name } تے امپورٹ تھئے پاس ورڈز
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = قطار{ $number }
-about-logins-import-report-row-description-no-change = ڈپلیکیٹ: بالکل موجودہ لاگ ان نال رلدا ملدا
-about-logins-import-report-row-description-modified = موجودہ لاگ ان کوں اپڈیٹ کر ݙتا ڳئے
-about-logins-import-report-row-description-added = نواں لاگ ان شامل تھیا
 about-logins-import-report-row-description-no-change2 = ݙوہڑا: موجودہ اندراج دے اَصلُوں مطابق
 about-logins-import-report-row-description-modified2 = موجودہ اندراج کوں اپ ڈیٹ کر ݙِتّا ڳِیا
 about-logins-import-report-row-description-added2 = نویں پاس ورڈز شامل تھی ڳیا
@@ -461,20 +358,6 @@ about-logins-import-report-row-description-error-missing-field = نقص: { $fiel
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">نوان لاگ ان شامل تھیا</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">موجود لاگ ان اپ ڈیٹ تھی ڳیا</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">موجود لاگ ان اپ ڈیٹ تھی ڳئے</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ڈپلیکیٹ لاگ ان</div> <div data-l10n-name="not-imported">(درآمد کائنی)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ڈپلیکیٹ لاگ انز</div> <div data-l10n-name="not-imported">(درآمد کائنی)</div>
-    }
 about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">نواں پاس ورڈ رلایا ڳِیا</div>

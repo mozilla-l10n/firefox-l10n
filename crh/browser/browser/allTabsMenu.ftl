@@ -9,6 +9,3 @@ all-tabs-menu-new-user-context =
     .label = Yañı Konteyner İlmegi
 all-tabs-menu-hidden-tabs =
     .label = Gizli İlmekler
-all-tabs-menu-manage-user-context =
-    .label = Konteynerlerni İdare Et
-    .accesskey = o

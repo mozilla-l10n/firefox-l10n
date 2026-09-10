@@ -41,7 +41,6 @@ policy-DisableDefaultBrowserAgent = Impedi a s'agente de su navigadore predefini
 policy-DisableDeveloperTools = Bloca s'atzessu a is ainas de isvilupu.
 policy-DisableEncryptedClientHello = Disativa s'impreu de TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Disativa is cumandos pro imbiare opiniones dae su menù Agiudu («Imbia opiniones» e «Sinnala unu situ ingannosu»).
-policy-DisableFirefoxAccounts = Disativa is servìtzios basados subra de { -fxaccount-brand-name }, incluende Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Disativa is servìtzios basados subra de contos, incluida sa sincronizatzione.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -51,7 +50,6 @@ policy-DisableForgetButton = Impedi s'atzessu a su butone Iscaressi.
 policy-DisableFormHistory = Non sarves sa cronologia de chirca e de formulàrios.
 policy-DisablePrimaryPasswordCreation = Si est beru, non si podet creare una crae printzipale.
 policy-DisablePasswordReveal = Non permitas chi is craes bèngiant riveladas in is credentziales sarvadas.
-policy-DisablePocket2 = Disativa sa funtzionalidade pro sarvare pàginas web in { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Disativa sa navigatzione privada.
 policy-DisableProfileImport = Disativa su cumandu de su menù pro importare datos dae un'àteru navigadore.
 policy-DisableProfileRefresh = Disativa su butone "Agiorna{ -brand-short-name }" in sa pàgina about:support.
@@ -114,7 +112,6 @@ policy-PasswordManagerExceptions = Impedi a { -brand-short-name } de sarvare cra
 policy-PDFjs = Disativa o cunfigura PDF.js, su visualizadore de PDF inclùdidu in { -brand-short-name }
 policy-Permissions2 = Cunfigura is permissos pro càmera, micròfonu, positzione, notìficas e riprodutzione in automàticu.
 policy-PictureInPicture = Ativa o disativa Immàgine-subra-immàgine
-policy-PopupBlocking = Permite a tzertos sitos de ammustrare ventanas a cumparsa in manera predefinida.
 policy-Preferences = Cunfigura e bloca is valores pro una parte de is preferèntzias.
 policy-PrivateBrowsingModeAvailability = Cunfigura sa disponibilidade de sa modalidade Navigatzione anònima.
 policy-PromptForDownloadLocation = Pregunta in ue sarvare is archìvios de iscarrigare.

@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Yangi varaq
-    .accesskey = Y
 reload-tab =
     .label = Varaqni yangilash
     .accesskey = y
@@ -61,14 +58,3 @@ move-to-end =
 move-to-new-window =
     .label = Yangi oynaga ko‘chirish
     .accesskey = y
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Varaqni qurilmaga joʻnatish
-           *[other] { $tabCount } ta varaqni qurilmaga joʻnatish
-        }
-    .accesskey = n

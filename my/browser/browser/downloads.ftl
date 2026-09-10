@@ -40,8 +40,6 @@ downloads-cmd-always-use-system-default =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = ဆွဲချချက်များ ထားသိုရာဖိုင်တွဲကို ပြပါ
 downloads-cmd-retry =
     .tooltiptext = ထပ်မံဆောင်ရွက်ကြည့်ပါ
 downloads-cmd-retry-panel =

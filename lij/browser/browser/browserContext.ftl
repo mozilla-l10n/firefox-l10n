@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Vanni inderê de 'na pagina ({ $shortcut })
     .aria-label = Inderê
+    .tooltiptext = Vanni inderê de 'na pagina ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Vanni avanti de 'na pagina ({ $shortcut })
     .aria-label = Avanti
+    .tooltiptext = Vanni avanti de 'na pagina ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -98,9 +98,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = Sarva destinaçion co-o nomme…
     .accesskey = S
-main-context-menu-save-link-to-pocket =
-    .label = Sarva colegamento in { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -226,37 +223,19 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Manda son pe email…
     .accesskey = s
-main-context-menu-save-to-pocket =
-    .label = Sarva pagina in { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Manda Pagina a-o Dispoxitivo
-    .accesskey = D
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Acessi sarvæ
-    .accesskey = c
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Paròlle segrete sarvæ
     .accesskey = ò
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Deuvia alias de pòsta { -relay-brand-short-name }
     .accesskey = D
 main-context-menu-suggest-strong-password =
     .label = Conseggia paròlla segreta fòrte
     .accesskey = s
-main-context-menu-manage-logins2 =
-    .label = Gestion acessi
-    .accesskey = G
-main-context-menu-keyword =
-    .label = Azonzi 'na paròlla ciave pe questa riçerca…
-    .accesskey = A
 main-context-menu-link-send-to-device =
     .label = Manda Colegamento a-o Dispoxitivo
     .accesskey = D
@@ -299,9 +278,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Fanni föto do schermo
     .accesskey = F
-main-context-menu-take-frame-screenshot =
-    .label = Fanni föto do schermo
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = Fanni vedde sorgente da pagina
     .accesskey = v

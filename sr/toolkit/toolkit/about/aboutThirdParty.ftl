@@ -28,11 +28,11 @@ third-party-tag-shellex = Shell проширења
 third-party-tag-background = Позадина
     .title = Овај модул није блокирао апликацију јер је учитана у позадини.
 third-party-icon-unsigned =
-    .title = Овај модул није потписан
     .alt = Овај модул није потписан
+    .title = Овај модул није потписан
 third-party-icon-warning =
-    .title = { -brand-short-name } се срушио у коду овог модула
     .alt = { -brand-short-name } се срушио у коду овог модула
+    .title = { -brand-short-name } се срушио у коду овог модула
 third-party-status-loaded = Учитано
 third-party-status-blocked = Блокирано
 third-party-status-redirected = Преусмерено
@@ -44,30 +44,17 @@ third-party-button-reload = Поново учитајте информације
     .title = Поново учитајте информације о систему
 third-party-button-open =
     .title = Отвори локацију датотеке…
-third-party-button-to-block =
-    .title = Блокирај овај модул
-    .aria-label = Блокирај овај модул
-third-party-button-to-unblock =
-    .title = Тренутно блокирано. Кликните да одблокирате.
-    .aria-label = Тренутно блокирано. Кликните да одблокирате.
-third-party-button-to-unblock-disabled =
-    .title =
-        Тренутно је означено као блокирано, иако је листа блокираних онемогућена за
-        ово { -brand-short-name } покретање. Кликните да одблокирате.
-    .aria-label =
-        Тренутно је означено као блокирано, иако је листа блокираних онемогућена за
-        ово { -brand-short-name } покретање. Кликните да одблокирате.
 third-party-button-to-block-module = Блокирај овај модул
-    .title = Блокирај овај модул
     .aria-label = Блокирај овај модул
+    .title = Блокирај овај модул
 third-party-button-to-unblock-module = Одблокирај овај модул
-    .title = Тренутно је блокирано. Кликните да бисте га одблокирали.
     .aria-label = Тренутно је блокирано. Кликните да бисте га одблокирали.
+    .title = Тренутно је блокирано. Кликните да бисте га одблокирали.
 third-party-button-to-unblock-module-disabled = Одблокирај овај модул (листа блокирања је тренутно онемогућена)
-    .title =
+    .aria-label =
         Тренутно је означено као блокирано, иако је листа блокирања онемогућена за ово покретање
         { -brand-short-name }-а. Кликните да бисте га одблокирали.
-    .aria-label =
+    .title =
         Тренутно је означено као блокирано, иако је листа блокирања онемогућена за ово покретање
         { -brand-short-name }-а. Кликните да бисте га одблокирали.
 third-party-button-expand =
@@ -79,5 +66,5 @@ third-party-should-restart-title = Поново покрени { -brand-short-na
 third-party-restart-now = Поново покрени сада
 third-party-restart-later = Поново покрени касније
 third-party-blocked-by-builtin =
-    .title = Блокирао { -brand-short-name }
     .alt = Блокирао { -brand-short-name }
+    .title = Блокирао { -brand-short-name }

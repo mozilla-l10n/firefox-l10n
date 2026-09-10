@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = વિશે સાચવો:webrtc તર
 about-webrtc-aec-logging-msg-label = AEC લૉગિંગ
 about-webrtc-aec-logging-off-state-label = AEC લોગિંગ શરૂ કરો
 about-webrtc-aec-logging-on-state-label = AEC લોગિંગ રોકો
-about-webrtc-aec-logging-on-state-msg = AEC લોગિંગ સક્રિય (થોડી મિનિટો માટે કૉલર સાથે વાત કરો અને પછી કેપ્ચર બંધ કરો)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC લોગિંગ સક્રિય (થોડી મિનિટો માટે કૉલર સાથે વાત કરો અને પછી કેપ્ચર બંધ કરો)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -77,17 +76,9 @@ about-webrtc-nominated = નામાંકન
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = પસંદ કરેલ
 about-webrtc-save-page-label = પાનાંને સંગ્રહો
-about-webrtc-debug-mode-msg-label = ડીબગ મોડ
-about-webrtc-debug-mode-off-state-label = ડીબગ મોડ પ્રારંભ કરો
-about-webrtc-debug-mode-on-state-label = ડીબગ મોડ રોકો
-about-webrtc-stats-heading = સત્ર આંકડા
 about-webrtc-stats-clear = ઇતિહાસ સાફ કરો
 about-webrtc-log-heading = જોડાણ નોંધ
 about-webrtc-log-clear = નોંધ સાફ કરો
-about-webrtc-log-show-msg = નોંધ બતાવો
-    .title = આ વિભાગને વિસ્તૃત કરવા ક્લિક કરો
-about-webrtc-log-hide-msg = લોગ છુપાવો
-    .title = આ વિભાગને સમેટવા માટે ક્લિક કરો
 about-webrtc-log-section-show-msg = નોંધ બતાવો
     .title = આ વિભાગને વિસ્તૃત કરવા ક્લિક કરો
 about-webrtc-log-section-hide-msg = લોગ છુપાવો
@@ -110,19 +101,11 @@ about-webrtc-remote-candidate = દૂરસ્થ ઉમેદવાર
 about-webrtc-raw-candidates-heading = બધા કાચા ઉમેદવારો
 about-webrtc-raw-local-candidate = કાચા સ્થાનિક ઉમેદવાર
 about-webrtc-raw-remote-candidate = કાચા દૂરસ્થ ઉમેદવાર
-about-webrtc-raw-cand-show-msg = કાચા ઉમેદવારો બતાવો
-    .title = આ વિભાગને વિસ્તૃત કરવા ક્લિક કરો
-about-webrtc-raw-cand-hide-msg = કાચા ઉમેદવારો છુપાવો
-    .title = આ વિભાગને સમેટવા માટે ક્લિક કરો
 about-webrtc-raw-cand-section-show-msg = કાચા ઉમેદવારો બતાવો
     .title = આ વિભાગને વિસ્તૃત કરવા ક્લિક કરો
 about-webrtc-raw-cand-section-hide-msg = કાચા ઉમેદવારો છુપાવો
     .title = આ વિભાગને સમેટવા માટે ક્લિક કરો
 about-webrtc-priority = પ્રાથમિકતા
-about-webrtc-fold-show-msg = વિગતો બતાવો
-    .title = આ વિભાગને વિસ્તૃત કરવા ક્લિક કરો
-about-webrtc-fold-hide-msg = વિગતો છુપાવો
-    .title = આ વિભાગને સમેટવા માટે ક્લિક કરો
 about-webrtc-fold-default-show-msg = વિગતો બતાવો
     .title = આ વિભાગને વિસ્તૃત કરવા ક્લિક કરો
 about-webrtc-fold-default-hide-msg = વિગતો છુપાવો
@@ -132,10 +115,6 @@ about-webrtc-encoder-label = એન્કોડર
 
 ##
 
-about-webrtc-save-page-msg = પૃષ્ઠ પર સાચવ્યું: { $path }
-about-webrtc-debug-mode-off-state-msg = ટ્રેસ લોગ અહીં મળી શકે છે: { $path }
-about-webrtc-debug-mode-on-state-msg = ડીબગ મોડ સક્રિય, ટ્રેસ લોગ: { $path }
-about-webrtc-aec-logging-off-state-msg = કેપ્ચર થયેલ લોગ ફાઈલો અહીં મળી શકે છે: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

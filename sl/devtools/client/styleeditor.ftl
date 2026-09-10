@@ -21,8 +21,6 @@ styleeditor-save-button = Shrani
 styleeditor-options-button =
     .tooltiptext = Možnosti Urejevalnika slogov
 styleeditor-at-rules = Pravila @
-styleeditor-editor-textbox =
-    .data-placeholder = Vnesite CSS.
 styleeditor-no-stylesheet = Ta stran ne vsebuje slogovnih predlog.
 styleeditor-no-stylesheet-tip = Ali želite <a data-l10n-name="append-new-stylesheet">dodati novo slogovno predlogo</a>?
 styleeditor-open-link-new-tab =

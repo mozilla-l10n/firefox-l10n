@@ -17,8 +17,6 @@ appmenuitem-downloads =
     .label = Da nxinú
 appmenuitem-passwords =
     .label = Da contraseña
-appmenuitem-addons-and-themes =
-    .label = Complementos y temas
 appmenuitem-print =
     .label = Nátava…
 appmenuitem-find-in-page =
@@ -73,19 +71,9 @@ appmenu-remote-tabs-unverified = Cuenta noo´o nejika koo verificada.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar ntañu´u
 appmenuitem-fxa-sign-in = Kajie'e sesión { -brand-product-name }
 appmenuitem-fxa-manage-account = Tetiñu cuenta
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-signed-in-label = Kajie´e sesión
 appmenuitem-save-page =
     .label = Chuva´a kua...
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Nakuvi a jíía íyo
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Kachí de íyo a jía funciones
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -171,8 +159,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Nánuku chineída noo´o
     .accesskey = H
-appmenu-help-report-site-issue =
-    .label = Iyo iin tixi nuu sitio ya´a...
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

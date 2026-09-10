@@ -5,13 +5,6 @@
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Daar is 'n ongestuurde omvalverslag
-       *[other] Daar is { $reportCount } ongestuurde omvalverslae
-    }
 pending-crash-reports-view-all =
     .label = Bekyk
 pending-crash-reports-send =

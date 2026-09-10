@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = { $addon-name } pśidaś
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Póstup: kšac { $current } z { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -199,11 +193,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = { -brand-short-name } k nadawkowej rědce a startowemu menijoju pśipěś
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Zachopśo z wobglědowakom, kótaryž se wót za wše wužytneje organizacije pódpěra. Šćitamy wašu priwatnosć, mjaztym až pó interneśe tšochtaśo.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -233,57 +222,10 @@ mr2022-onboarding-set-default-subtitle = Wužywajśo wobglědowak, kótaryž se 
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Naša nejnowša wersija jo wokoło was natwarjona, kótaraž wam lažčejše ako do togo cyni, web pśeglědowaś. Jo połny funkcijow, wó kótarychž se myslimy, až se wam spódobaju.
 mr2022-onboarding-get-started-primary-button-label = Instalacija za sekundy
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Spěšnučka instalacija
-mr2022-onboarding-import-subtitle = Zarědujśo { -brand-short-name }, kak se wam spódoba. Pśidajśo swóje cytańske znamjenja, gronidła a wěcej ze swójogo starego wobglědowaka.
 mr2022-onboarding-import-primary-button-label-no-attribution = Z pjerwjejšnego wobglědowaka importěrowaś
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Wubjeŕśo barwu, kótaraž was inspirěrujo
-mr2022-onboarding-colorway-subtitle = Njewótwisne głose mógu kulturu změniś.
-mr2022-onboarding-colorway-primary-button-label-continue = Nastajiś a pókšacowaś
-mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } k wašomu barbnemu startowemu bokoju cyniś
-mr2022-onboarding-colorway-label-default = Standard
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Aktualne barwy { -brand-short-name }
-mr2022-onboarding-colorway-description-default = <b>Móje aktualne barwy { -brand-short-name } wužywaś.</b>
-mr2022-onboarding-colorway-label-playmaker = Wjeźecy grajaŕ
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Wjeźecy grajaŕ (cerwjeny)
-mr2022-onboarding-colorway-description-playmaker = <b>Sćo wjeźecy grajaŕ.</b> Napórajośo góźby, aby dobył a kuždemu wokoło was pomagał, jich graśe pólěpšyś.
-mr2022-onboarding-colorway-label-expressionist = Ekspresionist
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Ekspresionist (žołty)
-mr2022-onboarding-colorway-description-expressionist = <b>Sćo ekspresionist.</b> Wiźiśo swět hynac a waše źěła zacuśa drugich wóźe.
-mr2022-onboarding-colorway-label-visionary = Wizionaŕ
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Wizionaŕ (zeleny)
-mr2022-onboarding-colorway-description-visionary = <b>Sćo wizionaŕ.</b> Stajaśo status quo do pšašanja a pógnuwaśo druge, se lěpšy pśichod pśedstajiś.
-mr2022-onboarding-colorway-label-activist = Aktiwist
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Aktiwist (módry)
-mr2022-onboarding-colorway-description-activist = <b>Sćo aktiwist.</b> Zawóstajaśo swět ako lěpše městno, ako sćo jen namakał a wjeźośo druge k wěrje.
-mr2022-onboarding-colorway-label-dreamer = Cowaŕ
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Cowaŕ (violetny)
-mr2022-onboarding-colorway-description-dreamer = <b>Sćo cowaŕ.</b> Wěriśo, až gluka skobodnego lěbgoźi a inspirěrujośo druge, aby skobodne byli.
-mr2022-onboarding-colorway-label-innovator = Inowator
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Inowator (oranžowy)
-mr2022-onboarding-colorway-description-innovator = <b>Sćo inowator.</b> Wiźiśo wšuźi šanse a wustatkujośo se na žywjenja wšych wokoło was.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Skócćo wót laptopa do telefona a zasej slědk
-mr2022-onboarding-mobile-download-subtitle = Wobstarajśo se rejtariki z jadnogo rěda a cyńśo tam dalej, gaž sćo pśestał na drugem rěźe. Mimo togo móžośo swóje cytańske znamjenja a gronidła synchronizěrowaś, źožkuli { -brand-product-name } wužywaśo.
 mr2022-onboarding-mobile-download-cta-text = Scannujśo QR-kod, aby { -brand-product-name } za swój mobilny rěd dostał abo <a data-l10n-name="download-label">sćelśo se ześěgnjeński wótkaz.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Scannujśo QR-kod, aby se { -brand-product-name } za mobilny rěd wobstarał.
 
@@ -336,15 +278,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Swětłokóžate a śamnokóžate ruki gromadu klatśaju
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Póglěd na schowanje słyńca z woknom z lišku a śpineju rostlinu na woknowej delce
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Ruka barwojtu collage zelenego wócka, oranžowego crjeja, cerwjenego basketbala, wioletnych nagłownych słuchatkow, módreje wutšoby a žołteje krony
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Žwaleca se liška na wobrazowce laptopa. Laptop ma pśizamknjonu myšku.
 onboarding-device-migration-title = Witajśo slědk!
-onboarding-device-migration-subtitle = Pśizjawśo se pla { -fxaccount-brand-name(capitalization: "sentence") }, aby swóje cytańske znamjenja, gronidła a historiju na swójom nowem rěźe sobu wzeł.
 onboarding-device-migration-subtitle2 = Pśizjawśo se pla swójogo konta, aby swóje cytańske znamjenja, gronidła a swóju historiju na swój nowy rěd pśenosował.
 onboarding-device-migration-primary-button-label = Pśizjawiś
 
@@ -461,15 +400,12 @@ tab-groups-onboarding-feature-callout-title = Wopytajśo kupki rejtarikow za mje
 tab-groups-onboarding-feature-callout-subtitle = Organizěrujśo se, śěgniśo jaden rejtarik górjejce na drugi, aby wašu prědnu kupku napórał.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Namakajśo kuždy cas swóje kupki rejtarikow w meniju Wšykne rejtariki nalicyś.
-tab-groups-onboarding-create-group-title-2 = Namakajśo swóje kupki rejtarikow how kuždy cas.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Pytajśo za swójimi kupkami, aby je w adresowem pólu namakał.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Gaž kupku rejtarikow zacynjaśo, wócyńśo ju zasej kuždy cas z menija Wšykne rejtariki nalicyś.
-tab-groups-onboarding-saved-groups-title-2 = Gaž kupku rejtarikow zacynjaśo, móžośo ju how kuždy cas zasej wócyniś.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Pytajśo za swójimi zacynjonymi kupkami, aby je w adresowem pólu namakał.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Wócyńśo zasej kuždy cas swóje kupki rejtarikow z menija Wšykne rejtariki nalicyś.
-tab-groups-onboarding-session-restore-title = Wócyńśo zasej swóje kupki rejtarikow how kuždy cas.
 tab-groups-onboarding-dismiss = W pórěźe
 
 ## Multi Profiles feature onboarding messages

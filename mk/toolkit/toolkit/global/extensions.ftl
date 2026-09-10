@@ -10,9 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Додај { $extension }?
 webext-perms-sideload-header = { $extension } е додаден
-webext-perms-optional-perms-header = { $extension } бара дополнителни дозволи.
 
 ##
 
@@ -43,21 +41,5 @@ webext-perms-host-description-all-urls = Пристапува до вашите 
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Пристапува до вашите податоци за места во домејнот { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Пристапува до вашите податоци во { $domainCount } друг домејн
-       *[other] Пристапува до вашите податоци во { $domainCount } други домејни
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Пристапува до вашите податоци за { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Пристапува до вашите податоци на { $domainCount } друго место
-       *[other] Пристапува до вашите податоци на { $domainCount } други места
-    }

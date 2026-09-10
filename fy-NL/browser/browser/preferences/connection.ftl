@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Ferbiningsynstellingen
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Ferbiningsynstellingen
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Fernije
     .accesskey = F
-connection-proxy-autologin =
-    .label = Freegje net om autentikaasje as wachtwurd bewarre is
-    .accesskey = i
-    .tooltip = Dizze opsje autentisearret jo automatisysk by proxies as jo derfaor bewarre gegevens hawwe. Jo sille frege wurde as autentikaasje mislearret.
 connection-proxy-autologin-checkbox =
     .label = Freegje net om autentikaasje as wachtwurd bewarre is
-    .accesskey = i
     .tooltiptext = Dizze opsje autentisearret jo automatisysk by proxies as jo derfaor bewarre gegevens hawwe. Jo sille frege wurde as autentikaasje mislearret.
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = DNS fia proxy by gebrûk fan SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = De standert-URL foar it omsetten fan DNS fia HTTPS brûke
 connection-dns-over-https-url-custom =
     .label = Oanpast
-    .accesskey = O
     .tooltiptext = In URL fan jo foarkar foar it omsetten fan DNS oer HTTPS ynfiere
-connection-dns-over-https-custom-label = Oanpast
+    .accesskey = O

@@ -15,7 +15,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Urahuchina aparinahun kunanpachak — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Urahuchina aparinahun kunanpachak — { $transfer }
 
@@ -26,7 +25,6 @@ settings-update-applying =
     .label = Kunanpachak sayllurahun...
 update-failed = Kunanpachakta witishka. <label data-l10n-name="failed-link">Puchuk wallpata urahuchina aparinkapa</label>
 update-failed-main = Kunanpachakta witishka. <a data-l10n-name="failed-link-main">Puchuk wallpata urahuchina aparinkapa</a>
-update-adminDisabled = Kunanpayashkakuna kichushka kanpak llikata kamachikana
 update-noUpdatesFound = { -brand-short-name } ña kunanpayashka
 settings-update-no-updates-found =
     .label = { -brand-short-name } ña kunanpayashka
@@ -43,4 +41,3 @@ settings-update-manual-with-link = Kunanpayashkakuna shinankapak -pi <a data-l10
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Witkuta arikuhun <label data-l10n-name="current-channel">{ $channel }</label> witkuta kunanpayana.
 bottomLinks-license = Nikikta willanata
-bottomLinks-privacy = Ñukapallak kapakkamay

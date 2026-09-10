@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Waša standardna pytnica jo se změniła.</strong> { $oldEngine } njejo wěcej ako standardna pytnica w { -brand-short-name } k dispoziciji. { $newEngine } jo něnto waša standardna pytnica. Aby standardnu pytnicu změnił, źiśo do nastajenjow. <label data-l10n-name="remove-search-engine-article">Dalšne informacije</label>
 removed-search-engine-message2 = <strong>Waša standardna pytnica jo se změniła.</strong> { $oldEngine } njejo wěcej ako standardna pytnica w { -brand-short-name } k dispoziciji. { $newEngine } jo něnto waša standardna pytnica. Aby standardnu pytnicu změnił, źiśo do nastajenjow.
 remove-search-engine-button = W pórěźe
 
@@ -52,11 +51,11 @@ install-search-engine-no = Ně
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Pytnicu pśidaś
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Pytnicu wobźěłaś
     .style = min-width: 32em;
+    .title = Pytnicu wobźěłaś
 add-engine-button = Swójsku pytnicu pśidaś
 add-engine-name = Mě pytnice
 add-engine-url2 = URL z %s město pytańskego wuraza
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Wopytajśo %s město pytańskego wuraza zap
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Pytnicu pśidaś
-    .buttonaccesskeyaccept = P
     .buttonlabelextra1 = Rozšyrjone
+    .buttonaccesskeyaccept = P
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Pytnicu składowaś
-    .buttonaccesskeyaccept = s
     .buttonlabelextra1 = Rozšyrjone
+    .buttonaccesskeyaccept = s

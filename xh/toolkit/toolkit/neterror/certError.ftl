@@ -33,6 +33,5 @@ proxyResolveFailure-title = Ayikwazi ukufumana iseva yommeli
 redirectLoop-title = Ikhasi alithumeli kwenye indawo kakuhle
 unknownSocketType-title = Impendulo engalindelekanga kwiseva
 nssFailure2-title = Unxibelelwano Ukhuseleko Aluphumelelanga
-corruptedContentError-title = Imposiso yomxholo owonakalisiweyo
 sslv3Used-title = Akunxibelelani ngokukhuselekileyo
 inadequateSecurityError-title = Uqhagamshelo lwakho alukhuselekanga

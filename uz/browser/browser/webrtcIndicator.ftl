@@ -26,23 +26,6 @@ webrtc-sharing-menu =
     .label = Qurilmalarni boʻlishuvchi varaqlar
     .accesskey = Q
 
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Kamera va mikrofoningizdan o‘zaro foydalanilmoqda. Bo‘lishishni boshqarish uchun bosing.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Kamerangiz bo‘lishilgan. Bo‘lishishni boshqarish uchun bosing.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Mikrofoningiz bo‘lishilgan. Bo‘lishishni boshqarish uchun bosing.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Ilova dasturingiz bo‘lishilgan. Bo‘lishishni boshqarish uchun bosing.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Ekraningiz bo‘lishilgan. Bo‘lishishni boshqarish uchun bosing.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Oynangiz bo‘lishilgan. Bo‘lishishni boshqarish uchun bosing.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Varaq boʻlishiladi. Boʻlishishni boshqarish uchun bosing.
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:

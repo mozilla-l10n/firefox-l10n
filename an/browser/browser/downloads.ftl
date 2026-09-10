@@ -40,8 +40,6 @@ downloads-cmd-always-use-system-default =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = Amostrar la carpeta de descargas
 downloads-cmd-retry =
     .tooltiptext = Tornar a prebar
 downloads-cmd-retry-panel =

@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Zabráni agentovi Default browser vykonáva�
 policy-DisableDeveloperTools = Zablokuje prístup k vývojárskym nástrojom.
 policy-DisableEncryptedClientHello = Zakáže používanie funkcie TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Zablokuje možnosť odoslať spätnú väzbu z ponuky Pomocník (možnosti Odoslať spätnú väzbu a Nahlásenie podvodnej stránky).
-policy-DisableFirefoxAccounts = Vypne funkcie súvisiace s { -fxaccount-brand-name(case: "ins", capitalization: "sentence") }, vrátane synchronizácie.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Zakáže služby vyžadujúce účty, vrátane synchronizácie.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Vypne ukladanie histórie vyhľadávania a formulár
 policy-DisableLaunchOnLogin = Zabráni automatickému spusteniu { -brand-short-name(case: "gen") } po prihlásení používateľa.
 policy-DisablePrimaryPasswordCreation = Hodnota true znemožní nastavenie hlavného hesla.
 policy-DisablePasswordReveal = Zablokuje zobrazovanie hesiel v správcovi prihlasovacích údajov.
-policy-DisablePocket2 = Vypne funkciu pre ukladanie stránok do služby { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Zablokuje súkromné prehliadanie.
 policy-DisableProfileImport = Zablokuje možnosť importu údajov z iných prehliadačov.
 policy-DisableProfileRefresh = Zablokuje tlačidlo pre obnovenie prehliadača { -brand-short-name } do pôvodných nastavení na stránke about:support.
@@ -132,7 +130,6 @@ policy-PDFjs = Zablokuje alebo nastaví PDF prehliadač PDF.js zabudovaný v pre
 policy-Permissions2 = Nastaví oprávnenia pre kameru, mikrofón, polohu, upozornenia a automatické prehrávanie.
 policy-PictureInPicture = Povolí alebo zakáže režim Obraz v obraze.
 policy-PopupBlocking2 = Povolí určitým webovým stránkam zobrazovať vyskakovacie okná a byť presmerované rámcami tretích strán.
-policy-PopupBlocking = Povolí určitým webovým stránkam zobrazovať v predvolenom nastavení vyskakovacie okná.
 policy-Preferences = Nastaví a uzamkne hodnotu pre podmnožinu predvolieb.
 policy-PrivateBrowsingModeAvailability = Nastaví dostupnosť režimu súkromného prehliadania.
 policy-PromptForDownloadLocation = Spýta sa na umiestnenie súboru pred jeho stiahnutím.

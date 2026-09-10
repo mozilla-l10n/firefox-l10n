@@ -32,7 +32,6 @@ sidebar-history-clear =
     .label = امسح التأريخ
 sidebar-history-sort-by-heading-menucaption =
     .label = رتّب حسب:
-sidebar-history-sort-by-heading = رتّب حسب:
 sidebar-history-sort-option-date =
     .label = التاريخ
 sidebar-history-sort-option-site =
@@ -52,16 +51,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = امتدادات الشريط الجانبي
-sidebar-customize-firefox-tools-header =
-    .label = أدوات { -brand-product-name }
 sidebar-customize-firefox-settings = إدارة إعدادات { -brand-short-name }
 sidebar-vertical-tabs =
     .label = ألسنة رأسية
 sidebar-settings2 =
     .label = الإعدادات
-sidebar-settings =
-    .label = إعدادات الشريط الجانبي
 sidebar-hide-tabs-and-sidebar =
     .label = أخفِ الألسنة والشريط الجانبي
 sidebar-open-tools-from-sidebar =
@@ -83,8 +77,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = أدِر الامتداد
-sidebar-context-menu-remove-extension =
-    .label = أزِل الامتداد
 sidebar-context-menu-report-extension =
     .label = أبلِغ عن الامتداد
 sidebar-context-menu-open-in-tab =

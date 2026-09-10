@@ -34,9 +34,6 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = سائیڈ بار ایکسٹنشناں
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name } آوزار
 sidebar-customize-firefox-settings = { -brand-short-name } ترتیباں منیج کرو
 sidebar-vertical-tabs =
     .label = عمودی ٹیباں
@@ -45,8 +42,6 @@ sidebar-vertical-tabs =
 
 sidebar-context-menu-manage-extension =
     .label = ایکسٹینشن منظم کرو
-sidebar-context-menu-remove-extension =
-    .label = ایکسٹینشن ہٹاؤ
 sidebar-context-menu-report-extension =
     .label = ایکسٹنشن دی رپورٹ کرو
 sidebar-context-menu-open-in-window =

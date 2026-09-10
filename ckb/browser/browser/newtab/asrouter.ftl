@@ -57,12 +57,6 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = دوگمەی داخستن
     .title = داخستن
 
-## Protections panel
-
-cfr-protections-panel-header = بگەڕێ بێئەوەی چاودێری بکرێیت
-cfr-protections-panel-body = زانیارییەکانت بپارێزە. { -brand-short-name } دەتپارێزێت لە زۆرێک لەو پەیگرانەی کە شوێنپێت هەڵ دەگرن لە سەرهێڵ.
-cfr-protections-panel-link-text = زیاتر بزانە
-
 ## What's New toolbar button and panel
 
 # This string is used by screen readers to offer a text based alternative for

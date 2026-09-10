@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Намоиш додан дар ҷӯянда
            *[other] Намоиш додан дар ҷузвдон
         }
-downloads-cmd-show-downloads =
-    .label = Намоиш додани ҷузвдони боргириҳо
 downloads-cmd-retry =
     .tooltiptext = Такрор кардан
 downloads-cmd-retry-panel =

@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = แท็บใหม่
-    .accesskey = w
 reload-tab =
     .label = โหลดแท็บใหม่
     .accesskey = ห
@@ -102,10 +99,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = กลุ่มใหม่
     .accesskey = ก
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -147,9 +140,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = สร้างลิงก์ที่แบ่งปันได้
     .accesskey = บ
-tab-context-send-tabs-to-device =
-    .label = ส่ง { $tabCount } แท็บไปยังอุปกรณ์
-    .accesskey = ส
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

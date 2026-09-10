@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = ہک ورقہ پچھو تے ونڄو ({ $shortcut })
     .aria-label = پچھو تے
+    .tooltiptext = ہک ورقہ پچھو تے ونڄو ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = ہک ورقہ اڳو تے ونڄو ({ $shortcut })
     .aria-label = اڳوں  تے
+    .tooltiptext = ہک ورقہ اڳو تے ونڄو ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = ورقہ بک مارک کرو …
-    .accesskey = m
     .tooltiptext = ورقہ  بک مارک کرو
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = ورقہ بک مارک کرو …
-    .accesskey = m
     .tooltiptext = ورقہ بک مارک کرو ({ $shortcut })
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = ایں نشانی وچ ترمیم کرو۔۔۔
-    .accesskey = m
     .tooltiptext = نشانی وچ ترمیم کرو
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = بک مارک ترمیم کرو…
-    .accesskey = m
     .tooltiptext = بک مارک ترمیم کرو ({ $shortcut })
+    .accesskey = m
 main-context-menu-open-link =
     .label = لنک کھولو
     .accesskey = O
@@ -145,9 +139,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = لنک ہتھیکڑا کرو بطور …
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = لنک { -pocket-brand-name } تے ہتھیکڑا کرو
-    .accesskey = o
 
 ##
 
@@ -276,40 +267,22 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = آڈیو ای میل کرو۔۔۔
     .accesskey = a
-main-context-menu-save-to-pocket =
-    .label = { -pocket-brand-name } تے ورقہ محفوظ کرو
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = ورقہ ڈیوائس تے بھیڄو
-    .accesskey = n
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = محفوظ لاگ ان استعمال کرو
-    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = محفوظ پاس ورڈ استعمال کرو
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } ای میل مسسک ورتو
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = تکڑا پاس ورڈ تجویز کرو…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = لاگ ان دا بندوبست کرو
-    .accesskey = M
 main-context-menu-manage-passwords =
     .label = پاس ورڈز دا بندوبست کرو
     .accesskey = M
-main-context-menu-keyword =
-    .label = ایں ڳول کیتے کی ورڈ دا ودھارا کرو …
-    .accesskey = K
 main-context-menu-link-send-to-device =
     .label = لنک ڈیوائس تے بھیڄو
     .accesskey = n
@@ -352,9 +325,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = سکرین شاٹ گھنو
     .accesskey = T
-main-context-menu-take-frame-screenshot =
-    .label = سکرین شاٹ گھنو
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = ورقے دا ماخذ ݙیکھو
     .accesskey = V

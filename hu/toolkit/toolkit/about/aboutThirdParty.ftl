@@ -31,11 +31,11 @@ third-party-tag-background = Háttér
         Ez a modul nem blokkolja az alkalmazást, mert a háttérben lett
         betöltve.
 third-party-icon-unsigned =
-    .title = Ez a modul nincs aláírva
     .alt = Ez a modul nincs aláírva
+    .title = Ez a modul nincs aláírva
 third-party-icon-warning =
-    .title = A { -brand-short-name } összeomlott a modul kódjában
     .alt = A { -brand-short-name } összeomlott a modul kódjában
+    .title = A { -brand-short-name } összeomlott a modul kódjában
 third-party-status-loaded = Betöltött
 third-party-status-blocked = Blokkolt
 third-party-status-redirected = Átirányított
@@ -47,28 +47,15 @@ third-party-button-reload = Újratöltés rendszer-információkkal
     .title = Újratöltés rendszer-információkkal
 third-party-button-open =
     .title = A fájl helyének megnyitása…
-third-party-button-to-block =
-    .title = Ezen modul blokkolása
-    .aria-label = Ezen modul blokkolása
-third-party-button-to-unblock =
-    .title = Jelenleg blokkolva. Kattintson a blokkolás feloldásához.
-    .aria-label = Jelenleg blokkolva. Kattintson a blokkolás feloldásához.
-third-party-button-to-unblock-disabled =
-    .title =
-        Jelenleg tiltottként van megjelölve, bár a tiltólista le van tiltva a { -brand-short-name }
-        jelenlegi futásánál. Kattintson a feloldásához.
-    .aria-label =
-        Jelenleg tiltottként van megjelölve, bár a tiltólista le van tiltva a { -brand-short-name }
-        jelenlegi futásánál. Kattintson a feloldásához.
 third-party-button-to-block-module = Ezen modul blokkolása
-    .title = Ezen modul blokkolása
     .aria-label = Ezen modul blokkolása
+    .title = Ezen modul blokkolása
 third-party-button-to-unblock-module = Ezen modul blokkolásának feloldása
-    .title = Jelenleg blokkolva. Kattintson a feloldásához
     .aria-label = Jelenleg blokkolva. Kattintson a feloldásához
+    .title = Jelenleg blokkolva. Kattintson a feloldásához
 third-party-button-to-unblock-module-disabled = Ezen modul blokkolásának feloldása (a tiltólista ki van kapcsolva)
-    .title = Jelenleg blokkoltnak van jelölve, de a tiltólista ki van kapcsolva ennél a { -brand-short-name } jelenlegi futásánál. Kattintson ide a feloldásához.
     .aria-label = Jelenleg blokkoltnak van jelölve, de a tiltólista ki van kapcsolva ennél a { -brand-short-name } jelenlegi futásánál. Kattintson ide a feloldásához.
+    .title = Jelenleg blokkoltnak van jelölve, de a tiltólista ki van kapcsolva ennél a { -brand-short-name } jelenlegi futásánál. Kattintson ide a feloldásához.
 third-party-button-expand =
     .title = Részletes információk megjelenítése
 third-party-button-collapse =
@@ -78,5 +65,5 @@ third-party-should-restart-title = A { -brand-short-name } újraindítása
 third-party-restart-now = Újraindítás most
 third-party-restart-later = Újraindítás később
 third-party-blocked-by-builtin =
-    .title = A { -brand-short-name } letiltotta
     .alt = A { -brand-short-name } letiltotta
+    .title = A { -brand-short-name } letiltotta

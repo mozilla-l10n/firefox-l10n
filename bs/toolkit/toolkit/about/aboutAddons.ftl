@@ -154,15 +154,10 @@ addon-sitepermission-host = Dozvole za web stranicu za { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Svi add-oni su onemogućeni od strane sigurnog režima.
-extensions-warning-check-compatibility = Provjera kompatibilnosti add-ona je onemogućena. Možda imate nekompatibilnih add-ona.
-extensions-warning-safe-mode2 =
-    .message = Svi add-oni su onemogućeni od strane sigurnog režima.
 extensions-warning-check-compatibility2 =
     .message = Provjera kompatibilnosti add-ona je onemogućena. Možda imate nekompatibilnih add-ona.
 extensions-warning-check-compatibility-button = Omogući
     .title = Omogući provjeravanje kompatibilnosti add-ona
-extensions-warning-update-security = Sigurnosna provjera nadogradnje za add-one je onemogućena. Možete biti kompromitovani putem nadogradnje.
 extensions-warning-update-security2 =
     .message = Sigurnosna provjera nadogradnje za add-one je onemogućena. Možete biti kompromitovani putem nadogradnje.
 extensions-warning-update-security-button = Omogući
@@ -236,10 +231,6 @@ shortcuts-duplicate = Duplikat prečice
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } se koristi kao prečica u više od jednog slučaja. Duplikatne prečice mogu uzrokovati neočekivano ponašanje.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } se koristi kao prečica u više od jednog slučaja. Duplikatne prečice mogu uzrokovati neočekivano ponašanje.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -260,17 +251,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Ekstenzije i teme su poput aplikacija za vaš preglednik i omogućavaju vam da
-    zaštitite lozinke, preuzmete videozapise, pronađete ponude, blokirate dosadne oglase, promijenite
-    izgled vašeg preglednika i još mnogo toga. Ove male softverske programe
-    često razvija treća strana. Evo izbora { -brand-product-name }
-    <a data-l10n-name="learn-more-trigger">preporuka</a> za izuzetnu
-    sigurnost, performanse i funkcionalnost.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Neke od ovih preporuka su personalizirane. Zasnovane su na drugim ekstenzijama koje ste instalirali, postavkama profila i statistikama korištenja.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message = Neke od ovih preporuka su personalizirane. Zasnovane su na drugim ekstenzijama koje ste instalirali, postavkama profila i statistikama korištenja.
@@ -355,16 +335,9 @@ addon-detail-last-updated-label = Posljednje ažuriranje
 addon-detail-homepage-label = Početna stranica
 addon-detail-rating-label = Ocjena
 # Message for add-ons with a staged pending update.
-install-postponed-message = Ova ekstenzija će biti ažurirana kada se { -brand-short-name } ponovo pokrene.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Ova ekstenzija će biti ažurirana kada se { -brand-short-name } ponovo pokrene.
 install-postponed-button = Ažuriraj odmah
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Ocjena { NUMBER($rating, maximumFractionDigits: 1) } od 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -383,9 +356,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = Dodatak <span data-l10n-name="addon-name">{ $addon }</span> je uklonjen.
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = Dodatak { $addon } je uklonjen.
 pending-uninstall-undo-button = Poništi
@@ -402,11 +372,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Dozvoljeno u privatnim prozorima
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Dozvoljeno u privatnim prozorima
 addon-detail-private-browsing-help = Kada je dozvoljeno, ekstenzija će imati pristup vašim online aktivnostima tokom privatnog pregledavanja. <a data-l10n-name="learn-more">Saznajte više</a>
 addon-detail-private-browsing-allow = Dozvoli
@@ -433,17 +398,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } preporučuje samo ekstenzije koje ispunjavaju naše standarde sigurnosti i performansi
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Zvanična ekstenzija koju je izradila Mozilla. Ispunjava standarde sigurnosti i performansi
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Ova ekstenzija je pregledana kako bi ispunila naše standarde sigurnosti i performansi
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -470,9 +424,6 @@ recent-updates-heading = Nedavna ažuriranja
 release-notes-loading = Učitavanje…
 release-notes-error = Oprostite, ali došlo je do greške prilikom učitavanja napomena o izdanju.
 addon-permissions-empty2 = Ova ekstenzija ne zahtijeva nikakva odobrenja.
-addon-permissions-empty = Ova ekstenzija ne zahtijeva nikakva odobrenja
-addon-permissions-required = Potrebne dozvole za osnovnu funkcionalnost:
-addon-permissions-optional = Opcionalne dozvole za dodatne funkcionalnosti:
 addon-permissions-learnmore = Saznajte više o dozvolama
 recommended-extensions-heading = Preporučene ekstenzije
 recommended-themes-heading = Preporučene teme
@@ -509,39 +460,18 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } je nekompatibilan sa { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } je nekompatibilan sa { -brand-short-name } { $version }.
-details-notification-incompatible-link = Više informacija
-details-notification-unsigned-and-disabled = { $name } nije mogao biti verifikovan za rad u { -brand-short-name } te je onemogućen.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } nije mogao biti verifikovan za rad u { -brand-short-name } te je onemogućen.
-details-notification-unsigned-and-disabled-link = Više informacija
-details-notification-unsigned = { $name } nije mogao biti verifikovan za rad u { -brand-short-name }. Nastavite s oprezom.
 details-notification-unsigned2 =
     .message = { $name } nije mogao biti verifikovan za rad u { -brand-short-name }. Nastavite s oprezom.
 details-notification-hard-blocked-extension =
     .message = Ova ekstenzija je blokirana zbog kršenja Mozilla pravila i onemogućena je.
 details-notification-hard-blocked-other =
     .message = Ovaj dodatak je blokiran zbog kršenja Mozillinih pravila i onemogućen je.
-details-notification-unsigned-link = Više informacija
-details-notification-blocked = { $name } je onemogućen pošto uzrokuje probleme vezane za sigurnost i stabilnost.
 details-notification-blocked-link2 = Pogledajte detalje
-details-notification-soft-blocked-extension-disabled =
-    .message = Ova ekstenzija je ograničena zbog kršenja Mozilla pravila i onemogućena je. Možete je omogućiti, ali ovo može biti rizično.
-details-notification-soft-blocked-extension-enabled =
-    .message = Ova ekstenzija krši Mozillinu politiku. Upotreba može biti rizična.
-details-notification-soft-blocked-other-disabled =
-    .message = Ovaj dodatak je ograničen zbog kršenja Mozillinih pravila i onemogućen je. Možete ga omogućiti, ali to može biti rizično.
-details-notification-soft-blocked-other-enabled =
-    .message = Ovaj dodatak krši Mozilline politike. Njegovo korištenje može biti rizično.
 details-notification-softblocked-link2 = Pogledajte detalje
-details-notification-blocked-link = Više informacija
-details-notification-softblocked = { $name } je poznat po tome što uzrokuje probleme vezane za stabilnost ili sigurnost.
-details-notification-softblocked-link = Više informacija
-details-notification-gmp-pending = { $name } će ubrzo biti instaliran.
 details-notification-gmp-pending2 =
     .message = { $name } će ubrzo biti instaliran.
 
@@ -557,8 +487,6 @@ plugins-widevine-description = Ovaj dodatak omogućava reprodukciju šifrovanih 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Potrebno prikupljanje podataka:
-addon-permissions-optional-data-collection = Opcionalno prikupljanje podataka:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Dozvole i podaci
 # This is a description for extension that use this AI model

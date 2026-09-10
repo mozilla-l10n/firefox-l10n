@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxviewtabrow-open-menu-button =
-    .title = Deschide meniul
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
@@ -24,10 +22,6 @@ fxviewtabrow-dismiss-tab-button =
     .title = Respinge { $tabTitle }
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Adineauri
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-delete = Șterge
     .accesskey = D
 fxviewtabrow-forget-about-this-site = Uită site-ul...
@@ -57,8 +51,6 @@ fxviewtabrow-send-to-device = Trimite către un dispozitiv
     .accesskey = n
 fxviewtabrow-send-to-mobile = Trimite pe mobil
     .accesskey = n
-fxviewtabrow-send-tab = Trimite fila către dispozitiv
-    .accesskey = n
 fxviewtabrow-pin-tab = Fixează fila
     .accesskey = P
 fxviewtabrow-unpin-tab = Anulează fixarea filei
@@ -82,8 +74,5 @@ fxviewtabrow-send-to-mobile-connect-device = Conectează un dispozitiv ca să tr
 fxviewtabrow-send-to-mobile-device-missing2 = Nu vezi dispozitivul?
 fxviewtabrow-send-to-mobile-not-verified = Cont neverificat
 fxviewtabrow-send-to-mobile-verify-account = Verifică-ți contul
-
-## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
-
 fxviewtabrow-send-to-mobile-sign-in = Intră în cont ca să trimiți file
 fxviewtabrow-send-to-mobile-turn-on-sync = Activează sincronizarea ca să trimiți file

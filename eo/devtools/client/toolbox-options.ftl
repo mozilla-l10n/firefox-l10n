@@ -188,8 +188,6 @@ options-disable-http-cache-tooltip =
     .title = Ŝalto de tiu ĉi elekteblo malaktivigos la stokejon de HTTP por ĉiuj langetoj, kiuj havas la ilujon malfermita. Tio ne koncernas la Service Workers.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label-2 = Malŝalti JavaScript
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Malŝalti JavaScript *
 options-disable-javascript-tooltip =
     .title = Ŝalto de tiu elekteblo malaktivigos JavaScript en la nuna langeto. Se la langeton aŭ la ilujon oni fermas, tiu agordo estos forgesita.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -219,8 +217,6 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = (por tiu ĉi seanco, tio ĉi reŝargas la paĝon)
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Nur en la nuna seanco, tio reŝargas la paĝon
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (tio ĉi reŝargas la paĝon)

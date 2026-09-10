@@ -22,11 +22,6 @@ sidebar-history-delete =
 sidebar-history-sort-option-date =
     .label = తేదీ
 
-## Labels for sidebar customize panel
-
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name } పనిముట్లు
-
 ## Labels for sidebar context menu items
 
 sidebar-context-menu-open-in-window =

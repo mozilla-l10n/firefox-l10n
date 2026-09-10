@@ -59,14 +59,3 @@ move-to-end =
 move-to-new-window =
     .label = Dusiki' 'ngo Bendâna
     .accesskey = B
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Ga'ni' rakïj ñaj ga'an riña aga'
-           *[other] Ga'ni' { $tabCount } Rakïj ñaj riña aga'
-        }
-    .accesskey = n

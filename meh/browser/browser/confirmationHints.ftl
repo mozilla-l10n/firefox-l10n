@@ -5,7 +5,4 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Nchu'un íchi. ¡Kuta'vi!
-confirmation-hint-login-removed = ¡Nuu kajie'e sesiòn nxita!
-confirmation-hint-password-saved = ¡Nchuva'a contraseña!
 confirmation-hint-send-to-device = Nchuíchí!

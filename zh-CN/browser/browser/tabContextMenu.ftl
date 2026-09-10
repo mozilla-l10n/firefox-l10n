@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = 新建标签页
-    .accesskey = w
 reload-tab =
     .label = 刷新标签页
     .accesskey = R
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = 新建标签页群组
     .accesskey = G
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -198,13 +191,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = 创建分享链接
     .accesskey = a
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [1] 发送标签页至设备
-           *[other] 发送 { $tabCount } 个标签页至设备
-        }
-    .accesskey = n
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

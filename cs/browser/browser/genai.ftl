@@ -51,11 +51,6 @@ genai-prompt-prefix-selection = Jsem na stránce “{ $tabTitle }” s označen�
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Zeptat se AI chatbota
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Zeptat se { $provider }
 genai-menu-open-generic =
     .label = Otevřít AI chatbota
 # $provider (string) - name of the provider
@@ -128,8 +123,6 @@ genai-header-provider-menu =
     .title = Vyberte si chatbota
 genai-header-settings-button =
     .title = Nastavení AI chatu
-genai-header-options-button =
-    .title = Otevřít nabídku
 genai-header-close-button =
     .title = Zavřít
 genai-provider-view-details =
@@ -161,17 +154,10 @@ genai-page-button-summarize = Shrnutí stránky
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Shrnutí, brainstorming a mnohem více při procházení webu
 genai-onboarding-choose-header =
     { -brand-short-name.case-status ->
         [with-cases] Vyberte chatbota s umělou inteligencí, kterého chcete použít v postranní liště { -brand-short-name(case: "gen") }
        *[no-cases] Vyberte chatbota s umělou inteligencí, kterého chcete použít v postranní liště aplikace { -brand-short-name }
-    }
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description =
-    { -brand-short-name.case-status ->
-        [with-cases] Zvolte AI chatbota, kterého chcete používat v postranní liště { -brand-short-name(case: "gen") }. Podrobnosti o každém chatbotovi zobrazíte po jeho výběru. Změnit chatbota můžete kdykoliv. <a data-l10n-name="learn-more">Dozvědět se více</a>
-       *[no-cases] Zvolte AI chatbota, kterého chcete používat v postranní liště aplikace { -brand-short-name }. Podrobnosti o každém chatbotovi zobrazíte po jeho výběru. Změnit chatbota můžete kdykoliv. <a data-l10n-name="learn-more">Dozvědět se více</a>
     }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Přepnutí je možné kdykoliv. Pro pomoc s výběrem si <a data-l10n-name="learn-more">přečtěte více o jednotlivých chatbotech</a>.
@@ -179,27 +165,18 @@ genai-onboarding-primary = Pokračovat
 genai-onboarding-secondary = Zavřít
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Zjistit více o Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Zjistit více o ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Další informace o Copilotu
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Zjistit více o Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = Zjistit více o HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Zjistit více o Le Chat
-genai-onboarding-select-header = Výběrem textu zobrazíte návrhy
-genai-onboarding-select-description = Když vyberete text, nabídneme vám vstupy, které můžete chatbotovi odeslat. Můžete také napsat své vlastní vstupy.
-genai-onboarding-select-primary = Začněte chatovat
 genai-chatbot-contextual-title = Používejte AI chatbota bez přepínání panelů
 genai-chatbot-contextual-subtitle =
     { -brand-short-name.case-status ->
@@ -220,27 +197,6 @@ genai-chatbot-summarize-footer-generic-subtitle =
         [with-cases] Přidejte si AI chatbota do postranní lišty { -brand-short-name(case: "gen") } a nechte si rychle zobrazit shrnutí stránek.
        *[no-cases] Přidejte si AI chatbota do postranní lišty aplikace { -brand-short-name } a nechte si rychle zobrazit shrnutí stránek.
     }
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Generování textu a kódu
-genai-onboarding-claude-analyze = Analýza dokumentů a obrázků
-genai-onboarding-claude-price = Bezplatné a placené možnosti; je vyžadován účet
-genai-onboarding-chatgpt-generate = Generování textu, obrázků a kódu
-genai-onboarding-chatgpt-analyze = Analýza dokumentů a obrázků
-genai-onboarding-chatgpt-price = Bezplatné a placené možnosti; pro některé země a úkoly je vyžadován účet
-genai-onboarding-copilot-generate = Generování textu, obrázků a kódu
-genai-onboarding-copilot-analyze = Analýza obrázků
-genai-onboarding-copilot-price = Bezplatné a placené možnosti; pro některé úlohy je vyžadován účet
-genai-onboarding-gemini-generate = Generování textu, obrázků a kódu
-genai-onboarding-gemini-analyze = Analýza obrázků (zdarma) a dokumentů (placené)
-genai-onboarding-gemini-price = Bezplatné a placené možnosti; je vyžadován účet
-genai-onboarding-huggingchat-generate = Generování textu a kódu
-genai-onboarding-huggingchat-switch = Přepínejte mezi rozmanitou sadou otevřených modelů
-genai-onboarding-huggingchat-price-2 = Zdarma; po určitém počtu požadavků je vyžadován účet
-genai-onboarding-lechat-generate = Generování textu a kódu
-genai-onboarding-lechat-price = Zdarma; je vyžadován účet
 
 ## Model Optin Component
 
@@ -281,8 +237,8 @@ link-preview-generation-retry = Zkusit znovu
 link-preview-settings-button =
     .title = Nastavení náhledu odkazů
 link-preview-settings-enable =
-    .label = Povolit náhledy odkazů
     .description = Při použití zkratky nebo klepnutí pravým tlačítkem myši na odkaz se zobrazí název stránky, její popis a další informace.
+    .label = Povolit náhledy odkazů
 link-preview-settings-key-points =
     .label = Povolit umělé inteligenci přečíst začátek stránky a vygenerovat výčet hlavních myšlenek
 link-preview-settings-long-press =

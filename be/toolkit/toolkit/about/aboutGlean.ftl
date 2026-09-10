@@ -53,7 +53,6 @@ about-glean-additional-links =
     Для тлумачэння розных спосабаў запісу і пошуку
     дадзеных, калі ласка, звярніцеся да
     карткі <strong>Пра звесткі</strong>.
-about-glean-about-testing-header = Пра тэставанне
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     Поўныя інструкцыі выкладзеныя ў
@@ -62,8 +61,6 @@ about-glean-manual-testing =
     але, карацей кажучы, каб уручную праверыць, ці працуе ваш інструментарый:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (не адпраўляць пінг)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Упэўніцеся, што ў папярэднім полі ёсць запамінальны тэг адладкі, каб пазней вы маглі распазнаваць свае пінгі.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Усталюйце запамінальны тэг адладкі <span>(20 сімвалаў ці менш, толькі літары, лічбы і -)</span>, каб вы маглі пазней распазнаваць свае пінгі.
 # An in-line drop down list precedes this string.
@@ -90,13 +87,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Наведайце старонку { glean-debug-ping-viewer-brand-name } для пінгаў з вашым тэгам</a>.
     Ад націскання кнопкі да атрымання вашага пінга не павінна прайсці больш за некалькі секунд.
     Часам гэта можа заняць некалькі хвілін.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    Для дадатковага <i>ad hoc</i> тэставання,
-    вы таксама можаце вызначыць бягучае значэнне пэўнай часткі інструментарыю
-    адкрыўшы кансоль devtools тут на <code>about:glean</code>
-    і скарыстаўшы API <code>testGetValue()</code>, напрыклад
-    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     Для дадатковага <i>ad hoc</i> тэставання,
@@ -202,9 +192,6 @@ about-glean-no-data-to-display = Няма дадзеных для адлюстр
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Паказчыкі <code>DualLabeledCounter</code> пакуль не падтрымліваюцца ў праглядзе  <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Невядомы тып паказчыка.
-about-glean-about-data-explanation =
-    Каб прагледзець спіс сабраных звестак, звярніцеся да
-    <a data-l10n-name="glean-dictionary-link">Слоўніка { -glean-brand-name }</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

@@ -204,11 +204,6 @@ addon-detail-group-label-updates =
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
     .title = هشتن من نیمدری یل سیخومی
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
-    .title = هشتن من نیمدری یل سیخومی
 addon-detail-private-browsing-allow = هشتن
 addon-detail-private-browsing-disallow = نشتن
 # aria-label associated to the private browsing row to help screen readers to announce the group
@@ -249,25 +244,14 @@ addons-heading-search-input =
 ## Variables:
 ##   $name (string) - Name of the add-on.
 
-details-notification-incompatible-link = دووسمندیا قلوه
-details-notification-unsigned-and-disabled-link = دووسمندیا قلوه
 details-notification-hard-blocked-extension =
     .message = ای وردنی سی دل زؽر پا ناهاڌن خت مشیا Mozilla مسدۊد ۉ قیر فعال وابیڌه.
-details-notification-unsigned-link = دووسمندیا قلوه
 details-notification-blocked-link2 = نیشتن جۊزعیات
 details-notification-soft-blocked-extension-disabled2 =
     .message = ای وردنی مئدۊد وو قیر فعال وابیڌه. ترین هونه فعال کۊنین ٱما گاشڌ ای کار خترناک بۊ.
 details-notification-soft-blocked-extension-enabled2 =
     .message = ای وردنی مئدۊد وابیڌه. و کار گرؽڌنس گاشڌ خترناک بۊ.
-details-notification-soft-blocked-extension-disabled =
-    .message = ای وردنی سی دل زؽر پا ناهاڌن خت مشیا Mozilla مسدۊد وو قیر فعال وابیڌه. ترین فعالس کۊنین ٱما یو گاشڌ خترناک بۊ.
-details-notification-soft-blocked-extension-enabled =
-    .message = ای وردنی وا سیاستا Mozilla نؽسازه. و کار گرؽڌنس گاشڌ خترناک بۊ.
-details-notification-soft-blocked-other-enabled =
-    .message = ای وردنی وا سیاستا Mozilla نؽسازه. و کار گرؽڌنس گاشڌ خترناک بۊ.
 details-notification-softblocked-link2 = نیشتن جۊزعیات
-details-notification-blocked-link = دووسمندیا قلوه
-details-notification-softblocked-link = دووسمندیا قلوه
 
 ## Gecko Media Plugins (GMPs)
 
@@ -277,8 +261,6 @@ plugins-gmp-privacy-info = دووسمندیا هریم سیخومی
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = کتن کردن داده یل خاستنی:
-addon-permissions-optional-data-collection = کتن کردن داده یل اختیاری:
 addon-permissions-data-collection-heading = کتن کردن داده یل
 addon-permissions-data-collection-empty = برنومه نویس اگو ای وردنی لنگ کتن کردن داده یل نؽ.
 addon-data-collection-learnmore = زبار کتن کردن داده یل قلوه دووسته بۊین

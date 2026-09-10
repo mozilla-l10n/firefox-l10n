@@ -28,9 +28,6 @@ about-webrtc-type-local = Llocal
 ##
 
 about-webrtc-save-page-label = Guardar la páxina
-about-webrtc-debug-mode-off-state-label = Aniciar el mou de depuración
-about-webrtc-debug-mode-on-state-label = Parar el mou de depuración
-about-webrtc-stats-heading = Estadístiques de la sesión
 about-webrtc-stats-clear = Llimpiar l'historial
 about-webrtc-log-heading = Rexistru de conexones
 about-webrtc-log-clear = Llimpiar el rexistru

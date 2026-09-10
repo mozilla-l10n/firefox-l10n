@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = یەک پەڕە بچۆ دواوە ({ $shortcut })
     .aria-label = دواوە
+    .tooltiptext = یەک پەڕە بچۆ دواوە ({ $shortcut })
     .accesskey = و
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = یەک پەڕە بچۆ پێشتر ({ $shortcut })
     .aria-label = پێشتر
+    .tooltiptext = یەک پەڕە بچۆ پێشتر ({ $shortcut })
     .accesskey = پ
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -98,9 +98,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = بەستەر پاشەکەوت بکە وەک...
     .accesskey = ش
-main-context-menu-save-link-to-pocket =
-    .label = پاشەکەوتی بەستەر لە { -pocket-brand-name }
-    .accesskey = س
 
 ##
 
@@ -202,18 +199,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = ناردنی دەنگ...
     .accesskey = ن
-main-context-menu-save-to-pocket =
-    .label = پەڕە پاشەکەوت بکە لە { -pocket-brand-name }
-    .accesskey = ک
-main-context-menu-send-to-device =
-    .label = ناردنی پەڕە بۆ ئامێر
-    .accesskey = ڕ
 
 ##
 
-main-context-menu-keyword =
-    .label = کلیلە وشە زیادبکە بۆ ئەم گەڕانە...
-    .accesskey = ک
 main-context-menu-link-send-to-device =
     .label = ناردنی بەستەر بۆ ئامێر
     .accesskey = ن

@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Tab Newydd
-    .accesskey = T
 reload-tab =
     .label = Ail lwytho Tab
     .accesskey = A
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Grŵp Newydd
     .accesskey = G
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -233,17 +226,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Creu Dolen i'w Rhannu
     .accesskey = R
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [zero] Anfon Tab i Ddyfais
-            [one] Anfon { $tabCount } Tab i Ddyfais
-            [two] Anfon { $tabCount } Dab i Ddyfais
-            [few] Anfon { $tabCount } Thab i Ddyfais
-            [many] Anfon { $tabCount } Tab i Ddyfais
-           *[other] Anfon { $tabCount } Thab i Ddyfais
-        }
-    .accesskey = n
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

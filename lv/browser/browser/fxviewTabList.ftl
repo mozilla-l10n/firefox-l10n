@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxviewtabrow-open-menu-button =
-    .title = Atvērt izvēlni
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
@@ -49,8 +47,6 @@ fxviewtabrow-move-tab-end = Pārvietot uz beigām
     .accesskey = b
 fxviewtabrow-move-tab-window = Pārvietot uz jaunu logu
     .accesskey = l
-fxviewtabrow-send-tab = Sūtīt cilni uz ierīci
-    .accesskey = S
 fxviewtabrow-pin-tab = Piespraust cilni
     .accesskey = P
 fxviewtabrow-unpin-tab = Atspraust cilni

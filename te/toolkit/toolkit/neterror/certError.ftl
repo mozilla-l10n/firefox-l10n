@@ -12,7 +12,6 @@ cert-error-trust-untrusted-issuer = ఈ ధ్రువపత్రాన్న�
 cert-error-trust-signature-algorithm-disabled = సురక్షితం కాని అచేతనం చేయబడిన అల్గార్దెమ్ ఉపయోగించి సంతకం చేయుట వలన ఆ ధృవీకరణపత్రం నమ్మదగినది కాదు.
 cert-error-trust-expired-issuer = ఆ ధృవీకరణపత్రం నమ్మలేము ఎంచేతంటే ఇచ్చినవాని ధృవీకరణపత్రం కాలముతీరినది.
 cert-error-trust-self-signed = ఆ ధృవీకరణపత్రం నమ్మలేము ఎంచేతంటే తనుకుతానై సంతకంచేసివుంది.
-cert-error-trust-symantec = జియోట్రస్ట్, రాపిడ్SSL, సిమాంటెక్, థావ్టే, వెరిసైన్‌లు జారీ చేసిన ధృవపత్రాలు ఇకపై సురక్షితమైనవిగా పరిగణించబడవు ఎందుకంటే ఈ సర్టిఫికేట్ అధికారులు గతంలో భద్రతా పద్ధతులను అనుసరించడంలో విఫలమయ్యారు.
 cert-error-untrusted-default = ఆ ధృవీకరణపత్రం  నమ్మకమైన మూలంనుండి రాలేదు.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -43,7 +42,6 @@ cert-error-code-prefix = దోష సంకేతం: { $error }
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = దోష సంకేతం: <a data-l10n-name="error-code-link">{ $error }</a>
-cert-error-symantec-distrust-admin = ఈ సమస్య గురించి మీరు వెబ్‌సైట్ నిర్వాహకులకు తెలియజేయవచ్చు.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP స్క్రిప్ట్ ట్రాన్స్‌పోర్ట్ సెక్యూరిటి: { $hasHSTS }
@@ -51,7 +49,6 @@ cert-error-details-hsts-label = HTTP స్క్రిప్ట్ ట్రా
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP పబ్లిక్ కీ పిన్నింగ్: { $hasHPKP }
 cert-error-details-cert-chain-label = ధృవీకరణపత్రం చైన్:
-open-in-new-window-for-csp-or-xfo-error = సైటును కొత్త కిటికీలో తెరువు
 
 ## Messages used for certificate error titles
 
@@ -81,7 +78,6 @@ redirectLoop-title = పేజీ సరిగా దారిమళ్ళిం
 unknownSocketType-title = సేవిక నుండి అనుకోని స్పందన
 nssFailure2-title = సురక్షిత అనుసంధానం విఫలమైంది
 csp-xfo-error-title = { -brand-short-name } ఈ పేజీని తెరవలేకుంది
-corruptedContentError-title = పాడైన విషయ దోషం
 sslv3Used-title = సురక్షితంగా అనుసంధానం కాలేకున్నాము
 inadequateSecurityError-title = మీ అనుసంధానం సురక్షితమైనది కాదు
 blockedByPolicy-title = నిరోధించిన పేజీ

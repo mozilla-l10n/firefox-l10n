@@ -24,7 +24,6 @@ app-basics-profile-dir =
         [linux] Sutichasqataqi  allchaykuna.
        *[other] Hanparataqi imakaq
     }
-app-basics-enabled-plugins = Chaykama kichasqakuna
 app-basics-build-config = Siqinchaykunapa llikachasqapi qispichiynin
 app-basics-user-agent = Llankaq haykuq
 app-basics-os = OS nisqa

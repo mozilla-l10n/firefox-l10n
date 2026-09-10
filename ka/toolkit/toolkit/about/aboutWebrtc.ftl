@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = დაიფარო�
 about-webrtc-aec-logging-msg-label = AEC-აღრიცხვა
 about-webrtc-aec-logging-off-state-label = AEC-აღრიცხვის დაწყება
 about-webrtc-aec-logging-on-state-label = AEC-აღრიცხვის შეჩერება
-about-webrtc-aec-logging-on-state-msg = AEC-აღრიცხვა ამოქმედებულია (ელაპარაკეთ აბონენტს რამდენიმე წუთით და შემდეგ შეწყვიტეთ ჩაწერა)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC-აღრიცხვა ამოქმედებულია (ელაპარაკეთ აბონენტს რამდენიმე წუთით და შემდეგ შეწყვიტეთ ჩაწერა)
 about-webrtc-aec-logging-unavailable-sandbox = AEC-ჩანაწერების გამოსატანად საჭიროა გარემოს ცვლადი MOZ_DISABLE_CONTENT_SANDBOX=1. მიუთითეთ ეს ცვლადი მხოლოდ იმ შემთხვევაში, თუ აცნობიერებთ შესაძლო საფრთხეებს.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = ნომინირებული
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = არჩეული
 about-webrtc-save-page-label = გვერდის შენახვა
-about-webrtc-debug-mode-msg-label = გამართვის რეჟიმი
-about-webrtc-debug-mode-off-state-label = გამართვის რეჟიმის დაწყება
-about-webrtc-debug-mode-on-state-label = გამართვის რეჟიმის შეჩერება
-about-webrtc-stats-heading = სეანსის სტატისტიკა
 about-webrtc-enable-logging-label = WebRTC-აღრიცხვის მზა პარამეტრების ჩართვა
 about-webrtc-peerconnections-section-heading = RTCPeerConnection-აღრიცხვები
 about-webrtc-peerconnections-section-show-msg = გამოჩნდეს RTCPeerConnection-აღრიცხვები
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = დაიმალოს RTCPeer
 about-webrtc-stats-clear = ისტორიის გასუფთავება
 about-webrtc-log-heading = კავშირის ჩანაწერები
 about-webrtc-log-clear = აღრიცხული ჩანაწერების გასუფთავება
-about-webrtc-log-show-msg = ჩანაწერების ჩვენება
-    .title = დააწკაპეთ, ამ განყოფილების გასაშლელად
-about-webrtc-log-hide-msg = ჩანაწერების დამალვა
-    .title = დააწკაპეთ, ამ განყოფილების ასაკეცად
 about-webrtc-log-section-show-msg = ჩანაწერების ჩვენება
     .title = დააწკაპეთ, ამ განყოფილების გასაშლელად
 about-webrtc-log-section-hide-msg = ჩანაწერების დამალვა
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = დისტანციური კანდ�
 about-webrtc-raw-candidates-heading = ყველა ნედლი კანდიდატი
 about-webrtc-raw-local-candidate = ლოკალური ნედლი კანდიდატი
 about-webrtc-raw-remote-candidate = დისტანციური ნედლი კანდიდატი
-about-webrtc-raw-cand-show-msg = ნედლი კანდიდატების ჩვენება
-    .title = დააწკაპეთ, ამ განყოფილების გასაშლელად
-about-webrtc-raw-cand-hide-msg = ნედლი კანდიდატების დამალვა
-    .title = დააწკაპეთ, ამ განყოფილების ასაკეცად
 about-webrtc-raw-cand-section-show-msg = ნედლი კანდიდატების ჩვენება
     .title = დააწკაპეთ, ამ განყოფილების გასაშლელად
 about-webrtc-raw-cand-section-hide-msg = ნედლი კანდიდატების დამალვა
     .title = დააწკაპეთ, ამ განყოფილების ასაკეცად
 about-webrtc-priority = პრიორიტეტი
-about-webrtc-fold-show-msg = ვრცლად ჩვენება
-    .title = დააწკაპეთ, ამ განყოფილების გასაშლელად
-about-webrtc-fold-hide-msg = შემოკლებულად ჩვენება
-    .title = დააწკაპეთ, ამ განყოფილების ასაკეცად
 about-webrtc-fold-default-show-msg = ვრცლად ჩვენება
     .title = დააწკაპეთ, ამ განყოფილების გასაშლელად
 about-webrtc-fold-default-hide-msg = შემოკლებულად ჩვენება
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = მოწოდებული
 # been provided
 about-webrtc-configuration-element-not-provided = არაა მოწოდებული
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = მომხმარებლის მითითებული WebRTC-პარამეტრები
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = მომხმარებლის მიერ შეცვლილი WebRTC-გამართვა
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT, მწმ
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = ვიდეოკადრების სტატისტიკა - MediaStreamTrack ID: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = გვერდი შეინახა აქ: { $path }
-about-webrtc-debug-mode-off-state-msg = კვალის აღრიცხვის ნახვა შეგიძლიათ აქ: { $path }
-about-webrtc-debug-mode-on-state-msg = გამართვის რეჟიმი ამოქმედებულია, აღრიცხვის მდებარეობა: { $path }
-about-webrtc-aec-logging-off-state-msg = ჩაწერის აღრიცხვის ფაილების მდებარეობა: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

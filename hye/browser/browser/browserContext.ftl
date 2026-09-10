@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Գնալ նախորդ Էջ ({ $shortcut })
     .aria-label = Նախորդը
+    .tooltiptext = Գնալ նախորդ Էջ ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Գնալ յաջորդ Էջ ({ $shortcut })
     .aria-label = Փոխանցել
+    .tooltiptext = Գնալ յաջորդ Էջ ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Save Page
 
 main-context-menu-page-save =
@@ -104,9 +98,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = Պահպանել յղումը որպէս…
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = Պահպանել յղումը { -pocket-brand-name }-ում
-    .accesskey = o
 
 ##
 
@@ -239,34 +230,16 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Ձայնագրութիւնն ուղարկել ել֊փոստով
     .accesskey = a
-main-context-menu-save-to-pocket =
-    .label = Պահպանել էջը { -pocket-brand-name }֊ում
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Ուղարկել էջը սարքին
-    .accesskey = n
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Աւգտագործել պահպանուած մուտքանունը
-    .accesskey = Ա
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Աւգտագործել պահպանուած գաղտնաբառը
     .accesskey = Ա
-
-##
-
 main-context-menu-suggest-strong-password =
     .label = Առաջարկել անվտանգ գաղտնաբառ…
     .accesskey = Ա
-main-context-menu-manage-logins2 =
-    .label = Կառաւարել մուտքերը
-    .accesskey = Կ
-main-context-menu-keyword =
-    .label = Որոնմանն աւելացնել բանալի բառ…
-    .accesskey = K
 main-context-menu-link-send-to-device =
     .label = Ուղարկել յղումը սարքին
     .accesskey = n
@@ -302,9 +275,6 @@ main-context-menu-view-selection-source =
     .accesskey = ն
 main-context-menu-take-screenshot =
     .label = Ստանալ եկրանի պատկերը
-    .accesskey = Ս
-main-context-menu-take-frame-screenshot =
-    .label = Եկրանահանում
     .accesskey = Ս
 main-context-menu-view-page-source =
     .label = Դիտել էջի սկզբնաղբիւրը

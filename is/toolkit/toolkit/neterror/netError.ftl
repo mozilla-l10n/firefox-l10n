@@ -24,17 +24,13 @@ neterror-override-exception-button = Samþykkja áhættuna og halda áfram
 neterror-pref-reset-button = Endurheimta sjálfgefnar stillingar
 neterror-return-to-previous-page-button = Til baka
 neterror-return-to-previous-page-recommended-button = Fara til baka (ráðlagt)
-neterror-try-again-button = Reyna aftur
 neterror-add-exception-button = Alltaf halda áfram fyrir þetta vefsvæði
 neterror-settings-button = Breyta DNS-stillingum
 neterror-view-certificate-link = Skoða skilríki
-neterror-trr-continue-this-time = Halda áfram að þessu sinni
-neterror-disable-native-feedback-warning = Halda alltaf áfram
 
 ##
 
 neterror-pref-reset = Svo virðist sem netöryggisstillingar gætu valdið þessu. Viltu endurheimta sjálfgefnar stillingar?
-neterror-error-reporting-automatic = Tilkynntu villur eins og þessa til að hjálpa { -vendor-short-name } að bera kennsl á og loka á hættuleg vefsvæði
 
 ## Specific error messages
 
@@ -59,25 +55,15 @@ neterror-dns-not-found-hint-firewall = Athugað hvort { -brand-short-name } hafi
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } getur ekki verndað beiðni þína um vistfang þessarar síðu í gegnum treysta DNS-leysara okkar. Hér er ástæðan:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } getur ekki verndað beiðni þína um vistfang þessarar síðu í gegnum örugga DNS-þjónustu okkar. Hér er ástæðan:
 neterror-dns-not-found-trr-third-party-warning2 = Þú getur haldið áfram með sjálfgefna DNS-leysarann þinn. Hins vegar gæti utanaðkomandi aðili getað séð hvaða vefsvæði þú skoðar.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } gat ekki tengst { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Tengingin við { $trrDomain } tók lengri tíma en búist var við.
-neterror-dns-not-found-trr-offline = Þú ert ekki tengd/ur við internetið.
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } fann ekki þetta vefsvæði .
 neterror-dns-not-found-trr-server-problem = Það kom upp vandamál með { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = Ógild slóð (URL).
 neterror-dns-not-found-system-sleep = Kerfið er í svefnham.
 neterror-dns-not-found-trr-unknown-problem = Óvænt vandamál.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } getur ekki verndað beiðni þína um vistfang þessarar síðu í gegnum treysta DNS-leysara okkar. Hér er ástæðan:
-neterror-dns-not-found-native-fallback-heuristic = DNS í gegnum HTTPS hefur verið gert óvirkt á netkerfinu þínu.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } gat ekki tengst { $trrDomain }.
 
 ##
 
@@ -86,8 +72,6 @@ neterror-file-not-found-moved = Athugaðu hvort skráin hefur verið færð, end
 neterror-access-denied = Vera má að skráin hafi verið fjarlægð, færð til eða réttindi leyfi ekki aðgengi.
 neterror-unknown-protocol = Til að opna þetta veffang gætir þú þurft að hlaða inn öðrum hugbúnaði.
 neterror-redirect-loop = Þetta vandamál getur verið vegna þess að lokað er á vefkökur eða þær hafa verið aftengdar.
-neterror-unknown-socket-type-psm-installed = Athugaðu hvort tölvan þín sé með persónulegan öryggisstjóra uppsettann.
-neterror-unknown-socket-type-server-config = Þetta vandamál gæti verið vegna óstaðlaða stillinga á netþjóni.
 neterror-not-cached-intro = Umbeðið skjal er ekki til í skyndiminni { -brand-short-name }.
 neterror-not-cached-sensitive = Vegna öryggisástæðna, nær { -brand-short-name } ekki sjálfkrafa aftur í viðkvæm skjöl.
 neterror-not-cached-try-again = Smelltu á reyna aftur til að ná aftur í skjalið frá vefsvæðinu.

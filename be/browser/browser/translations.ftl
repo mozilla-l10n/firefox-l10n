@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Перакласці гэту старонку
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Ідзе пераклад
 translations-panel-settings-button =
     .aria-label = Кіраваць наладамі перакладу
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } БЭТА
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Кіраванне мовамі
-translations-panel-settings-about = Пра пераклад у { -brand-shorter-name }
 translations-panel-settings-about2 =
     .label = Пра пераклад у { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
@@ -91,14 +82,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = На жаль, мы яшчэ не падтрымліваем пераклады з { $language }.
 translations-panel-error-unsupported-hint-unknown-2 = На жаль, мы не падтрымліваем яшчэ пераклады з гэтай мовы.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = На жаль, мы пакуль не падтрымліваем { $language }.
-translations-panel-error-unsupported-hint-unknown = На жаль, мы пакуль не падтрымліваем гэтую мову.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -130,10 +113,6 @@ translations-manage-header = Пераклады
 translations-manage-settings-button =
     .label = Налады…
     .accesskey = д
-translations-manage-description = Сцягнуць мовы для перакладу па-за сеткаю.
-translations-manage-all-language = Усе мовы
-translations-manage-download-button = Сцягнуць
-translations-manage-delete-button = Выдаліць
 translations-manage-intro-2 = Вызначце параметры мовы і перакладу сайтаў і кіруйце мовамі, сцягнутымі для аўтаномнага перакладу.
 translations-manage-download-description = Сцягванне моў для перакладу па-за сеткаю
 translations-manage-language-download-button =
@@ -147,12 +126,11 @@ translations-manage-language-remove-all-button =
     .label = Выдаліць усе
     .accesskey = В
 translations-manage-error-download = Пры сцягванні моўных файлаў узнікла праблема. Калі ласка, паспрабуйце яшчэ раз.
-translations-manage-error-delete = Пры выдаленні моўных файлаў здарылася памылка. Калі ласка, паспрабуйце яшчэ раз.
 translations-manage-error-remove = Пры выдаленні моўных файлаў здарылася памылка. Калі ласка, паспрабуйце яшчэ раз.
 translations-manage-error-list = Не ўдалося атрымаць спіс даступных моў для перакладу. Абнавіце старонку, каб паўтарыць спробу.
 translations-settings-title =
-    .title = Налады перакладу
     .style = min-width: 36em
+    .title = Налады перакладу
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Пераклад будзе зроблены аўтаматычна для наступных моў
@@ -246,16 +224,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = На жаль, мы яшчэ не падтрымліваем пераклады з { $language }.
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = На жаль, мы не падтрымліваем яшчэ пераклады з гэтай мовы.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = На жаль, мы пакуль не падтрымліваем { $language }.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = На жаль, мы пакуль не падтрымліваем гэтую мову.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Налады перакладу

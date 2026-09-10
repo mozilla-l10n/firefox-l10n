@@ -273,8 +273,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Профили
 menu-profiles-manage-profiles =
     .label = Управљај профилима
 menu-profiles-new-profile =
@@ -296,9 +294,6 @@ menu-tools-downloads =
     .label = Преузимања
     .accesskey = П
 menu-tools-extensions-and-themes =
-    .label = Додаци и теме
-    .accesskey = Д
-menu-tools-addons-and-themes =
     .label = Додаци и теме
     .accesskey = Д
 menu-tools-fxa-sign-in2 =
@@ -359,8 +354,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Више информација за решавање проблема
     .accesskey = В
-menu-help-report-site-issue =
-    .label = Пријави проблем са сајтом…
 menu-help-share-ideas =
     .label = Поделите идеје и повратне податке…
     .accesskey = д

@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Ativar Warp, um projeto para melhora
 experimental-features-ime-search =
     .label = Barra de endereços: Mostrar resultados durante a composição IME
 experimental-features-ime-search-description = Um IME (Input Method Editor, ou editor de método de entrada) é uma ferramenta que permite inserir símbolos complexos, como os usados em idiomas escritos do subcontinente indiano ou do leste asiático, usando um teclado padrão. Ativar este experimento faz com que o painel da barra de endereços se mantenha aberto, mostrando resultados e sugestões de pesquisa ao usar o IME para inserir texto. Note que o IME pode exibir um painel que cubra os resultados da barra de endereços, portanto essa preferência é sugerida apenas para IME que não usa esse tipo de painel.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Picture-in-picture: Abrir automaticamente ao mudar de aba
-experimental-features-auto-pip-description = Ativar picture-in-picture de vídeos ativos ao mudar de aba.
 experimental-features-group-developer-tools =
     .label = Ferramentas de desenvolvimento
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Produtividade
 experimental-features-group-newtab-widgets =
     .label = Widgets no { -firefox-home-brand-name }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Senhas no painel lateral
-experimental-features-contextual-password-manager-description = Acesse suas senhas direto no painel lateral. Chega de ficar procurando ou redefinindo senhas ao tentar entrar em contas. Para usar este recurso, selecione senhas no painel lateral. Depois, abra as configurações gerais e, em layout do navegador, selecione mostrar painel lateral. Então, personalize seu painel lateral, selecionando senhas. Se você experimentar, <a data-l10n-name="connect">nos conte o que achou</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Escolha uma cor ou fundo de tela personalizado para a página de nova aba

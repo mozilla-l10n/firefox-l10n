@@ -27,8 +27,6 @@ appmenuitem-downloads =
     .label = ডাউনল'ডসমূহ
 appmenuitem-passwords =
     .label = পাছৱৰ্ড
-appmenuitem-addons-and-themes =
-    .label = এড-অন আৰু থীম
 appmenuitem-print =
     .label = প্ৰিণ্ট কৰক…
 appmenuitem-find-in-page =
@@ -91,7 +89,6 @@ appmenu-remote-tabs-unverified = আপোনাৰ একাউণ্টটো 
 appmenuitem-fxa-toolbar-sync-now2 = এতিয়াই ছিংক কৰক
 appmenuitem-fxa-sign-in = { -brand-product-name }-ত ছাইন ইন কৰক
 appmenuitem-fxa-manage-account = একাউণ্ট পৰিচালনা কৰক
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
@@ -103,15 +100,6 @@ appmenu-fxa-setup-sync =
     .label = ছিংক কৰা চালু কৰক…
 appmenuitem-save-page =
     .label = এই ধৰণে পৃষ্ঠা সংৰক্ষণ কৰক…
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = নতুন কি আছে
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = নতুন সুবিধাৰ বিষয়ে জনাব
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -178,8 +166,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = সমস্যা-সমাধানৰ অধিক তথ্য
     .accesskey = t
-appmenu-help-report-site-issue =
-    .label = ছাইট সমস্যাৰ প্ৰতিবেদন দিয়ক…
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

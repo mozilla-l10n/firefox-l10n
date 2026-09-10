@@ -232,9 +232,6 @@ menu-tools =
 menu-tools-downloads =
     .label = దింపుకోళ్ళు
     .accesskey = D
-menu-tools-addons-and-themes =
-    .label = పొడగింతలు, అలంకారాలు
-    .accesskey = A
 menu-tools-sync-now =
     .label = ఇప్పుడు సింక్ చేయి
     .accesskey = S
@@ -276,8 +273,6 @@ menu-help =
 menu-get-help =
     .label = సహాయం పొందండి
     .accesskey = H
-menu-help-report-site-issue =
-    .label = సైటులోని సమస్యను నివేదించండి…
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

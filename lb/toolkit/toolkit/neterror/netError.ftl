@@ -13,4 +13,3 @@ neterror-malformed-uri-page-title = Net valabel URL
 
 neterror-learn-more-link = Fir méi ze wëssen…
 neterror-return-to-previous-page-button = Zréck goen
-neterror-try-again-button = Nach eng Kéier probéieren

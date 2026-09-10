@@ -22,13 +22,11 @@ neterror-override-exception-button = Terima Risiko dan Teruskan
 neterror-pref-reset-button = Pulih tetapan piawai
 neterror-return-to-previous-page-button = Undur
 neterror-return-to-previous-page-recommended-button = Undur (Disyorkan)
-neterror-try-again-button = Cuba Lagi
 neterror-view-certificate-link = Papar Sijil
 
 ##
 
 neterror-pref-reset = Tetapan keselamatan rangkaian anda mungkin menyebabkan masalah ini. Adakah anda mahu tetapan piawai anda dipulihkan?
-neterror-error-reporting-automatic = Laporkan ralat seperti ini untuk membantu { -vendor-short-name } mengenal pasti dan menyekat laman berbahaya
 
 ## Specific error messages
 
@@ -45,8 +43,6 @@ neterror-file-not-found-moved = Semak samada fail telah dipindahkan, dinamakan s
 neterror-access-denied = Mungkin telah dibuang, dipindahkan, atau keizinan fail yang menghalang akses.
 neterror-unknown-protocol = Anda mungkin perlu pasang perisian lain untuk membuka alamat ini.
 neterror-redirect-loop = Masalah ini kadangkala disebabkan oleh menyahaktifkan atau tidak mahu menerima kuki.
-neterror-unknown-socket-type-psm-installed = Semak untuk memastikan sistem sudah ada Pengurus Keselamatan Peribadi yang dipasang.
-neterror-unknown-socket-type-server-config = Ini mungkin kerana konfigurasi bukan-piawai dalam pelayar.
 neterror-not-cached-intro = Dokumen yang diminta tidak ada dalam cache { -brand-short-name }.
 neterror-not-cached-sensitive = Sebagai langkah keselamatan, { -brand-short-name } tidak akan meminta semula dokumen yang sensitif secara automatik.
 neterror-not-cached-try-again = Klik Cuba Lagi untuk meminta semula dokumen daripada laman web.

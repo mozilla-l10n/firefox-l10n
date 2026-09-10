@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = ਕਨੈਕਸ਼ਨ ਸੈਟਿੰਗਾਂ
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = ਕਨੈਕਸ਼ਨ ਸੈਟਿੰਗਾਂ
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = ਮੁੜ ਲੋਡ
     .accesskey = l
-connection-proxy-autologin =
-    .label = ਜੇ ਪਾਸਵਰਡ ਸੰਭਾਲਿਆ ਹੈ ਤਾਂ ਪਰਮਾਣਿਤ ਕਰਨ ਲਈ ਨਾ ਪੁੱਛੋ
-    .accesskey = i
-    .tooltip = ਇਹ ਚੋਣ ਚੁੱਪਚਾਪ ਢੰਗ ਨਾਲ ਤੁਹਾਨੂੰ ਪਰਾਕਸੀਆਂ ਲਈ ਪਰਮਾਣਿਤ ਕਰਦੀ ਹੈ, ਜਦੋਂ ਤੁਸੀਂ ਉਹਨਾਂ ਲਈ ਪਰਮਾਣਕਿਤਾ ਸੰਭਾਲਦੇ ਹੋ। ਤੁਹਾਨੂੰ ਪੁੱਛਿਆ ਜਾਵੇਗਾ, ਜੇ ਪਰਮਾਣਕਿਤਾ ਫੇਲ੍ਹ ਹੋਈ।
 connection-proxy-autologin-checkbox =
     .label = ਜੇ ਪਾਸਵਰਡ ਸੰਭਾਲਿਆ ਹੈ ਤਾਂ ਪਰਮਾਣਿਤ ਕਰਨ ਲਈ ਨਾ ਪੁੱਛੋ
-    .accesskey = i
     .tooltiptext = ਇਹ ਚੋਣ ਚੁੱਪਚਾਪ ਢੰਗ ਨਾਲ ਤੁਹਾਨੂੰ ਪਰਾਕਸੀਆਂ ਲਈ ਪਰਮਾਣਿਤ ਕਰਦੀ ਹੈ, ਜਦੋਂ ਤੁਸੀਂ ਉਹਨਾਂ ਲਈ ਪਰਮਾਣਕਿਤਾ ਸੰਭਾਲਦੇ ਹੋ। ਤੁਹਾਨੂੰ ਪੁੱਛਿਆ ਜਾਵੇਗਾ, ਜੇ ਪਰਮਾਣਕਿਤਾ ਫੇਲ੍ਹ ਹੋਈ।
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = ਜਦੋਂ SOCKS v4 ਵਰਤਣ ਦੌਰਾਨ ਪਾਰਕਸੀ DNS
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = HTTPS ਉੱਤੇ DNS ਹੱਲ਼ ਕਰਨ ਲਈ ਮੂਲ URL ਵਰਤੋ
 connection-dns-over-https-url-custom =
     .label = ਕਸਟਮ
-    .accesskey = C
     .tooltiptext = HTTS ਉੱਤੇ DNS ਹੱਲ਼ ਕਰਨ ਲਈ ਆਪਣਾ ਤਰਜੀਹੀ URL ਦਿਓ
-connection-dns-over-https-custom-label = ਪਸੰਦੀਦਾ
+    .accesskey = C

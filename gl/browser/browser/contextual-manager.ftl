@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Buscar contrasinais
-    .key = F
     .aria-label = Buscar contrasinais
+    .key = F
+    .placeholder = Buscar contrasinais
 contextual-manager-menu-more-options-button =
     .title = Máis opcións
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Importar dun ficheiro ...
 contextual-manager-passwords-command-export = Exportar contrasinais
 contextual-manager-passwords-command-remove-all = Retirar todos os contrasinais
 contextual-manager-passwords-command-options = Opcións
-contextual-manager-passwords-command-settings = Configuración
 contextual-manager-passwords-command-help = Axuda
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Contrasinais importados
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Novos: { $added }, Actualizados: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -219,8 +214,6 @@ contextual-manager-passwords-create-label =
     .label = Engadir contrasinal
 contextual-manager-passwords-update-label =
     .label = Actualizar o contrasinal
-contextual-manager-passwords-edit-label =
-    .label = Editar contrasinal
 contextual-manager-passwords-remove-label =
     .title = Eliminar contrasinal
 contextual-manager-passwords-origin-field =
@@ -236,7 +229,6 @@ contextual-manager-passwords-password-field-description = Introduce o contrasina
 contextual-manager-passwords-origin-tooltip = Introduce o enderezo exacto onde iniciarás sesión neste sitio.
 contextual-manager-passwords-username-tooltip = Introduce o nome de usuario, o enderezo de correo electrónico ou o número de conta que utilizas para iniciar sesión.
 contextual-manager-passwords-password-tooltip-2 = Introduce o contrasinal para iniciar sesión nesta conta.
-contextual-manager-passwords-password-tooltip = Introduce o contrasinal utilizado para iniciar sesión nesta conta.
 
 ## Password Card
 
@@ -283,10 +275,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Copiar contrasinal (aviso)
 contextual-manager-edit-login-button = Editar
     .tooltiptext = Editar contrasinal
-contextual-manager-view-alert-heading =
-    .heading = Ver alerta
-contextual-manager-view-alert-button =
-    .tooltiptext = Revisar alerta
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -314,13 +302,10 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Non se atoparon contrasinais
-contextual-manager-passwords-no-passwords-found-message = Non se atoparon contrasinais. Busca un termo diferente e téntao de novo.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Garda os teus contrasinais nun lugar seguro.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Todos os contrasinais están cifrados e estaremos atentos a filtracións nas que esteas afectado.

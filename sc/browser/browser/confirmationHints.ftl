@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Informe imbiadu. Gràtzias!
-confirmation-hint-login-removed = Credentziale cantzellada
 confirmation-hint-password-removed = Crae cantzellada.
 confirmation-hint-page-bookmarked = Sarvadu in is sinnalibros
-confirmation-hint-password-saved = Crae sarvada
 confirmation-hint-password-created = Crae sarvada
 confirmation-hint-password-updated = Crae atualizada
 confirmation-hint-address-created = Indiritzu sarvadu

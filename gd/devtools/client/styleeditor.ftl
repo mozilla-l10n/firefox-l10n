@@ -21,8 +21,6 @@ styleeditor-save-button = Sàbhail
 styleeditor-options-button =
     .tooltiptext = Style Editor options
 styleeditor-at-rules = At-rules
-styleeditor-editor-textbox =
-    .data-placeholder = Cuir CSS an-seo.
 styleeditor-no-stylesheet = Chan eil siota-stoidhle aig an duilleag seo.
 styleeditor-no-stylesheet-tip = Saoil am bu toigh leat <a data-l10n-name="append-new-stylesheet">siota-stoidhle ùr a chur ris</a>?
 styleeditor-open-link-new-tab =

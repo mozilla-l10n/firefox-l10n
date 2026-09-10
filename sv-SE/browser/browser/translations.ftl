@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Översätt den här sidan
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Översättning pågår
 translations-panel-settings-button =
     .aria-label = Hantera översättningsinställningar
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Hantera språk
-translations-panel-settings-about = Om översättningar i { -brand-shorter-name }
 translations-panel-settings-about2 =
     .label = Om översättningar i { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
@@ -91,14 +82,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = Tyvärr, vi stöder inte översättningar från { $language } ännu.
 translations-panel-error-unsupported-hint-unknown-2 = Tyvärr, vi stöder inte översättningar från det här språket ännu.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Tyvärr, vi stöder inte { $language } ännu.
-translations-panel-error-unsupported-hint-unknown = Tyvärr, vi stöder inte detta språk ännu.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -130,10 +113,6 @@ translations-manage-header = Översättningar
 translations-manage-settings-button =
     .label = Inställningar…
     .accesskey = t
-translations-manage-description = Ladda ner språk för offlineöversättning.
-translations-manage-all-language = Alla språk
-translations-manage-download-button = Hämta
-translations-manage-delete-button = Ta bort
 translations-manage-intro-2 = Ställ in dina språk- och webbplatsöversättningsinställningar och hantera språk som laddas ner för offlineöversättning.
 translations-manage-download-description = Ladda ner språk för offlineöversättning
 translations-manage-language-download-button =
@@ -147,12 +126,11 @@ translations-manage-language-remove-all-button =
     .label = Ta bort alla
     .accesskey = T
 translations-manage-error-download = Det gick inte att ladda ned språkfilerna. Var god försök igen.
-translations-manage-error-delete = Det gick inte att ta bort språkfilerna. Var god försök igen.
 translations-manage-error-remove = Det uppstod ett fel när språkfilerna skulle tas bort. Var god försök igen.
 translations-manage-error-list = Det gick inte att hämta listan över tillgängliga språk för översättning. Uppdatera sidan för att försöka igen.
 translations-settings-title =
-    .title = Översättningsinställningar
     .style = min-width: 36em
+    .title = Översättningsinställningar
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Översättning sker automatiskt för följande språk
@@ -246,16 +224,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = Tyvärr, vi stöder inte översättningar från { $language } ännu.
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = Tyvärr, vi stöder inte översättningar från det här språket ännu.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Tyvärr, vi stöder inte { $language } ännu.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Tyvärr, vi stöder inte detta språk ännu.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Översättningsinställningar

@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - علامة المشاركة
-webrtc-indicator-window =
-    .title = { -brand-short-name } - علامة المشاركة
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = تشارك الميكروفون. انقر للتحكم في المشاركة.
 webrtc-screen-system-menu =
     .label = تشارك إحدى النوافذ أو إحدى الشاشات. انقر للتحكم في المشاركة.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = تشارك الكمرة و الميكروفون. انقر للتحكم في المشاركة.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = تشارك الكمرة. انقر للتحكم في المشاركة.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = تشارك الميكروفون. انقر للتحكم في المشاركة.
-webrtc-indicator-sharing-application =
-    .tooltiptext = تشارك تطبيقًا. انقر للتحكم في المشاركة.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = تشارك الشاشة. انقر للتحكم في المشاركة.
-webrtc-indicator-sharing-window =
-    .tooltiptext = تشارك نافذة. انقر للتحكم في المشاركة.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = تشارك لسانًا. انقر للتحكم في المشاركة.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -209,7 +190,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = أتسمح بأ�
 
 webrtc-share-screen-warning = لا تشارك الشاشة إلا مع المواقع التي تثق فيها. يمكن للمشاركة أن تسمح للمواقع المخادعة أن تتصفح باسمك و تسرق بياناتك الخاصة.
 webrtc-share-browser-warning = لا تشارك { -brand-short-name } إلا مع المواقع التي تثق فيها. يمكن للمشاركة أن تسمح للمواقع المخادعة أن تتصفح باسمك و تسرق بيانات الخاصة.
-webrtc-share-screen-learn-more = اطّلع على المزيد
 webrtc-pick-window-or-screen = اختر نافذة أو شاشة
 webrtc-share-entire-screen = كل الشاشة
 webrtc-share-pipe-wire-portal = استعمل إعدادات نظام التشغيل

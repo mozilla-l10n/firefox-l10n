@@ -24,13 +24,6 @@ xpinstall-prompt-never-allow =
 xpinstall-prompt-install =
     .label = بەردەوامبە بۆ دامەزراندن
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = دامەزراندنی نەرمەواڵە ناچالاک کرا لەلایەن بەڕێوەبەری سیستمەکەتەوە.
 xpinstall-disabled = دامەزراندنی نەرمەواڵە ئێستا ناچالاکە. کرتە بکە بۆچالاک کردن و هەوڵ دانەوە.
 xpinstall-disabled-button =
     .label = چالاک

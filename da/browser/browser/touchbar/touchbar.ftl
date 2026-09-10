@@ -31,4 +31,3 @@ search-bookmarks = Bogmærker
 search-history = Historik
 search-opentabs = Åbne faneblade
 search-tags = Mærkater
-search-titles = Titler

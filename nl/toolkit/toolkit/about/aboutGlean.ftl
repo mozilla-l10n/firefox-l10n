@@ -52,7 +52,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     Raadpleeg voor een uitleg van de verschillende manieren om gegevens vast te leggen en te vinden het
     tabblad <strong>Over gegevens</strong>.
-about-glean-about-testing-header = Over testen
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     Volledige instructies zijn vastgelegd in de
@@ -61,8 +60,6 @@ about-glean-manual-testing =
     maar, kort gezegd, om handmatig te testen dat uw instrumentatie werkt, moet u:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (geen ping indienen)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Zorg dat in het voorgaande veld een goed te onthouden debuglabel staat, zodat u later uw pings herkent.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Stel een makkelijk te onthouden debug-label <span>(20 tekens of minder, alleen alfanumeriek en -)</span> in, zodat u uw pings later kunt herkennen.
 # An in-line drop down list precedes this string.
@@ -89,13 +86,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Bezoek de { glean-debug-ping-viewer-brand-name }-pagina voor pings met uw label</a>.
     Het zou niet meer dan een paar seconden moeten duren vanaf het indrukken van de knop tot het aankomen van uw ping.
     Soms duurt het enkele minuten.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    Voor meer <i>ad hoc</i>-testen,
-    kunt u ook de huidige waarde bepalen van een specifiek stuk instrumentatie
-    door hier een devtools-console te openen op <code>about:glean</code>
-    en de <code>testGetValue()</code>-API te gebruiken zoals
-    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     Voor meer <i>ad hoc</i>-testen,
@@ -200,9 +190,6 @@ about-glean-no-data-to-display = Geen gegevens om weer te geven.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code>-statistieken worden nog niet ondersteund in de <code>about:glean</code>-weergave.
 about-glean-unknown-metric-type-warning = Onbekend statistiektype.
-about-glean-about-data-explanation =
-    Raadpleeg, om door de lijst met verzamelde gegevens te bladeren, de
-    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-bibliotheek</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

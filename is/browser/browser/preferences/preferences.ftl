@@ -2,19 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Senda vefsvæðum “Do Not Track” merki um að þú viljir ekki láta fylgjast með þér
-do-not-track-removal = Við styðjum ekki lengur „Ekki rekja“ merkinguna
-do-not-track-learn-more = Kanna nánar
-do-not-track-option-default-content-blocking-known =
-    .label = Aðeins þegar { -brand-short-name } er stillt til að loka fyrir þekkta rekjara
-do-not-track-option-always =
-    .label = Alltaf
 global-privacy-control-description =
     .label = Segja vefsvæðum að selja ekki eða deila gögnunum mínum
     .accesskey = S
 non-technical-privacy-group =
     .label = Persónuverndarstefna vefsvæðis
-non-technical-privacy-header = Persónuverndarstefna vefsvæðis
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -41,38 +33,16 @@ managed-notice-nav =
 category-list =
     .aria-label = Flokkar
 pane-general-title = Almennt
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = Upphafssíða
 pane-search-title2 = Leita
     .title = Leita
 pane-privacy-title3 = Friðhelgi og öryggi
     .title = Friðhelgi og öryggi
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = Leita
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = Friðhelgi og öryggi
-pane-privacy-title = Friðhelgi og öryggi
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Samstilling
-category-sync3 =
-    .tooltiptext = { pane-sync-title3 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-pane-experimental-title = { -brand-short-name } tilraunir
-category-experimental =
-    .tooltiptext = { -brand-short-name } tilraunir
-pane-experimental-subtitle = Haltu áfram með varúð
-pane-experimental-search-results-header = { -brand-short-name } tilraunir: Haltu áfram með varúð
-pane-experimental-description2 = Breyting á ítarlegum stillingum getur haft áhrif á afköst eða öryggi { -brand-short-name }.
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
-pane-experimental-description3 = Prófaðu tilraunaeiginleikana okkar! Þeir eru í vinnslu og þróun, sem gæti haft áhrif á hvernig { -brand-short-name } virkar.
 pane-experimental-reset =
     .label = Endurheimta sjálfgefin gildi
     .accesskey = r
@@ -80,8 +50,6 @@ help-button-label2 = { -brand-short-name }-aðstoð
     .title = { -brand-short-name }-aðstoð
 addons-button-label2 = Forritsaukar & þemu
     .title = Forritsaukar & þemu
-help-button-label = { -brand-short-name }-aðstoð
-addons-button-label = Forritsaukar & þemu
 focus-search =
     .key = f
 close-button =
@@ -141,15 +109,9 @@ search-results-help-link = Þarftu aðstoð? Skoðaðu <a data-l10n-name="url">{
 
 ## General Section
 
-startup-header = Ræsing
 always-check-default =
     .label = Alltaf athuga hvort { -brand-short-name } sé sjálfgefinn vafri
     .accesskey = l
-is-default = { -brand-short-name } er núna sjálfgefinn vafri
-is-not-default = { -brand-short-name } er ekki sjálfgefinn vafri
-set-as-my-default-browser =
-    .label = Gera sjálfgefið…
-    .accesskey = s
 startup-restore-windows-and-tabs =
     .label = Opna fyrri glugga og flipa
     .accesskey = O
@@ -159,13 +121,8 @@ windows-launch-on-login =
     .label = Opna { -brand-short-name } sjálfkrafa þegar tölvan þín ræsir
     .accesskey = O
 windows-launch-on-login-disabled = Þessi kjörstilling hefur verið gerð óvirk í Windows. Til að breyta því, skaltu fara í <a data-l10n-name="startup-link">Ræsiforrit / Startup Apps</a> í kerfisstillingunum.
-windows-launch-on-login-profile-disabled = Virkjaðu þessa stillingu með því að merkja við „{ profile-manager-use-selected.label }“ í glugganum „Veldu notandasnið“.
-startup-restore-warn-on-quit =
-    .label = Aðvara þegar vafra er lokað
 disable-extension =
     .label = Slökkva á forritsauka
-preferences-data-migration-header = Flytja inn vafragögn
-preferences-data-migration-description = Flyttu inn bókamerki, lykilorð, feril og sjálfvirk útfyllingargögn í { -brand-short-name }.
 preferences-data-migration-button =
     .label = Flytja inn gögn
     .accesskey = F
@@ -176,14 +133,10 @@ preferences-profiles-subpane-description =
 preferences-profiles-section-header =
     .description = Hvert snið hefur aðskilin vafurgögn og stillingar, þar á meðal feril, lykilorð og fleira.
     .label = Notkunarsnið
-preferences-profiles-header = Notkunarsnið
-preferences-manage-profiles-description = Hvert snið hefur aðskilin vafurgögn og stillingar, þar á meðal feril, lykilorð og fleira.
-preferences-manage-profiles-learn-more = Kanna nánar
 preferences-manage-profiles-button =
     .label = Sýsla með notkunarsnið
 tabs-group-header2 =
     .label = Flipar
-tabs-group-header = Flipar
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab skiptir á milli flipa í notkunarröð
     .accesskey = T
@@ -203,33 +156,13 @@ ask-on-close-multiple-tabs =
 ask-on-quit-with-key =
     .label = Staðfesta áður en þú hættir með { $quitKey }
     .accesskey = f
-confirm-on-close-multiple-tabs =
-    .label = Staðfesta áður en mörgum flipum er lokað
-    .accesskey = m
-# This string is used for the confirm before quitting preference.
-# Variables:
-#   $quitKey (string) - the quit keyboard shortcut, and formatted
-#                       in the same manner as it would appear,
-#                       for example, in the File menu.
-confirm-on-quit-with-key =
-    .label = Staðfestu áður en þú hættir með { $quitKey }
-    .accesskey = f
 warn-on-open-many-tabs =
     .label = Vara við ef opnun á mörgum flipum gæti hægt á { -brand-short-name }
     .accesskey = o
-switch-to-new-tabs =
-    .label = Þegar ég opna tengil, mynd eða margmiðlunarefni í nýjum flipa, skipta strax yfir á hann
-    .accesskey = p
 show-tabs-in-taskbar =
     .label = Sýna flipasýnishorn í Windows-verkefnastikunni
     .accesskey = k
-browser-containers-enabled =
-    .label = Virkja sérefnislipa
-    .accesskey = n
 browser-containers-learn-more = Kanna nánar
-browser-containers-settings =
-    .label = Stillingar…
-    .accesskey = i
 containers-disable-alert-title = Loka öllum sérefnisflipum?
 startup-group =
     .label = Ræsing
@@ -269,57 +202,22 @@ browser-layout-header2 =
 browser-layout-show-sidebar2 =
     .description = Fáðu einfaldan aðgang að bókamerkjum, flipum úr símanum þínum, spjallforritum og fleiru án þess að fara úr aðalskjánum þínum.
     .label = Sýna hliðarstiku
-browser-layout-header = Framsetning vafra
-browser-layout-horizontal-tabs =
-    .label = Láréttir flipar
-browser-layout-horizontal-tabs-desc = Birtast efst í vafranum
-browser-layout-vertical-tabs =
-    .label = Lóðréttir flipar
-browser-layout-vertical-tabs-desc = Birtast til hliðar, í hliðarstikunni
-browser-layout-show-sidebar =
-    .label = Sýna hliðarstiku
-browser-layout-show-sidebar-desc = Fáðu einfaldan aðgang að bókamerkjum, flipum úr símanum þínum, spjallforritum og fleiru án þess að fara úr aðalskjánum þínum.
 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Tungumál og útlit
-preferences-web-appearance-header = Útlit vefsvæðis
-preferences-web-appearance-description = Sum vefsvæði aðlaga litastef sín að óskum þínum. Veldu hvaða litastef þú vilt nota fyrir þessi vefsvæði.
 preferences-web-appearance-choice-light2 =
     .label = Ljóst
     .title = Nota ljóst útlit fyrir bakgrunn og efni vefsvæðisins.
 preferences-web-appearance-choice-dark2 =
     .label = Dökkt
     .title = Nota dökkt útlit fyrir bakgrunn og efni vefsvæðisins.
-preferences-web-appearance-choice-auto = Sjálfvirkt
-preferences-web-appearance-choice-light = Ljóst
-preferences-web-appearance-choice-dark = Dökkt
-preferences-web-appearance-choice-tooltip-auto =
-    .title = Breyta sjálfvirkt bakgrunni og útliti efnis á vefsvæðum byggt á kerfisstillingum þínum og { -brand-short-name } þema.
-preferences-web-appearance-choice-tooltip-light =
-    .title = Nota ljóst útlit fyrir bakgrunn og efni vefsvæðisins.
-preferences-web-appearance-choice-tooltip-dark =
-    .title = Nota dökkt útlit fyrir bakgrunn og efni vefsvæðisins.
-preferences-web-appearance-choice-input-auto =
-    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
-preferences-web-appearance-choice-input-light =
-    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
-preferences-web-appearance-choice-input-dark =
-    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning3 =
     .message = Stillingar þínar fyrir birtuskil yfirtaka útlit vefsvæðisins.
 preferences-web-appearance-link =
     .label = Sýslaðu með { -brand-short-name } þemu í Forritsaukar og þemu
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning = Litaval þitt yfirtekur útlit vefsvæðisins. <a data-l10n-name="colors-link">Sýsla með liti</a>
-# This message contains one link. It can be moved within the sentence as needed
-# to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = Sýslaðu með { -brand-short-name } þemu í <a data-l10n-name="themes-link">Forritsaukar og þemu</a>
-preferences-contrast-control-header = Stýring birtuskila
-preferences-contrast-control-description = Vefsvæði eru hafa fjölbreytta forgrunns- og bakgrunnsliti. Stilltu { -brand-short-name } til að nota sömu liti á öllum vefsvæðum til að bæta læsileika þeirra.
 preferences-contrast-control-use-platform-settings =
     .label = Sjálfvirkt (nota kerfisstillingar)
     .accesskey = a
@@ -332,27 +230,13 @@ preferences-contrast-control-custom =
 preferences-colors-manage-button2 =
     .label = Stýra litum
     .accesskey = l
-preferences-colors-header = Litir
-preferences-colors-description = Taka yfir sjálfgefna liti { -brand-short-name } fyrir texta, bakgrunn vefsíðna og tengla.
 preferences-colors-manage-button =
     .label = Stýra litum…
     .accesskey = l
 preferences-fonts-header2 =
     .label = Leturgerðir
-preferences-fonts-header = Leturgerðir
-default-font = Sjálfgefin leturgerð
-    .accesskey = g
-default-font-size = Stærð
-    .accesskey = S
-advanced-fonts =
-    .label = Frekari stillingar…
-    .accesskey = a
 preferences-default-zoom-label =
     .label = Sjálfgefinn aðdráttur
-    .accesskey = d
-# Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = Aðdráttur
-preferences-default-zoom = Sjálfgefinn aðdráttur
     .accesskey = d
 # Variables:
 #   $percentage (number) - Zoom percentage value
@@ -361,8 +245,6 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Stækka/minnka einungis texta
     .accesskey = t
-preferences-text-zoom-override-warning =
-    .message = Viðvörun: Ef þú velur „Stækka/minnka einungis texta“ og sjálfgefni aðdrátturinn þinn er ekki stilltur á 100%, getur það valdið því að sum vefsvæði eða efni verði fyrir hnjaski.
 language-header = Tungumál
 choose-language-description = Veldu þau tungumál sem hafa forgang við birtingu vefsíðu
 choose-button =
@@ -376,13 +258,7 @@ confirm-browser-language-change-description = Endurræstu { -brand-short-name } 
 confirm-browser-language-change-button = Staðfesta og endurræsa
 browser-language-install-error =
     .message = { -brand-short-name } getur ekki keyrt uppfærslu á þínu tungumáli þessa stundina. Athugið nettengingu eða reynið aftur.
-translate-web-pages =
-    .label = Þýða innihald vefsíðu
-    .accesskey = Þ
 fx-translate-web-pages = { -translations-brand-name }
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = Þýtt af <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Undanþágur…
     .accesskey = U
@@ -401,23 +277,6 @@ download-save-files-header =
     .label = Vista skrár yfir í
 download-save-where-3 =
     .aria-label = Vista skrár yfir í
-download-header = Niðurhal
-download-save-where = Vista skrár yfir í
-    .accesskey = V
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Velja…
-           *[other] Velja…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] e
-        }
-download-always-ask-where =
-    .label = Alltaf spyrja hvert á að vista skrár
-    .accesskey = A
 applications-header = Forrit
 applications-description = Veldu hvernig { -brand-short-name } meðhöndlar skrár sem þú sækir af vefnum eða með forritum þegar þú ert að vafra.
 applications-filter =
@@ -465,10 +324,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Nota { $plugin-name } (í { -brand-short-name })
 applications-open-inapp =
     .label = Opna í { -brand-short-name }
 
@@ -476,8 +331,6 @@ applications-open-inapp =
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -504,44 +357,21 @@ applications-ask-before-handling =
     .accesskey = a
 drm-group =
     .label = Digital Rights Management (DRM) efni
-drm-content-header = Digital Rights Management (DRM) efni
 play-drm-content =
     .label = Spila efni sem notar DRM
     .accesskey = p
 play-drm-content-learn-more = Vita meira
-update-application-title = { -brand-short-name } uppfærslur
-update-application-description = Viðhalda { -brand-short-name } uppfærðum fyrir bestu afköst, stöðugleika og öryggi.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Útgáfa { $version } <a data-l10n-name="learn-more">Hvað er nýtt</a>
 update-history-2 =
     .label = Sýna uppfærslusögu
     .accesskey = p
-update-history =
-    .label = Sýna uppfærslusögu…
-    .accesskey = p
-update-application-allow-description = Leyfa { -brand-short-name } að
-update-application-auto =
-    .label = Setja sjálfvirkt inn uppfærslur (mælt með)
-    .accesskey = a
-update-application-check-choose =
-    .label = Athuga með uppfærslur, en leyfa mér að velja hvenær á að setja þær upp
-    .accesskey = t
-update-application-manual =
-    .label = Aldrei athuga með uppfærslur (ekki mælt með)
-    .accesskey = l
 update-application-background-enabled =
     .label = Þegar { -brand-short-name } er ekki í gangi
     .accesskey = g
 update-application-warning-cross-user-setting-2 =
     .message = Þessi stilling mun eiga við alla Windows-reikninga og { -brand-short-name } notendur sem nota þessa uppsetningu af { -brand-short-name }.
-update-application-warning-cross-user-setting = Þessi stilling mun eiga við alla Windows-reikninga og { -brand-short-name } notendur sem nota þessa uppsetningu af { -brand-short-name }.
-update-application-use-service =
-    .label = Nota bakgrunnsþjónustu til að setja inn uppfærslur
-    .accesskey = b
-update-application-suppress-prompts =
-    .label = Sýna færri tilkynningar um uppfærslur
-    .accesskey = n
 update-setting-write-failure-title2 = Villa við að vista uppfærslustillingar
 # Variables:
 #   $path (string) - Path to the configuration file
@@ -560,11 +390,6 @@ update-in-progress-cancel-button = &Halda áfram
 
 ## General Section - Performance
 
-performance-title = Afköst
-performance-use-recommended-settings-checkbox =
-    .label = Nota afkastastillingar sem er mælt með
-    .accesskey = N
-performance-use-recommended-settings-desc = Þessar stillingar eru sérsniðnar fyrir þinn vélbúnað og stýrikerfi.
 performance-settings-learn-more = Kanna nánar
 performance-allow-hw-accel =
     .label = Nota vélbúnaðarhröðun ef mögulegt
@@ -582,9 +407,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = Leit
-browsing-group-label =
-    .aria-label = Vafur
 browsing-use-autoscroll =
     .label = Nota sjálfvirkt skrun
     .accesskey = o
@@ -609,32 +431,17 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Leita í texta þegar byrjað er að slá inn orð
     .accesskey = L
-browsing-picture-in-picture-toggle-enabled =
-    .label = Virkja mynd-í-mynd myndskeiðsstýringar
-    .accesskey = y
-browsing-picture-in-picture-learn-more = Kanna nánar
 browsing-media-control =
     .label = Stýra miðlum með lyklaborði, heyrnartólum eða sýndarviðmóti
     .accesskey = v
-browsing-media-control-learn-more = Kanna nánar
 browsing-cfr-recommendations =
     .label = Mæltu með forritsaukum um leið og þú vafrar
     .accesskey = r
 browsing-cfr-features =
     .label = Stinga uppá virkni er þú vafrar
     .accesskey = S
-browsing-cfr-recommendations-learn-more = Kanna nánar
 browsing-group =
     .label = Leit
-
-## General Section - Proxy
-
-network-settings-title = Stillingar netkerfis
-network-proxy-connection-description = Stilla hvernig { -brand-short-name } tengist við internetið.
-network-proxy-connection-learn-more = Kanna nánar
-network-proxy-connection-settings =
-    .label = Stillingar…
-    .accesskey = S
 
 ## Home Section
 
@@ -695,9 +502,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Vefsvæði sem þú vistar eða heimsækir
 home-prefs-shortcuts-by-option-sponsored =
     .label = Kostaðar flýtileiðir
-home-prefs-recommended-by-header =
-    .label = Með þessu mælir { $provider }
-home-prefs-recommended-by-description-new = Úrvalsefni í umsjón { $provider }, hluta af { -brand-product-name } fjölskyldunni
 home-prefs-recommended-by-header-generic =
     .label = Sögur sem mælt er með
 home-prefs-recommended-by-description-generic = Úrvalsefni sem safnað hefur verið af aðstandendum { -brand-product-name }
@@ -707,26 +511,15 @@ home-prefs-recommended-by-description-generic = Úrvalsefni sem safnað hefur ve
 home-prefs-recommended-by-learn-more = Hvernig það virkar
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Kostaðar sögur
-home-prefs-recommended-by-option-recent-saves =
-    .label = Sýna nýlega vistað
 home-prefs-highlights-option-visited-pages =
     .label = Heimsóttar síður
 home-prefs-highlights-options-bookmarks =
     .label = Bókamerki
 home-prefs-highlights-option-most-recent-download =
     .label = Síðasta niðurhal
-home-prefs-highlights-option-saved-to-pocket =
-    .label = Síður vistaðar í { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = Nýleg virkni
 home-prefs-recent-activity-description = Úrval af nýlegum síðum og efni
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = Molar
-home-prefs-snippets-description-new = Ábendingar og fréttir frá { -vendor-short-name } og { -brand-product-name }
 home-prefs-weather-header =
     .label = Veður
 home-prefs-weather-description = Spá dagsins í hnotskurn
@@ -747,22 +540,6 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = Leitarstika
-search-bar-hidden =
-    .label = Nota veffangastikuna fyrir leit og flakk
-search-bar-shown =
-    .label = Bæta leitarstiku í verkfærastikuna
-search-engine-default-header = Sjálfgefin leitarvél
-search-engine-default-desc-2 = Þetta er sjálfgefna leitarvélin þín í veffangastikunni og leitarstikunni. Þú getur skipt um þetta hvenær sem er.
-search-engine-default-private-desc-2 = Velja aðra sjálfgefna leitarvél eingöngu fyrir huliðsglugga
-search-separate-default-engine =
-    .label = Nota þessa leitarvél í huliðsgluggum
-    .accesskey = u
-search-suggestions-header = Leitartillögur
-search-suggestions-desc = Veldu hvernig tillögur frá leitarvélum birtast.
-search-suggestions-option =
-    .label = Birta tillögur í leit
-    .accesskey = B
 search-show-suggestions-option =
     .label = Sýna leitartillögur
     .accesskey = S
@@ -775,22 +552,6 @@ search-suggestions-cant-show-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Sýna leitarorð í veffangastikunni á niðurstöðusíðum
-# With this option enabled, on the search results page
-# the URL will be replaced by the search terms in the address bar
-# when using the current default search engine.
-search-show-search-term-option =
-    .label = Sýna leitarorð í stað vefslóðar á niðurstöðusíðu sjálfgefnu leitarvélarinnar
-# This string describes what the user will observe when the system
-# prioritizes search suggestions over browsing history in the results
-# that extend down from the address bar. In the original English string,
-# "ahead" refers to location (appearing most proximate to), not time
-# (appearing before).
-search-show-suggestions-above-history-option =
-    .label = Sýna leitartillögur á undan vafurferli í niðurstöðum veffangastikunnar
-search-show-suggestions-private-windows =
-    .label = Sýna leitartillögur í huliðsgluggum
-suggestions-addressbar-settings-generic2 = Breyta stillingum fyrir aðrar tillögur í veffangastiku
-search-suggestions-cant-show = Leitartillögur verða ekki sýndar í veffangastikunni þar sem þú hefur stillt { -brand-short-name } á að muna ekki neinn leitarferil.
 search-one-click-header2 = Flýtileiðir við leit
 search-one-click-desc = Veldu aðrar leitarvélar sem munu birtast fyrir neðan veffangastikuna og leitarstikuna þegar þú byrjar að slá inn leitarorð.
 search-choose-engine-column =
@@ -825,22 +586,6 @@ search-engine-group =
 search-default-engine =
     .aria-label = Sjálfgefin leitarvél
 
-## Containers Section
-
-containers-back-button2 =
-    .aria-label = Til baka í stillingar
-containers-header = Sérefnisflipar
-containers-add-button =
-    .label = Bæta við nýju sérefni
-    .accesskey = a
-containers-new-tab-check =
-    .label = Velja sérefni fyrir hvern nýjan flipa
-    .accesskey = s
-containers-settings-button =
-    .label = Stillingar
-containers-remove-button =
-    .label = Fjarlægja
-
 ## Account and sync
 
 sync-group-label =
@@ -866,8 +611,6 @@ sync-mobile-promo = Sæktu Firefox fyrir <img data-l10n-name="android-icon"/> <a
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = Breyta notandamynd
 sync-profile-picture-with-alt =
     .alt = Breyta notandamynd
     .tooltiptext = Breyta notandamynd
@@ -896,9 +639,6 @@ sync-signedin-login-failure = Skráðu þig inn aftur til að tengjast aftur { $
 
 ##
 
-sync-resend-verification =
-    .label = Endursenda staðfestingu
-    .accesskey = d
 sync-verify-account =
     .label = Staðfesta reikning
     .accesskey = f
@@ -920,10 +660,6 @@ prefs-sync-turn-on-syncing-2 =
     .label = Kveikja á samstillingu
     .accesskey = s
 prefs-sync-offer-setup-label2 = Samstilltu bókamerki, feril, flipa, lykilorð, viðbætur, og stillingar á milli allra tækjanna þinna.
-prefs-sync-now =
-    .labelnotsyncing = Samstilla núna
-    .labelsyncing = Samstilli…
-    .accesskeynotsyncing = n
 prefs-sync-now-button =
     .label = Samstilla núna
     .accesskey = n
@@ -942,30 +678,17 @@ sync-syncing-across-devices-heading = Þú ert að samstilla þessi atriði á �
 sync-currently-syncing-bookmarks = Bókamerki
 sync-currently-syncing-history = Ferill
 sync-currently-syncing-tabs = Opnir flipar
-sync-currently-syncing-logins-passwords = Innskráningar og lykilorð
 sync-currently-syncing-passwords = Lykilorð
 sync-currently-syncing-addresses = Vistföng
-sync-currently-syncing-creditcards = Greiðslukort
 sync-currently-syncing-payment-methods = Greiðslumátar
 sync-currently-syncing-addons = Viðbætur
 sync-currently-syncing-settings = Stillingar
 sync-manage-options =
     .label = Stjórna samstillingu...
     .accesskey = m
-sync-change-options =
-    .label = Breyta…
-    .accesskey = B
 
 ## The "Choose what to sync" dialog.
 
-sync-choose-what-to-sync-dialog3 =
-    .buttonlabelaccept = Vista breytingar
-    .buttonlabelextra2 = Aftengjast…
-    .buttonaccesskeyaccept = S
-    .buttonaccesskeyextra2 = A
-    .style = min-width: 36em;
-    .title = Veldu hvað á að samstilla
-sync-choose-dialog-subtitle = Breytingar á listanum yfir atriði sem á að samstilla munu endurspeglast í öllum tengdum tækjum þínum.
 sync-engine-bookmarks =
     .label = Bókamerki
     .accesskey = m
@@ -976,10 +699,6 @@ sync-engine-tabs =
     .label = Opna flipa
     .tooltiptext = Listi yfir hvað er opið á öllum samstilltum tækjum
     .accesskey = f
-sync-engine-logins-passwords =
-    .label = Innskráningar og lykilorð
-    .tooltiptext = Notandanofn og lykilorð sem þú hefur vistað
-    .accesskey = l
 sync-engine-passwords =
     .label = Lykilorð
     .tooltiptext = Lykilorð sem þú hefur vistað
@@ -988,10 +707,6 @@ sync-engine-addresses =
     .label = Vistföng
     .tooltiptext = Heimilisiföng sem þú hefur vistað (bara á borðtölvu)
     .accesskey = V
-sync-engine-creditcards =
-    .label = Greiðslukort
-    .tooltiptext = Nöfn, númer og gildistími (aðeins á borðtölvu)
-    .accesskey = G
 sync-engine-payment-methods2 =
     .label = Greiðslumátar
     .tooltiptext = Nöfn, kortanúmer og gildistími
@@ -1038,29 +753,9 @@ sync-connect-another-device = Tengja annað tæki
 sync-connect-another-device-2 =
     .label = Tengja annað tæki
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = Staðfesting send
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = Staðfestingartengill var sendur á { $email }.
-sync-verification-not-sent-title = Gat ekki send staðfestingu
-sync-verification-not-sent-body = Því miður getum við ekki sent staðfestingarpóst í augnablikinu, reyndu aftur seinna.
-
 ## Privacy Section
 
 privacy-header = Friðhelgi vafra
-
-## Privacy Section - Logins and Passwords
-
-# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = Innskráning og lykilorð
-    .searchkeywords = { -lockwise-brand-short-name }
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = Biðja um að vista innskráningar og lykilorð fyrir vefsíður
-    .accesskey = r
 
 ## Privacy Panel Settings
 
@@ -1075,9 +770,6 @@ forms-ask-to-save-passwords =
 forms-exceptions =
     .label = Undanþágur…
     .accesskey = n
-forms-generate-passwords =
-    .label = Leggja til og mynda sterk lykilorð
-    .accesskey = u
 forms-suggest-passwords =
     .label = Stinga upp á sterkum lykilorðum
     .accesskey = S
@@ -1085,19 +777,10 @@ forms-breach-alerts =
     .label = Birta tilkynningar um lykilorð fyrir vefsvæði sem hafa orðið fyrir gagnaránum
     .accesskey = B
 forms-breach-alerts-learn-more-link = Frekari upplýsingar
-preferences-relay-integration-checkbox =
-    .label = Stinga upp á { -relay-brand-name } tölvupósthulum til að vernda póstfangið þitt
 preferences-relay-integration-checkbox2 =
     .label = Stinga upp á { -relay-brand-name } tölvupósthulum til að vernda póstfangið þitt
     .accesskey = r
 relay-integration-learn-more-link = Kanna nánar
-# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
-forms-fill-logins-and-passwords =
-    .label = Sjálfvirk útfylling fyrir innskráningar og lykilorð
-    .accesskey = i
-forms-saved-logins =
-    .label = Vistaðar innskráningar…
-    .accesskey = V
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-usernames-and-passwords =
     .label = Fylla út notendanöfn og lykilorð sjálfkrafa
@@ -1153,20 +836,6 @@ autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
-pane-privacy-autofill-header = Sjálfvirk útfylling
-autofill-addresses-checkbox = Vista og fylla út í heimilisföng
-    .accesskey = a
-autofill-saved-addresses-button = Vistuð heimilisföng
-    .accesskey = s
-autofill-payment-methods-checkbox-message = Vista og fylla út greiðslumáta
-    .accesskey = m
-autofill-payment-methods-checkbox-submessage = Inniheldur kredit- og debetkort
-    .accesskey = I
-autofill-saved-payment-methods-button = Vistaðir greiðslumátar
-    .accesskey = V
-# This operation requires the user to authenticate with the operating system (device sign-in)
-autofill-reauth-payment-methods-checkbox = Krefjast innskráningar tækis til að fylla út og hafa umsjón með greiðslumátum
-    .accesskey = o
 autofill-payment-methods-header =
     .aria-label = Greiðslumátar
 autofill-payment-methods-manage-payments-title =
@@ -1194,32 +863,12 @@ payments-group =
 
 ## Privacy Section - History
 
-history-header = Ferill
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } mun
-    .accesskey = m
-history-remember-option-all =
-    .label = Geyma feril
-history-remember-option-never =
-    .label = Aldrei geyma feril
-history-remember-option-custom =
-    .label = Nota sérsniðnar stillingar fyrir feril
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } mun muna vafurferil, niðurhöl, innfyllingar- og leitarferil.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } mun nota sömu stillingar og í huliðsvafri, og geyma ekki vafraferil.
-history-remember-description = { -brand-short-name } mun muna vafurferil, niðurhöl, innfyllingar- og leitarferil.
-history-dontremember-description = { -brand-short-name } mun nota sömu stillingar og í huliðsvafri, og geyma ekki vafraferil.
 history-private-browsing-permanent =
     .label = Nota alltaf huliðsvafursham
     .accesskey = k
@@ -1245,36 +894,14 @@ history-mode-radio-group =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Vefkökur og gögn vefsvæðis
 sitedata-total-size-calculating = Reikna gagnastærð vefsvæðis og stærð skyndiminnis…
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Geymdar vefkökur, gögn fyrir vefsvæði og skyndiminni eru að nota { $value } { $unit } af diskplássi.
 sitedata-learn-more = Kanna nánar
-sitedata-delete-on-close =
-    .label = Eyða vefkökum og síðugögnum þegar { -brand-short-name } er lokað
-    .accesskey = k
 sitedata-delete-on-close-private-browsing3 =
     .message = Byggt á stillingum vafurferilsins þíns, eyðir { -brand-short-name } vefkökum og gögnum vefsvæða úr lotunni þinni þegar þú lokar vafranum.
-sitedata-delete-on-close-private-browsing = Þegar huliðsvafur er alltaf virkt, munu vefkökum og vefsvæðagögnum ávallt verða eytt þegar { -brand-short-name } er lokað.
-sitedata-delete-on-close-private-browsing2 = Byggt á stillingum vafurferilsins þíns, eyðir { -brand-short-name } vefkökum og gögnum vefsvæða úr lotunni þinni þegar þú lokar vafranum.
-sitedata-allow-cookies-option =
-    .label = Samþykkja vefkökur og síðugögn
-    .accesskey = A
-sitedata-disallow-cookies-option =
-    .label = Blokka vefkökur og síðugögn
-    .accesskey = B
-# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
-# The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = Tegund útilokuð
-    .accesskey = T
 sitedata-option-block-cross-site-trackers =
     .label = Millivefsvæðarekjarar
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Rakningarkökur milli vefsvæða
-sitedata-option-block-cross-site-cookies =
-    .label = Rakningarkökur milli vefsvæða og einangra aðrar vefkökur milli vefsvæða
 sitedata-option-block-unvisited =
     .label = Vefkökur frá óheimsóttum vefsvæðum
 sitedata-option-block-all-cross-site-cookies =
@@ -1287,12 +914,6 @@ sitedata-clear2 =
 sitedata-settings2 =
     .label = Stjórna vafurgögnum
     .accesskey = m
-sitedata-clear =
-    .label = Hreinsa gögn…
-    .accesskey = ö
-sitedata-settings =
-    .label = Sýsla með gögn…
-    .accesskey = M
 sitedata-cookies-exceptions =
     .label = Sýsla með undantekningar...
     .accesskey = k
@@ -1303,32 +924,16 @@ sitedata-cookies-exceptions2 =
 cookies-site-data-group =
     .label = Vefkökur og gögn vefsvæðis
 
-## Privacy Section - Cookie Banner Handling
-
-cookie-banner-handling-header = Fækkun vefkökuborða
-cookie-banner-handling-description = { -brand-short-name } reynir sjálfkrafa að hafna beiðnum um vefkökur á þeim vefsvæðum þar sem það er hægt.
-
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Útilokun vefkökuborða
 cookie-banner-blocker-description = Þegar vefsvæði spyr hvort það megi nota vefkökur í huliðsvafraham, hafnat { -brand-short-name } því sjálfkrafa fyrir þig. Virkar aðeins á studdum vefsvæðum.
 cookie-banner-learn-more = Frekari upplýsingar
-forms-handle-cookie-banners =
-    .label = Fækkaðu vefkökuborðum
 cookie-banner-blocker-checkbox-label =
     .label = Hafna sjálfkrafa vefkökuborðum
 
 ## Search Section
 
-addressbar-header = Veffangastika
-addressbar-suggest = Þegar veffangastikan er notuð skal stinga upp á
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest = Vistfangastika — { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest = Veldu þá tegund tillagna sem birtast í veffangastikunni.
-# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
-# `addressbar-suggest-firefox-suggest`.
-addressbar-locbar-firefox-suggest-learn-more = Kanna nánar
 addressbar-locbar-history-option =
     .label = Vafurferill
     .accesskey = f
@@ -1351,9 +956,6 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option-1 =
     .label = Stinga upp á leitarvélum
     .accesskey = a
-addressbar-locbar-engines-option =
-    .label = Leitarvélar
-    .accesskey = a
 addressbar-locbar-quickactions-option =
     .label = Flýtiaðgerðir
     .accesskey = g
@@ -1364,28 +966,9 @@ addressbar-locbar-suggest-all-option-2 =
 addressbar-locbar-suggest-sponsored-option-2 =
     .description = Styddu við { -brand-short-name } með einstaka kostuðum tillögum
     .label = Tillögur frá styrktaraðilum
-addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvéla
-addressbar-locbar-showrecentsearches-option =
-    .label = Sýna nýlegar leitir
-    .accesskey = r
-addressbar-locbar-showtrendingsuggestions-option =
-    .label = Sýna vinsælar leitartillögur
-    .accesskey = t
-# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
-addressbar-locbar-suggest-nonsponsored-option =
-    .label = Tillögur frá { -brand-short-name }
-addressbar-locbar-suggest-nonsponsored-desc = Fáðu tillögur af vefnum sem tengjast leitinni þinni.
-addressbar-locbar-suggest-sponsored-option =
-    .label = Tillögur frá styrktaraðilum
-addressbar-locbar-suggest-sponsored-desc = Styddu við { -brand-short-name } með einstaka kostuðum tillögum
 addressbar-dismissed-suggestions-label-2 =
     .description = Endurheimta hafnaðar tillögur frá styrktaraðilum og { -brand-short-name }.
     .label = Tillögum vísað frá
-addressbar-quickactions-learn-more = Kanna nánar
-addressbar-dismissed-suggestions-label = Tillögum vísað frá
-addressbar-restore-dismissed-suggestions-description = Endurheimta hafnaðar tillögur frá styrktaraðilum og { -brand-short-name }.
-addressbar-restore-dismissed-suggestions-button =
-    .label = Endurheimta
 
 ## Privacy Section - Content Blocking
 
@@ -1422,7 +1005,6 @@ content-blocking-private-windows = Rakningu efnis í huliðsgluggum
 content-blocking-cross-site-cookies-in-all-windows2 = Vefkökur milli vefsvæða í öllum gluggum
 content-blocking-cross-site-tracking-cookies = Rakningarkökur milli vefsvæða
 content-blocking-all-cross-site-cookies-private-windows = Vefkökur milli vefsvæða í einkagluggum
-content-blocking-cross-site-tracking-cookies-plus-isolate = Rakningarkökur milli vefsvæða og einangra aðrar vefkökur
 content-blocking-social-media-trackers = Samfélagsmiðlarekjarar
 content-blocking-all-cookies = Allar vefkökur
 content-blocking-unvisited-cookies = Vefkökur frá óheimsóttum vefsíðum
@@ -1438,8 +1020,6 @@ content-blocking-known-and-suspected-fingerprinters = Þekkt og grunur um fingra
 content-blocking-etp-standard-tcp-rollout-description = Allsherjar-vefkökuvörn inniheldur vefkökur á vefsvæðið sem þú ert á, þannig að rekjarar geta ekki notað þær til að fylgja þér á milli vefsvæða.
 content-blocking-etp-standard-tcp-rollout-learn-more = Frekari upplýsingar
 content-blocking-etp-standard-tcp-title = Inniheldur allsherjar-vefkökuvörn, öflugasta persónuverndareiginleikann okkar frá upphafi
-content-blocking-warning-title = Gættu þín!
-content-blocking-and-isolating-etp-warning-description-2 = Þessar stillingar gætu valdið því að sum vefsvæði birti ekki efni eða virki ekki rétt. Ef síða virðist biluð gætirðu viljað slökkva á rakningarvörn fyrir það vefsvæði til að hlaða inn öllu efni.
 content-blocking-warning-learn-how = Lærðu hvernig
 content-blocking-reload-description = Þú þarft að endurhlaða flipana þína til að gera þessar breytingar virkar.
 content-blocking-reload-tabs-button =
@@ -1454,7 +1034,6 @@ content-blocking-tracking-protection-option-all-windows =
 content-blocking-option-private =
     .label = Bara í huliðsgluggum
     .accesskey = p
-content-blocking-tracking-protection-change-block-list = Breyta lokunarlista
 content-blocking-cookies-label =
     .label = Vefkökur
     .accesskey = V
@@ -1464,11 +1043,6 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = Rafmyntagröftur
     .accesskey = R
-# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
-# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
-content-blocking-fingerprinters-label =
-    .label = Fingrafarasöfnun
-    .accesskey = F
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 #
@@ -1490,60 +1064,14 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = Heimildir
-permissions-location = Staðsetning
-permissions-location-settings =
-    .label = Stillingar…
-    .accesskey = l
-permissions-xr = Sýndarveruleiki
-permissions-xr-settings =
-    .label = Stillingar…
-    .accesskey = t
-permissions-camera = Myndavél
-permissions-camera-settings =
-    .label = Stillingar…
-    .accesskey = M
-permissions-microphone = Hljóðnemi
-permissions-microphone-settings =
-    .label = Stillingar…
-    .accesskey = m
-# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
-permissions-speaker = Val á hátölurum
-permissions-speaker-settings =
-    .label = Stillingar…
-    .accesskey = t
-permissions-notification = Tilkynningar
-permissions-notification-settings =
-    .label = Stillingar…
-    .accesskey = n
-permissions-notification-link = Vita meira
 permissions-notification-pause =
     .label = Stöðva tilkynningar þangað til { -brand-short-name } endurræsir
     .accesskey = n
 permissions-autoplay2 =
     .label = Sjálfvirk spilun
-permissions-autoplay = Sjálfvirk spilun
-permissions-autoplay-settings =
-    .label = Stillingar...
-    .accesskey = S
 permissions-block-popups2 =
     .label = Loka á sprettglugga og endurbeiningar frá utanaðkomandi aðilum
     .accesskey = b
-permissions-block-popups =
-    .label = Loka á sprettiglugga
-    .accesskey = g
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button =
-    .label = Undanþágur…
-    .searchkeywords = sprettgluggar
-    .accesskey = d
-permissions-addon-install-warning =
-    .label = Vara við þegar vefsvæði reyna að setja inn viðbætur
-    .accesskey = V
-permissions-addon-exceptions =
-    .label = Undanþágur…
-    .accesskey = U
 permissions-location2 =
     .label = Staðsetning
 permissions-local-network2 =
@@ -1559,40 +1087,9 @@ permissions-notification2 =
 
 ## Privacy Section - Data Collection
 
-collection-header = Söfnun og notkun gagna í { -brand-short-name }
-collection-header2 = Söfnun og notkun gagna í { -brand-short-name }
-    .searchkeywords = gagnasöfnun
-preferences-collection-description = Við kappkostum að veita þér valkosti og söfnum aðeins þeim lágmarksgögnum sem nauðsynleg eru til að bæta { -brand-product-name } fyrir alla.
-preferences-collection-privacy-notice = Skoða upplýsingar um meðferð persónuupplýsinga
-preferences-across-profiles = Þessar stillingar eiga við um öll { -brand-product-name } notkunarsnið á þessu tæki.
-collection-description = Við reynum alltaf að bjóða upp á valkosti og söfnum aðeins þeim upplýsingum sem við þurfum til að endurbæta { -brand-short-name } fyrir alla. Við spyrjum alltaf um leyfi áður en við söfnum persónulegum upplýsingum.
-collection-privacy-notice = Meðferð persónuupplýsinga
-collection-health-report-telemetry-disabled = Þú leyfir { -vendor-short-name } ekki lengur að safna tækni- og samskiptagögnum. Öllum fyrri gögnum verður eytt innan 30 daga.
-collection-health-report-telemetry-disabled-link = Frekari upplýsingar
 addon-recommendations3 =
     .description = Fáðu ráðleggingar um forritsauka til að bæta notkun þína við vafur.
     .label = Leyfa persónusniðnar ráðleggingar um forritsauka
-collection-usage-ping =
-    .label = Senda upplýsingar um daglega notkun til { -vendor-short-name }
-    .accesskey = u
-collection-usage-ping-description = Þetta hjálpar { -vendor-short-name } að áætla virka notendur.
-collection-health-report2 =
-    .label = Senda tækni- og samskiptagögn til { -vendor-short-name }
-    .accesskey = n
-collection-health-report =
-    .label = Leyfa { -brand-short-name } að senda sjálkrafa tæknilegar og notkunar upplýsingar til { -vendor-short-name }
-    .accesskey = r
-collection-health-report-link = Kanna nánar
-collection-health-report-description = Þetta hjálpar okkur að bæta eiginleika, afköst og stöðugleika í { -brand-product-name }.
-collection-studies2 =
-    .label = Settu upp og keyrðu rannsóknir
-collection-studies-description = Prófaðu eiginleika og hugmyndir áður en þær eru settar í dreifingu.
-collection-studies =
-    .label = Leyfa { -brand-short-name } að setja upp og keyra rannsóknir
-collection-studies-link = Skoða rannsóknir frá { -brand-short-name }
-addon-recommendations2 =
-    .label = Leyfa persónusniðnar ráðleggingar um forritsauka
-addon-recommendations-description = Fáðu ráðleggingar um forritsauka til að bæta notkun þína við vafur.
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = Gagna skýrsla er óvirk í þessari útgáfu.
@@ -1600,14 +1097,6 @@ collection-backlogged-crash-reports2 =
     .label = Senda hrunskýrslur inn sjálfkrafa
     .accesskey = h
 collection-backlogged-crash-reports-description = Þetta gerir { -vendor-short-name } kleift að greina og laga vandamál með vafrann. Slíkar skýrslur geta innihaldið persónuleg eða viðkvæm gögn.
-addon-recommendations =
-    .label = Leyfa { -brand-short-name } að gera sérsniðnar tillögur um viðbætur.
-addon-recommendations-link = Kanna nánar
-# This message is displayed above disabled data sharing options in developer builds
-# or builds with no Telemetry support available.
-collection-health-report-disabled = Gagnaskýrslur eru óvirkar í þessari útgáfu
-collection-backlogged-crash-reports-with-link = Leyfa { -brand-short-name } að senda bakraktar hrunskýrslur fyrir þína hönd <a data-l10n-name="crash-reports-link">Frekari upplýsingar</a>
-    .accesskey = y
 privacy-segmentation-section-header = Nýir eiginleikar sem bæta vafrið þitt
 privacy-segmentation-section-description = Þegar við bjóðum upp á eiginleika sem nota gögnin þín til að veita þér persónulegri upplifun:
 privacy-segmentation-radio-off =
@@ -1635,21 +1124,12 @@ data-collection-usage-ping =
     .label = Senda upplýsingar um daglega notkun til { -vendor-short-name }
     .accesskey = u
 
-## Privacy Section - Website Advertising Preferences
-
-website-advertising-header = Kjörstillingar fyrir auglýsingar vefsvæðis
-website-advertising-private-attribution =
-    .label = Leyfa vefsvæðum að framkvæma auglýsingamælingar sem varðveita persónuvernd
-    .accesskey = a
-website-advertising-private-attribution-description = Þetta hjálpar vefsvæðum að skilja hvernig auglýsingar þeirra skila árangri án þess að safna gögnum um þig.
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Öryggi
-security-browsing-protection = Vörn gegn svikaefni og hættulegum hugbúnaði
 security-enable-safe-browsing =
     .label = Loka fyrir hættulegt og villandi efni
     .accesskey = L
@@ -1663,16 +1143,6 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = Skilríki
-certs-enable-ocsp =
-    .label = Senda fyrirspurn á OCSP-svarþjóna til að staðfesta hvort núverandi skilríki séu gild
-    .accesskey = S
-certs-view =
-    .label = Skoða skilríki…
-    .accesskey = S
-certs-devices =
-    .label = Öryggistæki…
-    .accesskey = y
 certs-thirdparty-toggle =
     .label = Leyfa { -brand-short-name } að treysta sjálfkrafa þeim rótarskilríkjum utanaðkomandi aðila sem þú setur upp
     .accesskey = t
@@ -1685,19 +1155,13 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er að verða upp
 
 ## Privacy Section - HTTPS-Only
 
-httpsonly-header = Einungis-HTTPS-hamur
-httpsonly-description3 = Leyfir aðeins öruggar tengingar við vefsvæði. { -brand-short-name } mun spyrja áður en þú tengist á óöruggan hátt.
 httpsonly-learn-more2 = Hvernig virkar Einungis-HTTPS
-httpsonly-description = HTTPS veitir örugga, dulkóðaða tengingu milli { -brand-short-name } og vefsvæðanna sem þú heimsækir. Flest vefsvæði styðja HTTPS og ef Einungis-HTTPS-hamur er virkt mun { -brand-short-name } verða allar tengingar uppfærðar í HTTPS.
-httpsonly-learn-more = Kanna nánar
 httpsonly-radio-enabled =
     .label = Virkja Einungis-HTTPS-ham í öllum gluggum
 httpsonly-radio-enabled-pbm =
     .label = Virkja Einungis-HTTPS-ham aðeins í huliðsgluggum
 httpsonly-radio-disabled3 =
     .description = { -brand-short-name } gæti samt uppfært sumar tengingar
-    .label = Ekki virkja Einungis-HTTPS-ham
-httpsonly-radio-disabled =
     .label = Ekki virkja Einungis-HTTPS-ham
 httpsonly-group =
     .description = Leyfir aðeins öruggar tengingar við vefsvæði. { -brand-short-name } mun spyrja áður en þú tengist á óöruggan hátt.
@@ -1706,7 +1170,6 @@ httpsonly-group =
 ## DoH Section
 
 preferences-doh-header = DNS yfir HTTPS
-preferences-doh-description = DNS yfir HTTPS (Domain Name System) sendir beiðni þína um lén í gegnum dulritaða tengingu, útbýr öruggt DNS og gerir erfiðara fyrir aðra að sjá hvaða vefsvæði þú ert að fara að fara á.
 preferences-doh-description2 = DNS yfir HTTPS (Domain Name System) sendir beiðni þína um lén í gegnum dulritaða tengingu, veitir öruggt DNS og gerir erfiðara fyrir aðra að sjá hvaða vefsvæði þú ert að fara að fara á.
 # Variables:
 #   $status (string) - The status of the DoH connection
@@ -1723,7 +1186,6 @@ preferences-doh-status-disabled = Óvirkt
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Ekki virkt ({ $reason })
-preferences-doh-group-message = Virkja öruggt DNS með því að nota:
 preferences-doh-group-message2 = Virkja DNS yfir HTTPS með því að nota:
 preferences-doh-radio-group =
     .aria-label = Virkja DNS yfir HTTPS með því að nota:
@@ -1755,11 +1217,7 @@ preferences-doh-setting-off =
     .label = Óvirkt
     .accesskey = k
 preferences-doh-off-desc = Nota sjálfgefna DNS-leysarann þinn
-preferences-doh-checkbox-warn =
-    .label = Viðvörun ef utanaðkomandi aðili er virkur í að koma í veg fyrir öruggt DNS
-    .accesskey = V
 preferences-doh-select-resolver = Veldu þjónustuveitu:
-preferences-doh-exceptions-description = { -brand-short-name } mun ekki nota öruggt DNS á þessum vefsvæðum
 preferences-doh-manage-exceptions =
     .label = Sýsla með undantekningar
     .accesskey = k
@@ -1768,4 +1226,3 @@ preferences-doh-manage-exceptions =
 
 desktop-folder-name = Skjáborð
 downloads-folder-name = Niðurhal
-choose-download-folder-title = Veldu niðurhals möppu:

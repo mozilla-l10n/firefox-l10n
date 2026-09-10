@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Sukua jíía
-newtab-settings-button =
-    .title = Sá´á vii tutu ya´a sukua jíía
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -78,7 +76,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Chisó ka̱a̱ nánuku
 newtab-topsites-add-shortcut-header = A jíía acceso ñama
-newtab-topsites-edit-topsites-header = Natee sitio xinañu´u
 newtab-topsites-edit-shortcut-header = Natee acceso ñama
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
@@ -116,20 +113,12 @@ newtab-topsite-sponsored = Patrocinado
 newtab-menu-section-tooltip =
     .aria-label = Síne menu
     .title = Síne menu
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Xita
-    .title = Xita
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Síne menu nuu { $title }
     .title = Síne menu
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Natee sitio
-    .title = Natee sitio
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -140,17 +129,7 @@ newtab-menu-dismiss = Xita
 newtab-menu-pin = Anclar
 newtab-menu-unpin = Desanclar
 newtab-menu-delete-history = Xita nuu sɨ´ɨ nsá´ánu
-newtab-menu-save-to-pocket = Chuva´a nuu { -pocket-brand-name }
-newtab-menu-delete-pocket = Xita nuu { -pocket-brand-name }
-newtab-menu-archive-pocket = Chuva´a nuu { -pocket-brand-name }
 newtab-menu-show-privacy-info = Da patrocinadores da nuu'u ji privacidad
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Nsá´á
-newtab-privacy-modal-button-manage = Tetiñu da ke'i contenido íyo patrocinado
-newtab-privacy-modal-header = Privacidad jituinidani
-newtab-privacy-modal-link = Kuni kua privacidad satiñu ji pestaña jíía
 
 ##
 
@@ -199,39 +178,16 @@ newtab-label-sponsored-by = Ya'a teku jie { $sponsor }
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Sna sección
-newtab-section-menu-collapse-section = Sección de colapso
-newtab-section-menu-expand-section = Sá´á ka´nu sección
-newtab-section-menu-manage-section = Tetiñu sección
-newtab-section-menu-manage-webext = Tetiñu da extensión
-newtab-section-menu-add-topsite = Tee sitio vii
-newtab-section-menu-add-search-engine = Chisó ka̱a̱ nánuku
-newtab-section-menu-move-up = Scana si̱kɨ̱
-newtab-section-menu-move-down = Scana chuve
 newtab-section-menu-privacy-notice = Tu´un xitu a kumiji noo´o
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Sá´á luli sección
-newtab-section-expand-section-label =
-    .aria-label = Sá´á ka´nu sección
 
 ## Section Headers.
 
 newtab-section-header-topsites = Da sitio vii
 newtab-section-header-recent-activity = Da a skuata nsá´á
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = A kachi { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Kajie´e nánuku, je xine´e ani da tutu vii, tutu nátava káná ji da inka nuu nnánukunu.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Niko íchika je nánuku kue'ka tu'un { $provider }. ¿Nkunetunu? Kaji iin tu'un vii je nani'inu kue'eka tu'un vii nuu kuaiyo web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -242,15 +198,6 @@ newtab-discovery-empty-section-topstories-loading = Kunetu…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = ¡Ups! Nkuni mati´i kuvi kivɨnu ya´a, je ntu nkuvi.
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Tu'un vii:
-newtab-pocket-more-recommendations = Kue´eka a kuvi ni´inu
-newtab-pocket-learn-more = Ka´vi kue´eka
-newtab-pocket-cta-button = Taji { -pocket-brand-name }
-newtab-pocket-cta-text = Chuva'a da tu'un jiniñu'unu { -pocket-brand-name } je chu'un mikinu ji tu'un ka'vi vii.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -259,8 +206,6 @@ newtab-error-fallback-refresh-link = Nachu´un página je nakajie´e tuku.
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Da acceso ñama
-newtab-custom-shortcuts-subtitle = Da nuu chuva´anu a xíín ne´yanu
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Da nuu chuva´anu a xíín ne´yanu
@@ -275,14 +220,4 @@ newtab-custom-row-selector2 =
         { $num ->
            *[other] { $num } filas
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-       *[other] { $num } filas
-    }
-newtab-custom-sponsored-sites = Da acceso íyo patrocinado
-newtab-custom-pocket-sponsored = Da historias patrocinadas
-newtab-custom-recent-title = Da a skuata nsá´á
-newtab-custom-close-button = Nakasɨ
 newtab-custom-settings = Tetiñu kue´e da kei´i

@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Bağlantı Ayarları
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Bağlantı Ayarları
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Yenile
     .accesskey = l
-connection-proxy-autologin =
-    .label = Parola kayıtlıysa kimlik doğrulama isteme
-    .accesskey = i
-    .tooltip = Bu seçenek, hesap bilgilerini kaydettiğiniz vekil sunucularda kimliğinizi sessizce doğrular. Kimlik doğrulama başarısız olursa bilgileriniz sorulur.
 connection-proxy-autologin-checkbox =
     .label = Parola kayıtlıysa kimlik doğrulama isteme
-    .accesskey = i
     .tooltiptext = Bu seçenek, hesap bilgilerini kaydettiğiniz vekil sunucularda kimliğinizi sessizce doğrular. Kimlik doğrulama başarısız olursa bilgileriniz sorulur.
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = SOCKS v4 kullanırken vekil sunucu DNS’ini kullan
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = DNS'i HTTPS üzerinden çözümlemek için varsayılan URL'yi kullan
 connection-dns-over-https-url-custom =
     .label = Özel
-    .accesskey = Ö
     .tooltiptext = HTTPS üzerinden DNS’i çözümlemek için tercih ettiğiniz adresi girin
-connection-dns-over-https-custom-label = Özel
+    .accesskey = Ö

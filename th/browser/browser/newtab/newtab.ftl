@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = แท็บใหม่
-newtab-settings-button =
-    .title = ปรับแต่งหน้าแท็บใหม่ของคุณ
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = ปรับแต่งหน้านี้
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = ปรับแต่ง
 newtab-customize-panel-label =
     .label = ปรับแต่ง
-newtab-personalize-settings-icon-label =
-    .aria-label = การตั้งค่า
-    .title = ปรับแต่งแท็บใหม่
 newtab-settings-dialog-label =
     .aria-label = การตั้งค่า
-newtab-personalize-icon-label =
-    .aria-label = ปรับแท็บใหม่ให้เป็นส่วนตัว
-    .title = ปรับแท็บใหม่ให้เป็นส่วนตัว
-newtab-personalize-dialog-label =
-    .aria-label = ปรับให้เป็นแบบส่วนตัว
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
@@ -256,7 +246,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = เพิ่มเครื่องมือค้นหา
 newtab-topsites-add-shortcut-header = ทางลัดใหม่
-newtab-topsites-edit-topsites-header = แก้ไขไซต์เด่น
 newtab-topsites-edit-shortcut-header = แก้ไขทางลัด
 newtab-topsites-add-shortcut-label = เพิ่มทางลัด
 newtab-topsites-add-shortcut-title =
@@ -308,20 +297,12 @@ topsite-label-pinned =
 newtab-menu-section-tooltip =
     .aria-label = เปิดเมนู
     .title = เปิดเมนู
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = เอาออก
-    .title = เอาออก
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = เปิดเมนูบริบทสำหรับ { $title }
     .title = เปิดเมนู
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = แก้ไขไซต์นี้
-    .title = แก้ไขไซต์นี้
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -332,11 +313,7 @@ newtab-menu-dismiss = ยกเลิก
 newtab-menu-pin = ปักหมุด
 newtab-menu-unpin = ถอนหมุด
 newtab-menu-delete-history = ลบออกจากประวัติ
-newtab-menu-save-to-pocket = บันทึกไปยัง { -pocket-brand-name }
-newtab-menu-delete-pocket = ลบจาก { -pocket-brand-name }
-newtab-menu-archive-pocket = เก็บถาวรใน { -pocket-brand-name }
 newtab-menu-show-privacy-info = สปอนเซอร์ของเราและความเป็นส่วนตัวของคุณ
-newtab-menu-about-fakespot = เกี่ยวกับ { -fakespot-brand-name }
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = รายงาน
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -347,27 +324,12 @@ newtab-menu-section-block = ปิดกั้น
 newtab-menu-section-unfollow-topic = เลิกติดตาม
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = เรียนรู้เพิ่มเติม
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = เลิกติดตามหัวข้อ
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = จัดการเนื้อหาที่ได้รับการสนับสนุน
 newtab-menu-our-sponsors-and-your-privacy = ผู้สนับสนุนของเราและความเป็นส่วนตัวของคุณ
 newtab-menu-report-this-ad = รายงานโฆษณานี้
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = เสร็จสิ้น
-newtab-privacy-modal-button-manage = จัดการการตั้งค่าเนื้อหาที่ได้รับการสนับสนุน
-newtab-privacy-modal-header = ความเป็นส่วนตัวของคุณสำคัญ
-newtab-privacy-modal-paragraph-2 =
-    นอกเหนือจากการนำเสนอเรื่องราวที่น่าสนใจ เรายังแสดงให้คุณเห็นเนื้อหาที่เกี่ยวข้อง
-    ซึ่งได้รับการตรวจสอบอย่างละเอียดจากผู้สนับสนุนที่ได้รับการคัดเลือก ทำให้คุณมั่นใจ
-    ได้ว่า<strong>ข้อมูลการเรียกดูของคุณจะไม่ทิ้งสำเนาส่วนตัวของ { -brand-product-name } ของคุณ</strong>ซึ่งเราและ
-    สปอนเซอร์ของเราจะไม่เห็น
-newtab-privacy-modal-link = เรียนรู้วิธีการปกป้องความเป็นส่วนตัวในแท็บใหม่
 
 ##
 
@@ -423,31 +385,12 @@ newtab-label-sponsored-fixed = ได้รับการสนับสนุ�
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = เอาส่วนออก
-newtab-section-menu-collapse-section = ยุบส่วน
-newtab-section-menu-expand-section = ขยายส่วน
-newtab-section-menu-manage-section = จัดการส่วน
-newtab-section-menu-manage-webext = จัดการส่วนขยาย
-newtab-section-menu-add-topsite = เพิ่มไซต์เด่น
-newtab-section-menu-add-search-engine = เพิ่มเครื่องมือค้นหา
-newtab-section-menu-move-up = ย้ายขึ้น
-newtab-section-menu-move-down = ย้ายลง
 newtab-section-menu-privacy-notice = ข้อกำหนดความเป็นส่วนตัว
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = ยุบส่วน
-newtab-section-expand-section-label =
-    .aria-label = ขยายส่วน
 
 ## Section Headers.
 
 newtab-section-header-topsites = ไซต์เด่น
 newtab-section-header-recent-activity = กิจกรรมล่าสุด
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = แนะนำโดย { $provider }
 newtab-section-header-stories = เรื่องราวที่จุดประกายความคิด
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = บทความคัดสรรสำหรับคุณประจำวันนี้
@@ -455,10 +398,6 @@ newtab-section-header-todays-picks = บทความคัดสรรสำ�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = เริ่มเรียกดูและเราจะแสดงบทความ วิดีโอ และหน้าอื่น ๆ บางส่วนที่ยอดเยี่ยมที่คุณได้เยี่ยมชมหรือเพิ่มที่คั่นหน้าไว้ล่าสุดที่นี่
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = คุณได้อ่านเรื่องราวครบทั้งหมดแล้ว คุณสามารถกลับมาตรวจดูเรื่องราวเด่นจาก { $provider } ได้ภายหลัง อดใจรอไม่ได้งั้นหรือ? เลือกหัวข้อยอดนิยมเพื่อค้นหาเรื่องราวที่ยอดเยี่ยมจากเว็บต่าง ๆ
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = คุณได้อ่านเรื่องราวครบทั้งหมดแล้ว คุณสามารถกลับมาตรวจดูเรื่องราวเพิ่มเติมได้ภายหลัง อดใจรอไม่ได้งั้นหรือ? เลือกหัวข้อยอดนิยมเพื่อค้นหาเรื่องราวที่ยอดเยี่ยมจากเว็บต่างๆ
 
@@ -480,39 +419,6 @@ newtab-carousel-previous =
 newtab-carousel-next =
     .aria-label = ถัดไป
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = หัวข้อยอดนิยม:
-newtab-pocket-new-topics-title = ต้องการเรื่องราวเพิ่มเติมหรือไม่ ดูหัวข้อยอดนิยมเหล่านี้จาก { -pocket-brand-name }
-newtab-pocket-more-recommendations = คำแนะนำเพิ่มเติม
-newtab-pocket-learn-more = เรียนรู้เพิ่มเติม
-newtab-pocket-cta-button = รับ { -pocket-brand-name }
-newtab-pocket-cta-text = บันทึกเรื่องราวที่คุณรักลงใน { -pocket-brand-name } และเติมเต็มสมองของคุณด้วยบทความที่น่าหลงใหล
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } เป็นส่วนหนึ่งของตระกูล { -brand-product-name }
-newtab-pocket-save = บันทึก
-newtab-pocket-saved = บันทึกแล้ว
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = เรื่องราวที่คล้ายกัน
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = ฉันไม่สนใจ
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = ขอบคุณ ความคิดเห็นของคุณจะช่วยเราปรับปรุงฟีดของคุณให้ดีขึ้น
-newtab-toast-dismiss-button =
-    .aria-label = ปิด
-    .title = ปิด
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = ค้นพบสุดยอดเว็บ
-newtab-pocket-onboarding-cta = { -pocket-brand-name } สำรวจสิ่งพิมพ์ที่หลากหลายเพื่อนำเนื้อหาที่ให้ข้อมูล สร้างแรงบันดาลใจ และน่าเชื่อถือที่สุดมาสู่เบราว์เซอร์ { -brand-product-name } ของคุณ
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -521,8 +427,6 @@ newtab-error-fallback-refresh-link = เรียกหน้าใหม่เ�
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = ทางลัด
-newtab-custom-shortcuts-subtitle = ไซต์ที่คุณบันทึกหรือเยี่ยมชม
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = ไซต์ที่คุณบันทึกหรือเยี่ยมชม
@@ -539,15 +443,6 @@ newtab-custom-row-selector2 =
         { $num ->
            *[other] { $num } แถว
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-       *[other] { $num } แถว
-    }
-newtab-custom-sponsored-sites = ทางลัดที่ได้รับการสนับสนุน
-newtab-custom-pocket-title = แนะนำโดย { -pocket-brand-name }
-newtab-custom-pocket-subtitle = เนื้อหาคัดสรรพิเศษโดย { -pocket-brand-name } ซึ่งเป็นส่วนหนึ่งของตระกูล { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = เนื้อหาคัดสรรพิเศษโดยผลิตภัณฑ์ตระกูล { -brand-product-name }
@@ -559,10 +454,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = เรื่องราวที่ปรับแต่งตามกิจกรรมของคุณ
 newtab-custom-stories-personalized-checkbox-label = เรื่องราวที่ปรับแต่งตามกิจกรรมของคุณ
-newtab-custom-pocket-sponsored = เรื่องราวที่ได้รับการสนับสนุน
-newtab-custom-pocket-show-recent-saves = แสดงบันทึกล่าสุด
-newtab-custom-recent-title = กิจกรรมล่าสุด
-newtab-custom-recent-subtitle = ไซต์และเนื้อหาล่าสุดที่คัดสรรมา
 newtab-custom-weather-toggle =
     .description = ดูพยากรณ์อากาศประจำวันนี้ได้อย่างรวดเร็ว
     .label = พยากรณ์อากาศ
@@ -586,7 +477,6 @@ newtab-widget-manage-widget-button =
 newtab-custom-close-menu-button =
     .aria-label = ปิดเมนู
     .title = ปิด
-newtab-custom-close-button = ปิด
 newtab-custom-settings = จัดการการตั้งค่าเพิ่มเติม
 
 ## New Tab Wallpapers
@@ -605,7 +495,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = ภาพมีขนาดเกินขีดจำกัดขนาดไฟล์ที่ { $file_size } MB โปรดลองอัปโหลดไฟล์ที่มีขนาดเล็กกว่านี้
 newtab-wallpaper-error-upload-file-type = เราไม่สามารถอัปโหลดไฟล์ของคุณได้ โปรดลองอีกครั้งด้วยไฟล์ภาพ
-newtab-wallpaper-error-file-type = เราไม่สามารถอัปโหลดไฟล์ของคุณได้ โปรดลองอีกครั้งด้วยชนิดไฟล์ที่ต่างจากนี้
 newtab-wallpaper-light-red-panda = แพนด้าแดง
 newtab-wallpaper-light-mountain = ภูเขาสีขาว
 newtab-wallpaper-light-sky = ท้องฟ้าที่มีเมฆสีม่วงและสีชมพู
@@ -707,10 +596,6 @@ newtab-wallpaper-celestial-river = ภาพถ่ายดาวเทียม
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = ดูพยากรณ์ใน { $provider }
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = สนับสนุนโดย { $provider }
 newtab-weather-menu-change-location = เปลี่ยนตำแหน่งที่ตั้ง
 newtab-weather-change-location-search-input-placeholder =
@@ -734,7 +619,6 @@ newtab-weather-menu-temperature-option-fahrenheit = ฟาเรนไฮต์
 newtab-weather-menu-temperature-option-celsius = เซลเซียส
 newtab-weather-menu-change-temperature-units-fahrenheit = เปลี่ยนเป็นฟาเรนไฮต์
 newtab-weather-menu-change-temperature-units-celsius = เปลี่ยนเป็นเซลเซียส
-newtab-weather-menu-hide-weather = ซ่อนพยากรณ์อากาศในแท็บใหม่
 newtab-weather-menu-learn-more = เรียนรู้เพิ่มเติม
 newtab-weather-menu-detect-my-location = ตรวจจับตำแหน่งที่ตั้งของฉัน
 # This message is shown if user is working offline
@@ -853,7 +737,6 @@ newtab-section-unblock-topic =
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = ยังไม่ทำตอนนี้
 newtab-section-confirm-block-topic-p1 = คุณแน่ใจหรือไม่ว่าต้องการปิดกั้นหัวข้อนี้?
 newtab-section-confirm-block-topic-p2 = หัวข้อที่ถูกปิดกั้นจะไม่ปรากฏในฟีดของคุณอีกต่อไป
 # Variables:

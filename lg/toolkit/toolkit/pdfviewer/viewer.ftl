@@ -32,19 +32,8 @@ pdfjs-print-button-label = Fulumya
 
 pdfjs-printing-not-supported = Okulaabula: Okulumya empapula tekuwagirwa enonyeso enno.
 
-## Tooltips and alt text for side panel toolbar buttons
-
-pdfjs-document-outline-button-label = Ensalo ze Ekiwandiko
-pdfjs-thumbs-button =
-    .title = Laga Ekifanyi Mubufunze
-pdfjs-thumbs-button-label = Ekifanyi Mubufunze
-
 ## Thumbnails panel item (tooltip and alt text for images)
 
-# Variables:
-#   $page (Number) - the page number
-pdfjs-thumb-page-title =
-    .title = Omuko { $page }
 # Variables:
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =

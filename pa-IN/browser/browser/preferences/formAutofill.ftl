@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = ਸੰਭਾਲੇ ਸਿਰਨਾਵੇਂ
 autofill-manage-addresses-list-header = ਸਿਰਨਾਵੇਂ
-autofill-manage-credit-cards-title = ਸੰਭਾਲੇ ਕਰੈਡਿਟ ਕਾਰਡ
-autofill-manage-credit-cards-list-header = ਕਰੈਡਿਟ ਕਾਰਡ
 autofill-manage-payment-methods-title = ਸੰਭਾਲੇ ਹੋਏ ਭੁਗਤਾਨ ਦੇ ਢੰਗ
 autofill-manage-cards-list-header = ਕਾਰਡ
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = ਮੇਨੂ ਖੋਲ੍ਹੋ
 address-capture-edit-address-link = ਸਿਰਨਾਵੇਂ ਨੂੰ ਸੋਧੋ
     .aria-label = ਸਿਰਨਾਵੇਂ ਨੂੰ ਸੋਧੋ
-address-capture-edit-address-button =
-    .aria-label = ਸਿਰਨਾਵੇਂ ਨੂੰ ਸੋਧੋ
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = ਸਿਰਨਾਵਾਂ ਜੋੜੋ
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = ਸਿਰਨਾਵਾਂ ਨੂੰ ਸੋਧੋ
-autofill-address-given-name = ਪਹਿਲਾਂ ਨਾਂ
-autofill-address-additional-name = ਮੱਧ ਨਾਂ
-autofill-address-family-name = ਆਖਰੀ ਨਾਂ
 autofill-address-name = ਨਾਂ
 autofill-address-organization = ਸੰਗਠਨ
 autofill-address-street-address = ਸੜਕ ਸਿਰਨਾਵਾਂ
@@ -104,8 +97,6 @@ autofill-address-eircode = ਇਰਕੋਡ
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = ਨਵਾਂ ਸਿਰਨਾਵਾਂ ਜੋੜੋ
 autofill-address-country = ਦੇਸ਼ ਜਾਂ ਖਿੱਤਾ
 autofill-address-country-only = ਦੇਸ਼
 autofill-address-tel = ਫ਼ੋਨ
@@ -114,18 +105,6 @@ autofill-cancel-button = ਰੱਦ ਕਰੋ
 autofill-save-button = ਸੰਭਾਲੋ
 autofill-country-warning-message-2 = ਆਪਣੇ-ਆਪ ਫਾਰਮ ਕਰਨਾ ਸਿਰਫ਼ ਕੁਝ ਹੀ ਦੇਸ਼ਾਂ ਵਿੱਚ ਮੌਜੂਦ ਹੈ
 autofill-country-warning-message = ਫ਼ਾਰਮ ਖੁਦ-ਭਰੋ ਇਸ ਵੇਲੇ ਕੁਝ ਦੇਸ਼ਾਂ 'ਚ ਹੀ ਉਪਲਬਧ ਹੈ।
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = ਨਵਾਂ ਕਰੈਡਿਟ ਕਾਰਡ ਜੋੜੋ
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = ਕਰੈਡਿਟ ਕਾਰਡ ਸੋਧੋ
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] ਕਰੈਡਿਟ ਕਾਰਡ ਜਾਣਕਾਰੀ ਵੇਖਾਓ
-        [windows] { -brand-short-name } ਕਰੈਡਿਟ ਕਾਰਡ ਜਾਣਕਾਰੀ ਵਿਖਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ। ਹੇਠ ਦਿੱਤੇ ਇਸ ਵਿੰਡੋ ਖਾਤੇ ਲਈ ਪਹੁੰਚ ਦੀ ਤਸਦੀਕ ਕਰੋ।
-       *[other] { -brand-short-name } ਕਰੈਡਿਟ ਕਾਰਡ ਜਾਣਾਕਰੀ ਦਿਖਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ।
-    }
 autofill-message-tooltip = ਆਪੇ-ਭਰਨ ਬਾਰੇ ਸੁਨੇਹਾ ਵੇਖੋ
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = ਕਾਰਡ ਜੋੜੋ
@@ -211,15 +190,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = ਪਾਸਪੋਰਟ ਕਦੇ ਨਾ ਸੰਭਾਲੋ
     .accessKey = N
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = ਅਮੈਰਿਕਨ ਐਕਸਪਰੈਸ
-autofill-card-network-cartebancaire = ਕਾਰਟੇ ਬਾਂਸੀਰ
-autofill-card-network-diners = ਡਿਨਰਸ ਕਲੱਬ
-autofill-card-network-discover = ਡਿਸਕਵਰ
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = ਯੂਨੀਅਨ ਪੇਅ
-autofill-card-network-visa = ਵੀਜ਼ਾ

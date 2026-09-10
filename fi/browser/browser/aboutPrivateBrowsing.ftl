@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Avaa yksityinen ikkuna
     .accesskey = A
 about-private-browsing-search-placeholder = Verkkohaku
-about-private-browsing-info-title = Olet yksityisessä ikkunassa
 about-private-browsing-search-btn =
     .title = Verkkohaku
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Hae hakukoneella { $engine } tai kirjoita osoite
 about-private-browsing-handoff-text-no-engine = Kirjoita osoite tai hakusana
 about-private-browsing-not-private = Tämä ei ole yksityinen selausikkuna.
-about-private-browsing-info-description-private-window = Yksityinen ikkuna: { -brand-short-name } tyhjentää haku- ja selaushistoriasi, kun suljet kaikki yksityiset ikkunat. Tämä ei tee sinusta anonyymiä.
-about-private-browsing-info-description-simplified = { -brand-short-name } tyhjentää haku- ja selaushistorian kun suljet kaikki yksityiset ikkunat, mutta tämä ei tee sinusta anonyymiä.
-about-private-browsing-learn-more-link = Lue lisää
 about-private-browsing-hide-activity = Piilota toimintasi ja sijaintisi kaikkialla missä selaat
 about-private-browsing-get-privacy = Hanki yksityisyyden suojaa kaikkialle missä selaat
 about-private-browsing-hide-activity-1 = Piilota selaustoimintasi ja sijaintisi käyttäen { -mozilla-vpn-brand-name }:ää. Yksi napsautus luo suojatun yhteyden, jopa julkisissa wifi-verkoissa.
@@ -29,8 +25,6 @@ about-private-browsing-prominent-cta = Pysy yksityisenä käyttäen { -mozilla-v
 about-private-browsing-focus-promo-cta = Lataa { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Yksityistä selausta tien päällä
 about-private-browsing-focus-promo-text = Yksityisyydelle omistettu mobiiliselaimemme tyhjentää historiasi ja evästeet joka kerta.
-about-private-browsing-focus-promo-header-b = Vie yksityinen selaaminen puhelimeesi
-about-private-browsing-focus-promo-text-b = Käytä { -focus-brand-name }ia niitä yksityisiä hakuja varten, joita et halua ensisijaisen mobiiliselaimesi näkevän.
 about-private-browsing-focus-promo-header-c = Seuraavan tason yksityisyyttä mobiilissa
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } tyhjentää selaushistorian jokaisen käyttökerran jälkeen samalla estäen mainokset ja seuraimet.
 # This string is the title for the banner for search engine selection
@@ -62,11 +56,6 @@ about-private-browsing-relay-promo-link-text = Kokeile sähköpostimaskeja
 
 ## Strings used in a promotion message for cookie banner reduction
 
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = Evästeilmoitukset poistukaa!
-about-private-browsing-cookie-banners-promo-button = Vähennä evästeisiin liittyviä ilmoituksia
-about-private-browsing-cookie-banners-promo-message = Anna { -brand-short-name }in vastata automaattisesti evästeiden ponnahduspyyntöihin, jotta selaaminen olisi mahdollisimman häiriötöntä. { -brand-short-name } hylkää kaikki pyynnöt, jos mahdollista.
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } huolehtii evästeilmoituksista puolestasi

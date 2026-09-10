@@ -31,4 +31,3 @@ search-bookmarks = סימניות
 search-history = היסטוריה
 search-opentabs = לשוניות פתוחות
 search-tags = תגיות
-search-titles = כותרות

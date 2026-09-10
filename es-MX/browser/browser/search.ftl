@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Tu motor de búsqueda predeterminado ha sido cambiado.</strong> { $oldEngine } ya no está disponible como motor de búsqueda predeterminado en { -brand-short-name }. { $newEngine } es ahora tu motor de búsqueda predeterminado. Para cambiar a otro motor de búsqueda predeterminado, ve a los ajustes. <label data-l10n-name="remove-search-engine-article">Saber más</label>
 removed-search-engine-message2 = <strong>Tu motor de búsqueda predeterminado ha sido cambiado.</strong> { $oldEngine } ya no está disponible como motor de búsqueda predeterminado en { -brand-short-name }. { $newEngine } es ahora tu motor de búsqueda predeterminado. Para cambiar a otro motor de búsqueda predeterminado, ve a los ajustes.
 remove-search-engine-button = Aceptar
 
@@ -52,11 +51,11 @@ install-search-engine-no = No
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Agregar motor de búsqueda
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Editar el motor de búsqueda
     .style = min-width: 32em;
+    .title = Editar el motor de búsqueda
 add-engine-button = Agregar motor de búsqueda personalizado
 add-engine-name = Nombre del motor de búsqueda
 add-engine-url2 = URL con %s en lugar del término de búsqueda
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Intenta incluir %s en lugar del término de
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Agregar motor de búsqueda
-    .buttonaccesskeyaccept = A
     .buttonlabelextra1 = Avanzado
+    .buttonaccesskeyaccept = A
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Guardar buscador
-    .buttonaccesskeyaccept = S
     .buttonlabelextra1 = Avanzado
+    .buttonaccesskeyaccept = S

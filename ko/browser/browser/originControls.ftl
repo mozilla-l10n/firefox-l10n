@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = 확장 기능이 데이터 읽기 및 변경을 할 수 없음
-origin-controls-quarantined =
-    .label = 확장 기능이 데이터 읽기 및 변경 허용 안 됨
 origin-controls-quarantined-status =
     .label = 확장 기능이 제한된 사이트에서 허용되지 않음
 origin-controls-quarantined-allow =

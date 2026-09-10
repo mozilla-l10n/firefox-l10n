@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = سائٹ کی معلومات کا نظارہ کریں
 
@@ -40,8 +35,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = آف لائن ذخیرہ پیغام پینل کھولیں
 urlbar-password-notification-anchor =
     .tooltiptext = مہفوظ شدہ پیغام پینل کھولیں
-urlbar-plugins-notification-anchor =
-    .tooltiptext = پلگ ان کو بندوبست کریں
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = کیمرہ اور مائیکروفون کی سائٹ کے ساتھ حصہ داری کو بندوبست کریں
 urlbar-autoplay-notification-anchor =
@@ -50,14 +43,7 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = مسلسل اسٹوریج میں کوائف اسٹور کرے
 urlbar-addons-notification-anchor =
     .tooltiptext = ایڈاون کا تنصیب شدہ پیغام کا پینل کھولیں
-urlbar-tip-help-icon =
-    .title = مدد حاصل کریں
 urlbar-search-tips-confirm = ٹھیک ہے، سمجھ آگیا
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = ٹوٹکا:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -89,8 +75,6 @@ urlbar-screen-blocked =
     .tooltiptext = آپ نے اس ویب سائٹ کو سکرین کا اشتراک کرنے سے بلاک کیا ہے
 urlbar-persistent-storage-blocked =
     .tooltiptext = آپ نے اس ویب سائٹ کے لیئے مسلسل اسٹوریج کو بلاک کیا ہوا ہے۔
-urlbar-popup-blocked =
-    .tooltiptext = آپ نے اس ویب سائٹ کے لیئے پوپ اپ بلاک کیا ہوا ہے۔
 urlbar-autoplay-media-blocked =
     .tooltiptext = آپنے اس ویب سائٹ کے لئے خودکار چلنیں والی میڈیا مع آواز بلاک کر دی ہیں۔
 urlbar-canvas-blocked =
@@ -206,7 +190,6 @@ identity-active-blocked = { -brand-short-name } نے اس صفحے کے وہ ح�
 identity-passive-loaded = اس صفحے کے حصے قابل بھروسا نہیں ہیں (جیسے کہ نقوش)۔
 identity-active-loaded = آپ نے اس صفحے پر حفاظت نا اہل بنا دی ہے۔
 identity-weak-encryption = یہ صفحہ کمزور خفیہ کاری استعمال کرتا ہے۔
-identity-insecure-login-forms = اس صفحہ پر داخل کردہ لاگ ان اشتباہ کیا جا سکتا ہے۔
 identity-https-only-dropdown-on =
     .label = چالو
 identity-https-only-dropdown-off =
@@ -224,7 +207,6 @@ identity-remove-cert-exception =
     .label = استثنا ہٹائیں
     .accesskey = R
 identity-description-insecure = اس سائٹ سے آپ کی کنکشن رازدار نہیں ہے۔ جو معلومات آپ بھیجتے ہیں (جیسے کے پاس ورڈ، پیغامات، کریڈٹ کارڈ وغیرہ) اسے اور لوگ دیکھ سکیں گے۔
-identity-description-insecure-login-forms = جو لاگ ان معلومات آپ اس صفحے پر داخل کرتے ہیں وہ محفوظ نہیں ہے اور اشتباہ ہو سکتی ہے۔
 identity-description-weak-cipher-intro = اس ویب سائٹ پر آپ کے کنکشن کمزور خفیہ کندھ استعمال کرتا ہے اور نجی نہیں ہے۔
 identity-description-weak-cipher-risk = دیگر لوگ آپ کی معلومات دیکھ سکتے ہیں یا ویب سائٹ کا رویہ بدل سکتے ہیں۔
 identity-description-active-blocked2 = { -brand-short-name }  نے اس صفحے کے وہ حصے بلاک کر دیے ہیں جو قابل بھروسا نہیں ہیں۔
@@ -233,12 +215,6 @@ identity-description-passive-loaded-insecure2 = اس ویب سائٹ میں مو
 identity-description-passive-loaded-mixed2 = { -brand-short-name } نے کچھ مواد بلاک کیا ہے، لیکن پھر بھی صفحے پر بواد ہے جو کہ قابل بھروسا نہیں (جیسے کے نقوش)۔
 identity-description-active-loaded = اس ویب سائٹ میں مواد شامل ہے جو کے قابل بھروسا نہیں ہے (جیسے کے نوشتے) اور اس کے ساتھ آپ کی کنکشن قابل بھروسا نہیں ہے۔
 identity-description-active-loaded-insecure = وہ معلومات جو آپ اس سائٹ کے ساتھ شیئر کرتے ہیں وہ دیگر لوگ دیکھ سکیں گے (جیسے کے پاس ورڈ، پیغامات، کریڈٹ کارڈ وغیرہ)۔
-identity-disable-mixed-content-blocking =
-    .label = ابھی کے لئے حفاظت کو نا اہل بنائیں
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = تحفظ فعال کریں
-    .accesskey = E
 identity-more-info-link-text =
     .label = مزید معلومات
 
@@ -252,13 +228,6 @@ browser-window-restore-down-button =
     .tooltiptext = نیچے بحال کریں
 browser-window-close-button =
     .tooltiptext = بند کریں
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = ‏‏چلا رہا ہے
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = خاموش
 
 ## WebRTC Pop-up notifications
 
@@ -315,8 +284,6 @@ urlbar-extension =
     .value = ایکسٹینشن:
 urlbar-go-button2 =
     .title = محل وقوع بار میں دیے گئے پتے پر جائیں
-urlbar-go-button =
-    .tooltiptext = محل وقوع بار میں دیے گئے پتے پر جائیں
 urlbar-page-action-button =
     .tooltiptext = صفحہ اعمال
 
@@ -342,20 +309,6 @@ urlbar-result-action-switch-tab = ٹیب پر جائیں
 urlbar-result-action-visit = دورہ
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = نقل کریں
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
-
-## Strings used for buttons in the urlbar
-
-urlbar-searchmode-bookmarks =
-    .label = بک مارک
-urlbar-searchmode-tabs =
-    .label = ٹیبز
-urlbar-searchmode-history =
-    .label = سابقات
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -435,12 +388,6 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] بک مارک ٹولبار چھپائیں
            *[other] بک مارک ٹولبار دیکھیں
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] بک مارک مینو کو ٹولبار سے ہٹائے
-           *[other] بک مارک مینو کو ٹولبار میں شامل کریں
-        }
 
 ##
 
@@ -466,14 +413,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = بک مارک
-library-recent-activity-title =
-    .value = حالیہ سرگرمی
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = { -pocket-brand-name } میں محفوظ کریں
-    .tooltiptext = { -pocket-brand-name } میں محفوظ کریں
 
 ##
 
@@ -521,8 +460,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = صارف کا نام
-panel-save-update-password = پاس ورڈ
 panel-save-update-username-2 =
     .label = صارف کا نام
 panel-save-update-password-2 =
@@ -536,21 +473,8 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = بند کریں
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = { $uriHost } کے لیے پاپ اپ اجازت دیں
-    .accesskey = p
-popups-infobar-block =
-    .label = { $uriHost } کے لیے پاپ اپ روکیں
-    .accesskey = p
-
 ##
 
-popups-infobar-dont-show-message =
-    .label = جب پاپ اپ بلاک ہوں تو یہ پیغام نہ دکھائیں
-    .accesskey = D
 picture-in-picture-hide-toggle =
     .label = تصویر میں تصویر ٹوگل چھپائیں
     .accesskey = H
@@ -564,8 +488,6 @@ navbar-accessible =
     .aria-label = نیویگیشن
 navbar-downloads =
     .label = ڈاؤن لوڈ
-navbar-overflow =
-    .tooltiptext = مزید ٹول…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

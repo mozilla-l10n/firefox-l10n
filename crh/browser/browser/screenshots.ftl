@@ -6,7 +6,6 @@ screenshots-instructions = Bir mıntaqanı saylamaq içün saifede süyrekleñiz
 screenshots-cancel-button = Vazgeç
 screenshots-save-visible-button = Körünirni saqla
 screenshots-save-page-button = Tam saifeni saqla
-screenshots-download-button = Endir
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘

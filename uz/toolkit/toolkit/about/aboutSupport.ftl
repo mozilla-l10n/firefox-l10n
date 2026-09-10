@@ -24,7 +24,6 @@ app-basics-profile-dir =
         [linux] Profil direktoriyasi
        *[other] Profil jildi
     }
-app-basics-enabled-plugins = Yoqilgan plaginlar
 app-basics-build-config = Tuzish konfiguratsiyasi
 app-basics-user-agent = Foydalanuvchi agent
 app-basics-os = OT

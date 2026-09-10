@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = ללא מגירה
-    .accesskey = ל
 user-context-manage-containers =
     .label = ניהול מגירות
     .accesskey = ג

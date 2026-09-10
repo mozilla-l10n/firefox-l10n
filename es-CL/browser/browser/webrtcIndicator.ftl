@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Indicador de que se está compartiendo
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Indicador de que se está compartiendo
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Estás compartiendo tu micrófono. Haz clic para controlar lo compartido.
 webrtc-screen-system-menu =
     .label = Estás compartiendo tu ventana o pantalla. Haz clic para controlar lo compartido.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Tu cámara y micrófono están siendo compartidos. Haz clic para controlar lo compartido.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Tu cámara está siendo compartida. Haz clic para controlar lo compartido.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Tu micrófono está siendo compartido. Haz clic para controlar lo compartido.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Una aplicación está siendo compartida. Haz clic para controlar lo compartido.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Tu pantalla está siendo compartida. Haz clic para controlar lo compartido.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Una ventana está siendo compartida. Haz clic para controlar lo compartido.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Una pestaña está siendo compartida. Haz clic para controlar lo compartido.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ¿Permitir a { $
 
 webrtc-share-screen-warning = Comparte la pantalla solo con sitios con los que confíes. Compartirla puede permitir a sitios fraudulentos a navegar en tu nombre y robar tus datos privados.
 webrtc-share-browser-warning = Comparte { -brand-short-name } solo con sitios con los que confíes. Compartirla puede permitir a sitios fraudulentos a navegar en tu nombre y robar tus datos privados.
-webrtc-share-screen-learn-more = Aprender más
 webrtc-pick-window-or-screen = Selecciona ventana o pantalla
 webrtc-share-entire-screen = Pantalla completa
 webrtc-share-pipe-wire-portal = Usar los ajustes del sistema operativo

@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Lejupīluodē atjaunynuojumu — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Lejupīluodē atjaunynuojumu — { $transfer }
 
@@ -29,7 +28,6 @@ settings-update-applying =
     .label = Instalej atjaunynuojumu…
 update-failed = Atjaunynuošona naizadeve. <label data-l10n-name="failed-link">Lejupīlōdej jaunōkū verseju</label>
 update-failed-main = Atjaunynuošona naizadeve. <a data-l10n-name="failed-link-main">Lejupīlōdej jaunōkū verseju</a>
-update-adminDisabled = Jiusu sistemys administrators ir deaktiviejs atjaunynuojumus
 update-noUpdatesFound = { -brand-short-name } nav atjaunynuojumu
 settings-update-no-updates-found =
     .label = { -brand-short-name } nav atjaunynuojumu
@@ -58,8 +56,6 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } veidoj <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, kurys <label data-l10n-name="community-creditsLink">globala kūpīna</label>, kas struodoj, kab šķārsteikls byutu attaiseits, publisks i vysim pīejams.
 helpus = Gribi īt paleigā? <label data-l10n-name="helpus-donateLink">Zīdoj</label> voi <label data-l10n-name="helpus-getInvolvedLink">īzasaisti!</label>
 bottomLinks-license = Licenciešona informaceja
-bottomLinks-rights = Gola lītuotuoja tīseibys
-bottomLinks-privacy = Privatuma politika
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

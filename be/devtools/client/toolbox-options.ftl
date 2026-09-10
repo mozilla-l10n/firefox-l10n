@@ -188,8 +188,6 @@ options-disable-http-cache-tooltip =
     .title = Калі ўключана, забараняе кэш HTTP для ўсіх картак, на якіх адкрыта панэль прылад. Гэты параметр не дзейнічае на воркеры сэрвісу.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label-2 = Адключыць JavaScript
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Забараніць JavaScript *
 options-disable-javascript-tooltip =
     .title = Уключэнне гэтага параметра адключыць JavaScript у дзейнай картцы. Параметр забудзецца пасля закрыцця карткі або прылад распрацоўкі.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -219,8 +217,6 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = (толькі бягучы сеанс, перазагрузка старонкі)
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Толькі для бягучага сеанса, перазагружае старонку
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (перазагружае старонку)

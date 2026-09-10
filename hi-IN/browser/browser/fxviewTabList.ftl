@@ -8,7 +8,3 @@ fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
 # Variables:
 #   $time (string) - Time to be formatted based on locale
 fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-

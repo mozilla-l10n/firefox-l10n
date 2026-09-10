@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Nav skreines
-    .accesskey = N
 user-context-manage-containers =
     .label = Porvaļdēt skreines
     .accesskey = O

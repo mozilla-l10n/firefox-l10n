@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = නව පටිත්ත
-    .accesskey = w
 reload-tab =
     .label = පටිත්ත යළි පූරණය
     .accesskey = R
@@ -82,10 +79,6 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = බෙදාගන්න
     .accesskey = h
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -107,10 +100,3 @@ tab-context-move-tabs =
            *[other] පටිති ගෙනයන්න
         }
     .accesskey = v
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [1] උපාංගයට පටිත්ත යවන්න
-           *[other] උපාංගයට පටිති { $tabCount } ක් යවන්න
-        }
-    .accesskey = n

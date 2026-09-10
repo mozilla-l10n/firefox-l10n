@@ -2,111 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } ـــ { -brand-full-name }
-    .data-content-title-private = { $content-title } ــــ { -brand-full-name } نجی براؤزنگ
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } نجی براؤزنگ
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — نجی براؤزنگ
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — نجی براؤزنگ
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } نجی براؤزنگ
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } نجی براؤزنگ
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } نجی براؤزنگ
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } نجی براؤزنگ
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } نجی براؤزنگ
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } —نجی براؤزنگ
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — نجی براؤزنگ
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — نجی براؤزنگ
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } نجی براؤزنگ
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -150,8 +48,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = آف لائن ذخیرہ پیغام پینل کھولو
 urlbar-password-notification-anchor =
     .tooltiptext = محفوظ شدہ پیغام پینل کھولو
-urlbar-plugins-notification-anchor =
-    .tooltiptext = پلگ ان ورتاوے دا بندوبست کرو
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = کیمرہ تے مائیکروفون دی سائٹ دے نال حصہ داری دا بندوبست کرو
 # "Speakers" is used in a general sense that might include headphones or
@@ -164,15 +60,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = مسلسل اسٹوریج وچ کوائف اسٹور کرو
 urlbar-addons-notification-anchor =
     .tooltiptext = ایڈ آن دا تنصیب شدہ پیغام دا پینل کھولو
-urlbar-tip-help-icon =
-    .title = مدد گھنو
 urlbar-search-tips-confirm = ٹھیک ہے، سمجھ آڳئی ہے
 urlbar-search-tips-confirm-short = سمجھ گھدے
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = ٹوٹکا:
 urlbar-result-menu-button =
     .title = مینیو کھولو
 urlbar-result-menu-button-feedback = فیڈبیک
@@ -200,8 +89,6 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = گھٹ ٹائپ کرو ، زیادہ ڳولو: اپݨے ایڈریس بار  دے { $engineName } نال تلاش کرو۔
 urlbar-search-tips-redirect-2 = { $engineName } کنوں تجاویز تے براؤزنگ سبقات ݙیکھݨ کیتے پتے دی بار وِچ اپݨی تلاش دا آغاز کرو
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = ڳولݨ ہݨ آسان تھی ڳیا ہے۔ ایڈریس بار وِچ اپݨی ڳول کوں ودھیک مخصوص بݨاوݨ دی کوشش کرو۔ ایندے بجائے یو آر ایل ݙکھاوݨ کیتے، ترتیباں وِچ سرچ تے ونڄو۔
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = جیڑھی چیز دی تہاکوں لوڑ ہے اونکوں تکھاجی نال ڳولݨ کیتے ایں شارٹ کٹ کوں منتخب کرو۔
@@ -229,8 +116,6 @@ urlbar-screen-blocked =
     .tooltiptext = تساں ایں ویب سائٹ کوں سکرین شیئر کرݨ  بلاک کیتا ہے۔
 urlbar-persistent-storage-blocked =
     .tooltiptext = تساں ایں ویب سائٹ کیتے مسلسل سٹوریج کوں بلاک کیتا ہویا ہے۔
-urlbar-popup-blocked =
-    .tooltiptext = تساں ایں ویب سائٹ کیتے پوپ اپ بلاک کیتا ہویا ہے۔
 urlbar-autoplay-media-blocked =
     .tooltiptext = تساں ایں ویب سائٹ کیتے خودکار چلݨ والی میڈیا بمع آواز بلاک کر ݙتی ہے۔
 urlbar-canvas-blocked =
@@ -329,30 +214,21 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = ایڈ آنز ݙیکھو
-quickactions-cmd-addons2 = ایڈ آنز
 # Opens the bookmarks library window
 quickactions-bookmarks2 = نشانیاں منظم کرو
 quickactions-cmd-bookmarks = نشانیاں
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = ہسٹری میسو
-quickactions-cmd-clearhistory = ہسٹری میسو
 # Opens about:downloads page
 quickactions-downloads2 = ڈاؤن لوڈز ݙیکھو
 quickactions-cmd-downloads = ڈاؤن لوڈز
 # Opens about:addons page in the extensions section
 quickactions-extensions = ایکسٹینشنز دا بندوبست کرو
-quickactions-cmd-extensions = ایکسٹینشنز
 # Opens Firefox View
 quickactions-firefoxview = { -firefoxview-brand-name } کھولو
 # Opens the devtools web inspector
 quickactions-inspector2 = ڈویلپر ٹولز کھولو
-quickactions-cmd-inspector = انسپیکٹر، ڈیو ٹولز
 # Opens about:logins
 quickactions-logins2 = پاس ورڈز دا بندوبست کرو
 quickactions-cmd-logins = لاگ انز، پاس ورڈز
-# Opens about:addons page in the plugins section
-quickactions-plugins = پلگ انز دا بندوبست کرو
-quickactions-cmd-plugins = پلگ انز
 # Opens the print dialog
 quickactions-print2 = ورقہ پرنٹ کرو
 quickactions-cmd-print = چھاپو
@@ -372,19 +248,15 @@ quickactions-screenshot3 = سکرین شاٹ گھنو
 # Opens about:translations
 quickactions-translate = ترجمہ کرو
 quickactions-cmd-translate = ترجمہ کرو
-quickactions-cmd-screenshot = سکرین شاٹ
 # Opens about:preferences
 quickactions-settings2 = ترتیباں دا بندوبست کرو
-quickactions-cmd-settings = ترتیباں، ترجیحاں، اختیارات
 # Opens about:addons page in the themes section
 quickactions-themes = تھیمز دا بندوبست کرو
-quickactions-cmd-themes = تھیمز
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = اپ ڈیٹ { -brand-short-name }
 quickactions-cmd-update = اپ ڈیٹ
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = ورقے دا ماخذ ݙیکھو
-quickactions-cmd-viewsource = ماخذ ݙیکھو، ماخذ
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = کوئیک ایکشن بارے ودھیک ڄاݨو
@@ -437,9 +309,7 @@ identity-custom-root = ہک سرٹیفکیٹ جاری کرݨ والے دے ذر�
 identity-passive-loaded = ایں صفحے دے حصے قابل بھروسا کائنی (جیویں جو تصویراں)۔
 identity-active-loaded = تساں ایں صفحے تے حفاظت غیر فعال کر ݙتی ہے
 identity-weak-encryption = اے صفحہ کمزور خفیہ کاری استعمال کریندا ہے
-identity-insecure-login-forms = ایں صفحہ تے داخل تھیوݨ والا لاگ ان اشتباہ کیتا ونڄ سڳدا ہے۔
 identity-https-only-connection-upgraded = (  HTTPS تے اپگریڈ کر ݙتا ڳئے)
-identity-https-only-label = ایچ ٹی ٹی پی ایس ــ صرف موڈ
 identity-https-only-label2 = ایہ سائٹ محفوظ کنکشن تے خودکار اپ گریڈ کرو
 identity-https-only-dropdown-on =
     .label = چالو
@@ -447,8 +317,6 @@ identity-https-only-dropdown-off =
     .label = بند
 identity-https-only-dropdown-off-temporarily =
     .label = عارضی طور تے بندکرو
-identity-https-only-info-turn-on2 = جے تساں چاہندے او جو { -brand-short-name } جݙاں ممکن ہووے تاں کنکشن کوں اپ گریڈ کرݨ چاہندے او تاں ایں سائٹ کیتے HTTPS-Only Mode کوں آن کرو۔
-identity-https-only-info-turn-off2 = جے ورقہ ترٹا ہویا لڳدا پئے، تاں تساں غیر محفوظ HTTPS دا استعمال کریندے ہوئیں ولا لوڈ کرݨ کیتے ایں سائٹ کیتے صرف HTTPS موڈ کوں بند کر سڳدے او۔
 identity-https-only-info-turn-on3 = جے تساں چاہندے او جو { -brand-short-name } جݙاں ممکن ہووے تاں کنکشن کوں اپ گریڈ کرݨ چاہندے او تاں ایں سائٹ کیتے HTTPS اپ گریڈ کوں آن کرو۔
 identity-https-only-info-turn-off3 = جے ورقہ ترٹا ہویا لڳدا پئے، تاں تساں غیر محفوظ HTTP دا استعمال کریندے ہوئیں ولا لوڈ کرݨ کیتے ایں سائٹ کیتے HTTPS اپ گریڈاں بند کر سڳدے ہو۔
 identity-https-only-info-no-upgrade = HTTP کنوں کنکشن اپ گریڈ کرݨ کنوں قاصر ہے۔
@@ -466,7 +334,6 @@ identity-remove-cert-exception =
     .label = استثنا ہٹاؤ
     .accesskey = R
 identity-description-insecure = ایں سائٹ کیتے تہاݙا کنکشن نجی کائنی۔ جیڑھیاں معلومات تساں جمع کرویندے او او ٻئے ݙیکھ سڳدے ہن ( جیویں پاس ورڈ، سنیہے، کریڈٹ کارڈز وغیرہ)
-identity-description-insecure-login-forms = ایں ورقے تے تساں جیڑھا لاگ ان معلومات داخل کریندے او تاں او محفوظ کائنی تے ایندے نال سمجھوتہ کیتا ونڄ سڳدا ہے۔
 identity-description-weak-cipher-intro = ایں ویب سائٹ تے تہاݙا کنکشن کمزور خفیہ انکریپشن استعمال کریندا ہے جیڑھا جو نجی کائنی
 identity-description-weak-cipher-risk = ٻئے لوک تہاݙی معلومات ݙیکھ سڳدے ہن یا ویب سائٹ دا رویہ بدال سڳدے ہن۔
 identity-description-active-blocked2 = { -brand-short-name }  ایں ورقے دے او حصے بلاک کر ݙتے ہن جیڑھے جو قابل بھروسا کائنی۔
@@ -475,12 +342,6 @@ identity-description-passive-loaded-insecure2 = ایں ویب سائٹ وچ مو
 identity-description-passive-loaded-mixed2 = بھانویں جو { -brand-short-name } کجھ مواد کوں بلاک کر ݙتا ہے، پر ورقے تے ہݨ وی اینجھا مواد موجود ہے جیڑھا محفوظ کائنی (جیویں تصویراں)۔
 identity-description-active-loaded = ایں ویب سائٹ وِچ اینجھا مواد شامل ہے جیڑھا جو قابل بھروسا کائنی (جیویں جو لکھتاں) تے ایندے نال تہاݙا کنکشن قابل بھروسا کائنی۔
 identity-description-active-loaded-insecure = او معلومات جیڑھیاں تساں ایں سائٹ تے سانجھیاں کریندے ہو او ٻئے لوک ݙیکھ سڳسن (جیویں جو پاس ورڈز، تصویراں، کریڈٹ کارڈز، وغیرہ)۔
-identity-disable-mixed-content-blocking =
-    .label = ہݨ کیتے حفاظت کوں نا اہل بݨاؤ
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = تحفظ فعال کرو
-    .accesskey = E
 identity-more-info-link-text =
     .label = ودھیک معلومات
 
@@ -494,40 +355,6 @@ browser-window-restore-down-button =
     .tooltiptext = تلے بحال کرو
 browser-window-close-button =
     .tooltiptext = بند کرو
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = چلدا پیا ہے
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = خاموش
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = آٹو پلے بلاکڈ
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = پکچر ان پکچر
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] خاموش ٹیب
-        [one] خاموش  ٹیب
-       *[other] خاموش { $count } ٹیبز
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] غیر خاموش ٹیب
-        [one] غیر خاموش  ٹیب
-       *[other] غیر خاموش { $count } ٹیبز
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] پلے ٹیب
-        [one] پلے  ٹیب
-       *[other] پلے { $count } ٹیبز
-    }
 
 ## Bookmarks toolbar items
 
@@ -563,10 +390,6 @@ sharing-warning-proceed-to-tab =
     .label = ٹیب اڳو تے ودھاؤ
 sharing-warning-disable-for-session =
     .label = ایں سیشن کیتے شیئرنگ تحفظ کوں غیر فعال کرو
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = F12 شاٹ کٹ استعمال کرݨ کیتے، پہلے DevTools بذریعہ براؤزر ٹول مینیو کھولو۔
 
 ## URL Bar
 
@@ -627,8 +450,6 @@ urlbar-extension =
     .value = ایکسٹینشن:
 urlbar-go-button2 =
     .title = لوکیشن بار وِچ ݙتے ڳئے پتے تے ونڄو
-urlbar-go-button =
-    .tooltiptext = لوکیشن بار وِچ ݙتے ڳئے پتے تے ونڄو
 urlbar-page-action-button =
     .tooltiptext = عملاں دا ورقہ
 urlbar-revert-button =
@@ -683,21 +504,10 @@ urlbar-result-action-tabtosearch-web = { $engine } نال ایڈریس بار ک
 urlbar-result-action-tabtosearch-other-engine = ایڈریس بار کنوں براہ راست { $engine } ڳولو
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = نقل کرو
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The sub title of an add-on suggestion in the urlbar.
 urlbar-result-addons-subtitle = { -brand-product-name } ایکسٹیشن
 # The sub title of a Yelp suggestion in the urlbar.
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -718,23 +528,6 @@ urlbar-result-search-with-local-search-mode = { $keywords }  - { $localSearchMod
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords }  - { $engine } نال ڳولو
-urlbar-searchmode-dropmarker =
-    .tooltiptext = ڳولݨ انجݨ چݨو
-urlbar-searchmode-bookmarks =
-    .label = نشانیاں
-urlbar-searchmode-tabs =
-    .label = ٹیباں
-urlbar-searchmode-history =
-    .label = تاریخ
-urlbar-searchmode-actions =
-    .label = عمل
-urlbar-searchmode-exit-button =
-    .tooltiptext = بند کرو
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = ایں واری، دے نال ڳولو:
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = ڳولݨ ترتیباں
 urlbar-searchmode-dropmarker2 =
     .title = ڳولݨ انجݨ چݨو
 urlbar-searchmode-exit-button2 =
@@ -789,9 +582,6 @@ urlbar-result-menu-trending-dont-show2 = ٹرینڈنگ ڳولاں نہ ݙکھا
 urlbar-result-menu-trending-dont-show =
     .label = ٹرینڈنگ ڳولاں نہ ݙکھاؤ
     .accesskey = D
-urlbar-result-menu-trending-why =
-    .label = میں ایہ کیوں ݙیہدا پیاں؟
-    .accesskey = W
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = تہاݙی فیڈبیک دا شکریہ۔ تہاکوں رجحان ساز ڳولاں ٻیاں کائناں نظر آسن۔
@@ -873,12 +663,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] بک مارک ٹول بار لُکاؤ
            *[other] بک مارک ٹول بار ݙکھاؤ
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] بک مارک مینو کوں ٹول بار کنوں ہٹاؤ
-           *[other] بک مارک مینو کوں ٹول بار وچ شامل کرو
-        }
 
 ##
 
@@ -909,14 +693,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = نشانیاں
-library-recent-activity-title =
-    .value = حالیہ سرگرمیاں
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = { -pocket-brand-name } تے ہتھیکڑا کرو
-    .tooltiptext = { -pocket-brand-name } تے ہتھیکڑا کرو
 
 ## Repair text encoding toolbar button
 
@@ -977,8 +753,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = ورتݨ ناں
-panel-save-update-password = پاس ورڈ
 panel-save-update-username-2 =
     .label = ورتݨ ناں
 panel-save-update-password-2 =
@@ -992,24 +766,8 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = بند کرو
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = { $uriHost } کیتے پاپ اپس کوں اجازت ݙیو
-    .accesskey = p
-popups-infobar-block =
-    .label = { $uriHost } کیتے پاپ اپ کوں روکو
-    .accesskey = p
-
 ##
 
-popups-infobar-dont-show-message =
-    .label = جݙاں پاپ اپس بلاک ہوون تاں اے پیغام نہ ݙکھاؤ
-    .accesskey = D
-edit-popup-settings =
-    .label = پاپ اپس ترتیباں دا بندوبست کرو
-    .accesskey = M
 picture-in-picture-hide-toggle =
     .label = تصویر وِچ تصویر ٹوگل لُکاؤ
     .accesskey = H
@@ -1033,8 +791,6 @@ navbar-accessible =
     .aria-label = نیویگیشن
 navbar-downloads =
     .label = ڈاؤن لوڈ
-navbar-overflow =
-    .tooltiptext = ودھیک ٹول…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1113,20 +869,12 @@ unified-extensions-button-quarantined =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = ذاتی سیشن مُکاؤ
-    .tooltiptext = ذاتی سیشن مُکاؤ
-reset-pbm-panel-heading = آپݨاں ذاتی سیشن مُکاؤ؟
-reset-pbm-panel-description = سبّھے ذاتی ٹیبز بند کر ݙیؤ اَتے ہسٹری، کوکیز اَتے سائٹ دے ٻئے سارے ڈیٹا کوں حذف کر ݙیؤ۔
 reset-pbm-panel-always-ask-checkbox =
     .label = ہمیشاں میݙے کنوں پچھو
     .accesskey = A
 reset-pbm-panel-cancel-button =
     .label = منسوخ
     .accesskey = C
-reset-pbm-panel-confirm-button =
-    .label = مجلس ڈیٹا مٹاؤ
-    .accesskey = D
 reset-pbm-panel-complete = نجی مجلس ڈیٹا مٹ ڳیا
 
 ## Autorefresh blocker

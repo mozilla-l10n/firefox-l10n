@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Преглед на последно разглежданото в други прозорци и устройства
@@ -16,40 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Затваряне
-    .aria-label = Затваряне
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Току-що
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Избор на раздел
-firefoxview-tabpickup-description = Отваряне на страници от други устройства.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% завършено
-firefoxview-tabpickup-step-signin-header = Превключвайте безпроблемно между устройствата
-firefoxview-tabpickup-step-signin-description = За да вземете разделите от телефона си, първо влезте или създайте профил.
-firefoxview-tabpickup-step-signin-primarybutton = Напред
 firefoxview-syncedtabs-signin-header-2 = Вашия { -brand-product-name } на всички ваши устройства
 firefoxview-syncedtabs-signin-description-2 = За да видите отворените раздели на вашия телефон и други устройства, влезте или регистрирайте профил. С профил можете също да синхронизирате своите пароли, история и други.
 firefoxview-syncedtabs-signin-primarybutton-2 = Вписване
-firefoxview-tabpickup-adddevice-header = Синхронизирайте { -brand-product-name } на вашия телефон или таблет
-firefoxview-tabpickup-adddevice-description = Изтеглете { -brand-product-name } за мобилно устройство и влезте там.
-firefoxview-tabpickup-adddevice-learn-how = Научете как
-firefoxview-tabpickup-adddevice-primarybutton = Изтеглете { -brand-product-name } за телефон
 firefoxview-syncedtabs-adddevice-header-2 = Вземете раздели отвсякъде
 firefoxview-syncedtabs-adddevice-description-2 = Влезте в { -brand-product-name } на телефона си или друг компютър, за да видите разделите тук. Научете как да <a data-l10n-name="url">свържете допълнителни устройства</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Опитайте { -brand-product-name } за телефон
-firefoxview-tabpickup-synctabs-header = Включване синхронизирането на раздели
-firefoxview-tabpickup-synctabs-description = Разрешава на { -brand-short-name } да споделя раздели между устройствата.
-firefoxview-tabpickup-synctabs-learn-how = Научете как
 firefoxview-tabpickup-synctabs-primarybutton = Синхронизиране на отворените раздели
 firefoxview-syncedtabs-synctabs-header = Актуализирайте настройките си за синхронизиране
 firefoxview-syncedtabs-synctabs-description = За да видите раздели от други устройства, трябва да синхронизирате отворените си раздели.
 firefoxview-syncedtabs-loading-header = Извършва се синхронизиране
 firefoxview-syncedtabs-loading-description = Когато стане готово, ще видите всички раздели, които сте отворили на други устройства. Проверете отново скоро.
 firefoxview-tabpickup-fxa-admin-disabled-header = Вашата организация е забранила синхронизирането
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } не може да синхронизира раздели между устройства, защото администратор е изключил синхронизирането.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } не може да синхронизира раздели между устройства, защото синхронизирането е изключено от организацията ви.
 firefoxview-tabpickup-network-offline-header = Проверете връзката с интернет
 firefoxview-tabpickup-network-offline-description = Ако използвате защитна стена или прокси, проверете дали { -brand-short-name } има права за достъп до мрежата.
@@ -66,37 +43,16 @@ firefoxview-tabpickup-password-locked-link = Научете повече
 firefoxview-tabpickup-password-locked-primarybutton = Въведете главната парола
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Научете повече</a>
 firefoxview-tabpickup-signed-out-header = Впишете се, за да се свържете отново
-firefoxview-tabpickup-signed-out-description = За да се свържете наново и да вземете разделите, влезте в своя { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = За да се свържете отново и да отворите вашите раздели, първо влезте в профила си.
 firefoxview-tabpickup-signed-out-primarybutton = Вписване
-firefoxview-tabpickup-syncing = Почакайте малко, докато разделите ви се синхронизират. Става бързо.
-firefoxview-mobile-promo-header = Вземете разделите от вашия телефон или таблет
-firefoxview-mobile-promo-description = За да видите последните си мобилни раздели, влезте във { -brand-product-name } на iOS или Android.
-firefoxview-mobile-promo-primarybutton = Изтеглете { -brand-product-name } за мобилни устройства
-firefoxview-mobile-confirmation-header = 🎉 Готово!
-firefoxview-mobile-confirmation-description = Вече можете да взимате разделите си в { -brand-product-name } от таблета или телефона си.
-firefoxview-closed-tabs-title = Наскоро затворени
-firefoxview-closed-tabs-description2 = Възстановяване на затворените страници в този прозорец.
-firefoxview-closed-tabs-placeholder-header = Няма наскоро затворени раздели
-firefoxview-closed-tabs-placeholder-body = Когато затворите раздел в този прозорец, можете да го изтеглите оттук.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Отхвърляне на { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Последна активност
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Отворете { $targetURI } в нов раздел
-firefoxview-try-colorways-button = Опитайте цветовете
-firefoxview-change-colorway-button = Променяне на цветовете
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Все още няма какво да се види
-firefoxview-synced-tabs-placeholder-body = Следващият път, когато отворите страница в { -brand-product-name } на друго устройство я грабнете тук като магия.
 firefoxview-collapse-button-show =
     .title = Списък
 firefoxview-collapse-button-hide =

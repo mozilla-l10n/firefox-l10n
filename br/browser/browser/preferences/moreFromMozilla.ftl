@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Muioc'h a-berzh { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Muioc'h a-berzh { -vendor-short-name }
 more-from-moz-subtitle = Sellit ouzh aozadoù all { -vendor-short-name } a gemer perzh e sevel un internet a yac'h.

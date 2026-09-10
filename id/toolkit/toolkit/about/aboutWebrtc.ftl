@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Sembunyikan Koneksi Pee
 about-webrtc-aec-logging-msg-label = Log AEC
 about-webrtc-aec-logging-off-state-label = Mulai Pencatatan AEC
 about-webrtc-aec-logging-on-state-label = Hentikan Pencatatan AEC
-about-webrtc-aec-logging-on-state-msg = Pencatatan AEC aktif (bicara dengan pemanggil selama beberapa menit lalu hentikan penangkapan)
 about-webrtc-aec-logging-toggled-on-state-msg = Pencatatan AEC aktif (bicara dengan pemanggil selama beberapa menit lalu hentikan penangkapan)
 about-webrtc-aec-logging-unavailable-sandbox = Variabel lingkungan MOZ_DISABLE_CONTENT_SANDBOX=1 diperlukan untuk mengekspor log AEC. Hanya atur variabel ini jika Anda memahami risiko yang mungkin terjadi.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Dinominasikan
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Dipilih
 about-webrtc-save-page-label = Simpan Laman
-about-webrtc-debug-mode-msg-label = Mode Debug
-about-webrtc-debug-mode-off-state-label = Mulai Mode Debug
-about-webrtc-debug-mode-on-state-label = Hentikan Mode Debug
-about-webrtc-stats-heading = Statistik Sesi
 about-webrtc-enable-logging-label = Aktifkan Prasetel Log WebRTC
 about-webrtc-peerconnections-section-heading = Statistik RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = Tampilkan Statistik RTCPeerConnection
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = Sembunyikan Statistik RTCPeerCon
 about-webrtc-stats-clear = Bersihkan Riwayat
 about-webrtc-log-heading = Log Sambungan
 about-webrtc-log-clear = Bersihkan Log
-about-webrtc-log-show-msg = tampilkan log
-    .title = klik untuk membentangkan bagian ini
-about-webrtc-log-hide-msg = sembunyikan log
-    .title = klik untuk menciutkan bagian ini
 about-webrtc-log-section-show-msg = Tampilkan log
     .title = Klik untuk membentangkan bagian ini
 about-webrtc-log-section-hide-msg = Sembunyikan log
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Kandidat Jarak Jauh
 about-webrtc-raw-candidates-heading = Semua Kandidat Mentah
 about-webrtc-raw-local-candidate = Kandidat Lokal Mentah
 about-webrtc-raw-remote-candidate = Kandidat Jarak Jauh Mentah
-about-webrtc-raw-cand-show-msg = tampilkan kandidat mentah
-    .title = klik untuk membentangkan bagian ini
-about-webrtc-raw-cand-hide-msg = sembunyikan kandidat mentah
-    .title = klik untuk menciutkan bagian ini
 about-webrtc-raw-cand-section-show-msg = Tampilkan kandidat mentah
     .title = Klik untuk membentangkan bagian ini
 about-webrtc-raw-cand-section-hide-msg = Sembunyikan kandidat mentah
     .title = Klik untuk menciutkan bagian ini
 about-webrtc-priority = Prioritas
-about-webrtc-fold-show-msg = tampilkan detail
-    .title = klik untuk membentangkan bagian ini
-about-webrtc-fold-hide-msg = sembunyikan detail
-    .title = klik untuk menciutkan bagian ini
 about-webrtc-fold-default-show-msg = Tampilkan detail
     .title = Klik untuk membentangkan bagian ini
 about-webrtc-fold-default-hide-msg = Sembunyikan detail
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Disediakan
 # been provided
 about-webrtc-configuration-element-not-provided = Tidak Disediakan
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Preferensi WebRTC Diatur Pengguna
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Konfigurasi WebRTC yang Diubah Pengguna
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT md
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Statistik Frame Video - ID MediaStreamTrack: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = halaman disimpan ke: { $path }
-about-webrtc-debug-mode-off-state-msg = log pelacakan dapat ditemukan di: { $path }
-about-webrtc-debug-mode-on-state-msg = mode debug aktif, log pelacakan di: { $path }
-about-webrtc-aec-logging-off-state-msg = berkas log tangkapan dapat ditemukan di: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

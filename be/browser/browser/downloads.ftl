@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Паказаць у Finder
            *[other] Паказаць у папцы
         }
-downloads-cmd-show-downloads =
-    .label = Паказаць папку сцягванняў
 downloads-cmd-retry =
     .tooltiptext = Паўтарыць
 downloads-cmd-retry-panel =

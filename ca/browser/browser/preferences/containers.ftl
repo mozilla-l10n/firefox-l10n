@@ -2,14 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-containers-window-new2 =
-    .style = min-width: 45em
-    .title = Afegeix un contenidor nou
-# Variables
-#   $name (String) - Name of the container
-containers-window-update-settings2 =
-    .style = min-width: 45em
-    .title = Paràmetres del contenidor { $name }
 containers-window-close =
     .key = w
 containers-name-label2 =
@@ -22,76 +14,9 @@ containers-color-label2 =
 containers-dialog2 =
     .buttonlabelaccept = Desa
     .buttonaccesskeyaccept = D
-# This is a term to store style to be applied
-# on the three labels in the containers add/edit dialog:
-#   - name
-#   - icon
-#   - color
-#
-# Using this term and referencing it in the `.style` attribute
-# of the three messages ensures that all three labels
-# will be aligned correctly.
--containers-labels-style = min-width: 4rem
-containers-name-label = Nom
-    .style = { -containers-labels-style }
-    .accesskey = N
-containers-name-text =
-    .placeholder = Escriviu un nom de contenidor
-containers-icon-label = Icona
-    .style = { -containers-labels-style }
-    .accesskey = I
-containers-color-label = Color
-    .style = { -containers-labels-style }
-    .accesskey = o
 containers-dialog =
     .buttonlabelaccept = Fet
     .buttonaccesskeyaccept = F
-containers-color-blue =
-    .label = Blau
-containers-color-turquoise =
-    .label = Turquesa
-containers-color-green =
-    .label = Verd
-containers-color-yellow =
-    .label = Groc
-containers-color-orange =
-    .label = Taronja
-containers-color-red =
-    .label = Vermell
-containers-color-pink =
-    .label = Rosa
-containers-color-purple =
-    .label = Porpra
-containers-color-toolbar =
-    .label = Fes coincidir amb la barra d'eines
-containers-icon-fence =
-    .label = Tanca
-containers-icon-fingerprint =
-    .label = Empremta
-containers-icon-briefcase =
-    .label = Maletí
-# String represents a money sign but currently uses a dollar sign
-# so don't change to local currency. See Bug 1291672.
-containers-icon-dollar =
-    .label = Signe de dòlar
-containers-icon-cart =
-    .label = Carro de la compra
-containers-icon-circle =
-    .label = Punt
-containers-icon-vacation =
-    .label = Vacances
-containers-icon-gift =
-    .label = Regal
-containers-icon-food =
-    .label = Menjar
-containers-icon-fruit =
-    .label = Fruita
-containers-icon-pet =
-    .label = Mascota
-containers-icon-tree =
-    .label = Arbre
-containers-icon-chill =
-    .label = Relaxació
 containers-window-new3 =
     .style = min-width: 32em
     .title = Afegiu un nou contenidor

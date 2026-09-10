@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Ativa Warp, unu progetu pro megiorar
 experimental-features-ime-search =
     .label = Barra de indiritzos: ammustra is resurtados durante sa cumpositzione IME
 experimental-features-ime-search-description = Un’IME (editore de mètodu de intrada) est un’aina chi permitit de insertare sìmbolos cumplessos, che a cussos impreados in is limbas iscritas de s’Àsia orientale o de s’Ìndia, impreende unu tecladu istandard. Ativende custu esperimentu, s’at a mantènnere abertu su pannellu de sa barra de indiritzos, ammustrende resurtados e cussìgios de chirca, mentras s’impreat s’IME pro insertare su testu. Càstia chi s’IME diat pòdere ammustrare unu pannellu chi cuat is resurtados de sa barra de indiritzos, duncas custa preferèntzia est cussigiada isceti pro is IME chi no imperant custa genia de pannellu.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Immàgine-subra-immàgine: abertura automàtica a su càmbiu de ischeda
-experimental-features-auto-pip-description = Ativa immàgine-subra-immàgine pro is vìdeos ativos a su càmbiu de ischeda.
 experimental-features-group-developer-tools =
     .label = Ainas de isvilupu
 experimental-features-group-webpage-display =
@@ -27,10 +23,6 @@ experimental-features-group-customize-browsing =
     .label = Personaliza sa navigatzione
 experimental-features-group-productivity =
     .label = Produtividade
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Craes in sa barra laterale
-experimental-features-contextual-password-manager-description = Atzede a is craes tuas deretu dae sa barra laterale. No as a dèpere prus chircare o ripristinare is craes cando proas a atzèdere. Pro impreare custa funtzionalidade, seletziona is craes in sa barra laterale. A pustis bae a is cunfiguratziones generales e, dae "Dispositzione de su navigadore", sèbera "Ammustra sa barra laterale". Fatu custu, personaliza sa barra laterale seletzionende is craes. Si ddu proas, <a data-l10n-name="connect"> nara·nos ite nde pensas</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Sèbera un’isfundu o unu colore personalizadu pro s’ischeda noa

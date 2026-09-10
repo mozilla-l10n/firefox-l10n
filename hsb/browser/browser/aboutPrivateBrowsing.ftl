@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Priwatne wokno wočinić
     .accesskey = P
 about-private-browsing-search-placeholder = Web přepytać
-about-private-browsing-info-title = Sće w priwatnym woknje
 about-private-browsing-search-btn =
     .title = Web přepytać
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Pytajće z { $engine } abo zapodajće adresu
 about-private-browsing-handoff-text-no-engine = Pytać abo adresu zapodać
 about-private-browsing-not-private = Tuchwilu njejsće w priwatnym woknje.
-about-private-browsing-info-description-private-window = Priwatne wokno: { -brand-short-name } wašu pytansku a přehladowansku historiju zhaša, hdyž wšě priwatne wokna začinjeće.  Přez to njebudźeće anonymny.
-about-private-browsing-info-description-simplified = { -brand-short-name } wašu pytansku a přehladowansku historiju zhaša, hdyž wšě priwatne wokna začinjeće, ale přez to njebudźeće anonymny.
-about-private-browsing-learn-more-link = Dalše informacije
 about-private-browsing-hide-activity = Schowajće swoju aktiwitu a stejnišćo, hdźežkuli wobhladowak wužiwaće
 about-private-browsing-get-privacy = Wobstarajće sej škit priwatnosće wšudźe, hdźež přehladujeće
 about-private-browsing-hide-activity-1 = Schowajće přehladowansku aktiwitu a stejnišćo z { -mozilla-vpn-brand-name }. Z jednym kliknjenjom wutworiće zwisk, samo w zjawnym WLAN:
@@ -29,8 +25,6 @@ about-private-browsing-prominent-cta = Škitajće swoju priwatnosć z { -mozilla
 about-private-browsing-focus-promo-cta = { -focus-brand-name } sćahnyć
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Priwatny modus po puću
 about-private-browsing-focus-promo-text = Naše mobilne, za priwatny modus myslene nałoženje wašu historiju a placki kóždy čas prózdni.
-about-private-browsing-focus-promo-header-b = Přinjesće priwatne přehladowanje na swój telefon
-about-private-browsing-focus-promo-text-b = Wužiwajće { -focus-brand-name } za te priwatne pytanja, kotrež nima waš hłowny mobilny wobhladowak widźeć.
 about-private-browsing-focus-promo-header-c = Priwatnosć přichodneho schodźenka za mobilne graty
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } wašu historiju kóždy raz zhaša, hdyž wabjenje a přesćěhowaki blokujeće.
 # This string is the title for the banner for search engine selection
@@ -66,11 +60,6 @@ about-private-browsing-relay-promo-link-text = E-mejlowe maski wupruwować
 
 ## Strings used in a promotion message for cookie banner reduction
 
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = Preč z plackowymi chorhojemi!
-about-private-browsing-cookie-banners-promo-button = Plackowe chorhoje redukować
-about-private-browsing-cookie-banners-promo-message = Dajće { -brand-short-name } za was awtomatisce na plackowewuskakowace wokna wotmołwić. zo byšće so k přehladowanju bjez wotwjedźenja wróćił. { -brand-short-name } wšě naprašowanja wotpokaza, jeli móžno.
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name }  so za was wo plackowe chorhoje stara

@@ -99,15 +99,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Tá gach Breiseán díchumasaithe sa Mhód Sábháilteachta.
-extensions-warning-check-compatibility = Tá seiceáil chomhoiriúnacht na mBreiseán díchumasaithe. D'fhéadfadh Breiseáin neamh-chomhoiriúnacha a bheith agat.
-extensions-warning-safe-mode2 =
-    .message = Tá gach Breiseán díchumasaithe sa Mhód Sábháilteachta.
 extensions-warning-check-compatibility2 =
     .message = Tá seiceáil chomhoiriúnacht na mBreiseán díchumasaithe. D'fhéadfadh Breiseáin neamh-chomhoiriúnacha a bheith agat.
 extensions-warning-check-compatibility-button = Cumasaigh
     .title = Cumasaigh seiceáil chomhoiriúnacht na mbreiseán
-extensions-warning-update-security = Tá seiceáil shlándáil na mbreiseán díchumasaithe. D'fhéadfadh nuashonruithe dochar a dhéanamh.
 extensions-warning-update-security2 =
     .message = Tá seiceáil shlándáil na mbreiseán díchumasaithe. D'fhéadfadh nuashonruithe dochar a dhéanamh.
 extensions-warning-update-security-button = Cumasaigh
@@ -163,24 +158,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = Níl { $name } comhoiriúnach le { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = Níl { $name } comhoiriúnach le { -brand-short-name } { $version }.
-details-notification-unsigned-and-disabled = Níorbh fhéidir { $name } a fhíorú le húsáid in { -brand-short-name } agus díchumasaíodh é.
 details-notification-unsigned-and-disabled2 =
     .message = Níorbh fhéidir { $name } a fhíorú le húsáid in { -brand-short-name } agus díchumasaíodh é.
-details-notification-unsigned-and-disabled-link = Tuilleadh Eolais
-details-notification-unsigned = Níorbh fhéidir { $name } a fhíorú le húsáid in { -brand-short-name }. Oibriú leat go faichilleach.
 details-notification-unsigned2 =
     .message = Níorbh fhéidir { $name } a fhíorú le húsáid in { -brand-short-name }. Oibriú leat go faichilleach.
-details-notification-unsigned-link = Tuilleadh Eolais
-details-notification-blocked = Tá { $name } díchumasaithe mar gheall ar fhadhbanna slándála nó cobhsaíochta.
-details-notification-blocked-link = Tuilleadh Eolais
-details-notification-softblocked = Tá { $name } freagrach as fadhbanna slándála nó cobhsaíochta.
-details-notification-softblocked-link = Tuilleadh Eolais
-details-notification-gmp-pending = Suiteálfar { $name } ar ball beag.
 details-notification-gmp-pending2 =
     .message = Suiteálfar { $name } ar ball beag.
 

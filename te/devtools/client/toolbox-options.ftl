@@ -87,8 +87,6 @@ options-context-advanced-settings = ఉన్నత అమరికలు
 options-disable-http-cache-label = ఆపివేయి HTTP కాష్ ని (టూల్ బాక్స్ తెరిచినప్పుడు)
 options-disable-http-cache-tooltip =
     .title = ఈ ఎంపికను టర్నింగ్ టూల్ బాక్స్ తెరిచిన అన్ని ట్యాబ్ల కోసం HTTP కాష్ ను ఆపివేస్తుంది. సేవా ఉద్యోగులు ఈ ఎంపిక ద్వారా ప్రభావితం కాదు.
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = JavaScript * అచేతనంచేయి
 options-disable-javascript-tooltip =
     .title = ఈ ఎంపిక ఆన్ చేయుట వలన ఈ ప్రస్తుత ట్యాబ్ కొరకు జావాస్క్రిప్ట్ అచేతనంచేయబడును. ఒకవేళ ట్యాబ్ లేదా సాధనపెట్టె మూయబడితే అప్పుడు ఈ అమరిక మర్చిపోబడును.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -103,8 +101,6 @@ options-enable-service-workers-http-tooltip =
     .title = ఈ ఎంపికను ఆన్ చేయడం వల్ల టూల్ బాక్స్ తెరిచిన అన్ని ట్యాబ్ల కోసం HTTP పైగా సేవ కార్మికులు ఎనేబుల్ చేస్తుంది.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = మూల మ్యాప్ లను ప్రారంభించు
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * ప్రస్తుత సెషన్ మాత్రమే, పేజీ తిరిగిలోడుచేయును
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

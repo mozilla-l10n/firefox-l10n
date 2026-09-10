@@ -52,7 +52,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     Để được giải thích về các cách khác nhau để ghi và tìm dữ liệu, vui lòng tham khảo
     thẻ <strong>Về dữ liệu</strong>.
-about-glean-about-testing-header = Về thử nghiệm
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     Hướng dẫn đầy đủ được ghi lại trong
@@ -61,8 +60,6 @@ about-glean-manual-testing =
     nhưng tóm lại, để kiểm tra thủ công xem thiết bị của bạn có hoạt động hay không, bạn nên:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (không gửi bất kỳ ping nào)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Trong trường văn bản, hãy đảm bảo có một thẻ gỡ lỗi đáng nhớ để bạn có thể nhận ra các lần ping của mình sau này.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Đặt tag gỡ lỗi dễ ghi nhớ <span>(không quá 20 kí tự, chỉ chữ, số và dấu trừ “-”)</span> để bạn có thể nhận ra ping của mình sau này.
 # An in-line drop down list precedes this string.
@@ -89,13 +86,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Truy cập trang { glean-debug-ping-viewer-brand-name } cho ping với thẻ của bạn</a>.
     Sẽ không mất quá vài giây từ khi nhấn nút đến khi ping của bạn đến.
     Đôi khi có thể mất vài phút.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    Để biết thêm về kiểm thử <i>đặc biệt</i>,
-    bạn cũng có thể xác định giá trị hiện tại của một thiết bị cụ thể
-    bằng cách mở bảng điều khiển devtools tại đây trên <code>about:glean</code>
-    và sử dụng API <code>testGetValue()</code> như
-    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     Để biết thêm về kiểm thử <i>đặc biệt</i>,
@@ -187,9 +177,6 @@ about-glean-no-data-to-display = Không có dữ liệu để hiển thị.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Các số liệu <code>DualLabeledCounter</code> vẫn chưa được hỗ trợ trong chế độ xem của <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Kiểu số liệu không xác định.
-about-glean-about-data-explanation =
-    Để duyệt danh sách dữ liệu đã thu thập, vui lòng tham khảo
-    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Dictionary</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

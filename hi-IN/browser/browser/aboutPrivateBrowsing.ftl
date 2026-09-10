@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = निजी विंडो खोलें
     .accesskey = P
 about-private-browsing-search-placeholder = वेब पर खोजें
-about-private-browsing-info-title = आप एक निजी विंडो में हैं
 about-private-browsing-search-btn =
     .title = वेब पर खोजें
 # Variables
@@ -19,10 +18,8 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = { $engine } के साथ खोजें या पता दर्ज करें
 about-private-browsing-handoff-text-no-engine = खोजें या पता दर्ज करें
 about-private-browsing-not-private = आप फिलहाल एक निजी विंडो में नहीं हैं.
-about-private-browsing-learn-more-link = अधिक जानें
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } के साथ निजी रहें
 about-private-browsing-focus-promo-cta = { -focus-brand-name } डाउनलोड करें
-about-private-browsing-focus-promo-header-b = अपने फ़ोन में प्राइवेट ब्राउज़िंग करें
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

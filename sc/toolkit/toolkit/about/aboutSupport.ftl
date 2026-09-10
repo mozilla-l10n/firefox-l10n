@@ -24,10 +24,6 @@ security-software-name = Nòmine
 security-software-antivirus = Antivirus
 security-software-antispyware = Anti-ispia
 security-software-firewall = Firewall
-features-title = Caraterìsticas de { -brand-short-name }
-features-name = Nòmine
-features-version = Versione
-features-id = ID
 processes-title = Protzessos remotos
 processes-type = Genia
 processes-count = Contègiu
@@ -53,7 +49,6 @@ app-basics-profile-dir =
         [linux] Cartella de su profilu
        *[other] Cartella de su profilu
     }
-app-basics-enabled-plugins = Plugins ativados
 app-basics-build-config = Cunfiguratzione de sa compilatzione
 app-basics-user-agent = Agente de utente
 app-basics-os = Sistema operativu
@@ -90,9 +85,6 @@ show-dir-label =
 environment-variables-title = Variàbiles de ambiente
 environment-variables-name = Nòmine
 environment-variables-value = Valore
-experimental-features-title = Caraterìsticas isperimentales
-experimental-features-name = Nòmine
-experimental-features-value = Valore
 modified-key-prefs-title = Preferèntzias importantes modificadas
 modified-prefs-name = Nòmine
 modified-prefs-value = Valore
@@ -317,8 +309,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Disativadu dae un'esperimentu
-fission-status-experiment-treatment = Ativadu dae un'esperimentu
 fission-status-disabled-by-e10s-env = Disativadu dae s'ambiente
 fission-status-enabled-by-env = Ativadu dae s'ambiente
 fission-status-disabled-by-env = Disativadu dae s'ambiente

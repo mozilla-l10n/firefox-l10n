@@ -10,12 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Tambah { $extension }?
-webext-perms-header-with-perms = Tambah { $extension }? Sambungan ini akan mempunyai kebenaran untuk:
-webext-perms-header-unsigned = Tambah { $extension }? Sambungan ini tidak disahkan. Sambungan berniat jahat boleh mencuri maklumat peribadi anda atau menjejaskan komputer anda. Hanya tambahkannya jika anda mempercayai sumbernya.
-webext-perms-header-unsigned-with-perms = Tambah { $extension }? Sambungan ini tidak disahkan. Sambungan berniat jahat boleh mencuri maklumat peribadi anda atau menjejaskan komputer anda. Hanya tambahkannya jika anda mempercayai sumbernya. Sambungan ini akan mempunyai kebenaran untuk:
 webext-perms-sideload-header = { $extension } ditambah
-webext-perms-optional-perms-header = { $extension } perlukan izin tambahan.
 
 ##
 
@@ -48,16 +43,8 @@ webext-perms-host-description-all-urls = Akses semua data anda dalam laman web
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Akses data laman anda dalam domain { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards = Akses data anda dalam { $domainCount } domain lain
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Akses data anda untuk { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites = Akses data anda dalam { $domainCount } laman lain
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

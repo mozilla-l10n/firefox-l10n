@@ -37,7 +37,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Sik'inel Tzij ({ $pid })
 about-processes-socket-process = K'amab'ey ({ $pid })
-about-processes-remote-sandbox-broker-process = Näj Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Rukojol Ruk'u'x K'amab'ey ({ $pid })
 about-processes-preallocated-process = Ya'on ({ $pid })
 about-processes-utility-process = Rokisaxik ({ $pid })
@@ -46,16 +45,6 @@ about-processes-utility-process = Rokisaxik ({ $pid })
 #    $pid (String) The process id of this process, assigned by the OS.
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = Juley: { $type } ({ $pid })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-with-coop-coep-process = { $origin } ({ $pid }), xoch'in-jech'en ruxe'el)
-about-processes-web-isolated-process-private = { $origin } — Ichinan ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } — Ichinan ({ $pid }), xoch'in-jech'en ruxe'el)
 
 ## Details within processes
 

@@ -8,11 +8,6 @@ tabbrowser-menuitem-close-tab =
     .label = Sulge kaart
 tabbrowser-menuitem-close =
     .label = Sulge
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -20,14 +15,6 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [one] Sulge kaart
-           *[other] Sulge { $tabCount } kaarti
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [one] Sulge kaart
            *[other] Sulge { $tabCount } kaarti
@@ -80,7 +67,6 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = Kas sulgeda { $tabCount } kaarti?
 tabbrowser-confirm-close-tabs-button = Sulge kaardid
-tabbrowser-confirm-close-tabs-checkbox = Mitme kaardi sulgemisel kuvatakse kinnitusdialoogi
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -100,9 +86,6 @@ tabbrowser-confirm-close-windows-button =
 
 tabbrowser-confirm-close-tabs-with-key-title = Kas sulgeda aknad ja väljuda { -brand-short-name }ist?
 tabbrowser-confirm-close-tabs-with-key-button = Välju { -brand-short-name }ist
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = Enne klahvikombinatsiooniga { $quitKey } väljumist kuvatakse kinnitusdialoogi
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 

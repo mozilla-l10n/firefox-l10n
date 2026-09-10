@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Συνδέσεις και κωδικοί πρόσβασης
-about-logins-login-filter =
-    .placeholder = Αναζήτηση συνδέσεων
-    .key = F
-create-new-login-button =
-    .title = Δημιουργία νέας σύνδεσης
 about-logins-page-title-name = Κωδικοί πρόσβασης
 about-logins-login-filter2 =
-    .placeholder = Αναζήτηση κωδικών πρόσβασης
     .key = F
+    .placeholder = Αναζήτηση κωδικών πρόσβασης
 create-login-button =
     .title = Προσθήκη κωδικού πρόσβασης
 fxaccounts-sign-in-text = Αποκτήστε πρόσβαση στους κωδικούς πρόσβασής σας από άλλες συσκευές
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Εισαγωγή από άλλο πρόγραμμα περιήγησης…
 about-logins-menu-menuitem-import-from-a-file = Εισαγωγή από αρχείο…
-about-logins-menu-menuitem-export-logins = Εξαγωγή συνδέσεων…
-about-logins-menu-menuitem-remove-all-logins = Αφαίρεση όλων των συνδέσεων…
 about-logins-menu-menuitem-export-logins2 = Εξαγωγή κωδικών πρόσβασης...
 about-logins-menu-menuitem-remove-all-logins2 = Αφαίρεση όλων των κωδικών πρόσβασης…
 menu-menuitem-preferences =
@@ -42,21 +34,6 @@ about-logins-menu-menuitem-help = Βοήθεια
 
 login-list =
     .aria-label = Αντιστοιχίες συνδέσεων στην αναζήτηση
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } σύνδεση
-       *[other] { $count } συνδέσεις
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $count } από { $total } σύνδεση
-       *[other] { $count } από { $total } συνδέσεις
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -80,14 +57,10 @@ login-list-username-reverse-option = Όνομα χρήστη (Ω-Α)
 about-logins-login-list-alerts-option = Ειδοποιήσεις
 login-list-last-changed-option = Τελευταία αλλαγή
 login-list-last-used-option = Τελευταία χρήση
-login-list-intro-title = Δεν βρέθηκαν συνδέσεις
 login-list-intro-title2 = Δεν έχουν αποθηκευτεί κωδικοί πρόσβασης
 login-list-intro-description = Οι κωδικοί πρόσβασης που αποθηκεύετε στο { -brand-product-name } θα εμφανίζονται εδώ.
-about-logins-login-list-empty-search-title = Δεν βρέθηκαν συνδέσεις
 about-logins-login-list-empty-search-title2 = Δεν βρέθηκαν κωδικοί πρόσβασης
 about-logins-login-list-empty-search-description = Δεν βρέθηκαν αποτελέσματα για την αναζήτησή σας.
-login-list-item-title-new-login = Νέα σύνδεση
-login-list-item-subtitle-new-login = Εισαγάγετε τα διαπιστευτήριά σας
 login-list-item-title-new-login2 = Προσθήκη κωδικού πρόσβασης
 login-list-item-subtitle-missing-username = (χωρίς όνομα χρήστη)
 about-logins-list-item-breach-icon =
@@ -103,28 +76,20 @@ about-logins-list-section-week = Τελευταίες 7 ημέρες
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Ψάχνετε τις αποθηκευμένες συνδέσεις σας; Ενεργοποιήστε τον συγχρονισμό ή εισάγετέ τες.
-about-logins-login-intro-heading-logged-in = Δεν βρέθηκαν συγχρονισμένες συνδέσεις.
-login-intro-description = Εάν αποθηκεύσατε τις συνδέσεις σας στο { -brand-product-name } κάποιας άλλης συσκευής, μπορείτε να τις μεταφέρετε εδώ ως εξής:
-login-intro-instructions-fxa = Στη συσκευή όπου έχουν αποθηκευτεί οι συνδέσεις σας, δημιουργήστε ή συνδεθείτε στον { -fxaccount-brand-name(case: "acc", capitalization: "lower") } σας.
 about-logins-login-intro-heading-message = Αποθηκεύστε τους κωδικούς πρόσβασής σας σε ένα ασφαλές σημείο
 login-intro-description2 = Όλοι οι κωδικοί πρόσβασης που αποθηκεύετε στο { -brand-product-name } κρυπτογραφούνται. Επιπλέον, προσέχουμε για παραβιάσεις και σας ειδοποιούμε εάν επηρεαστείτε. <a data-l10n-name="breach-alert-link">Μάθετε περισσότερα</a>
 login-intro-instructions-fxa2 = Δημιουργήστε ή συνδεθείτε στον λογαριασμό σας από τη συσκευή όπου έχουν αποθηκευτεί οι συνδέσεις σας.
 login-intro-instructions-fxa-settings = Μεταβείτε στις Ρυθμίσεις > Συγχρονισμός > Ενεργοποίηση συγχρονισμού… και επιλέξτε «Συνδέσεις και κωδικοί πρόσβασης».
 login-intro-instructions-fxa-passwords-help = Επισκεφτείτε την <a data-l10n-name="passwords-help-link">υποστήριξη κωδικών πρόσβασης</a> για περαιτέρω βοήθεια.
-about-logins-intro-browser-only-import = Αν οι συνδέσεις σας είναι αποθηκευμένες σε άλλο πρόγραμμα περιήγησης, μπορείτε να <a data-l10n-name="import-link">τις εισαγάγετε στο { -brand-product-name }</a>
-about-logins-intro-import2 = Εάν οι συνδέσεις σας έχουν αποθηκευτεί εκτός του { -brand-product-name }, μπορείτε να τις εισαγάγετε από <a data-l10n-name="import-browser-link">κάποιο άλλο πρόγραμμα περιήγησης</a> ή <a data-l10n-name="import-file-link">αρχείο</a>
 about-logins-intro-import3 = Κάντε κλικ στο εικονίδιο «+» παραπάνω για να προσθέσετε έναν κωδικό πρόσβασης. Μπορείτε επίσης να <a data-l10n-name="import-browser-link">εισαγάγετε κωδικούς πρόσβασης από άλλο πρόγραμμα περιήγησης</a> ή <a data-l10n-name="import-file-link">από ένα αρχείο</a>.
 
 ## Login
 
-login-item-new-login-title = Δημιουργία νέας σύνδεσης
 # Header for adding a password
 about-logins-login-item-new-login-title = Προσθήκη κωδικού πρόσβασης
 login-item-edit-button = Επεξεργασία
 about-logins-login-item-remove-button = Αφαίρεση
 login-item-origin-label = Διεύθυνση ιστοτόπου
-login-item-tooltip-message = Βεβαιωθείτε ότι ταιριάζει ακριβώς με τη διεύθυνση του ιστότοπου όπου συνδέεστε.
 about-logins-origin-tooltip2 = Εισαγάγετε την πλήρη διεύθυνση και βεβαιωθείτε ότι αντιστοιχεί ακριβώς στη σελίδα όπου πραγματοποιείτε σύνδεση.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -144,7 +109,6 @@ login-item-password-conceal-checkbox =
     .aria-label = Απόκρυψη κωδικού πρόσβασης
 login-item-copy-password-button-text = Αντιγραφή
 login-item-copied-password-button-text = Αντιγράφηκε!
-login-item-save-changes-button = Αποθήκευση αλλαγών
 about-logins-login-item-save-changes-button = Αποθήκευση
 login-item-save-new-button = Αποθήκευση
 login-item-cancel-button = Ακύρωση
@@ -168,11 +132,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Για να επεξεργαστείτε τη σύνδεσή σας, εισαγάγετε τα διαπιστευτήρια σύνδεσης των Windows. Αυτό συμβάλλει στην προστασία των λογαριασμών σας.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = επεξεργαστεί την αποθηκευμένη σύνδεση
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -196,11 +155,6 @@ about-logins-copy-password-os-auth-dialog-message-win = Για να αντιγρ
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = αντιγράψει τον αποθηκευμένο κωδικό πρόσβασης
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Για να εξαγάγετε τις συνδέσεις σας, εισαγάγετε τα διαπιστευτήρια σύνδεσης των Windows. Αυτό συμβάλλει στην προστασία των λογαριασμών σας.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = εξαγάγει αποθηκευμένες συνδέσεις και κωδικούς πρόσβασης
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = Για να εξαγάγετε τους κωδικούς πρόσβασής σας, εισαγάγετε τα διαπιστευτήρια σύνδεσης των Windows. Αυτό συμβάλλει στην προστασία των λογαριασμών σας.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -218,8 +172,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Ακύρωση
 confirmation-dialog-dismiss-button =
     .title = Ακύρωση
-about-logins-confirm-remove-dialog-title = Αφαίρεση σύνδεσης;
-confirm-delete-dialog-message = Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Αφαίρεση κωδικού πρόσβασης;
 # Message for modal to confirm the removal of one saved password
@@ -233,31 +185,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Αφαίρεση
        *[other] Αφαίρεση όλων
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] Ναι, αφαίρεση σύνδεσης
-       *[other] Ναι, αφαίρεση συνδέσεων
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] Αφαίρεση { $count } σύνδεσης;
-       *[other] Αφαίρεση και των { $count } συνδέσεων;
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] Θα γίνει διαγραφή της σύνδεσης που έχετε αποθηκεύσει στο { -brand-short-name }, καθώς και όλων των ειδοποιήσεων παραβίασης που εμφανίζονται εδώ. Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
-       *[other] Θα γίνει διαγραφή των συνδέσεων που έχετε αποθηκεύσει στο { -brand-short-name }, καθώς και όλων των ειδοποιήσεων παραβίασης που εμφανίζονται εδώ. Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] Αφαίρεση { $count } σύνδεσης από όλες τις συσκευές;
-       *[other] Αφαίρεση και των { $count } συνδέσεων από όλες τις συσκευές;
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [1] Θα γίνει διαγραφή της σύνδεσης που έχετε αποθηκεύσει στο { -brand-short-name } σε όλες τις συγχρονισμένες συσκευές του { -fxaccount-brand-name(case: "gen", capitalization: "lower") } σας. Θα αφαιρεθούν επίσης και όλες οι ειδοποιήσεις παραβίασης που εμφανίζονται εδώ. Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
-       *[other] Θα γίνει διαγραφή των συνδέσεων που έχετε αποθηκεύσει στο { -brand-short-name } σε όλες τις συγχρονισμένες συσκευές του { -fxaccount-brand-name(case: "gen", capitalization: "lower") } σας. Θα αφαιρεθούν επίσης και όλες οι ειδοποιήσεις παραβίασης που εμφανίζονται εδώ. Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -292,15 +219,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = Εξαγωγή συνδέσεων και κωδικών πρόσβασης
-about-logins-confirm-export-dialog-message = Οι κωδικοί πρόσβασής σας θα αποθηκευτούν ως αναγνώσιμο κείμενο (π.χ. BadP@ssw0rd), επομένως όποιος ανοίξει το αρχείο θα μπορέσει να τους δει.
-about-logins-confirm-export-dialog-confirm-button = Εξαγωγή…
 about-logins-confirm-export-dialog-title2 = Σημείωση σχετικά με την εξαγωγή κωδικών πρόσβασης
 about-logins-confirm-export-dialog-message2 =
     Κατά την εξαγωγή, οι κωδικοί πρόσβασής σας αποθηκεύονται σε ένα αρχείο με αναγνώσιμο κείμενο.
     Όταν τελειώσετε με τη χρήση του αρχείου, προτείνουμε να το διαγράψετε, ώστε να μην μπορέσουν να δουν τους κωδικούς πρόσβασής σας οι άλλοι χρήστες αυτής της συσκευής.
 about-logins-confirm-export-dialog-confirm-button2 = Συνέχεια με την εξαγωγή
-about-logins-alert-import-title = Η εισαγωγή ολοκληρώθηκε
 about-logins-alert-import-message = Προβολή λεπτομερούς περίληψης εισαγωγής
 confirm-discard-changes-dialog-title = Απόρριψη μη αποθηκευμένων αλλαγών;
 confirm-discard-changes-dialog-message = Όλες οι μη αποθηκευμένες αλλαγές θα χαθούν.
@@ -337,11 +260,6 @@ about-logins-error-message-default = Προέκυψε σφάλμα κατά τη
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Εξαγωγή αρχείου συνδέσεων
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = logins.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = Εξαγωγή κωδικών πρόσβασης από το { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -357,8 +275,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = Εισαγωγή αρχείου συνδέσεων
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = Εισαγωγή κωδικών πρόσβασης στο { -brand-short-name }
 about-logins-import-file-picker-import-button = Εισαγωγή
@@ -382,18 +298,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Η εισαγωγή ολοκληρώθηκε
-about-logins-import-dialog-items-added =
-    { $count ->
-       *[other] <span>Προστέθηκαν νέες συνδέσεις:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-       *[other] <span>Ενημερώθηκαν υπάρχουσες συνδέσεις:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-       *[other] <span>Βρέθηκαν διπλές συνδέσεις:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(δεν έγινε εισαγωγή)</span>
-    }
 about-logins-import-dialog-items-added2 =
     { $count ->
        *[other] <span>Προστέθηκαν νέοι κωδικοί πρόσβασης:</span> <span data-l10n-name="count">{ $count }</span>
@@ -425,15 +329,11 @@ about-logins-import-dialog-error-learn-more = Μάθετε περισσότερ�
 about-logins-import-dialog-error-try-import-again = Εισαγωγή ξανά…
 about-logins-import-dialog-error-cancel = Ακύρωση
 about-logins-import-report-title = Περίληψη εισαγωγής
-about-logins-import-report-description = Έγινε εισαγωγή συνδέσεων και κωδικών πρόσβασης στο { -brand-short-name }.
 about-logins-import-report-description2 = Έγινε εισαγωγή κωδικών πρόσβασης στο { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Σειρά { $number }
-about-logins-import-report-row-description-no-change = Διπλότυπο: Απόλυτη αντιστοιχία με υπάρχουσα σύνδεση
-about-logins-import-report-row-description-modified = Η υπάρχουσα σύνδεση ενημερώθηκε
-about-logins-import-report-row-description-added = Προστέθηκε νέα σύνδεση
 about-logins-import-report-row-description-no-change2 = Διπλότυπο: Απόλυτη αντιστοιχία με υπάρχουσα καταχώριση
 about-logins-import-report-row-description-modified2 = Ενημερώθηκε υπάρχουσα καταχώριση
 about-logins-import-report-row-description-added2 = Προστέθηκε νέος κωδικός πρόσβασης
@@ -450,18 +350,6 @@ about-logins-import-report-row-description-error-missing-field = Σφάλμα: �
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">νέες συνδέσεις προστέθηκαν</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">συνδέσεις ενημερώθηκαν</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">διπλότυπες συνδέσεις</div> <div data-l10n-name="not-imported">(δεν έγινε εισαγωγή)</div>
-    }
 about-logins-import-report-added2 =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">νέοι κωδικοί πρόσβασης</div>

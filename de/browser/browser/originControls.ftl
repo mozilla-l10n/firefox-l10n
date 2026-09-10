@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Erweiterung kann keine Daten lesen und ändern
-origin-controls-quarantined =
-    .label = Erweiterung darf keine Daten lesen und ändern
 origin-controls-quarantined-status =
     .label = Erweiterung auf eingeschränkten Websites nicht erlaubt
 origin-controls-quarantined-allow =

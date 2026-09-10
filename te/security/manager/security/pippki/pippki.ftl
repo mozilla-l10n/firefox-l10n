@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = ధృవీకరణపత్రాన్ని దింపుకుంటోంది
     .style = min-width: 46em
+    .title = ధృవీకరణపత్రాన్ని దింపుకుంటోంది
 download-cert-message = కొత్త ధృవీకరణపత్ర అధారిటీ (CA)ని నమ్మమని మీరు అడగబడుతున్నారు.
 download-cert-trust-ssl =
     .label = వెబ్ సైట్లను గుర్తించడానికి ఈ CAను విశ్వసించు.
@@ -37,8 +37,6 @@ download-cert-view-text = CA ధృవీకరణపత్రాన్ని �
 
 client-auth-window =
     .title = వినియోగాదారుని గుర్తింపు అభ్యర్దన
-client-auth-site-description = మీ అంతట మీరే దృవీకరణపత్రంతో గుర్తించబడాలని ఈ సైటు అభ్యర్దించటమైనది:
-client-auth-choose-cert = గుర్తింపుగా ప్రవేశపెట్టుటకు ఒక ధృవీకరణపత్రాన్ని ఎన్నుకొనుము:
 client-auth-cert-details = ఎంపికచేసుకొన్న ధృవీకరణపత్రం వివరాలు:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

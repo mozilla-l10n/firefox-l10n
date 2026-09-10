@@ -18,13 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Es gibt einen nicht gesendeten Absturzbericht.
-       *[other] Es gibt { $reportCount } nicht gesendete Absturzberichte.
-    }
 pending-crash-reports-view-all =
     .label = Ansehen
 pending-crash-reports-send =
@@ -37,13 +30,6 @@ requested-crash-reports-message-new =
     { $reportCount ->
         [one] Sie haben einen nicht gesendeten Absturzbericht, der sich auf Abstürze bezieht, die untersucht werden. Wenn Sie diesen absenden, helfen Sie uns, { -brand-product-name } zu verbessern. Wenn Sie diese Benachrichtigung schließen, wird dieser Bericht ignoriert.
        *[other] Sie haben { $reportCount } nicht gesendete Absturzberichte, die sich auf Abstürze beziehen, die untersucht werden. Das Senden dieser Berichte hilft uns, { -brand-product-name } zu verbessern. Wenn Sie diese Benachrichtigung schließen, werden diese Berichte ignoriert.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Es gibt einen nicht gesendeten Absturzbericht, der zu untersuchten Abstürzen gehört. Das Senden hilft uns, { -brand-product-name } zu verbessern. Wenn Sie diese Benachrichtigung schließen, wird diese Meldung ignoriert.
-       *[other] Es gibt { $reportCount } nicht gesendete Absturzberichte, die zu untersuchten Abstürzen gehören. Das Senden hilft uns, { -brand-product-name } zu verbessern. Wenn Sie diese Benachrichtigung schließen, werden diese Meldungen ignoriert.
     }
 requested-crash-reports-dont-show-again =
     .label = Nicht mehr anzeigen

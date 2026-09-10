@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Recercar de senhals
-    .key = F
     .aria-label = Recercar de senhals
+    .key = F
+    .placeholder = Recercar de senhals
 
 ## Passwords
 
@@ -46,10 +46,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Document TSV
        *[other] Fichièr TSV
     }
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Nòus : { $added }, actualizats : { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords

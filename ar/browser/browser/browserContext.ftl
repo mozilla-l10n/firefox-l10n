@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = عُد للخلف صفحة واحدة ({ $shortcut })
     .aria-label = السابق
+    .tooltiptext = عُد للخلف صفحة واحدة ({ $shortcut })
     .accesskey = س
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = انتقل للأمام صفحة واحدة ({ $shortcut })
     .aria-label = التالي
+    .tooltiptext = انتقل للأمام صفحة واحدة ({ $shortcut })
     .accesskey = ت
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = علِّم الصفحة…
-    .accesskey = ص
     .tooltiptext = علِّم الصفحة
+    .accesskey = ص
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = علِّم الصفحة…
-    .accesskey = ة
     .tooltiptext = علِّم الصفحة ({ $shortcut })
+    .accesskey = ة
 main-context-menu-edit-bookmark =
     .aria-label = حرّر العلامة…
-    .accesskey = م
     .tooltiptext = حرّر العلامة
+    .accesskey = م
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = حرّر العلامة…
-    .accesskey = م
     .tooltiptext = حرّر العلامة ({ $shortcut })
+    .accesskey = م
 main-context-menu-open-link =
     .label = افتح الرابط
     .accesskey = ر
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = احفظ الرابط باسم…
     .accesskey = ر
-main-context-menu-save-link-to-pocket =
-    .label = احفظ الرابط في { -pocket-brand-name }
-    .accesskey = ط
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = شغّل المزامن
 main-context-menu-send-to-mobile-connect-phone3 = صلّ جهاز لإرسال ألسنة
 main-context-menu-send-to-mobile-connect-phone-from-link = صلّ جهاز لإرسال رابط
 main-context-menu-send-to-mobile-connect-phone-from-page = صلّ جهاز لإرسال صفحة
-main-context-menu-save-to-pocket =
-    .label = احفظ الصفحة في { -pocket-brand-name }
-    .accesskey = ح
-main-context-menu-send-to-device =
-    .label = أرسِل الصفحة إلى جهاز
-    .accesskey = ه
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = استعمل جلسة ولوج محفوظة
-    .accesskey = ع
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = استعمل كلمة سر محفوظة
     .accesskey = ع
-
-##
-
 main-context-menu-use-relay-mask =
     .label = استخدم قناع البريد الإلكتروني { -relay-brand-short-name }.
     .accesskey = د
 main-context-menu-suggest-strong-password =
     .label = اقترِح كلمة سر قوية…
     .accesskey = ق
-main-context-menu-manage-logins2 =
-    .label = أدِر جلسات الولوج
-    .accesskey = د
 main-context-menu-manage-passwords =
     .label = أدِر كلمات السر
     .accesskey = س
-main-context-menu-keyword =
-    .label = أضِف كلمة رئيسية لهذا البحث…
-    .accesskey = ك
 main-context-menu-add-engine =
     .label = أضف محرك بحث
     .accesskey = ض
@@ -391,9 +364,6 @@ main-context-menu-view-selection-source =
     .label = اعرض مصدر التحديد
     .accesskey = ص
 main-context-menu-take-screenshot =
-    .label = خُذ لقطة شاشة
-    .accesskey = خ
-main-context-menu-take-frame-screenshot =
     .label = خُذ لقطة شاشة
     .accesskey = خ
 main-context-menu-view-page-source =

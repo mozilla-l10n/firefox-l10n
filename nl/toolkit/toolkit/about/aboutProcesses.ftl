@@ -49,7 +49,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Gegevensdecoder ({ $pid })
 about-processes-socket-process = Netwerk ({ $pid })
-about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Forkserver ({ $pid })
 about-processes-preallocated-process = Vooraf toegewezen ({ $pid })
 about-processes-utility-process = Hulpprogramma ({ $pid })
@@ -73,17 +72,6 @@ about-processes-web-isolated-property-with-coop-coep = cross-origin geïsoleerd
 ##    $properties (String) A formatted list of properties from the above strings.
 
 about-processes-web-isolated-process2 = { $origin } ({ $properties })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, cross-origin geïsoleerd)
-about-processes-web-isolated-process-private = { $origin } – Privé ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } – Privé ({ $pid }, cross-origin geïsoleerd)
 
 ## Details within processes
 

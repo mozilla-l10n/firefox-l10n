@@ -15,9 +15,6 @@ user-context-work =
 
 ##
 
-user-context-none =
-    .label = खनथेनार गैया
-    .accesskey = N
 user-context-manage-containers =
     .label = खनथेनारफोरखौ सामलाय
     .accesskey = O

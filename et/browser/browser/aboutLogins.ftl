@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Kasutajatunnused ja paroolid
-about-logins-login-filter =
-    .placeholder = Otsi kasutajakontosid
-    .key = F
-create-new-login-button =
-    .title = Loo uus kasutajakonto
 about-logins-page-title-name = Paroolid
 about-logins-login-filter2 =
-    .placeholder = Otsi paroole
     .key = F
+    .placeholder = Otsi paroole
 create-login-button =
     .title = Lisa parool
 fxaccounts-sign-in-text = Tee paroolid kättesaadavaks ka oma teistes seadmetes
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Impordi teisest brauserist…
 about-logins-menu-menuitem-import-from-a-file = Impordi failist…
-about-logins-menu-menuitem-export-logins = Ekspordi kasutajatunnused...
-about-logins-menu-menuitem-remove-all-logins = Eemalda kõik kasutajatunnused…
 about-logins-menu-menuitem-export-logins2 = Ekspordi paroolid…
 about-logins-menu-menuitem-remove-all-logins2 = Eemalda kõik paroolid…
 menu-menuitem-preferences =
@@ -42,21 +34,6 @@ about-logins-menu-menuitem-help = Abi
 
 login-list =
     .aria-label = Otsingule vastavad kasutajakontod
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] üks konto
-       *[other] { $count } kontot
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $count } konto, kokku { $total }
-       *[other] { $count } kontot, kokku { $total }
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -80,14 +57,10 @@ login-list-username-reverse-option = kasutajanimi (Y-A)
 about-logins-login-list-alerts-option = Hoiatused
 login-list-last-changed-option = viimati muudetud
 login-list-last-used-option = viimati kasutatud
-login-list-intro-title = Kasutajakontosid ei leitud
 login-list-intro-title2 = Paroole pole salvestatud
 login-list-intro-description = { -brand-product-name }is parooli salvestamisel ilmub see siin nähtavale.
-about-logins-login-list-empty-search-title = Kasutajakontosid ei leitud
 about-logins-login-list-empty-search-title2 = Paroole ei leitud
 about-logins-login-list-empty-search-description = Otsingule ei leitud vasteid.
-login-list-item-title-new-login = Uus kasutajakonto
-login-list-item-subtitle-new-login = Sisesta oma kasutajatunnused
 login-list-item-title-new-login2 = Parooli lisamine
 login-list-item-subtitle-missing-username = (kasutajanime pole)
 about-logins-list-item-breach-icon =
@@ -103,28 +76,20 @@ about-logins-list-section-week = Viimased 7 päeva
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Kas otsid oma salvestatud kasutajatunnuseid? Lülita sünkrooniseerimine sisse või impordi need.
-about-logins-login-intro-heading-logged-in = Sünkrooniseeritud kasutajakontosid ei leitud.
-login-intro-description = Kui salvestasid oma kasutajakontod teises seadmes olevasse { -brand-product-name }i, siis nii saad need ka siia:
-login-intro-instructions-fxa = Loo { -fxaccount-brand-name } või logi sisse seadmes, kus salvestatud kasutajakontod on
 about-logins-login-intro-heading-message = Salvesta oma paroolid kindlasse kohta
 login-intro-description2 = Kõik { -brand-product-name }i salvestatud paroolid on krüpteeritud. Lisaks jälgime lekkeid ja hoiatame sind, kui oled mõjutatud. <a data-l10n-name="breach-alert-link">Lisateave</a>
 login-intro-instructions-fxa2 = Loo konto või logi sisse seadmes, kus salvestatud kasutajakontod on.
 login-intro-instructions-fxa-settings = Ava Sätted > Sync > Lülita sünkroniseerimine sisse… Märgi linnukesega Kasutajatunnused ja paroolid.
 login-intro-instructions-fxa-passwords-help = Rohkema teabe saamiseks külasta <a data-l10n-name="passwords-help-link">paroolide tugiteenust</a>.
-about-logins-intro-browser-only-import = Kui sinu kasutajatunnused on salvestatud teise brauserisse, siis saad <a data-l10n-name="import-link">need importida { -brand-product-name }i</a>
-about-logins-intro-import2 = Kui sinu kasutajakontod on salvestatud mujale kui { -brand-product-name }i, siis saad need <a data-l10n-name="import-browser-link">importida teisest brauserist</a> või <a data-l10n-name="import-file-link">failist</a>
 about-logins-intro-import3 = Parooli koheseks lisamiseks vajuta ülalolevale plussmärgi nupule. Paroole saad ka importida <a data-l10n-name="import-browser-link">teisest brauserist</a> või <a data-l10n-name="import-file-link">failist</a>.
 
 ## Login
 
-login-item-new-login-title = Uue kasutajakonto loomine
 # Header for adding a password
 about-logins-login-item-new-login-title = Parooli lisamine
 login-item-edit-button = Muuda
 about-logins-login-item-remove-button = Eemalda
 login-item-origin-label = Saidi aadress
-login-item-tooltip-message = Veenduge, et see kattuks saidi täpse aadressiga, kuhu te sisse logite.
 about-logins-origin-tooltip2 = Sisesta täielik aadress ja veendu, et see vastaks täpselt sisselogimiskohale.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -144,7 +109,6 @@ login-item-password-conceal-checkbox =
     .aria-label = Parool peidetakse
 login-item-copy-password-button-text = Kopeeri
 login-item-copied-password-button-text = Kopeeritud!
-login-item-save-changes-button = Salvesta muudatused
 about-logins-login-item-save-changes-button = Salvesta
 login-item-save-new-button = Salvesta
 login-item-cancel-button = Loobu
@@ -168,11 +132,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Kasutajakonto muutmiseks sisesta Windowsi sisselogimisandmed. See aitab kaitsta sinu kontode turvalisust.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = edit the saved login
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -196,11 +155,6 @@ about-logins-copy-password-os-auth-dialog-message-win = Parooli kopeerimiseks si
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copy the saved password
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Kasutajakontode eksportimiseks sisesta Windowsi sisselogimisandmed. See aitab kaitsta sinu kontode turvalisust.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = export saved logins and passwords
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = Parooli eksportimiseks sisesta Windowsi sisselogimisandmed. See aitab kaitsta sinu kontode turvalisust.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -218,8 +172,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Loobu
 confirmation-dialog-dismiss-button =
     .title = Loobu
-about-logins-confirm-remove-dialog-title = Kas eemaldada see kasutajakonto?
-confirm-delete-dialog-message = Seda tegevust pole võimalik tagasi võtta.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Kas parool eemaldada?
 # Message for modal to confirm the removal of one saved password
@@ -234,34 +186,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] Eemalda
         [one] Eemalda
        *[other] Eemalda kõik
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] Jah, eemalda see konto
-        [one] Jah, eemalda see konto
-       *[other] Jah, eemalda need kontod
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] Kas eemaldada see konto?
-       *[other] Kas eemaldada kõik { $count } kontot?
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] See tegevus eemaldab selle kasutajakonto { -brand-short-name }ist ja kõik siin kuvatavad murdmishoiatused. Seda toimingu pole võimalik tagasi võtta.
-        [one] See tegevus eemaldab selle kasutajakonto { -brand-short-name }ist ja kõik siin kuvatavad murdmishoiatused. Seda toimingut pole võimalik tagasi võtta.
-       *[other] See tegevus eemaldab kasutajakontod { -brand-short-name }ist ja kõik siin kuvatavad murdmishoiatused. Seda toimingut pole võimalik tagasi võtta.
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] Kas soovid eemaldada selle kasutajakonto kõigist seadmetest?
-       *[other] Kas soovid eemaldada kõik { $count } kasutajakontot kõigist seadmetest?
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [1] See tegevus eemaldab selle { -brand-short-name }i salvestadud kasutajakonto kõigist seadmetest, mis on ühendatud sinu { -fxaccount-brand-name }ga. Seda toimingut pole võimalik tagasi võtta.
-        [one] See tegevus eemaldab selle { -brand-short-name }i salvestadud kasutajakonto kõigist seadmetest, mis on ühendatud sinu { -fxaccount-brand-name }ga. Seda toimingut pole võimalik tagasi võtta.
-       *[other] See tegevus eemaldab kõik { -brand-short-name }i salvestadud kasutajakontod kõigist seadmetest, mis on ühendatud sinu { -fxaccount-brand-name }ga. Seda toimingut pole võimalik tagasi võtta.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -299,15 +223,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = Kasutajanimede ja paroolide eksportimine
-about-logins-confirm-export-dialog-message = Sinu paroolid salvestatakse loetava tekstina (nt HalbP@r00l), nii et kõik, kes saavad eksporditud faili avada, saavad neid vaadata.
-about-logins-confirm-export-dialog-confirm-button = Ekspordi...
 about-logins-confirm-export-dialog-title2 = Märkus paroolide eksportimise kohta
 about-logins-confirm-export-dialog-message2 =
     Eksportimisel salvestatakse sinu paroolid loetava tekstina faili.
     Faili kasutamise lõpetamisel soovitame selle kustutada, et teised selle seadme kasutajad ei näeks sinu paroole.
 about-logins-confirm-export-dialog-confirm-button2 = Jätka eksportimisega
-about-logins-alert-import-title = Importimine valmis
 about-logins-alert-import-message = Vaata impordiaruande üksikasju
 confirm-discard-changes-dialog-title = Kas soovid loobuda salvestamata muudatustest?
 confirm-discard-changes-dialog-message = Kõik salvestamata muudatused lähevad kaduma.
@@ -344,11 +264,6 @@ about-logins-error-message-default = Parooli salvestamisel esines viga.
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Kasutajanimede ja paroolide faili eksportimine
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = kasutajatunnused.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = Paroolide eksportimine { -brand-short-name }ist
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -364,8 +279,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = Kasutajatunnuste failist importimine
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = Paroolide importimine { -brand-short-name }i
 about-logins-import-file-picker-import-button = Impordi
@@ -389,21 +302,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Importimine on lõpetatud
-about-logins-import-dialog-items-added =
-    { $count ->
-        [one] <span>Uus kasutajatunnus lisatud.</span>
-       *[other] <span>Uusi kasutajatunnuseid lisatud:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-        [one] <span>Värskendati üht kasutajatunnust.</span>
-       *[other] <span>Olemasolevaid kasutajatunnuseid värskendatud:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-        [one] <span>Leiti üks korduv kasutajatunnus<span data-l10n-name="meta">(ei imporditud)</span>
-       *[other] <span>Korduvaid kasutajatunnuseid leitud:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(ei imporditud)</span>
-    }
 about-logins-import-dialog-items-added2 =
     { $count ->
        *[other] <span>Uusi lisatud paroole:</span> <span data-l10n-name="count">{ $count }</span>
@@ -436,15 +334,11 @@ about-logins-import-dialog-error-learn-more = Rohkem teavet
 about-logins-import-dialog-error-try-import-again = Proovi uuesti importida…
 about-logins-import-dialog-error-cancel = Loobu
 about-logins-import-report-title = Importimise kokkuvõte
-about-logins-import-report-description = { -brand-short-name }i imporditud kasutajatunnused ja paroolid.
 about-logins-import-report-description2 = Paroolid imporditi { -brand-short-name }i.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Rida { $number }
-about-logins-import-report-row-description-no-change = Duplikaat: olemasoleva kasutajakonto täpne koopia
-about-logins-import-report-row-description-modified = Olemasolev kasutajatunnus uuendati
-about-logins-import-report-row-description-added = Lisati uus kasutajatunnus
 about-logins-import-report-row-description-no-change2 = Duplikaat: olemasoleva kasutajakonto täpne koopia
 about-logins-import-report-row-description-modified2 = Olemasolev kasutajatunnus uuendati
 about-logins-import-report-row-description-added2 = Lisati uus parool
@@ -461,21 +355,6 @@ about-logins-import-report-row-description-error-missing-field = Viga: väli { $
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">uus kasutajakonto lisatud</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">uut kasutajakontot lisatud</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">olemasolev kasutajakonto uuendati</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">olemasolevat kasutajakontot uuendati</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikaat</div> <div data-l10n-name="not-imported">(ei imporditud)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikaati</div> <div data-l10n-name="not-imported">(ei imporditud)</div>
-    }
 about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">uus parool lisatud</div>

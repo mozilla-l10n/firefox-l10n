@@ -15,10 +15,6 @@ crashes-no-config = Bii jëfekaay kenn jekk-jekkaluñ ko ngir mu man di wone xib
 support-addons-name = Tur
 support-addons-version = Sumb
 support-addons-id = ID
-features-title = Soloy { -brand-short-name }
-features-name = Tur
-features-version = Sumb
-features-id = ID
 app-basics-title = Xibaar yu dàtt yu jëfekaay bi
 app-basics-name = Tur
 app-basics-version = Sumb
@@ -31,7 +27,6 @@ app-basics-profile-dir =
         [linux] Wayndareb jëmm
        *[other] Dencukaay bu jëmm
     }
-app-basics-enabled-plugins = Lawal yees doxal
 app-basics-build-config = Jekk-jakkali tabax
 app-basics-user-agent = Jëfandikukat
 app-basics-os = Nosteg doxiin

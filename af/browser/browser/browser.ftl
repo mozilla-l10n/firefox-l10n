@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = Wys werfinligting
 
@@ -30,8 +25,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Open paneel met boodskappe oor stoorplek vanlyn
 urlbar-password-notification-anchor =
     .tooltiptext = Open paneel vir die stoor van wagwoorde
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Bestuur gebruik van inproppe
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Bestuur die deel van die kamera en/of mikrofoon met die werf
 urlbar-addons-notification-anchor =
@@ -97,13 +90,11 @@ identity-active-blocked = { -brand-short-name } het dele van dié blad geblok wa
 identity-passive-loaded = Dele van dié blad is nie beveilig nie (soos prente).
 identity-active-loaded = U het beskerming vir dié blad gedeaktiveer.
 identity-weak-encryption = Dié bladsy gebruik swak enkripsie.
-identity-insecure-login-forms = Aanmeldinligting ingetik op dié bladsy kan gekompromitteer word.
 identity-permissions-reload-hint = Dit is dalk nodig om die bladsy te herlaai voor veranderinge toegepas word.
 identity-remove-cert-exception =
     .label = Verwyder uitsondering
     .accesskey = r
 identity-description-insecure = U verbinding aan dié werf is nie privaat nie. Inligting wat ingedien word kan deur ander gesien word (bv. wagwoorde, boodskappe, kredietkaartnommers, ens.)
-identity-description-insecure-login-forms = Die aanmeldinligting wat u op hierdie bladsy intik, is nie beveilig nie en kan gekompromitteer word.
 identity-description-weak-cipher-intro = U verbinding aan dié werf gebruik swak enkripsie en is nie privaat nie.
 identity-description-weak-cipher-risk = Ander mense kan u inligting sien of die webwerf se gedrag verander.
 identity-description-active-blocked2 = { -brand-short-name } het dele van dié blad geblok wat nie beveilig is nie.
@@ -112,12 +103,6 @@ identity-description-passive-loaded-insecure2 = Dié webwerf bevat inhoud wat ni
 identity-description-passive-loaded-mixed2 = Alhoewel { -brand-short-name } sommige inhoud geblok het, is daar steeds inhoud op die bladsy wat nie beveilig is nie (soos prente).
 identity-description-active-loaded = Dié webwerf bevat inhoud wat nie beveilig is nie (soos skripte) en u verbinding daaraan is nie privaat nie.
 identity-description-active-loaded-insecure = Inligting wat gedeel word met die werf kan deur ander gesien word (bv. wagwoorde, boodskappe, kredietkaartnommers, ens.).
-identity-disable-mixed-content-blocking =
-    .label = Deaktiveer beskerming tydelik
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = Aktiveer beskerming
-    .accesskey = A
 identity-more-info-link-text =
     .label = Meer inligting
 
@@ -148,8 +133,6 @@ urlbar-extension =
     .value = Uitbreiding:
 urlbar-go-button2 =
     .title = Gaan na die adres in die adresbalk
-urlbar-go-button =
-    .tooltiptext = Gaan na die adres in die adresbalk
 
 ## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
 ## results with last-visited dates like history and top sites, these strings
@@ -241,28 +224,10 @@ eme-notifications-drm-content-playing = Sommige klank of video op dié werf gebr
 ui-tour-info-panel-close =
     .tooltiptext = Sluit
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = Laat opspringers vir { $uriHost } toe
-    .accesskey = p
-popups-infobar-block =
-    .label = Blokkeer opspringers vir { $uriHost }
-    .accesskey = p
-
-##
-
-popups-infobar-dont-show-message =
-    .label = Moenie weer wys wanneer opspringers geblokkeer word nie
-    .accesskey = D
-
 ##
 
 navbar-downloads =
     .label = Afgelaai
-navbar-overflow =
-    .tooltiptext = Meer gereedskap…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

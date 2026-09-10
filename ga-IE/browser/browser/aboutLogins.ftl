@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Focail Fhaire
-about-logins-login-filter =
-    .placeholder = Cuardaigh Logálacha Isteach
-    .key = F
-create-new-login-button =
-    .title = Cruthaigh logáil isteach nua
 about-logins-page-title-name = Focail fhaire
 about-logins-login-filter2 =
-    .placeholder = Cuardach Pasfhocail
     .key = F
+    .placeholder = Cuardach Pasfhocail
 fxaccounts-sign-in-text = Faigh do chuid focal faire ar ghléasanna eile
 fxaccounts-avatar-button =
     .title = Bainistigh an cuntas
@@ -40,12 +34,8 @@ login-list-name-option = Ainm (A-Z)
 login-list-name-reverse-option = Ainm (Z-A)
 login-list-last-changed-option = Athraithe
 login-list-last-used-option = Úsáidte
-login-list-intro-title = Níor aimsíodh aon fhocal faire
 login-list-intro-description = Nuair a shábhálann tú focal faire in { -brand-product-name }, feicfidh tú anseo é.
-about-logins-login-list-empty-search-title = Níor aimsíodh aon fhocal faire
 about-logins-login-list-empty-search-description = Gan torthaí.
-login-list-item-title-new-login = Focal Faire Nua
-login-list-item-subtitle-new-login = Cuir isteach d'ainm úsáideora agus focal faire
 login-list-item-subtitle-missing-username = (gan ainm úsáideora)
 about-logins-list-item-breach-icon =
     .title = Suíomh gréasáin sáraithe
@@ -55,7 +45,6 @@ about-logins-list-section-week = An 7 lá anuas
 
 ## Login
 
-login-item-new-login-title = Cruthaigh Logáil Isteach Nua
 login-item-edit-button = Eagar
 about-logins-login-item-remove-button = Bain
 login-item-origin-label = Seoladh an tSuímh Ghréasáin
@@ -71,7 +60,6 @@ login-item-password-reveal-checkbox =
     .aria-label = Taispeáin an focal faire
 login-item-copy-password-button-text = Cóipeáil
 login-item-copied-password-button-text = Cóipeáladh é!
-login-item-save-changes-button = Sábháil na hAthruithe
 login-item-save-new-button = Sábháil
 login-item-cancel-button = Cealaigh
 
@@ -90,13 +78,10 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Cealaigh
 confirmation-dialog-dismiss-button =
     .title = Cealaigh
-about-logins-confirm-remove-dialog-title = Bain an Focal Faire seo?
-confirm-delete-dialog-message = Ní féidir an gníomh seo a chur ar ceal.
 about-logins-confirm-remove-dialog-confirm-button = Bain
 
 ##
 
-about-logins-confirm-export-dialog-confirm-button = Easpórtáil…
 confirm-discard-changes-dialog-confirm-button = Cuileáil
 
 ## Vulnerable Password notification

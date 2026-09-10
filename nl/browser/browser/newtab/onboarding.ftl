@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = { $addon-name } toevoegen
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Voortgang: stap { $current } van { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -199,11 +193,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = { -brand-short-name } aan de taakbalk en het startmenu vastmaken
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Start met een browser die wordt ondersteund door een non-profitorganisatie. Wij verdedigen uw privacy terwijl u surft op het web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -233,57 +222,10 @@ mr2022-onboarding-set-default-subtitle = Gebruik een browser die wordt ondersteu
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Onze nieuwste versie is rondom u gebouwd, waardoor het eenvoudiger dan ooit is om over het internet te surfen. Het zit boordevol functies waarvan we denken dat u er dol op zult zijn.
 mr2022-onboarding-get-started-primary-button-label = Binnen enkele seconden opgezet
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Razendsnelle installatie
-mr2022-onboarding-import-subtitle = Stel { -brand-short-name } in zoals u het wilt. Voeg uw bladwijzers, wachtwoorden en meer toe vanuit uw oude browser.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importeren uit vorige browser
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Kies de kleur die u inspireert
-mr2022-onboarding-colorway-subtitle = Onafhankelijke stemmen kunnen cultuur veranderen.
-mr2022-onboarding-colorway-primary-button-label-continue = Instellen en doorgaan
-mr2022-onboarding-existing-colorway-checkbox-label = Maak van { -firefox-home-brand-name } uw kleurrijke startpagina
-mr2022-onboarding-colorway-label-default = Standaard
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Huidige { -brand-short-name }-kleuren
-mr2022-onboarding-colorway-description-default = <b>Mijn huidige { -brand-short-name }-kleuren gebruiken.</b>
-mr2022-onboarding-colorway-label-playmaker = Spelmaker
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Spelmaker (rood)
-mr2022-onboarding-colorway-description-playmaker = <b>U bent een spelmaker.</b> U creëert kansen om te winnen en helpt iedereen om u heen hun spel te verbeteren.
-mr2022-onboarding-colorway-label-expressionist = Expressionist
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Expressionist (geel)
-mr2022-onboarding-colorway-description-expressionist = <b>U bent een expressionist.</b> U ziet de wereld anders en uw creaties roeren de emoties van anderen.
-mr2022-onboarding-colorway-label-visionary = Visionair
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Visionair (groen)
-mr2022-onboarding-colorway-description-visionary = <b>U bent een visionair.</b> U trekt de status-quo in twijfel en stimuleert anderen om zich een betere toekomst voor te stellen.
-mr2022-onboarding-colorway-label-activist = Activist
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Activist (blauw)
-mr2022-onboarding-colorway-description-activist = <b>U bent een activist.</b> U laat de wereld mooier achter dan u hem aantrof en laat anderen geloven.
-mr2022-onboarding-colorway-label-dreamer = Dromer
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Dromer (paars)
-mr2022-onboarding-colorway-description-dreamer = <b>U bent een dromer.</b> U gelooft dat geluk met de stoutmoedigen is en inspireert anderen om dapper te zijn.
-mr2022-onboarding-colorway-label-innovator = Innovator
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Innovator (oranje)
-mr2022-onboarding-colorway-description-innovator = <b>U bent een innovator.</b> U ziet overal kansen en hebt invloed op het leven van iedereen om u heen.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Spring van laptop naar telefoon en weer terug
-mr2022-onboarding-mobile-download-subtitle = Haal tabbladen van het ene apparaat op en ga verder waar u was gebleven op een ander. Synchroniseer daarnaast uw bladwijzers en wachtwoorden overal waar u { -brand-product-name } gebruikt.
 mr2022-onboarding-mobile-download-cta-text = Scan de QR-code om { -brand-product-name } voor mobiel te downloaden of <a data-l10n-name="download-label">stuur uzelf een downloadkoppeling.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Scan de QR-code om { -brand-product-name } voor mobiel te downloaden
 
@@ -336,15 +278,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Lichte en donkere handen geven een high five
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Uitzicht op een zonsondergang door een raam met een vos en een kamerplant op een vensterbank
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Een hand spuit een kleurrijke collage van een groen oog, oranje schoen, rode basketbal, paarse koptelefoon, blauw hart en gele kroon
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Een zwaaiende vos op het scherm van een laptop. Op de laptop is een muis aangesloten.
 onboarding-device-migration-title = Welkom terug!
-onboarding-device-migration-subtitle = Meld u aan bij uw { -fxaccount-brand-name } om uw bladwijzers, wachtwoorden en geschiedenis mee te nemen op uw nieuwe apparaat.
 onboarding-device-migration-subtitle2 = Meld u aan bij uw account om uw bladwijzers, wachtwoorden en geschiedenis mee te nemen op uw nieuwe apparaat.
 onboarding-device-migration-primary-button-label = Aanmelden
 
@@ -461,15 +400,12 @@ tab-groups-onboarding-feature-callout-title = Probeer tabbladgroepen voor minder
 tab-groups-onboarding-feature-callout-subtitle = Orden door het ene tabblad op het andere te slepen om uw eerste groep aan te maken.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Vind uw tabbladgroepen altijd terug in het menu Alle tabbladtitels tonen.
-tab-groups-onboarding-create-group-title-2 = Vind hier altijd uw tabbladgroepen.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Vind uw groepen door ernaar te zoeken in de adresbalk.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Wanneer u een tabbladgroep sluit, kunt u deze op elk gewenst moment opnieuw openen vanuit het menu Alle tabbladtitels tonen.
-tab-groups-onboarding-saved-groups-title-2 = Wanneer u een tabbladgroep sluit, kunt u deze hier altijd opnieuw openen.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Vind uw gesloten groepen door ernaar te zoeken in de adresbalk.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = U kunt uw tabbladgroepen op elk gewenst moment opnieuw openen vanuit het menu Alle tabbladtitels tonen.
-tab-groups-onboarding-session-restore-title = Open hier altijd uw tabbladgroepen.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

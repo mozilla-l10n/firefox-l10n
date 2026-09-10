@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Kaxi tutu ndatavana
     .style = min-width: 45em
+    .title = Kaxi tutu ndatavana
 permissions-close-key =
     .key = w
 permissions-address = Dirección sitio web

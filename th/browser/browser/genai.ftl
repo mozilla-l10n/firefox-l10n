@@ -46,11 +46,6 @@ genai-prompt-prefix-selection = ฉันอยู่ที่หน้า “{ 
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = ถามบอตสนทนา AI
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = ถาม { $provider }
 genai-menu-open-generic =
     .label = เปิดบอตสนทนา AI
 # $provider (string) - name of the provider
@@ -111,8 +106,6 @@ genai-header-provider-menu =
     .title = เลือกบอตสนทนา
 genai-header-settings-button =
     .title = การตั้งค่าการสนทนากับ AI
-genai-header-options-button =
-    .title = เปิดเมนู
 genai-header-close-button =
     .title = ปิด
 genai-provider-view-details =
@@ -140,35 +133,23 @@ genai-page-button-summarize = สรุปหน้า
 
 ## Chatbot onboarding
 
-genai-onboarding-header = สรุป ระดมความคิด และทำสิ่งต่างๆ ขณะที่คุณท่องเว็บ
 genai-onboarding-choose-header = เลือกบอตสนทนา AI ที่ต้องการใช้ในแถบข้างของ { -brand-short-name }
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = เลือกบอตสนทนา AI ที่จะใช้ในแถบข้างของ { -brand-short-name } เราจะแสดงรายละเอียดเกี่ยวกับบอตสนทนาแต่ละตัวเมื่อคุณเลือกบอตสนทนาตัวนั้น คุณสามารถเปลี่ยนบอตสนทนาได้ตลอดเวลา <a data-l10n-name="learn-more">เรียนรู้เพิ่มเติม</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = สามารถเปลี่ยนได้ตลอดเวลา สำหรับความช่วยเหลือเกี่ยวกับการเลือก ให้<a data-l10n-name="learn-more">เรียนรู้เพิ่มเติมเกี่ยวกับบอตสนทนาแต่ละตัว</a>
 genai-onboarding-primary = ดำเนินการต่อ
 genai-onboarding-secondary = ปิด
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = เรียนรู้เพิ่มเติมเกี่ยวกับ Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = เรียนรู้เพิ่มเติมเกี่ยวกับ ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = เรียนรู้เพิ่มเติมเกี่ยวกับ Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = เรียนรู้เพิ่มเติมเกี่ยวกับ Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
-genai-onboarding-huggingchat-learn = เรียนรู้เพิ่มเติมเกี่ยวกับ HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = เรียนรู้เพิ่มเติมเกี่ยวกับ Le Chat
-genai-onboarding-select-header = เลือกข้อความเพื่อดูคำแนะนำ
-genai-onboarding-select-description = เมื่อคุณเลือกข้อความ เราจะแนะนำพรอมต์ที่คุณสามารถส่งไปยังบอตสนทนาได้ คุณยังสามารถเขียนพรอมต์ของคุณเองได้ด้วย
-genai-onboarding-select-primary = เริ่มสนทนา
 genai-chatbot-contextual-title = ใช้บอตสนทนา AI โดยไม่ต้องสลับแท็บ
 genai-chatbot-contextual-subtitle = สนทนาและท่องเว็บแบบเคียงข้างกันเมื่อคุณเพิ่มบอตสนทนา AI ในแถบข้างของ { -brand-short-name }
 genai-chatbot-contextual-button = เลือกบอตสนทนา
@@ -181,27 +162,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = คลิกขวาที�
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = เปิดบอตสนทนา AI ของคุณในแถบข้างแล้วเลือก “สรุปหน้า” ที่ด้านล่าง
 genai-chatbot-summarize-footer-generic-subtitle = เพิ่มบอตสนทนา AI ลงในแถบข้างของ { -brand-short-name } เพื่อสรุปหน้าต่าง ๆ ได้อย่างรวดเร็ว
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = สร้างข้อความและโค้ด
-genai-onboarding-claude-analyze = วิเคราะห์เอกสารและภาพ
-genai-onboarding-claude-price = มีตัวเลือกทั้งแบบฟรีและแบบชำระเงิน และต้องมีบัญชีเพื่อใช้งาน
-genai-onboarding-chatgpt-generate = สร้างข้อความ ภาพ และโค้ด
-genai-onboarding-chatgpt-analyze = วิเคราะห์เอกสารและภาพ
-genai-onboarding-chatgpt-price = มีตัวเลือกทั้งแบบฟรีและแบบชำระเงิน และต้องมีบัญชีเพื่อใช้งานสำหรับบางประเทศและงานบางอย่าง
-genai-onboarding-copilot-generate = สร้างข้อความ ภาพ และโค้ด
-genai-onboarding-copilot-analyze = วิเคราะห์ภาพ
-genai-onboarding-copilot-price = มีตัวเลือกทั้งแบบฟรีและแบบชำระเงิน และต้องมีบัญชีสำหรับงานบางอย่าง
-genai-onboarding-gemini-generate = สร้างข้อความ ภาพ และโค้ด
-genai-onboarding-gemini-analyze = วิเคราะห์ภาพ (ฟรี) และเอกสาร (ชำระเงิน)
-genai-onboarding-gemini-price = มีตัวเลือกทั้งแบบฟรีและแบบชำระเงิน และต้องมีบัญชีเพื่อใช้งาน
-genai-onboarding-huggingchat-generate = สร้างข้อความและโค้ด
-genai-onboarding-huggingchat-switch = เปลี่ยนไปใช้โมเดลแบบเปิดต่างๆ ซึ่งมีให้เลือกหลากหลาย
-genai-onboarding-huggingchat-price-2 = สามารถใช้ได้ฟรี แต่ต้องมีบัญชีหลังจากใช้ไปแล้วจำนวนหนึ่ง
-genai-onboarding-lechat-generate = สร้างข้อความและโค้ด
-genai-onboarding-lechat-price = ฟรี แต่ต้องมีบัญชีเพื่อใช้งาน
 
 ## Model Optin Component
 
@@ -236,8 +196,8 @@ link-preview-generation-retry = ลองอีกครั้ง
 link-preview-settings-button =
     .title = การตั้งค่าการแสดงตัวอย่างลิงก์
 link-preview-settings-enable =
-    .label = เปิดใช้งานการแสดงตัวอย่างลิงก์
     .description = ดูชื่อหน้า คำอธิบาย และอื่น ๆ เมื่อคุณใช้ทางลัดหรือคลิกขวาที่ลิงก์
+    .label = เปิดใช้งานการแสดงตัวอย่างลิงก์
 link-preview-settings-key-points =
     .label = อนุญาตให้ AI อ่านจุดเริ่มต้นของหน้าและสร้างประเด็นสำคัญ
 link-preview-settings-long-press =

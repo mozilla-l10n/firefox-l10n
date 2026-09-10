@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Kundaharape ñongatupyre
 autofill-manage-addresses-list-header = Kundaharape
-autofill-manage-credit-cards-title = Kuatia’atã ñemurã ñongatupyre
-autofill-manage-credit-cards-list-header = Kuatia’atã ñemurã
 autofill-manage-payment-methods-title = Mba’éicha ehepyme’ẽta
 autofill-manage-cards-list-header = Kuatia’atã
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = Embojuruja poravorã
 address-capture-edit-address-link = Embosako’i kundaharape
     .aria-label = Embosako’i kundaharape
-address-capture-edit-address-button =
-    .aria-label = Embosako’i kundaharape
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Embojuaju kundaharape
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Embosako’i kundaharape
-autofill-address-given-name = Téra ñepyrũ
-autofill-address-additional-name = Téra mokõiha
-autofill-address-family-name = Terajoapy
 autofill-address-name = Téra
 autofill-address-organization = Atyguasu
 autofill-address-street-address = Kundaharape
@@ -104,8 +97,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Embojuaju kundaharape pyahu
 autofill-address-country = Tetã térã tendaguasu
 autofill-address-country-only = Tetã
 autofill-address-tel = Pumbyry
@@ -114,18 +105,6 @@ autofill-cancel-button = Heja
 autofill-save-button = Ñongatu
 autofill-country-warning-message-2 = Pe myanyhẽha ijeheguíva ko’ág̃a ikatu ojepuru ndahetái tetãme.
 autofill-country-warning-message = Pe myanyhẽha ijeheguíva ko’ág̃a ikatu ojeporu ndahetái tetãme.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Embojoaju kuatia’atã ñemurã pyahu
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Embosako’i kuatia’atã ñemurã
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] ehechauka marandu ko kuatia’atã ñemurãva
-        [windows] { -brand-short-name } ohechaukase marandu kuatia’atã ñemurã rehegua. Emoneĩ ko’ág̃a ko Windows mba’etépe jeike.
-       *[other] { -brand-short-name } ohechaukase marandu kuatia’atã ñemurãva.
-    }
 autofill-message-tooltip = Ehecha ñe’ẽmondo myanyhẽjehegui rehegua
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Embojuaju kuatia’atã
@@ -211,15 +190,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = Aníke eñongatu pasaporteita
     .accessKey = N
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

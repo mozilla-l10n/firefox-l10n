@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Im Finder anzeigen
            *[other] In Ordner anzeigen
         }
-downloads-cmd-show-downloads =
-    .label = Ordner "Downloads" öffnen
 downloads-cmd-retry =
     .tooltiptext = Nochmals versuchen
 downloads-cmd-retry-panel =

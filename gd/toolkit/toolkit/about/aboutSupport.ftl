@@ -21,10 +21,6 @@ security-software-name = Ainm
 security-software-antivirus = Bathar an aghaigh bhìorasan
 security-software-antispyware = Bathar an aghaidh bathar-foill
 security-software-firewall = Cachaileith-theine
-features-title = Gleusan { -brand-short-name }
-features-name = Ainm
-features-version = Tionndadh
-features-id = ID
 processes-title = Pròiseasan cèin
 processes-type = Seòrsa
 processes-count = Cunntas
@@ -50,7 +46,6 @@ app-basics-profile-dir =
         [linux] Pasgan nam pròifilean
        *[other] Pasgan na pròifil
     }
-app-basics-enabled-plugins = Plugain a tha an comas
 app-basics-build-config = Rèiteachadh na togalach
 app-basics-user-agent = UserAgent
 app-basics-os = OS
@@ -87,9 +82,6 @@ show-dir-label =
 environment-variables-title = Caochladairean na h-àrainneachd
 environment-variables-name = Ainm
 environment-variables-value = Luach
-experimental-features-title = Gleusan deuchainneach
-experimental-features-name = Ainm
-experimental-features-value = Luach
 modified-key-prefs-title = Roghainnean cudromach a chaidh atharrachadh
 modified-prefs-name = Ainm
 modified-prefs-value = Luach
@@ -348,8 +340,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Chaidh a chur à comas le deuchainn
-fission-status-experiment-treatment = Chaidh a chur an comas le deuchainn
 fission-status-disabled-by-e10s-env = Chaidh a chur à comas leis an àrainneachd
 fission-status-enabled-by-env = Chaidh a chur an comas leis an àrainneachd
 fission-status-disabled-by-env = Disabled by environment
@@ -358,7 +348,6 @@ fission-status-disabled-by-default = À comas o thùs
 fission-status-enabled-by-user-pref = Chaidh a chur an comas leis a’ chleachdaiche
 fission-status-disabled-by-user-pref = Chaidh a chur à comas leis a’ chleachdaiche
 fission-status-disabled-by-e10s-other = E10s disabled
-fission-status-enabled-by-rollout = Enabled by phased rollout
 async-pan-zoom = Panachadh/Sùmadh neo-shioncronach
 apz-none = chan eil gin
 wheel-enabled = tha ion-chur cuibhle an comas

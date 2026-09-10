@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Uložené adresy
 autofill-manage-addresses-list-header = Adresy
-autofill-manage-credit-cards-title = Uložené platobné karty
-autofill-manage-credit-cards-list-header = Platobné karty
 autofill-manage-payment-methods-title = Uložené spôsoby platby
 autofill-manage-cards-list-header = Karty
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = Otvoriť ponuku
 address-capture-edit-address-link = Upraviť adresu
     .aria-label = Upraviť adresu
-address-capture-edit-address-button =
-    .aria-label = Upraviť adresu
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Pridanie adresy
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Úprava adresy
-autofill-address-given-name = Krstné meno
-autofill-address-additional-name = Stredné meno
-autofill-address-family-name = Priezvisko
 autofill-address-name = Meno
 autofill-address-organization = Organizácia
 autofill-address-street-address = Ulica
@@ -104,8 +97,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Pridanie novej adresy
 autofill-address-country = Krajina alebo oblasť
 autofill-address-country-only = Krajina
 autofill-address-tel = Telefón
@@ -114,18 +105,6 @@ autofill-cancel-button = Zrušiť
 autofill-save-button = Uložiť
 autofill-country-warning-message-2 = Automatické dopĺňanie formulárov je momentálne k dispozícii iba pre určité krajiny
 autofill-country-warning-message = Automatické dopĺňanie formulárov momentálne funguje len pre niektoré krajiny.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Pridanie novej platobnej karty
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Úprava platobnej karty
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] zobraziť informácie o platobnej karte
-        [windows] { -brand-short-name } chce zobraziť informácie o platobnej karte. Prosím, potvrďte prístup k nižšie uvedenému účtu Windows.
-       *[other] { -brand-short-name } chce zobraziť informácie o platobnej karte.
-    }
 autofill-message-tooltip = Zobraziť správu o automatickom dopĺňaní
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Pridanie karty
@@ -211,15 +190,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = Nikdy neukladať pasy
     .accessKey = N
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

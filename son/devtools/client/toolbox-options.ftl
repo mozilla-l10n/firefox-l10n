@@ -78,8 +78,6 @@ options-context-advanced-settings = Hanseyan koyjinantey
 options-disable-http-cache-label = HTTP tugudoo kayandi (nda goyjinay bata ga feera)
 options-disable-http-cache-tooltip =
     .title = Nda suubaroo woo tun, HTTP tugudogoo ga kay kanjey kul se kaŋ na goyjinay bataa feeri. Service Workers ši suubaroo woo kanboo maate.
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = JavaScript kayandi *
 options-disable-javascript-tooltip =
     .title = Suubaroo tunandiroo ga JavaScript kayandi kanjoo ra. Nda kanjoo wala goyjinay bataa daaba kul kayandiyanoo mma dere.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -94,8 +92,6 @@ options-enable-service-workers-http-tooltip =
     .title = Suubaroo woo tunandiroo ga service workers kul tunandi HTTP boŋ kanjey kaŋ na goyjinay bataa feeri kul se.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Aššil dawtiirawey tunandi
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Goywaatoo hinne se, moɲoo zumandi taaga
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

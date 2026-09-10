@@ -10,16 +10,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } ще отвори последния използван потребителски профил.
 profile-window-create-profile = Създаване на профил
 profile-card-edit-button =
-    .title = Промяна на профила
     .aria-label = Променяне на профила
+    .title = Промяна на профила
 profile-card-delete-button =
-    .title = Премахване на профила
     .aria-label = Премахване на профила
+    .title = Премахване на профила
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Отваряне на { $profileName }
     .aria-label = Отваряне на { $profileName }
+    .title = Отваряне на { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Профил { $number }
@@ -40,9 +40,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Изтриване на потребителския профил на { $profilename }
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = Да се изтрие ли потребителския профил на { $profilename }?
 delete-profile-description = { -brand-short-name } ще изтрие необратимо следните данни от устройството:
 delete-profile-logins = Пароли
@@ -56,10 +53,6 @@ delete-profile-confirm = Премахване
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Светла
-# The default dark theme
-profiles-dark-theme = Тъмна
 # The default system theme
 profiles-system-theme = Системна
 

@@ -5,14 +5,6 @@
 sync-disconnect-dialog-button = Wek kube
 fxa-menu-connect-another-device =
     .label = Kub Nyonyo Mukene…
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Cwal dirica matidi ii Nyonyo
-           *[other] Cwal dirica matino { $tabCount } ii Nyonyo
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Ribo nyonyo…

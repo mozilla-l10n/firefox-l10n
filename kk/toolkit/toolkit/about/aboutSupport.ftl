@@ -29,10 +29,6 @@ security-software-name = Аты
 security-software-antivirus = Антивирус
 security-software-antispyware = Антитыңшы
 security-software-firewall = Желіаралық экран
-features-title = { -brand-short-name } мүмкіндіктері
-features-name = Аты
-features-version = Нұсқасы
-features-id = ID
 processes-title = Қашықтағы үрдістер
 processes-type = Түрі
 processes-count = Саны
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] Профиль бумасы
        *[other] Профиль сақталатын бума
     }
-app-basics-enabled-plugins = Іске қосулы плагиндер
 app-basics-build-config = Жинау баптаулары
 app-basics-user-agent = User Agent
 app-basics-os = ОЖ
@@ -96,9 +91,6 @@ show-dir-label =
 environment-variables-title = Қоршам айнымалылары
 environment-variables-name = Аты
 environment-variables-value = Мәні
-experimental-features-title = Эксперименталды мүмкіндіктер
-experimental-features-name = Аты
-experimental-features-value = Мәні
 modified-key-prefs-title = Өзгертілген маңызды баптаулар
 modified-prefs-name = Аты
 modified-prefs-value = Мәні
@@ -220,9 +212,6 @@ media-cdm-capabilities = Мүмкіндіктер
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Таза бастау
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = HDCP 2.2 үйлесімді
 
 ##
 
@@ -394,8 +383,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Тәжірибемен сөндірілген
-fission-status-experiment-treatment = Тәжірибемен іске қосылған
 fission-status-disabled-by-e10s-env = Қоршаммен сөндірілген
 fission-status-enabled-by-env = Қоршаммен іске қосылған
 fission-status-disabled-by-env = Қоршаммен сөндірілген
@@ -404,7 +391,6 @@ fission-status-disabled-by-default = Үнсіз келісім бойынша с
 fission-status-enabled-by-user-pref = Пайдаланушымен іске қосылған
 fission-status-disabled-by-user-pref = Пайдаланушымен сөндірілген
 fission-status-disabled-by-e10s-other = E10s сөндірілген
-fission-status-enabled-by-rollout = Кезеңді шығару арқылы іске қосылған
 async-pan-zoom = Асинхронды панорамдау/масштабтау
 apz-none = ешнәрсе
 wheel-enabled = тышқан дөңгелегімен енгізу іске қосылған

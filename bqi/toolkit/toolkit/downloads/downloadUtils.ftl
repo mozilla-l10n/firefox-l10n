@@ -40,11 +40,5 @@ download-utils-time-left-single = { $time } باقی منده
 download-utils-time-left-double = { $time1 } { $time2 } باقی منده
 download-utils-time-few-seconds = چن سانیه باقی منده
 download-utils-time-unknown = زمووݩ باقی منده معلۊم نؽ
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = { $scheme } بونچک
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = فایل مهلی
 # Displayed time for files finished yesterday
 download-utils-yesterday = دۊش

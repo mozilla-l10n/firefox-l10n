@@ -6,7 +6,6 @@ xpinstall-prompt = { -brand-short-name } eziiyiza omuko guno okkubuuza okutekamu
 
 ##
 
-xpinstall-disabled-locked = Akulira ebya komputya alemesezza okuteekamu enteekateeka za pulogulamu za kompyuta.
 xpinstall-disabled = Enteekamu ya pulogulamu za kompyuta elemeseddwa. Nyiga epesa eririko Sobozesa ogezeeko nate.
 
 ## Add-on removal warning

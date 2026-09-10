@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Izjeme
     .style = min-width: 45em
+    .title = Izjeme
 permissions-close-key =
     .key = w
 permissions-address = Naslov spletnega mesta
@@ -80,79 +80,64 @@ permissions-invalid-uri-label = Prosim, vnesite veljaven naslov.
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Izjeme za izboljšano zaščito pred sledenjem
     .style = { permissions-window2.style }
+    .title = Izjeme za izboljšano zaščito pred sledenjem
 permissions-exceptions-manage-etp-desc = Določite, na katerih spletnih mestih je izboljšana zaščita pred sledenjem izklopljena. Vnesite točen naslov spletnega mesta in kliknite gumb Dodaj izjemo.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Izjeme – Piškotki in podatki strani
     .style = { permissions-window2.style }
+    .title = Izjeme – Piškotki in podatki strani
 permissions-exceptions-cookie-desc = Določite lahko, katera spletna mesta lahko vedno ali ne smejo nikoli shranjevati piškotkov in podatkov strani. Vnesite točen naslov spletnega mesta in nato kliknite gumb Prepovej, Dovoli v tej seji ali Dovoli.
 
 ## Exceptions - Clear on Shutdown
 
 permissions-exceptions-shutdown-clearing-window =
-    .title = Izjeme – Brisanje zgodovine ob zapiranju
     .style = { permissions-window2.style }
+    .title = Izjeme – Brisanje zgodovine ob zapiranju
 permissions-exceptions-shutdown-clearing-desc = Določite, podatki katerih spletnih mest naj se ohranijo, ko se { -brand-short-name } zapre in ob tem izbriše zgodovino. Vnesite točen naslov spletnega mesta, nato pa kliknite gumb Dovoli.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Izjeme – Način samo HTTPS
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Način "samo HTTPS" lahko izklopite za določena spletna mesta. Na teh spletnih mestih { -brand-short-name } ne bo poskušal nadgraditi povezave na zavarovani HTTPS. Izjeme ne bodo veljale v zasebnih oknih.
+    .title = Izjeme – Način samo HTTPS
 permissions-exceptions-https-only-desc2 = Način "samo HTTPS" lahko izklopite za določena spletna mesta. Na teh spletnih mestih { -brand-short-name } ne bo poskušal nadgraditi povezave na zavarovani HTTPS.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
     .title = Dovoljena spletna mesta – Pojavna okna in preusmeritve tretjih strani
-    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = Določite lahko, katera spletna mesta lahko odpirajo pojavna okna in jih preusmerjajo okvirji s tretjimi stranmi.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Dovoljena spletna mesta – Pojavna okna
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Določite, katera spletna mesta smejo odpirati pojavna okna. Vnesite točen naslov spletnega mesta, nato pa kliknite gumb Dovoli.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Izjeme – Shranjene prijave
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Prijave za naslednja spletna mesta ne bodo shranjene
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Izjeme – Shranjena gesla
     .style = { permissions-window2.style }
+    .title = Izjeme – Shranjena gesla
 permissions-exceptions-saved-passwords-desc = Za naslednja spletna mesta { -brand-short-name } ne bo shranjeval gesel.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Dovoljena spletna mesta – Nameščanje dodatkov
     .style = { permissions-window2.style }
+    .title = Dovoljena spletna mesta – Nameščanje dodatkov
 permissions-exceptions-addons-desc = Določite, katera spletna mesta smejo nameščati dodatke. Vnesite točen naslov spletnega mesta, nato pa kliknite gumb Dovoli.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Nastavitve – Samodejno predvajanje
     .style = { permissions-window2.style }
+    .title = Nastavitve – Samodejno predvajanje
 permissions-site-autoplay-desc = Tukaj lahko upravljate spletna mesta, za katera ne veljajo privzete nastavitve samodejnega predvajanja.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Nastavitve – Dovoljenja obvestil
     .style = { permissions-window2.style }
+    .title = Nastavitve – Dovoljenja obvestil
 permissions-site-notification-desc = Naslednja spletna mesta so zahtevala, da vam pošiljajo obvestila. Določite lahko, katera spletna mesta lahko pošiljajo obvestila. Prav tako lahko blokirate nove zahteve, ki zahtevajo dovoljenje za obvestila.
 permissions-site-notification-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo dovoljenje za pošiljanje obvestil
@@ -161,8 +146,8 @@ permissions-site-notification-disable-desc = To bo preprečilo, da bi katera kol
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Nastavitve – Dovoljenja lokacije
     .style = { permissions-window2.style }
+    .title = Nastavitve – Dovoljenja lokacije
 permissions-site-location-desc = Naslednja spletna mesta so zahtevala dostop do vaše lokacije. Določite lahko, katera spletna mesta lahko dostopajo do vaše lokacije. Prav tako lahko zavrnete nove zahteve za dostop do lokacije.
 permissions-site-location-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo informacijo o lokaciji
@@ -171,8 +156,8 @@ permissions-site-location-disable-desc = To bo preprečilo, da bi katero koli sp
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Nastavitve – Dovoljenja navidezne resničnosti
     .style = { permissions-window2.style }
+    .title = Nastavitve – Dovoljenja navidezne resničnosti
 permissions-site-xr-desc = Naslednja spletna mesta so zahtevala dostop do vaših naprav navidezne resničnosti. Določite lahko, katera spletna mesta lahko dostopajo do vaših naprav navidezne resničnosti. Prav tako lahko zavrnete nove zahteve za dostop do naprav navidezne resničnosti.
 permissions-site-xr-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo informacijo o napravah navidezne resničnosti
@@ -181,8 +166,8 @@ permissions-site-xr-disable-desc = To bo preprečilo, da bi katero koli spletno 
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Nastavitve – Dovoljenja kamere
     .style = { permissions-window2.style }
+    .title = Nastavitve – Dovoljenja kamere
 permissions-site-camera-desc = Naslednja spletna mesta so zahtevala dostop do kamere. Določite lahko, katera spletna mesta lahko dostopajo do kamere. Prav tako lahko zavrnete nove zahteve za dostop do kamere.
 permissions-site-camera-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo dostop do kamere
@@ -191,8 +176,8 @@ permissions-site-camera-disable-desc = To bo preprečilo, da bi katero koli sple
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = Nastavitve – Aplikacije in storitve na napravi
     .style = { permissions-window2.style }
+    .title = Nastavitve – Aplikacije in storitve na napravi
 permissions-site-localhost-desc = Naslednja spletna mesta so zahtevala dostop do aplikacij in storitev na tej napravi. Lahko jim ga dovolite ali prepoveste.
 permissions-site-localhost-disable-label =
     .label = Zavrni nove zahteve za dostop do aplikacij in storitev na tej napravi
@@ -201,8 +186,8 @@ permissions-site-localhost-disable-desc = To bo preprečilo vsem spletnim mestom
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = Nastavitve - Naprave v krajevnem omrežju
     .style = { permissions-window2.style }
+    .title = Nastavitve - Naprave v krajevnem omrežju
 permissions-site-local-network-desc = Te spletne strani so zahtevale dostop do aplikacij in storitev na napravah, povezanih na vaš Wi-Fi ali lokalno omrežje. Lahko se odločite, ali jim dovolite ali blokirate ta dostop.
 permissions-site-local-network-disable-label =
     .label = Blokirajte nove zahteve za dostop do aplikacij in storitev na napravah, povezanih z vašim Wi-Fi ali lokalnim omrežjem.
@@ -211,8 +196,8 @@ permissions-site-local-network-disable-desc = S tem boste preprečili, da bi kat
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Nastavitve – Dovoljenja mikrofona
     .style = { permissions-window2.style }
+    .title = Nastavitve – Dovoljenja mikrofona
 permissions-site-microphone-desc = Naslednja spletna mesta so zahtevala dostop do mikrofona. Določite lahko, katera spletna mesta lahko dostopajo do mikrofona. Prav tako lahko zavrnete nove zahteve za dostop do mikrofona.
 permissions-site-microphone-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo dostop do mikrofona
@@ -223,12 +208,12 @@ permissions-site-microphone-disable-desc = To bo preprečilo, da bi katero koli 
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Nastavitve – Dovoljenja zvočnikov
     .style = { permissions-window2.style }
+    .title = Nastavitve – Dovoljenja zvočnikov
 permissions-site-speaker-desc = Naslednja spletna mesta so hotela izbrati zvočno izhodno napravo. Določite lahko, katera spletna mesta lahko izberejo zvočno izhodno napravo.
 permissions-exceptions-doh-window =
-    .title = Izjeme spletnih mest za DNS prek HTTPS
     .style = { permissions-window2.style }
+    .title = Izjeme spletnih mest za DNS prek HTTPS
 permissions-exceptions-manage-doh-desc = Na teh spletnih mestih in njihovih poddomenah { -brand-short-name } ne bo uporabljal varnega DNS.
 permissions-doh-entry-field = Vnesite domeno spletnega mesta
     .accesskey = d

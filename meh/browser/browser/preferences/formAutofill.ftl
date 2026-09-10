@@ -5,7 +5,6 @@
 
 ## The address and credit card autofill management dialog in browser preferences
 
-autofill-manage-credit-cards-title = Tutu crédito nchuva´a
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Xita
@@ -31,16 +30,6 @@ autofill-address-area = Área
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Tee jíía nuu
 autofill-address-email = Email
 autofill-cancel-button = Nkuvi-ka
 autofill-save-button = Chuva´a
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

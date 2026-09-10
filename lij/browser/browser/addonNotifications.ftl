@@ -28,13 +28,6 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Avanti con l'Instalaçion
     .accesskey = A
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = L'instalaçion do software a l'é stæta dizabilitâ dò-u teu aministratô do scistema.
 xpinstall-disabled = L'instalaçion do software a l'é dizabilita. Sciacca Abilita e preuva torna.
 xpinstall-disabled-button =
     .label = Abilita
@@ -48,9 +41,6 @@ webext-perms-update-menu-item = { $addonName } o l'à bezeugno de neuvi permissi
 
 ## Add-on removal warning
 
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Scancelâ { $name } da { -brand-shorter-name }?
 addon-removal-button = Scancella
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
@@ -101,4 +91,3 @@ addon-local-install-error-not-signed = Inposcibile instalâ sto conponente azont
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Inposcibile instalâ { $addonName } perché o no l'é conpatibile con { -brand-short-name } { $appVersion }.
-addon-install-error-blocklisted = Inposcibile instalâ { $addonName } perché gh'é 'n'erto reizego pe a stabilitæ ò seguessa.

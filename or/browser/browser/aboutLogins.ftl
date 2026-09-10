@@ -3,13 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = ଲଗଇନ ଏବଂ ପାସୱାର୍ଡ଼
-create-new-login-button =
-    .title = ନୂଆ ଲଗଇନ ଗଢ଼ନ୍ତୁ
 about-logins-page-title-name = ପାସୱାର୍ଡ଼ସବୁ
 about-logins-login-filter2 =
-    .placeholder = ପାସୱାର୍ଡ଼ ଖୋଜନ୍ତୁ
     .key = F
+    .placeholder = ପାସୱାର୍ଡ଼ ଖୋଜନ୍ତୁ
 create-login-button =
     .title = ପାସୱାର୍ଡ଼ ଯୋଡ଼ନ୍ତୁ
 fxaccounts-sign-in-text = ନିଜର ଉପକରଣରେ ନିଜସ୍ୱ ପାସୱାର୍ଡ଼ ପାଆନ୍ତୁ
@@ -24,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = ଅନ୍ୟ ବ୍ରାଉଜରରୁ ଆମଦାନୀ…
 about-logins-menu-menuitem-import-from-a-file = ଏକ ଫାଇଲରୁ ଆଣନ୍ତୁ...
-about-logins-menu-menuitem-export-logins = ଲଗଇନ ପଠାନ୍ତୁ...
-about-logins-menu-menuitem-remove-all-logins = ସବୁ ଲଗଇନ କାଢ଼ନ୍ତୁ...
 about-logins-menu-menuitem-export-logins2 = ପାସୱାର୍ଡ଼ ପଠାନ୍ତୁ...
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -38,25 +33,14 @@ about-logins-menu-menuitem-help = ସହାୟତା
 
 login-list =
     .aria-label = ଲଗଇନଟି ଖୋଜା ତଥ୍ୟ ସହ ମିଶୁଛି
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] ଲଗଇନ
-       *[other] ଲଗଇନ ଗୁଡ଼ିକ
-    }
 login-list-sort-label-text = କ୍ରମ:
 login-list-name-option = ନାମ (କ-କ୍ଷ)
 login-list-name-reverse-option = ନାମ (କ-କ୍ଷ)
 about-logins-login-list-alerts-option = ସତର୍କତା
 login-list-last-changed-option = ପୂର୍ବ ରୂପାନ୍ତରଣ
 login-list-last-used-option = ଶେଷ ଥର ବ୍ୟବହୃତ
-login-list-intro-title = କୌଣସି ଲଗଇନ ମିଳିଲା ନାହିଁ
 login-list-intro-description = { -brand-product-name }ରେ ଯେବେ ଆପଣ ଏକ ପାସୱାର୍ଡ଼ ସଞ୍ଚୟ କରିବେ, ତାହା ଏଠାରେ ଦେଖାଇବ
-about-logins-login-list-empty-search-title = କୌଣସି ଲଗଇନ ମିଳିଲା ନାହିଁ
 about-logins-login-list-empty-search-description = ଆପଣ ଖୋଜୁଥିବା ତଥ୍ୟର କୌଣସି ପ୍ରତ୍ୟୁତ୍ତର ମିଳିଲା ନାହିଁ
-login-list-item-title-new-login = ନୂତନ ଲଗଇନ
-login-list-item-subtitle-new-login = ଆପଣଙ୍କର ଲଗଇନ ତଥ୍ୟ ଭରନ୍ତୁ
 login-list-item-subtitle-missing-username = (ବ୍ୟବହାରକାରୀ ନାମ ନାହିଁ)
 about-logins-list-item-breach-icon =
     .title = ସଂକ୍ରମିତ ୱେବସାଇଟ
@@ -66,14 +50,8 @@ about-logins-list-section-today = ଆଜି
 about-logins-list-section-yesterday = ଗତକାଲି
 about-logins-list-section-week = ବିଗତ ୭ ଦିନ
 
-## Introduction screen
-
-about-logins-login-intro-heading-logged-in = କୌଣସି ସମସାମୟିକ ଲଗ-ଇନ ମିଳିଲା ନାହିଁ
-login-intro-description = ଯଦି ଆପଣ { -brand-product-name } ପାଇଁ ଆପଣଙ୍କର ଲଗ ଇନଗୁଡ଼ିକୁ ଅନ୍ୟ ଏକ ଉପକରଣରେ ସଂରକ୍ଷିତ କରିଛନ୍ତି, ତେବେ ତାହାକୁ କିପରି ଏଠାକୁ ଆଣିବେ ଦେଖନ୍ତୁ:
-
 ## Login
 
-login-item-new-login-title = ନୂତନ ଲଗଇନ ତିଆରି କରନ୍ତୁ
 login-item-edit-button = ସମ୍ପାଦନ କରନ୍ତୁ
 about-logins-login-item-remove-button = କାଢ଼ନ୍ତୁ
 login-item-origin-label = ୱେବସାଇଟ ଠିକଣା
@@ -89,7 +67,6 @@ login-item-password-reveal-checkbox =
     .aria-label = ପାସୱାର୍ଡ଼ ଦେଖାନ୍ତୁ
 login-item-copy-password-button-text = ନକଲ କରନ୍ତୁ
 login-item-copied-password-button-text = ନକଲ ହୋଇଛି
-login-item-save-changes-button = ପରିବର୍ତ୍ତନ ସଂରକ୍ଷଣ କରନ୍ତୁ
 login-item-save-new-button = ସଂରକ୍ଷଣ କରନ୍ତୁ
 login-item-cancel-button = ବାତିଲ କରନ୍ତୁ
 
@@ -101,11 +78,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = ଆପଣଙ୍କର ଲଗଇନ୍ ସଂପାଦନ କରିବାକୁ, ଆପଣଙ୍କର ୱିଣ୍ଡୋଜ୍ ଲଗଇନ୍ ପରିଚୟପତ୍ର ପ୍ରବେଶ କରନ୍ତୁ | ଏହା ଆପଣଙ୍କ ଖାତାର ସୁରକ୍ଷା ରକ୍ଷା କରିବାରେ ସାହାଯ୍ୟ କରେ
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = ସଞ୍ଚିତ ଲଗଇନ୍ ସଂପାଦନ କରନ୍ତୁ
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = ଆପଣଙ୍କର ପାସୱାର୍ଡ ଦେଖିବା ପାଇଁ, ଆପଣଙ୍କର ୱିଣ୍ଡୋଜ୍ ଲଗଇନ୍ ପରିଚୟପତ୍ର ପ୍ରବେଶ କରନ୍ତୁ | ଏହା ଆପଣଙ୍କ ଖାତାର ସୁରକ୍ଷା ରକ୍ଷା କରିବାରେ ସାହାଯ୍ୟ କରେ
 # This message can be seen when attempting to reveal a password in about:logins
@@ -128,13 +100,10 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = ବାତିଲ
 confirmation-dialog-dismiss-button =
     .title = ବାତିଲ କରନ୍ତୁ
-about-logins-confirm-remove-dialog-title = ଲଗଇନକୁ ବିଲୋପ କରିଦେବେ?
-confirm-delete-dialog-message = ଏହି କାର୍ଯ୍ୟର ପଦକ୍ଷେପ ବାତିଲ କରିପାରିବେ ନାହିଁ।
 about-logins-confirm-remove-dialog-confirm-button = କାଢ଼ନ୍ତୁ
 
 ##
 
-about-logins-confirm-export-dialog-confirm-button = …ରପ୍ତାନୀ କରିବା
 confirm-discard-changes-dialog-title = ଅଣସଞ୍ଚିତ ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ନଷ୍ଟ କରିଦେବେ?
 confirm-discard-changes-dialog-message = ସମସ୍ତ ଅଣସଂରକ୍ଷିତ ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ବିଲୁପ୍ତ ହୋଇଯିବ
 confirm-discard-changes-dialog-confirm-button = ପରିତ୍ୟାଗ

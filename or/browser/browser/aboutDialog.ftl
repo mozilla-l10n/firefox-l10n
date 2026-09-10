@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/> ଅପଡେଟ ଡାଉନଲୋଡ଼ ହେଉଛି --<label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = { " " }ଅପଡେଟ ଡାଉନଲୋଡ଼ ହେଉଛି --{ $transfer }
 
@@ -29,7 +28,6 @@ settings-update-applying =
     .label = ଅପଡେଟଟି ପ୍ରୟୋଗ କରୁଛି…
 update-failed = ଅପଡେଟ ବିଫଳ ।<label data-l10n-name="failed-link">ନୂତନତମ ସଂସ୍କରଣକୁ ଆହରଣ କରନ୍ତୁ</label>
 update-failed-main = ଅପଡେଟ ବିଫଳ ।<a data-l10n-name="failed-link-main">ନୂତନତମ ସଂସ୍କରଣକୁ ଆହରଣ କରନ୍ତୁ</a>
-update-adminDisabled = ଆପଣଙ୍କ ସିଷ୍ଟମ ପରିଚାଳକଙ୍କ ଦ୍ୱାରା ନିଷ୍କ୍ରିୟ କରାଯାଇଥିବା ଅପଡେଟସବୁ
 update-noUpdatesFound = { -brand-short-name } ଟି ଅଦ୍ୟତିତ ଅଛି
 settings-update-no-updates-found =
     .label = { -brand-short-name } ଟି ଅଦ୍ୟତିତ ଅଛି
@@ -60,8 +58,6 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } ଟି ଏହା ଦ୍ୱାରା ରଚିତ <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a <label data-l10n-name="community-creditsLink">ବିଶ୍ୱ ସମ୍ପ୍ରଦାୟ</label> ୱେବକୁ ମୁକ୍ତ, ସର୍ବସାଧାରଣ ଏବଂ ସମସ୍ତଙ୍କ ପାଇଁ ଅଭିଗମ୍ୟ କରିବା ପାଇଁ ଏକା ସହିତ ମିଶି କାମ କରୁଅଛୁ।
 helpus = ସାହାର୍ଯ୍ୟ କରିବାକୁ ଚାହାନ୍ତି କି? <label data-l10n-name="helpus-donateLink"> ଦାନ କରନ୍ତୁ </label> କିମ୍ବା <label data-l10n-name="helpus-getInvolvedLink"> ଜଡ଼ିତ ହୁଅନ୍ତୁ!</label>
 bottomLinks-license = ଅନୁମତି ପତ୍ର ସୂଚନା
-bottomLinks-rights = ଚାଳକ ସୂଚନା
-bottomLinks-privacy = ଗୋପନୀୟତା ନିତୀ
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

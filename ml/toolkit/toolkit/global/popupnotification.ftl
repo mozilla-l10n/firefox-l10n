@@ -8,6 +8,3 @@ popup-notification-more-actions-button =
 popup-notification-default-button2 =
     .label = ശരി
     .accesskey = ശ
-popup-notification-default-button =
-    .label = ശരി
-    .accesskey = ശ

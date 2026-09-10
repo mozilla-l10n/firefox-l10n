@@ -62,7 +62,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Syngronisearje jo blêdwizers oeral.
-cfr-doorhanger-bookmark-fxa-body = Goed fûn! Soargje der no foar dat jo net sûnder blêdwizers sitte op jo mobile apparaten. Start no mei { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = Goed fûn! Soargje der no foar dat jo net sûnder blêdwizers sitte op jo mobile apparaten. Start no mei in account.
 cfr-doorhanger-bookmark-fxa-link-text = Blêdwizers no syngronisearje…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -75,12 +74,6 @@ fxa-adoption-credit-cards-backup-subtitle = Beskermje jo betellingsmetoaden troc
 fxa-adoption-bookmarks-treatment-backup-title = Litte wy in reservekopy fan jo blêdwizers meitsje
 fxa-adoption-bookmarks-treatment-backup-subtitle = Beskermje jo blêdwizers troch se fersifere mei jo apparaten mei te syngronisearjen.
 fxa-adoption-primary-button-label = Registrearje
-
-## Protections panel
-
-cfr-protections-panel-header = Sneup sûnder folge te wurden
-cfr-protections-panel-body = Hâld jo gegevens foar josels. { -brand-short-name } beskermet jo tsjin in protte fan de meast foarkommende trackers dy’t folgje wat jo online dogge.
-cfr-protections-panel-link-text = Mear ynfo
 
 ## What's New toolbar button and panel
 
@@ -176,42 +169,8 @@ mr2022-background-update-toast-primary-button-label = { -brand-shorter-name } no
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Werinnerje my letter
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Utprobearje
-    .accesskey = U
-firefoxview-cfr-secondarybutton = No net
-    .accesskey = N
-firefoxview-cfr-header-v2 = Gean fluch troch wêr’t jo bleaun wiene
-firefoxview-cfr-body-v2 = Untfang koartlyn sluten ljepblêden werom en skeakelje maklik tusken apparaten mei { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Sis hallo tsjin { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Wolle jo dat iepen ljepblêd op jo telefoan? Pak it. Need oan dy side dy’t jo krekt besocht hawwe? Poef, it is werom mei { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Sjen hoe’t dit wurket
-firefoxview-spotlight-promo-secondarybutton = Oerslaan
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Kleurstelling kieze
-    .accesskey = k
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Kleur jo browser mei foar { -brand-short-name } eksklusive tinten, ynspirearre troch stimmen dy’t de kultuer wizige hawwe.
-colorways-cfr-header-28days = Independent Voices-kleurstellingen ferrinne op 16 jannewaris
-colorways-cfr-header-14days = Independent Voices-kleurstellingen ferrinne oer twa wiken
-colorways-cfr-header-7days = Independent Voices-kleurstellingen ferrinne dizze wike
-colorways-cfr-header-today = Independent Voices-kleurstellingen ferrinne hjoed
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = { -brand-short-name } tastean om cookiebanners te wegerjen?
-cfr-cbh-body = { -brand-short-name } kin in protte cookiebannerfersiken automatysk wegerje.
-cfr-cbh-confirm-button = Cookiebanners wegerje
-    .accesskey = w
-cfr-cbh-dismiss-button = No net
-    .accesskey = N
 cookie-banner-blocker-onboarding-header = { -brand-short-name } hat krekt in cookiebanner foar jo wegere
 cookie-banner-blocker-onboarding-body = Minder ôfliedingen, minder cookies dy’t jo folgje op dizze website.
 cookie-banner-blocker-onboarding-learn-more = Mear ynfo

@@ -23,13 +23,11 @@ neterror-override-exception-button = Nõustu riskiga ja jätka
 neterror-pref-reset-button = Taasta vaikesätted
 neterror-return-to-previous-page-button = Mine tagasi
 neterror-return-to-previous-page-recommended-button = Mine tagasi (soovitatav)
-neterror-try-again-button = Proovi uuesti
 neterror-view-certificate-link = Vaata sertifikaati
 
 ##
 
 neterror-pref-reset = Paistab, et seda probleemi võivad põhjustada sinu võrguturvalisuse sätted. Kas soovid taastada vaikesätted?
-neterror-error-reporting-automatic = Raporteeri taolistest vigadest, et { -vendor-short-name } saaks tuvastada ja blokkida ohtlikud veebilehed
 
 ## Specific error messages
 
@@ -46,8 +44,6 @@ neterror-file-not-found-moved = Kontrolli, kas faili pole mujale liigutatud, üm
 neterror-access-denied = Fail võib olla kustutatud, mujale liigutatud või on sellele seatud ligipääsu piiravad õigused.
 neterror-unknown-protocol = Selle aadressi avamiseks peaksid võib-olla paigaldama lisatarkvara.
 neterror-redirect-loop = Probleemi võib mõnikord põhjustada küpsistest keeldumine või nende üldine keelamine.
-neterror-unknown-socket-type-psm-installed = Kontrolli, et sinu süsteemi on paigaldatud personaalne turvalisuse haldur.
-neterror-unknown-socket-type-server-config = See võib olla põhjustatud ebastandardsest serveri konfiguratsioonist.
 neterror-not-cached-intro = Nõutud dokument pole { -brand-short-name }i vahemälus saadaval.
 neterror-not-cached-sensitive = Turvalisuse huvides ei päri { -brand-short-name } automaatselt tundlikke dokumente uuesti.
 neterror-not-cached-try-again = Klõpsa Proovi uuesti, et hankida dokumendi sisu veebilehelt uuesti.

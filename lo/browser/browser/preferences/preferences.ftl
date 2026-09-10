@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = ສົ່ງສັນຍານ “ບໍ່ຕິດຕາມ” ໃຫ້ກັບເວັບໄຊທ໌ວ່າທ່ານບໍ່ຕ້ອງການຖືກຕິດຕາມ
-do-not-track-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
-do-not-track-option-default-content-blocking-known =
-    .label = ເມື່ອ { -brand-short-name } ຖືກຕັ້ງໃຫ້ບລັອກຕົວຕິດຕາມທີ່ຮູ້ຈັກເທົ່ານັ້ນ
-do-not-track-option-always =
-    .label = ຕະຫຼອດເວລາ
 settings-page-title = ການຕັ້ງຄ່າ
 category-nav-heading =
     .heading = ການຕັ້ງຄ່າ
@@ -17,37 +11,16 @@ managed-notice-nav =
 category-list =
     .aria-label = ໝວດໝູ່
 pane-general-title = ທົ່ວໄປ
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = ຫນ້າທຳອິດ
 pane-search-title2 = ຊອກຫາ
     .title = ຊອກຫາ
 pane-privacy-title3 = ຄວາມເປັນສ່ວນຕົວ & ຄວາມປອດໄພ
     .title = ຄວາມເປັນສ່ວນຕົວ & ຄວາມປອດໄພ
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = ຊອກຫາ
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = ຄວາມເປັນສ່ວນຕົວ & ຄວາມປອດໄພ
-pane-privacy-title = ຄວາມເປັນສ່ວນຕົວ & ຄວາມປອດໄພ
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Sync
-category-sync3 =
-    .tooltiptext = { pane-sync-title3 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-pane-experimental-title = { -brand-short-name } ການທົດລອງ
-category-experimental =
-    .tooltiptext = { -brand-short-name } ການທົດລອງ
-pane-experimental-subtitle = ດໍາເນີນການດ້ວຍຄວາມລະມັດລະວັງ
-pane-experimental-search-results-header = { -brand-short-name } ການທົດລອງ: ດໍາເນີນການດ້ວຍຄວາມລະມັດລະວັງ
-pane-experimental-description2 = ການປ່ຽນການຕັ້ງຄ່າຂັ້ນສູງສາມາດສົ່ງຜົນກະທົບຕໍ່ປະສິດທິພາບ ຫຼື ຄວາມປອດໄພຂອງ { -brand-short-name }.
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = ກູ້ຄືນສູ່ຄ່າເລີ່ມຕົ້ນ
     .accesskey = R
@@ -55,8 +28,6 @@ help-button-label2 = ການສະຫນັບສະຫນູນ { -brand-shor
     .title = ການສະຫນັບສະຫນູນ { -brand-short-name }
 addons-button-label2 = ສ່ວນເສີມ ແລະ ຊຸກຕົກແຕ່ງ
     .title = ສ່ວນເສີມ ແລະ ຊຸກຕົກແຕ່ງ
-help-button-label = ການສະຫນັບສະຫນູນ { -brand-short-name }
-addons-button-label = ສ່ວນເສີມ ແລະ ຊຸກຕົກແຕ່ງ
 focus-search =
     .key = f
 close-button =
@@ -114,48 +85,20 @@ search-results-help-link = ຕ້ອງ​ການ​ຄວາມ​ຊ່ວ�
 
 ## General Section
 
-startup-header = ເລີ່ມເຮັດວຽກ
 always-check-default =
     .label = ກວດສອບທຸກຄັ້ງວ່າ { -brand-short-name } ແມ່ນບຣາວເຊີເລີ່ມຕົ້ນຂອງທ່ານຫລືບໍ່
     .accesskey = ກ
-is-default = { -brand-short-name } ແມ່ນບຣາວເຊີເລີ່ມຕົ້ນຂອງທ່ານໃນຂະນະນີ້
-is-not-default = { -brand-short-name } ບໍ່ແມ່ນບຣາວເຊີເລີ່ມຕົ້ນຂອງທ່ານ
-set-as-my-default-browser =
-    .label = ເຮັດໃຫ້ເປັນຄ່າເລີ່ມຕົ້ນ…
-    .accesskey = ຄ
-startup-restore-warn-on-quit =
-    .label = ເຕືອນທ່ານໃນເວລາອອກຈາກຕົວທ່ອງເວັບ
 disable-extension =
     .label = ປິດໃຊ້ສ່ວນຂະຫຍາຍ
-preferences-data-migration-header = ນໍາເຂົ້າຂໍ້ມູນຕົວທ່ອງເວັບ
-preferences-data-migration-description = ນຳເຂົ້າບຸກມາກ, ລະຫັດຜ່ານ, ປະຫວັດ, ແລະການຕື່ມຂໍ້ມູນອັດຕະໂນມັດເຂົ້າໄປໃນ { -brand-short-name }.
 preferences-data-migration-button =
     .label = ການ​ນໍາ​ເຂົ້າ​ຂໍ້​ມູນ​
     .accesskey = m
 tabs-group-header2 =
     .label = ແທັບ
-tabs-group-header = ແທັບ
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab ໝູນວຽນຜ່ານແຖບຕາມລຳດັບທີ່ໃຊ້ເມື່ອບໍ່ດົນມານີ້
     .accesskey = T
-confirm-on-close-multiple-tabs =
-    .label = ຢືນຢັນກ່ອນທີ່ຈະປິດຫຼາຍແຖບ
-    .accesskey = m
-# This string is used for the confirm before quitting preference.
-# Variables:
-#   $quitKey (string) - the quit keyboard shortcut, and formatted
-#                       in the same manner as it would appear,
-#                       for example, in the File menu.
-confirm-on-quit-with-key =
-    .label = ຢືນຢັນກ່ອນທີ່ຈະເຊົາກັບ { $quitKey }
-    .accesskey = b
-browser-containers-enabled =
-    .label = ເປີດໃຊ້ງານແທັບແຍກຂໍ້ມູນ
-    .accesskey = n
 browser-containers-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
-browser-containers-settings =
-    .label = ການຕັ້ງຄ່າ…
-    .accesskey = ຕ
 containers-disable-alert-title = ປິດແຖບບັນຈຸທັງໝົດບໍ?
 startup-group =
     .label = ເລີ່ມເຮັດວຽກ
@@ -179,61 +122,24 @@ containers-remove-cancel-button = ຢ່າເອົາ Container ນີ້ອ�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = ພາສາແລະລັກສະນະທີ່ປະກົດ
-preferences-web-appearance-header = ຮູບລັກສະນະຂອງເວັບໄຊທ໌
-preferences-web-appearance-description = ບາງເວັບໄຊທ໌ປັບປ່ຽນສີຂອງເຂົາເຈົ້າໂດຍອີງໃສ່ຄວາມມັກຂອງທ່ານ. ເລືອກຮູບແບບສີທີ່ທ່ານຕ້ອງການໃຊ້ສໍາລັບເວັບໄຊທ໌ເຫຼົ່ານັ້ນ.
 preferences-web-appearance-choice-light2 =
     .label = ແຈ້ງ
     .title = ໃຊ້ລັກສະນະແສງສະຫວ່າງສໍາລັບພື້ນຫລັງເວັບໄຊທ໌ແລະເນື້ອຫາ.
 preferences-web-appearance-choice-dark2 =
     .label = ມືດ
     .title = ໃຊ້ຮູບລັກສະນະທີ່ມືດມົວສໍາລັບພື້ນຫລັງເວັບໄຊທ໌ແລະເນື້ອຫາ.
-preferences-web-appearance-choice-auto = ອັດຕະໂນມັດ
-preferences-web-appearance-choice-light = ແຈ້ງ
-preferences-web-appearance-choice-dark = ມືດ
-preferences-web-appearance-choice-tooltip-auto =
-    .title = ປ່ຽນພື້ນຫຼັງເວັບໄຊທ໌ ແລະເນື້ອຫາໂດຍອັດຕະໂນມັດຕາມການຕັ້ງຄ່າລະບົບ ແລະຫົວຂໍ້ { -brand-short-name } ຂອງເຈົ້າ.
-preferences-web-appearance-choice-tooltip-light =
-    .title = ໃຊ້ລັກສະນະແສງສະຫວ່າງສໍາລັບພື້ນຫລັງເວັບໄຊທ໌ແລະເນື້ອຫາ.
-preferences-web-appearance-choice-tooltip-dark =
-    .title = ໃຊ້ຮູບລັກສະນະທີ່ມືດມົວສໍາລັບພື້ນຫລັງເວັບໄຊທ໌ແລະເນື້ອຫາ.
-preferences-web-appearance-choice-input-auto =
-    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
-preferences-web-appearance-choice-input-light =
-    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
-preferences-web-appearance-choice-input-dark =
-    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 preferences-web-appearance-link =
     .label = ຈັດການຮູບແບບສີສັນ { -brand-short-name } ໃນ ສ່ວນຂະຫຍາຍ ແລະຮູບແບບສີສັນ
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning = ການເລືອກສີຂອງທ່ານແມ່ນ overriding ຮູບລັກສະນະເວັບໄຊທ໌. <a data-l10n-name="colors-link">ຈັດການສີ</a>
-# This message contains one link. It can be moved within the sentence as needed
-# to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = ຈັດການຮູບແບບສີສັນ { -brand-short-name } ໃນ <a data-l10n-name="themes-link">ສ່ວນຂະຫຍາຍ ແລະຮູບແບບສີສັນ</a>
 preferences-colors-manage-button2 =
     .label = ຈັດການສີ
     .accesskey = C
-preferences-colors-header = ສີ
-preferences-colors-description = ລົບລ້າງສີເລີ່ມຕົ້ນຂອງ { -brand-short-name } ສໍາລັບຂໍ້ຄວາມ, ພື້ນຫຼັງເວັບໄຊທ໌ ແລະລິ້ງ.
 preferences-colors-manage-button =
     .label = ຈັດການສີ...
     .accesskey = C
 preferences-fonts-header2 =
     .label = ຟັອນ
-preferences-fonts-header = ຟັອນ
-default-font = ແບບອັກສອນເລີ່ມຕົ້ນ
-    .accesskey = ລ
-default-font-size = ຂະຫນາດ
-    .accesskey = ຂ
-advanced-fonts =
-    .label = ຂັ້ນສູງ...
-    .accesskey = ຂ
 preferences-default-zoom-label =
     .label = ຊູມເລີ່ມຕົ້ນ
-    .accesskey = z
-# Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = ຂະຫຍາຍ
-preferences-default-zoom = ຊູມເລີ່ມຕົ້ນ
     .accesskey = z
 # Variables:
 #   $percentage (number) - Zoom percentage value
@@ -255,13 +161,7 @@ confirm-browser-language-change-description = ຣີສະຕາດ { -brand-sho
 confirm-browser-language-change-button = ນຳໃຊ້ ແລະ ເລີ່ມເຮັດວຽກໃໝ່
 browser-language-install-error =
     .message = { -brand-short-name } ບໍ່ສາມາດອັບເດດພາສາຂອງທ່ານໄດ້ໃນຕອນນີ້. ກວດເບິ່ງວ່າທ່ານເຊື່ອມຕໍ່ອິນເຕີເນັດ ຫຼື ລອງອີກຄັ້ງ.
-translate-web-pages =
-    .label = ແປເນື້ອຫາເວັບ
-    .accesskey = T
 fx-translate-web-pages = { -translations-brand-name }
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = ການແປໂດຍ <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = ຍົກເວັ້ນ...
     .accesskey = x
@@ -277,23 +177,6 @@ download-save-files-header =
     .label = ບັນທຶກເອກະສານໃສ່
 download-save-where-3 =
     .aria-label = ບັນທຶກເອກະສານໃສ່
-download-header = ດາວໂຫລດ
-download-save-where = ບັນທຶກເອກະສານໃສ່
-    .accesskey = v
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] ເລືອກ...
-           *[other] ຊອກຫາ...
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] o
-        }
-download-always-ask-where =
-    .label = ຖາມທ່ານທຸກຄັ້ງວ່າຈະບັນທຶກຂໍ້ມູນໄວ້ໃສ
-    .accesskey = ທ
 applications-header = ແອັບພລິເຄຊັນ
 applications-description = ເລືອກວິທີທີ່ { -brand-short-name } ຈັດການກັບໄຟລ໌ທີ່ທ່ານດາວໂຫຼດຈາກເວັບ ຫຼືແອັບພລິເຄຊັນທີ່ທ່ານໃຊ້ໃນຂະນະທີ່ຊອກຫາ.
 applications-filter =
@@ -334,10 +217,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = ໃຊ້ { $plugin-name } ( ໃນ { -brand-short-name } )
 applications-open-inapp =
     .label = ເປີດໃນ { -brand-short-name }
 
@@ -345,8 +224,6 @@ applications-open-inapp =
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -373,44 +250,21 @@ applications-ask-before-handling =
     .accesskey = A
 drm-group =
     .label = ເນື້ອຫາການຄຸ້ມຄອງສິດທິດິຈິຕອນ (DRM).
-drm-content-header = ເນື້ອຫາການຄຸ້ມຄອງສິດທິດິຈິຕອນ (DRM).
 play-drm-content =
     .label = ຫຼິ້ນເນື້ອຫາທີ່ຄວບຄຸມໂດຍ DRM
     .accesskey = P
 play-drm-content-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
-update-application-title = ອັບເດດ { -brand-short-name }
-update-application-description = ຮັກສາ { -brand-short-name } ໃໝ່ຫຼ້າສຸດເພື່ອປະສິດທິພາບ, ຄວາມໝັ້ນຄົງ ແລະຄວາມປອດໄພທີ່ດີທີ່ສຸດ.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = ລຸ້ນ { $version } <a data-l10n-name="learn-more">ມີຫຍັງໃໝ່</a>
 update-history-2 =
     .label = ສະແດງປະຫວັດການອັບເດດ
     .accesskey = ອ
-update-history =
-    .label = ສະແດງປະຫວັດການອັບເດດ…
-    .accesskey = ອ
-update-application-allow-description = ອະນຸຍາດໃຫ້ { -brand-short-name }
-update-application-auto =
-    .label = ຕິດຕັ້ງອັບເດດອັດຕະໂນມັດ (ແນະນຳ)
-    .accesskey = A
-update-application-check-choose =
-    .label = ກວດຫາການອັບເດດແຕ່ໃຫ້ທ່ານເລືອກວ່າຈະຕິດຕັ້ງພາຍຫລັງບໍ່
-    .accesskey = C
-update-application-manual =
-    .label = ບໍ່ຕ້ອງກວດຫາການອັບເດດ (ບໍ່ແນະນຳ)
-    .accesskey = N
 update-application-background-enabled =
     .label = ເມື່ອ { -brand-short-name } ບໍ່ເຮັດວຽກ
     .accesskey = W
 update-application-warning-cross-user-setting-2 =
     .message = ການຕັ້ງຄ່ານີ້ຈະນຳໃຊ້ກັບທຸກບັນຊີ Windows ແລະໂປຣໄຟລ໌ { -brand-short-name } ໂດຍໃຊ້ການຕິດຕັ້ງນີ້ຂອງ { -brand-short-name }.
-update-application-warning-cross-user-setting = ການຕັ້ງຄ່ານີ້ຈະນຳໃຊ້ກັບທຸກບັນຊີ Windows ແລະໂປຣໄຟລ໌ { -brand-short-name } ໂດຍໃຊ້ການຕິດຕັ້ງນີ້ຂອງ { -brand-short-name }.
-update-application-use-service =
-    .label = ໃຊ້ບໍລິການພື້ນຫລັງໃນການຕິດຕັ້ງການອັບເດດ
-    .accesskey = b
-update-application-suppress-prompts =
-    .label = ສະແດງການແຈ້ງເຕືອນການອັບເດດໜ້ອຍລົງ
-    .accesskey = n
 update-setting-write-failure-title2 = ເກີດຄວາມຜິດພາດໃນການບັນທຶກການຕັ້ງຄ່າການອັບເດດ
 # Variables:
 #   $path (string) - Path to the configuration file
@@ -429,11 +283,6 @@ update-in-progress-cancel-button = &ສືບຕໍ່
 
 ## General Section - Performance
 
-performance-title = ປະສິດທິພາບ
-performance-use-recommended-settings-checkbox =
-    .label = ໃຊ້ການຕັ້ງຄ່າປະສິດທິພາບທີ່ແນະນໍາ
-    .accesskey = U
-performance-use-recommended-settings-desc = ການ​ຕັ້ງ​ຄ່າ​ເຫຼົ່າ​ນີ້​ແມ່ນ​ເຫມາະ​ສົມ​ກັບ​ຮາດ​ແວ​ຄອມ​ພິວ​ເຕີ​ແລະ​ລະ​ບົບ​ປະ​ຕິ​ບັດ​ການ​ຂອງ​ທ່ານ​.
 performance-settings-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 performance-allow-hw-accel =
     .label = ໃຊ້ການເລັ່ງຮາດແວເມື່ອມີໃຫ້
@@ -451,7 +300,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = ການທ່ອງເວັບ
 browsing-use-autoscroll =
     .label = ນຳໃຊ້ການເລື່ອນແບບອັດຕະໂນມັດ
     .accesskey = a
@@ -470,29 +318,14 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = ຊອກຫາຂໍ້ຄວາມເມື່ອທ່ານເລີ່ມພິມ
     .accesskey = x
-browsing-picture-in-picture-toggle-enabled =
-    .label = ເປີດໃຊ້ການຄວບຄຸມວິດີໂອໃນຮູບພາບ
-    .accesskey = E
-browsing-picture-in-picture-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 browsing-media-control =
     .label = ຄວບຄຸມສື່ຜ່ານແປ້ນພິມ, ຊຸດຫູຟັງ ຫຼື ອິນເຕີເຟດສະເໝືອນ
     .accesskey = v
-browsing-media-control-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 browsing-cfr-recommendations =
     .label = ແນະນຳການຂະຫຍາຍໃນຂະນະທີ່ທ່ານທ່ອງເວັບ
     .accesskey = R
-browsing-cfr-recommendations-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 browsing-group =
     .label = ການທ່ອງເວັບ
-
-## General Section - Proxy
-
-network-settings-title = ຕັ້ງຄ່າເຄື່ອຂ່າຍ
-network-proxy-connection-description = ຕັ້ງຄ່າວິທີທີ່ { -brand-short-name } ເຊື່ອມຕໍ່ກັບອິນເຕີເນັດ.
-network-proxy-connection-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
-network-proxy-connection-settings =
-    .label = ການຕັ້ງຄ່າ…
-    .accesskey = ຕ
 
 ## Home Section
 
@@ -548,35 +381,21 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = ເວັບໄຊທທີ່ທ່ານໄດ້ບັນທຶກໄວ້ ຫລື ເຂົ້າໄປເບິງມາ
 home-prefs-shortcuts-by-option-sponsored =
     .label = ທາງລັດສະປອນເຊີ
-home-prefs-recommended-by-header =
-    .label = ແນະນຳໂດຍ { $provider }
-home-prefs-recommended-by-description-new = ເນື້ອຫາພິເສດທີ່ຄັດສັນໂດຍ { $provider }, ສ່ວນໜຶ່ງຂອງຄອບຄົວ { -brand-product-name }
 
 ##
 
 home-prefs-recommended-by-learn-more = ມັນເຮັດວຽກແນວໃດ
 home-prefs-recommended-by-option-sponsored-stories =
     .label = ເລື່ອງລາວທີ່ໄດ້ຮັບການສະຫນັບສະຫນູນ
-home-prefs-recommended-by-option-recent-saves =
-    .label = ສະແດງບັນທຶກຫຼ້າສຸດ
 home-prefs-highlights-option-visited-pages =
     .label = ຫນ້າທີ່ເຂົ້າໄປເບິ່ງແລ້ວ
 home-prefs-highlights-options-bookmarks =
     .label = ບຸກມາກ
 home-prefs-highlights-option-most-recent-download =
     .label = ການດາວໂຫລດລ່າສຸດ
-home-prefs-highlights-option-saved-to-pocket =
-    .label = ຫນ້າທີ່ບັນທຶກໄວ້ໃນ { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = ກິດ​ຈະ​ກໍາ​ທີ່​ຜ່ານ​ມາ
 home-prefs-recent-activity-description = ການເລືອກເວັບໄຊ ແລະເນື້ອຫາຫຼ້າສຸດ
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = ສ່ວນຍ່ອຍ
-home-prefs-snippets-description-new = ເຄັດລັບ ແລະຂ່າວຈາກ { -vendor-short-name } ແລະ { -brand-product-name }
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -584,43 +403,11 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = ແທັບຊອກຫາ
-search-bar-hidden =
-    .label = ນໍາໃຊ້ແທັບທີ່ຢູ່ເພື່ອຊອກຫາ ແລະ ນໍາທາງ
-search-bar-shown =
-    .label = ເພີ່ມແທັບຊອກຫາໃນແທັບເຄື່ອງມື
-search-engine-default-header = ເຄື່ອງມືການຊອກຫາເລີ່ມຕົ້ນ
-search-engine-default-desc-2 = ນີ້ແມ່ນເຄື່ອງມືຄົ້ນຫາເລີ່ມຕົ້ນຂອງທ່ານໃນແຖບທີ່ຢູ່ແລະແຖບຄົ້ນຫາ. ທ່ານສາມາດປ່ຽນມັນໄດ້ທຸກເວລາ.
-search-engine-default-private-desc-2 = ເລືອກເຄື່ອງຈັກຊອກຫາມາດຕະຖານທີ່ແຕກຕ່າງກັນສໍາລັບ Windows ສ່ວນຕົວເທົ່ານັ້ນ
-search-separate-default-engine =
-    .label = ໃຊ້ເຄື່ອງຈັກຊອກຫານີ້ຢູ່ໃນ Windows ສ່ວນຕົວ
-    .accesskey = U
-search-suggestions-header = ຄົ້ນຫາຄໍາແນະນໍາ
-search-suggestions-desc = ເລືອກວິທີທີ່ຄໍາແນະນໍາຈາກເຄື່ອງຈັກຊອກຫາປາກົດ.
-search-suggestions-option =
-    .label = ໃຫ້ຄໍາແນະນໍາໃນການຊອກຫາ
-    .accesskey = S
 search-show-suggestions-url-bar-option =
     .label = ສະແດງຜົນການຊອກຫາໃນແທັບທີ່ຢູ່
     .accesskey = l
 search-suggestions-cant-show-2 =
     .message = ການແນະນຳການຊອກຫາຈະບໍ່ຖືກສະແດງຢູ່ໃນຜົນການຊອກຫາແຖບສະຖານທີ່ ເພາະວ່າທ່ານໄດ້ກຳນົດຄ່າ { -brand-short-name } ບໍ່ໃຫ້ຈື່ປະຫວັດ.
-# With this option enabled, on the search results page
-# the URL will be replaced by the search terms in the address bar
-# when using the current default search engine.
-search-show-search-term-option =
-    .label = ສະແດງຄໍາຄົ້ນຫາແທນທີ່ຈະເປັນ URL ໃນຫນ້າຜົນການຄົ້ນຫາຂອງເຄື່ອງຈັກຊອກຫາມາດຕະຖານ
-# This string describes what the user will observe when the system
-# prioritizes search suggestions over browsing history in the results
-# that extend down from the address bar. In the original English string,
-# "ahead" refers to location (appearing most proximate to), not time
-# (appearing before).
-search-show-suggestions-above-history-option =
-    .label = ສະ​ແດງ​ໃຫ້​ເຫັນ​ຄໍາ​ແນະ​ນໍາ​ການ​ຄົ້ນ​ຫາ​ກ່ອນ​ຫນ້າ​ຂອງ​ປະ​ຫວັດ​ສາດ​ການ​ຊອກ​ຫາ​ໃນ​ຜົນ​ໄດ້​ຮັບ​ແຖບ​ທີ່​ຢູ່​
-search-show-suggestions-private-windows =
-    .label = ສະແດງຄຳແນະນຳການຊອກຫາໃນ Windows ສ່ວນຕົວ
-suggestions-addressbar-settings-generic2 = ປ່ຽນການຕັ້ງຄ່າສຳລັບການແນະນຳແຖບທີ່ຢູ່ອື່ນ
-search-suggestions-cant-show = ການແນະນຳການຊອກຫາຈະບໍ່ຖືກສະແດງຢູ່ໃນຜົນການຊອກຫາແຖບສະຖານທີ່ ເພາະວ່າທ່ານໄດ້ກຳນົດຄ່າ { -brand-short-name } ບໍ່ໃຫ້ຈື່ປະຫວັດ.
 search-one-click-header2 = ຄົ້ນຫາທາງລັດ
 search-one-click-desc = ເລືອກເຄື່ອງຈັກຊອກຫາທາງເລືອກທີ່ປາກົດຢູ່ລຸ່ມແຖບທີ່ຢູ່ແລະແຖບຄົ້ນຫາເມື່ອທ່ານເລີ່ມໃສ່ຄໍາສໍາຄັນ.
 search-choose-engine-column =
@@ -649,22 +436,6 @@ search-engine-group =
 search-default-engine =
     .aria-label = ເຄື່ອງມືການຊອກຫາເລີ່ມຕົ້ນ
 
-## Containers Section
-
-containers-back-button2 =
-    .aria-label = ກັບໄປທີ່ການຕັ້ງຄ່າ
-containers-header = ແທັບແຍກຂໍ້ມູນ
-containers-add-button =
-    .label = ເພີ່ມການແຍກຂໍ້ມູນໃຫມ່
-    .accesskey = A
-containers-new-tab-check =
-    .label = ເລືອກກ່ອງບັນຈຸສໍາລັບແຕ່ລະແຖບໃຫມ່
-    .accesskey = S
-containers-settings-button =
-    .label = ການຕັ້ງຄ່າ
-containers-remove-button =
-    .label = ລຶບ
-
 ## Account and sync
 
 sync-group-label =
@@ -690,8 +461,6 @@ sync-mobile-promo = ດາວໂຫລດ Firefox ສຳລັບ <img data-l10n
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = ປ່ຽນຮູບປະຈຳຕົວ
 sync-profile-picture-with-alt =
     .alt = ປ່ຽນຮູບປະຈຳຕົວ
     .tooltiptext = ປ່ຽນຮູບປະຈຳຕົວ
@@ -716,9 +485,6 @@ sync-signedin-login-failure = ກະລຸນາລົງຊື່ເຂົ້�
 
 ##
 
-sync-resend-verification =
-    .label = ສົ່ງການກວດສອບໃຫມ່
-    .accesskey = d
 sync-remove-account =
     .label = ລຶບບັນຊີ
     .accesskey = R
@@ -755,18 +521,12 @@ sync-syncing-across-devices-heading = ທ່ານກຳລັງຊິ້ງຂ
 sync-currently-syncing-bookmarks = ບຸກມາກ
 sync-currently-syncing-history = ປະຫວັດການໃຊ້ງານ
 sync-currently-syncing-tabs = ເປີດແທັບ
-sync-currently-syncing-logins-passwords = ລັອກອິນ ແລະ ລະຫັດຜ່ານ
 sync-currently-syncing-addresses = ທີ່ຢູ່
-sync-currently-syncing-creditcards = ບັດເຄດິດ
 sync-currently-syncing-addons = Add-ons
 sync-currently-syncing-settings = ການຕັ້ງຄ່າ
-sync-change-options =
-    .label = ປ່ຽນ...
-    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
-sync-choose-dialog-subtitle = ການປ່ຽນແປງລາຍການລາຍການທີ່ຈະຊິງຄ໌ຈະສະແດງໃນທົ່ວທຸກອຸປະກອນທີ່ເຊື່ອມຕໍ່ຂອງທ່ານ.
 sync-engine-bookmarks =
     .label = ບຸກມາກ
     .accesskey = m
@@ -781,10 +541,6 @@ sync-engine-addresses =
     .label = ທີ່ຢູ່
     .tooltiptext = ທີ່ຢູ່ໄປສະນີທີ່ທ່ານບັນທຶກໄວ້ (ສະເພາະເກືອບເທົ່ານັ້ນ)
     .accesskey = e
-sync-engine-creditcards =
-    .label = ບັດເຄດິດ
-    .tooltiptext = ຊື່, ຫມາຍເລກ ແລະວັນຫມົດອາຍຸ (ເດສທອບເທົ່ານັ້ນ)
-    .accesskey = C
 sync-engine-addons =
     .label = ໂປແກມເສີມ
     .tooltiptext = ສ່ວນເສີມແລະຊຸດຕົກແຕ່ງສຳລັບເດສທອບ Firefox
@@ -816,52 +572,20 @@ sync-connect-another-device = ເຊື່ອມຕໍ່ກັບອຸປະ�
 sync-connect-another-device-2 =
     .label = ເຊື່ອມຕໍ່ກັບອຸປະກອນອື່ນ
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = ສົ່ງການກວດສອບແລ້ວ
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = ສົ່ງລິ້ງກວດສອບໄປທີ່ { $email } ແລ້ວ
-sync-verification-not-sent-title = ບໍ່ສາມາດສົ່ງລິ້ງກວດສອບ
-sync-verification-not-sent-body = ພວກເຮົາບໍ່ສາມາດສົ່ງຈົດໝາຍກວດສອບໄດ້ໃນຕອນນີ້, ກະລຸນາລອງອີກເທື່ອໜຶ່ງ
-
 ## Privacy Section
 
 privacy-header = ຄວາມເປັນສ່ວນຕົວຂອງບຣາວເຊີ
-
-## Privacy Section - Logins and Passwords
-
-# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = ເຂົ້າສູ່ລະບົບ ແລະ ລະຫັດຜ່ານ
-    .searchkeywords = { -lockwise-brand-short-name }
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = ຖາມເພື່ອບັນທຶກການເຂົ້າສູ່ລະບົບແລະລະຫັດຜ່ານສຳລັບເວັບໄຊ
-    .accesskey = r
 
 ## Privacy Panel Settings
 
 forms-exceptions =
     .label = ຂໍ້ຍົກເວັ້ນ…
     .accesskey = x
-forms-generate-passwords =
-    .label = ແນະນຳ ແລະ ສ້າງລະຫັດຜ່ານທີ່ເຂັ້ມແຂງ
-    .accesskey = u
 forms-breach-alerts =
     .label = ສະແດງການແຈ້ງເຕືອນກ່ຽວກັບລະຫັດຜ່ານສໍາລັບເວັບໄຊທ໌ທີ່ຖືກລະເມີດ
     .accesskey = b
 forms-breach-alerts-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມ
-preferences-relay-integration-checkbox =
-    .label = ແນະນຳໜ້າກາກອີເມວ { -relay-brand-name } ເພື່ອປົກປ້ອງທີ່ຢູ່ອີເມວຂອງທ່ານ
 relay-integration-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມ
-# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
-forms-fill-logins-and-passwords =
-    .label = ຕື່ມຂໍ້ມູນໃສ່ອັດຕະໂນມັດ ແລະ ລະຫັດຜ່ານ
-    .accesskey = i
-forms-saved-logins =
-    .label = ຂໍ້ມູນການເຂົ້າສູ່ລະບົບທີ່ບັນທຶກໄວ້…
-    .accesskey = L
 forms-primary-pw-use =
     .label = ໃຊ້ລະຫັດຜ່ານຫຼັກ
     .accesskey = U
@@ -899,32 +623,12 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
-history-header = ປະຫວັດ
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } ຈະ
-    .accesskey = w
-history-remember-option-all =
-    .label = ບັນທຶກປະຫວັດການໃຊ້ງານ
-history-remember-option-never =
-    .label = ບໍ່ເຄີຍບັນທຶກປະຫວັດການໃຊ້ງານ
-history-remember-option-custom =
-    .label = ໃຊ້ການຕັ້ງຄ່າຕາມໃຈສຳລັບປະຫວັດການໃຊ້ງານ
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } ຈະບັນທຶກປະຫວັດການທ່ອງເວັບ, ການດາວໂຫລດ, ແບບຟອມ ແລະ ການຊອກຫາຂອງທ່ານ.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } ຈະໃຊ້ການຕັ້ງຄ່າດຽວກັບການທ່ອງເວັບແບບສ່ວນຕົວ ແລະ ຈະບໍ່ເກັບບັນດາເວັບໄຊຕ໌ທີ່ເຄີຍເຂົ້າມາກ່ອນ.
-history-remember-description = { -brand-short-name } ຈະບັນທຶກປະຫວັດການທ່ອງເວັບ, ການດາວໂຫລດ, ແບບຟອມ ແລະ ການຊອກຫາຂອງທ່ານ.
-history-dontremember-description = { -brand-short-name } ຈະໃຊ້ການຕັ້ງຄ່າດຽວກັບການທ່ອງເວັບແບບສ່ວນຕົວ ແລະ ຈະບໍ່ເກັບບັນດາເວັບໄຊຕ໌ທີ່ເຄີຍເຂົ້າມາກ່ອນ.
 history-private-browsing-permanent =
     .label = ນຳໃຊ້ການທ່ອງເວັບແບບສ່ວນຕົວຕະຫລອດເວລາ
     .accesskey = p
@@ -950,63 +654,30 @@ history-mode-radio-group =
 
 ## Privacy Section - Site Data
 
-sitedata-header = ຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊ
 sitedata-total-size-calculating = ກຳລັງຄຳນວນຂໍ້ມູນເວັບໄຊ…
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = ຄຸກກີ້, ຂໍ້ມູນເວັບໄຊ ແລະແຄຊທີ່ຖືກຈັດເກັບໄວ້ຂອງທ່ານໃຊ້ພື້ນທີ່ດິສກ໌ { $value } { $unit }.
 sitedata-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
-sitedata-delete-on-close =
-    .label = ລຶບຄຸກກີ້ ແລະ ຂໍ້ມູນເວັບໄຊເມື່ອ { -brand-short-name } ປິດ
-    .accesskey = c
-sitedata-delete-on-close-private-browsing = ໃນໂໝດການທ່ອງເວັບແບບສ່ວນຕົວແບບຖາວອນ, ຄຸກກີ້ ແລະຂໍ້ມູນເວັບໄຊຈະຖືກລຶບລ້າງສະເໝີເມື່ອ { -brand-short-name } ປິດ.
-sitedata-allow-cookies-option =
-    .label = ຍອມຮັບ cookies ແລະ ຂໍ້ມູນເວັບໄຊທ໌
-    .accesskey = A
-# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
-# The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = ປະເພດທີ່ຖືກປິດກັ້ນ
-    .accesskey = ປ
 sitedata-option-block-cross-site-trackers =
     .label = ຕົວຕິດຕາມຂ້າມເວັບໄຊ
 sitedata-option-block-cross-site-tracking-cookies =
     .label = ຄຸກກີການຕິດຕາມຂ້າມເວັບໄຊ
-sitedata-option-block-cross-site-cookies =
-    .label = ຄຸກກີການຕິດຕາມຂ້າມເວັບໄຊ, ແລະແຍກຄຸກກີຂ້າມເວັບໄຊອື່ນ
 sitedata-option-block-unvisited =
     .label = Cookies ຈາກເວັບໄຊທ໌ທີ່ບໍ່ໄດ້ເຂົ້າຊົມ
 sitedata-option-block-all-cross-site-cookies =
     .label = ຄຸກກີຂ້າມເວັບໄຊທັງໝົດ (ອາດເຮັດໃຫ້ເວັບໄຊທ໌ແຕກ)
 sitedata-option-block-all =
     .label = ຄຸກກີ້ທັງຫມົດ (ຈະສົ່ງຜົນໃຫ້ເວັບໄຊທບໍ່ສົມບູນ)
-sitedata-clear =
-    .label = ລ້າງຂໍ້ມູນ…
-    .accesskey = l
-sitedata-settings =
-    .label = ຈັດການຂໍ້ມູນ…
-    .accesskey = M
 sitedata-cookies-exceptions =
     .label = ຈັດການຂໍ້ຍົກເວັ້ນ...
     .accesskey = x
 cookies-site-data-group =
     .label = ຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊ
 
-## Privacy Section - Cookie Banner Handling
-
-cookie-banner-handling-header = ການຫຼຸດປ້າຍໂຄສະນາຄຸກກີ
-cookie-banner-handling-description = { -brand-short-name } ອັດຕະໂນມັດພະຍາຍາມປະຕິເສດການຮ້ອງຂໍຄຸກກີໃນປ້າຍໂຄສະນາຄຸກກີຢູ່ໃນເວັບໄຊທີ່ຮອງຮັບ.
-
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
-forms-handle-cookie-banners =
-    .label = ຫຼຸດປ້າຍໂຄສະນາຄຸກກີ
 
 ## Search Section
 
-addressbar-header = ແຖບທີ່ຢູ່
-addressbar-suggest = ເມື່ອໃຊ້ແຖບທີ່ຢູ່, ແນະນຳ
 addressbar-locbar-history-option =
     .label = ປະຫວັດການທ່ອງເວັບ
     .accesskey = ປ
@@ -1023,14 +694,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = ເວັບໄຊທ໌ຍອດນິຍົມ
     .accesskey = T
-addressbar-locbar-engines-option =
-    .label = ເຄື່ອງ​ມື​ຄົ້ນ​ຫາ
-    .accesskey = a
 addressbar-locbar-quickactions-option =
     .label = ຄຳສັ່ງດ່ວນ
     .accesskey = Q
-addressbar-suggestions-settings = ປ່ຽນການຕັ້ງຄ່າສຳລັບຄຳແນະນຳເຄື່ອງມືການຊອກຫາ
-addressbar-quickactions-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 
 ## Privacy Section - Content Blocking
 
@@ -1063,7 +729,6 @@ content-blocking-private-windows = ການຕິດຕາມເນື້ອຫ
 content-blocking-cross-site-cookies-in-all-windows2 = ຄຸກກີຂ້າມເວັບໄຊໃນທຸກປ່ອງຢ້ຽມ
 content-blocking-cross-site-tracking-cookies = ຄຸກກີການຕິດຕາມຂ້າມເວັບໄຊ
 content-blocking-all-cross-site-cookies-private-windows = ຄຸກກີຂ້າມເວັບໄຊໃນ Windows ສ່ວນຕົວ
-content-blocking-cross-site-tracking-cookies-plus-isolate = ຄຸກກີການຕິດຕາມຂ້າມເວັບໄຊ, ແລະແຍກຄຸກກີ້ທີ່ເຫຼືອ
 content-blocking-social-media-trackers = ບົບຕິດຕາມລຸດສື່ມວນຊົນສັງຄົມ
 content-blocking-all-cookies = ຄຸກກີທັງໝົດ
 content-blocking-unvisited-cookies = ຄຸກກີ້ຈາກເວັບໄຊທທີ່ບໍ່ເຄີຍເຂົ້າໄປ
@@ -1075,8 +740,6 @@ content-blocking-fingerprinters = ລາຍນິ້ວມື
 content-blocking-etp-standard-tcp-rollout-description = ການປົກປ້ອງຄຸກກີທັງໝົດມີຄຸກກີ້ໄປຫາເວັບໄຊທີ່ເຈົ້າຢູ່ໃນ, ດັ່ງນັ້ນຜູ້ຕິດຕາມບໍ່ສາມາດໃຊ້ພວກມັນເພື່ອຕິດຕາມເຈົ້າລະຫວ່າງເວັບໄຊໄດ້.
 content-blocking-etp-standard-tcp-rollout-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 content-blocking-etp-standard-tcp-title = ລວມ​ທັງ​ການ​ປົກ​ປັກ​ຮັກ​ສາ Cookie ທັງ​ຫມົດ, ຄຸນ​ນະ​ສົມ​ບັດ​ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ​ທີ່​ມີ​ອໍາ​ນາດ​ທີ່​ສຸດ​ຂອງ​ພວກ​ເຮົາ​ທີ່​ເຄີຍ​ມີ
-content-blocking-warning-title = ລະວັງ!
-content-blocking-and-isolating-etp-warning-description-2 = ການຕັ້ງຄ່ານີ້ອາດຈະເຮັດໃຫ້ບາງເວັບໄຊທ໌ບໍ່ສະແດງເນື້ອຫາ ຫຼືເຮັດວຽກຢ່າງຖືກຕ້ອງ. ຖ້າເວັບໄຊທ໌ເບິ່ງຄືວ່າແຕກ, ທ່ານອາດຈະຕ້ອງການປິດການປ້ອງກັນການຕິດຕາມສໍາລັບເວັບໄຊທ໌ນັ້ນເພື່ອໂຫລດເນື້ອຫາທັງຫມົດ.
 content-blocking-warning-learn-how = ຮຽນຮູ້ວິທີການ
 content-blocking-reload-description = ທ່ານຈະຕ້ອງໂຫຼດແຖບຂອງທ່ານຄືນໃໝ່ເພື່ອນຳໃຊ້ການປ່ຽນແປງເຫຼົ່ານີ້.
 content-blocking-reload-tabs-button =
@@ -1091,7 +754,6 @@ content-blocking-tracking-protection-option-all-windows =
 content-blocking-option-private =
     .label = ໃນ Windows ສ່ວນຕົວເທົ່ານັ້ນ
     .accesskey = p
-content-blocking-tracking-protection-change-block-list = ປ່ຽນລາຍການທີ່ຖືກລະງັບ
 content-blocking-cookies-label =
     .label = ຄຸກກີ້
     .accesskey = C
@@ -1101,11 +763,6 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = ຕົວຂຸດຫລຽນດິຈິຕໍລ
     .accesskey = y
-# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
-# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
-content-blocking-fingerprinters-label =
-    .label = ລາຍນິ້ວມື
-    .accesskey = F
 
 ## Privacy Section - Tracking
 
@@ -1115,51 +772,11 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = ການອະນຸຍາດ
-permissions-location = ຕຳແຫນ່ງທີ່ຕັ້ງ
-permissions-location-settings =
-    .label = ການຕັ້ງຄ່າ…
-    .accesskey = t
-permissions-xr = ມຸມມອງສະເໝືອນຈິງ
-permissions-xr-settings =
-    .label = ການຕັ້ງຄ່າ…
-    .accesskey = t
-permissions-camera = ກ້ອງຖ່າຍຮູບ
-permissions-camera-settings =
-    .label = ການຕັ້ງຄ່າ…
-    .accesskey = t
-permissions-microphone = ໄມໂຄຣໂຟນ
-permissions-microphone-settings =
-    .label = ການຕັ້ງຄ່າ…
-    .accesskey = t
-# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
-permissions-speaker = ການເລືອກລຳໂພງ
-permissions-speaker-settings =
-    .label = ການຕັ້ງຄ່າ…
-    .accesskey = t
-permissions-notification = ການແຈ້ງເຕືອນ
-permissions-notification-settings =
-    .label = ການຕັ້ງຄ່າ…
-    .accesskey = t
-permissions-notification-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 permissions-notification-pause =
     .label = ຢຸດການແຈ້ງເຕືອນຊົ່ວຄາວຈົນກວ່າ { -brand-short-name } ເລີ່ມເຮັດວຽກໃຫມ່
     .accesskey = n
 permissions-autoplay2 =
     .label = ຫຼິ້ນອັດຕະໂນມັດ
-permissions-autoplay = ຫຼິ້ນອັດຕະໂນມັດ
-permissions-autoplay-settings =
-    .label = ການຕັ້ງຄ່າ…
-    .accesskey = t
-permissions-block-popups =
-    .label = ປິດກັ້ນວິນໂດປັອບອັບ
-    .accesskey = ປ
-permissions-addon-install-warning =
-    .label = ແຈ້ງເຕືອນເມື່ອເວັບໄຊທ໌ມີຄວາມຕ້ອງການຕິດຕັ້ງໂປຣແກຣມເສີມເພີ່ມເຕີມ
-    .accesskey = ຈ
-permissions-addon-exceptions =
-    .label = ຂໍ້ຍົກເວັ້ນ…
-    .accesskey = ຍ
 permissions-location2 =
     .label = ຕຳແຫນ່ງທີ່ຕັ້ງ
 permissions-xr2 =
@@ -1173,24 +790,6 @@ permissions-notification2 =
 
 ## Privacy Section - Data Collection
 
-collection-header = ການເກັບລວບລວມແລະໃຊ້ຂໍ້ມູນ { -brand-short-name }
-collection-description = ພວກ​ເຮົາ​ພະ​ຍາ​ຍາມ​ທີ່​ຈະ​ໃຫ້​ທ່ານ​ມີ​ທາງ​ເລືອກ​ແລະ​ເກັບ​ກໍາ​ແຕ່​ສິ່ງ​ທີ່​ພວກ​ເຮົາ​ຕ້ອງ​ການ​ເພື່ອ​ໃຫ້​ແລະ​ປັບ​ປຸງ { -brand-short-name } ສໍາ​ລັບ​ທຸກ​ຄົນ​. ພວກເຮົາສະເຫມີຂໍອະນຸຍາດກ່ອນທີ່ຈະໄດ້ຮັບຂໍ້ມູນສ່ວນຕົວ.
-collection-privacy-notice = ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ
-collection-health-report-telemetry-disabled = ທ່ານບໍ່ສາມາດອະນຸຍາດໃຫ້ { -vendor-short-name } ບັນທຶກຂໍ້ມູນດ້ານວິຊາການ ແລະການໂຕ້ຕອບໄດ້ອີກຕໍ່ໄປ. ຂໍ້ມູນທີ່ຜ່ານມາທັງໝົດຈະຖືກລຶບພາຍໃນ 30 ມື້.
-collection-health-report-telemetry-disabled-link = ຮຽນຮູ້ເພີ່ມເຕີມ
-collection-health-report =
-    .label = ອະນຸຍາດໃຫ້ { -brand-short-name } ສົ່ງຂໍ້ມູນດ້ານວິຊາການ ແລະການໂຕ້ຕອບໄປຫາ { -vendor-short-name }
-    .accesskey = r
-collection-health-report-link = ຮຽນຮູ້ເພີ່ມເຕີມ
-collection-studies =
-    .label = ອະນຸຍາດໃຫ້ { -brand-short-name } ຕິດຕັ້ງ ແລະດໍາເນີນການສຶກສາ
-collection-studies-link = ເບິ່ງການສຶກສາຂອງ { -brand-short-name }
-addon-recommendations =
-    .label = ອະນຸຍາດໃຫ້ { -brand-short-name } ເຮັດການແນະນຳສ່ວນຂະຫຍາຍທີ່ເປັນແບບສ່ວນຕົວ
-addon-recommendations-link = ຮຽນຮູ້ເພີ່ມເຕີມ
-# This message is displayed above disabled data sharing options in developer builds
-# or builds with no Telemetry support available.
-collection-health-report-disabled = ການລາຍງານຂໍ້ມູນຖືກປິດໃຊ້ງານສຳລັບການກຳນົດຄ່າການສ້າງນີ້
 privacy-segmentation-section-header = ຄຸນສົມບັດໃໝ່ທີ່ປັບປຸງການທ່ອງເວັບຂອງທ່ານ
 privacy-segmentation-section-description = ເມື່ອພວກເຮົາສະເໜີຄຸນສົມບັດທີ່ນຳໃຊ້ຂໍ້ມູນຂອງທ່ານເພື່ອໃຫ້ປະສົບການສ່ວນຕົວກວ່າແກ່ທ່ານ:
 privacy-segmentation-radio-off =
@@ -1208,7 +807,6 @@ data-collection-studies-link =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = ຄວາມປອດໄພ
-security-browsing-protection = ການປ້ອງກັນເນື້ອຫາຫລອກລວງແລະຊອບແວທີ່ເປັນອັນຕະລາຍ
 security-enable-safe-browsing =
     .label = ປິດກັ້ນເນື້ອຫາທີ່ເປັນອັນຕະລາຍແລະຫລອກລວງ
     .accesskey = ປ
@@ -1222,16 +820,6 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = ໃບຮັບຮອງ
-certs-enable-ocsp =
-    .label = ສືບຄົ້ນເຊີບເວີຕອບກັບ OCSP ເພື່ອຢືນຢັນຄວາມຖືກຕ້ອງຂອງໃບຮັບຮອງປະຈຸບັນ
-    .accesskey = Q
-certs-view =
-    .label = ເບິ່ງໃບຮັບຮອງ…
-    .accesskey = C
-certs-devices =
-    .label = ອຸປະກອນຄວາມປອດໄພ…
-    .accesskey = D
 space-alert-over-5gb-settings-button =
     .label = ເປີດການຕັ້ງຄ່າ
     .accesskey = O
@@ -1240,20 +828,14 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } ກຳລັງ�
 
 ## Privacy Section - HTTPS-Only
 
-httpsonly-header = ໂໝດ HTTPS ເທົ່ານັ້ນ
-httpsonly-description = HTTPS ສະໜອງການເຊື່ອມຕໍ່ທີ່ປອດໄພ ແລະເຂົ້າລະຫັດລະຫວ່າງ { -brand-short-name } ແລະເວັບໄຊທີ່ທ່ານເຂົ້າເບິ່ງ. ເວັບໄຊທ໌ສ່ວນໃຫຍ່ສະຫນັບສະຫນູນ HTTPS, ແລະຖ້າ HTTPS-Only Mode ຖືກເປີດໃຊ້, ຫຼັງຈາກນັ້ນ { -brand-short-name } ຈະຍົກລະດັບການເຊື່ອມຕໍ່ທັງຫມົດເປັນ HTTPS.
-httpsonly-learn-more = ສຶກສາເພີ່ມເຕີມ
 httpsonly-radio-enabled =
     .label = ເປີດໃຊ້ HTTPS-Only Mode ໃນທຸກໜ້າຕ່າງ
 httpsonly-radio-enabled-pbm =
     .label = ເປີດໃຊ້ HTTPS-Only Mode ໃນປ່ອງຢ້ຽມສ່ວນຕົວເທົ່ານັ້ນ
-httpsonly-radio-disabled =
-    .label = ຢ່າເປີດໃຊ້ໂໝດ HTTPS ເທົ່ານັ້ນ
 
 ## DoH Section
 
 preferences-doh-header = DNS ຜ່ານ HTTPS
-preferences-doh-description = ລະບົບຊື່ໂດເມນ (DNS) ຜ່ານ HTTPS ສົ່ງຄໍາຮ້ອງຂໍຂອງທ່ານສໍາລັບຊື່ໂດເມນໂດຍຜ່ານການເຊື່ອມຕໍ່ທີ່ຖືກເຂົ້າລະຫັດ, ສ້າງ DNS ທີ່ປອດໄພ ແລະ ເຮັດໃຫ້ມັນຍາກສໍາລັບຜູ້ອື່ນທີ່ຈະເບິ່ງວ່າເວັບໄຊທ໌ໃດທີ່ເຈົ້າກໍາລັງຈະເຂົ້າຫາ.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = ສະຖານະ: { $status }
@@ -1269,7 +851,6 @@ preferences-doh-status-disabled = ປິດ
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = ບໍ່ເຄື່ອນໄຫວ ({ $reason })
-preferences-doh-group-message = ເປີດໃຊ້ DNS ປອດໄພໂດຍໃຊ້:
 preferences-doh-expand-section =
     .tooltiptext = ຂໍ້ມູນເພີ່ມເຕີມ
 preferences-doh-setting-default =
@@ -1298,11 +879,7 @@ preferences-doh-setting-off =
     .label = ປິດ
     .accesskey = O
 preferences-doh-off-desc = ໃຊ້ຕົວແກ້ໄຂ DNS ເລີ່ມຕົ້ນຂອງທ່ານ
-preferences-doh-checkbox-warn =
-    .label = ເຕືອນຖ້າຫາກວ່າພາກສ່ວນທີສາມຢ່າງຈິງຈັງປ້ອງກັນ DNS ທີ່ປອດໄພ
-    .accesskey = W
 preferences-doh-select-resolver = ເລືອກຜູ້ໃຫ້ບໍລິການ:
-preferences-doh-exceptions-description = { -brand-short-name } ຈະບໍ່ໃຊ້ DNS ທີ່ປອດໄພຢູ່ໃນເວັບໄຊເຫຼົ່ານີ້
 preferences-doh-manage-exceptions =
     .label = ຈັດການຂໍ້ຍົກເວັ້ນ...
     .accesskey = x
@@ -1311,4 +888,3 @@ preferences-doh-manage-exceptions =
 
 desktop-folder-name = ເດສກ໌ທັອບ
 downloads-folder-name = ດາວໂຫລດ
-choose-download-folder-title = ເລືອກໂຟນເດີດາວໂຫລດ:

@@ -3,10 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Donyo iyie ki Mung me donyo
-about-logins-login-filter =
-    .placeholder = Yeny Donyo iyie
-    .key = F
 fxaccounts-sign-in-text = Nong mung me donyo mamegi i nyonyo ni mukene
 fxaccounts-avatar-button =
     .title = Lo akaunt
@@ -18,8 +14,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Kel ki i Layeny Mukene…
 about-logins-menu-menuitem-import-from-a-file = Kel ki i Pwail…
-about-logins-menu-menuitem-export-logins = Cwal Donyo iyie Woko...
-about-logins-menu-menuitem-remove-all-logins = Kwany Donyo iyie Weng…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Ter
@@ -31,25 +25,14 @@ about-logins-menu-menuitem-help = Kony
 
 login-list =
     .aria-label = Donyo iyie ma rwatte ki lok me yeny
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] donyo iyie { $count }
-       *[other] donyo iyie { $count }
-    }
 login-list-sort-label-text = Yek ki:
 login-list-name-option = Nying (A-Z)
 login-list-name-reverse-option = Nying (Z-A)
 about-logins-login-list-alerts-option = Ciko
 login-list-last-changed-option = Yub me agiki
 login-list-last-used-option = Tic kwede me agiki
-login-list-intro-title = Pe ki nongo donyo iyie mo
 login-list-intro-description = Ka igwoko mung me donyo mo i { -brand-product-name }, obi nyutte kany.
-about-logins-login-list-empty-search-title = Pe ki nongo donyo iyie mo
 about-logins-login-list-empty-search-description = Pe tye adwogi mo ma rwatte ki yeny mamegi.
-login-list-item-title-new-login = Donyo iyie manyen
-login-list-item-subtitle-new-login = Ket ngec me donyo iyie mamegi
 login-list-item-subtitle-missing-username = (nying me tic pe)
 about-logins-list-section-today = Tin
 about-logins-list-section-yesterday = Lawo
@@ -57,14 +40,10 @@ about-logins-list-section-week = Nino 7 ma giko
 
 ## Introduction screen
 
-login-intro-description = Kacce igwoko donyo iyie mamegi i { -brand-product-name } i nyonyo mukene, man aye kit ma itwero nongo gi kany:
 login-intro-instructions-fxa-passwords-help = Lim <a data-l10n-name="passwords-help-link">pi kony mapol</a> ikom mung me donyo.
-about-logins-intro-browser-only-import = Kacce kigwoko donyo iyie mamgei ii layeny mukene, itwero <a data-l10n-name="import-link">kelo gi ki woko ii { -brand-product-name }</a>
-about-logins-intro-import2 = Kacce kigwoko donyo iyie mamegi woko pa { -brand-product-name }, itwero <a data-l10n-name="import-browser-link">kelo gi ki i layeny mukene</a> onyo <a data-l10n-name="import-file-link">ki i pwail</a>
 
 ## Login
 
-login-item-new-login-title = Cwe Donyo iyie manyen
 login-item-edit-button = Yubi
 about-logins-login-item-remove-button = Kwany
 login-item-origin-label = Kanonge me kakube
@@ -80,7 +59,6 @@ login-item-password-reveal-checkbox =
     .aria-label = Nyut mung me donyo
 login-item-copy-password-button-text = Loki
 login-item-copied-password-button-text = Kiloko!
-login-item-save-changes-button = Gwok alokaloka
 login-item-save-new-button = Gwoki
 login-item-cancel-button = Juki
 
@@ -101,9 +79,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = yub donyo iyie ma kigwoko ni
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = nyut mung me donyo ma kigwoko ni
@@ -119,8 +94,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Juki
 confirmation-dialog-dismiss-button =
     .title = Juki
-about-logins-confirm-remove-dialog-title = Kwany donyo iyie man?
-confirm-delete-dialog-message = Pe ki twero gonyo tic man.
 about-logins-confirm-remove-dialog-confirm-button = Kwany
 
 ## Variables
@@ -131,26 +104,9 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] Kwany
        *[other] Kwany Weng
     }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] Eyo, kwany donyo iyie man
-       *[other] Eyo, kwany donyo iyie magi
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] Kwany donyo iyie { $count }?
-       *[other] Kwany donyo iyie { $count } weng?
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] Kwany donyo iyie { $count } ki i nyonyo weng?
-       *[other] Kwany donyo iyie { $count } weng ki i nyonyo weng?
-    }
 
 ##
 
-about-logins-confirm-export-dialog-message = Kibigwoko mung me donyo mamegi calo coc ma kwane (labolle, BadP@ssw0rd) pi meno ngat ma twero yabo pwail ma kicwalo woko ni twero neno gi.
-about-logins-confirm-export-dialog-confirm-button = Cwal woko...
 confirm-discard-changes-dialog-message = Alokaloka weng ma pe kigwoko bi rweny woko.
 
 ## Breach Alert notification

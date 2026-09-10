@@ -56,8 +56,6 @@ downloads-cmd-always-use-system-default =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = Xine'e carpeta chuva´a da nxinuun
 downloads-cmd-retry =
     .tooltiptext = Nasá´á tuku
 downloads-cmd-retry-panel =

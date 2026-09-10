@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
 sidebar-history-sort-by-heading-menucaption =
     .label = ਲੜੀਬੱਧ:
-sidebar-history-sort-by-heading = ਲੜੀਬੱਧ:
 sidebar-history-sort-option-date =
     .label = ਤਾਰੀਖ
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = ਾਹੀ ਇਕਸਟੈਨਸ਼ਨ
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name } ਟੂਲ
 sidebar-customize-firefox-settings = { -brand-short-name } ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 sidebar-vertical-tabs =
     .label = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ
 sidebar-settings2 =
     .label = ਸੈਟਿੰਗਾਂ
-sidebar-settings =
-    .label = ਬਾਹੀ ਦੀਆਂ ਸੈਟਿੰਗਾਂ
 sidebar-hide-tabs-and-sidebar =
     .label = ਟੈਬਾਂ ਅਤੇ ਬਾਹੀ ਨੂੰ ਲੁਕਾਓ
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਦਾ ਇੰਤਜ਼ਾਮ
-sidebar-context-menu-remove-extension =
-    .label = ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਹਟਾਓ
 sidebar-context-menu-report-extension =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ
 sidebar-context-menu-open-in-tab =

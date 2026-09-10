@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = Hedapenak eta itxurak
 appmenuitem-extensions =
     .label = Hedapenak
-appmenuitem-addons-and-themes =
-    .label = Gehigarriak eta itxurak
 appmenuitem-print =
     .label = Inprimatu…
 appmenuitem-find-in-page =
@@ -154,7 +152,6 @@ fxa-menu-get-firefox-mobile =
     .label = Eskuratu Android edo iOSerako { -brand-product-name }
 fxa-menu-secure-sync-subpanel =
     .title = Sinkronizazio segurua
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Kontua
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -176,15 +173,6 @@ appmenuitem-save-page =
     .label = Gorde orria honela…
 appmenuitem-fxa-sync-off-title = Sinkronizazioa desaktibatuta dago
 appmenuitem-fxa-sync-off-description = Babestu eta izan eskura edonon zure laster-markak, pasahitzak eta gehiago.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Nobedadeak
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Jakinarazi eginbide berriei buruz
-    .accesskey = k
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -326,8 +314,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Arazoak konpontzeko informazio gehiago
     .accesskey = f
-appmenu-help-report-site-issue =
-    .label = Eman gunearen arazoaren berri…
 appmenu-help-share-ideas =
     .label = Partekatu ideiak eta iritzia…
     .accesskey = P
@@ -393,7 +379,6 @@ appmenuitem-vpn-description5 = Izan babes estra gailuen artean
 appmenuitem-vpn-title-signed-in1 = Deskargatu { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Eskuratu gailu osoaren babesa
-appmenuitem-vpn-description = Babestu lineako zure jarduera
 appmenu-services-header = Nire zerbitzuak
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -403,7 +388,6 @@ appmenu-other-protection-header3 = Pribatutasun-tresnak
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Probatu Mozillaren bestelako babes-tresnak:
-appmenu-other-protection-header = Probatu { -vendor-short-name }(r)en bestelako babes-tresnak:
 
 ## Profiles panel
 

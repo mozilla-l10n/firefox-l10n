@@ -62,7 +62,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Sincronisescha tes segnapaginas dapertut.
-cfr-doorhanger-bookmark-fxa-body = Ina buna scuverta! Fa ussa la segira che ti chattas quest segnapagina era sin tes apparats mobils. Creescha in { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = Ina buna scuverta! Fa ussa la segira che ti chattas quest segnapagina era sin tes apparats mobils. Creescha in conto.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronisar ussa ils segnapaginas…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -75,12 +74,6 @@ fxa-adoption-credit-cards-backup-subtitle = Protegia tias metodas da pajament cu
 fxa-adoption-bookmarks-treatment-backup-title = Faschain ina copia da segirezza da tes segnapaginas
 fxa-adoption-bookmarks-treatment-backup-subtitle = Protegia tes segnapaginas cun als sincronisar a moda criptada cun tes apparats.
 fxa-adoption-primary-button-label = Crear in conto
-
-## Protections panel
-
-cfr-protections-panel-header = Navighescha senza persequitaders
-cfr-protections-panel-body = Tegna per tai tias datas. { -brand-short-name } ta protegia da blers dals fastizaders ils pli frequents che registreschan tias activitads online.
-cfr-protections-panel-link-text = Ulteriuras infurmaziuns
 
 ## What's New toolbar button and panel
 
@@ -176,42 +169,8 @@ mr2022-background-update-toast-primary-button-label = Avrir ussa { -brand-shorte
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Ma regurdar pli tard
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Empruvar
-    .accesskey = E
-firefoxview-cfr-secondarybutton = Betg ussa
-    .accesskey = B
-firefoxview-cfr-header-v2 = Cuntinuescha immediatamain là nua che ti has chalà
-firefoxview-cfr-body-v2 = Va per tabs serrads dacurt e siglia ultra da quai a moda simpla dad in apparat a l'auter cun agid da { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Nus ta mussain { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Vuls ti avair quel tab avert sin tes telefonin? Va per el. Dovras ti la website che ti has gist visità? Zac ed ella è puspè qua cun { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Mussar co che quai funcziuna
-firefoxview-spotlight-promo-secondarybutton = Sursiglir
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Tscherner ina cumbinaziun da colurs
-    .accesskey = T
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Colurescha tes navigatur cun las nianzas da colurs exclusivas da { -brand-short-name } inspiradas da las vuschs independentas che han midà la societad.
-colorways-cfr-header-28days = La cumbinaziun da colurs «vuschs independentas» scada ils 16 da schaner
-colorways-cfr-header-14days = La cumbinaziun da colurs «vuschs independentas» scada en duas emnas
-colorways-cfr-header-7days = La cumbinaziun da colurs «vuschs independentas» scada quest'emna
-colorways-cfr-header-today = La cumbinaziun da colurs «vuschs independentas» scada oz
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Permetter a { -brand-short-name } da refusar bandieras da cookies?
-cfr-cbh-body = { -brand-short-name } po refusar automaticamain bleras dumondas da bandieras da cookies.
-cfr-cbh-confirm-button = Refusar las bandieras da cookies
-    .accesskey = R
-cfr-cbh-dismiss-button = Betg ussa
-    .accesskey = B
 cookie-banner-blocker-onboarding-header = { -brand-short-name } ha gist refusà ina bandiera da cookie per tai
 cookie-banner-blocker-onboarding-body = Damain distracziun, damain cookies che ta fastizeschan sin questa website.
 cookie-banner-blocker-onboarding-learn-more = Ulteriuras infurmaziuns

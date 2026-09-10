@@ -126,15 +126,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Bütün əlavələr təhlükəsizlik rejimdə söndürüldü.
-extensions-warning-check-compatibility = Əlavə uyğunluq nəzarəti söndürülüb. Uyğun olmayan əlavələriniz ola bilər.
-extensions-warning-safe-mode2 =
-    .message = Bütün əlavələr təhlükəsizlik rejimdə söndürüldü.
 extensions-warning-check-compatibility2 =
     .message = Əlavə uyğunluq nəzarəti söndürülüb. Uyğun olmayan əlavələriniz ola bilər.
 extensions-warning-check-compatibility-button = Aktiv et
     .title = Əlavə uyğunluq nəzarətini aktivləşdir
-extensions-warning-update-security = Əlavə yeniləmə təhlükəsizliyinə  nəzarəti söndürülüb. Yeniləmələr təhlükəli ola bilər.
 extensions-warning-update-security2 =
     .message = Əlavə yeniləmə təhlükəsizliyinə  nəzarəti söndürülüb. Yeniləmələr təhlükəli ola bilər.
 extensions-warning-update-security-button = Aktiv et
@@ -256,24 +251,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } əlavəsi { -brand-short-name } { $version } ile uyğun deyil.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } əlavəsi { -brand-short-name } { $version } ile uyğun deyil.
-details-notification-unsigned-and-disabled = { $name } { -brand-short-name } üzərində işlədilmək üçün təsdiqlənə bilmədi və söndürüldü.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } { -brand-short-name } üzərində işlədilmək üçün təsdiqlənə bilmədi və söndürüldü.
-details-notification-unsigned-and-disabled-link = Ətraflı Məlumat
-details-notification-unsigned = { $name } { -brand-short-name } üzərində işlədilmək üçün təsdiqlənə bilmədi. Ehtiyyatla davam edin.
 details-notification-unsigned2 =
     .message = { $name } { -brand-short-name } üzərində işlədilmək üçün təsdiqlənə bilmədi. Ehtiyyatla davam edin.
-details-notification-unsigned-link = Ətraflı Məlumat
-details-notification-blocked = { $name } təhlükəsizlik və sabitlik səbəbi ilə söndürüldü.
-details-notification-blocked-link = Daha çox məlumati
-details-notification-softblocked = { $name } əlavəsinin təhlükəsizlik və ya sabitlik problemlərinə səbəb olduğu məlumdur.
-details-notification-softblocked-link = Daha çox məlumati
-details-notification-gmp-pending = { $name } qısa müddətdə quraşdırılacaq.
 details-notification-gmp-pending2 =
     .message = { $name } qısa müddətdə quraşdırılacaq.
 

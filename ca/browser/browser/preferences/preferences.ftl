@@ -2,13 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Envia als llocs web el senyal «No vull ser seguit» per informar-los que no vull que em facin el seguiment
-do-not-track-removal = Ja no s'admet el senyal «No vull ser seguit»
-do-not-track-learn-more = Més informació
-do-not-track-option-default-content-blocking-known =
-    .label = Només si el { -brand-short-name } està configurat per blocar els elements de seguiment coneguts
-do-not-track-option-always =
-    .label = Sempre
 global-privacy-control-description =
     .label = Sol·licita als llocs web que no venguin ni comparteixin les meves dades
     .accesskey = S
@@ -21,7 +14,6 @@ non-technical-privacy-heading =
 preferences-privacy-relay-available =
     .description = Amaga la vostra adreça electrònica real per protegir-vos del correu brossa
     .label = Suggereix màscares d'adreça electrònica del { -relay-brand-name }
-non-technical-privacy-header = Preferències de privadesa del lloc web
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -48,8 +40,6 @@ managed-notice-nav =
 category-list =
     .aria-label = Categories
 pane-general-title = General
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = Inici
 pane-home-startup-title2 = Pàgina d’inici i inicialització
     .title = Pàgina d’inici i inicialització
@@ -57,21 +47,11 @@ pane-search-title2 = Cerca
     .title = Cerca
 pane-privacy-title3 = Privadesa i seguretat
     .title = Privadesa i seguretat
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = Cerca
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = Privadesa i seguretat
-pane-privacy-title = Privadesa i seguretat
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Sincronització
 pane-ai-controls-title2 = Controls d’IA
     .title = Controls d’IA
-category-sync3 =
-    .tooltiptext = { pane-sync-title3 }
 pane-about-firefox-title = Quant al { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Aparença
@@ -88,19 +68,9 @@ preferences-languages-header3 =
     .heading = Llengües
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-pane-experimental-title = Experiments del { -brand-short-name }
-category-experimental =
-    .tooltiptext = Experiments del { -brand-short-name }
-pane-experimental-subtitle = Aneu amb compte
-pane-experimental-search-results-header = Experiments del { -brand-short-name }: Aneu amb compte
-pane-experimental-description2 = La modificació dels paràmetres avançats de configuració pot afectar el rendiment o la seguretat del { -brand-short-name }.
-settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-pane-labs-header =
     .heading = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Proveu les funcions experimentals. Com que estan en desenvolupament i en continua evolució, podrien afectar el funcionament del { -brand-short-name }. Només es recullen dades sobre com utilitzeu aquestes funcions si teniu activades les <a data-l10n-name="data-collection">dades tècniques i d’interacció</a>.
-pane-experimental-description3 = Proveu les nostres funcions experimentals! Estan en constant desenvolupament i evolució, i podrien afectar el funcionament del { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaura els valors per defecte
     .accesskey = R
@@ -108,8 +78,6 @@ help-button-label2 = Assistència del { -brand-short-name }
     .title = Assistència del { -brand-short-name }
 addons-button-label2 = Extensions i temes
     .title = Extensions i temes
-help-button-label = Assistència del { -brand-short-name }
-addons-button-label = Extensions i temes
 focus-search =
     .key = f
 close-button =
@@ -173,15 +141,9 @@ search-results-help-link = Necessiteu ajuda? Visiteu l'<a data-l10n-name="url">a
 
 ## General Section
 
-startup-header = Inici
 always-check-default =
     .label = Comprova sempre si el { -brand-short-name } és el navegador per defecte
     .accesskey = o
-is-default = Actualment el { -brand-short-name } és el navegador per defecte
-is-not-default = El { -brand-short-name } no és el navegador per defecte
-set-as-my-default-browser =
-    .label = Fes que sigui el navegador per defecte…
-    .accesskey = d
 startup-restore-windows-and-tabs =
     .label = Obre les finestres i pestanyes anteriors
     .accesskey = s
@@ -195,16 +157,11 @@ windows-launch-on-login-disabled = Aquesta preferència s'ha desactivat al Windo
 windows-launch-on-login-open-new-tab =
     .label = Obre també una pestanya nova
     .accesskey = n
-windows-launch-on-login-profile-disabled = Activeu aquesta preferència marcant «{ profile-manager-use-selected.label }» a la finestra «Trieu un perfil d'usuari».
-startup-restore-warn-on-quit =
-    .label = Avisa en sortir del navegador
 disable-extension =
     .label = Inhabilita l'extensió
 preferences-data-migration-group =
     .description = Importeu les adreces d'interès, les contrasenyes, l'historial, les extensions i les dades d'emplenament automàtic d'un altre navegador.
     .label = Importa les dades d'un altre navegador
-preferences-data-migration-header = Importa les dades d'un altre navegador
-preferences-data-migration-description = Importa les adreces d'interès, les contrasenyes, l'historial i les dades d'emplenament automàtic al { -brand-short-name }.
 preferences-data-migration-button =
     .label = Importa les dades
     .accesskey = m
@@ -215,9 +172,6 @@ preferences-profiles-subpane-description =
 preferences-profiles-section-header =
     .description = Cada perfil té els paràmetres i les dades de navegació separats, com ara l'historial i les contrasenyes, entre d'altres.
     .label = Perfils
-preferences-profiles-header = Perfils
-preferences-manage-profiles-description = Cada perfil té els paràmetres i les dades de navegació separats, com ara l'historial i les contrasenyes, entre d'altres.
-preferences-manage-profiles-learn-more = Més informació
 preferences-manage-profiles-button =
     .label = Gestiona els perfils
 preferences-profiles-settings-button =
@@ -250,7 +204,6 @@ tabs-containers-heading =
     .label = Contenidors
 tabs-closing-heading =
     .label = Tancament
-tabs-group-header = Pestanyes
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab canvia de pestanya en ordre d'ús recent
     .accesskey = T
@@ -270,42 +223,22 @@ ask-on-close-multiple-tabs =
 ask-on-quit-with-key =
     .label = Pregunta abans de sortir amb { $quitKey }
     .accesskey = b
-confirm-on-close-multiple-tabs =
-    .label = Confirma abans de tancar diverses pestanyes de cop
-    .accesskey = m
-# This string is used for the confirm before quitting preference.
-# Variables:
-#   $quitKey (string) - the quit keyboard shortcut, and formatted
-#                       in the same manner as it would appear,
-#                       for example, in the File menu.
-confirm-on-quit-with-key =
-    .label = Confirma abans de sortir amb { $quitKey }
-    .accesskey = b
 warn-on-open-many-tabs =
     .label = Avisa quan el fet d'obrir moltes pestanyes pugui alentir el { -brand-short-name }
     .accesskey = o
 switch-to-new-tabs-2 =
     .label = En obrir enllaços o contingut multimèdia en una pestanya nova, vés-hi immediatament
     .accesskey = E
-switch-to-new-tabs =
-    .label = En obrir un enllaç, una imatge o un fitxer multimèdia en una pestanya nova, vés-hi immediatament
-    .accesskey = h
 show-tabs-in-taskbar =
     .label = Mostra les previsualitzacions de les pestanyes a la barra de tasques del Windows
     .accesskey = q
 browser-containers-enabled-2 =
     .label = Utilitza pestanyes de contenidor
     .accesskey = n
-browser-containers-enabled =
-    .label = Habilita les pestanyes de contenidor
-    .accesskey = H
 browser-containers-learn-more = Més informació
 browser-containers-settings-2 =
     .label = Gestiona els paràmetres
     .accesskey = i
-browser-containers-settings =
-    .label = Paràmetres…
-    .accesskey = t
 containers-disable-alert-title = Voleu tancar totes les pestanyes de contenidor?
 startup-group =
     .label = Inici
@@ -357,16 +290,6 @@ browser-layout-show-sidebar2 =
     .label = Mostra la barra lateral
 page-navigation-group =
     .label = Navegació de la pàgina
-browser-layout-header = Disposició del navegador
-browser-layout-horizontal-tabs =
-    .label = Pestanyes horitzontals
-browser-layout-horizontal-tabs-desc = Mostra a la part superior del navegador
-browser-layout-vertical-tabs =
-    .label = Pestanyes verticals
-browser-layout-vertical-tabs-desc = Mostra al costat, a la barra lateral
-browser-layout-show-sidebar =
-    .label = Mostra la barra lateral
-browser-layout-show-sidebar-desc = Accediu ràpidament a les adreces d'interès, a les pestanyes del telèfon, als bots de conversa d'IA i molt més sense sortir de la vista principal.
 
 ## General Section - Language & Appearance
 
@@ -377,8 +300,6 @@ appearance-group2 =
 preferences-web-appearance-choice-auto3 =
     .label = Sistema
     .title = Automàticament canvia el fons i el contingut dels llocs webs segons els paràmetres del sistema i el tema del { -brand-short-name }.
-preferences-web-appearance-header = Aparença dels llocs web
-preferences-web-appearance-description = Alguns llocs web adapten l'esquema de colors d'acord amb les vostres preferències. Trieu quin esquema de colors voleu per aquests llocs.
 preferences-web-appearance-choice-light2 =
     .label = Clar
     .title = Usa un aspecte clar per al fons i el contingut dels llocs web.
@@ -387,21 +308,6 @@ preferences-web-appearance-choice-dark2 =
     .title = Usa un aspecte fosc per al fons i el contingut dels llocs web.
 web-appearance-group =
     .aria-label = Aparença dels llocs web
-preferences-web-appearance-choice-auto = Automàtic
-preferences-web-appearance-choice-light = Clar
-preferences-web-appearance-choice-dark = Fosc
-preferences-web-appearance-choice-tooltip-auto =
-    .title = Canvia automàticament els fons i el contingut dels llocs web en funció dels vostres paràmetres del sistema i del tema del { -brand-short-name }.
-preferences-web-appearance-choice-tooltip-light =
-    .title = Usa un aspecte clar per al fons i el contingut dels llocs web.
-preferences-web-appearance-choice-tooltip-dark =
-    .title = Usa un aspecte fosc per al fons i el contingut dels llocs web.
-preferences-web-appearance-choice-input-auto =
-    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
-preferences-web-appearance-choice-input-light =
-    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
-preferences-web-appearance-choice-input-dark =
-    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning3 =
@@ -413,14 +319,6 @@ preferences-contrast-control-group =
     .label = Contrast dels llocs web
 preferences-contrast-control-radio-group =
     .label = Substitueix els colors
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning = La vostra selecció de colors modifica l'aparença dels llocs web. <a data-l10n-name="colors-link">Gestiona els colors</a>
-# This message contains one link. It can be moved within the sentence as needed
-# to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = Gestioneu els temes del { -brand-short-name } a <a data-l10n-name="themes-link">Extensions i temes</a>
-preferences-contrast-control-header = Control del contrast
-preferences-contrast-control-description = Els llocs web tenen una varietat de colors de primer pla i de fons. Configureu el { -brand-short-name } perquè utilitzi els mateixos colors en tots els llocs web per millorar la llegibilitat.
 preferences-contrast-control-use-platform-settings =
     .label = Automàtic (utilitza els paràmetres del sistema)
     .accesskey = A
@@ -433,27 +331,13 @@ preferences-contrast-control-custom =
 preferences-colors-manage-button2 =
     .label = Gestiona els colors
     .accesskey = c
-preferences-colors-header = Colors
-preferences-colors-description = Sobreescriu els colors per defecte del { -brand-short-name } per al text, els fons dels llocs web i els enllaços.
 preferences-colors-manage-button =
     .label = Gestiona els colors…
     .accesskey = c
 preferences-fonts-header2 =
     .label = Tipus de lletra
-preferences-fonts-header = Tipus de lletra
-default-font = Tipus de lletra per defecte
-    .accesskey = d
-default-font-size = Mida:
-    .accesskey = M
-advanced-fonts =
-    .label = Avançat…
-    .accesskey = v
 preferences-default-zoom-label =
     .label = Zoom per defecte
-    .accesskey = Z
-# Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = Zoom
-preferences-default-zoom = Zoom per defecte
     .accesskey = Z
 # Variables:
 #   $percentage (number) - Zoom percentage value
@@ -462,8 +346,6 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Amplia només el text
     .accesskey = t
-preferences-text-zoom-override-warning =
-    .message = Avís: si seleccioneu "Amplia només el text" i el zoom per defecte no és 100%, pot ser que alguns llocs o continguts no funcionin correctament.
 language-header = Llengua
 choose-language-description = Trieu la llengua en què es mostraran preferentment les pàgines
 website-language-heading =
@@ -507,13 +389,7 @@ browser-language-fallback-label =
     .label = Idioma alternatiu
 browser-language-install-error =
     .message = El { -brand-short-name } no ha pogut actualitzar les llengües. Comproveu que esteu connectat a Internet o torneu-ho a provar.
-translate-web-pages =
-    .label = Tradueix el contingut web
-    .accesskey = T
 fx-translate-web-pages = { -translations-brand-name }
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = Traducció feta per <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepcions…
     .accesskey = x
@@ -607,23 +483,6 @@ download-always-ask-where2 =
 download-private-browsing-delete2 =
     .label = Suprimeix les baixades de les finestres privades en tancar
     .accesskey = D
-download-header = Baixades
-download-save-where = Desa els fitxers a
-    .accesskey = s
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Trieu…
-           *[other] Navega…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] v
-        }
-download-always-ask-where =
-    .label = Demana sempre on desar els fitxers
-    .accesskey = a
 applications-header = Aplicacions
 applications-description = Trieu com voleu que el { -brand-short-name } tracti els fitxers que baixeu del web o les aplicacions que utilitzeu mentre navegueu.
 applications-setting2 =
@@ -674,10 +533,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Utilitza { $plugin-name } (en el { -brand-short-name })
 applications-open-inapp =
     .label = Obre en el { -brand-short-name }
 
@@ -685,8 +540,6 @@ applications-open-inapp =
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -719,13 +572,10 @@ applications-ask-before-handling2 =
     .accesskey = A
 drm-group =
     .label = Contingut DRM (Digital Rights Management, Gestió de drets digitals)
-drm-content-header = Contingut DRM (Digital Rights Management, Gestió de drets digitals)
 play-drm-content =
     .label = Reprodueix contingut controlat per DRM
     .accesskey = p
 play-drm-content-learn-more = Més informació
-update-application-title = Actualitzacions del { -brand-short-name }
-update-application-description = Manteniu el { -brand-short-name } actualitzat per obtenir el millor rendiment, estabilitat i seguretat.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versió { $version } <a data-l10n-name="learn-more">Novetats</a>
@@ -739,22 +589,9 @@ update-application-radio-group =
 update-application-auto-2 =
     .label = Instal·la les actualitzacions automàticament (recomanat)
     .accesskey = A
-update-history =
-    .label = Mostra l'historial d'actualitzacions…
-    .accesskey = h
-update-application-allow-description = Actualitzacions del { -brand-short-name }
-update-application-auto =
-    .label = Instal·la les actualitzacions automàticament (recomanat)
-    .accesskey = a
 update-application-check-choose-2 =
     .label = Comprova si hi ha actualitzacions, però tria quan instal·lar
     .accesskey = C
-update-application-check-choose =
-    .label = Cerca actualitzacions, però demana'm si vull instal·lar-les
-    .accesskey = C
-update-application-manual =
-    .label = No cerquis mai actualitzacions (no recomanat)
-    .accesskey = N
 update-application-background-enabled =
     .label = Quan el { -brand-short-name } no s'estigui executant
     .accesskey = Q
@@ -763,13 +600,6 @@ update-application-warning-cross-user-setting-2 =
 update-application-suppress-prompts-2 =
     .label = Mostra menys recordatoris d'actualització
     .accesskey = M
-update-application-warning-cross-user-setting = Aquest paràmetre s'aplicarà a tots els comptes del Windows i perfils del { -brand-short-name } que utilitzin aquesta instal·lació del { -brand-short-name }.
-update-application-use-service =
-    .label = Instal·la les actualitzacions en segon pla
-    .accesskey = s
-update-application-suppress-prompts =
-    .label = Mostra menys notificacions d'actualització
-    .accesskey = n
 update-setting-write-failure-title2 = Error en desar els paràmetres d'actualització
 # Variables:
 #   $path (string) - Path to the configuration file
@@ -813,11 +643,6 @@ support-share-ideas =
 
 ## General Section - Performance
 
-performance-title = Rendiment
-performance-use-recommended-settings-checkbox =
-    .label = Utilitza els paràmetres de rendiment recomanats
-    .accesskey = U
-performance-use-recommended-settings-desc = Aquests paràmetres estan personalitzats per al maquinari i sistema operatiu del vostre ordinador.
 performance-settings-learn-more = Més informació
 performance-allow-hw-accel =
     .label = Utilitza l'acceleració de maquinari quan sigui disponible
@@ -839,9 +664,6 @@ performance-use-recommended-settings-checkbox-2 =
 
 ## Accessibility page
 
-browsing-title = Navegació
-browsing-group-label =
-    .aria-label = Navegació
 browsing-use-autoscroll =
     .label = Utilitza el desplaçament automàtic
     .accesskey = a
@@ -880,26 +702,20 @@ settings-media-group =
 browsing-picture-in-picture-toggle-enabled-2 =
     .label = Usa la imatge sobre imatge
     .accesskey = e
-browsing-picture-in-picture-toggle-enabled =
-    .label = Activa els controls de vídeo d'imatge sobre imatge
-    .accesskey = A
 browsing-picture-in-picture-enable-when-switching-tabs =
     .label = En canviar de pestanya, segueix reproduint els vídeos en mode d'Imatge sobre imatge
     .accesskey = s
-browsing-picture-in-picture-learn-more = Més informació
 browsing-media-control =
     .label = Controla el contingut multimèdia amb teclat, auriculars o interfície virtual
     .accesskey = v
 recommendations-group =
     .label = Recomanacions
-browsing-media-control-learn-more = Més informació
 browsing-cfr-recommendations =
     .label = Recomana extensions durant la navegació
     .accesskey = R
 browsing-cfr-features =
     .label = Recomana funcions durant la navegació
     .accesskey = f
-browsing-cfr-recommendations-learn-more = Més informació
 browsing-group =
     .label = Navegació
 preferences-accessibility-header =
@@ -918,12 +734,6 @@ preferences-fonts-advanced-settings =
 
 ## General Section - Proxy
 
-network-settings-title = Paràmetres de xarxa
-network-proxy-connection-description = Configureu com el { -brand-short-name } es connecta a Internet.
-network-proxy-connection-learn-more = Més informació
-network-proxy-connection-settings =
-    .label = Paràmetres…
-    .accesskey = P
 network-proxy-group2 =
     .description = Configureu com el { -brand-short-name } es connecta a Internet.
     .label = Paràmetres del servidor intermediari
@@ -1035,9 +845,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Llocs que deseu o visiteu
 home-prefs-shortcuts-by-option-sponsored =
     .label = Dreceres patrocinades
-home-prefs-recommended-by-header =
-    .label = Recomanat per { $provider }
-home-prefs-recommended-by-description-new = Contingut excepcional seleccionat per { $provider }, part de la família de { -brand-product-name }
 home-prefs-recommended-by-header-generic =
     .label = Articles recomanats
 home-prefs-recommended-by-description-generic = Contingut excepcional seleccionat per la família del { -brand-product-name }
@@ -1050,26 +857,15 @@ home-prefs-stories-description = Articles personalitzats basats en la vostra act
 home-prefs-recommended-by-learn-more = Com funciona
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Articles patrocinats
-home-prefs-recommended-by-option-recent-saves =
-    .label = Mostra els elements desats recentment
 home-prefs-highlights-option-visited-pages =
     .label = Pàgines visitades
 home-prefs-highlights-options-bookmarks =
     .label = Adreces d'interès
 home-prefs-highlights-option-most-recent-download =
     .label = Baixada més recent
-home-prefs-highlights-option-saved-to-pocket =
-    .label = Pàgines desades al { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = Activitat recent
 home-prefs-recent-activity-description = Una selecció de continguts i llocs recents
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = Retalls
-home-prefs-snippets-description-new = Consells i novetats de { -vendor-short-name } i del { -brand-product-name }
 home-prefs-weather-header =
     .label = Informació meteorològica
 home-prefs-weather-description = La previsió d'avui d'un cop d'ull
@@ -1092,22 +888,6 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = Barra de cerca
-search-bar-hidden =
-    .label = Utilitza la barra d'adreces per cercar i navegar
-search-bar-shown =
-    .label = Afegeix la barra de cerca a la barra d'eines
-search-engine-default-header = Motor de cerca per defecte
-search-engine-default-desc-2 = Aquest és el motor de cerca per defecte en la barra d’adreces i en la barra de cerca. Podeu canviar-lo en qualsevol moment.
-search-engine-default-private-desc-2 = Trieu un altre motor de cerca per defecte només per a les finestres privades
-search-separate-default-engine =
-    .label = Utilitza aquest motor de cerca en les finestres privades
-    .accesskey = U
-search-suggestions-header = Suggeriments de cerca
-search-suggestions-desc = Trieu com voleu que es mostrin els suggeriments dels motors de cerca.
-search-suggestions-option =
-    .label = Mostra suggeriments de cerca
-    .accesskey = s
 search-show-suggestions-option =
     .label = Mostra suggeriments de cerca
     .accesskey = M
@@ -1143,22 +923,6 @@ search-separate-default-engine-dropdown =
     .aria-label = Motor de cerca per defecte en les finestres privades
 search-suggestions-header-2 =
     .label = Suggeriments de motors de cerca
-# With this option enabled, on the search results page
-# the URL will be replaced by the search terms in the address bar
-# when using the current default search engine.
-search-show-search-term-option =
-    .label = Mostra els termes de cerca en lloc de l'URL a la pàgina de resultats del motor de cerca per defecte
-# This string describes what the user will observe when the system
-# prioritizes search suggestions over browsing history in the results
-# that extend down from the address bar. In the original English string,
-# "ahead" refers to location (appearing most proximate to), not time
-# (appearing before).
-search-show-suggestions-above-history-option =
-    .label = En els resultats de la barra d'adreces, mostra els suggeriments de cerca abans de l'historial de navegació
-search-show-suggestions-private-windows =
-    .label = Mostra suggeriments de cerca en les finestres privades
-suggestions-addressbar-settings-generic2 = Canvia els paràmetres d'altres suggeriments de la barra d'adreces
-search-suggestions-cant-show = No es mostraran suggeriments de cerca als resultats de la barra d'ubicació perquè heu configurat el { -brand-short-name } per tal que no recordi mai l'historial.
 search-one-click-header2 = Dreceres de cerca
 search-one-click-desc = Trieu els motors de cerca alternatius que es mostraran sota la barra d'adreces i de cerca en començar a escriure una paraula.
 search-one-click-header-3 =
@@ -1219,19 +983,6 @@ search-section =
 
 ## Containers Section
 
-containers-back-button2 =
-    .aria-label = Torna als paràmetres
-containers-header = Pestanyes de contenidor
-containers-add-button =
-    .label = Afegeix un contenidor nou
-    .accesskey = A
-containers-new-tab-check =
-    .label = Selecciona un contenidor per a cada pestanya nova
-    .accesskey = S
-containers-settings-button =
-    .label = Paràmetres
-containers-remove-button =
-    .label = Elimina
 containers-section-header2 =
     .heading = Configuració del contenidor
 containers-card-header2 =
@@ -1297,8 +1048,6 @@ sync-mobile-promo = Baixeu el Firefox per a l'<img data-l10n-name="android-icon"
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = Canvia la imatge de perfil
 sync-profile-picture-with-alt =
     .alt = Canvia la imatge de perfil
     .tooltiptext = Canvia la imatge de perfil
@@ -1338,9 +1087,6 @@ sync-account-signed-in-display-name =
 
 ##
 
-sync-resend-verification =
-    .label = Torna a enviar la verificació
-    .accesskey = v
 sync-verify-account =
     .label = Verifica el compte
     .accesskey = V
@@ -1367,10 +1113,6 @@ prefs-sync-turn-on-syncing-2 =
     .label = Activa la sincronització
     .accesskey = s
 prefs-sync-offer-setup-label2 = Sincronitzeu les vostres adreces d'interès, historial, pestanyes, contrasenyes, complements i paràmetres en tots els vostres dispositius.
-prefs-sync-now =
-    .labelnotsyncing = Sincronitza ara
-    .labelsyncing = S'està sincronitzant…
-    .accesskeynotsyncing = S
 prefs-sync-now-button =
     .label = Sincronitza ara
     .accesskey = S
@@ -1393,10 +1135,8 @@ sync-syncing-across-devices-empty-state2 =
 sync-currently-syncing-bookmarks = Adreces d'interès
 sync-currently-syncing-history = Historial
 sync-currently-syncing-tabs = Pestanyes obertes
-sync-currently-syncing-logins-passwords = Inicis de sessió i contrasenyes
 sync-currently-syncing-passwords = Contrasenyes
 sync-currently-syncing-addresses = Adreces
-sync-currently-syncing-creditcards = Targetes de crèdit
 sync-currently-syncing-payment-methods = Formes de pagament
 sync-currently-syncing-addons = Complements
 sync-currently-syncing-settings = Paràmetres
@@ -1408,20 +1148,9 @@ sync-manage-options-2 =
     .accesskey = G
 settings-sync-disconnect-button =
     .label = Desconnecta
-sync-change-options =
-    .label = Canvia…
-    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
-sync-choose-what-to-sync-dialog3 =
-    .buttonlabelaccept = Desa els canvis
-    .buttonlabelextra2 = Desconnecta…
-    .buttonaccesskeyaccept = c
-    .buttonaccesskeyextra2 = D
-    .style = min-width: 36em;
-    .title = Trieu què voleu sincronitzar
-sync-choose-dialog-subtitle = Els canvis a la llista d'elements a sincronitzar s'aplicaran a tots els dispositius connectats.
 sync-engine-bookmarks =
     .label = Adreces d'interès
     .accesskey = d
@@ -1432,10 +1161,6 @@ sync-engine-tabs =
     .label = Pestanyes obertes
     .tooltiptext = Una llista d'allò que està obert en tots els dispositius sincronitzats
     .accesskey = T
-sync-engine-logins-passwords =
-    .label = Inicis de sessió i contrasenyes
-    .tooltiptext = Noms d'usuari i contrasenyes que heu desat
-    .accesskey = I
 sync-engine-passwords =
     .label = Contrasenyes
     .tooltiptext = Contrasenyes que heu desat
@@ -1444,10 +1169,6 @@ sync-engine-addresses =
     .label = Adreces
     .tooltiptext = Adreces postals que heu desat (només a l'ordinador)
     .accesskey = e
-sync-engine-creditcards =
-    .label = Targetes de crèdit
-    .tooltiptext = Noms, números i dates de venciment (només a l'ordinador)
-    .accesskey = c
 sync-engine-payment-methods2 =
     .label = Formes de pagament
     .tooltiptext = Noms, números de targetes i dates d'expiració
@@ -1494,29 +1215,9 @@ sync-connect-another-device = Connecta un altre dispositiu
 sync-connect-another-device-2 =
     .label = Connecta un altre dispositiu
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = S'ha enviat la verificació
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = S'ha enviat un enllaç de verificació a { $email }.
-sync-verification-not-sent-title = No s'ha pogut enviar la verificació
-sync-verification-not-sent-body = Ara mateix no es pot enviar un correu de verificació, torneu-ho a provar més tard.
-
 ## Privacy Section
 
 privacy-header = Privadesa del navegador
-
-## Privacy Section - Logins and Passwords
-
-# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = Inicis de sessió i contrasenyes
-    .searchkeywords = { -lockwise-brand-short-name }
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = Demana si vull desar les dades d'inici de sessió i contrasenyes dels llocs web
-    .accesskey = d
 
 ## Privacy Panel Settings
 
@@ -1537,9 +1238,6 @@ forms-manage-password-exceptions =
 forms-exceptions =
     .label = Excepcions…
     .accesskey = x
-forms-generate-passwords =
-    .label = Suggereix i genera contrasenyes segures
-    .accesskey = u
 forms-suggest-passwords =
     .label = Suggereix contrasenyes segures
     .accesskey = S
@@ -1547,19 +1245,10 @@ forms-breach-alerts =
     .label = Mostra alertes sobre contrasenyes per als llocs web relacionats amb filtracions de dades
     .accesskey = b
 forms-breach-alerts-learn-more-link = Més informació
-preferences-relay-integration-checkbox =
-    .label = Suggereix màscares d'adreça electrònica del { -relay-brand-name } per a protegir la vostra adreça electrònica
 preferences-relay-integration-checkbox2 =
     .label = Suggereix màscares d'adreça electrònica del { -relay-brand-name } per a protegir la vostra adreça electrònica
     .accesskey = r
 relay-integration-learn-more-link = Més informació
-# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
-forms-fill-logins-and-passwords =
-    .label = Emplena automàticament inicis de sessió i contrasenyes
-    .accesskey = i
-forms-saved-logins =
-    .label = Inicis de sessió desats…
-    .accesskey = I
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-usernames-and-passwords =
     .label = Emplena automàticament els noms d'usuari i les contrasenyes
@@ -1649,20 +1338,6 @@ autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
-pane-privacy-autofill-header = Emplenament automàtic
-autofill-addresses-checkbox = Desa i emplena les adreces
-    .accesskey = a
-autofill-saved-addresses-button = Adreces desades
-    .accesskey = d
-autofill-payment-methods-checkbox-message = Desa i emplena les formes de pagament
-    .accesskey = m
-autofill-payment-methods-checkbox-submessage = Inclou les targetes de crèdit i dèbit
-    .accesskey = I
-autofill-saved-payment-methods-button = Formes de pagament desades
-    .accesskey = F
-# This operation requires the user to authenticate with the operating system (device sign-in)
-autofill-reauth-payment-methods-checkbox = Demana iniciar la sessió en el dispositiu per emplenar i gestionar les formes de pagament
-    .accesskey = m
 autofill-payment-methods-header =
     .aria-label = Formes de pagament
 autofill-payment-methods-checkbox-message-2 =
@@ -1751,29 +1426,11 @@ payments-group =
 
 ## Privacy Section - History
 
-history-header = Historial
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = El { -brand-short-name }
-    .accesskey = l
-history-remember-option-all =
-    .label = Recorda l'historial
 history-remember-option-never2 =
     .description = Cada finestra actua com una finestra privada. Amb aquesta opció activada, haureu de permetre les extensions.
     .label = No recordis mai l'historial
 history-remember-option-custom2 =
     .label = Personalitza l'historial
-history-remember-option-never =
-    .label = No recordis mai l'historial
-history-remember-option-custom =
-    .label = Utilitza els paràmetres personalitzats de l'historial
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = El { -brand-short-name } recordarà el vostre historial de navegació, de baixades, de formularis i de cerques.
@@ -1783,8 +1440,6 @@ history-dontremember-description4 =
 history-custom-description4 =
     .aria-label = { history-group.label }
     .description = El { -brand-short-name } utilitzarà una configuració personalitzada per a l'historial de navegació, baixades, formularis i cerques.
-history-remember-description = El { -brand-short-name } recordarà el vostre historial de navegació, de baixades, de formularis i de cerques.
-history-dontremember-description = El { -brand-short-name } utilitzarà els mateixos paràmetres de la navegació privada, i no conservarà cap historial mentre navegueu.
 history-private-browsing-permanent =
     .label = Utilitza sempre el mode de navegació privada
     .accesskey = p
@@ -1825,48 +1480,26 @@ history-remember-option-all2 =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Galetes i dades dels llocs
 sitedata-total-size-calculating = S'està calculant la mida de les dades dels llocs i de la memòria cau…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = Els llocs web actualment utilitzen <strong>{ $value } { $unit }</strong> d'espai en disc.
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Les galetes, les dades dels llocs i la memòria cau actualment ocupen { $value } { $unit } d'espai de disc.
 sitedata-learn-more = Més informació
 sitedata-delete-on-close2 =
     .label = Esborra les galetes i les dades dels llocs en tancar el { -brand-short-name }
-    .accesskey = c
-sitedata-delete-on-close =
-    .label = Suprimeix les galetes i les dades dels llocs web en tancar el { -brand-short-name }
     .accesskey = c
 sitedata-delete-on-close-private-browsing3 =
     .message = D'acord amb els paràmetres de l'historial, el { -brand-short-name } suprimirà les galetes i les dades dels llocs en tancar el navegador.
 sitedata-delete-on-close-private-browsing4 =
     .heading = No es desarà l’historial.
     .message = El { -brand-short-name } esborrarà les galetes i les dades dels llocs en tancar el navegador.
-sitedata-delete-on-close-private-browsing = En el mode de navegació privada permanent, les galetes i les dades dels llocs s'esborraran sempre en tancar el { -brand-short-name }.
-sitedata-delete-on-close-private-browsing2 = D'acord amb els paràmetres de l'historial, el { -brand-short-name } suprimirà les galetes i les dades dels llocs en tancar el navegador.
-sitedata-allow-cookies-option =
-    .label = Accepta les galetes i dades dels llocs web
-    .accesskey = A
-sitedata-disallow-cookies-option =
-    .label = Bloca les galetes i dades dels llocs
-    .accesskey = B
-# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
-# The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = Tipus de contingut blocat
-    .accesskey = T
 sitedata-option-block-cross-site-trackers =
     .label = Elements de seguiment entre llocs
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Galetes de seguiment entre llocs
 sitedata-option-block-cross-site-cookies2 =
     .label = Aïlla les galetes entre llocs
-sitedata-option-block-cross-site-cookies =
-    .label = Galetes de seguiment entre llocs, i aïlla les altres galetes entre llocs
 sitedata-option-block-unvisited =
     .label = Galetes de llocs web no visitats
 sitedata-option-block-all-cross-site-cookies =
@@ -1878,12 +1511,6 @@ sitedata-clear2 =
     .accesskey = l
 sitedata-settings2 =
     .label = Gestiona les dades de navegació
-    .accesskey = G
-sitedata-clear =
-    .label = Esborra les dades…
-    .accesskey = l
-sitedata-settings =
-    .label = Gestiona les dades…
     .accesskey = G
 sitedata-cookies-exceptions =
     .label = Gestiona les excepcions…
@@ -1905,32 +1532,16 @@ sitedata-cookies-exceptions3 =
 cookies-site-data-group =
     .label = Galetes i dades dels llocs
 
-## Privacy Section - Cookie Banner Handling
-
-cookie-banner-handling-header = Reducció de bàners de galetes
-cookie-banner-handling-description = El { -brand-short-name } intenta rebutjar automàticament les sol·licituds de bàners de galetes de tots els llocs compatibles.
-
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Blocador de bàners de galetes
 cookie-banner-blocker-description = Quan un lloc demana si es poden utilitzar galetes en mode de navegació privada, el { -brand-short-name } ho rebutjarà automàticament. Només s'aplica als llocs compatibles.
 cookie-banner-learn-more = Més informació
-forms-handle-cookie-banners =
-    .label = Reduïu els bàners de galetes
 cookie-banner-blocker-checkbox-label =
     .label = Rebutja automàticament els bàners de galetes
 
 ## Search Section
 
-addressbar-header = Barra d'adreces
-addressbar-suggest = Quan s'utilitzi la barra d'adreces, suggereix
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest = Barra d'adreces — { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest = Trieu el tipus de suggeriments que apareixen a la barra d'adreces.
-# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
-# `addressbar-suggest-firefox-suggest`.
-addressbar-locbar-firefox-suggest-learn-more = Més informació
 addressbar-locbar-history-option =
     .label = Historial de navegació
     .accesskey = H
@@ -1953,9 +1564,6 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option-1 =
     .label = Suggereix motors de cerca per utilitzar
     .accesskey = a
-addressbar-locbar-engines-option =
-    .label = Motors de cerca
-    .accesskey = M
 addressbar-locbar-quickactions-option =
     .label = Accions ràpides
     .accesskey = r
@@ -1972,20 +1580,6 @@ addressbar-locbar-suggest-all-option-2 =
 addressbar-locbar-suggest-sponsored-option-2 =
     .description = Doneu suport al { -brand-short-name } activant els suggeriments patrocinats ocasionals.
     .label = Suggeriments dels patrocinadors
-addressbar-suggestions-settings = Canvia les preferències dels suggeriments de motors de cerca
-addressbar-locbar-showrecentsearches-option =
-    .label = Mostra les cerques recents
-    .accesskey = r
-addressbar-locbar-showtrendingsuggestions-option =
-    .label = Mostra suggeriments de cerca que són tendència
-    .accesskey = t
-# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
-addressbar-locbar-suggest-nonsponsored-option =
-    .label = Suggeriments del { -brand-short-name }
-addressbar-locbar-suggest-nonsponsored-desc = Obteniu suggeriments del web relacionats amb la vostra cerca.
-addressbar-locbar-suggest-sponsored-option =
-    .label = Suggeriments dels patrocinadors
-addressbar-locbar-suggest-sponsored-desc = Doneu suport al { -brand-short-name } activant els suggeriments patrocinats ocasionals
 # This string is used for a checkbox in the settings UI that opts the
 # user into "online" Firefox Suggest, allowing them to receive suggestions from
 # Mozilla's Merino server.
@@ -1999,11 +1593,6 @@ addressbar-dismissed-suggestions-label-2 =
     .label = Suggeriments descartats
 addressbar-restore-dismissed-suggestions-button-2 =
     .label = Restaura els suggeriments
-addressbar-quickactions-learn-more = Més informació
-addressbar-dismissed-suggestions-label = Suggeriments descartats
-addressbar-restore-dismissed-suggestions-description = Restaura els suggeriments descartats dels patrocinadors i del { -brand-short-name }.
-addressbar-restore-dismissed-suggestions-button =
-    .label = Restaura
 
 ## Privacy Section - Content Blocking
 
@@ -2041,7 +1630,6 @@ content-blocking-cross-site-cookies-in-all-windows2 = Galetes entre llocs en tot
 content-blocking-cross-site-tracking-cookies = Galetes de seguiment entre llocs
 content-blocking-all-cross-site-cookies-private-windows = Galetes entre llocs en finestres privades
 content-blocking-isolate-cross-site-cookies = Aïlla les galetes entre llocs
-content-blocking-cross-site-tracking-cookies-plus-isolate = Galetes de seguiment entre llocs, i aïlla les galetes restants
 content-blocking-social-media-trackers = Elements de seguiment de xarxes socials
 content-blocking-all-cookies = Totes les galetes
 content-blocking-unvisited-cookies = Galetes de llocs no visitats
@@ -2057,10 +1645,8 @@ content-blocking-known-and-suspected-fingerprinters = Generadors d'empremtes dig
 content-blocking-etp-standard-tcp-rollout-description = La protecció total de galetes aïlla les galetes del lloc on us trobeu, de manera que els elements de seguiment no les poden utilitzar per a seguir-vos d'un lloc a l'altre.
 content-blocking-etp-standard-tcp-rollout-learn-more = Més informació
 content-blocking-etp-standard-tcp-title = Inclou la Protecció total de galetes, la nostra funció de privadesa més potent fins ara
-content-blocking-warning-title = Atenció!
 content-blocking-warning-title-2 = La protecció contra el seguiment estricta pot fer que alguns llocs no funcionin correctament
 content-blocking-warning-title-custom = La protecció contra el seguiment personalitzada pot fer que alguns llocs no funcionin correctament
-content-blocking-and-isolating-etp-warning-description-2 = Aquest paràmetre pot fer que alguns llocs web no mostrin part del contingut o que no funcionin correctament. Si sembla que un lloc no funciona bé, podeu provar de desactivar la protecció contra el seguiment perquè aquest lloc carregui tot el contingut.
 content-blocking-warning-learn-how = Vegeu com fer-ho
 content-blocking-baseline-exceptions-3 =
     .description = Ajuda a carregar els llocs i les funcions desblocant només els elements essencials que poden fer seguiment. Inclou els problemes més comuns.
@@ -2086,7 +1672,6 @@ content-blocking-tracking-protection-option-all-windows =
 content-blocking-option-private =
     .label = Només en finestres privades
     .accesskey = N
-content-blocking-tracking-protection-change-block-list = Canvia la llista de bloquejos
 content-blocking-cookies-label =
     .label = Galetes
     .accesskey = G
@@ -2096,11 +1681,6 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = Miners de criptomonedes
     .accesskey = M
-# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
-# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
-content-blocking-fingerprinters-label =
-    .label = Generadors d'empremtes digitals
-    .accesskey = G
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 #
@@ -2122,42 +1702,11 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = Permisos
-permissions-location = Ubicació
-permissions-location-settings =
-    .label = Paràmetres…
-    .accesskey = t
-permissions-xr = Realitat virtual
-permissions-xr-settings =
-    .label = Paràmetres…
-    .accesskey = t
-permissions-camera = Càmera
-permissions-camera-settings =
-    .label = Paràmetres…
-    .accesskey = t
-permissions-microphone = Micròfon
-permissions-microphone-settings =
-    .label = Paràmetres…
-    .accesskey = t
-# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
-permissions-speaker = Selecció d'altaveu
-permissions-speaker-settings =
-    .label = Paràmetres…
-    .accesskey = P
-permissions-notification = Notificacions
-permissions-notification-settings =
-    .label = Paràmetres…
-    .accesskey = t
-permissions-notification-link = Més informació
 permissions-notification-pause =
     .label = Posa en pausa les notificacions fins que es reiniciï el { -brand-short-name }
     .accesskey = n
 permissions-autoplay2 =
     .label = Reproducció automàtica
-permissions-autoplay = Reproducció automàtica
-permissions-autoplay-settings =
-    .label = Paràmetres…
-    .accesskey = t
 permissions-block-popups2 =
     .label = Bloca les finestres emergents i les redireccions de tercers
     .accesskey = B
@@ -2174,21 +1723,6 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Tria quins llocs web poden instal·lar extensions
     .accesskey = e
-permissions-block-popups =
-    .label = Bloca les finestres emergents
-    .accesskey = B
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button =
-    .label = Excepcions…
-    .searchkeywords = finestres emergents
-    .accesskey = E
-permissions-addon-install-warning =
-    .label = Avisa quan els llocs web intentin instal·lar complements
-    .accesskey = i
-permissions-addon-exceptions =
-    .label = Excepcions…
-    .accesskey = E
 permissions-location2 =
     .label = Ubicació
 permissions-localhost2 =
@@ -2216,17 +1750,6 @@ pane-permissions-data-title2 = Permisos i dades
 
 ## Privacy Section - Data Collection
 
-collection-header = Ús i recollida de dades i del { -brand-short-name }
-collection-header2 = Ús i recollida de dades i del { -brand-short-name }
-    .searchkeywords = telemetria
-preferences-collection-description = Ens esforcem per oferir-vos opcions i només recollim el mínim de dades necessàries per millorar el { -brand-product-name } per a tothom.
-preferences-collection-privacy-notice = Mostra l'avís de privadesa
-preferences-across-profiles = Aquests paràmetres s'apliquen a tots els perfils del { -brand-product-name } d'aquest dispositiu.
-preferences-view-profiles = Mostra tots els perfils
-collection-description = Ens esforcem per oferir-vos opcions i només recollim allò que necessitem per proporcionar i millorar el { -brand-short-name } per a tothom. Sempre demanem permís abans de rebre informació personal.
-collection-privacy-notice = Avís de privadesa
-collection-health-report-telemetry-disabled = Ja no permeteu a { -vendor-short-name } capturar dades tècniques i d'interacció. Totes les dades antigues se suprimiran d'aquí a 30 dies.
-collection-health-report-telemetry-disabled-link = Més informació
 backup-multi-profile-warning-message =
     .message = Per assegurar-vos que aquest canvi s'inclou a les vostres còpies de seguretat, obriu cada perfil i seleccioneu "Fes una còpia de seguretat ara" a  la configuració.
 nimbus-rollouts =
@@ -2235,27 +1758,6 @@ nimbus-rollouts =
 addon-recommendations3 =
     .description = Rebeu recomanacions d'extensions per millorar l'experiència de navegació.
     .label = Permet les recomanacions d'extensions personalitzades
-collection-usage-ping =
-    .label = Envia un ping d'ús diari a { -vendor-short-name }
-    .accesskey = u
-collection-usage-ping-description = Això ajuda a { -vendor-short-name } a estimar els usuaris actius.
-collection-health-report2 =
-    .label = Envia dades tècniques i d’interacció a { -vendor-short-name }
-    .accesskey = r
-collection-health-report =
-    .label = Permet que el { -brand-short-name } enviï dades tècniques i d'interacció a { -vendor-short-name }
-    .accesskey = r
-collection-health-report-link = Més informació
-collection-health-report-description = Això ens ajuda a millorar les funcions, el rendiment i l'estabilitat del { -brand-product-name }.
-collection-studies2 =
-    .label = Instal·la i executa estudis
-collection-studies-description = Proveu funcions i idees abans que estiguin disponibles per a tothom.
-collection-studies =
-    .label = Permet al { -brand-short-name } instal·lar i executar estudis
-collection-studies-link = Mostra els estudis del { -brand-short-name }
-addon-recommendations2 =
-    .label = Permet les recomanacions d'extensions personalitzades
-addon-recommendations-description = Rebeu recomanacions d'extensions per millorar l'experiència de navegació.
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = L'informe de dades està desactivat en la configuració d'aquesta versió.
@@ -2269,14 +1771,6 @@ settings-redesign-promo =
     .message = Hem reorganitzat aquesta pàgina perquè sigui més fàcil escanejar i explorar. La vostra configuració personal no ha canviat, i tot segueix aquí. Consell: utilitza la cerca per a saltar directament al que necessites.
 settings-redesign-promo-dismiss-button =
     .label = Entesos
-addon-recommendations =
-    .label = Permet que el { -brand-short-name } faci recomanacions personalitzades d'extensions
-addon-recommendations-link = Més informació
-# This message is displayed above disabled data sharing options in developer builds
-# or builds with no Telemetry support available.
-collection-health-report-disabled = L'informe de dades està desactivat en la configuració d'aquesta versió
-collection-backlogged-crash-reports-with-link = Permet que el { -brand-short-name } enviï els informes de fallada pendents automàticament <a data-l10n-name="crash-reports-link">Més informació</a>
-    .accesskey = f
 privacy-segmentation-section-header = Noves funcions que milloren la navegació
 privacy-segmentation-section-description = Quan us oferim funcions que utilitzen les vostres dades per oferir-vos una experiència més personal:
 privacy-segmentation-radio-off =
@@ -2316,14 +1810,6 @@ data-collection-usage-ping =
     .label = Envia un ping d'ús diari a { -vendor-short-name }
     .accesskey = u
 
-## Privacy Section - Website Advertising Preferences
-
-website-advertising-header = Preferències de publicitat dels llocs web
-website-advertising-private-attribution =
-    .label = Permet que els llocs web facin mesures publicitàries que respectin la privadesa
-    .accesskey = P
-website-advertising-private-attribution-description = Això ajuda els llocs a entendre el rendiment dels seus anuncis sense recollir les vostres dades.
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -2333,7 +1819,6 @@ security-header = Seguretat
 browsing-protection-group2 =
     .description = Els llocs o les descàrregues perilloses poden posar les vostres dades i dispositiu en risc. El { -brand-short-name } automàticament els bloca, i us avisa sobre programari perillós o no sol·licitat.
     .label = Protecció contra contingut enganyós i programari perillós
-security-browsing-protection = Protecció contra contingut enganyós i programari perillós
 security-enable-safe-browsing =
     .label = Bloca el contingut enganyós i perillós
     .accesskey = B
@@ -2349,16 +1834,6 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = Certificats
-certs-enable-ocsp =
-    .label = Consulta els servidors de resposta OCSP per confirmar la validesa actual dels certificats
-    .accesskey = C
-certs-view =
-    .label = Mostra els certificats…
-    .accesskey = c
-certs-devices =
-    .label = Dispositius de seguretat…
-    .accesskey = D
 certs-thirdparty-toggle =
     .label = Permet que el { -brand-short-name } confiï automàticament en els certificats arrel de tercers que instal·leu
     .accesskey = t
@@ -2380,19 +1855,13 @@ certs-devices2 =
 
 ## Privacy Section - HTTPS-Only
 
-httpsonly-header = Mode només HTTPS
-httpsonly-description3 = Permet només connexions segures als llocs web. El { -brand-short-name } us preguntarà abans de connectar-se de manera no segura.
 httpsonly-learn-more2 = Com funciona el mode només HTTPS
-httpsonly-description = HTTPS garanteix una connexió xifrada i segura entre el { -brand-short-name } i els llocs web que visiteu. La majoria dels llocs web admeten HTTPS; per tant, si el Mode només HTTPS està activat, el { -brand-short-name } utilitzarà HTTPS en totes les connexions.
-httpsonly-learn-more = Més informació
 httpsonly-radio-enabled =
     .label = Activa el mode només HTTPS en totes les finestres
 httpsonly-radio-enabled-pbm =
     .label = Activa el mode només HTTPS únicament en les finestres privades
 httpsonly-radio-disabled3 =
     .description = El { -brand-short-name } igualment pot actualitzar algunes connexions
-    .label = No activis el mode només HTTPS
-httpsonly-radio-disabled =
     .label = No activis el mode només HTTPS
 httpsonly-group =
     .description = Permet només connexions segures als llocs web. El { -brand-short-name } us preguntarà abans de connectar-se de manera no segura.
@@ -2406,7 +1875,6 @@ preferences-doh-header = DNS sobre HTTPS
 dns-over-https-group2 =
     .description = El Sistema de noms de domini sobre HTTPS (DoH) xifra les cerques sobre llocs de manera que fa més difícil que el vostre proveïdor d'internet o altres puguin veure quins llocs webs visitareu.
     .label = DNS sobre HTTPS
-preferences-doh-description = El sistema de noms de domini (DNS) sobre HTTPS envia la vostra sol·licitud d'un nom de domini mitjançant una connexió xifrada, creant un DNS segur i dificultant que els altres vegin a quin lloc web esteu a punt d'accedir.
 preferences-doh-description2 = El sistema de noms de domini (DNS) sobre HTTPS envia la vostra sol·licitud d'un nom de domini mitjançant una connexió xifrada, proporcionant un DNS segur i dificultant que els altres vegin a quin lloc web esteu a punt d'accedir.
 # Variables:
 #   $status (string) - The status of the DoH connection
@@ -2423,7 +1891,6 @@ preferences-doh-status-disabled = Desactivat
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Inactiu ({ $reason })
-preferences-doh-group-message = Activa el DNS segur mitjançant:
 preferences-doh-group-message2 = Habilita DNS sobre HTTPS mitjançant:
 preferences-doh-radio-group =
     .aria-label = Habilita DNS sobre HTTPS mitjançant:
@@ -2455,11 +1922,7 @@ preferences-doh-setting-off =
     .label = Desactivat
     .accesskey = D
 preferences-doh-off-desc = Utilitza el vostre sistema de resolució de DNS per defecte
-preferences-doh-checkbox-warn =
-    .label = Avisa si un tercer impedeix activament utilitzar el DNS segur
-    .accesskey = v
 preferences-doh-select-resolver = Trieu el proveïdor:
-preferences-doh-exceptions-description = El { -brand-short-name } no utilitzarà el DNS segur en aquests llocs
 preferences-doh-manage-exceptions =
     .label = Gestiona les excepcions…
     .accesskey = x
@@ -2541,7 +2004,6 @@ preferences-connection-link-button =
 
 desktop-folder-name = Escriptori
 downloads-folder-name = Baixades
-choose-download-folder-title = Tria la carpeta de baixades:
 
 ## Appearance page
 

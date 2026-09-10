@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = The certificate isnae trustit acause the iss
 cert-error-trust-signature-algorithm-disabled = The certificate isnae trustit acause it wis signed yaisin a signature algorithm that wis disabled acause that algorithm isnae siccar.
 cert-error-trust-expired-issuer = The certificate isnae trustit acause the issuer certificate is oot o date.
 cert-error-trust-self-signed = The certificate isnae trustit acause it is sel-signed.
-cert-error-trust-symantec = Certificates issued by GeoTrust, RapidSSL, Symantec, Thawte, and VeriSign are nae langer conseedert sauf acause these certificate authorities hae gaed agley fae security practices in the bygane.
 cert-error-untrusted-default = The certificate disnae come fae a trustit soorce.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -53,17 +52,12 @@ cert-error-code-prefix-link = Mishanter code: <a data-l10n-name="error-code-link
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = A mishanter tuik place durin a connection tae { $hostname }. { $errorMessage }
 # Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Wabsites pruive their identity through certificates, that are issued by certificate authorities. Maist wab-stravaigers nae langer trust certificates issued by GeoTrust, RapidSSL, Symantec, Thawte, and VeriSign. { $hostname } yaises a certificate fae ane o these authorities and sae the wabsite's identity cannae be pruiven.
-cert-error-symantec-distrust-admin = Ye can let the wabsite's admeenistrator ken aboot this problem.
-# Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Siccarness: { $hasHSTS }
 # Variables:
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinnin: { $hasHPKP }
 cert-error-details-cert-chain-label = Certificate chyne:
-open-in-new-window-for-csp-or-xfo-error = Open Site in New Windae
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Fur tae bield yer siccarness, { $hostname } willnae lat { -brand-short-name } kythe the page gin anither site has embeddit it. Tae see this page, ye'll need tae open it in a new windae.
@@ -96,7 +90,6 @@ redirectLoop-title = The page isnae redirectin richt
 unknownSocketType-title = Unexpectit response fae server
 nssFailure2-title = Siccar Connection Didnae Wirk
 csp-xfo-error-title = { -brand-short-name } Cannae Open This Page
-corruptedContentError-title = Camshauchlet Content Mishanter
 sslv3Used-title = No Able tae Connect Siccar
 inadequateSecurityError-title = Yer connection isnae siccar
 blockedByPolicy-title = Blockit Page

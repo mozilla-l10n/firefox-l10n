@@ -102,15 +102,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = सबै एडअनहरू सुरक्षित मोडद्वारा असक्षम गरिएको छ।
-extensions-warning-check-compatibility = एडअन अनुकूलता जाँच अक्षम पारिएको छ। तपाईँसँग अमिल्दो एडअनहरू हुन सक्छन्।
-extensions-warning-safe-mode2 =
-    .message = सबै एडअनहरू सुरक्षित मोडद्वारा असक्षम गरिएको छ।
 extensions-warning-check-compatibility2 =
     .message = एडअन अनुकूलता जाँच अक्षम पारिएको छ। तपाईँसँग अमिल्दो एडअनहरू हुन सक्छन्।
 extensions-warning-check-compatibility-button = सक्षम पार्नुहोस्
     .title = एडअन समर्थन जाँच सक्षम पार्नुहोस्
-extensions-warning-update-security = एडअनमा अद्यावधिक सुरक्षा जाँच असक्षम छ। तपाईँ अद्यावधिकसँग सम्झौता गरिरहनुभएको छ।
 extensions-warning-update-security2 =
     .message = एडअनमा अद्यावधिक सुरक्षा जाँच असक्षम छ। तपाईँ अद्यावधिकसँग सम्झौता गरिरहनुभएको छ।
 extensions-warning-update-security-button = सक्षम पार्नुहोस्
@@ -163,24 +158,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } { -brand-short-name } { $version } सगँ असंगत छ।
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } { -brand-short-name } { $version } सगँ असंगत छ।
-details-notification-unsigned-and-disabled = { $name } { -brand-short-name } मा प्रयोग गर्नको लागि प्रमाणित गर्न सकिएन र अक्षम भएको छ।
 details-notification-unsigned-and-disabled2 =
     .message = { $name } { -brand-short-name } मा प्रयोग गर्नको लागि प्रमाणित गर्न सकिएन र अक्षम भएको छ।
-details-notification-unsigned-and-disabled-link = थप जानकारी
-details-notification-unsigned = { $name } { -brand-short-name } मा प्रयोग को लागि प्रमाणित गर्न सकिएन। सावधानीसंग अगाडि बढ्नुहोस्।
 details-notification-unsigned2 =
     .message = { $name } { -brand-short-name } मा प्रयोग को लागि प्रमाणित गर्न सकिएन। सावधानीसंग अगाडि बढ्नुहोस्।
-details-notification-unsigned-link = थप जानकारी
-details-notification-blocked = { $name } सुरक्षाको कारण वा स्थिरता कारण अक्षम भएको छ।
-details-notification-blocked-link = थप जानकारी
-details-notification-softblocked = { $name } ले सुरक्षा वा स्थिरता मुद्दाहरू ल्याउँछ।
-details-notification-softblocked-link = थप जानकारी
-details-notification-gmp-pending = { $name } छिट्टै स्थापना गरिनेछ।
 details-notification-gmp-pending2 =
     .message = { $name } छिट्टै स्थापना गरिनेछ।
 

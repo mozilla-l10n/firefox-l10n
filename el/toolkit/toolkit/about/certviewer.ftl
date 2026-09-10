@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = Τα πιστοποιητικά σας
 certificate-viewer-tab-people = Άτομα
 certificate-viewer-tab-servers = Διακομιστές
 certificate-viewer-tab-ca = Αρχές
-certificate-viewer-tab-unkonwn = Άγνωστο

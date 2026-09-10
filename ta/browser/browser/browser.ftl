@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = தள தகவலினைப் பார்
 
@@ -36,8 +31,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = இணைப்பில்லா சேமிப்பு செய்தி பலகத்தைத் திற
 urlbar-password-notification-anchor =
     .tooltiptext = கடவுச்சொல் சேமிப்பு செய்தி பலகத்தைத் திற
-urlbar-plugins-notification-anchor =
-    .tooltiptext = செருகி பயன்பாட்டை நிர்வகி
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = தளத்துடன் உங்கள் படக்கருவி மேலும்/அல்லது ஒலிவாங்கியை பகிர்வதை நிர்வகி
 urlbar-autoplay-notification-anchor =
@@ -61,8 +54,6 @@ urlbar-screen-blocked =
     .tooltiptext = இத்தளத்தில் திரைப் பகிர்வை முடக்கியுள்ளீர்கள்.
 urlbar-persistent-storage-blocked =
     .tooltiptext = நீங்கள் நிரந்தர சேமிப்பை இந்த தளத்தில் முடக்கியுள்ளீர்கள்.
-urlbar-popup-blocked =
-    .tooltiptext = இத்தளத்தில் பாப்பப் அறிவுறுத்தல்களை முடக்கியுள்ளீர்கள்.
 urlbar-autoplay-media-blocked =
     .tooltiptext = இத்தளத்தில் தானாக சத்தமாக இயங்கும் ஊடகத்தை நீங்கள் தடுத்துள்ளீர்கள்.
 urlbar-canvas-blocked =
@@ -140,7 +131,6 @@ identity-active-blocked = { -brand-short-name } இப்பக்கத்த�
 identity-passive-loaded = இந்த பக்கத்தின் சில பகுதிகள் பாதுகாப்பற்றது (எ.கா. படங்கள்).
 identity-active-loaded = நீங்கள் இப்பக்கத்தில் பாதுகாப்பை முடக்கிவிட்டீர்கள்.
 identity-weak-encryption = இப்பக்கம் பாதுகாப்பற்ற மறைகுறியாக்கத்தைப் பயன்படுத்துகிறது.
-identity-insecure-login-forms = இப்பக்கத்திற்கு வரும் உள்நுழைவுகள் தாக்கப்படலாம்.
 identity-permissions-reload-hint = மாற்றங்களைச் செயற்படுத்த பக்கத்தை மீளேற்று.
 identity-clear-site-data =
     .label = நினைவிகளையும் தள தரவையும் துடை…
@@ -148,7 +138,6 @@ identity-remove-cert-exception =
     .label = விதிவிலக்கை நீக்கு
     .accesskey = R
 identity-description-insecure = இத்தளத்துடன் உங்கள் இணைப்பு தனிமையானதல்ல. நீங்கள் சமர்பிக்கும் தகவல்கள் பிறரால் பார்க்க முடியும் (கடவுச்சொல், செய்தி, கடன் அட்டை, மேலும் பல.).
-identity-description-insecure-login-forms = இப்பக்கதில் நீங்கள் உள்ளிடும் நுழைவு தகவல்கள் பாதுகாப்பானதல்ல தாக்கப்படக்கூடியவை.
 identity-description-weak-cipher-intro = இத்தளத்துடன் உங்கள் இணைப்பு வலுவற்ற குறியாக்கத்தைப் பயன்படுத்துகிறது மேலும் தனிமையானதல்ல.
 identity-description-weak-cipher-risk = மற்றவர்கள் உங்கள் தகவல்களை பார்க்கலாம் அல்லது தளத்தின் நடத்தையை மாற்றியமைக்கலாம்.
 identity-description-active-blocked2 = { -brand-short-name } பாதுகாப்பற்ற பக்கத்தின் பகுதிகளை முடக்கியுள்ளது.
@@ -157,12 +146,6 @@ identity-description-passive-loaded-insecure2 = இத்தளம் பாத�
 identity-description-passive-loaded-mixed2 = { -brand-short-name } சில உள்ளடக்கங்களை முடக்கினாலும், இன்னும் பாதுகாப்பற்ற உள்ளடக்கம் உள்ளது (எ.கா.படங்கள் போன்றவை).
 identity-description-active-loaded = இத்தளம் பாதுகாப்பற்ற உள்ளடக்கம் கொண்டுள்ளது (சிறுநிரல் போன்றவை) மேலும் உங்கள் இணைப்பு தனிமையானதல்ல.
 identity-description-active-loaded-insecure = இத்தளத்துடன் நீங்கள் பகிரும் தகவல்கள் பிறரால் பார்க்க முடியும் (கடவுச்சொல், செய்தி, கடன் அட்டை, மேலும் பல.).
-identity-disable-mixed-content-blocking =
-    .label = இப்பொழுது பாதுகாப்பை முடக்கு
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = பாதுகாப்பைச் செயற்படுத்து
-    .accesskey = E
 identity-more-info-link-text =
     .label = கூடுதல் தகவலுக்கு...
 
@@ -193,8 +176,6 @@ urlbar-extension =
     .value = நீட்சிகள்:
 urlbar-go-button2 =
     .title = இடப் பட்டையில் முகவரிக்கு செல்லவும்
-urlbar-go-button =
-    .tooltiptext = இடப் பட்டையில் முகவரிக்கு செல்லவும்
 urlbar-page-action-button =
     .tooltiptext = பக்க செயல்கள்
 
@@ -264,12 +245,6 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] புத்தகக்குறிகள் கருவிப்பட்டையை மறை
            *[other] புத்தகக்குறிகள் கருவிப்பட்டையைக் காட்டு
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] கருவிப்பட்டையிலிருந்து புத்தகக்குறிகள் பட்டியை நீக்கவும்
-           *[other] புத்தகக்குறி பட்டியைக் கருவிப்பட்டையில் சேர்க்கவும்
-        }
 
 ##
 
@@ -325,28 +300,10 @@ eme-notifications-drm-content-playing = இந்த தளத்தில் �
 ui-tour-info-panel-close =
     .tooltiptext = மூடுக
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = { $uriHost }க்கு பாப்பப்களை அனுமதி
-    .accesskey = p
-popups-infobar-block =
-    .label = { $uriHost }க்கு பாப்பப்களை தடு
-    .accesskey = p
-
-##
-
-popups-infobar-dont-show-message =
-    .label = பாப்பப்கள் தடுக்கப்படும் போது இந்த செய்தியைக் காட்டாதே
-    .accesskey = D
-
 ##
 
 navbar-downloads =
     .label = பதிவிறக்கங்கள்
-navbar-overflow =
-    .tooltiptext = இதர கருவிகள்...
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

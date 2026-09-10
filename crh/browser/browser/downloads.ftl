@@ -26,8 +26,6 @@ downloads-cmd-cancel-panel =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = Endirmeler Cilbentini Köster
 downloads-cmd-retry =
     .tooltiptext = Kene deñe
 downloads-cmd-retry-panel =

@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Retroceder
 neterror-return-to-previous-page-recommended-button = Retroceder (recomendado)
 neterror-try-again-button-2 = Tentar novamente
     .accesskey = T
-neterror-try-again-button = Tentar novamente
 neterror-add-exception-button = Continuar sempre para este site
 neterror-settings-button = Alterar definições de DNS
 neterror-view-certificate-link = Ver certificado
-neterror-trr-continue-this-time = Continuar desta vez
-neterror-disable-native-feedback-warning = Continuar sempre
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = Saber mais
 ##
 
 neterror-pref-reset = Parece que as suas definições de segurança de rede podem estar a causar isto. Pretende que as definições predefinidas sejam restauradas?
-neterror-error-reporting-automatic = Comunicar erros como este para ajudar a { -vendor-short-name } a identificar e bloquear sites maliciosos
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Desligue e volte a ligar o Wi-Fi
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = O { -brand-short-name } não pode proteger o seu pedido para o endereço deste site através do nosso tradutor de DNS de confiança. Eis o motivo:
 neterror-dns-not-found-trr-only-reason2 = O { -brand-short-name } não pode proteger o seu pedido para o endereço deste site através do nosso provedor de DNS seguro. Motivo:
 neterror-dns-not-found-trr-third-party-warning2 = Pode continuar com o seu tradutor de DNS predefinido. No entanto, terceiros poderão conseguir consultar os sites que visita.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } não conseguiu conectar-se a { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = A ligação a { $trrDomain } demorou mais do que era expectável.
-neterror-dns-not-found-trr-offline = Não se encontra ligado à Internet.
 neterror-dns-not-found-trr-unknown-host2 = Este site não foi encontrado por { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Houve um problema com { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = URL inválido.
 neterror-dns-not-found-system-sleep = O sistema está no modo de hibernação.
 neterror-dns-not-found-trr-unknown-problem = Problema inesperado.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = O { -brand-short-name } não pode proteger o seu pedido para o endereço deste site através do nosso tradutor de DNS de confiança. Eis o motivo:
-neterror-dns-not-found-native-fallback-heuristic = O DNS sob HTTPS foi desativado na sua rede.
-neterror-dns-not-found-native-fallback-not-confirmed2 = O { -brand-short-name } não conseguiu ligar-se a { $trrDomain }.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = Este pode ter sido removido, movido ou as permissões d
 neterror-unknown-protocol = Pode precisar de instalar outro programa para abrir este endereço.
 neterror-redirect-loop = Este problema pode, por vezes, ser causado por desativar ou recusar aceitar cookies.
 neterror-unknown-socket-type-client-config = Isto pode dever-se a uma configuração incorreta do seu cliente.
-neterror-unknown-socket-type-psm-installed = Verifique se o seu sistema tem o Personal Security Manager instalado.
-neterror-unknown-socket-type-server-config = Isto pode ser causado por uma configuração não comum no servidor.
 neterror-not-cached-intro = O documento solicitado não está disponível na cache do { -brand-short-name }.
 neterror-not-cached-sensitive = Como medida de segurança, o { -brand-short-name } não solicita novamente e de forma automática documentos sensíveis.
 neterror-not-cached-try-again = Clique em Tentar novamente para solicitar novamente o documento do site.

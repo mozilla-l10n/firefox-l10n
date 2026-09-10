@@ -156,15 +156,10 @@ addon-sitepermission-host = Websitemachtigingen foar { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Alle add-ons binne útskeakele troch feilige modus.
-extensions-warning-check-compatibility = Kontrole op kompatibileit foar add-ons is útskeakele. Jo kinne ynkompatibele add-ons hawwe.
-extensions-warning-safe-mode2 =
-    .message = Alle add-ons binne útskeakele troch feilige modus.
 extensions-warning-check-compatibility2 =
     .message = Kontrole op kompatibileit foar add-ons is útskeakele. Jo kinne ynkompatibele add-ons hawwe.
 extensions-warning-check-compatibility-button = Ynskeakelje
     .title = Skeakelje kontrole fan kompatibileit foar add-ons yn
-extensions-warning-update-security = Befeiligingskontrôle foar add-onsfernijingen is útskeakele. Mooglik rinne jo in befeiligingsrisiko fernijingen.
 extensions-warning-update-security2 =
     .message = Befeiligingskontrôle foar add-onsfernijingen is útskeakele. Mooglik rinne jo in befeiligingsrisiko fernijingen.
 extensions-warning-update-security-button = Ynskeakelje
@@ -240,10 +235,6 @@ shortcuts-duplicate = Dûbele fluchkeppeling
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } wurdt yn mear as ien gefal as fluchkeppeling brûkt. Dûbele fluckkeppelingen kinne unferwacht gedrach feroarsaakje.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } wurdt yn mear as ien gefal as fluchkeppeling brûkt. Dûbele fluckkeppelingen kinne unferwacht gedrach feroarsaakje.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -262,19 +253,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Utwreidingen en tema’s binne as apps foar jo browser en sy litte jo wachtwurden
-    beskermje, fideo’s downloade, oanbiedingen fine, ferfelende advertinsjes blokkearje, wizigje
-    hoe’t jo browser derút sjocht, en noch folle mear. Dizze lytse softwareprogramma’s binne
-    faaks ûntwikkele troch in tredde partij. Hjir is in seleksje dy’t { -brand-product-name }
-    <a data-l10n-name="learn-more-trigger">oanrekommandearret</a> foar bjusterbaarlike
-    befeiliging, prestaasjes en funksjonaliteit.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    Inkelde fan dizze oanrekommandaasjes binne personalisearre. Se binne basearre op oare
-    troch jo ynstallearre útwreidingen, profylfoarkarren en brûksstatistiken.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -365,16 +343,9 @@ addon-detail-last-updated-label = Lêst bywurke
 addon-detail-homepage-label = Startside
 addon-detail-rating-label = Wurdearring
 # Message for add-ons with a staged pending update.
-install-postponed-message = Dizze útwreiding wurdt bywurke wannear’t { -brand-short-name } opnij start.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Dizze útwreiding wurdt bywurke wannear’t { -brand-short-name } opnij start.
 install-postponed-button = No bywurkje
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Beoardiele mei { NUMBER($rating, maximumFractionDigits: 1) } fan de 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -390,9 +361,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> is fuortsmiten.
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -411,11 +379,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Tastien yn priveefinsters
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Tastien yn priveefinsters
 addon-detail-private-browsing-help = Wannear tastien, hat de útwreiding tagong ta jo online-aktiviteiten yn priveenavigaasje. <a data-l10n-name="learn-more">Mear ynfo</a>
 addon-detail-private-browsing-allow = Tastean
@@ -442,17 +405,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } rekommandearret allinnich útwreidingen oan dy’t foldogge oan ús noarms foar feilichheid en prestaasjes.
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Offisjele troch Mozilla Firefox boude útwreiding. Foldocht oan befeiligings- en prestaasjenoarmen.
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Dizze útwreiding is beoardiele en foldocht oan ús noarms foar befeiliging en prestaasjes
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -482,9 +434,6 @@ addon-permissions-heading = Tastimmingen
 addon-permissions-empty2 = Foar dizze útwreiding binne gjin tastimmingen fereaske.
 addon-permissions-required-label = Fereaske:
 addon-permissions-optional-label = Opsjoneel:
-addon-permissions-empty = Foar dizze útwreiding binne gjin tastimmingen fereaske
-addon-permissions-required = Fereaske tastimmingen foar kernfunksjonaliteit:
-addon-permissions-optional = Opsjonele tastimmingen foar ekstra funksjonaliteit:
 addon-permissions-learnmore = Mear ynfo oer tastimmingen
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -525,25 +474,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } is ynkompatibel mei { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } is ynkompatibel mei { -brand-short-name } { $version }.
-details-notification-incompatible-link = Mear ynformaasje
-details-notification-unsigned-and-disabled = { $name } koe net ferifiearre wurde foar gebrûk yn { -brand-short-name } en is útskeakele.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } koe net ferifiearre wurde foar gebrûk yn { -brand-short-name } en is útskeakele.
-details-notification-unsigned-and-disabled-link = Mear ynformaasje
-details-notification-unsigned = { $name } koe net ferifiearre wurde foar gebrûk yn { -brand-short-name }. Wês foarsichtich as jo fierdergean.
 details-notification-unsigned2 =
     .message = { $name } koe net ferifiearre wurde foar gebrûk yn { -brand-short-name }. Wês foarsichtich as jo fierdergean.
 details-notification-hard-blocked-extension =
     .message = Dizze útwreiding is blokkearre fanwegen skeining fan it belied fan Mozilla en is útskeakele.
 details-notification-hard-blocked-other =
     .message = Dizze add-on is blokkearre fanwegen skeining fan it belied fan Mozilla en is útskeakele.
-details-notification-unsigned-link = Mear ynformaasje
-details-notification-blocked = { $name } is útskeakele om reden fan feilichheid of stabiliteit.
 details-notification-blocked-link2 = Details besjen
 details-notification-soft-blocked-extension-disabled2 =
     .message = Dizze útwreiding is beheind en is útskeakele. Jo kinne it ynskeakelje, mar dit kin riskant wêze.
@@ -553,19 +493,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = Dizze add-on is beheind en is útskeakele. Jo kinne it ynskeakelje, mar dit kin riskant wêze.
 details-notification-soft-blocked-other-enabled2 =
     .message = Dizze add-on is beheind. It brûken derfan kin riskant wêze.
-details-notification-soft-blocked-extension-disabled =
-    .message = Dizze útwreiding is beheind fanwegen skeinen fan it belied fan Mozilla en is útskeakele. Jo kinne it ynskeakelje, mar dit kin gefaarlik wêze.
-details-notification-soft-blocked-extension-enabled =
-    .message = Dizze útwreiding skeint it belied fan Mozilla. It brûken hjirfan kin gefaarlik wêze.
-details-notification-soft-blocked-other-disabled =
-    .message = Dizze add-on is beheind fanwegen skeinen fan it belied fan Mozilla en is útskeakele. Jo kinne it ynskeakelje, mar dit kin gefaarlik wêze.
-details-notification-soft-blocked-other-enabled =
-    .message = Dizze add-on skeint it belied fan Mozilla. It brûken hjirfan kin gefaarlik wêze.
 details-notification-softblocked-link2 = Details besjen
-details-notification-blocked-link = Mear ynformaasje
-details-notification-softblocked = { $name } kin feilichheids- of stabiliteitsproblemen feroarsaakje.
-details-notification-softblocked-link = Mear ynformaasje
-details-notification-gmp-pending = { $name } sil ynkoarten ynstallearre wurde.
 details-notification-gmp-pending2 =
     .message = { $name } sil ynkoarten ynstallearre wurde.
 
@@ -581,8 +509,6 @@ plugins-widevine-description = Dizze ynstekker soarget foar it ôfspyljen fan fe
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Fereaske gegevenssammeling:
-addon-permissions-optional-data-collection = Opsjonele gegevenssammeling:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Tastimmingen en gegevens
 # This is a description for extension that use this AI model

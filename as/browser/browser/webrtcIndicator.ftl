@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - ইণ্ডিকেটৰ সহভাগ কৰি আছে
-webrtc-indicator-window =
-    .title = { -brand-short-name } - ইণ্ডিকেটৰ সহভাগ কৰি আছে
 
 ## Used as list items in sharing menu
 
@@ -36,23 +34,6 @@ webrtc-sharing-screen = আপুনি আপোনাৰ গোটেই স�
 webrtc-stop-sharing-button = সহভাগ বন্ধ কৰক
 webrtc-minimize =
     .title = ইণ্ডিকেটৰ সৰু কৰক
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = আপোনাৰ কেমেৰা আৰু মাইক্ৰফোন অংশীদাৰী কৰা হৈছে। অংশীদাৰী নিয়ন্ত্ৰণ কৰিবলে ক্লিক কৰক।
-webrtc-indicator-sharing-camera =
-    .tooltiptext = আপোনাৰ কেমেৰা অংশীদাৰী কৰা হৈছে। অংশীদাৰী নিয়ন্ত্ৰণ কৰিবলে ক্লিক কৰক।
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = আপোনাৰ মাইক্ৰফোন অংশীদাৰী কৰা হৈছে। অংশীদাৰী নিয়ন্ত্ৰণ কৰিবলে ক্লিক কৰক।
-webrtc-indicator-sharing-application =
-    .tooltiptext = এটা এপ্লিকেচন অংশীদাৰী কৰা হৈছে। অংশীদাৰী নিয়ন্ত্ৰণ কৰিবলে ক্লিক কৰক।
-webrtc-indicator-sharing-screen =
-    .tooltiptext = আপোনাৰ পৰ্দা অংশীদাৰী কৰা হৈছে। অংশীদাৰী নিয়ন্ত্ৰণ কৰিবলে ক্লিক কৰক।
-webrtc-indicator-sharing-window =
-    .tooltiptext = এটা উইণ্ড' অংশীদাৰী কৰা হৈছে। অংশীদাৰী নিয়ন্ত্ৰণ কৰিবলে ক্লিক কৰক।
-webrtc-indicator-sharing-browser =
-    .tooltiptext = এটা টেব ভাগ-বতৰা কৰি থকা হৈছে। ভাগ-বতৰা কৰাটো নিয়ন্ত্ৰণ কৰিবলৈ ক্লিক কৰক।
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -117,7 +98,6 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
-webrtc-share-screen-learn-more = অধিক জানক
 webrtc-share-entire-screen = সম্পূৰ্ণ পৰ্দা
 # Variables:
 #   $windowCount (Number): the number of windows currently displayed by the application.

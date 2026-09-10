@@ -37,29 +37,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Nainstalovat
     .accesskey = N
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Tato stránka požaduje přístup k vašim MIDI (Musical Instrument Digital Interface) zařízením. Přístup k zařízení lze povolit instalací doplňku.
 site-permission-install-first-prompt-midi-message = Tento přístup nemusí být vždy bezpečný. Pokračujte jen pokud tomuto serveru důvěřujete.
 site-permission-install-first-prompt-serial-header = Tato stránka žádá o přístup k vašim sériovým zařízením. Přístup k zařízením lze povolit instalací doplňku.
 site-permission-install-first-prompt-serial-message = Tento přístup nemusí být vždy bezpečný. Pokračujte jen pokud tomuto serveru důvěřujete.
-
-##
-
-xpinstall-disabled-locked = Instalace softwaru byla zakázána správcem vašeho systému.
 xpinstall-disabled-by-policy = Instalace softwaru byla vaší organizací zakázána.
 xpinstall-disabled = Instalace softwaru je v současnosti zakázána. Klepněte na Povolit a zkuste to prosím znovu.
 xpinstall-disabled-button =
     .label = Povolit
     .accesskey = P
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = Doplněk { $addonName } ({ $addonId }) byl zablokován správcem vašeho počítače.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Nastavení od správce vašeho systému zabránilo této stránce v dotazu na instalaci softwaru do vašeho počítače.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -92,13 +78,6 @@ webext-imported-addons =
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Opravdu chcete odebrat rozšíření { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message =
-    { -brand-shorter-name.case-status ->
-        [with-cases] Odebrat doplněk { $name } z { -brand-shorter-name(case: "gen") }?
-       *[no-cases] Odebrat doplněk { $name } z aplikace { -brand-shorter-name }?
-    }
 addon-removal-button = Odebrat
 addon-removal-abuse-report-checkbox =
     { -vendor-short-name.case-status ->
@@ -230,12 +209,6 @@ addon-install-error-soft-blocked2 =
     { -brand-short-name.case-status ->
         [with-cases] Doplněk { $addonName } je omezený a nemůže být do { -brand-short-name(case: "gen") } nainstalován.
        *[no-cases] Doplněk { $addonName } je omezený a nemůže být do aplikace { -brand-short-name } nainstalován.
-    }
-addon-install-error-blocklisted = Doplněk { $addonName } nemohl být nainstalován, protože přináší vysoké riziko nestability nebo bezpečnostních problémů.
-addon-install-error-soft-blocked =
-    { -brand-short-name.case-status ->
-        [with-cases] Doplněk { $addonName } porušuje zásady Mozilly a nelze jej proto do { -brand-short-name(case: "gen") } nainstalovat.
-       *[no-cases] Doplněk { $addonName } porušuje zásady Mozilly a nelze jej proto do aplikace { -brand-short-name } nainstalovat.
     }
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Doplněk { $addonName } nelze nainstalovat jako koncový uživatel, může jej nainstalovat pouze organizace pomocí zásad podniku.

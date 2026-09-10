@@ -23,17 +23,13 @@ neterror-override-exception-button = Tuigidh mi an cunnart, air adhart leam
 neterror-pref-reset-button = Aisig na roghainnean bunaiteach
 neterror-return-to-previous-page-button = Air ais
 neterror-return-to-previous-page-recommended-button = Air ais (Mholamaid seo)
-neterror-try-again-button = Feuch ris a-rithist
 neterror-add-exception-button = Lean air adhart air an làrach seo an-còmhnaidh
 neterror-settings-button = Atharraich na roghainnean DNS
 neterror-view-certificate-link = Seall an teisteanas
-neterror-trr-continue-this-time = Lean air adhart an turas seo
-neterror-disable-native-feedback-warning = Lean air adhart an-còmhnaidh
 
 ##
 
 neterror-pref-reset = Tha coltas gur e roghainnean tèarainteachd an lìonraidh agad ag adhbharachadh seo. A bheil thu airson na roghainnean bunaiteach a thilleadh?
-neterror-error-reporting-automatic = Nach cuir thu aithisg mu mhearachdan d’ a leithid dha { -vendor-short-name } ach an urrainn dhuinn làraichean droch-rùnach mar seo a bhacadh?
 
 ## Specific error messages
 
@@ -55,22 +51,12 @@ neterror-dns-not-found-hint-firewall = Sùil a thoirt a bheil cead-inntrigidh ai
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = Chan urrainn dha { -brand-short-name } d’ iarrtas airson seòladh na làraich seo a dhìon leis an fhuasglaiche DNS earbsach againn. Seo dhut na h-adhbharan:
 neterror-dns-not-found-trr-third-party-warning2 = ’S urrainn dhut leantainn air adhart leis an fhuasglaiche DNS bhunaiteach agad. Ge-tà, dh’fhaoidte gum faic treas-phàrtaidh na làraichean-lìn air an tadhail thu.
 neterror-dns-not-found-trr-only-could-not-connect = Cha b’ urrainn dha { -brand-short-name } ceangal ri { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Thug an ceangal ri { $trrDomain } na b’ fhaide na bha dùil
-neterror-dns-not-found-trr-offline = Chan eil ceangal agad ris an eadar-lìon.
 neterror-dns-not-found-trr-unknown-host2 = Cha d’fhuair { $trrDomain } lorg air an làrach-lìn seo.
 neterror-dns-not-found-trr-server-problem = Bha duilgheadas ann le { $trrDomain }.
 neterror-dns-not-found-trr-unknown-problem = Duilgheadas ris nach robh dùil.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = Chan urrainn dha { -brand-short-name } d’ iarrtas airson seòladh na làraich seo a dhìon leis an fhuasglaiche DNS earbsach againn. Seo dhut na h-adhbharan:
-neterror-dns-not-found-native-fallback-heuristic = Chaidh DNS air HTTPS a chur à comas air an lìonra agad.
-neterror-dns-not-found-native-fallback-not-confirmed2 = Cha b’ urrainn dha { -brand-short-name } ceangal ri { $trrDomain }.
 
 ##
 
@@ -79,8 +65,6 @@ neterror-file-not-found-moved = Saoil an deach am faidhle a ghluasad, a sguabadh
 neterror-access-denied = Dh’fhaoidte gun deach a thoirt air falbh no a ghluasad no gu bheil bacadh air inntrigeadh an cois ceadan an fhaidhle.
 neterror-unknown-protocol = Dh'fhaodadh gum bi agad bathar-bog a bharrachd a stàladh mus fosgail thu an seòladh seo.
 neterror-redirect-loop = Tachraidh seo uaireannan mur eil briosgaidean an comas no 'gan diùltadh.
-neterror-unknown-socket-type-psm-installed = Dèan cinnteach gu bheil manaidsear na tèarainteachd phearsanta air an t-siostam agad.
-neterror-unknown-socket-type-server-config = Dh'fhaodadh seo tachairt an cois rèiteachadh neo-stannardach air an fhrithealaiche.
 neterror-not-cached-intro = Chan eil an sgrìobhainn a dh’iarr thu ri làimh san tasgadan aig { -brand-short-name }.
 neterror-not-cached-sensitive = Air sgàth adhbharan tèarainteachd, cha dèan { -brand-short-name } ath-iarrtas airson sgrìobhainnean cugallach gu fèin-obrachail.
 neterror-not-cached-try-again = Briog air “Feuch ris a-rithist” gus iarrtas eile a chur dhan làrach-lìn airson na sgrìobhainne.

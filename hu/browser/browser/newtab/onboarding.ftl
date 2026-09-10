@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = { $addon-name } hozzáadása
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Haladás: { $current }. / { $total } lépés
 # This button will open system settings to turn on prefers-reduced-motion
@@ -198,11 +192,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = A { -brand-short-name } rögzítése a tálcára és a start menüre
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Kezdje egy nonprofit szervezet által támogatott böngészővel. Megvédjük a magánszféráját, miközben a világhálón böngészik.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -232,57 +221,10 @@ mr2022-onboarding-set-default-subtitle = Használjon egy nonprofit szervezet ál
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = A legfrissebb verziónk Ön köré épül fel, így minden eddiginél egyszerűbb a világhálón szörfölés. Tele van olyan funkciókkal, amelyekről úgy gondoljuk, hogy imádni fog.
 mr2022-onboarding-get-started-primary-button-label = Beállítás másodpercek alatt
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Villámgyors beállítás
-mr2022-onboarding-import-subtitle = Állítsa be úgy a { -brand-short-name }ot, ahogy Önnek tetszik. Adja hozzá könyvjelzőit, jelszavait és egyebeket a régi böngészőjéből.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importálás az előző böngészőből
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Válassza ki azt a színt, amelyik inspirálja
-mr2022-onboarding-colorway-subtitle = A független hangok megváltoztathatják a kultúrát.
-mr2022-onboarding-colorway-primary-button-label-continue = Beállítás és folytatás
-mr2022-onboarding-existing-colorway-checkbox-label = Legyen a { -firefox-home-brand-name } a színes kezdőlapja
-mr2022-onboarding-colorway-label-default = Alapértelmezett
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = A { -brand-short-name } jelenlegi színei
-mr2022-onboarding-colorway-description-default = <b>A { -brand-short-name } jelenlegi színeinek használata.</b>
-mr2022-onboarding-colorway-label-playmaker = Játékmester
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Játékmester (piros)
-mr2022-onboarding-colorway-description-playmaker = <b>Ön a játékmester.</b> Lehetőségeket teremt a győzelemre, és segít feldobni a többiek játékát.
-mr2022-onboarding-colorway-label-expressionist = Expresszionista
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Expresszionista (sárga)
-mr2022-onboarding-colorway-description-expressionist = <b>Ön egy expresszionista.</b> Másképp látja a világot, és alkotásai felkavarják mások érzelmeit.
-mr2022-onboarding-colorway-label-visionary = Látnok
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Látnok (zöld)
-mr2022-onboarding-colorway-description-visionary = <b>Ön egy látnok.</b> Megkérdőjelezi a status quót, és arra késztet másokat, hogy képzeljenek el egy jobb jövőt.
-mr2022-onboarding-colorway-label-activist = Aktivista
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Aktivista (kék)
-mr2022-onboarding-colorway-description-activist = <b>Ön egy aktivista.</b> Jobb állapotban hagyja a világot, mint ahogyan találta, és arra vezet másokat is, hogy higgyenek.
-mr2022-onboarding-colorway-label-dreamer = Álmodozó
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Álmodozó (lila)
-mr2022-onboarding-colorway-description-dreamer = <b>Ön egy álmodozó.</b> Úgy hiszi, hogy bátraké a szerencse, és másokat is bátorságra ösztönöz.
-mr2022-onboarding-colorway-label-innovator = Újító
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Innovátor (narancs)
-mr2022-onboarding-colorway-description-innovator = <b>Ön egy újító.</b> Mindenhol a lehetőségeket látja, és hatással van a körülötte élők életére.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Ugorjon át a laptopjáról a telefonjára és vissza
-mr2022-onboarding-mobile-download-subtitle = Vegyen át lapokat az egyik eszközéről, és folytassa egy másik eszközön ott, ahol abbahagyta. Ezenkívül szinkronizálhatja könyvjelzőit és jelszavait bárhol, ahol { -brand-product-name(case: "accusative") } használ.
 mr2022-onboarding-mobile-download-cta-text = Olvassa le a QR-kódot, hogy megkapja a mobilos { -brand-product-name(case: "accusative") }, vagy <a data-l10n-name="download-label">küldjön magának egy letöltési hivatkozást.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Olvassa le a QR-kódot, hogy beszerezze a { -brand-product-name(case: "accusative") } a mobiljára.
 
@@ -335,15 +277,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Világos bőrű és sötét bőrű kezek pacsiznak
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Kilátás a naplementére egy ablakon keresztül, ahol egy róka és egy szobanövény van az ablakpárkányon
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Egy kézi festékszóró egy zöld szemből, narancssárga cipőből, piros kosárlabdából, lila fejhallgatóból, kék szívből és sárga koronából álló színes kollázst fest.
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Egy róka integetett egy laptop képernyőjén. A laptophoz egér van csatlakoztatva.
 onboarding-device-migration-title = Üdvözöljük újra!
-onboarding-device-migration-subtitle = Jelentkezzen be a { -fxaccount-brand-name }jába, hogy könyvjelzőit, jelszavait és előzményeit magával vigye az új eszközén.
 onboarding-device-migration-subtitle2 = Jelentkezzen be a fiókjába, hogy áthozza a könyvjelzőit, jelszavait és előzményeit az új eszközére.
 onboarding-device-migration-primary-button-label = Bejelentkezés
 
@@ -460,15 +399,12 @@ tab-groups-onboarding-feature-callout-title = Próbálja ki a lapcsoportokat a k
 tab-groups-onboarding-feature-callout-subtitle = Rendszerezzen a lapok egymásra húzásával, hozzon létre így csoportokat.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Bármikor megtalálja a lapcsoportját az Összes lap felsorolása menüben.
-tab-groups-onboarding-create-group-title-2 = Itt bármikor megtalálja a lapcsoportjait.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Találja meg a csoportjait a címsorban keresve.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Ha bezár egy lapcsoportot, akkor bármikor újranyithatja az Összes lap felsorolása menüből.
-tab-groups-onboarding-saved-groups-title-2 = Ha bezár egy lapcsoportot, itt bármikor újra megnyithatja.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Találja meg a bezárt csoportjait a címsorban keresve.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Nyissa meg újra a lapcsoportokat az Összes lap felsorolása menüből.
-tab-groups-onboarding-session-restore-title = Nyissa meg újra a lapcsoportjait itt.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

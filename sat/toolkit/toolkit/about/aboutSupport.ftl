@@ -25,10 +25,6 @@ security-software-name = ᱧᱩᱛᱩᱢ
 security-software-antivirus = ᱮᱱᱴᱤᱵᱷᱟᱭᱨᱚᱥ
 security-software-antispyware = ᱮᱱᱴᱤᱥᱯᱟᱭᱣᱮᱨ
 security-software-firewall = ᱯᱷᱟᱭᱟᱨᱣᱟᱞ
-features-title = { -brand-short-name } ᱯᱷᱤᱪᱚᱨᱠᱚ
-features-name = ᱧᱩᱛᱩᱢ
-features-version = ᱵᱷᱟᱹᱨᱥᱚᱱ
-features-id = ID
 processes-title = ᱨᱤᱢᱚᱴ ᱠᱟᱹᱢᱤᱦᱚᱨᱟᱠᱚ
 processes-type = ᱞᱮᱠᱟ
 processes-count = ᱞᱮᱠᱷᱟ
@@ -54,7 +50,6 @@ app-basics-profile-dir =
         [linux] ᱯᱨᱚᱯᱷᱟᱤᱞ ᱩᱱᱩᱫᱩᱠ ᱯᱩᱛᱷᱤ
        *[other] ᱯᱨᱚᱯᱷᱟᱤᱞ ᱯᱚᱴᱚᱢ
     }
-app-basics-enabled-plugins = ᱦᱩᱭ ᱦᱚᱪᱚᱣᱟᱜ ᱠᱷᱚᱸᱡᱟ ᱟᱫᱮᱨ
 app-basics-build-config = ᱛᱮᱭᱟᱨ ᱨᱮᱭᱟᱜ ᱵᱷᱤᱛᱤᱨ ᱵᱮᱱᱟᱣ
 app-basics-user-agent = ᱵᱮᱵᱷᱟᱨ ᱠᱚᱭᱤᱡ ᱮᱡᱮᱱᱴ
 app-basics-os = OS
@@ -92,9 +87,6 @@ show-dir-label =
 environment-variables-title = ᱥᱟᱪᱟᱨᱦᱮ ᱵᱚᱫᱚᱞᱠᱚ
 environment-variables-name = ᱧᱩᱛᱩᱢ
 environment-variables-value = ᱜᱚᱱᱚᱝ
-experimental-features-title = ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴᱟᱞ ᱯᱷᱤᱪᱚᱨᱠᱚ
-experimental-features-name = ᱧᱩᱛᱩᱢ
-experimental-features-value = ᱜᱚᱱᱚᱝ
 modified-key-prefs-title = ᱢᱚᱦᱚᱛ ᱵᱚᱫᱚᱞᱟᱜ ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ
 modified-prefs-name = ᱧᱩᱛᱩᱢ
 modified-prefs-value = ᱜᱚᱱᱚᱝ
@@ -352,8 +344,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴ ᱛᱮ ᱵᱚᱸᱫ ᱮᱱᱟ
-fission-status-experiment-treatment = ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴ ᱛᱮ ᱮᱢ ᱪᱷᱚ ᱠᱟᱱᱟ
 fission-status-disabled-by-e10s-env = ᱥᱟᱪᱟᱨᱦᱮ ᱞᱮᱠᱷᱟᱛᱮ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
 fission-status-enabled-by-env = ᱥᱟᱪᱟᱨᱦᱮ ᱞᱮᱠᱟᱛᱮ ᱮᱢ ᱠᱟᱱᱟ
 fission-status-disabled-by-env = ᱥᱟᱪᱟᱨᱦᱮ ᱞᱮᱠᱷᱟᱛᱮ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
@@ -362,7 +352,6 @@ fission-status-disabled-by-default = ᱢᱩᱞ ᱞᱮᱠᱟᱛᱮ ᱵᱚᱸᱫ �
 fission-status-enabled-by-user-pref = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱞᱮᱠᱷᱟᱛᱮ ᱮᱢ ᱪᱷᱚ ᱠᱟᱱᱟ
 fission-status-disabled-by-user-pref = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱞᱮᱠᱷᱟᱛᱮ ᱵᱚᱸᱫ ᱪᱷᱚ ᱠᱟᱱᱟ
 fission-status-disabled-by-e10s-other = E10s ᱵᱚᱸᱫ ᱠᱟᱱᱟ
-fission-status-enabled-by-rollout = ᱯᱷᱮᱡ ᱨᱚᱞᱟᱣᱴ ᱛᱮ ᱮᱢ ᱪᱷᱚ ᱠᱟᱱᱟ
 async-pan-zoom = ᱮᱥᱤᱱᱠᱨᱚᱱᱚᱥ ᱯᱮᱱ/ᱡᱩᱢ
 apz-none = ᱵᱟᱹᱱᱩᱜᱼᱟ
 wheel-enabled = ᱪᱚᱠᱟ ᱟᱫᱮᱨ ᱮᱢᱪᱷᱚ ᱠᱟᱱᱟ

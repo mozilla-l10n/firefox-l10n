@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiledowngrade-window2 =
-    .title = 'Ngo versiûn hua rukù 'iaj { -brand-product-name } 'iaj sun ngàt
     .style = min-width: 490px;
+    .title = 'Ngo versiûn hua rukù 'iaj { -brand-product-name } 'iaj sun ngàt
 profiledowngrade-window-create =
     .label = Giri 'ngo Perfîl nakàa
 profiledowngrade-quit =

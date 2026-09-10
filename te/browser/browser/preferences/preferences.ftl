@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = నా జాడ అనుసరించవద్దని ఆశిస్తున్నానని వెబ్‌సైట్లకు తెలిసేలా “ట్రాక్ చెయ్యవద్దు” అనే సూచనను పంపించు
-do-not-track-learn-more = ఇంకా తెలుసుకోండి
-do-not-track-option-default-content-blocking-known =
-    .label = తెలిసిన ట్రాకర్లను నిరోధించేలా { -brand-short-name } అమర్చివున్నప్పుడు మాత్రమే
-do-not-track-option-always =
-    .label = ఎల్లప్పుడూ
 settings-page-title = అమరికలు
 category-nav-heading =
     .heading = అమరికలు
@@ -30,35 +24,15 @@ managed-notice-nav =
 category-list =
     .aria-label = వర్గాలు
 pane-general-title = సాధారణం
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = ముంగిలి
 pane-search-title2 = వెతకడం
     .title = వెతకడం
 pane-privacy-title3 = అంతరంగికత & భద్రత
     .title = అంతరంగికత & భద్రత
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = వెతకడం
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = అంతరంగికత & భద్రత
-pane-privacy-title = అంతరంగికత & భద్రత
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
-category-sync3 =
-    .tooltiptext = { pane-sync-title3 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-pane-experimental-title = { -brand-short-name } ప్రయోగాలు
-category-experimental =
-    .tooltiptext = { -brand-short-name } ప్రయోగాలు
-pane-experimental-subtitle = జాగ్రత్తతో ముందుకెళ్ళండి
-pane-experimental-search-results-header = { -brand-short-name } ప్రయోగాలు: జాగ్రత్తతో ముందుకెళ్ళండి
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = అప్రమేయాలను పునరుద్ధరించు
     .accesskey = R
@@ -66,8 +40,6 @@ help-button-label2 = { -brand-short-name } తోడ్పాటు
     .title = { -brand-short-name } తోడ్పాటు
 addons-button-label2 = పొడగింతలు & అలంకారాలు
     .title = పొడగింతలు & అలంకారాలు
-help-button-label = { -brand-short-name } తోడ్పాటు
-addons-button-label = పొడగింతలు & అలంకారాలు
 focus-search =
     .key = f
 close-button =
@@ -89,28 +61,18 @@ search-results-help-link = సహాయం కావాలా? <a data-l10n-name
 
 ## General Section
 
-startup-header = మొదలవడం
 always-check-default =
     .label = { -brand-short-name } మీ అప్రమేయ విహారిణియేనా అని ఎల్లప్పుడూ పరిశీలించు
     .accesskey = w
-is-default = { -brand-short-name } ప్రస్తుతం మీ అప్రమేయ విహారిణి
-is-not-default = { -brand-short-name } ప్రస్తుతం మీ అప్రమేయ విహారిణి కాదు
-set-as-my-default-browser =
-    .label = అప్రమేయం చేయి…
-    .accesskey = D
 startup-restore-windows-and-tabs =
     .label = మునుపటి కిటికీలను, ట్యాబులను తెరువు
     .accesskey = s
-startup-restore-warn-on-quit =
-    .label = విహారిణిని మూసివేస్తున్నప్పుడు నన్ను హెచ్చరించు
 disable-extension =
     .label = పొడగింతను అచేతనించు
-preferences-manage-profiles-learn-more = ఇంకా తెలుసుకోండి
 preferences-profiles-settings-button =
     .label = అమరికలు
 tabs-group-header2 =
     .label = ట్యాబులు
-tabs-group-header = ట్యాబులు
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab ట్యాబులను వరుసగా కాకుండా వాటిని ఇటీవల వాడిన క్రమంలో చుట్టుతిప్పుతుంది
     .accesskey = T
@@ -123,19 +85,10 @@ ask-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = ఎక్కువ ట్యాబులను తెరిచినప్పుడు { -brand-short-name }‌ నెమ్మదిస్తూంటే నన్ను హెచ్చరించు
     .accesskey = d
-switch-to-new-tabs =
-    .label = మీరు ఏదైనా లంకెను, బొమ్మను, మాధ్యమాలను కొత్త ట్యాబులో తెరిచినప్పుడు, తక్షణమే దానికి మారు
-    .accesskey = h
 show-tabs-in-taskbar =
     .label = ట్యాబు మునుజూపులను విండోస్ టాస్క్‌బారులో చూపించు
     .accesskey = k
-browser-containers-enabled =
-    .label = కంటైనర్ ట్యాబులను చేతనం చేయి
-    .accesskey = n
 browser-containers-learn-more = ఇంకా తెలుసుకోండి
-browser-containers-settings =
-    .label = అమరికలు…
-    .accesskey = i
 containers-disable-alert-title = అన్ని కంటైనర్ ట్యాబులు మూసివేయాలా?
 startup-group =
     .label = మొదలవడం
@@ -171,16 +124,6 @@ containers-remove-cancel-button = ఈ కంటెయినరును తొ�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = భాష, రూపురేఖలు
-preferences-web-appearance-choice-light = లేత
-preferences-web-appearance-choice-dark = చీకటి
-preferences-colors-header = రంగులు
-default-font = అప్రమేయ ఫాంటు
-    .accesskey = D
-default-font-size = పరిమాణం
-    .accesskey = S
-advanced-fonts =
-    .label = ఉన్నతం…
-    .accesskey = A
 # Variables:
 #   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
@@ -198,12 +141,6 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = ఈ మార్పులను ఆపాదించడానికి { -brand-short-name }‌ని పునఃప్రారంభించండి
 confirm-browser-language-change-button = ఆపాదించి పునఃప్రారంభించు
-translate-web-pages =
-    .label = వెబ్ కాంటెంట్ అనువదించు
-    .accesskey = T
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = అనువాదాల సౌజన్యం <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = మినహాయింపులు…
     .accesskey = x
@@ -222,23 +159,6 @@ download-save-files-header =
     .label = ఫైళ్ళను ఇక్కడ భద్రపరచు
 download-save-where-3 =
     .aria-label = ఫైళ్ళను ఇక్కడ భద్రపరచు
-download-header = దింపుకోళ్ళు
-download-save-where = ఫైళ్ళను ఇక్కడ భద్రపరచు
-    .accesskey = v
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] ఎంచుకోండి…
-           *[other] విహరించు…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] o
-        }
-download-always-ask-where =
-    .label = ఫైళ్ళను ఎక్కడ భద్రపరచాలో ప్రతీసారీ అడుగు
-    .accesskey = A
 applications-header = అనువర్తనాలు
 applications-filter =
     .placeholder = ఫైలు రకాన్ని లేదా అనువర్తనాలను వెతకండి
@@ -285,10 +205,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = { $plugin-name } వాడు ({ -brand-short-name }లో)
 applications-open-inapp =
     .label = { -brand-short-name }‌లో తెరువు
 
@@ -296,8 +212,6 @@ applications-open-inapp =
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -317,35 +231,16 @@ applications-use-os-default-label =
 
 drm-group =
     .label = డిజిటల్ హక్కుల నిర్వహణ (DRM) విషయం
-drm-content-header = డిజిటల్ హక్కుల నిర్వహణ (DRM) విషయం
 play-drm-content =
     .label = DRM-నియంత్రిత విషయాన్ని ఆడించు
     .accesskey = P
 play-drm-content-learn-more = ఇంకా తెలుసుకోండి
-update-application-title = { -brand-short-name } తాజాకరణలు
-update-application-description = ఉత్తమ పనితీరు, స్థిరత్వం, భద్రతల కొరకు { -brand-short-name } తాజాగా ఉంచుకోండి.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = సంచిక { $version } <a data-l10n-name="learn-more">కొత్తవి ఏమిటి</a>
 update-history-2 =
     .label = తాజాకరణ చరిత్రను చూపించు
     .accesskey = p
-update-history =
-    .label = తాజాకరణ చరిత్రను చూపించు…
-    .accesskey = p
-update-application-allow-description = వీటికి { -brand-short-name }ని అనుమతించు
-update-application-auto =
-    .label = నవీకరణలను స్వయంచాలితంగా స్థాపించు (సిఫార్సు చేయబడినది)
-    .accesskey = A
-update-application-check-choose =
-    .label = తాజాకరణల కోసం చూస్తుంది కానీ స్థాపించుకోవాలో వద్దో మిమ్నల్ని ఎంచుకోనిస్తుంది
-    .accesskey = C
-update-application-manual =
-    .label = తాజాకరణల కోసం ఎప్పుడూ చూడవద్దు (సిఫారసు చేయము)
-    .accesskey = N
-update-application-use-service =
-    .label = తాజాకరణలను స్థాపించడానికి బ్యాక్‌గ్రౌండ్ సేవను వాడు
-    .accesskey = b
 update-in-progress-title = తాజాకరణ జరుగుతోంది
 update-in-progress-message = { -brand-short-name } ఈ తాజాకరణతో కొనసాగాలని అనుకుంటున్నారా?
 update-in-progress-ok-button = విస్మరించు (&D)
@@ -360,11 +255,6 @@ support-get-help =
 
 ## General Section - Performance
 
-performance-title = పనితనం
-performance-use-recommended-settings-checkbox =
-    .label = సిఫారసు చేయబడిన పనితనపు అమరికలను వాడండి
-    .accesskey = U
-performance-use-recommended-settings-desc = ఈ అమరికలు మీ కంప్యూటర్ హార్డువేర్, ఆపరేటింగ్ వ్యవస్థకు అనుగుణంగా ఉంటాయి.
 performance-settings-learn-more = ఇంకా తెలుసుకోండి
 performance-allow-hw-accel =
     .label = అందుబాటులో ఉన్నప్పుడు హార్డువేర్ యాక్సెలరేషన్ ఉపయోగించు
@@ -381,7 +271,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = విహారణ
 browsing-use-autoscroll =
     .label = స్వయంచాలక స్క్రోలింగ్ వాడు
     .accesskey = a
@@ -397,20 +286,8 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = మీరు టైపుచేయడం ప్రారంభించినప్పటి నుంచి పాఠ్యము‍ కొరకు శోధించు
     .accesskey = x
-browsing-picture-in-picture-learn-more = ఇంకా తెలుసుకోండి
-browsing-media-control-learn-more = ఇంకా తెలుసుకోండి
-browsing-cfr-recommendations-learn-more = ఇంకా తెలుసుకోండి
 browsing-group =
     .label = విహారణ
-
-## General Section - Proxy
-
-network-settings-title = నెట్‌వర్క్ అమరికలు
-network-proxy-connection-description = { -brand-short-name } అంతర్జాలానికి ఎలా అనుసంధానమవ్వాలో స్వరూపించండి.
-network-proxy-connection-learn-more = ఇంకా తెలుసుకోండి
-network-proxy-connection-settings =
-    .label = అమరికలు…
-    .accesskey = e
 
 ## Home Section
 
@@ -461,8 +338,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = జాల వెతుకులాట
-home-prefs-recommended-by-header =
-    .label = { $provider }చే సిఫార్సు చేయబడినది
 
 ##
 
@@ -475,16 +350,8 @@ home-prefs-highlights-options-bookmarks =
     .label = ఇష్టాంశాలు
 home-prefs-highlights-option-most-recent-download =
     .label = ఇటీవలి దింపుకోలు
-home-prefs-highlights-option-saved-to-pocket =
-    .label = { -pocket-brand-name }లో భద్రపరచిన పేజీలు
 home-prefs-recent-activity-header =
     .label = ఇటీవలి కార్యకలాపం
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = సంగతులు
 home-prefs-weather-header =
     .label = వాతావరణం
 home-prefs-weather-learn-more-link = ఇంకా తెలుసుకోండి
@@ -499,32 +366,11 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = శోధన పట్టి
-search-bar-hidden =
-    .label = వెదకడానికీ పేజీలకు వెళ్ళడానికీ చిరునామా పట్టీనే వాడు
-search-bar-shown =
-    .label = పనిముట్లపట్టీలో వెతుకుడు పెట్టెను చూపించు
-search-engine-default-header = అప్రమేయ శోధన యంత్రం
-search-separate-default-engine =
-    .label = అంతరంగిక కిటికీలలో ఈ శోధన యంత్రాన్ని వాడు
-    .accesskey = U
-search-suggestions-header = వెతుకుడు సలహాలు
-search-suggestions-option =
-    .label = వెతుకుడు సలహాలను చూపించు
-    .accesskey = s
 search-show-suggestions-url-bar-option =
     .label = వెతుకుడు సూచనలను చిరునామా పట్టీ ఫలితాలలో చూపించు
     .accesskey = l
 search-suggestions-cant-show-2 =
     .message = స్థాన పట్టీ ఫలితాలలో వెతుకుడు సలహాలను చూపించలేము ఎందుకంటే { -brand-short-name } మీ చరిత్రను ఎప్పుడూ గుర్తుంచుకోకుండా అమర్చుకున్నారు.
-# This string describes what the user will observe when the system
-# prioritizes search suggestions over browsing history in the results
-# that extend down from the address bar. In the original English string,
-# "ahead" refers to location (appearing most proximate to), not time
-# (appearing before).
-search-show-suggestions-above-history-option =
-    .label = చిరునామా పట్టీ ఫలితాలలో విహరణ చరిత్ర కంటే ముుందు వెతుకుడు సూచనలను చూపించు
-search-suggestions-cant-show = స్థాన పట్టీ ఫలితాలలో వెతుకుడు సలహాలను చూపించలేము ఎందుకంటే { -brand-short-name } మీ చరిత్రను ఎప్పుడూ గుర్తుంచుకోకుండా అమర్చుకున్నారు.
 search-choose-engine-column =
     .label = శోధన యంత్రం
 search-choose-keyword-column =
@@ -551,19 +397,6 @@ search-engine-group =
 search-default-engine =
     .aria-label = అప్రమేయ శోధన యంత్రం
 
-## Containers Section
-
-containers-back-button2 =
-    .aria-label = తిరిగి అమరికలకు
-containers-header = కంటైనర్ ట్యాబులు
-containers-add-button =
-    .label = కొత్త కంటెయినరు చేర్చు
-    .accesskey = A
-containers-settings-button =
-    .label = అమరికలు
-containers-remove-button =
-    .label = తొలగించు
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -580,8 +413,6 @@ sync-mobile-promo = మీ మొబైలు పరికరంతో సిం
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = ప్రొఫైల్ చిత్రం మార్చు
 sync-profile-picture-with-alt =
     .alt = ప్రొఫైల్ చిత్రం మార్చు
     .tooltiptext = ప్రొఫైల్ చిత్రం మార్చు
@@ -605,9 +436,6 @@ sync-account-signed-in-display-name =
 
 ##
 
-sync-resend-verification =
-    .label = ధృవీకరణను మళ్ళీ పంపు
-    .accesskey = d
 sync-remove-account =
     .label = ఖాతాను తొలగించు
     .accesskey = R
@@ -619,10 +447,6 @@ sync-sign-in =
 
 prefs-syncing-on = సింక్రనించడం: చేతనం
 prefs-syncing-off = సింక్రనించడం: అచేతనం
-prefs-sync-now =
-    .labelnotsyncing = ఇప్పుడే సింక్రనించు
-    .labelsyncing = సింక్రనిస్తోంది…
-    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = ఇప్పుడే సింక్రనించు
     .accesskey = N
@@ -640,16 +464,11 @@ prefs-syncing-button-2 =
 sync-currently-syncing-bookmarks = ఇష్టాంశాలు
 sync-currently-syncing-history = చరిత్ర
 sync-currently-syncing-tabs = తెరిచివున్న ట్యాబులు
-sync-currently-syncing-logins-passwords = ప్రవేశాలు, సంకేతపదాలు
 sync-currently-syncing-passwords = సంకేతపదాలు
 sync-currently-syncing-addresses = చిరునామాలు
-sync-currently-syncing-creditcards = క్రెడిట్ కార్డులు
 sync-currently-syncing-payment-methods = చెల్లింపు పద్ధతులు
 sync-currently-syncing-addons = పొడిగింతలు
 sync-currently-syncing-settings = అమరికలు
-sync-change-options =
-    .label = మార్చు…
-    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
@@ -663,18 +482,10 @@ sync-engine-tabs =
     .label = తెరిచివున్న ట్యాబులు
     .tooltiptext = సింకైన అన్ని పరికరాల్లో తెరిచివున్న వాటి జాబితా
     .accesskey = T
-sync-engine-logins-passwords =
-    .label = ప్రవేశాలు, సంకేతపదాలు
-    .tooltiptext = మీరు భద్రపరచిన వాడుకరి పేర్లు, సంకేతపదాలు
-    .accesskey = L
 sync-engine-addresses =
     .label = చిరునామాలు
     .tooltiptext = మీరు భద్రపరచుకొన్న తపాలా చిరునామా (డెస్క్‌టాప్ మాత్రమే)
     .accesskey = e
-sync-engine-creditcards =
-    .label = క్రెడిట్ కార్డులు
-    .tooltiptext = పేర్లూ, నెంబర్లూ, కాల పరిమితి తేదీలు (డెస్క్‌టాపులో మాత్రమే)
-    .accesskey = C
 sync-engine-payment-methods2 =
     .label = చెల్లింపు పద్ధతులు
     .tooltiptext = పేర్లు, కార్డు నెంబర్లు, కాలంచెల్లు తేదీలు
@@ -714,29 +525,9 @@ sync-connect-another-device = మరొక పరికరాన్ని అన
 sync-connect-another-device-2 =
     .label = మరొక పరికరాన్ని అనుసంధానించు
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = నిర్ధారణ పంపబడింది
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = ఒక నిర్ధారణ లింకు { $email } కు పంపబడింది.
-sync-verification-not-sent-title = నిర్ధారణను పంపలేకపోయాం
-sync-verification-not-sent-body = ఈ సమయంలో నిర్ధారణ మెయిలుని పంపించలేకపోతున్నాం, దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.
-
 ## Privacy Section
 
 privacy-header = విహరిణి గోప్యత
-
-## Privacy Section - Logins and Passwords
-
-# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = ప్రవేశాలు & సంకేతపదాలు
-    .searchkeywords = { -lockwise-brand-short-name }
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = సైట్ల ప్రవేశాలూ, సంకేతపదాలు భద్రపరచుకోడానికి అడుగు
-    .accesskey = r
 
 ## Privacy Panel Settings
 
@@ -747,13 +538,6 @@ forms-exceptions =
     .label = మినహాయింపులు…
     .accesskey = x
 forms-breach-alerts-learn-more-link = ఇంకా తెలుసుకోండి
-# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
-forms-fill-logins-and-passwords =
-    .label = ప్రవేశాలను, సంకేతపదాలను స్వయంచాలకంగా పూరించు
-    .accesskey = i
-forms-saved-logins =
-    .label = భద్రపరచిన ప్రవేశాలు…
-    .accesskey = L
 forms-primary-pw-use =
     .label = ప్రధాన సంకేతపదాన్ని వాడు
     .accesskey = U
@@ -792,32 +576,12 @@ addresses-delete-address-prompt-cancel-button = రద్దుచేయి
 
 ## Privacy Section - History
 
-history-header = చరిత్ర
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name }
-    .accesskey = w
-history-remember-option-all =
-    .label = చరిత్రను గుర్తుపెట్టుకుంటుంది
-history-remember-option-never =
-    .label = ఎప్పుడూ చరిత్రను గుర్తుపెట్టుకోదు
-history-remember-option-custom =
-    .label = చరిత్ర కోసం అభిమత అమరికలు వాడుతుంది
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } మీ విహరణ, దింపుకోళ్ళ, ఫారాల, వెతుకులాటల చరిత్రను గుర్తుపెట్టుకుంటుంది.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } గోప్య వీక్షణం అమరికలనే వాడుతుంది మరియు మీ వీక్షణ చరిత్రని గుర్తుంచుకోదు.
-history-remember-description = { -brand-short-name } మీ విహరణ, దింపుకోళ్ళ, ఫారాల, వెతుకులాటల చరిత్రను గుర్తుపెట్టుకుంటుంది.
-history-dontremember-description = { -brand-short-name } గోప్య వీక్షణం అమరికలనే వాడుతుంది మరియు మీ వీక్షణ చరిత్రని గుర్తుంచుకోదు.
 history-private-browsing-permanent =
     .label = ఎల్లప్పుడూ ఆంతరంగిక విహారణ రీతిని వాడు
     .accesskey = p
@@ -845,34 +609,14 @@ history-mode-radio-group =
 
 ## Privacy Section - Site Data
 
-sitedata-header = కుకీలు, సైటు డేటా
 sitedata-total-size-calculating = సైటు దత్తాంశం, కాషెల పరిమాణాన్ని లెక్కిస్తున్నాం…
 sitedata-learn-more = మరింత తెలుసుకోండి
-sitedata-delete-on-close =
-    .label = { -brand-short-name }‌ను మూసివేసినపుడు కుకీలను, సైటు డేటాను తొలగించు
-    .accesskey = c
-sitedata-allow-cookies-option =
-    .label = కుకీలను, సైటు డేటాను అంగీకరించు
-    .accesskey = A
-sitedata-disallow-cookies-option =
-    .label = కుకీలను, సైటు డేటాను నిరోధించు
-    .accesskey = B
-# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
-# The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = నిరోధించిన రకం
-    .accesskey = T
 sitedata-option-block-cross-site-trackers =
     .label = క్రాస్-సైట్ ట్రాకర్లు
 sitedata-option-block-unvisited =
     .label = చూడని వెబ్‌సైట్ల కుకీలు
 sitedata-option-block-all =
     .label = కుకీలన్నీ (వెబ్‌సైట్లు పనిచేయకపోడానికి కారణమవుతుంది)
-sitedata-clear =
-    .label = డేటాను తుడిచివేయి…
-    .accesskey = l
-sitedata-settings =
-    .label = డేటాని నిర్వహించండి…
-    .accesskey = M
 sitedata-cookies-exceptions =
     .label = మినహాయింపులను నిర్వహించండి…
     .accesskey = x
@@ -885,8 +629,6 @@ cookie-banner-learn-more = ఇంకా తెలుసుకోండి
 
 ## Search Section
 
-addressbar-header = చిరునామా పట్టీ
-addressbar-suggest = చిరునామా పట్టీ వాడుతునప్పుడు, వీటి నుండి సూచించు
 addressbar-locbar-history-option =
     .label = విహరణ చరిత్ర
     .accesskey = H
@@ -902,8 +644,6 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-quickactions-option =
     .label = త్వరిత చర్యలు
     .accesskey = Q
-addressbar-suggestions-settings = సెర్చింజను సూచనల అభిరుచులను మార్చండి
-addressbar-quickactions-learn-more = ఇంకా తెలుసుకోండి
 
 ## Privacy Section - Content Blocking
 
@@ -934,7 +674,6 @@ content-blocking-unvisited-cookies = చూడని సైట్ల నుం�
 content-blocking-cryptominers = క్రిప్టోమైనర్లు
 content-blocking-fingerprinters = ఫింగర్‌ప్రింటర్లు
 content-blocking-etp-standard-tcp-rollout-learn-more = ఇంకా తెలుసుకోండి
-content-blocking-warning-title = గమనిక!
 content-blocking-warning-learn-how = ఎలానో తెలుసుకోండి
 content-blocking-reload-description = ఈ మార్పులను వర్తింపజేయడానికి మీ ట్యాబులను మళ్ళీ లోడు చేయాలి.
 content-blocking-reload-tabs-button =
@@ -949,7 +688,6 @@ content-blocking-tracking-protection-option-all-windows =
 content-blocking-option-private =
     .label = అంతరంగిక కిటికీలలో మాత్రమే
     .accesskey = p
-content-blocking-tracking-protection-change-block-list = నిరోధపు జాబితాను మార్చు
 content-blocking-cookies-label =
     .label = కుకీలు
     .accesskey = C
@@ -959,11 +697,6 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = క్రిప్టోమైనర్లు
     .accesskey = y
-# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
-# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
-content-blocking-fingerprinters-label =
-    .label = ఫింగర్‌ప్రింటర్లు
-    .accesskey = F
 
 ## Privacy Section - Tracking
 
@@ -973,54 +706,11 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = అనుమతులు
-permissions-location = స్థానము
-permissions-location-settings =
-    .label = అమరికలు…
-    .accesskey = I
-permissions-xr-settings =
-    .label = అమరికలు…
-    .accesskey = t
-permissions-camera = కెమేరా
-permissions-camera-settings =
-    .label = అమరికలు…
-    .accesskey = c
-permissions-microphone = మైక్రోఫోను
-permissions-microphone-settings =
-    .label = అమరికలు…
-    .accesskey = m
-permissions-speaker-settings =
-    .label = అమరికలు…
-    .accesskey = t
-permissions-notification = గమనింపులు
-permissions-notification-settings =
-    .label = అమరికలు…
-    .accesskey = n
-permissions-notification-link = ఇంకా తెలుసుకోండి
 permissions-notification-pause =
     .label = { -brand-short-name } పునఃప్రారంభమయ్యే వరకూ గమనింపులను నిలిపివేయి
     .accesskey = n
 permissions-autoplay2 =
     .label = స్వీయారంభం
-permissions-autoplay = స్వీయారంభం
-permissions-autoplay-settings =
-    .label = అమరికలు…
-    .accesskey = t
-permissions-block-popups =
-    .label = పాప్-అప్ విండోలను నిరోధించు
-    .accesskey = B
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button =
-    .label = మినహాయింపులు…
-    .searchkeywords = popups
-    .accesskey = E
-permissions-addon-install-warning =
-    .label = జాలగూడులు పొడిగింతలను స్థాపించుటకు ప్రయత్నించినపుడు నిన్ను హెచ్చరించును
-    .accesskey = W
-permissions-addon-exceptions =
-    .label = మినహాయింపులు…
-    .accesskey = E
 permissions-location2 =
     .label = స్థానము
 permissions-camera2 =
@@ -1032,18 +722,6 @@ permissions-notification2 =
 
 ## Privacy Section - Data Collection
 
-collection-header = { -brand-short-name } డేటా సేకరణ, వాడుక
-collection-privacy-notice = గోప్యతా విధానం
-collection-health-report-telemetry-disabled-link = ఇంకా తెలుసుకోండి
-collection-health-report =
-    .label = సాంకేతిక, ఇంటరాక్షన్ డేటాను { -vendor-short-name }‌కి పంపించుటకు { -brand-short-name }‌ని అనుమతించు
-    .accesskey = r
-collection-health-report-link = ఇంకా తెలుసుకోండి
-collection-studies-link = { -brand-short-name } అథ్యయనాలను చూడండి
-addon-recommendations-link = ఇంకా తెలుసుకోండి
-# This message is displayed above disabled data sharing options in developer builds
-# or builds with no Telemetry support available.
-collection-health-report-disabled = ఈ బిల్డ్ కాన్ఫిగరేషన్ కోసం డేటా రిపోర్టింగ్ నిలిపివేయబడింది
 data-collection-studies-link =
     .label = { -brand-short-name } అథ్యయనాలను చూడండి
 
@@ -1053,7 +731,6 @@ data-collection-studies-link =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = భద్రత
-security-browsing-protection = మోసపూరిత జాల విషయం, ప్రమాదకరమైన సాఫ్ట్‌వేరు నుండి రక్షణ
 security-enable-safe-browsing =
     .label = ప్రమాదకరమైన, మోసపూరిత కంటెంటును నిరోధించు
     .accesskey = B
@@ -1067,27 +744,10 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = ధృవీకరణ పత్రాలు
-certs-enable-ocsp =
-    .label = ధృవీకరణపత్రాల ప్రస్తుత ప్రమాణతను నిర్థారించుటకు OCSP రెస్పాండర్ సేవికలను ప్రశ్నిస్తుంది
-    .accesskey = Q
-certs-view =
-    .label = ధృవీకరణ పత్రాలను చూడండి…
-    .accesskey = C
-certs-devices =
-    .label = రక్షణ పరికరాలు…
-    .accesskey = D
 certs-devices-enable-fips = FIPS చేతనంచేయి
 space-alert-over-5gb-settings-button =
     .label = అమరికలను తెరువు
     .accesskey = O
-
-## Privacy Section - HTTPS-Only
-
-httpsonly-header = HTTPS-మాత్రమే రీతి
-httpsonly-learn-more = ఇంకా తెలుసుకోండి
-httpsonly-radio-disabled =
-    .label = HTTPS-మాత్రమే రీతిని చేతనం చేయవద్దు
 
 ## DoH Section
 
@@ -1099,7 +759,6 @@ preferences-doh-status = స్థితి: { $status }
 
 desktop-folder-name = డెస్కుటాప్
 downloads-folder-name = దింపుకోళ్ళు
-choose-download-folder-title = దింపుకోళ్ళ సంచయాన్ని తెరువు:
 
 ## AI controls page
 

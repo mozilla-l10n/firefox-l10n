@@ -49,7 +49,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Рамзёбии маълумот ({ $pid })
 about-processes-socket-process = Шабака ({ $pid })
-about-processes-remote-sandbox-broker-process = Миёнрави дурдасти минтақаи санҷишӣ ({ $pid })
 about-processes-fork-server-process = Сервери «Форк» ({ $pid })
 about-processes-preallocated-process = Пешакӣ ҷойгиршуда ({ $pid })
 about-processes-utility-process = Барномаи пуштибонӣ ({ $pid })
@@ -73,17 +72,6 @@ about-processes-web-isolated-property-with-coop-coep = равандҳои маҳ
 ##    $properties (String) A formatted list of properties from the above strings.
 
 about-processes-web-isolated-process2 = { $origin } ({ $properties })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, «serviceworker»)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, муҳити ҷудошудаи манбаъҳо)
-about-processes-web-isolated-process-private = { $origin } — Хусусӣ ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } — Хусусӣ ({ $pid }, муҳити ҷудошудаи манбаъҳо)
 
 ## Details within processes
 

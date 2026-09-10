@@ -5,18 +5,12 @@
 
 ### These strings are used inside the about:debugging UI.
 
-
-# Page Title strings
-
 # Page title (ie tab title) for the Setup page
 about-debugging-page-title-setup-page = اشکال‌زدایی - برپاسازی
 # Page title (ie tab title) for the Runtime page
 # Variables:
 #   $selectedRuntimeId - ID of the current runtime, such as "this-firefox", "localhost:6080", etc.
 about-debugging-page-title-runtime-page = اشکال‌زدایی - زمان اجرا / { $selectedRuntimeId }
-
-# Sidebar strings
-
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = این { -brand-shorter-name }
@@ -68,9 +62,6 @@ about-debugging-sidebar-runtime-item-name =
 #   $displayName (string) - Displayed name
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
-
-# Setup Page strings
-
 # USB section of the Setup page (USB status)
 about-debugging-setup-usb-status-enabled = به کار افتاده
 about-debugging-setup-usb-status-disabled = از کار افتاده
@@ -81,9 +72,6 @@ about-debugging-network-locations-host-input-label = میزبان
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = برداشتن
-
-# Runtime Page strings
-
 # Title of the tabs category.
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-tabs =
@@ -115,9 +103,6 @@ about-debugging-runtime-name = { $name } ({ $version })
 about-debugging-runtime-disconnect-button = قطع اتصال
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = نمایه‌ساز
-
-# Debug Targets strings
-
 # Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...

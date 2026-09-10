@@ -50,7 +50,6 @@ about-processes-gpu-process = Grafický procesor ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Dekodér údajov ({ $pid })
 about-processes-socket-process = Sieť ({ $pid })
-about-processes-remote-sandbox-broker-process = Broker vzdialeného sandboxu ({ $pid })
 about-processes-fork-server-process = Fork Server ({ $pid })
 about-processes-preallocated-process = Vopred pridelený ({ $pid })
 about-processes-utility-process = Utilita ({ $pid })
@@ -74,17 +73,6 @@ about-processes-web-isolated-property-with-coop-coep = izolovaný cross-origin
 ##    $properties (String) A formatted list of properties from the above strings.
 
 about-processes-web-isolated-process2 = { $origin } ({ $properties })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, izolovaný kvôli cross-origin)
-about-processes-web-isolated-process-private = { $origin } — súkromný ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } — súkromný ({ $pid }, izolovaný kvôli cross-origin)
 
 ## Details within processes
 

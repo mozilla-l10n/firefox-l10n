@@ -118,4 +118,3 @@ certificate-viewer-tab-mine = Taq Ruwujil Ab'i'
 certificate-viewer-tab-people = Winaqi'
 certificate-viewer-tab-servers = Taq ruk'u'x samaj
 certificate-viewer-tab-ca = K'amöl taq b'ey
-certificate-viewer-tab-unkonwn = Man etaman ta ruwäch

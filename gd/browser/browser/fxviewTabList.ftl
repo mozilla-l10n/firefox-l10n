@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxviewtabrow-open-menu-button =
-    .title = Fosgail an clàr-taice
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
@@ -24,10 +22,6 @@ fxviewtabrow-dismiss-tab-button =
     .title = Leig seachad { $tabTitle }
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = An-dràsta fhèin
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-delete = Sguab às
     .accesskey = S
 fxviewtabrow-forget-about-this-site = Dìochuimhnich an làrach seo…
@@ -53,8 +47,6 @@ fxviewtabrow-move-tab-end = Gluais gun deireadh
     .accesskey = G
 fxviewtabrow-move-tab-window = Gluais gu uinneag ùr
     .accesskey = G
-fxviewtabrow-send-tab = Cuir an taba gu uidheam
-    .accesskey = C
 fxviewtabrow-pin-tab = Prìnich an taba
     .accesskey = P
 fxviewtabrow-unpin-tab = Dì-phrìnich an taba

@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Activar Warp, un proyecto para mejor
 experimental-features-ime-search =
     .label = Barra de direcciones: mostrar resultados durante la composición IME
 experimental-features-ime-search-description = Una IME (Input Method Editor) es una herramienta que le permite escribir símbolos complejos, como los que se usan en los idiomas escritos del índico o Asia oriental, utilizando un teclado estándar. Activar este experimento mantendrá abierto el panel de la barra de direcciones, mostrando resultados de búsqueda y sugerencias, mientras se usa IME para escribir texto. Tenga en cuenta que el IME puede mostrar un panel que cubre los resultados de la barra de direcciones, por lo que se recomienda el uso de esta preferencia solo si el IME no usa este tipo de panel.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Picture-in-Picture: abrir automáticamente al cambiar de pestaña
-experimental-features-auto-pip-description = Activar Picture-in-Picture en vídeos activos al cambiar de pestañas.
 experimental-features-group-developer-tools =
     .label = Herramientas para desarrolladores
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Productividad
 experimental-features-group-newtab-widgets =
     .label = Widgets en { -firefox-home-brand-name }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Contraseñas en la barra lateral
-experimental-features-contextual-password-manager-description = Acceda a sus contraseñas directamente desde la barra lateral. Evite la búsqueda y el restablecimiento de contraseñas al intentar iniciar sesión. Para utilizar esta función, seleccione Contraseñas en la barra lateral. A continuación, diríjase a la configuración general y, bajo Diseño del navegador, elija Mostrar barra lateral. Posteriormente, personalice la barra lateral seleccionando Contraseñas. Si decide probarlo, <a data-l10n-name="connect">háganos saber su opinión</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Elegir un fondo de pantalla o color personalizado para la nueva pestaña

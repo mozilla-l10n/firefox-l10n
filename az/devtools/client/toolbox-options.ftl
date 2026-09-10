@@ -45,14 +45,10 @@ options-sourceeditor-keybinding-default-label = Standart
 
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Təkmilləşmiş tənzimləmələr
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = JavaScript-i söndür *
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Səyyah chrome-u və əlavə sazlama alət qutularını aktivləşdir
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Uzaq sazlamanı aktivləşdir
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Ancaq bu sessiyada, səhifəni yenidən yükləyir
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

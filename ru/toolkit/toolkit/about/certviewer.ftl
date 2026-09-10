@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = Ваши сертификаты
 certificate-viewer-tab-people = Люди
 certificate-viewer-tab-servers = Серверы
 certificate-viewer-tab-ca = Центры сертификации
-certificate-viewer-tab-unkonwn = Неизвестно

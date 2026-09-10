@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Hľadať v heslách
-    .key = F
     .aria-label = Hľadať v heslách
+    .key = F
+    .placeholder = Hľadať v heslách
 contextual-manager-menu-more-options-button =
     .title = Ďalšie možnosti
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Importovať zo súboru…
 contextual-manager-passwords-command-export = Exportovať heslá
 contextual-manager-passwords-command-remove-all = Odstrániť všetky heslá
 contextual-manager-passwords-command-options = Možnosti
-contextual-manager-passwords-command-settings = Nastavenia
 contextual-manager-passwords-command-help = Pomocník
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Heslá boli importované
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Nové: { $added }, aktualizované: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -230,8 +225,6 @@ contextual-manager-passwords-create-label =
     .label = Pridať heslo
 contextual-manager-passwords-update-label =
     .label = Aktualizovať heslo
-contextual-manager-passwords-edit-label =
-    .label = Upraviť heslo
 contextual-manager-passwords-remove-label =
     .title = Odstrániť heslo
 contextual-manager-passwords-origin-field =
@@ -247,7 +240,6 @@ contextual-manager-passwords-password-field-description = Zadajte heslo na prihl
 contextual-manager-passwords-origin-tooltip = Zadajte presnú adresu, na ktorej sa budete prihlasovať na túto stránku.
 contextual-manager-passwords-username-tooltip = Zadajte používateľské meno, e‑mailovú adresu alebo číslo účtu, ktoré používate na prihlásenie.
 contextual-manager-passwords-password-tooltip-2 = Zadajte heslo na prihlásenie do tohto účtu.
-contextual-manager-passwords-password-tooltip = Zadajte heslo používané na prihlásenie do tohto účtu.
 
 ## Password Card
 
@@ -294,10 +286,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Kopírovať heslo (upozornenie)
 contextual-manager-edit-login-button = Upraviť
     .tooltiptext = Upraviť heslo
-contextual-manager-view-alert-heading =
-    .heading = Zobraziť upozornenie
-contextual-manager-view-alert-button =
-    .tooltiptext = Skontrolovať upozornenie
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -330,13 +318,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Neboli nájdené žiadne heslá
 contextual-manager-passwords-no-passwords-found-message-2 = Skúste iný výraz a vyhľadajte znova.
-contextual-manager-passwords-no-passwords-found-message = Nenašli sa žiadne heslá. Vyhľadajte iný výraz a skúste to znova.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Uložte si heslá na bezpečné miesto.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Všetky heslá sú šifrované, a navyše pre vás budeme sledovať úniky údajov a upozorníme vás, ak sa vás to týka.

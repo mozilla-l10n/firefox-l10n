@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Bạn hiện đang ở chế độ FIPS. F
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Đặt lại mật khẩu chính
     .style = min-width: 40em
+    .title = Đặt lại mật khẩu chính
 reset-password-button-label =
     .label = Đặt lại
 reset-primary-password-text = Nếu bạn đặt lại mật khẩu chính, toàn bộ các mật khẩu web, email, dữ liệu biểu mẫu, chứng chỉ và khóa cá nhân đã lưu sẽ bị xóa. Bạn có chắc muốn đặt lại mật khẩu chính của mình không?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Đã đặt lại mật khẩu chí
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Đang tải Chứng chỉ
     .style = min-width: 46em
+    .title = Đang tải Chứng chỉ
 download-cert-message = Bạn được hỏi có tin tưởng một CA (Bên thẩm định Chứng chỉ) mới hay không.
 download-cert-trust-ssl =
     .label = Tin CA này để nhận diện các trang web.
@@ -52,8 +52,6 @@ download-cert-view-text = Kiểm định chứng chỉ của CA
 
 client-auth-window =
     .title = Yêu cầu Nhận diện Người dùng
-client-auth-site-description = Trang này yêu cầu bạn tự nhận diện chính mình với một chứng chỉ:
-client-auth-choose-cert = Chọn một chứng chỉ để thực hiện việc nhận diện này:
 client-auth-send-no-certificate =
     .label = Không gửi chứng chỉ
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Vui lòng xác thực với thiết bị bảo mật ({ $tokenName }). Cách thực hiện tùy thuộc vào thiết bị (ví dụ: sử dụng đầu đọc vân tay hoặc nhập mã bằng bàn phím).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Vui lòng xác thực với token “{ $tokenName }”. Cách thực hiện tùy thuộc vào token (ví dụ: sử dụng đầu đọc dấu vân tay hoặc nhập mã bằng bàn phím).

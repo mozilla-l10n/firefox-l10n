@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = Ver la información del sitiu
 
@@ -17,11 +12,6 @@ urlbar-web-rtc-share-screen-notification-anchor =
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Atroxar datos nel almacenamientu persistente
 urlbar-search-tips-confirm = D'acuerdu, entendílo
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Conseyu:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -54,8 +44,6 @@ urlbar-screen-blocked =
     .tooltiptext = Bloquiesti la compartición de pantalles pa esti sitiu web.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Bloquiesti l'almacenamientu permanente pa esti sitiu.
-urlbar-popup-blocked =
-    .tooltiptext = Bloquiesti los ventanos emerxentes d'esti sitiu web.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Bloquiesti la reproducción automática con soníu pa esti sitiu web
 urlbar-canvas-blocked =
@@ -166,16 +154,13 @@ identity-custom-root = La conexón verificóse con un emisor de certificaos que 
 identity-passive-loaded = Partes d'esta páxina nun son segures (como les imáxenes).
 identity-active-loaded = Desactivesti la proteición nesta páxina.
 identity-weak-encryption = Esta páxina usa un cifráu feble.
-identity-insecure-login-forms = Les cuentes introducíes nesta páxina podríen tar en riesgu.
 identity-https-only-connection-upgraded = (anovóse a HTTPS)
-identity-https-only-label = Mou de namás HTTPS
 identity-https-only-dropdown-on =
     .label = Sí
 identity-https-only-dropdown-off =
     .label = Non
 identity-https-only-dropdown-off-temporarily =
     .label = Non, temporalmente
-identity-https-only-info-turn-on2 = Activa'l mou de namás HTTPS pa esti sitiu si quies que { -brand-short-name } anueve la conexón cuando seya posible.
 identity-https-only-info-no-upgrade = Nun ye posible anovar la conexón a HTTPS.
 identity-permissions-storage-access-header = Cookies ente sitios
 identity-permissions-storage-access-hint = Terceros puen usar cookies ente sitios y datos del sitiu mentanto tas nelli.
@@ -198,12 +183,6 @@ identity-description-passive-loaded-insecure2 = Esti sitiu web inclúi conteníu
 identity-description-passive-loaded-mixed2 = Magar que { -brand-short-name } bloquió dalgún conteníu, entá hai conteníu na páxina que nun ye seguru (como imáxenes).
 identity-description-active-loaded = Esti sitiu web inclúi conteníu que nun ye seguru (como los scripts) y la conexón a elli nun ye privada.
 identity-description-active-loaded-insecure = La información que compartas con esti sitiu podríen vela otros (contraseñes, mensaxes, tarxetes de creitu, etc.).
-identity-disable-mixed-content-blocking =
-    .label = Desactivar la proteición pel momentu
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = Activar la proteición
-    .accesskey = A
 identity-more-info-link-text =
     .label = Más información
 
@@ -215,40 +194,6 @@ browser-window-maximize-button =
     .tooltiptext = Maximizar
 browser-window-close-button =
     .tooltiptext = Zarrar
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = EN REPRODUCCIÓN
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = AUDIU DESACTIVÁU
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = REPROD. AUTO. BLOQUIADA
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = IMAXE SOBRE IMAXE
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] DESACTIVAR L'AUDIU
-        [one] DESACTIVAR L'AUDIU
-       *[other] DESACTIVAR L'AUDIU DE { $count } LLINGÜETES
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] ACTIVAR L'AUDIU
-        [one] ACTIVAR L'AUDIU
-       *[other] ACTIVAR L'AUDIU DE { $count } LLINGÜETES
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] REPRODUCIR LA LLINGÜETA
-        [one] REPRODUCIR LA LLINGÜETA
-       *[other] REPRODUCIR { $count } LLINGÜETES
-    }
 
 ## Bookmarks toolbar items
 
@@ -292,8 +237,6 @@ urlbar-extension =
     .value = Estensión:
 urlbar-go-button2 =
     .title = Dir a la direición de la barra de direiciones
-urlbar-go-button =
-    .tooltiptext = Dir a la direición de la barra de direiciones
 urlbar-page-action-button =
     .tooltiptext = Aiciones de la páxina
 
@@ -311,20 +254,6 @@ urlbar-result-action-switch-tab = Dir pa la llingüeta
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Buscar en «{ $engine }» direutamente dende la barra de direiciones
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
-
-## Strings used for buttons in the urlbar
-
-urlbar-searchmode-bookmarks =
-    .label = Marcadores
-urlbar-searchmode-tabs =
-    .label = Llingüetes
-urlbar-searchmode-history =
-    .label = Historial
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -406,14 +335,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Marcadores
-library-recent-activity-title =
-    .value = Actividá recién
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Guardar en { -pocket-brand-name }
-    .tooltiptext = Guardar en { -pocket-brand-name }
 
 ##
 
@@ -460,7 +381,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = E
 
 ## Password save/update panel
 
-panel-save-update-password = Contraseña
 panel-save-update-password-2 =
     .label = Contraseña
 
@@ -481,8 +401,6 @@ navbar-accessible =
     .aria-label = Navegación
 navbar-downloads =
     .label = Descargues
-navbar-overflow =
-    .tooltiptext = Más ferramientes…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

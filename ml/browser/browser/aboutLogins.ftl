@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = പ്രവേശണങ്ങളും ഒളിവാക്കുകളും
-about-logins-login-filter =
-    .placeholder = പ്രവേശണങ്ങൾ തിരയുക
-    .key = F
-create-new-login-button =
-    .title = പുതിയ പ്രവേശിക്കലുണ്ടാക്കുക
 about-logins-page-title-name = ഒളിവാക്കുകൾ
 about-logins-login-filter2 =
-    .placeholder = ഒളിവാക്കുകൾ തിരയുക
     .key = F
+    .placeholder = ഒളിവാക്കുകൾ തിരയുക
 create-login-button =
     .title = ഒളിവാക്കു് ചേർക്കുക
 fxaccounts-sign-in-text = താങ്ങളുടെ മറ്റ് ഉപകരണങ്ങളിൽ ഒളിവാക്കുകൾ നേടുക
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = മറ്റൊരു അന്വേഷിയന്ത്രം നിന്ന് ഇറക്കുമതിക്കുക.
 about-logins-menu-menuitem-import-from-a-file = ഒരു ഫയലിൽ നിന്നു്  ഇറക്കുമതി ചെയ്യുക…
-about-logins-menu-menuitem-export-logins = പ്രവേശിക്കലുകൾ കയറ്റുമതി ചെയ്യുക
-about-logins-menu-menuitem-remove-all-logins = എല്ലാ പ്രവേശിക്കലുകളും മായ്ക്കുക
 about-logins-menu-menuitem-export-logins2 = ഒളിസൂചകപദം കയറ്റുമതി ചെയ്യുക
 about-logins-menu-menuitem-remove-all-logins2 = എല്ലാ ഒളിവാക്കുകൾ മായ്ക്കുക
 menu-menuitem-preferences =
@@ -42,21 +34,6 @@ about-logins-menu-menuitem-help = പിന്തുണ
 
 login-list =
     .aria-label = തിരയൽ അന്വേഷണവുമായി പൊരുത്തപ്പെടുന്ന ലോഗിനുകൾ
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } പ്രവേശിക്കൽ
-       *[other] { $count } പ്രവേശിക്കലുകൾ
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $total }-  പ്രവേശിക്കലിന്റെ { $count }
-       *[other] { $total } പ്രവേശിക്കലുകളുടെ { $count }
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -80,14 +57,10 @@ login-list-username-reverse-option = ഉപയോക്തൃപ്പേരു�
 about-logins-login-list-alerts-option = മുന്നറിയിപ്പുകൾ
 login-list-last-changed-option = ഏറ്റവും ഒടുവില്‍ മാറ്റം വരുത്തിയതു്
 login-list-last-used-option = അവസാനം ഉപയോഗിച്ചത്
-login-list-intro-title = പ്രവേശനങ്ങള്‍ ഒന്നും കണ്ടില്ല
 login-list-intro-title2 = ഒരു ഒളിവാക്കും കരുതിവച്ചിട്ടില്ല
 login-list-intro-description = { -brand-product-name } ൽ താങ്ങൾ ഒരു ഒളിവാക്കു് സംരക്ഷിക്കുമ്പോൾ, അതു് ഇവിടെ കാണിക്കും.
-about-logins-login-list-empty-search-title = പ്രവേശനങ്ങള്‍ ഒന്നും കണ്ടില്ല
 about-logins-login-list-empty-search-title2 = ഒളിവാക്കുകൾ കണ്ടെത്താൻ പറ്റിയില്ല
 about-logins-login-list-empty-search-description = നിങ്ങളുടെ തിരയലുമായി പൊരുത്തപ്പെടുന്ന ഫലങ്ങളൊന്നുമില്ല.
-login-list-item-title-new-login = പുതിയ പ്രവേശണം
-login-list-item-subtitle-new-login = നിങ്ങളുടെ പ്രവേശിക്കൽവിവശദാംശംങ്ങൾ നൽകുക
 login-list-item-title-new-login2 = ഒളിവാക്കു് ചേർക്കുക
 login-list-item-subtitle-missing-username = (ഉപയോക്തൃനാമമില്ല)
 about-logins-list-item-breach-icon =
@@ -103,27 +76,19 @@ about-logins-list-section-week = കഴിഞ്ഞ 7 ദിവസങ്ങൾ
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = താങ്ങളുടെ കരുതിവച്ച പ്രവേശിക്കലുകൾക്കായി തേടുകയാണോ? സമന്വയം തുടങ്ങി വയ്ക്കുക അല്ലെങ്കിൽ അവരെ ഇറക്കുമതിക്കുക.
-about-logins-login-intro-heading-logged-in = സമന്വയിപ്പിച്ച ലോഗിനുകളൊന്നും കണ്ടെത്തിയില്ല.
-login-intro-description = നിങ്ങളുടെ പ്രവേശണങ്ങൾ മറ്റൊരു ഉപകരണത്തിൽ{ -brand-product-name } എന്നതിലേക്ക് സംരക്ഷിച്ചുവെങ്കിൽ, അവ എങ്ങനെ ഇവിടെ നേടാം:
-login-intro-instructions-fxa = താങ്ങളുടെ പ്രവേശണം കരുതിവച്ചിരിക്കുന്ന ഉപകരണത്തിൽ താങ്ങളുടെ { -fxaccount-brand-name } സൃഷ്ടിക്കുക അല്ലെങ്കിൽ പ്രവേശിക്കൽ ചെയ്യുക.
 about-logins-login-intro-heading-message = താങ്ങളുടെ ഒളിവാക്കുകളെ ഒരു സുരക്ഷിതമായ സ്ഥലത്തിലേക്കു് കരുതിവയ്ക്കുക
 login-intro-description2 = { -brand-product-name }-ലോട്ടു് താങ്ങൾ കരുതിവയ്ക്കുന്ന എല്ലാ ഒളിവാക്കുകളിൽ രൂപമാറ്റം വരുതിയിരിക്കുന്നതാണു്. അതു് കൂടാതെ ഞങ്ങൾ ലംഘനങ്ങൾക്കായി നിരീക്ഷിക്കുകയും താങ്ങളുടെ ദത്ത അപകടത്തിലാണെങ്കിൽ അതു് താങ്ങളെ അറിയിക്കാരുമുണ്ടു്. <a data-l10n-name="breach-alert-link">കൂടുതൽ അറിയുക</a>
 login-intro-instructions-fxa2 = താങ്ങളുടെ പ്രവേശിക്കലുകൾ കരുതിവച്ച ഉപകരണത്തിൽ അക്കൗണ്ടു് ഉണ്ടാക്കുക അല്ലെങ്കിൽ പ്രവേശിക്കുക
 login-intro-instructions-fxa-settings = ക്രമീകരണങ്ങൾ > സമന്വയം > സമന്വയിപ്പിക്കൽ തുടങ്ങുക... എന്നതിലേക്ക് പോകുക... പ്രവേശിക്കലുകളും ഒളിവാക്കുകളും എഴുതിയ നിർണയപ്പെട്ടിയിൽ അമർത്തുക.
 login-intro-instructions-fxa-passwords-help = കൂടുതൽ സഹായത്തിന് <a data-l10n-name="passwords-help-link">ഒളിവാക്കു് പിന്തുണയിലേക്കു്</a> സന്ദർശിക്കുക.
-about-logins-intro-browser-only-import = താങ്ങളുടെ പ്രവേശണങ്ങൾ മറ്റൊരു അന്വേഷിയന്ത്രത്തിൽ കരുതിവച്ചിരിപ്പുണ്ടെങ്കിൽ അവയെ <a data-l10n-name="import-link">താങ്ങൾക്കു് { -brand-product-name }-ലേക്കു് ഇറക്കുമതിക്കാം. </a>
-about-logins-intro-import2 = താങ്ങളുടെ പ്രവേശനങ്ങൾ { -brand-product-name }-ന്റെ പുറത്താണുക്കരുതിവച്ചിട്ടുണ്ടെങ്കിൽ താങ്ങൾക്കു് <a data-l10n-name="import-browser-link">മറ്റൊരു അന്വേഷിയന്ത്രത്തിൽ</a> നിന്നു് അല്ലെങ്കിൽ <a data-l10n-name="import-file-link">മറ്റൊരു ഫയലിൽ നിന്നു് ഇറക്കുമതിക്കാം</a>
 
 ## Login
 
-login-item-new-login-title = പുതിയ പ്രവേശിക്കൽ സൃഷ്ടിക്കുക
 # Header for adding a password
 about-logins-login-item-new-login-title = ഒളിവാക്കു് ചേർക്കുക
 login-item-edit-button = തിരുത്തുക
 about-logins-login-item-remove-button = മാറ്റുക
 login-item-origin-label = വെബ്സൈറ്റ് വിലാസം
-login-item-tooltip-message = താങ്ങൾ പ്രവേശിക്കുന്ന വെബ്‌സൈറ്റിന്റെ കൃത്യമായ വിലാസവുമായി ഇത് ഒത്തുചേരുന്നു ഉറപ്പിക്കുക.
 about-logins-origin-tooltip2 = മുഴുവൻ വിലാസം നൽകി താങ്ങൾ പ്രവേശിക്കുന്ന സ്ഥലവുമായി ഇതു് കൃത്യമായ പൊരുത്തമാണെന്നു് ഉറപ്പിക്കുക.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -143,7 +108,6 @@ login-item-password-conceal-checkbox =
     .aria-label = ഒളിവാക്ക് ഒളിപ്പിക്കുക
 login-item-copy-password-button-text = പകര്‍ത്തുക
 login-item-copied-password-button-text = പകർത്തി!
-login-item-save-changes-button = മാറ്റങ്ങള്‍ സൂക്ഷിക്കുക
 about-logins-login-item-save-changes-button = കരുതിവയ്ക്കുക
 login-item-save-new-button = കരുതിവയ്ക്കുക
 login-item-cancel-button = റദ്ദാക്കുക
@@ -167,11 +131,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = താങ്ങളുടെ പ്രവേശിക്കൽ തിരുത്താനായി വിണ്ടോസു് പ്രവേശണവിശദാംശങ്ങളെ നൽകുക.ഇത് താങ്ങളുടെ സുരക്ഷയെ സംരക്ഷിക്കാൻ സഹായിക്കുന്നു.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = കരുതിവച്ച പ്രവേശിക്കൽ തിരുത്തുക
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -195,11 +154,6 @@ about-logins-copy-password-os-auth-dialog-message-win = താങ്ങളുട
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = കരുതിവച്ച ഒളിവാക്കു് പകർത്തുക
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = താങ്ങളുടെ പ്രവേശിക്കലുകൾ കയറ്റുമതിക്കാനായി വിണ്ടോസു് പ്രവേശണവിശദാംശങ്ങളെ നൽകുക.ഇത് താങ്ങളുടെ സുരക്ഷയെ സംരക്ഷിക്കാൻ സഹായിക്കുന്നു.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = കരുതിവച്ച ഒളിവാക്കുകളും പ്രവേശിക്കലുകളും കയറ്റുമതിക്കുക
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = താങ്ങളുടെ ഒളിവാക്കുകളെ കയറ്റുമതിക്കാനായി വിണ്ടോസു് പ്രവേശണവിശദാംശങ്ങളെ നൽകുക.ഇത് താങ്ങളുടെ സുരക്ഷയെ സംരക്ഷിക്കാൻ സഹായിക്കുന്നു.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -217,8 +171,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = റദ്ദാക്കുക
 confirmation-dialog-dismiss-button =
     .title = റദ്ദാക്കുക
-about-logins-confirm-remove-dialog-title = ഈ പ്രവേശനം നീക്കം ചെയ്യണോ?
-confirm-delete-dialog-message = ഈ പ്രവർത്തനം പഴയപടിയാക്കാനാവില്ല.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = ഒളിവാക്കു് മായ്ക്കുക?
 # Message for modal to confirm the removal of one saved password
@@ -233,22 +185,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] 1
         [one] മാറ്റുക
        *[other] എല്ലാം മാറ്റുക
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] 1
-        [one] അതെ, ഈ പ്രവേശനം മാറ്റുക
-       *[other] അതെ, ഈ പ്രവേശനങ്ങൾ മാറ്റുക
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] { $count } പ്രവേശണങ്ങൾ മാറ്റണോ?
-       *[other] എല്ലാ { $count } പ്രവേശണങ്ങൾ മാറ്റണോ?
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] എല്ലാ ഉപകരണങ്ങളിൽ നിന്നും { $count } പ്രവേശണം മാറ്റണോ?
-       *[other] എല്ലാ ഉപകരണങ്ങളിൽ നിന്നും എല്ലാ { $count } പ്രവേശണങ്ങൾ മാറ്റണോ?
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -286,13 +222,9 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = പ്രവേശിക്കലുകളും ഒളിവാക്കുകളും കയറ്റുമതിക്കുക.
-about-logins-confirm-export-dialog-message = താങ്ങളുടെ ഒളിവാക്കുകൾ വായിക്കാവുന്ന എഴുതായി (ഉദ: BadP@ssw0rd) കരുതിവയ്ക്കപ്പെടും, അതിനാൽ കയറ്റുമതിച്ച ഫയൽ തുറക്കുന്ന ആൎക്കും അവയെ കാണാനാവും.
-about-logins-confirm-export-dialog-confirm-button = കയറ്റുമതി ചെയ്യുക…
 about-logins-confirm-export-dialog-title2 = ഒളിവാക്കുകൾ കയറ്റുമതി ചെയ്യുന്നതിനെക്കുറിച്ചു് ഒരു കുറിപ്പ്
 about-logins-confirm-export-dialog-message2 = താങ്ങൾ കയറ്റുമതി ചെയ്യുമ്പോഴു് താങ്ങളുടെ ഒളിവാക്കുകൾ വായിക്കാവുന്ന എഴുതായി ഒരു ഫയലോട്ടു് കരുതിവയ്ക്കപ്പെടാരുണ്ടു്. താങ്ങൾ ഫയൽ ഉപയോഗിച്ചു കഴിയുമ്പോൾ ഈ ഉപകരണം ഉപയോഗിക്കുന്ന മറ്റവർ കാണാതിരിക്കാൻ  താങ്ങൾ അതിനെ കളയണമെന്നാണു് ഞങ്ങളുടെ ശുപാൎശ
 about-logins-confirm-export-dialog-confirm-button2 = കയറ്റുമതി തുടരുക
-about-logins-alert-import-title = ഇറക്കുമതി കഴിഞ്ഞു
 about-logins-alert-import-message = വിശദമായ ഇറക്കുമതി ചുരുക്കം കാണുക
 confirm-discard-changes-dialog-title = സംരക്ഷിക്കാത്ത മാറ്റങ്ങൾ നിരസിക്കണോ?
 confirm-discard-changes-dialog-message = സംരക്ഷിക്കാത്ത എല്ലാ മാറ്റങ്ങളും നഷ്‌ടപ്പെടും.
@@ -329,11 +261,6 @@ about-logins-error-message-default = ഈ ഒളിവാക്കു് കര�
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = പ്രവേശിക്കൽ ഫയൽ കയറ്റുമതിക്കുക
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = പ്രവേശിക്കലുകൾ.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = { -brand-short-name } നിന്നു് ഒളിവാക്കുകൾ കയറ്റുമതി ചെയ്യുക
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -349,8 +276,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = പ്രവേശിക്കൽ ഫയൽ ഇറക്കുമതിക്കുക
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = { -brand-short-name }-ലേക്കു് ഒളിവാക്കുകൾ ഇറക്കുമതി ചെയ്യുക
 about-logins-import-file-picker-import-button = ഇറക്കുമതി
@@ -374,21 +299,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = ഇറക്കുമതി പൂർത്തിയായി
-about-logins-import-dialog-items-added =
-    { $count ->
-        [one] <span>പുതിയ പ്രവേശിക്കലുകൾ ചേർത്തതു്:</span><span data-l10n-name="count">{ $count }</span>
-       *[other] <span>പുതിയ പ്രവേശിക്കലുകൾ ചേർത്തതു്:</span><span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-        [one] <span>നിലവിലുള്ള പ്രവേശിക്കലുകൾ പുതുച്ചതു്:</span><span data-l10n-name="count">{ $count }</span>
-       *[other] <span>നിലവിലുള്ള പ്രവേശിക്കലുകൾ പുതുച്ചതു്:</span><span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-        [one] <span>ഇരട്ടിയായ ഒളിവാക്കുകൾ കണ്ടെത്തിയതു്:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ഇറക്കുമതിക്കാത്ത)</span>
-       *[other] <span>ഇരട്ടിയായ ഒളിവാക്കുകൾ കണ്ടെത്തിയതു്:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ഇറക്കുമതിക്കാത്ത)</span>
-    }
 about-logins-import-dialog-items-added2 =
     { $count ->
         [one] <span>ചേർത്ത പുതിയ ഒളിവാക്കുകൾ:</span><span data-l10n-name="count">{ $count }</span>
@@ -424,15 +334,11 @@ about-logins-import-dialog-error-learn-more = കൂടുതല്‍ അറി
 about-logins-import-dialog-error-try-import-again = വീണ്ടും ഇറക്കുമതി  ചെയ്യാൻ ശ്രമിക്കുക...
 about-logins-import-dialog-error-cancel = റദ്ദാക്കുക
 about-logins-import-report-title = ഇറക്കുമതി ചുരുക്കം
-about-logins-import-report-description = { -brand-short-name }-ലേക്കു് പ്രവേശിക്കലുകളും ഒളിവാക്കുകളും ഇറക്കുമതി ചെയ്തിരിക്കുന്നു.
 about-logins-import-report-description2 = { -brand-short-name }-ലേക്കു് ഒളിവാക്കുകളെ ഇറക്കുമതി ചെയ്തിരിക്കുന്നു.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = വരി { $number }
-about-logins-import-report-row-description-no-change = ഇരട്ടിയതു്: നിലവിലുള്ള പ്രവേശിക്കലിന്റെ കൃത്യമായ പൊരുത്തം
-about-logins-import-report-row-description-modified = നിലവിലുള്ള പ്രവേശിക്കൽ പുതുച്ചു
-about-logins-import-report-row-description-added = പുതിയ പ്രവേശിക്കൽ ചേർത്തു
 about-logins-import-report-row-description-no-change2 = ഇരട്ടിയതു്: നിലവിലുള്ള ഇനത്തിന്റെ കൃത്യമായ പൊരുത്തം
 about-logins-import-report-row-description-modified2 = നിലവിലുള്ള ഇനം പുതുച്ചു
 about-logins-import-report-row-description-added2 = പുതിയ ഒളിവാക്കു് ചേർത്തു
@@ -449,21 +355,6 @@ about-logins-import-report-row-description-error-missing-field = പിശക്
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">പുതിയ പ്രവേശിക്കലുകൾ ചേർത്തിരിക്കുന്നു</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">പുതിയ പ്രവേശിക്കലുകൾ ചേർത്തിരിക്കുന്നു</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">നിലവിലുള്ള പ്രവേശണങ്ങളെ പുതുച്ചു</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">നിലവിലുള്ള പ്രവേശണങ്ങളെ പുതുച്ചു</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ഇരട്ടിയായ പ്രവേശിക്കലുകൾ</div> <div data-l10n-name="not-imported">(ഇറക്കുമതി ചെയ്യാത്ത)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ഇരട്ടിയായ പ്രവേശിക്കലുകൾ</div> <div data-l10n-name="not-imported">(ഇറക്കുമതി ചെയ്യാത്ത)</div>
-    }
 about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">പുതിയ ഒളിവാക്കുകൾ ചേൎത്തു</div>

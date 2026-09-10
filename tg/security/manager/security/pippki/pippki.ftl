@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Айни ҳол шумо дар реҷаи
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Аз нав танзим кардани ниҳонвожаи асосӣ
     .style = min-width: 40em
+    .title = Аз нав танзим кардани ниҳонвожаи асосӣ
 reset-password-button-label =
     .label = Аз нав танзим кардан
 reset-primary-password-text = Агар шумо ниҳонвожаи асосии худро аз нав танзим кунед, ҳамаи ниҳонвожаҳои нигоҳдошташудаи шумо барои сомонаҳо ва почтаи электронӣ, гувоҳномаҳои шахсӣ ва калидҳои махфӣ гум карда мешаванд. Шумо мутмаин ҳастед, ки мехоҳед ниҳонвожаи асосии худро аз нав танзим кунед?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Ниҳонвожаи асосии �
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Боргирии гувоҳнома
     .style = min-width: 46em
+    .title = Боргирии гувоҳнома
 download-cert-message = Аз шумо хоҳиш карда шуд, ки ба мақомоти иҷозатномадиҳандаи нав (МИ) эътимод доред.
 download-cert-trust-ssl =
     .label = Доштани эътимод ба ин маркази иҷозатномадиҳӣ барои муайянкунии сомонаҳо.
@@ -52,8 +52,6 @@ download-cert-view-text = Тафтиш кардани гувоҳномаи ма�
 
 client-auth-window =
     .title = Дархости муайянкунии корбар
-client-auth-site-description = Ин сомона дархост кард, ки шумо худро ба воситаи гувоҳнома муайян кунед:
-client-auth-choose-cert = Гувоҳномаеро, ки ҳамчун муайянкунӣ пешниҳод мекунед, интихоб кунед:
 client-auth-send-no-certificate =
     .label = Гувоҳинома фиристода нашавад
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Лутфан, санҷиши ҳаққониятро бо дастгоҳи амният ({ $tokenName }) иҷро намоед. Тазри иҷрокунии ин амал аз дастгоҳ вобаста аст (барои мисол, ба воситаи хонандаи нақши ангуштон ё воридкунии рамз ба воситаи клавиатураи рақамӣ).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Лутфан, санҷиши ҳаққониятро бо токени «{ $tokenName }» иҷро намоед. Тазри иҷрокунии ин амал аз токен вобаста аст (барои мисол, ба воситаи хонандаи нақши ангуштон ё воридкунии рамз ба воситаи клавиатураи рақамӣ).

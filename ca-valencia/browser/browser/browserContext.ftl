@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Vés una pàgina arrere ({ $shortcut })
     .aria-label = Arrere
+    .tooltiptext = Vés una pàgina arrere ({ $shortcut })
     .accesskey = r
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Vés una pàgina avant ({ $shortcut })
     .aria-label = Avant
+    .tooltiptext = Vés una pàgina avant ({ $shortcut })
     .accesskey = t
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Save Page
 
 main-context-menu-page-save =
@@ -104,9 +98,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = Anomena i guarda el contingut de l'enllaç…
     .accesskey = g
-main-context-menu-save-link-to-pocket =
-    .label = Guarda l'enllaç al { -pocket-brand-name }
-    .accesskey = l
 
 ##
 
@@ -229,34 +220,16 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Envia l'àudio per correu…
     .accesskey = a
-main-context-menu-save-to-pocket =
-    .label = Guarda la pàgina al { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Envia la pàgina al dispositiu
-    .accesskey = d
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Utilitza un inici de sessió guardat
-    .accesskey = U
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Utilitza una contrasenya guardada
     .accesskey = U
-
-##
-
 main-context-menu-suggest-strong-password =
     .label = Suggereix una contrasenya segura…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = Gestiona els inicis de sessió
-    .accesskey = G
-main-context-menu-keyword =
-    .label = Afig una paraula clau per a esta cerca…
-    .accesskey = p
 main-context-menu-link-send-to-device =
     .label = Envia l'enllaç al dispositiu
     .accesskey = d
@@ -291,9 +264,6 @@ main-context-menu-view-selection-source =
     .label = Codi font de la selecció
     .accesskey = e
 main-context-menu-take-screenshot =
-    .label = Fes una captura de pantalla
-    .accesskey = F
-main-context-menu-take-frame-screenshot =
     .label = Fes una captura de pantalla
     .accesskey = F
 main-context-menu-view-page-source =

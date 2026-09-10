@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = ਪਾਸਵਰਡਾਂ ਨੂੰ ਲੱਭੋ
-    .key = F
     .aria-label = ਪਾਸਵਰਡਾਂ ਨੂੰ ਲੱਭੋ
+    .key = F
+    .placeholder = ਪਾਸਵਰਡਾਂ ਨੂੰ ਲੱਭੋ
 contextual-manager-menu-more-options-button =
     .title = ਹੋਰ ਚੋਣਾਂ
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = …ਤੋਂ ਫ਼ਾਇਲ ਇ�
 contextual-manager-passwords-command-export = ਪਾਸਵਰਡਾਂ ਨੂੰ ਐਕਸਪੋਰਟ ਕਰੋ
 contextual-manager-passwords-command-remove-all = ਸਭ ਪਾਸਵਰਡਾਂ ਨੂੰ ਹਟਾਓ
 contextual-manager-passwords-command-options = ਚੋਣਾਂ
-contextual-manager-passwords-command-settings = ਸੈਟਿੰਗਾਂ
 contextual-manager-passwords-command-help = ਮਦਦ
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = ਪਾਸਵਰਡ ਇੰਪੋਰਟ ਕੀਤੇ
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = ਨਵੇਂ: { $added }, ਅੱਪਡੇਟ ਕੀਤੇ: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -214,8 +209,6 @@ contextual-manager-passwords-create-label =
     .label = ਪਾਸਵਰਡ ਨੂੰ ਜੋੜੋ
 contextual-manager-passwords-update-label =
     .label = ਪਾਸਵਰਡ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ
-contextual-manager-passwords-edit-label =
-    .label = ਪਾਸਵਰਡ ਨੂੰ ਸੋਧੋ
 contextual-manager-passwords-remove-label =
     .title = ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਓ
 contextual-manager-passwords-origin-field =
@@ -231,7 +224,6 @@ contextual-manager-passwords-password-field-description = ਇਸ ਖਾਤੇ �
 contextual-manager-passwords-origin-tooltip = ਪੂਰਾ ਸਹੀ ਸਿਰਨਾਵਾਂ ਦਿਓ, ਜਿੱਥੇ ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋਗੇ।
 contextual-manager-passwords-username-tooltip = ਵਰਤੋਂਕਾਰ-ਨਾਂ, ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਜਾਂ ਖਾਤਾ ਨੰਬਰ, ਜੋ ਤੁਸੀਂ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਵਰਤਦੇ ਹੋ, ਦਿਓ।
 contextual-manager-passwords-password-tooltip-2 = ਇਸ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਪਾਸਵਰਡ ਦਿਓ।
-contextual-manager-passwords-password-tooltip = ਇਸ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਪਾਸਵਰਡ ਦਿਓ।
 
 ## Password Card
 
@@ -278,10 +270,6 @@ contextual-manager-password-login-line-with-alert =
     .title = ਪਾਸਵਰਡ ਨੂੰ ਕਾਪੀ ਕਰੋ (ਸਾਵਧਾਨ)
 contextual-manager-edit-login-button = ਸੋਧੋ
     .tooltiptext = ਪਾਸਵਰਡ ਵਿੱਚ ਸੋਧ ਕਰੋ
-contextual-manager-view-alert-heading =
-    .heading = ਚੇਤਾਵਨੀ ਨੂੰ ਵੇਖੋ
-contextual-manager-view-alert-button =
-    .tooltiptext = ਚੇਤਾਵਨੀ ਦੀ ਪੜਤਾਲ ਕਰੋ
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -309,13 +297,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = ਕੋਈ ਪਾਸਵਰਡ ਨਹੀਂ ਲੱਭਿਆ
 contextual-manager-passwords-no-passwords-found-message-2 = ਵੱਖਰਾ ਸ਼ਬਦ ਦੇ ਕੇ ਫੇਰ ਖੋਜਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
-contextual-manager-passwords-no-passwords-found-message = ਕੋਈ ਪਾਸਵਰਡ ਨਹੀਂ ਲੱਭੇ ਹਨ। ਵੱਖਰੇ ਸ਼ਬਦ ਨਾਲ ਲੱਭਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਥਾਂ ਉੱਤੇ ਸੰਭਾਲੋ।
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = ਸਾਰੇ ਪਾਸਵਰਡ ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਹਨ ਅਤੇ ਅਸੀਂ ਚੋਰੀ ਹੋਣ ਦੀ ਨਿਗਰਾਨੀ ਕਰਾਂਗੇ ਅਤੇ ਪ੍ਰਭਾਵਿਤ ਹੋਣ ਉੱਤੇ ਤੁਹਾਨੂੰ ਸਾਵਧਾਨ ਕਰਾਂਗੇ।

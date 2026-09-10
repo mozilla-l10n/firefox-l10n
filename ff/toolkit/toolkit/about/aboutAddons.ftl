@@ -102,15 +102,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Mbayka kisnal daaƴii ɓeyditte fof.
-extensions-warning-check-compatibility = Ƴeewtagol jaaɓdugol ɓeyditte koko daaƴaa. Aɗa waawi jogaade ɓeyditte ɗe njaaɓaani.
-extensions-warning-safe-mode2 =
-    .message = Mbayka kisnal daaƴii ɓeyditte fof.
 extensions-warning-check-compatibility2 =
     .message = Ƴeewtagol jaaɓdugol ɓeyditte koko daaƴaa. Aɗa waawi jogaade ɓeyditte ɗe njaaɓaani.
 extensions-warning-check-compatibility-button = Daaƴtu
     .title = Daaƴtu ƴeewtagol jaaɓdugol ɓeyditte
-extensions-warning-update-security = Ƴeewtagol kisnal ɓeyditte koko daaƴaa. Aɗa waawi heɓde caɗe e kesɗitine.
 extensions-warning-update-security2 =
     .message = Ƴeewtagol kisnal ɓeyditte koko daaƴaa. Aɗa waawi heɓde caɗe e kesɗitine.
 extensions-warning-update-security-button = Daaƴtu
@@ -163,24 +158,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } jaaɓdaani e { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } jaaɓdaani e { -brand-short-name } { $version }.
-details-notification-unsigned-and-disabled = { $name } horiima ƴeewteede ngam huutoraade e { -brand-short-name } tee daaƴaama kisa.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } horiima ƴeewteede ngam huutoraade e { -brand-short-name } tee daaƴaama kisa.
-details-notification-unsigned-and-disabled-link = Ɓeydu Humpito
-details-notification-unsigned = { $name } horiima ƴeewteede ngam huutoraade e { -brand-short-name }. Waɗtu heen hakkille.
 details-notification-unsigned2 =
     .message = { $name } horiima ƴeewteede ngam huutoraade e { -brand-short-name }. Waɗtu heen hakkille.
-details-notification-unsigned-link = Ɓeydu Humpito
-details-notification-blocked = { $name } daaƴaama sabu caɗe kisal walla jamɗugol.
-details-notification-blocked-link = Ɓeydu Humpito
-details-notification-softblocked = { $name } ena anndiraa addude caɗe kisal walla jamɗugol.
-details-notification-softblocked-link = Ɓeydu Humpito
-details-notification-gmp-pending = { $name } maa aafe ko leelaani.
 details-notification-gmp-pending2 =
     .message = { $name } maa aafe ko leelaani.
 

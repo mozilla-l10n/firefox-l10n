@@ -85,15 +85,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = ସମସ୍ତ ଏଡ-ଅନଗୁଡ଼ିକୁ ସୁରକ୍ଷିତ ଭାବରେ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି।
-extensions-warning-check-compatibility = ଏଡ-ଅନ ସୁସଙ୍ଗତତା ଯାଞ୍ଚକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି। ଆପଣଙ୍କ ପାଖରେ ହୁଏତଃ ଅସଙ୍ଗତ ଏଡ-ଅନ ଅଛି।
-extensions-warning-safe-mode2 =
-    .message = ସମସ୍ତ ଏଡ-ଅନଗୁଡ଼ିକୁ ସୁରକ୍ଷିତ ଭାବରେ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି।
 extensions-warning-check-compatibility2 =
     .message = ଏଡ-ଅନ ସୁସଙ୍ଗତତା ଯାଞ୍ଚକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି। ଆପଣଙ୍କ ପାଖରେ ହୁଏତଃ ଅସଙ୍ଗତ ଏଡ-ଅନ ଅଛି।
 extensions-warning-check-compatibility-button = ସକ୍ରିୟ
     .title = ଏଡ-ଅନ ସୁସଙ୍ଗତତା ଯାଞ୍ଚକୁ ସକ୍ରିୟ କରନ୍ତୁ
-extensions-warning-update-security = ଆଡ଼-ଅନ ଅପଡେଟ ସୁରକ୍ଷା ଯାଞ୍ଚକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି । ଆପଣ ହୁଏତ ଅପଡେଟଗୁଡ଼ିକ ସହିତ ବୁଝାମଣା କରିଛନ୍ତି ।
 extensions-warning-update-security2 =
     .message = ଆଡ଼-ଅନ ଅପଡେଟ ସୁରକ୍ଷା ଯାଞ୍ଚକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି । ଆପଣ ହୁଏତ ଅପଡେଟଗୁଡ଼ିକ ସହିତ ବୁଝାମଣା କରିଛନ୍ତି ।
 extensions-warning-update-security-button = ସକ୍ରିୟ
@@ -144,16 +139,8 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } ଟି  { -brand-short-name } { $version } ସହିତ ସୁସଂଗତ ନୁହଁ
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } ଟି  { -brand-short-name } { $version } ସହିତ ସୁସଂଗତ ନୁହଁ
-details-notification-blocked = { $name } କୁ ସୁରକ୍ଷା କିମ୍ବା ସ୍ଥାୟୀତ୍ୱ ସମସ୍ୟାଗୁଡ଼ିକ କାରଣରୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି।
-details-notification-blocked-link = ଅଧିକ ସୂଚନା
-details-notification-softblocked = { $name } ସୁରକ୍ଷା କିମ୍ବା ସ୍ଥାୟୀତ୍ୱ ସମସ୍ୟା ଘଟାଇଥିବାର ଜଣାପଡ଼ିଛି।
-details-notification-softblocked-link = ଅଧିକ ସୂଚନା
-details-notification-gmp-pending = { $name } ଖୁବ ଚଞ୍ଚଳ ଇନଷ୍ଟଲ ହେବ ।
 details-notification-gmp-pending2 =
     .message = { $name } ଖୁବ ଚଞ୍ଚଳ ଇନଷ୍ଟଲ ହେବ ।
 

@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Низоми ҷустуҷӯии пешфарзи шумо иваз шуд.</strong> «{ $oldEngine }» дигар дар «{ -brand-short-name }» ҳамчун низоми ҷустуҷӯии пешфарз дастнорас аст . Акнун «{ $newEngine }» низоми ҷустуҷӯии пешфарзи шумо мебошад. Барои иваз кардани он ба низоми ҷустуҷӯии пешфарзи дигар, ба Танзимот гузаред. <label data-l10n-name="remove-search-engine-article">Маълумоти бештар</label>
 removed-search-engine-message2 = <strong>Низоми ҷустуҷӯии пешфарзи шумо иваз шуд.</strong> «{ $oldEngine }» дигар дар «{ -brand-short-name }» ҳамчун низоми ҷустуҷӯии пешфарз дастнорас аст . Акнун «{ $newEngine }» низоми ҷустуҷӯии пешфарзи шумо мебошад. Барои иваз кардани он ба низоми ҷустуҷӯии пешфарзи дигар, ба Танзимот гузаред.
 remove-search-engine-button = ХУБ
 
@@ -52,11 +51,11 @@ install-search-engine-no = Не
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Илова кардани низоми ҷустуҷӯӣ
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Таҳрир кардани низоми ҷустуҷӯӣ
     .style = min-width: 32em;
+    .title = Таҳрир кардани низоми ҷустуҷӯӣ
 add-engine-button = Илова кардани низоми ҷустуҷӯии фармоишӣ
 add-engine-name = Номи низоми ҷустуҷӯӣ
 add-engine-url2 = Нишонии «URL» бо «%s» дар ҷойи вожаи ҷустуҷӯӣ
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Кӯшиш кунед, ки «%s» ба ҷ�
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Илова кардани низоми ҷустуҷӯӣ
-    .buttonaccesskeyaccept = И
     .buttonlabelextra1 = Иловагӣ
+    .buttonaccesskeyaccept = И
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Нигоҳ доштани низоми ҷустуҷӯӣ
-    .buttonaccesskeyaccept = Н
     .buttonlabelextra1 = Иловагӣ
+    .buttonaccesskeyaccept = Н

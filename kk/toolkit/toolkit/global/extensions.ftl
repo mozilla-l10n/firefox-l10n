@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = { $extension } қосу керек пе?
-webext-perms-header-with-perms = { $extension } қосу керек пе? Бұл кеңейтудің келесі рұқсаттары болады:
-webext-perms-header-unsigned = { $extension } қосу керек пе? Бұл кеңейту расталмаған. Зиянкес кеңейтулер сіздің жеке деректеріңізді ұрлай алады. Бұны тек шыққан көзіне сенсеңіз, орнатуға болады.
-webext-perms-header-unsigned-with-perms = { $extension } қосу керек пе? Бұл кеңейту расталмаған. Зиянкес кеңейтулер сіздің жеке деректеріңізді ұрлай алады. Бұны тек шыққан көзіне сенсеңіз, орнатуға болады. Бұл кеңейтудің келесі рұқсаттары болады:
 webext-perms-sideload-header = { $extension } қосылды
 webext-perms-optional-perms-header2 = { $extension } қосымша рұқсаттарды сұрайды
-webext-perms-optional-perms-header = { $extension } қосымша рұқсаттарды сұрайды.
 webext-perms-header2 = { $extension } қосу
 webext-perms-list-intro-unsigned = Бұл тексерілмеген кеңейту жекелігіңізге қауіп төндіруі немесе құрылғыңыздың қауіпсіздігіне нұқсан келтіруі мүмкін. Оны тек дереккөзіне сенсеңіз ғана қосыңыз.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } жаңартылды. Жаңартылған нұсқасы орнатылу алдында жаңа рұқсаттарды сізге растау керек. "Бас тарту" таңдасаңыз, кеңейтудің ағымдағы нұсқасы қалатын болады.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } жаңартылды. Жаңартылған нұсқасы орнатылу алдында жаңа рұқсаттарды сізге растау керек. "Бас тарту" таңдасаңыз, кеңейтудің ағымдағы нұсқасы қалатын болады. Бұл кеңейтудің келесі рұқсаттары болады:
 webext-perms-update-accept =
     .label = Жаңарту
     .accesskey = Ж
@@ -73,24 +65,8 @@ webext-perms-host-description-file-urls = Компьютеріңіздегі ж�
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } доменіндегі сайттар үшін деректеріңізге қатынау
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Басқа { $domainCount } домендегі деректеріңізге қатынау
-       *[other] Басқа { $domainCount } домендегі деректеріңізге қатынау
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } үшін деректеріңізге қатынау
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Басқа { $domainCount } сайттағы деректеріңізге қатынау
-       *[other] Басқа { $domainCount } сайттағы деректеріңізге қатынау
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

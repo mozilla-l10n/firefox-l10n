@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Lezárt PeerConnection 
 about-webrtc-aec-logging-msg-label = AEC naplózás
 about-webrtc-aec-logging-off-state-label = AEC naplózás indítása
 about-webrtc-aec-logging-on-state-label = AEC naplózás leállítása
-about-webrtc-aec-logging-on-state-msg = Az AEC naplózás aktív (beszéljen a hívóval pár percig, majd állítsa le a felvételt)
 about-webrtc-aec-logging-toggled-on-state-msg = Az AEC naplózás aktív (beszéljen a hívóval pár percig, majd állítsa le a felvételt)
 about-webrtc-aec-logging-unavailable-sandbox = A MOZ_DISABLE_CONTENT_SANDBOX=1 környezeti változó szükséges az AEC naplók exportálásához. Csak akkor állítsa be ezt a változót, ha ismeri a lehetséges kockázatokat.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Jelölt
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Kijelölt
 about-webrtc-save-page-label = Oldal mentése
-about-webrtc-debug-mode-msg-label = Hibakeresési mód
-about-webrtc-debug-mode-off-state-label = Hibakeresési mód indítása
-about-webrtc-debug-mode-on-state-label = Hibakeresési mód leállítása
-about-webrtc-stats-heading = Munkamenet-statisztika
 about-webrtc-enable-logging-label = WebRTC napló-előbeállítás engedélyezése
 about-webrtc-peerconnections-section-heading = RTCPeerConnection statisztikák
 about-webrtc-peerconnections-section-show-msg = RTCPeerConnection statisztikák megjelenítése
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = RTCPeerConnection statisztikák 
 about-webrtc-stats-clear = Előzmények törlése
 about-webrtc-log-heading = Kapcsolatnapló
 about-webrtc-log-clear = Napló törlése
-about-webrtc-log-show-msg = napló megjelenítése
-    .title = kattintson a szakasz kibontásához
-about-webrtc-log-hide-msg = napló elrejtése
-    .title = kattintson a szakasz összecsukásához
 about-webrtc-log-section-show-msg = Napló megjelenítése
     .title = Kattintson a szakasz kibontásához
 about-webrtc-log-section-hide-msg = Napló elrejtése
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Távoli jelölt
 about-webrtc-raw-candidates-heading = Minden nyers jelölt
 about-webrtc-raw-local-candidate = Nyers helyi jelölt
 about-webrtc-raw-remote-candidate = Nyers távoli jelölt
-about-webrtc-raw-cand-show-msg = nyers jelöltek megjelenítése
-    .title = kattintson a szakasz kibontásához
-about-webrtc-raw-cand-hide-msg = nyers jelöltek elrejtése
-    .title = kattintson a szakasz összecsukásához
 about-webrtc-raw-cand-section-show-msg = Nyers jelöltek megjelenítése
     .title = Kattintson a szakasz kibontásához
 about-webrtc-raw-cand-section-hide-msg = Nyers jelöltek elrejtése
     .title = Kattintson a szakasz összecsukásához
 about-webrtc-priority = Prioritás
-about-webrtc-fold-show-msg = részletek megjelenítése
-    .title = kattintson a szakasz kibontásához
-about-webrtc-fold-hide-msg = részletek elrejtése
-    .title = kattintson a szakasz összecsukásához
 about-webrtc-fold-default-show-msg = Részletek megjelenítése
     .title = Kattintson a szakasz kibontásához
 about-webrtc-fold-default-hide-msg = Részletek elrejtése
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Biztosított
 # been provided
 about-webrtc-configuration-element-not-provided = Nem biztosított
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Felhasználó által megadott WebRTC-beállítások
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Felhasználó által módosított WebRTC konfiguráció
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT (ms)
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Videókeret statisztikák – MediaStreamTrack azonosító: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = oldal mentve ide: { $path }
-about-webrtc-debug-mode-off-state-msg = nyomkövetési napló helye: { $path }
-about-webrtc-debug-mode-on-state-msg = hibakeresési mód aktív, nyomkövetési napló helye: { $path }
-about-webrtc-aec-logging-off-state-msg = a rögzített naplófájlok megtalálhatók itt: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

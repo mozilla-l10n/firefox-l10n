@@ -13,7 +13,6 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ले पुन
 
 ##
 
-firefox-relay-must-login-to-fxa = { -relay-brand-name } प्रयोग गर्नको लागि तपाईंले { -fxaccount-brand-name } मा लग इन गर्नुपर्छ।
 firefox-relay-must-login-to-account = आफ्नो { -relay-brand-name } इमेल मास्क प्रयोग गर्न आफ्नो खातामा साइन इन गर्नुहोस्।
 firefox-relay-get-unlimited-masks =
     .label = मास्क व्यवस्थापन गर्नुहोस्

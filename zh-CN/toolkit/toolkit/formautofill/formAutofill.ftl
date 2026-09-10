@@ -17,7 +17,6 @@ autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } 正尝试
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } 正尝试显示存储的付款方式信息。
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = 表单自动填写选项
-autofill-options-link-osx = 表单自动填写偏好设置
 
 ## The credit card capture doorhanger
 
@@ -62,16 +61,6 @@ autofill-card-network-mastercard = 万事达卡
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = 银联
 autofill-card-network-visa = Visa
-# The warning text that is displayed for informing users what categories are
-# about to be filled.  The text would be, for example,
-#   Also autofills organization, phone, email.
-# Variables:
-#   $categories - one or more of the categories, see autofill-category-X below
-autofill-phishing-warningmessage-extracategory = 还将自动填写“{ $categories }”栏
-# Variation when all are in the same category.
-# Variables:
-#   $categories - one or more of the categories
-autofill-phishing-warningmessage = 自动填写“{ $categories }”
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = 地址
 autofill-category-name = 姓名

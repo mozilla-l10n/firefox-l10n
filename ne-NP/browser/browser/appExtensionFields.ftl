@@ -14,15 +14,3 @@ extension-firefox-compact-dark-name = अँध्यारो
 extension-firefox-compact-dark-description = अँध्यारो रङ योजना भएको एउटा थिम।
 extension-firefox-alpenglow-name = फायरफक्स एल्पेन्ग्लो
 extension-firefox-alpenglow-description = बटन, मेनु र सञ्झ्यालहरूको लागि रंगीन उपस्थिति प्रयोग गर्नुहोस्।
-
-## Colorway Themes
-## These themes are variants of a colorway. The colorway is specified in the
-## $colorway-name variable.
-## Variables
-##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
-
-extension-colorways-soft-name = { $colorway-name } — Soft
-extension-colorways-balanced-name = { $colorway-name } — Balanced
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-extension-colorways-bold-name = { $colorway-name } — Bold

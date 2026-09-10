@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Utsûnderingen
     .style = min-width: 45em
+    .title = Utsûnderingen
 permissions-close-key =
     .key = w
 permissions-address = Adres fan de website
@@ -80,79 +80,64 @@ permissions-invalid-uri-label = Folje in jildige kompjûternamme yn
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Utsûnderingen foar Ferbettere beskerming tsjin folgjen
     .style = { permissions-window2.style }
+    .title = Utsûnderingen foar Ferbettere beskerming tsjin folgjen
 permissions-exceptions-manage-etp-desc = Jo kinne opjaan by hokker websites Ferbettere beskerming tsjin folgjen útskeakele is. Typ it krekte adres fan de website dy’t jo beheare wolle en klik dernei op Utsûndering tafoegje.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Utsûnderingen - Cookies en websitegegevens
     .style = { permissions-window2.style }
+    .title = Utsûnderingen - Cookies en websitegegevens
 permissions-exceptions-cookie-desc = Jo kinne opjaan hokker websites altyd of nea tastimming hawwe om cookies en websitegegevens te brûken. Typ it eksakte adres fan de website dy’t jo beheare wolle en klik dêrnei op Blokkearje, Tastean foar sesje of Tastean.
 
 ## Exceptions - Clear on Shutdown
 
 permissions-exceptions-shutdown-clearing-window =
-    .title = Utsûnderingen - Skiednis wiskje by ôfsluten
     .style = { permissions-window2.style }
+    .title = Utsûnderingen - Skiednis wiskje by ôfsluten
 permissions-exceptions-shutdown-clearing-desc = Jo kinne opjaan hokker websites harren gegevens behâlde wannear’t { -brand-short-name } skiednis by ôfsluten wisket. Typ it eksakte adres fan de website dy’t jo beheare wolle en klik dernei op Tastean.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Utsûnderingen – Allinnich-HTTPS-modus
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Jo kinne de Allinnich-HTTPS-modus foar spesifike websites útskeakelje. { -brand-short-name } sil foar dy websites net probearje de ferbining nei feilige HTTPS te fernijen. Utsûnderingen binne net fan tapassing op priveefinsters.
+    .title = Utsûnderingen – Allinnich-HTTPS-modus
 permissions-exceptions-https-only-desc2 = Jo kinne de Allinnich-HTTPS-modus foar spesifike websites útskeakelje. { -brand-short-name } sil foar dy websites net probearje de ferbining nei feilige HTTPS te fernijen.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
     .title = Tastiene websites - pop-ups en trochferwizingen fan tredden
-    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = Jo kinne opjaan hokker websites pop-upfinsters iepenje meie en troch frames fan tredden trochferwiisd wurde meie.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Tastiene websites - Popupfinsters
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Jo kinne oanjaan hokker siden popupfinsters iepenje meie. Typ it krekte adres fan de side dy’t jo tastimming jaan wolle en klik dernei op Tastean.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Utsûnderingen - Bewarre oanmeldingen
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Oanmeldingen foar de folgjende websites sille net bewarre wurde
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Utsûnderingen - Bewarre wachtwurden
     .style = { permissions-window2.style }
+    .title = Utsûnderingen - Bewarre wachtwurden
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } bewarret gjin wachtwurden foar hjir fermelde websites.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Tastiene websites - Ynstallaasje fan add-ons
     .style = { permissions-window2.style }
+    .title = Tastiene websites - Ynstallaasje fan add-ons
 permissions-exceptions-addons-desc = Jo kinne oanjaan hokker siden add-ons ynstallearje meie. Typ it krekte adres fan de side dy’t jo tastimming jaan wolle en klik dernei op Tastean.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Ynstellingen - Automatysk ôfspylje
     .style = { permissions-window2.style }
+    .title = Ynstellingen - Automatysk ôfspylje
 permissions-site-autoplay-desc = Jo kinne hjir de websites beheare dy’t jo standertynstellingen foar automatysk ôfspyljen net folgje.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Ynstellingen - Tastimmingen foar notifikaasjes
     .style = { permissions-window2.style }
+    .title = Ynstellingen - Tastimmingen foar notifikaasjes
 permissions-site-notification-desc = De folgjende websites hawwe frege oft se jo notifikaasjes stjoere meie. Jo kinne opjaan hokker websites jo notifikaasjes stjoere meie. Jo kinne ek nije fersiken foar it jaan fan tastimming hjirfoar blokkearje.
 permissions-site-notification-disable-label =
     .label = Nije fersiken foar it tastean fan notifikaasjes blokkearje
@@ -161,8 +146,8 @@ permissions-site-notification-disable-desc = Dit foarkomt dat websites dy’t hj
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Ynstellingen - Tastimmingen foar lokaasje
     .style = { permissions-window2.style }
+    .title = Ynstellingen - Tastimmingen foar lokaasje
 permissions-site-location-desc = De folgjende websites hawwe om tagong ta jo lokaasje frege. Jo kinne opjaan hokker websites jo lokaasje benaderje meie. Jo kinne ek nije fersiken om tagong ta jo lokaasje blokkearje.
 permissions-site-location-disable-label =
     .label = Nije fersiken om tagong ta jo lokaasje blokkearje
@@ -171,8 +156,8 @@ permissions-site-location-disable-desc = Dit foarkomt dat websites dy’t hjirbo
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Ynstellingen - Tastimmingen foar virtual reality
     .style = { permissions-window2.style }
+    .title = Ynstellingen - Tastimmingen foar virtual reality
 permissions-site-xr-desc = De folgjende websites hawwe om tagong ta jo virtual-reality-apparaten frege. Jo kinne opjaan hokker websites jo virtual-reality-apparaten benaderje meie. Jo kinne ek nije fersiken om tagong ta jo virtual-reality-apparaten blokkearje.
 permissions-site-xr-disable-label =
     .label = Nije fersiken om tagong ta jo virtual-reality-apparaten blokkearje
@@ -181,8 +166,8 @@ permissions-site-xr-disable-desc = Dit foarkomt dat websites dy’t hjirboppe ne
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Ynstellingen - Tastimmingen foar kamera
     .style = { permissions-window2.style }
+    .title = Ynstellingen - Tastimmingen foar kamera
 permissions-site-camera-desc = De folgjende websites hawwe om tagong ta jo kamera frege. Jo kinne opjaan hokker websites jo kamera benaderje meie. Jo kinne ek nije fersiken om tagong ta jo kamera blokkearje.
 permissions-site-camera-disable-label =
     .label = Nije fersiken om tagong ta jo kamera blokkearje
@@ -191,8 +176,8 @@ permissions-site-camera-disable-desc = Dit foarkomt dat websites dy’t hjirbopp
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = Ynstellingen - Apparaatapps en -services
     .style = { permissions-window2.style }
+    .title = Ynstellingen - Apparaatapps en -services
 permissions-site-localhost-desc = Dizze websites hawwe op dit apparaat tagong ta apps en services frege. Jo kinne kieze om dit foar websites ta te stean of te blokkearjen.
 permissions-site-localhost-disable-label =
     .label = Nije oanfragen foar tagong ta apps en services op dit apparaat blokkearje
@@ -201,8 +186,8 @@ permissions-site-localhost-disable-desc = Dit foarkomt dat websites, dy’t hjir
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = Ynstellingen - Lokale netwurkapparaten
     .style = { permissions-window2.style }
+    .title = Ynstellingen - Lokale netwurkapparaten
 permissions-site-local-network-desc = Dizze websites hawwe om tagong frege ta apps en services op apparaten dy’t ferbûn binne mei jo wifi- of lokale netwurk. Jo kinne derfoar kieze om dit foar websites ta te stean of te blokkearjen.
 permissions-site-local-network-disable-label =
     .label = Nije fersiken foar tagong ta apps en services blokkearje op apparaten dy’t ferbûn binne mei jo wifi- of lokale netwurk.
@@ -211,8 +196,8 @@ permissions-site-local-network-disable-desc = Dit foarkomt dat websites, dy’t 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Ynstellingen - Tastimmingen foar mikrofoan
     .style = { permissions-window2.style }
+    .title = Ynstellingen - Tastimmingen foar mikrofoan
 permissions-site-microphone-desc = De folgjende websites hawwe om tagong ta jo mikrofoan frege. Jo kinne opjaan hokker websites jo mikrofoan benaderje meie. Jo kinne ek nije fersiken om tagong ta jo mikrofoan blokkearje.
 permissions-site-microphone-disable-label =
     .label = Nije fersiken om tagong ta jo mikrofoan blokkearje
@@ -223,12 +208,12 @@ permissions-site-microphone-disable-desc = Dit foarkomt dat websites dy’t hjir
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Ynstellingen - Tastimmingen foar lûdsprekker
     .style = { permissions-window2.style }
+    .title = Ynstellingen - Tastimmingen foar lûdsprekker
 permissions-site-speaker-desc = De folgjende websites hawwe frege om in audio-útfierapparaat te selektearjen. Jo kinne opjaan hokker websites in audio-útfierapparaat selektearje meie.
 permissions-exceptions-doh-window =
-    .title = Website-útsûnderingen foar DNS oer HTTPS
     .style = { permissions-window2.style }
+    .title = Website-útsûnderingen foar DNS oer HTTPS
 permissions-exceptions-manage-doh-desc = { -brand-short-name } brûkt gjin befeilige DNS op dizze websites en harren subdomeinen.
 permissions-doh-entry-field = Fier websitedomeinnamme yn
     .accesskey = d

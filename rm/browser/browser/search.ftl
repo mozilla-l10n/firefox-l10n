@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Tia maschina da tschertgar predefinida è vegnida midada.</strong> { $oldEngine } na stat betg pli a disposiziun sco maschina da tschertgar da standard en { -brand-short-name }. { $newEngine } è ussa tia maschina da tschertgar predefinida. Acceda als parameters per definir in'autra maschina da tschertgar da standard. <label data-l10n-name="remove-search-engine-article">Ulteriuras infurmaziuns</label>
 removed-search-engine-message2 = <strong>Tia maschina da tschertgar predefinida è vegnida midada.</strong> { $oldEngine } na stat betg pli a disposiziun sco maschina da tschertgar da standard en { -brand-short-name }. { $newEngine } è ussa tia maschina da tschertgar predefinida. Acceda als parameters per definir in'autra maschina da tschertgar da standard.
 remove-search-engine-button = OK
 
@@ -52,11 +51,11 @@ install-search-engine-no = Na
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = Agiuntar ina maschina da tschertgar
     .style = min-width: 40em;
+    .title = Agiuntar ina maschina da tschertgar
 edit-engine-window =
-    .title = Modifitgar la maschina da tschertgar
     .style = min-width: 32em;
+    .title = Modifitgar la maschina da tschertgar
 add-engine-button = Agiuntar ina maschina persunalisada
 add-engine-name = Num da la maschina da tschertgar
 add-engine-url2 = URL cun %s empè dal term da tschertga
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Emprova d’includer %s empè dal term da t
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Agiuntar la maschina
-    .buttonaccesskeyaccept = A
     .buttonlabelextra1 = Avanzà
+    .buttonaccesskeyaccept = A
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Memorisar la maschina
-    .buttonaccesskeyaccept = s
     .buttonlabelextra1 = Avanzà
+    .buttonaccesskeyaccept = s

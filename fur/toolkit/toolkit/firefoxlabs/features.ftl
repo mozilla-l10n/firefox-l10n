@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Ative Warp, un progjet par miorâ li
 experimental-features-ime-search =
     .label = Sbare de direzion: mostre i risultâts dilunc la composizion IME
 experimental-features-ime-search-description = Un IME (Editôr di Metodis di Input) al è un imprest che ti permet di inserî, doprant une tastiere standard, simbui complès, come chei doprâts in Asie orientâl o tes lenghis scritis indianis. Ativant chest esperiment il panel de sbare de direzion al restarà viert, mostrant i risultâts di ricercje e i sugjeriments, ancje cuant che si dopre IME par inserî il test. Note che IME al podarès visualizâ un panel che al cuvierç i risultâts de sbare de direzion, duncje cheste opzion e je conseade dome pai IME che che no doprin chest gjenar di panel.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Picture-in-Picture: vierç in automatic al cambi di schede
-experimental-features-auto-pip-description = Ative Picture-in-Picture pai videos in esecuzion cuant che e ven cambiade schede.
 experimental-features-group-developer-tools =
     .label = Struments di disvilup
 experimental-features-group-webpage-display =
@@ -27,10 +23,6 @@ experimental-features-group-customize-browsing =
     .label = Personalize la tô navigazion
 experimental-features-group-productivity =
     .label = Produtivitât
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Passwords te sbare laterâl
-experimental-features-contextual-password-manager-description = Dopre lis tôs passwords dret de sbare laterâl. No tu varâs plui di cirî ator o tornâ a configurâ lis passwords cuant che tu ciris di jentrâ cu lis credenziâls suntun sît. Par doprâ cheste funzion, ative la opzion passwords te sbare laterâl. Dopo va tes impostazions gjenerâls e te sezion “Disposizion dal navigadôr”, selezione “Mostre sbare laterâl”. Tal ultin, personalize la sbare laterâl selezionant passwords. Se tu provis cheste funzion, <a data-l10n-name="connect">fânus savê ce che tu pensis in merit</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Sielç un fonts o un colôr personalizât pe pagjine Gnove schede

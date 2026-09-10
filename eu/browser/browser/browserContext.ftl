@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Joan orri bat atzera ({ $shortcut })
     .aria-label = Atzera
+    .tooltiptext = Joan orri bat atzera ({ $shortcut })
     .accesskey = z
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Joan orri bat aurrera ({ $shortcut })
     .aria-label = Aurrera
+    .tooltiptext = Joan orri bat aurrera ({ $shortcut })
     .accesskey = A
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Egin orriaren laster-marka…
-    .accesskey = m
     .tooltiptext = Egin orriaren laster-marka
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Egin orriaren laster-marka…
-    .accesskey = m
     .tooltiptext = Egin orriaren laster-marka ({ $shortcut })
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = Editatu laster-marka…
-    .accesskey = E
     .tooltiptext = Editatu laster-marka
+    .accesskey = E
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Editatu laster-marka…
-    .accesskey = m
     .tooltiptext = Editatu laster-marka ({ $shortcut })
+    .accesskey = m
 main-context-menu-open-link =
     .label = Ireki lotura
     .accesskey = I
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Gorde lotura honela…
     .accesskey = G
-main-context-menu-save-link-to-pocket =
-    .label = Gorde lotura { -pocket-brand-name }-en
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Aktibatu sinkronizazioa
 main-context-menu-send-to-mobile-connect-phone3 = Konektatu gailu bat fitxak bidaltzeko
 main-context-menu-send-to-mobile-connect-phone-from-link = Konektatu gailu bat lotura bidaltzeko
 main-context-menu-send-to-mobile-connect-phone-from-page = Konektatu gailu bat orria bidaltzeko
-main-context-menu-save-to-pocket =
-    .label = Gorde orria { -pocket-brand-name }-en
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Bidali orria gailura
-    .accesskey = g
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Erabili gordetako saio-hasiera
-    .accesskey = s
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Erabili gordetako pasahitza
     .accesskey = h
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Erabili { -relay-brand-short-name } posta-maskara
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = Gomendatu pasahitz sendoa…
     .accesskey = n
-main-context-menu-manage-logins2 =
-    .label = Kudeatu saio-hasierak
-    .accesskey = K
 main-context-menu-manage-passwords =
     .label = Kudeatu pasahitzak
     .accesskey = K
-main-context-menu-keyword =
-    .label = Gehitu bilaketa honentzat gako-hitza…
-    .accesskey = k
 main-context-menu-add-engine =
     .label = Gehitu bilaketa-motorra
     .accesskey = b
@@ -391,9 +364,6 @@ main-context-menu-view-selection-source =
     .label = Ikusi aukeraren iturburua
     .accesskey = u
 main-context-menu-take-screenshot =
-    .label = Hartu pantaila-argazkia
-    .accesskey = H
-main-context-menu-take-frame-screenshot =
     .label = Hartu pantaila-argazkia
     .accesskey = H
 main-context-menu-view-page-source =

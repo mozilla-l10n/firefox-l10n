@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = ٹیب پک اپ والے آلات دے 
 callout-firefox-view-tab-pickup-subtitle = اپݨے فون کنوں کھلے ٹیباں کوں جلدی نال پکڑو تے زیادہ کنوں زیادہ واہک کیتے انہاں کوں اتھاں کھولو۔
 callout-firefox-view-recently-closed-title = اپݨے بند ٹیباں کوں ہک پل اِچ واپس حاصل کرو۔
 callout-firefox-view-recently-closed-subtitle = تہاݙیاں ساریاں بند ٹیباں جادوئی طور تے اتھاں ظاہر تھیسن۔ کݙاہیں وی غلطی نال کہیں سائٹ کوں دوبارہ بند کرݨ دی فکر نہ کرو۔
-callout-firefox-view-colorways-title = رنگ دا تراونہکا شامل کرو
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = وہ جھاں چݨو تہاݙے نال کلر ویز نال الاوے۔ صرف { -brand-product-name } اِچ۔
-callout-firefox-view-colorways-reminder-title = اساݙے نویں نکور کلر ویز دی پٹ پھرول کرو
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = آزاد آوازاں کنوں متاثر تھی تے اپݨے براؤزر کوں انہاں مشہور جھانواں نال رنگیل کرو۔ صرف { -brand-product-name } وِچ۔
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

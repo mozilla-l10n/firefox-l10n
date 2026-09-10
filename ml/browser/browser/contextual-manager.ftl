@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = ഒളിവാക്കുകൾ തിരയുക
-    .key = F
     .aria-label = ഒളിവാക്കുകൾ തിരയുക
+    .key = F
+    .placeholder = ഒളിവാക്കുകൾ തിരയുക
 contextual-manager-menu-more-options-button =
     .title = കൂടുതൽ സാധ്യതകൾ
 contextual-manager-more-options-popup =
@@ -18,7 +18,6 @@ contextual-manager-passwords-command-import-from-browser = മറ്റൊരു
 contextual-manager-passwords-command-import = ഒരു ഫയലിൽ നിന്നു്  ഇറക്കുമതി ചെയ്യുക…
 contextual-manager-passwords-command-export = ഒളിവാക്കുകളെ കയറ്റുമതി ചെയ്യുക
 contextual-manager-passwords-command-remove-all = എല്ലാ ഒളിവാക്കുകളെ മാറ്റുക
-contextual-manager-passwords-command-settings = ക്രമീകരണങ്ങൾ
 contextual-manager-passwords-command-help = പിന്തുണ
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -61,10 +60,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = ഒളിവാക്കുകൾ ഇറക്കുമതിച്ചു
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = പുതിയതു് :{ $added }, പുതുച്ചതു് : { $modified }
 contextual-manager-passwords-import-detailed-report = വിശദമായ റിപ്പോർട്ട് കാണുക
 contextual-manager-passwords-import-success-button = ചെയ്തു
 contextual-manager-passwords-import-error-button-try-again = വീണ്ടും ശ്രമിയ്ക്കുക
@@ -182,8 +177,6 @@ contextual-manager-passwords-create-label =
     .label = ഒളിവാക്കു് ചേർക്കുക
 contextual-manager-passwords-update-label =
     .label = ഒളിവാക്കു പുതുക്കുക
-contextual-manager-passwords-edit-label =
-    .label = ഒളിവാക്കു് തിരുത്തുക
 contextual-manager-passwords-remove-label =
     .title = ഒളിവാക്കു് മായ്ക്കുക
 contextual-manager-passwords-origin-field =
@@ -197,7 +190,6 @@ contextual-manager-passwords-password-field =
     .label = ഒളിവാക്ക്
 contextual-manager-passwords-origin-tooltip = താങ്ങൾ പ്രവേശിക്കാൻ പോവുന്ന തിട്ടമായ വിലാസം നൽകുക
 contextual-manager-passwords-username-tooltip = താങ്ങൾ പ്രവേശിക്കാൻ ഉപയോഗിക്കുന്ന ഉപയോക്തൃപ്പേരും ഇ-തപാലും അക്കൗണ്ടക്കവും നൽകുക
-contextual-manager-passwords-password-tooltip = താങ്ങൾ ഈ അക്കൗണ്ടിൽ പ്രവേശിക്കാൻ ഉപയോഗിക്കുന്ന ഒളിവാക്കു് നൽകുക
 
 ## Password Card
 
@@ -244,10 +236,6 @@ contextual-manager-password-login-line-with-alert =
     .title = ഒളിവാക്കു് പകൎത്തുക (മുന്നറിയിപ്പു്)
 contextual-manager-edit-login-button = തിരുത്തുക
     .tooltiptext = ഒളിവാക്കു് തിരുത്തുക
-contextual-manager-view-alert-heading =
-    .heading = മുന്നറിയിപ്പു് കാണുക
-contextual-manager-view-alert-button =
-    .tooltiptext = മുന്നറിയിപ്പു് അവലോകിക്കുക
 contextual-manager-show-password-button =
     .aria-label = ഒളിവാക്ക് കാണിയ്ക്കുക
     .title = ഒളിവാക്ക് കാണിയ്ക്കുക
@@ -262,8 +250,6 @@ contextual-manager-passwords-no-passwords-found-message-2 = മറ്റൊര�
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = താങ്ങളുടെ ഒളിവാക്കുകളെ ഒരു സുരക്ഷിതമായ ഇടത്തില് കരുതിവയ്ക്കുക
 # This string encourages the user to save their passwords to Firefox again.
 contextual-manager-passwords-no-passwords-get-started-message = തുടങ്ങാൻ വേണ്ടി അവയെ ഇവിടെ ചേൎക്കുക
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.

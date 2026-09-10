@@ -151,15 +151,10 @@ addon-sitepermission-host = { $host } 的網站權限
 
 ## These are global warnings
 
-extensions-warning-safe-mode = 所有附加元件於安全模式中都已停用。
-extensions-warning-check-compatibility = 已停止檢查附加元件相容性，您可能有不相容的附加元件。
-extensions-warning-safe-mode2 =
-    .message = 所有附加元件於安全模式中都已停用。
 extensions-warning-check-compatibility2 =
     .message = 已停止檢查附加元件相容性，您可能有不相容的附加元件。
 extensions-warning-check-compatibility-button = 開啟
     .title = 開啟附加元件相容性檢查
-extensions-warning-update-security = 已停止檢查附加元件安全性，更新程式可能不安全。
 extensions-warning-update-security2 =
     .message = 已停止檢查附加元件安全性，更新程式可能不安全。
 extensions-warning-update-security-button = 開啟
@@ -235,10 +230,6 @@ shortcuts-duplicate = 快速鍵重複
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = 有超過一種情況使用 { $shortcut } 作為快捷鍵，重複的快速鍵可能會有無法預期的行為。
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = 有超過一種情況使用 { $shortcut } 作為快捷鍵，重複的快速鍵可能會有無法預期的行為。
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -257,11 +248,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = 擴充套件與佈景主題就是可以在瀏覽器中使用的應用程式，讓您獲得保護登入資訊、下載影片、比價、調整瀏覽器的外觀等等新增功能。這些小程式通常都不是由 Mozilla 開發的。以下是一些 { -brand-product-name } 所<a data-l10n-name="learn-more-trigger">推薦</a>，在安全性、效能、功能等方便都表現傑出的精選項目。
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = 某些項目是根據您安裝的其他擴充套件、偏好設定、使用統計推導而出的個人化建議。
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message = 某些項目是根據您安裝的其他擴充套件、偏好設定、使用統計推導而出的個人化建議。
@@ -342,16 +328,9 @@ addon-detail-last-updated-label = 最近更新時間
 addon-detail-homepage-label = 首頁
 addon-detail-rating-label = 評分
 # Message for add-ons with a staged pending update.
-install-postponed-message = 將在 { -brand-short-name } 重新啟動後更新此擴充套件。
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = 將在 { -brand-short-name } 重新啟動後更新此擴充套件。
 install-postponed-button = 立即更新
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = 評分: { NUMBER($rating, maximumFractionDigits: 1) }，滿分 5 分
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -366,9 +345,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = 已移除 <span data-l10n-name="addon-name">{ $addon }</span>。
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -387,11 +363,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = 允許於隱私瀏覽視窗運作
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = 允許於隱私瀏覽視窗運作
 addon-detail-private-browsing-help = 允許後，您在隱私瀏覽模式上網時，擴充套件將可得知您的線上行為。<a data-l10n-name="learn-more">了解更多</a>
 addon-detail-private-browsing-allow = 允許
@@ -418,17 +389,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } 僅推薦符合我們的安全性與效能標準的擴充套件
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = 由 Mozilla 打造的官方附加元件，符合各種安全性與運作效能標準
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = 我們檢查過此擴充套件，確認符合安全性與運作效能標準
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -458,9 +418,6 @@ addon-permissions-heading = 權限
 addon-permissions-empty2 = 此擴充套件並未要求任何權限。
 addon-permissions-required-label = 必要：
 addon-permissions-optional-label = 選擇性：
-addon-permissions-empty = 此擴充套件並未要求任何權限
-addon-permissions-required = 核心功能需要下列權限：
-addon-permissions-optional = 選用功能需要下列權限：
 addon-permissions-learnmore = 了解權限的更多資訊
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -501,25 +458,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } 與 { -brand-short-name } { $version } 不相容。
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } 與 { -brand-short-name } { $version } 不相容。
-details-notification-incompatible-link = 更多資訊
-details-notification-unsigned-and-disabled = 無法驗證 { $name } 於 { -brand-short-name } 使用，已被停用。
 details-notification-unsigned-and-disabled2 =
     .message = 無法驗證 { $name } 於 { -brand-short-name } 使用，已被停用。
-details-notification-unsigned-and-disabled-link = 更多資訊
-details-notification-unsigned = 無法驗證 { $name } 於 { -brand-short-name } 使用，若要使用請小心。
 details-notification-unsigned2 =
     .message = 無法驗證 { $name } 於 { -brand-short-name } 使用，若要使用請小心。
 details-notification-hard-blocked-extension =
     .message = 此擴充套件違反 Mozilla 的政策規定，已被停用。
 details-notification-hard-blocked-other =
     .message = 此附加元件違反 Mozilla 的政策規定，已被停用。
-details-notification-unsigned-link = 更多資訊
-details-notification-blocked = 因為安全性或穩定性因素，{ $name } 已被停用。
 details-notification-blocked-link2 = 檢視詳細資訊
 details-notification-soft-blocked-extension-disabled2 =
     .message = 此擴充套件受到限制，已被停用。您還是可以啟用，但可能會有風險。
@@ -529,19 +477,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = 此附加元件受到限制，已被停用。您還是可以啟用，但可能會有風險。
 details-notification-soft-blocked-other-enabled2 =
     .message = 此附加元件受到限制，繼續使用可能會有風險。
-details-notification-soft-blocked-extension-disabled =
-    .message = 此擴充套件違反了 Mozilla 的政策規定，已被停用。您還是可以開啟，但可能會有風險。
-details-notification-soft-blocked-extension-enabled =
-    .message = 此擴充套件違反了 Mozilla 的政策規定，繼續使用可能會有風險。
-details-notification-soft-blocked-other-disabled =
-    .message = 此附加元件違反了 Mozilla 的政策規定，已被停用。您還是可以開啟，但可能會有風險。
-details-notification-soft-blocked-other-enabled =
-    .message = 此附加元件違反了 Mozilla 的政策規定，繼續使用可能會有風險。
 details-notification-softblocked-link2 = 檢視詳細資訊
-details-notification-blocked-link = 更多資訊
-details-notification-softblocked = 已知 { $name } 會造成安全性或穩定性問題。
-details-notification-softblocked-link = 更多資訊
-details-notification-gmp-pending = 即將安裝 { $name }。
 details-notification-gmp-pending2 =
     .message = 即將安裝 { $name }。
 
@@ -557,8 +493,6 @@ plugins-widevine-description = 此外掛程式讓您可播放相容於 Encrypted
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = 必需收集的資料：
-addon-permissions-optional-data-collection = 選擇性收集的資料：
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = 權限與資料
 # This is a description for extension that use this AI model

@@ -5,13 +5,6 @@
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Aɗa jogii jaŋtol hookre ngol neldaaka
-       *[other] Aɗa jogii jaŋte kooke { $reportCount } ɗe neldaaka
-    }
 pending-crash-reports-view-all =
     .label = Yiy
 pending-crash-reports-send =

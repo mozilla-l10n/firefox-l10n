@@ -2,113 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
 browser-shortcut-description = ਤੇਜ਼ ਅਤੇ ਪ੍ਰਾਈਵੇਟ ਵੈੱਬ ਬਰਾਊਜ਼ਿੰਗ
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } — ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -176,8 +74,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = ਆਫ਼ਲਾਈਨ ਸਟੋਰੇਜ਼ ਸੁਨੇਹਾ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ
 urlbar-password-notification-anchor =
     .tooltiptext = ਪਾਸਵਰਡ ਸੰਭਾਲਣ ਸੁਨੇਹਾ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ
-urlbar-plugins-notification-anchor =
-    .tooltiptext = ਵਰਤੋਂ ਅਧੀਨ ਪਲੱਗਇਨ-ਇਨ ਦਾ ਬੰਦੋਬਸਤ
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = ਸਾਈਟ ਨਾਲ ਆਪਣੇ ਕੈਮਰੇ ਅਤੇ/ਜਾਂ ਮਾਈਕਰੋਫ਼ੋਨ ਦੇ ਸਾਂਝਾ ਕਰਨ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 # "Speakers" is used in a general sense that might include headphones or
@@ -190,15 +86,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = ਪੱਕੀ ਸਟੋਰੇਜ਼ 'ਚ ਡਾਟੇ ਨੂੰ ਸਟੋਰ ਕਰੋ
 urlbar-addons-notification-anchor =
     .tooltiptext = ਐਡ-ਆਨ ਇੰਸਟਾਲੇਸ਼ਨ ਸੁਨੇਹਾ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ
-urlbar-tip-help-icon =
-    .title = ਮਦਦ ਲਵੋ
 urlbar-search-tips-confirm = ਠੀਕ ਹੈ, ਸਮਝ ਗਏ
 urlbar-search-tips-confirm-short = ਸਮਝੇ
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = ਟੋਟਕਾ:
 urlbar-result-menu-button =
     .title = ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
 urlbar-result-menu-button-feedback = ਫ਼ੀਡਬੈਕ
@@ -243,9 +132,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = ਇਸ ਸੁਝਾਅ ਨੂੰ ਖ਼ਾਰਜ ਕਰੋ
     .accesskey = D
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = { -firefox-suggest-brand-name } ਬਾਰੇ ਹੋਰ ਜਾਣੋ
-    .accesskey = L
 urlbar-result-menu-manage-firefox-suggest =
     .label = { -firefox-suggest-brand-name } ਦਾ ਇੰਤਜ਼ਾਮ
     .accesskey = M
@@ -277,8 +163,6 @@ urlbar-dismissal-acknowledgment-weather = ਤੁਹਾਡੇ ਸੁਝਾਅ ਲ
 
 urlbar-search-tips-onboard = ਘੱਟ ਲਿਖੋ, ਵੱਧ ਲੱਭੋ: ਆਪਣੀ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ { $engineName } ਤੋਂ ਖੋਜੋ।
 urlbar-search-tips-redirect-2 = { $engineName } ਅਤੇ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਅਤੀਤ ਤੋਂ ਸੁਝਾਅ ਵੇਖਣ ਲਈ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਆਪਣੀ ਖੋਜ ਨਾਲ ਸ਼ੁਰੂ ਕਰੋ।
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = ਖੋਜਣਾ ਸੁਖਾਲਾ ਹੋ ਗਿਆ ਹੈ। ਆਪਣੀ ਖੋਜ ਨੂੰ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਹੋਰ ਵੱਧ ਸੀਮਿਤ ਕਰੋ। ਸੈਟਿੰਗਾਂ ਵਿੱਚ URL ਦੀ ਬਜਾਏ ਖੋਜ ਨੂੰ ਵੇਖੋ।
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = ਜੋ ਤੁਹਾਨੂੰ ਫ਼ੌਰੀ ਚਾਹੀਦਾ ਹੋਵੇ, ਉਹ ਲੱਭਣ ਲਈ ਇਸ ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਚੁਣੋ।
@@ -312,8 +196,6 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਲਈ ਪੱਕੀ ਸਟੋਰੇਜ਼ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾ ਚੁੱਕੇ ਹੋ।
 urlbar-popup-blocked2 =
     .tooltiptext = ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਲਈ ਪੌਪ-ਅੱਪ ਅਤੇ ਤੀਜੀ-ਧਿਰ ਰੀ-ਡਾਇਰੈਕਟ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ।
-urlbar-popup-blocked =
-    .tooltiptext = ਇਸ ਵੈੱਬਸਾਈਟ ਵਾਸਤੇ ਤੁਸੀਂ ਪੋਪਅੱਪ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।
 urlbar-autoplay-media-blocked =
     .tooltiptext = ਤੁਸੀਂ ਆਵਾਜ਼ ਵਾਲੇ ਆਟੋ-ਪਲੇਅ ਮੀਡੀਆ ਨੂੰ ਇਸ ਵੈਬਸਾਈਟ ਲਈ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।
 urlbar-canvas-blocked =
@@ -424,24 +306,18 @@ quickactions-cmd-addons3 = ਇਕਸਟੈਨਸ਼ਨ, ਥੀਮ, ਐਡ-ਆਨ, �
 # Opens preferences page at AI controls
 quickactions-manageai = AI ਕੰਟਰੋਲਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 quickactions-cmd-manageai = AI ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ, IA ਨੂੰ ਬੰਦ ਕਰੋ, AI ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
-quickactions-cmd-addons2 = ਐਡ-ਆਨ
 # Opens the bookmarks library window
 quickactions-bookmarks2 = ਬੁੱਕਮਾਰਕਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 quickactions-cmd-bookmarks = ਬੁੱਕਮਾਰਕ
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = ਸੱਜਰੇ ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
 quickactions-cmd-clearrecenthistory2 = ਕੂਕੀਜ਼, ਕੂਕੀਜ਼ ਮਿਟਾਓ, ਕੈਸ਼, ਕੈਸ਼ ਮਿਟਾਓ, ਬਰਾਊਜ਼ਿੰਗ ਡਾਟਾ, ਬਰਾਊਜ਼ਿੰਗ ਡਾਟੇ ਨੂੰ ਮਿਟਾਓ, ਅਤੀਤ, ਸੱਜਰੇ ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
-quickactions-cmd-clearrecenthistory = ਸੱਜਰੇ ਅਤੀਤ, ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
-quickactions-cmd-clearhistory = ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
 # Opens about:downloads page
 quickactions-downloads2 = ਡਾਊਨਲੋਡਾਂ ਨੂੰ ਵੇਖੋ
 quickactions-cmd-downloads = ਡਾਊਨਲੋਡ
 # Opens about:addons page in the extensions section
 quickactions-extensions = ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 quickactions-cmd-extensions2 = ਇਕਸਟੈਨਸ਼ਨ, ਐਡ-ਆਨ, ਐਡਆਨ
-quickactions-cmd-extensions = ਇਕਸਟੈਨਸ਼ਨਾਂ
 # Opens Firefox View
 quickactions-firefoxview = { -firefoxview-brand-name } ਨੂੰ ਖੋਲ੍ਹੋ
 # English is using "view" and "open view", since the feature name is
@@ -460,7 +336,6 @@ quickactions-cmd-colorpicker = ਰੰਗ ਚੋਣਕਾਰ, ਆਈ-ਡਰੋਪ
 # Opens Firefox Library
 quickactions-cmd-library = ਲਾਇਬਰੇਰੀ
 quickactions-library = ਲਾਇਬਰੇਰੀ ਨੂੰ ਖੋਲ੍ਹੋ
-quickactions-cmd-inspector = ਇੰਸਪੈਕਟਰ, ਡਿਵ-ਟੂਲ
 # Opens about:logins
 quickactions-logins2 = ਪਾਸਵਰਡਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 quickactions-cmd-logins = ਲਾਗਇਨ, ਪਾਸਵਰਡ
@@ -470,9 +345,6 @@ quickactions-mute = ਆਡੀਓ ਚਲਾਉਣ ਵਾਲੀਆਂ ਟੈਬਾ
 # Replace with idiomatic expressions in your language to silence something or
 # someone.
 quickactions-cmd-mute = ਮੌਨ, ਚੁੱਪ, ਖਾਮੋਸ਼, ਸ਼ੀ
-# Opens about:addons page in the plugins section
-quickactions-plugins = ਪਲੱਗਇਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
-quickactions-cmd-plugins = ਪਲੱਗਇਨ
 # Opens the print dialog
 quickactions-print2 = ਸਫ਼ੇ ਨੂੰ ਪਰਿੰਟ ਕਰੋ
 quickactions-cmd-print = ਪਰਿੰਟ ਕਰੋ
@@ -497,19 +369,16 @@ quickactions-cmd-screenshot2 = ਸਕਰੀਨਸ਼ਾਟ, ਸ਼ਕਰੀਨਸ਼ਾ�
 # Opens about:translations
 quickactions-translate = ਅਨੁੁਵਾਦ
 quickactions-cmd-translate = ਅਨੁਵਾਦ
-quickactions-cmd-screenshot = ਸਕਰੀਨਸ਼ਾਟ
 # Opens about:preferences
 quickactions-settings2 = ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = ਸੈਟਿੰਗਾਂ, ਪਸੰਦਾਂ, ਮਨਪਸੰਦ, ਚੋਣਾਂ, ਇੰਤਜ਼ਾਮ, ਪ੍ਰਬੰਧ
-quickactions-cmd-settings = ਸੈਟਿੰਗਾਂ, ਮੇਰੀਆਂ ਪਸੰਦਾਂ, ਚੋਣਾਂ
 # Opens about:addons page in the themes section
 quickactions-themes = ਥੀਮਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-themes2 = ਥੀਮ, ਐਡ-ਆਨ, ਐਡਆਨ
-quickactions-cmd-themes = ਥੀਮ
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ
 quickactions-cmd-update = ਅੱਪਡੇਟ ਕਰੋ
@@ -519,7 +388,6 @@ quickactions-cmd-viewsource2 = ਸਰੋਤ ਨੂੰ ਵੇਖੋ, ਸਰੋਤ
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = { -firefoxlabs-brand-name } ਨੂੰ ਖੋਲ੍ਹੋ
 quickactions-cmd-labs = ਲੈਬ, ਤਜਰਬਾ
-quickactions-cmd-viewsource = ਸਰੋਤ ਵੇਖੋ, ਸਰੋਤ
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = ਫ਼ੌਰੀ ਕਾਰਵਾਈਆਂ ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ
@@ -576,9 +444,7 @@ identity-custom-root = ਕਨੈਕਸ਼ਨ ਨੂੰ ਅਜਿਹੇ ਸਰਟੀ
 identity-passive-loaded = ਇਸ ਸਫ਼ੇ ਦੇ ਕੁਝ ਭਾਗ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹਨ (ਜਿਵੇਂ ਕਿ ਚਿੱਤਰ)।
 identity-active-loaded = ਤੁਸੀਂ ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਸੁਰੱਖਿਆ ਨੂੰ ਅਸਮਰੱਥ ਕਰ ਚੁੱਕੇ ਹੋ।
 identity-weak-encryption = ਇਹ ਸਫ਼ਾ ਕਮਜ਼ੋਰ ਇੰਕ੍ਰਿਪਸ਼ਨ ਵਰਤਦਾ ਹੈ।
-identity-insecure-login-forms = ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਦਿੱਤੇ ਲਾਗਇਨਾਂ ਦੀ ਗਲਤ ਵਰਤੋ ਹੋ ਸਕਦੀ ਹੈ।
 identity-https-only-connection-upgraded = (HTTPS ਲਈ ਅੱਪਗਰੇਡ ਕੀਤਾ)
-identity-https-only-label = ਸਿਰਫ਼-HTTPS ਹੀ ਮੋਡ
 identity-https-only-label2 = ਇਸ ਸਾਈਟ ਲਈ ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ ਵਾਸਤੇ ਆਪਣੇ-ਆਪ ਅੱਪਗਰੇਡ ਕਰੋ
 identity-https-only-dropdown-on =
     .label = ਚਾਲੂ
@@ -586,8 +452,6 @@ identity-https-only-dropdown-off =
     .label = ਬੰਦ
 identity-https-only-dropdown-off-temporarily =
     .label = ਆਰਜ਼ੀ ਤੌਰ ਉੱਤੇ ਬੰਦ
-identity-https-only-info-turn-on2 = ਜੇ ਤੁਸੀਂ ਚਾਹੁੰਦੇ ਹੋ ਕਿ ਜਦੋਂ ਵੀ ਹੋ ਸਕੇ ਇਸ ਸਾਈਟ ਲਈ { -brand-short-name } ਕਨੈਕਸ਼ਨ ਨੂੰ ਅੱਪਗਰੇਡ ਕਰੇ ਤਾਂ ਸਿਰਫ਼-HTTPS ਨੂੰ ਚਾਲੂ ਕਰੋ।
-identity-https-only-info-turn-off2 = ਜੇ ਸਫ਼ਾ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਤਾਂ ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਨੂੰ ਅਸੁਰੱਖਿਅਤ HTTP ਰਾਹੀਂ ਮੁੜ-ਲੋਡ ਕਰਨ ਵਾਸਤੇ ਸਿਰਫ਼-HTTPS ਮੋਡ ਨੂੰ ਬੰਦ ਕਰਕੇ ਵੇਖ ਸਕਦੇ ਹੋ।
 identity-https-only-info-turn-on3 = ਜੇ ਤੁਸੀਂ ਚਾਹੁੰਦੇ ਹੋ ਕਿ { -brand-short-name } ਜਦ ਵੀ ਸੰਭਵ ਹੋਵੇ ਤਾਂ ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ ਲਈ ਅੱਪਗਰੇਡ ਕਰੇ ਤਾਂ ਇਸ ਸਾਈਟ ਲਈ HTTPS ਅੱਪਗਰੇਡ ਕਰੋ।
 identity-https-only-info-turn-off3 = ਜੇ ਸਫ਼ਾ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਾ ਕਰਦਾ ਹੋਵੇ ਤਾਂ ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਲਈ ਅਸੁਰੱਖਿਅਤ HTTP ਵਰਤੋਂ ਕਰਕੇ ਇਸ ਸਾਈਟ ਨੂੰ ਮੁੜ ਲੋੜ ਕਰਨ ਲਈ HTTPS ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ।
 identity-https-only-info-no-upgrade = HTTP ਤੋਂ ਕਨੈਕਸ਼ਨ ਅੱਪਗਰੇਡ ਕਰਨ ਅਸਮਰੱਥ ਹੈ।
@@ -611,7 +475,6 @@ identity-remove-cert-exception =
     .label = ਛੋਟ ਨੂੰ ਹਟਾਓ
     .accesskey = R
 identity-description-insecure = ਇਸ ਸਾਈਟ ਨਾਲ ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਪ੍ਰਾਈਵੇਟ ਨਹੀਂ ਹੈ। ਤੁਹਾਡੇ ਵਲੋਂ ਭੇਜੀ ਜਾਣਕਾਰੀ (ਜਿਵੇਂ ਕਿ ਪਾਸਵਰਡ, ਸੁਨੇਹੇ, ਕਰੈਡਿਟ ਕਾਰਡ ਆਦਿ) ਨੂੰ ਹੋਰਾਂ ਵਲੋਂ ਵੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ।
-identity-description-insecure-login-forms = ਤੁਹਾਡੇ ਵਲੋਂ ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਦਿੱਤੀ ਜਾਣ ਵਾਲੀ ਲਾਗਇਨ ਜਾਣਕਾਰੀ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ ਅਤੇ ਉਸ ਨੂੰ ਚੋਰੀ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
 identity-description-weak-cipher-intro = ਇਸ ਵੈੱਬਸਾਈਟ ਨਾਲ ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਕਮਜ਼ੋਰ ਇੰਕ੍ਰਿਪਸ਼ਨ ਵਰਤਦਾ ਹੈ ਅਤੇ ਪ੍ਰਾਈਵੇਟ ਨਹੀਂ ਹੈ।
 identity-description-weak-cipher-risk = ਹੋਰ ਲੋਕ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖ ਸਕਦੇ ਹਨ ਜਾਂ ਵੈੱਬਸਾਈਟ ਦੇ ਰਵੱਈਏ ਨੂੰ ਬਦਲ ਸਕਦੇ ਹਨ।
 identity-description-active-blocked2 = { -brand-short-name } ਨੇ ਇਸ ਸਫ਼ੇ ਦੇ ਭਾਗਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ, ਕਿਉਂਕਿ ਇਹ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ।
@@ -622,12 +485,6 @@ identity-description-active-loaded = ਇਸ ਵੈੱਬਸਾਈਟ ਉੱਤ�
 identity-description-active-loaded-insecure = ਇਸ ਸਾਈਟ ਨਾਲ ਤੁਹਾਡੇ ਵਲੋਂ ਸਾਂਝੀ ਕੀਤੀ ਜਾਣਕਾਰੀ (ਜਿਵੇਂ ਕਿ ਪਾਸਵਰਡ, ਸੁਨੇਹੇ, ਕਰੈਡਿਟ ਕਾਰਡ ਆਦਿ) ਨੂੰ ਹੋਰਾਂ ਵਲੋਂ ਵੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ।
 identity-description-tls-key-logging-heading = ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਸ਼ਾਇਦ ਪ੍ਰਾਈਵੇਟ ਨਾ ਹੋਵੇ
 identity-description-tls-key-logging-message = ਕੋਈ ਐਪ ਜਾਂ ਸਰਵਿਸ ਇਸ ਸਾਈਟ ਨਾਲ ਤੁਹਾਡੇ ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਟਰੈਫਿਕ ਨੂੰ ਵੇਖ ਸਕਦੀ ਹੈ।
-identity-disable-mixed-content-blocking =
-    .label = ਸੁਰੱਖਿਆ ਨੂੰ ਹੁਣ ਅਸਮਰੱਥ ਬਣਾਓ
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = ਸੁਰੱਖਿਆ ਸਮਰੱਥ ਕਰੋ
-    .accesskey = E
 identity-more-info-link-text =
     .label = ਹੋਰ ਜਾਣਕਾਰੀ
 
@@ -644,37 +501,6 @@ browser-window-close-button =
 # Clicking this button closes the window and returns to the tab where it was opened from
 browser-window-return-to-opener =
     .tooltiptext = ਵਾਪਸ
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = ਚੱਲ ਰਿਹਾ ਹੈ
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = ਮੌਨ ਕੀਤਾ
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = ਆਪੇ-ਚੱਲਣ ਉੱਤੇ ਰੋਕ ਲੱਗੀ
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = ਤਸਵੀਰ-ਵਿੱਚ-ਤਸਵੀਰ
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] ਟੈਬ ਤੋਂ ਆਵਾਜ਼ ਬੰਦ ਕਰੋ
-       *[other] { $count } ਟੈਬਾਂ ਤੋਂ ਆਵਾਜ਼ ਬੰਦ ਕਰੋ
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] ਟੈਬ ਦੀ ਆਵਾਜ਼ ਸੁਣਾਓ
-       *[other] { $count } ਟੈਬਾਂ ਦੀ ਆਵਾਜ਼ ਸੁਣਾਓ
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] ਟੈਬ ਨੂੰ ਚਲਾਓ
-       *[other] { $count } ਟੈਬਾਂ ਨੂੰ ਚਲਾਓ
-    }
 
 ## Bookmarks toolbar items
 
@@ -717,10 +543,6 @@ sharing-warning-disable-for-session =
 
 webserial-select-port-label = ਸੀਰੀਅਲ ਪੋਰਟ ਨੂੰ ਚੁਣੋ:
 webserial-no-ports-available = ਕੋਈ ਸੀਰੀਅਲ ਪੋਰਟ ਮੌਜੂਦ ਨਹੀਂ ਹੈ
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = F12 ਸ਼ਾਰਟਕੱਟ ਵਰਤਣ ਲਈ, ਪਹਿਲਾਂ ਬਰਾਊਜ਼ਰ ਟੂਲ ਮੇਨੂ ਰਾਹੀਂ DevTools ਖੋਲ੍ਹੋ।
 
 ## URL Bar
 
@@ -785,8 +607,6 @@ urlbar-extension =
     .value = ਇਕਟੈਨਸ਼ਨ:
 urlbar-go-button2 =
     .title = ਟਿਕਾਣਾ ਪੱਟੀ ਵਿੱਚ ਦਿੱਤੇ ਸਿਰਨਾਵੇਂ 'ਤੇ ਜਾਓ
-urlbar-go-button =
-    .tooltiptext = ਟਿਕਾਣਾ ਪੱਟੀ ਵਿੱਚ ਦਿੱਤੇ ਸਿਰਨਾਵੇਂ 'ਤੇ ਜਾਓ
 urlbar-page-action-button =
     .tooltiptext = ਸਫ਼ਾ ਕਾਰਵਾਈਆਂ
 urlbar-revert-button =
@@ -844,11 +664,6 @@ urlbar-result-action-tabtosearch-web = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਤ
 urlbar-result-action-tabtosearch-other-engine = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਤੋਂ ਸਿੱਧੀ { $engine } ਖੋਜੋ
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = ਕਾਪੀ ਕਰੋ
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = ਨਾ-ਪਰਿਭਾਸ਼ਿਤ
 # The sub title of an add-on suggestion in the urlbar.
@@ -859,23 +674,6 @@ urlbar-result-mdn-subtitle = { -mdn-brand-name }
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
 urlbar-result-suggestion-recommended = ਸਿਫ਼ਾਰਸ਼ੀ
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
-# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
-# The last = sign will be shown as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
-# Shows the result of a formula expression being calculated, to a maximum of 9 significant
-# digits. This is used for numbers < 1.
-# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 # The title of a weather suggestion in the urlbar. The temperature and unit
 # substring should be inside a <strong> tag. If the temperature and unit are not
 # adjacent in the localization, it's OK to include only the temperature in the
@@ -1064,32 +862,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - { $localSearchMode
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - { $engine } ਨਾਲ ਖੋਜੋ
-urlbar-searchmode-dropmarker =
-    .tooltiptext = ਖੋਜ ਇੰਜਣ ਦੀ ਚੋਣ ਕਰੋ
-urlbar-searchmode-bookmarks =
-    .label = ਬੁੱਕਮਾਰਕ
-urlbar-searchmode-tabs =
-    .label = ਟੈਬਾਂ
-urlbar-searchmode-history =
-    .label = ਅਤੀਤ
-urlbar-searchmode-actions =
-    .label = ਕਾਰਵਾਈਆਂ
-urlbar-searchmode-exit-button =
-    .tooltiptext = ਬੰਦ ਕਰੋ
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = ਇਹ ਵਾਰ ਖੋਜ ਇਸ ਨਾਲ ਕਰੋ:
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = ਖੋਜ ਸੈਟਿੰਗਾਂ
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button2 =
-    .label = { $engine }, ਇੱਕ ਖੋਜ ਇੰਜਣ ਨੂੰ ਚੁਣੋ
-    .tooltiptext = { $engine }, ਇੱਕ ਖੋਜ ਇੰਜਣ ਨੂੰ ਚੁਣੋ
-urlbar-searchmode-button-no-engine =
-    .label = ਕੋਈ ਸ਼ਾਰਟਕੱਟ ਚੁਣਿਆ ਨਹੀਂ ਹੈ, ਸ਼ਾਰਟਕੱਟ ਚੁਣੋ
-    .tooltiptext = ਕੋਈ ਸ਼ਾਰਟਕੱਟ ਚੁਣਿਆ ਨਹੀਂ ਹੈ, ਕੋਈ ਇੱਕ ਸ਼ਾਰਟਕੱਟ ਚੁਣੋ
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1196,16 +968,10 @@ urlbar-group-trending =
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = ਖੋਜਾਂ ਦੇ ਰੁਝਾਨ ਨਾ ਦਿਖਾਓ
     .accesskey = D
-# Label shown above sponsored suggestions in the urlbar results.
-urlbar-group-sponsored =
-    .label = ਸਪੌਂਸਰ ਕੀਤੇ
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = ਖੋਜਾਂ ਦੇ ਰੁਝਾਨ ਨਾ ਦਿਖਾਓ
     .accesskey = D
-urlbar-result-menu-trending-why =
-    .label = ਮੈਂ ਇਹ ਕਿਉਂ ਦੇਖ ਰਿਹਾ/ਰਹੀ ਹਾਂ?
-    .accesskey = W
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = ਤੁਹਾਡੇ ਸੁਝਾਆਵਾਂ ਲਈ ਧੰਨਵਾਦ ਹੈ। ਤੁਸੀਂ ਹੁਣ ਹੋਰ ਖੋਜ ਰੁਝਾਨ ਨਹੀਂ ਵੇਖੋਗੇ।
@@ -1290,12 +1056,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਨੂੰ ਲੁਕਾਓ
            *[other] ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਨੂੰ ਵੇਖਾਓ
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] ਬੁੱਕਮਾਰਕ ਮੇਨੂ ਨੂੰ ਆਪਣੇ ਟੂਲਬਾਰ 'ਚੋਂ ਹਟਾਓ
-           *[other] ਬੁੱਕਮਾਰਕ ਮੇਨੂ ਨੂੰ ਆਪਣੇ ਟੂਲਬਾਰ 'ਚ ਜੋੜੋ
-        }
 
 ##
 
@@ -1326,14 +1086,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = ਬੁੱਕਮਾਰਕ
-library-recent-activity-title =
-    .value = ਸੱਜਰੀ ਸਰਗਰਮੀ
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲੋ
-    .tooltiptext = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲੋ
 
 ## Repair text encoding toolbar button
 
@@ -1423,8 +1175,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = ਵਰਤੋਂਕਾਰ-ਨਾਂ
-panel-save-update-password = ਪਾਸਵਰਡ
 panel-save-update-username-2 =
     .label = ਵਰਤੋਂਕਾਰ-ਨਾਂ
 panel-save-update-password-2 =
@@ -1446,33 +1196,18 @@ menu-share-copy-links =
            *[other] { $count } ਲਿੰਕਾਂ ਨੂੰ ਕਾਪੀ ਕਰੋ
         }
     .accesskey = L
-menu-share-copy-link =
-    .label = ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕਰੋ
-    .accesskey = L
 ui-tour-info-panel-close =
     .tooltiptext = ਬੰਦ ਕਰੋ
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
-popups-infobar-allow =
-    .label = { $uriHost } ਵਾਸਤੇ ਪੋਪਅੱਪ ਮਨਜ਼ੂਰ
-    .accesskey = p
-popups-infobar-block =
-    .label = { $uriHost } ਵਾਸਤੇ ਪੋਪਅੱਪ ਪਾਬੰਦੀ
-    .accesskey = p
 popups-infobar-allow2 =
     .label = { $uriHost } ਲਈ ਪੌਪ-ਅੱਪ ਅਤੇ ਤੀਜੀ-ਧਿਰ ਰੀ-ਡਾਇਰੈਕਟ ਦੀ ਮਨਜ਼ੂਰੀ ਦਿਓ
     .accesskey = p
 
 ##
 
-popups-infobar-dont-show-message =
-    .label = ਜਦੋਂ ਪੋਪਅੱਪ ਬਲਾਕ ਕੀਤੇ ਹੋਣ ਤਾਂ ਇਹ ਸੁਨੇਹਾ ਨਾ ਵੇਖਾਓ
-    .accesskey = D
-edit-popup-settings =
-    .label = …ਪੌਪ-ਅੱਪ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
-    .accesskey = M
 picture-in-picture-hide-toggle =
     .label = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਬਦਲਣ ਨੂੰ ਲੁਕਾਓ
     .accesskey = H
@@ -1498,8 +1233,6 @@ navbar-downloads =
     .label = ਡਾਊਨਲੋਡ
 navbar-overflow-2 =
     .tooltiptext = ਹੋਰ ਟੂਲ
-navbar-overflow =
-    .tooltiptext = …ਹੋਰ ਟੂਲ
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1602,13 +1335,8 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਨੂੰ ਸਮਾਪਤ ਕਰੋ
-    .tooltiptext = ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਨੂੰ ਸਮਾਪਤ ਕਰੋ
 reset-pbm-panel-heading2 = ਡਾਟਾ ਮਿਟਾ ਕੇ ਨਵਾਂ ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਸ਼ੁਰੂ ਕਰਨਾ ਹੈ?
 reset-pbm-panel-description2 = ਇਹ ਤੁਹਾਡੀ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਬੰਦ ਕੀਤੇ ਬਗ਼ੈਰ ਅਤੀਤ, ਕੂਕੀਜ਼ ਅਤੇ ਹੋਰ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਹਟਾਉਂਦੀ ਹੈ।
-reset-pbm-panel-heading = ਆਪਣੇ ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਨੂੰ ਸਮਾਪਤ ਕਰਨਾ ਹੈ?
-reset-pbm-panel-description = ਸਾਰੀਆਂ ਪ੍ਰਾਈਵੇਟ ਟੈਬਾਂ ਬੰਦ ਕਰੋ ਅਤੇ ਅਤੀਤ, ਕੂਕੀਜ਼ ਅਤੇ ਹੋਰ ਸਾਈਟ ਡਾਟਾ ਹਟਾ ਦਿਓ।
 reset-pbm-panel-always-ask-checkbox =
     .label = ਹਮੇਸ਼ਾਂ ਮੈਨੂੰ ਪੁੱਛੋ
     .accesskey = A
@@ -1618,9 +1346,6 @@ reset-pbm-panel-cancel-button =
 reset-pbm-panel-confirm-button2 =
     .label = ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਨੂੰ ਮਿਟਾਓ
     .accesskey = I
-reset-pbm-panel-confirm-button =
-    .label = ਸ਼ੈਸ਼ਨ ਡਾਟੇ ਨੂੰ ਹਟਾਓ
-    .accesskey = D
 reset-pbm-panel-complete = ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ
 reset-pbm-toolbar-button2 =
     .label = ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਨੂੰ ਮਿਟਾਓ

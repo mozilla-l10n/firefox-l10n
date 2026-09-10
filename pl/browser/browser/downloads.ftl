@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Pokaż w Finderze
            *[other] Pokaż w folderze
         }
-downloads-cmd-show-downloads =
-    .label = Pokaż folder z pobranymi
 downloads-cmd-retry =
     .tooltiptext = Spróbuj ponownie
 downloads-cmd-retry-panel =

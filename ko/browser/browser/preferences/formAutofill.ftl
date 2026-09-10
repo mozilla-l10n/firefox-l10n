@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = 저장된 주소
 autofill-manage-addresses-list-header = 주소
-autofill-manage-credit-cards-title = 저장된 신용 카드
-autofill-manage-credit-cards-list-header = 신용 카드
 autofill-manage-payment-methods-title = 저장된 결제 수단
 autofill-manage-cards-list-header = 카드
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = 메뉴 열기
 address-capture-edit-address-link = 주소 편집
     .aria-label = 주소 편집
-address-capture-edit-address-button =
-    .aria-label = 주소 편집
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = 주소 추가
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = 주소 편집
-autofill-address-given-name = 이름
-autofill-address-additional-name = 중간 이름
-autofill-address-family-name = 성
 autofill-address-name = 이름
 autofill-address-organization = 조직
 autofill-address-street-address = 도로 주소
@@ -104,8 +97,6 @@ autofill-address-eircode = 우편 번호
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = 새 주소 추가
 autofill-address-country = 국가 또는 지역
 autofill-address-country-only = 국가
 autofill-address-tel = 전화
@@ -114,18 +105,6 @@ autofill-cancel-button = 취소
 autofill-save-button = 저장
 autofill-country-warning-message-2 = 양식 자동 채우기는 현재 일부 국가에서만 사용할 수 있습니다.
 autofill-country-warning-message = 양식 자동 채우기는 현재 일부 국가에서만 사용할 수 있습니다.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = 새 신용 카드 추가
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = 신용 카드 수정
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] 신용 카드 정보 표시
-        [windows] { -brand-short-name }가 신용 카드 정보를 표시하려고 합니다. 아래 Windows 계정에 대한 접근을 확인하세요.
-       *[other] { -brand-short-name }가 신용 카드 정보를 표시하려고 합니다.
-    }
 autofill-message-tooltip = 자동 채우기에 대한 메시지 보기
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = 카드 추가
@@ -211,15 +190,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = 여권 저장 안 함
     .accessKey = N
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = 아메리칸 엑스프레스
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = 다이너스 클럽
-autofill-card-network-discover = 디스커버 카드
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = 마스터카드
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = 유니온페이
-autofill-card-network-visa = 비자카드

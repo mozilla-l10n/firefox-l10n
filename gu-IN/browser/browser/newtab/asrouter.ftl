@@ -62,16 +62,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = દરેક જગ્યાએ તમારા બુકમાર્ક્સ સમન્વયિત કરો.
-cfr-doorhanger-bookmark-fxa-body = મહાન શોધ! હવે તમારા મોબાઇલ ઉપકરણો પર આ બુકમાર્ક વિના છોડી શકાશે નહીં. { -fxaccount-brand-name } થી પ્રારંભ કરો.
 cfr-doorhanger-bookmark-fxa-link-text = હવે બુકમાર્ક્સ સમન્વયિત કરો...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = બંધ કરો બટન
     .title = બંધ
-
-## Protections panel
-
-cfr-protections-panel-header = અનુસર્યા વિના બ્રાઉઝ કરો
-cfr-protections-panel-link-text = વધુ જાણો
 
 ## What's New toolbar button and panel
 

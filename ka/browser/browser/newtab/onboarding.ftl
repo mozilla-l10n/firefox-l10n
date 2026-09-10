@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = დაამატეთ { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = წინსვლა: ნაბიჯი { $current }, სულ { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -199,11 +193,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = მიამაგრეთ { -brand-short-name } ამოცანათა ზოლსა და დაწყების მენიუში
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = შეუდექით ბრაუზერის გამოყენებას, რომელიც არამომგებიანი ორგანიზაციისგანაა. ჩვენ ვიცავთ თქვენს პირად მონაცემებს, როცა ვებსივრცეში მოგზაურობთ.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -233,57 +222,10 @@ mr2022-onboarding-set-default-subtitle = შეუდექით ბრაუ�
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = ჩვენი უახლესი ვერსია შექმნილია თქვენი საჭიროებებისთვის, არნახულად გაგიადვილებთ ვებსივრცეში მოგზაურობას. აღჭურვილია შესაძლებლობებით, რომლებიც, ვფიქრობთ, მეტად მოგეწონებათ.
 mr2022-onboarding-get-started-primary-button-label = დაყენება წამებში
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = ელვისებური გამართვა
-mr2022-onboarding-import-subtitle = მოაწყვეთ { -brand-short-name } სურვილისამებრ. გადმოიტანეთ თქვენი ძველი ბრაუზერიდან კუთვნილი სანიშნები, პაროლები და სხვ.
 mr2022-onboarding-import-primary-button-label-no-attribution = გადმოტანა წინა ბრაუზერიდან
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = აირჩიეთ შთამაგონებელი ფერები
-mr2022-onboarding-colorway-subtitle = დამოუკიდებელი ხმები ცვლის ღირებულებებს.
-mr2022-onboarding-colorway-primary-button-label-continue = დააყენეთ და განაგრძეთ
-mr2022-onboarding-existing-colorway-checkbox-label = გამოიყენეთ { -firefox-home-brand-name } ფერადოვან საწყის გვერდად
-mr2022-onboarding-colorway-label-default = ნაგულისხმევი
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = { -brand-short-name } – ამჟამინდელი ფერი
-mr2022-onboarding-colorway-description-default = <b>დარჩეს { -brand-short-name } ამ ფერებში.</b>
-mr2022-onboarding-colorway-label-playmaker = გამთამაშებელი
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = გამთამაშებელი (წითელი)
-mr2022-onboarding-colorway-description-playmaker = <b>გამთამაშებელი.</b> ქმნით გამარჯვების ახალ შესაძლებლობებს და ირგვლივ მყოფთაც ხელს უწყობთ, რომ უკეთ გამოავლინონ საკუთარი უნარები.
-mr2022-onboarding-colorway-label-expressionist = გამომსახველობითი
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = გამომსახველობითი (ყვითელი)
-mr2022-onboarding-colorway-description-expressionist = <b>გამომსახველობითი.</b> სამყაროს განსხვავებულად აღიქვამთ და თქვენი ნამუშევრები სხვებშიც ძლიერ განცდებს აღძრავს.
-mr2022-onboarding-colorway-label-visionary = შორსმჭვრეტელი
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = შორსმჭვრეტელი (მწვანე)
-mr2022-onboarding-colorway-description-visionary = <b>შორსმჭრეტელი.</b> არ ეგუებით არსებულ მდგომარეობას და სხვებსაც უღვივებთ უკეთესი მომავლის იმედს.
-mr2022-onboarding-colorway-label-activist = მებრძოლი
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = მებრძოლი (ლურჯი)
-mr2022-onboarding-colorway-description-activist = <b>მებრძოლი.</b> სამყაროს ცვლით უკეთესობისკენ და სხვებსაც არწმუნებით ამის საჭიროებაში.
-mr2022-onboarding-colorway-label-dreamer = მეოცნებე
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = მეოცნებე (იისფერი)
-mr2022-onboarding-colorway-description-dreamer = <b>მეოცნებე.</b> გჯერათ, რომ უმართლებთ მხოლოდ ძლიერებს და ყველას შთააგონებთ, იყვნენ მეტად გაბედულნი.
-mr2022-onboarding-colorway-label-innovator = განმაახლებელი
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = განმაახლებელი (ნარინჯისფერი)
-mr2022-onboarding-colorway-description-innovator = <b>სიახლის შემომტანი.</b> ყველაფრისადმი თქვენი ახლებური ხედვა უკეთესობისკენ ცვლის გარშემომყოფთა ცხოვრებას.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = მოქნილად გადაერთეთ ნოუთბუქიდან ტელეფონზე ან პირიქით
-mr2022-onboarding-mobile-download-subtitle = გაიყოლეთ ჩანართები სხვა მოწყობილობაზე და განაგრძეთ იქიდან, სადაც შეჩერდით. ამასთანავე, დაასინქრონეთ სანიშნები და პაროლები ყველგან, სადაც { -brand-product-name } გიყენიათ.
 mr2022-onboarding-mobile-download-cta-text = გადაუღეთ QR-კოდს, რომ გადმოწეროთ { -brand-product-name } მობილურზე ან <a data-l10n-name="download-label">გაგზავნეთ ჩამოსატვირთი ბმული.</a>
 mr2022-onboarding-no-mobile-download-cta-text = გადაუღეთ QR-კოდს, რომ გადმოწეროთ { -brand-product-name } მობილურზე.
 
@@ -336,15 +278,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = ღია და მუქი კანის ხელისგულების შემოკვრა
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = მზის ჩასვლის ხედი ფანჯრიდან და რაფაზე მძინარე მელა ოთახის ყვავილთან ერთად.
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = ხელში დაჭერილი შესასხურებლით იხატება ფერადი ნივთების ნაკრები მწვანე თვალით, ნარინჯისფერი ფეხსაცმლით, კალათბურთის წითელი ბურთით, იისფერი ყურსასმენით, ლურჯი გულითა და ოქროსფერი გვირგინით.
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = მელას მისალმება ნოუთბუქის ეკრანიდან. ნოუთბუქზე მიერთებულია თაგვი.
 onboarding-device-migration-title = კეთილი იყოს თქვენი დაბრუნება!
-onboarding-device-migration-subtitle = შედით თქვენს  { -fxaccount-brand-name(case: "ins") }, რომ მუდამ თან იქონიოთ თქვენი სანიშნები, პაროლები და ისტორია ახალ მოწყობილობაზე.
 onboarding-device-migration-subtitle2 = შედით ანგარიშზე, რომ თან წაიყოლოთ თქვენი სანიშნები, პაროლები და ისტორია ახალ მოწყობილობაზე.
 onboarding-device-migration-primary-button-label = შესვლა
 
@@ -461,15 +400,12 @@ tab-groups-onboarding-feature-callout-title = მოსინჯეთ ჩან
 tab-groups-onboarding-feature-callout-subtitle = დაალაგეთ ჩანართები ერთიმეორის ზემოთ მოქცევით, რომ შეიქმნას პირველი ჯგუფი.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = ნებისმიერ დროს მონახეთ თქვენი ჩანართის ჯგუფები ყველა ჩანართის მენიუში.
-tab-groups-onboarding-create-group-title-2 = აქ მოიძიეთ ნებისმიერ დროს თქვენი ჩანართების ჯგუფები.
 tab-groups-onboarding-create-group-no-alltabs-button-title = მონახეთ თქვენი ჯგუფები მისამართების ველში მოძიებით.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = ჩანართის ჯგუფის დახურვის შემდგომ, ნებისმიერ დროს შეგეძლებათ მისი დაბრუნება ყველა ჩანართის მენიუდან.
-tab-groups-onboarding-saved-groups-title-2 = ჩანართის ჯგუფი დახურვის შემთხვევაში, აქედან შეგეძლებათ კვლავ გახსნათ ნებისმიერ დროს.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = მონახეთ დახურული ჯგუფები მისამართების ველში მოძიებით.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = ნებისმიერ დროს შეგეძლებათ თქვენი ჩანართის ჯგუფები კვლავ გახსნათ ყველა ჩანართის მენიუდან.
-tab-groups-onboarding-session-restore-title = კვლავ გახსენით აქედან თქვენი ჩანართების ჯგუფები ნებისმიერ დროს.
 tab-groups-onboarding-dismiss = კარგი
 
 ## Multi Profiles feature onboarding messages

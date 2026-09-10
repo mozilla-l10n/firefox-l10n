@@ -5,6 +5,3 @@
 popup-notification-learn-more = Ətraflı öyrən
 popup-notification-more-actions-button =
     .aria-label = Daha çox fəaliyyətlər
-popup-notification-default-button =
-    .label = Tamam!
-    .accesskey = O

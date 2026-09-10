@@ -97,4 +97,3 @@ certificate-viewer-tab-mine = بڕوانامەکانت
 certificate-viewer-tab-people = خەڵک
 certificate-viewer-tab-servers = ڕاژەکان
 certificate-viewer-tab-ca = دەسەڵاتەکان
-certificate-viewer-tab-unkonwn = نەزانراو

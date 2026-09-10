@@ -188,8 +188,6 @@ options-disable-http-cache-tooltip =
     .title = Zapnutím tejto voľby bude vyrovnávacia pamäť HTTP vypnutá pre všetky karty, ktoré majú otvorené nástroje. Skripty typu worker nebudú touto voľbou ovplyvnené.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label-2 = Zakázať JavaScript
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Zakázať JavaScript *
 options-disable-javascript-tooltip =
     .title = Označením tejto voľby zakážete používanie JavaScriptu na aktuálnej karte. Po zatvorení karty alebo ukončení vývojárskych nástrojov bude táto voľba automaticky prepnutá späť
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -219,8 +217,6 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = (iba pre aktuálnu reláciu, stránka sa znova načíta)
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Len pre aktuálnu reláciu, opäť načíta obsah stránky
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (znovu načíta stránku)

@@ -266,8 +266,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Proffiliau
 menu-profiles-manage-profiles =
     .label = Rheoli proffiliau
 menu-profiles-new-profile =
@@ -291,9 +289,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Estyniadau a Themâu
     .accesskey = E
-menu-tools-addons-and-themes =
-    .label = Ychwanegion a Themâu
-    .accesskey = Y
 menu-tools-fxa-sign-in2 =
     .label = Mewngofnodi
     .accesskey = M
@@ -350,8 +345,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Gwybodaeth am Ddatrys Problemau
     .accesskey = G
-menu-help-report-site-issue =
-    .label = Adrodd am Fater Gwefan…
 menu-help-share-ideas =
     .label = Rhannu Syniadau ac Adborth…
     .accesskey = R

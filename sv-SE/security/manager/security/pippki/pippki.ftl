@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Du är för närvarande i FIPS-läge. FIPS
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Återställ huvudlösenord
     .style = min-width: 40em
+    .title = Återställ huvudlösenord
 reset-password-button-label =
     .label = Ta bort
 reset-primary-password-text = Om du återställer ditt huvudlösenord kommer alla dina lagrade webb- och e-postlösenord, personliga certifikat och privata nycklar att glömmas. Är du säker på att du vill återställa ditt huvudlösenord?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Ditt huvudlösenord har återställ
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Hämtar certifikat
     .style = min-width: 46em
+    .title = Hämtar certifikat
 download-cert-message = En ny Certifikatutfärdare(CA) vill ha ditt godkännande.
 download-cert-trust-ssl =
     .label = Lita på denna CA för identifiering av webbplatser.
@@ -52,8 +52,6 @@ download-cert-view-text = Undersök CA-certifikat
 
 client-auth-window =
     .title = Begäran om användaridentifikation
-client-auth-site-description = Denna plats har begärt att du identifierar dig med ett certifikat:
-client-auth-choose-cert = Välj ett certifikat att ange som identifikation:
 client-auth-send-no-certificate =
     .label = Skicka inte ett certifikat
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Autentisera dig mot säkerhetsenheten ({ $tokenName }). Hur du gör det beror på enheten (till exempel om du använder en fingeravtrycksläsare eller anger en kod med en knappsats).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Vänligen autentisera till token "{ $tokenName }". Hur man gör det beror på token (till exempel genom att använda en fingeravtrycksläsare eller ange en kod med en knappsats).

@@ -35,7 +35,7 @@ remove-search-engine-button = ÜTZ
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = Titz'aqatisäx Kanob'äl
     .style = min-width: 32em;
+    .title = Titz'aqatisäx Kanob'äl
 add-engine-button = Titz'aqatisäx Ichinan Kanob'äl
 add-engine-name = Rub'i' ri kanob'äl

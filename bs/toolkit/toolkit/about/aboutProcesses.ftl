@@ -50,7 +50,6 @@ about-processes-gpu-process = Grafički procesor ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Dekoder podataka ({ $pid })
 about-processes-socket-process = Mreža ({ $pid })
-about-processes-remote-sandbox-broker-process = Udaljeni sandbox broker ({ $pid })
 about-processes-fork-server-process = Fork Server ({ $pid })
 about-processes-preallocated-process = Prethodno dodijeljeno ({ $pid })
 about-processes-utility-process = Uslužni program ({ $pid })
@@ -60,17 +59,6 @@ about-processes-inference-process = Inferencija ({ $pid })
 #    $pid (String) The process id of this process, assigned by the OS.
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = Ostalo: { $type } ({ $pid })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, izolovano između različitih izvora)
-about-processes-web-isolated-process-private = { $origin } — Privatno ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } — Privatno ({ $pid }, izolovano od drugog porijekla)
 
 ## Details within processes
 

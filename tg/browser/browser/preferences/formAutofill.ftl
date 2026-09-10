@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Нишониҳои нигоҳдошташуда
 autofill-manage-addresses-list-header = Нишониҳо
-autofill-manage-credit-cards-title = Кортҳои кредитии нигоҳдошташуда
-autofill-manage-credit-cards-list-header = Кортҳои кредитӣ
 autofill-manage-payment-methods-title = Тарзҳои пардохти нигоҳдошташуда
 autofill-manage-cards-list-header = Кортҳо
 autofill-manage-dialog =
@@ -45,15 +43,10 @@ address-capture-open-menu-button =
     .aria-label = Кушодани меню
 address-capture-edit-address-link = Таҳрир кардани нишонӣ
     .aria-label = Таҳрир кардани нишонӣ
-address-capture-edit-address-button =
-    .aria-label = Таҳрир кардани нишонӣ
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Илова кардани нишонӣ
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Таҳрир кардани нишонӣ
-autofill-address-given-name = Ном
-autofill-address-additional-name = Номи падар
-autofill-address-family-name = Насаб
 autofill-address-name = Ном
 autofill-address-organization = Ташкилот
 autofill-address-street-address = Нишонии кӯча
@@ -101,8 +94,6 @@ autofill-address-eircode = Рамзи почта
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Илова кардани нишонии нав
 autofill-address-country = Кишвар ё минтақа
 autofill-address-country-only = Кишвар
 autofill-address-tel = Телефон
@@ -110,18 +101,6 @@ autofill-address-email = Почтаи электронӣ
 autofill-cancel-button = Бекор кардан
 autofill-save-button = Нигоҳ доштан
 autofill-country-warning-message = Айни ҳол, пуркунии шакл ба таври худкор танҳо барои баъзе кишварҳо дастрас аст.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Илова кардани корти кредитии нав
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Таҳрир кардани корти кредитӣ
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] маълумоти корти кредитиро нишон диҳад
-        [windows] «{ -brand-short-name }» кӯшиш мекунад, ки маълумоти корти кредитиро нишон диҳад. Дастрасиро ба ин ҳисоби «Windows» дар зер тасдиқ намоед.
-       *[other] «{ -brand-short-name }» кӯшиш мекунад, ки маълумоти корти кредитиро нишон диҳад.
-    }
 autofill-message-tooltip = Дидани паём дар бораи пуркунии худкор
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Илова кардани корт
@@ -173,15 +152,3 @@ passport-capture-save-button =
 passport-capture-not-now-button =
     .label = Ҳоло не
     .accessKey = н
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = МИР
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

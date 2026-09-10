@@ -140,15 +140,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = El mode segur ha inhabilitat tots els complements.
-extensions-warning-check-compatibility = La comprovació de compatibilitat dels complements no està habilitada. Pot ser que tingueu complements incompatibles.
-extensions-warning-safe-mode2 =
-    .message = El mode segur ha inhabilitat tots els complements.
 extensions-warning-check-compatibility2 =
     .message = La comprovació de compatibilitat dels complements no està habilitada. Pot ser que tingueu complements incompatibles.
 extensions-warning-check-compatibility-button = Habilita
     .title = Habilita la comprovació de compatibilitat dels complements
-extensions-warning-update-security = La comprovació de seguretat dels complements no està habilitada. Les actualitzacions podrien posar-vos en risc.
 extensions-warning-update-security2 =
     .message = La comprovació de seguretat dels complements no està habilitada. Les actualitzacions podrien posar-vos en risc.
 extensions-warning-update-security-button = Habilita
@@ -212,10 +207,6 @@ shortcuts-duplicate = Drecera duplicada
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } ja s'utilitza com a drecera en més d’un cas. Les dreceres duplicades poden causar un comportament inesperat.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } ja s'utilitza com a drecera en més d’un cas. Les dreceres duplicades poden causar un comportament inesperat.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -235,13 +226,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Les extensions i els temes són com les aplicacions per al navegador i vos permeten protegir les contrasenyes, baixar vídeos, trobar ofertes, blocar anuncis molestos, canviar com es veu el vostre navegador i molt més. Estos petits programes sovint són desenvolupats per tercers. Ací teniu una selecció <a data-l10n-name="learn-more-trigger">recomanada</a> pel { -brand-product-name } per aconseguir un nivell excepcional de seguretat, rendiment i funcionalitat.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    Algunes d’aquestes recomanacions són personalitzades. Es basen en altres
-    extensions que heu instal·lat, preferències del perfil i estadístiques d’ús.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -306,16 +290,9 @@ addon-detail-last-updated-label = Darrera actualització
 addon-detail-homepage-label = Pàgina d'inici
 addon-detail-rating-label = Valoració
 # Message for add-ons with a staged pending update.
-install-postponed-message = Esta extensió s'actualitzarà en reiniciar el { -brand-short-name }.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Esta extensió s'actualitzarà en reiniciar el { -brand-short-name }.
 install-postponed-button = Actualitza ara
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Valorat amb { NUMBER($rating, maximumFractionDigits: 1) } de 5 estrelles
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -333,9 +310,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> s'ha eliminat.
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = { $addon } s'ha eliminat.
 pending-uninstall-undo-button = Desfés
@@ -349,11 +323,6 @@ install-update-button = Actualitza
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
     .title = Es permet en finestres privades
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
-    .title = Es permet en finestres privades
 addon-detail-private-browsing-help = Si ho permeteu, l'extensió tindrà accés a la vostra activitat a Internet encara que utilitzeu la navegació privada. <a data-l10n-name="learn-more">Més informació</a>
 addon-detail-private-browsing-allow = Permet
 addon-detail-private-browsing-disallow = No ho permetes
@@ -361,17 +330,6 @@ addon-detail-private-browsing-disallow = No ho permetes
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = El { -brand-product-name } només recomana extensions que compleixen els nostres estàndards de seguretat i de rendiment
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Extensió oficial creada per Mozilla. Compleix els estàndards de seguretat i rendiment.
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Esta extensió s'ha revisat i compleix els nostres estàndards de seguretat i rendiment
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -383,9 +341,6 @@ available-updates-heading = Actualitzacions disponibles
 recent-updates-heading = Actualitzacions recents
 release-notes-loading = S'està carregant…
 release-notes-error = S'ha produït un error en carregar les notes de la versió.
-addon-permissions-empty = Esta extensió no necessita cap permís
-addon-permissions-required = Permisos necessaris per a les funcions bàsiques:
-addon-permissions-optional = Permisos opcionals per a les funcions addicionals:
 addon-permissions-learnmore = Més informació sobre els permisos
 recommended-extensions-heading = Extensions recomanades
 recommended-themes-heading = Temes recomanats
@@ -415,24 +370,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } no és compatible amb el { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } no és compatible amb el { -brand-short-name } { $version }.
-details-notification-unsigned-and-disabled = «{ $name }» no s'ha pogut verificar per al seu ús al { -brand-short-name } i s'ha inhabilitat.
 details-notification-unsigned-and-disabled2 =
     .message = «{ $name }» no s'ha pogut verificar per al seu ús al { -brand-short-name } i s'ha inhabilitat.
-details-notification-unsigned-and-disabled-link = Més informació
-details-notification-unsigned = «{ $name }» no s'ha pogut verificar per al seu ús al { -brand-short-name }. Aneu amb compte.
 details-notification-unsigned2 =
     .message = «{ $name }» no s'ha pogut verificar per al seu ús al { -brand-short-name }. Aneu amb compte.
-details-notification-unsigned-link = Més informació
-details-notification-blocked = S'ha inhabilitat { $name } per motius de seguretat o d'estabilitat.
-details-notification-blocked-link = Més informació
-details-notification-softblocked = «{ $name }» pot causar problemes de seguretat o d'estabilitat.
-details-notification-softblocked-link = Més informació
-details-notification-gmp-pending = «{ $name }» s'instal·larà prompte.
 details-notification-gmp-pending2 =
     .message = «{ $name }» s'instal·larà prompte.
 

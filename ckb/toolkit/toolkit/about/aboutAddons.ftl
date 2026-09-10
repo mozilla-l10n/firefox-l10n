@@ -121,9 +121,6 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = هەموو پیوەکراوەکان ناچالاک کران بە هۆی دۆخی پارێزراوی (safe).
-extensions-warning-safe-mode2 =
-    .message = هەموو پیوەکراوەکان ناچالاک کران بە هۆی دۆخی پارێزراوی (safe).
 extensions-warning-check-compatibility-button = چالاک
     .title = چێکردنی گونجاندنی پێوکراو چالاک بکە
 extensions-warning-update-security-button = چالاک
@@ -186,10 +183,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    هەندێک لە پێشنیازکراوەکان لە ڕێکخستنی خۆتەوە وەرگیراوە. بنچینە کراون لەسەر زیادکراوەکانی تر
-    کە پێشتر داتمەزراندووە، هەڵبژاردنەکانی پرۆفایل، ئاماری بەکارهێنان.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -277,11 +270,6 @@ install-update-button = نوێکاری
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
     .title = ڕێگەپێدراوە لە پەنجەرەی تایبەت
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
-    .title = ڕێگەپێدراوە لە پەنجەرەی تایبەت
 addon-detail-private-browsing-allow = ڕێگەبدە
 addon-detail-private-browsing-disallow = ڕێگە مەدە
 
@@ -319,24 +307,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } ناگونجێت لەگەڵ { -brand-short-name }{ $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } ناگونجێت لەگەڵ { -brand-short-name }{ $version }.
-details-notification-unsigned-and-disabled = { $name } ناتوانرێت پەسەندبکرێت بۆ بەکارهێنان لە { -brand-short-name } و ناچالاک کرا.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } ناتوانرێت پەسەندبکرێت بۆ بەکارهێنان لە { -brand-short-name } و ناچالاک کرا.
-details-notification-unsigned-and-disabled-link = زانیاری زیاتر
-details-notification-unsigned = { $name } ناتوانرێت پەسەندبکرێت بۆ بەکارهێنان لە { -brand-short-name } و بەردەوام بە بەهۆشیارییەوە.
 details-notification-unsigned2 =
     .message = { $name } ناتوانرێت پەسەندبکرێت بۆ بەکارهێنان لە { -brand-short-name } و بەردەوام بە بەهۆشیارییەوە.
-details-notification-unsigned-link = زانیاری زیاتر
-details-notification-blocked = { $name } ناچالاک کرا لەبەر ئەوەی کە کێشەی پاراستن و جێگیری هەیە.
-details-notification-blocked-link = زانیاری زیاتر
-details-notification-softblocked = { $name } ناسراوە بەوەی کە کێشەی پاراستن و جێگیری هەیە.
-details-notification-softblocked-link = زانیاری زیاتر
-details-notification-gmp-pending = { $name } بەزووی دادەمەزرێت.
 details-notification-gmp-pending2 =
     .message = { $name } بەزووی دادەمەزرێت.
 

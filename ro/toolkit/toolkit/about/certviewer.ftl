@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = Certificatele tale
 certificate-viewer-tab-people = Persoane
 certificate-viewer-tab-servers = Servere
 certificate-viewer-tab-ca = Autorități
-certificate-viewer-tab-unkonwn = Necunoscut

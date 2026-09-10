@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = לשונית חדשה
-newtab-settings-button =
-    .title = התאמה אישית של דף הלשונית החדשה שלך
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = התאמה אישית של דף זה
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = התאמה אישית
 newtab-customize-panel-label =
     .label = התאמה אישית
-newtab-personalize-settings-icon-label =
-    .aria-label = הגדרות
-    .title = התאמה אישית של דף הלשונית החדשה
 newtab-settings-dialog-label =
     .aria-label = הגדרות
-newtab-personalize-icon-label =
-    .aria-label = התאמה אישית של דף הלשונית החדשה
-    .title = התאמה אישית של דף הלשונית החדשה
-newtab-personalize-dialog-label =
-    .aria-label = התאמה אישית
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
@@ -521,7 +511,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = הוספת מנוע חיפוש
 newtab-topsites-add-shortcut-header = קיצור דרך חדש
-newtab-topsites-edit-topsites-header = עריכת אתר מוביל
 newtab-topsites-edit-shortcut-header = עריכת קיצור דרך
 newtab-topsites-add-shortcut-label = הוספת קיצור דרך
 newtab-topsites-add-shortcut-title =
@@ -591,20 +580,12 @@ newtab-topsites-hover-card-dismiss =
 newtab-menu-section-tooltip =
     .aria-label = פתיחת תפריט
     .title = פתיחת תפריט
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = הסרה
-    .title = הסרה
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = פתיחת תפריט ההקשר עבור { $title }
     .title = פתיחת תפריט
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = עריכת אתר זה
-    .title = עריכת אתר זה
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -616,10 +597,6 @@ newtab-menu-dismiss = הסרה
 newtab-menu-pin = נעיצה
 newtab-menu-unpin = ביטול נעיצה
 newtab-menu-delete-history = מחיקה מההיסטוריה
-newtab-menu-save-to-pocket = שמירה אל { -pocket-brand-name }
-newtab-menu-delete-pocket = מחיקה מ־{ -pocket-brand-name }
-newtab-menu-archive-pocket = העברה לארכיון ב־{ -pocket-brand-name }
-newtab-menu-about-fakespot = על אודות { -fakespot-brand-name }
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = דיווח
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -630,22 +607,12 @@ newtab-menu-section-block = חסימה
 newtab-menu-section-unfollow-topic = ביטול המעקב
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = מידע נוסף
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = ביטול המעקב אחרי הנושא
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = ניהול תוכן ממומן
 newtab-menu-our-sponsors-and-your-privacy = נותני החסות שלנו והפרטיות שלך
 newtab-menu-report-this-ad = דיווח על פרסומת זו
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = סיום
-newtab-privacy-modal-button-manage = ניהול הגדרות תוכן ממומן
-newtab-privacy-modal-header = הפרטיות שלך חשובה.
-newtab-privacy-modal-link = הסבר על האופן בו עובדת הפרטיות שלך בלשונית החדשה
 
 ##
 
@@ -705,31 +672,12 @@ newtab-label-sponsored-fixed = ממומן
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = הסרת מדור
-newtab-section-menu-collapse-section = צמצום מדור
-newtab-section-menu-expand-section = הרחבת מדור
-newtab-section-menu-manage-section = ניהול מדור
-newtab-section-menu-manage-webext = ניהול הרחבה
-newtab-section-menu-add-topsite = הוספת אתר מוביל
-newtab-section-menu-add-search-engine = הוספת מנוע חיפוש
-newtab-section-menu-move-up = העברה למעלה
-newtab-section-menu-move-down = העברה למטה
 newtab-section-menu-privacy-notice = הצהרת פרטיות
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = צמצום מדור
-newtab-section-expand-section-label =
-    .aria-label = הרחבת מדור
 
 ## Section Headers.
 
 newtab-section-header-topsites = אתרים מובילים
 newtab-section-header-recent-activity = פעילות אחרונה
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = מומלץ על־ידי { $provider }
 newtab-section-header-stories = סיפורים מעוררי מחשבה
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = המאמרים של היום בשבילך
@@ -737,10 +685,6 @@ newtab-section-header-todays-picks = המאמרים של היום בשבילך
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ניתן להתחיל בגלישה ואנו נציג בפניך מספר כתבות, סרטונים ועמודים שונים מעולים בהם ביקרת לאחרונה או שהוספת לסימניות.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = התעדכנת בכל הסיפורים. כדאי לנסות שוב מאוחר יותר כדי לקבל עוד סיפורים מובילים מאת { $provider }. לא רוצה לחכות? ניתן לבחור נושא נפוץ כדי למצוא עוד סיפורים נפלאים מרחבי הרשת.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = התעדכנת בכל הסיפורים. כדאי לנסות שוב מאוחר יותר כדי לקבל עוד סיפורים. לא רוצה לחכות? ניתן לבחור נושא נפוץ כדי למצוא עוד סיפורים נפלאים מרחבי הרשת.
 
@@ -770,39 +714,6 @@ newtab-carousel-pause =
 newtab-carousel-play =
     .aria-label = המשך הפעלה אוטומטית
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = נושאים פופולריים:
-newtab-pocket-new-topics-title = רוצה אפילו עוד סיפורים? ניתן לעיין בנושאים הנפוצים האלו מ־{ -pocket-brand-name }
-newtab-pocket-more-recommendations = המלצות נוספות
-newtab-pocket-learn-more = מידע נוסף
-newtab-pocket-cta-button = קבלת { -pocket-brand-name }
-newtab-pocket-cta-text = שמירת הסיפורים שאהבת ב־{ -pocket-brand-name } על מנת למלא את מחשבתך בקריאה מרתקת.
-newtab-pocket-pocket-firefox-family = ‏{ -pocket-brand-name } הוא חלק ממשפחת { -brand-product-name }
-newtab-pocket-save = שמירה
-newtab-pocket-saved = נשמר
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = ארצה עוד כאלה
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = לא בשבילי
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = תודה. המשוב שלך יעזור לנו לשפר את הפיד שלך.
-newtab-toast-dismiss-button =
-    .aria-label = סגירה
-    .title = סגירה
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = לגלות את המיטב של האינטרנט
-newtab-pocket-onboarding-cta = ‏{ -pocket-brand-name } חוקר מגוון רחב של פרסומים כדי להביא את התוכן האינפורמטיבי, מעורר ההשראה והאמין ביותר ישירות לדפדפן ה־{ -brand-product-name } שלך.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -811,8 +722,6 @@ newtab-error-fallback-refresh-link = נא לרענן את הדף כדי לנסו
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = קיצורי דרך
-newtab-custom-shortcuts-subtitle = אתרים ששמרת או ביקרת בהם
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = אתרים ששמרת או ביקרת בהם
@@ -833,16 +742,6 @@ newtab-custom-row-selector2 =
             [one] שורה אחת
            *[other] { $num } שורות
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] שורה אחת
-       *[other] { $num } שורות
-    }
-newtab-custom-sponsored-sites = קיצורי דרך ממומנים
-newtab-custom-pocket-title = מומלץ על־ידי { -pocket-brand-name }
-newtab-custom-pocket-subtitle = תוכן יוצא דופן שנבחר בקפידה על־ידי { -pocket-brand-name }, חלק ממשפחת { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = תוכן יוצא דופן שנבחר בקפידה על־ידי משפחת { -brand-product-name }
@@ -854,10 +753,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = סיפורים מותאמים אישית המבוססים על הפעילות שלך
 newtab-custom-stories-personalized-checkbox-label = סיפורים מותאמים אישית המבוססים על הפעילות שלך
-newtab-custom-pocket-sponsored = סיפורים ממומנים
-newtab-custom-pocket-show-recent-saves = הצגת שמירות אחרונות
-newtab-custom-recent-title = פעילות אחרונה
-newtab-custom-recent-subtitle = מבחר של אתרים ותכנים אחרונים
 newtab-custom-weather-toggle =
     .description = התחזית של היום
     .label = מזג אוויר
@@ -889,7 +784,6 @@ newtab-widget-manage-widget-button =
 newtab-custom-close-menu-button =
     .aria-label = סגירת תפריט
     .title = סגירה
-newtab-custom-close-button = סגירה
 newtab-custom-settings = ניהול הגדרות נוספות
 
 ## Customization Menu
@@ -938,7 +832,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = התמונה חרגה ממגבלת גודל הקובץ של { $file_size } מ״ב. נא לנסות להעלות קובץ קטן יותר.
 newtab-wallpaper-error-upload-file-type = לא הצלחנו להעלות את הקובץ שלך. נא לנסות שוב עם קובץ תמונה.
-newtab-wallpaper-error-file-type = לא הצלחנו להעלות את הקובץ שלך. נא לנסות שוב עם סוג קובץ אחר.
 newtab-wallpaper-light-red-panda = פנדה אדומה
 newtab-wallpaper-light-mountain = הר לבן
 newtab-wallpaper-light-sky = שמיים עם עננים סגולים וורודים
@@ -1060,9 +953,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 newtab-wallpaper-firefox-orange = שועל בקצה הימני על רקע כתום
 newtab-wallpaper-firefox-colorful-sky = גלים כתומים על פני שמי לילה סגולים
 newtab-wallpaper-firefox-desert-dark = שועל יושב במדבר סגול כהה
@@ -1101,10 +991,6 @@ newtab-wallpaper-celestial-river = תמונת לוויין של נהר
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = הצגת התחזית ב־{ $provider }
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = ‏{ $provider } ∙ ממומן
 newtab-weather-menu-change-location = שינוי מקום
 newtab-weather-change-location-search-input-placeholder =
@@ -1131,7 +1017,6 @@ newtab-weather-menu-temperature-option-fahrenheit = פרנהייט
 newtab-weather-menu-temperature-option-celsius = צלזיוס
 newtab-weather-menu-change-temperature-units-fahrenheit = מעבר לפרנהייט
 newtab-weather-menu-change-temperature-units-celsius = מעבר לצלזיוס
-newtab-weather-menu-hide-weather = הסתרת מזג האוויר בלשונית החדשה
 newtab-weather-menu-learn-more = מידע נוסף
 newtab-weather-menu-detect-my-location = זיהוי המיקום שלי
 # This message is shown if user is working offline
@@ -1252,7 +1137,6 @@ newtab-section-unblock-topic =
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = לא כעת
 newtab-section-confirm-block-topic-p1 = האם ברצונך לחסום נושא זה?
 newtab-section-confirm-block-topic-p2 = נושאים חסומים לא יופיעו יותר בפיד שלך.
 # Variables:

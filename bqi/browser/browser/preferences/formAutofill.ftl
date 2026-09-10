@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = نشۊویا زفت وابیڌه
 autofill-manage-addresses-list-header = نشۊویا
-autofill-manage-credit-cards-title = کارتا ائتواری زفت وابیڌه
-autofill-manage-credit-cards-list-header = کارتا ائتواری
 autofill-manage-payment-methods-title = بارتا پرداخت زفت وابیڌه
 autofill-manage-cards-list-header = کارتا
 autofill-manage-dialog =
@@ -44,15 +42,10 @@ address-capture-open-menu-button =
     .aria-label = گۊشیڌن نومگه
 address-capture-edit-address-link = آلشت نشۊوی
     .aria-label = آلشت نشۊوی
-address-capture-edit-address-button =
-    .aria-label = آلشت نشۊوی
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = ٱووردن نشۊوی
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = آلشت نشۊوی
-autofill-address-given-name = نوم
-autofill-address-additional-name = نوم منجایی
-autofill-address-family-name = فامیل
 autofill-address-name = نوم
 autofill-address-organization = سازمووݩ
 autofill-address-street-address = نشۊوی خیابۉݩ
@@ -100,8 +93,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = ٱووردن نشۊوی نۊ
 autofill-address-country = کشور یا وولات
 autofill-address-country-only = کشور
 autofill-address-tel = تیلیفووݩ
@@ -109,10 +100,6 @@ autofill-address-email = ایمیل
 autofill-cancel-button = لقو
 autofill-save-button = زفت
 autofill-country-warning-message = پور کردن خوتکار فورم هیم سکو سی تئدادی ز کشورا فعال هڌ.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = ٱووردن کارت ائتواری نۊ
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = آلشت کارت ائتواری
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = ٱووردن کارت
 # The dialog title for editing credit cards in browser preferences.
@@ -161,15 +148,3 @@ passport-capture-save-button =
 passport-capture-not-now-button =
     .label = سکو ن
     .accessKey = w
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = ویزا

@@ -28,7 +28,6 @@ policy-DisableFirefoxStudies = అధ్యయనాలను నడపడకు
 policy-DisableForgetButton = మర్చిపోయే బొత్తానికి ప్రాప్యతను నిరోధించు.
 policy-DisableFormHistory = వెతుకుడు, ఫారాల చరిత్రను గుర్తుపెట్టుకోవద్దు.
 policy-DisablePasswordReveal = భద్రపరచిన ప్రవేశాలలో సంకేతపదాలను చూపించడాన్ని అనుమతించవద్దు.
-policy-DisablePocket2 = { -pocket-brand-name }కు వెబ్‌పేజీలను భద్రపరిచే సౌలభ్యాన్ని అచేతనం చేయండి.
 policy-DisablePrivateBrowsing = అంతరంగిక విహరణను అచేతనించు.
 policy-DisableProfileImport = మరొక విహారిణి నుండి దిగుమతి చేసే మెనూ ఆదేశాన్ని అచేతనం చేయి.
 policy-DisableSafeMode = సేఫ్ మోడ్‌లో పునఃప్రారంభించగలిగే సౌలభ్యాన్ని నిలిపివేయండి. గమనిక: Shift మీట ద్వారా సేఫ్ మోడ్‌లోకి ప్రవేశించడాన్ని Windowsలో మాత్రమే గ్రూప్ పాలసీని వాడి నిలిపివేయగలరు.
@@ -48,7 +47,6 @@ policy-InstallAddonsPermission = పొడగింతలను స్థాప�
 
 ##
 
-policy-PopupBlocking = కొన్ని వెబ్‌సైట్లు పాప్‌అప్లను చూపించడానికి అప్రమేయంగా అనుమతించు.
 policy-PromptForDownloadLocation = దస్త్రాలను దించుకునేటప్పుడు వాటిని ఎక్కడ భద్రపరచాలో అడుగు.
 policy-Proxy = ప్రాక్సీ అమరికలను స్వరూపించండి.
 policy-SearchBar = వెతుకుడు పట్టీ అప్రమేయ స్థానాన్ని అమర్చుకోండి. వాడుకరులు దీన్ని మలచుకోగలరు.

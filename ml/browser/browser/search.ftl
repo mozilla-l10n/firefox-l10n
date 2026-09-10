@@ -49,8 +49,8 @@ install-search-engine-no = ഇല്ല
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = തിരയൽയന്ത്രം ചേൎക്കുക
     .style = min-width: 32em;
+    .title = തിരയൽയന്ത്രം ചേൎക്കുക
 add-engine-button = ഇഷ്‌ടാനുസൃത തിരയൽ യന്ത്രം ചേൎക്കുക
 add-engine-name = തിരയൽ യന്ത്രത്തിന്റെ പേരു്
 add-engine-keyword2 = പെരുമുരി (വേണമെങ്കിലിടാം)
@@ -72,11 +72,11 @@ add-engine-no-url = ദയവായി ഒരു യുആര്‍എല്‍ 
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = തിരയൽയന്ത്രം ചേൎക്കുക
-    .buttonaccesskeyaccept = ത
     .buttonlabelextra1 = കൂടുതൽ
+    .buttonaccesskeyaccept = ത
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = തിരയൽയന്ത്രം കരുതിവയ്ക്കുക
-    .buttonaccesskeyaccept = ക
     .buttonlabelextra1 = കൂടുതൽ
+    .buttonaccesskeyaccept = ക

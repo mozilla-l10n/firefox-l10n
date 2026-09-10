@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] ჩვენება საქაღალდეში
            *[other] ჩვენება საქაღალდეში
         }
-downloads-cmd-show-downloads =
-    .label = ჩამოტვირთვების საქაღალდის ნახვა
 downloads-cmd-retry =
     .tooltiptext = ახლიდან
 downloads-cmd-retry-panel =

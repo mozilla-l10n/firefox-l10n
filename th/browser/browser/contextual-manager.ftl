@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = ค้นหารหัสผ่าน
-    .key = F
     .aria-label = ค้นหารหัสผ่าน
+    .key = F
+    .placeholder = ค้นหารหัสผ่าน
 contextual-manager-menu-more-options-button =
     .title = ตัวเลือกเพิ่มเติม
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = นำเข้าจากไฟ�
 contextual-manager-passwords-command-export = ส่งออกรหัสผ่าน
 contextual-manager-passwords-command-remove-all = เอารหัสผ่านทั้งหมดออก
 contextual-manager-passwords-command-options = ตัวเลือก
-contextual-manager-passwords-command-settings = การตั้งค่า
 contextual-manager-passwords-command-help = ช่วยเหลือ
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = นำเข้ารหัสผ่านแล้ว
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = ใหม่: { $added }, อัปเดต: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -213,8 +208,6 @@ contextual-manager-passwords-create-label =
     .label = เพิ่มรหัสผ่าน
 contextual-manager-passwords-update-label =
     .label = อัปเดตรหัสผ่าน
-contextual-manager-passwords-edit-label =
-    .label = แก้ไขรหัสผ่าน
 contextual-manager-passwords-remove-label =
     .title = ลบรหัสผ่าน
 contextual-manager-passwords-origin-field =
@@ -230,7 +223,6 @@ contextual-manager-passwords-password-field-description = ป้อนรหั�
 contextual-manager-passwords-origin-tooltip = ป้อนที่อยู่จริงที่คุณใช้ลงชื่อเข้าไซต์นี้
 contextual-manager-passwords-username-tooltip = ป้อนชื่อผู้ใช้ ที่อยู่อีเมล หรือหมายเลขบัญชีที่คุณใช้ลงชื่อเข้า
 contextual-manager-passwords-password-tooltip-2 = ป้อนรหัสผ่านเพื่อลงชื่อเข้าบัญชีนี้
-contextual-manager-passwords-password-tooltip = ป้อนรหัสผ่านที่คุณใช้ลงชื่อเข้าบัญชีนี้
 
 ## Password Card
 
@@ -277,10 +269,6 @@ contextual-manager-password-login-line-with-alert =
     .title = คัดลอกรหัสผ่าน (คำเตือน)
 contextual-manager-edit-login-button = แก้ไข
     .tooltiptext = แก้ไขรหัสผ่าน
-contextual-manager-view-alert-heading =
-    .heading = ดูการแจ้งเตือน
-contextual-manager-view-alert-button =
-    .tooltiptext = ตรวจสอบการแจ้งเตือน
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -307,13 +295,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = ไม่พบรหัสผ่าน
 contextual-manager-passwords-no-passwords-found-message-2 = ลองใช้คำอื่นแล้วค้นหาอีกครั้ง
-contextual-manager-passwords-no-passwords-found-message = ไม่พบรหัสผ่าน โปรดค้นหาด้วยคำอื่นแล้วลองอีกครั้ง
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = บันทึกรหัสผ่านของคุณไว้ในที่ปลอดภัย
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = รหัสผ่านทั้งหมดจะถูกเข้ารหัสลับและเราจะคอยเฝ้าสังเกตการรั่วไหลและจะแจ้งเตือนเมื่อคุณได้รับผลกระทบ

@@ -125,8 +125,6 @@ options-disable-http-cache-tooltip =
     .title = การเปิดตัวเลือกนี้จะเป็นการปิดการใช้งานแคช HTTP สำหรับแท็บทั้งหมดที่เปิดกล่องเครื่องมือ Service Worker จะไม่ได้รับผลกระทบจากตัวเลือกนี้
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label-2 = ปิดใช้งาน JavaScript
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = ปิดใช้งาน JavaScript *
 options-disable-javascript-tooltip =
     .title = การเปิดใช้ตัวเลือกนี้จะปิดใช้งาน JavaScript ในแท็บปัจจุบัน ถ้าแท็บนี้ถูกปิดไป ค่าที่ตั้งนี้จะถูกล้าง
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -156,8 +154,6 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = (เฉพาะเซสชันปัจจุบันเท่านั้น จะโหลดหน้าเว็บใหม่)
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = *เรียกหน้าเว็บใหม่เฉพาะเซสชันปัจจุบันเท่านั้น
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (จะโหลดหน้าเว็บใหม่)

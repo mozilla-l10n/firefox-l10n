@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Përkthejeni këtë faqe
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Përkthim në kryerje e sipër
 translations-panel-settings-button =
     .aria-label = Administroni rregullime përkthimi
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Administroni gjuhë
-translations-panel-settings-about = Mbi përkthimet në { -brand-shorter-name }
 translations-panel-settings-about2 =
     .label = Mbi përkthimet në { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
@@ -83,14 +74,6 @@ translations-panel-error-dismiss-button =
     .label = E mora vesh
 translations-panel-error-change-button =
     .label = Ndërroni gjuhën burim
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Na ndjeni, s’e mbulojmë ende { $language }.
-translations-panel-error-unsupported-hint-unknown = Na ndjeni, s’e mbulojmë ende këtë gjuhë.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -122,10 +105,6 @@ translations-manage-header = Përkthime
 translations-manage-settings-button =
     .label = Rregullime…
     .accesskey = R
-translations-manage-description = Shkarkoni gjuhë për përkthim jashtë linje.
-translations-manage-all-language = Krejt gjuhët
-translations-manage-download-button = Shkarkoje
-translations-manage-delete-button = Fshije
 translations-manage-intro-2 = Ujdisni gjuhë tuajën dhe parapëlqime përkthimi sajtesh dhe administroni gjuhë të shkarkuara për përkthim jashtë interneti.
 translations-manage-download-description = Shkarkoni gjuhë për përkthim jashtë linje
 translations-manage-language-download-button =
@@ -139,12 +118,11 @@ translations-manage-language-remove-all-button =
     .label = Hiqi krejt
     .accesskey = H
 translations-manage-error-download = Pati një problem me shkarkimin e kartelave të gjuhës. Ju lutemi, riprovoni.
-translations-manage-error-delete = Pati një problem me fshirjen e kartelave të gjuhës. Ju lutemi, riprovoni.
 translations-manage-error-remove = Pati një problem me heqjen e kartelave të gjuhës. Ju lutemi, riprovoni.
 translations-manage-error-list = S’u arrit të merrej lista e gjuhëve të gatshme për përkthim. Rifreskoni faqen, që të riprovohet.
 translations-settings-title =
-    .title = Rregullime Përkthimi
     .style = min-width: 36em
+    .title = Rregullime Përkthimi
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Për gjuhët vijuese përkthimi do të kryhet automatikisht
@@ -228,16 +206,6 @@ select-translations-panel-init-failure-message =
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Pati një problem me përkthimin. Ju lutemi, riprovoni.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Na ndjeni, s’e mbulojmë ende { $language }.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Na ndjeni, s’e mbulojmë ende këtë gjuhë.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Rregullime përkthimi

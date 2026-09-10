@@ -31,26 +31,12 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = ইনষ্টলেশ্যন অব্যাহত ৰাখক
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = এই ছাইটটোৱে আপোনাৰ MIDI (মিউজিকেল ইনষ্ট্ৰুমেণ্ট ডিজিটেল ইণ্টাৰফে’চ) ডিভাইচবোৰত প্ৰৱেশাধিকাৰৰ অনুৰোধ কৰিছে। এটা এড-অন ইনষ্টল কৰি ডিভাইচত প্ৰৱেশাধিকাৰ সক্ৰিয় কৰিব পাৰি।
 site-permission-install-first-prompt-midi-message = এই প্ৰৱেশ নিৰাপদ হোৱাৰ নিশ্চয়তা নাই। এই ছাইটটোক বিশ্বাস কৰিলেহে আগবাঢ়িব।
-
-##
-
-xpinstall-disabled-locked = চফ্টৱেৰ ইনস্টল আপোনাৰ চিস্টেম প্ৰসাশকৰ দ্বাৰা অসামৰ্থবান কৰি থোৱা হৈছে।
 xpinstall-disabled = চফ্টৱেৰ ইনস্টল বৰ্তমানে অসামৰ্থবান। সামৰ্থবান কৰক ক্লিক কৰক আৰু পুনৰ চেষ্টা কৰক।
 xpinstall-disabled-button =
     .label = সামৰ্থবান কৰক
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = আপোনাৰ ব্যৱস্থাপ্ৰণালী-কৰ্তৃপক্ষই { $addonName } ({ $addonId }) অৱৰোধ কৰিছে।
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = আপোনাৰ ব্যৱস্থাপ্ৰণালী-কৰ্তৃপক্ষই এই ছাইটক আপোনাক আপোনাৰ কম্পিউটাৰত ছফ্টৱেৰ ইনষ্টল কৰিবলৈ কোৱাত বাধা দিছে।
 addon-install-full-screen-blocked = ফুলস্ক্ৰীন অৱস্থাত থাকি বা তাত সোমাৱাৰ আগত এড-অন ইনষ্টল কৰাৰ অনুমতি নাই।
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -68,9 +54,6 @@ webext-imported-addons = { -brand-short-name }-লৈ আমদানি কৰ�
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = { $name } আঁতৰাবনে?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = { -brand-shorter-name }-ৰ পৰা { $name } আঁতৰাবনে?
 addon-removal-button = আঁতৰাওক
 addon-removal-abuse-report-checkbox = { -vendor-short-name }-ক এই এক্সটেনশ্যনৰ প্ৰতিবেদন দিয়ক
 # Variables:
@@ -129,4 +112,3 @@ addon-local-install-error-not-signed = এই এড-অনটো ইনষ্�
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } ইনষ্টল কৰিব পৰা নগ’ল কাৰণ ই { -brand-short-name } { $appVersion }ৰ সৈতে সুসংগত নহয়।
-addon-install-error-blocklisted = { $addonName } ইনষ্টল কৰিব পৰা নগ’ল কাৰণ ই স্থিৰতা বা সুৰক্ষা-সম্বন্ধীয় সমস্যাৰ সৃষ্টি কৰাৰ উচ্চ আশংকা আছে।

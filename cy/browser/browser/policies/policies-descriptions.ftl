@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Atal asiant y porwr rhagosodedig rhag cymryd
 policy-DisableDeveloperTools = Rhwystro mynediad at yr offer datblygwr.
 policy-DisableEncryptedClientHello = Analluogi defnydd o'r nodwedd TLS wedi'i Amgryptio Cleient Hello (ECH).
 policy-DisableFeedbackCommands = Analluogi gorchmynion rhag anfon adborth o'r ddewislen Cymorth (Cyflwyno Adborth ac Adrodd am Wefan Dwyllodrus).
-policy-DisableFirefoxAccounts = Analluogi gwasanaethau'n seiliedig ar { -fxaccount-brand-name }, gan gynnwys Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Analluogi gwasanaethau sy'n seiliedig ar gyfrifon, gan gynnwys cydweddu.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Peidio â chofio chwilio a hanes ffurflenni.
 policy-DisableLaunchOnLogin = Atal { -brand-short-name } rhag agor yn awtomatig pan fydd y defnyddiwr yn mewngofnodi.
 policy-DisablePrimaryPasswordCreation = Os yn wir, nid oes modd creu Prif Cyfrinair.
 policy-DisablePasswordReveal = Peidiwch â gadael i gyfrineiriau gael eu datgelu mewn mewngofnodi sydd wedi'u cadw.
-policy-DisablePocket2 = Analluogi'r nodwedd i gadw tudalennau gwe i { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Analluogi Pori Preifat.
 policy-DisableProfileImport = Analluogi'r gorchymyn dewislen i fewnforio data o borwr arall.
 policy-DisableProfileRefresh = Analluogi botwm Adnewyddu { -brand-short-name } yn nhudalen about:support
@@ -132,7 +130,6 @@ policy-PDFjs = Analluogwch neu ffurfweddu PDF.js, y darllenydd PDF cynhenid yn {
 policy-Permissions2 = Ffurfweddwch y caniatâd ar gyfer camera, meicroffon, lleoliadau, hysbysiadau ac awtochwarae.
 policy-PictureInPicture = Galluogi neu analluogi Llun-mewn-Llun.
 policy-PopupBlocking2 = Caniatáu i rai gwefannau ddangos llamlenni a chael eich ailgyfeirio gan fframiau trydydd parti.
-policy-PopupBlocking = Caniatáu rhai gwefannau i ddangos llamlenni drwy ragosodiad.
 policy-Preferences = Gosod a chloi gwerth is-set o ddewisiadau.
 policy-PrivateBrowsingModeAvailability = Gosod argaeledd y modd pori preifat.
 policy-PromptForDownloadLocation = Gofynnwch ble i gadw ffeiliau wrth eu llwytho i lawr.

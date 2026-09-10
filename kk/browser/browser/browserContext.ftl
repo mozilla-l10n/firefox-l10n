@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Алдыңғы бетке қайту ({ $shortcut })
     .aria-label = Артқа
+    .tooltiptext = Алдыңғы бетке қайту ({ $shortcut })
     .accesskey = а
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Келесі бетке өту ({ $shortcut })
     .aria-label = Алға
+    .tooltiptext = Келесі бетке өту ({ $shortcut })
     .accesskey = л
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Бетті бетбелгілерге қосу…
-    .accesskey = л
     .tooltiptext = Бетті бетбелгілерге қосу
+    .accesskey = л
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Бетті бетбелгілерге қосу…
-    .accesskey = л
     .tooltiptext = Бетті бетбелгілерге қосу ({ $shortcut })
+    .accesskey = л
 main-context-menu-edit-bookmark =
     .aria-label = Бетбелгіні түзету…
-    .accesskey = г
     .tooltiptext = Бетбелгіні түзету
+    .accesskey = г
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Бетбелгіні түзету…
-    .accesskey = б
     .tooltiptext = Бетбелгіні түзету ({ $shortcut })
+    .accesskey = б
 main-context-menu-open-link =
     .label = Сілтемені ашу
     .accesskey = С
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Сілтемені қалайша сақтау…
     .accesskey = м
-main-context-menu-save-link-to-pocket =
-    .label = Сілтемені { -pocket-brand-name }-ке сақтау
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Бетті жіберу
 main-context-menu-send-to-mobile-connect-phone3 = Беттерді жіберу үшін құрылғыны қосыңыз
 main-context-menu-send-to-mobile-connect-phone-from-link = Сілтемені жіберу үшін құрылғыны қосыңыз
 main-context-menu-send-to-mobile-connect-phone-from-page = Бетті жіберу үшін құрылғыны қосыңыз
-main-context-menu-save-to-pocket =
-    .label = Бетті { -pocket-brand-name }-ке сақтау
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Парақты құрылғыға жіберу
-    .accesskey = ы
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Сақталған логинді қолдану
-    .accesskey = о
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Сақталған парольді қолдану
     .accesskey = о
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } эл. пошта маскасын қолдану
     .accesskey = о
 main-context-menu-suggest-strong-password =
     .label = Мықты парольді ұсыну…
     .accesskey = с
-main-context-menu-manage-logins2 =
-    .label = Логиндерді басқару
-    .accesskey = с
 main-context-menu-manage-passwords =
     .label = Парольдерді басқару
     .accesskey = б
-main-context-menu-keyword =
-    .label = Осы ізденісті белгілейтін кілт сөзін енгізу…
-    .accesskey = к
 main-context-menu-add-engine =
     .label = Іздеу жүйесін қосу
     .accesskey = с
@@ -393,9 +366,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Скриншотты түсіру
     .accesskey = н
-main-context-menu-take-frame-screenshot =
-    .label = Скриншотты түсіру
-    .accesskey = о
 main-context-menu-view-page-source =
     .label = Парақтың бастапқы кодын қарау
     .accesskey = у

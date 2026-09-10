@@ -18,10 +18,6 @@ security-software-name = Nūsaukums
 security-software-antivirus = Pretvīrusu aizsardzeiba
 security-software-antispyware = Aizsardzeiba pret izspīgōšonu
 security-software-firewall = Guņsmyurs
-features-title = { -brand-short-name } īspiejis
-features-name = Nūsaukums
-features-version = Verseja
-features-id = ID
 app-basics-title = Programys pamotinformaceja
 app-basics-name = Nūsaukums
 app-basics-version = Verseja
@@ -34,7 +30,6 @@ app-basics-profile-dir =
         [linux] Profila direktoreja
        *[other] Profila mape
     }
-app-basics-enabled-plugins = Aktivizātī spraudni
 app-basics-build-config = Byuviejuma konfiguraceja
 app-basics-user-agent = Lītuotuoja agents
 app-basics-os = OS

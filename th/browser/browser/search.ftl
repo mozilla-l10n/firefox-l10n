@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>เครื่องมือค้นหาเริ่มต้นของคุณได้ถูกเปลี่ยนแล้ว</strong> เนื่องจากใน { -brand-short-name } ไม่มี { $oldEngine } ให้ใช้เป็นเครื่องมือค้นหาเริ่มต้นอีกต่อไป ขณะนี้ { $newEngine } คือเครื่องมือค้นหาเริ่มต้นของคุณ เมื่อต้องการเปลี่ยนเป็นเครื่องมือค้นหาเริ่มต้นอื่น ให้ไปที่การตั้งค่า <label data-l10n-name="remove-search-engine-article">เรียนรู้เพิ่มเติม</label>
 removed-search-engine-message2 = <strong>เครื่องมือค้นหาเริ่มต้นของคุณได้ถูกเปลี่ยนแล้ว</strong> เนื่องจากใน { -brand-short-name } ไม่มี { $oldEngine } ให้ใช้เป็นเครื่องมือค้นหาเริ่มต้นอีกต่อไป ขณะนี้ { $newEngine } คือเครื่องมือค้นหาเริ่มต้นของคุณ เมื่อต้องการเปลี่ยนเป็นเครื่องมือค้นหาเริ่มต้นอื่น ให้ไปที่การตั้งค่า
 remove-search-engine-button = ตกลง
 
@@ -52,11 +51,11 @@ install-search-engine-no = ไม่
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = เพิ่มเครื่องมือค้นหา
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = แก้ไขเครื่องมือค้นหา
     .style = min-width: 32em;
+    .title = แก้ไขเครื่องมือค้นหา
 add-engine-button = เพิ่มเครื่องมือกำหนดเอง
 add-engine-name = ชื่อเครื่องมือค้นหา
 add-engine-url2 = URL พร้อม %s แทนคำค้นหา
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = ลองระบุ %s ในส่วน
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = เพิ่มเครื่องมือ
-    .buttonaccesskeyaccept = พ
     .buttonlabelextra1 = ขั้นสูง
+    .buttonaccesskeyaccept = พ
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = บันทึกเครื่องมือ
-    .buttonaccesskeyaccept = บ
     .buttonlabelextra1 = ขั้นสูง
+    .buttonaccesskeyaccept = บ

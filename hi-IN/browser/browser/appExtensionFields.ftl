@@ -9,11 +9,3 @@ extension-firefox-compact-light-name = प्रकाश
 extension-firefox-compact-light-description = हल्की रंग योजना के साथ एक थीम।
 extension-firefox-compact-dark-name = गहरा
 extension-firefox-compact-dark-description = गहरी रंग योजना के साथ एक थीम।
-
-## Colorway Themes
-## These themes are variants of a colorway. The colorway is specified in the
-## $colorway-name variable.
-## Variables
-##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
-
-extension-colorways-soft-name = { $colorway-name } — सॉफ्ट

@@ -25,20 +25,9 @@ account-send-to-all-devices-titlecase = Poślij na wszyskie masziny
 account-manage-devices-titlecase = Regiyruj maszinami…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = Niy ma żodnych połōnczōnych maszin
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = Przewiydz sie ô posyłaniu kart…
-# Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = Połōncz inkszo maszina…
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Kōnto niy ma zweryfikowane
-account-send-tab-to-device-verify = Zweryfikuj te kōnto…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 

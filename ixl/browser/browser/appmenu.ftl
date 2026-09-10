@@ -24,10 +24,6 @@ appmenuitem-zoom-reduce =
 appmenuitem-save-page =
     .label = Jup u U'uje' Eche' uva'…
 
-## What's New panel in App menu.
-
-whatsnew-panel-header = Kam ak' at ve'te'
-
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 

@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = { -vendor-short-name } 추가 제품 정보
 more-from-moz-page-header =
     .heading = { -vendor-short-name } 추가 제품 정보
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } 모바일
 more-from-moz-firefox-mobile-description = 개인 정보 보호를 최우선으로 하는 모바일 브라우저입니다.
 more-from-moz-firefox-mobile-title-1 = 모바일용 { -brand-product-name }
 more-from-moz-firefox-mobile =
-    .label = 모바일용 { -brand-product-name }
     .description = 개인 정보 보호를 최우선으로 생각하는 모바일 브라우저.
+    .label = 모바일용 { -brand-product-name }
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = 추가된 익명 탐색 및 보호 계층을 확인하세요.
 more-from-moz-qr-code-box-firefox-mobile-title = 모바일 기기를 사용하여 다운로드하세요. 카메라를 QR코드에 맞추세요. 링크가 나타나면 해당 링크를 탭하세요.
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = { -relay-brand-short-name }받기
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = 노출된 개인 정보를 자동으로 회수합니다.
 more-from-moz-mozilla-monitor-global-description = 데이터가 유출되면 알림을 받으세요.
 more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } 받기
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = 즉시 웹 사이트를 만들고 나만의 도메인을 무료로 연결하세요.
 more-from-moz-solo-button = { -solo-ai-brand-name } 사용해보기
 more-from-moz-solo-title-2 = { -solo-ai-brand-name } AI 웹 사이트 생성기
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = 휴대전화로 다운로드 링크 �
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = 무료 스캔을 통해 온라인에서 사용자의 개인 정보가 노출된 곳을 확인하세요.
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = 브라우저뿐 아니라 모든 앱에 강화된 보호 기능을 적용하세요. 공용 Wi-Fi 및 보안이 취약한 네트워크에서도 데이터를 안전하게 보호하세요.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = 무료 이메일 가리기로 받은 편지함을 스팸으로부터 보호하세요.
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = 무료 가이드와 참고 자료를 통해 웹 개발을 배워보세요.
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = 이메일, 캘린더, 연락처를 하나의 빠른 앱에서 모두 확인하세요.
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = 웹 사이트를 즉시 만들고, 무료로 나만의 도메인을 연결하세요.
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = { -vendor-short-name } 새 제품
     .description = 최신 아이디어와 실험적인 기술을 살펴보세요.
+    .label = { -vendor-short-name } 새 제품
 more-from-moz-mozilla-monitor-box-link =
     .label = { -monitor-brand-short-name } 받기
 more-from-moz-mozilla-vpn-box-link =

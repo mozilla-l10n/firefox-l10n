@@ -271,8 +271,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Cabhair
     .accesskey = h
-menu-help-report-site-issue =
-    .label = Tuairiscigh Fadhb le Suíomh…
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

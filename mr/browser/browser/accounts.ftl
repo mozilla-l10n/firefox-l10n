@@ -19,20 +19,9 @@ account-verify = { $email } पडताळा
 account-send-to-all-devices-titlecase = सगळ्या उपकरणांना पाठवा
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = कोणतेही साधन जोडलेले नाही
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = टॅब पाठवण्याबद्दल जाणून घ्या…
-# Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = अन्य उपकरण जोडा…
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = खातं प्रमाणित नाही
-account-send-tab-to-device-verify = आपले खाते प्रमाणित करा...
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = వివిధ కిటికీలలో, పరికలాలలో మీ ఇటీవలి విహరణను చూడండి
@@ -16,32 +13,11 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = మూసివేయి
-    .aria-label = మూసివేయి
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = ఇప్పుడే
-firefoxview-tabpickup-description = ఇతర పరికరాలలో తెరిచివున్న పేజీలు.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% పూర్తి
-firefoxview-tabpickup-step-signin-primarybutton = కొనసాగించు
-firefoxview-tabpickup-adddevice-learn-how = ఎలానో తెలుసుకోండి
-firefoxview-tabpickup-synctabs-learn-how = ఎలానో తెలుసుకోండి
 firefoxview-tabpickup-network-offline-primarybutton = మళ్ళీ ప్రయత్నించు
 firefoxview-tabpickup-sync-error-primarybutton = మళ్ళీ ప్రయత్నించు
 firefoxview-tabpickup-password-locked-link = ఇంకా తెలుసుకోండి
-firefoxview-mobile-confirmation-header = 🎉 వెళ్ళడానికి సిద్ధం!
-firefoxview-closed-tabs-title = ఇటీవల మూసినవి
-firefoxview-closed-tabs-description2 = ఈ కిటికీలో మూసివేసిన పేజీలను మళ్ళీ తెరవండి.
-firefoxview-closed-tabs-placeholder-header = ఇటీవల మూసిన ట్యాబులేమీ లేవు
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = చివరిగా చూసింది
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = చూడడానికి ఇంకా ఏమీలేదు
 firefoxview-collapse-button-show =
     .title = జాబితా చూపించు
 firefoxview-collapse-button-hide =

@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Ntu nakuni certificado jiee ntu nakuni certi
 cert-error-trust-signature-algorithm-disabled = Ntu nakuni certificado jie ya´a nsá´á ji iin algoritmo nná´va jiee kuviji iin ntu va´a.
 cert-error-trust-expired-issuer = Ntu nakuni certificado jiee certificado emisor nnɨ´ɨ.
 cert-error-trust-self-signed = Certificado ya´a ntu vatu jiee kuviji autofirmado.
-cert-error-trust-symantec = Da certificados vaji jiee GeoTrust,RapidSSL, Symantec, Thawte y VeriSign ntu nakuni vatu jiee da vetiñu certificación ntu nnitada da tu´un va´a ichi yata.
 cert-error-untrusted-default = Certificado ntu vaji nuu iin nuu va´a.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -53,17 +52,12 @@ cert-error-code-prefix-link = Código a stivu <a data-l10n-name="error-code-link
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Nkene iin error ji conexión { $hostname }. { $errorMessage }
 # Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Da nuu web íyo vatu jiee da certificados tava tee nee tiñu certificación. Ntaka da ka̱a̱ nánuku ntu nakuni da certificados tava GeoTrust, RapidSSL,  Symantec, Thawte y VeriSign. { $hostname } ni´i iin certificado vaji nuu da vetiñu ya´a je, ntu kuvi nakuni de vatu nuu web ya´a.
-cert-error-symantec-distrust-admin = Kuvi kachinu nuu tee nɨnuu web jie´e tixí ya´a.
-# Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = Seguridad de transporte HTTP estricta: { $hasHSTS }
 # Variables:
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Tee clave pública HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadena de certificado:
-open-in-new-window-for-csp-or-xfo-error = Síne nuu iin ventana jíía
 
 ## Messages used for certificate error titles
 
@@ -93,7 +87,6 @@ redirectLoop-title = Ntu sá´á vatu redirección página ya´a
 unknownSocketType-title = Ntu nnaka´a vatu servidor
 nssFailure2-title = Ntu nkuvi sá´á conexión vatu
 csp-xfo-error-title = { -brand-short-name } Ntu nsíne página ya'a
-corruptedContentError-title = Error jiee contenido ntívɨ
 sslv3Used-title = Ntu kuvi kivɨ va´a ya´a
 inadequateSecurityError-title = Conexión noo'o ntu túvi vatu
 blockedByPolicy-title = Página nasɨ

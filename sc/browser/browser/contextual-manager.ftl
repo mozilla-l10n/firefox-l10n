@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Chirca craes
-    .key = F
     .aria-label = Chirca craes
+    .key = F
+    .placeholder = Chirca craes
 contextual-manager-menu-more-options-button =
     .title = Àteras optziones
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Importa dae un’archìviu...
 contextual-manager-passwords-command-export = Esporta is craes
 contextual-manager-passwords-command-remove-all = Boga totu is craes
 contextual-manager-passwords-command-options = Optziones
-contextual-manager-passwords-command-settings = Cunfiguratziones
 contextual-manager-passwords-command-help = Agiudu
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -66,10 +65,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Craes importadas
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Noas: { $added }; atualizadas: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -223,8 +218,6 @@ contextual-manager-passwords-create-label =
     .label = Agiunghe crae
 contextual-manager-passwords-update-label =
     .label = Atualiza sa crae
-contextual-manager-passwords-edit-label =
-    .label = Modìfica sa crae
 contextual-manager-passwords-remove-label =
     .title = Canzella sa crae
 contextual-manager-passwords-origin-field =
@@ -240,7 +233,6 @@ contextual-manager-passwords-password-field-description = Inserta·nche sa crae 
 contextual-manager-passwords-origin-tooltip = Iscrie s’indiritzu giustu dae in ue t’as a identificare in custu situ.
 contextual-manager-passwords-username-tooltip = Inserta·nche su nòmine, s’indiritzu eletrònicu o su nùmeru de contu chi impreas pro ti identificare.
 contextual-manager-passwords-password-tooltip-2 = Inserta·nche sa crae pro ti identificare in custu contu.
-contextual-manager-passwords-password-tooltip = Inserta·nche sa crae impreada pro ti identificare in custu contu.
 
 ## Password Card
 
@@ -287,10 +279,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Còpia sa crae (avisu)
 contextual-manager-edit-login-button = Modifica
     .tooltiptext = Modifica sa crae
-contextual-manager-view-alert-heading =
-    .heading = Ammustra s’avisu
-contextual-manager-view-alert-button =
-    .tooltiptext = Revisiona s’avisu
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -319,13 +307,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Nissuna crae agatada
 contextual-manager-passwords-no-passwords-found-message-2 = Proa unu tèrmine diferente e torra·nche a proare.
-contextual-manager-passwords-no-passwords-found-message = Nissuna crae agatada. Chirca unu tèrmine diversu e torra a nche proare.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Sarva is craes tuas in logu seguru.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Totu is craes sunt tzifradas, amus a averiguare si ddoe sunt violatziones e avisos chi ti pertocant.

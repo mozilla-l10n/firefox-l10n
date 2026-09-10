@@ -12,9 +12,7 @@ cert-error-trust-untrusted-issuer = Վկայագիրն վստահելի չէ, զ
 cert-error-trust-expired-issuer = Վկայագիրն չէ վստահելի, զի արտունագիր թողարկողին սպառեալ է։
 cert-error-trust-self-signed = Վկայագիրն վստահելի չէ, զի ինքնաստորագրեալ է։
 cert-error-untrusted-default = Վկայագիրն ոչ ելանէ ի վստահելի աղբերէ։
-cert-error-symantec-distrust-admin = Մարթ է ծանուցանել վարչին կայից զայսմ խնդրոյ։
 cert-error-details-cert-chain-label = Շղթայ վկայագրի՝
-open-in-new-window-for-csp-or-xfo-error = Բանալ զկայս ի նորում պատուհանի
 
 ## Messages used for certificate error titles
 
@@ -44,7 +42,6 @@ redirectLoop-title = Այս էջ ոչ վերուղղորդէ պատշաճաբա�
 unknownSocketType-title = Անակնկալ պատասխանի ի սպասարկչէ
 nssFailure2-title = Անվտանգ կապակցումն տապալեցաւ։
 csp-xfo-error-title = { -brand-short-name } ոչ կարէ բանալ զայս էջ
-corruptedContentError-title = Սխալ բովանդակութեան եղծելոյ
 sslv3Used-title = Անկարող անվտանգ կապակցել
 inadequateSecurityError-title = Կապակցումն քո չէ անվտանգ
 blockedByPolicy-title = Արգելափակեալ երես

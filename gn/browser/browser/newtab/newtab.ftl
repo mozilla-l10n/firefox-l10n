@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Tendayke Pyahu
-newtab-settings-button =
-    .title = Eñemomba’e ne Tendayke Pyahu roguére
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Emboava ko kuatiarogue
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = Ñemomba’ete
 newtab-customize-panel-label =
     .label = Ñemomba’ete
-newtab-personalize-settings-icon-label =
-    .aria-label = Ñemboheko
-    .title = Eñemomba’e tendayke pyahúre
 newtab-settings-dialog-label =
     .aria-label = Ñemboheko
-newtab-personalize-icon-label =
-    .aria-label = Eñemomba’e tendayke pyahúre
-    .title = Eñemomba’e tendayke pyahúre
-newtab-personalize-dialog-label =
-    .aria-label = Ñemomba’e
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
@@ -479,7 +469,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Embojuaju hekaha
 newtab-topsites-add-shortcut-header = Mbopya’eha pyahu
-newtab-topsites-edit-topsites-header = Tenda Ojeikevéva Mbosako’i
 newtab-topsites-edit-shortcut-header = Mbopya’eha mbosako’i
 newtab-topsites-add-shortcut-label = Embojuaju jeike pya’eha
 newtab-topsites-add-shortcut-title =
@@ -549,20 +538,12 @@ newtab-topsites-hover-card-dismiss =
 newtab-menu-section-tooltip =
     .aria-label = Eike poravorãme
     .title = Eike poravorãme
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Mboguete
-    .title = Mboguete
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Embojuruja poravorã { $title } peg̃uarã
     .title = Eike poravorãme
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Embosako’i ko tenda
-    .title = Embosako’i ko tenda
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -574,11 +555,7 @@ newtab-menu-dismiss = Emboyke
 newtab-menu-pin = Mboja
 newtab-menu-unpin = Mboja’ỹ
 newtab-menu-delete-history = Tembiasakue Rysýigui Ñeguenohẽ
-newtab-menu-save-to-pocket = Eñongatu { -pocket-brand-name }-pe
-newtab-menu-delete-pocket = Embogue { -pocket-brand-name }-pe
-newtab-menu-archive-pocket = Eñongatu { -pocket-brand-name }-pe
 newtab-menu-show-privacy-info = Ore pytyvõhára ha iñemigua
-newtab-menu-about-fakespot = { -fakespot-brand-name } rehegua
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Momarandu
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -589,26 +566,12 @@ newtab-menu-section-block = Joko
 newtab-menu-section-unfollow-topic = Ndahapykuehovéima
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Eikuaave
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = Anive ehapykueho téma
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = Emboguata tetepy ykekopyre
 newtab-menu-our-sponsors-and-your-privacy = Ore pytyvõhára ha nemigua
 newtab-menu-report-this-ad = Emomarandu ko ñemurã rehegua
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Oĩma
-newtab-privacy-modal-button-manage = Ema’ẽ tetepy mboheko tepyme’ẽpyre
-newtab-privacy-modal-header = Ne ñemigua tuichamba’e.
-newtab-privacy-modal-paragraph-2 =
-    Ome’ẽse avei tembiasakue oporombovy’áva, avei rohechauka marandu iporãva,
-    tetepy pytyvõhára poravopyre ohechajeypyre. Ani ejepy’apy, <strong>nde kundaha mba’ekuaarã tekorosã
-     araka’eve ndohejái mbohasarã mba’eteéva { -brand-product-name } rehegua</strong>: ore ndorohechái ha ore pytyvõhára avei.
-newtab-privacy-modal-link = Eikuaa mba’éicha omba’apo ñemigua tendayke pyahúpe
 
 ##
 
@@ -664,31 +627,12 @@ newtab-label-sponsored-fixed = Pytyvõpyréva
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Emboguete vore
-newtab-section-menu-collapse-section = Embopytupa vore
-newtab-section-menu-expand-section = Emoasãi vore
-newtab-section-menu-manage-section = Eñangareko vorére
-newtab-section-menu-manage-webext = Emongu’e jepysokue
-newtab-section-menu-add-topsite = Embojuaju Tenda ojeikeveha
-newtab-section-menu-add-search-engine = Embojuaju hekaha
-newtab-section-menu-move-up = Jupi
-newtab-section-menu-move-down = Guejy
 newtab-section-menu-privacy-notice = Marandu’i ñemiguáva
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Emonichĩ vore
-newtab-section-expand-section-label =
-    .aria-label = Emoasãi vore
 
 ## Section Headers.
 
 newtab-section-header-topsites = Tenda Ojehechavéva
 newtab-section-header-recent-activity = Tembiapo ramovegua
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } he’i ndéve reike hag̃ua
 newtab-section-header-stories = Tembiasakue nemoakãngetáva
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = Poravopyre ko arapegua ndéve g̃uarã
@@ -696,10 +640,6 @@ newtab-section-header-todays-picks = Poravopyre ko arapegua ndéve g̃uarã
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Eñepyrũ eikundaha ha rohechaukáta ndéve mba’ehai, mba’erecharã oĩva ha ambue ñandutirenda reikeva’ekue ýrõ rembotechaukava’ekue.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Ko’ág̃a reikuaapáma ipyahúva. Eikejey ag̃ave ápe eikuaávo mombe’upy pyahu { $provider } oikuave’ẽva ndéve. Ndaikatuvéima reha’ãrõ? Eiporavo peteĩ ñe’ẽmbyrã ha emoñe’ẽve oĩvéva ñande yvy ape ári.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = Ko’ág̃a reikuaapáma. Eikejey ag̃ave ápe eikuaave hag̃ua. ¿Nereha’ãrõkuaavéima? Eiporavo ñe’ẽrã ejuhu hag̃ua tembiasakue yvy ape arigua.
 
@@ -733,39 +673,6 @@ newtab-carousel-pause =
 newtab-carousel-play =
     .aria-label = Embopu ñembopu ijeheguíva
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Ñe’ẽmbyrã Ojehayhuvéva:
-newtab-pocket-new-topics-title = ¿Eipotavépa tembiasakue? Ehecha téma ojehechavéva { -pocket-brand-name } rehegua
-newtab-pocket-more-recommendations = Hetave je’eporã
-newtab-pocket-learn-more = Kuaave
-newtab-pocket-cta-button = Eguereko { -pocket-brand-name }
-newtab-pocket-cta-text = Eñongatu umi eipotáva tembiasakue { -pocket-brand-name }-pe ha emombarete ne akã ñemoñe’ẽ ha’evévape.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } ha’e { -brand-product-name } pehẽngue
-newtab-pocket-save = Ñongatu
-newtab-pocket-saved = Ñongatupyre
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = Koichaguave
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = Ndacheveg̃uarãi
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = Aguyje. Nde jehai ore pytyvõta iporãve hag̃ua ne marandurã.
-newtab-toast-dismiss-button =
-    .aria-label = Emboyke
-    .title = Emboyke
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = Ehecha ñandutigua iporãvéva
-newtab-pocket-onboarding-cta = { -pocket-brand-name } ohecha hetaichagua ñemomarandu oguerukuaa hag̃ua tetepy maranduverã, py’aho ha jerovia añete ne kundahára rehe { -brand-product-name }.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -774,8 +681,6 @@ newtab-error-fallback-refresh-link = Kuatiarogue mbopiro’y eñepyrũjey hag̃u
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Jeike pya’eha
-newtab-custom-shortcuts-subtitle = Tenda eñongatúva térã eikeha
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Tenda eñongatúva térã eikeha
@@ -796,16 +701,6 @@ newtab-custom-row-selector2 =
             [one] { $num } Mba’erysýi
            *[other] { $num } Mba’erysyikuéra
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } Mba’erysýi
-       *[other] { $num } Mba’erysyikuéra
-    }
-newtab-custom-sponsored-sites = Jeike pya’eha jehepyme’ẽpyre
-newtab-custom-pocket-title = { -pocket-brand-name } oñe’ẽporãha
-newtab-custom-pocket-subtitle = Tetepy iporãva { -pocket-brand-name } oiporavopyre, { -brand-product-name } mba’éva pegua
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = Tetepy iporãva oiporavóva { -brand-product-name } reheguáva
@@ -817,10 +712,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = Tembiasakueita teéva ipyendáva ne rembiapóre
 newtab-custom-stories-personalized-checkbox-label = Tembiasakueita teéva ipyendáva ne rembiapóre
-newtab-custom-pocket-sponsored = Tembiasakue jehepyme’ẽguáva
-newtab-custom-pocket-show-recent-saves = Ehechauka eñongaturamóva
-newtab-custom-recent-title = Tembiapo ramovegua
-newtab-custom-recent-subtitle = Tenda jeporavo ha tetepy ramovegua
 newtab-custom-weather-toggle =
     .description = Ko árape g̃uara ára
     .label = Arapytu
@@ -852,7 +743,6 @@ newtab-widget-manage-widget-button =
 newtab-custom-close-menu-button =
     .aria-label = Poravorã mboty
     .title = Mboty
-newtab-custom-close-button = Mboty
 newtab-custom-settings = Eñangareko hetave ñembohekóre
 
 ## Customization Menu
@@ -901,7 +791,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Ta’ãnga ohasáma tuichakuépe { $file_size } MB rehegua. Eñeha’ã ehupi marandurenda michĩvéva.
 newtab-wallpaper-error-upload-file-type = Ndaikatúi rohupi marandurenda. Eha’ã jey marandurenda ambuéva reheve.
-newtab-wallpaper-error-file-type = Ndaikatúi rohupi marandurenda. Eha’ã jey marandurenda ambuéva reheve.
 newtab-wallpaper-light-red-panda = Panda pytã
 newtab-wallpaper-light-mountain = Yvyty morotĩ
 newtab-wallpaper-light-sky = Ára taijarai pytãũ ha pytãngy
@@ -1022,10 +911,6 @@ newtab-wallpaper-celestial-river = Ysyryguasu ra’ãnga satélite guive
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = Ehecha ára rehegua { $provider }-pe
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Oykekóva
 newtab-weather-menu-change-location = Emoambue tendatee
 newtab-weather-change-location-search-input-placeholder =
@@ -1049,7 +934,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Eva Fahrenheit ndive
 newtab-weather-menu-change-temperature-units-celsius = Eva Celsius ndive
-newtab-weather-menu-hide-weather = Eñomi arareko Tendayke Pyahúpe
 newtab-weather-menu-learn-more = Eikuaave
 newtab-weather-menu-detect-my-location = Ehecha che rendaite
 # This message is shown if user is working offline
@@ -1168,7 +1052,6 @@ newtab-section-unblock-topic =
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = Ani ko’ág̃a
 newtab-section-confirm-block-topic-p1 = ¿Ejokose añetehápe ko téma?
 newtab-section-confirm-block-topic-p2 = Umi téma jokopyre nosẽmo’ãvéima canal-kuérape.
 # Variables:

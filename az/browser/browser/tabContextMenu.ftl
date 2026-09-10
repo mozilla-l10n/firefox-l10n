@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Yeni Vərəq
-    .accesskey = w
 reload-tab =
     .label = Vərəqi Yenilə
     .accesskey = R
@@ -98,10 +95,6 @@ tab-context-close-duplicate-tabs =
 tab-context-close-duplicate-tabs2 =
     .label = Bu Vərəqin Surətlərini Qapat
     .accesskey = x
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -134,13 +127,6 @@ tab-context-move-tabs =
            *[other] Vərəqlərin Yerini Dəyiş
         }
     .accesskey = v
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Vərəqi Cihaza Göndər
-           *[other] { $tabCount } Vərəqi Cihaza Göndər
-        }
-    .accesskey = n
 # Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
 tab-context-unload-tabs =
     .label = Boşalt

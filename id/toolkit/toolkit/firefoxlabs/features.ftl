@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Aktifkan Warp, sebuah proyek untuk m
 experimental-features-ime-search =
     .label = Bilah Alamat: Tampilkan hasil selama komposisi IME
 experimental-features-ime-search-description = IME (Input Method Editor) adalah alat yang memungkinkan Anda memasukkan simbol kompleks, seperti yang digunakan dalam bahasa tulis Asia Timur atau India, menggunakan papan ketik standar. Mengaktifkan eksperimen ini akan membuat panel alamat terbuka, menampilkan hasil pencarian dan saran, ketika menggunakan IME untuk memasukkan teks. Perhatikan bahwa IME mungkin menampilkan panel yang menutupi hasil bilah alamat, karena itu preferensi ini hanya disarankan bagi IME tidak menggunakan panel jenis ini.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Gambar-dalam-Gambar: buka otomatis pada sakelar tab
-experimental-features-auto-pip-description = Aktifkan Gambar-dalam-Gambar pada video yang sedang diputar saat beralih tab.
 experimental-features-group-developer-tools =
     .label = Perangkat Pengembang
 experimental-features-group-webpage-display =
@@ -27,10 +23,6 @@ experimental-features-group-customize-browsing =
     .label = Ubahsuai penjelajahan Anda
 experimental-features-group-productivity =
     .label = Produktivitas
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Sandi di bilah samping
-experimental-features-contextual-password-manager-description = Akses kata sandi Anda langsung dari bilah samping. Tidak perlu lagi mencari-cari atau menyetel ulang sandi saat Anda mencoba masuk. Untuk menggunakan fitur ini, pilih kata sandi di bilah samping. Lalu buka pengaturan umum Anda dan di bawah tata letak peramban, pilih tampilkan bilah samping. Kemudian, sesuaikan bilah sisi Anda dengan memilih kata sandi. Jika Anda mencobanya, <a data-l10n-name="connect">beri tahu kami pendapat Anda</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Pilih wallpaper atau warna khusus untuk Tab Baru

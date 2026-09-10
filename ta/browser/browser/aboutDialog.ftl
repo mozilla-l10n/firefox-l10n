@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>புதிய பதிப்புகளைப் பதிவிறக்குகிறது — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = புதுப்பிப்பைப் பதிவிறக்குகிறது — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = புதிய பதிப்புகளைப் பதிவிறக்குகிறது — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = புதுப்பிப்பைப் செயல்படுத்துகிறது…
 update-failed = புதுப்பிப்பு செயல் தோல்வியுற்றது. <label data-l10n-name="failed-link">சமீபத்திய பதிப்பைப் பதிவிறக்கவும்</label>
 update-failed-main = புதுப்பித்தல் தோல்வியுற்றது. <a data-l10n-name="failed-link-main">சமீபத்திய பதிப்பைப் பதிவிறக்கவும்</a>
-update-adminDisabled = புதுப்பிப்பு செயல் கணினி நிர்வாகியால் முடக்கப்பட்டுள்ளது
 update-policy-disabled = உங்கள் நிறுவனத்தால் புதுப்பிப்புகள் முடக்கப்பட்டுள்ளன.
 settings-update-policy-disabled =
     .label = உங்கள் நிறுவனத்தால் புதுப்பிப்புகள் முடக்கப்பட்டுள்ளன.
@@ -71,8 +69,6 @@ helpus = பங்களிக்க விருப்பமா? <label data-l1
 bottomLinks-license = உரிம தகவல்
 bottom-links-terms = பயன்பாட்டு விதிமுறைகள்
 bottom-links-privacy = தனியுரிம கொள்கை
-bottomLinks-rights = கடைநிலைப் பயனர் உரிமைகள்
-bottomLinks-privacy = தனியுரிமை கொள்கை
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

@@ -64,18 +64,11 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Sinhronizirajte svoje oznake svuda.
-cfr-doorhanger-bookmark-fxa-body = Odlično otkriće! Sada nemojte ostati bez ove oznake na svojim mobilnim uređajima. Započnite s { -fxaccount-brand-name }om.
 cfr-doorhanger-bookmark-fxa-body-2 = Odlično otkriće! Sada nemojte ostati bez ove zabilješke na svojim mobilnim uređajima. Započnite s računom.
 cfr-doorhanger-bookmark-fxa-link-text = Sinhronizuj oznake sada…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Dugme za zatvaranje
     .title = Zatvori
-
-## Protections panel
-
-cfr-protections-panel-header = Pretražujte bez praćenja
-cfr-protections-panel-body = Zadržite svoje podatke za sebe. { -brand-short-name } štiti vas od mnogih najčešćih tragača koji prate ono što radite na mreži.
-cfr-protections-panel-link-text = Saznajte više
 
 ## What's New toolbar button and panel
 
@@ -172,42 +165,8 @@ mr2022-background-update-toast-primary-button-label = Otvorite { -brand-shorter-
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Podsjeti me kasnije
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Probaj
-    .accesskey = T
-firefoxview-cfr-secondarybutton = Ne sada
-    .accesskey = N
-firefoxview-cfr-header-v2 = Brzo nastavite gdje ste stali
-firefoxview-cfr-body-v2 = Vratite nedavno zatvorene tabove, plus neometano skačite između uređaja pomoću { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Pozdravite { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Želite tu otvoreni tab na svom telefonu? Zgrabi ga. Trebate li stranicu koju ste upravo posjetili? Puf, vratio se sa { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Pogledajte kako ovo radi
-firefoxview-spotlight-promo-secondarybutton = Preskoči
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Odaberi kolorit
-    .accesskey = C
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Obojite svoj pretraživač sa { -brand-short-name } ekskluzivnim nijansama inspirisanim glasovima koji su promijenili kulturu.
-colorways-cfr-header-28days = Koloriti Nezavisni glasovi ističu 16. januara
-colorways-cfr-header-14days = Koloriti Nezavisni glasovi ističu za dvije sedmice
-colorways-cfr-header-7days = Koloriti Nezavisni glasovi ističu ove sedmice
-colorways-cfr-header-today = Koloriti Nezavisni glasovi ističu danas
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Dozvoliti { -brand-short-name } da odbije natpise kolačića?
-cfr-cbh-body = { -brand-short-name } može automatski odbiti mnoge zahtjeve za kolačiće natpisa.
-cfr-cbh-confirm-button = Odbij kolačiće natpisa
-    .accesskey = R
-cfr-cbh-dismiss-button = Ne sada
-    .accesskey = N
 cookie-banner-blocker-onboarding-header = { -brand-short-name } je upravo odbio kolačić natpisa za vas
 cookie-banner-blocker-onboarding-body = Manje ometanja, manje kolačića koji vas prate na ovoj stranici.
 cookie-banner-blocker-onboarding-learn-more = Saznajte više

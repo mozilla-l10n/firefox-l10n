@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = ਡਿਫਾਲਟ ਬਰਾਊਜ਼ਰ ਏ
 policy-DisableDeveloperTools = ਡਿਵੈਲਪਰ ਟੂਲਾਂ ਲਈ ਪਹੁੰਚ ਵਾਸਤੇ ਪਾਬੰਦੀ ਲਗਾਓ।
 policy-DisableEncryptedClientHello = ਇੰਕ੍ਰਿਪਟ ਕੀਤੀ ਕਲਾਈਂਟ ਹੈਲੋ (ECH) ਫ਼ੀਚਰ ਦੀ ਵਰਤੋਂ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ।
 policy-DisableFeedbackCommands = ਮਦਦ ਮੇਨੂ ਤੋਂ ਫੀਡਬੈਕ ਭੇਜਣ ਲਈ ਕਮਾਂਡਾਂ ਨੂੰ ਅਸਮਰੱਥ (ਸੁਝਾਅ ਦਿਓ ਅਤੇ ਭਰਮਪੂਰਨ ਸਾਈਟ ਬਾਰੇ ਇਤਲਾਹ ਦਿਓ)।
-policy-DisableFirefoxAccounts = { -fxaccount-brand-name } ਅਧਾਰਿਤ ਸੇਵਾਵਾਂ, ਸਿੰਕ ਸਮੇਤ, ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ।
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = ਖਾਤਾ ਅਧਾਰਿਤ ਸੇਵਾਵਾਂ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ, ਜਿਸ ਵਿੱਚ ਸਿੰਕ ਕਰਨਾ ਵੀ ਸ਼ਾਮਲ ਹੈ।
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = ਖੋਜ ਅਤੇ ਫਾਰਮ ਅਤੀਤ ਨੂ
 policy-DisableLaunchOnLogin = ਜਦੋਂ ਵਰਤੋਂਕਾਰ ਲਾਗਇਨ ਕਰਦਾ ਹੈ ਤਾਂ { -brand-short-name } ਨੂੰ ਆਪਣੇ-ਆਪ ਚੱਲਣ ਤੋਂ ਰੋਕੋ
 policy-DisablePrimaryPasswordCreation = ਜੇ ਇਹ ਸਹੀ ਹੈ, ਤਾਂ ਮੁੱਢਲਾ ਪਾਸਵਰਡ ਨਹੀਂ ਬਣਾਇਆ ਜਾ ਸਕਦਾ।
 policy-DisablePasswordReveal = ਸੰਭਾਲੇ ਲਾਗਇਨਾਂ ਵਿੱਚ ਪਾਸਵਰਡ ਵੇਖਣ ਦੀ ਇਜਾਜ਼ਤ ਨਾ ਦਿਓ।
-policy-DisablePocket2 = { -pocket-brand-name } ਨੂੰ ਵੈਬ ਪੇਜਿਆਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਵਿਸ਼ੇਸ਼ਤਾ ਨੂੰ ਅਯੋਗ ਕਰੋ।
 policy-DisablePrivateBrowsing = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਅਸਮਰੱਥ ਕਰੋ।
 policy-DisableProfileImport = ਕਿਸੇ ਹੋਰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਡਾਟਾ ਦਰਾਮਦ ਕਰਨ ਲਈ ਮੇਨੂ ਕਮਾਂਡ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ।
 policy-DisableProfileRefresh = about:support ਸਫ਼ੇ ਵਿੱਚ { -brand-short-name } ਬਟਨ ਨੂੰ ਤਾਜ਼ਾ ਕਰਨ ਤੋਂ ਰੋਕੋ।
@@ -138,7 +136,6 @@ policy-PDFjs =
 policy-Permissions2 = ਕੈਮਰਾ, ਮਾਈਕਰੋਫੋਨ, ਟਿਕਾਣਾ, ਸੂਚਨਾਵਾਂ ਜਾਂ ਆਪੇ-ਚਲਾਓ ਲਈ ਇਜਾਜ਼ਤਾਂ ਦੀ ਸੰਰਚਨਾ ਕਰੋ।
 policy-PictureInPicture = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਨੂੰ ਸਮਰੱਥ ਜਾਂ ਅਸਮਰੱਥ ਕਰੋ।
 policy-PopupBlocking2 = ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਪੌਪ-ਅੱਪ ਦਿਖਾਉਣ ਅਤੇ ਸੁਤੰਤਰ-ਧਿਰ ਫਰੇਮਾਂ ਲਈ ਰੀ-ਡਾਇਰੈਕਟ ਕਰਨ ਦੀ ਮਨਜ਼ੂਰੀ ਦਿਓ।
-policy-PopupBlocking = ਕੁਝ ਵੈਬਸਾਈਟਾਂ ਨੂੰ ਡਿਫੌਲਟ ਦੁਆਰਾ ਪੌਪਅਪਸ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿਓ।
 policy-Preferences = ਤਰਜੀਹਾਂ ਦੇ ਸਬਸੈਟ ਲਈ ਮੁੱਲ ਨੂੰ ਸੈਟ ਕਰੋ ਅਤੇ ਲਾਕ ਕਰੋ।
 policy-PrivateBrowsingModeAvailability = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਢੰਗ ਦੀ ਮੌਜੂਦਗੀ ਸੈੱਟ ਕਰੋ।
 policy-PromptForDownloadLocation = ਡਾਊਨਲੋਡ ਕਰਨ ਵੇਲੇ ਫਾਈਲਾਂ ਨੂੰ ਕਿੱਥੇ ਸੁਰੱਖਿਅਤ ਕਰਨ ਦੇ ਬਾਰੇ ਪੁੱਛੋ।

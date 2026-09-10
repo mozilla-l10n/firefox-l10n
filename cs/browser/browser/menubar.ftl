@@ -271,8 +271,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Profily
 menu-profiles-manage-profiles =
     .label = Správa profilů
 menu-profiles-new-profile =
@@ -296,9 +294,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Rozšíření a vzhledy
     .accesskey = R
-menu-tools-addons-and-themes =
-    .label = Doplňky a vzhledy
-    .accesskey = a
 menu-tools-fxa-sign-in2 =
     .label = Přihlásit se
     .accesskey = P
@@ -359,8 +354,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Další technické informace
     .accesskey = t
-menu-help-report-site-issue =
-    .label = Nahlásit problém se zobrazením stránky…
 menu-help-share-ideas =
     .label = Sdílet nápad nebo zpětnou vazbu…
     .accesskey = S

@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = Tôi đang ở trên trang “{ $tabTitle }” v
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Hỏi chatbot AI
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Hỏi { $provider }
 genai-menu-open-generic =
     .label = Mở chatbot AI
 # $provider (string) - name of the provider
@@ -118,8 +113,6 @@ genai-header-provider-menu =
     .title = Chọn một chatbot
 genai-header-settings-button =
     .title = Cài đặt trò chuyện AI
-genai-header-options-button =
-    .title = Mở menu
 genai-header-close-button =
     .title = Đóng
 genai-provider-view-details =
@@ -147,37 +140,25 @@ genai-page-button-summarize = Tóm tắt trang
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Tóm tắt, giải thích và hơn thế nữa khi bạn duyệt qua
 genai-onboarding-choose-header = Chọn một chatbot AI để sử dụng trong thanh lề { -brand-short-name }
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Chọn một chatbot AI để sử dụng trong thanh lề { -brand-short-name }. Chúng tôi sẽ hiển thị chi tiết về từng chatbot khi bạn chọn nó. Chuyển đổi bất cứ lúc nào. <a data-l10n-name="learn-more">Tìm hiểu thêm</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Chuyển đổi bất cứ lúc nào. Để được hỗ trợ về lựa chọn này, <a data-l10n-name="learn-more">tìm hiểu thêm về từng chatbot</a>.
 genai-onboarding-primary = Tiếp tục
 genai-onboarding-secondary = Đóng
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Tìm hiểu thêm về Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Tìm hiểu thêm về ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Tìm hiểu thêm về Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Tìm hiểu thêm về Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = Tìm hiểu thêm về HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Tìm hiểu thêm về Le Chat
-genai-onboarding-select-header = Chọn văn bản để xem đề xuất
-genai-onboarding-select-description = Khi bạn chọn văn bản, chúng tôi sẽ đề xuất lời nhắc mà bạn có thể gửi tới chatbot. Bạn cũng có thể viết theo lời nhắc của riêng bạn.
-genai-onboarding-select-primary = Bắt đầu chat
 genai-chatbot-contextual-title = Sử dụng chatbot AI mà không cần chuyển đổi thẻ
 genai-chatbot-contextual-subtitle = Trò chuyện và duyệt song song khi bạn thêm chatbot AI trong thanh lề của { -brand-short-name }.
 genai-chatbot-contextual-button = Chọn một chatbot
@@ -190,27 +171,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = Nhấp chuột phải vào n�
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Mở chatbot AI của bạn trong thanh lề và chọn “Tóm tắt trang” ở cuối.
 genai-chatbot-summarize-footer-generic-subtitle = Thêm chatbot AI vào thanh lề { -brand-short-name } để tóm tắt nhanh trang.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Tạo văn bản và mã
-genai-onboarding-claude-analyze = Phân tích tài liệu và hình ảnh
-genai-onboarding-claude-price = Tùy chọn miễn phí và trả phí; yêu cầu tài khoản
-genai-onboarding-chatgpt-generate = Tạo văn bản, hình ảnh và mã
-genai-onboarding-chatgpt-analyze = Phân tích tài liệu và hình ảnh
-genai-onboarding-chatgpt-price = Tùy chọn miễn phí và trả phí; tài khoản cần thiết cho một số quốc gia và tác vụ
-genai-onboarding-copilot-generate = Tạo văn bản, hình ảnh và mã code.
-genai-onboarding-copilot-analyze = Phân tích hình ảnh
-genai-onboarding-copilot-price = Tùy chọn miễn phí và trả phí; yêu cầu tài khoản cho một số tác vụ
-genai-onboarding-gemini-generate = Tạo văn bản, hình ảnh và mã
-genai-onboarding-gemini-analyze = Phân tích hình ảnh (miễn phí) và tài liệu (trả phí)
-genai-onboarding-gemini-price = Tùy chọn miễn phí và trả phí; yêu cầu tài khoản
-genai-onboarding-huggingchat-generate = Tạo văn bản và mã
-genai-onboarding-huggingchat-switch = Chuyển đổi giữa tập hợp các mô hình mở đa dạng
-genai-onboarding-huggingchat-price-2 = Miễn phí; yêu cầu tài khoản cho một số lượng yêu cầu nhất định
-genai-onboarding-lechat-generate = Tạo văn bản và mã
-genai-onboarding-lechat-price = Miễn phí; yêu cầu tài khoản
 
 ## Model Optin Component
 
@@ -245,8 +205,8 @@ link-preview-generation-retry = Thử lại
 link-preview-settings-button =
     .title = Cài đặt xem trước liên kết
 link-preview-settings-enable =
-    .label = Bật xem trước liên kết
     .description = Xem tiêu đề trang, mô tả và nhiều thông tin khác khi bạn sử dụng phím tắt hoặc nhấp chuột phải vào liên kết.
+    .label = Bật xem trước liên kết
 link-preview-settings-key-points =
     .label = Cho phép AI đọc phần đầu của trang và tạo ra nội dung chính
 link-preview-settings-long-press =

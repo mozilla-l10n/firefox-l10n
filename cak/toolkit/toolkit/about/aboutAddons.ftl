@@ -154,15 +154,10 @@ addon-sitepermission-host = Ruya'oj q'ij ruxaq richin { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Konojel ri taq tz'aqat xechup pa ri ütz rub'eyal.
-extensions-warning-check-compatibility = Chupül ri runuk'oxik richin we nikik'äm ki' ri taq tz'aqat. Rik'in jub'a' k'o jujun taq tz'aqat, ri man nikik'äm ta ki'.
-extensions-warning-safe-mode2 =
-    .message = Konojel ri taq tz'aqat xechup pa ri ütz rub'eyal.
 extensions-warning-check-compatibility2 =
     .message = Chupül ri runuk'oxik richin we nikik'äm ki' ri taq tz'aqat. Rik'in jub'a' k'o jujun taq tz'aqat, ri man nikik'äm ta ki'.
 extensions-warning-check-compatibility-button = Titzij
     .title = Titzij ri runik'oxik richin chi nikik'äm ki' ri taq tz'aqat.
-extensions-warning-update-security = Chupül ri runik'oxik chajinïk richin kik'exoj taq tz'aqat. Rik'in jub'a' k'o pa k'ayewal ri awokik'amaya'l kuma ri taq k'exoj.
 extensions-warning-update-security2 =
     .message = Chupül ri runik'oxik chajinïk richin kik'exoj taq tz'aqat. Rik'in jub'a' k'o pa k'ayewal ri awokik'amaya'l kuma ri taq k'exoj.
 extensions-warning-update-security-button = Titzij
@@ -226,10 +221,6 @@ shortcuts-duplicate = Kamulun chojokem
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } man xa xe ta pa jun chojokem nokisäx. Ri kamulun chojokem yetikïr nikib'än jun man oyob'en ta chi b'anikil.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } man xa xe ta pa jun chojokem nokisäx. Ri kamulun chojokem yetikïr nikib'än jun man oyob'en ta chi b'anikil.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -249,16 +240,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Ri taq k'amal chuqa' ri taq wachinel e ruchokoy okik'amaya'l chuqa' nikiya' q'ij chi re
-    ye'achajij ri ewan taq  tzij, ye'aqasaj taq silowäch, ye'akanoj taq sujuj, ye'aq'ät taq eltzijol,
-    najäl ruwäch ri okik'amaya'l chuqa' ch'aqa' chik. Jutaqil e aj röx winäq ri yeb'anon re ko'öl taq runuk'samaj cholkema'. Niqasüj jun rucha'oj { -brand-product-name }
-    <a data-l10n-name="learn-more-trigger">echilab'en</a> pa metz'etel
-    jikomal, rub'eyal nisamäj chuqa' rusamaj.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Jujun chi ke re taq chilab'enïk re' e'ichinan. K'o kixe'el pa jujun chik taq k'amal e'ayakon, kajowab'al rub'i' awäch chuqa' rumolob'a' rokisaxik.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message = Jujun chi ke re taq chilab'enïk re' e'ichinan. K'o kixe'el pa jujun chik taq k'amal e'ayakon, kajowab'al rub'i' awäch chuqa' rumolob'a' rokisaxik.
@@ -324,16 +305,9 @@ addon-detail-last-updated-label = Ruk'isib'äl K'exoj
 addon-detail-homepage-label = Tikirib'äl ruxaq
 addon-detail-rating-label = Kejqalem
 # Message for add-ons with a staged pending update.
-install-postponed-message = Re k'amal re' xtik'extäj toq xtitikïr chik { -brand-short-name }.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Re k'amal re' xtik'extäj toq xtitikïr chik { -brand-short-name }.
 install-postponed-button = Tik'exWakami
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Retal ruq'ij { NUMBER($rating, maximumFractionDigits: 1) } richin 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -351,9 +325,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = Xyuj el <span data-l10n-name="addon-name">{ $addon }</span>.
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = Xyuj el { $addon }.
 pending-uninstall-undo-button = Titzolïx
@@ -366,11 +337,6 @@ install-update-button = Tik'ex
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Tiya' q'ij pa taq ichinan tzuwäch
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Tiya' q'ij pa taq ichinan tzuwäch
 addon-detail-private-browsing-help = Toq tzij, ri k'amal pa ronojel samaj xtok wi toq atokinäq pa k'amaya'l pan ichinan rub'anikil. <a data-l10n-name="learn-more">Tetamäx ch'aqa' chik</a>
 addon-detail-private-browsing-allow = Tiya' q'ij
@@ -386,17 +352,6 @@ addon-detail-quarantined-domains-disallow = Man Tiya' Q'ij
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } xa xe yeruchilab'ej taq k'amal kojqan rub'eyal qajikomal chuqa' rub'eyal qasamaj
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = K'amal b'anon ruma Mozilla. Rojqan retal jikomal chuqa' rub'eyal nisamäj
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Re k'amal re' xnik'öx richin nib'anatäj ri rub'eyal qajikomal chuqa' rub'eyal samaj.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -408,9 +363,6 @@ available-updates-heading = Taq K'exoj K'o
 recent-updates-heading = K'ak'a' taq K'exoj
 release-notes-loading = Nisamäj…
 release-notes-error = Takuyu' qamak, xa xk'ulwachitäj jun sachoj toq nok pa ch'utaq rutzijol ri ko'öl wuj.
-addon-permissions-empty = Majun ya'oj q'ij nrajo re k'amal re'
-addon-permissions-required = Ajowanel taq ya'oj q'ij richin ri qitzij rusamaj:
-addon-permissions-optional = Cha'el taq ya'oj q'ij richin ri tz'aqat taq rusamaj:
 addon-permissions-learnmore = Tetamäx ch'aqa' chik chi kij ri taq ya'oj q'ij
 recommended-extensions-heading = Chilab'en taq K'amal
 recommended-themes-heading = Chilab'en taq Wachinel
@@ -440,25 +392,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } man nuk'äm ta ri' rik'in { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } man nuk'äm ta ri' rik'in { -brand-short-name } { $version }.
-details-notification-incompatible-link = Ch'aqa' chik rutzijol
-details-notification-unsigned-and-disabled = Man xtikïr ta xnik'öx ri { $name } ruma ri rokisaxik pa { -brand-short-name }, ruma ri' toq xchup.
 details-notification-unsigned-and-disabled2 =
     .message = Man xtikïr ta xnik'öx ri { $name } ruma ri rokisaxik pa { -brand-short-name }, ruma ri' toq xchup.
-details-notification-unsigned-and-disabled-link = Ch'aqa' chik rutzijol
-details-notification-unsigned = { $name } man xtikïr ta xnik'öx rokisaxik pa { -brand-short-name }. Tachajij awi'.
 details-notification-unsigned2 =
     .message = { $name } man xtikïr ta xnik'öx rokisaxik pa { -brand-short-name }. Tachajij awi'.
-details-notification-unsigned-link = Ch'aqa' chik rutzijol
-details-notification-blocked = { $name } xkichüp ruma k'ayewal pa ruwi' chajinïk o k'ojlemal.
-details-notification-blocked-link = Ch'aqa' chik rutzijol
-details-notification-softblocked = { $name } etaman chi itzel taq k'ayewal nub'än pa chajinïk o ak'ojlemal.
-details-notification-softblocked-link = Ch'aqa' chik rutzijol
-details-notification-gmp-pending = { $name } ja xtiyake' qa.
 details-notification-gmp-pending2 =
     .message = { $name } ja xtiyake' qa.
 

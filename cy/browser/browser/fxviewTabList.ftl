@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxviewtabrow-open-menu-button =
-    .title = Agor dewislen
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
@@ -24,10 +22,6 @@ fxviewtabrow-dismiss-tab-button =
     .title = Cau { $tabTitle }
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Newydd ddigwydd
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-delete = Dileu
     .accesskey = D
 fxviewtabrow-forget-about-this-site = Anghofio'r Wefan Hon…
@@ -57,8 +51,6 @@ fxviewtabrow-send-to-device = Anfon i Ddyfais
     .accesskey = D
 fxviewtabrow-send-to-mobile = Anfon i'r Symudol
     .accesskey = S
-fxviewtabrow-send-tab = Anfon Tab i Ddyfais
-    .accesskey = D
 fxviewtabrow-pin-tab = Pinio Tab
     .accesskey = P
 fxviewtabrow-unpin-tab = Dadbinio Tab
@@ -82,8 +74,5 @@ fxviewtabrow-send-to-mobile-connect-device = Cysylltwch Ddyfais i Anfon Tabiau
 fxviewtabrow-send-to-mobile-device-missing2 = Ddim yn gweld eich dyfais?
 fxviewtabrow-send-to-mobile-not-verified = Cyfrif Heb ei Wirio
 fxviewtabrow-send-to-mobile-verify-account = Gwirio eich Cyfrif
-
-## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
-
 fxviewtabrow-send-to-mobile-sign-in = Mewngofnodwch i Anfon Tabiau
 fxviewtabrow-send-to-mobile-turn-on-sync = Trowch Sync ymlaen i Anfon Tabiau

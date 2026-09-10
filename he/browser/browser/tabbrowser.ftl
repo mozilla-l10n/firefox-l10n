@@ -21,11 +21,6 @@ tabbrowser-tab-tooltip-container = { $containerName }
 #   $tabGroupName (String): the user-defined name of the current tab group.
 #   $containerName (String): the name of the current container.
 tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } - { $containerName }
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } — ‏{ $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -33,14 +28,6 @@ tabbrowser-container-tab-title = { $title } — ‏{ $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [one] סגירת לשונית
-           *[other] סגירת { $tabCount } לשוניות
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [one] סגירת לשונית
            *[other] סגירת { $tabCount } לשוניות
@@ -108,7 +95,6 @@ tabbrowser-unblock-tab-audio-aria-label =
 tabbrowser-confirm-close-tabs-title = לסגור { $tabCount } לשוניות?
 tabbrowser-confirm-close-tabs-button = סגירת לשוניות
 tabbrowser-ask-close-tabs-checkbox = לשאול לפני סגירת מספר לשוניות
-tabbrowser-confirm-close-tabs-checkbox = הצגת אזהרה בעת סגירת מספר לשוניות
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -131,9 +117,6 @@ tabbrowser-confirm-close-tabs-with-key-button = יציאה מ־{ -brand-short-na
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-ask-close-tabs-with-key-checkbox = לשאול לפני יציאה באמצעות { $quitKey }
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = הצגת אזהרה בעת יציאה באמצעות { $quitKey }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
@@ -430,8 +413,8 @@ tab-note-editor-button-save =
     .label = שמירה
     .accesskey = ש
 tab-note-editor-button-delete =
-    .title = מחיקת הערה
     .aria-label = מחיקת הערה
+    .title = מחיקת הערה
     .accesskey = מ
 tab-note-preview-edit-icon =
     .alt = עריכה הערה

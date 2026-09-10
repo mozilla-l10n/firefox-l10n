@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = એક પાનું પાછળ જાવ ({ $shortcut })
     .aria-label = પાછળ
+    .tooltiptext = એક પાનું પાછળ જાવ ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = એક પાનું આગળ જાવ ({ $shortcut })
     .aria-label = આગળ
+    .tooltiptext = એક પાનું આગળ જાવ ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -98,9 +98,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = કડી આ રીતે સંગ્રહો...
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = { -pocket-brand-name } પર લિંક સાચવો
-    .accesskey = o
 
 ##
 
@@ -181,18 +178,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = ઇમેલ ઓડિયો…
     .accesskey = a
-main-context-menu-save-to-pocket =
-    .label = પૃષ્ઠને { -pocket-brand-name } પર સાચવો
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = ઉપકરણ પર પૃષ્ઠ મોકલો
-    .accesskey = D
 
 ##
 
-main-context-menu-keyword =
-    .label = આ શોધ માટે મુખ્ય શબ્દ એડ-ઓન...
-    .accesskey = K
 main-context-menu-link-send-to-device =
     .label = ઉપકરણ પર લિંક મોકલો
     .accesskey = D

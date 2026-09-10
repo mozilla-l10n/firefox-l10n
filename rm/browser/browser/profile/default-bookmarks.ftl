@@ -2,17 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-# This file intentionally uses hard-coded brand names instead of Fluent terms.
-# This approach minimizes issues across multiple release channels and rebranded
-# versions.
-
 default-bookmarks-title = Segnapaginas
 default-bookmarks-heading = Segnapaginas
-default-bookmarks-toolbarfolder = Ordinatur da la trav da simbols dals segnapaginas
-default-bookmarks-toolbarfolder-description = Agiuntescha segnapaginas a quest ordinatur per als vesair en la trav da simbols dals segnapaginas
-# link title for https://www.mozilla.org/firefox/central/
-default-bookmarks-getting-started = Cumenzar
 # Firefox links folder name
 default-bookmarks-firefox-heading = Mozilla Firefox
 # link title for https://www.mozilla.org/firefox/help/

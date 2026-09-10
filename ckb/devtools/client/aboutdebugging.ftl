@@ -5,12 +5,6 @@
 
 ### These strings are used inside the about:debugging UI.
 
-
-# Page Title strings
-
-
-# Sidebar strings
-
 # Connection status (disconnected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-disconnected = دەرهێڵی
 # Text displayed as connection error in sidebar item when the connection has timed out.
@@ -22,15 +16,6 @@ about-debugging-sidebar-runtime-item-waiting-for-browser = چاوەڕوانی و
 # Text displayed in sidebar items for remote devices that have been disconnected from the
 # computer.
 about-debugging-sidebar-runtime-item-unplugged = لێکراوەتەوە
-
-# Setup Page strings
-
-
-# Runtime Page strings
-
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = دەرهێڵ بە
-
-# Debug Targets strings
-

@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Параметры злучэння
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Параметры злучэння
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Абнавіць
     .accesskey = А
-connection-proxy-autologin =
-    .label = Не запытваць аўтэнтыфікацыю, калі ёсць захаваны пароль
-    .accesskey = Н
-    .tooltip = Гэта налада аўтэнтыфікуе вас на проксі без запытаў, калі вы маеце захаваныя для іх уліковыя запісы. Пры няўдалай аўтэнтыфікацыі вы атрымаеце запыт.
 connection-proxy-autologin-checkbox =
     .label = Не запытваць аўтэнтыфікацыю, калі ёсць захаваны пароль
-    .accesskey = Н
     .tooltiptext = Гэта налада аўтэнтыфікуе вас на проксі без запытаў, калі вы маеце захаваныя для іх уліковыя запісы. Пры няўдалай аўтэнтыфікацыі вы атрымаеце запыт.
+    .accesskey = Н
 connection-proxy-socks4-remote-dns =
     .label = Праксіраваць DNS-запыты пры выкарыстанні SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Выкарыстоўваць прадвызначаны URL для працы DNS паверх HTTPS
 connection-dns-over-https-url-custom =
     .label = Адмысловы
-    .accesskey = с
     .tooltiptext = Увядзіце ўласны URL-адрас для развязвання DNS праз HTTPS
-connection-dns-over-https-custom-label = Адмысловы
+    .accesskey = с

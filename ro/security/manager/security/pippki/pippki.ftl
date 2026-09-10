@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Acum ești în modul FIPS. FIPS necesită 
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Resetează parola primară
     .style = min-width: 40em
+    .title = Resetează parola primară
 reset-password-button-label =
     .label = Resetează
 reset-primary-password-text = Dacă îți resetezi parola primară, toate parolele tale salvate de web și de e-mail, certificatele personale și cheile private vor fi uitate. Sigur vrei să îți resetezi parola primară?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Parola primară a fost resetată.
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Descărcare certificat
     .style = min-width: 46em
+    .title = Descărcare certificat
 download-cert-message = Vi se cere să acreditați o autoritate nouă de certificare (AC).
 download-cert-trust-ssl =
     .label = Acreditează această AC pentru identificarea site-urilor web.
@@ -52,8 +52,6 @@ download-cert-view-text = Examinează certificatul AC
 
 client-auth-window =
     .title = Cerere identificare utilizator
-client-auth-site-description = Acest site îți cere să te identifici cu un certificat:
-client-auth-choose-cert = Alege un certificat care să fie prezentat drept identificare:
 client-auth-send-no-certificate =
     .label = Nu trimite un certificat
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Te rugăm să te autentifici pe dispozitivul de securitate ({ $tokenName }). Cum o faci depinde de dispozitiv (de exemplu, cu un cititor de amprente sau introducerea unui cod cu o tastatură).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Te rugăm să te autentifici pe jetonul „{ $tokenName }”. Cum anume, depinde de jeton (de exemplu, folosind un cititor de amprente sau introducând un cod cu o tastatură).

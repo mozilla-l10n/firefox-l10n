@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Тренутно сте у FIPS режим
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Ресетуј главну лозинку
     .style = min-width: 40em
+    .title = Ресетуј главну лозинку
 reset-password-button-label =
     .label = Ресетуј
 reset-primary-password-text = Ако ресетујете главну лозинку, изгубиће се све сачуване лозинке са веб страница и е-поште, подаци образаца, лични сертификати и кључеви. Да ли и даље желите да ресетујете главну лозинку?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Ваша главна лозинк�
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Преузимање сертификата
     .style = min-width: 46em
+    .title = Преузимање сертификата
 download-cert-message = Тражено је да верујете новом сертификационом телу (СА).
 download-cert-trust-ssl =
     .label = Веруј овом сертификационом телу (CA) да идентификује веб сајтова.
@@ -52,8 +52,6 @@ download-cert-view-text = Испитај сертификат сертифика
 
 client-auth-window =
     .title = Захтев за идентификацију корисника
-client-auth-site-description = Овај веб сајт је тражио да се идентификујете помоћу сертификата:
-client-auth-choose-cert = Изаберите сертификат који ће служити за идентификацију:
 client-auth-send-no-certificate =
     .label = Не шаљи сертификат
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Идентификујте се на безбедносном уређају ({ $tokenName }). Начин на који то радите зависи од уређаја (на пример, коришћење читача отиска прста или унос кода помоћу тастатуре).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Потврдите аутентичност жетона “{ $tokenName }”. Од жетона зависи како ћете то да урадите (на пример, коришћењем скенера отиска прста или уносом кода помоћу тастатуре).

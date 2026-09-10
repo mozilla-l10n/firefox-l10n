@@ -21,11 +21,6 @@ tabbrowser-tab-tooltip-container = { $containerName }
 #   $tabGroupName (String): the user-defined name of the current tab group.
 #   $containerName (String): the name of the current container.
 tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -33,14 +28,6 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [one] Itxi fitxa
-           *[other] Itxi { $tabCount } fitxa
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [one] Itxi fitxa
            *[other] Itxi { $tabCount } fitxa
@@ -108,7 +95,6 @@ tabbrowser-unblock-tab-audio-aria-label =
 tabbrowser-confirm-close-tabs-title = Itxi { $tabCount } fitxa?
 tabbrowser-confirm-close-tabs-button = Itxi fitxak
 tabbrowser-ask-close-tabs-checkbox = Galdetu hainbat fitxa itxi aurretik
-tabbrowser-confirm-close-tabs-checkbox = Berretsi hainbat fitxa itxi aurretik
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -131,9 +117,6 @@ tabbrowser-confirm-close-tabs-with-key-button = Irten { -brand-short-name }(e)ti
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-ask-close-tabs-with-key-checkbox = Galdetu { $quitKey } lasterbidearekin irten aurretik
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = Berretsi irten aurretik { $quitKey } erabiltzean
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
@@ -432,8 +415,8 @@ tab-note-editor-button-save =
     .label = Gorde
     .accesskey = G
 tab-note-editor-button-delete =
-    .title = Ezabatu oharra
     .aria-label = Ezabatu oharra
+    .title = Ezabatu oharra
     .accesskey = E
 tab-note-preview-edit-icon =
     .alt = Editatu oharra

@@ -7,10 +7,6 @@
 
 neterror-page-title = Obuzibu mukutikka omuko
 
-## Error page actions
-
-neterror-try-again-button = Gezako Nate
-
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } terisobola kutikka muko guno olw'ensonga ezimu.
@@ -24,8 +20,6 @@ neterror-file-not-found-filename = Kebera erinnya ly'enteresi oba liri mu nnukut
 neterror-file-not-found-moved = Kebera olabe oba enteresi yagyibwawo, oba ya kyusibbwa erinnya oba nga lyasanguddwa.
 neterror-unknown-protocol = Oyinza okwetaaga okuteekamu pulogulamu za kompyuta endala okuggulawo endagiriro eno.
 neterror-redirect-loop = Obuzibu buno oluusi busobola okuleetebwa okulemesa oba okugaana okukiriza  kuki.
-neterror-unknown-socket-type-psm-installed = Kebera okakase ng'omuyungiro gwo gulina obukuumi Obwannannyini  obwateekebwako.
-neterror-unknown-socket-type-server-config = kino kiyinza okuba nga kiva ku ntegeka etari nnuŋŋamu okuva ku kompyuta enfuzi.
 neterror-not-cached-intro = Ekiwandiko ekisabbidwa tekiriwo mu terekero lya { -brand-short-name }.
 neterror-not-cached-sensitive = Okuwabulwa mu byokwerinda, { -brand-short-name } tedamu kusaba nate ebiwandiko ebirimu bwino akumibwa.
 neterror-not-cached-try-again = Koona ku Gezako Nate okusaba ekiwandiko okuva ku kyapa kweva.

@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = Jonga inkcazelo yesayithi
 
@@ -30,8 +25,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Vula iphanele yomyalezo wokugcina ngaphandle kwe-intanethi
 urlbar-password-notification-anchor =
     .tooltiptext = Vula iphanele yokulondoloza umyalezo wephasiwedi
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Lawula ukusetyenziswa kwezinto eziplagwayo
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Lawula ukwabelana ngekhamera yakho kunye/okanye imayikhrofowuni yakho nesayithi
 urlbar-persistent-storage-notification-anchor =
@@ -101,13 +94,11 @@ identity-active-blocked = I-{ -brand-short-name } ibhloke iinxalenye zeli phepha
 identity-passive-loaded = Iinxalenye zeli phepha azikhuselekangae (njengemifanekiso).
 identity-active-loaded = Ulucimile ukhuseleko kweli phepha.
 identity-weak-encryption = Eli phepha lisebenzisa ukukhowuda okubuthathaka.
-identity-insecure-login-forms = Iiogini ezifakwe kweli phepha zinokuba sengozini.
 identity-permissions-reload-hint = Kusenokufuneka uphinde ulifake eli phepha ukuze utshintsho lubonakale.
 identity-remove-cert-exception =
     .label = Susa Ezikhethekileyo
     .accesskey = S
 identity-description-insecure = Uqhagamshelo lwakho kule sayithi alukho bucala. Inkcazelo oyifakayo inokubonwa ngabanye (njengeephaswedi, imiyalezo, iikhredit khadi, njl. njl.).
-identity-description-insecure-login-forms = Inkcazelo yelogini oyifakayo kweli phepha ayikhuselekanga yaye ingalahleka.
 identity-description-weak-cipher-intro = Uqhagamshelo kule webhsayithi lusebenzisa ukukhowuda okubuthathaka yaye alukho bucala.
 identity-description-weak-cipher-risk = Abanye abantu banokujonga inkcazelo yakho okanye batshintshe indlela esebenza ngayo iwebhsayithi.
 identity-description-active-blocked2 = I-{ -brand-short-name } ibhloke iinxalenye zeli phepha ezingakhuselekanga.
@@ -116,12 +107,6 @@ identity-description-passive-loaded-insecure2 = Le webhsayithi ineziqulatho ezin
 identity-description-passive-loaded-mixed2 = Nangona i-{ -brand-short-name } ibhloke esinye isiqulatho, kusekho isiqulatho kwiphepha elingakhuselekanga (njengemifanekiso).
 identity-description-active-loaded = Le webhsayithi inesiqulatho esingakhuselekanga (njengezikripti) yaye uqhagamshelo lwakho kuyo alukho bucala.
 identity-description-active-loaded-insecure = Inkcazelo owabelana ngayo nale sayithi inokujongwa ngabanye (njengeephaswedi, imiyalezo, iikhredit khadi, njl. njl.).
-identity-disable-mixed-content-blocking =
-    .label = Kunye nokhuseleko lusayekiwe
-    .accesskey = K
-identity-enable-mixed-content-blocking =
-    .label = Vumela ukhuseleko
-    .accesskey = V
 identity-more-info-link-text =
     .label = Inkcazelo engaphezulu
 
@@ -152,8 +137,6 @@ urlbar-extension =
     .value = Izolulo
 urlbar-go-button2 =
     .title = Yiya kwidilesi kwibha yendawo
-urlbar-go-button =
-    .tooltiptext = Yiya kwidilesi kwibha yendawo
 urlbar-page-action-button =
     .tooltiptext = Okwenzeka kumakhasi
 
@@ -249,28 +232,10 @@ eme-notifications-drm-content-playing = Enye into evakalayo okanye ividiyo kule 
 ui-tour-info-panel-close =
     .tooltiptext = Vala
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = Vumela okuzivelelayo { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Vumela okuzivelelayo { $uriHost }
-    .accesskey = p
-
-##
-
-popups-infobar-dont-show-message =
-    .label = Musa ukubonisa lo myalezo xa kunqandiwe okuzivelelayo
-    .accesskey = D
-
 ##
 
 navbar-downloads =
     .label = Okukhutshelwayo
-navbar-overflow =
-    .tooltiptext = Izixhobo ezingakumbi…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

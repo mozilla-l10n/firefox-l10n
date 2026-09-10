@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Pas cap contenedor
-    .accesskey = P
 user-context-manage-containers =
     .label = Gerir los contenedors
     .accesskey = o

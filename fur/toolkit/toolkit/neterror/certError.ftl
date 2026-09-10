@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Il certificât nol è atendibil parcè che i
 cert-error-trust-signature-algorithm-disabled = Il certificât nol è atendibil parcè che al è stât firmât doprant un algoritmi di firme che al jere stât disabilitât, chest par vie che chel algoritmi nol è sigûr.
 cert-error-trust-expired-issuer = Il certificât nol è atendibil parcè che il certificât dal emitent al è scjadût.
 cert-error-trust-self-signed = Il certificât nol è atendbil parcè che al è auto firmât.
-cert-error-trust-symantec = I certificâts mandâts fûr di GeoTrust, RapidSSL, Symantec, Thawte, e VeriSign no son plui considerâts sigûrs parcè timp indaûr che chestis autoritâts di certificazion no son rivadis a lâ daûr des pratichis di sigurece.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } nol pense che { $hostname } al sedi afidabil parcè che nol è rivât a dimostrâ di sodisfâ i recuisîts di trasparence par certificâts publics.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Codiç di erôr: <a data-l10n-name="error-code-lin
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Si è verificât un erôr dilunc une conession a { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = I sîts web a dimostrin la lôr identitât par mieç di certificâts, che a son emetûts di autoritâts di certificazion. La plui part dai navigadôrs no si fide plui dai certificâts mandâts fûr di GeoTrust, RapidSSL, Symantec, Thawte, and VeriSign. { $hostname } al dopre un certificât che al rive di une di chestis autoritâts e duncje la identitât dal sît web no pues vignî comprovade.
-cert-error-symantec-distrust-admin = Tu puedis notificâ al aministradôr dal sît web chest probleme.
 cert-error-old-tls-version = Chest sît web al podarès no supuartâ il protocol TLS 1.2, che e je la version minime supuartade di { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,12 +62,10 @@ cert-error-details-hsts-label = Sigurece rigorose di traspuart HTTP: { $hasHSTS 
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Fissaç de clâf publiche HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Cjadene dai certificâts:
-open-in-new-window-for-csp-or-xfo-error = Vierç sît intun gnûf barcon
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Par parâ la tô sigurece, { $hostname } nol permetarà a { -brand-short-name } di visualizâ la pagjine se un altri sît le à incorporade. Par viodi cheste pagjine tu âs di vierzile intun gnûf barcon.
 fp-certerror-view-certificate-link = Viôt il certificât dal sît
-fp-certerror-return-to-previous-page-recommended-button = Torne indaûr (conseât)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -104,21 +97,21 @@ fp-certerror-self-signed-important-note = NOTE IMPUARTANTE: se tu stâs cirint d
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = I sîts a doprin certificâts dâts fûr di une autoritât di certificazion par dimostrâ la lôr identitât. { -brand-short-name } nol considere atendibil chest sît parcè che al somee che il certificât al sedi scjadût ai { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-expired-why-dangerous-body = I sîts a doprin certificâts dâts fûr di une autoritât di certificazion par dimostrâ la lôr identitât. { -brand-short-name } nol considere atendibil chest sît parcè che al somee che il certificât al sedi scjadût ai { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = I sîts a doprin certificâts dâts fûr di une autoritât di certificazion par dimostrâ la lôr identitât. { -brand-short-name } nol considere atendibil chest sît parcè che al somee che il certificât nol sarà valit fintremai { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-not-yet-valid-why-dangerous-body = I sîts a doprin certificâts dâts fûr di une autoritât di certificazion par dimostrâ la lôr identitât. { -brand-short-name } nol considere atendibil chest sît parcè che al somee che il certificât nol sarà valit fintremai { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = L’orloi dal to dispositîf al è metût su { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Se al è just, al è probabil che il probleme di sigurece al sedi dal sît stes. Se al è sbaliât, tu puedis modificâlu tes impostazions di sisteme dal dispositîf.
+fp-certerror-expired-what-can-you-do-body = L’orloi dal to dispositîf al è metût su { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Se al è just, al è probabil che il probleme di sigurece al sedi dal sît stes. Se al è sbaliât, tu puedis modificâlu tes impostazions di sisteme dal dispositîf.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Codiç di erôr: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -131,11 +124,11 @@ fp-learn-more-about-time-related-errors = Scuvierç di plui su la risoluzion dai
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } no si fide di chest sît parcè che al somee che il certificât dât al sedi valit dome des { DATETIME($date, timeStyle: "short") } dal { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } no si fide di chest sît parcè che al somee che il certificât dât al sedi valit dome des { DATETIME($date, timeStyle: "short") } dal { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = L’orloi dal to dispositîf al è metût su { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Se al è just, al è probabil che il probleme di sigurece al sedi dal sît stes. Se l'orloi al è sbaliât, tu puedis modificâlu tes impostazions di sisteme dal dispositîf.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = L’orloi dal to dispositîf al è metût su { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Se al è just, al è probabil che il probleme di sigurece al sedi dal sît stes. Se l'orloi al è sbaliât, tu puedis modificâlu tes impostazions di sisteme dal dispositîf.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
@@ -165,8 +158,6 @@ deniedPortAccess-title = Cheste direzion e je sometude a restrizions
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm... No rivìn a cjatâ chel sît.
 internet-connection-offline-title = Al somee che al sedi vignût fûr un probleme cu la conession a internet.
-dns-not-found-trr-only-title2 = Potenziâl risi pe sigurece cirint chest domini
-dns-not-found-native-fallback-title2 = Potenziâl risi pe sigurece tal cirî chest domini
 fileNotFound-title = File no cjatât
 fileAccessDenied-title = Al è stât dineât l'acès al file
 generic-title = Orpo.
@@ -191,7 +182,6 @@ unknownSocketType-title = Rispueste inspietade dal servidôr
 nssFailure2-title = Conession sigure falide
 csp-xfo-error-title = { -brand-short-name } nol rive a vierzi cheste pagjine
 corruptedContentErrorv2-title = Erôr: contignût comprometût
-corruptedContentError-title = Erôr di contignût comprometût
 sslv3Used-title = Impussibil conetisi in maniere sigure
 inadequateSecurityError-title = La conession no je sigure
 blockedByPolicy-title = Pagjine blocade
@@ -214,7 +204,6 @@ fp-certerror-hide-advanced-button = Plate avanzadis
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Continue su { $hostname } (pericolôs)
 fp-certerror-intro = { -brand-short-name } al à cjatât un potenziâl probleme di sigurece cun <strong>{ $hostname }</strong>. Un sogjet che al fâs fente di jessi il sît al podarès cirî di robâ informazions su cjartis di credit, passwords o e-mails.
 fp-certerror-expired-into = { -brand-short-name } al à cjatât un probleme di sigurece cun <strong>{ $hostname }</strong>. Il sît nol è configurât in maniere juste opûr l’orloi dal dispositîf al è metût suntune date/ore sbaliade.
 fp-certerror-transparency-intro = Cualchidun che al fâs fente di jessi <strong>{ $hostname }</strong> al podarès cirî di robâ detais come lis informazions su lis cjartis di credit, passwords o e-mails.

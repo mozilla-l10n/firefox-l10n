@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = പുതിയ ടാബു്
-    .accesskey = പ
 reload-tab =
     .label = ടാബു് വീണ്ടും ലഭ്യമാക്കുക
     .accesskey = R
@@ -109,10 +106,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = പുതിയ കൂട്ടം
     .accesskey = ക
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->

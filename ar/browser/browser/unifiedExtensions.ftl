@@ -33,9 +33,6 @@ unified-extensions-item-message-manage = أدِر الامتداد
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = { $extensionName } محظور. قد يكون استخدامه محفوفًا بالمخاطر.
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName } ينتهك سياسات Mozilla. قد يكون استخدامه محفوفًا بالمخاطر.
 
 ## Extension's context menu
 
@@ -54,8 +51,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = بعض الامتدادات غير مسموح بها
-unified-extensions-mb-quarantined-domain-message = لا يسمح إلا ببعض الامتدادات التي يراقبها { -vendor-short-name } على هذا الموقع لحماية بياناتك.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = بعض الامتدادات غير مسموح بها
@@ -69,13 +64,6 @@ unified-extensions-mb-blocklist-warning-single2 =
     .heading = { $extensionName } معطّل
     .message =
         هذه الامتداداة مقيدة ومعطّلة.
-        يمكنك تفعيلها من الإعدادات، ولكن قد ينطوي ذلك على مخاطرة.
-# Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } معطّل
-    .message =
-        هذه الامتدادة تنتهك سياسات Mozilla وعُطّلت.
         يمكنك تفعيلها من الإعدادات، ولكن قد ينطوي ذلك على مخاطرة.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.

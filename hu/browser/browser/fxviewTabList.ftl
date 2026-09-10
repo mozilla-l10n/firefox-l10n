@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxviewtabrow-open-menu-button =
-    .title = Menü megnyitása
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
@@ -24,10 +22,6 @@ fxviewtabrow-dismiss-tab-button =
     .title = A(z) { $tabTitle } eltüntetése
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Épp most
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-delete = Törlés
     .accesskey = T
 fxviewtabrow-forget-about-this-site = Webhely elfelejtése…
@@ -57,8 +51,6 @@ fxviewtabrow-send-to-device = Küldés eszközre
     .accesskey = K
 fxviewtabrow-send-to-mobile = Küldés mobilra
     .accesskey = m
-fxviewtabrow-send-tab = Lap küldése eszközre
-    .accesskey = k
 fxviewtabrow-pin-tab = Lap rögzítése
     .accesskey = r
 fxviewtabrow-unpin-tab = Lap feloldása
@@ -82,8 +74,5 @@ fxviewtabrow-send-to-mobile-connect-device = Csatlakoztasson egy eszközt a lapo
 fxviewtabrow-send-to-mobile-device-missing2 = Nem látja az eszközét?
 fxviewtabrow-send-to-mobile-not-verified = A fiók nincs ellenőrizve
 fxviewtabrow-send-to-mobile-verify-account = Fiók ellenőrzése
-
-## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
-
 fxviewtabrow-send-to-mobile-sign-in = Jelentkezzen be a lapok küldéséhez
 fxviewtabrow-send-to-mobile-turn-on-sync = Kapcsolja be a szinkronizálást a lapok küldéséhez

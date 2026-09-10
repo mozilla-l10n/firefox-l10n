@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = S'està sincronitzant…
 sync-disconnect-dialog-title2 = Voleu desconnectar?
 sync-disconnect-dialog-body = El { -brand-product-name } deixarà de sincronitzar-se amb el vostre compte, però les vostres dades de navegació d'aquest dispositiu no se suprimiran.
 sync-disconnect-dialog-button = Desconnecta
-fxa-signout-dialog2-title = Voleu tancar la sessió del { -fxaccount-brand-name }?
 fxa-signout-dialog-title2 = Voleu tancar la sessió del compte?
 fxa-signout-dialog-body = Les dades sincronitzades romandran en el vostre compte.
 fxa-signout-dialog2-button = Tanca la sessió
@@ -43,14 +42,6 @@ fxviewtabrow-send-to-mobile-not-verified = El compte no s'ha verificat
 fxviewtabrow-send-to-mobile-verify-account = Verifiqueu el compte
 fxa-menu-send-to-mobile-turn-on-sync = Activeu la sincronització per a enviar pestanyes
 fxa-menu-send-to-mobile-connect-device = Connecteu un dispositiu per a enviar pestanyes
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Envia la pestanya a un dispositiu
-           *[other] Envia { $tabCount } pestanyes a un dispositiu
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = S'estan sincronitzant els dispositius…

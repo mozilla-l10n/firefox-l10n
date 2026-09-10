@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Viôt la navigazion resinte sui barcons e sui dispositîfs
@@ -16,40 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Siere
-    .aria-label = Siere
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Juste cumò
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Ripie schede
-firefoxview-tabpickup-description = Vierç lis pagjinis di un altri dispositîf.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% completât
-firefoxview-tabpickup-step-signin-header = Passe cence fastidis di un dispositîf a chel altri
-firefoxview-tabpickup-step-signin-description = Par recuperâ achì lis schedis viertis sul telefon, prime jentre o cree un account.
-firefoxview-tabpickup-step-signin-primarybutton = Continue
 firefoxview-syncedtabs-signin-header-2 = Il to { -brand-product-name } su ducj i tiei dispositîfs
 firefoxview-syncedtabs-signin-description-2 = Par visualizâ lis schedis viertis sul telefon e su altris dispositîfs, jentre o cree un account. Cuntun account tu puedis ancje sincronizâ passwords, cronologjie e tant altri.
 firefoxview-syncedtabs-signin-primarybutton-2 = Jentre
-firefoxview-tabpickup-adddevice-header = Sincronize { -brand-product-name } sul to telefon o taulete
-firefoxview-tabpickup-adddevice-description = Discjame { -brand-product-name } par dispositîfs mobii e jentre di lì.
-firefoxview-tabpickup-adddevice-learn-how = Impare cemût
-firefoxview-tabpickup-adddevice-primarybutton = Oten { -brand-product-name } par dispositîfs mobii
 firefoxview-syncedtabs-adddevice-header-2 = Recupere lis tôs schedis di cualsisei dispositîf
 firefoxview-syncedtabs-adddevice-description-2 = Jentre su { -brand-product-name } dal to telefon o di un altri computer par visualizâ lis lôr schedis achì. Scuvierç cemût <a data-l10n-name="url">coneti altris dispositîfs</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prove { -brand-product-name } par dispositîfs mobii
-firefoxview-tabpickup-synctabs-header = Ative la sincronizazion des schedis
-firefoxview-tabpickup-synctabs-description = Permet a { -brand-short-name } di condividi lis schedis tra dispositîfs.
-firefoxview-tabpickup-synctabs-learn-how = Impare cemût
 firefoxview-tabpickup-synctabs-primarybutton = Sincronize lis schedis viertis
 firefoxview-syncedtabs-synctabs-header = Inzorne lis impostazions di sincronizazion
 firefoxview-syncedtabs-synctabs-description = Par viodi lis schedis di altris dispositîfs tu âs di ativâ la sincronizazion des schedis viertis.
 firefoxview-syncedtabs-loading-header = Sincronizazion in cors
 firefoxview-syncedtabs-loading-description = Une volte completade, lis schedis viertis in cualsisei altri dispositîf a vignaran visualizadis achì. Controle plui indevant.
 firefoxview-tabpickup-fxa-admin-disabled-header = La tô organizazion e à disativât la sincronizazion
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nol rive a sincronizâ lis schedis tra i dispositîfs parcè che il to aministradôr al à disabilitât la sincronizazion.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } nol rive a sincronizâ lis schedis tra i dispositîfs parcè che la tô organizazion e à disativât la sincronizazion.
 firefoxview-tabpickup-network-offline-header = Controle la tô conession a internet
 firefoxview-tabpickup-network-offline-description = Se tu stâs doprant un firewall o un proxy, controle che { -brand-short-name } al vedi i permès par acedi a internet.
@@ -66,37 +43,16 @@ firefoxview-tabpickup-password-locked-link = Plui informazions
 firefoxview-tabpickup-password-locked-primarybutton = Inserìs la password principâl
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Altris informazions</a>
 firefoxview-tabpickup-signed-out-header = Jentre par tornâ a conetiti
-firefoxview-tabpickup-signed-out-description = Par tornâ a conetiti e recuperâ lis tôs schedis, jentre tal to { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Par tornâ a conetiti e recuperâ lis tôs schedis, jentre sul to account.
 firefoxview-tabpickup-signed-out-primarybutton = Jentre
-firefoxview-tabpickup-syncing = Sentiti cuiet intant che a vegnin sincronizadis lis tôs schedis. Al bastarà un moment.
-firefoxview-mobile-promo-header = Recupere lis schedis viertis sul to telefon o taulete
-firefoxview-mobile-promo-description = Par visualizâ lis ultimis schedis viertis sul dispositîf mobil, jentre in { -brand-product-name } su iOS o Android.
-firefoxview-mobile-promo-primarybutton = Oten { -brand-product-name } par dispositîfs mobii
-firefoxview-mobile-confirmation-header = 🎉 Pront par partî!
-firefoxview-mobile-confirmation-description = Cumò tu puedis recuperâ lis tôs schedis di { -brand-product-name } viertis sul to telefon o taulete.
-firefoxview-closed-tabs-title = Sieradis di resint
-firefoxview-closed-tabs-description2 = Torne vierç lis pagjinis che tu âs sierât in chest barcon.
-firefoxview-closed-tabs-placeholder-header = Nissune schede sierade di resint
-firefoxview-closed-tabs-placeholder-body = Cuant che tu sieris une schede in chest barcon, tu puedis recuperâle di chi.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Scarte { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Ultime ative
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Vierç { $targetURI } intune gnove schede
-firefoxview-try-colorways-button = Prove gnovis tonalitâts
-firefoxview-change-colorway-button = Cambie tonalitât
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Ancjemò nuie ce mostrâ
-firefoxview-synced-tabs-placeholder-body = La prossime volte che tu vierzis une pagjine in { -brand-product-name } o suntun altri dispositîf, tu la cjatarâs achì come par magjie.
 firefoxview-collapse-button-show =
     .title = Mostre liste
 firefoxview-collapse-button-hide =

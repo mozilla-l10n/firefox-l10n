@@ -35,7 +35,6 @@ inactive-css-first-line-pseudo-element-not-supported = ไม่รองรั�
 inactive-css-first-letter-pseudo-element-not-supported = ไม่รองรับ <strong>{ $property }</strong> บนอิลิเมนต์แฝง ::first-letter
 inactive-css-placeholder-pseudo-element-not-supported = ไม่รองรับ <strong>{ $property }</strong> บนอิลิเมนต์แฝง ::placeholder
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากมีค่าคุณสมบัติ display เป็น <strong>{ $display }</strong>
-inactive-css-not-display-block-on-floated = ค่า <strong>display</strong> ได้ถูกเปลี่ยนโดยเอนจินเป็น <strong>block</strong> เนื่องจากมีอิลิเมนต์แบบ <strong>floated</strong>
 inactive-css-not-display-block-on-floated-2 = ค่า <strong>display</strong> ได้ถูกเปลี่ยนโดยเอนจินเป็น <strong>{ $display }</strong> เนื่องจากมีอิลิเมนต์แบบ <strong>floated</strong>
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> ไม่มีผลเนื่องจากไม่สามารถใช้กับรายการแบบ flex หรือแบบ grid ได้
 inactive-css-not-block = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากใช้ได้กับอิลิเมนต์ block-level เท่านั้น
@@ -56,16 +55,6 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 inactive-css-border-image = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้ เนื่องจากไม่สามารถใช้กับอิลิเมนต์ตารางภายในที่ตั้งค่า <strong>border-collapse</strong> เป็น <strong>collapse</strong> บนอิลิเมนต์ตารางแม่ได้
 inactive-css-resize = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากใช้ได้กับอิลิเมนต์ที่มีค่า overflow เป็นค่าที่ไม่ใช่ visible และอิลิเมนต์ที่ถูกแทนที่บางตัวเท่านั้น เช่น textareas
 inactive-css-ruby-element = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้ เนื่องจากเป็นอิลิเมนต์ ruby ขนาดของอิลิเมนต์นี้ถูกกำหนดโดยขนาดตัวอักษรของข้อความ ruby
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 inactive-css-highlight-pseudo-elements-not-supported = ไม่รองรับ <strong>{ $property }</strong> บนอิลิเมนต์แฝง highlight
 inactive-css-cue-pseudo-element-not-supported = ไม่รองรับ <strong>{ $property }</strong> บนอิลิเมนต์แฝง ::cue
 inactive-css-at-position-try-not-supported = ไม่รองรับ <strong>{ $property }</strong> ในกฎ <strong>@position-try</strong>

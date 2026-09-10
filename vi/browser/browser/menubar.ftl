@@ -261,8 +261,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Hồ sơ
 menu-profiles-manage-profiles =
     .label = Quản lý hồ sơ
 menu-profiles-new-profile =
@@ -286,9 +284,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Tiện ích mở rộng và chủ đề
     .accesskey = E
-menu-tools-addons-and-themes =
-    .label = Tiện ích mở rộng và chủ đề
-    .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = Đăng nhập
     .accesskey = g
@@ -345,8 +340,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Thông tin xử lý sự cố khác
     .accesskey = T
-menu-help-report-site-issue =
-    .label = Báo cáo vấn đề về trang…
 menu-help-share-ideas =
     .label = Chia sẻ ý tưởng và phản hồi…
     .accesskey = S

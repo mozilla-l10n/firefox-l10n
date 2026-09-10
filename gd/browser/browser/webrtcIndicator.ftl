@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } – Taisbeanair co-roinnidh
-webrtc-indicator-window =
-    .title = { -brand-short-name } – Taisbeanair co-roinnidh
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Tha thu a’ co-roinneadh a’ mhicreofoin agad. Dèan briogadh airson an co-roinneadh a stiùireadh.
 webrtc-screen-system-menu =
     .label = Tha thu a’ co-roinneadh uinneag no sgrìn. Dèan briogadh airson an co-roinneadh a stiùireadh.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Tha an camara 's am micreofon agad 'gan co-roinneadh. Dèan briogadh airson an co-roinneadh a stiùireadh.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Tha an camara agad ’ga cho-roinneadh. Dèan briogadh airson an co-roinneadh a stiùireadh.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Tha am micreofon agad 'ga cho-roinneadh. Dèan briogadh airson an co-roinneadh a stiùireadh.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Tha aplacaid 'ga cho-roinneadh. Dèan briogadh airson an co-roinneadh a stiùireadh.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Tha an sgrìn agad 'ga cho-roinneadh. Dèan briogadh airson an co-roinneadh a stiùireadh.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Tha uinneag 'ga cho-roinneadh. Dèan briogadh airson an co-roinneadh a stiùireadh.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Tha taba ’ga cho-roinneadh. Dèan briogadh airson an co-roinneadh a stiùireadh.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -183,7 +164,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = An doir thu cead
 
 webrtc-share-screen-warning = Na co-roinn sgrìnichean ach le làraichean sa bheil earbsa agad. Ma nì thu co-roinneadh air làrach a tha ri foill, dh’fhaoidte gun goid iad dàta prìobhaideach ort is tu ri brabhsadh orra.
 webrtc-share-browser-warning = Na co-roinn { -brand-short-name } ach le làraichean sa bheil earbsa agad. Ma nì thu co-roinneadh air làrach a tha ri foill, dh’fhaoidte gun goid iad dàta prìobhaideach ort is tu ri brabhsadh orra.
-webrtc-share-screen-learn-more = Barrachd fiosrachaidh
 webrtc-pick-window-or-screen = Tagh uinneag no sgrìn
 webrtc-share-entire-screen = An sgrìn air fad
 webrtc-share-pipe-wire-portal = Cleachd roghainnean an t-siostaim obrachaidh

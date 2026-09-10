@@ -41,7 +41,6 @@ security-site-data-no = Ye'le
 image-size-unknown = Ye' ootzimal
 saved-passwords-yes = Kanoj
 saved-passwords-no = Ye'le
-security-no-visits = Ye'le
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes

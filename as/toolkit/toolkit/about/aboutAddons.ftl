@@ -112,15 +112,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = সকলো এড-অন সুৰক্ষিত অৱস্থা দ্বাৰা অসামৰ্থবান
-extensions-warning-check-compatibility = এড-অন খাপ খোৱা নীৰিক্ষণ অসামৰ্থবান কৰা আছে। আপোনাৰ খুব সম্ভব খাপ নোখোৱা এড-অনসমূহ আছে
-extensions-warning-safe-mode2 =
-    .message = সকলো এড-অন সুৰক্ষিত অৱস্থা দ্বাৰা অসামৰ্থবান
 extensions-warning-check-compatibility2 =
     .message = এড-অন খাপ খোৱা নীৰিক্ষণ অসামৰ্থবান কৰা আছে। আপোনাৰ খুব সম্ভব খাপ নোখোৱা এড-অনসমূহ আছে
 extensions-warning-check-compatibility-button = সামৰ্থবান কৰক
     .title = এড-অন খাপ খোৱা নীৰিক্ষণ সামৰ্থবান কৰক
-extensions-warning-update-security = এড-অন আপডেইট সুৰক্ষা নীৰিক্ষণ অসামৰ্থবান কৰা আছে। আপুনি আপডেইটসমূহৰে আপোচ কৰিব লগিয়া হব পাৰে।
 extensions-warning-update-security2 =
     .message = এড-অন আপডেইট সুৰক্ষা নীৰিক্ষণ অসামৰ্থবান কৰা আছে। আপুনি আপডেইটসমূহৰে আপোচ কৰিব লগিয়া হব পাৰে।
 extensions-warning-update-security-button = সামৰ্থবান কৰক
@@ -191,24 +186,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } { -brand-short-name } { $version } ৰ লগত খাপ খাব নোৱাৰে
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } { -brand-short-name } { $version } ৰ লগত খাপ খাব নোৱাৰে
-details-notification-unsigned-and-disabled = { -brand-short-name }-ত ব্যৱহাৰ কৰিবলৈ { $name } সত্যাপন কৰিব পৰা নগ'ল আৰু নিষ্ক্ৰিয় কৰা হৈছে।
 details-notification-unsigned-and-disabled2 =
     .message = { -brand-short-name }-ত ব্যৱহাৰ কৰিবলৈ { $name } সত্যাপন কৰিব পৰা নগ'ল আৰু নিষ্ক্ৰিয় কৰা হৈছে।
-details-notification-unsigned-and-disabled-link = অধিক তথ্য
-details-notification-unsigned = { -brand-short-name }-ত ব্যৱহাৰ কৰিবলৈ { $name } সত্যাপন কৰিব পৰা নগ'ল। সাৱধানে আগবাঢ়ক।
 details-notification-unsigned2 =
     .message = { -brand-short-name }-ত ব্যৱহাৰ কৰিবলৈ { $name } সত্যাপন কৰিব পৰা নগ'ল। সাৱধানে আগবাঢ়ক।
-details-notification-unsigned-link = অধিক তথ্য
-details-notification-blocked = { $name } সুৰক্ষা অথবা স্থিৰতা বিষয়ৰ কাৰণে অসামৰ্থবান কৰা হৈছে।
-details-notification-blocked-link = অধিক তথ্য
-details-notification-softblocked = { $name } সুৰক্ষা অথবা স্থিৰতা বিষয় সৃষ্টি কৰাৰ কাৰণে জনাজাত
-details-notification-softblocked-link = অধিক তথ্য
-details-notification-gmp-pending = { $name } খন্তেক পাছতে ইনষ্টল কৰা হ'ব।
 details-notification-gmp-pending2 =
     .message = { $name } খন্তেক পাছতে ইনষ্টল কৰা হ'ব।
 

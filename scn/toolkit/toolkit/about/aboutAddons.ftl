@@ -12,12 +12,3 @@ detail-repository-value =
 ## Pending uninstall message bar
 
 pending-uninstall-undo-button = Sfai
-
-## Detail notifications
-## Variables:
-##   $name (string) - Name of the add-on.
-
-details-notification-unsigned-and-disabled-link = Cchiù nfurmazzioni
-details-notification-unsigned-link = Cchiù nfurmazzioni
-details-notification-blocked-link = Cchiù nfurmazzioni
-details-notification-softblocked-link = Cchiù nfurmazzioni

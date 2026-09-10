@@ -16,8 +16,6 @@ styleeditor-save-button = محفوظ کریو
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = سٹایل ایڈیٹر اوپشن
-styleeditor-editor-textbox =
-    .data-placeholder = CSS كریو یَت۪یتھ ٹایپ
 styleeditor-no-stylesheet = یٹھ صفحس چھُ نئ كہین تئ سٹایل شیٹ
 styleeditor-no-stylesheet-tip = تُہئ ما یژھیو<a data-l10n-name="append-new-stylesheet">نئئ سٹایل شیٹ جوڈیو</a>?
 styleeditor-find-again =

@@ -21,11 +21,6 @@ tabbrowser-tab-tooltip-container = { $containerName }
 #   $tabGroupName (String): the user-defined name of the current tab group.
 #   $containerName (String): the name of the current container.
 tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } — { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -33,10 +28,6 @@ tabbrowser-container-tab-title = { $title } — { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext = 關閉 { $tabCount } 個分頁
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label = 關閉 { $tabCount } 個分頁
 tab-splitview-splitter =
     .aria-label = 調整分割畫面分頁大小
 tab-devtools-splitter =
@@ -80,7 +71,6 @@ tabbrowser-unblock-tab-audio-aria-label =
 tabbrowser-confirm-close-tabs-title = 要關閉 { $tabCount } 個分頁嗎？
 tabbrowser-confirm-close-tabs-button = 關閉分頁
 tabbrowser-ask-close-tabs-checkbox = 關閉多個分頁前先問我
-tabbrowser-confirm-close-tabs-checkbox = 關閉多個分頁前跟我確認
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -103,9 +93,6 @@ tabbrowser-confirm-close-tabs-with-key-button = 離開 { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-ask-close-tabs-with-key-checkbox = 按 { $quitKey } 離開之前先問我
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = 按 { $quitKey } 離開之前跟我確認
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
@@ -398,8 +385,8 @@ tab-note-editor-button-save =
     .label = 儲存
     .accesskey = S
 tab-note-editor-button-delete =
-    .title = 刪除註記
     .aria-label = 刪除註記
+    .title = 刪除註記
     .accesskey = D
 tab-note-preview-edit-icon =
     .alt = 編輯註記

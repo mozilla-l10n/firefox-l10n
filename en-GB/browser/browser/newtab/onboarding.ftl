@@ -193,11 +193,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Pin { -brand-short-name } to taskbar and start menu
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Start with a browser backed by a non-profit. We defend your privacy while you zip around the web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -227,52 +222,10 @@ mr2022-onboarding-set-default-subtitle = Use a browser backed by a non-profit. W
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Our latest version is built around you, making it easier than ever to zip around the web. It’s packed with features we think you’ll adore.
 mr2022-onboarding-get-started-primary-button-label = Set up in seconds
-mr2022-onboarding-import-header = Lightning-fast setup
-mr2022-onboarding-import-subtitle = Set up { -brand-short-name } how you like it. Add your bookmarks, passwords, and more from your old browser.
 mr2022-onboarding-import-primary-button-label-no-attribution = Import from previous browser
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Choose the colour that inspires you
-mr2022-onboarding-colorway-subtitle = Independent voices can change culture.
-mr2022-onboarding-colorway-primary-button-label-continue = Set and continue
-mr2022-onboarding-existing-colorway-checkbox-label = Make { -firefox-home-brand-name } your colourful homepage
-mr2022-onboarding-colorway-label-default = Default
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Current { -brand-short-name } colours
-mr2022-onboarding-colorway-description-default = <b>Use my current { -brand-short-name } colours.</b>
-mr2022-onboarding-colorway-label-playmaker = Playmaker
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Playmaker (red)
-mr2022-onboarding-colorway-description-playmaker = <b>You are a Playmaker.</b> You create opportunities to win and help everyone around you elevate their game.
-mr2022-onboarding-colorway-label-expressionist = Expressionist
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Expressionist (yellow)
-mr2022-onboarding-colorway-description-expressionist = <b>You are an Expressionist.</b> You see the world differently and your creations stir the emotions of others.
-mr2022-onboarding-colorway-label-visionary = Visionary
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Visionary (green)
-mr2022-onboarding-colorway-description-visionary = <b>You are a Visionary.</b> You question the status quo and move others to imagine a better future.
-mr2022-onboarding-colorway-label-activist = Activist
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Activist (blue)
-mr2022-onboarding-colorway-description-activist = <b>You are an Activist.</b> You leave the world a better place than you found it and lead others to believe.
-mr2022-onboarding-colorway-label-dreamer = Dreamer
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Dreamer (purple)
-mr2022-onboarding-colorway-description-dreamer = <b>You are a Dreamer.</b> You believe that fortune favours the bold and inspire others to be brave.
-mr2022-onboarding-colorway-label-innovator = Innovator
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Innovator (orange)
-mr2022-onboarding-colorway-description-innovator = <b>You are an Innovator.</b> You see opportunities everywhere and make an impact on the lives of everyone around you.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Hop from laptop to phone and back again
-mr2022-onboarding-mobile-download-subtitle = Grab tabs from one device and pick up where you left off on another. Plus synchronise your bookmarks and passwords anywhere you use { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Scan the QR code to get { -brand-product-name } for mobile or <a data-l10n-name="download-label">send yourself a download link.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Scan the QR code to get { -brand-product-name } for mobile.
 
@@ -325,15 +278,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Light-skinned and dark-skinned hands high five
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = View of a sunset through a window with a fox and a house plant on a windowsill
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = A hand spray paints a colourful collage of a green eye, orange shoe, red basketball, purple headphones, blue heart, and yellow crown
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = A fox on the screen of a laptop computer waving. The laptop has a mouse plugged into it.
 onboarding-device-migration-title = Welcome back!
-onboarding-device-migration-subtitle = Sign in to your { -fxaccount-brand-name(capitalization: "sentence") } to bring your bookmarks, passwords, and history with you on your new device.
 onboarding-device-migration-subtitle2 = Sign in to your account to bring your bookmarks, passwords, and history with you on your new device.
 onboarding-device-migration-primary-button-label = Sign in
 
@@ -450,15 +400,12 @@ tab-groups-onboarding-feature-callout-title = Try tab groups for less clutter, m
 tab-groups-onboarding-feature-callout-subtitle = Get organised by dragging one tab on top of another to create your first group.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Find your tab groups in the List All Tabs menu at any time.
-tab-groups-onboarding-create-group-title-2 = Find your tab groups here at any time.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Find your groups by searching for them in the address bar.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = When you close a tab group, reopen it from the List All Tabs menu at any time.
-tab-groups-onboarding-saved-groups-title-2 = When you close a tab group, you can reopen it here at any time.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Find your closed groups by searching for them in the address bar.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Reopen your tab groups from the List All Tabs menu at any time.
-tab-groups-onboarding-session-restore-title = Reopen your tab groups here at any time.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

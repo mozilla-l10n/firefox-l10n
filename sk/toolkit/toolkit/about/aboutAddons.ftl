@@ -156,15 +156,10 @@ addon-sitepermission-host = Oprávnenia stránok pre { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Všetky doplnky boli zakázané núdzovým režimom.
-extensions-warning-check-compatibility = Kontrola kompatibility doplnkov je vypnutá. Môžete mať nekompatibilné doplnky.
-extensions-warning-safe-mode2 =
-    .message = Všetky doplnky boli zakázané núdzovým režimom.
 extensions-warning-check-compatibility2 =
     .message = Kontrola kompatibility doplnkov je vypnutá. Môžete mať nekompatibilné doplnky.
 extensions-warning-check-compatibility-button = Zapnúť
     .title = Povoliť kontrolu kompatibility doplnkov
-extensions-warning-update-security = Kontrola bezpečnosti aktualizácií doplnkov je vypnutá. Aktualizácie vás môžu ohroziť.
 extensions-warning-update-security2 =
     .message = Kontrola bezpečnosti aktualizácií doplnkov je vypnutá. Aktualizácie vás môžu ohroziť.
 extensions-warning-update-security-button = Zapnúť
@@ -240,10 +235,6 @@ shortcuts-duplicate = Duplicitná skratka
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = Skratka { $shortcut } sa používa na viacerých miestach. To môže spôsobiť jej neočakávané správanie.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = Skratka { $shortcut } sa používa na viacerých miestach. To môže spôsobiť jej neočakávané správanie.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -264,18 +255,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Rozšírenia a témy vzhľadu sú ako aplikácie pre váš prehliadač. S nimi môžete
-    chrániť svoje heslá, sťahovať videá, hľadať výhodné ponuky, blokovať reklamy,
-    meniť vzhľad prehliadača a omnoho viac. Tieto malé programy väčšinou vytvára
-    niekto iný ako my. Tu je výber <a data-l10n-name="learn-more-trigger">odporúčaných rozšírení</a>
-    pre { -brand-product-name }, ktoré majú jedinečnú bezpečnosť a funkcie.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    Niektoré z týchto odporúčaní sú prispôsobené. Sú založené na iných rozšíreniach, ktoré už
-    máte nainštalované, nastaveniach profilu a štatistikách používania.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -363,16 +342,9 @@ addon-detail-last-updated-label = Posledná aktualizácia
 addon-detail-homepage-label = Domovská stránka
 addon-detail-rating-label = Hodnotenie
 # Message for add-ons with a staged pending update.
-install-postponed-message = Toto rozšírenie bude aktualizované pri reštarte aplikácie { -brand-short-name }.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Toto rozšírenie bude aktualizované pri reštarte aplikácie { -brand-short-name }.
 install-postponed-button = Aktualizovať teraz
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Ohodnotené na { NUMBER($rating, maximumFractionDigits: 1) } z 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -391,9 +363,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = Doplnok <span data-l10n-name="addon-name">{ $addon }</span> bol odstránený.
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = Doplnok { $addon } bol odstránený.
 pending-uninstall-undo-button = Späť
@@ -410,11 +379,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Povolené v súkromných oknách
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Povolené v súkromných oknách
 addon-detail-private-browsing-help = Povolené rozšírenia majú prístup k vašim aktivitám na internete v súkromných oknách. <a data-l10n-name="learn-more">Ďalšie informácie</a>
 addon-detail-private-browsing-allow = Povoliť
@@ -441,17 +405,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } odporúča len rozšírenia, ktoré spĺňajú naše štandardy pre bezpečnosť a výkon.
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Oficiálne rozšírenie od autorov Firefoxu. Spĺňa bezpečnostné a výkonové štandardy.
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Toto rozšírenie bolo skontrolované a spĺňa naše štandardy bezpečnosti a výkonu
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -481,9 +434,6 @@ addon-permissions-heading = Oprávnenia
 addon-permissions-empty2 = Toto rozšírenie nevyžaduje žiadne oprávnenia.
 addon-permissions-required-label = Vyžadované:
 addon-permissions-optional-label = Voliteľné:
-addon-permissions-empty = Toto rozšírenie nevyžaduje žiadne oprávnenia
-addon-permissions-required = Nevyhnutné oprávnenia pre splnenie základných funkcií:
-addon-permissions-optional = Voliteľné oprávnenia pre splnenie prídavných funkcií:
 addon-permissions-learnmore = Ďalšie informácie o oprávneniach
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -524,25 +474,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = Doplnok { $name } nie je kompatibilný s { -brand-short-name(case: "ins") } verzie { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = Doplnok { $name } nie je kompatibilný s { -brand-short-name(case: "ins") } verzie { $version }.
-details-notification-incompatible-link = Ďalšie informácie
-details-notification-unsigned-and-disabled = Doplnok { $name } nemohol byť overený pre použitie v aplikácii { -brand-short-name } a bol preto zakázaný.
 details-notification-unsigned-and-disabled2 =
     .message = Doplnok { $name } nemohol byť overený pre použitie v aplikácii { -brand-short-name } a bol preto zakázaný.
-details-notification-unsigned-and-disabled-link = Ďalšie informácie
-details-notification-unsigned = Doplnok { $name } nemohol byť overený pre použitie v aplikácii { -brand-short-name }. Pokračujte opatrne.
 details-notification-unsigned2 =
     .message = Doplnok { $name } nemohol byť overený pre použitie v aplikácii { -brand-short-name }. Pokračujte opatrne.
 details-notification-hard-blocked-extension =
     .message = Toto rozšírenie je zablokované z dôvodu porušenia pravidiel Mozilly a bolo preto zakázané.
 details-notification-hard-blocked-other =
     .message = Tento doplnok je zablokovaný z dôvodu porušenia pravidiel Mozilly a bol preto zakázaný.
-details-notification-unsigned-link = Ďalšie informácie
-details-notification-blocked = Doplnok { $name } bol zablokovaný kvôli problémom so stabilitou alebo bezpečnosťou.
 details-notification-blocked-link2 = Zobraziť podrobnosti
 details-notification-soft-blocked-extension-disabled2 =
     .message = Toto rozšírenie je obmedzené a bolo zakázané. Môžete ho povoliť, ale môže to byť riskantné.
@@ -552,19 +493,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = Tento doplnok je obmedzený a bol zakázaný. Môžete ho povoliť, ale môže to byť riskantné.
 details-notification-soft-blocked-other-enabled2 =
     .message = Tento doplnok je obmedzený. Jeho používanie môže byť riskantné.
-details-notification-soft-blocked-extension-disabled =
-    .message = Toto rozšírenie je obmedzené z dôvodu porušovania pravidiel Mozilly a bolo preto zakázané. Môžete ho povoliť, ale môže to byť riskantné.
-details-notification-soft-blocked-extension-enabled =
-    .message = Toto rozšírenie porušuje pravidlá Mozilly. Jeho používanie môže byť riskantné.
-details-notification-soft-blocked-other-disabled =
-    .message = Tento doplnok je obmedzený z dôvodu porušovania pravidiel Mozilly a bol preto zakázaný. Môžete ho povoliť, ale môže to byť riskantné.
-details-notification-soft-blocked-other-enabled =
-    .message = Tento doplnok porušuje pravidlá Mozilly. Jeho používanie môže byť riskantné.
 details-notification-softblocked-link2 = Zobraziť podrobnosti
-details-notification-blocked-link = Ďalšie informácie
-details-notification-softblocked = Doplnok { $name } zapríčiňuje problémy so stabilitou alebo bezpečnosťou.
-details-notification-softblocked-link = Ďalšie informácie
-details-notification-gmp-pending = Doplnok { $name } bude čoskoro nainštalovaný.
 details-notification-gmp-pending2 =
     .message = Doplnok { $name } bude čoskoro nainštalovaný.
 
@@ -580,8 +509,6 @@ plugins-widevine-description = Tento zásuvný modul umožňuje prehrávanie ši
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Požadovaný zber údajov:
-addon-permissions-optional-data-collection = Voliteľný zber údajov:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Oprávnenia a údaje
 # This is a description for extension that use this AI model

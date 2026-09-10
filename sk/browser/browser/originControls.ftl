@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Rozšírenie nemôže čítať a meniť údaje
-origin-controls-quarantined =
-    .label = Rozšírenie nemá oprávnenie na čítanie a zmenu údajov
 origin-controls-quarantined-status =
     .label = Rozšírenie nie je povolené na stránkach s obmedzením
 origin-controls-quarantined-allow =

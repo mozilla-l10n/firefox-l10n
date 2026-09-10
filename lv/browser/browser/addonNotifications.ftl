@@ -35,19 +35,11 @@ site-permission-install-first-prompt-midi-header = Šī vietne pieprasa piekļuv
 site-permission-install-first-prompt-midi-message = Nevar galvot par šīs piekļuves drošumu. Turpiniet tikai tad, ja uzticaties šai vietnei.
 site-permission-install-first-prompt-serial-header = Šī vietne prasa piekļuvi seriālā porta ierīcēm. Piekļuvi ierīcēm var iespējot, instalējot paplašinājumu.
 site-permission-install-first-prompt-serial-message = Šīs piekļuves drošība netiek garantēta. Turpiniet tikai tad, ja uzticaties šai vietnei.
-xpinstall-disabled-locked = Sistēmas administrators ir izslēdzis programmatūras instalēšanu.
 xpinstall-disabled-by-policy = Jūsu organizācija ir izslēgusi programmatūras instalēšanu.
 xpinstall-disabled = Programmatūras instalēšana ir izslēgta. Spiediet Ieslēgt un mēģiniet vēlreiz.
 xpinstall-disabled-button =
     .label = Ieslēgt
     .accesskey = g
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = Sistēmas pārvaldītājs ir liedzis { $addonName } ({ $addonId }).
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Jūsu sistēmas administrators neļāva šai vietnei lūgt instalēt datorā programmatūru.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -72,9 +64,6 @@ webext-imported-addons = Pabeigt paplašinājumu uzstādīšanu, kas ievietoti {
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Vai noņemt { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Vai noņemt { $name } no { -brand-shorter-name }?
 addon-removal-button = Noņemt
 addon-removal-abuse-report-checkbox = Ziņot par šo paplašinājumu { -vendor-short-name }
 # "it" refers to the local AI model that is paired to the AI feature
@@ -141,7 +130,5 @@ addon-local-install-no-addon-name-error-file-access = Papildinājumu nevarēja i
 addon-install-error-incompatible = { $addonName } nevarēja uzinstalēt, jo tas nav saderīgs ar { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = { $addonName } pārkāpj Mozilla pamatnostādnes, un to { -brand-short-name } nevar instalēt.
 addon-install-error-soft-blocked2 = { $addonName } ir ierobežots un to nevar instalēt ierīcē { -brand-short-name }.
-addon-install-error-blocklisted = { $addonName } nevar uzinstalēt, jo tas rada lielu drošības un stabilitātes risku.
-addon-install-error-soft-blocked = { $addonName } pārkāpj Mozilla pamatnostādnes, un to { -brand-short-name } nevar instalēt.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Kā galalietotājs jūs nevarat instalēt { $addonName }, to var instalēt tikai organizācija, kas izmanto uzņēmuma politikas.

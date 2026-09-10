@@ -30,14 +30,13 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Vaikeotsingumootorit on muudetud</strong>. Otsingumootor { $oldEngine } ei ole enam { -brand-short-name }is vaikeotsingumootorina saadaval. Sinu uueks vaikeotsingumootoriks on { $newEngine }. Teisele vaikeotsingumootorile vahetamiseks ava sätted. <label data-l10n-name="remove-search-engine-article">Rohkem teavet</label>
 removed-search-engine-message2 = <strong>Vaikeotsingumootorit on muudetud</strong>. Otsingumootor { $oldEngine } ei ole enam { -brand-short-name }is vaikeotsingumootorina saadaval. Sinu uueks vaikeotsingumootoriks on { $newEngine }. Teisele vaikeotsingumootorile vahetamiseks ava sätted.
 remove-search-engine-button = Sobib
 
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = Otsingumootori lisamine
     .style = min-width: 32em;
+    .title = Otsingumootori lisamine
 add-engine-button = Lisa kohandatud otsingumootor
 add-engine-name = Otsingumootori nimi

@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = Zadržite { -brand-short-name } na dohvat r
 default-browser-prompt-message-pin-msix = Držite { -brand-short-name } na dohvat ruke — neka bude vaš zadani pretraživač i zakačite ga na traku zadataka i početni meni.
 default-browser-prompt-message-pin-mac = Zadržite { -brand-short-name } na dohvat ruke — neka bude vaš zadani pretraživač i čuvajte ga u Dock-u.
 default-browser-prompt-button-primary-set = Postavi kao primarni pretraživač
-default-browser-prompt-button-primary-pin = Postavite primarni pretraživač
 default-browser-prompt-title-alt = Učiniti vaš { -brand-short-name } zadanim pretraživačem?
 default-browser-prompt-message-alt = Ostvarite brzinu, sigurnost i privatnost svaki put kada pretražujete.
 default-browser-prompt-button-primary-alt = Postavi kao zadani pretraživač

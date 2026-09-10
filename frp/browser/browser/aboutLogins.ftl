@@ -17,13 +17,6 @@ about-logins-menu-menuitem-help = Èda
 
 ## Login List
 
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } sèssion
-       *[other] { $count } sèssions
-    }
 login-list-sort-label-text = Triar pèr:
 login-list-name-option = Nom (A-Z)
 login-list-name-reverse-option = Nom (Z-A)
@@ -40,6 +33,5 @@ login-item-password-reveal-checkbox =
     .aria-label = Montrar la cllâ
 login-item-copy-password-button-text = Copiar
 login-item-copied-password-button-text = Copiâ!
-login-item-save-changes-button = Sârvar les modificacions
 login-item-save-new-button = Sârvar
 login-item-cancel-button = Anular

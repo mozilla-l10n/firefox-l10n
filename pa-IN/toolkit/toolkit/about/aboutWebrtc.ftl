@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = ਬੰਦ ਕੀਤੇ 
 about-webrtc-aec-logging-msg-label = AEC ਲਾਗ ਰੱਖਣਾ
 about-webrtc-aec-logging-off-state-label = AEC ਲਾਗ ਰੱਖਣਾ ਸ਼ੁਰੂ
 about-webrtc-aec-logging-on-state-label = AEC ਲਾਗ ਰੱਖਣਾ ਰੋੋਕ
-about-webrtc-aec-logging-on-state-msg = AEC ਲਾਗ ਰੱਖਣਾ ਸਰਗਰਮ ਹੈ (ਕਾਲਰ ਨਾਲ ਕੁਝ ਮਿੰਟਾਂ ਲਈ ਗੱਲ ਕਰੋ ਅਤੇ ਤਦ ਪ੍ਰਾਪਤ ਕਰਨ ਨੂੰ ਰੋਕੋ)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC ਲਾਗ ਰੱਖਣਾ ਸਰਗਰਮ ਹੈ (ਕਾਲਰ ਨਾਲ ਕੁਝ ਮਿੰਟਾਂ ਲਈ ਗੱਲ ਕਰੋ ਅਤੇ ਤਦ ਪ੍ਰਾਪਤ ਕਰਨ ਨੂੰ ਰੋਕੋ)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -92,18 +91,10 @@ about-webrtc-nominated = ਨਾਮਜ਼ਦ
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = ਚੁਣੇ
 about-webrtc-save-page-label = ਸਫ਼ੇ ਨੂੰ ਸੰਭਾਲੋ
-about-webrtc-debug-mode-msg-label = ਡੀਬੱਗ ਮੋਡ
-about-webrtc-debug-mode-off-state-label = ਡੀਬੱਗ ਮੋਡ ਨੂੰ ਸ਼ੁਰੂ ਕਰੋ
-about-webrtc-debug-mode-on-state-label = ਡੀਬੱਗ ਮੋਡ ਨੂੰ ਰੋਕੋ
-about-webrtc-stats-heading = ਸ਼ੈਸ਼ਨ ਅੰਕੜੇ
 about-webrtc-enable-logging-label = WebRTC ਲਾਗ ਪ੍ਰੀ-ਸੈੱਟ ਸਮਰੱਥ ਕਰੋ
 about-webrtc-stats-clear = ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
 about-webrtc-log-heading = ਕਨੈਕਸ਼ਨ ਲਾਗ
 about-webrtc-log-clear = ਲਾਗ ਮਿਟਾਓ
-about-webrtc-log-show-msg = ਲਾਗ ਵੇਖਾਓ
-    .title = ਇਹ ਭਾਗ ਨੂੰ ਫੈਲਾਉਣ ਲਈ ਕਲਿੱਕ ਕਰੋ
-about-webrtc-log-hide-msg = ਲਾਗ ਛੁਪਾਓ
-    .title = ਇਸ ਭਾਗ ਨੂੰ ਸਮੇਟਣ ਲਈ ਕਲਿੱਕ ਕਰੋ
 about-webrtc-log-section-show-msg = ਲਾਗ ਵੇਖਾਓ
     .title = ਇਹ ਭਾਗ ਨੂੰ ਫੈਲਾਉਣ ਲਈ ਕਲਿੱਕ ਕਰੋ
 about-webrtc-log-section-hide-msg = ਲਾਗ ਛੁਪਾਓ
@@ -136,19 +127,11 @@ about-webrtc-remote-candidate = ਰਿਮੋਟ ਉਮੀਦਵਾਰ
 about-webrtc-raw-candidates-heading = ਸਾਰੇ ਮੁ਼ਢਲੇ ਉਮੀਦਵਾਰ
 about-webrtc-raw-local-candidate = ਮੁੱਢਲੇ ਸਥਾਨਕ ਉਮੀਦਵਾਰ
 about-webrtc-raw-remote-candidate = ਮੁੱਢਲੇ ਰਿਮੋਟ ਉਮੀਦਵਾਰ
-about-webrtc-raw-cand-show-msg = ਮੁੱਢਲੇ ਉਮੀਦਵਾਰ ਦਿਖਾਓ
-    .title = ਇਹ ਭਾਗ ਨੂੰ ਫੈਲਾਉਣ ਲਈ ਕਲਿੱਕ ਕਰੋ
-about-webrtc-raw-cand-hide-msg = ਮੁੱਢਲੇ ਉਮੀਦਵਾਰ ਲੁਕਾਓ
-    .title = ਇਸ ਭਾਗ ਨੂੰ ਸਮੇਟਣ ਲਈ ਕਲਿੱਕ ਕਰੋ
 about-webrtc-raw-cand-section-show-msg = ਮੁੱਢਲੇ ਉਮੀਦਵਾਰ ਦਿਖਾਓ
     .title = ਇਹ ਭਾਗ ਨੂੰ ਫੈਲਾਉਣ ਲਈ ਕਲਿੱਕ ਕਰੋ
 about-webrtc-raw-cand-section-hide-msg = ਮੁੱਢਲੇ ਉਮੀਦਵਾਰ ਲੁਕਾਓ
     .title = ਇਸ ਭਾਗ ਨੂੰ ਸਮੇਟਣ ਲਈ ਕਲਿੱਕ ਕਰੋ
 about-webrtc-priority = ਤਰਜੀਹ
-about-webrtc-fold-show-msg = ਵੇਰਵਿਆਂ ਨੂੰ ਵੇਖਾਓ
-    .title = ਇਹ ਭਾਗ ਨੂੰ ਫੈਲਾਉਣ ਲਈ ਕਲਿੱਕ ਕਰੋ
-about-webrtc-fold-hide-msg = ਵੇਰਵਿਆਂ ਨੂੰ ਲੁਕਾਓ
-    .title = ਇਸ ਭਾਗ ਨੂੰ ਸਮੇਟਣ ਲਈ ਕਲਿੱਕ ਕਰੋ
 about-webrtc-fold-default-show-msg = ਵੇਰਵਿਆਂ ਨੂੰ ਵੇਖਾਓ
     .title = ਇਹ ਭਾਗ ਨੂੰ ਫੈਲਾਉਣ ਲਈ ਕਲਿੱਕ ਕਰੋ
 about-webrtc-fold-default-hide-msg = ਵੇਰਵਿਆਂ ਨੂੰ ਲੁਕਾਓ
@@ -183,10 +166,6 @@ about-webrtc-configuration-element-not-provided = ਨਾ ਦਿੱਤੇ
 
 ##
 
-about-webrtc-save-page-msg = ਸਫ਼ੇ ਨੂੰ ਸੰਭਾਲਿਆ ਗਿਆ: { $path }
-about-webrtc-debug-mode-off-state-msg = ਟਰੇਸ ਲਾਗ ਨੂੰ ਲੱਭਿਆ ਜਾ ਸਕਦਾ ਹੈ: { $path }
-about-webrtc-debug-mode-on-state-msg = ਡੀਬੱਗ ਮੋਡ ਸਰਗਰਮ ਹੈ, ਟਰੇਸ ਲਾਗ ਹੈ: { $path }
-about-webrtc-aec-logging-off-state-msg = ਕੈਪਚਰ ਕੀਤੀਆਂ ਲਾਗ ਫਾਈਲਾਂ ਇਸ ਵਿੱਚ ਹਨ: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Yeni Sekme
-newtab-settings-button =
-    .title = Yeni Sekme sayfanızı özelleştirin
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Bu sayfayı özelleştir
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = Özelleştir
 newtab-customize-panel-label =
     .label = Özelleştir
-newtab-personalize-settings-icon-label =
-    .aria-label = Ayarlar
-    .title = Yeni sekmeyi kişiselleştir
 newtab-settings-dialog-label =
     .aria-label = Ayarlar
-newtab-personalize-icon-label =
-    .aria-label = Yeni sekmeyi kişiselleştir
-    .title = Yeni sekmeyi kişiselleştir
-newtab-personalize-dialog-label =
-    .aria-label = Kişiselleştir
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
@@ -528,7 +518,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Arama motoru ekle
 newtab-topsites-add-shortcut-header = Yeni kısayol
-newtab-topsites-edit-topsites-header = Sık kullanılan siteyi düzenle
 newtab-topsites-edit-shortcut-header = Kısayolu düzenle
 newtab-topsites-add-shortcut-label = Kısayol ekle
 newtab-topsites-add-shortcut-title =
@@ -598,20 +587,12 @@ newtab-topsites-hover-card-dismiss =
 newtab-menu-section-tooltip =
     .aria-label = Menüyü aç
     .title = Menüyü aç
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Kaldır
-    .title = Kaldır
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = { $title } sağ tıklama menüsünü aç
     .title = Menüyü aç
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Bu siteyi düzenle
-    .title = Bu siteyi düzenle
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -623,11 +604,7 @@ newtab-menu-dismiss = Kapat
 newtab-menu-pin = Sabitle
 newtab-menu-unpin = Sabitlemeyi kaldır
 newtab-menu-delete-history = Geçmişten sil
-newtab-menu-save-to-pocket = { -pocket-brand-name }’a kaydet
-newtab-menu-delete-pocket = { -pocket-brand-name }’tan sil
-newtab-menu-archive-pocket = { -pocket-brand-name }’ta arşivle
 newtab-menu-show-privacy-info = Sponsorlarımız ve gizliliğiniz
-newtab-menu-about-fakespot = { -fakespot-brand-name } hakkında
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Raporla
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -638,23 +615,12 @@ newtab-menu-section-block = Engelle
 newtab-menu-section-unfollow-topic = Takibi bırak
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Daha fazla bilgi al
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = Konuyu takip etmeyi bırak
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = Sponsorlu içerikleri yönet
 newtab-menu-our-sponsors-and-your-privacy = Sponsorlarımız ve gizliliğiniz
 newtab-menu-report-this-ad = Bu reklamı rapor et
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Tamam
-newtab-privacy-modal-button-manage = Sponsorlu içerik ayarlarını yönet
-newtab-privacy-modal-header = Gizliliğiniz bizim için önemli.
-newtab-privacy-modal-paragraph-2 = İlginizi çekebilecek yazıların yanı sıra seçkin sponsorlarımızdan gelen bazı içerikleri de gösteriyoruz. Gezinti verileriniz <strong>asla bilgisayarınızdaki { -brand-product-name } kurulumunun dışına çıkmıyor</strong>: Hangi sitelere girdiğinizi ne biz görüyoruz ne de sponsorlarımız.
-newtab-privacy-modal-link = Yeni sekmede gizliliğinizi nasıl koruduğumuzu öğrenin
 
 ##
 
@@ -710,31 +676,12 @@ newtab-label-sponsored-fixed = Sponsorlu
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Bölümü kaldır
-newtab-section-menu-collapse-section = Bölümü daralt
-newtab-section-menu-expand-section = Bölümü genişlet
-newtab-section-menu-manage-section = Bölümü yönet
-newtab-section-menu-manage-webext = Uzantıyı yönet
-newtab-section-menu-add-topsite = Sık kullanılan site ekle
-newtab-section-menu-add-search-engine = Arama motoru ekle
-newtab-section-menu-move-up = Yukarı taşı
-newtab-section-menu-move-down = Aşağı taşı
 newtab-section-menu-privacy-notice = Gizlilik bildirimi
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Bölümü daralt
-newtab-section-expand-section-label =
-    .aria-label = Bölümü genişlet
 
 ## Section Headers.
 
 newtab-section-header-topsites = Sık Kullanılan Siteler
 newtab-section-header-recent-activity = Son etkinlikler
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } öneriyor
 newtab-section-header-stories = Merak uyandıran makaleler
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = Bugün sizin için seçtiklerimiz
@@ -742,10 +689,6 @@ newtab-section-header-todays-picks = Bugün sizin için seçtiklerimiz
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Gezinmeye başlayın. Son zamanlarda baktığınız veya yer imlerinize eklediğiniz bazı güzel makaleleri, videoları ve diğer sayfaları burada göstereceğiz.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Hepsini bitirdiniz. Yeni { $provider } yazıları için yine gelin. Beklemek istemiyor musunuz? İlginç yazılara ulaşmak için popüler konulardan birini seçebilirsiniz.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = Hepsini bitirdiniz. Yeni yazılar için daha sonra yine gelin. Beklemek istemiyor musunuz? İlginç yazılara ulaşmak için popüler konulardan birini seçebilirsiniz.
 
@@ -779,39 +722,6 @@ newtab-carousel-pause =
 newtab-carousel-play =
     .aria-label = Otomatik oynatmayı sürdür
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Popüler konular:
-newtab-pocket-new-topics-title = Daha fazla içeriğe ne dersiniz? { -pocket-brand-name }’taki popüler konulara göz atın
-newtab-pocket-more-recommendations = Daha fazla öneri
-newtab-pocket-learn-more = Daha fazla bilgi al
-newtab-pocket-cta-button = { -pocket-brand-name }’ı edinin
-newtab-pocket-cta-text = Sevdiğiniz yazıları { -pocket-brand-name }’a kaydedin, aklınızı okumaya değer şeylerle doldurun.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name }, { -brand-product-name } ailesinin bir parçasıdır
-newtab-pocket-save = Kaydet
-newtab-pocket-saved = Kaydedildi
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = Bunun gibi daha fazla
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = Bana göre değil
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = Teşekkürler. Geri bildiriminiz akışınızı geliştirmemize yardımcı olacak.
-newtab-toast-dismiss-button =
-    .aria-label = Kapat
-    .title = Kapat
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = Web’deki en iyi içerikleri keşfedin
-newtab-pocket-onboarding-cta = { -pocket-brand-name }, çeşitli yayınları tarayarak en bilgilendirici, ilham verici ve güvenilir içerikleri doğrudan { -brand-product-name } tarayıcınıza getiriyor.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -820,8 +730,6 @@ newtab-error-fallback-refresh-link = Yeniden denemek için sayfayı tazeleyin.
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Kısayollar
-newtab-custom-shortcuts-subtitle = Kaydettiğiniz veya ziyaret ettiğiniz siteler
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Kaydettiğiniz veya ziyaret ettiğiniz siteler
@@ -842,16 +750,6 @@ newtab-custom-row-selector2 =
             [one] { $num } satır
            *[other] { $num } satır
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } satır
-       *[other] { $num } satır
-    }
-newtab-custom-sponsored-sites = Sponsorlu kısayollar
-newtab-custom-pocket-title = { -pocket-brand-name } önerileri
-newtab-custom-pocket-subtitle = { -brand-product-name } ailesinin bir parçası olan { -pocket-brand-name }’ın seçtiği harika içerikler
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = { -brand-product-name } ailesinin seçtiği harika içerikler
@@ -863,10 +761,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = Etkinliğinize göre kişiselleştirilmiş haberler
 newtab-custom-stories-personalized-checkbox-label = Etkinliğinize göre kişiselleştirilmiş haberler
-newtab-custom-pocket-sponsored = Sponsorlu haberler
-newtab-custom-pocket-show-recent-saves = Son kaydedilenleri göster
-newtab-custom-recent-title = Son etkinlikler
-newtab-custom-recent-subtitle = Son kullanılan siteler ve içeriklerden bir seçki
 newtab-custom-weather-toggle =
     .description = Bugünkü hava durumu tahmini
     .label = Hava durumu
@@ -898,7 +792,6 @@ newtab-widget-manage-widget-button =
 newtab-custom-close-menu-button =
     .aria-label = Menüyü kapat
     .title = Kapat
-newtab-custom-close-button = Kapat
 newtab-custom-settings = Diğer ayarları yönet
 
 ## Customization Menu
@@ -947,7 +840,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Bu resim, izin verilen { $file_size } MB boyut sınırını aşıyor. Lütfen daha küçük bir dosya yüklemeyi deneyin.
 newtab-wallpaper-error-upload-file-type = Dosyanızı yükleyemedik. Lütfen bir resim dosyasıyla yeniden deneyin.
-newtab-wallpaper-error-file-type = Dosyanızı yükleyemedik. Lütfen farklı bir dosya türüyle tekrar deneyin.
 newtab-wallpaper-light-red-panda = Kızıl panda
 newtab-wallpaper-light-mountain = Beyaz dağ
 newtab-wallpaper-light-sky = Mor ve pembe bulutlu gökyüzü
@@ -1091,10 +983,6 @@ newtab-wallpaper-celestial-river = Nehrin uydu görüntüsü
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = { $provider } tahminlerine bak
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponsorlu
 newtab-weather-menu-change-location = Konumu değiştir
 newtab-weather-change-location-search-input-placeholder =
@@ -1121,7 +1009,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenhayt
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Fahrenhayta geç
 newtab-weather-menu-change-temperature-units-celsius = Celsius’a geç
-newtab-weather-menu-hide-weather = Yeni sekmede hava durumunu gizle
 newtab-weather-menu-learn-more = Daha fazla bilgi al
 newtab-weather-menu-detect-my-location = Konumumu tespit et
 # This message is shown if user is working offline
@@ -1242,7 +1129,6 @@ newtab-section-unblock-topic =
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = Şimdi değil
 newtab-section-confirm-block-topic-p1 = Bu konuyu engellemek istediğinizden emin misiniz?
 newtab-section-confirm-block-topic-p2 = Engellenen konular artık akışınızda görünmeyecektir.
 # Variables:

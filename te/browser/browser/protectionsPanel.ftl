@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-protections-panel-sendreportview-error = నివేదికను పంపించడంలో ఏదో పొరపాటు దొర్లింది. దయచేసి మళ్ళీ ప్రయత్నించండి.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -21,11 +20,6 @@ protections-panel-etp-more-info =
     .aria-label = మెరుగైన ట్రాకింగ్ సంరక్షణ గురించి మరింత సమాచారం
 protections-panel-etp-on-header = ఈ సైటుకి మెరుగైన ట్రాకింగ్ సంరక్షణ చేతనంగా ఉంది
 protections-panel-etp-off-header = ఈ సైటుకి మెరుగైన ట్రాకింగ్ సంరక్షణ చేతనంగా లేదు
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = సైటు పనిచేయట్లేదా?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = సైటు పనిచేయట్లేదా?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -54,38 +48,10 @@ protections-panel-not-found-label = ఇవేమీ కనబడలేదు
 
 protections-panel-settings-label = సంరక్షణ అమరికలు
 protections-panel-protectionsdashboard-label = సంరక్షణల డాష్‌బోర్డ్
-
-## In the Site Not Working? view, we suggest turning off protections if
-## the user is experiencing issues with any of a variety of functionality.
-
-protections-panel-site-not-working-view-issue-list-forms = ఫారాలు
-protections-panel-site-not-working-view-issue-list-payments = చెల్లింపులు
-protections-panel-site-not-working-view-issue-list-comments = వ్యాఖ్యలు
-protections-panel-site-not-working-view-issue-list-videos = వీడియోలు
-protections-panel-site-not-working-view-send-report = నివేదికను పంపించు
-
-##
-
 protections-panel-description-shim-allowed-learn-more = ఇంకా తెలుసుకోండి
 protections-panel-content-blocking-manage-settings =
     .label = సంరక్షణ అమరికలను నిర్వహించుకోండి
     .accesskey = M
-protections-panel-content-blocking-breakage-report-view =
-    .title = పనిచేయని సైటు నివేదన
-protections-panel-content-blocking-breakage-report-view-collection-url = URL
-protections-panel-content-blocking-breakage-report-view-collection-url-label =
-    .aria-label = URL
-protections-panel-content-blocking-breakage-report-view-collection-comments = ఐచ్ఛికం: సమస్యను వివరించండి
-protections-panel-content-blocking-breakage-report-view-collection-comments-label =
-    .aria-label = ఐచ్ఛికం: సమస్యను వివరించండి
-protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = రద్దుచేయి
-protections-panel-content-blocking-breakage-report-view-send-report =
-    .label = నివేదికను పంపించు
-
-# Cookie Banner Handling
-
-protections-panel-cookie-banner-view-cancel = రద్దుచేయి
 protections-panel-cookie-banner-view-cancel-label =
     .label = రద్దుచేయి
 protections-panel-report-broken-site =

@@ -35,33 +35,13 @@ genai-options-hide-shortcut =
 
 genai-onboarding-primary = ادامه
 genai-onboarding-secondary = بستن
-genai-onboarding-claude-learn = درباره Claude بیشتر بدانید
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = درباره ChatGPT بیشتر بدانید
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = درباره Copilot بیشتر بدانید
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = درباره Gemini بیشتر بدانید
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
-genai-onboarding-huggingchat-learn = درباره HuggingChat بیشتر بدانید
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = درباره Le Chat بیشتر بدانید
-genai-onboarding-select-header = برای مشاهده پیشنهادات، متن را انتخاب کنید
-genai-onboarding-select-primary = گفتگو را آغاز کنید
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = تولید متن و کد
-genai-onboarding-claude-analyze = تحلیل اسناد و تصاویر
-genai-onboarding-chatgpt-generate = تولید متن، تصویر، و کد
-genai-onboarding-gemini-generate = تولید متن، تصویر، و کد
-genai-onboarding-gemini-price = گزینه‌های رایگان و پولی؛ حساب مورد نیاز است
-genai-onboarding-huggingchat-generate = تولید متن و کد
-genai-onboarding-huggingchat-switch = جابجایی بین مجموعه‌ای متنوع از مدل‌های آزاد
-genai-onboarding-lechat-generate = تولید متن و کد

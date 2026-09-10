@@ -31,8 +31,6 @@ appmenuitem-extensions-and-themes =
     .label = Extensións e temas
 appmenuitem-extensions =
     .label = Extensións
-appmenuitem-addons-and-themes =
-    .label = Complementos e temas
 appmenuitem-print =
     .label = Imprimir…
 appmenuitem-find-in-page =
@@ -101,7 +99,6 @@ appmenu-remote-tabs-unverified = Necesita comprobar a súa conta.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar agora
 appmenuitem-fxa-sign-in = Iniciar sesión en { -brand-product-name }
 appmenuitem-fxa-manage-account = Xestionar conta
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Conta
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -117,15 +114,6 @@ appmenuitem-save-page =
     .label = Gardar páxina como…
 appmenuitem-fxa-sync-off-title = A sincronización está desactivada
 appmenuitem-fxa-sync-off-description = Protexe e accede aos teus marcadores, contrasinais e moito máis en calquera lugar.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Novidades
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Notificar sobre as novas características
-    .accesskey = N
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -235,8 +223,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Máis información para solucionar problemas
     .accesskey = p
-appmenu-help-report-site-issue =
-    .label = Informar dunha incidencia no sitio…
 appmenu-help-share-ideas =
     .label = Compartir ideas e comentarios…
     .accesskey = s
@@ -282,9 +268,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Oculte o seu correo electrónico e teléfono reais
 appmenuitem-services-relay-description = Inicia o panel de máscaras de correo electrónico
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description = Protexa a súa actividade en liña
 appmenu-services-header = Os meus servizos
-appmenu-other-protection-header = Proba outras ferramentas de protección de { -vendor-short-name }:
 
 ## Profiles panel
 

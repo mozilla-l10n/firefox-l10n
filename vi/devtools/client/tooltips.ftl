@@ -31,7 +31,6 @@ inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</st
 inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> không được hỗ trợ trên ::first-letter pseudo-elements.
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> không được hỗ trợ trên ::placeholder pseudo-elements.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> không ảnh hưởng đến yếu tố này vì nó có hiển thị của <strong>{ $display }</strong>.
-inactive-css-not-display-block-on-floated = Giá trị <strong>display</strong> đã được thay đổi bởi máy thành <strong>block</strong> vì phần tử là <strong>floated</strong>.
 inactive-css-not-block-flex-grid-container = <strong>{ $property }</strong> không có tác dụng đối với phần tử này vì thuộc tính chỉ áp dụng cho các phần tử dạng block, flex hoặc grid container.
 inactive-css-property-is-impossible-to-override-in-visited = Nó không thể ghi đè <strong>{ $property }</strong> do hạn chế <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> không có tác dụng đối với phần tử này vì nó không phải là phần tử được định vị.
@@ -43,16 +42,6 @@ inactive-css-not-table-cell = <strong>{ $property }</strong> không có tác d�
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> không ảnh hưởng đến phần tử này vì nó không cuộn.
 inactive-css-border-image = <strong>{ $property }</strong> không ảnh hưởng đến phần tử này vì nó không thể được áp dụng cho phần tử bảng nội bộ khi <strong>border-collapse</strong> được đặt thành <strong>collapse</strong> trên bảng phần tử mẹ.
 inactive-css-ruby-element = <strong>{ $property }</strong> không ảnh hưởng đến phần tử này vì nó là phần tử ruby. Kích thước của nó được xác định bởi kích thước phông chữ của văn bản ruby.
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> không được hỗ trợ trên pseudo-elements được tô sáng.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> không được hỗ trợ trên ::cue pseudo-elements.
 inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> không được hỗ trợ trong rule <strong>@position-try</strong>.

@@ -35,9 +35,6 @@ pdfjs-document-properties-close-button = TòɁw
 
 ## Tooltips and alt text for side panel toolbar buttons
 
-pdfjs-attachments-button =
-    .title = Mb-&lòɁ yêtz
-pdfjs-thumbs-button-label = Thumbnails
 pdfjs-findbar-button =
     .title = GòzăɁl lèɁn yêtz
 

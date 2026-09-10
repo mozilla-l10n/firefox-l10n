@@ -2,39 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Neldu lowe internet siñaal "Hoto rewindo" so a yiɗaa ñukkindeede
-do-not-track-learn-more = Ɓeydu humpito
-do-not-track-option-always =
-    .label = Sahaa kala
 pane-general-title = Kuuɓal
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = Jaɓɓorgo
 pane-search-title2 = Yiylo
     .title = Yiylo
 pane-privacy-title3 = Suturo & Kisal
     .title = Suturo & Kisal
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = Yiylo
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = Suturo & Kisal
-pane-privacy-title = Suturo & Kisal
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label2 = Wallitorde { -brand-short-name }
     .title = Wallitorde { -brand-short-name }
 addons-button-label2 = Jokke & Kettule
     .title = Jokke & Kettule
-help-button-label = Wallitorde { -brand-short-name }
-addons-button-label = Jokke & Kettule
 focus-search =
     .key = f
 close-button =
@@ -73,22 +54,13 @@ search-results-help-link = Aɗa sokli ballal? Yillo <a data-l10n-name="url">{ -b
 
 ## General Section
 
-startup-header = Kurmital
 always-check-default =
     .label = Ƴeewto sahaa kala so { -brand-short-name } ko wanngorde maa woowaande
     .accesskey = t
-is-default = { -brand-short-name } ko wanngoraade maa woowaande oo sahaa
-is-not-default = { -brand-short-name } wonaa wanngoraade maa woowaande
-set-as-my-default-browser =
-    .label = Waɗ ɗum Woowaande…
-    .accesskey = W
-startup-restore-warn-on-quit =
-    .label = Reentin am tuma uddol wanngorde ndee
 disable-extension =
     .label = Daaƴ Jokkel
 tabs-group-header2 =
     .label = Tabbe
-tabs-group-header = Tabbe
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab yaaɓat hakkunde tabbe e deggondiral kuutoragol ɓennungol
     .accesskey = T
@@ -101,13 +73,7 @@ warn-on-open-many-tabs =
 show-tabs-in-taskbar =
     .label = Hollir jiytinde ɗee e palal golle Windows
     .accesskey = g
-browser-containers-enabled =
-    .label = Hurmin Tabbe Mooftirɗe
-    .accesskey = n
 browser-containers-learn-more = Ɓeydu humpito
-browser-containers-settings =
-    .label = Teelte…
-    .accesskey = l
 containers-disable-alert-title = Uddu Tabbe Mooftirɗe Kala?
 startup-group =
     .label = Kurmital
@@ -143,13 +109,6 @@ containers-remove-cancel-button = Hoto momtu ngal Baɗirgal
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Ɗemngal e Mbaydi
-default-font = Fontere woowaande:
-    .accesskey = F
-default-font-size = Ɓetol:
-    .accesskey = Ɓ
-advanced-fonts =
-    .label = Ceeɓtore…
-    .accesskey = C
 # Variables:
 #   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
@@ -167,12 +126,6 @@ confirm-browser-language-change-description = Fokkit { -brand-short-name } ngam 
 confirm-browser-language-change-button = Teeŋtin pokkitaa
 browser-language-install-error =
     .message = { -brand-short-name } waawaa hesɗitinde ɗemɗe maa jooni. Ƴeewto so a ceŋiiɗo e Enternet walla ennditaa.
-translate-web-pages =
-    .label = Fir loowdi geese
-    .accesskey = F
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = Fulii ko <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Paltooje…
     .accesskey = a
@@ -187,23 +140,6 @@ download-save-files-header =
     .label = Danndu piille to
 download-save-where-3 =
     .aria-label = Danndu piille to
-download-header = Gaawte
-download-save-where = Danndu piille to
-    .accesskey = n
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Suɓo…
-           *[other] Yiylo…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] o
-           *[other] y
-        }
-download-always-ask-where =
-    .label = Kala sahaa naamno mi ɗo piille ndanndetee
-    .accesskey = K
 applications-header = Jaaɓnirɗe
 applications-description = Suɓo no { -brand-short-name } waɗdata e piille ɗe ngaawtoto-ɗaa e geese walla jaaɓnirɗe ɗe kuutorto-ɗaa tuma banngagol maa.
 applications-filter =
@@ -244,10 +180,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending }{ $type }
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Huutoro { $plugin-name } (nder { -brand-short-name })
 applications-open-inapp =
     .label = Uddit e { -brand-short-name }
 
@@ -255,8 +187,6 @@ applications-open-inapp =
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -276,38 +206,18 @@ applications-use-os-default-label =
 
 drm-group =
     .label = Loowdi Toppitagol Jojjanɗe Ngaandiwe (DRM)
-drm-content-header = Loowdi Toppitagol Jojjanɗe Ngaandiwe (DRM)
 play-drm-content =
     .label = Tar loowdi curdaandi DRM
     .accesskey = T
 play-drm-content-learn-more = Ɓeydu humpito
-update-application-title = Kesɗitine { -brand-short-name }:
-update-application-description = Hesɗitin { -brand-short-name } ngam jaawgol golle dowrowol, jamɗugol e kisal.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Yamre { $version } <a data-l10n-name="learn-more">Hol ko hesɗi</a>
 update-history-2 =
     .label = Hollu Daartol Kesɗitine
     .accesskey = e
-update-history =
-    .label = Hollu Daartol Kesɗitine
-    .accesskey = e
-update-application-allow-description = Yamir { -brand-short-name } to
-update-application-auto =
-    .label = Aafde kesɗitinee jaajol (ina wasiyaa)
-    .accesskey = A
-update-application-check-choose =
-    .label = Yuurnito kesɗitine, kono woppu am mi suɓoo aafat ɗe
-    .accesskey = Y
-update-application-manual =
-    .label = Hoto yuurnito kesɗitine (wasiyaaka)
-    .accesskey = u
 update-application-warning-cross-user-setting-2 =
     .message = Ngol teeltol maa jammine e konte Windows kala kam e keftinirɗe { -brand-short-name }  kuutortooɗe ndee aadannde { -brand-short-name }.
-update-application-warning-cross-user-setting = Ngol teeltol maa jammine e konte Windows kala kam e keftinirɗe { -brand-short-name }  kuutortooɗe ndee aadannde { -brand-short-name }.
-update-application-use-service =
-    .label = Huutoro carwol cakkitol ngam aafde kesɗitine
-    .accesskey = c
 update-in-progress-message = Aɗa yiɗiɗ { -brand-short-name } jokka e ɗee kesɗitine?
 update-in-progress-ok-button = &Woppu
 # Continue is the cancel button so pressing escape or using a platform standard
@@ -316,11 +226,6 @@ update-in-progress-cancel-button = &Jokku
 
 ## General Section - Performance
 
-performance-title = Jaawgol golle
-performance-use-recommended-settings-checkbox =
-    .label = Huutoro teelte jaawgol golle basiyaaɗe ɗee
-    .accesskey = H
-performance-use-recommended-settings-desc = Ɗee teelte ina njahdi e kaɓirɗe kam e dognirgal ordinateer maa.
 performance-settings-learn-more = Jokku taro
 performance-allow-hw-accel =
     .label = Huutoro moylinol masiŋeeri so ena woodi
@@ -338,7 +243,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = Peeragol
 browsing-use-autoscroll =
     .label = Huutoro ŋaylogol jaajol
     .accesskey = a
@@ -354,25 +258,14 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Yiylo binndi so mi fuɗɗiima tappude
     .accesskey = n
-browsing-picture-in-picture-learn-more = Ɓeydu humpito
 browsing-cfr-recommendations =
     .label = Wasiyo jokke so aɗa wanngoo
     .accesskey = y
 browsing-cfr-features =
     .label = Wasiyo fannuuji so aɗa wanngoo
     .accesskey = f
-browsing-cfr-recommendations-learn-more = Jokku taro
 browsing-group =
     .label = Peeragol
-
-## General Section - Proxy
-
-network-settings-title = Teelte geese
-network-proxy-connection-description = Teelto hol no { -brand-short-name } seŋortoo e enternet oo.
-network-proxy-connection-learn-more = Ɓeydu humpito
-network-proxy-connection-settings =
-    .label = Teelte…
-    .accesskey = e
 
 ## Home Section
 
@@ -419,8 +312,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = Njiilaw Geese
-home-prefs-recommended-by-header =
-    .label = Waggini ɗum ko { $provider }
 
 ##
 
@@ -433,14 +324,6 @@ home-prefs-highlights-options-bookmarks =
     .label = Maantore
 home-prefs-highlights-option-most-recent-download =
     .label = Cakkitiiɗe awteede
-home-prefs-highlights-option-saved-to-pocket =
-    .label = Kelle kisnaaɗe e { -pocket-brand-name }
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = Taƴitine
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -452,29 +335,11 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = Palal NJiilaw
-search-bar-hidden =
-    .label = Huutoro palal ñiiɓirɗe ngal ngam yiylaade e feeraade
-search-bar-shown =
-    .label = Ɓeydu palal njiilaw e palal kuutorɗe
-search-engine-default-header = Yiylorde Woowaande
-search-suggestions-header = Yiylo wasiyaaji
-search-suggestions-option =
-    .label = Hokku wasiyaaji njiilaw
-    .accesskey = w
 search-show-suggestions-url-bar-option =
     .label = Hollo basiye njiilaw e njaltudi palal ñiiɓirɗe ngal
     .accesskey = l
 search-suggestions-cant-show-2 =
     .message = Basiye njiilaw kolliroytaake e njaltudi palal nokkuure sabu ko a teeltiiɗo { -brand-short-name } yoo waas siiftorde aslol.
-# This string describes what the user will observe when the system
-# prioritizes search suggestions over browsing history in the results
-# that extend down from the address bar. In the original English string,
-# "ahead" refers to location (appearing most proximate to), not time
-# (appearing before).
-search-show-suggestions-above-history-option =
-    .label = Hollu baggine njiilaw ko adii aslol banngogol e njaltudi palal ñiiɓirde
-search-suggestions-cant-show = Basiye njiilaw kolliroytaake e njaltudi palal nokkuure sabu ko a teeltiiɗo { -brand-short-name } yoo waas siiftorde aslol.
 search-one-click-desc = Suɓo jiylorɗe goɗɗe gonɗe les palal ñiiɓirɗe ngal e palal yiylorde so a fuɗɗiima naatnude helmere yiylorde.
 search-choose-engine-column =
     .label = Yiylorde
@@ -499,18 +364,6 @@ search-engine-group =
 search-default-engine =
     .aria-label = Yiylorde Woowaande
 
-## Containers Section
-
-containers-header = Tabbe Mooftirɗe
-containers-add-button =
-    .label = Ɓeydu Mooftiree Hesere
-    .accesskey = Ɓ
-containers-new-tab-check =
-    .label = Suɓo mooftirde ngam tabbere hesere kala
-    .accesskey = S
-containers-remove-button =
-    .label = Momtu
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -527,8 +380,6 @@ sync-mobile-promo = Aawto Firefox mo <img data-l10n-name="android-icon"/> <a dat
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = Waylu natal heftinirde
 sync-profile-picture-with-alt =
     .alt = Waylu natal heftinirde
     .tooltiptext = Waylu natal heftinirde
@@ -553,9 +404,6 @@ sync-signedin-login-failure = Tiiɗno seŋo ngam naattude { $email }
 
 ##
 
-sync-resend-verification =
-    .label = Neldit Ƴeewtagol
-    .accesskey = d
 sync-remove-account =
     .label = Momtu Konte
     .accesskey = R
@@ -568,13 +416,8 @@ sync-sign-in =
 sync-currently-syncing-bookmarks = Maantore
 sync-currently-syncing-history = Aslol
 sync-currently-syncing-tabs = Uddit tabbe
-sync-currently-syncing-logins-passwords = Ceŋorɗe e pinle
 sync-currently-syncing-addresses = Ñiiɓirɗe
-sync-currently-syncing-creditcards = Karte banke
 sync-currently-syncing-addons = Ɓeyditte
-sync-change-options =
-    .label = Waylu…
-    .accesskey = W
 
 ## The "Choose what to sync" dialog.
 
@@ -588,18 +431,10 @@ sync-engine-tabs =
     .label = Uddit tabbe
     .tooltiptext = Doggol ko udditii e masiŋaaji maa jahdinaaɗi fof
     .accesskey = N
-sync-engine-logins-passwords =
-    .label = Ceŋorɗe e pinle
-    .tooltiptext = Innde kuutoro e pinle ndannduɗaa
-    .accesskey = C
 sync-engine-addresses =
     .label = Ñiiɓirɗe
     .tooltiptext = Xiiɓirde maa posto dannduɗaa (ordinateer tan)
     .accesskey = e
-sync-engine-creditcards =
-    .label = Karte banke
-    .tooltiptext = Inɗe, tonngooɗe kam e buntugol laje (ordinateer tan)
-    .accesskey = K
 sync-engine-addons =
     .label = Ɓeyditte
     .tooltiptext = Timmitte kam e ciŋkooje wonande ordinateer
@@ -631,29 +466,9 @@ sync-connect-another-device = Seŋ kaɓirgol goɗngol
 sync-connect-another-device-2 =
     .label = Seŋ kaɓirgol goɗngol
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = Ƴeewtagol Neldaama
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = Jokkol ƴeewtagol neldaama to { $email }.
-sync-verification-not-sent-title = Horiima Neldu Ƴeewtagol
-sync-verification-not-sent-body = Min koriima neldude iimeel ƴeewtagol e oo sahaa, tiiɗno eto kadi so ɓooyii.
-
 ## Privacy Section
 
 privacy-header = Suturo Wanngorde
-
-## Privacy Section - Logins and Passwords
-
-# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = Ceŋorɗe & Pinle
-    .searchkeywords = { -lockwise-brand-short-name }
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = Laaɓndo mbele a hisnat baccooje e pinle lowe
-    .accesskey = r
 
 ## Privacy Panel Settings
 
@@ -661,9 +476,6 @@ forms-exceptions =
     .label = Paltooje…
     .accesskey = a
 forms-breach-alerts-learn-more-link = Ɓeydu humpito
-forms-saved-logins =
-    .label = Ceŋorɗe Danndaaɗe…
-    .accesskey = D
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -678,32 +490,12 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
-history-header = Aslol
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } maa:
-    .accesskey = m
-history-remember-option-all =
-    .label = Siftor aslol
-history-remember-option-never =
-    .label = Hoto siftor aslol hay sahaa
-history-remember-option-custom =
-    .label = Huutoro teelte peŋtore e aslol
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } siiftoroyat banngogol maa, gaawtogol maa, formere kam e aslol njiilaw maa.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } maa huutoro teelte banngagol suturo ɗee tee teskotaako hay aslol gootol tuma nde mbanngoto-ɗaa e nder Geese.
-history-remember-description = { -brand-short-name } siiftoroyat banngogol maa, gaawtogol maa, formere kam e aslol njiilaw maa.
-history-dontremember-description = { -brand-short-name } maa huutoro teelte banngagol suturo ɗee tee teskotaako hay aslol gootol tuma nde mbanngoto-ɗaa e nder Geese.
 history-private-browsing-permanent =
     .label = Huutoro peeragol suturo sahaa kala
     .accesskey = o
@@ -729,41 +521,15 @@ history-mode-radio-group =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Kuukiije kam e Keɓe Lowre
 sitedata-total-size-calculating = Nana hiisoo keɓe lowre kam e ɓetol moggon…
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = A mooftii kuukiije, lowre kañum moggel kuutortoo jooni ko { $value } { $unit } boowal mbeɗu nguu.
 sitedata-learn-more = Jokku taro
-sitedata-delete-on-close =
-    .label = Momtu kuukiiji e keɓe lowre ndee so { -brand-short-name } uddiima
-    .accesskey = c
-sitedata-allow-cookies-option =
-    .label = Jaɓ kuukiiji e loowdi lowre ndee
-    .accesskey = J
-sitedata-disallow-cookies-option =
-    .label = Faddo kuukiiji e loowdi lowre ndee
-    .accesskey = F
-# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
-# The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = Sifaa paddaaɗo
-    .accesskey = S
 sitedata-option-block-cross-site-trackers =
     .label = Rewindotooɓe hakkunde lowe
-sitedata-clear =
-    .label = Momtu Keɓe…
-    .accesskey = l
-sitedata-settings =
-    .label = Yuɓɓin keɓe…
-    .accesskey = M
 cookies-site-data-group =
     .label = Kuukiije kam e Keɓe Lowre
 
 ## Search Section
 
-addressbar-header = Palal Ñiiɓirɗe
-addressbar-suggest = So aɗa huutoroo palal ñiiɓirɗe, wasiyo
 addressbar-locbar-history-option =
     .label = Aslol peeragol
     .accesskey = P
@@ -773,48 +539,16 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Tabbe udditiiɗe
     .accesskey = T
-addressbar-suggestions-settings = Waylu cuɓe wonande cakkitte yiylorde
 
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Ɓeydu humpito
 
-##
-
-content-blocking-tracking-protection-change-block-list = Waylo doggol padde
-
 ## Privacy Section - Permissions
 
-permissions-header = Jamirooje
-permissions-location = Nokkuure
-permissions-location-settings =
-    .label = Teelte…
-    .accesskey = t
-permissions-camera = Kameraa
-permissions-camera-settings =
-    .label = Teelte…
-    .accesskey = t
-permissions-microphone = Mikkoroo
-permissions-microphone-settings =
-    .label = Teelte…
-    .accesskey = t
-permissions-notification = Tintine
-permissions-notification-settings =
-    .label = Teelte…
-    .accesskey = t
-permissions-notification-link = Ɓeydu humpito
 permissions-notification-pause =
     .label = Dartin tintine haa { -brand-short-name } hurmitii
     .accesskey = n
-permissions-block-popups =
-    .label = Falo kenorɗe cuppitte
-    .accesskey = B
-permissions-addon-install-warning =
-    .label = Jeertin-maa so lowe etiima aafde ɓeyditte
-    .accesskey = J
-permissions-addon-exceptions =
-    .label = Paltooje…
-    .accesskey = P
 permissions-location2 =
     .label = Nokkuure
 permissions-camera2 =
@@ -826,19 +560,6 @@ permissions-notification2 =
 
 ## Privacy Section - Data Collection
 
-collection-header = { -brand-short-name } Roɓindo e Kuutoragol Keɓe
-collection-description = Ha min ndarii ngam addande on cuɓe tawi kadi min ƴettata tan ko ko min ngaddanta on e ko min ƴellittanta on { -brand-short-name } Ha min naamndo yamiroore sahaa kala ko adii keɓgol kabaruuji maa keeriiɗi.
-collection-privacy-notice = Tintinol Suturo
-collection-health-report =
-    .label = Yamir { -brand-short-name } yo neldu keɓe karallaagal e gollondiral to { -vendor-short-name }
-    .accesskey = r
-collection-health-report-link = Jokku Taro
-collection-studies =
-    .label = Yamir { -brand-short-name } aafgol kam e ɗowgol jaŋdeeji
-collection-studies-link = Yiy jaŋdeeji { -brand-short-name }
-# This message is displayed above disabled data sharing options in developer builds
-# or builds with no Telemetry support available.
-collection-health-report-disabled = Ciimti keɓe ko daaƴaaɗi wonande kaa ngonka mahngo
 data-collection-studies-link =
     .label = Yiy jaŋdeeji { -brand-short-name }
 
@@ -848,7 +569,6 @@ data-collection-studies-link =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Kisal
-security-browsing-protection = Ndeenka Loowdi Puuntoori e Topateeri Mbonnoori
 security-enable-safe-browsing =
     .label = Falo loowi mbonndi e puuntoori
     .accesskey = F
@@ -862,20 +582,9 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = Seedamfaaji
-certs-enable-ocsp =
-    .label = Ɗaɓɓitere jaaborɗe carworɗe OCSP ena teeŋtina moƴƴugol seedamfaaje
-    .accesskey = Ɗ
-certs-view =
-    .label = Yiy Seedamfaaji…
-    .accesskey = C
-certs-devices =
-    .label = kaɓirɗi Kisal…
-    .accesskey = k
 certs-devices-enable-fips = Daaƴtu FIPS
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Biro
 downloads-folder-name = Gaawte
-choose-download-folder-title = Suɓo Runngere Gaawte:

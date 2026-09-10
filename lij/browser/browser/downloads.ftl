@@ -31,8 +31,6 @@ downloads-cmd-cancel-panel =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = Mostra cartella descaregamenti
 downloads-cmd-retry =
     .tooltiptext = Preuva torna
 downloads-cmd-retry-panel =

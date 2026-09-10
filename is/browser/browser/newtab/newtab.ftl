@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Nýr flipi
-newtab-settings-button =
-    .title = Sérsníða nýju flipasíðuna
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Sérsníða þessa síðu
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = Sérsníða
 newtab-customize-panel-label =
     .label = Sérsníða
-newtab-personalize-settings-icon-label =
-    .aria-label = Stillingar
-    .title = Sérsníða nýjan flipa
 newtab-settings-dialog-label =
     .aria-label = Stillingar
-newtab-personalize-icon-label =
-    .aria-label = Sérsníða nýjan flipa
-    .title = Sérsníða nýjan flipa
-newtab-personalize-dialog-label =
-    .aria-label = Sérsníða
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 
@@ -113,7 +103,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Bæta við leitarvél
 newtab-topsites-add-shortcut-header = Nýr flýtilykill
-newtab-topsites-edit-topsites-header = Breyta toppsíðu
 newtab-topsites-edit-shortcut-header = Breyta flýtilykli
 newtab-topsites-add-shortcut-label = Bæta við flýtileið
 newtab-topsites-add-shortcut-title =
@@ -163,20 +152,12 @@ topsite-label-pinned =
 newtab-menu-section-tooltip =
     .aria-label = Opna valmynd
     .title = Opna valmynd
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Fjarlægja
-    .title = Fjarlægja
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Opna samhengisvalmynd fyrir { $title }
     .title = Opna valmynd
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Breyta þessari síðu
-    .title = Breyta þessari síðu
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -187,11 +168,7 @@ newtab-menu-dismiss = Hafna
 newtab-menu-pin = Festa
 newtab-menu-unpin = Leysa
 newtab-menu-delete-history = Eyða úr ferli
-newtab-menu-save-to-pocket = Vista í { -pocket-brand-name }
-newtab-menu-delete-pocket = Eyða úr { -pocket-brand-name }
-newtab-menu-archive-pocket = Safna í { -pocket-brand-name }
 newtab-menu-show-privacy-info = Styrktaraðilar okkar og friðhelgi þín
-newtab-menu-about-fakespot = Um { -fakespot-brand-name }
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Tilkynna
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -199,27 +176,12 @@ newtab-menu-report = Tilkynna
 newtab-menu-section-block = Loka á
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Kanna nánar
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = Hætta að fylgjast með viðfangsefni
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = Sýsla með kostað efni
 newtab-menu-our-sponsors-and-your-privacy = Styrktaraðilar okkar og friðhelgi þín
 newtab-menu-report-this-ad = Tilkynna þessa auglýsingu
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Lokið
-newtab-privacy-modal-button-manage = Sýsla með stillingar á kostuðu efni
-newtab-privacy-modal-header = Persónuvernd þín skiptir máli.
-newtab-privacy-modal-paragraph-2 =
-    Auk þess að bjóða upp á grípandi sögur, sýnum við þér einnig viðeigandi,
-    hátt metið efni frá völdum styrktaraðilum. Vertu viss, <strong>vafragögnin þín
-    fara aldrei út fyrir uppsetningu þína af { -brand-product-name }</strong> — við sjáum þau ekki og
-    styrktaraðilar okkar gera það ekki heldur.
-newtab-privacy-modal-link = Kynntu þér hvernig persónuvernd virkar á nýja flipanum
 
 ##
 
@@ -275,31 +237,12 @@ newtab-label-sponsored-fixed = Kostað
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Fjarlægja kafla
-newtab-section-menu-collapse-section = Fella kafla
-newtab-section-menu-expand-section = Stækka hluta
-newtab-section-menu-manage-section = Stjórna kafla
-newtab-section-menu-manage-webext = Stjórna forritsauka
-newtab-section-menu-add-topsite = Bæta við toppsíðu
-newtab-section-menu-add-search-engine = Bæta við leitarvél
-newtab-section-menu-move-up = Færa upp
-newtab-section-menu-move-down = Færa niður
 newtab-section-menu-privacy-notice = Meðferð persónuupplýsinga
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Fella hluta saman
-newtab-section-expand-section-label =
-    .aria-label = Stækka hluta
 
 ## Section Headers.
 
 newtab-section-header-topsites = Efstu vefsvæðin
 newtab-section-header-recent-activity = Nýleg virkni
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Með þessu mælir { $provider }
 newtab-section-header-stories = Umhugsunarverðar sögur
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = Úrval dagsins fyrir þig
@@ -307,10 +250,6 @@ newtab-section-header-todays-picks = Úrval dagsins fyrir þig
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Byrjaðu að vafra og við sýnum þér frábærar greinar, myndbönd og önnur vefsvæði sem þú hefur nýverið heimsótt eða bókarmerkt.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Þú hefur lesið allt. Athugaðu aftur síðar eftir fleiri fréttum frá { $provider }. Geturðu ekki beðið? Veldu vinsælt umfjöllunarefni til að finna fleiri áhugaverðar greinar hvaðanæva að af vefnum.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = Þú hefur lesið allt. Athugaðu aftur síðar með fleiri fréttir. Geturðu ekki beðið? Veldu vinsælt umfjöllunarefni til að finna fleiri áhugaverðar greinar hvaðanæva að af vefnum.
 
@@ -323,39 +262,6 @@ newtab-discovery-empty-section-topstories-loading = Hleður…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Úbbs! Við náðum næstum þessum hluta, en ekki alveg.
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Helstu umræðuefni:
-newtab-pocket-new-topics-title = Viltu enn fleiri sögur? Skoðaðu þessi vinsælu viðfangsefni frá { -pocket-brand-name }
-newtab-pocket-more-recommendations = Fleiri meðmæli
-newtab-pocket-learn-more = Frekari upplýsingar
-newtab-pocket-cta-button = Sækja { -pocket-brand-name }
-newtab-pocket-cta-text = Vistaðu sögurnar sem þú elskar í { -pocket-brand-name } og fáðu innblástur í huga þinn með heillandi lesningu.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } er hluti af { -brand-product-name } fjölskyldunni
-newtab-pocket-save = Vista
-newtab-pocket-saved = Vistað
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = Meira svona
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = Ekki fyrir mig
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = Takk. Álit þitt mun hjálpa okkur að bæta streymið þitt.
-newtab-toast-dismiss-button =
-    .aria-label = Afgreiða
-    .title = Afgreiða
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = Uppgötvaðu það besta á vefnum
-newtab-pocket-onboarding-cta = { -pocket-brand-name } skoðar fjölbreytt úrval útgefins efnis til að koma með upplýsandi, hvetjandi og áreiðanlegt efni beint í { -brand-product-name }-vafrann þinn.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -364,8 +270,6 @@ newtab-error-fallback-refresh-link = Endurlestu síðu til að reyna aftur.
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Flýtileiðir
-newtab-custom-shortcuts-subtitle = Vefsvæði sem þú vistar eða heimsækir
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Vefsvæði sem þú vistar eða heimsækir
@@ -381,16 +285,6 @@ newtab-custom-row-selector2 =
             [one] { $num } röð
            *[other] { $num } raðir
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } röð
-       *[other] { $num } raðir
-    }
-newtab-custom-sponsored-sites = Kostaðar flýtileiðir
-newtab-custom-pocket-title = Mælt með af { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Úrvalsefni í umsjón { -pocket-brand-name }, hluta af { -brand-product-name } fjölskyldunni
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = Úrvalsefni sem safnað hefur verið af aðstandendum { -brand-product-name }
@@ -402,10 +296,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = Sérsniðnar sögur byggðar á virkni þinni
 newtab-custom-stories-personalized-checkbox-label = Sérsniðnar sögur byggðar á virkni þinni
-newtab-custom-pocket-sponsored = Kostaðar sögur
-newtab-custom-pocket-show-recent-saves = Sýna nýlega vistað
-newtab-custom-recent-title = Nýleg virkni
-newtab-custom-recent-subtitle = Úrval af nýlegum síðum og efni
 newtab-custom-weather-toggle =
     .description = Veðurspá dagsins í skyndi
     .label = Veður
@@ -423,7 +313,6 @@ newtab-widget-manage-title = Viðmótshlutar
 newtab-custom-close-menu-button =
     .aria-label = Loka valmynd
     .title = Loka
-newtab-custom-close-button = Loka
 newtab-custom-settings = Sýsla með fleiri stillingar
 
 ## New Tab Wallpapers
@@ -441,7 +330,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Myndin er stærri en takmörkin á stærð skráa { $file_size }MB. Reyndu að senda inn minni skrá.
 newtab-wallpaper-error-upload-file-type = Ekki var hægt að senda inn skrána þína. Reyndu aftur með annarri myndskrá.
-newtab-wallpaper-error-file-type = Ekki var hægt að senda inn skrána þína. Reyndu aftur með annarri skráartegund.
 newtab-wallpaper-light-red-panda = Rauð panda
 newtab-wallpaper-light-mountain = Hvítt fjall
 newtab-wallpaper-light-sky = Himinn með fjólubláum og bleikum skýjum
@@ -542,10 +430,6 @@ newtab-wallpaper-celestial-river = Gervihnattamynd af fljóti
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = Sjá veðurspá í { $provider }
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Kostað
 newtab-weather-menu-change-location = Breyta staðsetningu
 newtab-weather-change-location-search-input-placeholder =
@@ -564,7 +448,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Selsíus
 newtab-weather-menu-change-temperature-units-fahrenheit = Skipta yfir í Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Skipta yfir í Selsíus
-newtab-weather-menu-hide-weather = Fela veður á nýjum flipa
 newtab-weather-menu-learn-more = Kanna nánar
 newtab-weather-menu-detect-my-location = Greina staðsetningu mína
 # This message is shown if user is working offline
@@ -649,7 +532,6 @@ newtab-section-unblock-button = Opna fyrir
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = Ekki núna
 newtab-section-confirm-block-topic-p1 = Ertu viss um að þú viljir loka á þetta umfjöllunarefni?
 newtab-section-confirm-block-topic-p2 = Umfjöllunarefni sem lokað er á munu ekki lengur birtast í streyminu þínu.
 # Variables:

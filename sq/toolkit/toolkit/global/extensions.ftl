@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Të shtohet { $extension }?
-webext-perms-header-with-perms = Të shtohet { $extension }? Ky zgjerim do të ketë leje të:
-webext-perms-header-unsigned = Të shtohet { $extension }? Ky zgjerim është i paverifikuar. Zgjerimet keqdashëse mund të vjedhin të dhëna tuajat private ose të komprometojnë kompjuterin tuaj. Shtojeni vetëm nëse e besoni burimin.
-webext-perms-header-unsigned-with-perms = Të shtohet { $extension }? Ky zgjerim është i paverifikuar. Zgjerimet keqdashëse mund të vjedhin të dhëna tuajat private ose të komprometojnë kompjuterin tuaj. Shtojeni vetëm nëse e besoni burimin. Kjo shtesë do të ketë leje të:
 webext-perms-sideload-header = { $extension } u shtua
 webext-perms-optional-perms-header2 = { $extension } lyp leje shtesë
-webext-perms-optional-perms-header = { $extension } lyp leje shtesë.
 webext-perms-header2 = Shtoni { $extension }
 webext-perms-list-intro-unsigned = Ky zgjerim i paverifikuar mund ta vërë në rrezik privatësinë tuaj, ose të komprometojë pajisjen tuaj/ Shtojeni vetëm nëse i zini besë burimit.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } është përditësuar. Duhet të miratoni lejet e reja përpara se të instalohet versioni i përditësuar. Zgjedhja e “Anuloje” do të mbajë versionin e tanishëm të zgjerimit.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } është përditësuar. Duhet të miratoni lejet e reja përpara se të instalohet versioni i përditësuar. Zgjedhja e “Anuloje” do të mbajë versionin e tanishëm të zgjerimit. Ky zgjerim do të ketë leje të:
 webext-perms-update-accept =
     .label = Përditësoje
     .accesskey = d
@@ -72,24 +64,8 @@ webext-perms-host-description-all-urls = Të hyjë në të dhënat tuaja për kr
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Të hyjë në të dhënat tuaja për sajte të përkatësisë { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Të hyjë në të dhënat tuaja te { $domainCount } përkatësi tjetër
-       *[other] Të hyjë në të dhënat tuaja te { $domainCount } përkatësi të tjera
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Të hyjë në të dhënat tuaja për { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Të hyjë në të dhënat tuaja te { $domainCount } sajt tjetër
-       *[other] Të hyjë në të dhënat tuaja te { $domainCount } sajte të tjerë
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

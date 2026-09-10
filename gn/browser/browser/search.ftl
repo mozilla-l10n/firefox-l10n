@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Nde jehekaha mongu’eha ijypykuéva iñambuéma.</strong> { $oldEngine } ndaiporivéima jehekaha ijypykuévaramo { -brand-short-name } ndive. { $newEngine } ha’e ko’ág̃aite nde jehekaha ijypykuéva. Emoambueséramo nde jehekaha ijypykuéva, eho moĩporãhápe. <label data-l10n-name="remove-search-engine-article">Eikuaave</label>
 removed-search-engine-message2 = <strong>Nde jehekaha mongu’eha ijypykuéva iñambuéma.</strong> { $oldEngine } ndaiporivéima jehekaha ijypykuévaramo { -brand-short-name } ndive. { $newEngine } ha’e ko’ág̃aite nde jehekaha ijypykuéva. Emoambueséramo nde jehekaha ijypykuéva, eho moĩporãhápe.
 remove-search-engine-button = MONEĨ
 
@@ -52,11 +51,11 @@ install-search-engine-no = Nahániri
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Embojuaju hekaha
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Embosako’i hekaha
     .style = min-width: 32em;
+    .title = Embosako’i hekaha
 add-engine-button = Embojuaju hekaha momba’epyre
 add-engine-name = Hekaha réra
 add-engine-url2 = URL %s ndive pe jehekaha rendaguépe
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Eñeha’ã emoinge %s pe hekaha porurekor�
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Embojuaju Jehekaha
-    .buttonaccesskeyaccept = A
     .buttonlabelextra1 = Jehasapyre
+    .buttonaccesskeyaccept = A
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Eñongatu Jehekaha
-    .buttonaccesskeyaccept = S
     .buttonlabelextra1 = Jehasapyre
+    .buttonaccesskeyaccept = S

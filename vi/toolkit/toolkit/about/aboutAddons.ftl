@@ -156,15 +156,10 @@ addon-sitepermission-host = Quyền hạn trang web cho { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Tất cả tiện ích đã bị vô hiệu hóa bởi chế độ an toàn.
-extensions-warning-check-compatibility = Việc kiểm tra tính tương thích của tiện ích đã bị vô hiệu hóa. Có thể bạn đang dùng các tiện ích không còn tương thích nữa.
-extensions-warning-safe-mode2 =
-    .message = Tất cả tiện ích đã bị vô hiệu hóa bởi chế độ an toàn.
 extensions-warning-check-compatibility2 =
     .message = Việc kiểm tra tính tương thích của tiện ích đã bị vô hiệu hóa. Có thể bạn đang dùng các tiện ích không còn tương thích nữa.
 extensions-warning-check-compatibility-button = Bật
     .title = Kích hoạt kiểm tra tính tương thích của tiện ích
-extensions-warning-update-security = Việc kiểm tra tính an toàn của các cập nhật tiện ích đã bị vô hiệu hóa. Bạn có thể bị tổn hại nếu cập nhật.
 extensions-warning-update-security2 =
     .message = Việc kiểm tra tính an toàn của các cập nhật tiện ích đã bị vô hiệu hóa. Bạn có thể bị tổn hại nếu cập nhật.
 extensions-warning-update-security-button = Bật
@@ -240,10 +235,6 @@ shortcuts-duplicate = Phím tắt trùng lặp
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } đang được sử dụng làm phím tắt trong nhiều trường hợp. Phím tắt trùng lặp có thể gây ra hành vi bất ngờ.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } đang được sử dụng làm phím tắt trong nhiều trường hợp. Phím tắt trùng lặp có thể gây ra hành vi bất ngờ.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -262,19 +253,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Tiện ích mở rộng và chủ đề giống như các ứng dụng cho trình duyệt của bạn và chúng cho phép
-    bạn bảo vệ mật khẩu, tải video, tìm giao dịch, chặn quảng cáo gây phiền nhiễu, thay đổi
-    trình duyệt của bạn trông như thế nào, và nhiều hơn nữa. Những chương trình phần mềm
-    nhỏ này là thường được phát triển bởi một bên thứ ba. Ở đây, một lựa chọn
-    <a data-l10n-name="learn-more-trigger">đề xuất</a> { -brand-product-name } cho trường hợp
-    bảo mật, hiệu suất và chức năng đặc biệt.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    Một số trong những khuyến nghị được cá nhân hóa. Nó dựa trên khác
-    tiện ích mở rộng mà bạn đã cài đặt, tùy chọn hồ sơ và thống kê sử dụng.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -365,16 +343,9 @@ addon-detail-last-updated-label = Cập nhật cuối
 addon-detail-homepage-label = Trang chủ
 addon-detail-rating-label = Xêp hạng
 # Message for add-ons with a staged pending update.
-install-postponed-message = Tiện ích mở rộng này sẽ được cập nhật khi { -brand-short-name } khởi động lại.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Tiện ích mở rộng này sẽ được cập nhật khi { -brand-short-name } khởi động lại.
 install-postponed-button = Cập nhật ngay
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Xếp hạng { NUMBER($rating, maximumFractionDigits: 1) } trên 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -389,9 +360,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> đã bị xóa.
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -410,11 +378,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Được phép trong cửa sổ riêng tư
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Được phép trong cửa sổ riêng tư
 addon-detail-private-browsing-help = Khi được cho phép, tiện ích mở rộng sẽ có quyền truy cập vào các hoạt động trực tuyến của bạn trong khi duyệt web riêng tư. <a data-l10n-name="learn-more">Tìm hiểu thêm</a>
 addon-detail-private-browsing-allow = Cho phép
@@ -441,17 +404,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } chỉ đề xuất các tiện ích mở rộng đáp ứng các tiêu chuẩn của chúng tôi về bảo mật và hiệu suất
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Tiện ích mở rộng chính thức do Mozilla xây dựng. Đáp ứng các tiêu chuẩn về bảo mật và hiệu suất.
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Tiện ích mở rộng này đã được xem xét để đáp ứng các tiêu chuẩn của chúng tôi về bảo mật và hiệu suất
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -481,9 +433,6 @@ addon-permissions-heading = Quyền hạn
 addon-permissions-empty2 = Tiện ích mở rộng này không yêu cầu bất kỳ quyền nào.
 addon-permissions-required-label = Bắt buộc:
 addon-permissions-optional-label = Không bắt buộc:
-addon-permissions-empty = Tiện ích mở rộng này không yêu cầu bất kỳ quyền nào
-addon-permissions-required = Các quyền cần thiết cho chức năng cốt lõi:
-addon-permissions-optional = Các quyền tùy chọn cho chức năng được bổ sung:
 addon-permissions-learnmore = Tìm hiểu thêm về quyền hạn
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -524,25 +473,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } không tương thích với { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } không tương thích với { -brand-short-name } { $version }.
-details-notification-incompatible-link = Thông tin chi tiết
-details-notification-unsigned-and-disabled = Không thể kiểm tra tính tương thích của { $name } với { -brand-short-name } nên nó đã bị vô hiệu hóa.
 details-notification-unsigned-and-disabled2 =
     .message = Không thể kiểm tra tính tương thích của { $name } với { -brand-short-name } nên nó đã bị vô hiệu hóa.
-details-notification-unsigned-and-disabled-link = Thông tin chi tiết
-details-notification-unsigned = Không thể kiểm tra tính tương thích của { $name } với { -brand-short-name }. Bạn nên cẩn thận.
 details-notification-unsigned2 =
     .message = Không thể kiểm tra tính tương thích của { $name } với { -brand-short-name }. Bạn nên cẩn thận.
 details-notification-hard-blocked-extension =
     .message = Tiện ích mở rộng này bị chặn do vi phạm chính sách của Mozilla và đã bị vô hiệu hóa.
 details-notification-hard-blocked-other =
     .message = Tiện ích này bị chặn do vi phạm chính sách của Mozilla và đã bị vô hiệu hóa.
-details-notification-unsigned-link = Thông tin chi tiết
-details-notification-blocked = { $name } đã bị vô hiệu hóa vì vấn đề bảo mật hoặc tính ổn định.
 details-notification-blocked-link2 = Xem chi tiết
 details-notification-soft-blocked-extension-disabled2 =
     .message = Tiện ích mở rộng này bị hạn chế và đã bị vô hiệu hóa. Bạn có thể bật nó, nhưng việc này có thể tiềm ẩn rủi ro.
@@ -552,19 +492,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = Tiện ích này bị hạn chế và đã bị vô hiệu hóa. Bạn có thể bật nó, nhưng việc này có thể tiềm ẩn rủi ro.
 details-notification-soft-blocked-other-enabled2 =
     .message = Tiện ích này bị hạn chế. Sử dụng nó có thể tiềm ẩn rủi ro.
-details-notification-soft-blocked-extension-disabled =
-    .message = Tiện ích mở rộng này bị hạn chế do vi phạm chính sách của Mozilla và đã bị vô hiệu hóa. Bạn có thể bật nó, nhưng điều này có thể tiềm ẩn rủi ro.
-details-notification-soft-blocked-extension-enabled =
-    .message = Tiện ích mở rộng này vi phạm chính sách của Mozilla. Sử dụng nó có thể tiềm ẩn rủi ro.
-details-notification-soft-blocked-other-disabled =
-    .message = Tiện ích mở rộng này bị hạn chế do vi phạm chính sách của Mozilla và đã bị vô hiệu hóa. Bạn có thể bật nó, nhưng điều này có thể tiềm ẩn rủi ro.
-details-notification-soft-blocked-other-enabled =
-    .message = Tiện ích này vi phạm chính sách của Mozilla. Sử dụng nó có thể tiềm ẩn rủi ro.
 details-notification-softblocked-link2 = Xem chi tiết
-details-notification-blocked-link = Thông tin Chi tiết
-details-notification-softblocked = { $name } được cho là gây ra các vấn đề về bảo mật hoặc tính ổn định.
-details-notification-softblocked-link = Thông tin Chi tiết
-details-notification-gmp-pending = { $name } sắp được cài.
 details-notification-gmp-pending2 =
     .message = { $name } sắp được cài.
 
@@ -580,8 +508,6 @@ plugins-widevine-description = Phần bổ trợ này cho phép phát lại phư
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Thu thập dữ liệu bắt buộc:
-addon-permissions-optional-data-collection = Thu thập dữ liệu tùy chọn:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Quyền hạn và dữ liệu
 # This is a description for extension that use this AI model

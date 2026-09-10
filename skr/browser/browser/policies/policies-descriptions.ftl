@@ -41,7 +41,6 @@ policy-DisableDefaultBrowserAgent = ڈیفالٹ براؤزر ایجنٹ کوں 
 policy-DisableDeveloperTools = ڈویلپر ٹولز تک رسائی کوں مسدود کرو۔
 policy-DisableEncryptedClientHello = ٹی ایل ایس خصوصیت خفیہ کردہ کلائنٹ ہیلو (ای سی ایچ) دے ورتݨ کوں غیر فعال کرو۔
 policy-DisableFeedbackCommands = ہیلپ مینو کنوں تاثرات بھیڄݨ کیتے کمانڈز کوں غیر فعال کرو (فیڈ بیک جمع کرواؤ تے فریب ݙیوݨ والی سائٹ دی اطلاع ݙیو)۔
-policy-DisableFirefoxAccounts = سنک سمیت { -fxaccount-brand-name } تے مبنی خدمات کوں غیر فعال بݨاؤ۔
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = ہم وقت کرݨ دے نال اکاؤنٹ اُتے مبنی خدمتاں کوں غیر فعال کرو۔
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -51,7 +50,6 @@ policy-DisableForgetButton = بھل ونڄݨ والے بٹن تک رسائی ک�
 policy-DisableFormHistory = ڳول تے فارم دی تاریخ کوں یاد نہ رکھو۔
 policy-DisablePrimaryPasswordCreation = جے درست ہے تاں، منڈھلا پاس ورڈ نہیں بݨایا ونڄ سڳدا۔
 policy-DisablePasswordReveal = ہتھیکڑے لاگ انز وِچ پاس ورڈ ظاہر کرݨ دی اجازت نہ ݙیو۔
-policy-DisablePocket2 = ویب ورقیاں کوں { -pocket-brand-name } وِچ ہتھیکڑا کرݨ کیتے خصوصیت کوں غیر فعال کرو۔
 policy-DisablePrivateBrowsing = نجی براؤزنگ غیر فعال کرو
 policy-DisableProfileImport = ٻئے براؤزر کنوں ڈیٹا برآمد کرݨ کیتے مینیو کمانڈ کوں غیر فعال کرو۔
 policy-DisableProfileRefresh = ایں بارے وِچ: سپورٹ ورقہ وِچ ریفریش { -brand-short-name } بٹن کوں غیر فعال کرو۔
@@ -117,7 +115,6 @@ policy-PostQuantumKeyAgreementEnabled = ٹی ایل ایس کیتے پوسٹ ک�
 policy-PDFjs = PDF.js کوں غیر فعال یا ترتیب ݙیو، جیڑھا جو { -brand-short-name } وِچ بلٹ ان پی ڈی ایف ویور ہے۔
 policy-Permissions2 = کیمرے، مائیکروفون، مقام، اطلاعات تے آٹو پلے کیتے اجازتاں ترتیب ݙیو۔
 policy-PictureInPicture = تصویر وِچ تصویر کوں فعال یا غیر فعال کرو۔
-policy-PopupBlocking = کجھ ویب سائٹس کوں بطور ڈیفالٹ پاپ اپ ڈسپلے کرݨ دیی اجازت ݙیو۔
 policy-Preferences = ترجیحات دے ذیلی سیٹ کیتے قدر کوں سیٹ کرو تے لاک کرو۔
 policy-PrivateBrowsingModeAvailability = نجی براؤزنگ موڈ دی دستیابی مقرر کرو۔
 policy-PromptForDownloadLocation = پچھو جو ڈاؤن لوڈ کریندے ویلھے فائلاں کوں کتھاں ہتھیکڑا کریندا ہے۔

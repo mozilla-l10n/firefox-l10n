@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Förhindra att standardwebbläsaren agerar. 
 policy-DisableDeveloperTools = Blockera tillgång till utvecklarverktygen.
 policy-DisableEncryptedClientHello = Inaktivera användning av TLS-funktionen ECH (Encrypted Client Hello).
 policy-DisableFeedbackCommands = Inaktivera menyalternativen att skicka feedback från hjälpmenyn (Skicka in feedback och rapportera vilseledande webbplats).
-policy-DisableFirefoxAccounts = Inaktivera { -fxaccount-brand-name }-baserade tjänster, inklusive Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Inaktivera kontobaserade tjänster, inklusive synkronisering.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Spara inte sök- och formulärhistorik.
 policy-DisableLaunchOnLogin = Förhindra att { -brand-short-name } startas automatiskt när användaren loggar in.
 policy-DisablePrimaryPasswordCreation = Om det är sant kan ett huvudlösenord inte skapas.
 policy-DisablePasswordReveal = Låt inte lösenord avslöjas i sparade inloggningar.
-policy-DisablePocket2 = Inaktivera funktionen att spara webbsidor till { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Inaktivera privat surfning.
 policy-DisableProfileImport = Inaktivera menyalternativet att importera data från en annan webbläsare.
 policy-DisableProfileRefresh = Inaktivera knappen Återställ { -brand-short-name } på sidan about:support.
@@ -132,7 +130,6 @@ policy-PDFjs = Inaktivera eller konfigurera PDF.js, den inbyggda PDF-visaren i {
 policy-Permissions2 = Konfigurera behörigheter för kamera, mikrofon, plats, aviseringar och autoplay.
 policy-PictureInPicture = Aktivera eller inaktivera bild-i-bild.
 policy-PopupBlocking2 = Tillåt vissa webbplatser visa popup-fönster och omdirigeras av ramar från tredje part.
-policy-PopupBlocking = Tillåt vissa webbplatser att visa popup-fönster som standard.
 policy-Preferences = Ställ in och lås värdet för en delmängd av inställningar.
 policy-PrivateBrowsingModeAvailability = Ange tillgänglighet för privat surfläge.
 policy-PromptForDownloadLocation = Fråga var du ska spara filer när du laddar ner.

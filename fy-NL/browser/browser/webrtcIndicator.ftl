@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } – Yndikator foar dielen
-webrtc-indicator-window =
-    .title = { -brand-short-name } – Yndikator foar dielen
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Jo diele jo mikrofoan. Klik om dielen te behearen.
 webrtc-screen-system-menu =
     .label = Jo diele jo finster of skerm. Klik om dielen te behearen.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Jo kamera en mikrofoan wurde dield. Klik om dielen te behearen.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Jo kamera wurdt dield. Klik om dielen te behearen.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Jo mikrofoan wurdt dield. Klik om dielen te behearen.
-webrtc-indicator-sharing-application =
-    .tooltiptext = In applikaasje wurdt dield. Klik om dielen te behearen.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Jo skerm wurdt dield. Klik om dielen te behearen.
-webrtc-indicator-sharing-window =
-    .tooltiptext = In finster wurdt dield. Klik om dielen te behearen.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = In ljepblêd wurdt dield. Klik om dielen te behearen.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = { $origin } tast
 
 webrtc-share-screen-warning = Diel allinnich skermen mei websites dy’t jo fertrouwe. Diele kin misliedende websites tastean om as jo te surfen en jo priveegegevens te stellen.
 webrtc-share-browser-warning = Diel { -brand-short-name } allinnich mei websites dy’t jo fertrouwe. Dielen kin misliedende websites tastean út jo namme te browsen en jo priveegegevens te stellen.
-webrtc-share-screen-learn-more = Mear ynfo
 webrtc-pick-window-or-screen = Finster of skerm selektearje
 webrtc-share-entire-screen = Folslein skerm
 webrtc-share-pipe-wire-portal = Ynstellingen fan it bestjoeringssysteem brûke

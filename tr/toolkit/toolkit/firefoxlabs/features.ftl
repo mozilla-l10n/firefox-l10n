@@ -15,10 +15,6 @@ experimental-features-js-warp-description = JavaScript performansını ve bellek
 experimental-features-ime-search =
     .label = Adres çubuğu: IME oluşturma sırasında sonuçları göster
 experimental-features-ime-search-description = IME (Giriş Yöntemi Düzenleyicisi), standart bir klavye kullanarak Doğu Asya veya Hintçe yazı dillerinde kullanılanlar gibi karmaşık sembolleri girmenize olanak tanıyan bir araçtır. Bu deneyi etkinleştirmek, metin girmek için IME’yi kullanırken adres çubuğu panelini açık tutacak ve arama sonuçlarını ve önerileri gösterecektir. IME’nin adres çubuğu sonuçlarını örten bir panel görüntüleyebileceğini, bu nedenle bu tercihin yalnızca bu tür bir paneli kullanmayan IME’ler için önerildiğini unutmayın.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Görüntü içinde görüntü: sekme değiştiğinde otomatik aç
-experimental-features-auto-pip-description = Sekmeler arasında geçiş yaparken etkin videolarda görüntü içinde görüntü modunu etkinleştirir.
 experimental-features-group-developer-tools =
     .label = Geliştirici araçları
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Verimlilik
 experimental-features-group-newtab-widgets =
     .label = { -firefox-home-brand-name } araçları
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Kenar çubuğunda parolalar
-experimental-features-contextual-password-manager-description = Parolalarınıza doğrudan kenar çubuğundan erişin. Sitelere giriş yapmaya çalışırken parola aramaya, parolaları unutup sıfırlamaya son. Bu özelliği kullanmak için “Kenar çubuğunda parolalar”ı seçin. Ardından genel ayarlarınıza gidip “Tarayıcı düzeni” altından “Kenar çubuğunu göster”i işaretleyin. Sonra da kenar çubuğunuzu özelleştirip “Parolalar”ı seçebilirsiniz. Bu özelliği denerseniz <a data-l10n-name="connect">ne düşündüğünüzü bize bildirin</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Yeni Sekme için duvar kâğıdı veya renk seç

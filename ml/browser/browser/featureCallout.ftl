@@ -13,7 +13,6 @@ callout-primary-complete-button-label = കിട്ടി!
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = ടാബു് പിക്കപ്പു് കൊണ്ടു് ഉപകരണങ്ങൾക്കിടയിൽ തുള്ളിച്ചാടുക
 callout-firefox-view-recently-closed-title = താങ്ങളുടെ അടച്ച ടാബുകൾ ഒറ്റയടിക്കു് തിരികെ നേടുക
-callout-firefox-view-colorways-title = നിറത്തിന്റെ നീർത്തെറിപ്പ് ഉരച്ചുനോക്കുക
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

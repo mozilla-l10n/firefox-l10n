@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Dir p'atrás una páxina ({ $shortcut })
     .aria-label = Atrás
+    .tooltiptext = Dir p'atrás una páxina ({ $shortcut })
     .accesskey = A
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Dir p'alantre una páxina ({ $shortcut })
     .aria-label = Alantre
+    .tooltiptext = Dir p'alantre una páxina ({ $shortcut })
     .accesskey = l
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Save Page
 
 main-context-menu-page-save =
@@ -104,9 +98,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = Guardar l'enllaz como…
     .accesskey = z
-main-context-menu-save-link-to-pocket =
-    .label = Guardar l'enllaz en { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -229,34 +220,16 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Unviar l'audiu per corréu
     .accesskey = a
-main-context-menu-save-to-pocket =
-    .label = Guardar la páxina en { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Unviar la páxina al preséu
-    .accesskey = n
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Usar un aniciu sesión guardáu
-    .accesskey = U
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Usar una contraseña guardada
     .accesskey = U
-
-##
-
 main-context-menu-suggest-strong-password =
     .label = Suxerir una contraseña segura…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = Xestionar les cuentes
-    .accesskey = X
-main-context-menu-keyword =
-    .label = Amestar una pallabra clave pa esta busca…
-    .accesskey = l
 main-context-menu-link-send-to-device =
     .label = Unviar l'enllaz al preséu
     .accesskey = n

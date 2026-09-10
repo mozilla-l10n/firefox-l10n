@@ -95,15 +95,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = လုံခြုံရေးအပြင်အဆင်အရအတ်အွန်အားလုံးအားပိတ်သိမ်းထားသည်။
-extensions-warning-check-compatibility = အတ်အွန် အဆင့်မှီမမှီ စစ်ဆေးသော လုပ်ဆောင်ချက် အား ပိတ်ထားသည်။ သင့်တွင် အသုံးမဝင်တော့သော မသစ်တော့သော အတ်အွန်များ ရှိနိုင်သည်။
-extensions-warning-safe-mode2 =
-    .message = လုံခြုံရေးအပြင်အဆင်အရအတ်အွန်အားလုံးအားပိတ်သိမ်းထားသည်။
 extensions-warning-check-compatibility2 =
     .message = အတ်အွန် အဆင့်မှီမမှီ စစ်ဆေးသော လုပ်ဆောင်ချက် အား ပိတ်ထားသည်။ သင့်တွင် အသုံးမဝင်တော့သော မသစ်တော့သော အတ်အွန်များ ရှိနိုင်သည်။
 extensions-warning-check-compatibility-button = လုပ်ဆောင်နိုင်စေမည်။
     .title = အက်အွန် ကိုက်ညီမှု စစ်ဆေးခြင်းကို ဖွင့်ထားမယ်
-extensions-warning-update-security = အတ်အွန် အဆင့်မြှင့်တင်ခြင်းလုံခြုံရေးစစ်ဆေးချက်အားပိတ်ထားသည်။သင်သည် အဆင့်မြှင့်တင်ခြင်းများနှင့်ပတ်သတ်ပြီးအံအားသင့်နိုင်သည်။
 extensions-warning-update-security2 =
     .message = အတ်အွန် အဆင့်မြှင့်တင်ခြင်းလုံခြုံရေးစစ်ဆေးချက်အားပိတ်ထားသည်။သင်သည် အဆင့်မြှင့်တင်ခြင်းများနှင့်ပတ်သတ်ပြီးအံအားသင့်နိုင်သည်။
 extensions-warning-update-security-button = လုပ်ဆောင်နိုင်စေမည်။
@@ -160,24 +155,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } is incompatible with { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } is incompatible with { -brand-short-name } { $version }.
-details-notification-unsigned-and-disabled = { -brand-short-name } တွင် အသုံးပြုရန်အတွက် { $name } ကို အတည်မပြုနိုင်ပါ။ ထို့ကြောင့် ၄င်းကို ပိတ်ထားသည်။
 details-notification-unsigned-and-disabled2 =
     .message = { -brand-short-name } တွင် အသုံးပြုရန်အတွက် { $name } ကို အတည်မပြုနိုင်ပါ။ ထို့ကြောင့် ၄င်းကို ပိတ်ထားသည်။
-details-notification-unsigned-and-disabled-link = အချက်အလက် ပိုမိုကြည့်ရန်
-details-notification-unsigned = { -brand-short-name } တွင် အသုံးပြုရန်အတွက် { $name } ကို အတည်မပြုနိုင်ပါ။ သတိထားပြီး ဆက်လက်ဆောင်ရွက်ပါ။
 details-notification-unsigned2 =
     .message = { -brand-short-name } တွင် အသုံးပြုရန်အတွက် { $name } ကို အတည်မပြုနိုင်ပါ။ သတိထားပြီး ဆက်လက်ဆောင်ရွက်ပါ။
-details-notification-unsigned-link = အချက်အလက် ပိုမိုကြည့်ရန်
-details-notification-blocked = { $name } has been disabled due to security or stability issues.
-details-notification-blocked-link = နောက်ထပ်အချက်အလက်များ
-details-notification-softblocked = { $name } is known to cause security or stability issues.
-details-notification-softblocked-link = နောက်ထပ်အချက်အလက်များ
-details-notification-gmp-pending = { $name } ကို အချိန်တိုအတွင်း ထည့်သွင်းတပ်ဆင်ပါမည်။
 details-notification-gmp-pending2 =
     .message = { $name } ကို အချိန်တိုအတွင်း ထည့်သွင်းတပ်ဆင်ပါမည်။
 

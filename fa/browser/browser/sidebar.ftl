@@ -22,10 +22,6 @@ sidebar-history-delete =
 sidebar-history-clear =
     .label = پاک‌کردن تاریخچه
 
-## Labels for sidebar customize panel
-
-sidebar-customize-extensions-header = افزونه‌های نوار کناری
-
 ## Context for closing synced tabs when hovering over the items
 
 show-sidebars =

@@ -6,22 +6,12 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = പുതിയ ടാബ്
-newtab-settings-button =
-    .title = നിങ്ങളുടെ പുതിയ ടാബ് താള് ഇഷ്ടാനുസൃതമാക്കുക
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button-label once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button-label = ഇച്ഛാനുസൃതമാക്കുക
 newtab-customize-panel-label =
     .label = ഇച്ഛാനുസൃതമാക്കുക
-newtab-personalize-settings-icon-label =
-    .aria-label = ക്രമീകരണങ്ങൾ
-    .title = പുതിയ ടാബ് വ്യക്തിപരമാക്കുക
 newtab-settings-dialog-label =
     .aria-label = ക്രമീകരണങ്ങള്‍
-newtab-personalize-icon-label =
-    .aria-label = പുതിയ ടാബ് വ്യക്തിപരമാക്കുക
-    .title = പുതിയ ടാബ് വ്യക്തിപരമാക്കുക
-newtab-personalize-dialog-label =
-    .aria-label = വ്യക്തിപരമാക്കുക
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 
@@ -128,7 +118,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = തിരയൽ യന്ത്രം ചേർക്കുക
 newtab-topsites-add-shortcut-header = പുതിയ കുറുക്കുവഴി
-newtab-topsites-edit-topsites-header = മികച്ച സൈറ്റ് പട്ടിക തിരുത്തൂ
 newtab-topsites-edit-shortcut-header = കുറുക്കുവഴി തിരുത്തുക
 newtab-topsites-add-shortcut-label = കുറുക്കുവഴി ചേർക്കുക
 newtab-topsites-add-shortcut-title =
@@ -170,20 +159,12 @@ newtab-topsite-sponsored = പണം കൊണ്ടു് പ്രചരിപ
 newtab-menu-section-tooltip =
     .aria-label = കുറിപ്പടിക്കട്ട തുറക്കുക
     .title = കുറിപ്പടിക്കട്ട തുറക്കുക
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = മാറ്റുക
-    .title = മാറ്റുക
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = { $title }-നു് കുറിപ്പടികട്ട തുറക്കുക
     .title = കുറിപ്പടികട്ട തുറക്കുക
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = ഈ സൈറ്റ് തിരുത്തുക
-    .title = ഈ സൈറ്റ് തിരുത്തുക
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -194,11 +175,7 @@ newtab-menu-dismiss = പുറത്താക്കുക
 newtab-menu-pin = കുത്തിസൂചി ഇടുക
 newtab-menu-unpin = കുത്തിസൂചിക മാറ്റുക
 newtab-menu-delete-history = നാള്‍വഴിയിൽ നിന്ന് മായ്ക്കുക
-newtab-menu-save-to-pocket = { -pocket-brand-name }-ൽ കരുതിവയ്ക്കുക
-newtab-menu-delete-pocket = { -pocket-brand-name } നിന്ന് മായ്ക്കുക
-newtab-menu-archive-pocket = { -pocket-brand-name } ഗ്രന്ഥപ്പുരത്തിലാക്കി വയ്ക്കുക
 newtab-menu-show-privacy-info = ഞങ്ങളുടെ പരുപാടികൾക്കു് പണം കൊടുക്കുന്നവരും താങ്ങളുടെ സ്വകാര്യതാവും
-newtab-menu-about-fakespot = { -fakespot-brand-name }-നെ കുറിച്ചു്
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = വിവരം അറിയിക്കുക
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -206,22 +183,12 @@ newtab-menu-report = വിവരം അറിയിക്കുക
 newtab-menu-section-block = തടയുക
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = കൂടുതല്‍ അറിയുക
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = വിഷയം പിന്തുടരാൻ നി‌രുത്തുക
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = പണടച്ചിട്ടുപ്രചരിപ്പിച്ച ഉള്ളടക്കം കൈകാര്യം ചെയ്യുക
 newtab-menu-our-sponsors-and-your-privacy = ഞങ്ങളുടെ പരുപാടികൾക്കു് പണം കൊടുക്കുന്നവരും താങ്ങളുടെ സ്വകാര്യതാവും
 newtab-menu-report-this-ad = മേൽക്കോയ്മക്കാരോടു് ഈ പരസ്യത്തിനെ പറ്റി അറിയിക്കുക.
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = കഴിഞ്ഞു
-newtab-privacy-modal-button-manage = പണം മുടക്കിയ ഉള്ളടക്കം ക്രമീകരണങ്ങളെ നിയന്ത്രിക്കുക
-newtab-privacy-modal-header = നിങ്ങളുടെ സ്വകാര്യത പ്രധാനമാണ്.
-newtab-privacy-modal-link = പുതിയ ടാബിൽ സ്വകാര്യത എങ്ങനെ പ്രവർത്തിക്കുന്നുവെന്നു് അറിയുക
 
 ##
 
@@ -277,31 +244,12 @@ newtab-label-sponsored-fixed = പണങ്കൊണ്ടു പ്രചരി
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = വിഭാഗം നീക്കം ചെയ്യുക
-newtab-section-menu-collapse-section = വിഭാഗം ചുരുക്കുക
-newtab-section-menu-expand-section = വിഭാഗം വികസിപ്പിക്കുക
-newtab-section-menu-manage-section = വിഭാഗം കൈകാര്യം ചെയ്യുക
-newtab-section-menu-manage-webext = വിപുലീകരണങ്ങളെ കൈകാര്യം ചെയ്യുക
-newtab-section-menu-add-topsite = ഏറ്റവും മികച്ച സൈറ്റ് ചേർക്കുക
-newtab-section-menu-add-search-engine = തിരയൽ യന്ത്രം ചേർക്കുക
-newtab-section-menu-move-up = മുകളിലേക്ക്‌ മാറ്റുക
-newtab-section-menu-move-down = താഴേക്ക്‌ മാറ്റുക
 newtab-section-menu-privacy-notice = സ്വകാര്യതാ അറിയിപ്പ്
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = വിഭാഗം ചുരുക്കുക
-newtab-section-expand-section-label =
-    .aria-label = വിഭാഗം വലുതാക്കുക
 
 ## Section Headers.
 
 newtab-section-header-topsites = മികച്ച സൈറ്റുകൾ
 newtab-section-header-recent-activity = ഒടുവിലുള്ള പ്രവർത്തനം
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } ശുപാർശ ചെയ്തത്
 newtab-section-header-stories = ചിന്തോദ്ദീപകമായ ലേഖനങ്ങൾ
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = ഇന്നത്തെ ശുപാൎശ ചെയ്തപ്പെട്ട ലേഖനങ്ങൾ
@@ -309,10 +257,6 @@ newtab-section-header-todays-picks = ഇന്നത്തെ ശുപാൎശ
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = പരതാൻ തുടങ്ങുക, താങ്ങൾ അടുത്തിടെ ചെന്നതോ കുറിച്ചിട്ടതോ ആയ മികച്ച ലേഖനങ്ങളിൽ നിന്നോ, ദൃശ്യങ്ങളിൽ നിന്നോ, മറ്റു താളുകളിൽ നിന്നോ ചിലതു് ഞങ്ങൾ ഇവിടെ കാണിക്കും.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = നിങ്ങൾ ഇവിടെ വരെ എത്തി. { $provider }ൽ നിന്നുള്ള കൂടുതൽ പ്രധാന വാർത്തകൾക്കായി പിന്നീട് വീണ്ടും പരിശോധിക്കുക. കാത്തിരിക്കാൻ പറ്റില്ലേ? വെബിൽ നിന്ന് കൂടുതൽ മികച്ച കഥകൾ കണ്ടെത്തുന്നതിന് ഒരു ജനപ്രിയ വിഷയം തിരഞ്ഞെടുക്കുക.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -323,33 +267,6 @@ newtab-discovery-empty-section-topstories-loading = ലഭ്യമാക്ക�
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = അയ്യോ! ഈ വിഭാഗം ഏതാണ്ടു് ലഭ്യമാക്കി, പക്ഷേ അതു് മുഴുവനായി ചെയ്യാൻ പറ്റിയില്ല.
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = ജനപ്രിയ വിഷയങ്ങൾ:
-newtab-pocket-new-topics-title = താങ്ങൾക്കു് ഇനിയും കഥകൾ കേൾക്കണോ? എന്നാൽ { -pocket-brand-name }-ലുള്ള ഈ ജനപ്രിയ വിഷയങ്ങളെ കാണുക
-newtab-pocket-more-recommendations = കൂടുതൽ ശുപാർശകൾ
-newtab-pocket-learn-more = കൂടുതല്‍ അറിയുക
-newtab-pocket-cta-button = { -pocket-brand-name } ലഭ്യമാക്കുക
-newtab-pocket-save = കരുതിവയ്ക്കുക
-newtab-pocket-saved = കരുതിവച്ച
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = ഇതുപോലെ ഇനിയും
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = എനിക്കു് വേണ്ടിയല്ല ഇതു്
-newtab-toast-dismiss-button =
-    .aria-label = കളയുക
-    .title = കളയുക
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = ഗോളാന്തരവലയിന്റെ ഏറ്റവും മികച്ചതു് ആരായുക
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -358,8 +275,6 @@ newtab-error-fallback-refresh-link = വീണ്ടും ശ്രമിക്
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = കുറുക്കുവഴികൾ
-newtab-custom-shortcuts-subtitle = താങ്ങൾ കരുതിവയ്ക്കുന്ന അല്ലെങ്കിൽ സന്ദൎശിക്കുന്ന വെബ്സ്ഥാനങ്ങൾ
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = താങ്ങൾ കരുതിവയ്ക്കുന്ന അല്ലെങ്കിൽ സന്ദൎശിക്കുന്ന വെബ്സ്ഥാനങ്ങൾ
@@ -375,17 +290,6 @@ newtab-custom-row-selector2 =
             [one] { $num } വരികൾ
            *[other] { $num } വരികൾ
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } വരികൾ
-       *[other] { $num } വരികൾ
-    }
-newtab-custom-sponsored-sites = പണം കൊണ്ടു് പ്രസരിപ്പിച്ച കുറുക്കുവഴികൾ
-newtab-custom-pocket-title = { -pocket-brand-name } ശുപാൎശ ചെയ്ത
-newtab-custom-pocket-show-recent-saves = അടുത്തിടെ കരുതിവയ്ക്കലുകൾ കാണിക്കുക
-newtab-custom-recent-title = ഒടുവിലുള്ള പ്രവർത്തനം
 newtab-custom-weather-toggle =
     .description = ഒരു നോട്ടത്തിൽ ഇന്നത്തെ കാലാവസ്ഥ
     .label = കാലാവസ്ഥ
@@ -395,7 +299,6 @@ newtab-custom-widget-weather-toggle =
 newtab-custom-close-menu-button =
     .aria-label = കുറിപ്പടി അടയ്ക്കുക
     .title = അടയ്ക്കുക
-newtab-custom-close-button = അടയ്ക്കുക
 
 ## New Tab Wallpapers
 
@@ -478,7 +381,6 @@ newtab-weather-menu-temperature-option-fahrenheit = ഫാരൻഹീറ്റ�
 newtab-weather-menu-temperature-option-celsius = സെൽഷ്യസു്
 newtab-weather-menu-change-temperature-units-fahrenheit = ഫാരൻഹീറ്റിലേക്കു് മാറുക
 newtab-weather-menu-change-temperature-units-celsius = സെൽഷ്യസിലേക്കു് മാറുക
-newtab-weather-menu-hide-weather = പുതിയ ടാബിൽ കാലാവസ്ഥ ഒളിപ്പിച്ചു വയ്ക്കുക
 newtab-weather-menu-learn-more = കൂടുതല്‍ അറിയുക
 # This message is shown if user is working offline
 newtab-weather-error-not-available = കാലാവസ്ഥാ ദത്ത ഇപ്പോൾ ലഭ്യമല്ല.
@@ -543,7 +445,6 @@ newtab-section-unblock-button = തടയാൻ നിൎത്തുക
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = ഇപ്പോഴല്ല
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = { $topic } തടയുക

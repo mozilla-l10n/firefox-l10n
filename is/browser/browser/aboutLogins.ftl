@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Innskráning og lykilorð
-about-logins-login-filter =
-    .placeholder = Leita að innskráningum
-    .key = F
-create-new-login-button =
-    .title = Búa til nýja innskráningu
 about-logins-page-title-name = Lykilorð
 about-logins-login-filter2 =
-    .placeholder = Leita að lykilorðum
     .key = F
+    .placeholder = Leita að lykilorðum
 create-login-button =
     .title = Bæta við lykilorði
 fxaccounts-sign-in-text = Fáðu lykilorðin þín í önnur tæki
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Flytja inn úr öðrum vafra...
 about-logins-menu-menuitem-import-from-a-file = Flytja inn úr skrá...
-about-logins-menu-menuitem-export-logins = Flytja út innskráningar...
-about-logins-menu-menuitem-remove-all-logins = Fjarlægja allar innskráningar...
 about-logins-menu-menuitem-export-logins2 = Flytja út lykilorð...
 about-logins-menu-menuitem-remove-all-logins2 = Fjarlægja öll lykilorð…
 menu-menuitem-preferences =
@@ -42,21 +34,6 @@ about-logins-menu-menuitem-help = Hjálp
 
 login-list =
     .aria-label = Innskráningar sem passa við leitarfyrirspurn
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } innskráning
-       *[other] { $count } innskráningar
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $count } af { $total } innskráningum
-       *[other] { $count } af { $total } innskráningum
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -80,14 +57,10 @@ login-list-username-reverse-option = Notandanafn (Ö-A)
 about-logins-login-list-alerts-option = Aðvaranir
 login-list-last-changed-option = Síðast breytt
 login-list-last-used-option = Síðast notað
-login-list-intro-title = Engar innskráningar fundust
 login-list-intro-title2 = Engin lykilorð vistuð
 login-list-intro-description = Þegar þú vistar lykilorð í { -brand-product-name } mun það birtast hér.
-about-logins-login-list-empty-search-title = Engar innskráningar fundust
 about-logins-login-list-empty-search-title2 = Engin lykilorð fundust
 about-logins-login-list-empty-search-description = Engar niðurstöður passa við leitina þína.
-login-list-item-title-new-login = Ný innskráning
-login-list-item-subtitle-new-login = Settu inn innskráningarauðkennin þín
 login-list-item-title-new-login2 = Bæta við lykilorði
 login-list-item-subtitle-missing-username = (ekkert notandanafn)
 about-logins-list-item-breach-icon =
@@ -103,28 +76,20 @@ about-logins-list-section-week = Síðustu 7 daga
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Ertu að leita að vistuðum innskráningum þínum? Kveiktu á samstillingu eða flyttu þær inn.
-about-logins-login-intro-heading-logged-in = Engar samstilltar innskráningar fundust.
-login-intro-description = Ef þú vistaðir innskráningar þínar á { -brand-product-name } á öðru tæki, muntu geta náð í þær svona:
-login-intro-instructions-fxa = Búðu til eða skráðu þig inn á { -fxaccount-brand-name } á tækinu þar sem innskráningar þínar eru vistaðar.
 about-logins-login-intro-heading-message = Vistaðu lykilorðin þín á öruggum stað
 login-intro-description2 = Öll lykilorð sem þú vistar á { -brand-product-name } eru dulrituð. Auk þess fylgjumst við með gagnaránum og látum þig vita ef þú kemur við sögu. <a data-l10n-name="breach-alert-link">Frekari upplýsingar</a>
 login-intro-instructions-fxa2 = Búðu til eða skráðu þig inn á reikninginn þinn á tækinu þar sem innskráningar þínar eru vistaðar.
 login-intro-instructions-fxa-settings = Farðu í Stillingar > Samstilling > Kveikja á samstillingu... Veldu gátreitinn fyrir innskráningar og lykilorð.
 login-intro-instructions-fxa-passwords-help = Farðu í <a data-l10n-name="passwords-help-link">aðstoð fyrir lykilorð</a> til að fá frekari hjálp.
-about-logins-intro-browser-only-import = Ef innskráningar þínar eru vistaðar í öðrum vafra geturðu <a data-l10n-name="import-link">flutt þær inn í { -brand-product-name }</a>
-about-logins-intro-import2 = Ef innskráningar þínar eru vistaðar utan { -brand-product-name } geturðu <a data-l10n-name="import-browser-link">flutt þau inn úr öðrum vafra</a> eða <a data-l10n-name="import-file-link">úr skrá</a>
 about-logins-intro-import3 = Veldu plús-táknið hér að ofan til að bæta núna við lykilorði. Þú getur líka <a data-l10n-name="import-browser-link">flutt inn lykilorð úr öðrum vafra</a> eða <a data-l10n-name="import-file-link">úr skrá</a> a>.
 
 ## Login
 
-login-item-new-login-title = Búa til nýja innskráningu
 # Header for adding a password
 about-logins-login-item-new-login-title = Bæta við lykilorði
 login-item-edit-button = Breyta
 about-logins-login-item-remove-button = Fjarlægja
 login-item-origin-label = Vistfang vefsvæðis
-login-item-tooltip-message = Gakktu úr skugga um að þetta passi nákvæmlega við vistfang vefsíðunnar þar sem þú skráir þig inn.
 about-logins-origin-tooltip2 = Sláðu inn allt vistfangið og vertu viss um að það passi nákvæmlega við þar sem þú skráir þig inn.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -144,7 +109,6 @@ login-item-password-conceal-checkbox =
     .aria-label = Fela lykilorð
 login-item-copy-password-button-text = Afrita
 login-item-copied-password-button-text = Afritað!
-login-item-save-changes-button = Vista breytingar
 about-logins-login-item-save-changes-button = Vista
 login-item-save-new-button = Vista
 login-item-cancel-button = Hætta við
@@ -168,11 +132,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Til að breyta innskráningunni þinni, skaltu setja inn Windows-innskráningarauðkennin þín. Þetta hjálpar til við að tryggja öryggi reikninganna þinna.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = breyta vistuðu innskráningunni
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -196,11 +155,6 @@ about-logins-copy-password-os-auth-dialog-message-win = Til að afrita lykilorð
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = afrita vistaða lykilorðið
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Til að flytja út innskráningarnar þínar, skaltu setja inn Windows-innskráningarauðkennin þín. Þetta hjálpar til við að tryggja öryggi reikninganna þinna.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = flytja út vistaðar innskráningar og lykilorð
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = Til að flytja út lykilorðið þitt, skaltu setja inn Windows-innskráningarauðkennin þín. Þetta hjálpar til við að tryggja öryggi reikninganna þinna.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -218,8 +172,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Hætta við
 confirmation-dialog-dismiss-button =
     .title = Hætta við
-about-logins-confirm-remove-dialog-title = Fjarlægja þessa innskráningu?
-confirm-delete-dialog-message = Þessa aðgerð er ekki hægt að afturkalla.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Fjarlægja lykilorð?
 # Message for modal to confirm the removal of one saved password
@@ -234,34 +186,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] Fjarlægja
         [one] Fjarlægja
        *[other] Fjarlægja allt
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] Já, fjarlægja þessa innskráningu
-        [one] Já, fjarlægja þessa innskráningu
-       *[other] Já, fjarlægja þessar innskráningar
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] Fjarlægja { $count } innskráningu?
-       *[other] Fjarlægja allar { $count } innskráningar?
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] Þetta mun fjarlægja innskráninguna sem þú hefur vistað á { -brand-short-name } og allar innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
-        [one] Þetta mun fjarlægja innskráninguna sem þú hefur vistað á { -brand-short-name } og allar innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
-       *[other] Þetta mun fjarlægja innskráningarnar sem þú hefur vistað á { -brand-short-name } og allar innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] Fjarlægja { $count } innskráningu úr öllum tækjum?
-       *[other] Fjarlægja allar { $count } innskráningar úr öllum tækjum?
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [1] Þetta mun fjarlægja innskráninguna sem þú vistaðir í { -brand-short-name } á öllum tækjum sem eru samstillt við { -fxaccount-brand-name }. Þetta mun einnig fjarlægja innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
-        [one] Þetta mun fjarlægja innskráninguna sem þú vistaðir í { -brand-short-name } á öllum tækjum sem eru samstillt við { -fxaccount-brand-name }. Þetta mun einnig fjarlægja innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
-       *[other] Þetta mun fjarlægja allar innskráningar sem þú hefur vistað á { -brand-short-name } á öllum tækjum sem eru samstillt við { -fxaccount-brand-name }. Þetta mun einnig fjarlægja innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -299,15 +223,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = Flytja út innskráningar og lykilorð
-about-logins-confirm-export-dialog-message = Lykilorðin þín verða vistuð sem læsilegur texti (t.d. BadP@ssw0rd) svo allir sem geta opnað útfluttu skrána geta skoðað þau.
-about-logins-confirm-export-dialog-confirm-button = Flytja út…
 about-logins-confirm-export-dialog-title2 = Athugasemd um útflutning lykilorða
 about-logins-confirm-export-dialog-message2 =
     Þegar þú flytur út lykilorð, eru þau vistuð í skrá með læsilegum texta.
     Þegar þú ert búinn að nota skrána mælum við með að þú eyðir henni svo aðrir sem nota þetta tæki geti ekki séð lykilorðin þín.
 about-logins-confirm-export-dialog-confirm-button2 = Halda áfram með útflutning
-about-logins-alert-import-title = Innflutningi lokið
 about-logins-alert-import-message = Skoða nákvæmt innflutningsyfirlit
 confirm-discard-changes-dialog-title = Henda óvistuðum breytingum?
 confirm-discard-changes-dialog-message = Allar óvistaðar breytingar munu tapast.
@@ -344,11 +264,6 @@ about-logins-error-message-default = Villa kom upp þegar reynt var að vista þ
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Flytja út skrá með innskráningum
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = innskraningar.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = Flytja út lykilorð frá { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -364,8 +279,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = Flytja inn skrá með innskráningum
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = Flytja lykilorð inn í { -brand-short-name }
 about-logins-import-file-picker-import-button = Flytja inn
@@ -389,21 +302,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Innflutningi lokið
-about-logins-import-dialog-items-added =
-    { $count ->
-        [one] <span>Nýrri innskráningu bætt við:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Nýjum innskráningum bætt við:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-        [one] <span>Fyrirliggjandi innskráning uppfærð:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Fyrirliggjandi innskráningar uppfærðar:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-        [one] <span>Tvítekin innskráning fannst:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ekki flutt inn)</span >
-       *[other] <span>Tvíteknar innskráningar fundust:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ekki flutt inn)</span >
-    }
 about-logins-import-dialog-items-added2 =
     { $count ->
         [one] <span>Nýju lykilorði bætt við:</span> <span data-l10n-name="count">{ $count }</span>
@@ -439,15 +337,11 @@ about-logins-import-dialog-error-learn-more = Frekari upplýsingar
 about-logins-import-dialog-error-try-import-again = Reyna að flytja inn aftur…
 about-logins-import-dialog-error-cancel = Hætta við
 about-logins-import-report-title = Samantekt innflutnings
-about-logins-import-report-description = Innskráningar og lykilorð flutt inn í { -brand-short-name }.
 about-logins-import-report-description2 = Lykilorð flutt inn í { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Röð { $number }
-about-logins-import-report-row-description-no-change = Tvítak: Nákvæm samsvörun við fyrirliggjandi innskráningu
-about-logins-import-report-row-description-modified = Fyrirliggjandi innskráning uppfærð
-about-logins-import-report-row-description-added = Nýrri innskráningu bætt við
 about-logins-import-report-row-description-no-change2 = Tvítak: Nákvæm samsvörun við fyrirliggjandi færslu
 about-logins-import-report-row-description-modified2 = Fyrirliggjandi færsla uppfærð
 about-logins-import-report-row-description-added2 = Nýju lykilorði bætt við
@@ -464,21 +358,6 @@ about-logins-import-report-row-description-error-missing-field = Villa: Vantar {
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nýrri innskráningu bætt við</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nýjum innskráningum bætt við</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Fyrirliggjandi innskráning uppfærð</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Fyrirliggjandi innskráningar uppfærðar</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tvítekin innskráning</div> <div data-l10n-name="not-imported">(ekki flutt inn)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tvíteknar innskráningar</div> <div data-l10n-name="not-imported">(ekki flutt inn)</div>
-    }
 about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nýju lykilorði bætt við</div>

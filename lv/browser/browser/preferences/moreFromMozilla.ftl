@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Vairāk no { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Vairāk no { -vendor-short-name }
 more-from-moz-subtitle = Apskatiet citus { -vendor-short-name } produktus, kas atbalsta veselīgu internetu.
@@ -31,6 +30,5 @@ more-from-moz-firefox-relay-button = Iegūt { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Automātiski atgūt savu atklāto personas informāciju.
 more-from-moz-mozilla-monitor-global-description = Saņemiet brīdinājumus, ja jūsu dati tika nopludināti.
 more-from-moz-mozilla-monitor-button = Iegūt { -monitor-brand-short-name }

@@ -8,6 +8,3 @@ popup-notification-more-actions-button =
 popup-notification-default-button2 =
     .label = אישור
     .accesskey = א
-popup-notification-default-button =
-    .label = הבנתי!
-    .accesskey = ק

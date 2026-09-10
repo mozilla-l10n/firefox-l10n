@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Jaden bok slědk ({ $shortcut })
     .aria-label = Slědk
+    .tooltiptext = Jaden bok slědk ({ $shortcut })
     .accesskey = S
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Jaden bok doprědka ({ $shortcut })
     .aria-label = Doprědka
+    .tooltiptext = Jaden bok doprědka ({ $shortcut })
     .accesskey = D
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Bok ako cytańske znamje składowaś …
-    .accesskey = c
     .tooltiptext = Bok ako cytańske znamje składowaś
+    .accesskey = c
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Bok ako cytańske znamje składowaś …
-    .accesskey = c
     .tooltiptext = Bok ako cytańske znamje składowaś ({ $shortcut })
+    .accesskey = c
 main-context-menu-edit-bookmark =
     .aria-label = Cytańske znamje wobźěłaś…
-    .accesskey = z
     .tooltiptext = Cytańske znamje wobźěłaś
+    .accesskey = z
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Cytańske znamje wobźěłaś…
-    .accesskey = z
     .tooltiptext = Cytańske znamje wobźěłaś ({ $shortcut })
+    .accesskey = z
 main-context-menu-open-link =
     .label = Wótkaz wócyniś
     .accesskey = c
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Wótkaz składowaś ako…
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = Wótkaz do { -pocket-brand-name } składowaś
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Zmóžniśo synchroniza
 main-context-menu-send-to-mobile-connect-phone3 = Zwěžćo rěd, aby rejtariki pósłał
 main-context-menu-send-to-mobile-connect-phone-from-link = Zwěžćo rěd, aby wótkaz pósłał
 main-context-menu-send-to-mobile-connect-phone-from-page = Zwěžćo rěd, aby bok pósłał
-main-context-menu-save-to-pocket =
-    .label = Bok do { -pocket-brand-name } składowaś
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Bok na rěd pósłaś
-    .accesskey = B
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Skłaźone pśizjawjenje wužywaś
-    .accesskey = S
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Skłaźone gronidło wužywaś
     .accesskey = r
-
-##
-
 main-context-menu-use-relay-mask =
     .label = E-mailowu masku { -relay-brand-short-name } wužywaś
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = Mócne gronidło naraźiś…
     .accesskey = M
-main-context-menu-manage-logins2 =
-    .label = Pśizjawjenja zastojaś
-    .accesskey = P
 main-context-menu-manage-passwords =
     .label = Gronidła zastojaś
     .accesskey = z
-main-context-menu-keyword =
-    .label = Gronidło za toś to pytanje pśidaś…
-    .accesskey = G
 main-context-menu-add-engine =
     .label = Pytnicu pśidaś
     .accesskey = P
@@ -391,9 +364,6 @@ main-context-menu-view-selection-source =
     .label = Žrědłowy tekst wuběrka zwobrazniś
     .accesskey = t
 main-context-menu-take-screenshot =
-    .label = Foto wobrazowki gótowaś
-    .accesskey = o
-main-context-menu-take-frame-screenshot =
     .label = Foto wobrazowki gótowaś
     .accesskey = o
 main-context-menu-view-page-source =

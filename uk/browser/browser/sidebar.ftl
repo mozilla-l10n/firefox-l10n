@@ -37,7 +37,6 @@ sidebar-history-clear =
     .label = Стерти історію
 sidebar-history-sort-by-heading-menucaption =
     .label = Сортувати:
-sidebar-history-sort-by-heading = Сортувати:
 sidebar-history-sort-option-date =
     .label = За датою
 sidebar-history-sort-option-site =
@@ -57,16 +56,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Розширення бічної панелі
-sidebar-customize-firefox-tools-header =
-    .label = Інструменти { -brand-product-name }
 sidebar-customize-firefox-settings = Керувати налаштуваннями { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Вертикальні вкладки
 sidebar-settings2 =
     .label = Налаштування
-sidebar-settings =
-    .label = Налаштування бічної панелі
 sidebar-hide-tabs-and-sidebar =
     .label = Приховати вкладки та бічну панель
 sidebar-show-on-the-right =
@@ -86,8 +80,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Керувати розширенням
-sidebar-context-menu-remove-extension =
-    .label = Вилучити розширення
 sidebar-context-menu-report-extension =
     .label = Поскаржитись на розширення
 sidebar-context-menu-open-in-tab =

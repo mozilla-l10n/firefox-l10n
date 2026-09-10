@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxviewtabrow-open-menu-button =
-    .title = Отвори мени
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
@@ -24,10 +22,6 @@ fxviewtabrow-dismiss-tab-button =
     .title = Одбаци { $tabTitle }
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Управо сад
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-delete = Обриши
     .accesskey = О
 fxviewtabrow-forget-about-this-site = Заборави овај сајт…
@@ -57,8 +51,6 @@ fxviewtabrow-send-to-device = Пошаљи на уређај
     .accesskey = у
 fxviewtabrow-send-to-mobile = Пошаљи на мобилни
     .accesskey = н
-fxviewtabrow-send-tab = Пошаљи језичак на уређај
-    .accesskey = у
 fxviewtabrow-pin-tab = Закачи језичак
     .accesskey = к
 fxviewtabrow-unpin-tab = Откачи језичак
@@ -82,8 +74,5 @@ fxviewtabrow-send-to-mobile-connect-device = Повежите уређај за 
 fxviewtabrow-send-to-mobile-device-missing2 = Не видите свој уређај?
 fxviewtabrow-send-to-mobile-not-verified = Налог није потврђен
 fxviewtabrow-send-to-mobile-verify-account = Потврдите налог
-
-## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
-
 fxviewtabrow-send-to-mobile-sign-in = Пријави се за слање језичака
 fxviewtabrow-send-to-mobile-turn-on-sync = Укључите усклађивање за слање језичака

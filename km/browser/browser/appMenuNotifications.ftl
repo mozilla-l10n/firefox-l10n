@@ -5,15 +5,9 @@
 appmenu-theme-installed =
     .secondarybuttonlabel = មិន​ធ្វើ​វិញ​
     .secondarybuttonaccesskey = U
-appmenu-addon-private-browsing-installed2 =
-    .buttonlabel = យល់ព្រម
-    .buttonaccesskey = O
-appmenu-addon-post-install-incognito-checkbox =
-    .label = អនុញ្ញាតឱ្យផ្នែកបន្ថែមនេះដំណើរការនៅក្នុងវីនដូឯកជន
-    .accesskey = ក
 appmenu-tab-hide-controlled =
-    .label = ចូលប្រើផ្ទាំងដែលបានលាក់របស់អ្នក
     .buttonlabel = បន្តលាក់ផ្ទាំង
     .buttonaccesskey = K
+    .label = ចូលប្រើផ្ទាំងដែលបានលាក់របស់អ្នក
     .secondarybuttonlabel = មិនអនុញ្ញាតផ្នែកបន្ថែម
     .secondarybuttonaccesskey = D

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-protections-panel-sendreportview-error = Un error ha occurrite durante le invio del reporto. Per favor prova de novo plus tarde.
-# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
-protections-panel-sitefixedsendreport-label = Sito corrigite? Invia un reporto
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -23,11 +20,6 @@ protections-panel-etp-more-info =
     .aria-label = Saper plus sur le protection antitraciamento reinfortiate
 protections-panel-etp-on-header = Le protection antitraciamento reinfortiate es ACTIVE pro iste sito
 protections-panel-etp-off-header = Le protection antitraciamento reinfortiate es INACTIVE pro iste sito
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Sito non functiona?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Sito non functiona?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -35,20 +27,18 @@ protections-panel-site-not-working-view =
 ##   $host (String): the hostname of the site that is being displayed.
 
 protections-panel-etp-toggle-on =
-    .label = Protection antitraciamento reinfortiate
-    .description = Active pro iste sito
     .aria-label = Protection antitraciamento reinfortiate: active pro { $host }
-protections-panel-etp-toggle-off =
+    .description = Active pro iste sito
     .label = Protection antitraciamento reinfortiate
-    .description = Disactivate pro iste sito
+protections-panel-etp-toggle-off =
     .aria-label = Protection antitraciamento reinfortiate. Disactivate pro { $host }
+    .description = Disactivate pro iste sito
+    .label = Protection antitraciamento reinfortiate
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = Proque?
-protections-panel-not-blocking-why-etp-on-tooltip = Blocar istes poterea rumper elementos de alcun sitos web. Sin traciatores, alcun buttones, formularios e campos de aperir session poterea non functionar.
-protections-panel-not-blocking-why-etp-off-tooltip = Tote le traciatores sur iste sito ha essite cargate perque le protectiones ha essite disactivate.
 protections-panel-not-blocking-why-etp-on-tooltip-label =
     .label = Blocar istes poterea rumper elementos de alcun sitos web. Sin traciatores, alcun buttones, formularios e campos de aperir session poterea non functionar.
 protections-panel-not-blocking-why-etp-off-tooltip-label =
@@ -94,23 +84,6 @@ smartblock-placeholder-content-header = Contento de integration blocate
 
 protections-panel-settings-label = Parametros de protection
 protections-panel-protectionsdashboard-label = Pannello de protectiones
-
-## In the Site Not Working? view, we suggest turning off protections if
-## the user is experiencing issues with any of a variety of functionality.
-
-# The header of the list
-protections-panel-site-not-working-view-header = Disactiva protectiones si tu ha problemas con:
-# The list items, shown in a <ul>
-protections-panel-site-not-working-view-issue-list-login-fields = Campos de credentiales
-protections-panel-site-not-working-view-issue-list-forms = Formularios
-protections-panel-site-not-working-view-issue-list-payments = Pagamentos
-protections-panel-site-not-working-view-issue-list-comments = Commentos
-protections-panel-site-not-working-view-issue-list-videos = Videos
-protections-panel-site-not-working-view-issue-list-fonts = Typos de characteres
-protections-panel-site-not-working-view-send-report = Inviar un reporto
-
-##
-
 protections-panel-cross-site-tracking-cookies = Iste cookies te seque de sito a sito pro colliger datos sur lo que tu face in linea. Illos es deponite per tertios como companias de publicitate e de analyse de datos.
 protections-panel-cryptominers = Cryptominatores usa le potentia de calculo de tu systema pro excavar moneta digital. Scripts de cryptominage exhauri tu batteria, relenta tu computator e pote accrescer le factura de tu energia.
 protections-panel-fingerprinters = Le dactylogrammatores collige parametros de tu navigator e computator pro crear un profilo de te. Usante iste identitate digital, illos pote traciar te inter differente sitos web.
@@ -123,33 +96,10 @@ protections-panel-shim-allowed-indicator =
 protections-panel-content-blocking-manage-settings =
     .label = Gerer parametros de protection
     .accesskey = t
-protections-panel-content-blocking-breakage-report-view =
-    .title = Reportar sito rupte
-protections-panel-content-blocking-breakage-report-view-description = Blocar certe traciatores pote causar problemas con alcun sitos web. Reportar iste problemas adjuta a meliorar { -brand-short-name } pro totes. Le invio de iste reporto transmittera a Mozilla un URL e informationes sur le configuration de tu navigator. <label data-l10n-name="learn-more">Saper plus</label>
-protections-panel-content-blocking-breakage-report-view-collection-url = URL
-protections-panel-content-blocking-breakage-report-view-collection-url-label =
-    .aria-label = URL
-protections-panel-content-blocking-breakage-report-view-collection-comments = Optional: describe le problema
-protections-panel-content-blocking-breakage-report-view-collection-comments-label =
-    .aria-label = Optional: describe le problema
-protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = Cancellar
-protections-panel-content-blocking-breakage-report-view-send-report =
-    .label = Inviar le reporto
-
-# Cookie Banner Handling
-
-protections-panel-cookie-banner-handling-header = Reduction de banner pro le cookie
 protections-panel-cookie-banner-blocker-header = Blocator de bandiera pro cookie
 protections-panel-cookie-banner-handling-enabled = Activar pro iste sito
 protections-panel-cookie-banner-handling-disabled = Disactivar pro iste sito
 protections-panel-cookie-banner-handling-undetected = Sito actualmente non supportate
-protections-panel-cookie-banner-view-title =
-    .title = Reduction de banner pro le cookie
-# Variables
-#  $host (String): the hostname of the site that is being displayed.
-protections-panel-cookie-banner-view-turn-off-for-site = Disactivar le Reduction de bandieras pro cookies pro { $host }?
-protections-panel-cookie-banner-view-turn-on-for-site = Activar le Reduction de bandieras pro cookies pro iste sito?
 protections-panel-cookie-banner-blocker-view-title =
     .title = Blocator de bandiera pro cookie
 # Variables
@@ -157,10 +107,6 @@ protections-panel-cookie-banner-blocker-view-title =
 protections-panel-cookie-banner-blocker-view-turn-off-for-site = Disactivar le blocada de bandieras pro cookies pro { $host }?
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Activar le Blocada bandieras pro cookies pro iste sito?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } radera le cookies de iste sito e actualisara le pagina. Rader tote le cookies pote clauder tu session o vacuar tu carrettos de compras.
-protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } tenta rejectar automaticamente tote le requestas de cookies sur le sitos supportate.
-protections-panel-cookie-banner-view-cancel = Cancellar
-protections-panel-cookie-banner-view-turn-off = Disactivar
-protections-panel-cookie-banner-view-turn-on = Activar
 protections-panel-cookie-banner-blocker-view-turn-on-description = Activa lo e { -brand-short-name } essayara refusar automaticamente le bandieras pro cookies sur iste sito.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Cancellar

@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Menyinkronkan…
 sync-disconnect-dialog-title2 = Putuskan?
 sync-disconnect-dialog-body = { -brand-product-name } akan berhenti menyinkronkan akun Anda, tetapi tidak akan menghapus data penjelajahan pada perangkat ini.
 sync-disconnect-dialog-button = Putuskan
-fxa-signout-dialog2-title = Keluar dari { -fxaccount-brand-name }?
 fxa-signout-dialog-title2 = Keluar dari akun Anda?
 fxa-signout-dialog-body = Data yang telah tersinkronisasi akan tetap berada di akun Anda
 fxa-signout-dialog2-button = Keluar
@@ -18,10 +17,6 @@ fxa-menu-turn-on-sync =
 fxa-menu-turn-on-sync-default = Aktifkan Sinkronisasi
 fxa-menu-connect-another-device =
     .label = Sambungkan Peranti Lain…
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label = Kirim Tab ke { $tabCount } Peranti
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Menyinkronkan Peranti…

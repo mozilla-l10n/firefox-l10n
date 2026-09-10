@@ -30,11 +30,11 @@ third-party-tag-background = بیک گراؤنڈ
         ایں ماڈیول ایپلیکیشن کوں بلاک نہیں کیتا کیوں جو اینکوں لوڈ کیتا ڳیا ہا
         بیک گراؤنڈ وِچ۔
 third-party-icon-unsigned =
-    .title = ایہ ماڈیول دستخط شدہ کائنی
     .alt = ایہ ماڈیول دستخط شدہ کائنی
+    .title = ایہ ماڈیول دستخط شدہ کائنی
 third-party-icon-warning =
-    .title = { -brand-short-name } ایں ماڈیول دے کوڈ وِچ کریش تھی ڳیا ہے۔
     .alt = { -brand-short-name } ایں ماڈیول دے کوڈ وِچ کریش تھی ڳیا ہے۔
+    .title = { -brand-short-name } ایں ماڈیول دے کوڈ وِچ کریش تھی ڳیا ہے۔
 third-party-status-loaded = لوڈ تھی ڳیا
 third-party-status-blocked = بلاک تھی ڳیا
 third-party-status-redirected = ری ڈائریکٹ کیتا ڳیا
@@ -46,30 +46,17 @@ third-party-button-reload = سسٹم دی معلومات دے نال دوبار�
     .title = سسٹم دی معلومات دے نال دوبارہ لوڈ کرو
 third-party-button-open =
     .title = فائل محل وقوع کھولو …
-third-party-button-to-block =
-    .title = ایہ ماڈیول بلاک کرو
-    .aria-label = ایہ ماڈیول بلاک کرو
-third-party-button-to-unblock =
-    .title = فی الحال بلاک ہے۔اݨ بلاک کیتے اینکوں کلک کرو۔
-    .aria-label = فی الحال بلاک ہے۔اݨ بلاک کیتے اینکوں کلک کرو۔
-third-party-button-to-unblock-disabled =
-    .title =
-        فی الحال بلاک دے بطور نشان زد کیتا ڳیا ہے، حالانکہ بلاک لسٹ ایں چلݨ کیتے غیر فعال ہے
-        { -brand-short-name } دے۔ اینکوں ان بلاک کرݨ کیتے کلک کرو۔
-    .aria-label =
-        فی الحال بلاک دے بطور نشان زد کیتا ڳیا ہے، حالانکہ بلاک لسٹ ایندے چلݨ کیتے غیر فعال ہے
-        { -brand-short-name } دے۔ اینکوں ان بلاک کرݨ کیتے کلک کرو۔
 third-party-button-to-block-module = ایہ ماڈیول بلاک کرو
-    .title = ایہ ماڈیول بلاک کرو
     .aria-label = ایہ ماڈیول بلاک کرو
+    .title = ایہ ماڈیول بلاک کرو
 third-party-button-to-unblock-module = ایہ ماڈیول اݨ بلاک کرو
-    .title = حالیہ بلاک تھیا ہوئے۔ ایں کوں اݨ بلاک کرݨ کیتے کلک کرو۔
     .aria-label = حالیہ بلاک تھیا ہوئے۔ ایں کوں اݨ بلاک کرݨ کیتے کلک کرو۔
+    .title = حالیہ بلاک تھیا ہوئے۔ ایں کوں اݨ بلاک کرݨ کیتے کلک کرو۔
 third-party-button-to-unblock-module-disabled = اِیں ماڈیول کوں اَنبلاک کرو (بلاک لِسٹ اِیں ویلے غیر فعال ہِے)
-    .title =
+    .aria-label =
         اِیں ویلے بلاک تھئے ہوئے دے طور تے نشان زد کِیتا ڳِیا ہِے، بھان٘ویں جو بلاک لِسٹ اِیں رن کِیتے غیر فعال ہِے۔ 
         { -brand-short-name } دا۔ اِیکوں اَنبلاک کرݨ کِیتے اِتّھاں دباؤ۔
-    .aria-label =
+    .title =
         اِیں ویلے بلاک تھئے ہوئے دے طور تے نشان زد کِیتا ڳِیا ہِے، بھان٘ویں جو بلاک لِسٹ اِیں رن کِیتے غیر فعال ہِے۔ 
         { -brand-short-name } دا۔ اِیکوں اَنبلاک کرݨ کِیتے اِتّھاں دباؤ۔
 third-party-button-expand =
@@ -81,5 +68,5 @@ third-party-should-restart-title = نویں سروں چلاؤ { -brand-short-nam
 third-party-restart-now = ہُݨ ولدا شروع کرو
 third-party-restart-later = بعد اِچ نویں سروں شروع کرو
 third-party-blocked-by-builtin =
-    .title = { -brand-short-name } ولوں بلاک تھیا
     .alt = { -brand-short-name } ولوں بلاک تھیا
+    .title = { -brand-short-name } ولوں بلاک تھیا

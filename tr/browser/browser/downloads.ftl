@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Finder’da göster
            *[other] Klasörde göster
         }
-downloads-cmd-show-downloads =
-    .label = İndirilenler klasörünü göster
 downloads-cmd-retry =
     .tooltiptext = Yeniden dene
 downloads-cmd-retry-panel =

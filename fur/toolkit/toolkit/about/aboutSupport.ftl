@@ -29,10 +29,6 @@ security-software-name = Non
 security-software-antivirus = Antivirus
 security-software-antispyware = Antispyware
 security-software-firewall = Firewall
-features-title = Funzionalitâts di { -brand-short-name }
-features-name = Non
-features-version = Version
-features-id = ID
 processes-title = Procès lontans
 processes-type = Gjenar
 processes-count = Conte
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] Cartele dal profîl
        *[other] Cartele dal profîl
     }
-app-basics-enabled-plugins = Plugins atîfs
 app-basics-build-config = Configurazion de compilazion
 app-basics-user-agent = Agjent utent
 app-basics-os = SO
@@ -96,9 +91,6 @@ show-dir-label =
 environment-variables-title = Variabilis di ambient
 environment-variables-name = Non
 environment-variables-value = Valôr
-experimental-features-title = Funzionalitâts sperimentâls
-experimental-features-name = Non
-experimental-features-value = Valôr
 modified-key-prefs-title = Preferencis impuartantis modificadis
 modified-prefs-name = Non
 modified-prefs-value = Valôr
@@ -210,9 +202,6 @@ media-cdm-capabilities = Funzionalitâts
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Inviament in clâr
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = Compatibilitât HDCP 2.2
 
 ##
 
@@ -384,8 +373,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Disativât pal esperiment
-fission-status-experiment-treatment = Ativât pal esperiment
 fission-status-disabled-by-e10s-env = Disativât dal ambient
 fission-status-enabled-by-env = Abilitât dal ambient
 fission-status-disabled-by-env = Disativât dal ambient
@@ -394,7 +381,6 @@ fission-status-disabled-by-default = Disativât in mût predefinît
 fission-status-enabled-by-user-pref = Abilitât dal utent
 fission-status-disabled-by-user-pref = Disativât dal utent
 fission-status-disabled-by-e10s-other = E10s disativât
-fission-status-enabled-by-rollout = Ativât de implementazion a fasis
 async-pan-zoom = Panoramiche/Zoom asincrons
 apz-none = nissun
 wheel-enabled = input rudiele atîf

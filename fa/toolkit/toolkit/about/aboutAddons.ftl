@@ -148,15 +148,10 @@ addon-sitepermission-host = اجازه‌های وبگاه برای { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = همهٔ افزودنی‌ها به دلیل مرور در حالت امن غیر فعال شده‌اند.
-extensions-warning-check-compatibility = کنترل سازگاری افزودنی‌ها غیر فعال است. ممکن است افزودنی‌های ناسازگاری داشته باشید.
-extensions-warning-safe-mode2 =
-    .message = همهٔ افزودنی‌ها به دلیل مرور در حالت امن غیر فعال شده‌اند.
 extensions-warning-check-compatibility2 =
     .message = کنترل سازگاری افزودنی‌ها غیر فعال است. ممکن است افزودنی‌های ناسازگاری داشته باشید.
 extensions-warning-check-compatibility-button = فعال کردن
     .title = فعال کردن کنترل سازگاری افزودنی‌ها
-extensions-warning-update-security = بررسی امنیتی بروزرسانی افزودنی‌ها غیر فعال است. ممکن است افزودنی‌های‌تان به صورت ناامن بروزرسانی شوند.
 extensions-warning-update-security2 =
     .message = بررسی امنیتی بروزرسانی افزودنی‌ها غیر فعال است. ممکن است افزودنی‌های‌تان به صورت ناامن بروزرسانی شوند.
 extensions-warning-update-security-button = فعال کردن
@@ -220,10 +215,6 @@ shortcuts-duplicate = میانبر تکراری
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } به عنوان میانبر در بیشتر از یک مورد استفاده شده. میانبرهای تکراری می‌توانند باعث رفتارهای غیر منتظره شوند.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } به عنوان میانبر در بیشتر از یک مورد استفاده شده. میانبرهای تکراری می‌توانند باعث رفتارهای غیر منتظره شوند.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -242,16 +233,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    افرونه‌ها و زمینه‌ها مانند کاره‌هایی برای مروگرتان هستند، و به شما اجازهٔ حفاظت از گذر‌واژه‌ها،
-    بارگیری ویدیوها، پیدا کردن معاملات، مسدود کردن تبلیغات مزاحم، تغییر ظاهر مرورگر و موارد
-    فراوان دیگری را می‌دهد. این برنامه‌های نرم‌افزاری کوچک اغلب به وسیلهٔ سوم‌شخص توسعه
-    داده شده‌‌اند. در این‌جا مجموعه‌ای <a data-l10n-name="learn-more-trigger">توصیه شده</a>
-    توسط { -brand-product-name } برای استثناهای امنیتی، کارایی و عملکرد وجود دارد.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = برخی از این توصیه‌ها شخصی‌سازی شده‌اند. آن‌ها بر اساس دیگر افزونه‌هایی که نصب کردید،‌ ترجیحات نمایه و آمار استفاده می‌باشند.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message = برخی از این توصیه‌ها شخصی‌سازی شده‌اند. آن‌ها بر اساس دیگر افزونه‌هایی که نصب کردید،‌ ترجیحات نمایه و آمار استفاده می‌باشند.
@@ -314,11 +295,6 @@ addon-detail-last-updated-label = آخرین بروزرسانی
 addon-detail-homepage-label = صفحه خانگی
 addon-detail-rating-label = امتیاز
 install-postponed-button = اکنون بروزرسانی کنید
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = امتیاز { NUMBER($rating, maximumFractionDigits: 1) } از ۵
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -334,9 +310,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> حذف شد.
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -356,11 +329,6 @@ addon-detail-group-label-updates =
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
     .title = در پنجره‌های ناشناس مجاز است
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
-    .title = در پنجره‌های ناشناس مجاز است
 addon-detail-private-browsing-help = در صورت اجازه، این افزونه هنگام مرور ناشناس به فعالیت‌های برخط شما دسترسی خواهد داشت. <a data-l10n-name="learn-more">بیشتر بیاموزید</a>
 addon-detail-private-browsing-allow = اجازه دادن
 addon-detail-private-browsing-disallow = اجازه نده
@@ -379,20 +347,12 @@ addon-detail-quarantined-domains-disallow = اجازه ندادن
 addon-detail-group-label-quarantined-domains =
     .aria-label = { addon-detail-quarantined-domains-label }
 
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } تنها افزونه‌هایی را توصیه میکند، که با استانداردهای ما برای امنیت و کارایی مطابقت دارند
-
 ##
 
 available-updates-heading = بروزرسانی‌های موجود
 recent-updates-heading = بروزرسانی‌های اخیر
 release-notes-loading = در حال بارگذاری…
 release-notes-error = متاسفیم، اما اشکالی در نمایش یادداشت‌های انتشار به وجود آمد.
-addon-permissions-empty = این افزونه به هیچ مجوزی نیاز ندارد
 addon-permissions-learnmore = درباره مجوزها بیشتر بدانید
 recommended-extensions-heading = افزونه‌های توصیه شده
 recommended-themes-heading = پوسته‌های توصیه شده
@@ -422,25 +382,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } با نسخهٔ { $version } از { -brand-short-name } ناسازگار است.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } با نسخهٔ { $version } از { -brand-short-name } ناسازگار است.
-details-notification-incompatible-link = اطلاعات بیشتر
-details-notification-unsigned-and-disabled = { $name } برای استفاده در { -brand-short-name } تایید نشده و به همین دلیل غیرفعال شد.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } برای استفاده در { -brand-short-name } تایید نشده و به همین دلیل غیرفعال شد.
-details-notification-unsigned-and-disabled-link = اطلاعات بیشتر
-details-notification-unsigned = { $name } برای استفاده در { -brand-short-name } تایید نشد. با احتیاط ادامه دهید.
 details-notification-unsigned2 =
     .message = { $name } برای استفاده در { -brand-short-name } تایید نشد. با احتیاط ادامه دهید.
-details-notification-unsigned-link = اطلاعات بیشتر
-details-notification-blocked = { $name } به دلیل مشکلات امنیتی یا پایداری غیر فعال گردیده است.
-details-notification-blocked-link = اطلاعات بیشتر
-details-notification-softblocked = { $name } مشکلات امنیتی یا پایداری ایجاد می‌کند.
-details-notification-softblocked-link = اطلاعات بیشتر
-details-notification-gmp-pending = { $name } به زودی نصب میشود.
 details-notification-gmp-pending2 =
     .message = { $name } به زودی نصب میشود.
 

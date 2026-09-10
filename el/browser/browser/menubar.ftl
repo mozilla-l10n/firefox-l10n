@@ -261,8 +261,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Προφίλ
 menu-profiles-manage-profiles =
     .label = Διαχείριση προφίλ
 menu-profiles-new-profile =
@@ -286,9 +284,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Επεκτάσεις και θέματα
     .accesskey = Ε
-menu-tools-addons-and-themes =
-    .label = Πρόσθετα και θέματα
-    .accesskey = Π
 menu-tools-fxa-sign-in2 =
     .label = Σύνδεση
     .accesskey = δ
@@ -345,8 +340,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Πληροφορίες επίλυσης προβλημάτων
     .accesskey = Π
-menu-help-report-site-issue =
-    .label = Αναφορά ζητήματος ιστοτόπου…
 menu-help-share-ideas =
     .label = Κοινοποίηση ιδεών και σχολίων…
     .accesskey = Κ

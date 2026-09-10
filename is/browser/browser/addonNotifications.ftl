@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Halda áfram í uppsetningu
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Þetta vefsvæði biður um aðgang að MIDI-tækjunum þínum (Musical Instrument Digital Interface). Hægt er að virkja aðgang að tæki með því að setja inn viðbót.
 site-permission-install-first-prompt-midi-message = Ekki er tryggt að þessi aðgangur sé öruggur. Haltu aðeins áfram ef þú treystir þessu vefsvæði.
 site-permission-install-first-prompt-serial-header = Þetta vefsvæði biður um aðgang að tengdu tækjunum þínum. Hægt er að virkja aðgang að tækjum með því að setja upp viðbót.
 site-permission-install-first-prompt-serial-message = Ekki er tryggt að þessi aðgangur sé öruggur. Haltu aðeins áfram ef þú treystir þessu vefsvæði.
-
-##
-
-xpinstall-disabled-locked = Kerfistjóri hefur gert hugbúnaðar uppsetningu óvirka.
 xpinstall-disabled-by-policy = Kerfistjóri hefur gert uppsetningu hugbúnaðar óvirka.
 xpinstall-disabled = Hugbúnaðar uppsetning er óvirk. Smelltu á Virkja og reyndu aftur.
 xpinstall-disabled-button =
     .label = Virkja
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) hefur verið lokað af kerfisstjóra þínum.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Kerfisstjórinn þinn kom í veg fyrir að vefsvæðið gæti spurt hvort það gæti sett upp hugbúnað á tölvunni.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = Ljúka við uppsetningu forritsauka flutta inn í { -br
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Fjarlægja { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Fjarlægja { $name } úr { -brand-shorter-name }?
 addon-removal-button = Fjarlægja
 addon-removal-abuse-report-checkbox = Tilkynna þessa viðbót til { -vendor-short-name }
 # "it" refers to the local AI model that is paired to the AI feature
@@ -142,7 +125,5 @@ addon-local-install-no-addon-name-error-file-access = Ekki tókst að setja inn 
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Ekki tókst að setja inn { $addonName } þar sem hún er ekki samhæfð við { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = { $addonName } brýtur gegn reglum Mozilla og er því ekki hægt að setja það upp á { -brand-short-name }.
-addon-install-error-blocklisted = Ekki tókst að setja inn { $addonName } þar sem viðbótin er þekkt fyrir að valda hrun eða öryggisvillum.
-addon-install-error-soft-blocked = { $addonName } brýtur gegn reglum Mozilla og er því ekki hægt að setja það upp á { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Þú getur ekki sett upp { $addonName } sem endanotandi, það getur aðeins verið sett upp af stofnun sem notar fyrirtækjastefnur.

@@ -25,27 +25,13 @@ account-send-to-all-devices-titlecase = ᱡᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱛᱮ �
 account-manage-devices-titlecase = ᱥᱟᱫᱷᱚᱱ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = ᱥᱟᱫᱷᱚᱱ ᱠᱚ ᱡᱚᱲᱟᱣ ᱵᱟᱹᱱᱩᱜ-ᱟ
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = ᱴᱮᱵᱽ ᱠᱚ ᱮᱢᱟᱱ ᱵᱷᱮᱡᱟ ᱵᱟᱵᱚᱛ ᱵᱟᱰᱟᱭ ᱢᱮ…
-# Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = ᱚᱞᱜᱟ ᱥᱟᱫᱷᱚᱱ ᱡᱩᱰᱟᱹᱣ ᱢᱮ…
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = ᱠᱷᱟᱛᱟ ᱟᱵᱝ ᱯᱩᱥᱴᱟᱹᱣ ᱠᱟᱱᱟ
 account-send-tab-to-device-verify2 = ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱯᱩᱥᱴᱟᱹᱣ ᱢᱮ
-account-send-tab-to-device-verify = ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱯᱩᱥᱴᱟᱹᱣ ᱢᱮ…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
-# The title shown in a notification when either this device or another device
-# has connected to, or disconnected from, a Firefox account.
-account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title-2 = ᱠᱷᱟᱛᱟ

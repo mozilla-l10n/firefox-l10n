@@ -32,11 +32,6 @@ genai-prompt-prefix-selection = ខ្ញុំនៅលើទំព័រ “{ 
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = សួរ AI Chatbot
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = សួរ { $provider }
 # $provider (string) - name of the provider
 genai-menu-open-provider =
     .label = បើក { $provider }
@@ -54,11 +49,6 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = សួរ { $provider }
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-lechat-price = ឥតគិតថ្លៃ; តម្រូវឲ្យមានគណនី
 
 ## Model Optin Component
 

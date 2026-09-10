@@ -242,8 +242,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = نمایه‌ها
 menu-profiles-manage-profiles =
     .label = مدیریت نمایه‌ها
 menu-profiles-new-profile =
@@ -257,9 +255,6 @@ menu-tools =
 menu-tools-downloads =
     .label = بارگیری‌ها
     .accesskey = ب
-menu-tools-addons-and-themes =
-    .label = افزونه‌ها و تم‌ها
-    .accesskey = ا
 menu-tools-fxa-sign-in2 =
     .label = وارد شدن
     .accesskey = g
@@ -313,8 +308,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = اطلاعات بیشتر
     .accesskey = ب
-menu-help-report-site-issue =
-    .label = مشکل سایت را گزارش کنید…
 menu-help-share-ideas =
     .label = همرسانی ایده‌ها و بازخوردها…
     .accesskey = س

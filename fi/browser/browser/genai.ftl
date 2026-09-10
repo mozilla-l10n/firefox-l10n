@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = Olen sivulla "{ $tabTitle }" ja "{ $selection }"
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Kysy AI-chatbotilta
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Kysy palvelulta { $provider }
 genai-menu-open-generic =
     .label = Avaa AI-chatbotti
 # $provider (string) - name of the provider
@@ -118,8 +113,6 @@ genai-header-provider-menu =
     .title = Valitse chatbotti
 genai-header-settings-button =
     .title = Tekoälykeskustelun asetukset
-genai-header-options-button =
-    .title = Avaa valikko
 genai-header-close-button =
     .title = Sulje
 genai-provider-view-details =
@@ -147,37 +140,25 @@ genai-page-button-summarize = Tee yhteenveto sivusta
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Tee yhteenveto, harjoita aivoriiheilyä ja muuta selaamisen aikana
 genai-onboarding-choose-header = Valitse { -brand-short-name }in sivupalkissa käytettävä AI-chatbotti
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Valitse käytettävä AI-chatbotti { -brand-short-name }in sivupalkista. Näytämme kunkin chatbotin tiedot, kun valitset sen. Vaihda milloin tahansa. <a data-l10n-name="learn-more">Lisätietoja</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Vaihda milloin tahansa. Jos tarvitset apua valinnassa, <a data-l10n-name="learn-more">lue lisää kustakin chatbotista</a>.
 genai-onboarding-primary = Jatka
 genai-onboarding-secondary = Sulje
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Lue lisää Claudesta
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Lue lisää ChatGPT:stä
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Lue lisää Copilotista
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Lue lisää Geministä
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = Lue lisää HuggingChatista
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Lue lisää Le Chatista
-genai-onboarding-select-header = Valitse teksti nähdäksesi ehdotukset
-genai-onboarding-select-description = Kun valitset tekstiä, ehdotamme kehotteita, jotka voit lähettää chatbotille. Voit myös kirjoittaa omia kehotteita.
-genai-onboarding-select-primary = Aloita keskustelu
 genai-chatbot-contextual-title = Käytä AI-chatbottia vaihtamatta välilehtiä
 genai-chatbot-contextual-subtitle = Keskustele ja selaa rinnakkain lisäämällä AI-chatbotti { -brand-short-name }in sivupalkkiin.
 genai-chatbot-contextual-button = Valitse chatbotti
@@ -190,27 +171,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = Napsauta hiiren oikealla pain
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Avaa tekoälychatbotti sivupalkista ja valitse alareunasta ”Tee yhteenveto sivusta”.
 genai-chatbot-summarize-footer-generic-subtitle = Lisää tekoälychatbot { -brand-short-name }in sivupalkkiin, jotta voit muodostaa yhteenvetoja sivujen sisällöstä.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Luo tekstiä ja koodia
-genai-onboarding-claude-analyze = Analysoi asiakirjoja ja kuvia
-genai-onboarding-claude-price = Ilmainen ja maksullinen vaihtoehto; tili vaaditaan
-genai-onboarding-chatgpt-generate = Luo tekstiä, kuvia ja koodia
-genai-onboarding-chatgpt-analyze = Analysoi asiakirjoja ja kuvia
-genai-onboarding-chatgpt-price = Ilmaiset ja maksulliset vaihtoehdot; tili vaaditaan joissakin maissa ja tehtävissä
-genai-onboarding-copilot-generate = Luo tekstiä, kuvia ja koodia
-genai-onboarding-copilot-analyze = Analysoi kuvia
-genai-onboarding-copilot-price = Ilmainen ja maksullinen vaihtoehto; tili vaaditaan joihinkin tehtäviin
-genai-onboarding-gemini-generate = Luo tekstiä, kuvia ja koodia
-genai-onboarding-gemini-analyze = Analysoi kuvia (ilmainen) ja asiakirjoja (maksullinen)
-genai-onboarding-gemini-price = Ilmainen ja maksullinen vaihtoehto; tili vaaditaan
-genai-onboarding-huggingchat-generate = Luo tekstiä ja koodia
-genai-onboarding-huggingchat-switch = Vaihda useiden avointen mallien välillä
-genai-onboarding-huggingchat-price-2 = Ilmainen; tili vaaditaan tietyn pyyntömäärän jälkeen
-genai-onboarding-lechat-generate = Luo tekstiä ja koodia
-genai-onboarding-lechat-price = Ilmainen; tili vaaditaan
 
 ## Model Optin Component
 
@@ -249,8 +209,8 @@ link-preview-generation-retry = Yritä uudelleen
 link-preview-settings-button =
     .title = Linkin esikatselun asetukset
 link-preview-settings-enable =
-    .label = Ota linkkien esikatselut käyttöön
     .description = Näe sivun otsikko, kuvaus ja muuta, kun käytät oikotietä tai hiiren oikean napsautusta linkin päällä.
+    .label = Ota linkkien esikatselut käyttöön
 link-preview-settings-key-points =
     .label = Anna tekoälyn lukea sivun alku ja luoda pääkohdat
 link-preview-settings-long-press =

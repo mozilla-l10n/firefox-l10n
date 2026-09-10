@@ -16,20 +16,9 @@ account-verify = { $email } doğrulansın
 account-send-to-all-devices-titlecase = Cihazlarnıñ episine yiber
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = Bağlanğan Cihazlar Yoq
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = İlmeklerniñ Yiberilüvi Aqqında Ögren…
-# Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = Başqa bir Cihaznı Bağla…
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Esap Doğrulanğan Degil
-account-send-tab-to-device-verify = Esabıñıznı Doğrulañız…
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.

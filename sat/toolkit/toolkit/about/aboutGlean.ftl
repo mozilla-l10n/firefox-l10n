@@ -43,7 +43,6 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
-about-glean-about-testing-header = ᱯᱚᱨᱤᱠᱷᱭᱟ ᱵᱟᱵᱚᱛ
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     ᱯᱩᱨᱟᱹ ᱚᱱᱚᱞ ᱠᱚ ᱱᱚᱣᱟ ᱨᱮ ᱥᱚᱫᱚᱨ ᱟᱠᱟᱱᱟ
@@ -52,8 +51,6 @@ about-glean-manual-testing =
     ᱢᱮᱱᱠᱷᱟᱱ, ᱠᱷᱟᱴᱚ ᱛᱮ ᱞᱟᱹᱭ ᱞᱮᱠᱷᱟᱱ, ᱟᱢᱟᱜ ᱤᱱᱥᱴᱨᱩᱢᱮᱱᱴᱮᱥᱚᱱ ᱱᱤᱡ ᱛᱮ ᱠᱚᱨᱟ ᱞᱮᱠᱷᱟᱱ ᱠᱟᱹᱢᱤ ᱠᱟᱱᱟᱭ ᱥᱮ ᱵᱟᱝᱟ, ᱟᱢ ᱫᱚ :
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ᱯᱤᱝ ᱫᱚ ᱟᱞᱚᱢ ᱡᱚᱢᱟᱭ ᱟ)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = ᱞᱟᱦᱟᱜ ᱠᱟᱱ ᱡᱟᱭᱜᱟ ᱨᱮ ᱢᱚᱱᱮ ᱠᱟᱜ ᱢᱮ ᱡᱮ ᱰᱮᱵᱩᱜᱽ ᱴᱮᱜᱽ ᱫᱚ ᱢᱚᱱᱮ ᱫᱚᱦᱚ ᱞᱮᱠᱷᱟ ᱪᱟᱦᱮᱸᱱ ᱢᱟᱸ ᱢᱮᱱᱠᱷᱟᱱ ᱟᱢ ᱫᱚ ᱟᱢᱟᱜ ᱯᱤᱝ ᱛᱟᱭᱚᱢ ᱛᱮ ᱩᱭᱦᱟᱹᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
@@ -77,15 +74,5 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">ᱟᱢᱟᱜ ᱴᱮᱜᱽ ᱥᱟᱞᱟᱜ ᱯᱤᱝ ᱠᱚ ᱞᱟᱹᱜᱤᱫ { glean-debug-ping-viewer-brand-name } ᱥᱟᱦᱴᱟ ᱪᱟᱞᱟᱜ ᱢᱮ </a>᱾
     ᱱᱚᱶᱟ ᱫᱚ ᱟᱹᱰᱤ ᱠᱚᱢ ᱴᱤᱡ ᱜᱟᱱ ᱤᱫᱤᱭᱟᱭ ᱵᱩᱛᱟᱹᱢ ᱞᱤᱱ ᱠᱟᱛᱮ ᱟᱢ ᱴᱷᱮᱱ ᱯᱤᱝ ᱥᱮᱴᱮᱨᱚᱜ ᱫᱷᱟᱹᱵᱤᱡ ᱾
     ᱛᱤᱧ ᱡᱷᱚᱜ ᱱᱟᱶᱟ ᱫᱚ ᱴᱤᱯᱤᱡ ᱜᱟᱱ ᱚᱠᱛᱚ ᱦᱚᱸ ᱤᱫᱤ ᱜᱮᱭᱟᱭ ᱾
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    ᱟᱨᱦᱚᱸ ᱰᱷᱮᱨ <i>ad hoc</i> ᱧᱮᱞ ᱵᱤᱲᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱛᱮ,
-    ᱟᱢ ᱫᱚ ᱤᱱᱥᱴᱨᱩᱢᱮᱱᱴᱮᱥᱚᱱ ᱨᱮᱭᱟᱜ ᱦᱟᱹᱴᱤᱧ ᱛᱮ ᱢᱤᱫ ᱱᱤᱛᱚᱜᱟᱜ ᱮᱞ ᱠᱚᱢ ᱧᱮᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ
-    devtools ᱠᱚᱱᱥᱚᱞ ᱱᱚᱰᱮ <code>about:glean</code> ᱨᱮ ᱠᱷᱩᱞᱟᱹ ᱠᱟᱛᱮ ᱟᱨ 
-    <code>testGetValue()</code> API ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱮ ᱡᱮᱞᱠᱟ
-    <code>Glean.metricCategory.metricName.testGetValue()</code> ᱾
 controls-button-label-verbose = ᱥᱟᱡᱟᱣᱠᱚ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱟᱨ ᱯᱤᱝ ᱡᱚᱢᱟᱭ ᱢᱮ
 about-glean-about-data-header = ᱰᱟᱴᱟ ᱵᱟᱵᱚᱛ
-about-glean-about-data-explanation =
-    ᱡᱟᱣᱨᱟ ᱠᱟᱱ ᱰᱟᱴᱟ ᱨᱮᱭᱟᱜ ᱞᱤᱥᱴᱤ ᱵᱽᱨᱟᱣᱡᱽ ᱞᱟᱹᱜᱤᱫ, ᱫᱟᱭᱟᱠᱟᱛᱮ
-    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } ᱥᱟᱵᱟᱫ ᱜᱟᱫᱮᱞ </a> ᱧᱮᱞ ᱢᱮ ᱾

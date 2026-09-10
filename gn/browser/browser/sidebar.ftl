@@ -40,7 +40,6 @@ sidebar-history-clear =
     .label = Embogue tembiasakue
 sidebar-history-sort-by-heading-menucaption =
     .label = Oñemoĩporã:
-sidebar-history-sort-by-heading = Oñemoĩporã:
 sidebar-history-sort-option-date =
     .label = Mba’ekuaarã
 sidebar-history-sort-option-site =
@@ -60,16 +59,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Jepysokue ta’ãngarupa ykegua
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name } rembiporu
 sidebar-customize-firefox-settings = Eñangareko { -brand-short-name } ñemboheko rehe
 sidebar-vertical-tabs =
     .label = Tendayke ñembo’y
 sidebar-settings2 =
     .label = Ñemboheko
-sidebar-settings =
-    .label = Emboheko ta’ãngarupa ykegua
 sidebar-hide-tabs-and-sidebar =
     .label = Eñomi tendayke ha tenda yke
 sidebar-open-tools-from-sidebar =
@@ -95,8 +89,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Eñangareko jepysokuére
-sidebar-context-menu-remove-extension =
-    .label = Emboguete jepysokue
 sidebar-context-menu-report-extension =
     .label = Marandu’i pukukue
 sidebar-context-menu-open-in-tab =

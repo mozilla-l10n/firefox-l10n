@@ -26,8 +26,6 @@ downloads-cmd-cancel-panel =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = பதிவிறக்க கோப்புறையைக் காண்பி
 downloads-cmd-retry =
     .tooltiptext = மறுமுயற்சி
 downloads-cmd-retry-panel =

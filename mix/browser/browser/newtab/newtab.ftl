@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Xikua tsàa
-newtab-settings-button =
-    .title = Sa'a nixi kunu koo pagina kitsau
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -41,7 +39,6 @@ newtab-search-box-search-button =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = Chika'a ñaa nduku
-newtab-topsites-edit-topsites-header = Sama sitio popular
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Chaa título
@@ -68,10 +65,6 @@ newtab-menu-section-tooltip =
 newtab-menu-content-tooltip =
     .aria-label = Kuna menú contextual takua { $title }
     .title = Kuna menú
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Sama sitio yo
-    .title = Sama sitio yo
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -82,9 +75,6 @@ newtab-menu-dismiss = Kasi
 newtab-menu-pin = Chita'an
 newtab-menu-unpin = Sia'a
 newtab-menu-delete-history = Stoò ntii ña ntsinu
-newtab-menu-save-to-pocket = Chika va'a nu { -pocket-brand-name }
-newtab-menu-delete-pocket = Stoo ña inka nu{ -pocket-brand-name }
-newtab-menu-archive-pocket = Chika va'a nu { -pocket-brand-name }
 
 ##
 
@@ -124,23 +114,7 @@ newtab-label-download = Snui
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Stoo ña nikatsiku
-newtab-section-menu-collapse-section = Sección de colapso
-newtab-section-menu-expand-section = Saa kanu ña nikatsiku
-newtab-section-menu-manage-section = Administrar sección
-newtab-section-menu-manage-webext = Gestionar extensión
-newtab-section-menu-add-topsite = Chika sitio popular
-newtab-section-menu-add-search-engine = Chika motor de búsqueda
-newtab-section-menu-move-up = Kanta kuchi
-newtab-section-menu-move-down = Kanta ninu
 newtab-section-menu-privacy-notice = Aviso de privacidad
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Saa luu sección
-newtab-section-expand-section-label =
-    .aria-label = Sa kanu sección
 
 ## Section Headers.
 
@@ -150,9 +124,3 @@ newtab-section-header-topsites = Sitios favoritos
 
 newtab-discovery-empty-section-topstories-try-again-button = kitsà tuku
 newtab-discovery-empty-section-topstories-loading = Sachuin
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Temas populares:
-newtab-pocket-cta-button = Nduku { -pocket-brand-name }

@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } — გაზიარების მაჩვენებელი
-webrtc-indicator-window =
-    .title = { -brand-short-name } — გაზიარების მაჩვენებელი
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = თქვენი მიკროფონი გაზიარებულია. დაწკაპეთ გაზიარების სამართავად.
 webrtc-screen-system-menu =
     .label = თქვენი ფანჯარა ან ეკრანი გაზიარებულია. დაწკაპეთ გაზიარების სამართავად.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = თქვენი კამერა და მიკროფონი გაზიარებულია. დააწკაპეთ გაზიარების სამართავად.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = თქვენი კამერა გაზიარებულია. დააწკაპეთ გაზიარების სამართავად.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = თქვენი მიკროფონი გაზიარებულია. დააწკაპეთ გაზიარების სამართავად.
-webrtc-indicator-sharing-application =
-    .tooltiptext = აპლიკაცია გაზიარებულია. დააწკაპეთ გაზიარების სამართავად.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = თქვენი ეკრანი გაზიარებულია. დააწკაპეთ გაზიარების სამართავად.
-webrtc-indicator-sharing-window =
-    .tooltiptext = ფანჯარა გაზიარებულია. დააწკაპეთ გაზიარების სამართავად.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = ჩანართი გაზიარებულია. დააწკაპეთ გაზიარების სამართავად.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ნებას 
 
 webrtc-share-screen-warning = ეკრანი გაუზიარეთ მხოლოდ სანდო საიტებს. ეკრანის გაზიარება თაღლითურ საიტებს აძლევს საშუალებას, თქვენ მსგავსად დაათვალიეროს გვერდები და მოგპაროთ პირადი მონაცემები.
 webrtc-share-browser-warning = { -brand-short-name } გაუზიარეთ მხოლოდ სანდო საიტებს. გაზიარება თაღლითურ საიტებს აძლევს საშუალებას, თქვენ მსგავსად დაათვალიეროს გვერდები და მოგპაროთ პირადი მონაცემები.
-webrtc-share-screen-learn-more = ვრცლად
 webrtc-pick-window-or-screen = ფანჯრის ან ეკრანის არჩევა
 webrtc-share-entire-screen = მთლიანი ეკრანი
 webrtc-share-pipe-wire-portal = საოპერაციო სისტემის პარამეტრების გამოყენება

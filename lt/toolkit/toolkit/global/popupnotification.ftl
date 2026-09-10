@@ -5,6 +5,3 @@
 popup-notification-learn-more = Sužinoti daugiau
 popup-notification-more-actions-button =
     .aria-label = Daugiau veiksmų
-popup-notification-default-button =
-    .label = Gerai!
-    .accesskey = G

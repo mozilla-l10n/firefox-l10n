@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Bir sahifa orqaga qaytish ({ $shortcut })
     .aria-label = Orqaga
+    .tooltiptext = Bir sahifa orqaga qaytish ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Bir sahifa oldinga oʻtish ({ $shortcut })
     .aria-label = Oldinga
+    .tooltiptext = Bir sahifa oldinga oʻtish ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -98,9 +98,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = Havolani saqlash…
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = Havolani { -pocket-brand-name } xizmatiga saqlash
-    .accesskey = o
 
 ##
 
@@ -205,18 +202,9 @@ main-context-menu-audio-email =
 main-context-menu-send-to-device-2 =
     .label = Qurilmaga joʻnatish
     .accesskey = Q
-main-context-menu-save-to-pocket =
-    .label = Sahifani { -pocket-brand-name } xizmatiga saqlash
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Sahifani qurilmaga joʻnatish
-    .accesskey = q
 
 ##
 
-main-context-menu-keyword =
-    .label = Ushbu qidiruv uchun kalit soʻzni qoʻshish…
-    .accesskey = k
 main-context-menu-link-send-to-device =
     .label = Havolani qurilmaga uzatish
     .accesskey = q
@@ -253,9 +241,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Skrinshot olish
     .accesskey = S
-main-context-menu-take-frame-screenshot =
-    .label = Skrinshot olish
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = Sahifa manba kodi
     .accesskey = k

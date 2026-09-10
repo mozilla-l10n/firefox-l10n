@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Dangos yn Finder
            *[other] Dangos mewn Ffolder
         }
-downloads-cmd-show-downloads =
-    .label = Dangos y Ffowleder Llwythi
 downloads-cmd-retry =
     .tooltiptext = Ceisio eto
 downloads-cmd-retry-panel =

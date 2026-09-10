@@ -56,11 +56,5 @@ download-utils-time-left-single = { $time } qoldi
 download-utils-time-left-double = { $time1 } { $time2 } qoldi
 download-utils-time-few-seconds = Bir necha soniya qoldi
 download-utils-time-unknown = Qolgan vaqt nomaʼlum
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = { $scheme } resurs
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = mahalliy fayl
 # Displayed time for files finished yesterday
 download-utils-yesterday = Kecha

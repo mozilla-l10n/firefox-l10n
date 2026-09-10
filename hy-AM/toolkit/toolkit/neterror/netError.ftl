@@ -27,14 +27,12 @@ neterror-return-to-previous-page-button = Հետ գնալ
 neterror-return-to-previous-page-recommended-button = Գնալ ետ (խորհուրդ է տրվում)
 neterror-try-again-button-2 = Կրկին փորձել
     .accesskey = T
-neterror-try-again-button = Կրկին փորձել
 neterror-settings-button = Փոխել DNS-ի կարգավորումները
 neterror-view-certificate-link = Տեսնել արտոնագիրը
 
 ##
 
 neterror-pref-reset = Կարծես՝ ձեր ցանցի անվտանգության կարգավորումները առաջացնել սա: Վերականգնե՞լ հիմնական կարգավորումները:
-neterror-error-reporting-automatic = Հաղորդեք նման սխալների մասին՝ օգնելու համար { -vendor-short-name }-ին գտնելու և արգելափակելու վնասակար կայքերը
 
 ## Specific error messages
 
@@ -59,15 +57,7 @@ neterror-dns-not-found-offline-hint-different-device = Փորձեք կապակց
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-offline = Դուք միացված չեք համացանցին:
 neterror-dns-not-found-bad-trr-url = Անվավեր URL:
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-heuristic = DNS-ը HTTPS-ի միջովն անջատված է Ձեր ցանցում:
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name }-ը անկարող է միանալ { $trrDomain }-ին:
 
 ##
 
@@ -76,8 +66,6 @@ neterror-file-not-found-moved = Ստուգեք, թե արդյոք ֆայլը չ�
 neterror-access-denied = Հնարավոր է՝ այն հեռացվել է, տեղափոխվել կամ ֆայլի թույլտվությունները կանխել են մատչումը։
 neterror-unknown-protocol = Այս հասցեն բացելու համար ձեզ հավանաբար անհրաժեշտ է ձեռք բերել այլ ծրագիր:
 neterror-redirect-loop = Այս խնդիրը երբեմն կարող է ծագել Թխուկնեի  անջատումից կամ մերժումից:
-neterror-unknown-socket-type-psm-installed = Ստուգեք և համոզվեք, որ ձեր համակարգը ունի տեղակայված Անվտանգության  Անձնական Կառավարիչ:
-neterror-unknown-socket-type-server-config = Դա կարող է լինել սպասարկիչի ոչ ստանդարտ կարգավորման արդյունք:
 neterror-not-cached-intro = Պահանջվող փաստաթուղթը հասանելի չէ { -brand-short-name }-ի պահոցում։
 neterror-not-cached-sensitive = Անվտանգության նկատառումներով { -brand-short-name }-ը ինքնաշխատ չի վերապահանջում նմանատիպ փաստաթղթերը։
 neterror-not-cached-try-again = Սեղմեք Կրկին փորձել՝ վերապահանջելու փաստաթուղթը վեբ կայքից։

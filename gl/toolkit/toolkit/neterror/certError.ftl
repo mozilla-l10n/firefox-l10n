@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = O certificado non é fiábel porque o certif
 cert-error-trust-signature-algorithm-disabled = O certificado non é fiábel porque se asinou usando un algoritmo de asinamento que foi desactivado porque non é seguro.
 cert-error-trust-expired-issuer = O certificado non é fiábel porque o certificado emisor caducou.
 cert-error-trust-self-signed = O certificado non é fiábel porque está autoasinado.
-cert-error-trust-symantec = Os certificados emitidos por GeoTrust, RapidSSL, Symantec, Thawte e VeriSign xa non se consideran seguros porque estas entidades de acreditación, no pasado, non cumpriron coas prácticas de seguranza.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } non confía en { $hostname } porque non puido demostrar que cumpre os requisitos de transparencia dos certificados públicos.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Código de erro: <a data-l10n-name="error-code-lin
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Produciuse un erro durante unha conexión con { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Os sitios web xustifican a súa identidade con certificados, que son emitidos por entidades de acreditación. A maioría dos navegadores xa non confiarán nos certificados emitidos por GeoTrust, RapidSSL, Symantec, Thawte e VeriSign. { $hostname } usa un certificado emitido por unha destas entidades de acreditación, polo tanto, non é posíbel garantir a autenticidade do sitio.
-cert-error-symantec-distrust-admin = Pode avisar ao administrador do sitio web sobre o problema.
 cert-error-old-tls-version = Pode que este sitio web non admita o protocolo TLS 1.2, que é a versión mínima admitida por { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,12 +62,10 @@ cert-error-details-hsts-label = Seguranza de transporte estrita HTTP: { $hasHSTS
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadea de certificados:
-open-in-new-window-for-csp-or-xfo-error = Abrir sitio nunha xanela nova
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Para protexer a súa seguridade, { $hostname } non permitirá que { -brand-short-name } amose a páxina se outro sitio a incrustou. Para ver esta páxina, é preciso abrila nunha xanela nova.
 fp-certerror-view-certificate-link = Ver o certificado do sitio
-fp-certerror-return-to-previous-page-recommended-button = Retroceder (recomendado)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -106,7 +99,7 @@ fp-certerror-expired-what-can-you-do-body = O reloxo do teu dispositivo está co
 fp-cert-error-code = Código de erro: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 fp-learn-more-about-secure-connection-failures = Obtén máis información sobre os erros de conexión segura
 fp-learn-more-about-cert-issues = Obtén máis información sobre este tipo de problemas de certificados
 fp-learn-more-about-time-related-errors = Obtén máis información sobre a resolución de erros relacionados co tempo
@@ -139,8 +132,6 @@ deniedPortAccess-title = Este enderezo está restrinxido
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Estamos tendo problemas para atopar ese sitio.
 internet-connection-offline-title = Parece que hai un problema coa túa conexión a Internet.
-dns-not-found-trr-only-title2 = Posíbel risco de seguridade buscando este dominio
-dns-not-found-native-fallback-title2 = Posíbel risco de seguridade buscando este dominio
 fileNotFound-title = Non se atopou o ficheiro
 fileAccessDenied-title = Denegouse o acceso ao ficheiro
 generic-title = Vaites.
@@ -164,7 +155,6 @@ redirectLoop-title = A páxina non está a redirixir correctamente
 unknownSocketType-title = Resposta inesperada do servidor
 nssFailure2-title = Fallou a conexión segura
 csp-xfo-error-title = { -brand-short-name } non pode abrir esta páxina
-corruptedContentError-title = Erro de contido danado
 sslv3Used-title = Non é posíbel conectarse de forma segura
 inadequateSecurityError-title = A súa conexión non é segura
 blockedByPolicy-title = Páxina bloqueada
@@ -187,6 +177,5 @@ fp-certerror-hide-advanced-button = Ocultar avanzado
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Continuar a { $hostname } (arriscado)
 fp-certerror-intro = { -brand-short-name } detectou un problema de seguranza potencialmente grave con <strong>{ $hostname }</strong>. Alguén que se faga pasar polo sitio podería tentar roubar cousas como información de tarxetas de crédito, contrasinais ou correos electrónicos.
 fp-certerror-expired-into = { -brand-short-name } detectou un problema de seguranza con <strong>{ $hostname }</strong>. Ou o sitio non está configurado correctamente ou o reloxo do teu dispositivo está configurado nunha data/hora incorrecta.

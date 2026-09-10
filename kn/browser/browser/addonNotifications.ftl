@@ -9,13 +9,6 @@ xpinstall-prompt = { -brand-short-name } ನಿಮ್ಮ ಗಣಕದಲ್ಲ�
 xpinstall-prompt-dont-allow =
     .label = ಅನುಮತಿಸ ಬೇಡ‍
     .accesskey = D
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = ನಿಮ್ಮ ಗಣಕ ವ್ಯವಸ್ಥಾಪಕರಿಂದ ತಂತ್ರಾಂಶ ಅನುಸ್ಥಾಪನೆಯನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ.
 xpinstall-disabled = ತಂತ್ರಾಂಶ ಅನುಸ್ಥಾಪನೆಯು ಸದ್ಯಕ್ಕೆ ಅಶಕ್ತಗೊಂಡಿದೆ. ಶಕ್ತಗೊಳಿಸು ಅನ್ನು ಕ್ಲಿಕ್ಕಿಸಿ ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.
 xpinstall-disabled-button =
     .label = ಶಕ್ತಗೊಳಿಸು
@@ -78,4 +71,3 @@ addon-local-install-error-not-signed = ಈ ಆಡ್-ಆನ್ ‌ಅನ್ನ�
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } ಅನ್ನು ಅನುಸ್ಥಾಪಿಸಲಾಗಿಲ್ಲ ಏಕೆಂದರೆ ಇದು { -brand-short-name } { $appVersion } ನೊಂದಿಗೆ ಹೊಂದಿಕೊಳ್ಳುವುದಿಲ್ಲ.
-addon-install-error-blocklisted = { $addonName } ಅನ್ನು ಅನುಸ್ಥಾಪಿಸಲಾಗಿಲ್ಲ ಏಕೆಂದರೆ ಇದು ಸ್ಥಿರತೆ ಅಥವ ಸುರಕ್ಷತಾ ತೊಂದರೆಗಳಿಗೆ ಕಾರಣವಾಗುವ ಅಪಾಯವಿದೆ.

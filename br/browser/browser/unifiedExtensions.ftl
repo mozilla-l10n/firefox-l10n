@@ -39,6 +39,5 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Lod askouezhioù zo n’int ket aotreet
 unified-extensions-mb-quarantined-domain-learn-more = Gouzout hiroc’h
     .aria-label = Gouzout hiroc’h: Lod askouezhioù zo ha n’int ket aotreet

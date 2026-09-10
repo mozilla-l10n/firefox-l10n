@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = இணைப்பு அமைப்புகள்
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = இணைப்பு அமைப்புகள்
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -51,19 +51,14 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = மீளேற்று
     .accesskey = e
-connection-proxy-autologin =
-    .label = கடவுச்சொல் சேமிக்கப்பட்டிருந்தால் அங்கீகரிப்புக்காக நினைவுப்படத்த வே்டாம்
-    .accesskey = i
-    .tooltip = நீங்கள் கடவுச்சொற்களை சேமித்திருந்தால் இந்த விருப்பத்தேர்வானது சத்தமில்லாமல் உங்களை ப்ராக்ஸியில் அங்கீகரிக்கும். நீங்கள் அங்கீகரிக்கப்படாமல் இருந்தால் நினைவூட்டப்பட்டிருக்கும்.
 connection-proxy-autologin-checkbox =
     .label = கடவுச்சொல் சேமிக்கப்பட்டிருந்தால் அங்கீகரிப்புக்காக நினைவுப்படத்த வே்டாம்
-    .accesskey = i
     .tooltiptext = நீங்கள் கடவுச்சொற்களை சேமித்திருந்தால் இந்த விருப்பத்தேர்வானது சத்தமில்லாமல் உங்களை ப்ராக்ஸியில் அங்கீகரிக்கும். நீங்கள் அங்கீகரிக்கப்படாமல் இருந்தால் நினைவூட்டப்பட்டிருக்கும்.
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = பதிலாள் DNS SOCKS V5 பயன்படுத்தும் போது
     .accesskey = d
 connection-dns-over-https-url-custom =
     .label = தனிப்பயனாக்கு
-    .accesskey = த
     .tooltiptext = HTTPS வழி DNS ஐ தீர்ப்பதற்கு உங்களின் விருப்ப URL ஐ உள்ளிடுக
-connection-dns-over-https-custom-label = தனிப்பயன்
+    .accesskey = த

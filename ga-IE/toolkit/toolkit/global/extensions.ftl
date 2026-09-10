@@ -10,9 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Cuir { $extension } leis?
 webext-perms-sideload-header = Suiteáladh { $extension }
-webext-perms-optional-perms-header = Tá { $extension } ag iarraidh ceadanna breise.
 
 ##
 
@@ -45,27 +43,5 @@ webext-perms-host-description-all-urls = Do chuid sonraí ó shuíomh ar bith a 
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Do chuid sonraí ó { $domain } a léamh
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Do chuid sonraí ó { $domainCount } fhearann eile a léamh
-        [two] Do chuid sonraí ó { $domainCount } fhearann eile a léamh
-        [few] Do chuid sonraí ó { $domainCount } fhearann eile a léamh
-        [many] Do chuid sonraí ó { $domainCount } bhfearann eile a léamh
-       *[other] Do chuid sonraí ó { $domainCount } fearann eile a léamh
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Do chuid sonraí ó { $domain } a léamh
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Do chuid sonraí ó { $domainCount } suíomh eile a léamh
-        [two] Do chuid sonraí ó { $domainCount } shuíomh eile a léamh
-        [few] Do chuid sonraí ó { $domainCount } shuíomh eile a léamh
-        [many] Do chuid sonraí ó { $domainCount } suíomh eile a léamh
-       *[other] Do chuid sonraí ó { $domainCount } suíomh eile a léamh
-    }

@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = यो प्रमाणपत्र वि
 cert-error-trust-signature-algorithm-disabled = यो प्रमाणपत्र विश्वसनीय छैन किनभने किनभने यो प्रयोग गर्ने तर्क सुरक्षित छैन किनभने अक्षम थियो कि एक हस्ताक्षर अल्गोरिदम हस्ताक्षर भएको
 cert-error-trust-expired-issuer = यो प्रमाणपत्र विश्वसनीय छैन किनभने किनभने जारीकर्तालाई प्रमाणपत्र समाप्त भएको छ।
 cert-error-trust-self-signed = यो प्रमाणपत्र विश्वसनीय छैन किनभने यो आत्म-हस्ताक्षरित छ।
-cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte, र VeriSign द्वारा जारी प्रमाणपत्रहरू अब सुरक्षित मानिने छैनन् किनकि यी प्रमाणपत्र अधिकारीहरूले विगतमा सुरक्षा अभ्यासहरू अनुसरण गर्न असफल भए।
 cert-error-untrusted-default = प्रमाणपत्र विश्वसनीय स्रोतबाट आएको छैन।
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -45,10 +44,6 @@ cert-error-not-yet-valid-now = वेबसाइटहरूले प्रम
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = त्रुटि कोड: <a data-l10n-name="error-code-link">{ $error }</a>
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = वेबसाइटहरूले प्रमाणपत्रहरूको माध्यमबाट उनीहरूको पहिचान प्रमाणित गर्दछ, जुन प्रमाणपत्र अधिकारीहरूद्वारा जारी गरिन्छ। अधिकांश ब्राउजरहरूले GeoTrust, RapidSSL, Symantec, Thawte र VeriSign, द्वारा जारी गरिएको विश्वास प्रमाणपत्रहरू स्विकार गर्दैनन्। { $hostname } ले यी अधिकारीहरु मध्ये एकबाट प्रमाणपत्र प्रयोग गर्दछ र त्यसैले वेबसाइटको पहिचान प्रमाणित गर्न सकिँदैन।
-cert-error-symantec-distrust-admin = तपाईं यस समस्याको बारेमा वेबसाइट प्रशासकलाई सूचित गर्न सक्नुहुन्छ।
 cert-error-old-tls-version = यो वेबसाइटले TLS 1.2 प्रोटोकललाई समर्थन नगर्न सक्छ, जुन { -brand-short-name } द्वारा समर्थित न्यूनतम संस्करण हो।
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -57,7 +52,6 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = प्रमाणपत्र चेन:
-open-in-new-window-for-csp-or-xfo-error = साइट नयाँ विन्डोमा खोल्नुहोस्
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = तपाइँको सुरक्षा को रक्षा गर्न को लागी, { $hostname } ले { -brand-short-name } लाई पृष्ठ प्रदर्शन गर्न अनुमति दिँदैन यदि अर्को साइटले यसलाई इम्बेड गरेको छ भने। यो पृष्ठ हेर्न को लागी, तपाइँ एक नयाँ विन्डो मा खोल्नुपर्नेछ ।
@@ -90,7 +84,6 @@ redirectLoop-title = पृष्ठ राम्रोसँग पुनः �
 unknownSocketType-title = सर्भरबाट अनपेक्षित प्रतिक्रिया
 nssFailure2-title = सुरक्षित जडान असफल भयो
 csp-xfo-error-title = { -brand-short-name } ले यो पृष्ठ खोल्न सक्दैन
-corruptedContentError-title = दूषित सामग्री त्रुटि
 sslv3Used-title = सुरक्षित जडान गर्न असमर्थ
 inadequateSecurityError-title = तपाईँको जडान सुरक्षित छैन
 blockedByPolicy-title = रोकिएको पृष्ठ

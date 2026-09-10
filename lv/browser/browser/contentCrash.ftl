@@ -18,14 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [zero] Ir { $reportCount } nenosūtīti avārijas ziņojumi
-        [one] Ir { $reportCount } nenosūtīts avārijas ziņojums
-       *[other] Ir { $reportCount } nenosūtīti avārijas ziņojumi
-    }
 pending-crash-reports-view-all =
     .label = Skats
 pending-crash-reports-send =

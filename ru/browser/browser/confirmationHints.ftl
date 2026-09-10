@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Сообщение отправлено. Спасибо!
-confirmation-hint-login-removed = Логин удалён!
 confirmation-hint-password-removed = Пароль удален!
 confirmation-hint-page-bookmarked = Сохранено в закладках
-confirmation-hint-password-saved = Пароль сохранён!
 confirmation-hint-password-created = Пароль сохранён
 confirmation-hint-password-updated = Пароль изменён
 confirmation-hint-address-created = Адрес сохранён

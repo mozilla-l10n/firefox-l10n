@@ -31,4 +31,3 @@ search-bookmarks = Bokmerke
 search-history = Historikk
 search-opentabs = Opne faner
 search-tags = Etikettar
-search-titles = Titlar

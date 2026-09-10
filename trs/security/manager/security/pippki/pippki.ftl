@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = si naduninj ma sertifikado
     .style = min-width: 46em
+    .title = si naduninj ma sertifikado
 download-cert-message = Gachin ni'io' da' gida'aj si nuguan' 'ngò Dukuâ sun 'iaj sertifikando (CA).
 download-cert-trust-ssl =
     .label = Ga'nin' da' ni CA nani'ìn da'ngà' daj hua sitio web.
@@ -37,8 +37,6 @@ download-cert-view-text = Natsi' CA sertifikado
 
 client-auth-window =
     .title = Achín nì'ia nadigânt ahuînt
-client-auth-site-description = Achín ni'iaj sitiô na sisi nadigânt ahuînt ngà 'ngo certificado:
-client-auth-choose-cert = Nagui 'ngo certificado da' nadigânt ahuînt:
 client-auth-cert-details = Nej sa nikaj certificado gida'at:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

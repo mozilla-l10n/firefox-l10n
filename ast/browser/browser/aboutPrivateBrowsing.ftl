@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Abrir una ventana privada
     .accesskey = P
 about-private-browsing-search-placeholder = Buscar na web
-about-private-browsing-info-title = Tas nuna ventana privada
 about-private-browsing-search-btn =
     .title = Busca na web
 # Variables

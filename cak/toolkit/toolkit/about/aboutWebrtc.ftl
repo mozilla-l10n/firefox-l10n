@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = tiyak about:webrtc achi'el
 about-webrtc-aec-logging-msg-label = AEC tz'ib'axïk
 about-webrtc-aec-logging-off-state-label = Titikirisäx AEC rutz'ib'axik
 about-webrtc-aec-logging-on-state-label = Tiq'at AEC rutz'ib'axik
-about-webrtc-aec-logging-on-state-msg = Tzijïl ri AEC rutz'ib'axik (katzijon rik'in ri winäq jujun ch'utaq ramaj k'a ri' tatanab'a' ri chapoj)
 about-webrtc-aec-logging-toggled-on-state-msg = Tzijïl ri AEC rutz'ib'axik (katzijon rik'in ri winäq jujun ch'utaq ramaj k'a ri' tatanab'a' ri chapoj)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -81,17 +80,9 @@ about-webrtc-nominated = B'ina'an
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Cha'on
 about-webrtc-save-page-label = Tiyak Ruxaq
-about-webrtc-debug-mode-msg-label = Pa rub'eyal chojmirisanel
-about-webrtc-debug-mode-off-state-label = Titikirisäx pa rub'eyal chojmirisaxïk
-about-webrtc-debug-mode-on-state-label = Tiq'at ri rub'eyal chojmirisanïk
-about-webrtc-stats-heading = Rumolob'a' molojri'ïl
 about-webrtc-stats-clear = Tiyuj el ri natab'äl
 about-webrtc-log-heading = Rutz'ib'axik okem
 about-webrtc-log-clear = Tijosq'ïx tz'ib'anïk
-about-webrtc-log-show-msg = tik'ut pe rutz'ib'axik
-    .title = tapitz'a' richin narïk' re peraj re'
-about-webrtc-log-hide-msg = tewäx ri rutz'ib'axik
-    .title = tapitz'a' richin nuk'öl ri' re peraj re'
 about-webrtc-log-section-show-msg = Tik'ut pe rutz'ib'axik
     .title = Tapitz'a' richin narïk' re peraj re'
 about-webrtc-log-section-hide-msg = Tewäx ri rutz'ib'axik
@@ -114,19 +105,11 @@ about-webrtc-remote-candidate = Näj chi cha'oxel
 about-webrtc-raw-candidates-heading = Konojel ri Relik Cha'oxela'
 about-webrtc-raw-local-candidate = Relik Cha'oxel Aj Wawe'
 about-webrtc-raw-remote-candidate = Relik Näj chi cha'oxel
-about-webrtc-raw-cand-show-msg = kek'ut pe ri relik cha'oxela'
-    .title = tapitz'a' richin narïk' re peraj re'
-about-webrtc-raw-cand-hide-msg = ke'ewüx relik cha'oxela'
-    .title = tapitz'a' richin nuk'öl ri' re peraj re'
 about-webrtc-raw-cand-section-show-msg = Kek'ut pe ri relik cha'oxela'
     .title = Tapitz'a' richin narïk' re peraj re'
 about-webrtc-raw-cand-section-hide-msg = Ke'ewüx relik cha'oxela'
     .title = Tapitz'a' richin nuk'öl ri' re peraj re'
 about-webrtc-priority = Ya'on ruq'ij
-about-webrtc-fold-show-msg = kek'ut pe ri taq rub'anikil
-    .title = tapitz'a' richin narïk' re peraj re'
-about-webrtc-fold-hide-msg = ke'ewäx ri taq rub'anikil
-    .title = tapitz'a' richin nuk'öl ri' re peraj re'
 about-webrtc-fold-default-show-msg = Kek'ut pe ri taq rub'anikil
     .title = Tapitz'a' richin narïk' re peraj re'
 about-webrtc-fold-default-hide-msg = Ke'ewäx ri taq rub'anikil
@@ -160,8 +143,6 @@ about-webrtc-configuration-element-provided = Xya'
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Man Xya' Ta
-# The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = WebRTC taq Ajowab'äl Jikib'an Ruma Winäq
 
 ##
 
@@ -185,13 +166,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Resta'istika' Rotorama' Silowäch - MediaStreamTrack ID: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = yakon ruxaq pa: { $path }
-about-webrtc-debug-mode-off-state-msg = ri rutz'ib'axik retal tikirel nilitäj pa { $path }
-about-webrtc-debug-mode-on-state-msg = pa rub'eyal tzijïl chojmirisanïk, rutz'ib'axik retal pa: { $path }
-about-webrtc-aec-logging-off-state-msg = ri kitz'ib'axik taq yakb'äl yatikïr ye'awïl pa: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

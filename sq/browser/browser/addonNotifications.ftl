@@ -31,27 +31,13 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Vazhdo me Instalimin
     .accesskey = V
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Ky sajt po kërkon hyrje te pajisje tuajat MIDI (Musical Instrument Digital Interface). Hyrja te pajisjet mund të aktivizohet duke instaluar një shtesë.
 site-permission-install-first-prompt-midi-message = Nuk garantohet se ky sajt është i parrezik. Vazhdoni vetëm nëse e besoni këtë sajt.
-
-##
-
-xpinstall-disabled-locked = Instalimi i software-it është çaktivizuar nga përgjegjësi i sistemit tuaj.
 xpinstall-disabled-by-policy = Instalimi i software-it është çaktivizuar nga enti juaj.
 xpinstall-disabled = Instalimi i software-it është hëpërhë i çaktivizuar. Klikoni mbi Aktivizoje dhe riprovoni.
 xpinstall-disabled-button =
     .label = Aktivizoje
     .accesskey = a
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) është bllokuar nga përgjegjësi i sistemit tuaj.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Përgjegjësi i sistemit tuaj e pengoi këtë sajt t’ju kërkojë të instalojë program në kompjuterin tuaj.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -76,9 +62,6 @@ webext-imported-addons = Përfundo instalimin e e zgjerimeve të importuara në 
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Të hiqet { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Të hiqet { $name } nga { -brand-shorter-name }?
 addon-removal-button = Hiqe
 addon-removal-abuse-report-checkbox = Raportojeni këtë zgjerim te { -vendor-short-name }
 # "it" refers to the local AI model that is paired to the AI feature
@@ -137,7 +120,5 @@ addon-local-install-no-addon-name-error-file-access = Shtesa s’u instalua dot,
 addon-install-error-incompatible = { $addonName } s’u instalua dot, ngaqë s’është e përputhshme me { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = { $addonName } cenon rregullat e Mozilla-s dhe s’mund të instalohet në { -brand-short-name }.
 addon-install-error-soft-blocked2 = Për { $addonName } ka kufizime dhe s’mund të instalohet në { -brand-short-name }.
-addon-install-error-blocklisted = { $addonName } s’u instalua dot, ngaqë paraqet rrezik të madh për krijim problemesh qëndrueshmërie ose sigurie.
-addon-install-error-soft-blocked = { $addonName } cenon rregullat e Mozilla-s dhe s’mund të instalohet në { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = S’mund të instaloni { $addonName }-in si përdorues i thjeshtë, mund të instalohet vetëm nga një ent që përdor rregulla ndërmarrjeje.

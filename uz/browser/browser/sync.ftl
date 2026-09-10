@@ -14,14 +14,6 @@ fxa-menu-turn-on-sync =
 fxa-menu-turn-on-sync-default = Sinxronizatsiyani yoqish
 fxa-menu-connect-another-device =
     .label = Boshqa qurilmani ulash
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Varaqni qurilmaga joʻnatish
-           *[other] { $tabCount } ta varaqni qurilmaga joʻnatish
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Qurilmalar sinxronlanmoqda…

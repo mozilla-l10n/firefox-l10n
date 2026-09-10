@@ -17,8 +17,4 @@ webrtc-sharing-menuitem =
 
 ##
 
-webrtc-share-screen-learn-more = Cchiù nfurmazzioni
-
-##
-
 webrtc-reason-for-no-permanent-allow-insecure = A to cunnissiuni a stu situ nun è sicura. Pâ to prutizziuni, { -brand-short-name } pirmittirà l’accessu sulu pi sta sissiuni.

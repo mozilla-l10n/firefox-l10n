@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = N'eus fiziañs ebet en testeni rak n'eus fiz
 cert-error-trust-signature-algorithm-disabled = N'eus fiziañs ebet en testeni rak sinet eo bet gant un treol sinañ a zo bet diweredekaet rak an treol-mañ n'eo ket diogel.
 cert-error-trust-expired-issuer = N'eus fiziañs ebet en testeni rak diamzeret eo testeni ar skigner.
 cert-error-trust-self-signed = N'eus fiziañs ebet en testeni rak emsinet eo.
-cert-error-trust-symantec = Testenioù pourchaset gant GeoTrust, RapidSSL, Symantec, Thawte ha VeriSign n'int ket sellet evel diogel peogwir n'eo ket bet heuliet reolennoù diogelroez gant an aotrouniezhoù testeni-mañ.
 cert-error-untrusted-default = An testeni ne zeu ket diouzh un tarzh a fiziañs.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -52,10 +51,6 @@ cert-error-code-prefix-link = Boneg fazi: <a data-l10n-name="error-code-link">{ 
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Degouezhet ez eus bet ur fazi e-pad ma oa o kennaskañ ouzh { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Gant testenioù e vez prouet pivelezh al lec’hiennoù. Roet e vezont gant aotrouniezhoù testeniañ. Lodenn vrasañ ar merdeerioù na reont ket fiziañ ken en testenioù roet gant GeoTrust, RapidSSL, Symantec, Thawte ha VeriSign. Un testeni roet gant unan eus an aotrouniezhoù-mañ a vez arveret gant { $hostname }, ha n’hall ket bezañ prouet pivelezh al lec’hienn.
-cert-error-symantec-distrust-admin = Gallout a rit mont e darempred gant merour al lec’hienn diwar-benn ar gudenn-mañ.
 cert-error-old-tls-version = Gallout a ra al lec'hienn chom hep skorañ ar c'homenad TLS 1.2, hag a zo an handelv izelañ skoret gant { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -64,7 +59,6 @@ cert-error-details-hsts-label = Diogelroez treuzdougen HTTP strizh: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Speurennadur alc’hwez foran HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Chadenn testeni:
-open-in-new-window-for-csp-or-xfo-error = Digeriñ al lec’hienn en ur prenestr nevez
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Evit gwareziñ ho surentez, { $hostname } na aotreo ket { -brand-short-name } da ziskouez ar bajenn ma vez ul lec’hienn all enkorfet enni. Evit gwelout ar bajenn-mañ ho peus ezhomm da zigeriñ anezhi en ur prenestr nevez.
@@ -99,7 +93,6 @@ redirectLoop-title = Adheñchañ ar bajenn n'eo ket dereat
 unknownSocketType-title = Respont direizh
 nssFailure2-title = C’hwitadenn war ar c’hennaskañ diarvar
 csp-xfo-error-title = { -brand-short-name } n'hall ket digeriñ ar bajenn
-corruptedContentError-title = Fazi a-fet endalc’had bet kontronet
 sslv3Used-title = Ne c’haller ket kennaskañ outi ent diarvar
 inadequateSecurityError-title = N'eo ket diarvar ho kennask
 blockedByPolicy-title = Pajenn stanket

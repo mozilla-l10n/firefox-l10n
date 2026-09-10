@@ -31,11 +31,11 @@ third-party-tag-background = Bakgrund
         laddades i bakgrunden. 
         i bakgrunden.
 third-party-icon-unsigned =
-    .title = Denna modul är inte signerad
     .alt = Denna modul är inte signerad
+    .title = Denna modul är inte signerad
 third-party-icon-warning =
-    .title = { -brand-short-name } kraschade i koden från den här modulen
     .alt = { -brand-short-name } kraschade i koden från den här modulen
+    .title = { -brand-short-name } kraschade i koden från den här modulen
 third-party-status-loaded = Laddad
 third-party-status-blocked = Blockerad
 third-party-status-redirected = Omdirigerad
@@ -47,30 +47,17 @@ third-party-button-reload = Ladda om med systeminformation
     .title = Ladda om med systeminformation
 third-party-button-open =
     .title = Öppna filplats…
-third-party-button-to-block =
-    .title = Blockera denna modul
-    .aria-label = Blockera denna modul
-third-party-button-to-unblock =
-    .title = För närvarande blockerad. Klicka för att avblockera den.
-    .aria-label = För närvarande blockerad. Klicka för att avblockera den.
-third-party-button-to-unblock-disabled =
-    .title =
-        Markeras för närvarande som blockerad, även om blockeringslistan är inaktiverad för denna körning
-        av { -brand-short-name }. Klicka för att avblockera den.
-    .aria-label =
-        Markeras för närvarande som blockerad, även om blockeringslistan är inaktiverad för denna körning
-        av { -brand-short-name }. Klicka för att avblockera den.
 third-party-button-to-block-module = Blockera denna modul
-    .title = Blockera denna modul
     .aria-label = Blockera denna modul
+    .title = Blockera denna modul
 third-party-button-to-unblock-module = Avblockera denna modul
-    .title = För närvarande blockerad. Klicka för att avblockera den.
     .aria-label = För närvarande blockerad. Klicka för att avblockera den.
+    .title = För närvarande blockerad. Klicka för att avblockera den.
 third-party-button-to-unblock-module-disabled = Avblockera den här modulen (blockeringslista är för närvarande inaktiverad)
-    .title =
+    .aria-label =
         Markerad som blockerad för närvarande, även om blockeringslistan är inaktiverad för denna körning
         av { -brand-short-name }. Klicka för att avblockera den.
-    .aria-label =
+    .title =
         Markerad som blockerad för närvarande, även om blockeringslistan är inaktiverad för denna körning
         av { -brand-short-name }. Klicka för att avblockera den.
 third-party-button-expand =
@@ -82,5 +69,5 @@ third-party-should-restart-title = Starta om { -brand-short-name }
 third-party-restart-now = Starta om nu
 third-party-restart-later = Starta om senare
 third-party-blocked-by-builtin =
-    .title = Blockerad av { -brand-short-name }
     .alt = Blockerad av { -brand-short-name }
+    .title = Blockerad av { -brand-short-name }

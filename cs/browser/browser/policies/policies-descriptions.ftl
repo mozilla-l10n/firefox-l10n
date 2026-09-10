@@ -61,7 +61,6 @@ policy-DisableDefaultBrowserAgent = Zabraňuje agentovi Default Browser Agent pr
 policy-DisableDeveloperTools = Blokování přístupu k nástrojům pro vývojáře.
 policy-DisableEncryptedClientHello = Zakáže použití funkce TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Blokování odeslání zpětné vazby z nabídky Nápověda (volby Odeslat zpětnou vazbu a Nahlásit podvodnou stránku).
-policy-DisableFirefoxAccounts = Vypnutí služeb používajících { -fxaccount-brand-name(case: "acc", capitalization: "lower") }, včetně Syncu.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Zakáže služby vyžadující účty, včetně synchronizace.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -80,7 +79,6 @@ policy-DisableLaunchOnLogin =
     }
 policy-DisablePrimaryPasswordCreation = Hodnota true znemožní nastavení hlavního hesla.
 policy-DisablePasswordReveal = Zakázání možnosti zobrazit hesla ve správci přihlašovacích údajů.
-policy-DisablePocket2 = Vypnutí funkce pro ukládání stránek do služby { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Zablokování anonymního prohlížení.
 policy-DisableProfileImport = Blokování importu dat z jiných prohlížečů.
 policy-DisableProfileRefresh =
@@ -116,8 +114,8 @@ policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Zakáže varován
 policy-Extensions = Instalace, odinstalace a uzamčení rozšíření. Pro instalaci je potřeba jako parametr zadat adresy URL nebo cesty. Pro odinstalaci nebo uzamčení ID rozšíření.
 policy-ExtensionSettings = Správa všech aspektů instalace rozšíření.
 policy-ExtensionUpdate = Vypnutí nebo zapnutí automatických aktualizací rozšíření.
-policy-FirefoxHome2 = Nakonfiguruje { -firefox-home-brand-name(case: "acc", capitalization: "lower") }.
-policy-FirefoxSuggest = Nakonfiguruje { -firefox-suggest-brand-name(case: "acc", capitalization: "lower") }.
+policy-FirefoxHome2 = Nakonfiguruje { -firefox-home-brand-name(capitalization: "lower", case: "acc") }.
+policy-FirefoxSuggest = Nakonfiguruje { -firefox-suggest-brand-name(capitalization: "lower", case: "acc") }.
 policy-GenerativeAI = Nastavení generativních funkcí umělé inteligence.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Vynutí přímou navigaci v intranetu namísto vyhledávání při zadání jednotlivých slov do adresního řádku.
 policy-Handlers = Nastavení výchozích aplikací pro odkazy a typy souborů.
@@ -172,7 +170,6 @@ policy-PDFjs =
 policy-Permissions2 = Nastavení oprávnění pro kameru, mikrofon, zjišťování polohy, oznámení a automatické přehrávání.
 policy-PictureInPicture = Povolení nebo zakázání režimu obraz v obraze.
 policy-PopupBlocking2 = Umožní určitým webovým stránkám zobrazovat vyskakovací okna a být přesměrovány v rámci třetích stran
-policy-PopupBlocking = Povolení zobrazování vyskakovacích oken ve výchozím stavu.
 policy-Preferences = Nastavení a uzamčení hodnoty pro podmnožinu předvoleb.
 policy-PrivateBrowsingModeAvailability = Nastaví dostupnost v režimu anonymního prohlížení.
 policy-PromptForDownloadLocation = Zeptat se na adresář před stažením souboru.

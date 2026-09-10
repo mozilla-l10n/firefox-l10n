@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = ‏{ -brand-short-name } - מחוון שיתוף
-webrtc-indicator-window =
-    .title = ‏{ -brand-short-name } - מחוון שיתוף
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = המיקרופון שלך משותף כעת. יש ללחוץ כדי לשלוט על השיתוף.
 webrtc-screen-system-menu =
     .label = החלון או המסך שלך משותף כעת. יש ללחוץ כדי לשלוט על השיתוף.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = המצלמה והמיקרופון שלך משותפים כעת. יש ללחוץ כדי לשלוט על השיתוף.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = המצלמה שלך משותפת כעת. יש ללחוץ כדי לשלוט על השיתוף.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = המיקרופון שלך משותף כעת. יש ללחוץ כדי לשלוט על השיתוף.
-webrtc-indicator-sharing-application =
-    .tooltiptext = יישום כלשהו משותף כעת. יש ללחוץ כדי לשלוט על השיתוף.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = המסך שלך משותף כעת. לחץ כדי לשלוט על השיתוף.
-webrtc-indicator-sharing-window =
-    .tooltiptext = חלון כלשהו משותף כעת. יש ללחוץ כדי לשלוט על השיתוף.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = לשונית כלשהי משותפת כעת. יש ללחוץ כדי לשלוט על השיתוף.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = לאפשר ל־{
 
 webrtc-share-screen-warning = מומלץ לשתף מסכים רק עם אתרים מהימנים. השיתוף יכול לאפשר לאתרים זדוניים לגלוש ברשת בשמך ולגנוב את הנתונים הפרטיים שלך.
 webrtc-share-browser-warning = מומלץ לשתף את { -brand-short-name } רק עם אתרים מהימנים. השיתוף יכול לאפשר לאתרים זדוניים לגלוש ברשת בשמך ולגנוב את הנתונים הפרטיים שלך.
-webrtc-share-screen-learn-more = מידע נוסף
 webrtc-pick-window-or-screen = בחירת חלון או מסך
 webrtc-share-entire-screen = כל המסך
 webrtc-share-pipe-wire-portal = שימוש בהגדרות מערכת ההפעלה

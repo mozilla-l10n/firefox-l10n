@@ -93,15 +93,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = गासै add-ons खौ रैखाथि म'डजों लोरबां खालामबाय।
-extensions-warning-check-compatibility = Add-on गोरोबनायखौ आनजाद खालामनायखौ लोरबां खालामनाय जायो। नोंथांहा गोरोबै add-ons दं जानो हागौ।
-extensions-warning-safe-mode2 =
-    .message = गासै add-ons खौ रैखाथि म'डजों लोरबां खालामबाय।
 extensions-warning-check-compatibility2 =
     .message = Add-on गोरोबनायखौ आनजाद खालामनायखौ लोरबां खालामनाय जायो। नोंथांहा गोरोबै add-ons दं जानो हागौ।
 extensions-warning-check-compatibility-button = हाहोनाय खालाम
     .title = add-on गोरोबथिगोनां आनजाद खालामनायखौ हाहोनाय खालाम
-extensions-warning-update-security = Add-on आपडेटखौ आनजाद खालामनायखौ लोरबां खालामनाय जायो। नोंथाङा आपडेटजों गोरोबना दं जानो हागौ।
 extensions-warning-update-security2 =
     .message = Add-on आपडेटखौ आनजाद खालामनायखौ लोरबां खालामनाय जायो। नोंथाङा आपडेटजों गोरोबना दं जानो हागौ।
 extensions-warning-update-security-button = हाहोनाय खालाम
@@ -233,17 +228,8 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } आ { -brand-short-name } { $version } जों गोरोबा।
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } आ { -brand-short-name } { $version } जों गोरोबा।
-details-notification-unsigned-and-disabled-link = गोबां फोरमायथिहोग्रा
-details-notification-unsigned-link = गोबां फोरमायथिहोग्रा
-details-notification-blocked = { $name } खौ रैखाथि एबा दिदोमथि जेंनानि थाखाय लोरबां खालामनाय जाबाय।
-details-notification-blocked-link = गोबां फोरमायथिहोग्रा
-details-notification-softblocked = { $name } खौ रैखाथि एबा दिदोमथि जेंनानि थाखाय मोनथिजायो।
-details-notification-softblocked-link = गोबां फोरमायथिहोग्रा
 
 ## Gecko Media Plugins (GMPs)
 

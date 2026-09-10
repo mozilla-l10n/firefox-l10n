@@ -35,7 +35,7 @@ remove-search-engine-button = OK
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = Magdagdag ng Search Engine
     .style = min-width: 32em;
+    .title = Magdagdag ng Search Engine
 add-engine-button = Magdagdag ng Custom Engine
 add-engine-name = Maghanap ng engine name

@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = Ваши сертификати
 certificate-viewer-tab-people = Људи
 certificate-viewer-tab-servers = Сервери
 certificate-viewer-tab-ca = Тела
-certificate-viewer-tab-unkonwn = Непознато

@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Nauja kortelė
-    .accesskey = j
 reload-tab =
     .label = Įkelti kortelę iš naujo
     .accesskey = i
@@ -76,10 +73,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Dalintis
     .accesskey = i
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -107,11 +100,3 @@ tab-context-move-tabs =
            *[other] Perkelti kortelių
         }
     .accesskey = k
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Siųsti kortelę į įrenginį
-            [few] Siųsti { $tabCount } kortelių į įrenginį
-           *[other] Siųsti { $tabCount } korteles į įrenginį
-        }
-    .accesskey = t

@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Ավելացնել { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Ընթացքը. քայլ { $current }՝ { $total }-ից
 # This button will open system settings to turn on prefers-reduced-motion
@@ -189,11 +183,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Ամրացրեք { -brand-short-name }-ն խնդրագոտիում և մեկնարկ ցանկում
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Սկսեք դիտարկիչով, որն ապահովված է շահույթ չհետապնդող կազմակերպության կողմից: Մենք պաշտպանում ենք ձեր գաղտնիությունը, մինչ դուք զիփում եք համացանցում:
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -223,57 +212,10 @@ mr2022-onboarding-set-default-subtitle = Օգտագործեք ոչ առևտրա�
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Մեր վերջին տարբերակը ստեղծվել է ձեր շուրջը՝ դարձնելով ավելի հեշտ, քան երբևէ՝ համացանցում համախմբվելու համար: Այն հագեցած է առանձնահատկություններով, որոնք մենք կարծում ենք, որ դուք կպաշտեք:
 mr2022-onboarding-get-started-primary-button-label = Տեղակայեք վայրկյանների ընթացքում
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Կայծակնային արագ տեղակայում
-mr2022-onboarding-import-subtitle = Կարգավորեք { -brand-short-name }-ը ձեր հայեցողությամբ։ Ավելացրեք ձեր էջանիշները, գաղտնաբառերը և այլն ձեր հին զննարկչից։
 mr2022-onboarding-import-primary-button-label-no-attribution = Ներմուծել նախորդ դիտարկիչից
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Ընտրեք այն գույնը, որը ձեզ ոգեշնչում է
-mr2022-onboarding-colorway-subtitle = Անկախ ձայները կարող են փոխել մշակույթը:
-mr2022-onboarding-colorway-primary-button-label-continue = Սահմանել և շարունակել
-mr2022-onboarding-existing-colorway-checkbox-label = Դարձրեք { -firefox-home-brand-name }-ը Ձեր գունավոր տնէջը
-mr2022-onboarding-colorway-label-default = Սկզբնադիր
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = { -brand-short-name }-ի գործող գույները
-mr2022-onboarding-colorway-description-default = <b>Օգտագործել իմ ներկայիս { -brand-short-name } գույները։</b>
-mr2022-onboarding-colorway-label-playmaker = Փլեյմեյքեր
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Փլեյմեյքեր (կարմիր)
-mr2022-onboarding-colorway-description-playmaker = <b>Դուք փլեյմեյքեր եք:</b> Դուք հնարավորություններ եք ստեղծում հաղթելու և օգնում եք ձեր շրջապատի բոլորին բարձրացնել իրենց խաղը:
-mr2022-onboarding-colorway-label-expressionist = Էքսպրեսիոնիստ
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Էքսպրեսիոնիստ (դեղին)
-mr2022-onboarding-colorway-description-expressionist = <b>Դուք էքսպրեսիոնիստ եք։</b> Դուք աշխարհը տեսնում եք այլ կերպ, և ձեր ստեղծագործությունները գրգռում են ուրիշների զգացմունքները։
-mr2022-onboarding-colorway-label-visionary = Տեսլական
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Տեսողական (կանաչ)
-mr2022-onboarding-colorway-description-visionary = <b>Դուք տեսաբան եք:</b> Դուք կասկածի տակ եք դնում ստատուս քվոն և դրդում ուրիշներին պատկերացնել ավելի լավ ապագա:
-mr2022-onboarding-colorway-label-activist = Ակտիվիստ
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Ակտիվիստ (կապույտ)
-mr2022-onboarding-colorway-description-activist = <b>Դուք ակտիվիստ եք։</b> Դուք աշխարհը թողնում եք ավելի լավ տեղ, քան գտել եք, և ուրիշներին էլ եք հավատացնում։
-mr2022-onboarding-colorway-label-dreamer = Երազող
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Երազող (մանուշակագույն)
-mr2022-onboarding-colorway-description-dreamer = <b>Դուք երազող եք։</b> Դուք հավատում եք, որ բախտը նպաստում է համարձակներին և ոգեշնչում է ուրիշներին լինել համարձակ։
-mr2022-onboarding-colorway-label-innovator = Նորարար
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Նորարար (նարնջագույն)
-mr2022-onboarding-colorway-description-innovator = <b>Դուք նորարար եք:</b> Դուք տեսնում եք հնարավորություններ ամենուր և ազդեցություն եք թողնում ձեր շրջապատի բոլոր մարդկանց կյանքի վրա:
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Անցեք լափթոփից հեռախոս և ետ եկեք
-mr2022-onboarding-mobile-download-subtitle = Վերցրեք ներդիրները մեկ սարքից և շարունակեք այնտեղից, որտեղ կանգ եք առել մեկ այլ սարքում: Բացի այդ, համաժամեցրեք ձեր էջանիշերն ու գաղտնաբառերը ցանկացած վայրում, որտեղ օգտագործում եք { -brand-product-name }:
 mr2022-onboarding-mobile-download-cta-text = Սկանավորեք QR կոդը՝ { -brand-product-name }-ը բջջային հեռախոսի համար ստանալու համար կամ <a data-l10n-name="download-label">ուղարկեք ինքներդ ձեզ ներբեռնման հղում։</a>
 mr2022-onboarding-no-mobile-download-cta-text = Սկանավորեք QR կոդը՝ { -brand-product-name }-ը բջջային հեռախոսի համար ստանալու համար։
 
@@ -326,15 +268,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Բաց և մուգ մաշկ ունեցողների ձեռքերը՝ ձեռքդ բարձր պահած
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Արևմուտի տեսարան պատուհանից՝ աղվեսի և սենյակային բույսի հետ պատուհանագոգին
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Ձեռքի սփրեյը գունավոր կոլաժ է ստեղծում՝ կանաչ աչք, նարնջագույն կոշիկ, կարմիր բասկետբոլի գնդակ, մանուշակագույն ականջակալներ, կապույտ սիրտ և դեղին թագ
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Աղվեսը նոութբուքի էկրանին ձեռքով է անում։ Նոութբուքին միացված է մկնիկ։
 onboarding-device-migration-title = Բարի վերադարձ
-onboarding-device-migration-subtitle = Մուտք գործեք ձեր { -fxaccount-brand-name(capitalization: "sentence") } հաշիվ՝ ձեր էջանիշները, գաղտնաբառերը և պատմությունը ձեզ հետ նոր սարքում տեղափոխելու համար։
 onboarding-device-migration-subtitle2 = Մուտք գործեք ձեր հաշիվ՝ ձեր էջանիշները, գաղտնաբառերը և պատմությունը ձեզ հետ նոր սարքում տեղափոխելու համար։
 onboarding-device-migration-primary-button-label = Մուտք գործել
 
@@ -446,15 +385,12 @@ tab-groups-onboarding-feature-callout-title = Փորձեք ներդիրների 
 tab-groups-onboarding-feature-callout-subtitle = Կազմակերպվեք՝ մեկ ներդիրը մյուսի վրա քաշելով՝ ձեր առաջին խումբը ստեղծելու համար։
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Գտեք ձեր ներդիրների խմբերը «Բոլոր ներդիրների ցանկ» ցանկում ցանկացած ժամանակ։
-tab-groups-onboarding-create-group-title-2 = Գտեք ձեր ներդիրների խմբերը ցանկացած ժամանակ:
 tab-groups-onboarding-create-group-no-alltabs-button-title = Գտեք ձեր խմբերը՝ որոնելով դրանք հասցեագոտում։
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Երբ փակում եք որևէ ներդիրների խումբ, ցանկացած պահի կարող եք այն վերաբացել «Ցանկացնել բոլոր ներդիրները» ցանկից։
-tab-groups-onboarding-saved-groups-title-2 = Երբ փակում եք ներդիրների խումբը, կարող եք այն վերաբացել այստեղ ցանկացած պահի։
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Գտեք ձեր փակ խմբերը՝ որոնելով դրանք հասցեների տողում։
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Վերաբացեք ձեր ներդիրների խմբերը «Ցանկացնել բոլոր ներդիրները» ցանկից ցանկացած պահի։
-tab-groups-onboarding-session-restore-title = Վերաբացեք ձեր ներդիրների խմբերը այստեղ ցանկացած ժամանակ։
 tab-groups-onboarding-dismiss = Լավ
 
 ## Multi Profiles feature onboarding messages

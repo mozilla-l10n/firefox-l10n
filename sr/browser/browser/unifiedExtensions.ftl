@@ -36,9 +36,6 @@ unified-extensions-item-message-manage = Управљај додатком
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = { $extensionName } је ограничено. Коришћење може бити ризично.
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName } крши Mozilla-ине смернице. Коришћење може бити ризично.
 
 ## Extension's context menu
 
@@ -57,8 +54,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Неки додаци нису дозвољени
-unified-extensions-mb-quarantined-domain-message = Ради заштитите ваших податаке, на овом сајту су дозвољене само одређени додаци које надгледа { -vendor-short-name }.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Неки додаци нису дозвољени
@@ -74,13 +69,6 @@ unified-extensions-mb-blocklist-warning-single2 =
         Овај додатак је ограничен те је онемогућен.
         Можете га омогућити у подешавањима, али то може бити ризично.
 # Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = Додатак { $extensionName } је онемогућен
-    .message =
-        Овај додатак крши Mozilla-ине смернице и онемогућен је.
-        Можете га омогућити у подешавањима, али то може бити ризично.
-# Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
     .heading = Додатак { $extensionName } је онемогућен
@@ -88,36 +76,24 @@ unified-extensions-mb-blocklist-error-single =
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } додатак је онемогућен
+            [few] { $extensionsCount } додатка су онемогућена
+           *[other] { $extensionsCount } додатака је онемогућено
+        }
     .message =
         Неки од ваших додатака су ограничени и онемогућени.
         Можете их омогућити у подешавањима, али то може бити ризично.
-    .heading =
-        { $extensionsCount ->
-            [one] { $extensionsCount } додатак је онемогућен
-            [few] { $extensionsCount } додатка су онемогућена
-           *[other] { $extensionsCount } додатака је онемогућено
-        }
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .message =
-        Неки од ваших додатака су онемогућени због кршења Mozilla-иних смерница.
-        Можете их омогућити у подешавањима, али то може бити ризично.
-    .heading =
-        { $extensionsCount ->
-            [one] { $extensionsCount } додатак је онемогућен
-            [few] { $extensionsCount } додатка су онемогућена
-           *[other] { $extensionsCount } додатака је онемогућено
-        }
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =
-    .message = Неки од ваших додатака су онемогућени због кршења Mozilla-иних смерница.
     .heading =
         { $extensionsCount ->
             [one] { $extensionsCount } додатак је онемогућен
             [few] { $extensionsCount } додатка су онемогућена
            *[other] { $extensionsCount } додатака је онемогућено
         }
+    .message = Неки од ваших додатака су онемогућени због кршења Mozilla-иних смерница.
 unified-extensions-notice-safe-mode =
     .message = Сви додаци су онемогућени у режиму за решавање проблема.

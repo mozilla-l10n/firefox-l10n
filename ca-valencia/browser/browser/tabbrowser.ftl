@@ -7,11 +7,6 @@ tabbrowser-menuitem-close-tab =
     .label = Tanca la pestanya
 tabbrowser-menuitem-close =
     .label = Tanca
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -19,14 +14,6 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [one] Tanca la pestanya
-           *[other] Tanca { $tabCount } pestanyes
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [one] Tanca la pestanya
            *[other] Tanca { $tabCount } pestanyes
@@ -79,7 +66,6 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = Voleu tancar { $tabCount } pestanyes?
 tabbrowser-confirm-close-tabs-button = Tanca les pestanyes
-tabbrowser-confirm-close-tabs-checkbox = Confirma abans de tancar diverses pestanyes de colp
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -99,9 +85,6 @@ tabbrowser-confirm-close-windows-button =
 
 tabbrowser-confirm-close-tabs-with-key-title = Voleu tancar la finestra i eixir del { -brand-short-name }?
 tabbrowser-confirm-close-tabs-with-key-button = Ix del { -brand-short-name }
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = Confirma abans d'eixir amb { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 

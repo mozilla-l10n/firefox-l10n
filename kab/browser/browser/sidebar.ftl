@@ -32,7 +32,6 @@ sidebar-history-clear =
     .label = Sfeḍ amazray
 sidebar-history-sort-by-heading-menucaption =
     .label = Smizwer s:
-sidebar-history-sort-by-heading = Smizwer s:
 sidebar-history-sort-option-date =
     .label = Azemz
 sidebar-history-sort-option-site =
@@ -52,14 +51,9 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Isiɣzaf n ufeggag adisan
-sidebar-customize-firefox-tools-header =
-    .label = Ifecka n { -brand-product-name }
 sidebar-customize-firefox-settings = Sefrek iɣewwaren n { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Accaren ubdiden
-sidebar-settings =
-    .label = Iɣewwaren n ufeggag adisan
 sidebar-hide-tabs-and-sidebar =
     .label = Ffer accaren d ufeggag adisan
 sidebar-show-on-the-right =
@@ -75,8 +69,6 @@ expand-sidebar-on-hover =
 
 sidebar-context-menu-manage-extension =
     .label = Sefrek asiɣzef
-sidebar-context-menu-remove-extension =
-    .label = Kkes asiɣzef
 sidebar-context-menu-report-extension =
     .label = Mmel asiɣzef
 sidebar-context-menu-open-in-tab =

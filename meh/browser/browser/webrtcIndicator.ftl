@@ -33,7 +33,6 @@ webrtc-camera-muted =
 
 ##
 
-webrtc-share-screen-learn-more = Ka´vi kue´eka
 webrtc-pick-window-or-screen = Kaji ventana a xíín pantalla
 webrtc-share-entire-screen = Pantalla ka'nu
 webrtc-share-pipe-wire-portal = Ni'i da ajustes sistema operativo

@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxviewtabrow-open-menu-button =
-    .title = Vierç menù
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
@@ -24,10 +22,6 @@ fxviewtabrow-dismiss-tab-button =
     .title = Scarte { $tabTitle }
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Juste cumò
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-delete = Elimine
     .accesskey = E
 fxviewtabrow-forget-about-this-site = Dimentee chest sît…
@@ -57,8 +51,6 @@ fxviewtabrow-send-to-device = Mande a dispositîf
     .accesskey = n
 fxviewtabrow-send-to-mobile = Mande a dispositîf mobil
     .accesskey = M
-fxviewtabrow-send-tab = Invie schede a dispositîf
-    .accesskey = n
 fxviewtabrow-pin-tab = Fisse la schede
     .accesskey = F
 fxviewtabrow-unpin-tab = Mole la schede
@@ -82,8 +74,5 @@ fxviewtabrow-send-to-mobile-connect-device = Conet un dispositîf par mandâ sch
 fxviewtabrow-send-to-mobile-device-missing2 = No tu cjatis il to dispositîf?
 fxviewtabrow-send-to-mobile-not-verified = Account no verificât
 fxviewtabrow-send-to-mobile-verify-account = Verifiche il to account
-
-## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
-
 fxviewtabrow-send-to-mobile-sign-in = Jentre par mandâ schedis
 fxviewtabrow-send-to-mobile-turn-on-sync = Ative la sincronizazion par mandâ schedis

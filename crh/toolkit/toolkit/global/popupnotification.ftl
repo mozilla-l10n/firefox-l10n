@@ -4,6 +4,3 @@
 
 popup-notification-more-actions-button =
     .aria-label = Daa çoq ameller
-popup-notification-default-button =
-    .label = Tamam!
-    .accesskey = T

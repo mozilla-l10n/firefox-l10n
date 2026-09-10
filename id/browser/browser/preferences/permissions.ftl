@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Pengecualian
     .style = min-width: 41em
+    .title = Pengecualian
 permissions-close-key =
     .key = w
 permissions-address = Alamat situs web
@@ -77,69 +77,54 @@ permissions-invalid-uri-label = Mohon masukkan nama host yang valid
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Pengecualian untuk Perlindungan Pelacakan yang Ditingkatkan
     .style = { permissions-window2.style }
+    .title = Pengecualian untuk Perlindungan Pelacakan yang Ditingkatkan
 permissions-exceptions-manage-etp-desc = Anda dapat menentukan situs web yang menonaktifkan Perlindungan Pelacakan yang Ditingkatkan. Ketikkan alamat persis situs yang ingin Anda kelola, lalu klik Tambah Pengecualian.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Pengecualian - Kuki dan Data Situs
     .style = { permissions-window2.style }
+    .title = Pengecualian - Kuki dan Data Situs
 permissions-exceptions-cookie-desc = Anda dapat menentukan situs web mana saja yang diizinkan atau tidak diizinkan untuk menggunakan kuki dan data situs. Ketik alamat situs secara persis yang ingin dikelola, kemudian klik Blokir, Izinkan untuk Sesi, atau Izinkan.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Pengecualian - Mode HTTPS-Only
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Anda dapat mematikan Mode HTTPS-Saja untuk situs web tertentu. { -brand-short-name } tidak akan mencoba meningkatkan sambungan ke HTTPS aman untuk situs-situs tersebut. Pengecualian tidak berlaku untuk jendela-jendela pribadi.
+    .title = Pengecualian - Mode HTTPS-Only
 permissions-exceptions-https-only-desc2 = Anda dapat mematikan Mode HTTPS-Saja untuk situs web tertentu. { -brand-short-name } tidak akan mencoba meningkatkan sambungan ke HTTPS aman untuk situs-situs tersebut.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-desc2 = Anda dapat menentukan situs web mana yang diizinkan untuk membuka jendela pop-up dan diarahkan oleh bingkai pihak ketiga.
 
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Situs Web yang Diizinkan - Pop-up
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Anda dapat menentukan situs web mana saja yang diizinkan untuk membuka jendela pop-up. Ketik alamat situs secara persis yang akan diizinkan, lalu klik Izinkan.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Pengecualian - Info Masuk Tersimpan
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Info masuk untuk situs berikut ini tidak akan disimpan
-
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Pengecualian - Sandi Tersimpan
     .style = { permissions-window2.style }
+    .title = Pengecualian - Sandi Tersimpan
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } tidak akan menyimpan sandi untuk situs yang terdaftar di sini.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Situs Web yang Diizinkan - Pemasangan Pengaya
     .style = { permissions-window2.style }
+    .title = Situs Web yang Diizinkan - Pemasangan Pengaya
 permissions-exceptions-addons-desc = Anda dapat menentukan situs web mana saja yang diizinkan untuk memasang Pengaya. Ketik alamat situs secara persis yang akan diizinkan, lalu klik Izinkan.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Pengaturan - Putar-otomatis
     .style = { permissions-window2.style }
+    .title = Pengaturan - Putar-otomatis
 permissions-site-autoplay-desc = Anda dapat mengelola situs yang tidak mengikuti pengaturan putar-otomatis baku Anda di sini.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Setelan - Izin Notifikasi
     .style = { permissions-window2.style }
+    .title = Setelan - Izin Notifikasi
 permissions-site-notification-desc = Situs web berikut meminta izin mengirimkan notifikasi. Anda dapat menentukan situs web mana saja yang diizinkan mengirimi Anda notifikasi. Anda juga dapat memblokir permintaan baru untuk mengirimkan notifikasi.
 permissions-site-notification-disable-label =
     .label = Blokir permintaan baru untuk notifikasi
@@ -148,8 +133,8 @@ permissions-site-notification-disable-desc = Ini akan mencegah situs web apa pun
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Setelan - Izin Lokasi
     .style = { permissions-window2.style }
+    .title = Setelan - Izin Lokasi
 permissions-site-location-desc = Situs web berikut ini minta mengakses lokasi Anda. Anda dapat menentukan situs web apa saja yang diizinkan mengakses lokasi Anda. Anda juga dapat memblokir permintaan baru yang minta mengakses lokasi Anda.
 permissions-site-location-disable-label =
     .label = Blokir permintaan baru untuk mengakses lokasi Anda
@@ -158,8 +143,8 @@ permissions-site-location-disable-desc = Ini akan mencegah situs web apa pun yan
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Setelan - Izin Realitas Virtual
     .style = { permissions-window2.style }
+    .title = Setelan - Izin Realitas Virtual
 permissions-site-xr-desc = Situs web berikut ini minta mengakses perangkat realitas virtual Anda. Anda dapat menentukan situs web apa saja yang diizinkan mengakses perangkat realitas virtual Anda. Anda juga dapat memblokir permintaan baru yang minta mengakses perangkat realitas virtual Anda.
 permissions-site-xr-disable-label =
     .label = Blokir permintaan baru untuk mengakses perangkat realitas virtual Anda
@@ -168,8 +153,8 @@ permissions-site-xr-disable-desc = Ini akan mencegah situs web apa pun yang tida
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Setelan - Izin Kamera
     .style = { permissions-window2.style }
+    .title = Setelan - Izin Kamera
 permissions-site-camera-desc = Situs web berikut ini minta mengakses kamera Anda. Anda dapat menentukan situs web apa saja yang diizinkan untuk mengakses kamera Anda. Anda juga dapat memblokir permintaan baru yang minta mengakses kamera Anda.
 permissions-site-camera-disable-label =
     .label = Blokir permintaan baru untuk mengakses kamera Anda
@@ -178,14 +163,14 @@ permissions-site-camera-disable-desc = Ini akan mencegah situs web apa pun yang 
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = Pengaturan - Aplikasi dan layanan perangkat
     .style = { permissions-window2.style }
+    .title = Pengaturan - Aplikasi dan layanan perangkat
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Setelan - Izin Mikrofon
     .style = { permissions-window2.style }
+    .title = Setelan - Izin Mikrofon
 permissions-site-microphone-desc = Situs web berikut ini minta mengakses mikrofon Anda. Anda dapat menentukan situs web apa saja yang diizinkan mengakses mikrofon Anda. Anda juga dapat memblokir permintaan baru yang minta mengakses mikrofon Anda.
 permissions-site-microphone-disable-label =
     .label = Blokir permintaan baru untuk mengakses mikrofon Anda
@@ -196,12 +181,12 @@ permissions-site-microphone-disable-desc = Ini akan mencegah situs web apa pun y
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Setelan - Izin Speaker
     .style = { permissions-window2.style }
+    .title = Setelan - Izin Speaker
 permissions-site-speaker-desc = Situs web berikut meminta untuk memilih perangkat output audio. Anda dapat menentukan situs web mana saja yang diizinkan untuk memilih perangkat output audio.
 permissions-exceptions-doh-window =
-    .title = Pengecualian Situs Web untuk DNS melalui HTTPS
     .style = { permissions-window2.style }
+    .title = Pengecualian Situs Web untuk DNS melalui HTTPS
 permissions-exceptions-manage-doh-desc = { -brand-short-name } tidak akan menggunakan DNS aman untuk situs berikut beserta subdomainnya.
 permissions-doh-entry-field = Masukkan nama domain situs web
     .accesskey = d

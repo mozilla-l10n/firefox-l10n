@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = Indicador de compartición de { -brand-short-name }
-webrtc-indicator-window =
-    .title = Indicador de compartición de { -brand-short-name }
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Yes compartindo lo tuyo microfono. Fe clic pa controlar la suya compartición.
 webrtc-screen-system-menu =
     .label = Yes compartindo la tuya finestra u una pantalla. Fe clic pa controlar la suya compartición.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Ye compartindo a suya camara y microfono. Faga clic ta controlar a compartición.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Ye compartindo a suya camara. Faga clic ta controlar a compartición.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Ye compartindo o suyo microfono. Faga clic ta controlar a compartición.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Se ye compartindo una aplicación. Faiga clic ta controlar a compartición.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Ye compartindo a suya pantalla. Faga clic ta controlar a compartición.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Ye compartindo una finestra. Faga clic ta controlar a compartición.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Se ye compartindo una pestanya. Faga clic ta controlar a compartición.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -138,7 +119,6 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
-webrtc-share-screen-learn-more = Saber-ne mas
 webrtc-pick-window-or-screen = Triar finestra u pantalla
 webrtc-share-entire-screen = Pantalla completa
 # Variables:

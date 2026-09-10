@@ -45,8 +45,6 @@ downloads-cmd-always-use-system-default =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = Kythe Doonloads Folder
 downloads-cmd-retry =
     .tooltiptext = Try Again
 downloads-cmd-retry-panel =

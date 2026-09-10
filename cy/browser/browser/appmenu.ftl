@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = Estyniadau a Themâu
 appmenuitem-extensions =
     .label = Estyniadau
-appmenuitem-addons-and-themes =
-    .label = Ychwanegion a Themâu
 appmenuitem-print =
     .label = Argraffu…
 appmenuitem-find-in-page =
@@ -154,7 +152,6 @@ fxa-menu-get-firefox-mobile =
     .label = Cael { -brand-product-name } ar gyfer Android neu iOS
 fxa-menu-secure-sync-subpanel =
     .title = Cydweddu diogel
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Cyfrif
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -176,15 +173,6 @@ appmenuitem-save-page =
     .label = Cadw Tudalen Fel…
 appmenuitem-fxa-sync-off-title = Mae Sync i ffwrdd
 appmenuitem-fxa-sync-off-description = Diogelu a chael mynediad i'ch nodau tudalen, cyfrineiriau, a rhagor yn unrhyw le.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Beth sy'n Newydd
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Hysbysu am nodweddion newydd
-    .accesskey = H
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -326,8 +314,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Rhagor o Wybodaeth Datrys Problemau
     .accesskey = D
-appmenu-help-report-site-issue =
-    .label = Adrodd am Fater Gwefan…
 appmenu-help-share-ideas =
     .label = Rhannu syniadau ac adborth…
     .accesskey = R
@@ -393,7 +379,6 @@ appmenuitem-vpn-description5 = Cael diogelwch ychwanegol ar draws dyfeisiau
 appmenuitem-vpn-title-signed-in1 = Llwythwch { -mozilla-vpn-brand-name } i lawr
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Cael diogelwch dyfais gyfan
-appmenuitem-vpn-description = Diogelwch eich preifatrwydd ar-lein
 appmenu-services-header = Gwasanaethau
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -403,7 +388,6 @@ appmenu-other-protection-header3 = Offer preifatrwydd
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Rhowch gynnig ar offer diogelu eraill gan Mozilla:
-appmenu-other-protection-header = Rhowch gynnig ar offer diogelu eraill gan { -vendor-short-name }:
 
 ## Profiles panel
 

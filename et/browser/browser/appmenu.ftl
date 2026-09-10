@@ -37,8 +37,6 @@ appmenuitem-extensions-and-themes =
     .label = Laiendused ja teemad
 appmenuitem-extensions =
     .label = Laiendused
-appmenuitem-addons-and-themes =
-    .label = Lisad ja teemad
 appmenuitem-print =
     .label = Prindi…
 appmenuitem-find-in-page =
@@ -107,7 +105,6 @@ appmenu-remote-tabs-unverified = Sinu konto vajab kinnitamist.
 appmenuitem-fxa-toolbar-sync-now2 = Sünkroniseeri kohe
 appmenuitem-fxa-sign-in = Logi { -brand-product-name }i sisse
 appmenuitem-fxa-manage-account = Halda kontot
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Konto
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -123,15 +120,6 @@ appmenuitem-save-page =
     .label = Salvesta veebileht kui…
 appmenuitem-fxa-sync-off-title = Sync on väljas
 appmenuitem-fxa-sync-off-description = Kaitse oma järjehoidjaid, paroole ja muud ning pääse neile kõikjal ligi.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Mis on uut?
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Uutest funktsioonidest antakse teada
-    .accesskey = U
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -244,8 +232,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Rohkem probleemide lahendamise teavet
     .accesskey = R
-appmenu-help-report-site-issue =
-    .label = Anna teada saidil olevast veast…
 appmenu-help-share-ideas =
     .label = Jaga ideid ja tagasisidet…
     .accesskey = J
@@ -294,13 +280,11 @@ appmenuitem-relay-description = Peida oma tegelik e-post ja telefon
 appmenuitem-services-relay-description = Käivita e-posti maskide juhtpaneel
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Hangi kogu seadme kaitse
-appmenuitem-vpn-description = Kaitse oma veebitegevust
 appmenu-services-header = Minu teenused
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Proovi teisi Mozilla kaitsetööriistu:
-appmenu-other-protection-header = Proovi teisi kaitsetööriistu pakkujalt { -vendor-short-name }:
 
 ## Profiles panel
 

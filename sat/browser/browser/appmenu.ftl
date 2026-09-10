@@ -31,8 +31,6 @@ appmenuitem-extensions-and-themes =
     .label = ᱯᱟᱥᱱᱟᱣ ᱟᱨ ᱛᱷᱤᱢ ᱠᱚ
 appmenuitem-extensions =
     .label = ᱯᱟᱥᱱᱟᱣ ᱠᱚ
-appmenuitem-addons-and-themes =
-    .label = ᱮᱰᱚᱱᱥ ᱟᱨ ᱛᱷᱮᱢᱥ
 appmenuitem-print =
     .label = ᱪᱷᱟᱯᱟ…
 appmenuitem-find-in-page =
@@ -101,7 +99,6 @@ appmenu-remote-tabs-unverified = ᱟᱢᱟᱠ ᱠᱷᱟᱛᱟ ᱧᱮᱞ ᱢᱤ�
 appmenuitem-fxa-toolbar-sync-now2 = ᱱᱤᱛᱚᱜ ᱥᱤᱸᱝᱠ ᱢᱮ
 appmenuitem-fxa-sign-in = { -brand-product-name } ᱨᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
 appmenuitem-fxa-manage-account = ᱠᱷᱟᱛᱟ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
-appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-account-header = ᱠᱷᱟᱛᱟ
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -117,15 +114,6 @@ appmenuitem-save-page =
     .label = ᱞᱮᱠᱟ ᱥᱟᱦᱴᱟ ᱥᱟᱺᱪᱟᱣ...
 appmenuitem-fxa-sync-off-title = ᱥᱭᱝᱠ ᱵᱚᱸᱫᱚ ᱢᱮᱱᱟᱜ-ᱟ
 appmenuitem-fxa-sync-off-description = ᱟᱢᱟᱜ ᱵᱩᱠᱢᱟᱨᱠ, ᱯᱟᱥᱣᱟᱨᱰ ᱟᱨ ᱟᱭᱢᱟ ᱡᱟᱦᱟᱸ ᱨᱮᱜᱮ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟᱨ ᱚᱱᱟ ᱨᱮᱭᱟᱜ ᱟᱫᱮᱨ ᱧᱟᱢ  ᱢᱮ ᱾
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = ᱪᱮᱫ ᱱᱟᱶᱟ ᱢᱮᱱᱟᱜ-ᱟ
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = ᱱᱟᱶᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱵᱟᱵᱚᱛ ᱵᱟᱲᱟᱭ ᱦᱚᱪᱚᱭᱟᱹᱧ ᱢᱮ
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -238,8 +226,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = ᱫᱤᱜᱫᱷᱟᱹ ᱦᱩᱭᱩᱜ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
     .accesskey = t
-appmenu-help-report-site-issue =
-    .label = ᱥᱟᱭᱤᱴ ᱨᱮᱭᱟᱜ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱤᱛᱞᱟᱹᱭ ᱢᱮ…
 appmenu-help-share-ideas =
     .label = ᱟᱢᱟᱜ ᱢᱚᱱᱮ ᱵᱤᱪᱟᱹᱨ ᱟᱨ ᱢᱮᱢᱮᱱ ᱠᱚ ᱦᱟᱹᱴᱤᱧ ᱢᱮ…
     .accesskey = S
@@ -285,13 +271,11 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = ᱟᱢᱟᱜ ᱴᱷᱤᱠ ᱤᱢᱮᱞ ᱟᱨ ᱯᱷᱚᱱ ᱩᱠᱩᱭ ᱢᱮ
 appmenuitem-services-relay-description = ᱤᱢᱮᱞ ᱢᱟᱥᱠ ᱰᱮᱥᱵᱚᱨᱰ ᱯᱟᱨᱥᱟᱞ ᱢᱮ
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description = ᱟᱢᱟᱜ ᱚᱱᱞᱟᱭᱤᱱ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱨᱩᱠᱷᱤᱭᱟᱹᱭᱢᱮ
 appmenu-services-header = ᱤᱧᱟᱜ ᱥᱮᱵᱟ ᱠᱚ
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Mozilla ᱠᱷᱚᱱ ᱮᱴᱟᱜ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱥᱟᱯᱟᱵ ᱠᱚ ᱪᱮᱥᱴᱟᱭ ᱢᱮ :
-appmenu-other-protection-header = { -vendor-short-name } ᱠᱷᱚᱱ ᱮᱴᱟᱜ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱥᱟᱯᱟᱵ ᱠᱚ ᱪᱮᱥᱴᱟᱭ ᱢᱮ :
 
 ## Profiles panel
 

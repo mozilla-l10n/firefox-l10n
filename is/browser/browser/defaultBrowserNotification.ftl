@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = Hafðu { -brand-short-name } innan seilinga
 default-browser-prompt-message-pin-msix = Hafðu { -brand-short-name } innan seilingar — gerðu hann að sjálfgefnum vafra og festu hann við verkefnastikuna þína og upphafsvalmyndina.
 default-browser-prompt-message-pin-mac = Hafðu { -brand-short-name } innan seilingar — gerðu hann að sjálfgefnum vafra og hafðu hann í dokkunni.
 default-browser-prompt-button-primary-set = Gera að aðalvafra
-default-browser-prompt-button-primary-pin = Gera að aðalvafra
 default-browser-prompt-title-alt = Gera { -brand-short-name } að sjálfgefnum vafra?
 default-browser-prompt-message-alt = Fáðu hraða, öryggi og næði í hvert skipti sem þú vafrar.
 default-browser-prompt-button-primary-alt = Setja sem sjálfgefinn vafra

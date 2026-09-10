@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = أتريد إضافة { $extension }؟
-webext-perms-header-with-perms = أتريد إضافة { $extension }؟ لهذا الامتداد تصريح:
-webext-perms-header-unsigned = أتريد إضافة { $extension }؟ لم يُتحقق من هذا الامتداد. تستطيع الامتدادات الخبيثة سرقة بيانات الخاصة أو تعريض حاسوبك للخطر. لا تُضفه إلا إن كنت تثق في مصدره.
-webext-perms-header-unsigned-with-perms = أتريد إضافة { $extension }؟ لم يُتحقق من هذا الامتداد. تستطيع الامتدادات الخبيثة سرقة بيانات الخاصة أو تعريض حاسوبك للخطر. لا تُضفه إلا إن كنت تثق في مصدره. لهذا الامتداد تصريح:
 webext-perms-sideload-header = أُضيف { $extension }
 webext-perms-optional-perms-header2 = يطلب { $extension } أذونات إضافية.
-webext-perms-optional-perms-header = يطلب { $extension } صلاحيات إضافية.
 webext-perms-header2 = أضف { $extension }
 webext-perms-list-intro-unsigned = قد يُعرّض هذا الامتداد غير الموثوق خصوصيتك للخطر أو يُلحق الضرر بجهازك. لا تثبته إلا إذا كنت تثق بمصدره.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = حُدِّث { $extension }. يجب عليك الموافقة على الأذونات الجديدة قبل تثبيت الإصدار المُحدَّث. سيؤدي اختيار "ألغِ" إلى الاحتفاظ بإصدار الإضافة الحالي.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = حُدّث { $extension }. يجب عليك الموافقة على الصلاحيات الجديدة لتنصيب النسخة المحدّثة. اختيار الإلغاء سيُبقي النسخة الحالية من الامتداد. لهذا الامتداد تصريح:
 webext-perms-update-accept =
     .label = حدّث
     .accesskey = ح
@@ -72,30 +64,8 @@ webext-perms-host-description-all-urls = الوصول إلى بياناتك لك
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = الوصول إلى بياناتك للمواقع في النطاق { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] الوصول إلى بياناتك في نطاق آخر
-        [two] الوصول إلى بياناتك في نطاقين آخرين
-        [few] الوصول إلى بياناتك في { $domainCount } نطاقات أخرى
-        [many] الوصول إلى بياناتك في { $domainCount } نطاقًا آخر
-       *[other] الوصول إلى بياناتك في { $domainCount } نطاق آخر
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = الوصول إلى بياناتك لموقع { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] الوصول إلى بياناتك في موقع آخر
-        [two] الوصول إلى بياناتك في موقعين آخرين
-        [few] الوصول إلى بياناتك في { $domainCount } مواقع أخرى
-        [many] الوصول إلى بياناتك في { $domainCount } موقعًا آخر
-       *[other] الوصول إلى بياناتك في { $domainCount } موقع آخر
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

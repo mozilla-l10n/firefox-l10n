@@ -21,7 +21,6 @@ neterror-return-to-previous-page-button = وورگرت
 neterror-return-to-previous-page-recommended-button = وورگرت (پؽشنهاڌ ابۊ)
 neterror-try-again-button-2 = قپ ریت دووارته
     .accesskey = T
-neterror-try-again-button = قپ ریت دووارته
 neterror-view-certificate-link = نیشتن گوواهی
 
 ## Specific error messages

@@ -28,13 +28,11 @@ policy-DisableAppUpdate = പുതുക്കുന്നതില്‍ ന�
 policy-DisableBuiltinPDFViewer = { -brand-short-name }ലെ അന്തർനിർമ്മിത പിഡിഎഫ് വ്യൂവർ PDF.js അപ്രാപ്‌തമാക്കുക.
 policy-DisableDeveloperTools = വികസനാക്താവു് ഉപകരണങ്ങളിലേക്കുള്ള പ്രവേശണം തടയുക
 policy-DisableFeedbackCommands = സഹായ മെനുവിൽ നിന്ന് ഫീഡ്‌ബാക്ക് അയയ്‌ക്കുന്നതിന് കമാൻഡുകൾ പ്രവർത്തനരഹിതമാക്കുക (ഫീഡ്‌ബാക്ക് സമർപ്പിക്കുക, വഞ്ചനാപരമായ സൈറ്റ് റിപ്പോർട്ടുചെയ്യുക).
-policy-DisableFirefoxAccounts = സമന്വയം ഉൾപ്പെടെ { -fxaccount-brand-name } അടിസ്ഥാനമാക്കിയുള്ള സേവനങ്ങൾ അപ്രാപ്‌തമാക്കുക.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = ഫയർഫോക്സ് സ്ക്രീൻഷോട്ട്സ് അപ്രാപ്തമാക്കുക.
 policy-DisableFirefoxStudies = പഠനങ്ങൾ നടത്തുന്നതിൽ നിന്ന് { -brand-short-name } തടയുക.
 policy-DisableForgetButton = മറക്കുല്‍ ബട്ടണിലേയ്ക്കുള്ല പ്രവേശനം തടയുക.
 policy-DisableFormHistory = തിരയലുകളുടേയും ഫോമുകളുടെയും ചരിത്രം ഓര്‍ക്കേണ്ട.
-policy-DisablePocket2 = വെബുതാളുകളെ { -pocket-brand-name }-ലേക്കു് കരുതിവയ്ക്കുന്ന സവിശേഷത പ്രവൎത്തനരഹിതമാക്കുക.
 policy-DisablePrivateBrowsing = സ്വകാര്യ തിരയൽ അപ്രാപ്തമാക്കുക.
 policy-DisableProfileImport = മറ്റൊരു അന്വേഷിയന്ത്രം നിന്നു് ദത്ത ഇറക്കുമതി ചെയ്യുന്നതിനുള കുറിപ്പടി നിൎദ്ദേശം പ്രവൎത്തനരഹിതമാക്കുക.
 policy-DisableSecurityBypass = ചില സുരക്ഷാ മുന്നറിയിപ്പുകൾ മറികടക്കുന്നതിൽ നിന്നും ഉപയോക്താവിനെ തടയുക.

@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Yañartma endirile — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Yañartma endirile — { $transfer }
 
@@ -29,7 +28,6 @@ settings-update-applying =
     .label = Yañartma uyğulana…
 update-failed = Yañartma muvafaqiyetsiz edi.<label data-l10n-name="failed-link">Soñki sürümni endir</label>
 update-failed-main = Yañartma muvafaqiyetsiz edi.<a data-l10n-name="failed-link-main">Soñki sürümni endir</a>
-update-adminDisabled = Yañartmalar sistem memurıñız tarafından ğayrıqabilleştirilgen
 update-noUpdatesFound = { -brand-short-name } künceldir
 settings-update-no-updates-found =
     .label = { -brand-short-name } künceldir
@@ -58,8 +56,6 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name }, <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> tarafından tasarımlanğandır. { -vendor-short-name }, İnternetni daa yahşı yapmaq içün beraber çalışqan <label data-l10n-name="community-creditsLink">kürreviy bir toplulıq</label>tır.
 helpus = Yardım etesiñiz kele? <label data-l10n-name="helpus-donateLink">Bir hibe yapıñız</label> yaki <label data-l10n-name="helpus-getInvolvedLink">methaldar oluñız!</label>
 bottomLinks-license = Litsenziyalama Malümatı
-bottomLinks-rights = Ahır-Qullanıcı Aqları
-bottomLinks-privacy = Hususiyat Siyaseti
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

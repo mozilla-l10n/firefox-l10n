@@ -26,22 +26,10 @@ xpinstall-prompt-never-allow =
 xpinstall-prompt-install =
     .label = Seguir con a instalación
     .accesskey = S
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = A instalación de software ha estau desactivada por l'administrador d'o suyo sistema.
 xpinstall-disabled = A instalación de software ye actualment desactivada. Prete Activar y torne-lo a prebar.
 xpinstall-disabled-button =
     .label = Activar
     .accesskey = H
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ye blocau per lo tuyo administrador de sistemas.
 addon-install-full-screen-blocked = La instalación de complementos no ye permitida mientres u antes de dentrar en o modo de pantalla completa.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -52,9 +40,6 @@ webext-perms-update-menu-item = { $addonName } requiere nuevos permisos
 
 ## Add-on removal warning
 
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Sacar { $name } de { -brand-shorter-name }?
 addon-removal-button = Eliminar
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
@@ -105,4 +90,3 @@ addon-local-install-error-not-signed = No s'ha puesto instalar iste complemento 
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = No s'ha puesto instalar { $addonName } porque no ye compatible con { -brand-short-name } { $appVersion }.
-addon-install-error-blocklisted = No s'ha puesto instalar { $addonName } porque i ha un alto risgo que pueda causar problemas d'estabilidat u seguranza.

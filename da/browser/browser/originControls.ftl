@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Udvidelsen kan ikke læse og ændre data
-origin-controls-quarantined =
-    .label = Udvidelse har ikke tilladelse til at læse og ændre data
 origin-controls-quarantined-status =
     .label = Udvidelse ikke tilladt på websteder underlagt begrænsninger
 origin-controls-quarantined-allow =

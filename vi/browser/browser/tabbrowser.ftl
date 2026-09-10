@@ -21,11 +21,6 @@ tabbrowser-tab-tooltip-container = { $containerName }
 #   $tabGroupName (String): the user-defined name of the current tab group.
 #   $containerName (String): the name of the current container.
 tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -33,10 +28,6 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext = Đóng { $tabCount } thẻ
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label = Đóng { $tabCount } thẻ
 tab-splitview-splitter =
     .aria-label = Thay đổi kích thước thẻ của chia cửa sổ
 tab-devtools-splitter =
@@ -80,7 +71,6 @@ tabbrowser-unblock-tab-audio-aria-label =
 tabbrowser-confirm-close-tabs-title = Đóng { $tabCount } thẻ?
 tabbrowser-confirm-close-tabs-button = Đóng thẻ
 tabbrowser-ask-close-tabs-checkbox = Hỏi trước khi đóng nhiều thẻ
-tabbrowser-confirm-close-tabs-checkbox = Xác nhận trước khi đóng nhiều thẻ
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -103,9 +93,6 @@ tabbrowser-confirm-close-tabs-with-key-button = Thoát { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-ask-close-tabs-with-key-checkbox = Hỏi trước khi thoát khi nhấn { $quitKey }
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = Xác nhận trước khi thoát bằng { $quitKey }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
@@ -400,8 +387,8 @@ tab-note-editor-button-save =
     .label = Lưu
     .accesskey = S
 tab-note-editor-button-delete =
-    .title = Xoá ghi chú
     .aria-label = Xoá ghi chú
+    .title = Xoá ghi chú
     .accesskey = D
 tab-note-preview-edit-icon =
     .alt = Chỉnh sửa ghi chú

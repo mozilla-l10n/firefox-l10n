@@ -8,8 +8,5 @@ label-interventions = Intervenciones
 # Variables:
 #   $bug (string) - Bug number
 label-more-information = Más información: error { $bug }
-label-overrides = Sama usuario
 text-disabled-in-about-config = Esta funcionalidad ha sido desactivada en about:config
 text-no-interventions = No se están utilizando intervenciones
-text-no-overrides = Ma sama UA
-text-title = about:compat

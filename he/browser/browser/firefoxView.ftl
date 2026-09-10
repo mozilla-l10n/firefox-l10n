@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = הצגת גלישה אחרונה בחלונות ומכשירים
@@ -16,37 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = סגירה
-    .aria-label = סגירה
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = ממש עכשיו
-firefoxview-tabpickup-description = פתיחת דפים ממכשירים אחרים.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% הושלמו
-firefoxview-tabpickup-step-signin-header = מעבר חלק בין מכשירים
-firefoxview-tabpickup-step-signin-description = כדי לקבל כאן את הלשוניות שלך מהטלפון, תחילה יש להיכנס או צור חשבון.
-firefoxview-tabpickup-step-signin-primarybutton = המשך
 firefoxview-syncedtabs-signin-header-2 = ה־{ -brand-product-name } שלך בכל המכשירים שלך
 firefoxview-syncedtabs-signin-description-2 = כדי לראות לשוניות שפתחת בטלפון ובמכשירים האחרים שלך, יש להיכנס או להירשם לחשבון. עם חשבון, באפשרותך גם לסנכרן את הססמאות, ההיסטוריה שלך ועוד.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = מעבר מהמחשב הנייד לטלפון, בצורה חלקה
 firefoxview-syncedtabs-signin-description-3 = ניתן לשמור על רצף הגלישה בין המכשירים - לשוניות, ססמאות והיסטוריה, הכל מסונכרן.
 firefoxview-syncedtabs-signin-primarybutton-2 = כניסה
-firefoxview-tabpickup-adddevice-header = סנכרון { -brand-product-name } בטלפון או במחשב לוח שלך
-firefoxview-tabpickup-adddevice-description = יש להוריד את { -brand-product-name } לנייד ולהתחבר שם.
-firefoxview-tabpickup-adddevice-learn-how = מידע נוסף
-firefoxview-tabpickup-adddevice-primarybutton = קבלת { -brand-product-name } לנייד
 firefoxview-syncedtabs-adddevice-header-2 = לקבל את הלשוניות מכל מקום
 firefoxview-syncedtabs-adddevice-description-2 = יש להתחבר ל־{ -brand-product-name } בטלפון שלך או במחשב אחר כדי לראות לשוניות כאן. מידע נוסף על <a data-l10n-name="url">חיבור מכשירים נוספים</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = קבלת { -brand-product-name } לנייד
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = הלשוניות שלך התקשרו. הם בטלפון שלך.
 firefoxview-syncedtabs-adddevice-description-3 = יש לסרוק את קוד ה־QR כדי לקבל את { -brand-product-name } לנייד ולהתחיל לסנכרן את הלשוניות הפתוחות שלך ועוד. מידע נוסף על <a data-l10n-name="url">חיבור מכשירים נוספים</a>.
-firefoxview-tabpickup-synctabs-header = הפעלת סנכרון לשוניות
-firefoxview-tabpickup-synctabs-description = יש לאפשר ל־{ -brand-short-name } לשתף לשוניות בין מכשירים.
-firefoxview-tabpickup-synctabs-learn-how = מידע נוסף
 firefoxview-tabpickup-synctabs-primarybutton = סנכרון לשוניות פתוחות
 firefoxview-tabpickup-synctabs-primarybutton-2 = הפעלת סנכרון לשוניות
 firefoxview-syncedtabs-synctabs-header = עדכון הגדרות הסנכרון שלך
@@ -58,7 +38,6 @@ firefoxview-syncedtabs-loading-description = כשהסנכרון יסתיים, כ
 firefoxview-syncedtabs-loading-header-2 = בתהליך אחזור הלשוניות שלך…
 firefoxview-syncedtabs-loading-description-2 = הסנכרון בתהליך. הלשוניות יהיו כאן בקרוב.
 firefoxview-tabpickup-fxa-admin-disabled-header = הארגון שלך השבית את הסנכרון
-firefoxview-tabpickup-fxa-admin-disabled-description = אין באפשרות { -brand-short-name } לסנכרן לשוניות בין מכשירים מכיוון שמנהל המערכת שלך השבית את האפשרות לסנכרון.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = אין באפשרות { -brand-short-name } לסנכרן לשוניות בין מכשירים מכיוון שהארגון שלך השבית את האפשרות לסנכרון.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = סנכרון הלשוניות כבוי
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = הארגון שלך חסם תכונה זו.
@@ -84,35 +63,14 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = ביטול נעילת הלשוניות באמצעות הססמה הראשית שלך
 firefoxview-tabpickup-password-locked-description-2 = למען הפרטיות שלך, הלשוניות המסונכרנות מוגנות. נא להכניס את הססמה הראשית שלך ב־{ -brand-short-name } כדי לראות את הלשוניות משאר המכשירים שלך.
 firefoxview-tabpickup-signed-out-header = יש להיכנס כדי להתחבר מחדש
-firefoxview-tabpickup-signed-out-description = כדי להתחבר מחדש ולקבל את הלשוניות שלך, יש להיכנס אל { -fxaccount-brand-name(case: "the") } שלך.
 firefoxview-tabpickup-signed-out-description2 = כדי להתחבר מחדש ולקבל את הלשוניות שלך, יש להיכנס לחשבון שלך.
 firefoxview-tabpickup-signed-out-primarybutton = כניסה
 firefoxview-tabpickup-signed-out-header-2 = כניסה לצפייה בלשוניות שלך
 firefoxview-tabpickup-signed-out-description-2 = יש להתחבר מחדש כדי לצפות בלשוניות משאר המכשירים שלך.
-firefoxview-tabpickup-syncing = נא להמתין בזמן שהלשוניות שלך מסתנכרנות. זה יקח ממש רגע.
-firefoxview-mobile-promo-header = קבלת לשוניות מהטלפון או למחשב הלוח שלך
-firefoxview-mobile-promo-description = כדי לצפות בלשוניות האחרונות שלך מהנייד, יש להתחבר ל־{ -brand-product-name } ב־iOS או ב־Android.
-firefoxview-mobile-promo-primarybutton = קבלת { -brand-product-name } לנייד
-firefoxview-mobile-confirmation-header = 🎉 אפשר להתקדם!
-firefoxview-mobile-confirmation-description = כעת באפשרותך לקבל את הלשוניות שלך ב־{ -brand-product-name } ממחשב הלוח או הטלפון שלך.
-firefoxview-closed-tabs-title = לשוניות שנסגרו לאחרונה
-firefoxview-closed-tabs-description2 = פתיחה מחדש דפים שנסגרו בחלון זה.
-firefoxview-closed-tabs-placeholder-header = אין לשוניות שנסגרו לאחרונה
-firefoxview-closed-tabs-placeholder-body = כשסוגרים לשונית בחלון זה, ניתן לקבל אותה בחזרה כאן.
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = הלשונית הפעילה האחרונה
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = פתיחת { $targetURI } בלשונית חדשה
-firefoxview-try-colorways-button = לנסות ערכות צבעים
-firefoxview-change-colorway-button = שינוי ערכת צבעים
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = אין מה לראות עדיין
-firefoxview-synced-tabs-placeholder-body = בפעם הבאה שייפתח דף ב־{ -brand-product-name } במכשיר אחר, הוא יופיע כאן כמו קסם.
 firefoxview-collapse-button-show =
     .title = הצגת רשימה
 firefoxview-collapse-button-hide =

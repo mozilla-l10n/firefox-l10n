@@ -15,20 +15,12 @@ experimental-features-js-warp-description = Omogućite Warp, projekat za pobolj�
 experimental-features-ime-search =
     .label = Adresna traka: prikaži rezultate tokom sastavljanja IME-a
 experimental-features-ime-search-description = IME (Input Method Editor) je alat koji vam omogućava unos složenih simbola, poput onih koji se koriste u istočnoazijskim ili indijskim pisanim jezicima, koristeći standardnu tastaturu. Omogućavanje ovog eksperimenta će zadržati panel adresne trake otvorenim, prikazujući rezultate pretrage i prijedloge, dok koristite IME za unos teksta. Imajte na umu da IME može prikazati panel koji prekriva rezultate adresne trake, stoga se ova postavka preporučuje samo za IME koji ne koristi ovu vrstu panela.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Slika u slici: automatsko otvaranje pri prebacivanju na drugi tab
-experimental-features-auto-pip-description = Omogući sliku u slici na aktivnim videozapisima prilikom prebacivanja tabova.
 experimental-features-group-developer-tools =
     .label = Razvojni alati
 experimental-features-group-webpage-display =
     .label = Prikaz web stranice
 experimental-features-group-customize-browsing =
     .label = Prilagodite svoje pregledavanje
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Lozinke u bočnoj traci
-experimental-features-contextual-password-manager-description = Pristupite svojim lozinkama direktno iz bočne trake. Nema više pretraživanja ili resetiranja lozinki kada pokušavate da se prijavite. Da biste koristili ovu funkciju, odaberite lozinke u bočnoj traci. Zatim idite na opće postavke i pod rasporedom preglednika odaberite prikaži bočnu traku. Nakon toga, prilagodite bočnu traku odabirom lozinki. Ako je isprobate, <a data-l10n-name="connect">javite nam šta mislite</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Odaberite prilagođenu pozadinu ili boju za novi tab

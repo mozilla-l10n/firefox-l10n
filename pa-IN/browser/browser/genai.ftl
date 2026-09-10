@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = ਮੈਂ ਚੁਣੇ “{ $selection }” ਨ�
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = AI ਚੈਟ-ਬੋਟ ਨੂੰ ਪੁੱਛੋ
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = { $provider } ਨੂੰ ਪੁੱਛੋ
 genai-menu-open-generic =
     .label = AI ਚੈਟ-ਬੋਟ ਨੂੰ ਖੋਲ੍ਹੋ
 # $provider (string) - name of the provider
@@ -118,8 +113,6 @@ genai-header-provider-menu =
     .title = ਕੋਈ ਚੈਟ-ਬੋਟ ਚੁਣੋ
 genai-header-settings-button =
     .title = AI ਚੈਟ ਸੈਟਿੰਗਾਂ
-genai-header-options-button =
-    .title = ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
 genai-header-close-button =
     .title = ਬੰਦ ਕਰੋ
 genai-provider-view-details =
@@ -147,37 +140,25 @@ genai-page-button-summarize = ਸਫ਼ੇ ਦਾ ਸਾਰ
 
 ## Chatbot onboarding
 
-genai-onboarding-header = ਬਰਾਊਜ਼ ਕਰਦੇ ਸਮੇਂ ਹੀ ਸਾਰ ਵੇਖੋ, ਦਿਮਾਗ ਲੜਾਓ ਤੇ ਹੋਰ ਕਈ ਕੁਝ ਕਰੋ
 genai-onboarding-choose-header = { -brand-short-name } ਬਾਹੀ ਵਿੱਚ ਵਰਤਣ ਲਈ AI ਚੈਟਬੋਟ ਨੂੰ ਚੁਣੋ
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = { -brand-short-name } ਬਾਹੀ ਵਿੱਚ ਵਰਤਣ ਵਾਸਤੇ AI ਚੈਟ-ਬੋਟ ਚੁਣੋ। ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਚੈਟ-ਬੋਟ ਚੁਣੋਗੇ ਤਾਂ ਅਸੀਂ ਹਰ ਉਸ ਦੇ ਵੇਰਵੇ ਦਿਖਾਵਾਂਗੇ। ਕਿਸੇ ਵੇਲੇ ਵੀ ਬਦਲੋ। <a data-l10n-name="learn-more">ਹੋਰ ਜਾਣੋ</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = ਕਿਸੇ ਵੀ ਵੇਲੇ ਬਦਲੋ। ਚੁਣਨ ਲਈ ਮਦਦ ਵਾਸਤੇ <a data-l10n-name="learn-more">ਹਰ ਚੈਟਬੋਟ ਬਾਰੇ ਹੋਰ ਜਾਣੋ</a> ਨੂੰ ਚੁਣੋ।
 genai-onboarding-primary = ਜਾਰੀ ਰੱਖੋ
 genai-onboarding-secondary = ਬੰਦ ਕਰੋ
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Claude ਬਾਰੇ ਹੋਰ ਸਿਖੋ
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = ChatGPT ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Copilot ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Gemini ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = HuggingChat ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Le Chat ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ
-genai-onboarding-select-header = ਸੁਝਾਅ ਵੇਖਣ ਲਈ ਲਿਖਤ ਨੂੰ ਚੁਣੋ
-genai-onboarding-select-description = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਲਿਖਤ ਨੂੰ ਚੁਣਦੇ ਹੋ ਤਾਂ ਅਸੀਂ ਤੁਹਾਨੂੰ ਚੈਟ-ਬੋਟ ਨੂੰ ਭੇਜਣ ਲਈ ਪਰੌਂਟ ਦਾ ਸੁਝਾਅ ਦੇਵਾਂਗੇ। ਤੁਸੀਂ ਖੁਦ ਵੀ ਆਪਣੇ ਪਰੌਂਟ ਲਿਖ ਸਕਦੇ ਹੋ।
-genai-onboarding-select-primary = ਚੈਟ ਕਰਨੀ ਸ਼ੁਰੂ ਕਰੋ
 genai-chatbot-contextual-title = ਬਿਨਾਂ ਟੈਬਾਂ ਨੂੰ ਬਦਲੇ AI ਚੈਟਬੋਟ ਨੂੰ ਵਰਤੋਂ
 genai-chatbot-contextual-subtitle = ਜਦੋਂ ਤੁਸੀਂ { -brand-short-name } ਬਾਹੀ ਵਿੱਚ AI ਚੈਟਬੋਟ ਨੂੰ ਜੋੜ ਲੈਂਦੇ ਹੋ ਤਾਂ ਚੈਟ ਅਤੇ ਬਰਾਊਜ਼ ਨਾਲ ਨਾਲ ਕਰ ਸਕਦੇ ਹੋ।
 genai-chatbot-contextual-button = ਕਿਸੇ ਚੈਟ-ਬੋਟ ਨੂੰ ਚੁਣੋ
@@ -190,27 +171,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = ਬਾਹੀ ਵਿੱਚ ਚ
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = ਬਾਹੀ ਵਿੱਚ ਆਪਣੇ AI ਚੈਟ-ਬੋਟ ਨੂਂ ਖੋਲ੍ਹੋ ਅਤੇ ਹੇਠਾਂ "ਸਫ਼ੇ ਦਾ ਸਾਰ ਦਿਓ" ਨੂੰ ਚੁਣੋ।
 genai-chatbot-summarize-footer-generic-subtitle = ਕਿਸੇ AI ਚੈਟ-ਬੋਟ ਨੂੰ { -brand-short-name } ਦੀ ਬਾਹੀ ਵਿੱਚ ਸਫ਼ਿਆਂ ਦਾ ਫੌਰੀ ਸਾਰ ਦੇਣ ਲਈ ਜੋੜੋ।
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = ਲਿਖਤ ਅਤੇ ਕੋਡ ਤਿਆਰ ਕਰੋ
-genai-onboarding-claude-analyze = ਦਸਤਾਵੇਜ਼ ਅਤੇ ਚਿੱਤਰਾਂ ਦੀ ਜਾਂਚ ਪੜਤਾਲ
-genai-onboarding-claude-price = ਮੁਫ਼ਤ ਅਤੇ ਭੁਗਤਾਨ ਦੀਆਂ ਚੋਣਾਂ; ਖਾਤਾ ਚਾਹੀਦਾ ਹੈ
-genai-onboarding-chatgpt-generate = ਲਿਖਤ, ਚਿੱਤਰ ਅਤੇ ਕੋਡ ਤਿਆਰ ਕਰੋ
-genai-onboarding-chatgpt-analyze = ਦਸਤਾਵੇਜ਼ ਅਤੇ ਚਿੱਤਰਾਂ ਦੀ ਜਾਂਚ ਪੜਤਾਲ
-genai-onboarding-chatgpt-price = ਮੁਫ਼ਤ ਅਤੇ ਭੁਗਤਾਨ ਦੀਆਂ ਚੋਣਾਂ; ਕੁਝ ਦੇਸ਼ਾਂ ਤੇ ਕੰਮਾਂ ਲਈ ਖਾਤਾ ਚਾਹੀਦਾ ਹੈ
-genai-onboarding-copilot-generate = ਲਿਖਤ, ਚਿੱਤਰ ਅਤੇ ਕੋਡ ਤਿਆਰ ਕਰੋ
-genai-onboarding-copilot-analyze = ਚਿੱਤਰਾਂ ਦੀ ਪੜਤਾਲ ਕਰੋ
-genai-onboarding-copilot-price = ਮੁਫ਼ਤ ਅਤੇ ਭੁਗਤਾਨ ਦੀਆਂ ਚੋਣਾਂ; ਕੁਝ ਕੰਮਾਂ ਲਈ ਖਾਤਾ ਚਾਹੀਦਾ ਹੈ
-genai-onboarding-gemini-generate = ਲਿਖਤ, ਚਿੱਤਰ ਅਤੇ ਕੋਡ ਤਿਆਰ ਕਰੋ
-genai-onboarding-gemini-analyze = ਚਿੱਤਰਾਂ (ਮੁਫ਼ਤ) ਅਤੇ ਦਸਤਾਵੇਜ਼ਾਂ (ਭੁਗਤਾਨ) ਦੀ ਜਾਂਚ ਪੜਤਾਲ
-genai-onboarding-gemini-price = ਮੁਫ਼ਤ ਅਤੇ ਭੁਗਤਾਨ ਦੀਆਂ ਚੋਣਾਂ; ਖਾਤਾ ਚਾਹੀਦਾ ਹੈ
-genai-onboarding-huggingchat-generate = ਲਿਖਤ ਅਤੇ ਕੋਡ ਤਿਆਰ ਕਰੋ
-genai-onboarding-huggingchat-switch = ਵੱਖ-ਵੱਖ ਮਾਡਲਾਂ ਦੇ ਵਿਲੱਖਣ ਸੈਟ ਵਿੱਚ ਬਦਲੋ
-genai-onboarding-huggingchat-price-2 = ਮੁਫ਼ਤ; ਕੁਝ ਬੇਨਤੀਆਂ ਦੇ ਬਾਅਦ ਖਾਤਾ ਚਾਹੀਦਾ ਹੈ
-genai-onboarding-lechat-generate = ਲਿਖਤ ਅਤੇ ਕੋਡ ਤਿਆਰ ਕਰੋ
-genai-onboarding-lechat-price = ਮੁਫ਼ਤ; ਖਾਤਾ ਚਾਹੀਦਾ ਹੈ
 
 ## Model Optin Component
 
@@ -249,8 +209,8 @@ link-preview-generation-retry = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ
 link-preview-settings-button =
     .title = ਲਿੰਕ ਝਲਕ ਲਈ ਸੈਟਿੰਗਾਂ
 link-preview-settings-enable =
-    .label = ਲਿੰਕ ਝਲਕਾਂ ਨੂੰ ਸਮਰੱਥ ਕਰੋ
     .description = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਸ਼ਾਰਟਕੱਟ ਵਰਤਦੇ ਜਾਂ ਲਿੰਕ ਉੱਤੇ ਸੱਜਾ ਕਲਿੱਕ ਕਰਦੇ ਹੋ ਤਾਂ ਸਫ਼ਾ ਟਾਈਟਲ, ਵਰਣਨ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਵੇਖੋ।
+    .label = ਲਿੰਕ ਝਲਕਾਂ ਨੂੰ ਸਮਰੱਥ ਕਰੋ
 link-preview-settings-key-points =
     .label = AI ਨੂੰ ਸਫ਼ੇ ਦੇ ਸ਼ੁਰੂ ਤੋਂ ਪੜ੍ਹਨ ਅਤੇ ਮੁੱਖ ਬਿੰਦੂ ਤਿਆਰ ਕਰਨ ਦੀ ਮਨਜ਼ੂਰੀ ਦਿਓ।
 link-preview-settings-long-press =

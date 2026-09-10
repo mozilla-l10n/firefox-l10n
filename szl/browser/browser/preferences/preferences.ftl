@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Dowej strōnōm znać sygnałym „Do Not Track", iże majōm cie niy śledzić
-do-not-track-learn-more = Przewiydz sie wiyncyj
-do-not-track-option-default-content-blocking-known =
-    .label = Ino jak { -brand-short-name } mo załōnczōne szperowanie poznanych śledzōncych elemyntōw
-do-not-track-option-always =
-    .label = Dycki
 settings-page-title = Sztalōnki
 category-nav-heading =
     .heading = Sztalōnki
@@ -28,37 +22,16 @@ managed-notice-nav =
 category-list =
     .aria-label = Kategoryje
 pane-general-title = Ôgōlne
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = Dōmowo strōna
 pane-search-title2 = Szukanie
     .title = Szukanie
 pane-privacy-title3 = Prywatność i bezpieczyństwo
     .title = Prywatność i bezpieczyństwo
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = Szukanie
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = Prywatność i bezpieczyństwo
-pane-privacy-title = Prywatność i bezpieczyństwo
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Synchrōnizacyjo
-category-sync3 =
-    .tooltiptext = { pane-sync-title3 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-pane-experimental-title = { -brand-short-name } - Eksperymynta
-category-experimental =
-    .tooltiptext = { -brand-short-name } - Eksperymynta
-pane-experimental-subtitle = Pozōr!
-pane-experimental-search-results-header = { -brand-short-name } - Eksperymynta: Dej pozōr
-pane-experimental-description2 = Skuli zmiany rozszyrzōnych sztalōnkōw może sie pogorszyć wydajność abo bezpieczyństwo { -brand-short-name }.
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Wrōć bazowe
     .accesskey = W
@@ -66,8 +39,6 @@ help-button-label2 = Pōmoc ôd programu { -brand-short-name }
     .title = Pōmoc ôd programu { -brand-short-name }
 addons-button-label2 = Rozszyrzynia i motywy
     .title = Rozszyrzynia i motywy
-help-button-label = Pōmoc ôd programu { -brand-short-name }
-addons-button-label = Rozszyrzynia i motywy
 focus-search =
     .key = f
 close-button =
@@ -125,58 +96,29 @@ search-results-help-link = Potrzebujesz pōmocy? Nawiydź <a data-l10n-name="url
 
 ## General Section
 
-startup-header = Sztartowanie
 always-check-default =
     .label = Zawdy badej, jeźli { -brand-short-name } to je twoja bazowo przeglōndarka
     .accesskey = y
-is-default = { -brand-short-name } to je twoja bazowo przeglōndarka
-is-not-default = { -brand-short-name } to niy ma twoja bazowo przeglōndarka
-set-as-my-default-browser =
-    .label = Nasztaluj za bazowo…
-    .accesskey = B
 startup-restore-windows-and-tabs =
     .label = Ôtwōrz ôkna i karty z ôstatnigo razu
     .accesskey = s
-startup-restore-warn-on-quit =
-    .label = Dej znać przi wyłażyniu z przeglōndarki
 disable-extension =
     .label = Wyłōncz rozszyrzynie
 tabs-group-header2 =
     .label = Karty
-tabs-group-header = Karty
 ctrl-tab-recently-used-order =
     .label = Skrōt Ctrl+Tab przełōnczo karty we raji ôd ôstatnio używanych
     .accesskey = T
 open-new-link-as-tabs =
     .label = Ôtwiyrej linki w kartach, a niy we nowych ôknach
     .accesskey = w
-confirm-on-close-multiple-tabs =
-    .label = Pytej przi zawiyraniu wielu kart
-    .accesskey = P
-# This string is used for the confirm before quitting preference.
-# Variables:
-#   $quitKey (string) - the quit keyboard shortcut, and formatted
-#                       in the same manner as it would appear,
-#                       for example, in the File menu.
-confirm-on-quit-with-key =
-    .label = Przitupluj przed zawarciym aplikacyji z { $quitKey }
-    .accesskey = p
 warn-on-open-many-tabs =
     .label = Dej znać, jak ôtwarcie mocki kart może spōmalić { -brand-short-name }
     .accesskey = d
-switch-to-new-tabs =
-    .label = Jak ôtwiyrosz link, ôbroz abo jakie media, to zaroz sie na nia przełōncz
-    .accesskey = l
 show-tabs-in-taskbar =
     .label = Pokazuj podglōnd kart na posku zadań Windows
     .accesskey = o
-browser-containers-enabled =
-    .label = Załōncz kōntynerowo karta
-    .accesskey = n
 browser-containers-learn-more = Przewiydz sie wiyncyj
-browser-containers-settings =
-    .label = Nasztalowania…
-    .accesskey = i
 containers-disable-alert-title = Zawrzić wszyskie kōntynerowe karty?
 startup-group =
     .label = Sztartowanie
@@ -215,56 +157,24 @@ containers-remove-cancel-button = Niy wyciepuj tego kōntynera
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Godki i wyglōnd
-preferences-web-appearance-header = Wyglōnd strōn
-preferences-web-appearance-description = Niykere strōny przipasowujōm swoje schymaty farbōw do twojich preferyncyji. Ôbier, kery schymat farbōw chcesz mieć na takich strōnach.
 preferences-web-appearance-choice-light2 =
     .label = Jasny
     .title = Używej jasnego wyglōndu zadku i zawartości strōn.
 preferences-web-appearance-choice-dark2 =
     .label = Ćmawy
     .title = Używej ćmawego wyglōndu zadku i zawartości strōn.
-preferences-web-appearance-choice-light = Jasny
-preferences-web-appearance-choice-dark = Ćmawy
-preferences-web-appearance-choice-tooltip-light =
-    .title = Używej jasnego wyglōndu zadku i zawartości strōn.
-preferences-web-appearance-choice-tooltip-dark =
-    .title = Używej ćmawego wyglōndu zadku i zawartości strōn.
-preferences-web-appearance-choice-input-light =
-    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
-preferences-web-appearance-choice-input-dark =
-    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 preferences-web-appearance-link =
     .label = Regiyruj motywami aplikacyje { -brand-short-name } w Rozszyrzynia i motywy
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning = Sztalōnki farbōw nadpisujōm wyglōnd strōny. <a data-l10n-name="colors-link">Regiyruj farbami</a>
-# This message contains one link. It can be moved within the sentence as needed
-# to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = Regiyruj motywami aplikacyje { -brand-short-name } w <a data-l10n-name="themes-link">Rozszyrzynia i motywy</a>
 preferences-colors-manage-button2 =
     .label = Regiyruj farbami
     .accesskey = R
-preferences-colors-header = Farby
-preferences-colors-description = Nadpisuj bazowe farby aplikacyje { -brand-short-name } do tekstu, zadkōw strōn i linkōw.
 preferences-colors-manage-button =
     .label = Regiyruj farbami…
     .accesskey = R
 preferences-fonts-header2 =
     .label = Fōnty
-preferences-fonts-header = Fōnty
-default-font = Bazowy fōnt
-    .accesskey = B
-default-font-size = Srogość
-    .accesskey = S
-advanced-fonts =
-    .label = Rozszyrzōne…
-    .accesskey = R
 preferences-default-zoom-label =
     .label = Wychodno srogość
-    .accesskey = z
-# Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = Srogość strōn
-preferences-default-zoom = Wychodno srogość
     .accesskey = z
 # Variables:
 #   $percentage (number) - Zoom percentage value
@@ -286,13 +196,7 @@ confirm-browser-language-change-description = Zresztartuj  aplikacyjo { -brand-s
 confirm-browser-language-change-button = Wkludź i resztartuj
 browser-language-install-error =
     .message = { -brand-short-name } niy poradzi zaktualizować twojich godek. Badnij na połōnczynie z internetym abo zaś sprōbuj.
-translate-web-pages =
-    .label = Przekłodanie strōn
-    .accesskey = P
 fx-translate-web-pages = { -translations-brand-name }
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = Przekłady ôd <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Wyjōntki…
     .accesskey = W
@@ -311,23 +215,6 @@ download-save-files-header =
     .label = Spamiyntuj zbiory do
 download-save-where-3 =
     .aria-label = Spamiyntuj zbiory do
-download-header = Pobrania
-download-save-where = Spamiyntuj zbiory do
-    .accesskey = v
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Ôbier…
-           *[other] Przeglōndej…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] o
-           *[other] e
-        }
-download-always-ask-where =
-    .label = Zawdy sie pytej, kaj spamiyntować zbiory
-    .accesskey = Z
 applications-header = Aplikacyje
 applications-description = Ôbier, jako { -brand-short-name } mo ôbsugować zbiory pobiyrane z neca abo aplikacyje, co ich używosz przi przeglōndaniu.
 applications-filter =
@@ -375,10 +262,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Użyj { $plugin-name } (we aplikacyji { -brand-short-name })
 applications-open-inapp =
     .label = Ôdewrzij we aplikacyji { -brand-short-name }
 
@@ -386,8 +269,6 @@ applications-open-inapp =
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -414,44 +295,21 @@ applications-ask-before-handling =
     .accesskey = P
 drm-group =
     .label = Zawartość Digital Rights Management (DRM)
-drm-content-header = Zawartość Digital Rights Management (DRM)
 play-drm-content =
     .label = Puszczanie zawartości brōniōnyj ôd DRM
     .accesskey = P
 play-drm-content-learn-more = Przewiydz sie wiyncyj
-update-application-title = Aktualizacyje aplikacyje { -brand-short-name }
-update-application-description = Trzimej aplikacyjo { -brand-short-name } durch aktualno, coby mieć nojwiynkszo gibkość, stabilność i bezpieczyństwo.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Wersyjo { $version }  <a data-l10n-name="learn-more">Co je nowego</a>
 update-history-2 =
     .label = Pokoż historyjo aktualizacyjōw
     .accesskey = p
-update-history =
-    .label = Pokoż historyjo aktualizacyjōw
-    .accesskey = p
-update-application-allow-description = Przizwōl aplikacyji { -brand-short-name }
-update-application-auto =
-    .label = Autōmatycznie insztalować aktualizacyje (rykōmyndowane)
-    .accesskey = A
-update-application-check-choose =
-    .label = Szukać za aktualizacyjami, ale pytać cie, jeźli je zainsztalujesz
-    .accesskey = S
-update-application-manual =
-    .label = Nigdy niy szukać za aktualizacyjami (niyrykōmyndowane)
-    .accesskey = N
 update-application-background-enabled =
     .label = Jak { -brand-short-name } niy funguje
     .accesskey = J
 update-application-warning-cross-user-setting-2 =
     .message = Te nasztalowanie bydzie wkludzōne na wszyskich kōntach Windows i profilach aplikacyje { -brand-short-name }, co używajōm tyj aplikacyje.
-update-application-warning-cross-user-setting = Te nasztalowanie bydzie wkludzōne na wszyskich kōntach Windows i profilach aplikacyje { -brand-short-name }, co używajōm tyj aplikacyje.
-update-application-use-service =
-    .label = Używej usugi, co funguje na zadku, coby zainsztalować aktualizacyje
-    .accesskey = z
-update-application-suppress-prompts =
-    .label = Pokozuj mynij powiadōmiyń ô aktualizacyjach
-    .accesskey = m
 update-setting-write-failure-title2 = Feler przi spamiyntowaniu sztalōnkōw aktualizacyji
 # Variables:
 #   $path (string) - Path to the configuration file
@@ -470,11 +328,6 @@ update-in-progress-cancel-button = &Idź dalij
 
 ## General Section - Performance
 
-performance-title = Sprowność
-performance-use-recommended-settings-checkbox =
-    .label = Używej rykōmyndowanych nasztalowań sprowności
-    .accesskey = U
-performance-use-recommended-settings-desc = Te nasztalowania sōm zrychtowane podug hardwaru i ôperacyjnego systymu ôd twojigo kōmputra.
 performance-settings-learn-more = Przewiydz sie wiyncyj
 performance-allow-hw-accel =
     .label = Używej hardwarowyj akceleracyje, jak je dostympno
@@ -492,7 +345,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = Przeglōndanie
 browsing-use-autoscroll =
     .label = Używej autōmatycznego przesuwanio
     .accesskey = a
@@ -511,32 +363,17 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Szukej za tekstym, jak zaczynosz pisać
     .accesskey = s
-browsing-picture-in-picture-toggle-enabled =
-    .label = Pokazuj szalter trybu ôbraz w ôbrazie.
-    .accesskey = P
-browsing-picture-in-picture-learn-more = Przewiydz sie wiyncyj
 browsing-media-control =
     .label = Sztaluj mydia bez tastatura, słuchawki abo wirtualny interfejs
     .accesskey = S
-browsing-media-control-learn-more = Przewiydz sie wiyncyj
 browsing-cfr-recommendations =
     .label = Doradzej rozszerzynia przi przeglōndaniu
     .accesskey = D
 browsing-cfr-features =
     .label = Doradzej funkcyje przi przeglōndaniu
     .accesskey = f
-browsing-cfr-recommendations-learn-more = Przewiydz sie wiyncyj
 browsing-group =
     .label = Przeglōndanie
-
-## General Section - Proxy
-
-network-settings-title = Nasztalowania neca
-network-proxy-connection-description = Sztaluj, jak { -brand-short-name } łōnczy sie z internetym.
-network-proxy-connection-learn-more = Przewiydz sie wiyncyj
-network-proxy-connection-settings =
-    .label = Nasztalowania…
-    .accesskey = n
 
 ## Home Section
 
@@ -590,9 +427,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Spamiyntane i nawiydzane strōny
 home-prefs-shortcuts-by-option-sponsored =
     .label = Spōnsorowane skrōty
-home-prefs-recommended-by-header =
-    .label = Rykōmyndowane ôd { $provider }
-home-prefs-recommended-by-description-new = Ekstra zawartość ôbrano ôd { $provider }, co je we familiji { -brand-product-name }
 
 ##
 
@@ -605,18 +439,9 @@ home-prefs-highlights-options-bookmarks =
     .label = Zokłodki
 home-prefs-highlights-option-most-recent-download =
     .label = Niydowno pobrane
-home-prefs-highlights-option-saved-to-pocket =
-    .label = Strōny spamiyntane w { -pocket-brand-name(case: "loc") }
 home-prefs-recent-activity-header =
     .label = Niydowno aktywność
 home-prefs-recent-activity-description = Wybōr z niydownych strōn i zawartości
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = Krōtkie informacyje
-home-prefs-snippets-description-new = Dorady i nowiny ze { -vendor-short-name } a aplikacyje { -brand-product-name }
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -629,38 +454,11 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = Posek szukanio
-search-bar-hidden =
-    .label = Używej poska adresy do szukanio i nawigacyje
-search-bar-shown =
-    .label = Przidej posek szukanio do poska z noczyniami
-search-engine-default-header = Wychodno wyszukowarka
-search-engine-default-desc-2 = To je bazowo wyszukowarka do szukanio z poska adresy abo z poska szukanio. Idzie jōm zmiyniać, kej chcesz.
-search-engine-default-private-desc-2 = Ôbier inkszo bazowo wyszukowarka ekstra do prywatnych ôkiyn
-search-separate-default-engine =
-    .label = Używej tyj wyszukowarki w prywatnych ôknach
-    .accesskey = U
-search-suggestions-header = Dorady szukanio
-search-suggestions-desc = Ôbier, jak pokazujōm sie dorady z wyszukowarkōw
-search-suggestions-option =
-    .label = Pokazuj dorady szukanio
-    .accesskey = s
 search-show-suggestions-url-bar-option =
     .label = Pokazuj dorady szukanio we wynikach poska z adresōm
     .accesskey = I
 search-suggestions-cant-show-2 =
     .message = Dorady szukanio niy bydōm sie pokazować we posku z adresōm, bo mosz nasztalowane, coby { -brand-short-name } niy spamiyntowoł historyji.
-# This string describes what the user will observe when the system
-# prioritizes search suggestions over browsing history in the results
-# that extend down from the address bar. In the original English string,
-# "ahead" refers to location (appearing most proximate to), not time
-# (appearing before).
-search-show-suggestions-above-history-option =
-    .label = Pokazuj dorady szukanio wyżyj jak historyjo przeglōndanio we wynikach poska z adresōm
-search-show-suggestions-private-windows =
-    .label = Pokazuj dorady szukanio we prywatnych ôknach
-suggestions-addressbar-settings-generic2 = Zmiyń sztalōnki doradōw we posku adresy
-search-suggestions-cant-show = Dorady szukanio niy bydōm sie pokazować we posku z adresōm, bo mosz nasztalowane, coby { -brand-short-name } niy spamiyntowoł historyji.
 search-one-click-header2 = Skrōty szukanio
 search-one-click-desc = Ôbier alternatywne wyszukowarki pokazowane pod poskiym z adresōm i poskiym szukanio, jak zaczynosz wkludzać kluczowe słowo.
 search-choose-engine-column =
@@ -689,22 +487,6 @@ search-engine-group =
 search-default-engine =
     .aria-label = Wychodno wyszukowarka
 
-## Containers Section
-
-containers-back-button2 =
-    .aria-label = Nazod do sztalōnkōw
-containers-header = Kōntynerowe karty
-containers-add-button =
-    .label = Przidej nowy kōntyner
-    .accesskey = P
-containers-new-tab-check =
-    .label = Ôbier kōntyner do kożdyj nowyj karty
-    .accesskey = O
-containers-settings-button =
-    .label = Sztalōnki
-containers-remove-button =
-    .label = Skasuj
-
 ## Account and sync
 
 sync-group-label =
@@ -730,8 +512,6 @@ sync-mobile-promo = Pobier Firefox na <img data-l10n-name="android-icon"/> <a da
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = Zmiyń profilowy ôbrozek
 sync-profile-picture-with-alt =
     .alt = Zmiyń profilowy ôbrozek
     .tooltiptext = Zmiyń profilowy ôbrozek
@@ -756,9 +536,6 @@ sync-signedin-login-failure = Wloguj sie, coby zaś połōnczyć kōnto { $email
 
 ##
 
-sync-resend-verification =
-    .label = Poślij zaś weryfikacyjo
-    .accesskey = z
 sync-remove-account =
     .label = Skasuj kōnto
     .accesskey = S
@@ -777,10 +554,6 @@ prefs-sync-turn-on-syncing-2 =
     .label = Załōncz synchronizacyjo
     .accesskey = s
 prefs-sync-offer-setup-label2 = Synchrōnizuj swoje zokłodki, historyjo, karty, hasła, rozszyrzynia i sztalōnki na wszyskich swojich maszinach.
-prefs-sync-now =
-    .labelnotsyncing = Synchrōnizuj teroz
-    .labelsyncing = Synchrōnizuja…
-    .accesskeynotsyncing = T
 prefs-sync-now-button =
     .label = Synchrōnizuj teroz
     .accesskey = T
@@ -798,24 +571,12 @@ prefs-syncing-button-2 =
 sync-currently-syncing-bookmarks = Zokłodki
 sync-currently-syncing-history = Historyjo
 sync-currently-syncing-tabs = Ôtwarte karty
-sync-currently-syncing-logins-passwords = Dane logowanio i hasła
 sync-currently-syncing-addresses = Adresy
-sync-currently-syncing-creditcards = Kredytowe karty
 sync-currently-syncing-addons = Rozszyrzynia
 sync-currently-syncing-settings = Sztalōnki
-sync-change-options =
-    .label = Zmiyń…
-    .accesskey = Z
 
 ## The "Choose what to sync" dialog.
 
-sync-choose-what-to-sync-dialog3 =
-    .buttonlabelaccept = Spamiyntej zmiany
-    .buttonlabelextra2 = Rozłōncz…
-    .buttonaccesskeyaccept = S
-    .buttonaccesskeyextra2 = R
-    .style = min-width: 36em;
-    .title = Ôbier, co synchrōnizować
 sync-engine-bookmarks =
     .label = Zokłodki
     .accesskey = k
@@ -826,18 +587,10 @@ sync-engine-tabs =
     .label = Ôtwarte karty
     .tooltiptext = Wykoz tego, co je ôtwarte na wszyskich maszinach
     .accesskey = t
-sync-engine-logins-passwords =
-    .label = Dane logowanio i hasła
-    .tooltiptext = Spamiyntane miana użytkownika i hasła
-    .accesskey = L
 sync-engine-addresses =
     .label = Adresy
     .tooltiptext = Spamiyntane emailowe adresy (ino na kōmputrze)
     .accesskey = e
-sync-engine-creditcards =
-    .label = Kredytowe karty
-    .tooltiptext = Miana, nōmery i daty przedowniynio (ino na kōmputrze)
-    .accesskey = K
 sync-engine-addons =
     .label = Rozszyrzynia
     .tooltiptext = Rozszyrzynia i motywy do Firefoxa na kōmputer
@@ -873,49 +626,19 @@ sync-connect-another-device = Połōncz inkszo maszina
 sync-connect-another-device-2 =
     .label = Połōncz inkszo maszina
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = Weryfikacyjo je posłano
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = Link z weryfikacyjōm je posłany na { $email }.
-sync-verification-not-sent-title = Niy idzie posłać weryfikacyje
-sync-verification-not-sent-body = Niy idzie prawie posłać emaila z weryfikacyjōm. Sprōbuj zaś niyskorzij.
-
 ## Privacy Section
 
 privacy-header = Prywatność przeglōndarki
-
-## Privacy Section - Logins and Passwords
-
-# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = Dane logowanio i hasła
-    .searchkeywords = { -lockwise-brand-short-name }
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = Pytej sie ô spamiyntowanie danych logowanio i haseł do strōn
-    .accesskey = r
 
 ## Privacy Panel Settings
 
 forms-exceptions =
     .label = Wyjōntki…
     .accesskey = y
-forms-generate-passwords =
-    .label = Doradzej i rychtuj mocne hasła
-    .accesskey = o
 forms-breach-alerts =
     .label = Dej znać ô hasłach do strōn, z kerych wyciykły dane
     .accesskey = w
 forms-breach-alerts-learn-more-link = Przewiydz sie wiyncyj
-# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
-forms-fill-logins-and-passwords =
-    .label = Autōmatycznie wkludzej dane logowanio i hasła
-    .accesskey = i
-forms-saved-logins =
-    .label = Spamiyntane dane logowanio…
-    .accesskey = L
 forms-primary-pw-use =
     .label = Użyj głōwnego hasła
     .accesskey = U
@@ -953,32 +676,12 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
-history-header = Historyjo
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } mo
-    .accesskey = w
-history-remember-option-all =
-    .label = spamiyntować historyjo
-history-remember-option-never =
-    .label = nigdy niy spamiyntować historyje
-history-remember-option-custom =
-    .label = używać twojich nasztalowań do historyje
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } bydzie pamiyntoł twoje przeglōndanie, pobiyranie, formulary i historyjo szukanio.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } bydzie używoł tych samuych nasztalowań co we prywatnym trybie i niy spamiynto historyji twojigo przeglōndanio strōn.
-history-remember-description = { -brand-short-name } bydzie pamiyntoł twoje przeglōndanie, pobiyranie, formulary i historyjo szukanio.
-history-dontremember-description = { -brand-short-name } bydzie używoł tych samuych nasztalowań co we prywatnym trybie i niy spamiynto historyji twojigo przeglōndanio strōn.
 history-private-browsing-permanent =
     .label = Zawdy używej trybu prywatnego przeglōndanio
     .accesskey = p
@@ -1004,43 +707,16 @@ history-mode-radio-group =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Cookies i dane strōn
 sitedata-total-size-calculating = Rachowanie danych strōn i srogości podryncznyj pamiyńci…
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Spamiyntane cookies, dane strōn i podrynczno pamiyńć używajōm { $value }{ $unit } przestrzyństwa dysku.
 sitedata-learn-more = Przewiydz sie wiyncyj
-sitedata-delete-on-close =
-    .label = Wyciep cookies i dane strōn przi zawiyraniu aplikacyje { -brand-short-name }
-    .accesskey = c
-sitedata-delete-on-close-private-browsing = We ôbstōnym trybie prywatnego przeglōndanio cookies i dany strōn zawdy bydōm wypucowane przi zawiyraniu aplikacyje { -brand-short-name }.
-sitedata-allow-cookies-option =
-    .label = Dej zgoda na cookies i dane strōn
-    .accesskey = Z
-sitedata-disallow-cookies-option =
-    .label = Szperuj cookies i dane strōn
-    .accesskey = S
-# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
-# The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = Do szperowanio
-    .accesskey = D
 sitedata-option-block-cross-site-trackers =
     .label = Elymynta śledzōnce miyndzy strōnami
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Cookies elymyntōw, co śledzōm miyndzy strōnami
-sitedata-option-block-cross-site-cookies =
-    .label = Cookies elymyntōw, co śledzōm miyndzy strōnami i izolowanie inkszych cookies miyndzy strōnami
 sitedata-option-block-unvisited =
     .label = Cookies z niynawiydzōnych strōn
 sitedata-option-block-all =
     .label = Wszyskie cookies (niykere strōny mogōm niy fungować dobrze)
-sitedata-clear =
-    .label = Wypucuj dane…
-    .accesskey = I
-sitedata-settings =
-    .label = Regiyruj danymi…
-    .accesskey = M
 sitedata-cookies-exceptions =
     .label = Regiyruj wyjōntkami…
     .accesskey = x
@@ -1049,8 +725,6 @@ cookies-site-data-group =
 
 ## Search Section
 
-addressbar-header = Posek z adresōm
-addressbar-suggest = Przi używaniu poska z adresōm doradzej
 addressbar-locbar-history-option =
     .label = Historyjo przeglōndanio
     .accesskey = h
@@ -1067,10 +741,6 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Topowe strōny
     .accesskey = T
-addressbar-locbar-engines-option =
-    .label = Wyszukowarki
-    .accesskey = a
-addressbar-suggestions-settings = Zmiyń nasztalowania doradōw wyszukowarki
 
 ## Privacy Section - Content Blocking
 
@@ -1102,7 +772,6 @@ content-blocking-etp-blocking-desc = { -brand-short-name } szperuje:
 content-blocking-private-windows = Śledzōnce elymynta w prywatnych ôknach
 content-blocking-cross-site-tracking-cookies = Cookies elymyntōw, co śledzōm miyndzy strōnami
 content-blocking-all-cross-site-cookies-private-windows = Cookies miyndzy strōnami we prywatnych ôknach
-content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies elymyntōw, co śledzōm miyndzy strōnami. Izoluj inksze cookies.
 content-blocking-social-media-trackers = Elymynta śledzōnce ôd społecznościowych serwisōw
 content-blocking-all-cookies = Wszyskie cookies
 content-blocking-unvisited-cookies = Cookies z niynawiydzōnych strōn
@@ -1112,8 +781,6 @@ content-blocking-fingerprinters = Elymynta, co rychtujōm ôdcisk ôd przeglōnd
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Połno ôchrōna cookies trzimie cookies na strōnie, na keryj żeś je, tak co elymynty śledzōnce niy idōm za tobōm miyndzy strōnami.
 content-blocking-etp-standard-tcp-rollout-learn-more = Przewiydz sie wiyncyj
-content-blocking-warning-title = Pozōr!
-content-blocking-and-isolating-etp-warning-description-2 = Skuli tego sztalōnku niykere strōny mogōm sie dobrze niy pokazować abo działać felernie. Jak strōna zdo sie felerno, idzie wyłōnczyć ôchrōna ôd śledzynio na tyj strōnie, coby poradziyła zaladować cołko zawartość.
 content-blocking-warning-learn-how = Przewiydz sie, jak
 content-blocking-reload-description = Trza przeladować karty, coby wkludzić zmiany.
 content-blocking-reload-tabs-button =
@@ -1128,7 +795,6 @@ content-blocking-tracking-protection-option-all-windows =
 content-blocking-option-private =
     .label = ino we prywatnych ôknach
     .accesskey = p
-content-blocking-tracking-protection-change-block-list = Zmiyń wykoz szperowanych
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
@@ -1138,11 +804,6 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = Elymynta, co fedrujōm kryptopiniōndze
     .accesskey = y
-# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
-# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
-content-blocking-fingerprinters-label =
-    .label = Elymynta, co rychtujōm ôdcisk ôd przeglōndarki
-    .accesskey = E
 
 ## Privacy Section - Tracking
 
@@ -1152,52 +813,11 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = Zgody
-permissions-location = Plac
-permissions-location-settings =
-    .label = Nasztalowania…
-    .accesskey = t
-permissions-xr = Wirtualno ryalność
-permissions-xr-settings =
-    .label = Nasztalowania…
-    .accesskey = t
-permissions-camera = Kamera
-permissions-camera-settings =
-    .label = Nasztalowania…
-    .accesskey = t
-permissions-microphone = Mikrofōn
-permissions-microphone-settings =
-    .label = Nasztalowania…
-    .accesskey = t
-permissions-notification = Powiadōmiynia
-permissions-notification-settings =
-    .label = Nasztalowania…
-    .accesskey = t
-permissions-notification-link = Przewiydz sie wiyncyj
 permissions-notification-pause =
     .label = Spauzuj powiadōmiynia, aże { -brand-short-name } sie zresztartuje
     .accesskey = n
 permissions-autoplay2 =
     .label = Autōmatyczne puszczanie
-permissions-autoplay = Autōmatyczne puszczanie
-permissions-autoplay-settings =
-    .label = Nasztalowania…
-    .accesskey = t
-permissions-block-popups =
-    .label = Szperuj wyskakujōnce ôkna
-    .accesskey = S
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button =
-    .label = Wyjōntki…
-    .searchkeywords = popups
-    .accesskey = y
-permissions-addon-install-warning =
-    .label = Dowej znać, jak strōny prōbujōm zainsztalować rozszyrzynia
-    .accesskey = D
-permissions-addon-exceptions =
-    .label = Wyjōntki…
-    .accesskey = W
 permissions-location2 =
     .label = Plac
 permissions-xr2 =
@@ -1211,26 +831,6 @@ permissions-notification2 =
 
 ## Privacy Section - Data Collection
 
-collection-header = Zbiyranie i używanie danych bez { -brand-short-name }
-collection-description = Patrzimy ôstawiać ci wybōr i zbiyrać ino to, co nōm je potrzebne do kludzynio i polepszanio aplikacyje { -brand-short-name } do wszyskich. Zawdy proszymy ô zgoda, jak mōmy dostać jako ôsobisto informacyjo.
-collection-privacy-notice = Ô prywatności
-collection-health-report-telemetry-disabled = { -vendor-short-name } niy mo już zgody, coby zbiyrać techniczne dane i dane ô interakcyjach. Wszyskie nazbiyrane dane bydōm skasowane do 30 dni.
-collection-health-report-telemetry-disabled-link = Przewiydz sie wiyncyj
-collection-health-report =
-    .label = Zgoda, coby { -brand-short-name } posyłoł techniczne dane i dane ô interakcyjach do { -vendor-short-name }.
-    .accesskey = g
-collection-health-report-link = Przewiydz sie wiyncyj
-collection-studies =
-    .label = Zgoda, coby { -brand-short-name } insztalowoł i kludziōł badania
-collection-studies-link = Pokoż badania aplikacyje { -brand-short-name }
-addon-recommendations =
-    .label = Zgoda, coby { -brand-short-name } rykōmyndowoł spersonalizowane rozszyrzynia
-addon-recommendations-link = Przewiydz sie wiyncyj
-# This message is displayed above disabled data sharing options in developer builds
-# or builds with no Telemetry support available.
-collection-health-report-disabled = Posyłanie danych je zastawione przi tyj kōnfiguracyji
-collection-backlogged-crash-reports-with-link = Przizwōl, coby { -brand-short-name } posyłoł nazbiyrane raporty z awaryjōw za ciebie <a data-l10n-name="crash-reports-link">Przewiydz sie wiyncyj</a>
-    .accesskey = c
 data-collection-health-report-telemetry-disabled =
     .message = { -vendor-short-name } niy mo już zgody, coby zbiyrać techniczne dane i dane ô interakcyjach. Wszyskie nazbiyrane dane bydōm skasowane do 30 dni.
 data-collection-studies-link =
@@ -1242,7 +842,6 @@ data-collection-studies-link =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Bezpieczyństwo
-security-browsing-protection = Ôchrōna ôd ôszydy i niybezpiecznym softwarem
 security-enable-safe-browsing =
     .label = Szperuj niybezpieczno i ôszydno zawartość
     .accesskey = S
@@ -1256,16 +855,6 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = Certyfikaty
-certs-enable-ocsp =
-    .label = Pytej serwery OCSP, coby przituplowały aktualno płatność certyfikatu
-    .accesskey = P
-certs-view =
-    .label = Pokoż certyfikaty…
-    .accesskey = C
-certs-devices =
-    .label = Masziny bezpieczyństwa…
-    .accesskey = M
 certs-devices-enable-fips = Załōncz FIPS
 space-alert-over-5gb-settings-button =
     .label = Ôdewrzij sztalōnki
@@ -1275,18 +864,12 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } kōńczy sie plac
 
 ## Privacy Section - HTTPS-Only
 
-httpsonly-header = Tryb "ino HTTPS"
-httpsonly-description = Protokōł HTTPS dowo bezpieczne, szyfrowane połōnczynie miyndzy aplikacyjōm { -brand-short-name } a strōnami, kere nawiydzosz. Wiynkszość strōn ôbsuguje HTTPS, a przi załōnczōnym trybie "ino HTTPS" aplikacyjo { -brand-short-name } przełōnczy wszyskie połōnczynia na HTTPS.
-httpsonly-learn-more = Przewiydz sie wiyncyj
 httpsonly-radio-enabled =
     .label = Załōncz tryb "ino HTTPS" we wszyskich ôknach
 httpsonly-radio-enabled-pbm =
     .label = Załōncz tryb "ino HTTPS" ino w prywatnych ôknach
-httpsonly-radio-disabled =
-    .label = Niy załōnczej trybu "ino HTTPS"
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Biōrko
 downloads-folder-name = Pobrania
-choose-download-folder-title = Ôbier katalog na pobrane zbiory:

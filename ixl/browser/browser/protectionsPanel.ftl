@@ -12,17 +12,6 @@
 protections-panel-blocking-label = Majel ve't ivatz
 protections-panel-not-blocking-label = K'ulel ve'te'
 
-##
-
-protections-panel-content-blocking-breakage-report-view-collection-url = URL
-protections-panel-content-blocking-breakage-report-view-collection-url-label =
-    .aria-label = URL
-protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = Ya'sakan
-
-# Cookie Banner Handling
-
-
 ## Protections panel info message
 
 cfr-protections-panel-header = Xaanen as ye'xhib'il kuxh la xekeb' see'

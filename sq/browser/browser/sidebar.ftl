@@ -32,7 +32,6 @@ sidebar-history-clear =
     .label = Spastro historikun
 sidebar-history-sort-by-heading-menucaption =
     .label = Renditi sipas:
-sidebar-history-sort-by-heading = Renditi sipas:
 sidebar-history-sort-option-date =
     .label = Datash
 sidebar-history-sort-option-site =
@@ -52,14 +51,9 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Zgjerime anështylle
-sidebar-customize-firefox-tools-header =
-    .label = Mjete { -brand-product-name }
 sidebar-customize-firefox-settings = Administroni rregullime { -brand-short-name }-i
 sidebar-vertical-tabs =
     .label = Skeda vertikale
-sidebar-settings =
-    .label = Rregullime anështylle
 sidebar-hide-tabs-and-sidebar =
     .label = Fshih skeda dhe anështyllë
 sidebar-show-on-the-right =
@@ -75,8 +69,6 @@ expand-sidebar-on-hover =
 
 sidebar-context-menu-manage-extension =
     .label = Administroni zgjerim
-sidebar-context-menu-remove-extension =
-    .label = Hiqe zgjerimin
 sidebar-context-menu-report-extension =
     .label = Raportojeni zgjerimin
 sidebar-context-menu-open-in-tab =

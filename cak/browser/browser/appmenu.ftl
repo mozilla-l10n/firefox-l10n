@@ -35,8 +35,6 @@ appmenuitem-extensions-and-themes =
     .label = Taq K'amal chuqa' taq Wachinel
 appmenuitem-extensions =
     .label = Taq k'amal
-appmenuitem-addons-and-themes =
-    .label = Taq Tz'aqat chuqa' taq Wachinel
 appmenuitem-print =
     .label = Titz'ajb'äx…
 appmenuitem-find-in-page =
@@ -131,7 +129,6 @@ fxa-menu-all-devices =
 # Mozilla account panel title which shows all devices synced to a user's account
 fxa-menu-all-devices-panel =
     .title = Ronojel taq Okisaxel
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Rub'i' taqoya'l
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -151,15 +148,6 @@ appmenu-fxa-setup-sync-new = Titzij
 appmenuitem-save-page =
     .label = Tiyak Ruxaq Achi'el…
 appmenuitem-fxa-sync-off-title = Chupül sync
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Achike natzijoj
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Tiya' rutzijol chi kij ch'aqa' chik taq samaj
-    .accesskey = s
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -281,8 +269,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Ch'aqa' Etamab'äl richin yesol taq k'ayewal
     .accesskey = E
-appmenu-help-report-site-issue =
-    .label = Tiya' rutzijol ri ruk'ayewal Ruxaq K'amaya'l…
 appmenu-help-share-ideas =
     .label = Kekomonïx taq na'oj chuqa' taq rutzijol…
     .accesskey = m

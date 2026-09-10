@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Συγχρονισμός…
 sync-disconnect-dialog-title2 = Αποσύνδεση;
 sync-disconnect-dialog-body = Το { -brand-product-name } θα σταματήσει τον συγχρονισμό του λογαριασμού σας, αλλά δεν θα διαγράψει κανένα δεδομένο περιήγησης σε αυτήν τη συσκευή.
 sync-disconnect-dialog-button = Αποσύνδεση
-fxa-signout-dialog2-title = Αποσύνδεση από τον { -fxaccount-brand-name(capitalization: "lower", case: "acc") };
 fxa-signout-dialog-title2 = Να γίνει αποσύνδεση από τον λογαριασμό σας;
 fxa-signout-dialog-body = Τα συγχρονισμένα δεδομένα θα παραμείνουν στον λογαριασμό σας.
 fxa-signout-dialog2-button = Αποσύνδεση
@@ -41,14 +40,6 @@ fxviewtabrow-send-to-mobile-not-verified = Μη επαληθευμένος λο�
 fxviewtabrow-send-to-mobile-verify-account = Επαλήθευση λογαριασμού
 fxa-menu-send-to-mobile-turn-on-sync = Ενεργοποιήστε τον συγχρονισμό για αποστολή καρτελών
 fxa-menu-send-to-mobile-connect-device = Συνδέστε μια συσκευή για αποστολή καρτελών
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Αποστολή καρτέλας σε συσκευή
-           *[other] Αποστολή { $tabCount } καρτελών σε συσκευή
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Συγχρονισμός συσκευών…

@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Cuddio PeerConnections 
 about-webrtc-aec-logging-msg-label = Cofnodi AEC
 about-webrtc-aec-logging-off-state-label = Cychwyn Cofnodi AEC
 about-webrtc-aec-logging-on-state-label = Atal Cofnodi AEC
-about-webrtc-aec-logging-on-state-msg = Cofnodi AEC yn weithredol (siarad gyda'r galwr am ychydig funudau ac yna atal y cipio)
 about-webrtc-aec-logging-toggled-on-state-msg = Cofnodi AEC yn weithredol (siarad gyda'r galwr am ychydig funudau ac yna atal y cipio)
 about-webrtc-aec-logging-unavailable-sandbox = Mae angen y newidyn amgylchedd MOZ_DISABLE_CONTENT_SANDBOX=1 er mwyn allforio cofnodion AEC. Gosodwch y newidyn hwn dim ond os ydych chi'n deall y risgiau posibl.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Enwebwyd
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Dewiswyd
 about-webrtc-save-page-label = Cadw Tudalen
-about-webrtc-debug-mode-msg-label = Modd Dadfygio
-about-webrtc-debug-mode-off-state-label = Cychwyn y Modd Dadfygio
-about-webrtc-debug-mode-on-state-label = Atal y Modd Dadfygio
-about-webrtc-stats-heading = Ystadegau'r Sesiwn
 about-webrtc-enable-logging-label = Galluogi Rhagosodiad Cofnod WebRTC
 about-webrtc-peerconnections-section-heading = Ystadegau RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = Dangos Ystadegau RTCPeerConnection
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = Cuddio Ystadegau RTCPeerConnecti
 about-webrtc-stats-clear = Clirio Hanes
 about-webrtc-log-heading = Cofnod Cysylltu
 about-webrtc-log-clear = Clirio'r Cofnod
-about-webrtc-log-show-msg = dangos cofnod
-    .title = cliciwch i ehangu'r adran
-about-webrtc-log-hide-msg = cuddio cofnod
-    .title = cliciwch i gau'r adran
 about-webrtc-log-section-show-msg = Dangos cofnod
     .title = Cliciwch i ehangu'r adran
 about-webrtc-log-section-hide-msg = Cuddio cofnod
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Ymgeisydd Pell
 about-webrtc-raw-candidates-heading = Pob Ymgeisydd Bras
 about-webrtc-raw-local-candidate = Ymgeisydd Lleol Bras
 about-webrtc-raw-remote-candidate = Ymgeisydd Pell Bras
-about-webrtc-raw-cand-show-msg = dangos ymgeiswyr bras
-    .title = cliciwch i ehangu'r adran
-about-webrtc-raw-cand-hide-msg = cuddio ymgeiswyr bras
-    .title = cliciwch i gau'r adran
 about-webrtc-raw-cand-section-show-msg = Dangos ymgeiswyr bras
     .title = Cliciwch i ehangu'r adran
 about-webrtc-raw-cand-section-hide-msg = Cuddio ymgeiswyr bras
     .title = Cliciwch i gau'r adran
 about-webrtc-priority = Blaenoriaeth
-about-webrtc-fold-show-msg = dangos manylion
-    .title = cliciwch i ehangu'r adran
-about-webrtc-fold-hide-msg = cuddio manylion
-    .title = cliciwch i gau'r adran
 about-webrtc-fold-default-show-msg = Dangos manylion
     .title = Cliciwch i ehangu'r adran
 about-webrtc-fold-default-hide-msg = Cuddio manylion
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Wedi'i Ddarparu
 # been provided
 about-webrtc-configuration-element-not-provided = Heb ei Ddarparu
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Dewisiadau WebRTC Gosodedig y Defnyddiwr
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Ffurfweddiad WebRTC wedi'i Addasu gan Ddefnyddiwr
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Ystadegau Ffrâm Fideo - MediaStreamTrack ID: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = cadwyd y dudalen i: { $path }
-about-webrtc-debug-mode-off-state-msg = mae modd canfod y cofnod olrhain yn: { $path }
-about-webrtc-debug-mode-on-state-msg = modd dadfygio'n weithredol, cofnod olrhain yn { $path }
-about-webrtc-aec-logging-off-state-msg = mae'r ffeiliau cofnod y cipio yn: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

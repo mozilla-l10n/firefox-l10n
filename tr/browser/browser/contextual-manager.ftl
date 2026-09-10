@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Parolalarda ara
-    .key = F
     .aria-label = Parolalarda ara
+    .key = F
+    .placeholder = Parolalarda ara
 contextual-manager-menu-more-options-button =
     .title = Diğer seçenekler
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Dosyadan içe aktar…
 contextual-manager-passwords-command-export = Parolaları dışa aktar
 contextual-manager-passwords-command-remove-all = Bütün parolaları sil
 contextual-manager-passwords-command-options = Seçenekler
-contextual-manager-passwords-command-settings = Ayarlar
 contextual-manager-passwords-command-help = Yardım
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Parolalar içe aktarıldı
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Yeni: { $added }, Güncellenen: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -219,8 +214,6 @@ contextual-manager-passwords-create-label =
     .label = Parola ekle
 contextual-manager-passwords-update-label =
     .label = Parolayı güncelle
-contextual-manager-passwords-edit-label =
-    .label = Parolayı düzenle
 contextual-manager-passwords-remove-label =
     .title = Parolayı sil
 contextual-manager-passwords-origin-field =
@@ -236,7 +229,6 @@ contextual-manager-passwords-password-field-description = Bu hesaba giriş yapma
 contextual-manager-passwords-origin-tooltip = Bu siteye giriş yapacağınız tam adresi girin.
 contextual-manager-passwords-username-tooltip = Giriş yapmak için kullandığınız kullanıcı adını, e-posta adresini veya hesap numarasını girin.
 contextual-manager-passwords-password-tooltip-2 = Bu hesaba giriş yapmak için kullandığınız parolayı girin.
-contextual-manager-passwords-password-tooltip = Bu hesaba giriş yapmak için kullandığınız parolayı girin.
 
 ## Password Card
 
@@ -283,10 +275,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Parolayı kopyala (Dikkat)
 contextual-manager-edit-login-button = Düzenle
     .tooltiptext = Parolayı düzenle
-contextual-manager-view-alert-heading =
-    .heading = Uyarıyı görüntüle
-contextual-manager-view-alert-button =
-    .tooltiptext = Uyarıyı incele
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -315,13 +303,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Hiçbir parola bulunamadı
 contextual-manager-passwords-no-passwords-found-message-2 = Farklı bir terim deneyip yeniden arama yapın.
-contextual-manager-passwords-no-passwords-found-message = Parola bulunamadı. Farklı bir terimle yeniden aramayı deneyin.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Parolalarınızı güvenle kaydedin.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Tüm parolalar şifrelenerek saklanır. Ayrıca, parolalarınızın bir ihlalden etkilendiğini tespit edersek size haber veririz.

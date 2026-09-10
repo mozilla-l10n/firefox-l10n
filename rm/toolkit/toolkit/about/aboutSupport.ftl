@@ -32,10 +32,6 @@ security-software-name = Num
 security-software-antivirus = Antivirus
 security-software-antispyware = Software cuntraspiunadi
 security-software-firewall = Firewall
-features-title = Funcziunalitads da { -brand-short-name }
-features-name = Num
-features-version = Versiun
-features-id = ID
 processes-title = Process a distanza
 processes-type = Tip
 processes-count = Dumber
@@ -61,7 +57,6 @@ app-basics-profile-dir =
         [linux] Ordinatur dal profil
        *[other] Ordinatur dal profil
     }
-app-basics-enabled-plugins = Plug-ins activads
 app-basics-build-config = Configuraziun dal build
 app-basics-user-agent = User Agent
 app-basics-os = OS
@@ -99,9 +94,6 @@ show-dir-label =
 environment-variables-title = Variablas d'ambient
 environment-variables-name = Num
 environment-variables-value = Valur
-experimental-features-title = Funcziuns experimentalas
-experimental-features-name = Num
-experimental-features-value = Valur
 modified-key-prefs-title = Impurtantas preferenzas modifitgadas
 modified-prefs-name = Num
 modified-prefs-value = Valur
@@ -207,9 +199,6 @@ media-cdm-capabilities = Funcziunalitads
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Cumenzar senza criptadi
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = Cumpatibel cun HDCP 2.2
 
 ##
 
@@ -381,8 +370,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Deactivà dad experiment
-fission-status-experiment-treatment = Activà dad experiment
 fission-status-disabled-by-e10s-env = Deactivà da l'ambient
 fission-status-enabled-by-env = Activà da l'ambient
 fission-status-disabled-by-env = Deactivà da l'ambient
@@ -391,7 +378,6 @@ fission-status-disabled-by-default = Deactivà tenor standard
 fission-status-enabled-by-user-pref = Activà da l'utilisader
 fission-status-disabled-by-user-pref = Deactivà da l'utilisader
 fission-status-disabled-by-e10s-other = E10s deactivà
-fission-status-enabled-by-rollout = Activà da l'installaziun en fasas
 async-pan-zoom = Zoom asincron
 apz-none = nagin
 wheel-enabled = input da la rodina activà

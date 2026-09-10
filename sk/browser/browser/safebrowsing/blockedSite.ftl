@@ -23,47 +23,16 @@ safeb-palm-see-details-label = Podrobnosti
 
 safeb-blocked-phishing-page-error-desc-override = Stránka <span data-l10n-name='sitename'>{ $sitename }</span> bola <a data-l10n-name='error_desc_link'> nahlásená ako podvodná stránka</a>. Môžete nahlásiť <a data-l10n-name='report_detection'>chybu v detekcii</a> alebo sa rozhodnúť <a data-l10n-name='ignore_warning_link'>ignorovať riziko</a> a pokračovať na túto nebezpečnú stránku.
 safeb-blocked-phishing-page-error-desc-no-override = Stránka <span data-l10n-name='sitename'>{ $sitename }</span> bola <a data-l10n-name='error_desc_link'> nahlásená ako podvodná stránka</a>. Môžete nahlásiť <a data-l10n-name='report_detection'>chybu v detekcii</a>.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-phishing-page-learn-more = Ďalšie informácie o podvodných stránkach a phishingu nájdete na <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Ďalšie informácie o ochrane pred phishingom a malvérom v aplikácii { -brand-short-name } nájdete na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-malware-page-error-desc-override-sumo = Stránka <span data-l10n-name='sitename'>{ $sitename }</span> bola <a data-l10n-name='error_desc_link'> nahlásená ako stránka so škodlivým softvérom</a>. Môžete sa rozhodnúť <a data-l10n-name='ignore_warning_link'>ignorovať riziko</a> a pokračovať na túto nebezpečnú stránku.
 safeb-blocked-malware-page-error-desc-no-override-sumo = Stránka <span data-l10n-name='sitename'>{ $sitename }</span> bola <a data-l10n-name='error_desc_link'>nahlásená, že obsahuje škodlivý softvér </a>.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-malware-page-learn-more-sumo = Ďalšie informácie o ochrane pred phishingom a malvérom v aplikácii { -brand-short-name } nájdete na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-error-desc-override = Stránka <span data-l10n-name='sitename'>{ $sitename }</span> bola <a data-l10n-name='error_desc_link'> nahlásená ako stránka so škodlivým softvérom</a>. Môžete sa rozhodnúť <a data-l10n-name='ignore_warning_link'>ignorovať riziko</a> a pokračovať na túto nebezpečnú stránku.
 safeb-blocked-unwanted-page-error-desc-no-override = Stránka <span data-l10n-name='sitename'>{ $sitename }</span> bola <a data-l10n-name='error_desc_link'> nahlásená ako stránka so škodlivým softvérom</a>.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-learn-more = Ďalšie informácie o škodlivom a nechcenom softvéri nájdete na stránke <a data-l10n-name='learn_more_link'>Unwanted Software Policy</a>. Ďalšie informácie o ochrane pred phishingom a malvérom v aplikácii { -brand-short-name } nájdete na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-harmful-page-error-desc-override = Stránka <span data-l10n-name='sitename'>{ $sitename }</span> bola <a data-l10n-name='error_desc_link'> nahlásená ako stránka s potenciálne škodlivou aplikáciou</a>. Môžete sa rozhodnúť <a data-l10n-name='ignore_warning_link'>ignorovať toto riziko</a> a pokračovať na túto nebezpečnú stránku.
 safeb-blocked-harmful-page-error-desc-no-override = Stránka <span data-l10n-name='sitename'>{ $sitename }</span> bola <a data-l10n-name='error_desc_link'> nahlásená ako stránka s potenciálne škodlivou aplikáciou</a>.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-harmful-page-learn-more = Ďalšie informácie o ochrane pred phishingom a malvérom v aplikácii { -brand-short-name } nájdete na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
-safeb-palm-notdeceptive =
-    .label = Toto nie je podvodná stránka…
-    .accesskey = T
 
 ## Variables:
 ##  $addonName (string) - the name of the harmful add-on

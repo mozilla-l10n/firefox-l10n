@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Goo ma tabatiyan-tiira zumandi
     .style = min-width: 46em
+    .title = Goo ma tabatiyan-tiira zumandi
 download-cert-message = Ir ga hãa kaŋ war ma naanay tabatiyan-tiira hini taagaa.
 download-cert-trust-ssl =
     .label = Naanay tabatiyan-tiira hinoo woo ka Interneti nungey tammaasa.
@@ -37,8 +37,6 @@ download-cert-view-text = Tabatiyan-tiira hini koroši
 
 client-auth-window =
     .title = Goykaw boŋtammaasa wiri
-client-auth-site-description = Nungoo woo wiri kaŋ war ma war boŋ tammaasa nda tabatiyan-tiiraa:
-client-auth-choose-cert = Tabatiyan-tiira suuba k'a cebe sanda boŋ-tammaasa:
 client-auth-cert-details = Tabatiyan-tiira suubantaa šilbayhayey:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

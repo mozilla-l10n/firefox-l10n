@@ -37,7 +37,6 @@ sidebar-history-clear =
     .label = ล้างประวัติ
 sidebar-history-sort-by-heading-menucaption =
     .label = เรียงลำดับตาม:
-sidebar-history-sort-by-heading = เรียงลำดับตาม:
 sidebar-history-sort-option-date =
     .label = วันที่
 sidebar-history-sort-option-site =
@@ -57,16 +56,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = ส่วนขยายแถบข้าง
-sidebar-customize-firefox-tools-header =
-    .label = เครื่องมือ { -brand-product-name }
 sidebar-customize-firefox-settings = จัดการการตั้งค่า { -brand-short-name }
 sidebar-vertical-tabs =
     .label = แท็บแนวตั้ง
 sidebar-settings2 =
     .label = การตั้งค่า
-sidebar-settings =
-    .label = การตั้งค่าแถบข้าง
 sidebar-hide-tabs-and-sidebar =
     .label = ซ่อนแท็บและแถบข้าง
 sidebar-show-on-the-right =
@@ -86,8 +80,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = จัดการส่วนขยาย
-sidebar-context-menu-remove-extension =
-    .label = เอาส่วนขยายออก
 sidebar-context-menu-report-extension =
     .label = รายงานส่วนขยาย
 sidebar-context-menu-open-in-tab =

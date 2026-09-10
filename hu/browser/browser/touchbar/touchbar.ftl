@@ -31,4 +31,3 @@ search-bookmarks = Könyvjelzők
 search-history = Előzmények
 search-opentabs = Nyitott lapok
 search-tags = Címkék
-search-titles = Címek

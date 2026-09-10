@@ -87,8 +87,6 @@ options-context-advanced-settings = प्रगत सेटिंग्ज
 options-disable-http-cache-label = HTTP कॅशे निष्क्रिय करा (साधनपेटी खुले असतेवेळी)
 options-disable-http-cache-tooltip =
     .title = हा पर्याय सुरु केल्यामुळे साधनपेटी उघडे असलेले सर्व टॅब्ससाठी HTTP कॅशे निष्क्रिय होईल. Service Workers वर याचा परिणाम होणार नाही.
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = JavaScript * बंद करा
 options-disable-javascript-tooltip =
     .title = सध्याच्या टॅबकरिता ह्या पर्यायची निवड केल्यास JavaScript बंद होईल. टॅब किंवा साधनपेटी बंद केल्यास ह्या सेटिंगकडे दुर्लक्ष केले जाईल.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -105,8 +103,6 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = सोर्स नकाशे सक्षम करा
 options-source-maps-tooltip =
     .title = आपण हा पर्याय स्त्रोत सक्षम केल्यास साधनांमध्ये मॅप केला जाईल.
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * फक्त सध्याच्या सत्रकरिता, पृष्ठ पुन्हा लोड करते
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

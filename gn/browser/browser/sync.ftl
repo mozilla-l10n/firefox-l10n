@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Embojuehehína…
 sync-disconnect-dialog-title2 = ¿Esẽtépa?
 sync-disconnect-dialog-body = { -brand-product-name } osẽta ne mba’etégui, hákatu nomboguemo’ãi kundaha mba’ekuaarã ko mba’e’oka pegua.
 sync-disconnect-dialog-button = Ñesẽte
-fxa-signout-dialog2-title = ¿Emboty tembiapo { -fxaccount-brand-name }-pe?
 fxa-signout-dialog-title2 = ¿Emboty tembiapo ne mba’etépe?
 fxa-signout-dialog-body = Umi mba’ekuaarã mbojuehepyre opytáta ne mba’etépe.
 fxa-signout-dialog2-button = Emboty tembiapo
@@ -43,14 +42,6 @@ fxviewtabrow-send-to-mobile-not-verified = Mba’ete ojehechajey’ỹva
 fxviewtabrow-send-to-mobile-verify-account = Ehechajey ne mba’ete
 fxa-menu-send-to-mobile-turn-on-sync = Emyandy ñembojuehe emondo hag̃ua tendaykeita
 fxa-menu-send-to-mobile-connect-device = Embojuaju mba’e emondo hag̃ua schedas
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Emondo tendayke mba’e’okápe
-           *[other] Emondo umi tendayke { $tabCount } mba’e’okápe
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Mba’e’oka ñembojuehe…

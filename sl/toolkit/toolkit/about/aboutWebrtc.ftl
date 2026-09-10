@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Skrij zaprte PeerConnec
 about-webrtc-aec-logging-msg-label = Beleženje AEC
 about-webrtc-aec-logging-off-state-label = Začni Beleženje AEC
 about-webrtc-aec-logging-on-state-label = Končaj Beleženje AEC
-about-webrtc-aec-logging-on-state-msg = Beleženje AEC vključeno (nekaj minut govorite s klicateljem in nato končajte zajem)
 about-webrtc-aec-logging-toggled-on-state-msg = Beleženje AEC vključeno (nekaj minut govorite s klicateljem in nato končajte zajem)
 about-webrtc-aec-logging-unavailable-sandbox = Za izvoz dnevnikov AEC je potrebna spremenljivka okolja MOZ_DISABLE_CONTENT_SANDBOX=1. To spremenljivko nastavite samo v primeru, da razumete možna tveganja.
 # Variables:
@@ -93,17 +92,9 @@ about-webrtc-nominated = Predlagano
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Izbrano
 about-webrtc-save-page-label = Shrani stran
-about-webrtc-debug-mode-msg-label = Razhroščevanje
-about-webrtc-debug-mode-off-state-label = Začni razhroščevanje
-about-webrtc-debug-mode-on-state-label = Končaj razhroščevanje
-about-webrtc-stats-heading = Statistika seje
 about-webrtc-stats-clear = Počisti zgodovino
 about-webrtc-log-heading = Dnevnik povezave
 about-webrtc-log-clear = Počisti dnevnik
-about-webrtc-log-show-msg = prikaži dnevnik
-    .title = kliknite za razširjanje tega razdelka
-about-webrtc-log-hide-msg = skrij dnevnik
-    .title = kliknite za strnjanje tega razdelka
 about-webrtc-log-section-show-msg = Prikaži dnevnik
     .title = Kliknite za razširjanje tega razdelka
 about-webrtc-log-section-hide-msg = Skrij dnevnik
@@ -136,19 +127,11 @@ about-webrtc-remote-candidate = Oddaljeni kandidat
 about-webrtc-raw-candidates-heading = Vsi neobdelani kandidati
 about-webrtc-raw-local-candidate = Neobdelan lokalni kandidat
 about-webrtc-raw-remote-candidate = Neobdelan oddaljeni kandidat
-about-webrtc-raw-cand-show-msg = prikaži neobdelane kandidate
-    .title = kliknite za razširjanje tega razdelka
-about-webrtc-raw-cand-hide-msg = skrij neobdelane kandidate
-    .title = kliknite za strnjanje tega razdelka
 about-webrtc-raw-cand-section-show-msg = Prikaži neobdelane kandidate
     .title = Kliknite za razširjanje tega razdelka
 about-webrtc-raw-cand-section-hide-msg = Skrij neobdelane kandidate
     .title = Kliknite za strnjanje tega razdelka
 about-webrtc-priority = Prednost
-about-webrtc-fold-show-msg = prikaži podrobnosti
-    .title = kliknite za razširjanje tega razdelka
-about-webrtc-fold-hide-msg = skrij podrobnosti
-    .title = kliknite za strnjanje tega razdelka
 about-webrtc-fold-default-show-msg = Prikaži podrobnosti
     .title = Kliknite za razširjanje tega razdelka
 about-webrtc-fold-default-hide-msg = Skrij podrobnosti
@@ -187,8 +170,6 @@ about-webrtc-configuration-element-provided = Podano
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Ni podano
-# The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Uporabniške nastavitve WebRTC
 
 ##
 
@@ -205,13 +186,6 @@ about-webrtc-max-padding-bytes-sec = Največji odmik (bajtov/s)
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Statistika sličice videa – ID MediaStreamTrack: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = stran shranjena na: { $path }
-about-webrtc-debug-mode-off-state-msg = dnevnik sledenja lahko najdete na: { $path }
-about-webrtc-debug-mode-on-state-msg = razhroščevanje vključeno, dnevnik sledenja na: { $path }
-about-webrtc-aec-logging-off-state-msg = dnevniške datoteke zajema lahko najdete na: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

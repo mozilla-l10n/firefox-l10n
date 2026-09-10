@@ -21,10 +21,6 @@ security-software-name = Nom
 security-software-antivirus = Antivirus
 security-software-antispyware = Antiespia
 security-software-firewall = Tallafoc
-features-title = Característiques del { -brand-short-name }
-features-name = Nom
-features-version = Versió
-features-id = ID
 processes-title = Processos remots
 processes-type = Tipus
 processes-count = Recompte
@@ -50,7 +46,6 @@ app-basics-profile-dir =
         [linux] Directori del perfil
        *[other] Carpeta del perfil
     }
-app-basics-enabled-plugins = Connectors habilitats
 app-basics-build-config = Configuració de la versió
 app-basics-user-agent = Agent d'usuari
 app-basics-os = Sistema operatiu
@@ -87,9 +82,6 @@ show-dir-label =
 environment-variables-title = Variables d'entorn
 environment-variables-name = Nom
 environment-variables-value = Valor
-experimental-features-title = Funcions experimentals
-experimental-features-name = Nom
-experimental-features-value = Valor
 modified-key-prefs-title = Preferències modificades importants
 modified-prefs-name = Nom
 modified-prefs-value = Valor
@@ -317,8 +309,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Desactivat per un experiment
-fission-status-experiment-treatment = Activat per un experiment
 fission-status-disabled-by-e10s-env = Desactivat per l'entorn
 fission-status-enabled-by-env = Activat per l'entorn
 fission-status-enabled-by-default = Activat per defecte

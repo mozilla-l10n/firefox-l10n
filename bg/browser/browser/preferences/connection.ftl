@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Настройки на свързване
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Настройки на свързване
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Презареждане
     .accesskey = з
-connection-proxy-autologin =
-    .label = Да не се пита за удостоверяване, ако паролата е запазена
-    .accesskey = у
-    .tooltip = Тази настройка ще ви удостоверява без да потвърждение пред мрежови посредници, когато имате запазени данни за вход. Ще бъдете питани, ако удостоверяването се провали.
 connection-proxy-autologin-checkbox =
     .label = Да не се пита за удостоверяване, ако паролата е запазена
-    .accesskey = у
     .tooltiptext = Тази настройка ще ви удостоверява без да потвърждение пред мрежови посредници, когато имате запазени данни за вход. Ще бъдете питани, ако удостоверяването се провали.
+    .accesskey = у
 connection-proxy-socks4-remote-dns =
     .label = Прокси DNS при използване на SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Използва стандартния адрес за запитвания на DNS през HTTPS
 connection-dns-over-https-url-custom =
     .label = По избор
-    .accesskey = п
     .tooltiptext = Въведете предпочитания от вас адрес за запитвания на DNS през HTTPS
-connection-dns-over-https-custom-label = По избор
+    .accesskey = п

@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = It sertifikaat is net fertroud, omdat it út
 cert-error-trust-signature-algorithm-disabled = It sertifikaat is net fertroud omdat it ûndertekene is mei in algoritme dat útskeakele is omdat dat algoritme net feilich is.
 cert-error-trust-expired-issuer = It sertifikaat is net fertroud, omdat it útjousertifikaat ferrûn is.
 cert-error-trust-self-signed = It sertifikaat is net fertroud, omdat it sels ûndertekene is.
-cert-error-trust-symantec = Sertifikaten dy’t troch GeoTrust, RapidSSL, Symantec, Thawte en VeriSign útjûn binne, wurde net mear as feilich beskôge, omdat dizze sertifikaatautoriteiten yn it ferline gjin befeiligingsprosedueres folge hawwe.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } fertrout { $hostname } net, omdat it net bewize koe dat it foldocht oan easken foar iepenbiere sertifikaattransparânsje.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Flaterkoade: <a data-l10n-name="error-code-link">{
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Flater bard wylst in ferbining mei { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Websites bewize harren identiteit fia sertifikaten, dy’t troch sertifikaatautoriteiten útjûn wurde. De measte browsers fertrouwe gjin sertifikaten mear dy’t troch GeoTrust, RapidSSL, Symantec, Thawte en VeriSign útjûn binne. { $hostname } brûkt in sertifikaat fan ien fan dizze autoriteiten, wêrtroch de identiteit fan de website net bewiisd wurde kin.
-cert-error-symantec-distrust-admin = Jo kinne de behearder fan de website oer it probleem ynformearje.
 cert-error-old-tls-version = Dizze website stipet mooglik net it TLS 1.2-protokol, de minimale ferzje dy’t stipe wurdt troch { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Sertifikaatketen:
-open-in-new-window-for-csp-or-xfo-error = Website iepenje yn nij finster
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Om jo feilichheid te beskermjen, stiet { $hostname } net ta dat { -brand-short-name } de side toant as in oare website dizze opnommen hat. Om dizze side te besjen moatte jo dizze iepenje yn in nij finster.
 fp-certerror-view-certificate-link = Sertifikaat fan de website besjen
 fp-certerror-return-to-previous-page-recommended-button-2 = Tebekgean (Oanrekommandearre)
     .accesskey = g
-fp-certerror-return-to-previous-page-recommended-button = Tebekgean (Oanrekommandearre)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -114,7 +107,7 @@ fp-certerror-not-yet-valid-why-dangerous-body = Websites brûke sertifikaten dy�
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = De klok fan jo apparaat is ynsteld op { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. As dit goed is, leit it befeiligingsprobleem wierskynlik by de website sels. As it ferkeard is, kinne jo it wizigje yn de systeemynstellingen fan jo apparaat.
+fp-certerror-expired-what-can-you-do-body = De klok fan jo apparaat is ynsteld op { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. As dit goed is, leit it befeiligingsprobleem wierskynlik by de website sels. As it ferkeard is, kinne jo it wizigje yn de systeemynstellingen fan jo apparaat.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Flaterkoade: { $error }
@@ -133,7 +126,7 @@ fp-learn-more-about-time-related-errors = Mear ynfo oer it oplossen fan tiidrela
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } fertrout dizze website net, omdat it derop liket dat it oanbeane sertifikaat net jildich is oant { DATETIME($date, timeStyle: "short") } op { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } fertrout dizze website net, omdat it derop liket dat it oanbeane sertifikaat net jildich is oant { DATETIME($date, timeStyle: "short") } op { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
@@ -179,8 +172,6 @@ deniedPortAccess-title = Dit adres hat in beheinde tagong
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Wy kinne dizze website net fine.
 internet-connection-offline-title = It liket derop dat der in probleem is mei jo ynternetferbining.
-dns-not-found-trr-only-title2 = Mooglik feilichheidsrisiko by opsykjen fan dit domein
-dns-not-found-native-fallback-title2 = Mooglik feilichheidsrisiko by opsykjen fan dit domein
 fileNotFound-title = Bestân net fûn
 fileAccessDenied-title = Tagong ta it bestân is wegere
 generic-title = Oei.
@@ -205,7 +196,6 @@ unknownSocketType-title = Unferwacht antwurd fan de server
 nssFailure2-title = Befeilige ferbining mislearre
 csp-xfo-error-title = { -brand-short-name } kin dizze side net iepenje
 corruptedContentErrorv2-title = Skansearre-ynhâldsflater
-corruptedContentError-title = Skansearre-ynhâldsflater
 sslv3Used-title = Kin gjin befeilige ferbining meitsje
 inadequateSecurityError-title = Jo ferbining is net befeilige
 blockedByPolicy-title = Blokkearre side
@@ -228,7 +218,6 @@ fp-certerror-hide-advanced-button = Avansearre ferstopje
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Trochgean nei { $hostname } (Risikofol)
 fp-certerror-intro = { -brand-short-name } hat in mooglik earnstich befeiligingsprobleem mei <strong>{ $hostname }</strong> opmurken. Ien dy’t harren foardocht as de website kin saken lykas creditcardgegevens, wachtwurden of e-mailadressen probearje te stellen.
 fp-certerror-expired-into = { -brand-short-name } hat in befeiligingsprobleem ûntdekt mei <strong>{ $hostname }</strong>. Of de website is net goed ynsteld, of de klok fan jo apparaat is op de ferkearde datum/tiid ynsteld.
 fp-certerror-transparency-intro = Immen dy’t him foardocht as <strong>{ $hostname }</strong> kin dingen lykas jo brûkersnamme, wachtwurd of e-mailadressen probearje te stellen.

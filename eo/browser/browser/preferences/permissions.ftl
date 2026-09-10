@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Esceptoj
     .style = min-width: 36em
+    .title = Esceptoj
 permissions-close-key =
     .key = w
 permissions-address = Adreso de retejo
@@ -80,79 +80,64 @@ permissions-invalid-uri-label = Bonvolu tajpi validan servilan nomon
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Esceptoj por la plibonigita protekto kontraŭ spurado
     .style = { permissions-window2.style }
+    .title = Esceptoj por la plibonigita protekto kontraŭ spurado
 permissions-exceptions-manage-etp-desc = Vi povas difini, kiuj retejoj havas plibonigitan kontraŭspuran protekton malŝaltita. Tajpu la ekzaktan adreso de la administota retejo kaj aklaku sur Aldoni escepton.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Esceptoj - Kuketoj kaj retejaj datumoj
     .style = { permissions-window2.style }
+    .title = Esceptoj - Kuketoj kaj retejaj datumoj
 permissions-exceptions-cookie-desc = Vi povas specifi la retejojn kiuj ĉiam aŭ neniam rajtos uzi kuketojn kaj retejajn datumojn. Tajpu la ekzaktan adreson de la retejo, kiun vi volas administri kaj poste alklaku Bloki, Permesi dum seanco, aŭ Permesi.
 
 ## Exceptions - Clear on Shutdown
 
 permissions-exceptions-shutdown-clearing-window =
-    .title = Esceptoj - Viŝi historion je malŝalto
     .style = { permissions-window2.style }
+    .title = Esceptoj - Viŝi historion je malŝalto
 permissions-exceptions-shutdown-clearing-desc = Vi povas difini, kiuj retejoj gardos siajn datumojn kiam { -brand-short-name } viŝas historion je fermo. Tajpu la ekzaktan adreson de la retejo, kiun vi volas rajtigi, kaj poste alklaku Permesi.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Esceptoj - HTTPS-nura reĝimo
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Vi povas malŝalti la HTTPS-nuran reĝimon por specifaj retejoj. { -brand-short-name } ne klopodos plibonigi la konekton pero uzo de HTTPS por tiuj retejoj. Esceptoj ne aplikeblas al privataj fenestroj.
+    .title = Esceptoj - HTTPS-nura reĝimo
 permissions-exceptions-https-only-desc2 = Vi povas malŝalti la HTTPS-nuran reĝimon por specifaj retejoj. { -brand-short-name } ne klopodos plibonigi la konekton pero uzo de HTTPS por tiuj retejoj.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
     .title = Permesitaj retejoj - ŝprucaĵoj kaj redirektoj al aliaj retejoj
-    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = Vi povas specifi, kiuj retejoj rajtas malfermi ŝprucaĵojn esti redirektitaj de kadroj de aliaj.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Permesitaj retejoj - ŝprucfenestroj
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Vi povas difini kiuj retejoj rajtas malfermi ŝprucfenestrojn. Tajpu la ekzaktan adreson de la retejo kiun vi volas rajtigi kaj alklaku Permesi.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Esceptoj - konservitaj legitimiloj
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Akreditiloj por la jenaj retejoj ne estos konservitaj
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Esceptoj - konservitaj pasvortoj
     .style = { permissions-window2.style }
+    .title = Esceptoj - konservitaj pasvortoj
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } ne konservos pasvortojn por la retejoj listigitaj ĉi tie.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Permesitaj retejoj - instalo de aldonaĵoj
     .style = { permissions-window2.style }
+    .title = Permesitaj retejoj - instalo de aldonaĵoj
 permissions-exceptions-addons-desc = Vi povas difini, kiuj retejoj havos la permeson instali aldonaĵojn. Tajpu la ekzaktan adreson de la retejo al kiu vi volas doni tiun rajton kaj poste alklaku sur Permesi.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Agordoj - aŭtomata ludado
     .style = { permissions-window2.style }
+    .title = Agordoj - aŭtomata ludado
 permissions-site-autoplay-desc = Tie ĉi vi povas administri la retejojn, kiuj ne kongruas kun viaj normaj agordoj de automata ludado.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Agordoj - Permesoj por sciigoj
     .style = { permissions-window2.style }
+    .title = Agordoj - Permesoj por sciigoj
 permissions-site-notification-desc = La jenaj retejoj petis permeson sendi sciigojn al vi. Vi povas decidi kiuj rajtas tion fari. Vi ankaŭ povas bloki novajn petojn pri permeso sendi sciigojn.
 permissions-site-notification-disable-label =
     .label = Bloki novajn petojn pri permeso sendi sciigojn
@@ -161,8 +146,8 @@ permissions-site-notification-disable-desc = Tio ĉi evitos ke retejoj, kiuj ne 
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Agordoj - Permesoj por pozicio
     .style = { permissions-window2.style }
+    .title = Agordoj - Permesoj por pozicio
 permissions-site-location-desc = La jenaj retejoj petis permeson aliri vian pozicion. Vi povas decidi kiuj rajtas tion fari. Vi ankaŭ povas bloki novajn petojn pri permeso aliri vian pozicion.
 permissions-site-location-disable-label =
     .label = Bloki novajn petojn pri permeso aliri vian pozicion
@@ -171,8 +156,8 @@ permissions-site-location-disable-desc = Tio ĉi evitos ke retejoj, kiuj ne esta
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Agordoj - Permesoj por virtuala realo
     .style = { permissions-window2.style }
+    .title = Agordoj - Permesoj por virtuala realo
 permissions-site-xr-desc = La jenaj retejoj petis permeson aliri viajn aparatojn de virtuala realo. Vi povas decidi kiuj rajtas tion fari. Vi ankaŭ povas bloki novajn petojn pri permeso aliri viajn aparatojn de virtuala realo.
 permissions-site-xr-disable-label =
     .label = Bloki novajn petojn pri permeso aliri viajn aparatojn de virtuala realo
@@ -181,8 +166,8 @@ permissions-site-xr-disable-desc = Tio ĉi evitos ke retejoj, kiuj ne estas list
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Agordoj - Permesoj por filmilo
     .style = { permissions-window2.style }
+    .title = Agordoj - Permesoj por filmilo
 permissions-site-camera-desc = La jenaj retejoj petis permeson aliri vian filmilon. Vi povas decidi kiuj rajtas tion fari. Vi ankaŭ povas bloki novajn petojn pri permeso aliri vian filmilon.
 permissions-site-camera-disable-label =
     .label = Bloki novajn petojn pri permeso aliri vian filmilon
@@ -191,8 +176,8 @@ permissions-site-camera-disable-desc = Tio ĉi evitos ke retejoj, kiuj ne estas 
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = Agordoj - Programoj kaj servoj de la aparato
     .style = { permissions-window2.style }
+    .title = Agordoj - Programoj kaj servoj de la aparato
 permissions-site-localhost-desc = Tiuj ĉi retejoj petis aliron al programoj kaj servoj en tiu ĉi aparato. Vi povas elekti ĉu permesi aŭ bloki tiun eblon por retejoj.
 permissions-site-localhost-disable-label =
     .label = Bloki novajn petojn aliri programojn kaj servojn en tiu ĉi aparato
@@ -201,8 +186,8 @@ permissions-site-localhost-disable-desc = Tio ĉi blokos la peton aliri programo
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = Agordoj - Aparatoj en la loka reto
     .style = { permissions-window2.style }
+    .title = Agordoj - Aparatoj en la loka reto
 permissions-site-local-network-desc = Tiuj ĉi retejoj petis aliron al programoj kaj servoj en aparatoj konektitaj al via sendrata (Wi-Fi) aŭ loka reto. Vi povas elekti ĉu permesi aŭ bloki tiun eblon por retejoj.
 permissions-site-local-network-disable-label =
     .label = Bloki novajn petojn aliri programojn kaj servojn en aparatoj konektita al via sendrata (Wi-Fi) aŭ loka reto.
@@ -211,8 +196,8 @@ permissions-site-local-network-disable-desc = Tio ĉi blokos la peton aliri prog
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Agordoj - Permesoj por mikrofono
     .style = { permissions-window2.style }
+    .title = Agordoj - Permesoj por mikrofono
 permissions-site-microphone-desc = La jenaj retejoj petis permeson aliri vian mikrofonon. Vi povas decidi kiuj rajtas tion fari. Vi ankaŭ povas bloki novajn petojn pri permeso aliri vian mikrofonon.
 permissions-site-microphone-disable-label =
     .label = Bloki novajn petojn pri permeso aliri vian mikrofonon
@@ -223,12 +208,12 @@ permissions-site-microphone-disable-desc = Tio ĉi evitos ke retejoj, kiuj ne es
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Agordoj - Permesoj por soneligiloj
     .style = { permissions-window2.style }
+    .title = Agordoj - Permesoj por soneligiloj
 permissions-site-speaker-desc = La jenaj retejoj petis permeson elekti soneligan aparaton. Vi povas decidi, kiuj retejoj rajtas elekti soneligan aparaton.
 permissions-exceptions-doh-window =
-    .title = Retejaj esceptoj por DNS tra HTTPS
     .style = { permissions-window2.style }
+    .title = Retejaj esceptoj por DNS tra HTTPS
 permissions-exceptions-manage-doh-desc = { -brand-short-name } ne uzos sekuran DNS en tiuj ĉi retejoj kaj en ĝiaj subaj nomregnoj.
 permissions-doh-entry-field = Tajpu retejan nomregnon
     .accesskey = d

@@ -62,7 +62,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Synkronisera dina bokmärken överallt.
-cfr-doorhanger-bookmark-fxa-body = Bra fynd! Saknar du bokmärket på dina mobila enheter. Kom igång med ett { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = Fantastiskt fynd! Bli inte utan detta bokmärke på dina mobila enheter. Kom igång med ett konto.
 cfr-doorhanger-bookmark-fxa-link-text = Synkronisera bokmärken nu...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -75,12 +74,6 @@ fxa-adoption-credit-cards-backup-subtitle = Skydda dina betalningsmetoder genom 
 fxa-adoption-bookmarks-treatment-backup-title = Låt oss säkerhetskopiera dina bokmärken
 fxa-adoption-bookmarks-treatment-backup-subtitle = Skydda dina bokmärken genom att synkronisera dem till dina enheter med kryptering.
 fxa-adoption-primary-button-label = Registrera dig
-
-## Protections panel
-
-cfr-protections-panel-header = Surfa utan att bli följd
-cfr-protections-panel-body = Behåll dina data för dig själv. { -brand-short-name } skyddar dig från många av de vanligaste spårarna som följer vad du gör online.
-cfr-protections-panel-link-text = Läs mer
 
 ## What's New toolbar button and panel
 
@@ -176,42 +169,8 @@ mr2022-background-update-toast-primary-button-label = Öppna { -brand-shorter-na
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Påminn mig senare
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Prova den
-    .accesskey = P
-firefoxview-cfr-secondarybutton = Inte nu
-    .accesskey = n
-firefoxview-cfr-header-v2 = Fortsätt snabbt där du slutade
-firefoxview-cfr-body-v2 = Få tillbaka nyligen stängda flikar och hoppa smidigt mellan enheter med { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Säg hej till { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Vill du ha den öppna fliken på din telefon? Hämta den i farten. Behöver du en sida du just har besökt? Hitta den i { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Se hur det fungerar
-firefoxview-spotlight-promo-secondarybutton = Hoppa över
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Välj colorway
-    .accesskey = V
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Färglägg din webbläsare med { -brand-short-name } exklusiva nyanser inspirerade av röster som förändrade kulturen.
-colorways-cfr-header-28days = Independent Voices colorways upphör den 16 januari
-colorways-cfr-header-14days = Independent Voices colorways upphör om två veckor
-colorways-cfr-header-7days = Independent Voices colorways upphör den här veckan
-colorways-cfr-header-today = Independent Voices colorways upphör idag
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Tillåt { -brand-short-name } att avvisa kakbanners?
-cfr-cbh-body = { -brand-short-name } kan automatiskt avvisa många kakbannerförfrågningar.
-cfr-cbh-confirm-button = Avvisa kakbanners
-    .accesskey = A
-cfr-cbh-dismiss-button = Inte nu
-    .accesskey = n
 cookie-banner-blocker-onboarding-header = { -brand-short-name } nekade precis en kakbanner åt dig
 cookie-banner-blocker-onboarding-body = Mindre distraktioner, färre kakor som spårar dig på den här webbplatsen.
 cookie-banner-blocker-onboarding-learn-more = Läs mer

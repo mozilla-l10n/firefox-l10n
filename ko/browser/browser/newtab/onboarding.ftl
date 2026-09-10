@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = { $addon-name } 추가
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = 진행률: { $current } / { $total } 단계
 # This button will open system settings to turn on prefers-reduced-motion
@@ -198,11 +192,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = 작업 표시줄 및 시작 메뉴에 { -brand-short-name } 고정
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = 비영리 단체가 지원하는 브라우저로 시작하세요. 웹을 탐색하시는 동안 저희는 개인 정보를 보호합니다.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -232,57 +221,10 @@ mr2022-onboarding-set-default-subtitle = 비영리 단체가 지원하는 브라
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = 최신 버전이 사용자 중심으로 구축되어, 그 어느 때보다 쉽게 웹을 둘러볼 수 있습니다. 여러분이 좋아할 만한 기능으로 가득 차 있습니다.
 mr2022-onboarding-get-started-primary-button-label = 빠른 설정
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = 매우 빠른 설정
-mr2022-onboarding-import-subtitle = { -brand-short-name }를 원하는 대로 설정하세요. 기존 브라우저의 북마크, 비밀번호 등을 추가하세요.
 mr2022-onboarding-import-primary-button-label-no-attribution = 이전 브라우저에서 가져오기
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = 영감을 주는 색상을 선택하세요
-mr2022-onboarding-colorway-subtitle = 독립적인 목소리가 문화를 바꿀 수 있습니다.
-mr2022-onboarding-colorway-primary-button-label-continue = 설정하고 계속
-mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name }을 다채로운 홈페이지로 만드세요
-mr2022-onboarding-colorway-label-default = 기본
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = 현재 { -brand-short-name } 색상
-mr2022-onboarding-colorway-description-default = <b>현재의 { -brand-short-name } 색상을 사용합니다.</b>
-mr2022-onboarding-colorway-label-playmaker = 플레이메이커
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = 플레이메이커 (빨간색)
-mr2022-onboarding-colorway-description-playmaker = <b>플레이메이커입니다.</b> 여러분은 승리할 수 있는 기회를 만들고 주변의 모든 사람들이 게임을 향상시킬 수 있도록 돕습니다.
-mr2022-onboarding-colorway-label-expressionist = 표현주의자
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = 표현주의자 (노란색)
-mr2022-onboarding-colorway-description-expressionist = <b>표현주의자입니다.</b> 여러분은 세상을 다르게 보고 여러분의 창조물이 다른 사람들의 감정을 자극합니다.
-mr2022-onboarding-colorway-label-visionary = 공상가
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = 공상가 (녹색)
-mr2022-onboarding-colorway-description-visionary = <b>공상가입니다.</b> 여러분은 현상 유지에 의문을 제기하고 더 나은 미래를 상상하도록 다른 사람들을 움직입니다.
-mr2022-onboarding-colorway-label-activist = 활동가
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = 활동가 (파란색)
-mr2022-onboarding-colorway-description-activist = <b>활동가입니다.</b> 여러분은 세상을 당신이 찾은 것보다 더 나은 곳으로 만들고 다른 사람들이 믿도록 이끕니다.
-mr2022-onboarding-colorway-label-dreamer = 몽상가
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = 몽상가 (보라색)
-mr2022-onboarding-colorway-description-dreamer = <b>몽상가입니다.</b> 여러분은 행운이 대담한 사람을 선호하고 다른 사람들에게 용기를 북돋아준다고 믿습니다.
-mr2022-onboarding-colorway-label-innovator = 혁신가
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = 혁신가 (주황색)
-mr2022-onboarding-colorway-description-innovator = <b>혁신가입니다.</b> 여러분은 어디에서나 기회를 보고 여러분 주변의 모든 사람들의 삶에 영향을 미칩니다.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = 노트북에서 휴대폰으로 이동 후 다시 이동
-mr2022-onboarding-mobile-download-subtitle = 한 기기의 탭을 가져와서 다른 기기에서 중단한 부분부터 다시 시작하세요. 또한 { -brand-product-name }를 사용하는 곳이면 어디에서나 북마크와 비밀번호를 동기화할 수 있습니다.
 mr2022-onboarding-mobile-download-cta-text = QR 코드를 스캔하여 모바일용 { -brand-product-name }를 받거나 <a data-l10n-name="download-label">다운로드 링크를 보내세요.</a>
 mr2022-onboarding-no-mobile-download-cta-text = 모바일용 { -brand-product-name }를 받으려면 QR 코드를 스캔하세요.
 
@@ -335,15 +277,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = 밝은 피부와 어두운 피부의 손 하이파이브
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = 창턱에 여우와 화초가 있는 창문을 통해 일몰의 전망
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = 손 스프레이로 녹색 눈, 주황색 신발, 빨간색 농구공, 보라색 헤드폰, 파란색 하트, 노란색 왕관의 다채로운 콜라주를 그림
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = 노트북 컴퓨터 화면에서 여우가 손을 흔드는 모습. 노트북에는 마우스가 연결되어 있습니다.
 onboarding-device-migration-title = 환영합니다
-onboarding-device-migration-subtitle = { -fxaccount-brand-name(capitalization: "sentence") }에 로그인하여 새 기기에 북마크, 비밀번호 및 기록을 가져오세요.
 onboarding-device-migration-subtitle2 = 새 기기에서 북마크, 비밀번호, 기록을 가져오려면 계정에 로그인하세요.
 onboarding-device-migration-primary-button-label = 로그인
 
@@ -460,15 +399,12 @@ tab-groups-onboarding-feature-callout-title = 덜 복잡하고 더 집중할 수
 tab-groups-onboarding-feature-callout-subtitle = 하나의 탭을 다른 탭 위에 드래그하여 첫 번째 그룹을 만들어 정리하세요.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = 탭 전체 목록 메뉴에서 탭 그룹을 찾을 수 있습니다.
-tab-groups-onboarding-create-group-title-2 = 언제든지 여기에서 탭 그룹을 찾으세요.
 tab-groups-onboarding-create-group-no-alltabs-button-title = 주소 표시줄에서 그룹을 검색하여 찾으세요.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = 탭 그룹을 닫으면 언제든지 탭 전체 목록 메뉴에서 다시 열 수 있습니다.
-tab-groups-onboarding-saved-groups-title-2 = 탭 그룹을 닫으면, 언제든지 여기서 다시 열 수 있습니다.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = 주소 표시줄에서 검색하여 닫힌 그룹을 찾으세요.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = 탭 전체 목록 메뉴에서 언제든지 탭 그룹을 다시열 수 있습니다.
-tab-groups-onboarding-session-restore-title = 언제든지 여기에서 탭 그룹을 다시 열 수 있습니다.
 tab-groups-onboarding-dismiss = 확인
 
 ## Multi Profiles feature onboarding messages

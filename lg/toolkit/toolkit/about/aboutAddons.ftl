@@ -85,15 +85,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Ebyongerebwako byonna binafuyiziddwa n'enkola ennungamu
-extensions-warning-check-compatibility = Obusobozi obukebera ebyongerwako ebitatukagana kujjiddwako. Osobola okubanga ebyongerwako ebetatuukagana.
-extensions-warning-safe-mode2 =
-    .message = Ebyongerebwako byonna binafuyiziddwa n'enkola ennungamu
 extensions-warning-check-compatibility2 =
     .message = Obusobozi obukebera ebyongerwako ebitatukagana kujjiddwako. Osobola okubanga ebyongerwako ebetatuukagana.
 extensions-warning-check-compatibility-button = Sobozesa
     .title = Sobozesa ebikebera entuukaganya y'ebyongerwako
-extensions-warning-update-security = Ebyongerwako okutuukanya eby'okwerinda binafuyiziddwa. Oyinza obutafuna kutuukanya
 extensions-warning-update-security2 =
     .message = Ebyongerwako okutuukanya eby'okwerinda binafuyiziddwa. Oyinza obutafuna kutuukanya
 extensions-warning-update-security-button = Sobozesa
@@ -144,12 +139,5 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } tekwatagana na { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } tekwatagana na { -brand-short-name } { $version }.
-details-notification-blocked = { $name } emaliddwamu amanyi olw'ensonga z'ebyokwerinda oba butebenkevu.
-details-notification-blocked-link = Ebisingawo
-details-notification-softblocked = { $name } emanyiddwa okuleeta obunkenke.
-details-notification-softblocked-link = Ebisingawo

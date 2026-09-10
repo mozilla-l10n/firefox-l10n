@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = იხილეთ ბოლოს გაცნობილი მასალები სხვადასხვა ფანჯრებისა თუ მოწყობილობებიდან
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = დახურვა
-    .aria-label = დახურვა
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = ახლახან
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = ამოკრეფილი ჩანართები
-firefoxview-tabpickup-description = გახსენით გვერდები სხვა მოწყობილობიდან.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% შესრულებულია
-firefoxview-tabpickup-step-signin-header = მოქნილად გადაერთეთ მოწყობილობებს შორის
-firefoxview-tabpickup-step-signin-description = თქვენი ტელეფონიდან ჩანართების გადმოსატანად ჯერ შექმენით ან შედით ანგარიშზე.
-firefoxview-tabpickup-step-signin-primarybutton = განაგრძეთ
 firefoxview-syncedtabs-signin-header-2 = თქვენი { -brand-product-name } ყველა თქვენს მოწყობილობაზე
 firefoxview-syncedtabs-signin-description-2 = ტელეფონსა და სხვა მოწყობილობებზე გახსნილი ჩანართების სანახავად შედით ან შექმენით ანგარიში. ანგარიშით ასევე შეგიძლიათ დაასინქრონოთ თქვენი პაროლები, ისტორია და სხვ.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = ნოუთბუქიდან ტელეფონამდე, შეუფერხებლად
 firefoxview-syncedtabs-signin-description-3 = შეინარჩუნეთ გვერდების მონახულებისას უწყვეტობა — ჩანართების, პაროლების, ისტორიის დასინქრონებით.
 firefoxview-syncedtabs-signin-primarybutton-2 = შესვლა
-firefoxview-tabpickup-adddevice-header = დაასინქრონეთ { -brand-product-name } თქვენს ტელეფონსა და პლანშეტზე
-firefoxview-tabpickup-adddevice-description = ჩამოტვირთეთ { -brand-product-name } მობილურზე და იქიდანაც შედით.
-firefoxview-tabpickup-adddevice-learn-how = იხილეთ, როგორ
-firefoxview-tabpickup-adddevice-primarybutton = გადმოწერეთ { -brand-product-name } მობილურზე
 firefoxview-syncedtabs-adddevice-header-2 = წამოიღეთ ჩანართები ნებისმიერი ადგილიდან
 firefoxview-syncedtabs-adddevice-description-2 = შედით ანგარიშით ტელეფონზე ან სხვა კომპიუტერზე, სადაც გიყენიათ { -brand-product-name }, რომ იხილოთ ჩანართები აქ. ვრცლად, თუ როგორ უნდა <a data-l10n-name="url">დააკავშიროთ დამატებითი მოწყობილობები</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = მოსინჯეთ{ -brand-product-name } მობილურზე
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = თქვენი ჩანართები გადმორეკილია. იხილავთ ტელეფონზე.
 firefoxview-syncedtabs-adddevice-description-3 = წააკითხეთ QR-კოდი, რომ გადმოწეროთ { -brand-product-name } მობილურზე და დაიწყოთ დასინქრონება გახსნილი ჩანართებისა თუ სხვ. იხილეთ ვრცლად, თუ როგორ <a data-l10n-name="url">დააკავშიროთ დამატებითი მოწყობილობები</a>.
-firefoxview-tabpickup-synctabs-header = ჩანართთა დასინქრონების ჩართვა
-firefoxview-tabpickup-synctabs-description = საჭიროა ნებართვა, რომ { -brand-short-name } შეძლებს ჩანართების გაზიარებას.
-firefoxview-tabpickup-synctabs-learn-how = იხილეთ, როგორ
 firefoxview-tabpickup-synctabs-primarybutton = გახსნილი ჩანართების დასინქრონება
 firefoxview-tabpickup-synctabs-primarybutton-2 = ჩანართთა დასინქრონების ჩართვა
 firefoxview-syncedtabs-synctabs-header = სინქრონიზაციის პარამეტრების განახლება
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = როგორც კი დას
 firefoxview-syncedtabs-loading-header-2 = მიიღება თქვენი ჩანართები…
 firefoxview-syncedtabs-loading-description-2 = სინქრონიზდება. ჩანართები მალე აქ იქნება.
 firefoxview-tabpickup-fxa-admin-disabled-header = თქვენი დაწესებულების დებულებებით გათიშულია დასინქრონება
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ვერ ახერხებს ჩანართების გაზიარებას, ვინაიდან დებულებების მეშვეობითაა გათიშული აღნიშნული შესაძლებლობა.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ვერ ახერხებს ჩანართების გაზიარებას, ვინაიდან დაწესებულების დებულებების მეშვეობითაა გათიშული აღნიშნული შესაძლებლობა.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = ჩანართთა დასინქრონება გამორთულია
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = თქვენი დაწესებულების დებულებით იზღუდება ეს შესაძლებლობა.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = გახსენით ჩანართები თქვენი მთავარი პაროლით
 firefoxview-tabpickup-password-locked-description-2 = პირადი უსაფრთხოებისთვის დასინქრონებული ჩანართები დაცულია. შეიყვანეთ მთავარი პაროლი, რომელსაც იყენებს { -brand-short-name }, ჩანართების სანახავად სხვა მოწყობილობებიდან.
 firefoxview-tabpickup-signed-out-header = შესვლა ხელახლა დასაკავშირებლად
-firefoxview-tabpickup-signed-out-description = დააკავშირეთ ხელახლა და წამოიღეთ თქვენი ჩანართები ანგარიშიდან { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = ხელახლა დასაკავშირებლად და ჩანართების წამოსაღებად შედით თქვენს ანგარიშზე.
 firefoxview-tabpickup-signed-out-primarybutton = შესვლა
 firefoxview-tabpickup-signed-out-header-2 = შედით თქვენი ჩანართების სანახავად
 firefoxview-tabpickup-signed-out-description-2 = ხელახლა დააკავშირეთ სხვა მოწყობილობებიდან ჩანართების სანახავად.
-firefoxview-tabpickup-syncing = მოკალათდით სინქრონიზაციის დასრულებამდე. ცოტა ხანს გასტანს.
-firefoxview-mobile-promo-header = წამოიღეთ ჩანართები ტელეფონიდან ან პლანშეტიდან
-firefoxview-mobile-promo-description = ტელეფონში ბოლოს გახსნილი ჩანართების სანახავად, გამოიყენეთ { -brand-product-name } iOS-ზე ან Android-ზე და შედით ანგარიშზე.
-firefoxview-mobile-promo-primarybutton = გადმოწერეთ { -brand-product-name } მობილურზე
-firefoxview-mobile-confirmation-header = 🎉 ყველაფერი მზადაა!
-firefoxview-mobile-confirmation-description = ახლა კი შეგიძლიათ გადმოიტანოთ ის გვერდები, რომელთა გასახსნელადაც { -brand-product-name } გაქვთ გამოყენებული პლანშეტსა თუ ტელეფონზე.
-firefoxview-closed-tabs-title = ბოლოს დახურული
-firefoxview-closed-tabs-description2 = კვლავ გახსენით დახურული გვერდები ამ ფანჯრიდანვე.
-firefoxview-closed-tabs-placeholder-header = ბოლოს დახურული ჩანართები არაა
-firefoxview-closed-tabs-placeholder-body = როდესაც დახურავთ ჩანართს ამ ფანჯარაში, შეგიძლიათ დააბრუნოთ აქედან.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = მოცილდეს { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = ბოლოს მოქმედი
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = გახსენით { $targetURI } ახალ ჩანართში
-firefoxview-try-colorways-button = მოსინჯეთ ახალი შეფერილობა
-firefoxview-change-colorway-button = შეფერილობის შეცვლა
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = ჯერ არაფერია სანახავი
-firefoxview-synced-tabs-placeholder-body = შემდეგ ჯერზე, როცა { -brand-product-name } გახსნის რამე გვერდს სხვა მოწყობილობაზე, ჯადოსნურად გაჩნდება აქ.
 firefoxview-collapse-button-show =
     .title = გამოჩენა
 firefoxview-collapse-button-hide =

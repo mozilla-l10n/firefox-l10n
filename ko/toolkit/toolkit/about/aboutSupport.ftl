@@ -29,10 +29,6 @@ security-software-name = 이름
 security-software-antivirus = 바이러스 백신 소프트웨어
 security-software-antispyware = 스파이웨어 방지 소프트웨어
 security-software-firewall = 방화벽
-features-title = { -brand-short-name } 주요 기능
-features-name = 이름
-features-version = 버전
-features-id = ID
 processes-title = 원격 프로세스
 processes-type = 유형
 processes-count = 수
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] 프로필 저장 폴더
        *[other] 프로필 폴더
     }
-app-basics-enabled-plugins = 사용 중인 플러그인
 app-basics-build-config = 빌드 설정
 app-basics-user-agent = 사용자 에이전트
 app-basics-os = OS
@@ -96,9 +91,6 @@ show-dir-label =
 environment-variables-title = 환경 변수
 environment-variables-name = 이름
 environment-variables-value = 값
-experimental-features-title = 실험 기능
-experimental-features-name = 이름
-experimental-features-value = 값
 modified-key-prefs-title = 중요한 변경된 환경 설정
 modified-prefs-name = 이름
 modified-prefs-value = 값
@@ -220,9 +212,6 @@ media-cdm-capabilities = 기능
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = 리드 지우기
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = HDCP 2.2 호환
 
 ##
 
@@ -374,8 +363,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = 실험에 의해 비활성화됨
-fission-status-experiment-treatment = 실험에 의해 활성화됨
 fission-status-disabled-by-e10s-env = 환경에 의해 비활성화됨
 fission-status-enabled-by-env = 환경에 의해 활성화됨
 fission-status-disabled-by-env = 환경에 의해 비활성화됨
@@ -384,7 +371,6 @@ fission-status-disabled-by-default = 기본값에 의해 비활성화됨
 fission-status-enabled-by-user-pref = 사용자에 의해 활성화됨
 fission-status-disabled-by-user-pref = 사용자에 의해 비활성화됨
 fission-status-disabled-by-e10s-other = E10s 비활성화됨
-fission-status-enabled-by-rollout = 단계적 출시에 의해 활성화됨
 async-pan-zoom = 비동기 팬 및 확대/축소
 apz-none = 없음
 wheel-enabled = 휠 입력 활성화됨

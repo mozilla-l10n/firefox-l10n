@@ -21,8 +21,6 @@ styleeditor-save-button = Lưu
 styleeditor-options-button =
     .tooltiptext = Tùy chọn trình soạn thảo kiểu mẫu
 styleeditor-at-rules = At-rules
-styleeditor-editor-textbox =
-    .data-placeholder = Gõ CSS tại đây.
 styleeditor-no-stylesheet = Trang này không có style sheet.
 styleeditor-no-stylesheet-tip = Có thể bạn sẽ thích<a data-l10n-name="append-new-stylesheet">gắn thêm một style sheet mới</a>?
 styleeditor-open-link-new-tab =

@@ -2,22 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Przełōż ta strōna
 translations-panel-settings-button =
     .aria-label = Sztaluj przekłady
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Sztaluj jynzyki
-translations-panel-settings-about = Ô przekładach we { -brand-shorter-name }
 translations-panel-settings-about2 =
     .label = Ô przekładach we { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
@@ -58,14 +49,6 @@ translations-panel-error-dismiss-button =
     .label = Rozumia
 translations-panel-error-change-button =
     .label = Zmiyń zdrzōdłowy jynzyk
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Niystety niy spiyrōmy jeszcze { $language }.
-translations-panel-error-unsupported-hint-unknown = Niystety niy spiyrōmy jeszcze tego jynzyka.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -97,16 +80,11 @@ translations-manage-header = Przekłady
 translations-manage-settings-button =
     .label = Sztalōnki…
     .accesskey = t
-translations-manage-description = Ściōng jynzyki do przekładu offline.
-translations-manage-all-language = Wszyske jynzyki
-translations-manage-download-button = Pobier
-translations-manage-delete-button = Skasuj
 translations-manage-error-download = Pokozoł sie problym przi pobiyraniu zbiorōw ôd tego jynzyka. Sprōbuj zaś.
-translations-manage-error-delete = Pokozoł sie problym przi kasowaniu zbiorōw ôd tego jynzyka. Sprōbuj zaś.
 translations-manage-error-list = Niy szło dotrzeć do wykazu przistympnych jynzykōw do przekłodanio. Ôdświyż strōna, żeby sprōbować zaś.
 translations-settings-title =
-    .title = Sztalōnki przekładu
     .style = min-width: 36em
+    .title = Sztalōnki przekładu
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Przekłod bydzie autōmatyczny dlo tych jynzykōw
@@ -140,13 +118,3 @@ select-translations-panel-try-again-button =
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Bōł problym ze przekłodaniym. Sprōbuj zaś.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Niystety niy spiyrōmy jeszcze { $language }.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Niystety niy spiyrōmy jeszcze tego jynzyka.

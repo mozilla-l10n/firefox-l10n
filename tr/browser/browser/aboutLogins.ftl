@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Hesaplar ve Parolalar
-about-logins-login-filter =
-    .placeholder = Hesaplarda ara
-    .key = F
-create-new-login-button =
-    .title = Yeni hesap oluştur
 about-logins-page-title-name = Parolalar
 about-logins-login-filter2 =
-    .placeholder = Parolalarda ara
     .key = F
+    .placeholder = Parolalarda ara
 create-login-button =
     .title = Parola ekle
 fxaccounts-sign-in-text = Parolalarınızı tüm cihazlarınıza aktarın
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Başka bir tarayıcıdan içe aktar…
 about-logins-menu-menuitem-import-from-a-file = Dosyadan içe aktar…
-about-logins-menu-menuitem-export-logins = Hesapları dışa aktar…
-about-logins-menu-menuitem-remove-all-logins = Tüm hesapları sil…
 about-logins-menu-menuitem-export-logins2 = Parolaları dışa aktar…
 about-logins-menu-menuitem-remove-all-logins2 = Tüm parolaları sil…
 menu-menuitem-preferences =
@@ -42,21 +34,6 @@ about-logins-menu-menuitem-help = Yardım
 
 login-list =
     .aria-label = Arama sorgusuyla eşleşen hesaplar
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } hesap
-       *[other] { $count } hesap
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $total } hesaptan { $count } hesap
-       *[other] { $total } hesaptan { $count } hesap
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -80,14 +57,10 @@ login-list-username-reverse-option = Kullanıcı adı (Z-A)
 about-logins-login-list-alerts-option = Uyarılar
 login-list-last-changed-option = Son değişiklik
 login-list-last-used-option = Son kullanım
-login-list-intro-title = Hiç hesap bulunamadı
 login-list-intro-title2 = Kayıtlı parola yok
 login-list-intro-description = { -brand-product-name } tarayıcısında kaydettiğiniz parolalar burada görünecektir.
-about-logins-login-list-empty-search-title = Hiç hesap bulunamadı
 about-logins-login-list-empty-search-title2 = Parola bulunamadı
 about-logins-login-list-empty-search-description = Aramanızla eşleşen sonuç bulunamadı.
-login-list-item-title-new-login = Yeni hesap
-login-list-item-subtitle-new-login = Hesap bilgilerinizi girin
 login-list-item-title-new-login2 = Parola ekle
 login-list-item-subtitle-missing-username = (kullanıcı adı yok)
 about-logins-list-item-breach-icon =
@@ -103,28 +76,20 @@ about-logins-list-section-week = Son 7 gün
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Kayıtlı hesaplarınızı mı arıyorsunuz? Eşitlemeyi açın veya içe aktarın.
-about-logins-login-intro-heading-logged-in = Eşitlenmiş hesap bulunamadı.
-login-intro-description = Hesaplarınızı farklı bir cihazdaki { -brand-product-name } tarayıcınıza kaydettiyseniz onları buraya aktarabilirsiniz:
-login-intro-instructions-fxa = Hesaplarınızın kayıtlı olduğu cihazda { -fxaccount-brand-name } oluşturun veya hesabınıza giriş yapın.
 about-logins-login-intro-heading-message = Parolalarınızı güvenle kaydedin
 login-intro-description2 = { -brand-product-name } tarayıcınıza kaydettiğiniz tüm parolalar şifrelenir. Ayrıca, parolalarınızın bir ihlalden etkilendiğini tespit edersek size haber veririz. <a data-l10n-name="breach-alert-link">Daha fazla bilgi alın</a>
 login-intro-instructions-fxa2 = Hesaplarınızın kayıtlı olduğu cihazda hesap açın veya hesabınıza giriş yapın.
 login-intro-instructions-fxa-settings = Ayarlar > Eşitleme > “Eşitlemeyi başlat…” kısmına gidip “Hesaplar ve parolalar”ı işaretleyin.
 login-intro-instructions-fxa-passwords-help = Yardıma ihtiyacınız varsa <a data-l10n-name="passwords-help-link">parola desteğini</a> ziyaret edebilirsiniz.
-about-logins-intro-browser-only-import = Hesaplarınız başka bir tarayıcıda kayıtlıysa onları <a data-l10n-name="import-link">{ -brand-product-name }’a aktarabilirsiniz</a>
-about-logins-intro-import2 = Hesaplarınız { -brand-product-name } dışında kayıtlıysa onları <a data-l10n-name="import-browser-link">başka bir tarayıcıdan</a> veya <a data-l10n-name="import-file-link">dosyadan</a> içe aktarabilirsiniz
 about-logins-intro-import3 = Şimdi bir parola eklemek için yukarıdaki artı işaretine tıklayın. Ayrıca parolaları <a data-l10n-name="import-browser-link">başka bir tarayıcıdan</a> veya <a data-l10n-name="import-file-link">bir dosyadan</a> içe aktarabilirsiniz.
 
 ## Login
 
-login-item-new-login-title = Yeni hesap oluştur
 # Header for adding a password
 about-logins-login-item-new-login-title = Parola ekle
 login-item-edit-button = Düzenle
 about-logins-login-item-remove-button = Sil
 login-item-origin-label = Web sitesi adresi
-login-item-tooltip-message = Giriş yaptığınız web sitesinin tam adresiyle aynı olmalı.
 about-logins-origin-tooltip2 = Tam adresi yazın ve giriş yaptığınız adresle tam olarak aynı olduğundan emin olun.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -144,7 +109,6 @@ login-item-password-conceal-checkbox =
     .aria-label = Parolayı gizle
 login-item-copy-password-button-text = Kopyala
 login-item-copied-password-button-text = Kopyalandı!
-login-item-save-changes-button = Değişiklikleri kaydet
 about-logins-login-item-save-changes-button = Kaydet
 login-item-save-new-button = Kaydet
 login-item-cancel-button = Vazgeç
@@ -168,11 +132,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Hesabınızı düzenlemek için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = kayıtlı hesabı düzenleme
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -196,11 +155,6 @@ about-logins-copy-password-os-auth-dialog-message-win = Parolanızı kopyalamak 
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kayıtlı parolayı kopyalama
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Hesaplarınızı dışa aktarmak için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = kayıtlı hesapları ve parolaları dışa aktarma
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = Parolalarınızı dışa aktarmak için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -218,8 +172,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Vazgeç
 confirmation-dialog-dismiss-button =
     .title = Vazgeç
-about-logins-confirm-remove-dialog-title = Bu hesap silinsin mi?
-confirm-delete-dialog-message = Bu işlem geri alınamaz.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Parola silinsin mi?
 # Message for modal to confirm the removal of one saved password
@@ -234,34 +186,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] Sil
         [one] Sil
        *[other] Tümünü sil
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] Evet, bu hesabı sil
-        [one] Evet, bu hesabı sil
-       *[other] Evet, bu hesapları sil
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] { $count } hesap silinsin mi?
-       *[other] { $count } hesap silinsin mi?
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesabı ve burada görünen ihlal uyarılarını silecektir. Bu işlemi geri alamazsınız.
-        [one] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesabı ve burada görünen ihlal uyarılarını silecektir. Bu işlemi geri alamazsınız.
-       *[other] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesapları ve burada görünen ihlal uyarılarını silecektir. Bu işlemi geri alamazsınız.
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] { $count } hesap tüm cihazlardan silinsin mi?
-       *[other] { $count } hesabın hepsi tüm cihazlardan silinsin mi?
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [1] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesabı { -fxaccount-brand-name }nızla eşitlenen tüm cihazlardan silecektir. Burada görünen ihlal uyarıları da silinecektir. Bu işlemi geri alamazsınız.
-        [one] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesabı { -fxaccount-brand-name }nızla eşitlenen tüm cihazlardan silecektir. Burada görünen ihlal uyarıları da silinecektir. Bu işlemi geri alamazsınız.
-       *[other] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz tüm hesapları { -fxaccount-brand-name }nızla eşitlenen tüm cihazlardan silecektir. Burada görünen ihlal uyarıları da silinecektir. Bu işlemi geri alamazsınız.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -299,15 +223,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = Hesapları ve parolaları dışa aktarma
-about-logins-confirm-export-dialog-message = Parolalarınız okunabilir metin olarak kaydedilecek (örn. KotuP@r0la), yani dışa aktarılan dosyayı açabilen herkes parolalarınızı görebilecektir.
-about-logins-confirm-export-dialog-confirm-button = Dışa aktar…
 about-logins-confirm-export-dialog-title2 = Parolaları dışa aktarma hakkında bir bilgi
 about-logins-confirm-export-dialog-message2 =
     Dışa aktardığınızda, parolalarınız bir dosyaya okunabilir metin olarak kaydedilir.
     Dosyayla işiniz bittiğinde, bu cihazı kullanan başka kişilerin parolalarınızı görmemesi için dosyayı silmenizi öneririz.
 about-logins-confirm-export-dialog-confirm-button2 = Dışa aktarma işlemine devam et
-about-logins-alert-import-title = İçe aktarma tamamlandı
 about-logins-alert-import-message = Ayrıntılı içe aktarma özetini görüntüle
 confirm-discard-changes-dialog-title = Kaydedilmemiş değişikliklerden vazgeçilsin mi?
 confirm-discard-changes-dialog-message = Kaydedilmemiş değişikliklerin tümü kaybolacak.
@@ -344,11 +264,6 @@ about-logins-error-message-default = Bu parola kaydedilirken bir hata oluştu.
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Hesaplar Dosyasını Dışa Aktar
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = hesaplar.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = Parolaları { -brand-short-name } tarayıcısından dışa aktar
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -364,8 +279,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = Hesaplar Dosyasını İçe Aktar
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = Parolaları { -brand-short-name } tarayıcısına aktar
 about-logins-import-file-picker-import-button = İçe aktar
@@ -389,20 +302,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = İçe aktarma tamamlandı
-about-logins-import-dialog-items-added =
-    { $count ->
-        [one] <span>Eklenen hesap sayısı:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Eklenen hesap sayısı:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-        [one] <span>Güncellenen hesap sayısı:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Güncellenen hesap sayısı:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-       *[other] <span>Bulunan mükerrer hesap:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(içe aktarılmadı)</span>
-    }
 about-logins-import-dialog-items-added2 =
     { $count ->
         [one] <span>Eklenen parola sayısı:</span> <span data-l10n-name="count">{ $count }</span>
@@ -438,15 +337,11 @@ about-logins-import-dialog-error-learn-more = Daha fazla bilgi al
 about-logins-import-dialog-error-try-import-again = Tekrar içe aktarmayı dene…
 about-logins-import-dialog-error-cancel = Vazgeç
 about-logins-import-report-title = İçe Aktarma Özeti
-about-logins-import-report-description = { -brand-short-name } tarayıcınıza aktarılan hesap ve parolalar.
 about-logins-import-report-description2 = Parolalar { -brand-short-name } tarayıcısına aktarıldı.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = { $number }. satır
-about-logins-import-report-row-description-no-change = Mükerrer: Mevcut hesabın aynısı
-about-logins-import-report-row-description-modified = Mevcut hesap güncellendi
-about-logins-import-report-row-description-added = Yeni hesap eklendi
 about-logins-import-report-row-description-no-change2 = Mükerrer: Mevcut kaydın aynısı
 about-logins-import-report-row-description-modified2 = Mevcut kayıt güncellendi
 about-logins-import-report-row-description-added2 = Yeni parola eklendi
@@ -463,21 +358,6 @@ about-logins-import-report-row-description-error-missing-field = Hata: { $field 
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">yeni hesap eklendi</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">yeni hesap eklendi</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">mevcut hesap güncellendi</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">mevcut hesap güncellendi</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">mükerrer hesap</div> <div data-l10n-name="not-imported">(İçe aktarılmadı)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">mükerrer hesap</div> <div data-l10n-name="not-imported">(İçe aktarılmadı)</div>
-    }
 about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">yeni parola eklendi</div>

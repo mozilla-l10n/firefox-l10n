@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = لا يمكن للامتداد قراءة البيانات ولا تغييرها
-origin-controls-quarantined =
-    .label = ليس مسموحًا للامتداد بقراءة وتغيير البيانات
 origin-controls-quarantined-status =
     .label = لا يُسمح بالامتداد على المواقع المحظورة
 origin-controls-quarantined-allow =

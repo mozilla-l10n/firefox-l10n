@@ -19,10 +19,6 @@ security-software-name = नाम
 security-software-antivirus = एंटीवायरस
 security-software-antispyware = एंटीस्पायवेयर
 security-software-firewall = फ़ायरवॉल
-features-title = { -brand-short-name } विशेषताएं
-features-name = नाम
-features-version = संस्करण
-features-id = ID
 processes-title = दूरस्थ प्रक्रियाएं
 app-basics-title = अनुप्रयोग मूल
 app-basics-name = नाम
@@ -43,7 +39,6 @@ app-basics-profile-dir =
         [linux] प्रोफ़ाइल निर्देशिका
        *[other] प्रोफ़ाइल फ़ोल्डर
     }
-app-basics-enabled-plugins = सक्रिय प्लगिन
 app-basics-build-config = बिल्ड विन्यास
 app-basics-user-agent = उपयोक्ता प्रतिनिधि
 app-basics-os = OS
@@ -67,7 +62,6 @@ show-dir-label =
        *[other] खुली निर्देशिका
     }
 environment-variables-name = नाम
-experimental-features-name = नाम
 modified-key-prefs-title = महत्वपूर्ण रूपांतरित वरीयताएँ
 modified-prefs-name = नाम
 modified-prefs-value = मान

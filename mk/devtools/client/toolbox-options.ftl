@@ -36,10 +36,6 @@ options-screenshot-audio-tooltip =
 
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Напредни поставки
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Оневозможи JavaScript *
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Само во текот на оваа сесија. Ја вчитува страницата одново.
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

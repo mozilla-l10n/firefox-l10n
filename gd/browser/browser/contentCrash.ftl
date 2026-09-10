@@ -18,15 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Tha { $reportCount } aithisg tuislidh agad nach do chuir thu thugainn fhathast
-        [two] Tha { $reportCount } aithisg tuislidh agad nach do chuir thu thugainn fhathast
-        [few] Tha { $reportCount } aithisgean tuislidh agad nach do chuir thu thugainn fhathast
-       *[other] Tha { $reportCount } aithisg tuislidh agad nach do chuir thu thugainn fhathast
-    }
 pending-crash-reports-view-all =
     .label = Seall
 pending-crash-reports-send =
@@ -41,15 +32,6 @@ requested-crash-reports-message-new =
         [two] Tha { $reportCount } aithisg tuislidh agad nach deach a chur fhathast ach a tha co-cheangailte ri tuislidhean a tha sinn a’ sgrùdadh mar-thà. Ma chuireas tu thugainn e, bheir sin comas dhuinn { -brand-product-name } a dhèanamh nas fheàrr. Ma dhùineas tu am brath seo, thèid an aithisg seo a leigeil seachad.
         [few] Tha { $reportCount } aithisgean tuislidh agad nach deach a chur fhathast ach a tha co-cheangailte ri tuislidhean a tha sinn a’ sgrùdadh mar-thà. Ma chuireas tu thugainn e, bheir sin comas dhuinn { -brand-product-name } a dhèanamh nas fheàrr. Ma dhùineas tu am brath seo, thèid an aithisg seo a leigeil seachad.
        *[other] Tha { $reportCount } aithisg tuislidh agad nach deach a chur fhathast ach a tha co-cheangailte ri tuislidhean a tha sinn a’ sgrùdadh mar-thà. Ma chuireas tu thugainn e, bheir sin comas dhuinn { -brand-product-name } a dhèanamh nas fheàrr. Ma dhùineas tu am brath seo, thèid an aithisg seo a leigeil seachad.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Tha { $reportCount } aithisg tuislidh agad nach deach a chur fhathast ach a tha a’ freagairt air tuislidhean a tha sinn a’ sgrùdadh mar-thà. Ma chuireas tu thugainn e, bheir sin comas dhuinn { -brand-product-name } a dhèanamh nas fheàrr. Ma dhùineas tu am brath seo, thèid an aithisg seo a leigeil seachad.
-        [two] Tha { $reportCount } aithisg tuislidh agad nach deach a chur fhathast ach a tha a’ freagairt air tuislidhean a tha sinn a’ sgrùdadh mar-thà. Ma chuireas tu thugainn e, bheir sin comas dhuinn { -brand-product-name } a dhèanamh nas fheàrr. Ma dhùineas tu am brath seo, thèid an aithisg seo a leigeil seachad.
-        [few] Tha { $reportCount } aithisgean tuislidh agad nach deach a chur fhathast ach a tha a’ freagairt air tuislidhean a tha sinn a’ sgrùdadh mar-thà. Ma chuireas tu thugainn e, bheir sin comas dhuinn { -brand-product-name } a dhèanamh nas fheàrr. Ma dhùineas tu am brath seo, thèid an aithisg seo a leigeil seachad.
-       *[other] Tha { $reportCount } aithisg tuislidh agad nach deach a chur fhathast ach a tha a’ freagairt air tuislidhean a tha sinn a’ sgrùdadh mar-thà. Ma chuireas tu thugainn e, bheir sin comas dhuinn { -brand-product-name } a dhèanamh nas fheàrr. Ma dhùineas tu am brath seo, thèid an aithisg seo a leigeil seachad.
     }
 requested-crash-reports-dont-show-again =
     .label = Na seall seo a-rithist

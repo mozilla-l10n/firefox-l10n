@@ -62,18 +62,11 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = ہر جاہ اپݨے بک مارکس سینک کرو
-cfr-doorhanger-bookmark-fxa-body = وݙی لبھت! ہݨ اپݨے موبائل آلات تے ایں نشانی دے بغیر نہ رہو۔ ہک { -fxaccount-brand-name } دے نال شروع کرو۔
 cfr-doorhanger-bookmark-fxa-body-2 = وݙی لبھت! ہݨ اپݨے موبائل آلات تے ایں نشانی دے بغیر نہ رہو۔ ہک کھاتے نال شروع کرو۔
 cfr-doorhanger-bookmark-fxa-link-text = ہݨ بک مارکس سینک کرو …
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = بٹن بند کرو
     .title = بند کرو
-
-## Protections panel
-
-cfr-protections-panel-header = بغیر فالو تھئے براؤز کرو
-cfr-protections-panel-body = اپݨا ڈیٹا اپݨے کول رکھو۔ { -brand-short-name } تہاکوں ٻہوں سارے عام ٹریکرز کنوں بچیندا ہے جیڑھا تساں آن لائن کریندے رہندو۔
-cfr-protections-panel-link-text = ٻیا سِکھو
 
 ## What's New toolbar button and panel
 
@@ -169,42 +162,8 @@ mr2022-background-update-toast-primary-button-label = ہݨ { -brand-shorter-name
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = میکوں بعد اِچ یاد ݙیواؤ
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = اینکوں ازماؤ
-    .accesskey = T
-firefoxview-cfr-secondarybutton = ہݨ کائناں
-    .accesskey = N
-firefoxview-cfr-header-v2 = تکھاجی نال اتھاؤں چاؤ جتھاں تساں چھوڑیا ہا
-firefoxview-cfr-body-v2 = حالیہ بند ٹیباں کوں ولدا حاصل کرو۔ نال { -firefoxview-brand-name } والے آلات دے درمیان بغیر کہیں رکاوٹ دے ہاپ کرو۔
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = { -firefoxview-brand-name } نال سلام دعا کرو
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = اپݨے فون تے او کھلا ٹیب چاہندے ہن؟ ایندے اُتے قبضہ کرو۔ ایں سائٹ دی لوڑ ہے جیڑھی تساں ہݨیں ݙٹھی ہے؟ Poof ایہ { -firefoxview-brand-name } دے نال واپس آ ڳیا ہے۔
-firefoxview-spotlight-promo-primarybutton = ݙیکھو اے کیویں کم کریندے
-firefoxview-spotlight-promo-secondarybutton = چھوڑو
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = کلر وے دا انتخاب کرو
-    .accesskey = C
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = اپݨے براؤزر کوں { -brand-short-name } خصوصی جھاں دے نال رنگیل کرو جیڑھا ثقافت کوں تبدیل کرݨ والیاں آوازاں کنوں متاثر ہووے۔
-colorways-cfr-header-28days = آزاد آوازاں کلر ویز دی میعاذ 16 جنوری کوں مُکدی پئی ہے۔
-colorways-cfr-header-14days = آزاد آوازاں کلر ویز دی معیاد ݙو ہفتے وِچ مکدی پئی اے
-colorways-cfr-header-7days = آزاد آوازاں کلر ویز دی معیاد ایں ہفتے مکدی پئی اے
-colorways-cfr-header-today = آزاد آوازاں کلر ویز دی معیاد اڄ مکدی پئی اے
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = { -brand-short-name } کوں کوکی بینراں مسترد کرݨ دی اجازت ݙیوں؟
-cfr-cbh-body = { -brand-short-name } ٻہوں ساریاں کوکی بینر ارداساں خود بخود مسترد کر سڳدے۔
-cfr-cbh-confirm-button = کوکی بینراں کوں مسترد کرو
-    .accesskey = R
-cfr-cbh-dismiss-button = ہݨ کائناں
-    .accesskey = N
 cookie-banner-blocker-onboarding-header = { -brand-short-name }نے ہُݨیں تُہاݙے کِیتے ہِک کوکی بینر کنوں انکار کر ݙِتّا ہِے
 cookie-banner-blocker-onboarding-body = گَھٹ خلفشار، گَھٹ کوکیز تُہاکُوں اِیں سائٹ اُتے ٹریک کریندیاں ہِن۔
 cookie-banner-blocker-onboarding-learn-more = ٻیا سِکھو

@@ -4,16 +4,6 @@
 
 about-reader-loading = लोड करत आहे...
 about-reader-load-error = पृष्ठावरून लेख लोड करण्यात अपयशी
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time =
-    { $rangePlural ->
-        [one] { $range } मिनीट
-       *[other] { $range } मिनीटे
-    }
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -23,4 +13,3 @@ about-reader-font-type-sans-serif = सँस-सेरिफ
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = वाचक मोड बंद करा
-about-reader-toolbar-type-controls = टाईप नियंत्रणे

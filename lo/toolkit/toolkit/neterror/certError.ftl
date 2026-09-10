@@ -16,7 +16,6 @@ cert-error-trust-untrusted-issuer = ໃບຢັ້ງຢືນບໍ່ນ່�
 cert-error-trust-signature-algorithm-disabled = ໃບຢັ້ງຢືນບໍ່ເຊື່ອຖືໄດ້ເນື່ອງຈາກມັນຖືກລົງນາມໂດຍໃຊ້ສູດການຄິດໄລ່ລາຍເຊັນທີ່ຖືກປິດໃຊ້ງານເນື່ອງຈາກສູດການຄິດໄລ່ນັ້ນບໍ່ປອດໄພ.
 cert-error-trust-expired-issuer = ໃບຢັ້ງຢືນບໍ່ເຊື່ອຖືໄດ້ ເພາະວ່າໃບຮັບຮອງຜູ້ອອກໄດ້ໝົດອາຍຸແລ້ວ.
 cert-error-trust-self-signed = ໃບຢັ້ງຢືນບໍ່ເຊື່ອຖືໄດ້ເພາະມັນລົງນາມເອງ.
-cert-error-trust-symantec = ໃບຢັ້ງຢືນທີ່ອອກໃຫ້ໂດຍ GeoTrust, RapidSSL, Symantec, Thawte, ແລະ VeriSign ບໍ່ໄດ້ຖືກພິຈາລະນາວ່າປອດໄພອີກຕໍ່ໄປເພາະວ່າເຈົ້າຫນ້າທີ່ໃບຢັ້ງຢືນເຫຼົ່ານີ້ບໍ່ປະຕິບັດຕາມການປະຕິບັດດ້ານຄວາມປອດໄພໃນອະດີດ.
 cert-error-untrusted-default = ໃບຢັ້ງຢືນບໍ່ໄດ້ມາຈາກແຫຼ່ງທີ່ເຊື່ອຖືໄດ້.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -32,10 +31,6 @@ cert-error-not-yet-valid-now = ເວັບໄຊທ໌ພິສູດຕົວ�
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = ລະຫັດຂໍ້ຜິດພາດ: <a data-l10n-name="error-code-link">{ $error }</a>
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = ເວັບໄຊທ໌ພິສູດຕົວຕົນຂອງເຂົາເຈົ້າໂດຍຜ່ານໃບຢັ້ງຢືນ, ເຊິ່ງອອກໃຫ້ໂດຍເຈົ້າຫນ້າທີ່ໃບຢັ້ງຢືນ. ຕົວທ່ອງເວັບສ່ວນໃຫຍ່ບໍ່ໄວ້ວາງໃຈໃບຢັ້ງຢືນທີ່ອອກໃຫ້ໂດຍ GeoTrust, RapidSSL, Symantec, Thawte, ແລະ VeriSign. { $hostname } ໃຊ້ໃບຮັບຮອງຈາກໜຶ່ງໃນໜ່ວຍງານເຫຼົ່ານີ້ ແລະດັ່ງນັ້ນຕົວຕົນຂອງເວັບໄຊທ໌ບໍ່ສາມາດພິສູດໄດ້.
-cert-error-symantec-distrust-admin = ທ່ານອາດຈະແຈ້ງໃຫ້ຜູ້ເບິ່ງແຍງຂອງເວັບໄຊທ໌ກ່ຽວກັບບັນຫານີ້.
 cert-error-old-tls-version = ເວັບໄຊທ໌ນີ້ອາດຈະບໍ່ສະຫນັບສະຫນູນ TLS 1.2 protocol, ເຊິ່ງເປັນເວີຊັ່ນຕໍາ່ສຸດທີ່ສະຫນັບສະຫນູນໂດຍ { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -44,7 +39,6 @@ cert-error-details-hsts-label = HTTP ຄວາມປອດໄພການຂົ�
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = ສາຍໃບຮັບຮອງ:
-open-in-new-window-for-csp-or-xfo-error = ເປີດໄຊທ໌ໃນວິນໂດໃຫມ່
 
 ## Messages used for certificate error titles
 
@@ -74,7 +68,6 @@ redirectLoop-title = ຫນ້າເວັບນີ້ມີການປ່ຽ�
 unknownSocketType-title = ການຕອບສະຫນອງທີ່ບໍ່ຄາດຄິດຈາກເຊີເວີ
 nssFailure2-title = ການເຊື່ອມຕໍ່ທີ່ປອດໄພລົ້ມເຫລວ
 csp-xfo-error-title = { -brand-short-name } ບໍ່ສາມາດເປີດໜ້ານີ້ໄດ້
-corruptedContentError-title = ມີການຜີດຜາດໃນການເຊື່ອມໂຍງເນື້ອຫາ
 sslv3Used-title = ບໍ່ສາມາດເຊື່ອມຕໍ່ໄດ້ຢ່າງປອດໄພ
 inadequateSecurityError-title = ການເຊື່ອມຕໍ່ຂອງທ່ານບໍ່ປອດໄພ
 blockedByPolicy-title = ບັອກຫນ້າແລ້ວ

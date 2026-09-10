@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = أضف { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = التقدم: الخطوة { $current } من { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -199,11 +193,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = ثبّت { -brand-short-name } في شريط المهام وقائمة البدء
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = ابدأ بمتصفح مدعوم من مؤسسة غير ربحية. نحن ندافع عن خصوصيتك أثناء تصفحك للويب.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -233,56 +222,10 @@ mr2022-onboarding-set-default-subtitle = استخدم متصفحًا مدعوم�
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = أحدث نسخة منا تدور حولك، مما يجعلها أسهل من أي وقت مضى في جميع أنحاء الويب. إنه مليء بالمزايا التي نعتقد أنك ستحبها.
 mr2022-onboarding-get-started-primary-button-label = أعدّه في ثوانٍ
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = إعداد بسرعة البرق
-mr2022-onboarding-import-subtitle = اضبط { -brand-short-name } كما تريدها. أضِف العلامات وكلمات السر وغيرها الكثير من متصفحك القديم.
 mr2022-onboarding-import-primary-button-label-no-attribution = استورِدها من المتصفّح السابق
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = اختر اللون الذي يلهمك
-mr2022-onboarding-colorway-subtitle = يمكن للأصوات المستقلة أن تغير الثقافة.
-mr2022-onboarding-colorway-primary-button-label-continue = حدد و واصِل
-mr2022-onboarding-existing-colorway-checkbox-label = اجعل { -firefox-home-brand-name } صفحتك الرئيسية الملونة
-mr2022-onboarding-colorway-label-default = الافتراضي
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = ألوان { -brand-short-name } الحالية
-mr2022-onboarding-colorway-description-default = <b>أستخدم ألوان { -brand-short-name } الحالية.</b>
-mr2022-onboarding-colorway-label-playmaker = صانع ألعاب
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = صانع الألعاب (أحمر)
-mr2022-onboarding-colorway-description-playmaker = <b>أنت صانع ألعاب.</b> أنت تخلق فرصًا للفوز وتساعد كل من حولك على الارتقاء بمستواهم.
-mr2022-onboarding-colorway-label-expressionist = تعبيري
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = تعبيرية (أصفر)
-mr2022-onboarding-colorway-label-visionary = صاحب رؤية
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = صاحب رؤية (أخضر)
-mr2022-onboarding-colorway-description-visionary = <b>أنت صاحب رؤية.</b> أنت تتساءل عن الوضع الراهن وتدفع الآخرين إلى تصور مستقبل أفضل.
-mr2022-onboarding-colorway-label-activist = ناشط
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = ناشط (أزرق)
-mr2022-onboarding-colorway-description-activist = <b>أنت ناشط.</b> أنت تترك العالم مكانًا أفضل مما وجدته عليه وتقود الآخرين إلى الاعتقاد.
-mr2022-onboarding-colorway-label-dreamer = الحالم
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = الحالم (الأرجواني)
-mr2022-onboarding-colorway-description-dreamer = <b>أنت حالم.</b> أنت تؤمن بأن الثروة تفضل الشجعان وتلهم الآخرين ليكونوا شجعان.
-mr2022-onboarding-colorway-label-innovator = مبتكر
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = المبتكر (برتقالي)
-mr2022-onboarding-colorway-description-innovator = <b>أنت مبتكر.</b> ترى الفرص في كل مكان وتحدث تأثيرًا على حياة كل من حولك.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = انتقل من حاسوبك الشخصي إلى هاتفك ثم عد مرة أخرى
-mr2022-onboarding-mobile-download-subtitle = أختر الألسنة من جهاز ما، وتابع ذلك من حيث انتهيت من الجهاز الآخر. زامن العلامات وكلمات السر في أي مكان تستخدم فيه { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = امسح رمز QR ضوئيا للحصول على { -brand-product-name } للجوال أو <a data-l10n-name="download-label"> لإرسال رابط التنزيل إلى نفسك.</a>
 mr2022-onboarding-no-mobile-download-cta-text = امسح رمز QR ضوئيا للحصول على { -brand-product-name } الجوال.
 
@@ -333,15 +276,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = أيدي ذوي البشرة الفاتحة والبشرة الداكنة تصافح باليد الأخرى
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = منظر لغروب الشمس من خلال نافذة مع ثعلب ونبات منزلي على حافة النافذة
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = رذاذ يدوي يرسم مجموعة ملونة من العين الخضراء والحذاء البرتقالي وكرة السلة الحمراء وسماعات الرأس الأرجوانية والقلب الأزرق والتاج الأصفر
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = ثعلب يلوّح على شاشة حاسوب محمول. الحاسوب المحمول موصول بفأرة.
 onboarding-device-migration-title = مرحبا بعودتك!
-onboarding-device-migration-subtitle = لِج إلى { -fxaccount-brand-name(capitalization: "sentence") } لتجلب علاماتك وكلمات السر والتأريخ معك على جهازك الجديد.
 onboarding-device-migration-subtitle2 = لِج إلى حسابك لجلب العلامات وكلمات السر وسجلك معك إلى جهازك الجديد.
 onboarding-device-migration-primary-button-label = لِج
 
@@ -456,15 +396,12 @@ tab-groups-onboarding-feature-callout-title = جرّب مجموعات اللسا
 tab-groups-onboarding-feature-callout-subtitle = نظم أمورك عن طريق سحب لسان واحد فوق أخرى لإنشاء مجموعتك الأولى.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = اعثر على مجموعات ألسنتك في قائمة "اسرد كل الألسنة" في أي وقت.
-tab-groups-onboarding-create-group-title-2 = اعثر على مجموعات ألسنتك هنا في أي وقت.
 tab-groups-onboarding-create-group-no-alltabs-button-title = ابحث عن مجموعاتك من خلال البحث عنها في شريط العناوين.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = عند إغلاق مجموعة ألسنة، يمكنك إعادة فتحها من قائمة "اسرد كل الألسنة" في أي وقت.
-tab-groups-onboarding-saved-groups-title-2 = عند إغلاق مجموعة لسان، يمكنك إعادة فتحها هنا في أي وقت.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = ابحث عن مجموعاتك المغلقة عن طريق البحث عنها في شريط العناوين.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = يمكنك إعادة فتح مجموعات ألسنتك من قائمة "اسرد كل الألسنة" في أي وقت.
-tab-groups-onboarding-session-restore-title = يمكنك إعادة فتح مجموعات علاماتك هنا في أي وقت.
 tab-groups-onboarding-dismiss = حسنًا
 
 ## Multi Profiles feature onboarding messages

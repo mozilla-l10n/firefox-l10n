@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = Sambungan dan Tema
 appmenuitem-extensions =
     .label = Sambungan
-appmenuitem-addons-and-themes =
-    .label = Add-on dan tema
 appmenuitem-print =
     .label = Cetak…
 appmenuitem-find-in-page =
@@ -147,7 +145,6 @@ fxa-menu-get-firefox-mobile =
     .label = Dapatkan { -brand-product-name } untuk Android atau iOS
 fxa-menu-secure-sync-subpanel =
     .title = Sync selamat
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Akaun
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -163,15 +160,6 @@ appmenuitem-save-page =
     .label = Simpan Halaman Sebagai…
 appmenuitem-fxa-sync-off-title = Sync dimatikan
 appmenuitem-fxa-sync-off-description = Lindungi dan akses penanda halaman, kata laluan, dan banyak lagi di mana-mana.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Perkembangan Terbaru
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Maklumkan tentang ciri baharu
-    .accesskey = c
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -277,8 +265,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Maklumat penyelesaian masalah lanjut
     .accesskey = p
-appmenu-help-report-site-issue =
-    .label = Laporkan Isu Laman…
 appmenu-help-share-ideas =
     .label = Kongsi idea dan maklum balas...
     .accesskey = K
@@ -334,7 +320,6 @@ appmenuitem-services-relay-description = Lancarkan papan pemuka email mask
 appmenuitem-vpn-title2 = Sembunyikan Lokasi Anda dengan { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Dapatkan perlindungan seluruh peranti
-appmenuitem-vpn-description = Lindungi aktiviti dalam talian anda
 appmenu-services-header = Perkhidmatan saya
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -344,7 +329,6 @@ appmenu-other-protection-header3 = Alatan privasi
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Cuba alat perlindungan lain daripada Mozilla:
-appmenu-other-protection-header = Cuba alat perlindungan lain daripada { -vendor-short-name }:
 
 ## Profiles panel
 

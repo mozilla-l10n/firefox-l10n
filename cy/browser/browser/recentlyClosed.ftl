@@ -20,19 +20,6 @@ recently-closed-panel-reopen-all-windows = Ailagor Pob Ffenestr
 ##
 
 # Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [zero] { $winTitle } (a dim tabiau eraill)
-        [one] { $winTitle } (a { $tabCount } tab arall)
-        [two] { $winTitle } (a { $tabCount } dab arall)
-        [few] { $winTitle } (a { $tabCount } thab arall)
-        [many] { $winTitle } (a { $tabCount } tab arall)
-       *[other] { $winTitle } (a { $tabCount } tab arall)
-    }
-# Variables:
 #   $tabCount (Number): Number of tabs that were open in the closed window
 #   $winTitle (String): Window title
 #   $closedAt (Number): Milliseconds since epoch when the window was closed

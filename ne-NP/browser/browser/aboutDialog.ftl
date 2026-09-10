@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>अद्यावधिकहरू डाउनलोड हुदैँछन् — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = अपडेट डाउनलोड हुँदै छन् — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = अद्यावधिकहरू डाउनलोड हुदैँछन् — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = अद्यावधिक लागू गरिँदै…
 update-failed = अद्यावधिक असफल भयो। <label data-l10n-name="failed-link">नवीनतम संस्करण डाउनलोड गर्नुहोस्</label>
 update-failed-main = अद्यावधिक असफल भयो। <a data-l10n-name="failed-link-main">नवीनतम संस्करण डाउनलोड गर्नुहोस्</a>
-update-adminDisabled = तपाईँको प्रणाली प्रशासकद्वारा अद्यावधिकहरू असक्षम पारिएको छ
 update-policy-disabled = तपाईंको संगठनद्वारा अद्यावधिकहरू असक्षम गरिएको छ
 settings-update-policy-disabled =
     .label = तपाईंको संगठनद्वारा अद्यावधिकहरू असक्षम गरिएको छ
@@ -69,8 +67,6 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } द्वारा बनाइएको<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, एउटा <label data-l10n-name="community-creditsLink">विश्वव्यापी समुदाय</label> जसले वेबलाई खुल्ला, सार्वजनिक र सबैमा पहुँचको लागि सहकार्यमा काम गर्दैछ।
 helpus = सहयोग गर्न चाहनुहुन्छ? <label data-l10n-name="helpus-donateLink">दान गर्नुहोस्</label> वा <label data-l10n-name="helpus-getInvolvedLink">सहभागी हुनुहोस्!</label>
 bottomLinks-license = इजाजतपत्रबारे जानकारी
-bottomLinks-rights = प्रयोगकर्ता अधिकारहरू
-bottomLinks-privacy = गोपनीयता नीति
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

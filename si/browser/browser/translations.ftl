@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = පිටුව පරිවර්තනය කරන්න
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = පරිවර්තනය වෙමින් පවතී
 translations-panel-settings-button =
     .aria-label = පරිවර්තන සැකසුම් කළමනාකරණය
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } බීටා
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = භාෂා කළමනාකරණය
-translations-panel-settings-about = { -brand-shorter-name } පරිවර්තන පිළිබඳව
 translations-panel-settings-about2 =
     .label = { -brand-shorter-name } පරිවර්තන පිළිබඳව
 # Text displayed for the option to always translate a given language
@@ -81,14 +72,6 @@ translations-panel-error-dismiss-button =
     .label = තේරුණා
 translations-panel-error-change-button =
     .label = මූලාශ්‍ර භාෂාව වෙනස් කරන්න
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = කණගාටුයි, තවමත් { $language } සඳහා සහාය නොදක්වයි.
-translations-panel-error-unsupported-hint-unknown = කණගාටුයි, තවමත් මෙම භාෂාවට සහාය නොදක්වයි.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -120,10 +103,6 @@ translations-manage-header = පරිවර්තන
 translations-manage-settings-button =
     .label = සැකසුම්…
     .accesskey = t
-translations-manage-description = මාර්ගඅපගත පරිවර්තනය සඳහා භාෂා බාගන්න.
-translations-manage-all-language = සියළුම භාෂා
-translations-manage-download-button = බාගන්න
-translations-manage-delete-button = මකන්න
 translations-manage-intro-2 = ඔබගේ භාෂාව සහ අඩවි පරිවර්තන අභිප්‍රේත සකසන්න සහ මාර්ගඅපගත පරිවර්තනය සඳහා බාගත වූ භාෂා කළමනාකරණය කරන්න.
 translations-manage-download-description = මාර්ගඅපගත පරිවර්තනයට භාෂා බාගන්න
 translations-manage-language-download-button =
@@ -137,12 +116,11 @@ translations-manage-language-remove-all-button =
     .label = සියල්ල ඉවතලන්න
     .accesskey = e
 translations-manage-error-download = භාෂා ගොනු බාගැනීමේ ගැටලුවක් ඇත. නැවත උත්සාහ කරන්න.
-translations-manage-error-delete = භාෂා ගොනු මකා දැමීමේ ගැටලුවක් ඇත. නැවත උත්සාහ කරන්න.
 translations-manage-error-remove = භාෂා ගොනු ඉවත් කිරීමේ ගැටලුවක් ඇත. නැවත උත්සාහ කරන්න.
 translations-manage-error-list = පරිවර්තනය සඳහා පවතින භාෂා ලේඛනය ගැනීමට අසමත් විය. නැවත උත්සාහ කිරීමට පිටුව නැවුම් කරන්න.
 translations-settings-title =
-    .title = පරිවර්තන සැකසුම්
     .style = min-width: 36em
+    .title = පරිවර්තන සැකසුම්
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = පහත භාෂා සඳහා පරිවර්තනය ස්වයංක්‍රීයව සිදුවනු ඇත
@@ -176,13 +154,3 @@ select-translations-panel-try-again-button =
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = පරිවර්තන ගැටලුවක් මතු විය. නැවත උත්සාහ කරන්න.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = කණගාටුයි, තවමත් { $language } සඳහා සහාය නොදක්වයි.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = කණගාටුයි, තවමත් මෙම භාෂාවට සහාය නොදක්වයි.

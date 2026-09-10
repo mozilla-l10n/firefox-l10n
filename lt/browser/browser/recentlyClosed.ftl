@@ -16,16 +16,3 @@ recently-closed-menu-reopen-all-windows = Įkelti visus langus
 
 recently-closed-panel-reopen-all-tabs = Įkelti visas korteles
 recently-closed-panel-reopen-all-windows = Įkelti visus langus
-
-##
-
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [one] { $winTitle } (ir { $tabCount } kita kortelė)
-        [few] { $winTitle } (ir { $tabCount } kitos kortelės)
-       *[other] { $winTitle } (ir { $tabCount } kitų kortelių)
-    }

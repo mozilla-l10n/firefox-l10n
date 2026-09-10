@@ -5,6 +5,3 @@
 popup-notification-learn-more = Lairn mair
 popup-notification-more-actions-button =
     .aria-label = Mair actions
-popup-notification-default-button =
-    .label = Awricht!
-    .accesskey = A

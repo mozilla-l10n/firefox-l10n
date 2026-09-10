@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = कनेक्शन सेटिंग
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = कनेक्शन सेटिंग
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -51,11 +51,7 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = फेर लोड करू
     .accesskey = e
-connection-proxy-autologin =
-    .label = जँ कूटशब्द सहेजल जाएत अछि त प्रमाणीकरण लेल संकेत नहि करू
-    .accesskey = i
-    .tooltip = ई विकल्प मूक रूप स सत्यापित करैत अछि अहाँक प्राक्सीक लेल जखन अहाँ हुनका लेल प्रमाण सहेजैत छी. अहाँ प्रांम्प्ट कएल जाएब जँ सत्यापन विफल होएत.
 connection-proxy-autologin-checkbox =
     .label = जँ कूटशब्द सहेजल जाएत अछि त प्रमाणीकरण लेल संकेत नहि करू
-    .accesskey = i
     .tooltiptext = ई विकल्प मूक रूप स सत्यापित करैत अछि अहाँक प्राक्सीक लेल जखन अहाँ हुनका लेल प्रमाण सहेजैत छी. अहाँ प्रांम्प्ट कएल जाएब जँ सत्यापन विफल होएत.
+    .accesskey = i

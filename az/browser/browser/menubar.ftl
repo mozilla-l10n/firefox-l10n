@@ -218,9 +218,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Uzantılar və Mövzular
     .accesskey = U
-menu-tools-addons-and-themes =
-    .label = Əlavələr və Mövzular
-    .accesskey = A
 menu-tools-sync-now =
     .label = İndi Sinxronizə et
     .accesskey = S
@@ -255,8 +252,6 @@ menu-help =
 menu-get-help =
     .label = Kömək Alın
     .accesskey = K
-menu-help-report-site-issue =
-    .label = Sayt Problemini Bildir…
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

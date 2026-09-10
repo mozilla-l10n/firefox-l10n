@@ -27,8 +27,6 @@ appmenuitem-downloads =
     .label = බාගැනීම්
 appmenuitem-passwords =
     .label = මුරපද
-appmenuitem-addons-and-themes =
-    .label = එක්කහු සහ තේමා
 appmenuitem-print =
     .label = මුද්‍රණය...
 appmenuitem-find-in-page =
@@ -93,7 +91,6 @@ appmenu-remote-tabs-unverified = ඔබගේ ගිණුම සත්‍යා
 appmenuitem-fxa-toolbar-sync-now2 = සමමුහූර්ත කරන්න
 appmenuitem-fxa-sign-in = { -brand-product-name } වෙත පිවිසෙන්න
 appmenuitem-fxa-manage-account = ගිණුම කළමනාකරණය
-appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-account-header = ගිණුම
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -106,15 +103,6 @@ appmenu-fxa-setup-sync =
     .label = සමමුහූර්තය සක්‍රිය කරන්න...
 appmenuitem-save-page =
     .label = මෙලෙස පිටුව සුරකින්න
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = අළුත් දෑ
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = නව විශේෂාංග ගැන දන්වන්න
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -199,8 +187,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = තවත් දොස් සෙවීමේ තොරතුරු
     .accesskey = t
-appmenu-help-report-site-issue =
-    .label = අඩවියේ දෝෂය වාර්තා කරන්න...
 appmenu-help-share-ideas =
     .label = අදහස් හා ප්‍රතිපෝෂණ බෙදාගන්න...
     .accesskey = S
@@ -244,4 +230,3 @@ appmenuitem-monitor-description = දත්ත උල්ලංඝන ඇඟව�
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = සැබෑ වි-තැපෑල හා දුරකථනය ආවරණයට
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description = ඔබගේ මාර්ගගත ක්‍රියාකාරකම් රැකගන්න

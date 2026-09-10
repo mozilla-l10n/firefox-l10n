@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Slå på Warp, eit prosjekt for å f
 experimental-features-ime-search =
     .label = Adresselinja: Vis resultat under IME-samansetjing
 experimental-features-ime-search-description = Ein IME (Input Method Editor) er eit verktøy som lar deg skrive inn komplekse symbol, til dømes dei som vert brukte i austasiatiske eller Indiske skriftspråk, ved hjelp av eit standardtastatur. Aktivering av dette eksperimentet held adresselinjepanelet ope, viser søkjeresultat og forslag medan du brukar IME til å leggje inn tekst. Merk at IME kan vise eit panel som dekkjer resultata i adresselinja, og derfor er denne preferansen berre tilrådd for IME som ikkje brukar denne typen panel.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Bilde-i-bilde: automatisk opning når du byter fane
-experimental-features-auto-pip-description = Slå på bilde-i-bilde på aktive videoar når du byter fane.
 experimental-features-group-developer-tools =
     .label = Utviklarverktøy
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Produktivitet
 experimental-features-group-newtab-widgets =
     .label = Widgetar for { -firefox-home-brand-name }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Passord i sidestolpen
-experimental-features-contextual-password-manager-description = Få tilgang til passorda dine direkte frå sidefeltet. Du treng ikkje lenger å leite, eller tilbakestille passord, når du prøvar å logge inn. For å bruke denne funksjonen, vel passord i sidestolpen. Gå deretter til dei generelle innstillingane og vel Vis sidestolpe under nettlesaroppsett. Tilpass deretter sidestolpen ved å velje passord. Om du prøver funksjonen, <a data-l10n-name="connect">gi oss beskjed om kva du synest</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Vel ein eigendefinert bakgrunn eller farge for Ny fane

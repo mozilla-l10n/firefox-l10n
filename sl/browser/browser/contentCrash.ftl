@@ -18,15 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Imate neposlano poročilo o sesutju
-        [two] Imate { $reportCount } neposlani poročili o sesutju
-        [few] Imate { $reportCount } neposlana poročila o sesutju
-       *[other] Imate { $reportCount } neposlanih poročil o sesutju
-    }
 pending-crash-reports-view-all =
     .label = Prikaži
 pending-crash-reports-send =
@@ -41,15 +32,6 @@ requested-crash-reports-message-new =
         [two] Imate { $reportCount } neposlani poročili o sesutjih, kakršna razvijalci pravkar preiskujejo. Če nam ju boste poslali, nam bosta pomagali izboljšati { -brand-product-name(sklon: "tozilnik") }. Če zaprete to obvestilo, bosta ti poročili prezrti.
         [few] Imate { $reportCount } neposlana poročila o sesutjih, kakršna razvijalci pravkar preiskujejo. Če nam jih boste poslali, nam bodo pomagala izboljšati { -brand-product-name(sklon: "tozilnik") }. Če zaprete to obvestilo, bodo ta poročila prezrta.
        *[other] Imate { $reportCount } neposlanih poročil o sesutjih, kakršna razvijalci pravkar preiskujejo. Če nam jih boste poslali, nam bodo pomagala izboljšati { -brand-product-name(sklon: "tozilnik") }. Če zaprete to obvestilo, bodo ta poročila prezrta.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Imate neposlano poročilo o sesutju, kakršna razvijalci pravkar preiskujejo. Če nam ga boste poslali, nam bo pomagalo izboljšati { -brand-product-name(sklon: "tozilnik") }. Če zaprete to obvestilo, bo to poročilo prezrto.
-        [two] Imate { $reportCount } neposlani poročili o sesutju, kakršna razvijalci pravkar preiskujejo. Če nam ju boste poslali, nam bosta pomagali izboljšati { -brand-product-name(sklon: "tozilnik") }. Če zaprete to obvestilo, bosta ti poročili prezrti.
-        [few] Imate { $reportCount } neposlana poročila o sesutju, kakršna razvijalci pravkar preiskujejo. Če nam jih boste poslali, nam bodo pomagala izboljšati { -brand-product-name(sklon: "tozilnik") }. Če zaprete to obvestilo, bodo ta poročila prezrta.
-       *[other] Imate { $reportCount } neposlanih poročil o sesutju, kakršna razvijalci pravkar preiskujejo. Če nam jih boste poslali, nam bodo pomagala izboljšati { -brand-product-name(sklon: "tozilnik") }. Če zaprete to obvestilo, bodo ta poročila prezrta.
     }
 requested-crash-reports-dont-show-again =
     .label = Ne prikazuj več

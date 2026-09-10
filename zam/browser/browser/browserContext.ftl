@@ -132,15 +132,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-email =
     .label = Taal gib koo loo xha dedizh men ner niemen loo diif taal...
     .accesskey = g
-main-context-menu-send-to-device =
-    .label = m-tàl=là loo Yib
-    .accesskey = Y
 
 ##
 
-main-context-menu-keyword =
-    .label = Taa diif dizh xha kuan luu...
-    .accesskey = x
 main-context-menu-link-send-to-device =
     .label = m-tàl=là loo Yib
     .accesskey = Y

@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Nav konteinera
-    .accesskey = N
 user-context-manage-containers =
     .label = Pārvaldīt konteinerus
     .accesskey = O

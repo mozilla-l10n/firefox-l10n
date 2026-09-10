@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = 清除瀏覽紀錄
 sidebar-history-sort-by-heading-menucaption =
     .label = 排序依照：
-sidebar-history-sort-by-heading = 排序依照：
 sidebar-history-sort-option-date =
     .label = 日期
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = 側邊欄擴充套件
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name } 工具
 sidebar-customize-firefox-settings = 管理 { -brand-short-name } 選項
 sidebar-vertical-tabs =
     .label = 垂直分頁標籤
 sidebar-settings2 =
     .label = 設定
-sidebar-settings =
-    .label = 側邊欄選項
 sidebar-hide-tabs-and-sidebar =
     .label = 隱藏分頁與側邊欄
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = 管理擴充套件
-sidebar-context-menu-remove-extension =
-    .label = 移除擴充套件
 sidebar-context-menu-report-extension =
     .label = 檢舉擴充套件
 sidebar-context-menu-open-in-tab =

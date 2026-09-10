@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Nejnowše pśeglědowanje pśez wokna a rědy pokazaś
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Zacyniś
-    .aria-label = Zacyniś
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Rowno
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Synchronizěrowane rejtariki
-firefoxview-tabpickup-description = Wócyńśo boki z drugich rědow.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue } % dokóńcone
-firefoxview-tabpickup-step-signin-header = Pśejźćo njepósrědnje mjazy rědami
-firefoxview-tabpickup-step-signin-description = Aby how rejtariki swójogo telefona dostał, pśizjawśo se nejpjerwjej abo załožćo konto.
-firefoxview-tabpickup-step-signin-primarybutton = Dalej
 firefoxview-syncedtabs-signin-header-2 = Waš { -brand-product-name } na wšych wašych rědach
 firefoxview-syncedtabs-signin-description-2 = Aby swóje wócynjone rejtariki na swójom telefonje a drugich rědach wiźeł, pśizjawśo se abo registrěrujśo se za konto. Z kontom móžośo teke swóje gronidła, swóju historiju a wěcej synchronizěrowaś.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Direktnje z laptopa do telefona
 firefoxview-syncedtabs-signin-description-3 = Wóstańśo ze swójim pśeglědowanim na wšych rědach zwězany – rejtariki, gronidła a historija, wšykno w synchronizaciji.
 firefoxview-syncedtabs-signin-primarybutton-2 = Pśizjawiś
-firefoxview-tabpickup-adddevice-header = Synchronizěrujśo { -brand-product-name } na swójom telefonje abo tableśe
-firefoxview-tabpickup-adddevice-description = Ześěgniśo { -brand-product-name } za mobilne rědy a pśizjawśo se tam.
-firefoxview-tabpickup-adddevice-learn-how = Zgóńśo kak
-firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } za mobilny rěd wobstaraś
 firefoxview-syncedtabs-adddevice-header-2 = Wobstarajśo se rejtariki wóte wšuźi
 firefoxview-syncedtabs-adddevice-description-2 = Pśizjawśo pla { -brand-product-name } na swójom telefonje abo drugem licadle, aby rejtariki how wiźeł. Zgóńśo, kak móžośo <a data-l10n-name="url">pśidatne rědy zwězaś</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Wopytajśo { -brand-product-name } za mobilny rěd
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Waše rejtariki su se wótwołali. Su na wašom telefonje.
 firefoxview-syncedtabs-adddevice-description-3 = Scannujśo QR-kod, aby { -brand-product-name } za swój mobilny telefon dostał a synchronizěrujśo swóje wócynjone rejtariki a wěcej. Zgóńśo, kak móžośo <a data-l10n-name="url">pśidatne rědy zwězaś</a>.
-firefoxview-tabpickup-synctabs-header = Synchronizaciju rejtarikow zmóžniś
-firefoxview-tabpickup-synctabs-description = { -brand-short-name } dowóliś, rejtariki mjazy rědami źěliś.
-firefoxview-tabpickup-synctabs-learn-how = Zgóńśo kak
 firefoxview-tabpickup-synctabs-primarybutton = Wócynjone rejtariki synchronizěrowaś
 firefoxview-tabpickup-synctabs-primarybutton-2 = Synchronizaciju rejtarikow zmóžniś
 firefoxview-syncedtabs-synctabs-header = Aktualizěrujśo swóje synchronizaciske nastajenja
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Gaž to jo dokóńcone, buźośo re
 firefoxview-syncedtabs-loading-header-2 = Waše rejtariki se wobstaruju…
 firefoxview-syncedtabs-loading-description-2 = Synchronizacija běžy. Rejtariki budu skóro how.
 firefoxview-tabpickup-fxa-admin-disabled-header = Waša organizacija jo znjemóžniła synchronizaciju
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } njamóžo rejtariki mjazy rědami synchronizěrowaś, dokulaž waš administrator jo znjemóžnił synchronizěrowanje.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } njamóžo rejtariki mjazy rědami synchronizěrowaś, dokulaž waša organizacija jo znjemóžniła synchronizěrowanje.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Synchronizacija rejtarikow jo znjemóžnjona
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Waša organizacija jo toś tu funkciju blokěrowała.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Wótblokěrujśo rejtariki ze swójim głownym gronidłom
 firefoxview-tabpickup-password-locked-description-2 = Synchronizěrowane rejtariki se za wašu priwatnosć šćitaju. Zapódajśo swóje głowne gronidło { -brand-short-name }, aby rejtariki ze swójich drugich rědow wiźeł.
 firefoxview-tabpickup-signed-out-header = Pśizjawśo se, aby zasej zwězał
-firefoxview-tabpickup-signed-out-description = Aby se zasej zwězował a pśistup k swójim rejtarikam měł, pśizjawśo se pla swójogo { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Aby se zasej zwězował a pśistup k swójim rejtarikam měł, pśizjawśo se pla swójogo konta.
 firefoxview-tabpickup-signed-out-primarybutton = Pśizjawiś
 firefoxview-tabpickup-signed-out-header-2 = Pśizjawśo se, aby swóje rejtariki wiźeł
 firefoxview-tabpickup-signed-out-description-2 = Zwěžćo znowego, aby rejtariki z drugich rědow pokazał.
-firefoxview-tabpickup-syncing = Wobcakajśo, mjaztym až se waše rejtariki synchronizěruju. Buźo jano wokognuśe traś.
-firefoxview-mobile-promo-header = Wobstarajśo se rejtariki ze swójogo telefona abo tableta
-firefoxview-mobile-promo-description = Aby se swóje nejnowše mobilne rejtariki woglědował, přśzjawśo se pla { -brand-product-name } na iOS abo Android.
-firefoxview-mobile-promo-primarybutton = { -brand-product-name } za mobilny rěd wobstaraś
-firefoxview-mobile-confirmation-header = 🎉 Wšykno gótowe!
-firefoxview-mobile-confirmation-description = Něnto móžośo swóje rejtariki { -brand-product-name } ze swójogo tableta abo telefona wobstaraś.
-firefoxview-closed-tabs-title = Njedawno zacynjone
-firefoxview-closed-tabs-description2 = Wócyńśo boki znowego, kótarež sćo zacynił w toś tom woknje.
-firefoxview-closed-tabs-placeholder-header = Žedne rowno zacynjone rejtariki
-firefoxview-closed-tabs-placeholder-body = Gaž w toś tom woknje rejtarik zacynjaśo, móžośo jen wót how wuwołaś.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = { $tabTitle } zachyśiś
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Slědny raz aktiwny
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = { $targetURI } w nowem rejtariku wócyniś
-firefoxview-try-colorways-button = Barwowe kombinacije wopytowaś
-firefoxview-change-colorway-button = Barwowu kombinaciju změniś
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Hyšći nic njejo wiźeś
-firefoxview-synced-tabs-placeholder-body = Pśiducy raz, gaž bok w { -brand-product-name } na drugem rěźe wócynjaśo, mějśo pśistup k njomu ako wót guslowarja.
 firefoxview-collapse-button-show =
     .title = Lisćinu pokazaś
 firefoxview-collapse-button-hide =

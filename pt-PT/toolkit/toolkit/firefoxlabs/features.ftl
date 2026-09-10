@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Ativa o Warp, um projeto para melhor
 experimental-features-ime-search =
     .label = Barra de endereços: mostrar resultados durante a composição do IME
 experimental-features-ime-search-description = Um IME (Input Method Editor - editor do método de introdução) é uma ferramenta que lhe permite inserir símbolos complexos, como os utilizados em idiomas escritos do Leste Asiático ou Índico, utilizando um teclado padrão. Ativar esta experiência irá manter o painel da barra de endereço aberto, mostrando resultados e sugestões de pesquisa, enquanto utiliza o IME para inserir texto. Note que o IME pode mostrar um painel que se sobrepõe aos resultados da barra de endereço, portanto, esta preferência apenas é sugerida para o IME que não utilize este tipo de painel.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Vídeo em janela flutuante: abrir automaticamente ao trocar de separador
-experimental-features-auto-pip-description = Ativar o vídeo em janela flutuante nos vídeos ativos ao trocar de separador.
 experimental-features-group-developer-tools =
     .label = Ferramentas do programador
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Produtividade
 experimental-features-group-newtab-widgets =
     .label = Widgets no { -firefox-home-brand-name }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Palavras-passe na barra lateral
-experimental-features-contextual-password-manager-description = Aceda às suas palavras-passe diretamente da barra lateral. Chega de procurar ou de repor palavras-passe quando está a tentar iniciar sessão. Para utilizar esta funcionalidade, selecione as palavras-passe na barra lateral. Depois, aceda às definições gerais e, sob esquema do navegador, selecione mostrar barra lateral. Depois, personalize a sua barra lateral selecionando palavras-passe. Se experimentar, <a data-l10n-name="connect">diga-nos o que achou</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Escolher um fundo ou cor personalizada para o novo separador

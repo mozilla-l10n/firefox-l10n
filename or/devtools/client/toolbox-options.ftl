@@ -67,14 +67,10 @@ options-sourceeditor-keybinding-default-label = ପୂର୍ବନିର୍ଦ�
 
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = ଉନ୍ନତ ସଂରଚନା
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = JavaScript କୁ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ *
 options-disable-javascript-tooltip =
     .title = ଏହି ବିକଳ୍ପକୁ ଅନ କରିବା ଫଳରେ ତାହା JavaScript କୁ  ଏହି ଟ୍ୟାବ ପାଇଁ ନିଷ୍କ୍ରିୟ କରିଥାଏ। ଯଦି ସେହି ଟ୍ୟାବ କିମ୍ବା ସାଧନ ବାକ୍ସକୁ ବନ୍ଦ ଥାଏ ତେବେ ଏହି ସଂରଚନାକୁ ଭୁଲିଯିବ।
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = ସୁଦୂର ତ୍ରୁଟି ନିବାରଣକୁ ସକ୍ରିୟ କରନ୍ତୁ
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * କେବଳ ପ୍ରଚଳିତ ଅଧିବେଶନ, ପୃଷ୍ଠାକୁ ପୁନର୍ଦ୍ଧାରଣ କରିଥାଏ
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

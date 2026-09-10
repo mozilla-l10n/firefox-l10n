@@ -66,17 +66,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Sioncronaich na comharran-lìn agad àite sam bith.
-cfr-doorhanger-bookmark-fxa-body = Abair faodalach! Nise, na bi as aonais a’ chomharra-lìn seo air na h-uidheaman mobile agad. Faigh { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Sioncronaich na comharran-lìn an-dràsta…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Am putan airson dùnadh
     .title = Dùin
-
-## Protections panel
-
-cfr-protections-panel-header = Dèan brabhsadh gun daoine a’ cumail sùil ort
-cfr-protections-panel-body = Cùm an dàta agad agad fhèin. Dìonaidh { -brand-short-name } thu o mhòran dhe na tracaichean as cumanta a leanas mun cuairt thu air an lìon.
-cfr-protections-panel-link-text = Barrachd fiosrachaidh
 
 ## What's New toolbar button and panel
 
@@ -173,43 +166,6 @@ mr2022-background-update-toast-primary-button-label = Fosgail { -brand-shorter-n
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Cuir nam chuimhne an ceann tamaill
-
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Feuch e
-    .accesskey = F
-firefoxview-cfr-secondarybutton = Chan ann an-dràsta
-    .accesskey = C
-firefoxview-cfr-header-v2 = Lean ort far an do stad thu roimhe gun dàil
-firefoxview-cfr-body-v2 = Faigh greim a-rithist air tabaichean a dhùin thu o chionn goirid is leum eadar uidheaman gun chnap-starra le { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Cuir fàilte air { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Ag iarradh an taba ud a tha fosgailte air an fhòn agad? Faigh greim air. An làrach air an do thadhail thu an-dràsta fhèin a dhìth ort? Fruis, seo dhut e le { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Seo mar a dh’obraicheas e
-firefoxview-spotlight-promo-secondarybutton = Leum seachad
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Tagh sgeama dhathan
-    .accesskey = T
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Cuir dathan air a’ bhrabhsair agad le tuaran dhathan nach fhaigh thu ach ann am { -brand-short-name } stèidhichte air guthan aig an robh buaidh mhòr air cultar.
-colorways-cfr-header-28days = Falbhaidh an ùine air sgeamannan dhathan nan guthan neo-eisimeileach 16 dhen Fhaoilleach
-colorways-cfr-header-14days = Falbhaidh an ùine air sgeamannan dhathan nan guthan neo-eisimeileach ann an cola-deug
-colorways-cfr-header-7days = Falbhaidh an ùine air sgeamannan dhathan nan guthan neo-eisimeileach an t-seachdain-sa
-colorways-cfr-header-today = Falbhaidh an ùine air sgeamannan dhathan nan guthan neo-eisimeileach an-diugh
-
-## Cookie Banner Handling CFR
-
-cfr-cbh-header = A bheil thu airson cead a thoirt dha { -brand-short-name } brataichean bhriosgaidean a dhiùltadh?
-cfr-cbh-body = ’S urrainn dha { -brand-short-name } iomadh iarrtas airson briosgaidean a dhiùltadh gu fèin-obrachail.
-cfr-cbh-confirm-button = Diùlt brataichean bhriosgaidean
-    .accesskey = D
-cfr-cbh-dismiss-button = Chan ann an-dràsta
-    .accesskey = C
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 

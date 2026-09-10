@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Sertifika indiriliyor
     .style = min-width: 46em
+    .title = Sertifika indiriliyor
 download-cert-message = Yeni bir Sertifika Yöneticisinin (CA) güvenliğini sordunuz.
 download-cert-trust-ssl =
     .label = Ağ-saytlarını teşhis etmek içün bu Şeadet Salahiyetine (CA) itimat et.
@@ -37,8 +37,6 @@ download-cert-view-text = CA sertifikasını kontrol et
 
 client-auth-window =
     .title = Kullanıcı Belirleme Sorgulaması
-client-auth-site-description = Bu bölge sizin kendi sertifikanızın tanımlamasını istiyor:
-client-auth-choose-cert = Kimlik olaraq ibraz etilecek bir şeadetname saylañız:
 client-auth-cert-details = Seçilen sertifika detayları:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

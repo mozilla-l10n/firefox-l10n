@@ -34,8 +34,6 @@ appmenuitem-extensions-and-themes =
     .label = Iseɣzaf d yisental
 appmenuitem-extensions =
     .label = Isiɣzaf
-appmenuitem-addons-and-themes =
-    .label = Izegrar d yisental
 appmenuitem-print =
     .label = Siggez
 appmenuitem-find-in-page =
@@ -104,7 +102,6 @@ appmenu-remote-tabs-unverified = Amiḍan-ik yeḥwaǧ ad ittusenqed.
 appmenuitem-fxa-toolbar-sync-now2 = Mtawi tura
 appmenuitem-fxa-sign-in = Qqen ɣer { -brand-product-name }
 appmenuitem-fxa-manage-account = Sefrek amiḍan
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Amiḍan
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -120,15 +117,6 @@ appmenuitem-save-page =
     .label = Sekles asebter di...
 appmenuitem-fxa-sync-off-title = Amtawi yensa
 appmenuitem-fxa-sync-off-description = Mmesten ticraḍ-ik n yisebtar, awalen n uεeddi akked wayen niḍen, syen kcem ansi d wanda i tebɣiḍ
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Amaynut
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Lɣu ɣef tmahilin timaynutin
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -236,8 +224,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Ugar n telɣut n usellek
     .accesskey = U
-appmenu-help-report-site-issue =
-    .label = Azen ugur ɣef usmel…
 appmenu-help-share-ideas =
     .label = Bḍu taktiwin d tamawat…
     .accesskey = B
@@ -285,9 +271,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Ffer imayl-ik d wuṭṭun n tiliɣri n tidet
 appmenuitem-services-relay-description = Ldi tafelwit n usenqed n mefferimaylen n yimayl
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description = Mmesten armud-ik srid
 appmenu-services-header = Imeẓla-inu
-appmenu-other-protection-header = Ԑreḍ ifecka niḍen n ummesten seg { -vendor-short-name }:
 
 ## Profiles panel
 

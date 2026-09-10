@@ -33,17 +33,17 @@ third-party-tag-shellex = Rozšíření shellu
 third-party-tag-background = Pozadí
     .title = Tento modul aplikaci neblokoval, protože byl načten na pozadí.
 third-party-icon-unsigned =
-    .title = Tento modul není podepsaný
     .alt = Tento modul není podepsaný
+    .title = Tento modul není podepsaný
 third-party-icon-warning =
-    .title =
+    .alt =
         { -brand-short-name.gender ->
             [masculine] { -brand-short-name } spadl při vykonávání kódu tohoto modulu
             [feminine] { -brand-short-name } spadla při vykonávání kódu tohoto modulu
             [neuter] { -brand-short-name } spadlo při vykonávání kódu tohoto modulu
            *[other] Aplikace { -brand-short-name } spadla při vykonávání kódu tohoto modulu
         }
-    .alt =
+    .title =
         { -brand-short-name.gender ->
             [masculine] { -brand-short-name } spadl při vykonávání kódu tohoto modulu
             [feminine] { -brand-short-name } spadla při vykonávání kódu tohoto modulu
@@ -61,36 +61,19 @@ third-party-button-reload = Znovu načíst se systémovými informacemi
     .title = Znovu načíst se systémovými informacemi
 third-party-button-open =
     .title = Otevřít umístění souboru…
-third-party-button-to-block =
-    .title = Zablokovat tento modul
-    .aria-label = Zablokovat tento modul
-third-party-button-to-unblock =
-    .title = Blokováno. Klepněte pro odblokování.
-    .aria-label = Blokováno. Klepněte pro odblokování.
-third-party-button-to-unblock-disabled =
-    .title =
-        { -brand-short-name.case-status ->
-            [with-cases] Označeno jako blokované, nicméně seznam blokovaných modulů je pro toto spuštění { -brand-short-name(case: "gen") } vypnutý. Klepněte pro odblokování.
-           *[no-cases] Označeno jako blokované, nicméně seznam blokovaných modulů je pro toto spuštění aplikace { -brand-short-name } vypnutý. Klepněte pro odblokování.
-        }
-    .aria-label =
-        { -brand-short-name.case-status ->
-            [with-cases] Označeno jako blokované, nicméně seznam blokovaných modulů je pro toto spuštění { -brand-short-name(case: "gen") } vypnutý. Klepněte pro odblokování.
-           *[no-cases] Označeno jako blokované, nicméně seznam blokovaných modulů je pro toto spuštění aplikace { -brand-short-name } vypnutý. Klepněte pro odblokování.
-        }
 third-party-button-to-block-module = Zablokovat tento modul
-    .title = Zablokovat tento modul
     .aria-label = Zablokovat tento modul
+    .title = Zablokovat tento modul
 third-party-button-to-unblock-module = Odblokovat tento modul
-    .title = Aktuálně blokován. Klepnutím jej odblokujete.
     .aria-label = Aktuálně blokován. Klepnutím jej odblokujete.
+    .title = Aktuálně blokován. Klepnutím jej odblokujete.
 third-party-button-to-unblock-module-disabled = Odblokovat tento modul (seznam blokovaných je aktuálně zakázán)
-    .title =
+    .aria-label =
         { -brand-short-name.case-status ->
             [with-cases] Aktuálně označeno jako blokované, ačkoliv je pro toto spuštění { -brand-short-name(case: "gen") } seznam blokovaných zakázán. Pro odblokování klepněte.
            *[no-cases] Aktuálně označeno jako blokované, ačkoliv je pro toto spuštění aplikace { -brand-short-name } seznam blokovaných zakázán. Pro odblokování klepněte.
         }
-    .aria-label =
+    .title =
         { -brand-short-name.case-status ->
             [with-cases] Aktuálně označeno jako blokované, ačkoliv je pro toto spuštění { -brand-short-name(case: "gen") } seznam blokovaných zakázán. Pro odblokování klepněte.
            *[no-cases] Aktuálně označeno jako blokované, ačkoliv je pro toto spuštění aplikace { -brand-short-name } seznam blokovaných zakázán. Pro odblokování klepněte.
@@ -112,12 +95,12 @@ third-party-should-restart-title =
 third-party-restart-now = Restartovat
 third-party-restart-later = Restartovat později
 third-party-blocked-by-builtin =
-    .title =
+    .alt =
         { -brand-short-name.case-status ->
             [with-cases] Blokováno { -brand-short-name(case: "gen") }
            *[no-cases] Blokováno aplikací { -brand-short-name }
         }
-    .alt =
+    .title =
         { -brand-short-name.case-status ->
             [with-cases] Blokováno { -brand-short-name(case: "gen") }
            *[no-cases] Blokováno aplikací { -brand-short-name }

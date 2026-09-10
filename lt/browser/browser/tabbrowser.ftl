@@ -7,11 +7,6 @@ tabbrowser-menuitem-close-tab =
     .label = Užverti kortelę
 tabbrowser-menuitem-close =
     .label = Užverti
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } – { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -19,15 +14,6 @@ tabbrowser-container-tab-title = { $title } – { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [one] Užverti kortelę
-            [few] Užverti { $tabCount } korteles
-           *[other] Užverti { $tabCount } kortelių
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [one] Užverti kortelę
             [few] Užverti { $tabCount } korteles
@@ -90,7 +76,6 @@ tabbrowser-confirm-close-tabs-title =
        *[other] Užverti { $tabCount } korteles?
     }
 tabbrowser-confirm-close-tabs-button = Užverti korteles
-tabbrowser-confirm-close-tabs-checkbox = Patvirtinti prieš užveriant keletą kortelių
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -114,9 +99,6 @@ tabbrowser-confirm-close-windows-button =
 
 tabbrowser-confirm-close-tabs-with-key-title = Užverti langą ir išeiti iš „{ -brand-short-name }“?
 tabbrowser-confirm-close-tabs-with-key-button = Išeiti iš „{ -brand-short-name }“
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = Patvirtinti prieš baigiant darbą su „{ $quitKey }“
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 

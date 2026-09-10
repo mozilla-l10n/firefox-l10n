@@ -35,12 +35,6 @@ mr1-return-to-amo-add-extension-label = Ouzhpennañ { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Araokadur: tennad { $current } war { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -203,41 +197,7 @@ mr2022-onboarding-set-default-primary-button-label = Lakaat { -brand-short-name 
 ## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-get-started-primary-button-label = Staliañ en un nebeut eilennoù
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
 mr2022-onboarding-import-primary-button-label-no-attribution = Emporzhiañ diouzh ar merdeer diwezhañ
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Dibabit al liv a awen ac’hanoc’h
-mr2022-onboarding-colorway-subtitle = Mouezhioù dizalc’h a c'hall cheñch ur sevenadur.
-mr2022-onboarding-colorway-primary-button-label-continue = Arventennañ ha kenderc’hel
-mr2022-onboarding-existing-colorway-checkbox-label = Lakait { -firefox-home-brand-name } da vezañ ho pennbajenn livet
-mr2022-onboarding-colorway-label-default = Dre ziouer
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Livioù { -brand-short-name } a-vremañ
-mr2022-onboarding-colorway-description-default = <b>Ober gant ma livioù { -brand-short-name } a-vremañ.</b>
-mr2022-onboarding-colorway-label-expressionist = Eztaolour⋅ez
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Eztaolour⋅ez (melen)
-mr2022-onboarding-colorway-label-visionary = Dreistweler⋅ez
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Dreistweler⋅ez (gwer)
-mr2022-onboarding-colorway-label-activist = Stourmer⋅ez
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Stourmer⋅ez (glas)
-mr2022-onboarding-colorway-label-dreamer = Huñvreour⋅ez
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Huñvreour⋅ez (mouk)
-mr2022-onboarding-colorway-label-innovator = Nevesaer⋅ez
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Nevesaer⋅ez (orañjez)
 
 ## MR2022 Multistage Mobile Download screen strings
 

@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Синхронизиране…
 sync-disconnect-dialog-title2 = Прекъсване на връзката?
 sync-disconnect-dialog-body = { -brand-product-name } ще спре синхронизацията на вашият профил, но няма да изтрива данни за разглеждане от устройството.
 sync-disconnect-dialog-button = Изключване
-fxa-signout-dialog2-title = Излизане от { -fxaccount-brand-name }?
 fxa-signout-dialog-title2 = Излизане от вашия профил?
 fxa-signout-dialog-body = Синхронизираните данни ще останат във вашия профил.
 fxa-signout-dialog2-button = Излизане
@@ -18,14 +17,6 @@ fxa-menu-turn-on-sync =
 fxa-menu-turn-on-sync-default = Включване синхронизиране
 fxa-menu-connect-another-device =
     .label = Добавяне на устройство…
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Изпращане на раздела до устройство
-           *[other] Изпращане на { $tabCount } раздела до устройство
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Синхронизиране на устройства…

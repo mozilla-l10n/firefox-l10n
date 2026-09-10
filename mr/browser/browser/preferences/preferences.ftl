@@ -2,42 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = आपल्याला ट्रॅक न करण्यासाठी वेबसाइट्सना "ट्रॅक करू नका" हा इशारा पाठवा
-do-not-track-learn-more = अधिक जाणा
-do-not-track-option-always =
-    .label = नेहमी
 managed-notice = आपला ब्राउझर आपल्या संस्थेद्वारे व्यवस्थापित केला जात आहे.
 managed-notice-nav =
     .label = आपला ब्राउझर आपल्या संस्थेद्वारे व्यवस्थापित केला जात आहे.
 pane-general-title = सर्वसाधारण
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = मुखपृष्ठ
 pane-search-title2 = शोधा
     .title = शोधा
 pane-privacy-title3 = गोपनीयता आणि सुरक्षा
     .title = गोपनीयता आणि सुरक्षा
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = शोधा
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = गोपनीयता आणि सुरक्षा
-pane-privacy-title = गोपनीयता आणि सुरक्षा
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label2 = { -brand-short-name } मदत केंद्र
     .title = { -brand-short-name } मदत केंद्र
 addons-button-label2 = विस्तार आणि थीम
     .title = विस्तार आणि थीम
-help-button-label = { -brand-short-name } मदत केंद्र
-addons-button-label = विस्तार आणि थीम
 focus-search =
     .key = f
 close-button =
@@ -76,22 +57,13 @@ search-results-help-link = मदत हवी आहे? भेट द्या
 
 ## General Section
 
-startup-header = प्रारंभीकरण
 always-check-default =
     .label = नेहमी { -brand-short-name } पूर्वनिर्धारित ब्राउझर आहे याची खात्री करा
     .accesskey = y
-is-default = { -brand-short-name } सध्या आपले पूर्वनिर्धारित ब्राउझर आहे
-is-not-default = { -brand-short-name } सध्या आपले पूर्वनिर्धारित ब्राउझर नाही आहे
-set-as-my-default-browser =
-    .label = पूर्वनिर्धारित बनवा…
-    .accesskey = D
-startup-restore-warn-on-quit =
-    .label = ब्राउझर सोडताना चेतावनी द्या
 disable-extension =
     .label = वाढीव कार्यक्रम निष्क्रिय करा
 tabs-group-header2 =
     .label = टॅब्ज
-tabs-group-header = टॅब्ज
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab वापरलेल्या क्रमामध्ये टॅब्स बदली करते
     .accesskey = T
@@ -104,13 +76,7 @@ warn-on-open-many-tabs =
 show-tabs-in-taskbar =
     .label = पटलाच्या कार्यपट्टीत टॅब पूर्वावलोकन दाखवा
     .accesskey = k
-browser-containers-enabled =
-    .label = कंटेनर टॅब्स सक्रीय करा
-    .accesskey = n
 browser-containers-learn-more = अधिक जाणा
-browser-containers-settings =
-    .label = सेटिंग्ज…
-    .accesskey = i
 containers-disable-alert-title = सगळे कंटेनर टॅब बंद करायचे आहेत का?
 startup-group =
     .label = प्रारंभीकरण
@@ -146,13 +112,6 @@ containers-remove-cancel-button = हा कंटेनर काढू नक�
 ## General Section - Language & Appearance
 
 language-and-appearance-header = भाषा आणि स्वरुप
-default-font = पूर्वनिर्धारित फॉन्ट
-    .accesskey = D
-default-font-size = आकार
-    .accesskey = S
-advanced-fonts =
-    .label = प्रगत…
-    .accesskey = A
 language-header = भाषा
 choose-language-description = पृष्ठ दाखवण्याकरिता सूचविलेली भाषा निवडा
 choose-button =
@@ -164,12 +123,6 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = हे बदल लागू करण्यासाठी { -brand-short-name } पुन्हा सुरु करा
 confirm-browser-language-change-button = लागू करून पुन्हा सुरु करा
-translate-web-pages =
-    .label = वेब अंतर्भुत माहिती भाषांतरीत करा
-    .accesskey = T
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = तर्फे भाषांतरीत <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = अपवाद…
     .accesskey = x
@@ -184,23 +137,6 @@ download-save-files-header =
     .label = फाइल्स येथे साठवा
 download-save-where-3 =
     .aria-label = फाइल्स येथे साठवा
-download-header = डाउनलोड्ज
-download-save-where = फाइल्स येथे साठवा
-    .accesskey = v
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] निवडा…
-           *[other] चाळा…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] o
-        }
-download-always-ask-where =
-    .label = फाइल कुठे साठवायची ते नेहमी मला विचारा
-    .accesskey = A
 applications-header = ॲप्लिकेशन
 applications-description = आपण ब्राऊझिंग करताना वापरलेले ऍप्लिकेशन्स किंवा वेब वरून डाउनलोड केलेल्या फाईल्स { -brand-short-name } कसे हाताळते ते निवडा
 applications-filter =
@@ -241,17 +177,11 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = { $plugin-name } वापरा ({ -brand-short-name } अंतर्गत)
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -267,35 +197,16 @@ applications-use-other-label =
 
 drm-group =
     .label = डिजिटल हक्क व्यवस्थापन (डीआरएम) मजकूर
-drm-content-header = डिजिटल हक्क व्यवस्थापन (डीआरएम) मजकूर
 play-drm-content =
     .label = डीआरएम-नियंत्रित मजकूर चालवा
     .accesskey = P
 play-drm-content-learn-more = अधिक जाणा
-update-application-title = { -brand-short-name } सुधारणा
-update-application-description = सर्वोत्तम कामगिरी, स्थिरता आणि सुरक्षिततेसाठी { -brand-short-name } अद्ययावत ठेवा.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = आवृत्ती{ $version } <a data-l10n-name="learn-more">काय नवीन आहे</a>
 update-history-2 =
     .label = अद्ययावत इतिहास दाखवा
     .accesskey = p
-update-history =
-    .label = अद्ययावत इतिहास दाखवा…
-    .accesskey = p
-update-application-allow-description = { -brand-short-name } ला परवानगी द्या
-update-application-auto =
-    .label = स्वयं अद्ययावत करा (शिफारस)
-    .accesskey = A
-update-application-check-choose =
-    .label = सुधारणांकरिता तपासणी करा, परंतु प्रतिष्ठापन करायचे की नाही ते मला ठरवू द्या
-    .accesskey = C
-update-application-manual =
-    .label = सुधारणांकरिता कधीच तपासणी करू नका (शिफारसीय नाही)
-    .accesskey = N
-update-application-use-service =
-    .label = सुधारणा इंस्टॉल करण्यासाठी पार्श्वभूमी सर्व्हिस्चा वापर करा
-    .accesskey = b
 update-in-progress-title = अद्यतन प्रगतीपथावर
 update-in-progress-ok-button = रद्द करा
 # Continue is the cancel button so pressing escape or using a platform standard
@@ -304,11 +215,6 @@ update-in-progress-cancel-button = पुढे चला
 
 ## General Section - Performance
 
-performance-title = कार्यक्षमता
-performance-use-recommended-settings-checkbox =
-    .label = शिफारस केलेले कार्यक्षमता सेटिंग वापरा
-    .accesskey = U
-performance-use-recommended-settings-desc = हे सेटिंग आपल्या संगणकाच्या हार्डवेअर आणि ऑपरेटिंग प्रणाली साठी अनुरूप होतील अशा प्रकारे बनवले आहेत.
 performance-settings-learn-more = अधिक जाणा
 performance-allow-hw-accel =
     .label = उपलब्ध असल्यावर हार्डवेअर ॲक्सिलरेशनचा वापर करा
@@ -326,7 +232,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = ब्राउजिंग
 browsing-use-autoscroll =
     .label = स्वस्क्रोलिंगचा वापर करा
     .accesskey = a
@@ -342,25 +247,14 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = लिहीण्यास सुरूवात केल्यावर मजकुर शोधा
     .accesskey = x
-browsing-picture-in-picture-learn-more = अधिक जाणा
 browsing-cfr-recommendations =
     .label = आपण ब्राउझ करता तेव्हा विस्तारांची शिफारस करा
     .accesskey = R
 browsing-cfr-features =
     .label = आपण ब्राउझ करता तेव्हा वैशिष्ट्यांची शिफारस करा
     .accesskey = f
-browsing-cfr-recommendations-learn-more = अधिक जाणा
 browsing-group =
     .label = ब्राउजिंग
-
-## General Section - Proxy
-
-network-settings-title = नेटवर्क सेटिंग
-network-proxy-connection-description = { -brand-short-name } इंटरनेटशी जोडणी कशी करतो ते संरचीत करा.
-network-proxy-connection-learn-more = अधिक जाणा
-network-proxy-connection-settings =
-    .label = सेटिंग्ज…
-    .accesskey = e
 
 ## Home Section
 
@@ -407,8 +301,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = वेब शोध
-home-prefs-recommended-by-header =
-    .label = { $provider } तर्फे शिफारस
 
 ##
 
@@ -421,14 +313,6 @@ home-prefs-highlights-options-bookmarks =
     .label = वाचनखुणा
 home-prefs-highlights-option-most-recent-download =
     .label = अलीकडचे डाउनलोड
-home-prefs-highlights-option-saved-to-pocket =
-    .label = { -pocket-brand-name } मध्ये जतन केलेले पृष्ठ
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = कात्रणे
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -440,29 +324,11 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = शोध पट्टी
-search-bar-hidden =
-    .label = शोध आणि नेव्हिगेशनसाठी पत्ता पट्टी वापरा
-search-bar-shown =
-    .label = साधनपट्टीत शोध पट्टी जोडा
-search-engine-default-header = पूर्वनिर्धारित शोध इंजिन
-search-suggestions-header = शोध सूचना
-search-suggestions-option =
-    .label = शोध सूचना पुरवा
-    .accesskey = s
 search-show-suggestions-url-bar-option =
     .label = पत्ता पट्टी परिणामांत शोध सूचना दाखवा
     .accesskey = l
 search-suggestions-cant-show-2 =
     .message = आपल्या शोध सूचना लोकेशन बारवर दिसणार नाही कारण आपण इतिहास लक्षात न ठेवण्यासाठी { -brand-short-name } हे संयोजित केले आहे
-# This string describes what the user will observe when the system
-# prioritizes search suggestions over browsing history in the results
-# that extend down from the address bar. In the original English string,
-# "ahead" refers to location (appearing most proximate to), not time
-# (appearing before).
-search-show-suggestions-above-history-option =
-    .label = पत्ता पट्टीच्या परिणामांमध्ये ब्राऊझिंग इतिहासाच्या आधी शोध सूचना दाखवा
-search-suggestions-cant-show = आपल्या शोध सूचना लोकेशन बारवर दिसणार नाही कारण आपण इतिहास लक्षात न ठेवण्यासाठी { -brand-short-name } हे संयोजित केले आहे
 search-one-click-desc = जेव्हा आपण मूळशब्द प्रविष्ट करण्यास सुरू करता तेव्हा पत्ता पट्टी आणि शोध पट्टीच्या खाली दिसणारे पर्यायी शोध इंजिन्स निवडा.
 search-choose-engine-column =
     .label = शोध इंजिन्स
@@ -487,15 +353,6 @@ search-engine-group =
 search-default-engine =
     .aria-label = पूर्वनिर्धारित शोध इंजिन
 
-## Containers Section
-
-containers-header = कंटेनर टॅब्स
-containers-add-button =
-    .label = नवीन कंटेनर जोडा
-    .accesskey = A
-containers-remove-button =
-    .label = काढून टाका
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -512,8 +369,6 @@ sync-mobile-promo = साठी डाउनलोड करा <img data-l10n-
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = प्रोफाइल प्रतिमा बदला
 sync-profile-picture-with-alt =
     .alt = प्रोफाइल प्रतिमा बदला
     .tooltiptext = प्रोफाइल प्रतिमा बदला
@@ -538,9 +393,6 @@ sync-signedin-login-failure = पुन्हा जोडणीकरिता 
 
 ##
 
-sync-resend-verification =
-    .label = पडताळणी पुन्हा पाठवा
-    .accesskey = d
 sync-remove-account =
     .label = खाते काढा
     .accesskey = R
@@ -550,10 +402,6 @@ sync-sign-in =
 
 ## Sync section - enabling or disabling sync.
 
-prefs-sync-now =
-    .labelnotsyncing = आत्ता सिंक करा
-    .labelsyncing = सिंक करत आहे
-    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = आत्ता सिंक करा
     .accesskey = N
@@ -571,13 +419,8 @@ prefs-syncing-button-2 =
 sync-currently-syncing-bookmarks = वाचनखूणा
 sync-currently-syncing-history = इतिहास
 sync-currently-syncing-tabs = खुले टॅब
-sync-currently-syncing-logins-passwords = लॉगिन आणि पासवर्ड
 sync-currently-syncing-addresses = पत्ते
-sync-currently-syncing-creditcards = क्रेडिट कार्ड
 sync-currently-syncing-addons = ॲड-ऑन
-sync-change-options =
-    .label = बदला…
-    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
@@ -591,18 +434,10 @@ sync-engine-tabs =
     .label = टॅब्स उघडा
     .tooltiptext = ताळमेळ केलेल्या उपकरणांमध्ये काय उघडलेले आहे याची यादी
     .accesskey = T
-sync-engine-logins-passwords =
-    .label = लॉगिन आणि पासवर्ड
-    .tooltiptext = आपण जतन केलेली वापरकर्ता नावे आणि पासवर्ड
-    .accesskey = L
 sync-engine-addresses =
     .label = पत्ते
     .tooltiptext = आपण साठवलेले पोस्टाचे पत्ते (फक्त डेस्कटॉप साठी)
     .accesskey = e
-sync-engine-creditcards =
-    .label = क्रेडिट कार्ड्स
-    .tooltiptext = नावे, नंबर आणि कालबाह्यता तारखा (केवळ डेस्कटॉप)
-    .accesskey = C
 sync-engine-addons =
     .label = ॲड-ऑन्स्
     .tooltiptext = Firefox डेस्कटॉप साठी थीम आणि एक्स्टेंशन
@@ -634,42 +469,16 @@ sync-connect-another-device = अन्य उपकरण जोडा
 sync-connect-another-device-2 =
     .label = अन्य उपकरण जोडा
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = वैधता पाठवली
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = पडताळणीसाठी { $email } वर दुवा पाठवला आहे.
-sync-verification-not-sent-title = खात्री करण्यासाठी दुवा पाठवू शकत नाही.
-sync-verification-not-sent-body = खात्री करण्यासाठी या वेळी इ-मेल पाठवू शकत नाही, कृपया थोड्या वेळाने पुन्हा प्रयत्न करा.
-
 ## Privacy Section
 
 privacy-header = ब्राऊजर गोपनीयता
-
-## Privacy Section - Logins and Passwords
-
-# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = लॉगिन आणि पासवर्ड
-    .searchkeywords = { -lockwise-brand-short-name }
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = संकेतस्थळासाठी लॉगिन आणि पासवर्ड साठवण्यासाठी विचारा
-    .accesskey = r
 
 ## Privacy Panel Settings
 
 forms-exceptions =
     .label = अपवाद…
     .accesskey = x
-forms-generate-passwords =
-    .label = सशक्त पासवर्ड सुचवून तयार करा
-    .accesskey = u
 forms-breach-alerts-learn-more-link = अधिक जाणा
-forms-saved-logins =
-    .label = साठवलेले लॉगइन्स…
-    .accesskey = L
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -680,32 +489,12 @@ forms-master-pw-fips-desc = पासवर्ड बदल अयशस्व�
 
 ## Privacy Section - History
 
-history-header = इतिहास
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } करेल
-    .accesskey = w
-history-remember-option-all =
-    .label = इतिहास लक्षात ठेवा
-history-remember-option-never =
-    .label = इतिहास कधीच लक्षात ठेवु नका
-history-remember-option-custom =
-    .label = इतिहासा करीता मनपसंत संयोजना वापरा
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } आपले ब्राउझिंग, डाउनलोड, फॉर्म आणि शोध इतिहास लक्षात ठेवेल.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } समान संयोजना खाजगी ब्राउझिंग म्हणून वापरतो, व वेब चाळतेवेळी कुठलाही इतिहास लक्षात ठेवत नाही.
-history-remember-description = { -brand-short-name } आपले ब्राउझिंग, डाउनलोड, फॉर्म आणि शोध इतिहास लक्षात ठेवेल.
-history-dontremember-description = { -brand-short-name } समान संयोजना खाजगी ब्राउझिंग म्हणून वापरतो, व वेब चाळतेवेळी कुठलाही इतिहास लक्षात ठेवत नाही.
 history-private-browsing-permanent =
     .label = नेहमी व्यक्तिगत ब्राउजिंग मोडचा वापर करा
     .accesskey = p
@@ -731,36 +520,13 @@ history-mode-radio-group =
 
 ## Privacy Section - Site Data
 
-sitedata-header = कुकीज आणि साईट डेटा
 sitedata-total-size-calculating = कॅश आणि साईट माहितीच्या आकाराची गणना करत आहे...
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = आपण साठवलेल्या कुकीज, साईट माहिती आणि कॅश सध्या { $value } { $unit } इतकी जागा डिस्कवर व्याप्त करत आहेत
 sitedata-learn-more = अधिक जाणा
-sitedata-allow-cookies-option =
-    .label = कुकीज आणि साईट डेटा स्वीकारा
-    .accesskey = A
-sitedata-disallow-cookies-option =
-    .label = कुकीज आणि साइट डेटा अवरोधित करा
-    .accesskey = B
-# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
-# The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = प्रकार अवरोधित
-    .accesskey = T
-sitedata-clear =
-    .label = माहिती पुसा...
-    .accesskey = l
-sitedata-settings =
-    .label = डेटा व्यवस्थापित करा...
-    .accesskey = M
 cookies-site-data-group =
     .label = कुकीज आणि साईट डेटा
 
 ## Search Section
 
-addressbar-header = पत्ता पट्टी
-addressbar-suggest = पत्ता पट्टी वापरतेवेळी, सूचवा
 addressbar-locbar-history-option =
     .label = ब्राउझिंग इतिहास
     .accesskey = h
@@ -770,7 +536,6 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = टॅब्स उघडा
     .accesskey = O
-addressbar-suggestions-settings = शोध इंजिनसाठी सूचना प्राधान्यता बदला
 
 ## Privacy Section - Content Blocking
 
@@ -801,7 +566,6 @@ content-blocking-unvisited-cookies = भेट न दिलेल्या स�
 content-blocking-all-windows-tracking-content = सर्व विंडोमधील सामग्री ट्रॅक करणे
 content-blocking-cryptominers = क्रिप्टोमाइनर
 content-blocking-fingerprinters = फिंगरप्रिंटर
-content-blocking-warning-title = सावधान!
 content-blocking-warning-learn-how = कसे ते जाणा
 content-blocking-reload-description = हे बदल लागू करण्यासाठी आपले टॅब रीलोड करावे लागतील.
 content-blocking-reload-tabs-button =
@@ -816,7 +580,6 @@ content-blocking-tracking-protection-option-all-windows =
 content-blocking-option-private =
     .label = फक्त खाजगी पटलामध्ये
     .accesskey = P
-content-blocking-tracking-protection-change-block-list = अवरोधित सूचीमध्ये बदल करा
 content-blocking-cookies-label =
     .label = कुकीज
     .accesskey = C
@@ -826,11 +589,6 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = क्रिप्टोमाइनर
     .accesskey = y
-# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
-# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
-content-blocking-fingerprinters-label =
-    .label = फिंगरप्रिंटर
-    .accesskey = F
 
 ## Privacy Section - Tracking
 
@@ -840,42 +598,11 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = परवानग्या
-permissions-location = स्थान
-permissions-location-settings =
-    .label = सेटिंग…
-    .accesskey = t
-permissions-camera = कॅमेरा
-permissions-camera-settings =
-    .label = सेटिंग…
-    .accesskey = t
-permissions-microphone = मायक्रोफोन
-permissions-microphone-settings =
-    .label = सेटिंग…
-    .accesskey = t
-permissions-notification = सूचना
-permissions-notification-settings =
-    .label = सेटिंग…
-    .accesskey = t
-permissions-notification-link = अधिक जाणा
 permissions-notification-pause =
     .label = सूचना { -brand-short-name } पुन्हा सुरु होईपर्यंत स्थगित करा
     .accesskey = n
 permissions-autoplay2 =
     .label = ऑटोप्ले
-permissions-autoplay = ऑटोप्ले
-permissions-autoplay-settings =
-    .label = सेटिंग…
-    .accesskey = t
-permissions-block-popups =
-    .label = पॉपअप पटल अडवा
-    .accesskey = B
-permissions-addon-install-warning =
-    .label = साईट्स ॲड-ऑन्स् इंस्टॉल करण्याचा प्रयत्न करताना मला सावध करा
-    .accesskey = W
-permissions-addon-exceptions =
-    .label = अपवाद…
-    .accesskey = E
 permissions-location2 =
     .label = स्थान
 permissions-camera2 =
@@ -887,22 +614,6 @@ permissions-notification2 =
 
 ## Privacy Section - Data Collection
 
-collection-header = { -brand-short-name } माहिती संग्रह आणि वापर
-collection-description = आम्ही आपल्याला पर्याय उपलब्ध करण्यासाठी प्रयत्न करतो आणि सर्वांसाठी { -brand-short-name } उपलब्ध होण्यासाठी आणि सुधारण्यासाठी गरजेपुरतेच गोळा करतो. वैयक्तिक माहिती घेण्याआधी आम्ही नेहमी परवानगी विचारतो.
-collection-privacy-notice = गोपनीयता सूचना
-collection-health-report =
-    .label = { -vendor-short-name } ला तांत्रिक व परस्परसंवाद माहिती पाठविण्यासाठी { -brand-short-name } ला परवानगी द्या
-    .accesskey = r
-collection-health-report-link = अधिक जाणा
-collection-studies =
-    .label = { -brand-short-name } ला studies प्रस्थापित करून चालवण्याची परवानगी द्या
-collection-studies-link = { -brand-short-name } studies पहा
-addon-recommendations =
-    .label = वैयक्तिकृत विस्ताराच्या शिफारसी करण्यासाठी { -brand-short-name } ला अनुमती द्या
-addon-recommendations-link = अधिक जाणा
-# This message is displayed above disabled data sharing options in developer builds
-# or builds with no Telemetry support available.
-collection-health-report-disabled = माहिती अहवाल देणे या बांधणी संरचनेमध्ये निष्क्रिय केलेले आहे
 data-collection-studies-link =
     .label = { -brand-short-name } studies पहा
 
@@ -912,7 +623,6 @@ data-collection-studies-link =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = सुरक्षा
-security-browsing-protection = भ्रामक मजकूर आणि धोकादायक सॉफ्टवेअर संरक्षण
 security-enable-safe-browsing =
     .label = धोकादायक आणि भ्रामक सामग्री अवरोधित करा
     .accesskey = B
@@ -926,20 +636,9 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = प्रमाणपत्र
-certs-enable-ocsp =
-    .label = क्वेरी OCSP रेसपाँडर सध्याच्या प्रमाणपत्रांची वैधताची खात्री करते
-    .accesskey = Q
-certs-view =
-    .label = प्रमाणपत्रे बघा
-    .accesskey = C
-certs-devices =
-    .label = सुरक्षा साधने
-    .accesskey = D
 certs-devices-enable-fips = FIPS कार्यान्वीत करा
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = डेस्कटॉप
 downloads-folder-name = डाउनलोड
-choose-download-folder-title = डाउनलोड संचयिका(फोल्डर) निवडा:

@@ -16,15 +16,3 @@ recently-closed-menu-reopen-all-windows = ᱡᱚᱛᱚ ᱣᱤᱱᱰᱚᱡᱽ ᱠ
 
 recently-closed-panel-reopen-all-tabs = ᱡᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱡᱷᱤᱡᱽ ᱢᱮ
 recently-closed-panel-reopen-all-windows = ᱡᱚᱛᱚ ᱣᱤᱱᱰᱚᱡᱽ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱡᱷᱤᱡᱽ ᱢᱮ
-
-##
-
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [one] { $winTitle } (ᱟᱨ { $tabCount } ᱮᱴᱟᱜ ᱴᱮᱵᱽ)
-       *[other] { $winTitle } (ᱟᱨ { $tabCount } ᱮᱴᱟᱜ ᱴᱮᱵᱽ ᱠᱚ)
-    }

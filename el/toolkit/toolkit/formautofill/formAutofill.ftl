@@ -22,7 +22,6 @@ autofill-delete-payment-method-os-prompt-windows = Το { -brand-short-name } π
 autofill-delete-payment-method-os-prompt-other = Το { -brand-short-name } προσπαθεί να διαγράψει αποθηκευμένα στοιχεία μεθόδου πληρωμής.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Επιλογές αυτόματης συμπλήρωσης φορμών
-autofill-options-link-osx = Προτιμήσεις αυτόματης συμπλήρωσης φορμών
 
 ## The credit card capture doorhanger
 
@@ -72,16 +71,6 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
-# The warning text that is displayed for informing users what categories are
-# about to be filled.  The text would be, for example,
-#   Also autofills organization, phone, email.
-# Variables:
-#   $categories - one or more of the categories, see autofill-category-X below
-autofill-phishing-warningmessage-extracategory = Επίσης, συμπληρώνει αυτόματα { $categories }
-# Variation when all are in the same category.
-# Variables:
-#   $categories - one or more of the categories
-autofill-phishing-warningmessage = Συμπληρώνει αυτόματα { $categories }
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = διεύθυνση
 autofill-category-name = όνομα

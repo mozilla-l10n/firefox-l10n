@@ -31,4 +31,3 @@ search-bookmarks = Marcapaginas
 search-history = Istoric
 search-opentabs = Onglets dobèrts
 search-tags = Etiquetas
-search-titles = Títols

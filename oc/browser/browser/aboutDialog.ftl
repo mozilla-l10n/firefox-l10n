@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Telecargament de mesa a jorn — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Telecargament de la mesa a jorn — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Telecargament de mesa a jorn — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Aplicacion de la mesa a jorn…
 update-failed = La mesa a jorn a fracassat. <label data-l10n-name="failed-link">Telecargar la darrièra version</label>
 update-failed-main = La mesa a jorn a fracassat. <a data-l10n-name="failed-link-main">Telecargar la darrièra version</a>
-update-adminDisabled = Las mesas a jorn son desactivadas per vòstre administrator del sistèma
 update-policy-disabled = Mesas a jorn desactivadas per vòstra organizacion
 settings-update-policy-disabled =
     .label = Mesas a jorn desactivadas per vòstra organizacion
@@ -71,8 +69,6 @@ helpus = Volètz ajudar ? <label data-l10n-name="helpus-donateLink">Fasètz un 
 bottomLinks-license = Informacions sus la licéncia
 bottom-links-terms = Condicions d’utilizacion
 bottom-links-privacy = Politica de confidencialitat
-bottomLinks-rights = Dreches de l'utilizaire
-bottomLinks-privacy = Politica de confidencialitat
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

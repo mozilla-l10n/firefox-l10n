@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Motorul de căutare implicit a fost modificat.</strong> { $oldEngine } nu mai este disponibil ca motor implicit de căutare în { -brand-short-name }. { $newEngine } este acum motorul tău de căutare implicit. Pentru a folosi alt motor de căutare implicit, mergi în setări. <label data-l10n-name="remove-search-engine-article">Află mai multe</label>
 removed-search-engine-message2 = <strong>Motorul de căutare implicit a fost modificat.</strong> { $oldEngine } nu mai este disponibil ca motor implicit de căutare în { -brand-short-name }. { $newEngine } este acum motorul tău de căutare implicit. Pentru a folosi alt motor de căutare implicit, mergi în setări.
 remove-search-engine-button = OK
 
@@ -52,11 +51,11 @@ install-search-engine-no = Nu
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Adaugă motor de căutare
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Editează motorul de căutare
     .style = min-width: 32em;
+    .title = Editează motorul de căutare
 add-engine-button = Adaugă motor personalizat
 add-engine-name = Numele motorului de căutare
 add-engine-url2 = URL cu %s în locul termenului de căutare
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Încearcă să incluzi %s în locul termenu
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Adaugă motor
-    .buttonaccesskeyaccept = A
     .buttonlabelextra1 = Advansat
+    .buttonaccesskeyaccept = A
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Salvează motorul
-    .buttonaccesskeyaccept = S
     .buttonlabelextra1 = Advansat
+    .buttonaccesskeyaccept = S

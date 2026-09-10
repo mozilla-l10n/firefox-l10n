@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = La estension no pues lei e cambiâ dâts
-origin-controls-quarantined =
-    .label = La estension no à il permès par lei e modificâ dâts
 origin-controls-quarantined-status =
     .label = Estension no consintude su sîts cun limitazions
 origin-controls-quarantined-allow =

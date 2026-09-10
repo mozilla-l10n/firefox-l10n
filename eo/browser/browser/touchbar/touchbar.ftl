@@ -31,4 +31,3 @@ search-bookmarks = Legosignoj
 search-history = Historio
 search-opentabs = Malfermitaj langetoj
 search-tags = Etikedoj
-search-titles = Titoloj

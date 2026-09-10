@@ -15,10 +15,6 @@ experimental-features-js-warp-description = JavaScript 성능 및 메모리 사�
 experimental-features-ime-search =
     .label = 주소 표시줄: IME 입력 중 결과 표시
 experimental-features-ime-search-description = IME (Input Method Editor)는 표준 키보드를 사용하여 동아시아 또는 인도어에서 사용되는 것과 같은 복잡한 기호를 입력 할 수 있는 도구입니다. 이 실험을 활성화하면 IME를 사용하여 텍스트를 입력하는 동안 주소 표시줄 패널이 열려 검색 결과와 제안을 표시합니다. IME는 주소 표시줄 결과를 포함하는 패널을 표시할 수 있으므로, 이 설정은 이러한 유형의 패널을 사용하지 않는 IME에만 권장됩니다.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = 화면 속 화면: 탭 전환 시 자동 열기
-experimental-features-auto-pip-description = 탭을 전환할 때 활성 동영상에서 화면 속 화면을 사용합니다.
 experimental-features-group-developer-tools =
     .label = 개발자 도구
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = 생산성
 experimental-features-group-newtab-widgets =
     .label = { -firefox-home-brand-name } 위젯
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = 사이드바의 비밀번호
-experimental-features-contextual-password-manager-description = 사이드바에서 바로 비밀번호에 접근하세요. 더 이상 로그인할 때 비밀번호를 검색하거나 재설정하지 않아도 됩니다. 이 기능을 사용하려면 사이드바에서 비밀번호를 선택하세요. 일반 설정으로 이동하여 브라우저 레이아웃에서 사이드바 표시를 선택하세요. 그런 다음, 비밀번호를 선택하여 사이드바를 사용자 지정하세요. 사용을 하신다면, <a data-l10n-name="connect">의견을 알려주세요</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = 새 탭의 사용자 지정 배경 화면 또는 색상 선택

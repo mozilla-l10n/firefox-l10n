@@ -35,6 +35,6 @@ remove-search-engine-button = Во ред
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = Додај сервис за пребарување
     .style = min-width: 32em;
+    .title = Додај сервис за пребарување
 add-engine-name = Име на пребарувачот

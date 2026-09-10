@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Ocultar PeerConnections
 about-webrtc-aec-logging-msg-label = Registo AEC
 about-webrtc-aec-logging-off-state-label = Iniciar registo AEC
 about-webrtc-aec-logging-on-state-label = Parar registo AEC
-about-webrtc-aec-logging-on-state-msg = Registo AEC ativo (fale com o remetente da chamada durante alguns minutos e depois pare a captura)
 about-webrtc-aec-logging-toggled-on-state-msg = Registo AEC ativo (fale com o remetente da chamada durante alguns minutos e depois pare a captura)
 about-webrtc-aec-logging-unavailable-sandbox = A variável de ambiente MOZ_DISABLE_CONTENT_SANDBOX=1 é necessária para exportar registos AEC. Defina esta variável apenas se compreender os possíveis riscos.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Nomeado
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Selecionado
 about-webrtc-save-page-label = Guardar página
-about-webrtc-debug-mode-msg-label = Modo de depuração
-about-webrtc-debug-mode-off-state-label = Iniciar modo de depuração
-about-webrtc-debug-mode-on-state-label = Parar modo de depuração
-about-webrtc-stats-heading = Estatísticas da sessão
 about-webrtc-enable-logging-label = Ativar predefinição de registo WebRTC
 about-webrtc-peerconnections-section-heading = Estatísticas RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = Mostrar estatísticas RTCPeerConnection
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = Ocultar estatísticas RTCPeerCon
 about-webrtc-stats-clear = Limpar histórico
 about-webrtc-log-heading = Registo de ligação
 about-webrtc-log-clear = Limpar registo
-about-webrtc-log-show-msg = mostrar registo
-    .title = clique para expandir esta secção
-about-webrtc-log-hide-msg = ocultar registo
-    .title = clique para colapsar esta secção
 about-webrtc-log-section-show-msg = Mostrar registo
     .title = Clique para expandir esta secção
 about-webrtc-log-section-hide-msg = Ocultar registo
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Candidato remoto
 about-webrtc-raw-candidates-heading = Todos os candidatos em bruto
 about-webrtc-raw-local-candidate = Candidato local em bruto
 about-webrtc-raw-remote-candidate = Candidato remoto em bruto
-about-webrtc-raw-cand-show-msg = mostrar candidatos em bruto
-    .title = clique para expandir esta secção
-about-webrtc-raw-cand-hide-msg = ocultar candidatos em bruto
-    .title = clique para colapsar esta secção
 about-webrtc-raw-cand-section-show-msg = Mostrar candidatos em bruto
     .title = Clique para expandir esta secção
 about-webrtc-raw-cand-section-hide-msg = Ocultar candidatos em bruto
     .title = Clique para colapsar esta secção
 about-webrtc-priority = Prioridade
-about-webrtc-fold-show-msg = mostrar detalhes
-    .title = clique para expandir esta secção
-about-webrtc-fold-hide-msg = ocultar detalhes
-    .title = clique para colapsar esta secção
 about-webrtc-fold-default-show-msg = Mostrar detalhes
     .title = Clique para expandir esta secção
 about-webrtc-fold-default-hide-msg = Ocultar detalhes
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Fornecida
 # been provided
 about-webrtc-configuration-element-not-provided = Não fornecida
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Preferências do WebRTC definidas pelo utilizador
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Configuração de WebRTC Modificada pelo Utilizador
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = Tempo de ida e volta ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Estatísticas de frames de vídeo - ID do MediaStreamTrack: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = página guardada em: { $path }
-about-webrtc-debug-mode-off-state-msg = o registo de execução pode ser encontrado em: { $path }
-about-webrtc-debug-mode-on-state-msg = modo de depuração ativo, registo de rastreio em: { $path }
-about-webrtc-aec-logging-off-state-msg = os ficheiros do registo da captura podem ser encontrados em: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Teilen-Hinweis
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Teilen-Hinweis
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Sie teilen Ihr Mikrofon. Klicken, um Zugriffe zu verwalten.
 webrtc-screen-system-menu =
     .label = Sie teilen ein Fenster oder einen Bildschirm. Klicken, um Zugriffe zu verwalten.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Zugriff auf Kamera und Mikrofon für Andere erlaubt. Klicken, um Zugriffe zu verwalten.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Zugriff auf Kamera für Andere erlaubt. Klicken, um Zugriffe zu verwalten.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Zugriff auf Mikrofon für Andere erlaubt. Klicken, um Zugriffe zu verwalten.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Zugriff auf eine Anwendung erlaubt. Klicken, um Zugriffe zu verwalten.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Zugriff auf den Bildschirm für Andere erlaubt. Klicken, um Zugriffe zu verwalten.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Zugriff auf ein Fenster für Andere erlaubt. Klicken, um Zugriffe zu verwalten.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Zugriff auf einen Tab für Andere erlaubt. Klicken, um Zugriffe zu verwalten.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = { $origin } erla
 
 webrtc-share-screen-warning = Erlauben Sie nur Websites Ihres Vertrauens Zugriff auf Ihre Bildschirme. Der Zugriff durch betrügerische Websites würde diesen erlauben, im Internet als Sie zu surfen und private Daten zu stehlen.
 webrtc-share-browser-warning = Erlauben Sie nur Websites Ihres Vertrauens Zugriff auf { -brand-short-name }. Der Zugriff durch betrügerische Websites würde diesen erlauben, im Internet als Sie zu surfen und private Daten zu stehlen.
-webrtc-share-screen-learn-more = Weitere Informationen
 webrtc-pick-window-or-screen = Fenster oder Bildschirm auswählen
 webrtc-share-entire-screen = Vollständiger Bildschirm
 webrtc-share-pipe-wire-portal = Betriebssystem-Einstellungen verwenden

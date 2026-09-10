@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = 擴充套件不可讀取或變更任何網站資料
-origin-controls-quarantined =
-    .label = 不允許擴充套件讀取或變更任何網站資料
 origin-controls-quarantined-status =
     .label = 不允許於受限制的網站運作的擴充套件
 origin-controls-quarantined-allow =

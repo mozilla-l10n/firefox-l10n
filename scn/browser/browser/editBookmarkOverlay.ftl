@@ -4,10 +4,6 @@
 
 bookmark-overlay-choose =
     .label = Scarta…
-bookmark-overlay-folders-expander =
-    .tooltiptext = Mustra tutti quanti i carpetti dî nzingalibbra
-    .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
-    .tooltiptextup = Ammuccia
 bookmark-overlay-folders-expander2 =
     .tooltiptext = Mustra tutti quanti i carpetti dî nzingalibbra
 bookmark-overlay-folders-expander-hide =
@@ -17,10 +13,6 @@ bookmark-overlay-new-folder-button =
     .accesskey = c
 bookmark-overlay-tags-empty-description =
     .placeholder = Sparti l’etichetti cu i virguli
-bookmark-overlay-tags-expander =
-    .tooltiptext = Mustra tutti l’etichetti
-    .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
-    .tooltiptextup = Ammuccia
 bookmark-overlay-tags-expander2 =
     .tooltiptext = Mustra tutti l’etichetti
 bookmark-overlay-tags-expander-hide =

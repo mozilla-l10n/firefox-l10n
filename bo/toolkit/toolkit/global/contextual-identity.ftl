@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = No Container
-    .accesskey = N
 user-context-manage-containers =
     .label = འཇུག་སྣོད་དོ་དམ་བྱེད་པ
     .accesskey = O

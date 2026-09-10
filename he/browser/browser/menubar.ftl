@@ -261,8 +261,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = פרופילים
 menu-profiles-manage-profiles =
     .label = ניהול פרופילים
 menu-profiles-new-profile =
@@ -286,9 +284,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = הרחבות וערכות נושא
     .accesskey = ה
-menu-tools-addons-and-themes =
-    .label = תוספות וערכות נושא
-    .accesskey = ת
 menu-tools-fxa-sign-in2 =
     .label = כניסה
     .accesskey = כ
@@ -345,8 +340,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = מידע נוסף לפתרון בעיות
     .accesskey = מ
-menu-help-report-site-issue =
-    .label = דיווח על בעיה באתר…
 menu-help-share-ideas =
     .label = שיתוף רעיונות ומשוב…
     .accesskey = ש

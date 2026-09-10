@@ -48,7 +48,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Pendekode Data ({ $pid })
 about-processes-socket-process = Jaringan ({ $pid })
-about-processes-remote-sandbox-broker-process = Broker Kotak Pasir Daring ({ $pid })
 about-processes-fork-server-process = Server Fork ({ $pid })
 about-processes-preallocated-process = Praalokasi ({ $pid })
 about-processes-utility-process = Utilitas ({ $pid })
@@ -58,17 +57,6 @@ about-processes-inference-process = Inferensi ({ $pid })
 #    $pid (String) The process id of this process, assigned by the OS.
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = Lainnya: { $type } ({ $pid })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, terisolasi cross-origin)
-about-processes-web-isolated-process-private = { $origin } — Pribadi ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } — Pribadi ({ $pid }, terisolasi cross-origin)
 
 ## Details within processes
 

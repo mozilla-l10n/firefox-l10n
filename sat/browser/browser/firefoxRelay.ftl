@@ -13,7 +13,6 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ᱫᱩᱦᱲᱟ�
 
 ##
 
-firefox-relay-must-login-to-fxa = { -relay-brand-name } ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ { -fxaccount-brand-name } ᱨᱮ ᱵᱚᱞᱚ ᱛᱟᱦᱮᱸ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾
 firefox-relay-must-login-to-account = ᱟᱢᱟᱜ ᱤᱢᱟᱞ ᱩᱠᱩ { -relay-brand-name } ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱨᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ ᱾
 firefox-relay-get-unlimited-masks =
     .label = ᱢᱟᱥᱠ ᱢᱮᱱᱮᱡᱽ ᱢᱮ

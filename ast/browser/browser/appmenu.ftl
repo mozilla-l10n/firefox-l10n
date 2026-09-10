@@ -27,8 +27,6 @@ appmenuitem-downloads =
     .label = Descargues
 appmenuitem-passwords =
     .label = Contraseñes
-appmenuitem-addons-and-themes =
-    .label = Complementos y estilos
 appmenuitem-print =
     .label = Imprentar…
 appmenuitem-find-in-page =
@@ -80,7 +78,6 @@ appmenu-remote-tabs-welcome = Ve una llista de les llingüetes d'otros preseos d
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar agora
 appmenuitem-fxa-sign-in = Aniciar sesión en { -brand-product-name }
 appmenuitem-fxa-manage-account = Xestionar la cuenta
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
@@ -92,15 +89,6 @@ appmenu-fxa-setup-sync =
     .label = Activar la sincronización…
 appmenuitem-save-page =
     .label = Guardar la páxina como…
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Novedaes
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Avisame de les carauterístiques nueves
-    .accesskey = A
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -167,8 +155,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Más información pa iguar problemes
     .accesskey = a
-appmenu-help-report-site-issue =
-    .label = Informar d'un fallu del sitiu…
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

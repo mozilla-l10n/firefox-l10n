@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Eguevi
 neterror-return-to-previous-page-recommended-button = Eguevi (mboajepyre)
 neterror-try-again-button-2 = Eha’ã jey
     .accesskey = T
-neterror-try-again-button = Eha’ã jey
 neterror-add-exception-button = Emba’apo opa ára ko tendápe
 neterror-settings-button = Emoambue DNS ñemboheko
 neterror-view-certificate-link = Mboajapyre jehecha
-neterror-trr-continue-this-time = Eku’ejey ko’ãg̃aite
-neterror-disable-native-feedback-warning = Eku’éke tapiaite
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = Eikuaave
 ##
 
 neterror-pref-reset = Ne ñemboheko ñanduti rekorosãrã rehegua ikatu hína ojapo kóva. Emoĩporãsépa ñemboheko ijypyguáva rupi?
-neterror-error-reporting-automatic = Emomarandu koichagua jejavy eipytyvõ hag̃ua { -vendor-short-name }-pe ojuhúvo ha ojokóvo tenda mba’evai aposéva
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Esẽte ha upéi eikejey Wi-Fi r
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } nomo’ãkuaái ne mba’ejerure ko tenda kundaharape ore DNS jeroviaha apopyvusu. Ápe oĩ mba’érepa:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } nomo’ãkuaái ne mba’ejerure tenda kundaharape ore DNS me’ẽhára hekorosãva rupi. Ápe oĩ mba’érepa:
 neterror-dns-not-found-trr-third-party-warning2 = Eku’ejeykuaa DNS mba’eporu ijypyguáva ndive. Upéicharõ jepe, mbohapyháva ikatu ohecha mba’e ñanduti rendápepa eikera’e.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } ndoikekuaái { $trrDomain } ndive.
 neterror-dns-not-found-trr-only-timeout = Pe { $trrDomain }-pe jeike nemoha’ãrõ hetave aravo.
-neterror-dns-not-found-trr-offline = Ndereikekuaamo’ãi ñandutípe.
 neterror-dns-not-found-trr-unknown-host2 = Ko ñandurti renda ndojuhúi { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Oĩ peteĩ apañuái { $trrDomain } ndive.
 neterror-dns-not-found-bad-trr-url = URL oiko’ỹva.
 neterror-dns-not-found-system-sleep = Ko apopyvusu oĩ tekopytápe.
 neterror-dns-not-found-trr-unknown-problem = Jejavy eha’ãrõ’ỹva.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } nomo’ãkuaái ne mba’ejerure ko tenda kundaharape ore DNS jeroviaha apopyvusu. Ápe oĩ mba’érepa:
-neterror-dns-not-found-native-fallback-heuristic = DNS HTTPS rehegua ojepe’áma nde pyhágui.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ndoikekuaái { $trrDomain } ndive.
 
 ##
 
@@ -151,8 +137,6 @@ neterror-access-denied = Ikatúmakuri oñemboguete, oñemongu’e térã marandu
 neterror-unknown-protocol = Ikatu eikotevẽ emohenda ambue software eike hag̃ua ko kundaharapépe.
 neterror-redirect-loop = Ko apañuái oikokuaa reipe’a térã neremoneĩriramo kookie ñeg̃uahẽ.
 neterror-unknown-socket-type-client-config = Kóva oikokuaa oĩramo ñemboheko jejavy ñemuhárandi.
-neterror-unknown-socket-type-psm-installed = Ehechajey nde apopyvusu oguerekópa ñangarekoha imba’eteéva tekorosãrã mohendapyréva.
-neterror-unknown-socket-type-server-config = Kóva ikatu ojehuhína peteĩ ñemboheko oiko porã’ỹva mohendahavusúpe rupi.
 neterror-not-cached-intro = Kuatia jerurepyre noĩvéima ojeporu hag̃uáicha kache { -brand-short-name }-pe.
 neterror-not-cached-sensitive = Kyhyje tekorosãrãramo, { -brand-short-name } ndojeruremo’ãvéima ijehegui kuatiakuéra takate’ỹha.
 neterror-not-cached-try-again = Eikutu Ñeha’ã jey ejerure jey hag̃ua pe kuatia ñanduti renda pegua.

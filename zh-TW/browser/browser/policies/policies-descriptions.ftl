@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = 不讓預設瀏覽器代理工具作任何�
 policy-DisableDeveloperTools = 防止使用開發者工具。
 policy-DisableEncryptedClientHello = 停用 TLS 的 Encrypted Client Hello（ECH）功能。
 policy-DisableFeedbackCommands = 停用於「說明」選單中傳送意見回饋的相關指令（「送出意見回饋」與「檢舉詐騙網站」）。
-policy-DisableFirefoxAccounts = 停用 { -fxaccount-brand-name }相關服務，包含 Sync。
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = 停用需要帳號才可使用的服務，包含 Sync。
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = 不要記住搜尋與表單填寫紀錄。
 policy-DisableLaunchOnLogin = 防止 { -brand-short-name } 在使用者登入時自動啟動。
 policy-DisablePrimaryPasswordCreation = 若為 true，將無法建立主控密碼。
 policy-DisablePasswordReveal = 不允許於儲存的登入資訊畫面中顯示密碼。
-policy-DisablePocket2 = 停用儲存網頁到 { -pocket-brand-name } 的功能。
 policy-DisablePrivateBrowsing = 停用隱私瀏覽功能。
 policy-DisableProfileImport = 停用自其他瀏覽器匯入資料的選單功能。
 policy-DisableProfileRefresh = 停用 about:support 頁面中的「重新整理 { -brand-short-name }」按鈕。
@@ -132,7 +130,6 @@ policy-PDFjs = 停用或設定 { -brand-short-name } 內建的 PDF 閱讀器 PDF
 policy-Permissions2 = 設定攝影機、麥克風、地理位置、通知、自動播放等權限。
 policy-PictureInPicture = 開啟或關閉子母畫面功能。
 policy-PopupBlocking2 = 允許某些網站顯示彈出型視窗，並且由第三方畫框重新導向網頁。
-policy-PopupBlocking = 允許某些網站預設可顯示彈出型視窗。
 policy-Preferences = 鎖定部分偏好設定的內容。
 policy-PrivateBrowsingModeAvailability = 設定是否可使用隱私瀏覽模式。
 policy-PromptForDownloadLocation = 下載檔案時，詢問要將檔案儲存至何處。

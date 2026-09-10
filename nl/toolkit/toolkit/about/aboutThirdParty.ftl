@@ -30,11 +30,11 @@ third-party-tag-background = Achtergrond
         Deze module heeft de toepassing niet geblokkeerd, omdat deze in de
         achtergrond is geladen.
 third-party-icon-unsigned =
-    .title = Deze module is niet ondertekend
     .alt = Deze module is niet ondertekend
+    .title = Deze module is niet ondertekend
 third-party-icon-warning =
-    .title = { -brand-short-name } is in code van deze module gecrasht
     .alt = { -brand-short-name } is in code van deze module gecrasht
+    .title = { -brand-short-name } is in code van deze module gecrasht
 third-party-status-loaded = Geladen
 third-party-status-blocked = Geblokkeerd
 third-party-status-redirected = Omgeleid
@@ -46,30 +46,17 @@ third-party-button-reload = Opnieuw laden met systeeminfo
     .title = Opnieuw laden met systeeminformatie
 third-party-button-open =
     .title = Bestandslocatie openen…
-third-party-button-to-block =
-    .title = Deze module blokkeren
-    .aria-label = Deze module blokkeren
-third-party-button-to-unblock =
-    .title = Momenteel geblokkeerd. Klik om te deblokkeren.
-    .aria-label = Momenteel geblokkeerd. Klik om te deblokkeren.
-third-party-button-to-unblock-disabled =
-    .title =
-        Momenteel gemarkeerd als geblokkeerd, hoewel de blokkeerlijst is uitgeschakeld voor deze run
-        van { -brand-short-name }. Klik om te deblokkeren.
-    .aria-label =
-        Momenteel gemarkeerd als geblokkeerd, hoewel de blokkeerlijst is uitgeschakeld voor deze run
-        van { -brand-short-name }. Klik om te deblokkeren.
 third-party-button-to-block-module = Deze module blokkeren
-    .title = Deze module blokkeren
     .aria-label = Deze module blokkeren
+    .title = Deze module blokkeren
 third-party-button-to-unblock-module = Deze module deblokkeren
-    .title = Momenteel geblokkeerd. Klik om te deblokkeren.
     .aria-label = Momenteel geblokkeerd. Klik om te deblokkeren.
+    .title = Momenteel geblokkeerd. Klik om te deblokkeren.
 third-party-button-to-unblock-module-disabled = Deze module deblokkeren (blokkeerlijst momenteel uitgeschakeld)
-    .title =
+    .aria-label =
         Momenteel gemarkeerd als geblokkeerd, hoewel de blokkeerlijst is uitgeschakeld voor deze run
         van { -brand-short-name }. Klik om deze te deblokkeren.
-    .aria-label =
+    .title =
         Momenteel gemarkeerd als geblokkeerd, hoewel de blokkeerlijst is uitgeschakeld voor deze run
         van { -brand-short-name }. Klik om deze te deblokkeren.
 third-party-button-expand =
@@ -81,5 +68,5 @@ third-party-should-restart-title = { -brand-short-name } herstarten
 third-party-restart-now = Nu herstarten
 third-party-restart-later = Later herstarten
 third-party-blocked-by-builtin =
-    .title = Geblokkeerd door { -brand-short-name }
     .alt = Geblokkeerd door { -brand-short-name }
+    .title = Geblokkeerd door { -brand-short-name }

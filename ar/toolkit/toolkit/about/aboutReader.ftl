@@ -4,14 +4,6 @@
 
 about-reader-loading = يُحمّل…
 about-reader-load-error = فشل تحميل المقالة من الصفحة
-about-reader-color-scheme-light = فاتح
-    .title = مخطّط الألوان فاتح
-about-reader-color-scheme-dark = داكن
-    .title = مخطّط الألوان داكن
-about-reader-color-scheme-sepia = بني داكن
-    .title = مخطّط ألوان بني داكن
-about-reader-color-scheme-auto = تلقائي
-    .title = مخطّط ألوان تلقائي
 about-reader-color-light-theme = فاتح
     .title = سمة فاتحة
 about-reader-color-dark-theme = داكن
@@ -24,20 +16,6 @@ about-reader-color-gray-theme = رمادي
     .title = سمة رمادية
 about-reader-color-contrast-theme = التباين
     .title = سمة التباين
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time =
-    { $rangePlural ->
-        [zero] { $range } دقيقة
-        [one] { $range } دقيقة
-        [two] { $range } دقيقة
-        [few] { $range } دقائق
-        [many] { $range } دقيقة
-       *[other] { $range } دقيقة
-    }
 
 ## Reader View text and layout menu
 
@@ -45,14 +23,6 @@ about-reader-toolbar-minus =
     .title = صغّر مقاس الخط
 about-reader-toolbar-plus =
     .title = كبّر مقاس الخط
-about-reader-toolbar-contentwidthminus =
-    .title = صغّر عرض المحتوى
-about-reader-toolbar-contentwidthplus =
-    .title = كبّر عرض المحتوى
-about-reader-toolbar-lineheightminus =
-    .title = صغّر ارتفاع السطر
-about-reader-toolbar-lineheightplus =
-    .title = كبّر ارتفاع السطر
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -63,7 +33,6 @@ about-reader-font-type-monospace = ثابت العرض
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = أغلق منظور القارئ
-about-reader-toolbar-type-controls = أزرار الخطوط
 about-reader-toolbar-text-layout-controls = النص والتخطيط
 about-reader-toolbar-theme-controls = السمة
 about-reader-toolbar-savetopocket = احفظ في { -pocket-brand-name }

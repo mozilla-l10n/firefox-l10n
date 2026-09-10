@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Verbindingsinstellingen
     .style =
         { PLATFORM() ->
             [macos] min-width: 46em
            *[other] min-width: 51em
         }
+    .title = Verbindingsinstellingen
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Opnieuw laden
     .accesskey = e
-connection-proxy-autologin =
-    .label = Niet om authenticatie vragen als wachtwoord is opgeslagen
-    .accesskey = i
-    .tooltip = Deze optie authenticeert u automatisch bij proxy’s als u hiervoor referenties hebt opgeslagen. Als authenticatie mislukt, wordt hierom gevraagd.
 connection-proxy-autologin-checkbox =
     .label = Niet om authenticatie vragen als wachtwoord is opgeslagen
-    .accesskey = i
     .tooltiptext = Deze optie authenticeert u automatisch bij proxy’s als u hiervoor referenties hebt opgeslagen. Als authenticatie mislukt, wordt hierom gevraagd.
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = DNS via proxy bij gebruik van SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = De standaard-URL voor het omzetten van DNS over HTTPS gebruiken
 connection-dns-over-https-url-custom =
     .label = Aangepast
-    .accesskey = A
     .tooltiptext = Een URL van uw voorkeur voor het omzetten van DNS over HTTPS invoeren
-connection-dns-over-https-custom-label = Aangepast
+    .accesskey = A

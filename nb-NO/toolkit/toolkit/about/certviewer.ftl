@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = Dine sertifikater
 certificate-viewer-tab-people = Personer
 certificate-viewer-tab-servers = Servere
 certificate-viewer-tab-ca = Utstedere
-certificate-viewer-tab-unkonwn = Ukjent

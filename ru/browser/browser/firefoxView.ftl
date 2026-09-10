@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Просмотреть недавнюю историю по окнам и устройствам
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Закрыть
-    .aria-label = Закрыть
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Прямо сейчас
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Выбор вкладки
-firefoxview-tabpickup-description = Открывать страницы с других устройств.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% завершено
-firefoxview-tabpickup-step-signin-header = Легко переключайтесь между устройствами
-firefoxview-tabpickup-step-signin-description = Чтобы просматривать здесь вкладки со своего телефона, сначала выполните вход или создайте аккаунт.
-firefoxview-tabpickup-step-signin-primarybutton = Продолжить
 firefoxview-syncedtabs-signin-header-2 = Ваш { -brand-product-name } на всех ваших устройствах
 firefoxview-syncedtabs-signin-description-2 = Чтобы увидеть вкладки, открытые на вашем телефоне и других устройствах, войдите или зарегистрируйте аккаунт. С аккаунтом вы также можете синхронизировать пароли, историю и многое другое.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = С ноутбука на телефон, бесшовно
 firefoxview-syncedtabs-signin-description-3 = Сохраняйте просмотр при переключении между устройствами — вкладки, пароли и история синхронизируются.
 firefoxview-syncedtabs-signin-primarybutton-2 = Войти
-firefoxview-tabpickup-adddevice-header = Синхронизируйте { -brand-product-name } на своём телефоне или планшете
-firefoxview-tabpickup-adddevice-description = Скачайте { -brand-product-name } для мобильных устройств и выполните вход.
-firefoxview-tabpickup-adddevice-learn-how = Подробнее
-firefoxview-tabpickup-adddevice-primarybutton = Получить { -brand-product-name } для мобильных устройств
 firefoxview-syncedtabs-adddevice-header-2 = Захватывайте вкладки отовсюду
 firefoxview-syncedtabs-adddevice-description-2 = Войдите в { -brand-product-name } на вашем телефоне или другом компьютере, чтобы увидеть здесь вкладки. Узнайте, как <a data-l10n-name="url">подключить дополнительные устройства</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Попробовать мобильный { -brand-product-name }
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Ваши вкладки вызваны. Они на вашем телефоне.
 firefoxview-syncedtabs-adddevice-description-3 = Отсканируйте QR-код, чтобы скачать { -brand-product-name } для мобильных устройств и начать синхронизировать открытые вкладки и многое другое. Узнайте, как <a data-l10n-name="url">подключить дополнительные устройства</a>.
-firefoxview-tabpickup-synctabs-header = Включить синхронизацию вкладок
-firefoxview-tabpickup-synctabs-description = Разрешить { -brand-short-name } делиться вкладками между устройствами.
-firefoxview-tabpickup-synctabs-learn-how = Подробнее
 firefoxview-tabpickup-synctabs-primarybutton = Синхронизировать открытые вкладки
 firefoxview-tabpickup-synctabs-primarybutton-2 = Включить синхронизацию вкладок
 firefoxview-syncedtabs-synctabs-header = Обновите настройки синхронизации
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Когда процесс заве�
 firefoxview-syncedtabs-loading-header-2 = Получение ваших вкладок…
 firefoxview-syncedtabs-loading-description-2 = Выполняется синхронизация. Вкладки скоро будут здесь.
 firefoxview-tabpickup-fxa-admin-disabled-header = В вашей организации синхронизация отключена
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } не может синхронизировать вкладки между устройствами, потому что ваш администратор отключил синхронизацию.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } не может синхронизировать вкладки между устройствами, так как ваша организация отключила синхронизацию.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Синхронизация вкладок отключена
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Ваша организация заблокировала эту функцию.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Разблокируйте вкладки с помощью вашего основного пароля
 firefoxview-tabpickup-password-locked-description-2 = Для вашей приватности синхронизируемые вкладки защищены. Введите свой основной пароль { -brand-short-name }, чтобы увидеть вкладки с других устройств.
 firefoxview-tabpickup-signed-out-header = Войти, чтобы подключиться снова
-firefoxview-tabpickup-signed-out-description = Чтобы снова подключиться и получить свои вкладки, войдите в свой { -fxaccount-brand-name(case: "nominative") }.
 firefoxview-tabpickup-signed-out-description2 = Чтобы снова подключиться и получить свои вкладки, войдите в свой аккаунт.
 firefoxview-tabpickup-signed-out-primarybutton = Войти
 firefoxview-tabpickup-signed-out-header-2 = Войдите, чтобы увидеть свои вкладки
 firefoxview-tabpickup-signed-out-description-2 = Подключитесь снова, чтобы просматривать вкладки с других устройств.
-firefoxview-tabpickup-syncing = Подождите, пока вкладки синхронизируются. Это займёт одно мгновение.
-firefoxview-mobile-promo-header = Просматривайте вкладки со своего телефона или планшета
-firefoxview-mobile-promo-description = Чтобы просмотреть свои последние вкладки с мобильного устройства, войдите в { -brand-product-name } на iOS или Android.
-firefoxview-mobile-promo-primarybutton = Получить { -brand-product-name } для мобильных устройств
-firefoxview-mobile-confirmation-header = 🎉 Всё готово!
-firefoxview-mobile-confirmation-description = Теперь вы можете просматривать свои вкладки { -brand-product-name } с планшета или телефона.
-firefoxview-closed-tabs-title = Недавно закрытые
-firefoxview-closed-tabs-description2 = Заново открыть страницы, которые вы закрыли в этом окне.
-firefoxview-closed-tabs-placeholder-header = Нет недавно закрытых вкладок
-firefoxview-closed-tabs-placeholder-body = Когда вы закрываете вкладку в этом окне, вы можете восстановить её здесь.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Убрать { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Последняя активная
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Открыть { $targetURI } в новой вкладке
-firefoxview-try-colorways-button = Попробуйте расцветки
-firefoxview-change-colorway-button = Сменить расцветку
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Здесь пока ничего нет
-firefoxview-synced-tabs-placeholder-body = В следующий раз, когда вы откроете страницу в { -brand-product-name } на другом устройстве, она появится здесь, как по волшебству.
 firefoxview-collapse-button-show =
     .title = Показать список
 firefoxview-collapse-button-hide =

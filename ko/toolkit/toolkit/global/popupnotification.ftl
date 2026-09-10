@@ -8,6 +8,3 @@ popup-notification-more-actions-button =
 popup-notification-default-button2 =
     .label = 확인
     .accesskey = O
-popup-notification-default-button =
-    .label = 확인
-    .accesskey = O

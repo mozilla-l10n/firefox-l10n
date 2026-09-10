@@ -13,11 +13,6 @@ genai-header-close-button =
 genai-onboarding-primary = కొనసాగించు
 genai-onboarding-secondary = మూసివేయి
 
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-lechat-price = ఉచితం; ఖాతా తప్పనిసరి
-
 ## Model Optin Component
 
 genai-model-optin-continue =

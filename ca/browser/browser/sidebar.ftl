@@ -40,7 +40,6 @@ sidebar-history-clear =
     .label = Buida l'historial
 sidebar-history-sort-by-heading-menucaption =
     .label = Ordena per:
-sidebar-history-sort-by-heading = Ordena per:
 sidebar-history-sort-option-date =
     .label = Data
 sidebar-history-sort-option-site =
@@ -60,16 +59,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Extensions de la barra lateral
-sidebar-customize-firefox-tools-header =
-    .label = Eines del { -brand-product-name }
 sidebar-customize-firefox-settings = Gestiona els paràmetres del { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Pestanyes verticals
 sidebar-settings2 =
     .label = Paràmetres
-sidebar-settings =
-    .label = Configuració de la barra lateral
 sidebar-hide-tabs-and-sidebar =
     .label = Amaga les pestanyes i la barra lateral
 sidebar-show-on-the-right =
@@ -89,8 +83,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Gestiona l'extensió
-sidebar-context-menu-remove-extension =
-    .label = Elimina l'extensió
 sidebar-context-menu-report-extension =
     .label = Informa sobre l'extensió
 sidebar-context-menu-open-in-tab =

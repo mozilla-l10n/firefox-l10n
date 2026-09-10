@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Þú ert núna í FIPS-ham. FIPS má ekki 
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Endurstilla aðallykilorð
     .style = min-width: 40em
+    .title = Endurstilla aðallykilorð
 reset-password-button-label =
     .label = Endursetja
 reset-primary-password-text = Ef þú endurstillir aðallykilorðið, þá muntu missa öll geymd vef- og póstlykilorð, öll skilríki, og alla einkalykla. Ertu viss um að þú viljir endurstilla aðallykilorðið þitt?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Aðallykilorðið þitt hefur veri�
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Hleð niður skilríki
     .style = min-width: 46em
+    .title = Hleð niður skilríki
 download-cert-message = Þú ert beðinn um að treysta nýrri vottunarstöð (CA).
 download-cert-trust-ssl =
     .label = Treysta þessum CA-vottunaraðila til að auðkenna vefsvæði.
@@ -52,8 +52,6 @@ download-cert-view-text = Skoða CA skilríki
 
 client-auth-window =
     .title = Beiðni um auðkenni notanda
-client-auth-site-description = Þetta vefsvæði bað um að þú auðkennir þig með skilríki:
-client-auth-choose-cert = Veldu skilríki til að sýna sem auðkenni:
 client-auth-send-no-certificate =
     .label = Ekki senda skilríki
 # Variables:
@@ -93,9 +91,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Lykilorð öryggisafrits (aftur):
 set-password-reminder = Mikilvægt: Ef þú gleymir lykilorði öryggisafrits geturðu ekki endurheimt öryggisafritið seinna. Geymdu það öruggum stað.
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Auðkenndu teiknið „{ $tokenName }“. Hvernig það er gert fer eftir teikninu (til dæmis með því að nota fingrafaralesara eða slá inn kóða með lyklaborði).

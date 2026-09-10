@@ -5,20 +5,11 @@
 
 ### These strings are used inside the about:debugging UI.
 
-
-# Page Title strings
-
-
-# Sidebar strings
-
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
 about-debugging-sidebar-item-connect-button = Ceangail
 # Text displayed in buttons found in sidebar items when the runtime is connecting.
 about-debugging-sidebar-item-connect-button-connecting = Ag ceangal…
-
-# Setup Page strings
-
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Ceangail Gléas
 # USB section of the Setup page
@@ -34,9 +25,6 @@ about-debugging-network-locations-host-input-label = Óstach
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Bain
-
-# Runtime Page strings
-
 # Title of the extensions category.
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-extensions =
@@ -60,9 +48,6 @@ about-debugging-runtime-disconnect-button = Dícheangail
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
 about-debugging-collapse-expand-debug-targets = Laghdaigh / leathnaigh
-
-# Debug Targets strings
-
 # Displayed in the categories of "runtime" pages that don't have any debug target to
 # show. Debug targets depend on the category (extensions, tabs, workers...).
 about-debugging-debug-target-list-empty = Faic fós.

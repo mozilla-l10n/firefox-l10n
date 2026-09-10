@@ -19,13 +19,11 @@ neterror-open-portal-login-page-button = ကွန်ယက်သို့ လ�
 neterror-pref-reset-button = မူလသတ်မှတ်ထားသည့်အတိုင်း ပြန်ထားပါ
 neterror-return-to-previous-page-button = နောက်သို့ သွားရန်
 neterror-return-to-previous-page-recommended-button = ပြန်သွားပါ (အကြံပြုချက်အရ)
-neterror-try-again-button = ထပ်ကြိုးစားပါ
 neterror-view-certificate-link = အထောက်အထားများကို ကြည့်ရန်
 
 ##
 
 neterror-pref-reset = သင့်ကွန်ယက်လုံခြုံရေးအပြင်အဆင်များတွင် ဒီပြဿနာဖြစ်နေသည်ဟု ထင်မြင်ရပါသည်။ သင်သည် မူလအပြင်အဆင်များအတိုင်း ပြန်လည်သတ်မှတ်လိုပါသလား။
-neterror-error-reporting-automatic = မလိုတမာဝဘ်ဆိုက်များကို { -vendor-short-name } က ခွဲခြားသတ်မှတ်ရာတွင်နှင့် ပိတ်ပင်တားဆီးရာတွင် ကူညီရန် ယခုကိစ္စကဲ့သို့သော အမှားများကို အကြောင်းကြားပေးပို့ပါ။
 
 ## Specific error messages
 
@@ -42,8 +40,6 @@ neterror-file-not-found-moved = ဖိုင်ကို ရွှေ့ထာ�
 neterror-access-denied = ၎င်းကို ဖျက်ထားခြင်း၊ ရွှေ့ထားခြင်း သို့မဟုတ် ဖိုင်အသုံးပြုမှုဆိုင်ရာမူဝါဒများက အသုံးမပြုနိုင်စေရန် တားမြစ်နေခြင်း ဖြစ်နိုင်ပါသည်။
 neterror-unknown-protocol = ယခုလိပ်စာကို ဖွင့်ရန် အခြားဆော့ဖ်ဝဲလ်တစ်ခုကို လိုအပ်ကောင်း လိုအပ်ပါလိမ့်မည်။
 neterror-redirect-loop = ကွတ်ကီးအသုံးပြုမှုကို ငြင်းဆန်ခြင်း သို့မဟုတ် ပိတ်ထားခြင်းတို့ကြောင့် ယခုပြဿနာကဲ့သို့ ဖြစ်ပေါ်စေနိုင်သည်။
-neterror-unknown-socket-type-psm-installed = သင့်ကွန်ပျူတာစနစ်တွင် Personal Security Manager တပ်ဆင်ထားခြင်း ရှိ/မရှိ စစ်ဆေးပါ။
-neterror-unknown-socket-type-server-config = ဆာဗာတွင် စံမဟုတ်သော ပြင်ဆင်ပြုပြင်မှုများကြောင့် ယခုပြဿနာကဲ့သို့ ဖြစ်ပေါ်စေနိုင်သည်။
 neterror-not-cached-intro = တောင်းဆိုထားသော စာတမ်းကို { -brand-short-name }၏ ယာယီမှတ်ဉာဏ်တွင် မရှိတော့ပါ။
 neterror-not-cached-sensitive = လုံခြုံရေးကြိုတင်ကာကွယ်မှုအနေဖြင့် { -brand-short-name } သည် အရေးကြီးစာတမ်းကို အလိုအလျောက် ထပ်မံ မတောင်းဆိုပါ။
 neterror-not-cached-try-again = ထပ်မံဆောင်ရွက်ကြည့်ပါကို ကလစ်နှိပ်ပြီး ဝဘ်ဆိုက်ထံမှ စာတမ်းကို ပြန်လည် တောင်းဆိုနိုင်ပါသည်။

@@ -51,7 +51,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     Za objašnjenje različitih načina evidentiranja i pronalaženja podataka, pogledajte tab
     <strong>O podacima</strong>.
-about-glean-about-testing-header = O testiranju
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     Potpune upute su dokumentirane u
@@ -60,8 +59,6 @@ about-glean-manual-testing =
     ali, ukratko, da biste ručno testirali da li vaša instrumentacija radi, trebali biste:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ne šalji nikakav ping)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = U prethodnom polju provjerite postoji li oznaka za otklanjanje grešaka koju možete lako zapamtiti kako biste kasnije mogli prepoznati svoje pingove.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Postavite oznaku za otklanjanje grešaka koju možete lako zapamtiti <span>(20 znakova ili manje, samo alfanumerika i -)</span> kako biste kasnije mogli prepoznati svoje pingove.
 # An in-line drop down list precedes this string.
@@ -88,12 +85,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Posjetite stranicu { glean-debug-ping-viewer-brand-name } za pingove s vašom oznakom</a>.
     Ne bi trebalo proći više od nekoliko sekundi od pritiska dugmeta do dolaska vašeg pinga.
     Ponekad može proći i nekoliko minuta.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    Za više <i>ad hoc</i> testiranja,
-    trenutnu vrijednost određenog instrumenta možete odrediti i otvaranjem devtools konzole ovdje na <code>about:glean</code>
-    i korištenjem <code>testGetValue()</code> API-ja kao što je
-    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     Za više <i>ad hoc</i> testiranja,
@@ -139,6 +130,3 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Da biste snimili profil performansi i vidjeli sve zabilježene metrike, koristite
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
-about-glean-about-data-explanation =
-    Za pregled liste prikupljenih podataka, molimo Vas da se konsultujete sa
-    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } rječnikom</a>.

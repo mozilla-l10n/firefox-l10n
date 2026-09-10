@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = সংযোগের সেটিং
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = সংযোগের সেটিং
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -58,14 +58,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = পুনরায় লোড
     .accesskey = e
-connection-proxy-autologin =
-    .label = পাসওয়ার্ড সংরক্ষিত থাকলে অনুমোদনের জন্য অনুরোধ করা থেকে বিরত থাকুন i
-    .accesskey = i
-    .tooltip = আপনি যখন তাদের জন্য পরিচয়পত্র সংরক্ষণ করেছেন তখন এই অপশনটি নীরবে প্রক্সি করতে অনুমোদিতো হয়েছে। প্রমাণীকরণ ব্যর্থ হলে আপনাকে অনুরোধ জানানো হবে।
 connection-proxy-autologin-checkbox =
     .label = পাসওয়ার্ড সংরক্ষিত থাকলে অনুমোদনের জন্য অনুরোধ করা থেকে বিরত থাকুন i
-    .accesskey = i
     .tooltiptext = আপনি যখন তাদের জন্য পরিচয়পত্র সংরক্ষণ করেছেন তখন এই অপশনটি নীরবে প্রক্সি করতে অনুমোদিতো হয়েছে। প্রমাণীকরণ ব্যর্থ হলে আপনাকে অনুরোধ জানানো হবে।
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = SOCKS v5 ব্যবহারের সময় Proxy DNS
     .accesskey = d
@@ -76,6 +72,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = HTTPS এ DNS নির্ণায়কের জন্য ডিফল্ট URL ব্যবহার করুন
 connection-dns-over-https-url-custom =
     .label = স্বনির্ধারিত
-    .accesskey = C
     .tooltiptext = DNS এ HTTPS সমাধানের জন্য আপনার পছন্দের URL লিখুন
-connection-dns-over-https-custom-label = স্বনির্ধারিত
+    .accesskey = C

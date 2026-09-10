@@ -62,17 +62,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = সর্বত্র আপনার বুকমার্ক সিঙ্ক করুন।
-cfr-doorhanger-bookmark-fxa-body = দারুন! আপনার মোবাইল ডিভাইসে বুকমার্ক করা বাকি রাখবেন না। { -fxaccount-brand-name } দিয়ে শুরু করুন।
 cfr-doorhanger-bookmark-fxa-link-text = এখনই বুকমার্ক সিঙ্ক করুন...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = বন্ধ বোতাম
     .title = বন্ধ
-
-## Protections panel
-
-cfr-protections-panel-header = অনুসৃত না হয়েই ব্রাউজ করুন
-cfr-protections-panel-body = নিজের তথ্য নিজের কাছে রাখুন।  { -brand-short-name }  আপনাকে প্রচলিত ট্র‍্যাকারগুলো যা অনলাইনে আপনি কি করেন তা অনুসরণ করে তার বেশিরভাগ থেকেই রক্ষা করে ।
-cfr-protections-panel-link-text = আরও জানুন
 
 ## What's New toolbar button and panel
 

@@ -41,7 +41,6 @@ policy-DisableDefaultBrowserAgent = Evitar que o axente do navegador predetermin
 policy-DisableDeveloperTools = Bloquea o acceso ás ferramentas de desenvolvemento.
 policy-DisableEncryptedClientHello = Desactiva o uso da función TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Desactiva as ordes para enviar opinións dende o menú Axuda (Enviar opinión e Informar de sitio enganoso).
-policy-DisableFirefoxAccounts = Desactiva os servizos baseados en { -fxaccount-brand-name }, incluído Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Desactiva os servizos baseados na conta, incluída a sincronización.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -51,7 +50,6 @@ policy-DisableForgetButton = Evita o acceso ao botón Esquecer.
 policy-DisableFormHistory = Non lembra o historial de formularios e buscas.
 policy-DisablePrimaryPasswordCreation = Se é certo, non se pode crear un contrasinal principal.
 policy-DisablePasswordReveal = Non permitir que os contrasinais se revelen nos inicios de sesión gardados.
-policy-DisablePocket2 = Desactiva a funcionalidade para gardar páxinas web en { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Desactiva a navegación privada.
 policy-DisableProfileImport = Desactiva o comando do menú para importar datos dende outro navegador.
 policy-DisableProfileRefresh = Desactiva o botón de Refrescar { -brand-short-name } na páxina about:support.
@@ -118,7 +116,6 @@ policy-PostQuantumKeyAgreementEnabled = Habilitar o acordo de chave poscuántica
 policy-PDFjs = Desactivar ou configurar PDF.js, o visor de PDF incorporado en { -brand-short-name }.
 policy-Permissions2 = Configurar os permisos para cámara, micrófono, localización, notificacións e reprodución automática.
 policy-PictureInPicture = Activar ou desactivar imaxe en imaxe.
-policy-PopupBlocking = Permitir que certos sitios web amosen xanelas emerxentes de forma predeterminada.
 policy-Preferences = Establecer e bloquear o valor dun subconxunto de preferencias.
 policy-PrivateBrowsingModeAvailability = Establece a dispoñibilidade do modo de navegación privada.
 policy-PromptForDownloadLocation = Preguntar onde gardar ficheiros ao descargar.

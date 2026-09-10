@@ -21,11 +21,6 @@ tabbrowser-tab-tooltip-container = { $containerName }
 #   $tabGroupName (String): the user-defined name of the current tab group.
 #   $containerName (String): the name of the current container.
 tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } — { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -33,14 +28,6 @@ tabbrowser-container-tab-title = { $title } — { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [one] Κλείσιμο καρτέλας
-           *[other] Κλείσιμο { $tabCount } καρτελών
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [one] Κλείσιμο καρτέλας
            *[other] Κλείσιμο { $tabCount } καρτελών
@@ -108,7 +95,6 @@ tabbrowser-unblock-tab-audio-aria-label =
 tabbrowser-confirm-close-tabs-title = Κλείσιμο { $tabCount } καρτελών;
 tabbrowser-confirm-close-tabs-button = Κλείσιμο καρτελών
 tabbrowser-ask-close-tabs-checkbox = Ερώτηση πριν από το κλείσιμο πολλαπλών καρτελών
-tabbrowser-confirm-close-tabs-checkbox = Επιβεβαίωση πριν από το κλείσιμο πολλαπλών καρτελών
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -131,9 +117,6 @@ tabbrowser-confirm-close-tabs-with-key-button = Τερματισμός του { 
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-ask-close-tabs-with-key-checkbox = Ερώτηση πριν από τον τερματισμό με { $quitKey }
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = Επιβεβαίωση πριν από τον τερματισμό με { $quitKey }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
@@ -432,8 +415,8 @@ tab-note-editor-button-save =
     .label = Αποθήκευση
     .accesskey = θ
 tab-note-editor-button-delete =
-    .title = Διαγραφή σημείωσης
     .aria-label = Διαγραφή σημείωσης
+    .title = Διαγραφή σημείωσης
     .accesskey = Δ
 tab-note-preview-edit-icon =
     .alt = Επεξεργασία σημείωσης

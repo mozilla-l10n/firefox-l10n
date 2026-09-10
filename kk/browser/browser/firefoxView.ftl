@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Құрылғыларыңыз және терезелеріңіз бойынша жуырдағы шолуды қарау
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Жабу
-    .aria-label = Жабу
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Жаңа ғана
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Синхрондалған беттер
-firefoxview-tabpickup-description = Басқа құрылғылардан беттерді ашу.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% дайын
-firefoxview-tabpickup-step-signin-header = Құрылғылар арасында кедергісіз ауысыңыз
-firefoxview-tabpickup-step-signin-description = Телефон беттерін осы жерден алу үшін алдымен жүйеге кіріңіз немесе тіркелгіні жасаңыз.
-firefoxview-tabpickup-step-signin-primarybutton = Жалғастыру
 firefoxview-syncedtabs-signin-header-2 = Сіздің { -brand-product-name } барлық құрылғыларыңызда
 firefoxview-syncedtabs-signin-description-2 = Телефонда және басқа құрылғыларда ашылған беттерді көру үшін жүйеге кіріңіз немесе тіркелгі жасаңыз. Тіркелгі арқылы парольдер, тарихты және т.б. синхрондауға болады.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Ноутбуктан телефонға өту, кедергісіз
 firefoxview-syncedtabs-signin-description-3 = Барлық құрылғыларда шолуды іске қосулы ұстаңыз — беттер, парольдер және тарих, барлығы синхрондалған.
 firefoxview-syncedtabs-signin-primarybutton-2 = Кіру
-firefoxview-tabpickup-adddevice-header = Телефонда немесе планшетте { -brand-product-name }синхрондаңыз
-firefoxview-tabpickup-adddevice-description = Мобильді телефонға { -brand-product-name } жүктеп алып, сол жерден кіріңіз.
-firefoxview-tabpickup-adddevice-learn-how = Көбірек білу
-firefoxview-tabpickup-adddevice-primarybutton = Мобильді { -brand-product-name } алу
 firefoxview-syncedtabs-adddevice-header-2 = Беттерді кез келген жерден алу
 firefoxview-syncedtabs-adddevice-description-2 = Осында беттерді көру үшін телефонда немесе басқа компьютерде { -brand-product-name } ішіне кіріңіз. <a data-l10n-name="url">Қосымша құрылғыларды қосу жолын</a> үйреніңіз.
 firefoxview-syncedtabs-adddevice-primarybutton = Мобильді { -brand-product-name } қолданып көру
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Беттеріңіз хабарласты. Олар сіздің телефоныңызда.
 firefoxview-syncedtabs-adddevice-description-3 = Мобильді құрылғыларға арналған { -brand-product-name } алу үшін QR кодын сканерлеңіз және ашық беттер және т.б. синхрондауды бастаңыз. <a data-l10n-name="url">Қосымша құрылғыларды қалай қосу</a> туралы біліңіз.
-firefoxview-tabpickup-synctabs-header = Беттер синхрондауын іске қосу
-firefoxview-tabpickup-synctabs-description = { -brand-short-name } үшін құрылғылар арасында беттермен бөлісуді рұқсат ету.
-firefoxview-tabpickup-synctabs-learn-how = Көбірек білу
 firefoxview-tabpickup-synctabs-primarybutton = Ашық беттерді синхрондау
 firefoxview-tabpickup-synctabs-primarybutton-2 = Беттер синхрондауын іске қосу
 firefoxview-syncedtabs-synctabs-header = Синхрондау баптауларын жаңартыңыз
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Ол аяқталғаннан ке�
 firefoxview-syncedtabs-loading-header-2 = Беттеріңіз алынуда…
 firefoxview-syncedtabs-loading-description-2 = Синхрондау жүріп жатыр. Беттер жақын арада осында болады.
 firefoxview-tabpickup-fxa-admin-disabled-header = Сізідң ұйымыңыз синхрондауды сөндірген
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } құрылғылар арасында беттерді синхрондай алмайды, себебі әкімшіңіз синхрондауды сөндірген.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } құрылғылар арасында беттерді синхрондай алмайды, себебі ұйымыңыз синхрондауды сөндірген.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Беттерді синхрондау сөндірулі
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Сіздің ұйымыңыз бұл мүмкіндікті бұғаттады.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Беттер құлпын басты пароліңізбен ашыңыз
 firefoxview-tabpickup-password-locked-description-2 = Құпиялылығыңыз үшін синхрондалған беттер қорғалған. Басқа құрылғыларыңыздан беттерді көру үшін { -brand-short-name } басты пароліңізді енгізіңіз.
 firefoxview-tabpickup-signed-out-header = Қайта байланысу үшін кіру
-firefoxview-tabpickup-signed-out-description = Қайта байланысу және беттерді алу үшін { -fxaccount-brand-name } ішіне кіріңіз.
 firefoxview-tabpickup-signed-out-description2 = Қайта байланысу және беттерді алу үшін тіркелгіңізге кіріңіз.
 firefoxview-tabpickup-signed-out-primarybutton = Кіру
 firefoxview-tabpickup-signed-out-header-2 = Беттеріңізді көру үшін жүйеге кіріңіз
 firefoxview-tabpickup-signed-out-description-2 = Басқа құрылғылардан беттерді көру үшін қайта қосылыңыз.
-firefoxview-tabpickup-syncing = Беттер синхрондалғанын күте тұрыңыз. Бұл жылдам болады.
-firefoxview-mobile-promo-header = Телефоннан немесе планшеттен беттерді алыңыз
-firefoxview-mobile-promo-description = Соңғы мобильді беттерді көру үшін iOS немесе Android жүйесінде { -brand-product-name } ішіне кіріңіз.
-firefoxview-mobile-promo-primarybutton = Мобильді { -brand-product-name } алу
-firefoxview-mobile-confirmation-header = 🎉 Ал, кеттік!
-firefoxview-mobile-confirmation-description = Енді сіз { -brand-product-name } беттерін планшеттен немесе телефоннан ала аласыз.
-firefoxview-closed-tabs-title = Жақында жабылған
-firefoxview-closed-tabs-description2 = Осы терезеде жабылған беттерді қайта ашыңыз.
-firefoxview-closed-tabs-placeholder-header = Жақында жабылған беттер жоқ
-firefoxview-closed-tabs-placeholder-body = Осы терезеде бетті жапқанда, оны осы жерден алуға болады.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = { $tabTitle } елемеу
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Соңғы белсенді
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = { $targetURI } жаңа бетте ашу
-firefoxview-try-colorways-button = Түстер схемаларын қолданып көріңіз
-firefoxview-change-colorway-button = Түстер схемасын өзгерту
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Әлі көретін ештеңе жоқ
-firefoxview-synced-tabs-placeholder-body = Басқа құрылғыда { -brand-product-name } ішінде бетті келесі рет ашқанда, оны сиқырлы түрде осы жерден алыңыз.
 firefoxview-collapse-button-show =
     .title = Тізімді көрсету
 firefoxview-collapse-button-hide =

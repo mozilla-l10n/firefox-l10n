@@ -154,15 +154,10 @@ addon-sitepermission-host = Autorizacions de site per { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Totes los moduls complementaris son estats desactivats pel mòde sens fracàs.
-extensions-warning-check-compatibility = La verificacion de compatibilitat pels moduls complementaris es desactivada. Es possible que d'unes moduls sián incompatibles.
-extensions-warning-safe-mode2 =
-    .message = Totes los moduls complementaris son estats desactivats pel mòde sens fracàs.
 extensions-warning-check-compatibility2 =
     .message = La verificacion de compatibilitat pels moduls complementaris es desactivada. Es possible que d'unes moduls sián incompatibles.
 extensions-warning-check-compatibility-button = Activar
     .title = Activar la verificacion de compatibilitat
-extensions-warning-update-security = La verificacion de compatibilitat pels moduls complementaris es desactivada. Es possible que d'unas mesas a jorn sián problematicas.
 extensions-warning-update-security2 =
     .message = La verificacion de compatibilitat pels moduls complementaris es desactivada. Es possible que d'unas mesas a jorn sián problematicas.
 extensions-warning-update-security-button = Activar
@@ -227,10 +222,6 @@ shortcuts-duplicate = Acorchi en doble
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } es utilizat coma acorchi dins mai d'un cas. De acorchis en doble pòdon provocar un compòrtament inesperat.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } es utilizat coma acorchi dins mai d'un cas. De acorchis en doble pòdon provocar un compòrtament inesperat.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -250,20 +241,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Las extensions e los tèmas son coma d'aplicacions per vòstre navegador, e vos permeton de
-    protegir los senhals, telecargar de vidèos, trobar d'ofèrtas, blocar las publicitats tediosas,
-    cambiar l'aparéncia de vòstre navegador, e plan mai encara. Aquestes pichons logicials
-    son sovent desvolopats per un tèrç. Vaquí una seleccion que { -brand-product-name } 
-    
-    <a data-l10n-name="learn-more-trigger"> vos recomanda</a> per de  foncionalitats
-    de securitat e performanças excepcionalas.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    Unas d'aquestas recomandacions son personalizadas. Son basadas sus d'autras
-    extensions qu'avètz installadas, las preferéncias del perfil e las estatisticas d'utilizacion.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -331,16 +308,9 @@ addon-detail-last-updated-label = Darrièra mesa a jorn
 addon-detail-homepage-label = Pagina d’acuèlh
 addon-detail-rating-label = Apreciacion
 # Message for add-ons with a staged pending update.
-install-postponed-message = Aquesta extension serà mesa a jorn quand { -brand-short-name } reavirà.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Aquesta extension serà mesa a jorn quand { -brand-short-name } reavirà.
 install-postponed-button = Metre a jorn ara
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Notat { NUMBER($rating, maximumFractionDigits: 1) } sus 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -356,9 +326,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> es estat suprimit.
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -377,11 +344,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Autorizat en navegacion privada
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Autorizat en navegacion privada
 addon-detail-private-browsing-help = Quand es autorizada, l'extension a accès a vòstras activitats en linha pendent la navegacion privada. <a data-l10n-name="learn-more">Ne saber mai</a>
 addon-detail-private-browsing-allow = Autorizar
@@ -406,17 +368,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } recomanda pas que las extensions que respèctan nòstres estandards de seguretat e performança
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Extension oficiala creada per Mozilla. Seguís los estandards de seguretat e de performança.
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Aquesta extension foguèt repassada per complir los estandards de seguretat e performança.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -428,9 +379,6 @@ available-updates-heading = Mesas a jorn disponiblas
 recent-updates-heading = Mesas a jorn recentas
 release-notes-loading = Cargament…
 release-notes-error = Una error s'es produch en cargant las nòtas de version.
-addon-permissions-empty = Aquesta extension demanda pas cap d'autorizacion
-addon-permissions-required = Permissions requeridas per las foncionalitats principalas :
-addon-permissions-optional = Permissions opcionalas per las foncionalitats suplementàrias :
 addon-permissions-learnmore = Per ne saber mai sus las permissions
 recommended-extensions-heading = Extensions recomandadas
 recommended-themes-heading = Tèmas recomandats
@@ -464,36 +412,17 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } es incompatible amb { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } es incompatible amb { -brand-short-name } { $version }.
-details-notification-incompatible-link = Mai d'informacions
-details-notification-unsigned-and-disabled = { $name } a pas poput èsser verificat per son utilizacion dins { -brand-short-name } e foguèt desactivat.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } a pas poput èsser verificat per son utilizacion dins { -brand-short-name } e foguèt desactivat.
-details-notification-unsigned-and-disabled-link = Mai d'informacions
-details-notification-unsigned = { $name } a pas pogut èsser verificat per son utilizacion dins { -brand-short-name }. Fasètz atencion.
 details-notification-unsigned2 =
     .message = { $name } a pas pogut èsser verificat per son utilizacion dins { -brand-short-name }. Fasètz atencion.
 details-notification-hard-blocked-extension =
     .message = Aquesta extension es blocada, per enfranh las politicas de Mozilla e foguèt desactivada.
 details-notification-hard-blocked-other =
     .message = Aqueste modul es blocat, per enfranh las politicas de Mozilla e foguèt desactivat.
-details-notification-unsigned-link = Mai d'informacions
-details-notification-blocked = { $name } es estat desactivat en seguida de problèmas de seguretat o d'estabilitat.
 details-notification-blocked-link2 = Afichar los detalhs
-details-notification-soft-blocked-extension-disabled =
-    .message = Aquesta extension es restrencha a causa de violacion de las politicas de Mozilla e foguèt desactivada. La podètz activar, mas pòt èsser perilhós.
-details-notification-soft-blocked-extension-enabled =
-    .message = Aquesta extension viola las politicas de Mozilla. Son usatge es perilhós.
-details-notification-soft-blocked-other-disabled =
-    .message = Aqueste modul complementari es restrench a causa de violacion de las politicas de Mozilla e foguèt desactivat. Lo podètz activar, mas pòt èsser perilhós.
-details-notification-blocked-link = Mai d'informacions
-details-notification-softblocked = { $name } es conegut per provocar de problèmas de seguretat o d'estabilitat.
-details-notification-softblocked-link = Mai d'informacions
-details-notification-gmp-pending = { $name } serà installat lèu.
 details-notification-gmp-pending2 =
     .message = { $name } serà installat lèu.
 
@@ -509,7 +438,5 @@ plugins-widevine-description = Aqueste plugin permet la lectura de supòrts chif
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Collècta de donadas necessària :
-addon-permissions-optional-data-collection = Collècta de donadas opcionala :
 addon-permissions-data-collection-heading = Culhida de donadas
 addon-permissions-data-collection-empty = Lo desvolopaire d’aquesta extension a pas besonh de reculhir de donadas.

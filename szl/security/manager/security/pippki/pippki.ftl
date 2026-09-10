@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Jeżeś prawie w trybie FIPS, co potrzebuj
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Wynuluj głōwne hasło
     .style = min-width: 40em
+    .title = Wynuluj głōwne hasło
 reset-password-button-label =
     .label = Wynuluj
 reset-primary-password-text = Jak wynulujesz swoje głōwne hasło, to przepōmnōm sie wszyskie poschraniane hasła, dane formularōw, ôsobiste certyfikaty i prywatne klucze. Na zicher chcesz wynulować swoje głōwne hasło?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Twoje głōwne hasło je wynulowane
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Pobiyranie certyfikatu
     .style = min-width: 46em
+    .title = Pobiyranie certyfikatu
 download-cert-message = Prziszła prośba, coby wierzić nowymu wystowcy certyfikatōw (CA).
 download-cert-trust-ssl =
     .label = Wiyrz tymu CA przi poznowaniu strōn.
@@ -52,8 +52,6 @@ download-cert-view-text = Zbadej certyfikat CA
 
 client-auth-window =
     .title = Prośba ô idyntyfikacyjo używocza
-client-auth-site-description = Ta strōna kozała ci sie zidyntyfikować certyfikatym:
-client-auth-choose-cert = Ôbier, jakim certyfikatym chcesz sie zidyntyfikować:
 client-auth-cert-details = Detajle ôd ôbranego certyfikatu:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

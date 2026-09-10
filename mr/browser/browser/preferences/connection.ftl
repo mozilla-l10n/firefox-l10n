@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = जोडणी सेटिंग्स्
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = जोडणी सेटिंग्स्
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -51,19 +51,14 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = पुन्हा लोड करा
     .accesskey = e
-connection-proxy-autologin =
-    .label = पासवर्ड साठवले असल्यास ओळख पटविण्याकरिता विचारू नका
-    .accesskey = i
-    .tooltip = प्रॉक्सीजकरिता श्रेय अगोदर साठवले असल्यास, हे पर्याय आपली ओळख पटवते. ओळख पटवणे अपयशी ठरल्यास आपणास विचारले जाईल.
 connection-proxy-autologin-checkbox =
     .label = पासवर्ड साठवले असल्यास ओळख पटविण्याकरिता विचारू नका
-    .accesskey = i
     .tooltiptext = प्रॉक्सीजकरिता श्रेय अगोदर साठवले असल्यास, हे पर्याय आपली ओळख पटवते. ओळख पटवणे अपयशी ठरल्यास आपणास विचारले जाईल.
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = SOCKS v5 वापरताना DNS ची प्रॉक्सी करा
     .accesskey = d
 connection-dns-over-https-url-custom =
     .label = पसंतीचे
-    .accesskey = C
     .tooltiptext = HTTPS वरील DNS चे निराकरण करण्यासाठी URL प्रविष्ट करा
-connection-dns-over-https-custom-label = स्वपसंत
+    .accesskey = C

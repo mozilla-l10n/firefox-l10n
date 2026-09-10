@@ -185,5 +185,3 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Msaada
     .accesskey = M
-menu-help-report-site-issue =
-    .label = Ripoti suala la tovuti…

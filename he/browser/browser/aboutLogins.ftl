@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = כניסות וססמאות
-about-logins-login-filter =
-    .placeholder = חיפוש כניסות
-    .key = F
-create-new-login-button =
-    .title = יצירת כניסה חדשה
 about-logins-page-title-name = ססמאות
 about-logins-login-filter2 =
-    .placeholder = חיפוש ססמאות
     .key = F
+    .placeholder = חיפוש ססמאות
 create-login-button =
     .title = הוספת ססמה
 fxaccounts-sign-in-text = קבלת הססמאות שלך במכשירים האחרים שלך
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = ייבוא מדפדפן אחר…
 about-logins-menu-menuitem-import-from-a-file = ייבוא מקובץ…
-about-logins-menu-menuitem-export-logins = ייצוא כניסות…
-about-logins-menu-menuitem-remove-all-logins = הסרת כל הכניסות…
 about-logins-menu-menuitem-export-logins2 = ייצוא ססמאות…
 about-logins-menu-menuitem-remove-all-logins2 = הסרת כל הססמאות…
 menu-menuitem-preferences =
@@ -42,21 +34,6 @@ about-logins-menu-menuitem-help = עזרה
 
 login-list =
     .aria-label = כניסות התואמות לשאילתת החיפוש
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] כניסה אחת
-       *[other] { $count } כניסות
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $count } מתוך כניסה אחת
-       *[other] { $count } מתוך { $total } כניסות
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -80,14 +57,10 @@ login-list-username-reverse-option = שם משתמש (Z-A)
 about-logins-login-list-alerts-option = התרעות
 login-list-last-changed-option = שינוי אחרון
 login-list-last-used-option = שימוש אחרון
-login-list-intro-title = לא נמצאו כניסות
 login-list-intro-title2 = לא נשמרו ססמאות
 login-list-intro-description = ססמאות שיישמרו ב־{ -brand-product-name } יופיעו כאן.
-about-logins-login-list-empty-search-title = לא נמצאו כניסות
 about-logins-login-list-empty-search-title2 = לא נמצאו ססמאות
 about-logins-login-list-empty-search-description = אין תוצאות התואמות לחיפוש שלך.
-login-list-item-title-new-login = כניסה חדשה
-login-list-item-subtitle-new-login = נא להזין את פרטי הכניסה שלך
 login-list-item-title-new-login2 = הוספת ססמה
 login-list-item-subtitle-missing-username = (אין שם משתמש)
 about-logins-list-item-breach-icon =
@@ -103,28 +76,20 @@ about-logins-list-section-week = 7 הימים האחרונים
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = תהית איפה הכניסות השמורות שלך? ניתן לסנכרן או לייבא אותם.
-about-logins-login-intro-heading-logged-in = לא נמצאו כניסות מסונכרנות.
-login-intro-description = אם שמרת את הכניסות שלך ל־{ -brand-product-name } במכשיר אחר, כך ניתן לקבל אותן כאן:
-login-intro-instructions-fxa = יש ליצור חשבון או להתחבר ל{ -fxaccount-brand-name(case: "the") } שלך במכשיר שבו שמורות הכניסות שלך.
 about-logins-login-intro-heading-message = שמירת הססמאות שלך במקום בטוח
 login-intro-description2 = כל הססמאות הנשמרות ב־{ -brand-product-name } הינן מוצפנות. בנוסף, אנו עוקבים אחר דליפות נתונים מאתרים ומתריעים בפניך אם הושפעת מהן. <a data-l10n-name="breach-alert-link">מידע נוסף</a>
 login-intro-instructions-fxa2 = יש ליצור חשבון או להתחבר לחשבון שלך במכשיר שבו שמורות הכניסות שלך.
 login-intro-instructions-fxa-settings = יש לעבור להגדרות > סנכרון > הפעלת סנכרון… > יש לבחור בתיבת הסימון של כניסות וססמאות.
 login-intro-instructions-fxa-passwords-help = יש לבקר ב<a data-l10n-name="passwords-help-link">תמיכה עבור ססמאות</a> לקבלת עזרה נוספת.
-about-logins-intro-browser-only-import = אם הכניסות שלך שמורות בדפדפן אחר, באפשרותך <a data-l10n-name="import-link">לייבא אותם אל תוך { -brand-product-name }</a>
-about-logins-intro-import2 = אם הכניסות שלך שמורות מחוץ ל־{ -brand-product-name }, באפשרותך <a data-l10n-name="import-browser-link">לייבא אותם מדפדפן אחר</a> או <a data-l10n-name="import-file-link">מקובץ</a>
 about-logins-intro-import3 = יש ללחוץ על כפתור סמל הפלוס למעלה כדי להוסיף ססמה כעת. באפשרותך גם <a data-l10n-name="import-browser-link">לייבא ססמאות מדפדפן אחר</a> או <a data-l10n-name="import-file-link">מקובץ</a>.
 
 ## Login
 
-login-item-new-login-title = יצירת כניסה חדשה
 # Header for adding a password
 about-logins-login-item-new-login-title = הוספת ססמה
 login-item-edit-button = עריכה
 about-logins-login-item-remove-button = הסרה
 login-item-origin-label = כתובת אתר
-login-item-tooltip-message = יש לוודא שערך זה תואם לכתובת המדויקת של האתר אליו מתחברים.
 about-logins-origin-tooltip2 = יש להכניס את הכתובת המלאה ולוודא שהיא תואמת בדיוק לאתר שבו מתחברים לחשבון.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -144,7 +109,6 @@ login-item-password-conceal-checkbox =
     .aria-label = הסתרת ססמה
 login-item-copy-password-button-text = העתקה
 login-item-copied-password-button-text = הועתק!
-login-item-save-changes-button = שמירת שינויים
 about-logins-login-item-save-changes-button = שמירה
 login-item-save-new-button = שמירה
 login-item-cancel-button = ביטול
@@ -168,11 +132,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = כדי לערוך את הכניסה שלך, יש להזין את פרטי הכניסה שלך ל־Windows. פעולה זאת מסייעת בהגנה על אבטחת החשבונות שלך.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = לערוך את הכניסה השמורה
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -196,11 +155,6 @@ about-logins-copy-password-os-auth-dialog-message-win = כדי להעתיק את
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = להעתיק את הססמה השמורה
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = כדי לייצא את הכניסות שלך, יש להזין את פרטי הכניסה שלך ל־Windows. פעולה זאת מסייעת בהגנה על אבטחת החשבונות שלך.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = לייצא את הכניסות והססמאות השמורות
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = כדי לייצא את הססמאות שלך, יש להזין את פרטי הכניסה שלך ל־Windows. פעולה זאת מסייעת בהגנה על אבטחת החשבונות שלך.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -218,8 +172,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = ביטול
 confirmation-dialog-dismiss-button =
     .title = ביטול
-about-logins-confirm-remove-dialog-title = להסיר כניסה זו?
-confirm-delete-dialog-message = לא ניתן לבטל פעולה זו.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = להסיר ססמה?
 # Message for modal to confirm the removal of one saved password
@@ -234,34 +186,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] הסרה
         [one] הסרה
        *[other] הסרת הכל
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] כן, להסיר כניסה זו
-        [one] כן, להסיר כניסה זו
-       *[other] כן, להסיר כניסות אלו
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] להסיר כניסה אחת?
-       *[other] להסיר את כל { $count } הכניסות?
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] פעולה זו תסיר את הכניסה ששמרת ב־{ -brand-short-name } ואת כל ההתרעות על הדליפות שמופיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
-        [one] פעולה זו תסיר את הכניסה ששמרת ב־{ -brand-short-name } ואת כל ההתרעות על הדליפות שמופיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
-       *[other] פעולה זו תסיר את הכניסות ששמרת ב־{ -brand-short-name } ואת כל ההתרעות על הדליפות שמופיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] להסיר כניסה אחת מכל המכשירים?
-       *[other] להסיר את כל { $count } הכניסות מכל המכשירים?
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [1] פעולה זו תסיר את הכניסה ששמרת ב־{ -brand-short-name } בכל המכשירים המסונכרנים ל{ -fxaccount-brand-name(case: "the") } שלך. יוסרו גם ההתרעות על הדליפות שמופיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
-        [one] פעולה זו תסיר את הכניסה ששמרת ב־{ -brand-short-name } בכל המכשירים המסונכרנים ל{ -fxaccount-brand-name(case: "the") } שלך. יוסרו גם ההתרעות על הדליפות שמופיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
-       *[other] פעולה זו תסיר את כל הכניסות ששמרת ב־{ -brand-short-name } בכל המכשירים המסונכרנים ל{ -fxaccount-brand-name(case: "the") } שלך. יוסרו גם ההתרעות על הדליפות שמופיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -296,15 +220,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = ייצוא כניסות וססמאות
-about-logins-confirm-export-dialog-message = הססמאות שלך יישמרו כטקסט קריא (למשל BadP@ssw0rd) כך שכל מי שיכול לפתוח את הקובץ המיוצא, יוכל גם לצפות בו.
-about-logins-confirm-export-dialog-confirm-button = ייצוא…
 about-logins-confirm-export-dialog-title2 = הערה לגבי ייצוא ססמאות
 about-logins-confirm-export-dialog-message2 =
     בעת הייצוא, הססמאות שלך נשמרות בקובץ עם טקסט קריא.
     לאחר סיום השימוש בקובץ, אנו ממליצים למחוק אותו כדי שאחרים שמשתמשים במכשיר הזה לא יוכלו לראות את הססמאות שלך.
 about-logins-confirm-export-dialog-confirm-button2 = המשך עם הייצוא
-about-logins-alert-import-title = הייבוא הושלם
 about-logins-alert-import-message = הצגת סיכום מפורט על הייבוא
 confirm-discard-changes-dialog-title = האם להתעלם מהשינויים שלא נשמרו?
 confirm-discard-changes-dialog-message = כל השינויים שלא נשמרו יאבדו.
@@ -341,11 +261,6 @@ about-logins-error-message-default = אירעה שגיאה במהלך הניסי
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = ייצוא קובץ כניסות
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = logins.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = ייצוא ססמאות מ־{ -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -361,8 +276,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = ייבוא קובץ כניסות
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = ייבוא ססמאות אל { -brand-short-name }
 about-logins-import-file-picker-import-button = ייבוא
@@ -386,21 +299,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = הייבוא הושלם
-about-logins-import-dialog-items-added =
-    { $count ->
-        [one] <span>כניסות חדשות שנוספו:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>כניסות חדשות שנוספו:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-        [one] <span>כניסות קיימות שעודכנו:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>כניסות קיימות שעודכנו:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-        [one] <span>כניסות כפולות שנמצאו:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(לא יובאו)</span>
-       *[other] <span>כניסות כפולות שנמצאו:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(לא יובאו)</span>
-    }
 about-logins-import-dialog-items-added2 =
     { $count ->
         [one] <span>ססמאות חדשות שנוספו:</span> <span data-l10n-name="count">{ $count }</span>
@@ -436,13 +334,11 @@ about-logins-import-dialog-error-learn-more = מידע נוסף
 about-logins-import-dialog-error-try-import-again = ניסיון ייבוא חוזר…
 about-logins-import-dialog-error-cancel = ביטול
 about-logins-import-report-title = סיכום הייבוא
-about-logins-import-report-description = כניסות וססמאות יובאו אל { -brand-short-name }.
 about-logins-import-report-description2 = ססמאות יובאו אל { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = שורה { $number }
-about-logins-import-report-row-description-no-change = כפיל: התאמה מדויקת של כניסה קיימת
 about-logins-import-report-row-description-no-change2 = כפיל: התאמה מדויקת של רשומה קיימת
 about-logins-import-report-row-description-modified2 = רשומה קיימת עודכנה
 about-logins-import-report-row-description-added2 = נוספה ססמה חדשה
@@ -459,21 +355,6 @@ about-logins-import-report-row-description-error-missing-field = שגיאה: { $
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">כניסות חדשות נוספו</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">כניסות חדשות נוספו</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">כניסות קיימות עודכנו</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">כניסות קיימות עודכנו</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">כניסות כפולות</div> <div data-l10n-name="not-imported">(לא יובאו)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">כניסות כפולות</div> <div data-l10n-name="not-imported">(לא יובאו)</div>
-    }
 about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ססמה חדשה נוספה</div>

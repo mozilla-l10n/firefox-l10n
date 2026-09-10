@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = တပ်ဗ်အသစ်ဖွင့်
-newtab-settings-button =
-    .title = သင့်တပ်ဗ်အသစ်စာမျက်နှာအား ပြင်ဆင်မည်
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -50,7 +48,6 @@ newtab-search-box-search-button =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = ရှာဖွေရေးအင်ဂျင် ထည့်ပါ
-newtab-topsites-edit-topsites-header = ထိပ်တန်းဆိုက်ကို တည်းဖြတ်ရန်
 newtab-topsites-title-label = ခေါင်းစဉ်
 newtab-topsites-title-input =
     .placeholder = ခေါင်းစဉ် ရေးပါ
@@ -83,10 +80,6 @@ newtab-confirm-delete-history-p2 = ယခုလုပ်ဆောင်မှု
 newtab-menu-section-tooltip =
     .aria-label = မီနူးကို ဖွင့်ပါ
     .title = မီနူးကို ဖွင့်ပါ
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = ဆိုက်အားပြင်မည်
-    .title = ဆိုက်အားပြင်မည်
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -97,8 +90,6 @@ newtab-menu-dismiss = ပိတ်လိုက်ပါ
 newtab-menu-pin = တွယ်ရန်
 newtab-menu-unpin = တွယ်ဖြုတ်ရန်
 newtab-menu-delete-history = မှတ်တမ်းမှ ဖျက်ပါ
-newtab-menu-save-to-pocket = { -pocket-brand-name } သို့ သိမ်းရန်
-newtab-menu-delete-pocket = { -pocket-brand-name } မှ ပယ်ဖျက်ပါ
 
 ##
 
@@ -133,33 +124,15 @@ newtab-label-download = ဒေါင်းလုပ်
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = အပိုင်းကို ပယ်ဖျက်ပါ
-newtab-section-menu-expand-section = အပိုင်းတိုးချဲ့ပါ
-newtab-section-menu-manage-section = အပိုင်းများကိုစီမံရန်
-newtab-section-menu-manage-webext = အပိုနောက်တိုး စီမံခြင်း
-newtab-section-menu-add-topsite = ထိပ်တန်းဆိုက်များကို ပေါင်းထည့်ပါ
-newtab-section-menu-add-search-engine = ရှာဖွေရေးအင်ဂျင် ထည့်ပါ
-newtab-section-menu-move-up = အပေါ်သို့ ရွှေ့ပါ
-newtab-section-menu-move-down = အောက်သို့ ရွှေ့ပါ
 newtab-section-menu-privacy-notice = ကိုယ်ရေးကာကွယ်မှု သတိပေးချက်
 
 ## Section Headers.
 
 newtab-section-header-topsites = အများဆုံးသုံးဆိုက်များ
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } က အကြံပြုထားသည်
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = စတင် ချိတ်ဆက် လည်ပတ်လိုက်၊ သိပ်ကောင်းတဲ့ ဆောင်းပါးတွေ၊ ဗီဒီယိုတွေ နဲ့ ဒီတစ်လော သွားလည်ပတ်ထားတာ  သို့မဟုတ် စာမှတ်မှာ သိမ်းထားတဲ့ စာမျက်နှာတွေကို ဒီမှာ ပြသပေးပါမည်။
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = လူကြိုက်များခေါင်းစဉ်များ
-newtab-pocket-more-recommendations = ပိုများသောအကြံပြုချက်များ
-newtab-pocket-cta-button = { -pocket-brand-name } ကို ရယူပါ
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

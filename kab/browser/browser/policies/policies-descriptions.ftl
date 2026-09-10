@@ -39,7 +39,6 @@ policy-DisableBuiltinPDFViewer = Sens PDF.js, ameskan PDF usliɣ deg { -brand-sh
 policy-DisableDefaultBrowserAgent = Ad isewḥel imeggi n yiminig s wudem amezwer akken ur iteg ara kra. Ad yeddu kan deg Windows; inagrawen-nniḍen ur sɛin ara imeggi-a.
 policy-DisableDeveloperTools = Sewḥel anekcum ɣer ifecka n tneflit.
 policy-DisableFeedbackCommands = Sens tiludna akken ad aɣ-d-tazneḍ tikti-inek/inem seg wumuɣ n tallelt ( Azen-d tikti u mmel-aɣ-d ismal ur nemɛin ara).
-policy-DisableFirefoxAccounts = Sens tanfiwin yebnan ɣef { -fxaccount-brand-name }, ula d Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Sens imeẓla i d-yessuturen amiḍan, ula d amtawi.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -49,7 +48,6 @@ policy-DisableForgetButton = Sewḥel anekcum ɣer tqeffalt n usfaḍ n isefka.
 policy-DisableFormHistory = Ur ḥerrez ara azray n unadi d tferkit.
 policy-DisablePrimaryPasswordCreation = Ma ayagi d tidet, awal uffir agejdan ur yezmir ara ad yettwarnu.
 policy-DisablePasswordReveal = Ur ttaǧǧa ara awalen uffiren ad d-banen deg yinekcam yettwaskelsen.
-policy-DisablePocket2 = Sens tamahilt n usekles n isebtar web di { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Sens tunigin tusligt.
 policy-DisableProfileImport = Ad yessens taladna n wumuɣ yettaǧan akter n yisefka seg iminig-nniḍen.
 policy-DisableProfileRefresh = Kkes taqeffalt n usmiren { -brand-short-name } deg usebter about:support.
@@ -109,7 +107,6 @@ policy-PasswordManagerExceptions = Sewḥel { -brand-short-name } akken ur yesse
 policy-PDFjs = Sens neɣ swel PDF.js, ameskan PDF usliɣ deg { -brand-short-name }.
 policy-Permissions2 = Swel tisirag i tkamirat, asawaḍ, adig, ilɣa akked tɣuri tawurmant.
 policy-PictureInPicture = Rmed neɣ sens tugna deg tugna.
-policy-PopupBlocking = Sireg kra n ismal web ad skanayen Isfuyla udhimens wudem amezwer.
 policy-Preferences = Ad yesbadu daɣen ad iṣekkeṛ azal n tegrumma tasnawant n yismenyifen.
 policy-PromptForDownloadLocation = Suter anida ara ttwaskelsen yifuyla deg usader.
 policy-Proxy = Swel iɣewwaṛen n upṛuksi.

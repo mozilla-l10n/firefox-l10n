@@ -156,15 +156,10 @@ addon-sitepermission-host = A(z) { $host } webhelyengedélyei
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Minden kiegészítő tiltva van a csökkentett mód miatt.
-extensions-warning-check-compatibility = A kiegészítők kompatibilitásának vizsgálata tiltva van. Előfordulhat, hogy nem kompatibilis kiegészítői vannak.
-extensions-warning-safe-mode2 =
-    .message = Minden kiegészítő tiltva van a csökkentett mód miatt.
 extensions-warning-check-compatibility2 =
     .message = A kiegészítők kompatibilitásának vizsgálata tiltva van. Előfordulhat, hogy nem kompatibilis kiegészítői vannak.
 extensions-warning-check-compatibility-button = Engedélyezés
     .title = Kiegészítők kompatibilitási ellenőrzésének engedélyezése
-extensions-warning-update-security = A kiegészítők biztonsági vizsgálata tiltva van. A frissítések biztonsági kockázatot hordoznak.
 extensions-warning-update-security2 =
     .message = A kiegészítők biztonsági vizsgálata tiltva van. A frissítések biztonsági kockázatot hordoznak.
 extensions-warning-update-security-button = Engedélyezés
@@ -240,10 +235,6 @@ shortcuts-duplicate = Ismétlődő parancsikon
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = A { $shortcut } gyorsbillentyű több mint egy esetben van használva. Az ismétlődő gyorsbillentyűk váratlan viselkedést okozhatnak.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = A { $shortcut } gyorsbillentyű több mint egy esetben van használva. Az ismétlődő gyorsbillentyűk váratlan viselkedést okozhatnak.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -263,20 +254,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    A kiegészítők és témák olyanok, mint az alkalmazások a böngészője számára,
-    és segítségükkel megvédheti a jelszavait, videókat tölthet le, leárazásokat
-    találhat, blokkolhatja a zavaró hirdetéseket, módosíthatja a böngésző
-    kinézetét, és még sok mást is tehet. Ezek a kis programokat általában
-    harmadik felek készítik. Itt vagy egy válogatás, amelyet a { -brand-product-name }
-    a kivételes biztonságuk, teljesítményük és funkcionalitásuk miatt 
-    <a data-l10n-name="learn-more-trigger">javasol</a>.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    Ezen javaslatok egy része személyre szabott. Ennek alapja a telepített kiegészítői,
-    a profilbeállításai és a használati statisztikái.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -362,16 +339,9 @@ addon-detail-last-updated-label = Utoljára frissítve
 addon-detail-homepage-label = Honlap
 addon-detail-rating-label = Értékelés
 # Message for add-ons with a staged pending update.
-install-postponed-message = Ez a kiegészítő a { -brand-short-name } újraindításakor lesz frissítve.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Ez a kiegészítő a { -brand-short-name } újraindításakor lesz frissítve.
 install-postponed-button = Frissítés most
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Értékelés: { NUMBER($rating, maximumFractionDigits: 1) } az 5-ből
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -387,9 +357,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> has been removed.
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -408,11 +375,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Engedélyezett privát ablakokban
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Engedélyezett privát ablakokban
 addon-detail-private-browsing-help = Ha engedélyezve van, a kiegészítő hozzá fog férni az online tevékenységekhez privát böngészés közben. <a data-l10n-name="learn-more">További tudnivalók</a>
 addon-detail-private-browsing-allow = Engedélyezés
@@ -439,17 +401,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = A { -brand-product-name } csak olyan kiegészítőket ajánl, amelyek megfelelnek a biztonsági és a teljesítménybeli követelményeinknek.
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Hivatalos, a Mozilla által készített kiegészítő. Megfelel a biztonsági és teljesítményi előírásoknak.
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Megvizsgáltuk ezt a kiegészítőt, és megfelelt a biztonsági és a teljesítménybeli követelményeinknek.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -479,9 +430,6 @@ addon-permissions-heading = Jogosultságok
 addon-permissions-empty2 = Ez a kiegészítő nem igényel semmilyen engedélyt.
 addon-permissions-required-label = Kötelező:
 addon-permissions-optional-label = Nem kötelező:
-addon-permissions-empty = Ez a kiegészítő nem igényel semmilyen engedélyt
-addon-permissions-required = Az alapvető funkciókhoz szükséges engedélyek:
-addon-permissions-optional = A további funkciókhoz szükséges engedélyek:
 addon-permissions-learnmore = További tudnivalók az engedélyekről
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -522,25 +470,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = A(z) { $name } nem kompatibilis ezzel: { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = A(z) { $name } nem kompatibilis ezzel: { -brand-short-name } { $version }.
-details-notification-incompatible-link = További információk
-details-notification-unsigned-and-disabled = { $name } használhatósága nem ellenőrizhető a { -brand-short-name } programban, és le lett tiltva.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } használhatósága nem ellenőrizhető a { -brand-short-name } programban, és le lett tiltva.
-details-notification-unsigned-and-disabled-link = További információ
-details-notification-unsigned = { $name } használhatósága nem ellenőrizhető a { -brand-short-name } programban. Legyen óvatos.
 details-notification-unsigned2 =
     .message = { $name } használhatósága nem ellenőrizhető a { -brand-short-name } programban. Legyen óvatos.
 details-notification-hard-blocked-extension =
     .message = Ez a kiegészítő a Mozilla irányelveinek megsértése miatt blokkolva lett, és le lett tiltva.
 details-notification-hard-blocked-other =
     .message = Ez a kiegészítő a Mozilla irányelveinek megsértése miatt blokkolva lett, és le lett tiltva.
-details-notification-unsigned-link = További információ
-details-notification-blocked = A(z) { $name } le lett tiltva biztonsági vagy stabilitási problémák miatt.
 details-notification-blocked-link2 = Részletek megtekintése
 details-notification-soft-blocked-extension-disabled2 =
     .message = Ez a kiegészítő korlátozott, és le lett tiltva. Engedélyezheti, de ez kockázatos lehet.
@@ -550,19 +489,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = Ez a kiegészítő korlátozott, és le lett tiltva. Engedélyezheti, de ez kockázatos lehet.
 details-notification-soft-blocked-other-enabled2 =
     .message = Ez a kiegészítő korlátozott. Használata kockázatos lehet.
-details-notification-soft-blocked-extension-disabled =
-    .message = Ez a kiegészítő a Mozilla irányelveinek megsértése miatt korlátozva lett, és le lett tiltva. Engedélyezheti, de ez kockázatos lehet.
-details-notification-soft-blocked-extension-enabled =
-    .message = Ez a kiegészítő megsérti a Mozilla irányelveit. A használata kockázatos lehet.
-details-notification-soft-blocked-other-disabled =
-    .message = Ez a kiegészítő a Mozilla irányelveinek megsértése miatt korlátozva lett, és le lett tiltva. Engedélyezheti, de ez kockázatos lehet.
-details-notification-soft-blocked-other-enabled =
-    .message = Ez a kiegészítő megsérti a Mozilla irányelveit. A használata kockázatos lehet.
 details-notification-softblocked-link2 = Részletek megtekintése
-details-notification-blocked-link = További információ
-details-notification-softblocked = A(z) { $name } biztonsági vagy stabilitási problémát okoz.
-details-notification-softblocked-link = További információ
-details-notification-gmp-pending = { $name } hamarosan telepítésre kerül.
 details-notification-gmp-pending2 =
     .message = { $name } hamarosan telepítésre kerül.
 
@@ -578,8 +505,6 @@ plugins-widevine-description = Ez a bővítmény lehetővé teszi a titkosított
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Szükséges adatgyűjtés:
-addon-permissions-optional-data-collection = Nem kötelező adatgyűjtés:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Engedélyek és adatok
 # This is a description for extension that use this AI model

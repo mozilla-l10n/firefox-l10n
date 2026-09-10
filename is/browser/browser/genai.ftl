@@ -46,11 +46,6 @@ genai-prompt-prefix-selection = Ég er á síðunni „{ $tabTitle }“ með „
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Spyrja gervigreindarspjallkerfi
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Spyrja { $provider }
 genai-menu-open-generic =
     .label = Opna gervigreindarspjallkerfi
 # $provider (string) - name of the provider
@@ -99,8 +94,6 @@ genai-menu-choose-chatbot =
 genai-chatbot-title = Gervigreindarspjallkerfi
 genai-header-provider-menu =
     .title = Veldu spjallkerfi
-genai-header-options-button =
-    .title = Opna valmynd
 genai-header-close-button =
     .title = Loka
 genai-provider-view-details =
@@ -123,56 +116,23 @@ genai-page-button-summarize = Gera samantekt efnis á síðu
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Gerðu samantektir, fáðu hugmyndir og fleira um leið og þú vafrar
 genai-onboarding-choose-header = Veldu spjallþjón með gervigreind til að nota í hliðarstikunni { -brand-short-name }
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Veldu gervigreindar-spjallkerfi til að nota í { -brand-short-name } hliðarstikunni. Upplýsingar um hvert spjallkerfi munu birtast þegar þú velur það. Skiptu um kerfi hvenær sem er. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
 genai-onboarding-primary = Halda áfram
 genai-onboarding-secondary = Loka
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Frekari upplýsingar um Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Frekari upplýsingar um ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Frekari upplýsingar um Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Frekari upplýsingar um Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
-genai-onboarding-huggingchat-learn = Frekari upplýsingar um HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Frekari upplýsingar um Le Chat
-genai-onboarding-select-header = Veldu texta til að sjá tillögur
-genai-onboarding-select-description = Þegar þú velur texta munum við stinga upp á kvaðningum sem þú getur sent til spjallkerfisins. Þú getur líka skrifað í þínar eigin kvaðningar.
-genai-onboarding-select-primary = Byrjaðu að spjalla
 genai-chatbot-contextual-title = Notaðu gervigreindarspjallþjón án þess að skipta um flipa
 genai-chatbot-contextual-button = Veldu spjallkerfi
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Framleiddu texta og kóða
-genai-onboarding-claude-analyze = Greindu skjöl og myndir
-genai-onboarding-claude-price = Ókeypis og greiddir valkostir; reiknings er krafist
-genai-onboarding-chatgpt-generate = Framleiddu texta, myndir og kóða
-genai-onboarding-chatgpt-analyze = Greindu skjöl og myndir
-genai-onboarding-chatgpt-price = Ókeypis og greiddir valkostir; reiknings er krafist fyrir sum lönd og sumar gerðir verka
-genai-onboarding-copilot-generate = Framleiddu texta, myndir og kóða
-genai-onboarding-copilot-analyze = Greindu myndir
-genai-onboarding-copilot-price = Ókeypis og greiddir valkostir; reiknings er krafist fyrir sumar gerðir verka
-genai-onboarding-gemini-generate = Framleiddu texta, myndir og kóða
-genai-onboarding-gemini-analyze = Greindu myndir (ókeypis) og skjöl (kostar)
-genai-onboarding-gemini-price = Ókeypis og greiddir valkostir; reiknings er krafist
-genai-onboarding-huggingchat-generate = Framleiddu texta og kóða
-genai-onboarding-huggingchat-switch = Skiptu á milli fjölbreyttra opinna líkana
-genai-onboarding-huggingchat-price-2 = Ókeypis; reiknings er krafist eftir ákveðinn fjölda beiðna
-genai-onboarding-lechat-generate = Framleiddu texta og kóða
-genai-onboarding-lechat-price = Ókeypis; reiknings krafist
 
 ## Model Optin Component
 
@@ -202,8 +162,8 @@ link-preview-generation-error-unexpected = Eitthvað fór úrskeiðis.
 # Text for the retry link when generation fails
 link-preview-generation-retry = Reyna aftur
 link-preview-settings-enable =
-    .label = Virkja forskoðun tengla
     .description = Sjáðu titil á síðu, lýsingu og fleira þegar notaður er flýtilykill eða hægrismellt er á tengil.
+    .label = Virkja forskoðun tengla
 link-preview-settings-long-press =
     .label = Flýtileið: Smelltu og haltu inni tenglinum í 1 sekúndu (ýtt lengi)
 # Header for the key points section

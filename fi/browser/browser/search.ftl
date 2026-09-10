@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Oletushakukoneesi on muutettu.</strong> { $oldEngine } ei ole enää tarjolla oletushakukoneeksi { -brand-short-name }issa. { $newEngine } on nyt oletushakukoneesi. Voit vaihtaa toiseen oletushakukoneeseen siirtymällä asetuksiin. <label data-l10n-name="remove-search-engine-article">Lue lisää</label>
 removed-search-engine-message2 = <strong>Oletushakukoneesi on muutettu.</strong> { $oldEngine } ei ole enää tarjolla oletushakukoneeksi { -brand-short-name }issa. { $newEngine } on nyt oletushakukoneesi. Voit vaihtaa toiseen oletushakukoneeseen siirtymällä asetuksiin.
 remove-search-engine-button = OK
 
@@ -52,11 +51,11 @@ install-search-engine-no = Ei
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Lisää hakukone
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Muokkaa hakukonetta
     .style = min-width: 32em;
+    .title = Muokkaa hakukonetta
 add-engine-button = Lisää mukautettu hakukone
 add-engine-name = Hakukoneen nimi
 add-engine-url2 = URL-osoite, jossa hakusanan tilalla on %s
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Kokeile lisätä %s hakusanan paikalle.
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Lisää hakukone
-    .buttonaccesskeyaccept = A
     .buttonlabelextra1 = Lisäasetukset
+    .buttonaccesskeyaccept = A
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Tallenna hakukone
-    .buttonaccesskeyaccept = T
     .buttonlabelextra1 = Lisäasetukset
+    .buttonaccesskeyaccept = T

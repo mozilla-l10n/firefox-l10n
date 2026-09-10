@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Leggje til { $extension }?
-webext-perms-header-with-perms = Leggje til { $extension }? Denne utvidinga vil ha løyve til å:
-webext-perms-header-unsigned = Leggje til { $extension }? Denne utvidinga er ikkje stadfesta. Skadelege utvidingar kan stele privatopplysningane dine eller kompromittere datamaskina di. Legg berre til denne utvidinga om du stolar på kjelda.
-webext-perms-header-unsigned-with-perms = Leggje til { $extension }? Denne utvidinga er ikkje stadfesta. Skadelege utvidingar kan stele privatopplysningane dine eller kompromittere datamaskina di. Legg berre til denne utvidinga om du stolar på kjelda. Denne utvidinga vil ha løyve til å:
 webext-perms-sideload-header = { $extension } lagt til
 webext-perms-optional-perms-header2 = { $extension } ber om fleire løyve
-webext-perms-optional-perms-header = { $extension } ber om ytterlegare løyve.
 webext-perms-header2 = Legg til { $extension }
 webext-perms-list-intro-unsigned = Denne ikkje-stadfesta utvidinga kan sette personvernet ditt i fare eller kompromittere eininga di. Legg henne berre til dersom du stolar på kjelda.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } har vorte oppdatert. Du må godkjenne nye løyve før den oppdaterte versjonen vil bli installert. Vel du «Avbryt», vil du behalde gjeldande utvidingsversjonen.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } er oppdatert. Du må godkjenne nye løyve før den oppdaterte versjonen vil bli installert. Vel du «Avbryt», vil du behalde den noverande versjonen av utvidinga. Denne utvideinga vil ha løyve til å:
 webext-perms-update-accept =
     .label = Oppdater
     .accesskey = O
@@ -73,24 +65,8 @@ webext-perms-host-description-file-urls = Tilgang til lokale filer på datamaski
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Få tilgang til dine data frå nettstadar under { $domain }-domenet
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Få tilgang til dine data frå { $domainCount } anna domene
-       *[other] Få tilgang til dine data frå { $domainCount } andre domene
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Få tilgang til dine data for { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Få tilgang til dine data frå { $domainCount } annan nettstad
-       *[other] Få tilgang til dine data frå { $domainCount } andre nettstadar
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

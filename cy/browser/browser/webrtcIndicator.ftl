@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Dangosydd rhannu
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Dangosydd rhannu
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Rydych yn rhannu'ch meicroffon. Cliciwch i reoli rhannu.
 webrtc-screen-system-menu =
     .label = Rydych yn rhannu ffenestr neu sgrin. Cliciwch i reoli rhannu.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Mae eich camera a'ch meicroffon yn cael eu rhannu. Cliciwch i reoli'r rhannu.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Mae eich camera'n cael ei rannu. Cliciwch i reoli'r rhannu.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Mae eich meicroffon yn cael ei rannu. Cliciwch i reoli'r rhannu.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Mae rhaglen yn ei rannu. Cliciwch i reoli'r rhannu.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Mae eich sgrin yn cael ei rannu. Cliciwch i reoli'r rhannu.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Mae ffenestr yn cael ei rannu. Cliciwch i reoli'r rhannu.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Mae tab yn cael ei rannu. Cliciwch i reoli'r rhannu.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -209,7 +190,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Caniatáu i { $o
 
 webrtc-share-screen-warning = Rhannwch dim ond sgriniau â gwefannau rydych chi'n ymddiried ynddyn nhw. Gall rhannu ganiatáu i wefannau twyllodrus bori fel taw chi sydd wrthi a dwyn eich data preifat.
 webrtc-share-browser-warning = Rhannwch { -brand-short-name } dim ond gyda gwefannau rydych yn ymddiried ynddyn nhw. Gall rhannu ganiatáu i wefannau twyllodrus bori fel taw chi sydd wrthi a dwyn eich data preifat.
-webrtc-share-screen-learn-more = Darllen rhagor
 webrtc-pick-window-or-screen = Dewiswch Ffenestr neu Sgrin
 webrtc-share-entire-screen = Sgrin gyfan
 webrtc-share-pipe-wire-portal = Defnyddio gosodiadau'r system weithredu

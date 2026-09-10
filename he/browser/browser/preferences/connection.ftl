@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = הגדרות חיבור
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = הגדרות חיבור
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = טעינה מחדש
     .accesskey = ט
-connection-proxy-autologin =
-    .label = לא לבקש ססמת הזדהות אם נשמרה הססמה
-    .accesskey = ס
-    .tooltip = אפשרות זו מבצעת הזדהות שקטה מול שרתים מתווכים כאשר נשמרו פרטי ההתחברות עבורם. בקשת ההזדהות תופיע אם האימות נכשל.
 connection-proxy-autologin-checkbox =
     .label = לא לבקש ססמת הזדהות אם נשמרה הססמה
-    .accesskey = ס
     .tooltiptext = אפשרות זו מבצעת הזדהות שקטה מול שרתים מתווכים כאשר נשמרו פרטי ההתחברות עבורם. בקשת ההזדהות תופיע אם האימות נכשל.
+    .accesskey = ס
 connection-proxy-socks4-remote-dns =
     .label = שימוש ב־DNS דרך מתווך בעת שימוש ב־SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = שימוש בכתובת ברירת המחדל כדי לפתור שאילתות DNS על גבי HTTPS
 connection-dns-over-https-url-custom =
     .label = מותאם אישית
-    .accesskey = א
     .tooltiptext = נא להקליד את הכתובת המועדפת עליך לפתרון DNS על גבי HTTPS
-connection-dns-over-https-custom-label = מותאם אישית
+    .accesskey = א

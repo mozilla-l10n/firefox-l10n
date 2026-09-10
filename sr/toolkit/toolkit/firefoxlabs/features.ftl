@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Омогућите Warp, што по
 experimental-features-ime-search =
     .label = Трака за адресу: приказуј резултате током IME уноса
 experimental-features-ime-search-description = IME (уређивач методе уноса) је алатка која вам омогућава да унесете сложене симболе, попут оних из источноазијских или индијских писама, користећи стандардну тастатуру. Омогућавањем овог експеримента, панел са траке за адресу ће остати отворен, а резултате претраживања и предлоге добићете ако користите IME за унос текста. Имајте на уму да IME може приказати панел који заклања резултате у адресној траци, па се ово подешавање препоручује само за IME који не користе ову врсту панела.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Слика у слици: аутоматско отварање при промени језичка
-experimental-features-auto-pip-description = Омогућите слику у слици на активним видео снимцима приликом промене језичака.
 experimental-features-group-developer-tools =
     .label = Алати за програмере
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Продуктивност
 experimental-features-group-newtab-widgets =
     .label = Елементи на { -firefox-home-brand-name }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Лозинке у бочној траци
-experimental-features-contextual-password-manager-description = Приступите својим лозинкама директно из бочне траке. Нема више претраживања или ресетовања лозинки када покушавате да се пријавите. Да бисте користили ову функцију, изаберите лозинке у бочној траци. Затим идите на општа подешавања и под изгледом прегледача изаберите „прикажи бочну траку”. Затим прилагодите своју бочну траку избором лозинки. Ако је испробате, <a data-l10n-name="connect">јавите нам шта мислите</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Изаберите сопствену позадину или боју за нови језичак

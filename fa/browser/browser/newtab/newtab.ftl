@@ -6,18 +6,8 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = زبانهٔ جدید
-newtab-settings-button =
-    .title = صفحهٔ زبانهٔ جدید را سفارشی کنید
-newtab-personalize-settings-icon-label =
-    .aria-label = تنظیمات
-    .title = شخصی‌سازی زبانه جدید
 newtab-settings-dialog-label =
     .aria-label = تنظیمات
-newtab-personalize-icon-label =
-    .aria-label = شحصی‌سازی زبانهٔ جدید
-    .title = شحصی‌سازی زبانهٔ جدید
-newtab-personalize-dialog-label =
-    .aria-label = شخصی‌سازی
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 
@@ -99,7 +89,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = افزودن موتور جستجو
 newtab-topsites-add-shortcut-header = میانبر جدید
-newtab-topsites-edit-topsites-header = ویرایش سایت برتر
 newtab-topsites-edit-shortcut-header = ویرایش میانبر
 newtab-topsites-add-shortcut-label = افزودن میان‌بر
 newtab-topsites-add-shortcut-title =
@@ -141,20 +130,12 @@ newtab-topsite-sponsored = حمایت شده
 newtab-menu-section-tooltip =
     .aria-label = باز کردن منو
     .title = باز کردن منو
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = حذف
-    .title = حذف
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = بازکردن فهرست زمینه برای { $title }
     .title = باز کردن منو
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = ویرایش این وبگاه
-    .title = ویرایش این وبگاه
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -165,24 +146,9 @@ newtab-menu-dismiss = رد کردن
 newtab-menu-pin = سنجاق کردن
 newtab-menu-unpin = جدا کردن
 newtab-menu-delete-history = حذف از تاریخچه
-newtab-menu-save-to-pocket = ذخیره‌سازی در { -pocket-brand-name }
-newtab-menu-delete-pocket = حذف از { -pocket-brand-name }
-newtab-menu-archive-pocket = آرشیو در { -pocket-brand-name }
 newtab-menu-show-privacy-info = حامیان ما و حریم خصوصی شما
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = بیشتر بدانید
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = انجام شد
-newtab-privacy-modal-button-manage = مدیریتِ تنظیماتِ محتوای مورد حمایت
-newtab-privacy-modal-header = حریم خصوصی شما اهمیت دارد.
-newtab-privacy-modal-paragraph-2 =
-    ما علاوه بر نمایش داستان‌های جذاب، محتوای کاملا تایید شده و مرتبط،
-    از حامیان مالی خود را نمایش خواهیم داد. مطمئن باشید، <strong>داده‌های مرور شما
-    هیچ‌وقت نسخهٔ شخصی { -brand-product-name } فایرفاکس شما را ترک نمی‌کنند</strong> — ما آن را نمی‌بینیم، و ما
-    حامیان مالی‌مان هم نخواهند دید.
-newtab-privacy-modal-link = در مورد حریم خصوصی در برگهٔ جدید بیاموزید
 
 ##
 
@@ -236,39 +202,16 @@ newtab-label-source-read-time = { $source } · { $timeToRead } دقیقه
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = حذف قسمت
-newtab-section-menu-collapse-section = جمع کردن قسمت
-newtab-section-menu-expand-section = باز کردن قسمت
-newtab-section-menu-manage-section = مدیریت قسمت
-newtab-section-menu-manage-webext = مدیریت افزودنی
-newtab-section-menu-add-topsite = اضافه کردن سایت برتر
-newtab-section-menu-add-search-engine = افزودن موتور جست‌وجو
-newtab-section-menu-move-up = جابه‌جایی به بالا
-newtab-section-menu-move-down = جابه‌جایی به پایین
 newtab-section-menu-privacy-notice = نکات حریم‌خصوصی
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = جمع‌کردن بخش
-newtab-section-expand-section-label =
-    .aria-label = باز کردن بخش
 
 ## Section Headers.
 
 newtab-section-header-topsites = سایت‌های برتر
 newtab-section-header-recent-activity = فعالیت‌های اخیر
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = پیشنهاد شده توسط { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = مرور کردن را شروع کنید و شاهد تعداد زیادی مقاله، فیلم و صفحات خوبی باشید که اخیر مشاهده کرده اید یا نشانگ گذاری کرده اید.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = فعلاً تمام شد. بعداً دوباره سر بزن تا مطالب جدیدی از { $provider } ببینی. نمی‌توانی صبر کنی؟ یک موضوع محبوب را انتخاب کن تا مطالب جالب مرتبط از سراسر دنیا را پیدا کنی.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -279,23 +222,6 @@ newtab-discovery-empty-section-topstories-loading = در حال بارگذاری
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = آخ! ما تقریباً این بخش را بارگذاری کرده بودیم، اما کامل نیست.
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = موضوع‌های محبوب:
-newtab-pocket-new-topics-title = مطالب بیشتری می‌خواهید؟ موضوعات پرطرفدار را در { -pocket-brand-name } ببینید
-newtab-pocket-more-recommendations = توصیه‌های بیشتر
-newtab-pocket-learn-more = اطلاعات بیشتر
-newtab-pocket-cta-button = دریافت { -pocket-brand-name }
-newtab-pocket-cta-text = مطالبی که دوست دارید را در { -pocket-brand-name } ذخیره کنید، و به ذهن خود با مطالب فوق‌العاده انرژی بدهید.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } بخشی از خانوادهٔ { -brand-product-name } است
-newtab-pocket-save = ذخیره
-newtab-pocket-saved = ذخیره شد
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = بهترین‌های وب را کشف کنید
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -304,8 +230,6 @@ newtab-error-fallback-refresh-link = برای تلاش مجدد صفحه را ن
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = میانبرها
-newtab-custom-shortcuts-subtitle = وب‌سایت‌هایی که ذخیره یا بازدید می‌کنید
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = وب‌سایت‌هایی که ذخیره یا بازدید می‌کنید
@@ -321,24 +245,9 @@ newtab-custom-row-selector2 =
             [one] { $num } ردیف
            *[other] { $num } ردیف
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } ردیف
-       *[other] { $num } ردیف
-    }
-newtab-custom-sponsored-sites = میانبرهای حمایت شده
-newtab-custom-pocket-title = توصیه‌های { -pocket-brand-name }
-newtab-custom-pocket-subtitle = محتوای استثنایی که توسط { -pocket-brand-name }، بخشی از خانواده { -brand-product-name } جمع‌آوری شده‌اند.
-newtab-custom-pocket-sponsored = محتواهایی از حامیان مالی
-newtab-custom-pocket-show-recent-saves = نمایش ذخیره‌های اخیر
-newtab-custom-recent-title = فعالیت‌های اخیر
-newtab-custom-recent-subtitle = منتخبی از سایت‌ها و مطالب اخیر
 newtab-custom-weather-toggle =
     .description = پیش‌بینی آب و هوای امروز به طور خلاصه
     .label = آب و هوا
-newtab-custom-close-button = بستن
 newtab-custom-settings = مدیریت تنظیمات بیشتر
 
 ## New Tab Wallpapers

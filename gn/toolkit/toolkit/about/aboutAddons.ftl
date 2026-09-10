@@ -155,15 +155,10 @@ addon-sitepermission-host = Tenda ñemoneĩ { $host } peg̃uarã
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Opaite moĩmbaha oñemongepáma teko jerovia rupi.
-extensions-warning-check-compatibility = Ojueheguáva jehechajey moĩmbaha reheguáva oñemongéma. Ikatu oguereko heta juehegua’ỹva.
-extensions-warning-safe-mode2 =
-    .message = Opaite moĩmbaha oñemongepáma teko jerovia rupi.
 extensions-warning-check-compatibility2 =
     .message = Ojueheguáva jehechajey moĩmbaha reheguáva oñemongéma. Ikatu oguereko heta juehegua’ỹva.
 extensions-warning-check-compatibility-button = Myandy
     .title = Ojueheguáva jehechajey moĩmbaha reheguáva myandy
-extensions-warning-update-security = Tekorosãrã jehechajey moĩmbaha rehegua oñemongéma. Ikatu ehecha nde rekorosãrã oñembyaikuaáva embohekopyahu aja.
 extensions-warning-update-security2 =
     .message = Tekorosãrã jehechajey moĩmbaha rehegua oñemongéma. Ikatu ehecha nde rekorosãrã oñembyaikuaáva embohekopyahu aja.
 extensions-warning-update-security-button = Myandy
@@ -239,10 +234,6 @@ shortcuts-duplicate = Jeike pya’eha imokõiva
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = Pe { $shortcut } ojeporuhína mbopya’eháramo heta jey. Pe jeike pya’eha ikõiva ikatu ojapo mba’e eha’ãrõ’ỹva.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = Pe { $shortcut } ojeporuhína mbopya’eháramo heta jey. Pe jeike pya’eha ikõiva ikatu ojapo mba’e eha’ãrõ’ỹva.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -262,11 +253,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Umi jepysokue ha téma ha’e tembiporu’i kundahápe g̃uarã ha omo’ã ñe’ẽñemi, ta’ãngamýi ñemboguejy, joguarã jejuhu, maranduñemurã jejoko, kundahára rova ñemoambue ha hetave mba’e. Mbohapyhaguáva hetave jey umi omoheñóiva software. Rome’ẽ jeporavorã { -brand-product-name } <a data-l10n-name="learn-more-trigger">je’eporãpy</a> tekorosãme, apopyre ha tembiaporape ijojaha’ỹva.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Heta ko’ã ñe’ẽporã ha’e ñemomba’epyre. Ojehecha ambue jepysokue ñemohendapyre, ne mba’ete erohoryvéva ha ijeporukue.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message = Heta ko’ã ñe’ẽporã ha’e ñemomba’epyre. Ojehecha ambue jepysokue ñemohendapyre, ne mba’ete erohoryvéva ha ijeporukue.
@@ -345,16 +331,9 @@ addon-detail-last-updated-label = Mbohekopyahu paha
 addon-detail-homepage-label = Kuatiarogue ñepyrũha
 addon-detail-rating-label = Jeporavopy
 # Message for add-ons with a staged pending update.
-install-postponed-message = Ko jepysokue hekopyahúta emoñepyrũjeývo { -brand-short-name }.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Ko jepysokue hekopyahúta emoñepyrũjeývo { -brand-short-name }.
 install-postponed-button = Embohekopyahu ko’ág̃a
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Mbopapapyre { NUMBER($rating, maximumFractionDigits: 1) } 5 peve
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -370,9 +349,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = Oñemboguete <span data-l10n-name="addon-name">{ $addon }</span>.
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -391,11 +367,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Ovetã ñemíme moneĩmbyre
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Ovetã ñemíme moneĩmbyre
 addon-detail-private-browsing-help = Hendy jave, pe jepysokue ikatu oike ejapóva guivépe eikundaha ñemi aja. <a data-l10n-name="learn-more">Eikuaave</a>
 addon-detail-private-browsing-allow = Moneĩ
@@ -422,17 +393,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } omoneĩ jepysokue oguerekóva tekorosã ha tembiapokue
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Jepysokue Mozilla ojapopyréva. Orekopaite tekorosã ha ha’eve
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Ko jepysokue ojehechajey oguerekópa tekorosã ha oikoporãpa.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -462,9 +422,6 @@ addon-permissions-heading = Ñemoneĩ
 addon-permissions-empty2 = Ko moĩmbaha noikotevẽi ñemoneĩre.
 addon-permissions-required-label = Tekotevẽva:
 addon-permissions-optional-label = Poravokuaáva:
-addon-permissions-empty = Ko jepysokue noikotevẽi ñemoneĩ
-addon-permissions-required = Ñemoneĩ tekotevẽva tembiapoite ha’etévape g̃uarã:
-addon-permissions-optional = Ñemoneĩ potapýva tembiapoite jopoiguápe g̃uarã:
 addon-permissions-learnmore = Eikuaave ñemoneĩ rehegua
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -505,25 +462,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } ndojokupytýi { -brand-short-name } { $version } ndive.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } ndojokupytýi { -brand-short-name } { $version } ndive.
-details-notification-incompatible-link = Eñemomaranduve
-details-notification-unsigned-and-disabled = { $name } ndaikatúi ojehechajey ojeporu hag̃ua { -brand-short-name }-pe ha oñemongéma.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } ndaikatúi ojehechajey ojeporu hag̃ua { -brand-short-name }-pe ha oñemongéma.
-details-notification-unsigned-and-disabled-link = Maranduve
-details-notification-unsigned = { $name } ndaikatúi ojehechajey ojeporu hag̃ua { -brand-short-name }-pe. Ejesareko porãke hese.
 details-notification-unsigned2 =
     .message = { $name } ndaikatúi ojehechajey ojeporu hag̃ua { -brand-short-name }-pe. Ejesareko porãke hese.
 details-notification-hard-blocked-extension =
     .message = Ko jepysokue ojejokóma omomarã haguére Mozilla porureko ha upévare ojeipe’áma.
 details-notification-hard-blocked-other =
     .message = Ko moĩmbaha ojejokóma omomarã haguére Mozilla porureko ha upévare ojeipe’áma.
-details-notification-unsigned-link = Maranduve
-details-notification-blocked = { $name } oñemongéma oguereko rupi apañuái tekorosãrã térã tekopytápe.
 details-notification-blocked-link2 = Mba’emimi jehechauka
 details-notification-soft-blocked-extension-disabled2 =
     .message = Ko jepysokue ojejokóma ha upévare ojeipe’áma. Ikatu emyandy jey, hákatu iñapañuaikuaa.
@@ -533,19 +481,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = Ko moĩmbaha ojejokóma ha upévare ojeipe’áma. Ikatu emyandy jey, hákatu iñapañuaikuaa.
 details-notification-soft-blocked-other-enabled2 =
     .message = Ko jepysokue ojejokóma. Eiporúramo imarãkuaa.
-details-notification-soft-blocked-extension-disabled =
-    .message = Ko jepysokue ojejokóma omomarãre Mozilla porureko ha upévare ojeipe’áma. Ikatu emyandy jey, hákatu iñapañuaikuaa.
-details-notification-soft-blocked-extension-enabled =
-    .message = Ko jepysokue omomarã Mozilla porureko. Eiporúramo ikatu noĩporãi.
-details-notification-soft-blocked-other-disabled =
-    .message = Ko moĩmbaha ojejokóma omomarãre Mozilla porureko ha upévare ojeipe’áma. Ikatu emyandy jey, hákatu iñapañuaikuaa.
-details-notification-soft-blocked-other-enabled =
-    .message = Ko moĩmbaha omomarã Mozilla porureko. Eiporúramo ikatu noĩporãi.
 details-notification-softblocked-link2 = Mba’emimi jehechauka
-details-notification-blocked-link = Maranduve
-details-notification-softblocked = Ojeikuaa { $name } omoapañuaiha tekorosã térã tekoporã.
-details-notification-softblocked-link = Maranduve
-details-notification-gmp-pending = { $name } oñemohendáta sapy’aitépe.
 details-notification-gmp-pending2 =
     .message = { $name } oñemohendáta sapy’aitépe.
 
@@ -561,8 +497,6 @@ plugins-widevine-description = Ko mboguejyrã’i omoneĩta ipapapy kañýva ñe
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Mba’ekuaarã ñembyaty tekotevẽva:
-addon-permissions-optional-data-collection = Mba’ekuaarã ñembyaty eipotáronte:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Ñemoneĩ ha mba’ekuaarã
 # This is a description for extension that use this AI model

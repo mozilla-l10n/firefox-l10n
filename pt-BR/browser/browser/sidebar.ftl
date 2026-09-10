@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = Limpar histórico
 sidebar-history-sort-by-heading-menucaption =
     .label = Ordenar por:
-sidebar-history-sort-by-heading = Ordenar por:
 sidebar-history-sort-option-date =
     .label = Data
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Extensões do painel lateral
-sidebar-customize-firefox-tools-header =
-    .label = Ferramentas do { -brand-product-name }
 sidebar-customize-firefox-settings = Gerenciar configurações do { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Abas na vertical
 sidebar-settings2 =
     .label = Configurações
-sidebar-settings =
-    .label = Configurações do painel lateral
 sidebar-hide-tabs-and-sidebar =
     .label = Ocultar abas e o painel lateral
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Gerenciar extensão
-sidebar-context-menu-remove-extension =
-    .label = Remover extensão
 sidebar-context-menu-report-extension =
     .label = Denunciar extensão
 sidebar-context-menu-open-in-tab =

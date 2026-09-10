@@ -8,8 +8,5 @@ label-interventions = التدخلات القصرية
 # Variables:
 #   $bug (string) - Bug number
 label-more-information = معلومات أكثر: العلّة { $bug }
-label-overrides = تجاوزات وكيل المستخدم
 text-disabled-in-about-config = عُطّلت هذه الميزة من about:config
 text-no-interventions = ما من تدخلات قصرية تُستخدم حاليًا
-text-no-overrides = ما من تجاوزات لوكيل المستخدم تُستخدم حاليًا
-text-title = about:compat

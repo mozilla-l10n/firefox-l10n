@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Απόκρυψη κλε
 about-webrtc-aec-logging-msg-label = Καταγραφή AEC
 about-webrtc-aec-logging-off-state-label = Έναρξη καταγραφής AEC
 about-webrtc-aec-logging-on-state-label = Διακοπή καταγραφής AEC
-about-webrtc-aec-logging-on-state-msg = Καταγραφή AEC ενεργή (μιλήστε με τον καλών για λίγα λεπτά και μετά σταματήστε την καταγραφή)
 about-webrtc-aec-logging-toggled-on-state-msg = Καταγραφή AEC ενεργή (μιλήστε με τον καλών για λίγα λεπτά και μετά σταματήστε την καταγραφή)
 about-webrtc-aec-logging-unavailable-sandbox = Απαιτείται η μεταβλητή περιβάλλοντος «MOZ_DISABLE_CONTENT_SANDBOX=1» για την εξαγωγή αρχείων καταγραφής AEC. Ορίστε αυτήν τη μεταβλητή μόνο εάν κατανοείτε τους πιθανούς κινδύνους.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Υποψήφια
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Επιλεγμένα
 about-webrtc-save-page-label = Αποθήκευση σελίδας
-about-webrtc-debug-mode-msg-label = Λειτουργία ελέγχου σφαλμάτων
-about-webrtc-debug-mode-off-state-label = Έναρξη λειτουργίας ελέγχου σφαλμάτων
-about-webrtc-debug-mode-on-state-label = Διακοπή λειτουργίας ελέγχου σφαλμάτων
-about-webrtc-stats-heading = Στατιστικά συνεδρίας
 about-webrtc-enable-logging-label = Ενεργοποίηση προεπιλογής καταγραφής WebRTC
 about-webrtc-peerconnections-section-heading = Στατιστικά RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = Εμφάνιση στατιστικών RTCPeerConnection
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = Απόκρυψη στατιστ�
 about-webrtc-stats-clear = Απαλοιφή ιστορικού
 about-webrtc-log-heading = Αρχείο καταγραφής σύνδεσης
 about-webrtc-log-clear = Απαλοιφή αρχείου καταγραφής
-about-webrtc-log-show-msg = εμφάνιση αρχείου καταγραφής
-    .title = κάντε κλικ για επέκταση ενότητας
-about-webrtc-log-hide-msg = απόκρυψη αρχείου καταγραφής
-    .title = κάντε κλικ για σύμπτυξη ενότητας
 about-webrtc-log-section-show-msg = Εμφάνιση αρχείου καταγραφής
     .title = Κάντε κλικ για επέκταση ενότητας
 about-webrtc-log-section-hide-msg = Απόκρυψη αρχείου καταγραφής
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Απομακρυσμένος υποψήφιος
 about-webrtc-raw-candidates-heading = Όλοι οι ανεπεξέργαστοι υποψήφιοι
 about-webrtc-raw-local-candidate = Ανεπεξέργαστος τοπικός υποψήφιος
 about-webrtc-raw-remote-candidate = Ανεπεξέργαστος απομακρυσμένος υποψήφιος
-about-webrtc-raw-cand-show-msg = εμφάνιση ανεπεξέργαστων υποψήφιων
-    .title = κάντε κλικ για επέκταση ενότητας
-about-webrtc-raw-cand-hide-msg = απόκρυψη ανεπεξέργαστων υποψήφιων
-    .title = κάντε κλικ για σύμπτυξη ενότητας
 about-webrtc-raw-cand-section-show-msg = Εμφάνιση ανεπεξέργαστων υποψήφιων
     .title = Κάντε κλικ για επέκταση ενότητας
 about-webrtc-raw-cand-section-hide-msg = Απόκρυψη ανεπεξέργαστων υποψήφιων
     .title = Κάντε κλικ για σύμπτυξη ενότητας
 about-webrtc-priority = Προτεραιότητα
-about-webrtc-fold-show-msg = εμφάνιση λεπτομερειών
-    .title = κάντε κλικ για επέκταση ενότητας
-about-webrtc-fold-hide-msg = απόκρυψη λεπτομερειών
-    .title = κάντε κλικ για σύμπτυξη ενότητας
 about-webrtc-fold-default-show-msg = Εμφάνιση λεπτομερειών
     .title = Κάντε κλικ για επέκταση ενότητας
 about-webrtc-fold-default-hide-msg = Απόκρυψη λεπτομερειών
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Παρέχεται
 # been provided
 about-webrtc-configuration-element-not-provided = Δεν παρέχεται
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Προτιμήσεις χρήστη για το WebRTC
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Tροποποιημένη διαμόρφωση WebRTC χρήστη
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Στατιστικά καρέ βίντεο - MediaStreamTrack ID: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = η σελίδα αποθηκεύτηκε στη διαδρομή: { $path }
-about-webrtc-debug-mode-off-state-msg = το αρχείο πληροφοριών μπορεί να βρεθεί στο: { $path }
-about-webrtc-debug-mode-on-state-msg = κατάσταση ελέγχου σφαλμάτων ενεργή, αρχείο καταγραφής στο: { $path }
-about-webrtc-aec-logging-off-state-msg = τα αρχεία καταγραφής μπορούν να βρεθούν στο: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

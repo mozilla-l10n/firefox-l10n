@@ -11,23 +11,6 @@
 
 protections-panel-blocking-label = हेंथा होबाय
 
-## In the Site Not Working? view, we suggest turning off protections if
-## the user is experiencing issues with any of a variety of functionality.
-
-protections-panel-site-not-working-view-issue-list-forms = फर्मफोर
-protections-panel-site-not-working-view-issue-list-videos = भिडिअफोर
-
-##
-
-protections-panel-content-blocking-breakage-report-view-collection-url = URL
-protections-panel-content-blocking-breakage-report-view-collection-url-label =
-    .aria-label = URL
-protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = नेवसि
-
-# Cookie Banner Handling
-
-
 ## Protections panel info message
 
 cfr-protections-panel-link-text = गोबां सोलों

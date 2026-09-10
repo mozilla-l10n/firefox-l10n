@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = «{ -brand-short-name }»-ро дар да�
 default-browser-prompt-message-pin-msix = «{ -brand-short-name }»-ро дар дасти худ нигоҳ доред — онро ҳамчун браузери пешфарз истифода баред ва ба навори вазифаи худ ва менюи «Оғоз» васл кунед.
 default-browser-prompt-message-pin-mac = «{ -brand-short-name }»-ро дар дасти худ нигоҳ доред — онро ҳамчун браузери пешфарз истифода баред ва ба мустақари худ ҷойгир кунед.
 default-browser-prompt-button-primary-set = Гузоштан ҳамчун браузери асосӣ
-default-browser-prompt-button-primary-pin = Ҳамчун браузери асосӣ истифода бурда шавад
 default-browser-prompt-title-alt = Браузери «{ -brand-short-name }»-ро ҳамчун браузери пешфарз таъин мекунед?
 default-browser-prompt-message-alt = Ҳар вақте ки шумо бо Интернет кор мекунед, суръат, амният ва махфиятро ба даст оред.
 default-browser-prompt-button-primary-alt = Гузоштан ҳамчун браузери пешфарз

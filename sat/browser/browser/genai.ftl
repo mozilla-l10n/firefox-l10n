@@ -42,11 +42,6 @@ genai-prompt-prefix-selection = ᱤᱧ ᱥᱟᱦᱴᱟ ᱨᱮ ᱢᱤᱱᱟᱹᱧ
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = AI ᱪᱟᱴᱵᱚᱴ ᱠᱩᱞᱤ ᱮᱢ
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = { $provider } ᱠᱩᱞᱤ ᱮᱢ
 genai-input-ask-generic =
     .placeholder = AI ᱪᱟᱴᱵᱚᱴ ᱠᱩᱞᱤ ᱮᱢ …
 # $provider (string) - name of the provider
@@ -60,8 +55,6 @@ genai-shortcuts-hide =
 genai-chatbot-title = AI ᱪᱟᱴᱵᱚᱴ
 genai-header-provider-menu =
     .title = ᱢᱤᱫᱴᱟᱝ ᱪᱟᱴᱵᱚᱴ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
-genai-header-options-button =
-    .title = ᱢᱮᱱᱩ ᱡᱷᱤᱡᱽ ᱢᱮ
 genai-header-close-button =
     .title = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 genai-provider-view-details =
@@ -80,50 +73,17 @@ genai-options-about-chatbot =
 
 ## Chatbot onboarding
 
-genai-onboarding-header = ᱩᱥᱟᱹᱨᱟ ᱞᱟᱹᱭ ᱢᱮ, ᱦᱩᱫᱤᱥ ᱦᱚᱨᱟ ᱢᱮ, ᱟᱨ ᱟᱭᱢᱟ ᱡᱮᱞᱠᱟ ᱟᱢ ᱵᱽᱨᱟᱣᱩᱡᱽ ᱮᱫᱟᱢ
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = { -brand-short-name } ᱥᱟᱭᱤᱰᱵᱟᱨ ᱨᱮ ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ AI ᱪᱟᱴᱵᱚᱴ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾ ᱟᱢ ᱵᱟᱪᱷᱟᱣ ᱠᱷᱟᱱ ᱟᱞᱮ ᱥᱟᱱᱟᱢ ᱪᱟᱴᱵᱚᱴ ᱵᱟᱵᱚᱛ ᱵᱤᱵᱨᱚᱬ ᱞᱮ ᱩᱫᱩᱜᱟ ᱾ ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮᱜᱮ ᱵᱚᱫᱚᱞ ᱢᱮ ᱾<a data-l10n-name="learn-more">ᱵᱟᱹᱲᱛᱤ ᱵᱟᱲᱟᱭ ᱢᱮ</a>
 genai-onboarding-primary = ᱞᱮᱛᱟᱲ
 genai-onboarding-secondary = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Claude ᱵᱟᱵᱚᱛ ᱰᱷᱮᱨ ᱵᱟᱰᱟᱭ ᱢᱮ
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = ChatGPT ᱵᱟᱵᱚᱛ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱲᱟᱭ ᱢᱮ
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Copilot ᱵᱟᱵᱚᱛ ᱰᱷᱮᱨ ᱵᱟᱰᱟᱭ ᱢᱮ
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Gemini ᱵᱟᱨᱮᱛᱮ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱲᱟᱭ ᱢᱮ
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
-genai-onboarding-huggingchat-learn = HuggingChat ᱵᱟᱵᱚᱛ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱲᱟᱭ ᱢᱮ
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Le Chat ᱵᱟᱵᱚᱛ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱲᱟᱭ ᱢᱮ
-genai-onboarding-select-header = ᱥᱚᱞᱦᱟ ᱠᱚ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱚᱞ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
-genai-onboarding-select-description = ᱟᱢ ᱡᱚᱠᱷᱚᱱ ᱚᱞ ᱮᱢ ᱵᱟᱪᱷᱟᱣᱟ, ᱟᱞᱮ ᱫᱚ ᱟᱢ ᱪᱟᱴᱵᱚᱴ ᱛᱮ ᱵᱷᱮᱡᱟ ᱞᱟᱹᱜᱤᱫ ᱞᱟᱹᱭ ᱮᱢᱟᱢᱟ ᱾ ᱟᱢ ᱟᱢᱟᱜ ᱱᱤᱡᱚᱨ ᱯᱨᱚᱢᱯᱴ ᱦᱚᱸ ᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
-genai-onboarding-select-primary = ᱪᱟᱴᱤᱝ ᱮᱦᱚᱵ ᱢᱮ
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = ᱚᱞ ᱟᱨ ᱠᱳᱰ ᱵᱮᱱᱟᱣ ᱢᱮ
-genai-onboarding-claude-analyze = ᱫᱚᱞᱤᱞ ᱠᱚ ᱟᱨ ᱪᱤᱛᱟᱹᱨ ᱠᱚ ᱵᱤᱥᱲᱤ ᱢᱮ
-genai-onboarding-claude-price = ᱯᱚᱞᱟ ᱟᱨ ᱠᱤᱨᱤᱧ ᱢᱚᱱᱮᱛᱟᱭᱟᱜ ᱠᱚ;  ᱠᱷᱟᱛᱟ ᱞᱟᱹᱠᱛᱤᱭᱟᱱᱟ
-genai-onboarding-chatgpt-generate = ᱚᱞ, ᱪᱤᱛᱟᱹᱨ ᱟᱨ ᱠᱳᱰ ᱵᱮᱱᱟᱣ ᱢᱮ
-genai-onboarding-chatgpt-analyze = ᱫᱚᱞᱤᱞ ᱠᱚ ᱟᱨ ᱪᱤᱛᱟᱹᱨ ᱠᱚ ᱵᱤᱥᱲᱤ ᱢᱮ
-genai-onboarding-chatgpt-price = ᱯᱚᱞᱟ ᱟᱨ ᱠᱤᱨᱤᱧ ᱢᱚᱱᱮᱛᱮᱭᱟᱜ ᱠᱚ;  ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱫᱤᱥᱚᱢ ᱟᱨ ᱠᱟᱹᱢᱤ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱠᱷᱟᱛᱟ ᱞᱟᱹᱠᱛᱤᱭᱟᱱᱟ
-genai-onboarding-copilot-generate = ᱚᱞ, ᱪᱤᱛᱟᱹᱨ ᱟᱨ ᱠᱳᱰ ᱵᱮᱱᱟᱣ ᱢᱮ
-genai-onboarding-copilot-analyze = ᱪᱤᱛᱟᱹᱨ ᱵᱤᱥᱲᱤ
-genai-onboarding-copilot-price = ᱯᱚᱞᱟ ᱟᱨ ᱠᱤᱨᱤᱧ ᱢᱚᱱᱮᱛᱟᱭᱟᱜ ᱠᱚ; ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱠᱷᱟᱛᱟ ᱞᱟᱹᱠᱛᱤᱭᱟᱱᱟ
-genai-onboarding-gemini-generate = ᱚᱞ, ᱪᱤᱛᱟᱹᱨ ᱟᱨ ᱠᱳᱰ ᱵᱮᱱᱟᱣ ᱢᱮ
-genai-onboarding-gemini-analyze = ᱪᱤᱛᱟᱹᱨ ᱠᱚ ᱵᱤᱥᱲᱤ ᱢᱮ (ᱯᱚᱞᱟ ᱛᱮ) ᱟᱨ ᱫᱚᱞᱤᱞ ᱠᱚ (ᱠᱤᱨᱤᱧ)
-genai-onboarding-gemini-price = ᱯᱚᱞᱟ ᱟᱨ ᱠᱤᱨᱤᱧ ᱢᱚᱱᱮᱛᱟᱭᱟᱜ ᱠᱚ;  ᱠᱷᱟᱛᱟ ᱞᱟᱹᱠᱛᱤᱭᱟᱱᱟ
-genai-onboarding-huggingchat-generate = ᱚᱞ ᱟᱨ ᱠᱳᱰ ᱵᱮᱱᱟᱣ ᱢᱮ
-genai-onboarding-huggingchat-switch = ᱠᱷᱩᱞᱟᱹ ᱢᱳᱰᱮᱞ ᱨᱮᱭᱟᱜ ᱵᱷᱮᱜᱟᱨ ᱥᱮᱴ ᱛᱟᱞᱟ ᱨᱮ ᱵᱚᱫᱚᱞ ᱢᱮ
-genai-onboarding-huggingchat-price-2 = ᱯᱚᱞᱟ ᱛᱮ;  ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱱᱮᱦᱚᱨ ᱛᱟᱭᱚᱢ ᱠᱷᱟᱛᱟ ᱞᱟᱹᱠᱛᱤᱜ ᱠᱟᱱᱟ
-genai-onboarding-lechat-generate = ᱚᱞ ᱟᱨ ᱠᱳᱰ ᱵᱮᱱᱟᱣ ᱢᱮ
-genai-onboarding-lechat-price = ᱯᱚᱞᱟ ᱛᱮ;  ᱠᱷᱟᱛᱟ ᱞᱟᱹᱠᱛᱤᱭᱟᱱᱟ

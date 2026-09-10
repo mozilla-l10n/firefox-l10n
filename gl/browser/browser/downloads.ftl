@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Mostrar no Finder
            *[other] Mostrar no cartafol
         }
-downloads-cmd-show-downloads =
-    .label = Amosar o cartafol de descargas
 downloads-cmd-retry =
     .tooltiptext = Tentar de novo
 downloads-cmd-retry-panel =

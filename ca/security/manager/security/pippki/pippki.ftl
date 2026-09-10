@@ -52,8 +52,6 @@ download-cert-view-text = Examina el certificat de la CA
 
 client-auth-window =
     .title = Sol·licitud d'identificació de l'usuari
-client-auth-site-description = Aquest lloc ha sol·licitat que us identifiqueu amb un certificat:
-client-auth-choose-cert = Trieu un certificat per presentar-lo com a identificació:
 client-auth-send-no-certificate =
     .label = No enviïs un certificat
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Autentiqueu-vos al dispositiu de seguretat ({ $tokenName }). La manera de fer-ho depèn del dispositiu (per exemple, utilitzant un lector d'empremtes dactilars o introduint un codi amb un teclat numèric).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Autentiqueu-vos al testimoni ({ $tokenName }). La manera de fer-ho depèn del dispositiu (per exemple, utilitzant un lector d'empremtes dactilars o introduint un codi amb un teclat numèric).

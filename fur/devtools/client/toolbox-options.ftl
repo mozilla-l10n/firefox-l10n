@@ -121,8 +121,6 @@ options-disable-http-cache-tooltip =
     .title = Ativant cheste opzion la cache HTTP e vignarà disativade par dutis lis schedis che a àn la cassele dai imprescj vierte. I service workers no vegnin tocjadis di cheste opzion.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label-2 = Disative JavaScript
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Disative JavaScript *
 options-disable-javascript-tooltip =
     .title = Ativant cheste opzion JavaScript al vignarà disativât pe schede curint. Se la schede o la cassele dai imprescj a vegnin sieradis alore cheste impostazion e vignarà dismenteade.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -152,8 +150,6 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = (dome cheste session, torne cjame la pagjine)
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * dome session atuâl, al torne a cjariâ la pagjine
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (torne cjame la pagjine)

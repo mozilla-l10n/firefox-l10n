@@ -22,12 +22,7 @@ neterror-override-exception-button = Aceptar el riesgu y siguir
 neterror-pref-reset-button = Reafitar los axustes
 neterror-return-to-previous-page-button = Dir p'atrás
 neterror-return-to-previous-page-recommended-button = Dir p'atrás (aconséyase)
-neterror-try-again-button = Retentar
 neterror-view-certificate-link = Ver el certificáu
-
-##
-
-neterror-error-reporting-automatic = Informar de fallos como esti p'ayudar a { -vendor-short-name } a identificar y a bloquiar sitios maliciosos
 
 ## Specific error messages
 

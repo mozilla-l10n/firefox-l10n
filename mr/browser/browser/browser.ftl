@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = संकेतस्थळाची माहिती पहा
 
@@ -36,8 +31,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = ऑफलाईन साठ्याचा संदेश फलक उघडा
 urlbar-password-notification-anchor =
     .tooltiptext = साठवलेल्या पासवर्डसचा संदेश फलक उघडा
-urlbar-plugins-notification-anchor =
-    .tooltiptext = प्लग-इनचा वापर व्यवस्थापित करा
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = साइटवर आपला कॅमेरा आणि /किंवा मायक्रोफोन शेअर करण्याचे व्यवस्थापन करा
 urlbar-autoplay-notification-anchor =
@@ -46,8 +39,6 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = पर्सिस्टन्ट स्टोरेजमध्ये माहिती साठवा
 urlbar-addons-notification-anchor =
     .tooltiptext = अॅड-ऑन प्रतिष्ठापन संदेश फलक उघडा
-urlbar-tip-help-icon =
-    .title = मदत मिळवा
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -70,8 +61,6 @@ urlbar-screen-blocked =
     .tooltiptext = ह्या वेबसाईटला आपण आपली स्क्रीन शेअर करण्यापासून अवरोधित केले आहे.
 urlbar-persistent-storage-blocked =
     .tooltiptext = आपण दीर्घस्थायी स्टोरेज ह्या वेबसाईटसाठी अवरोधित केला आहे.
-urlbar-popup-blocked =
-    .tooltiptext = ह्या संकेतस्थळासाठी आपण पॉप-अप अडवले आहेत.
 urlbar-canvas-blocked =
     .tooltiptext = आपण ह्या वेबसाइटसाठी कॅनव्हास डेटा उतारा अवरोधित केला आहे.
 urlbar-midi-blocked =
@@ -159,7 +148,6 @@ identity-active-blocked = { -brand-short-name } ने ह्या पृष्
 identity-passive-loaded = या पृष्ठावरील काही भाग (उदा. प्रतिमा) सुरक्षित नाहीत.
 identity-active-loaded = आपण ह्या पृष्ठावरील सुरक्षा बंद केली आहे.
 identity-weak-encryption = हे पृष्ठ कमकुवत एनक्रिप्शन वापरते.
-identity-insecure-login-forms = आपण ह्या पृष्ठावर दिलेल्या लॉग इन माहितीबरोबर तडजोड होऊ शकते.
 identity-permissions-reload-hint = आपल्याला बदल लागू करण्यासाठी पृष्ठ पुन्हा लोड करावे लागू शकते.
 identity-clear-site-data =
     .label = कुकीज आणि साईट माहिती पुसा…
@@ -170,7 +158,6 @@ identity-remove-cert-exception =
     .label = अपवाद काढा
     .accesskey = R
 identity-description-insecure = ह्या साईटवरची आपली जोडणी खाजगी नाही. आपण जी माहिती जमा करता आहात (जसे कि पासवर्ड, संदेश, क्रेडीट कार्ड इत्यादी) ते इतर लोक पाहू शकतात.
-identity-description-insecure-login-forms = ह्या पृष्ठावर आपण दिलेली लॉग इन माहिती सुरक्षित नसून त्याबरोबर तडजोड होऊ शकते.
 identity-description-weak-cipher-intro = ह्या वेबसाइट बरोबरची आपली जोडणी कमकुवत एनक्रिप्शन वापरत असून ती खाजगी नाही.
 identity-description-weak-cipher-risk = इतर लोक आपली माहिती पाहू शकतात किंवा वेबसाईटचे वर्तन बदलू शकतात.
 identity-description-active-blocked2 = { -brand-short-name } ने ह्या पृष्ठावरील काही असुरक्षित भाग अडवले आहेत.
@@ -179,12 +166,6 @@ identity-description-passive-loaded-insecure2 = या वेबसाईटव�
 identity-description-passive-loaded-mixed2 = { -brand-short-name }ने काही भाग अडवले असले, तरी ह्या पृष्ठावर काही असुरक्षित आशय आहेत (उदा. प्रतिमा).
 identity-description-active-loaded = या वेबसाईटवरील काही भाग (उदा. स्क्रिप्ट्स) सुरक्षित नाही आणि आपली जोडणी खाजगी नाही आहे.
 identity-description-active-loaded-insecure = आपण जी माहिती जमा करता आहात (जसे कि पासवर्ड, संदेश, क्रेडीट कार्ड माहिती, इत्यादी) ते इतर लोक पाहू शकतात.
-identity-disable-mixed-content-blocking =
-    .label = सद्या सुरक्षा निष्क्रिय करा
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = सुरक्षा सक्रीय करा
-    .accesskey = E
 identity-more-info-link-text =
     .label = अधिक माहिती
 
@@ -219,8 +200,6 @@ urlbar-extension =
     .value = एक्सटेंशन:
 urlbar-go-button2 =
     .title = स्थान पट्टीतील पत्त्यावर जा
-urlbar-go-button =
-    .tooltiptext = स्थान पट्टीतील पत्त्यावर जा
 urlbar-page-action-button =
     .tooltiptext = पृष्ठाच्या कृती
 
@@ -290,12 +269,6 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] वाचनखूणांची साधनपट्टी दृष्टीआड ठेवा
            *[other] वाचनखूणा साधनपट्टी दृष्य
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] साधनपट्टीवरील वाचनखुणा मेनू काढा
-           *[other] साधनपट्टी मध्ये वाचनखुणा मेनू जोडा
-        }
 
 ##
 
@@ -321,12 +294,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = वाचनखूणा
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = { -pocket-brand-name } मध्ये जतन करा
-    .tooltiptext = { -pocket-brand-name } मध्ये जतन करा
 
 ##
 
@@ -364,21 +331,8 @@ eme-notifications-drm-content-playing = या साईट वरील का�
 ui-tour-info-panel-close =
     .tooltiptext = बंद करा
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = { $uriHost } कडील पॉपअप्सना परवानगी द्यावी
-    .accesskey = p
-popups-infobar-block =
-    .label = { $uriHost } कडील पॉपअप्सना अडवावे
-    .accesskey = p
-
 ##
 
-popups-infobar-dont-show-message =
-    .label = पॉपअप्स् अवरेधीत केलेले असताना हा संदेश दाखवू नये
-    .accesskey = D
 picture-in-picture-hide-toggle =
     .label = पिक्चर-इन-पिक्चर टॉगल लपवा
     .accesskey = H
@@ -392,8 +346,6 @@ navbar-accessible =
     .aria-label = संचारन
 navbar-downloads =
     .label = डाउनलोड्स
-navbar-overflow =
-    .tooltiptext = आणखी साधने…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

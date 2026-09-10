@@ -13,7 +13,6 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } nevarēja atrast
 
 ##
 
-firefox-relay-must-login-to-fxa = Lai izmantotu { -relay-brand-name }, jums ir jāierakstās { -fxaccount-brand-name }.
 firefox-relay-must-login-to-account = Jāpiesakāš kontā, lai izmantotu savus { -relay-brand-name } e-pasta aizsegus.
 firefox-relay-get-unlimited-masks =
     .label = Pārvaldīt aizsegus
@@ -39,8 +38,6 @@ firefox-relay-opt-in-title-1 = Aizsargājiet savu e-pasta adresi:
 firefox-relay-opt-in-subtitle-1 = Izmantot { -relay-brand-name } e-pasta aizsegu
 firefox-relay-use-mask-title-1 = Izmantot e-pasta aizsegu
 firefox-relay-use-mask-title = Izmantot { -relay-brand-name } e-pasta aizsegu
-# This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
-firefox-relay-opt-in-title-a = Novērs mēstules ar bezmaksas e-pasta aizsegu
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
 firefox-relay-opt-in-title-b = Iegūsti bezmaksas e-pasta aizsegu
 firefox-relay-opt-in-confirmation-enable-button =

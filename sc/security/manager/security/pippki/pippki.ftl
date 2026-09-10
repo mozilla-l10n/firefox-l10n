@@ -27,8 +27,8 @@ pippki-reset-password-confirmation-message = S'est azerada sa crae printzipale.
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Iscarrighende su tzertificadu
     .style = min-width: 46em
+    .title = Iscarrighende su tzertificadu
 download-cert-message = Ti si dimandat de ti fidare de una autoridade de tzertificatzione (CA) noa.
 download-cert-trust-ssl =
     .label = Fida·ti de custa CA pro identificare sitos web.

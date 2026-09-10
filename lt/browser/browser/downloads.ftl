@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Rodyti per „Finder“
            *[other] Rodyti aplanke
         }
-downloads-cmd-show-downloads =
-    .label = Parodyti atsiuntimų aplanką
 downloads-cmd-retry =
     .tooltiptext = Iš naujo
 downloads-cmd-retry-panel =

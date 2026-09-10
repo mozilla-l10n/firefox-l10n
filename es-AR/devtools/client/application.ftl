@@ -18,11 +18,6 @@ serviceworker-list-header = Service Workers
 serviceworker-list-aboutdebugging = Abra <a>about:debugging</a> para Service Workers de otros domínios
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Desregistrar
-# Text for the debug link displayed for an already started Service Worker. Clicking on the
-# link opens a new devtools toolbox for this service worker. The title attribute is only
-# displayed when the link is disabled.
-serviceworker-worker-debug = Depurar
-    .title = Solo service workers en ejecución pueden ser depurados
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
     .alt = Inspeccionar

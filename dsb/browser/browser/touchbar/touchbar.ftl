@@ -31,4 +31,3 @@ search-bookmarks = Cytańske znamjenja
 search-history = Historija
 search-opentabs = Wócynjone rejtariki
 search-tags = Wobznamjenja
-search-titles = Titele

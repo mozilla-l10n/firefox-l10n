@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = Ман дар саҳифаи «{ $tabTitle }» �
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Аз чат-боти зеҳни сунъӣ «AI» пурсед
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Аз «{ $provider }» пурсед
 genai-menu-open-generic =
     .label = Кушодани чат-боти зеҳни сунъӣ «AI»
 # $provider (string) - name of the provider
@@ -118,8 +113,6 @@ genai-header-provider-menu =
     .title = Чат-ботеро интихоб намоед
 genai-header-settings-button =
     .title = Танзимоти чат-боти зеҳни сунъӣ «AI»
-genai-header-options-button =
-    .title = Кушодани меню
 genai-header-close-button =
     .title = Пӯшидан
 genai-provider-view-details =
@@ -147,37 +140,25 @@ genai-page-button-summarize = Баровардани хулоса дар бор�
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Ҳангоми истифодаи браузер натиҷаҳои худро ҷамъбаст кунед, барои ҳал кардани масъалаҳои гуногун маслиҳат кунед ё чизҳои дигар ба даст оред
 genai-onboarding-choose-header = Чат-боти зеҳни сунъӣ «AI»-ро интихоб кунед, ки мехоҳед дар навори ҷонибии «{ -brand-short-name }» истифода баред
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Чат-боти зеҳни сунъӣ «AI», ки мехоҳед дар навори ҷонибии «{ -brand-short-name }» истифода баред, интихоб намоед. Мо барои ҳар як чат-боти зеҳни сунъӣ тафсилотро нишон медиҳем вақте ки шумо онро интихоб мекунед. Дар вақти дилхоҳ онҳоро иваз кунед. <a data-l10n-name="learn-more">Маълумоти бештар</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Дар вақти дилхоҳ танзимотро иваз кунед. Барои гирифтани кумак дар интихоби чат-бот, <a data-l10n-name="learn-more">маълумоти бештар дар бораи ҳар як чат-боти зеҳни сунъӣ «AI» дар ин ҷой дастрас аст</a>.
 genai-onboarding-primary = Идома додан
 genai-onboarding-secondary = Пӯшидан
 genai-onboarding-claude-tooltip =
     .title = «Anthropic Claude»
-genai-onboarding-claude-learn = Маълумоти бештар дар бораи «Claude»
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Маълумоти бештар дар бораи «ChatGPT»
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Маълумоти бештар дар бораи «Copilot»
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Маълумоти бештар дар бораи «Gemini»
 genai-onboarding-huggingchat-tooltip =
     .title = «HuggingChat»
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = Маълумоти бештар дар бораи «HuggingChat»
 genai-onboarding-lechat-tooltip =
     .title = «Le Chat Mistral»
-genai-onboarding-lechat-learn = Маълумоти бештар дар бораи «Le Chat»
-genai-onboarding-select-header = Барои дидани пешниҳодҳо матнро интихоб намоед
-genai-onboarding-select-description = Вақте ки шумо матнро интихоб мекунед, мо пехниҳодҳоеро тавсия медиҳем, ки шумо метавонед ба чат-боти зеҳни сунъӣ ирсол кунед. Шумо, инчунин, метавонед дар пешниҳодҳо дархостҳои худро нависед.
-genai-onboarding-select-primary = Оғоз кардани чат
 genai-chatbot-contextual-title = Аз чат-боти зеҳни сунъӣ («AI») истифода баред — гузаштан аз варақа ба варақа лозим нест
 genai-chatbot-contextual-subtitle = Ҳангоми илова кардани чат-боти зеҳни сунъӣ «AI» дар навори ҷонибии «{ -brand-short-name }», метавонед ҳамзамон суҳбат кунед ва дар паҳлӯи он дар Интернет сомонаҳоро тамошо кунед.
 genai-chatbot-contextual-button = Чат-ботеро интихоб намоед
@@ -190,27 +171,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = Бо тугмаи рости 
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Дар навори ҷонибӣ чат-боти зеҳни сунъӣ «AI»-и худро кушоед ва имкони «Баровардани хулоса дар бораи ин саҳифа»-ро интихоб намоед.
 genai-chatbot-summarize-footer-generic-subtitle = Барои зуд баровардани хулосаҳо дар бораи саҳифаҳо, чат-боти зеҳни сунъӣ «AI»-ро ба навори ҷонибии «{ -brand-short-name }» илова намоед.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Эҷод кардани матн ва рамз
-genai-onboarding-claude-analyze = Таҳлил кардани ҳуҷҷатҳо ва тасвирҳо
-genai-onboarding-claude-price = Имконоти ройгон ва пулакӣ; ҳисоби шахсӣ талаб карда мешавад
-genai-onboarding-chatgpt-generate = Эҷод кардани матн, тасвирҳо ва рамз
-genai-onboarding-chatgpt-analyze = Таҳлил кардани ҳуҷҷатҳо ва тасвирҳо
-genai-onboarding-chatgpt-price = Имконоти ройгон ва пулакӣ; ҳисоби шахсӣ барои баъзе кишварҳо ва вазифаҳо талаб карда мешавад
-genai-onboarding-copilot-generate = Эҷод кардани матн, тасвирҳо ва рамз
-genai-onboarding-copilot-analyze = Таҳлил кардани тасвирҳо
-genai-onboarding-copilot-price = Имконоти ройгон ва пулакӣ; ҳисоби шахсӣ барои баъзе вазифаҳо талаб карда мешавад
-genai-onboarding-gemini-generate = Эҷод кардани матн, тасвирҳо ва рамз
-genai-onboarding-gemini-analyze = Тасвирҳо (ройгон) ва ҳуҷҷатҳоро (пулакӣ) таҳлил кунед
-genai-onboarding-gemini-price = Имконоти ройгон ва пулакӣ; ҳисоби шахсӣ талаб карда мешавад
-genai-onboarding-huggingchat-generate = Эҷод кардани матн ва рамз
-genai-onboarding-huggingchat-switch = Гузариш байни маҷмуи гуногуни моделҳои кушод
-genai-onboarding-huggingchat-price-2 = Ройгон; ҳангоми истифода пас аз якчанд дархост ҳисоби шахсӣ лозим мешавад
-genai-onboarding-lechat-generate = Эҷод кардани матн ва рамз
-genai-onboarding-lechat-price = Ройгон; ҳисоби шахсӣ талаб карда мешавад
 
 ## Model Optin Component
 
@@ -249,8 +209,8 @@ link-preview-generation-retry = Аз нав кӯшиш кардан
 link-preview-settings-button =
     .title = Танзимоти пешнамоиши пайванд
 link-preview-settings-enable =
-    .label = Фаъол кардани пешнамоиши пайвандҳо
     .description = Вақте ки шумо аз миёнбур истифода мебаред ё ба пайванд бо тугмаи рости муш зер мекунед, шумо метавонед сарлавҳаи саҳифа, тавсиф ва маълумоти дигареро бинед.
+    .label = Фаъол кардани пешнамоиши пайвандҳо
 link-preview-settings-key-points =
     .label = Ба зеҳни сунъӣ «AI» иҷозат диҳед, то тавнад матни аввали саҳифаро хонад ва нуқтаҳои асосиро эҷод кунад
 link-preview-settings-long-press =

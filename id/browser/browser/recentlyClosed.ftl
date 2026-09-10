@@ -16,14 +16,3 @@ recently-closed-menu-reopen-all-windows = Buka Ulang Semua Jendela
 
 recently-closed-panel-reopen-all-tabs = Buka Ulang Semua Tab
 recently-closed-panel-reopen-all-windows = Buka Ulang Semua Jendela
-
-##
-
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-       *[other] { $winTitle } (dan { $tabCount } tab lainnya)
-    }

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-protections-panel-sendreportview-error = S'es produch una error en enviant lo rapòrt. Se vos plai, ensajatz de nòu mai tard.
-# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
-protections-panel-sitefixedsendreport-label = Lo site es petaçat ? Enviatz un rapòrt
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -23,11 +20,6 @@ protections-panel-etp-more-info =
     .aria-label = Mai d’informacions tocant la proteccion renfortida contra lo seguiment
 protections-panel-etp-on-header = La proteccion renfortida contra lo seguiment es ACTIVADA per aqueste site.
 protections-panel-etp-off-header = La proteccion renfortida contra lo seguiment es DESACTIVADA per aqueste site
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Lo site fonciona pas ?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Lo site foncion pas ?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -35,20 +27,18 @@ protections-panel-site-not-working-view =
 ##   $host (String): the hostname of the site that is being displayed.
 
 protections-panel-etp-toggle-on =
-    .label = Proteccion renfortida contra lo seguiment
-    .description = Activada per aqueste site
     .aria-label = Proteccion renfortida contra lo seguiment : activa per { $host }
-protections-panel-etp-toggle-off =
+    .description = Activada per aqueste site
     .label = Proteccion renfortida contra lo seguiment
-    .description = Desactivada per aqueste site
+protections-panel-etp-toggle-off =
     .aria-label = Proteccion renfortida contra lo seguiment : inactiva per { $host }
+    .description = Desactivada per aqueste site
+    .label = Proteccion renfortida contra lo seguiment
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = Perqué ?
-protections-panel-not-blocking-why-etp-on-tooltip = Bocar aquestes elements pòt far foncionar incorrèctament qualques sites. Sens traçadors, qualques botons, formularis o camps de connexion poirián foncionar pas.
-protections-panel-not-blocking-why-etp-off-tooltip = Totes los traçadors sus aqueste site son estats cargats perque las proteccions son desactivadas.
 protections-panel-not-blocking-why-etp-on-tooltip-label =
     .label = Bocar aquestes elements pòt far foncionar incorrèctament qualques sites. Sens traçadors, qualques botons, formularis o camps de connexion poirián foncionar pas.
 protections-panel-not-blocking-why-etp-off-tooltip-label =
@@ -76,23 +66,6 @@ protections-panel-not-found-label = Cap pas detectat
 
 protections-panel-settings-label = Paramètres de proteccion
 protections-panel-protectionsdashboard-label = Taula de bòrd de las proteccions
-
-## In the Site Not Working? view, we suggest turning off protections if
-## the user is experiencing issues with any of a variety of functionality.
-
-# The header of the list
-protections-panel-site-not-working-view-header = Desactivatz las proteccions s’avètz de problèmas amb :
-# The list items, shown in a <ul>
-protections-panel-site-not-working-view-issue-list-login-fields = Los camps de connexion
-protections-panel-site-not-working-view-issue-list-forms = Los formularis
-protections-panel-site-not-working-view-issue-list-payments = Los pagaments
-protections-panel-site-not-working-view-issue-list-comments = Los comentaris
-protections-panel-site-not-working-view-issue-list-videos = Las vidèos
-protections-panel-site-not-working-view-issue-list-fonts = Polissas
-protections-panel-site-not-working-view-send-report = Enviar un rapòrt
-
-##
-
 protections-panel-cross-site-tracking-cookies = Aquestes cookies vos seguisson de site en site per amassar de donadas sus vòstre compòrtament en linha. Son depausats per de companhiás de publicitat o d’analisi.
 protections-panel-cryptominers = Los minaires de criptomoneda utilizan la poténcia de calcul de vòstre ordenador per minar de moneda numerica. Los scripts de minaires sollicitan la batariá, alentisson l’ordenador e aumentan vòstra factura d’electricitat.
 protections-panel-fingerprinters = Los generadors d’emprentas numericas reculhisson los paramètres del navegador e de l’ordenador per crear un perfil vòstre. En utilizant aquesta emprenta numerica vos pòdon seguir de site en site.
@@ -105,33 +78,10 @@ protections-panel-shim-allowed-indicator =
 protections-panel-content-blocking-manage-settings =
     .label = Gerir los paramètres de proteccion
     .accesskey = G
-protections-panel-content-blocking-breakage-report-view =
-    .title = Senhalar un site copat
-protections-panel-content-blocking-breakage-report-view-description = Lo blocatge d’unes traçadors pòt causar de problèmas amb qualques sites web. En senhalant aquestes problèmas ajudatz a melhorar { -brand-short-name } per totes. Amb lo rapòrt serà tanben junta l’URL e d’informacions sus las preferéncias del navegador. <label data-l10n-name="learn-more">Ne saber mai</label>
-protections-panel-content-blocking-breakage-report-view-collection-url = URL
-protections-panel-content-blocking-breakage-report-view-collection-url-label =
-    .aria-label = URL
-protections-panel-content-blocking-breakage-report-view-collection-comments = Opcional : descrivètz lo problèma
-protections-panel-content-blocking-breakage-report-view-collection-comments-label =
-    .aria-label = Opcional : descrivètz lo problèma
-protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = Anullar
-protections-panel-content-blocking-breakage-report-view-send-report =
-    .label = Enviar lo rapòrt
-
-# Cookie Banner Handling
-
-protections-panel-cookie-banner-handling-header = Reduccion de las bandièras de cookies
 protections-panel-cookie-banner-blocker-header = Blocador de bandièras de cookies
 protections-panel-cookie-banner-handling-enabled = Activada per aqueste site
 protections-panel-cookie-banner-handling-disabled = Desactivada per aqueste site
 protections-panel-cookie-banner-handling-undetected = Site actualament pas pres en carga
-protections-panel-cookie-banner-view-title =
-    .title = Reduccion de las bandièras de cookies
-# Variables
-#  $host (String): the hostname of the site that is being displayed.
-protections-panel-cookie-banner-view-turn-off-for-site = Desactivar la reduccion de las bandièras de cookies per { $host } ?
-protections-panel-cookie-banner-view-turn-on-for-site = Activar la reduccion de las bandièras de cookies per aqueste site ?
 protections-panel-cookie-banner-blocker-view-title =
     .title = Blocador de bandièras de cookies
 # Variables
@@ -139,10 +89,6 @@ protections-panel-cookie-banner-blocker-view-title =
 protections-panel-cookie-banner-blocker-view-turn-off-for-site = Desactivar lo blocador de bandièras de cookies per { $host } ?
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Activar lo blocador de bandièras de cookies per aqueste site ?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } escafarà los cookies d’aqueste site e actualizarà la pagina. La supression de totes los cookies pòt vos desconnectar o voidar los panièrs de crompa.
-protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } ensaja de regetar automaticament totas las demandas de cookies suls sites compatibles.
-protections-panel-cookie-banner-view-cancel = Anullar
-protections-panel-cookie-banner-view-turn-off = Desactivar
-protections-panel-cookie-banner-view-turn-on = Activar
 protections-panel-cookie-banner-view-cancel-label =
     .label = Anullar
 protections-panel-cookie-banner-view-turn-off-label =

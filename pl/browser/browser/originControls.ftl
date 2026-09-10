@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Rozszerzenie nie może odczytywać ani zmieniać danych
-origin-controls-quarantined =
-    .label = Odczytywanie i zmienianie danych przez to rozszerzenie jest niedozwolone
 origin-controls-quarantined-status =
     .label = Rozszerzenie jest niedozwolone na witrynach z ograniczeniami
 origin-controls-quarantined-allow =

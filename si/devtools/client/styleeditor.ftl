@@ -13,8 +13,6 @@ styleeditor-save-button = සුරකින්න
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = ශෛලි සංස්කරක විකල්ප
-styleeditor-editor-textbox =
-    .data-placeholder = CSS මෙහි ලියන්න.
 styleeditor-no-stylesheet = මෙහි ශෛලි පත්‍රයක් නැත.
 styleeditor-no-stylesheet-tip = සමහර විට ඔබ <a data-l10n-name="append-new-stylesheet">නව ශෛලි පත්‍රයක් ඇමිණීමට කැමති ද</a>?
 styleeditor-open-link-new-tab =

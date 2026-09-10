@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Probíhá synchronizace…
 sync-disconnect-dialog-title2 = Chcete se odpojit?
 sync-disconnect-dialog-body = { -brand-product-name } ukončí synchronizaci s vaším účtem, ale nesmaže z tohoto zařízení žádná vaše data.
 sync-disconnect-dialog-button = Odpojit
-fxa-signout-dialog2-title = Odhlásit se od { -fxaccount-brand-name(capitalization: "lower", case: "gen") }?
 fxa-signout-dialog-title2 = Odhlásit se ze svého účtu?
 fxa-signout-dialog-body = Synchronizovaná data zůstanou uložená ve vašem účtu.
 fxa-signout-dialog2-button = Odhlásit se
@@ -47,15 +46,6 @@ fxviewtabrow-send-to-mobile-not-verified = Účet není ověřen
 fxviewtabrow-send-to-mobile-verify-account = Ověřte svůj účet
 fxa-menu-send-to-mobile-turn-on-sync = Pro odeslání panelů zapněte synchronizaci
 fxa-menu-send-to-mobile-connect-device = Pro posílání panelů zařízení připojte
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Poslat panel do zařízení
-            [few] Poslat { $tabCount } panely do zařízení
-           *[other] Poslat { $tabCount } panelů do zařízení
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Synchronizace zařízení…

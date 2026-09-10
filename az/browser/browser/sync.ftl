@@ -6,14 +6,6 @@ fxa-toolbar-sync-syncing2 = Sinxronlaşır…
 sync-disconnect-dialog-button = Əlaqəni kəs
 fxa-signout-dialog-title2 = Hesabınızdan çıxırsınız?
 fxa-signout-dialog2-button = Hesabdan çıx
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Vərəqi cihaza göndər
-           *[other] { $tabCount } vərəqi cihaza göndər
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Cihazlar Sinxronlaşdırılır…

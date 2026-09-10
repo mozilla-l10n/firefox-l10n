@@ -17,7 +17,6 @@ autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } محفو�
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } محفوظ شدہ ادائیگی دے طریقہ کار دی معلومات ݙِکھاوݨ دی کوشِش کرین٘دا پِیا ہِے۔
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = فارم آٹو فل اختیارات
-autofill-options-link-osx = فارم آٹو فل ترجیحاں
 
 ## The credit card capture doorhanger
 
@@ -62,16 +61,6 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
-# The warning text that is displayed for informing users what categories are
-# about to be filled.  The text would be, for example,
-#   Also autofills organization, phone, email.
-# Variables:
-#   $categories - one or more of the categories, see autofill-category-X below
-autofill-phishing-warningmessage-extracategory = ٻئے آٹو فِلز { $categories }
-# Variation when all are in the same category.
-# Variables:
-#   $categories - one or more of the categories
-autofill-phishing-warningmessage = خود کار طریقے نال پُر تھئے ہوئے { $categories }
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = پتہ
 autofill-category-name = ناں

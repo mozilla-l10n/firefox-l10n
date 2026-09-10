@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = แปลหน้านี้
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = กำลังแปล
 translations-panel-settings-button =
     .aria-label = จัดการการตั้งค่าการแปล
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } เบต้า
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = จัดการภาษา
-translations-panel-settings-about = เกี่ยวกับการแปลใน { -brand-shorter-name }
 translations-panel-settings-about2 =
     .label = เกี่ยวกับการแปลใน { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
@@ -91,14 +82,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = ขออภัย ขณะนี้เรายังไม่รองรับการแปลจาก { $language }
 translations-panel-error-unsupported-hint-unknown-2 = ขออภัย ขณะนี้เรายังไม่รองรับการแปลจากภาษานี้
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = ขออภัย เรายังไม่รองรับ { $language }
-translations-panel-error-unsupported-hint-unknown = ขออภัย เรายังไม่รองรับภาษานี้
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -130,10 +113,6 @@ translations-manage-header = การแปล
 translations-manage-settings-button =
     .label = การตั้งค่า…
     .accesskey = T
-translations-manage-description = ดาวน์โหลดภาษาสำหรับการแปลแบบออฟไลน์
-translations-manage-all-language = ภาษาทั้งหมด
-translations-manage-download-button = ดาวน์โหลด
-translations-manage-delete-button = ลบ
 translations-manage-intro-2 = ตั้งค่าปรับแต่งภาษาและการแปลไซต์ของคุณและจัดการภาษาที่ดาวน์โหลดสำหรับการแปลแบบออฟไลน์
 translations-manage-download-description = ดาวน์โหลดภาษาสำหรับการแปลแบบออฟไลน์
 translations-manage-language-download-button =
@@ -147,12 +126,11 @@ translations-manage-language-remove-all-button =
     .label = เอาออกทั้งหมด
     .accesskey = e
 translations-manage-error-download = เกิดปัญหาในการดาวน์โหลดไฟล์ภาษา โปรดลองอีกครั้ง
-translations-manage-error-delete = เกิดข้อผิดพลาดในการลบไฟล์ภาษา โปรดลองอีกครั้ง
 translations-manage-error-remove = มีข้อผิดพลาดในการลบไฟล์ภาษาออก โปรดลองอีกครั้ง
 translations-manage-error-list = ไม่สามารถรับรายชื่อภาษาที่ใช้ได้สำหรับการแปล เรียกหน้านี้ใหม่เพื่อลองอีกครั้ง
 translations-settings-title =
-    .title = การตั้งค่าการแปล
     .style = min-width: 36em
+    .title = การตั้งค่าการแปล
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = ทำการแปลโดยอัตโนมัติสำหรับภาษาดังต่อไปนี้
@@ -246,16 +224,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = ขออภัย ขณะนี้เรายังไม่รองรับการแปลจาก { $language }
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = ขออภัย ขณะนี้เรายังไม่รองรับการแปลจากภาษานี้
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = ขออภัย เรายังไม่รองรับ { $language }
-select-translations-panel-unsupported-language-message-unknown =
-    .message = ขออภัย เรายังไม่รองรับภาษานี้
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = การตั้งค่าการแปล

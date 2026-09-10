@@ -30,14 +30,13 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>موتور جست‌وجوی پیش‌گزیده‌تان عوض شد.</strong> { $oldEngine } دیگر موتور جست‌وجوی پیش‌گزیده در { -brand-short-name } نیست. { $newEngine } موتور جستو‌جوی جدید شماست. برای جایگزین کردن آن به بخش پیکربندی بروید. <label data-l10n-name="remove-search-engine-article">بیشتر بدانید</label>
 removed-search-engine-message2 = <strong>موتور جست‌وجوی پیش‌گزیده‌تان عوض شد.</strong> { $oldEngine } دیگر موتور جست‌وجوی پیش‌گزیده در { -brand-short-name } نیست. { $newEngine } موتور جستو‌جوی جدید شماست. برای جایگزین کردن آن به بخش پیکربندی بروید.
 remove-search-engine-button = تأیید
 
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = افزودن موتور جست‌وجو
     .style = min-width: 32em;
+    .title = افزودن موتور جست‌وجو
 add-engine-button = اضافه کردن موتور سفارشی
 add-engine-name = نام موتور جست‌وجو

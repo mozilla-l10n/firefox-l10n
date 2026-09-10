@@ -21,11 +21,6 @@ tabbrowser-tab-tooltip-container = { $containerName }
 #   $tabGroupName (String): the user-defined name of the current tab group.
 #   $containerName (String): the name of the current container.
 tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } – { $containerName }
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } – { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -33,14 +28,6 @@ tabbrowser-container-tab-title = { $title } – { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [one] Lap bezárása
-           *[other] { $tabCount } lap bezárása
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [one] Lap bezárása
            *[other] { $tabCount } lap bezárása
@@ -108,7 +95,6 @@ tabbrowser-unblock-tab-audio-aria-label =
 tabbrowser-confirm-close-tabs-title = Bezár { $tabCount } lapot?
 tabbrowser-confirm-close-tabs-button = Lapok bezárása
 tabbrowser-ask-close-tabs-checkbox = Rákérdezés több lap bezárása előtt
-tabbrowser-confirm-close-tabs-checkbox = Megerősítés több lap bezárása előtt
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -131,9 +117,6 @@ tabbrowser-confirm-close-tabs-with-key-button = Kilépés a { -brand-short-name 
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-ask-close-tabs-with-key-checkbox = Rákérdezés a { $quitKey } billentyűvel történő kilépés előtt
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = Megerősítés a { $quitKey }ból történő kilépés előtt
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
@@ -438,8 +421,8 @@ tab-note-editor-button-save =
     .label = Mentés
     .accesskey = e
 tab-note-editor-button-delete =
-    .title = Jegyzet törlése
     .aria-label = Jegyzet törlése
+    .title = Jegyzet törlése
     .accesskey = t
 tab-note-preview-edit-icon =
     .alt = Jegyzet szerkesztése

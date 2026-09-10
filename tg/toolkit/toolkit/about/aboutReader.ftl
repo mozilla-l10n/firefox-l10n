@@ -4,14 +4,6 @@
 
 about-reader-loading = Бор шуда истодааст…
 about-reader-load-error = Мақола аз ин саҳифа бор карда нашуд
-about-reader-color-scheme-light = Равшан
-    .title = Нақшаи ранги «Равшан»
-about-reader-color-scheme-dark = Торик
-    .title = Нақшаи ранги «Торик»
-about-reader-color-scheme-sepia = Сепия
-    .title = Нақшаи ранги «Сепия»
-about-reader-color-scheme-auto = Худкор
-    .title = Нақшаи ранги «Худкор»
 about-reader-color-light-theme = Равшан
     .title = Мавзуи равшан
 about-reader-color-dark-theme = Торик
@@ -24,16 +16,6 @@ about-reader-color-gray-theme = Хокистарӣ
     .title = Мавзуи хокистарӣ
 about-reader-color-contrast-theme = Контраст
     .title = Мавзуи контраст
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time =
-    { $rangePlural ->
-        [one] { $range } дақиқа
-       *[other] { $range } дақиқа
-    }
 
 ## Reader View text and layout menu
 
@@ -41,14 +23,6 @@ about-reader-toolbar-minus =
     .title = Хурд кардани андозаи ҳуруф
 about-reader-toolbar-plus =
     .title = Калон кардани андозаи ҳуруф
-about-reader-toolbar-contentwidthminus =
-    .title = Хурд кардани васеии маҳтаво
-about-reader-toolbar-contentwidthplus =
-    .title = Калон кардани васеии маҳтаво
-about-reader-toolbar-lineheightminus =
-    .title = Хурд кардани баландии сатр
-about-reader-toolbar-lineheightplus =
-    .title = Калон кардани баландии сатр
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -59,7 +33,6 @@ about-reader-font-type-monospace = Яклухт
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Пӯшидани намоиши хониш
-about-reader-toolbar-type-controls = Танзимоти ҳарфҳо
 about-reader-toolbar-text-layout-controls = Матн ва тарҳрезӣ
 about-reader-toolbar-theme-controls = Мавзуъ
 about-reader-toolbar-savetopocket = Нигоҳ доштан ба «{ -pocket-brand-name }»

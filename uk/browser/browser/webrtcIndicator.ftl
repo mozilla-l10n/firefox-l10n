@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } – покажчик спільного доступу
-webrtc-indicator-window =
-    .title = { -brand-short-name } – покажчик спільного доступу
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Ви надаєте доступ до свого мікрофона. Натисніть для керування спільним доступом.
 webrtc-screen-system-menu =
     .label = Ви надаєте доступ до вікна. Натисніть для керування спільним доступом.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = До ваших камери та мікрофона надано спільний доступ. Натисніть, щоб керувати.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = До вашої камери надано спільний доступ. Натисніть, щоб керувати.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = До вашого мікрофона надано спільний доступ. Натисніть, щоб керувати.
-webrtc-indicator-sharing-application =
-    .tooltiptext = До програми надано спільний доступ. Натисніть, щоб керувати.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = До вашого екрана надано спільний доступ. Натисніть, щоб керувати.
-webrtc-indicator-sharing-window =
-    .tooltiptext = До вікна надано спільний доступ. Натисніть, щоб керувати.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = До вкладки надано спільний доступ. Натисніть, щоб керувати.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -191,7 +172,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Дозволит
 
 webrtc-share-screen-warning = Діліться екраном лише з сайтами, яким ви довіряєте. Спільний доступ може дозволити несправжнім сайтам перегляд від вашого імені та викрадення особистих даних.
 webrtc-share-browser-warning = Діліться { -brand-short-name } лише з сайтами, яким ви довіряєте. Спільний доступ може дозволити несправжнім сайтам перегляд від вашого імені та викрадення особистих даних.
-webrtc-share-screen-learn-more = Докладніше
 webrtc-pick-window-or-screen = Оберіть вікно чи екран
 webrtc-share-entire-screen = Увесь екран
 webrtc-share-pipe-wire-portal = Використовувати налаштування операційної системи

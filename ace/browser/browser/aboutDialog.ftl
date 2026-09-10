@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Neu-unduh beunarô — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Teungoh geupubarô—<label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Neu-unduh beunarô — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Neupeuja peubarô…
 update-failed = Peubarô hana wasé. <label data-l10n-name="failed-link">Unduh versi paléng barô</label>
 update-failed-main = Peubarô hana wasé. <a data-l10n-name="failed-link-main">Unduh versi paléng barô</a>
-update-adminDisabled = Peubarô geupeumaté lé ureueng urôih sistem droëneuh
 update-policy-disabled = Pubarô geupumaté lé organisasi droeneuh
 settings-update-policy-disabled =
     .label = Pubarô geupumaté lé organisasi droeneuh
@@ -71,8 +69,6 @@ helpus = Peureulèë beunantu? <label data-l10n-name="helpus-donateLink">Meurip�
 bottomLinks-license = Informasi Idin
 bottom-links-terms = Syarat Ngui
 bottom-links-privacy = Bri Thèe Rahsia
-bottomLinks-rights = Hak Ureuëng Ngui-Keuchet
-bottomLinks-privacy = Keumiet Rahsia
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

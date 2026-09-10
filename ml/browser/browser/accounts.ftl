@@ -25,26 +25,12 @@ account-send-to-all-devices-titlecase = എല്ലാ ഉപകരണങ്ങ
 account-manage-devices-titlecase = ഉപകരണങ്ങളെ കൈകാര്യം ചെയ്യുക
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = ഉപകരണങ്ങളൊന്നും കണക്റ്റുചെയ്തിട്ടില്ല
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = ടാബുകൾ അയയ്ക്കുന്നതിനെക്കുറിച്ച് അറിയുക…
-# Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = വേറൊരു ഉപകരണം കണക്ട് ചെയ്യുക…
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = അക്കൗണ്ട് പരിശോധിച്ചുറപ്പിച്ചിട്ടില്ല
-account-send-tab-to-device-verify = നിങ്ങളുടെ അക്കൌണ്ട് പരിശോധിക്കുക…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
-# The title shown in a notification when either this device or another device
-# has connected to, or disconnected from, a Firefox account.
-account-connection-title = { -fxaccount-brand-name }
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title-2 = അക്കൗണ്ടു്

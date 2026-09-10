@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Indicator de partatge
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Indicator de partatge
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Sètz a partejar lo microfòn. Clicatz per contrarotlar lo partiment.
 webrtc-screen-system-menu =
     .label = Sètz a partejar una fenèstra o l’ecran. Clicatz per contrarotlar lo partiment.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Vòstra camèra e vòstre microfòn son partejats. Clicar per contrarotlar lo partiment.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Vòstra camèra es partejada. Clicar per contrarotlar lo partiment.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Vòstre microfòn es partejat. Clicar per contrarotlar lo partiment.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Una aplicacion es partejada. Clicar per contrarotlar lo partiment.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Vòstre ecran es partejat. Clicar per contrarotlar lo partiment.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Una fenèstra es partejada. Clicar per contrarotlar lo partiment.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Un onglet es partejat. Clicar per contrarotlar lo partiment.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -175,7 +156,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Autorizar { $ori
 
 webrtc-share-screen-warning = Partejatz solament los ecrans amb los sites de fisança. Lo partatge pòt permetre a de sites enganaires de navegar al vòstre nom e raubar d'informacions privadas.
 webrtc-share-browser-warning = Partejatz solament { -brand-short-name } amb los sites de fisança. Lo partatge pòt permetre a de sites enganaires de navegar al vòstre nom e raubar d'informacions privadas.
-webrtc-share-screen-learn-more = Ne saber mai
 webrtc-pick-window-or-screen = Seleccionatz una fenèstra o un ecran
 webrtc-share-entire-screen = Ecran complèt
 webrtc-share-pipe-wire-portal = Utilizar los paramètres del sistèma operatiu

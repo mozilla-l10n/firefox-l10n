@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = לשונית חדשה
-    .accesskey = ל
 reload-tab =
     .label = טעינת לשונית מחדש
     .accesskey = ט
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = קבוצה חדשה
     .accesskey = ק
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -200,13 +193,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = יצירת קישור הניתן לשיתוף
     .accesskey = י
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] שליחת לשונית למכשיר
-           *[other] שליחת { $tabCount } לשוניות למכשיר
-        }
-    .accesskey = ש
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

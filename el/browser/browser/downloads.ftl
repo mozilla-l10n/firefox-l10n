@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Εμφάνιση στο Finder
            *[other] Εμφάνιση στον φάκελο
         }
-downloads-cmd-show-downloads =
-    .label = Εμφάνιση φακέλου λήψεων
 downloads-cmd-retry =
     .tooltiptext = Επανάληψη
 downloads-cmd-retry-panel =

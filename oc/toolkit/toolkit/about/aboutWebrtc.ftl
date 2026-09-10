@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = enregistrar about:webrtc jos
 about-webrtc-aec-logging-msg-label = Jornalizacion AEC
 about-webrtc-aec-logging-off-state-label = Aviar la jornalizacion AEC
 about-webrtc-aec-logging-on-state-label = Arrèstar la jornalizacion AEC
-about-webrtc-aec-logging-on-state-msg = Jornalizacion AEC activa (parlatz amb lo correspondant unas minutas puèi arrestatz l'enregistrament)
 about-webrtc-aec-logging-toggled-on-state-msg = Jornalizacion AEC activa (parlatz amb lo correspondant unas minutas puèi arrestatz l'enregistrament)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -83,17 +82,9 @@ about-webrtc-nominated = Nomenat
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Seleccionat
 about-webrtc-save-page-label = Enregistrar la pagina
-about-webrtc-debug-mode-msg-label = Mòde desbugatge
-about-webrtc-debug-mode-off-state-label = Aviar lo mòde desbugatge
-about-webrtc-debug-mode-on-state-label = Arrèstar lo mòde desbugatge
-about-webrtc-stats-heading = Estatisticas de la session
 about-webrtc-stats-clear = Escafar l'istoric
 about-webrtc-log-heading = Istoric de connexion
 about-webrtc-log-clear = Escafar l’istoric
-about-webrtc-log-show-msg = afichar l'istoric
-    .title = clicatz per desvolopar aquesta seccion
-about-webrtc-log-hide-msg = amagar l'istoric
-    .title = clicatz per reduire aquesta seccion
 about-webrtc-log-section-show-msg = Afichar l'istoric
     .title = Clicatz per desvolopar aquesta seccion
 about-webrtc-log-section-hide-msg = Amagar l'istoric
@@ -126,19 +117,11 @@ about-webrtc-remote-candidate = Candidat distant
 about-webrtc-raw-candidates-heading = Totes los candidats bruts
 about-webrtc-raw-local-candidate = Candidat brut local
 about-webrtc-raw-remote-candidate = Candidat brut alonhat
-about-webrtc-raw-cand-show-msg = mostrar los candidats bruts
-    .title = clicatz per desvolopar aquesta seccion
-about-webrtc-raw-cand-hide-msg = amagar los candidats bruts
-    .title = clicatz per reduire aquesta seccion
 about-webrtc-raw-cand-section-show-msg = Mostrar los candidats bruts
     .title = Clicatz per desvolopar aquesta seccion
 about-webrtc-raw-cand-section-hide-msg = Amagar los candidats bruts
     .title = Clicatz per reduire aquesta seccion
 about-webrtc-priority = Prioritat
-about-webrtc-fold-show-msg = afichar los detalhs
-    .title = clicatz per desvolopar aquesta seccion
-about-webrtc-fold-hide-msg = amagar los detalhs
-    .title = clicatz per reduire aquesta seccion
 about-webrtc-fold-default-show-msg = Afichar los detalhs
     .title = Clicatz per desvolopar aquesta seccion
 about-webrtc-fold-default-hide-msg = Amagar los detalhs
@@ -179,8 +162,6 @@ about-webrtc-configuration-element-provided = Fornit
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Pas fornit
-# The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Preferéncias utilizaire pel WebRTC
 
 ##
 
@@ -204,13 +185,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Estatisticas de quadre vidèo - MediaStreamTrack ID : { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = pagina enregistrada a l'emplaçament seguent : { $path }
-about-webrtc-debug-mode-off-state-msg = lo fichièr de la traça es disponible a l'emplaçament seguent : { $path }
-about-webrtc-debug-mode-on-state-msg = mòde desbugatge actiu, lo fichièr de la traça es disponible a l'emplaçament seguent : { $path }
-about-webrtc-aec-logging-off-state-msg = los fichièrs de jornalizacion capturats son disponibles a l'emplaçament seguent : { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

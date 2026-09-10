@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = Απαλοιφή ιστορικού
 sidebar-history-sort-by-heading-menucaption =
     .label = Ταξινόμηση κατά:
-sidebar-history-sort-by-heading = Ταξινόμηση κατά:
 sidebar-history-sort-option-date =
     .label = Ημερομηνία
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Επεκτάσεις πλαϊνής γραμμής
-sidebar-customize-firefox-tools-header =
-    .label = Εργαλεία { -brand-product-name }
 sidebar-customize-firefox-settings = Διαχείριση ρυθμίσεων του { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Κάθετες καρτέλες
 sidebar-settings2 =
     .label = Ρυθμίσεις
-sidebar-settings =
-    .label = Ρυθμίσεις πλαϊνής γραμμής
 sidebar-hide-tabs-and-sidebar =
     .label = Απόκρυψη καρτελών και πλαϊνής γραμμής
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Διαχείριση επέκτασης
-sidebar-context-menu-remove-extension =
-    .label = Αφαίρεση επέκτασης
 sidebar-context-menu-report-extension =
     .label = Αναφορά επέκτασης
 sidebar-context-menu-open-in-tab =

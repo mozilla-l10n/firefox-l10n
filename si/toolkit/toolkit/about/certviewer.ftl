@@ -95,4 +95,3 @@ certificate-viewer-tab-mine = ඔබගේ සහතික
 certificate-viewer-tab-people = පුද්ගලයින්
 certificate-viewer-tab-servers = සේවාදායක
 certificate-viewer-tab-ca = අධිකාරි
-certificate-viewer-tab-unkonwn = නොදන්නා

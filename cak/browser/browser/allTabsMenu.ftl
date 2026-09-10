@@ -13,9 +13,6 @@ all-tabs-menu-close-duplicate-tabs =
     .label = Ketz'apïx kamulun taq ruwi'
 all-tabs-menu-view-all-tabs =
     .label = Ketz'et ronojel ri taq ruwi'
-all-tabs-menu-manage-user-context =
-    .label = Kenuk'samajïx K'wayöl
-    .accesskey = w
 # This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =
     .label = Tik'ut ronojel

@@ -4,6 +4,3 @@
 
 popup-notification-more-actions-button =
     .aria-label = དེ་ལས་མང་བའི་བྱ་འགུལ
-popup-notification-default-button =
-    .label = OK!
-    .accesskey = O

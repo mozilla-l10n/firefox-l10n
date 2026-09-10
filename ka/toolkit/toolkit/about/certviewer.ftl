@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = თქვენი სერტიფიკატ�
 certificate-viewer-tab-people = ხალხი
 certificate-viewer-tab-servers = სერვერები
 certificate-viewer-tab-ca = გამომცემები
-certificate-viewer-tab-unkonwn = უცნობი

@@ -31,8 +31,6 @@ appmenuitem-extensions-and-themes =
     .label = Разширения и теми
 appmenuitem-extensions =
     .label = Разширения
-appmenuitem-addons-and-themes =
-    .label = Добавки и теми
 appmenuitem-print =
     .label = Отпечатване…
 appmenuitem-find-in-page =
@@ -103,7 +101,6 @@ appmenuitem-fxa-sign-in = Вписване в { -brand-product-name }
 appmenuitem-fxa-manage-account = Управление на профил
 fxa-menu-manage-devices =
     .label = Управлявайте устройствата си
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Профил
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -119,15 +116,6 @@ appmenuitem-save-page =
     .label = Запазване като…
 appmenuitem-fxa-sync-off-title = Синхронизирането е изключено
 appmenuitem-fxa-sync-off-description = Защитете и имайте достъп до отметки, пароли и други навсякъде.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Какво е новото
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Уведомяване за нови функции
-    .accesskey = У
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -240,8 +228,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Повече информация за отстраняване на неизправности
     .accesskey = и
-appmenu-help-report-site-issue =
-    .label = Докладване на проблем със страницата…
 appmenu-help-share-ideas =
     .label = Споделяне на идеи и обратна връзка...
     .accesskey = и
@@ -288,13 +274,11 @@ appmenuitem-relay-description = Скрийте истинските си еле�
 appmenuitem-services-relay-description = Стартираен на таблото за маскиране на електронните адреси
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Вземете защита за цялото устройство
-appmenuitem-vpn-description = Защита на действията ви онлайн
 appmenu-services-header = Моите услуги
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Опитайте други защитни инструменти от Mozilla:
-appmenu-other-protection-header = Опитайте други инструменти за защита от { -vendor-short-name }:
 
 ## Profiles panel
 

@@ -31,24 +31,12 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = സ്ഥാപിക്കലിലേക്കു് തുടരുക
     .accesskey = ത
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-message = ഈ ഉപയോഗം സുരക്ഷിതമാവുമെന്നുറപ്പില്ല. താങ്ങൾക്കു് ഉറപ്പുണ്ടെങ്കിൽമാത്രം തുടരുവിൻ.
-
-##
-
-xpinstall-disabled-locked = യന്ത്രാംശ സ്ഥാപിക്കൽ താങ്ങളുടെ വ്യവസ്ഥ ഭരണാധികാരി തടഞ്ഞിരിക്കുന്നു.
 xpinstall-disabled-by-policy = യന്ത്രാംശ സ്ഥാപിക്കൽ താങ്ങളുടെ സ്ഥാപനം തടഞ്ഞിരിക്കുന്നു.
 xpinstall-disabled = യന്ത്രാംശ സ്ഥാപിക്കൽ തല്ക്കാലം നിര്‍ജ്ജീവമാണ്‌. 'സജ്ജീവമാക്കുക' ബട്ടണ്‍ അമർത്തിയിട്ടു് ശേഷം വീണ്ടും ശ്രമിക്കുക
 xpinstall-disabled-button =
     .label = സജ്ജമാക്കുക
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId })-നെ താങ്ങളുടെ വ്യവസ്ഥഭരണാധികാരി തടഞ്ഞിരിക്കുന്നു.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -73,9 +61,6 @@ webext-imported-addons = { -brand-short-name }-ലേക്കു് ഇറക�
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = { $name } മാറ്റട്ടെ?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = { -brand-shorter-name } നിന്നു { $name } മാറ്റുണോ?
 addon-removal-button = മാറ്റുക
 addon-removal-abuse-report-checkbox = ഈ വിപുലീകരണം { -vendor-short-name } എന്നതിലേക്ക് റിപ്പോർട്ടുചെയ്യുക
 # Variables:
@@ -129,5 +114,3 @@ addon-local-install-error-not-signed = ഈ ആഡ്-ഓണില്‍ തക�
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { -brand-short-name } { $appVersion }-മായി പൊരുത്തപ്പെടാത്തതിനാല്‍, { $addonName } ഇന്‍സ്റ്റോള്‍ ചെയ്യുവാന്‍ സാധ്യമായില്ല.
 addon-install-error-hard-blocked = { $addonName } മോസില്ലയുടെ നയങ്ങൾ ലംഘിക്കുന്നതിനാൽ { -brand-short-name }-ൽ സ്ഥാപിക്കാൻ കഴിയില്ല.
-addon-install-error-blocklisted = സുരക്ഷാ, സ്ഥിരതാ പ്രശ്നങ്ങള്‍ക്കു് കാരണമാകാന്‍ സാധ്യതയുള്ളതിനാല്‍, { $addonName } ഇന്‍സ്റ്റോള്‍ ചെയ്യുവാന്‍ സാധ്യമായില്ല.
-addon-install-error-soft-blocked = { $addonName } മോസില്ലയുടെ നയങ്ങൾ ലംഘിക്കുന്നതിനാൽ { -brand-short-name }-ൽ സ്ഥാപിക്കാൻ കഴിയില്ല.

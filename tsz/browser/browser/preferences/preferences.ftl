@@ -3,34 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pane-general-title = Iamu ampe
-category-general =
-    .tooltiptext = { pane-general-title }
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 close-button =
     .aria-label = Mikani
 
 ## General Section
 
-startup-header = Uénakua
 tabs-group-header2 =
     .label = Arhukutarakua
-tabs-group-header = Arhukutarakua
 startup-group =
     .label = Uénakua
 
 ## General Section - Language & Appearance
 
-advanced-fonts =
-    .label = Orhepaniksï...
-    .accesskey = O
 choose-language-description = Eraku ma uantakuani nákinkari uekaka parakari xaranharitaka web
 choose-button =
     .label = K´umanharhitani...
@@ -38,7 +24,6 @@ choose-button =
 
 ## General Section - Files and Applications
 
-download-header = Anchitarakua keskukuecha
 applications-type-column =
     .label = Najasi ukua
     .accesskey = N
@@ -66,8 +51,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -81,7 +64,6 @@ applications-use-other-label =
 
 ## Accessibility page
 
-browsing-title = Miiunskakua
 browsing-use-autoscroll =
     .label = Jintiojku itsakukua
     .accesskey = i
@@ -127,16 +109,9 @@ sync-engine-history =
 
 ## Privacy Section - History
 
-history-remember-option-all =
-    .label = Karakata patsakatani miántani
-history-remember-option-never =
-    .label = Karakata patsakatani nóteru miántani
-history-remember-option-custom =
-    .label = Karakata patsakatantini májku pérache
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } ánchitarakuantku marhuataati, ka no patsapaati enkari xáni erhanharhitaka.
-history-dontremember-description = { -brand-short-name } ánchitarakuantku marhuataati, ka no patsapaati enkari xáni erhanharhitaka.
 history-private-browsing-permanent =
     .label = Juchiti ánchitarakuantku marhuata mentkisï
     .accesskey = J
@@ -149,15 +124,6 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Xerpetarakua…
     .accesskey = X
-
-## Privacy Section - Permissions
-
-permissions-block-popups =
-    .label = Eranharitarakuechani p´inkuni
-    .accesskey = E
-permissions-addon-exceptions =
-    .label = Licha no ampe…
-    .accesskey = L
 
 ## The following strings are used in the Download section of settings
 

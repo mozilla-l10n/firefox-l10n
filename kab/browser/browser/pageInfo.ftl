@@ -152,7 +152,6 @@ media-unknown-not-cached =
     .value = Arussin (ulac-it deg tuffra)
 permissions-use-default =
     .label = Tisirag n tazwara
-security-no-visits = Ala
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -224,11 +223,6 @@ media-file-size = { $size } KAṬ
 ## Variables:
 ##   $website (string) — The url of the website pageInfo is getting info for
 
-# This string is used to display the website name next to the
-# "Block Images" checkbox in the media tab
-media-block-image =
-    .label = Sewḥel tugniwin i d-yekkan seg { $website }
-    .accesskey = u
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 page-info-page =

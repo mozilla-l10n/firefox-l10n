@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Omogoči Warp, projekt, katerega cil
 experimental-features-ime-search =
     .label = Naslovna vrstica: prikaži rezultate med sestavljanjem IME
 experimental-features-ime-search-description = IME (Urejevalnik metode vnosa) je orodje, ki omogoča vnos kompleksnih simbolov, kot so tisti iz vzhodnoazijskih ali indijskih pisav, preko standardne tipkovnice. Z omogočanjem tega poskusa bo plošča z naslovno vrstico ostala prikazana, vključno z rezultati iskanja in predlogi, medtem ko boste z IME vnašali besedilo. Upoštevajte, da lahko IME prikaže ploščo, ki prekriva rezultate v naslovni vrstici, zato je ta nastavitev priporočljiva le za IME, ki ne uporablja takšne plošče.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Slika v sliki: samodejno odpri ob preklopu na zavihek
-experimental-features-auto-pip-description = Omogoči sliko v sliki za aktivne videoposnetke ob preklopu z enega zavihka na drugega.
 experimental-features-group-developer-tools =
     .label = Razvojna orodja
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Produktivnost
 experimental-features-group-newtab-widgets =
     .label = Pripomočki na { -firefox-home-brand-name(sklon: "mestnik") }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Gesla v stranski vrstici
-experimental-features-contextual-password-manager-description = Imejte dostop do gesel neposredno iz stranske vrstice. Nič več iskanja in ponastavljanja gesel, kadar se poskušate prijaviti. Če želite uporabljati to možnost, v stranski vrstici izberite gesla. Nato odprite splošne nastavitve in pod Postavitev brskalnika izberite Prikaži stransko vrstico. Nato prilagodite stransko vrstico z izbiro gesel. Če preizkusite to možnost, <a data-l10n-name="connect">nam sporočite svoje mnenje</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Izberite ozadje ali barvo po meri za stran novega zavihka

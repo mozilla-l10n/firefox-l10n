@@ -41,7 +41,6 @@ policy-DisableDefaultBrowserAgent = Liegt noklusējuma pārlūka aģentam veikt 
 policy-DisableDeveloperTools = Liegt piekļuvi izstrādātāju rīkiem.
 policy-DisableEncryptedClientHello = Izslēgt TLS funkcijas Encrypted Client Hello (ECH) izmantošanu.
 policy-DisableFeedbackCommands = Atspējo komandas, kas var nosūtīt atsauksmes no Palīdzības izvēlnes (Sūtīt atsauksmi un Ziņot par krāpnieku lapu).
-policy-DisableFirefoxAccounts = Izslēgt uz { -fxaccount-brand-name } balstītus pakalpojumus, tostarp Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Izslēgt ar kontu saistītus pakalpojumus, tostarp sinhronizāciju.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -51,7 +50,6 @@ policy-DisableForgetButton = Liedz pieeju Aizmirst pogai.
 policy-DisableFormHistory = Neatcerēties meklēšanas un veidlapu vēsturi.
 policy-DisablePrimaryPasswordCreation = Ja iestatīts, nevar izveidot galveno paroli.
 policy-DisablePasswordReveal = Liegt izpaust paroles pie saglabātajiem lietotājvārdiem.
-policy-DisablePocket2 = Izslēgt iespēju saglabāt tīmekļlapas { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Izslēgt privāto pārūkošanu.
 policy-DisableProfileImport = Izslēgt izvēlnes vienumu datu importēšanai no cita pārlūka.
 policy-DisableProfileRefresh = Izslēgt { -brand-short-name } atsvaidzināšanas pogu lapā about:support
@@ -117,7 +115,6 @@ policy-PostQuantumKeyAgreementEnabled = Ieslēgt pēckvantu atslēgas līgumu TL
 policy-PDFjs = Izslēgt vai konfigurēt PDF.js, iebūvēto { -brand-short-name } PDF skatītāju.
 policy-Permissions2 = Konfigurēt kameras, mikrofona, atrašanās vietas, paziņojumu un automātiskās atskaņošanas atļaujas.
 policy-PictureInPicture = Ieslēgt vai izslēgt funkciju attēls-attēlā.
-policy-PopupBlocking = Ļaut zināmām lapām pēc noklusējuma rādīt uznirstošos logus.
 policy-Preferences = Iestatīt un noslēgt perefreneču apakškopu vērtības.
 policy-PrivateBrowsingModeAvailability = Iestatīt privātās pārlūkošanas režīma pieejamību.
 policy-PromptForDownloadLocation = Lejuplādējot vaicāt, kur saglabāt datnes.

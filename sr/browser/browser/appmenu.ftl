@@ -45,8 +45,6 @@ appmenuitem-extensions-and-themes =
     .label = Додаци и теме
 appmenuitem-extensions =
     .label = Додаци
-appmenuitem-addons-and-themes =
-    .label = Додаци и теме
 appmenuitem-print =
     .label = Штампај…
 appmenuitem-find-in-page =
@@ -156,7 +154,6 @@ fxa-menu-get-firefox-mobile =
     .label = Преузми { -brand-product-name } за Android или iOS
 fxa-menu-secure-sync-subpanel =
     .title = Безбедно усклађивање
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Налог
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -178,15 +175,6 @@ appmenuitem-save-page =
     .label = Сачувај страницу као…
 appmenuitem-fxa-sync-off-title = Усклађивање је искључено
 appmenuitem-fxa-sync-off-description = Заштитите и приступите вашим обележивачима, лозинкама и другим подацима било где.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Шта је ново
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Обавести о новим функцијама
-    .accesskey = О
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -340,8 +328,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Подаци о решавању проблема
     .accesskey = д
-appmenu-help-report-site-issue =
-    .label = Пријави проблем са сајтом…
 appmenu-help-share-ideas =
     .label = Поделите идеје и повратне податке…
     .accesskey = д
@@ -407,7 +393,6 @@ appmenuitem-vpn-description5 = Остварите додатну заштиту 
 appmenuitem-vpn-title-signed-in1 = Преузми { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Набавите заштиту за цео уређај
-appmenuitem-vpn-description = Заштитите ваше радње на мрежи
 appmenu-services-header = Моје услуге
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -417,7 +402,6 @@ appmenu-other-protection-header3 = Алати за приватност
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Испробајте друге Mozilla-ине алате за заштиту:
-appmenu-other-protection-header = Пробајте друге заштитне алате од { -vendor-short-name }:
 
 ## Profiles panel
 

@@ -8,4 +8,3 @@ label-interventions = হস্তক্ষেপ
 # Variables:
 #   $bug (string) - Bug number
 label-more-information = আরও তথ্য: বাগ { $bug }
-text-title = about:compat

@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = بند تھئے PeerCon
 about-webrtc-aec-logging-msg-label = AEC لاگنگ
 about-webrtc-aec-logging-off-state-label = AEC لاگنگ شروع کرو
 about-webrtc-aec-logging-on-state-label = AEC لاگنگ کوں روکو
-about-webrtc-aec-logging-on-state-msg = AEC لاگنگ فعال (کجھ منٹ کیتے کال کرݨ والے نال ڳالھ کرو تے ول کیپچر روک ݙیو)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC لاگنگ فعال (کجھ منٹ کیتے کال کرݨ والے نال ڳالھ کرو تے ول کیپچر روک ݙیو)
 about-webrtc-aec-logging-unavailable-sandbox = ماحولیاتی متغیر MOZ_DISABLE_CONTENT_SANDBOX=1 لاگز برآمد کرݨ کِیتے درکار ہِے۔ اِیں متغیر کوں صرف اِیں صورت وِچ مُرتب کرو جہڑیلے تُساں ممکنہ خطریاں کوں سمجھدے ہوو۔
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = نامزد
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = چُݨا ہویا
 about-webrtc-save-page-label = ورقہ محفوظ کرو
-about-webrtc-debug-mode-msg-label = ڈیبگ موڈ
-about-webrtc-debug-mode-off-state-label = ڈیبگ موڈ شروع کرو
-about-webrtc-debug-mode-on-state-label = ڈیبگ موڈ روکو
-about-webrtc-stats-heading = سیشن شماریات
 about-webrtc-enable-logging-label = WebRTC لاگ پری سیٹ کوں فعال کرو
 about-webrtc-peerconnections-section-heading = RTCPeerConnection دے اعداد و شمار
 about-webrtc-peerconnections-section-show-msg = RTCPeerConnection دے اعداد و شمار ݙِکھاؤ
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = RTCPeerConnection دے اعدا�
 about-webrtc-stats-clear = تاریخ میسو
 about-webrtc-log-heading = کنکشن لاگ
 about-webrtc-log-clear = لاگ صاف کرو
-about-webrtc-log-show-msg = لاگ ݙکھاؤ
-    .title = ایں سیکشن کوں پھیلاوݨ کیتے کلک کرو
-about-webrtc-log-hide-msg = لاگ لُکاؤ
-    .title = ایں سیکشن کوں سنگوڑݨ کیتے کلک کرو
 about-webrtc-log-section-show-msg = لاگ ݙکھاؤ
     .title = ایں سیکشن کوں پھیلاوݨ کیتے کلک کرو
 about-webrtc-log-section-hide-msg = لاگ لُکاؤ
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = پروبھرا امیدوار
 about-webrtc-raw-candidates-heading = تمام خام امیدوار
 about-webrtc-raw-local-candidate = خام مقامی امیدوار
 about-webrtc-raw-remote-candidate = خام پروبھرا امیدوار
-about-webrtc-raw-cand-show-msg = خام امیدوار ݙکھاؤ
-    .title = ایں سیکشن کوں پھیلاوݨ کیتے کلک کرو
-about-webrtc-raw-cand-hide-msg = خام امیدوار لُکاؤ
-    .title = ایں سیکشن کوں سنگوڑݨ کیتے کلک کرو
 about-webrtc-raw-cand-section-show-msg = خام امیدوار ݙکھاؤ
     .title = ایں سیکشن کوں پھیلاوݨ کیتے کلک کرو
 about-webrtc-raw-cand-section-hide-msg = خام امیدوار لُکاؤ
     .title = ایں سیکشن کوں سنگوڑݨ کیتے کلک کرو
 about-webrtc-priority = ترجیح
-about-webrtc-fold-show-msg = تفصیلاں ݙکھاؤ
-    .title = ایں سیکشن کوں پھیلاوݨ کیتے کلک کرو
-about-webrtc-fold-hide-msg = تفصیلاں لُکاؤ
-    .title = ایں سیکشن کوں سنگوڑݨ کیتے کلک کیتے
 about-webrtc-fold-default-show-msg = تفصیلاں ݙکھاؤ
     .title = ایں سیکشن کوں پھیلاوݨ کیتے کلک کرو
 about-webrtc-fold-default-hide-msg = تفصیلاں لُکاؤ
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = مہیا تھیا
 # been provided
 about-webrtc-configuration-element-not-provided = مہیا کائنی تھیا
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = یوزر سیٹ WebRTC ترجیحاں
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = صارف دی طرفُوں تبدیل کِیتا ڳِیا WebRTC کنفیگریشن
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = ویڈیو فریم دے انگ اکھر - MediaStreamTrack ID: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = ورقہ ایندے اوتے ہتھیکڑا کیتا ڳیا ہے: { $path }
-about-webrtc-debug-mode-off-state-msg = ٹریس لاگ ایندے اوتے لبھیا ونڄ سڳدا ہے: { $path }
-about-webrtc-debug-mode-on-state-msg = ڈیبگ موڈ فعال، ٹریس لاگ تے: { $path }
-about-webrtc-aec-logging-off-state-msg = کیپچر شدہ لاگ فائلاں ایندے وِچ لبھ سڳدیاں ہن: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

@@ -62,17 +62,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Sincroniza los marcadores onde teas.
-cfr-doorhanger-bookmark-fxa-body = ¡Un gran descrubimientu! Agora nun quedes ensin esti marcador nos tos preseos móviles. Entama con una { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Sincroniza los marcadores agora…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botón de zarru
     .title = Zarrar
-
-## Protections panel
-
-cfr-protections-panel-header = Restola ensin que te sigan
-cfr-protections-panel-body = Curia los tos datos. { -brand-short-name } protéxete de la mayoría de rastrexadores comunes que siguen lo que faes en llinia.
-cfr-protections-panel-link-text = Lleer más
 
 ## What's New toolbar button and panel
 

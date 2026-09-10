@@ -42,7 +42,6 @@ policy-DisableDefaultBrowserAgent = Tillad ikke at standard browser-agenten fore
 policy-DisableDeveloperTools = Bloker adgang til Udviklerværktøj.
 policy-DisableEncryptedClientHello = Deaktiver TLS-funktionen Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Deaktiver kommandoer til at indsende feedback fra menuen Hjælp (Indsend feedback og Anmeld vildledende websted).
-policy-DisableFirefoxAccounts = Deaktiver tjenester baseret på { -fxaccount-brand-name }, inklusive Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Deaktiver kontobaserede tjenester, inklusive synkronisering.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -52,7 +51,6 @@ policy-DisableForgetButton = Bloker adgang til knappen Glem.
 policy-DisableFormHistory = Husk ikke formular- og søgehistorik.
 policy-DisablePrimaryPasswordCreation = En hovedadgangskode kan ikke oprettes, hvis værdien er sat til true.
 policy-DisablePasswordReveal = Tillad ikke adgangskoder at blive vist i gemte logins.
-policy-DisablePocket2 = Deaktiver funktionen at gemme websider til { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Deaktiver privat browsing.
 policy-DisableProfileImport = Deaktiver menu-kommandoen til at importere data fra en anden browser.
 policy-DisableProfileRefresh = Deaktiver knappen Nulstil { -brand-short-name } på siden about:support.
@@ -123,7 +121,6 @@ policy-PDFjs = Deaktiver eller konfigurer PDF.js, den indbyggede PDF-læser i { 
 policy-Permissions2 = Indstil tilladelser for kamera, mikrofon, position, beskeder og automatisk afspilning.
 policy-PictureInPicture = Slå Billede-i-billede til eller fra.
 policy-PopupBlocking2 = Tillad bestemte websteder at vise pop op-vinduer og blive omdirigeret af tredjeparts-frames.
-policy-PopupBlocking = Tillad bestemte websteder at vise pop op-vinduer som standard.
 policy-Preferences = Indstil og lås værdien for en undergruppe af indstillingerne.
 policy-PrivateBrowsingModeAvailability = Indstil adgang til privat browsing-tilstand.
 policy-PromptForDownloadLocation = Spørg hvor hentede filer skal gemmes.

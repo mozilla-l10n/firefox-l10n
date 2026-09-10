@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } vil åpne med profilen du brukte sist.
 profile-window-create-profile = Opprett en profil
 profile-card-edit-button =
-    .title = Rediger profil
     .aria-label = Rediger profil
+    .title = Rediger profil
 profile-card-delete-button =
-    .title = Slett profil
     .aria-label = Slett profil
+    .title = Slett profil
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Åpne { $profileName }
     .aria-label = Åpne { $profileName }
+    .title = Åpne { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profil { $number }
@@ -83,9 +83,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Slett { $profilename }-profilen
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = Vil du slette { $profilename }-profilen?
 delete-profile-description = { -brand-short-name } vil permanent slette følgende data fra denne enheten:
 # Open is an adjective, as in "browser windows currently open".
@@ -112,28 +109,10 @@ delete-profile-confirm = Slett
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Lys
-# The default dark theme
-profiles-dark-theme = Mørk
 # The default system theme
 profiles-system-theme = System
 profiles-system-theme-title =
     .title = Bruk systemtema
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = Gul ringblomst
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = Blek lavendel
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = Myntegrønn
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = Rosa magnolia
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = Havblå
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = Mursteinsrød
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = Mosegrønn
 profiles-gray-theme = Grå
 profiles-gray-theme-title =
     .title = Bruk grått tema
@@ -290,9 +269,6 @@ profiles-appmenu-callout-tour-subtitle = I ☰-menyen kan du trykke på profilna
 profiles-appmenu-callout-tour-primary-button = Vis meg hvordan
 barbell-avatar = Vektstang
 bike-avatar = Sykkel
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Bruk vektstang-avatar
 bike-avatar-tooltip =

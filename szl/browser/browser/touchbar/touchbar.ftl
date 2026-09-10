@@ -31,4 +31,3 @@ search-bookmarks = zokłodkach
 search-history = historyji
 search-opentabs = ôtwartych kartach
 search-tags = etyketach
-search-titles = tytułach

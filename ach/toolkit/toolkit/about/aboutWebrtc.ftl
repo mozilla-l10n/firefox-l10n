@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = gwok about:webrtc calo
 about-webrtc-aec-logging-msg-label = Gwok me AEC
 about-webrtc-aec-logging-off-state-label = Cak Gwok me AEC
 about-webrtc-aec-logging-on-state-label = Juk gwok me AEC
-about-webrtc-aec-logging-on-state-msg = Gwok me AEC tye katic (lok ki lago cim pi dakika mo manok ka i juk mako ne)
 about-webrtc-aec-logging-toggled-on-state-msg = Gwok me AEC tye katic (lok ki lago cim pi dakika mo manok ka i juk mako ne)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -68,16 +67,9 @@ about-webrtc-nominated = Kicimo
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Kiyero
 about-webrtc-save-page-label = Gwok pot buk
-about-webrtc-debug-mode-msg-label = Kit me nong bal
-about-webrtc-debug-mode-off-state-label = Cak kit me nongo bal
-about-webrtc-debug-mode-on-state-label = Juk kit me nongo bal
 about-webrtc-stats-clear = Jwa gin mukato
 about-webrtc-log-heading = Gwok me kube
 about-webrtc-log-clear = Jwa rikod
-about-webrtc-log-show-msg = nyut gwok
-    .title = dii me yaro bute man
-about-webrtc-log-hide-msg = kan gwok
-    .title = dii me jwiko bute man
 about-webrtc-log-section-show-msg = Nyut gwok
     .title = Dii me yaro bute man
 about-webrtc-log-section-hide-msg = Kan gwok
@@ -98,10 +90,6 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (kiloro)
 about-webrtc-local-candidate = Lacungu ma gang
 about-webrtc-remote-candidate = Lacungu ma kama bor
 about-webrtc-priority = Pire tek
-about-webrtc-fold-show-msg = nyut kore ki kore
-    .title = dii me yaro bute man
-about-webrtc-fold-hide-msg = kan kore ki kore
-    .title = dii me jwiko bute man
 about-webrtc-fold-default-show-msg = Nyut kore ki kore
     .title = Dii me yaro bute man
 about-webrtc-fold-default-hide-msg = Kan kore ki kore
@@ -111,10 +99,6 @@ about-webrtc-encoder-label = Lamung coc
 
 ##
 
-about-webrtc-save-page-msg = kigwoko potbuk i: { $path }
-about-webrtc-debug-mode-off-state-msg = coc ikom lubo kor nonge i: { $path }
-about-webrtc-debug-mode-on-state-msg = tye i kit me nongo bal, loke nonge i: { $path }
-about-webrtc-aec-logging-off-state-msg = pwail me gwok ma kimako nonge i: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Il to motôr di ricercje al è stât cambiât.</strong> { $oldEngine } nol è plui disponibil tant che motôr di ricercje predefinît in { -brand-short-name }. { $newEngine } al è cumò il to motôr di ricercje predefinît. Par passâ a un altri motôr di ricercje predefinît, va tes impostazions. <label data-l10n-name="remove-search-engine-article">Plui informazions</label>
 removed-search-engine-message2 = <strong>Il to motôr di ricercje al è stât cambiât.</strong> { $oldEngine } nol è plui disponibil tant che motôr di ricercje predefinît in { -brand-short-name }. { $newEngine } al è cumò il to motôr di ricercje predefinît. Par passâ a un altri motôr di ricercje predefinît, va tes impostazions.
 remove-search-engine-button = Va ben
 
@@ -52,11 +51,11 @@ install-search-engine-no = No
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Zonte motôr di ricercje
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Modifiche motôr di ricercje
     .style = min-width: 32em;
+    .title = Modifiche motôr di ricercje
 add-engine-button = Zonte motôr personalizât
 add-engine-name = Cîr motôr di ricercje
 add-engine-url2 = URL cun %s al puest dal tiermin di cirî
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Prove a includi %s al puest dal tiermin di 
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Zonte motôr
-    .buttonaccesskeyaccept = Z
     .buttonlabelextra1 = Avanzât
+    .buttonaccesskeyaccept = Z
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Salve motôr
-    .buttonaccesskeyaccept = S
     .buttonlabelextra1 = Avanzât
+    .buttonaccesskeyaccept = S

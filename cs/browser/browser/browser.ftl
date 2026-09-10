@@ -2,133 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } — anonymní prohlížení
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — anonymní prohlížení
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — anonymní prohlížení
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — anonymní prohlížení
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } — anonymní prohlížení
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
 browser-shortcut-description = Rychlé a soukromé prohlížení webu
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private =
-        { -brand-full-name.case-status ->
-            [with-cases] { $content-title } — Anonymní prohlížení { -brand-full-name(case: "gen") }
-           *[no-cases] { $content-title } — Anonymní prohlížení — { -brand-full-name }
-        }
-    .data-content-title-private-with-profile =
-        { -brand-full-name.case-status ->
-            [with-cases] { $content-title } — { $profile-name } — Anonymní prohlížení { -brand-full-name(case: "gen") }
-           *[no-cases] { $content-title } — { $profile-name } — Anonymní prohlížení — { -brand-full-name }
-        }
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private =
-        { -brand-full-name.case-status ->
-            [with-cases] Anonymní prohlížení { -brand-full-name(case: "gen") }
-           *[no-cases] Anonymní prohlížení — { -brand-full-name }
-        }
-    .data-title-private-with-profile =
-        { -brand-full-name.case-status ->
-            [with-cases] { $profile-name } — Anonymní prohlížení { -brand-full-name(case: "gen") }
-           *[no-cases] { $profile-name } — Anonymní prohlížení — { -brand-full-name }
-        }
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } — Anonymní prohlížení
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Anonymní prohlížení
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Anonymní prohlížení
-    .data-title-private-with-profile =
-        { -brand-full-name.case-status ->
-            [with-cases] { $profile-name } — Anonymní prohlížení { -brand-full-name(case: "gen") }
-           *[no-cases] { $profile-name } — Anonymní prohlížení — { -brand-full-name }
-        }
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -207,8 +85,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Otevřít panel zpráv offline úložiště
 urlbar-password-notification-anchor =
     .tooltiptext = Otevřít panel zpráv uložení hesla
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Správa využití zásuvného modulu
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Spravovat sdílení webkamery a/nebo mikrofonu se stránkou
 # "Speakers" is used in a general sense that might include headphones or
@@ -221,15 +97,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Uložit data natrvalo
 urlbar-addons-notification-anchor =
     .tooltiptext = Otevřít panel zpráv instalace doplňku
-urlbar-tip-help-icon =
-    .title = Získat pomoc
 urlbar-search-tips-confirm = Ok, rozumím
 urlbar-search-tips-confirm-short = Rozumím
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Tip:
 urlbar-result-menu-button =
     .title = Otevře nabídku
 urlbar-result-menu-button-feedback = Zpětná vazba
@@ -274,9 +143,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = Vyřadit tento návrh
     .accesskey = O
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = Zjistěte více o { -firefox-suggest-brand-name }
-    .accesskey = Z
 urlbar-result-menu-manage-firefox-suggest =
     .label = Spravovat { -firefox-suggest-brand-name }
     .accesskey = S
@@ -308,8 +174,6 @@ urlbar-dismissal-acknowledgment-weather = Děkujeme za vaši zpětnou vazbu. Ná
 
 urlbar-search-tips-onboard = Méně psaní, více výsledků: používejte { $engineName } přímo z adresního řádku.
 urlbar-search-tips-redirect-2 = Zadejte do adresního řádku hledaný text a uvidíte návrhy od vyhledávače { $engineName } a z vaší historie prohlížení.
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = Vyhledávání je nyní jednodušší. Zkuste své vyhledávání upřesnit zde v adresním řádku. Chcete-li místo toho zobrazit adresu URL, přejděte v nastavení do Vyhledávání.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Klepněte na tuto zkratku, abyste rychleji našli, co potřebujete.
@@ -343,8 +207,6 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Tomuto serveru jste zablokovali ukládání dat natrvalo.
 urlbar-popup-blocked2 =
     .tooltiptext = Pro tuto webovou stránku jste zablokovali vyskakovací okna a přesměrování třetích stran.
-urlbar-popup-blocked =
-    .tooltiptext = Tomuto serveru jste zablokovali otevírání vyskakovacích oken.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Pro tento server jste zablokovali automatické přehrávání médií se zvukem.
 urlbar-canvas-blocked =
@@ -455,24 +317,18 @@ quickactions-cmd-addons3 = rozšíření, motivy vzhledu, doplňky
 # Opens preferences page at AI controls
 quickactions-manageai = Spravovat ovládání AI
 quickactions-cmd-manageai = zakázat ai, vypnout ai, spravovat ai
-quickactions-cmd-addons2 = doplňky
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Správa záložek
 quickactions-cmd-bookmarks = záložky
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Vymazat nedávnou historii
 quickactions-cmd-clearrecenthistory2 = cookies, vymazat  cookies, mezipaměť, vymazat mezipaměť, údaje o prohlížení, vymazat údaje o prohlížení, historie, vymazat nedávnou historii
-quickactions-cmd-clearrecenthistory = vymazat nedávnou historii, historii
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Vymazat historii
-quickactions-cmd-clearhistory = vymazat historii
 # Opens about:downloads page
 quickactions-downloads2 = Zobrazit stahování
 quickactions-cmd-downloads = stahování
 # Opens about:addons page in the extensions section
 quickactions-extensions = Správa rozšíření
 quickactions-cmd-extensions2 = rozšíření, doplňky
-quickactions-cmd-extensions = rozšíření
 # Opens Firefox View
 quickactions-firefoxview = Otevřít { -firefoxview-brand-name(case: "acc") }
 # English is using "view" and "open view", since the feature name is
@@ -495,7 +351,6 @@ quickactions-cmd-colorpicker = výběr barvy, kapátko, sejmutí barvy
 # Opens Firefox Library
 quickactions-cmd-library = knihovna
 quickactions-library = Otevřít Knihovnu stránek
-quickactions-cmd-inspector = průzkumník, nástroje pro vývojáře, devtools
 # Opens about:logins
 quickactions-logins2 = Správa hesel
 quickactions-cmd-logins = přihlašovací údaje, hesla
@@ -505,9 +360,6 @@ quickactions-mute = Ztlumit přehrávání zvuku panelů
 # Replace with idiomatic expressions in your language to silence something or
 # someone.
 quickactions-cmd-mute = ztlumit, ticho, pšššt
-# Opens about:addons page in the plugins section
-quickactions-plugins = Správa zásuvných modulů
-quickactions-cmd-plugins = zásuvné moduly
 # Opens the print dialog
 quickactions-print2 = Vytisknout stránku
 quickactions-cmd-print = tisk
@@ -540,19 +392,16 @@ quickactions-cmd-screenshot2 = snímek obrazovky, pořízení snímku obrazovky
 # Opens about:translations
 quickactions-translate = Přeložit
 quickactions-cmd-translate = přeložit
-quickactions-cmd-screenshot = snímek obrazovky, stránky
 # Opens about:preferences
 quickactions-settings2 = Nastavení
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = nastavení, předvolby, možnosti, spravovat
-quickactions-cmd-settings = nastavení, předvolby, možnosti
 # Opens about:addons page in the themes section
 quickactions-themes = Nastavení vzhledu
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-themes2 = motivy, vzhledy, doplňky
-quickactions-cmd-themes = motivy vzhledu
 # Opens a SUMO article explaining how to update the browser
 quickactions-update =
     { -brand-short-name.case-status ->
@@ -566,7 +415,6 @@ quickactions-cmd-viewsource2 = zobrazit zdrojový kód, zdrojový kód, zdrojov�
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = Otevřít { -firefoxlabs-brand-name }
 quickactions-cmd-labs = laboratoř,experiment
-quickactions-cmd-viewsource = zdrojový kód
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Zjistit více o rychlých akcích
@@ -634,9 +482,7 @@ identity-custom-root = Připojení je ověřeno vydavatelem certifikátů, kter�
 identity-passive-loaded = Části této stránky nejsou zabezpečené (například obrázky).
 identity-active-loaded = Na této stránce jste ochranu zakázali.
 identity-weak-encryption = Tento server používá slabé šifrování.
-identity-insecure-login-forms = Přihlašovací údaje zadané na této stránce mohou být vyzrazeny.
 identity-https-only-connection-upgraded = (povýšeno na HTTPS)
-identity-https-only-label = Režim „pouze HTTPS“
 identity-https-only-label2 = Automaticky povýšit spojení se serverem na zabezpečené
 identity-https-only-dropdown-on =
     .label = Zapnuto
@@ -644,14 +490,6 @@ identity-https-only-dropdown-off =
     .label = Vypnuto
 identity-https-only-dropdown-off-temporarily =
     .label = Dočasně vypnuto
-identity-https-only-info-turn-on2 =
-    { -brand-short-name.gender ->
-        [masculine] Pokud chcete, aby { -brand-short-name } povýšil spojení na zabezpečené, kdykoliv je to možné, zapněte pro tento server režim „pouze HTTPS“.
-        [feminine] Pokud chcete, aby { -brand-short-name } povýšila spojení na zabezpečené, kdykoliv je to možné, zapněte pro tento server režim „pouze HTTPS“.
-        [neuter] Pokud chcete, aby { -brand-short-name } povýšilo spojení na zabezpečené, kdykoliv je to možné, zapněte pro tento server režim „pouze HTTPS“.
-       *[other] Pokud chcete, aby aplikace { -brand-short-name } povýšila spojení na zabezpečené, kdykoliv je to možné, zapněte pro tento server režim „pouze HTTPS“.
-    }
-identity-https-only-info-turn-off2 = Pokud se zdá, že je stránka rozbitá, zkuste vypnout režim „pouze HTTPS“, aby se znovu načetla pomocí nezabezpečeného spojení HTTP.
 identity-https-only-info-turn-on3 =
     { -brand-short-name.gender ->
         [masculine] Zapněte pro tento server povýšení komunikace na HTTPS, pokud chcete, aby { -brand-short-name } povýšil komunikaci, kdykoliv je to možné.
@@ -681,7 +519,6 @@ identity-remove-cert-exception =
     .label = Odstranit výjimku
     .accesskey = O
 identity-description-insecure = Vaše spojení s tímto serverem není soukromé. Informace, které odešlete (jako hesla, zprávy, číslo platební karty atd.), mohou být viděny ostatními.
-identity-description-insecure-login-forms = Přihlašovací údaje, které zadáte na této stránce, nebudou zabezpečeny a mohou být vyzrazeny.
 identity-description-weak-cipher-intro = Vaše spojení s tímto serverem používá slabé šifrování a není soukromé.
 identity-description-weak-cipher-risk = Ostatní lidé mohou vidět vaše informace nebo pozměnit chování stránky.
 identity-description-active-blocked2 =
@@ -704,12 +541,6 @@ identity-description-active-loaded = Tato webová stránka obsahuje obsah, kter�
 identity-description-active-loaded-insecure = Informace, které sdílíte s tímto serverem (jako hesla, zprávy, číslo platební karty, atd.), mohou být viděny ostatními.
 identity-description-tls-key-logging-heading = Vaše připojení nemusí být soukromé
 identity-description-tls-key-logging-message = Aplikace nebo služba může vidět vaši šifrovanou komunikaci z této stránky.
-identity-disable-mixed-content-blocking =
-    .label = Vypnout ochranu
-    .accesskey = V
-identity-enable-mixed-content-blocking =
-    .label = Povolit ochranu
-    .accesskey = P
 identity-more-info-link-text =
     .label = Více informací
 
@@ -726,43 +557,6 @@ browser-window-close-button =
 # Clicking this button closes the window and returns to the tab where it was opened from
 browser-window-return-to-opener =
     .tooltiptext = Návrat zpět
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = PŘEHRÁVÁ
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = ZTLUMENO
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = BLOKOVÁNO AUTO. PŘEHRÁVÁNÍ
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = OBRAZ V OBRAZE
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] Vypnout zvuk panelu
-        [one] Vypnout zvuk panelu
-        [few] Vypnout zvuk { $count } panelů
-       *[other] Vypnout zvuk { $count } panelů
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] Zapnout zvuk panelu
-        [one] Zapnout zvuk panelu
-        [few] Zapnout zvuk { $count } panelů
-       *[other] Zapnout zvuk { $count } panelů
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] Spustit přehrávání
-        [one] Spustit přehrávání
-        [few] Spustit ve { $count } panelech
-       *[other] Spustit v { $count } panelech
-    }
 
 ## Bookmarks toolbar items
 
@@ -811,10 +605,6 @@ sharing-warning-disable-for-session =
 
 webserial-select-port-label = Výběr seriového portu:
 webserial-no-ports-available = Sériové porty nejsou dostupné
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = Pokud chcete používat zkratku F12, otevřete nejprve DevTools z nabídky Nástroje prohlížeče.
 
 ## URL Bar
 
@@ -879,8 +669,6 @@ urlbar-extension =
     .value = Rozšíření:
 urlbar-go-button2 =
     .title = Přejde na adresu v adresním řádku
-urlbar-go-button =
-    .tooltiptext = Přejde na adresu v adresním řádku
 urlbar-page-action-button =
     .tooltiptext = Akce stránky
 urlbar-revert-button =
@@ -938,11 +726,6 @@ urlbar-result-action-tabtosearch-web = Vyhledat pomocí { $engine } přímo z ad
 urlbar-result-action-tabtosearch-other-engine = Vyhledat na webu { $engine } přímo z adresního řádku
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Kopírovat
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = nedefinováno
 # The sub title of an add-on suggestion in the urlbar.
@@ -957,23 +740,6 @@ urlbar-result-mdn-subtitle = { -mdn-brand-name }
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
 urlbar-result-suggestion-recommended = Doporučené
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
-# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
-# The last = sign will be shown as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
-# Shows the result of a formula expression being calculated, to a maximum of 9 significant
-# digits. This is used for numbers < 1.
-# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }{ NUMBER($result, maximumSignificantDigits: 9) }
 # The title of a weather suggestion in the urlbar. The temperature and unit
 # substring should be inside a <strong> tag. If the temperature and unit are not
 # adjacent in the localization, it's OK to include only the temperature in the
@@ -1174,32 +940,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Hledat { $localSea
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Hledat pomocí { $engine }
-urlbar-searchmode-dropmarker =
-    .tooltiptext = Vyberte vyhledávač
-urlbar-searchmode-bookmarks =
-    .label = Záložky
-urlbar-searchmode-tabs =
-    .label = Panely
-urlbar-searchmode-history =
-    .label = Historie
-urlbar-searchmode-actions =
-    .label = Akce
-urlbar-searchmode-exit-button =
-    .tooltiptext = Zavřít
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = Vyhledat pomocí:
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = Nastavení vyhledávání
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button2 =
-    .label = { $engine }, vyberte vyhledávač
-    .tooltiptext = { $engine }, vyberte vyhledávač
-urlbar-searchmode-button-no-engine =
-    .label = Není vybrána žádná zkratka, vyberte zkratku
-    .tooltiptext = Není vybrána žádná zkratka, vyberte zkratku
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1306,16 +1046,10 @@ urlbar-group-trending =
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Nezobrazovat populární vyhledávání
     .accesskey = N
-# Label shown above sponsored suggestions in the urlbar results.
-urlbar-group-sponsored =
-    .label = Sponzorováno
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Nezobrazovat populární vyhledávání
     .accesskey = N
-urlbar-result-menu-trending-why =
-    .label = Proč se mi to zobrazuje?
-    .accesskey = P
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = Děkujeme za zpětnou vazbu. Už se vám populární vyhledávání nebudou zobrazovat.
@@ -1400,12 +1134,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Skrýt lištu záložek
            *[other] Zobrazit lištu záložek
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Odebrat nabídku záložek z lišty
-           *[other] Přidat nabídku záložek na lištu
-        }
 
 ##
 
@@ -1436,14 +1164,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = Záložky
-library-recent-activity-title =
-    .value = Nedávná aktivita
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Uložit do { -pocket-brand-name(case: "gen") }
-    .tooltiptext = Uloží stránku do { -pocket-brand-name(case: "gen") }
 
 ## Repair text encoding toolbar button
 
@@ -1537,8 +1257,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = Z
 
 ## Password save/update panel
 
-panel-save-update-username = Uživatelské jméno
-panel-save-update-password = Heslo
 panel-save-update-username-2 =
     .label = Uživatelské jméno
 panel-save-update-password-2 =
@@ -1562,33 +1280,18 @@ menu-share-copy-links =
            *[other] Zkopírovat { $count } odkazů
         }
     .accesskey = o
-menu-share-copy-link =
-    .label = Zkopírovat odkaz
-    .accesskey = Z
 ui-tour-info-panel-close =
     .tooltiptext = Zavřít
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
-popups-infobar-allow =
-    .label = Povolit vyskakovací okna pro { $uriHost }
-    .accesskey = P
-popups-infobar-block =
-    .label = Blokovat vyskakovací okna pro { $uriHost }
-    .accesskey = p
 popups-infobar-allow2 =
     .label = Povolit vyskakovací okna a přesměrování třetích stran pro { $uriHost }
     .accesskey = P
 
 ##
 
-popups-infobar-dont-show-message =
-    .label = Při blokování vyskakovacích oken nezobrazovat tuto zprávu
-    .accesskey = n
-edit-popup-settings =
-    .label = Spravovat nastavení vyskakovacích oken…
-    .accesskey = y
 picture-in-picture-hide-toggle =
     .label = Skrýt přepínač obrazu v obraze
     .accesskey = v
@@ -1614,8 +1317,6 @@ navbar-downloads =
     .label = Stahování
 navbar-overflow-2 =
     .tooltiptext = Další nástroje
-navbar-overflow =
-    .tooltiptext = Další nástroje…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1730,13 +1431,8 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = Ukončit anonymní relaci
-    .tooltiptext = Ukončí anonymní relaci
 reset-pbm-panel-heading2 = Vymazat data a zahájit novou anonymní relaci?
 reset-pbm-panel-description2 = Tato akce smaže historii, cookies a všechna další data stránky bez zavření anonymního okna.
-reset-pbm-panel-heading = Ukončit anonymní relaci?
-reset-pbm-panel-description = Zavře všechny anonymní panely a vymažte historii, cookies a všechna další data stránek.
 reset-pbm-panel-always-ask-checkbox =
     .label = Vždy se mě zeptat
     .accesskey = V
@@ -1746,9 +1442,6 @@ reset-pbm-panel-cancel-button =
 reset-pbm-panel-confirm-button2 =
     .label = Vymazat anonymní relaci
     .accesskey = V
-reset-pbm-panel-confirm-button =
-    .label = Smazat data relace
-    .accesskey = S
 reset-pbm-panel-complete = Data anonymní relace byla smazána
 reset-pbm-toolbar-button2 =
     .label = Vymazat anonymní relaci

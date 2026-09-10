@@ -5,18 +5,12 @@
 
 ### These strings are used inside the about:debugging UI.
 
-
-# Page Title strings
-
 # Page title (ie tab title) for the Setup page
 about-debugging-page-title-setup-page = Վրիպազերծում - Տեղակայում
 # Page title (ie tab title) for the Runtime page
 # Variables:
 #   $selectedRuntimeId - ID of the current runtime, such as "this-firefox", "localhost:6080", etc.
 about-debugging-page-title-runtime-page = Վրիպազերծում - աշխատաժամանակ / { $selectedRuntimeId }
-
-# Sidebar strings
-
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = Այս { -brand-shorter-name }-ը
@@ -88,9 +82,6 @@ about-debugging-sidebar-support-icon =
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = Թարմացնել սարքերը
-
-# Setup Page strings
-
 # Title of the Setup page.
 about-debugging-setup-title = Տեղակայում
 # Introduction text in the Setup page to explain how to configure remote debugging.
@@ -135,8 +126,6 @@ about-debugging-setup-network-troubleshoot = Ցանցի տեղադրության
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Ավելացնել
-# Text to display when there are no locations to show.
-about-debugging-network-locations-empty-text = Ցանցի վայրեր դեռ չեն ավելացվել։
 # Text of the label for the text input that allows users to add new network locations in
 # the Connect page. A host is a hostname and a port separated by a colon, as suggested by
 # the input's placeholder "localhost:6080".
@@ -152,9 +141,6 @@ about-debugging-network-location-form-invalid = Անվավեր հյուրընկ�
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
 about-debugging-network-location-form-duplicate = «{ $host-value }» հյուրընկալն արդեն գրանցված է
-
-# Runtime Page strings
-
 # Below are the titles for the various categories of debug targets that can be found
 # on "runtime" pages of about:debugging.
 # Title of the temporary extensions category (only available for "This Firefox" runtime).
@@ -226,9 +212,6 @@ about-debugging-profiler-dialog-title2 = Հատկագրիչ
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
 about-debugging-collapse-expand-debug-targets = Կոծկել / Ընդարձակել
-
-# Debug Targets strings
-
 # Displayed in the categories of "runtime" pages that don't have any debug target to
 # show. Debug targets depend on the category (extensions, tabs, workers...).
 about-debugging-debug-target-list-empty = Դեռ ոչինչ։

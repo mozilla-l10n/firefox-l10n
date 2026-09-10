@@ -21,10 +21,6 @@ security-software-name = Nombre
 security-software-antivirus = Antivirus
 security-software-antispyware = Antispyware
 security-software-firewall = Firewall
-features-title = Caracteristicas de { -brand-short-name }
-features-name = Nombre
-features-version = Versión
-features-id = ID
 processes-title = Procesos remotos
 processes-type = Tipo
 processes-count = Cuenta
@@ -50,7 +46,6 @@ app-basics-profile-dir =
         [linux] Directorio de perfil
        *[other] Carpeta de perfil
     }
-app-basics-enabled-plugins = Plugins activaus
 app-basics-build-config = Configuración de compilación
 app-basics-user-agent = Achent d'usuario
 app-basics-os = SO
@@ -75,9 +70,6 @@ show-dir-label =
 environment-variables-title = Variables d'entorno
 environment-variables-name = Nombre
 environment-variables-value = Valor
-experimental-features-title = Caracteristicas experimentals
-experimental-features-name = Nombre
-experimental-features-value = Valor
 modified-key-prefs-title = Preferencias modificadas importants
 modified-prefs-name = Nombre
 modified-prefs-value = Valura

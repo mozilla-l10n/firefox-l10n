@@ -34,9 +34,6 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Extensions de la barra laterala
-sidebar-customize-firefox-tools-header =
-    .label = Aisinas de { -brand-product-name }
 sidebar-customize-firefox-settings = Gerir los paramètres de { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Onglets verticals
@@ -45,8 +42,6 @@ sidebar-vertical-tabs =
 
 sidebar-context-menu-manage-extension =
     .label = Gerir l’extension
-sidebar-context-menu-remove-extension =
-    .label = Suprimir l’extension
 sidebar-context-menu-report-extension =
     .label = Senhalar l’extension
 sidebar-context-menu-open-in-tab =

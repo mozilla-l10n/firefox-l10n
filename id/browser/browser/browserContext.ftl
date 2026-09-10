@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -145,9 +139,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Simpan Tautan dengan Nama…
     .accesskey = T
-main-context-menu-save-link-to-pocket =
-    .label = Simpan Tautan ke { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -294,18 +285,9 @@ main-context-menu-send-to-device-2 =
     .label = Kirim ke Perangkat
     .accesskey = n
 main-context-menu-send-to-mobile-device-missing2 = Tidak Melihat Peranti Anda?
-main-context-menu-save-to-pocket =
-    .label = Simpan Laman ke { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Kirim Laman ke Perangkat
-    .accesskey = L
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Gunakan Info Masuk Tersimpan
-    .accesskey = G
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Gunakan Kata Sandi Tersimpan
@@ -316,14 +298,8 @@ main-context-menu-use-relay-mask =
 main-context-menu-suggest-strong-password =
     .label = Sarankan Kata Sandi Kuat…
     .accesskey = K
-main-context-menu-manage-logins2 =
-    .label = Kelola Info Masuk
-    .accesskey = K
 main-context-menu-manage-passwords =
     .label = Kelola Kata Sandi
-    .accesskey = K
-main-context-menu-keyword =
-    .label = Tambahkan Kata Kunci untuk Pencarian ini…
     .accesskey = K
 main-context-menu-add-engine =
     .label = Tambahkan Mesin Pencari
@@ -370,9 +346,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Buat Tangkapan Layar
     .accesskey = B
-main-context-menu-take-frame-screenshot =
-    .label = Buat Tangkapan Layar
-    .accesskey = u
 main-context-menu-view-page-source =
     .label = Lihat Kode Sumber Laman
     .accesskey = h

@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Update downloaden – <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Update downloaden – <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Update downloaden – { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Update toepassen…
 update-failed = Update mislukt. <label data-l10n-name="failed-link">Download de nieuwste versie</label>
 update-failed-main = Update mislukt. <a data-l10n-name="failed-link-main">Download de nieuwste versie</a>
-update-adminDisabled = Updates zijn uitgeschakeld door uw systeembeheerder
 update-policy-disabled = Updates uitgeschakeld door uw organisatie
 settings-update-policy-disabled =
     .label = Updates uitgeschakeld door uw organisatie
@@ -72,8 +70,6 @@ helpus-referrals2 = Wilt u helpen? <label data-l10n-name="helpus-donateLink">Doe
 bottomLinks-license = Licentie-informatie
 bottom-links-terms = Gebruiksvoorwaarden
 bottom-links-privacy = Privacyverklaring
-bottomLinks-rights = Eindgebruikersrechten
-bottomLinks-privacy = Privacybeleid
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

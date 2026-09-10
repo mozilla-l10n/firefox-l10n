@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Synkroniserar…
 sync-disconnect-dialog-title2 = Koppla ifrån?
 sync-disconnect-dialog-body = { -brand-product-name } kommer att sluta synkronisera ditt konto men tar inte bort någon av dina surfdata på den här enheten.
 sync-disconnect-dialog-button = Koppla ner
-fxa-signout-dialog2-title = Logga ut från { -fxaccount-brand-name }?
 fxa-signout-dialog-title2 = Logga ut från ditt konto?
 fxa-signout-dialog-body = Synkroniserad data kommer att finnas kvar på ditt konto.
 fxa-signout-dialog2-button = Logga ut
@@ -42,14 +41,6 @@ fxviewtabrow-send-to-mobile-not-verified = Konto inte verifierat
 fxviewtabrow-send-to-mobile-verify-account = Verifiera ditt konto
 fxa-menu-send-to-mobile-turn-on-sync = Aktivera synkronisering för att skicka flikar
 fxa-menu-send-to-mobile-connect-device = Anslut en enhet för att skicka flikar
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Skicka flik till enhet
-           *[other] Skicka { $tabCount } flikar till enhet
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Synkroniserar enheter…

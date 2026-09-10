@@ -15,7 +15,6 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = { -brand-short-name } دەکەیتە وێبگەڕی بنەڕەتی؟
-default-browser-prompt-button-primary-pin = بیکە بە ویبگەڕی بنەڕەتی
 default-browser-prompt-title-alt = { -brand-short-name } دەکەیتە وێبگەڕی سەرەکی؟
 default-browser-prompt-message-alt = خیرا، پارێزراوی، وتایبەتێتی بەدەستبهێنە هەر کاتێک کە گەڕان دەکەیت.
 default-browser-prompt-button-primary-alt = بیکە وێبگەڕی سەرەکی

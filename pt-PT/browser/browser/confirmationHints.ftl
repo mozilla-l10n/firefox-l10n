@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Relatório enviado. Obrigado!
-confirmation-hint-login-removed = Credencial removida!
 confirmation-hint-password-removed = Palavra-passe removida!
 confirmation-hint-page-bookmarked = Guardado nos marcadores
-confirmation-hint-password-saved = Palavra-passe guardada!
 confirmation-hint-password-created = Palavra-passe guardada
 confirmation-hint-password-updated = Palavra-passe atualizada
 confirmation-hint-address-created = Endereço guardado

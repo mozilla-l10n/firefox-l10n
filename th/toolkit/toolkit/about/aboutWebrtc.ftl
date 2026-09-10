@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = ซ่อน PeerConnec
 about-webrtc-aec-logging-msg-label = การบันทึก AEC
 about-webrtc-aec-logging-off-state-label = เริ่มการบันทึก AEC
 about-webrtc-aec-logging-on-state-label = หยุดการบันทึก AEC
-about-webrtc-aec-logging-on-state-msg = การบันทึก AEC ทำงานอยู่ (พูดกับผู้โทรไม่กี่นาทีแล้วหยุดการจับ)
 about-webrtc-aec-logging-toggled-on-state-msg = การบันทึก AEC ทำงานอยู่ (พูดกับผู้โทรไม่กี่นาทีแล้วหยุดการจับ)
 about-webrtc-aec-logging-unavailable-sandbox = ตัวแปรสภาพแวดล้อม MOZ_DISABLE_CONTENT_SANDBOX=1 จำเป็นสำหรับการส่งออกปูม AEC ให้ตั้งค่าตัวแปรนี้ก็ต่อเมื่อคุณเข้าใจความเสี่ยงที่อาจเกิดขึ้นเท่านั้น
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = ถูกกำหนด
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = เลือกแล้ว
 about-webrtc-save-page-label = บันทึกหน้า
-about-webrtc-debug-mode-msg-label = โหมดดีบั๊ก
-about-webrtc-debug-mode-off-state-label = เริ่มโหมดดีบั๊ก
-about-webrtc-debug-mode-on-state-label = หยุดโหมดดีบั๊ก
-about-webrtc-stats-heading = สถิติเซสชัน
 about-webrtc-enable-logging-label = เปิดใช้งานพรีเซ็ตปูม WebRTC
 about-webrtc-peerconnections-section-heading = สถิติ RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = แสดงสถิติ RTCPeerConnection
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = ซ่อนสถิติ RTCP
 about-webrtc-stats-clear = ล้างประวัติ
 about-webrtc-log-heading = รายการบันทึกการเชื่อมต่อ
 about-webrtc-log-clear = ล้างรายการบันทึก
-about-webrtc-log-show-msg = แสดงรายการบันทึก
-    .title = คลิกเพื่อขยายส่วนนี้
-about-webrtc-log-hide-msg = ซ่อนรายการบันทึก
-    .title = คลิกเพื่อยุบส่วนนี้
 about-webrtc-log-section-show-msg = แสดงรายการบันทึก
     .title = คลิกเพื่อขยายส่วนนี้
 about-webrtc-log-section-hide-msg = ซ่อนรายการบันทึก
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = แคนดิเดตระยะไกล
 about-webrtc-raw-candidates-heading = แคนดิเดตดิบทั้งหมด
 about-webrtc-raw-local-candidate = แคนดิเดตภายในดิบ
 about-webrtc-raw-remote-candidate = แคนดิเดตระยะไกลดิบ
-about-webrtc-raw-cand-show-msg = แสดงแคนดิเดตดิบ
-    .title = คลิกเพื่อขยายส่วนนี้
-about-webrtc-raw-cand-hide-msg = ซ่อนแคนดิเดตดิบ
-    .title = คลิกเพื่อยุบส่วนนี้
 about-webrtc-raw-cand-section-show-msg = แสดงแคนดิเดตดิบ
     .title = คลิกเพื่อขยายส่วนนี้
 about-webrtc-raw-cand-section-hide-msg = ซ่อนแคนดิเดตดิบ
     .title = คลิกเพื่อยุบส่วนนี้
 about-webrtc-priority = ความสำคัญ
-about-webrtc-fold-show-msg = แสดงรายละเอียด
-    .title = คลิกเพื่อขยายส่วนนี้
-about-webrtc-fold-hide-msg = ซ่อนรายละเอียด
-    .title = คลิกเพื่อยุบส่วนนี้
 about-webrtc-fold-default-show-msg = แสดงรายละเอียด
     .title = คลิกเพื่อขยายส่วนนี้
 about-webrtc-fold-default-hide-msg = ซ่อนรายละเอียด
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = จัดเตรียมไว�
 # been provided
 about-webrtc-configuration-element-not-provided = ไม่ได้จัดเตรียมไว้
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = ค่าปรับแต่ง WebRTC ที่ตั้งโดยผู้ใช้
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = การกำหนดค่า WebRTC ที่ผู้ใช้ปรับเปลี่ยน
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = สถิติเฟรมวิดีโอ - รหัส MediaStreamTrack: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = ได้บันทึกหน้าลงใน: { $path }
-about-webrtc-debug-mode-off-state-msg = บันทึกร่องรอยสามารถพบได้ที่: { $path }
-about-webrtc-debug-mode-on-state-msg = โหมดดีบั๊กทำงานอยู่ บันทึกการตามรอยอยู่ที่: { $path }
-about-webrtc-aec-logging-off-state-msg = ไฟล์บันทึกที่จับสามารถพบได้ใน: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

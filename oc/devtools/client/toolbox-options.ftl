@@ -96,8 +96,6 @@ options-context-advanced-settings = Paramètres avançats
 options-disable-http-cache-label = Desactivar lo cache HTTP (quand la bóstia d'aisinas es dobèrta)
 options-disable-http-cache-tooltip =
     .title = Activar aquesta opcion desactivarà lo cache HTTP per totes los onglets ont la bóstia d'aisina es dobèrta. Aquesta opcion a pas cap d'efèit sus los trabalhadors de servici.
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Activar JavaScript *
 options-disable-javascript-tooltip =
     .title = Activar aquesta opcion desactivarà JavaScript per l'onglet corrent. Aqueste paramètre serà oblidat a la tampadura de l'onglet o de la bóstia d'aisinas.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -122,8 +120,6 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Activar las mapas de font
 options-source-maps-tooltip =
     .title = S’activatz aquesta opcion, las fonts seràn ligadas dins las aisinas.
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Per aquesta session, recarga la pagina
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

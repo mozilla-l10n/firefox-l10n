@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਡਾਟਾ ਪੜ੍ਹ ਅਤੇ ਬਦਲ ਨਹੀਂ ਸਕਦੀ ਹੈ
-origin-controls-quarantined =
-    .label = ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਡਾਟਾ ਪੜ੍ਹਨ ਅਤੇ ਬਦਲਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ
 origin-controls-quarantined-status =
     .label = ਪਾਬੰਦੀਸ਼ੁਦਾ ਸਾਈਟਾਂ ਉੱਤੇ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ
 origin-controls-quarantined-allow =

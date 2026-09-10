@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = 뒤로 가기
 neterror-return-to-previous-page-recommended-button = 뒤로 가기 (권장)
 neterror-try-again-button-2 = 다시 시도
     .accesskey = T
-neterror-try-again-button = 다시 시도
 neterror-add-exception-button = 이 사이트는 항상 계속
 neterror-settings-button = DNS 설정 변경
 neterror-view-certificate-link = 인증서 보기
-neterror-trr-continue-this-time = 이번만 계속
-neterror-disable-native-feedback-warning = 항상 계속
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = 더 알아보기
 ##
 
 neterror-pref-reset = 네트워크 보안 설정이 원인일 수 있습니다. 기본 설정으로 복원하시겠습니까?
-neterror-error-reporting-automatic = 이러한 오류를 보고하여 { -vendor-short-name }가 악성 사이트를 식별하고 차단하는 것을 돕습니다.
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Wi-Fi 연결을 끊었다가 다
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name }는 신뢰할 수 있는 DNS 해석기를 통해 이 사이트 주소에 대한 요청을 보호할 수 없습니다. 이유:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name }는 보안 DNS 공급자를 통해 이 사이트 주소에 대한 요청을 보호할 수 없습니다. 이유:
 neterror-dns-not-found-trr-third-party-warning2 = 기본 DNS 해석기로 계속 사용할 수 있습니다. 그러나 제3자는 사용자가 방문하는 웹 사이트를 볼 수 있습니다.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name }가 { $trrDomain }에 연결할 수 없습니다.
 neterror-dns-not-found-trr-only-timeout = { $trrDomain }에 대한 연결이 예상보다 오래 걸렸습니다.
-neterror-dns-not-found-trr-offline = 인터넷에 연결되어 있지 않습니다.
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain }이(가) 이 웹 사이트를 찾지 못했습니다.
 neterror-dns-not-found-trr-server-problem = { $trrDomain }에 문제가 있습니다.
 neterror-dns-not-found-bad-trr-url = 잘못된 URL.
 neterror-dns-not-found-system-sleep = 시스템이 절전 모드 상태입니다.
 neterror-dns-not-found-trr-unknown-problem = 예기치 않은 문제.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name }는 신뢰할 수 있는 DNS 해석기를 통해 이 사이트 주소에 대한 요청을 보호할 수 없습니다. 이유:
-neterror-dns-not-found-native-fallback-heuristic = 네트워크에서 DNS over HTTP가 비활성화되었습니다.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name }가 { $trrDomain }에 연결할 수 없습니다.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = 삭제, 이동 또는 권한이 없어서 접근할 수
 neterror-unknown-protocol = 이 주소를 열기 위해서는 다른 소프트웨어를 설치할 필요가 있습니다.
 neterror-redirect-loop = 이 문제는 드물게 해당 사이트에서 요구하는 쿠키를 차단하여 발생할 수 있습니다.
 neterror-unknown-socket-type-client-config = 클라이언트의 설정 오류가 원인일 수 있습니다.
-neterror-unknown-socket-type-psm-installed = 시스템에 개인 보안 관리자가 설치 되어 있는지 확인해 보세요.
-neterror-unknown-socket-type-server-config = 서버의 정상적이지 않은 설정 때문일 수도 있습니다.
 neterror-not-cached-intro = 요청하신 문서는 { -brand-short-name } 캐시에서 사용할 수 없습니다.
 neterror-not-cached-sensitive = 보안 예방책으로 { -brand-short-name }는 자동으로 민감한 문서를 다시 요청하지 않습니다.
 neterror-not-cached-try-again = 웹 사이트에서 문서를 다시 요청하려면 다시 시도를 누르세요.

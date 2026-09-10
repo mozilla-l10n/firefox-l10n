@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-password-not-set =
-    .value = (নিৰ্ধাৰিত নহয়)
 failed-pp-change = প্ৰাথমিক পাছৱৰ্ড সলনি কৰিব পৰা নগ'ল।
 incorrect-pp = আপুনি বৰ্তমানৰ সঠিক প্ৰাথমিক পাছৱৰ্ড লিখা নাই। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।
 pp-change-ok = প্ৰাথমিক পাছৱৰ্ড সফলভাৱে সলনি কৰা হ'ল।
@@ -20,21 +18,14 @@ set-password-new =
     .label = নতুন পাছৱাৰ্ড প্ৰবিষ্ট কৰক:
 set-password-reenter =
     .label = পাছৱাৰ্ড আকৌ প্ৰবিষ্ট কৰক:
-set-password-old-password = বৰ্ত্তমানৰ পাছৱাৰ্ড:
-set-password-new-password = নতুন পাছৱাৰ্ড প্ৰবিষ্ট কৰক:
-set-password-reenter-password = পাছৱাৰ্ড আকৌ প্ৰবিষ্ট কৰক:
 set-password-meter = পাছৱাৰ্ডৰ গুণৰ একক
 set-password-meter-loading = ল'ড কৰা হৈছে
 remove-primary-password =
     .title = প্ৰাথমিক পাছৱৰ্ড আঁতৰাওক
-remove-info =
-    .value = আগবাঢ়িবলৈ আপুনি বৰ্ত্তমানৰ পাছৱাৰ্ড দিব লাগিব:
 remove-primary-password-warning1 = লগিন আৰু পাছৱৰ্ডৰ দৰে সংবেদনশীল তথ্য সুৰক্ষিত কৰিবলৈ আপোনাৰ প্ৰাথমিক পাছৱৰ্ড ব্যৱহাৰ কৰা হয়।
 remove-primary-password-warning2 = যদি আপুনি আপোনাৰ প্ৰাথমিক পাছৱৰ্ড আঁতৰায়, আপোনাৰ কম্পিউটাৰৰ সৈতে আপোচ কৰা হ'লে আপোনাৰ তথ্য সুৰক্ষিত নহ'ব।
 remove-password-old =
     .label = বৰ্ত্তমানৰ পাছৱাৰ্ড:
-remove-password-old-password =
-    .value = বৰ্ত্তমানৰ পাছৱাৰ্ড:
 set-password-not-set =
     .label = বৰ্ত্তমানৰ পাছৱাৰ্ড:
     .placeholder = (নিৰ্ধাৰিত নহয়)

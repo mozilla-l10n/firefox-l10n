@@ -10,9 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = { $extension } dobäisetzen?
 webext-perms-sideload-header = { $extension } dobäigesat
-webext-perms-optional-perms-header = { $extension } freet zousätzlech Rechter.
 
 ##
 

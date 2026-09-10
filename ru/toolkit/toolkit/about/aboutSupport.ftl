@@ -29,10 +29,6 @@ security-software-name = Наименование
 security-software-antivirus = Антивирус
 security-software-antispyware = Антишпион
 security-software-firewall = Межсетевой экран
-features-title = Возможности { -brand-short-name }
-features-name = Имя
-features-version = Версия
-features-id = ID
 processes-title = Удалённые процессы
 processes-type = Тип
 processes-count = Количество
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] Папка профиля
        *[other] Папка профиля
     }
-app-basics-enabled-plugins = Включённые плагины
 app-basics-build-config = Конфигурация сборки
 app-basics-user-agent = User Agent
 app-basics-os = ОС
@@ -96,9 +91,6 @@ show-dir-label =
 environment-variables-title = Переменные среды
 environment-variables-name = Имя
 environment-variables-value = Значение
-experimental-features-title = Экспериментальные возможности
-experimental-features-name = Название
-experimental-features-value = Значение
 modified-key-prefs-title = Важные изменённые настройки
 modified-prefs-name = Имя
 modified-prefs-value = Значение
@@ -220,9 +212,6 @@ media-cdm-capabilities = Возможности
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Незашифрованное начало
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = Совместим с HDCP 2.2
 
 ##
 
@@ -399,8 +388,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Отключены экспериментом
-fission-status-experiment-treatment = Включены экспериментом
 fission-status-disabled-by-e10s-env = Отключены средой
 fission-status-enabled-by-env = Включены средой
 fission-status-disabled-by-env = Отключены средой
@@ -409,7 +396,6 @@ fission-status-disabled-by-default = Отключены по умолчанию
 fission-status-enabled-by-user-pref = Включены пользователем
 fission-status-disabled-by-user-pref = Отключены пользователем
 fission-status-disabled-by-e10s-other = E10s отключено
-fission-status-enabled-by-rollout = Включены через поэтапное развёртывание
 async-pan-zoom = Асинхронное панорамирование/зум
 apz-none = нет
 wheel-enabled = включён ввод колесиком

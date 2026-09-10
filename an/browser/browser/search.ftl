@@ -28,7 +28,7 @@ searchbar-icon =
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = Anyadir buscador
     .style = min-width: 32em;
+    .title = Anyadir buscador
 add-engine-button = Anyadir buscador personalizau
 add-engine-name = Nombre d'o motor de busqueda

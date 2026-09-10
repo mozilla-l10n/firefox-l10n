@@ -9,8 +9,6 @@ downloads-cmd-cancel-panel =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = Mustra a carpetta di scarricamenti
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Scancella pricu

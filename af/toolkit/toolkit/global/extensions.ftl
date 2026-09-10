@@ -10,9 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Voeg “{ $extension }” by?
 webext-perms-sideload-header = { $extension } is bygevoeg
-webext-perms-optional-perms-header = { $extension } vra verdere regte aan.
 
 ##
 
@@ -45,21 +43,5 @@ webext-perms-host-description-all-urls = Toegang tot u data vir alle webwerwe
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Toegang tot u data vir werwe in die { $domain }-domein
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Toegang tot u data in { $domainCount } ander domein
-       *[other] Toegang tot u data in { $domainCount } ander domeine
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Toegang tot u data vir { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Toegang tot u data ip { $domainCount } ander werf
-       *[other] Toegang tot u data op { $domainCount } ander werwe
-    }

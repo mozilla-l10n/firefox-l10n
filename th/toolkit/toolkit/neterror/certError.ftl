@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = ใบรับรองไม่ได้�
 cert-error-trust-signature-algorithm-disabled = ใบรับรองไม่ได้รับความเชื่อถือเนื่องจากถูกลงลายเซ็นโดยใช้อัลกอริทึมลายเซ็นที่ถูกปิดใช้งานเนื่องจากอัลกอริทึมนั้นไม่ปลอดภัย
 cert-error-trust-expired-issuer = ใบรับรองไม่ได้รับความเชื่อถือเนื่องจากผู้ออกใบรับรองหมดอายุแล้ว
 cert-error-trust-self-signed = ใบรับรองไม่ได้รับความเชื่อถือเนื่องจากเป็นการออกใบรับรองโดยเจ้าของเว็บไซต์เอง
-cert-error-trust-symantec = ใบรับรองที่ออกโดย GeoTrust, RapidSSL, Symantec, Thawte และ VeriSign จะไม่ได้รับการพิจารณาว่าปลอดภัยอีกต่อไปเนื่องจากผู้ออกใบรับรองเหล่านี้ไม่ปฏิบัติตามแนวทางด้านความปลอดภัยในอดีต
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } ไม่เชื่อถือ { $hostname } เนื่องจากไม่สามารถพิสูจน์ได้ว่าสอดคล้องตามข้อกำหนดความโปร่งใสสำหรับใบรับรองสาธารณะ
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = รหัสข้อผิดพลาด: <a dat
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = เกิดข้อผิดพลาดระหว่างเชื่อมต่อกับ { $hostname } { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = เว็บไซต์จะพิสูจน์ข้อมูลตัวตนของตัวเองผ่านใบรับรองซึ่งออกให้โดยผู้ให้บริการออกใบรับรอง เบราว์เซอร์ส่วนใหญ่ไม่เชื่อถือใบรับรองที่ออกให้โดย GeoTrust, RapidSSL, Symantec, Thawte, และ VeriSign เนื่องจาก { $hostname } ใช้ใบรับรองจากผู้ให้บริการออกใบรับรองรายใดรายหนึ่งเหล่านี้ จึงไม่สามารถพิสูจน์ข้อมูลตัวตนของเว็บไซต์ได้
-cert-error-symantec-distrust-admin = คุณสามารถแจ้งปัญหานี้แก่ผู้ดูแลระบบของเว็บไซต์ได้
 cert-error-old-tls-version = เว็บไซต์นี้อาจไม่รองรับโพรโทคอล TLS 1.2 ซึ่งเป็นเวอร์ชันขั้นต่ำที่รองรับโดย { -brand-short-name }
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = สายใบรับรอง:
-open-in-new-window-for-csp-or-xfo-error = เปิดไซต์ในหน้าต่างใหม่
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = เพื่อปกป้องความปลอดภัยของคุณ { $hostname } จะไม่อนุญาตให้ { -brand-short-name } แสดงหน้าหากไซต์อื่นฝังไว้ หากต้องการดูหน้านี้ คุณต้องเปิดในหน้าต่างใหม่
 fp-certerror-view-certificate-link = ดูใบรับรองของไซต์นี้
 fp-certerror-return-to-previous-page-recommended-button-2 = ย้อนกลับ (แนะนำ)
     .accesskey = ย
-fp-certerror-return-to-previous-page-recommended-button = ย้อนกลับ (แนะนำ)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -106,21 +99,21 @@ fp-certerror-self-signed-important-note = หมายเหตุสำคั�
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = ไซต์ต่างๆ จะใช้ใบรับรองซึ่งออกโดยผู้ออกใบรับรองเพื่อพิสูจน์ตนเองว่าเป็นบุคคลตามที่อ้างจริง { -brand-short-name } ไม่เชื่อถือไซต์นี้เนื่องจากดูเหมือนว่าใบรับรองจะหมดอายุไปแล้วเมื่อ { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }
+fp-certerror-expired-why-dangerous-body = ไซต์ต่างๆ จะใช้ใบรับรองซึ่งออกโดยผู้ออกใบรับรองเพื่อพิสูจน์ตนเองว่าเป็นบุคคลตามที่อ้างจริง { -brand-short-name } ไม่เชื่อถือไซต์นี้เนื่องจากดูเหมือนว่าใบรับรองจะหมดอายุไปแล้วเมื่อ { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = ไซต์ต่างๆ จะใช้ใบรับรองซึ่งออกโดยผู้ออกใบรับรองเพื่อพิสูจน์ตนเองว่าเป็นบุคคลตามที่อ้างจริง { -brand-short-name } ไม่เชื่อถือไซต์นี้เนื่องจากดูเหมือนว่าใบรับรองจะไม่สามารถใช้ได้จนถึง { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }
+fp-certerror-not-yet-valid-why-dangerous-body = ไซต์ต่างๆ จะใช้ใบรับรองซึ่งออกโดยผู้ออกใบรับรองเพื่อพิสูจน์ตนเองว่าเป็นบุคคลตามที่อ้างจริง { -brand-short-name } ไม่เชื่อถือไซต์นี้เนื่องจากดูเหมือนว่าใบรับรองจะไม่สามารถใช้ได้จนถึง { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = นาฬิกาของอุปกรณ์คุณถูกตั้งเป็น { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } ถ้าเวลาดังกล่าวถูกต้องแล้ว ปัญหาด้านความปลอดภัยน่าจะเป็นที่ตัวไซต์เอง ถ้าเวลาผิด คุณสามารถเปลี่ยนได้ในการตั้งค่าระบบของอุปกรณ์คุณ
+fp-certerror-expired-what-can-you-do-body = นาฬิกาของอุปกรณ์คุณถูกตั้งเป็น { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } ถ้าเวลาดังกล่าวถูกต้องแล้ว ปัญหาด้านความปลอดภัยน่าจะเป็นที่ตัวไซต์เอง ถ้าเวลาผิด คุณสามารถเปลี่ยนได้ในการตั้งค่าระบบของอุปกรณ์คุณ
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = รหัสข้อผิดพลาด: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -133,11 +126,11 @@ fp-learn-more-about-time-related-errors = เรียนรู้เพิ่�
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } ไม่เชื่อถือเว็บไซต์นี้ เนื่องจากดูเหมือนว่าใบรับรองที่ให้มาจะไม่ถูกต้องจนถึง { DATETIME($date, timeStyle: "short") } ในวันที่ { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } ไม่เชื่อถือเว็บไซต์นี้ เนื่องจากดูเหมือนว่าใบรับรองที่ให้มาจะไม่ถูกต้องจนถึง { DATETIME($date, timeStyle: "short") } ในวันที่ { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = นาฬิกาของอุปกรณ์คุณถูกตั้งเป็น { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } ถ้าเวลาดังกล่าวถูกต้องแล้ว ปัญหาด้านความปลอดภัยน่าจะเป็นที่ตัวไซต์เอง ถ้าเวลาผิด คุณสามารถเปลี่ยนได้ในการตั้งค่าระบบของอุปกรณ์คุณ
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = นาฬิกาของอุปกรณ์คุณถูกตั้งเป็น { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } ถ้าเวลาดังกล่าวถูกต้องแล้ว ปัญหาด้านความปลอดภัยน่าจะเป็นที่ตัวไซต์เอง ถ้าเวลาผิด คุณสามารถเปลี่ยนได้ในการตั้งค่าระบบของอุปกรณ์คุณ
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -179,8 +172,6 @@ deniedPortAccess-title = ที่อยู่นี้ถูกจำกัด
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = อืมม เรามีปัญหาในการค้นหาไซต์นั้น
 internet-connection-offline-title = ดูเหมือนว่ามีปัญหาเกี่ยวกับการเชื่อมต่ออินเทอร์เน็ตของคุณ
-dns-not-found-trr-only-title2 = อาจมีความเสี่ยงด้านความปลอดภัยในการค้นหาโดเมนนี้
-dns-not-found-native-fallback-title2 = อาจมีความเสี่ยงด้านความปลอดภัยในการค้นหาโดเมนนี้
 fileNotFound-title = ไม่พบไฟล์
 fileAccessDenied-title = การเข้าถึงไฟล์ถูกปฏิเสธ
 generic-title = อุปส์
@@ -205,7 +196,6 @@ unknownSocketType-title = การตอบสนองที่ไม่คา
 nssFailure2-title = การเชื่อมต่อปลอดภัยล้มเหลว
 csp-xfo-error-title = { -brand-short-name } ไม่สามารถเปิดหน้านี้ได้
 corruptedContentErrorv2-title = ข้อผิดพลาดเนื้อหาเสียหาย
-corruptedContentError-title = ข้อผิดพลาดเนื้อหาเสียหาย
 sslv3Used-title = ไม่สามารถเชื่อมต่ออย่างปลอดภัยได้
 inadequateSecurityError-title = การเชื่อมต่อของคุณไม่ปลอดภัย
 blockedByPolicy-title = หน้าที่ถูกปิดกั้น
@@ -228,7 +218,6 @@ fp-certerror-hide-advanced-button = ซ่อนส่วนขั้นสู�
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = ไปยัง { $hostname } ต่อ (มีความเสี่ยง)
 fp-certerror-intro = { -brand-short-name } พบปัญหาด้านความปลอดภัยที่น่าจะดูร้ายแรงสำหรับ <strong>{ $hostname }</strong> ผู้ที่แอบอ้างไซต์นี้อาจจะพยายามขโมยข้อมูลต่างๆ เช่น ข้อมูลบัตรเครดิต รหัสผ่าน หรืออีเมล
 fp-certerror-expired-into = { -brand-short-name } พบปัญหาด้านความปลอดภัยสำหรับ <strong>{ $hostname }</strong> ซึ่งอาจเป็นเพราะไซต์มีการตั้งค่าไม่ถูกต้อง หรือนาฬิกาของอุปกรณ์คุณถูกตั้งเป็นวันที่/เวลาไม่ถูกต้อง
 fp-certerror-transparency-intro = ผู้ที่แอบอ้างเป็น <strong>{ $hostname }</strong> อาจพยายามขโมยข้อมูลต่าง ๆ เช่น ข้อมูลบัตรเครดิต รหัสผ่าน หรืออีเมล

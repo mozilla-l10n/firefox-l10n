@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Barrachd o { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Barrachd o { -vendor-short-name }
 more-from-moz-subtitle = Thoir sùil air bathar eile le { -vendor-short-name } a tha a’ brosnachadh eadar-lìon slàn fallain cuideachd.

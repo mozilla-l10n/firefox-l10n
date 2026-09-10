@@ -16,12 +16,6 @@ onboarding-not-now-button-label = ଏବେ ନୁହେଁ
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 mr1-onboarding-theme-secondary-button-label = ଏବେ ନୁହେଁ
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = ସିଷ୍ଟମ୍ ଥିମ୍

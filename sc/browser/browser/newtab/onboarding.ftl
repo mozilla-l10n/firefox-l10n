@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Agiunghe { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Progressu: passu { $current } de { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -189,11 +183,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Apica { -brand-short-name } a sa barra de is tareas e a su menù prinzipale
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Cumintza cun unu navigadore realizadu dae un'organizatzione chene profetu. Amparamus sa riservadesa tua mentras arròllias in su web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -223,57 +212,10 @@ mr2022-onboarding-set-default-subtitle = Imprea unu navigadore realizadu dae un'
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = S'ùrtima versione nostra est istantargiada a s'inghìriu de tue, e faghet s'arròlliu in su web fàtzile comente mai. Tenimus un'isciacu mannu de novidades chi as a adorare.
 mr2022-onboarding-get-started-primary-button-label = Cunfigura in pagu segundos
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Cunfiguratzione ultra-lestra
-mr2022-onboarding-import-subtitle = Cunfigura { -brand-short-name } comente ti pàrgiat. Agiunghe is sinnalibros, is craes e àteru dae su navigadore betzu tuo.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importa dae su navigadore anteriore tuo
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Sèbera su colore chi t'ispirat
-mr2022-onboarding-colorway-subtitle = Is boghes indipendentes podent cambiare sa cultura.
-mr2022-onboarding-colorway-primary-button-label-continue = Cunfigura e sighi
-mr2022-onboarding-existing-colorway-checkbox-label = Faghe de { -firefox-home-brand-name } una pàgina printzipale prena de colores
-mr2022-onboarding-colorway-label-default = Predefinidu
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Colores de { -brand-short-name } atuales
-mr2022-onboarding-colorway-description-default = <b>Imprea is colores de { -brand-short-name } atuales.</b>
-mr2022-onboarding-colorway-label-playmaker = Regista
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Regista (rùbiu)
-mr2022-onboarding-colorway-description-playmaker = <b>Ses regista.</b> Creas oportunidades pro bìnchere e agiudare a chie tenes acanta a megiorare su giogu.
-mr2022-onboarding-colorway-label-expressionist = Espressionista
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Espressionista (grogu)
-mr2022-onboarding-colorway-description-expressionist = <b>Ses un'espressionista.</b> Bides su mundu in una manera diversa e is creatziones tuas iscidant is emotziones de àtere.
-mr2022-onboarding-colorway-label-visionary = Bisadora
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Bisadora (birde)
-mr2022-onboarding-colorway-description-visionary = <b>Tenes una visione.</b> Pones in duda su status quo e cumbinches is àteras persones a immaginare unu mundu mègius.
-mr2022-onboarding-colorway-label-activist = Ativista
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Ativista (biaitu)
-mr2022-onboarding-colorway-description-activist = <b>Ses un'ativista.</b> Lassas su mundu che a mègius de su chi as agatadu e ghias is àteras persones a crèere in su cambiamentu.
-mr2022-onboarding-colorway-label-dreamer = Sonniadora
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Sonniadora (muradu)
-mr2022-onboarding-colorway-description-dreamer = <b>Tenes unu bisu.</b> Crees chi sa fortuna agiudet is fortes e ispiret is àteras persones a èssere coragiosas.
-mr2022-onboarding-colorway-label-innovator = Annoadora
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Annoadora (aràngiu)
-mr2022-onboarding-colorway-description-innovator = <b>Ses un'annoadora.</b> Bides oportunidades totue e tenes un'impatu in is vidas de ònnia persone inghìriu a tue.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Cola dae s'elaboradore a su telèfonu e a s'elaboradore torra
-mr2022-onboarding-mobile-download-subtitle = Recùpera ischedas de unu dispositivu e sighi dae un'àteru. E sincroniza is sinnalibros e is craes in ònnia logu cun { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Iscansiona su còdighe QR pro otènnere { -brand-product-name } pro mòbiles o <a data-l10n-name="download-label">imbia·ti unu ligòngiu de iscarrigamentu.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Iscansiona su còdighe QR pro otènnere { -brand-product-name } pro mòbiles.
 
@@ -326,15 +268,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Duas manos cun pedde de colore craru e iscuru si donant sa manu
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Bisura de un'iscurigadòrgiu dae sa bentana, cun unu margiane e una pianta in sa perdìtzia
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Una manu disinnat unu grafitu cun unu collage coloradu chi tenet unu ogru birde, un'iscarpa in colore de arantzu, una bòcia rùbia de pallacanestro, cùfias muradas, unu coro biaitu e una colora groga
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Unu margiane saludende dae s’ischermu de un’elaboradore portàtile. S’elaboradore tenet unu puntadore acapiadu.
 onboarding-device-migration-title = Ti donamus torra su benebènnidu!
-onboarding-device-migration-subtitle = Identìfica·ti in { -fxaccount-brand-name(capitalization: "sentence") } pro ti nce leare sinnalibros, craes e cronologia in su dispositivu nou.
 onboarding-device-migration-subtitle2 = Identìfica·ti pro ti nche portare a fatu sinnalibros, cronologia e craes in su dispositivu nou.
 onboarding-device-migration-primary-button-label = Identìfica·ti
 
@@ -442,15 +381,12 @@ tab-groups-onboarding-feature-callout-title = Is grupos de ischedas megiorant s�
 tab-groups-onboarding-feature-callout-subtitle = Traga un’ischeda in pitzus de un’àtera pro creare su primu grupu tuo.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Agata is grupos de ischedas in cale si siat momentu dae su menù Elenca totu is ischedas
-tab-groups-onboarding-create-group-title-2 = Agata is grupos de ischedas inoghe cando ti serbant.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Agata is grupos chirchende·ddos in sa barra de indiritzos.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Cando as a serrare unu grupu de ischedas, dd’as a pòdere torrare a abèrrere in cale si siat momentu dae su menù Elenca totu is ischedas.
-tab-groups-onboarding-saved-groups-title-2 = Cando as a serrare unu grupu de ischedas, dd’as a pòdere torrare a abèrrere dae inoghe in cale si siat momentu.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Agata is grupos serrados chirchende·ddos in sa barra de indiritzos.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Torra a abèrrere is grupos de ischedas in cale si siat momentu dae su menù Elenca totu is ischedas
-tab-groups-onboarding-session-restore-title = Torra a abèrrere grupos de ischedas inoghe cando ti serbat.
 tab-groups-onboarding-dismiss = Andat bene
 
 ## Multi Profiles feature onboarding messages

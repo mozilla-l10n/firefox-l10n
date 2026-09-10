@@ -121,8 +121,6 @@ options-disable-http-cache-tooltip =
     .title = Vënia në punë e kësaj mundësie do të çaktivizojë fshehtinën HTTP për krejt skedat që e kanë grupin e mjeteve hapur. Workers Shërbimetsh nuk preken nga kjo mundësi.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label-2 = Çaktivizoni JavaScript-in
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Çaktivizoni JavaScript-in *
 options-disable-javascript-tooltip =
     .title = Aktivizimi i kësaj mundësie do të çaktivizojë JavaScript-in për skedën e atëçastshme. Nëse skeda ose grupi i mjeteve mbyllen, ky rregullim e humbet fuqinë.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -152,8 +150,6 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = (vetëm sesionin e tanishëm, ringarkon faqen)
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Vetëm për sesionin e tanishëm, ringarkon faqen
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (bën ringarkimin e faqe)

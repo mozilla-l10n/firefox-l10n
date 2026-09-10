@@ -31,8 +31,6 @@ appmenuitem-extensions-and-themes =
     .label = Leudachain is ùrlaran
 appmenuitem-extensions =
     .label = Leudachain
-appmenuitem-addons-and-themes =
-    .label = Tuilleadain ’s ùrlaran
 appmenuitem-print =
     .label = Clò-bhuail…
 appmenuitem-find-in-page =
@@ -101,7 +99,6 @@ appmenu-remote-tabs-unverified = Tha an cunntas agad feumach air dearbhadh.
 appmenuitem-fxa-toolbar-sync-now2 = Sioncronaich an-dràsta
 appmenuitem-fxa-sign-in = Clàraich a-steach gu { -brand-product-name }
 appmenuitem-fxa-manage-account = Stiùirich an cunntas
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Cunntas
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -117,15 +114,6 @@ appmenuitem-save-page =
     .label = Sàbhail an duilleag mar…
 appmenuitem-fxa-sync-off-title = Tha an sioncronachadh dheth
 appmenuitem-fxa-sync-off-description = Dìon is faigh cothrom air na comharran-lìn, na faclan-faire agad is mòran a bharrachd àite sam bith.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Na tha ùr
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Brathan air gleusan ùra
-    .accesskey = g
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -238,8 +226,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Barrachd fiosrachaidh mu fhuasgladh air duilgheadasan
     .accesskey = f
-appmenu-help-report-site-issue =
-    .label = Dèan aithris air duilgheadas leis an làrach...
 appmenu-help-share-ideas =
     .label = Co-roinn do bheachdan…
     .accesskey = b
@@ -286,13 +272,11 @@ appmenuitem-relay-description = Cùm am fìor-phost-d is am fìor-fhòn agad am 
 appmenuitem-services-relay-description = Cuir gu dol deas-bhòrd masgan a’ phuist-d
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Faigh dìon dhan uidheam air fad
-appmenuitem-vpn-description = Dìon do ghnìomhachd air loidhne
 appmenu-services-header = Na seirbheisean agam
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Feuch na h-innealan-dìon eile aig Mozilla:
-appmenu-other-protection-header = Feuch na h-innealan dìon eile o { -vendor-short-name }:
 
 ## Profiles panel
 

@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = 正在同步…
 sync-disconnect-dialog-title2 = 要断开连接吗？
 sync-disconnect-dialog-body = { -brand-product-name } 将停止与您账户的同步，但不会删除此设备上的任何浏览数据。
 sync-disconnect-dialog-button = 断开连接
-fxa-signout-dialog2-title = 要退出 { -fxaccount-brand-name }吗？
 fxa-signout-dialog-title2 = 确定要退出账户吗？
 fxa-signout-dialog-body = 已同步的数据将保留在您的账户中。
 fxa-signout-dialog2-button = 退出
@@ -41,10 +40,6 @@ fxviewtabrow-send-to-mobile-not-verified = 账户未验证
 fxviewtabrow-send-to-mobile-verify-account = 验证您的账户
 fxa-menu-send-to-mobile-turn-on-sync = 开启同步以发送标签页
 fxa-menu-send-to-mobile-connect-device = 连接设备以发送标签页
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label = 发送 { $tabCount } 个标签页到设备
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = 正在同步设备…

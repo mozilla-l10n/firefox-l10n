@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Iccer amaynut
-newtab-settings-button =
-    .title = Sagen asebter n yiccer-ik amaynut
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Sagen asebter-a
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = Sagen
 newtab-customize-panel-label =
     .label = Sagen
-newtab-personalize-settings-icon-label =
-    .aria-label = Iɣewwaren
-    .title = Sagen iccer amaynut
 newtab-settings-dialog-label =
     .aria-label = Iɣewwaṛen
-newtab-personalize-icon-label =
-    .aria-label = Sagen iccer amaynut
-    .title = Sagen iccer amaynut
-newtab-personalize-dialog-label =
-    .aria-label = Sagen
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 
@@ -112,7 +102,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Rnu amsedday n unadi
 newtab-topsites-add-shortcut-header = Anegzum amaynut
-newtab-topsites-edit-topsites-header = Ẓreg asmel ifazen
 newtab-topsites-edit-shortcut-header = Ẓreg anegzum
 newtab-topsites-add-shortcut-label = Rnu anegzum
 newtab-topsites-add-shortcut-title =
@@ -154,20 +143,12 @@ newtab-topsite-sponsored = S lmendad
 newtab-menu-section-tooltip =
     .aria-label = Ldi umuɣ
     .title = Ldi umuɣ
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Kkes
-    .title = Kkes
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Ldi umuɣ asatal i { $title }
     .title = Ldi umuɣ
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Ẓreg asmel-agi
-    .title = Ẓreg asmel-agi
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -178,11 +159,7 @@ newtab-menu-dismiss = Kkes
 newtab-menu-pin = Senteḍ
 newtab-menu-unpin = Serreḥ
 newtab-menu-delete-history = Kkes seg umazray
-newtab-menu-save-to-pocket = Sekles ɣer { -pocket-brand-name }
-newtab-menu-delete-pocket = Kkes si { -pocket-brand-name }
-newtab-menu-archive-pocket = Ḥrez di { -pocket-brand-name }
 newtab-menu-show-privacy-info = Wid yettbeddan fell-aɣ akked tudert-ik tabaḍnit
-newtab-menu-about-fakespot = Ɣef { -fakespot-brand-name }
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Aneqqis
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -190,23 +167,12 @@ newtab-menu-report = Aneqqis
 newtab-menu-section-block = Sewḥel
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Issin ugar
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = Ur ṭṭafar ara asentel-a
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = Sefrek agbur yesεan bab
 newtab-menu-our-sponsors-and-your-privacy = Wid yettbeddan fell-aɣ akked tudert-ik tabaḍnit
 newtab-menu-report-this-ad = Ccetki ɣef udellel-a
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Immed
-newtab-privacy-modal-button-manage = Sefrek iɣewwaren n ugbur yettwarefden
-newtab-privacy-modal-header = Aqadeṛ n tudert-ik tabaḍnit yeɛna-aɣ.
-newtab-privacy-modal-paragraph-2 = Ɣer tama n beṭṭu n teqsiḍin ijebbden, ad ak-d-nesken daɣen igburen usdiden akked wid yettbeddan fell-ak i d-nefren s telqay. <strong>Kkes aɣilif imi isefka-ik n tunigin ur teffɣen ara segunqal i tḥerzeḍ n { -brand-product-name }</strong> — ur ten-nettwali ara, ula d wid i yettbeddan fell-aɣ.
-newtab-privacy-modal-link = Lmed amek tettedu tbaḍnit deg yiccer amaynut
 
 ##
 
@@ -262,31 +228,12 @@ newtab-label-sponsored-fixed = S lmendad
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Kkes tigezmi
-newtab-section-menu-collapse-section = Fneẓ tigezmi
-newtab-section-menu-expand-section = Snefli tigezmi
-newtab-section-menu-manage-section = Sefrek tigezmi
-newtab-section-menu-manage-webext = Sefrek asiɣzef
-newtab-section-menu-add-topsite = Rnu asmel ifazen
-newtab-section-menu-add-search-engine = Rnu amsedday n unadi
-newtab-section-menu-move-up = Ali
-newtab-section-menu-move-down = Ader
 newtab-section-menu-privacy-notice = Tasertit n tbaḍnit
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Fneẓ tigezmi
-newtab-section-expand-section-label =
-    .aria-label = Snefli tigezmi
 
 ## Section Headers.
 
 newtab-section-header-topsites = Ismal ifazen
 newtab-section-header-recent-activity = Armud n melmi kan
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Iwelleh-it-id { $provider }
 newtab-section-header-stories = Tiqsiḍin i ijebbden lwelha
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = Tafrant-nneɣ n wass
@@ -294,10 +241,6 @@ newtab-section-header-todays-picks = Tafrant-nneɣ n wass
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Bdu tuniginn sakin nekkni ad k-n-sken imagraden, tividyutin, akked isebtar nniḍen i γef terziḍ yakan neγ i tceṛḍeḍ dagi.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Ulac wiyaḍ. Uɣal-d ticki s wugar n imagraden seg { $provider }. Ur tebɣiḍ ara ad terǧuḍ? Fren asentel seg wid yettwasnen akken ad twaliḍ imagraden yelhan di Web.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = Ulac wiyaḍ. Uɣal-d ticki s wugar n imagraden. Ur tebɣiḍ ara ad terǧuḍ? Fren asentel seg wid yettwasnen  akken ad twaliḍ imagraden yelhan di Web.
 
@@ -310,38 +253,6 @@ newtab-discovery-empty-section-topstories-loading = Asali…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ihuh! Waqil tigezmi ur d-tuli ara akken iwata.
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Isental ittwasnen aṭas:
-newtab-pocket-new-topics-title = Tebɣiḍ ugar n yimagraden? Wali isental-a yettwassnen aṭas seg { -pocket-brand-name }
-newtab-pocket-more-recommendations = Ugar n iwellihen
-newtab-pocket-learn-more = Issin ugar
-newtab-pocket-cta-button = Awi-d { -pocket-brand-name }
-newtab-pocket-cta-text = Sekles tiqṣiḍin i tḥemmleḍ deg { -pocket-brand-name }, sedhu allaɣ-ik s tɣuri ifazen.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } d yiwen seg twacult n { -brand-product-name }
-newtab-pocket-save = Sekles
-newtab-pocket-saved = Yettwasekles
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = Ugar am wagi
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = Mačči i nekk
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = Tanemmirt. Tamawt-ik ad ak-tall ad tesnerniḍ asuddem-ik.
-newtab-toast-dismiss-button =
-    .aria-label = Zgel
-    .title = Zgel
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = Snirem ayen akk igerrzen deg web
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -350,8 +261,6 @@ newtab-error-fallback-refresh-link = Sali-d aseter akken ad talseḍ aɛraḍ.
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Inegzumen
-newtab-custom-shortcuts-subtitle = Ismal i teskelseḍ neɣ wuɣur terziḍ
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Ismal i teskelseḍ neɣ wuɣur terziḍ
@@ -367,22 +276,8 @@ newtab-custom-row-selector2 =
             [one] { $num } yizirig
            *[other] { $num } yizirigen
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } yizirig
-       *[other] { $num } yizirigen
-    }
-newtab-custom-sponsored-sites = Inegzumen yettwarefden
-newtab-custom-pocket-title = yettuwelleh-d sɣur { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Agbur ufrin i s-yettusuddsen sɣur { -pocket-brand-name }, d aḥric seg twacult { -brand-product-name }
 newtab-custom-stories-personalized-toggle =
     .label = Tiqsiḍin
-newtab-custom-pocket-sponsored = Tiqṣidin yettwarefden
-newtab-custom-pocket-show-recent-saves = Sken iseklas akk ineggura
-newtab-custom-recent-title = Armud n melmi kan
-newtab-custom-recent-subtitle = Tafrant n yismal d ugbur n melmi kan
 newtab-custom-widget-weather-toggle =
     .label = Tagnawt
 newtab-custom-widget-lists-toggle =
@@ -397,7 +292,6 @@ newtab-widget-manage-title = Iwiǧiten
 newtab-custom-close-menu-button =
     .aria-label = Mdel umuɣ
     .title = Mdel
-newtab-custom-close-button = Mdel
 newtab-custom-settings = Sefrek ugar n yiɣewwaṛen
 
 ## New Tab Wallpapers
@@ -537,7 +431,6 @@ newtab-section-unblock-button = Serreḥ
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = Mačči tura
 newtab-section-confirm-block-topic-p1 = D tidet tebɣiḍ ad tesweḥleḍ asental-a?
 # Variables:
 #   $topic (string) - Name of topic that user is blocking

@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = «{ -brand-short-name }» профилеро мекушояд, ки шумо дар навбати охирин истифода кардед.
 profile-window-create-profile = Эҷод кардани профил
 profile-card-edit-button =
-    .title = Таҳрир кардани профил
     .aria-label = Таҳрир кардани профил
+    .title = Таҳрир кардани профил
 profile-card-delete-button =
-    .title = Нест кардани профил
     .aria-label = Нест кардани профил
+    .title = Нест кардани профил
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Кушодани «{ $profileName }»
     .aria-label = Кушодани «{ $profileName }»
+    .title = Кушодани «{ $profileName }»
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Профили { $number }
@@ -74,9 +74,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Нест кардани профили «{ $profilename }»
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = Профили «{ $profilename }»-ро нест мекунед?
 delete-profile-description = Браузери «{ -brand-short-name }» маълумоти зеринро аз ин дастгоҳ бебозгашт нест мекунад:
 # Open is an adjective, as in "browser windows currently open".
@@ -100,28 +97,10 @@ delete-profile-confirm = Нест кардан
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Равшан
-# The default dark theme
-profiles-dark-theme = Торик
 # The default system theme
 profiles-system-theme = Низом
 profiles-system-theme-title =
     .title = Татбиқ кардани мавзуъ дар асоси низом
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = Аббосии зард
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = Лавандаи камранг
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = Пудинаи сабз
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = Магнолияи гулобӣ
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = Кабуди уқёнусӣ
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = Хишти сурх
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = Ушнаи сабз
 profiles-gray-theme = Хокистарӣ
 profiles-gray-theme-title =
     .title = Татбиқ кардани мавзуи хокистариранг
@@ -278,9 +257,6 @@ profiles-appmenu-callout-tour-subtitle = Дар меню аз рӯйи алом�
 profiles-appmenu-callout-tour-primary-button = Нишон диҳед, ки чӣ тавр
 barbell-avatar = Вазна
 bike-avatar = Дучарха
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Татбиқи аватар бо вазна
 bike-avatar-tooltip =

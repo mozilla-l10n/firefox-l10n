@@ -30,14 +30,13 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Tha einnsean-luirg bunaiteach ùr agad.</strong> Chan eil { $oldEngine } ri làimh tuilleadh mar einnsean-luirg bunaiteach ann am { -brand-short-name } tuilleadh. ’S e { $newEngine } an t-einnsean-luirg bunaiteach agad a-nis. Tadhail air na roghainnean a thadhal einnean-luirg bunaiteach eile. <label data-l10n-name="remove-search-engine-article">Learn more</label>
 removed-search-engine-message2 = <strong>Tha einnsean-luirg bunaiteach ùr agad.</strong> Chan eil { $oldEngine } ri làimh tuilleadh mar einnsean-luirg bunaiteach ann am { -brand-short-name } tuilleadh. ’S e { $newEngine } an t-einnsean-luirg bunaiteach agad a-nis. Tadhail air na roghainnean a thadhal einnean-luirg bunaiteach eile.
 remove-search-engine-button = Ceart ma-thà
 
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = Cuir einnsean-luirg ris
     .style = min-width: 38em;
+    .title = Cuir einnsean-luirg ris
 add-engine-button = Cuir einnsean gnàthaichte ris
 add-engine-name = Ainm an einnsein-luirg

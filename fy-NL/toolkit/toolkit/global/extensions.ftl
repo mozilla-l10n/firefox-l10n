@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = { $extension } tafoegje?
-webext-perms-header-with-perms = { $extension } tafoegje? Dizze útwreiding hat tastimming om:
-webext-perms-header-unsigned = { $extension } tafoegje? Dizze útwreiding is net ferifiearre. Kweawollende útwreidingen kinne jo priveegegevens stelle of de kontrôle oer jo kompjûter oernimme. Foegje dizze útwreiding allinnich ta as jo de boarne fertrouwe.
-webext-perms-header-unsigned-with-perms = { $extension } tafoegje? Dizze útwreiding is net ferifiearre. Kweawollende útwreidingen kinne jo priveegegevens stelle of de kontrôle oer jo kompjûter oernimme. Foegje dizze útwreiding allinnich ta as jo de boarne fertrouwe. Dizze útwreiding hat tastimming om:
 webext-perms-sideload-header = { $extension } tafoege
 webext-perms-optional-perms-header2 = { $extension } freget oanfoljende tastimmingen
-webext-perms-optional-perms-header = { $extension } freget oanfoljende tastimmingen.
 webext-perms-header2 = { $extension } tafoegje
 webext-perms-list-intro-unsigned = Dizze net-ferifiearre útwreiding kin jo privacy of jo apparaat yn gefaar bringe. Foegje it allinnich ta as jo de boarne fertrouwe.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } is bywurke. Jo moatte nije tastimmingen tastean eardat de nije ferzje ynstallearre wurde kin. As jo kieze foar ‘Annulearje’, sil de aktuele ferzje fan de útwreiding aktyf bliuwe.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } is bywurke. Jo moatte nije tastimmingen tastean eardat de bywurke ferzje ynstallearre wurdt. ‘Annulearje’ kieze sil de aktuele ferzje fan de útwreiding behâlde. Dizze útwreiding hat tastimming om:
 webext-perms-update-accept =
     .label = Fernije
     .accesskey = F
@@ -73,24 +65,8 @@ webext-perms-host-description-file-urls = Lokale bestannen op jo kompjûter bena
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Jo gegevens foar alle websites yn it domein { $domain } benaderje
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Jo gegevens yn { $domainCount } oar domein benaderje
-       *[other] Jo gegevens yn { $domainCount } oare domeinen benaderje
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Jo gegevens foar { $domain } benaderje
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Jo gegevens op { $domainCount } oare website benaderje
-       *[other] Jo gegevens op { $domainCount } oare websites benaderje
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

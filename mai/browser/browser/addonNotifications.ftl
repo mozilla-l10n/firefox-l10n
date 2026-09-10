@@ -6,7 +6,6 @@ xpinstall-prompt = { -brand-short-name } ने एहि साइट केँ
 
 ##
 
-xpinstall-disabled-locked = साफ्टवेयर संस्थापन अहाँक सिस्टम प्रशासक क द्वारा निष्क्रिय कए देल गेल अछि.
 xpinstall-disabled = साफ्टवेयर संस्थापन अखन निष्क्रिय अछि. सक्रिय करू क्लिक करू आओर फेर कोशिश करू .
 
 ## Add-on removal warning
@@ -54,4 +53,3 @@ addon-local-install-error-not-signed = ई सहयुक्ति स्था
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } संस्थापित नहि कएल जाए सकल किएक एकटा ई { -brand-short-name } { $appVersion } सँ संगत नहि अछि.
-addon-install-error-blocklisted = { $addonName } संस्थापित नहि कएल जाए सकल किएक एकटा एकरा सँग स्थायित्व अथवा सुरक्षा समस्या क अत्यधिक जोखिम अछि.

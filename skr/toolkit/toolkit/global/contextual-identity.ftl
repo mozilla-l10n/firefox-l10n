@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = کوئی کنٹینر کائنی
-    .accesskey = N
 user-context-manage-containers =
     .label = کنٹینرز دا بندوبست کرو
     .accesskey = o

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = ولرنیڌن ای بلگه
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -23,11 +20,6 @@ urlbar-translations-button-loading =
     .tooltiptext = ولرنیڌن هونی ٱنجوم ابۊ
 translations-panel-settings-button =
     .aria-label = دؽوۉداری سامووا ولرنیڌن
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } آزمایشی
 
 ## Options in the Firefox Translations settings.
 
@@ -73,14 +65,6 @@ translations-panel-error-dismiss-button =
     .label = فئمیم
 translations-panel-error-change-button =
     .label = آلشت زووݩ بونچک
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = وابخشی، ایما هنی ز { $language } لادراری نؽکۊنیم.
-translations-panel-error-unsupported-hint-unknown = وابخشی، ایما هنی ز ای زووݩ لادراری نؽکۊنیم.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -112,10 +96,6 @@ translations-manage-header = ولرنیڌنا
 translations-manage-settings-button =
     .label = سامووا…
     .accesskey = t
-translations-manage-description = دانلود زووا سی ولرنیڌن آفلاین.
-translations-manage-all-language = پوی زووا
-translations-manage-download-button = دانلود
-translations-manage-delete-button = پاک کردن
 translations-manage-download-description = دانلود زووا سی ولرنیڌن آفلاین
 translations-manage-language-download-button =
     .label = دانلود
@@ -128,8 +108,8 @@ translations-manage-language-remove-all-button =
     .label = پاک کردن پوی
     .accesskey = e
 translations-settings-title =
-    .title = سامووا ولرنیڌن
     .style = min-width: 36em
+    .title = سامووا ولرنیڌن
 translations-settings-close-key =
     .key = w
 translations-settings-languages-column =
@@ -179,16 +159,6 @@ select-translations-panel-init-failure-message =
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = موشکلی من ولرنیڌن پؽش ٱووڌ. دووارته قپ ریت کۊنین.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = وابخشی، ایما هنی ز { $language } لادراری نؽکۊنیم.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = وابخشی، ایما هنی ز ای زووݩ لادراری نؽکۊنیم.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = سامووا ولرنیڌن

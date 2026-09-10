@@ -49,7 +49,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Datadekoder ({ $pid })
 about-processes-socket-process = Nettverk ({ $pid })
-about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Forkserver ({ $pid })
 about-processes-preallocated-process = Forhåndstildelt ({ $pid })
 about-processes-utility-process = Verktøy ({ $pid })
@@ -73,17 +72,6 @@ about-processes-web-isolated-property-with-coop-coep = kryssende-opprinnelse-iso
 ##    $properties (String) A formatted list of properties from the above strings.
 
 about-processes-web-isolated-process2 = { $origin } ({ $properties })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, kryssende-opprinnelse-isolert)
-about-processes-web-isolated-process-private = { $origin } — Privat ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } — Privat ({ $pid }, cross-origin isolert)
 
 ## Details within processes
 

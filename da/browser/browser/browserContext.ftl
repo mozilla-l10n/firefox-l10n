@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Gå en side tilbage ({ $shortcut })
     .aria-label = Tilbage
+    .tooltiptext = Gå en side tilbage ({ $shortcut })
     .accesskey = T
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Gå en side fremad ({ $shortcut })
     .aria-label = Fremad
+    .tooltiptext = Gå en side fremad ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Bogmærk side…
-    .accesskey = m
     .tooltiptext = Bogmærk side
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Bogmærk side…
-    .accesskey = m
     .tooltiptext = Bogmærk side ({ $shortcut })
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = Rediger bogmærke…
-    .accesskey = m
     .tooltiptext = Rediger bogmærke
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Rediger bogmærke…
-    .accesskey = m
     .tooltiptext = Rediger bogmærke ({ $shortcut })
+    .accesskey = m
 main-context-menu-open-link =
     .label = Åbn link
     .accesskey = Å
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Gem link som…
     .accesskey = G
-main-context-menu-save-link-to-pocket =
-    .label = Gem link til { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Slå synkronisering til
 main-context-menu-send-to-mobile-connect-phone3 = Tilslut en enhed for at sende faneblade
 main-context-menu-send-to-mobile-connect-phone-from-link = Tilslut en enhed for at sende et link
 main-context-menu-send-to-mobile-connect-phone-from-page = Tilslut en enhed for at sende en side
-main-context-menu-save-to-pocket =
-    .label = Gem side til { -pocket-brand-name }
-    .accesskey = o
-main-context-menu-send-to-device =
-    .label = Send side til enhed
-    .accesskey = d
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Brug gemt login
-    .accesskey = B
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Brug gemt adgangskode
     .accesskey = B
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Brug { -relay-brand-short-name }-mail-maske
     .accesskey = m
 main-context-menu-suggest-strong-password =
     .label = Foreslå sikker adgangskode…
     .accesskey = r
-main-context-menu-manage-logins2 =
-    .label = Håndter logins
-    .accesskey = H
 main-context-menu-manage-passwords =
     .label = Håndter adgangskoder
     .accesskey = H
-main-context-menu-keyword =
-    .label = Tilføj en genvej til denne søgning…
-    .accesskey = s
 main-context-menu-add-engine =
     .label = Tilføj søgetjeneste
     .accesskey = j
@@ -391,9 +364,6 @@ main-context-menu-view-selection-source =
     .label = Vis markeringens kildekode
     .accesskey = V
 main-context-menu-take-screenshot =
-    .label = Tag skærmbillede
-    .accesskey = T
-main-context-menu-take-frame-screenshot =
     .label = Tag skærmbillede
     .accesskey = T
 main-context-menu-view-page-source =

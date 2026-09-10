@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = Εναλλαγή συσκευών με �
 callout-firefox-view-tab-pickup-subtitle = Λάβετε γρήγορα τις ανοικτές καρτέλες από το τηλέφωνό σας και ανοίξτε τις εδώ για απρόσκοπτη εργασία.
 callout-firefox-view-recently-closed-title = Άμεση επιστροφή σε κλειστές καρτέλες
 callout-firefox-view-recently-closed-subtitle = Όλες οι κλειστές καρτέλες σας θα εμφανιστούν εδώ ως δια μαγείας. Έτσι, δεν θα ανησυχείτε ποτέ μήπως κλείσετε ξανά έναν ιστότοπο κατά λάθος.
-callout-firefox-view-colorways-title = Προσθέστε μια πινελιά χρώματος
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Επιλέξτε την απόχρωση του χρωματικού συνδυασμού που σας ταιριάζει. Μόνο στο { -brand-product-name }.
-callout-firefox-view-colorways-reminder-title = Εξερευνήστε τους νεότερους χρωματικούς συνδυασμούς μας
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Χρωματίστε το πρόγραμμα περιήγησής σας με αυτές τις εμβληματικές αποχρώσεις, εμπνευσμένες από ανεξάρτητες φωνές. Μόνο στο { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Opne eit privat vindauge
     .accesskey = O
 about-private-browsing-search-placeholder = Søk på nettet
-about-private-browsing-info-title = Du er i eit privat vindauge
 about-private-browsing-search-btn =
     .title = Søk på nettet
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Søk med { $engine } eller skriv inn ei adresse
 about-private-browsing-handoff-text-no-engine = Søk eller skriv inn ei adresse
 about-private-browsing-not-private = Du er ikkje i eit privat vindauge no.
-about-private-browsing-info-description-private-window = Private vindauge: { -brand-short-name } slettar søkje- og nettlesarloggen din når du lèt att alle private vindauge. Dette gjer deg ikkje anonym.
-about-private-browsing-info-description-simplified = { -brand-short-name } slettar søkje- og nettlesarloggen din når du lèt att alle private vindauge, men dette gjer deg ikkje anonym.
-about-private-browsing-learn-more-link = Les meir
 about-private-browsing-hide-activity = Gøym aktiviteten og plasseringa di, same kvar du surfar
 about-private-browsing-get-privacy = Få ivaretaking av personvernet overalt der du surfar
 about-private-browsing-hide-activity-1 = Gøym nettlesaraktivitet og plasseringa di med { -mozilla-vpn-brand-name }. Eitt klikk skapar ei trygg tilkopling, sjølv på offentleg Wi-Fi.
@@ -29,8 +25,6 @@ about-private-browsing-prominent-cta = Hald deg privat med { -mozilla-vpn-brand-
 about-private-browsing-focus-promo-cta = Last ned { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Privat nettlesing medan du er på farta
 about-private-browsing-focus-promo-text = Vår dedikerte mobilapp for privat nettlesing slettar historikken og infokapslane kvar gong.
-about-private-browsing-focus-promo-header-b = Ta privat nettlesing til telefonen din
-about-private-browsing-focus-promo-text-b = Bruk { -focus-brand-name } for dei private søka du ikkje vil at hovudmobilnettlesaren din skal sjå.
 about-private-browsing-focus-promo-header-c = Personvern på neste nivå for mobile einingar
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } slettar historikken din kvar gong medan du blokkerer annonsar og sporarar.
 # This string is the title for the banner for search engine selection
@@ -66,11 +60,6 @@ about-private-browsing-relay-promo-link-text = Prøv e-postalias
 
 ## Strings used in a promotion message for cookie banner reduction
 
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = Fjern infokapselbanner!
-about-private-browsing-cookie-banners-promo-button = Færre infokapselbanner
-about-private-browsing-cookie-banners-promo-message = La { -brand-short-name } automatisk svare på sprettoppvindauge om infokapslar for deg slik at du kan gå tilbake til distraksjonsfri surfing. { -brand-short-name } vil avvise alle førespurnadar dersom muleg.
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } tek seg av infokapselbanner for deg

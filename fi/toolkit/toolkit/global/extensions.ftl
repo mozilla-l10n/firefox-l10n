@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Lisätäänkö { $extension }?
-webext-perms-header-with-perms = Lisätäänkö { $extension }? Tällä laajennuksella on seuraavat oikeudet:
-webext-perms-header-unsigned = Lisätäänkö { $extension }? Tämä laajennus on varmentamaton. Haitalliset laajennukset voivat varastaa yksityisiä tietoja tai vaarantaa tietokoneesi turvallisuuden. Lisää se vain, jos luotat lähteeseen.
-webext-perms-header-unsigned-with-perms = Lisätäänkö { $extension }? Tämä laajennus on varmentamaton. Haitalliset laajennukset voivat varastaa yksityisiä tietoja tai vaarantaa tietokoneesi turvallisuuden. Lisää se vain, jos luotat lähteeseen. Tällä laajennuksella on seuraavat oikeudet:
 webext-perms-sideload-header = { $extension } lisätty
 webext-perms-optional-perms-header2 = { $extension } pyytää lisäoikeuksia
-webext-perms-optional-perms-header = { $extension } pyytää lisäoikeuksia.
 webext-perms-header2 = Lisää { $extension }
 webext-perms-list-intro-unsigned = Tämä vahvistamaton laajennus saattaa vaarantaa yksityisyytesi tai laitteesi. Lisää se vain, jos luotat lähteeseen.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } on päivitetty. Sinun on hyväksyttävä uudet käyttöoikeudet, ennen kuin päivitetty versio asennetaan. Jos valitset "Peruuta", nykyinen laajennuksen versio säilytetään.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } on päivitetty. Sinun täytyy hyväksyä uudet oikeudet ennen kuin uusi versio asennetaan. Jos valitset ”Peruuta”, laajennuksen nykyinen versio säilytetään. Tämän laajennuksen uudet oikeudet ovat:
 webext-perms-update-accept =
     .label = Päivitä
     .accesskey = i
@@ -73,24 +65,8 @@ webext-perms-host-description-file-urls = Käytä paikallisia tiedostoja tietoko
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Käytä dataasi { $domain }-verkkotunnuksen sivustoilta
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Käytä dataasi { $domainCount } muulta verkkotunnukselta
-       *[other] Käytä dataasi { $domainCount } muulta verkkotunnukselta
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Käytä dataasi { $domain }-verkkotunnukselta
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Käytä dataasi { $domainCount } muulta sivustolta
-       *[other] Käytä dataasi { $domainCount } muulta sivustolta
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Skryť uzavreté PeerCo
 about-webrtc-aec-logging-msg-label = Záznam AEC
 about-webrtc-aec-logging-off-state-label = Spustiť záznam AEC
 about-webrtc-aec-logging-on-state-label = Zastaviť záznam AEC
-about-webrtc-aec-logging-on-state-msg = Záznam AEC je aktivovaný (rozprávajte sa niekoľko minút s volajúcim a potom zastavte záznam)
 about-webrtc-aec-logging-toggled-on-state-msg = Záznam AEC je aktivovaný (rozprávajte sa niekoľko minút s volajúcim a potom zastavte záznam)
 about-webrtc-aec-logging-unavailable-sandbox = Na export denníkov AEC je potrebná premenná prostredia MOZ_DISABLE_CONTENT_SANDBOX=1. Túto premennú nastavte len vtedy, ak rozumiete možným rizikám.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Nominovaný
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Zvolený
 about-webrtc-save-page-label = Uložiť stránku
-about-webrtc-debug-mode-msg-label = Režim ladenia
-about-webrtc-debug-mode-off-state-label = Spustiť režim ladenia
-about-webrtc-debug-mode-on-state-label = Zastaviť režim ladenia
-about-webrtc-stats-heading = Štatistiky relácie
 about-webrtc-enable-logging-label = Povoliť protokolovanie WebRTC
 about-webrtc-peerconnections-section-heading = Štatistiky RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = Zobraziť štatistiky RTCPeerConnection
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = Skryť štatistiky RTCPeerConnec
 about-webrtc-stats-clear = Vymazať históriu
 about-webrtc-log-heading = Denník pripojenia
 about-webrtc-log-clear = Vymazať protokol
-about-webrtc-log-show-msg = zobraziť záznamy
-    .title = kliknutím rozbalíte túto sekciu
-about-webrtc-log-hide-msg = skryť záznamy
-    .title = kliknutím skryjete túto sekciu
 about-webrtc-log-section-show-msg = Zobraziť záznamy
     .title = Kliknutím rozbalíte túto sekciu
 about-webrtc-log-section-hide-msg = Skryť záznamy
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Vzdialený kandidát
 about-webrtc-raw-candidates-heading = All Raw Candidates
 about-webrtc-raw-local-candidate = Raw Local Candidate
 about-webrtc-raw-remote-candidate = Raw Remote Candidate
-about-webrtc-raw-cand-show-msg = zobraziť raw candidates
-    .title = kliknutím rozbalíte túto sekciu
-about-webrtc-raw-cand-hide-msg = skryť raw candidates
-    .title = kliknutím skryjete túto sekciu
 about-webrtc-raw-cand-section-show-msg = Zobraziť raw candidates
     .title = Kliknutím rozbalíte túto sekciu
 about-webrtc-raw-cand-section-hide-msg = Skryť raw candidates
     .title = Kliknutím skryjete túto sekciu
 about-webrtc-priority = Priorita
-about-webrtc-fold-show-msg = zobraziť podrobnosti
-    .title = kliknutím rozbalíte túto sekciu
-about-webrtc-fold-hide-msg = skryť podrobnosti
-    .title = kliknutím skryjete túto sekciu
 about-webrtc-fold-default-show-msg = Zobraziť podrobnosti
     .title = Kliknutím rozbalíte túto sekciu
 about-webrtc-fold-default-hide-msg = Skryť podrobnosti
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Poskytnuté
 # been provided
 about-webrtc-configuration-element-not-provided = Neposkytnuté
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Používateľom nastavené predvoľby WebRTC
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Používateľom upravená konfigurácia WebRTC
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Štatistika video snímkov - MediaStreamTrack ID: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = stránka uložená do: { $path }
-about-webrtc-debug-mode-off-state-msg = denník sledovania je možné nájsť tu: { $path }
-about-webrtc-debug-mode-on-state-msg = režim ladenia je aktivovaný, denník sledovania tu: { $path }
-about-webrtc-aec-logging-off-state-msg = zachytené záznamy je možné nájsť tu: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

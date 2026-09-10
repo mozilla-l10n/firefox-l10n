@@ -4,14 +4,6 @@
 
 about-reader-loading = Memuat…
 about-reader-load-error = Gagal memuat artikel dari laman
-about-reader-color-scheme-light = Terang
-    .title = Skema Warna Terang
-about-reader-color-scheme-dark = Gelap
-    .title = Skema Warna Gelap
-about-reader-color-scheme-sepia = Sepia
-    .title = Skema Warna Sepia
-about-reader-color-scheme-auto = Otomatis
-    .title = Skema Warna Otomatis
 about-reader-color-light-theme = Terang
     .title = Tema terang
 about-reader-color-dark-theme = Gelap
@@ -24,12 +16,6 @@ about-reader-color-gray-theme = Abu-abu
     .title = Tema abu-abu
 about-reader-color-contrast-theme = Kontras
     .title = Tema kontras
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time = { $range } menit
 
 ## Reader View text and layout menu
 
@@ -37,14 +23,6 @@ about-reader-toolbar-minus =
     .title = Kecilkan Ukuran Teks
 about-reader-toolbar-plus =
     .title = Besarkan Ukuran Teks
-about-reader-toolbar-contentwidthminus =
-    .title = Kurangi Lebar Konten
-about-reader-toolbar-contentwidthplus =
-    .title = Tingkatkan Lebar Konten
-about-reader-toolbar-lineheightminus =
-    .title = Kurangi Tinggi Garis
-about-reader-toolbar-lineheightplus =
-    .title = Tingkatkan Tinggi Garis
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -55,7 +33,6 @@ about-reader-font-type-monospace = Spasi tetap
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Tutup Tampilan Pembaca
-about-reader-toolbar-type-controls = Kontrol Jenis
 about-reader-toolbar-text-layout-controls = Teks dan tata letak
 about-reader-toolbar-theme-controls = Tema
 about-reader-toolbar-savetopocket = Simpan ke { -pocket-brand-name }

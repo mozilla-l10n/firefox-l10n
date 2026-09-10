@@ -103,7 +103,6 @@ permissions-exceptions-shutdown-clearing-desc = Pode especificar quais os sites 
 permissions-exceptions-https-only-window2 =
     .style = { permissions-window2.style }
     .title = Exceções - modo apenas HTTPS
-permissions-exceptions-https-only-desc = Pode desativar o modo apenas HTTPS para sites específicos. O { -brand-short-name } não tentará atualizar a ligação para HTTPS seguro  para estes sites. As exceções não se aplicam a janelas privadas.
 permissions-exceptions-https-only-desc2 = Pode desativar o Modo Apenas HTTPS para sites específicos. O { -brand-short-name } não tentará atualizar a ligação para HTTPS seguro nesses sites.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
@@ -112,20 +111,6 @@ permissions-exceptions-popup-window3 =
     .style = { permissions-window2.style }
     .title = Sites permitidos - Popus e redirecionamentos de terceiros
 permissions-exceptions-popup-desc2 = Pode especificar quais os sites que têm permissão para abrir janelas de popup e serem redirecionados por frames de terceiros.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .style = { permissions-window2.style }
-    .title = Sites permitidos - Pop-ups
-permissions-exceptions-popup-desc = Pode especificar quais os sites que têm permissão para abrir janelas pop-up. Introduza o endereço exato do site que pretende permitir e depois clique em Permitir.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .style = { permissions-window2.style }
-    .title = Exceções - Credenciais guardadas
-permissions-exceptions-saved-logins-desc = Não serão guardadas as credenciais para os seguintes sites
 
 ## Exceptions - Saved Passwords
 

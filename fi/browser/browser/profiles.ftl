@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } avautuu viimeksi käytettyyn profiiliisi.
 profile-window-create-profile = Luo profiili
 profile-card-edit-button =
-    .title = Muokkaa profiilia
     .aria-label = Muokkaa profiilia
+    .title = Muokkaa profiilia
 profile-card-delete-button =
-    .title = Poista profiili
     .aria-label = Poista profiili
+    .title = Poista profiili
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Avaa { $profileName }
     .aria-label = Avaa { $profileName }
+    .title = Avaa { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profiili { $number }
@@ -83,9 +83,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Poista profiili { $profilename }
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = Poistetaanko profiili { $profilename }?
 delete-profile-description = { -brand-short-name } poistaa seuraavat tiedot pysyvästi tältä laitteelta:
 # Open is an adjective, as in "browser windows currently open".
@@ -112,28 +109,10 @@ delete-profile-confirm = Poista
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Vaalea
-# The default dark theme
-profiles-dark-theme = Tumma
 # The default system theme
 profiles-system-theme = Järjestelmä
 profiles-system-theme-title =
     .title = Käytä järjestelmän teemaa
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = Kehäkukankeltainen
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = Vaalea laventeli
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = Mintunvihreä
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = Magnolianpinkki
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = Merensininen
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = Tiilenpunainen
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = Sammaleenvihreä
 profiles-gray-theme = Harmaa
 profiles-gray-theme-title =
     .title = Käytä harmaata teemaa
@@ -290,9 +269,6 @@ profiles-appmenu-callout-tour-subtitle = Napsauta ☰-valikossa profiilinimeäsi
 profiles-appmenu-callout-tour-primary-button = Näytä ohje
 barbell-avatar = Painonnostotanko
 bike-avatar = Polkupyörä
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Käytä painonnostotangon kuvaa profiilikuvana
 bike-avatar-tooltip =

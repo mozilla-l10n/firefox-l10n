@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = חזרה דף אחד אחורה ({ $shortcut })
     .aria-label = אחורה
+    .tooltiptext = חזרה דף אחד אחורה ({ $shortcut })
     .accesskey = ז
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = התקדמות דף אחד קדימה ({ $shortcut })
     .aria-label = קדימה
+    .tooltiptext = התקדמות דף אחד קדימה ({ $shortcut })
     .accesskey = ק
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name(case: "a") }
-    .tooltiptext = { -fxaccount-brand-name(case: "a") }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = הוספת העמוד לסימניות…
-    .accesskey = ע
     .tooltiptext = הוספת העמוד לסימניות
+    .accesskey = ע
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = הוספת העמוד לסימניות…
-    .accesskey = ע
     .tooltiptext = הוספת העמוד לסימניות ({ $shortcut })
+    .accesskey = ע
 main-context-menu-edit-bookmark =
     .aria-label = עריכת סימנייה…
-    .accesskey = ע
     .tooltiptext = עריכת סימנייה
+    .accesskey = ע
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = עריכת סימנייה…
-    .accesskey = ע
     .tooltiptext = עריכת סימנייה ({ $shortcut })
+    .accesskey = ע
 main-context-menu-open-link =
     .label = פתיחת קישור
     .accesskey = פ
@@ -147,9 +141,6 @@ main-context-menu-bookmark-link-2 =
     .accesskey = ס
 main-context-menu-save-link =
     .label = שמירת קישור בשם…
-    .accesskey = מ
-main-context-menu-save-link-to-pocket =
-    .label = שמירת קישור אל { -pocket-brand-name }
     .accesskey = מ
 
 ##
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = יש להפעיל את 
 main-context-menu-send-to-mobile-connect-phone3 = יש לחבר מכשיר כדי לשלוח לשוניות
 main-context-menu-send-to-mobile-connect-phone-from-link = יש לחבר מכשיר כדי לשלוח קישור
 main-context-menu-send-to-mobile-connect-phone-from-page = יש לחבר מכשיר כדי לשלוח דף
-main-context-menu-save-to-pocket =
-    .label = שמירת דף אל { -pocket-brand-name }
-    .accesskey = ש
-main-context-menu-send-to-device =
-    .label = שליחת דף למכשיר
-    .accesskey = מ
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = שימוש בכניסה שמורה
-    .accesskey = ש
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = שימוש בססמה שמורה
     .accesskey = ש
-
-##
-
 main-context-menu-use-relay-mask =
     .label = שימוש במסכת דוא״ל של { -relay-brand-short-name }
     .accesskey = ד
 main-context-menu-suggest-strong-password =
     .label = קבלת הצעה לססמה חזקה…
     .accesskey = ק
-main-context-menu-manage-logins2 =
-    .label = ניהול כניסות
-    .accesskey = כ
 main-context-menu-manage-passwords =
     .label = ניהול ססמאות
     .accesskey = נ
-main-context-menu-keyword =
-    .label = הוספת מילת מפתח לחיפוש זה…
-    .accesskey = ס
 main-context-menu-add-engine =
     .label = הוספת מנוע חיפוש
     .accesskey = ח
@@ -391,9 +364,6 @@ main-context-menu-view-selection-source =
     .label = הצגת קוד מקור של הקטע הנבחר
     .accesskey = ה
 main-context-menu-take-screenshot =
-    .label = צילום מסך
-    .accesskey = צ
-main-context-menu-take-frame-screenshot =
     .label = צילום מסך
     .accesskey = צ
 main-context-menu-view-page-source =

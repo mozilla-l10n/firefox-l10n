@@ -32,10 +32,6 @@ security-software-name = Name
 security-software-antivirus = Antivirus
 security-software-antispyware = Antispyware
 security-software-firewall = Firewall
-features-title = { -brand-short-name } Features
-features-name = Name
-features-version = Version
-features-id = ID
 processes-title = Remote Processes
 processes-type = Type
 processes-count = Count
@@ -61,7 +57,6 @@ app-basics-profile-dir =
         [linux] Profile Directory
        *[other] Profile Folder
     }
-app-basics-enabled-plugins = Enabled Plugins
 app-basics-build-config = Build Configuration
 app-basics-user-agent = User Agent
 app-basics-os = OS
@@ -99,9 +94,6 @@ show-dir-label =
 environment-variables-title = Environment Variables
 environment-variables-name = Name
 environment-variables-value = Value
-experimental-features-title = Experimental Features
-experimental-features-name = Name
-experimental-features-value = Value
 modified-key-prefs-title = Important Modified Preferences
 modified-prefs-name = Name
 modified-prefs-value = Value
@@ -223,9 +215,6 @@ media-cdm-capabilities = Capabilities
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Clear Lead
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = HDCP 2.2 Compatible
 
 ##
 
@@ -397,8 +386,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Disabled by experiment
-fission-status-experiment-treatment = Enabled by experiment
 fission-status-disabled-by-e10s-env = Disabled by environment
 fission-status-enabled-by-env = Enabled by environment
 fission-status-disabled-by-env = Disabled by environment
@@ -407,7 +394,6 @@ fission-status-disabled-by-default = Disabled by default
 fission-status-enabled-by-user-pref = Enabled by user
 fission-status-disabled-by-user-pref = Disabled by user
 fission-status-disabled-by-e10s-other = E10s disabled
-fission-status-enabled-by-rollout = Enabled by phased rollout
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = none
 wheel-enabled = wheel input enabled

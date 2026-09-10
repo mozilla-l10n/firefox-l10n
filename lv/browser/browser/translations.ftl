@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Tulkot šo lapu
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Tulko
 translations-panel-settings-button =
     .aria-label = Pārvaldīt tulkošanas iestatījumus
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Pārvaldīt valodas
-translations-panel-settings-about = Par tulkojumiem ar { -brand-shorter-name }
 translations-panel-settings-about2 =
     .label = Par tulkojumiem ar { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
@@ -83,14 +74,6 @@ translations-panel-error-dismiss-button =
     .label = Sapratu
 translations-panel-error-change-button =
     .label = Mainīt avota valodu
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Diemžēl mēs vēl neatbalstām valodu { $language }.
-translations-panel-error-unsupported-hint-unknown = Diemžēl mēs vēl neatbalstām šo valodu.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -122,10 +105,6 @@ translations-manage-header = Tulkojumi
 translations-manage-settings-button =
     .label = Iestatījumi…
     .accesskey = t
-translations-manage-description = Lejupielādēt valodas bezsaistes tulkošanai.
-translations-manage-all-language = Visas valodas
-translations-manage-download-button = Lejupielādēt
-translations-manage-delete-button = Dzēst
 translations-manage-intro-2 = Iestatiet savas valodas un vietņu tulkošanas preferences un pārvaldiet bezsaistes tulkošanai lejupielādētās valodas.
 translations-manage-download-description = Lejupielādēt valodas bezsaistes tulkošanai
 translations-manage-language-download-button =
@@ -139,12 +118,11 @@ translations-manage-language-remove-all-button =
     .label = Izņemt visu
     .accesskey = e
 translations-manage-error-download = Lejupielādējot valodu datnes, radās problēma. Lūdzu mēģiniet vēlreiz.
-translations-manage-error-delete = Dzēšot valodas datnes, radās kļūda. Lūdzu, mēģiniet vēlreiz.
 translations-manage-error-remove = Izņemot valodas datnes, radās kļūda. Lūdzu, mēģiniet vēlreiz.
 translations-manage-error-list = Neizdevās iegūt tulkošanai pieejamo valodu sarakstu. Atsvaidziniet lapu, lai mēģinātu vēlreiz.
 translations-settings-title =
-    .title = Tulkošanas iestatījumi
     .style = min-width: 36em
+    .title = Tulkošanas iestatījumi
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Automātiski tulkos šīm valodām
@@ -228,16 +206,6 @@ select-translations-panel-init-failure-message =
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Tulkojot radās problēma. Lūdzu, mēģiniet vēlreiz.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Diemžēl mēs vēl neatbalstām valodu { $language }.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Diemžēl mēs vēl neatbalstām šo valodu.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Tulkošanas iestatījumi

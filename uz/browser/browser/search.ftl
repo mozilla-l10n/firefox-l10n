@@ -28,7 +28,7 @@ searchbar-icon =
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = Qidiruv tizimini qoʻshish
     .style = min-width: 32em;
+    .title = Qidiruv tizimini qoʻshish
 add-engine-button = Boshqa tizimni qoʻshish
 add-engine-name = Qidiruv tizimi nomi

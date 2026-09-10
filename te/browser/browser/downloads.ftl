@@ -74,8 +74,6 @@ downloads-cmd-show-description-2 =
             [macos] ఫైండర్‌లో చూపించు
            *[other] సంచయంలో చూపించు
         }
-downloads-cmd-show-downloads =
-    .label = దింపుకోళ్ళ సంచయాన్ని తెరువు
 downloads-cmd-retry =
     .tooltiptext = మళ్ళీ ప్రయత్నించు
 downloads-cmd-retry-panel =

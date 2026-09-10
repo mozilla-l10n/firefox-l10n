@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Treiñ ar bajenn-mañ
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -23,17 +20,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Troidigezh o vezañ graet
 translations-panel-settings-button =
     .aria-label = Merañ arventennoù an treiñ
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Merañ ar yezhoù
-translations-panel-settings-about = Diwar-benn an troidigezhioù e { -brand-shorter-name }
 translations-panel-settings-about2 =
     .label = Diwar-benn an troidigezhioù e { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
@@ -77,14 +68,6 @@ translations-panel-error-dismiss-button =
     .label = Komprenet
 translations-panel-error-change-button =
     .label = Cheñch ar yezh vammenn
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Hon digarezit, n’eo ket skoret ar yezh "{ $language }" c’hoazh.
-translations-panel-error-unsupported-hint-unknown = Digarezit, n’eo ket skoret ar yezh-se c’hoazh.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -116,10 +99,6 @@ translations-manage-header = Troidigezhioù
 translations-manage-settings-button =
     .label = Arventennoù…
     .accesskey = t
-translations-manage-description = Pellgargañ yezhoù evit treiñ digevreet.
-translations-manage-all-language = An holl yezhoù
-translations-manage-download-button = Pellgargañ
-translations-manage-delete-button = Dilemel
 translations-manage-language-download-button =
     .label = Pellgargañ
 translations-manage-language-download-all-button =
@@ -131,11 +110,10 @@ translations-manage-language-remove-all-button =
     .label = Dilemel pep tra
     .accesskey = D
 translations-manage-error-download = C’hoarvezet ez eus bet ur gudenn en ur bellgargañ ar restroù yezh. Klaskit adarre mar plij.
-translations-manage-error-delete = C’hoarvezet ez eus bet ur fazi en ur zilemel ar restroù yezh. Klaskit adarre mar plij.
 translations-manage-error-remove = C'hoarvezet ez eus bet ur fazi en ur dilemel ar restroù yezh. Klaskit adarre mar plij.
 translations-settings-title =
-    .title = Arventennoù an treiñ
     .style = min-width: 36em
+    .title = Arventennoù an treiñ
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Troet e vo ent emgefreek evit ar yezhoù-mañ da-heul
@@ -211,13 +189,3 @@ select-translations-panel-translating-placeholder-text = O treiñ…
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Ur gudenn zo bet en ur dreiñ. Klaskit adarre mar plij.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Hon digarezit, n’eo ket skoret ar yezh "{ $language }" c’hoazh.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Digarezit, n’eo ket skoret ar yezh-se c’hoazh.

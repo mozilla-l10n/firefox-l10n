@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } — wskaźnik udostępniania
-webrtc-indicator-window =
-    .title = { -brand-short-name } — wskaźnik udostępniania
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Dźwięk z mikrofonu jest udostępniany. Kliknij, aby zarządzać udostępnianiem.
 webrtc-screen-system-menu =
     .label = Okno lub ekran jest udostępniany. Kliknij, aby zarządzać udostępnianiem.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Obraz z kamery i dźwięk z mikrofonu są udostępniane. Kliknij, by zarządzać udostępnianiem.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Obraz z kamery jest udostępniany. Kliknij, by zarządzać udostępnianiem.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Dźwięk z mikrofonu jest udostępniany. Kliknij, by zarządzać udostępnianiem.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Aplikacja jest udostępniana. Kliknij, by zarządzać udostępnianiem.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Obraz ekranu jest udostępniany. Kliknij, by zarządzać udostępnianiem.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Obraz okna jest udostępniany. Kliknij, by zarządzać udostępnianiem.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Obraz karty jest udostępniany. Kliknij, by zarządzać udostępnianiem.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -191,7 +172,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Czy zezwolić wi
 
 webrtc-share-screen-warning = Ekran udostępniaj wyłącznie stronom, którym ufasz. Udostępnianie umożliwia podejrzanym stronom przeglądanie sieci jako Ty i kradzież prywatnych danych.
 webrtc-share-browser-warning = Program { -brand-short-name } udostępniaj wyłącznie stronom, którym ufasz. Udostępnianie umożliwia podejrzanym stronom przeglądanie sieci jako Ty i kradzież prywatnych danych.
-webrtc-share-screen-learn-more = Więcej informacji
 webrtc-pick-window-or-screen = wybierz okno lub ekran
 webrtc-share-entire-screen = cały ekran
 webrtc-share-pipe-wire-portal = Użyj ustawień systemu operacyjnego

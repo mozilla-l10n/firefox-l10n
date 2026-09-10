@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = ਵਿੰਡੋਆਂ ਅਤੇ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸੱਜਰੀ ਬਰਾਊਜ਼ਿੰਗ ਵੇਖੋ
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = ਬੰਦ ਕਰੋ
-    .aria-label = ਬੰਦ ਕਰੋ
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = ਹੁਣੇ ਹੁਣੇ
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = ਟੈਬ ਚੋਣ
-firefoxview-tabpickup-description = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਸਫ਼ੇ ਖੋਲ੍ਹੋ।
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% ਪੂਰਾ
-firefoxview-tabpickup-step-signin-header = ਡਿਵਾਈਸ ਵਿਚਾਲੇ ਸਹਿਜ ਨਾਲ ਬਦਲੋ
-firefoxview-tabpickup-step-signin-description = ਤੁਹਾਡੇ ਫ਼ੋਨ ਦੀਆਂ ਟੈਬਾਂ ਵੇਖਣ ਲਈ, ਪਹਿਲਾਂ ਸਾਈਨ ਇਨ ਕਰੋ ਜਾਂ ਖਾਤਾ ਬਣਾਓ।
-firefoxview-tabpickup-step-signin-primarybutton = ਜਾਰੀ ਰੱਖੋ
 firefoxview-syncedtabs-signin-header-2 = ਤੁਹਾਡੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਤੁਹਾਡਾ { -brand-product-name }
 firefoxview-syncedtabs-signin-description-2 = ਤੁਹਾਡੇ ਫ਼ੋਨ ਜਾਂ ਹੋਰ ਡਿਵਾਈਸ ਉੱਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀਆਂ ਟੈਬਾਂ ਨੂੰ ਵੇਖਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਵਿਚ ਸਾਈਨ ਇਨ ਕਰੋ ਜਾਂ ਸਾਈਨ ਅੱਪ ਕਰੋ। ਖਾਤੇ ਨਾਲ ਤੁਸੀਂ ਆਪਣੇ ਪਾਸਵਰਡ, ਅਤੀਤ ਆਦਿ ਨੂੰ ਵੀ ਸਿੰਕ ਕਰ ਸਕਦੇ ਹੋ।
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = ਲੈਪਟਾਪ ਤੋਂ ਫ਼ੋਨ ਤੱਕ ਬਿਨਾਂ ਕਿਸੇ ਰੋਕ ਰੁਕਾਵਟ ਦੇ
 firefoxview-syncedtabs-signin-description-3 = ਆਪਣੀ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਜੋੜੀ ਰੱਖੋ — ਸਿੰਕ ਵਿੱਚ ਜੋ ਵੀ ਹੈ, ਟੈਬਾਂ, ਪਾਸਵਰਡ ਅਤੇ ਅਤੀਤ।
 firefoxview-syncedtabs-signin-primarybutton-2 = ਸਾਈਨ ਇਨ
-firefoxview-tabpickup-adddevice-header = { -brand-product-name } ਨੂੰ ਆਪਣੇ ਫ਼ੋਨ ਜਾਂ ਟੇਬਲੇਟ ਨਾਲ ਸਿੰਕ ਕਰੋ
-firefoxview-tabpickup-adddevice-description = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਡਾਊਨਲੋਡ ਕਰੋ ਤੇ ਸਾਈਨ ਇਨ ਕਰੋ।
-firefoxview-tabpickup-adddevice-learn-how = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ
-firefoxview-tabpickup-adddevice-primarybutton = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਲਵੋ
 firefoxview-syncedtabs-adddevice-header-2 = ਟੈਬਾਂ ਕਿਤੋਂ ਵੀ ਲਵੋ
 firefoxview-syncedtabs-adddevice-description-2 = ਆਪਣੇ ਫ਼ੋਨ ਜਾਂ ਹੋਰ ਕੰਪਿਊਟਰ ਉੱਤੇ { -brand-product-name } ਸਾਈਨ ਇਨ ਕਰਕੇ ਟੈਬਾਂ ਇੱਥੇ ਵੇਖੋ। <a data-l10n-name="url">ਹੋਰ ਡਿਵਾਈਸ ਕਨੈਕਟ</a> ਲਈ ਸਿੱਖੋ।
 firefoxview-syncedtabs-adddevice-primarybutton = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਵਰਤ ਕੇ ਵੇਖੋ
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਆਵਾਜ਼ਾਂ ਮਾਰਦੀਆਂ ਨੇ। ਉਹ ਤੁਹਾਡੇ ਫ਼ੋਨ ਉੱਤੇ ਹਨ।
 firefoxview-syncedtabs-adddevice-description-3 = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਲੈਣ ਵਾਸਤੇ QR ਕੋਡ ਨੂੰ ਸਕੈਨ ਕਰੋ ਅਤੇ ਆਪਣੀਆਂ ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ ਤੇ ਹੋਰਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ। <a data-l10n-name="url">ਵਧੀਕ ਡਿਵਾਈਸਾਂ ਨਾਲ ਕਨੈਕਟ</a> ਕਿਵੇਂ ਕਰੀਏ ਨੂੰ ਵੇਖੋ।
-firefoxview-tabpickup-synctabs-header = ਟੈਬਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨ ਦੀ ਚੋਣ ਕਰੋ
-firefoxview-tabpickup-synctabs-description = { -brand-short-name } ਨੂੰ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਟੈਬਾਂ ਸਾਂਝੀਆਂ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ।
-firefoxview-tabpickup-synctabs-learn-how = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ
 firefoxview-tabpickup-synctabs-primarybutton = ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ ਸਿੰਕ ਕਰੋ
 firefoxview-tabpickup-synctabs-primarybutton-2 = ਟੈਬਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨ ਦੀ ਚੋਣ ਕਰੋ
 firefoxview-syncedtabs-synctabs-header = ਆਪਣੀਆਂ ਸਿੰਕ ਸੈਟਿੰਗਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = ਜਦੋਂ ਇਹ ਕਰ ਲਿ�
 firefoxview-syncedtabs-loading-header-2 = …ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਲਈਆਂ ਜਾ ਰਹੀਆਂ ਹਨ
 firefoxview-syncedtabs-loading-description-2 = ਸਿੰਕ ਕਰਨਾ ਜਾਰੀ ਹੈ। ਟੈਬਾਂ ਛੇਤੀ ਹੀ ਇੱਥੇ ਆਉਣਗੀਆਂ।
 firefoxview-tabpickup-fxa-admin-disabled-header = ਤੁਹਾਡੇ ਸੰਗਠਨ ਨੇ ਲਿੰਕ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ
-firefoxview-tabpickup-fxa-admin-disabled-description = ਤੁਹਾਡੇ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਸਿੰਕ ਕਰਨ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੋਇਆ ਹੋਣ ਕਰਕੇ { -brand-short-name } ਟੈਬਾਂ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸਿੰਕ ਕਰਨ ਦੇ ਸਮਰੱਥ ਨਹੀਂ ਹੈ।
 firefoxview-tabpickup-fxa-disabled-by-policy-description = ਤੁਹਾਡੇ ਸੰਗਠਨ ਵਲੋਂ ਸਿੰਕ ਕਰਨ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੋਇਆ ਹੋਣ ਕਰਕੇ { -brand-short-name } ਟੈਬਾਂ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸਿੰਕ ਕਰਨ ਦੇ ਸਮਰੱਥ ਨਹੀਂ ਹੈ।
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = ਟੈਬ ਸਿੰਕ ਕਰਨਾ ਬੰਦ ਹੈ
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = ਤੁਹਾਡੇ ਸੰਗਠਨ ਨੇ ਇਸ ਫ਼ੀਚਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ।
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = ਟੈਬਾਂ ਨੂੰ ਆਪਣੇ ਮੁੱਢਲੇ ਪਾਸਵਰਡ ਨਾਲ ਅਣ-ਲਾਕ ਕਰੋ
 firefoxview-tabpickup-password-locked-description-2 = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਲਈ, ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ ਸੁਰੱਖਿਅਤ ਹਨ। ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਨੂੰ ਵੇਖਣ ਲਈ ਆਪਣਾ { -brand-short-name } ਮੁੱਢਲਾ ਪਾਸਵਰਡ ਭਰੋ।
 firefoxview-tabpickup-signed-out-header = ਮੁੜ-ਕਨੈਕਟ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
-firefoxview-tabpickup-signed-out-description = ਮੁੜ-ਕਨੈਕਟ ਕਰਨ ਤੇ ਆਪਣੀਆਂ ਟੈਬਾਂ ਲੈਣ ਲਈ ਆਪਣੇ { -fxaccount-brand-name } ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰੋ।
 firefoxview-tabpickup-signed-out-description2 = ਆਪਣੀਆਂ ਟੈਬਾਂ ਨਾਲ ਮੁੜ ਜੁੜਨ ਅਤੇ ਖੋਲ੍ਹਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
 firefoxview-tabpickup-signed-out-primarybutton = ਸਾਈਨ ਇਨ
 firefoxview-tabpickup-signed-out-header-2 = ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਵੇਖਣ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
 firefoxview-tabpickup-signed-out-description-2 = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਨੂੰ ਵੇਖਣ ਲਈ ਮੁੜ-ਕਨੈਕਟ ਕਰੋ।
-firefoxview-tabpickup-syncing = ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਸਿੰਕ ਕੀਤੇ ਜਾਣ ਦੌਰਾਨ ਉਡੀਕੋ। ਇਸ ਨੂੰ ਸਿਰਫ਼ ਪਲ਼ ਕੁ ਲੱਗੇਗਾ।
-firefoxview-mobile-promo-header = ਆਪਣੇ ਫ਼ੋਨ ਜਾਂ ਟੇਬਲੇਟ ਤੋਂ ਟੈਬਾਂ ਲਵੋ
-firefoxview-mobile-promo-description = ਆਪਣੀਆਂ ਸੱਜੀਆਂ ਮੋਬਾਈਲ ਟੈਬਾਂ ਵੇਖਣ ਲਈ, iOS ਜਾਂ Android ਉੱਤੇ { -brand-product-name } ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
-firefoxview-mobile-promo-primarybutton = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਲਵੋ
-firefoxview-mobile-confirmation-header = 🎉 ਸਭ ਤਿਆਰ ਹੈ!
-firefoxview-mobile-confirmation-description = ਹੁਣ ਤੁਸੀਂ ਟੈਬਲੇਟ ਜਾਂ ਫ਼ੋਨ ਤੋਂ ਆਪਣੇ { -brand-product-name } ਟੈਬਾਂ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹੋ।
-firefoxview-closed-tabs-title = ਸੱਜਰੀਆਂ ਬੰਦ ਕੀਤੀਆਂ
-firefoxview-closed-tabs-description2 = ਇਸ ਵਿੰਡੋ ਵਿੱਚ ਤੁਹਾਡੇ ਵਲੋਂ ਬੰਦ ਕੀਤੇ ਸਫ਼ਿਆਂ ਨੂੰ ਮੁੜ-ਖੋਲ੍ਹੋ।
-firefoxview-closed-tabs-placeholder-header = ਕੋਈ ਤਾਜ਼ਾ ਬੰਦ ਕੀਤੀ ਟੈਬ ਨਹੀਂ ਹੈ
-firefoxview-closed-tabs-placeholder-body = ਇਸ ਵਿੰਡੋ ਵਿੱਚ ਜਦੋਂ ਤੁਸੀਂ ਟੈਬ ਬੰਦ ਕਰਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਇਸ ਨੂੰ ਇੱਥੋਂ ਲੈ ਸਕਦੇ ਹੋ।
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = { $tabTitle } ਖਾਰਜ ਕਰੋ
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = ਆਖਰੀ ਸਰਗਰਮੀ
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = { $targetURI } ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ
-firefoxview-try-colorways-button = ਰੰਗ-ਢੰਗ ਵਰਤ ਕੇ ਵੇਖੋ
-firefoxview-change-colorway-button = ਰੰਗ-ਢੰਗ ਬਦਲੋ
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = ਵਿਖਾਉਣ ਲਈ ਹਾਲੇ ਕੁਝ ਨਹੀਂ ਹੈ
-firefoxview-synced-tabs-placeholder-body = ਅਗਲੀ ਵਾਰ ਜਦੋਂ ਤੁਸੀਂ ਹੋਰ ਡਿਵਾਈਸ ਉੱਤੇ { -brand-product-name } ਵਿੱਚ ਸਫ਼਼ਾ ਖੋਲ੍ਹਦੇ ਹੋ ਤਾਂ ਇੱਥੇ ਪ੍ਰਗਟ ਹੋ ਜਾਂਦਾ ਹੈ।
 firefoxview-collapse-button-show =
     .title = ਸੂਚੀ ਵੇਖਾਓ
 firefoxview-collapse-button-hide =

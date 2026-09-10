@@ -45,8 +45,6 @@ downloads-cmd-always-use-system-default =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = ডাউনল'ডৰ ফ'ল্ডাৰ দেখুৱাওক
 downloads-cmd-retry =
     .tooltiptext = পুনৰ চেষ্টা কৰক
 downloads-cmd-retry-panel =

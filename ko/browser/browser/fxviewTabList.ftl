@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxviewtabrow-open-menu-button =
-    .title = 메뉴 열기
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
@@ -24,10 +22,6 @@ fxviewtabrow-dismiss-tab-button =
     .title = { $tabTitle } 닫기
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = 방금 전
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-delete = 삭제
     .accesskey = D
 fxviewtabrow-forget-about-this-site = 이 사이트 기록 삭제…
@@ -57,8 +51,6 @@ fxviewtabrow-send-to-device = 기기로 보내기
     .accesskey = n
 fxviewtabrow-send-to-mobile = 모바일로 보내기
     .accesskey = n
-fxviewtabrow-send-tab = 탭을 기기로 보내기
-    .accesskey = n
 fxviewtabrow-pin-tab = 탭 고정
     .accesskey = P
 fxviewtabrow-unpin-tab = 탭 고정 해제
@@ -82,8 +74,5 @@ fxviewtabrow-send-to-mobile-connect-device = 탭을 보내려면 기기를 연�
 fxviewtabrow-send-to-mobile-device-missing2 = 사용자의 기기가 없나요?
 fxviewtabrow-send-to-mobile-not-verified = 계정 확인되지 않음
 fxviewtabrow-send-to-mobile-verify-account = 계정 확인
-
-## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
-
 fxviewtabrow-send-to-mobile-sign-in = 탭을 보내려면 로그인하세요
 fxviewtabrow-send-to-mobile-turn-on-sync = 탭을 보내려면 동기화를 켜세요

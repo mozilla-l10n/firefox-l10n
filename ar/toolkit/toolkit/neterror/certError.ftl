@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = الشهادة غير موثوقة لعدم 
 cert-error-trust-signature-algorithm-disabled = الشهادة غير موثوقة لأنها وُقعت باستخدام خوارزمية توقيع عُطّلت لعدم أمانها.
 cert-error-trust-expired-issuer = الشهادة غير موثوقة لانتهاء صلاحية شهادة المُصْدِر.
 cert-error-trust-self-signed = الشهادة غير موثوقة لأنها موقعّة ذاتيًا.
-cert-error-trust-symantec = لم تعد الشهادات التي تُصدرها GeoTrust وRapidSSL وSymantec وThawte وVeriSign آمنة لأن سلطات الشهادات سابقة الذكر لم تطبّق الأساليب الأمنية السليمة فيما مضى من سنين.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = لا يثق { -brand-short-name } في { $hostname } لأنه لم يتمكن من إثبات أنه يلبي متطلبات شفافية الشهادة العامة.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = رمز الخطأ: <a data-l10n-name="error-code-l
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = حدث خطأ أثناء الاتصال ب‍ { $hostname }. ‏{ $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = تثبت المواقع على الوِب هويّتها باستعمال الشهادات، وسلطات الشهادات هي من تُصدر تلك الشهادات. لم تعد أغلب المتصفحات تثق بالشهادات التي تُصدرها GeoTrust وRapidSSL وSymantec وThawte وVeriSign. يستعمل { $hostname } شهادة من إحدى هذه السلطات ولذلك لا يمكن الاستيثاق من هويّة الموقع.
-cert-error-symantec-distrust-admin = يمكنك إعلام مدير الموقع عن هذه المشكلة.
 cert-error-old-tls-version = قد لا يدعم هذا الموقع بروتوكول TLS 1.2، وهو أقل إصدارة يدعمها { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = سياسة نقل HTTP الصارمة: { $hasHST
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = تثبيت مفتاح HTTP العام: { $hasHPKP }
 cert-error-details-cert-chain-label = سلسلة الشهادة:
-open-in-new-window-for-csp-or-xfo-error = افتح الموقع في نافذة جديدة
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = لحماية أمنك لن يسمح { $hostname } أن يعرض { -brand-short-name } الصفحة إن ضمّنها موقع آخر. لترى هذه الصفحة عليك فتحها في نافذة جديدة.
 fp-certerror-view-certificate-link = اعرض شهادة الموقع
 fp-certerror-return-to-previous-page-recommended-button-2 = عُد للخلف (يُنصح به)
     .accesskey = د
-fp-certerror-return-to-previous-page-recommended-button = عُد للخلف (يُنصح به)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -106,21 +99,21 @@ fp-certerror-self-signed-important-note = ملاحظة هامة: إذا كنت �
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = تستخدم المواقع الشهادات الصادرة عن سُلطة الشهادات لإثبات أنها هي بالفعل من تدعي أنها كذلك. لا يثق { -brand-short-name } بهذا الموقع لأنه يبدو أن الشهادة انتهت صلاحيتها في { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-expired-why-dangerous-body = تستخدم المواقع الشهادات الصادرة عن سُلطة الشهادات لإثبات أنها هي بالفعل من تدعي أنها كذلك. لا يثق { -brand-short-name } بهذا الموقع لأنه يبدو أن الشهادة انتهت صلاحيتها في { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = تستخدم المواقع الشهادات الصادرة عن سُلطة الشهادات لإثبات أنها هي بالفعل من تدعي أنها كذلك. لا يثق { -brand-short-name } بهذا الموقع لأنه يبدو أن الشهادة لن تكون صالحة حتى { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-not-yet-valid-why-dangerous-body = تستخدم المواقع الشهادات الصادرة عن سُلطة الشهادات لإثبات أنها هي بالفعل من تدعي أنها كذلك. لا يثق { -brand-short-name } بهذا الموقع لأنه يبدو أن الشهادة لن تكون صالحة حتى { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = ساعة جهازك مضبوطة على { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. إذا كانت هذه القيمة صحيحة، فمن المرجح أن المشكلة الأمنية تكمن في الموقع نفسه. إذا كانت خاطئة، يمكنك تغييرها من إعدادات نظام جهازك.
+fp-certerror-expired-what-can-you-do-body = ساعة جهازك مضبوطة على { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. إذا كانت هذه القيمة صحيحة، فمن المرجح أن المشكلة الأمنية تكمن في الموقع نفسه. إذا كانت خاطئة، يمكنك تغييرها من إعدادات نظام جهازك.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = رمز الخطأ: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -133,11 +126,11 @@ fp-learn-more-about-time-related-errors = اعرف المزيد عن مواجه�
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = لا يثق { -brand-short-name } بهذا الموقع لأنه يبدو أن الشهادة المقدمة غير صالحة حتى { DATETIME($date, timeStyle: "short") } على { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = لا يثق { -brand-short-name } بهذا الموقع لأنه يبدو أن الشهادة المقدمة غير صالحة حتى { DATETIME($date, timeStyle: "short") } على { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = عُيِّن ساعة جهازك على { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. إذا كان هذا صحيحًا، فمن المحتمل أن تكون المشكلة الأمنية في الموقع نفسه. أما إذا كان خاطئًا، فيمكنك تغييره من إعدادات نظام جهازك.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = عُيِّن ساعة جهازك على { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. إذا كان هذا صحيحًا، فمن المحتمل أن تكون المشكلة الأمنية في الموقع نفسه. أما إذا كان خاطئًا، فيمكنك تغييره من إعدادات نظام جهازك.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -179,8 +172,6 @@ deniedPortAccess-title = هذا العنوان غير مسموح به
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = ممم. نواجه مشكلة في إيجاد ذلك الموقع.
 internet-connection-offline-title = يبدو أن هناك مشكلة في اتصالك بالإنترنت.
-dns-not-found-trr-only-title2 = مخاطر أمنية محتملة تبحث عن هذا المجال
-dns-not-found-native-fallback-title2 = مخاطر أمنية محتملة تبحث عن هذا المجال
 fileNotFound-title = الملف غير موجود
 fileAccessDenied-title = مُنِع الوصول للملف
 generic-title = عذرا.
@@ -205,7 +196,6 @@ unknownSocketType-title = استجابة غير متوقعة من الخادوم
 nssFailure2-title = فشل الاتصال الآمن
 csp-xfo-error-title = لا يمكن أن يعرض { -brand-short-name } الصفحة
 corruptedContentErrorv2-title = خطأ محتوى فاسد
-corruptedContentError-title = خطأ محتوى فاسد
 sslv3Used-title = تعذّر الاتصال بأمان
 inadequateSecurityError-title = اتّصالك غير آمن
 blockedByPolicy-title = الصفحة محجوبة
@@ -228,7 +218,6 @@ fp-certerror-hide-advanced-button = أخفِ المتقدم
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = واصِل إلى { $hostname } (خطر)
 fp-certerror-intro = { -brand-short-name } لاحظ مشكلة أمنية محتملة خطيرة في <strong>{ $hostname }</strong>. قد يحاول شخص ينتحل هوية الموقع سرقة معلومات مثل بيانات بطاقة الائتمان أو كلمات السر أو البريد الإلكتروني.
 fp-certerror-expired-into = { -brand-short-name } لاحظ مشكلة أمنية في <strong>{ $hostname }</strong>. إما أن الموقع غير مُعدّ بشكل صحيح أو أن ساعة جهازك مضبوطة على تاريخ/وقت خاطئ.
 fp-certerror-transparency-intro = قد يحاول شخص يتظاهر بأنه <strong>{ $hostname }</strong> لسرقة أشياء مثل معلومات بطاقة الائتمان أو كلمات السر أو رسائل البريد الإلكتروني.

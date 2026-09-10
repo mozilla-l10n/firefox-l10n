@@ -2,111 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Pelayaran Peribadi
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Pelayaran Peribadi
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Pelayaran Peribadi
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Pelayaran Peribadi
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Pelayaran Peribadi
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Pelayaran Peribadi
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } Pelayaran Peribadi
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } Pelayaran Peribadi
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Pelayaran Peribadi
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } — Pelayaran Peribadi
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Pelayaran Peribadi
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Pelayaran Peribadi
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Pelayaran Peribadi
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -165,8 +63,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Buka panel mesej storan luar talian
 urlbar-password-notification-anchor =
     .tooltiptext = Buka panel mesej kata laluan disimpan
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Urus kegunaan plugin
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Urus perkongsian kamera dan/atau mikrofon anda dengan laman
 # "Speakers" is used in a general sense that might include headphones or
@@ -179,15 +75,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Simpan data dalam Storan Kekal
 urlbar-addons-notification-anchor =
     .tooltiptext = Buka panel mesej pemasangan add-on
-urlbar-tip-help-icon =
-    .title = Dapatkan bantuan
 urlbar-search-tips-confirm = Ok, Faham
 urlbar-search-tips-confirm-short = Baiklah
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Petua:
 urlbar-result-menu-button =
     .title = Buka menu
 urlbar-result-menu-button-feedback = Maklum balas
@@ -232,9 +121,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = Abaikan cadangan ini
     .accesskey = A
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = Ketahui selanjutnya tentang { -firefox-suggest-brand-name }
-    .accesskey = K
 urlbar-result-menu-manage-firefox-suggest =
     .label = Urus { -firefox-suggest-brand-name }
     .accesskey = U
@@ -266,8 +152,6 @@ urlbar-dismissal-acknowledgment-weather = Terima kasih atas maklum balas anda. A
 
 urlbar-search-tips-onboard = Taip sedikit, cari selanjutnya: Carian { $engineName } dari bar alamat anda.
 urlbar-search-tips-redirect-2 = Mulakan carian anda dalam bar alamat untuk melihat cadangan daripada { $engineName } dan sejarah pelayaran anda.
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = Carian kini lebih mudah. Cuba buat carian anda lebih khusus di sini dalam bar alamat. Untuk tunjukkan URL sebaliknya, lawati Carian, dalam tetapan.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Pilih pintasan ini untuk cari apa yang anda perlukan dengan lebih pantas.
@@ -301,8 +185,6 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Anda telah menghalang storan gigih untuk laman web ini.
 urlbar-popup-blocked2 =
     .tooltiptext = Anda telah menyekat pop-up dan lencongan pihak ketiga untuk laman web ini.
-urlbar-popup-blocked =
-    .tooltiptext = Anda telah menyekat pop-up untuk laman web ini.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Anda telah menyekat media automain dengan suara untuk laman web ini.
 urlbar-canvas-blocked =
@@ -413,24 +295,18 @@ quickactions-cmd-addons3 = sambungan, tema, add-ons
 # Opens preferences page at AI controls
 quickactions-manageai = Urus kawalan AI
 quickactions-cmd-manageai = nyahdayakan ai, matikan ai, urus ai
-quickactions-cmd-addons2 = add-ons
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Urus penanda halaman
 quickactions-cmd-bookmarks = penanda halaman
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Buang sejarah terkini
 quickactions-cmd-clearrecenthistory2 = kuki, buang kuki, cache, buang cache, data pelayaran, buang data pelayaran, sejarah, buang sejarah terkini
-quickactions-cmd-clearrecenthistory = buang sejarah terkini, sejarah
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Buang Sejarah
-quickactions-cmd-clearhistory = buang sejarah
 # Opens about:downloads page
 quickactions-downloads2 = Papar muat turun
 quickactions-cmd-downloads = muat turun
 # Opens about:addons page in the extensions section
 quickactions-extensions = Urus sambungan
 quickactions-cmd-extensions2 = sambungan, add-ons
-quickactions-cmd-extensions = sambungan
 # Opens Firefox View
 quickactions-firefoxview = Buka { -firefoxview-brand-name }
 # English is using "view" and "open view", since the feature name is
@@ -449,7 +325,6 @@ quickactions-cmd-colorpicker = pemilih warna, eyedropper, pilih warna
 # Opens Firefox Library
 quickactions-cmd-library = pustaka
 quickactions-library = Buka Pustaka
-quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins2 = Urus kata laluan
 quickactions-cmd-logins = log masuk, kata laluan
@@ -459,9 +334,6 @@ quickactions-mute = Senyapkan tab yang memainkan audio
 # Replace with idiomatic expressions in your language to silence something or
 # someone.
 quickactions-cmd-mute = senyap, diam, sssst
-# Opens about:addons page in the plugins section
-quickactions-plugins = Urus plugin
-quickactions-cmd-plugins = plugin
 # Opens the print dialog
 quickactions-print2 = Cetak halaman
 quickactions-cmd-print = cetak
@@ -486,19 +358,16 @@ quickactions-cmd-screenshot2 = tangkapan skrin, ambil tangkapan skrin
 # Opens about:translations
 quickactions-translate = Terjemah
 quickactions-cmd-translate = terjemah
-quickactions-cmd-screenshot = tangkapan skrin
 # Opens about:preferences
 quickactions-settings2 = Urus tetapan
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = tetapan, keutamaan, pilihan, urus
-quickactions-cmd-settings = tetapan, keutamaan, pilihan
 # Opens about:addons page in the themes section
 quickactions-themes = Urus tema
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-themes2 = tema, add-ons
-quickactions-cmd-themes = tema
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Kemas kini { -brand-short-name }
 quickactions-cmd-update = kemas kini
@@ -508,7 +377,6 @@ quickactions-cmd-viewsource2 = papar sumber, sumber, sumber halaman
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = Buka { -firefoxlabs-brand-name }
 quickactions-cmd-labs = labs, eksperimen
-quickactions-cmd-viewsource = papar sumber, sumber
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Ketahui lanjut tentang tindakan pantas
@@ -561,9 +429,7 @@ identity-custom-root = Sambungan disahkan oleh pengeluar sijil yang tidak dikena
 identity-passive-loaded = Sebahagian halaman ini tidak selamat (contohnya imej).
 identity-active-loaded = Anda telah menyahdayakan perlindungan untuk halaman ini.
 identity-weak-encryption = Halaman ini menggunakan enkripsi yang lemah.
-identity-insecure-login-forms = Log masuk yang dimasukkan dalam halaman ini boleh dikompromi.
 identity-https-only-connection-upgraded = (dinaik taraf ke HTTPS)
-identity-https-only-label = Mod HTTPS-Sahaja
 identity-https-only-label2 = Naik taraf laman ini secara automatik ke sambungan selamat
 identity-https-only-dropdown-on =
     .label = Aktif
@@ -571,8 +437,6 @@ identity-https-only-dropdown-off =
     .label = Nyahaktif
 identity-https-only-dropdown-off-temporarily =
     .label = Nyahaktif sementara
-identity-https-only-info-turn-on2 = Hidupkan Mod HTTPS Sahaja untuk laman ini jika anda mahu { -brand-short-name } menaik taraf sambungan apabila boleh.
-identity-https-only-info-turn-off2 = Jika halaman nampak rosak, anda mungkin mahu matikan Mod HTTPS Sahaja untuk laman ini supaya dimuat semula menggunakan HTTP tidak selamat.
 identity-https-only-info-turn-on3 = Hidupkan naik taraf HTTPS untuk laman ini jika anda mahu { -brand-short-name } menaik taraf sambungan apabila boleh.
 identity-https-only-info-turn-off3 = Jika halaman nampak rosak, anda mungkin mahu matikan naik taraf HTTPS untuk laman ini supaya dimuat semula menggunakan HTTP tidak selamat.
 identity-https-only-info-no-upgrade = Tidak dapat menaik taraf sambungan daripada HTTP.
@@ -590,7 +454,6 @@ identity-remove-cert-exception =
     .label = Buang Pengecualian
     .accesskey = B
 identity-description-insecure = Sambungan anda ke laman ini adalah terbuka. Maklumat yang anda hantar mampu dilihat oleh orang lain (seperti kata laluan, mesej, kad kredit, dll.).
-identity-description-insecure-login-forms = Maklumat log masuk yang anda masukkan dalam halaman ini tidak selamat dan boleh dikompromi.
 identity-description-weak-cipher-intro = Sambungan anda ke laman web ini menggunakan enkripsi yang lemah dan bukan secara persendirian.
 identity-description-weak-cipher-risk = Orang lain boleh melihat maklumat anda atau mengubah tingkah laku laman web.
 identity-description-active-blocked2 = { -brand-short-name } telah menyekat sebahagian halaman ini yang tidak selamat.
@@ -599,12 +462,6 @@ identity-description-passive-loaded-insecure2 = Laman web ini mengandungi kandun
 identity-description-passive-loaded-mixed2 = Walaupun { -brand-short-name } telah menyekat beberapa kandungan, masih ada kandungan pada halaman ini yang tidak selamat (seperti imej).
 identity-description-active-loaded = Laman web ini mengandungi kandungan yang tidak selamat (seperti skrip) dan sambungan anda kepadanya adalah terbuka.
 identity-description-active-loaded-insecure = Maklumat yang anda kongsi dengan laman ini boleh dilihat oleh orang lain (seperti kata laluan, mesej, kad kredit, dll.).
-identity-disable-mixed-content-blocking =
-    .label = Nyahdayakan perlindungan buat masa ni
-    .accesskey = N
-identity-enable-mixed-content-blocking =
-    .label = Dayakan perlindungan
-    .accesskey = D
 identity-more-info-link-text =
     .label = Maklumat Lanjut
 
@@ -618,37 +475,6 @@ browser-window-restore-down-button =
     .tooltiptext = Pulihkan
 browser-window-close-button =
     .tooltiptext = Tutup
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = BERMAIN
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = DISENYAPKAN
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = MAIN AUTOMATIK DISEKAT
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = PAPARAN DALAM PAPARAN
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] SENYAPKAN TAB
-       *[other] SENYAPKAN { $count } TAB
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] NYAHSENYAPKAN TAB
-       *[other] NYAHSENYAPKAN { $count } TAB
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] MAINKAN TAB
-       *[other] MAINKAN { $count } TAB
-    }
 
 ## Bookmarks toolbar items
 
@@ -701,8 +527,6 @@ urlbar-extension =
     .value = Ekstensi:
 urlbar-go-button2 =
     .title = Pergi ke alamat dalam Bar Lokasi
-urlbar-go-button =
-    .tooltiptext = Pergi ke alamat dalam Bar Lokasi
 urlbar-page-action-button =
     .tooltiptext = Tindakan halaman
 
@@ -747,11 +571,6 @@ urlbar-result-action-tabtosearch-web = Cari dengan { $engine } terus dari bar al
 urlbar-result-action-tabtosearch-other-engine = Cari { $engine } terus dari bar alamat
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Salin
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -824,12 +643,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Sembunyikan Bar alatan Tandabuku
            *[other] Tunjukkan Bar alatan Tandabuku
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Buang Menu Tandabuku daripada Bar alatan
-           *[other] Tambah Menu Tandabuku dalam Bar alatan
-        }
 
 ##
 
@@ -855,12 +668,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Tandabuku
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Simpan ke { -pocket-brand-name }
-    .tooltiptext = Simpan ke { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
@@ -913,28 +720,10 @@ eme-notifications-drm-content-playing = Beberapa audio atau video pada laman ini
 ui-tour-info-panel-close =
     .tooltiptext = Tutup
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = Izinkan popup untuk { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Sekat popup untuk { $uriHost }
-    .accesskey = p
-
-##
-
-popups-infobar-dont-show-message =
-    .label = Jangan papar mesej ini apabila popup telah disekat
-    .accesskey = J
-
 ##
 
 navbar-downloads =
     .label = Muat turun
-navbar-overflow =
-    .tooltiptext = Alatan seterusnya…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

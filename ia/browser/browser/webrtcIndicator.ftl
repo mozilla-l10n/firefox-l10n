@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Indicator de compartimento
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Indicator de compartimento
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Tu comparti ora tu microphono. Clicca pro controlar le compartimento.
 webrtc-screen-system-menu =
     .label = Tu comparti ora un fenestra o un pagina. Clicca pro controlar le compartimento.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Tu camera e tu microphono va ser compartite. Clicca pro controlar le compartimento.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Tu camera va ser compartite. Clicca pro controlar le compartimento.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Tu microphono va ser compartite. Clicca pro controlar le compartimento.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Un application va ser compartite. Clicca pro controlar le compartimento.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Tu schermo va ser compartite. Clicca pro controlar le compartimento.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Un fenestra va ser compartite. Clicca pro controlar le compartimento.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Un scheda va ser compartite. Clicca pro controlar le compartimento.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Permitter que { 
 
 webrtc-share-screen-warning = Comparti schermos solo con sitos a que tu confide. Le compartimento pote permitter que sitos fraudulente naviga in tu nomine e roba tu datos private.
 webrtc-share-browser-warning = Comparti { -brand-short-name } solo con sitos a que tu confide. Le compartimento pote permitter que sitos fraudulente naviga in tu nomine e roba tu datos private.
-webrtc-share-screen-learn-more = Saper plus
 webrtc-pick-window-or-screen = Seliger fenestra o schermo
 webrtc-share-entire-screen = Tote le schermo
 webrtc-share-pipe-wire-portal = Usar parametros del systema operative

@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Nueva pestaña
-    .accesskey = u
 reload-tab =
     .label = Recargar pestaña
     .accesskey = r
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nuevo grupo
     .accesskey = g
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -205,13 +198,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Crear enlace para compartir
     .accesskey = a
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Enviar la Pestaña al dispositivo
-           *[other] Enviar las Pestañas { $tabCount } al dispositivo
-        }
-    .accesskey = n
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Dëshmia nuk është besuar, sepse lëshuesi
 cert-error-trust-signature-algorithm-disabled = Dëshmia s’është e besueshme, ngaqë është nënshkruar duke përdorur një algoritëm nënshkrimesh i cili është i çaktivizuar, pasi s’është i siguruar.
 cert-error-trust-expired-issuer = Dëshmia nuk është besuar, sepse dëshmia e lëshuesit ka skaduar.
 cert-error-trust-self-signed = Dëshmia nuk besohet, ngaqë është e vetënënshkruar.
-cert-error-trust-symantec = Dëshmitë e lëshuara nga GeoTrust, RapidSSL, Symantec, Thawte dhe VeriSign nuk konsiderohen më tej të siguruara, ngaqë këto autoritete dëshmish s’kanë ndjekur praktika sigurie në të kaluarën.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } s’i zë besë { $hostname }, ngaqë s’provoi dot se plotëson domosdoshmëri transparence dëshmish.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Kod gabimi: <a data-l10n-name="error-code-link">{ 
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Ndodhi një gabim gjatë lidhjes me { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Sajtet e dëshmojnë identitetin e tyre përmes dëshmish, të cilat lëshohen nga autoritete dëshmish. Shumica e shfletuesve nuk u besojnë më dëshmive të lëshuara nga GeoTrust, RapidSSL, Symantec, Thawte dhe VeriSign. { $hostname } përdor një dëshmi nga njëri prej këtyre autoriteteve, ndaj identiteti i sajtit s’mund të provohet.
-cert-error-symantec-distrust-admin = Mundeni të njoftoni përgjegjësin e sajtit mbi këtë problem.
 cert-error-old-tls-version = Ky sajt mund të mos mbulojnë protokollin TLS 1.2, i cili është versioni minimum i mbuluar nga { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Varg dëshmish:
-open-in-new-window-for-csp-or-xfo-error = Hape Sajtin në Dritare të Re
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Për të mbrojtur sigurinë tuaj, { $hostname } s’do ta lejojë { -brand-short-name }-in të shfaqë faqen, nëse e ka trupëzuar një sajt tjetër. Që të shihni këtë faqe, duhet ta hapni në një dritare tjetër.
 fp-certerror-view-certificate-link = Shihni dëshminë e sajtit
 fp-certerror-return-to-previous-page-recommended-button-2 = Shko mbrapsht (E këshilluar)
     .accesskey = o
-fp-certerror-return-to-previous-page-recommended-button = Shko mbrapsht (E këshilluar)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -106,21 +99,21 @@ fp-certerror-self-signed-important-note = SHËNIM I RËNDËSISHËM: Nëse po pro
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = Sajtet përdorin dëshmi të lëshuara nga një autoritet dëshmish, për të provuar se janë vërtet ata që thonë se janë. { -brand-short-name }-i nuk i zë besë këtij sajti, ngaqë duket se dëshmia ka skaduar më { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-expired-why-dangerous-body = Sajtet përdorin dëshmi të lëshuara nga një autoritet dëshmish, për të provuar se janë vërtet ata që thonë se janë. { -brand-short-name }-i nuk i zë besë këtij sajti, ngaqë duket se dëshmia ka skaduar më { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = Sajtet përdorin dëshmi të lëshuara nga një autoritet dëshmish, për të provuar se janë vërtet ata që thonë se janë. { -brand-short-name }-i s’i zë besë këtij sajti, ngaqë duket se dëshmia s’do të jetë e vlefshme deri më { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-not-yet-valid-why-dangerous-body = Sajtet përdorin dëshmi të lëshuara nga një autoritet dëshmish, për të provuar se janë vërtet ata që thonë se janë. { -brand-short-name }-i s’i zë besë këtij sajti, ngaqë duket se dëshmia s’do të jetë e vlefshme deri më { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = Sahati i pajisjes suaj është vënë si { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Nëse kjo është e saktë, problemi i sigurisë ka gjasa të jetë me vetë sajtin. Nëse është gabim, mund ta ndryshoni te rregullimet e sistemit të pajisjes suaj.
+fp-certerror-expired-what-can-you-do-body = Sahati i pajisjes suaj është vënë si { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Nëse kjo është e saktë, problemi i sigurisë ka gjasa të jetë me vetë sajtin. Nëse është gabim, mund ta ndryshoni te rregullimet e sistemit të pajisjes suaj.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Kod Gabimi: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -133,11 +126,11 @@ fp-learn-more-about-time-related-errors = Mësoni më tepër rreth diagnostikimi
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name }-i s’i zë besë këtij sajti, ngaqë duket sikur dëshmia e sjellë s’është e vlefshme deri më { DATETIME($date, timeStyle: "short") } në { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name }-i s’i zë besë këtij sajti, ngaqë duket sikur dëshmia e sjellë s’është e vlefshme deri më { DATETIME($date, timeStyle: "short") } në { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Sahati i pajisjes suaj është vënë si { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Nëse kjo është e saktë, problemi i sigurisë ka gjasa të jetë me vetë sajtin. Nëse është gabim, mund ta ndryshoni te rregullimet e sistemit të pajisjes suaj.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Sahati i pajisjes suaj është vënë si { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Nëse kjo është e saktë, problemi i sigurisë ka gjasa të jetë me vetë sajtin. Nëse është gabim, mund ta ndryshoni te rregullimet e sistemit të pajisjes suaj.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -171,8 +164,6 @@ deniedPortAccess-title = Kjo adresë është e ndaluar
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hëm. Po kemi probleme me gjetjen e atij sajti.
 internet-connection-offline-title = Duket se ka një problem me lidhjen tuaj në internet.
-dns-not-found-trr-only-title2 = Gjasa rreziku sigurie në kërkimin e kësaj përkatësie
-dns-not-found-native-fallback-title2 = Gjasa rreziku sigurie në kërkimin e kësaj përkatësie
 fileNotFound-title = S’u gjet kartelë
 fileAccessDenied-title = Hyrja te kartela u mohua
 generic-title = Hëm.
@@ -197,7 +188,6 @@ unknownSocketType-title = Përgjigje e papritur prej shërbyesit
 nssFailure2-title = Dështoi Lidhja e Siguruar
 csp-xfo-error-title = { -brand-short-name }-i S’mund Ta Hapë Këtë Faqe
 corruptedContentErrorv2-title = Gabim nga Lëndë e Dëmtuar
-corruptedContentError-title = Gabim nga Lëndë e Dëmtuar
 sslv3Used-title = S’arrihet të Lidhet Në Mënyrë të Siguruar
 inadequateSecurityError-title = Lidhja juaj s’është e siguruar
 blockedByPolicy-title = Faqe e Bllokuar
@@ -220,7 +210,6 @@ fp-certerror-hide-advanced-button = Fshihi të mëtejshmet
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Vazhdo për te { $hostname } (E rrezikshme)
 fp-certerror-intro = { -brand-short-name } pikasi një problem potencialisht serioz sigurie me <strong>{ $hostname }</strong>. Dikush që po pretendon se është sajti mund të vjedhë gjëra të tilla si hollësi kartash kredit, fjalëkalime, ose email-e.
 fp-certerror-expired-into = { -brand-short-name } pikasi një problem sigurie me <strong>{ $hostname }</strong>. Ose sajti s’është ujdisur si duhet, ose sahati i pajisjes tuaj është vënë në datë/kohë të gabuar.
 fp-certerror-transparency-intro = Dikush që hiqet se është <strong>{ $hostname }</strong> mund të provonte të vidhte gjëra të tilla si hollësi kartash krediti, fjalëkalime, ose email-e.

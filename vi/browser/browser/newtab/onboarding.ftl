@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Thêm { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Tiến trình: bước { $current }/{ $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -198,11 +192,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Ghim { -brand-short-name } vào thanh tác vụ và start menu
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Bắt đầu với một trình duyệt được hỗ trợ bởi một tổ chức phi lợi nhuận. Chúng tôi bảo vệ quyền riêng tư của bạn trong khi bạn duyệt web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -232,57 +221,10 @@ mr2022-onboarding-set-default-subtitle = Sử dụng trình duyệt được h�
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Phiên bản mới nhất của chúng tôi được xây dựng xung quanh bạn, giúp bạn truy cập trên web dễ dàng hơn bao giờ hết. Nó được đóng gói với các tính năng mà chúng tôi nghĩ rằng bạn sẽ yêu thích.
 mr2022-onboarding-get-started-primary-button-label = Thiết lập trong vài giây
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Thiết lập nhanh như chớp
-mr2022-onboarding-import-subtitle = Thiết lập { -brand-short-name } theo cách bạn thích. Thêm dấu trang, mật khẩu và hơn thế nữa từ trình duyệt cũ của bạn.
 mr2022-onboarding-import-primary-button-label-no-attribution = Nhập từ trình duyệt trước
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Chọn màu sắc truyền cảm hứng cho bạn
-mr2022-onboarding-colorway-subtitle = Tiếng nói độc lập có thể thay đổi văn hóa.
-mr2022-onboarding-colorway-primary-button-label-continue = Đặt và tiếp tục
-mr2022-onboarding-existing-colorway-checkbox-label = Đặt { -firefox-home-brand-name } làm trang chủ đầy màu sắc của bạn
-mr2022-onboarding-colorway-label-default = Mặc định
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Màu hiện tại của { -brand-short-name }
-mr2022-onboarding-colorway-description-default = <b>Sử dụng màu { -brand-short-name } hiện tại của tôi.</b>
-mr2022-onboarding-colorway-label-playmaker = Người kiến tạo lối chơi
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Người kiến tạo lối chơi (đỏ)
-mr2022-onboarding-colorway-description-playmaker = <b>Bạn là người kiến tạo lối chơi.</b> Bạn tạo cơ hội để giành chiến thắng và giúp mọi người xung quanh nâng tầm trò chơi của họ.
-mr2022-onboarding-colorway-label-expressionist = Trường phái biểu hiện
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Trường phái biểu hiện (vàng)
-mr2022-onboarding-colorway-description-expressionist = <b>Bạn là người theo chủ nghĩa biểu hiện.</b> Bạn nhìn thế giới một cách khác biệt và những sáng tạo của bạn khuấy động cảm xúc của người khác.
-mr2022-onboarding-colorway-label-visionary = Nhìn xa trông rộng
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Nhìn xa trông rộng (xanh lá)
-mr2022-onboarding-colorway-description-visionary = <b>Bạn là một người có tầm nhìn xa.</b> Bạn đặt câu hỏi về hiện trạng và khiến người khác phải tưởng tượng về một tương lai tốt đẹp hơn.
-mr2022-onboarding-colorway-label-activist = Nhà hoạt động
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Nhà hoạt động (xanh nước biển)
-mr2022-onboarding-colorway-description-activist = <b>Bạn là một nhà hoạt động.</b> Bạn để lại cho thế giới một nơi tốt đẹp hơn những gì bạn đã tìm thấy và khiến người khác tin tưởng.
-mr2022-onboarding-colorway-label-dreamer = Người mơ mộng
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Người mơ mộng (tím)
-mr2022-onboarding-colorway-description-dreamer = <b>Bạn là một người mơ mộng.</b> Bạn tin rằng vận may ủng hộ những người mạnh dạn và truyền cảm hứng cho những người khác dũng cảm.
-mr2022-onboarding-colorway-label-innovator = Người đổi mới
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Người đổi mới (cam)
-mr2022-onboarding-colorway-description-innovator = <b>Bạn là một người đổi mới.</b> Bạn nhìn thấy cơ hội ở khắp mọi nơi và tạo ra ảnh hưởng đến cuộc sống của mọi người xung quanh bạn.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Chuyển từ máy tính xách tay sang điện thoại và quay lại một lần nữa
-mr2022-onboarding-mobile-download-subtitle = Lấy các thẻ từ một thiết bị và tiếp tục nơi bạn đã dừng lại trên một thiết bị khác. Ngoài ra, hãy đồng bộ hóa dấu trang và mật khẩu của bạn ở bất kỳ đâu bạn sử dụng { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Quét mã QR để lấy liên kết tải xuống { -brand-product-name } dành cho di động hoặc <a data-l10n-name="download-label">gửi liên kết cho chính bạn.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Quét mã QR để tải xuống { -brand-product-name } dành cho di động.
 
@@ -335,15 +277,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Tay da sáng và da ngăm đen cao năm
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Cảnh hoàng hôn qua cửa sổ với một con cáo và cây nhà trên bệ cửa sổ
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Bình xịt tay vẽ một bức tranh cắt dán đầy màu sắc của mắt xanh lá cây, giày màu cam, quả bóng rổ màu đỏ, tai nghe màu tím, trái tim màu xanh lam và vương miện màu vàng
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Một con cáo trên màn hình máy tính xách tay đang vẫy tay. Máy tính xách tay có một thiết bị chuột cắm vào nó.
 onboarding-device-migration-title = Chào mừng trở lại!
-onboarding-device-migration-subtitle = Đăng nhập vào { -fxaccount-brand-name(capitalization: "sentence") } của bạn để mang theo dấu trang, mật khẩu và lịch sử của bạn trên thiết bị mới.
 onboarding-device-migration-subtitle2 = Đăng nhập vào tài khoản của bạn để mang theo dấu trang, mật khẩu và lịch sử trên thiết bị mới của bạn.
 onboarding-device-migration-primary-button-label = Đăng nhập
 
@@ -460,15 +399,12 @@ tab-groups-onboarding-feature-callout-title = Hãy thử nhóm thẻ để bớt
 tab-groups-onboarding-feature-callout-subtitle = Sắp xếp gọn gàng bằng cách kéo thẻ này lên trên thẻ khác để tạo nhóm đầu tiên của bạn.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Tìm nhóm thẻ của bạn trong menu Liệt kê tất cả thẻ bất cứ lúc nào.
-tab-groups-onboarding-create-group-title-2 = Tìm nhóm thẻ của bạn tại đây bất cứ lúc nào.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Tìm nhóm của bạn bằng cách tìm kiếm nhóm trong thanh địa chỉ.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Khi bạn đóng một nhóm thẻ, hãy mở lại nhóm đó bất cứ lúc nào từ menu Liệt kê tất cả các thẻ.
-tab-groups-onboarding-saved-groups-title-2 = Khi đóng một nhóm thẻ, bạn có thể mở lại nhóm đó tại đây bất cứ lúc nào.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Tìm các nhóm mà bạn đã đóng bằng cách tìm kiếm chúng trong thanh địa chỉ.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Mở lại nhóm thẻ của bạn từ menu Liệt kê tất cả thẻ bất cứ lúc nào.
-tab-groups-onboarding-session-restore-title = Mở lại các nhóm thẻ của bạn tại đây bất cứ lúc nào.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

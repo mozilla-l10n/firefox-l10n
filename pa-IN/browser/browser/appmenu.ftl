@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = ਇਕਸਟੈਨਸ਼ਨਾਂ ਅਤੇ ਥੀਮ
 appmenuitem-extensions =
     .label = ਇਕਸਟੈਨਸ਼ਨਾਂ
-appmenuitem-addons-and-themes =
-    .label = ਐਡ-ਆਨ ਅਤੇ ਥੀਮ
 appmenuitem-print =
     .label = …ਪਰਿੰਟ ਕਰੋ
 appmenuitem-find-in-page =
@@ -154,7 +152,6 @@ fxa-menu-get-firefox-mobile =
     .label = ਐਂਡਰਾਈਡ or iOS ਲਈ { -brand-product-name } ਲਵੋ
 fxa-menu-secure-sync-subpanel =
     .title = ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਿੰਕ
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = ਖਾਤਾ
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -176,15 +173,6 @@ appmenuitem-save-page =
     .label = …ਸਫ਼ੇ ਨੂੰ ਇੰਝ ਸੰਭਾਲੋ
 appmenuitem-fxa-sync-off-title = ਸਿੰਕ ਬੰਦ ਹੈ
 appmenuitem-fxa-sync-off-description = ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਪਾਸਵਰਡਾਂ ਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਬਣਾਓ ਅਤੇ ਕਿਤੋਂ ਵੀ ਵਰਤੋਂ।
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = ਨਵਾਂ ਕੀ ਹੈ
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = ਨਵੇਂ ਫ਼ੀਚਰਾਂ ਬਾਰੇ ਸੂਚਿਤ ਕਰੋ
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -326,8 +314,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = ਹੋਰ ਸਮੱਸਿਆ ਹੱਲ ਜਾਣਕਾਰੀ
     .accesskey = T
-appmenu-help-report-site-issue =
-    .label = …ਸਾਈਟ ਮਸਲੇ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿਓ
 appmenu-help-share-ideas =
     .label = …ਵਿਚਾਰ ਤੇ ਸੁਝਾਅ ਸਾਂਝੇ ਕਰੋ
     .accesskey = S
@@ -393,7 +379,6 @@ appmenuitem-vpn-description5 = ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਵ�
 appmenuitem-vpn-title-signed-in1 = { -mozilla-vpn-brand-name } ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = ਪੂਰੇ-ਡਿਵਾਈਸ ਲਈ ਸੁਰੱਖਿਆ ਲਵੋ
-appmenuitem-vpn-description = ਆਪਣੀ ਆਨਲਾਈਨ ਸਰਗਰਮੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ
 appmenu-services-header = ਮੇਰੀਆਂ ਸੇਵਾਵਾਂ
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -403,7 +388,6 @@ appmenu-other-protection-header3 = ਪਰਦੇਦਾਰੀ ਟੂਲ
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Mozilla ਦੇ ਹੋਰ ਸੁਰੱਖਿਆ ਟੂਲਾਂ ਨੂੰ ਅਜ਼ਮਾਓ:
-appmenu-other-protection-header = { -vendor-short-name } ਵਲੋਂ ਹੋਰ ਸੁਰੱਖਿਆ ਦੇਣ ਵਾਲੇ ਟੂਲਾਂ ਨੂੰ ਅਜ਼ਮਾਓ:
 
 ## Profiles panel
 

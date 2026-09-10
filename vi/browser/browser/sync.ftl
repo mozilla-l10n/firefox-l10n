@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Đang đồng bộ hóa…
 sync-disconnect-dialog-title2 = Ngắt kết nối?
 sync-disconnect-dialog-body = { -brand-product-name } sẽ ngừng đồng bộ hóa với tài khoản của bạn, nhưng sẽ không xóa mọi dữ liệu duyệt web của bạn trên thiết bị này.
 sync-disconnect-dialog-button = Ngắt kết nối
-fxa-signout-dialog2-title = Đăng xuất khỏi { -fxaccount-brand-name }?
 fxa-signout-dialog-title2 = Đăng xuất khỏi tài khoản của bạn?
 fxa-signout-dialog-body = Dữ liệu đã đồng bộ hóa sẽ vẫn còn trong tài khoản của bạn.
 fxa-signout-dialog2-button = Đăng xuất
@@ -41,10 +40,6 @@ fxviewtabrow-send-to-mobile-not-verified = Tài khoản chưa được xác minh
 fxviewtabrow-send-to-mobile-verify-account = Xác minh tài khoản của bạn
 fxa-menu-send-to-mobile-turn-on-sync = Bật đồng bộ hoá để gửi thẻ
 fxa-menu-send-to-mobile-connect-device = Kết nối với thiết bị khác để gửi thẻ
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label = Gửi { $tabCount } thẻ đến thiết bị
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Đang đồng bộ các thiết bị…

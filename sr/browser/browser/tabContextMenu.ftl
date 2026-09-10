@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Нови језичак
-    .accesskey = Н
 reload-tab =
     .label = Поново учитај језичак
     .accesskey = у
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Нова група
     .accesskey = Г
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -203,14 +196,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Направи везу за дељење
     .accesskey = з
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Пошаљи { $tabCount } језичак на уређај
-            [few] Пошаљи { $tabCount } језичка на уређај
-           *[other] Пошаљи { $tabCount } језичака на уређај
-        }
-    .accesskey = о
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

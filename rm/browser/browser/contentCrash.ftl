@@ -18,13 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Ti has in'annunzia da collaps betg tramessa
-       *[other] Ti has { $reportCount } annunzias da collaps betg tramessas
-    }
 pending-crash-reports-view-all =
     .label = Mussar
 pending-crash-reports-send =
@@ -37,13 +30,6 @@ requested-crash-reports-message-new =
     { $reportCount ->
         [one] Ti has { $reportCount } rapport da collaps betg tramess che stat en connex cun collaps che vegnan actualmain examinads. Da trametter il rapport ans gidass a meglierar { -brand-product-name }. Cun serrar questa notificaziun vegn il rapport ignorà.
        *[other] Ti has { $reportCount } rapports da collaps betg tramess che stattan en connex cun collaps che vegnan actualmain examinads. Da trametter ils rapports ans gidass a meglierar { -brand-product-name }. Cun serrar questa notificaziun vegnan ils rapports ignorads.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Ti has in rapport da collaps betg tramess che correspunda a collaps actualmain examinads. Da trametter il rapport ans gidass a meglierar { -brand-product-name }. Cun serrar questa notificaziun vegn il rapport ignorà.
-       *[other] Ti has { $reportCount } rapports da collaps betg tramess che correspundan a collaps actualmain examinads. Da trametter ils rapports ans gidass a meglierar { -brand-product-name }. Cun serrar questa notificaziun vegnan ils rapports ignorads.
     }
 requested-crash-reports-dont-show-again =
     .label = Betg pli mussar

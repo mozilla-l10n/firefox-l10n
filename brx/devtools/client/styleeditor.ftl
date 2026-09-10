@@ -16,8 +16,6 @@ styleeditor-save-button = थिना दोन
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = आदब सुजुगिरि उफ्रा
-styleeditor-editor-textbox =
-    .data-placeholder = CSS खौ बेयाव टाइप खालाम।
 styleeditor-no-stylesheet = बे बिलाइहा आदब सिट गैया।
 styleeditor-no-stylesheet-tip = जानो हागौ, नोंथाङा लुबैनो हागौ<a data-l10n-name="append-new-stylesheet">मोनसे गोदान आदब सिट बांहोनो</a>?
 styleeditor-open-link-new-tab =

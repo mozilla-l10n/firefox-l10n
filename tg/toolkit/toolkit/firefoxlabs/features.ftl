@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Лоиҳаи «Warp»-ро фаъо�
 experimental-features-ime-search =
     .label = Навори нишонӣ: ҳангоми иҷрокунии IME натиҷаҳоро нишон медишад
 experimental-features-ime-search-description = IME (Input Method Editor) абзорест, ки ба шумо барои ворид кардани аломатҳои мураккаб, ба монанди аломатҳои хаттӣ аз забонҳои осиёии шаркӣ ва ҳиндӣ, тавассути клавиатураи стандартӣ имкон медиҳад. Фаъолсозии ин озмоиш лавҳаи навори нишониро ба таври кушод нигоҳ медорад ва ҳангоми истифодаи IME барои вориди матн натиҷаҳои ҷустуҷӯ ва пешниҳодҳоро нишон медиҳад. Ба назар гиред, ки IME метавонад лавҳаеро намоиш диҳад, ки натиҷаҳои навори нишониро маҳкам мекунад, ба ҳамин сабаб, ин хусусият танҳо барои истифода бо IME бе истифодаи ин навъи лавҳа пешниҳод карда мешавад.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Реҷаи «Расм-дар-расм»: ҳангоми гузариш ба варақаи дигар ба таври худкор кушода шавад
-experimental-features-auto-pip-description = Фаъол кардани реҷаи «Расм-дар-расм» дар видеоҳои фаъол ҳангоми гузариш байни варақаҳо.
 experimental-features-group-developer-tools =
     .label = Абзорҳои барномасозӣ
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Самаранокӣ
 experimental-features-group-newtab-widgets =
     .label = Виҷетҳо дар «{ -firefox-home-brand-name }»
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Ниҳонвожаҳо дар навори ҷонибӣ
-experimental-features-contextual-password-manager-description = Ба ҳамаи ниҳонвожаҳои худ рост аз навори ҷонибӣ дастрасӣ пайдо намоед. Акнун, вақте ки шумо ба ҳар гуна сомона ворид мешавед, дигар ниёзи ҷустуҷӯ ё барқарорсозии ниҳонвожаҳо даркор намешавад. Барои истифода бурдан аз ин хусусият, ниҳонвожаҳоро аз навори ҷонибӣ интихоб намоед. Пас ба танзимоти умумии барнома гузаред ва дар зери тарҳбандии браузер имкони «Намоиш додани навори ҷонибӣ»-ро интихоб намоед. Сипас, унсури ниҳонвожаҳоро интихоб карда, навори ҷонибиро ба таври дилхоҳ танзим кунед. Агар шумо аз ин имконият истифода баред, <a data-l10n-name="connect">лутфан, фикру андешаҳои худро ба мо ирсол намоед</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Барои варақаи нав тасвири замина ё ранги дилхоҳро интихоб намоед

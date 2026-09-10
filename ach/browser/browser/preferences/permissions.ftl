@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Ma kiweko woko
     .style = min-width: 45em
+    .title = Ma kiweko woko
 permissions-close-key =
     .key = w
 permissions-address = Kanonge me kakube
@@ -65,29 +65,18 @@ permissions-invalid-uri-label = Tim ber iket nying lami kube matye atir
 
 permissions-exceptions-cookie-desc = Itwero cimo kakube mene ma jwijwi onyo matwal pe ki yee me tic ki angija ki data me kakube.  Ket kanonge me kakube ne kikome ma imito me loono ka dong i dii Geng, Yee pi Kare, onyo Yee.
 
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-desc = I twero cimo kakube mene ma kiye me yabo dirica ma pye-malo. Co kanonge kikome me kakube ma imito ye kadong i dii Ye.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Ma pe gude - Donyo iyie ma kigwoko
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Donyo iyie pi kakube magi pe ki bigwoko gi
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Kakube ma kiyee - Keto med-ikome
     .style = { permissions-window2.style }
+    .title = Kakube ma kiyee - Keto med-ikome
 permissions-exceptions-addons-desc = I twero cimo kakube mene ma kiye me keto med-ikome. Co kanonge kikome me kakube ma imito ye kadong i dii Ye.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Ter - Twero pi jami angeya
     .style = { permissions-window2.style }
+    .title = Ter - Twero pi jami angeya
 permissions-site-notification-desc = Kakube magi okwayo me cwali jami angeya. Itwero cimo kakube mene ma ki yee ki gin me cwali jami angeya. Itwero bene gengo kwac manyen ma penyo pi yee jami angeya.
 permissions-site-notification-disable-label =
     .label = Geng kwac manyen ma penyo pi yee jami angeya
@@ -96,8 +85,8 @@ permissions-site-notification-disable-desc = Man bi gengo kakube mo keken ma pe 
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Ter - Twero pi kabedo
     .style = { permissions-window2.style }
+    .title = Ter - Twero pi kabedo
 permissions-site-location-desc = Kakube magi okwayo me nongo kabedo mamegi. Itwero cimo kakube mene ma ki yee ki gin me nongo kabedo mamegi. Itwero bene gengo kwac manyen ma penyo pi nongo kabedo mamegi.
 permissions-site-location-disable-label =
     .label = Geng kwac manyen ma penyo pi nongo kabedo mamegi
@@ -106,8 +95,8 @@ permissions-site-location-disable-desc = Man bi gengo kakube mo keken ma pe ki c
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Ter - Twero pi lamak cal
     .style = { permissions-window2.style }
+    .title = Ter - Twero pi lamak cal
 permissions-site-camera-desc = Kakube magi okwayo me nongo lamak cal mamegi. Itwero cimo kakube mene ma ki yee ki gin me nongo lamak cal mamegi. Itwero bene gengo kwac manyen ma penyo pi nongo lamak cal mamegi.
 permissions-site-camera-disable-label =
     .label = Geng kwac manyen ma penyo pi nongo lamak cal mamegi
@@ -116,8 +105,8 @@ permissions-site-camera-disable-desc = Man bi gengo kakube mo keken ma pe ki coy
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Ter - Twero pi mikropon
     .style = { permissions-window2.style }
+    .title = Ter - Twero pi mikropon
 permissions-site-microphone-desc = Kakube magi okwayo me nongo mikropon mamegi. Itwero cimo kakube mene ma ki yee ki gin me nongo mikropon mamegi. Itwero bene gengo kwac manyen ma penyo pi nongo mikropon mamegi.
 permissions-site-microphone-disable-label =
     .label = Geng kwac manyen ma penyo pi nongo mikropon mamegi

@@ -52,7 +52,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     Për një shpjegim të rrugëve të ndryshme për të regjistruar dhe gjetur të dhëna, ju lutemi, shihni te
     skeda <strong>Mbi të Dhënat</strong>.
-about-glean-about-testing-header = Mbi Testimin
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     Udhëzimet e plotë dokumentohen te
@@ -61,8 +60,6 @@ about-glean-manual-testing =
     por, për t’i rënë shkurt, që të testoni dorazi se instrumentimi juaj funksionon, duhet:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (mos parashtro ndonjë ping)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Në fushën para kësaj garantoni se ka një etiketë diagnostikimi që mund të mbahet mend, që të mund të dalloni ping-et tuaja më vonë.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
@@ -87,13 +84,6 @@ about-glean-li-for-visit-gdpv =
     Për pingje me etiketat tuaja <a data-l10n-name="gdpv-tagged-pings-link">vizitoni faqen { glean-debug-ping-viewer-brand-name }</a>.
     S’do të duheshin më shumë se pak sekonda nga shtypja e butonit deri sa të arrijnë pingjet tuaj.
     Ndonjëherë mund të duhen ndopak minuta.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    Për më tepër testim <i>ad hoc</i>,
-    mund të përcaktoni vlerën aktuale të një pjese të caktuar të instrumentimit
-    duke hapur konsolën e mjeteve të zhvilluesit këtu në <code>about:glean</code>
-    dhe duke përdorur API <code>testGetValue()</code> API si
-    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     Për më tepër testim <i>ad hoc</i>,
@@ -193,9 +183,6 @@ about-glean-no-data-to-display = S’ka të dhëna për shfaqje.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Te pamja <code>about:glean</code> s’mbulohen ende matje <code>DualLabeledCounter</code>.
 about-glean-unknown-metric-type-warning = Lloj i panjohur matjeje.
-about-glean-about-data-explanation =
-    Që të shfletoni listën e të dhënave të grumbulluara, ju lutemi, shihni
-    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Fjalorthin</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

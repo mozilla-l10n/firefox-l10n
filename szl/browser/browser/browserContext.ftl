@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Jedna strōna nazod ({ $shortcut })
     .aria-label = Nazod
+    .tooltiptext = Jedna strōna nazod ({ $shortcut })
     .accesskey = N
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Jedna strōna do przodku ({ $shortcut })
     .aria-label = Do przodku
+    .tooltiptext = Jedna strōna do przodku ({ $shortcut })
     .accesskey = P
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Save Page
 
 main-context-menu-page-save =
@@ -104,9 +98,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = Spamiyntej link za…
     .accesskey = s
-main-context-menu-save-link-to-pocket =
-    .label = Spamiyntej link do { -pocket-brand-name }
-    .accesskey = i
 
 ##
 
@@ -241,34 +232,16 @@ main-context-menu-audio-email =
 main-context-menu-send-to-device-2 =
     .label = Poślij na maszina
     .accesskey = n
-main-context-menu-save-to-pocket =
-    .label = Chrōń strōna we { -pocket-brand-name }
-    .accesskey = c
-main-context-menu-send-to-device =
-    .label = Poślij strōna na maszina
-    .accesskey = m
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Użyj spamiyntanych danych logowanio
-    .accesskey = u
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Użyj spamiyntanego hasła
     .accesskey = u
-
-##
-
 main-context-menu-suggest-strong-password =
     .label = Doradź siylne hasło…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = Regiyruj danymi logowanio
-    .accesskey = R
-main-context-menu-keyword =
-    .label = Przidej kluczowe słowo do tego wyszukowanio…
-    .accesskey = K
 main-context-menu-link-send-to-device =
     .label = Poślij link do masziny
     .accesskey = m
@@ -305,9 +278,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Zrōb ôbroz ekranu
     .accesskey = Z
-main-context-menu-take-frame-screenshot =
-    .label = Zrōb ôbroz ekranu
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = Pokoż zdrzōdło strōny
     .accesskey = P

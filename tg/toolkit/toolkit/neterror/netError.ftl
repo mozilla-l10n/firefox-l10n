@@ -27,17 +27,13 @@ neterror-return-to-previous-page-button = Бозгашт
 neterror-return-to-previous-page-recommended-button = Бозгашт (тавсия дода мешавад)
 neterror-try-again-button-2 = Аз нав кӯшиш кардан
     .accesskey = А
-neterror-try-again-button = Аз нав кӯшиш кардан
 neterror-add-exception-button = Барои ин сомна ҳамеша идома дода шавад
 neterror-settings-button = Тағйир додани танзимоти DNS
 neterror-view-certificate-link = Дидани гувоҳнома
-neterror-trr-continue-this-time = Ин дафъа идома диҳед
-neterror-disable-native-feedback-warning = Ҳамеша идома диҳед
 
 ##
 
 neterror-pref-reset = Чунин ба назар мерасад, ки сабаби пайдоиши ин мушкилӣ танзимоти амнияти шабакаи шумо мебошад. Шумо мехоҳед, ки танзимоти пешфарз барқарор карда шавад?
-neterror-error-reporting-automatic = Барои расонидани кумак ба { -vendor-short-name } дар фаъолияти муайянкунӣ ва манъкунии сомонаҳои зараровар, дар бораи хатоҳои ба ин монанд гузориш диҳед
 
 ## Specific error messages
 
@@ -69,25 +65,15 @@ neterror-dns-not-found-offline-hint-reconnect = Пайвастро қатъ ка
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = «{ -brand-short-name }» дархости шуморо барои ин нишонии сомона тавассути ҳалкунандаи боэътимоди DNS муҳофизат карда наметавонад. Сабаб:
 neterror-dns-not-found-trr-only-reason2 = «{ -brand-short-name }» дархости шуморо барои ин нишонии сомона тавассути таъминкунандаи DNS-и бехатар муҳофизат карда наметавонад. Сабаб:
 neterror-dns-not-found-trr-third-party-warning2 = Шумо метавонед кори худро бо ҳалкунандаи DNS-и пешфарз идома диҳед. Аммо, дар ин ҳолат, тарафи сеюм метавонад ҳамаи он сомонаҳоеро, ки шумо тамошо мекунед, аз назар гузаронад.
 neterror-dns-not-found-trr-only-could-not-connect = «{ -brand-short-name }» ба { $trrDomain } пайваст нашуд.
 neterror-dns-not-found-trr-only-timeout = Пайвастшавӣ ба { $trrDomain } назар ба вақти мунтазир вақти зиёдро гирифт.
-neterror-dns-not-found-trr-offline = Шумо ба Интернет пайваст нестед.
 neterror-dns-not-found-trr-unknown-host2 = Ин сомона аз тарафи «{ $trrDomain }» ёфт нашуд.
 neterror-dns-not-found-trr-server-problem = Мушкилии { $trrDomain } ба миён омад.
 neterror-dns-not-found-bad-trr-url = Нишонии URL беэътибор аст.
 neterror-dns-not-found-system-sleep = Низом дар реҷаи хоб қарор дорад.
 neterror-dns-not-found-trr-unknown-problem = Мушкилии ногаҳон.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = «{ -brand-short-name }» дархости шуморо барои ин нишонии сомона тавассути ҳалкунандаи боэътимоди DNS муҳофизат карда наметавонад. Сабаб:
-neterror-dns-not-found-native-fallback-heuristic = DNS тавассути HTTPS дар шабакаи шумо хомӯш карда шудааст.
-neterror-dns-not-found-native-fallback-not-confirmed2 = «{ -brand-short-name }» ба { $trrDomain } пайваст нашуд.
 
 ##
 
@@ -96,8 +82,6 @@ neterror-file-not-found-moved = Санҷед, ки мумкин, ҷой ё но�
 neterror-access-denied = Эҳтимол, он тоза карда шудааст, ба ҷойи дигар интиқол дода шудааст ё иҷозатҳои файл дастрасиро манъ мекунанд.
 neterror-unknown-protocol = Барои кушодани ин нишонӣ, шумо бояд нармафзори дигарро насб кунед.
 neterror-redirect-loop = Дар баъзе мавридҳо, ин мушкилӣ метавонад аз боиси ғайрифаъолсозӣ ё радкунии қабули кукиҳо ба вуҷуд ояд.
-neterror-unknown-socket-type-psm-installed = Санҷед ва мутмаин шавед, ки Мудири амнияти шахсӣ (PSM) дар низоми шумо насб карда шудааст.
-neterror-unknown-socket-type-server-config = Мумкин аст, ки ин ба сабаби танзими ғайристандартии сервер ба миён омад.
 neterror-not-cached-intro = Ҳуҷҷати дархостшуда дар зерҳофизаи «{ -brand-short-name }» дастрас нест.
 neterror-not-cached-sensitive = Мувофиқи чораҳои бехатарӣ «{ -brand-short-name }» ҳуҷҷатҳои муҳимро ба таври худкор аз нав дархост намекунад.
 neterror-not-cached-try-again = Барои аз нав дархост кардани ҳуҷҷат аз сомона, тугмаи «Аз нав кӯшиш кардан»-ро зер кунед.

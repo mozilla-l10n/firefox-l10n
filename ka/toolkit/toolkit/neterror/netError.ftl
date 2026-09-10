@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = უკან დაბრუნებ�
 neterror-return-to-previous-page-recommended-button = უკან დაბრუნება (სასურველია)
 neterror-try-again-button-2 = ხელახლა ცდა
     .accesskey = ც
-neterror-try-again-button = სცადეთ ხელახლა
 neterror-add-exception-button = ყოველთვის განაგრძობს ამ საიტზე
 neterror-settings-button = DNS-პარამეტრების შეცვლა
 neterror-view-certificate-link = სერტიფიკატის ნახვა
-neterror-trr-continue-this-time = განაგრძოს ამჯერად
-neterror-disable-native-feedback-warning = ყოველთვის განაგრძოს
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = ვრცლად
 ##
 
 neterror-pref-reset = შესაძლოა, ამას თქვენი ქსელის უსაფრთხოების პარამეტრები იწვევდეს. გსურთ ნაგულისხმევი პარამეტრების აღდგენა?
-neterror-error-reporting-automatic = აცნობეთ { -vendor-short-name }-ს მსგავსი შეცდომების შესახებ, რომ დაეხმაროთ მავნე საიტების აღმოჩენასა და მათ შეზღუდვაში
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = გამოთიშეთ დ�
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } ვერ ახერხებს თქვენი მოთხოვნის დაცვას ამ საიტის მისამართისთვის ჩვენი სანდო DNS-გადამყვანით. აი, რატომ:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } ვერ ახერხებს თქვენი მოთხოვნის დაცვას ამ საიტის მისამართისთვის ჩვენი სანდო DNS-გადამყვანით. აი, რის გამო:
 neterror-dns-not-found-trr-third-party-warning2 = შეგიძლიათ, განაგრძოთ ნაგულისხმევი DNS-გადამყვანით. თუმცაღა ამით გარეშე პირებს ექნებათ საშუალება, იხილონ, რომელ გვერდებს ეწვევით.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } და { $trrDomain } კავშირის დამყარებას ვერ ახერხებს.
 neterror-dns-not-found-trr-only-timeout = { $trrDomain } მოსალოდნელზე დიდხანს იყო დაკავშირებული.
-neterror-dns-not-found-trr-offline = არ გაქვთ ქსელთან წვდომა.
 neterror-dns-not-found-trr-unknown-host2 = საიტს ვერ პოულობს { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = ხარვეზებით მუშაობს { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = არამართებული ბმული.
 neterror-dns-not-found-system-sleep = სისტემა ძილის რეჟიმშია.
 neterror-dns-not-found-trr-unknown-problem = მოულოდნელი შეცდომა.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ვერ ახერხებს თქვენი მოთხოვნის დაცვას ამ საიტის მისამართისთვის ჩვენი სანდო DNS-გადამყვანით. აი, რატომ:
-neterror-dns-not-found-native-fallback-heuristic = DNS-თან HTTPS-კავშირი გათიშულია თქვენს ქსელში.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } და { $trrDomain } კავშირის დამყარებას ვერ ახერხებს.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = შესაძლოა, წაშლილია, გ
 neterror-unknown-protocol = ამ მისამართის გასახსნელად შესაძლოა, სხვა პროგრამის დაყენება იყოს საჭირო.
 neterror-redirect-loop = ამ ხარვეზს, ზოგჯერ იწვევს ფუნთუშების გამორთვა ან უარყოფა.
 neterror-unknown-socket-type-client-config = ამას შეიძლება იწვევდეს თქვენი კლიენტის გაუმართაობა.
-neterror-unknown-socket-type-psm-installed = შეამოწმეთ და დარწმუნდით რომ თქვენს სისტემაში პირადი უსაფრთხოების მმართველი დაყენებულია.
-neterror-unknown-socket-type-server-config = ამის მიზეზი შესაძლოა, სერვერის არასტანდარტული კონფიგურაცია იყოს.
 neterror-not-cached-intro = მოთხოვნილი შიგთავსი არაა ხელმისაწვდომი ადგილობრივად, სადაც მას { -brand-short-name } დროებით ინახავს.
 neterror-not-cached-sensitive = უსაფრთხოების მიზნით { -brand-short-name } დაუკითხავად არ ჩამოტვირთავს ხელმეორედ საიტიდან მოსაფრთხილებელ მასალას.
 neterror-not-cached-try-again = ჩამოტვირთვის ახლიდან მოთხოვნისთვის, დაწკაპეთ „სცადეთ ხელახლა“.

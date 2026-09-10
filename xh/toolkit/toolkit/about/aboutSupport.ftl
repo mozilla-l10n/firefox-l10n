@@ -24,7 +24,6 @@ app-basics-profile-dir =
         [linux] Isalathiso seprofayile
        *[other] Ifolda yeprofayile
     }
-app-basics-enabled-plugins = Isoftwe encedisayo evunyelweyo
 app-basics-build-config = Yakha uLungiselelo
 app-basics-user-agent = IArhente yomsebenzisi
 app-basics-os = OS

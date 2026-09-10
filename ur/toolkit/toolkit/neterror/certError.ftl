@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = یہ تصدیق نامہ قابل اعتما
 cert-error-trust-signature-algorithm-disabled = تصدیق نامہ ناقابل بھروسا ہے کیونکہ اس کو دستخط کیا گپا دستخط شدہ الگورزم کو استعمال کرتے ہوئے جس کو نااہل بنا دیا گیا تھا کیونکہ وہ الگورزم قابل بھروسا نہیں تھا۔
 cert-error-trust-expired-issuer = یہ تصدیق نامہ قابل اعتماد نہیں ہے کیوں کہ جاری کنندہ کا تصدیق نامہ زائدالمدت ہے۔
 cert-error-trust-self-signed = یہ تصدیق نامہ قابل اعتماد نہیں ہے کیوں کہ اس نے خود پر دستخط کیا ہوا ہے۔
-cert-error-trust-symantec = GeoTrust ، RapidSSL ، Symantec، Thawteاور VeriSign کے ذریعہ جاری کردہ تصدہق نامہ کو اب محفوظ  شدہ نہیں سمجھا جاتا ہے کیونکہ یہ تصدہق نامہ  حکام ماضی میں سلامتی کے طریقوں پر عمل کرنے میں ناکام رہے تھے۔
 cert-error-untrusted-default = یہ تصدیق نامہ قابل اعتماد ماخذ سے نہیں ہے۔
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -49,17 +48,12 @@ cert-error-code-prefix = غلطی کا کوڈ: { $error }
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = نقص: کا کوڈ:<a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = ویب سائٹس اپنی شناخت سرٹیفکیٹ کے ذریعے ثابت کرتی ہیں، جو سرٹیفکیٹ اتھارٹی کے زریعہ جاری ہوتے ہے۔ زیادہ تر براؤزر GeoTrust، RapidSSL، Symantec، Thawte، اور VeriSign کے زریعہ جاری کئے گئے سرٹیفکیٹ پر اعتماد نہیں کرتے۔ { $hostname } ان میں سے کسی ایک کا فراہم سرٹیفکیٹ استعمال کرتا ہے اور اسی لئے ویب سائٹ کی شناخت سابت نہیں ہو پا رہی ہے۔
-cert-error-symantec-distrust-admin = آپ اس مسئلے کے بارے میں ویب سائٹ کے منتظم کو مطلع کرسکتے ہیں۔
-# Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP سخت ٹرانسپورٹ سلامتی: { $hasHSTS }
 # Variables:
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP عوامی کلید پننگ: { $hasHPKP }
 cert-error-details-cert-chain-label = تصدیق نامہ سلسلہ:
-open-in-new-window-for-csp-or-xfo-error = نئی ونڈو میں سائٹ کھولیں
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = آپ کی سلامتی کے تحفظ کے لئے، { $hostname } کی جانب سے { -brand-short-name } کو صفحہ دکھانے کی اجازت نہیں ملے گی اگر  کسی اور سائٹ نے اس میں سرایت کرلی ہو۔ اس صفحے کو دیکھنے کے لئے آپ کو اسے ایک نئی ونڈو میں کھولنے کی ضرورت ہے۔
@@ -92,7 +86,6 @@ redirectLoop-title = صفحہ ٹھیک طرح ری ڈائریکٹ نہیں ہو 
 unknownSocketType-title = سرور کی طرف سے غیر متوقع جواب
 nssFailure2-title = قابل بھروسا کنکشن ناکام ہو گیا ہے
 csp-xfo-error-title = { -brand-short-name } اس صفہ کو نہیں کھول سکتا
-corruptedContentError-title = خراب مواد نقص
 sslv3Used-title = حفاظتی طور پر جڑنے میں ناکام
 inadequateSecurityError-title = آپکا کنکشن ناقابل بھروسا ہے
 blockedByPolicy-title = بلاک شدہ صفحہ

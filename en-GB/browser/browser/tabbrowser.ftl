@@ -21,11 +21,6 @@ tabbrowser-tab-tooltip-container = { $containerName }
 #   $tabGroupName (String): the user-defined name of the current tab group.
 #   $containerName (String): the name of the current container.
 tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } — { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -33,14 +28,6 @@ tabbrowser-container-tab-title = { $title } — { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [one] Close tab
-           *[other] Close { $tabCount } tabs
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [one] Close tab
            *[other] Close { $tabCount } tabs
@@ -108,7 +95,6 @@ tabbrowser-unblock-tab-audio-aria-label =
 tabbrowser-confirm-close-tabs-title = Close { $tabCount } tabs?
 tabbrowser-confirm-close-tabs-button = Close tabs
 tabbrowser-ask-close-tabs-checkbox = Ask before closing multiple tabs
-tabbrowser-confirm-close-tabs-checkbox = Confirm before closing multiple tabs
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -131,9 +117,6 @@ tabbrowser-confirm-close-tabs-with-key-button = Quit { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-ask-close-tabs-with-key-checkbox = Ask before quitting with { $quitKey }
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = Confirm before quitting with { $quitKey }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
@@ -394,8 +377,8 @@ tab-group-context-move-to-this-window =
 # tab group and open the content sharing dialog. Share is a verb here.
 # .badge labels this menu item as a newly introduced feature.
 tab-group-context-share-group =
-    .label = Share Group
     .badge = New
+    .label = Share Group
 # For a tab group that is open in any window, close the tab group and
 # do not save it. For a tab group that is closed but saved by the user, clicking
 # this will forget the saved tab group.
@@ -432,8 +415,8 @@ tab-note-editor-button-save =
     .label = Save
     .accesskey = S
 tab-note-editor-button-delete =
-    .title = Delete note
     .aria-label = Delete note
+    .title = Delete note
     .accesskey = D
 tab-note-preview-edit-icon =
     .alt = Edit note

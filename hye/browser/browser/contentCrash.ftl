@@ -18,13 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Դուք ունէք չուղարկուած վթարի զեկոյց
-       *[other] Դուք ունէք { $reportCount } չուղարկուած վթարի զեկոյցներ
-    }
 pending-crash-reports-view-all =
     .label = տեսադաշտ
 pending-crash-reports-send =

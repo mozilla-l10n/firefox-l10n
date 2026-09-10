@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>ಅಪ್‌ಡೇಟ್‌ ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = ಅಪ್‌ಡೇಟ್‌ ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ — { $transfer }
 
@@ -29,7 +28,6 @@ settings-update-applying =
     .label = ನವೀಕರಣವನ್ನು ಅನ್ವಯಿಸಲಾಗುತ್ತಿದೆ...
 update-failed = ಅಪ್‌ಡೇಟ್ ವಿಫಲಗೊಂಡಿದೆ. <label data-l10n-name="failed-link">ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯನ್ನು ಡೌನ್‌ಲೋಡ ಮಾಡಿಕೊಳ್ಳಿ</label>
 update-failed-main = ಅಪ್‌ಡೇಟ್ ವಿಫಲಗೊಂಡಿದೆ. <a data-l10n-name="failed-link-main">ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯನ್ನು ಡೌನ್‌ಲೋಡ ಮಾಡಿಕೊಳ್ಳಿ</a>
-update-adminDisabled = ನಿಮ್ಮ ವ್ಯವಸ್ಥೆಯ ನಿರ್ವಾಹಕರಿಂದ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ
 update-noUpdatesFound = { -brand-short-name } ಅಪ್‌ಟುಡೇಟ್ ಆಗಿದೆ
 settings-update-no-updates-found =
     .label = { -brand-short-name } ಅಪ್‌ಟುಡೇಟ್ ಆಗಿದೆ
@@ -58,5 +56,3 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } ಅನ್ನು ವಿನ್ಯಾಸಗೊಳಿಸಿದವರು <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, ಒಂದು <label data-l10n-name="community-creditsLink">ಜಾಗತಿಕ ಸಮುದಾಯ</label> ಅಂತರಜಾಲವು ಮುಕ್ತ, ಸಾರ್ವಜನಿಕ, ಮತ್ತು ಎಲ್ಲರಿಗೂ ಎಟಕುವಂತಿರಬೇಕು ಎಂದು ಒಂದುಗೂಡಿ ಕೆಲಸ ಮಾಡುತ್ತಿದೆ.
 helpus = ಸಹಾಯ ಮಾಡಲು ಇಚ್ಛಿಸುವಿರಾ? <label data-l10n-name="helpus-donateLink">ದೇಣಿಗೆಯನ್ನು ನೀಡಿ</label> ಅಥವ <label data-l10n-name="helpus-getInvolvedLink">ನೀವೂ ಪಾಲ್ಗೊಳ್ಳಿ!</label>
 bottomLinks-license = ಪರವಾನಗಿ ಮಾಹಿತಿ
-bottomLinks-rights = ಬಳಕೆದಾರರ ಹಕ್ಕುಗಳು
-bottomLinks-privacy = ಗೌಪ್ಯತಾ ನಿಯಮ

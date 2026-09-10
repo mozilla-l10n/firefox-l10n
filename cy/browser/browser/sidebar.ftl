@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = Clirio'r hanes
 sidebar-history-sort-by-heading-menucaption =
     .label = Trefnu yn ôl:
-sidebar-history-sort-by-heading = Trefnu yn ôl:
 sidebar-history-sort-option-date =
     .label = Dyddiad
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Estyniadau'r bar ochr
-sidebar-customize-firefox-tools-header =
-    .label = Offer { -brand-product-name }
 sidebar-customize-firefox-settings = Rheoli gosodiadau { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Tabiau fertigol
 sidebar-settings2 =
     .label = Gosodiadau
-sidebar-settings =
-    .label = Gosodiadau bar ochr
 sidebar-hide-tabs-and-sidebar =
     .label = Cuddio tabiau a bar ochr
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Rheoli estyniadau
-sidebar-context-menu-remove-extension =
-    .label = Tynnu'r estyniad
 sidebar-context-menu-report-extension =
     .label = Adrodd am yr estyniad
 sidebar-context-menu-open-in-tab =

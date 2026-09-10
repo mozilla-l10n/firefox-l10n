@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Razširitev ne more brati ali spreminjati podatkov
-origin-controls-quarantined =
-    .label = Razširitvi ni dovoljeno brati ali spreminjati podatkov
 origin-controls-quarantined-status =
     .label = Razširitev ni dovoljena na omejenih spletnih mestih
 origin-controls-quarantined-allow =

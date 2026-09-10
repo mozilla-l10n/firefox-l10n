@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Montri en Finder
            *[other] Montri en dosierujo
         }
-downloads-cmd-show-downloads =
-    .label = Montri dosierujon por elŝutoj
 downloads-cmd-retry =
     .tooltiptext = Klopodi denove
 downloads-cmd-retry-panel =

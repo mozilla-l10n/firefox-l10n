@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = 转到上一页 ({ $shortcut })
     .aria-label = 后退
+    .tooltiptext = 转到上一页 ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = 转到下一页 ({ $shortcut })
     .aria-label = 前进
+    .tooltiptext = 转到下一页 ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = 为页面添加书签…
-    .accesskey = m
     .tooltiptext = 为页面添加书签
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = 为页面添加书签…
-    .accesskey = m
     .tooltiptext = 为页面添加书签（{ $shortcut }）
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = 编辑书签…
-    .accesskey = m
     .tooltiptext = 编辑书签
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = 编辑书签…
-    .accesskey = m
     .tooltiptext = 编辑书签（{ $shortcut }）
+    .accesskey = m
 main-context-menu-open-link =
     .label = 打开链接
     .accesskey = O
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = 从链接另存文件为…
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = 保存链接到 { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = 开启同步以发送�
 main-context-menu-send-to-mobile-connect-phone3 = 连接设备以发送标签页
 main-context-menu-send-to-mobile-connect-phone-from-link = 连接设备以发送链接
 main-context-menu-send-to-mobile-connect-phone-from-page = 连接设备以发送页面
-main-context-menu-save-to-pocket =
-    .label = 保存页面到 { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = 发送页面到设备
-    .accesskey = D
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = 使用保存的登录信息
-    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = 使用保存的密码
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = 使用 { -relay-brand-short-name } 马甲邮箱
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = 建议高强度密码…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = 管理登录信息
-    .accesskey = M
 main-context-menu-manage-passwords =
     .label = 管理密码
     .accesskey = M
-main-context-menu-keyword =
-    .label = 为此搜索引擎添加关键词…
-    .accesskey = K
 main-context-menu-add-engine =
     .label = 添加搜索引擎
     .accesskey = S
@@ -393,9 +366,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = 截图
     .accesskey = T
-main-context-menu-take-frame-screenshot =
-    .label = 截图
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = 查看页面源代码
     .accesskey = V

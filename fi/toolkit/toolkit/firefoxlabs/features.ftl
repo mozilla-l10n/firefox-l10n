@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Ota käyttöön Warp, projekti javaS
 experimental-features-ime-search =
     .label = Osoitepalkki: näytä tulokset IME-koostamisen aikana
 experimental-features-ime-search-description = IME (Input Method Editor, kirjoitustapaeditori) on työkalu, jonka avulla voit kirjoittaa tavallisella näppäimistöllä monimutkaisia symboleja, kuten itäaasialaisia tai intialaisia symboleja. Tämän kokeilun ottaminen käyttöön pitää osoitepalkin auki näyttäen hakutulokset ja -ehdotukset samalla, kun käytät tekstinsyöttöä IME:n avulla. Huomaa, että IME saattaa näyttää paneelin, peittäen osoitepalkin hakutulokset. Siksi tätä asetusta suositellaan vain, kun IME ei käytä tämäntyyppistä paneelia.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Kuva kuvassa: automaattinen avautuminen välilehteä vaihtaessa
-experimental-features-auto-pip-description = Ota kuva kuvassa -toiminto käyttöön aktiivisissa videoissa, kun vaihdat välilehteä.
 experimental-features-group-developer-tools =
     .label = Kehittäjätyökalut
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Tuottavuus
 experimental-features-group-newtab-widgets =
     .label = Pienoisohjelmat { -firefox-home-brand-name }issa
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Salasanat sivupalkissa
-experimental-features-contextual-password-manager-description = Käytä salasanojasi suoraan sivupalkista. Sinun ei tarvitse enää etsiä tai nollata salasanoja yrittäessäsi kirjautua sisään. Voit käyttää tätä ominaisuutta valitsemalla salasanat sivupalkista. Siirry sitten yleisiin asetuksiin ja valitse selaimen asettelusta Näytä sivupalkki. Mukauta sitten sivupalkkia valitsemalla salasanat. Jos kokeilet sitä, <a data-l10n-name="connect">kerro meille mielipiteesi</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Valitse mukautettu taustakuva tai väri uudelle välilehdelle

@@ -30,11 +30,11 @@ third-party-tag-background = Eftergrûn
         Dizze module hat de tapassing net blokkearre, omdat dizze yn de
         eftergrûn laden is
 third-party-icon-unsigned =
-    .title = Dizze module is net ûndertekene
     .alt = Dizze module is net ûndertekene
+    .title = Dizze module is net ûndertekene
 third-party-icon-warning =
-    .title = { -brand-short-name } is yn koade fan dizze module ferûngelokke
     .alt = { -brand-short-name } is yn koade fan dizze module ferûngelokke
+    .title = { -brand-short-name } is yn koade fan dizze module ferûngelokke
 third-party-status-loaded = Laden
 third-party-status-blocked = Blokkearre
 third-party-status-redirected = Omlaat
@@ -46,30 +46,17 @@ third-party-button-reload = Opnij lade mei systeemynfo
     .title = Opnij lade mei systeemynformaasje
 third-party-button-open =
     .title = Bestânslokaasje iepenje…
-third-party-button-to-block =
-    .title = Dizze module blokkearje
-    .aria-label = Dizze module blokkearje
-third-party-button-to-unblock =
-    .title = Op dit stuit blokkearre. Klik om it te deblokkearjen.
-    .aria-label = Op dit stuit blokkearre. Klik om it te deblokkearjen.
-third-party-button-to-unblock-disabled =
-    .title =
-        Op dit stuit markearre as blokkearre, hoewol de blokkearlist útskeakele is foar dizze run
-        fan { -brand-short-name }. Klik om te deblokkearjen.
-    .aria-label =
-        Op dit stuit markearre as blokkearre, hoewol de blokkearlist útskeakele is foar dizze run
-        fan { -brand-short-name }. Klik om te deblokkearjen.
 third-party-button-to-block-module = Dizze module blokkearje
-    .title = Dizze module blokkearje
     .aria-label = Dizze module blokkearje
+    .title = Dizze module blokkearje
 third-party-button-to-unblock-module = Dizze module deblokkearje
-    .title = Op dit stuit blokkearre. Klik om te deblokkearjen.
     .aria-label = Op dit stuit blokkearre. Klik om te deblokkearjen.
+    .title = Op dit stuit blokkearre. Klik om te deblokkearjen.
 third-party-button-to-unblock-module-disabled = Dizze module deblokkearje (blokkearlist op dit stuit útskeakele)
-    .title =
+    .aria-label =
         Op dit stuit markearre as blokkearre, hoewol de blokkearlist útskeakele is foar dizze run
         fan { -brand-short-name }. Klik om dizze te deblokkearjen.
-    .aria-label =
+    .title =
         Op dit stuit markearre as blokkearre, hoewol de blokkearlist útskeakele is foar dizze run
         fan { -brand-short-name }. Klik om dizze te deblokkearjen.
 third-party-button-expand =
@@ -81,5 +68,5 @@ third-party-should-restart-title = { -brand-short-name } opnij starte
 third-party-restart-now = No opnij starte
 third-party-restart-later = Letter opnij starte
 third-party-blocked-by-builtin =
-    .title = Blokkearre troch { -brand-short-name }
     .alt = Blokkearre troch { -brand-short-name }
+    .title = Blokkearre troch { -brand-short-name }

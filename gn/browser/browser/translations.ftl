@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Emoñe’ẽasa ko kuatiarogue
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Ñe’ẽasa oñemboguatáva
 translations-panel-settings-button =
     .aria-label = Eñangareko ñe’ẽasa ñembohekóre
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Eñangareko ñe’ẽnguérare
-translations-panel-settings-about = Ñe’ẽasa rehegua { -brand-shorter-name }-pe
 translations-panel-settings-about2 =
     .label = Ñe’ẽasa rehegua { -brand-shorter-name }-pe
 # Text displayed for the option to always translate a given language
@@ -91,14 +82,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = Rombyasy, noromoneĩri gueteri ko { $language } moñe’ẽasa.
 translations-panel-error-unsupported-hint-unknown-2 = Rombyasy, noromoneĩri gueteri moñe’ẽasa ko ñe’ẽme g̃uarã.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Rombyasy, noromoneĩri gueteri { $language }.
-translations-panel-error-unsupported-hint-unknown = Rombyasy, noromoneĩri gueteri ko ñe’ẽ.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -130,10 +113,6 @@ translations-manage-header = Ñemoñe’ẽasa
 translations-manage-settings-button =
     .label = Ñemboheko…
     .accesskey = t
-translations-manage-description = Emboguejy ñe’ẽnguéra emoñe’ẽasa hag̃ua ñanduti’ỹre.
-translations-manage-all-language = Opaite ñe’ẽ
-translations-manage-download-button = Mboguejy
-translations-manage-delete-button = Mboguete
 translations-manage-intro-2 = Emohenda tenda ñe’ẽ ha ñemoñe’ẽasa ehayhúvéva ha eñangereko umi ñe’ẽ emboguejýva emoñe’ẽasátava ñanduti’ỹre.
 translations-manage-download-description = Emboguejy ñe’ẽnguéra emoñe’ẽasa hag̃ua ñanduti’ỹre
 translations-manage-language-download-button =
@@ -147,12 +126,11 @@ translations-manage-language-remove-all-button =
     .label = Emboguepa
     .accesskey = e
 translations-manage-error-download = Iñapañuái emboguejykuévo ñe’ẽnguéra marandurenda. Eha’ã jey ag̃amieve.
-translations-manage-error-delete = Iñapañuái emboguekuévo ñe’ẽnguéra marandurenda. Eha’ã jey ag̃ave.
 translations-manage-error-remove = Oĩ apañuái emboguekuévo ñe’ẽnguéra marandurenda. Eha’ã jey ag̃ave.
 translations-manage-error-list = Ndaikatúi ereko ñe’ẽnguéra rysýi emoñe’ẽasa hag̃ua. Embohekopyahu kuatiarogue eha’ã jey hag̃ua.
 translations-settings-title =
-    .title = Ñe’ẽasa ñemboheko
     .style = min-width: 36em
+    .title = Ñe’ẽasa ñemboheko
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Ñemoñe’ẽasa oikóta ijehegui ko’ã ñe’ẽnguérape g̃uarã
@@ -246,16 +224,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = Rombyasy, noromoneĩri gueteri ko { $language } moñe’ẽasa.
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = Rombyasy, noromoneĩri gueteri moñe’ẽasa ko ñe’ẽme g̃uarã.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Rombyasy, noromoneĩri gueteri { $language }.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Rombyasy, noromoneĩri gueteri ko ñe’ẽ.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Ñemoñe’ẽasa ñemboheko

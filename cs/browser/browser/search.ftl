@@ -48,11 +48,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message =
-    { -brand-short-name.case-status ->
-        [with-cases] <strong>Váš výchozí vyhledávač byl změněn.</strong> Vyhledávač { $oldEngine } už není ve { -brand-short-name(case: "loc") } dostupný jako výchozí vyhledávač. Váš nový výchozí vyhledávač je teď { $newEngine }. Výchozí vyhledávač můžete změnit v nastavení. <label data-l10n-name="remove-search-engine-article">Zjistit více</label>
-       *[no-cases] <strong>Váš výchozí vyhledávač byl změněn.</strong> Vyhledávač { $oldEngine } už není v aplikaci { -brand-short-name } dostupný jako výchozí vyhledávač. Váš nový výchozí vyhledávač je teď { $newEngine }. Výchozí vyhledávač můžete změnit v nastavení. <label data-l10n-name="remove-search-engine-article">Zjistit více</label>
-    }
 removed-search-engine-message2 =
     { -brand-short-name.case-status ->
         [with-cases] <strong>Váš výchozí vyhledávač byl změněn.</strong> Vyhledávač { $oldEngine } už není ve { -brand-short-name(case: "loc") } dostupný jako výchozí vyhledávač. Váš nový výchozí vyhledávač je teď { $newEngine }. Výchozí vyhledávač můžete změnit v nastavení.
@@ -78,11 +73,11 @@ install-search-engine-no = Ne
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Přidat vyhledávač
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Upravit vyhledávač
     .style = min-width: 32em;
+    .title = Upravit vyhledávač
 add-engine-button = Přidat vlastní vyhledávač
 add-engine-name = Název vyhledávače
 add-engine-url2 = Adresa URL s %s na místě hledaného výrazu
@@ -119,11 +114,11 @@ add-engine-missing-terms-post-data = Zkuste přidat %s místo vyhledávaného v�
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Přidat vyhledávač
-    .buttonaccesskeyaccept = P
     .buttonlabelextra1 = Pokročilé
+    .buttonaccesskeyaccept = P
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Uložit vyhledávač
-    .buttonaccesskeyaccept = U
     .buttonlabelextra1 = Pokročilé
+    .buttonaccesskeyaccept = U

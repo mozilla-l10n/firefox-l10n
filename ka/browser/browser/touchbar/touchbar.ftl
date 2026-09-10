@@ -31,4 +31,3 @@ search-bookmarks = სანიშნები
 search-history = ისტორია
 search-opentabs = გახსნილი ჩანართები
 search-tags = ჭდეები
-search-titles = სათაურები

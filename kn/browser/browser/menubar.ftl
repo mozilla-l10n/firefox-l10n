@@ -225,8 +225,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Help
     .accesskey = H
-menu-help-report-site-issue =
-    .label = ಜಾಲದ ತೊಂದರೆ ವರದಿ ಮಾಡಿ…
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

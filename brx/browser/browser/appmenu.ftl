@@ -36,10 +36,6 @@ appmenuitem-fullscreen =
 appmenuitem-save-page =
     .label = ..बादि बिलाइखौ थिना दोन...
 
-## What's New panel in App menu.
-
-whatsnew-panel-header = मा गोदान
-
 ##
 
 appmenu-restore-session =

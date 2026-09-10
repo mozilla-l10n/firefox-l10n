@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = запазване на about:webrtc ка�
 about-webrtc-aec-logging-msg-label = Журнал на AEC
 about-webrtc-aec-logging-off-state-label = Активиране журнал на AEC
 about-webrtc-aec-logging-on-state-label = Спиране журнал на AEC
-about-webrtc-aec-logging-on-state-msg = Активен журнал на AEC (разговор с обаждащия се за няколко минути и след това спиране на журнала)
 about-webrtc-aec-logging-toggled-on-state-msg = Активен журнал на AEC (разговор с обаждащия се за няколко минути и след това спиране на журнала)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -81,17 +80,9 @@ about-webrtc-nominated = Номинирано
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Избрано
 about-webrtc-save-page-label = Запазване на страницата
-about-webrtc-debug-mode-msg-label = Режим на дебъгване
-about-webrtc-debug-mode-off-state-label = Активиране режим на дебъгване
-about-webrtc-debug-mode-on-state-label = Спиране режим на дебъгване
-about-webrtc-stats-heading = Статистика за сесията
 about-webrtc-stats-clear = Изчистване на историята
 about-webrtc-log-heading = Журнал на свързването
 about-webrtc-log-clear = Изчистване на журнала
-about-webrtc-log-show-msg = показване на журнал
-    .title = щракнете, за да разширите раздела
-about-webrtc-log-hide-msg = скриване на журнал
-    .title = щракнете, за да свиете раздела
 about-webrtc-log-section-show-msg = Показване на журнал
     .title = Щракнете, за да разширите раздела
 about-webrtc-log-section-hide-msg = Скриване на журнал
@@ -114,19 +105,11 @@ about-webrtc-remote-candidate = Отдалечен кандидат
 about-webrtc-raw-candidates-heading = Всички сурови кандидати
 about-webrtc-raw-local-candidate = Сурови местни кандидати
 about-webrtc-raw-remote-candidate = Сурови отдалечени кандидати
-about-webrtc-raw-cand-show-msg = показване сурови кандидати
-    .title = щракнете, за да разширите раздела
-about-webrtc-raw-cand-hide-msg = скриване сурови кандидати
-    .title = щракнете, за да свиете раздела
 about-webrtc-raw-cand-section-show-msg = Показване сурови кандидати
     .title = Щракнете, за да разширите раздела
 about-webrtc-raw-cand-section-hide-msg = Скриване сурови кандидати
     .title = Щракнете, за да свиете раздела
 about-webrtc-priority = Приоритет
-about-webrtc-fold-show-msg = подробности
-    .title = щракнете, за да разширите раздела
-about-webrtc-fold-hide-msg = без подробности
-    .title = щракнете, за да свиете раздела
 about-webrtc-fold-default-show-msg = Подробности
     .title = Щракнете, за да разширите раздела
 about-webrtc-fold-default-hide-msg = Без подробности
@@ -142,10 +125,6 @@ about-webrtc-remote-send-ssrc = Отдалечено изпращане на SSR
 
 ##
 
-about-webrtc-save-page-msg = страницата е запазена в: { $path }
-about-webrtc-debug-mode-off-state-msg = журналът на дебъгването може да бъде намерен в: { $path }
-about-webrtc-debug-mode-on-state-msg = активиран режим на дебъгване, журнал на дебъгването в: { $path }
-about-webrtc-aec-logging-off-state-msg = журналните файлове могат да бъдат намерени в: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

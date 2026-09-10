@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = Перемикайтеся між при
 callout-firefox-view-tab-pickup-subtitle = Швидко отримуйте відкриті вкладки з телефона та відкривайте їх тут для продовження роботи.
 callout-firefox-view-recently-closed-title = Миттєво відновлюйте закриті вкладки
 callout-firefox-view-recently-closed-subtitle = Усі ваші закриті вкладки з'являтимуться тут. Більше ніколи не хвилюйтеся про випадкове закриття сторінки.
-callout-firefox-view-colorways-title = Додайте сплеск кольорів
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Оберіть відтінок, який пасуватиме саме вам, за допомогою забарвлень. Лише в { -brand-product-name }.
-callout-firefox-view-colorways-reminder-title = Ознайомтеся з нашими найновішими забарвленнями
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Розфарбуйте свій браузер цими знаковими відтінками, натхненними незалежними голосами. Тільки в { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

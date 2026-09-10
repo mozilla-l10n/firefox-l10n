@@ -5,6 +5,3 @@
 popup-notification-learn-more = ఇంకా తెలుసుకోండి
 popup-notification-more-actions-button =
     .aria-label = మరిన్ని చర్యలు
-popup-notification-default-button =
-    .label = సరే!
-    .accesskey = O

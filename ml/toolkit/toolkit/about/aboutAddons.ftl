@@ -144,15 +144,10 @@ addon-sitepermission-host = { $host }-നു് വെബിട അനുമത�
 
 ## These are global warnings
 
-extensions-warning-safe-mode = എല്ലാ ആഡ്-ഓണുകളും സേഫ് മോഡില്‍ പ്രവര്‍ത്തന രഹിതമാക്കിയിരിയ്ക്കുന്നു.
-extensions-warning-check-compatibility = ആഡ്-ഓണ്‍ പൊരുത്തം പരിശോധന പ്രവര്‍ത്തന രഹിതമാക്കിയിരിയ്ക്കുന്നു. പൊരുത്തപ്പെടാത്ത ആഡ്-ഓണുകളുണ്ടാവാം.
-extensions-warning-safe-mode2 =
-    .message = എല്ലാ ആഡ്-ഓണുകളും സേഫ് മോഡില്‍ പ്രവര്‍ത്തന രഹിതമാക്കിയിരിയ്ക്കുന്നു.
 extensions-warning-check-compatibility2 =
     .message = ആഡ്-ഓണ്‍ പൊരുത്തം പരിശോധന പ്രവര്‍ത്തന രഹിതമാക്കിയിരിയ്ക്കുന്നു. പൊരുത്തപ്പെടാത്ത ആഡ്-ഓണുകളുണ്ടാവാം.
 extensions-warning-check-compatibility-button = പ്രവര്‍ത്തന സജ്ജം
     .title = ആഡ്-ഓണ്‍ പൊരുത്തം പരിശോധന പ്രവര്‍ത്തന സജ്ജമാക്കുക
-extensions-warning-update-security = ആഡ്-ഓണ്‍ പരിഷ്കരണ സുരക്ഷാ പരിശോധന പ്രവര്‍ത്തന രഹിതമാക്കിയിരിയ്ക്കുന്നു. ഉചിതമായ പരിഷ്കരണങ്ങള്‍ ലഭ്യമായില്ല.
 extensions-warning-update-security2 =
     .message = ആഡ്-ഓണ്‍ പരിഷ്കരണ സുരക്ഷാ പരിശോധന പ്രവര്‍ത്തന രഹിതമാക്കിയിരിയ്ക്കുന്നു. ഉചിതമായ പരിഷ്കരണങ്ങള്‍ ലഭ്യമായില്ല.
 extensions-warning-update-security-button = പ്രവര്‍ത്തന സജ്ജം
@@ -295,11 +290,6 @@ addon-detail-version-label = പതിപ്പു്
 addon-detail-last-updated-label = ഏറ്റവും ഒടുവില്‍ പുതുക്കിയതു്
 addon-detail-homepage-label = ആമുഖതാൾ
 install-postponed-button = ഉടൻ പുതുക്കുക
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = 5-ൽ { NUMBER($rating, maximumFractionDigits: 1) } സ്ഥാനക്രമം
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -307,9 +297,6 @@ addon-name-disabled = { $name } (പ്രവൎത്തനരഹിതം)
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> മാറ്റിയിരിക്കുന്നു
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -328,11 +315,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = സ്വകാര്യ ജാലകങ്ങളിൽ അനുമതിയുണ്ടു്
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = സ്വകാര്യ ജാലകങ്ങളിൽ അനുമതിയുണ്ടു്
 addon-detail-private-browsing-allow = അനുവദിക്കുക
 addon-detail-private-browsing-disallow = അനുവദിക്കരുത്
@@ -374,39 +356,18 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { -brand-short-name } { $version }-നോടൊപ്പം { $name } പൊരുത്തപ്പെടുന്നു.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { -brand-short-name } { $version }-നോടൊപ്പം { $name } പൊരുത്തപ്പെടുന്നു.
-details-notification-incompatible-link = കൂടുതല്‍ വിവരങ്ങള്‍
-details-notification-unsigned-and-disabled = { $name } { -brand-short-name } ൽ ഉപയോഗിക്കാൻ പറ്റുമോയെന്ന് ഉറപ്പുവരുത്തിയിട്ടില്ലാത്തതിനാൽ അവ പ്രവർത്തരനരഹിതമാക്കിയിരിക്കുന്നു.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } { -brand-short-name } ൽ ഉപയോഗിക്കാൻ പറ്റുമോയെന്ന് ഉറപ്പുവരുത്തിയിട്ടില്ലാത്തതിനാൽ അവ പ്രവർത്തരനരഹിതമാക്കിയിരിക്കുന്നു.
-details-notification-unsigned-and-disabled-link = കൂടുതല്‍ വിവരങ്ങള്‍
-details-notification-unsigned = { $name } { -brand-short-name } ൽ ഉപയോഗിക്കാമോ എന്ന് ഉറപ്പുവരുത്തിയിട്ടില്ല. ശ്രദ്ധയോടെ തുടരുക.
 details-notification-unsigned2 =
     .message = { $name } { -brand-short-name } ൽ ഉപയോഗിക്കാമോ എന്ന് ഉറപ്പുവരുത്തിയിട്ടില്ല. ശ്രദ്ധയോടെ തുടരുക.
 details-notification-hard-blocked-extension =
     .message = മോസില്ലയുടെ നയങ്ങൾ ലംഘിച്ചതിനാൽ ഈ വിപുലീകരണം തടയുകയും പ്രവർത്തനരഹിതമാക്കുകയും ചെയ്തു.
 details-notification-hard-blocked-other =
     .message = മോസില്ലയുടെ നയങ്ങൾ ലംഘിച്ചതിനാൽ ഈ ആഡോൺ തടയുകയും പ്രവർത്തനരഹിതമാക്കുകയും ചെയ്തു.
-details-notification-unsigned-link = കൂടുതല്‍ വിവരങ്ങള്‍
-details-notification-blocked = സുരക്ഷാ, സ്ഥിരത പ്രശ്നങ്ങള്‍ കാരണം { $name } പ്രവര്‍ത്തന രഹിതമാണു്.
 details-notification-blocked-link2 = വിശദാംശങ്ങൾ കാണുക
-details-notification-soft-blocked-extension-disabled =
-    .message = ഈ വിപുലീകരണം മോസില്ലയുടെ നയങ്ങൾ ലംഘിക്കുന്നതിനാൽ പ്രവർത്തനരഹിതമാക്കിയിരിക്കുന്നു. താങ്ങൾക്കു് ഇതു് പ്രവർത്തനക്ഷമമാക്കാൻ കഴിയും, എന്നാൽ ഇതു് അപകടകരമായേക്കാം.
-details-notification-soft-blocked-extension-enabled =
-    .message = ഈ വിപുലീകരണം മോസില്ലയുടെ നയങ്ങളെ ലംഘിക്കുന്നു. ഇത് ഉപയോഗിക്കുന്നതു് അപകടകരമായേക്കാം.
-details-notification-soft-blocked-other-disabled =
-    .message = ഈ ആഡ് ഓൺ മോസില്ലയുടെ നയങ്ങൾ ലംഘിക്കുന്നതിനാൽ പ്രവർത്തനരഹിതമാക്കിയിരിക്കുന്നു. താങ്ങൾക്കു് ഇതു് പ്രവർത്തനക്ഷമമാക്കാൻ കഴിയും, എന്നാൽ ഇതു് അപകടകരമായേക്കാം.
-details-notification-soft-blocked-other-enabled =
-    .message = ഈ വിപുലീകരണം മോസില്ലയുടെ നയങ്ങളെ ലംഘിക്കുന്നു. ഇത് ഉപയോഗിക്കുന്നതു് അപകടകരമായേക്കാം.
 details-notification-softblocked-link2 = വിശദാംശങ്ങൾ കാണുക
-details-notification-blocked-link = കൂടുതല്‍ വിവരങ്ങള്‍
-details-notification-softblocked = സുരക്ഷാ, സ്ഥിരത പ്രശ്നങ്ങള്‍ക്കു് { $name } കാരണമാകുന്നു.
-details-notification-softblocked-link = കൂടുതല്‍ വിവരം
-details-notification-gmp-pending = { $name } ഉടനേ ഇന്‍സ്റ്റോള്‍ ചെയ്യും
 details-notification-gmp-pending2 =
     .message = { $name } ഉടനേ ഇന്‍സ്റ്റോള്‍ ചെയ്യും
 

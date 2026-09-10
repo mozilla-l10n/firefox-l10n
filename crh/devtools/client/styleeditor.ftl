@@ -16,8 +16,6 @@ styleeditor-save-button = Saqla
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Uslûp Muarriri seçenekleri
-styleeditor-editor-textbox =
-    .data-placeholder = Mında CSS tuşlañız.
 styleeditor-no-stylesheet = Bu saifeniñ uslûp yaprağı yoqtır.
 styleeditor-no-stylesheet-tip = Belki de <a data-l10n-name="append-new-stylesheet">soñuna yañı bir uslûp yaprağını ekle</a>mege ister ediñiz?
 styleeditor-open-link-new-tab =

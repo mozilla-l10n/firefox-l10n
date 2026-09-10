@@ -40,7 +40,6 @@ sidebar-history-clear =
     .label = Обриши историју
 sidebar-history-sort-by-heading-menucaption =
     .label = Поређај према:
-sidebar-history-sort-by-heading = Поређај према:
 sidebar-history-sort-option-date =
     .label = Датуму
 sidebar-history-sort-option-site =
@@ -60,16 +59,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Додаци бочног панела
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name } алатке
 sidebar-customize-firefox-settings = Управља { -brand-short-name } подешавањима
 sidebar-vertical-tabs =
     .label = Усправни језичци
 sidebar-settings2 =
     .label = Подешавања
-sidebar-settings =
-    .label = Подешавања бочне траке
 sidebar-hide-tabs-and-sidebar =
     .label = Сакриј језичке и бочну траку
 sidebar-open-tools-from-sidebar =
@@ -91,8 +85,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Управљај додатком
-sidebar-context-menu-remove-extension =
-    .label = Уклони додатак
 sidebar-context-menu-report-extension =
     .label = Пријави додатак
 sidebar-context-menu-open-in-tab =

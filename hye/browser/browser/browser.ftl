@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = Դիտել կայքի տեղեկութիւնը
 
@@ -40,8 +35,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Բացել անցանց պահեստի հաղորդագրութեան վահանակը
 urlbar-password-notification-anchor =
     .tooltiptext = Բացել պահպանուած գաղտնաբառի հաղորդագրութեան վահանակը
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Կառավարել ներդիրների աւգտագործումը
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Կառավարել խցիկի եւ/կամ բարձրախաւսի համաւգտագործումն այս կայքի հետ
 # "Speakers" is used in a general sense that might include headphones or
@@ -54,14 +47,7 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Պահել տուեալները Մշտական պահեստում
 urlbar-addons-notification-anchor =
     .tooltiptext = Բացել jաւելման տեղադրման հաղորդագրութեան վահանակը
-urlbar-tip-help-icon =
-    .title = Ստանալ աւգնութիւն
 urlbar-search-tips-confirm = Հասկանալի է։
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Հուշում.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -96,8 +82,6 @@ urlbar-screen-blocked =
     .tooltiptext = Ձեր եկրանի համաւգտագործումն այս կայքի համար արգելափակուած է։
 urlbar-persistent-storage-blocked =
     .tooltiptext = Դուք արգելափակել եք մշտական պահեստը այս կայքի համար։
-urlbar-popup-blocked =
-    .tooltiptext = Դուք ունէք արգելափակուած ինքնել պատուհաններ այս կայքում։
 urlbar-autoplay-media-blocked =
     .tooltiptext = Դուք այս կայքի համար արգելափակել եք ինքնանուագարկուող ձայնային մեդիան։
 urlbar-canvas-blocked =
@@ -226,17 +210,13 @@ identity-custom-root = Կապակցումը հաստատուել է վկայագ
 identity-passive-loaded = Այս էջի մասերը անվտանգ չէն (օր.՝ պատկերները)
 identity-active-loaded = Դուք անջատել եք պաշտպանութիւնը այս էջում:
 identity-weak-encryption = Այս էջն աւգտագործում է թոյղ գաղտնագրում:
-identity-insecure-login-forms = Այս էջից մուտքագրումները կարող են վտանգուած լինել:
 identity-https-only-connection-upgraded = (Նորացրած HTTPS -ը)
-identity-https-only-label = «Միայն HTTPS» աշխատակերպ
 identity-https-only-dropdown-on =
     .label = Միացնել
 identity-https-only-dropdown-off =
     .label = Անջատել
 identity-https-only-dropdown-off-temporarily =
     .label = Անջատել ժամանակաւորապէս
-identity-https-only-info-turn-on2 = Միացնել HTTPS-Only կերպն այս կայքի համար, եթե ուզում էք, որպէսզի { -brand-short-name }֊ը հնարաւորութեան դէպքում կապը թարմացուի։
-identity-https-only-info-turn-off2 = Եթե էջը թուում է կոտրուած, կարող էք անջատել «Միայն HTTPS» աշխատակերպը, որպէսզի այս կայքը վերբեռնուի՝ աւգտագործելով անապահով HTTP:
 identity-https-only-info-no-upgrade = Հնարաւոր չէ նորացնել կապը HTTP -ում:
 identity-permissions-storage-access-header = Միջկայքային նշոցիկներ
 identity-permissions-storage-access-hint = Հետեւեալ կողմերը կարող են օգտագործել միջկայքային նշոցիկներ եւ կայքային տուեալներ, մինչ դուք կայքում էք։
@@ -252,7 +232,6 @@ identity-remove-cert-exception =
     .label = Հեռացնել բացառութիւնը
     .accesskey = R
 identity-description-insecure = Ձեր կապակցումը այս կայքին գաղտնի չէ: Ուղարկուած տեղեկութիւնները կարող են դիտուել ուրիշների կողմից (գաղտնաբառերը, հաղորդագրութիւնները, քարտային տվեալները եւ այլն):
-identity-description-insecure-login-forms = Մուտքգործման տեղեկութիւնը, որ մուտքագրել եք այս էջում, անվտանգ չէ եւ կարող է վտանգուել:
 identity-description-weak-cipher-intro = Ձեր կապակցումը այս կայքին աւգտագործում է թոյղ գաղտնագրում եւ այն գաղտնի չէ:
 identity-description-weak-cipher-risk = Այլ մարդիկ կարող են դիտել Ձեր տեղեկատվութիւնը կամ փոփոխել կայքի վարքագիծը:
 identity-description-active-blocked2 = { -brand-short-name }-ը արգելափակել է այս էջի մասերը, որոնք անվտանգ չէն:
@@ -261,12 +240,6 @@ identity-description-passive-loaded-insecure2 = Այս կայքը պարունա
 identity-description-passive-loaded-mixed2 = Չնայած { -brand-short-name }-ը արգելափակել է որոշ բովանդակութիւն՝ այս էջում դեռ կա ոչ անվտանգ բովանդակութիւն (օր.՝ պատկերներ)։
 identity-description-active-loaded = Այս կայքը պարունակում է բովանդակութիւն, որն անվտանգ չէ (օր.՝ գրուածքներ) եւ Ձեր կապակցումը գաղտնի չէ։
 identity-description-active-loaded-insecure = Կայք ուղարկուած տեղեկատվութիւնը կարող է դիտուել ուրիշների կողմից (գաղտնաբառերը, հաղորդագրութիւնները, քարտային տվեալները եւ այլն)։
-identity-disable-mixed-content-blocking =
-    .label = Առայժմ անջատել պաշտպանութիւնը
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = Միացնել պաշտպանութիւն
-    .accesskey = E
 identity-more-info-link-text =
     .label = Լրացուցիչ տեղեկութիւններ
 
@@ -280,40 +253,6 @@ browser-window-restore-down-button =
     .tooltiptext = Վերականգնել
 browser-window-close-button =
     .tooltiptext = Փակել
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = Նուագարկուում է
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = ԼՌԵՑՈՒԱԾ
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = Ինքնանուագարկումն արգելափակուած է
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = ՆԿԱՐ֊ՆԿԱՐՈՒՄ
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] Ձայնազրկել ներդիրը
-        [one] Ձայնազրկել { $count }  ներդիրները
-       *[other] Ձայնազրկել { $count } ներդիրները
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] ՄԻԱՑՆԵԼ ՆԵՐԴԻՐԻ ՁԱՅՆԸ
-        [one] ՄԻԱՑՆԵԼ { $count } ՆԵՐԴԻՐՆԵՐԻ ՁԱՅՆԵՐԸ
-       *[other] ՄԻԱՑՆԵԼ { $count } ՆԵՐԴԻՐՆԵՐԻ ՁԱՅՆԵՐԸ
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] ՄԻԱՑՆԵԼ ՆԵՐԴԻՐԻ ՁԱՅՆԸ
-        [one] ՄԻԱՑՆԵԼ { $count } ՆԵՐԴԻՐՆԵՐԻ ՁԱՅՆԵՐԸ
-       *[other] ՄԻԱՑՆԵԼ { $count } ՆԵՐԴԻՐՆԵՐԻ ՁԱՅՆԵՐԸ
-    }
 
 ## Bookmarks toolbar items
 
@@ -405,8 +344,6 @@ urlbar-extension =
     .value = Ընդլայնում՝
 urlbar-go-button2 =
     .title = Գնալ հասցէի տողում նշուած հասցէով
-urlbar-go-button =
-    .tooltiptext = Գնալ հասցէի տողում նշուած հասցէով
 urlbar-page-action-button =
     .tooltiptext = Էջի գործոյթները
 
@@ -452,20 +389,9 @@ urlbar-result-action-tabtosearch-web = Փնտրել { $engine }֊ով անմիջ
 urlbar-result-action-tabtosearch-other-engine = Փնտրել { $engine }֊ում անմիջապէս հասցէգաւտուց
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Պատճէնել
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
-urlbar-searchmode-bookmarks =
-    .label = Էջանիշեր
-urlbar-searchmode-tabs =
-    .label = Ներդիրներ
-urlbar-searchmode-history =
-    .label = Պատմութիւն
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -556,12 +482,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Թաքցնել էջանիշների գործեգաւտին
            *[other] Ցուցադրել էջանիշների գործեգաւտին
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Հեռացնել էջանիշների ցանկը գործեգաւտուց
-           *[other] Աւելացնել էջանիշների ցանկ գործեգաւտում
-        }
 
 ##
 
@@ -587,14 +507,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Էջանիշներ
-library-recent-activity-title =
-    .value = Վերջին գործողութիւնը
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Պահպանել { -pocket-brand-name }-ում
-    .tooltiptext = Պահպանել { -pocket-brand-name }-ում
 
 ## Repair text encoding toolbar button
 
@@ -648,8 +560,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = Աւգտանուն
-panel-save-update-password = Գաղտնաբառ
 panel-save-update-username-2 =
     .label = Աւգտանուն
 panel-save-update-password-2 =
@@ -663,24 +573,8 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = Փակել
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = Թոյլատրել ելնող պատուհաններ { $uriHost }-ից
-    .accesskey = p
-popups-infobar-block =
-    .label = Արգելել ինքնաելիցներ { $uriHost }-ից
-    .accesskey = p
-
 ##
 
-popups-infobar-dont-show-message =
-    .label = Չցուցադրել այս հաղորդագրութիւնը, երբ ելնող պատուհնները արգելափակուած են
-    .accesskey = D
-edit-popup-settings =
-    .label = Կառավարել բացուող կարգաւորումները…
-    .accesskey = Կ
 picture-in-picture-hide-toggle =
     .label = Թաքցնել նկարը նկարի փոխարկիչում
     .accesskey = H
@@ -704,8 +598,6 @@ navbar-accessible =
     .aria-label = Ուղղորդում
 navbar-downloads =
     .label = Ներբեռնումներ
-navbar-overflow =
-    .tooltiptext = Հաւելեալ գործիքներ…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

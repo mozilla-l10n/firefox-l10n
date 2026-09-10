@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] W Finder pokazać
            *[other] W rjadowaku pokazać
         }
-downloads-cmd-show-downloads =
-    .label = Rjadowak sćehnjenjow pokazać
 downloads-cmd-retry =
     .tooltiptext = Hišće raz spytać
 downloads-cmd-retry-panel =

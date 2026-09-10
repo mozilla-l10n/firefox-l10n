@@ -30,14 +30,13 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong> Ձեր որոնման համակարգը փոփոխուեց։ </strong>{ $oldEngine } այղեւս հասանելի չէ որպէս հիմնական որոնման համակարգ { -brand-short-name }֊ում։ { $newEngine }֊ը այժմ Ձեր հիմնական որոնման համակարգն է։ Այն կարող էք փոփոխել կարգաւորումներ բաժնում։<label data-l10n-name="remove-search-engine-article"> Իմանալ աւելին </label>
 removed-search-engine-message2 = <strong> Ձեր որոնման համակարգը փոփոխուեց։ </strong>{ $oldEngine } այղեւս հասանելի չէ որպէս հիմնական որոնման համակարգ { -brand-short-name }֊ում։ { $newEngine }֊ը այժմ Ձեր հիմնական որոնման համակարգն է։ Այն կարող էք փոփոխել կարգաւորումներ բաժնում։
 remove-search-engine-button = Լաւ
 
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = Աւելացրէք Որոնման ծրագիր
     .style = min-width: 32em;
+    .title = Աւելացրէք Որոնման ծրագիր
 add-engine-button = Աւելացրէք հարմարեցուած համակարգ
 add-engine-name = Որոնման ծրագրի անունը

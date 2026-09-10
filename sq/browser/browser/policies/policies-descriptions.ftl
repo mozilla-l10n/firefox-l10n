@@ -42,7 +42,6 @@ policy-DisableDefaultBrowserAgent = Pengo agjent shfletuesi parazgjedhje të nd�
 policy-DisableDeveloperTools = Bllokoni hyrje te mjetet për zhvillues.
 policy-DisableEncryptedClientHello = Çaktivizoni përdorimin e veçorisë “Encrypted Client Hello” (ECH) TLS.
 policy-DisableFeedbackCommands = Çaktivizoni te menuja Ndihmë urdhra për dërgim përshtypjesh (Parashtroni Përshtypje dhe  Raportoni Sajt të Rrejshëm).
-policy-DisableFirefoxAccounts = Çaktivizoni shërbime me bazë { -fxaccount-brand-name }, përfshi Sync-un.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Çaktivizo shërbime të bazuara në llogari, përfshi njëkohësimin.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -52,7 +51,6 @@ policy-DisableForgetButton = Pengoni përdorimin e butoni Harroje.
 policy-DisableFormHistory = Mos mba mend historik kërkimesh dhe plotësimi formularësh.
 policy-DisablePrimaryPasswordCreation = Në qoftë <em>true</em>, s’mund të krijohet një Fjalëkalim i Përgjithshëm.
 policy-DisablePasswordReveal = Mos lejo të shfaqen fjalëkalime te kredenciale hyrjesh të ruajtura.
-policy-DisablePocket2 = Çaktivizoni veçorinë e ruajtjes së faqeve web në { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Çaktivizoni Shfletimin Privat.
 policy-DisableProfileImport = Çaktivizoni te menuja urdhrin për Importim të dhënash nga një tjetër shfletues.
 policy-DisableProfileRefresh = Çaktivizoni te faqja about:support butonin Rifreskoni { -brand-short-name }-in.
@@ -122,7 +120,6 @@ policy-PDFjs = Çaktivizoni pse formësoni PDF.js, parësin e brendshëm të PDF
 policy-Permissions2 = Formësoni lejet për kamerën, mikrofonin, vendndodhjen, njoftimet dhe vetëluajtjen.
 policy-PictureInPicture = Aktivizoni ose çaktivizoni veçorinë “Picture-in-Picture”.
 policy-PopupBlocking2 = Lejoni disa sajte të shfaqin flluska dhe të ridrejtohen nga kuadro palësh të treta.
-policy-PopupBlocking = Lejojuni, si parazgjedhje, disa sajteve të shfaqin flluska.
 policy-Preferences = Caktoni dhe kyçni vlerën për një nëngrup parapëlqimesh.
 policy-PrivateBrowsingModeAvailability = Caktoni përdorimin ose jo të mënyrës së shfletimit privat.
 policy-PromptForDownloadLocation = Pyet ku të ruhen kartelat, kur shkarkohen.

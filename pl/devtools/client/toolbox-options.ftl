@@ -188,8 +188,6 @@ options-disable-http-cache-tooltip =
     .title = Wyłącza pamięć podręczną dla żądań HTTP we wszystkich kartach, dla których narzędzia są otwarte. To ustawienie nie ma wpływu na wątki usługowe.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label-2 = Wyłącz JavaScript
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Wyłącz JavaScript *
 options-disable-javascript-tooltip =
     .title = Wyłącza JavaScript w bieżącej karcie. Jeśli karta lub narzędzia zostaną zamknięte, ustawienie zostanie zapomniane.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -219,8 +217,6 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = (tylko bieżąca sesja, odświeża stronę)
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Tylko bieżąca sesja, odświeża stronę
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (odświeża stronę)

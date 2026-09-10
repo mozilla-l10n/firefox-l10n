@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Prikaži u folderu
            *[other] Prikaži u folderu
         }
-downloads-cmd-show-downloads =
-    .label = Prikaži direktorij s preuzimanjima
 downloads-cmd-retry =
     .tooltiptext = Pokušaj ponovo
 downloads-cmd-retry-panel =

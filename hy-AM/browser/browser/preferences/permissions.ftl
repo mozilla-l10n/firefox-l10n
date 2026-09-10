@@ -103,20 +103,6 @@ permissions-exceptions-popup-window3 =
     .style = { permissions-window2.style }
     .title = Թույլատրված կայքեր - թռուցիկներ և երրորդ կողմի վերահասցեավորումներ
 
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .style = { permissions-window2.style }
-    .title = Թույլատրված կայքեր՝ ելնող պատուհաններ
-permissions-exceptions-popup-desc = Դուք կարող էք նշել, թե որ կայքերն են իրավասու բացել Pop-up պատուհաններ: Նշեք կայքի հստակ հասցեն, այնուհետև սեղմեք Թույլատրել:
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .style = { permissions-window2.style }
-    .title = Բացառություններ. պահված մուտքագրումներ
-permissions-exceptions-saved-logins-desc = Հետևյալ կայքերի մուտքագրումները չեն պահպանվի
-
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =

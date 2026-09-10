@@ -68,10 +68,6 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .title = بستن
 fxa-adoption-primary-button-label = سبت نوم
 
-## Protections panel
-
-cfr-protections-panel-link-text = قلوه دووسته بۊین
-
 ## What's New toolbar button and panel
 
 # This string is used by screen readers to offer a text based alternative for
@@ -132,27 +128,8 @@ spotlight-pin-secondary-button = سکو ن
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = دینداتر وا ویروم بیار
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = امتهووس کوݩ
-    .accesskey = T
-firefoxview-cfr-secondarybutton = سکو ن
-    .accesskey = N
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-primarybutton = بنیرین چتاور کار اکونه
-firefoxview-spotlight-promo-secondarybutton = گوم زیڌن
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = پسند رنگ بندی
-    .accesskey = C
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-dismiss-button = سکو ن
-    .accesskey = N
 cookie-banner-blocker-onboarding-body = هواس پردی کم تر، رڌجۊری کۊکیا کم تری من ای وبگه.
 cookie-banner-blocker-onboarding-learn-more = قلوه دووسته بۊین
 

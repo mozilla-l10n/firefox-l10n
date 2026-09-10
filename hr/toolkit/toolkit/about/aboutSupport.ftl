@@ -29,10 +29,6 @@ security-software-name = Ime
 security-software-antivirus = Antivirus
 security-software-antispyware = Antispyware
 security-software-firewall = Vatrozid
-features-title = { -brand-short-name } funkcije
-features-name = Ime
-features-version = Verzija
-features-id = ID
 processes-title = Udaljeni procesi
 processes-type = Vrsta
 processes-count = Broj
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] Direktorij profila
        *[other] Mapa profila
     }
-app-basics-enabled-plugins = Aktivirani priključci
 app-basics-build-config = Konfiguracija gradnje
 app-basics-user-agent = Korisnički agent
 app-basics-os = OS
@@ -93,9 +88,6 @@ show-dir-label =
 environment-variables-title = Varijable okruženja
 environment-variables-name = Ime
 environment-variables-value = Vrijednost
-experimental-features-title = Eksperimentalne funkcije
-experimental-features-name = Ime
-experimental-features-value = Vrijednost
 modified-key-prefs-title = Važne izmijenjene postavke
 modified-prefs-name = Ime
 modified-prefs-value = Vrijednost
@@ -350,8 +342,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Onemogućio eksperiment
-fission-status-experiment-treatment = Aktivirano od eksperimenta
 fission-status-disabled-by-e10s-env = Onemogućilo okruženje
 fission-status-enabled-by-env = Aktivirano od okruženja
 fission-status-enabled-by-default = Standardno aktivirano

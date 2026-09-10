@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Začinjene PeerConnecti
 about-webrtc-aec-logging-msg-label = AEC-protokolowanje
 about-webrtc-aec-logging-off-state-label = AEC-protokolowanje startować
 about-webrtc-aec-logging-on-state-label = AEC-protokolowanje zastajić
-about-webrtc-aec-logging-on-state-msg = AEC-protokolowanje aktiwne (rěčće por mjeńšin ze zawołarjom a zastajće potom natočenje)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC-protokolowanje aktiwne (rěčće por mjeńšin ze zawołarjom a zastajće potom natočenje)
 about-webrtc-aec-logging-unavailable-sandbox = Wokolinowa wariabla MOZ_DISABLE_CONTENT_SANDBOX=1 je za eksport protokolow AEC trěbna. Stajće tutu wariablu jenož, jeli móžne rizika rozumiće.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Nominowany
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Wubrany
 about-webrtc-save-page-label = Stronu składować
-about-webrtc-debug-mode-msg-label = Modus pytanja zmylkow
-about-webrtc-debug-mode-off-state-label = Modus pytanja zmylkow startować
-about-webrtc-debug-mode-on-state-label = Modus pytanja zmylkow zastajić
-about-webrtc-stats-heading = Posedźenska statistika
 about-webrtc-enable-logging-label = Protokolowe přednastajenje WebRTC zmóžnić
 about-webrtc-peerconnections-section-heading = Statistika RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = Statistiku RTCPeerConnection pokazać
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = Statistiku RTCPeerConnection sch
 about-webrtc-stats-clear = Historiju wuprózdnić
 about-webrtc-log-heading = Zwiskowy protokol
 about-webrtc-log-clear = Protokol zhašeć
-about-webrtc-log-show-msg = protokol pokazać
-    .title = klikńće, zo byšće tutón wotrězk pokazał
-about-webrtc-log-hide-msg = protokol schować
-    .title = klikńće, zo byšće tutón wotrězk schował
 about-webrtc-log-section-show-msg = Protokol pokazać
     .title = Klikńće, zo byšće tutón wotrězk pokazał
 about-webrtc-log-section-hide-msg = Protokol schować
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Zdaleny kandidat
 about-webrtc-raw-candidates-heading = Wšě njewobdźěłane kandidaty
 about-webrtc-raw-local-candidate = Njewobdźěłany lokalny kandidat
 about-webrtc-raw-remote-candidate = Njewobdźěłany zdaleny kandidat
-about-webrtc-raw-cand-show-msg = njewobdźěłane kandidaty pokazać
-    .title = klikńće, zo byšće tutón wotrězk pokazał
-about-webrtc-raw-cand-hide-msg = njewobdźěłane kandidaty schować
-    .title = klikńće, zo byšće tutón wotrězk schował
 about-webrtc-raw-cand-section-show-msg = Njewobdźěłane kandidaty pokazać
     .title = Klikńće, zo byšće tutón wotrězk pokazał
 about-webrtc-raw-cand-section-hide-msg = Njewobdźěłane kandidaty schować
     .title = Klikńće, zo byšće tutón wotrězk schował
 about-webrtc-priority = Priorita
-about-webrtc-fold-show-msg = podrobnosće pokazać
-    .title = klikńće, zo byšće tutón wotrězk pokazał
-about-webrtc-fold-hide-msg = podrobnosće schować
-    .title = klikńće, zo byšće tutón wotrězk schował
 about-webrtc-fold-default-show-msg = Podrobnosće pokazać
     .title = Klikńće, zo byšće tutón wotrězk pokazał
 about-webrtc-fold-default-hide-msg = Podrobnosće schować
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Podaty
 # been provided
 about-webrtc-configuration-element-not-provided = NJepodaty
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = WebRTC-nastajenja wužiwarja
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Wot wužiwarja změnjena WebRTC-konfiguracija
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Statistiki widejowobłukow - MediaStreamTrack ID: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = strona je so składowała do: { $path }
-about-webrtc-debug-mode-off-state-msg = slědowanski protokol da so namakać na: { $path }
-about-webrtc-debug-mode-on-state-msg = modus pytanja zmylkow je aktiwny, slědowanski protokol je na: { $path }
-about-webrtc-aec-logging-off-state-msg = móžeće natočene protokolowe dataje namakać w: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

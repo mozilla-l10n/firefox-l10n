@@ -16,15 +16,3 @@ recently-closed-menu-reopen-all-windows = Ava kõik aknad uuesti
 
 recently-closed-panel-reopen-all-tabs = Ava kõik kaardid uuesti
 recently-closed-panel-reopen-all-windows = Ava kõik aknad uuesti
-
-##
-
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [one] { $winTitle } (ja { $tabCount } muu kaart)
-       *[other] { $winTitle } (ja { $tabCount } muud kaarti)
-    }

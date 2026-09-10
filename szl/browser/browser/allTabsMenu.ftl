@@ -9,6 +9,3 @@ all-tabs-menu-new-user-context =
     .label = Nowo kōntynerowo karta
 all-tabs-menu-hidden-tabs =
     .label = Skryte karty
-all-tabs-menu-manage-user-context =
-    .label = Regyruj kōntynerami
-    .accesskey = k

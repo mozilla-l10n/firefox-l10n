@@ -14,15 +14,3 @@ extension-firefox-compact-dark-name = Stgir
 extension-firefox-compact-dark-description = In design cun colurs stgiras.
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Utilisar ina apparientscha colurada per buttuns, menus e fanestras.
-
-## Colorway Themes
-## These themes are variants of a colorway. The colorway is specified in the
-## $colorway-name variable.
-## Variables
-##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
-
-extension-colorways-soft-name = { $colorway-name } — Bufatg
-extension-colorways-balanced-name = { $colorway-name } — Equilibrà
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-extension-colorways-bold-name = { $colorway-name } — Ferm

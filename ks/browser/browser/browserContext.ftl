@@ -141,9 +141,6 @@ main-context-menu-audio-email =
 
 ##
 
-main-context-menu-keyword =
-    .label = یَتھ ژھانڈ خٲطرئ رلٲویو كُنز۪ی لفظ
-    .accesskey = K
 main-context-menu-frame =
     .label = یئ فریم
     .accesskey = h

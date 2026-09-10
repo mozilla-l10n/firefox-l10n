@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = سامووا منپیز
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = سامووا منپیز
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = گۊشیڌن دووارته
     .accesskey = e
-connection-proxy-autologin =
-    .label = ٱر رزم زفت وابیڌه، سی سابت کردن هۊویت پیوم مڌه
-    .tooltip = ای گۊزینه و سۊرت بؽ دونگ ایسا ن سی پروکسی یل ائراز هۊویت اکونه، مجالی ک ائتوارنومه یل هونووݩ ن زفت کردینه. ٱر مووفق و ائراز هۊویت نوابیڌین، ز ایسا سوال اپورسه.
-    .accesskey = i
 connection-proxy-autologin-checkbox =
     .label = ٱر رزم زفت وابیڌه، سی سابت کردن هۊویت پیوم مڌه
-    .accesskey = i
     .tooltiptext = ای گۊزینه و سۊرت بؽ دونگ ایسا ن سی پروکسی یل ائراز هۊویت اکونه، مجالی ک ائتوارنومه یل هونووݩ ن زفت کردینه. ٱر مووفق و ائراز هۊویت نوابیڌین، ز ایسا سوال اپورسه.
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = پروکسی DNS مجال و کار گرؽڌن SOCKS نوسخه 4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = نشۊوی اینترنتی پؽش فرز سی هل DNS ن وا HTTPS و کار بگرین
 connection-dns-over-https-url-custom =
     .label = سفارشی
-    .accesskey = C
     .tooltiptext = نشۊوی اینترنتی موورد نزر خوتووݩ ن سی هل DNS وا HTTPS بزنین.
-connection-dns-over-https-custom-label = سفارشی
+    .accesskey = C

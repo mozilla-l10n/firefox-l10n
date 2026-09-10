@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Tabbere hesere
-newtab-settings-button =
-    .title = Neɗɗin tabbere maa hello hesere ndee
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -51,7 +49,6 @@ newtab-search-box-search-button =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = Ɓeydu yiylorde
-newtab-topsites-edit-topsites-header = Taƴto Lowre Dowrowre
 newtab-topsites-title-label = Tiitoonde
 newtab-topsites-title-input =
     .placeholder = Naatnu tiitoonde
@@ -84,20 +81,12 @@ newtab-confirm-delete-history-p2 = Ngal baɗal waawaa firteede.
 newtab-menu-section-tooltip =
     .aria-label = Uddit cuɓirgol
     .title = Uddit cuɓirgol
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Momtu
-    .title = Momtu
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Uddit dosol ngonka wonande { $title }
     .title = Uddit cuɓirgol
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Taƴto ndee lowre
-    .title = Taƴto ndee lowre
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -108,16 +97,7 @@ newtab-menu-dismiss = Salo
 newtab-menu-pin = Ñippu
 newtab-menu-unpin = Ñippit
 newtab-menu-delete-history = Momtu e daartol
-newtab-menu-save-to-pocket = Danndu e { -pocket-brand-name }
-newtab-menu-delete-pocket = Momtu e { -pocket-brand-name }
-newtab-menu-archive-pocket = Mooftu nder { -pocket-brand-name }
 newtab-menu-show-privacy-info = Tammbiiɓe min & suturo mon
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Gasii
-newtab-privacy-modal-header = Suturo maa ko ngoƴa amen.
-newtab-privacy-modal-link = Humpito hol no suturo yahrata e tabbere hesere ndee
 
 ##
 
@@ -171,38 +151,15 @@ newtab-label-source-read-time = { $source } · { $timeToRead } hoj
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Momtu taƴre
-newtab-section-menu-collapse-section = Renndin taƴe
-newtab-section-menu-expand-section = Yaajtin taƴre
-newtab-section-menu-manage-section = Feewnu taƴre
-newtab-section-menu-manage-webext = Yiil Timmitere
-newtab-section-menu-add-topsite = Ɓeydu lowre rowrowre
-newtab-section-menu-add-search-engine = Ɓeydu yiylorde
-newtab-section-menu-move-up = Dirtin dow
-newtab-section-menu-move-down = Dirtin les
 newtab-section-menu-privacy-notice = Tintinal sirlu
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Famɗin taƴre
-newtab-section-expand-section-label =
-    .aria-label = Yaajtin taƴre
 
 ## Section Headers.
 
 newtab-section-header-topsites = Lowe dowrowe
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Waggini ɗum ko { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Fuɗɗo wanngaade, min kolloymaa huunde e binndanɗe mawɗe ɗee, widewooji kañum e kelle goɗɗe ɗe njilliɗaa ko ɓooyaani walla maantoraaɗe ɗoo.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Rutto ɗoo goɗngol ngam daari goɗɗi { $provider }. A waawaa fadde ? Suvo tiitoonde lollunde ngam yiytude e geese hee daari goɗɗi.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -212,15 +169,6 @@ newtab-discovery-empty-section-topstories-try-again-button = Eto goɗngol
 newtab-discovery-empty-section-topstories-loading = Nana loowa…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ndoo! Ina wayi no min loowi ndee yamre, kono yonaani!
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Loowdiiji lolluɗi:
-newtab-pocket-more-recommendations = Wasiyaaji goɗɗi
-newtab-pocket-learn-more = Ɓeydu humpito
-newtab-pocket-cta-button = Heɓ { -pocket-brand-name }
-newtab-pocket-cta-text = Hisnu daari njiɗ-ɗaa nder { -pocket-brand-name }, ñikliraa hakkille maa taro welngo.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

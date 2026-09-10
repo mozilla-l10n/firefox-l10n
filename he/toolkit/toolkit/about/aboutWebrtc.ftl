@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = הסתרת PeerConnecti
 about-webrtc-aec-logging-msg-label = רישום AEC
 about-webrtc-aec-logging-off-state-label = התחלת רישום AEC
 about-webrtc-aec-logging-on-state-label = עצירת רישום AEC
-about-webrtc-aec-logging-on-state-msg = רישום AEC פעיל (יש לדבר עם המתקשר לכמה דקות ואז להפסיק את ההקלטה)
 about-webrtc-aec-logging-toggled-on-state-msg = רישום AEC פעיל (יש לדבר עם המתקשר לכמה דקות ואז להפסיק את ההקלטה)
 about-webrtc-aec-logging-unavailable-sandbox = משתנה הסביבה MOZ_DISABLE_CONTENT_SANDBOX=1 נדרש כדי לייצא יומני AEC. יש להגדיר משתנה זה רק אם הסיכונים האפשריים מובנים לך.
 # Variables:
@@ -89,18 +88,10 @@ about-webrtc-nominated = Nominated
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Selected
 about-webrtc-save-page-label = שמירת דף
-about-webrtc-debug-mode-msg-label = מצב ניפוי שגיאות
-about-webrtc-debug-mode-off-state-label = הפעלת מצב ניפוי שגיאות
-about-webrtc-debug-mode-on-state-label = עצירת מצב ניפוי שגיאות
-about-webrtc-stats-heading = סטטיסטיקת הפעלה
 about-webrtc-enable-logging-label = הפעלת ערכת רישום של WebRTC
 about-webrtc-stats-clear = ניקוי היסטוריה
 about-webrtc-log-heading = יומן חיבור
 about-webrtc-log-clear = ניקוי יומן רישום
-about-webrtc-log-show-msg = הצגת יומן
-    .title = click to expand this section
-about-webrtc-log-hide-msg = הסתרת יומן
-    .title = click to collapse this section
 about-webrtc-log-section-show-msg = הצגת יומן
     .title = Click to expand this section
 about-webrtc-log-section-hide-msg = הסתרת יומן
@@ -125,19 +116,11 @@ about-webrtc-remote-candidate = מועמד מרוחק
 about-webrtc-raw-candidates-heading = כל המועמדים הגולמיים
 about-webrtc-raw-local-candidate = מועמד גולמי מקומי
 about-webrtc-raw-remote-candidate = מועמד מרוחק גולמי
-about-webrtc-raw-cand-show-msg = הצגת מועמדים גולמיים
-    .title = יש ללחוץ כדי להרחיב מקטע זה
-about-webrtc-raw-cand-hide-msg = הסתרת מועמדים גולמיים
-    .title = יש ללחוץ כדי לצמצם מקטע זה
 about-webrtc-raw-cand-section-show-msg = הצגת מועמדים גולמיים
     .title = יש ללחוץ כדי להרחיב מקטע זה
 about-webrtc-raw-cand-section-hide-msg = הסתרת מועמדים גולמיים
     .title = יש ללחוץ כדי לצמצם מקטע זה
 about-webrtc-priority = עדיפות
-about-webrtc-fold-show-msg = הצגת פרטים
-    .title = יש ללחוץ כדי להרחיב את מקטע זה
-about-webrtc-fold-hide-msg = הסתרת פרטים
-    .title = יש ללחוץ כדי לצמצם את מקטע זה
 about-webrtc-fold-default-show-msg = הצגת פרטים
     .title = יש ללחוץ כדי להרחיב את מקטע זה
 about-webrtc-fold-default-hide-msg = הסתרת פרטים
@@ -158,20 +141,8 @@ about-webrtc-pc-configuration-hide-msg = הסתרת תצורה
 
 ##
 
-# The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = העדפות WebRTC שהוגדרו על־ידי המשתמש
-
-##
-
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = רוחב פס משוער
-
-##
-
-about-webrtc-save-page-msg = הדף נשמר אל: { $path }
-about-webrtc-debug-mode-off-state-msg = יומן מעקב זמין במיקום: { $path }
-about-webrtc-debug-mode-on-state-msg = מצב ניפוי שגיאות פעיל, יומן מעקב זמין במיקום: { $path }
-about-webrtc-aec-logging-off-state-msg = קובצי יומן שנלכדו זמינים במיקום: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

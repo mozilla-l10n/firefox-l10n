@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>अद्यतन डाउनलोड कए रहल अछि — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = अपडेट डाउनलोड क रहल अछि — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = अद्यतन डाउनलोड कए रहल अछि — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = अद्यतन लागू कए रहल अछि…
 update-failed = अद्यतन विफल. <label data-l10n-name="failed-link">नवीनतम संस्करण डाउनलोड करू </label>
 update-failed-main = अद्यतन विफल. <a data-l10n-name="failed-link-main">नवीनतम संस्करण डाउनलोड करू </a>
-update-adminDisabled = अद्यतन केँ अहाँक सिस्टम प्रशासक क द्वारा निष्क्रिय कएल गेल अछि
 update-noUpdatesFound = { -brand-short-name } अद्यतन अछि
 settings-update-no-updates-found =
     .label = { -brand-short-name } अद्यतन अछि
@@ -66,8 +64,6 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } बनाएल गेल अछि<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, एकटा<label data-l10n-name="community-creditsLink">वैश्विक समुदाय </label> वेब केँ मुक्त, सार्वजनिक आओर सभक लेल सुलभ बनैबाक लेल संयुक्त रूप सँ प्रयासरत.
 helpus = मदति करए चाहैत छी?<label data-l10n-name="helpus-donateLink">दान करू</label>, अथवा <label data-l10n-name="helpus-getInvolvedLink">सामिल होउ!</label>
 bottomLinks-license = लाइसेंसक सूचना
-bottomLinks-rights = अंत प्रयोक्ता क अधि‍कार
-bottomLinks-privacy = गोपनीयता नीति
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

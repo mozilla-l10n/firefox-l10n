@@ -21,11 +21,6 @@ tabbrowser-tab-tooltip-container = { $containerName }
 #   $tabGroupName (String): the user-defined name of the current tab group.
 #   $containerName (String): the name of the current container.
 tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -33,17 +28,6 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [one] Serriñ an ivinell
-            [two] Serriñ { $tabCount } ivinell
-            [few] Serriñ { $tabCount } ivinell
-            [many] Serriñ { $tabCount } a ivinelloù
-           *[other] Serriñ { $tabCount } ivinell
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [one] Serriñ an ivinell
             [two] Serriñ { $tabCount } ivinell
@@ -121,7 +105,6 @@ tabbrowser-confirm-close-tabs-title =
        *[other] Serriñ { $tabCount } ivinell?
     }
 tabbrowser-confirm-close-tabs-button = Serriñ an ivinelloù
-tabbrowser-confirm-close-tabs-checkbox = Kadarnaat a-raok serriñ meur a ivinell
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -148,9 +131,6 @@ tabbrowser-confirm-close-windows-button =
 
 tabbrowser-confirm-close-tabs-with-key-title = Serriñ ar prenestr ha kuitaat { -brand-short-name } ?
 tabbrowser-confirm-close-tabs-with-key-button = Kuitaat { -brand-short-name }
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = Kadarnaat a-raok kuitaat gant { $quitKey }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.

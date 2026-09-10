@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxviewtabrow-open-menu-button =
-    .title = Menüyü aç
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
@@ -24,10 +22,6 @@ fxviewtabrow-dismiss-tab-button =
     .title = { $tabTitle } sekmesini kaldır
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Az önce
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-delete = Sil
     .accesskey = S
 fxviewtabrow-forget-about-this-site = Bu siteyi unut…
@@ -57,8 +51,6 @@ fxviewtabrow-send-to-device = Cihaza gönder
     .accesskey = C
 fxviewtabrow-send-to-mobile = Mobil cihaza gönder
     .accesskey = c
-fxviewtabrow-send-tab = Sekmeyi cihaza gönder
-    .accesskey = c
 fxviewtabrow-pin-tab = Sekmeyi sabitle
     .accesskey = S
 fxviewtabrow-unpin-tab = Normal sekmeye dönüştür
@@ -82,8 +74,5 @@ fxviewtabrow-send-to-mobile-connect-device = Sekme göndermek için bir cihaz ba
 fxviewtabrow-send-to-mobile-device-missing2 = Cihazınızı göremiyor musunuz?
 fxviewtabrow-send-to-mobile-not-verified = Hesap doğrulanmamış
 fxviewtabrow-send-to-mobile-verify-account = Hesabınızı doğrulayın
-
-## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
-
 fxviewtabrow-send-to-mobile-sign-in = Sekme göndermek için giriş yapın
 fxviewtabrow-send-to-mobile-turn-on-sync = Sekme göndermek için eşitlemeyi açın

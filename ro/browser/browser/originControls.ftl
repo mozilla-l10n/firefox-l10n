@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Extensia nu poate citi și modifica datele
-origin-controls-quarantined =
-    .label = Extensia nu poate citi și modifica datele
 origin-controls-quarantined-status =
     .label = Extensia nu este permisă pe site-urile restricționate
 origin-controls-quarantined-allow =

@@ -68,8 +68,6 @@ options-sourceeditor-keybinding-default-label = පෙරනිමි
 options-context-advanced-settings = වැඩිදුර සැකසුම්
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = HTTP නිහිතය අබල කරන්න (මෙවලම් පෙට්ටිය විවෘත විට)
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = ජාවාස්ක්‍රිප්ට් අබල කරන්න *
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = ක්‍රෝම් අතිරික්සුව හා එක්කහු නිදොස්කරණ මෙවලම් පෙට්ටි සබල කරන්න
 options-enable-chrome-tooltip =
@@ -80,8 +78,6 @@ options-enable-remote-label = දුරස්ථ නිදොස්කරණය 
 options-enable-custom-formatters-label = අභිරුචි ආකෘතිකරණ සබල කරන්න
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = මූලාශ්‍ර සිතියම් සබල කරන්න
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * වත්මන් වාරයට පමණි, පිටුව යළි පූරණය කරයි
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

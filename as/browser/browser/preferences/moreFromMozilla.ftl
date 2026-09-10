@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = { -vendor-short-name }-ৰ তৰফৰ পৰা অধিক
 more-from-moz-category =
     .tooltiptext = { -vendor-short-name }-ৰ তৰফৰ পৰা অধিক
 more-from-moz-subtitle = আনবোৰ { -vendor-short-name } প্ৰ’ডাক্ট চাওক যিবোৰে এক সুস্থ ইণ্টাৰনেটক সমৰ্থন কৰিবলৈ কাম কৰে।

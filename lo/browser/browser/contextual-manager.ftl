@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = ຄົ້ນຫາລະຫັດຜ່ານ
-    .key = F
     .aria-label = ຄົ້ນຫາລະຫັດຜ່ານ
+    .key = F
+    .placeholder = ຄົ້ນຫາລະຫັດຜ່ານ
 contextual-manager-menu-more-options-button =
     .title = ຕົວເລືອກເພີ່ມເຕີມ
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = ນຳເຂົ້າຈາກໄ�
 contextual-manager-passwords-command-export = ສົ່ງອອກລະຫັດຜ່ານ
 contextual-manager-passwords-command-remove-all = ເອົາລະຫັດຜ່ານທັງໝົດອອກ
 contextual-manager-passwords-command-options = ຕົວເລືອກ
-contextual-manager-passwords-command-settings = ການຕັ້ງຄ່າ
 contextual-manager-passwords-command-help = ຊ່ວຍເຫຼືອ
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = ນຳເຂົ້າລະຫັດຜ່ານແລ້ວ
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = ໃໝ່: { $added }, ອັບເດດ: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -173,8 +168,6 @@ contextual-manager-passwords-create-label =
     .label = ເພີ່ມລະຫັດຜ່ານ
 contextual-manager-passwords-update-label =
     .label = ອັບເດດລະຫັດຜ່ານ
-contextual-manager-passwords-edit-label =
-    .label = ແກ້ໄຂລະຫັດຜ່ານ
 contextual-manager-passwords-remove-label =
     .title = ເອົາລະຫັດຜ່ານອອກ
 contextual-manager-passwords-origin-field =
@@ -190,7 +183,6 @@ contextual-manager-passwords-password-field-description = ໃສ່ລະຫັ�
 contextual-manager-passwords-origin-tooltip = ໃສ່ທີ່ຢູ່ທີ່ແນ່ນອນທີ່ທ່ານຈະເຂົ້າສູ່ລະບົບເວັບໄຊນີ້.
 contextual-manager-passwords-username-tooltip = ໃສ່ຊື່ຜູ້ໃຊ້, ທີ່ຢູ່ອີເມວ ຫຼື ເລກບັນຊີທີ່ທ່ານໃຊ້ເພື່ອເຂົ້າສູ່ລະບົບ.
 contextual-manager-passwords-password-tooltip-2 = ໃສ່ລະຫັດຜ່ານເພື່ອເຂົ້າສູ່ລະບົບບັນຊີນີ້.
-contextual-manager-passwords-password-tooltip = ໃສ່ລະຫັດຜ່ານທີ່ໃຊ້ເພື່ອເຂົ້າສູ່ລະບົບບັນຊີນີ້.
 
 ## Password Card
 
@@ -221,10 +213,6 @@ contextual-manager-password-login-line =
     .title = ສຳເນົາລະຫັດຜ່ານ
 contextual-manager-edit-login-button = ແກ້ໄຂ
     .tooltiptext = ແກ້ໄຂລະຫັດຜ່ານ
-contextual-manager-view-alert-heading =
-    .heading = ເບິ່ງການແຈ້ງເຕືອນ
-contextual-manager-view-alert-button =
-    .tooltiptext = ກວດເບິ່ງຄືນການແຈ້ງເຕືອນ
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -250,13 +238,10 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = ບໍ່ພົບລະຫັດຜ່ານ
-contextual-manager-passwords-no-passwords-found-message = ບໍ່ພົບລະຫັດຜ່ານ. ຄົ້ນຫາຄຳສັບອື່ນ ແລະ ລອງໃໝ່ອີກ.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = ບັນທຶກລະຫັດຜ່ານຂອງທ່ານໄວ້ໃນບ່ອນທີ່ປອດໄພ.
 # This string encourages the user to save their passwords to Firefox again.
 contextual-manager-passwords-no-passwords-get-started-message = ເພີ່ມພວກມັນໃສ່ບ່ອນນີ້ເພື່ອເລີ່ມຕົ້ນ.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.

@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Mai multe de la { -vendor-short-name }
 more-from-moz-page-header =
     .heading = Mai multe de la { -vendor-short-name }
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } pentru mobil
 more-from-moz-firefox-mobile-description = Browserul de mobil care îți pune confidențialitatea pe primul loc.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } pentru mobil
 more-from-moz-firefox-mobile =
-    .label = { -brand-product-name } pentru dispozitive mobile
     .description = Browserul pentru dispozitive mobile care îți pune confidențialitatea pe primul loc.
+    .label = { -brand-product-name } pentru dispozitive mobile
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Descoperă un nivel suplimentar de navigare anonimă și de protecție.
 more-from-moz-qr-code-box-firefox-mobile-title = Descarcă folosind dispozitivul mobil. Îndreaptă camera spre codul QR. Când apare un link, atinge-l.
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = Obține { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Recuperezi automat informațiile personale expuse.
 more-from-moz-mozilla-monitor-global-description = Primești alerte când datele tale au fost implicate într-o încălcare a securității datelor.
 more-from-moz-mozilla-monitor-button = Obține { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = AI { -solo-ai-brand-name }
 more-from-moz-solo-description = Creează-ți instantaneu site-ul web și conectează-ți gratuit propriul domeniu personalizat.
 more-from-moz-solo-button = Încearcă { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = Creator de site-uri web cu AI { -solo-ai-brand-name }
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = Trimite linkul de descărcare prin e-m
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = Află unde ți-au fost expuse datele personale online cu o scanare gratuită.
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = Obține protecție suplimentară pentru toate aplicațiile — nu numai pentru browser. Ține-ți datele în siguranță în rețelele Wi-Fi publice și nesecurizate.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = Protejează-ți căsuța poștală de spam cu mascarea gratuită a adresei de e-mail.
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = Învață dezvoltare web cu ghiduri și referințe gratuite.
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = Accesează-ți căsuța de poștă electronică, calendarele și persoanele de contact într-o singură aplicație rapidă.
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = Creează-ți website-ul instant și conectează-ți propriul domeniu pe gratis.
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = Produse noi { -vendor-short-name }
     .description = Explorează ultimele noastre idei și experimente tehnologice.
+    .label = Produse noi { -vendor-short-name }
 more-from-moz-mozilla-monitor-box-link =
     .label = Obține { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =

@@ -5,5 +5,4 @@
 privatebrowsingpage-open-private-window-label = Hususiy bir Pencere Aç
     .accesskey = H
 about-private-browsing-search-placeholder = Ağ'da Qıdır
-about-private-browsing-info-title = Hususiy bir Penceredesiz
 about-private-browsing-not-private = Al-azırda hususiy bir pencerede degilsiñiz.

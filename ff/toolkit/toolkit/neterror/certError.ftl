@@ -16,7 +16,6 @@ cert-error-trust-untrusted-issuer = Seedamfaagu nguu hoolaaka sabu seedamfaagu b
 cert-error-trust-signature-algorithm-disabled = Seedamfaagu nguu hoolaaka sabu ngu siiforaa ko huutoraade algoritmol daaƴangol sabu nol hisaani.
 cert-error-trust-expired-issuer = Seedamfaagu nguu hoolaaka sabu seedamfaagu bayyinɗo oo yawtii happo.
 cert-error-trust-self-signed = Seedamfaagu nguu hoolaaka sabu ko siifnde hoore mayre.
-cert-error-trust-symantec = Seedanteeji ɗi GeoTrust,RapidSSL, Symantec, Thawte, e VeriSign ndokkirta ɗii nattii jaggireede koolniiɗe sabu ɓee hoolaaɓe seedamfaagu ndonkii rewde e golle kisal e ko ɓenni.
 cert-error-untrusted-default = Seedamfaagu nguu ummaaki e iwdi koolaandi.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -47,10 +46,6 @@ cert-error-code-prefix = Kod juumre: { $error }
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Kod juumre: <a data-l10n-name="error-code-link">{ $error }</a>
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Lowe geese ndallinirta keɓtinirɗe mum en ko seedanteeje ɗe hoolaaɓe seedamafaagu ndokkata ɗum en. Ko ɓuri heewde e banngorɗe nattii hoolaade seedamfeeji ɗi GeoTrust, RapidSSL, Symantec, Thawte, e VeriSign ndokkirta. { $hostname } ina huutoroo seedamfaagu ummiingu e ɓee hoolaaɓe ndeen noon innitol lowre ndee waawataa dallineede.
-cert-error-symantec-distrust-admin = Aɗa waawi humpit-de jiiloowo lowre ndee saɗeende ndee.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
@@ -86,7 +81,6 @@ proxyResolveFailure-title = Horiima yiytude sarworde proxy ndee
 redirectLoop-title = Ngoo hello wonaani e yiiltude no feewiri
 unknownSocketType-title = Jaatol sarworde faamaaka
 nssFailure2-title = Ceŋagol Kisnangol Woorii
-corruptedContentError-title = Juumre Loowdi Jiibndi
 sslv3Used-title = Horiima Seŋaade e Kisal
 inadequateSecurityError-title = Ceŋagol maa hisaani
 blockedByPolicy-title = Hello Daaƴaango

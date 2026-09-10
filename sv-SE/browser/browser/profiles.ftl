@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } kommer att öppnas till din senast använda profil.
 profile-window-create-profile = Skapa en profil
 profile-card-edit-button =
-    .title = Redigera profil
     .aria-label = Redigera profil
+    .title = Redigera profil
 profile-card-delete-button =
-    .title = Ta bort profil
     .aria-label = Ta bort profil
+    .title = Ta bort profil
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Öppna { $profileName }
     .aria-label = Öppna { $profileName }
+    .title = Öppna { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profil { $number }
@@ -83,9 +83,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Ta bort profilen { $profilename }
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = Ta bort profil { $profilename }?
 delete-profile-description = { -brand-short-name } tar bort följande data permanent från den här enheten:
 # Open is an adjective, as in "browser windows currently open".
@@ -112,28 +109,10 @@ delete-profile-confirm = Ta bort
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Ljust
-# The default dark theme
-profiles-dark-theme = Mörkt
 # The default system theme
 profiles-system-theme = System
 profiles-system-theme-title =
     .title = Använd systemtema
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = Gul ringblomma
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = Blek lavendel
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = Mintgrön
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = Rosa magnolia
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = Havsblått
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = Tegelröd
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = Mossgrön
 profiles-gray-theme = Grå
 profiles-gray-theme-title =
     .title = Använd grått tema
@@ -290,9 +269,6 @@ profiles-appmenu-callout-tour-subtitle = I menyn ☰ trycker du på ditt profiln
 profiles-appmenu-callout-tour-primary-button = Visa mig hur
 barbell-avatar = Skivstång
 bike-avatar = Cykel
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Använd skivstångsavatar
 bike-avatar-tooltip =

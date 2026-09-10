@@ -31,4 +31,3 @@ search-bookmarks = Marcadores
 search-history = Historial
 search-opentabs = Lapelas abertas
 search-tags = Etiquetas
-search-titles = Títulos

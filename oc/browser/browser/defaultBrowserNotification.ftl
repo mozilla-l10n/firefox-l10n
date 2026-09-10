@@ -16,7 +16,6 @@ default-browser-prompt-title-pin = Definir { -brand-short-name } coma navegador 
 default-browser-prompt-message-pin = Gardatz { -brand-short-name } a man — definissètz-lo coma navegador per defaut e penjatz-lo a la barra de prètzfaches.
 default-browser-prompt-message-pin-mac = Gardatz { -brand-short-name } a man — definissètz-lo coma navegador per defaut e gardatz-lo a vòstre Dock.
 default-browser-prompt-button-primary-set = Definir coma navegador principal
-default-browser-prompt-button-primary-pin = Definir coma navegador principal
 default-browser-prompt-title-alt = Definir { -brand-short-name } coma navegador per defaut ?
 default-browser-prompt-message-alt = Velocitat, seguretat e confidencialitat cada còp que navegatz.
 default-browser-prompt-button-primary-alt = Definir coma navegador per defaut

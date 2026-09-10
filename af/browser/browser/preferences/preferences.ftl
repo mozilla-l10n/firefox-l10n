@@ -2,33 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-learn-more = Meer inligting
-do-not-track-option-always =
-    .label = Altyd
 pane-general-title = Algemeen
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = Tuis
 pane-search-title2 = Soek
     .title = Soek
 pane-privacy-title3 = Privaatheid en sekuriteit
     .title = Privaatheid en sekuriteit
-pane-search-title = Soek
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = Privaatheid en sekuriteit
-pane-privacy-title = Privaatheid en sekuriteit
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label2 = { -brand-short-name }-ondersteuning
     .title = { -brand-short-name }-ondersteuning
-help-button-label = { -brand-short-name }-ondersteuning
 focus-search =
     .key = f
 close-button =
@@ -49,18 +34,11 @@ search-results-header = Soekresultate
 
 ## General Section
 
-startup-header = Begin
 always-check-default =
     .label = Kontroleer altyd of { -brand-short-name } die verstekblaaier is
     .accesskey = K
-is-default = { -brand-short-name } is tans die verstekblaaier
-is-not-default = { -brand-short-name } is nie die verstekblaaier nie
-set-as-my-default-browser =
-    .label = Maak verstek...
-    .accesskey = D
 tabs-group-header2 =
     .label = Oortjies
-tabs-group-header = Oortjies
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab besoek oortjies in die volgorde wat hulle onlangs gebruik is
     .accesskey = T
@@ -73,13 +51,7 @@ warn-on-open-many-tabs =
 show-tabs-in-taskbar =
     .label = Wys oortjievoorskoue in die Windows-taakbalk
     .accesskey = k
-browser-containers-enabled =
-    .label = Aktiveer konteksoortjies
-    .accesskey = v
 browser-containers-learn-more = Meer inligting
-browser-containers-settings =
-    .label = Opstelling…
-    .accesskey = t
 containers-disable-alert-title = Sluit alle konteksoortjies?
 startup-group =
     .label = Begin
@@ -115,19 +87,8 @@ containers-remove-cancel-button = Moenie dié konteks verwyder nie
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Taal en Voorkoms
-default-font = Verstekfont
-    .accesskey = V
-default-font-size = Grootte
-    .accesskey = G
-advanced-fonts =
-    .label = Gevorderd…
-    .accesskey = G
 preferences-default-zoom-label =
     .label = Verstek zoem
-    .accesskey = z
-# Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = Zoem
-preferences-default-zoom = Verstek zoem
     .accesskey = z
 # Variables:
 #   $percentage (number) - Zoom percentage value
@@ -141,12 +102,6 @@ choose-button =
 manage-browser-languages-button =
     .label = Stel alternatiewe...
     .accesskey = l
-translate-web-pages =
-    .label = Vertaal webinhoud
-    .accesskey = V
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = Vertalings deur <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Uitsonderings…
     .accesskey = i
@@ -161,23 +116,6 @@ download-save-files-header =
     .label = Stoor lêers na
 download-save-where-3 =
     .aria-label = Stoor lêers na
-download-header = Aflaaie
-download-save-where = Stoor lêers na
-    .accesskey = o
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Kies…
-           *[other] Blaai…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] a
-        }
-download-always-ask-where =
-    .label = Vra altyd waar om lêers te stoor
-    .accesskey = V
 applications-header = Toepassings
 applications-filter =
     .placeholder = Deursoek lêertipes of toepassings
@@ -213,17 +151,11 @@ applications-always-ask =
 #   $type-description (string) - Description of the type (e.g "Portable Document Format")
 #   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Gebruik { $plugin-name } (in { -brand-short-name })
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -238,21 +170,12 @@ applications-use-other-label =
 ## Firefox updates
 
 play-drm-content-learn-more = Meer inligting
-update-application-title = { -brand-short-name }-bywerkings
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Weergawe { $version } <a data-l10n-name="learn-more">Wat’s nuut?</a>
-update-application-use-service =
-    .label = Gebruik 'n agtergronddiens om bywerkings te installeer
-    .accesskey = a
 
 ## General Section - Performance
 
-performance-title = Werkverrigting
-performance-use-recommended-settings-checkbox =
-    .label = Gebruik aanbevole instellings vir werkverrigting
-    .accesskey = u
-performance-use-recommended-settings-desc = Hierdie instellings is aangepas vir u rekenaar se hardeware en bedryfstelsel.
 performance-settings-learn-more = Meer inligting
 performance-allow-hw-accel =
     .label = Gebruik hardewareversnelling indien beskikbaar
@@ -269,7 +192,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = Blaai
 browsing-use-autoscroll =
     .label = Gebruik outorol
     .accesskey = o
@@ -285,19 +207,8 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Soek vir teks wanneer ek begin tik
     .accesskey = s
-browsing-picture-in-picture-toggle-enabled =
-    .label = Aktiveer beeld-in-beeld videokontroles
-    .accesskey = E
-browsing-picture-in-picture-learn-more = Meer inligting
-browsing-cfr-recommendations-learn-more = Meer inligting
 browsing-group =
     .label = Blaai
-
-## General Section - Proxy
-
-network-proxy-connection-settings =
-    .label = Opstelling…
-    .accesskey = p
 
 ## Home Section
 
@@ -336,8 +247,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = Web soektog
-home-prefs-recommended-by-header =
-    .label = Aanbeveel deur { $provider }
 
 ##
 
@@ -351,14 +260,8 @@ home-prefs-highlights-options-bookmarks =
 
 ## Search Section
 
-search-engine-default-header = Versteksoekenjin
-search-suggestions-header = Soekvoorstelle
-search-suggestions-option =
-    .label = Verskaf soekvoorstelle
-    .accesskey = s
 search-suggestions-cant-show-2 =
     .message = Soekvoorstelle sal nie in die liggingbalk gewys word nie omdat { -brand-short-name } opgestel is om nooit geskiedenis te onthou nie.
-search-suggestions-cant-show = Soekvoorstelle sal nie in die liggingbalk gewys word nie omdat { -brand-short-name } opgestel is om nooit geskiedenis te onthou nie.
 search-choose-engine-column =
     .label = Soekenjin
 search-choose-keyword-column =
@@ -382,15 +285,6 @@ search-engine-group =
 search-default-engine =
     .aria-label = Versteksoekenjin
 
-## Containers Section
-
-containers-header = Konteksoortjies
-containers-add-button =
-    .label = Voeg nuwe konteks by
-    .accesskey = V
-containers-remove-button =
-    .label = Verwyder
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -407,8 +301,6 @@ sync-mobile-promo = Laai Firefox af vir <img data-l10n-name="android-icon"/> <a 
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = Verander profielprent
 sync-profile-picture-with-alt =
     .alt = Verander profielprent
     .tooltiptext = Verander profielprent
@@ -439,13 +331,8 @@ sync-sign-in =
 sync-currently-syncing-bookmarks = Boekmerke
 sync-currently-syncing-history = Geskiedenis
 sync-currently-syncing-tabs = Oop oortjies
-sync-currently-syncing-logins-passwords = Aanmeldings en wagwoorde
 sync-currently-syncing-addresses = Adresse
-sync-currently-syncing-creditcards = Kredietkaarte
 sync-currently-syncing-addons = Byvoegings
-sync-change-options =
-    .label = Verander...
-    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
@@ -479,42 +366,16 @@ sync-device-name-save =
     .label = Stoor
     .accesskey = t
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = Verifikasie is gestuur
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = 'n Verifikasieskakel is gestuur aan { $email }.
-sync-verification-not-sent-title = Kan nie bevestiging stuur nie
-sync-verification-not-sent-body = Ons kan nie tans 'n bevestigings-e-pos stuur nie. Probeer gerus later weer.
-
 ## Privacy Section
 
 privacy-header = Blaaier Privaatheid
-
-## Privacy Section - Logins and Passwords
-
-# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = Aanmeldings en Wagwoorde
-    .searchkeywords = { -lockwise-brand-short-name }
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = Vra om aanmeldings en wagwoorde vir webwerwe te stoor
-    .accesskey = r
 
 ## Privacy Panel Settings
 
 forms-exceptions =
     .label = Uitsonderings…
     .accesskey = U
-forms-generate-passwords =
-    .label = Genereer en stel voor sterk wagwoorde
-    .accesskey = u
 forms-breach-alerts-learn-more-link = Meer inligting
-forms-saved-logins =
-    .label = Gestoorde aanmeldings…
-    .accesskey = l
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -525,28 +386,9 @@ forms-master-pw-fips-desc = Kon nie wagwoord verander nie
 
 ## Privacy Section - History
 
-history-header = Geskiedenis
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } sal
-    .accesskey = s
-history-remember-option-all =
-    .label = geskiedenis onthou
-history-remember-option-never =
-    .label = nooit geskiedenis onthou nie
-history-remember-option-custom =
-    .label = eie instellings vir geskiedenis gebruik
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } gebruik dieselfde instellings as private blaaiery en sal nie enige geskiedenis onthou wanneer u die web besoek nie.
-history-dontremember-description = { -brand-short-name } gebruik dieselfde instellings as private blaaiery en sal nie enige geskiedenis onthou wanneer u die web besoek nie.
 history-private-browsing-permanent =
     .label = Gebruik altyd privaatblaai-modus
     .accesskey = p
@@ -566,7 +408,6 @@ history-mode-radio-group =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Koekies en webwerf-data
 sitedata-learn-more = Meer inligting
 cookies-site-data-group =
     .label = Koekies en webwerf-data
@@ -582,7 +423,6 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Oop oortjies
     .accesskey = O
-addressbar-suggestions-settings = &Verander voorkeure vir voorstelle vanaf soekenjins
 
 ## Privacy Section - Content Blocking
 
@@ -597,7 +437,6 @@ content-blocking-fingerprinters = Vingerafdrukkers
 content-blocking-tracking-protection-option-all-windows =
     .label = In alle vensters
     .accesskey = A
-content-blocking-tracking-protection-change-block-list = Verander bloklys
 content-blocking-cookies-label =
     .label = Koekies
     .accesskey = K
@@ -607,11 +446,6 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = Kriptomyners
     .accesskey = K
-# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
-# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
-content-blocking-fingerprinters-label =
-    .label = Vingerafdrukkers
-    .accesskey = V
 
 ## Privacy Section - Tracking
 
@@ -621,20 +455,6 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = Toestemmings
-permissions-location = Ligging
-permissions-xr = Virtuele Realiteit
-permissions-microphone = Mikrofoon
-permissions-microphone-settings =
-    .label = Instellings…
-    .accesskey = I
-permissions-notification = Kennisgewings
-permissions-block-popups =
-    .label = Blokkeer opspringers
-    .accesskey = B
-permissions-addon-exceptions =
-    .label = Uitsonderings…
-    .accesskey = U
 permissions-location2 =
     .label = Ligging
 permissions-xr2 =
@@ -643,10 +463,6 @@ permissions-microphone2 =
     .label = Mikrofoon
 permissions-notification2 =
     .label = Kennisgewings
-
-## Privacy Section - Data Collection
-
-collection-health-report-link = Meer inligting
 
 ## Privacy Section - Security
 ##
@@ -666,14 +482,9 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = Sertifikate
-certs-enable-ocsp =
-    .label = Bevestig huidige geldigheid van sertifikate deur OCSP-bedieners te vra
-    .accesskey = B
 certs-devices-enable-fips = Aktiveer FIPS
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Werkskerm
 downloads-folder-name = Aflaaie
-choose-download-folder-title = Kies aflaaivouer:

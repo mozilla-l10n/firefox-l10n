@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Rapport sendt. Takk skal du ha!
-confirmation-hint-login-removed = Innlogging fjernet!
 confirmation-hint-password-removed = Passord fjernet!
 confirmation-hint-page-bookmarked = Lagret til bokmerker
-confirmation-hint-password-saved = Passord lagret!
 confirmation-hint-password-created = Passord lagret
 confirmation-hint-password-updated = Passord oppdatert
 confirmation-hint-address-created = Adresse lagret

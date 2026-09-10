@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = { -vendor-short-name }-k egindako gehiago
 more-from-moz-page-header =
     .heading = { -vendor-short-name }-k egindako gehiago
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = Mugikorrerako { -brand-product-name }
 more-from-moz-firefox-mobile-description = Zure pribatutasunari lehentasuna ematen dion mugikorrerako nabigatzailea.
 more-from-moz-firefox-mobile-title-1 = Mugikorrerako { -brand-product-name }
 more-from-moz-firefox-mobile =
-    .label = Mugikorrerako { -brand-product-name }
     .description = Zure pribatutasunari lehentasuna ematen dion mugikorrerako nabigatzailea.
+    .label = Mugikorrerako { -brand-product-name }
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Aurkitu aparteko babesa eta nabigatze anonimoa.
 more-from-moz-qr-code-box-firefox-mobile-title = Deskargatu zure gailu mugikorrarekin. Apuntatu kamera QR kodera. Lotura agertzean, sakatu.
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = Eskuratu { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Automatikoki zuzendu agerian utzitako zure informazio pertsonala.
 more-from-moz-mozilla-monitor-global-description = Jaso alertak zure datuak urratze batean agerian utzi badira.
 more-from-moz-mozilla-monitor-button = Eskuratu { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } AA
 more-from-moz-solo-description = Sortu zure webgunea berehala eta konektatu zure domeinu-izena doan.
 more-from-moz-solo-button = Probatu { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = { -solo-ai-brand-name } AA webgune sortzailea
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = Bidali telefonora deskargatzeko lotura
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = Jakin doako eskaneatze batekin zure informazio pertsonala non utzi den agerian online.
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = Jaso babes estra zure aplikazio guztietarako. Mantendu seguru zure datuak Wi-Fi publiko eta sare ez-seguruetan.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = Babestu spametik zure sarrera-ontzia helbide elektronikoaren doako maskaratzearekin.
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = Ikasi web garapena doako gida eta erreferentziekin.
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = Izan zure posta elektroniko, egutegi eta kontaktuetarako sarbidea aplikazio azkar bakarrarekin.
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = Sortu zure webgunea berehala eta konektatu zure domeinu-izena doan.
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = { -vendor-short-name }-ren produktu berriak
     .description = Arakatu gure azken ideia eta teknologia esperimentalak.
+    .label = { -vendor-short-name }-ren produktu berriak
 more-from-moz-mozilla-monitor-box-link =
     .label = Eskuratu { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =

@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = প্ৰমাণপত্ৰ ডাউনল'ড কৰা হৈছে
     .style = min-width: 46em
+    .title = প্ৰমাণপত্ৰ ডাউনল'ড কৰা হৈছে
 download-cert-message = আপোনাক এটা নতুন প্ৰমাণপত্ৰৰ কৰ্ত্তৃপক্ষক (CA) বিশ্বাস কৰিবলৈ অনুৰোধ কৰা হৈছে।
 download-cert-trust-ssl =
     .label = ৱেব ছাইটৰ পৰিচয়ৰ কাৰণে এই CA ক বিশ্বাস কৰক।
@@ -37,8 +37,6 @@ download-cert-view-text = CA প্ৰমাণপত্ৰ পৰীক্ষ�
 
 client-auth-window =
     .title = ব্যৱহাৰকাৰীৰ পৰিচয়ৰ অনুৰোধ
-client-auth-site-description = আপুনি নিজকে এটা প্ৰমাণপত্ৰৰে পৰিচয় দিবলৈ এই ছাইটে অনুৰোধ কৰিছে:
-client-auth-choose-cert = চিনাকি দিবলৈ এটা প্ৰমাণপত্ৰ বাছক:
 client-auth-cert-details = বাছনি কৰা প্ৰমাণপত্ৰৰ বিশদ-বিৱৰণ:
 
 ## Set password (p12) dialog

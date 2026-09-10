@@ -52,17 +52,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = B'an eela vatz  unq'a marcadore' ye kuxh eetza   tikat atkat.
-cfr-doorhanger-bookmark-fxa-body = Nimla kame' kat lejpi! As ye' kaaik kan axh uva' ye' la b'anb'e u texhlale' tulaj unq'a ach'iche'. Xe'ten tuk' uma'l { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = B'an eela vatz cheel unq'a markaradore'.
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tzaasa u tal ivotone'
     .title = Tzaasa
-
-## Protections panel
-
-cfr-protections-panel-header = Xaanen as ye'xhib'il kuxh la xekeb' see'
-cfr-protections-panel-body = Kol unq'a eetze' axh kuxh ootzin tetz. { -brand-short-name } ni lochone' ti' unq'a uxhchile' uve' chukune' uve' ni b'anchu tu Internet.
-cfr-protections-panel-link-text = Ootzi ka'te
 
 ## What's New toolbar button and panel
 

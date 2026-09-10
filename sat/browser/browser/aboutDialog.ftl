@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>ᱦᱟᱹᱞᱤᱭᱟᱜ ᱰᱟᱣᱱᱞᱚᱰᱜᱭᱮᱫᱼᱟ — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = ᱟᱹᱯᱰᱥᱮᱴ ᱰᱟᱣᱱᱞᱚᱰᱚᱜ ᱠᱟᱱᱟ — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = ᱦᱟᱹᱞᱤᱭᱟᱜ ᱰᱟᱣᱱᱞᱚᱰᱜᱭᱮᱫᱼᱟ — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = ᱦᱟᱹᱞᱤ ᱵᱚᱦᱟᱞᱮᱫ ᱟ  …
 update-failed = ᱦᱟᱹᱞᱤ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ ᱾ <label data-l10n-name="failed-link">ᱱᱟᱶᱟᱱᱟᱜ ᱵᱷᱟᱹᱨᱥᱚᱱ ᱰᱟᱣᱱᱞᱚᱰᱭ ᱢᱮ</label>
 update-failed-main = ᱦᱟᱹᱞᱤ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ <a data-l10n-name="failed-link-main">ᱱᱟᱶᱟᱱᱟᱜ ᱵᱷᱟᱹᱨᱥᱚᱱ ᱰᱟᱣᱱᱞᱚᱰᱭ ᱢᱮ</a>
-update-adminDisabled = ᱟᱢᱟᱜ ᱥᱭᱥᱴᱮᱢ ᱥᱟᱥᱚᱱᱤᱡ ᱫᱟᱥᱟᱸᱭ ᱛᱮ ᱵᱟᱝ ᱦᱟᱞᱤ ᱦᱚᱪᱚ ᱦᱩᱭ ᱟᱠᱟᱱᱟ ᱾
 update-policy-disabled = ᱟᱢᱟᱜ ᱜᱟᱶᱛᱟ ᱦᱚᱛᱮᱛᱮ ᱚᱯᱰᱮᱴ ᱠᱚ ᱵᱚᱫᱚᱞ ᱟᱠᱟᱱᱟ
 settings-update-policy-disabled =
     .label = ᱟᱢᱟᱜ ᱜᱟᱶᱛᱟ ᱦᱚᱛᱮᱛᱮ ᱚᱯᱰᱮᱴ ᱠᱚ ᱵᱚᱫᱚᱞ ᱟᱠᱟᱱᱟ
@@ -72,8 +70,6 @@ helpus-referrals2 = ᱜᱚᱲᱚ ᱥᱟᱱᱟᱭᱮᱫ ᱢᱮᱭᱟ? <label data
 bottomLinks-license = ᱞᱟᱭᱥᱮᱱᱥ ᱮᱢ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
 bottom-links-terms = ᱵᱮᱵᱷᱟᱨ ᱨᱮᱭᱟᱜ ᱥᱚᱨᱛᱚ
 bottom-links-privacy = ᱫᱟᱱᱟᱝ ᱠᱷᱚᱵᱚᱨ
-bottomLinks-rights = ᱵᱮᱵᱷᱨᱤᱡ ᱦᱚᱠ ᱠᱚ ᱢᱩᱪᱟᱹᱫ
-bottomLinks-privacy = ᱩᱠᱩᱣᱟᱜ ᱱᱤᱛᱤ
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

@@ -60,17 +60,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = သင့် စာမှတ်များ နေရာမျိုးစုံ တွင်အသုံးပြုပါ
-cfr-doorhanger-bookmark-fxa-body = ကောင်းကောင်းတွေ့တာပဲ! ဒီ စာမှတ် ကို သင့် မိုဘိုင်း ကိရိယာပေါ်မှာပဲ မထားခဲ့ပါနဲ့။ အခုပဲ { -fxaccount-brand-name } နှင့် စတင်ပါ။
 cfr-doorhanger-bookmark-fxa-link-text = အခုပဲ စာမှတ်များကို Sync ပါ…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = ပိတ် ခလုပ်
     .title = ပိတ်
-
-## Protections panel
-
-cfr-protections-panel-header = အင်တာနက်သုံးစွဲ ရာ‌‌ နောက်ယောင်ခံ လိုက်ခြင်း မရှိပါ
-cfr-protections-panel-body = သင့် အချက်အလက် များသည် သင်သာ ရယူနိုင်သည်။ { -brand-short-name } မှ သင့်အား ‌ခြေရာခံ လိုက်သူများထံမှ အကာအကွယ်ပေးထားသည်။
-cfr-protections-panel-link-text = ပိုမို လေ့လာရန်
 
 ## What's New toolbar button and panel
 

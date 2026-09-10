@@ -10,9 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = { $extension } زیاد دەکەی؟
 webext-perms-sideload-header = { $extension } زیادکرا
-webext-perms-optional-perms-header = { $extension } پێویستی بە ڕێگەپێدانی زیاترە.
 
 ##
 

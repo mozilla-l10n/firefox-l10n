@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Търсене на пароли
-    .key = F
     .aria-label = Търсене на пароли
+    .key = F
+    .placeholder = Търсене на пароли
 contextual-manager-menu-more-options-button =
     .title = Още настройки
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Внасяне от файл…
 contextual-manager-passwords-command-export = Изнасяне на пароли
 contextual-manager-passwords-command-remove-all = Премахване на всички пароли
 contextual-manager-passwords-command-options = Настройки
-contextual-manager-passwords-command-settings = Настройки
 contextual-manager-passwords-command-help = Помощ
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Паролите са внесени
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Нови: { $added }, Актуализирани: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -188,8 +183,6 @@ contextual-manager-passwords-create-label =
     .label = Добавяне на парола
 contextual-manager-passwords-update-label =
     .label = Актуализиране на паролата
-contextual-manager-passwords-edit-label =
-    .label = Редактиране на паролата
 contextual-manager-passwords-remove-label =
     .title = Премахване на паролата
 contextual-manager-passwords-origin-field =
@@ -203,7 +196,6 @@ contextual-manager-passwords-password-field =
     .label = Парола
 contextual-manager-passwords-origin-tooltip = Въведете точния адрес, откъдето ще се вписвате към този сайт.
 contextual-manager-passwords-username-tooltip = Въведете потребителското име, имейл адреса или номера на профила, които използвате за вход.
-contextual-manager-passwords-password-tooltip = Въведете паролата, ползвана за вписване в този профил.
 
 ## Password Card
 
@@ -229,10 +221,6 @@ contextual-manager-password-login-line =
     .title = Копиране на паролата
 contextual-manager-edit-login-button = Редактиране
     .tooltiptext = Редактиране на паролата
-contextual-manager-view-alert-heading =
-    .heading = Преглед на известието
-contextual-manager-view-alert-button =
-    .tooltiptext = Преглед на известието
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -251,7 +239,6 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Няма намерени пароли
-contextual-manager-passwords-no-passwords-found-message = Няма намерени пароли. Потърсете друга дума и опитайте отново.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:

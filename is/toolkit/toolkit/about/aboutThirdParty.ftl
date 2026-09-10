@@ -28,5 +28,5 @@ third-party-should-restart-title = Endurræsa { -brand-short-name }
 third-party-restart-now = Endurræsa núna
 third-party-restart-later = Endurræsa seinna
 third-party-blocked-by-builtin =
-    .title = Lokað af { -brand-short-name }
     .alt = Lokað af { -brand-short-name }
+    .title = Lokað af { -brand-short-name }

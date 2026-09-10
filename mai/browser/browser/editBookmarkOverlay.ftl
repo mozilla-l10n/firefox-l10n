@@ -4,10 +4,6 @@
 
 bookmark-overlay-choose =
     .label = चुनू…
-bookmark-overlay-folders-expander =
-    .tooltiptext = सभटा पुस्तकचिह्न फोल्डर देखाउ
-    .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
-    .tooltiptextup = नुकाउ
 bookmark-overlay-folders-expander2 =
     .tooltiptext = सभटा पुस्तकचिह्न फोल्डर देखाउ
 bookmark-overlay-folders-expander-hide =
@@ -17,10 +13,6 @@ bookmark-overlay-new-folder-button =
     .accesskey = o
 bookmark-overlay-tags-empty-description =
     .placeholder = अर्द्ध विराम सँ टैब अलग  करू
-bookmark-overlay-tags-expander =
-    .tooltiptext = सभटा टैग देखाउ
-    .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
-    .tooltiptextup = नुकाउ
 bookmark-overlay-tags-expander2 =
     .tooltiptext = सभटा टैग देखाउ
 bookmark-overlay-tags-expander-hide =

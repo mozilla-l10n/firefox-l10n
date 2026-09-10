@@ -70,7 +70,6 @@ migration-bookmarks-option-label = Grāmatzīmes
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Izlases
-migration-logins-and-passwords-option-label = Saglabātie lietotājvārdi un paroles
 migration-passwords-option-label = Saglabātās paroles
 migration-history-option-label = Pārlūkošanas vēsturi
 migration-extensions-option-label = Papildinājumus
@@ -200,8 +199,6 @@ migration-chrome-windows-password-import-step2 = Izvēlnē atlasiet “Iestatīj
 migration-chrome-windows-password-import-step3 = Izvēlieties “Lejupielādēt failu” un saglabājiet to savā ierīcē.
 migration-manual-password-import-skip-button = Izlaist
 migration-manual-password-import-select-button = Atlasīt datni
-migration-safari-password-import-skip-button = Izlaist
-migration-safari-password-import-select-button = Atlasīt datni
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #

@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = जतन केलेले पत्ते
 autofill-manage-addresses-list-header = पत्ते
-autofill-manage-credit-cards-title = जतन केलेले क्रेडिट कार्ड
-autofill-manage-credit-cards-list-header = क्रेडिट कार्ड्स
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = काढून टाका
@@ -21,9 +19,6 @@ autofill-manage-edit-button = संपादित करा…
 
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = पत्ता संपादित करा
-autofill-address-given-name = प्रथम नाव
-autofill-address-additional-name = मधले नाव
-autofill-address-family-name = आडनाव
 autofill-address-organization = संस्था
 autofill-address-street = रस्ता
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
@@ -59,18 +54,12 @@ autofill-address-zip = झिप कोड
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = नवीन पत्ता जोडा
 autofill-address-country = देश किंवा प्रदेश
 autofill-address-tel = दूरध्वनी
 autofill-address-email = ईमेल
 autofill-cancel-button = रद्द करा
 autofill-save-button = साठवा
 autofill-country-warning-message = सध्या फक्त काही देशांसाठीच फॉर्म स्वयंपूर्ण होणे उपलब्ध आहे.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = नवीन क्रेडिट कार्ड जोडा
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = क्रेडिट कार्ड संपादित करा
 autofill-card-number-2 =
     .label = कार्ड क्रमांक
 autofill-card-number = कार्ड क्रमांक
@@ -84,13 +73,3 @@ autofill-card-expires-month = कालबाह्यता महिना
 autofill-card-expires-year = कालबाह्यता वर्ष
 autofill-card-billing-address = बिलाचा पत्ता
 autofill-card-network = कार्ड प्रकार
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-discover = शोधा
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-visa = Visa

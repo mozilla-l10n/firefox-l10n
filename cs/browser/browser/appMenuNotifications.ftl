@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-update-available2 =
-    .label = Nová aktualizace
     .buttonlabel = Stáhnout
     .buttonaccesskey = S
+    .label = Nová aktualizace
     .secondarybuttonlabel = Zavřít
     .secondarybuttonaccesskey = Z
 appmenu-update-available-message2 =
@@ -14,9 +14,9 @@ appmenu-update-available-message2 =
        *[no-cases] Stáhněte si nejnovější verzi aplikace { -brand-shorter-name }.
     }
 appmenu-update-manual2 =
-    .label = Nová aktualizace
     .buttonlabel = Stáhnout
     .buttonaccesskey = S
+    .label = Nová aktualizace
     .secondarybuttonlabel = Zavřít
     .secondarybuttonaccesskey = Z
 appmenu-update-manual-message2 =
@@ -27,9 +27,9 @@ appmenu-update-manual-message2 =
        *[other] Aplikace { -brand-shorter-name } nemohla automaticky nainstalovat novou aktualizaci. Stáhněte si novou verzi ručně. O svá uložená data ani nastavení nepřijdete.
     }
 appmenu-update-unsupported2 =
-    .label = Nelze nainstalovat novou aktualizaci
     .buttonlabel = Zjistit více
     .buttonaccesskey = v
+    .label = Nelze nainstalovat novou aktualizaci
     .secondarybuttonlabel = Zavřít
     .secondarybuttonaccesskey = Z
 appmenu-update-unsupported-message2 =
@@ -38,9 +38,9 @@ appmenu-update-unsupported-message2 =
        *[no-cases] Váš operační systém není kompatibilní s nejnovější verzí aplikace { -brand-shorter-name }.
     }
 appmenu-update-restart2 =
-    .label = Nová aktualizace
     .buttonlabel = Nainstalovat a restartovat
     .buttonaccesskey = N
+    .label = Nová aktualizace
     .secondarybuttonlabel = Zavřít
     .secondarybuttonaccesskey = Z
 appmenu-update-restart-message2 =
@@ -52,13 +52,13 @@ appmenu-theme-installed =
     .secondarybuttonlabel = Zpět
     .secondarybuttonaccesskey = Z
 appmenu-update-other-instance =
-    .label = { -brand-shorter-name } se nedokáže automaticky aktualizovat na nejnovější verzi.
     .buttonlabel =
         { -brand-shorter-name.case-status ->
             [with-cases] Přesto aktualizaci { -brand-shorter-name(case: "gen") } spustit
            *[no-cases] Přesto aktualizaci aplikace { -brand-shorter-name } spustit
         }
     .buttonaccesskey = s
+    .label = { -brand-shorter-name } se nedokáže automaticky aktualizovat na nejnovější verzi.
     .secondarybuttonlabel = Teď ne
     .secondarybuttonaccesskey = n
 appmenu-update-other-instance-message =
@@ -66,9 +66,6 @@ appmenu-update-other-instance-message =
         [with-cases] Je k dispozici nová aktualizace { -brand-shorter-name(case: "gen") }, ale její instalaci nelze spustit, protože je spuštěna další kopie { -brand-shorter-name(case: "gen") }. Pro spuštění aktualizace tuto kopii ukončete, nebo spuštění vynuťte (běžící aplikace pak může přestat správně fungovat, dokud ji nerestartujete).
        *[no-cases] Je k dispozici nová aktualizace aplikace { -brand-shorter-name }, ale její instalaci nelze spustit, protože je spuštěna další kopie aplikace { -brand-shorter-name }. Pro spuštění aktualizace tuto kopii ukončete, nebo spuštění vynuťte (běžící aplikace pak může přestat správně fungovat, dokud ji nerestartujete).
     }
-appmenu-addon-private-browsing-installed2 =
-    .buttonlabel = OK
-    .buttonaccesskey = O
 appmenu-addon-post-install-message3 = Spravujte své doplňky a vzhledy z hlavní nabídky aplikace.
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
@@ -76,24 +73,21 @@ appmenu-addon-post-install-message-with-data-collection = Oprávnění a předvo
 appmenu-addon-post-install-pin-toolbarbutton-checkbox =
     .label = Připnout rozšíření na nástrojovou lištu
     .accesskey = P
-appmenu-addon-post-install-incognito-checkbox =
-    .label = Povolit toto rozšíření v anonymních oknech
-    .accesskey = P
 appmenu-new-tab-controlled-changes =
-    .label = Vaše stránka nového panelu byla změněna.
     .buttonlabel = Ponechat změny
     .buttonaccesskey = P
+    .label = Vaše stránka nového panelu byla změněna.
     .secondarybuttonlabel = Spravovat stránku nového panelu
     .secondarybuttonaccesskey = S
 appmenu-homepage-controlled-changes =
-    .label = Vaše domovská stránka byla změněna.
     .buttonlabel = Ponechat změny
     .buttonaccesskey = P
+    .label = Vaše domovská stránka byla změněna.
     .secondarybuttonlabel = Spravovat domovskou stránku
     .secondarybuttonaccesskey = S
 appmenu-tab-hide-controlled =
-    .label = Přistupovat k vašim skrytým panelům
     .buttonlabel = Ponechat panely skryté
     .buttonaccesskey = P
+    .label = Přistupovat k vašim skrytým panelům
     .secondarybuttonlabel = Zakázat rozšíření
     .secondarybuttonaccesskey = Z

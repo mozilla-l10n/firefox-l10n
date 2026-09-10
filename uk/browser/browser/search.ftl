@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Типову пошукову систему змінено.</strong> { $oldEngine } більше не доступна як типова пошукова система { -brand-short-name }. Відтепер ваша типова пошукова система – { $newEngine }. Щоб змінити її, перейдіть до налаштувань. <label data-l10n-name="remove-search-engine-article">Докладніше</label>
 removed-search-engine-message2 = <strong>Типову пошукову систему змінено.</strong> { $oldEngine } більше не доступна як типова пошукова система { -brand-short-name }. Відтепер ваша типова пошукова система – { $newEngine }. Щоб змінити її, перейдіть до налаштувань.
 remove-search-engine-button = OK
 
@@ -52,11 +51,11 @@ install-search-engine-no = Ні
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Додати пошукову систему
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Редагувати пошукову систему
     .style = min-width: 32em;
+    .title = Редагувати пошукову систему
 add-engine-button = Додати власну пошукову систему
 add-engine-name = Назва пошукової системи
 add-engine-url2 = URL-адреса з %s замість пошукового терміна
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Спробуйте вказати %s зам
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Додати систему
-    .buttonaccesskeyaccept = о
     .buttonlabelextra1 = Додатково
+    .buttonaccesskeyaccept = о
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Зберегти систему
-    .buttonaccesskeyaccept = б
     .buttonlabelextra1 = Додатково
+    .buttonaccesskeyaccept = б

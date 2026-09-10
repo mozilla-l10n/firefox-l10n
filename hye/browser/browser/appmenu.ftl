@@ -27,8 +27,6 @@ appmenuitem-downloads =
     .label = Ներբեռնումներ
 appmenuitem-passwords =
     .label = Գաղտնաբառեր
-appmenuitem-addons-and-themes =
-    .label = Յաւելումներ եւ ոճ
 appmenuitem-print =
     .label = Տպել…
 appmenuitem-find-in-page =
@@ -91,7 +89,6 @@ appmenu-remote-tabs-unverified = Ձեր հաշիւը պէտք է ստուգու�
 appmenuitem-fxa-toolbar-sync-now2 = Համաժամեցնել հիմա
 appmenuitem-fxa-sign-in = Մուտք գործել { -brand-product-name }
 appmenuitem-fxa-manage-account = Հաշուի կառավարում
-appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
@@ -103,15 +100,6 @@ appmenu-fxa-setup-sync =
     .label = Միացնել համաժամեցումը…
 appmenuitem-save-page =
     .label = Պահպանել էջը որպէս…
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Ինչն է նոր
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Տեղեկացնել նոր յատկութիւնների մասին
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -205,8 +193,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Յաւելեալ տեղեկութիւն շտկման վերաբերեալ
     .accesskey = t
-appmenu-help-report-site-issue =
-    .label = Զեկուցել կայքի թողարկման մասին…
 appmenu-help-share-ideas =
     .label = Կիսուել մտքերով կամ թողնել արձագանք…
     .accesskey = S

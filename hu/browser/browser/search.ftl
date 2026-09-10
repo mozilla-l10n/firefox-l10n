@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Az alapértelmezett keresőszolgáltatás megváltozott.</strong> A(z) { $oldEngine } már nem érhető el alapértelmezett keresőszolgáltatásként a { -brand-short-name }ban. Most már a(z) { $newEngine } az alapértelmezett keresőszolgáltatás. Hogy másik keresőszolgáltatást válasszon, ugorjon a beállításokhoz. <label data-l10n-name="remove-search-engine-article">További tudnivalók</label>
 removed-search-engine-message2 = <strong>Az alapértelmezett keresőszolgáltatás megváltozott.</strong> A(z) { $oldEngine } már nem érhető el alapértelmezett keresőszolgáltatásként a { -brand-short-name }ban. Most már a(z) { $newEngine } az alapértelmezett keresőszolgáltatás. Hogy másik keresőszolgáltatást válasszon, ugorjon a beállításokhoz.
 remove-search-engine-button = OK
 
@@ -52,11 +51,11 @@ install-search-engine-no = Nem
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Keresőszolgáltatás hozzáadása
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Keresőszolgáltatás szerkesztése
     .style = min-width: 32em;
+    .title = Keresőszolgáltatás szerkesztése
 add-engine-button = Egyéni keresőszolgáltatás hozzáadása
 add-engine-name = Keresőszolgáltatás neve
 add-engine-url2 = Webcím, amelyben a %s jelöli a keresési kifejezés helyét
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Írja a %s kifejezést a keresési kifejez�
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Keresőszolgáltatás hozzáadása
-    .buttonaccesskeyaccept = a
     .buttonlabelextra1 = Speciális
+    .buttonaccesskeyaccept = a
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Keresőszolgáltatás mentése
-    .buttonaccesskeyaccept = m
     .buttonlabelextra1 = Speciális
+    .buttonaccesskeyaccept = m

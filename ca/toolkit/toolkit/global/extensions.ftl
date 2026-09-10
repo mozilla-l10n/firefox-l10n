@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Voleu afegir { $extension }?
-webext-perms-header-with-perms = Voleu afegir { $extension }? Aquesta extensió tindrà permís per:
-webext-perms-header-unsigned = Voleu afegir { $extension }? Aquesta extensió no està verificada. Les extensions malicioses podrien robar informació privada o posar l'ordinador en risc. Instal·leu-la únicament si confieu en la font.
-webext-perms-header-unsigned-with-perms = Voleu afegir { $extension }? Aquesta extensió no està verificada. Les extensions malicioses podrien robar informació privada o posar l'ordinador en risc. Instal·leu-la únicament si confieu en la font. Aquesta extensió tindrà permís per:
 webext-perms-sideload-header = S'ha afegit { $extension }
 webext-perms-optional-perms-header2 = { $extension } sol·licita permisos addicionals.
-webext-perms-optional-perms-header = { $extension } sol·licita permisos addicionals.
 webext-perms-header2 = Afegeix { $extension }
 webext-perms-list-intro-unsigned = Aquesta extensió no verificada pot posar en risc la vostra privadesa o comprometre el vostre dispositiu. Afegiu-lo només si confieu en la font.
 
@@ -53,9 +48,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } s'ha actualitzat. Heu d'aprovar els permisos nous per instal·lar la versió actualitzada. Feu clic a «Cancel·la» per mantenir la versió actual.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = «{ $extension }» s'ha actualitzat. Heu d'aprovar els permisos nous per instal·lar la versió actualitzada. Feu clic a «Cancel·la» per mantenir la versió actual de l'extensió. Aquesta extensió tindrà permís per:
 webext-perms-update-accept =
     .label = Actualitza
     .accesskey = A
@@ -71,24 +63,8 @@ webext-perms-host-description-all-urls = Accedir a les dades de tots els llocs w
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Accedir a les dades web del domini { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Accedir a les dades en { $domainCount } altre domini
-       *[other] Accedir a les dades en { $domainCount } altres dominis
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Accedir a les dades de { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Accedir a les dades en { $domainCount } altre domini
-       *[other] Accedir a les dades en { $domainCount } altres dominis
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

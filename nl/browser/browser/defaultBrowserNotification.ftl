@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = Houd { -brand-short-name } binnen handberei
 default-browser-prompt-message-pin-msix = Houd { -brand-short-name } binnen handbereik – maak het uw standaardbrowser en zet het vast aan uw taakbalk en startmenu.
 default-browser-prompt-message-pin-mac = Houd { -brand-short-name } binnen handbereik – maak het uw standaardbrowser en voeg het aan uw Dock toe.
 default-browser-prompt-button-primary-set = Instellen als voorkeursbrowser
-default-browser-prompt-button-primary-pin = Voorkeursbrowser maken
 default-browser-prompt-title-alt = { -brand-short-name } uw standaardbrowser maken?
 default-browser-prompt-message-alt = Ontvang snelheid, veiligheid en privacy, telkens als u surft.
 default-browser-prompt-button-primary-alt = Als standaardbrowser instellen

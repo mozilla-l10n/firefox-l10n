@@ -118,4 +118,3 @@ certificate-viewer-tab-mine = Vaši certifikati
 certificate-viewer-tab-people = Ljudi
 certificate-viewer-tab-servers = Serveri
 certificate-viewer-tab-ca = Certifikacijska tijela
-certificate-viewer-tab-unkonwn = Nepoznato

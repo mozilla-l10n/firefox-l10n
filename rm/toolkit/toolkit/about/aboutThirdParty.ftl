@@ -30,11 +30,11 @@ third-party-tag-background = Davos las culissas
         Quest tip da modul n'ha betg bloccà l'applicaziun perquai ch'el è vegnì
         chargià davos las culissas.
 third-party-icon-unsigned =
-    .title = Quest modul n'è betg signà
     .alt = Quest modul n'è betg signà
+    .title = Quest modul n'è betg signà
 third-party-icon-warning =
-    .title = { -brand-short-name } è collabà en code da quest modul
     .alt = { -brand-short-name } è collabà en code da quest modul
+    .title = { -brand-short-name } è collabà en code da quest modul
 third-party-status-loaded = Chargià
 third-party-status-blocked = Bloccà
 third-party-status-redirected = Renvià
@@ -46,30 +46,17 @@ third-party-button-reload = Rechargiar cun infos dal sistem
     .title = Rechargiar cun infurmaziuns dal sistem
 third-party-button-open =
     .title = Avrir l'ordinatur da la datoteca…
-third-party-button-to-block =
-    .title = Bloccar quest modul
-    .aria-label = Bloccar quest modul
-third-party-button-to-unblock =
-    .title = Actualmain bloccà. Cliccar per debloccar.
-    .aria-label = Actualmain bloccà. Cliccar per debloccar.
-third-party-button-to-unblock-disabled =
-    .title =
-        Actualmain marcà sco bloccà, malgrà che la glista da bloccada è deactivada per questa execuziun
-         da { -brand-short-name }. Cliccar per debloccar.
-    .aria-label =
-        Actualmain marcà sco bloccà, malgrà che la glista da bloccada è deactivada per questa execuziun
-         da { -brand-short-name }. Cliccar per debloccar.
 third-party-button-to-block-module = Bloccar quest modul
-    .title = Bloccar quest modul
     .aria-label = Bloccar quest modul
+    .title = Bloccar quest modul
 third-party-button-to-unblock-module = Debloccar quest modul
-    .title = Actualmain bloccà. Cliccar per debloccar.
     .aria-label = Actualmain bloccà. Cliccar per debloccar.
+    .title = Actualmain bloccà. Cliccar per debloccar.
 third-party-button-to-unblock-module-disabled = Debloccar quest modul (glista da bloccada actualmain deactivada)
-    .title =
+    .aria-label =
         Actualmain marcà sco bloccà, la glista da bloccada è dentant deactivada per questa execuziun
         da { -brand-short-name }. Cliccar per al debloccar.
-    .aria-label =
+    .title =
         Actualmain marcà sco bloccà, la glista da bloccada è dentant deactivada per questa execuziun
         da { -brand-short-name }. Cliccar per al debloccar.
 third-party-button-expand =
@@ -81,5 +68,5 @@ third-party-should-restart-title = Reaviar { -brand-short-name }
 third-party-restart-now = Reaviar ussa
 third-party-restart-later = Reaviar pli tard
 third-party-blocked-by-builtin =
-    .title = Bloccà da { -brand-short-name }
     .alt = Bloccà da { -brand-short-name }
+    .title = Bloccà da { -brand-short-name }

@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = ဝဘ်ဆိုက် ၏ အချက်အလက်ကို ကြည့်ရန်
 
@@ -38,8 +33,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = ချိတ်ဆက်မဲ့ အချက်အလက်သိမ်းစနစ်ဆိုင်ရာ စာတိုပန်နယ်ကို ဖွင့်ပါ
 urlbar-password-notification-anchor =
     .tooltiptext = စကားဝှက်သိမ်းခြင်းဆိုင်ရာ စာတိုပန်နယ်ကို ဖွင့်ပါ
-urlbar-plugins-notification-anchor =
-    .tooltiptext = အသုံးပြုနေသော ပလက်ဂ်အင်ကို စီမံရန်
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = ကင်မရာ နှင့်/သို့မဟုတ် မိုက္ကရိုဖုန်းကို ယခုဝဘ်ဆိုက်နှင့်အတူ မျှဝေအသုံးပြုခြင်းကို စီမံနိုင်သည်။
 urlbar-autoplay-notification-anchor =
@@ -48,14 +41,7 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = အမြဲသိမ်း သိုလှောင် နေရာတွင် သိမ်းမည်
 urlbar-addons-notification-anchor =
     .tooltiptext = အတ်အွန်တပ်ဆင်ခြင်းဆိုင်ရာ စာတိုပန်နယ်ကို ဖွင့ပါ
-urlbar-tip-help-icon =
-    .title = အကူအညီ ယူမည်
 urlbar-search-tips-confirm = ကောင်းပြီ၊ ရပါပြီ။
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = အကြံပြုချက်။
 
 ## Local search mode indicator labels in the urlbar
 
@@ -77,8 +63,6 @@ urlbar-screen-blocked =
     .tooltiptext = ယခုဝဘ်ဆိုက်ကို မျက်နှာပြင် မျှဝေအသုံးပြုခြင်းမှ တားဆီးထားသည်။
 urlbar-persistent-storage-blocked =
     .tooltiptext = ယခုဝဘ်ဆိုက်အတွက် အချက်အလက်သိမ်းဆည်းခြင်းကို တားဆီးထားသည်။
-urlbar-popup-blocked =
-    .tooltiptext = ယခုဝဘ်ဆိုက်အတွက် ကင်မရာအသုံးပြုခြင်းကို တားဆီးထားသည်။
 urlbar-canvas-blocked =
     .tooltiptext = ယခုဝဘ်ဆိုက်အတွက် canvas data extraction ကို တားဆီးထားသည်။
 urlbar-midi-blocked =
@@ -169,9 +153,7 @@ identity-active-blocked = { -brand-short-name } ၏ အစိတ်အပို�
 identity-passive-loaded = ဒီစာမျက်နှာ၏ အစိတ်အပိုင်းတချို့သည် မလုံခြုံပါ (ရုပ်ပုံများ စသည်)။
 identity-active-loaded = ဒီစာမျက်နှာတွင် သင်သည် ကာကွယ်မှုကို ပိတ်ထားသည်။
 identity-weak-encryption = ဒီစာမျက်နှာသည် အားနည်းသည့် ဝှက်စာစနစ်ကို သုံးထားသည်။
-identity-insecure-login-forms = ဒီစာမျက်နှာကို ဝင်ရောက်ရာတွင် အသုံးပြုသည့် အချက်အလက်များသည် တိုက်ခိုက်ခိုးယူခံရနိုင်သည်။
 identity-https-only-connection-upgraded = (HTTPS သို့ အဆင့်မြှင့်ပြီး)
-identity-https-only-label = HTTPS-သီးသန့် စနစ်
 identity-https-only-dropdown-on =
     .label = ဖွင့်
 identity-permissions-reload-hint = ပြောင်းလဲထားသည့် အပြင်အဆင်များ သက်ရောက်မှုရှိစေရန်အတွက် ယခုစာမျက်နှာကို ပြန်လည်ခေါ်ယူရန် လိုအပ်ကောင်း လိုအပ်နိုင်ပါသည်။
@@ -182,7 +164,6 @@ identity-remove-cert-exception =
     .label = ခြွင်းချက်သတ်မှတ်ထားခြင်းမှ ဖယ်ရှားရန်
     .accesskey = R
 identity-description-insecure = ဒီဆိုက်သို့ သင့်ချိတ်ဆက်မှုသည် သီးသန့်ဖြစ်မနေပါ။ သင်ပို့လိုက်သည့် အချက်အလက်များကို အခြားသူများက ကြည့်ရှုနိုင်ပါလိမ့်မည် (စကားဝှက်များ၊ စာတိုများ၊ အကြွေးကတ်များ စသည်)။
-identity-description-insecure-login-forms = ဒီစာမျက်နှာရှိ သင့်ဝင်ရောက်မှု အချက်အလက်များကို ထည့်သွင်းခြင်းသည် လုံခြုံမှု မရှိနိုင်သလို ခိုးယူခံရနိုင်ပါသည်။
 identity-description-weak-cipher-intro = ဒီဆိုက်သို့ သင့်ချိတ်ဆက်မှုသည် အားနည်းသည့် ဝှက်စာစနစ်ကို သုံးထားပြီး သီးသန့် ဖြစ်မနေပါ။
 identity-description-weak-cipher-risk = အခြားသူများသည် သင့်အချက်အလက်များကို ကြည့်ရှုနိုင် (သို့) ဝဘ်ဆိုက်၏ ဆောင်ရွက်မှုကို ပြင်ဆင်နိုင်သည်။
 identity-description-active-blocked2 = { -brand-short-name } ၏ အစိတ်အပိုင်းတချို့သည် မလုံခြုံသောကြောင့် ၄င်းကို တားဆီးထားသည်။
@@ -191,12 +172,6 @@ identity-description-passive-loaded-insecure2 = ဒီဝဘ်ဆိုက်�
 identity-description-passive-loaded-mixed2 = { -brand-short-name } က အကြောင်းအရာတစ်ချို့ကို တားဆီးထားသော်လည်း ဒီစာမျက်နှာတွင် မလုံခြုံသော အကြောင်းအရာများ(ရုပ်ပုံများ ကဲ့သို့) ရှိနေသေးသည်။
 identity-description-active-loaded = ဒီဝဘ်ဆိုဒ်သည် စိတ်မချရသော အကြောင်းအရာများ(ကုဒ်များ ကဲ့သို့) ပါဝင်သည်။ ပြီးတော့ ထိုဝဘ်ဆိုက်သို့ သင့်ချိတ်ဆက်မှုသည် သီးသန့် ဖြစ်မနေပါ။
 identity-description-active-loaded-insecure = ဒီဆိုက်နှင့် သင်မျှဝေထားသည့် အချက်အလက်များ (စကားဝှက်များ၊ စာတိုများ၊ အကြွေးကတ်များ စသည်) ကို အခြားသူများက မြင်နိုင်ပါသည်။
-identity-disable-mixed-content-blocking =
-    .label = လောလောဆယ် ကာကွယ်မှုကို ပိတ်ထားပါ
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = ကာကွယ်မှုကို ဖွင့်ရန်
-    .accesskey = E
 identity-more-info-link-text =
     .label = နောက်ထပ်အချက်အလက်များ
 
@@ -240,8 +215,6 @@ urlbar-extension =
     .value = ထပ်ပေါင်းဆော့ဖ်ဝဲလ်။
 urlbar-go-button2 =
     .title = လမ်းကြောင်းအတန်းထဲရှိ လိပ်စာသို့ သွားပါ
-urlbar-go-button =
-    .tooltiptext = လမ်းကြောင်းအတန်းထဲရှိ လိပ်စာသို့ သွားပါ
 urlbar-page-action-button =
     .tooltiptext = စာမျက်နှာရှိ ဆောင်ရွက်နိုင်သည်များ
 
@@ -256,15 +229,6 @@ urlbar-page-action-button =
 urlbar-result-action-search-w-engine = { $engine } နှင့် ရှာဖွေရန်
 urlbar-result-action-switch-tab = တပ်ဗ်အဖြစ်သို့ ပြောင်းပါ
 urlbar-result-action-visit = လည်ပတ်ရန်
-
-## Strings used for buttons in the urlbar
-
-urlbar-searchmode-bookmarks =
-    .label = စာမှတ်များ
-urlbar-searchmode-tabs =
-    .label = တပ်ဗ်များ
-urlbar-searchmode-history =
-    .label = မှတ်တမ်း
 
 ## Reader View toolbar buttons
 
@@ -320,12 +284,6 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] စာမှတ်များအတန်းကို ပိတ်ရန်
            *[other] စာမှတ်များ ကိရိယာအတန်းကို ပြပါ
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] စာမှတ်များစာရင်းကို တန်ဆာပလာအတန်းမှ ဖယ်ရှားပါ
-           *[other] စာမှတ်များစာရင်းကို တန်ဆာပလာအတန်းတွင် ပြပါ
-        }
 
 ##
 
@@ -344,12 +302,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = စာမှတ်များ
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = { -pocket-brand-name } တွင်သိမ်းပါ
-    .tooltiptext = { -pocket-brand-name } တွင်သိမ်းပါ
 
 ##
 
@@ -387,28 +339,10 @@ eme-notifications-drm-content-playing = ဒီဆိုက်ရှိ အော
 ui-tour-info-panel-close =
     .tooltiptext = ပိတ်ပါ
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = { $uriHost } မှ pop-up များကို ခွင့်ပြုမည်
-    .accesskey = p
-popups-infobar-block =
-    .label = { $uriHost } မှ pop-up များကို တားဆီးမည်
-    .accesskey = p
-
-##
-
-popups-infobar-dont-show-message =
-    .label = ဤစာတန်းအား pop-ups ဝင်းဒိုးများပိတ်ထားပါက ထပ်မပြပါနှင့်။
-    .accesskey = D
-
 ##
 
 navbar-downloads =
     .label = ဆွဲချချက်များ
-navbar-overflow =
-    .tooltiptext = အခြားတန်ဆာပလာများ…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

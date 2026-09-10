@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Masquer les connexions 
 about-webrtc-aec-logging-msg-label = Journalisation AEC
 about-webrtc-aec-logging-off-state-label = Démarrer la journalisation AEC
 about-webrtc-aec-logging-on-state-label = Arrêter la journalisation AEC
-about-webrtc-aec-logging-on-state-msg = Journalisation AEC active (discutez quelques minutes avec votre correspondant puis arrêtez l’enregistrement)
 about-webrtc-aec-logging-toggled-on-state-msg = Journalisation AEC active (discutez quelques minutes avec votre correspondant puis arrêtez l’enregistrement)
 about-webrtc-aec-logging-unavailable-sandbox = La variable d’environnement MOZ_DISABLE_CONTENT_SANDBOX=1 est requise pour exporter les journaux AEC. Ne définissez cette variable que si vous comprenez les risques possibles.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Nommé
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Sélectionné
 about-webrtc-save-page-label = Enregistrer la page
-about-webrtc-debug-mode-msg-label = Mode débogage
-about-webrtc-debug-mode-off-state-label = Démarrer le mode débogage
-about-webrtc-debug-mode-on-state-label = Arrêter le mode débogage
-about-webrtc-stats-heading = Statistiques de session
 about-webrtc-enable-logging-label = Activer la sélection de la journalisation WebRTC
 about-webrtc-peerconnections-section-heading = Statistiques RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = Afficher les statistiques RTCPeerConnection
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = Masquer les statistiques RTCPeer
 about-webrtc-stats-clear = Effacer l’historique
 about-webrtc-log-heading = Historique de connexion
 about-webrtc-log-clear = Effacer l’historique
-about-webrtc-log-show-msg = afficher l’historique
-    .title = cliquer pour développer cette section
-about-webrtc-log-hide-msg = masquer l’historique
-    .title = cliquer pour réduire cette section
 about-webrtc-log-section-show-msg = Afficher l’historique
     .title = Cliquer pour développer cette section
 about-webrtc-log-section-hide-msg = Masquer l’historique
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Candidat distant
 about-webrtc-raw-candidates-heading = Tous les candidats bruts
 about-webrtc-raw-local-candidate = Candidat brut local
 about-webrtc-raw-remote-candidate = Candidat brut distant
-about-webrtc-raw-cand-show-msg = afficher les candidats bruts
-    .title = cliquer pour développer cette section
-about-webrtc-raw-cand-hide-msg = masquer les candidats bruts
-    .title = cliquer pour réduire cette section
 about-webrtc-raw-cand-section-show-msg = Afficher les candidats bruts
     .title = Cliquer pour développer cette section
 about-webrtc-raw-cand-section-hide-msg = Masquer les candidats bruts
     .title = Cliquer pour réduire cette section
 about-webrtc-priority = Priorité
-about-webrtc-fold-show-msg = afficher les détails
-    .title = cliquer pour développer cette section
-about-webrtc-fold-hide-msg = masquer les détails
-    .title = cliquer pour réduire cette section
 about-webrtc-fold-default-show-msg = Afficher les détails
     .title = Cliquer pour développer cette section
 about-webrtc-fold-default-hide-msg = Masquer les détails
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Fourni
 # been provided
 about-webrtc-configuration-element-not-provided = Non fourni
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Préférences WebRTC définies par l’utilisateur ou l’utilisatrice
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Configuration WebRTC modifiée par l’utilisateur
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Statistiques d’images vidéo - ID MediaStreamTrack : { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = page enregistrée à l’emplacement suivant : { $path }
-about-webrtc-debug-mode-off-state-msg = le fichier de la trace est disponible à l’emplacement suivant : { $path }
-about-webrtc-debug-mode-on-state-msg = mode débogage actif, le fichier de la trace est disponible à l’emplacement suivant : { $path }
-about-webrtc-aec-logging-off-state-msg = les fichiers de journalisation capturés sont disponibles à l’emplacement suivant : { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

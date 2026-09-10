@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Nastavenie pripojenia
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Nastavenie pripojenia
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Obnoviť
     .accesskey = b
-connection-proxy-autologin =
-    .label = Nevyžadovať autorizáciu, ak je heslo uložené
-    .accesskey = z
-    .tooltip = Vďaka tejto možnosti sa prehliadač automaticky autorizuje na serveri proxy, ak má preň uložené prihlasovanie údaje. Ak autorizácia zlyhá, prehliadač o údaje požiada.
 connection-proxy-autologin-checkbox =
     .label = Nevyžadovať autorizáciu, ak je heslo uložené
-    .accesskey = z
     .tooltiptext = Vďaka tejto možnosti sa prehliadač automaticky autorizuje na serveri proxy, ak má preň uložené prihlasovanie údaje. Ak autorizácia zlyhá, prehliadač o údaje požiada.
+    .accesskey = z
 connection-proxy-socks4-remote-dns =
     .label = Použiť server proxy pre DNS pri použití SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Použije sa predvolená adresa URL pre DNS cez HTTPS
 connection-dns-over-https-url-custom =
     .label = Vlastný
-    .accesskey = V
     .tooltiptext = Zadajte adresu URL svojho poskytovateľa DNS cez HTTPS
-connection-dns-over-https-custom-label = Vlastný
+    .accesskey = V

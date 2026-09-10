@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = المزيد من { -vendor-short-name }
 more-from-moz-page-header =
     .heading = المزيد من { -vendor-short-name }
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = متصفّح { -brand-product-name } للم
 more-from-moz-firefox-mobile-description = متصفّح المحمول الذي يضع خصوصيتك أولاً وقبل كل شيء.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } للجوّال
 more-from-moz-firefox-mobile =
-    .label = { -brand-product-name } للجوّال
     .description = متصفح الجوّال الذي يضع خصوصيتك أولاً.
+    .label = { -brand-product-name } للجوّال
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = اكتشف طبقة إضافية من التصفح المجهول والحماية.
 more-from-moz-qr-code-box-firefox-mobile-title = نزّله بجهازك المحمول. ثم صوّر رمز QR بالكمرة وانقر على الرابط الذي سيظهر.
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = احصل على { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = استعِدة معلوماتك الشخصية المكشوفة تلقائيًا.
 more-from-moz-mozilla-monitor-global-description = احصل على تنبيهات عندما تُخترق بياناتك.
 more-from-moz-mozilla-monitor-button = احصل على { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } الذكاء الاصطناعي
 more-from-moz-solo-description = أنشئ موقع الوِب الخاص بك على الفور ووصّل نطاقك المخصص مجانًا.
 more-from-moz-solo-button = جرّب { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = { -solo-ai-brand-name } صانع موقع وِب يعمل بالذكاء الاصطناعي
@@ -77,20 +74,20 @@ more-from-moz-firefox-mobile-email-link = أرسل رابط التنزيل إل�
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = اكتشف أين سُربت معلوماتك الشخصية عبر الإنترنت من خلال فحص مجاني.
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = احصل على حماية إضافية لجميع التطبيقات — وليس فقط لمتصفحك. حافظ على أمان بياناتك عند استخدام شبكات Wi-Fi العامة والشبكات غير الآمنة.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = احمِ بريدك الوارد من الرسائل المزعجة باستخدام ميزة إخفاء البريد الإلكتروني المجانية.
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = تعلّم تطوير الوِب من خلال أدلة ومراجع مجانية.
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = تمتع بالوصول إلى بريدك الإلكتروني وتقويماتك وجهات اتصالك في تطبيق واحد سريع.
+    .label = { -thunderbird-brand-name }
 more-from-moz-mozilla-monitor-box-link =
     .label = احصل على { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =

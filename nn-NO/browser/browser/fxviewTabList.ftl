@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxviewtabrow-open-menu-button =
-    .title = Opne meny
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
@@ -24,10 +22,6 @@ fxviewtabrow-dismiss-tab-button =
     .title = Avvis { $tabTitle }
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Akkurat no
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-delete = Slett
     .accesskey = S
 fxviewtabrow-forget-about-this-site = Gløym denne nettstaden…
@@ -57,8 +51,6 @@ fxviewtabrow-send-to-device = Send til eining
     .accesskey = n
 fxviewtabrow-send-to-mobile = Send til mobil
     .accesskey = n
-fxviewtabrow-send-tab = Send fane til eining
-    .accesskey = a
 fxviewtabrow-pin-tab = Fest fane
     .accesskey = F
 fxviewtabrow-unpin-tab = Løys fane
@@ -82,8 +74,5 @@ fxviewtabrow-send-to-mobile-connect-device = Kople til ei eining for å sende fa
 fxviewtabrow-send-to-mobile-device-missing2 = Ser du ikkje eininga di?
 fxviewtabrow-send-to-mobile-not-verified = Konto ikkje stadfesta
 fxviewtabrow-send-to-mobile-verify-account = Stadfest kontoen din
-
-## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
-
 fxviewtabrow-send-to-mobile-sign-in = Logg inn for å sende faner
 fxviewtabrow-send-to-mobile-turn-on-sync = Slå på synkronisering for å sende faner

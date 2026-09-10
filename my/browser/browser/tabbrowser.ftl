@@ -7,11 +7,6 @@ tabbrowser-menuitem-close-tab =
     .label = တပ်ဗ်ကို ပိတ်ပါ
 tabbrowser-menuitem-close =
     .label = ပိတ်ပါ
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.

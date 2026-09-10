@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Επιστροφή
 neterror-return-to-previous-page-recommended-button = Επιστροφή (Προτείνεται)
 neterror-try-again-button-2 = Δοκιμή ξανά
     .accesskey = Δ
-neterror-try-again-button = Δοκιμή ξανά
 neterror-add-exception-button = Πάντα συνέχεια για αυτόν τον ιστότοπο
 neterror-settings-button = Αλλαγή ρυθμίσεων DNS
 neterror-view-certificate-link = Προβολή πιστοποιητικού
-neterror-trr-continue-this-time = Συνέχεια αυτήν τη φορά
-neterror-disable-native-feedback-warning = Πάντα συνέχεια
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = Μάθετε περισσότερα
 ##
 
 neterror-pref-reset = Μοιάζει να προκαλείται από τις ρυθμίσεις ασφαλείας του δικτύου σας. Θέλετε να αποκατασταθούν οι προεπιλεγμένες ρυθμίσεις;
-neterror-error-reporting-automatic = Αναφορά παρόμοιων σφαλμάτων για να βοηθήσετε τη { -vendor-short-name } στον εντοπισμό και αποκλεισμό κακόβουλων ιστοτόπων
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Αποσυνδεθείτε κα�
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = Το { -brand-short-name } δεν μπορεί να προστατεύσει το αίτημά σας για τη διεύθυνση αυτού του ιστοτόπου μέσω της έμπιστης υπηρεσίας ανάλυσης DNS. Αυτό συμβαίνει επειδή:
 neterror-dns-not-found-trr-only-reason2 = Το { -brand-short-name } δεν μπορεί να προστατεύσει το αίτημά σας για τη διεύθυνση αυτού του ιστοτόπου μέσω του ασφαλούς παρόχου DNS. Αυτό συμβαίνει επειδή:
 neterror-dns-not-found-trr-third-party-warning2 = Μπορείτε να συνεχίσετε με το προεπιλεγμένο σας πρόγραμμα ανάλυσης DNS. Ωστόσο, κάποιος τρίτος ενδέχεται να μπορεί να δει ποιους ιστοτόπους επισκέπτεστε.
 neterror-dns-not-found-trr-only-could-not-connect = Το { -brand-short-name } δεν μπόρεσε να συνδεθεί στο { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Η σύνδεση με το { $trrDomain } διήρκεσε περισσότερο από το αναμενόμενο.
-neterror-dns-not-found-trr-offline = Δεν έχετε συνδεθεί στο διαδίκτυο.
 neterror-dns-not-found-trr-unknown-host2 = Αυτός ο ιστότοπος δεν βρέθηκε από το { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Προέκυψε πρόβλημα με το { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = Μη έγκυρο URL.
 neterror-dns-not-found-system-sleep = Το σύστημα βρίσκεται σε κατάσταση αναστολής λειτουργίας.
 neterror-dns-not-found-trr-unknown-problem = Απροσδόκητο πρόβλημα.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = Το { -brand-short-name } δεν μπορεί να προστατεύσει το αίτημά σας για τη διεύθυνση αυτού του ιστοτόπου μέσω της έμπιστης υπηρεσίας ανάλυσης DNS. Αυτό συμβαίνει επειδή:
-neterror-dns-not-found-native-fallback-heuristic = Το DNS μέσω HTTPS έχει απενεργοποιηθεί στο δίκτυό σας.
-neterror-dns-not-found-native-fallback-not-confirmed2 = Το { -brand-short-name } δεν μπόρεσε να συνδεθεί στο { $trrDomain }.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = Ενδέχεται να έχει διαγραφεί, μ
 neterror-unknown-protocol = Ίσως χρειαστεί να εγκαταστήσετε κάποιο άλλο λογισμικό για να ανοίξετε αυτήν τη διεύθυνση.
 neterror-redirect-loop = Αυτό το πρόβλημα μπορεί να οφείλεται στην απενεργοποίηση ή την άρνηση αποδοχής των cookie.
 neterror-unknown-socket-type-client-config = Αυτό ενδέχεται να οφείλεται σε σφάλμα ρυθμίσεων του προγράμματος-πελάτη σας.
-neterror-unknown-socket-type-psm-installed = Βεβαιωθείτε ότι το σύστημά σας διαθέτει τη διαχείριση προσωπικής ασφάλειας.
-neterror-unknown-socket-type-server-config = Αυτό μπορεί να οφείλεται σε κάποια μη τυπική ρύθμιση του διακομιστή.
 neterror-not-cached-intro = Το ζητούμενο έγγραφο δεν είναι διαθέσιμο στην κρυφή μνήμη του { -brand-short-name }.
 neterror-not-cached-sensitive = Ως μέτρο ασφαλείας, το { -brand-short-name } δεν ζητά εκ νέου τα ευαίσθητα έγγραφα.
 neterror-not-cached-try-again = Κάντε κλικ στο «Δοκιμή ξανά» για να ζητήσετε εκ νέου το έγγραφο από τον ιστότοπο.

@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = El certificáu nun ye d'enfotu porque'l so e
 cert-error-trust-signature-algorithm-disabled = El certificáu nun ye d'enfotu porque se robló col usu d'un algoritmu de robla que se desactivó porque nun ye seguru.
 cert-error-trust-expired-issuer = El certificáu nun ye d'enfotu porque'l so emisor caducó.
 cert-error-trust-self-signed = El certificáu nun ye d'enfotu porque se robló a sigo mesmu.
-cert-error-trust-symantec = Los certificaos emitíos por GeoTrust, RapidSSL, Symantec, Thawte y VeriSign yá nun se consideren seguros porque estes entidaes certificadores nun siguieron les práutiques de seguranza nel pasáu.
 cert-error-untrusted-default = El certificáu nun vien d'una fonte d'enfotu.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -53,17 +52,12 @@ cert-error-code-prefix-link = Códigu del fallu: <a data-l10n-name="error-code-l
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Asocedió un fallu na conexón a { $hostname }. { $errorMessage }
 # Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Los sitios web demuestren la so identidá per certificaos qu'emiten entidaes certificadores. La mayoría de restoladores yá nun s'enfoten nos certificaos emitíos por GeoTrust, RapidSSL, Symantec, Thawte y VeriSign. { $hostname } usa un certificáu d'una d'eses autoridaes y, polo tanto, la identidá del sitiu nun pue demostrase.
-cert-error-symantec-distrust-admin = Pues avisar del problema al alministrador del sitiu web.
-# Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = Seguranza estricta de tresporte HTTP: { $hasHSTS }
 # Variables:
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Fixación de claves públiques HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadena de certificaos:
-open-in-new-window-for-csp-or-xfo-error = Abrir el sitiu nuna ventana nueva
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Pa protexer la to seguranza, { $hostname } nun va permitir que { -brand-short-name } amuese la páxina si otru sitiu la incrustó. Pa ver esta páxina, tienes d'abrila nuna ventana nueva.
@@ -96,7 +90,6 @@ redirectLoop-title = La páxina nun ta redirixendo afayadizamente
 unknownSocketType-title = Rempuesta inesperada del sirvidor
 nssFailure2-title = La conexón segura falló
 csp-xfo-error-title = { -brand-short-name } nun pue abrir esta páxina
-corruptedContentError-title = Fallu de conteníu toyíu
 sslv3Used-title = Nun ye posible conectase de mou seguru
 inadequateSecurityError-title = La conexón nun ye segura
 blockedByPolicy-title = Páxina bloquiada

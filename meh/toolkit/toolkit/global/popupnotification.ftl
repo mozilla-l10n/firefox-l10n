@@ -3,6 +3,3 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 popup-notification-learn-more = Ka´vi kue´eka
-popup-notification-default-button =
-    .label = Kuvi!
-    .accesskey = O

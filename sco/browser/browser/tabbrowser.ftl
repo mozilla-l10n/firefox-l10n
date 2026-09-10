@@ -7,11 +7,6 @@ tabbrowser-menuitem-close-tab =
     .label = Sneck Tab
 tabbrowser-menuitem-close =
     .label = Sneck
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } — { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -19,14 +14,6 @@ tabbrowser-container-tab-title = { $title } — { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [one] Sneck tab
-           *[other] Sneck { $tabCount } tabs
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [one] Sneck tab
            *[other] Sneck { $tabCount } tabs
@@ -79,7 +66,6 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = Sneck { $tabCount } tabs?
 tabbrowser-confirm-close-tabs-button = Sneck tabs
-tabbrowser-confirm-close-tabs-checkbox = Confirm afore sneckin multiple tabs
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -99,9 +85,6 @@ tabbrowser-confirm-close-windows-button =
 
 tabbrowser-confirm-close-tabs-with-key-title = Sneck windae and quit { -brand-short-name }?
 tabbrowser-confirm-close-tabs-with-key-button = Quit { -brand-short-name }
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = Confirm afore quittin wi { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 

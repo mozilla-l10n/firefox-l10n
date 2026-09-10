@@ -108,15 +108,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = "Xavfsiz usuli" tomonidan  barcha qoʻshimcha dasturlar oʻchirilgan
-extensions-warning-check-compatibility = Qoʻshimcha dasturning mosligini tekshirish oʻchirilgan. Sizda tugallanmagan qoʻshimcha dasturlar boʻlishi mumkin.
-extensions-warning-safe-mode2 =
-    .message = "Xavfsiz usuli" tomonidan  barcha qoʻshimcha dasturlar oʻchirilgan
 extensions-warning-check-compatibility2 =
     .message = Qoʻshimcha dasturning mosligini tekshirish oʻchirilgan. Sizda tugallanmagan qoʻshimcha dasturlar boʻlishi mumkin.
 extensions-warning-check-compatibility-button = Yoqish
     .title = Qoʻshimcha dasturning mosligini tekshirishni yoqish
-extensions-warning-update-security = Qoʻshimcha dasturlarni xavfsiz yangilash oʻchirilgan. Yangilanishlar uchun xavf ostida boʻlishi mumkin.
 extensions-warning-update-security2 =
     .message = Qoʻshimcha dasturlarni xavfsiz yangilash oʻchirilgan. Yangilanishlar uchun xavf ostida boʻlishi mumkin.
 extensions-warning-update-security-button = Yoqish
@@ -160,20 +155,6 @@ addon-open-about-debugging = Qo‘shimcha dasturlarni tuzatish
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Kengaytmalar va mavzular brauzeringiz uchun ilovalarga oʻxshaydi.
-    Ular parollaringizni himoya qiladi, videolarni yuklab oladi, chegirmalarni topadi,
-    asabbuzar reklamalarni bloklaydi, brauzer koʻrinishini oʻzgartiradi.
-    Bunday kichik dasturiy taʼminotlarni begona dasturchilar ishlab chiqadi.
-    Bu yerdan mutlaq xavfsizligingiz, samaradorlik va funksionallik uchun { -brand-product-name }
-    <a data-l10n-name="learn-more-trigger">tavsiya etiladigan</a> kengaytma
-    va mavzular toʻplamini topish mumkin.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    Ayrim tavsiyalar aynan siz uchun moslashtirilgan. Ular siz oʻrnatgan boshqa 
-    kengaytmalar, profil sozlamalari va foydalanish statistikasi asosida tavsiya etiladi.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -197,24 +178,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name }  - { -brand-short-name } { $version } bilan mos emas.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name }  - { -brand-short-name } { $version } bilan mos emas.
-details-notification-unsigned-and-disabled = { $name } qo‘shimcha dasturi { -brand-short-name } brauzerida foydalanish uchun tasdiqdan o‘tmadi, shuning uchun u o‘chirib qo‘yildi.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } qo‘shimcha dasturi { -brand-short-name } brauzerida foydalanish uchun tasdiqdan o‘tmadi, shuning uchun u o‘chirib qo‘yildi.
-details-notification-unsigned-and-disabled-link = Batafsil ma’lumot
-details-notification-unsigned = { $name } qo‘shimcha dasturi { -brand-short-name } brauzerida foydalanish uchun tasdiqdan o‘tmadi. Jarayonni ehtiyotkorlik bilan davom ettiring.
 details-notification-unsigned2 =
     .message = { $name } qo‘shimcha dasturi { -brand-short-name } brauzerida foydalanish uchun tasdiqdan o‘tmadi. Jarayonni ehtiyotkorlik bilan davom ettiring.
-details-notification-unsigned-link = Batafsil ma’lumot
-details-notification-blocked = { $name } xavfsizlik va ishonchlilik sabablariga koʻra oʻchirib qoʻyildi.
-details-notification-blocked-link = Koʻproq ma`lumot
-details-notification-softblocked = { $name } xavfsizlik va mustahkamlikka ta`sir qilishi aniqlangan.
-details-notification-softblocked-link = Koʻproq ma`lumot
-details-notification-gmp-pending = { $name } tezda o‘rnatiladi.
 details-notification-gmp-pending2 =
     .message = { $name } tezda o‘rnatiladi.
 

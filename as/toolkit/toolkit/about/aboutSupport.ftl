@@ -18,10 +18,6 @@ security-software-name = নাম
 security-software-antivirus = এণ্টিভাইৰাছ
 security-software-antispyware = এণ্টিস্পাইৱেৰ
 security-software-firewall = ফায়াৰৱাল
-features-title = { -brand-short-name }ৰ সুবিধাবোৰ
-features-name = নাম
-features-version = সংস্কৰণ
-features-id = ID
 processes-type = প্ৰকাৰ
 processes-count = সংখ্যা
 app-basics-title = এপ্লিকেচন প্ৰাথমিক
@@ -43,7 +39,6 @@ app-basics-profile-dir =
         [linux] আলেখ্য ডাইৰেকটৰি
        *[other] আলেখ্য ফোল্ডাৰ
     }
-app-basics-enabled-plugins = সামৰ্থবান কৰি থোৱা প্লাগিনসমূহ
 app-basics-build-config = সংৰূপ নিৰ্মাণ কৰক
 app-basics-user-agent = ব্যৱহাৰকাৰী সহায়ক
 app-basics-os = OS

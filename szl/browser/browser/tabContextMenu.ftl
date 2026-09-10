@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Nowo karta
-    .accesskey = w
 reload-tab =
     .label = Przeladuj karta
     .accesskey = P
@@ -86,10 +83,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nowo grupa
     .accesskey = g
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -117,11 +110,3 @@ tab-context-move-tabs =
            *[many] Przeniyś karty
         }
     .accesskey = P
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Poślij karta na maszina
-            [few] Poślij { $tabCount } katy na maszina
-           *[many] Poślij { $tabCount } kart na maszina
-        }
-    .accesskey = n

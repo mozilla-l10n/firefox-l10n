@@ -18,12 +18,10 @@ neterror-learn-more-link = ស្វែងយល់​បន្ថែម...
 neterror-open-portal-login-page-button = បើក​ទំព័រ​ចូល​ទៅកាន់​បណ្ដាញ
 neterror-pref-reset-button = ស្ដារ​ការ​កំណត់​លំនាំដើម
 neterror-return-to-previous-page-button = ថយក្រោយ
-neterror-try-again-button = ព្យាយាម​ម្តងទៀត
 
 ##
 
 neterror-pref-reset = វា​ហាក់​ដូចជា​ការ​កំណត់​សុវត្ថិភាព​បណ្ដាញ​របស់​អ្នក​អាច​បង្ក​ឲ្យ​មាន​បញ្ហា​នេះ។ តើ​អ្នក​​ចង់​កំណត់​ជា​លំនាំដើម​ដើម្បី​សារ​បញ្ហា​នេះ​ដែរ ឬ​ទេ?
-neterror-error-reporting-automatic = សូម​រាយការណ៍​កំហុស​បែប​នេះ​ដើម្បី​ជួយ​ដល់ { -vendor-short-name } ក្នុង​ការ​កំណត់ និង​ទប់​ស្កាត់​វេបសាយ​ដែល​មាន​បំណង​អាក្រក់
 
 ## Specific error messages
 
@@ -42,8 +40,6 @@ neterror-file-not-found-moved = ពិនិត្យមើល​ថា តើ�
 neterror-access-denied = វា​ប្រហែល​ជា​ត្រូវបាន​លុប ផ្លាស់ប្ដូរ​ទីតាំង ឬ​ក៏​មក​ពី​ការ​កំណត់​សិទ្ធិ​ចូល​ប្រើប្រាស់​ឯកសារ។
 neterror-unknown-protocol = អ្នក​អាច​នឹង​ត្រូវ​ដំឡើង​កម្មវិធី​ផ្សេងទៀត ដើម្បី​បើក​អាសយដ្ឋាន​នេះ  ។
 neterror-redirect-loop = ពេល​ខ្លះ បញ្ហា​នេះ​អាច​កើតឡើង​ដោយសារ​តែ​ការ​បិទ ឬ​ការ​បដិសេធ​ក្នុង​ការ​ទទួល​យក ​ខូគី ។
-neterror-unknown-socket-type-psm-installed = ពិនិត្យមើល​ ដើម្បី​ឲ្យ​ប្រាកដ​ថា​ប្រព័ន្ធ​​របស់​អ្នក​មាន​កម្មវិធី​គ្រប់គ្រង​សុវត្ថិភាព​ផ្ទាល់ខ្លួន​ដែល​បាន​ដំឡើង​ រួចហើយ ។
-neterror-unknown-socket-type-server-config = នេះ​ក៏​ព្រោះតែ​ការ​កំណត់​រចនាសម្ព័ន្ធ​មិន​ស្តង់ដារ​នៅ​លើ​ម៉ាស៊ីន​បម្រើ ។
 neterror-not-cached-intro = ឯកសារ​ដែល​បាន​ស្នើ មិន​មាន​នៅ​ក្នុង​ឃ្លាំង​សម្ងាត់​របស់ { -brand-short-name } ទេ ។
 neterror-not-cached-sensitive = ជា​ការ​ប្រុងប្រយ័ត្ន​សុវត្ថិភាព​ជាមុន { -brand-short-name } មិន​ស្នើ​ឯកសារ​សម្ងាត់​ឡើងវិញ​ដោយ​ស្វ័យប្រវត្តិ​ឡើយ ។
 neterror-not-cached-try-again = ចុច​ព្យាយាម​ម្ដងទៀត ដើម្បី​ស្នើ​ឯកសារ​ម្ដងទៀត​ពី​តំបន់​បណ្ដាញ ។

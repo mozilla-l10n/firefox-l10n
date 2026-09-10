@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Laksid
     .style = min-width: 45em
+    .title = Laksid
 permissions-close-key =
     .key = w
 permissions-block =

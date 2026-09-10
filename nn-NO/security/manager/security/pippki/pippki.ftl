@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Du er i FIPS-modus. FIPS krev at du brukar
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Tilbakestill hovudpassordet
     .style = min-width: 40em
+    .title = Tilbakestill hovudpassordet
 reset-password-button-label =
     .label = Still tilbake
 reset-primary-password-text = Dersom du stiller tilbake hovudpassordet vil alle lagra nettside- og e-postpassord, personlege sertifikat og private nøklar gå tapt. Er du sikker på at du vil tilbakestille hovudpassordet?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Hovudpassordet ditt er tilbakestilt
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Lastar ned sertifikat
     .style = min-width: 46em
+    .title = Lastar ned sertifikat
 download-cert-message = Du har vorte beden om å stola på ei ny sertifikat-fullmakt (CA)
 download-cert-trust-ssl =
     .label = Stol på denne CA-en til å identifisere nettsider.
@@ -52,8 +52,6 @@ download-cert-view-text = Undersøk CA-sertifikat
 
 client-auth-window =
     .title = Førespurnad om brukaridentifikasjon
-client-auth-site-description = Denne nettstaden har bede om at du identifiserer deg sjølv med eit sertifikat:
-client-auth-choose-cert = Vel sertifikat som du vil bruka som identifikasjon:
 client-auth-send-no-certificate =
     .label = Ikkje send eit sertifikat
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Autentiser deg for tryggingseininga ({ $tokenName }). Korleis dette blir gjort er avhengig av eininga (til dømes ved bruk av fingeravtrykkslesar eller ved å skrive inn ein kode på eit tastatur).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Godkjenn i samsvar med tryggingsmetoden «{ $tokenName }». Korleis du gjer det, er avhengig av metoden (til dømes ved bruk av fingeravtrykklesar eller ved å taste inn ein kode med eit tastatur).

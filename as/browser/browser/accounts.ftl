@@ -25,26 +25,12 @@ account-send-to-all-devices-titlecase = সকলো ডিভাইচলৈ �
 account-manage-devices-titlecase = ডিভাইচ পৰিচালনা কৰক...
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = কোনো ডিভাইচ সংযোজিত নাই
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = টেব পঠিওৱাৰ বিষয়ে জানক...
-# Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = আন এটা ডিভাইচ সংযোগ কৰক…
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = একাউণ্ট সত্যাপন কৰা নাই
-account-send-tab-to-device-verify = আপোনাৰ একাউণ্ট সত্যাপন কৰক...
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
-# The title shown in a notification when either this device or another device
-# has connected to, or disconnected from, a Firefox account.
-account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = এই কম্পিউটাৰটো এতিয়া { $deviceName }-ৰ সৈতে সংযোজিত হৈ আছে।

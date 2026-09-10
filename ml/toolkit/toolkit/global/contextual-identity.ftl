@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = കണ്ടെയ്നര്‍ ഇല്ല
-    .accesskey = N
 user-context-personal-panel-item = വ്യക്തിപരം
     .accesskey = വ
 user-context-work-panel-item = ജോലി

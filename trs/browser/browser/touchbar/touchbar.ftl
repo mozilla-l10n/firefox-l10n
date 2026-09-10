@@ -30,4 +30,3 @@ search-bookmarks = Sa raj sun nichrò' doj
 search-history = Sa gini’iājt
 search-opentabs = Na'nïn rakïj ñanj
 search-tags = Da'nga' achrûn'
-search-titles = Nej si yugui

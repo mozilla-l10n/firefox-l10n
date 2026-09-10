@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = ہتھیکڑے پتے
 autofill-manage-addresses-list-header = پتے
-autofill-manage-credit-cards-title = ہتھیکڑے کریڈٹ کارڈز
-autofill-manage-credit-cards-list-header = کریڈٹ کارڈز
 autofill-manage-payment-methods-title = محفوظ تھئے ادائیگی طریقے
 autofill-manage-cards-list-header = کارڈز
 autofill-manage-dialog =
@@ -45,15 +43,10 @@ address-capture-open-menu-button =
     .aria-label = مینیو کھولو
 address-capture-edit-address-link = پتے وچ تبدیلی کرو
     .aria-label = پتے وچ تبدیلی کرو
-address-capture-edit-address-button =
-    .aria-label = پتے وچ تبدیلی کرو
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = پتہ شامل کرو
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = پتہ تدوین کرو
-autofill-address-given-name = پہلا ناں
-autofill-address-additional-name = وچلا ناں
-autofill-address-family-name = چھیکڑی ناں
 autofill-address-name = ناں
 autofill-address-organization = تنظیم
 autofill-address-street-address = ڳلی دا پتہ
@@ -101,8 +94,6 @@ autofill-address-eircode = ایرکوڈ
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = نواں پتہ شامل کرو
 autofill-address-country = ملک یا علاقہ
 autofill-address-country-only = ملک
 autofill-address-tel = فون
@@ -110,18 +101,6 @@ autofill-address-email = ای میل
 autofill-cancel-button = منسوخ
 autofill-save-button = ہتھیکڑا کرو
 autofill-country-warning-message = فارم آٹو فل فی الحال صرف مخصوص ممالک کیتے دستیاب ہے۔
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = نواں کریڈٹ کارڈ شامل کرو۔
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = کریڈٹ کارڈ وِچ ترمیم کرو۔
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] کریڈٹ کارڈ دیاں معلومات ݙکھاؤ
-        [windows] { -brand-short-name } کریڈٹ کارڈ دیاں معلومات ݙکھاوݨ دی کوشش کریندا پئے۔ ایں تلویں ونڈوز اکاؤنٹ رسائی دی تصدیق کرو۔
-       *[other] { -brand-short-name } کریڈٹ کارڈ دیاں معلومات ݙکھاوݨ دی کوشش کریندا پئے۔
-    }
 autofill-message-tooltip = خود کار طریقے نال پُر کرݨ دے بارے وِچ پیغام ݙیکھو
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = کارڈ شامل کرو
@@ -140,15 +119,3 @@ autofill-card-expires-month = اختتامی مہینہ
 autofill-card-expires-year = اختتامی سال
 autofill-card-billing-address = بل دا پتہ
 autofill-card-network = کارڈ دی ونکی
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = امریکی ایکسپریس
-autofill-card-network-cartebancaire = کارٹے بانکیئر
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = دریافت
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

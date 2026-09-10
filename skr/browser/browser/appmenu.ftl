@@ -31,8 +31,6 @@ appmenuitem-extensions-and-themes =
     .label = ایکسٹینشنز تے تھیم
 appmenuitem-extensions =
     .label = ایکسٹینشنز
-appmenuitem-addons-and-themes =
-    .label = ایڈ آنز تے تھیمز
 appmenuitem-print =
     .label = چھاپو۔۔۔
 appmenuitem-find-in-page =
@@ -101,7 +99,6 @@ appmenu-remote-tabs-unverified = تہاݙے کھاتے کوں تصدیق دی ل
 appmenuitem-fxa-toolbar-sync-now2 = ہݨ ہم وقت کرو
 appmenuitem-fxa-sign-in = { -brand-product-name } وِچ سائن ان تھیوو
 appmenuitem-fxa-manage-account = کھاتہ منیج کرو
-appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-account-header = کھاتہ
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -116,15 +113,6 @@ appmenu-fxa-setup-sync-new = چالو کرو
 appmenuitem-save-page =
     .label = ورقہ ہتھیکڑا کرو بطور …
 appmenuitem-fxa-sync-off-title = ہم وقت کرݨ بند ہے
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = نواں کیا ہے؟
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = نویاں خصوصیات بارے اطلاع ݙیوو
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -227,8 +215,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = ودھیک ٹربل شوٹنگ معلومات
     .accesskey = t
-appmenu-help-report-site-issue =
-    .label = سائٹ مسئلہ… رپورٹ کرو
 appmenu-help-share-ideas =
     .label = خیالات تے صلاحیں دی سانجھ کرو …
     .accesskey = S
@@ -273,7 +259,6 @@ appmenuitem-monitor-description = ڈیٹا دی خلاف ورزی دیاں چت�
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = آپݨے اصلی ای میل اَتے فون کوں ماسک کرو
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description = آپݨی رازداری دی راکھی کرو
 
 ## Profiles panel
 

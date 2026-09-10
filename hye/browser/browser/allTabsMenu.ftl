@@ -9,6 +9,3 @@ all-tabs-menu-new-user-context =
     .label = Նոր պարունակ ներդիր
 all-tabs-menu-hidden-tabs =
     .label = Թաքնուած ներդիրներ
-all-tabs-menu-manage-user-context =
-    .label = Կառավարել պարունակները
-    .accesskey = O

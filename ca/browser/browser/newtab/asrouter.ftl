@@ -62,7 +62,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Sincronitzeu les adreces d’interès a tot arreu.
-cfr-doorhanger-bookmark-fxa-body = Una gran troballa! No us quedeu sense aquesta adreça d’interès en els vostres dispositius mòbils. Creeu un { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = Una gran troballa! No us quedeu sense aquesta adreça d’interès en els vostres dispositius mòbils. Creeu un compte per començar.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronitza ara les adreces d’interès…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -75,12 +74,6 @@ fxa-adoption-credit-cards-backup-subtitle = Protegiu els vostres mètodes de pag
 fxa-adoption-bookmarks-treatment-backup-title = Fem una còpia de seguretat de les vostres adreces d'interès
 fxa-adoption-bookmarks-treatment-backup-subtitle = Protegiu les adreces d'interès sincronitzant-les amb els dispositius amb xifratge.
 fxa-adoption-primary-button-label = Registra't
-
-## Protections panel
-
-cfr-protections-panel-header = Navegueu sense sentir-vos observat
-cfr-protections-panel-body = Protegiu les vostres dades. El { -brand-short-name } us protegeix de molts dels elements de seguiment més habituals que recopilen dades sobre allò que feu a Internet.
-cfr-protections-panel-link-text = Més informació
 
 ## What's New toolbar button and panel
 
@@ -175,42 +168,8 @@ mr2022-background-update-toast-primary-button-label = Obre el { -brand-shorter-n
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Recorda-m’ho més tard
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Prova-ho
-    .accesskey = P
-firefoxview-cfr-secondarybutton = Ara no
-    .accesskey = A
-firefoxview-cfr-header-v2 = Continueu des d’on ho deixeu
-firefoxview-cfr-body-v2 = Recupereu les pestanyes tancades recentment i salteu d’un dispositiu a l’altre de forma transparent amb la { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Us presentem la { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Voleu accedir a una pestanya que teniu oberta en el telèfon? Recupereu-la a l’instant. Necessiteu tornar a un lloc que tot just acabeu de visitar? Amb la { -firefoxview-brand-name } és dit i fet.
-firefoxview-spotlight-promo-primarybutton = Com funciona?
-firefoxview-spotlight-promo-secondarybutton = Omet
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Tria la combinació de colors
-    .accesskey = c
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Acoloriu el navegador amb aquests tons exclusius del { -brand-short-name } inspirats en veus que han canviat la cultura.
-colorways-cfr-header-28days = Les combinacions de colors de Veus independents caduquen el 16 de gener
-colorways-cfr-header-14days = Les combinacions de colors de Veus independents caduquen d’aquí a dues setmanes
-colorways-cfr-header-7days = Les combinacions de colors de Veus independents caduquen aquesta setmana
-colorways-cfr-header-today = Les combinacions de colors de Veus independents caduquen avui
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Voleu que el { -brand-short-name } rebutgi els bàners de galetes?
-cfr-cbh-body = El { -brand-short-name } pot rebutjar automàticament moltes sol·licituds de bàners de galetes.
-cfr-cbh-confirm-button = Rebutja els bàners de galetes
-    .accesskey = R
-cfr-cbh-dismiss-button = Ara no
-    .accesskey = n
 cookie-banner-blocker-onboarding-header = El { -brand-short-name } ha rebutjat un bàner de galetes
 cookie-banner-blocker-onboarding-body = Menys distraccions, menys galetes que us fan el seguiment en aquest lloc.
 cookie-banner-blocker-onboarding-learn-more = Més informació

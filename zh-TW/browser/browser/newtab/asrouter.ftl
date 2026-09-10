@@ -60,7 +60,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = 將您的書籤同步帶著走。
-cfr-doorhanger-bookmark-fxa-body = 找到好網站了！接下來也把這筆書籤同步進手機吧。試試使用 { -fxaccount-brand-name }。
 cfr-doorhanger-bookmark-fxa-body-2 = 找到好網站了！接下來也把這筆書籤同步進手機吧。註冊帳號即可開始使用。
 cfr-doorhanger-bookmark-fxa-link-text = 立即同步書籤…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -73,12 +72,6 @@ fxa-adoption-credit-cards-backup-subtitle = 加密後同步到其他裝置中，
 fxa-adoption-bookmarks-treatment-backup-title = 讓我們來備份您的書籤
 fxa-adoption-bookmarks-treatment-backup-subtitle = 加密後同步到其他裝置中，以保護您的書籤。
 fxa-adoption-primary-button-label = 註冊
-
-## Protections panel
-
-cfr-protections-panel-header = 上網不被追蹤
-cfr-protections-panel-body = 保留自己的資料。{ -brand-short-name } 不讓常見的追蹤器記錄您的上網行為。
-cfr-protections-panel-link-text = 了解更多
 
 ## What's New toolbar button and panel
 
@@ -173,42 +166,8 @@ mr2022-background-update-toast-primary-button-label = 立即開啟 { -brand-shor
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = 待會提醒我
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = 試試看
-    .accesskey = T
-firefoxview-cfr-secondarybutton = 現在不要
-    .accesskey = N
-firefoxview-cfr-header-v2 = 快速從結束的地方繼續
-firefoxview-cfr-body-v2 = 透過 { -firefoxview-brand-name } 快速取回最近關閉的分頁，另外還可以在裝置間無縫切換。
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = 跟 { -firefoxview-brand-name } 說嗨
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = 想要在手機上看到開啟的那個分頁嗎？可以直接開啟。需要再打開剛關閉的分頁嗎？點一下 { -firefoxview-brand-name } 馬上就回來。
-firefoxview-spotlight-promo-primarybutton = 看看原理是什麼
-firefoxview-spotlight-promo-secondarybutton = 略過
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = 選擇配色
-    .accesskey = C
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = 使用受改變了文化的聲音所啟發的 { -brand-short-name } 獨家配色來妝點您的瀏覽器。
-colorways-cfr-header-28days = 獨立之聲配色將於 1 月 16 日失效
-colorways-cfr-header-14days = 獨立之聲配色將於兩週後失效
-colorways-cfr-header-7days = 獨立之聲配色將於本週失效
-colorways-cfr-header-today = 獨立之聲配色將於今日失效
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = 要允許 { -brand-short-name } 拒絕 Cookie 橫幅嗎？
-cfr-cbh-body = { -brand-short-name } 可以盡量自動拒絕 Cookie 橫幅。
-cfr-cbh-confirm-button = 拒絕 Cookie 橫幅
-    .accesskey = R
-cfr-cbh-dismiss-button = 現在不要
-    .accesskey = N
 cookie-banner-blocker-onboarding-header = { -brand-short-name } 已為您封鎖 Cookie 橫幅
 cookie-banner-blocker-onboarding-body = 少一分會追蹤您的 Cookie，也讓您更不用分心。
 cookie-banner-blocker-onboarding-learn-more = 更多資訊

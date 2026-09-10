@@ -91,8 +91,6 @@ options-context-advanced-settings = Настройки за напреднали
 options-disable-http-cache-label = Изключване на склада на HTTP (при отворена кутия с инструменти)
 options-disable-http-cache-tooltip =
     .title = Когато е отметнато складирането на HTTP, за всички раздели с отворена кутия с инструменти, ще бъде изключено. Обслужващите нишки не се влияят от тази настройка.
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Изключване на JavaScript *
 options-disable-javascript-tooltip =
     .title = Включването на тази настройка ще изключи JavaScript в текущия раздел. Ако той или кутията с инструменти бъдат затворени, тази настройка ще бъде забравена.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -109,8 +107,6 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Включване на Source Maps
 options-source-maps-tooltip =
     .title = Ако е отметнато source maps ще бъдат използвани в инструментите.
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Само за текущата сесия, презарежда страницата
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

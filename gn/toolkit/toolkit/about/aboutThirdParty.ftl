@@ -30,11 +30,11 @@ third-party-tag-background = Mokõihávape
         Koichagua ta’ãha ndojokói pe tembiporu’i henyhẽ rupi
         Mokõihávape.
 third-party-icon-unsigned =
-    .title = Ko ha’ãha noñemboheraguapýi
     .alt = Ko ha’ãha noñemboheraguapýi
+    .title = Ko ha’ãha noñemboheraguapýi
 third-party-icon-warning =
-    .title = { -brand-short-name } ojavy pe ayvu ko ta’ãha pegua
     .alt = { -brand-short-name } ojavy pe ayvu ko ta’ãha pegua
+    .title = { -brand-short-name } ojavy pe ayvu ko ta’ãha pegua
 third-party-status-loaded = Henyhẽva
 third-party-status-blocked = Jokopyre
 third-party-status-redirected = Ñembohapejey
@@ -46,30 +46,17 @@ third-party-button-reload = Emyanyhẽjey apopyvusu marandu ndive
     .title = Emyanyhẽjey apopyvusu marandu ndive
 third-party-button-open =
     .title = Embojuruja moñe’ẽasa marandurendápe…
-third-party-button-to-block =
-    .title = Ejoko ko ta’ãha
-    .aria-label = Ejoko ko ta’ãha
-third-party-button-to-unblock =
-    .title = Ko’ág̃a ojejoko. Eikutu embojuruja hag̃ua.
-    .aria-label = Ko’ág̃a ojejoko. Eikutu embojuruja hag̃ua.
-third-party-button-to-unblock-disabled =
-    .title =
-        Ko’ag̃aite ojejokohína, jepémo pe tysýi jejokoha ndaijurujái ko tembiapo
-        { -brand-short-name }-pe g̃uarã. Eikutu embojuruja hag̃ua.
-    .aria-label =
-        Ko’ag̃aite ojejokohína, jepémo pe tysýi jejokoha ndaijurujái ko tembiapo
-        { -brand-short-name }-pe g̃uarã. Eikutu embojuruja hag̃ua.
 third-party-button-to-block-module = Ejoko ko ta’ãha
-    .title = Ejoko ko ta’ãha
     .aria-label = Ejoko ko ta’ãha
+    .title = Ejoko ko ta’ãha
 third-party-button-to-unblock-module = Embojuruja ko ta’ãha
-    .title = Ojejokohína. Eikutu embojuruja hag̃ua.
     .aria-label = Ojejokohína. Eikutu embojuruja hag̃ua.
+    .title = Ojejokohína. Eikutu embojuruja hag̃ua.
 third-party-button-to-unblock-module-disabled = Embojuruja ko ta’ãha (jokoha rysýi nodikói ko’ág̃a)
-    .title =
+    .aria-label =
         Ko’ág̃aite ojejokohína, pe jokoha rysýi ojejokóramo jepe ko ko tembiapópe g̃uarã
          { -brand-short-name } rehegua. Eikutu embojuruja hag̃ua.
-    .aria-label =
+    .title =
         Ko’ág̃aite ojejokohína, pe jokoha rysýi ojejokóramo jepe ko ko tembiapópe g̃uarã
          { -brand-short-name } rehegua. Eikutu embojuruja hag̃ua.
 third-party-button-expand =
@@ -81,5 +68,5 @@ third-party-should-restart-title = Emoñepyrũjey { -brand-short-name }
 third-party-restart-now = Emoñepyrũjey ko’ág̃a
 third-party-restart-later = Emoñepyrũjey ag̃ave
 third-party-blocked-by-builtin =
-    .title = Ojokopyre { -brand-short-name }
     .alt = Ojokopyre { -brand-short-name }
+    .title = Ojokopyre { -brand-short-name }

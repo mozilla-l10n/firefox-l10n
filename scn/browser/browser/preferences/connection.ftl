@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Mpustazzioni di cunnissiuni
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Mpustazzioni di cunnissiuni
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -51,14 +51,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Càrrica arrè
     .accesskey = C
-connection-proxy-autologin =
-    .label = Nun spiari l’autenticazziuni si a palora d’accessu è sarbata
-    .accesskey = i
-    .tooltip = Sta pussibbilità ti fa autinticari tranquillamenti nnê proxy si sarbasti i so cridinziali. Si l’autenticazziuni fallisci ti veni spiatu.
 connection-proxy-autologin-checkbox =
     .label = Nun spijari pi l’autinticazzioni si a chiavi è sarbata
-    .accesskey = i
     .tooltiptext = Sta mpustazzioni ti fa autinticari direttu nnê proxy si sarbasti i cridinziali. Ti veni spijatu u stissu si l’autinticazzioni sfallisci.
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = DNS dû proxy si si usa SOCKS v5
     .accesskey = D
@@ -69,6 +65,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Usa l’URL pridifinutu p’arrisòrbiri u DNS nne HTTPS
 connection-dns-over-https-url-custom =
     .label = Pirsunalizza
-    .accesskey = P
     .tooltiptext = Nzita l’URL ca prifirisci p’arrisòrbiri u DNS nne HTTPS
-connection-dns-over-https-custom-label = Pirsunalizza
+    .accesskey = P

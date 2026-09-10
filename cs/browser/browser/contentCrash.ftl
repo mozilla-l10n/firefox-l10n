@@ -26,14 +26,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Máte neodeslané hlášení o pádu
-        [few] Máte { $reportCount } neodeslaná hlášení o pádu
-       *[other] Máte { $reportCount } neodeslaných hlášení o pádu
-    }
 pending-crash-reports-view-all =
     .label = Zobrazit
 pending-crash-reports-send =
@@ -48,15 +40,6 @@ requested-crash-reports-message-new =
         [few] Máte { $reportCount } neodeslaná hlášení o pádech týkající se pádu, který řešíme. Jejich odeslání nám pomůže { -brand-product-name } zlepšit. Zavřením tohoto oznámení bude toto hlášení ignorováno.
         [many] Máte { $reportCount } neodeslaných hlášení o pádech týkající se pádu, který řešíme. Jejich odeslání nám pomůže { -brand-product-name } zlepšit. Zavřením tohoto oznámení bude toto hlášení ignorováno.
        *[other] Máte { $reportCount } neodeslaných hlášení o pádech týkající se pádu, který řešíme. Jejich odeslání nám pomůže { -brand-product-name } zlepšit. Zavřením tohoto oznámení bude toto hlášení ignorováno.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Máte neodeslané hlášení o pádu, které odpovídá prošetřovaným pádům. Jeho odesláním nám pomůžete vylepšit aplikaci { -brand-product-name }. Zavřením tohoto oznámení bude toto hlášení ignorováno.
-        [few] Máte { $reportCount } neodeslaná hlášení o pádu, která odpovídají prošetřovaným pádům. Jejich odesláním nám pomůžete vylepšit aplikaci { -brand-product-name }. Zavřením tohoto oznámení budou tato hlášení ignorována.
-        [many] Máte { $reportCount } neodeslaných hlášení o pádu, která odpovídají prošetřovaným pádům. Jejich odesláním nám pomůžete vylepšit aplikaci { -brand-product-name }. Zavřením tohoto oznámení budou tato hlášení ignorována.
-       *[other] Máte { $reportCount } neodeslaných hlášení o pádu, která odpovídají prošetřovaným pádům. Jejich odesláním nám pomůžete vylepšit aplikaci { -brand-product-name }. Zavřením tohoto oznámení budou tato hlášení ignorována.
     }
 requested-crash-reports-dont-show-again =
     .label = Znovu nezobrazovat

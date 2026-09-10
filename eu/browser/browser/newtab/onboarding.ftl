@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Gehitu { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Aurrerapena: { $current } / { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -199,11 +193,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Ainguratu { -brand-short-name } ataza-barran eta Hasi menuan
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Hasi irabazi-asmorik gabeko batek babesten duen nabigatzaile batekin. Zure pribatutasuna babesten dugu weba arakatzen duzun bitartean.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -233,57 +222,10 @@ mr2022-onboarding-set-default-subtitle = Erabili irabazi-asmorik gabeko batek ba
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Gure azken bertsioa zure inguruan dago eraikia, inoiz baino errazagoa eginez weba arakatzea. Gure ustez oso gustuko izango dituzun hainbat eginbide ditu.
 mr2022-onboarding-get-started-primary-button-label = Konfiguratu segundotan
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Konfigurazio azkarra
-mr2022-onboarding-import-subtitle = Konfiguratu { -brand-short-name } zure gustura. Gehitu zure laster-markak, pasahitzak eta gehiago zure nabigatzaile zaharretik.
 mr2022-onboarding-import-primary-button-label-no-attribution = Inportatu aurreko nabigatzailetik
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Aukeratu inspiratzen zaituen kolorea
-mr2022-onboarding-colorway-subtitle = Ahots independenteek kultura alda dezakete.
-mr2022-onboarding-colorway-primary-button-label-continue = Ezarri eta jarraitu
-mr2022-onboarding-existing-colorway-checkbox-label = Egizu { -firefox-home-brand-name } zure hasiera-orri koloretsua
-mr2022-onboarding-colorway-label-default = Lehenetsia
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Uneko { -brand-short-name } koloreak
-mr2022-onboarding-colorway-description-default = <b>Erabili uneko nire { -brand-short-name } koloreak.</b>
-mr2022-onboarding-colorway-label-playmaker = Sortzailea
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Sortzailea (gorria)
-mr2022-onboarding-colorway-description-playmaker = <b>Sortzailea zara.</b> Aukerak sortzen dituzu zure ingurukoei beraien maila igotzen laguntzeko.
-mr2022-onboarding-colorway-label-expressionist = Espresionista
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Espresionista (horia)
-mr2022-onboarding-colorway-description-expressionist = <b>Espresionista zara.</b> Mundua beste era batera ikusten duzu eta zure sormenek emozioak eragiten dituzte besteengan.
-mr2022-onboarding-colorway-label-visionary = Etorkizun senekoa
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Etorkizun senekoa (berdea)
-mr2022-onboarding-colorway-description-visionary = <b>Etorkizun senekoa zara.</b> Zalantzan jartzen duzu gauzak dauden moduan egotea eta etorkizun hobeagoa imajinatzera bultzatzen dituzu besteak.
-mr2022-onboarding-colorway-label-activist = Aktibista
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Aktibista (urdina)
-mr2022-onboarding-colorway-description-activist = <b>Aktibista zara.</b> Aurkitutakoa baino toki hobe gisa uzten duzu mundua eta besteak sinistera bultzatzen dituzu.
-mr2022-onboarding-colorway-label-dreamer = Ameslaria
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Ameslaria (morea)
-mr2022-onboarding-colorway-description-dreamer = <b>Ameslaria zara.</b> Sinisten duzu aberastasunak ausarten alde egiten duela eta besteei adoretsu izatera bultzatzen diela.
-mr2022-onboarding-colorway-label-innovator = Berritzailea
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Berritzailea (laranja)
-mr2022-onboarding-colorway-description-innovator = <b>Berritzailea zara.</b> Aukerak ikusten dituzu edonon eta zure ingurukoen bizitzengan eragiten duzu.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Egin salto ordenagailu eramangarritik telefonora eta atzera
-mr2022-onboarding-mobile-download-subtitle = Hartu fitxak gailu batetik eta beste gailu batean jarraitu utzi zenuen tokitik. Gainera, sinkronizatu zure laster-markak eta pasahitzak { -brand-product-name } erabiltzen duzun toki orotan.
 mr2022-onboarding-mobile-download-cta-text = Eskaneatu QR kodea mugikorrerako { -brand-product-name } lortzeko edo <a data-l10n-name="download-label">bidal iezaiozu deskarga-lotura zure buruari.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Eskaneatu QR kodea mugikorrerako { -brand-product-name } lortzeko.
 
@@ -336,15 +278,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Azal argi eta iluneko eskuek elkarri bostekoa ematen diote
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Ilunabarraren ikuspegia leiho-ertzean azeri bat eta etxeko landare bat dituen leihotik barrena
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Eskuko esprai batek collage koloretsua margotzen du: begi berdea, zapata laranja, saskibaloi gorria, entzungailu moreak, bihotz urdina eta koroa horia
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Azeria ordenagailu eramangarri baten pantailan eskuaz agur eginez. Ordenagailu eramangarriak sagua entxufatuta dauka.
 onboarding-device-migration-title = Ongi etorri!
-onboarding-device-migration-subtitle = Hasi saioa { -fxaccount-brand-name(capitalization: "sentence") } kontuan zure laster-markak, pasahitzak eta historia alboan eramateko zure gailu berrira.
 onboarding-device-migration-subtitle2 = Hasi saioa kontuan zure laster-markak, pasahitzak eta historia alboan eramateko zure gailu berrira.
 onboarding-device-migration-primary-button-label = Hasi saioa
 
@@ -461,15 +400,12 @@ tab-groups-onboarding-feature-callout-title = Probatu fitxa-taldeak soberan dago
 tab-groups-onboarding-feature-callout-subtitle = Antolatu goian dagoen fitxa bat beste batera arrastatuz eta zure lehen taldea sortuz.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Aurkitu zure fitxa-taldeak edonoiz 'Zerrendatu fitxa guztiak' menu-aukeran.
-tab-groups-onboarding-create-group-title-2 = Aurkitu hemen zure fitxa-taldeak edonoiz.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Aurkitu zure taldeak helbide-barran bilaketa eginez.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Fitxa-taldeak talde bat ixtean, ireki ezazu berriro 'Zerrendatu fitxa guztiak' menu-aukeran.
-tab-groups-onboarding-saved-groups-title-2 = Fitxa-talde bat ixtean, hemen berrireki dezakezu edonoiz.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Aurkitu itxitako zure taldeak helbide-barran bilaketa eginez.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Ireki berriro zure fitxa-taldeak edonoiz 'Zerrendatu fitxa guztiak' menu-aukeran.
-tab-groups-onboarding-session-restore-title = Ireki berriro hemen zure fitxa-taldeak edonoiz.
 tab-groups-onboarding-dismiss = Ados
 
 ## Multi Profiles feature onboarding messages

@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Thêm { $extension }?
-webext-perms-header-with-perms = Thêm { $extension }? Tiện ích mở rộng này sẽ có quyền:
-webext-perms-header-unsigned = Thêm { $extension }? Tiện ích mở rộng này chưa được xác minh. Các tiện ích mở rộng độc hại có thể lấy cắp thông tin cá nhân của bạn hoặc xâm phạm máy tính của bạn. Chỉ thêm nó nếu bạn tin tưởng.
-webext-perms-header-unsigned-with-perms = Thêm { $extension }? Tiện ích mở rộng này chưa được xác minh. Các tiện ích mở rộng độc hại có thể lấy cắp thông tin cá nhân của bạn hoặc xâm phạm máy tính của bạn. Chỉ thêm nó nếu bạn tin tưởng. Tiện ích mở rộng này sẽ có quyền:
 webext-perms-sideload-header = { $extension } được thêm vào
 webext-perms-optional-perms-header2 = { $extension } yêu cầu bổ sung quyền hạn.
-webext-perms-optional-perms-header = { $extension } yêu cầu thêm các quyền.
 webext-perms-header2 = Thêm { $extension }
 webext-perms-list-intro-unsigned = Tiện ích mở rộng chưa được xác minh này có thể gây nguy hiểm cho quyền riêng tư của bạn hoặc làm hỏng thiết bị của bạn. Chỉ thêm tiện ích mở rộng này nếu bạn tin tưởng nguồn.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } đã được cập nhật. Bạn phải chấp thuận các quyền mới trước khi phiên bản cập nhật được cài đặt. Chọn “Hủy” sẽ duy trì phiên bản tiện ích mở rộng hiện tại của bạn.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } đã được cập nhật. Bạn phải phê duyệt các quyền mới trước khi phiên bản cập nhật sẽ cài đặt. Chọn “Hủy bỏ” sẽ duy trì phiên bản tiện ích mở rộng hiện tại của bạn. Tiện ích mở rộng này sẽ có quyền:
 webext-perms-update-accept =
     .label = Cập nhật
     .accesskey = U
@@ -73,16 +65,8 @@ webext-perms-host-description-file-urls = Truy cập các tập tin cục bộ t
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Truy cập dữ liệu của bạn trên trang { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards = Truy cập dữ liệu của bạn trong { $domainCount } tên miền khác
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Truy cập dữ liệu của bạn từ { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites = Truy cập dữ liệu của bạn trên { $domainCount } trang khác
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

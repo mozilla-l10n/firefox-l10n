@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Νέα καρτέλα
-newtab-settings-button =
-    .title = Προσαρμογή της σελίδας Νέας Καρτέλας
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Προσαρμογή σελίδας
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = Προσαρμογή
 newtab-customize-panel-label =
     .label = Προσαρμογή
-newtab-personalize-settings-icon-label =
-    .aria-label = Ρυθμίσεις
-    .title = Εξατομίκευση νέας καρτέλας
 newtab-settings-dialog-label =
     .aria-label = Ρυθμίσεις
-newtab-personalize-icon-label =
-    .aria-label = Εξατομίκευση νέας καρτέλας
-    .title = Εξατομίκευση νέας καρτέλας
-newtab-personalize-dialog-label =
-    .aria-label = Εξατομίκευση
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
@@ -522,7 +512,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Προσθήκη μηχανής αναζήτησης
 newtab-topsites-add-shortcut-header = Νέα συντόμευση
-newtab-topsites-edit-topsites-header = Επεξεργασία κορυφαίου ιστοτόπου
 newtab-topsites-edit-shortcut-header = Επεξεργασία συντόμευσης
 newtab-topsites-add-shortcut-label = Προσθήκη συντόμευσης
 newtab-topsites-add-shortcut-title =
@@ -592,20 +581,12 @@ newtab-topsites-hover-card-dismiss =
 newtab-menu-section-tooltip =
     .aria-label = Άνοιγμα μενού
     .title = Άνοιγμα μενού
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Αφαίρεση
-    .title = Αφαίρεση
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Άνοιγμα μενού επιλογών για το { $title }
     .title = Άνοιγμα μενού
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Επεξεργασία ιστοτόπου
-    .title = Επεξεργασία ιστοτόπου
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -617,11 +598,7 @@ newtab-menu-dismiss = Απόρριψη
 newtab-menu-pin = Καρφίτσωμα
 newtab-menu-unpin = Ξεκαρφίτσωμα
 newtab-menu-delete-history = Διαγραφή από ιστορικό
-newtab-menu-save-to-pocket = Αποθήκευση στο { -pocket-brand-name }
-newtab-menu-delete-pocket = Διαγραφή από το { -pocket-brand-name }
-newtab-menu-archive-pocket = Αρχειοθέτηση στο { -pocket-brand-name }
 newtab-menu-show-privacy-info = Οι χορηγοί μας και το απόρρητό σας
-newtab-menu-about-fakespot = Σχετικά με το { -fakespot-brand-name }
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Αναφορά
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -632,27 +609,12 @@ newtab-menu-section-block = Φραγή
 newtab-menu-section-unfollow-topic = Άρση παρακολούθησης
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Μάθετε περισσότερα
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = Άρση παρακολούθησης θέματος
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = Διαχείριση χορηγούμενου περιεχομένου
 newtab-menu-our-sponsors-and-your-privacy = Οι χορηγοί μας και το απόρρητό σας
 newtab-menu-report-this-ad = Αναφορά διαφήμισης
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Τέλος
-newtab-privacy-modal-button-manage = Διαχείριση ρυθμίσεων χορηγούμενου περιεχομένου
-newtab-privacy-modal-header = Το απόρρητό σας έχει σημασία.
-newtab-privacy-modal-paragraph-2 =
-    Εκτός από την παράδοση μαγευτικών ιστοριών, σας εμφανίζουμε σχετικό,
-    υψηλής ποιότητας περιεχόμενο από επιλεγμένους χορηγούς. Μην ανησυχείτε, <strong>τα δεδομένα
-    περιήγησής σας δεν φεύγουν ποτέ από το προσωπικό σας αντίγραφο του { -brand-product-name }</strong> — δεν τα βλέπουμε ούτε εμείς, ούτε
-    οι χορηγοί μας.
-newtab-privacy-modal-link = Μάθετε πώς λειτουργεί το απόρρητο στη νέα καρτέλα
 
 ##
 
@@ -708,31 +670,12 @@ newtab-label-sponsored-fixed = Χορηγία
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Αφαίρεση ενότητας
-newtab-section-menu-collapse-section = Σύμπτυξη ενότητας
-newtab-section-menu-expand-section = Επέκταση ενότητας
-newtab-section-menu-manage-section = Διαχείριση ενότητας
-newtab-section-menu-manage-webext = Διαχείριση επέκτασης
-newtab-section-menu-add-topsite = Προσθήκη κορυφαίου ιστοτόπου
-newtab-section-menu-add-search-engine = Προσθήκη μηχανής αναζήτησης
-newtab-section-menu-move-up = Μετακίνηση πάνω
-newtab-section-menu-move-down = Μετακίνηση κάτω
 newtab-section-menu-privacy-notice = Δήλωση απορρήτου
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Σύμπτυξη ενότητας
-newtab-section-expand-section-label =
-    .aria-label = Επέκταση ενότητας
 
 ## Section Headers.
 
 newtab-section-header-topsites = Κορυφαίοι ιστότοποι
 newtab-section-header-recent-activity = Πρόσφατη δραστηριότητα
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Προτάσεις του { $provider }
 newtab-section-header-stories = Άρθρα που σας βάζουν σε σκέψεις
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = Σημερινές επιλογές για εσάς
@@ -740,10 +683,6 @@ newtab-section-header-todays-picks = Σημερινές επιλογές για 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Ξεκινήστε την περιήγηση και θα σας δείξουμε μερικά υπέροχα άρθρα, βίντεο και άλλες σελίδες που έχετε επισκεφθεί πρόσφατα ή έχετε προσθέσει στους σελιδοδείκτες σας.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Δεν υπάρχει κάτι νεότερο. Ελέγξτε αργότερα για περισσότερα άρθρα από το { $provider }. Δεν μπορείτε να περιμένετε; Διαλέξτε κάποιο από τα δημοφιλή θέματα και ανακαλύψτε ενδιαφέροντα άρθρα από όλο το διαδίκτυο.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = Δεν υπάρχει κάτι νεότερο. Ελέγξτε αργότερα για περισσότερα άρθρα. Δεν μπορείτε να περιμένετε; Επιλέξτε κάποιο δημοφιλές θέμα και βρείτε ακόμα περισσότερα ενδιαφέροντα άρθρα από όλο το διαδίκτυο.
 
@@ -777,39 +716,6 @@ newtab-carousel-pause =
 newtab-carousel-play =
     .aria-label = Συνέχιση αυτόματης αναπαραγωγής
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Δημοφιλή θέματα:
-newtab-pocket-new-topics-title = Θέλετε περισσότερα άρθρα; Δείτε αυτά τα δημοφιλή θέματα από το { -pocket-brand-name }
-newtab-pocket-more-recommendations = Περισσότερες προτάσεις
-newtab-pocket-learn-more = Μάθετε περισσότερα
-newtab-pocket-cta-button = Αποκτήστε το { -pocket-brand-name }
-newtab-pocket-cta-text = Αποθηκεύστε τα άρθρα που σας αρέσουν στο { -pocket-brand-name } και τροφοδοτήστε το μυαλό σας με εκπληκτικά κείμενα.
-newtab-pocket-pocket-firefox-family = Το { -pocket-brand-name } ανήκει στην οικογένεια του { -brand-product-name }
-newtab-pocket-save = Αποθήκευση
-newtab-pocket-saved = Αποθηκεύτηκε
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = Περισσότερα σαν κι αυτό
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = Όχι για μένα
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = Ευχαριστούμε. Τα σχόλιά σας θα μας βοηθήσουν να βελτιώσουμε τη ροή σας.
-newtab-toast-dismiss-button =
-    .aria-label = Απόρριψη
-    .title = Απόρριψη
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = Ανακαλύψτε τα καλύτερα του διαδικτύου
-newtab-pocket-onboarding-cta = Το { -pocket-brand-name } εξερευνά μια μεγάλη γκάμα εκδόσεων για να μεταφέρει το πιο ενημερωτικό, εμπνευσμένο και αξιόπιστο περιεχόμενο στο πρόγραμμα περιήγησης { -brand-product-name } σας.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -818,8 +724,6 @@ newtab-error-fallback-refresh-link = Ανανεώστε τη σελίδα για
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Συντομεύσεις
-newtab-custom-shortcuts-subtitle = Ιστότοποι από σελιδοδείκτες ή ιστορικό
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Ιστότοποι από σελιδοδείκτες ή ιστορικό
@@ -840,16 +744,6 @@ newtab-custom-row-selector2 =
             [one] { $num } σειρά
            *[other] { $num } σειρές
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } σειρά
-       *[other] { $num } σειρές
-    }
-newtab-custom-sponsored-sites = Χορηγούμενες συντομεύσεις
-newtab-custom-pocket-title = Προτείνεται από το { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Εξαιρετικό περιεχόμενο από το { -pocket-brand-name }, μέρος της οικογένειας του { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = Εξαιρετικό περιεχόμενο από την οικογένεια του { -brand-product-name }
@@ -861,10 +755,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = Εξατομικευμένα άρθρα με βάση τη δραστηριότητά σας
 newtab-custom-stories-personalized-checkbox-label = Εξατομικευμένα άρθρα με βάση τη δραστηριότητά σας
-newtab-custom-pocket-sponsored = Χορηγούμενα άρθρα
-newtab-custom-pocket-show-recent-saves = Εμφάνιση πρόσφατων αποθηκεύσεων
-newtab-custom-recent-title = Πρόσφατη δραστηριότητα
-newtab-custom-recent-subtitle = Συλλογή πρόσφατων ιστοτόπων και περιεχομένου
 newtab-custom-weather-toggle =
     .description = Σημερινή πρόγνωση με μια ματιά
     .label = Καιρός
@@ -896,7 +786,6 @@ newtab-widget-manage-widget-button =
 newtab-custom-close-menu-button =
     .aria-label = Κλείσιμο μενού
     .title = Κλείσιμο
-newtab-custom-close-button = Κλείσιμο
 newtab-custom-settings = Διαχείριση περισσότερων ρυθμίσεων
 
 ## Customization Menu
@@ -945,7 +834,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Η εικόνα υπερέβη το όριο μεγέθους των { $file_size }MB. Δοκιμάστε να μεταφορτώσετε ένα μικρότερο αρχείο.
 newtab-wallpaper-error-upload-file-type = Δεν ήταν δυνατή η μεταφόρτωση του αρχείου σας. Δοκιμάστε ξανά με ένα άλλο αρχείο εικόνας.
-newtab-wallpaper-error-file-type = Δεν ήταν δυνατή η μεταφόρτωση του αρχείου σας. Δοκιμάστε ξανά με έναν άλλο τύπο αρχείου.
 newtab-wallpaper-light-red-panda = Κόκκινο πάντα
 newtab-wallpaper-light-mountain = Λευκό βουνό
 newtab-wallpaper-light-sky = Ουρανός με μοβ και ροζ σύννεφα
@@ -1059,16 +947,20 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 newtab-wallpaper-firefox-orange = Μια αλεπού στη δεξιά άκρη με πορτοκαλί φόντο
 newtab-wallpaper-firefox-colorful-sky = Πορτοκαλί κύματα σε έναν μοβ νυχτερινό ουρανό
 newtab-wallpaper-firefox-desert-dark = Μια αλεπού καθισμένη σε μια σκούρα μοβ έρημο
 newtab-wallpaper-firefox-desert-light = Μια αλεπού που τρέχει σε μια ανοιχτόχρωμη έρημο
 newtab-wallpaper-firefox-hills-dark = Μια αλεπού που τρέχει πάνω από σκουρόχρωμους λόφους
 newtab-wallpaper-firefox-hills-light = Μια αλεπού που τρέχει πάνω από ανοιχτόχρωμους λόφους
+newtab-wallpaper-firefox-tail-dark = Η ουρά μιας αλεπούς σε σκουρόχρωμο φόντο
+newtab-wallpaper-firefox-tail-light = Η ουρά μιας αλεπούς σε ανοιχτόχρωμο φόντο
+newtab-wallpaper-firefox-side-kit-dark = Μια αλεπού στα αριστερά, σε σκουρόχρωμο φόντο
+newtab-wallpaper-firefox-side-kit-light = Μια αλεπού στα αριστερά, σε ανοιχτόχρωμο φόντο
+newtab-wallpaper-firefox-sitting-hill-dark = Μια αλεπού καθισμένη σε σκούρους μοβ λόφους
 newtab-wallpaper-firefox-sitting-hill-light = Μια αλεπού καθισμένη σε ανοιχτόχρωμους λόφους
+newtab-wallpaper-firefox-peak-dark = Το πρόσωπο μιας αλεπούς στην αριστερή άκρη, σε σκουρόχρωμο φόντο
+newtab-wallpaper-firefox-peak-light = Το πρόσωπο μιας αλεπούς στην αριστερή άκρη, σε ανοιχτόχρωμο φόντο
 newtab-wallpaper-firefox-sky-dark = Σκούροι μοβ λόφοι κάτω από τον νυχτερινό ουρανό
 newtab-wallpaper-firefox-sky-light = Ανοιχτόχρωμοι λόφοι κάτω από τον γαλήνιο ουρανό
 
@@ -1091,10 +983,6 @@ newtab-wallpaper-celestial-river = Δορυφορική εικόνα ποταμ�
 
 ## New Tab Weather
 
-# Variables:
-#   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = Προβολή πρόγνωσης στο { $provider }
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Χορηγία
@@ -1123,7 +1011,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Φαρενάιτ
 newtab-weather-menu-temperature-option-celsius = Κελσίου
 newtab-weather-menu-change-temperature-units-fahrenheit = Εναλλαγή σε Φαρενάιτ
 newtab-weather-menu-change-temperature-units-celsius = Εναλλαγή σε Κελσίου
-newtab-weather-menu-hide-weather = Απόκρυψη καιρού στη νέα καρτέλα
 newtab-weather-menu-learn-more = Μάθετε περισσότερα
 newtab-weather-menu-detect-my-location = Εντοπισμός τοποθεσίας
 # This message is shown if user is working offline
@@ -1244,7 +1131,6 @@ newtab-section-unblock-topic =
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = Όχι τώρα
 newtab-section-confirm-block-topic-p1 = Θέλετε σίγουρα να αποκλείσετε αυτό το θέμα;
 newtab-section-confirm-block-topic-p2 = Τα αποκλεισμένα θέματα δεν θα εμφανίζονται πλέον στη ροή σας.
 # Variables:

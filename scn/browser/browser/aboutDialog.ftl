@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Staju scarricannu l’attualizzu — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Staju scarricannu l’attualizzu — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Staju scarricannu l’attualizzu — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Staju appricannu l’attualizzu…
 update-failed = L’attualizzu sfallìu. <label data-l10n-name="failed-link">Scàrrica l’ùrtima virsioni</label>
 update-failed-main = L’attualizzu sfallìu. <a data-l10n-name="failed-link-main">Scàrrica l’ùrtima virsioni</a>
-update-adminDisabled = L’attualizzi foru disabbilitati di l’amministraturi dû sistema
 update-policy-disabled = L’attualizzi foru disabbilitati dâ to urganizzazzioni
 settings-update-policy-disabled =
     .label = L’attualizzi foru disabbilitati dâ to urganizzazzioni
@@ -71,8 +69,6 @@ helpus = Ni voi ajutari? <label data-l10n-name="helpus-donateLink">Fai na dunazz
 bottomLinks-license = Nfurmazzioni ncapu â licenza
 bottom-links-terms = Tèrmini di sirbizzu
 bottom-links-privacy = Abbisu di privatizza
-bottomLinks-rights = Diritti di l’utenti finali
-bottomLinks-privacy = Pulìtica di privatizza
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

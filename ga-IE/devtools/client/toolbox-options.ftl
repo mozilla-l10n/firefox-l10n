@@ -87,8 +87,6 @@ options-context-advanced-settings = Ardsocruithe
 options-disable-http-cache-label = Díchumasaigh an Taisce HTTP (nuair a bhíonn an bosca uirlisí oscailte)
 options-disable-http-cache-tooltip =
     .title = Díchumasaíonn an rogha seo an taisce HTTP do chluaisíní a bhfuil an bosca uirlisí oscailte iontu. Ní théann an rogha seo i bhfeidhm ar Oibrithe Seirbhíse.
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Díchumasaigh JavaScript *
 options-disable-javascript-tooltip =
     .title = Díchumasóidh an rogha seo JavaScript sa chluaisín reatha. Dá ndúnfaí an cluaisín nó an bosca uirlisí, dhéanfaí dearmad ar an socrú seo.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -103,8 +101,6 @@ options-enable-service-workers-http-tooltip =
     .title = Cumasaíonn an rogha seo na hoibrithe seirbhíse thar HTTP i gcluaisíní a bhfuil an bosca uirlisí oscailte iontu.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Cumasaigh Mapaí Foinse
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * An seisiún seo amháin; athlódálann sé an leathanach
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

@@ -18,14 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Ai un raport de defecțiune netrimis
-        [few] Ai { $reportCount } rapoarte de defecțiuni netrimise
-       *[other] Ai { $reportCount } de rapoarte de defecțiuni netrimise
-    }
 pending-crash-reports-view-all =
     .label = Vezi
 pending-crash-reports-send =
@@ -39,14 +31,6 @@ requested-crash-reports-message-new =
         [one] Ai { $reportCount } raport de închidere neașteptată netrimis, legat de erorile investigate de închidere neașteptată. Trimiterea lui ne va ajuta să îmbunătățim { -brand-product-name }. Închiderea acestei notificări va ignora raportul.
         [few] Ai { $reportCount } rapoarte de închidere neașteptată netrimise, legate de erorile investigate de închidere neașteptată. Trimiterea lor ne va ajuta să îmbunătățim { -brand-product-name }. Închiderea acestei notificări va ignora rapoartele.
        *[other] Ai { $reportCount } de rapoarte de închidere neașteptată netrimise, legate de erorile investigate de închidere neașteptată. Trimiterea lor ne va ajuta să îmbunătățim { -brand-product-name }. Închiderea acestei notificări va ignora rapoartele.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Ai un raport de închidere neașteptată netrimis, care corespunde erorilor de închidere neașteptată investigate. Trimiterea lui ne va ajuta să îmbunătățim { -brand-product-name }. Închiderea acestei notificări va ignora raportul.
-        [few] Ai { $reportCount } rapoarte de închidere neașteptată netrimise, care corespund erorilor de închidere neașteptată investigate. Trimiterea lor ne va ajuta să îmbunătățim { -brand-product-name }. Închiderea acestei notificări va ignora rapoartele.
-       *[other] Ai { $reportCount } de rapoarte de închidere neașteptată netrimise, care corespund erorilor de închidere neașteptată investigate. Trimiterea lor ne va ajuta să îmbunătățim { -brand-product-name }. Închiderea acestei notificări va ignora rapoartele.
     }
 requested-crash-reports-dont-show-again =
     .label = Nu mai afișa

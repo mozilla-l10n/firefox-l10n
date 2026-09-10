@@ -119,4 +119,3 @@ certificate-viewer-tab-mine = Dëshmitë Tuaja
 certificate-viewer-tab-people = Persona
 certificate-viewer-tab-servers = Shërbyes
 certificate-viewer-tab-ca = Autoritete
-certificate-viewer-tab-unkonwn = E panjohur

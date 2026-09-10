@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Nov zavihek
-newtab-settings-button =
-    .title = Prilagodite stran novega zavihka
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Prilagodi to stran
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = Prilagodi
 newtab-customize-panel-label =
     .label = Prilagodi
-newtab-personalize-settings-icon-label =
-    .aria-label = Nastavitve
-    .title = Prilagodite stran novega zavihka
 newtab-settings-dialog-label =
     .aria-label = Nastavitve
-newtab-personalize-icon-label =
-    .aria-label = Prilagodite nov zavihek
-    .title = Prilagodite nov zavihek
-newtab-personalize-dialog-label =
-    .aria-label = Prilagodi
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
@@ -495,7 +485,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Dodaj iskalnik
 newtab-topsites-add-shortcut-header = Nova bližnjica
-newtab-topsites-edit-topsites-header = Uredi glavno stran
 newtab-topsites-edit-shortcut-header = Uredi bližnjico
 newtab-topsites-add-shortcut-label = Dodaj bližnjico
 newtab-topsites-add-shortcut-title =
@@ -565,20 +554,12 @@ newtab-topsites-hover-card-dismiss =
 newtab-menu-section-tooltip =
     .aria-label = Odpri meni
     .title = Odpri meni
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Odstrani
-    .title = Odstrani
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Odpri priročni meni za { $title }
     .title = Odpri meni
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Uredi to stran
-    .title = Uredi to stran
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -590,11 +571,7 @@ newtab-menu-dismiss = Skrij
 newtab-menu-pin = Pripni
 newtab-menu-unpin = Odpni
 newtab-menu-delete-history = Izbriši iz zgodovine
-newtab-menu-save-to-pocket = Shrani v { -pocket-brand-name }
-newtab-menu-delete-pocket = Izbriši iz { -pocket-brand-name }a
-newtab-menu-archive-pocket = Arhiviraj v { -pocket-brand-name }
 newtab-menu-show-privacy-info = Naši pokrovitelji in vaša zasebnost
-newtab-menu-about-fakespot = O { -fakespot-brand-name(sklon: "mestnik") }
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Prijavi
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -605,26 +582,12 @@ newtab-menu-section-block = Prepovej
 newtab-menu-section-unfollow-topic = Nehaj slediti
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Več o tem
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = Nehaj slediti temi
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = Upravljanje sponzorirane vsebine
 newtab-menu-our-sponsors-and-your-privacy = Naši pokrovitelji in vaša zasebnost
 newtab-menu-report-this-ad = Prijavi ta oglas
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Končaj
-newtab-privacy-modal-button-manage = Upravljaj nastavitve sponzorirane vsebine
-newtab-privacy-modal-header = Vaša zasebnost je pomembna.
-newtab-privacy-modal-paragraph-2 =
-    Poleg zanimivih zgodb vam pokažemo tudi ustrezne, skrbno izbrane vsebine
-    izbranih pokroviteljev. Zagotavljamo vam, da <strong>vaši podatki o brskanju nikoli
-    ne zapustijo vašega { -brand-product-name }a</strong>. Ne vidimo jih niti mi niti naši pokrovitelji.
-newtab-privacy-modal-link = Spoznajte, kako deluje zasebnost v novem zavihku
 
 ##
 
@@ -680,31 +643,12 @@ newtab-label-sponsored-fixed = Sponzorirano
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Odstrani odsek
-newtab-section-menu-collapse-section = Strni odsek
-newtab-section-menu-expand-section = Razširi odsek
-newtab-section-menu-manage-section = Upravljanje odseka
-newtab-section-menu-manage-webext = Upravljaj razširitev
-newtab-section-menu-add-topsite = Dodaj glavno stran
-newtab-section-menu-add-search-engine = Dodaj iskalnik
-newtab-section-menu-move-up = Premakni gor
-newtab-section-menu-move-down = Premakni dol
 newtab-section-menu-privacy-notice = Obvestilo o zasebnosti
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Strni odsek
-newtab-section-expand-section-label =
-    .aria-label = Razširi odsek
 
 ## Section Headers.
 
 newtab-section-header-topsites = Glavne strani
 newtab-section-header-recent-activity = Nedavna dejavnost
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Priporoča { $provider }
 newtab-section-header-stories = Zgodbe, ki spodbujajo k razmisleku
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = Današnji izbor za vas
@@ -712,10 +656,6 @@ newtab-section-header-todays-picks = Današnji izbor za vas
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Začnite z brskanjem, mi pa vam bomo tu prikazovali odlične članke, videoposnetke ter druge strani, ki ste jih nedavno obiskali ali shranili med zaznamke.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Zdaj ste seznanjeni z novicami. Vrnite se pozneje in si oglejte nove prispevke iz { $provider }. Komaj čakate? Izberite priljubljeno temo in odkrijte več velikih zgodb na spletu.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = Zdaj ste seznanjeni z novicami. Vrnite se pozneje in si oglejte nove prispevke. Komaj čakate? Izberite priljubljeno temo in odkrijte več velikih zgodb na spletu.
 
@@ -749,39 +689,6 @@ newtab-carousel-pause =
 newtab-carousel-play =
     .aria-label = Nadaljuj samodejno predvajanje
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Priljubljene teme:
-newtab-pocket-new-topics-title = Želite še več zgodb? Oglejte si najbolj priljubljene teme iz storitve { -pocket-brand-name }
-newtab-pocket-more-recommendations = Več priporočil
-newtab-pocket-learn-more = Več o tem
-newtab-pocket-cta-button = Prenesi { -pocket-brand-name }
-newtab-pocket-cta-text = Shranite zgodbe, ki jih imate radi, v { -pocket-brand-name }, in napolnite svoje misli z navdušujočim branjem.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je del družine { -brand-product-name }
-newtab-pocket-save = Shrani
-newtab-pocket-saved = Shranjeno
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = Več takšnih
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = Ni zame
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = Hvala. Povratne informacije nam bodo pomagale izboljšati vaš vir.
-newtab-toast-dismiss-button =
-    .aria-label = Skrij
-    .title = Skrij
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = Odkrijte najboljše, kar ponuja splet
-newtab-pocket-onboarding-cta = { -pocket-brand-name } vam iz raznolike palete publikacij prinaša informativno, navdihujočo in zanesljivo vsebino naravnost v brskalnik { -brand-product-name }.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -790,8 +697,6 @@ newtab-error-fallback-refresh-link = Osvežite stran za ponoven poskus.
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Bližnjice
-newtab-custom-shortcuts-subtitle = Strani, ki jih shranite ali obiščete
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Strani, ki jih shranite ali obiščete
@@ -814,18 +719,6 @@ newtab-custom-row-selector2 =
             [few] { $num } vrstice
            *[other] { $num } vrstic
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } vrstica
-        [two] { $num } vrstici
-        [few] { $num } vrstice
-       *[other] { $num } vrstic
-    }
-newtab-custom-sponsored-sites = Bližnjice oglaševalcev
-newtab-custom-pocket-title = Priporoča { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Izjemna vsebina, ki jo pripravlja { -pocket-brand-name }, del družine { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = Izjemna vsebina, ki jo pripravlja družina { -brand-product-name }
@@ -837,10 +730,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = Zgodbe, izbrane na podlagi vaše dejavnosti
 newtab-custom-stories-personalized-checkbox-label = Zgodbe, izbrane na podlagi vaše dejavnosti
-newtab-custom-pocket-sponsored = Zgodbe oglaševalcev
-newtab-custom-pocket-show-recent-saves = Prikaži nedavno shranjene strani
-newtab-custom-recent-title = Nedavna dejavnost
-newtab-custom-recent-subtitle = Izbor nedavnih spletnih mest in vsebin
 newtab-custom-weather-toggle =
     .description = Današnja napoved vedno na očeh
     .label = Vreme
@@ -872,7 +761,6 @@ newtab-widget-manage-widget-button =
 newtab-custom-close-menu-button =
     .aria-label = Zapri meni
     .title = Zapri
-newtab-custom-close-button = Zapri
 newtab-custom-settings = Več nastavitev
 
 ## New Tab Appearance (browser theme picker)
@@ -914,7 +802,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Največja dovoljena velikost slike je { $file_size } MB. Poskusite naložiti manjšo datoteko.
 newtab-wallpaper-error-upload-file-type = Datoteke ni bilo mogoče naložiti. Poskusite znova s slikovno datoteko.
-newtab-wallpaper-error-file-type = Datoteke ni bilo mogoče naložiti. Poskusite znova z drugo vrsto datoteke.
 newtab-wallpaper-light-red-panda = Mačji panda
 newtab-wallpaper-light-mountain = Bela gora
 newtab-wallpaper-light-sky = Nebo z vijoličastimi in rožnatimi oblaki
@@ -1051,10 +938,6 @@ newtab-wallpaper-celestial-river = Satelitski posnetek reke
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = Prikaži napoved v storitvi { $provider }
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponzorirano
 newtab-weather-menu-change-location = Spremeni lokacijo
 newtab-weather-change-location-search-input-placeholder =
@@ -1081,7 +964,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celzij
 newtab-weather-menu-change-temperature-units-fahrenheit = Preklopi na stopinje Fahrenheita
 newtab-weather-menu-change-temperature-units-celsius = Preklopi na stopinje Celzija
-newtab-weather-menu-hide-weather = Skrij vreme na novem zavihku
 newtab-weather-menu-learn-more = Več o tem
 newtab-weather-menu-detect-my-location = Zaznaj mojo lokacijo
 # This message is shown if user is working offline
@@ -1202,7 +1084,6 @@ newtab-section-unblock-topic =
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = Ne zdaj
 newtab-section-confirm-block-topic-p1 = Ali ste prepričani, da želite blokirati to temo?
 newtab-section-confirm-block-topic-p2 = Blokirane teme se ne bodo več prikazovale v vašem viru.
 # Variables:

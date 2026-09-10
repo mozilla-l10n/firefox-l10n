@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Du befinder dig for øjeblikket i FIPS-til
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Nulstil hovedadgangskode
     .style = min-width: 40em
+    .title = Nulstil hovedadgangskode
 reset-password-button-label =
     .label = Nulstil
 reset-primary-password-text = Hvis du nulstiller din hovedadgangskode, vil alle dine gemte websteds- og mail-adgangskoder, personlige certifikater og private nøgler blive glemt. Er du sikker på, at du vil nulstille din hovedadgangskode?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Din hovedadgangskode er blevet nuls
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Henter certifikat
     .style = min-width: 46em
+    .title = Henter certifikat
 download-cert-message = Du er blevet bedt om at stole på en ny certifikatautoritet (CA).
 download-cert-trust-ssl =
     .label = Stol på denne CA til at identificere websteder.
@@ -52,8 +52,6 @@ download-cert-view-text = Undersøg CA-certifikat
 
 client-auth-window =
     .title = Vælg brugeridentifikation
-client-auth-site-description = Dette websted har bedt om, at du identificerer dig selv med et certifikat:
-client-auth-choose-cert = Vælg et certifikat, der skal vises som identifikation:
 client-auth-send-no-certificate =
     .label = Send ikke et certifikat
 # Variables:
@@ -100,9 +98,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Adgangskode for sikkerhedskopi af certifikat (igen):
 set-password-reminder = Vigtigt: Hvis du glemmer din adgangskode, vil du ikke kunne gendanne denne sikkerhedskopi senere.  Gem den et sikkert sted.
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Udfør autentificering til token "{ $tokenName }". Det afhænger af token, hvordan det skal gøres (fx ved at bruge en fingeraftrykslæser eller indtaste en kode med et tastatur).

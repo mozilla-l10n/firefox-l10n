@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = Επεκτάσεις και θέματα
 appmenuitem-extensions =
     .label = Επεκτάσεις
-appmenuitem-addons-and-themes =
-    .label = Πρόσθετα και θέματα
 appmenuitem-print =
     .label = Εκτύπωση…
 appmenuitem-find-in-page =
@@ -154,7 +152,6 @@ fxa-menu-get-firefox-mobile =
     .label = Απόκτηση του { -brand-product-name } για Android ή iOS
 fxa-menu-secure-sync-subpanel =
     .title = Ασφαλής συγχρονισμός
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Λογαριασμός
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -176,15 +173,6 @@ appmenuitem-save-page =
     .label = Αποθήκευση σελίδας ως…
 appmenuitem-fxa-sync-off-title = Ο συγχρονισμός είναι ανενεργός
 appmenuitem-fxa-sync-off-description = Προστατέψτε και χρησιμοποιήστε τους σελιδοδείκτες, τους κωδικούς πρόσβασης και πολλά άλλα, οπουδήποτε.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Τι νέο υπάρχει
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Ειδοποίηση για νέες λειτουργίες
-    .accesskey = λ
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -326,8 +314,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Πληροφορίες επίλυσης προβλημάτων
     .accesskey = Π
-appmenu-help-report-site-issue =
-    .label = Αναφορά ζητήματος ιστοτόπου…
 appmenu-help-share-ideas =
     .label = Κοινοποίηση ιδεών και σχολίων…
     .accesskey = Κ
@@ -393,7 +379,6 @@ appmenuitem-vpn-description5 = Αποκτήστε επιπλέον προστα�
 appmenuitem-vpn-title-signed-in1 = Λήψη του { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Λάβετε προστασία για ολόκληρη τη συσκευή
-appmenuitem-vpn-description = Προστατέψτε το διαδικτυακό σας απόρρητο
 appmenu-services-header = Οι υπηρεσίες μου
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -403,7 +388,6 @@ appmenu-other-protection-header3 = Εργαλεία απορρήτου
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Δοκιμάστε άλλα εργαλεία προστασίας από τη Mozilla:
-appmenu-other-protection-header = Δοκιμάστε άλλα εργαλεία προστασίας από τη { -vendor-short-name }:
 
 ## Profiles panel
 

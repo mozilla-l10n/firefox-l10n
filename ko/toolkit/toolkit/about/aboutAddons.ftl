@@ -155,15 +155,10 @@ addon-sitepermission-host = { $host }에 대한 사이트 권한
 
 ## These are global warnings
 
-extensions-warning-safe-mode = 안전 모드에서는 모든 부가 기능을 사용할 수 없습니다.
-extensions-warning-check-compatibility = 부가 기능 호환성 확인 기능을 사용 안 합니다. 호환되지 않는 부가 기능이 있을 수 있습니다.
-extensions-warning-safe-mode2 =
-    .message = 안전 모드에서는 모든 부가 기능을 사용할 수 없습니다.
 extensions-warning-check-compatibility2 =
     .message = 부가 기능 호환성 확인 기능을 사용 안 합니다. 호환되지 않는 부가 기능이 있을 수 있습니다.
 extensions-warning-check-compatibility-button = 사용
     .title = 부가 기능 호환성 확인 기능 사용
-extensions-warning-update-security = 부가 기능 업데이트 보안 확인 기능을 사용 안 합니다. 업데이트로 인해 문제가 발생 할 수 있습니다.
 extensions-warning-update-security2 =
     .message = 부가 기능 업데이트 보안 확인 기능을 사용 안 합니다. 업데이트로 인해 문제가 발생 할 수 있습니다.
 extensions-warning-update-security-button = 사용
@@ -239,10 +234,6 @@ shortcuts-duplicate = 중복 단축키
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } 단축키가 여러 곳에 사용되고 있습니다. 단축키가 중복되면 예상치 못한 동작이 발생할 수 있습니다.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } 단축키가 여러 곳에 사용되고 있습니다. 단축키가 중복되면 예상치 못한 동작이 발생할 수 있습니다.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -261,11 +252,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = 확장 기능 및 테마는 브라우저용 앱과 비슷하며, 비밀번호 보호, 동영상 다운로드, 거래 찾기, 성가신 광고 차단, 브라우저 외양 변경 등을 할 수 있도록 합니다. 이 작은 소프트웨어 프로그램은 보통 제3자에 의해 개발됩니다. 다음은 탁월한 보안, 성능 및 기능을 위해 { -brand-product-name }가 <a data-l10n-name="learn-more-trigger">추천</a>하는 목록입니다.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = 이러한 추천 중 일부는 개인화된 것입니다. 설치한 다른 확장 기능, 프로필 설정 및 사용 통계를 기반으로 합니다.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message = 이러한 추천 중 일부는 개인화된 것입니다. 설치한 다른 확장 기능, 프로필 설정 및 사용 통계를 기반으로 합니다.
@@ -354,16 +340,9 @@ addon-detail-last-updated-label = 최근 업데이트
 addon-detail-homepage-label = 홈페이지
 addon-detail-rating-label = 평가
 # Message for add-ons with a staged pending update.
-install-postponed-message = 이 확장 기능은 { -brand-short-name }가 다시 시작될 때 업데이트됩니다.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = 이 확장 기능은 { -brand-short-name }가 다시 시작될 때 업데이트됩니다.
 install-postponed-button = 지금 업데이트
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = 평점: { NUMBER($rating, maximumFractionDigits: 1) } / 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -378,9 +357,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> 부가 기능이 제거되었습니다.
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -399,11 +375,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = 사생활 보호 창에서 허용됨
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = 사생활 보호 창에서 허용됨
 addon-detail-private-browsing-help = 허용되면 확장 기능은 사생활 보호 모드에서 온라인 활동에 접근 할 수 있습니다. <a data-l10n-name="learn-more">더 알아보기</a>
 addon-detail-private-browsing-allow = 허용
@@ -430,17 +401,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name }는 보안 및 성능 표준을 충족하는 확장 기능만 추천함
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Mozilla에서 만든 공식 확장 기능. 보안 및 성능 표준 충족
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = 이 확장 기능은 보안 및 성능 표준을 충족하는 것으로 검토되었습니다
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -470,9 +430,6 @@ addon-permissions-heading = 권한
 addon-permissions-empty2 = 이 확장 기능은 권한이 필요하지 않습니다.
 addon-permissions-required-label = 필수 항목:
 addon-permissions-optional-label = 선택 항목:
-addon-permissions-empty = 이 확장 기능은 권한이 필요하지 않습니다.
-addon-permissions-required = 핵심 기능을 위한 필수 권한:
-addon-permissions-optional = 추가 기능을 위한 선택 권한:
 addon-permissions-learnmore = 권한에 대해 더 알아보기
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -513,25 +470,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name }는 { -brand-short-name } { $version }와 호환되지 않습니다.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name }는 { -brand-short-name } { $version }와 호환되지 않습니다.
-details-notification-incompatible-link = 추가 정보
-details-notification-unsigned-and-disabled = { $name } 부가 기능이 { -brand-short-name }에서 확인되지 않았기 때문에 비활성화되었습니다.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } 부가 기능이 { -brand-short-name }에서 확인되지 않았기 때문에 비활성화되었습니다.
-details-notification-unsigned-and-disabled-link = 추가 정보
-details-notification-unsigned = { $name } 부가 기능이 { -brand-short-name }에서 사용할 수 있는지 확인할 수 없습니다. 주의해서 진행하세요.
 details-notification-unsigned2 =
     .message = { $name } 부가 기능이 { -brand-short-name }에서 사용할 수 있는지 확인할 수 없습니다. 주의해서 진행하세요.
 details-notification-hard-blocked-extension =
     .message = 이 확장 기능은 Mozilla 정책 위반으로 차단되어 비활성화되었습니다.
 details-notification-hard-blocked-other =
     .message = 이 부가 기능은 Mozilla 정책 위반으로 차단되어 비활성화되었습니다.
-details-notification-unsigned-link = 추가 정보
-details-notification-blocked = { $name }는 보안이나 안정성 문제로 인해 사용 중지됩니다.
 details-notification-blocked-link2 = 상세 보기
 details-notification-soft-blocked-extension-disabled2 =
     .message = 이 확장 기능은 제한되어 있으며 비활성화되어 있습니다. 활성화할 수는 있지만, 위험할 수 있습니다.
@@ -541,19 +489,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = 이 부가 기능은 제한되어 있으며 비활성화되어 있습니다. 활성화할 수는 있지만, 위험할 수 있습니다.
 details-notification-soft-blocked-other-enabled2 =
     .message = 이 부가 기능은 제한되어 있습니다. 사용 시 위험할 수 있습니다.
-details-notification-soft-blocked-extension-disabled =
-    .message = 이 확장 기능은 Mozilla 정책 위반으로 제한되어 비활성화되었습니다. 활성화할 수 있지만 위험할 수 있습니다.
-details-notification-soft-blocked-extension-enabled =
-    .message = 이 확장 기능은 Mozilla의 정책을 위반합니다. 사용하면 위험할 수 있습니다.
-details-notification-soft-blocked-other-disabled =
-    .message = 이 부가 기능은 Mozilla 정책 위반으로 제한되어 비활성화되었습니다. 활성화할 수 있지만 위험할 수 있습니다.
-details-notification-soft-blocked-other-enabled =
-    .message = 이 부가 기능은 Mozilla의 정책을 위반합니다. 사용하면 위험할 수 있습니다.
 details-notification-softblocked-link2 = 상세 보기
-details-notification-blocked-link = 추가 정보
-details-notification-softblocked = { $name }는 보안이나 안정성 문제를 일으킬 수 있습니다.
-details-notification-softblocked-link = 추가 정보
-details-notification-gmp-pending = { $name } 부가 기능이 곧 설치됩니다.
 details-notification-gmp-pending2 =
     .message = { $name } 부가 기능이 곧 설치됩니다.
 
@@ -569,8 +505,6 @@ plugins-widevine-description = 이 플러그인은 암호화된 미디어 확장
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = 필수 데이터 수집:
-addon-permissions-optional-data-collection = 선택적 정보 수집:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = 권한 및 데이터
 # This is a description for extension that use this AI model

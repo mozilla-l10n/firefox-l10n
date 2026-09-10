@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Регистрации и пароли
-about-logins-login-filter =
-    .placeholder = Търсене на регистрации
-    .key = F
-create-new-login-button =
-    .title = Нова регистрация
 about-logins-page-title-name = Пароли
 about-logins-login-filter2 =
-    .placeholder = Търсене на пароли
     .key = F
+    .placeholder = Търсене на пароли
 create-login-button =
     .title = Добавяне на парола
 fxaccounts-sign-in-text = Вземете паролите си на всички ваши устройства
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Внасяне от друг браузър…
 about-logins-menu-menuitem-import-from-a-file = Внасяне от файл…
-about-logins-menu-menuitem-export-logins = Изнасяне на регистрации…
-about-logins-menu-menuitem-remove-all-logins = Премахване на всички регистрации…
 about-logins-menu-menuitem-export-logins2 = Изнасяне на пароли…
 about-logins-menu-menuitem-remove-all-logins2 = Премахване на всички пароли…
 menu-menuitem-preferences =
@@ -42,21 +34,6 @@ about-logins-menu-menuitem-help = Помощ
 
 login-list =
     .aria-label = Регистрации, отговарящи на търсеното
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } регистрация
-       *[other] { $count } регистрации
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $count } от { $total } регистрация
-       *[other] { $count } от { $total } регистрации
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -80,14 +57,10 @@ login-list-username-reverse-option = Име (Я-А)
 about-logins-login-list-alerts-option = Предупреждения
 login-list-last-changed-option = Последна промяна
 login-list-last-used-option = Последно използване
-login-list-intro-title = Няма намерени регистрации
 login-list-intro-title2 = Няма запазени пароли
 login-list-intro-description = Като запазите парола във { -brand-product-name }, тя ще се покаже тук.
-about-logins-login-list-empty-search-title = Няма намерени регистрации
 about-logins-login-list-empty-search-title2 = Няма намерени пароли
 about-logins-login-list-empty-search-description = Няма резултати, отговарящи на търсенето.
-login-list-item-title-new-login = Нова регистрация
-login-list-item-subtitle-new-login = Въведете данните за вход
 login-list-item-title-new-login2 = Добавяне на парола
 login-list-item-subtitle-missing-username = (без потребителско име)
 about-logins-list-item-breach-icon =
@@ -103,28 +76,20 @@ about-logins-list-section-week = Последните 7 дни
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Търсите запазените си регистрации? Включете синхронизирането или ги внесете.
-about-logins-login-intro-heading-logged-in = Не са намерени синхронизирани регистрации.
-login-intro-description = Ако сте запазили данните си за вход във { -brand-product-name } на друго устройство, ето как да ги вземете тук:
-login-intro-instructions-fxa = Създайте или влезте във { -fxaccount-brand-name } на устройството, където са запазени вашите данни за вход
 about-logins-login-intro-heading-message = Запазете паролите си на безопасно място
 login-intro-description2 = Всички пароли, които запазвате във { -brand-product-name }, са шифровани. Освен това следим за пробиви в сигурността и ако сте засегнати, ви предупреждаваме. <a data-l10n-name="breach-alert-link">Научете повече</a>
 login-intro-instructions-fxa2 = Създайте или влезте в профила на устройството, където са запазени вашите данни за вход
 login-intro-instructions-fxa-settings = Отворете "Настройки" > Sync > Вписване за синхронизиране… Изберете отметката за регистрации и пароли.
 login-intro-instructions-fxa-passwords-help = Посетете <a data-l10n-name="passwords-help-link">поддръжка на пароли</a> за помощ.
-about-logins-intro-browser-only-import = Ако вашите регистрации са запазени в друг браузър, можете да ги <a data-l10n-name="import-link">внесете във { -brand-product-name }</a>.
-about-logins-intro-import2 = Ако вашите регистрации се съхраняват извън { -brand-product-name }, можете <a data-l10n-name="import-browser-link">да ги внесете от друг браузър</a> или <a data-l10n-name="import-file-link">от файл</a>
 about-logins-intro-import3 = За да добавите парола използвайте бутона със знак плюс. Също можете <a data-l10n-name="import-browser-link">да ги внесете от друг четец</a> или <a data-l10n-name="import-file-link">от файл</a>
 
 ## Login
 
-login-item-new-login-title = Нова регистрация
 # Header for adding a password
 about-logins-login-item-new-login-title = Добавяне на парола
 login-item-edit-button = Променяне
 about-logins-login-item-remove-button = Премахване
 login-item-origin-label = Адрес на страницата
-login-item-tooltip-message = Уверете се, че съвпада с точния адрес на страницата, в която влизате.
 about-logins-origin-tooltip2 = Въведете пълния адрес и се уверете че има точно съвпадение със страницата, в която влизате.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -144,7 +109,6 @@ login-item-password-conceal-checkbox =
     .aria-label = Скриване на паролата
 login-item-copy-password-button-text = Копиране
 login-item-copied-password-button-text = Копирано!
-login-item-save-changes-button = Запазване
 about-logins-login-item-save-changes-button = Запазване
 login-item-save-new-button = Запазване
 login-item-cancel-button = Отказ
@@ -168,11 +132,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = За да промените регистрацията, въведете данните си за вход в Windows. Това се прави с цел защита на регистрациите.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = промяна на запазени регистрации
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -196,11 +155,6 @@ about-logins-copy-password-os-auth-dialog-message-win = За да копират
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = копира запазена парола
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = За да изнесете регистрациите, въведете данните си за вход в Windows. Това се прави с цел защита на регистрациите.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = изнасяне на запазени регистрации и пароли
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = За да изнесете паролите, въведете данните си за вход в Windows. Това се прави с цел защита на вашите регистрации.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -218,8 +172,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Отказ
 confirmation-dialog-dismiss-button =
     .title = Отказ
-about-logins-confirm-remove-dialog-title = Изтриване на регистрацията?
-confirm-delete-dialog-message = Действието е необратимо.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Премахване на парола?
 # Message for modal to confirm the removal of one saved password
@@ -233,31 +185,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [one] Премахване
        *[other] Премахване на всички
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [one] Да, премахване на регистрацията
-       *[other] Да, премахване на регистрациите
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] Премахване на { $count } регистрация?
-       *[other] Премахване на { $count } регистрации?
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [one] Така ще бъде премахната запазената във { -brand-short-name } регистрация и всички известия за пробиви, появяващи се тук. Действието е необратимо.
-       *[other] Така ще бъдат премахнати запазените във { -brand-short-name } регистрации и всички известия за пробиви, появяващи се тук. Действието е необратимо.
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] Премахване на { $count } регистрация от всички устройства?
-       *[other] Премахване на { $count } регистрации от всички устройства?
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [one] Така ще бъде премахната запазената във { -brand-short-name } регистрация от всички устройства, синхронизирани с { -fxaccount-brand-name }. Също и всички известия за пробиви, появяващи се тук. Действието е необратимо.
-       *[other] Така ще бъдат премахнати запазените във { -brand-short-name } регистрации от всички устройства, синхронизирани с { -fxaccount-brand-name }. Също и всички известия за пробиви, появяващи се тук. Действието е необратимо.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -292,15 +219,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = Изнасяне на регистрации и пароли
-about-logins-confirm-export-dialog-message = Вашите пароли ще бъдат запазени като четим текст (например Лош@Пар0ла), така че всеки, който има достъп до изнесения файл ще може да ги види.
-about-logins-confirm-export-dialog-confirm-button = Изнасяне…
 about-logins-confirm-export-dialog-title2 = Бележка относно изнасянето на пароли
 about-logins-confirm-export-dialog-message2 =
     При изнасяне, паролите се записват във файл като текст.
     Когато приключите с използването на файла, препоръчваме да го изтриете, за да не могат другите, които използват същото устройство, да видят паролите ви.
 about-logins-confirm-export-dialog-confirm-button2 = Продължете с изнасянето
-about-logins-alert-import-title = Внасянето е завършено
 about-logins-alert-import-message = Подробен отчет за внасянето
 confirm-discard-changes-dialog-title = Отказвате се от промените?
 confirm-discard-changes-dialog-message = Незапазените промени ще бъдат изгубени.
@@ -337,11 +260,6 @@ about-logins-error-message-default = Възникна грешка при опи
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Изнасяне на регистрации
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = logins.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = Изнасяне на пароли от { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -357,8 +275,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = Внасяне на регистрации от файл
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = Внасяне на пароли към { -brand-short-name }
 about-logins-import-file-picker-import-button = Внасяне
@@ -382,18 +298,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Внасянето е завършено
-about-logins-import-dialog-items-added =
-    { $count ->
-       *[other] <span>Добавени регистрации:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-       *[other] <span>Обновени регистрации:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-       *[other] <span>Дублиращи се регистрации:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(не са внесени)</span>
-    }
 about-logins-import-dialog-items-added2 =
     { $count ->
         [one] <span>Добавена парола:</span> <span data-l10n-name="count">{ $count }</span>
@@ -429,15 +333,11 @@ about-logins-import-dialog-error-learn-more = Научете повече
 about-logins-import-dialog-error-try-import-again = Опитайте внасянето отново...
 about-logins-import-dialog-error-cancel = Отказ
 about-logins-import-report-title = Отчет за внасянето
-about-logins-import-report-description = Регистрации и пароли внесени във { -brand-short-name }.
 about-logins-import-report-description2 = Пароли внесени в/ъв { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Ред { $number }
-about-logins-import-report-row-description-no-change = Дублиращи се: точно съвпадение със съществуваща регистрация
-about-logins-import-report-row-description-modified = Обновени съществуващи регистрации
-about-logins-import-report-row-description-added = Добавени нови регистрации
 about-logins-import-report-row-description-no-change2 = Дублиращи се: точно съвпадение със съществуваща парола
 about-logins-import-report-row-description-modified2 = Обновена съществуваща парола
 about-logins-import-report-row-description-added2 = Добавена е нова парола
@@ -454,18 +354,6 @@ about-logins-import-report-row-description-error-missing-field = Грешка: �
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Добавени нови регистрации</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Обновени съществуващи регистрации</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Дублиращи се регистрации</div> <div data-l10n-name="not-imported">(не са внесени)</div>
-    }
 about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Добавена парола</div>

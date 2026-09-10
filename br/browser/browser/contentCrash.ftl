@@ -18,16 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Un danevell sac'hadenn n'eo ket bet kaset a zo ganeoc'h
-        [two] { $reportCount } zanevell sac'hadenn n'eo ket bet kaset a zo ganeoc'h
-        [few] { $reportCount } danevell sac'hadenn n'eo ket bet kaset a zo ganeoc'h
-        [many] { $reportCount } a zanevelloù sac'hadenn n'int ket bet kaset a zo ganeoc'h.
-       *[other] { $reportCount } danevell sac'hadenn n'eo ket bet kaset a zo ganeoc'h
-    }
 pending-crash-reports-view-all =
     .label = Gwelout
 pending-crash-reports-send =

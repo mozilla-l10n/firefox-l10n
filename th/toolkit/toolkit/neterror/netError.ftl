@@ -27,17 +27,13 @@ neterror-return-to-previous-page-button = ย้อนกลับ
 neterror-return-to-previous-page-recommended-button = ย้อนกลับ (แนะนำ)
 neterror-try-again-button-2 = ลองอีกครั้ง
     .accesskey = ล
-neterror-try-again-button = ลองอีกครั้ง
 neterror-add-exception-button = ดำเนินการต่อสำหรับไซต์นี้เสมอ
 neterror-settings-button = เปลี่ยนการตั้งค่า DNS
 neterror-view-certificate-link = ดูใบรับรอง
-neterror-trr-continue-this-time = ไปต่อในครั้งนี้
-neterror-disable-native-feedback-warning = ดำเนินการต่อเสมอ
 
 ##
 
 neterror-pref-reset = ดูเหมือนว่าการตั้งค่าความปลอดภัยเครือข่ายของคุณอาจเป็นสาเหตุของสิ่งนี้ คุณต้องการเรียกคืนการตั้งค่าเริ่มต้นหรือไม่?
-neterror-error-reporting-automatic = รายงานข้อผิดพลาดเช่นนี้เพื่อช่วย { -vendor-short-name } ระบุและปิดกั้นไซต์ที่ประสงค์ร้าย
 
 ## Specific error messages
 
@@ -72,25 +68,15 @@ neterror-dns-not-found-offline-hint-reconnect = ตัดการเชื่�
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } ไม่สามารถปกป้องคำขอของคุณสำหรับที่อยู่ของไซต์นี้ผ่านตัวแก้ไข DNS ที่เชื่อถือได้ของเราได้ นี่คือเหตุผล:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } ไม่สามารถปกป้องคำขอของคุณสำหรับที่อยู่ของไซต์นี้ผ่านผู้ให้บริการ DNS ที่ปลอดภัยของเราได้ ด้วยเหตุผลต่อไปนี้:
 neterror-dns-not-found-trr-third-party-warning2 = คุณสามารถไปต่อด้วย DNS resolver เริ่มต้นของคุณได้ อย่างไรก็ตาม บุคคลที่สามอาจเห็นได้ว่าคุณเยี่ยมชมเว็บไซต์อะไรบ้าง
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } ไม่สามารถเชื่อมต่อไปยัง { $trrDomain } ได้
 neterror-dns-not-found-trr-only-timeout = การเชื่อมต่อไปยัง { $trrDomain } ใช้เวลานานกว่าที่คาดไว้
-neterror-dns-not-found-trr-offline = คุณไม่ได้เชื่อมต่อกับอินเทอร์เน็ต
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } ไม่พบเว็บไซต์นี้
 neterror-dns-not-found-trr-server-problem = เกิดปัญหากับ { $trrDomain }
 neterror-dns-not-found-bad-trr-url = URL ไม่ถูกต้อง
 neterror-dns-not-found-system-sleep = ระบบอยู่ในโหมดพักการทำงาน
 neterror-dns-not-found-trr-unknown-problem = เกิดปัญหาที่ไม่คาดคิด
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ไม่สามารถปกป้องคำขอของคุณสำหรับที่อยู่ของไซต์นี้ผ่านตัวแก้ไข DNS ที่เชื่อถือได้ของเราได้ นี่คือเหตุผล:
-neterror-dns-not-found-native-fallback-heuristic = DNS over HTTPS ถูกปิดใช้งานบนเครือข่ายของคุณ
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ไม่สามารถเชื่อมต่อไปยัง { $trrDomain } ได้
 
 ##
 
@@ -104,8 +90,6 @@ neterror-access-denied = ไฟล์อาจถูกเอาออก ย้
 neterror-unknown-protocol = คุณอาจจำเป็นต้องติดตั้งซอฟต์แวร์อื่นเพื่อเปิดที่อยู่นี้
 neterror-redirect-loop = ปัญหานี้บางครั้งอาจมีสาเหตุมาจากการปิดใช้งานหรือปฏิเสธการยอมรับคุกกี้
 neterror-unknown-socket-type-client-config = นี่อาจเกิดจากข้อผิดพลาดในการตั้งค่าฝั่งไคลเอ็นต์ของคุณ
-neterror-unknown-socket-type-psm-installed = ตรวจสอบให้แน่ใจว่าระบบของคุณมีตัวจัดการความปลอดภัยส่วนบุคคลติดตั้งอยู่
-neterror-unknown-socket-type-server-config = สิ่งนี้อาจเกิดจากการกำหนดค่าที่ไม่มาตรฐานบนเซิร์ฟเวอร์
 neterror-not-cached-intro = เอกสารที่ขอไม่มีในแคชของ { -brand-short-name }
 neterror-not-cached-sensitive = ตามมาตรการรักษาความปลอดภัย { -brand-short-name } จะไม่ขอเอกสารที่ละเอียดอ่อนให้ใหม่โดยอัตโนมัติ
 neterror-not-cached-try-again = คลิก ลองอีกครั้ง เพื่อขอเอกสารจากเว็บไซต์ใหม่

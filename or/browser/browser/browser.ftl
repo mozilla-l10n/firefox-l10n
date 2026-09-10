@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = ୱେବସାଇଟ ସୂଚନା ଦେଖନ୍ତୁ
 
@@ -40,8 +35,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = ଅଫଲାଇନ ଷ୍ଟୋରେଜ ପ୍ୟାନେଲ ଖୋଲନ୍ତୁ
 urlbar-password-notification-anchor =
     .tooltiptext = ପାସୱାର୍ଡ଼ ସଂରକ୍ଷଣ ମେସେଜ ପ୍ୟାନେଲ ଖୋଲନ୍ତୁ
-urlbar-plugins-notification-anchor =
-    .tooltiptext = ପ୍ଲଗଇନଗୁଡ଼ିକର ବ୍ୟବହାର ପରିଚାଳନା କରନ୍ତୁ…
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = ସାଇଟ ସହିତ ଆପଣଙ୍କର କ୍ୟାମେରା ଓ/ବା ମାଇକ୍ରୋଫାନ ବାଣ୍ଟିବା ପରିଚାଳନ କରନ୍ତୁ
 urlbar-autoplay-notification-anchor =
@@ -50,14 +43,7 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = ସ୍ଥାୟୀ ଷ୍ଟୋରେଜରେ ତଥ୍ୟ ସଂରକ୍ଷଣ କରନ୍ତୁ
 urlbar-addons-notification-anchor =
     .tooltiptext = ଆଡ-ଅନ ଇନଷ୍ଟଲ ମେସେଜ ପ୍ୟାନେଲ ଖୋଲନ୍ତୁ
-urlbar-tip-help-icon =
-    .title = ସେବା ପାଆନ୍ତୁ
 urlbar-search-tips-confirm = ଠିକ ଅଛି, ବୁଝିଲି
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = ସୂଚନାଗୁଡ଼ିକ:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -86,8 +72,6 @@ urlbar-screen-blocked =
     .tooltiptext = ଆପଣ ଏହି ସ୍କ୍ରିନ୍କୁ ଆପଣଙ୍କର ସ୍କ୍ରିନ୍ ଅଂଶୀଦାର କରିବାକୁ ଅବରୋଧ କରିଛନ୍ତି
 urlbar-persistent-storage-blocked =
     .tooltiptext = ଆପଣ ଏହି ୱେବସାଇଟ୍ ପାଇଁ ସ୍ଥାୟୀ ଷ୍ଟୋରେଜ୍ ଅବରୋଧ କରିଛନ୍ତି
-urlbar-popup-blocked =
-    .tooltiptext = ଆପଣ ଏହି ୱେବସାଇଟ୍ ପାଇଁ ପପ୍-ଅପ୍ ଗୁଡିକୁ ଅବରୋଧ କରିଛନ୍ତି
 urlbar-autoplay-media-blocked =
     .tooltiptext = ଆପଣ ଏହି ୱେବସାଇଟ୍ ପାଇଁ ଧ୍ୱନି ସହିତ ଅଟୋପ୍ଲେ ମିଡିଆକୁ ଅବରୋଧ କରିଛନ୍ତି
 # Variables
@@ -142,9 +126,6 @@ identity-https-only-dropdown-on =
 identity-https-only-dropdown-off =
     .label = ବନ୍ଦ
 identity-permissions-storage-access-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
-identity-disable-mixed-content-blocking =
-    .label = ବର୍ତ୍ତମାନ ପାଇଁ ସୁରକ୍ଷାକୁ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ
-    .accesskey = D
 identity-more-info-link-text =
     .label = ଅଧିକ ସୂଚନା
 
@@ -176,8 +157,6 @@ urlbar-switch-to-tab =
     .value = ଟ୍ୟାବକୁ ସ୍ଥାନାନ୍ତରିତ କରନ୍ତୁ:
 urlbar-go-button2 =
     .title = ଅବସ୍ଥିତି ପଟିରେ ଥିବା ଠିକଣାକୁ ଯାଆନ୍ତୁ
-urlbar-go-button =
-    .tooltiptext = ଅବସ୍ଥିତି ପଟିରେ ଥିବା ଠିକଣାକୁ ଯାଆନ୍ତୁ
 
 ## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
 ## results with last-visited dates like history and top sites, these strings
@@ -188,11 +167,6 @@ urlbar-go-button =
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine } ସହିତ ଖୋଜନ୍ତୁ
-
-## Strings used for buttons in the urlbar
-
-urlbar-searchmode-history =
-    .label = ଇତିହାସ
 
 ## Bookmarks panels, menus and toolbar
 
@@ -209,11 +183,6 @@ bookmarks-toolbar-placeholder =
     .title = ସାଧନପଟି ବସ୍ତୁଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ
 bookmarks-toolbar-placeholder-button =
     .label = ସାଧନପଟି ବସ୍ତୁଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ
-
-## Library Panel items
-
-library-recent-activity-title =
-    .value = ସାମ୍ପ୍ରତିକ ଗତିବିଧି
 
 ##
 
@@ -238,7 +207,6 @@ toolbar-button-new-private-window =
 
 ## Password save/update panel
 
-panel-save-update-password = ପାସ୍‍ୱାର୍ଡ଼
 panel-save-update-password-2 =
     .label = ପାସ୍‍ୱାର୍ଡ଼
 
@@ -247,28 +215,10 @@ panel-save-update-password-2 =
 ui-tour-info-panel-close =
     .tooltiptext = ବନ୍ଦକରନ୍ତୁ
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = { $uriHost } ପାଇଁ ପପ୍-ଅପ୍ କୁ ଅନୁମତି ଦିଅନ୍ତୁ
-    .accesskey = p
-popups-infobar-block =
-    .label = { $uriHost } ପାଇଁ ପପ୍-ଅପ୍ କୁ ଅଟକାନ୍ତୁ
-    .accesskey = p
-
-##
-
-popups-infobar-dont-show-message =
-    .label = ପପ୍-ଅପ୍ ଗୁଡ଼ିକୁ ଅଟକାଯାଇଥିବା ସମୟରେ ଏହି ସନ୍ଦେଶକୁ ଦର୍ଶାନ୍ତୁ ନାହିଁ
-    .accesskey = D
-
 ##
 
 navbar-downloads =
     .label = ଆହରଣଗୁଡ଼ିକ
-navbar-overflow =
-    .tooltiptext = ଅଧିକ ସାଧନଗୁଡ଼ିକ…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

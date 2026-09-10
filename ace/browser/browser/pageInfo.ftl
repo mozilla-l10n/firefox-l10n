@@ -34,7 +34,6 @@ image-size-unknown = Hana Jituri
 media-video = Video
 saved-passwords-yes = Nyo
 saved-passwords-no = H‘an
-security-no-visits = H‘an
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:

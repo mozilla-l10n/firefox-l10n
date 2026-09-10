@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Xem duyệt web gần đây trên windows và các thiết bị
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Đóng
-    .aria-label = Đóng
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Vừa xong
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Thẻ trên thiết bị khác
-firefoxview-tabpickup-description = Mở trang từ các thiết bị khác.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% hoàn thành
-firefoxview-tabpickup-step-signin-header = Chuyển đổi liền mạch giữa các thiết bị
-firefoxview-tabpickup-step-signin-description = Để truy cập các thẻ trên ứng dụng di động của bạn tại đây, trước tiên hãy đăng nhập hoặc tạo tài khoản.
-firefoxview-tabpickup-step-signin-primarybutton = Tiếp tục
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } của riêng bạn trên tất cả các thiết bị
 firefoxview-syncedtabs-signin-description-2 = Để được xem các thẻ đang mở trên ứng dụng di động và các thiết bị khác của bạn, hãy đăng nhập hoặc đăng ký tài khoản. Với tài khoản, bạn cũng có thể đồng bộ hoá mật khẩu, lịch sử của bạn và hơn thế nữa.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Kết nối liền mạch từ máy tính xách tay đến điện thoại
 firefoxview-syncedtabs-signin-description-3 = Giữ cho trải nghiệm duyệt web của bạn được đồng bộ trên mọi thiết bị — các thẻ, mật khẩu và lịch sử duyệt web, tất cả đều được đồng bộ hóa.
 firefoxview-syncedtabs-signin-primarybutton-2 = Đăng nhập
-firefoxview-tabpickup-adddevice-header = Đồng bộ hóa { -brand-product-name } trên điện thoại hoặc máy tính bảng của bạn
-firefoxview-tabpickup-adddevice-description = Tải xuống { -brand-product-name } cho điện thoại di động và đăng nhập vào đó.
-firefoxview-tabpickup-adddevice-learn-how = Tìm hiểu cách làm
-firefoxview-tabpickup-adddevice-primarybutton = Tải { -brand-product-name } dành cho điện thoại di động
 firefoxview-syncedtabs-adddevice-header-2 = Lấy các thẻ từ bất cứ đâu
 firefoxview-syncedtabs-adddevice-description-2 = Đăng nhập vào { -brand-product-name } trên điện thoại hoặc máy tính để xem các thẻ ở đây. Tìm hiểu cách <a data-l10n-name="url">kết nối thiết bị khác</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Thử { -brand-product-name } cho di động
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Các thẻ của bạn đã gọi. Chúng đang ở trên điện thoại của bạn.
 firefoxview-syncedtabs-adddevice-description-3 = Quét mã QR để tải { -brand-product-name } trên điện thoại và bắt đầu đồng bộ hóa các thẻ đang mở của bạn và nhiều hơn nữa. Tìm hiểu cách để <a data-l10n-name="url">kết nối các thiết bị khác</a>.
-firefoxview-tabpickup-synctabs-header = Bật đồng bộ hóa thẻ
-firefoxview-tabpickup-synctabs-description = Cho phép { -brand-short-name } chia sẻ các thẻ giữa các thiết bị.
-firefoxview-tabpickup-synctabs-learn-how = Tìm hiểu cách làm
 firefoxview-tabpickup-synctabs-primarybutton = Đồng bộ hóa các thẻ đang mở
 firefoxview-tabpickup-synctabs-primarybutton-2 = Bật đồng bộ hóa thẻ
 firefoxview-syncedtabs-synctabs-header = Cập nhật cài đặt đồng bộ hóa của bạn
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Khi hoàn tất, bạn sẽ thấy 
 firefoxview-syncedtabs-loading-header-2 = Đang lấy các thẻ của bạn…
 firefoxview-syncedtabs-loading-description-2 = Đang đồng bộ hóa. Các thẻ sẽ sớm hiển thị ở đây.
 firefoxview-tabpickup-fxa-admin-disabled-header = Tổ chức của bạn đã tắt đồng bộ hóa
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } không thể đồng bộ hóa các thẻ giữa các thiết bị vì quản trị viên của bạn đã tắt đồng bộ hóa.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } không thể đồng bộ hóa các thẻ giữa các thiết bị vì tổ chức của bạn đã tắt tính năng đồng bộ hóa.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Đồng bộ hoá thẻ đã tắt
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Tổ chức của bạn đã chặn tính năng này.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Mở khóa thẻ bằng mật khẩu chính của bạn
 firefoxview-tabpickup-password-locked-description-2 = Để bảo vệ quyền riêng tư của bạn, các ther đã đồng bộ hóa được bảo vệ. Nhập mật khẩu chính { -brand-short-name } của bạn để xem các thẻ từ các thiết bị khác.
 firefoxview-tabpickup-signed-out-header = Đăng nhập để kết nối lại
-firefoxview-tabpickup-signed-out-description = Để kết nối lại và lấy các thẻ của bạn, hãy đăng nhập vào { -fxaccount-brand-name } của bạn.
 firefoxview-tabpickup-signed-out-description2 = Để kết nối lại và lấy các thẻ của bạn, hãy đăng nhập vào tài khoản của bạn.
 firefoxview-tabpickup-signed-out-primarybutton = Đăng nhập
 firefoxview-tabpickup-signed-out-header-2 = Đăng nhập để xem các thẻ của bạn
 firefoxview-tabpickup-signed-out-description-2 = Kết nối lại để xem các thẻ từ các thiết bị khác.
-firefoxview-tabpickup-syncing = Thoải mái ngồi yên trong khi các thẻ của bạn đồng bộ hóa. Thông thường nó sẽ chỉ mất vài phút.
-firefoxview-mobile-promo-header = Lấy các thẻ từ điện thoại hoặc máy tính bảng của bạn
-firefoxview-mobile-promo-description = Để xem các thẻ trên di động mới nhất của bạn, hãy đăng nhập vào { -brand-product-name } trên iOS hoặc Android.
-firefoxview-mobile-promo-primarybutton = Tải { -brand-product-name } dành cho di động
-firefoxview-mobile-confirmation-header = 🎉 Tất cả đã xong!
-firefoxview-mobile-confirmation-description = Giờ đây, bạn có thể lấy các thẻ { -brand-product-name } từ máy tính bảng hoặc điện thoại của mình.
-firefoxview-closed-tabs-title = Đã đóng gần đây
-firefoxview-closed-tabs-description2 = Mở lại các trang bạn đã đóng trong cửa sổ này.
-firefoxview-closed-tabs-placeholder-header = Không có thẻ nào đã đóng gần đây
-firefoxview-closed-tabs-placeholder-body = Khi bạn đóng một thẻ trong cửa sổ này, bạn có thể lấy nó từ đây.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Bỏ qua { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Hoạt động lần cuối
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Mở { $targetURI } trong một thẻ mới
-firefoxview-try-colorways-button = Thử đường màu
-firefoxview-change-colorway-button = Thay đổi đường màu
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Chưa có gì để xem
-firefoxview-synced-tabs-placeholder-body = Lần tới khi bạn mở một trang bằng { -brand-product-name } trên một thiết bị khác, hãy lấy nó ở đây như một phép thuật.
 firefoxview-collapse-button-show =
     .title = Hiển thị danh sách
 firefoxview-collapse-button-hide =

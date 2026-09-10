@@ -20,8 +20,8 @@ pippki-pw-erased-ok = حذفت كلمة سرك. { pippki-pw-empty-warning }
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = صفّر كلمة السر الرئيسية
     .style = min-width: 40em
+    .title = صفّر كلمة السر الرئيسية
 reset-password-button-label =
     .label = صفّر
 reset-primary-password-text = إذا صفّرت كلمة السر الرئيسية، ستُنسى كلّ كلمات سر البريد الإلكتروني والوِب، والشهادات الشخصية، والمفاتيح السرية المخزّنة. أمتأكّد بأنك تريد تصفير كلمة سرك الرئيسية؟
@@ -31,8 +31,8 @@ pippki-reset-password-confirmation-message = صُفّر كلمة سرك الرئ
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = يجري تنزيل الشّهادات
     .style = min-width: 46em
+    .title = يجري تنزيل الشّهادات
 download-cert-message = يُطلب منك الوثوق بسلطة شهادات جديدة.
 download-cert-trust-ssl =
     .label = ثِق في سلطة الشّهادات هذه لتعريف مواقع وِب.
@@ -47,8 +47,6 @@ download-cert-view-text = افحص شهادة سلطة الشّهادات
 
 client-auth-window =
     .title = طلب تعريف مستخدم
-client-auth-site-description = طلب هذا الموقع أن تعرّف نفسك بشهادة:
-client-auth-choose-cert = اختر شهادة لتقدّمها كتعريف:
 client-auth-cert-details = تفاصيل الشّهادة المختارة:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

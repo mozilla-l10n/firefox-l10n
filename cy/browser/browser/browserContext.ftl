@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Nôl un tudalen ({ $shortcut })
     .aria-label = Nôl
+    .tooltiptext = Nôl un tudalen ({ $shortcut })
     .accesskey = N
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Ymlaen un tudalen ({ $shortcut })
     .aria-label = Ymlaen
+    .tooltiptext = Ymlaen un tudalen ({ $shortcut })
     .accesskey = Y
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Gosod Nod i Dudalen…
-    .accesskey = N
     .tooltiptext = Gosod nod i dudalen
+    .accesskey = N
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Gosod Nod i Dudalen…
-    .accesskey = N
     .tooltiptext = Gosod nod i dudalen ({ $shortcut })
+    .accesskey = N
 main-context-menu-edit-bookmark =
     .aria-label = Golygu Nod Tudalen…
-    .accesskey = G
     .tooltiptext = Golygu nod tudalen
+    .accesskey = G
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Golygu Nod Tudalen…
-    .accesskey = G
     .tooltiptext = Golygu nod tudalen ({ $shortcut })
+    .accesskey = G
 main-context-menu-open-link =
     .label = Agor Dolen
     .accesskey = D
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Cadw'r Ddolen Fel…
     .accesskey = a
-main-context-menu-save-link-to-pocket =
-    .label = Cadw Dolen i { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Trowch Sync ymlaen i An
 main-context-menu-send-to-mobile-connect-phone3 = Cysylltwch Ddyfais i Anfon Tabiau
 main-context-menu-send-to-mobile-connect-phone-from-link = Cysylltwch Ddyfais i Anfon Dolen
 main-context-menu-send-to-mobile-connect-phone-from-page = Cysylltwch Ddyfais i Anfon Tudalen
-main-context-menu-save-to-pocket =
-    .label = Cadw Tudalen i { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Anfon Tudalen i Ddyfais
-    .accesskey = D
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Defnyddio Mewngofnodi wedi'i Gadw
-    .accesskey = G
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Defnyddio Cyfrinair wedi'i Gadw
     .accesskey = C
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Defnyddio Arallenw E-bost { -relay-brand-short-name }
     .accesskey = D
 main-context-menu-suggest-strong-password =
     .label = Cynnig Cyfrinair Cryf...
     .accesskey = C
-main-context-menu-manage-logins2 =
-    .label = Rheoli Mewngofnodion
-    .accesskey = R
 main-context-menu-manage-passwords =
     .label = Rheoli Cyfrineiriau
     .accesskey = R
-main-context-menu-keyword =
-    .label = Ychwanegu Allweddair i'r Chwilio…
-    .accesskey = Y
 main-context-menu-add-engine =
     .label = Ychwanegu Peiriant Chwilio
     .accesskey = Y
@@ -391,9 +364,6 @@ main-context-menu-view-selection-source =
     .label = Edrych ar Ffynhonnell y Dewis
     .accesskey = E
 main-context-menu-take-screenshot =
-    .label = Cymryd Llun Sgrin
-    .accesskey = L
-main-context-menu-take-frame-screenshot =
     .label = Cymryd Llun Sgrin
     .accesskey = L
 main-context-menu-view-page-source =

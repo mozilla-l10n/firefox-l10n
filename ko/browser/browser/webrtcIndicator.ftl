@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - 공유 표시기
-webrtc-indicator-window =
-    .title = { -brand-short-name } - 공유 표시기
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = 마이크를 공유하고 있습니다. 공유를 제어하려면 누르세요.
 webrtc-screen-system-menu =
     .label = 창이나 화면을 공유하고 있습니다. 공유를 제어하려면 누르세요.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = 카메라와 마이크를 공유하고 있습니다. 공유를 제어하려면 누르세요.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = 카메라를 공유하고 있습니다. 공유를 제어하려면 누르세요.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = 마이크를 공유하고 있습니다. 공유를 제어하려면 누르세요.
-webrtc-indicator-sharing-application =
-    .tooltiptext = 애플리케이션을 공유하고 있습니다. 공유를 제어하려면 누르세요.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = 화면을 공유하고 있습니다. 공유를 제어하려면 누르세요.
-webrtc-indicator-sharing-window =
-    .tooltiptext = 창을 공유하고 있습니다. 공유를 제어하려면 누르세요.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = 탭을 공유하고 있습니다. 공유를 제어하려면 누르세요.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -161,7 +142,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = { $origin } 사�
 
 webrtc-share-screen-warning = 신뢰할 수 있는 사이트에서만 화면을 공유하세요. 공유는 의심되는 사이트가 당신을 사칭하고 개인 정보를 빼앗아갈 수 있게 합니다.
 webrtc-share-browser-warning = 신뢰할 수 있는 사이트에서만 { -brand-short-name }를 공유하세요. 공유는 의심되는 사이트가 당신을 사칭하고 개인 정보를 빼앗아갈 수 있게 합니다.
-webrtc-share-screen-learn-more = 더 알아보기
 webrtc-pick-window-or-screen = 창이나 화면 선택
 webrtc-share-entire-screen = 전체 화면
 webrtc-share-pipe-wire-portal = 운영 체제 설정 사용

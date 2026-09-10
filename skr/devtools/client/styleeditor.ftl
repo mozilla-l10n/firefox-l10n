@@ -21,8 +21,6 @@ styleeditor-save-button = ہتھیکڑا کرو
 styleeditor-options-button =
     .tooltiptext = انداز تدوین کار دے اختیارات
 styleeditor-at-rules = اصولاں تے
-styleeditor-editor-textbox =
-    .data-placeholder = اتھاں CSS لکھو
 styleeditor-no-stylesheet = ایں ورقے دی کوئی سٹائل شیٹ کائنی
 styleeditor-no-stylesheet-tip = شاید تساں <a data-l10n-name="append-new-stylesheet">ہک نویں سٹائل شیٹ شامل کرݨ چاہسو</a>؟
 styleeditor-open-link-new-tab =

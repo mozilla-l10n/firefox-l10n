@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = 'Ngo sertifikadô diga'ñun'unj un huin dadi
 cert-error-trust-signature-algorithm-disabled = 'Ngo sertifikadô diga'ñun'unj un huin nan dadin' da'nga' ga'ui' si riñanj nu ni'în si 'ngo da'nga' hia huin man.
 cert-error-trust-expired-issuer = 'Ngo sertifikadô diga'ñun'unj un huin na dadin' si sertifikadô sa giri man ni ngà ganahuij si diuj.
 cert-error-trust-self-signed = 'Ngo sertifikadô diga'ñun'unj huin nan dadin' man' an giri man'an.
-cert-error-trust-symantec = Nej sertifikadô ri Geo Trust, RapidSSL, Symantec, Thawte ni VeriSign nitaj si hua nika nìko nej man dadin' nej yi'nïn' nan ni nu gi'iaj sun hue'ê nej man da' dugumîn sò' diû gâchin.
 cert-error-untrusted-default = Nitaj si hua yitïnj riña gahui sertifikadô nan.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -53,17 +52,12 @@ cert-error-code-prefix-link = Gire' kodigo: <a data-l10n-name="error-code-link">
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Hua 'ngo sa gahui a'nan' ngà ruhuaj gi'iaj konektandoj riña { $hostname }. { $errorMessage }
 # Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Ngà serifikâdo nadigan nej sîtio sisi hua nika nej man, ni hua nej dukua sun ri nej sertifikadô nan. ga'ì nej sa nana'ui' nuguan'an ni nitaj si hua nika ruhuâ nej man ngà sertifikadô ri  GeoTrust, RapidSSL, Symantec, Thawte ni VeriSign. { $hostname } arâj sun 'ngo sertifikadô ri nej dukua sun nan, yi'ì dan si ga'ue gini'în' dàj gi'iaj sun yangà' web nan.
-cert-error-symantec-distrust-admin = Ga'ue ganatà't riña sa nikaj ñun'unj sitiô nan rayi'î sa gahui a'nan nan.
-# Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = Yitïnj hauw ga'anj ma riña HTTP ahī: { $hasHSTS }
 # Variables:
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Gachrun' klave HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Daj niko' dugui' sertifikadô:
-open-in-new-window-for-csp-or-xfo-error = Na’nīn sitio riña a’ngô bentanâ nākàa
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Da’ dūgumij sò’, { $hostname } sī gâ’nïnj { -brand-short-name } da’ nāyi’nïn pâjina sisī a’ngô sitio nâ’nïnj man. Da’ gā’ue gīni’iājt pajinâ nan nī da’uît nā’nïnt man riña a’ngô bendtanâ nākàa.
@@ -96,7 +90,6 @@ redirectLoop-title = Nitaj si 'iaj redireksionando hue'ê pajinâ nan
 unknownSocketType-title = Se 'ngo nuguan' hue'ê nariki servidor
 nssFailure2-title = Gire' conexión hia
 csp-xfo-error-title = { -brand-short-name } Na'ue nāyi'nïn pajinâ nan
-corruptedContentError-title = Gire'ej dadin' sa nun riñan hua a'nan'
 sslv3Used-title = Si ga'ue guida'a hue'e man
 inadequateSecurityError-title = Nitaj si gua hue'e si conexion re'
 blockedByPolicy-title = Hua blokeado pagina

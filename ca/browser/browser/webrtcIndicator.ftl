@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Indicador de compartició
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Indicador de compartició
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Esteu compartint el micròfon. Feu clic aquí per controlar què voleu compartir.
 webrtc-screen-system-menu =
     .label = Esteu compartint una finestra o una pantalla. Feu clic aquí per controlar què voleu compartir.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Esteu compartint la càmera i el micròfon. Feu clic aquí per controlar què voleu compartir.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Esteu compartint la càmera. Feu clic aquí per controlar què voleu compartir.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Esteu compartint el micròfon. Feu clic aquí per controlar què voleu compartir.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Esteu compartint una aplicació. Feu clic aquí per controlar què voleu compartir.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Esteu compartint la pantalla. Feu clic aquí per controlar què voleu compartir.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Esteu compartint una finestra. Feu clic aquí per controlar què voleu compartir.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Esteu compartint una pestanya. Feu clic aquí per controlar què voleu compartir.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Voleu permetre q
 
 webrtc-share-screen-warning = Compartiu la pantalla únicament amb els llocs en què confieu. Quan compartiu, és possible que llocs web maliciosos puguin navegar en nom vostre i robar les vostres dades privades.
 webrtc-share-browser-warning = Compartiu el { -brand-short-name } únicament amb els llocs en què confieu. Quan compartiu, és possible que llocs web maliciosos puguin navegar en nom vostre i robar les vostres dades privades.
-webrtc-share-screen-learn-more = Més informació
 webrtc-pick-window-or-screen = Trieu una finestra o pantalla
 webrtc-share-entire-screen = Pantalla sencera
 webrtc-share-pipe-wire-portal = Utilitza els paràmetres del sistema operatiu

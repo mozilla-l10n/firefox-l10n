@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = नयाँ ट्याब
-newtab-settings-button =
-    .title = तपाईंको नयाँ ट्याब पृष्ठ अनुकूलन गर्नुहोस्
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -50,7 +48,6 @@ newtab-search-box-search-button =
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
-newtab-topsites-edit-topsites-header = शीर्ष साइट सम्पादन गर्नुहोस्
 newtab-topsites-title-label = शीर्षक
 newtab-topsites-title-input =
     .placeholder = शीर्षक प्रविष्ट गर्नुहोस्
@@ -77,13 +74,6 @@ newtab-confirm-delete-history-p1 = के तपाईं पक्का हु
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = यो कार्य पूर्ववत गर्न सकिँदैन ।
 
-## Context Menu - Action Tooltips.
-
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = यस साइटलाई सम्पादन गर्नुहोस्
-    .title = यस साइटलाई सम्पादन गर्नुहोस्
-
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = सम्पादन गर्नुहोस्
@@ -93,9 +83,6 @@ newtab-menu-dismiss = खारेज गर्नुहोस्
 newtab-menu-pin = पिन गर्नुहोस्
 newtab-menu-unpin = अन पिन गर्नुहोस्
 newtab-menu-delete-history = इतिहासबाट मेट्नुहोस्
-newtab-menu-save-to-pocket = { -pocket-brand-name }मा बचत गर्नुहोस्
-newtab-menu-delete-pocket = { -pocket-brand-name } बाट मेट्नुहोस्
-newtab-menu-archive-pocket = { -pocket-brand-name } मा संग्रह गर्नुहोस्
 
 ##
 
@@ -135,34 +122,15 @@ newtab-label-download = डाउनलोड भयो
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = खण्ड हटाउनुहोस्
-newtab-section-menu-collapse-section = खण्ड संक्षिप्त गर्नुहोस्
-newtab-section-menu-expand-section = खण्ड विस्तार गर्नुहोस्
-newtab-section-menu-manage-section = खण्ड प्रबन्ध गर्नुहोस्
-newtab-section-menu-add-topsite = शीर्ष साइट थप्नुहोस्
-newtab-section-menu-move-up = माथि सार्नुहोस्
-newtab-section-menu-move-down = तल सार्नुहोस्
 newtab-section-menu-privacy-notice = गोपनीयता नीति
 
 ## Section Headers.
 
 newtab-section-header-topsites = शीर्ष साइटहरु
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } द्वारा सिफारिस गरिएको
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ब्राउज गर्न सुरू गर्नुहोस्, र हामी केहि उत्कृष्ट लेखहरू, भिडियोहरू, र अन्य पृष्ठहरू जुन तपाईंले भर्खरै भ्रमण गर्नुभएको वा पुस्तकचिनो राख्नुभएको छ यहाँ देखाउँछौ ।
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = अहिले यति नै । { $provider } बाट थप शीर्ष कथाहरूको हेर्नका लागि पछि फेरि जाँच गर्नुहोस् । अाफुलाई रोक्न सक्नुहुदैन ? वेबभरिका राम्रा कथाहरु भेटाउन कुनै एउटा लोकप्रिय विषय छान्नुहोस् ।
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = लोकप्रिय शीर्षकहरू:
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

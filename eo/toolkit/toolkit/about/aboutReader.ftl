@@ -4,14 +4,6 @@
 
 about-reader-loading = Ŝargado…
 about-reader-load-error = Ne eblis ŝargi artikolon el paĝo
-about-reader-color-scheme-light = Hela
-    .title = Hela koloraro
-about-reader-color-scheme-dark = Malhela
-    .title = Malhela koloraro
-about-reader-color-scheme-sepia = Sepia
-    .title = Sepia koloraro
-about-reader-color-scheme-auto = Aŭtomata
-    .title = Aŭtomata koloraro
 about-reader-color-light-theme = Hela
     .title = Hela etoso
 about-reader-color-dark-theme = Malhela
@@ -24,16 +16,6 @@ about-reader-color-gray-theme = Griza
     .title = Griza etoso
 about-reader-color-contrast-theme = Kontrasta
     .title = Kontrasta etoso
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time =
-    { $rangePlural ->
-        [one] { $range } minuto
-       *[other] { $range } minutoj
-    }
 
 ## Reader View text and layout menu
 
@@ -41,14 +23,6 @@ about-reader-toolbar-minus =
     .title = Etigi tiparan grandon
 about-reader-toolbar-plus =
     .title = Grandigi tiparan grandon
-about-reader-toolbar-contentwidthminus =
-    .title = Etigi larĝon de enhavo
-about-reader-toolbar-contentwidthplus =
-    .title = Grandigi larĝon de enhavo
-about-reader-toolbar-lineheightminus =
-    .title = Etigi alton de linio
-about-reader-toolbar-lineheightplus =
-    .title = Grandigi alton de linio
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -59,7 +33,6 @@ about-reader-font-type-monospace = Egallarĝa
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Fermi legilan vidon
-about-reader-toolbar-type-controls = Agordi tiparon
 about-reader-toolbar-text-layout-controls = Teksto kaj aranĝo
 about-reader-toolbar-theme-controls = Etoso
 about-reader-toolbar-savetopocket = Konservi en { -pocket-brand-name }

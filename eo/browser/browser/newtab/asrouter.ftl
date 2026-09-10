@@ -62,7 +62,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Spegulu viajn legosignojn ĉie.
-cfr-doorhanger-bookmark-fxa-body = Bona trovaĵo! Nun, retrovu tiun ĉi legosignon en viaj poŝaparatoj. Komencu per { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = Bona trovaĵo! Havu ĉemane tiun ĉi legosignon en vian porteblaj aparatoj. Por tio vi unue bezonas konton.
 cfr-doorhanger-bookmark-fxa-link-text = Speguli legosignojn nun…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -75,12 +74,6 @@ fxa-adoption-credit-cards-backup-subtitle = Protektu viajn pagmetodojn per ĉifr
 fxa-adoption-bookmarks-treatment-backup-title = Faru ni sekurkopion de viaj legosignoj
 fxa-adoption-bookmarks-treatment-backup-subtitle = Protektu viajn legosignojn per ĉifrita konservado en viaj aparatoj.
 fxa-adoption-primary-button-label = Krei konton
-
-## Protections panel
-
-cfr-protections-panel-header = Retumu sen esti observata
-cfr-protections-panel-body = Gardu viajn datumojn por vi mem. { -brand-short-name } protektas vin de pluraj el la plej oftaj spuriloj, kiuj sekvas vian retumon.
-cfr-protections-panel-link-text = Pli da informo
 
 ## What's New toolbar button and panel
 
@@ -175,42 +168,8 @@ mr2022-background-update-toast-primary-button-label = Malfermi nun { -brand-shor
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Rememorigi poste
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Provi
-    .accesskey = P
-firefoxview-cfr-secondarybutton = Ne nun
-    .accesskey = N
-firefoxview-cfr-header-v2 = Rapide rekomencu kie vi haltis
-firefoxview-cfr-body-v2 = Per { -firefoxview-brand-name } reprenu ĵuse fermitajn langetojn kaj senĝene iru tien kaj reen inter aparatoj.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Ni prezentas { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Ĉu vi volas havi tiun malfermitan langeton en via telefono? Ĝi estas ĉemane. Ĉu vi bezonas retejon, kiun vi ĵus vizitis? Jen! ĝi estas tie denove per { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Vidi kiel tio ĉi funkcias
-firefoxview-spotlight-promo-secondarybutton = Ignori
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Elekti koloraron
-    .accesskey = E
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Kolorigu vian retumilon per ekskluzivaj tonoj de { -brand-short-name }, inspiritaj de voĉoj kiuj ŝanĝis kulturojn.
-colorways-cfr-header-28days = La koloraroj de sendependaj voĉoj senvalidiĝos la 16-an de januaro
-colorways-cfr-header-14days = La koloraroj de sendependaj voĉoj senvalidiĝos post du semajnoj
-colorways-cfr-header-7days = La koloraroj de sendependaj voĉoj senvalidiĝos ĉi semajne
-colorways-cfr-header-today = La koloraroj de sendependaj voĉoj senvalidiĝos hodiaŭ
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Ĉu permesi al { -brand-short-name } rifuzi kuketajn anoncojn?
-cfr-cbh-body = { -brand-short-name } povas aŭtomate rifuzi plurajn petojn de kuketaj anoncoj.
-cfr-cbh-confirm-button = Rifuzi kuketajn anoncojn
-    .accesskey = R
-cfr-cbh-dismiss-button = Ne nun
-    .accesskey = N
 cookie-banner-blocker-onboarding-header = { -brand-short-name } ĵus rifuzis kuketan anoncon por vi
 cookie-banner-blocker-onboarding-body = Malpli da distro, malpli da kuketoj klopodante spuri vin en tiu ĉi retejo.
 cookie-banner-blocker-onboarding-learn-more = Pli da informo

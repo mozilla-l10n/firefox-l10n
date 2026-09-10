@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>နောက်ဆုံးပေါ်ပြုပြင်ချက်ကို ရယူနေသည် — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = အပ်ဒိတ်ကို ဒေါင်းလုဒ်လုပ်နေသည် — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = နောက်ဆုံးပေါ်ပြုပြင်ချက်ကို ရယူနေသည် — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = အဆင့်မြှင့်တင်မှု ဆောင်ရွက်နေသည်…
 update-failed = အဆင့်မြှင့်တင်ခြင်း မပြုလုပ်နိုင်ပါ။ <label data-l10n-name="failed-link">နောက်ဆုံးထွက်ဗားရှင်းကို ရယူမည်</label>
 update-failed-main = အဆင့်မြှင့်တင်ခြင်း မပြုလုပ်နိုင်ပါ။ <a data-l10n-name="failed-link-main">နောက်ဆုံးထွက်ဗားရှင်းကို ရယူမည်</a>
-update-adminDisabled = အဆင့်မြှင့်တင်ခြင်းကို သင်၏ကွန်ပျူတာစနစ် ထိန်းချုပ်သူက ခွင့်မပြုပါ။
 update-noUpdatesFound = { -brand-short-name } သည် နောက်ဆုံးပေါ်အသစ် ဖြစ်သွားပြီဖြစ်သည်။
 settings-update-no-updates-found =
     .label = { -brand-short-name } သည် နောက်ဆုံးပေါ်အသစ် ဖြစ်သွားပြီဖြစ်သည်။
@@ -61,8 +59,6 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } ကို <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a<label data-l10n-name="community-creditsLink">ကမ္ဘာလုံးဆိုင်ရာ လူမှုအဖွဲ့အစည်း</label> ဝဘ် အများပိုင်ဖြစ်ရန် ၊ ပွင့်လင်းမြင်သာရန် ၊ အသုံးပြုနိုင်ရန် ရည်ရွယ်သည်။
 helpus = အကူအညီပေးချင်ပါသလား။ <label data-l10n-name="helpus-donateLink">လှူဒါန်းပါ</label> သို့မဟုတ် <label data-l10n-name="helpus-getInvolvedLink">ပါဝင်ဆောင်ရွက်ပါ။</label>
 bottomLinks-license = လိုင်စင်အကြောင်းသိကောင်းစရာ
-bottomLinks-rights = သုံးစွဲသူ၏ အခွင့်အရေးများ
-bottomLinks-privacy = ကိုယ်ရေးအချက်အလက်ကာကွယ်မှုမူဝါဒ
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

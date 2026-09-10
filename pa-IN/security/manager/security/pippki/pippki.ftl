@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = ਇਸ ਵੇਲੇ ਤੁਸੀਂ FIPS �
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = ਮੁੱਖ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰੋ
     .style = min-width: 40em
+    .title = ਮੁੱਖ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰੋ
 reset-password-button-label =
     .label = ਮੁੜ-ਲੋਡ ਕਰੋ
 reset-primary-password-text = ਜੇਕਰ ਤੁਸੀਂ ਆਪਣਾ ਮੁੱਖ ਪਾਸਵਰਡ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕੀਤਾ ਤਾਂ, ਤੁਹਾਡੇ ਸਭ ਸੰਭਾਲੇ ਵੈੱਬ ਤੇ ਈ-ਮੇਲ ਪਾਸਵਰਡ, ਫਾਰਮ ਡਾਟਾ, ਨਿੱਜੀ ਸਰਟੀਫਿਕੇਟ ਅਤੇ ਪ੍ਰਾਈਵੇਟ ਕੁੰਜੀਆਂ ਭੁਲਾ ਦਿੱਤੀਆਂ ਜਾਣਗੀਆਂ। ਕੀ ਤੁਸੀਂ ਮੁੱਖ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹੋ?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = ਤੁਹਾਡਾ ਮੁੱਖ ਪ
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
     .style = min-width: 46em
+    .title = ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 download-cert-message = ਤੁਹਾਨੂੰ ਇੱਕ ਨਵੀਂ ਸਰਟੀਫਿਕੇਟ ਅਥਾਰਟੀ (CA) ਉੱਤੇ ਭਰੋਸਾ ਕਰਨ ਲਈ ਕਿਹਾ ਜਾਂਦਾ ਹੈ
 download-cert-trust-ssl =
     .label = ਇਸ CA ਨੂੰ ਵੈੱਬ ਸਾਇਟਾਂ ਨੂੰ ਪਛਾਣ ਲਈ ਵਿਸ਼ਵਾਸ ਵਿੱਚ ਲਵੋ।
@@ -52,8 +52,6 @@ download-cert-view-text = CA ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਵੇਖੋ
 
 client-auth-window =
     .title = ਵਰਤੋਂਕਾਰ ਪਛਾਣ ਦੀ ਬੇਨਤੀ
-client-auth-site-description = ਇਹ ਸਾਇਟ ਨੇ ਤੁਹਾਨੂੰ ਪਛਾਣ ਲਈ ਤੁਹਾਡੇ ਕੋਲੋਂ ਇੱਕ ਸਰਟੀਫਿਕੇਟ ਦੀ ਮੰਗ ਕੀਤੀ ਹੈ:
-client-auth-choose-cert = ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਪਛਾਣ ਵੇਖਾਉਣ ਲਈ ਚੁਣੋ:
 client-auth-send-no-certificate =
     .label = ਸਰਟੀਫ਼ਿਕੇਟ ਨਾ ਭੇਜੋ
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = ਸੁਰੱਖਿਆ ਡਿਵਾਈਸ ({ $tokenName }) ਲਈ ਪਰਮਾਣੀਕਰਨ। ਇਹ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਉੱਤੇ ਨਿਰਭਰ ਕਰਦਾ ਹੈ (ਜਿਵੇਂ ਕਿ ਫਿੰਗਰਪਰਿੰਟ ਰੀਡਰ ਜਾਂ ਕੀਪੈਡ ਨਾਲ ਕੋਡ ਭਰਨਾ)।
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = ਟੋਕਨ “{ $tokenName }” ਲਈ ਪਰਮਾਣਿਤ ਕਰੋ। ਇਹ ਕਿਵੇਂ ਕਰਨਾ ਹੈ, ਇਹ ਟੋਕਨ ਉੱਤੇ ਨਿਰਭਰ ਕਰਦਾ ਹੈ 9ਜਿਵੇਂ ਕਿ ਫ਼ਿੰਗਰਪਰਿੰਟ ਰੀਡਰ ਜਾਂ ਕੀਪੈਡ ਨਾਲ ਕੋਡ ਭਰ ਕੇ)।

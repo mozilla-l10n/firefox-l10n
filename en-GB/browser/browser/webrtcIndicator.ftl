@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } — Sharing Indicator
-webrtc-indicator-window =
-    .title = { -brand-short-name } — Sharing Indicator
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = You are sharing your microphone. Click to control sharing.
 webrtc-screen-system-menu =
     .label = You are sharing a window or a screen. Click to control sharing.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Your camera and microphone are being shared. Click to control sharing.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Your camera is being shared. Click to control sharing.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Your microphone is being shared. Click to control sharing.
-webrtc-indicator-sharing-application =
-    .tooltiptext = An application is being shared. Click to control sharing.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Your screen is being shared. Click to control sharing.
-webrtc-indicator-sharing-window =
-    .tooltiptext = A window is being shared. Click to control sharing.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = A tab is being shared. Click to control sharing.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Allow { $origin 
 
 webrtc-share-screen-warning = Only share screens with sites you trust. Sharing can allow deceptive sites to browse as you and steal your private data.
 webrtc-share-browser-warning = Only share { -brand-short-name } with sites you trust. Sharing can allow deceptive sites to browse as you and steal your private data.
-webrtc-share-screen-learn-more = Learn more
 webrtc-pick-window-or-screen = Select window or screen
 webrtc-share-entire-screen = Entire screen
 webrtc-share-pipe-wire-portal = Use operating system settings

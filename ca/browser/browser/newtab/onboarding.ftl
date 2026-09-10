@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Afegeix { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Progrés: pas { $current } de { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -198,11 +192,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Fixa el { -brand-short-name } a la barra de tasques i al menú d'inici
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Inicieu amb un navegador creat per una organització sense ànim de lucre. Defensem la vostra privadesa mentre navegueu pel web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -232,57 +221,10 @@ mr2022-onboarding-set-default-subtitle = Utilitzeu un navegador creat per una or
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Hem creat l'última versió tenint en compte el vostre punt de vista, i és més fàcil que mai navegar pel web. Ve farcida de funcions que us fascinaran.
 mr2022-onboarding-get-started-primary-button-label = Configura-la en un tres i no res
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Configuració ultraràpida
-mr2022-onboarding-import-subtitle = Configureu el { -brand-short-name } com més us agradi. Afegiu-hi les adreces d'interès, contrasenyes i molt més del vostre navegador antic.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importa del navegador anterior
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Trieu el color que us inspiri
-mr2022-onboarding-colorway-subtitle = Les veus independents poden canviar la cultura.
-mr2022-onboarding-colorway-primary-button-label-continue = Defineix i continua
-mr2022-onboarding-existing-colorway-checkbox-label = Convertiu l'{ -firefox-home-brand-name } en la vostra pàgina d'inici més acolorida
-mr2022-onboarding-colorway-label-default = Per defecte
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Colors actuals del { -brand-short-name }
-mr2022-onboarding-colorway-description-default = <b>Utilitza els meus colors actuals del { -brand-short-name }.</b>
-mr2022-onboarding-colorway-label-playmaker = Migcampista
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Migcampista (vermell)
-mr2022-onboarding-colorway-description-playmaker = <b>Sou migcampista.</b> Creeu oportunitats per guanyar i ajudeu tothom qui us envolta a millorar el seu joc.
-mr2022-onboarding-colorway-label-expressionist = Expressionista
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Expressionista (groc)
-mr2022-onboarding-colorway-description-expressionist = <b>Sou una persona expressionista.</b> Veieu el món d'una altra manera i les vostres creacions regiren les emocions dels altres.
-mr2022-onboarding-colorway-label-visionary = Visionari
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Visionari (verd)
-mr2022-onboarding-colorway-description-visionary = <b>Sou una persona visionària.</b> Poseu en dubte l'statu quo i inciteu els altres a imaginar un futur millor.
-mr2022-onboarding-colorway-label-activist = Activista
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Activista (blau)
-mr2022-onboarding-colorway-description-activist = <b>Sou una persona activista.</b> Feu que el món sigui millor del que l'heu trobat i convenceu els altres perquè creguin en el canvi.
-mr2022-onboarding-colorway-label-dreamer = Somniador
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Somniador (porpra)
-mr2022-onboarding-colorway-description-dreamer = <b>Sou una persona somniadora.</b> Creieu que la fortuna afavoreix els atrevits i inspira els altres a ser valents.
-mr2022-onboarding-colorway-label-innovator = Innovador
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Innovador (taronja)
-mr2022-onboarding-colorway-description-innovator = <b>Sou una persona innovadora.</b> Veieu oportunitats a tot arreu i teniu un impacte en la vida de tothom qui us envolta.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Salteu del portàtil al telèfon, i viceversa
-mr2022-onboarding-mobile-download-subtitle = Recupereu les pestanyes d'un dispositiu i continueu des d'on ho havíeu deixat en un altre. A més, sincronitzeu les adreces d'interès i les contrasenyes arreu on utilitzeu el { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Escanegeu el codi QR per instal·lar el { -brand-product-name } per al mòbil o <a data-l10n-name="download-label">envieu-vos un enllaç per baixar-lo.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Escanegeu el codi QR per instal·lar el { -brand-product-name } per al mòbil.
 
@@ -335,15 +277,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Xoc de mans entre una mà de pell clara i una de pell fosca
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Vista d'una posta de sol a través d'una finestra amb una guineu i una planta d'interior a l'ampit d'una finestra
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Un aerosol de mà pinta un collage colorit d'un ull verd, una sabata taronja, una pilota de bàsquet vermella, uns auriculars liles, un cor blau i una corona groga
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Una guineu a la pantalla d'un ordinador portàtil saludant. El portàtil té un ratolí connectat.
 onboarding-device-migration-title = Us donem de nou la benvinguda
-onboarding-device-migration-subtitle = Inicieu la sessió al vostre { -fxaccount-brand-name(capitalization: "sentence") } per accedir a les vostres adreces d'interès, les contrasenyes i l'historial en el dispositiu nou.
 onboarding-device-migration-subtitle2 = Inicieu la sessió al vostre compte per accedir a les vostres adreces d'interès, les contrasenyes i l'historial en el dispositiu nou.
 onboarding-device-migration-primary-button-label = Inicia la sessió
 
@@ -460,15 +399,12 @@ tab-groups-onboarding-feature-callout-title = Els grups de pestanyes milloren l�
 tab-groups-onboarding-feature-callout-subtitle = Arrossegueu una pestanya sobre una altra per crear el vostre primer grup.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Trobareu els vostres grups de pestanyes al menú «Llista totes les pestanyes» quan vulgueu.
-tab-groups-onboarding-create-group-title-2 = Trobareu els vostres grups de pestanyes aquí quan vulgueu.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Trobeu els vostres grups cercant-los a la barra d'adreces.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Quan tanqueu un grup de pestanyes, el podeu tornar a obrir des del menú «Llista totes les pestanyes» quan vulgueu.
-tab-groups-onboarding-saved-groups-title-2 = Quan tanqueu un grup de pestanyes, podeu tornar a obrir-lo des d’aquí en qualsevol moment.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Trobeu els grups tancats cercant-los a la barra d'adreces.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Torneu a obrir els vostres grups de pestanyes des del menú «Llista totes les pestanyes» quan vulgueu.
-tab-groups-onboarding-session-restore-title = Torneu a obrir els vostres grups de pestanyes des d’aquí quan vulgueu.
 tab-groups-onboarding-dismiss = D'acord
 
 ## Multi Profiles feature onboarding messages

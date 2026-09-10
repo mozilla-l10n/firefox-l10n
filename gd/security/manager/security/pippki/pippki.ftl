@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Tha thu ann am modh FIPS an-dràsta. Feuma
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Ath-shuidhich am prìomh fhacal-faire
     .style = min-width: 44em
+    .title = Ath-shuidhich am prìomh fhacal-faire
 reset-password-button-label =
     .label = Ath-shuidhich
 reset-primary-password-text = Ma dh’fhalamhaicheas tu am prìomh fhacal-faire, thèid gach facal-faire airson làraichean-lìn is puist-dhealain, teisteanasan pearsanta is iuchraichean prìobhaideach air chall. A bheil thu cinnteach gu bheil thu airson am prìomh fhacal-faire agad ath-shuidheachadh?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Chaidh am prìomh fhacal-faire agad
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = A' luchdadh a-nuas teisteanas
     .style = min-width: 46em
+    .title = A' luchdadh a-nuas teisteanas
 download-cert-message = Chaidh iarraidh ort earbsa a chur ann an ùghdarras teisteanachaidh (ÙT) ùr.
 download-cert-trust-ssl =
     .label = Cuir earbsa san ùghdarras teisteanachaidh seo gus làraichean-lìn aithneachadh.
@@ -52,8 +52,6 @@ download-cert-view-text = Sgrùdaich teisteanas an ùghdarrais theisteanachaidh
 
 client-auth-window =
     .title = Iarrtas aithneachadh cleachdaiche
-client-auth-site-description = Dh'iarr an làrach ort aithne a thoirt ort fhèin le teisteanas:
-client-auth-choose-cert = Tagh teisteanas a nochdas tu mar dhearbh-aithne:
 client-auth-cert-details = Mion-fhiosrachadh an teisteanais a thagh thu:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
@@ -88,9 +86,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Facal-faire lethbhreac-glèidhidh an teisteanais (a-rithist):
 set-password-reminder = Cudromach: ma dhìochuimhnicheas tu facal-faire lethbhreac-glèidhidh an teisteanais agad, chan urrainn dhut an lethbhreac-glèidhidh seo a chleachdadh as dèidh sin.  Cum cunntas dheth ann an àite sàbhailte.
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Please authenticate to the token “{ $tokenName }”. How to do so depends on the token (for example, using a fingerprint reader or entering a code with a keypad).

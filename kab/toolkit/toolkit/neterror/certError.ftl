@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Aselkin-agi d araɣelkan acku adabu i d-yefk
 cert-error-trust-signature-algorithm-disabled = Aselkin d araɣelsan acku ittuzmel s ulguritm n uzmul yettwassens imi alguritm-agi d araɣelsan.
 cert-error-trust-expired-issuer = Aselkin d araqelsan acku aselkin n ubadu it-id-yefkan izri.
 cert-error-trust-self-signed = Aselkin-agi d aranelkan acku d uzmilman.
-cert-error-trust-symantec = Iselkinen id-ssufuɣen GeoTrust, RapidSSL, Symantec, Thawte, akked VeriSign uɣalen ttwaḥsaben d araɣelsanen acku iduba n iselkinen-agi ur sawḍen ara ad ḍefren insayen n tɣellist.
 cert-error-untrusted-default = Aselkin-agi ur d yusi ara seg uɣbalu anelkan.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -52,10 +51,6 @@ cert-error-code-prefix-link = Tangalt n tuccḍa: <a data-l10n-name="error-code-
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Teḍra-d tuccḍa di tuqqna ɣer { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Ismal web ttebganen-d timagit-nsen s Iselkinen i d-ttawin sɣur iduba n iselkinen. Tuget n yiminigen ur ttamnen ara iselkinen n GeoTrust, RapidSSL, Symantec, Thawte, akked VeriSign. { $hostname } isseqdac aselkin n yiwen n yiduba-agi ɣef waya timagit n usmel web ur tezmir ara ad d-tettwabgen.
-cert-error-symantec-distrust-admin = Tzemreḍ ad telɣuḍ anebdal n usmel web ɣef ugur-agi.
 cert-error-old-tls-version = Asmel-a web yezmer ur issefrak ara aneggaf n TLS 1.2, i yellan d lqem adday yettusefraken sɣur { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -64,18 +59,16 @@ cert-error-details-hsts-label = Taɣellist n umesni ufrin HTTP: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Public Key Pinning HTTP:{ $hasHPKP }
 cert-error-details-cert-chain-label = Azrar n uselkin:
-open-in-new-window-for-csp-or-xfo-error = Ldi asmel deg usfaylu amaynut
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Akken ad tḥarzeḍ taɣellist-inek, { $hostname } ur isirig ara i { -brand-short-name } ad d-yesken asebter ma yella i isuleɣ-it usmel-nniḍen. Akken ad twaliḍ asebter-a, ilaq-ak ad t-teldiḍ deg usfaylu-nniḍen.
 fp-certerror-view-certificate-link = Sken aselkin n usmel
-fp-certerror-return-to-previous-page-recommended-button = Uɣal ɣer deffir (Yelha)
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Tangalt n tuccḍa: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 fp-learn-more-about-secure-connection-failures = Issin ugar ɣef tuqqniwin n tɣellist yeccḍen
 fp-learn-more-about-cert-issues = Issin ugar ɣef wanawen-a n wuguren n uselkin
 
@@ -87,8 +80,6 @@ deniedPortAccess-title = Tansa-yagi tegdel
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Nesɛa uguren akken ad naf asmel.
 internet-connection-offline-title = Yettban yella wugur akked tuqqna-k Internet.
-dns-not-found-trr-only-title2 = Yezmer ad yili wugur n tɣellist lawan n uṣeggem n taɣult-a
-dns-not-found-native-fallback-title2 = Yezmer ad yili wugur n tɣellist lawan n uṣeggem n taɣult-a
 fileNotFound-title = Ulac afaylu
 fileAccessDenied-title = Anekcum ɣer ufaylu yegdel
 generic-title = Ihuh.
@@ -112,7 +103,6 @@ redirectLoop-title = Asebter ur yettuwelleh ara akken iwata
 unknownSocketType-title = Aqeddac yerra-d yir tiririt ur nettwaṛǧi ara
 nssFailure2-title = Tuqqna taɣelsant ur teddi ara
 csp-xfo-error-title = { -brand-short-name } ur yezmir ara ad yeldi asebter-a
-corruptedContentError-title = Tuccḍa tekka-d seg ugbur ixesṛen
 sslv3Used-title = Ur yezmir ara ad yeqqen s wudem aɣelsan
 inadequateSecurityError-title = Tuqqna-inek d taraɣelsant
 blockedByPolicy-title = Asebter iwḥel
@@ -129,8 +119,3 @@ fp-certerror-what-can-you-do = D acu i tzemreḍ ad txedmeḍ i waya?
 fp-certerror-advanced-title = Talqayt
 fp-certerror-advanced-button = Talqayt
 fp-certerror-hide-advanced-button = Ffer talqayt
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-
-fp-certerror-override-exception-button = Kemmel ɣer { $hostname } (Yella imihi)

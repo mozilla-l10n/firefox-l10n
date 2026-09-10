@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Open a Private Windae
     .accesskey = P
 about-private-browsing-search-placeholder = Sairch the Wab
-about-private-browsing-info-title = Ye're in a Private Windae
 about-private-browsing-search-btn =
     .title = Sairch the wab
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Sairch wi { $engine } or inpit address
 about-private-browsing-handoff-text-no-engine = Sairch or inpit address
 about-private-browsing-not-private = Richt noo, ye're no in a private windae
-about-private-browsing-info-description-private-window = { -brand-short-name } dichts yer sairch and stravaigin historie aince ye sneck aw private windaes. This disnae mak ye anonymous.
-about-private-browsing-info-description-simplified = { -brand-short-name } dichts yer sairch and stravaigin historie aince ye sneck aw private windaes, but this disnae mak ye anonymous.
-about-private-browsing-learn-more-link = Lairn mair
 about-private-browsing-hide-activity = Hide yer activity and airtin, awwhaur ye stravaig
 about-private-browsing-prominent-cta = Stey private wi { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection

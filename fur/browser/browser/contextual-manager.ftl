@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Cîr tes passwords
-    .key = F
     .aria-label = Cîr tes passwords
+    .key = F
+    .placeholder = Cîr tes passwords
 contextual-manager-menu-more-options-button =
     .title = Altris opzions
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Impuarte di un file…
 contextual-manager-passwords-command-export = Espuarte passwords
 contextual-manager-passwords-command-remove-all = Gjave dutis lis passwords
 contextual-manager-passwords-command-options = Opzions
-contextual-manager-passwords-command-settings = Impostazions
 contextual-manager-passwords-command-help = Jutori
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Passwords impuartadis
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Gnovis: { $added }, Inzornadis: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -219,8 +214,6 @@ contextual-manager-passwords-create-label =
     .label = Zonte password
 contextual-manager-passwords-update-label =
     .label = Inzorne password
-contextual-manager-passwords-edit-label =
-    .label = Modifiche password
 contextual-manager-passwords-remove-label =
     .title = Gjave password
 contextual-manager-passwords-origin-field =
@@ -236,7 +229,6 @@ contextual-manager-passwords-password-field-description = Inserìs la password p
 contextual-manager-passwords-origin-tooltip = Inserìs la direzion precise là che tu fasis l’acès par chest sît.
 contextual-manager-passwords-username-tooltip = Inserìs il non utent, la direzion e-mail o il numar di account che tu dopris par jentrâ.
 contextual-manager-passwords-password-tooltip-2 = Inserìs la password par jentrâ su chest account.
-contextual-manager-passwords-password-tooltip = Inserìs la password che tu dopris par jentrâ in chest account.
 
 ## Password Card
 
@@ -283,10 +275,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Copie password (avîs)
 contextual-manager-edit-login-button = Modifiche
     .tooltiptext = Modifiche password
-contextual-manager-view-alert-heading =
-    .heading = Visualize avîs
-contextual-manager-view-alert-button =
-    .tooltiptext = Esamine avîs
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -315,13 +303,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Nissune password cjatade
 contextual-manager-passwords-no-passwords-found-message-2 = Prove cuntun tiermin diviers e cîr di gnûf.
-contextual-manager-passwords-no-passwords-found-message = Nissune password cjatade. Cîr un tiermin diviers e torne prove.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Salve lis tôs passwords intun puest sigûr.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Dutis lis passwords a vegnin cifradis e nô o tignarìn di voli lis violazions e i avîs tal câs che ti tocjin.

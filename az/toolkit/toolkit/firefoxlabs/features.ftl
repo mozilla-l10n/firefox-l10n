@@ -15,19 +15,12 @@ experimental-features-js-warp-description = Warp adlı JavaScript performansın�
 experimental-features-ime-search =
     .label = Ünvan Sətri: IME yazımı zamanı nəticələri göstər
 experimental-features-ime-search-description = IME (Giriş Metodu Redaktoru) standart klaviaturadan istifadə edərək Şərqi Asiya və ya Hind dillərindəki yazı sistemlərində işlədilən mürəkkəb simvolları daxil etməyə imkan verən bir vasitədir. Bu eksperimenti aktivləşdirdikdə ünvan sətri paneli açıq qalacaq, mətn daxil etmək üçün IME-dən istifadə edərkən axtarış nəticələri və təkliflər görünməyə davam edəcək. Qeyd edək ki, IME ünvan sətrindəki nəticələri örtən ayrıca bir panel göstərə bilər. Buna görə də bu seçim yalnız belə paneldən istifadə etməyən IME-lər üçün tövsiyə olunur.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Şəkildə-Şəkil: vərəq dəyişdirəndə avtomatik aç
-experimental-features-auto-pip-description = Vərəqlər arasında keçid edərkən aktiv videolarda Şəkildə-Şəkili aktivləşdirir.
 experimental-features-group-developer-tools =
     .label = Tərtibatçı Alətləri
 experimental-features-group-customize-browsing =
     .label = Səyahətinizi özəlləşdirin
 experimental-features-group-productivity =
     .label = Məhsuldarlıq
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Yan paneldə parollar
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Link önbaxışları

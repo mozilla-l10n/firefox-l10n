@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = Katokiyaj pa taq awoyonib'äl akuchi' ye
 callout-firefox-view-tab-pickup-subtitle = Anin ke'achapa' ri jaqon taq ruwi' pa awoyonib'äl richin ye'ajäq rik'in ri jalajöj asamajib'al.
 callout-firefox-view-recently-closed-title = Pan anin ke'akolo' ri taq ruwi' xe'atz'apij
 callout-firefox-view-recently-closed-subtitle = Konojel ri taq ruwi' xe'atz'apij xkewachin wawe'. Mani chik yamayo' ruma k'ate' natz'apij kan jun ruxaq.
-callout-firefox-view-colorways-title = Tatz'aqatisaj jun rub'onil pa rub'eyal
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Tacha' jun ruwäch nuk'üt ab'anikil rik'in kijunamaxik taq b'onil. Xa xe pa { -brand-product-name }.
-callout-firefox-view-colorways-reminder-title = Tanik'oj ri ruk'isib'äl kitunik qab'onil
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Ke'ab'onil ri awokik'amaya'l rik'in re wachixel taq ruwäch re', petenäq chi rij ri jamäl ch'ab'äl. Xa xe pa { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

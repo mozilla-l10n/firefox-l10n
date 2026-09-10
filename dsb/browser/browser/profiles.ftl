@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } waš ako slědny wužyty profil wócynijo.
 profile-window-create-profile = Profil załožyś
 profile-card-edit-button =
-    .title = Profil wobźěłaś
     .aria-label = Profil wobźěłaś
+    .title = Profil wobźěłaś
 profile-card-delete-button =
-    .title = Profil wulašowaś
     .aria-label = Profil wulašowaś
+    .title = Profil wulašowaś
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = { $profileName } wócyniś
     .aria-label = { $profileName } wócyniś
+    .title = { $profileName } wócyniś
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profil { $number }
@@ -83,9 +83,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Profil { $profilename } lašowaś
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = Profil { $profilename } lašowaś?
 delete-profile-description = { -brand-short-name } na pśecej slědujuce daty z toś togo rěda wulašujo:
 # Open is an adjective, as in "browser windows currently open".
@@ -112,28 +109,10 @@ delete-profile-confirm = Lašowaś
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Swětły
-# The default dark theme
-profiles-dark-theme = Śamny
 # The default system theme
 profiles-system-theme = System
 profiles-system-theme-title =
     .title = Systemowu drastwu nałožyś
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = Žołta knochanka
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = Blědy lawendel
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = Mjetwiny zeleny
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = Rožojta magnolija
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = Oceaniski módry
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = Cyglojty
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = Mechzeleny
 profiles-gray-theme = Šery
 profiles-gray-theme-title =
     .title = Šeru drastwu nałožyś
@@ -290,9 +269,6 @@ profiles-appmenu-callout-tour-subtitle = Pótusniśo w meniju ☰ swójo profilo
 profiles-appmenu-callout-tour-primary-button = Pokažćo mě kak
 barbell-avatar = Hantla
 bike-avatar = Kólaso
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Awatar hantle nałožyś
 bike-avatar-tooltip =

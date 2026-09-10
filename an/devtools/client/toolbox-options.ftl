@@ -87,8 +87,6 @@ options-context-advanced-settings = Achustes abanzaus
 options-disable-http-cache-label = Desactivar la caché HTTP (quan a caixa de ferramientas ye ubierta)
 options-disable-http-cache-tooltip =
     .title = Activar ista opción desactiva la caché HTTP en totas las pestanyas que tienen la caixa de ferramientas ubierta. Los Service Workers no son afectaus por ista opción.
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Desactivar JavaScript *
 options-disable-javascript-tooltip =
     .title = Activando ista opción se desactivará JavaScript en a pestanya actual. Si a pestanya u caixa de ferramientas de zarra alavez iste achuste se descartará.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -105,8 +103,6 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Habilitar los mapas fuent
 options-source-maps-tooltip =
     .title = Si activas esta opción las fuents serán mapiadas en as ferramientas.
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * esviella a pachina nomás ta ista sesión
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

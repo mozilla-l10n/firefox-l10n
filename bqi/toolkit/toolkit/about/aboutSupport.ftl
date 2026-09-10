@@ -23,10 +23,6 @@ security-software-name = نوم
 security-software-antivirus = آنتی ویرۊس
 security-software-antispyware = زد جاسۊسی
 security-software-firewall = دیواره تش
-features-title = ویژیی یل { -brand-short-name }
-features-name = نوم
-features-version = نوسخه
-features-id = شناسه
 processes-title = پردازشتا ز ره دیر
 processes-type = نوع
 processes-count = تعداد
@@ -52,7 +48,6 @@ app-basics-profile-dir =
         [linux] دایرکتوری پوروفایل
        *[other] دوبلگه پوروفایل
     }
-app-basics-enabled-plugins = منپیز وابیڌه یل فعال
 app-basics-build-config = سامووا مجال وورکل کردن
 app-basics-user-agent = نوم نماینده منتور
 app-basics-os = سیستوم عامل
@@ -68,8 +63,6 @@ app-basics-enterprise-policies = خت مشی یل سازمۊوی
 app-basics-data-size = { $value } { $unit }
 environment-variables-name = نوم
 environment-variables-value = مقدار
-experimental-features-name = نوم
-experimental-features-value = مقدار
 modified-prefs-name = نوم
 modified-prefs-value = مقدار
 locked-prefs-name = نوم

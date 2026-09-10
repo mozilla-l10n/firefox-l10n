@@ -24,8 +24,6 @@ options-screenshot-audio-label = دەنگی چرکاندن کامێرا پێبک
 
 ## Advanced section
 
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = JavaScript * ناچالاک بکە
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

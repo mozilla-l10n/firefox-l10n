@@ -95,15 +95,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Saajaw alhaalooo na tontoney kul kayandi.
-extensions-warning-check-compatibility = Tontoni cerekanbeyan koroširoo kayandi. I ga hima tontoniyaŋ kaŋ ši cerekanbe.
-extensions-warning-safe-mode2 =
-    .message = Saajaw alhaalooo na tontoney kul kayandi.
 extensions-warning-check-compatibility2 =
     .message = Tontoni cerekanbeyan koroširoo kayandi. I ga hima tontoniyaŋ kaŋ ši cerekanbe.
 extensions-warning-check-compatibility-button = Tunandi
     .title = Tontoni cerekanbeyan korošiyan tunandi
-extensions-warning-update-security = Tontoni saajaw taagandiri koroširoo kayandi. A ga hima taagandirey ga šendayyaŋ kate.
 extensions-warning-update-security2 =
     .message = Tontoni saajaw taagandiri koroširoo kayandi. A ga hima taagandirey ga šendayyaŋ kate.
 extensions-warning-update-security-button = Tunandi
@@ -156,24 +151,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } nda { -brand-short-name } { $version } ši cere kanbe.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } nda { -brand-short-name } { $version } ši cere kanbe.
-details-notification-unsigned-and-disabled = { $name } mana hin ka korosandi ka goy nda { -brand-short-name } nda an' ka kayandi.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } mana hin ka korosandi ka goy nda { -brand-short-name } nda an' ka kayandi.
-details-notification-unsigned-and-disabled-link = Alhabar tontoni
-details-notification-unsigned = { $name } mana hin ka korosandi ka goy nda { -brand-short-name }. War ma hawgay.
 details-notification-unsigned2 =
     .message = { $name } mana hin ka korosandi ka goy nda { -brand-short-name }. War ma hawgay.
-details-notification-unsigned-link = Alhabar tontoni
-details-notification-blocked = { $name } kay saajaw wala tabatiyan-jaŋay sabbu se.
-details-notification-blocked-link = Alhabar tontoni
-details-notification-softblocked = { $name } bayray ra, ga hin ka saajaw wala tabatiyan šenday tee.
-details-notification-softblocked-link = Alhabar tontoni
-details-notification-gmp-pending = { $name } ga kaa ka sinja kayna da.
 details-notification-gmp-pending2 =
     .message = { $name } ga kaa ka sinja kayna da.
 

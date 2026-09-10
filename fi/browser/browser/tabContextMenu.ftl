@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Uusi välilehti
-    .accesskey = U
 reload-tab =
     .label = Päivitä välilehti
     .accesskey = P
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Uusi ryhmä
     .accesskey = r
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -200,13 +193,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Luo jaettava linkki
     .accesskey = a
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Lähetä välilehti laitteeseen
-           *[other] Lähetä { $tabCount } välilehteä laitteeseen
-        }
-    .accesskey = L
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

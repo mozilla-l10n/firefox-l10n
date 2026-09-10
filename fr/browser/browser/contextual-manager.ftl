@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Rechercher des mots de passe
-    .key = F
     .aria-label = Rechercher des mots de passe
+    .key = F
+    .placeholder = Rechercher des mots de passe
 contextual-manager-menu-more-options-button =
     .title = Options supplémentaires
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Importer depuis un fichier…
 contextual-manager-passwords-command-export = Exporter les mots de passe
 contextual-manager-passwords-command-remove-all = Supprimer tous les mots de passe
 contextual-manager-passwords-command-options = Options
-contextual-manager-passwords-command-settings = Paramètres
 contextual-manager-passwords-command-help = Aide
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Mots de passe importés
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Nouveaux : { $added }, mis à jour : { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -217,8 +212,6 @@ contextual-manager-passwords-create-label =
     .label = Ajouter un mot de passe
 contextual-manager-passwords-update-label =
     .label = Mettre à jour le mot de passe
-contextual-manager-passwords-edit-label =
-    .label = Modifier le mot de passe
 contextual-manager-passwords-remove-label =
     .title = Supprimer le mot de passe
 contextual-manager-passwords-origin-field =
@@ -234,7 +227,6 @@ contextual-manager-passwords-password-field-description = Saisissez le mot de pa
 contextual-manager-passwords-origin-tooltip = Saisissez l’adresse exacte de la page de connexion de ce site.
 contextual-manager-passwords-username-tooltip = Saisissez le nom d’utilisateur, l’adresse e-mail ou le numéro de compte que vous utilisez pour vous connecter.
 contextual-manager-passwords-password-tooltip-2 = Saisissez le mot de passe pour vous connecter à ce compte.
-contextual-manager-passwords-password-tooltip = Saisissez le mot de passe utilisé pour vous connecter à ce compte.
 
 ## Password Card
 
@@ -281,10 +273,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Copier le mot de passe (avertissement)
 contextual-manager-edit-login-button = Modifier
     .tooltiptext = Modifier le mot de passe
-contextual-manager-view-alert-heading =
-    .heading = Voir l’alerte
-contextual-manager-view-alert-button =
-    .tooltiptext = Consulter l’alerte
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -311,13 +299,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Aucun mot de passe trouvé
 contextual-manager-passwords-no-passwords-found-message-2 = Essayez un terme différent et recherchez à nouveau.
-contextual-manager-passwords-no-passwords-found-message = Aucun mot de passe trouvé. Essayez une nouvelle recherche.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Enregistrez vos mots de passe en lieu sûr.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Tous les mots de passe sont chiffrés, nous surveillerons les fuites de données et les alertes si vous êtes concerné·e.

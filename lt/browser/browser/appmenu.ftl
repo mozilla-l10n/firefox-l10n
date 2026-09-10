@@ -27,8 +27,6 @@ appmenuitem-downloads =
     .label = Atsiuntimai
 appmenuitem-passwords =
     .label = Slaptažodžiai
-appmenuitem-addons-and-themes =
-    .label = Priedai ir grafiniai apvalkalai
 appmenuitem-print =
     .label = Spausdinti…
 appmenuitem-find-in-page =
@@ -93,7 +91,6 @@ appmenu-remote-tabs-unverified = Jūsų paskyra turi būti patvirtinta.
 appmenuitem-fxa-toolbar-sync-now2 = Sinchronizuoti dabar
 appmenuitem-fxa-sign-in = Prisijungti prie „{ -brand-product-name }“
 appmenuitem-fxa-manage-account = Tvarkyti paskyrą
-appmenu-fxa-header2 = „{ -fxaccount-brand-name }“ paskyra
 appmenu-account-header = Paskyra
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -106,15 +103,6 @@ appmenu-fxa-setup-sync =
     .label = Įjungti sinchronizavimą…
 appmenuitem-save-page =
     .label = Įrašyti kaip…
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Kas naujo
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Pranešti apie naujas funkcijas
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -215,8 +203,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Daugiau informacijos problemų sprendimui
     .accesskey = p
-appmenu-help-report-site-issue =
-    .label = Pranešti apie svetainės problemą…
 appmenu-help-share-ideas =
     .label = Pasidalinti idėjomis ir atsiliepimais…
     .accesskey = s

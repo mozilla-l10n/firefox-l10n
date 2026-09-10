@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = Som na stránke “{ $tabTitle }” s označený
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Opýtajte sa AI chatbota
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Opýtajte sa { $provider }
 genai-menu-open-generic =
     .label = Otvoriť chatbota s umelou inteligenciou
 # $provider (string) - name of the provider
@@ -124,8 +119,6 @@ genai-header-provider-menu =
     .title = Vyberte si chatbota
 genai-header-settings-button =
     .title = Nastavenia chatu s umelou inteligenciou
-genai-header-options-button =
-    .title = Otvoriť ponuku
 genai-header-close-button =
     .title = Zavrieť
 genai-provider-view-details =
@@ -153,37 +146,25 @@ genai-page-button-summarize = Vytvor súhrn stránky
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Vytvárajte súhrny, vymýšľajte a ešte oveľa viac
 genai-onboarding-choose-header = V bočnom paneli { -brand-short-name(case: "gen") } vyberte AI chatbota, ktorého chcete použiť
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Na bočnom paneli { -brand-short-name(case: "gen") } zvoľte AI chatbota, ktorého chcete použiť. Ku každému chatbotovi vám zobrazíme informácie. Prepnúť chatbota môžete kedykoľvek. <a data-l10n-name="learn-more">Ďalšie informácie</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Prepnúť môžete kedykoľvek. Ak potrebujete pomoc pri výbere, <a data-l10n-name="learn-more">prečítajte si viac informácií o jednotlivých chatbotoch</a>.
 genai-onboarding-primary = Pokračovať
 genai-onboarding-secondary = Zavrieť
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Ďalšie informácie o Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Ďalšie informácie o ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Ďalšie informácie o Copilotovi
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Ďalšie informácie o Google Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = Ďalšie informácie o HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Ďalšie informácie o Le Chat
-genai-onboarding-select-header = Ak chcete zobraziť návrhy, vyberte text
-genai-onboarding-select-description = Keď vyberiete text, navrhneme vám výzvy, ktoré môžete poslať chatbotovi. Môžete tiež napísať svoje vlastné výzvy.
-genai-onboarding-select-primary = Začnite četovať
 genai-chatbot-contextual-title = Používajte chatbota s umelou inteligenciou bez prepínania kariet
 genai-chatbot-contextual-subtitle = Chatujte a prehliadajte web vedľa seba tak, že si do bočného panela { -brand-short-name(case: "gen") } pridáte chatbota s umelou inteligenciou.
 genai-chatbot-contextual-button = Vyberte si chatbota
@@ -196,27 +177,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = Kliknite pravým tlačidlom m
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Otvorte svojho chatbota s umelou inteligenciou v bočnom paneli a v dolnej časti vyberte možnosť „Vytvor súhrn stránky“.
 genai-chatbot-summarize-footer-generic-subtitle = Pridajte do bočného panela { -brand-short-name(case: "gen") } chatbota s umelou inteligenciou, aby ste mohli rýchlo jednoducho vytvárať súhrny stránok.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Generovanie textu a kódu
-genai-onboarding-claude-analyze = Analýza dokumentov a obrázkov
-genai-onboarding-claude-price = Bezplatné a platené možnosti; je potrebný účet
-genai-onboarding-chatgpt-generate = Generovanie textu, obrázkov a kódu
-genai-onboarding-chatgpt-analyze = Analýza dokumentov a obrázkov
-genai-onboarding-chatgpt-price = Bezplatné a platené možnosti; pre niektoré krajiny a úlohy je potrebný účet
-genai-onboarding-copilot-generate = Generovanie textu, obrázkov a kódu
-genai-onboarding-copilot-analyze = Analýza obrázkov
-genai-onboarding-copilot-price = Bezplatné a platené možnosti; pre niektoré úlohy je potrebný účet
-genai-onboarding-gemini-generate = Generovanie textu, obrázkov a kódu
-genai-onboarding-gemini-analyze = Analýza obrázkov (zadarmo) a dokumentov (platené)
-genai-onboarding-gemini-price = Bezplatné a platené možnosti; je potrebný účet
-genai-onboarding-huggingchat-generate = Generovanie textu a kódu
-genai-onboarding-huggingchat-switch = Prepínanie medzi rozmanitou sadou otvorených modelov
-genai-onboarding-huggingchat-price-2 = Zadarmo; po určitom počte požiadaviek je potrebný účet
-genai-onboarding-lechat-generate = Generovanie textu a kódu
-genai-onboarding-lechat-price = Zadarmo; je potrebný účet
 
 ## Model Optin Component
 
@@ -257,8 +217,8 @@ link-preview-generation-retry = Skúsiť znova
 link-preview-settings-button =
     .title = Nastavenia ukážky odkazu
 link-preview-settings-enable =
-    .label = Povoliť ukážky odkazov
     .description = Po použití skratky alebo kliknutí pravým tlačidlom myši na odkaz sa zobrazí názov stránky, popis a ďalšie informácie.
+    .label = Povoliť ukážky odkazov
 link-preview-settings-key-points =
     .label = Umožní umelej inteligencii prečítať začiatok stránky a vygenerovať kľúčové body
 link-preview-settings-long-press =

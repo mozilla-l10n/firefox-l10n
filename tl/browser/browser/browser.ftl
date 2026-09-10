@@ -2,49 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Private Browsing
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Private Browsing
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Private Browsing
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Private Browsing
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Pribadong Pagba-browse
@@ -81,8 +38,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Buksan ang offline storage message panel
 urlbar-password-notification-anchor =
     .tooltiptext = Buksan ang save password message panel
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Pangasiwaan ang paggamit ng plug-in
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = I-manage ang pag-share ng iyong kamera at/o mikropono sa site
 urlbar-autoplay-notification-anchor =
@@ -91,18 +46,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Ilagay ang datos sa Persistent Storage
 urlbar-addons-notification-anchor =
     .tooltiptext = Buksan ang add-on intallation message panel
-urlbar-tip-help-icon =
-    .title = Humingi ng tulong
 urlbar-search-tips-confirm = OK, nakuha ko
 urlbar-search-tips-confirm-short = Nakuha ko
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Payo:
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = Alamin ang tungkol sa { -firefox-suggest-brand-name }
-    .accesskey = L
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -137,8 +82,6 @@ urlbar-screen-blocked =
     .tooltiptext = Na-block mo ang website na ito mula sa pagbabahagi ng iyong screen.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Na-block mo ang paulit-ulit na imbakan para sa website na ito.
-urlbar-popup-blocked =
-    .tooltiptext = Hinarangan mo ang mga pop-up sa website na ito.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Hinarangan mo ang pag autoplay ng media na may tunog sa website na ito.
 urlbar-canvas-blocked =
@@ -228,28 +171,19 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Tingnan ang mga add-on
-quickactions-cmd-addons2 = mga add-on
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Pamahalaan ang mga bookmark
 quickactions-cmd-bookmarks = mga bookmark
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Burahin ang Kasaysayan
-quickactions-cmd-clearhistory = burahin ang kasaysayan
 # Opens about:downloads page
 quickactions-downloads2 = Tingnan ang mga download
 quickactions-cmd-downloads = mga download
 # Opens about:addons page in the extensions section
 quickactions-extensions = Pamahalaan ang mga extension
-quickactions-cmd-extensions = mga extension
 # Opens the devtools web inspector
 quickactions-inspector2 = Buksan ang Developer Tools
-quickactions-cmd-inspector = inspektor, devtools
 # Opens about:logins
 quickactions-logins2 = Pamahalaan ang mga password
 quickactions-cmd-logins = mga login, password
-# Opens about:addons page in the plugins section
-quickactions-plugins = Pamahalaan ang mga plugin
-quickactions-cmd-plugins = mga plugin
 # Opens the print dialog
 quickactions-print2 = I-print ang pahina
 quickactions-cmd-print = i-print
@@ -266,10 +200,8 @@ quickactions-restart = I-restart ang { -brand-short-name }
 quickactions-cmd-restart = i-restart
 # Opens the screenshot tool
 quickactions-screenshot3 = Kumuha ng screenshot
-quickactions-cmd-screenshot = screenshot
 # Opens about:preferences
 quickactions-settings2 = Pamahalaan ang mga setting
-quickactions-cmd-settings = mga setting, kagustuhan, opsyon
 
 ## Bookmark Panel
 
@@ -318,17 +250,13 @@ identity-custom-root = Ang connection ay na-verify ng isang certificate issuer n
 identity-passive-loaded = Ang mga bahagi ng pahinang ito ay hindi ligtas (tulad ng mga larawan).
 identity-active-loaded = Hindi mo pinagana ang proteksyon sa pahinang ito.
 identity-weak-encryption = Ang pahinang ito ay gumagamit ng mahina na pag-encrypt.
-identity-insecure-login-forms = Ang mga pag-login na ipinasok sa pahinang ito ay maaaring makompromiso.
 identity-https-only-connection-upgraded = (inupgrade na sa HTTPS)
-identity-https-only-label = HTTPS-Only Mode
 identity-https-only-dropdown-on =
     .label = Nakabukas
 identity-https-only-dropdown-off =
     .label = Nakasara
 identity-https-only-dropdown-off-temporarily =
     .label = Pansamantalang nakasara
-identity-https-only-info-turn-on2 = Buksan ang HTTPS-Only Mode para sa site na ito kung nais mong i-upgrade ng { -brand-short-name } ang koneksyon kung posible.
-identity-https-only-info-turn-off2 = Kung mukhang sira ang pahina, maaari mong patayin ang HTTPS-Only Mode para mag-reload ang site gamit ang walang katiyakang HTTP.
 identity-https-only-info-no-upgrade = Hindi kayang mag-upgrade ng koneksyon mula sa HTTP.
 identity-permissions-storage-access-header = Mga cross-site cookie
 identity-permissions-storage-access-hint = Ang mga partidong ito ay maaaring gumamit ng mga cross-site cookie at site data habang ikaw ay nasa site na ito.
@@ -344,7 +272,6 @@ identity-remove-cert-exception =
     .label = Tanggalin ang Exception
     .accesskey = R
 identity-description-insecure = Ang iyong koneksyon sa site na ito ay hindi pribado. Ang impormasyon na iyong isinumite ay maaaring matingnan ng iba (tulad ng mga password, mensahe, credit card, atbp.).
-identity-description-insecure-login-forms = Ang impormasyon sa pag-login na ipinasok mo sa pahinang ito ay hindi ligtas at maaaring makompromiso.
 identity-description-weak-cipher-intro = Ang iyong koneksyon sa website na ito ay gumagamit ng mahina na pag-encrypt at hindi pribado.
 identity-description-weak-cipher-risk = Maaaring tingnan ng iba pang mga tao ang iyong impormasyon o baguhin ang pag-uugali ng website.
 identity-description-active-blocked2 = { -brand-short-name } Na-block ang mga bahagi ng pahinang ito na hindi ligtas.
@@ -353,12 +280,6 @@ identity-description-passive-loaded-insecure2 = Ang website na ito ay naglalaman
 identity-description-passive-loaded-mixed2 = Kahit na { -brand-short-name } Na-block ng ilang nilalaman, may nilalaman pa rin sa pahina na hindi ligtas (tulad ng mga larawan).
 identity-description-active-loaded = Ang website na ito ay naglalaman ng nilalaman na hindi ligtas (tulad ng mga script) at ang iyong koneksyon dito ay hindi pribado.
 identity-description-active-loaded-insecure = Ang impormasyon na ibinabahagi mo sa site na ito ay maaaring makita ng iba (tulad ng mga password, mensahe, credit card, atbp.).
-identity-disable-mixed-content-blocking =
-    .label = Huwag paganahin ang proteksyon sa ngayon
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = Paganahin ang proteksyon
-    .accesskey = E
 identity-more-info-link-text =
     .label = Karagdagang Impormasyon
 
@@ -372,37 +293,6 @@ browser-window-restore-down-button =
     .tooltiptext = Restore Down
 browser-window-close-button =
     .tooltiptext = Isara
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = TUMUTUGTOG
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = MUTED
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = HINARANG ANG AUTOPLAY
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = PICTURE-IN-PICTURE
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] I-MUTE ANG TAB
-       *[other] I-MUTE ANG MGA { $count } TAB
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] I-UNMUTE TAB
-       *[other] I-UNMUTE ANG MGA { $count } TAB
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] i-PLAY ANG TAB
-       *[other] i-PLAY ANG MGA { $count } TAB
-    }
 
 ## Bookmarks toolbar items
 
@@ -438,10 +328,6 @@ sharing-warning-proceed-to-tab =
     .label = Magpatuloy sa Tab
 sharing-warning-disable-for-session =
     .label = I-disable ang sharing protection para sa session na ito
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = Para magamit ang F12 shortcut, buksan muna ang DevTools sa menu ng Browser Tools.
 
 ## URL Bar
 
@@ -498,8 +384,6 @@ urlbar-extension =
     .value = Extension:
 urlbar-go-button2 =
     .title = Pumunta sa lokasyon na nasa Location Bar
-urlbar-go-button =
-    .tooltiptext = Pumunta sa lokasyon na nasa Location Bar
 urlbar-page-action-button =
     .tooltiptext = Page actions
 
@@ -552,20 +436,9 @@ urlbar-result-action-tabtosearch-web = Maghanap gamit ang { $engine } direkta mu
 urlbar-result-action-tabtosearch-other-engine = Maghanap sa { $engine } direkta mula sa address bar
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Kopyahin
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
-urlbar-searchmode-bookmarks =
-    .label = Mga Bookmark
-urlbar-searchmode-tabs =
-    .label = Mga Tab
-urlbar-searchmode-history =
-    .label = Kasaysayan
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -666,12 +539,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Itago ang bookmarks toolbar
            *[other] Ipakita ang bookmarks toolbar
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Alisin ang Bookmark Menu mula sa Toolbar
-           *[other] Idagdag ang Bookmark Menu sa Toolbar
-        }
 
 ##
 
@@ -700,14 +567,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = Mga bookmark
-library-recent-activity-title =
-    .value = Aktibidad Kamakailan
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = i-Save sa { -pocket-brand-name }
-    .tooltiptext = i-Save sa { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
@@ -764,8 +623,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = Username
-panel-save-update-password = Password
 panel-save-update-username-2 =
     .label = Username
 panel-save-update-password-2 =
@@ -776,27 +633,11 @@ panel-save-update-password-2 =
 # "More" item in macOS share menu
 menu-share-more =
     .label = Higit pa...
-menu-share-copy-link =
-    .label = Kopyahin ang Link
-    .accesskey = L
 ui-tour-info-panel-close =
     .tooltiptext = Isarado
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = Payagan ang mga pop-up para sa { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Harangin ang mga pop-up para sa { $uriHost }
-    .accesskey = p
-
 ##
 
-popups-infobar-dont-show-message =
-    .label = Huwag ipakita ang mensaheng ito kapag hinaharang ang mga pop-up
-    .accesskey = D
 picture-in-picture-hide-toggle =
     .label = Itago ang Toggle para sa Picture-in-Picture
     .accesskey = H
@@ -810,8 +651,6 @@ navbar-accessible =
     .aria-label = Navigation
 navbar-downloads =
     .label = Mga Download
-navbar-overflow =
-    .tooltiptext = Marami pang mga kagamitan…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

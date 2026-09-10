@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Indikilo de divido
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Indikilo de divido
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Vi dividas vian mikrofonon. Alklaku por agordi la dividon.
 webrtc-screen-system-menu =
     .label = Vi dividas vian fenestron. Alklaku por agordi la dividon.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Via filmilo kaj via mikrofono estas dividataj. Klaku por agordi la dividon.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Via filmilo estas dividata. Klaku por agordi la dividon.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Via mikrofono estas dividata. Klaku por agordi la dividon.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Programo estas dividata. Klaku por agordi la dividon.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Via ekrano estas dividata. Klaku por agordi la dividon.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Fenestro estas dividata. Klaku por agordi la dividon.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Langeto dividata. Alklaku por agordi dividon.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Ĉu permesi al {
 
 webrtc-share-screen-warning = Nur dividu ekranojn kun retejoj, kiujn vi fidas. Divido de ekrano povas permesi al trompaj retejoj retumi nome via kaj ŝteli viajn privatajn datumojn.
 webrtc-share-browser-warning = Nur dividu { -brand-short-name } kun retejoj, kiujn vi fidas. Divido povas permesi al trompaj retejoj retumi nome via kaj ŝteli viajn privatajn datumojn.
-webrtc-share-screen-learn-more = Pli da informo
 webrtc-pick-window-or-screen = Elektu fenestron aŭ ekranon
 webrtc-share-entire-screen = Tuta ekrano
 webrtc-share-pipe-wire-portal = Uzi la agordojn de la mastruma sistemo

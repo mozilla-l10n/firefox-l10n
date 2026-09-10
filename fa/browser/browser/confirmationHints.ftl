@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = گزارش ارسال شد. متشکریم!
-confirmation-hint-login-removed = ورود حذف شد!
 confirmation-hint-password-removed = گذرواژه پاک شد!
 confirmation-hint-page-bookmarked = در نشانک‌ها ذخیره شد
-confirmation-hint-password-saved = گذرواژه ذخیره شد!
 confirmation-hint-password-created = گذرواژه ذخیره شد
 confirmation-hint-password-updated = گذرواژه به‌روز شد
 confirmation-hint-address-created = نشانی ذخیره شد

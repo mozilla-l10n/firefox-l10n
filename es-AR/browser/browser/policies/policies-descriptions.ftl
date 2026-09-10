@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Evite que el agente de navegador predetermin
 policy-DisableDeveloperTools = Bloquear el acceso a las herramientas de desarrollador.
 policy-DisableEncryptedClientHello = Deshabilitar el uso de la función TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Deshabilitar comandos para enviar opiniones desde el menú de Ayuda (Enviar opinión e Informar sitio engañoso).
-policy-DisableFirefoxAccounts = Deshabilitar servicios basados en { -fxaccount-brand-name }, incluyendo Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Deshabilitar los servicios basados en cuenta, incluida la sincronización.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = No recordar la búsqueda y el historial de formulari
 policy-DisableLaunchOnLogin = Evita que { -brand-short-name } se inicie automáticamente cuando el usuario inicie sesión.
 policy-DisablePrimaryPasswordCreation = Si es cierto, no se puede crear una contraseña maestra.
 policy-DisablePasswordReveal = No permitir que se vean las contraseñas en los inicios de sesión guardados.
-policy-DisablePocket2 = Deshabilitar la función de guardar páginas web a { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Deshabilitar la Navegación privada.
 policy-DisableProfileImport = Deshabilitar el comando de menú para importar datos desde otro navegador.
 policy-DisableProfileRefresh = Deshabilitar el botón Recargar { -brand-short-name } en la página about:support.
@@ -132,7 +130,6 @@ policy-PDFjs = Deshabilitar o configurar PDF.js, el visor de PDF incorporado en 
 policy-Permissions2 = Configurar permisos para cámara, micrófono, ubicación, notificaciones y reproducción automática.
 policy-PictureInPicture = Habilitar o deshabilitar Picture-in-Picture.
 policy-PopupBlocking2 = Permitir que ciertos sitios web muestren ventanas emergentes y sean redireccionados por marcos de terceros.
-policy-PopupBlocking = Permitir que ciertos sitios web muestren ventanas emergentes de manera predeterminada.
 policy-Preferences = Establezca y bloquee el valor para un subconjunto de preferencias.
 policy-PrivateBrowsingModeAvailability = Configurar la disponibilidad del modo de navegación privada.
 policy-PromptForDownloadLocation = Preguntar dónde guardar archivos al descargar.

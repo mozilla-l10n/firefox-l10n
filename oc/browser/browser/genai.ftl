@@ -24,8 +24,6 @@ genai-prompts-explain =
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Demandar al robòt de convèrsa d’IA
 genai-menu-open-generic =
     .label = Dobrir lo robòt de conversa d’IA
 genai-menu-remove-generic =
@@ -49,8 +47,6 @@ genai-menu-no-provider-2 =
 genai-chatbot-title = Robòt de convèrsa d’IA
 genai-header-provider-menu =
     .title = Causir un robòt de convèrsa
-genai-header-options-button =
-    .title = Dobrir lo menú
 genai-header-close-button =
     .title = Tampar
 genai-options-reload-generic =

@@ -101,8 +101,6 @@ options-context-advanced-settings = ᱞᱟᱦᱟᱣᱟᱜ ᱥᱟᱡᱟᱣ ᱠᱚ
 options-disable-http-cache-label = HTTP Cache ᱵᱚᱸᱫᱚᱭ ᱢᱮ (ᱛᱤᱧᱡᱷᱚᱜ ᱦᱟᱹᱛᱤᱭᱟᱨᱵᱟᱠᱚᱥ ᱡᱷᱤᱡ ᱛᱟᱦᱮᱸᱱ ᱟ)
 options-disable-http-cache-tooltip =
     .title = ᱱᱚᱶᱟ ᱢᱚᱱᱮᱛᱮᱭᱟᱜ ᱮᱢ ᱪᱷᱚ ᱞᱮᱠᱷᱟᱱ ᱫᱚ ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽ ᱞᱟᱹᱜᱤᱫ ᱛᱮ HTTP ᱟᱹᱛᱩᱨ ᱠᱚ ᱵᱚᱸᱫᱚᱭᱟᱭ ᱡᱟᱦᱟᱸ ᱴᱷᱮᱱ ᱦᱟᱹᱛᱤᱭᱟᱨᱵᱟᱠᱚᱥ ᱠᱷᱩᱞᱟᱹ ᱛᱟᱦᱮᱸᱱᱟ ᱾ ᱥᱚᱨᱵᱷᱤᱥ ᱣᱟᱨᱠᱚᱨ ᱠᱚ ᱱᱚᱶᱟ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱛᱮ ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱠᱚ ᱪᱤᱠᱟᱹᱜᱼᱟ ᱾
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = JavaScript ᱵᱚᱸᱫᱚᱭ ᱢᱮ *
 options-disable-javascript-tooltip =
     .title = ᱱᱚᱶᱟ ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱱᱤᱡᱚᱨᱟᱜ ᱴᱮᱵᱽ ᱞᱟᱹᱜᱤᱫ JavaScript ᱵᱚᱸᱫ ᱪᱷᱚᱭ ᱟᱭ ᱾ ᱡᱤᱫᱤ ᱴᱮᱵᱽ ᱵᱟᱝᱠᱷᱟᱱ ᱦᱟᱹᱛᱤᱭᱟᱹᱨᱵᱟᱠᱚᱥ  ᱵᱚᱸᱫ ᱞᱮᱱ ᱠᱷᱟᱱ ᱱᱚᱶᱟ ᱥᱟᱡᱟᱣ ᱠᱚ ᱦᱤᱲᱤᱧᱚᱜᱼᱟ ᱾
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -129,8 +127,6 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = ᱥᱨᱚᱛ ᱱᱚᱠᱥᱟ ᱮᱢ ᱪᱷᱚᱭᱚᱭ
 options-source-maps-tooltip =
     .title = ᱡᱩᱫᱤ ᱟᱢ ᱱᱚᱶᱟ ᱢᱚᱱᱮᱛᱮᱭᱟᱜ ᱮᱢ ᱠᱷᱟᱱ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱨᱮ ᱥᱨᱚᱛᱠᱚ ᱵᱟᱹᱭᱥᱟᱣᱜᱼᱟ ᱾
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * ᱮᱠᱷᱮᱱ ᱱᱤᱛᱟᱜ ᱠᱟᱹᱢᱤ ᱚᱠᱛᱚ, ᱥᱟᱦᱴᱟ ᱞᱟᱫᱮ ᱫᱚᱦᱲᱟ ᱾
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

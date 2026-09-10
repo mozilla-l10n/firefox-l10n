@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Tiếp tục cài đặt
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Trang web này đang yêu cầu quyền truy cập vào các thiết bị MIDI (Giao diện kỹ thuật số dành cho nhạc cụ) của bạn. Có thể bật quyền truy cập thiết bị bằng cách cài đặt tiện ích mở rộng.
 site-permission-install-first-prompt-midi-message = Lần truy cập này không được đảm bảo an toàn. Chỉ tiếp tục nếu bạn tin tưởng trang web này.
 site-permission-install-first-prompt-serial-header = Trang web này đang yêu cầu quyền truy cập vào thiết bị sử dụng cổng nối tiếp của bạn. Có thể kích hoạt quyền truy cập thiết bị bằng cách cài đặt tiện ích mở rộng.
 site-permission-install-first-prompt-serial-message = Lần truy cập này không được đảm bảo an toàn. Chỉ tiếp tục nếu bạn tin tưởng trang web này.
-
-##
-
-xpinstall-disabled-locked = Quản trị hệ thống của bạn đã vô hiệu hóa cài đặt phần mềm.
 xpinstall-disabled-by-policy = Việc cài đặt phần mềm đã bị vô hiệu hoá bởi tổ chức của bạn.
 xpinstall-disabled = Hiện tại việc cài đặt phần mềm đã bị vô hiệu hóa. Hãy nhấn Bật rồi thử lại.
 xpinstall-disabled-button =
     .label = Kích hoạt
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) bị chặn bởi quản trị viên hệ thống của bạn.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Quản trị viên hệ thống của bạn đã ngăn trang web này yêu cầu bạn cài đặt phần mềm trên máy tính của bạn.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = Hoàn tất cài đặt tiện ích mở rộng đượ
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Xóa { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Gỡ bỏ { $name } từ { -brand-shorter-name }?
 addon-removal-button = Xóa
 addon-removal-abuse-report-checkbox = Báo cáo tiện ích mở rộng này cho { -vendor-short-name }
 # "it" refers to the local AI model that is paired to the AI feature
@@ -127,7 +110,5 @@ addon-local-install-no-addon-name-error-file-access = Không thể cài đặt t
 addon-install-error-incompatible = { $addonName } không thể cài đặt được vì nó không tương thích với { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = { $addonName } vi phạm chính sách của Mozilla và không thể cài đặt trên { -brand-short-name }.
 addon-install-error-soft-blocked2 = { $addonName } bị hạn chế và không thể cài đặt trên { -brand-short-name }.
-addon-install-error-blocklisted = { $addonName } không thể cài đặt được vì nó có khả năng gây ra các vấn đề về bảo mật và tính ổn định.
-addon-install-error-soft-blocked = { $addonName } vi phạm chính sách của Mozilla và không thể cài đặt trên { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Bạn không thể cài đặt { $addonName } với tư cách là người dùng cuối, nó chỉ có thể được cài đặt bởi tổ chức sử dụng chính sách doanh nghiệp.

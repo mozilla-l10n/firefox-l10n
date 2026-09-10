@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Gan Coimeádán
-    .accesskey = G
 user-context-manage-containers =
     .label = Bainistigh Coimeádáin
     .accesskey = o

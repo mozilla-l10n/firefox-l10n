@@ -5,6 +5,3 @@
 popup-notification-learn-more = Alamin
 popup-notification-more-actions-button =
     .aria-label = Dagdag-gawain
-popup-notification-default-button =
-    .label = OK!
-    .accesskey = O

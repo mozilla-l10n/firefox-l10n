@@ -30,11 +30,11 @@ third-party-tag-background = Segundo plano
         Este tipo de módulo no bloqueó la aplicación porque se cargó
         en segundo plano.
 third-party-icon-unsigned =
-    .title = Este módulo no está firmado
     .alt = Este módulo no está firmado
+    .title = Este módulo no está firmado
 third-party-icon-warning =
-    .title = { -brand-short-name } ha fallado en el código de este módulo
     .alt = { -brand-short-name } ha fallado en el código de este módulo
+    .title = { -brand-short-name } ha fallado en el código de este módulo
 third-party-status-loaded = Cargado
 third-party-status-blocked = Bloqueado
 third-party-status-redirected = Redirigido
@@ -46,30 +46,17 @@ third-party-button-reload = Recargar con información del sistema
     .title = Recargar con información del sistema
 third-party-button-open =
     .title = Abrir ubicación del archivo…
-third-party-button-to-block =
-    .title = Bloquear este módulo
-    .aria-label = Bloquear este módulo
-third-party-button-to-unblock =
-    .title = Actualmente bloqueado. Haga clic para desbloquearlo.
-    .aria-label = Actualmente bloqueado. Haga clic para desbloquearlo.
-third-party-button-to-unblock-disabled =
-    .title =
-        Actualmente marcado como bloqueado, aunque la lista de bloqueo está desactivada para esta ejecución
-        de { -brand-short-name }. Haga clic para desbloquearlo.
-    .aria-label =
-        Actualmente marcado como bloqueado, aunque la lista de bloqueo está desactivada para esta ejecución
-        de { -brand-short-name }. Haga clic para desbloquearlo.
 third-party-button-to-block-module = Bloquear este módulo
-    .title = Bloquear este módulo
     .aria-label = Bloquear este módulo
+    .title = Bloquear este módulo
 third-party-button-to-unblock-module = Desbloquear este módulo
-    .title = Actualmente bloqueado. Clic para desbloquearlo.
     .aria-label = Actualmente bloqueado. Clic para desbloquearlo.
+    .title = Actualmente bloqueado. Clic para desbloquearlo.
 third-party-button-to-unblock-module-disabled = Desbloquear este módulo (lista de bloqueo actualmente deshabilitada)
-    .title =
+    .aria-label =
         Actualmente marcado como bloqueado, aunque la lista de bloqueo está desactivada para esta ejecución
         de { -brand-short-name }. Clic para desbloquearlo.
-    .aria-label =
+    .title =
         Actualmente marcado como bloqueado, aunque la lista de bloqueo está desactivada para esta ejecución
         de { -brand-short-name }. Clic para desbloquearlo.
 third-party-button-expand =
@@ -81,5 +68,5 @@ third-party-should-restart-title = Reiniciar { -brand-short-name }
 third-party-restart-now = Reiniciar ahora
 third-party-restart-later = Reiniciar más tarde
 third-party-blocked-by-builtin =
-    .title = Bloqueado por { -brand-short-name }
     .alt = Bloqueado por { -brand-short-name }
+    .title = Bloqueado por { -brand-short-name }

@@ -30,11 +30,11 @@ third-party-tag-background = Fundal
         Modulul nu a blocat aplicația pentru că era încărcat
         în fundal.
 third-party-icon-unsigned =
-    .title = Modulul nu este semnat
     .alt = Modulul nu este semnat
+    .title = Modulul nu este semnat
 third-party-icon-warning =
-    .title = { -brand-short-name } s-a blocat în codul acestui modul
     .alt = { -brand-short-name } s-a blocat în codul acestui modul
+    .title = { -brand-short-name } s-a blocat în codul acestui modul
 third-party-status-loaded = Încărcat
 third-party-status-blocked = Blocat
 third-party-status-redirected = Redirecționat
@@ -46,30 +46,17 @@ third-party-button-reload = Reîncarcă cu informațiile de sistem
     .title = Reîncarcă cu informațiile de sistem
 third-party-button-open =
     .title = Deschide locația fișierului…
-third-party-button-to-block =
-    .title = Blochează modulul
-    .aria-label = Blochează modulul
-third-party-button-to-unblock =
-    .title = Blocat acum. Dă clic pentru a-l debloca.
-    .aria-label = Blocat acum. Dă clic pentru a-l debloca.
-third-party-button-to-unblock-disabled =
-    .title =
-        Marcat acum ca blocat, deși lista de blocări este dezactivată pentru această execuție
-        { -brand-short-name }. Dă clic pentru a-l debloca.
-    .aria-label =
-        Marcat acum ca blocat, deși lista de blocări este dezactivată pentru această execuție
-        { -brand-short-name }. Dă clic pentru a-l debloca.
 third-party-button-to-block-module = Blochează modulul
-    .title = Blochează modulul
     .aria-label = Blochează modulul
+    .title = Blochează modulul
 third-party-button-to-unblock-module = Deblochează modulul
-    .title = Blocat acum. Dă clic pentru a-l debloca.
     .aria-label = Blocat acum. Dă clic pentru a-l debloca.
+    .title = Blocat acum. Dă clic pentru a-l debloca.
 third-party-button-to-unblock-module-disabled = Deblochează modulul (lista de blocări este dezactivată acum)
-    .title =
+    .aria-label =
         Marcat acum ca blocat, deși lista de blocări este dezactivată pentru această execuție
         { -brand-short-name }. Dă clic pentru  a-l debloca.
-    .aria-label =
+    .title =
         Marcat acum ca blocat, deși lista de blocări este dezactivată pentru această execuție
         { -brand-short-name }. Dă clic pentru  a-l debloca.
 third-party-button-expand =
@@ -81,5 +68,5 @@ third-party-should-restart-title = Repornește { -brand-short-name }
 third-party-restart-now = Repornește acum
 third-party-restart-later = Repornește mai târziu
 third-party-blocked-by-builtin =
-    .title = Blocat de { -brand-short-name }
     .alt = Blocat de { -brand-short-name }
+    .title = Blocat de { -brand-short-name }

@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Indicatur da cundivisiun
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Indicatur da cundivisiun
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Ti cundividas tes microfon. Clicca per controllar la cundivisiun.
 webrtc-screen-system-menu =
     .label = Ti cundividas ina fanestra u in visur. Clicca per controllar la cundivisiun.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Tia camera e tes microfon vegnan cundividì. Clicca per controllar la cundivisiun.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Tia camera vegn cundividida. Clicca per controllar la cundivisiun.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Tes microfon vegn cundividì. Clicca per controllar la cundivisiun.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Ina applicaziun vegn actualmain cundividida. Clicca per controllar la cundivisiun.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Tes visur vegn cundividì. Clicca per controllar la cundivisiun.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Ina fanestra vegn cundividida. Clicca per controllar la cundivisiun.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = In tab vegn cundividì. Clicca per controllar la cundivisiun.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Lubir a { $origi
 
 webrtc-share-screen-warning = Cundivida tes visur mo cun paginas da las qualas ti ta fidas. La cundivisiun po permetter a paginas nuschaivlas da navigar en tes num e dad engular tias datas privatas.
 webrtc-share-browser-warning = Cundivida { -brand-short-name } mo cun paginas da las qualas ti ta fidas. La cundivisiun po permetter a paginas nuschaivlas da navigar en tes num e dad engular tias datas privatas.
-webrtc-share-screen-learn-more = Ulteriuras infurmaziuns
 webrtc-pick-window-or-screen = Tscherna la fanestra u il visur
 webrtc-share-entire-screen = Entir visur
 webrtc-share-pipe-wire-portal = Utilisar ils parameters dal sistem operativ

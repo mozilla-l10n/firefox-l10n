@@ -102,7 +102,6 @@ permissions-exceptions-shutdown-clearing-window =
 permissions-exceptions-https-only-window2 =
     .style = { permissions-window2.style }
     .title = مووردا استسنا - هالت تینا HTTPS
-permissions-exceptions-https-only-desc = ایسا ترین هالت تینا-HTTPS ن سی ی قرده ز وبگه یل قیرفعال کۊنین. { -brand-short-name } تفره سی بؽڌر وابیڌن منپیز من ای وبگه یل و HTTPS نؽکونه. مووردا استسنا من نیمدری یل سیخومی تئسیر نڌارن.
 permissions-exceptions-https-only-desc2 = ایسا ترین هالت تینا-HTTPS ن سی ی قرده ز وبگه یل قیرفعال کۊنین. { -brand-short-name } تفره سی بؽڌر وابیڌن منپیز من ای وبگه یل و HTTPS نؽکونه.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
@@ -110,19 +109,6 @@ permissions-exceptions-https-only-desc2 = ایسا ترین هالت تینا-HT
 permissions-exceptions-popup-window3 =
     .style = { permissions-window2.style }
     .title = وبگه یل هشته - نیمدری یل گۊشیڌنی وو آلشت تورا شخس سالس
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .style = { permissions-window2.style }
-    .title = وبگه یل هشته ‐ نیمدری یل گۊشیڌنی
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .style = { permissions-window2.style }
-    .title = استسنایل - و من ٱووڌنا زفت وابیڌه
-permissions-exceptions-saved-logins-desc = و من ٱووڌن سی و دین کردن وبگه یل اینترنتی ک زفت نوابیڌنه
 
 ## Exceptions - Saved Passwords
 

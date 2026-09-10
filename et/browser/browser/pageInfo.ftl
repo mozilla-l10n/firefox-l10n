@@ -149,7 +149,6 @@ media-unknown-not-cached =
     .value = Tundmatu (puudub puhvermälust)
 permissions-use-default =
     .label = Kasutatakse vaikeväärtust
-security-no-visits = Ei
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -221,11 +220,6 @@ media-file-size = { $size }KiB
 ## Variables:
 ##   $website (string) — The url of the website pageInfo is getting info for
 
-# This string is used to display the website name next to the
-# "Block Images" checkbox in the media tab
-media-block-image =
-    .label = Pilte aadressilt { $website } ei laadita
-    .accesskey = P
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 page-info-page =

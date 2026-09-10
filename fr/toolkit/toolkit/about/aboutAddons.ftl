@@ -156,15 +156,10 @@ addon-sitepermission-host = Autorisations de site pour { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Tous les modules complémentaires ont été désactivés par le mode sans échec.
-extensions-warning-check-compatibility = La vérification de compatibilité des modules complémentaires est désactivée. Vous avez peut-être des modules complémentaires incompatibles.
-extensions-warning-safe-mode2 =
-    .message = Tous les modules complémentaires ont été désactivés par le mode sans échec.
 extensions-warning-check-compatibility2 =
     .message = La vérification de compatibilité des modules complémentaires est désactivée. Vous avez peut-être des modules complémentaires incompatibles.
 extensions-warning-check-compatibility-button = Activer
     .title = Activer la vérification de compatibilité
-extensions-warning-update-security = La vérification de mises à jour de sécurité pour les modules complémentaires est désactivée. Vous avez peut-être des modules complémentaires non sûrs.
 extensions-warning-update-security2 =
     .message = La vérification de mises à jour de sécurité pour les modules complémentaires est désactivée. Vous avez peut-être des modules complémentaires non sûrs.
 extensions-warning-update-security-button = Activer
@@ -240,10 +235,6 @@ shortcuts-duplicate = Raccourci en doublon
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } est utilisé comme raccourci dans plusieurs cas. Les raccourcis en doublon peuvent provoquer un comportement imprévisible.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } est utilisé comme raccourci dans plusieurs cas. Les raccourcis en doublon peuvent provoquer un comportement imprévisible.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -263,11 +254,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Les extensions et les thèmes sont comme des applications pour votre navigateur qui vous permettent de protéger vos mots de passe, télécharger des vidéos, trouver de bonnes affaires, bloquer les publicités gênantes, changer l’apparence de votre navigateur, etc. Ces petits logiciels sont souvent produits par des développeurs tiers. Voici une sélection que { -brand-product-name } <a data-l10n-name="learn-more-trigger">recommande</a> pour une sécurité, des performances et des fonctionnalités poussées.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Certaines de ces recommandations sont personnalisées. Cette sélection se fonde sur d’autres extensions que vous avez installées, les préférences de votre profil et les statistiques d’utilisation.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message = Certaines de ces recommandations sont personnalisées. Cette sélection se fonde sur d’autres extensions que vous avez installées, les préférences de votre profil et les statistiques d’utilisation.
@@ -348,16 +334,9 @@ addon-detail-last-updated-label = Dernière mise à jour
 addon-detail-homepage-label = Page d’accueil
 addon-detail-rating-label = Appréciation
 # Message for add-ons with a staged pending update.
-install-postponed-message = Cette extension sera mise à jour au redémarrage de { -brand-short-name }.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Cette extension sera mise à jour au redémarrage de { -brand-short-name }.
 install-postponed-button = Mettre à jour maintenant
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Noté { NUMBER($rating, maximumFractionDigits: 1) } sur 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -373,9 +352,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> a été supprimé.
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -394,11 +370,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Autorisée dans les fenêtres de navigation privée
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Autorisée dans les fenêtres de navigation privée
 addon-detail-private-browsing-help = Lorsqu’elle est autorisée, l’extension a accès à vos activités en ligne lors d’une navigation privée. <a data-l10n-name="learn-more">En savoir plus</a>
 addon-detail-private-browsing-allow = Autoriser
@@ -425,17 +396,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } ne recommande que des extensions conformes à nos normes en matière de sécurité et de performances.
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Extension officielle, réalisée par Mozilla. Elle répond aux normes de sécurité et de performance.
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Après examen, cette extension a été reconnue conforme à nos normes de sécurité et de performance
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -465,9 +425,6 @@ addon-permissions-heading = Permissions
 addon-permissions-empty2 = Cette extension ne nécessite aucune autorisation.
 addon-permissions-required-label = Obligatoires :
 addon-permissions-optional-label = Facultatives :
-addon-permissions-empty = Cette extension ne nécessite aucune autorisation
-addon-permissions-required = Autorisations nécessaires pour les fonctionnalités de base :
-addon-permissions-optional = Autorisations facultatives pour des fonctionnalités supplémentaires :
 addon-permissions-learnmore = En savoir plus à propos des autorisations
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -508,25 +465,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } est incompatible avec { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } est incompatible avec { -brand-short-name } { $version }.
-details-notification-incompatible-link = Plus d’informations
-details-notification-unsigned-and-disabled = { $name } n’a pas pu être vérifié pour son utilisation dans { -brand-short-name } et a été désactivé.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } n’a pas pu être vérifié pour son utilisation dans { -brand-short-name } et a été désactivé.
-details-notification-unsigned-and-disabled-link = Plus d’informations
-details-notification-unsigned = { $name } n’a pas pu être vérifié pour son utilisation dans { -brand-short-name }. Faites attention.
 details-notification-unsigned2 =
     .message = { $name } n’a pas pu être vérifié pour son utilisation dans { -brand-short-name }. Faites attention.
 details-notification-hard-blocked-extension =
     .message = Cette extension est bloquée, car elle enfreint les politiques de Mozilla et a été désactivée.
 details-notification-hard-blocked-other =
     .message = Ce module complémentaire est bloqué, car il enfreint les politiques de Mozilla et a été désactivé.
-details-notification-unsigned-link = Plus d’informations
-details-notification-blocked = { $name } a été désactivé suite à des problèmes de sécurité ou de stabilité.
 details-notification-blocked-link2 = Afficher les détails
 details-notification-soft-blocked-extension-disabled2 =
     .message = Cette extension est soumise à des restrictions et a été désactivée. Vous pouvez l’activer, mais son utilisation comporte des risques.
@@ -536,19 +484,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = Ce module complémentaire est soumis à des restrictions et a été désactivé. Vous pouvez l’activer, mais son utilisation comporte des risques.
 details-notification-soft-blocked-other-enabled2 =
     .message = Ce module est soumis à des restrictions. Son utilisation comporte des risques.
-details-notification-soft-blocked-extension-disabled =
-    .message = Cette extension est restreinte, car elle enfreint les politiques de Mozilla et a été désactivée. Vous pouvez l’activer, mais son utilisation comporte des risques.
-details-notification-soft-blocked-extension-enabled =
-    .message = Cette extension enfreint les politiques de Mozilla. Son utilisation comporte des risques.
-details-notification-soft-blocked-other-disabled =
-    .message = Ce module complémentaire est restreint, car il enfreint les politiques de Mozilla et a été désactivé. Vous pouvez l’activer, mais son utilisation comporte des risques.
-details-notification-soft-blocked-other-enabled =
-    .message = Ce module enfreint les politiques de Mozilla. Son utilisation comporte des risques.
 details-notification-softblocked-link2 = Afficher les détails
-details-notification-blocked-link = Plus d’informations
-details-notification-softblocked = { $name } est connu pour poser des problèmes de sécurité ou de stabilité.
-details-notification-softblocked-link = Plus d’informations
-details-notification-gmp-pending = { $name } sera bientôt installé.
 details-notification-gmp-pending2 =
     .message = { $name } sera bientôt installé.
 
@@ -564,8 +500,6 @@ plugins-widevine-description = Ce plugin permet la lecture de contenus chiffrés
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Collecte de données obligatoire :
-addon-permissions-optional-data-collection = Collecte de données facultative :
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Autorisations et données
 # This is a description for extension that use this AI model

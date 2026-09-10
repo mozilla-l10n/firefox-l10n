@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Certyfikat nie jest zaufany, ponieważ certy
 cert-error-trust-signature-algorithm-disabled = Certyfikat nie jest zaufany, ponieważ został podpisany algorytmem, który został zablokowany, ponieważ nie jest bezpieczny.
 cert-error-trust-expired-issuer = Certyfikat nie jest zaufany, ponieważ certyfikat wystawcy utracił ważność.
 cert-error-trust-self-signed = Certyfikat nie jest zaufany, ponieważ jest samopodpisany.
-cert-error-trust-symantec = Certyfikaty wystawiane przez GeoTrust, RapidSSL, Symantec, Thawte i Verisign nie są już uznawane za bezpieczne, ponieważ wystawiające je organizacje nie przestrzegały zasad bezpieczeństwa.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } nie ufa certyfikatowi witryny „{ $hostname }”, ponieważ nie mogła ona udowodnić, że spełnia publiczne wymagania przejrzystości certyfikatów.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Kod błędu: <a data-l10n-name="error-code-link">{
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Podczas łączenia z serwerem „{ $hostname }” wystąpił błąd. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Strony internetowe dowodzą swojej tożsamości przy użyciu certyfikatów, wystawianych przez organizacje certyfikujące. Większość przeglądarek nie ufa już certyfikatom wystawianym przez GeoTrust, RapidSSL, Symantec, Thawte i Verisign. Tożsamość tej strony nie może zostać potwierdzona, ponieważ domena „{ $hostname }” używa certyfikatu od jednego z tych wystawców.
-cert-error-symantec-distrust-admin = Można powiadomić administratora strony o tym problemie.
 cert-error-old-tls-version = Ta witryna może nie obsługiwać protokołu TLS 1.2, który jest minimalną wersją obsługiwaną przez przeglądarkę { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Łańcuch certyfikatu:
-open-in-new-window-for-csp-or-xfo-error = Otwórz witrynę w nowym oknie
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Aby chronić bezpieczeństwo użytkownika, { $hostname } nie pozwoli przeglądarce { -brand-short-name } wyświetlić strony, jeśli inna witryna ją osadziła. Aby ją zobaczyć, musisz otworzyć ją w nowym oknie.
 fp-certerror-view-certificate-link = Wyświetl certyfikat witryny
 fp-certerror-return-to-previous-page-recommended-button-2 = Wróć do poprzedniej strony (zalecane)
     .accesskey = W
-fp-certerror-return-to-previous-page-recommended-button = Wróć do poprzedniej strony (zalecane)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -179,8 +172,6 @@ deniedPortAccess-title = Zastrzeżony adres
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Niestety, nie udało się odnaleźć tej strony
 internet-connection-offline-title = Wystąpił problem z połączeniem z Internetem.
-dns-not-found-trr-only-title2 = Możliwe zagrożenie bezpieczeństwa podczas wyszukiwania tej domeny
-dns-not-found-native-fallback-title2 = Możliwe zagrożenie bezpieczeństwa podczas wyszukiwania tej domeny
 fileNotFound-title = Nie odnaleziono pliku
 fileAccessDenied-title = Odmowa dostępu do pliku
 generic-title = Wystąpił błąd
@@ -205,7 +196,6 @@ unknownSocketType-title = Nieoczekiwana odpowiedź serwera
 nssFailure2-title = Nie udało się nawiązać bezpiecznego połączenia
 csp-xfo-error-title = { -brand-short-name } nie może otworzyć tej strony
 corruptedContentErrorv2-title = Błąd: treść uszkodzona
-corruptedContentError-title = Błąd: treść uszkodzona
 sslv3Used-title = Nie udało się nawiązać bezpiecznego połączenia
 inadequateSecurityError-title = Połączenie nie gwarantuje bezpieczeństwa
 blockedByPolicy-title = Zablokowana strona
@@ -228,7 +218,6 @@ fp-certerror-hide-advanced-button = Ukryj zaawansowane
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Przejdź do witryny { $hostname } (ryzykowne)
 fp-certerror-intro = { -brand-short-name } wykrył potencjalnie poważny problem bezpieczeństwa na witrynie <strong>{ $hostname }</strong>. Ktoś podszywający się pod nią może próbować ukraść dane karty płatniczej, hasła, adresy e-mail lub coś innego.
 fp-certerror-expired-into = { -brand-short-name } wykrył problem bezpieczeństwa na witrynie <strong>{ $hostname }</strong>. Jest ona błędnie skonfigurowana albo zegar tego urządzenia jest ustawiony na błędną datę/godzinę.
 fp-certerror-transparency-intro = Ktoś podszywający się pod witrynę <strong>{ $hostname }</strong> może próbować ukraść dane kart płatniczych, hasła, adresy e-mail lub coś innego.

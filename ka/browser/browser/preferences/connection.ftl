@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = კავშირის პარამეტრები
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = კავშირის პარამეტრები
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = ხელახლა ჩატვირთვა
     .accesskey = ხ
-connection-proxy-autologin =
-    .label = შესვლის მოთხოვნის გამოტოვება, თუ პაროლი დამახსოვრებულია
-    .accesskey = თ
-    .tooltip = ამ მითითების შედეგად, პროქსის ანგარიშზე ავტომატურად შეხვალთ, თუ ანგარიშის მონაცემები შენახული იქნება. ასევე გეცნობებათ, თუ შესვლა ვერ მოხერხდება.
 connection-proxy-autologin-checkbox =
     .label = შესვლის მოთხოვნის გამოტოვება, თუ პაროლი დამახსოვრებულია
-    .accesskey = თ
     .tooltiptext = ამ მითითების შედეგად, პროქსის ანგარიშზე ავტომატურად შეხვალთ, თუ ანგარიშის მონაცემები შენახული იქნება. ასევე გეცნობებათ, თუ შესვლა ვერ მოხერხდება.
+    .accesskey = თ
 connection-proxy-socks4-remote-dns =
     .label = პროქსის DNS, როცა გამოიყენება SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = ნაგულისხმევი URL-ბმულის გამოყენება DNS-გადაყვანებისთვის HTTPS-ით
 connection-dns-over-https-url-custom =
     .label = მითითებული
-    .accesskey = მ
     .tooltiptext = შეიყვანეთ სასურველი URL-მისამართი DNS-გადაყვანებისთვის HTTPS-ით
-connection-dns-over-https-custom-label = მითითებული
+    .accesskey = მ

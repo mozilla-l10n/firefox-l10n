@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = 계속 설치
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = 이 사이트는 MIDI (Musical Instrument Digital Interface) 기기에 대한 접근을 요청하고 있습니다. 부가 기능을 설치하여 기기에 대한 접근을 활성화할 수 있습니다.
 site-permission-install-first-prompt-midi-message = 이 액세스는 안전하지 않을 수 있습니다. 이 사이트를 신뢰하는 경우에만 계속하세요.
 site-permission-install-first-prompt-serial-header = 이 사이트는 직렬 기기에 대한 접근을 요청하고 있습니다. 부가 기능을 설치하여 기기에 대한 접근을 활성화할 수 있습니다.
 site-permission-install-first-prompt-serial-message = 이 접근은 안전하지 않을 수 있습니다. 이 사이트를 신뢰하는 경우에만 계속하세요.
-
-##
-
-xpinstall-disabled-locked = 시스템 관리자로 인해 소프트웨어 설치 기능을 사용할 수 없습니다.
 xpinstall-disabled-by-policy = 조직에서 소프트웨어 설치를 비활성화했습니다.
 xpinstall-disabled = 소프트웨어 설치 기능을 사용할 수 없습니다. 사용 허가를 선택한 후 다시 시도하세요.
 xpinstall-disabled-button =
     .label = 사용함
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName }({ $addonId }) 부가 기능이 시스템 관리자에 의해 차단되었습니다.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = 시스템 관리자가 이 사이트에서 컴퓨터에 소프트웨어를 설치하도록 요청하는 것을 차단했습니다.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = { -brand-short-name }로 가져온 확장 기능 설치
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = { $name } 부가 기능을 제거하시겠습니까?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = { -brand-shorter-name }에서 { $name } 확장 기능을 제거하시겠습니까?
 addon-removal-button = 제거
 addon-removal-abuse-report-checkbox = 이 확장 기능을 { -vendor-short-name }에 신고
 # "it" refers to the local AI model that is paired to the AI feature
@@ -127,7 +110,5 @@ addon-local-install-no-addon-name-error-file-access = 이 부가 기능은 { -br
 addon-install-error-incompatible = { $addonName }는 { -brand-short-name } { $appVersion }에서 돌아가지 않으므로 설치할 수 없습니다.
 addon-install-error-hard-blocked = { $addonName } 부가 기능은 Mozilla 정책을 위반하므로 { -brand-short-name }에 설치할 수 없습니다.
 addon-install-error-soft-blocked2 = { $addonName } 부가 기능은 사용이 제한되어 { -brand-short-name }에 설치할 수 없습니다.
-addon-install-error-blocklisted = { $addonName }는 불안정하게 만들고 보안 문제를 일으킬 것으로 보여 설치할 수 없습니다.
-addon-install-error-soft-blocked = { $addonName } 부가 기능은 Mozilla 정책을 위반하므로 { -brand-short-name }에 설치할 수 없습니다.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = 최종 사용자로 { $addonName } 부가 기능을 설치할 수 없으며, 엔터프라이즈 정책을 사용하는 조직에서만 설치할 수 있습니다.

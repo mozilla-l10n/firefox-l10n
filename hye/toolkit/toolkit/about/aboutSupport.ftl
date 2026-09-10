@@ -21,10 +21,6 @@ security-software-name = Անուն
 security-software-antivirus = Հակավիրուս
 security-software-antispyware = Հակալրտես
 security-software-firewall = Արգելապատնեշ
-features-title = { -brand-short-name }-ի յատկութիւններ
-features-name = Անուն
-features-version = Տարբերակ
-features-id = Նոյնացուցիչ
 processes-title = Հեռաւոր գործընթացներ
 processes-type = Տեսակ
 processes-count = Հաշուել
@@ -50,7 +46,6 @@ app-basics-profile-dir =
         [linux] յատկագրի պահոց
        *[other] յատկագրի թղթապանակը
     }
-app-basics-enabled-plugins = Միացուած ներդիրներ
 app-basics-build-config = Կառուցման կազմաձեւում
 app-basics-user-agent = Գործակալ աւգտատեր
 app-basics-os = ԳՀ
@@ -86,9 +81,6 @@ show-dir-label =
 environment-variables-title = Միաջավայրի փոփոխականներ
 environment-variables-name = Անուանում
 environment-variables-value = Արժէք
-experimental-features-title = Փորձնական յատկութիւններ
-experimental-features-name = Անուանում
-experimental-features-value = Արժէք
 modified-key-prefs-title = Փոփոխուած կարեւոր նախընտրութիւններ
 modified-prefs-name = Անուն
 modified-prefs-value = Արժեքը
@@ -323,8 +315,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Անջատուած է փորձնականով
-fission-status-experiment-treatment = Միացուած է փորձնականով
 fission-status-disabled-by-e10s-env = Անջատուած է միջավայրի կողմից
 fission-status-enabled-by-env = Միացուած է միջավայրի կողմից
 fission-status-disabled-by-env = Անջատուած միջավայրի կողմից
@@ -333,7 +323,6 @@ fission-status-disabled-by-default = Անջատուած է սկզբնադիր
 fission-status-enabled-by-user-pref = Միացուած է աւգտուողի կողմից
 fission-status-disabled-by-user-pref = Անջատուած է աւգտուողի կողմից
 fission-status-disabled-by-e10s-other = E10s -ն անջատուած է
-fission-status-enabled-by-rollout = Միացուած փուլային գլորման կողմից
 async-pan-zoom = Չհամաժամեցուած շեղում/խոշորացում
 apz-none = չկայ
 wheel-enabled = ղեկասարքային ներմուծումը միացուած է

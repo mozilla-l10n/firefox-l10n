@@ -31,7 +31,6 @@ inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</st
 inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> non é compatible cos pseudoelementos ::first-letter.
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> non é compatible cos pseudoelementos ::placeholder.
 inactive-css-property-because-of-display = <strong> { $property } </strong> non ten ningún efecto sobre este elemento xa que ten como display <strong>{ $display }</strong>.
-inactive-css-not-display-block-on-floated = O valor de <strong>display</strong> foi cambiado polo motor a <strong>block</strong> porque o elemento está <strong>flotado</strong>.
 inactive-css-not-display-block-on-floated-2 = O motor cambiou o valor de <strong>display</strong> a <strong>{ $display }</strong> porque o elemento está <strong>floated</strong>.
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> non ten ningún efecto porque non se pode usar en elementos de grade ou flexibles.
 inactive-css-not-block = <strong>{ $property }</strong> non ten ningún efecto neste elemento porque só se aplica aos elementos de nivel de bloque.
@@ -50,16 +49,6 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 inactive-css-border-image = <strong>{ $property }</strong> non afecta a este elemento porque non se pode aplicar a elementos internos de táboas nos que <strong>border-collapse</strong> está definido como <strong>collapse</strong> no elemento táboa contedor.
 inactive-css-resize = <strong>{ $property }</strong> non ten ningún efecto neste elemento xa que só se pode aplicar a elementos cun valor de desbordamento que non sexa visible e a determinados elementos substituídos, como áreas de texto.
 inactive-css-ruby-element = <strong>{ $property }</strong> non afecta a este elemento porque é un elemento de rubi. O seu tamaño ven determinado polo tamaño de letra do texto rubi.
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> non é compatible cos pseudoelementos destacados.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> non é compatible cos pseudoelementos ::cue.
 # Variables:

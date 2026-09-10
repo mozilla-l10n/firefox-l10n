@@ -8,6 +8,3 @@ popup-notification-more-actions-button =
 popup-notification-default-button2 =
     .label = კარგი
     .accesskey = კ
-popup-notification-default-button =
-    .label = კარგი!
-    .accesskey = კ

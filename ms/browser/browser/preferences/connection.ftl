@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Tetapan Sambungan
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Tetapan Sambungan
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -51,18 +51,14 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Muat semula
     .accesskey = e
-connection-proxy-autologin =
-    .label = Jangan paparkan pengesahan jika kata laluan telah disimpan
-    .accesskey = i
-    .tooltip = Pilihan ini mengesahkan secara senyap apabila anda ada menyimpan kelayakan bagi pihak proksi. Tapi anda akan dimaklumkan jika pengesahan gagal.
 connection-proxy-autologin-checkbox =
     .label = Jangan paparkan pengesahan jika kata laluan telah disimpan
-    .accesskey = i
     .tooltiptext = Pilihan ini mengesahkan secara senyap apabila anda ada menyimpan kelayakan bagi pihak proksi. Tapi anda akan dimaklumkan jika pengesahan gagal.
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = Proksi DNS apabila menggunakan SOCKS v5
     .accesskey = d
 connection-dns-over-https-url-custom =
     .label = Penyesuaian
-    .accesskey = P
     .tooltiptext = Masukkan URL keutamaan untuk menyelesaikan DNS ke atas HTTPS
+    .accesskey = P

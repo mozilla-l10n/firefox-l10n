@@ -25,8 +25,6 @@ download-cert-view-text = Bigbigen ti sertipiko ti CA
 
 client-auth-window =
     .title = Dawat ti Bigbig ti Agar-aramat
-client-auth-site-description = Dinawatkayo daytoy a purok agpabigbigkayo babaen ti sertipiko:
-client-auth-choose-cert = Pilien ti sertipiko nga idatag a kas pagilasinan:
 
 ## Set password (p12) dialog
 

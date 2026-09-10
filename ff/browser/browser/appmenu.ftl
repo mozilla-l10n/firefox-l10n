@@ -46,10 +46,6 @@ appmenu-remote-tabs-unverified = Konte maa ina cokli ƴeewteede.
 appmenuitem-save-page =
     .label = Danndu Hello e Innde…
 
-## What's New panel in App menu.
-
-whatsnew-panel-header = Ko Hesɗi
-
 ##
 
 appmenu-restore-session =
@@ -73,8 +69,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Humpitooji Ñawndugol Caɗeele Goɗɗe
     .accesskey = t
-appmenu-help-report-site-issue =
-    .label = Jaŋto Caɗeele Lowre…
 appmenu-help-share-ideas =
     .label = Wostondir miijooji e duttine...
     .accesskey = s

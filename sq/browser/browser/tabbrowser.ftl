@@ -21,11 +21,6 @@ tabbrowser-tab-tooltip-container = { $containerName }
 #   $tabGroupName (String): the user-defined name of the current tab group.
 #   $containerName (String): the name of the current container.
 tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -33,14 +28,6 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [one] Mbylle skedën
-           *[other] Mbylli të { $tabCount } skedat
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [one] Mbylle skedën
            *[other] Mbylli të { $tabCount } skedat
@@ -106,7 +93,6 @@ tabbrowser-unblock-tab-audio-aria-label =
 tabbrowser-confirm-close-tabs-title = Të mbyllen { $tabCount } skeda?
 tabbrowser-confirm-close-tabs-button = Mbylli skedat
 tabbrowser-ask-close-tabs-checkbox = Pyet, para se të mbyllen disa skeda njëherësh
-tabbrowser-confirm-close-tabs-checkbox = Ripohojeni, përpara se të mbyllen disa skeda njëherësh
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -129,9 +115,6 @@ tabbrowser-confirm-close-tabs-with-key-button = Dil nga { -brand-short-name }-i
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-ask-close-tabs-with-key-checkbox = Pyet, para se të dilet me { $quitKey }
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = Ripohojeni, para se dilet me { $quitKey }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.

@@ -16,15 +16,3 @@ recently-closed-menu-reopen-all-windows = تمام ونڈوز کو دوبارہ 
 
 recently-closed-panel-reopen-all-tabs = تمام ٹیب کو دوبارہ کھولیں
 recently-closed-panel-reopen-all-windows = تمام ونڈوز کو دوبارہ کھولیں
-
-##
-
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [one] { $winTitle } (اور { $tabCount } دوسرے ٹیب)
-       *[other] { $winTitle } (اور { $tabCount } دوسرے ٹیب)
-    }

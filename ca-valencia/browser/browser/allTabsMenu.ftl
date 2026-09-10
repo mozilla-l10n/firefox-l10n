@@ -9,6 +9,3 @@ all-tabs-menu-new-user-context =
     .label = Pestanya de contenidor nova
 all-tabs-menu-hidden-tabs =
     .label = Pestanyes ocultes
-all-tabs-menu-manage-user-context =
-    .label = Gestiona els contenidors
-    .accesskey = o

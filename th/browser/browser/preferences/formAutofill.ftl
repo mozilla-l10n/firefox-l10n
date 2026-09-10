@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = ที่อยู่ที่บันทึกไว้
 autofill-manage-addresses-list-header = ที่อยู่
-autofill-manage-credit-cards-title = บัตรเครดิตที่บันทึกไว้
-autofill-manage-credit-cards-list-header = บัตรเครดิต
 autofill-manage-payment-methods-title = วิธีการชำระเงินที่บันทึกไว้
 autofill-manage-cards-list-header = บัตร
 autofill-manage-dialog =
@@ -45,15 +43,10 @@ address-capture-open-menu-button =
     .aria-label = เปิดเมนู
 address-capture-edit-address-link = แก้ไขที่อยู่
     .aria-label = แก้ไขที่อยู่
-address-capture-edit-address-button =
-    .aria-label = แก้ไขที่อยู่
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = เพิ่มที่อยู่
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = แก้ไขที่อยู่
-autofill-address-given-name = ชื่อจริง
-autofill-address-additional-name = ชื่อกลาง
-autofill-address-family-name = นามสกุล
 autofill-address-name = ชื่อ
 autofill-address-organization = องค์กร
 autofill-address-street-address = ที่อยู่ถนน
@@ -101,8 +94,6 @@ autofill-address-eircode = เอียร์โค้ด
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = เพิ่มที่อยู่ใหม่
 autofill-address-country = ประเทศหรือภูมิภาค
 autofill-address-country-only = ประเทศ
 autofill-address-tel = โทรศัพท์
@@ -110,18 +101,6 @@ autofill-address-email = อีเมล
 autofill-cancel-button = ยกเลิก
 autofill-save-button = บันทึก
 autofill-country-warning-message = ขณะนี้การกรอกแบบฟอร์มมีให้บริการเฉพาะบางประเทศเท่านั้น
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = เพิ่มบัตรเครดิตใหม่
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = แก้ไขบัตรเครดิต
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] แสดงข้อมูลบัตรเครดิต
-        [windows] { -brand-short-name } กำลังพยายามจะแสดงข้อมูลบัตรเครดิต ยืนยันการเข้าถึงบัญชี Windows นี้ด้านล่าง
-       *[other] { -brand-short-name } กำลังพยายามจะแสดงข้อมูลบัตรเครดิต
-    }
 autofill-message-tooltip = ดูข้อความเกี่ยวกับการเติมอัตโนมัติ
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = เพิ่มบัตร
@@ -146,15 +125,3 @@ autofill-card-network = ชนิดบัตร
 # methods section. Localizers should choose terms that make sense for payment
 # methods in their region.
 autofill-card-search-term-credit-cards = บัตรเครดิต, เครดิต, บัตร, บัตรเดบิต, เดบิต, กระเป๋าเงิน, ชำระเงิน
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

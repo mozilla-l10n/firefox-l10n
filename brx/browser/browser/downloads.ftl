@@ -26,8 +26,6 @@ downloads-cmd-cancel-panel =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = डाउनल'ड फल्डारखौ दिन्थि
 downloads-cmd-retry =
     .tooltiptext = फिन नाजा
 downloads-cmd-retry-panel =

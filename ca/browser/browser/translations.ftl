@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Tradueix aquesta pàgina
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = S'està traduint…
 translations-panel-settings-button =
     .aria-label = Gestiona els paràmetres de traducció
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Gestiona les llengües
-translations-panel-settings-about = Quant a les traduccions en el { -brand-shorter-name }
 translations-panel-settings-about2 =
     .label = Quant a les traduccions en el { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
@@ -91,14 +82,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = Encara no admetem traduccions de { $language }.
 translations-panel-error-unsupported-hint-unknown-2 = Encara no admetem traduccions d'aquesta llengua.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Aquesta llengua encara no és compatible: { $language }
-translations-panel-error-unsupported-hint-unknown = Aquesta llengua encara no és compatible.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -130,10 +113,6 @@ translations-manage-header = Traduccions
 translations-manage-settings-button =
     .label = Paràmetres…
     .accesskey = P
-translations-manage-description = Baixeu llengües per a la traducció fora de línia.
-translations-manage-all-language = Totes les llengües
-translations-manage-download-button = Baixa
-translations-manage-delete-button = Suprimeix
 translations-manage-intro-2 = Definiu les preferències de llengua i de traducció dels llocs, i gestioneu les llengües baixades per a la traducció fora de línia.
 translations-manage-download-description = Baixeu llengües per a la traducció fora de línia
 translations-manage-language-download-button =
@@ -147,12 +126,11 @@ translations-manage-language-remove-all-button =
     .label = Elimina-ho tot
     .accesskey = E
 translations-manage-error-download = Hi ha hagut un problema en baixar els fitxers de la llengua. Torneu-ho a provar.
-translations-manage-error-delete = Hi ha hagut un problema en suprimir els fitxers de la llengua. Torneu-ho a provar.
 translations-manage-error-remove = Hi ha hagut un problema en eliminar els fitxers de la llengua. Torneu-ho a provar.
 translations-manage-error-list = No s'ha pogut obtenir la llista de llengües disponibles per a la traducció. Actualitzeu la pàgina per tornar-ho a provar.
 translations-settings-title =
-    .title = Paràmetres de les traduccions
     .style = min-width: 36em
+    .title = Paràmetres de les traduccions
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Les llengües següents es traduiran automàticament
@@ -246,16 +224,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = Encara no admetem traduccions de { $language }.
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = Encara no admetem traduccions d'aquesta llengua.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Aquesta llengua encara no és compatible: { $language }
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Aquesta llengua encara no és compatible.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Paràmetres de les traduccions

@@ -6,7 +6,6 @@ xpinstall-prompt = { -brand-short-name } kee nap noo luu naa toob luu taa diff p
 
 ##
 
-xpinstall-disabled-locked = Naa toob noo taa diif program.
 xpinstall-disabled = Naa toob noo taa diif program. Liy taa diif vez.
 
 ## Add-on install errors

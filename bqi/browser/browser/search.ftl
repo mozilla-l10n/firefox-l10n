@@ -44,11 +44,11 @@ install-search-engine-no = ن
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = ٱووردن موتور پیتینیڌن
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = آلشت موتور پیتینیڌن
     .style = min-width: 32em;
+    .title = آلشت موتور پیتینیڌن
 add-engine-button = ٱووردن موتور سفارشی
 add-engine-name = نوم موتور پیتینیڌن
 
@@ -58,11 +58,11 @@ add-engine-name = نوم موتور پیتینیڌن
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = ٱووردن موتور
-    .buttonaccesskeyaccept = A
     .buttonlabelextra1 = پؽش رئڌه
+    .buttonaccesskeyaccept = A
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = زفت کردن موتور
-    .buttonaccesskeyaccept = S
     .buttonlabelextra1 = پؽش رئڌه
+    .buttonaccesskeyaccept = S

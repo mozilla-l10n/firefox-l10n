@@ -44,13 +44,10 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>：{ $glean-android-de
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>：{ $moz-official-define-value }
 about-glean-additional-links = 有关记录和查找数据的各种方式，请参见<strong>关于数据</strong>标签页。
-about-glean-about-testing-header = 关于测试
 # This message is followed by a numbered list.
 about-glean-manual-testing = 完整说明文档请见 <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } 检测测试文档</a>和 <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } 文档</a>。不过简而言之，如需手动测试检测是否有效，您需要：
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = （不提交任何 Ping）
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = 在此栏设置好记的调试标签，方便之后快速找到您的 ping。
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = 设置一个容易记忆的调试标签<span>（20个字符以内，仅限字母数字和短横线）</span>以便您随后可以识别您的 ping。
 # An in-line drop down list precedes this string.
@@ -63,8 +60,6 @@ about-glean-label-for-log-pings = （可选项。若您想在提交 Ping 时也�
 # An in-line button labeled "Apply settings and submit ping" precedes this string.
 about-glean-label-for-controls-submit = 按下此按钮会将所有 { -glean-brand-name } ping 带上您的标签，并提交选择的 ping。（直到重启应用程序前所提交的 ping 都将标上 <code>{ $debug-tag }</code>。）
 about-glean-li-for-visit-gdpv = <a data-l10n-name="gdpv-tagged-pings-link">请访问 { glean-debug-ping-viewer-brand-name }页面查看带有您标签的 ping</a>。从按下按钮到收到 ping 应该不会超过几秒钟，有时可能需要几分钟。
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation = 如需进行 <i>ad hoc 临时测试</i>，也可在 <code>about:glean</code> 页面打开开发者控制台，并使用 <code>Glean.metricCategory.metricName.testGetValue()</code> 等 <code>testGetValue()</code> API 确定测试仪器的当前值。
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 = 如需进行 <i>ad hoc 临时测试</i>，也可在 <code>about:glean</code> 页面打开开发者控制台，并使用 <code>Glean.metricCategory.metricName.testGetValue()</code> 等 <code>testGetValue()</code> API 来获取名称为 <code>metric.category.metric_name</code> 的指标，以确定测试仪器的当前值。
 # Do not translate strings between <code> </code> tags.
@@ -144,7 +139,6 @@ about-glean-no-data-to-display = 没有可显示的数据。
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>about:glean</code> 视图中暂未支持 <code>DualLabeledCounter</code> 指标。
 about-glean-unknown-metric-type-warning = 指标类型未知。
-about-glean-about-data-explanation = 要浏览收集的数据列表，请查阅 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 词典</a>。
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } – Megosztásjelző
-webrtc-indicator-window =
-    .title = { -brand-short-name } – Megosztásjelző
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Megosztja a mikrofonját. Kattintson a megosztási beállításokhoz.
 webrtc-screen-system-menu =
     .label = Megosztja a képernyőjét vagy egy ablakot. Kattintson a megosztási beállításokhoz.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Kamerája és mikrofonja meg van osztva. Kattintson a megosztási beállításokhoz.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Kamerája meg van osztva. Kattintson a megosztási beállításokhoz.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Mikrofonja meg van osztva. Kattintson a megosztási beállításokhoz.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Egy alkalmazás meg van osztva. Kattintson a megosztási beállításokhoz.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Képernyője meg van osztva. Kattintson a megosztási beállításokhoz.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Egy ablak meg van osztva. Kattintson a megosztási beállításokhoz.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Egy lap meg van osztva. Kattintson a megosztási beállításokhoz.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Engedélyezi, ho
 
 webrtc-share-screen-warning = Csak azokkal az oldalakkal ossza meg a képernyőit, melyekben megbízik. A megosztás lehetővé teszi a megtévesztő oldalaknak, hogy az ön nevében böngésszenek, és ellopják a személyes adatait.
 webrtc-share-browser-warning = Csak azokkal az oldalakkal ossza meg a { -brand-short-name }ot, melyekben megbízik. A megosztás lehetővé teszi a megtévesztő oldalaknak, hogy az ön nevében böngésszenek, és ellopják a személyes adatait.
-webrtc-share-screen-learn-more = További tudnivalók
 webrtc-pick-window-or-screen = Válasszon ablakot vagy képernyőt
 webrtc-share-entire-screen = Teljes képernyő
 webrtc-share-pipe-wire-portal = Az operációs rendszer beállításainak használata

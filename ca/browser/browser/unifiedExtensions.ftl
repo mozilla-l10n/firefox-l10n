@@ -36,9 +36,6 @@ unified-extensions-item-message-manage = Gestiona l'extensió
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = { $extensionName } està restringida. Usar-la pot ser arriscat.
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName } infringeix les polítiques de Mozilla. Usar-la pot ser arriscat.
 
 ## Extension's context menu
 
@@ -57,8 +54,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = No es permeten algunes extensions
-unified-extensions-mb-quarantined-domain-message = Per protegir les vostres dades, en aquest lloc només es permeten algunes extensions supervisades per { -vendor-short-name }.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = No es permeten algunes extensions
@@ -71,11 +66,6 @@ unified-extensions-mb-about-addons-link = Aneu a la configuració de l'extensió
 unified-extensions-mb-blocklist-warning-single2 =
     .heading = { $extensionName } està desactivada
     .message = Aquesta extensió està restringida i ha estat desactivada. Podeu activar-la a la configuració, però pot ser arriscat.
-# Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } està desactivada
-    .message = Aquesta extensió infringeix les polítiques de Mozilla i s'ha desactivat. Podeu activar-la a la configuració, però pot ser arriscat.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
@@ -90,15 +80,6 @@ unified-extensions-mb-blocklist-warning-multiple2 =
            *[other] { $extensionsCount } extensions desactivades
         }
     .message = Algunes de les vostres extensions estan restringides i han estat desactivades. Podeu activar-les a la configuració, però pot ser arriscat.
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-            [one] { $extensionsCount } extensió desactivada
-           *[other] { $extensionsCount } extensions desactivades
-        }
-    .message = Algunes de les vostres extensions han estat desactivades per infringir les polítiques de Mozilla. Podeu activar-les a la configuració, però pot ser arriscat.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =

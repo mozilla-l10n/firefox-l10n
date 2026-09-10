@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Z instalaciju pókšacowaś
     .accesskey = k
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Toś te sedła sebje pśistup k wašym rědam MIDi (Musical Instrument Digital Interface) pomina. Rědowy pśistup dajo se zmóžniś, gaž dodank instalěrujośo.
 site-permission-install-first-prompt-midi-message = Wěsty pśistup se njegarantěrujo. Póstupujśo jano, jolic toś tomu sedłoju dowěriśo.
 site-permission-install-first-prompt-serial-header = Toś to sedło wó pśistup k wašym serijowym rědam pšosy. Instalěrujśo dodank, aby pśistup k rědam zmóžnił.
 site-permission-install-first-prompt-serial-message = Wěsty pśistup se njegarantěrujo. Póstupujśo jano, jolic toś tomu sedłoju dowěriśo.
-
-##
-
-xpinstall-disabled-locked = Instalacija softwary jo se wót wašogo systemowego administratora znjemóžniła.
 xpinstall-disabled-by-policy = Instalacija softwary jo se wót wašeje organizacije znjemóžniła.
 xpinstall-disabled = Instalacija softwary jo tuchylu znjemóžnjona. Klikniśo na Zmóžniś a wopytajśo hyšći raz.
 xpinstall-disabled-button =
     .label = Zmóžniś
     .accesskey = m
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) jo se znjemóžnił wót twójogo administratora.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Waš systemowy administrator jo zawoborał toś tomu sedłoju, was se wó dowólenje pšašaś, software na wašym licadle instalěrowaś.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = Instalaciju rozšyrjenjow dokóńcyś, kótarež su se 
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = { $name } wótwónoźeś?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = { $name } z { -brand-shorter-name } wótwónoźeś?
 addon-removal-button = Wótwónoźeś
 addon-removal-abuse-report-checkbox = { -vendor-short-name } toś to rozšyrjenje k wěsći daś
 # "it" refers to the local AI model that is paired to the AI feature
@@ -151,7 +134,5 @@ addon-local-install-no-addon-name-error-file-access = Dodank njedajo se instalě
 addon-install-error-incompatible = { $addonName } njedajo se instalěrowaś, dokulaž njejo z { -brand-short-name } { $appVersion } kompatibelny.
 addon-install-error-hard-blocked = { $addonName } se pśeśiwo pšawidłam Mozilla pśejźo a njedajo se na { -brand-short-name } instalěrowaś.
 addon-install-error-soft-blocked2 = { $addonName } jo wobgranicowany a njedajo se na { -brand-short-name } instalěrowaś.
-addon-install-error-blocklisted = { $addonName } njedajo se instalěrowaś, dokulaž jo wjelike riziko, až zawinujo stabilnostne abo wěstotne problemy.
-addon-install-error-soft-blocked = { $addonName } se pśeśiwo pšawidłam Mozilla pśejźo a njedajo se na { -brand-short-name } instalěrowaś.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Njamóžośo { $addonName } ako kóńcny wužywaŕ instalěrowaś, dajo se jano wót organizacije z pomocu pśedewześowych pšawidłow instalěrowaś.

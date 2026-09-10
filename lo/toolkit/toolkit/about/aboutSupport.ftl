@@ -15,10 +15,6 @@ support-addons-id = ID
 security-software-type = ປະເພດ
 security-software-name = ຊື່
 security-software-firewall = ໄຟວໍລ
-features-title = ຄູນລັກສະນະຂອງ { -brand-short-name }
-features-name = ຊື່
-features-version = ເວີຊັນ
-features-id = ID
 app-basics-title = ແອັບພຣິເຄຊັນພື້ນຖານ
 app-basics-name = ຊື່​
 app-basics-version = ລູ້ນ​
@@ -31,7 +27,6 @@ app-basics-profile-dir =
         [linux] ໄດເລັກທໍລີໂປຣໄຟລ໌
        *[other] ໂຟຣເດີໂປຣໄຟລ໌
     }
-app-basics-enabled-plugins = ເປີດການໃຊ້ງານ Plugins ແລ້ວ
 app-basics-build-config = Build Configuration
 app-basics-user-agent = User Agent
 app-basics-os = ລະບົບປະຕິບັດການ

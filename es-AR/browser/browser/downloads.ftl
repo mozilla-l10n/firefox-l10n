@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Mostrar en Finder
            *[other] Mostrar en carpeta
         }
-downloads-cmd-show-downloads =
-    .label = Mostrar carpeta de descargas
 downloads-cmd-retry =
     .tooltiptext = Reintentar
 downloads-cmd-retry-panel =

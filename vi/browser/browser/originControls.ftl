@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Tiện ích mở rộng không thể đọc và thay đổi dữ liệu
-origin-controls-quarantined =
-    .label = Tiện ích không được phép đọc và thay đổi dữ liệu
 origin-controls-quarantined-status =
     .label = Tiện ích mở rộng không được phép trên trang bị hạn chế
 origin-controls-quarantined-allow =

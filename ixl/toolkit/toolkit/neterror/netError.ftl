@@ -6,4 +6,3 @@
 ## Error page actions
 
 neterror-learn-more-link = Ootzi ka'te…
-neterror-try-again-button = Kapu unpajte

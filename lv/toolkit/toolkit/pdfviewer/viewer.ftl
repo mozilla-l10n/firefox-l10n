@@ -141,28 +141,12 @@ pdfjs-printing-not-ready = Uzmanību: PDF nav pilnībā ielādēts drukāšanai.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
-pdfjs-toggle-sidebar-button =
-    .title = Pārslēgt sānu joslu
-pdfjs-toggle-sidebar-button-label = Pārslēgt sānu joslu
-pdfjs-document-outline-button =
-    .title = Rādīt dokumenta struktūru (veiciet dubultklikšķi lai izvērstu/sakļautu visus vienumus)
-pdfjs-document-outline-button-label = Dokumenta saturs
-pdfjs-attachments-button =
-    .title = Rādīt pielikumus
-pdfjs-attachments-button-label = Pielikumi
-pdfjs-thumbs-button =
-    .title = Parādīt sīktēlus
-pdfjs-thumbs-button-label = Sīktēli
 pdfjs-findbar-button =
     .title = Meklēt dokumentā
 pdfjs-findbar-button-label = Meklēt
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
-# Variables:
-#   $page (Number) - the page number
-pdfjs-thumb-page-title =
-    .title = Lapa { $page }
 # Variables:
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =

@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxviewtabrow-open-menu-button =
-    .title = Ldi umuɣ
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
@@ -24,10 +22,6 @@ fxviewtabrow-dismiss-tab-button =
     .title = Kkes { $tabTitle }
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Tura akka
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-delete = Kkes
     .accesskey = K
 fxviewtabrow-forget-about-this-site = Ttu asmel-a…
@@ -53,8 +47,6 @@ fxviewtabrow-move-tab-end = Senkez akken ad tfakeḍ
     .accesskey = F
 fxviewtabrow-move-tab-window = Senkez ɣer usfaylu amaynut
     .accesskey = U
-fxviewtabrow-send-tab = Azen iccer ɣer yibenk
-    .accesskey = n
 fxviewtabrow-pin-tab = Rzi iccer-a
     .accesskey = R
 fxviewtabrow-unpin-tab = Serreḥ i yiccer-a

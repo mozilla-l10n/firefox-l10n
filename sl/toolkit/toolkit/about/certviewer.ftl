@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = Vaša digitalna potrdila
 certificate-viewer-tab-people = Ljudje
 certificate-viewer-tab-servers = Strežniki
 certificate-viewer-tab-ca = Overitelji
-certificate-viewer-tab-unkonwn = Neznano

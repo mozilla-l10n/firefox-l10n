@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiledowngrade-window2 =
-    .title = Ti deuvi 'na vegia verscion de { -brand-product-name }
     .style = min-width: 490px;
+    .title = Ti deuvi 'na vegia verscion de { -brand-product-name }
 profiledowngrade-window-create =
     .label = Crea 'n neuvo profî
 profiledowngrade-quit =

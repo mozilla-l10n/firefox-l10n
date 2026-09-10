@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = निजी विंडो खोलू (P)
     .accesskey = P
 about-private-browsing-search-placeholder = वेब पर खोजू
-about-private-browsing-info-title = अहाँ एकटा निजी विंडो मे छी
 about-private-browsing-search-btn =
     .title = वेब पर खोजू
 # Variables
@@ -19,14 +18,10 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = { $engine } सँग खोजू अथवा पता दर्ज करू
 about-private-browsing-handoff-text-no-engine = खोजू अथवा पता दर्ज करू
 about-private-browsing-not-private = अहाँ अखन निजी विंडो मे नहि छी.
-about-private-browsing-info-description-private-window = प्राइवेट विंडो: { -brand-short-name } अहाँक खोज आओर ब्राउजिंग इतिहास के मेटाए देत अछि जखन अहाँ सभ प्राइवेट विंडो बन्न करैत छी. ई अहाँ केँ गुमनाम नहि बनाबैछ.
-about-private-browsing-info-description-simplified = { -brand-short-name } अहाँक खोज आओर ब्राउजिंग इतिहास के मेटाए देत अछि जखन अहाँ सभ प्राइवेट विंडो बन्न करैत छी, मुदा ई अहाँ केँ गुमनाम नहि बनाबैछ.
-about-private-browsing-learn-more-link = बेसी जानू
 about-private-browsing-hide-activity = सभे ठाम जतए अहाँ ब्राउज कएलहुँ , ओतए सँ अपन काज आओर स्थान नुकाबू
 about-private-browsing-get-privacy = जतए भी अहाँ ब्राउज करैत छी प्राइवेसी सुरक्षा सभे ठाम पाबू
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } सँग प्राइवेट होउ
 about-private-browsing-focus-promo-cta = डाउनलोडकरू { -focus-brand-name }
-about-private-browsing-focus-promo-header-b = अपन फ़ोन मे प्राइवेट ब्राउज़र पाबू
 about-private-browsing-focus-promo-header-c = मोबाइल पर अगिला स्तर केर प्राइवेसी पाबू
 about-private-browsing-search-banner-close-button =
     .aria-label = बन्न करू
@@ -42,10 +37,3 @@ about-private-browsing-pin-promo-link-text =
        *[other] टास्कबार में पिन करू
     }
 about-private-browsing-pin-promo-title = अहाँक डेस्कटॉप सँ कोनो कुकीज अथवा इतिहास नहि सहेजल गेल. ब्राउज़ करू जे केओ नहि देखि रहैछ
-
-## Strings used in a promotion message for cookie banner reduction
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = कुकी बैनर आरंभ भेल!
-about-private-browsing-cookie-banners-promo-button = कुकी बैनर हटाए

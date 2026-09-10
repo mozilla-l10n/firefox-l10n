@@ -2,36 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Sitten e "Net Verfollegen" Signal schécken dass ech net verfollegt wëll ginn.
-do-not-track-learn-more = Fir méi ze wëssen
-do-not-track-option-always =
-    .label = Ëmmer
 pane-general-title = Allgemeng
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = Accueil
 pane-search-title2 = Sichen
     .title = Sichen
 pane-privacy-title3 = Dateschutz & Sécherheet
     .title = Dateschutz & Sécherheet
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = Sichen
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = Dateschutz & Sécherheet
-pane-privacy-title = Dateschutz & Sécherheet
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label2 = Hëllef fir { -brand-short-name }
     .title = Hëllef fir { -brand-short-name }
-help-button-label = Hëllef fir { -brand-short-name }
 focus-search =
     .key = f
 close-button =
@@ -70,20 +52,13 @@ search-results-help-link = Brauchs Du Hëllef? Besich de <a data-l10n-name="url"
 
 ## General Section
 
-startup-header = Start
 always-check-default =
     .label = Ëmmer nokucken ob { -brand-short-name } de Standard-Browser ass
     .accesskey = y
-is-default = { -brand-short-name } ass de Standard-Browser
-is-not-default = { -brand-short-name } ass net de Standard-Browser
-set-as-my-default-browser =
-    .label = Als Standard festleeën
-    .accesskey = S
 disable-extension =
     .label = Erweiderung desaktivéieren
 tabs-group-header2 =
     .label = Tabs
-tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab geet duerch Tabs a lescht benotzter Reiefolleg
     .accesskey = R
@@ -94,9 +69,6 @@ warn-on-open-many-tabs =
     .label = Warne wann d'Opmaachen vun méi Tabs de { -brand-short-name } méi lues kéint maachen
     .accesskey = d
 browser-containers-learn-more = Fir méi ze wëssen
-browser-containers-settings =
-    .label = Astellungen....
-    .accesskey = A
 startup-group =
     .label = Start
 
@@ -107,23 +79,10 @@ containers-disable-alert-cancel-button = Aktivéiert loossen
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Sprooch an Ausgesinn
-default-font = Standard-Schrëftaart
-    .accesskey = S
-default-font-size = Gréisst
-    .accesskey = G
-advanced-fonts =
-    .label = Erweidert...
-    .accesskey = E
 language-header = Sprooch
 choose-button =
     .label = Wielen...
     .accesskey = E
-translate-web-pages =
-    .label = Webinhalt iwwersetzen
-    .accesskey = W
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = Iwwersetzunge vu <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Ausnamen...
     .accesskey = A
@@ -138,23 +97,6 @@ download-save-files-header =
     .label = Fichiere späicheren am Dossier
 download-save-where-3 =
     .aria-label = Fichiere späicheren am Dossier
-download-header = Downloads
-download-save-where = Fichiere späicheren am Dossier
-    .accesskey = V
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Auswielen…
-           *[other] Duerchsichen…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] o
-        }
-download-always-ask-where =
-    .label = Ëmmer froe wou d'Fichiere gespäichert solle ginn
-    .accesskey = A
 applications-header = Applikatiounen
 applications-action-column =
     .label = Aktioun
@@ -177,8 +119,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -193,15 +133,9 @@ applications-use-other-label =
 ## Firefox updates
 
 play-drm-content-learn-more = Fir méi ze wëssen
-update-application-title = { -brand-short-name }-Updates
-update-application-allow-description = { -brand-short-name } erlaben
-update-application-auto =
-    .label = Updaten automatesch installéieren (recommandéiert)
-    .accesskey = A
 
 ## General Section - Performance
 
-performance-title = Performance
 performance-settings-learn-more = Fir méi ze wëssen
 performance-group =
     .label = Performance
@@ -211,13 +145,6 @@ performance-group =
 browsing-search-on-start-typing =
     .label = Nom Text siche während dem Tippen
     .accesskey = x
-
-## General Section - Proxy
-
-network-proxy-connection-learn-more = Fir méi ze wëssen
-network-proxy-connection-settings =
-    .label = Astellungen...
-    .accesskey = A
 
 ## Home Section - Default Browser
 
@@ -261,11 +188,6 @@ search-remove-engine =
     .label = Läschen
     .accesskey = R
 
-## Containers Section
-
-containers-remove-button =
-    .label = Läschen
-
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -275,10 +197,6 @@ sync-engine-addresses =
     .label = Adressen
     .tooltiptext = Post-Adressen déi dir gespäichert hutt (nëmmen Desktop)
     .accesskey = e
-sync-engine-creditcards =
-    .label = Kreditkaarten
-    .tooltiptext = Nimm, Nummeren an Oflafsatum
-    .accesskey = C
 
 ## The device name controls.
 
@@ -297,16 +215,6 @@ sync-device-name-save =
     .label = Späicheren
     .accesskey = v
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = Bestätegung geschéckt
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = E Link zur Bestätegung ass un { $email } geschéckt ginn.
-sync-verification-not-sent-title = D'Bestätegung konnt net geschéckt ginn
-sync-verification-not-sent-body = Et ass eis net méiglech d'Bestätegungsemail dëse Moment ze schécken, probéier wegl méi spéit nach emol.
-
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Fir méi ze wëssen
@@ -319,14 +227,6 @@ addressbar-locbar-bookmarks-option =
 
 ## Privacy Section - Permissions
 
-permissions-location = Standuert
-permissions-location-settings =
-    .label = Astellungen...
-    .accesskey = A
-permissions-camera = Kamera
-permissions-microphone = Mikro
-permissions-notification = Notifikatiounen
-permissions-notification-link = Fir méi ze wëssen
 permissions-location2 =
     .label = Standuert
 permissions-camera2 =
@@ -335,10 +235,6 @@ permissions-microphone2 =
     .label = Mikro
 permissions-notification2 =
     .label = Notifikatiounen
-
-## Privacy Section - Data Collection
-
-collection-health-report-link = Fir méi ze wëssen
 
 ## Privacy Section - Security
 ##

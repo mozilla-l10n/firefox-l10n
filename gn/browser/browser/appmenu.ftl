@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = Jepysokue ha téma
 appmenuitem-extensions =
     .label = Jepysokue
-appmenuitem-addons-and-themes =
-    .label = Moĩmbaha ha Téma
 appmenuitem-print =
     .label = Mbokuatia…
 appmenuitem-find-in-page =
@@ -154,7 +152,6 @@ fxa-menu-get-firefox-mobile =
     .label = Ereko { -brand-product-name } Android iOS-pe g̃uarã
 fxa-menu-secure-sync-subpanel =
     .title = Ñembojuehe hekorosãva
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Mba’ete
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -176,15 +173,6 @@ appmenuitem-save-page =
     .label = Ñongatu pyahu…
 appmenuitem-fxa-sync-off-title = Ñembojuehe oñemboguéma
 appmenuitem-fxa-sync-off-description = Emo’ã ha eike nde rechaukaha, ñe’ẽñemi ha hetavépe oimeraẽva mba’e’oka guive.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Oĩpa mba’e pyahu
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Eikuaauka tembiapoite pyahu
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -325,8 +313,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Maranduve apañuái ñemyatyrõ rehegua
     .accesskey = T
-appmenu-help-report-site-issue =
-    .label = Eikuaauka iñapañuaiha ko Tenda…
 appmenu-help-share-ideas =
     .label = Emoherakuã ãroky ha ñe’ẽngue…
     .accesskey = S
@@ -392,7 +378,6 @@ appmenuitem-vpn-description5 = Ereko ñemo’ãve opaite ne mba’e’okápe
 appmenuitem-vpn-title-signed-in1 = Emboguejy { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Eheka ñemo’ã mba’e’okápe g̃uarã
-appmenuitem-vpn-description = Emo’ã ne rekoñemi ñandutípe
 appmenu-services-header = Mba’epytyvõrã
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -402,7 +387,6 @@ appmenu-other-protection-header3 = Tembiporu ñemiguáva
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Eiporu ambue tembiporu ñemo’ãha Mozilla mba’éva:
-appmenu-other-protection-header = Eiporu ambue tembiporu ñemo’ãrã { -vendor-short-name } rehegua:
 
 ## Profiles panel
 

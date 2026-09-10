@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = ఒక పేజీ వెనుకకు వెళ్ళండి ({ $shortcut })
     .aria-label = వెనుకకు
+    .tooltiptext = ఒక పేజీ వెనుకకు వెళ్ళండి ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = ఒక పేజీ ముందుకు వెళ్ళండి ({ $shortcut })
     .aria-label = ముందుకు
+    .tooltiptext = ఒక పేజీ ముందుకు వెళ్ళండి ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -110,9 +104,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = లింకుని ఇలా భద్రపరచు…
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = లంకెను { -pocket-brand-name }కు భద్రపరుచు
-    .accesskey = o
 
 ##
 
@@ -230,37 +221,19 @@ main-context-menu-audio-email =
 main-context-menu-send-to-device-2 =
     .label = పరికరానికి పంపించు
     .accesskey = n
-main-context-menu-save-to-pocket =
-    .label = { -pocket-brand-name }‌లో భద్రపరుచు
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = పేజీని పరికరానికి పంపు
-    .accesskey = D
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = భద్రపరచిన ప్రవేశాన్ని వాడు
-    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = భద్రపరచిన సంకేతపదాన్ని వాడు
     .accesskey = o
-
-##
-
 main-context-menu-suggest-strong-password =
     .label = బలమైన సంకేతపదాన్ని  సూచించు…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = ప్రవేశాల నిర్వహణ
-    .accesskey = M
 main-context-menu-manage-passwords =
     .label = సంకేతపదాల నిర్వహణ
     .accesskey = M
-main-context-menu-keyword =
-    .label = ఈ శోధనకు కీలక పదాన్ని చేర్చండి…
-    .accesskey = K
 main-context-menu-link-send-to-device =
     .label = లంకెను పరికరానికి పంపు
     .accesskey = D
@@ -300,9 +273,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = తెరపట్టు తీయి
     .accesskey = T
-main-context-menu-take-frame-screenshot =
-    .label = తెరపట్టు తీయి
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = పేజీ మూలాన్ని చూడండి
     .accesskey = V

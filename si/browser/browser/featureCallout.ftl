@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = පටිති ඇහිඳීම ස�
 callout-firefox-view-tab-pickup-subtitle = ඔබගේ දුරකථනයෙන් විවෘත පටිති ඉක්මනින් ලබාගෙන රිසි පරිදි ඒවා මෙහි විවෘත කරන්න.
 callout-firefox-view-recently-closed-title = ඔබ වසා දැමූ පටිති වෙත සැණකින් ආපසු යන්න
 callout-firefox-view-recently-closed-subtitle = ඔබ වසා දැමූ පටිති සියල්ල මායාවක් මෙන් මෙහි දිස්වනු ඇත. අහම්බයෙන් අඩවි වැසී යාම පිළිබඳව තවදුරටත් කරදර නොවන්න.
-callout-firefox-view-colorways-title = වර්ණ කැලතීමක් යොදන්න
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = වර්ණ පරාස සමඟ ඔබට කතා කරන ඡායාව තෝරන්න. { -brand-product-name } හි පමණි.
-callout-firefox-view-colorways-reminder-title = නවතම වර්ණ පරාස බලන්න
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = ස්වාධීන හඬ වර්ණ තේමාවෙන් ආභාසය ලද මෙම පැහැයන් මගින් අතිරික්සුව වර්ණවත් කරන්න. { -brand-product-name } හි පමණි.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

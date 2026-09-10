@@ -15,12 +15,3 @@ autofill-manage-edit-button = B'an tuche'…
 
 autofill-cancel-button = Ya'sakan
 autofill-save-button = Kola
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

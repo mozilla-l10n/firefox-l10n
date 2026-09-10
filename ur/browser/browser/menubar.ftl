@@ -236,9 +236,6 @@ menu-tools =
 menu-tools-downloads =
     .label = ڈاؤن لوڈ
     .accesskey = D
-menu-tools-addons-and-themes =
-    .label = ایڈ آنز اور تھیمز
-    .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = سائن ان کریں
     .accesskey = g
@@ -289,8 +286,6 @@ menu-help =
 menu-get-help =
     .label = مدد حاصل کریں
     .accesskey = H
-menu-help-report-site-issue =
-    .label = سائٹ مسلہ… رپورٹ کریں
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

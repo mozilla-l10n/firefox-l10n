@@ -24,30 +24,8 @@
         [loc] Facebook Container-у
        *[nom] Facebook Container
     }
-    .gender = masculine
     .declinable = true
--lockwise-brand-name =
-    { $case ->
-        [gen] Firefox Lockwise-а
-        [dat] Firefox Lockwise-у
-        [acc] Firefox Lockwise
-        [ins] Firefox Lockwise-ом
-        [loc] Firefox Lockwise-у
-       *[nom] Firefox Lockwise
-    }
     .gender = masculine
-    .declinable = true
--lockwise-brand-short-name =
-    { $case ->
-        [gen] Lockwise-а
-        [dat] Lockwise-у
-        [acc] Lockwise
-        [ins] Lockwise-ом
-        [loc] Lockwise-у
-       *[nom] Lockwise
-    }
-    .gender = masculine
-    .declinable = true
 -monitor-brand-name =
     { $case ->
         [gen] Firefox Monitor-а
@@ -57,8 +35,8 @@
         [loc] Firefox Monitor-у
        *[nom] Firefox Monitor
     }
-    .gender = masculine
     .declinable = true
+    .gender = masculine
 -monitor-brand-short-name =
     { $case ->
         [gen] Monitor-а
@@ -68,8 +46,8 @@
         [loc] Monitor-у
        *[nom] Monitor
     }
-    .gender = masculine
     .declinable = true
+    .gender = masculine
 -mozmonitor-brand-name =
     { $case ->
         [gen] Mozilla Monitor-а
@@ -79,8 +57,8 @@
         [loc] Mozilla Monitor-у
        *[nom] Mozilla Monitor
     }
-    .gender = masculine
     .declinable = true
+    .gender = masculine
 -pocket-brand-name =
     { $case ->
         [gen] Pocket-а
@@ -90,8 +68,8 @@
         [loc] Pocket-у
        *[nom] Pocket
     }
-    .gender = masculine
     .declinable = true
+    .gender = masculine
 -send-brand-name =
     { $case ->
         [gen] Firefox Send-а
@@ -101,8 +79,8 @@
         [loc] Firefox Send-у
        *[nom] Firefox Send
     }
-    .gender = masculine
     .declinable = true
+    .gender = masculine
 -screenshots-brand-name =
     { $case ->
         [gen] Mozilla Screenshots-а
@@ -112,8 +90,8 @@
         [loc] Mozilla Screenshots-у
        *[nom] Mozilla Screenshots
     }
-    .gender = masculine
     .declinable = true
+    .gender = masculine
 -mozilla-vpn-brand-name =
     { $case ->
         [gen] Mozilla VPN-а
@@ -123,8 +101,8 @@
         [loc] Mozilla VPN-у
        *[nom] Mozilla VPN
     }
-    .gender = masculine
     .declinable = true
+    .gender = masculine
 -profiler-brand-name =
     { $case ->
         [gen] Firefox Profiler-а
@@ -134,8 +112,8 @@
         [loc] Firefox Profiler-у
        *[nom] Firefox Profiler
     }
-    .gender = masculine
     .declinable = true
+    .gender = masculine
 -translations-brand-name =
     { $case ->
         [gen] Firefox Translations-а
@@ -145,8 +123,8 @@
         [loc] Firefox Translations-у
        *[nom] Firefox Translations
     }
-    .gender = masculine
     .declinable = true
+    .gender = masculine
 -focus-brand-name =
     { $case ->
         [gen] Firefox Focus-а
@@ -156,8 +134,8 @@
         [loc] Firefox Focus-у
        *[nom] Firefox Focus
     }
-    .gender = masculine
     .declinable = true
+    .gender = masculine
 -relay-brand-name =
     { $case ->
         [gen] Firefox Relay-а
@@ -167,8 +145,8 @@
         [loc] Firefox Relay-у
        *[nom] Firefox Relay
     }
-    .gender = masculine
     .declinable = true
+    .gender = masculine
 -relay-brand-short-name =
     { $case ->
         [gen] Relay-а
@@ -178,8 +156,8 @@
         [loc] Relay-у
        *[nom] Relay
     }
-    .gender = masculine
     .declinable = true
+    .gender = masculine
 -fakespot-brand-name =
     { $case ->
         [gen] Fakespot-а
@@ -189,8 +167,8 @@
         [loc] Fakespot-у
        *[nom] Fakespot
     }
-    .gender = masculine
     .declinable = true
+    .gender = masculine
 -solo-ai-brand-name =
     { $case ->
         [gen] Solo-а
@@ -200,8 +178,8 @@
         [loc] Solo-у
        *[nom] Solo
     }
-    .gender = masculine
     .declinable = true
+    .gender = masculine
 -thunderbird-brand-name = Mozilla Thunderbird
 -thunderbird-brand-short-name = Thunderbird
 -mdn-brand-name = MDN Web Docs
@@ -224,8 +202,8 @@
         [loc] Firefox предлозима
        *[nom] Firefox предлози
     }
-    .gender = masculine
     .declinable = true
+    .gender = masculine
 # ”Home" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-home-brand-name =
@@ -261,8 +239,8 @@
                *[upper] Почетна страница Firefox-а
             }
     }
-    .gender = feminine
     .declinable = true
+    .gender = feminine
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxview-brand-name =
@@ -274,8 +252,8 @@
         [loc] Firefox прегледу
        *[nom] Firefox преглед
     }
-    .gender = masculine
     .declinable = true
+    .gender = masculine
 # Firefox Labs is the name for a page in Settings to allow users to learn about
 # experimental and in-development features, and turn those features on and off.
 # The "Labs" portion can be localized, “Firefox” must be treated as a brand
@@ -289,8 +267,8 @@
         [loc] Firefox Labs-у
        *[nom] Firefox Labs
     }
-    .gender = masculine
     .declinable = true
+    .gender = masculine
 -smart-window-brand-name =
     { $plural-form ->
         [true] Паметни прозори

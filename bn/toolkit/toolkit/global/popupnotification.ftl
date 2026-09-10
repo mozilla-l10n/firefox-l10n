@@ -5,6 +5,3 @@
 popup-notification-learn-more = আরও জানুন
 popup-notification-more-actions-button =
     .aria-label = আরও অপশন
-popup-notification-default-button =
-    .label = ঠিক আছে!
-    .accesskey = O

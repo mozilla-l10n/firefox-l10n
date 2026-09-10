@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = 발급자 인증서를 신뢰할 수 없기 
 cert-error-trust-signature-algorithm-disabled = 비활성화된 안전하지 않은 알고리즘을 사용하여 서명되었기 때문에 인증서를 신뢰할 수 없습니다.
 cert-error-trust-expired-issuer = 발급자 인증서가 만료되었기 때문에 인증서를 신뢰할 수 없습니다.
 cert-error-trust-self-signed = 이 인증서는 자체 서명된 인증서이므로 신뢰할 수 없습니다.
-cert-error-trust-symantec = GeoTrust나 RapidSSL, Symantec, Thawte, VeriSign이 발급한 인증서는 이전에 보안 관행을 따르지 않았기 때문에 더 이상 안전한 것으로 간주되지 않습니다.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name }는 { $hostname } 사이트가 공공 인증서 투명성 요구사항을 충족한다는 것을 증명할 수 없기 때문에 신뢰하지 않습니다.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = 오류 코드: <a data-l10n-name="error-code-link"
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = { $hostname }에 연결하는 동안 오류가 발생했습니다. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = 웹 사이트는 인증 기관에서 발급한 인증서를 통해 신원을 증명합니다. 대부분의 브라우저는 더 이상 GeoTrust나 RapidSSL, Symantec, Thawte, VeriSign에서 발급 한 인증서를 신뢰하지 않습니다. { $hostname }은 이러한 인증 중 하나를 사용하므로 웹 사이트 자신을 증명할 수 없습니다.
-cert-error-symantec-distrust-admin = 웹 사이트의 관리자에게 이 문제에 대해 알려주실 수 있습니다.
 cert-error-old-tls-version = 이 웹 사이트는 { -brand-short-name }에서 지원하는 최소 버전인 TLS 1.2 프로토콜을 지원하지 않을 수 있습니다.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = HTTP 보안 강화 프로토콜: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP 공개 키 고정: { $hasHPKP }
 cert-error-details-cert-chain-label = 인증 체인:
-open-in-new-window-for-csp-or-xfo-error = 사이트를 새 창에서 열기
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = 보안을 위해 { $hostname } 사이트는 다른 사이트에서 해당 페이지를 포함하면 { -brand-short-name }가 페이지를 표시하지 못하게 합니다. 이 페이지를 보려면 새 창에서 열어야 합니다.
 fp-certerror-view-certificate-link = 사이트의 인증서 보기
 fp-certerror-return-to-previous-page-recommended-button-2 = 뒤로 가기 (권장)
     .accesskey = G
-fp-certerror-return-to-previous-page-recommended-button = 뒤로 가기 (권장)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -106,21 +99,21 @@ fp-certerror-self-signed-important-note = 중요 사항: 만약 여러분이 회
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = 사이트는 인증 기관에서 발급한 인증서를 사용하여 신원을 증명합니다. { -brand-short-name }는 이 사이트를 신뢰하지 않습니다. 인증서가 { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }에 만료되었기 때문입니다.
+fp-certerror-expired-why-dangerous-body = 사이트는 인증 기관에서 발급한 인증서를 사용하여 신원을 증명합니다. { -brand-short-name }는 이 사이트를 신뢰하지 않습니다. 인증서가 { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }에 만료되었기 때문입니다.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = 사이트는 인증 기관에서 발급한 인증서를 사용하여 신원을 증명합니다. { -brand-short-name }는 인증서가 { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }까지 유효하지 않을 것으로 보이므로 이 사이트를 신뢰하지 않습니다.
+fp-certerror-not-yet-valid-why-dangerous-body = 사이트는 인증 기관에서 발급한 인증서를 사용하여 신원을 증명합니다. { -brand-short-name }는 인증서가 { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }까지 유효하지 않을 것으로 보이므로 이 사이트를 신뢰하지 않습니다.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = 기기의 시계가 { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }에 맞춰져 있습니다. 이것이 맞다면 보안 문제는 사이트 자체에 있을 수 있습니다. 맞지 않다면, 기기의 시스템 설정에서 변경할 수 있습니다.
+fp-certerror-expired-what-can-you-do-body = 기기의 시계가 { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }에 맞춰져 있습니다. 이것이 맞다면 보안 문제는 사이트 자체에 있을 수 있습니다. 맞지 않다면, 기기의 시스템 설정에서 변경할 수 있습니다.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = 오류 코드: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -133,11 +126,11 @@ fp-learn-more-about-time-related-errors = 시간 관련 오류 해결에 대해 
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name }는 제공된 인증서가 { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } { DATETIME($date, timeStyle: "short") }까지 유효하지 않은 것으로 보이므로 이 사이트를 신뢰하지 않습니다.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name }는 제공된 인증서가 { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } { DATETIME($date, timeStyle: "short") }까지 유효하지 않은 것으로 보이므로 이 사이트를 신뢰하지 않습니다.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = 기기의 시계가 { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } { DATETIME($date, timeStyle: "short") }에 맞춰져 있습니다. 이것이 맞다면 보안 문제는 사이트 자체에 있을 수 있습니다. 맞지 않다면, 기기의 시스템 설정에서 변경할 수 있습니다.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = 기기의 시계가 { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } { DATETIME($date, timeStyle: "short") }에 맞춰져 있습니다. 이것이 맞다면 보안 문제는 사이트 자체에 있을 수 있습니다. 맞지 않다면, 기기의 시스템 설정에서 변경할 수 있습니다.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -179,8 +172,6 @@ deniedPortAccess-title = 이 주소는 제한되어 있음
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = 해당 사이트를 찾는 데 문제가 발생했습니다.
 internet-connection-offline-title = 인터넷 연결에 문제가 있는 것 같습니다.
-dns-not-found-trr-only-title2 = 이 도메인을 찾는 가능한 보안 위험
-dns-not-found-native-fallback-title2 = 이 도메인을 찾는 가능한 보안 위험
 fileNotFound-title = 파일을 찾을 수 없음
 fileAccessDenied-title = 파일 접근이 거부됨
 generic-title = 이런.
@@ -205,7 +196,6 @@ unknownSocketType-title = 서버에서 예기치 않은 응답
 nssFailure2-title = 보안 연결 실패
 csp-xfo-error-title = { -brand-short-name }가 이 페이지를 열 수 없음
 corruptedContentErrorv2-title = 손상된 콘텐츠 오류
-corruptedContentError-title = 손상된 콘텐츠 오류
 sslv3Used-title = 보안 연결을 할 수 없음
 inadequateSecurityError-title = 연결이 안전하지 않음
 blockedByPolicy-title = 차단된 페이지
@@ -228,7 +218,6 @@ fp-certerror-hide-advanced-button = 고급 숨기기
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = { $hostname } 사이트로 진행 (위험)
 fp-certerror-intro = { -brand-short-name }가 <strong>{ $hostname }</strong>에서 심각한 보안 문제를 발견했습니다. 사이트를 사칭하는 누군가가 신용 카드 정보, 비밀번호, 이메일 등을 탈취할 수 있습니다.
 fp-certerror-expired-into = { -brand-short-name }가 <strong>{ $hostname }</strong>에서 보안 문제를 발견했습니다. 사이트 설정이 올바르지 않거나 기기의 시계가 잘못된 날짜/시간으로 설정되어 있습니다.
 fp-certerror-transparency-intro = 누군가 <strong>{ $hostname }</strong> 사칭을 하여 신용 카드 정보나 비밀번호, 이메일 등을 탈취할 수 있습니다.

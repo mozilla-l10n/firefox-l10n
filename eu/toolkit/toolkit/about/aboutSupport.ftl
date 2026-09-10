@@ -29,10 +29,6 @@ security-software-name = Izena
 security-software-antivirus = Antibirusa
 security-software-antispyware = Spywarearen aurkakoa
 security-software-firewall = Suebakia
-features-title = { -brand-short-name }(r)en eginbideak
-features-name = Izena
-features-version = Bertsioa
-features-id = ID
 processes-title = Urruneko prozesuak
 processes-type = Mota
 processes-count = Kopurua
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] Profilaren direktorioa
        *[other] Profilaren karpeta
     }
-app-basics-enabled-plugins = Gaitutako pluginak
 app-basics-build-config = Eraikitze-konfigurazioa
 app-basics-user-agent = Erabiltzaile-agentea
 app-basics-os = SEa
@@ -96,9 +91,6 @@ show-dir-label =
 environment-variables-title = Ingurune-aldagaiak
 environment-variables-name = Izena
 environment-variables-value = Balioa
-experimental-features-title = Eginbide esperimentalak
-experimental-features-name = Izena
-experimental-features-value = Balioa
 modified-key-prefs-title = Aldatutako hobespen garrantzitsuak
 modified-prefs-name = Izena
 modified-prefs-value = Balioa
@@ -220,9 +212,6 @@ media-cdm-capabilities = Gaitasunak
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Hasiera garbia
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = HDCP 2.2rekin bateragarria
 
 ##
 
@@ -394,8 +383,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Esperimentuak desgaituta
-fission-status-experiment-treatment = Esperimentuak gaituta
 fission-status-disabled-by-e10s-env = Inguruneak desgaituta
 fission-status-enabled-by-env = Inguruneak gaituta
 fission-status-disabled-by-env = Inguruneak desgaituta
@@ -404,7 +391,6 @@ fission-status-disabled-by-default = Lehenespenez desgaituta
 fission-status-enabled-by-user-pref = Erabiltzaileak gaituta
 fission-status-disabled-by-user-pref = Erabiltzaileak desgaituta
 fission-status-disabled-by-e10s-other = E10s desgaituta
-fission-status-enabled-by-rollout = Urratseko ezagutzera ematearen bidez gaituta
 async-pan-zoom = Mugimendu panoramiko/zoom asinkronoak
 apz-none = bat ere ez
 wheel-enabled = gurpil bidezko sarrera gaituta

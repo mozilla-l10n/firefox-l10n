@@ -19,8 +19,6 @@ styleeditor-save-button = Tiyak
 styleeditor-options-button =
     .tooltiptext = Taq rucha'oj ri kinuk'unel b'anikil
 styleeditor-at-rules = At-rules
-styleeditor-editor-textbox =
-    .data-placeholder = Tatz'ib'aj CSS wawe'.
 styleeditor-no-stylesheet = Re ruxaq re' man k'o ta rub'anikil ruxaq.
 styleeditor-no-stylesheet-tip = ¿Rik'in jub'a' narayib'ej<a data-l10n-name="append-new-stylesheet">titz'aqatisäx jun k'ak'a' taq rub'anikil ruxaq</a>?
 styleeditor-open-link-new-tab =

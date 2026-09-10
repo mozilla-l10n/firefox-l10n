@@ -30,48 +30,25 @@ extension-default-theme-description2 = A balanced, familiar grey-purple for a cl
 # Name for a neutral gray-purple theme. Conveys a standard, default look. Not a
 # color word; translate the sense of "standard."
 extension-default-theme-name2 = Default
-
 # Name for a warm yellow-gold theme. Refers to the color of sunlight.
 extension-nova-sun-name = Sun
-
 # Name for a warm orange theme. Refers to a small burst of fire.
 extension-nova-spark-name = Spark
-
 # Name for a red-orange theme. Refers to the color of fire.
 extension-nova-flame-name = Flame
-
 # Name for a bright pink theme. Refers to a burst of light or fire.
 extension-nova-flare-name = Flare
-
 # Name for a soft purple theme. Refers to the lavender flower.
 extension-nova-lavender-name = Lavender
-
 # Name for a medium purple theme. Refers to the sky just after sunset.
 extension-nova-dusk-name = Dusk
-
 # Name for a medium blue theme. Refers to a sheltered body of water.
 extension-nova-lagoon-name = Lagoon
-
 # Name for a green theme. Refers to pine trees.
 extension-nova-pine-name = Pine
-
 # Name for a soft teal theme. Refers to ocean tides.
 extension-nova-tide-name = Tide
-
 # Name for a medium-dark gray theme. Refers to the gray residue left by fire.
 extension-nova-ash-name = Ash
-
 # Name for a warm gray-beige theme. Refers to the hazy color of smoke.
 extension-nova-smoke-name = Smoke
-
-## Colorway Themes
-## These themes are variants of a colorway. The colorway is specified in the
-## $colorway-name variable.
-## Variables
-##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
-
-extension-colorways-soft-name = { $colorway-name } — Soft
-extension-colorways-balanced-name = { $colorway-name } — Balanced
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-extension-colorways-bold-name = { $colorway-name } — Bold

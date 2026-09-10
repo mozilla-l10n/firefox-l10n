@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Գնալ Նախորդ Էջ ({ $shortcut })
     .aria-label = Նախորդը
+    .tooltiptext = Գնալ Նախորդ Էջ ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Գնալ մեկ Էջ առաջ ({ $shortcut })
     .aria-label = Հաջորդը
+    .tooltiptext = Գնալ մեկ Էջ առաջ ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Էջանշել...
-    .accesskey = m
     .tooltiptext = Էջանշել
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Էջանշել էջը…
-    .accesskey = m
     .tooltiptext = Էջանշել { $shortcut } էջը
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = Խմբագրել Էջանիշը…
-    .accesskey = m
     .tooltiptext = Խմբագրել Էջանիշը
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Խմբագրել Էջանիշը…
-    .accesskey = m
     .tooltiptext = Խմբագրել { $shortcut } Էջանիշը
+    .accesskey = m
 main-context-menu-open-link =
     .label = Բացել հղումը
     .accesskey = Բ
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Պահել հղումը որպես…
     .accesskey = մ
-main-context-menu-save-link-to-pocket =
-    .label = Պահել հղումը { -pocket-brand-name }-ում
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Միացրեք համա
 main-context-menu-send-to-mobile-connect-phone3 = Միացրեք սարքը՝ ներդիրներ ուղարկելու համար
 main-context-menu-send-to-mobile-connect-phone-from-link = Միացրեք սարքը՝ հղում ուղարկելու համար
 main-context-menu-send-to-mobile-connect-phone-from-page = Միացրեք սարքը՝ էջ ուղարկելու համար
-main-context-menu-save-to-pocket =
-    .label = Պահել էջը { -pocket-brand-name }-ում
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Ուղարկել էջը սարքին
-    .accesskey = ս
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Օգտվել պահված մուտքանունից
-    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Օգտվել պահված գաղտնաբառից
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Օգտագործել { -relay-brand-short-name } Էլ․ փոստի դիմակը
     .accesskey = Է
 main-context-menu-suggest-strong-password =
     .label = Առաջարկել ուժեղ գաղտնաբառ…
     .accesskey = Ա
-main-context-menu-manage-logins2 =
-    .label = Կառավարել մուտքագրումները
-    .accesskey = M
 main-context-menu-manage-passwords =
     .label = Կառավարել գաղտնաբառերը
     .accesskey = M
-main-context-menu-keyword =
-    .label = Ավելացնել հիմնաբառ այս որոնման համար…
-    .accesskey = Բ
 main-context-menu-add-engine =
     .label = Ավելացնել որոնիչ
     .accesskey = ո
@@ -393,9 +366,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Ստանալ էկրանի հանույթը
     .accesskey = T
-main-context-menu-take-frame-screenshot =
-    .label = Ստանալ էկրանի հանույթը
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = Դիտել էջի աղբյուրը
     .accesskey = Դ

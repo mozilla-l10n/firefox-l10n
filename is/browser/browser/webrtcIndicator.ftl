@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } — Deilingarvísir
-webrtc-indicator-window =
-    .title = { -brand-short-name } — Deilingarvísir
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Þú ert að deila hljóðnemanum þínum. Smelltu til að stýra deilingu.
 webrtc-screen-system-menu =
     .label = Þú ert að deila glugga eða skjá. Smelltu til að stýra deilingu.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Þú ert að deila myndavél og hljóðnema. Smelltu til að stjórna deilingu.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Þú ert að deila myndavél. Smelltu til að stjórna deilingu.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Þú ert að hljóðnema. Smelltu til að stjórna deilingu.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Þú ert að deila forriti. Smelltu til að stjórna deilingu.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Þú ert að deila skjá. Smelltu til að stjórna deilingu.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Þú ert að deila glugga. Smelltu til að stjórna deilingu.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Þú ert að deila flipa. Smelltu til að stjórna deilingu.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Leyfa { $origin 
 
 webrtc-share-screen-warning = Passaðu að deila aðeins skjá með vefsvæðum sem þú treystir. Deiling á skjá getur gert svindl-vefsvæðum kleift að þykjast vera þú og stela einkagögnum.
 webrtc-share-browser-warning = Deildu { -brand-short-name } aðeins með vefsvæðum sem þú treystir. Samnýting getur gert svildlsvæðum kleift að vafra sem þú og stela einkagögnum þínum.
-webrtc-share-screen-learn-more = Lesa meira
 webrtc-pick-window-or-screen = Velja glugga eða skjá
 webrtc-share-entire-screen = Allur skjárinn
 webrtc-share-pipe-wire-portal = Nota stillingar stýrikerfis

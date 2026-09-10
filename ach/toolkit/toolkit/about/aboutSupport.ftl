@@ -13,9 +13,6 @@ support-addons-name = Nying
 support-addons-version = Cik
 support-addons-id = ID
 security-software-name = Nying
-features-title = Jami me { -brand-short-name }
-features-name = Nying
-features-id = ID
 app-basics-title = Tic mapire tego
 app-basics-name = Nying
 app-basics-version = Cik
@@ -28,7 +25,6 @@ app-basics-profile-dir =
         [linux] Lacim me Ngec ikome
        *[other] Boc me lok ikome
     }
-app-basics-enabled-plugins = Keto ite ma kimino
 app-basics-build-config = Yub Cano
 app-basics-user-agent = Lukony Lutic kwede
 app-basics-os = OS

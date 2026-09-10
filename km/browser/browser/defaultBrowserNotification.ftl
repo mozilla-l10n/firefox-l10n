@@ -13,7 +13,6 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = ធ្វើឱ្យ { -brand-short-name } ក្លាយជាកម្មវិធីរុករកចម្បងរបស់អ្នក?
-default-browser-prompt-button-primary-pin = ធ្វើឱ្យក្លាយជាកម្មវិធីរុករកចម្បង
 default-browser-prompt-title-alt = ធ្វើឱ្យ { -brand-short-name } ជាកម្មវិធីរុករកលំនាំដើមរបស់អ្នក?
 default-browser-prompt-message-alt = ទទួលបានល្បឿន សុវត្ថិភាព និងឯកជនភាពរាល់ពេលដែលអ្នករុករកលើអ៊ីនធឺណិត។
 default-browser-prompt-button-primary-alt = កំណត់ជាកម្មវិធីរុករកលំនាំដើម

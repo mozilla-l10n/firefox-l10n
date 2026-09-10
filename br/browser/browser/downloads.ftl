@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Diskouez e Finder
            *[other] Diskouez en teuliad
         }
-downloads-cmd-show-downloads =
-    .label = Diskouez teuliad ar pellgargadurioù
 downloads-cmd-retry =
     .tooltiptext = Klask en-dro
 downloads-cmd-retry-panel =

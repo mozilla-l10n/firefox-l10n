@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Sem contêiner
-    .accesskey = N
 user-context-manage-containers =
     .label = Gerenciar contêineres
     .accesskey = O

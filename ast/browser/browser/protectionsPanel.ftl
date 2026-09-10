@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-protections-panel-sendreportview-error = Hebo un fallu al unviar l'informe. Volvi tentalo dempués, por favor.
-# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
-protections-panel-sitefixedsendreport-label = ¿Iguóse'l sitiu? Unvia un informe
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -23,18 +20,11 @@ protections-panel-etp-more-info =
     .aria-label = Más información tocante a la proteición antirrastrexu ameyorada
 protections-panel-etp-on-header = La proteición antirrastrexu ta ACTIVADA pa esti sitiu
 protections-panel-etp-off-header = La proteición antirrastrexu ta DESACTIVADA pa esti sitiu
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = ¿Nun funciona'l sitiu?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = ¿Nun funciona'l sitiu?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = ¿Por qué?
-protections-panel-not-blocking-why-etp-on-tooltip = Bloquiar esto podría estropiar los elementos de dalgunos sitios web. Ensin los rastrexadores, dalgunos botones, formularios y anicios de sesión quiciabes dexen de funcionar.
-protections-panel-not-blocking-why-etp-off-tooltip = Cargáronse tolos rastrexadores d'esti sitiu porque les proteiciones tán desactivaes.
 protections-panel-not-blocking-why-etp-on-tooltip-label =
     .label = Bloquiar esto podría estropiar los elementos de dalgunos sitios web. Ensin los rastrexadores, dalgunos botones, formularios y anicios de sesión quiciabes dexen de funcionar.
 protections-panel-not-blocking-why-etp-off-tooltip-label =
@@ -62,22 +52,6 @@ protections-panel-not-found-label = Nun se detectó
 
 protections-panel-settings-label = Axustes de la proteición
 protections-panel-protectionsdashboard-label = Panel de proteiciones
-
-## In the Site Not Working? view, we suggest turning off protections if
-## the user is experiencing issues with any of a variety of functionality.
-
-# The header of the list
-protections-panel-site-not-working-view-header = Desactiva les proteiciones si tienes problemes con:
-# The list items, shown in a <ul>
-protections-panel-site-not-working-view-issue-list-login-fields = Campos d'aniciu de sesión
-protections-panel-site-not-working-view-issue-list-forms = Formularios
-protections-panel-site-not-working-view-issue-list-payments = Pagos
-protections-panel-site-not-working-view-issue-list-comments = Comentarios
-protections-panel-site-not-working-view-issue-list-videos = Vídeos
-protections-panel-site-not-working-view-send-report = Unviar un informe
-
-##
-
 protections-panel-cross-site-tracking-cookies = Estes cookies síguente de sitiu en sitiu p'atropar datos tocante a lo que faes en llinia. Tán instalaes por terceres partes, como anunciantes y compañes d'análisis.
 protections-panel-cryptominers = Los criptomineros usen la potencia de cálculu del sistema pa minar moneda dixital. Los scripts de criptominería escosen aína la batería del preséu, vuelven lentu al ordenador y puen aumentar el preciu de la factura de la lluz.
 protections-panel-fingerprinters = Los xeneradores de buelgues recueyen los axustes del restolador y l'ordenador pa crear un perfil de ti. Col usu d'esta buelga dixital puen rastrexate pente sitios web estremaos.
@@ -86,22 +60,6 @@ protections-panel-social-media-trackers = Les redes sociales ponen rastrexadores
 protections-panel-content-blocking-manage-settings =
     .label = Xestionar los axustes de la proteición
     .accesskey = X
-protections-panel-content-blocking-breakage-report-view =
-    .title = Informe d'un sitiu estropiáu
-protections-panel-content-blocking-breakage-report-view-description = El bloquéu de ciertos rastrexadores pue causar problemes con dalgunos sitios web. Informar d'estos problemes ayuda a ameyorar { -brand-short-name } pa tol mundu. Poro, mandar esti informe va unviar a Mozilla la URL ya información tocante a los axustes del restolador. <label data-l10n-name="learn-more">Lleer más</label>
-protections-panel-content-blocking-breakage-report-view-collection-url = URL
-protections-panel-content-blocking-breakage-report-view-collection-url-label =
-    .aria-label = URL
-protections-panel-content-blocking-breakage-report-view-collection-comments = Opcional: Describi'l problema
-protections-panel-content-blocking-breakage-report-view-collection-comments-label =
-    .aria-label = Opcional: Describi'l problema
-protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = Encaboxar
-protections-panel-content-blocking-breakage-report-view-send-report =
-    .label = Unviar l'informe
-
-# Cookie Banner Handling
-
 
 ## Protections panel info message
 

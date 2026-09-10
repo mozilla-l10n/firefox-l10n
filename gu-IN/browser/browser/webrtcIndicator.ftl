@@ -26,23 +26,6 @@ webrtc-sharing-menu =
     .label = ટૅબ્સ શેરિંગ ઉપકરણો
     .accesskey = d
 
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = તમારો કૅમેરા અને માઇક્રોફોનને વહેંચવામાં આવ્યો છે. વહેંચણીને નિયંત્રણ કરવા ક્લિક કરો.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = તમારાં કૅમેરાને વહેંચવામાં આવ્યો છે. વહેંચણીને નિયંત્રણ કરવા ક્લિક કરો.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = તમારાં માઇક્રોફોનને વહેંચવામાં આવ્યો છે. વહેંચણીને નિયંત્રણ કરવા ક્લિક કરો.
-webrtc-indicator-sharing-application =
-    .tooltiptext = એક એપ્લિકેશન શેર કરવામાં આવી રહી છે. શેરિંગને નિયંત્રિત કરવા માટે ક્લિક કરો.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = તમારી સ્ક્રીનને વહેંચવામાં આવી છે. વહેંચણીને નિયંત્રણ કરવા ક્લિક કરો.
-webrtc-indicator-sharing-window =
-    .tooltiptext = વિન્ડોને વહેંચવામાં આવી હતી. વહેંચણીને નિયંત્રણ કરવા ક્લિક કરો.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = ટૅબ શેર કરવામાં આવી રહ્યો છે. શેરિંગને નિયંત્રિત કરવા માટે ક્લિક કરો.
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
@@ -106,7 +89,6 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
-webrtc-share-screen-learn-more = વધુ શીખો
 webrtc-pick-window-or-screen = વિન્ડો અથવા સ્ક્રીન પસંદ કરો
 webrtc-share-entire-screen = આખી સ્ક્રીન
 # Variables:

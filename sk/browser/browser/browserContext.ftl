@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Späť o jednu stránku ({ $shortcut })
     .aria-label = Naspäť
+    .tooltiptext = Späť o jednu stránku ({ $shortcut })
     .accesskey = N
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Dopredu o jednu stránku ({ $shortcut })
     .aria-label = Dopredu
+    .tooltiptext = Dopredu o jednu stránku ({ $shortcut })
     .accesskey = D
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Pridať stránku medzi záložky…
-    .accesskey = m
     .tooltiptext = Pridať stránku medzi záložky
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Pridať stránku medzi záložky…
-    .accesskey = r
     .tooltiptext = Pridať stránku medzi záložky ({ $shortcut })
+    .accesskey = r
 main-context-menu-edit-bookmark =
     .aria-label = Upraviť záložku…
-    .accesskey = U
     .tooltiptext = Upraviť záložku
+    .accesskey = U
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Upraviť záložku…
-    .accesskey = U
     .tooltiptext = Upraviť záložku ({ $shortcut })
+    .accesskey = U
 main-context-menu-open-link =
     .label = Otvoriť odkaz
     .accesskey = d
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Uložiť cieľ odkazu ako…
     .accesskey = d
-main-context-menu-save-link-to-pocket =
-    .label = Uložiť odkaz do { -pocket-brand-name(case: "gen") }
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Zapnúť synchronizáci
 main-context-menu-send-to-mobile-connect-phone3 = Pripojiť zariadenie a odoslať karty
 main-context-menu-send-to-mobile-connect-phone-from-link = Pripojiť zariadenie a odoslať odkaz
 main-context-menu-send-to-mobile-connect-phone-from-page = Pripojiť zariadenie a odoslať stránku
-main-context-menu-save-to-pocket =
-    .label = Uložiť stránku do { -pocket-brand-name(case: "gen") }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Odoslať stránku do zariadenia
-    .accesskey = a
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Použiť uložené prihlásenie
-    .accesskey = u
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Použiť uložené heslo
     .accesskey = h
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Použiť e‑mailovú masku služby { -relay-brand-short-name }
     .accesskey = R
 main-context-menu-suggest-strong-password =
     .label = Navrhnúť silné heslo…
     .accesskey = h
-main-context-menu-manage-logins2 =
-    .label = Spravovať prihlasovacie údaje…
-    .accesskey = h
 main-context-menu-manage-passwords =
     .label = Spravovať heslá
     .accesskey = S
-main-context-menu-keyword =
-    .label = Pridať kľúčové slovo pre toto vyhľadávanie…
-    .accesskey = d
 main-context-menu-add-engine =
     .label = Pridať vyhľadávač
     .accesskey = h
@@ -391,9 +364,6 @@ main-context-menu-view-selection-source =
     .label = Zobraziť zdrojový kód výberu
     .accesskey = r
 main-context-menu-take-screenshot =
-    .label = Urobiť snímku obrazovky
-    .accesskey = r
-main-context-menu-take-frame-screenshot =
     .label = Urobiť snímku obrazovky
     .accesskey = r
 main-context-menu-view-page-source =

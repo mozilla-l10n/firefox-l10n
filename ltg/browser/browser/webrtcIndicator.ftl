@@ -26,23 +26,6 @@ webrtc-sharing-menu =
     .label = Tabs sharing devices
     .accesskey = d
 
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Tova kamera un mikrofons ir kūplītōšonā. Klikšinoj, kab kontrolietu kūplītōšonu.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Tova kamera ir kūplītōšonā. Klikšinoj, kab kontrolietu kūplītōšonu.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Tova mikrofons ir kūplītōšonā. Klikšinoj, kab kontrolietu kūplītōšonu.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Tova aplikāceja ir kūplītōšonā. Klikšinoj, kab kontrolietu kūplītōšonu.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Tovs ekrans ir kūplītōšonā. Klikšinoj, kab kontrolietu kūplītōšonu.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Tovs lūgs ir kūplītōšonā. Klikšinoj, kab kontrolietu kūplītōšonu.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Tova cilne ir kūplītōšonā. Klikšinoj, kab kontrolietu kūplītōšonu.
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
@@ -112,7 +95,6 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
-webrtc-share-screen-learn-more = Learn More
 webrtc-share-entire-screen = Entire screen
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).

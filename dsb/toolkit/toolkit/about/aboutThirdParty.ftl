@@ -30,11 +30,11 @@ third-party-tag-background = Slězyna
         Toś ten modul njejo blokěrował nałoženje, dokulaž jo se zacytał
         w slězynje.
 third-party-icon-unsigned =
-    .title = Toś ten modul njejo signěrowany
     .alt = Toś ten modul njejo signěrowany
+    .title = Toś ten modul njejo signěrowany
 third-party-icon-warning =
-    .title = { -brand-short-name } jo spadnuł w koźe z toś togo modula
     .alt = { -brand-short-name } jo spadnuł w koźe z toś togo modula
+    .title = { -brand-short-name } jo spadnuł w koźe z toś togo modula
 third-party-status-loaded = Zacytany
 third-party-status-blocked = Blokěrowany
 third-party-status-redirected = Dalej pósrědnjony
@@ -46,30 +46,17 @@ third-party-button-reload = Ze systemowymi informacijami znowego zacytaś
     .title = Ze systemowymi informacijami znowego zacytaś
 third-party-button-open =
     .title = Datajowe městno wócyniś…
-third-party-button-to-block =
-    .title = Toś ten modul blokěrowaś
-    .aria-label = Toś ten modul blokěrowaś
-third-party-button-to-unblock =
-    .title = Tuchylu zablokěrowany. Klikniśo, aby zablokěrowanje wotpórał.
-    .aria-label = Tuchylu zablokěrowany. Klikniśo, aby zablokěrowanje wótpórał.
-third-party-button-to-unblock-disabled =
-    .title =
-        Jo tuchylu ako blokěrowane markěrowane, lěcrownož lisćina blokěrowanjow za toś to
-        pśewjeźenje { -brand-short-name } jo znjemóžnjona. Klikniśo, aby blokěrowanje skóńcył.
-    .aria-label =
-        Jo tuchylu ako blokěrowane markěrowane, lěcrownož lisćina blokěrowanjow za toś to
-        pśewjeźenje { -brand-short-name } jo znjemóžnjona. Klikniśo, aby blokěrowanje skóńcył.
 third-party-button-to-block-module = Toś ten modul blokěrowaś
-    .title = Toś ten modul blokěrowaś
     .aria-label = Toś ten modul blokěrowaś
+    .title = Toś ten modul blokěrowaś
 third-party-button-to-unblock-module = Toś ten modul wěcej njeblokěrowaś
-    .title = Tuchylu blokěrowany. Klikniśo, aby blokěrowanje wótpórał.
     .aria-label = Tuchylu blokěrowany. Klikniśo, aby blokěrowanje wótpórał.
+    .title = Tuchylu blokěrowany. Klikniśo, aby blokěrowanje wótpórał.
 third-party-button-to-unblock-module-disabled = Toś ten modul wěcej njebokěrowaś (lisćina blokěrowanjow tuchylu znjemóžnjona)
-    .title =
+    .aria-label =
         Tuchylu ako blokěrowany markěrowany, lěcrownož lisćina blokěrowanjow jo za toś to wuwjeźenje 
         { -brand-short-name } znjemóžnjona. Klikniśo, aby blokěrowanje wótpórał.
-    .aria-label =
+    .title =
         Tuchylu ako blokěrowany markěrowany, lěcrownož lisćina blokěrowanjow jo za toś to wuwjeźenje 
         { -brand-short-name } znjemóžnjona. Klikniśo, aby blokěrowanje wótpórał.
 third-party-button-expand =
@@ -81,5 +68,5 @@ third-party-should-restart-title = { -brand-short-name } znowego startowaś
 third-party-restart-now = Něnto znowego startowaś
 third-party-restart-later = Pózdźej znowego startowaś
 third-party-blocked-by-builtin =
-    .title = Pśez { -brand-short-name } zablokěrowany
     .alt = Pśez { -brand-short-name } zablokěrowany
+    .title = Pśez { -brand-short-name } zablokěrowany

@@ -16,15 +16,3 @@ recently-closed-menu-reopen-all-windows = Kejaq Chik Ronojel Taq Tzuwäch
 
 recently-closed-panel-reopen-all-tabs = Kejaq Chik Ronojel Ruwi'
 recently-closed-panel-reopen-all-windows = Kejaq Chik Ronojel Taq Tzuwäch
-
-##
-
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [one] { $winTitle } (chuqa' { $tabCount } jun chik ruwi')
-       *[other] { $winTitle } (chuqa' { $tabCount } ch'aqa' chik taq ruwi')
-    }

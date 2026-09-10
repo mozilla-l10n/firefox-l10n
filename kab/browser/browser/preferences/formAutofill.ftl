@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Tansiwin ittwakelsen
 autofill-manage-addresses-list-header = Tansiwin
-autofill-manage-credit-cards-title = Tikaṛḍiwin n uselek ittwakelsen
-autofill-manage-credit-cards-list-header = Takaṛḍa n usmad
 autofill-manage-payment-methods-title = Isseklas tarrayin n uxelleṣ
 autofill-manage-cards-list-header = Tikarḍiwin
 autofill-manage-dialog =
@@ -45,15 +43,10 @@ address-capture-open-menu-button =
     .aria-label = Ldi umuɣ
 address-capture-edit-address-link = Ẓreg tansa
     .aria-label = Ẓreg tansa
-address-capture-edit-address-button =
-    .aria-label = Ẓreg tansa
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Rnu tansa
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Ẓreg tansa
-autofill-address-given-name = Isem n twacult
-autofill-address-additional-name = Isem alemmas
-autofill-address-family-name = Isem
 autofill-address-name = Isem
 autofill-address-organization = Takebbanit
 autofill-address-street-address = Tansa n taddart
@@ -101,8 +94,6 @@ autofill-address-eircode = Tangalt n irlanda
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Rnu tansa tamaynut
 autofill-address-country = Tamnaḍt neɣ tamurt
 autofill-address-country-only = Tamurt
 autofill-address-tel = Tiliɣri
@@ -110,18 +101,6 @@ autofill-address-email = Imayl
 autofill-cancel-button = Sefsex
 autofill-save-button = Sekles
 autofill-country-warning-message = Tura akka taččart tawurmant n iferka tella kan i kra tmura.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Rnu takeṛḍa n usmad tamaynut
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Ẓreg takeṛḍa n usmad
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] sken talɣut n tkarḍa n usmad
-        [windows] { -brand-short-name } ittaεraḍ ad d-sken talɣut n tkarḍa n usmad. Sentem anekcum ɣer usfaylu-a n umiḍan ddaw.
-       *[other] { -brand-short-name } yettaεraḍ ad isken talɣut n tkarḍa n usmad.
-    }
 autofill-message-tooltip = Sken izen yerzan taččart tawurmant
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Rnu takarḍa
@@ -140,15 +119,3 @@ autofill-card-expires-month = Aggur n tagara
 autofill-card-expires-year = Aseggas n tagara
 autofill-card-billing-address = Tansa n tuzna n tfaturt
 autofill-card-network = Tawsit n tkarḍa
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Snirem
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

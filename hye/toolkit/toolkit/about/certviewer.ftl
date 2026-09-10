@@ -118,4 +118,3 @@ certificate-viewer-tab-mine = Ձեր վկայագրերը
 certificate-viewer-tab-people = Մարդիկ
 certificate-viewer-tab-servers = Սպասարկիչներ
 certificate-viewer-tab-ca = Վկայագրման կենտրոններ
-certificate-viewer-tab-unkonwn = Անյայտ

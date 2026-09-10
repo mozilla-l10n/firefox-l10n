@@ -40,7 +40,6 @@ sidebar-history-clear =
     .label = Xóa lịch sử
 sidebar-history-sort-by-heading-menucaption =
     .label = Sắp xếp theo:
-sidebar-history-sort-by-heading = Sắp xếp theo:
 sidebar-history-sort-option-date =
     .label = Ngày
 sidebar-history-sort-option-site =
@@ -60,16 +59,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Tiện ích mở rộng sử dụng thanh lề
-sidebar-customize-firefox-tools-header =
-    .label = Công cụ { -brand-product-name }
 sidebar-customize-firefox-settings = Cài đặt quản lý { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Thẻ dọc
 sidebar-settings2 =
     .label = Cài đặt
-sidebar-settings =
-    .label = Cài đặt thanh lề
 sidebar-hide-tabs-and-sidebar =
     .label = Ẩn thẻ và thanh lề
 sidebar-open-tools-from-sidebar =
@@ -95,8 +89,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Quản lý tiện ích
-sidebar-context-menu-remove-extension =
-    .label = Xoá tiện ích
 sidebar-context-menu-report-extension =
     .label = Báo cáo tiện ích
 sidebar-context-menu-open-in-tab =

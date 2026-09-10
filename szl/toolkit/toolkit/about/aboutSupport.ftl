@@ -25,10 +25,6 @@ security-software-name = Miano
 security-software-antivirus = Antywirus
 security-software-antispyware = Antispyware
 security-software-firewall = Firewall
-features-title = Funkcyje aplikacyje { -brand-short-name }
-features-name = Miano
-features-version = Wersyjo
-features-id = ID
 processes-title = Zdalne procesy
 processes-type = Typ
 processes-count = Wielość
@@ -54,7 +50,6 @@ app-basics-profile-dir =
         [linux] Plac na profil
        *[other] Katalog na profil
     }
-app-basics-enabled-plugins = Załōnczōne profile
 app-basics-build-config = Sztalōnki zestawiynio
 app-basics-user-agent = Idyntyfikatōr używocza
 app-basics-os = Ôperacyjny systym
@@ -79,9 +74,6 @@ show-dir-label =
 environment-variables-title = Strzodowiskowe zmiynne
 environment-variables-name = Miano
 environment-variables-value = Wert
-experimental-features-title = Eksperymyntalne funkcyje
-experimental-features-name = Miano
-experimental-features-value = Wert
 modified-key-prefs-title = Ważne pozmiyniane preferyncyje
 modified-prefs-name = Miano
 modified-prefs-value = Wert

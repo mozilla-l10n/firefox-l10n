@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Fshih PeerConnections t
 about-webrtc-aec-logging-msg-label = Regjistrim EEA-je
 about-webrtc-aec-logging-off-state-label = Fillo Regjistrim EEA-je
 about-webrtc-aec-logging-on-state-label = Ndale Regjistrimin e EEA-s
-about-webrtc-aec-logging-on-state-msg = Regjistrimi i EEA-s është aktiv (flisni për pak minuta me atë që ju bëri thirrjen dhe mandej ndaleni regjistrimin)
 about-webrtc-aec-logging-toggled-on-state-msg = Regjistrimi i EEA-s është aktiv (flisni për pak minuta me atë që ju bëri thirrjen dhe mandej ndaleni regjistrimin)
 about-webrtc-aec-logging-unavailable-sandbox = Ndryshorja MOZ_DISABLE_CONTENT_SANDBOX=1 e mjedisit është e domosdoshme për të eksportuar regjistra AEC. Ujdiseni këtë ndryshore vetëm nëse kuptoni rreziqet e mundshme.
 # Variables:
@@ -93,20 +92,12 @@ about-webrtc-nominated = E caktuar
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = E përzgjedhur
 about-webrtc-save-page-label = Ruaje Faqen
-about-webrtc-debug-mode-msg-label = Mënyra Diagnostikim
-about-webrtc-debug-mode-off-state-label = Kaloni në Mënyrën Diagnostikim
-about-webrtc-debug-mode-on-state-label = Dilni nga Mënyra Diagnostikim
-about-webrtc-stats-heading = Statistika Sesioni
 about-webrtc-peerconnections-section-heading = Statistika RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = Shfaq Statistika RTCPeerConnection
 about-webrtc-peerconnections-section-hide-msg = Fshih Statistika RTCPeerConnection
 about-webrtc-stats-clear = Spastro Historikun
 about-webrtc-log-heading = Regjistrim Lidhjeje
 about-webrtc-log-clear = Spastroje Regjistrin
-about-webrtc-log-show-msg = shfaqe regjistrin
-    .title = klikoni që të zgjerohet kjo pjesë
-about-webrtc-log-hide-msg = fshihe regjistrin
-    .title = klikoni që të tkurret kjo pjesë
 about-webrtc-log-section-show-msg = Shfaqe regjistrin
     .title = Klikoni që të zgjerohet kjo pjesë
 about-webrtc-log-section-hide-msg = Fshihe regjistrin
@@ -137,10 +128,6 @@ about-webrtc-short-receive-direction = Marrje: { $codecs }
 about-webrtc-local-candidate = Kandidat Vendor
 about-webrtc-remote-candidate = Kandidat i Largët
 about-webrtc-priority = Përparësi
-about-webrtc-fold-show-msg = shfaqni hollësi
-    .title = klikoni që të zgjerohet kjo pjesë
-about-webrtc-fold-hide-msg = fshihini hollësitë
-    .title = klikoni që të tkurret kjo pjesë
 about-webrtc-fold-default-show-msg = Shfaqni hollësi
     .title = Klikoni që të zgjerohet kjo pjesë
 about-webrtc-fold-default-hide-msg = Fshihini hollësitë
@@ -182,8 +169,6 @@ about-webrtc-configuration-element-provided = E dhënë
 # been provided
 about-webrtc-configuration-element-not-provided = Jo e dhënë
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Parapëlqime WebRTC Caktuar Nga Përdoruesi
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Formësim WebRTC i Ndryshuar Nga Përdoruesi
 
 ## These are displayed on the button that shows or hides the
@@ -212,13 +197,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Statistika Kuadrosh Video - ID MediaStreamTrack: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = faqe e ruajtur te: { $path }
-about-webrtc-debug-mode-off-state-msg = regjistri i ndjekjes mund të gjendet te: { $path }
-about-webrtc-debug-mode-on-state-msg = mënyra diagnostikim aktive, regjistër ndjekje te: { $path }
-about-webrtc-aec-logging-off-state-msg = kartelat e regjistrimit të thirrjes mund të gjenden te: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

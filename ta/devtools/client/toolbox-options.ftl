@@ -74,8 +74,6 @@ options-sourceeditor-keybinding-default-label = முன்னிருப்�
 options-context-advanced-settings = மேம்பட்ட அமைவுகள்
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = HTTP தேக்ககத்தை முடக்கு (கருவிப்பெட்டி திறந்திருக்கும் போது)
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = JavaScript * ஐ முடக்கு
 options-disable-javascript-tooltip =
     .title = இந்த விருப்பத்தை இயக்கினால், தற்போதைய கீற்றில் JavaScript முடக்கப்படும். இந்தக் கீற்றோ அல்லது கருவிப்பெட்டியோ மூடப்பட்டால், அந்த அமைவு செயல்படாது.
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
@@ -84,8 +82,6 @@ options-enable-service-workers-http-tooltip =
     .title = இந்த விருப்பத்தை இயக்கினால் கருவிப்பெட்டி திறந்துள்ள கீற்றுகள் அனைத்திற்கும் HTTP சேவைப் பணியாளர்களைச் செயற்படுத்தும்.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = மூல வரைபடங்களைச் செயற்படுத்த
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * நடப்பு அமர்வில் மட்டும், பக்கத்தை மீளேற்றுகிறது
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

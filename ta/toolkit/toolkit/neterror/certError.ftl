@@ -37,17 +37,12 @@ cert-error-not-yet-valid-now = வலைத்தளங்கள் தங்க
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = பிழைக் குறியீடு: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = வலைத்தளங்கள் தங்கள் அடையாளத்தைச் சான்றிதழ்கள்மூலம் நிரூபிக்கின்றன, அவை சான்றிதழ் நிறுவனங்களால் வழங்கப்படுகின்றன. பெரும்பாலான உலாவிகள் GeoTrust, RapidSSL, Symantec, Thawte, மற்றும் VeriSign வழங்கிய சான்றிதழ்களை நம்புவதில்லை. { $hostname } இந்த நிறுவனங்களின் ஏதோ ஒன்றிடமிருந்து சான்றிதழைப் பெற்றுள்ளது, எனவே வலைத்தளத்தின் அடையாளத்தை நிரூபிக்க முடியாது.
-cert-error-symantec-distrust-admin = இந்தச் சிக்கல்குறித்து வலைத்தள நிர்வாகிக்கு நீங்கள் அறிவிக்கலாம்.
-# Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP கண்டிப்பான போக்குவரத்து பாதுகாப்பு: { $hasHSTS }
 # Variables:
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP பொது விசை பிணைப்பு: { $hasHPKP }
 cert-error-details-cert-chain-label = சான்றிதழ் சங்கிலி:
-open-in-new-window-for-csp-or-xfo-error = புதிய சாளரத்தில் இணைப்பைத் திற
 
 ## Messages used for certificate error titles
 
@@ -77,7 +72,6 @@ redirectLoop-title = பக்கத்தை ஒழுங்காகத் த
 unknownSocketType-title = சேவையகத்திலிருந்து எதிர்பாராத பதில்
 nssFailure2-title = பாதுகாப்பான இணைப்பு முறிந்தது
 csp-xfo-error-title = { -brand-short-name } இப்பக்கத்தைத் திறக்க முடியவில்லை
-corruptedContentError-title = சிதைந்த உள்ளடக்கப் பிழை
 sslv3Used-title = பாதுகாப்பாக இணைக்க இயலவில்லை
 inadequateSecurityError-title = உங்கள் இணைப்பு பாதுகாப்பற்றது
 blockedByPolicy-title = முடக்கப்பட்ட பக்கம்

@@ -31,4 +31,3 @@ search-bookmarks = Σελιδοδείκτες
 search-history = Ιστορικό
 search-opentabs = Ανοικτές καρτέλες
 search-tags = Ετικέτες
-search-titles = Τίτλοι

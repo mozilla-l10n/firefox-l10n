@@ -21,8 +21,6 @@ styleeditor-save-button = Zapisz
 styleeditor-options-button =
     .tooltiptext = Ustawienia edytora stylów
 styleeditor-at-rules = Reguły @
-styleeditor-editor-textbox =
-    .data-placeholder = Wprowadź tutaj CSS.
 styleeditor-no-stylesheet = Ta strona nie ma arkusza stylów.
 styleeditor-no-stylesheet-tip = Być może chcesz <a data-l10n-name="append-new-stylesheet">dołączyć nowy arkusz stylów</a>?
 styleeditor-open-link-new-tab =

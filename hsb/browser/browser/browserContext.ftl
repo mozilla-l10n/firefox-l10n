@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Jednu stronu wróćo ({ $shortcut })
     .aria-label = Wróćo
+    .tooltiptext = Jednu stronu wróćo ({ $shortcut })
     .accesskey = W
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Jednu stronu doprědka ({ $shortcut })
     .aria-label = Doprědka
+    .tooltiptext = Jednu stronu doprědka ({ $shortcut })
     .accesskey = D
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Stronu jako zapołožku składować …
-    .accesskey = z
     .tooltiptext = Stronu jako zapołožku składować
+    .accesskey = z
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Stronu jako zapołožku składować …
-    .accesskey = o
     .tooltiptext = Stronu jako zapołožku składować ({ $shortcut })
+    .accesskey = o
 main-context-menu-edit-bookmark =
     .aria-label = Zapołožku wobdźěłać …
-    .accesskey = o
     .tooltiptext = Zapołožku wobdźěłać
+    .accesskey = o
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Zapołožku wobdźěłać …
-    .accesskey = o
     .tooltiptext = Zapołožku wobdźěłać ({ $shortcut })
+    .accesskey = o
 main-context-menu-open-link =
     .label = Wotkaz wočinić
     .accesskey = o
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Wotkaz składować jako…
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = Wotkaz do { -pocket-brand-name } składować
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Zmóžńće synchroniza
 main-context-menu-send-to-mobile-connect-phone3 = Zwjazajće grat, zo byšće rajtarki pósłał
 main-context-menu-send-to-mobile-connect-phone-from-link = Zwjazajće grat, zo byšće wotkaz pósłał
 main-context-menu-send-to-mobile-connect-phone-from-page = Zwjazajće grat, zo byšće stronu pósłał
-main-context-menu-save-to-pocket =
-    .label = Stronu pola { -pocket-brand-name } składować
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Stronu na grat pósłać
-    .accesskey = S
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Składowane přizjewjenje wužiwać
-    .accesskey = S
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Składowane hesło wužiwać
     .accesskey = h
-
-##
-
 main-context-menu-use-relay-mask =
     .label = E-mejlowu masku { -relay-brand-short-name } wužiwać
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = Sylne hesło namjetować…
     .accesskey = l
-main-context-menu-manage-logins2 =
-    .label = Přizjewjenja zrjadować
-    .accesskey = P
 main-context-menu-manage-passwords =
     .label = Hesła rjadować
     .accesskey = r
-main-context-menu-keyword =
-    .label = Hesło za tute pytanje přidać…
-    .accesskey = H
 main-context-menu-add-engine =
     .label = Pytawu přidać
     .accesskey = P
@@ -393,9 +366,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Foto wobrazowki činić
     .accesskey = t
-main-context-menu-take-frame-screenshot =
-    .label = Foto wobrazowki činić
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = Žórłowy tekst strony pokazać
     .accesskey = t

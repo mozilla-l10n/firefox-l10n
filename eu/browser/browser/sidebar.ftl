@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = Garbitu historia
 sidebar-history-sort-by-heading-menucaption =
     .label = Ordenatze-irizpidea:
-sidebar-history-sort-by-heading = Ordenatze-irizpidea:
 sidebar-history-sort-option-date =
     .label = Data
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Alboko barrako hedapenak
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name } tresnak
 sidebar-customize-firefox-settings = Kudeatu { -brand-short-name } ezarpenak
 sidebar-vertical-tabs =
     .label = Fitxa bertikalak
 sidebar-settings2 =
     .label = Ezarpenak
-sidebar-settings =
-    .label = Alboko barraren ezarpenak
 sidebar-hide-tabs-and-sidebar =
     .label = Ezkutatu fitxak eta alboko barra
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Kudeatu hedapena
-sidebar-context-menu-remove-extension =
-    .label = Kendu hedapena
 sidebar-context-menu-report-extension =
     .label = Eman hedapenaren berri
 sidebar-context-menu-open-in-tab =

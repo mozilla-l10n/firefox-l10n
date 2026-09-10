@@ -32,10 +32,6 @@ security-software-name = Adı
 security-software-antivirus = Antivirüs
 security-software-antispyware = Antispyware
 security-software-firewall = Güvenlik duvarı
-features-title = { -brand-short-name } özellikleri
-features-name = Adı
-features-version = Sürüm
-features-id = Kimlik
 processes-title = Uzak işlemler
 processes-type = Tür
 processes-count = Sayaç
@@ -61,7 +57,6 @@ app-basics-profile-dir =
         [linux] Profil dizini
        *[other] Profil klasörü
     }
-app-basics-enabled-plugins = Devredeki yan uygulamalar
 app-basics-build-config = Yapılandırma
 app-basics-user-agent = Kullanıcı istemcisi
 app-basics-os = İşletim sistemi
@@ -99,9 +94,6 @@ show-dir-label =
 environment-variables-title = Ortam değişkenleri
 environment-variables-name = Adı
 environment-variables-value = Değer
-experimental-features-title = Deneysel özellikler
-experimental-features-name = Adı
-experimental-features-value = Değer
 modified-key-prefs-title = Değiştirilmiş önemli tercihler
 modified-prefs-name = Adı
 modified-prefs-value = Değer
@@ -223,9 +215,6 @@ media-cdm-capabilities = Yetenekler
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Clear Lead
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = HDCP 2.2 uyumlu
 
 ##
 
@@ -397,8 +386,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Deney tarafından kapatıldı
-fission-status-experiment-treatment = Deney tarafından açıldı
 fission-status-disabled-by-e10s-env = Ortam tarafından kapatıldı
 fission-status-enabled-by-env = Ortam tarafından açıldı
 fission-status-disabled-by-env = Ortam tarafından kapatıldı
@@ -407,7 +394,6 @@ fission-status-disabled-by-default = varsayılan olarak kapalı
 fission-status-enabled-by-user-pref = kullanıcı tarafından açıldı
 fission-status-disabled-by-user-pref = Kullanıcı tarafından kapatıldı
 fission-status-disabled-by-e10s-other = E10s devre dışı
-fission-status-enabled-by-rollout = Aşamalı dağıtımla etkinleştirildi
 async-pan-zoom = Asenkron kaydır/yakınlaştır
 apz-none = yok
 wheel-enabled = tekerlek girdisi etkin

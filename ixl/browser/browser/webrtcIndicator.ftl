@@ -7,7 +7,3 @@
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
-
-##
-
-webrtc-share-screen-learn-more = Ootzi ka'te

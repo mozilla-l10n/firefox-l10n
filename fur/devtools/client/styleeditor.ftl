@@ -21,8 +21,6 @@ styleeditor-save-button = Salve
 styleeditor-options-button =
     .tooltiptext = Opzions dal editôr di stîi
 styleeditor-at-rules = Regulis @
-styleeditor-editor-textbox =
-    .data-placeholder = Scrîf achì il CSS.
 styleeditor-no-stylesheet = Cheste pagjine no à un sfuei di stîl.
 styleeditor-no-stylesheet-tip = Desideristu magari <a data-l10n-name="append-new-stylesheet">zontâ un gnûf sfuei di stîl</a>?
 styleeditor-open-link-new-tab =

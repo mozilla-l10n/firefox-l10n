@@ -9,13 +9,6 @@ xpinstall-prompt = { -brand-short-name } na nungoo woo ganji a ma hãa ka goyjin
 xpinstall-prompt-dont-allow =
     .label = Ma ši yadda
     .accesskey = D
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = War dabariɲaa juwalkaa na goyjinay sinjiyanoo kayandi.
 xpinstall-disabled = Goyjinay sinjiyanoo kayandi sohõ. Tunandi naagu ka ceeci koyne.
 xpinstall-disabled-button =
     .label = Tunandi
@@ -78,4 +71,3 @@ addon-local-install-error-not-signed = Tontonoo woo mana hin ka sinjandi zam'a m
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } mana hin ka sinja zama nga nda { -brand-short-name } { $appVersion } ši cere kanbe.
-addon-install-error-blocklisted = { $addonName } mana hin ka sinja zama a goo nda allamaana beeri kaŋ hin ka tabatiyan wala saajaw šenday-miseyaŋ tee.

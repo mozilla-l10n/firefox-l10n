@@ -31,4 +31,3 @@ search-bookmarks = Maantore
 search-history = Aslol
 search-opentabs = Uddit Tabbe
 search-tags = Tage
-search-titles = Tiitooɗe

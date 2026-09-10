@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = Vymazať históriu
 sidebar-history-sort-by-heading-menucaption =
     .label = Zoradiť podľa:
-sidebar-history-sort-by-heading = Zoradiť podľa:
 sidebar-history-sort-option-date =
     .label = Dátum
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Rozšírenia pre bočný panel
-sidebar-customize-firefox-tools-header =
-    .label = Nástroje { -brand-product-name(case: "gen") }
 sidebar-customize-firefox-settings = Spravovať nastavenia { -brand-short-name(case: "gen") }
 sidebar-vertical-tabs =
     .label = Vertikálne karty
 sidebar-settings2 =
     .label = Nastavenia
-sidebar-settings =
-    .label = Nastavenia bočného panela
 sidebar-hide-tabs-and-sidebar =
     .label = Skryť karty a bočný panel
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Spravovať rozšírenie
-sidebar-context-menu-remove-extension =
-    .label = Odstrániť rozšírenie
 sidebar-context-menu-report-extension =
     .label = Nahlásiť rozšírenie
 sidebar-context-menu-open-in-tab =

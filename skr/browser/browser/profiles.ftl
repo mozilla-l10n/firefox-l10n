@@ -4,11 +4,11 @@
 
 profile-window-create-profile = پروفائل بݨاؤ
 profile-card-edit-button =
-    .title = پروفائل وچ تبدیلی کرو
     .aria-label = پروفائل وچ تبدیلی کرو
+    .title = پروفائل وچ تبدیلی کرو
 profile-card-delete-button =
-    .title = پروفائل مٹاؤ
     .aria-label = پروفائل مٹاؤ
+    .title = پروفائل مٹاؤ
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = پروفائل{ $number }
@@ -40,9 +40,5 @@ delete-profile-confirm = مٹاؤ
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = پھکا
-# The default dark theme
-profiles-dark-theme = شوخ
 # The default system theme
 profiles-system-theme = سسٹم

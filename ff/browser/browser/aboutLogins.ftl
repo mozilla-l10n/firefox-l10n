@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Ceŋorɗe e pinle
-create-new-login-button =
-    .title = Sos seŋorde hesere
 about-logins-page-title-name = Finnde
 fxaccounts-sign-in-text = Heɓ pinle maa e kaɓirɗe maa goɗɗe
 fxaccounts-avatar-button =
@@ -28,39 +25,22 @@ about-logins-menu-menuitem-help = Ballal
 
 login-list =
     .aria-label = Ceŋorɗe jahdooje e ɗaɓɓitannde njiilaw
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } Seŋorde
-       *[other] { $count } Ceŋorɗe
-    }
 login-list-sort-label-text = Laworo:
 login-list-name-option = Innde (A-Z)
 login-list-name-reverse-option = Innde (A-Z)
 about-logins-login-list-alerts-option = Jeertine
 login-list-last-changed-option = Waylo sakkitto
 login-list-last-used-option = Kuutarogol cakkitiingol.
-login-list-intro-title = Alaa ceŋorɗe njiytaa
 login-list-intro-description = So a danndi finnde e nder { -brand-product-name }, ma nde feeñ ɗoo.
-about-logins-login-list-empty-search-title = Alaa ceŋorɗe njiytaa
 about-logins-login-list-empty-search-description = Hay njeñtudi wootiri tolnondiraani e niilaw maa.
-login-list-item-title-new-login = Seŋorde hesere
-login-list-item-subtitle-new-login = Naatnu humpito
 login-list-item-subtitle-missing-username = [alaa innde kuutoro]
 about-logins-list-item-breach-icon =
     .title = Loowe geese dañɗe ciigol keɓe
 about-logins-list-item-vulnerable-password-icon =
     .title = Finnde yaafnde
 
-## Introduction screen
-
-about-logins-login-intro-heading-logged-in = Alaa ceŋorɗe jahdinaaɗe njiytaa.
-login-intro-description = So a danndii ceŋorɗe maa e { -brand-product-name } e kaɓirgal goɗngal, ko nii keɓirtaaɗe ɗoo:
-
 ## Login
 
-login-item-new-login-title = Sos Seŋorde Hesere
 login-item-edit-button = Taƴto
 about-logins-login-item-remove-button = Momtu
 login-item-origin-label = Ñiiɓirde lowre geese
@@ -76,7 +56,6 @@ login-item-password-reveal-checkbox =
     .aria-label = Hollu finnde
 login-item-copy-password-button-text = Natto
 login-item-copied-password-button-text = Nattaama!
-login-item-save-changes-button = Danndu bayle
 login-item-save-new-button = Danndu
 login-item-cancel-button = Haaytu
 
@@ -88,11 +67,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Ngam taƴtaade seŋorde maa, naatnu humpito seŋorde maa Windows. Ɗuum ina walla reende kisal konte maa.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = Taƴto seŋorde danndaande ndee
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Ngam yiyde finnde maa, naatnu humpito seŋorde maa Windows. Ɗuum ina walla reende kisal konte maa.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -115,8 +89,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Haaytu
 confirmation-dialog-dismiss-button =
     .title = Haaytu
-about-logins-confirm-remove-dialog-title = Momtu ndee seŋorde?
-confirm-delete-dialog-message = Ngal baɗal waawaa firteede.
 about-logins-confirm-remove-dialog-confirm-button = Ittu
 
 ##

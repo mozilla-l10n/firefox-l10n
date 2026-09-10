@@ -15,7 +15,6 @@ cert-error-trust-untrusted-issuer = Waraga pe gene pien lami waraga pe gene.
 cert-error-trust-signature-algorithm-disabled = Waraga ne pe gene pien kiketo cing iye kun kitiyo ki yo me keto cing ma kijuko woko pien yo ne peke ki ber bedo.
 cert-error-trust-expired-issuer = Waraga pe gene pien kara pa lami waraga okato woko.
 cert-error-trust-self-signed = Pe gigeno waraga pien oketo capa cing kene.
-cert-error-trust-symantec = Catibiket ma lumi gi obedo GeoTrust, RapidSSL, Symantec, Thawte, ki VeriSign pe dong kigeno ber bedo gi pien luloc me catibiket magi pe gi olubo tim mabeco me ber bedo ikare mukato angec.
 cert-error-untrusted-default = Waraga pe bino ki ka ma gene.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -51,17 +50,12 @@ cert-error-code-prefix-link = Kod me bal: <a data-l10n-name="error-code-link">{ 
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Bal otime ikare me kube bot { $hostname }. { $errorMessage }
 # Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Kakube moko ada gi ki i catibiket, ma luloc me catibiket aye gi miyo. Pol pa luyeny dong pe gigeno catibiket ma jo ma omiyo aye GeoTrust, RapidSSL, Symantec, Thawte, ki VeriSign. { $hostname } tiyo ki catibiket ma aa ki bot laloc acel ikin luloc magi ci dong pe kitwero moko ada pa kakube ne.
-cert-error-symantec-distrust-admin = Itwero miyo ngec bot lalo kakube eni pi peko man.
-# Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # Variables:
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Nyoo me catibiket:
-open-in-new-window-for-csp-or-xfo-error = Yab Kakube i Dirica Manyen
 
 ## Messages used for certificate error titles
 
@@ -91,7 +85,6 @@ redirectLoop-title = Potbuk ne pe tye ka wire maber
 unknownSocketType-title = Lagam ma pe kibedo ka kuro ki bot lapok tic
 nssFailure2-title = Kube ma tye ki ber bedo pe olare
 csp-xfo-error-title = { -brand-short-name } Pe Twero Yabo Potbuk Man
-corruptedContentError-title = Bal me jami matye iye ma oballe
 sslv3Used-title = Pe twero kube ma ber bedo tye
 inadequateSecurityError-title = Kube ni pe tye ki ber bedo
 blockedByPolicy-title = Potbuk ma kigengo

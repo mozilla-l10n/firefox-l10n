@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = ¿Añadir { $extension }?
-webext-perms-header-with-perms = ¿Añadir { $extension }? Esta extensión tendrá permiso para:
-webext-perms-header-unsigned = ¿Añadir { $extension }? Esta extensión no está verificada. Las extensiones maliciosas pueden robar tu información privada o comprometer tu computador. Instala esta extensión solo si confías en la fuente.
-webext-perms-header-unsigned-with-perms = ¿Añadir { $extension }? Esta extensión no está verificada. Las extensiones maliciosas pueden robar tu información privada o comprometer tu computador. Instala esta extensión solo si confías en la fuente. Esta extensión tendrá permiso para:
 webext-perms-sideload-header = { $extension } añadido
 webext-perms-optional-perms-header2 = { $extension } requiere permisos adicionales
-webext-perms-optional-perms-header = { $extension } requiere permisos adicionales.
 webext-perms-header2 = Añadir { $extension }
 webext-perms-list-intro-unsigned = Esta extensión no verificada podría poner en riesgo tu privacidad o comprometer tu dispositivo. Añádela solamente si confías en la fuente.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } ha sido actualizado. Debes aprobar nuevos permisos antes de que la actualización sea aplicada. Elige "Cancelar" si quieres mantener la versión ya instalada.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } ha sido actualizada. Debes aprobar nuevos permisos antes de que la actualización sea aplicada. Elige "Cancelar" si quieres mantener la versión ya instalada. Esta extensión tendrá permisos para:
 webext-perms-update-accept =
     .label = Actualizar
     .accesskey = U
@@ -73,24 +65,8 @@ webext-perms-host-description-file-urls = Accede a los archivos locales de tu co
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Acceder a tus datos para sitios en el dominio { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Acceder a tus datos en { $domainCount } dominio diferente
-       *[other] Acceder a tus datos en { $domainCount } dominios diferentes
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Acceder a tus datos para { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Acceder a tus datos en { $domainCount } sitio diferente
-       *[other] Acceder a tus datos en { $domainCount } sitios diferentes
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

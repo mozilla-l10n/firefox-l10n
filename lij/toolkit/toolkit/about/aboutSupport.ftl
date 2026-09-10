@@ -18,10 +18,6 @@ security-software-name = Nomme
 security-software-antivirus = Antiviros
 security-software-antispyware = Antispyware
 security-software-firewall = Firewall
-features-title = Carateristiche de{ -brand-short-name }
-features-name = Nomme
-features-version = Verscion
-features-id = ID
 app-basics-title = Aplicaçion de Base
 app-basics-name = Nomme
 app-basics-version = Verscion
@@ -34,7 +30,6 @@ app-basics-profile-dir =
         [linux] Profî de cartelle
        *[other] Cartella do profî
     }
-app-basics-enabled-plugins = Plugin abilitæ
 app-basics-build-config = Crea preferensa
 app-basics-user-agent = Agente do utente
 app-basics-os = OS

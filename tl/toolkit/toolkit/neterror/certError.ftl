@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Hindi pinagkakatiwalaan ang certificate dahi
 cert-error-trust-signature-algorithm-disabled = Hindi pinagkakatiwalaan ang certificate dahil ito ay na-sign gamit ang isang signature algorithm na na-disable dahil hindi secure ang algorithm.
 cert-error-trust-expired-issuer = Hindi pinagkakatiwalaan ang certificate dahil paso na ang certificate ng nag-isyu.
 cert-error-trust-self-signed = Hindi pinagkakatiwalaan ang certificate dahil self-signed ito.
-cert-error-trust-symantec = Hindi na ligtas ang mga certificate na na-issue ng GeoTrust, RapidSSL, Symantec, Thawte, at VeriSign dahil ang mga certificate authority na ito ay hindi sumunod sa mga security practice dati.
 cert-error-untrusted-default = Di galing mula sa isang mapagkakatiwalaang source ang certificate.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -53,17 +52,12 @@ cert-error-code-prefix-link = Error code: <a data-l10n-name="error-code-link">{ 
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Nagkaroon ng problema habang kumokonekta sa { $hostname }. { $errorMessage }
 # Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Pinapatunayan ng mga website ang kanilang identity gamit ang mga certificate na ini-issue ng mga certificate authority. Karamihan ng mga browser ay hindi na nagtitiwala sa mga certificate na inissue ng GeoTrust, RapidSSL, Symantec, Thawte, at VeriSign. Gumagamit ang { $hostname } ng certificate mula sa isa sa mga authority na ito kung kaya't hindi mapapatunayan ang identity ng website.
-cert-error-symantec-distrust-admin = Maaari mong i-notify ang administrator ng website tungkol sa problemang ito.
-# Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # Variables:
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Certificate chain:
-open-in-new-window-for-csp-or-xfo-error = Buksan ang Site sa Bagong Window
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Para maprotektahan ang iyong seguridad, hindi papayagan ng { $hostname } ang { -brand-short-name } na ipakita ang pahina kung ito ay naka-embed sa isa pang site. Para makita ang pahinang ito, kailangan mong buksan ito sa bagong window.
@@ -96,7 +90,6 @@ redirectLoop-title = Ang pahina ay hindi nag didirekta nang maayos
 unknownSocketType-title = Hindi inaasahang tugon mula sa server
 nssFailure2-title = Nabigo ang Ligtas na Koneksyon
 csp-xfo-error-title = Hindi Kayang Buksan ng { -brand-short-name } ang Pahinang Ito
-corruptedContentError-title = Corrupted Content Error
 sslv3Used-title = Hindi Makakonekta nang Ligtas
 inadequateSecurityError-title = Ang iyong koneksyon ay hindi ligtas
 blockedByPolicy-title = Naka-block na Pahina

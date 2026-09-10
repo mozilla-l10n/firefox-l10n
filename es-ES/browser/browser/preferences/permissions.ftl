@@ -103,7 +103,6 @@ permissions-exceptions-shutdown-clearing-desc = Puede especificar qué sitios we
 permissions-exceptions-https-only-window2 =
     .style = { permissions-window2.style }
     .title = Excepciones - Modo solo HTTPS
-permissions-exceptions-https-only-desc = Puede desactivar el modo solo HTTPS para sitios web específicos. { -brand-short-name } no intentará cambiar la conexión a HTTPS seguro para esos sitios. Las excepciones no se aplican a las ventanas privadas.
 permissions-exceptions-https-only-desc2 = Puede desactivar el modo solo HTTPS para sitios web específicos. { -brand-short-name } no intentará actualizar la conexión a HTTPS seguro para esos sitios.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
@@ -112,20 +111,6 @@ permissions-exceptions-popup-window3 =
     .style = { permissions-window2.style }
     .title = Sitios permitidos - Ventanas emergentes y redirecciones de terceros
 permissions-exceptions-popup-desc2 = Puede especificar qué sitios web pueden abrir ventanas emergentes y ser redireccionados por marcos de terceros.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .style = { permissions-window2.style }
-    .title = Sitios web permitidos - Ventanas emergentes
-permissions-exceptions-popup-desc = Se puede especificar qué sitios web pueden abrir ventanas emergentes. Escriba la dirección exacta del sitio que quiere permitir y pulse Permitir.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .style = { permissions-window2.style }
-    .title = Excepciones - Logins guardados
-permissions-exceptions-saved-logins-desc = Los inicios de sesión de los siguientes sitios web no se guardarán
 
 ## Exceptions - Saved Passwords
 

@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = { -brand-short-name } کوں اپݨی ان�
 default-browser-prompt-message-pin-msix = { -brand-short-name } کوں اپݨی انڳل دے ݙوݙے تے رکھو — اینکوں اپݨا ڈیفالٹ براؤزر بݨاؤ تے اینکوں اپݨے ٹاسک بار  تے سٹارٹ مینیو وِچ پن کرو۔
 default-browser-prompt-message-pin-mac = { -brand-short-name } کوں اپݨی انڳل دے ݙوݙے تے رکھو — اینکوں اپݨا ڈیفالٹ براؤزر بݨاؤ تے اینکوں اپݨے ڈاک اِچ رکھو۔
 default-browser-prompt-button-primary-set = بنیادی براؤزر دے طور تے مقرر کرو
-default-browser-prompt-button-primary-pin = بنیادی براؤزر بݨاؤ
 default-browser-prompt-title-alt = { -brand-short-name } کوں تہاݙا طے شدہ براؤزر بݨاؤں؟
 default-browser-prompt-message-alt = ہر واری برزؤز کرݨ تے رفتار، حفاظت تے رازداری حاصل کرو۔
 default-browser-prompt-button-primary-alt = پہلوں مقرر براؤز دے طور تے سیٹ کرو

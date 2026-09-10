@@ -26,23 +26,6 @@ webrtc-sharing-menu =
     .label = Cluaisíní atá ag comhroinnt gléasanna
     .accesskey = g
 
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Tá do cheamara agus do mhicreafón á gcomhroinnt. Cliceáil chun comhroinnt a bhainistiú.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Tá do cheamara á chomhroinnt. Cliceáil chun comhroinnt a bhainistiú.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Tá do mhicreafón á chomhroinnt. Cliceáil chun comhroinnt a bhainistiú.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Tá feidhmchlár á chomhroinnt. Cliceáil chun comhroinnt a bhainistiú.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Tá do scáileán á chomhroinnt. Cliceáil chun comhroinnt a bhainistiú.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Tá fuinneog á comhroinnt. Cliceáil chun comhroinnt a bhainistiú.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Tá cluaisín á comhroinnt. Cliceáil chun comhroinnt a bhainistiú.
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
@@ -124,7 +107,6 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
-webrtc-share-screen-learn-more = Tuilleadh Eolais
 webrtc-share-entire-screen = An scáileán iomlán
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).

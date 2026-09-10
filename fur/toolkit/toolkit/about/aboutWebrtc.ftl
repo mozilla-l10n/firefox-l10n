@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Plate PeerConnections s
 about-webrtc-aec-logging-msg-label = Regjistrazion di AEC
 about-webrtc-aec-logging-off-state-label = Comence la regjistrazion di AEC
 about-webrtc-aec-logging-on-state-label = Ferme la regjistrazion di AEC
-about-webrtc-aec-logging-on-state-msg = Regjistrazion di AEC ative (cjacare par cualchi minût cun l'interlocutôr e dopo ferme la regjistrazion)
 about-webrtc-aec-logging-toggled-on-state-msg = Regjistrazion di AEC ative (cjacare par cualchi minût cun l'interlocutôr e dopo ferme la regjistrazion)
 about-webrtc-aec-logging-unavailable-sandbox = La variabile di ambient MOZ_DISABLE_CONTENT_SANDBOX=1 e je necessarie par espuartâ i regjistris AEC. Stabilìs cheste variabile dome se tu cognossis i pussibii risis.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Nomenade
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Selezionade
 about-webrtc-save-page-label = Salve la pagjne
-about-webrtc-debug-mode-msg-label = Modalitât debug
-about-webrtc-debug-mode-off-state-label = Comence modalitât debug
-about-webrtc-debug-mode-on-state-label = Ferme modalitât debug
-about-webrtc-stats-heading = Statistichis session
 about-webrtc-enable-logging-label = Ative la pre-configurazion di regjistrazion par WebRTC
 about-webrtc-peerconnections-section-heading = Statistichis RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = Mostre statistichis RTCPeerConnection
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = Plate statistichis RTCPeerConnec
 about-webrtc-stats-clear = Cancele la storie
 about-webrtc-log-heading = Regjistri di conession
 about-webrtc-log-clear = Cancele regjistri
-about-webrtc-log-show-msg = mostre regjistri
-    .title = cliche par slargjâ la sezion
-about-webrtc-log-hide-msg = plate regjistri
-    .title = cliche par ridusi la sezion
 about-webrtc-log-section-show-msg = Mostre regjistri
     .title = Cliche par slargjâ la sezion
 about-webrtc-log-section-hide-msg = Plate regjistri
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Candidât remot
 about-webrtc-raw-candidates-heading = Ducj i candidâts no elaborâts
 about-webrtc-raw-local-candidate = Candidât local no elaborât
 about-webrtc-raw-remote-candidate = Candidât remot no elaborât
-about-webrtc-raw-cand-show-msg = mostre candidâts no elaborâts
-    .title = cliche par slargjâ la sezion
-about-webrtc-raw-cand-hide-msg = plate candidâts no elaborâts
-    .title = cliche par ridusi la sezion
 about-webrtc-raw-cand-section-show-msg = Mostre candidâts no elaborâts
     .title = Cliche par slargjâ la sezion
 about-webrtc-raw-cand-section-hide-msg = Plate candidâts no elaborâts
     .title = Cliche par ridusi la sezion
 about-webrtc-priority = Prioritât
-about-webrtc-fold-show-msg = mostre detais
-    .title = cliche par slargjâ la sezion
-about-webrtc-fold-hide-msg = plate detais
-    .title = cliche par ridusi la sezion
 about-webrtc-fold-default-show-msg = Mostre detais
     .title = Cliche par slargjâ la sezion
 about-webrtc-fold-default-hide-msg = Plate detais
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Furnît
 # been provided
 about-webrtc-configuration-element-not-provided = No furnît
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Preferencis WebRTC configuradis dal utent
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Configurazion WebRTC modificade dal utent
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Statistichis fotograms video - iD MediaStreamTrack: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = pagjine salvade in:{ $path }
-about-webrtc-debug-mode-off-state-msg = regjistri de rie disponibil in: { $path }
-about-webrtc-debug-mode-on-state-msg = modalitât debug ative. Regjistri de rie in: { $path }
-about-webrtc-aec-logging-off-state-msg = i files regjistrâts a si cjatin in: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

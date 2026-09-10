@@ -8,11 +8,8 @@ label-interventions = Sekkumised
 # Variables:
 #   $bug (string) - Bug number
 label-more-information = Rohkem teavet: Bug { $bug }
-label-overrides = Brauseri identifikaatori (User agent) ülekirjutamised
 text-disabled-in-about-config = See funktsionaalsus on about:config alt keelatud
 text-no-interventions = Sekkumisi ei kasutata
-text-no-overrides = Kasutaja identifikaatoreid ei kirjutata üle
-text-title = about:compat
 
 ## Do not translate "SmartBlock". For reference, SmartBlock is a feature
 ## of Firefox anti-tracking which fixes website breakage caused when

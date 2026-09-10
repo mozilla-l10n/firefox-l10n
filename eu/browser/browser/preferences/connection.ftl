@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Konexio-ezarpenak
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Konexio-ezarpenak
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Berritu
     .accesskey = B
-connection-proxy-autologin =
-    .label = Ez eskatu autentifikaziorik pasahitza gordeta badago
-    .accesskey = i
-    .tooltip = Aukera honek proxy-etarako autentifikazioa isilean burutzen du hauentzat kredentzialak gorde dituzunean. Autentifikazioak huts egiten badu, eskatu egingo zaizu.
 connection-proxy-autologin-checkbox =
     .label = Ez eskatu autentifikaziorik pasahitza gordeta badago
-    .accesskey = i
     .tooltiptext = Aukera honek proxy-etarako autentifikazioa isilean burutzen du hauentzat kredentzialak gorde dituzunean. Autentifikazioak huts egiten badu, eskatu egingo zaizu.
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = Bideratu DNSa proxy bidez SOCKS v4 erabiltzean
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Erabili URL lehenetsia HTTPS gaineko DNSa ebazteko
 connection-dns-over-https-url-custom =
     .label = Pertsonalizatua
-    .accesskey = P
     .tooltiptext = Idatzi HTTPS gaineko DNSa ebazteko hobetsitako URLa
-connection-dns-over-https-custom-label = Pertsonalizatua
+    .accesskey = P

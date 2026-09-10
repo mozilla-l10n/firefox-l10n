@@ -16,10 +16,6 @@ fxviewtabrow-dismiss-tab-button =
     .title = رد کردن { $tabTitle }
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = همین حالا
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 # “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
 fxviewtabrow-add-bookmark = نشانک
     .accesskey = ن

@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = အကောင့်ဝင်ရောက်မှုနှင့် စကားဝှက်များ
 fxaccounts-sign-in-text = သင် ၏ အခြား ကိရိယာ များမှ စကားဝှက်ကိုရယူပါ
 fxaccounts-sign-in-sync-button = တစ်ပြေးညီဖြစ်စေရန် ဝင်ရောက်ပါ
 fxaccounts-avatar-button =
@@ -16,8 +15,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = အခြား ဘရောင်ဇာ မှ တင်သွင်းရန်...
 about-logins-menu-menuitem-import-from-a-file = ဖိုင်မှ တင်သွင်းရန်...
-about-logins-menu-menuitem-export-logins = ဝင်ရောက်မှုများ ထုတ်ပို့ရန်...
-about-logins-menu-menuitem-remove-all-logins = အကောင့်၀င်ရောက်မှုများအားလုံးကိုဖယ်ရှားပါ…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ရွေးချယ်စရာများ
@@ -29,12 +26,6 @@ about-logins-menu-menuitem-help = အကူအညီ
 
 login-list =
     .aria-label = ရှာဖွေသော စကားလုံး နှင့် တူညီ သည့် လော့ဂ်အင်များ
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-       *[other] လော့ဂ်အင် { $count } ခု
-    }
 login-list-sort-label-text = ဖြင့် စဥ်ရန်:
 login-list-name-option = အမည် (က - အ)
 login-list-name-reverse-option = အမည်( အ-က)
@@ -43,12 +34,8 @@ login-list-username-reverse-option = အမည်(ဇက်-အေ)
 about-logins-login-list-alerts-option = သတိပေးချက်
 login-list-last-changed-option = နောက်ဆုံး ပြုပြင်ထားမှုများ
 login-list-last-used-option = နောက်ဆုံး သုံးထား‌သော
-login-list-intro-title = လော့အင် မတွေ့သည်များ
 login-list-intro-description = { -brand-product-name } တွင် စကားဝှက်တစ်ခု သိမ်းလိုက်ပါက ဒီနေရာတွင် ဖော်ပြပါမည်။
-about-logins-login-list-empty-search-title = လော့အင် မတွေ့သည်များ
 about-logins-login-list-empty-search-description = သင် ရှာလိုသည် နှင့် ကိုက်ညီသော ရလဒ် မရှိပါ။
-login-list-item-title-new-login = လော့အင် အသစ်
-login-list-item-subtitle-new-login = သင် ၏ အထောက်အထား လော့အင် ကို ရိုက်သွင်းပါ
 login-list-item-subtitle-missing-username = (အသုံးပြုသူအမည် မရှိ)
 about-logins-list-item-breach-icon =
     .title = ချိုးဖောက်ခံရသောဝက်ဘ်ဆိုက်
@@ -61,14 +48,8 @@ about-logins-list-section-today = ဒီနေ့
 about-logins-list-section-yesterday = မနေ့
 about-logins-list-section-week = လွန်ခဲ့သော ၇ ရက်က
 
-## Introduction screen
-
-about-logins-login-intro-heading-logged-in = ထပ်တူပွားထားသည့် လော့အင်များ မတွေ့ပါ။
-login-intro-description = အကယ်၍ သင် သည် အခြားစက်ကိရိယာ ၏ { -brand-product-name } တွင် လော့အင်များ သိမ်းထားလျှင် ၎င်း တို့ကို ဤနေရာသို့ မည်သို့ ရောက်အောင် ယူရမည်ကို ဤတွင် ရှု့း
-
 ## Login
 
-login-item-new-login-title = လော့အင် အသစ်ဖန်တီးပါ
 login-item-edit-button = တည်းဖြတ်
 about-logins-login-item-remove-button = ဖယ်ရှား
 login-item-origin-label = ဝဘ်ဆိုက်လိပ်စာ
@@ -84,7 +65,6 @@ login-item-password-reveal-checkbox =
     .aria-label = စကားဝှက် ပြ
 login-item-copy-password-button-text = ကူးယူပါ
 login-item-copied-password-button-text = ကူးပြီးပြီ
-login-item-save-changes-button = ပြောင်းလဲမှုများကို သိမ်းပါ
 login-item-save-new-button = သိမ်းရန်
 login-item-cancel-button = ပယ်​ဖျက်ပါ
 
@@ -96,20 +76,12 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = သင်၏ ဝင်ရောက်မှတ်စု ကို ပြင်ဆင်ရန် သင် ၏ Windows ဝင်ရောက်မှု အထောက်အထား ကိုရိုက်ထည့်ပေးပါ။ ဒါက သင့် အကောင့် လုံခြုံရေး ဆိုင်ရာအကာအကွယ် အဖြစ် ကူညီပါလိမ့်မည်။
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = သိမ်းထားသော ဝင်ရောက်မှု ကိုပြင်ဆင်ရန်
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = သိမ်းဆည်းထားသောစကားဝှက်ကိုထုတ်ဖေါ်ပါ
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = သိမ်းဆည်းထားသောစကားဝှက်ကိုကူးယူပါ
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = သိမ်းဆည်းထားသောဝင်ရောက်မှုများ နှင့် စကားဝှက်များကို ထုတ်ပို့ရန်
 
 ## Primary Password notification
 
@@ -122,15 +94,10 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = ပယ်ဖျက်
 confirmation-dialog-dismiss-button =
     .title = ပယ်ဖျက်
-about-logins-confirm-remove-dialog-title = ဤ ဝင်ရောက်မှု ကို ဖယ်ရှားမှာလား။
-confirm-delete-dialog-message = ဤ လုပ်ဆောင်မှုကို နောက်ပြန်ဆုတ် ၍ မရပါ။
 about-logins-confirm-remove-dialog-confirm-button = ဖယ်ရှားပါ
 
 ##
 
-about-logins-confirm-export-dialog-title = ဝင်ရောက်မှုများ နှင့် စကားဝှက်များကို ထုတ်ပို့ရန်
-about-logins-confirm-export-dialog-message = သင်၏ စကားဝှက်များကို ဖတ်နိုင်သည့်စာသား အဖြစ် (ဥပမာ - BadP@ssw0rd) သိမ်းဆည်းလိမ့်မည် သို့ပါသောကြောင့် ထုတ်ပို့ ထားသောဖိုင် ကို ဖွင့်ကာ မည်သူမဆို မြင်နိုင်လိမ့်မည်။
-about-logins-confirm-export-dialog-confirm-button = ထုတ်ပို့...
 confirm-discard-changes-dialog-title = မသိမ်းရသောသော ပြောင်းလဲမှုများကို ပယ်ဖျက်မှာလား?
 confirm-discard-changes-dialog-message = မသိမ်းဆည်းရသေးသော အပြောင်းအလဲများအားလုံး ပျောက်ဆုံးပါလိမ့်မည်။
 confirm-discard-changes-dialog-confirm-button = ပယ်ဖျက်
@@ -165,11 +132,6 @@ about-logins-error-message-default = ဤ စကားဝှက်ကို သ�
 
 ## Login Export Dialog
 
-# Title of the file picker dialog
-about-logins-export-file-picker-title = ဝင်ရောက်မှု ဖိုင်များ ထုတ်ပို့ရန်
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = ဝင်ရောက်မှုဖိုင်.csv
 about-logins-export-file-picker-export-button = ထုတ်ပို့ရန်
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -181,8 +143,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = ဝင်ရောက်မှု ဖိုင် တင်သွင်းရန်
 about-logins-import-file-picker-import-button = တင်သွင်း
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -208,8 +168,6 @@ about-logins-import-report-title = တင်သွင်းမှု အကျ�
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = အတန်း { $number }
-about-logins-import-report-row-description-modified = လက်ရှိအကောင့်ကို အပ်ဒိတ်လုပ်ထားသည်။
-about-logins-import-report-row-description-added = အကောင့်အသစ်ထည့်ထားသည်။
 about-logins-import-report-row-description-error = အမှား- နေရာပျောက်နေသည်။
 
 ##

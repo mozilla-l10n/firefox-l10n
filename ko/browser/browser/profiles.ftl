@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name }는 가장 최근에 사용한 프로필을 엽니다.
 profile-window-create-profile = 프로필 만들기
 profile-card-edit-button =
-    .title = 프로필 편집
     .aria-label = 프로필 편집
+    .title = 프로필 편집
 profile-card-delete-button =
-    .title = 프로필 삭제
     .aria-label = 프로필 삭제
+    .title = 프로필 삭제
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = { $profileName } 열기
     .aria-label = { $profileName } 열기
+    .title = { $profileName } 열기
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = 프로필 { $number }개
@@ -83,9 +83,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = { $profilename } 프로필 삭제
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = { $profilename } 프로필을 삭제하시겠습니까?
 delete-profile-description = { -brand-short-name }가 다음 데이터를 이 기기에서 영구적으로 삭제합니다:
 # Open is an adjective, as in "browser windows currently open".
@@ -112,28 +109,10 @@ delete-profile-confirm = 삭제
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = 밝게
-# The default dark theme
-profiles-dark-theme = 어둡게
 # The default system theme
 profiles-system-theme = 시스템
 profiles-system-theme-title =
     .title = 시스템 테마 적용
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = 노란색 금잔화
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = 연한 라벤더
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = 민트 그린
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = 목련 분홍색
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = 바다 파랑
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = 벽돌 빨강
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = 이끼 녹색
 profiles-gray-theme = 회색
 profiles-gray-theme-title =
     .title = 회색 테마 적용
@@ -290,9 +269,6 @@ profiles-appmenu-callout-tour-subtitle = ☰ 메뉴에서 프로필 이름을 �
 profiles-appmenu-callout-tour-primary-button = 사용법 보기
 barbell-avatar = 바벨
 bike-avatar = 자전거
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = 바벨 아바타 적용
 bike-avatar-tooltip =

@@ -246,8 +246,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = രൂപരേഖകൾ
 menu-profiles-manage-profiles =
     .label = രൂപരേഖകളെ കൈകാര്യം ചെയ്യുക
 menu-profiles-new-profile =
@@ -264,9 +262,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = വിപുലീകരണങ്ങളും അലങ്കാരങ്ങളും
     .accesskey = വ
-menu-tools-addons-and-themes =
-    .label = ആഡ്-ഓണുകളും അലങ്കാരുകളും
-    .accesskey = ആ
 menu-tools-fxa-sign-in2 =
     .label = പ്രവേശിക്കുക
     .accesskey = പ
@@ -311,8 +306,6 @@ menu-help =
 menu-get-help =
     .label = പിന്തുണ തേടുക
     .accesskey = പ
-menu-help-report-site-issue =
-    .label = സൈറ്റ് ഇഷ്യു റിപ്പോർട്ട് ചെയ്യുക…
 menu-help-share-ideas =
     .label = ഊഹങ്ങളും പ്രതികരണവും നൽകുക
     .accesskey = ന

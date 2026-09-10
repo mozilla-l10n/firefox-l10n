@@ -5,6 +5,3 @@
 popup-notification-learn-more = Ne saber mai
 popup-notification-more-actions-button =
     .aria-label = Mai d’accions
-popup-notification-default-button =
-    .label = Òc !
-    .accesskey = O

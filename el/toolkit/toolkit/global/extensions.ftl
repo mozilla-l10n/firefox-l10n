@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Προσθήκη του «{ $extension }»;
-webext-perms-header-with-perms = Προσθήκη του «{ $extension }»; Αυτή η επέκταση θα έχει την άδεια για:
-webext-perms-header-unsigned = Προσθήκη του «{ $extension }»; Αυτό το πρόσθετο δεν είναι επαληθευμένο. Τα κακόβουλα πρόσθετα μπορούν να υποκλέψουν τις προσωπικές σας πληροφορίες ή να θέσουν σε κίνδυνο τον υπολογιστή σας. Προσθέστε το μόνο εάν εμπιστεύεστε την προέλευσή του.
-webext-perms-header-unsigned-with-perms = Προσθήκη του «{ $extension }»; Αυτό το πρόσθετο δεν είναι επαληθευμένο. Τα κακόβουλα πρόσθετα μπορούν να υποκλέψουν τις προσωπικές σας πληροφορίες ή να θέσουν σε κίνδυνο τον υπολογιστή σας. Προσθέστε το μόνο εάν εμπιστεύεστε την προέλευσή του. Η επέκταση θα έχει την άδεια για:
 webext-perms-sideload-header = Το { $extension } προστέθηκε
 webext-perms-optional-perms-header2 = Το { $extension } απαιτεί επιπρόσθετα δικαιώματα
-webext-perms-optional-perms-header = Το { $extension } απαιτεί επιπρόσθετα δικαιώματα.
 webext-perms-header2 = Προσθήκη του «{ $extension }»
 webext-perms-list-intro-unsigned = Αυτή η μη επαληθευμένη επέκταση μπορεί να θέσει το απόρρητό σας ή τη συσκευή σας σε κίνδυνο. Προσθέστε το μόνο αν εμπιστεύεστε την πηγή.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = Το { $extension } έχει ενημερωθεί. Πρέπει να εγκρίνετε νέα δικαιώματα πριν εγκατασταθεί η ενημερωμένη έκδοση. Αν επιλέξετε «Ακύρωση», θα διατηρηθεί η τρέχουσα έκδοση του προσθέτου.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = Το { $extension } έχει ενημερωθεί. Πρέπει να εγκρίνετε τα νέα δικαιώματα πριν εγκατασταθεί η ενημερωμένη έκδοση. Αν επιλέξετε «Ακύρωση», θα διατηρηθεί η τρέχουσα έκδοση της επέκτασης. Η επέκταση θα έχει την άδεια για:
 webext-perms-update-accept =
     .label = Ενημέρωση
     .accesskey = Ε
@@ -73,24 +65,8 @@ webext-perms-host-description-file-urls = Πρόσβαση σε τοπικά α�
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Πρόσβαση στα δεδομένα σας για ιστοτόπους στον τομέα { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Πρόσβαση στα δεδομένα σας σε { $domainCount } ακόμα τομέα
-       *[other] Πρόσβαση στα δεδομένα σας για { $domainCount } ακόμα τομείς
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Πρόσβαση στα δεδομένα σας για το { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Πρόσβαση στα δεδομένα σας σε { $domainCount } ακόμα ιστότοπο
-       *[other] Πρόσβαση στα δεδομένα σας σε { $domainCount } ακόμα ιστοτόπους
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

@@ -151,15 +151,10 @@ addon-sitepermission-host = Ceadan na làraich airson { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Chaidh a h-uile tuilleadan a chur à comas leis a' mhodh sàbhailte.
-extensions-warning-check-compatibility = Chaidh an sgrùdadh air co-chòrdalachd nan tuilleadain a chur à comas. Dh'fhaodadh gu bheil tuilleadan agad nach eil co-chòrdail.
-extensions-warning-safe-mode2 =
-    .message = Chaidh a h-uile tuilleadan a chur à comas leis a' mhodh sàbhailte.
 extensions-warning-check-compatibility2 =
     .message = Chaidh an sgrùdadh air co-chòrdalachd nan tuilleadain a chur à comas. Dh'fhaodadh gu bheil tuilleadan agad nach eil co-chòrdail.
 extensions-warning-check-compatibility-button = Cuir an comas
     .title = Cuir an comas sgrùdadh co-chòrdalachd nan tuilleadan
-extensions-warning-update-security = Chaidh an sgrùdadh tèarainteachd air ùrachadh nan tuilleadain a chur à comas. Dh'fhaodadh gun cuir ùrachaidhean cron ort.
 extensions-warning-update-security2 =
     .message = Chaidh an sgrùdadh tèarainteachd air ùrachadh nan tuilleadain a chur à comas. Dh'fhaodadh gun cuir ùrachaidhean cron ort.
 extensions-warning-update-security-button = Cuir an comas
@@ -223,10 +218,6 @@ shortcuts-duplicate = Ath-ghoirid dhùblaichte
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = Tha { $shortcut } ’ga chleachdadh ’na ath-ghoirid do dh’iomadh rud. Adhbharaichidh ath-ghoiridean dùblaichte giùlan ris nach eilear an dùil.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = Tha { $shortcut } ’ga chleachdadh ’na ath-ghoirid do dh’iomadh rud. Adhbharaichidh ath-ghoiridean dùblaichte giùlan ris nach eilear an dùil.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -248,19 +239,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Tha leudachain is ùrlaran coltach ri aplacaidean dhan bhrabhsair agad agus leigidh iad leat
-    faclan-faire a dhìon, videothan a luchdadh a-nuas, bargain a lorg, sanasachd sàrachail a bhacadh,
-    an coltas air a’ bhrabhsair agad atharrachadh is mòran a bharrachd. Tha na prògraman bathair-bhog
-    beaga seo ’gan leasachadh le treas-phàrtaidh gu tric. Seo roghadh is taghadh a tha
-    { -brand-product-name } <a data-l10n-name="learn-more-trigger">a’ moladh</a> airson
-    tèarainteachd, dèanadas is gleusan nas fheàrr.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    Tha cuid dhe na molaidhean seo pearsanaichte. Tha iad stèidhichte air leudachain
-    eile a stàlaich thu, roghainnean na pròifil is stadastaireachd a’ chleachdaidh.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -328,16 +306,9 @@ addon-detail-last-updated-label = Ùrachadh mu dheireadh
 addon-detail-homepage-label = Duilleag-dhachaigh
 addon-detail-rating-label = Rangachadh
 # Message for add-ons with a staged pending update.
-install-postponed-message = Thèid an leudachan seo ùrachadh nuair a thèid { -brand-short-name } ath-thòiseachadh.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Thèid an leudachan seo ùrachadh nuair a thèid { -brand-short-name } ath-thòiseachadh.
 install-postponed-button = Ùraich an-dràsta
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Rangachadh { NUMBER($rating, maximumFractionDigits: 1) } à 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -357,9 +328,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = Chaidh <span data-l10n-name="addon-name">{ $addon }</span> a thoirt air falbh.
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = Chaidh { $addon } a thoirt air falbh.
 pending-uninstall-undo-button = Neo-dhèan
@@ -373,11 +341,6 @@ install-update-button = Ùraich
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
     .title = Ceadaichte ann an uinneagan prìobhaideach
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
-    .title = Ceadaichte ann an uinneagan prìobhaideach
 addon-detail-private-browsing-help = Ma fhuair e cead, gheibh an leudachan cothrom air a’ ghnìomhachd air loidhne agad nuair a bhios tu ri brabhsadh prìobhaideach. <a data-l10n-name="learn-more">Barrachd fiosrachaidh</a>
 addon-detail-private-browsing-allow = Ceadaich
 addon-detail-private-browsing-disallow = Na ceadaich
@@ -385,17 +348,6 @@ addon-detail-private-browsing-disallow = Na ceadaich
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = Cha mhol { -brand-product-name } ach leudachain a choileanas na stannardan againn a thaobh tèarainteachd is dèanadas
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Leudachan oifigeil le Mozilla. Tha e a’ coileanadh nan stannardan a thaobh tèarainteachd is dèanadas
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Chaidh an leudachan seo a sgrùdadh is tha e a’ coileanadh nan stannardan againn a thaobh tèarainteachd is dèanadas
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -407,9 +359,6 @@ available-updates-heading = Ùrachaidhean a tha ri am faighinn
 recent-updates-heading = Na chaidh ùrachadh o chionn goirid
 release-notes-loading = ’Ga luchdadh…
 release-notes-error = Tha sinn duilich ach thachair mearachd rè luchdadh nan nòtaichean sgaoilidh.
-addon-permissions-empty = Chan eil an leudachan seo feumach air cead sam bith
-addon-permissions-required = Ceadan riatanach dha na bun-ghleusan:
-addon-permissions-optional = Ceadan roghainneil airson barrachd ghleusan:
 addon-permissions-learnmore = Barrachd fiosrachaidh mu cheadan
 recommended-extensions-heading = Leudachain a mholamaid
 recommended-themes-heading = Ùrlaran a mholamaid
@@ -443,25 +392,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = Chan eil { $name } co-chòrdail le { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = Chan eil { $name } co-chòrdail le { -brand-short-name } { $version }.
-details-notification-incompatible-link = Barrachd fiosrachaidh
-details-notification-unsigned-and-disabled = Cha b’ urrainn dhuinn { $name } a dhearbhadh a chum cleachdaidh ann an { -brand-short-name } agus chaidh a chur à comas.
 details-notification-unsigned-and-disabled2 =
     .message = Cha b’ urrainn dhuinn { $name } a dhearbhadh a chum cleachdaidh ann an { -brand-short-name } agus chaidh a chur à comas.
-details-notification-unsigned-and-disabled-link = Barrachd fiosrachaidh
-details-notification-unsigned = Cha b’ urrainn dhuinn { $name } a dhearbhadh a chum cleachdaidh ann an { -brand-short-name }. Bi faiceallach.
 details-notification-unsigned2 =
     .message = Cha b’ urrainn dhuinn { $name } a dhearbhadh a chum cleachdaidh ann an { -brand-short-name }. Bi faiceallach.
-details-notification-unsigned-link = Barrachd fiosrachaidh
-details-notification-blocked = Chaidh { $name } a chur à comas air sgàth adhbharan tèarainteachd no seasmhachd.
-details-notification-blocked-link = Barrachd fiosrachaidh
-details-notification-softblocked = Tha fhios gun adhbharaich { $name } duilgheadasan tèarainteachd is seasmhachd.
-details-notification-softblocked-link = Barrachd fiosrachaidh
-details-notification-gmp-pending = Thèid { $name } stàladh a dh'aithghearr.
 details-notification-gmp-pending2 =
     .message = Thèid { $name } stàladh a dh'aithghearr.
 

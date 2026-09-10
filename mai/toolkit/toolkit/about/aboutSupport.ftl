@@ -24,7 +24,6 @@ app-basics-profile-dir =
         [linux] प्रोफाइल निर्देशिका
        *[other] प्रोफाइल फोल्डर
     }
-app-basics-enabled-plugins = सक्रिय प्लगिन
 app-basics-build-config = बिल्ड विन्यास
 app-basics-user-agent = प्रयोक्ता प्रतिनिधि
 app-basics-memory-use = स्मृति के उपयोग

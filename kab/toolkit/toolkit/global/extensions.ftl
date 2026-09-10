@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Rnu { $extension }?
-webext-perms-header-with-perms = Rnu { $extension }? Asiɣzef-a ad yesεu tasiregt ɣer:
-webext-perms-header-unsigned = Rnu { $extension }? Asiɣzef-a ur yettwasenqed ara. Yir iseɣzaf zemren ad akren talɣut-ik·im tusligt neɣ ad d-glun s wayen n dir i uselkim-ik·im. Rnu-t kan ma yella tettekleḍ ɣef uɣbalu-ines.
-webext-perms-header-unsigned-with-perms = Rnu { $extension }? Asiɣzef-a ur yettwasenqed ara. Yir iseɣzaf zemren ad akren talɣut-ik·im tusligt neɣ ad d-glun s wayen n dir i uselkim-ik·im. Rnu-t kan ma yella tettekleḍ ɣef uɣbalu-ines. Asiɣzef-a ad yesεu tasiregt ɣer:
 webext-perms-sideload-header = { $extension } ittwarna
 webext-perms-optional-perms-header2 = { $extension } yesra tisirag niḍen
-webext-perms-optional-perms-header = { $extension } yesra tisirag-nniḍen
 webext-perms-header2 = Rnu { $extension }
 
 ## Headers used in the webextension permissions dialog, inside the content.
@@ -53,9 +48,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } ittwalqem.Issefk ad tqebleḍ tisirag timaynutin akken ad tesbeddeḍ lqem. Fren "Sefsex" akken ad teǧǧeḍ lqem n tura n usiɣzef.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } ittwalqem. Issefk ad tqebleḍ tisirag timaynutin send ad tesbeddeḍ lqem yettwalleqmen. Afran n "Sefsex" ad yeǧǧ lqem n usiɣzef-a amiran. Asiɣzef-a ad yesεu tasiregt ɣer:
 webext-perms-update-accept =
     .label = Lqem
     .accesskey = L
@@ -71,24 +63,8 @@ webext-perms-host-description-all-urls = Kcem ɣer yisefka-inek deg akk ismal-in
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Kcem ɣer yisefka-inek i yismal di taɣult { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Kcem ɣer yisefka deg { $domainCount } taɣult-nniḍen
-       *[other] Kcem ɣer yisefka deg { $domainCount } tiɣula-nniḍen
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Kcem ɣer yisefka-inek deg { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Kcem ɣer yisefka-k deg { $domainCount } usmel-nniḍen
-       *[other] Kcem ɣer yisefka-k deg { $domainCount } yismal-nniḍen
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

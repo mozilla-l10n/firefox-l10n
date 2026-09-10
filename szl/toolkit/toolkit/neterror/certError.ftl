@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Certyfikat niyma zaufany, bo certyfikat wyst
 cert-error-trust-signature-algorithm-disabled = Certyfikat niyma zaufany, bo bōł podpisany algorytmym, co bōł zaszperowany, bo niyma bezpieczny.
 cert-error-trust-expired-issuer = Certyfikat niyma zaufany, bo certyfikat ôd wystowcy je już niyważny.
 cert-error-trust-self-signed = Certyfikat niyma zaufany, bo je samopodpisany.
-cert-error-trust-symantec = Certyfikaty wystawiane ôd GeoTrust, RapidSSL, Symantec, Thawte i Verisign niy sōm już uznowane za bezpieczne, bo te ôrganizacyje niy przestrzegały prawideł bezpieczyństwa.
 cert-error-untrusted-default = Certyfikat niy je ze zaufanego zdrzōdła.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -52,10 +51,6 @@ cert-error-code-prefix-link = Kod feleru: <a data-l10n-name="error-code-link">{ 
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Pokozoł sie feler przi łōnczyniu z { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Place potwiyrdzajōm swoja tożsamość bez certyfikaty wystawiane ôd ôrganizacyji certyfikowanio. Przeglōndarki z wiynksza niy ufajōm już certyfikatōm wystawianym ôd GeoTrust, RapidSSL, Symantec, Thawte i Verisign. Tożsamość tyj zajty niy może być potwiyrdzōno, bo dōmyna „{ $hostname }” używo certyfikatu ôd jednego z tych wystowcōw.
-cert-error-symantec-distrust-admin = Idzie powiadōmić administratora zajty ô tym problymie.
 cert-error-old-tls-version = Ta strōna może niy ôbsugować protokołu TLS 1.2, minimalnyj wersyje, co jōm ôbsuguje { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -64,7 +59,6 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Lyńcuch certyfikatu:
-open-in-new-window-for-csp-or-xfo-error = Ôtwōrz strōna we nowym ôknie
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Dlo twojigo bezpieczyństwa { $hostname } niy przizwolo aplikacyji { -brand-short-name } na pokozanie strōny, jeźli inkszo strōna trzimie jōm we rōmce. Żeby wejzdrzeć na ta strōna, musisz jōm ôtworzić we nowym ôknie.
@@ -97,7 +91,6 @@ redirectLoop-title = Strōna felernie przekerowuje
 unknownSocketType-title = Niyspodziywano ôdpowiydź ze serwera
 nssFailure2-title = Niypodarzōne bezpieczne połōnczynie
 csp-xfo-error-title = { -brand-short-name } niy może ôtworzić tyj strōny
-corruptedContentError-title = Feler: poprzniōno zawartość
 sslv3Used-title = Niy idzie sie bezpiecznie połōnczyć
 inadequateSecurityError-title = Twoje połōnczynie niy ma bezpieczne
 blockedByPolicy-title = Zaszperowano strōna

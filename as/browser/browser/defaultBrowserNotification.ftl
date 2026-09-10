@@ -15,7 +15,6 @@ default-browser-notification-button =
 default-browser-prompt-title-pin = { -brand-short-name }-ক আপোনাৰ প্ৰাথমিক ব্ৰাউজাৰ কৰিবনে?
 default-browser-prompt-message-pin = { -brand-short-name }-ক আপোনাৰ আঙুলিৰ মূৰত ৰাখক — ইয়াক আপোনাৰ ডিফ'ল্ট ব্ৰাউজাৰ কৰক আৰু আপোনাৰ টাস্কবাৰত পিন কৰক।
 default-browser-prompt-message-pin-mac = { -brand-short-name }-ক আপোনাৰ আঙুলিৰ মূৰত ৰাখক — ইয়াক আপোনাৰ ডিফ'ল্ট ব্ৰাউজাৰ কৰক আৰু আপোনাৰ "ডক"ত ৰাখক।
-default-browser-prompt-button-primary-pin = প্ৰাথমিক ব্ৰাউজাৰ কৰক
 default-browser-prompt-title-alt = { -brand-short-name }-ক আপোনাৰ ডিফ'ল্ট ব্ৰাউজাৰ কৰিবনে?
 default-browser-prompt-message-alt = আপুনি যেইবাৰেই ব্ৰাউজ কৰে সেইবাৰেই দ্ৰুততা, সুৰক্ষা আৰু গোপনীয়তা লাভ কৰক।
 default-browser-prompt-button-primary-alt = ডিফ'ল্ট ব্ৰাউজাৰৰূপে ছেট কৰক

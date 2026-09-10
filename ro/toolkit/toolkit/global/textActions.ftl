@@ -84,10 +84,6 @@ text-action-copy-clean-link-to-highlight =
 # visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-highlight =
     .label = Elimină evidențierile
-# If the page has been loaded with a text fragment and text is
-# visibly highlighted, this removes any highlighted sections on the page.
-text-action-remove-all-highlights =
-    .label = Elimină toate evidențierile
 profile-window-menu-edit =
     .label = Editare
     .accesskey = E

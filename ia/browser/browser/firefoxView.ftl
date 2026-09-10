@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Vider le navigation recente inter fenestras e apparatos
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Clauder
-    .aria-label = Clauder
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Justo ora
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Reprender schedas
-firefoxview-tabpickup-description = Aperi paginas de altere apparatos.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% complete
-firefoxview-tabpickup-step-signin-header = Passar facilemente inter apparatos
-firefoxview-tabpickup-step-signin-description = Pro transferer le schedas de tu telephono ci, primo aperi session o crea un conto.
-firefoxview-tabpickup-step-signin-primarybutton = Continuar
 firefoxview-syncedtabs-signin-header-2 = Tu { -brand-product-name } sur tote tu apparatos
 firefoxview-syncedtabs-signin-description-2 = Pro vider le schedas que tu ha aperite sur tu telephono e altere apparatos, accede o inscribe te al un conto. Con un conto, tu alsi pote synchronisar tu contrasignos, chronologia, e altero.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = De portabile a telephono, perfectemente
 firefoxview-syncedtabs-signin-description-3 = Mantene tu navigation connexe a transverso apparatos, schedas, contrasignos, e chronologia, toto in synchronia.
 firefoxview-syncedtabs-signin-primarybutton-2 = Aperir session
-firefoxview-tabpickup-adddevice-header = Synchronisa { -brand-product-name } sur tu telephono e tu tabletta
-firefoxview-tabpickup-adddevice-description = Discarga { -brand-product-name } pro apparatos mobile e aperi session illac.
-firefoxview-tabpickup-adddevice-learn-how = Apprende como
-firefoxview-tabpickup-adddevice-primarybutton = Installa { -brand-product-name } pro mobile
 firefoxview-syncedtabs-adddevice-header-2 = Recupera tu schedas ab ubique
 firefoxview-syncedtabs-adddevice-description-2 = Accede a { -brand-product-name } sur tu telephono o un altere computator pro vider le schedas ci. Apprende a <a data-l10n-name="url">connecter altere apparatos</a>
 firefoxview-syncedtabs-adddevice-primarybutton = Discoperi { -brand-product-name } pro mobile
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Tu schedas appellate. Illos es sur tu telephono.
 firefoxview-syncedtabs-adddevice-description-3 = Scande le codice QR pro obtener { -brand-product-name } pro apparato mobile, initia a synchronisar tu schedas aperte e plus. Apprende a <a data-l10n-name="url">connecter altere apparatos</a>.
-firefoxview-tabpickup-synctabs-header = Activar synchronisation schedas
-firefoxview-tabpickup-synctabs-description = Permitte a { -brand-short-name } de compartir schedas inter apparatos.
-firefoxview-tabpickup-synctabs-learn-how = Apprender como
 firefoxview-tabpickup-synctabs-primarybutton = Synchronisar le schedas aperte
 firefoxview-tabpickup-synctabs-primarybutton-2 = Activar synchronisation schedas
 firefoxview-syncedtabs-synctabs-header = Actualisa tu parametros de synchronisation
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Quando illo es facite, tu videra ul
 firefoxview-syncedtabs-loading-header-2 = Recuperation de tu schedas…
 firefoxview-syncedtabs-loading-description-2 = Synchronisation in curso.  Le schedas sera ci tosto.
 firefoxview-tabpickup-fxa-admin-disabled-header = Tu organisation ha disactivate le synchronisation
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } non pote synchronisar schedas inter apparatos perque tu administrator ha disactivate le synchronisation.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } non pote synchronisar schedas inter apparatos perque tu organisation ha disactivate le synchronisation.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Le synchronisation del schedas es disactivate
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Tu organisation blocava iste function.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Disbloca schedas con tu contrasigno primari
 firefoxview-tabpickup-password-locked-description-2 = Pro tu confidentialitate, le schedas synchronisate es protegite.  Insere tu contrasigno primari de { -brand-short-name } prp vider schedas ab tu altere dispositivos.
 firefoxview-tabpickup-signed-out-header = Accede pro reconnecter te
-firefoxview-tabpickup-signed-out-description = Pro reconnecter te e recuperar tu schedas, accede a tu { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Pro reconnecter te e recuperar tu schedas, accede a tu conto.
 firefoxview-tabpickup-signed-out-primarybutton = Acceder
 firefoxview-tabpickup-signed-out-header-2 = Accede pro vider tu schedas
 firefoxview-tabpickup-signed-out-description-2 = Reconnecter se pro vider schedas de altere dispositivos.
-firefoxview-tabpickup-syncing = Sia patiente durante que tu schedas se synchronisa. Isto prendera solo un momento.
-firefoxview-mobile-promo-header = Accede al schedas aperte ab tu telephono o tabletta
-firefoxview-mobile-promo-description = Pro vider tu ultime schedas mobile, accede a { -brand-product-name } sur iOS o Android.
-firefoxview-mobile-promo-primarybutton = Installa { -brand-product-name } pro mobile
-firefoxview-mobile-confirmation-header = 🎉 Bon a ir!
-firefoxview-mobile-confirmation-description = Ora tu pote acceder tu schedas de { -brand-product-name } ab tu tabletta o telephono.
-firefoxview-closed-tabs-title = Recentemente claudite
-firefoxview-closed-tabs-description2 = Reaperi paginas que tu ha claudite in iste fenestra.
-firefoxview-closed-tabs-placeholder-header = Nulle schedas recentemente claudite
-firefoxview-closed-tabs-placeholder-body = Quando tu claude un scheda in iste fenestra, tu pote cercar lo de ci.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Dismitter { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Ultime active
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Aperir { $targetURI } in un nove scheda
-firefoxview-try-colorways-button = Prova combinationes de colores
-firefoxview-change-colorway-button = Cambiar combination de colores
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Nihil a vider ancora
-firefoxview-synced-tabs-placeholder-body = Le le proxime vice que tu aperi un pagina in { -brand-product-name } sur un altere apparato, sasi lo ci magicamente.
 firefoxview-collapse-button-show =
     .title = Monstrar lista
 firefoxview-collapse-button-hide =

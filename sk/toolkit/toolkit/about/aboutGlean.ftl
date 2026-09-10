@@ -41,13 +41,10 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-additional-links = Vysvetlenie rôznych spôsobov zaznamenávania a vyhľadávania údajov nájdete na karte <strong>O údajoch</strong>.
-about-glean-about-testing-header = O testovaní
 # This message is followed by a numbered list.
 about-glean-manual-testing = Úplné pokyny sú zdokumentované v <a data-l10n-name="fog-instrumentation-test-doc-link">dokumentácii { -fog-brand-name } na inštrumentačné testovanie</a> a v <a data-l10n-name="glean-sdk-doc-link">dokumentácii { glean-sdk-brand-name }</a>, ale ak chcete manuálne otestovať, či vaše inštrumentačné testovanie funguje, vykonajte nasledovné:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (neodosielajte žiadny ping)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Uistite sa, že v tomto poli je zapamätateľná značka ladenia, aby ste mohli neskôr rozpoznať svoje pingy.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Nastavte si zapamätateľnú značku ladenia <span>(najviac 20 znakov, len alfanumerické znaky a pomlčky)</span>, aby ste neskôr vedeli rozpoznať svoje pingy.
 # An in-line drop down list precedes this string.
@@ -62,8 +59,6 @@ about-glean-label-for-controls-submit =
     Stlačením tohto tlačidla označíte všetky pingy nástroja { -glean-brand-name } vašou značkou a odošlite vybratý ping.
     (Všetky pingy odoslané odvtedy až do reštartovania aplikácie budú označené značkou <code>{ $debug-tag }</code>.)
 about-glean-li-for-visit-gdpv = <a data-l10n-name="gdpv-tagged-pings-link">Navštívte stránku { glean-debug-ping-viewer-brand-name }, kde nájdete ping s vašou značkou</a>. Od stlačenia tlačidla po príchod pingu by to nemalo trvať dlhšie ako niekoľko sekúnd. Niekedy to môže trvať niekoľko minút.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation = Pre ďalšie <i>ad hoc</i> testovanie môžete tiež určiť aktuálnu hodnotu konkrétnej časti inštrumentácie otvorením konzoly devtools tu na stránke <code>about:glean</code> a použitím API <code>testGetValue()</code> ako <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     Pre ďalšie <i>ad hoc</i> testovanie
@@ -149,9 +144,6 @@ about-glean-no-data-to-display = Žiadne údaje na zobrazenie.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Metriky <code>DualLabeledCounter</code> zatiaľ nie sú podporované v zobrazení <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Neznámy typ metriky.
-about-glean-about-data-explanation =
-    Ak chcete prechádzať zoznamom zhromaždených údajov, pozrite si
-    <a data-l10n-name="glean-dictionary-link">Slovník nástroja { -glean-brand-name }</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

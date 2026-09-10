@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Претражи лозинке
-    .key = F
     .aria-label = Претражи лозинке
+    .key = F
+    .placeholder = Претражи лозинке
 contextual-manager-menu-more-options-button =
     .title = Више опција
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Увези из датотеке�
 contextual-manager-passwords-command-export = Извези лозинке
 contextual-manager-passwords-command-remove-all = Уклони све лозинке
 contextual-manager-passwords-command-options = Опције
-contextual-manager-passwords-command-settings = Подешавања
 contextual-manager-passwords-command-help = Помоћ
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -54,10 +53,6 @@ contextual-manager-passwords-import-file-picker-csv-filter-title = CSV дато�
 contextual-manager-passwords-import-file-picker-tsv-filter-title = TSV датотека
 contextual-manager-passwords-import-success-heading =
     .heading = Лозинке су увезене
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Ново: { $added }, ажурирано: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -213,8 +208,6 @@ contextual-manager-passwords-create-label =
     .label = Додај лозинку
 contextual-manager-passwords-update-label =
     .label = Ажурирај лозинку
-contextual-manager-passwords-edit-label =
-    .label = Уреди лозинку
 contextual-manager-passwords-remove-label =
     .title = Уклони лозинку
 contextual-manager-passwords-origin-field =
@@ -230,7 +223,6 @@ contextual-manager-passwords-password-field-description = Унесите лоз�
 contextual-manager-passwords-origin-tooltip = Унесите тачну адресу са које ћете се пријавити на овај сајт.
 contextual-manager-passwords-username-tooltip = Унесите корисничко име, адресу е-поште или број налога који користите за пријаву.
 contextual-manager-passwords-password-tooltip-2 = Унесите лозинку да бисте се пријавили на овај налог.
-contextual-manager-passwords-password-tooltip = Унесите лозинку која се користи за пријављивање на овај налог.
 
 ## Password Card
 
@@ -277,10 +269,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Копирај лозинку (Упозорење)
 contextual-manager-edit-login-button = Уреди
     .tooltiptext = Уреди лозинку
-contextual-manager-view-alert-heading =
-    .heading = Прикажи упозорење
-contextual-manager-view-alert-button =
-    .tooltiptext = Прегледај упозорење
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -311,13 +299,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Нема пронађених лозинки
 contextual-manager-passwords-no-passwords-found-message-2 = Покушајте са другим термином и потражите поново.
-contextual-manager-passwords-no-passwords-found-message = Нема пронађених лозинки. Претражите други појам и покушајте поново.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Сачувајте ваше лозинке на сигурном месту.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Све лозинке су шифроване и пратићемо могућа цурења и упозорења ако будете погођени.

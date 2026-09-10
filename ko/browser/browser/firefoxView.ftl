@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = 여러 창과 기기에서 최근 탐색 보기
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = 닫기
-    .aria-label = 닫기
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = 방금 전
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = 탭 받기
-firefoxview-tabpickup-description = 다른 기기의 페이지를 엽니다.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% 완료
-firefoxview-tabpickup-step-signin-header = 기기 간 원활한 전환
-firefoxview-tabpickup-step-signin-description = 여기에서 휴대폰 탭을 보려면, 먼저 로그인하거나 계정을 만드세요.
-firefoxview-tabpickup-step-signin-primarybutton = 계속
 firefoxview-syncedtabs-signin-header-2 = 모든 기기에 { -brand-product-name } 사용
 firefoxview-syncedtabs-signin-description-2 = 휴대폰 및 다른 기기에서 열려 있는 탭을 보려면, 계정에 로그인하거나 가입하세요. 계정을 사용하면 비밀번호, 기록 등을 동기화 할 수도 있습니다.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = 노트북에서 휴대폰까지, 원활하게
 firefoxview-syncedtabs-signin-description-3 = 기기 간 탐색 연결 유지 — 탭, 비밀번호, 기록을 모두 동기화하세요.
 firefoxview-syncedtabs-signin-primarybutton-2 = 로그인
-firefoxview-tabpickup-adddevice-header = 휴대폰 또는 태블릿에서 { -brand-product-name } 동기화
-firefoxview-tabpickup-adddevice-description = 모바일용 { -brand-product-name }를 다운로드하고 로그인하세요.
-firefoxview-tabpickup-adddevice-learn-how = 방법 알아보기
-firefoxview-tabpickup-adddevice-primarybutton = 모바일용 { -brand-product-name } 받기
 firefoxview-syncedtabs-adddevice-header-2 = 어디서나 탭 가져오기
 firefoxview-syncedtabs-adddevice-description-2 = 여기에서 탭을 보려면 휴대폰이나 다른 컴퓨터에서 { -brand-product-name }에 로그인하세요. <a data-l10n-name="url">추가 기기 연결</a> 방법에 대해 알아보세요.
 firefoxview-syncedtabs-adddevice-primarybutton = 모바일용 { -brand-product-name } 사용해보기
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = 보시던 탭이 휴대폰에 있습니다.
 firefoxview-syncedtabs-adddevice-description-3 = QR 코드를 스캔하여 모바일용 { -brand-product-name }를 설치하고, 열려 있는 탭등을 동기화해 보세요. <a data-l10n-name="url">추가 기기 연결</a> 방법에 대해 알아보세요.
-firefoxview-tabpickup-synctabs-header = 탭 동기화 켜기
-firefoxview-tabpickup-synctabs-description = { -brand-short-name }가 기기 간에 탭을 공유하도록 허용합니다.
-firefoxview-tabpickup-synctabs-learn-how = 방법 알아보기
 firefoxview-tabpickup-synctabs-primarybutton = 열린 탭 동기화
 firefoxview-tabpickup-synctabs-primarybutton-2 = 탭 동기화 켜기
 firefoxview-syncedtabs-synctabs-header = 동기화 설정 업데이트
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = 완료되면, 다른 기기에서 �
 firefoxview-syncedtabs-loading-header-2 = 탭을 가져오는 중…
 firefoxview-syncedtabs-loading-description-2 = 동기화가 진행 중입니다. 곧 탭이 표시됩니다.
 firefoxview-tabpickup-fxa-admin-disabled-header = 조직에서 동기화를 사용하지 않도록 설정함
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name }는 관리자가 동기화를 비활성화했기 때문에 기기 간에 탭을 동기화할 수 없습니다.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name }는 조직이 동기화를 비활성화했기 때문에 기기 간에 탭을 동기화할 수 없습니다.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = 탭 동기화 꺼짐
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = 조직에서 이 기능을 차단했습니다.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = 기본 비밀번호로 탭 잠금 해제
 firefoxview-tabpickup-password-locked-description-2 = 개인 정보 보호를 위해 동기화된 탭은 보호됩니다. 다른 기기의 탭을 보려면 { -brand-short-name }의 기본 비밀번호를 입력하세요.
 firefoxview-tabpickup-signed-out-header = 다시 연결하려면 로그인하세요
-firefoxview-tabpickup-signed-out-description = 다시 연결하고 탭을 가져오려면 { -fxaccount-brand-name }에 로그인하세요.
 firefoxview-tabpickup-signed-out-description2 = 다시 연결하고 탭을 가져오려면 계정에 로그인하세요.
 firefoxview-tabpickup-signed-out-primarybutton = 로그인
 firefoxview-tabpickup-signed-out-header-2 = 탭을 보려면 로그인 하세요
 firefoxview-tabpickup-signed-out-description-2 = 다른 기기에서 탭을 보려면 다시 연결하세요.
-firefoxview-tabpickup-syncing = 잠깐이면 탭이 동기화됩니다.
-firefoxview-mobile-promo-header = 휴대폰 또는 태블릿에서 탭 가져오기
-firefoxview-mobile-promo-description = 최신 모바일 탭을 보려면, iOS 또는 Android에서 { -brand-product-name }에 로그인하세요.
-firefoxview-mobile-promo-primarybutton = 모바일용 { -brand-product-name } 받기
-firefoxview-mobile-confirmation-header = 계속 진행!
-firefoxview-mobile-confirmation-description = 이제 태블릿이나 휴대폰에서 { -brand-product-name } 탭을 가져올 수 있습니다.
-firefoxview-closed-tabs-title = 최근에 닫음
-firefoxview-closed-tabs-description2 = 이 창에서 닫은 페이지를 다시 엽니다.
-firefoxview-closed-tabs-placeholder-header = 최근에 닫은 탭 없음
-firefoxview-closed-tabs-placeholder-body = 이 창에서 탭을 닫으면 여기에서 가져올 수 있습니다.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = { $tabTitle } 닫기
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = 최근 활동
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = 새 탭에서 { $targetURI } 열기
-firefoxview-try-colorways-button = 컬러웨이 체험
-firefoxview-change-colorway-button = 컬러웨이 변경
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = 아직 볼 것이 없음
-firefoxview-synced-tabs-placeholder-body = 다음에 다른 기기의 { -brand-product-name }에서 페이지를 열 때 마법처럼 여기로 가져옵니다.
 firefoxview-collapse-button-show =
     .title = 목록 표시
 firefoxview-collapse-button-hide =

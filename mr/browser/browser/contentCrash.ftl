@@ -5,13 +5,6 @@
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] एक क्रॅश अहवाल आपण सबमिट केलेला नाही
-       *[other] आपण { $reportCount } क्रॅश अहवाल सबमिट केलेले नाहीत
-    }
 pending-crash-reports-view-all =
     .label = दृश्य
 pending-crash-reports-send =

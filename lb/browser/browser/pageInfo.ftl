@@ -62,7 +62,6 @@ no-page-title =
     .value = Säit ouni Titel:
 media-unknown-not-cached =
     .value = Onbekannt (net am Tëschespäicher)
-security-no-visits = Neen
 # This string is used to display the type of
 # an image
 # Variables:

@@ -2,113 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — Penjelajahan Pribadi { -brand-full-name }
-    .data-title-default = { -brand-full-name }
-    .data-title-private = Penjelajahan Pribadi { -brand-full-name }
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Penjelajahan Pribadi
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Penjelajahan Pribadi
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = Penjelajahan Pribadi { -brand-shortcut-name }
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
 browser-shortcut-description = Penjelajahan web yang cepat dan pribadi
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — Meramban Privat { -brand-full-name }
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Meramban Privat { -brand-full-name }
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = Meramban Privat { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — Meramban Privat { -brand-full-name }
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } — Meramban Privat
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Meramban Privat
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Meramban Privat
-    .data-title-private-with-profile = { $profile-name } — Meramban Privat { -brand-full-name }
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -176,8 +74,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Buka panel pesan penyimpanan luring
 urlbar-password-notification-anchor =
     .tooltiptext = Buka panel pesan penyimpanan sandi
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Kelola penggunaan plug-in
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Mengelola berbagi kamera dan atau mikrofon Anda dengan situs ini
 # "Speakers" is used in a general sense that might include headphones or
@@ -190,15 +86,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Simpan data di Penyimpanan Persisten
 urlbar-addons-notification-anchor =
     .tooltiptext = Buka panel pesan pemasangan pengaya
-urlbar-tip-help-icon =
-    .title = Dapatkan bantuan
 urlbar-search-tips-confirm = Oke, Paham
 urlbar-search-tips-confirm-short = Paham
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Kiat:
 urlbar-result-menu-button =
     .title = Buka menu
 urlbar-result-menu-button-feedback = Umpan Balik
@@ -243,9 +132,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = Abaikan saran ini
     .accesskey = b
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = Pelajari lebih lanjut tentang { -firefox-suggest-brand-name }
-    .accesskey = l
 urlbar-result-menu-manage-firefox-suggest =
     .label = Kelola { -firefox-suggest-brand-name }
     .accesskey = K
@@ -277,8 +163,6 @@ urlbar-dismissal-acknowledgment-weather = Terima kasih atas masukan Anda. Anda t
 
 urlbar-search-tips-onboard = Ketik lebih sedikit, temukan lebih banyak: Pencarian { $engineName } langsung dari bilah alamat Anda.
 urlbar-search-tips-redirect-2 = Mulai pencarian Anda di bilah alat untuk melihat saran dari { $engineName } dan riwayat penjelajahan Anda.
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = Pencarian menjadi lebih sederhana. Coba buat pencarian Anda lebih spesifik di bilah alamat. Untuk menampilkan URL saja, kunjungi Pencarian, di pengaturan.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Pilih pintasan ini untuk menemukan lebih cepat apa yang dibutuhkan.
@@ -312,8 +196,6 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Anda telah memblokir penyimpanan tetap untuk situs web ini.
 urlbar-popup-blocked2 =
     .tooltiptext = Anda telah memblokir pop-up dan pengalihan pihak ketiga untuk situs web ini.
-urlbar-popup-blocked =
-    .tooltiptext = Anda telah memblokir pop-up untuk situs web ini.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Anda telah memblokir media putar-otomatis dengan suara untuk situs web ini.
 urlbar-canvas-blocked =
@@ -424,24 +306,18 @@ quickactions-cmd-addons3 = ekstensi, tema, pengaya
 # Opens preferences page at AI controls
 quickactions-manageai = Kelola kontrol AI
 quickactions-cmd-manageai = nonaktifkan ai, nonaktifkan ai, kelola ai
-quickactions-cmd-addons2 = pengaya
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Kelola markah
 quickactions-cmd-bookmarks = markah
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Bersihkan riwayat terakhir
 quickactions-cmd-clearrecenthistory2 = kuki, bersihkan kuki, singgahan, bersihkan singgahan, data penjelajahan, bersihkan data penjelajahan, riwayat, bersihkan riwayat terkini
-quickactions-cmd-clearrecenthistory = bersihkan riwayat terkini, riwayat
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Bersihkan Riwayat
-quickactions-cmd-clearhistory = bersihkan riwayat
 # Opens about:downloads page
 quickactions-downloads2 = Tampilkan unduhan
 quickactions-cmd-downloads = unduhan
 # Opens about:addons page in the extensions section
 quickactions-extensions = Kelola ekstensi
 quickactions-cmd-extensions2 = ekstensi, pengaya
-quickactions-cmd-extensions = ekstensi
 # Opens Firefox View
 quickactions-firefoxview = Buka { -firefoxview-brand-name }
 # English is using "view" and "open view", since the feature name is
@@ -460,7 +336,6 @@ quickactions-cmd-colorpicker = pemilih warna, pipet, pilih warna
 # Opens Firefox Library
 quickactions-cmd-library = pustaka
 quickactions-library = Buka Pustaka
-quickactions-cmd-inspector = inspektur, perangkat pengembang
 # Opens about:logins
 quickactions-logins2 = Kelola sandi
 quickactions-cmd-logins = info masuk, kata sandi
@@ -470,9 +345,6 @@ quickactions-mute = Bisukan tab yang memutar audio
 # Replace with idiomatic expressions in your language to silence something or
 # someone.
 quickactions-cmd-mute = bisukan, diam, ssssst
-# Opens about:addons page in the plugins section
-quickactions-plugins = Kelola plugin
-quickactions-cmd-plugins = plugin
 # Opens the print dialog
 quickactions-print2 = Cetak halaman
 quickactions-cmd-print = cetak
@@ -497,19 +369,16 @@ quickactions-cmd-screenshot2 = tangkapan layar, ambil tangkapan layar
 # Opens about:translations
 quickactions-translate = Terjemahkan
 quickactions-cmd-translate = terjemahkan
-quickactions-cmd-screenshot = tangkapan layar
 # Opens about:preferences
 quickactions-settings2 = Kelola pengaturan
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = pengaturan, preferensi, opsi, kelola
-quickactions-cmd-settings = pengaturan, preferensi, pilihan
 # Opens about:addons page in the themes section
 quickactions-themes = Kelola tema
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-themes2 = tema, pengaya
-quickactions-cmd-themes = tema;themes;
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Perbarui { -brand-short-name }
 quickactions-cmd-update = versi baru
@@ -519,7 +388,6 @@ quickactions-cmd-viewsource2 = lihat sumber, sumber, sumber laman
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = Buka { -firefoxlabs-brand-name }
 quickactions-cmd-labs = lab, eksperimen
-quickactions-cmd-viewsource = lihat kode sumber, sumber
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Pelajari lebih lanjut tentang Tindakan Cepat
@@ -572,9 +440,7 @@ identity-custom-root = Koneksi diverifikasi oleh penerbit sertifikat yang tidak 
 identity-passive-loaded = Bagian dari laman ini tidak aman (misalnya, gambar).
 identity-active-loaded = Anda telah menonaktifkan perlindungan di laman ini.
 identity-weak-encryption = Laman ini menggunakan enkripsi lemah.
-identity-insecure-login-forms = Info masuk yang dimasukkan di laman ini bisa diketahui orang lain.
 identity-https-only-connection-upgraded = (ditingkatkan ke HTTPS)
-identity-https-only-label = Mode Hanya HTTPS
 identity-https-only-label2 = Tingkatkan sambungan situs ini secara otomatis ke sambungan aman
 identity-https-only-dropdown-on =
     .label = Aktif
@@ -582,8 +448,6 @@ identity-https-only-dropdown-off =
     .label = Nonaktif
 identity-https-only-dropdown-off-temporarily =
     .label = Nonaktif sementara
-identity-https-only-info-turn-on2 = Nyalakan Mode HTTPS-Only untuk situs ini jika Anda ingin { -brand-short-name } meningkatkan sambungan bila memungkinkan.
-identity-https-only-info-turn-off2 = Jika laman terlihat bermasalah, Anda mungkin ingin menonaktifkan Mode HTTPS-Only lalu memuat ulang situsnya dengan HTTP yang tidak aman.
 identity-https-only-info-turn-on3 = Nyalakan peningkatan HTTPS untuk situs ini jika Anda ingin { -brand-short-name } meningkatkan sambungan bila memungkinkan.
 identity-https-only-info-turn-off3 = Jika laman terlihat bermasalah, Anda mungkin ingin menonaktifkan peningkatan HTTPS lalu memuat ulang situsnya menggunakan HTTP yang tidak aman.
 identity-https-only-info-no-upgrade = Tidak dapat meningkatkan koneksi dari HTTP.
@@ -607,7 +471,6 @@ identity-remove-cert-exception =
     .label = Buang Pengecualian
     .accesskey = B
 identity-description-insecure = Sambungan Anda ke laman ini tidak pribadi. Informasi yang Anda kirim dapat dilihat oleh pihak lain (misalnya, sandi, pesan, kartu kredit, dll.).
-identity-description-insecure-login-forms = Info masuk yang Anda masukkan di laman ini tidak aman dan bisa diketahui orang lain.
 identity-description-weak-cipher-intro = Sambungan Anda ke situs web ini menggunakan enkripsi lemah dan tidak pribadi.
 identity-description-weak-cipher-risk = Orang lain dapat melihat informasi Anda atau memodifikasi perilaku situs web ini.
 identity-description-active-blocked2 = { -brand-short-name } telah memblokir bagian dari laman ini yang tidak aman.
@@ -618,12 +481,6 @@ identity-description-active-loaded = Situs web ini mengandung konten yang tidak 
 identity-description-active-loaded-insecure = Informasi yang Anda bagikan dengan situs ini dapat dilihat oleh pihak lain (misalnya sandi, pesan, kartu kredit, dll.)
 identity-description-tls-key-logging-heading = Sambungan Anda mungkin tidak pribadi
 identity-description-tls-key-logging-message = Aplikasi atau layanan dapat melihat lalu lintas terenkripsi Anda dari situs ini.
-identity-disable-mixed-content-blocking =
-    .label = Nonaktifkan perlindungan untuk saat ini
-    .accesskey = N
-identity-enable-mixed-content-blocking =
-    .label = Aktifkan perlindungan
-    .accesskey = A
 identity-more-info-link-text =
     .label = Informasi Lebih Lanjut
 
@@ -640,37 +497,6 @@ browser-window-close-button =
 # Clicking this button closes the window and returns to the tab where it was opened from
 browser-window-return-to-opener =
     .tooltiptext = Kembali
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = MEMUTAR
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = DISENYAPKAN
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = PUTAR OTOMATIS DIBLOKIR
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = GAMBAR DALAM GAMBAR
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] SENYAPKAN { $count } TAB
-       *[other] S
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] SUARAKAN { $count } TAB
-       *[other] U
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] PUTAR { $count } TAB
-       *[other] P
-    }
 
 ## Bookmarks toolbar items
 
@@ -711,10 +537,6 @@ sharing-warning-disable-for-session =
 
 webserial-select-port-label = Pilih port serial:
 webserial-no-ports-available = Tidak ada port serial yang tersedia
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = Untuk menggunakan pintasan F12, pertama-tama, buka DevTools melalui menu Alat Peramban.
 
 ## URL Bar
 
@@ -779,8 +601,6 @@ urlbar-extension =
     .value = Ekstensi:
 urlbar-go-button2 =
     .title = Pindah ke alamat di Bilah Lokasi
-urlbar-go-button =
-    .tooltiptext = Pindah ke alamat di Bilah Lokasi
 urlbar-page-action-button =
     .tooltiptext = Tindakan laman
 urlbar-revert-button =
@@ -838,11 +658,6 @@ urlbar-result-action-tabtosearch-web = Cari dengan { $engine } langsung dari bil
 urlbar-result-action-tabtosearch-other-engine = Cari dengan { $engine } langsung dari bilah alamat
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Salin
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = tidak terdefinisi
 # The sub title of an add-on suggestion in the urlbar.
@@ -853,23 +668,6 @@ urlbar-result-mdn-subtitle = { -mdn-brand-name }
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
 urlbar-result-suggestion-recommended = Disarankan
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
-# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
-# The last = sign will be shown as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
-# Shows the result of a formula expression being calculated, to a maximum of 9 significant
-# digits. This is used for numbers < 1.
-# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 # The title of a weather suggestion in the urlbar. The temperature and unit
 # substring should be inside a <strong> tag. If the temperature and unit are not
 # adjacent in the localization, it's OK to include only the temperature in the
@@ -1034,32 +832,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Cari { $localSearc
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Cari dengan { $engine }
-urlbar-searchmode-dropmarker =
-    .tooltiptext = Pilih Mesin Pencari
-urlbar-searchmode-bookmarks =
-    .label = Markah
-urlbar-searchmode-tabs =
-    .label = Tab
-urlbar-searchmode-history =
-    .label = Riwayat
-urlbar-searchmode-actions =
-    .label = Aksi
-urlbar-searchmode-exit-button =
-    .tooltiptext = Tutup
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = Kali ini, cari dengan:
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = Setelan Pencarian
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button2 =
-    .label = { $engine }, pilih mesin pencari
-    .tooltiptext = { $engine }, pilih mesin pencari
-urlbar-searchmode-button-no-engine =
-    .label = Tidak ada pintasan yang dipilih, pilih pintasan
-    .tooltiptext = Tidak ada pintasan yang dipilih, pilih pintasan
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1166,16 +938,10 @@ urlbar-group-trending =
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Jangan tampilkan penelusuran ngetren
     .accesskey = J
-# Label shown above sponsored suggestions in the urlbar results.
-urlbar-group-sponsored =
-    .label = Disponsori
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Jangan tampilkan penelusuran ngetren
     .accesskey = J
-urlbar-result-menu-trending-why =
-    .label = Mengapa saya melihat ini?
-    .accesskey = M
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = Terima kasih atas tanggapan Anda. Anda tidak akan melihat pencarian ngetren lagi.
@@ -1260,12 +1026,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Sembunyikan Bilah Alat Markah
            *[other] Tampilkan Bilah Alat Markah
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Hapus Menu Markah dari Bilah Alat
-           *[other] Tambahkan Menu Markah ke Bilah Alat
-        }
 
 ##
 
@@ -1296,14 +1056,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = Markah
-library-recent-activity-title =
-    .value = Aktivitas Terkini
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Simpan ke { -pocket-brand-name }
-    .tooltiptext = Simpan ke { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
@@ -1366,8 +1118,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = T
 
 ## Password save/update panel
 
-panel-save-update-username = Nama Pengguna
-panel-save-update-password = Kata Sandi
 panel-save-update-username-2 =
     .label = Nama Pengguna
 panel-save-update-password-2 =
@@ -1378,33 +1128,18 @@ panel-save-update-password-2 =
 # "More" item in macOS share menu
 menu-share-more =
     .label = Lainnya…
-menu-share-copy-link =
-    .label = Salin Tautan
-    .accesskey = S
 ui-tour-info-panel-close =
     .tooltiptext = Tutup
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
-popups-infobar-allow =
-    .label = Izinkan pop-up untuk { $uriHost }
-    .accesskey = i
-popups-infobar-block =
-    .label = Blokir pop-up untuk { $uriHost }
-    .accesskey = i
 popups-infobar-allow2 =
     .label = Izinkan pop-up dan pengalihan pihak ketiga untuk { $uriHost }
     .accesskey = p
 
 ##
 
-popups-infobar-dont-show-message =
-    .label = Jangan tampilkan pesan ini saat pop-up diblokir
-    .accesskey = J
-edit-popup-settings =
-    .label = Kelola setelan pop-up…
-    .accesskey = p
 picture-in-picture-hide-toggle =
     .label = Sembunyikan Sakelar Gambar-dalam-Gambar
     .accesskey = S
@@ -1430,8 +1165,6 @@ navbar-downloads =
     .label = Unduhan
 navbar-overflow-2 =
     .tooltiptext = Alat lainnya
-navbar-overflow =
-    .tooltiptext = Alat lainnya…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1524,20 +1257,12 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = Akhiri Sesi Pribadi
-    .tooltiptext = Akhiri Sesi Pribadi
-reset-pbm-panel-heading = Akhiri sesi pribadi Anda?
-reset-pbm-panel-description = Tutup semua tab pribadi dan hapus riwayat, kuki, dan semua data situs lainnya.
 reset-pbm-panel-always-ask-checkbox =
     .label = Selalu tanyakan
     .accesskey = t
 reset-pbm-panel-cancel-button =
     .label = Batal
     .accesskey = B
-reset-pbm-panel-confirm-button =
-    .label = Hapus  data sesi
-    .accesskey = d
 reset-pbm-panel-complete = Data sesi pribadi dihapus
 
 ## Autorefresh blocker

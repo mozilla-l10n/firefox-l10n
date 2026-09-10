@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = کنکشن ترتیباں
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = کنکشن ترتیباں
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = ولدا لوڈ کرو
     .accesskey = e
-connection-proxy-autologin =
-    .label = جے پاس ورڈ ہتھیکڑا ہووے تاں تصدیق دا اشارہ نہ کرو
-    .accesskey = i
-    .tooltip = ایہ آپشن خاموشی نال تہاکوں براکسیز دی تصدیق کریندا ہے جݙاں تساں انہاں کیتے سنداں محفوظ کر گھدیاں ہن۔ جے تصدیق ناکام تھی ویندی ہے تاں تہاکوں آکھیا ویسے
 connection-proxy-autologin-checkbox =
     .label = جے پاس ورڈ ہتھیکڑا ہووے تاں تصدیق دا اشارہ نہ کرو
-    .accesskey = i
     .tooltiptext = ایہ آپشن خاموشی نال تہاکوں براکسیز دی تصدیق کریندا ہے جݙاں تساں انہاں کیتے سنداں محفوظ کر گھدیاں ہن۔ جے تصدیق ناکام تھی ویندی ہے تاں تہاکوں آکھیا ویسے
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = پراکسی DNS جݙاں استعمال کریندے پئے ہوون SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = HTTPS تے DNS حل کرݨ کیتے پہلے کنوں طے شدہ URL استعمال کرو۔
 connection-dns-over-https-url-custom =
     .label = من مرضی دا
-    .accesskey = C
     .tooltiptext = HTTPS دے اوتے DNS حل کرݨ کیتے اپݨا ترجیحی URL درج کرو
-connection-dns-over-https-custom-label = مخصوص
+    .accesskey = C

@@ -19,11 +19,6 @@ migration-wizard-selection-option-without-profile = { $sourceBrowser }
 #  $sourceBrowser (String): the name of the browser to import from.
 #  $profileName (String): the name of the user profile to import from.
 migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
-
-# Each migrator is expected to include a display name string, and that display
-# name string should have a key with "migration-wizard-migrator-display-name-"
-# as a prefix followed by the unique identification key for the migrator.
-
 migration-wizard-migrator-display-name-brave = Brave
 migration-wizard-migrator-display-name-canary = Chrome Canary
 migration-wizard-migrator-display-name-chrome = Chrome
@@ -60,7 +55,6 @@ migration-bookmarks-option-label = Taq yaketal
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Taq ajowab'äl
-migration-logins-and-passwords-option-label = Yakon kitikirisaxik molojri'ïl chuqa' ewan taq tzij
 migration-history-option-label = Runatab'al okem pa k'amaya'l
 migration-extensions-option-label = Taq k'amal
 migration-form-autofill-option-label = Rutzij nojwuj ruyon ninojisäx
@@ -174,8 +168,6 @@ migration-safari-password-import-step3 = Keyak kiyakb'al ewan taq tzij
 migration-safari-password-import-step4 = Tokisäx “Ticha' Yakb'äl” chuxe' richin nicha' ri ruyakb'al ewan taq tzij xtiyak
 migration-manual-password-import-skip-button = Tik'o'
 migration-manual-password-import-select-button = Ticha' Yakb'äl
-migration-safari-password-import-skip-button = Tik'o'
-migration-safari-password-import-select-button = Ticha' Yakb'äl
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #

@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = Kiegészítők és témák
 appmenuitem-extensions =
     .label = Kiegészítők
-appmenuitem-addons-and-themes =
-    .label = Kiegészítők és témák
 appmenuitem-print =
     .label = Nyomtatás…
 appmenuitem-find-in-page =
@@ -154,7 +152,6 @@ fxa-menu-get-firefox-mobile =
     .label = Szerezze be a { -brand-product-name }ot Androidra és iOS-re
 fxa-menu-secure-sync-subpanel =
     .title = Biztonságos szinkronizálás
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Fiók
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -176,15 +173,6 @@ appmenuitem-save-page =
     .label = Oldal mentése…
 appmenuitem-fxa-sync-off-title = A Sync ki van kapcsolva
 appmenuitem-fxa-sync-off-description = Védje és érje el bárhol könyvjelzőit, jelszavait és egyebeit.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Újdonságok
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Értesítés az új funkciókról
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -326,8 +314,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Több hibakeresési információ
     .accesskey = T
-appmenu-help-report-site-issue =
-    .label = Hibás webhely bejelentése…
 appmenu-help-share-ideas =
     .label = Ötletek és visszajelzések megosztása…
     .accesskey = o
@@ -393,7 +379,6 @@ appmenuitem-vpn-description5 = Szerezzen extra védelmet az eszközök között
 appmenuitem-vpn-title-signed-in1 = A { -mozilla-vpn-brand-name } letöltése
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Kapjon teljes eszközvédelmet
-appmenuitem-vpn-description = Védje meg az online tevékenységét
 appmenu-services-header = Saját szolgáltatások
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -403,7 +388,6 @@ appmenu-other-protection-header3 = Adatvédelmi eszközök
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Próbálja ki a Mozilla más védelmi eszközeit:
-appmenu-other-protection-header = Próbálja ki a { -vendor-short-name } egyéb védelmi eszközeit:
 
 ## Profiles panel
 

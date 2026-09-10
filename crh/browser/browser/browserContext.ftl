@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Bir saife keri bar ({ $shortcut })
     .aria-label = Keri
+    .tooltiptext = Bir saife keri bar ({ $shortcut })
     .accesskey = K
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Bir saife ileri bar ({ $shortcut })
     .aria-label = İleri
+    .tooltiptext = Bir saife ileri bar ({ $shortcut })
     .accesskey = l
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -98,9 +98,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = İlişimni Şöyle Saqla…
     .accesskey = q
-main-context-menu-save-link-to-pocket =
-    .label = İlişimni { -pocket-brand-name }’ke Saqla
-    .accesskey = o
 
 ##
 
@@ -181,18 +178,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Audionı E-poçtala…
     .accesskey = A
-main-context-menu-save-to-pocket =
-    .label = Saifeni { -pocket-brand-name }’ke Saqla
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Saifeni Cihazğa Yiber
-    .accesskey = n
 
 ##
 
-main-context-menu-keyword =
-    .label = Bu Qıdırma içün bir Anahtar-söz Ekle…
-    .accesskey = k
 main-context-menu-link-send-to-device =
     .label = İlişimni Cihazğa Yiber
     .accesskey = n

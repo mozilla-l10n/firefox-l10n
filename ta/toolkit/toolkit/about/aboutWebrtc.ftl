@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = about:webrtc ஆக சேமி
 about-webrtc-aec-logging-msg-label = AEC பதிவிடல்
 about-webrtc-aec-logging-off-state-label = AEC பதிவிடலை தொடங்கு
 about-webrtc-aec-logging-on-state-label = AEC பதிவிடலை நிறுத்து
-about-webrtc-aec-logging-on-state-msg = AEC பதிவிடல் செயலிலுள்ளது (அழைப்பாளருடன் சில நிமிடங்கள் பேசிய பின் பதிவிடலை நிறுத்து)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC பதிவிடல் செயலிலுள்ளது (அழைப்பாளருடன் சில நிமிடங்கள் பேசிய பின் பதிவிடலை நிறுத்து)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -77,17 +76,9 @@ about-webrtc-nominated = பரிந்துரைத்தது
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = தேர்ந்தெடுக்கப்பட்டது
 about-webrtc-save-page-label = பக்கத்தை சேமி
-about-webrtc-debug-mode-msg-label = வழுநீக்கு முறைமை
-about-webrtc-debug-mode-off-state-label = வழுநீக்கு முறைமையைத் தொடங்கு
-about-webrtc-debug-mode-on-state-label = வழுநீக்கு முறைமையை நிறுத்து
-about-webrtc-stats-heading = அமர்வு புள்ளிவிவரங்கள்
 about-webrtc-stats-clear = வரலாற்றைத் துடை
 about-webrtc-log-heading = இணைப்பு பதிவு
 about-webrtc-log-clear = பதிவை துடை
-about-webrtc-log-show-msg = பதிவைக் காட்டு
-    .title = இப்பிரிவை விரிக்க சொடுக்கவும்
-about-webrtc-log-hide-msg = பதிவை மறை
-    .title = இப்பிரிவை சுருக்க சொடுக்கவும்
 about-webrtc-log-section-show-msg = பதிவைக் காட்டு
     .title = இப்பிரிவை விரிக்க சொடுக்கவும்
 about-webrtc-log-section-hide-msg = பதிவை மறை
@@ -108,10 +99,6 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (மூ�
 about-webrtc-local-candidate = உள்ளமை வேட்பாளர்
 about-webrtc-remote-candidate = தொலை வேட்பாளர்
 about-webrtc-priority = முன்னுரிமை
-about-webrtc-fold-show-msg = விவரங்களைக் காட்டு
-    .title = இப்பிரிவை விரிக்க சொடுக்கவும்
-about-webrtc-fold-hide-msg = விவரங்களை மறை
-    .title = இப்பிரிவை சுருக்க சொடுக்கவும்
 about-webrtc-fold-default-show-msg = விவரங்களைக் காட்டு
     .title = இப்பிரிவை விரிக்க சொடுக்கவும்
 about-webrtc-fold-default-hide-msg = விவரங்களை மறை
@@ -121,10 +108,6 @@ about-webrtc-encoder-label = குறியாக்கி
 
 ##
 
-about-webrtc-save-page-msg = { $path } என்பதில் பக்கம் சேமிக்கப்பட்டது
-about-webrtc-debug-mode-off-state-msg = { $path } என்பதில் தடபதிவைக் காணலாம்
-about-webrtc-debug-mode-on-state-msg = வழுநீக்கு முறைமையில் உள்ளது, தடபதிவு: { $path }
-about-webrtc-aec-logging-off-state-msg = கைப்பற்றப்பட்ட பதிவு கோப்புகளை: { $path } இதில் முடியும்
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Síne iin ventana yu´u
     .accesskey = y
 about-private-browsing-search-placeholder = Nánuku nuu Web
-about-private-browsing-info-title = Síne iin ventana yu'u
 about-private-browsing-search-btn =
     .title = Nánuku nuu Web
 # Variables
@@ -19,7 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Nánuku ji { $engine } a xíín chu'un iin nuu
 about-private-browsing-handoff-text-no-engine = Nánuku a xíín chu´un iin nuu
 about-private-browsing-not-private = Ntañu´u ntu yɨ´ɨnu nuu iin ventana yu´u
-about-private-browsing-learn-more-link = Ka´vi kue´eka
 about-private-browsing-focus-promo-cta = Xinuun { -focus-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.

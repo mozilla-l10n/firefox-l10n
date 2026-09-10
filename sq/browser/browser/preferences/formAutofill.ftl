@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Adresa të Ruajtura
 autofill-manage-addresses-list-header = Adresa
-autofill-manage-credit-cards-title = Karta Krediti të Ruajtura
-autofill-manage-credit-cards-list-header = Karta Krediti
 autofill-manage-payment-methods-title = Metoda pagesash të ruajtura
 autofill-manage-cards-list-header = Karta
 autofill-manage-dialog =
@@ -45,15 +43,10 @@ address-capture-open-menu-button =
     .aria-label = Hape menunë
 address-capture-edit-address-link = Përpunoni adresë
     .aria-label = Përpunoni adresë
-address-capture-edit-address-button =
-    .aria-label = Përpunoni adresë
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Shtoni adresë
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Përpunoni Adresë
-autofill-address-given-name = Emër
-autofill-address-additional-name = Emër i Mesit
-autofill-address-family-name = Mbiemër
 autofill-address-name = Emër
 autofill-address-organization = Ent
 autofill-address-street-address = Rrugë
@@ -99,8 +92,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Shtoni Adresë të Re
 autofill-address-country = Vend ose Rajon
 autofill-address-country-only = Vend
 autofill-address-tel = Telefon
@@ -108,18 +99,6 @@ autofill-address-email = Email
 autofill-cancel-button = Anuloje
 autofill-save-button = Ruaje
 autofill-country-warning-message = Vetëplotësimi i Formularëve hëpërhë është i vlefshëm vetëm për disa vende.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Shtoni Kartë të Re Krediti
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Përpunoni Kartë Krediti
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] shfaq hollësi karte krediti
-        [windows] { -brand-short-name }-i po provon të shfaqë hollësi karte krediti. Ripohoni më poshtë hyrjen te kjo llogari Windows.
-       *[other] { -brand-short-name }-i po provon të shfaqë hollësi karte krediti.
-    }
 autofill-message-tooltip = Shihni mesazh rreth vetëplotësimit
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Shtoni kartë
@@ -144,15 +123,3 @@ autofill-card-network = Lloj Karte
 # methods section. Localizers should choose terms that make sense for payment
 # methods in their region.
 autofill-card-search-term-credit-cards = karta krediti, kredit, karta, karta debiti, debit, kuletë, përfundim blerjeje
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

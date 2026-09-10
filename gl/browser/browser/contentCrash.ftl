@@ -18,13 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Ten un informe de erro sen enviar
-       *[other] Ten { $reportCount } informes de erro sen enviar
-    }
 pending-crash-reports-view-all =
     .label = Ver
 pending-crash-reports-send =
@@ -37,13 +30,6 @@ requested-crash-reports-message-new =
     { $reportCount ->
         [one] Tes un informe de fallo sen enviar relacionado cos fallos que se están investigando; envialo axudaranos a mellorar { -brand-product-name }. Ao pechar esta notificación, ignorarase este informe.
        *[other] Tes { $reportCount } informes de fallos sen enviar relacionados cos fallos que se están investigando; envialos axudaranos a mellorar { -brand-product-name }. Ao pechar esta notificación, ignoraranse estes informes.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Tes un informe de fallos sen enviar que coincide cos fallos que se están investigando; envialo axudaranos a mellorar { -brand-product-name }. Ao pechar esta notificación, ignorarase este informe.
-       *[other] Tes { $reportCount } informes de fallos sen enviar que coinciden cos fallos que se están investigando; envialos axudaranos a mellorar { -brand-product-name }. Ao pechar esta notificación, ignoraranse estes informes.
     }
 requested-crash-reports-dont-show-again =
     .label = Non mostrar de novo

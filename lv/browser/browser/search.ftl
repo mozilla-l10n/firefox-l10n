@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Jūsu noklusējuma meklētājs ir mainīts.</strong> { $oldEngine } vairs nav pieejams kā noklusējuma { -brand-short-name } meklētājs. { $newEngine } tagad ir jūsu noklusējuma meklētājs. Lai pārslēgtos uz citu noklusējuma meklētāju, atveriet iestatījumus. <label data-l10n-name="remove-search-engine-article">Uzziniet vairāk</label>
 removed-search-engine-message2 = <strong>Jūsu noklusējuma meklētājs ir mainīts.</strong> { $oldEngine } vairs nav pieejams kā noklusējuma { -brand-short-name } meklētājs. { $newEngine } tagad ir jūsu noklusējuma meklētājs. Lai pārslēgtos uz citu noklusējuma meklētāju, atveriet iestatījumus.
 remove-search-engine-button = Labi
 
@@ -44,8 +43,8 @@ install-search-engine-add = Pievienot
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = Pievienot meklētāju
     .style = min-width: 32em;
+    .title = Pievienot meklētāju
 add-engine-button = Pievienojiet pielāgotu meklētāju
 add-engine-name = Meklētāja nosaukums
 

@@ -3,7 +3,3 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-learn-more-link = Terabum ŕpo
-
-## Protections panel
-
-cfr-protections-panel-link-text = Terabum ŕpo

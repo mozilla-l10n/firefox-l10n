@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>తాజాకరణను దింపుకుంటోంది — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = తాజాకరణను దింపుకుంటూంది — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = తాజాకరణను దింపుకుంటోంది — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = తాజాకరణను ఆపాదిస్తోంది…
 update-failed = తాజాకరణ విఫలమైంది. <label data-l10n-name="failed-link">సరికొత్త వెర్షన్‌ను దింపుకోండి</label>
 update-failed-main = తాజాకరణ విఫలమైంది. <a data-l10n-name="failed-link-main">సరికొత్త వెర్షన్‌ను దింపుకోండి</a>
-update-adminDisabled = మీ సిస్టమ్ నిర్వహణాధికారి తాజాకరణలను అచేతనం చేసారు
 update-policy-disabled = తాజాకరణలను మీ సంస్థ అచేతనం చేసింది
 settings-update-policy-disabled =
     .label = తాజాకరణలను మీ సంస్థ అచేతనం చేసింది
@@ -71,8 +69,6 @@ helpus = తోడ్పడాలని అనుకుంటున్నార�
 bottomLinks-license = లైసెన్సింగ్ సమాచారం
 bottom-links-terms = వాడుక నియమాలు
 bottom-links-privacy = గోప్యతా విధానం
-bottomLinks-rights = అంతిమ-వాడుకరి హక్కులు
-bottomLinks-privacy = గోప్యతా విధానం
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

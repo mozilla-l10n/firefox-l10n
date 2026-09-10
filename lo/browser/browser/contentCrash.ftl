@@ -18,9 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message = ທ່ານມີ { $reportCount } ລາຍງານຄວາມລົ້ມເຫລວທີ່ຍັງບໍ່ທັນສົ່ງ
 pending-crash-reports-view-all =
     .label = ເບິ່ງ
 pending-crash-reports-send =
@@ -30,9 +27,6 @@ pending-crash-reports-always-send =
 # Variables:
 #   $reportCount (Number): the number of pending crash reports
 requested-crash-reports-message-new = ທ່ານມີ { $reportCount } ລາຍງານການຂັດຂ້ອງທີ່ບໍ່ໄດ້ສົ່ງທີ່ກ່ຽວຂ້ອງກັບການຂັດຂ້ອງທີ່ກຳລັງຖືກສືບສວນ, ການສົ່ງພວກມັນຈະຊ່ວຍພວກເຮົາປັບປຸງ { -brand-product-name }. ການປິດການແຈ້ງເຕືອນນີ້ຈະບໍ່ສົນໃຈລາຍງານເຫຼົ່ານີ້.
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message = ທ່ານມີ { $reportCount } ລາຍງານການຂັດຂ້ອງທີ່ບໍ່ໄດ້ສົ່ງທີ່ກົງກັບອຸປະຕິເຫດທີ່ກຳລັງຖືກສືບສວນ, ການສົ່ງມັນຈະຊ່ວຍໃຫ້ພວກເຮົາປັບປຸງ { -brand-product-name }. ການປິດການແຈ້ງເຕືອນນີ້ຈະບໍ່ສົນໃຈລາຍງານເຫຼົ່ານີ້.
 requested-crash-reports-dont-show-again =
     .label = ຢ່າສະແດງອີກ
     .accesskey = D

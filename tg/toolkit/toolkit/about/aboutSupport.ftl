@@ -33,10 +33,6 @@ security-software-name = Ном
 security-software-antivirus = Антивирус
 security-software-antispyware = Бар зидди ҷосусӣ
 security-software-firewall = Девори оташ (Firewall)
-features-title = Хусусиятҳои «{ -brand-short-name }»
-features-name = Ном
-features-version = Силсила
-features-id = Рақами мушаххас
 processes-title = Равандҳои дурдаст
 processes-type = Навъ
 processes-count = Шумора
@@ -62,7 +58,6 @@ app-basics-profile-dir =
         [linux] Феҳристи профил
        *[other] Ҷузвдони профил
     }
-app-basics-enabled-plugins = Плагинҳои фаъолшуда
 app-basics-build-config = Танзимоти сохт
 app-basics-user-agent = Омили корбарӣ
 app-basics-os = Низоми амалкунанда (OS)
@@ -100,9 +95,6 @@ show-dir-label =
 environment-variables-title = Тағйирёбандаҳои муҳит
 environment-variables-name = Ном
 environment-variables-value = Қимат
-experimental-features-title = Хусусиятҳои таҷрибавӣ
-experimental-features-name = Ном
-experimental-features-value = Қимат
 modified-key-prefs-title = Афзалиятҳои муҳими тағйирёфта
 modified-prefs-name = Ном
 modified-prefs-value = Қимат
@@ -214,9 +206,6 @@ media-cdm-capabilities = Имкониятҳо
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Оғози рамзгузоринашуда
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = Мувофиқ ба «HDCP 2.2»
 
 ##
 
@@ -388,8 +377,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Аз тарафи озмоиш ғайрифаъол карда шуд
-fission-status-experiment-treatment = Аз тарафи озмоиш фаъол карда шуд
 fission-status-disabled-by-e10s-env = Аз тарафи муҳит ғайрифаъол карда шуд
 fission-status-enabled-by-env = Аз тарафи муҳит фаъол карда шуд
 fission-status-disabled-by-env = Аз тарафи муҳит ғайрифаъол карда шуд
@@ -398,7 +385,6 @@ fission-status-disabled-by-default = Ба таври пешфарз ғайриф
 fission-status-enabled-by-user-pref = Аз тарафи корбар фаъол карда шуд
 fission-status-disabled-by-user-pref = Аз тарафи корбар ғайрифаъол карда шуд
 fission-status-disabled-by-e10s-other = E10s ғайрифаъол аст
-fission-status-enabled-by-rollout = Аз тарафи паҳнкунии марҳилавӣ фаъол карда шуд
 async-pan-zoom = Густарасозӣ/миқёсбандии ноҳамгоми тасвир
 apz-none = ҳеҷ
 wheel-enabled = вурудии чархак фаъол аст

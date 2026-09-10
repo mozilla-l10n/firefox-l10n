@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Toane yn Finder
            *[other] Yn map toane
         }
-downloads-cmd-show-downloads =
-    .label = Downloadsmap toane
 downloads-cmd-retry =
     .tooltiptext = Opnij probearje
 downloads-cmd-retry-panel =

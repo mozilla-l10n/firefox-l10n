@@ -155,7 +155,6 @@ media-unknown-not-cached =
     .value = Nekonata (ne en la stokejo)
 permissions-use-default =
     .label = Uzi normon
-security-no-visits = Ne
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -227,11 +226,6 @@ media-file-size = { $size } KO
 ## Variables:
 ##   $website (string) — The url of the website pageInfo is getting info for
 
-# This string is used to display the website name next to the
-# "Block Images" checkbox in the media tab
-media-block-image =
-    .label = Bloki bildojn el { $website }
-    .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 page-info-page =

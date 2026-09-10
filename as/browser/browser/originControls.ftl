@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = এক্সটেনশ্যনে ডেটা পঢ়িব আৰু সলনি কৰিব নোৱাৰে
-origin-controls-quarantined =
-    .label = এক্সটেনশ্যনৰ লগত ডেটা পঢ়িব আৰু সলনি কৰিবলৈ অনুমতি নাই
 origin-controls-quarantined-status =
     .label = নিষিদ্ধ ছাইটবোৰত এক্সটেনশ্যনৰ অনুমতি নাই
 origin-controls-quarantined-allow =

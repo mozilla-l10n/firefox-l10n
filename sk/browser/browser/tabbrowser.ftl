@@ -21,11 +21,6 @@ tabbrowser-tab-tooltip-container = { $containerName }
 #   $tabGroupName (String): the user-defined name of the current tab group.
 #   $containerName (String): the name of the current container.
 tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -33,15 +28,6 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [one] Zavrieť kartu
-            [few] Zavrieť { $tabCount } karty
-           *[other] Zavrieť { $tabCount } kariet
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [one] Zavrieť kartu
             [few] Zavrieť { $tabCount } karty
@@ -120,7 +106,6 @@ tabbrowser-confirm-close-tabs-title =
     }
 tabbrowser-confirm-close-tabs-button = Zavrieť karty
 tabbrowser-ask-close-tabs-checkbox = Opýtať sa pred zatvorením viacerých kariet naraz
-tabbrowser-confirm-close-tabs-checkbox = Vyžadovať potvrdenie pred zatvorením viacerých kariet naraz
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -148,9 +133,6 @@ tabbrowser-confirm-close-tabs-with-key-button = Ukončiť { -brand-short-name(ca
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-ask-close-tabs-with-key-checkbox = Opýtať sa pred ukončením pomocou skratky { $quitKey }
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = Vyžadovať potvrdenie pred ukončením pomocou { $quitKey }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
@@ -474,8 +456,8 @@ tab-note-editor-button-save =
     .label = Uložiť
     .accesskey = U
 tab-note-editor-button-delete =
-    .title = Odstrániť poznámku
     .aria-label = Odstrániť poznámku
+    .title = Odstrániť poznámku
     .accesskey = d
 tab-note-preview-edit-icon =
     .alt = Upraviť poznámku

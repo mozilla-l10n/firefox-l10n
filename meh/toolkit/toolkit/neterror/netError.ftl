@@ -12,7 +12,6 @@ neterror-malformed-uri-page-title = URL ntu vatu
 ## Error page actions
 
 neterror-learn-more-link = Ka´vi kue´eka...
-neterror-try-again-button = Nasá´á tuku
 neterror-view-certificate-link = Kune´ya certificado
 
 ## Specific error messages

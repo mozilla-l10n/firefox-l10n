@@ -261,8 +261,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = 設定檔
 menu-profiles-manage-profiles =
     .label = 管理設定檔
 menu-profiles-new-profile =
@@ -286,9 +284,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = 擴充套件和佈景主題
     .accesskey = E
-menu-tools-addons-and-themes =
-    .label = 附加元件與佈景主題
-    .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = 登入
     .accesskey = g
@@ -345,8 +340,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = 更多疑難排解資訊
     .accesskey = T
-menu-help-report-site-issue =
-    .label = 回報網站問題…
 menu-help-share-ideas =
     .label = 分享想法與意見回饋…
     .accesskey = S

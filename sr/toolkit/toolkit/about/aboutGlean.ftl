@@ -50,7 +50,6 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-additional-links = За објашњење различитих начина за снимање и проналажење података, погледајте страницу <strong>О подацима</strong>.
-about-glean-about-testing-header = О тестирању
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     Комплетна упутства су наведена у
@@ -59,8 +58,6 @@ about-glean-manual-testing =
     али укратко, да ручно проверите да ли ваш комплет алата ради:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (немој слати пинг)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Уверите се да је у претходном пољу лако памтљива ознака за отклањање грешака како би касније могли да препознате ваше пингове.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Поставите лако памтљиву ознаку за отклањање грешака <span>(20 или мање знакова, само алфанумерички знакови и -)</span> како бисте касније могли да препознате своје пингове.
 # An in-line drop down list precedes this string.
@@ -87,13 +84,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Посетите { glean-debug-ping-viewer-brand-name } страницу да бисте видели пингове са вашом ознаком</a>.
     Пинг би требало да стигне неколико секунди након притиска на дугме.
     Понекад може да потраје пар минута.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    За више <i>ad hoc</i> тестирања,
-    можете да одредите тренутну вредност одређеног дела инструмента тако што ћете
-    отворити конзолу алатки за програмере на <code>about:glean</code>
-    и искористити <code>testGetValue()</code> API, на пример:
-    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 = За више <i>ад-хок</i> тестирања, такође можете одредити тренутну вредност одређеног дела инструментације отварањем конзоле развојних алата овде на <code>about:glean</code> и коришћењем <code>testGetValue()</code> АПИ-ја као што је <code>Glean.metricCategory.metricName.testGetValue()</code> за метрику под називом <code>metric.category.metric_name</code>.
 # Do not translate strings between <code> </code> tags.
@@ -170,9 +160,6 @@ about-glean-no-data-to-display = Нема података за приказ.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code> метрика још увек није подржана у <code>about:glean</code> приказу.
 about-glean-unknown-metric-type-warning = Непозната врста метрике.
-about-glean-about-data-explanation =
-    За листу прикупљених података, погледајте
-    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } речник</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

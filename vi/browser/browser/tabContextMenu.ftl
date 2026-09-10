@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Thẻ mới
-    .accesskey = w
 reload-tab =
     .label = Tải lại thẻ
     .accesskey = R
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nhóm mới
     .accesskey = G
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -198,9 +191,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Tạo liên kết có thể chia sẻ
     .accesskey = a
-tab-context-send-tabs-to-device =
-    .label = Gửi { $tabCount } thẻ đến thiết bị
-    .accesskey = n
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

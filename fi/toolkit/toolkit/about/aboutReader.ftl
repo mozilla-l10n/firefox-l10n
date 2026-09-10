@@ -4,14 +4,6 @@
 
 about-reader-loading = Ladataan…
 about-reader-load-error = Artikkelin lataaminen sivulta epäonnistui
-about-reader-color-scheme-light = Vaalea
-    .title = Vaalea väriteema
-about-reader-color-scheme-dark = Tumma
-    .title = Tumma väriteema
-about-reader-color-scheme-sepia = Seepia
-    .title = Seepiamainen väriteema
-about-reader-color-scheme-auto = Automaattinen
-    .title = Automaattinen väriteema
 about-reader-color-light-theme = Vaalea
     .title = Vaalea teema
 about-reader-color-dark-theme = Tumma
@@ -24,16 +16,6 @@ about-reader-color-gray-theme = Harmaa
     .title = Harmaa teema
 about-reader-color-contrast-theme = Kontrasti
     .title = Kontrastiteema
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time =
-    { $rangePlural ->
-        [one] { $range } minuutti
-       *[other] { $range } minuuttia
-    }
 
 ## Reader View text and layout menu
 
@@ -41,14 +23,6 @@ about-reader-toolbar-minus =
     .title = Pienennä kirjasinkokoa
 about-reader-toolbar-plus =
     .title = Suurenna kirjasinkokoa
-about-reader-toolbar-contentwidthminus =
-    .title = Pienennä sisällön leveyttä
-about-reader-toolbar-contentwidthplus =
-    .title = Suurenna sisällön leveyttä
-about-reader-toolbar-lineheightminus =
-    .title = Pienennä rivikorkeutta
-about-reader-toolbar-lineheightplus =
-    .title = Suurenna rivikorkeutta
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -59,7 +33,6 @@ about-reader-font-type-monospace = Tasavälinen
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Sulje lukunäkymä
-about-reader-toolbar-type-controls = Kirjasinasetukset
 about-reader-toolbar-text-layout-controls = Teksti ja asettelu
 about-reader-toolbar-theme-controls = Teema
 about-reader-toolbar-savetopocket = Tallenna { -pocket-brand-name }iin

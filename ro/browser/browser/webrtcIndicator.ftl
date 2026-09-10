@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Indicator de partajare
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Indicator de partajare
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Microfonul îți este partajat. Clic pentru a controla partajarea.
 webrtc-screen-system-menu =
     .label = O fereastră sau un ecran îți este partajat(ă). Clic pentru a controla partajarea.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Camera și microfonul îți sunt partajate. Clic pentru a controla partajarea.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Camera îți este partajată. Clic pentru a controla partajarea.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Microfonul îți este partajat. Clic pentru a controla partajarea.
-webrtc-indicator-sharing-application =
-    .tooltiptext = O aplicație este partajată. Clic pentru a controla partajarea.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Ecranul îți este partajat. Clic pentru a controla partajarea.
-webrtc-indicator-sharing-window =
-    .tooltiptext = O fereastră este partajată. Clic pentru a controla partajarea.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = O filă este partajată. Clic pentru a controla partajarea.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -191,7 +172,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Permiți { $orig
 
 webrtc-share-screen-warning = Nu partaja ecranul decât cu site-uri în care ai încredere. Partajarea poate permite site-urilor înșelătoare să își însușească identitatea ta la navigare și să îți fure datele private.
 webrtc-share-browser-warning = Nu partaja { -brand-short-name } decât cu site-uri în care ai încredere. Partajarea poate permite site-urilor înșelătoare să își însușească identitatea ta la navigare și să îți fure datele private.
-webrtc-share-screen-learn-more = Află mai multe
 webrtc-pick-window-or-screen = Selectează fereastra sau ecranul
 webrtc-share-entire-screen = Tot ecranul
 webrtc-share-pipe-wire-portal = Folosește setările sistemului de operare

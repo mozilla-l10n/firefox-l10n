@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Исклучоци
     .style = min-width: 36em
+    .title = Исклучоци
 permissions-close-key =
     .key = w
 permissions-address = Адреса на мрежното место
@@ -54,10 +54,6 @@ permissions-capabilities-listitem-allow-session =
 
 permissions-invalid-uri-title = Внесено е погрешно име на домаќин
 permissions-invalid-uri-label = Внесете точно име на домаќин
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-desc = Можете да одредите кои мрежни места смеат да отвораат скокачки прозорци. Внесете ја точната адреса за која сакате да дозволите и кликнете на „Дозволи“.
 
 ## Exceptions - Add-ons
 

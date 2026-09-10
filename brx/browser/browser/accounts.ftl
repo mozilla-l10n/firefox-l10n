@@ -9,11 +9,6 @@
 account-reconnect = फिन फोनांजाब { $email }
 account-verify = { $email } फोरमान खालाम
 
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the Sync account is unverified. Redirects to the Sync preferences page.
-
-account-send-tab-to-device-verify = नोंथांनि एकाउन्टखौ नायबिजिर...
-
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.

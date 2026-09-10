@@ -156,15 +156,10 @@ addon-sitepermission-host = การกำหนดสิทธิ์ไซต�
 
 ## These are global warnings
 
-extensions-warning-safe-mode = ส่วนเสริมทั้งหมดถูกปิดใช้งานโดยโหมดปลอดภัย
-extensions-warning-check-compatibility = การตรวจสอบความเข้ากันได้ของส่วนเสริมถูกปิดใช้งาน คุณอาจมีส่วนเสริมที่ใช้ร่วมกันไม่ได้
-extensions-warning-safe-mode2 =
-    .message = ส่วนเสริมทั้งหมดถูกปิดใช้งานโดยโหมดปลอดภัย
 extensions-warning-check-compatibility2 =
     .message = การตรวจสอบความเข้ากันได้ของส่วนเสริมถูกปิดใช้งาน คุณอาจมีส่วนเสริมที่ใช้ร่วมกันไม่ได้
 extensions-warning-check-compatibility-button = เปิดใช้งาน
     .title = เปิดใช้งานการตรวจสอบความเข้ากันได้ของส่วนเสริม
-extensions-warning-update-security = การตรวจสอบความปลอดภัยของการอัปเดตส่วนเสริมถูกปิดใช้งาน คุณอาจถูกบุกรุกโดยการอัปเดต
 extensions-warning-update-security2 =
     .message = การตรวจสอบความปลอดภัยของการอัปเดตส่วนเสริมถูกปิดใช้งาน คุณอาจถูกบุกรุกโดยการอัปเดต
 extensions-warning-update-security-button = เปิดใช้งาน
@@ -240,10 +235,6 @@ shortcuts-duplicate = ทางลัดซ้ำกัน
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } กำลังถูกใช้เป็นทางลัดในกรณีมากกว่าหนึ่งกรณี ทางลัดที่ซ้ำกันอาจทำให้เกิดลักษณะการทำงานที่ไม่คาดคิด
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } กำลังถูกใช้เป็นทางลัดในกรณีมากกว่าหนึ่งกรณี ทางลัดที่ซ้ำกันอาจทำให้เกิดลักษณะการทำงานที่ไม่คาดคิด
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -262,18 +253,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    ส่วนขยายและชุดตกแต่งเป็นเหมือนแอปสำหรับเบราว์เซอร์ของคุณ ซึ่งให้คุณป้องกัน
-    รหัสผ่าน ดาวน์โหลดวิดีโอ ค้นหาดีล ปิดกั้นโฆษณาที่น่ารำคาญ เปลี่ยนรูปลักษณ์ของ
-    เบราว์เซอร์ของคุณ และอื่น ๆ อีกมากมาย โปรแกรมซอฟต์แวร์ขนาดเล็กเหล่านั้นมักถูก
-    พัฒนาโดยบุคคลที่สาม นี่คือตัวเลือกที่ { -brand-product-name } <a data-l10n-name="learn-more-trigger">แนะนำ</a>เพื่อ
-    ความปลอดภัย ประสิทธิภาพ และการทำงานที่ดีกว่า
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    บางคำแนะนำเหล่านี้ถูกปรับเปลี่ยนตามแบบส่วนบุคคล ซึ่งขึ้นอยู่กับส่วนขยายอื่นที่คุณติดตั้ง
-    ค่าปรับแต่งโปรไฟล์ และสถิติการใช้งาน
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -356,16 +335,9 @@ addon-detail-last-updated-label = อัปเดตล่าสุด
 addon-detail-homepage-label = หน้าแรก
 addon-detail-rating-label = การจัดอันดับ
 # Message for add-ons with a staged pending update.
-install-postponed-message = ส่วนขยายนี้จะถูกอัปเดตเมื่อ { -brand-short-name } เริ่มการทำงานใหม่
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = ส่วนขยายนี้จะถูกอัปเดตเมื่อ { -brand-short-name } เริ่มการทำงานใหม่
 install-postponed-button = อัปเดตตอนนี้
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = ได้รับการจัดอันดับ { NUMBER($rating, maximumFractionDigits: 1) } จาก 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -380,9 +352,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = เอา <span data-l10n-name="addon-name">{ $addon }</span> ออกแล้ว
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -401,11 +370,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = อนุญาตในหน้าต่างส่วนตัวแล้ว
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = อนุญาตในหน้าต่างส่วนตัวแล้ว
 addon-detail-private-browsing-help = เมื่อได้รับอนุญาต ส่วนขยายจะสามารถเข้าถึงกิจกรรมออนไลน์ของคุณได้ในขณะที่เรียกดูแบบส่วนตัว <a data-l10n-name="learn-more">เรียนรู้เพิ่มเติม</a>
 addon-detail-private-browsing-allow = อนุญาต
@@ -432,17 +396,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } แนะนำเฉพาะส่วนขยายที่ตรงตามมาตรฐานของเราเท่านั้นเพื่อความปลอดภัยและประสิทธิภาพ
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = ส่วนขยายอย่างเป็นทางการที่สร้างขึ้นโดย Mozilla ซึ่งตรงตามมาตรฐานความปลอดภัยและประสิทธิภาพ
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = ส่วนขยายนี้ได้รับการตรวจสอบว่าเป็นไปตามมาตรฐานด้านความปลอดภัยและประสิทธิภาพของเรา
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -472,9 +425,6 @@ addon-permissions-heading = การอนุญาต
 addon-permissions-empty2 = ส่วนขยายนี้ไม่จำเป็นต้องขอสิทธิ์ใด
 addon-permissions-required-label = ที่จำเป็น:
 addon-permissions-optional-label = ที่เลือกได้:
-addon-permissions-empty = ส่วนขยายนี้ไม่จำเป็นต้องขอสิทธิ์ใด
-addon-permissions-required = สิทธิ์ที่ต้องการสำหรับฟังก์ชันการทำงานหลัก:
-addon-permissions-optional = สิทธิ์เผื่อเลือกสำหรับฟังก์ชันการทำงานเพิ่มเติม:
 addon-permissions-learnmore = เรียนรู้เพิ่มเติมเกี่ยวกับการกำหนดสิทธิ์
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -515,25 +465,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } ใช้ร่วมกับ { -brand-short-name } { $version } ไม่ได้
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } ใช้ร่วมกับ { -brand-short-name } { $version } ไม่ได้
-details-notification-incompatible-link = ข้อมูลเพิ่มเติม
-details-notification-unsigned-and-disabled = { $name } ไม่สามารถยืนยันสำหรับใช้ใน { -brand-short-name } และถูกปิดใช้งาน
 details-notification-unsigned-and-disabled2 =
     .message = { $name } ไม่สามารถยืนยันสำหรับใช้ใน { -brand-short-name } และถูกปิดใช้งาน
-details-notification-unsigned-and-disabled-link = ข้อมูลเพิ่มเติม
-details-notification-unsigned = { $name } ไม่สามารถยืนยันสำหรับใช้ใน { -brand-short-name } ดำเนินการต่อด้วยความระมัดระวัง
 details-notification-unsigned2 =
     .message = { $name } ไม่สามารถยืนยันสำหรับใช้ใน { -brand-short-name } ดำเนินการต่อด้วยความระมัดระวัง
 details-notification-hard-blocked-extension =
     .message = ส่วนขยายนี้ถูกปิดกั้นเนื่องจากละเมิดนโยบายของ Mozilla และถูกปิดใช้งานแล้ว
 details-notification-hard-blocked-other =
     .message = ส่วนเสริมนี้ถูกปิดกั้นเนื่องจากละเมิดนโยบายของ Mozilla และถูกปิดใช้งานแล้ว
-details-notification-unsigned-link = ข้อมูลเพิ่มเติม
-details-notification-blocked = { $name } ถูกปิดใช้งานเนื่องจากปัญหาด้านความปลอดภัยหรือเสถียรภาพ
 details-notification-blocked-link2 = ดูรายละเอียด
 details-notification-soft-blocked-extension-disabled2 =
     .message = ส่วนขยายนี้ถูกจำกัดและได้ถูกปิดใช้งานแล้ว คุณสามารถเปิดใช้งานได้ แต่อาจมีความเสี่ยง
@@ -543,19 +484,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = ส่วนเสริมนี้ถูกจำกัดและได้ถูกปิดใช้งานแล้ว คุณสามารถเปิดใช้งานได้ แต่อาจมีความเสี่ยง
 details-notification-soft-blocked-other-enabled2 =
     .message = ส่วนเสริมนี้ถูกจำกัด การใช้ส่วนเสริมนี้อาจมีความเสี่ยง
-details-notification-soft-blocked-extension-disabled =
-    .message = ส่วนขยายนี้ถูกจำกัดเนื่องจากละเมิดนโยบายของ Mozilla และถูกปิดใช้งานแล้ว คุณสามารถเปิดใช้งานได้ แต่อาจมีความเสี่ยง
-details-notification-soft-blocked-extension-enabled =
-    .message = ส่วนขยายนี้ละเมิดนโยบายของ Mozilla การใช้ส่วนขยายนี้อาจมีความเสี่ยง
-details-notification-soft-blocked-other-disabled =
-    .message = ส่วนเสริมนี้ถูกจำกัดเนื่องจากละเมิดนโยบายของ Mozilla และถูกปิดใช้งานแล้ว คุณสามารถเปิดใช้งานได้ แต่อาจมีความเสี่ยง
-details-notification-soft-blocked-other-enabled =
-    .message = ส่วนเสริมนี้ละเมิดนโยบายของ Mozilla การใช้ส่วนเสริมนี้อาจมีความเสี่ยง
 details-notification-softblocked-link2 = ดูรายละเอียด
-details-notification-blocked-link = ข้อมูลเพิ่มเติม
-details-notification-softblocked = { $name } เป็นที่ทราบว่าก่อให้เกิดปัญหาด้านความปลอดภัยหรือเสถียรภาพ
-details-notification-softblocked-link = ข้อมูลเพิ่มเติม
-details-notification-gmp-pending = { $name } จะถูกติดตั้งในไม่ช้า
 details-notification-gmp-pending2 =
     .message = { $name } จะถูกติดตั้งในไม่ช้า
 
@@ -571,8 +500,6 @@ plugins-widevine-description = ปลั๊กอินนี้ช่วยใ�
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = การรวบรวมข้อมูลที่ต้องการ:
-addon-permissions-optional-data-collection = การรวบรวมข้อมูลที่เป็นทางเลือก:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = การกำหนดสิทธิ์และข้อมูล
 # This is a description for extension that use this AI model

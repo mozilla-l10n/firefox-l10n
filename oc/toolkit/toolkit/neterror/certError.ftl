@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Lo certificat es pas segur perque l'autorita
 cert-error-trust-signature-algorithm-disabled = Lo certificat es pas segur perque es estat signat amb l'ajuda d'un algoritme de signatura qu'es estat desactivat perque aqueste algoritme es pas securizat.
 cert-error-trust-expired-issuer = Lo certificat es pas segur perque lo certificat de l'autoritat que l'a desliurat a expirat.
 cert-error-trust-self-signed = Lo certificat es pas segur perque es autosignat.
-cert-error-trust-symantec = Los certificats emeses per GeoTrust, RapidSSL, Symantec, Thawte e VeriSign son pas mai considerats coma segurs perque aquestas autoritats de certificacion fracassèron a respectar las bonas practicas dins lo passat.
 cert-error-untrusted-default = Lo certificat proven pas d'una font segura.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -52,10 +51,6 @@ cert-error-code-prefix-link = Còdi d’error : <a data-l10n-name="error-code-
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Una error s'es producha pendent una connexion a { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Los sites web pròvan lor identitat via de certificats, que son emeses per d’autoritats de certificacion. La màger part des navegadors se fisan pas mai dels certificats emeses per GeoTrust, RapidSSL, Symantec, Thawte e VeriSign. { $hostname } utiliza un certificat d’una d’aquestas autoritats e doncas l’identitat de son site web pòt pas èsser provada.
-cert-error-symantec-distrust-admin = Podètz avisar l’administrator d’aqueste site web d’aquel problèma.
 cert-error-old-tls-version = Aqueste site poiriá prendre pas en carga lo protocòl TLS 1.2, qu’es la version minimala presa en carga per { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -64,7 +59,6 @@ cert-error-details-hsts-label = Seguretat estricta de transpòrt HTTP: { $hasHST
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Clau publica fixa HTTP : { $hasHPKP }
 cert-error-details-cert-chain-label = Cadena de certificats :
-open-in-new-window-for-csp-or-xfo-error = Dobrir lo site dins una fenèstra novèla
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Per protegir vòstra seguretat, { $hostname } permetrà pas a { -brand-short-name } d‘afichar la pagina se aquesta es integrada sus un autre site. Per veire aquesta pagina, vos cal la dobrir dins una fenèstra novèla.
@@ -76,8 +70,6 @@ deniedPortAccess-title = Aquesta adreça es restrencha
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Umm. capitam pas a trobar aqueste site.
-dns-not-found-trr-only-title2 = Possible risc de seguretat pendent la resolucion d’aqueste domeni
-dns-not-found-native-fallback-title2 = Possible risc de seguretat pendent la resolucion d’aqueste domeni
 fileNotFound-title = Fichièrs pas trobat
 fileAccessDenied-title = L'accès al fichièr es estat refusat
 generic-title = La requèsta pòt pas abotir
@@ -99,7 +91,6 @@ redirectLoop-title = Redireccion de pagina incorrècta
 unknownSocketType-title = Responsa inesperada del servidor
 nssFailure2-title = La connexion segura a pas capitat
 csp-xfo-error-title = { -brand-short-name } pòt pas dobrir aquesta pagina
-corruptedContentError-title = Error deguda a un contengut corromput
 sslv3Used-title = Impossible d'establir una connexion securizada
 inadequateSecurityError-title = Vòstra connexion es pas segura
 blockedByPolicy-title = Pagina blocada

@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = ছাইটৰ তথ্য চাওক
 
@@ -40,8 +35,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = অফলাইন ষ্ট'ৰেজ বাৰ্তা পেনেল খোলক
 urlbar-password-notification-anchor =
     .tooltiptext = পাছৱৰ্ড সঞ্চয় কৰা বাৰ্তা পেনেল খোলক
-urlbar-plugins-notification-anchor =
-    .tooltiptext = প্লাগ-ইন ব্যৱহাৰ পৰিচালনা কৰক
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = ছাইটৰ সৈতে আপোনাৰ কেমেৰা আৰু/বা মাইক্ৰ'ফোন সহভাগ কৰাটো পৰিচালনা কৰক
 # "Speakers" is used in a general sense that might include headphones or
@@ -54,14 +47,7 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = অপৰিৱৰ্তনীয় ষ্ট'ৰেজত ডাটা সাঁচি থওক
 urlbar-addons-notification-anchor =
     .tooltiptext = এড-অন ইনষ্টলেশ্যন বাৰ্তা পেনেল খোলক
-urlbar-tip-help-icon =
-    .title = সহায় লাভ কৰক
 urlbar-search-tips-confirm = বাৰু, বুজিলোঁ
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = কিটিপ:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -96,8 +82,6 @@ urlbar-screen-blocked =
     .tooltiptext = আপুনি এই ৱেবছাইটে আপোনাৰ স্ক্ৰীণ সহভাগ কৰাটো অৱৰোধ কৰিছে।
 urlbar-persistent-storage-blocked =
     .tooltiptext = এই ৱেবছাইটৰ বাবে আপুনি পাৰ্ছিষ্টেণ্ট ষ্ট'ৰেজ অৱৰোধ কৰিছে।
-urlbar-popup-blocked =
-    .tooltiptext = এই ৱেবছাইটৰ বাবে আপুনি প'প-আপ অৱৰোধ কৰিছে।
 urlbar-autoplay-media-blocked =
     .tooltiptext = এই ৱেবছাইটৰ বাবে আপুনি শব্দ থকা মিডিয়া স্বয়ংচলন অৱৰোধ কৰিছে।
 urlbar-canvas-blocked =
@@ -227,17 +211,13 @@ identity-custom-root = এনে এক প্ৰমাণপত্ৰ জাৰ
 identity-passive-loaded = এই পৃষ্ঠাখনৰ কিছুমান অংশ সুৰক্ষিত নহয় (যেনে ছবিসমূহ)।
 identity-active-loaded = আপুনি এই পৃষ্ঠাখনত সুৰক্ষা নিষ্ক্ৰিয় কৰিছে।
 identity-weak-encryption = এই পৃষ্ঠাখনে দুৰ্বল এনক্ৰীপশ্যন ব্যৱহাৰ কৰে।
-identity-insecure-login-forms = এই পৃষ্ঠাখনত প্ৰৱিষ্ট কৰা লগিনসমূহ আপোচ কৰা হ'ব পাৰে।
 identity-https-only-connection-upgraded = (HTTPSলৈ আপগ্ৰেড কৰা হৈছে)
-identity-https-only-label = কেৱল-HTTPS ম'ড
 identity-https-only-dropdown-on =
     .label = চালু
 identity-https-only-dropdown-off =
     .label = বন্ধ
 identity-https-only-dropdown-off-temporarily =
     .label = অস্থায়ীভাৱে বন্ধ
-identity-https-only-info-turn-on2 = যদি আপুনি সম্ভৱ হ'লে { -brand-short-name }-এ সংযোগ আপগ্ৰেড কৰাটো বিচাৰে তেন্তে এই ছাইটৰ বাবে কেৱল-HTTPS ম'ড চালু কৰক।
-identity-https-only-info-turn-off2 = যদি পৃষ্ঠাখন নষ্ট যেন লাগে তেন্তে আপুনি অসুৰক্ষিত HTTP ব্যৱহাৰ কৰি পুনৰ ল'ড কৰিবলৈ এই ছাইটৰ বাবে কেৱল-HTTPS ম'ড বন্ধ কৰিব বিচাৰিব পাৰে।
 identity-https-only-info-no-upgrade = HTTPৰ পৰা সংযোগ আপগ্ৰেড কৰিব পৰা নগ'ল।
 identity-permissions-storage-access-header = ক্ৰ'ছ-ছাইট কুকীজ
 identity-permissions-storage-access-hint = আপুনি এই ছাইটত থাকোঁতে এই পক্ষবোৰে ক্ৰছ-ছাইট কুকীজ আৰু ছাইট ডাটা ব্যৱহাৰ কৰিব পাৰে।
@@ -253,7 +233,6 @@ identity-remove-cert-exception =
     .label = ব্যতিক্ৰম আঁতৰাওক
     .accesskey = ত
 identity-description-insecure = এই ছাইটৰ সৈতে আপোনাৰ সংযোগ ব্যক্তিগত নহয়। আপুনি দাখিল কৰা তথ্য আনে চাব পাৰে (যেনে পাছৱৰ্ড, বাৰ্তা, ক্ৰেডিট কাৰ্ড ইত্যাদি)।
-identity-description-insecure-login-forms = এই পৃষ্ঠাত আপুনি লিখা লগিনৰ তথ্য সুৰক্ষিত নহয় আৰু আপোচ কৰা হ'ব পাৰে।
 identity-description-weak-cipher-intro = এই ৱেবছাইটৰ সৈতে আপোনাৰ সংযোগে দুৰ্বল এন্‌ক্ৰিপশ্যন ব্যৱহাৰ কৰে আৰু ব্যক্তিগত নহয়।
 identity-description-weak-cipher-risk = অন্য লোকে আপোনাৰ তথ্য চাব পাৰে বা ৱেবছাইটৰ আচৰণ সলনি কৰিব পাৰে।
 identity-description-active-blocked2 = { -brand-short-name }-এ এই পৃষ্ঠাখনৰ কিছুমান অংশ অৱৰোধ কৰিছে যিবোৰ সুৰক্ষিত নহয়।
@@ -262,12 +241,6 @@ identity-description-passive-loaded-insecure2 = এই ৱেবছাইটত 
 identity-description-passive-loaded-mixed2 = যদিও { -brand-short-name }-এ কিছুমান সমল অৱৰোধ কৰিছে, তথাপিও পৃষ্ঠাত এনে সমল আছে যি সুৰক্ষিত নহয় (যেনে ছবি)।
 identity-description-active-loaded = এই ৱেবছাইটত এনে সমল আছে যি সুৰক্ষিত নহয় (যেনে স্ক্ৰিপ্ট) আৰু ইয়াৰ সৈতে আপোনাৰ সংযোগ ব্যক্তিগত নহয়।
 identity-description-active-loaded-insecure = আপুনি এই ছাইটৰ সৈতে ভাগ-বতৰা কৰা তথ্য আনে চাব পাৰে (যেনে পাছৱৰ্ড, বাৰ্তা, ক্ৰেডিট কাৰ্ড, ইত্যাদি)।
-identity-disable-mixed-content-blocking =
-    .label = এতিয়াৰ বাবে সুৰক্ষা অসামৰ্থবান কৰক
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = সুৰক্ষা সক্ৰিয় কৰক
-    .accesskey = E
 identity-more-info-link-text =
     .label = অধিক তথ্য
 
@@ -281,40 +254,6 @@ browser-window-restore-down-button =
     .tooltiptext = পূৰ্বৰ অৱস্থালৈ নিয়ক
 browser-window-close-button =
     .tooltiptext = বন্ধ কৰক
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = বাজি আছে
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = নিমাত হৈ আছে
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = স্বয়ং-চলন অৱৰোধ কৰা হৈছে
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = ছবিৰ-ওপৰত-ছবি
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] টেব মিউট কৰক
-        [one] { $count }টা টেব মিউট কৰক
-       *[other] { $count }টা টেব মিউট কৰক
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] টেব আনমিউট কৰক
-        [one] { $count }টা টেব আনমিউট কৰক
-       *[other] { $count }টা টেব আনমিউট কৰক
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] টেব চলাওক
-        [one] { $count }টা টেব চলাওক
-       *[other] { $count }টা টেব চলাওক
-    }
 
 ## Bookmarks toolbar items
 
@@ -403,8 +342,6 @@ urlbar-extension =
     .value = এক্সটেনশ্যন:
 urlbar-go-button2 =
     .title = অৱস্থান বাৰত থকা ঠিকনালে যাওক
-urlbar-go-button =
-    .tooltiptext = অৱস্থান বাৰত থকা ঠিকনালে যাওক
 urlbar-page-action-button =
     .tooltiptext = পৃষ্ঠাৰ ক্ৰিয়াসমূহ
 
@@ -450,20 +387,9 @@ urlbar-result-action-tabtosearch-web = { $engine }-এৰে চিধাই আ
 urlbar-result-action-tabtosearch-other-engine = { $engine }-ত চিধাই আপোনাৰ ঠিকনা দণ্ডিকাৰ পৰা সন্ধান কৰক
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = কপি কৰক
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
-urlbar-searchmode-bookmarks =
-    .label = বুকমাৰ্কসমূহ
-urlbar-searchmode-tabs =
-    .label = টেবসমূহ
-urlbar-searchmode-history =
-    .label = ইতিহাস
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -554,12 +480,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] বুকমাৰ্কৰ টুলবাৰ লুকুৱাওক
            *[other] বুকমাৰ্কৰ টুলবাৰ দেখুৱাওক
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] টুলবাৰৰ পৰা বুকমাৰ্কৰ মেন্যু আঁতৰাওক
-           *[other] টুলবাৰত বুকমাৰ্কৰ মেন্যু যোগ কৰক
-        }
 
 ##
 
@@ -585,14 +505,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = বুকমাৰ্কসমূহ
-library-recent-activity-title =
-    .value = শেহতীয়া কাৰ্যকলাপ
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = { -pocket-brand-name }-ত সাঁচি থওক
-    .tooltiptext = { -pocket-brand-name }-ত সাঁচি থওক
 
 ## Repair text encoding toolbar button
 
@@ -646,8 +558,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = ব্যৱহাৰকাৰীনাম
-panel-save-update-password = পাছৱৰ্ড
 panel-save-update-username-2 =
     .label = ব্যৱহাৰকাৰীনাম
 panel-save-update-password-2 =
@@ -661,24 +571,8 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = বন্ধ কৰক
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = { $uriHost } ৰ বাবে পপ-আপসমূহৰ অনুমতি দিয়ক
-    .accesskey = p
-popups-infobar-block =
-    .label = { $uriHost } ৰ বাবে পপ-আপসমূহ প্ৰতিৰোধ কৰক
-    .accesskey = p
-
 ##
 
-popups-infobar-dont-show-message =
-    .label = যেতিয়া পপ-আপসমূহ প্ৰতিৰোধিত তেতিয়া এই বাৰ্তা নেদেখাব
-    .accesskey = D
-edit-popup-settings =
-    .label = প'প-আপ ছেটিংছ পৰিচালনা কৰক…
-    .accesskey = M
 picture-in-picture-hide-toggle =
     .label = "ছবিৰ-ওপৰত-ছবি"ৰ ট'গল লুকুৱাওক
     .accesskey = H
@@ -692,8 +586,6 @@ navbar-accessible =
     .aria-label = নেভিগেশ্যন...
 navbar-downloads =
     .label = ডাউনল'ডসমূহ
-navbar-overflow =
-    .tooltiptext = অধিক সঁজুলি…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

@@ -3,16 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-reader-loading = ल'ड खालाम गासिनो दं...
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time =
-    { $rangePlural ->
-        [one] { $range } मिनिट
-       *[other] { $range } मिनिट
-    }
 
 ## These are the styles of typeface that are options in the reader view controls.
 

@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = Mantenga { -brand-short-name } al alcance d
 default-browser-prompt-message-pin-msix = Mantenga { -brand-short-name } al alcance de sus dedos — conviértalo en el navegador predeterminado y péguelo en la barra de tareas y el menú de inicio.
 default-browser-prompt-message-pin-mac = Mantenga { -brand-short-name } al alcance de sus dedos — conviértalo en el navegador predeterminado y péguelo en la barra de tareas.
 default-browser-prompt-button-primary-set = Establecer como navegador primario
-default-browser-prompt-button-primary-pin = Hacer navegador principal
 default-browser-prompt-title-alt = ¿Hacer que { -brand-short-name } sea el navegador predeterminado?
 default-browser-prompt-message-alt = Velocidad, seguridad y privacidad cada vez que navegue.
 default-browser-prompt-button-primary-alt = Establecer como navegador predeterminado

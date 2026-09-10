@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Пинҳон карда
 about-webrtc-aec-logging-msg-label = Сабти рӯйдодҳои AEC
 about-webrtc-aec-logging-off-state-label = Оғози сабти рӯйдодҳои AEC
 about-webrtc-aec-logging-on-state-label = Манъи сабти рӯйдодҳои AEC
-about-webrtc-aec-logging-on-state-msg = Сабти рӯйдодҳои AEC фаъол аст (бо муштарӣ якчанд дақиқа суҳбат кунед ва пас забтро манъ кунед)
 about-webrtc-aec-logging-toggled-on-state-msg = Сабти рӯйдодҳои AEC фаъол аст (бо муштарӣ якчанд дақиқа суҳбат кунед ва пас забтро манъ кунед)
 about-webrtc-aec-logging-unavailable-sandbox = Барои содир кардани сабти рӯйдодҳои «AEC» тағйирёбандаи муҳити «MOZ_DISABLE_CONTENT_SANDBOX=1» лозим аст. Ин тағйирёбандаро танҳо дар он маврид танзим кунед, агар шумо бо ҳамаи хатарҳои имконпазир бохабар бошед.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Пешниҳодшуда
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Интихоб шуд
 about-webrtc-save-page-label = Нигоҳ доштани саҳифа
-about-webrtc-debug-mode-msg-label = Реҷаи ислоҳи нуқсонҳо
-about-webrtc-debug-mode-off-state-label = Оғоз кардани реҷаи ислоҳи нуқсонҳо
-about-webrtc-debug-mode-on-state-label = Қатъ кардани реҷаи ислоҳи нуқсонҳо
-about-webrtc-stats-heading = Омори ҷаласа
 about-webrtc-enable-logging-label = Фаъол кардани танзими пешфарзи сабти рӯйдодҳои «WebRTC»
 about-webrtc-peerconnections-section-heading = Омори «RTCPeerConnection»
 about-webrtc-peerconnections-section-show-msg = Намоиш додани омори «RTCPeerConnection»
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = Пинҳон кардани ом
 about-webrtc-stats-clear = Пок кардани таърих
 about-webrtc-log-heading = Сабти рӯйдодҳои пайваст
 about-webrtc-log-clear = Пок кардани сабти рӯйдодҳо
-about-webrtc-log-show-msg = намоиш додани сабти рӯйдодҳо
-    .title = барои баркушодани ин қисмат, зер кунед
-about-webrtc-log-hide-msg = пинҳон кардани сабти рӯйдодҳо
-    .title = барои пинҳон кардани ин қисмат, зер кунед
 about-webrtc-log-section-show-msg = Намоиш додани сабти рӯйдодҳо
     .title = Барои баркушодани ин қисмат, зер кунед
 about-webrtc-log-section-hide-msg = Пинҳон кардани сабти рӯйдодҳо
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Номзади дурдаст
 about-webrtc-raw-candidates-heading = Ҳамаи номзадҳои коркарднашуда
 about-webrtc-raw-local-candidate = Номзади коркарднашудаи маҳаллӣ
 about-webrtc-raw-remote-candidate = Номзади коркарднашудаи дурдаст
-about-webrtc-raw-cand-show-msg = намоиш додани номзадҳои коркарднашуда
-    .title = барои баркушодани ин қисмат, зер кунед
-about-webrtc-raw-cand-hide-msg = пинҳон кардани номзадҳои коркарднашуда
-    .title = барои пинҳон кардани ин қисмат, зер кунед
 about-webrtc-raw-cand-section-show-msg = Намоиш додани номзадҳои коркарднашуда
     .title = Барои баркушодани ин қисмат, зер кунед
 about-webrtc-raw-cand-section-hide-msg = Пинҳон кардани номзадҳои коркарднашуда
     .title = Барои пинҳон кардани ин қисмат, зер кунед
 about-webrtc-priority = Афзалият
-about-webrtc-fold-show-msg = намоиш додани тафсилот
-    .title = барои баркушодани ин қисмат, зер кунед
-about-webrtc-fold-hide-msg = пинҳон кардани тафсилот
-    .title = барои пинҳон кардани ин қисмат, зер кунед
 about-webrtc-fold-default-show-msg = Намоиш додани тафсилот
     .title = Барои баркушодани ин қисмат, зер кунед
 about-webrtc-fold-default-hide-msg = Пинҳон кардани тафсилот
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Таъмин шудааст
 # been provided
 about-webrtc-configuration-element-not-provided = Таъмин нашудааст
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Хусусиятҳои WebRTC-и танзими корбарӣ
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Корбар танзимоти «WebRTC»-ро иваз кард
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT (мс)
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Омори кадрҳои видеоӣ - Муайянкунандаи «MediaStreamTrack»: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = саҳифа ба масири зерин нигоҳ дошта шуд: { $path }
-about-webrtc-debug-mode-off-state-msg = сабти рӯйдодҳои пайгирӣ метавонад дар масири зерин пайдо шавад: { $path }
-about-webrtc-debug-mode-on-state-msg = реҷаи ислоҳи хатоҳо фаъол аст, сабти рӯйдодҳо дар: { $path }
-about-webrtc-aec-logging-off-state-msg = файлҳои сабти рӯйдодҳои забт дар ин ҷо дастрасанд: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

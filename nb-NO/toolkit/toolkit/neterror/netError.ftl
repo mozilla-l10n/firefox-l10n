@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Gå tilbake
 neterror-return-to-previous-page-recommended-button = Gå tilbake (Anbefalt)
 neterror-try-again-button-2 = Prøv igjen
     .accesskey = r
-neterror-try-again-button = Prøv igjen
 neterror-add-exception-button = Fortsett alltid for denne siden
 neterror-settings-button = Endre DNS-innstillinger.
 neterror-view-certificate-link = Vis sertifikat
-neterror-trr-continue-this-time = Fortsett denne gangen
-neterror-disable-native-feedback-warning = Fortsett alltid
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = Les mer
 ##
 
 neterror-pref-reset = Det ser ut til at nettverkets sikkerhetsinnstillinger kan være årsak til dette. Vil du tilbakestille til standardinnstillinger?
-neterror-error-reporting-automatic = Rapporter feil som dette for å hjelpe { -vendor-short-name } med å identifisere og blokkere skadelige nettsteder.
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Koble fra og koble til Wi-Fi på
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } kan ikke beskytte forespørselen din om dette nettstedets adresse gjennom vår pålitelige DNS-resolver. Årsak:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } kan ikke beskytte forespørselen din om dette nettstedets adresse gjennom vår sikre DNS-leverandør. Årsak:
 neterror-dns-not-found-trr-third-party-warning2 = Du kan fortsette med din standard DNS-resolver. En tredjepart kan imidlertid være i stand til å se hvilke nettsteder du besøker.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } kunne ikke koble til { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Tilkoblingen til { $trrDomain } tok lengre tid enn forventet.
-neterror-dns-not-found-trr-offline = Du er ikke koblet til internett.
 neterror-dns-not-found-trr-unknown-host2 = Dette nettstedet ble ikke funnet av { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Det oppstod et problem med { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = Ugyldig nettadresse.
 neterror-dns-not-found-system-sleep = Systemet er i hvilemodus.
 neterror-dns-not-found-trr-unknown-problem = Uventet feil oppstod.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } kan ikke beskytte forespørselen din om dette nettstedets adresse gjennom vår pålitelige DNS-resolver. Årsak:
-neterror-dns-not-found-native-fallback-heuristic = DNS-over-HTTPS er deaktivert på nettverket ditt.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } kunne ikke koble til { $trrDomain }.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = Den kan være fjernet, flyttet eller filrettighetene fo
 neterror-unknown-protocol = Det er mulig du må installere annen programvare for å åpne denne adressen.
 neterror-redirect-loop = Dette problemet kan av og til skyldes at infokapsler er avslått eller ved å ikke godta infokapsler.
 neterror-unknown-socket-type-client-config = Dette kan skyldes en konfigurasjonsfeil med klienten din.
-neterror-unknown-socket-type-psm-installed = Kontroller at systemet ditt har Personal Security Manager installert.
-neterror-unknown-socket-type-server-config = Dette problemet kan skyldes en uvanlig konfigurasjon på serveren.
 neterror-not-cached-intro = Det forespurte dokumentet er ikke tilgjengelig i { -brand-short-name } sitt hurtiglager.
 neterror-not-cached-sensitive = Av sikkerhetshensyn tillater ikke { -brand-short-name } å automatisk hente sensitive dokumenter på nytt.
 neterror-not-cached-try-again = Trykk Prøv igjen for å hente dokumentet på nytt fra nettstedet.

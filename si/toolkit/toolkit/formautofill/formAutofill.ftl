@@ -17,7 +17,6 @@ autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } ගබඩ
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } ගබඩා කළ ගෙවීම් ක්‍රම තොරතුරු පෙන්වීමට උත්සාහ කරයි.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = ආකෘති ස්වයං පිරවුම් විකල්ප
-autofill-options-link-osx = ආකෘති ස්වයං පිරවුම් අභිප්‍රේත
 
 ## The credit card capture doorhanger
 
@@ -45,16 +44,6 @@ autofill-card-network-mastercard = මාස්ටර් කාඩ්
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = යුනියන් පේ
 autofill-card-network-visa = වීසා
-# The warning text that is displayed for informing users what categories are
-# about to be filled.  The text would be, for example,
-#   Also autofills organization, phone, email.
-# Variables:
-#   $categories - one or more of the categories, see autofill-category-X below
-autofill-phishing-warningmessage-extracategory = { $categories } ද ඉබේ පුරවයි
-# Variation when all are in the same category.
-# Variables:
-#   $categories - one or more of the categories
-autofill-phishing-warningmessage = { $categories } ඉබේ පුරවයි
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = ලිපිනය
 autofill-category-name = නම

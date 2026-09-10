@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-password-not-set =
-    .value = (not set)
 pw-change-success-title = Okukyusa ekisumuluzo kuyiseemu
 pw-change-failed-title = Okukyuusa Akasumulizo Kuganye
 pw-remove-button =
@@ -14,17 +12,10 @@ set-password-new =
     .label = Yingiza akasumuluzo ko:
 set-password-reenter =
     .label = Ddamu oyingize akasumuluzo:
-set-password-old-password = Current password:
-set-password-new-password = Yingiza akasumuluzo ko:
-set-password-reenter-password = Ddamu oyingize akasumuluzo:
 set-password-meter = Password quality meter
 set-password-meter-loading = Loading
-remove-info =
-    .value = Otekeddwa okuyingiza akasumuluzo kolina okusobola okweyongerayo:
 remove-password-old =
     .label = Current password:
-remove-password-old-password =
-    .value = Current password:
 set-password-not-set =
     .label = Current password:
     .placeholder = (not set)

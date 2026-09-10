@@ -243,8 +243,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Notkunarsnið
 menu-profiles-manage-profiles =
     .label = Sýsla með notkunarsnið
 menu-profiles-new-profile =
@@ -268,9 +266,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Forritsaukar og þemu
     .accesskey = e
-menu-tools-addons-and-themes =
-    .label = Viðbætur og þemu
-    .accesskey = b
 menu-tools-fxa-sign-in2 =
     .label = Innskráning
     .accesskey = I
@@ -324,8 +319,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Frekari upplýsingar um úrræðaleit
     .accesskey = t
-menu-help-report-site-issue =
-    .label = Tilkynna vandamál á vefsvæði…
 menu-help-share-ideas =
     .label = Deildu hugmyndum og athugasemdum...
     .accesskey = D

@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Pli da produktoj de { -vendor-short-name }
 more-from-moz-page-header =
     .heading = Pli da produktoj de { -vendor-short-name }
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } por poŝaparatoj
 more-from-moz-firefox-mobile-description = La poŝaparata retumilo kiu zorgas unue pri via privateco.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } por poŝaparatoj
 more-from-moz-firefox-mobile =
-    .label = { -brand-product-name } por poŝaparatoj
     .description = La poŝaparata retumilo kiu zorgas unue pri via privateco.
+    .label = { -brand-product-name } por poŝaparatoj
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Malkovru aldonan tavolon de protekto kaj anonima retumo.
 more-from-moz-qr-code-box-firefox-mobile-title = Elŝutu per via poŝaparato. Celu per via fimilo la kodon QR. Kiam ligilo aperas, tuŝetu ĝin.
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = Uzi { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Aŭtomate repreni viajn elmetitajn personajn informojn.
 more-from-moz-mozilla-monitor-global-description = Ricevu atentigojn kiam viaj datumoj estas elmetitaj de datumfuĝo.
 more-from-moz-mozilla-monitor-button = Elŝuti { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } A.I.
 more-from-moz-solo-description = Kreu vian propran retejon tuj kaj konektu senpage vian personecitigan nomregnon.
 more-from-moz-solo-button = Provu { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = { -solo-ai-brand-name } Kreanto de retejoj per AI
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = Retpoŝte sendi elŝutan ligilon al vi
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = Per senpaga analizo malkovru kie en la reto viaj personaj datumoj estis elmetitaj.
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = Ricevu aldonan protekton por ĉiuj apoj — ne nur por via retumilo. Tenu viajn datumojn sekuraj en publikaj Wi-Fi kaj en nesekuraj retoj.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = Protektu vian retpoŝtan enirkeston kontraŭ trudmesaĝoj per senpaga retpoŝta maskado.
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = Lernu programadon por la reto per senpagaj gvidiloj kaj referencoj.
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = Aliru vian retpoŝton kalendarojn kaj kontaktojn per nur unu rapida apo.
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = Tuje kreu vian retejon kaj senpage konektu vian personecigitan nomregnon al ĝi.
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = Novaj produktoj de { -vendor-short-name }
     .description = Esploru niajn lastajn ideojn kaj eksperimentajn teknologiojn.
+    .label = Novaj produktoj de { -vendor-short-name }
 more-from-moz-mozilla-monitor-box-link =
     .label = Elŝuti { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =

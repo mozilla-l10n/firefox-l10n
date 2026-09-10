@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Kasalukuyan kang nasa FIPS mode. Nangangai
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = I-reset ang Primary Password
     .style = min-width: 40em
+    .title = I-reset ang Primary Password
 reset-password-button-label =
     .label = I-reset
 reset-primary-password-text = Kapag nag-reset ka ng iyong Primary Password, lahat ng iyong nakaimbak na web at e-mail password, personal certificate, at private key ay makakalimutan. Sigurado ka bang gusto mong i-reset ang iyong Primary Password?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Na-reset na ang iyong Primary Passw
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Kinukuha ang Sertipiko
     .style = min-width: 46em
+    .title = Kinukuha ang Sertipiko
 download-cert-message = Pinapakiusapan kang pagkatiwalaan ang isang bagong Certificate Authority (CA).
 download-cert-trust-ssl =
     .label = Pagkatiwalaan ang CA na ito para matukoy ang mga website.
@@ -52,8 +52,6 @@ download-cert-view-text = Suriin ang CA certificate
 
 client-auth-window =
     .title = User Identification Request
-client-auth-site-description = Ang site na ito ay humiling sa iyo na makilala ang iyong sarili sa isang sertipiko:
-client-auth-choose-cert = Pumili ng certificate na maipapakita bilang pagkakakilanlan:
 client-auth-cert-details = Mga detalye ng piniling certificate:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

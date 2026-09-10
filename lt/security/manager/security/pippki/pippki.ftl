@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Šiuo metu pasirinkta FIPS veiksena. Jai r
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Atšaukti pagrindinį slaptažodį
     .style = min-width: 40em
+    .title = Atšaukti pagrindinį slaptažodį
 reset-password-button-label =
     .label = Atšaukti
 reset-primary-password-text = Jei atšauksite pagrindinį slaptažodį, prarasite visus įrašytus svetainių ir el. pašto dėžučių slaptažodžius, liudijimus ir asmeninius raktus. Ar atšaukti?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Pagrindinis slaptažodis atšauktas
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Liudijimo atsiuntimas
     .style = min-width: 46em
+    .title = Liudijimo atsiuntimas
 download-cert-message = Jūsų prašoma nurodyti, ką patikite naujai liudijimų įstaigai (LĮ).
 download-cert-trust-ssl =
     .label = Patikėti šiai LĮ paliudyti svetainių tapatumą.
@@ -52,8 +52,6 @@ download-cert-view-text = Susipažinti su LĮ liudijimu
 
 client-auth-window =
     .title = Naudotojo tapatybės nustatymas
-client-auth-site-description = Svetainė prašo pateikti jūsų tapatybę patvirtinantį liudijimą.
-client-auth-choose-cert = Pasirinkite liudijimą tapatybei patvirtinti:
 client-auth-cert-details = Išsamesnė informacija apie pasirinktą liudijimą:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

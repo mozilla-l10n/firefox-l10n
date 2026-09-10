@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Käännä sivu
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Käännös käynnissä
 translations-panel-settings-button =
     .aria-label = Hallitse käännösasetuksia
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BEETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Hallitse kieliä
-translations-panel-settings-about = Tietoja käännöksistä { -brand-shorter-name }issa
 translations-panel-settings-about2 =
     .label = Tietoja käännöksistä { -brand-shorter-name }issa
 # Text displayed for the option to always translate a given language
@@ -91,14 +82,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = Valitettavasti käännökset kielestä { $language } eivät ole vielä tuettuja.
 translations-panel-error-unsupported-hint-unknown-2 = Valitettavasti käännökset tästä kielestä eivät ole vielä tuettuja.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Kieltä { $language } ei valitettavasti tueta vielä.
-translations-panel-error-unsupported-hint-unknown = Tätä kieltä ei valitettavasti tueta vielä.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -130,10 +113,6 @@ translations-manage-header = Käännökset
 translations-manage-settings-button =
     .label = Asetukset…
     .accesskey = t
-translations-manage-description = Lataa kieliä yhteydettömän tilan käännöksiä varten.
-translations-manage-all-language = Kaikki kielet
-translations-manage-download-button = Lataa
-translations-manage-delete-button = Poista
 translations-manage-intro-2 = Aseta kieli- ja sivustokäännösasetukset ja hallitse yhteydettömän tilan käännöksiä varten ladattuja kieliä.
 translations-manage-download-description = Lataa kieliä yhteydettömän tilan käännöksiä varten
 translations-manage-language-download-button =
@@ -147,12 +126,11 @@ translations-manage-language-remove-all-button =
     .label = Poista kaikki
     .accesskey = P
 translations-manage-error-download = Kielitiedostoja ladattaessa ilmeni ongelma. Yritä uudelleen.
-translations-manage-error-delete = Kielitiedostoja poistettaessa tapahtui virhe. Yritä uudelleen.
 translations-manage-error-remove = Kielitiedostoja poistaessa tapahtui virhe. Yritä uudelleen.
 translations-manage-error-list = Käännettävissä olevien kielten listan nouto epäonnistui. Päivitä sivu yrittääksesi uudelleen.
 translations-settings-title =
-    .title = Käännösasetukset
     .style = min-width: 36em
+    .title = Käännösasetukset
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Seuraavat kielet käännetään automaattisesti
@@ -246,16 +224,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = Valitettavasti käännökset kielestä { $language } eivät ole vielä tuettuja.
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = Valitettavasti käännökset tästä kielestä eivät ole vielä tuettuja.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Kieltä { $language } ei valitettavasti tueta vielä.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Tätä kieltä ei valitettavasti tueta vielä.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Käännösasetukset

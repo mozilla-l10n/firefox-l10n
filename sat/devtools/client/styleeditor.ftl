@@ -21,8 +21,6 @@ styleeditor-save-button = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
 styleeditor-options-button =
     .tooltiptext = ᱥᱴᱟᱭᱤᱞ ᱥᱟᱯᱲᱟᱣᱤᱭᱟᱹ ᱢᱚᱱᱮᱛᱮᱭᱟᱜᱠᱚ
 styleeditor-at-rules = At-rules
-styleeditor-editor-textbox =
-    .data-placeholder = ᱱᱚᱰᱮ CSS ᱱᱚᱰᱮ ᱴᱟᱭᱤᱯ ᱢᱮ ᱾
 styleeditor-no-stylesheet = ᱱᱚᱣᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱡᱟᱦᱟᱱ ᱦᱩᱱᱟᱹᱨ ᱯᱟᱛᱟᱨ ᱵᱟᱹᱱᱩᱜ ᱟ ᱾
 styleeditor-no-stylesheet-tip = ᱯᱟᱞᱮ ᱟᱢ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ <a data-l10n-name="append-new-stylesheet"> ᱢᱤᱫ ᱱᱟᱶᱟ ᱦᱩᱱᱟᱹᱨ ᱯᱟᱛᱟᱨ ᱟᱠᱟᱭ ᱢᱮ </a>?
 styleeditor-open-link-new-tab =

@@ -20,8 +20,6 @@ sidebar-history-clear =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-firefox-tools-header =
-    .label = Ostilhoù { -brand-product-name }
 sidebar-vertical-tabs =
     .label = Ivinelloù a-serzh
 
@@ -29,8 +27,6 @@ sidebar-vertical-tabs =
 
 sidebar-context-menu-manage-extension =
     .label = Merañ an askouezh
-sidebar-context-menu-remove-extension =
-    .label = Dilemel an askouezh
 sidebar-context-menu-report-extension =
     .label = Danevelliñ an askouezh
 sidebar-context-menu-open-in-window =

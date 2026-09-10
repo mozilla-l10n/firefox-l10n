@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = පිටුවක් ආපසු ({ $shortcut })
     .aria-label = ආපසු
+    .tooltiptext = පිටුවක් ආපසු ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = පිටුවක් ඉදිරියට ({ $shortcut })
     .aria-label = ඉදිරියට
+    .tooltiptext = පිටුවක් ඉදිරියට ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = පිටුවට පොත්යොමුවක්…
-    .accesskey = m
     .tooltiptext = පිටුවට පොත්යොමුවක්
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = පිටුවට පොත්යොමුවක්…
-    .accesskey = m
     .tooltiptext = පිටුවට පොත්යොමුවක් ({ $shortcut })
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = පොත්යොමුව සංස්කරණය…
-    .accesskey = m
     .tooltiptext = පොත්යොමුව සංස්කරණය
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = පොත්යොමුව සංස්කරණය…
-    .accesskey = m
     .tooltiptext = පොත්යොමුව සංස්කරණය ({ $shortcut })
+    .accesskey = m
 main-context-menu-open-link =
     .label = සබැඳිය අරින්න
     .accesskey = O
@@ -145,9 +139,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = මෙලෙස සබැඳිය සුරකින්න
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = { -pocket-brand-name } වෙත සබැඳිය සුරකින්න
-    .accesskey = o
 
 ##
 
@@ -276,40 +267,22 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = හඬපටය තැපැල් කරන්න...
     .accesskey = a
-main-context-menu-save-to-pocket =
-    .label = { -pocket-brand-name } වෙත පිටුව සුරකින්න
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = පිටුව උපාංගයට යවන්න
-    .accesskey = D
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = සුරැකි පිවිසුම භාවිතය
-    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = සුරැකි මුරපදය භාවිතය
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } වි-තැපැල් වැස්ම යොදාගන්න
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = ශක්තිමත් මුරපදයක් යෝජනා කරන්න…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = පිවිසුම් කළමනාකරණය
-    .accesskey = M
 main-context-menu-manage-passwords =
     .label = මුරපද කළමනාකරණය
     .accesskey = M
-main-context-menu-keyword =
-    .label = මෙම සෙවුමට මූලපදයක් යොදන්න...
-    .accesskey = K
 main-context-menu-link-send-to-device =
     .label = සබැඳිය උපාංගයට යවන්න
     .accesskey = D
@@ -352,9 +325,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = තිර සේයාවක් ගන්න
     .accesskey = T
-main-context-menu-take-frame-screenshot =
-    .label = තිර සේයාවක් ගන්න
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = පිටුවේ මූලය ‌පෙන්වන්න
     .accesskey = V

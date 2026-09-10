@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } გახსნის სულ ბოლოს გამოყენებულ პროფილს.
 profile-window-create-profile = პროფილის შექმნა
 profile-card-edit-button =
-    .title = პროფილის ჩასწორება
     .aria-label = პროფილის ჩასწორება
+    .title = პროფილის ჩასწორება
 profile-card-delete-button =
-    .title = პროფილის წაშლა
     .aria-label = პროფილის წაშლა
+    .title = პროფილის წაშლა
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = გაიხსნას { $profileName }
     .aria-label = გაიხსნას { $profileName }
+    .title = გაიხსნას { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = პროფილი { $number }
@@ -83,9 +83,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = წაიშალოს { $profilename }
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = წაიშალოს { $profilename } პროფილი?
 delete-profile-description = { -brand-short-name } სამუდამოდ წაშლის მოწყობილობიდან მონაცემებს, მათ შორის:
 # Open is an adjective, as in "browser windows currently open".
@@ -112,28 +109,10 @@ delete-profile-confirm = წაშლა
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = ნათელი
-# The default dark theme
-profiles-dark-theme = მუქი
 # The default system theme
 profiles-system-theme = სისტემის
 profiles-system-theme-title =
     .title = სისტემის იერსახის გამოყენება
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = ხავერდოვანი ყვითელი
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = ღია მოიისფრო
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = პიტნისფერი
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = ღია ვარდისფერი
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = ოკეანისფერი
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = აგურისფერი
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = ხავსისფერი
 profiles-gray-theme = რუხი
 profiles-gray-theme-title =
     .title = რუხი გაფორმების გამოყენება
@@ -290,9 +269,6 @@ profiles-appmenu-callout-tour-subtitle = მენიუში ☰ შეეხ�
 profiles-appmenu-callout-tour-primary-button = მაჩვენეთ, როგორ
 barbell-avatar = ორბირთულა
 bike-avatar = ველოსიპედი
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = ორბირთულას გამოსახულების შერჩევა
 bike-avatar-tooltip =

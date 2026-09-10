@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Finder ਵਿੱਚ ਵੇਖਾਓ
            *[other] ਫੋਲਡਰ ਵਿੱਚ ਵੇਖਾਓ
         }
-downloads-cmd-show-downloads =
-    .label = ਡਾਊਨਲੋਡ ਫੋਲਡਰ ਨੂੰ ਵੇਖਾਓ
 downloads-cmd-retry =
     .tooltiptext = ਮੁੜ-ਕੋਸ਼ਿਸ਼
 downloads-cmd-retry-panel =

@@ -22,13 +22,11 @@ neterror-override-exception-button = Accept the Risk and Continue
 neterror-pref-reset-button = Restore default settings
 neterror-return-to-previous-page-button = ཕྱིར་ལོག
 neterror-return-to-previous-page-recommended-button = ཕྱིར་ལོག (འོས་སྦྱོར་ཡིན)
-neterror-try-again-button = བསྐྱར་དུ་ཚོད་ལྟ
 neterror-view-certificate-link = ལག་འཁྱེར་ལྟ་བ
 
 ##
 
 neterror-pref-reset = It looks like your network security settings might be causing this. Do you want the default settings to be restored?
-neterror-error-reporting-automatic = Report errors like this to help { -vendor-short-name } identify and block malicious sites
 
 ## Specific error messages
 
@@ -45,8 +43,6 @@ neterror-file-not-found-moved = Check to see if the file was moved, renamed or d
 neterror-access-denied = It may have been removed, moved, or file permissions may be preventing access.
 neterror-unknown-protocol = You might need to install other software to open this address.
 neterror-redirect-loop = This problem can sometimes be caused by disabling or refusing to accept cookies.
-neterror-unknown-socket-type-psm-installed = Check to make sure your system has the Personal Security Manager installed.
-neterror-unknown-socket-type-server-config = This might be due to a non-standard configuration on the server.
 neterror-not-cached-intro = The requested document is not available in { -brand-short-name }’s cache.
 neterror-not-cached-sensitive = As a security precaution, { -brand-short-name } does not automatically re-request sensitive documents.
 neterror-not-cached-try-again = Click Try Again to re-request the document from the website.

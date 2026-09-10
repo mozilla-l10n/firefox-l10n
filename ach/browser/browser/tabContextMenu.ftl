@@ -53,14 +53,3 @@ move-to-end =
 move-to-new-window =
     .label = Kob l dirica manyen
     .accesskey = d
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Cwal dirica matidi ii Nyonyo
-           *[other] Cwal dirica matino { $tabCount } ii Nyonyo
-        }
-    .accesskey = n

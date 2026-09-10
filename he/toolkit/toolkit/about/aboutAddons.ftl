@@ -153,15 +153,10 @@ addon-sitepermission-host = הרשאות אתר עבור { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = כל התוספות נוטרלו במצב בטוח.
-extensions-warning-check-compatibility = בדיקת תאימות תוספות מנוטלת. ייתכן שברשותך תוספות לא תואמות.
-extensions-warning-safe-mode2 =
-    .message = כל התוספות נוטרלו במצב בטוח.
 extensions-warning-check-compatibility2 =
     .message = בדיקת תאימות תוספות מנוטלת. ייתכן שברשותך תוספות לא תואמות.
 extensions-warning-check-compatibility-button = הפעלה
     .title = הפעלת בדיקת תאימות תוספות
-extensions-warning-update-security = בדיקת האבטחה של התוספות כרגע מנוטרלת. עדכונים לתוספות עלולים לסכן אותך.
 extensions-warning-update-security2 =
     .message = בדיקת האבטחה של התוספות כרגע מנוטרלת. עדכונים לתוספות עלולים לסכן אותך.
 extensions-warning-update-security-button = הפעלה
@@ -237,10 +232,6 @@ shortcuts-duplicate = קיצור דרך כפול
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } משמש כקיצור דרך ביותר ממקרה אחד. קיצורי דרך כפולים עשויים לגרום להתנהגות בלתי צפויה.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } משמש כקיצור דרך ביותר ממקרה אחד. קיצורי דרך כפולים עשויים לגרום להתנהגות בלתי צפויה.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -260,11 +251,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = הרחבות הן כמו יישומים לדפדפן שלך, ומאפשרות לך להגן על ססמאות, להוריד סרטונים, למצוא מבצעים, לחסום פרסומות מציקות, לשנות את תצוגת הדפדפן שלך ועוד. היישומים הקטנים האלו לרוב מפותחים על־ידי גורמי צד שלישי. להלן מבחר הרחבות ש־{ -brand-product-name } <a data-l10n-name="learn-more-trigger">ממליצה</a> עליהן בגלל האבטחה, הביצועים והפונקציונליות יוצאת הדופן שלהן.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = חלק מהמלצות אלה מותאמות אישית. הן מבוססות על הרחבות אחרות שהתקנת, העדפות פרופיל וסטטיסטיקת שימוש.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message = חלק מהמלצות אלה מותאמות אישית. הן מבוססות על הרחבות אחרות שהתקנת, העדפות פרופיל וסטטיסטיקת שימוש.
@@ -336,16 +322,9 @@ addon-detail-last-updated-label = עדכון אחרון
 addon-detail-homepage-label = דף הבית
 addon-detail-rating-label = דירוג
 # Message for add-ons with a staged pending update.
-install-postponed-message = הרחבה זו תתעדכן כש־{ -brand-short-name } יופעל מחדש.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = הרחבה זו תתעדכן כש־{ -brand-short-name } יופעל מחדש.
 install-postponed-button = עדכון כעת
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = דירוג { NUMBER($rating, maximumFractionDigits: 1) } מתוך 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -361,9 +340,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = התוספת <span data-l10n-name="addon-name">{ $addon }</span> הוסרה.
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -382,11 +358,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = מופעלת בחלונות פרטיים
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = מופעלת בחלונות פרטיים
 addon-detail-private-browsing-help = אם אפשרות זו מופעלת, להרחבה תהיה גישה לפעילויות המקוונות שלך בזמן גלישה פרטית. <a data-l10n-name="learn-more">מידע נוסף</a>
 addon-detail-private-browsing-allow = לאפשר
@@ -413,17 +384,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = ‏{ -brand-product-name } ממליץ רק על הרחבות שעומדות בתקנים שלנו לאבטחה וביצועים
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = הרחבה רשמית שנבנתה על־ידי Mozilla ועומדת בתקני אבטחה וביצועים.
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = הרחבה זו נסקרה לטובת עמידה בתקנים שלנו לאבטחה וביצועים
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -453,9 +413,6 @@ addon-permissions-heading = הרשאות
 addon-permissions-empty2 = להרחבה זו לא נדרשות הרשאות.
 addon-permissions-required-label = נדרש:
 addon-permissions-optional-label = אופציונלי:
-addon-permissions-empty = להרחבה זו לא נדרשות הרשאות
-addon-permissions-required = הרשאות נדרשות לתכונות ליבה:
-addon-permissions-optional = הרשאות רשות לתכונות נוספות:
 addon-permissions-learnmore = מידע נוסף על הרשאות
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -496,25 +453,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } אינו תואם ל־{ -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } אינו תואם ל־{ -brand-short-name } { $version }.
-details-notification-incompatible-link = מידע נוסף
-details-notification-unsigned-and-disabled = לא ניתן לאמת את { $name } לשימוש ב־{ -brand-short-name } ולכן תוספת זו הושבתה.
 details-notification-unsigned-and-disabled2 =
     .message = לא ניתן לאמת את { $name } לשימוש ב־{ -brand-short-name } ולכן תוספת זו הושבתה.
-details-notification-unsigned-and-disabled-link = מידע נוסף
-details-notification-unsigned = לא ניתן לאמת את { $name } לשימוש ב־{ -brand-short-name }. נא להיזהר.
 details-notification-unsigned2 =
     .message = לא ניתן לאמת את { $name } לשימוש ב־{ -brand-short-name }. נא להיזהר.
 details-notification-hard-blocked-extension =
     .message = הרחבה זו חסומה עקב הפרת המדיניות של Mozilla, ולכן הושבתה.
 details-notification-hard-blocked-other =
     .message = תוספת זו חסומה עקב הפרת המדיניות של Mozilla, ולכן הושבתה.
-details-notification-unsigned-link = מידע נוסף
-details-notification-blocked = התוספת { $name } נחסמה עקב בעיות אבטחה או יציבות.
 details-notification-blocked-link2 = צפייה בפרטים
 details-notification-soft-blocked-extension-disabled2 =
     .message = הרחבה זו מוגבלת ולכן הושבתה. באפשרותך להפעיל אותה, אבל ייתכן שזה יהיה כרוך בסיכון.
@@ -524,19 +472,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = תוספת זו מוגבלת ולכן הושבתה. באפשרותך להפעיל אותה, אבל ייתכן שזה יהיה כרוך בסיכון.
 details-notification-soft-blocked-other-enabled2 =
     .message = תוספת זו מוגבלת. השימוש בה עלול להיות כרוך בסיכון.
-details-notification-soft-blocked-extension-disabled =
-    .message = הרחבה זו מוגבלת עקב הפרת המדיניות של Mozilla, ולכן הושבתה. באפשרותך להפעיל אותה, אבל ייתכן שזה יהיה כרוך בסיכון.
-details-notification-soft-blocked-extension-enabled =
-    .message = הרחבה זו מפרה את המדיניות של Mozilla. השימוש בה עשוי להיות כרוך בסיכון.
-details-notification-soft-blocked-other-disabled =
-    .message = תוספת זו מוגבלת עקב הפרת המדיניות של Mozilla, ולכן הושבתה. באפשרותך להפעיל אותה, אבל ייתכן שזה יהיה כרוך בסיכון.
-details-notification-soft-blocked-other-enabled =
-    .message = תוספת זו מפרה את המדיניות של Mozilla. השימוש בה עשוי להיות כרוך בסיכון.
 details-notification-softblocked-link2 = צפייה בפרטים
-details-notification-blocked-link = מידע נוסף
-details-notification-softblocked = התוספת { $name } נודעת בגרימת בעיות אבטחה או יציבות.
-details-notification-softblocked-link = מידע נוסף
-details-notification-gmp-pending = התוספת { $name } תותקן בהקדם.
 details-notification-gmp-pending2 =
     .message = התוספת { $name } תותקן בהקדם.
 
@@ -552,8 +488,6 @@ plugins-widevine-description = תוסף חיצוני זה מאפשר הפעלה 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = איסוף נתונים נדרש:
-addon-permissions-optional-data-collection = איסוף נתונים אופציונלי:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = הרשאות ונתונים
 # This is a description for extension that use this AI model

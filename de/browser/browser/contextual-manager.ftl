@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Passwörter durchsuchen
-    .key = F
     .aria-label = Passwörter durchsuchen
+    .key = F
+    .placeholder = Passwörter durchsuchen
 contextual-manager-menu-more-options-button =
     .title = Weitere Optionen
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Zugangsdaten importieren aus Datei
 contextual-manager-passwords-command-export = Passwörter exportieren
 contextual-manager-passwords-command-remove-all = Alle Passwörter löschen
 contextual-manager-passwords-command-options = Einstellungen
-contextual-manager-passwords-command-settings = Einstellungen
 contextual-manager-passwords-command-help = Hilfe
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Passwörter importiert
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Neu: { $added }, aktualisiert: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -214,8 +209,6 @@ contextual-manager-passwords-create-label =
     .label = Passwort hinzufügen
 contextual-manager-passwords-update-label =
     .label = Passwort aktualisieren
-contextual-manager-passwords-edit-label =
-    .label = Passwort bearbeiten
 contextual-manager-passwords-remove-label =
     .title = Passwort entfernen
 contextual-manager-passwords-origin-field =
@@ -231,7 +224,6 @@ contextual-manager-passwords-password-field-description = Geben Sie das Passwort
 contextual-manager-passwords-origin-tooltip = Geben Sie die genaue Adresse ein, bei der Sie sich auf dieser Website anmelden.
 contextual-manager-passwords-username-tooltip = Geben Sie den Benutzernamen, die E-Mail-Adresse oder Kontonummer ein, mit der Sie sich anmelden.
 contextual-manager-passwords-password-tooltip-2 = Geben Sie das Passwort ein, um sich bei diesem Konto anzumelden.
-contextual-manager-passwords-password-tooltip = Geben Sie das Passwort ein, das zur Anmeldung bei diesem Konto verwendet wurde.
 
 ## Password Card
 
@@ -278,10 +270,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Passwort kopieren (Warnung)
 contextual-manager-edit-login-button = Bearbeiten
     .tooltiptext = Passwort bearbeiten
-contextual-manager-view-alert-heading =
-    .heading = Warnung ansehen
-contextual-manager-view-alert-button =
-    .tooltiptext = Warnung überprüfen
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -310,13 +298,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Keine Passwörter gefunden
 contextual-manager-passwords-no-passwords-found-message-2 = Versuchen Sie einen anderen Begriff und suchen Sie erneut.
-contextual-manager-passwords-no-passwords-found-message = Keine Passwörter gefunden. Suchen Sie nach einem anderen Begriff und versuchen Sie es erneut.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Speichern Sie Ihre Passwörter an einem sicheren Ort.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Alle Passwörter sind verschlüsselt und wir achten bei Datenlecks und Warnungen darauf, ob Sie betroffen sind.

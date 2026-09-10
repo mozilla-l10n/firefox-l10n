@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Kayıtlı adresler
 autofill-manage-addresses-list-header = Adresler
-autofill-manage-credit-cards-title = Kayıtlı Kredi Kartları
-autofill-manage-credit-cards-list-header = Kredi kartları
 autofill-manage-payment-methods-title = Kayıtlı ödeme yöntemleri
 autofill-manage-cards-list-header = Kartlar
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = Menüyü aç
 address-capture-edit-address-link = Adresi düzenle
     .aria-label = Adresi düzenle
-address-capture-edit-address-button =
-    .aria-label = Adresi düzenle
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Adres ekle
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Adresi düzenle
-autofill-address-given-name = Ad
-autofill-address-additional-name = İkinci ad
-autofill-address-family-name = Soyadı
 autofill-address-name = Ad
 autofill-address-organization = Kurum
 autofill-address-street-address = Sokak adresi
@@ -104,8 +97,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Yeni Adres Ekle
 autofill-address-country = Ülke
 autofill-address-country-only = Ülke
 autofill-address-tel = Telefon
@@ -114,18 +105,6 @@ autofill-cancel-button = Vazgeç
 autofill-save-button = Kaydet
 autofill-country-warning-message-2 = Otomatik form doldurma şimdilik yalnızca belli ülkelerde kullanılabilir
 autofill-country-warning-message = Otomatik form doldurma şimdilik yalnızca belli ülkelerde kullanılabilir.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Yeni Kredi Kartı Ekle
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Kredi Kartını Düzenle
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] kredi kartı bilgilerini gösterme
-        [windows] { -brand-short-name } kredi kartı bilgilerini göstermeye çalışıyor. Bu Windows hesabına erişimi onaylayın.
-       *[other] { -brand-short-name } kredi kartı bilgilerini göstermeye çalışıyor.
-    }
 autofill-message-tooltip = Otomatik doldurma ile ilgili iletiyi görüntüle
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Kart ekle
@@ -211,15 +190,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = Pasaportları asla kaydetme
     .accessKey = P
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

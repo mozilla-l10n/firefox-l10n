@@ -51,63 +51,32 @@ safeb-palm-see-details-label = Podrobnosti
 
 safeb-blocked-phishing-page-error-desc-override = Stránka <span data-l10n-name='sitename'>{ $sitename }</span> byla <a data-l10n-name='error_desc_link'>nahlášena jako podvodná</a>. Můžete <a data-l10n-name='report_detection'>nahlásit chybu v detekci</a> nebo se rozhodnout <a data-l10n-name='ignore_warning_link'>ignorovat riziko</a> a pokračovat na tuto nebezpečnou stránku.
 safeb-blocked-phishing-page-error-desc-no-override = Stránka <span data-l10n-name='sitename'>{ $sitename }</span> byla <a data-l10n-name='error_desc_link'>nahlášena jako podvodná</a>. Můžete <a data-l10n-name='report_detection'>nahlásit chybu v detekci</a>.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-phishing-page-learn-more =
     { -brand-short-name.case-status ->
         [with-cases] Zjistěte více o podvodných stránkách a phishingu na <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Zjistěte více ochraně proti phishingu a malwaru ve { -brand-short-name(case: "loc") } na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
        *[no-cases] Zjistěte více o podvodných stránkách a phishingu na <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Zjistěte více ochraně proti phishingu a malwaru v aplikaci { -brand-short-name } na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
     }
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-malware-page-error-desc-override-sumo = Stránka <span data-l10n-name='sitename'>{ $sitename }</span> byla <a data-l10n-name='error_desc_link'>nahlášena jako stránka se škodlivým softwarem</a>. Můžete se rozhodnout <a data-l10n-name='ignore_warning_link'>ignorovat riziko</a> a pokračovat na tuto nebezpečnou stránku.
 safeb-blocked-malware-page-error-desc-no-override-sumo = Stránka <span data-l10n-name='sitename'>{ $sitename }</span> byla <a data-l10n-name='error_desc_link'>nahlášena jako stránka se škodlivým softwarem</a>.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-malware-page-learn-more-sumo =
     { -brand-short-name.case-status ->
         [with-cases] Zjistěte více o ochraně proti phishingu a malwaru ve { -brand-short-name(case: "loc") } na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
        *[no-cases] Zjistěte více o ochraně proti phishingu a malwaru v aplikaci { -brand-short-name } na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
     }
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-error-desc-override = Stránka <span data-l10n-name='sitename'>{ $sitename }</span> byla <a data-l10n-name='error_desc_link'>nahlášena jako stránka se škodlivým softwarem</a>. Můžete se rozhodnout <a data-l10n-name='ignore_warning_link'>ignorovat riziko</a> a pokračovat na tuto nebezpečnou stránku.
 safeb-blocked-unwanted-page-error-desc-no-override = Stránka <span data-l10n-name='sitename'>{ $sitename }</span> byla <a data-l10n-name='error_desc_link'>nahlášena jako stránka se škodlivým softwarem</a>.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-learn-more =
     { -brand-short-name.case-status ->
         [with-cases] Zjistěte více o škodlivém a nežádoucím softwaru na stránce <a data-l10n-name='learn_more_link'>Unwanted Software Policy</a>. Zjistěte více ochraně proti phishingu a malwaru ve { -brand-short-name(case: "loc") } na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
        *[no-cases] Zjistěte více o škodlivém a nežádoucím softwaru na stránce <a data-l10n-name='learn_more_link'>Unwanted Software Policy</a>. Zjistěte více ochraně proti phishingu a malwaru v aplikaci { -brand-short-name } na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
     }
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-harmful-page-error-desc-override = Stránka <span data-l10n-name='sitename'>{ $sitename }</span> byla <a data-l10n-name='error_desc_link'>nahlášena jako stránka s potenciálně škodlivou aplikací</a>. Můžete se rozhodnout <a data-l10n-name='ignore_warning_link'>ignorovat riziko</a> a pokračovat na tuto nebezpečnou stránku.
 safeb-blocked-harmful-page-error-desc-no-override = Stránka <span data-l10n-name='sitename'>{ $sitename }</span> byla <a data-l10n-name='error_desc_link'>nahlášena jako stránka s potenciálně škodlivou aplikací</a>.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-harmful-page-learn-more =
     { -brand-short-name.case-status ->
         [with-cases] Zjistěte více o ochraně proti phishingu a malwaru ve { -brand-short-name(case: "loc") } na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
        *[no-cases] Zjistěte více o ochraně proti phishingu a malwaru v aplikaci { -brand-short-name } na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
     }
-safeb-palm-notdeceptive =
-    .label = Tato stránka není podvodná…
-    .accesskey = l
 
 ## Variables:
 ##  $addonName (string) - the name of the harmful add-on

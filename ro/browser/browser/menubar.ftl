@@ -263,8 +263,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Profiluri
 menu-profiles-manage-profiles =
     .label = Gestionează profilurile
 menu-profiles-new-profile =
@@ -288,9 +286,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Extensii și teme
     .accesskey = E
-menu-tools-addons-and-themes =
-    .label = Suplimente și teme
-    .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = Intră în cont
     .accesskey = g
@@ -347,8 +342,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Mai multe informații de depanare
     .accesskey = T
-menu-help-report-site-issue =
-    .label = Raportează problemă cu site-ul…
 menu-help-share-ideas =
     .label = Împărtășește idei și feedbackuri…
     .accesskey = S

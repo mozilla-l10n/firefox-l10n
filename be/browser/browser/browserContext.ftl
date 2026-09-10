@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Папярэдняя старонка ({ $shortcut })
     .aria-label = Назад
+    .tooltiptext = Папярэдняя старонка ({ $shortcut })
     .accesskey = Н
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Наступная старонка ({ $shortcut })
     .aria-label = Наперад
+    .tooltiptext = Наступная старонка ({ $shortcut })
     .accesskey = Н
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Зрабіць закладку…
-    .accesskey = і
     .tooltiptext = Зрабіць закладку
+    .accesskey = і
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Зрабіць закладку…
-    .accesskey = ь
     .tooltiptext = Зрабіць закладку ({ $shortcut })
+    .accesskey = ь
 main-context-menu-edit-bookmark =
     .aria-label = Рэдагаваць закладку…
-    .accesskey = ь
     .tooltiptext = Змяніць закладку
+    .accesskey = ь
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Рэдагаваць закладку…
-    .accesskey = ь
     .tooltiptext = Змяніць закладку ({ $shortcut })
+    .accesskey = ь
 main-context-menu-open-link =
     .label = Адкрыць спасылку
     .accesskey = А
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Захаваць спасылку як…
     .accesskey = с
-main-context-menu-save-link-to-pocket =
-    .label = Захаваць спасылку ў { -pocket-brand-name }
-    .accesskey = ў
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Уключыць сін
 main-context-menu-send-to-mobile-connect-phone3 = Падключыць прыладу, каб дасылаць карткі
 main-context-menu-send-to-mobile-connect-phone-from-link = Падключыць прыладу, каб даслаць спасылку
 main-context-menu-send-to-mobile-connect-phone-from-page = Падключыць прыладу, каб даслаць старонку
-main-context-menu-save-to-pocket =
-    .label = Захаваць старонку ў { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Даслаць старонку на прыладу
-    .accesskey = п
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Выкарыстаць захаваны лагін
-    .accesskey = В
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Выкарыстаць захаваны пароль
     .accesskey = В
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Выкарыстаць маску эл. пошты { -relay-brand-short-name }
     .accesskey = у
 main-context-menu-suggest-strong-password =
     .label = Прапанаваць надзейны пароль…
     .accesskey = ы
-main-context-menu-manage-logins2 =
-    .label = Кіраваць лагінамі
-    .accesskey = ь
 main-context-menu-manage-passwords =
     .label = Кіраваць паролямі
     .accesskey = ь
-main-context-menu-keyword =
-    .label = Дадаць ключавое слова для гэтага пошуку…
-    .accesskey = к
 main-context-menu-add-engine =
     .label = Дадаць пашукавік
     .accesskey = а
@@ -393,9 +366,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Зрабіць здымак экрана
     .accesskey = к
-main-context-menu-take-frame-screenshot =
-    .label = Зрабіць здымак экрана
-    .accesskey = З
 main-context-menu-view-page-source =
     .label = Праглядзець зыходнік старонкі
     .accesskey = з

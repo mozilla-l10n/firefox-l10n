@@ -14,15 +14,3 @@ extension-firefox-compact-dark-name = Tamsus
 extension-firefox-compact-dark-description = Grafinis apvalkalas su tamsių spalvų aibe.
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Naudoti įvairiaspalvę išvaizdą mygtukams, meniu elementams, ir langams.
-
-## Colorway Themes
-## These themes are variants of a colorway. The colorway is specified in the
-## $colorway-name variable.
-## Variables
-##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
-
-extension-colorways-soft-name = „{ $colorway-name }“ – švelnus
-extension-colorways-balanced-name = „{ $colorway-name }“ – subalansuotas
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-extension-colorways-bold-name = „{ $colorway-name }“ – ryškus

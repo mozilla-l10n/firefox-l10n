@@ -116,15 +116,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Tutti i conponenti azonti son stæti dizabilitæ da o moddo seguo.
-extensions-warning-check-compatibility = O contròllo de conpatibilitæ di conponenti azonti l'é dizabilita. Ti peu avei di conponenti azonti no conpatibili.
-extensions-warning-safe-mode2 =
-    .message = Tutti i conponenti azonti son stæti dizabilitæ da o moddo seguo.
 extensions-warning-check-compatibility2 =
     .message = O contròllo de conpatibilitæ di conponenti azonti l'é dizabilita. Ti peu avei di conponenti azonti no conpatibili.
 extensions-warning-check-compatibility-button = Abilita
     .title = Abilita o contròllo a conpatibilitæ di conponenti azonti
-extensions-warning-update-security = O contròllo de seguessa in sci agiornamenti di conponenti azonti o l'é dizabilitou. Te peu capitâ de ese aroinou da i agiornamenti.
 extensions-warning-update-security2 =
     .message = O contròllo de seguessa in sci agiornamenti di conponenti azonti o l'é dizabilitou. Te peu capitâ de ese aroinou da i agiornamenti.
 extensions-warning-update-security-button = Abilita
@@ -216,24 +211,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } o no l'é conpatibile con { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } o no l'é conpatibile con { -brand-short-name } { $version }.
-details-notification-unsigned-and-disabled = { $name } o l'é dizativou perché l'uzo o no l'é verificou pe { -brand-short-name }.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } o l'é dizativou perché l'uzo o no l'é verificou pe { -brand-short-name }.
-details-notification-unsigned-and-disabled-link = Atre informaçioin
-details-notification-unsigned = { $name } o no l'é verificou pe l'uzo in { -brand-short-name }. Stanni atento.
 details-notification-unsigned2 =
     .message = { $name } o no l'é verificou pe l'uzo in { -brand-short-name }. Stanni atento.
-details-notification-unsigned-link = Atre informaçioin
-details-notification-blocked = { $name } o l'é stæto dizabilitou pe problemi de stabilitæ ò seguessa.
-details-notification-blocked-link = Ciù informaçioin
-details-notification-softblocked = { $name } o l'é in angæzo ben conosciuo a caozâ problemi de stabilitæ ò seguessa.
-details-notification-softblocked-link = Ciù informaçioin
-details-notification-gmp-pending = { $name } o saiâ instalou tra quarche momento.
 details-notification-gmp-pending2 =
     .message = { $name } o saiâ instalou tra quarche momento.
 

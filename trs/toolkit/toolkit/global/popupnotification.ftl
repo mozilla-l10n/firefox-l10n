@@ -4,6 +4,3 @@
 
 popup-notification-more-actions-button =
     .aria-label = Doj suun huaa
-popup-notification-default-button =
-    .label = Ga'ue!
-    .accesskey = O

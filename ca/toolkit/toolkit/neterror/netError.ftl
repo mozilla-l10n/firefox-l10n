@@ -25,17 +25,13 @@ neterror-override-exception-button = Accepto el risc i vull continuar
 neterror-pref-reset-button = Restaura la configuració per defecte
 neterror-return-to-previous-page-button = Vés enrere
 neterror-return-to-previous-page-recommended-button = Vés enrere (recomanat)
-neterror-try-again-button = Torna-ho a provar
 neterror-add-exception-button = Continua sempre per a aquest lloc
 neterror-settings-button = Canvia els paràmetres de DNS
 neterror-view-certificate-link = Mostra el certificat
-neterror-trr-continue-this-time = Continua aquesta vegada
-neterror-disable-native-feedback-warning = Continua sempre
 
 ##
 
 neterror-pref-reset = Sembla que la configuració actual de seguretat a la xarxa està causant aquest error. Voleu utilitzar la configuració per defecte?
-neterror-error-reporting-automatic = Informa dels errors com aquest per ajudar a { -vendor-short-name } a identificar i a blocar els llocs maliciosos
 
 ## Specific error messages
 
@@ -54,7 +50,6 @@ neterror-dns-not-found-hint-check-network = Comproveu la connexió de xarxa
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-offline = No esteu connectat a Internet.
 neterror-dns-not-found-bad-trr-url = L’URL no és vàlid.
 neterror-dns-not-found-trr-unknown-problem = Problema inesperat.
 
@@ -65,8 +60,6 @@ neterror-file-not-found-moved = Comproveu que el fitxer no s'hagi mogut, canviat
 neterror-access-denied = Pot ser que s'hagi eliminat, que s'hagi traslladat o que els permisos del fitxer n'impedeixin l'accés.
 neterror-unknown-protocol = Pot ser que calgui que instal·leu altre programari per obrir l'adreça.
 neterror-redirect-loop = Això podria passar per haver inhabilitat o rebutjat l'acceptació de galetes.
-neterror-unknown-socket-type-psm-installed = Assegureu-vos que el vostre sistema té un gestor de seguretat personal instal·lat.
-neterror-unknown-socket-type-server-config = Això podria ser a causa d'una configuració no estàndard del servidor.
 neterror-not-cached-intro = El document sol·licitat ja no està disponible a la memòria cau del { -brand-short-name }.
 neterror-not-cached-sensitive = Per precaució, el { -brand-short-name } no tornarà a sol·licitar automàticament els documents sensibles.
 neterror-not-cached-try-again = Feu clic a «Torna-ho a provar» per tornar a sol·licitar el document al lloc web.

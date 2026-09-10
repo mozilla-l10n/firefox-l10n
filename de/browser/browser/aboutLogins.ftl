@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Zugangsdaten und Passwörter
-about-logins-login-filter =
-    .placeholder = Zugangsdaten durchsuchen
-    .key = F
-create-new-login-button =
-    .title = Neue Zugangsdaten erstellen
 about-logins-page-title-name = Passwörter
 about-logins-login-filter2 =
-    .placeholder = Passwörter durchsuchen
     .key = F
+    .placeholder = Passwörter durchsuchen
 create-login-button =
     .title = Passwort hinzufügen
 fxaccounts-sign-in-text = Nutzen Sie Ihre Passwörter auf anderen Geräten
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Zugangsdaten importieren aus anderem Browser…
 about-logins-menu-menuitem-import-from-a-file = Zugangsdaten importieren aus Datei…
-about-logins-menu-menuitem-export-logins = Zugangsdaten exportieren…
-about-logins-menu-menuitem-remove-all-logins = Alle Zugangsdaten entfernen…
 about-logins-menu-menuitem-export-logins2 = Passwörter exportieren…
 about-logins-menu-menuitem-remove-all-logins2 = Alle Passwörter entfernen…
 menu-menuitem-preferences =
@@ -42,21 +34,6 @@ about-logins-menu-menuitem-help = Hilfe
 
 login-list =
     .aria-label = Mit Suche übereinstimmende Zugangsdaten
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } Zugangsdaten
-       *[other] { $count } Zugangsdaten
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $count } von { $total } Zugangsdaten
-       *[other] { $count } von { $total } Zugangsdaten
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -80,14 +57,10 @@ login-list-username-reverse-option = Benutzername (Z-A)
 about-logins-login-list-alerts-option = Warnungen
 login-list-last-changed-option = Zuletzt geändert
 login-list-last-used-option = Zuletzt verwendet
-login-list-intro-title = Keine Zugangsdaten gefunden
 login-list-intro-title2 = Keine Passwörter gespeichert
 login-list-intro-description = Wenn Sie ein Passwort in { -brand-product-name } speichern, wird es hier angezeigt.
-about-logins-login-list-empty-search-title = Keine Zugangsdaten gefunden
 about-logins-login-list-empty-search-title2 = Keine Passwörter gefunden
 about-logins-login-list-empty-search-description = Keine mit der Suche übereinstimmenden Zugangsdaten
-login-list-item-title-new-login = Neue Zugangsdaten
-login-list-item-subtitle-new-login = Zugangsdaten eingeben
 login-list-item-title-new-login2 = Passwort hinzufügen
 login-list-item-subtitle-missing-username = (kein Benutzername)
 about-logins-list-item-breach-icon =
@@ -103,28 +76,20 @@ about-logins-list-section-week = Letzte 7 Tage
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Suchen Sie Ihre gespeicherten Zugangsdaten? Aktivieren Sie die Synchronisation oder importieren Sie diese.
-about-logins-login-intro-heading-logged-in = Keine synchronisierten Zugangsdaten gefunden.
-login-intro-description = Wenn Sie Ihre Zugangsdaten in { -brand-product-name } auf einem anderen Gerät gespeichert haben, können Sie diese hier abrufen:
-login-intro-instructions-fxa = Auf dem Gerät mit Ihren gespeicherten Zugangsdaten: Erstellen Sie ein { -fxaccount-brand-name } oder melden Sie sich damit an.
 about-logins-login-intro-heading-message = Speichern Sie Ihre Passwörter an einem sicheren Ort
 login-intro-description2 = Alle Passwörter, die Sie in { -brand-product-name } speichern, werden verschlüsselt. Außerdem halten wir Ausschau nach Datenlecks und benachrichtigen Sie, wenn Sie betroffen sind. <a data-l10n-name="breach-alert-link">Weitere Informationen</a>
 login-intro-instructions-fxa2 = Auf dem Gerät mit Ihren gespeicherten Zugangsdaten: Erstellen Sie ein Konto oder melden Sie sich damit an.
 login-intro-instructions-fxa-settings = Gehen Sie zu Einstellungen > Synchronisation > Synchronisation aktivieren… Wählen Sie das Kontrollfeld "Zugangsdaten und Passwörter".
 login-intro-instructions-fxa-passwords-help = Weitere Hilfe finden Sie auf der <a data-l10n-name="passwords-help-link">Hilfeseite für Passwörter</a>.
-about-logins-intro-browser-only-import = Wenn Ihre Zugangsdaten in einem anderen Browser gespeichert sind, können Sie diese in { -brand-product-name } <a data-l10n-name="import-link">importieren</a>.
-about-logins-intro-import2 = Wenn Ihre Zugangsdaten außerhalb von { -brand-product-name } gespeichert sind, können Sie diese <a data-l10n-name="import-browser-link">aus einem anderen Browser</a> oder <a data-l10n-name="import-file-link">aus einer Datei</a> importieren.
 about-logins-intro-import3 = Wählen Sie die Pluszeichen-Schaltfläche oben aus, um jetzt ein Passwort hinzuzufügen. Sie können auch <a data-l10n-name="import-browser-link">Passwörter aus einem anderen Browser</a> oder <a data-l10n-name="import-file-link">aus einer Datei</a> importieren.
 
 ## Login
 
-login-item-new-login-title = Neue Zugangsdaten hinzufügen
 # Header for adding a password
 about-logins-login-item-new-login-title = Passwort hinzufügen
 login-item-edit-button = Bearbeiten
 about-logins-login-item-remove-button = Entfernen
 login-item-origin-label = Adresse der Website
-login-item-tooltip-message = Stellen Sie sicher, dass dies genau mit der Adresse der Website übereinstimmt, auf der Sie sich anmelden.
 about-logins-origin-tooltip2 = Geben Sie die vollständige Adresse ein und stellen Sie sicher, dass sie genau mit der Adresse der Website übereinstimmt, auf der Sie sich anmelden.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -144,7 +109,6 @@ login-item-password-conceal-checkbox =
     .aria-label = Passwort verbergen
 login-item-copy-password-button-text = Kopieren
 login-item-copied-password-button-text = Kopiert
-login-item-save-changes-button = Änderungen speichern
 about-logins-login-item-save-changes-button = Speichern
 login-item-save-new-button = Speichern
 login-item-cancel-button = Abbrechen
@@ -168,11 +132,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Um die Zugangsdaten zu bearbeiten, müssen die Anmeldedaten des Windows-Benutzerkontos eingegeben werden. Dies dient dem Schutz Ihrer Zugangsdaten.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = gespeicherte Zugangsdaten bearbeiten
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -196,11 +155,6 @@ about-logins-copy-password-os-auth-dialog-message-win = Um das Passwort zu kopie
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = gespeichertes Passwort kopieren
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Um die Zugangsdaten zu exportieren, müssen die Anmeldedaten des Windows-Benutzerkontos eingegeben werden. Dies dient dem Schutz Ihrer Zugangsdaten.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = gespeicherte Zugangsdaten und Passwörter exportieren
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = Um die Passwörter zu exportieren, müssen die Anmeldedaten des Windows-Benutzerkontos eingegeben werden. Dies dient dem Schutz Ihrer Zugangsdaten.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -218,8 +172,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Abbrechen
 confirmation-dialog-dismiss-button =
     .title = Abbrechen
-about-logins-confirm-remove-dialog-title = Diese Zugangsdaten entfernen?
-confirm-delete-dialog-message = Diese Aktion kann nicht rückgängig gemacht werden.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Passwort entfernen?
 # Message for modal to confirm the removal of one saved password
@@ -234,34 +186,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] Entfernen
         [one] Entfernen
        *[other] Alle entfernen
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] Ja, diese Zugangsdaten entfernen
-        [one] Ja, diese Zugangsdaten entfernen
-       *[other] Ja, diese Zugangsdaten entfernen
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] { $count } Zugangsdaten entfernen?
-       *[other] Alle { $count } Zugangsdaten entfernen?
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] Dadurch werden die Zugangsdaten, die Sie in { -brand-short-name } gespeichert haben, und alle Warnungen zu Datenlecks, die hier angezeigt werden, entfernt. Sie können diese Aktion nicht rückgängig machen.
-        [one] Dadurch werden die Zugangsdaten, die Sie in { -brand-short-name } gespeichert haben, und alle Warnungen zu Datenlecks, die hier angezeigt werden, entfernt. Sie können diese Aktion nicht rückgängig machen.
-       *[other] Dadurch werden die Zugangsdaten, die Sie in { -brand-short-name } gespeichert haben, und alle Warnungen zu Datenlecks, die hier angezeigt werden, entfernt. Sie können diese Aktion nicht rückgängig machen.
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] { $count } Zugangsdaten von allen Geräten entfernen?
-       *[other] Alle { $count } Zugangsdaten von allen Geräten entfernen?
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [1] Dadurch werden die Zugangsdaten entfernt, die Sie in { -brand-short-name } auf allen Geräten gespeichert haben, die mit Ihrem { -fxaccount-brand-name } synchronisiert sind. Dadurch werden auch die hier angezeigten Warnungen zu Datenlecks entfernt. Sie können diese Aktion nicht rückgängig machen.
-        [one] Dadurch werden die Zugangsdaten entfernt, die Sie in { -brand-short-name } auf allen Geräten gespeichert haben, die mit Ihrem { -fxaccount-brand-name } synchronisiert sind. Dadurch werden auch die hier angezeigten Warnungen zu Datenlecks entfernt. Sie können diese Aktion nicht rückgängig machen.
-       *[other] Dadurch werden alle Zugangsdaten entfernt, die Sie in { -brand-short-name } auf allen Geräten gespeichert haben, die mit Ihrem { -fxaccount-brand-name } synchronisiert sind. Dadurch werden auch die hier angezeigten Warnungen zu Datenlecks entfernt. Sie können diese Aktion nicht rückgängig machen.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -296,15 +220,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = Zugangsdaten und Passwörter exportieren
-about-logins-confirm-export-dialog-message = Ihre Passwörter werden als lesbarer Text gespeichert (z.B. P@ssw0rt). Dadurch hat jede Person, welche die exportierte Datei öffnen kann, Zugriff auf das unverschlüsselte Passwort.
-about-logins-confirm-export-dialog-confirm-button = Exportieren…
 about-logins-confirm-export-dialog-title2 = Ein Hinweis zum Export von Passwörtern
 about-logins-confirm-export-dialog-message2 =
     Wenn Sie exportieren, werden Ihre Passwörter in einer Datei mit lesbarem Text gespeichert.
     Wenn Sie die Datei nicht mehr verwenden, sollten Sie sie löschen, damit andere Benutzer dieses Geräts Ihre Passwörter nicht sehen können.
 about-logins-confirm-export-dialog-confirm-button2 = Weiter mit Export
-about-logins-alert-import-title = Importieren abgeschlossen
 about-logins-alert-import-message = Detaillierte Import-Zusammenfassung anzeigen
 confirm-discard-changes-dialog-title = Nicht gespeicherte Änderungen verwerfen?
 confirm-discard-changes-dialog-message = Alle nicht gespeicherten Änderungen gehen verloren.
@@ -341,11 +261,6 @@ about-logins-error-message-default = Beim Versuch, dieses Passwort zu speichern,
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Zugangsdaten in Datei exportieren
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = zugangsdaten.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = Passwörter von { -brand-short-name } exportieren
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -361,8 +276,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = Zugangsdaten aus Datei importieren
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = Passwörter in { -brand-short-name } importieren
 about-logins-import-file-picker-import-button = Importieren
@@ -386,21 +299,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Importieren abgeschlossen
-about-logins-import-dialog-items-added =
-    { $count ->
-        [one] <span>Neue Zugangsdaten hinzugefügt:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Neue Zugangsdaten hinzugefügt:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-        [one] <span>Bestehende Zugangsdaten aktualisiert:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Bestehende Zugangsdaten aktualisiert:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-        [one] <span>Doppelte Zugangsdaten gefunden:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nicht importiert)</span>
-       *[other] <span>Doppelte Zugangsdaten gefunden:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nicht importiert)</span>
-    }
 about-logins-import-dialog-items-added2 =
     { $count ->
         [one] <span>Neue Passwörter hinzugefügt:</span> <span data-l10n-name="count">{ $count }</span>
@@ -436,15 +334,11 @@ about-logins-import-dialog-error-learn-more = Weitere Informationen
 about-logins-import-dialog-error-try-import-again = Import erneut versuchen…
 about-logins-import-dialog-error-cancel = Abbrechen
 about-logins-import-report-title = Import-Zusammenfassung
-about-logins-import-report-description = Zugangsdaten und Passwörter wurden in { -brand-short-name } importiert.
 about-logins-import-report-description2 = Passwörter wurden in { -brand-short-name } importiert.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Zeile { $number }
-about-logins-import-report-row-description-no-change = Duplikat: Exakte Übereinstimmung mit bestehenden Zugangsdaten
-about-logins-import-report-row-description-modified = Bestehende Zugangsdaten aktualisiert
-about-logins-import-report-row-description-added = Neue Zugangsdaten hinzugefügt
 about-logins-import-report-row-description-no-change2 = Duplikat: Exakte Übereinstimmung mit bestehendem Eintrag
 about-logins-import-report-row-description-modified2 = Bestehenden Eintrag aktualisiert
 about-logins-import-report-row-description-added2 = Neues Passwort hinzugefügt
@@ -461,21 +355,6 @@ about-logins-import-report-row-description-error-missing-field = Fehler: { $fiel
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Neue Zugangsdaten hinzugefügt</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Neue Zugangsdaten hinzugefügt</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Bestehende Zugangsdaten aktualisiert</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Bestehende Zugangsdaten aktualisiert</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Doppelte Zugangsdaten</div> <div data-l10n-name="not-imported">(nicht importiert)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Doppelte Zugangsdaten</div> <div data-l10n-name="not-imported">(nicht importiert)</div>
-    }
 about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Neue Passwörter hinzugefügt</div>

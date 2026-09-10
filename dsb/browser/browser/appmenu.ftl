@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = Rozšyrjenja a drastwy
 appmenuitem-extensions =
     .label = Rozšyrjenja
-appmenuitem-addons-and-themes =
-    .label = Dodanki a drastwy
 appmenuitem-print =
     .label = Śišćaś…
 appmenuitem-find-in-page =
@@ -154,7 +152,6 @@ fxa-menu-get-firefox-mobile =
     .label = { -brand-product-name } za Android abo iOS wobstaraś
 fxa-menu-secure-sync-subpanel =
     .title = Wěsta synchronizacija
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Konto
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -176,15 +173,6 @@ appmenuitem-save-page =
     .label = Bok składowaś ako…
 appmenuitem-fxa-sync-off-title = Synchronizacija jo znjemóžnjona
 appmenuitem-fxa-sync-off-description = Mějśo pśistup k swójim cytańskim znamjenjam, gronidłam a wěcej a šćitajśo je.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Nowe funkcije a změny
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Wo nowych funkcijach informěrowaś
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -326,8 +314,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Informacije za rozwězowanje problemow
     .accesskey = I
-appmenu-help-report-site-issue =
-    .label = Sedłowy problem k wěsći daś…
 appmenu-help-share-ideas =
     .label = Ideje a měnjenja źěliś …
     .accesskey = I
@@ -393,7 +379,6 @@ appmenuitem-vpn-description5 = Dostańśo pśidatny šćit na rědach
 appmenuitem-vpn-title-signed-in1 = { -mozilla-vpn-brand-name } ześěgnuś
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Wobstarajśo se šćit za ceły rěd
-appmenuitem-vpn-description = Šćitajśo swóju aktiwitu online
 appmenu-services-header = Móje słužby
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -403,7 +388,6 @@ appmenu-other-protection-header3 = Rědy priwatnosći
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Wopytajśo druge šćitańske rědy wót Mozilla:
-appmenu-other-protection-header = Testujśo druge šćitańske rědy wót { -vendor-short-name }:
 
 ## Profiles panel
 

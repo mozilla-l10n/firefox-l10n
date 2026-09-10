@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = नव टैब
-newtab-settings-button =
-    .title = अपन नव टैब पृष्ठ पसंदीदा बनाउ
 
 ## Firefox Home content
 
@@ -37,7 +35,6 @@ newtab-search-box-search-button =
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
-newtab-topsites-edit-topsites-header = टॉप साइट संपादित करू
 newtab-topsites-title-label = शीर्षक
 newtab-topsites-title-input =
     .placeholder = शीर्षक दर्ज करू
@@ -64,13 +61,6 @@ newtab-confirm-delete-history-p1 = की अहाँ वाकई ई पृ�
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = ई क्रिया केँ पहिले जहिना नहि कएल जाए सकैत अछि.
 
-## Context Menu - Action Tooltips.
-
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = ई साइट केँ संपादित करू
-    .title = ई साइट केँ संपादित करू
-
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = संपादन
@@ -80,7 +70,6 @@ newtab-menu-dismiss = खारिज करू
 newtab-menu-pin = पिन करू
 newtab-menu-unpin = पिन हटाबू
 newtab-menu-delete-history = इतिहास सँ मेटाबू
-newtab-menu-save-to-pocket = { -pocket-brand-name } मे सहेजू
 
 ##
 
@@ -120,34 +109,15 @@ newtab-label-download = डाउनलोड करल
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = खंड हटाबू
-newtab-section-menu-collapse-section = खंड संक्षिप्त करू
-newtab-section-menu-expand-section = खंड पसारू
-newtab-section-menu-manage-section = खंड प्रबंधित करू
-newtab-section-menu-add-topsite = टॉप साइट जोड़ू
-newtab-section-menu-move-up = उप्पर जाउ
-newtab-section-menu-move-down = नीच्चाँ जाउ
 newtab-section-menu-privacy-notice = गोपनीयता सूचना
 
 ## Section Headers.
 
 newtab-section-header-topsites = टॉप साइट
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } द्वारा अनुशंसित
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ब्राउजिंग आरंभ करू, आओर हम अहाँक किछु बढियाँ नवीन आर्टिकिल, वीडियो, आओर आन पेज देखाएब, जकरा अङाँ हाले में विजिट कएलहुँ अथवा एतय बुकमार्क कएलहुँ.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = अहाँ आखिर धरि पहुँचि गेलहु, { $provider } सँ बाद में फिनु टॉप स्टोरी देखू. इंतजार नहि कए सकब? अधिक बढिया स्टोरी वेब सँ पाबै लेल एकटा लेकप्रिय टॉपिक चुनू.
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = लोकप्रिय विषय:
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

@@ -35,7 +35,6 @@ inactive-css-first-line-pseudo-element-not-supported = Nid yw <strong>{ $propert
 inactive-css-first-letter-pseudo-element-not-supported = Nid yw <strong>{ $property }</strong> yn cael ei gefnogi ar ::first-line pseudo-elements.
 inactive-css-placeholder-pseudo-element-not-supported = Nid yw <strong>{ $property }</strong> yn cael ei gefnogi ar ::placeholder pseudo-elements.
 inactive-css-property-because-of-display = Nid oes gan <strong>{ $property }</strong> unrhyw effaith ar yr elfen hon gan ei bod yn dangos  <strong>{ $display }</strong>.
-inactive-css-not-display-block-on-floated = Mae'r peiriant wedi newid y gwerth <strong>display</strong> i <strong>block</strong> oherwydd bod yr elfen yn <strong>arnofio</strong>.
 inactive-css-not-display-block-on-floated-2 = Mae'r gwerth <strong>dangos</strong> wedi ei newid gan yr injan i <strong>{ $display }</strong> oherwydd bod yr elfen yn <strong>arnofio</strong>.
 inactive-css-only-non-grid-or-flex-item = Nid yw <strong>{ $property }</strong> yn cael unrhyw effaith oherwydd nid oes modd ei ddefnyddio ar eitemau grid neu fflecs.
 inactive-css-not-block = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon oherwydd ei fod yn berthnasol i elfennau lefel bloc yn unig.
@@ -56,16 +55,6 @@ inactive-scroll-padding-when-not-scroll-container = Nid yw <strong>{ $property }
 inactive-css-border-image = Nid yw <strong>{ $property }</strong> yn cael unrhyw effaith ar yr elfen hon gan nad oes modd ei gymhwyso i elfennau tabl mewnol lle mae <strong>cwymp-ffiniol</strong> wedi'i osod i <strong>gwympo</strong> ar y elfen tabl rhiant.
 inactive-css-resize = Nid yw <strong>{ $property }</strong> yn cael unrhyw effaith ar yr elfen hon gan mai dim ond i elfennau sydd â gwerth gorlif sy'n wahanol i'r rhai gweladwy y mae modd ei ddefnyddio, ac i rai elfennau sydd wedi'u disodli, megis meysydd testun.
 inactive-css-ruby-element = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan ei bod yn elfen ruby. Mae ei faint yn cael ei bennu gan faint ffont y testun ruby.
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 inactive-css-highlight-pseudo-elements-not-supported = Nid yw <strong>{ $property }</strong> yn cael ei gefnogi ar amlygu ffug-elfennau.
 inactive-css-cue-pseudo-element-not-supported = Nid yw <strong>{ $property }</strong> yn cael ei gefnogi ar  ::cue pseudo-elements.
 inactive-css-at-position-try-not-supported = Dyw <strong>{ $property }</strong> ddim yn cael ei gefnogi yn rheolau <strong>@position-try</strong>.

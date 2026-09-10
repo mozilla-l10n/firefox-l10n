@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } — ຕົວຊີ້ບອກການແບ່ງປັນ
-webrtc-indicator-window =
-    .title = { -brand-short-name } — ຕົວຊີ້ບອກການແບ່ງປັນ
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = ທ່ານກຳລັງແບ່ງປັນໄມໂຄຣໂຟນຂອງທ່ານ. ຄລິກເພື່ອຄວບຄຸມການແບ່ງປັນ.
 webrtc-screen-system-menu =
     .label = ທ່ານກໍາລັງແບ່ງປັນ ໜ້າຕ່າງ ຫຼື ໜ້າຈໍ. ຄລິກເພື່ອຄວບຄຸມການແບ່ງປັນ.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = ກຳລັງແບ່ງປັນກ້ອງ ແລະ ໄມໂຄຣໂຟນຂອງທ່ານ. ຄລິກເພື່ອຄວບຄຸມການແບ່ງປັນ.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = ກ້ອງຂອງທ່ານກຳລັງຖືກແບ່ງປັນ. ຄລິກເພື່ອຄວບຄຸມການແບ່ງປັນ.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = ໄມໂຄຣໂຟນຂອງທ່ານກຳລັງຖືກແບ່ງປັນ. ຄລິກເພື່ອຄວບຄຸມການແບ່ງປັນ.
-webrtc-indicator-sharing-application =
-    .tooltiptext = ແອັບພລິເຄຊັນກຳລັງຖືກແບ່ງປັນ. ຄລິກເພື່ອຄວບຄຸມການແບ່ງປັນ.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = ໜ້າຈໍຂອງທ່ານກຳລັງຖືກແບ່ງປັນ. ຄລິກເພື່ອຄວບຄຸມການແບ່ງປັນ.
-webrtc-indicator-sharing-window =
-    .tooltiptext = ປ່ອງຢ້ຽມກຳລັງຖືກແບ່ງປັນ. ຄລິກເພື່ອຄວບຄຸມການແບ່ງປັນ.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = ແຖບກຳລັງຖືກແບ່ງປັນ. ຄລິກເພື່ອຄວບຄຸມການແບ່ງປັນ.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -147,7 +128,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ອະນຸຍ�
 
 webrtc-share-screen-warning = ແບ່ງປັນໜ້າຈໍກັບເວັບໄຊທີ່ທ່ານເຊື່ອຖືເທົ່ານັ້ນ. ການ​ແບ່ງ​ປັນ​ສາ​ມາດ​ອະ​ນຸ​ຍາດ​ໃຫ້​ເວັບ​ໄຊ​ທີ່​ຫຼອກ​ລວງ​ທ່ອງ​ເວັບ​ຕາມ​ທີ່​ທ່ານ​ແລະ​ລັກ​ຂໍ້​ມູນ​ສ່ວນ​ຕົວ​ຂອງ​ທ່ານ​.
 webrtc-share-browser-warning = ພຽງແຕ່ແບ່ງປັນ { -brand-short-name } ກັບເວັບໄຊທີ່ທ່ານເຊື່ອຖື. ການ​ແບ່ງ​ປັນ​ສາ​ມາດ​ອະ​ນຸ​ຍາດ​ໃຫ້​ເວັບ​ໄຊ​ທີ່​ຫຼອກ​ລວງ​ທ່ອງ​ເວັບ​ຕາມ​ທີ່​ທ່ານ​ແລະ​ລັກ​ຂໍ້​ມູນ​ສ່ວນ​ຕົວ​ຂອງ​ທ່ານ​.
-webrtc-share-screen-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 webrtc-pick-window-or-screen = ເລືອກປ່ອງຢ້ຽມຫຼືຫນ້າຈໍ
 webrtc-share-entire-screen = ທັງຫນ້າຈໍ
 webrtc-share-pipe-wire-portal = ໃຊ້ການຕັ້ງຄ່າລະບົບປະຕິບັດການ

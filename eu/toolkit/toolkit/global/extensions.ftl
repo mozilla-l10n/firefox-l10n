@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Gehitu { $extension }?
-webext-perms-header-with-perms = { $extension } gehitu? Hedapen honek ondorengo baimenak izango ditu:
-webext-perms-header-unsigned = { $extension } gehitu? Hedapen hau egiaztatu gabe dago. Asmo txarreko hedapenek zure informazio pertsonala lapurtu edo zure ordenagailua arriskuan jar dezakete. Instalatu soilik iturburu fidagarrikoa bada.
-webext-perms-header-unsigned-with-perms = { $extension } gehitu? Hedapen hau egiaztatu gabe dago. Asmo txarreko hedapenek zure informazio pertsonala lapurtu edo zure ordenagailua arriskuan jar dezakete. Instalatu soilik iturburu fidagarrikoa bada. Hedapen honek ondorengo baimenak izango ditu:
 webext-perms-sideload-header = { $extension } gehitu da
 webext-perms-optional-perms-header2 = { $extension } hedapenak aparteko baimenak eskatzen ditu
-webext-perms-optional-perms-header = { $extension } hedapenak aparteko baimenak eskatzen ditu.
 webext-perms-header2 = Gehitu { $extension }
 webext-perms-list-intro-unsigned = Egiaztatu gabeko hedapen honek zure pribatutasuna arriskuan jarri eta zure gailua konprometi lezake. Iturburuaz fio bazara soilik gehitu.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } eguneratu egin da. Baimen berriak onartu behar dituzu eguneratutako bertsioa instala dadin. "Utzi" aukeratuz gero, hedapenaren uneko bertsioarekin jarraituko duzu.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } eguneratu egin da. Baimen berriak onartu behar dituzu eguneratutako bertsioa instala dadin. "Utzi" aukeratuz gero, hedapenaren uneko bertsioarekin jarraituko duzu. Hedapen honek ondorengo baimenak izango ditu:
 webext-perms-update-accept =
     .label = Eguneratu
     .accesskey = E
@@ -73,24 +65,8 @@ webext-perms-host-description-file-urls = Zure ordenagailuko fitxategi lokalak a
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } domeinupeko guneetako zure datuak atzitzea
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Zure datuak beste domeinu batean atzitzea
-       *[other] Zure datuak beste { $domainCount } domeinuetan atzitzea
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } ostalariko zure datuak atzitzea
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Zure datuak beste beste gune batean atzitzea
-       *[other] Zure datuak beste { $domainCount } guneetan atzitzea
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

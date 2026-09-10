@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Nagin container
-    .accesskey = N
 user-context-manage-containers =
     .label = Administrar ils containers
     .accesskey = A

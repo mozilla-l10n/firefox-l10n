@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Po njëkohësohet…
 sync-disconnect-dialog-title2 = Të shkëputet?
 sync-disconnect-dialog-body = { -brand-product-name } do të reshtë së njëkohësuari llogarinë tuaj, por në këtë pajisje s’do të fshihet ndonjë e dhënë tuaja e shfletimit.
 sync-disconnect-dialog-button = Shkëputu
-fxa-signout-dialog2-title = Të dilet nga { -fxaccount-brand-name }?
 fxa-signout-dialog-title2 = Të dilet nga llogaria juaj?
 fxa-signout-dialog-body = Të dhënat e njëkohësuara do të mbeten në llogarinë tuaj.
 fxa-signout-dialog2-button = Dilni
@@ -35,14 +34,6 @@ fxa-menu-send-to-mobile =
         { $tabCount ->
             [1] Dërgoje në celular
            *[other] Send { $tabCount } tabs to mobile
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Dërgoje Skedën te Pajisje
-           *[other] Dërgo { $tabCount } Skedë te Pajisje
         }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =

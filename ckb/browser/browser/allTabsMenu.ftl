@@ -9,6 +9,3 @@ all-tabs-menu-new-user-context =
     .label = بازدەری لەخۆگری نوێ
 all-tabs-menu-hidden-tabs =
     .label = بازدەری شاراوە
-all-tabs-menu-manage-user-context =
-    .label = ڕێکخستنی لەخۆگرەکان
-    .accesskey = ڕ

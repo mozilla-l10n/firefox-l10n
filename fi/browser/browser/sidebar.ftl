@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = Tyhjennä historia
 sidebar-history-sort-by-heading-menucaption =
     .label = Järjestys:
-sidebar-history-sort-by-heading = Järjestys:
 sidebar-history-sort-option-date =
     .label = Päiväys
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Sivupaneelin laajennukset
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name }-työkalut
 sidebar-customize-firefox-settings = Hallitse { -brand-short-name }-asetuksia
 sidebar-vertical-tabs =
     .label = Pystysuuntaiset välilehdet
 sidebar-settings2 =
     .label = Asetukset
-sidebar-settings =
-    .label = Sivupaneelin asetukset
 sidebar-hide-tabs-and-sidebar =
     .label = Piilota välilehdet ja sivupaneeli
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Hallitse laajennusta
-sidebar-context-menu-remove-extension =
-    .label = Poista laajennus
 sidebar-context-menu-report-extension =
     .label = Raportoi laajennus
 sidebar-context-menu-open-in-tab =

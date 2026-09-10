@@ -28,7 +28,7 @@ searchbar-icon =
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = Eik On Airt-oot Engine
     .style = min-width: 32em;
+    .title = Eik On Airt-oot Engine
 add-engine-button = Eik On Custom Engine
 add-engine-name = Airt-oot engine nemme

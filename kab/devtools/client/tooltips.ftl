@@ -27,7 +27,6 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> ur d-igellu s kra ɣ
 inactive-css-not-flex-container = <strong>{ $property }</strong> ur d-igellu s kra ɣef uferdis-a imi mačči d amagbar flex.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> ur d-igellu s kra ɣef uferdis-a imi mačči d aferdis inline neɣ table-cell.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ur d-igellu s kra ɣef uferdis-a imi ɣur-s askan n <strong>{ $display }</strong>.
-inactive-css-not-display-block-on-floated = Azal <strong>display</strong> ibeddel-it umsedday ɣer <strong>block</strong> acku aferdis d <strong>flottant</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Ur izmir ara ad yales asbadu n  <strong>{ $property }</strong> ɣef sebba n yilugan deg <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ur d-igellu s kra ɣef uferdis-a imi mačči d aferdis adigan.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ur d-igellu s kra ɣef uferdis-agi, imi <strong>overflow:hidden</strong> ur yettusbadu ara.

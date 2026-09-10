@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = ఆంతరంగిక విండో తెరువు
     .accesskey = P
 about-private-browsing-search-placeholder = జాలంలో వెతకండి
-about-private-browsing-info-title = మీరు అంతరంగిక విండోలో ఉన్నారు
 about-private-browsing-search-btn =
     .title = జాలంలో వెతకండి
 # Variables
@@ -19,14 +18,10 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = { $engine }‌తో వెతకండి లేదా చిరునామాను ఇవ్వండి
 about-private-browsing-handoff-text-no-engine = వెతకండి లేదా చిరునామాను ఇవ్వండి
 about-private-browsing-not-private = మీరు ప్రస్తుతం అంతరంగిక విండోలో లేరు.
-about-private-browsing-info-description-private-window = అంతరంగిక కిటికీ: అంతరంగిక కిటికీలన్నీ మూసివేసినప్పుడు మీ వెతుకుడు, విహరణ చరిత్రను { -brand-short-name } తుడిచివేస్తుంది, కానీ ఇది మీ కార్యకలాపాన్ని అనామకం చేయదు.
-about-private-browsing-info-description-simplified = అంతరంగిక కిటికీలన్నీ మూసివేసినప్పుడు మీ వెతుకుడు, విహరణ చరిత్రను { -brand-short-name } తుడిచివేస్తుంది, కానీ ఇది మీ కార్యకలాపాన్ని అనామకం చేయదు.
-about-private-browsing-learn-more-link = ఇంకా తెలుసుకోండి
 about-private-browsing-get-privacy = విహరిస్తున్న ప్రతిచోటా అంతరంగికతా సంరక్షణలను పొందండి
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name }తో ఆంతరంగికంగా ఉండండి
 about-private-browsing-focus-promo-cta = { -focus-brand-name }‌ను దించుకోండి
 about-private-browsing-focus-promo-header = { -focus-brand-name }: ప్రయాణంలో అంతరంగిక విహారణ
-about-private-browsing-focus-promo-header-b = ఆంతరంగిక విహరణను మీ ఫొన్లోకి తీసుకెళ్ళండి
 about-private-browsing-focus-promo-header-c = మొబైలులో తర్వాతి-స్థాయి అంతరంగికత
 # This string is the title for the banner for search engine selection
 # in a private window.

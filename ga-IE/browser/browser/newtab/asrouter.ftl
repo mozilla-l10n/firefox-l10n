@@ -53,10 +53,6 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-link-text = Sioncronaigh leabharmharcanna anois…
 
-## Protections panel
-
-cfr-protections-panel-link-text = Tuilleadh eolais
-
 ## What's New toolbar button and panel
 
 # This string is used by screen readers to offer a text based alternative for

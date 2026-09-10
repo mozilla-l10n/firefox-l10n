@@ -23,22 +23,10 @@ xpinstall-prompt-never-allow =
 xpinstall-prompt-install =
     .label = प्रस्थापनेकडे चला
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = आपल्या प्रणाली प्रशासकाकडून सॉफ्टवेअर प्रतिष्ठापन अकार्यन्वीत करण्यात आले.
 xpinstall-disabled = सॉफ्टवेअर प्रतिष्ठापन सध्या अकार्यान्वीत केले आहे. कार्यान्वीत करा वर क्लिक करा व पुन्हा प्रयत्न करा.
 xpinstall-disabled-button =
     .label = कार्यान्वीत करा
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = प्रणाली प्रशासकाद्वारे { $addonName } ({ $addonId }) अवरोधित केले आहे.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { -brand-short-name } मध्ये { $addonName } जोडले आहे
@@ -48,9 +36,6 @@ webext-perms-update-menu-item = { $addonName } नवीन परवानग�
 
 ## Add-on removal warning
 
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = { -brand-shorter-name } मधून { $name } काढायचे?
 addon-removal-button = काढून टाका
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
@@ -101,4 +86,3 @@ addon-local-install-error-not-signed = सत्यापित नसल्य�
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { -brand-short-name } { $appVersion } सोबत सहत्व नसल्यामुळे { $addonName } प्रतिष्ठापन शक्य नाही.
-addon-install-error-blocklisted = स्थिरता किंवा सुरक्षा कारणास्तव एक उच्च जोखिम असल्यामुळे { $addonName } प्रतिष्ठापन शक्य नाही.

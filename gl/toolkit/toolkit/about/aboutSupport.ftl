@@ -29,10 +29,6 @@ security-software-name = Nome
 security-software-antivirus = Antivirus
 security-software-antispyware = Antispyware
 security-software-firewall = Devasa
-features-title = Características do { -brand-short-name }
-features-name = Nome
-features-version = Versión
-features-id = ID
 processes-title = Procesos remotos
 processes-type = Tipo
 processes-count = Conta
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] Cartafol do perfil
        *[other] Cartafol do perfil
     }
-app-basics-enabled-plugins = Engadidos activados
 app-basics-build-config = Configuración da compilación
 app-basics-user-agent = User Agent
 app-basics-os = SO
@@ -96,9 +91,6 @@ show-dir-label =
 environment-variables-title = Variables de contorno
 environment-variables-name = Nome
 environment-variables-value = Valor
-experimental-features-title = Características experimentais
-experimental-features-name = Nome
-experimental-features-value = Valor
 modified-key-prefs-title = Preferencias importantes modificadas
 modified-prefs-name = Nome
 modified-prefs-value = Valor
@@ -206,9 +198,6 @@ media-cdm-capabilities = Capacidades
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Inicio limpo
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = Compatible con HDCP 2.2
 
 ##
 
@@ -380,8 +369,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Desactivada polo experimento
-fission-status-experiment-treatment = Activada polo experimento
 fission-status-disabled-by-e10s-env = Desactivada polo entorno
 fission-status-enabled-by-env = Activada polo entorno
 fission-status-disabled-by-env = Desactivada polo ambiente
@@ -390,7 +377,6 @@ fission-status-disabled-by-default = Desactivada por omisión
 fission-status-enabled-by-user-pref = Activada polo usuario
 fission-status-disabled-by-user-pref = Desactivada polo usuario
 fission-status-disabled-by-e10s-other = Desactivadas por E10s
-fission-status-enabled-by-rollout = Activada por unha publicación gradual
 async-pan-zoom = Pan/Zoom asíncrono
 apz-none = ningún
 wheel-enabled = entrada da roda do rato activada

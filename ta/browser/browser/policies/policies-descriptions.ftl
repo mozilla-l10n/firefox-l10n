@@ -22,7 +22,6 @@ policy-Cookies = நினைவிகளை அமைப்பதற்கு �
 policy-DisableAppUpdate = உலாவியைப் புதுப்பித்துக்கொள்வதிலிருந்து தடு.
 policy-DisableBuiltinPDFViewer = PDF.js, உள்ளமைந்த PDF படிப்பானை { -brand-short-name } உலாவியில் செயல்நீக்கு.
 policy-DisableDeveloperTools = உருவாக்குநர் கருவிகளுக்கான அணுகலைத் தடு.
-policy-DisableFirefoxAccounts = ஒத்திசைவு உட்பட, { -fxaccount-brand-name } சார்ந்த சேவைகளை முடக்கு.
 policy-DisableFormHistory = தேடல் மற்றும் படிவ வரலாற்றை நினைவில் கொள்ளாதே.
 policy-DNSOverHTTPS = HTTPS வழியாக DNS ஐ கட்டமைக்கவும்.
 policy-DontCheckDefaultBrowser = தொடக்கத்தில் இயல்புநிலை உலாவிக்கான சரிபார்ப்பை முடக்கு.

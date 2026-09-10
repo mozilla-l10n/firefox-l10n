@@ -8,11 +8,8 @@ label-interventions = Intervences
 # Variables:
 #   $bug (string) - Bug number
 label-more-information = Vairāk informācijas: kļūda { $bug }
-label-overrides = Lietotāja aģenta ignorēšana
 text-disabled-in-about-config = Šī funkcija ir izslēgta sadaļā about:config
 text-no-interventions = Nekādas intervences netiek izmantotas
-text-no-overrides = UA ignorēšana netiek izmantota
-text-title = about:compat
 
 ## Do not translate "SmartBlock". For reference, SmartBlock is a feature
 ## of Firefox anti-tracking which fixes website breakage caused when

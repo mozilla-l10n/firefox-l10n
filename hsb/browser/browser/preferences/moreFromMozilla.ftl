@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Wjace wot { -vendor-short-name }
 more-from-moz-page-header =
     .heading = Wjace wot { -vendor-short-name }
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = Mobilny { -brand-product-name }
 more-from-moz-firefox-mobile-description = Mobilny wobhladowak, kotryž wašu priwatnosć na prěnje městno staja.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } za mobilne graty
 more-from-moz-firefox-mobile =
-    .label = { -brand-product-name } za mobilne graty
     .description = Mobilny wobhladowak, kotryž wašu priwatnosć na prěnje městno staja.
+    .label = { -brand-product-name } za mobilne graty
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Wotkryjće přidatu runinu anonymneho přehladowanja a škita.
 more-from-moz-qr-code-box-firefox-mobile-title = Sćehńće z pomocu swojeho mobilneho grata. Měrće swoju kameru na QR-kod. Hdyž so wotkaz jewi, podótkńće so jeho.
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = { -relay-brand-short-name } wobstarać
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Waše wotkryte wosobinske informacije awtomatisce cofnyć
 more-from-moz-mozilla-monitor-global-description = Warnowanja dóstać, hdyž su waše daty w dźěrje datow byli.
 more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } wobstarać
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = KI { -solo-ai-brand-name }
 more-from-moz-solo-description = Wutworće swoje websydło hnydom a zwjazajće swójsku domenu zadarmo.
 more-from-moz-solo-button = Spytajće { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = Twórc websydłow KI { -solo-ai-brand-name }
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = Sćelće swojemu telefonej wotkaz sće
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = Wuslědźće, hdźež waše wosobinske informacije su so online z darmotnym skenom wustajili.
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = Wobstarajće sej přidatny škit za wšě nałoženja – nic jenož za swój wobhladowak. Dźeržće swoje daty wěste w zjawnym WLAN a njewěstych syćach.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = Škitajće swoju e-mejl před spamom z darmotnymi e-mejlowymi maskami.
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = Wukńće webwuwiće z darmotnymi nawodami a žórłami.
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = Mějće přistup k swojej e-mejli, protykam a kontaktam w jednym spěšnym nałoženju.
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = Wutworće hnydom swoje websydło a zwjazajće swójsku domenu zadarmo.
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = Nowe produkty { -vendor-short-name }
     .description = Wuslědźće naše najnowše ideje a eksperimentalne technologije.
+    .label = Nowe produkty { -vendor-short-name }
 more-from-moz-mozilla-monitor-box-link =
     .label = { -monitor-brand-short-name } wobstarać
 more-from-moz-mozilla-vpn-box-link =

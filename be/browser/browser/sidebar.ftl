@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = Ачысціць гісторыю
 sidebar-history-sort-by-heading-menucaption =
     .label = Парадкаванне:
-sidebar-history-sort-by-heading = Парадкаванне:
 sidebar-history-sort-option-date =
     .label = Дата
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Пашырэнні бакавой панэлі
-sidebar-customize-firefox-tools-header =
-    .label = Прылады { -brand-product-name }
 sidebar-customize-firefox-settings = Кіраванне наладамі { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Вертыкальныя карткі
 sidebar-settings2 =
     .label = Налады
-sidebar-settings =
-    .label = Налады бакавой панэлі
 sidebar-hide-tabs-and-sidebar =
     .label = Схаваць карткі і бакавую панэль
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Кіраваць пашырэннем
-sidebar-context-menu-remove-extension =
-    .label = Выдаліць пашырэнне
 sidebar-context-menu-report-extension =
     .label = Паведаміць пра пашырэнне
 sidebar-context-menu-open-in-tab =

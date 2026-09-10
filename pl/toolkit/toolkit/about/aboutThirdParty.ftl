@@ -28,11 +28,11 @@ third-party-tag-shellex = Rozszerzenie powłoki
 third-party-tag-background = W tle
     .title = Ten moduł nie blokował aplikacji, ponieważ został wczytany w tle.
 third-party-icon-unsigned =
-    .title = Ten moduł nie jest podpisany
     .alt = Ten moduł nie jest podpisany
+    .title = Ten moduł nie jest podpisany
 third-party-icon-warning =
-    .title = { -brand-short-name } uległ awarii w kodzie z tego modułu
     .alt = { -brand-short-name } uległ awarii w kodzie z tego modułu
+    .title = { -brand-short-name } uległ awarii w kodzie z tego modułu
 third-party-status-loaded = Wczytany
 third-party-status-blocked = Zablokowany
 third-party-status-redirected = Przekierowany
@@ -44,30 +44,17 @@ third-party-button-reload = Wczytaj ponownie z informacjami o systemie
     .title = Wczytaj ponownie z informacjami o systemie
 third-party-button-open =
     .title = Otwórz położenie pliku…
-third-party-button-to-block =
-    .title = Zablokuj ten moduł
-    .aria-label = Zablokuj ten moduł
-third-party-button-to-unblock =
-    .title = Obecnie zablokowany. Kliknij, aby go odblokować.
-    .aria-label = Obecnie zablokowany. Kliknij, aby go odblokować.
-third-party-button-to-unblock-disabled =
-    .title =
-        Obecnie oznaczony jako zablokowany, chociaż lista blokowania jest wyłączona
-        na czas tego uruchomienia { -brand-short-name(case: "gen") }. Kliknij, aby go odblokować.
-    .aria-label =
-        Obecnie oznaczony jako zablokowany, chociaż lista blokowania jest wyłączona
-        na czas tego uruchomienia { -brand-short-name(case: "gen") }. Kliknij, aby go odblokować.
 third-party-button-to-block-module = Zablokuj ten moduł
-    .title = Zablokuj ten moduł
     .aria-label = Zablokuj ten moduł
+    .title = Zablokuj ten moduł
 third-party-button-to-unblock-module = Odblokuj ten moduł
-    .title = Obecnie zablokowany. Kliknij, aby go odblokować.
     .aria-label = Obecnie zablokowany. Kliknij, aby go odblokować.
+    .title = Obecnie zablokowany. Kliknij, aby go odblokować.
 third-party-button-to-unblock-module-disabled = Odblokuj ten moduł (lista blokowania jest obecnie wyłączona)
-    .title =
+    .aria-label =
         Obecnie oznaczony jako zablokowany, chociaż lista blokowania jest wyłączona
         na czas tego uruchomienia { -brand-short-name(case: "gen") }. Kliknij, aby go odblokować.
-    .aria-label =
+    .title =
         Obecnie oznaczony jako zablokowany, chociaż lista blokowania jest wyłączona
         na czas tego uruchomienia { -brand-short-name(case: "gen") }. Kliknij, aby go odblokować.
 third-party-button-expand =
@@ -79,5 +66,5 @@ third-party-should-restart-title = Ponowne uruchomienie { -brand-short-name(case
 third-party-restart-now = Uruchom ponownie
 third-party-restart-later = Uruchom ponownie później
 third-party-blocked-by-builtin =
-    .title = Zablokowane przez { -brand-short-name(case: "acc") }
     .alt = Zablokowane przez { -brand-short-name(case: "acc") }
+    .title = Zablokowane przez { -brand-short-name(case: "acc") }

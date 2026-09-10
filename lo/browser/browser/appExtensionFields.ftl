@@ -14,15 +14,3 @@ extension-firefox-compact-dark-name = ມືດ
 extension-firefox-compact-dark-description = ຮູບແບບສີສັນທີ່ມີຮູບແບບສີເຂັ້ມ.
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = ໃຊ້ຮູບລັກສະນະທີ່ມີສີສັນສໍາລັບປຸ່ມ, ເມນູ, ແລະ ໜ້າຕ່າງ
-
-## Colorway Themes
-## These themes are variants of a colorway. The colorway is specified in the
-## $colorway-name variable.
-## Variables
-##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
-
-extension-colorways-soft-name = { $colorway-name } — ອ່ອນ
-extension-colorways-balanced-name = { $colorway-name } — ດຸ່ນດ່ຽງ
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-extension-colorways-bold-name = { $colorway-name } — ຕົວໜາ

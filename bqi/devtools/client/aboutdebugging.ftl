@@ -5,12 +5,6 @@
 
 ### These strings are used inside the about:debugging UI.
 
-
-# Page Title strings
-
-
-# Sidebar strings
-
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = یو { -brand-shorter-name }
@@ -70,9 +64,6 @@ about-debugging-sidebar-support-icon =
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = وانۊ کردن دسگا یل
-
-# Setup Page strings
-
 # Title of the Setup page.
 about-debugging-setup-title = وورکل کردن
 # Title of the heading Connect section of the Setup page.
@@ -104,9 +95,6 @@ about-debugging-network-locations-host-input-label = هاست
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = پاک کردن
-
-# Runtime Page strings
-
 # Below are the titles for the various categories of debug targets that can be found
 # on "runtime" pages of about:debugging.
 # Title of the temporary extensions category (only available for "This Firefox" runtime).
@@ -132,9 +120,6 @@ about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = قت کردن منپیز
-
-# Debug Targets strings
-
 # Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...

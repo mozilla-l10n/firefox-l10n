@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Reculer d’une page ({ $shortcut })
     .aria-label = Page précédente
+    .tooltiptext = Reculer d’une page ({ $shortcut })
     .accesskey = P
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Avancer d’une page ({ $shortcut })
     .aria-label = Page suivante
+    .tooltiptext = Avancer d’une page ({ $shortcut })
     .accesskey = s
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name(capitalization: "uppercase") }
-    .tooltiptext = { -fxaccount-brand-name(capitalization: "uppercase") }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Marquer cette page…
-    .accesskey = m
     .tooltiptext = Marquer cette page
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Marquer cette page…
-    .accesskey = M
     .tooltiptext = Marquer cette page ({ $shortcut })
+    .accesskey = M
 main-context-menu-edit-bookmark =
     .aria-label = Modifier le marque-page…
-    .accesskey = m
     .tooltiptext = Modifier le marque-page
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Modifier le marque-page…
-    .accesskey = m
     .tooltiptext = Modifier le marque-page ({ $shortcut })
+    .accesskey = m
 main-context-menu-open-link =
     .label = Ouvrir le lien
     .accesskey = O
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Enregistrer la cible du lien sous…
     .accesskey = E
-main-context-menu-save-link-to-pocket =
-    .label = Enregistrer le lien dans { -pocket-brand-name }
-    .accesskey = P
 
 ##
 
@@ -311,39 +302,21 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Activez la synchronisat
 main-context-menu-send-to-mobile-connect-phone3 = Connectez un appareil pour envoyer des onglets
 main-context-menu-send-to-mobile-connect-phone-from-link = Connectez un appareil pour envoyer un lien
 main-context-menu-send-to-mobile-connect-phone-from-page = Connectez un appareil pour envoyer une page
-main-context-menu-save-to-pocket =
-    .label = Enregistrer la page dans { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Envoyer la page à un appareil
-    .accesskey = v
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Utiliser l’identifiant enregistré
-    .accesskey = U
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Utiliser le mot de passe enregistré
     .accesskey = U
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Utiliser un alias de messagerie { -relay-brand-short-name }
     .accesskey = m
 main-context-menu-suggest-strong-password =
     .label = Suggérer un mot de passe fort…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = Gérer les identifiants
-    .accesskey = n
 main-context-menu-manage-passwords =
     .label = Gérer les mots de passe
-    .accesskey = m
-main-context-menu-keyword =
-    .label = Ajouter un mot-clé pour cette recherche…
     .accesskey = m
 main-context-menu-add-engine =
     .label = Ajouter un moteur de recherche
@@ -391,9 +364,6 @@ main-context-menu-view-selection-source =
     .label = Code source de la sélection
     .accesskey = e
 main-context-menu-take-screenshot =
-    .label = Effectuer une capture d’écran
-    .accesskey = E
-main-context-menu-take-frame-screenshot =
     .label = Effectuer une capture d’écran
     .accesskey = E
 main-context-menu-view-page-source =

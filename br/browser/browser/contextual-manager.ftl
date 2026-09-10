@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Klask er gerioù-tremen
-    .key = F
     .aria-label = Klask er gerioù-tremen
+    .key = F
+    .placeholder = Klask er gerioù-tremen
 contextual-manager-menu-more-options-button =
     .title = Dibarzhioù ouzhpenn
 contextual-manager-more-options-popup =
@@ -18,7 +18,6 @@ contextual-manager-passwords-command-import-from-browser = Enporzhiañ eus ur me
 contextual-manager-passwords-command-import = Enporzhiañ adalek ur restr…
 contextual-manager-passwords-command-export = Ezporzhiañ ar gerioù-tremen
 contextual-manager-passwords-command-remove-all = Dilemel an holl c’herioù-tremen
-contextual-manager-passwords-command-settings = Arventennoù
 contextual-manager-passwords-command-help = Skoazell
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -61,10 +60,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Gerioù-tremen enporzhiet
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Nevez: { $added }, Hizivaet: { $modified }
 contextual-manager-passwords-import-success-button = Graet
 contextual-manager-passwords-import-error-button-try-again = Klask en-dro
 contextual-manager-passwords-import-error-button-cancel = Nullañ
@@ -173,8 +168,6 @@ contextual-manager-passwords-title = Gerioù-tremen
 
 contextual-manager-passwords-create-label =
     .label = Ouzhpennañ ur ger-tremen
-contextual-manager-passwords-edit-label =
-    .label = Kemmañ ar ger-tremen
 contextual-manager-passwords-remove-label =
     .title = Dilemel ar ger-tremen
 contextual-manager-passwords-origin-field =
@@ -239,12 +232,6 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Ger-tremen ebet kavet
-
-## When the user has no saved passwords, we display the following messages to inform the user they can save
-## their passwords safely and securely in Firefox:
-
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Enrollit ho kerioù-tremen en ul lec’h sur.
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.

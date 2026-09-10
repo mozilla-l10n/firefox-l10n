@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ �
 default-browser-prompt-message-pin-msix = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱛᱤᱠᱟᱹᱴᱩᱵ ᱴᱷᱮᱱ ᱢᱩᱴᱷᱟᱹᱱ ᱢᱮ — ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱞᱮᱠᱷᱟ ᱛᱮᱭᱟᱨ ᱛᱟᱢ ᱟᱨ ᱟᱢᱟᱜ ᱠᱟᱹᱢᱤ ᱵᱟᱨ ᱨᱮ ᱮᱛᱦᱚᱵ ᱢᱮᱱᱩ ᱨᱮ ᱞᱟᱴᱷᱟᱭ ᱢᱮ ᱾
 default-browser-prompt-message-pin-mac = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱛᱤᱠᱟᱹᱴᱩᱵ ᱴᱷᱮᱱ ᱢᱩᱴᱷᱟᱹᱱ ᱢᱮ — ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱞᱮᱠᱷᱟ ᱛᱮᱭᱟᱨ ᱛᱟᱢ ᱟᱨ ᱟᱢᱟᱜ ᱜᱩᱫᱤ ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ ᱾
 default-browser-prompt-button-primary-set = ᱢᱩᱞ ᱵᱽᱨᱟᱣᱩᱡᱚᱨ ᱞᱮᱠᱟᱛᱮ ᱥᱮᱴ ᱢᱮ
-default-browser-prompt-button-primary-pin = ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱛᱮᱭᱟᱨ ᱡᱮ
 default-browser-prompt-title-alt = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱛᱮᱭᱟᱨ ᱟᱢ ᱥᱮ ?
 default-browser-prompt-message-alt = ᱡᱟᱦᱟᱸ ᱛᱤ ᱨᱮ ᱟᱢ ᱵᱽᱨᱟᱣᱡᱽ ᱡᱷᱚᱜ ᱨᱚᱯᱷᱛᱟᱨ, ᱨᱩᱠᱷᱤᱭᱟᱹ , ᱟᱨ ᱩᱠᱩ ᱧᱟᱢ ᱢᱮ ᱾
 default-browser-prompt-button-primary-alt = ᱢᱩᱞ ᱵᱽᱨᱟᱣᱩᱡᱚᱨ ᱞᱮᱠᱟ ᱥᱟᱡᱟᱣ ᱢᱮ

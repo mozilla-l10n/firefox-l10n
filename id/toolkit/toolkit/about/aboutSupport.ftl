@@ -29,10 +29,6 @@ security-software-name = Nama
 security-software-antivirus = Antivirus
 security-software-antispyware = Antiperangkatpengintai
 security-software-firewall = Tembok Api
-features-title = Fitur { -brand-short-name }
-features-name = Nama
-features-version = Versi
-features-id = ID
 processes-title = Proses Jarak Jauh
 processes-type = Tipe
 processes-count = Jumlah
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] Direktori Profil
        *[other] Folder Profil
     }
-app-basics-enabled-plugins = Plugin Terpasang
 app-basics-build-config = Konfigurasi Build
 app-basics-user-agent = User Agent
 app-basics-os = OS
@@ -96,9 +91,6 @@ show-dir-label =
 environment-variables-title = Variabel Lingkungan
 environment-variables-name = Nama
 environment-variables-value = Nilai
-experimental-features-title = Fitur Eksperimental
-experimental-features-name = Nama
-experimental-features-value = Nilai
 modified-key-prefs-title = Pengaturan Penting yang Diubah
 modified-prefs-name = Nama
 modified-prefs-value = Nilai
@@ -210,9 +202,6 @@ media-cdm-capabilities = Kemampuan
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Clear Lead
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = Kompatibel dengan HDCP 2.2
 
 ##
 
@@ -364,8 +353,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Dinonaktifkan oleh eksperimen
-fission-status-experiment-treatment = Diaktifkan oleh eksperimen
 fission-status-disabled-by-e10s-env = Dinonaktifkan oleh lingkungan
 fission-status-enabled-by-env = Diaktifkan oleh lingkungan
 fission-status-disabled-by-env = Dinonaktifkan oleh lingkungan
@@ -374,7 +361,6 @@ fission-status-disabled-by-default = Dinonaktifkan secara baku
 fission-status-enabled-by-user-pref = Diaktifkan oleh pengguna
 fission-status-disabled-by-user-pref = Dinonaktifkan oleh pengguna
 fission-status-disabled-by-e10s-other = E10s dinonaktifkan
-fission-status-enabled-by-rollout = Diaktifkan dengan peluncuran bertahap
 async-pan-zoom = Geser/Perbesaran Asinkron
 apz-none = tidak ada
 wheel-enabled = input wheel diaktifkan

@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Отваряне на поверителен прозорец
     .accesskey = О
 about-private-browsing-search-placeholder = Търсене в интернет
-about-private-browsing-info-title = Вие сте в поверителен прозорец
 about-private-browsing-search-btn =
     .title = Търсене в интернет
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Търсете с { $engine } или въведете адрес
 about-private-browsing-handoff-text-no-engine = Търсете или въведете адрес
 about-private-browsing-not-private = В момента не сте в поверителен прозорец.
-about-private-browsing-info-description-private-window = Поверителен прозорец: { -brand-short-name } изчиства търсенето и историята на разглеждане, когато затворите всички поверителни прозорци. Това не ви прави анонимни.
-about-private-browsing-info-description-simplified = { -brand-short-name } изчиства търсенето и историята на разглеждане, когато затворите всички поверителни прозорци, но това не ви прави анонимни.
-about-private-browsing-learn-more-link = Научете повече
 about-private-browsing-hide-activity = Скрийте активността и местоположението си навсякъде, където разглеждате
 about-private-browsing-get-privacy = Получавайте защита на поверителността навсякъде, където разглеждате
 about-private-browsing-hide-activity-1 = Скрийте какво разглеждате и местоположението си с { -mozilla-vpn-brand-name }. С едно щракване създавате сигурна връзка, дори в обществени мрежи.
@@ -29,8 +25,6 @@ about-private-browsing-prominent-cta = Останете скрити с { -mozil
 about-private-browsing-focus-promo-cta = Изтеглете { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Поверително разглеждане в движение
 about-private-browsing-focus-promo-text = Мобилното ни приложение специалното за поверително разглеждане изчиства историята и бисквитките всеки път.
-about-private-browsing-focus-promo-header-b = Вземете поверителното разглеждане на телефона си
-about-private-browsing-focus-promo-text-b = Използвайте { -focus-brand-name } за онова търсене, което не искате да правите с основния си мобилен браузър.
 about-private-browsing-focus-promo-header-c = Следващо ниво поверителност за мобилни устройства
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } изчиства историята всеки път, а също спира реклами и проследяване.
 # This string is the title for the banner for search engine selection
@@ -60,11 +54,6 @@ about-private-browsing-pin-promo-title = Без запазени бисквит�
 
 ## Strings used in a promotion message for cookie banner reduction
 
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = Банерите за бисквитките изчезнаха!
-about-private-browsing-cookie-banners-promo-button = Намаляване на банерите за бисквитки
-about-private-browsing-cookie-banners-promo-message = Нека { -brand-short-name } автоматично отговаря на изскачащите прозорци на бисквитките вместо вас, за да можете да се върнете към разглеждането без разсейване. { -brand-short-name } ще отхвърли всички заявки, ако е възможно.
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } се грижи за банерите за бисквитки вместо вас

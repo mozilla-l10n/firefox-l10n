@@ -62,17 +62,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = I-sync mo ang mga bookmark mo kahit saan.
-cfr-doorhanger-bookmark-fxa-body = Magaling! Ngayon huwag kang magpaiwan nang wala ang bookmark na ito sa mga mobile devices mo. Simulan mo sa pamamagitan ng { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = I-sync na ang mga bookmark...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Button para isara
     .title = Isara
-
-## Protections panel
-
-cfr-protections-panel-header = Mag-browse nang hindi sinusundan
-cfr-protections-panel-body = Itago mo ang data na para sa iyo lamang. Pinoprotektahan ka ng { -brand-short-name } mula sa mga karaniwang tracker na nagmamanman sa mga gawain mo online.
-cfr-protections-panel-link-text = Karagdagang kaalaman
 
 ## What's New toolbar button and panel
 
@@ -129,28 +122,6 @@ spotlight-public-wifi-vpn-link = Hindi sa Ngayon
 
 spotlight-better-internet-header = Ang mas mahusay na internet ay nagsisimula sa iyo
 spotlight-peace-mind-header = Kaming bahala sa iyo
-
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Subukan ito
-    .accesskey = T
-firefoxview-cfr-secondarybutton = Hindi sa ngayon
-    .accesskey = N
-firefoxview-cfr-header-v2 = Agad na ipagpatuloy kung saan ka tumigil
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-primarybutton = Tignan kung paano ito gumagana
-firefoxview-spotlight-promo-secondarybutton = Laktawan
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Pumili ng colorway
-    .accesskey = C
-colorways-cfr-header-28days = Ang Independent Voices colorways ay mag-e-expire sa Enero 16
-colorways-cfr-header-14days = Ang Independent Voices colorways ay mag-e-expire sa loob ng dalawang linggo
-colorways-cfr-header-7days = Ang Independent Voices colorways ay mag-e-expire ngayong linggo
-colorways-cfr-header-today = Ang Independent Voices colorways ay mag-e-expire ngayon
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 

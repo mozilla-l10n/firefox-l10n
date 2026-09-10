@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = { $addon-name } қосу
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Орындалу барысы: қадам { $current }, { $total } ішінен
 # This button will open system settings to turn on prefers-reduced-motion
@@ -198,11 +192,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = { -brand-short-name } өнімін тапсырмалар панеліне және басты мәзірге бекіту
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Коммерциялық емес ұйым қолдайтын браузерден бастаңыз. Сіз интернетті шолған кезде біз сіздің жекелігіңізді қорғаймыз.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -232,57 +221,10 @@ mr2022-onboarding-set-default-subtitle = Коммерциялық емес ұй�
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Біздің соңғы нұсқамыз сіз үшін жасалған, бұл интернетті шолуды бұрынғыдан да жеңілдетеді. Ол жаңа мүмкіндіктерге толы, олар сізге ұнайды деп ойлаймыз.
 mr2022-onboarding-get-started-primary-button-label = Бірнеше секундта баптау
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Найзағайдай жылдам баптау
-mr2022-onboarding-import-subtitle = { -brand-short-name } өнімін өзіңізге ұнайтындай етіп баптаңыз . Ескі браузерден бетбелгілер, парольдер және т.б. қосыңыз.
 mr2022-onboarding-import-primary-button-label-no-attribution = Бұрынғы браузерден импорттау
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Сізге шабыт беретін түсті таңдаңыз
-mr2022-onboarding-colorway-subtitle = Тәуелсіз дауыстар мәдениетті өзгерте алады.
-mr2022-onboarding-colorway-primary-button-label-continue = Орнатып, жалғастыру
-mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } өнімін түрлі-түсті басты бетіңіз етіп жасаңыз
-mr2022-onboarding-colorway-label-default = Бастапқы
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Ағымдағы { -brand-short-name } түстері
-mr2022-onboarding-colorway-description-default = <b>Менің ағымдағы { -brand-short-name } түстерін қолдану.</b>
-mr2022-onboarding-colorway-label-playmaker = Плеймейкер
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Ойын жасаушысы (қызыл)
-mr2022-onboarding-colorway-description-playmaker = <b>Сіз ойын жасаушысыз.</b> Сіз жеңу мүмкіндігін жасайсыз және айналаңыздағы барлық адамдарға өз ойынын көтеруге көмектесесіз.
-mr2022-onboarding-colorway-label-expressionist = Экспрессионист
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Экспрессионист (сары)
-mr2022-onboarding-colorway-description-expressionist = <b>Сіз экспрессионистсіз.</b> Сіз әлемді басқаша көресіз және сіздің туындыларыңыз басқалардың эмоцияларын қорғайды.
-mr2022-onboarding-colorway-label-visionary = Визионер
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Көреген (жасыл)
-mr2022-onboarding-colorway-description-visionary = <b>Сіз көрегенсіз.</b> Сіз статус-квоға күмән келтіресіз және басқаларды жақсы болашақты елестетуге итермелейсіз.
-mr2022-onboarding-colorway-label-activist = Активист
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Белсенді (көк)
-mr2022-onboarding-colorway-description-activist = <b>Сіз белсендісіз.</b> Сіз әлемді өзіңіз тапқаннан да жақсы күйде қалдырып, басқаларды сенуге жетелейсіз.
-mr2022-onboarding-colorway-label-dreamer = Армандаушы
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Армандаушы (күлгін)
-mr2022-onboarding-colorway-description-dreamer = <b>Сіз армандаушысыз.</b> Сіз сәттілікке батылдар ұнайтынына сенесіз және басқаларды батыл болуға шабыттандырасыз.
-mr2022-onboarding-colorway-label-innovator = Жаңашыл
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Жаңашыл (қызғылт сары)
-mr2022-onboarding-colorway-description-innovator = <b>Сіз жаңашылсыз.</b> Сіз барлық жерде мүмкіндіктерді көресіз және айналаңыздағы адамдардың өміріне әсер етесіз.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Ноутбуктен телефонға және кері өтіңіз
-mr2022-onboarding-mobile-download-subtitle = Беттерді бір құрылғыдан алып, тоқтаған жерінен басқа құрылғыда жалғастырыңыз. Оған қоса { -brand-product-name } пайдаланатын кез келген жерде бетбелгілер мен парольдерді синхрондаңыз.
 mr2022-onboarding-mobile-download-cta-text = Мобильді { -brand-product-name } алу үшін QR кодын сканерлеңіз немесе <a data-l10n-name="download-label">өзіңізге жүктеп алу сілтемесін жіберіңіз</a>.
 mr2022-onboarding-no-mobile-download-cta-text = Мобильді { -brand-product-name } жүктеп алу үшін, QR кодын сканерлеңіз
 
@@ -335,15 +277,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Терілері ашық және күңгірт түсті қолдар сәлемдесуде
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Терезедегі түлкі мен үй өсімдігі бар терезе арқылы күннің батуы көрінісі
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Қол спрейі жасыл көздің, қызғылт сары аяқ киімнің, қызыл баскетбол добының, күлгін құлаққаптың, көк жүректің және сары тәждің түрлі-түсті коллажын бояйды
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Ноутбук экранындағы түлкі қол бұлғап тұр. Ноутбукке тышқан жалғанған.
 onboarding-device-migration-title = Қайта келуіңізбен!
-onboarding-device-migration-subtitle = Бетбелгілер, парольдер және тарихты жаңа құрылғыда өзіңізбен бірге алып келу үшін{ -fxaccount-brand-name(capitalization: "sentence") } тіркегісіне кіріңіз.
 onboarding-device-migration-subtitle2 = Жаңа құрылғыңызға бетбелгілер, парольдер және тарихты өзіңізбен бірге алып келу үшін өз тіркелгіңізге кіріңіз.
 onboarding-device-migration-primary-button-label = Кіру
 
@@ -460,15 +399,12 @@ tab-groups-onboarding-feature-callout-title = Артық шашыраңқылы�
 tab-groups-onboarding-feature-callout-subtitle = Алғашқы беттер тобыңызды жасау үшін бір бетті екіншісінің үстіне сүйреп апарыңыз, осылайша ретпен ұйымдастыра аласыз.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Беттер топтарын кез келген уақытта Барлық беттер тізімін шығару мәзірінен табыңыз.
-tab-groups-onboarding-create-group-title-2 = Беттер топтарын осы жерден кез келген уақытта табыңыз.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Топтарыңызды адрестік жолақтан іздеу арқылы табыңыз.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Беттер тобын жапқан кезде, оны кез келген уақытта Барлық беттер тізімін шығару мәзірінен қайта ашыңыз.
-tab-groups-onboarding-saved-groups-title-2 = Беттер тобын жапқан кезде, оны кез келген уақытта осы жерден қайта аша аласыз.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Жабылған топтарыңызды адрестік жолақтан іздеу арқылы табыңыз.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Беттер топтарын кез келген уақытта Барлық беттер тізімін шығару мәзірінен қайта ашыңыз.
-tab-groups-onboarding-session-restore-title = Беттер топтарын осы жерден кез келген уақытта қайта ашыңыз.
 tab-groups-onboarding-dismiss = ОК
 
 ## Multi Profiles feature onboarding messages

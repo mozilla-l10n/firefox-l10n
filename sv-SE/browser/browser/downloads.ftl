@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Visa i Finder
            *[other] Visa i mapp
         }
-downloads-cmd-show-downloads =
-    .label = Visa mapp för hämtade filer
 downloads-cmd-retry =
     .tooltiptext = Försök igen
 downloads-cmd-retry-panel =

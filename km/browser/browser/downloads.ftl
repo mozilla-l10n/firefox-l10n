@@ -26,8 +26,6 @@ downloads-cmd-cancel-panel =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = បង្ហាញថតទាញយក
 downloads-cmd-retry =
     .tooltiptext = ព្យាយាម​ម្តង​ទៀត
 downloads-cmd-retry-panel =

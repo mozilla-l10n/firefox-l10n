@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Tanpa Kontainer
-    .accesskey = T
 user-context-manage-containers =
     .label = Kelola Kontainer
     .accesskey = K

@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } ਤੁਹਾਡੇ ਵਲੋਂ ਸੱਜਰੇ ਵਰਤੇ ਪਰੋਫਾਇਲ ਨੂੰ ਖੋਲ੍ਹੇਗਾ।
 profile-window-create-profile = ਪਰੋਫਾਈਲ ਬਣਾਓ
 profile-card-edit-button =
-    .title = ਪਰੋਫਾਈਲ ਨੂੰ ਸੋਧੋ
     .aria-label = ਪਰੋਫਾਈਲ ਨੂੰ ਸੋਧੋ
+    .title = ਪਰੋਫਾਈਲ ਨੂੰ ਸੋਧੋ
 profile-card-delete-button =
-    .title = ਪਰੋਫਾਈਲ ਨੂੰ ਹਟਾਓ
     .aria-label = ਪਰੋਫਾਈਲ ਨੂੰ ਹਟਾਓ
+    .title = ਪਰੋਫਾਈਲ ਨੂੰ ਹਟਾਓ
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = { $profileName } ਨੂੰ ਖੋਲ੍ਹੋ
     .aria-label = { $profileName } ਨੂੰ ਖੋਲ੍ਹੋ
+    .title = { $profileName } ਨੂੰ ਖੋਲ੍ਹੋ
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = ਪਰੋਫਾਈਲ { $number }
@@ -83,9 +83,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = { $profilename } ਪਰੋਫਾਈਲ ਨੂੰ ਹਟਾਓ
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = { $profilename } ਪਰੋਫਾਈਲ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
 delete-profile-description = { -brand-short-name } ਇਸ ਡਿਵਾਈਸ ਤੋਂ ਅੱਗੇ ਦਿੱਤੇ ਡਾਟੇ ਨੂੰ ਪੱਕੇ ਤੌਰ ਉੱਤੇ ਹਟਾ ਦੇਵੇਗਾ:
 # Open is an adjective, as in "browser windows currently open".
@@ -112,28 +109,10 @@ delete-profile-confirm = ਹਟਾਓ
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = ਹਲਕਾ
-# The default dark theme
-profiles-dark-theme = ਗੂੜ੍ਹਾ
 # The default system theme
 profiles-system-theme = ਸਿਸਟਮ
 profiles-system-theme-title =
     .title = ਸਿਸਟਮ ਥੀਮ ਨੂੰ ਲਾਗੂ ਕਰੋ
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = ਗੇਂਦੇ ਰੰਗਾ ਪੀਲਾ
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = ਠੰਢਾ ਫਿੱਕਾ ਜਾਮਨੀ
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = ਪੁਦੀਨੇ ਵਰਗਾ ਹਰਾ
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = ਮੈਗਨੋਲੀਆ ਗੁਲਾਬੀ
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = ਸਮੁੰਦਰੀ ਨੀਲਾ
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = ਇੱਟ ਵਰਗਾ ਲਾਲ
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = ਕਾਈ ਵਾਲਾ ਹਰਾ
 profiles-gray-theme = ਸਲੇਟੀ
 profiles-gray-theme-title =
     .title = ਸਲੇਟੀ ਥੀਮ ਨੂੰ ਲਾਗੂ ਕਰੋ
@@ -290,9 +269,6 @@ profiles-appmenu-callout-tour-subtitle = ☰ ਮੇਨੂ ਵਿੱਚ, ਹੋ�
 profiles-appmenu-callout-tour-primary-button = ਮੈਨੂੰ ਦੇਖਿਓ ਕਿਵੇਂ
 barbell-avatar = ਬਾਰਬੈੱਲ
 bike-avatar = ਸਾਈਕਲ
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = ਬਾਰਬੈਲ ਅਵਤਾਰ ਨੂੰ ਲਾਓ
 bike-avatar-tooltip =

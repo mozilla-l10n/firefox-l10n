@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Η προεπιλεγμένη σας μηχανή αναζήτησης έχει αλλάξει.</strong> Το { $oldEngine } δεν είναι πλέον διαθέσιμο ως προεπιλεγμένη μηχανή αναζήτησης στο { -brand-short-name }. Το { $newEngine } αποτελεί τη νέα σας προεπιλεγμένη μηχανή αναζήτησης. Για να ορίσετε μια άλλη προεπιλογή, μεταβείτε στις ρυθμίσεις. <label data-l10n-name="remove-search-engine-article">Μάθετε περισσότερα</label>
 removed-search-engine-message2 = <strong>Η προεπιλεγμένη σας μηχανή αναζήτησης έχει αλλάξει.</strong> Το { $oldEngine } δεν είναι πλέον διαθέσιμο ως προεπιλεγμένη μηχανή αναζήτησης στο { -brand-short-name }. Το { $newEngine } αποτελεί τη νέα σας προεπιλεγμένη μηχανή αναζήτησης. Για να ορίσετε μια άλλη προεπιλογή, μεταβείτε στις ρυθμίσεις.
 remove-search-engine-button = OK
 
@@ -52,11 +51,11 @@ install-search-engine-no = Όχι
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Προσθήκη μηχανής αναζήτησης
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Επεξεργασία μηχανής αναζήτησης
     .style = min-width: 32em;
+    .title = Επεξεργασία μηχανής αναζήτησης
 add-engine-button = Προσθήκη προσαρμοσμένης μηχανής
 add-engine-name = Όνομα μηχανής αναζήτησης
 add-engine-url2 = URL με το «%s» στη θέση του όρου αναζήτησης
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Δοκιμάστε να συμπεριλά�
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Προσθήκη μηχανής
-    .buttonaccesskeyaccept = Π
     .buttonlabelextra1 = Σύνθετα
+    .buttonaccesskeyaccept = Π
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Αποθήκευση μηχανής
-    .buttonaccesskeyaccept = Α
     .buttonlabelextra1 = Σύνθετα
+    .buttonaccesskeyaccept = Α

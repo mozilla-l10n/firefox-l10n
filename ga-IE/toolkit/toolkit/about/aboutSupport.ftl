@@ -12,10 +12,6 @@ crashes-no-config = Ní raibh an feidhmchlár seo cumraithe le tuairiscí tuairt
 support-addons-name = Ainm
 support-addons-version = Leagan
 support-addons-id = Aitheantas
-features-title = Gnéithe { -brand-short-name }
-features-name = Ainm
-features-version = Leagan
-features-id = Aitheantas
 app-basics-title = Buntús an Fheidhmchláir
 app-basics-name = Ainm
 app-basics-version = Leagan
@@ -28,7 +24,6 @@ app-basics-profile-dir =
         [linux] Comhadlann Phróifíle
        *[other] Fillteán Próifíle
     }
-app-basics-enabled-plugins = Forlíontáin Chumasaithe
 app-basics-build-config = Cumraíocht an Leagain
 app-basics-user-agent = Gníomhaire Úsáideora
 app-basics-os = CO

@@ -62,17 +62,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Xatchoʻplardan har qanday joyda foydalanishingiz mumkin
-cfr-doorhanger-bookmark-fxa-body = Ajoyib topilma! Endi mobil qurilmalaringizga bu xatchoʻplarni sinxronlang. { -fxaccount-brand-name } yarating.
 cfr-doorhanger-bookmark-fxa-link-text = Xatchoʻplarni sinxronlash ...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Yopish tugmasi
     .title = Yopish
-
-## Protections panel
-
-cfr-protections-panel-header = Kuzatmasdan koʻrish
-cfr-protections-panel-body = Fayllaringizni asrang. Internetdagi faoliyatingizni kuzatuvchilardan { -brand-short-name } sizni himoya qiladi.
-cfr-protections-panel-link-text = Batafsil
 
 ## What's New toolbar button and panel
 

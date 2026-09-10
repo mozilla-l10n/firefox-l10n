@@ -29,10 +29,6 @@ security-software-name = Téra
 security-software-antivirus = Mba’echu’i jukaha
 security-software-antispyware = Antispyware
 security-software-firewall = Tatajokoha
-features-title = { -brand-short-name } Reheguaite
-features-name = Téra
-features-version = Peteĩchagua
-features-id = ID
 processes-title = Tapereko okayguáva
 processes-type = Peteĩchagua
 processes-count = Papa
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] Marandurenda mba'ete
        *[other] Ñongatuha rechaukaha
     }
-app-basics-enabled-plugins = Mba’ejoajurã myendypyre
 app-basics-build-config = Mbyatypy ñemboheko
 app-basics-user-agent = Poruhára pytyvõha
 app-basics-os = OS
@@ -96,9 +91,6 @@ show-dir-label =
 environment-variables-title = Jeregua moambuekuaa
 environment-variables-name = Téra
 environment-variables-value = Tepykue
-experimental-features-title = Tembiapoite oñeha’ãramóva
-experimental-features-name = Téra
-experimental-features-value = Tepykue
 modified-key-prefs-title = Jerohoryvéva tuichamba’éva moambuepyre
 modified-prefs-name = Téra
 modified-prefs-value = Hepykue
@@ -210,9 +202,6 @@ media-cdm-capabilities = Tembiapoite
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Ñepyrũ Potĩ
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = Ojokupytýva HDCP 2.2 ndive
 
 ##
 
@@ -384,8 +373,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Ojepe’a apopyha’ã rupi
-fission-status-experiment-treatment = Oñemyandy apopyha’ã rupi
 fission-status-disabled-by-e10s-env = Ojepe’a jeregua rupi
 fission-status-enabled-by-env = Oñemyandy jeregua rupi
 fission-status-disabled-by-env = Jeregua rupi oipe’apyre
@@ -394,7 +381,6 @@ fission-status-disabled-by-default = Ojepe’a ijypykue rupi
 fission-status-enabled-by-user-pref = Omyandy poruhára
 fission-status-disabled-by-user-pref = Oipe’a poruhára
 fission-status-disabled-by-e10s-other = E10s pe’apyre
-fission-status-enabled-by-rollout = Ijurujáma vore ñeguenohẽ rupi
 async-pan-zoom = Ojuehe’ỹva Pan/Zoom
 apz-none = Avave
 wheel-enabled = omoneĩ jereha jeike

@@ -26,23 +26,6 @@ webrtc-sharing-menu =
     .label = Nej aga' 'ìaj sun nugua'ān 'ngà rakïj nanj
     .accesskey = d
 
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Si kamarat 'ngà si mikrofonot ni rajsun nugua'an nej digui' ma. Ga'ui' klik da' ganikaj ñu'unjt.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Si kamarat rajsun nugua'an nej digui'. Ga'ui' klik da' ganikaj ñu'unjt.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Si mikrofonot rajsun nugua'an nej digui'. Ga'ui' klik da' ganikaj ñu'unjt.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Si aplikasiont rajsun nugua'an nej digui'. Ga'ui' klik da' ganikaj ñu'unjt.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Si pantayâ rajsun nugua'an nej digui'. Ga'ui' klik da' ganikaj ñu'unjt.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Si ventanât rajsun nugua'an nej digui'. Ga'ui' klik da' ganikaj ñu'unjt.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = 'Ngò rakïj naj rajsun nugua'an nej digui'. Ga'ui' klik da' ganikaj ñu'unjt.
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
@@ -106,7 +89,6 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
-webrtc-share-screen-learn-more = Gahuin chrūn doj
 webrtc-pick-window-or-screen = Naguī Bentâna asi Pantâya
 webrtc-share-entire-screen = Da'ua ge pantayâ
 # Variables:

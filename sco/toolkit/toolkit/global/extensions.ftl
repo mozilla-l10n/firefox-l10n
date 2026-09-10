@@ -10,12 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Eik on { $extension }?
-webext-perms-header-with-perms = Eik on { $extension }? This extension will hae permeesion tae:
-webext-perms-header-unsigned = Eik on { $extension }? This extension isnae verified. Uncannie extensions can pauchle yer private information or unnermine yer computer. Anely eik it on gin ye trust the soorce.
-webext-perms-header-unsigned-with-perms = Eik on { $extension }? This extension isnae verified. Uncannie extensions can pauchle yer private information or unnermine yer computer. Anely eik it on gin ye trust the soorce. This extension will hae permeesion tae:
 webext-perms-sideload-header = { $extension } eikit on
-webext-perms-optional-perms-header = { $extension } requests mair permeesions.
 
 ##
 
@@ -33,9 +28,6 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Stap
     .accesskey = C
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } has been updatit. Ye maun approve new permeesions afore the updatit version will instaw. Chuisin "Stap" will mainteen yer current extension version. This extension will hae permeesion tae:
 webext-perms-update-accept =
     .label = Update
     .accesskey = U
@@ -51,21 +43,5 @@ webext-perms-host-description-all-urls = Gang intae yer data fur aw wabsites
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Gang intae yer data fur sites in the { $domain } domain
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Gang intae yer data in { $domainCount } ither domain
-       *[other] Gang intae yer data in { $domainCount } ither domains
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Gang intae yer data fur { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Gang intae yer data on { $domainCount } ither site
-       *[other] Gang intae yer data on { $domainCount } ither sites
-    }

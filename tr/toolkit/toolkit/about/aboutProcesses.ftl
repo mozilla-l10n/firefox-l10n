@@ -49,7 +49,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Veri çözücü ({ $pid })
 about-processes-socket-process = Ağ ({ $pid })
-about-processes-remote-sandbox-broker-process = Uzak sandbox aracısı ({ $pid })
 about-processes-fork-server-process = Fork sunucusu ({ $pid })
 about-processes-preallocated-process = Ayrılmış ({ $pid })
 about-processes-utility-process = Araç ({ $pid })
@@ -73,17 +72,6 @@ about-processes-web-isolated-property-with-coop-coep = çapraz köken izole
 ##    $properties (String) A formatted list of properties from the above strings.
 
 about-processes-web-isolated-process2 = { $origin } ({ $properties })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, çapraz köken izole)
-about-processes-web-isolated-process-private = { $origin } — Gizli ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } — Gizli ({ $pid }, çapraz köken izole)
 
 ## Details within processes
 

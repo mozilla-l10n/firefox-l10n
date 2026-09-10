@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = A(z) „{ $tabTitle }” oldalon vagyok, és ez 
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Az MI csevegőbot megkérdezése
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = A(z) { $provider } megkérdezése
 genai-menu-open-generic =
     .label = MI csevegőbot megnyitása
 # $provider (string) - name of the provider
@@ -120,8 +115,6 @@ genai-header-provider-menu =
     .title = Válasszon csevegőbotot
 genai-header-settings-button =
     .title = MI csevegés beállításai
-genai-header-options-button =
-    .title = Menü megnyitása
 genai-header-close-button =
     .title = Bezárás
 genai-provider-view-details =
@@ -149,37 +142,25 @@ genai-page-button-summarize = Oldal összegzése
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Összegezzen és ötleteljen böngészés közben
 genai-onboarding-choose-header = Válassza ki a { -brand-short-name } oldalsávjában használandó MI csevegőbotot
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Válasszon egy MI csevegőbotot a { -brand-short-name } oldalsávjában. Az egyes csevegőbotok részletei a kiválasztásuk után jelennek meg. Váltson bármikor. <a data-l10n-name="learn-more">További információk</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Váltson bármikor. Ha segítségre van szüksége a választásban, <a data-l10n-name="learn-more">tudjon meg többet az egyes csevegőbotokról</a>.
 genai-onboarding-primary = Folytatás
 genai-onboarding-secondary = Bezárás
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Tudjon meg többet a Claude-ról
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Tudjon meg többet a ChatGPT-ről
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Tudjon meg többet a Coplitról
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Tudjon meg többet a Geminiről
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = Tudjon meg többet a HuggingChatről
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Tudjon meg többet a Le Chatről
-genai-onboarding-select-header = Jelöljön ki szöveget a javaslatok megtekintéséhez
-genai-onboarding-select-description = Ha szöveget választ ki, akkor a csevegőbotnak küldött promptokat javasolunk. Beírhatja a saját kéréseit is.
-genai-onboarding-select-primary = Kezdjen csevegni
 genai-chatbot-contextual-title = Használjon egy MI csevegőbotot lapváltás nélkül
 genai-chatbot-contextual-subtitle = Csevegjen és böngésszen egymás mellett, ha felvesz egy MI csevegőbotot a { -brand-short-name } oldalsávba.
 genai-chatbot-contextual-button = Válasszon csevegőbotot
@@ -192,27 +173,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = Kattintson jobb gombbal a szi
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Nyissa meg az MI csevegőbotját az oldalsávban, és válassza alul az „Oldal összegzése” lehetőséget.
 genai-chatbot-summarize-footer-generic-subtitle = Adjon hozzá egy MI csevegőbotot a { -brand-short-name } oldalsávhoz, hogy gyorsan összegezze az oldalakat.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Szöveg és kód előállítása
-genai-onboarding-claude-analyze = Dokumentumok és képek elemzése
-genai-onboarding-claude-price = Ingyenes és fizetős lehetőségek; fiók szükséges
-genai-onboarding-chatgpt-generate = Szöveg, kép és kód előállítása
-genai-onboarding-chatgpt-analyze = Dokumentumok és képek elemzése
-genai-onboarding-chatgpt-price = Ingyenes és fizetős lehetőségek; egyes országok és feladatok esetén fiók szükséges
-genai-onboarding-copilot-generate = Szöveg, kép és kód előállítása
-genai-onboarding-copilot-analyze = Képek elemzése
-genai-onboarding-copilot-price = Ingyenes és fizetős lehetőségek; egyes feladatokhoz fiók szükséges
-genai-onboarding-gemini-generate = Szöveg, kép és kód előállítása
-genai-onboarding-gemini-analyze = Képek (ingyenes) és dokumentumok (fizetős) elemzése
-genai-onboarding-gemini-price = Ingyenes és fizetős lehetőségek; fiók szükséges
-genai-onboarding-huggingchat-generate = Szöveg és kód előállítása
-genai-onboarding-huggingchat-switch = Váltás a különböző nyílt modellek között
-genai-onboarding-huggingchat-price-2 = Ingyenes; bizonyos számú kérés után fiók szükséges
-genai-onboarding-lechat-generate = Szöveg és kód előállítása
-genai-onboarding-lechat-price = Ingyenes; fiók szükséges
 
 ## Model Optin Component
 
@@ -251,8 +211,8 @@ link-preview-generation-retry = Újrapróbálkozás
 link-preview-settings-button =
     .title = Hivatkozás-előnézeti beállítások
 link-preview-settings-enable =
-    .label = Hivatkozások előnézetének engedélyezése
     .description = Az oldal címének, leírásának és egyéb információinak megjelenítése gyorsbillentyű vagy jobb kattintás használatával.
+    .label = Hivatkozások előnézetének engedélyezése
 link-preview-settings-key-points =
     .label = Engedélyezés, hogy az MI elolvassa az oldal elejét, és kulcspontokat állítson elő
 link-preview-settings-long-press =

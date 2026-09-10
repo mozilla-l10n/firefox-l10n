@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Meer van { -vendor-short-name }
 more-from-moz-page-header =
     .heading = Meer van { -vendor-short-name }
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } Mobiel
 more-from-moz-firefox-mobile-description = De mobiele browser die uw privacy voorop stelt.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } voor Mobiel
 more-from-moz-firefox-mobile =
-    .label = { -brand-product-name } voor Mobiel
     .description = De mobiele browser die uw privacy voorop stelt.
+    .label = { -brand-product-name } voor Mobiel
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Ontdek een extra laag van anoniem navigeren en bescherming.
 more-from-moz-qr-code-box-firefox-mobile-title = Downloaden met uw mobiele apparaat. Richt uw camera op de QR-code. Als er een koppeling verschijnt, tikt u erop.
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = { -relay-brand-short-name } downloaden
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Neem automatisch uw gelekte persoonlijke gegevens terug.
 more-from-moz-mozilla-monitor-global-description = Ontvang waarschuwingen wanneer uw gegevens voorkomen in een datalek.
 more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } downloaden
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name }-AI
 more-from-moz-solo-description = Maak direct uw website en koppel gratis uw eigen aangepaste domein.
 more-from-moz-solo-button = { -solo-ai-brand-name } proberen
 more-from-moz-solo-title-2 = { -solo-ai-brand-name }-AI-websitemaker
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = De downloadkoppeling per e-mail naar u
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = Ontdek waar uw persoonlijke gegevens online zijn gelekt met een gratis scan.
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = Ontvang extra bescherming voor alle apps – niet alleen uw browser. Houd uw gegevens veilig op openbare wifi en onveilige netwerken.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = Bescherm uw Postvak IN tegen spam met gratis e-mailmaskering.
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = Leer webontwikkeling met gratis gidsen en referenties.
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = Toegang tot e-mail, agenda’s en contacten in één snelle app.
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = Maak in een handomdraai uw website en verbind gratis uw eigen aangepaste domein.
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = Nieuwe producten van { -vendor-short-name }
     .description = Verken onze nieuwste ideeën en experimentele technologieën.
+    .label = Nieuwe producten van { -vendor-short-name }
 more-from-moz-mozilla-monitor-box-link =
     .label = { -monitor-brand-short-name } downloaden
 more-from-moz-mozilla-vpn-box-link =

@@ -10,12 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = ເພີ່ມ { $extension } ບໍ່?
-webext-perms-header-with-perms = ເພີ່ມ { $extension } ບໍ? ສ່ວນຂະຫຍາຍນີ້ຈະມີການອະນຸຍາດໃຫ້:
-webext-perms-header-unsigned = ເພີ່ມ { $extension } ບໍ? ສ່ວນຂະຫຍາຍນີ້ບໍ່ໄດ້ຖືກຢືນຢັນ. ສ່ວນຂະຫຍາຍທີ່ເປັນອັນຕະລາຍສາມາດລັກເອົາຂໍ້ມູນສ່ວນຕົວຂອງເຈົ້າ ຫຼືທໍາລາຍຄອມພິວເຕີຂອງທ່ານໄດ້. ພຽງແຕ່ເພີ່ມມັນຖ້າທ່ານໄວ້ວາງໃຈແຫຼ່ງ.
-webext-perms-header-unsigned-with-perms = ເພີ່ມ { $extension } ບໍ? ສ່ວນຂະຫຍາຍນີ້ບໍ່ໄດ້ຖືກຢືນຢັນ. ສ່ວນຂະຫຍາຍທີ່ເປັນອັນຕະລາຍສາມາດລັກເອົາຂໍ້ມູນສ່ວນຕົວຂອງເຈົ້າ ຫຼືທໍາລາຍຄອມພິວເຕີຂອງທ່ານໄດ້. ພຽງແຕ່ເພີ່ມມັນຖ້າທ່ານໄວ້ວາງໃຈແຫຼ່ງ. ສ່ວນຂະຫຍາຍນີ້ຈະມີການອະນຸຍາດໃຫ້:
 webext-perms-sideload-header = ເພີ່ມ { $extension } ແລ້ວ
-webext-perms-optional-perms-header = { $extension } ຕ້ອງການການອະນຸຍາດເພີ່ມເຕີມ.
 
 ##
 
@@ -33,9 +28,6 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = ຍົກເລີກ
     .accesskey = C
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } ໄດ້ຖືກອັບເດດແລ້ວ. ທ່ານຕ້ອງອະນຸມັດການອະນຸຍາດໃຫມ່ກ່ອນທີ່ສະບັບປັບປຸງຈະຕິດຕັ້ງ. ການເລືອກ "ຍົກເລີກ" ຈະຮັກສາສະບັບຂະຫຍາຍປະຈຸບັນຂອງທ່ານ. ສ່ວນຂະຫຍາຍນີ້ຈະມີການອະນຸຍາດໃຫ້:
 webext-perms-update-accept =
     .label = ອັບເດດ
     .accesskey = U
@@ -51,16 +43,8 @@ webext-perms-host-description-all-urls = ເຂົ້າເຖິງຂໍ້ມ
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = ເຂົ້າເຖິງຂໍ້ມູນຂອງທ່ານສຳລັບໄຊທ໌ໃນໂດເມນ { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards = ເຂົ້າເຖິງຂໍ້ມູນຂອງທ່ານໃນ { $domainCount } ໂດເມນອື່ນ
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = ເຂົ້າເຖິງຂໍ້ມູນຂອງທ່ານສຳລັບ { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites = ເຂົ້າເຖິງຂໍ້ມູນຂອງທ່ານໃນ { $domainCount } ໄຊທ໌ອື່ນ
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

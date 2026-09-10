@@ -9,13 +9,6 @@ xpinstall-prompt = { -brand-short-name }་ཡིས་དྲ་ཚིགས་�
 xpinstall-prompt-dont-allow =
     .label = ཆོག་མཆན་མ་སྤྲོད
     .accesskey = D
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = Software installation has been disabled by your system administrator.
 xpinstall-disabled = Software installation is currently disabled. Click Enable and try again.
 xpinstall-disabled-button =
     .label = Enable
@@ -29,9 +22,6 @@ webext-perms-update-menu-item = { $addonName } requires new permissions
 
 ## Add-on removal warning
 
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Remove { $name } from { -brand-shorter-name }?
 addon-removal-button = Remove
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
@@ -61,4 +51,3 @@ addon-local-install-error-not-signed = This add-on could not be installed becaus
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } could not be installed because it is not compatible with { -brand-short-name } { $appVersion }.
-addon-install-error-blocklisted = { $addonName } could not be installed because it has a high risk of causing stability or security problems.

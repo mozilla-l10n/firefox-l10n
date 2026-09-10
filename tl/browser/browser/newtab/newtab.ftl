@@ -6,13 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Bagong Tab
-newtab-settings-button =
-    .title = I-customize ang iyong pahina ng Bagong Tab
-newtab-personalize-icon-label =
-    .aria-label = i-Personalize
-    .title = i-Personalize ang bagong tab
-newtab-personalize-dialog-label =
-    .aria-label = i-Personalize
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -72,7 +65,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Magdagdag ng Search Engine
 newtab-topsites-add-shortcut-header = Bagong Shortcut
-newtab-topsites-edit-topsites-header = Baguhin ang Pangunahing Site
 newtab-topsites-edit-shortcut-header = I-edit ang Shortcut
 newtab-topsites-title-label = Pamagat
 newtab-topsites-title-input =
@@ -110,20 +102,12 @@ newtab-topsite-sponsored = Sponsored
 newtab-menu-section-tooltip =
     .aria-label = Buksan ang menu
     .title = Buksan ang menu
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Tanggalin
-    .title = Tanggalin
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Buksan ang menu ng konteksto para sa { $title }
     .title = Buksan ang menu
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Baguhin ang site na ito
-    .title = Baguhin ang site na ito
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -134,22 +118,7 @@ newtab-menu-dismiss = Paalisin
 newtab-menu-pin = i-Pin
 newtab-menu-unpin = I-unpin
 newtab-menu-delete-history = Burahin sa Kasaysayan
-newtab-menu-save-to-pocket = I-save sa { -pocket-brand-name }
-newtab-menu-delete-pocket = I-delete sa { -pocket-brand-name }
-newtab-menu-archive-pocket = I-archive sa { -pocket-brand-name }
 newtab-menu-show-privacy-info = Ang aming mga suki at iyong privacy
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Tapos na
-newtab-privacy-modal-button-manage = I-manage ang mga setting sa sponsored content
-newtab-privacy-modal-header = Mahalaga ang iyong privacy.
-newtab-privacy-modal-paragraph-2 =
-    Bukod sa paghahatid ng magagandang kwento, nagpapakita rin kami ng mga 
-    nilalamang inirerekomenda ng piling mga suki. Sinisiguro namin na <strong>ang iyong
-    browsing data ay hindi lumalabas mula sa kopya mo ng { -brand-product-name }</strong> — hindi namin ito nakikita,
-    kahit mga suki namin.
-newtab-privacy-modal-link = Alamin kung paano gumagana ang privacy sa bagong tab
 
 ##
 
@@ -198,38 +167,15 @@ newtab-label-sponsored-by = Suportado ng { $sponsor }
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Alisin ang Seksyon
-newtab-section-menu-collapse-section = I-collapse ang Seksyon
-newtab-section-menu-expand-section = Palawakin ang Seksyon
-newtab-section-menu-manage-section = Pamahalaan ang Seksyon
-newtab-section-menu-manage-webext = Pamahalaan ang Ekstensyon
-newtab-section-menu-add-topsite = Magdagdag ng Nangungunang Site
-newtab-section-menu-add-search-engine = Magdagdag ng Search Engine
-newtab-section-menu-move-up = Ilipat Pataas
-newtab-section-menu-move-down = Ilipat Pababa
 newtab-section-menu-privacy-notice = Paunawa sa Pribasiya
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Paliitin ang Bahagi
-newtab-section-expand-section-label =
-    .aria-label = Palawakin ang Bahagi
 
 ## Section Headers.
 
 newtab-section-header-topsites = Mga Pangunahing Site
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Inirekomenda ni { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Magsimulang mag-browse, at ipapakita namin ang ilan sa mga magagandang artikulo, video, at iba pang mga pahina na kamakailan mong binisita o na-bookmark dito.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Nakahabol ka na. Bumalik sa ibang pagkakataon para sa higit pang mga nangungunang kuwento mula sa { $provider }. Hindi makapaghintay? Pumili ng isang tanyag na paksa upang makahanap ng higit pang mahusay na mga kuwento mula sa buong web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -240,16 +186,6 @@ newtab-discovery-empty-section-topstories-loading = Nagloload...
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ops! Halos na-load na yung section na to pero parang hindi pa talaga.
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Tanyag na mga paksa:
-newtab-pocket-more-recommendations = Karagdagang Rekomendasyon
-newtab-pocket-learn-more = Alamin
-newtab-pocket-cta-button = Kunin ang { -pocket-brand-name }
-newtab-pocket-cta-text = I-save sa { -pocket-brand-name } ang mga kwentong iyong nagustuhan, at palawigin ang iyong pagiisip sa mga nakabibighaning babasahin.
-newtab-pocket-save = I-save
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -258,8 +194,6 @@ newtab-error-fallback-refresh-link = I-refresh ang pahina para masubukan uli.
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Mga shortcut
-newtab-custom-shortcuts-subtitle = Mga site na nai-save o binibisita mo
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Mga site na nai-save o binibisita mo
@@ -275,21 +209,6 @@ newtab-custom-row-selector2 =
             [one] { $num } row
            *[other] { $num } rows
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } row
-       *[other] { $num } rows
-    }
-newtab-custom-sponsored-sites = Mga naka-sponsor na shortcut
-newtab-custom-pocket-title = Inirerekomenda ng { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Natatanging nilalaman na inorganisa ng { -pocket-brand-name }, bahagi ng pamilyang { -brand-product-name }
-newtab-custom-pocket-sponsored = Mga naka-sponsor na kwento
-newtab-custom-pocket-show-recent-saves = Ipakita ang mga na-save kamakailan
-newtab-custom-recent-title = Kamakailang aktibidad
-newtab-custom-recent-subtitle = Isang pagpipilian ng mga kamakailang site at nilalaman
-newtab-custom-close-button = Isara
 newtab-custom-settings = Mamahala ng higit pang mga setting
 
 ## Strings for the Clock widget

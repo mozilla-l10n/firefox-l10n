@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = Geschiedenis wissen
 sidebar-history-sort-by-heading-menucaption =
     .label = Sorteren op:
-sidebar-history-sort-by-heading = Sorteren op:
 sidebar-history-sort-option-date =
     .label = Datum
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Zijbalkextensies
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name }-hulpmiddelen
 sidebar-customize-firefox-settings = { -brand-short-name }-instellingen beheren
 sidebar-vertical-tabs =
     .label = Verticale tabbladen
 sidebar-settings2 =
     .label = Instellingen
-sidebar-settings =
-    .label = Zijbalkinstellingen
 sidebar-hide-tabs-and-sidebar =
     .label = Tabbladen en zijbalk verbergen
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Extensie beheren
-sidebar-context-menu-remove-extension =
-    .label = Extensie verwijderen
 sidebar-context-menu-report-extension =
     .label = Extensie rapporteren
 sidebar-context-menu-open-in-tab =

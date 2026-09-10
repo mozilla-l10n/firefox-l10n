@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Guardar ligação como…
     .accesskey = G
-main-context-menu-save-link-to-pocket =
-    .label = Guardar ligação no { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -311,18 +302,9 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Ativar Sincronização 
 main-context-menu-send-to-mobile-connect-phone3 = Conecte um Dispositivo para Enviar Separadores
 main-context-menu-send-to-mobile-connect-phone-from-link = Conectar um Dispositivo para Enviar uma Ligação
 main-context-menu-send-to-mobile-connect-phone-from-page = Conectar um Dispositivo para Enviar uma Página
-main-context-menu-save-to-pocket =
-    .label = Guardar página no { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Enviar página para dispositivo
-    .accesskey = d
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Utilizar credencial guardada
-    .accesskey = g
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Utilizar palavra-passe guardada
@@ -333,15 +315,9 @@ main-context-menu-use-relay-mask =
 main-context-menu-suggest-strong-password =
     .label = Sugerir palavra-passe forte…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = Gerir credenciais
-    .accesskey = G
 main-context-menu-manage-passwords =
     .label = Gerir palavras-passe
     .accesskey = G
-main-context-menu-keyword =
-    .label = Adicionar uma palavra-chave para esta pesquisa…
-    .accesskey = A
 main-context-menu-add-engine =
     .label = Adicionar motor de pesquisa
     .accesskey = s
@@ -390,9 +366,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Tirar uma captura de ecrã
     .accesskey = T
-main-context-menu-take-frame-screenshot =
-    .label = Tirar uma captura de ecrã
-    .accesskey = t
 main-context-menu-view-page-source =
     .label = Ver fonte da página
     .accesskey = V

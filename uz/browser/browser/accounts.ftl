@@ -24,20 +24,9 @@ account-verify = { $email }ni tasdiqlash
 account-send-to-all-devices-titlecase = Barcha qurilmalarga joʻnatish
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = Hech qanday qurilma ulanmagan
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = Varaqlarni yuborish haqida batafsil…
-# Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = Boshqa qurilmani ulash
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Hisob tasdiqlanmagan
-account-send-tab-to-device-verify = Hisobingizni tasdiqlash
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 

@@ -26,7 +26,6 @@ neterror-return-to-previous-page-button = Doties atpakaļ
 neterror-return-to-previous-page-recommended-button = Doties atpakaļ (ieteicams)
 neterror-try-again-button-2 = Mēģināt vēlreiz
     .accesskey = M
-neterror-try-again-button = Mēģināt vēlreiz
 neterror-view-certificate-link = Apskatīt sertifikātu
 
 ## Search call-to-action shown on the online dnsNotFound error page when
@@ -72,7 +71,6 @@ neterror-search-cta-learn-more = Uzzināt vairāk
 ##
 
 neterror-pref-reset = Izskatās, ka jūsu tīkla drošības iestatījumi varētu bū pie vainas. Vai vēlaties atjaunot noklusētos iestatījumus?
-neterror-error-reporting-automatic = Ziņojiet par šādām kļūdām { -vendor-short-name }, lai varētu identificēt un bloķēt kaitnieciskas lapas
 
 ## Specific error messages
 
@@ -95,8 +93,6 @@ neterror-file-not-found-what-can-you-do = Ja adrese tika ierakstīta pašrocīgi
 neterror-access-denied = Tas varētu būt aizvākts, pārvietots vai arī faila piekļuves tiesības liedz piekļuvi tam.
 neterror-unknown-protocol = Iespējams, jums jāuzinstalē kāda cita programma, lai apstrādātu šī tipa adreses.
 neterror-redirect-loop = Šo problēmu reizēm var atrisināt, deaktivējot sīkdatnes vai nepieņemot tās no šīs lapas.
-neterror-unknown-socket-type-psm-installed = Jāpārliecinās, ka sistēmā ir uzstādīts personīgais drošības pārvaldnieks.
-neterror-unknown-socket-type-server-config = Iemesls var būt arī nestandarta servera konfigurācija.
 neterror-not-cached-intro = Pieprasītais dokuments vairs nav pieejams  { -brand-short-name } kešatmiņā.
 neterror-not-cached-sensitive = Drošības apsvērumu dēļ,  { -brand-short-name } neveic sensitīvu dokumentu automātisku atkārtotu pieprasīšanu.
 neterror-not-cached-try-again = Jāklikšķina “Mēģināt vēlreiz”, lai no tīmekļvietnes atkārtoti pieprasītu dokumentu.

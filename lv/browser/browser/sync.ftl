@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Sinhronizē...
 sync-disconnect-dialog-title2 = Atvienoties?
 sync-disconnect-dialog-body = { -brand-product-name } pārtrauks Tava konta vienādošanu, taču šajā ierīcē netiks izdzēsti nekādi pārlūkošanas dati.
 sync-disconnect-dialog-button = Atvienoties
-fxa-signout-dialog2-title = Izrakstīties no { -fxaccount-brand-name }
 fxa-signout-dialog-title2 = Izrakstīties no sava konta?
 fxa-signout-dialog-body = Sinhronizētie dati paliks jūsu kontā.
 fxa-signout-dialog2-button = Izrakstīties
@@ -18,15 +17,6 @@ fxa-menu-turn-on-sync =
 fxa-menu-turn-on-sync-default = Ieslēgt sinhronizāciju
 fxa-menu-connect-another-device =
     .label = Savienot citu ierīci…
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [zero] Sūtīt { $tabCount } cilne uz ierīci
-            [one] Sūtīt { $tabCount } cilni uz ierīci
-           *[other] Sūtīt { $tabCount } cilnes uz ierīci
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Sinhronizē ierīces…

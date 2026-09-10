@@ -153,15 +153,10 @@ addon-sitepermission-host = { $host } ਲਈ ਸਾਈਟ ਇਜਾਜ਼ਤਾਂ
 
 ## These are global warnings
 
-extensions-warning-safe-mode = ਸੁਰੱਖਿਅਤ ਮੋਡ 'ਚ ਸਭ ਐਡ-ਆਨ ਬੰਦ ਕਰ ਦਿੱਤੀਆਂ ਗਈਆਂ ਹਨ।
-extensions-warning-check-compatibility = ਐਡ-ਆਨ ਅਨੁਕੂਲਤਾ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਕੀਤਾ ਹੋਇਆ ਹੈ। ਤੁਹਾਡੇ ਕੋਲ ਗ਼ੈਰ-ਅਨੁਕੂਲ ਐਡ-ਆਨ ਹੋ ਸਕਦੀਆਂ ਹਨ।
-extensions-warning-safe-mode2 =
-    .message = ਸੁਰੱਖਿਅਤ ਮੋਡ 'ਚ ਸਭ ਐਡ-ਆਨ ਬੰਦ ਕਰ ਦਿੱਤੀਆਂ ਗਈਆਂ ਹਨ।
 extensions-warning-check-compatibility2 =
     .message = ਐਡ-ਆਨ ਅਨੁਕੂਲਤਾ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਕੀਤਾ ਹੋਇਆ ਹੈ। ਤੁਹਾਡੇ ਕੋਲ ਗ਼ੈਰ-ਅਨੁਕੂਲ ਐਡ-ਆਨ ਹੋ ਸਕਦੀਆਂ ਹਨ।
 extensions-warning-check-compatibility-button = ਸਮਰੱਥ
     .title = ਐਡ-ਆਨ ਦੇ ਢੁੱਕਵੇਂਪਣ ਦੀ ਜਾਂਚ ਕਰਨ ਨੂੰ ਸਮਰੱਥ ਕਰੋ
-extensions-warning-update-security = ਐਡ-ਆਨ ਅੱਪਡੇਟ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਹੈ। ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਰਾਹੀਂ ਖਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।
 extensions-warning-update-security2 =
     .message = ਐਡ-ਆਨ ਅੱਪਡੇਟ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਹੈ। ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਰਾਹੀਂ ਖਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।
 extensions-warning-update-security-button = ਚਾਲੂ
@@ -237,10 +232,6 @@ shortcuts-duplicate = ਡੁਪਲੀਕੇਟ ਸ਼ਾਰਟਕੱਟ
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } ਨੂੰ ਇੱਕ ਤੋਂ ਵੱਧ ਹਾਲਤਾਂ ਵਿੱਚ ਸ਼ਾਰਟਕੱਟ ਵਜੋਂ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ। ਡੁਪਲੀਕੇਟ ਸ਼ਾਰਟਕੱਟ ਬੇਉਮੀਦ ਰਵੱਈਏ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦੇ ਹਨ।
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } ਨੂੰ ਇੱਕ ਤੋਂ ਵੱਧ ਹਾਲਤਾਂ ਵਿੱਚ ਸ਼ਾਰਟਕੱਟ ਵਜੋਂ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ। ਡੁਪਲੀਕੇਟ ਸ਼ਾਰਟਕੱਟ ਬੇਉਮੀਦ ਰਵੱਈਏ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦੇ ਹਨ।
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -259,16 +250,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੇ ਥੀਮ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਲਈ ਐਪਾਂ ਵਾਂਗ ਹਨ ਅਤੇ ਉਹ ਤੁਹਾਨੂੰ ਪਾਸਵਰਡ ਸੁਰੱਖਿਅਤ ਕਰਨ, ਵਿਡੀਓ ਡਾਊਨਲੋਡ ਕਰਨ,
-    ਡੀਲਾਂ ਲੱਭਣ, ਤੰਗ ਕਰਨ ਵਾਲੇ ਇਸ਼ਤਿਹਾਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ, ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦੀ ਦਿੱਖ ਬਦਲਣ ਅਤੇ ਹੋਰ ਕਈ ਕੁ
-    ਕਰਨ ਲਈ ਸਹਾਇਕ ਹਨ। ਇਹ ਛੋਟੇ ਛੋਟੇ ਸਾਫਟਵੇਅਰ ਪਰੋਗਰਾਮ ਅਕਸਰ ਹੋਰ ਧਿਰਾਂ ਵਲੋਂ ਤਿਆਰ ਕੀਤੇ ਜਾਂਦੇ ਹਨ। ਖਾਸ ਸੁਰੱਖਿਆ, ਕਾਰਗੁਜ਼ਾਰੀ ਅਤੇ ਫੰਕਸ਼ਨਾਂ ਲਈ { -brand-product-name } ਵਲੋਂ <a data-l10n-name="learn-more-trigger">ਸਿਫਾਰਸ਼</a> ਇਹ ਹਨ।
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    ਇਹਨਾਂ ਸਿਫਾਰਸ਼ਾਂ ਵਿੱਚੋਂ ਕੁਝ ਨਿੱਜੀ ਬਣਾਈਆਂ ਹਨ। ਇਹ ਤੁਹਾਡੇ ਵਲੋਂ ਇੰਸਟਾਲ ਇਕਸਟੈਨਸ਼ਨਾਂ, ਪਰੋਫਾਈਲ ਪਸੰਦਾਂ
-     ਅਤੇ ਵਰਤੋਂ ਅੰਕੜਿਆਂ ਦੇ ਉੱਤੇ ਅਧਾਰਿਤ ਹਨ।
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -351,16 +332,9 @@ addon-detail-last-updated-label = ਆਖਰੀ ਅੱਪਡੇਟ
 addon-detail-homepage-label = ਮੁੱਖ ਸਫ਼ਾ
 addon-detail-rating-label = ਦਰਜਾ
 # Message for add-ons with a staged pending update.
-install-postponed-message = { -brand-short-name } ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੌਰਾਨ ਇਸ ਇਕਟੈਨਸ਼ਨ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾਵੇਗਾ।
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = { -brand-short-name } ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੌਰਾਨ ਇਸ ਇਕਟੈਨਸ਼ਨ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾਵੇਗਾ।
 install-postponed-button = ਹੁਣੇ ਅੱਪਡੇਟ ਕਰੋ
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = 5 ‘ਚੋਂ { NUMBER($rating, maximumFractionDigits: 1) } ਦਰਜਾ
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -376,9 +350,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> ਨੂੰ ਹਟਾਇਆ ਗਿਆ।
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -397,11 +368,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਇਜਾਜ਼ਤ ਦਿਓ
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਇਜਾਜ਼ਤ ਦਿਓ
 addon-detail-private-browsing-help = ਜਦੋਂ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ ਤਾਂ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਵੀ ਤੁਹਾਡੀਆਂ ਆਨਲਾਈਨ ਸਰਗਰਮੀਆਂ ਲਈ ਪਹੁੰਚ ਹੋਵੇਗੀ। <a data-l10n-name="learn-more">ਹੋਰ ਜਾਣੋ</a>
 addon-detail-private-browsing-allow = ਮਨਜ਼ੂਰ
@@ -428,17 +394,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } ਉਹ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਸਿਫਾਰਸ਼ ਕਰਦਾ ਹੈ, ਜੋ ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਲਈ ਸਾਡੇ ਮਿਆਰ ਪੂਰੇ ਕਰਦੇ ਹਨ।
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = ਅਧਿਕਾਰਿਤ ਇਕਸਟੈਨਸ਼ਨ Mozilla ਵਲੋਂ ਬਣਾਈ ਹੈ। ਸਾਰੇ ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਮਿਆਰਾਂ ਉੱਤੇ ਖ਼ਰਾ ਉਤਰਦੀ ਹੈ।
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਲਈ ਸਾਡੇ ਮਿਆਰਾਂ ਉੱਤੇ ਖ਼ਰ੍ਹਾ ਉਤਰਨ ਲਈ ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਚੁੱਕੀ ਹੈ
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -468,9 +423,6 @@ addon-permissions-heading = ਇਜਾਜ਼ਤਾਂ
 addon-permissions-empty2 = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਲਈ ਕਿਸੇ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ।
 addon-permissions-required-label = ਲੋੜੀਂਦੇ:
 addon-permissions-optional-label = ਚੋਣਵੇਂ:
-addon-permissions-empty = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਲਈ ਕਿਸੇ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ
-addon-permissions-required = ਮੂਲ ਕੰਮਾਂ ਲਈ ਚਾਹੀਦੀਆਂ ਇਜਾਜ਼ਤਾਂ:
-addon-permissions-optional = ਵਾਧੂ ਕੰਮਾਂ ਲਈ ਚੋਣਵੀਆਂ ਇਜਾਜ਼ਤਾਂ:
 addon-permissions-learnmore = ਇਜਾਜ਼ਤਾਂ ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -511,25 +463,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } { -brand-short-name } { $version } ਦੇ ਲਈ ਢੁੱਕਵੀਂ ਨਹੀਂ ਹੈ।
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } { -brand-short-name } { $version } ਦੇ ਲਈ ਢੁੱਕਵੀਂ ਨਹੀਂ ਹੈ।
-details-notification-incompatible-link = ਹੋਰ ਜਾਣਕਾਰੀ
-details-notification-unsigned-and-disabled = { $name } ਨੂੰ { -brand-short-name } ਵਿੱਚ ਵਰਤਣ ਲਈ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ ਅਤੇ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ।
 details-notification-unsigned-and-disabled2 =
     .message = { $name } ਨੂੰ { -brand-short-name } ਵਿੱਚ ਵਰਤਣ ਲਈ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ ਅਤੇ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ।
-details-notification-unsigned-and-disabled-link = ਹੋਰ ਜਾਣਕਾਰੀ
-details-notification-unsigned = { $name } ਨੂੰ { -brand-short-name } ਵਿੱਚ ਵਰਤਣ ਲਈ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ। ਧਿਆਨ ਨਾਲ ਵਰਤੋਂ।
 details-notification-unsigned2 =
     .message = { $name } ਨੂੰ { -brand-short-name } ਵਿੱਚ ਵਰਤਣ ਲਈ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ। ਧਿਆਨ ਨਾਲ ਵਰਤੋਂ।
 details-notification-hard-blocked-extension =
     .message = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ Mozilla ਦੀਆਂ ਪਾਲਸੀਆਂ ਦਾ ਉਲੰਘਣ ਕਰਨ ਕਰਕੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ ਅਤੇ ਅਸਮਰੱਥ ਕੀਤਾ ਗਿਆ ਹੈ।
 details-notification-hard-blocked-other =
     .message = ਇਸ ਐਡ-ਆਨ ਨੂੰ Mozilla ਦੀਆਂ ਪਾਲਸੀਆਂ ਦਾ ਉਲੰਘਣ ਕਰਨ ਕਰਕੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ ਅਤੇ ਅਸਮਰੱਥ ਕੀਤਾ ਗਿਆ ਹੈ।
-details-notification-unsigned-link = ਹੋਰ ਜਾਣਕਾਰੀ
-details-notification-blocked = { $name } ਨੂੰ ਸੁਰੱਖਿਆ ਜਾਂ ਸਥਿਰਤਾ ਸਮੱਸਿਆਵਾਂ ਕਰਕੇ ਬੰਦ ਕੀਤਾ ਗਿਆ ਹੈ।
 details-notification-blocked-link2 = ਵੇਰਵੇ ਵੇਖੋ
 details-notification-soft-blocked-extension-disabled2 =
     .message = ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ। ਤੁਸੀਂ ਇਸ ਨੂੰ ਸਮਰੱਥ ਕਰ ਸਕਦੇ ਹੋ, ਪਰ ਇਸ ਖ਼ਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।
@@ -539,19 +482,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = ਇਹ ਐਡ-ਆਨ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ। ਤੁਸੀਂ ਇਸ ਨੂੰ ਸਮਰੱਥ ਕਰ ਸਕਦੇ ਹੋ, ਪਰ ਇਸ ਖ਼ਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।
 details-notification-soft-blocked-other-enabled2 =
     .message = ਇਸ ਐਡ-ਆਨ ਉੱਤੇ ਪਾਬੰਦੀ ਲੱਗੀ ਹੈ। ਇਸ ਨੂੰ ਵਰਤਣਾ ਖ਼ਤਰਨਾਕ ਹੋ ਸਕਦਾ ਹੈ।
-details-notification-soft-blocked-extension-disabled =
-    .message = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ Mozilla ਦੀਆਂ ਪਾਲਸੀਆਂ ਦਾ ਉਲੰਘਣ ਕਰਕੇ ਸੀਮਿਤ ਅਤੇ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ। ਤੁਸੀਂ ਇਸ ਨੂੰ ਸਮਰੱਥ ਕਰ ਸਕਦੇ ਹੋ, ਪਰ ਇਸ ਖ਼ਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।
-details-notification-soft-blocked-extension-enabled =
-    .message = ਇਹ ਇਕਸਟੈਨਸ਼ਨ Mozilla ਦੀਆਂ ਪਾਲਸੀਆਂ ਦਾ ਉਲੰਘਣ ਕਰਦੀ ਹੈ। ਇਸ ਨੂੰ ਵਰਤਣਾ ਖ਼ਤਰਨਾਕ ਹੋ ਸਕਦਾ ਹੈ।
-details-notification-soft-blocked-other-disabled =
-    .message = ਇਸ ਐਡ-ਆਨ ਨੂੰ Mozilla ਦੀਆਂ ਪਾਲਸੀਆਂ ਦਾ ਉਲੰਘਣ ਕਰਕੇ ਸੀਮਿਤ ਅਤੇ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ। ਤੁਸੀਂ ਇਸ ਨੂੰ ਸਮਰੱਥ ਕਰ ਸਕਦੇ ਹੋ, ਪਰ ਇਸ ਖ਼ਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।
-details-notification-soft-blocked-other-enabled =
-    .message = ਇਹ ਐਡ-ਆਨ Mozilla ਦੀਆਂ ਪਾਲਸੀਆਂ ਦਾ ਉਲੰਘਣ ਕਰਦੀ ਹੈ। ਇਸ ਨੂੰ ਵਰਤਣਾ ਖ਼ਤਰਨਾਕ ਹੋ ਸਕਦਾ ਹੈ।
 details-notification-softblocked-link2 = ਵੇਰਵੇ ਵੇਖੋ
-details-notification-blocked-link = ਹੋਰ ਜਾਣਕਾਰੀ
-details-notification-softblocked = { $name } ਨੂੰ ਸੁਰੱਖਿਆ ਜਾਂ ਸਥਿਰਤਾ ਸਮੱਸਿਆ ਦਾ ਕਾਰਨ ਮੰਨਿਆ ਗਿਆ ਹੈ।
-details-notification-softblocked-link = ਹੋਰ ਜਾਣਕਾਰੀ
-details-notification-gmp-pending = { $name } ਨੂੰ ਛੇਤੀ ਹੀ ਇੰਸਟਾਲ ਕੀਤਾ ਜਾਵੇਗਾ।
 details-notification-gmp-pending2 =
     .message = { $name } ਨੂੰ ਛੇਤੀ ਹੀ ਇੰਸਟਾਲ ਕੀਤਾ ਜਾਵੇਗਾ।
 
@@ -567,8 +498,6 @@ plugins-widevine-description = ਇਹ ਪਲੱਗਇਨ ਇੰਕ੍ਰਿਪ�
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = ਲੋੜੀਂਦੀ ਡਾਟਾ ਇਕੱਤਰਤਾ:
-addon-permissions-optional-data-collection = ਚੋਣਵੀਂ ਡਾਟਾ ਇਕੱਤਰਤਾ:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = ਇਜਾਜ਼ਤਾਂ ਅਤੇ ਡਾਟਾ
 # This is a description for extension that use this AI model

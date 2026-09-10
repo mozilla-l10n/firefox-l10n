@@ -5,6 +5,3 @@
 popup-notification-learn-more = Cchiù nfurmazzioni
 popup-notification-more-actions-button =
     .aria-label = Autri azzioni
-popup-notification-default-button =
-    .label = Bonu!
-    .accesskey = B

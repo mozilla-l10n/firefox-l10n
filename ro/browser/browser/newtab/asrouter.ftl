@@ -64,7 +64,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Sincronizează-ți marcajele oriunde ai fi.
-cfr-doorhanger-bookmark-fxa-body = Descoperire grozavă! Acum, ca să nu rămâi fără acest marcaj pe dispozitivele tale mobile, începe să folosești un { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = Ai găsit unul bun! Să nu rămâi fără acest marcaj pe dispozitivele mobile. Începe să îți faci un cont.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronizează marcajele acum...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -77,12 +76,6 @@ fxa-adoption-credit-cards-backup-subtitle = Protejează-ți metodele de plată s
 fxa-adoption-bookmarks-treatment-backup-title = Să facem o copie de rezervă cu marcajele tale
 fxa-adoption-bookmarks-treatment-backup-subtitle = Protejează-ți marcajele sincronizându-le cu dispozitivele tale prin criptare.
 fxa-adoption-primary-button-label = Fă-ți un cont
-
-## Protections panel
-
-cfr-protections-panel-header = Navighează fără să fii urmărit(ă)
-cfr-protections-panel-body = Păstrează-ți datele pentru tine. { -brand-short-name } te protejează de multe dintre cele mai frecvente elemente de urmărire care monitorizează ce faci online.
-cfr-protections-panel-link-text = Află mai multe
 
 ## What's New toolbar button and panel
 
@@ -179,42 +172,8 @@ mr2022-background-update-toast-primary-button-label = Deschide { -brand-shorter-
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Reamintește-mi mai târziu
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Încearcă-l
-    .accesskey = T
-firefoxview-cfr-secondarybutton = Nu acum
-    .accesskey = N
-firefoxview-cfr-header-v2 = Continui rapid de unde ai rămas
-firefoxview-cfr-body-v2 = Recuperezi filele închise recent și sari fără probleme de la un dispozitiv la altul cu { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Îți prezentăm { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Vrei fila deschisă pe telefon? Ia-o. Ai nevoie de site-ul pe care tocmai ai intrat? Pac! E în { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Vezi cum funcționează
-firefoxview-spotlight-promo-secondarybutton = Treci peste
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Alege paleta de culori
-    .accesskey = C
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Colorează-ți browserul cu nuanțe exclusive { -brand-short-name } inspirate de vocile care au schimbat cultura.
-colorways-cfr-header-28days = Combinațiile de culori Independent Voices expiră pe 16 ianuarie
-colorways-cfr-header-14days = Paletele de culori Independent Voices expiră în două săptămâni
-colorways-cfr-header-7days = Paletele de culori Independent Voices expiră săptămâna aceasta
-colorways-cfr-header-today = Paletele de culori Independent Voices expiră azi
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Permiți { -brand-short-name } să respingă bannerele de cookie-uri?
-cfr-cbh-body = { -brand-short-name } poate respinge automat multe cereri de la bannere de cookie-uri.
-cfr-cbh-confirm-button = Respinge bannerele de cookie-uri
-    .accesskey = R
-cfr-cbh-dismiss-button = Nu acum
-    .accesskey = N
 cookie-banner-blocker-onboarding-header = { -brand-short-name } tocmai a refuzat un banner de cookie-uri pentru tine
 cookie-banner-blocker-onboarding-body = Mai puține distrageri ale atenției, mai puține cookie-uri care te urmăresc pe acest site.
 cookie-banner-blocker-onboarding-learn-more = Află mai multe

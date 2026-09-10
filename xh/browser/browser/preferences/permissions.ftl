@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Izinxaxhi
     .style = min-width: 45em
+    .title = Izinxaxhi
 permissions-close-key =
     .key = w
 permissions-block =
@@ -33,16 +33,6 @@ permissions-capabilities-listitem-allow-session =
 
 permissions-invalid-uri-title = Kungeniswe igama loMamkeli elingasebenziyo
 permissions-invalid-uri-label = Nceda ngenisa igama lomamkeli elisebenzayo
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-desc = Ungabalula ukuba zeziphi na iiwebhusayithi ezivumeleke ukuvula iiwindow ezizivelelayo. Tayipha idilesi yokwenene yesayithi ofuna ukuyivumela uze ucofe Vumela.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Ezikhethekileyo - IiLogini Ezigciniweyo
-    .style = { permissions-window2.style }
 
 ## Exceptions - Add-ons
 

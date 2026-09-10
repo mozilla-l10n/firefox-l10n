@@ -92,11 +92,5 @@ download-utils-time-left-single = { $time } eftir
 download-utils-time-left-double = { $time1 } { $time2 } eftir
 download-utils-time-few-seconds = Nokkrar sekúndur eftir
 download-utils-time-unknown = Óþekktur tími eftir
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = { $scheme } tilfang
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = staðbundin skrá
 # Displayed time for files finished yesterday
 download-utils-yesterday = Í gær

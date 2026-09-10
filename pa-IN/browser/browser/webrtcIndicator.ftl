@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - ਸਾਂਝਾ ਕਰਨਾ ਸੰਕੇਤਕ
-webrtc-indicator-window =
-    .title = { -brand-short-name } - ਸਾਂਝਾ ਕਰਨਾ ਸੰਕੇਤਕ
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = ਤੁਸੀਂ ਆਪਣਾ ਮਾਈਕਰੋਫ਼ੋਨ ਸਾਂਝਾ ਕਰ ਰਹੇ ਹੋ। ਸਾਂਝੇ ਕਰਨ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ।
 webrtc-screen-system-menu =
     .label = ਤੁਸੀਂ ਆਪਣੀ ਵਿੰਡੋ ਜਾਂ ਸਕਰੀਨ ਸਾਂਝੀ ਕਰ ਰਹੇ ਹੋ। ਸਾਂਝੇ ਕਰਨ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ।
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = ਤੁਹਾਡੇ ਕੈਮਰੇ ਅਤੇ ਮਾਈਕਰੋਫੋਨ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ। ਸਾਂਝੇ ਕਰਨ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ।
-webrtc-indicator-sharing-camera =
-    .tooltiptext = ਤੁਹਾਡੇ ਕੈਮਰੇ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ। ਸਾਂਝੇ ਕਰਨ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ।
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = ਤੁਹਾਡੇ ਮਾਈਕਰੋਫੋਨ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ। ਸਾਂਝੇ ਕਰਨ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ।
-webrtc-indicator-sharing-application =
-    .tooltiptext = ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ। ਸਾਂਝੇ ਕਰਨ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ।
-webrtc-indicator-sharing-screen =
-    .tooltiptext = ਤੁਹਾਡੀ ਸਕਰੀਨ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ। ਸਾਂਝੇ ਕਰਨ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ।
-webrtc-indicator-sharing-window =
-    .tooltiptext = ਇੱਕ ਵਿੰਡੋ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ। ਸਾਂਝੇ ਕਰਨ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ।
-webrtc-indicator-sharing-browser =
-    .tooltiptext = ਟੈਬ ਸਾਂਝੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ। ਸਾਂਝਾ ਕਰਨ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ।
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ਕੀ { $origin
 
 webrtc-share-screen-warning = ਸਕਰੀਨਾਂ ਸਿਰਫ਼ ਉਹਨਾਂ ਸਾਈਟਾਂ ਨਾਲ ਹੀ ਸਾਂਝੀਆਂ ਕਰੋ, ਜਿਨ੍ਹਾਂ ਉੱਤੇ ਤੁਹਾਨੂੰ ਭਰੋਸਾ ਹੈ। ਸਾਂਝਾ ਕਰਨ ਨਾਲ ਦੋਖੀ ਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਡੇ ਵਜੋਂ ਬਰਾਊਜ਼ ਕਰਨ ਅਤੇ ਤੁਹਾਡੇ ਪ੍ਰਾਈਵੇਟ ਡਾਟੇ ਨੂੰ ਚੋਰੀ ਕਰਨ ਲਈ ਸਹਿਮਤੀ ਦੇ ਸਕਦਾ ਹੈ।
 webrtc-share-browser-warning = { -brand-short-name } ਸਿਰਫ਼ ਉਹਨਾਂ ਸਾਈਟਾਂ ਨਾਲ ਹੀ ਸਾਂਝਾ ਕਰੋ, ਜਿਨ੍ਹਾਂ ਉੱਤੇ ਤੁਹਾਨੂੰ ਭਰੋਸਾ ਹੈ। ਸਾਂਝਾ ਕਰਨ ਨਾਲ ਦੋਖੀ ਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਡੇ ਵਜੋਂ ਬਰਾਊਜ਼ ਕਰਨ ਅਤੇ ਤੁਹਾਡੇ ਪ੍ਰਾਈਵੇਟ ਡਾਟੇ ਨੂੰ ਚੋਰੀ ਕਰਨ ਲਈ ਸਹਿਮਤੀ ਦੇ ਸਕਦਾ ਹੈ।
-webrtc-share-screen-learn-more = ਹੋਰ ਜਾਣੋ
 webrtc-pick-window-or-screen = ਵਿੰਡੋ ਜਾਂ ਸਕਰੀਨ ਚੁਣੋ
 webrtc-share-entire-screen = ਪੂਰੀ ਸਕਰੀਨ
 webrtc-share-pipe-wire-portal = ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ

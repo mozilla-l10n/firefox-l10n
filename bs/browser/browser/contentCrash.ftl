@@ -18,14 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Imate jedan izvještaj o rušenju koji niste poslali
-        [few] Imate { $reportCount } izvještaja o rušenju koje niste poslali
-       *[other] Imate { $reportCount } izvještaja o rušenju koje niste poslali
-    }
 pending-crash-reports-view-all =
     .label = Prikaži
 pending-crash-reports-send =
@@ -39,14 +31,6 @@ requested-crash-reports-message-new =
         [one] Imate jedan neposlani izvještaj o rušenju povezan s istragom problema. Slanje izvještaja pomoći će nam da poboljšamo { -brand-product-name }. Zatvaranjem ove obavijesti izvještaj će biti ignorisan.
         [few] Imate { $reportCount } neposlana izvještaja o rušenju povezana s istragom problema. Slanje izvještaja pomoći će nam da poboljšamo { -brand-product-name }. Zatvaranjem ove obavijesti izvještaji će biti ignorisani.
        *[other] Imate { $reportCount } neposlanih izvještaja o rušenju povezanih s istragom problema. Slanje izvještaja pomoći će nam da poboljšamo { -brand-product-name }. Zatvaranjem ove obavijesti izvještaji će biti ignorisani.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Imate jedan neuslani izvještaj o rušenju koji odgovara istragama u toku. Slanjem tog izvještaja pomažete poboljšanju { -brand-product-name }. Zatvaranjem ove obavijesti, izvještaj će biti ignorisan.
-        [few] Imate { $reportCount } neuslana izvještaja o rušenju koji odgovaraju istragama u toku. Slanjem tih izvještaja pomažete poboljšanju { -brand-product-name }. Zatvaranjem ove obavijesti, izvještaji će biti ignorisani.
-       *[other] Imate { $reportCount } neuslanih izvještaja o rušenju koji odgovaraju istragama u toku. Slanjem tih izvještaja pomažete poboljšanju { -brand-product-name }. Zatvaranjem ove obavijesti, izvještaji će biti ignorisani.
     }
 requested-crash-reports-dont-show-again =
     .label = Ne prikazuj ponovo

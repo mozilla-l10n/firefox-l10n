@@ -18,18 +18,9 @@ account-verify = Deimhnigh { $email }
 account-send-to-all-devices-titlecase = Seol chuig gach gléas
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = Níl aon ghléas ceangailte
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = Maidir le Seoladh Cluaisíní…
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Níl an cuntas deimhnithe
-account-send-tab-to-device-verify = Deimhnigh Do Chuntas…
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.

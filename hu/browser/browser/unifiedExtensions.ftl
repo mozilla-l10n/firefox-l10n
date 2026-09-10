@@ -36,9 +36,6 @@ unified-extensions-item-message-manage = Kiegészítő kezelése
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = A(z) { $extensionName } kiegészítő korlátozott. Használata kockázatos lehet.
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = A(z) { $extensionName } megsérti a Mozilla irányelveit. A használata kockázatos lehet.
 
 ## Extension's context menu
 
@@ -57,8 +54,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Egyes kiegészítők nem engedélyezettek
-unified-extensions-mb-quarantined-domain-message = Az adatai védelme érdekében csak néhány, a { -vendor-short-name } által figyelt kiegészítő engedélyezett az oldalon.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Egyes kiegészítők nem engedélyezettek
@@ -73,13 +68,6 @@ unified-extensions-mb-blocklist-warning-single2 =
     .message =
         Ez a kiegészítő korlátozott, és le lett tiltva.
         Engedélyezheti a beállításokban, de a használata kockázatos lehet.
-# Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } letiltva
-    .message =
-        Ez a kiegészítő megsérti a Mozilla irányelveit, és le lett tiltva.
-        Engedélyezheti a beállításokban, de ez kockázatos lehet.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
@@ -96,17 +84,6 @@ unified-extensions-mb-blocklist-warning-multiple2 =
     .message =
         Egyes kiegészítői korlátozottak, és le lettek tiltva.
         Engedélyezheti őket a beállításokban, de a használatuk kockázatos lehet.
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-            [one] { $extensionsCount } kiegészítő letiltva
-           *[other] { $extensionsCount } kiegészítő letiltva
-        }
-    .message =
-        Egyes kiegészítői a Mozilla irányelveinek megsértése miatt le lettek tiltva.
-        Engedélyezheti a beállításokban, de ez kockázatos lehet.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =

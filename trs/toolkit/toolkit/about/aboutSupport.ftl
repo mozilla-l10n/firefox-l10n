@@ -18,10 +18,6 @@ security-software-name = Si yugui
 security-software-antivirus = Sa ri yi'ìi
 security-software-antispyware = Sa nará riña sa naga'naj a
 security-software-firewall = Sa duna'aj ña'aan
-features-title = { -brand-short-name } danaj huaj
-features-name = Si yuguit
-features-version = Versión
-features-id = ID
 processes-title = Nej sa 'na' niñaan
 processes-type = Dugui'
 processes-count = Guênda
@@ -46,7 +42,6 @@ app-basics-profile-dir =
         [linux] Riña nataj ahuin'
        *[other] riña ma daj huo'
     }
-app-basics-enabled-plugins = Nga 'iaj sun Plugins
 app-basics-build-config = Nagi'iaj chre' ma
 app-basics-user-agent = Sí raj sun
 app-basics-os = OS

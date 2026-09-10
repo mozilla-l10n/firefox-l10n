@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Новая картка
-newtab-settings-button =
-    .title = Наладзіць вашу старонку новай карткі
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Уладкаваць гэту старонку
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = Уладкаваць
 newtab-customize-panel-label =
     .label = Уладкаваць
-newtab-personalize-settings-icon-label =
-    .aria-label = Налады
-    .title = Персаналізаваць новую картку
 newtab-settings-dialog-label =
     .aria-label = Налады
-newtab-personalize-icon-label =
-    .aria-label = Персаналізаваць новую картку
-    .title = Персаналізаваць новую картку
-newtab-personalize-dialog-label =
-    .aria-label = Персаналізаваць
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
@@ -537,7 +527,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Дадаць пашукавік
 newtab-topsites-add-shortcut-header = Новы цэтлік
-newtab-topsites-edit-topsites-header = Рэдагаваць папулярны сайт
 newtab-topsites-edit-shortcut-header = Рэдагаваць цэтлік
 newtab-topsites-add-shortcut-label = Дадаць цэтлік
 newtab-topsites-add-shortcut-title =
@@ -607,20 +596,12 @@ newtab-topsites-hover-card-dismiss =
 newtab-menu-section-tooltip =
     .aria-label = Адкрыць меню
     .title = Адкрыць меню
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Выдаліць
-    .title = Выдаліць
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Адкрыць кантэкстнае меню для { $title }
     .title = Адкрыць меню
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Рэдагаваць гэты сайт
-    .title = Рэдагаваць гэты сайт
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -632,11 +613,7 @@ newtab-menu-dismiss = Адхіліць
 newtab-menu-pin = Замацаваць
 newtab-menu-unpin = Адмацаваць
 newtab-menu-delete-history = Выдаліць з гісторыі
-newtab-menu-save-to-pocket = Захаваць у { -pocket-brand-name }
-newtab-menu-delete-pocket = Выдаліць з { -pocket-brand-name }
-newtab-menu-archive-pocket = Архіваваць у { -pocket-brand-name }
 newtab-menu-show-privacy-info = Нашы спонсары і ваша прыватнасць
-newtab-menu-about-fakespot = Пра { -fakespot-brand-name }
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Паведаміць
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -647,27 +624,12 @@ newtab-menu-section-block = Блакаваць
 newtab-menu-section-unfollow-topic = Адпісацца
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Даведацца больш
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = Адпісацца ад тэмы
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = Кіраваць спонсарскім змесцівам
 newtab-menu-our-sponsors-and-your-privacy = Нашы спонсары і ваша прыватнасць
 newtab-menu-report-this-ad = Паскардзіцца на гэту рэкламу
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Зроблена
-newtab-privacy-modal-button-manage = Кіраваць наладамі спонсарскага змесціва
-newtab-privacy-modal-header = Ваша прыватнасць мае значэнне.
-newtab-privacy-modal-paragraph-2 =
-    У дадатак да захапляльных гісторый, мы таксама паказваем вам рэлевантны,
-    правераны змест ад выбраных спонсараў. Будзьце ўпэўненыя, <strong>вашы дадзеныя
-    аглядання ніколі не пакідаюць вашу копію { -brand-product-name }</strong> — мы іх не бачым,
-    гэтаксама і нашы спонсары.
-newtab-privacy-modal-link = Даведайцеся, як працуе прыватнасць на новай картцы
 
 ##
 
@@ -723,31 +685,12 @@ newtab-label-sponsored-fixed = Спонсарскі
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Выдаліць раздзел
-newtab-section-menu-collapse-section = Згарнуць раздзел
-newtab-section-menu-expand-section = Разгарнуць раздзел
-newtab-section-menu-manage-section = Наладзіць раздзел
-newtab-section-menu-manage-webext = Кіраваць пашырэннем
-newtab-section-menu-add-topsite = Дадаць папулярны сайт
-newtab-section-menu-add-search-engine = Дадаць пашукавік
-newtab-section-menu-move-up = Пасунуць вышэй
-newtab-section-menu-move-down = Пасунуць ніжэй
 newtab-section-menu-privacy-notice = Паведамленне аб прыватнасці
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Згарнуць раздзел
-newtab-section-expand-section-label =
-    .aria-label = Разгарнуць раздзел
 
 ## Section Headers.
 
 newtab-section-header-topsites = Папулярныя сайты
 newtab-section-header-recent-activity = Апошняя актыўнасць
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Рэкамендавана { $provider }
 newtab-section-header-stories = Гісторыі, якія прымушаюць задумацца
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = Сённяшняя падборка для вас
@@ -755,10 +698,6 @@ newtab-section-header-todays-picks = Сённяшняя падборка для 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Пачніце агляданне, і мы пакажам вам тут некаторыя з найлепшых артыкулаў, відэаролікаў і іншых старонак, якія вы нядаўна наведалі або зрабілі закладкі.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Гатова. Праверце пазней, каб убачыць больш матэрыялаў ад { $provider }. Не жадаеце чакаць? Выберыце папулярную тэму, каб знайсці больш цікавых матэрыялаў з усяго Інтэрнэту.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = Гатова. Праверце пазней, каб убачыць больш матэрыялаў. Не жадаеце чакаць? Выберыце папулярную тэму, каб знайсці больш цікавых матэрыялаў з усяго Інтэрнэту.
 
@@ -792,39 +731,6 @@ newtab-carousel-pause =
 newtab-carousel-play =
     .aria-label = Працягнуць аўтапрайграванне
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Папулярныя тэмы:
-newtab-pocket-new-topics-title = Хочаце яшчэ больш гісторый? Глядзіце гэтыя папулярныя тэмы ад { -pocket-brand-name }
-newtab-pocket-more-recommendations = Больш рэкамендацый
-newtab-pocket-learn-more = Падрабязней
-newtab-pocket-cta-button = Атрымаць { -pocket-brand-name }
-newtab-pocket-cta-text = Захоўвайце ўлюбёныя гісторыі ў { -pocket-brand-name }, і сілкуйце свой розум добрай чытанкай.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } уваходзіць у сямейства { -brand-product-name }
-newtab-pocket-save = Захаваць
-newtab-pocket-saved = Захавана
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = Больш падобных
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = Не для мяне
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = Дзякуй. Ваш водгук дапаможа нам палепшыць вашу стужку.
-newtab-toast-dismiss-button =
-    .aria-label = Схаваць
-    .title = Схаваць
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = Адкрыйце для сябе лепшае з Інтэрнэту
-newtab-pocket-onboarding-cta = { -pocket-brand-name } даследуе разнастайныя публікацыі, каб прынесці найбольш інфарматыўнае, натхняльнае і вартае даверу змесціва прама ў ваш браўзер { -brand-product-name }.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -833,8 +739,6 @@ newtab-error-fallback-refresh-link = Абнавіць старонку, каб �
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Цэтлікі
-newtab-custom-shortcuts-subtitle = Сайты, якія вы захоўваеце або наведваеце
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Сайты, якія вы захоўваеце або наведваеце
@@ -856,17 +760,6 @@ newtab-custom-row-selector2 =
             [few] { $num } радкі
            *[many] { $num } радкоў
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } радок
-        [few] { $num } радкі
-       *[many] { $num } радкоў
-    }
-newtab-custom-sponsored-sites = Спонсарскія цэтлікі
-newtab-custom-pocket-title = Рэкамендавана { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Выключнае змесціва, куратарам якога з'яўляецца { -pocket-brand-name }, частка сям'і { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = Выключнае змесціва, курыраванае сямействам { -brand-product-name }
@@ -878,10 +771,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = Персаналізаваныя гісторыі на аснове вашай актыўнасці
 newtab-custom-stories-personalized-checkbox-label = Персаналізаваныя гісторыі на аснове вашай актыўнасці
-newtab-custom-pocket-sponsored = Артыкулы ад спонсараў
-newtab-custom-pocket-show-recent-saves = Паказваць апошнія захаванні
-newtab-custom-recent-title = Апошняя актыўнасць
-newtab-custom-recent-subtitle = Падборка нядаўніх сайтаў і змесціва
 newtab-custom-weather-toggle =
     .description = Кароткі прагноз на сёння
     .label = Надвор'е
@@ -913,7 +802,6 @@ newtab-widget-manage-widget-button =
 newtab-custom-close-menu-button =
     .aria-label = Закрыць меню
     .title = Закрыць
-newtab-custom-close-button = Закрыць
 newtab-custom-settings = Кіраваць дадатковымі наладамі
 
 ## Customization Menu
@@ -962,7 +850,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Памер выявы перавышае абмежаванне ў { $file_size } МБ. Калі ласка, паспрабуйце загрузіць файл меншага памеру.
 newtab-wallpaper-error-upload-file-type = Не ўдалося зацягнуць ваш файл. Паўтарыце спробу з файлам выявы.
-newtab-wallpaper-error-file-type = Мы не змаглі зацягнуць ваш файл. Паўтарыце спробу з іншым тыпам файла.
 newtab-wallpaper-light-red-panda = Чырвоная панда
 newtab-wallpaper-light-mountain = Белая гара
 newtab-wallpaper-light-sky = Неба з фіялетавымі і ружовымі аблокамі
@@ -1106,10 +993,6 @@ newtab-wallpaper-celestial-river = Спадарожнікавы здымак р�
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = Паглядзець прагноз у { $provider }
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Спонсар
 newtab-weather-menu-change-location = Змяніць месцазнаходжанне
 newtab-weather-change-location-search-input-placeholder =
@@ -1136,7 +1019,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Фарэнгейт
 newtab-weather-menu-temperature-option-celsius = Цэльсій
 newtab-weather-menu-change-temperature-units-fahrenheit = Пераключыць на фарэнгейты
 newtab-weather-menu-change-temperature-units-celsius = Пераключыць на градусы Цэльсія
-newtab-weather-menu-hide-weather = Схаваць надвор'е на новай картцы
 newtab-weather-menu-learn-more = Даведацца больш
 newtab-weather-menu-detect-my-location = Вызначыць маё месцазнаходжанне
 # This message is shown if user is working offline
@@ -1257,7 +1139,6 @@ newtab-section-unblock-topic =
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = Не зараз
 newtab-section-confirm-block-topic-p1 = Вы сапраўды хочаце заблакаваць гэтую тэму?
 newtab-section-confirm-block-topic-p2 = Заблакаваныя тэмы больш не будуць з'яўляцца ў вашай стужцы.
 # Variables:

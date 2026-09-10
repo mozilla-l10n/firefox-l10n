@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = { $extension } 확장 기능을 추가하시겠습니까?
-webext-perms-header-with-perms = { $extension } 확장 기능을 추가하시겠습니까? 이 확장 기능은 다음 권한을 갖습니다:
-webext-perms-header-unsigned = { $extension } 확장 기능을 추가하시겠습니까? 이 확장 기능은 확인되지 않았습니다. 악성 확장 기능은 개인 정보를 훔치거나 컴퓨터를 손상시킬 수 있습니다. 출처를 신뢰하는 경우에만 추가하세요.
-webext-perms-header-unsigned-with-perms = { $extension } 확장 기능을 추가하시겠습니까? 이 확장 기능은 확인되지 않았습니다. 악성 확장 기능은 개인 정보를 훔치거나 컴퓨터를 손상시킬 수 있습니다. 출처를 신뢰하는 경우에만 추가하세요. 이 확장 기능은 다음 권한을 갖습니다:
 webext-perms-sideload-header = { $extension } 부가 기능이 추가됨
 webext-perms-optional-perms-header2 = { $extension } 확장 기능이 추가 권한을 요청합니다.
-webext-perms-optional-perms-header = { $extension } 확장 기능이 추가 권한을 요청합니다.
 webext-perms-header2 = { $extension } 추가
 webext-perms-list-intro-unsigned = 이 확인되지 않은 확장 기능은 개인 정보를 위험에 빠뜨리거나 기기를 손상시킬 수 있습니다. 출처를 신뢰할 수 있는 경우에만 추가하세요.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } 확장 기능이 업데이트 되었습니다. 업데이트된 버전이 설치되기 전에 새 권한을 승인해야 합니다. “취소”를 누르면 현재 확장 기능 버전을 유지합니다.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } 확장 기능이 업데이트되었습니다. 업데이트된 버전이 설치되기 전에 새 권한을 승인해야 합니다. “취소”를 누르면 현재 버전을 유지합니다. 이 확장 기능은 다음 권한을 갖습니다:
 webext-perms-update-accept =
     .label = 업데이트
     .accesskey = U
@@ -73,16 +65,8 @@ webext-perms-host-description-file-urls = 컴퓨터의 로컬 파일에 접근
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } 도메인 사이트에 대한 사용자 데이터에 접근
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards = 다른 도메인 { $domainCount }개에 대한 사용자 데이터에 접근
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain }에 대한 사용자 데이터에 접근
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites = 다른 사이트 { $domainCount }개에 대한 사용자 데이터에 접근
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

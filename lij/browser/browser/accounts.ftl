@@ -25,26 +25,12 @@ account-send-to-all-devices-titlecase = Manda a tutti i dispoxitivi
 account-manage-devices-titlecase = Gestisci dispoxitivi…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = Nisciun dispoxitivo conesso
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = Informaçioin in sciâ spediçion di feuggi…
-# Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = Conetti 'n atro dispoxitivo…
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Conto no verificou
-account-send-tab-to-device-verify = Verifico o teu conto…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
-# The title shown in a notification when either this device or another device
-# has connected to, or disconnected from, a Firefox account.
-account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title-2 = Account

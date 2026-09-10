@@ -26,23 +26,6 @@ webrtc-sharing-menu =
     .label = Peranti perkongsian tab
     .accesskey = a
 
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Kamera dan mikrofon anda sedang dikongsi. Klik untuk kawalan perkongsian.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Kamera anda sedang dikongsi. Klik untuk kawalan perkongsian.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Mikrofon anda sedang dikongsi. Klik untuk kawalan perkongsian.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Aplikasi sedang dikongsi. Klik untuk kawalan perkongsian.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Skrin anda sedang dikongsi. Klik untuk kawalan perkongsian.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Tetingkap anda sedang dikongsi. Klik untuk kawalan perkongsian.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Tab sedang dikongsi. Klik untuk kawalan perkongsian.
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
@@ -82,7 +65,6 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
-webrtc-share-screen-learn-more = Ketahui Selanjutnya
 webrtc-share-entire-screen = Keseluruhan skrin
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).

@@ -51,8 +51,6 @@ downloads-cmd-show-description-2 =
             [macos] فولڈر میں دکھائیں
            *[other] فولڈر میں دکھائیں
         }
-downloads-cmd-show-downloads =
-    .label = ڈاؤن لوڈ پوشہ دکھائیں
 downloads-cmd-retry =
     .tooltiptext = پھر کوشش کریں
 downloads-cmd-retry-panel =

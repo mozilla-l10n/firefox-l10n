@@ -2,23 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-learn-more = Ootzi ka'te
 pane-home-title = Ixe´te'ba'l
 pane-search-title2 = Chuka
     .title = Chuka
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = Chuka
-category-search =
-    .tooltiptext = { pane-search-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label2 = { -brand-short-name }locho'm
     .title = { -brand-short-name }locho'm
-help-button-label = { -brand-short-name }locho'm
 focus-search =
     .key = f
 close-button =
@@ -37,9 +27,6 @@ search-results-header = ichukax tok'eb'al
 ## General Section
 
 browser-containers-learn-more = Ootzi ka'te
-browser-containers-settings =
-    .label = Ib'anax tuche'…
-    .accesskey = I
 
 ##
 
@@ -54,7 +41,6 @@ confirm-browser-language-change-button = B'anb'e as a xe'tisa
 
 ## General Section - Files and Applications
 
-download-header = Eq'omal ku'tzan
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } kolb'al aaq'on
@@ -76,8 +62,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -106,18 +90,6 @@ performance-settings-learn-more = Ootzi ka'te
 performance-default-content-process-count =
     .label = { $num } (a' chite' at kan)
 
-## Accessibility page
-
-browsing-picture-in-picture-learn-more = Ootzi ka'te
-browsing-cfr-recommendations-learn-more = Ootzi ka'te
-
-## General Section - Proxy
-
-network-proxy-connection-learn-more = Ootzi ka'te
-network-proxy-connection-settings =
-    .label = Ib'anax tuche'…
-    .accesskey = I
-
 ## Custom Homepage subpage
 
 home-mode-choice-custom =
@@ -133,11 +105,6 @@ home-prefs-highlights-options-bookmarks =
 search-remove-engine =
     .label = Sojsa el
     .accesskey = S
-
-## Containers Section
-
-containers-remove-button =
-    .label = Sojsa el
 
 ## Firefox account - Signed in
 
@@ -204,35 +171,6 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
-
-## Privacy Section - Permissions
-
-permissions-header = Aq'b'al okeb'al
-permissions-location-settings =
-    .label = Ib'anax tuche'…
-    .accesskey = I
-permissions-xr-settings =
-    .label = Ib'anax tuche'…
-    .accesskey = I
-permissions-camera-settings =
-    .label = Ib'anax tuche'…
-    .accesskey = I
-permissions-microphone-settings =
-    .label = Ib'anax tuche'…
-    .accesskey = I
-permissions-notification-settings =
-    .label = Ib'anax tuche'…
-    .accesskey = I
-permissions-notification-link = Ootzi ka'te
-permissions-autoplay-settings =
-    .label = Ib'anax tuche'…
-    .accesskey = I
-
-## Privacy Section - Data Collection
-
-collection-health-report-telemetry-disabled-link = Ootzi ka'te
-collection-health-report-link = Ootzi ka'te
-addon-recommendations-link = Ootzi ka'te
 
 ## Privacy Section - Security
 ##

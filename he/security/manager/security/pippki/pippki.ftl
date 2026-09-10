@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = מצבך כרגע הוא FIPS. ‏FIPS ד�
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = איפוס ססמה ראשית
     .style = min-width: 40em
+    .title = איפוס ססמה ראשית
 reset-password-button-label =
     .label = איפוס
 reset-primary-password-text = אם הססמה הראשית שלך תאופס, כל הססמאות לאתרים ולדוא״ל, נתוני טפסים, האישורים האישיים והמפתחות הפרטיים המאוחסנים ישכחו. האם ברצונך לאפס את הססמה הראשית שלך?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = הססמה הראשית שלך או
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = הורדת אישור
     .style = min-width: 46em
+    .title = הורדת אישור
 download-cert-message = התבקשת לתת אמון ברשות אישורים (CA) חדשה.
 download-cert-trust-ssl =
     .label = מתן אמון ברשות אישורים זו לזיהוי אתרים.
@@ -52,8 +52,6 @@ download-cert-view-text = בחן אישור של רשות אישורים
 
 client-auth-window =
     .title = בקשה לזיהוי המשתמש
-client-auth-site-description = אתר זה ביקש ממך להזדהות באמצעות אישור:
-client-auth-choose-cert = נא לבחור באישור להצגה כזיהוי:
 client-auth-send-no-certificate =
     .label = לא לשלוח אישור
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = נא להזדהות להתקן האבטחה ״{ $tokenName }״. אופן ההזדהות תלוי בהתקן (למשל, שימוש בקורא טביעות אצבע או הזנת קוד על לוח מקשים).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = נא להזדהות לאסימון ״{ $tokenName }״. אופן ההזדהות תלוי באסימון (למשל, שימוש בקורא טביעות אצבע או הזנת קוד על לוח מקשים).

@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Спречава подразумевано�
 policy-DisableDeveloperTools = Блокирај приступ програмерским алаткама.
 policy-DisableEncryptedClientHello = Онемогући употребу TLS функције Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Онемогући наредбе за слање повратних информација из менија „Помоћ“ (опције „Пошаљи повратне информације“ и „Пријави обманљив сајт“).
-policy-DisableFirefoxAccounts = Онемогућите услуге засноване на { -fxaccount-brand-name(case: "loc") }, укључујући усклађивање.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Онемогући услуге преко налога, укључујући усклађивање.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Не памти историју претражив�
 policy-DisableLaunchOnLogin = Спречите самостално покретање { -brand-short-name }-а када се корисник пријави.
 policy-DisablePrimaryPasswordCreation = Ако је тачно, главна лозинка се не може направити.
 policy-DisablePasswordReveal = Не дозволите приказивање лозинке у сачуваним подацима за пријаву.
-policy-DisablePocket2 = Онемогућава чување веб-страница у { -pocket-brand-name }-у.
 policy-DisablePrivateBrowsing = Онемогући приватно прегледање.
 policy-DisableProfileImport = Онемогући наредбу у менију за увоз података из других прегледача.
 policy-DisableProfileRefresh = Онемогући дугме за освежавање програма { -brand-short-name } на страни about:support.
@@ -132,7 +130,6 @@ policy-PDFjs = Онемогућите или подесите PDF.js, уграђ
 policy-Permissions2 = Конфигуришите дозволе за камеру, микрофон, локацију, обавештења и аутоматску репродукцију.
 policy-PictureInPicture = Омогућите или онемогућите режим слике-у-слици.
 policy-PopupBlocking2 = Дозволи одређеним веб страницама да приказују искачуће прозоре и да буду преусмерене од стране оквира трећих страна.
-policy-PopupBlocking = Подразумевано дозволи одређеним сајтовима приказ искачућих прозора .
 policy-Preferences = Подесите и закључајте вредност за подскуп поставки.
 policy-PrivateBrowsingModeAvailability = Постави доступност режима приватног прегледања.
 policy-PromptForDownloadLocation = Упитај где треба сачувати датотеке након преузимања.

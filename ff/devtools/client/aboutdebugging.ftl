@@ -5,18 +5,12 @@
 
 ### These strings are used inside the about:debugging UI.
 
-
-# Page Title strings
-
 # Page title (ie tab title) for the Setup page
 about-debugging-page-title-setup-page = Buggitaade - Teeltagol
 # Page title (ie tab title) for the Runtime page
 # Variables:
 #   $selectedRuntimeId - ID of the current runtime, such as "this-firefox", "localhost:6080", etc.
 about-debugging-page-title-runtime-page = Buggitaade - Kurmitagol / { $selectedRuntimeId }
-
-# Sidebar strings
-
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = Oo { -brand-shorter-name }
@@ -41,12 +35,3 @@ about-debugging-sidebar-usb-enabled = USB hurminaama
 # Text displayed in the about:debugging sidebar when USB devices discovery is disabled
 # (for instance because the mandatory ADB extension is not installed).
 about-debugging-sidebar-usb-disabled = USB daaƴaama
-
-# Setup Page strings
-
-
-# Runtime Page strings
-
-
-# Debug Targets strings
-

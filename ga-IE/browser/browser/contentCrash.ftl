@@ -5,16 +5,6 @@
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Tá tuairisc tuairteála agat nár cuireadh faoinár mbráid
-        [two] Tá { $reportCount } thuairisc tuairteála agat nár cuireadh faoinár mbráid
-        [few] Tá { $reportCount } thuairisc tuairteála agat nár cuireadh faoinár mbráid
-        [many] Tá { $reportCount } dtuairisc tuairteála agat nár cuireadh faoinár mbráid
-       *[other] Tá { $reportCount } tuairisc tuairteála agat nár cuireadh faoinár mbráid
-    }
 pending-crash-reports-view-all =
     .label = Amharc
 pending-crash-reports-send =

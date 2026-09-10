@@ -60,7 +60,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = 书签随身带着走
-cfr-doorhanger-bookmark-fxa-body = 发现好网站了！接下来也把该书签同步至移动设备吧。开始使用 { -fxaccount-brand-name }。
 cfr-doorhanger-bookmark-fxa-body-2 = 发现好网站了！接下来也把该书签同步至移动设备吧。登录账户即可开始使用。
 cfr-doorhanger-bookmark-fxa-link-text = 立即同步书签...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -73,12 +72,6 @@ fxa-adoption-credit-cards-backup-subtitle = 将付款方式加密同步到您的
 fxa-adoption-bookmarks-treatment-backup-title = 备份书签
 fxa-adoption-bookmarks-treatment-backup-subtitle = 将书签加密同步到您的其他设备，以保护其安全。
 fxa-adoption-primary-button-label = 注册
-
-## Protections panel
-
-cfr-protections-panel-header = 自由上网，拒绝跟踪
-cfr-protections-panel-body = 你的数据只由你掌握。{ -brand-short-name } 可保护您免受众多常见跟踪器对您在线活动的窥视。
-cfr-protections-panel-link-text = 详细了解
 
 ## What's New toolbar button and panel
 
@@ -173,42 +166,8 @@ mr2022-background-update-toast-primary-button-label = 立即打开 { -brand-shor
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = 稍后提醒我
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = 试试看
-    .accesskey = T
-firefoxview-cfr-secondarybutton = 暂时不要
-    .accesskey = N
-firefoxview-cfr-header-v2 = 快速从上次看到的地方继续浏览
-firefoxview-cfr-body-v2 = 通过 { -firefoxview-brand-name } 重新打开最近关闭的标签页，还能在设备间无缝切换。
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = 邂逅 { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = 要用到手机上打开的标签页？这就帮您取！还想重回刚才访问的网站？马上带您回！这便是 { -firefoxview-brand-name } 的高强本领。
-firefoxview-spotlight-promo-primarybutton = 看看怎么用
-firefoxview-spotlight-promo-secondarybutton = 跳过
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = 选择配色
-    .accesskey = C
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = 换上灵感来自“凡人之声，文化之味”的 { -brand-short-name } 独家配色，焕新您的浏览器外观。
-colorways-cfr-header-28days = “凡人之声”配色有效期至1月16日
-colorways-cfr-header-14days = “凡人之声”配色两周后到期
-colorways-cfr-header-7days = “凡人之声”配色本周到期
-colorways-cfr-header-today = “凡人之声”配色今日到期
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = 要允许 { -brand-short-name } 自动拒绝 Cookie 横幅的请求吗？
-cfr-cbh-body = { -brand-short-name } 可以自动拒绝许多 Cookie 横幅的请求。
-cfr-cbh-confirm-button = 拒绝 Cookie 横幅
-    .accesskey = R
-cfr-cbh-dismiss-button = 暂时不要
-    .accesskey = N
 cookie-banner-blocker-onboarding-header = { -brand-short-name } 刚刚为您拒绝了 Cookie 横幅的请求
 cookie-banner-blocker-onboarding-body = 在此网站上专注浏览，少受 Cookie 跟踪。
 cookie-banner-blocker-onboarding-learn-more = 详细了解

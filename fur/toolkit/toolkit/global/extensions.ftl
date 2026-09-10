@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Zontâ { $extension }?
-webext-perms-header-with-perms = Zontâ { $extension }? Cheste estension e varà i permès par:
-webext-perms-header-unsigned = Zontâ { $extension }? Cheste estension no je verificade. Lis estensions malevulis a puedin robâ lis tôs informazions privadis o comprometi il computer. Zontile dome se tu sês sigûr de sô origjin.
-webext-perms-header-unsigned-with-perms = Zontâ { $extension }? Cheste estension no je verificade. Lis estensions malevulis a puedin robâ lis tôs informazions privadis o comprometi il computer. Zontile dome se tu sês sigûr de sô origjin. Cheste estension e varà i permès par:
 webext-perms-sideload-header = { $extension } zontât
 webext-perms-optional-perms-header2 = { $extension } al domande permès in plui
-webext-perms-optional-perms-header = { $extension } al domande permès adizionâi.
 webext-perms-header2 = Zonte { $extension }
 webext-perms-list-intro-unsigned = Cheste estension che no je stade verificade, e podarès meti a risi la tô riservatece o comprometi il to dispositîf. Zontile nome se tu ti fidis de sô origjin.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } al è stât inzornât. Par podê instalâ la version inzornade tu scugnis prime aprovâ i gnûfs permès. Se tu sielzis “Anule” tu mantignarâs la version de estension che tu stâs doprant in chest moment.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } al è stât inzornât. Tu scugnis aprovâ i gnûfs permès prime di instalâ la gnove version. Selezionant “Anule” tu tignarâs la version corinte de estension. Cheste estension e varà i permès par:
 webext-perms-update-accept =
     .label = Inzorne
     .accesskey = I
@@ -72,24 +64,8 @@ webext-perms-host-description-all-urls = Acedi ai tiei dâts di ducj i sîts web
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Acedi ai tiei dâts dai sîts tal domini { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Acedi ai tiei dâts in { $domainCount } altri domini
-       *[other] Acedi ai tiei dâts in { $domainCount } altris dominis
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Acedi ai tiei dâts par { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Acedi ai tiei dâts su { $domainCount } altri sît
-       *[other] Acedi ai tiei dâts su { $domainCount } altris sîts
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

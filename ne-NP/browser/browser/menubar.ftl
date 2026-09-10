@@ -228,8 +228,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = सहयोग
     .accesskey = H
-menu-help-report-site-issue =
-    .label = साइटको समस्या दर्ता गर्नुहोस्‌…
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

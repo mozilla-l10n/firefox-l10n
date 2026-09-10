@@ -6,10 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = نیا ٹیب
-newtab-settings-button =
-    .title = اپنے نئے ٹیب کہ صفحہ کی تخصیص کریں
-newtab-personalize-dialog-label =
-    .aria-label = ‏‏تخصیص کریں
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -71,7 +67,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = تلاش انجن کا اضافہ کریں
 newtab-topsites-add-shortcut-header = نیا شارٹ کٹ
-newtab-topsites-edit-topsites-header = بہترین سائٹٹ کیی تدوین کریں
 newtab-topsites-edit-shortcut-header = شارٹ کٹ میں ترمیم کریں
 newtab-topsites-title-label = عنوان
 newtab-topsites-title-input =
@@ -109,20 +104,12 @@ newtab-topsite-sponsored = سپانسر شدہ
 newtab-menu-section-tooltip =
     .aria-label = مینیو کھولیں
     .title = مینیو کھولیں
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = ہٹائیں
-    .title = ہٹائیں
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = { $title } کے لئے کونٹیکسٹ مینو کھولیں
     .title = مینیو کھولیں
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = اس سائٹ کی تدوین کریں
-    .title = اس سائٹ کی تدوین کریں
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -133,17 +120,7 @@ newtab-menu-dismiss = برخاست کریں
 newtab-menu-pin = پن
 newtab-menu-unpin = ان پن
 newtab-menu-delete-history = سابقات سے حذف کریں
-newtab-menu-save-to-pocket = { -pocket-brand-name } میں محفوظ کریں
-newtab-menu-delete-pocket = { -pocket-brand-name } سے جزف کریں
-newtab-menu-archive-pocket = { -pocket-brand-name } مے محفوظ
 newtab-menu-show-privacy-info = ہمارے کفیل اور آپ کی رازداری
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = مکمل
-newtab-privacy-modal-button-manage = سپانسر شدہ مواد کی ترتیبات کا نظم کریں
-newtab-privacy-modal-header = آپ کی رازداری کی اہمیت ہے۔
-newtab-privacy-modal-link = سیکھیں کہ نئے ٹیب پر رازداری کیسے کام کرتی ہے
 
 ##
 
@@ -188,31 +165,12 @@ newtab-label-sponsored = { $sponsorOrSource } - تعاون شدہ
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = صیغہ ہٹائیں
-newtab-section-menu-collapse-section = صیغہ تفصیل سے دیکھیں
-newtab-section-menu-expand-section = صیغہ کو توسیع کریں
-newtab-section-menu-manage-section = صیغہ منظم کریں
-newtab-section-menu-manage-webext = توسیع منظم کریں
-newtab-section-menu-add-topsite = بہترین سائٹ شامل کریں
-newtab-section-menu-add-search-engine = تلاش انجن کا اضافہ کریں
-newtab-section-menu-move-up = اوپر کریں
-newtab-section-menu-move-down = نیچے کریں
 newtab-section-menu-privacy-notice = رازداری کا نوٹس
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = صیغہ کی تخفیف کر یں
-newtab-section-expand-section-label =
-    .aria-label = صیغہ کی توسیع کریں
 
 ## Section Headers.
 
 newtab-section-header-topsites = بہترین سائٹیں
 newtab-section-header-recent-activity = حالیہ سرگرمی
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } کی جانب سے تجویز کردہ
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -227,14 +185,6 @@ newtab-discovery-empty-section-topstories-loading = لوڈ ہو رہا ہے…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = افوہ! ہم نے اس حصے کو تقریبا بھرا ہوا ہے ، لیکن کافی نہیں۔
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = مشہور مضامین:
-newtab-pocket-more-recommendations = اور زیادہ سفارشات
-newtab-pocket-learn-more = مزید سیکھیں
-newtab-pocket-cta-button = { -pocket-brand-name } حاصل کریں
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -243,8 +193,6 @@ newtab-error-fallback-refresh-link = دوبارہ کوشش کرنے کے لئے 
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = تیز راہ
-newtab-custom-shortcuts-subtitle = وہ سائٹس جو آپ محفوظ کرتے ہیں یا ملاحظہ کرتے ہیں۔
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = وہ سائٹس جو آپ محفوظ کرتے ہیں یا ملاحظہ کرتے ہیں۔
@@ -260,15 +208,6 @@ newtab-custom-row-selector2 =
             [one] { $num } قطار
            *[other] { $num } قطاریں
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } قطار
-       *[other] { $num } قطاریں
-    }
-newtab-custom-recent-title = حالیہ سرگرمی
-newtab-custom-close-button = بند کریں
 newtab-custom-settings = مزید سیٹنگز کو نظم کریں
 
 ## Strings for the Clock widget

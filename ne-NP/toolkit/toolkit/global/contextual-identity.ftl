@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = कुनै कन्टेनर छैन
-    .accesskey = क
 user-context-personal-panel-item = व्यक्तिगत
     .accesskey = व
 user-context-work-panel-item = काम

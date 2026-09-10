@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = «{ -brand-short-name }» — Нишондиҳандаи дастрасӣ
-webrtc-indicator-window =
-    .title = «{ -brand-short-name }» — Нишондиҳандаи дастрасӣ
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Шумо ба микрофони худ дастрасии умумӣ медиҳед. Барои идоракунии дастрасӣ зер кунед.
 webrtc-screen-system-menu =
     .label = Шумо ба равзана ё экран дастрасии умумӣ медиҳед. Барои идоракунии дастрасӣ зер кунед.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Ба камера ва микрофони шумо дастрасии умумӣ дода шудааст. Барои идоракунии дастрасӣ зер кунед.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Ба камераи шумо дастрасии умумӣ дода шудааст. Барои идоракунии дастрасӣ зер кунед.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Ба микрофони шумо дастрасии умумӣ дода шудааст. Барои идоракунии дастрасӣ зер кунед.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Ба барнома дастрасии умумӣ дода шудааст. Барои идоракунии дастрасӣ зер кунед.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Ба экрани шумо дастрасии умумӣ дода шудааст. Барои идоракунии дастрасӣ зер кунед.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Ба равзана дастрасии умумӣ дода шудааст. Барои идоракунии дастрасӣ зер кунед.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Ба варақа дастрасии умумӣ дода шудааст. Барои идоракунии дастрасӣ зер кунед.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Ба { $origin }
 
 webrtc-share-screen-warning = Экранҳоро танҳо дар он сомонаҳое, ки шумо эътимод доред, мубодила кунед. Мубодилаи экран метавонад ба сомонаҳои қалбакӣ имкон диҳад, то онҳо тавонанд браузерро аз номи шумо истифода баранд ва маълумоти шахсии шуморо дуздӣ кунанд.
 webrtc-share-browser-warning = «{ -brand-short-name }»-ро танҳо дар он сомонаҳое, ки шумо эътимод доред, мубодила кунед. Мубодилаи экран метавонад ба сомонаҳои қалбакӣ имкон диҳад, то онҳо тавонанд браузерро аз номи шумо истифода баранд ва маълумоти шахсии шуморо дуздӣ кунанд.
-webrtc-share-screen-learn-more = Маълумоти бештар
 webrtc-pick-window-or-screen = Равзана ё экранро интихоб намоед
 webrtc-share-entire-screen = Тамоми экран
 webrtc-share-pipe-wire-portal = Истифодаи танзимоти низоми амалкунандаи компютерӣ

@@ -2,23 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshot-toolbarbutton =
-    .label = شؽوات ز بلگه
-    .tooltiptext = گرؽڌن ی شؽوات ز بلگه
 screenshot-shortcut =
     .key = S
 screenshots-cancel-button = لقو
 screenshots-save-page-button = زفت پوی بلگه
-screenshots-download-button = دانلود
-screenshots-download-button-tooltip = دانلود شؽواتا گرؽڌه وابیڌه ز بلگه
-screenshots-copy-button = لف گیری
-screenshots-copy-button-tooltip = لف گیری شؽوات بلگه من کلیپ بورد
-screenshots-download-button-title =
-    .title = دانلود شؽواتا گرؽڌه وابیڌه ز بلگه
-screenshots-copy-button-title =
-    .title = لف گیری شؽوات بلگه من کلیپ بورد
-screenshots-cancel-button-title =
-    .title = لقو
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -26,24 +13,23 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = لینگ لف گیری وابی
 screenshots-notification-image-copied-title = شؽوات لف گیری وابی
-screenshots-request-error-title = و در ز سرویس.
 screenshots-component-cancel-button =
+    .aria-label = لقو
     .title =
         { PLATFORM() ->
             [macos] لقو (esc)
            *[other] لقو (Esc)
         }
-    .aria-label = لقو
 # Variables
 #   $shortcut (String) - A keyboard shortcut for copying the screenshot.
 screenshots-component-copy-button-2 = لف گیری
-    .title = لف گیری ({ $shortcut })
     .aria-label = لف گیری
+    .title = لف گیری ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
 screenshots-component-download-button-2 = دانلود
-    .title = دانلود ({ $shortcut })
     .aria-label = دانلود
+    .title = دانلود ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the screenshot command.
 screenshot-toolbar-button =

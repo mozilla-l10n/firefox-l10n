@@ -21,10 +21,6 @@ security-software-name = Nama
 security-software-antivirus = Anti-virus
 security-software-antispyware = Anti-perisian pengintip
 security-software-firewall = Firewall
-features-title = Ciri { -brand-short-name }
-features-name = Nama
-features-version = Versi
-features-id = ID
 app-basics-title = Asas Aplikasi
 app-basics-name = Nama
 app-basics-version = Versi
@@ -37,7 +33,6 @@ app-basics-profile-dir =
         [linux] Direktori Profil
        *[other] Folder Profil
     }
-app-basics-enabled-plugins = Dayakan Plugins
 app-basics-build-config = Konfigurasi Binaan
 app-basics-user-agent = Ejen pengguna
 app-basics-os = OS

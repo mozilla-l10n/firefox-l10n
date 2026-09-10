@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Leathanach amháin siar ({ $shortcut })
     .aria-label = Siar
+    .tooltiptext = Leathanach amháin siar ({ $shortcut })
     .accesskey = s
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Leathanach amháin ar aghaidh ({ $shortcut })
     .aria-label = Ar Aghaidh
+    .tooltiptext = Leathanach amháin ar aghaidh ({ $shortcut })
     .accesskey = A
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -104,9 +104,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = Sábháil an Nasc Mar…
     .accesskey = N
-main-context-menu-save-link-to-pocket =
-    .label = Sábháil an Nasc i { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -203,18 +200,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Seol an Fhuaim trí Ríomhphost…
     .accesskey = a
-main-context-menu-save-to-pocket =
-    .label = Sábháil an Leathanach i { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Seol an Leathanach chuig Gléas
-    .accesskey = G
 
 ##
 
-main-context-menu-keyword =
-    .label = Cuir lorgfhocal leis an gcuardach seo…
-    .accesskey = l
 main-context-menu-link-send-to-device =
     .label = Seol an Nasc chuig Gléas
     .accesskey = G

@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Daûr a discjamâ l'inzornament — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Daûr a discjariâ l'inzornament — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Daûr a discjamâ l'inzornament — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Aplicazion dal inzornament...
 update-failed = Inzornament falît. <label data-l10n-name="failed-link">Discjame la ultime version</label>
 update-failed-main = Inzornament falît. <a data-l10n-name="failed-link-main">Discjame la ultime version</a>
-update-adminDisabled = Inzornaments disativâts dal to aministradôr di sisteme
 update-policy-disabled = Inzornaments disativâts de tô organizazion
 settings-update-policy-disabled =
     .label = Inzornaments disativâts de tô organizazion
@@ -71,8 +69,6 @@ helpus = Covential jutori? <label data-l10n-name="helpus-donateLink">Fâs une do
 bottomLinks-license = Informazions su la licence
 bottom-links-terms = Cundizions di utilizazion
 bottom-links-privacy = Informative su la riservatece
-bottomLinks-rights = Dirits dal utent finâl
-bottomLinks-privacy = Politiche pe riservatece
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

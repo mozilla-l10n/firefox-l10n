@@ -26,23 +26,6 @@ webrtc-sharing-menu =
     .label = ಹಾಳೆಗಳ ಹಂಚಿಕೊಳ್ಳುವಿಕೆ devices
     .accesskey = d
 
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = ನಿಮ್ಮ ಕ್ಯಾಮೆರಾ ಮತ್ತು ಮೈಕ್ರೊಫೋನ್ ಅನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗಿದೆ. ಹಂಚಿಕೆಯನ್ನು ನಿಯಂತ್ರಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = ನಿಮ್ಮ ಕ್ಯಾಮೆರಾವನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗಿದೆ. ಹಂಚಿಕೆಯನ್ನು ನಿಯಂತ್ರಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = ನಿಮ್ಮ ಮೈಕ್ರೊಫೋನ್ ಅನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗಿದೆ. ಹಂಚಿಕೆಯನ್ನು ನಿಯಂತ್ರಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ.
-webrtc-indicator-sharing-application =
-    .tooltiptext = ಒಂದು ಅನ್ವಯವನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗಿದೆ. ಹಂಚಿಕೆಯನ್ನು ನಿಯಂತ್ರಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = ನಿಮ್ಮ ತೆರೆಯನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗಿದೆ. ಹಂಚಿಕೆಯನ್ನು ನಿಯಂತ್ರಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ.
-webrtc-indicator-sharing-window =
-    .tooltiptext = ಕಿಟಕಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗಿದೆ. ಹಂಚಿಕೆಯನ್ನು ನಿಯಂತ್ರಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = ಕಿಟಕಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ. ಹಂಚಿಕೆಯನ್ನು ನಿಯಂತ್ರಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ.
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
@@ -106,7 +89,6 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
-webrtc-share-screen-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 webrtc-share-entire-screen = ಸಂಪೂರ್ಣ ತೆರೆ
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).

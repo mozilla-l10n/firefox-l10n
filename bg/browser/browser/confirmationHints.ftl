@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Докладът е изпратен. Благодарим ви!
-confirmation-hint-login-removed = Входните данни са премахнати!
 confirmation-hint-password-removed = Паролата е премахната!
 confirmation-hint-page-bookmarked = Добавено към отметките
-confirmation-hint-password-saved = Паролата е запазена!
 confirmation-hint-password-created = Паролата е запазена
 confirmation-hint-password-updated = Паролата е променена
 confirmation-hint-address-created = Адресът е запазен

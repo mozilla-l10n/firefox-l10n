@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = წინა გვერდი ({ $shortcut })
     .aria-label = წინა
+    .tooltiptext = წინა გვერდი ({ $shortcut })
     .accesskey = წ
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = მომდევნო გვერდი ({ $shortcut })
     .aria-label = მომდევნო
+    .tooltiptext = მომდევნო გვერდი ({ $shortcut })
     .accesskey = მ
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = გვერდის ჩანიშვნა…
-    .accesskey = ნ
     .tooltiptext = სანიშნის დამატება
+    .accesskey = ნ
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = გვერდის ჩანიშვნა…
-    .accesskey = ნ
     .tooltiptext = სანიშნის დამატება ({ $shortcut })
+    .accesskey = ნ
 main-context-menu-edit-bookmark =
     .aria-label = სანიშნის ჩასწორება…
-    .accesskey = წ
     .tooltiptext = სანიშნის ჩასწორება
+    .accesskey = წ
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = სანიშნის ჩასწორება…
-    .accesskey = წ
     .tooltiptext = სანიშნის ჩასწორება ({ $shortcut })
+    .accesskey = წ
 main-context-menu-open-link =
     .label = ბმულის გახსნა
     .accesskey = გ
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = ბმულის შენახვა როგორც…
     .accesskey = მ
-main-context-menu-save-link-to-pocket =
-    .label = ბმულის შენახვა { -pocket-brand-name }-ში
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = ჩართეთ ს�
 main-context-menu-send-to-mobile-connect-phone3 = დააკავშირეთ მოწყობილობა ჩანართების გასაგზავნად
 main-context-menu-send-to-mobile-connect-phone-from-link = დააკავშირეთ მოწყობილობა ბმულის გასაგზავნად
 main-context-menu-send-to-mobile-connect-phone-from-page = დააკავშირეთ მოწყობილობა გვერდის გასაგზავნად
-main-context-menu-save-to-pocket =
-    .label = გვერდის შენახვა { -pocket-brand-name }-ში
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = გვერდის გაგზავნა მოწყობილობაზე
-    .accesskey = გ
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = შენახული ანგარიშის გამოყენება
-    .accesskey = ო
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = შენახული პაროლის გამოყენება
     .accesskey = ო
-
-##
-
 main-context-menu-use-relay-mask =
     .label = გამოიყენეთ { -relay-brand-short-name } ელფოსტის შესანიღბად
     .accesskey = ე
 main-context-menu-suggest-strong-password =
     .label = მძლავრი პაროლის შემოთავაზება…
     .accesskey = შ
-main-context-menu-manage-logins2 =
-    .label = ანგარიშების მართვა…
-    .accesskey = ა
 main-context-menu-manage-passwords =
     .label = პაროლების მართვა
     .accesskey = პ
-main-context-menu-keyword =
-    .label = საკვანძო სიტყვის მინიჭება საძიებოდ…
-    .accesskey = ო
 main-context-menu-add-engine =
     .label = საძიებოს დამატება
     .accesskey = ძ
@@ -393,9 +366,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = ეკრანის სურათის გადაღება
     .accesskey = თ
-main-context-menu-take-frame-screenshot =
-    .label = ეკრანის სურათის გადაღება
-    .accesskey = უ
 main-context-menu-view-page-source =
     .label = გვერდის წყაროს ჩვენება
     .accesskey = წ

@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Izvještaj poslat. Hvala ti!
-confirmation-hint-login-removed = Prijava je uklonjena!
 confirmation-hint-password-removed = Lozinka je uklonjena!
 confirmation-hint-page-bookmarked = Sačuvano u oznake
-confirmation-hint-password-saved = Lozinka je sačuvana!
 confirmation-hint-password-created = Lozinka je sačuvana
 confirmation-hint-password-updated = Lozinka je ažurirana
 confirmation-hint-address-created = Adresa je sačuvana

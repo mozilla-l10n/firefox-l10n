@@ -29,10 +29,6 @@ security-software-name = Tên
 security-software-antivirus = Trình chống vi-rút
 security-software-antispyware = Trình chống phần mềm do thám
 security-software-firewall = Tường lửa
-features-title = Tính năng { -brand-short-name }
-features-name = Tên
-features-version = Phiên bản
-features-id = ID
 processes-title = Tiến trình từ xa
 processes-type = Kiểu
 processes-count = Tổng số
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] Thư mục hồ sơ
        *[other] Thư mục hồ sơ
     }
-app-basics-enabled-plugins = Phần bổ trợ đã bật
 app-basics-build-config = Cấu hình bản dựng
 app-basics-user-agent = Chuỗi đại diện người dùng (User Agent)
 app-basics-os = Hệ điều hành
@@ -96,9 +91,6 @@ show-dir-label =
 environment-variables-title = Biến môi trường
 environment-variables-name = Tên
 environment-variables-value = Giá trị
-experimental-features-title = Các tính năng thử nghiệm
-experimental-features-name = Tên
-experimental-features-value = Giá trị
 modified-key-prefs-title = Các tùy chọn quan trọng đã được sửa đổi
 modified-prefs-name = Tên
 modified-prefs-value = Giá trị
@@ -210,9 +202,6 @@ media-cdm-capabilities = Khả năng
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Clear Lead (phần mở đầu không mã hóa)
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = Tương thích HDCP 2.2
 
 ##
 
@@ -364,8 +353,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Đã tắt bởi thử nghiệm
-fission-status-experiment-treatment = Đã bật bởi thử nghiệm
 fission-status-disabled-by-e10s-env = Đã tắt bởi môi trường
 fission-status-enabled-by-env = Đã bật bởi môi trường
 fission-status-disabled-by-env = Đã tắt bởi môi trường
@@ -374,7 +361,6 @@ fission-status-disabled-by-default = Đã tắt theo mặc định
 fission-status-enabled-by-user-pref = Đã bật bởi người dùng
 fission-status-disabled-by-user-pref = Đã tắt bởi người dùng
 fission-status-disabled-by-e10s-other = E10s bị vô hiệu hóa
-fission-status-enabled-by-rollout = Được kích hoạt bằng cách phát hành theo từng giai đoạn
 async-pan-zoom = Pan/Zoom không đồng bộ
 apz-none = không có
 wheel-enabled = con lăn được bật

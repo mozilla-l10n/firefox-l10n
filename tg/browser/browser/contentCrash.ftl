@@ -18,13 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Шумо гузориши ирсолнашуда дар бораи вайронӣ доред
-       *[other] Шумо { $reportCount } гузориши ирсолнашуда дар бораи вайронӣ доред
-    }
 pending-crash-reports-view-all =
     .label = Намоиш
 pending-crash-reports-send =
@@ -37,13 +30,6 @@ requested-crash-reports-message-new =
     { $reportCount ->
         [one] Шумо як гузориши ирсолнашуда дар бораи вайронӣ доред, ки ба садамаҳо ё вайрониҳои тафтишшаванда мувофиқат мекунад ва фиристодани он ба мо барои беҳтар кардани «{ -brand-product-name }» кумак мекунад. Агар ин огоҳнома пӯшида шавад, ин гузориш ба назар гирифта намешавад.
        *[other] Шумо { $reportCount } гузориши ирсолнашуда дар бораи вайронӣ доред, ки ба садамаҳо ё вайрониҳои тафтишшаванда мувофиқат мекунанд ва фиристодани онҳо ба мо барои беҳтар кардани «{ -brand-product-name }» кумак мекунад. Агар ин огоҳнома пӯшида шавад, ин гузоришҳо ба назар гирифта намешаванд.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Шумо гузориши ирсолнашудаи садамае доред, ки ба садамаҳо ё вайрониҳои тафтишшаванда мувофиқат мекунад ва фиристодани он ба мо барои беҳтар кардани «{ -brand-product-name }» кумак мекунад. Агар ин огоҳнома пӯшида шавад, ин гузориш ба назар гирифта намешавад.
-       *[other] Шумо { $reportCount } гузориши ирсолнашудаи садамае доред, ки ба садамаҳо ё вайрониҳои тафтишшаванда мувофиқат мекунанд ва фиристодани онҳо ба мо барои беҳтар кардани «{ -brand-product-name }» кумак мекунад. Агар ин огоҳнома пӯшида шавад, ин гузоришҳо ба назар гирифта намешаванд.
     }
 requested-crash-reports-dont-show-again =
     .label = Дигар нишон дода нашавад

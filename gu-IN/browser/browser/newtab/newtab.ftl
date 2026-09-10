@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = નવી ટૅબ
-newtab-settings-button =
-    .title = તમારા નવા ટૅબ પૃષ્ઠને કસ્ટમાઇઝ કરો
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -51,7 +49,6 @@ newtab-search-box-search-button =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = શોધ એંજીન ઉમેરો
-newtab-topsites-edit-topsites-header = ટોચની સાઇટ સંપાદિત કરો
 newtab-topsites-title-label = શીર્ષક
 newtab-topsites-title-input =
     .placeholder = શીર્ષક દાખલ કરો
@@ -90,10 +87,6 @@ newtab-menu-section-tooltip =
 newtab-menu-content-tooltip =
     .aria-label = { $title } માટે સંદર્ભ મેનૂ ખોલો
     .title = મેનૂ ખોલો
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = આ સાઇટને સંપાદિત કરો
-    .title = આ સાઇટને સંપાદિત કરો
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -104,9 +97,6 @@ newtab-menu-dismiss = રદ કરો
 newtab-menu-pin = પિન
 newtab-menu-unpin = અનપિન
 newtab-menu-delete-history = ઇતિહાસમાંથી દૂર કરો
-newtab-menu-save-to-pocket = { -pocket-brand-name } માં સાચવો
-newtab-menu-delete-pocket = { -pocket-brand-name } માંથી કાઢી નાંખો
-newtab-menu-archive-pocket = { -pocket-brand-name } માં સંગ્રહ કરો
 
 ##
 
@@ -146,31 +136,15 @@ newtab-label-download = ડાઉનલોડ કરેલું
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = વિભાગ દૂર કરો
-newtab-section-menu-collapse-section = વિભાગ સંકુચિત કરો
-newtab-section-menu-expand-section = વિભાગ વિસ્તૃત કરો
-newtab-section-menu-manage-section = વિભાગ સંચાલિત કરો
-newtab-section-menu-manage-webext = એક્સ્ટેંશનનો વહીવટ કરો
-newtab-section-menu-add-topsite = ટોચની સાઇટ ઉમેરો
-newtab-section-menu-add-search-engine = શોધ એંજીન ઉમેરો
-newtab-section-menu-move-up = ઉપર કરો
-newtab-section-menu-move-down = નીચે કરો
 newtab-section-menu-privacy-notice = ખાનગી સૂચના
 
 ## Section Headers.
 
 newtab-section-header-topsites = ટોચની સાઇટ્સ
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } દ્વારા ભલામણ
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = બ્રાઉઝ કરવું પ્રારંભ કરો અને અમે અહીં કેટલાક સરસ લેખો, વિડિઓઝ અને અન્ય પૃષ્ઠો દર્શાવીશું જે તમે તાજેતરમાં મુલાકાત લીધાં છે અથવા બુકમાર્ક કર્યા છે.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = તમે પકડાઈ ગયા છો. { $provider } તરફથી વધુ ટોચની વાતો માટે પછીથી પાછા તપાસો. રાહ નથી જોઈ શકતા? સમગ્ર વેબ પરથી વધુ સુંદર વાર્તાઓ શોધવા માટે એક લોકપ્રિય વિષય પસંદ કરો.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -180,14 +154,6 @@ newtab-discovery-empty-section-topstories-try-again-button = ફરીથી પ
 newtab-discovery-empty-section-topstories-loading = લોડ કરી રહ્યું છે ...
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = અરે! અમે લગભગ આ વિભાગને લોડ કર્યો છે, પરંતુ તદ્દન નહીં.
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = લોકપ્રિય વિષયો:
-newtab-pocket-more-recommendations = વધુ ભલામણો
-newtab-pocket-cta-button = { -pocket-brand-name } મેળવો
-newtab-pocket-cta-text = { -pocket-brand-name } તમને જે કથાઓ ગમે છે તે સાચવો, અને તમારા મનને રસપ્રદ વાંચન સાથે ઉત્તેજિત કરો.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

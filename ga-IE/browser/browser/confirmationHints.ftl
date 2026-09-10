@@ -5,7 +5,6 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Seoladh an tuairisc. Go raibh maith agat!
 confirmation-hint-address-updated = Nuashonraíodh an seoladh
 confirmation-hint-credit-card-updated = Nuashonraíodh an cárta
 confirmation-hint-pin-tab = Greamaíodh le biorán é!

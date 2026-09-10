@@ -4,6 +4,3 @@
 
 popup-notification-more-actions-button =
     .aria-label = ຕົວເລືອກເພີ່ມເຕີມ
-popup-notification-default-button =
-    .label = ຕົກລົງ!
-    .accesskey = O

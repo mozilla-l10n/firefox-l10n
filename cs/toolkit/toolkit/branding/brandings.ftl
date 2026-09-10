@@ -26,28 +26,6 @@
        *[nom] Facebook Container
     }
     .gender = masculine
--lockwise-brand-name =
-    { $case ->
-        [gen] Firefoxu Lockwise
-        [dat] Firefoxu Lockwise
-        [acc] Firefox Lockwise
-        [voc] Firefoxe Lockwise
-        [loc] Firefoxu Lockwise
-        [ins] Firefoxem Lockwise
-       *[nom] Firefox Lockwise
-    }
-    .gender = masculine
--lockwise-brand-short-name =
-    { $case ->
-        [gen] Lockwisu
-        [dat] Lockwisu
-        [acc] Lockwise
-        [voc] Lockwise
-        [loc] Lockwisu
-        [ins] Lockwisem
-       *[nom] Lockwise
-    }
-    .gender = masculine
 -monitor-brand-name =
     { $case ->
         [gen] Firefox Monitoru
@@ -160,8 +138,8 @@
         [ins] Fakespotem
        *[nom] Fakespot
     }
-    .gender = masculine
     .case-status = with-cases
+    .gender = masculine
 -solo-ai-brand-name = Solo
 -thunderbird-brand-name = Mozilla Thunderbird
 -thunderbird-brand-short-name = Thunderbird

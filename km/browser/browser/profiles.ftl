@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-card-delete-button =
-    .title = លុបប្រវត្តិរូប
     .aria-label = លុបប្រវត្តិរូប
+    .title = លុបប្រវត្តិរូប
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = ប្រវត្តិរូប { $number }
@@ -27,9 +27,6 @@ new-profile-page-done-button =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = លុបប្រវត្តិរូប { $profilename }
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = លុប​ប្រវត្តិរូប { $profilename } ចេញ?
 delete-profile-description = { -brand-short-name } នឹងលុបទិន្នន័យខាងក្រោមចេញពីឧបករណ៍នេះជាអចិន្ត្រៃយ៍៖
 delete-profile-bookmarks = ចំណាំ
@@ -44,10 +41,6 @@ delete-profile-confirm = លុប
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = ភ្លឺ
-# The default dark theme
-profiles-dark-theme = ងងឹត
 # The default system theme
 profiles-system-theme = ប្រព័ន្ធ
 

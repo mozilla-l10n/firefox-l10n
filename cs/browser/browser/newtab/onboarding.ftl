@@ -48,12 +48,6 @@ mr1-return-to-amo-add-extension-label = Přidat doplněk { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Postup: krok { $current } z { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -256,11 +250,6 @@ mr2022-onboarding-pin-primary-button-label-msix =
         [with-cases] Připnout { -brand-short-name(case: "acc") } na systémový hlavní panel a do nabídky start
        *[no-cases] Připnout aplikaci { -brand-short-name } na systémový hlavní panel a do nabídky start
     }
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Začněte s prohlížečem podporovaným neziskovou organizací. Chráníme vaše soukromí, když se pohybujete po webu.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -306,73 +295,10 @@ mr2022-onboarding-set-default-subtitle = Používejte prohlížeč podporovaný 
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Naše nejnovější verze je postavená podle vás, díky čemuž je procházení webu snazší než kdykoliv předtím. Je nabitá funkcemi, které si podle nás zamilujete.
 mr2022-onboarding-get-started-primary-button-label = Nastavení během okamžiku
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Bleskové nastaveni
-mr2022-onboarding-import-subtitle =
-    { -brand-short-name.case-status ->
-        [with-cases] Nastavte si { -brand-short-name(case: "acc") } podle svých představ. Přidejte si do něj své záložky, hesla a další položky ze svého starého prohlížeče.
-       *[no-cases] Nastavte si aplikaci { -brand-short-name } podle svých představ. Přidejte si do ní své záložky, hesla a další položky ze svého starého prohlížeče.
-    }
 mr2022-onboarding-import-primary-button-label-no-attribution = Importovat z dříve používaného prohlížeče
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Vyberte si barvu, která vás inspiruje
-mr2022-onboarding-colorway-subtitle = Hlasy nezávislosti mohou změnit kulturu.
-mr2022-onboarding-colorway-primary-button-label-continue = Nastavit a pokračovat
-mr2022-onboarding-existing-colorway-checkbox-label = Nastavte si barvy { -firefox-home-brand-name(case: "gen", capitalization: "lower") } podle svého
-mr2022-onboarding-colorway-label-default = Výchozí
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title =
-        { -brand-short-name.case-status ->
-            [with-cases] Aktuální barvy { -brand-short-name(case: "gen") }
-           *[no-cases] Aktuální barvy aplikace { -brand-short-name }
-        }
-mr2022-onboarding-colorway-description-default =
-    { -brand-short-name.case-status ->
-        [with-cases] <b>Použít mé současné barvy { -brand-short-name(case: "gen") }.</b>
-       *[no-cases] <b>Použít mé současné barvy aplikace { -brand-short-name }.</b>
-    }
-mr2022-onboarding-colorway-label-playmaker = Tvůrce hry
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Tvůrce hry (červená)
-mr2022-onboarding-colorway-description-playmaker = <b>Tvůrce hry:</b> Vytváříte příležitosti pro vítězství a pomáháte každému okolo vás pozvednout jejich hru.
-mr2022-onboarding-colorway-label-expressionist = Expresionista
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Expresionista (žlutá)
-mr2022-onboarding-colorway-description-expressionist = <b>Expresionista:</b> Vidíte svět jinak a vaše výtvory vzbuzují v ostatních emoce.
-mr2022-onboarding-colorway-label-visionary = Vizionář
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Vizionář (zelená)
-mr2022-onboarding-colorway-description-visionary = <b>Vizionář:</b> Zpochybňujete status quo a nutíte ostatní, aby mysleli na lepší budoucnost.
-mr2022-onboarding-colorway-label-activist = Aktivista
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Aktivista (modrá)
-mr2022-onboarding-colorway-description-activist = <b>Aktivista:</b> Přetváříte svět v lepší místo, než jste ho našli, a vedete ostatní k tomu, aby v něj věřili.
-mr2022-onboarding-colorway-label-dreamer = Snílek
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Snílek (fialová)
-mr2022-onboarding-colorway-description-dreamer = <b>Snílek:</b> Věříte, že štěstí přeje odvážným, a inspirujete ostatní, aby odvážní byli.
-mr2022-onboarding-colorway-label-innovator = Inovátor
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Inovátor (oranžová)
-mr2022-onboarding-colorway-description-innovator = <b>Inovátor:</b> Všude vidíte příležitosti a ovlivňujete životy všech kolem sebe.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Přecházejte mezi notebookem a telefonem
-mr2022-onboarding-mobile-download-subtitle =
-    { -brand-product-name.case-status ->
-        [with-cases] Vezměte si panely z jednoho zařízení a pokračujte na jiném tam, kde jste skončili. Navíc můžete synchronizovat své záložky a hesla kdekoli, kde používáte { -brand-product-name(case: "acc") }.
-       *[no-cases] Vezměte si panely z jednoho zařízení a pokračujte na jiném tam, kde jste skončili. Navíc můžete synchronizovat své záložky a hesla kdekoli, kde používáte aplikaci { -brand-product-name }.
-    }
 mr2022-onboarding-mobile-download-cta-text =
     { -brand-product-name.case-status ->
         [with-cases] Naskenujte QR kód a získejte { -brand-product-name(case: "acc") } pro mobily nebo si <a data-l10n-name="download-label">pošlete odkaz ke stažení</a>.
@@ -473,15 +399,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Ruce světlé a tmavé pleti si plácnou
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Pohled na západ slunce oknem s liškou a pokojovou rostlinou na parapetu
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Ruční sprej maluje barevnou koláž zeleného oka, oranžové boty, červeného basketbalového míče, fialových sluchátek, modrého srdce a žluté koruny
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Liška na obrazovce přenosného počítače mává. V notebooku je připojena myš.
 onboarding-device-migration-title = Vítejte zpět!
-onboarding-device-migration-subtitle = Přihlaste se ke svému { -fxaccount-brand-name(capitalization: "sentence", case: "dat") } a přeneste si své záložky, hesla a historii do nového zařízení.
 onboarding-device-migration-subtitle2 = Přihlaste se do svého účtu a přeneste své záložky, hesla a historii na vaše nové zařízení.
 onboarding-device-migration-primary-button-label = Přihlásit se
 
@@ -644,15 +567,12 @@ tab-groups-onboarding-feature-callout-title = Vyzkoušejte skupiny panelů, abys
 tab-groups-onboarding-feature-callout-subtitle = Utřiďte si panely přesunutím jednoho na druhý, čímž vytvoříte svoji první skupinu.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Skupiny panelů najdete vždy v nabídce Seznam všech panelů.
-tab-groups-onboarding-create-group-title-2 = Kdykoliv zde najdete své skupiny panelů.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Skupiny najdete vyhledáním v adresním řádku.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Když skupinu panelů zavřete, můžete ji kdykoliv znovu otevřít z nabídky Seznam všech panelů.
-tab-groups-onboarding-saved-groups-title-2 = Když skupinu panelů zavřete, můžete ji zde kdykoliv znovu otevřít.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Uzavřené skupiny najdete vyhledáním v adresním řádku.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Skupiny panelů můžete kdykoli znovu otevřít z nabídky Seznam všech panelů.
-tab-groups-onboarding-session-restore-title = Zde můžete kdykoliv znovu otevřít skupiny panelů.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

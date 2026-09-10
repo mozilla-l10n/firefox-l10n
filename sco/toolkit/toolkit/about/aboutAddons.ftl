@@ -147,15 +147,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Aw eik-ons hae been disabled by sauf mode.
-extensions-warning-check-compatibility = Eik-on compatibility checkin is disabled. Ye micht hae incompatible eik-ons.
-extensions-warning-safe-mode2 =
-    .message = Aw eik-ons hae been disabled by sauf mode.
 extensions-warning-check-compatibility2 =
     .message = Eik-on compatibility checkin is disabled. Ye micht hae incompatible eik-ons.
 extensions-warning-check-compatibility-button = Enable
     .title = Enable eik-on compatibility checkin
-extensions-warning-update-security = Eik-on update siccarness checkin is disabled. You micht be unnermined by updates.
 extensions-warning-update-security2 =
     .message = Eik-on update siccarness checkin is disabled. You micht be unnermined by updates.
 extensions-warning-update-security-button = Enable
@@ -219,10 +214,6 @@ shortcuts-duplicate = Duplicate shortcut
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } is bein yaised as a shortcut for mair than ane thing. Duplicate shortcuts micht cause unexpectit behavior.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } is bein yaised as a shortcut for mair than ane thing. Duplicate shortcuts micht cause unexpectit behavior.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -241,19 +232,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Extensions and themes are like apps fur yer stravaiger, and they lat ye
-    bield passwirds, doonload videos, airt oot sales, block scunnersome ads, chynge
-    how yer wab-stravaiger luiks, and a guid wheen mair. These wee saftware programs are
-    aft developed by a third pairty. Here’s a pickle { -brand-product-name }
-    <a data-l10n-name="learn-more-trigger">recommends</a> fur byordinar
-    siccarness, performance, and function.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    Some o these recommendations are personalised. They're based on ither
-    extensions ye’ve instawed, profile preferences, and statistics o yaise.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -318,16 +296,9 @@ addon-detail-last-updated-label = Last Updatit
 addon-detail-homepage-label = Hamepage
 addon-detail-rating-label = Ratin
 # Message for add-ons with a staged pending update.
-install-postponed-message = This extension will be updatit when { -brand-short-name } resterts.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = This extension will be updatit when { -brand-short-name } resterts.
 install-postponed-button = Update Noo
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Ratit { NUMBER($rating, maximumFractionDigits: 1) } oot o 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -345,9 +316,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> has been remuived.
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = { $addon } has been remuived.
 pending-uninstall-undo-button = Undae
@@ -361,11 +329,6 @@ install-update-button = Update
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
     .title = Allooed in private windaes
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
-    .title = Allooed in private windaes
 addon-detail-private-browsing-help = When allooed, the extension will hae ingang tae yer online ongauns while private stravaigin. <a data-l10n-name="learn-more">Lairn mair</a>
 addon-detail-private-browsing-allow = Alloo
 addon-detail-private-browsing-disallow = Dinnae Alloo
@@ -373,17 +336,6 @@ addon-detail-private-browsing-disallow = Dinnae Alloo
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } anely recommends extensions that meet oor staunarts fur siccarness and performance
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Offeecial extension pit thegither by Mozilla. Meets security and performance staunarts
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = This extension has been pruived tae meet oor staunarts fur siccarness and performance
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -395,9 +347,6 @@ available-updates-heading = Updates Redd
 recent-updates-heading = Recent Updates
 release-notes-loading = Loadin…
 release-notes-error = Awfie sorry, but there wis a mishanter loadin the roll-oot notes.
-addon-permissions-empty = This extension disnae need onie permeesions
-addon-permissions-required = Permeesions needit fur core functions:
-addon-permissions-optional = Optional permeesions fur better functions:
 addon-permissions-learnmore = Lairn mair aboot permeesions
 recommended-extensions-heading = Recommendit Extensions
 recommended-themes-heading = Recommendit Themes
@@ -427,24 +376,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } isnae compatible wi { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } isnae compatible wi { -brand-short-name } { $version }.
-details-notification-unsigned-and-disabled = { $name } couldnae be trystmakkit fur yaise in { -brand-short-name } and has been disabled.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } couldnae be trystmakkit fur yaise in { -brand-short-name } and has been disabled.
-details-notification-unsigned-and-disabled-link = Mair Information
-details-notification-unsigned = { $name } couldnae be trystmakkit fur yaise in { -brand-short-name }. Gang forrit wi tent.
 details-notification-unsigned2 =
     .message = { $name } couldnae be trystmakkit fur yaise in { -brand-short-name }. Gang forrit wi tent.
-details-notification-unsigned-link = Mair Information
-details-notification-blocked = { $name } has been disabled acause o siccarness or stieveness issues.
-details-notification-blocked-link = Mair Information
-details-notification-softblocked = { $name } is kent tae cause siccarness or stieveness issues.
-details-notification-softblocked-link = Mair Information
-details-notification-gmp-pending = { $name } will be instawed jist the noo.
 details-notification-gmp-pending2 =
     .message = { $name } will be instawed jist the noo.
 

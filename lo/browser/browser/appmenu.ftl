@@ -31,8 +31,6 @@ appmenuitem-extensions-and-themes =
     .label = ສ່ວນເສີມ ແລະ ຮູບແບບສີສັນ
 appmenuitem-extensions =
     .label = ສ່ວນຂະຫຍາຍ
-appmenuitem-addons-and-themes =
-    .label = ສ່ວນເສີມ ແລະຮູບແບບສີສັນ
 appmenuitem-print =
     .label = ພິມ...
 appmenuitem-find-in-page =
@@ -101,7 +99,6 @@ appmenu-remote-tabs-unverified = ບັນຊີຂອງທ່ານຕ້ອ�
 appmenuitem-fxa-toolbar-sync-now2 = Sync ຕອນນີ້
 appmenuitem-fxa-sign-in = ເຂົ້າສູ່ລະບົບ { -brand-product-name }
 appmenuitem-fxa-manage-account = ຈັດການບັນຊີ
-appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-account-header = ບັນຊີ
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -117,15 +114,6 @@ appmenuitem-save-page =
     .label = ບັນທຶກຫນ້ານີ້ໄວ້ທີ່...
 appmenuitem-fxa-sync-off-title = ການຊິງຄ໌ຖືກປິດ
 appmenuitem-fxa-sync-off-description = ປົກປ້ອງ ແລະ ເຂົ້າເຖິງບຸກມາກສ໌, ລະຫັດຜ່ານ ແລະ ອື່ນໆອີກຢູ່ທຸກບ່ອນ.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = ມີ​ຫຍັງ​ໃຫມ່
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = ແຈ້ງເຕືອນກ່ຽວກັບຄຸນສົມບັດໃໝ່
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -223,8 +211,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = ຂໍ້ມູນການແກ້ໄຂບັນຫາເພີ່ມເຕີມ
     .accesskey = t
-appmenu-help-report-site-issue =
-    .label = ລາຍງານບັນຫາເວັບໄຊທ໌…
 appmenu-help-share-ideas =
     .label = ແບ່ງ​ປັນ​ຄວາມ​ຄິດ​ເຫັນ​ແລະ​ຄໍາ​ຕິຊົມ…
     .accesskey = S
@@ -270,9 +256,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = ໃສ່ໂຕປິດບັງອີເມວ ແລະ ໂທລະສັບຂອງທ່ານ
 appmenuitem-services-relay-description = ເປີດ dashboard ເຊື່ອງອີເມວ
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description = ປົກປ້ອງການເຄື່ອນໄຫວອອນໄລນ໌ຂອງທ່ານ
 appmenu-services-header = ການບໍລິການຂອງຂ້ອຍ
-appmenu-other-protection-header = ລອງໃຊ້ເຄື່ອງມືປ້ອງກັນອື່ນໆຈາກ { -vendor-short-name }:
 
 ## Profiles panel
 

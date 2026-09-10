@@ -75,8 +75,5 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = Saan nga agkatunos ti { $name } iti { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = Saan nga agkatunos ti { $name } iti { -brand-short-name } { $version }.

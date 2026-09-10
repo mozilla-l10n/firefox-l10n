@@ -62,17 +62,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Saa sincronizar a ta´a ini noo´o ntaka nuu.
-cfr-doorhanger-bookmark-fxa-body = ¡Nnani´inu! Vitan nkinonu ji a ta´a ini noo´o ya´a nuu da ka̱a̱ móvil noo´o. Kajie´e ji { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Saa sincronizar a ta´a ini noo´o ntañu´u...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botón kasɨ
     .title = Kasɨ
-
-## Protections panel
-
-cfr-protections-panel-header = Nánuku nkuntadaja noo´o
-cfr-protections-panel-body = Información noo´o kino ji noo´o. { -brand-short-name } kumiji noo´o nuu kue´e da ka̱a̱ nita je ne´yada a sá´ánu nuu Web.
-cfr-protections-panel-link-text = Ka´vi kue´eka
 
 ## What's New toolbar button and panel
 

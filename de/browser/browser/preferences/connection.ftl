@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Verbindungs-Einstellungen
     .style =
         { PLATFORM() ->
             [macos] min-width: 45em
            *[other] min-width: 49em
         }
+    .title = Verbindungs-Einstellungen
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Neu laden
     .accesskey = a
-connection-proxy-autologin =
-    .label = Keine Authentifizierungsanfrage bei gespeichertem Passwort
-    .accesskey = z
-    .tooltip = Beim Aktivieren dieser Einstellung wird die Anmeldung an Proxies automatisch vorgenommen, falls deren Passwort gespeichert ist. Bei fehlgeschlagener Authentifizierung wird das Passwort vom Benutzer abgefragt.
 connection-proxy-autologin-checkbox =
     .label = Keine Authentifizierungsanfrage bei gespeichertem Passwort
-    .accesskey = z
     .tooltiptext = Beim Aktivieren dieser Einstellung wird die Anmeldung an Proxies automatisch vorgenommen, falls deren Passwort gespeichert ist. Bei fehlgeschlagener Authentifizierung wird das Passwort vom Benutzer abgefragt.
+    .accesskey = z
 connection-proxy-socks4-remote-dns =
     .label = Bei Verwendung von SOCKS v4 den Proxy für DNS-Anfragen verwenden
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Standardadresse für das Auflösen von DNS über HTTPS verwenden
 connection-dns-over-https-url-custom =
     .label = Benutzerdefiniert
-    .accesskey = B
     .tooltiptext = Bevorzugte Adresse für das Auflösen von DNS über HTTPS eingeben
-connection-dns-over-https-custom-label = Benutzerdefiniert
+    .accesskey = B

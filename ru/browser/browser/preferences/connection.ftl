@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Параметры соединения
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Параметры соединения
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Обновить
     .accesskey = б
-connection-proxy-autologin =
-    .label = Не запрашивать аутентификацию (если был сохранён пароль)
-    .accesskey = ш
-    .tooltip = Эта настройка аутентифицирует вас на прокси, не выдавая запросов, если вы сохранили для них учётные данные. Если аутентификация не удастся, вам будет выдан запрос.
 connection-proxy-autologin-checkbox =
     .label = Не запрашивать аутентификацию (если был сохранён пароль)
-    .accesskey = ш
     .tooltiptext = Эта настройка аутентифицирует вас на прокси, не выдавая запросов, если вы сохранили для них учётные данные. Если аутентификация не удастся, вам будет выдан запрос.
+    .accesskey = ш
 connection-proxy-socks4-remote-dns =
     .label = Отправлять DNS-запросы через прокси при использовании SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Использовать URL по умолчанию для разрешения DNS через HTTPS
 connection-dns-over-https-url-custom =
     .label = Другой URL
-    .accesskey = о
     .tooltiptext = Введите свой URL для разрешения DNS через HTTPS
-connection-dns-over-https-custom-label = Другой URL
+    .accesskey = о

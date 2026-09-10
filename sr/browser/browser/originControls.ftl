@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Додатак не може да чита и мења податке
-origin-controls-quarantined =
-    .label = Додатку није дозвољено да чита и мења податке
 origin-controls-quarantined-status =
     .label = Додатак није дозвољен на ограничен сајтовима
 origin-controls-quarantined-allow =

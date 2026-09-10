@@ -154,15 +154,10 @@ addon-sitepermission-host = Autorisaziuns per la website { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Tut ils supplements èn vegnids deactivads dal modus segirà.
-extensions-warning-check-compatibility = Il test da cumpatibilitad per supplements è deactivà. I po esser che supplements incumpatibels èn installads.
-extensions-warning-safe-mode2 =
-    .message = Tut ils supplements èn vegnids deactivads dal modus segirà.
 extensions-warning-check-compatibility2 =
     .message = Il test da cumpatibilitad per supplements è deactivà. I po esser che supplements incumpatibels èn installads.
 extensions-warning-check-compatibility-button = Activar
     .title = Activar il test da cumpatibilitad dals supplements
-extensions-warning-update-security = Il test da segirezza per l'actualisaziun da supplements è deactivà. Eventualmain pon actualisaziuns donnegiar tes computer.
 extensions-warning-update-security2 =
     .message = Il test da segirezza per l'actualisaziun da supplements è deactivà. Eventualmain pon actualisaziuns donnegiar tes computer.
 extensions-warning-update-security-button = Activar
@@ -236,10 +231,6 @@ shortcuts-duplicate = Cumbinaziun da tastas occupada dublamain
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } vegn utilisà sco cumbinaziun da tastas per plirs cumonds. Cumbinaziuns da tastas duplitgadas pon chaschunar cumportaments nunprevis.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } vegn utilisà sco cumbinaziun da tastas per plirs cumonds. Cumbinaziuns da tastas duplitgadas pon chaschunar cumportaments nunprevis.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -259,17 +250,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Extensiuns e designs èn sco apps per tes navigatur e ta laschan 
-    proteger pleds-clav, telechargiar videos, chattar acziuns spezialas, bloccar
-    reclamas, midar l'apparientscha da tes navigatur e bler auter. Quests pitschens
-    programs vegnan savens sviluppads da terzas partidas. Qua ina selecziun da
-    <a data-l10n-name="learn-more-trigger">recumandaziuns</a> da { -brand-product-name } per segirezza,
-    prestaziun e funcziunalitad maximala.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Tschertas da questas recumandaziuns èn persunalisadas. Ellas sa basan sin autras extensiuns installadas, preferenzas dal profil e statisticas davart l'utilisaziun.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message = Tschertas da questas recumandaziuns èn persunalisadas. Ellas sa basan sin autras extensiuns installadas, preferenzas dal profil e statisticas davart l'utilisaziun.
@@ -346,16 +326,9 @@ addon-detail-last-updated-label = Ultima actualisaziun
 addon-detail-homepage-label = Pagina d'internet
 addon-detail-rating-label = Valitaziun
 # Message for add-ons with a staged pending update.
-install-postponed-message = Questa extensiun vegn actualisada cura che { -brand-short-name } vegn reavià.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Questa extensiun vegn actualisada cura che { -brand-short-name } vegn reavià.
 install-postponed-button = Actualisar ussa
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Valità cun { NUMBER($rating, maximumFractionDigits: 1) } da 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -371,9 +344,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> è vegnì allontanà.
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -392,11 +362,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Permess en fanestras privatas
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Permess en fanestras privatas
 addon-detail-private-browsing-help = Sche permess ha questa extensiun access a tias activitads online en il modus privat. <a data-l10n-name="learn-more">Ulteriuras infurmaziuns</a>
 addon-detail-private-browsing-allow = Permetter
@@ -423,17 +388,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } recumonda mo extensiuns che correspundan a noss standards da segirezza e prestaziun
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Ina extensiun uffiziala, creada da Mozilla. Correspunda a standards da segirezza e stabilitad
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Questa extensiun è vegnida controllada per garantir noss standard da segirezza e performanza
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -460,9 +414,6 @@ recent-updates-heading = Ultimas actualisaziuns
 release-notes-loading = Chargiar…
 release-notes-error = Perstgisa, ma cun chargiar las remartgas davart la versiun è succedida ina errur.
 addon-permissions-empty2 = Questa extensiun na pretenda naginas permissiuns.
-addon-permissions-empty = Questa extensiun na pretenda naginas autorisaziuns
-addon-permissions-required = Permissiuns necessarias per las funcziunalitads centralas:
-addon-permissions-optional = Permissiuns facultativas per funcziunalitads supplementaras:
 addon-permissions-learnmore = Vegnir a savair dapli davart permissiuns
 recommended-extensions-heading = Extensiuns recumandadas
 recommended-themes-heading = Designs recumandads
@@ -496,39 +447,18 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } n'è betg cumpatibel cun { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } n'è betg cumpatibel cun { -brand-short-name } { $version }.
-details-notification-incompatible-link = Ulteriuras infurmaziuns
-details-notification-unsigned-and-disabled = Impussibel da verifitgar { $name } per l'utilisaziun en { -brand-short-name }. Il suplement è vegnì deactivà.
 details-notification-unsigned-and-disabled2 =
     .message = Impussibel da verifitgar { $name } per l'utilisaziun en { -brand-short-name }. Il suplement è vegnì deactivà.
-details-notification-unsigned-and-disabled-link = Ulteriuras infurmaziuns
-details-notification-unsigned = Impussibel da verifitgar { $name } per l'utilisaziun en { -brand-short-name }. Cuntinuar cun precauziun.
 details-notification-unsigned2 =
     .message = Impussibel da verifitgar { $name } per l'utilisaziun en { -brand-short-name }. Cuntinuar cun precauziun.
 details-notification-hard-blocked-extension =
     .message = Questa extensiun è bloccada pervia da la violaziun da directivas da Mozilla ed è vegnida deactivada.
 details-notification-hard-blocked-other =
     .message = Quest supplement è bloccà pervia da la violaziun da directivas da Mozilla ed è vegnì deactivà.
-details-notification-unsigned-link = Ulteriuras infurmaziuns
-details-notification-blocked = { $name } è vegnì deactivà pervia da problems da segirezza u da stabilitad.
 details-notification-blocked-link2 = Mussar ils detagls
-details-notification-soft-blocked-extension-disabled =
-    .message = Questa extensiun è suttamessa a limitaziuns pervia da la violaziun da las directivas da Mozilla ed è vegnida deactivada. Ti pos l’activar, ma quai po esser ristgus.
-details-notification-soft-blocked-extension-enabled =
-    .message = Questa extensiun violescha las directivas da Mozilla. L’utilisaziun po esser ristgusa.
-details-notification-soft-blocked-other-disabled =
-    .message = Quest supplement è suttamess a limitaziuns pervia da la violaziun da las directivas da Mozilla ed è vegnì deactivà. Ti pos al activar, ma quai po esser ristgus.
-details-notification-soft-blocked-other-enabled =
-    .message = Quest supplement violescha las directivas da Mozilla. L’utilisaziun po esser ristgusa.
 details-notification-softblocked-link2 = Mussar ils detagls
-details-notification-blocked-link = Dapli infurmaziuns
-details-notification-softblocked = { $name } po chaschunar problems da segirezza u da stabilitad.
-details-notification-softblocked-link = Ulteriuras infurmaziuns
-details-notification-gmp-pending = { $name } vegn installà en curt mument.
 details-notification-gmp-pending2 =
     .message = { $name } vegn installà en curt mument.
 

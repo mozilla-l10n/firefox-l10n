@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = Viŝi historion
 sidebar-history-sort-by-heading-menucaption =
     .label = Ordigi laŭ:
-sidebar-history-sort-by-heading = Ordigi laŭ:
 sidebar-history-sort-option-date =
     .label = Dato
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Etendaĵoj por la flanka strio
-sidebar-customize-firefox-tools-header =
-    .label = Iloj de { -brand-product-name }
 sidebar-customize-firefox-settings = Administri agordojn de { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Vertikalaj langetoj
 sidebar-settings2 =
     .label = Agordoj
-sidebar-settings =
-    .label = Agordoj de la flanka strio
 sidebar-hide-tabs-and-sidebar =
     .label = Kaŝi langetojn kaj flankan strion
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Administri etendaĵon
-sidebar-context-menu-remove-extension =
-    .label = Forigi etendaĵon
 sidebar-context-menu-report-extension =
     .label = Denunci etendaĵon
 sidebar-context-menu-open-in-tab =

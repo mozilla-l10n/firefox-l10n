@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Cluaisín Nua
-newtab-settings-button =
-    .title = Saincheap an Leathanach do Chluaisín Nua
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Saincheap an leathanach seo
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = Cur in Oiriúint é
 newtab-customize-panel-label =
     .label = Cur in Oiriúint é
-newtab-personalize-settings-icon-label =
-    .aria-label = Socruithe
-    .title = Cluaisín Nua a chur in Oiriúint
 newtab-settings-dialog-label =
     .aria-label = Socruithe
-newtab-personalize-icon-label =
-    .aria-label = Cuir an chluaisín nua in oiriúint duit féin
-    .title = Cuir an chluaisín nua in oiriúint duit féin
-newtab-personalize-dialog-label =
-    .aria-label = Cuir in oiriúint duit féin é
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
@@ -213,7 +203,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Cuir Inneall Cuardaigh Leis
 newtab-topsites-add-shortcut-header = Aicearra Nua
-newtab-topsites-edit-topsites-header = Cuir an Barrshuíomh in Eagar
 newtab-topsites-edit-shortcut-header = Cuir an tAicearra in Eagar
 newtab-topsites-add-shortcut-label = Cuir Aicearra leis
 newtab-topsites-add-shortcut-title =
@@ -254,20 +243,12 @@ newtab-topsite-sponsored = Urraithe
 newtab-menu-section-tooltip =
     .aria-label = Oscail roghchlár
     .title = Oscail roghchlár
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Bain
-    .title = Bain
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Oscail roghchlár comhthéacs i gcomhair { $title }
     .title = Oscail roghchlár
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Cuir an suíomh seo in eagar
-    .title = Cuir an suíomh seo in eagar
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -278,11 +259,7 @@ newtab-menu-dismiss = Ruaig
 newtab-menu-pin = Pionnáil
 newtab-menu-unpin = Díphionnáil
 newtab-menu-delete-history = Scrios ón Stair
-newtab-menu-save-to-pocket = Sábháil in { -pocket-brand-name }
-newtab-menu-delete-pocket = Scrios ó { -pocket-brand-name } é
-newtab-menu-archive-pocket = Cuir sa chartlann in { -pocket-brand-name } é
 newtab-menu-show-privacy-info = Ár n-urraitheoirí agus do phríobháideacht
-newtab-menu-about-fakespot = Maidir le { -fakespot-brand-name }
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Déan Tuairisc
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -293,14 +270,6 @@ newtab-menu-section-block = Cuir bac air
 newtab-menu-section-unfollow-topic = Ná lean
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Tuilleadh eolais
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = Ná lean an topaic
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Déanta
-newtab-privacy-modal-header = Is rud tábhachtach é do phríobháideacht.
 
 ##
 
@@ -333,19 +302,9 @@ newtab-label-download = Íoslódáilte
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Urraithe
 
-## Section Menu: These strings are displayed in the section context menu and are
-## meant as a call to action for the given section.
-
-newtab-section-menu-add-search-engine = Cuir Inneall Cuardaigh Leis
-newtab-section-menu-move-up = Bog Suas
-newtab-section-menu-move-down = Bog Síos
-
 ## Section Headers.
 
 newtab-section-header-topsites = Barrshuímh
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Molta ag { $provider }
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -357,32 +316,12 @@ newtab-discovery-empty-section-topstories-header = Níl aon scéal eile ann!
 newtab-carousel-previous =
     .aria-label = Roimhe seo
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Topaicí i mbéal an phobail:
-newtab-pocket-more-recommendations = Tuilleadh Moltaí
-newtab-pocket-cta-button = Faigh { -pocket-brand-name }
-newtab-pocket-save = Sábháil
-newtab-pocket-saved = Sábháilte
-
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Aicearraí
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Suímh a shábháil tú nó a thugann tú cuairt orthu
     .label = Aicearraí
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } ró
-        [two] { $num } ró
-        [few] { $num } ró
-        [many] { $num } ró
-       *[other] { $num } ró
-    }
 newtab-custom-widget-weather-toggle =
     .label = Aimsir
 newtab-custom-widget-lists-toggle =
@@ -445,7 +384,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Athraigh go Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Athraigh go Celsius
-newtab-weather-menu-hide-weather = Folaigh an aimsir ar an gCluaisín Nua
 newtab-weather-opt-in-not-now =
     .label = Ní anois
 newtab-weather-opt-in-yes =
@@ -492,7 +430,6 @@ newtab-section-blocked-button = Bactha
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = Ní anois
 newtab-section-block-cancel-button = Cealaigh
 
 ## Strings for custom wallpaper highlight

@@ -37,8 +37,6 @@ appmenuitem-extensions-and-themes =
     .label = الامتدادات والسمات
 appmenuitem-extensions =
     .label = الامتدادات
-appmenuitem-addons-and-themes =
-    .label = الإضافات والسمات
 appmenuitem-print =
     .label = اطبع…
 appmenuitem-find-in-page =
@@ -148,7 +146,6 @@ fxa-menu-get-firefox-mobile =
     .label = احصل على { -brand-product-name } لنظامي أندرويد أو iOS
 fxa-menu-secure-sync-subpanel =
     .title = مزامنة آمنة
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = الحساب
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -164,15 +161,6 @@ appmenuitem-save-page =
     .label = احفظ الصفحة باسم…
 appmenuitem-fxa-sync-off-title = التزامن متوقف
 appmenuitem-fxa-sync-off-description = احمِ و اطلع على علاماتك وكلمات سرك والمزيد في أي مكان.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = ما الجديد
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = أعلِمني بالميزات الجديدة
-    .accesskey = ع
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -309,8 +297,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = معلومات أكثر عن مواجهة الأعطال
     .accesskey = ه
-appmenu-help-report-site-issue =
-    .label = أبلغ عن مشكلة بالموقع…
 appmenu-help-share-ideas =
     .label = شارك الأفكار والتعليقات...
     .accesskey = ك
@@ -364,7 +350,6 @@ appmenuitem-services-relay-description = إطلاق لوحة معلومات أق
 appmenuitem-vpn-description5 = احصل على حماية إضافية عبر جميع الأجهزة
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = احصل على حماية كاملة للجهاز
-appmenuitem-vpn-description = احمِ نشاطك على الإنترنت
 appmenu-services-header = خدماتي
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -374,7 +359,6 @@ appmenu-other-protection-header3 = أدوات الخصوصية
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = جرّب أدوات الحماية الأخرى من Mozilla:
-appmenu-other-protection-header = جرّب أدوات حماية أخرى من { -vendor-short-name }:
 
 ## Profiles panel
 

@@ -32,10 +32,6 @@ security-software-name = Nume
 security-software-antivirus = Antivirus
 security-software-antispyware = Antispyware
 security-software-firewall = Firewall
-features-title = Funcționalități { -brand-short-name }
-features-name = Nume
-features-version = Versiune
-features-id = ID
 processes-title = Procese la distanță
 processes-type = Tip
 processes-count = Număr
@@ -61,7 +57,6 @@ app-basics-profile-dir =
         [linux] Directorul profilurilor
        *[other] Dosarul profilurilor
     }
-app-basics-enabled-plugins = Pluginuri activate
 app-basics-build-config = Configurația versiunii compilate
 app-basics-user-agent = Agent utilizator
 app-basics-os = SO
@@ -99,9 +94,6 @@ show-dir-label =
 environment-variables-title = Variabile de mediu
 environment-variables-name = Denumire
 environment-variables-value = Valoare
-experimental-features-title = Funcționalități experimentale
-experimental-features-name = Denumire
-experimental-features-value = Valoare
 modified-key-prefs-title = Preferințe importante modificate
 modified-prefs-name = Nume
 modified-prefs-value = Valoare
@@ -223,9 +215,6 @@ media-cdm-capabilities = Capabilități
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Pornește necriptat (Clear Lead)
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = Compatibil cu HDCP 2.2
 
 ##
 
@@ -402,8 +391,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Dezactivate de experiment
-fission-status-experiment-treatment = Activate de experiment
 fission-status-disabled-by-e10s-env = Dezactivate de mediu
 fission-status-enabled-by-env = Activate de mediu
 fission-status-disabled-by-env = Dezactivate de mediu
@@ -412,7 +399,6 @@ fission-status-disabled-by-default = Dezactivate implicit
 fission-status-enabled-by-user-pref = Activate de utilizator
 fission-status-disabled-by-user-pref = Dezactivate de utilizator
 fission-status-disabled-by-e10s-other = Dezactivate de E10s
-fission-status-enabled-by-rollout = Activat prin lansare etapizată
 async-pan-zoom = Panoramare/zoom asincron(ă)
 apz-none = fără
 wheel-enabled = intrare pentru rotița mouse-ului activată

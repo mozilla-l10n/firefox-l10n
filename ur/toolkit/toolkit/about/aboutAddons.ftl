@@ -126,15 +126,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = محفوظ موڈ کے تحت تمام ایڈ اون نا اہل ہیں۔
-extensions-warning-check-compatibility = ایڈ اون موازنت کی پڑتال نا اہل ہے۔ آپ کے پاس غیر موازن ایڈ اون ہو سکتے ہیں۔
-extensions-warning-safe-mode2 =
-    .message = محفوظ موڈ کے تحت تمام ایڈ اون نا اہل ہیں۔
 extensions-warning-check-compatibility2 =
     .message = ایڈ اون موازنت کی پڑتال نا اہل ہے۔ آپ کے پاس غیر موازن ایڈ اون ہو سکتے ہیں۔
 extensions-warning-check-compatibility-button = اہل بنائیں
     .title = ایڈ اون موازنت پڑتال اہل بنائیں
-extensions-warning-update-security = ایڈ اون سلامتی پڑتال نا اہل ہے۔ آپ کو تازہ کاریوں سے مسلہ ہو سکتا ہے۔
 extensions-warning-update-security2 =
     .message = ایڈ اون سلامتی پڑتال نا اہل ہے۔ آپ کو تازہ کاریوں سے مسلہ ہو سکتا ہے۔
 extensions-warning-update-security-button = اہل بنائیں
@@ -292,24 +287,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } { -brand-short-name } { $version } کے ساتھ غیر موازن ہے۔
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } { -brand-short-name } { $version } کے ساتھ غیر موازن ہے۔
-details-notification-unsigned-and-disabled = { $name } { -brand-short-name } میں استعمال کے لیے تصدیق شدہ نہیں ہے اور نااہل بنا دیا گیا ہے۔
 details-notification-unsigned-and-disabled2 =
     .message = { $name } { -brand-short-name } میں استعمال کے لیے تصدیق شدہ نہیں ہے اور نااہل بنا دیا گیا ہے۔
-details-notification-unsigned-and-disabled-link = مزید معلومات
-details-notification-unsigned = { $name } کی { -brand-short-name } میں استعمال کے لیے تصدیق نہیں ہو سکی۔ احتیاط سے آگے بڑھیں۔
 details-notification-unsigned2 =
     .message = { $name } کی { -brand-short-name } میں استعمال کے لیے تصدیق نہیں ہو سکی۔ احتیاط سے آگے بڑھیں۔
-details-notification-unsigned-link = مزید معلومات
-details-notification-blocked = { $name } سلامتی یا سٹبلٹی مسائل کی بناہ پر نا اہل کر دیا گیا ہے۔
-details-notification-blocked-link = مزید معلومات
-details-notification-softblocked = { $name } سلامتی یا سٹبلٹی مسائل پیدا کرنے کی وجہ سے جانا جاتا ہے۔
-details-notification-softblocked-link = مزید معلومات
-details-notification-gmp-pending = { $name } ابھی تنصیب ہو جائے گا۔
 details-notification-gmp-pending2 =
     .message = { $name } ابھی تنصیب ہو جائے گا۔
 

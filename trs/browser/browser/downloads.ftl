@@ -26,8 +26,6 @@ downloads-cmd-cancel-panel =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = Na'ni' ña mā sa naduni'
 downloads-cmd-retry =
     .tooltiptext = A'ngo ñun
 downloads-cmd-retry-panel =

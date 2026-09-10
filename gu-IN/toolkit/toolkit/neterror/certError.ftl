@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = પ્રમાણપત્ર વિશ્�
 cert-error-trust-signature-algorithm-disabled = પ્રમાણપત્ર વિશ્ર્વાસપાત્ર નથી કારણ કે તે હસ્તાક્ષર અલ્ગોરિધમની મદદથી હસ્તાક્ષર થયેલ હતુ કે જે નિષ્ક્રિય થયેલ છે કારણ કે અલ્ગોરિધમ સુરક્ષિત નથી.
 cert-error-trust-expired-issuer = પ્રમાણપત્ર વિશ્વાસુ નથી કારણ કે પ્રમાણપત્ર અદા કરનાર નિવૃત્ત થઈ ગયેલ છે.
 cert-error-trust-self-signed = પ્રમાણપત્ર વિશ્વાસુ નથી કારણ કે  કારણ કે તે જાતે સહી થયેલ છે.
-cert-error-trust-symantec = GeoTrust, RapidSSL, સિમેન્ટેક, થવેટી અને VeriSign દ્વારા જારી કરાયેલા પ્રમાણપત્રો હવે લાંબા ગાળા માટે સલામત માનવામાં આવતાં નથી કારણ કે આ પ્રમાણપત્ર સત્તાવાળાઓ ભૂતકાળમાં સલામતીની રીતને અનુસરવામાં નિષ્ફળ રહ્યા હતા.
 cert-error-untrusted-default = પ્રમાણપત્ર વિશ્વાસુ સ્રથી આવતું નથી.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -53,10 +52,6 @@ cert-error-code-prefix-link = ભૂલ કોડ: <a data-l10n-name="error-code
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = { $hostname } ના જોડાણ દરમ્યાન ભૂલ આવી. { $errorMessage }
 # Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = વેબસાઇટ્સ પ્રમાણપત્રો દ્વારા તેમની ઓળખ સાબિત કરે છે, જે પ્રમાણપત્ર સત્તાવાળાઓ દ્વારા જાહેર કરવામાં આવે છે. મોટાભાગના બ્રાઉઝર્સ હવે GeoTrust, RapidSSL, Symantec, Thawte, અને VeriSign દ્વારા પ્રમાણિત પ્રમાણપત્રો પર વિશ્વાસ કરતા નથી. { $hostname } આ અધિકારીઓમાંથી એકમાંથી પ્રમાણપત્રનો ઉપયોગ કરે છે અને તેથી વેબસાઇટની ઓળખ સાબિત કરી શકાતી નથી.
-cert-error-symantec-distrust-admin = તમે વેબસાઇટના વ્યવસ્થાપકને આ સમસ્યાની જાણ કરી શકો છો.
-# Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP સખત પરિવહન સુરક્ષા: { $hasHSTS }
 # Variables:
@@ -91,7 +86,6 @@ proxyResolveFailure-title = પ્રોક્સી સર્વર શોધ�
 redirectLoop-title = પાનું યોગ્ય રીતે પુનઃદિશાકરણ વાપરી રહ્યું નથી
 unknownSocketType-title = સર્વરમાંથી અનિચ્છનિય પ્રત્યુત્તર
 nssFailure2-title = સુરક્ષિત જોડાણ નિષ્ફળ થયું
-corruptedContentError-title = બગડેલું વસ્તુ સંપાદક
 sslv3Used-title = સુરક્ષિત રીતે જોડાણ કરવામાં અસમર્થ
 inadequateSecurityError-title = તમારું જોડાણ સુરક્ષિત નથી
 blockedByPolicy-title = અવરોધિત પૃષ્ઠ

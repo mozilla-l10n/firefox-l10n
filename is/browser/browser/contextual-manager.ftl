@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Leita að lykilorðum
-    .key = F
     .aria-label = Leita að lykilorðum
+    .key = F
+    .placeholder = Leita að lykilorðum
 contextual-manager-menu-more-options-button =
     .title = Fleiri valkostir
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Flytja inn úr skrá...
 contextual-manager-passwords-command-export = Flytja út lykilorð
 contextual-manager-passwords-command-remove-all = Fjarlægja öll lykilorð
 contextual-manager-passwords-command-options = Valkostir
-contextual-manager-passwords-command-settings = Stillingar
 contextual-manager-passwords-command-help = Hjálp
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Lykilorð flutt inn
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Nýtt: { $added }, uppfært: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -219,8 +214,6 @@ contextual-manager-passwords-create-label =
     .label = Bæta við lykilorði
 contextual-manager-passwords-update-label =
     .label = Uppfæra lykilorð
-contextual-manager-passwords-edit-label =
-    .label = Breyta lykilorði
 contextual-manager-passwords-remove-label =
     .title = Fjarlægja lykilorð
 contextual-manager-passwords-origin-field =
@@ -236,7 +229,6 @@ contextual-manager-passwords-password-field-description = Settu inn lykilorðið
 contextual-manager-passwords-origin-tooltip = Sláðu inn nákvæma vistfangið þar sem þú skráir þig inn á þessa síðu.
 contextual-manager-passwords-username-tooltip = Settu inn notandanafn, tölvupóstfang eða númer reikningsins sem þú notar til að skrá þig inn.
 contextual-manager-passwords-password-tooltip-2 = Settu inn lykilorðið sem notað er til að skrá þig inn á þennan reikning.
-contextual-manager-passwords-password-tooltip = Sláðu inn lykilorðið sem notað er til að skrá þig inn á þennan reikning.
 
 ## Password Card
 
@@ -283,10 +275,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Afrita lykilorð (aðvörun)
 contextual-manager-edit-login-button = Breyta
     .tooltiptext = Breyta lykilorði
-contextual-manager-view-alert-heading =
-    .heading = Skoða aðvörun
-contextual-manager-view-alert-button =
-    .tooltiptext = Yfirfara aðvörun
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -315,13 +303,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Engin lykilorð fundust
 contextual-manager-passwords-no-passwords-found-message-2 = Prófaðu annað orð og leitaðu aftur.
-contextual-manager-passwords-no-passwords-found-message = Engin lykilorð fundust. Leitaðu með öðru leitarorði og reyndu aftur.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Vistaðu lykilorðin þín á öruggum stað.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Öll lykilorð eru dulrituð og við munum fylgjast með gagnabrotum og senda viðvaranir ef þú kemur við sögu í þeim.

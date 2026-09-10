@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Chomlec'hioù enrollet
 autofill-manage-addresses-list-header = Chomlec'hioù
-autofill-manage-credit-cards-title = Kartennoù kred enrollet
-autofill-manage-credit-cards-list-header = Kartennoù kred
 autofill-manage-payment-methods-title = Doareoù paeañ enrollet
 autofill-manage-cards-list-header = Kartennoù
 autofill-manage-dialog =
@@ -44,15 +42,10 @@ address-capture-open-menu-button =
     .aria-label = Digeriñ al lañser
 address-capture-edit-address-link = Aozañ ar chomlec’h
     .aria-label = Aozañ ar chomlec’h
-address-capture-edit-address-button =
-    .aria-label = Aozañ ar chomlec’h
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Ouzhpennañ ur chomlec’h
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Embann ar chomlec'h
-autofill-address-given-name = Anv bihan
-autofill-address-additional-name = Anv kreiz
-autofill-address-family-name = Anv familh
 autofill-address-name = Anv
 autofill-address-organization = Aozadur
 autofill-address-street-address = Chomlec’h
@@ -100,8 +93,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Ouzhpennañ ur chomlec'h nevez
 autofill-address-country = Bro pe Rannvro
 autofill-address-country-only = Bro
 autofill-address-tel = Pellgomz
@@ -109,18 +100,6 @@ autofill-address-email = Chomlec'h postel
 autofill-cancel-button = Nullañ
 autofill-save-button = Enrollañ
 autofill-country-warning-message = Leuniañ emgefreek ar furmskridoù a zo hegerz evit chomlec'hioù broioù ’zo hepken
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Ouzhpennañ ar gartenn gred
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Embann ar gartenn gred
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] diskouez titouroù ar gartenn-gred
-        [windows] { -brand-short-name } a glask diskouez titouroù ur gartenn vank. Kadarnait an haeziñ d'ar gont Windows dindan.
-       *[other] { -brand-short-name } a glask diskouez titouroù ur gartenn vank.
-    }
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Ouzhpennañ ur gartenn
 # The dialog title for editing credit cards in browser preferences.
@@ -138,15 +117,3 @@ autofill-card-expires-month = Miz diamzeriñ
 autofill-card-expires-year = Bloaz diamzeriñ
 autofill-card-billing-address = Chomlec'h fakturenniñ
 autofill-card-network = Rizh kartenn
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

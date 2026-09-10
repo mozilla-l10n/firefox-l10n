@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = عرض التصفح الأخير عبر النوافذ والأجهزة
@@ -16,40 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = أغلِق
-    .aria-label = أغلِق
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = منذ لحظات
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = التقاط اللسان
-firefoxview-tabpickup-description = افتح الصفحات من الأجهزة الأخرى.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = اكتمل { $percentValue }٪
-firefoxview-tabpickup-step-signin-header = بدِّل بسلاسة بين الأجهزة
-firefoxview-tabpickup-step-signin-description = للحصول على ألسنة هاتفك هنا، لِج أولاً أو أنشئ حساب.
-firefoxview-tabpickup-step-signin-primarybutton = واصِل
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } الخاص بك على جميع أجهزتك
 firefoxview-syncedtabs-signin-description-2 = لرؤية الألسنة المفتوحة على هاتفك وعلى الأجهزة الأخرى، لِج أو سجِّل حساب. باستخدام الحساب، يمكنك أيضًا مزامنة كلمات السر، والتأريخ، وغير ذلك.
 firefoxview-syncedtabs-signin-primarybutton-2 = لج
-firefoxview-tabpickup-adddevice-header = زامن { -brand-product-name } على هاتفك أو جهازك اللوحي
-firefoxview-tabpickup-adddevice-description = نزّل { -brand-product-name } للجوال ولِج من هناك.
-firefoxview-tabpickup-adddevice-learn-how = اطّلع على الطريقة
-firefoxview-tabpickup-adddevice-primarybutton = احصل على { -brand-product-name } للجوال
 firefoxview-syncedtabs-adddevice-header-2 = اسحب الألسنة من أي مكان
 firefoxview-syncedtabs-adddevice-description-2 = لِج إلى { -brand-product-name } على هاتفك أو على حاسوب آخر لرؤية الألسنة هنا. تعرَّف على كيفية <a data-l10n-name="url">ربط أجهزة إضافية</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = جرّب { -brand-product-name } للجوال
-firefoxview-tabpickup-synctabs-header = فعّل مزامنة اللسان
-firefoxview-tabpickup-synctabs-description = اسمح لـ{ -brand-short-name } بمشاركة الألسنة بين الأجهزة.
-firefoxview-tabpickup-synctabs-learn-how = اطّلع على الطريقة
 firefoxview-tabpickup-synctabs-primarybutton = زامن الألسنة المفتوحة
 firefoxview-syncedtabs-synctabs-header = تحديث إعداداتك للمزامنة
 firefoxview-syncedtabs-synctabs-description = لرؤية الألسنة من أجهزة أخرى، يتعين عليك مزامنة ألسنتك المفتوحة.
 firefoxview-syncedtabs-loading-header = جارً المزامنة
 firefoxview-syncedtabs-loading-description = عند الانتهاء، سترى أي ألسنة مفتوحة على أجهزة أخرى. تحقق مرة أخرى قريبًا.
 firefoxview-tabpickup-fxa-admin-disabled-header = عُطّلت منظّمتك المزامنة
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } غير قادر على مزامنة الألسنة بين الأجهزة لأن مسؤولك عطّل المزامنة.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } غير قادر على مزامنة ألسنتك بين الأجهزة لأن منظّمتك عطّلت المزامنة.
 firefoxview-tabpickup-network-offline-header = تحقَّق من اتصالك بالإنترنت
 firefoxview-tabpickup-network-offline-description = إذا كنت تستخدم جدار حماية أو وكيلًا، فتأكد من أن { -brand-short-name } لديه إذن للوصول إلى الوب.
@@ -66,37 +43,16 @@ firefoxview-tabpickup-password-locked-link = اطّلع على المزيد
 firefoxview-tabpickup-password-locked-primarybutton = أدخل كلمة السر الرئيسية
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">اطّلع على المزيد</a>
 firefoxview-tabpickup-signed-out-header = لِج لإعادة الاتصال
-firefoxview-tabpickup-signed-out-description = لإعادة الاتصال والحصول على ألسنتك، لِج إلى { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = لإعادة الاتصال واسترجاع ألسنتك، لِج إلى حسابك.
 firefoxview-tabpickup-signed-out-primarybutton = لِج
-firefoxview-tabpickup-syncing = انتظر بينما تتزامن ألسنتك. سننتهي خلال لحظة.
-firefoxview-mobile-promo-header = خذ الألسنة من هاتفك أو جهازك اللوحي
-firefoxview-mobile-promo-description = لعرض أحدث ألسنة هاتفك، لِج إلى { -brand-product-name } في iOS أو Android.
-firefoxview-mobile-promo-primarybutton = نزّل { -brand-product-name } للجوال
-firefoxview-mobile-confirmation-header = جاهز! 🎉
-firefoxview-mobile-confirmation-description = بات بإمكانك الآن جلب ألسنة { -brand-product-name } من جهازك اللوحي أو هاتفك.
-firefoxview-closed-tabs-title = المُغلقة حديثًا
-firefoxview-closed-tabs-description2 = أعِد فتح الصفحات التي أغلقتها في هذه النافذة.
-firefoxview-closed-tabs-placeholder-header = لا ألسنةً مغلقةً حديثًا
-firefoxview-closed-tabs-placeholder-body = عندما تغلق لسانًا في هذه النافذة، يمكنك جلبه من هنا.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = تجاهَل { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = آخر نشاط
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = افتح { $targetURI } في لسان جديد
-firefoxview-try-colorways-button = جرِّب التلاوين
-firefoxview-change-colorway-button = غيّر التلاوين
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = لا شيء لرؤيته بعد
-firefoxview-synced-tabs-placeholder-body = في المرة القادمة التي تفتح فيها صفحة في { -brand-product-name } على جهاز آخر، اجلبها هنا بطريقة سحرية.
 firefoxview-collapse-button-show =
     .title = اعرض القائمة
 firefoxview-collapse-button-hide =

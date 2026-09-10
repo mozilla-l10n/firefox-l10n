@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Показване в папката
            *[other] Показване в папката
         }
-downloads-cmd-show-downloads =
-    .label = Отваряне на папка Изтегляния
 downloads-cmd-retry =
     .tooltiptext = Повторен опит
 downloads-cmd-retry-panel =

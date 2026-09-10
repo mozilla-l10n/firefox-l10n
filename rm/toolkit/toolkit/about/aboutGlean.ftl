@@ -49,7 +49,6 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-additional-links = Ina explicaziun da las differentas modas da registrar e chattar datas sa chatta en il tab <strong>About Data</strong>.
-about-glean-about-testing-header = Davart ils tests
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     Las instrucziuns cumplettas èn nudadas en la
@@ -58,8 +57,6 @@ about-glean-manual-testing =
     ma qua la resumaziun da las instrucziuns per testar manualmain che l'instrumentaziun funcziuna:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (na trametter nagin ping)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Fa la segira ch'il champ precedent cuntegnia in tag da debugadi facil da tegnair endament per che ti reconuschias pli tard tes pings.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Definir in tag da debugadi facil da tegnair endament <span>(20 caracters u main, mo numers, letras e «-»)</span> per che ti possias reconuscher pli tard tes pings.
 # An in-line drop down list precedes this string.
@@ -87,13 +84,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Visita la pagina da { glean-debug-ping-viewer-brand-name } per pings cun tes tag</a>.
     I na duess betg cuzzar dapli ch'in pèr secundas tranter il mument che ti smatgas il buttun enfin che tes ping arriva.
     Mintgatant poi durar in pèr minutas.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    Per ulteriurs tests <i>ad hoc</i>,
-    pos ti era determinar la valur actuala dad in toc specific da l'instrumentaziun
-    cun avrir la consola dals utensils per sviluppaders qua en <code>about:glean</code>
-    ed utilisar l'API <code>testGetValue()</code> sco suonda:
-    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     Per ulteriurs tests <i>ad hoc</i>,
@@ -140,6 +130,3 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Per registrar in profil da la prestaziun e vesair tut las metricas registradas, per plaschair utilisar il
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
-about-glean-about-data-explanation =
-    Per sfegliar en la glista da las datas rimnadas, per plaschair consultar il 
-    <a data-l10n-name="glean-dictionary-link">dicziunari da { -glean-brand-name }</a>.

@@ -39,16 +39,6 @@ about-networking-dns-lookup = Kërkim DNS
 about-networking-dns-lookup-button = Kryeje
 about-networking-dns-domain = Përkatësi:
 about-networking-dns-lookup-table-column = IP-ra
-about-networking-rcwn = Gjendje RCWN
-about-networking-rcwn-status = Gjendje RCWN
-about-networking-total-network-requests = Numër gjithsej kërkesash rrjeti
-about-networking-rcwn-operation = Veprim Fshehtine
-about-networking-rcwn-perf-open = Hape
-about-networking-rcwn-perf-read = Lexim
-about-networking-rcwn-perf-write = Shkrim
-about-networking-rcwn-perf-entry-open = Mesatare e Shkurtër
-about-networking-rcwn-avg-short = Mesatare e Shkurtër
-about-networking-rcwn-avg-long = Mesatare e Gjerë
 about-networking-networkid = ID Rrjeti
 about-networking-networkid-id = ID Rrjeti
 # Note: do not translate about:logging, as it is a URL.

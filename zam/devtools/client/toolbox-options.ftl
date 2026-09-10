@@ -24,8 +24,6 @@ options-sourceeditor-label = tùs kùe=y sá lás lú
 
 ## Advanced section
 
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Disable JavaScript *
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

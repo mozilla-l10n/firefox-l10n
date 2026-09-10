@@ -16,18 +16,3 @@ recently-closed-menu-reopen-all-windows = Digeriñ en-dro an holl brenestroù
 
 recently-closed-panel-reopen-all-tabs = Digeriñ en-dro an holl ivinelloù
 recently-closed-panel-reopen-all-windows = Digeriñ en-dro an holl prenestroù
-
-##
-
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [one] { $winTitle } (ha { $tabCount } ivinell all)
-        [two] { $winTitle } (ha { $tabCount } ivinell all)
-        [few] { $winTitle } (ha { $tabCount } ivinell all)
-        [many] { $winTitle } (ha { $tabCount } a ivinelloù all)
-       *[other] { $winTitle } (ha { $tabCount } ivinell all)
-    }

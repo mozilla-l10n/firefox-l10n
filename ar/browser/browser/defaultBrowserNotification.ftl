@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = فليكن { -brand-short-name } في مت�
 default-browser-prompt-message-pin-msix = فليكن { -brand-short-name } في متناول يديك — اضبطه ليكون المتصفح المبدئي وثبّته في شريط المهام و قائمة البدء.
 default-browser-prompt-message-pin-mac = أبقِ { -brand-short-name } في متناول يديك — اضبطه ليكون المتصفح المبدئي وضَعه في الرصف.
 default-browser-prompt-button-primary-set = اضبطه ليكون المتصفّح الأساسي
-default-browser-prompt-button-primary-pin = اضبطه ليكون المتصفّح الأساسي
 default-browser-prompt-title-alt = أتريد ضبط { -brand-short-name } ليكون متصفّحك المبدئي؟
 default-browser-prompt-message-alt = تحصّل على السرعة والأمان والخصوصية في كل مرة تتصفح فيها.
 default-browser-prompt-button-primary-alt = اضبطه ليكون المتصفّح المبدئي

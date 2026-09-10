@@ -10,9 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = { $extension } என்பதைச் சேர்க்கவா?
 webext-perms-sideload-header = { $extension } சேர்க்கப்பட்டது
-webext-perms-optional-perms-header = { $extension } கூடுதல் அனுமதிகளைக் கோருகிறது.
 
 ##
 
@@ -45,21 +43,5 @@ webext-perms-host-description-all-urls = அனைத்து தளங்க�
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } களத்தில் உள்ள தளங்களுக்கான உங்கள் தரவை அணுக
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] { $domainCount } பிற களத்தில் உங்கள் தரவை அணுகவும்
-       *[other] { $domainCount } பிற களங்களில் உங்கள் தரவை அணுகவும்
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } என்பதற்கான உங்கள் தரவை அணுக
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] { $domainCount } பிற தளத்தில் உங்கள் தரவை அணுகவும்
-       *[other] { $domainCount } பிற தளங்களில் உங்கள் தரவை அணுகவும்
-    }

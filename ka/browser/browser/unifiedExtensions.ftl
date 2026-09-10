@@ -36,9 +36,6 @@ unified-extensions-item-message-manage = გაფართოების მ�
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = { $extensionName } შეზღუდულია. მისი გამოყენება სახიფათო შესაძლოა იყოს.
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName } არღვევს Mozilla-ს დებულებებს. მისი გამოყენება შეიძლება სახიფათო იყოს.
 
 ## Extension's context menu
 
@@ -57,8 +54,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = ზოგიერთი გაფართოება არაა ნებადართული
-unified-extensions-mb-quarantined-domain-message = მხოლოდ ზოგიერთი გაფართოება, რომელთაც { -vendor-short-name } ზედამხედველობს, ნებადართულია ამ საიტზე თქვენი მონაცემების უსაფრთხოებისთვის.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = ზოგიერთი გაფართოება არაა ნებადართული
@@ -74,13 +69,6 @@ unified-extensions-mb-blocklist-warning-single2 =
         ეს გაფართოება შეიზღუდა და გაითიშულია.
         მისი ჩართვა შეგიძლიათ პარამეტრებიდან, მაგრამ შესაძლოა, სახიფათო იყოს.
 # Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } ამორთულია
-    .message =
-        გაფართოება არღვევს Mozilla-ს დებულებებს.
-        მისი გამოყენება შესაძლოა სახიფათო იყოს.
-# Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } ამორთულია
@@ -95,16 +83,6 @@ unified-extensions-mb-blocklist-warning-multiple2 =
         }
     .message =
         თქვენი ზოგიერთი გაფართოება შეიზღუდა და ამორთულია.
-        მათი ჩართვა შეგიძლიათ პარამეტრებიდან, მაგრამ შესაძლოა, სახიფათო იყოს.
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-           *[other] { $extensionsCount } გაფართოება ამორთულია
-        }
-    .message =
-        ზოგიერთი გაფართოება ამორთულია Mozilla-ს დებულებების დარღვევის გამო.
         მათი ჩართვა შეგიძლიათ პარამეტრებიდან, მაგრამ შესაძლოა, სახიფათო იყოს.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.

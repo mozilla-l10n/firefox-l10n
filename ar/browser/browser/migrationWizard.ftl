@@ -19,11 +19,6 @@ migration-wizard-selection-option-without-profile = { $sourceBrowser }
 #  $sourceBrowser (String): the name of the browser to import from.
 #  $profileName (String): the name of the user profile to import from.
 migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
-
-# Each migrator is expected to include a display name string, and that display
-# name string should have a key with "migration-wizard-migrator-display-name-"
-# as a prefix followed by the unique identification key for the migrator.
-
 migration-wizard-migrator-display-name-brave = Brave
 migration-wizard-migrator-display-name-canary = كروم كناري
 migration-wizard-migrator-display-name-chrome = كروم
@@ -75,7 +70,6 @@ migration-bookmarks-option-label = العلامات
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = المفضّلة
-migration-logins-and-passwords-option-label = جلسات الولوج وكلمات السر المحفوظة
 migration-passwords-option-label = كلمات السر المحفوظة
 migration-history-option-label = تأريخ التصفح
 migration-extensions-option-label = الامتدادات
@@ -176,8 +170,6 @@ migration-chrome-windows-password-import-step3 = اختر "نزّل الملف" 
 migration-manual-password-import-skip-button = تخطَّ
 migration-manual-password-import-cancel-button = ألغِ
 migration-manual-password-import-select-button = اختر ملفًا
-migration-safari-password-import-skip-button = تخطَّ
-migration-safari-password-import-select-button = اختر ملفًا
 
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible

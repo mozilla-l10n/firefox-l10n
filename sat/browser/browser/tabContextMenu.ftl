@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ
-    .accesskey = ᱱ
 reload-tab =
     .label = ᱴᱮᱵᱽ ᱞᱟᱫᱮ ᱫᱚᱦᱲᱟ
     .accesskey = ᱫ
@@ -82,10 +79,6 @@ tab-context-close-duplicate-tabs =
 tab-context-share-url =
     .label = ᱦᱟᱹᱴᱤᱧ ᱢᱮ
     .accesskey = ᱦ
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -113,12 +106,3 @@ tab-context-move-tabs =
            *[other] ᱴᱮᱵᱽ ᱠᱚ ᱩᱪᱟᱹᱲ ᱢᱮ
         }
     .accesskey = ᱪ
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [1] ᱴᱮᱵᱽ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
-            [one] ᱴᱮᱵᱽ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
-            [two] ᱴᱮᱵᱽ ᱠᱤᱱ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
-           *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
-        }
-    .accesskey = ᱥ

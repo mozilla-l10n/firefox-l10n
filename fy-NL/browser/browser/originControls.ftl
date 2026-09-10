@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Utwreiding kin gjin gegevens lêze en wizigje
-origin-controls-quarantined =
-    .label = Utwreiding mei gjin gegevens lêze en wizigje
 origin-controls-quarantined-status =
     .label = Utwreiding net tastien op beheinde websites
 origin-controls-quarantined-allow =

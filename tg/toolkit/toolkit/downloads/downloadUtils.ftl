@@ -92,11 +92,5 @@ download-utils-time-left-single = { $time } боқӣ мондааст
 download-utils-time-left-double = { $time1 } { $time2 } боқӣ мондааст
 download-utils-time-few-seconds = Якчанд сония боқӣ мондааст
 download-utils-time-unknown = Вақти номуайян боқӣ мондааст
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = Манбаи { $scheme }
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = файли маҳаллӣ
 # Displayed time for files finished yesterday
 download-utils-yesterday = Дирӯз

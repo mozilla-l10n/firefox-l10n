@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxviewtabrow-open-menu-button =
-    .title = Otvori meni
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
@@ -24,10 +22,6 @@ fxviewtabrow-dismiss-tab-button =
     .title = Odbaci { $tabTitle }
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Upravo sada
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-delete = Izbriši
     .accesskey = D
 fxviewtabrow-forget-about-this-site = Zaboravi na ovu stranicu…
@@ -53,8 +47,6 @@ fxviewtabrow-move-tab-end = Premjesti na kraj
     .accesskey = E
 fxviewtabrow-move-tab-window = Premjesti u novi prozor
     .accesskey = W
-fxviewtabrow-send-tab = Pošalji tab na uređaj
-    .accesskey = n
 fxviewtabrow-pin-tab = Zakači tab
     .accesskey = P
 fxviewtabrow-unpin-tab = Otkači tab

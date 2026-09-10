@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Wuwześa
     .style = min-width: 45em
+    .title = Wuwześa
 permissions-close-key =
     .key = w
 permissions-address = Adresa websedła
@@ -80,79 +80,64 @@ permissions-invalid-uri-label = Pšosym zapódajśo płaśiwe mě hosta
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Wuwześa za pólěpšony slědowański šćit
     .style = { permissions-window2.style }
+    .title = Wuwześa za pólěpšony slědowański šćit
 permissions-exceptions-manage-etp-desc = Móžośo pódaś, kótare websedła maju pólěpšony slědowański šćit znjemóžnjony. Zapódajśo eksaktnu adresu websedła, kótarež cośo zastojaś a klikniśo pón na Wuwześe pśidaś.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Wuwześa - cookieje a sedłowe daty
     .style = { permissions-window2.style }
+    .title = Wuwześa - cookieje a sedłowe daty
 permissions-exceptions-cookie-desc = Móžośo pódaś, kótare websedła směju pśecej abo njesměju nigda cookieje a sedłowe daty wužywaś. Zapišćo eksaktnu adresu sedła, kótarež cośo zastojaś a klikniśo pótom na Blokěrowaś, Za pósejźenje dowóliś abo Dowóliś.
 
 ## Exceptions - Clear on Shutdown
 
 permissions-exceptions-shutdown-clearing-window =
-    .title = Wuwześa – Historiju pśi kóńcenju lašowaś
     .style = { permissions-window2.style }
+    .title = Wuwześa – Historiju pśi kóńcenju lašowaś
 permissions-exceptions-shutdown-clearing-desc = Móžośo pódaś, kótare websedła swóje daty wobchowaju, gaž { -brand-short-name } historiju pśi zacynjanju lašujo. Zapódajśo eksaktnu adresu sedła, kótarež cośo zastojaś a klikniśo pón na Dowóliś.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Wuwześa - Modus Jano-HTTPS
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Móžóśo modus Jano-HTTPS za wěste websedła znjemóžniś. { -brand-short-name } njewopytajo, zwisk za te sedła na wěsty HTTPS aktualizěrowaś. Wuwześa za priwatne wokna njepłaśe.
+    .title = Wuwześa - Modus Jano-HTTPS
 permissions-exceptions-https-only-desc2 = Móžóśo modus Jano-HTTPS za wěste websedła znjemóžniś. { -brand-short-name } njewopytajo, zwisk za te sedła na wěsty HTTPS aktualizěrowaś.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
     .title = Dowólone websedła – wuskokujuce wokna a dalejpósrědnjenja tśeśich póbitowarjow
-    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = Móžośo póstajiś, kótare websedła směju wuskokujuce wokna wócyniś a se pśez wobłuki tśeśich póbitowarjow dalej pósrědniś.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Dowólone sedła - wuskokujuce wokna
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Móžośo pódaś, kótare websedła směju wuskokujuce wokna wócyniś. Zapišćo eksaktnu adresu sedła, kótarež cośo dowóliś a klikniśo pón na Dowóliś.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Wuwześa - skłaźone pśizjawjenja
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Pśizjawjenja za slědujuce sedła njebudu se składowaś
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Wuwześa - skłaźone gronidła
     .style = { permissions-window2.style }
+    .title = Wuwześa - skłaźone gronidła
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } njebuźo gronidła sedłow składowaś, kótarež su how nalicone.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Dowólone sedła - Instalacija dodankow
     .style = { permissions-window2.style }
+    .title = Dowólone sedła - Instalacija dodankow
 permissions-exceptions-addons-desc = Móžośo pódaś, kótare websedła směju dodanki instalěrowaś. Zapišćo eksaktnu adresu sedła, kótarež cośo dowóliś a klikniśo pón na Dowóliś.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Nastajenja - awtomatiske wótgraśe
     .style = { permissions-window2.style }
+    .title = Nastajenja - awtomatiske wótgraśe
 permissions-site-autoplay-desc = Móžośo sedła zastojaś, kótarež njamaju se how pó wašych standardnych nastajenjach awtomatiskego wótgraśa.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Nastajenja - zdźěleńske pšawa
     .style = { permissions-window2.style }
+    .title = Nastajenja - zdźěleńske pšawa
 permissions-site-notification-desc = Slědujuce websedła su pominali wam powěźeńki pósłaś. Móžośo pódaś, kótare websedła směju wam powěźeńki pósłaś. Móžośo teke nowe pominanja za dowólnosću powěźeńkow blokěrowaś.
 permissions-site-notification-disable-label =
     .label = Nowe pominanja za dowolnosću powěźeńkow blokěrowaś
@@ -161,8 +146,8 @@ permissions-site-notification-disable-desc = To buźo websedłam, kótarež gór
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Nastajenja - pšawa stojnišća
     .style = { permissions-window2.style }
+    .title = Nastajenja - pšawa stojnišća
 permissions-site-location-desc = Slědujuce websedła su pominali pśistup k wašomu městnoju. Móžośo pódaś, kótare websedła maju pśistup k wašomu městnoju. Móžośo teke nowe pominanja za pśistupom k wašomu městnoju blokěrowaś.
 permissions-site-location-disable-label =
     .label = Nowe pominanja za pśistupom na wašo městno blokěrowaś
@@ -171,8 +156,8 @@ permissions-site-location-disable-desc = To buźo websedłam, kótarež górjejc
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Nastajenja - pšawa za wirtuelnu realitu
     .style = { permissions-window2.style }
+    .title = Nastajenja - pšawa za wirtuelnu realitu
 permissions-site-xr-desc = Slědujuce websedła su pominali pśistup k wašym rědam wirtuelneje reality. Móžośo pódaś, kótare websedła maju pśistup k wašym rědam wirtuelneje reality. Móžośo teke nowe napšašanja za pśistupom k wašym rědam wirtuelneje reality blokěrowaś.
 permissions-site-xr-disable-label =
     .label = Nowe napšašanja za pśistupom k wašym rědam wirtuelneje reality
@@ -181,8 +166,8 @@ permissions-site-xr-disable-desc = To buźo websydłam, kótarež górjejce w li
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Nastajenja - pšawa kamery
     .style = { permissions-window2.style }
+    .title = Nastajenja - pšawa kamery
 permissions-site-camera-desc = Slědujuce websedła su pominali pśistup k wašej kamerje. Móžośo pódaś, kótare websedła maju pśistup k wašej kamerje. Móžośo teke nowe pominanja za pśistupom k wašej kamerje blokěrowaś.
 permissions-site-camera-disable-label =
     .label = Nowe pominanja za pśistupom na wašu kameru blokěrowaś
@@ -191,8 +176,8 @@ permissions-site-camera-disable-desc = To buźo websedłam, kótarež górjejce 
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = Nastajenja – Rědowe nałoženja a słužby
     .style = { permissions-window2.style }
+    .title = Nastajenja – Rědowe nałoženja a słužby
 permissions-site-localhost-desc = Toś te websedła su pšosyli wó pśistup k nałoženjam a słužbam na toś tom rěźe. Móžośo rozsuźiś, lěc sedłam dowólujośo abo zakazujośo to cyniś.
 permissions-site-localhost-disable-label =
     .label = Blokěrujśo nowe napšašowanja za pśistupom k nałoženjam a słužbam na toś tom rěźe
@@ -201,8 +186,8 @@ permissions-site-localhost-disable-desc = To tomu zajźujo, až websedła, kóta
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = Nastajenja – Rědy lokalneje seśi
     .style = { permissions-window2.style }
+    .title = Nastajenja – Rědy lokalneje seśi
 permissions-site-local-network-desc = Toś te websedła su pšosyli wó pśistup k nałoženjam a słužbam na rědach, kótarež su z wašeju lokalneju seśu WLAN zwězane. Móžośo rozsuźiś, lěc sedłam dowólujośo abo zakazujośo to cyniś.
 permissions-site-local-network-disable-label =
     .label = Blokěrujśo nowe napšašowanja za pśistupom k nałoženjam a słužbam na rědach, kótarež su z wašeju lokalneju seśu WLAN zwězane.
@@ -211,8 +196,8 @@ permissions-site-local-network-disable-desc = To tomu zajźujo, až websedła, k
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Nastajenja - pšawa mikrofona
     .style = { permissions-window2.style }
+    .title = Nastajenja - pšawa mikrofona
 permissions-site-microphone-desc = Slědujuce websedła su pominali pśistup k wašomu mikrofonoju. Móžośo pódaś, kótare websedła maju pśistup k wašomu mikrofonoju. Móžośo teke nowe pominanja za pśistupom k wašomu mikrofonoju blokěrowaś.
 permissions-site-microphone-disable-label =
     .label = Nowe pominanja za pśistupom na waš mikrofon blokěrowaś
@@ -223,12 +208,12 @@ permissions-site-microphone-disable-desc = To buźo websedłam, kótarež górje
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Nastajenja – pšawa głosnika
     .style = { permissions-window2.style }
+    .title = Nastajenja – pšawa głosnika
 permissions-site-speaker-desc = Slědujuce websedła su wó to pšosyli, aby rěd za awdiowudaśe wubrali. Móžośo pódaś, kótare websedła směju rěd za awdiowudaśe wubraś.
 permissions-exceptions-doh-window =
-    .title = Websedłowe wuwześa za DNS pśez HTTPS
     .style = { permissions-window2.style }
+    .title = Websedłowe wuwześa za DNS pśez HTTPS
 permissions-exceptions-manage-doh-desc = { -brand-short-name } njebuźo wěsty DNS na toś tych sedłach a jich póddomenach wužywaś.
 permissions-doh-entry-field = Zapódajśo domenowe mě websedła
     .accesskey = d

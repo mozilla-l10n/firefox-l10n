@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = { -vendor-short-name } 的更多產品
 more-from-moz-page-header =
     .heading = { -vendor-short-name } 的更多產品
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } 行動版
 more-from-moz-firefox-mobile-description = 把您的隱私權置於最優先的行動瀏覽器。
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } 行動版
 more-from-moz-firefox-mobile =
-    .label = { -brand-product-name } 行動版
     .description = 將您的隱私權視為最優先的行動瀏覽器。
+    .label = { -brand-product-name } 行動版
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = 探索更多一層的匿名上網與保護機制。
 more-from-moz-qr-code-box-firefox-mobile-title = 請掃描 QR Code，點擊出現的鏈結，即可使用您的行動裝置下載。
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = 取得 { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = 自動帶您收回曝光的個人資訊。
 more-from-moz-mozilla-monitor-global-description = 當您的個資遭到外洩時發出警報。
 more-from-moz-mozilla-monitor-button = 取得 { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = 即時建立您的個人網站，並且可免費使用您的個人網域。
 more-from-moz-solo-button = 試用 { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = { -solo-ai-brand-name } AI Website Creator
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = 將下載鏈結寄到您的手機
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = 免費掃描，看看您的個人資訊是否在線上遭到外洩。
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = 為所有應用程式，而不只是瀏覽器獲得更多一層保護。使用公共 Wi-Fi 或不安全的網路上網時，也能確保資料安全。
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = 透過免費的轉寄信箱保護您的收件匣，減少收到的垃圾信。
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = 透過免費的教學與參考資料，學習 Web 技術開發。
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = 用同一套快速的應用程式收發郵件、管理行事曆與聯絡人。
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = 快速建立網站，並可免費連結您的網域名稱。
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = { -vendor-short-name } 的新產品
     .description = 探索我們最新的點子與實驗中的技術。
+    .label = { -vendor-short-name } 的新產品
 more-from-moz-mozilla-monitor-box-link =
     .label = 下載 { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =

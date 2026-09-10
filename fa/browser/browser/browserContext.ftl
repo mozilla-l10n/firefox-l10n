@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = بازگشت به صفحهٔ قبلی ({ $shortcut })
     .aria-label = بازگشت
+    .tooltiptext = بازگشت به صفحهٔ قبلی ({ $shortcut })
     .accesskey = ب
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = جلو رفتن به صفحهٔ بعد ({ $shortcut })
     .aria-label = جلو رفتن
+    .tooltiptext = جلو رفتن به صفحهٔ بعد ({ $shortcut })
     .accesskey = ج
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = نشانک‌گذاری صفحه…
-    .accesskey = ن
     .tooltiptext = نشانک‌گذاری صفحه
+    .accesskey = ن
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = نشانک‌گذاری صفحه…
-    .accesskey = ن
     .tooltiptext = نشانک‌گذاری صفحه ({ $shortcut })
+    .accesskey = ن
 main-context-menu-edit-bookmark =
     .aria-label = ویرایش نشانک…
-    .accesskey = ن
     .tooltiptext = ویرایش نشانک
+    .accesskey = ن
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = ویرایش نشانک…
-    .accesskey = ن
     .tooltiptext = ویرایش نشانک ({ $shortcut })
+    .accesskey = ن
 main-context-menu-open-link =
     .label = گشودن پیوند
     .accesskey = گ
@@ -145,9 +139,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = ذخیرهٔ پیوند به عنوان…
     .accesskey = ع
-main-context-menu-save-link-to-pocket =
-    .label = ذخیره پیوند در { -pocket-brand-name }
-    .accesskey = د
 
 ##
 
@@ -285,40 +276,22 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = رایانامه کردن صدا...
     .accesskey = ر
-main-context-menu-save-to-pocket =
-    .label = ذخیرهٔ صفحه در { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = ارسال صفحه به دستگاه
-    .accesskey = د
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = استفاده از ورود ذخیره شده
-    .accesskey = ر
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = استفاده از گذرواژهٔ ذخیره شده
     .accesskey = ر
-
-##
-
 main-context-menu-use-relay-mask =
     .label = استفاده از نقاب رایانامهٔ { -relay-brand-short-name }
     .accesskey = ا
 main-context-menu-suggest-strong-password =
     .label = پیشنهاد یک گذرواژهٔ قوی…
     .accesskey = پ
-main-context-menu-manage-logins2 =
-    .label = مدیریت ورودها
-    .accesskey = م
 main-context-menu-manage-passwords =
     .label = مدیریت گذرواژه‌ها
     .accesskey = م
-main-context-menu-keyword =
-    .label = افزودن یک کلیدواژه به این جست‌وجو…
-    .accesskey = ک
 main-context-menu-add-engine =
     .label = افزودن موتور جست‌وجو
     .accesskey = ا
@@ -364,9 +337,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = گرفتن نماگرفت
     .accesskey = گ
-main-context-menu-take-frame-screenshot =
-    .label = گرفتن نماگرفت
-    .accesskey = ن
 main-context-menu-view-page-source =
     .label = نمایش کدمنبع صفحه
     .accesskey = ن

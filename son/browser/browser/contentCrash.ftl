@@ -5,13 +5,6 @@
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] War goo nda kaŋyan bayrandi foo kaŋ mana sanbandi
-       *[other] War goo nda kaŋyan bayrandi { $reportCount } kaŋ mana sanbandi
-    }
 pending-crash-reports-view-all =
     .label = Guna
 pending-crash-reports-send =

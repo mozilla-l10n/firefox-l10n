@@ -70,7 +70,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Cydweddu eich nodau tudalen ym mhob man
-cfr-doorhanger-bookmark-fxa-body = Mae hwn yn dda! Peidiwch bod heb y nod tudalen hon ar eich dyfeisiau symudol. Dechrau arni gyda { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = Mae hwn yn dda! Peidiwch bod heb y nod tudalen hon ar eich dyfeisiau symudol. Dechreuwch arni gyda chyfrif
 cfr-doorhanger-bookmark-fxa-link-text = Cydweddu nodau tudalen nawr…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -83,12 +82,6 @@ fxa-adoption-credit-cards-backup-subtitle = Diogelwch eich dulliau talu trwy eu 
 fxa-adoption-bookmarks-treatment-backup-title = Gadewch i ni wneud copi wrth gefn o'ch nodau tudalen
 fxa-adoption-bookmarks-treatment-backup-subtitle = Diogelwch eich nodau tudalen trwy eu cydweddu â'ch dyfeisiau gydag amgryptiad.
 fxa-adoption-primary-button-label = Ymuno
-
-## Protections panel
-
-cfr-protections-panel-header = Pori heb gael eich dilyn
-cfr-protections-panel-body = Cadwch eich data i chi'ch hun. Mae { -brand-short-name } yn eich diogelu rhag llawer o'r tracwyr mwyaf cyffredin sy'n eich dilyn ar-lein.
-cfr-protections-panel-link-text = Darllen rhagor
 
 ## What's New toolbar button and panel
 
@@ -188,42 +181,8 @@ mr2022-background-update-toast-primary-button-label = Agorwch { -brand-shorter-n
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Atgoffwch Fi Nes ymlaen
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Rhowch gynnig arni
-    .accesskey = R
-firefoxview-cfr-secondarybutton = Nid nawr
-    .accesskey = N
-firefoxview-cfr-header-v2 = Ail gychwyn yn syth o'r lle roeddech chi
-firefoxview-cfr-body-v2 = Cael tabiau sydd wedi'u cau'n ddiweddar nôl, a symud yn rhwydd rhwng dyfeisiau gyda { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Dywedwch helo wrth { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Eisiau'r tab agored hwnnw ar eich ffôn? Gafaelwch ynddo. Oes angen y wefan hon rydych newydd ymweld â hi? Pwff, mae'n ôl gyda { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Dyma sut mae'n gweithio...
-firefoxview-spotlight-promo-secondarybutton = Hepgor
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Dewis cyfuniad lliw
-    .accesskey = D
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Lliwiwch eich porwr gyda lliwiau unigryw { -brand-short-name } wedi'u hysbrydoli gan leisiau a newidiodd ddiwylliant.
-colorways-cfr-header-28days = Mae cyfuniadau lliw Lleisiau Annibynnol yn dod i ben Ionawr 16
-colorways-cfr-header-14days = Mae cyfuniadau lliw Lleisiau Annibynnol yn dod i ben mewn pythefnos
-colorways-cfr-header-7days = Mae cyfuniadau lliw Lleisiau Annibynnol yn dod i ben yr wythnos hon
-colorways-cfr-header-today = Mae cyfuniadau lliw Lleisiau Annibynnol yn dod i ben heddiw
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Caniatáu i { -brand-short-name } wrthod baneri cwci?
-cfr-cbh-body = Gall { -brand-short-name } wrthod llawer o geisiadau baner cwci yn awtomatig.
-cfr-cbh-confirm-button = Gwrthod baneri cwci
-    .accesskey = G
-cfr-cbh-dismiss-button = Nid nawr
-    .accesskey = N
 cookie-banner-blocker-onboarding-header = Mae { -brand-short-name } newydd wrthod baner cwci drosoch chi
 cookie-banner-blocker-onboarding-body = Llai o darfu, llai o gwcis yn eich tracio ar y wefan hon.
 cookie-banner-blocker-onboarding-learn-more = Darllen rhagor

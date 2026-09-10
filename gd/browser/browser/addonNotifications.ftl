@@ -31,27 +31,13 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Lean air adhart dhan stàladh
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Tha an làrach seo ag iarraidh cead-inntrigidh dha na h-uidheaman MIDI (Musical Instrument Digital Interface) agad. ’S urrainn dhut inntrigeadh dhan uidheam a chur an comas le bhith a’ stàladh tuilleadan.
 site-permission-install-first-prompt-midi-message = Chan eil làn-chinnt gum bi an t-inntrigeadh seo sàbhailte. Na lean air adhart ach ma tha earbsa agad san làrach seo.
-
-##
-
-xpinstall-disabled-locked = Chuir rianaire an t-siostaim agad casg air stàladh bathair-bhuig.
 xpinstall-disabled-by-policy = Chan eil am buidheann agad a’ leigeil leat bathar-bog a stàladh.
 xpinstall-disabled = Chan eil stàladh bathair-bhuig an comas an-dràsta. Briog air "Cuir an comas" agus feuch ris a-rithist.
 xpinstall-disabled-button =
     .label = Cuir an comas
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = Chaidh { $addonName } ({ $addonId }) a bhacadh le rianaire an t-siostaim agad.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Cha do leig rianair an t-siostaim agad leis an làrach seo iarraidh ort bathar-bog a stàladh air a’ choimpiutair agad.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -76,9 +62,6 @@ webext-imported-addons = Coilean stàladh nan leudachan air { -brand-short-name 
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = A bheil thu airson { $name } a thoirt air falbh?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = A bheil thu airson { $name } a thoirt air falbh o { -brand-shorter-name }?
 addon-removal-button = Thoir air falbh
 addon-removal-abuse-report-checkbox = Dèan aithris air an leudachan seo gu { -vendor-short-name }
 # "it" refers to the local AI model that is paired to the AI feature
@@ -149,7 +132,5 @@ addon-local-install-no-addon-name-error-file-access = Cha b’ urrainn dhuinn an
 addon-install-error-incompatible = Cha b’ urrainn dhuinn { $addonName } a stàladh a chionn ’s nach eil e co-chòrdail le { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = Tha { $addonName } a’ briseadh poileasaidhean Mozilla is cha ghabh a stàladh air { -brand-short-name }.
 addon-install-error-soft-blocked2 = Tha { $addonName } fo chuingeachadh is cha ghabh a stàladh air { -brand-short-name }.
-addon-install-error-blocklisted = Cha b’ urrainn dhuinn { $addonName } a stàladh a chionn ’s bheil cunnart mòr gun adhbharaich e duilgheadasan seasmhachd no tèarainteachd.
-addon-install-error-soft-blocked = Tha { $addonName } a’ briseadh poileasaidhean Mozilla is cha ghabh a stàladh air { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Chan urrainn dhut { $addonName } a stàladh mar chleachdaiche deireannach, feumaidh buidheann a stàladh le poileasaidhean enterprise.

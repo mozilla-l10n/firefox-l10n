@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Você está no momento no modo FIPS. O mod
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Redefinir senha principal
     .style = min-width: 40em
+    .title = Redefinir senha principal
 reset-password-button-label =
     .label = Redefinir
 reset-primary-password-text = Se você redefinir a senha principal, todas as suas senhas de contas e emails, chaves privadas e certificados pessoais armazenados serão esquecidos. Tem certeza que quer redefinir sua senha principal?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Sua senha principal foi redefinida.
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Baixando certificado
     .style = min-width: 46em
+    .title = Baixando certificado
 download-cert-message = Você foi solicitado a marcar como confiável uma nova Autoridade Certificadora (CA).
 download-cert-trust-ssl =
     .label = Confiar nesta CA para identificar sites.
@@ -52,8 +52,6 @@ download-cert-view-text = Examinar certificado da CA
 
 client-auth-window =
     .title = Solicitação de identificação do usuário
-client-auth-site-description = Este site solicitou que você identifique-se com um certificado:
-client-auth-choose-cert = Selecione um certificado para apresentar como identificação:
 client-auth-send-no-certificate =
     .label = Não enviar um certificado
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Autentique-se no dispositivo de segurança ({ $tokenName }). Como fazer isso depende do dispositivo (por exemplo, usar um leitor de impressão digital ou inserir um código no teclado numérico).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Autentique-se no token “{ $tokenName }”. Como fazer isso depende do token (por exemplo, usando um leitor de impressão digital ou inserindo um código no teclado numérico).

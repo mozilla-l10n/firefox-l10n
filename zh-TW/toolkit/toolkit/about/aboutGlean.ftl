@@ -43,13 +43,10 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-additional-links = 若需各種紀錄與搜尋資料的方式的相關解釋，請參考<strong>關於資料</strong>分頁。
-about-glean-about-testing-header = 關於測試
 # This message is followed by a numbered list.
 about-glean-manual-testing = 完整的操作教學文件撰寫於 <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } 測試文件</a>與 <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } 文件</a>中。但簡單來說，如果要手動測試您的測試工具是否正常，應該：
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = （不送出任何 ping）
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = 在左方欄位填寫好記的除錯用標籤，這樣之後才能快速找到您的 ping。
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = 設定一組好記的除錯用標籤<span>（少於 20 個字，只接受英數字與 - 連字號）</span>，這樣之後才能找到您的 ping。
 # An in-line drop down list precedes this string.
@@ -62,8 +59,6 @@ about-glean-label-for-log-pings = （若您也想要在送出 Ping 時紀錄下�
 # An in-line button labeled "Apply settings and submit ping" precedes this string.
 about-glean-label-for-controls-submit = 按下上方按鈕即可將所有 { -glean-brand-name } ping 加上您的標籤，並送出選擇的 ping。（按下按鈕後直到重新啟動應用程式前所送出的 ping 都將標上 <code>{ $debug-tag }</code>。）
 about-glean-li-for-visit-gdpv = <a data-l10n-name="gdpv-tagged-pings-link">請到 { glean-debug-ping-viewer-brand-name }頁面即可檢視含有您指定標籤的 ping</a>。按下按鈕後的幾秒鐘後 ping 就應該出現，有時會需要稍等幾分鐘。
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation = 若需進行 <i>ad hoc 臨時測試</i>，也可以在 <code>about:glean</code> 本頁面開啟開發者主控台，使用 <code>Glean.metricCategory.metricName.testGetValue()</code> 等 <code>testGetValue()</code> API 來決定測試儀器中的特定值。
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 = 若需進行 <i>ad hoc 臨時測試</i>，也可以在 <code>about:glean</code> 本頁面開啟開發者主控台，使用 <code>Glean.metricCategory.metricName.testGetValue()</code> 等 <code>testGetValue()</code> API 來取得 <code>metric.category.metric_name</code> 儀器中的資訊，決定測試儀器中的特定值。
 # Do not translate strings between <code> </code> tags.
@@ -140,7 +135,6 @@ about-glean-no-data-to-display = 沒有可顯示的資料。
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>about:glean</code> 檢視畫面尚不支援 <code>DualLabeledCounter</code> 指標。
 about-glean-unknown-metric-type-warning = 指標類型未知。
-about-glean-about-data-explanation = 要瀏覽收集的資料清單，請參考 <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 字典</a>。
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

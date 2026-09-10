@@ -13,7 +13,6 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } n'en deus ket ka
 
 ##
 
-firefox-relay-must-login-to-fxa = Kennaskañ e { -fxaccount-brand-name } a rankit ober a-raok implijout { -relay-brand-name }.
 firefox-relay-must-login-to-account = Kennaskit ouzh ho kont a-benn implijout aliazoù chomlec’h postel { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = Merañ an aliasoù
@@ -35,12 +34,6 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ket bremañ
     .accesskey = K
-firefox-relay-and-fxa-opt-in-confirmation-enable-button =
-    .label = Kennaskit ouzh { -brand-product-name } hag implijit an alias
-    .accesskey = K
-firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
-    .label = Krouiñ ur gont
-    .accesskey = K
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Na ziskouez din an dra-se en-dro
     .accesskey = N
@@ -48,18 +41,9 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Ket bremañ
     .accesskey = K
 
-## The "basic-info" variation of the Relay offer popup
-
-firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
-    .label = Krouiñ ur gont
-    .accesskey = K
-
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Tapit un alias digoust evit ho chomlec’h postel
-firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
-    .label = Krouiñ ur gont
-    .accesskey = K
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 

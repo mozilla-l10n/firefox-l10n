@@ -96,22 +96,7 @@ permissions-exceptions-cookie-desc = Jūs varat norādīt, kurām lapām ir un k
 permissions-exceptions-https-only-window2 =
     .style = { permissions-window2.style }
     .title = Izņēmumi — tikai HTTPS režīms
-permissions-exceptions-https-only-desc = Konkrētām vietnēm varat izslēgt režīmu tikai-HTTPS. { -brand-short-name } nemēģinās šo vietņu savienojumu uzlabot uz drošo HTTPS. Izņēmumi neattiecas uz privātajiem logiem.
 permissions-exceptions-https-only-desc2 = Konkrētām vietnēm varat izslēgt režīmu tikai-HTTPS. { -brand-short-name } nemēģinās šo vietņu savienojumu uzlabot uz drošo HTTPS.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .style = { permissions-window2.style }
-    .title = Atļautās lapas - jaunie logi
-permissions-exceptions-popup-desc = Jūs varat norādīt, kurām lapām ir atļauts atvērt jaunos logus. Ierakstiet precīzu lapas adresi, kurai vēlaties atļaut atvērt jaunos logus, un nospiediet Atļaut.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .style = { permissions-window2.style }
-    .title = Izņēmumi - Saglabātās paroles
-permissions-exceptions-saved-logins-desc = Šo vietņu paroles netiks saglabātas
 
 ## Exceptions - Saved Passwords
 

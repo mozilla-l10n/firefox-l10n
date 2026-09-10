@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Trenutno ste v načinu FIPS. FIPS zahteva 
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Ponastavi glavno geslo
     .style = min-width: 40em
+    .title = Ponastavi glavno geslo
 reset-password-button-label =
     .label = Ponastavi
 reset-primary-password-text = Če ponastavite glavno geslo, bodo vsi vaši osebni podatki pozabljeni (shranjena spletna in e-poštna gesla, osebna digitalna potrdila in zasebni ključi). Ste prepričani, da želite ponastaviti svoje glavno geslo?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Vaše glavno geslo je bilo ponastav
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Prenašanje digitalnega potrdila
     .style = min-width: 46em
+    .title = Prenašanje digitalnega potrdila
 download-cert-message = Ali zaupate novemu overitelju?
 download-cert-trust-ssl =
     .label = Overitelju zaupaj identifikacijo spletnih strani.
@@ -52,8 +52,6 @@ download-cert-view-text = Preveri digitalno potrdilo overitelja
 
 client-auth-window =
     .title = Zahteva po identifikaciji uporabnika
-client-auth-site-description = Ta stran zahteva, da se predstavite z digitalnim potrdilom:
-client-auth-choose-cert = Izberite digitalno potrdilo, ki vas predstavlja:
 client-auth-send-no-certificate =
     .label = Ne pošiljaj digitalnega potrdila
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Overite se varnostni napravi ({ $tokenName }). Kako to storite, je odvisno od naprave (na primer z uporabo bralnika prstnih odtisov ali z vtipkanjem kode).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Prijavite se v žeton “{ $tokenName }”. Kako to storite, je odvisno od žetona (na primer z uporabo bralnika prstnih odtisov ali vnosom kode s tipkovnico).

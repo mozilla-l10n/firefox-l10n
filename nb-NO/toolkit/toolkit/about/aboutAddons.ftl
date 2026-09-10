@@ -156,15 +156,10 @@ addon-sitepermission-host = Nettstedtillatelser for { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Alle utvidelser er avslått av sikker modus.
-extensions-warning-check-compatibility = Kompatibilitetskontroll er avslått. Du har kanskje ukompatible utvidelser.
-extensions-warning-safe-mode2 =
-    .message = Alle utvidelser er avslått av sikker modus.
 extensions-warning-check-compatibility2 =
     .message = Kompatibilitetskontroll er avslått. Du har kanskje ukompatible utvidelser.
 extensions-warning-check-compatibility-button = Slå på
     .title = Slå på kompatibilitetskontroll
-extensions-warning-update-security = Sikkerhetskontroll av utvidelsesoppdateringer er avslått. Sikkerheten din kan bli satt i fare av oppdateringer.
 extensions-warning-update-security2 =
     .message = Sikkerhetskontroll av utvidelsesoppdateringer er avslått. Sikkerheten din kan bli satt i fare av oppdateringer.
 extensions-warning-update-security-button = Slå på
@@ -240,10 +235,6 @@ shortcuts-duplicate = Duplisert hurtigtast
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } brukes som en hurtigtast i mer enn ett tilfelle. Dublerte hurtigtaster kan forårsake uventet oppførsel.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } brukes som en hurtigtast i mer enn ett tilfelle. Dublerte hurtigtaster kan forårsake uventet oppførsel.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -262,19 +253,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Utvidelser og temaer er som apper for nettleseren din, og de lar deg
-    beskytte dine passord, laste ned videoer, finn tilbud, blokkere irriterende reklame, endre
-    hvordan nettleseren din ser ut, og mye mer. Disse små programmene er
-    ofte utviklet av en tredjepart. Her er et utvalg { -brand-product-name }
-    <a data-l10n-name="learn-more-trigger">anbefaler</a> for eksepsjonell
-    sikkerhet, ytelse og funksjonalitet.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    Noen av disse anbefalingene er målrettet deg. De er basert på andre
-    utvidelser du har installert, profilinnstillinger og statistikk for bruk.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -362,16 +340,9 @@ addon-detail-last-updated-label = Sist oppdatert
 addon-detail-homepage-label = Hjemmeside
 addon-detail-rating-label = Vurdering
 # Message for add-ons with a staged pending update.
-install-postponed-message = Denne utvidelsen vil bli oppdatert når { -brand-short-name } starter på nytt.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Denne utvidelsen vil bli oppdatert når { -brand-short-name } starter på nytt.
 install-postponed-button = Oppdater nå
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Vurdert { NUMBER($rating, maximumFractionDigits: 1) } av 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -387,9 +358,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> er fjernet.
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -408,11 +376,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Tillatt i private vinduer
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Tillatt i private vinduer
 addon-detail-private-browsing-help = Når det er tillatt, vil utvidelsen få tilgang til dine aktiviteter på nett mens du bruker privat nettlesing. <a data-l10n-name="learn-more">Les mer</a>
 addon-detail-private-browsing-allow = Tillat
@@ -439,17 +402,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } anbefaler bare utvidelser som oppfyller våre standarder for sikkerhet og ytelse
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Offisiell utvidelse utviklet av Mozilla. Oppfyller sikkerhets- og ytelsesstandarder.
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Denne utvidelsen er gjennomgått for å oppfylle våre standarder for sikkerhet og ytelse.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -479,9 +431,6 @@ addon-permissions-heading = Tillatelser
 addon-permissions-empty2 = Denne utvidelsen krever ingen tillatelser.
 addon-permissions-required-label = Nødvendig:
 addon-permissions-optional-label = Valgfri:
-addon-permissions-empty = Denne utvidelsen krever ingen tillatelser
-addon-permissions-required = Nødvendige tillatelser for kjernefunksjonalitet:
-addon-permissions-optional = Valgfrie tillatelser for ekstra funksjonalitet:
 addon-permissions-learnmore = Les mer om tillatelser
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -522,25 +471,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } er inkompatibel med { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } er inkompatibel med { -brand-short-name } { $version }.
-details-notification-incompatible-link = Mer informasjon
-details-notification-unsigned-and-disabled = { $name } har ikke blitt bekreftet for bruk i { -brand-short-name } og har blitt slått av.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } har ikke blitt bekreftet for bruk i { -brand-short-name } og har blitt slått av.
-details-notification-unsigned-and-disabled-link = Mer informasjon
-details-notification-unsigned = { $name } har ikke blitt bekreftet for bruk i { -brand-short-name }. Fortsett med varsomhet.
 details-notification-unsigned2 =
     .message = { $name } har ikke blitt bekreftet for bruk i { -brand-short-name }. Fortsett med varsomhet.
 details-notification-hard-blocked-extension =
     .message = Denne utvidelsen er blokkert for brudd på Mozillas retningslinjer og har blitt deaktivert.
 details-notification-hard-blocked-other =
     .message = Dette tillegget er blokkert for brudd på Mozillas retningslinjer og har blitt deaktivert.
-details-notification-unsigned-link = Mer informasjon
-details-notification-blocked = { $name } er avslått av sikkerhets- eller stabilitetshensyn .
 details-notification-blocked-link2 = Se detaljer
 details-notification-soft-blocked-extension-disabled2 =
     .message = Denne utvidelsen er begrenset og har blitt deaktivert. Du kan aktivere den, men dette kan være risikabelt.
@@ -550,19 +490,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = Dette tillegget er begrenset og har blitt deaktivert. Du kan aktivere den, men dette kan være risikabelt.
 details-notification-soft-blocked-other-enabled2 =
     .message = Dette tillegget er begrenset. Bruk av den kan være risikabelt.
-details-notification-soft-blocked-extension-disabled =
-    .message = Denne utvidelsen har blitt begrenset for brudd på Mozillas retningslinjer og har blitt deaktivert. Du kan aktivere den, men dette kan være risikabelt.
-details-notification-soft-blocked-extension-enabled =
-    .message = Denne utvidelsen bryter Mozillas retningslinjer. Å bruke det kan være risikabelt.
-details-notification-soft-blocked-other-disabled =
-    .message = Dette tillegget har blitt begrenset for brudd på Mozillas retningslinjer og har blitt deaktivert. Du kan aktivere den, men dette kan være risikabelt.
-details-notification-soft-blocked-other-enabled =
-    .message = Dette tillegget bryter Mozillas retningslinjer. Å bruke det kan være risikabelt.
 details-notification-softblocked-link2 = Se detaljer
-details-notification-blocked-link = Mer informasjon
-details-notification-softblocked = { $name } er kjent for å skape sikkerhets- eller stabilitetsproblemer.
-details-notification-softblocked-link = Mer informasjon
-details-notification-gmp-pending = { $name } vil installeres snart.
 details-notification-gmp-pending2 =
     .message = { $name } vil installeres snart.
 
@@ -578,8 +506,6 @@ plugins-widevine-description = Dette programtillegget gjør det mulig å spille 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Nødvendig datainnsamling:
-addon-permissions-optional-data-collection = Valgfri datainnsamling:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Tillatelser og data
 # This is a description for extension that use this AI model

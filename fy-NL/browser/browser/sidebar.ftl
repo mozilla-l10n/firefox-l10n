@@ -40,7 +40,6 @@ sidebar-history-clear =
     .label = Skiednis wiskje
 sidebar-history-sort-by-heading-menucaption =
     .label = Sortearje op:
-sidebar-history-sort-by-heading = Sortearje op:
 sidebar-history-sort-option-date =
     .label = Datum
 sidebar-history-sort-option-site =
@@ -60,16 +59,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Sidebalke-útwreidingen
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name }-ark
 sidebar-customize-firefox-settings = { -brand-short-name }-ynstellingen beheare
 sidebar-vertical-tabs =
     .label = Fertikale ljepblêden
 sidebar-settings2 =
     .label = Ynstellingen
-sidebar-settings =
-    .label = Sidebalke-ynstellingen
 sidebar-hide-tabs-and-sidebar =
     .label = Ljepblêden en sidebalke ferstopje
 sidebar-open-tools-from-sidebar =
@@ -95,8 +89,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Utwreiding beheare
-sidebar-context-menu-remove-extension =
-    .label = Utwreiding fuortsmite
 sidebar-context-menu-report-extension =
     .label = Utwreiding rapportearje
 sidebar-context-menu-open-in-tab =

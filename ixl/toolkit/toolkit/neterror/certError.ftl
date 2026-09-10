@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Jit k'ujleb'al k'u'l unq'a tu'aale' tan u aq
 cert-error-trust-signature-algorithm-disabled = Ye' la uch ak'ujb'a't ak'u'l tan kat kuxh ik'uche' see uva' kam la oob'e' tul ile' ya'samal ve't kan tan ye'xh kam b'a'n koj tuche'.
 cert-error-trust-expired-issuer = Ye' ak'ujb'a' ak'u'l ti' u tu'aale' tan u aq'ol eltzan tetze' ya'samal ve'te'.
 cert-error-trust-self-signed = Ye' kuxh ak'ujb'a' ak'u'l ti' u tu'aale' tan kat kuxh ib'anje' chajaake' sijunal.
-cert-error-trust-symantec = Jank'al unq'a tu'aale' uve' ate'l tan GeoTrust, RapidSSL, Symantec, Thawte y Verisign jit ve't tii tatine' tan unq'a b'ooq'olin tetze' ye' kat ib'an chajaak ti jikil kam chit ib'anik ta'n na'ytzan.
 cert-error-untrusted-default = U u'aale' uve' ate'ltzan ye' la uch a k'ujb'a't ak'u' sti'.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -53,10 +52,6 @@ cert-error-code-prefix-link = Texhlal uva' ni yan kat: <a data-l10n-name="error-
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = At uma'l kam kat yani tul kat xe't aq'onvoj tu { $hostname }. { $errorMessage }
 # Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Unq'a web ni k'uch u texhlale' tuk' unq'a tu'aale', uva' aq'el eltzan ta'n unq'a ib'ooq'ole' b'anolaj u'aal. Jank'al chit unq'a xaasan tetze' ye' ni k'ujb'a' ik'u'l ti' unq'a tu'aale' uve' aq'el eltzan ta'n u GeoTrust, RapidSSL, Symantec, Thawte, tuk' u VeriSign. { $hostname } b'anb'e uma'al u'aal uva' aq'el eltzan ta'n unq'a b'ooq'ole' as ni kuxh la uch tootzil unq'a texhlale' tulaj unq'a web.
-cert-error-symantec-distrust-admin = La uch aalat te ilol isuuchil ti u web ti' unq'a va'lexhe' uve' naleje'.
-# Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP  Iyak'ib'al ti' teqol b'en: { $hasHSTS }
 # Variables:
@@ -91,7 +86,6 @@ proxyResolveFailure-title = Ye' la uch ilejpu eq'on tetz u proxy
 redirectLoop-title = U u'uje' vaa' ye'xh kam jik koj ni teq'o b'en tu atinb'ale'
 unknownSocketType-title = Ye'l u vaa' ni'k itx'e'b'le' ti' u eq'on tetze'
 nssFailure2-title = Kan yan ixe't aq'onvoj
-corruptedContentError-title = Kat yan tilpu u aq'one' yannajle
 sslv3Used-title = Ye' la uch ook stuul ti jikil
 inadequateSecurityError-title = Jit b'a'n aatin tzitza'
 blockedByPolicy-title = Majel ivatz u u'uje'

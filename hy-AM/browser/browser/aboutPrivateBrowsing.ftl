@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Բացել գաղտնի պատուհան
     .accesskey = Գ
 about-private-browsing-search-placeholder = Որոնել համացանցում
-about-private-browsing-info-title = Դուք գաղտնի պատուհանում եք
 about-private-browsing-search-btn =
     .title = Որոնել համացանցում
 # Variables
@@ -19,17 +18,12 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Որոնեք { $engine }-ով կամ մուտքագրեք հասցե
 about-private-browsing-handoff-text-no-engine = Որոնեք կամ մուտքագրեք հասցե
 about-private-browsing-not-private = Դուք այժմ գաղտնի պատուհանում չեք:
-about-private-browsing-info-description-private-window = Գաղտնի պատուհան. { -brand-short-name }-ը մաքրում է Ձեր որոնումը և դիտարկման պատնությունը, երբ փակում եք բոլոր գաղտնի պատուհանները: Դա Ձեզ անանուն չի դարձնում:
-about-private-browsing-info-description-simplified = { -brand-short-name }-ը մաքրում է Ձեր որոնման և դիտարկման պատմությունը, երբ փակում եք բոլոր գաղտնի պատուհանները, բայց դա Ձեզ անանուն չի դարձնում:
-about-private-browsing-learn-more-link = Իմանալ ավելին
 about-private-browsing-hide-activity = Թաքցրեք Ձեր գործունեությունը և գտվելու վայրն ամենուր, որտեղից դիտարկում եք
 about-private-browsing-get-privacy = Ստացեք գաղտնիության պաշտպանություններ ամենուր, որտեղից զննարկում եք
 about-private-browsing-hide-activity-1 = Թաքցրեք դիտարկման գործունեությունը և գտվելու վայրը { -mozilla-vpn-brand-name }-ով: Մեկ կտտոցը ստեղծում է անվտանգ կապ՝ անգամ հանրային Wi-Fi-ում:
 about-private-browsing-prominent-cta = Մնացեք գաղտնի { -mozilla-vpn-brand-name }-ի հետ
 about-private-browsing-focus-promo-cta = Ներբեռնել { -focus-brand-name }-ը
 about-private-browsing-focus-promo-header = { -focus-brand-name }. գաղտնի դիտարկում ընթացքի վրա
-about-private-browsing-focus-promo-header-b = Վերցրեք գաղտնի դիտարկումը Ձեր հեռախոսին
-about-private-browsing-focus-promo-text-b = Օգտվեք { -focus-brand-name }-ից՝ այն գաղտնի որոնումների ժամանակ, երբ չեք ցանկանում Ձեր հիմնական բջջային դիտարկիչը ծանոթանա դրանց:
 about-private-browsing-focus-promo-header-c = Հաջորդ մակարդակի գաղտնիություն բջջայինում
 about-private-browsing-focus-promo-text-c = { -focus-brand-name }-ն մաքրում է Ձեր պատմությունն ամեն անգամ՝ արգելափակելով գովազդներն ու հետևիչները:
 # This string is the title for the banner for search engine selection
@@ -59,10 +53,6 @@ about-private-browsing-pin-promo-title = Ոչ մի պահված թխուկ կա�
 
 ## Strings used in a promotion message for cookie banner reduction
 
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = Թխուկների ցուցապաստառները վերացել են:
-about-private-browsing-cookie-banners-promo-button = Նվազեցնել թխուկների պաստառները
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name }-ը հոգ է տանում թխուկների երիզների մասին

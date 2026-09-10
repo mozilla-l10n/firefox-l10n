@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = ਇਹ ਸਫ਼ੇ ਦਾ ਅਨੁਵਾਦ ਕਰੋ
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = ਅਨੁਵਾਦ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 translations-panel-settings-button =
     .aria-label = ਅਨੁਵਾਦ ਸੈਟਿੰਗਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } ਬੀਟਾ
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = ਭਾਸ਼ਾਵਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
-translations-panel-settings-about = { -brand-shorter-name } ਦੇ ਅਨੁਵਾਦ ਬਾਰੇ
 translations-panel-settings-about2 =
     .label = { -brand-shorter-name } ਦੇ ਅਨੁਵਾਦ ਬਾਰੇ
 # Text displayed for the option to always translate a given language
@@ -91,14 +82,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = ਅਫਸੋਸ ਹੈ ਪਰ ਅਸੀਂ ਹਾਲੇ { $language } ਤੋਂ ਅਨੁਵਾਦ ਕਰਨ ਲਈ ਸਹਿਯੋਗੀ ਨਹੀਂ ਹਾਂ।
 translations-panel-error-unsupported-hint-unknown-2 = ਅਫਸੋਸ ਹੈ ਪਰ ਅਸੀਂ ਹਾਲੇ ਇਸ ਭਾਸ਼ਾ ਤੋਂ ਅਨੁਵਾਦ ਕਰਨ ਲਈ ਸਹਿਯੋਗੀ ਨਹੀਂ ਹਾਂ।
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = ਅਫ਼ਸੋਸ, ਅਸੀਂ ਹਾਲੇ { $language } ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹਾਂ।
-translations-panel-error-unsupported-hint-unknown = ਅਫ਼ਸੋਸ, ਅਸੀਂ ਹਾਲੇ ਇਸ ਭਾਸ਼ਾ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹਾਂ।
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -130,10 +113,6 @@ translations-manage-header = ਅਨੁਵਾਦ
 translations-manage-settings-button =
     .label = …ਸੈਟਿੰਗਾਂ
     .accesskey = t
-translations-manage-description = ਆਫ਼ਲਾਈਨ ਅਨੁਵਾਦ ਲਈ ਭਾਸ਼ਾਵਾਂ ਡਾਊਨਲੋਡ ਕਰੋ।
-translations-manage-all-language = ਸਭ ਭਾਸ਼ਾਵਾਂ
-translations-manage-download-button = ਡਾਊਨਲੋਡ
-translations-manage-delete-button = ਹਟਾਓ
 translations-manage-intro-2 = ਆਪਣੀ ਭਾਸ਼ਾ ਅਤੇ ਸਾਈਟ ਅਨੁਵਾਦ ਪਸੰਦਾਂ ਨੂੰ ਸੈੱਟ ਕਰੋ ਅਤੇ ਆਫ਼ਲਾਈਨ ਅਨੁਵਾਦ ਲਈ ਡਾਊਨਲੋਡ ਹੋਈਆਂ ਭਾਸ਼ਾਵਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ।
 translations-manage-download-description = ਆਫ਼ਲਾਈਨ ਅਨੁਵਾਦ ਲਈ ਭਾਸ਼ਾਵਾਂ ਡਾਊਨਲੋਡ ਕਰੋ
 translations-manage-language-download-button =
@@ -147,12 +126,11 @@ translations-manage-language-remove-all-button =
     .label = ਸਭ ਹਟਾਓ
     .accesskey = e
 translations-manage-error-download = ਭਾਸ਼ਾ ਫ਼ਾਈਲਾਂ ਡਾਊਨਲੋਡ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਹੈ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
-translations-manage-error-delete = ਭਾਸ਼ਾ ਫ਼ਾਈਲ ਹਟਾਉਣ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਸੀ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 translations-manage-error-remove = ਭਾਸ਼ਾ ਫ਼ਾਈਲ ਹਟਾਉਣ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਸੀ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 translations-manage-error-list = ਅਨੁਵਾਦ ਲਈ ਮੌਜੂਦ ਭਾਸ਼ਾਵਾਂ ਦੀ ਸੂਚੀ ਲੈਣ ਲਈ ਅਸਫ਼ਲ ਹੈ। ਸਫ਼ੇ ਨੂੰ ਤਾਜ਼ਾ ਕਰਕੇ ਫ਼ੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 translations-settings-title =
-    .title = ਅਨੁਵਾਦ ਸੈਟਿੰਗਾਂ
     .style = min-width: 36em
+    .title = ਅਨੁਵਾਦ ਸੈਟਿੰਗਾਂ
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = ਅੱਗੇ ਦਿੱਤੀਆਂ ਭਾਸ਼ਾਵਾਂ ਲਈ ਅਨੁਵਾਦ ਆਪਣੇ-ਆਪੇ ਕੀਤਾ ਜਾਵੇਗਾ
@@ -246,16 +224,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = ਅਫਸੋਸ ਹੈ ਪਰ ਅਸੀਂ ਹਾਲੇ { $language } ਤੋਂ ਅਨੁਵਾਦ ਕਰਨ ਲਈ ਸਹਿਯੋਗੀ ਨਹੀਂ ਹਾਂ।
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = ਅਫਸੋਸ ਹੈ ਪਰ ਅਸੀਂ ਹਾਲੇ ਇਸ ਭਾਸ਼ਾ ਤੋਂ ਅਨੁਵਾਦ ਕਰਨ ਲਈ ਸਹਿਯੋਗੀ ਨਹੀਂ ਹਾਂ।
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = ਅਫ਼ਸੋਸ, ਅਸੀਂ ਹਾਲੇ { $language } ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹਾਂ।
-select-translations-panel-unsupported-language-message-unknown =
-    .message = ਅਫ਼ਸੋਸ, ਅਸੀਂ ਹਾਲੇ ਇਸ ਭਾਸ਼ਾ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹਾਂ।
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = ਉਲੱਥਾ ਸੈਟਿੰਗਾਂ

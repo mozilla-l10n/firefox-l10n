@@ -118,4 +118,3 @@ certificate-viewer-tab-mine = Tes certificats
 certificate-viewer-tab-people = Persunas
 certificate-viewer-tab-servers = Servers
 certificate-viewer-tab-ca = Posts da certificaziun
-certificate-viewer-tab-unkonwn = Nunenconuschent

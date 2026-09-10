@@ -2,111 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } అంతరంగిక విహరణ
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } అంతరంగిక విహరణ
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — అంతరంగిక విహారణ
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — అంతరంగిక విహారణ
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } అంతరంగిక విహారణ
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } ఆంతరంగిక విహారణ
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } ఆంతరంగిక విహారణ
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } ఆంతరంగిక విహారణ
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } ఆంతరంగిక విహారణ
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title }—{ $profile-name }
-    .data-content-title-private = { $content-title }— ఆంతరంగిక విహారణ
-    .data-content-title-private-with-profile = { $content-title }—{ $profile-name }— ఆంతరంగిక విహారణ
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name }—{ -brand-full-name }
-    .data-title-private = { -brand-full-name }— ఆంతరంగిక విహారణ
-    .data-title-private-with-profile = { $profile-name }—{ -brand-full-name } ఆంతరంగిక విహారణ
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -153,8 +51,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = ఆఫ్‌లైన్ నిల్వ సందేశ ప్యానెలును తెరువు
 urlbar-password-notification-anchor =
     .tooltiptext = పాస్‌వర్డ్ భద్రపరచు సందేశపు ప్యానెలును తెరువు
-urlbar-plugins-notification-anchor =
-    .tooltiptext = ప్లగ్-ఇన్ వాడకాన్ని నిర్వహించండి
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = సైటుతో మీ కేమెరా మరియు/లేదా మైక్రోఫోన్ పంచుకోడాన్ని నిర్వహించండి
 urlbar-autoplay-notification-anchor =
@@ -163,15 +59,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = నిరంతర నిల్వ డేటాని నిల్వ చేయండి
 urlbar-addons-notification-anchor =
     .tooltiptext = యాడ్-ఆన్ స్థాపన సందేశపు ప్యానెలు తెరువు
-urlbar-tip-help-icon =
-    .title = సహాయం పొందండి
 urlbar-search-tips-confirm = సరే, అర్థమైంది
 urlbar-search-tips-confirm-short = అర్థమైంది
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = చిట్కా:
 urlbar-result-menu-button =
     .title = మెనూని తెరువు
 urlbar-result-menu-button-feedback = ప్రతిస్పందన
@@ -197,9 +86,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = ఈ సూచనను తీసివేయి
     .accesskey = D
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = { -firefox-suggest-brand-name } గురించి మరింత తెలుసుకోండి
-    .accesskey = L
 urlbar-result-menu-dont-show-weather-suggestions =
     .label = వాతావరణ సూచనలను చూపించవద్దు
 # A message shown in the urlbar when the user submits feedback on a suggestion
@@ -236,8 +122,6 @@ urlbar-screen-blocked =
     .tooltiptext = మీ తెరను పంచుకోకుండా ఈ వెబ్‌సైటుని నిరోధించారు.
 urlbar-persistent-storage-blocked =
     .tooltiptext = మీరు ఈ వెబ్సైట్ కోసం నిరంతర నిల్వ నిరోధించారు.
-urlbar-popup-blocked =
-    .tooltiptext = మీరు ఈ వెబ్‌సైటు యొక్క పాప్-అప్లను నిరోధించారు.
 urlbar-autoplay-media-blocked =
     .tooltiptext = ఈ వెబ్‌సైటులో ధ్వనితో స్వయంచాలకంగా ఆడే మాధ్యమాలను నిరోధించారు.
 urlbar-canvas-blocked =
@@ -331,17 +215,12 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action. English commas should be used, i.e. ,
 
-quickactions-cmd-addons2 = పొడగింతలు
 quickactions-cmd-bookmarks = ఇష్టాంశాలు
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = ఇటీవలి చరిత్రను తుడిచివేయి
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = చరిత్రను తుడిచివేయి
-quickactions-cmd-clearhistory = చరిత్రను తుడిచివేయి
 # Opens about:downloads page
 quickactions-downloads2 = దింపుకోళ్ళను చూడండి
 quickactions-cmd-downloads = దింపుకోళ్ళు
-quickactions-cmd-extensions = పొడగింతలు
 quickactions-cmd-logins = ప్రవేశాలు, సంకేతపదాలు
 # Opens the print dialog
 quickactions-print2 = పేజీ ముద్రించు
@@ -356,11 +235,8 @@ quickactions-restart = { -brand-short-name }‌ను పునఃప్రా�
 quickactions-screenshot3 = తెరపట్టు తీసుకోండి
 # Opens about:translations
 quickactions-translate = అనువదించు
-quickactions-cmd-screenshot = తెరపట్టు
-quickactions-cmd-settings = అమరికలు, ప్రాధాన్యతలు, ఎంపికలు
 # Opens about:addons page in the themes section
 quickactions-themes = అలంకారాల నిర్వహణ
-quickactions-cmd-themes = అలంకారాలు
 quickactions-cmd-update = తాజాకరించు
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = పేజీ మూలాన్ని చూడండి
@@ -413,9 +289,7 @@ identity-custom-root = మొజిల్లాచే గుర్తించ�
 identity-passive-loaded = ఈ పేజీలోని కొన్ని భాగాలు సురక్షితమైనవి కావు (బొమ్మల వంటివి).
 identity-active-loaded = ఈ పేజీకి రక్షణను మీరు అచేతనం చేసారు.
 identity-weak-encryption = ఈ పేజీ బలహీనమైన ఎన్‌క్రిప్షన్ వాడుతోంది.
-identity-insecure-login-forms = ఈ పేజీలో మీరు ఇచ్చే లాగిన్లు రాజీపడవచ్చు.
 identity-https-only-connection-upgraded = (HTTPSకి ఉన్నతీకరించబడింది)
-identity-https-only-label = HTTPS-మాత్రమే రీతి
 identity-https-only-dropdown-on =
     .label = చేతనం
 identity-https-only-dropdown-off =
@@ -437,7 +311,6 @@ identity-remove-cert-exception =
     .label = మినహాయింపును తొలగించు
     .accesskey = R
 identity-description-insecure = ఈ సైటుకు మీరు గుట్టుగా అనుసంధానం కావడంలేదు. మీరు సమర్పించిన సమాచారం ఇతరులు చూడవచ్చు (సంకేతపదాలు, సందేశాలు, క్రెడిట్ కార్డులు, మొదలైనవి).
-identity-description-insecure-login-forms = ఈ పేజీలో మీరు ఇచ్చిన లాగిన్ సమాచారం సురక్షితమైనది కాదు మరియు రాజీపడవచ్చు.
 identity-description-weak-cipher-intro = ఈ వెబ్‌సైటుతో మీ అనుసంధానం బలహీనమైన ఎన్‌క్రిప్షన్‌తో ఉన్నది మరియు గుట్టుగా లేదు.
 identity-description-weak-cipher-risk = ఇతరులు మీ సమాచారం చూడగలరు లేదా వెబ్‌సైట్ పనితీరుని మార్చగలరు.
 identity-description-active-blocked2 = ఈ పేజీలో సురక్షితంకాని భాగాలను { -brand-short-name } నిరోధించింది.
@@ -446,12 +319,6 @@ identity-description-passive-loaded-insecure2 = ఈ వెబ్‌సైట్ 
 identity-description-passive-loaded-mixed2 = { -brand-short-name } కొంత కాంటెంట్‌ను నిరోధించినప్పటికీ, ఇంకా ఈ పేజీలో సురక్షితం కాని కాంటెంట్ ఉంది (బొమ్మల వంటివి).
 identity-description-active-loaded = ఈ వెబ్‌సైట్ సురక్షితం కాని కాంటెంట్‌ను కలిగివుంది (స్క్రిప్టుల వంటివి) మరియు దానికి మీరు గుట్టుగా అనుసంధానంకాలేదు.
 identity-description-active-loaded-insecure = ఈ సైటుతో మీరు పంచుకునే సమాచారాన్ని ఇతరులు చూడవచ్చు (సంకేతపదాలు, సందేశాలు, క్రెడిట్ కార్డులు, మొదలైనవి).
-identity-disable-mixed-content-blocking =
-    .label = ఇప్పటికి రక్షణను అచేతనించు
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = రక్షణను చేతనించు
-    .accesskey = E
 identity-more-info-link-text =
     .label = మరింత సమాచారం
 
@@ -463,28 +330,6 @@ browser-window-maximize-button =
     .tooltiptext = పెద్దగించు
 browser-window-close-button =
     .tooltiptext = మూసివేయి
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = ఆడుతోంది
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = మూగబోయింది
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = ఆటోప్లే నిరోధించబడింది
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = చిత్రంలో-చిత్రం
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] ట్యాబును మౌనించు
-        [one] ట్యాబును మౌనించు
-       *[other] { $count } ట్యాబులను మౌనించు
-    }
 
 ## Bookmarks toolbar items
 
@@ -576,8 +421,6 @@ urlbar-extension =
     .value = పొడిగింత:
 urlbar-go-button2 =
     .title = ప్రాంతపు పట్టీలో ఉన్న చిరునామాకి వెళ్ళండి
-urlbar-go-button =
-    .tooltiptext = ప్రాంతపు పట్టీలో ఉన్న చిరునామాకి వెళ్ళండి
 urlbar-page-action-button =
     .tooltiptext = పేజీ చర్యలు
 
@@ -597,21 +440,10 @@ urlbar-result-action-switch-tab = ట్యాబుకు మారండి
 urlbar-result-action-visit = చూడండి
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = కాపీచేయి
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The sub title of a mdn suggestion in the urlbar.
 urlbar-result-mdn-subtitle = { -mdn-brand-name }
 # The sub title of a Yelp suggestion in the urlbar.
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -644,21 +476,6 @@ urlbar-result-dates-ends-today = { $name } · ఇవాళ ముగుస్త
 
 ## Strings used for buttons in the urlbar
 
-urlbar-searchmode-bookmarks =
-    .label = ఇష్టాంశాలు
-urlbar-searchmode-tabs =
-    .label = ట్యాబులు
-urlbar-searchmode-history =
-    .label = చరిత్ర
-urlbar-searchmode-actions =
-    .label = చర్యలు
-urlbar-searchmode-exit-button =
-    .tooltiptext = మూసివేయి
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = ఈసారి దీనితో వెతుకు:
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = వెతుకుడు అమరికలు
 urlbar-searchmode-exit-button2 =
     .title = మూసివేయి
 # Shown when adding new search engines from the search mode switcher.
@@ -702,9 +519,6 @@ urlbar-group-quickactions =
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
     .label = ఇటీవలి వెతుకులాటలు
-urlbar-result-menu-trending-why =
-    .label = ఇది నాకు ఎందుకు కనిపిస్తుంది?
-    .accesskey = W
 
 ## Reader View toolbar buttons
 
@@ -773,12 +587,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] ఇష్టాంశాల పట్టీని దాచు
            *[other] ఇష్టాంశాల పట్టీని చూపించు
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] ఉపకరణపట్టీ నుండి ఇష్టాంశాల మెనుని తీసివేయండి
-           *[other] ఉపకరణపట్టీకి ఇష్టాంశాల మెనూని జోడించండి
-        }
 
 ##
 
@@ -806,14 +614,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = ఇష్టాంశాలు
-library-recent-activity-title =
-    .value = ఇటీవలి కార్యకలాపం
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = { -pocket-brand-name }‌కి భద్రపరుచు
-    .tooltiptext = { -pocket-brand-name }‌కి భద్రపరుచు
 
 ##
 
@@ -868,8 +668,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = వాడుకరి పేరు
-panel-save-update-password = సంకేతపదం
 panel-save-update-username-2 =
     .label = వాడుకరి పేరు
 panel-save-update-password-2 =
@@ -883,22 +681,6 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = మూసివేయి
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = { $uriHost } కొరకు పాప్-అప్‌లను అనుమతించు
-    .accesskey = p
-popups-infobar-block =
-    .label = { $uriHost } కొరకు పాప్-అప్‌లను నిరోధించు
-    .accesskey = p
-
-##
-
-popups-infobar-dont-show-message =
-    .label = పాప్-అప్‌లు నిరోధించబడినప్పుడు ఈ సందేశాన్ని చూపించవద్దు
-    .accesskey = D
-
 ##
 
 # This string is a spoken label that should not include
@@ -910,8 +692,6 @@ navbar-downloads =
     .label = దింపుకోళ్ళు
 navbar-overflow-2 =
     .tooltiptext = మరిన్ని పనిముట్లు
-navbar-overflow =
-    .tooltiptext = మరిన్ని పనిముట్లు…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

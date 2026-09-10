@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = გაფართოებები და თემები
 appmenuitem-extensions =
     .label = გაფართოებები
-appmenuitem-addons-and-themes =
-    .label = დამატებები და თემები
 appmenuitem-print =
     .label = ამობეჭდვა…
 appmenuitem-find-in-page =
@@ -154,7 +152,6 @@ fxa-menu-get-firefox-mobile =
     .label = გადმოწერეთ { -brand-product-name } Android-სა თუ iOS-ზე
 fxa-menu-secure-sync-subpanel =
     .title = უსაფრთხო დასინქ.
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = ანგარიში
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -176,15 +173,6 @@ appmenuitem-save-page =
     .label = გვერდის შენახვა როგორც…
 appmenuitem-fxa-sync-off-title = დასინქ. გამორთულია
 appmenuitem-fxa-sync-off-description = დაცვა და წვდომა თქვენს სანიშნებთან, პაროლებთან და ყველაფერთან ნებისმიერი ადგილიდან.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = რა სიახლეებია
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = ცნობები, ახალ შესაძლებლობებზე
-    .accesskey = ც
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -326,8 +314,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = მონაცემები ხარვეზის აღმოსაფხვრელად
     .accesskey = ფ
-appmenu-help-report-site-issue =
-    .label = საიტის ხარვეზის მოხსენება…
 appmenu-help-share-ideas =
     .label = გაგვიზიარეთ მოსაზრებები და გამოგვეხმაურეთ…
     .accesskey = ზ
@@ -393,7 +379,6 @@ appmenuitem-vpn-description5 = დამატებითი დაცვა �
 appmenuitem-vpn-title-signed-in1 = ჩამოტვირთეთ { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = ისარგებლეთ მთლიანი მოწყობილობის დაცვით
-appmenuitem-vpn-description = დაიცავით პირადულობა ინტერნეტში
 appmenu-services-header = ჩემი მომსახურებები
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -403,7 +388,6 @@ appmenu-other-protection-header3 = პირადულობის ხელ�
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = მოსინჯეთ დაცვის სხვა ხელსაწყოებიც, Mozilla რომ ქმნის:
-appmenu-other-protection-header = მოსინჯეთ დაცვის სხვა ხელსაწყოები, რომელთაც გთავაზობთ { -vendor-short-name }:
 
 ## Profiles panel
 

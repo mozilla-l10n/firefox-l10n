@@ -16,8 +16,6 @@ styleeditor-save-button = Saxla
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Stil Redaktoru seçimləri
-styleeditor-editor-textbox =
-    .data-placeholder = CSS-i bura yazın.
 styleeditor-no-stylesheet = Bu səhifənin stil səhifəsi yoxdur.
 styleeditor-no-stylesheet-tip = Belkə də <a data-l10n-name="append-new-stylesheet">yeni bir stil səhifəsi əlavə etmək</a> istərdiniz?
 styleeditor-open-link-new-tab =

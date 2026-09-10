@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = మినహాయింపులు
     .style = min-width: 45em
+    .title = మినహాయింపులు
 permissions-close-key =
     .key = w
 permissions-address = వెబ్‌సైటు చిరునామా
@@ -74,82 +74,68 @@ permissions-invalid-uri-label = దయచేసి సరైన హోస్ట�
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = మెరుగైన ట్రాకింగ్ సంరక్షణ కొరకు మినహాయింపులు
     .style = { permissions-window2.style }
+    .title = మెరుగైన ట్రాకింగ్ సంరక్షణ కొరకు మినహాయింపులు
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = మినహాయింపులు - కుకీలు, సైటు డేటా
     .style = { permissions-window2.style }
+    .title = మినహాయింపులు - కుకీలు, సైటు డేటా
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
+    .style = { permissions-window2.style }
     .title = మినహాయింపులు - HTTPS- మాత్రమే రీతి
-    .style = { permissions-window2.style }
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = అనుమతించిన వెబ్‌సైట్లు - పాప్అప్‌లు
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = పాప్‌అప్ విండోలను తెరుచుటకు ఏ వెబ్ సైటులను అనుమతించాలో మీరు వివరించవచ్చు. మీరు అనుమతించాలనుకున్న వెబ్ సైటు ఖచ్చితమైన చిరునామా తెలిపి అప్పుడు అనుమతించుని నొక్కండి.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = మినహాయింపులు - భద్రపరిచన ప్రవేశాలు
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = ఈ క్రింది వెబ్‌సైట్ల ప్రవేశాలు భద్రపరచబడవు
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = అనుమతించబడిన సైట్లు - పొడిగింతల స్థాపన
     .style = { permissions-window2.style }
+    .title = అనుమతించబడిన సైట్లు - పొడిగింతల స్థాపన
 permissions-exceptions-addons-desc = పొడిగింతలను స్థాపించుటకు ఏయే వెబ్ సైట్లను అనుమతించాలో మీరు పేర్కొనవచ్చు. మీరు అనుమతించాలనుకున్న వెబ్ సైటు ఖచ్చితమైన చిరునామాను ఇచ్చి అనుమతించు బొత్తాన్ని నొక్కండి.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = అమరికలు - ఆటోప్లే
     .style = { permissions-window2.style }
+    .title = అమరికలు - ఆటోప్లే
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = అమరికలు - గమనింపుల అనుమతులు
     .style = { permissions-window2.style }
+    .title = అమరికలు - గమనింపుల అనుమతులు
 permissions-site-notification-disable-label =
     .label = గమనింపులను అనుమతించమని అడిగే అభ్యర్థనలను నిరోధించు
 
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = అమరికలు - స్థాన అనుమతులు
     .style = { permissions-window2.style }
+    .title = అమరికలు - స్థాన అనుమతులు
 permissions-site-location-disable-label =
     .label = మీ స్థాన సమాచారం గురించి వచ్చే కొత్త అభ్యర్థనలను తిరస్కరించు
 
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = అమరికలు - వర్చువల్ రియాలిటీ అనుమతులు
     .style = { permissions-window2.style }
+    .title = అమరికలు - వర్చువల్ రియాలిటీ అనుమతులు
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = అమరికలు - కెమెరా అనుమతులు
     .style = { permissions-window2.style }
+    .title = అమరికలు - కెమెరా అనుమతులు
 permissions-site-camera-disable-label =
     .label = మీ కెమేరాను వాడుటకై వచ్చే కొత్త అభ్యర్థనలను తిరస్కరించు
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = అమరికలు - మైక్రోఫోన్ అనుమతులు
     .style = { permissions-window2.style }
+    .title = అమరికలు - మైక్రోఫోన్ అనుమతులు
 permissions-site-microphone-disable-label =
     .label = మీ మైక్రోఫోనును వాడుటకై వచ్చే కొత్త అభ్యర్థనలను తిరస్కరించు

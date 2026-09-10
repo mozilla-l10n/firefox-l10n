@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Informacyje ô udostympnianiu
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Informacyje ô udostympnianiu
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Udostympniosz mikrofōn. Kliknij, coby regiyrować udostympnianiym.
 webrtc-screen-system-menu =
     .label = Udostympniosz ôkno abo ekran. Kliknij, coby regiyrować udostympnianiym.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Twoja kamera i mikrofōn sōm udostympniane. Kliknij, coby regiyrować udostympnianiym.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Twoja kamera je udostympniano. Kliknij, coby regiyrować udostympnianiym.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Twōj mikrofōn je udostympniany. Kliknij, coby regiyrować udostympnianiym.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Aplikacyjo je udostympniano. Kliknij, coby regiyrować udostympnianiym.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Twōj ekran je udostympniany. Kliknij, coby regiyrować udostympnianiym.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Ôkno je udostympniane. Kliknij, coby regiyrować udostympnianiym.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Karta je udostympniano. Kliknij, coby regiyrować udostympnianiym.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -176,7 +157,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Dać serwerowi {
 
 webrtc-share-screen-warning = Udostympniej ekran ino strōnōm, kerym wierzisz. Skuli udostympniynio ôszydne strōny poradzōm przeglōndać nec choby ty i kraść twoje prywatne dane.
 webrtc-share-browser-warning = Udostympniej { -brand-short-name } ino strōnōm, kerym wierzisz. Skuli udostympniynio ôszydne strōny poradzōm przeglōndać nec choby ty i kraść twoje prywatne dane.
-webrtc-share-screen-learn-more = Przewiydz sie wiyncyj
 webrtc-pick-window-or-screen = Ôbier ôkno abo ekran
 webrtc-share-entire-screen = Cołki ekran
 webrtc-share-pipe-wire-portal = Użyj sztalōnkōw ôperacyjnego systymu

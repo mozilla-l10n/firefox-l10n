@@ -32,7 +32,6 @@ sidebar-history-clear =
     .label = Изчистване на историята
 sidebar-history-sort-by-heading-menucaption =
     .label = Подреждане по:
-sidebar-history-sort-by-heading = Подреждане по:
 sidebar-history-sort-option-date =
     .label = Дата
 sidebar-history-sort-option-site =
@@ -52,14 +51,9 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Разширения за странична лента
-sidebar-customize-firefox-tools-header =
-    .label = Инструменти на { -brand-product-name }
 sidebar-customize-firefox-settings = Управление на настройките на { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Вертикални раздели
-sidebar-settings =
-    .label = Настройки на страничната лента
 sidebar-hide-tabs-and-sidebar =
     .label = Скриване на раздели и странична лента
 sidebar-show-on-the-right =
@@ -75,8 +69,6 @@ expand-sidebar-on-hover =
 
 sidebar-context-menu-manage-extension =
     .label = Управление на разширението
-sidebar-context-menu-remove-extension =
-    .label = Премахване на разширението
 sidebar-context-menu-report-extension =
     .label = Докладване на разширението
 sidebar-context-menu-open-in-tab =

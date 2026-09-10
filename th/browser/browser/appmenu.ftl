@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = ส่วนขยายและชุดตกแต่ง
 appmenuitem-extensions =
     .label = ส่วนขยาย
-appmenuitem-addons-and-themes =
-    .label = ส่วนเสริมและชุดตกแต่ง
 appmenuitem-print =
     .label = พิมพ์…
 appmenuitem-find-in-page =
@@ -143,7 +141,6 @@ fxa-menu-get-firefox-mobile =
     .label = รับ { -brand-product-name } สำหรับ Android หรือ iOS
 fxa-menu-secure-sync-subpanel =
     .title = การซิงค์แบบปลอดภัย
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = บัญชี
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -159,15 +156,6 @@ appmenuitem-save-page =
     .label = บันทึกหน้าเป็น…
 appmenuitem-fxa-sync-off-title = Sync ปิดอยู่
 appmenuitem-fxa-sync-off-description = ปกป้องและเข้าถึงที่คั่นหน้า รหัสผ่าน และอื่น ๆ ของคุณได้ทุกที่
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = มีอะไรใหม่
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = แจ้งเตือนเกี่ยวกับคุณลักษณะใหม่
-    .accesskey = จ
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -283,8 +271,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = ข้อมูลการแก้ไขปัญหาเพิ่มเติม
     .accesskey = ข
-appmenu-help-report-site-issue =
-    .label = รายงานปัญหาไซต์…
 appmenu-help-share-ideas =
     .label = แบ่งปันแนวคิดและข้อเสนอแนะ…
     .accesskey = บ
@@ -340,7 +326,6 @@ appmenuitem-services-relay-description = เปิดแดชบอร์ดต
 appmenuitem-vpn-title2 = ซ่อนตำแหน่งของคุณด้วย { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = รับการป้องกันครอบคลุมทั้งอุปกรณ์
-appmenuitem-vpn-description = ปกป้องกิจกรรมออนไลน์ของคุณ
 appmenu-services-header = บริการของฉัน
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -350,7 +335,6 @@ appmenu-other-protection-header3 = เครื่องมือความเ
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = ลองใช้เครื่องมือป้องกันอื่น ๆ จาก Mozilla:
-appmenu-other-protection-header = ลองใช้เครื่องมือป้องกันอื่น ๆ จาก { -vendor-short-name }:
 
 ## Profiles panel
 

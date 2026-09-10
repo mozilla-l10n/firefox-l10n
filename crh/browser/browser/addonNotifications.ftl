@@ -9,13 +9,6 @@ xpinstall-prompt = { -brand-short-name } bu saytnıñ bilgisayarıñız üzerind
 xpinstall-prompt-dont-allow =
     .label = İzin Berme
     .accesskey = m
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = Eklenti qurulımı sistem memurıñız tarafından ğayrı qabilleştirilgendir.
 xpinstall-disabled = Al-azırda yazılım qurulımı ğayrı qabilleştirilgendir. Qabilleştir'ge çertip yañıdan deñeñiz.
 xpinstall-disabled-button =
     .label = Qabilleştir
@@ -29,9 +22,6 @@ webext-perms-update-menu-item = { $addonName } yañı ruhsetlerni şart qoşa
 
 ## Add-on removal warning
 
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = { $name } { -brand-shorter-name } programından çetleştirilsin?
 addon-removal-button = Çetleştir
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
@@ -78,4 +68,3 @@ addon-local-install-error-not-signed = Bu eklenti doğrulanğan olmağanından q
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } qurulamadı çünki { -brand-short-name } { $appVersion } ile qabil-i-telif degil.
-addon-install-error-blocklisted = { $addonName } qurulamadı çünki istiqrarsızlıq yaki emniyet meselelerine sebep olma riski yüksektir.

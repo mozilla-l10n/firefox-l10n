@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = { -brand-short-name } താങ്ങളു
 default-browser-prompt-message-pin-msix = { -brand-short-name } താങ്ങളുടെ വിരൽത്തുമ്പിൽ വയ്ക്കുക — ഇതിനെ താങ്ങളുടെ തനതായ അന്വേഷിയന്ത്രമാക്കി കാര്യപ്പട്ടയിലും തുടക്കക്കുറിപ്പടിയിലും കുത്തിവെക്കുക
 default-browser-prompt-message-pin-mac = { -brand-short-name } താങ്ങളുടെ വിരൽത്തുമ്പിൽ വയ്ക്കുക — ഇതിനെ താങ്ങളുടെ തനതായ അന്വേഷിയന്ത്രമാക്കി കാര്യപ്പട്ടയിൽ കുത്തിവെക്കുക
 default-browser-prompt-button-primary-set = പ്രാഥമിക അന്വേഷിയന്ത്രമാക്കുക
-default-browser-prompt-button-primary-pin = പ്രാഥമിക അന്വേഷിയന്ത്രമാക്കുക
 default-browser-prompt-title-alt = { -brand-short-name }നെ താങ്ങളുടെ തനതായ അന്വേഷിയന്ത്രമാക്കട്ടെ?
 default-browser-prompt-message-alt = താങ്ങൾ ഓരോ തവണയും തിരയുമ്പോൾ വേഗതയും സുരക്ഷയും സ്വകാര്യതയും ഉറപ്പുവരുത്തുക.
 default-browser-prompt-button-primary-alt = തനതു അന്വേഷിയായി വയ്ക്കുക

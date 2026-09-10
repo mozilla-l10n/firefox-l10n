@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
-    .key = F
     .aria-label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+    .key = F
+    .placeholder = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 
 ## Passwords
 
@@ -116,8 +116,6 @@ contextual-manager-passwords-add-username-button = ᱵᱮᱵᱷᱟᱨᱤᱭᱟ�
 
 contextual-manager-passwords-create-label =
     .label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱮᱞᱮᱫ ᱢᱮ
-contextual-manager-passwords-edit-label =
-    .label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 contextual-manager-passwords-origin-field =
     .label = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱴᱷᱤᱠᱬᱟᱹ
     .placeholder = https://www.example.com

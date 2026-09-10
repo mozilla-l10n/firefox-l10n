@@ -59,8 +59,6 @@ appmenu-recently-closed-windows =
 appmenu-about =
     .label = { -brand-shorter-name } Aqqında
     .accesskey = a
-appmenu-help-report-site-issue =
-    .label = Sayt Mes'elesini Maruzala…
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

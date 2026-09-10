@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Ny flik
-    .accesskey = N
 reload-tab =
     .label = Uppdatera flik
     .accesskey = U
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Ny grupp
     .accesskey = N
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -200,13 +193,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Skapa delbar länk
     .accesskey = d
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Skicka flik till enhet
-           *[other] Skicka { $tabCount } flikar till enhet
-        }
-    .accesskey = n
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

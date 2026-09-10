@@ -35,7 +35,6 @@ inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</st
 inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> no es compatible con pseudoelementos ::first-letter.
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> no está soportada en pseudoelementos ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> no tiene efecto en este elemento, ya que tiene una visualización de <strong>{ $display }</strong>.
-inactive-css-not-display-block-on-floated = El motor cambió el valor de <strong>display</strong> a <strong>block</strong> porque el elemento es <strong>floated</strong>.
 inactive-css-not-display-block-on-floated-2 = El motor cambió el valor de <strong>display</strong> a <strong>{ $display }</strong> porque el elemento es <strong>floated</strong>.
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> no tiene efecto porque no se puede usar en elementos de cuadrícula o elementos flexibles
 inactive-css-not-block = <strong>{ $property } </strong> no tiene efecto en este elemento porque solo se aplica a elementos a nivel de bloque.

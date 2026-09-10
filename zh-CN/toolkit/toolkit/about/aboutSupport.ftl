@@ -32,10 +32,6 @@ security-software-name = 名称
 security-software-antivirus = 防病毒软件
 security-software-antispyware = 反间谍软件
 security-software-firewall = 防火墙
-features-title = { -brand-short-name } 功能
-features-name = 名称
-features-version = 版本
-features-id = ID
 processes-title = 远程进程
 processes-type = 类型
 processes-count = 数量
@@ -61,7 +57,6 @@ app-basics-profile-dir =
         [linux] 配置文件文件夹
        *[other] 配置文件文件夹
     }
-app-basics-enabled-plugins = 已启用的插件
 app-basics-build-config = 构建配置
 app-basics-user-agent = 用户代理
 app-basics-os = 操作系统
@@ -99,9 +94,6 @@ show-dir-label =
 environment-variables-title = 环境变量
 environment-variables-name = 名称
 environment-variables-value = 值
-experimental-features-title = 实验性功能
-experimental-features-name = 名称
-experimental-features-value = 值
 modified-key-prefs-title = 修改过的重要首选项
 modified-prefs-name = 名称
 modified-prefs-value = 值
@@ -222,9 +214,6 @@ media-cdm-capabilities = 功能
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = 不加密的前导段
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = 兼容 HDCP 2.2
 
 ##
 
@@ -376,8 +365,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = 通过实验禁用
-fission-status-experiment-treatment = 通过实验启用
 fission-status-disabled-by-e10s-env = 被环境禁用
 fission-status-enabled-by-env = 由环境启用
 fission-status-disabled-by-env = 被环境禁用
@@ -386,7 +373,6 @@ fission-status-disabled-by-default = 默认禁用
 fission-status-enabled-by-user-pref = 由用户启用
 fission-status-disabled-by-user-pref = 被用户禁用
 fission-status-disabled-by-e10s-other = 已禁用 E10s
-fission-status-enabled-by-rollout = 通过分阶段推出启用
 async-pan-zoom = 异步平移/缩放
 apz-none = 无
 wheel-enabled = 滚轮输入已启用

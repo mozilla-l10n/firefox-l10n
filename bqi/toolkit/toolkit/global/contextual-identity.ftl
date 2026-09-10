@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = بؽ بلگه هامل
-    .accesskey = N
 user-context-manage-containers =
     .label = دؽوۉداری هاملا
     .accesskey = o

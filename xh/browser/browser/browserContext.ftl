@@ -144,15 +144,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Thumela ngeimeyile okunesandi…
     .accesskey = e
-main-context-menu-send-to-device =
-    .label = Thumela iPhepha kwiSixhobo
-    .accesskey = k
 
 ##
 
-main-context-menu-keyword =
-    .label = Yongeza Igama Elisentloko koku kukhangela…
-    .accesskey = I
 main-context-menu-link-send-to-device =
     .label = Thumela iLinki kwiSixhobo
     .accesskey = k

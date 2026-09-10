@@ -59,14 +59,3 @@ move-to-end =
 move-to-new-window =
     .label = નવી વિન્ડોમાં ખસેડો
     .accesskey = W
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] ટૅબને ઉપકરણમાં મોકલો
-           *[other] { $tabCount } ટૅબ્સને ઉપકરણમાં મોકલો
-        }
-    .accesskey = n

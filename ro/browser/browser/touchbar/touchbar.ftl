@@ -31,4 +31,3 @@ search-bookmarks = Marcaje
 search-history = Istoric
 search-opentabs = File deschise
 search-tags = Etichete
-search-titles = Titluri

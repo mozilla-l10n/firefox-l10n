@@ -84,8 +84,6 @@ options-sourceeditor-keybinding-default-label = Makwongo
 options-context-advanced-settings = Ter ma lamal
 options-disable-http-cache-tooltip =
     .title = Cako ter man bijuko kano HTTP pi dirica matino weng ma tye ki bok me gitic ayaba. Ter man pe gudo kom Service Workers.
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Juk JavaScript *
 options-disable-javascript-tooltip =
     .title = Dino gin ayera man obi juko JavaScript pi dirica matidi matye kombedi. Ka ce dirica matidi onyo canduk me gintic ki loro woko ci ter man wic obi wil iye.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -98,8 +96,6 @@ options-enable-remote-label = Ye nongo bal ki kama bor
 options-enable-service-workers-http-label = Cak Service Workers i HTTP (kacce bok me gitic tye ayaba)
 options-enable-service-workers-http-tooltip =
     .title = Cako ter man bicako service workers i HTTP pi dirica matino weng matye ki bok me gitic ayaba.
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Kare ma kombedi ni keken, nwoyo cano pot buk
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

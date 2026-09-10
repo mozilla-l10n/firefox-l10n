@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = දිගුවට දත්ත කියවීමට හා සංශෝධනයට නොහැකිය
-origin-controls-quarantined =
-    .label = දිගුවට දත්ත කියවීමට හා සංශෝධනයට ඉඩ නොදේ
 origin-controls-option-all-domains =
     .label = සියළුම අඩවිවල
 

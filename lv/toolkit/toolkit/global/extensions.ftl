@@ -10,11 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Pievienot { $extension }?
-webext-perms-header-with-perms = Pievienot { $extension }? Šim paplašinājumam būs atļauja:
 webext-perms-sideload-header = { $extension } pievienots
 webext-perms-optional-perms-header2 = { $extension } ir nepieciešamas papildu atļaujas
-webext-perms-optional-perms-header = { $extension } ir nepieciešamas papildu atļaujas.
 webext-perms-header2 = Pievienot { $extension }
 
 ## Headers used in the webextension permissions dialog, inside the content.
@@ -43,9 +40,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } tika atjaunināts. Ir nepieciešams apstiprināt atļaujas, lai uzstādītu atjaunināto versiju. “Atcelt” izvēlēšanās paturēs pašreizējo paplašinājuma versiju.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } tika atjaunināts. Ir nepieciešams apstiprināt jaunas atļaujas, lai varētu uzstādīt atjaunināto versiju. “Atcelt” izvēlēšanās paturēs pašreizējo paplašinājuma versiju. Šim paplašinājumam būs atļauja:
 webext-perms-update-accept =
     .label = Atjaunināt
     .accesskey = A
@@ -61,26 +55,8 @@ webext-perms-host-description-all-urls = Piekļuve visiem datiem visās tīmekļ
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Piekļuve visiem datiem { $domain } domēna vietnēs
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [zero] Pieeja jūsu datiem { $domainCount } citos domēnos
-        [one] Pieeja jūsu datiem { $domainCount } citā domēnā
-       *[other] Pieeja jūsu datiem { $domainCount } citos domēnos
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Pieeja jūsu datiem no { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [zero] Pieeja jūsu datiem { $domainCount } citās lapās
-        [one] Pieeja jūsu datiem { $domainCount } citā lapā
-       *[other] Pieeja jūsu datiem { $domainCount } citās lapās
-    }
 
 ## Strings for data collection permissions in the permission prompt.
 

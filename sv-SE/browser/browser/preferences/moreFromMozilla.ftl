@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Mer från { -vendor-short-name }
 more-from-moz-page-header =
     .heading = Mer från { -vendor-short-name }
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } för mobil
 more-from-moz-firefox-mobile-description = Den mobila webbläsaren som sätter din integritet främst.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } för mobil
 more-from-moz-firefox-mobile =
-    .label = { -brand-product-name } för mobil
     .description = Den mobila webbläsaren som sätter din integritet främst.
+    .label = { -brand-product-name } för mobil
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Upptäck ett extra lager av anonym surfning och skydd.
 more-from-moz-qr-code-box-firefox-mobile-title = Ladda ner med din mobila enhet. Rikta kameran mot QR-koden. När en länk visas trycker du på den.
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = Skaffa { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Ta automatiskt tillbaka din exponerade personliga information.
 more-from-moz-mozilla-monitor-global-description = Få varningar när din data har blivit utsatt för ett intrång.
 more-from-moz-mozilla-monitor-button = Skaffa { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Skapa din webbplats direkt och anslut din egen anpassade domän gratis.
 more-from-moz-solo-button = Prova { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = { -solo-ai-brand-name } AI Webbplatsskapare
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = Mejla nedladdningslänken till din tel
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = Ta reda på var dina personuppgifter har exponerats online med en gratis skanning.
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = Få extra skydd för alla appar — inte bara din webbläsare. Skydda dina data på offentliga Wi-Fi-nätverk och osäkra nätverk.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = Skydda din inkorg från skräppost med gratis e-postalias.
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = Lär dig webbutveckling med gratis guider och referenser.
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = Få tillgång till din e-post, dina kalendrar och dina kontakter i en snabb app.
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = Skapa din webbplats direkt och anslut din egen anpassade domän gratis.
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = { -vendor-short-name } nya produkter
     .description = Utforska våra senaste idéer och experimentella tekniker.
+    .label = { -vendor-short-name } nya produkter
 more-from-moz-mozilla-monitor-box-link =
     .label = Hämta { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =

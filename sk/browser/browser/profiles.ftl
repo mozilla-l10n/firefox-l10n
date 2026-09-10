@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } otvorí váš naposledy použitý profil.
 profile-window-create-profile = Vytvoriť profil
 profile-card-edit-button =
-    .title = Upraviť profil
     .aria-label = Upraviť profil
+    .title = Upraviť profil
 profile-card-delete-button =
-    .title = Odstrániť profil
     .aria-label = Odstrániť profil
+    .title = Odstrániť profil
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Otvoriť { $profileName }
     .aria-label = Otvoriť { $profileName }
+    .title = Otvoriť { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profil { $number }
@@ -83,9 +83,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Odstránenie profilu { $profilename }
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = Odstrániť profil { $profilename }?
 delete-profile-description = { -brand-short-name } natrvalo odstráni nasledujúce údaje z tohto zariadenia:
 # Open is an adjective, as in "browser windows currently open".
@@ -112,28 +109,10 @@ delete-profile-confirm = Odstrániť
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Svetlá
-# The default dark theme
-profiles-dark-theme = Tmavá
 # The default system theme
 profiles-system-theme = Systémová
 profiles-system-theme-title =
     .title = Použiť systémovú tému
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = Nechtík žltý
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = Bledá levanduľa
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = Mätovo zelená
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = Magnólia ružová
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = Oceánská modrá
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = Tehlovo červená
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = Machovo zelená
 profiles-gray-theme = Sivá
 profiles-gray-theme-title =
     .title = Použiť sivú tému
@@ -290,9 +269,6 @@ profiles-appmenu-callout-tour-subtitle = V ponuke ☰ ťuknite na názov svojho 
 profiles-appmenu-callout-tour-primary-button = Ako na to
 barbell-avatar = Činka
 bike-avatar = Bicykel
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Použiť avatara s činkou
 bike-avatar-tooltip =

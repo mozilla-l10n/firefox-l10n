@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = { -brand-short-name } ن رو نوک کلک
 default-browser-prompt-message-pin-msix = { -brand-short-name } ن رو نوک کلکا خوت داشته بۊ — هو ن و گشت گر پؽش فرز خوت تبدیل کوݩ وو هو ن من تسکبار وو نومگه استارت بدیسن.
 default-browser-prompt-message-pin-mac = { -brand-short-name } ن رو نوک کلکا خوت داشته بۊ — هو ن و گشت گر پؽش فرز خوت وو من Dock بدیسن.
 default-browser-prompt-button-primary-set = سامووݩ و عونوان گشت گر ٱسلی
-default-browser-prompt-button-primary-pin = تبدیل و گشت گر ٱسلی
 default-browser-prompt-title-alt = { -brand-short-name } ن گشت گر پؽش فرز خوتووݩ اکۊنین؟
 default-browser-prompt-message-alt = من هر مجالی، مجال گشتن من اینترنت، ترات، ٱمنیت وو هریم سیخومی ن وا خوتووݩ داشته بۊین.
 default-browser-prompt-button-primary-alt = سامووݩ و عونوان گشت گر پؽش فرز

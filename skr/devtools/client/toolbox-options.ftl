@@ -115,8 +115,6 @@ options-context-advanced-settings = ایڈوانس ترتیباں
 options-disable-http-cache-label = HTTP کیشے کوں غیر فعال کرو (جݙاں ٹول باکس کھلیا ہووے)
 options-disable-http-cache-tooltip =
     .title = ایں آپشن کوں آن کرݨ نال انہاں تمام ٹیباں کیتے HTTP کیش غیر فعال تھی ویسے جنہاں وِچ ٹول باکس کھلا ہے۔ سروس ورکرز ایں اختیار نال متاثر نہیں تھیندے۔
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = JavaScript غیر فعال بݨاؤ *
 options-disable-javascript-tooltip =
     .title = ایں آپشن کوں آن کرݨ نال موجودہ ٹیب کیتے JavaScript غیر فعال تھی ویسے۔ جے ٹیب یا ٹول باکس بند ہے تاں ایہ ترتیب بھل ویسے۔
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -143,8 +141,6 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = سورس نقشے فعال بݨاؤ
 options-source-maps-tooltip =
     .title = جے تساں ایں اختیار کوں فعال کریندے او تاں ذرائع کوں ٹولز وِچ میپ کیتا ویسے۔
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * صرف موجودہ سیشن، ورقہ کوں دوبارہ لوڈ کریندا ہے۔
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

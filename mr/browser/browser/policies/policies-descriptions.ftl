@@ -25,11 +25,9 @@ policy-DisableAppUpdate = ब्राउझरला अद्ययावत �
 policy-DisableBuiltinPDFViewer = { -brand-short-name } मधील अंगभूत PDF दर्शक, PDF.js अक्षम करा.
 policy-DisableDeveloperTools = विकसक साधनांमध्ये प्रवेश अवरोधित करा.
 policy-DisableFeedbackCommands = मदत मेनूवरून अभिप्राय पाठविण्यासाठी आज्ञा अक्षम करा (अभिप्राय सबमिट करा आणि भ्रामक साइटचा अहवाल द्या).
-policy-DisableFirefoxAccounts = समक्रमणसह, { -fxaccount-brand-name } आधारित सेवा अक्षम करा.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Firefox स्क्रीनशॉट सुविधा निष्क्रिय करा.
 policy-DisableFormHistory = शोध व फॉर्म इतिहास साठवून ठेवू नका
-policy-DisablePocket2 = संकेतस्थळे { -pocket-brand-name } मध्ये साठवणे निष्क्रिय करा.
 policy-DisablePrivateBrowsing = खाजगी ब्राऊझिंग निष्क्रिय करा.
 policy-DisableProfileImport = इतर ब्राउझरवरून डेटा आयात करण्यासाठी मेनू आदेश अक्षम करा.
 policy-DisableProfileRefresh = about:support पृष्ठातील { -brand-short-name } रिफ्रेश बटन निष्क्रिय करा.
@@ -49,7 +47,6 @@ policy-InstallAddonsPermission = अॅड-ऑन स्थापित कर�
 
 ##
 
-policy-PopupBlocking = काही वेबसाइटना डीफॉल्टनुसार पॉपअप प्रदर्शित करण्यासाठी अनुमती द्या.
 policy-PromptForDownloadLocation = डाउनलोड करताना फाइल कोठे साठवायच्या ते विचारा.
 policy-Proxy = प्रॉक्सी सेटिंग कॉन्फिगर करा.
 policy-SearchEngines = शोध इंजिन सेटिंग्ज कॉन्फिगर करा. हे धोरण केवळ विस्तारित समर्थन रिलीझ (ESR) आवृत्तीवर उपलब्ध आहे.

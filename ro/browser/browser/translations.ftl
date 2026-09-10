@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Tradu această pagină
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Traducere în curs
 translations-panel-settings-button =
     .aria-label = Gestionează setările de traducere
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Gestionează limbile
-translations-panel-settings-about = Despre traduceri în { -brand-shorter-name }
 translations-panel-settings-about2 =
     .label = Despre traduceri în { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
@@ -91,14 +82,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = Ne pare rău, încă nu oferim traduceri din { $language }.
 translations-panel-error-unsupported-hint-unknown-2 = Ne pare rău, încă nu oferim traduceri din această limbă.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Ne pare rău, încă nu oferim suport pentru { $language }.
-translations-panel-error-unsupported-hint-unknown = Ne pare rău, încă nu oferim suport pentru această limbă.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -130,10 +113,6 @@ translations-manage-header = Traduceri
 translations-manage-settings-button =
     .label = Setări…
     .accesskey = t
-translations-manage-description = Descarcă limbi pentru traducere offline.
-translations-manage-all-language = Toate limbile
-translations-manage-download-button = Descarcă
-translations-manage-delete-button = Șterge
 translations-manage-intro-2 = Setează preferințele de traducere pentru limbă și site-uri și gestionează limbile descărcate pentru traducerea offline.
 translations-manage-download-description = Descarcă limbi pentru traducere offline
 translations-manage-language-download-button =
@@ -147,12 +126,11 @@ translations-manage-language-remove-all-button =
     .label = Elimină toate
     .accesskey = e
 translations-manage-error-download = A apărut o problemă la descărcarea fișierelor lingvistice. Te rugăm să încerci din nou.
-translations-manage-error-delete = A apărut o problemă la ștergerea fișierelor lingvistice. Te rugăm să încerci din nou.
 translations-manage-error-remove = A apărut o problemă la eliminarea fișierelor lingvistice. Te rugăm să încerci din nou.
 translations-manage-error-list = Nu s-a putut obține lista de limbi disponibile pentru traducere. Reîmprospătează pagina pentru a încerca din nou.
 translations-settings-title =
-    .title = Setări pentru traduceri
     .style = min-width: 37em
+    .title = Setări pentru traduceri
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Traducerea se va face automat pentru următoarele limbi
@@ -246,16 +224,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = Ne pare rău, încă nu oferim traduceri din { $language }.
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = Ne pare rău, încă nu oferim traduceri din această limbă.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Ne pare rău, încă nu oferim suport pentru { $language }.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Ne pare rău, încă nu oferim suport pentru această limbă.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Setări pentru traduceri

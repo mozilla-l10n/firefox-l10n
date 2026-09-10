@@ -26,8 +26,6 @@ downloads-cmd-cancel-panel =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = Ruodeit lejupīluožu mapi
 downloads-cmd-retry =
     .tooltiptext = Atkuortuot
 downloads-cmd-retry-panel =

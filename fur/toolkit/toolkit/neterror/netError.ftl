@@ -25,17 +25,13 @@ neterror-override-exception-button = Acete il risi e continue
 neterror-pref-reset-button = Ripristine impostazions predefinidis
 neterror-return-to-previous-page-button = Torne indaûr
 neterror-return-to-previous-page-recommended-button = Torne indaûr (conseât)
-neterror-try-again-button = Torne prove
 neterror-add-exception-button = Continue simpri par chest sît
 neterror-settings-button = Modifiche impostazions DNS
 neterror-view-certificate-link = Visualize certificât
-neterror-trr-continue-this-time = Continue par cheste volte
-neterror-disable-native-feedback-warning = Continue simpri
 
 ##
 
 neterror-pref-reset = Al somee che lis impostazions di sigurece de tô rêt a causedin chest probleme. Desideristu tornâ a meti lis impostazions predefinidis?
-neterror-error-reporting-automatic = Segnale i erôrs come chest par judâ { -vendor-short-name } a identificâ e blocâ i sîts malevui
 
 ## Specific error messages
 
@@ -64,25 +60,15 @@ neterror-dns-not-found-offline-hint-reconnect = Disconetiti e torne conetiti al 
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } nol rive a protezi la richieste relative ae direzion di chest sît doprant il nestri afidabil servizi di risoluzion dai nons (DNS). Chi al è il motîf:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } nol pues protezi, midiant il nestri servizi sigûr di risoluzion nons (DNS), la richieste relative ae direzion di chest sît. Chest al è il motîf:
 neterror-dns-not-found-trr-third-party-warning2 = Tu puedis continuâ cul to risolvidôr DNS predefinît. Dut câs, un sogjet di tiercis parts al podarès rivâ a viodi ce sîts che tu visitis.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } nol è rivât a conetisi a { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = La conession a { $trrDomain } e à domandât plui timp di ce che si previodeve.
-neterror-dns-not-found-trr-offline = Nissune conession a internet.
 neterror-dns-not-found-trr-unknown-host2 = Chest sît web nol è stât cjatât di { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Al è vignût fûr un probleme cun { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = URL no valit.
 neterror-dns-not-found-system-sleep = Il sisteme al è in modalitât polse.
 neterror-dns-not-found-trr-unknown-problem = Probleme inspietât.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } nol rive a protezi la richieste relative ae direzion di chest sît doprant il nestri afidabil servizi di risoluzion dai nons (DNS). Chi al è il motîf:
-neterror-dns-not-found-native-fallback-heuristic = DNS vie HTTPs al è stât disabilitât te tô rêt.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } nol è rivât a conetisi a { $trrDomain }.
 
 ##
 
@@ -91,8 +77,6 @@ neterror-file-not-found-moved = Verifiche che il file nol seddi stât spostât, 
 neterror-access-denied = Al podarès jessi stât gjavât, o mot, opûr i permès dal file a podaressin impedî l'acès.
 neterror-unknown-protocol = Par vierzi cheste direzion tu podaressis vê di instalâ altris programs.
 neterror-redirect-loop = Cualchi volte al è pussibil causâ chest probleme disativant o refudant di acetâ i cookies.
-neterror-unknown-socket-type-psm-installed = Verifiche che il to sisteme al vedi instalât il Personal Security Manager.
-neterror-unknown-socket-type-server-config = Chest al podarès jessi dovût a une configurazion sul servidôr che no je standard.
 neterror-not-cached-intro = Il document domandât nol è disponibil te memorie cache di { -brand-short-name }.
 neterror-not-cached-sensitive = Come misure precauzionâl di sigurece, { -brand-short-name } nol torne a domandâ documents sensibii.
 neterror-not-cached-try-again = Fâs clic su Torne prove par tornâ a domandâ il document dal sît web.

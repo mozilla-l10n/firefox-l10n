@@ -40,9 +40,6 @@ unified-extensions-item-message-manage = Nastavení tohoto rozšíření
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = Rozšíření { $extensionName } je omezeno. Jeho používání může být riskantní.
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = Rozšíření { $extensionName } porušuje zásady Mozilly. Jeho používání může být riskantní.
 
 ## Extension's context menu
 
@@ -61,12 +58,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Některá rozšíření nejsou povolena
-unified-extensions-mb-quarantined-domain-message =
-    { -vendor-short-name.case-status ->
-        [with-cases] Kvůli ochraně vašich dat jsou na tomto webu povolena pouze některá rozšíření monitorovaná { -vendor-short-name(case: "ins") }.
-       *[no-cases] Kvůli ochraně vašich dat jsou na tomto webu povolena pouze některá rozšíření monitorovaná organizací { -vendor-short-name }.
-    }
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Některá rozšíření nejsou povolena
@@ -86,13 +77,6 @@ unified-extensions-mb-blocklist-warning-single2 =
     .heading = { $extensionName } zakázáno
     .message = Toto rozšíření je omezeno a bylo zakázáno. Můžete ho povolit v nastavení, ale může to být riskantní.
 # Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } je zakázané
-    .message =
-        Toto rozšíření porušuje zásady společnosti Mozilla a bylo zakázáno.
-        Můžete jej povolit v nastavení, ale může to být riskantní.
-# Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } je zakázané
@@ -108,19 +92,6 @@ unified-extensions-mb-blocklist-warning-multiple2 =
            *[other] { $extensionsCount } rozšíření bylo zakázáno
         }
     .message = Některá vaše rozšíření jsou omezena a byla zakázána. Můžete je povolit v nastavení, ale může to být riskantní.
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-            [one] { $extensionsCount } rozšíření je zakázáno
-            [few] { $extensionsCount } rozšíření jsou zakázané
-            [many] { $extensionsCount } rozšíření je zakázaných
-           *[other] { $extensionsCount } rozšíření je zakázaných
-        }
-    .message =
-        Některá vaše rozšíření byla zakázána kvůli porušení zásad společnosti Mozilla.
-        Můžete je povolit v nastavení, ale může to být riskantní.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =

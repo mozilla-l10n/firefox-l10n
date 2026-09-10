@@ -87,8 +87,6 @@ options-context-advanced-settings = ઉન્નત સેટીંગ
 options-disable-http-cache-label = HTTP કામચલાઉ સંગ્રહ અક્ષમ કરો (જ્યારે ટૂલબોક્સ ખુલ્લું હોય)
 options-disable-http-cache-tooltip =
     .title = આ વિકલ્પને ચાલુ કરવાથી, બધા ટૅબ્સ માટે HTTP કામચલાઉ સંગ્રહને અક્ષમ કરશે જે પાસે ટૂલબોક્સ ખુલ્લું છે. સર્વિસ વર્કર્સ આ વિકલ્પ દ્વારા પ્રભાવિત નથી.
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = JavaScript * ને સક્રિય કરો
 options-disable-javascript-tooltip =
     .title = આ વિકલ્પને ચાલુ રાખવાથી વર્તમાન ટૅબ માટે JavaScript નિષ્ક્રિય થઇ જશે. જો ટૅબ અથવા સાધનબોક્સ બંધ થયેલ છે પછી આ સુયોજન ભૂલ થઇ જશે.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -105,8 +103,6 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = સ્રોત નકશા સક્ષમ કરો
 options-source-maps-tooltip =
     .title = જો તમે આ વિકલ્પ સ્રોતોને સક્ષમ કરો છો તો ટૂલ્સમાં સરખાવવામાં આવશે.
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * ફક્ત વર્તમાન સત્ર, પાનાંને ફરી લાવે છે
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

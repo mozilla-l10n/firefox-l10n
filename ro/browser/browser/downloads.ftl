@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Afișează în Finder
            *[other] Afișează în dosar
         }
-downloads-cmd-show-downloads =
-    .label = Afișează dosarul cu descărcări
 downloads-cmd-retry =
     .tooltiptext = Reîncearcă
 downloads-cmd-retry-panel =

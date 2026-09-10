@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Винятки
     .style = min-width: 36em
+    .title = Винятки
 permissions-close-key =
     .key = w
 permissions-address = Адреса сайту
@@ -80,72 +80,57 @@ permissions-invalid-uri-label = Введіть правильне мережев
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Винятки для розширеного захисту від стеження
     .style = { permissions-window2.style }
+    .title = Винятки для розширеного захисту від стеження
 permissions-exceptions-manage-etp-desc = Ви можете вказати, для яких вебсайтів вимкнути розширений захист від стеження. Введіть точну адресу сайту, для якого потрібно виконати зміни, а потім натисніть "Додати виняток".
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Винятки – файли cookie та дані сайтів
     .style = { permissions-window2.style }
+    .title = Винятки – файли cookie та дані сайтів
 permissions-exceptions-cookie-desc = Ви можете вказати, яким вебсайтам завжди дозволяти, а яким ніколи не дозволяти використовувати файли cookie та дані сайтів.  Введіть точну адресу сайту, який ви хочете додати, потім натисніть Блокувати, Дозволити на сеанс чи Дозволити.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Винятки – HTTPS-режим
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Ви можете вимкнути HTTPS-режим для певних вебсайтів. { -brand-short-name } не намагатиметься оновити з'єднання, щоб захистити ці сайти за допомогою HTTPS. Винятки не стосуються приватних вікон.
+    .title = Винятки – HTTPS-режим
 permissions-exceptions-https-only-desc2 = Ви можете вимкнути HTTPS-режим для певних вебсайтів. { -brand-short-name } не намагатиметься оновити з'єднання, щоб захистити ці сайти за допомогою HTTPS.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
     .title = Дозволені сайти – спливні вікна та сторонні переспрямування
-    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = Ви можете вказати вебсайти, для яких дозволяється відкриття спливних вікон і переспрямування за допомогою сторонніх фреймів.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Дозволені вебсайти - Спливні вікна
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Ви можете вказати, яким сайтам дозволено відкривати спливні вікна. Введіть точну адресу для кожного сайту і натисніть кнопку Дозволити.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Винятки - Збережені паролі
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Паролі для таких вебсайтів не зберігатимуться
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Винятки – Збережені паролі
     .style = { permissions-window2.style }
+    .title = Винятки – Збережені паролі
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } не зберігатиме паролі для зазначених тут сайтів.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Дозволені вебсайти - Встановлення додатків
     .style = { permissions-window2.style }
+    .title = Дозволені вебсайти - Встановлення додатків
 permissions-exceptions-addons-desc = Ви можете вказати, яким сайтам дозволено встановлювати додатки. Введіть точну адресу кожного сайту і натисніть кнопку Дозволити.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Налаштування - Автовідтворення
     .style = { permissions-window2.style }
+    .title = Налаштування - Автовідтворення
 permissions-site-autoplay-desc = Тут ви можете керувати сайтами, що не дотримуються ваших типових налаштувань автовідтворення.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Налаштування - Дозволи сповіщень
     .style = { permissions-window2.style }
+    .title = Налаштування - Дозволи сповіщень
 permissions-site-notification-desc = Зазначені тут вебсайти запитували дозвіл надсилати вам сповіщення. Ви можете вказати, яким вебсайтам дозволяється надсилати вам сповіщення. Ви також можете блокувати нові запити про надсилання сповіщень.
 permissions-site-notification-disable-label =
     .label = Блокувати нові запити про отримання сповіщень
@@ -154,8 +139,8 @@ permissions-site-notification-disable-desc = Це не дозволить буд
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Налаштування - Дозволи розташування
     .style = { permissions-window2.style }
+    .title = Налаштування - Дозволи розташування
 permissions-site-location-desc = Зазначені тут вебсайти запитували дозвіл на доступ до вашого розташування. Ви можете вказати, яким вебсайтам дозволяється отримувати доступ до вашого розташування. Ви також можете блокувати нові запити на доступ до вашого розташування.
 permissions-site-location-disable-label =
     .label = Блокувати нові запити про отримання доступу до вашого розташування
@@ -164,8 +149,8 @@ permissions-site-location-disable-desc = Це не дозволить будь-�
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Налаштування - Дозволи віртуальної реальності
     .style = { permissions-window2.style }
+    .title = Налаштування - Дозволи віртуальної реальності
 permissions-site-xr-desc = Зазначені вебсайти запитували дозвіл на доступ до ваших пристроїв віртуальної реальності. Ви можете вказати, яким вебсайтам дозволено отримувати доступ до пристроїв віртуальної реальності. Ви також можете блокувати нові запити на доступ до пристроїв віртуальної реальності.
 permissions-site-xr-disable-label =
     .label = Блокувати нові запити про отримання доступу до ваших пристроїв віртуальної реальності
@@ -174,8 +159,8 @@ permissions-site-xr-disable-desc = Це не дозволить будь-яки�
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Налаштування - Дозволи камери
     .style = { permissions-window2.style }
+    .title = Налаштування - Дозволи камери
 permissions-site-camera-desc = Зазначені тут вебсайти запитували дозвіл на доступ до вашої камери. Ви можете вказати, яким вебсайтам дозволяється отримувати доступ до вашої камери. Ви також можете блокувати нові запити на доступ до вашої камери.
 permissions-site-camera-disable-label =
     .label = Блокувати нові запити про отримання доступу до вашої камери
@@ -184,8 +169,8 @@ permissions-site-camera-disable-desc = Це не дозволить будь-я�
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = Налаштування – Програми та служби пристрою
     .style = { permissions-window2.style }
+    .title = Налаштування – Програми та служби пристрою
 permissions-site-localhost-desc = Ці вебсайти подали запит на доступ до програм і служб на цьому пристрої. Ви можете дозволити або заборонити доступ.
 permissions-site-localhost-disable-label =
     .label = Блокувати нові запити на доступ до програм і служб на цьому пристрої
@@ -194,8 +179,8 @@ permissions-site-localhost-disable-desc = Ця дія заборонить бу�
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = Налаштування – Пристрої локальної мережі
     .style = { permissions-window2.style }
+    .title = Налаштування – Пристрої локальної мережі
 permissions-site-local-network-desc = Ці вебсайти запитують доступ до програм і служб на пристроях, під'єднаних до вашої мережі Wi-Fi або локальної мережі. Ви можете дозволити або заборонити доступ.
 permissions-site-local-network-disable-label =
     .label = Блокувати нові запити на доступ до програм і служб на пристроях, під'єднаних до вашої мережі Wi-Fi або локальної мережі.
@@ -204,8 +189,8 @@ permissions-site-local-network-disable-desc = Ця дія заборонить �
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Налаштування - Дозволи мікрофону
     .style = { permissions-window2.style }
+    .title = Налаштування - Дозволи мікрофону
 permissions-site-microphone-desc = Зазначені тут вебсайти запитували дозвіл на доступ до вашого мікрофону. Ви можете вказати, яким вебсайтам дозволяється отримувати доступ до вашого мікрофону. Ви також можете блокувати нові запити на доступ до вашого мікрофону.
 permissions-site-microphone-disable-label =
     .label = Блокувати нові запити про отримання доступу до вашого мікрофону
@@ -216,12 +201,12 @@ permissions-site-microphone-disable-desc = Це не дозволить будь
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Налаштування - Дозволи гучномовців
     .style = { permissions-window2.style }
+    .title = Налаштування - Дозволи гучномовців
 permissions-site-speaker-desc = Ці вебсайти запитували дозвіл на вибір пристрою виводу звуку. Ви можете вказати, яким вебсайтам дозволено вибирати пристрій аудіовиводу.
 permissions-exceptions-doh-window =
-    .title = Винятки вебсайтів для DNS через HTTPS
     .style = { permissions-window2.style }
+    .title = Винятки вебсайтів для DNS через HTTPS
 permissions-exceptions-manage-doh-desc = { -brand-short-name } не використовуватиме захищену DNS на цих сайтах та їхніх піддоменах.
 permissions-doh-entry-field = Введіть доменне ім'я вебсайту
     .accesskey = о

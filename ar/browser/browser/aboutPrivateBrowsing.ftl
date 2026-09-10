@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = افتح نافذة خاصة
     .accesskey = خ
 about-private-browsing-search-placeholder = ابحث في الوِب
-about-private-browsing-info-title = أنت في نافذة خاصة
 about-private-browsing-search-btn =
     .title = ابحث في الوِب
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = ‫ابحث بـ { $engine } أو أدخِل عنوانا
 about-private-browsing-handoff-text-no-engine = ابحث أو أدخِل عنوانا
 about-private-browsing-not-private = لستَ حاليا في نافذة خاصة.
-about-private-browsing-info-description-private-window = نافذة خاصة: يمسح { -brand-short-name } تأريخ البحث والتصفح عند إغلاق جميع النوافذ الخاصة. هذا لا يجعلك مجهول الهوية.
-about-private-browsing-info-description-simplified = يمسح { -brand-short-name } تأريخ البحث والتصفح عند إغلاق جميع النوافذ الخاصة، ولكن هذا لا يجعلك مجهول الهوية.
-about-private-browsing-learn-more-link = اطّلع على المزيد
 about-private-browsing-hide-activity = أخفِ نشاطك وموقعك أينما ذهبت
 about-private-browsing-get-privacy = احمِ خصوصيتك أينما تصفّحت
 about-private-browsing-hide-activity-1 = أخفِ نشاط التصفح ومكانك باستعمال { -mozilla-vpn-brand-name }. يمكنك بنقرة واحدة إنشاء اتصال آمن، حتى على الشبكات اللاسلكية العمومية.
@@ -29,8 +25,6 @@ about-private-browsing-prominent-cta = احفظ خصوصيتك دومًا عبر
 about-private-browsing-focus-promo-cta = نزّل { -focus-brand-name }
 about-private-browsing-focus-promo-header = ‏{ -focus-brand-name }: التصفّح الخاص أينما كنت
 about-private-browsing-focus-promo-text = يمسح تطبيق الهاتف للتصفح الخاص كل التأريخ والكعكات في كل مرة.
-about-private-browsing-focus-promo-header-b = جرّب التصفح الخاص من هاتفك
-about-private-browsing-focus-promo-text-b = استعمل { -focus-brand-name } كي تبحث عما تريد بخصوصية ولا تريد لمتصفّح الهاتف الرئيس أن يرى ما تفعل.
 about-private-browsing-focus-promo-header-c = مستوى أعلى من الخصوصية على الهاتف المحمول
 about-private-browsing-focus-promo-text-c = يمسح { -focus-brand-name } تأريخ التصفّح في كل مرة، وفي نفس الوقت يمنع الإعلانات والمتعقّبات.
 # This string is the title for the banner for search engine selection
@@ -60,11 +54,6 @@ about-private-browsing-pin-promo-title = لن تحفظ ملفات تعريف ا�
 
 ## Strings used in a promotion message for cookie banner reduction
 
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = وداعًا لافتات ملفات تعريف الارتباط!
-about-private-browsing-cookie-banners-promo-button = تقليل لافتات ملفات تعريف الارتباط
-about-private-browsing-cookie-banners-promo-message = اسمح لـ { -brand-short-name } بالرد تلقائيًا على النوافذ المنبثقة لملفات تعريف الارتباط حتى تتمكن من العودة إلى التصفح الخالي من التشتيت. { -brand-short-name } سيرفض جميع الطلبات إن أمكن.
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } يتولى أمر لافتات ملفات تعريف الارتباط نيابةً عنك

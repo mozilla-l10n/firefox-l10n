@@ -14,15 +14,3 @@ extension-firefox-compact-dark-name = شوخ
 extension-firefox-compact-dark-description = ہک تھیم ڳُوڑھے رنگ دی سکیم  نال۔
 extension-firefox-alpenglow-name = Firefox الپینگلو
 extension-firefox-alpenglow-description = بٹݨاں، مینوز تے ونڈوز کیتے رنگیل جھاں دا استعمال کرو۔
-
-## Colorway Themes
-## These themes are variants of a colorway. The colorway is specified in the
-## $colorway-name variable.
-## Variables
-##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
-
-extension-colorways-soft-name = { $colorway-name } نرم
-extension-colorways-balanced-name = { $colorway-name } متوازن
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-extension-colorways-bold-name = { $colorway-name } ٹھُلھا

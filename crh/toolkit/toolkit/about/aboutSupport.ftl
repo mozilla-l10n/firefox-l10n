@@ -21,10 +21,6 @@ security-software-name = İsim
 security-software-antivirus = Antivirus
 security-software-antispyware = Anticasuslam
 security-software-firewall = Ateşdivarı
-features-title = { -brand-short-name } Hususiyetleri
-features-name = İsim
-features-version = Sürüm
-features-id = Kimlik
 app-basics-title = Uyğulama Temelleri
 app-basics-name = İsim
 app-basics-version = Sürüm
@@ -37,7 +33,6 @@ app-basics-profile-dir =
         [linux] Profil Fihristi
        *[other] Profil Cilbenti
     }
-app-basics-enabled-plugins = Qabilleştirilgen Plaginler
 app-basics-build-config = İnşa Yapılandırılışı
 app-basics-user-agent = Qullanıcı Vekili
 app-basics-os = İS

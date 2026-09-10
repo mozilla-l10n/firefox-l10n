@@ -23,9 +23,6 @@ legacy-user-stylesheets-enabled = സജ്ജം
 security-software-type = തരം
 security-software-name = പേരു്
 security-software-firewall = തീച്ചുവർ
-features-title = { -brand-short-name } സവിശേഷതകൾ
-features-name = പേര്
-features-version = പതിപ്പ്
 processes-type = തരം
 processes-count = എണ്ണം
 app-basics-title = പ്രയോഗത്തിന്റെ അടിസ്ഥാന വിശേഷതകള്‍
@@ -47,7 +44,6 @@ app-basics-profile-dir =
         [linux] പ്രൊഫൈല്‍ ഡയറക്ടറി
        *[other] പ്രൊഫൈല്‍ ഫോള്‍ഡര്‍
     }
-app-basics-enabled-plugins = പ്രവര്‍ത്തന സജ്ജമായ പ്ലഗിനുകള്‍
 app-basics-build-config = ബിള്‍ഡ് ക്രമീകരണം
 app-basics-user-agent = യൂസര്‍ ഏജന്റ്
 app-basics-memory-use = മെമ്മറിയുടെ ഉപയോഗം
@@ -63,9 +59,6 @@ show-dir-label =
     }
 environment-variables-name = പേരു്
 environment-variables-value = വില
-experimental-features-title = പരീക്ഷണാര്‍ത്ഥമായ വിശേഷതകള്‍
-experimental-features-name = പേരു്
-experimental-features-value = മൂല്ല്യം
 modified-key-prefs-title = മാറ്റം വരുത്തിയ പ്രധാനപ്പെട്ട മുന്‍ഗണനകള്‍
 modified-prefs-name = പേരു്
 modified-prefs-value = മൂല്ല്യം

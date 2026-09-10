@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Ustawienia połączenia
     .style =
         { PLATFORM() ->
             [macos] min-width: 45em
            *[other] min-width: 49em
         }
+    .title = Ustawienia połączenia
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Odśwież
     .accesskey = d
-connection-proxy-autologin =
-    .label = Nie pytaj o uwierzytelnianie, jeśli istnieje zachowane hasło
-    .accesskey = j
-    .tooltip = Umożliwia automatyczne uwierzytelnianie na serwerach proxy, jeśli wcześniej zostały zachowane dane logowania. W przypadku nieudanego uwierzytelniania zostanie wyświetlone standardowe pytanie.
 connection-proxy-autologin-checkbox =
     .label = Nie pytaj o uwierzytelnianie, jeśli istnieje zachowane hasło
-    .accesskey = j
     .tooltiptext = Umożliwia automatyczne uwierzytelnianie na serwerach proxy, jeśli wcześniej zostały zachowane dane logowania. W przypadku nieudanego uwierzytelniania zostanie wyświetlone standardowe pytanie.
+    .accesskey = j
 connection-proxy-socks4-remote-dns =
     .label = Proxy DNS podczas używania SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Użyj domyślnego adresu serwera DNS udostępnionego poprzez HTTPS
 connection-dns-over-https-url-custom =
     .label = Własny adres
-    .accesskey = W
     .tooltiptext = Podaj adres wybranego serwera DNS udostępnionego poprzez HTTPS
-connection-dns-over-https-custom-label = Własny adres:
+    .accesskey = W

@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = Amostrar a información d'o puesto
 
@@ -40,8 +35,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Ubrir lo panel de mensaches d'almagazenamiento difuera de linia
 urlbar-password-notification-anchor =
     .tooltiptext = Ubrir lo panel de mensaches d'alzar claus
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Chestionar l'uso de plugins
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Chestiona a compartición d'a camera u microfono con iste puesto
 urlbar-autoplay-notification-anchor =
@@ -50,14 +43,7 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Alzar los datos en l'almagazenamiento persistent
 urlbar-addons-notification-anchor =
     .tooltiptext = Ubrir lo panel de mensaches d'instalación de complementos
-urlbar-tip-help-icon =
-    .title = Obtener aduya
 urlbar-search-tips-confirm = Vale, entendiu!
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Consello:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -89,8 +75,6 @@ urlbar-screen-blocked =
     .tooltiptext = Ha blocau la compartición d'a pantalla en iste puesto web.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Ha blocau l'almagazenamiento persistent de datos pa iste puesto web.
-urlbar-popup-blocked =
-    .tooltiptext = Has blocau las finestras emerchents en este puesto web.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Has blocau la lectura automatica de contenius multimedia con soniu en este puesto.
 urlbar-canvas-blocked =
@@ -206,7 +190,6 @@ identity-custom-root = Connexión verificada per un emisor de certificaus que no
 identity-passive-loaded = Bella parte d'ista pachina no ye segura (p. eix. imachens)
 identity-active-loaded = Ha desactivau a protección en ista pachina.
 identity-weak-encryption = Ista pachina fa servir zifrau feble.
-identity-insecure-login-forms = Los datos de dentrada escritos en ista pachina pueden estar compromesos.
 identity-permissions-reload-hint = Talment haiga de recargar la pachina pa que s'apliquen los cambios.
 identity-clear-site-data =
     .label = Borrar cookies y datos d'o puesto…
@@ -218,7 +201,6 @@ identity-remove-cert-exception =
     .label = Eliminar la excepción
     .accesskey = x
 identity-description-insecure = A connexión ta iste puesto no ye privada. A información que ninvia podría estar visualizada por atras personas (como claus, mensaches, tarchetas de credito, etc.).
-identity-description-insecure-login-forms = A información d'inicio de sesión que introduz en ista pachina no ye segura y podría interceptar-se.
 identity-description-weak-cipher-intro = A suya connexión ta ista web fa servir un zifrau feble y no ye privada.
 identity-description-weak-cipher-risk = Atras personas podrían visualizar la información u modificar lo comportamiento d'o puesto
 identity-description-active-blocked2 = { -brand-short-name } ha blocau partes d'ista pachina que no son seguras.
@@ -227,12 +209,6 @@ identity-description-passive-loaded-insecure2 = Iste puesto web inclui contenius
 identity-description-passive-loaded-mixed2 = Tot y que { -brand-short-name } ha blocau bell conteniu, encara queda conteniu no seguro en a pachina (p.eix. imachens).
 identity-description-active-loaded = Iste puesto web tien contenius que no son seguros (p. eix. scripts) y a suya connexión no ye privada.
 identity-description-active-loaded-insecure = A información que comparte con iste puesto podría estar vista por atros (como claus, mensaches, tarchetas de credito, etc.).
-identity-disable-mixed-content-blocking =
-    .label = Desactivar a protección por agora
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = Activar a protección
-    .accesskey = v
 identity-more-info-link-text =
     .label = Mas información
 
@@ -310,8 +286,6 @@ urlbar-extension =
     .value = Extensión:
 urlbar-go-button2 =
     .title = Ir ta la URL d'a barra d'adrezas
-urlbar-go-button =
-    .tooltiptext = Ir ta la URL d'a barra d'adrezas
 urlbar-page-action-button =
     .tooltiptext = Accions de pachina
 
@@ -334,15 +308,6 @@ urlbar-result-action-search-in-private = Mirar en una finestra privada
 urlbar-result-action-search-w-engine = Mirar con { $engine }
 urlbar-result-action-switch-tab = Cambiar t'a pestanya
 urlbar-result-action-visit = Vesitar
-
-## Strings used for buttons in the urlbar
-
-urlbar-searchmode-bookmarks =
-    .label = Marcapachinas
-urlbar-searchmode-tabs =
-    .label = Pestanyas
-urlbar-searchmode-history =
-    .label = Historial
 
 ## Reader View toolbar buttons
 
@@ -398,12 +363,6 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Amagar la barra de ferramientas de marcapachinas
            *[other] Veyer a barra de marcapachinas
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Eliminar lo menú de marcapachinas de la barra de ferramientas
-           *[other] Anyader lo menú de marcapachinas en a barra de ferramientas
-        }
 
 ##
 
@@ -429,12 +388,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Marcapachinas
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Alzar en { -pocket-brand-name }
-    .tooltiptext = Alzar en { -pocket-brand-name }
 
 ##
 
@@ -472,21 +425,8 @@ eme-notifications-drm-content-playing = Bell audio u video d'iste puesto fan ser
 ui-tour-info-panel-close =
     .tooltiptext = Zarrar
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = Permitir as finestras emerchents ta { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Blocar as finestras emerchents ta { $uriHost }
-    .accesskey = p
-
 ##
 
-popups-infobar-dont-show-message =
-    .label = No amostrar iste mensache quan se bloquen las finestras emerchents
-    .accesskey = N
 picture-in-picture-hide-toggle =
     .label = Amaga lo commutador d'imachen incrustada
     .accesskey = A
@@ -500,8 +440,6 @@ navbar-accessible =
     .aria-label = Navegación
 navbar-downloads =
     .label = Descargas
-navbar-overflow =
-    .tooltiptext = Mas ferramientas...
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

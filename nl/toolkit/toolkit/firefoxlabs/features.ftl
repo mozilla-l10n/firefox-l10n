@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Warp inschakelen, een project om de 
 experimental-features-ime-search =
     .label = Adresbalk: resultaten tonen tijdens opstellen met IME
 experimental-features-ime-search-description = Een IME (Input Method Editor) is een hulpmiddel waarmee u complexe symbolen, zoals in Oost-Aziatische of Indische geschreven talen worden gebruikt, met een standaard toetsenbord kunt invoeren. Als u dit experiment inschakelt, blijft het adresbalkpaneel open, waarbij zoekresultaten en -suggesties worden getoond, terwijl u IME gebruikt om tekst in te voeren. Merk op dat de IME een paneel kan tonen dat de adresbalkresultaten afdekt; daarom wordt deze voorkeur alleen gesuggereerd voor IME waarbij dit type paneel niet wordt gebruikt.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Picture-in-picture: automatisch openen bij tabblad wisselen
-experimental-features-auto-pip-description = Schakel Picture-in-Picture in voor actieve video’s bij het wisselen van tabbladen.
 experimental-features-group-developer-tools =
     .label = Ontwikkelaarshulpmiddelen
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Productiviteit
 experimental-features-group-newtab-widgets =
     .label = Widgets op { -firefox-home-brand-name }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Wachtwoorden in de zijbalk
-experimental-features-contextual-password-manager-description = Benader uw wachtwoorden rechtstreeks vanuit de zijbalk. Nooit meer zoeken of wachtwoorden opnieuw instellen wanneer u zich probeert aan te melden. Selecteer ‘Wachtwoorden in de zijbalk’ om deze functie te gebruiken. Ga vervolgens naar uw algemene instellingen en selecteer onder Browserindeling de optie ‘Zijbalk tonen’. Pas daarna uw zijbalk aan door ‘Wachtwoorden’ te selecteren. Als u het probeert, <a data-l10n-name="connect">laat dan weten wat u ervan vindt</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Kies een aangepaste achtergrond of kleur voor de Nieuw-tabbladpagina

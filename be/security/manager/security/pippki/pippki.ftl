@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Зараз вы ў рэжыме FIPS. Дл
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Скінуць галоўны пароль
     .style = min-width: 40em
+    .title = Скінуць галоўны пароль
 reset-password-button-label =
     .label = Скінуць
 reset-primary-password-text = Калі вы скінеце свой галоўны пароль, згубяцца ўсе захаваныя паролі для сайтаў і электроннай пошты, асабістыя сертыфікаты і прыватныя ключы. Ці сапраўды хочаце скінуць свой галоўны пароль?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Ваш галоўны пароль 
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Сцягванне сертыфіката
     .style = min-width: 46em
+    .title = Сцягванне сертыфіката
 download-cert-message = Вас запыталі аб даверу да новага Цэнтра Сертыфікацыі (ЦС).
 download-cert-trust-ssl =
     .label = Давяраць гэтаму ЦС ідэнтыфікаваць вэб-сайты.
@@ -52,8 +52,6 @@ download-cert-view-text = Праверыць сертыфікат ЦС
 
 client-auth-window =
     .title = Запыт вызначэння карыстальніка
-client-auth-site-description = Гэты сайт патрабуе, каб вы ідэнтыфікавалі сябе сертыфікатам:
-client-auth-choose-cert = Вылучыце сертыфікат, каб падаць як вызначэнне:
 client-auth-send-no-certificate =
     .label = Не адпраўляць сертыфікат
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Калі ласка, прайдзіце аўтэнтыфікацыю на прыладзе бяспекі ({ $tokenName }). Як гэта зрабіць, залежыць ад прылады (напрыклад, з дапамогай сканера адбіткаў пальцаў або ўводу кода з клавіятуры).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Аўтэнтыфікуйце токен “{ $tokenName }”. Як гэта зрабіць, залежыць ад токена (напрыклад, з дапамогай сканера адбіткаў пальцаў або ўводу кода з клавіятуры).

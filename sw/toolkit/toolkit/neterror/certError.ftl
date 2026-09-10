@@ -25,4 +25,3 @@ proxyConnectFailure-title = Seva mbadala inakataa miungano
 proxyResolveFailure-title = Imeshindwa kupata seva mbadala
 redirectLoop-title = Ukurasa huu hauelekezi tena vizuri
 unknownSocketType-title = Mwitikio usiotarajiwa kutoka kwa seva
-corruptedContentError-title = Kosa la Kuharibika kwa Maudhui

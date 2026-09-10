@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Mont d’ar bajennad kent ({ $shortcut })
     .aria-label = Kent
+    .tooltiptext = Mont d’ar bajennad kent ({ $shortcut })
     .accesskey = K
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Mont d’ar bajennad war-lerc’h ({ $shortcut })
     .aria-label = War-lerc’h
+    .tooltiptext = Mont d’ar bajennad war-lerc’h ({ $shortcut })
     .accesskey = W
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Lakaat ar bajenn-mañ er sinedoù…
-    .accesskey = L
     .tooltiptext = Lakaat ar bajenn-mañ er sinedoù
+    .accesskey = L
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Lakaat ar bajenn-mañ er sinedoù…
-    .accesskey = L
     .tooltiptext = Lakaat ar bajenn-mañ er sinedoù ({ $shortcut })
+    .accesskey = L
 main-context-menu-edit-bookmark =
     .aria-label = Embann ar sined…
-    .accesskey = E
     .tooltiptext = Embann ar sined
+    .accesskey = E
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Embann ar sined…
-    .accesskey = E
     .tooltiptext = Embann ar sined -{ $shortcut })
+    .accesskey = E
 main-context-menu-open-link =
     .label = Digeriñ an ere
     .accesskey = g
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Enrollañ an ere evel…
     .accesskey = n
-main-context-menu-save-link-to-pocket =
-    .label = Enrollañ an ere etrezek { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -293,40 +284,22 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Kas ar restr klevet dre bostel…
     .accesskey = K
-main-context-menu-save-to-pocket =
-    .label = Enrollañ ar bajenn etrezek { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Kas ar bajenn d’an trevnad
-    .accesskey = t
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Implijout un titour kennaskañ enrollet
-    .accesskey = I
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Implijout ar ger-tremen enrollet
     .accesskey = g
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Implijout aliazoù chomlec'h postel { -relay-brand-short-name }
     .accesskey = I
 main-context-menu-suggest-strong-password =
     .label = Kinnig ur ger-tremen kreñv…
     .accesskey = k
-main-context-menu-manage-logins2 =
-    .label = Merañ an titouroù kennaskañ
-    .accesskey = M
 main-context-menu-manage-passwords =
     .label = Merañ ar gerioù-tremen
     .accesskey = M
-main-context-menu-keyword =
-    .label = Ouzhpennañ ur ger-alc'hwez evit ar c'hlask-mañ …
-    .accesskey = k
 main-context-menu-add-engine =
     .label = Ouzhpennañ ul lusker enklask
     .accesskey = l
@@ -372,9 +345,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Kemer un dapadenn
     .accesskey = K
-main-context-menu-take-frame-screenshot =
-    .label = Kemer un dapadenn skramm
-    .accesskey = a
 main-context-menu-view-page-source =
     .label = Gwelout tarzh ar bajennad
     .accesskey = t

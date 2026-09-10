@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = Majte { -brand-short-name(case: "acc") } na
 default-browser-prompt-message-pin-msix = Majte { -brand-short-name(case: "acc") } na dosah ruky – nastavte si ho ako predvolený prehliadač a pripnite si ho na panel úloh a do ponuky Štart.
 default-browser-prompt-message-pin-mac = Majte { -brand-short-name(case: "acc") } na dosah ruky - nastavte si ho ako predvolený prehliadač a pridajte si ho do Docku.
 default-browser-prompt-button-primary-set = Nastaviť ako hlavný prehliadač
-default-browser-prompt-button-primary-pin = Nastaviť ako hlavný prehliadač
 default-browser-prompt-title-alt = Nastaviť { -brand-short-name(case: "acc") } ako predvolený prehliadač?
 default-browser-prompt-message-alt = Získajte rýchlosť, bezpečnosť a súkromie pri každom prehliadaní.
 default-browser-prompt-button-primary-alt = Nastaviť ako predvolený prehliadač

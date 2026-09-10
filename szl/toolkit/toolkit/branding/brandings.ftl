@@ -26,28 +26,6 @@
        *[nom] Facebook Container
     }
     .gender = masculine
--lockwise-brand-name =
-    { $case ->
-        [gen] Firefox Lockwise'a
-        [dat] Firefox Lockwise'owi
-        [acc] Firefox Lockwise
-        [loc] Firefox Lockwise'ie
-        [ins] Firefox Lockwise'ym
-        [voc] Firefox Locwise'ie
-       *[nom] Firefox Lockwise
-    }
-    .gender = masculine
--lockwise-brand-short-name =
-    { $case ->
-        [gen] Lockwise'a
-        [dat] Lockwise'owi
-        [acc] Lockwise
-        [loc] Lockwise'ie
-        [ins] Lockwise'ym
-        [voc] Locwise'ie
-       *[nom] Lockwise
-    }
-    .gender = masculine
 -monitor-brand-name =
     { $case ->
         [gen] Firefox Mōnitora

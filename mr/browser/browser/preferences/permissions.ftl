@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = अपवाद
     .style = min-width: 45em
+    .title = अपवाद
 permissions-close-key =
     .key = w
 permissions-address = संकेतस्थळाचा पत्ता
@@ -64,42 +64,28 @@ permissions-invalid-uri-label = कृपया वैध यजमान ना
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
+    .style = { permissions-window2.style }
     .title = अपवाद - कुकीज व साईट माहिती
-    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = कोणत्या संकेतस्थळांनी कुकीज आणि साईट माहिती वापरायची किंवा कोणीच वापरू नये  हे आपण ठरवू शकता. अशा संकेतस्थळांचा पत्ता प्रविष्ट करा आणि आडवा, सत्रासाठी परवानगी द्या किंवा परवानगी द्या क्लीक करा.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = अनुमतीत साइट्स - पॉपअप्स्
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = आपण कोणत्या साइट्सना आगाऊ दृश्यचौकटी उघडण्याची परवानगी आहे हे दर्शवू शकता. परवागी द्यावयाच्या साइटचा पत्ता तंतोतंत टाइप करा आणि परवानगी द्या(Allow) वर क्लिक् करा.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = अपवाद - संचयीत लॉगइन्स
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = खालील संकेतस्थळांकरीता लॉगिन संचयीत केले जाणार नाहीत
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = अनुमतीत स्थळाकरता - ॲड-ऑन्स् स्थापना
     .style = { permissions-window2.style }
+    .title = अनुमतीत स्थळाकरता - ॲड-ऑन्स् स्थापना
 permissions-exceptions-addons-desc = कुठल्या संकेतस्थाळांना ॲड-ऑन्स् प्रतिष्ठापन करायला द्यायचे हे आपण निश्चित करू शकता. त्याकरता हव्या असलेल्या स्थळाचे अचूक पत्ता लिहा व परवानगी आहे वर क्लिक करा.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = सेटिंग - ऑटोप्ले
     .style = { permissions-window2.style }
+    .title = सेटिंग - ऑटोप्ले
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = सेटिंग - सूचना परवानग्या
     .style = { permissions-window2.style }
+    .title = सेटिंग - सूचना परवानग्या
 permissions-site-notification-desc = खालील संकेतस्थळांनी आपल्याला सूचना पाठवण्याची परवानगी विचारली आहे. कोणत्या संकेतस्थळांनी सूचना पाठवाव्या हे आपण निश्चित करू शकता. आपण नवीन सूचनांची परवानगी विचारणाऱ्यांना अडवू ही शकता.
 permissions-site-notification-disable-label =
     .label = नवीन सूचनांची परवानगी विचारणाऱ्यांना अडवा
@@ -108,8 +94,8 @@ permissions-site-notification-disable-desc = वर नमूद केलेल
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = सेटिंग - स्थान परवानग्या
     .style = { permissions-window2.style }
+    .title = सेटिंग - स्थान परवानग्या
 permissions-site-location-desc = खालील संकेतस्थळांनी आपले स्थान पाहण्याची परवानगी मागितली आहे. आपले स्थान कोणती संकेतस्थळे पाहू शकतात हे आपण निश्चित करू शकता. आपले स्थान पाहू इच्छिणाऱ्या नवीन परवानग्या आपण नाकारू शकता.
 permissions-site-location-disable-label =
     .label = आपले स्थान पाहू इच्छिणाऱ्या नवीन विनंत्या नाकारा
@@ -118,8 +104,8 @@ permissions-site-location-disable-desc = वर नमूद न केलेल
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = सेटिंग - कॅमेरा परवानग्या
     .style = { permissions-window2.style }
+    .title = सेटिंग - कॅमेरा परवानग्या
 permissions-site-camera-desc = खालील संकेतस्थळांनी आपला कॅमेरा वापरायची परवानगी विचारली आहे. कोणत्या संकेतस्थळांनी कॅमेरा वापरावा हे आपण ठरवू शकता. कॅमेरा वापरण्यास विचारणाऱ्या नवीन परवानग्या आपण अडवूही शकता.
 permissions-site-camera-disable-label =
     .label = आपला कॅमेरा वापरायची परवानगी मागणाऱ्या नवीन विनंत्यांना अडवा
@@ -128,8 +114,8 @@ permissions-site-camera-disable-desc = उपरोक्त सूचीबद�
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = सेटिंग - मायक्रोफोन परवानग्या
     .style = { permissions-window2.style }
+    .title = सेटिंग - मायक्रोफोन परवानग्या
 permissions-site-microphone-desc = खालील वेबसाइटने आपल्या मायक्रोफोनवर प्रवेश करण्याची विनंती केली आहे. आपण कोणत्या वेबसाइटना आपल्या मायक्रोफोनवर प्रवेश करण्यास अनुमती दिली ते निर्दिष्ट करू शकता. आपण आपल्या मायक्रोफोनवर प्रवेश करण्याबद्दल विचारणार्या नवीन विनंत्या देखील अवरोधित करू शकता.
 permissions-site-microphone-disable-label =
     .label = आपला मायक्रोफोन वापरायची परवानगी मागणाऱ्या नवीन विनंत्यांना अडवा

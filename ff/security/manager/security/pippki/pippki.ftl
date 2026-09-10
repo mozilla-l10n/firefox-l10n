@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Aawto Seedamfaagu
     .style = min-width: 46em
+    .title = Aawto Seedamfaagu
 download-cert-message = A naamnaama yo a hoolo Kohowo Seedamfaagu keso (CA).
 download-cert-trust-ssl =
     .label = Hoolo oo CA e keftingol lowe geese.
@@ -37,8 +37,6 @@ download-cert-view-text = Ƴeewto seedamfaagu CA
 
 client-auth-window =
     .title = Ɗaɓɓitannde Innitol Kuutoro
-client-auth-site-description = Ndee lowre ɗaɓɓitii yo a innito huutoraade seedamfaagu:
-client-auth-choose-cert = Suɓo seedamfaagu ngam wonande ma innitol:
 client-auth-cert-details = Cariiɗe sertifika cuɓaaɗo:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

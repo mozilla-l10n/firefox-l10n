@@ -29,10 +29,6 @@ security-software-name = الاسم
 security-software-antivirus = مضاد فيروسات
 security-software-antispyware = مضاد برمجيات تجسس
 security-software-firewall = جدار حماية
-features-title = مميزات { -brand-short-name }
-features-name = الاسم
-features-version = النسخة
-features-id = المعرّف
 processes-title = العمليات البعيدة
 processes-type = النوع
 processes-count = العدد
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] مجلد الملف الشخصي
        *[other] مجلد الملف الشخصي
     }
-app-basics-enabled-plugins = الملحقات المفعّلة
 app-basics-build-config = إعدادات البناء
 app-basics-user-agent = عميل المستخدم
 app-basics-os = نظام التشغيل
@@ -96,9 +91,6 @@ show-dir-label =
 environment-variables-title = متغيرات البيئة
 environment-variables-name = الاسم
 environment-variables-value = القيمة
-experimental-features-title = المزايات التجريبية
-experimental-features-name = الاسم
-experimental-features-value = القيمة
 modified-key-prefs-title = التفضيلات المهمّة المُعدّلة
 modified-prefs-name = الاسم
 modified-prefs-value = قيمة
@@ -359,7 +351,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/‏{ $totalWindows }
-fission-status-experiment-treatment = فعّلتها ميزة تجريبية
 fission-status-enabled-by-env = فعّلتها البيئة
 fission-status-enabled-by-default = مفعّلة مبدئيًا
 fission-status-enabled-by-user-pref = فعّلها المستخدم

@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = 扩展和主题
 appmenuitem-extensions =
     .label = 扩展
-appmenuitem-addons-and-themes =
-    .label = 扩展和主题
 appmenuitem-print =
     .label = 打印…
 appmenuitem-find-in-page =
@@ -154,7 +152,6 @@ fxa-menu-get-firefox-mobile =
     .label = 下载 Android 或 iOS 版 { -brand-product-name }
 fxa-menu-secure-sync-subpanel =
     .title = 安全同步
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = 账户
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -176,15 +173,6 @@ appmenuitem-save-page =
     .label = 另存页面为…
 appmenuitem-fxa-sync-off-title = 同步已关闭
 appmenuitem-fxa-sync-off-description = 保护书签、密码等数据，并可在所有设备上使用。
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = 新版变化
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = 有新功能推出时通知我
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -326,8 +314,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = 更多排障信息
     .accesskey = T
-appmenu-help-report-site-issue =
-    .label = 反馈网站问题…
 appmenu-help-share-ideas =
     .label = 分享想法和意见反馈…
     .accesskey = S
@@ -393,7 +379,6 @@ appmenuitem-vpn-description5 = 跨设备享受额外保护
 appmenuitem-vpn-title-signed-in1 = 下载 { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = 获取全方位设备保护
-appmenuitem-vpn-description = 保护在线活动
 appmenu-services-header = 我的服务
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -403,7 +388,6 @@ appmenu-other-protection-header3 = 隐私保护工具
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = 尝试 Mozilla 的其他保护工具：
-appmenu-other-protection-header = 试用 { -vendor-short-name } 提供的其他保护工具：
 
 ## Profiles panel
 

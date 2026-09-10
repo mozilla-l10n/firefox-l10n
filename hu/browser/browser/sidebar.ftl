@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = Előzmények törlése
 sidebar-history-sort-by-heading-menucaption =
     .label = Rendezés szempontja:
-sidebar-history-sort-by-heading = Rendezés szempontja:
 sidebar-history-sort-option-date =
     .label = Dátum
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Oldalsáv-kiegészítők
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name } eszközök
 sidebar-customize-firefox-settings = A { -brand-short-name } beállításainak kezelése
 sidebar-vertical-tabs =
     .label = Függőleges lapok
 sidebar-settings2 =
     .label = Beállítások
-sidebar-settings =
-    .label = Oldalsáv-beállítások
 sidebar-hide-tabs-and-sidebar =
     .label = Lapok és oldalsáv elrejtése
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Kiegészítő kezelése
-sidebar-context-menu-remove-extension =
-    .label = Kiegészítő eltávolítása
 sidebar-context-menu-report-extension =
     .label = Kiegészítő jelentése
 sidebar-context-menu-open-in-tab =

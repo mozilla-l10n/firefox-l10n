@@ -144,15 +144,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Jinde tukoo sanba…
     .accesskey = a
-main-context-menu-send-to-device =
-    .label = Moɲoo sanba jinaa ga
-    .accesskey = j
 
 ##
 
-main-context-menu-keyword =
-    .label = Kufalkalima foo tonton ceeciroo woo se…
-    .accesskey = K
 main-context-menu-link-send-to-device =
     .label = Dobu sanba jinaa do
     .accesskey = j

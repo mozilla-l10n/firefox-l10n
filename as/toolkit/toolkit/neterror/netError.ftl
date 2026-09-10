@@ -10,7 +10,6 @@ neterror-page-title = পৃষ্ঠা ল'ড কৰোঁতে সমস্
 ## Error page actions
 
 neterror-learn-more-link = অধিক জানক…
-neterror-try-again-button = পুনৰ চেষ্টা কৰক
 
 ## Specific error messages
 
@@ -25,8 +24,6 @@ neterror-file-not-found-filename = ডাঙৰ হাতৰ আখৰ বা �
 neterror-file-not-found-moved = ফাইলক গমন কৰা, পুনৰ নামকৰণ কৰা বা আঁতৰুৱাৰ বাবে পৰীক্ষা কৰক।
 neterror-unknown-protocol = এই ঠিকনা খুলিবলৈ আপুনি অন্য চফ্টৱেৰ ইনস্টল কৰিব লগা হ'বও পাৰে।
 neterror-redirect-loop = এই সমস্যা কেতিয়াবা কুকি নিষ্ক্ৰীয় কৰি বা গ্ৰহণ নকৰি হ'ব পাৰে।
-neterror-unknown-socket-type-psm-installed = আপোনাৰ চিস্টেমত ব্যক্তিগত সুৰক্ষা ব্যৱস্থাপক ইনস্টল হোৱা সুনিশ্চিত কৰক।
-neterror-unknown-socket-type-server-config = এইটো চাৰ্ভাৰত মান প্ৰাপ্ত নথকা সংৰূপৰ বাবেও হ'ব পাৰে।
 neterror-not-cached-intro = অনুৰোধ কৰা দস্তাবেজ { -brand-short-name } ৰ ক্যাশত উপলব্ধ নহয়।
 neterror-not-cached-sensitive = সুৰক্ষা কাৰণ হিচাপে, { -brand-short-name } এ স্বচালিতভাৱে সংবেদ্য দস্তাবেজসমূহ পুনৰ অনুৰোধ নকৰে।
 neterror-not-cached-try-again = ৱেবছাইটৰ পৰা দস্তাবেজ পুনৰ অনুৰোধ কৰিবলে পুনৰ চেষ্টা কৰক ক্লিক কৰক।

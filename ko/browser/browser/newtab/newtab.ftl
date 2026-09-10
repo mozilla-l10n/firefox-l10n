@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = 새 탭
-newtab-settings-button =
-    .title = 새 탭 페이지 사용자 지정
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = 이 페이지 사용자 지정
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = 사용자 지정
 newtab-customize-panel-label =
     .label = 사용자 지정
-newtab-personalize-settings-icon-label =
-    .aria-label = 설정
-    .title = 새 탭 개인화
 newtab-settings-dialog-label =
     .aria-label = 설정
-newtab-personalize-icon-label =
-    .aria-label = 새 탭 개인화
-    .title = 새 탭 개인화
-newtab-personalize-dialog-label =
-    .aria-label = 개인화
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
@@ -492,7 +482,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = 검색 엔진 추가
 newtab-topsites-add-shortcut-header = 새 바로 가기
-newtab-topsites-edit-topsites-header = 상위 사이트 편집
 newtab-topsites-edit-shortcut-header = 바로 가기 편집
 newtab-topsites-add-shortcut-label = 바로 가기 추가
 newtab-topsites-add-shortcut-title =
@@ -562,20 +551,12 @@ newtab-topsites-hover-card-dismiss =
 newtab-menu-section-tooltip =
     .aria-label = 메뉴 열기
     .title = 메뉴 열기
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = 삭제
-    .title = 삭제
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = { $title }에 대한 컨텍스트 메뉴 열기
     .title = 메뉴 열기
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = 이 사이트 편집
-    .title = 이 사이트 편집
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -587,11 +568,7 @@ newtab-menu-dismiss = 닫기
 newtab-menu-pin = 고정
 newtab-menu-unpin = 고정 해제
 newtab-menu-delete-history = 기록에서 삭제
-newtab-menu-save-to-pocket = { -pocket-brand-name }에 저장
-newtab-menu-delete-pocket = { -pocket-brand-name }에서 삭제
-newtab-menu-archive-pocket = { -pocket-brand-name }에 보관
 newtab-menu-show-privacy-info = 우리의 스폰서와 개인 정보 보호
-newtab-menu-about-fakespot = { -fakespot-brand-name } 정보
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = 신고
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -602,27 +579,12 @@ newtab-menu-section-block = 차단
 newtab-menu-section-unfollow-topic = 팔로우 취소
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = 더 알아보기
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = 주제 팔로우 취소
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = 스폰서 콘텐츠 관리
 newtab-menu-our-sponsors-and-your-privacy = 스폰서와 개인 정보 보호
 newtab-menu-report-this-ad = 이 광고 신고
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = 완료
-newtab-privacy-modal-button-manage = 스폰서 콘텐츠 설정 관리
-newtab-privacy-modal-header = 개인 정보는 중요합니다.
-newtab-privacy-modal-paragraph-2 =
-    매력적인 이야기를 정리해서 보여주는 것 뿐만 아니라, 엄선된 스폰서로 부터
-    관련성 높은 콘텐츠를 보여줍니다. 안심하세요. <strong>사용자의 탐색 데이터는 
-    { -brand-product-name }의 개인 복사본을 남기지 않습니다</strong> — 저희와 스폰서 모두
-    들여다보지 않습니다.
-newtab-privacy-modal-link = 새 탭에서 개인 정보 보호 작동 방식 알아보기
 
 ##
 
@@ -678,31 +640,12 @@ newtab-label-sponsored-fixed = 스폰서
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = 섹션 삭제
-newtab-section-menu-collapse-section = 섹션 접기
-newtab-section-menu-expand-section = 섹션 펼치기
-newtab-section-menu-manage-section = 섹션 관리
-newtab-section-menu-manage-webext = 확장 기능 관리
-newtab-section-menu-add-topsite = 상위 사이트 추가
-newtab-section-menu-add-search-engine = 검색 엔진 추가
-newtab-section-menu-move-up = 위로 이동
-newtab-section-menu-move-down = 아래로 이동
 newtab-section-menu-privacy-notice = 개인정보 보호정책
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = 섹션 접기
-newtab-section-expand-section-label =
-    .aria-label = 섹션 펼치기
 
 ## Section Headers.
 
 newtab-section-header-topsites = 상위 사이트
 newtab-section-header-recent-activity = 최근 활동
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } 추천
 newtab-section-header-stories = 생각하게 하는 이야기
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = 오늘의 추천
@@ -710,10 +653,6 @@ newtab-section-header-todays-picks = 오늘의 추천
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = 탐색을 시작하면 최근 방문하거나 북마크한 좋은 글이나 영상, 페이지를 여기에 보여줍니다.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = 다 왔습니다. { $provider }에서 제공하는 주요 기사를 다시 확인해 보세요. 기다릴 수 없습니까? 인기 주제를 선택하면 웹에서 볼 수 있는 가장 재미있는 글을 볼 수 있습니다.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = 다 왔습니다. 더 많은 이야기를 나중에 다시 확인해 보세요. 기다릴 수 없습니까? 인기 주제를 선택하면 웹에서 볼 수 있는 가장 재미있는 글을 볼 수 있습니다.
 
@@ -747,39 +686,6 @@ newtab-carousel-pause =
 newtab-carousel-play =
     .aria-label = 자동 재생 다시 시작
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = 인기 주제:
-newtab-pocket-new-topics-title = 더 많은 이야기를 원하세요? { -pocket-brand-name } 인기 주제 보기
-newtab-pocket-more-recommendations = 더 많은 추천
-newtab-pocket-learn-more = 더 알아보기
-newtab-pocket-cta-button = { -pocket-brand-name } 받기
-newtab-pocket-cta-text = 좋아하는 이야기를 { -pocket-brand-name }에 저장하고 재미있게 읽어 보세요.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name }은 { -brand-product-name } 제품군의 일부입니다.
-newtab-pocket-save = 저장
-newtab-pocket-saved = 저장됨
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = 좋아요
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = 싫어요
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = 감사합니다. 사용자의 의견은 제품 개선에 도움이 됩니다.
-newtab-toast-dismiss-button =
-    .aria-label = 닫기
-    .title = 닫기
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = 웹의 최고를 발견하세요
-newtab-pocket-onboarding-cta = { -pocket-brand-name }은 가장 유익하고 영감을 주며 신뢰할 수 있는 콘텐츠를 { -brand-product-name } 브라우저에 바로 제공하기 위해 다양한 출판물을 탐색합니다.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -788,8 +694,6 @@ newtab-error-fallback-refresh-link = 페이지를 새로 고침해서 다시 시
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = 바로 가기
-newtab-custom-shortcuts-subtitle = 저장하거나 방문한 사이트
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = 저장하거나 방문한 사이트
@@ -809,15 +713,6 @@ newtab-custom-row-selector2 =
         { $num ->
            *[other] { $num } 행
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-       *[other] { $num } 행
-    }
-newtab-custom-sponsored-sites = 스폰서 바로 가기
-newtab-custom-pocket-title = { -pocket-brand-name } 추천
-newtab-custom-pocket-subtitle = { -brand-product-name } 제품군의 일부인 { -pocket-brand-name }에서 선별한 뛰어난 콘텐츠
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = { -brand-product-name } 제품군이 선별한 뛰어난 콘텐츠
@@ -829,10 +724,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = 활동에 기반한 개인화된 이야기
 newtab-custom-stories-personalized-checkbox-label = 활동에 기반한 개인화된 이야기
-newtab-custom-pocket-sponsored = 스폰서 소식
-newtab-custom-pocket-show-recent-saves = 최근 저장한 항목 표시
-newtab-custom-recent-title = 최근 활동
-newtab-custom-recent-subtitle = 최근 사이트 및 콘텐츠 모음
 newtab-custom-weather-toggle =
     .description = 오늘의 일기예보를 한눈에 보기
     .label = 날씨
@@ -864,7 +755,6 @@ newtab-widget-manage-widget-button =
 newtab-custom-close-menu-button =
     .aria-label = 메뉴 닫기
     .title = 닫기
-newtab-custom-close-button = 닫기
 newtab-custom-settings = 추가 설정
 
 ## Customization Menu
@@ -913,7 +803,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = 이미지가 파일 크기 제한인 { $file_size }MB를 초과했습니다. 더 작은 파일을 업로드 해 주세요.
 newtab-wallpaper-error-upload-file-type = 파일을 업로드하지 못했습니다. 이미지 파일로 다시 시도해 주세요.
-newtab-wallpaper-error-file-type = 파일을 업로드하지 못했습니다. 다른 파일 형식으로 다시 시도하세요.
 newtab-wallpaper-light-red-panda = 레서판다
 newtab-wallpaper-light-mountain = 하얀 산
 newtab-wallpaper-light-sky = 보라색과 분홍색 구름이 있는 하늘
@@ -1057,10 +946,6 @@ newtab-wallpaper-celestial-river = 강의 인공위성 이미지
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = { $provider }의 일기예보 보기
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ 스폰서
 newtab-weather-menu-change-location = 위치 변경
 newtab-weather-change-location-search-input-placeholder =
@@ -1087,7 +972,6 @@ newtab-weather-menu-temperature-option-fahrenheit = 화씨
 newtab-weather-menu-temperature-option-celsius = 섭씨
 newtab-weather-menu-change-temperature-units-fahrenheit = 화씨로 전환
 newtab-weather-menu-change-temperature-units-celsius = 섭씨로 전환
-newtab-weather-menu-hide-weather = 새 탭에서 날씨 숨기기
 newtab-weather-menu-learn-more = 더 알아보기
 newtab-weather-menu-detect-my-location = 내 위치 감지
 # This message is shown if user is working offline
@@ -1208,7 +1092,6 @@ newtab-section-unblock-topic =
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = 나중에
 newtab-section-confirm-block-topic-p1 = 정말로 이 주제를 차단하시겠습니까?
 newtab-section-confirm-block-topic-p2 = 차단된 주제는 더 이상 피드에 나타나지 않습니다.
 # Variables:

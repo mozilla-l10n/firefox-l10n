@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Sertifikatet er ikkje tiltrudd fordi utskriv
 cert-error-trust-signature-algorithm-disabled = Sertifikatet er ikkje tiltrudd fordi det vart signert med ein signaturalgoritme som er avslått fordi algoritmen ikkje er trygg.
 cert-error-trust-expired-issuer = Sertifikatet er ikkje tiltrudd fordi utskrivarsertifikatet har gått ut på dato.
 cert-error-trust-self-signed = Sertifikatet er ikkje tiltrudd fordi det er sjølvsignert.
-cert-error-trust-symantec = Sertifikat er skrivne ut av GeoTrust, RapidSSL, Symantec, Thawte og VeriSign er ikkje lenger sett på som trygge fordi desse sertifikatstyremaktene ikkje klarte å følgje tidlegare tryggingspraksis.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } stolar ikkje på { $hostname } fordi ho ikkje kunne bevise at ho oppfyller krava til offentleg sertifikatopenheit.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Feilkode: <a data-l10n-name="error-code-link">{ $e
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Ein feil oppstod under tilkopling til { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Nettstadar viser identiteten sin via sertifikat, som vert skrivne ut av sertifikatstyremakter. Dei fleste nettlesarar stolar ikkje lenger på sertifikat skrivne ut av GeoTrust, RapidSSL, Symantec, Thawte og VeriSign. { $hostname } brukar eit sertifikat frå ein av desse styremaktene, og dermed kan ikkje identiteten til nettstaden bevisast.
-cert-error-symantec-distrust-admin = Du kan varsle nettsideadministratoren om dette problemet.
 cert-error-old-tls-version = Denne nettstaden støttar kanskje ikkje versjon 1.2 av TLS-protokollen, som er minimumsversjonen som vert støtta av { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Festa HTTP-nøkkel: { $hasHPKP }
 cert-error-details-cert-chain-label = Sertifikatkjede:
-open-in-new-window-for-csp-or-xfo-error = Opne nettstad i nytt vindauge
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = For å ta vare på sikkerheita di, vil { $hostname } ikkje tillate at { -brand-short-name } viser sida dersom ein annan nettstad har bygd henne inn. For å sjå denne sida, må du opne henne i eit nytt vindauge.
 fp-certerror-view-certificate-link = Vis sertifikatet til nettstaden
 fp-certerror-return-to-previous-page-recommended-button-2 = Gå tilbake (tilrådd)
     .accesskey = G
-fp-certerror-return-to-previous-page-recommended-button = Gå tilbake (tilrådd)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -106,21 +99,21 @@ fp-certerror-self-signed-important-note = VIKTIG: Om du prøver å besøkje denn
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = Nettstadar brukar sertifikat utskrive av ein sertifikatutferdar for å bevise at dei verkeleg er den dei seier dei er. { -brand-short-name } stolar ikkje på denne nettstaden fordi det ser ut til at sertifikatet gjekk ut { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-expired-why-dangerous-body = Nettstadar brukar sertifikat utskrive av ein sertifikatutferdar for å bevise at dei verkeleg er den dei seier dei er. { -brand-short-name } stolar ikkje på denne nettstaden fordi det ser ut til at sertifikatet gjekk ut { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = Nettstadar brukar sertifikat ferda ut av ein sertifiseringsinstans for å bevise at dei verkeleg er den dei gir seg ut for å vere. { -brand-short-name } stolar ikkje på denne nettstaden fordi det ser ut til at sertifikatet ikkje vil vere gyldig før { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-not-yet-valid-why-dangerous-body = Nettstadar brukar sertifikat ferda ut av ein sertifiseringsinstans for å bevise at dei verkeleg er den dei gir seg ut for å vere. { -brand-short-name } stolar ikkje på denne nettstaden fordi det ser ut til at sertifikatet ikkje vil vere gyldig før { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = Klokka i eininga er sett til { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Viss dette er rett, er tryggingsproblemet sannsynlegvis med sjølve nettstaden. Viss det er feil, kan du endre det i systeminnstillingane i eininga.
+fp-certerror-expired-what-can-you-do-body = Klokka i eininga er sett til { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Viss dette er rett, er tryggingsproblemet sannsynlegvis med sjølve nettstaden. Viss det er feil, kan du endre det i systeminnstillingane i eininga.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Feilkode: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -133,11 +126,11 @@ fp-learn-more-about-time-related-errors = Les meir om feilsøking av tidsrelater
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } stolar ikkje på denne nettstaden fordi det ser ut til at sertifikatet ikkje er gyldig før { DATETIME($date, timeStyle: "short") } den { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } stolar ikkje på denne nettstaden fordi det ser ut til at sertifikatet ikkje er gyldig før { DATETIME($date, timeStyle: "short") } den { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Klokka på eininga di er sett til { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Dersom dette er rett, ligg tryggingsproblemet sannsynlegvis hos sjølve nettstaden. Dersom det er feil, kan du endre det i systeminnstillingane på eininga di.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Klokka på eininga di er sett til { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Dersom dette er rett, ligg tryggingsproblemet sannsynlegvis hos sjølve nettstaden. Dersom det er feil, kan du endre det i systeminnstillingane på eininga di.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -179,8 +172,6 @@ deniedPortAccess-title = Tilgang til denne adressa er avgrensa
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Vi har problem med å finne nettstaden.
 internet-connection-offline-title = Det ser ut til at det er eit problem med internett-tilkoplinga di.
-dns-not-found-trr-only-title2 = Muleg sikkerheitsrisiko ved å søkje opp dette domenet
-dns-not-found-native-fallback-title2 = Muleg sikkerheitsrisiko ved å søkje opp dette domenet
 fileNotFound-title = Fann ikkje fila
 fileAccessDenied-title = Tilgang til fila vart nekta
 generic-title = Ops.
@@ -205,7 +196,6 @@ unknownSocketType-title = Uventa svar frå tenar
 nssFailure2-title = Trygt samband feila
 csp-xfo-error-title = { -brand-short-name } kan ikkje opne denne sida
 corruptedContentErrorv2-title = Øydelagt innhald
-corruptedContentError-title = Øydelagt innhald
 sslv3Used-title = Klarte ikkje å kople til trygt
 inadequateSecurityError-title = Tilkoplinga di er ikkje trygg
 blockedByPolicy-title = Blokkert side
@@ -228,7 +218,6 @@ fp-certerror-hide-advanced-button = Skjul avansert
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Hald fram til { $hostname } (risikofylt)
 fp-certerror-intro = { -brand-short-name } oppdaga eit potensielt alvorleg tryggingsproblem med <strong>{ $hostname }</strong>. Nokon som gir seg ut for å vere nettstaden kan prøve å stele ting som kredittkortinformasjon, passord eller e-postar.
 fp-certerror-expired-into = { -brand-short-name } oppdaga eit tryggingsproblem med <strong>{ $hostname }</strong>. Anten er nettstaden ikkje konfigurert rett eller klokka i eininga er sett til feil dato/tid.
 fp-certerror-transparency-intro = Nokon som gir seg ut for å vere <strong>{ $hostname }</strong> kan prøve å stele ting som bankkortinformasjon, passord eller e-postar.

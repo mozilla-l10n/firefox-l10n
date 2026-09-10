@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>غُيِّر محرك البحث المبدئي الخاص بك.</strong> لم يعد { $oldEngine } متاحًا كمحرك بحث مبدئي في { -brand-short-name }. أصبح { $newEngine } الآن محرك البحث المبدئي الخاص بك. لتغييره إلى محرك بحث مبدئي آخر، انتقل إلى الإعدادات. <label data-l10n-name="remove-search-engine-article">اطّلع على المزيد</label>
 removed-search-engine-message2 = <strong>غُيِّر محرك البحث المبدئي الخاص بك.</strong> لم يعد { $oldEngine } متاحًا كمحرك بحث مبدئي في { -brand-short-name }. أصبح { $newEngine } الآن محرك البحث المبدئي الخاص بك. لتغييره إلى محرك بحث مبدئي آخر، انتقل إلى الإعدادات.
 remove-search-engine-button = حسنًا
 
@@ -52,11 +51,11 @@ install-search-engine-no = لا
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = أضِف محرك بحث
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = حرّر محرك البحث
     .style = min-width: 32em;
+    .title = حرّر محرك البحث
 add-engine-button = أضِف محركًا مخصصًا
 add-engine-name = اسم محرك البحث
 add-engine-url2 = عنوان URL مع استبدال مصطلح البحث بـ %s
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = جرّب إضافة %s بدلاً من مص
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = أضف محركًا
-    .buttonaccesskeyaccept = ض
     .buttonlabelextra1 = متقدّم
+    .buttonaccesskeyaccept = ض
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = احفظ المحرك
-    .buttonaccesskeyaccept = ح
     .buttonlabelextra1 = متقدّم
+    .buttonaccesskeyaccept = ح

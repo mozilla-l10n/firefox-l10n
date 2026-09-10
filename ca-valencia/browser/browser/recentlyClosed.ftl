@@ -16,15 +16,3 @@ recently-closed-menu-reopen-all-windows = Torna a obrir totes les finestres
 
 recently-closed-panel-reopen-all-tabs = Torna a obrir totes les pestanyes
 recently-closed-panel-reopen-all-windows = Torna a obrir totes les finestres
-
-##
-
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [one] { $winTitle } (i { $tabCount } altra pestanya)
-       *[other] { $winTitle } (i { $tabCount } altres pestanyes)
-    }

@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Thẻ mới
-newtab-settings-button =
-    .title = Tùy biến trang thẻ mới
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Tuỳ chỉnh trang này
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = Tùy chỉnh
 newtab-customize-panel-label =
     .label = Tùy chỉnh
-newtab-personalize-settings-icon-label =
-    .aria-label = Cài đặt
-    .title = Cá nhân hóa thẻ mới
 newtab-settings-dialog-label =
     .aria-label = Cài đặt
-newtab-personalize-icon-label =
-    .aria-label = Cá nhân hóa thẻ mới
-    .title = Cá nhân hóa thẻ mới
-newtab-personalize-dialog-label =
-    .aria-label = Cá nhân hóa
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
@@ -486,7 +476,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Thêm công cụ tìm kiếm
 newtab-topsites-add-shortcut-header = Lối tắt mới
-newtab-topsites-edit-topsites-header = Sửa trang web hàng đầu
 newtab-topsites-edit-shortcut-header = Chỉnh sửa lối tắt
 newtab-topsites-add-shortcut-label = Thêm lối tắt
 newtab-topsites-add-shortcut-title =
@@ -556,20 +545,12 @@ newtab-topsites-hover-card-dismiss =
 newtab-menu-section-tooltip =
     .aria-label = Mở bảng chọn
     .title = Mở bảng chọn
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Gỡ bỏ
-    .title = Gỡ bỏ
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Mở bảng chọn ngữ cảnh cho { $title }
     .title = Mở bảng chọn
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Chỉnh sửa trang web này
-    .title = Chỉnh sửa trang web này
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -581,11 +562,7 @@ newtab-menu-dismiss = Bỏ qua
 newtab-menu-pin = Ghim
 newtab-menu-unpin = Bỏ ghim
 newtab-menu-delete-history = Xóa khỏi lịch sử
-newtab-menu-save-to-pocket = Lưu vào { -pocket-brand-name }
-newtab-menu-delete-pocket = Xóa khỏi { -pocket-brand-name }
-newtab-menu-archive-pocket = Lưu trữ trong { -pocket-brand-name }
 newtab-menu-show-privacy-info = Nhà tài trợ của chúng tôi và sự riêng tư của bạn
-newtab-menu-about-fakespot = Về { -fakespot-brand-name }
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Báo cáo
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -596,27 +573,12 @@ newtab-menu-section-block = Chặn
 newtab-menu-section-unfollow-topic = Huỷ theo dõi
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Tìm hiểu thêm
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = Bỏ theo dõi chủ đề
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = Quản lý nội dung được tài trợ
 newtab-menu-our-sponsors-and-your-privacy = Nhà tài trợ của chúng tôi và sự riêng tư của bạn
 newtab-menu-report-this-ad = Báo cáo quảng cáo này
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Xong
-newtab-privacy-modal-button-manage = Quản lý cài đặt nội dung được tài trợ
-newtab-privacy-modal-header = Vấn đề riêng tư của bạn.
-newtab-privacy-modal-paragraph-2 =
-    Ngoài việc tận hưởng những câu chuyện hấp dẫn, chúng tôi cũng cho bạn thấy có liên quan,
-    nội dung được đánh giá cao từ các nhà tài trợ chọn lọc. Hãy yên tâm, <strong>dữ liệu duyệt của bạn
-    không bao giờ để lại bản sao { -brand-product-name }</strong> của bạn — chúng tôi không thể nhìn thấy nó
-    và các tài trợ của chúng tôi cũng vậy.
-newtab-privacy-modal-link = Tìm hiểu cách hoạt động của quyền riêng tư trên thẻ mới
 
 ##
 
@@ -672,31 +634,12 @@ newtab-label-sponsored-fixed = Được tài trợ
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Xoá mục
-newtab-section-menu-collapse-section = Thu gọn mục
-newtab-section-menu-expand-section = Mở rộng mục
-newtab-section-menu-manage-section = Quản lý mục
-newtab-section-menu-manage-webext = Quản lí tiện ích
-newtab-section-menu-add-topsite = Thêm trang web hàng đầu
-newtab-section-menu-add-search-engine = Thêm công cụ tìm kiếm
-newtab-section-menu-move-up = Di chuyển lên
-newtab-section-menu-move-down = Di chuyển xuống
 newtab-section-menu-privacy-notice = Thông báo bảo mật
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Thu gọn mục
-newtab-section-expand-section-label =
-    .aria-label = Mở rộng mục
 
 ## Section Headers.
 
 newtab-section-header-topsites = Trang web hàng đầu
 newtab-section-header-recent-activity = Hoạt động gần đây
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Được đề xuất bởi { $provider }
 newtab-section-header-stories = Những câu chuyện kích động tư tưởng
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = Lựa chọn hôm nay dành cho bạn
@@ -704,10 +647,6 @@ newtab-section-header-todays-picks = Lựa chọn hôm nay dành cho bạn
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Bắt đầu duyệt web và chúng tôi sẽ hiển thị một số bài báo, video, và các trang khác mà bạn đã xem hoặc đã đánh dấu tại đây.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Bạn đã bắt kịp. Kiểm tra lại sau để biết thêm các câu chuyện hàng đầu từ { $provider }. Không muốn đợi? Chọn một chủ đề phổ biến để tìm thêm những câu chuyện tuyệt vời từ khắp nơi trên web.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = Bạn đã bắt kịp. Kiểm tra lại sau để biết thêm các câu chuyện. Không muốn đợi? Chọn một chủ đề phổ biến để tìm thêm những câu chuyện tuyệt vời từ khắp nơi trên web.
 
@@ -741,39 +680,6 @@ newtab-carousel-pause =
 newtab-carousel-play =
     .aria-label = Tiêp tục tự động phát
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Các chủ đề phổ biến:
-newtab-pocket-new-topics-title = Muốn nhiều câu chuyện hơn nữa? Xem các chủ đề phổ biến này từ { -pocket-brand-name }
-newtab-pocket-more-recommendations = Nhiều khuyến nghị hơn
-newtab-pocket-learn-more = Tìm hiểu thêm
-newtab-pocket-cta-button = Sử dụng { -pocket-brand-name }
-newtab-pocket-cta-text = Lưu những câu chuyện bạn yêu thích trong { -pocket-brand-name } và vui vẻ khi đọc chúng.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } là một phần của gia đình { -brand-product-name }
-newtab-pocket-save = Lưu
-newtab-pocket-saved = Đã lưu
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = Thêm những nội dung giống thế này
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = Không hợp với tôi
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = Cảm ơn. Những phản hồi của bạn sẽ giúp chúng tôi cải thiện bản tin của bạn.
-newtab-toast-dismiss-button =
-    .aria-label = Bỏ qua
-    .title = Bỏ qua
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = Khám phá những điều tốt nhất của web
-newtab-pocket-onboarding-cta = { -pocket-brand-name } khám phá nhiều loại ấn phẩm khác nhau để mang nội dung giàu thông tin, truyền cảm hứng và đáng tin cậy nhất đến ngay trình duyệt { -brand-product-name } của bạn.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -782,8 +688,6 @@ newtab-error-fallback-refresh-link = Thử làm mới lại trang.
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Lối tắt
-newtab-custom-shortcuts-subtitle = Các trang web bạn lưu hoặc truy cập
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Các trang web bạn lưu hoặc truy cập
@@ -803,15 +707,6 @@ newtab-custom-row-selector2 =
         { $num ->
            *[other] { $num } hàng
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-       *[other] { $num } hàng
-    }
-newtab-custom-sponsored-sites = Các lối tắt được tài trợ
-newtab-custom-pocket-title = Được đề xuất bởi { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Nội dung đặc biệt do { -pocket-brand-name }, một phần của { -brand-product-name }, quản lý
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = Nội dung đặc biệt được quản lý bởi gia đình { -brand-product-name }
@@ -823,10 +718,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = Câu chuyện được cá nhân hóa dựa trên hoạt động của bạn
 newtab-custom-stories-personalized-checkbox-label = Câu chuyện được cá nhân hóa dựa trên hoạt động của bạn
-newtab-custom-pocket-sponsored = Câu chuyện được tài trợ
-newtab-custom-pocket-show-recent-saves = Hiển thị các lần lưu gần đây
-newtab-custom-recent-title = Hoạt động gần đây
-newtab-custom-recent-subtitle = Tuyển chọn các trang và nội dung gần đây
 newtab-custom-weather-toggle =
     .description = Sơ lược về dự báo hôm nay
     .label = Thời tiết
@@ -858,7 +749,6 @@ newtab-widget-manage-widget-button =
 newtab-custom-close-menu-button =
     .aria-label = Đóng menu
     .title = Đóng
-newtab-custom-close-button = Đóng
 newtab-custom-settings = Quản lý các cài đặt khác
 
 ## New Tab Appearance (browser theme picker)
@@ -900,7 +790,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Hình ảnh vượt quá giới hạn kích thước tập tin { $file_size }MB. Vui lòng thử tải lên một tập tin nhỏ hơn.
 newtab-wallpaper-error-upload-file-type = Chúng tôi không thể tải tập tin của bạn lên. Vui lòng thử lại với tập tin hình ảnh.
-newtab-wallpaper-error-file-type = Chúng tôi không thể tải lên tập tin của bạn. Vui lòng thử lại với loại tập tin khác.
 newtab-wallpaper-light-red-panda = Gấu trúc đỏ
 newtab-wallpaper-light-mountain = Núi trắng
 newtab-wallpaper-light-sky = Bầu trời với những đám mây màu tím và hồng
@@ -1002,10 +891,6 @@ newtab-wallpaper-celestial-river = Hình ảnh vệ tinh của sông
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = Xem dự báo với { $provider }
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Được tài trợ
 newtab-weather-menu-change-location = Thay đổi khu vực
 newtab-weather-change-location-search-input-placeholder =
@@ -1029,7 +914,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Độ F
 newtab-weather-menu-temperature-option-celsius = Độ C
 newtab-weather-menu-change-temperature-units-fahrenheit = Chuyển sang độ F
 newtab-weather-menu-change-temperature-units-celsius = Chuyển sang độ C
-newtab-weather-menu-hide-weather = Ẩn thời tiết trên thẻ mới
 newtab-weather-menu-learn-more = Tìm hiểu thêm
 newtab-weather-menu-detect-my-location = Phát hiện vị trí của tôi
 # This message is shown if user is working offline
@@ -1148,7 +1032,6 @@ newtab-section-unblock-topic =
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = Để sau
 newtab-section-confirm-block-topic-p1 = Bạn có chắc là bạn muốn chặn chủ đề này?
 newtab-section-confirm-block-topic-p2 = Chủ đề bị chặn sẽ không còn xuất hiện trong nguồn cấp dữ liệu của bạn.
 # Variables:

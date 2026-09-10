@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] 於 Finder 顯示
            *[other] 於資料夾顯示
         }
-downloads-cmd-show-downloads =
-    .label = 顯示下載資料夾
 downloads-cmd-retry =
     .tooltiptext = 重試
 downloads-cmd-retry-panel =

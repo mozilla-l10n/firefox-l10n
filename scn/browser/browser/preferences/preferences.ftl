@@ -2,18 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Manna ê siti web na signalijazzioni "Nun trazzari" pi nfurmalli ca nun voi ca ti tràzzanu
-do-not-track-learn-more = Cchiù nfurmazzioni
-do-not-track-option-default-content-blocking-known =
-    .label = Sulu quannu { -brand-short-name } è mpustatu pi bluccari i trazzatura canusciuti
-do-not-track-option-always =
-    .label = Sempri
 global-privacy-control-description =
     .label = Dicci ê siti web di nun vìnniri o spàrtiri i me dati
     .accesskey = d
 non-technical-privacy-group =
     .label = Prifirenzi di privatizza dî siti web
-non-technical-privacy-header = Prifirenzi di privatizza dî siti web
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -29,34 +22,19 @@ managed-notice-nav =
 category-list =
     .aria-label = Catigurìi
 pane-general-title = Ginirali
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = Pàggina mastra
 pane-search-title2 = Riscedi
     .title = Riscedi
 pane-privacy-title3 = Privatizza e sicurizza
     .title = Privatizza e sicurizza
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = Riscedi
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = Privatizza e sicurizza
-pane-privacy-title = Privatizza e sicurizza
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label2 = Supportu di { -brand-short-name }
     .title = Supportu di { -brand-short-name }
 addons-button-label2 = Stinneri e temi
     .title = Stinneri e temi
-help-button-label = Supportu di { -brand-short-name }
-addons-button-label = Stinneri e temi
 focus-search =
     .key = f
 close-button =
@@ -95,22 +73,13 @@ search-results-help-link = Ti serbi ajutu? Vìsita u situ pû <a data-l10n-name=
 
 ## General Section
 
-startup-header = Abbìu
 always-check-default =
     .label = Cuntrolla sempri si { -brand-short-name } è u to navicaturi pridifinutu
     .accesskey = s
-is-default = { -brand-short-name } piccamora è u to navicaturi pridifinutu
-is-not-default = { -brand-short-name } nun è u to navicaturi pridifinutu
-set-as-my-default-browser =
-    .label = Fai addivintari pridifinutu…
-    .accesskey = d
-startup-restore-warn-on-quit =
-    .label = Abbìsami niscennu dû navicaturi
 disable-extension =
     .label = Sdisabbìlita stinneriu
 tabs-group-header2 =
     .label = Schedi
-tabs-group-header = Schedi
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab scurri i schedi nna l’ùrdini d’usu ricenti
     .accesskey = T
@@ -123,13 +92,7 @@ warn-on-open-many-tabs =
 show-tabs-in-taskbar =
     .label = Mustra antiprima dâ scheda nnâ barra di l’applicazzioni di Windows
     .accesskey = W
-browser-containers-enabled =
-    .label = Abbìlita schedi cuntinituri
-    .accesskey = n
 browser-containers-learn-more = Cchiù nfurmazzioni
-browser-containers-settings =
-    .label = Mpustazzioni…
-    .accesskey = i
 containers-disable-alert-title = Vo’ chiùjiri tutti i schedi cuntinituri?
 startup-group =
     .label = Abbìu
@@ -165,19 +128,8 @@ containers-remove-cancel-button = Nun livari stu cuntinituri
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Lingua e aspettu
-default-font = Caràttiri pridifinutu
-    .accesskey = C
-default-font-size = Diminziuni
-    .accesskey = z
-advanced-fonts =
-    .label = Avanzatu..
-    .accesskey = A
 preferences-default-zoom-label =
     .label = Grannizza pridifinuta
-    .accesskey = f
-# Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = Grannizza
-preferences-default-zoom = Grannizza pridifinuta
     .accesskey = f
 # Variables:
 #   $percentage (number) - Zoom percentage value
@@ -199,12 +151,6 @@ confirm-browser-language-change-description = Riabbìa { -brand-short-name } p�
 confirm-browser-language-change-button = Sarba e riabbìa
 browser-language-install-error =
     .message = { -brand-short-name } a stu mumentu nun po attualizzari i to lingui. Cuntrolla si sì cullijatu â riti o torna a prova.
-translate-web-pages =
-    .label = Traduci cuntinutu ’n riti
-    .accesskey = T
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = Traduzzioni di <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Eccizzioni…
     .accesskey = z
@@ -219,23 +165,6 @@ download-save-files-header =
     .label = Sarba prichi nne
 download-save-where-3 =
     .aria-label = Sarba prichi nne
-download-header = Scarricamenti
-download-save-where = Sarba prichi nne
-    .accesskey = b
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Scarta…
-           *[other] Nàvica…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] g
-           *[other] g
-        }
-download-always-ask-where =
-    .label = Addumanna sempri unni sarbari i prichi
-    .accesskey = A
 applications-header = Applicazzioni
 applications-description = Scarta comu { -brand-short-name } tratta i prichi ca scàrrichi dâ riti o l’applicazzioni ca usi mentri nàvighi.
 applications-filter =
@@ -276,17 +205,11 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Usa { $plugin-name } (nne { -brand-short-name })
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -302,38 +225,18 @@ applications-use-other-label =
 
 drm-group =
     .label = Cuntinutu di gistiuni diritta diggitali (DRM)
-drm-content-header = Cuntinutu di gistiuni diritta diggitali (DRM)
 play-drm-content =
     .label = Ripruduci cuntinutu cuntrullatu di DRM
     .accesskey = P
 play-drm-content-learn-more = Cchiù nfurmazzioni
-update-application-title = Attualizzi di { -brand-short-name }
-update-application-description = Teni { -brand-short-name } attualizzatu p’aviri megghiu pristazzioni, stabbilità e sicurizza.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Virsiuni { $version } <a data-l10n-name="learn-more">Quali su’ i nuvità</a>
 update-history-2 =
     .label = Mustra crunuluggìa di l’attualizzi
     .accesskey = M
-update-history =
-    .label = Mustra crunuluggìa di l’attualizzi…
-    .accesskey = M
-update-application-allow-description = Pirmetti a { -brand-short-name } di
-update-application-auto =
-    .label = Nzita ’n autumàticu l’attualizzi (cunzigghiatu)
-    .accesskey = N
-update-application-check-choose =
-    .label = Cuntrolla si cci su’ attualizzi (ma addumànnami si i vogghiu nzitari)
-    .accesskey = C
-update-application-manual =
-    .label = Nun cuntrullari mai si cci su’ attualizzi (nun cunzigghiatu)
-    .accesskey = N
 update-application-warning-cross-user-setting-2 =
     .message = Sta mpustazziuni s’appreca a tutti i cunti di Windows e i prufili di { -brand-short-name } ca ùsanu stu nzitamentu di { -brand-short-name }.
-update-application-warning-cross-user-setting = Sta mpustazziuni s’appreca a tutti i cunti di Windows e i prufili di { -brand-short-name } ca ùsanu stu nzitamentu di { -brand-short-name }.
-update-application-use-service =
-    .label = Usa un sirbizzu di suttafunnu pi nzitari l’attualizzi
-    .accesskey = b
 update-in-progress-title = Staju attualizzannu
 update-in-progress-message = Vo’ chi { -brand-short-name } cuntinuassi cu l’attualizzu?
 update-in-progress-ok-button = &Stagghia
@@ -343,11 +246,6 @@ update-in-progress-cancel-button = &Cuntinua
 
 ## General Section - Performance
 
-performance-title = Pristazziuni
-performance-use-recommended-settings-checkbox =
-    .label = Usa i mpustazzioni raccumannati
-    .accesskey = U
-performance-use-recommended-settings-desc = Sti mpustazzioni su’ fatti apposta pi l’hardware e u sistema upirativu dû to computer.
 performance-settings-learn-more = Cchiù nfurmazzioni
 performance-allow-hw-accel =
     .label = Usa l’accillirazziuni hardware quannu dispunìbbili
@@ -365,7 +263,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = Navicazzioni
 browsing-use-autoscroll =
     .label = Usa u scurrimentu autumàticu
     .accesskey = a
@@ -381,28 +278,14 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Riscedi testu quannu accuminci a diggitari
     .accesskey = q
-browsing-picture-in-picture-toggle-enabled =
-    .label = Attiva cuntrolli mmàggini-nnâ-mmàggini
-    .accesskey = A
-browsing-picture-in-picture-learn-more = Cchiù nfurmazzioni
 browsing-cfr-recommendations =
     .label = Raccumanna stinneri mentri chi nàvighi
     .accesskey = R
 browsing-cfr-features =
     .label = Raccumanna funziunalità mentri nàvighi
     .accesskey = f
-browsing-cfr-recommendations-learn-more = Cchiù nfurmazzioni
 browsing-group =
     .label = Navicazzioni
-
-## General Section - Proxy
-
-network-settings-title = Mpustazzioni riti
-network-proxy-connection-description = Cunfijura comu { -brand-short-name } si culleja â riti.
-network-proxy-connection-learn-more = Cchiù nfurmazzioni
-network-proxy-connection-settings =
-    .label = Mpustazzioni…
-    .accesskey = M
 
 ## Home Section
 
@@ -450,8 +333,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = Riscedi nnâ riti
-home-prefs-recommended-by-header =
-    .label = Cunzigghiati di { $provider }
 
 ##
 
@@ -464,14 +345,6 @@ home-prefs-highlights-options-bookmarks =
     .label = Nzingalibbra
 home-prefs-highlights-option-most-recent-download =
     .label = Scarricamenti cchiù ricenti
-home-prefs-highlights-option-saved-to-pocket =
-    .label = Pàggini sarbati nne { -pocket-brand-name }
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = Pizzini
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -483,37 +356,11 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = Barra di risciduta
-search-bar-hidden =
-    .label = Usa a barra dû nnirizzu pi risciduti e navicazzioni
-search-bar-shown =
-    .label = Junci sbarra di risciduta nnâ sbarra dî strumenti
-search-engine-default-header = Muturi di risciduta pridifinutu
-search-engine-default-desc-2 = Chistu è u to muturi di risciduta pridifinutu pâ barra dû nnirizzu e chiḍḍa di risciduta. Po’ canciallu quannu voi.
-search-engine-default-private-desc-2 = Scarta n’autru muturi di risciduta sulu pî finestri privati.
-search-separate-default-engine =
-    .label = Usa stu muturi di risciduta nnê finestri privati
-    .accesskey = U
-search-suggestions-header = Suggirimenti di risciduta
-search-suggestions-desc = Scarta comu vennu mustrati i suggirimenti dî mutura di risciduta.
-search-suggestions-option =
-    .label = Dùnami suggirimenti di risciduta
-    .accesskey = D
 search-show-suggestions-url-bar-option =
     .label = Mustra suggirimenti di risciduta nnê risurtati dâ sbarra dû nnirizzu
     .accesskey = M
 search-suggestions-cant-show-2 =
     .message = I suggirimenti di risciduta nun vennu mustrati nnê risurtati dâ barra dû nnirizzu picchì cunfijurasti { -brand-short-name } pi nun sarbari mai a crunuluggìa.
-# This string describes what the user will observe when the system
-# prioritizes search suggestions over browsing history in the results
-# that extend down from the address bar. In the original English string,
-# "ahead" refers to location (appearing most proximate to), not time
-# (appearing before).
-search-show-suggestions-above-history-option =
-    .label = Mustra suggirimenti di risciduta prima dâ crunuluggìa nnê risurtati dâ barra dû nnirizzu
-search-show-suggestions-private-windows =
-    .label = Mustra suggirimenti di risciduta nnê finestri privati
-search-suggestions-cant-show = I suggirimenti di risciduta nun vennu mustrati nnê risurtati dâ barra dû nnirizzu picchì cunfijurasti { -brand-short-name } pi nun sarbari mai a crunuluggìa.
 search-one-click-desc = Scarta l’autri mutura di risciduta ca cumparìscinu sutta â barra dû nnirizzu e â barra di risciduta quannu accuminci a mèttiri na palora-chiavi.
 search-choose-engine-column =
     .label = Muturi di risciduta
@@ -538,15 +385,6 @@ search-engine-group =
 search-default-engine =
     .aria-label = Muturi di risciduta pridifinutu
 
-## Containers Section
-
-containers-header = Schedi cuntinituri
-containers-add-button =
-    .label = Junci un cuntinituri novu
-    .accesskey = A
-containers-remove-button =
-    .label = Leva
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -563,8 +401,6 @@ sync-mobile-promo = Scàrrica Firefox pi <img data-l10n-name="android-icon"/> <a
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = Cancia a mmàggini dû prufilu
 sync-profile-picture-with-alt =
     .alt = Cancia a mmàggini dû prufilu
     .tooltiptext = Cancia a mmàggini dû prufilu
@@ -589,9 +425,6 @@ sync-signedin-login-failure = Trasi pi ricunnèttiri { $email }
 
 ##
 
-sync-resend-verification =
-    .label = Rimanna virìfica
-    .accesskey = R
 sync-remove-account =
     .label = Leva cuntu
     .accesskey = L
@@ -603,10 +436,6 @@ sync-sign-in =
 
 prefs-syncing-on = Sincrunizzazziuni: AḌḌUMATA
 prefs-syncing-off = Sincrunizzazziuni: ASTUTATA
-prefs-sync-now =
-    .labelnotsyncing = Sincrunizza ora
-    .labelsyncing = Staju sincrunizzannu…
-    .accesskeynotsyncing = S
 prefs-sync-now-button =
     .label = Sincrunizza ora
     .accesskey = S
@@ -624,23 +453,11 @@ prefs-syncing-button-2 =
 sync-currently-syncing-bookmarks = Nzingalibbra
 sync-currently-syncing-history = Crunuluggìa
 sync-currently-syncing-tabs = Schedi raputi
-sync-currently-syncing-logins-passwords = Cridinziali e chiavi
 sync-currently-syncing-addresses = Nnirizzi
-sync-currently-syncing-creditcards = Carti di crèditu
 sync-currently-syncing-addons = Juncitini
-sync-change-options =
-    .label = Cancia…
-    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
-sync-choose-what-to-sync-dialog3 =
-    .buttonlabelaccept = Sarba canciamenti
-    .buttonlabelextra2 = Scullèjati…
-    .buttonaccesskeyaccept = S
-    .buttonaccesskeyextra2 = c
-    .style = min-width: 36em;
-    .title = Scarta soccu sincrunizzari
 sync-engine-bookmarks =
     .label = Nzingalibbra
     .accesskey = z
@@ -651,18 +468,10 @@ sync-engine-tabs =
     .label = Schedi graputi
     .tooltiptext = Na lista di soccu cc’è graputu nna tutti i to dispusitivi sincrunizzati
     .accesskey = t
-sync-engine-logins-passwords =
-    .label = Cridinziali e chiavi
-    .tooltiptext = Nomi utenti e chiavi chi sarbasti
-    .accesskey = C
 sync-engine-addresses =
     .label = Nnirizzi
     .tooltiptext = Nnirizzi pustali ca sarbasti (sulu virsiuni scrivanìa)
     .accesskey = r
-sync-engine-creditcards =
-    .label = Carti di crèditu
-    .tooltiptext = Nomu, nùmmari e dati di scadenza (sulu virsiuni scrivanìa)
-    .accesskey = C
 sync-engine-addons =
     .label = Juncitini
     .tooltiptext = Stinneri e temi pi Firefox nnâ virsiuni scagnu
@@ -694,49 +503,19 @@ sync-connect-another-device = Culleja n’autru dispusitivu
 sync-connect-another-device-2 =
     .label = Culleja n’autru dispusitivu
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = Virìfica mannata
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = Mannammu na lijami di virìfica a { $email }.
-sync-verification-not-sent-title = Nun pòttimu mannari nuḍḍa virìfica
-sync-verification-not-sent-body = P’accamora nun putemu mannari na virìfica, torna a prova cchiù tardu.
-
 ## Privacy Section
 
 privacy-header = Privatizza navicaturi
-
-## Privacy Section - Logins and Passwords
-
-# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = Cridinziali e chiavi
-    .searchkeywords = { -lockwise-brand-short-name }
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = Spìa di sarbari i cridinziali e i chiavi pî siti
-    .accesskey = r
 
 ## Privacy Panel Settings
 
 forms-exceptions =
     .label = Eccizzioni…
     .accesskey = z
-forms-generate-passwords =
-    .label = Suggirisci e gènira chiavi forti
-    .accesskey = f
 forms-breach-alerts =
     .label = Mustra abbisi supra ê chiavi dî siti viulati
     .accesskey = b
 forms-breach-alerts-learn-more-link = Cchiù nfurmazzioni
-# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
-forms-fill-logins-and-passwords =
-    .label = Metti ’n autumàticu cunti e chiavi
-    .accesskey = M
-forms-saved-logins =
-    .label = Cridinziali sarbati…
-    .accesskey = C
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -747,32 +526,12 @@ forms-master-pw-fips-desc = U canciamentu dâ chiavi sfallìu
 
 ## Privacy Section - History
 
-history-header = Crunuluggìa
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } po
-    .accesskey = p
-history-remember-option-all =
-    .label = Ricorda a crunuluggìa
-history-remember-option-never =
-    .label = Nun ricurdari mai a crunuluggìa
-history-remember-option-custom =
-    .label = Usa mpustazzioni pirsunalizzati pâ crunuluggìa
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } s’arricorda dâ to navicazzioni, dî scarricamenti, dî mòduli e dâ crunuluggìa di risciduta.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } usarà i stissi mpustazzioni pâ navicazzioni privata, e nun ricurdarà nuḍḍa crunuluggìa mentri chi nàvighi nnâ Riti.
-history-remember-description = { -brand-short-name } s’arricorda dâ to navicazzioni, dî scarricamenti, dî mòduli e dâ crunuluggìa di risciduta.
-history-dontremember-description = { -brand-short-name } usarà i stissi mpustazzioni pâ navicazzioni privata, e nun ricurdarà nuḍḍa crunuluggìa mentri chi nàvighi nnâ Riti.
 history-private-browsing-permanent =
     .label = Usa sempri a mudalità di navicazzioni privata
     .accesskey = p
@@ -798,27 +557,8 @@ history-mode-radio-group =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Viscotta e dati dî siti
 sitedata-total-size-calculating = Staju carculannu a grannizza dî dati dî siti e dâ cache…
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = I viscotta sarbati, i dati dî siti e a mimoria cauda a stu mumentu ùsanu { $value } { $unit } di spazziu nnô discu.
 sitedata-learn-more = Cchiù nfurmazzioni
-sitedata-delete-on-close =
-    .label = Scancella viscotta e dati dî siti quannu { -brand-short-name } veni chiujutu
-    .accesskey = k
-sitedata-delete-on-close-private-browsing = Câ navicazzioni privata pirmanenti, i viscotta e i dati dî siti vennu sempri scancillati quannu { -brand-short-name } veni chiujutu.
-sitedata-allow-cookies-option =
-    .label = Accetta viscotta e dati dî siti
-    .accesskey = A
-sitedata-disallow-cookies-option =
-    .label = Blocca viscotta e dati dî siti
-    .accesskey = B
-# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
-# The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = Tipu bluccatu
-    .accesskey = T
 sitedata-option-block-cross-site-trackers =
     .label = Trazzatura ntirsitu
 sitedata-option-block-cross-site-tracking-cookies =
@@ -827,19 +567,11 @@ sitedata-option-block-unvisited =
     .label = Viscotta di siti nun visitati
 sitedata-option-block-all =
     .label = Tutti i viscotta (rumpi i siti)
-sitedata-clear =
-    .label = Scancella dati…
-    .accesskey = l
-sitedata-settings =
-    .label = Manija dati…
-    .accesskey = d
 cookies-site-data-group =
     .label = Viscotta e dati dî siti
 
 ## Search Section
 
-addressbar-header = Barra dû nnirizzu
-addressbar-suggest = Quannu si usa a barra dû nnirizzu, duna suggirimenti
 addressbar-locbar-history-option =
     .label = Crunuluggìa di navicazzioni
     .accesskey = C
@@ -849,10 +581,6 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Schedi raputi
     .accesskey = S
-addressbar-locbar-engines-option =
-    .label = Mutura di risciduta
-    .accesskey = M
-addressbar-suggestions-settings = Cancia i prifirenzi pî suggirimenti di muturi di risciduta
 
 ## Privacy Section - Content Blocking
 
@@ -886,7 +614,6 @@ content-blocking-unvisited-cookies = Viscotta di siti nun visitati
 content-blocking-all-windows-tracking-content = Cuntinuti trazzanti ’n tutti i finestri
 content-blocking-cryptominers = Crittuminatura
 content-blocking-fingerprinters = Giniratura d’urmi diggitali
-content-blocking-warning-title = Accura!
 content-blocking-warning-learn-how = Vidi comu
 content-blocking-reload-description = Ài a ricarricari i schedi p’appricari sti canciamenti.
 content-blocking-reload-tabs-button =
@@ -901,7 +628,6 @@ content-blocking-tracking-protection-option-all-windows =
 content-blocking-option-private =
     .label = Sulu nnê finestri privati
     .accesskey = p
-content-blocking-tracking-protection-change-block-list = Cancia a lista dî blocchi
 content-blocking-cookies-label =
     .label = Viscotta
     .accesskey = V
@@ -911,11 +637,6 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = Minatura di crittumunita
     .accesskey = M
-# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
-# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
-content-blocking-fingerprinters-label =
-    .label = Giniratura d’urmi diggitali
-    .accesskey = G
 
 ## Privacy Section - Tracking
 
@@ -925,46 +646,11 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = Pirmissi
-permissions-location = Pusizzioni
-permissions-location-settings =
-    .label = Mpustazzioni…
-    .accesskey = M
-permissions-xr = Rialtà virtuali
-permissions-xr-settings =
-    .label = Mpustazzioni…
-    .accesskey = M
-permissions-camera = Fotucàmmira
-permissions-camera-settings =
-    .label = Mpustazzioni…
-    .accesskey = M
-permissions-microphone = Micròfunu
-permissions-microphone-settings =
-    .label = Mpustazzioni…
-    .accesskey = M
-permissions-notification = Nutìfichi
-permissions-notification-settings =
-    .label = Mpustazzioni…
-    .accesskey = M
-permissions-notification-link = Cchiù nfurmazzioni
 permissions-notification-pause =
     .label = Ferma i nutìfichi nzinu a quannu { -brand-short-name } si riabbìa
     .accesskey = n
 permissions-autoplay2 =
     .label = Ripruduzzioni autumàtica
-permissions-autoplay = Ripruduzzioni autumàtica
-permissions-autoplay-settings =
-    .label = Mpustazzioni…
-    .accesskey = M
-permissions-block-popups =
-    .label = Blocca i finestri autumàtichi
-    .accesskey = B
-permissions-addon-install-warning =
-    .label = Abbisa quannu un situ voli nzitari na juncitina
-    .accesskey = A
-permissions-addon-exceptions =
-    .label = Eccizzioni…
-    .accesskey = E
 permissions-location2 =
     .label = Pusizzioni
 permissions-xr2 =
@@ -978,26 +664,6 @@ permissions-notification2 =
 
 ## Privacy Section - Data Collection
 
-collection-header = Ricota e usu dî dati di { -brand-short-name }
-collection-header2 = Ricota e usu dî dati di { -brand-short-name }
-    .searchkeywords = tilimitrìa
-collection-description = Ni sfurzamu di dàriti aḍḍijuti e arricògghiri sulu chiḍḍu chi ni serbi pi furniri e fari megghiu { -brand-short-name } pi tutti. Dumannamu sempri u pirmissu prima d’arricìviri nfurmazzioni pirsunali.
-collection-privacy-notice = Abbisu di privatizza
-collection-health-report-telemetry-disabled = Nun sta’ pirmittennu cchiù a { -vendor-short-name } di cògghiri dati tècnici e supra ê ntirazzioni. Tutti i dati vecchi sarannu scancillati nna 30 jorna.
-collection-health-report-telemetry-disabled-link = Cchiù nfurmazzioni
-collection-health-report =
-    .label = Pirmetti a { -brand-short-name } di mannari dati tècnici e di ntirazziuni a { -vendor-short-name }
-    .accesskey = r
-collection-health-report-link = Cchiù nfurmazzioni
-collection-studies =
-    .label = Pirmetti a { -brand-short-name } di nzitari e cunnùciri studi
-collection-studies-link = Talìa studi di { -brand-short-name }
-addon-recommendations =
-    .label = Pirmetti a { -brand-short-name } di dari cunzigghi pirsunalizzati ncapu ê stinneri
-addon-recommendations-link = Cchiù nfurmazzioni
-# This message is displayed above disabled data sharing options in developer builds
-# or builds with no Telemetry support available.
-collection-health-report-disabled = A signalijazzioni di dati è sdisabbilitata nnâ cunfijurazzioni di sta virsiuni
 data-collection-health-report-telemetry-disabled =
     .message = Nun sta’ pirmittennu cchiù a { -vendor-short-name } di cògghiri dati tècnici e supra ê ntirazzioni. Tutti i dati vecchi sarannu scancillati nna 30 jorna.
 data-collection-studies-link =
@@ -1009,7 +675,6 @@ data-collection-studies-link =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sicurizza
-security-browsing-protection = Prutizziuni dî cuntinuti fallaci e prugrammi piriculusi
 security-enable-safe-browsing =
     .label = Blocca cuntinuti fallaci e piriculusi
     .accesskey = B
@@ -1021,21 +686,7 @@ security-block-uncommon-software =
     .label = T’abbisa di prugrammi nun vuluti e nun cumuni
     .accesskey = c
 
-## Privacy Section - Certificates
-
-certs-header = Cirtificati
-certs-enable-ocsp =
-    .label = Addumànnaci e sirbura rispunnituri OCSP di cunfirmari si i cirtificati sunnu vàliti
-    .accesskey = A
-certs-view =
-    .label = Talìa cirtificati…
-    .accesskey = c
-certs-devices =
-    .label = Dispusitivi di sicurizza…
-    .accesskey = D
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Scrivanìa
 downloads-folder-name = Scarricamenti
-choose-download-folder-title = Scarta a carpetta pî scarricamenti:

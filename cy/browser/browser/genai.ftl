@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = Rwyf ar dudalen “{ $tabTitle }” gyda “{ $s
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Gofyn i'r sgwrsfot AI
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Gofyn i { $provider }
 genai-menu-open-generic =
     .label = Agor Sgwrsfot AI
 # $provider (string) - name of the provider
@@ -128,8 +123,6 @@ genai-header-provider-menu =
     .title = Dewiswch sgwrsfot
 genai-header-settings-button =
     .title = Gosodiadau Sgwrsfot AI
-genai-header-options-button =
-    .title = Agor dewislen
 genai-header-close-button =
     .title = Cau
 genai-provider-view-details =
@@ -157,37 +150,25 @@ genai-page-button-summarize = Crynhoi Tudalen
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Crynhoi, trafod syniadau, a mwy wrth i chi bori
 genai-onboarding-choose-header = Dewiswch sgwrsfot AI i'w ddefnyddio ym mar ochr { -brand-short-name }
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Dewiswch sgwrsfot AI i'w ddefnyddio ym mar ochr { -brand-short-name }. Byddwn yn dangos manylion pob sgwrsfot pan fyddwch chi'n ei ddewis. Newidiwch nhw unrhyw bryd. <a data-l10n-name="learn-more">Rhagor</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Newidiwch unrhyw bryd. I gael help i ddewis, <a data-l10n-name="learn-more">darllenwch ragor am bob sgwrsfot</a>.
 genai-onboarding-primary = Parhau
 genai-onboarding-secondary = Cau
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Rhagor am Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Rhagor am ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Rhagor am Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Rhagor am Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = Rhagor am HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Rhagor am Le Chat
-genai-onboarding-select-header = Dewiswch destun i weld awgrymiadau
-genai-onboarding-select-description = Pan fyddwch yn dewis testun, byddwn yn cynnig awgrymiadau y gallwch eu hanfon at y sgwrsfot. Gallwch hefyd ysgrifennu eich awgrymiadau eich hun.
-genai-onboarding-select-primary = Dechrau sgwrsio
 genai-chatbot-contextual-title = Defnyddiwch sgwrsfot AI heb newid tabiau
 genai-chatbot-contextual-subtitle = Sgwrsio a phori ochr yn ochr pan fyddwch chi'n ychwanegu sgwrsfot AI ym mar ochr { -brand-short-name }.
 genai-chatbot-contextual-button = Dewiswch sgwrsfot
@@ -200,27 +181,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = De-glicio ar y botwm pefriog 
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Agorwch eich sgwrsfot AI yn y bar ochr a dewis “Crynhoi Tudalen” ar y gwaelod.
 genai-chatbot-summarize-footer-generic-subtitle = Ychwanegu sgwrsfot AI at y bar ochr { -brand-short-name } i grynhoi tudalennau'n gyflym.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Cynhyrchu testun a chod
-genai-onboarding-claude-analyze = Dadansoddi dogfennau a delweddau
-genai-onboarding-claude-price = Dewisiadau am ddim ac am dâl; bydd angen cyfrif
-genai-onboarding-chatgpt-generate = Cynhyrchu testun, delweddau, a chod
-genai-onboarding-chatgpt-analyze = Dadansoddi dogfennau a delweddau
-genai-onboarding-chatgpt-price = Dewisiadau am ddim ac am dâl; bydd angen cyfrif ar gyfer rhai gwledydd a thasgau
-genai-onboarding-copilot-generate = Cynhyrchu testun, delweddau, a chod
-genai-onboarding-copilot-analyze = Dadansoddi delweddau
-genai-onboarding-copilot-price = Dewisiadau am ddim ac am dâl: mae angen cyfrif ar gyfer rhai tasgau
-genai-onboarding-gemini-generate = Cynhyrchu testun, delweddau, a chod
-genai-onboarding-gemini-analyze = Dadansoddi delweddau (am ddim) a dogfennau (taledig)
-genai-onboarding-gemini-price = Dewisiadau am ddim ac am dâl; bydd angen cyfrif
-genai-onboarding-huggingchat-generate = Cynhyrchu testun a chod
-genai-onboarding-huggingchat-switch = Newid rhwng set amrywiol o fodelau agored
-genai-onboarding-huggingchat-price-2 = Am ddim; mae angen cyfrif ar ôl nifer penodol o geisiadau
-genai-onboarding-lechat-generate = Cynhyrchu testun a chod
-genai-onboarding-lechat-price = Rhad ac am ddim; bydd angen cyfrif
 
 ## Model Optin Component
 
@@ -263,8 +223,8 @@ link-preview-generation-retry = Ceisiwch eto
 link-preview-settings-button =
     .title = Gosodiadau Rhagolwg Dolen
 link-preview-settings-enable =
-    .label = Galluogi rhagolygon dolenni
     .description = Gweld teitl y dudalen, disgrifiad a rhagor pan fyddwch chi'n defnyddio llwybr byr neu roi clic de i ddolen.
+    .label = Galluogi rhagolygon dolenni
 link-preview-settings-key-points =
     .label = Caniatáu i AI ddarllen dechrau'r dudalen a chynhyrchu pwyntiau allweddol
 link-preview-settings-long-press =

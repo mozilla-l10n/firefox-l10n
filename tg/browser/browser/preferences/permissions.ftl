@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Истисноҳо
     .style = min-width: 45em
+    .title = Истисноҳо
 permissions-close-key =
     .key = w
 permissions-address = Нишонии сомона
@@ -80,72 +80,57 @@ permissions-invalid-uri-label = Лутфан, номи дурусти мизбо
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Истисноҳо барои муҳофизати такмилёфта аз пайгирӣ
     .style = { permissions-window2.style }
+    .title = Истисноҳо барои муҳофизати такмилёфта аз пайгирӣ
 permissions-exceptions-manage-etp-desc = Шумо метавонед муайян кунед, ки кадом сомонаҳо «Муҳофизати такмилёфта аз пайгирӣ»-ро хомӯш мекунанд. Нишонии дақиқи сомонаеро, ки мехоҳед идора кунед, ворид намоед ва пас тугмаи «Илова кардани истисно»-ро зер кунед.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Истисноҳо - Кукиҳо ва иттилооти сомона
     .style = { permissions-window2.style }
+    .title = Истисноҳо - Кукиҳо ва иттилооти сомона
 permissions-exceptions-cookie-desc = Шумо метавонед муайян кунед, ки кадом сомонаҳо ҳамеша ё ҳеҷ гоҳ барои истифодаи кукиҳо ва маълумоти сомона иҷозат доранд ё надоранд.  Нишонии дақиқи сомонаеро, ки мехоҳед идора кунед, ворид намоед ва пас тугмаи «Манъ кардан», «Барои ҷаласа иҷозат додан» ё «Иҷозат додан»-ро зер кунед.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Истисноҳо - Реҷаи «Танҳо HTTPS»
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Шумо метавонед реҷаи «Танҳо HTTPS»-ро барои сомонаҳои мушаххас хомӯш кунед. «{ -brand-short-name }» кӯшиш намекунад, ки барои ин сомонаҳои пайвастшавиро ба «HTTPS»-и бехатар такмил диҳад. Чунин истисноҳо ба равзанаҳои хусусӣ татбиқ намешаванд.
+    .title = Истисноҳо - Реҷаи «Танҳо HTTPS»
 permissions-exceptions-https-only-desc2 = Шумо метавонед реҷаи «Танҳо HTTPS»-ро барои сомонаҳои мушаххас хомӯш кунед. { -brand-short-name } кӯшиш намекунад, ки барои ин сомонаҳои пайвастшавиро ба HTTPS-и бехатар такмил диҳад.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
     .title = Сомонаҳои иҷозатшуда - равзанаҳои зоҳиршаванда ва тағйири масир аз тарафҳои сеюм
-    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = Шумо метавонед муайян кунед, ки ба кадом сомонаҳо барои кушодани равзанаҳои зоҳиршаванда ва интиқол аз чорчӯбаҳои тарафи сеюм иҷозат дода мешавад.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Сомонаҳои иҷозатдодашуда - Равзанаҳои зоҳиршаванда
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Шумо метавонед муайян кунед, ки кадом сомонаҳо барои намоиши равзанаҳои пайдошаванда иҷозат доранд. Нишонии дақиқи сомонаеро, ки мехоҳед ба он иҷозат диҳед, ворид намоед ва пас тугмаи «Иҷозат додан»-ро зер кунед.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Истисноҳо - Воридшавиҳои нигоҳдошташуда
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Воридшавиҳо барои сомонаҳои зерин нигоҳ дошта намешаванд
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Истисноҳо - Ниҳонвожаҳои нигоҳдошташуда
     .style = { permissions-window2.style }
+    .title = Истисноҳо - Ниҳонвожаҳои нигоҳдошташуда
 permissions-exceptions-saved-passwords-desc = «{ -brand-short-name }» барои сомонаҳое, ки ба ин рӯйхат ворид карда шудаанд, ниҳонвожаҳоро нигоҳ намедорад.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Сомонаҳои иҷозатдодашуда - Насбкунии ҷузъҳои иловагӣ
     .style = { permissions-window2.style }
+    .title = Сомонаҳои иҷозатдодашуда - Насбкунии ҷузъҳои иловагӣ
 permissions-exceptions-addons-desc = Шумо метавонед муайян кунед, ки кадом сомонаҳо барои насб кардани ҷузъҳои иловагӣ иҷозат доранд. Нишонии дақиқи сомонаеро, ки мехоҳед ба он иҷозат диҳед, ворид намоед ва пас тугмаи «Иҷозат додан»-ро зер кунед.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Танзимот - Пахши худкор
     .style = { permissions-window2.style }
+    .title = Танзимот - Пахши худкор
 permissions-site-autoplay-desc = Дар ин ҷо шумо метавонед сомонаҳоеро идора кунед, ки танзимоти пешфарзи шуморо барои пахши худкор иҷро намекунанд.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Танзимот - Иҷозатҳои огоҳнома
     .style = { permissions-window2.style }
+    .title = Танзимот - Иҷозатҳои огоҳнома
 permissions-site-notification-desc = Сомонаҳои зерин дархост карданд, ки ба шумо огоҳиномаҳоро ирсол намоянд. Шумо метавонед муайян кунед, ки кадом сомонаҳо барои фиристодани огоҳномаҳо иҷзат доранд. Шумо, инчунин, метавонед дархостҳои наверо, ки иҷозати огоҳиномаҳоро дархост мекунанд, манъ кунед.
 permissions-site-notification-disable-label =
     .label = Манъ кардани дархостҳои наве, ки иҷозати огоҳномаҳоро дархост мекунанд
@@ -154,8 +139,8 @@ permissions-site-notification-disable-desc = Ин амал ҳамаи сомон
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Танзимот - Иҷозатҳои ҷойгиршавӣ
     .style = { permissions-window2.style }
+    .title = Танзимот - Иҷозатҳои ҷойгиршавӣ
 permissions-site-location-desc = Сомонаҳои зерин дархост карданд, ки ба ҷойгиршавии шумо дастрасӣ пайдо намоянд. Шумо метавонед муайян кунед, ки кадом сомонаҳо барои пайдо кардани дастрасӣ ба ҷойгиршавии шумо иҷзат доранд. Шумо, инчунин, метавонед дархостҳои наверо, ки иҷозати пайдокунии дастрасиро ба ҷойгиршавии шумо дархост мекунанд, манъ кунед.
 permissions-site-location-disable-label =
     .label = Манъ кардани дархостҳои наве, ки иҷозати пайдокунии дастрасиро ба ҷойгиршавии шумо дархост мекунанд
@@ -164,8 +149,8 @@ permissions-site-location-disable-desc = Ин амал ҳамаи сомонаҳ
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Танзимот - Иҷозатҳои ҳақиқати виртуалӣ
     .style = { permissions-window2.style }
+    .title = Танзимот - Иҷозатҳои ҳақиқати виртуалӣ
 permissions-site-xr-desc = Сомонаҳои зерин дархост карданд, ки ба дастгоҳҳои воқеияти маҷозии шумо дастрасӣ пайдо намоянд. Шумо метавонед муайян кунед, ки кадом сомонаҳо барои пайдо кардани дастрасӣ ба дастгоҳҳои воқеияти маҷозии шумо иҷзат доранд. Шумо, инчунин, метавонед дархостҳои наверо, ки иҷозати пайдокунии дастрасиро ба дастгоҳҳои воқеияти маҷозии шумо дархост мекунанд, манъ кунед.
 permissions-site-xr-disable-label =
     .label = Манъ кардани дархостҳои наве, ки иҷозати пайдокунии дастрасиро ба дастгоҳҳои воқеияти маҷозии шумо дархост мекунанд
@@ -174,8 +159,8 @@ permissions-site-xr-disable-desc = Ин амал ҳамаи сомонаҳоер
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Танзимот - Иҷозатҳои камера
     .style = { permissions-window2.style }
+    .title = Танзимот - Иҷозатҳои камера
 permissions-site-camera-desc = Сомонаҳои зерин дархост карданд, ки ба камераи шумо дастрасӣ пайдо намоянд. Шумо метавонед муайян кунед, ки кадом сомонаҳо барои пайдо кардани дастрасӣ ба камераи шумо иҷзат доранд. Шумо, инчунин, метавонед дархостҳои наверо, ки иҷозати пайдокунии дастрасиро ба камераи шумо дархост мекунанд, манъ кунед.
 permissions-site-camera-disable-label =
     .label = Манъ кардани дархостҳои наве, ки иҷозати пайдокунии дастрасиро ба камераи шумо дархост мекунанд
@@ -184,8 +169,8 @@ permissions-site-camera-disable-desc = Ин амал ҳамаи сомонаҳо
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = Танзимот - Барномаҳо ва хизматҳои дастгоҳ
     .style = { permissions-window2.style }
+    .title = Танзимот - Барномаҳо ва хизматҳои дастгоҳ
 permissions-site-localhost-desc = Ин сомонаҳо барои пайдо кардани дастрасӣ ба барномаҳо ва хизматҳо дар ин дастгоҳ иҷозатро дархост карданд. Шумо метавонед ба ин сомонаҳо иҷозат диҳед ё онҳоро манъ кунед.
 permissions-site-localhost-disable-label =
     .label = Дархостҳои навро манъ кунед, то дар ин дастгоҳ ба барномаҳо ва хизматҳо дастрасӣ пайдо накунанд
@@ -194,8 +179,8 @@ permissions-site-localhost-disable-desc = Ин амал ҳамаи сомона�
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = Танзимот - Дастгоҳҳои шабакаи маҳаллӣ
     .style = { permissions-window2.style }
+    .title = Танзимот - Дастгоҳҳои шабакаи маҳаллӣ
 permissions-site-local-network-desc = Ин сомонаҳо барои пайдо кардани дастрасӣ ба барномаҳо ва хизматҳо дар дастгоҳҳое, ки ба шабакаи маҳаллии «Wi-Fi»-и шумо пайваст шудаанд, иҷозатро дархост карданд. Шумо метавонед ба ин сомонаҳо иҷозат диҳед ё онҳоро манъ кунед.
 permissions-site-local-network-disable-label =
     .label = Ба дархостҳои нав иҷозат надиҳед, то онҳо натавонад дар дастгоҳҳои пайвастшуда ба «Wi-Fi» ё шабакаи маҳаллии шумо ба барномаҳо ва хизматҳо дастрасӣ пайдо кунанд.
@@ -204,8 +189,8 @@ permissions-site-local-network-disable-desc = Ин амал ҳамаи сомо�
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Танзимот - Иҷозатҳои микрофон
     .style = { permissions-window2.style }
+    .title = Танзимот - Иҷозатҳои микрофон
 permissions-site-microphone-desc = Сомонаҳои зерин дархост карданд, ки ба микрофони шумо дастрасӣ пайдо намоянд. Шумо метавонед муайян кунед, ки кадом сомонаҳо барои пайдо кардани дастрасӣ ба микрофони шумо иҷзат доранд. Шумо, инчунин, метавонед дархостҳои наверо, ки иҷозати пайдокунии дастрасиро ба микрофони шумо дархост мекунанд, манъ кунед.
 permissions-site-microphone-disable-label =
     .label = Манъ кардани дархостҳои наве, ки иҷозати пайдокунии дастрасиро ба микрофони шумо дархост мекунанд
@@ -216,12 +201,12 @@ permissions-site-microphone-disable-desc = Ин амал ҳамаи сомона
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Танзимот - Иҷозатҳои баландгӯяк
     .style = { permissions-window2.style }
+    .title = Танзимот - Иҷозатҳои баландгӯяк
 permissions-site-speaker-desc = Сомонаҳои зерин интихоби дастгоҳи барориши аудиоро дархост карданд. Шумо метавонед муайян кунед, ки кадом сомонаҳо барои интихоби дастгоҳи барориши аудио иҷозат доранд.
 permissions-exceptions-doh-window =
-    .title = Истисноҳои сомона барои «DNS тавассути HTTPS»
     .style = { permissions-window2.style }
+    .title = Истисноҳои сомона барои «DNS тавассути HTTPS»
 permissions-exceptions-manage-doh-desc = { -brand-short-name } наметавонад, ки аз DNS-и бехатар дар ин сомонаҳо ва зердоменҳои он истифода барад.
 permissions-doh-entry-field = Номи домени сомонаро ворид намоед
     .accesskey = Н

@@ -4,10 +4,6 @@
 
 bookmark-overlay-choose =
     .label = Sayla…
-bookmark-overlay-folders-expander =
-    .tooltiptext = Saife-imleri cilbentleriniñ episini köster
-    .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
-    .tooltiptextup = Gizle
 bookmark-overlay-folders-expander2 =
     .tooltiptext = Saife-imleri cilbentleriniñ episini köster
 bookmark-overlay-folders-expander-hide =
@@ -17,10 +13,6 @@ bookmark-overlay-new-folder-button =
     .accesskey = Y
 bookmark-overlay-tags-empty-description =
     .placeholder = Nişanlarnı virgüllernen ayırıñız
-bookmark-overlay-tags-expander =
-    .tooltiptext = Nişanlarnıñ episini köster
-    .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
-    .tooltiptextup = Gizle
 bookmark-overlay-tags-expander2 =
     .tooltiptext = Nişanlarnıñ episini köster
 bookmark-overlay-tags-expander-hide =

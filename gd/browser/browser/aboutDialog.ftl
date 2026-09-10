@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>A' luchdadh a-nuas an ùrachaidh — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = A’ luchdadh a-nuas an ùrachaidh – <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = A' luchdadh a-nuas an ùrachaidh — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = A' cur an sàs an ùrachaidh…
 update-failed = Dh'fhàillig an t-ùrachadh. <label data-l10n-name="failed-link">Luchdaich a-nuas an tionndadh as ùire</label>
 update-failed-main = Dh'fhàillig an t-ùrachadh. <a data-l10n-name="failed-link-main">Luchdaich a-nuas an tionndadh as ùire</a>
-update-adminDisabled = Chuir rianaire an t-siostaim agad casg air ùrachaidhean
 update-policy-disabled = Cuir am buidheann agad na h-ùrachaidhean à comas
 settings-update-policy-disabled =
     .label = Cuir am buidheann agad na h-ùrachaidhean à comas
@@ -71,8 +69,6 @@ helpus = Bheil thu son cuideachadh? <label data-l10n-name="helpus-donateLink">Th
 bottomLinks-license = Fiosrachadh ceadachais
 bottom-links-terms = teirmichean a’ chleachdaidh
 bottom-links-privacy = Aithris na prìobhaideachd
-bottomLinks-rights = Còraichean a' chleachdaiche dheireannaich
-bottomLinks-privacy = Poileasaidh prìobhaideachd
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

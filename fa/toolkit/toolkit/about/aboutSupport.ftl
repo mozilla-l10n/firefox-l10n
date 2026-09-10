@@ -21,10 +21,6 @@ security-software-name = نام
 security-software-antivirus = آنتی ویروس
 security-software-antispyware = ضدجاسوسی
 security-software-firewall = دیوارآتشین
-features-title = امکانات { -brand-short-name }
-features-name = نام
-features-version = نسخه
-features-id = شناسه
 processes-title = پردازش‌های راه دور
 processes-type = نوع
 processes-count = تعداد
@@ -50,7 +46,6 @@ app-basics-profile-dir =
         [linux] مسیر مجموعه تنظیمات
        *[other] پوشهٔ نمایه
     }
-app-basics-enabled-plugins = متصل‌شونده‌های فعال
 app-basics-build-config = تنظیمات هنگام ساخت
 app-basics-user-agent = نام نمایندهٔ کاربر
 app-basics-os = سیستم عامل
@@ -77,9 +72,6 @@ show-dir-label =
 environment-variables-title = متغیرهای محیطی
 environment-variables-name = نام
 environment-variables-value = مقدار
-experimental-features-title = ویژگی‌های آزمایشی
-experimental-features-name = نام
-experimental-features-value = مقدار
 modified-key-prefs-title = ترجیحاتِ تغییر یافتهٔ مهم
 modified-prefs-name = نام
 modified-prefs-value = مقدار

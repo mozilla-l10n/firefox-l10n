@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = ຕັ້ງຄ່າການເຊື່ອມຕໍ່
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = ຕັ້ງຄ່າການເຊື່ອມຕໍ່
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -58,14 +58,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = ໂຫລດໃຫມ່
     .accesskey = e
-connection-proxy-autologin =
-    .label = ບໍ່ຕ້ອງຖາມສຳລັບການຮັບຮອງຄວາມຖືກຕ້ອງຖ້າລະຫັດຜ່ານຖືກບັນທຶກໄວ້
-    .accesskey = i
-    .tooltip = ຕົວເລືອກນີ້ຈະຮັບຮອງຄວາມຖືກຕ້ອງຂອງທ່ານໄປທີ່ພຣັອກຊີໂດຍອັດຕະໂນມັດເມື່ອທ່ານໄດ້ບັນທຶກຫນັງສືຮັບຮອງໄວ້. ທ່ານຈະໄດ້ຮັບການແຈ້ງເຕືອນຖ້າການຮັບຮອງຄວາມຖືກຕ້ອງລົ້ມເຫລວ.
 connection-proxy-autologin-checkbox =
     .label = ບໍ່ຕ້ອງຖາມສຳລັບການຮັບຮອງຄວາມຖືກຕ້ອງຖ້າລະຫັດຜ່ານຖືກບັນທຶກໄວ້
-    .accesskey = i
     .tooltiptext = ຕົວເລືອກນີ້ຈະຮັບຮອງຄວາມຖືກຕ້ອງຂອງທ່ານໄປທີ່ພຣັອກຊີໂດຍອັດຕະໂນມັດເມື່ອທ່ານໄດ້ບັນທຶກຫນັງສືຮັບຮອງໄວ້. ທ່ານຈະໄດ້ຮັບການແຈ້ງເຕືອນຖ້າການຮັບຮອງຄວາມຖືກຕ້ອງລົ້ມເຫລວ.
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = DNS ແບບພຣັອກຊີເມື່ອໃຊ້ SOCKS v5
     .accesskey = D
@@ -76,6 +72,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = ໃຊ້ URL ເລີ່ມຕົ້ນສຳລັບແປງທີ່ຢູ່ DNS ຜ່ານ HTTPS
 connection-dns-over-https-url-custom =
     .label = ປັບແຕ່ງ
-    .accesskey = C
     .tooltiptext = ປ້ອນ URL ທີ່ທ່ານມັກສຳລັບການ resolve DNS ຜ່ານທາງ HTTPS
-connection-dns-over-https-custom-label = ປັບແຕ່ງ
+    .accesskey = C

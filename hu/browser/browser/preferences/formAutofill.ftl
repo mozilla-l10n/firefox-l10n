@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Mentett címek
 autofill-manage-addresses-list-header = Címek
-autofill-manage-credit-cards-title = Mentett bankkártyák
-autofill-manage-credit-cards-list-header = Bankkártyák
 autofill-manage-payment-methods-title = Mentett fizetési módok
 autofill-manage-cards-list-header = Kártyák
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = Menü megnyitása
 address-capture-edit-address-link = Cím szerkesztése
     .aria-label = Cím szerkesztése
-address-capture-edit-address-button =
-    .aria-label = Cím szerkesztése
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Cím hozzáadása
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Cím szerkesztése
-autofill-address-given-name = Utónév
-autofill-address-additional-name = Egyéb név
-autofill-address-family-name = Vezetéknév
 autofill-address-name = Név
 autofill-address-organization = Szervezet
 autofill-address-street-address = Utca, házszám
@@ -104,8 +97,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Új cím hozzáadása
 autofill-address-country = Ország vagy régió
 autofill-address-country-only = Ország
 autofill-address-tel = Telefonszám
@@ -114,18 +105,6 @@ autofill-cancel-button = Mégse
 autofill-save-button = Mentés
 autofill-country-warning-message-2 = Az űrlapkitöltés jelenleg csak egyes országokban érhető el.
 autofill-country-warning-message = Az űrlapkitöltés jelenleg csak egyes országbeli címekre érhető el.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Új bankkártya hozzáadása
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Bankkártya szerkesztése
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] bankkártya-információk megjelenítése
-        [windows] A { -brand-short-name } bankkártyaadatokat akar megjeleníteni. Erősítse meg a hozzáférést az alábbi Windows-fiókhoz.
-       *[other] A { -brand-short-name } bankkártyaadatokat akar megjeleníteni.
-    }
 autofill-message-tooltip = Üzenet megtekintése az automatikus kitöltésről
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Kártya hozzáadása
@@ -211,15 +190,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = Sose mentse az útleveleket
     .accessKey = S
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

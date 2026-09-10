@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = དྲ་ཚིགས་ཀྱི་སྐོར་ཀློག་པ
 
@@ -38,8 +33,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Open offline storage message panel
 urlbar-password-notification-anchor =
     .tooltiptext = Open save password message panel
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Manage plug-in use
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Manage sharing your camera and/or microphone with the site
 urlbar-autoplay-notification-anchor =
@@ -70,8 +63,6 @@ urlbar-screen-blocked =
     .tooltiptext = You have blocked this website from sharing your screen.
 urlbar-persistent-storage-blocked =
     .tooltiptext = You have blocked persistent storage for this website.
-urlbar-popup-blocked =
-    .tooltiptext = You have blocked pop-ups for this website.
 urlbar-autoplay-media-blocked =
     .tooltiptext = You have blocked autoplay media with sound for this website.
 urlbar-canvas-blocked =
@@ -135,7 +126,6 @@ identity-active-blocked = { -brand-short-name } has blocked parts of this page t
 identity-passive-loaded = Parts of this page are not secure (such as images).
 identity-active-loaded = You have disabled protection on this page.
 identity-weak-encryption = This page uses weak encryption.
-identity-insecure-login-forms = Logins entered on this page could be compromised.
 identity-permissions-reload-hint = You may need to reload the page for changes to apply.
 identity-clear-site-data =
     .label = Clear Cookies and Site Data…
@@ -143,7 +133,6 @@ identity-remove-cert-exception =
     .label = Remove Exception
     .accesskey = R
 identity-description-insecure = Your connection to this site is not private. Information you submit could be viewed by others (like passwords, messages, credit cards, etc.).
-identity-description-insecure-login-forms = The login information you enter on this page is not secure and could be compromised.
 identity-description-weak-cipher-intro = Your connection to this website uses weak encryption and is not private.
 identity-description-weak-cipher-risk = Other people can view your information or modify the website’s behavior.
 identity-description-active-blocked2 = { -brand-short-name } has blocked parts of this page that are not secure.
@@ -152,12 +141,6 @@ identity-description-passive-loaded-insecure2 = This website contains content th
 identity-description-passive-loaded-mixed2 = Although { -brand-short-name } has blocked some content, there is still content on the page that is not secure (such as images).
 identity-description-active-loaded = This website contains content that is not secure (such as scripts) and your connection to it is not private.
 identity-description-active-loaded-insecure = Information you share with this site could be viewed by others (like passwords, messages, credit cards, etc.).
-identity-disable-mixed-content-blocking =
-    .label = Disable protection for now
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = Enable protection
-    .accesskey = E
 identity-more-info-link-text =
     .label = More Information
 
@@ -192,8 +175,6 @@ urlbar-extension =
     .value = ཟུར་སྣོན:
 urlbar-go-button2 =
     .title = གནས་ཁོངས་ངོས་ཀྱི་དྲ་གནས་ཐོག་ཏུ་སྐྱོད་པ
-urlbar-go-button =
-    .tooltiptext = གནས་ཁོངས་ངོས་ཀྱི་དྲ་གནས་ཐོག་ཏུ་སྐྱོད་པ
 urlbar-page-action-button =
     .tooltiptext = Page actions
 
@@ -263,12 +244,6 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] ཡིག་རྟགས་ལག་ཆའི་ངོས་སྐུང་པ
            *[other] ཡིག་རྟགས་ལག་ཆའི་ངོས་ལྟ་བ
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] ལག་ཆའི་ངོས་ནས་ཡིག་རྟགས་གདམ་ཐོ་བསུབ་པ
-           *[other] ལག་ཆའི་ངོས་སུ་ཡིག་རྟགས་གདམ་ཐོ་ཁ་སྣོན
-        }
 
 ##
 
@@ -324,28 +299,10 @@ eme-notifications-drm-content-playing = Some audio or video on this site uses DR
 ui-tour-info-panel-close =
     .tooltiptext = Close
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = Allow pop-ups for { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Block pop-ups for { $uriHost }
-    .accesskey = p
-
-##
-
-popups-infobar-dont-show-message =
-    .label = Don’t show this message when pop-ups are blocked
-    .accesskey = D
-
 ##
 
 navbar-downloads =
     .label = ལེན་འཇུག
-navbar-overflow =
-    .tooltiptext = ལག་ཆ་གཞན…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

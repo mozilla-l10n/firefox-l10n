@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Ke´i conexión
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Ke´i conexión
 connection-close-key =
     .key = W
 connection-disable-extension =
@@ -50,14 +50,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Nachu'un tuku
     .accesskey = e
-connection-proxy-autologin =
-    .label = Nkatu'unu tutu de contraseña nchuva'a
-    .accesskey = i
-    .tooltip = Opción ya'a nakuni noo'o ji proxys sa chuva'anu credenciales suvidaja. Katu'uda noo'o da ya´a de ntu kuvi kune.
 connection-proxy-autologin-checkbox =
     .label = Nkatu'unu tutu de contraseña nchuva'a
-    .accesskey = i
     .tooltiptext = Opción ya'a nakuni noo'o ji proxys sa chuva'anu credenciales suvidaja. Katu'uda noo'o da ya´a de ntu kuvi kune.
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = Proxy DNS saa ni´inu SOCKS v5
     .accesskey = D
@@ -68,6 +64,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Ni´i URL predeterminado jee nasa´a DNS jii HTTPS
 connection-dns-over-https-url-custom =
     .label = Personalizar
-    .accesskey = e
     .tooltiptext = Chu´un iin URL vatu saa nuvi DNS yoso HTTPS
-connection-dns-over-https-custom-label = Personalizado
+    .accesskey = e

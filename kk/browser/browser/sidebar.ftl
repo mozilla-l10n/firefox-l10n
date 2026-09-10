@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = Тарихты тазарту
 sidebar-history-sort-by-heading-menucaption =
     .label = Бойынша сұрыптау:
-sidebar-history-sort-by-heading = Бойынша сұрыптау:
 sidebar-history-sort-option-date =
     .label = Күні
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Бүйір панелі кеңейтулері
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name } құралдары
 sidebar-customize-firefox-settings = { -brand-short-name } баптауларын басқару
 sidebar-vertical-tabs =
     .label = Вертикалды беттер
 sidebar-settings2 =
     .label = Баптаулар
-sidebar-settings =
-    .label = Бүйір панель баптаулары
 sidebar-hide-tabs-and-sidebar =
     .label = Беттер мен бүйірлік панельді жасыру
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Кеңейтуді басқару
-sidebar-context-menu-remove-extension =
-    .label = Кеңейтуді өшіру
 sidebar-context-menu-report-extension =
     .label = Кеңейтуге шағым жіберу
 sidebar-context-menu-open-in-tab =

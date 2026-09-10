@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Synchronizěrujo se…
 sync-disconnect-dialog-title2 = Zwisk źěliś?
 sync-disconnect-dialog-body = { -brand-product-name } pśestanjo waš konto synchronizěrowaś, ale njewulašujo pśeglědowańske daty na toś tom rěźe.
 sync-disconnect-dialog-button = Zwisk źěliś
-fxa-signout-dialog2-title = Z { -fxaccount-brand-name } wótzjawiś?
 fxa-signout-dialog-title2 = Wót wašogo konta wótzjawiś?
 fxa-signout-dialog-body = Synchronizěrowane daty we wašom konśe wóstanu.
 fxa-signout-dialog2-button = Wótzjawiś
@@ -47,16 +46,6 @@ fxviewtabrow-send-to-mobile-not-verified = Konto njejo pśeglědane
 fxviewtabrow-send-to-mobile-verify-account = Pśeglědajśo swójo konto
 fxa-menu-send-to-mobile-turn-on-sync = Zmóžniśo synchronizaciju, aby rejtariki pósłał
 fxa-menu-send-to-mobile-connect-device = Zwěžćo rěd, aby rejtariki pósłał
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] { $tabCount } rejtarik na rěd pósłaś
-            [two] { $tabCount } rejtarika na rěd pósłaś
-            [few] { $tabCount } rejtariki na rěd pósłaś
-           *[other] { $tabCount } rejtarikow na rěd pósłaś
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Rědy se synchronizěruju…

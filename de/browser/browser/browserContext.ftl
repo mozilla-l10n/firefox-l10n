@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Eine Seite zurück ({ $shortcut })
     .aria-label = Zurück
+    .tooltiptext = Eine Seite zurück ({ $shortcut })
     .accesskey = Z
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Eine Seite vor ({ $shortcut })
     .aria-label = Vor
+    .tooltiptext = Eine Seite vor ({ $shortcut })
     .accesskey = V
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Lesezeichen für Seite hinzufügen…
-    .accesskey = L
     .tooltiptext = Lesezeichen für Seite hinzufügen
+    .accesskey = L
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Lesezeichen für Seite hinzufügen…
-    .accesskey = L
     .tooltiptext = Lesezeichen für Seite hinzufügen ({ $shortcut })
+    .accesskey = L
 main-context-menu-edit-bookmark =
     .aria-label = Lesezeichen bearbeiten…
-    .accesskey = L
     .tooltiptext = Lesezeichen bearbeiten
+    .accesskey = L
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Lesezeichen bearbeiten…
-    .accesskey = L
     .tooltiptext = Lesezeichen bearbeiten ({ $shortcut })
+    .accesskey = L
 main-context-menu-open-link =
     .label = Link öffnen
     .accesskey = k
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Ziel speichern unter…
     .accesskey = Z
-main-context-menu-save-link-to-pocket =
-    .label = Link in { -pocket-brand-name } speichern
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Synchronisation zum Sen
 main-context-menu-send-to-mobile-connect-phone3 = Verbinden Sie ein Gerät, um Tabs zu senden
 main-context-menu-send-to-mobile-connect-phone-from-link = Verbinden Sie ein Gerät, um einen Link zu senden
 main-context-menu-send-to-mobile-connect-phone-from-page = Verbinden Sie ein Gerät, um eine Seite zu senden
-main-context-menu-save-to-pocket =
-    .label = Seite in { -pocket-brand-name } speichern
-    .accesskey = o
-main-context-menu-send-to-device =
-    .label = Seite an Gerät senden
-    .accesskey = X
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Gespeicherte Zugangsdaten verwenden
-    .accesskey = G
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Gespeichertes Passwort verwenden
     .accesskey = G
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name }-E-Mail-Maske verwenden
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = Starkes Passwort vorschlagen…
     .accesskey = P
-main-context-menu-manage-logins2 =
-    .label = Zugangsdaten verwalten
-    .accesskey = v
 main-context-menu-manage-passwords =
     .label = Passwörter verwalten
     .accesskey = v
-main-context-menu-keyword =
-    .label = Ein Schlüsselwort für diese Suche hinzufügen…
-    .accesskey = S
 main-context-menu-add-engine =
     .label = Suchmaschine hinzufügen
     .accesskey = S
@@ -391,9 +364,6 @@ main-context-menu-view-selection-source =
     .label = Auswahl-Quelltext anzeigen
     .accesskey = A
 main-context-menu-take-screenshot =
-    .label = Bildschirmfoto aufnehmen
-    .accesskey = a
-main-context-menu-take-frame-screenshot =
     .label = Bildschirmfoto aufnehmen
     .accesskey = a
 main-context-menu-view-page-source =

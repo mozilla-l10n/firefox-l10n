@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Momentálne používate režim FIPS. Tento
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Zmena hlavného hesla
     .style = min-width: 40em
+    .title = Zmena hlavného hesla
 reset-password-button-label =
     .label = Zmeniť
 reset-primary-password-text = Ak zmeníte svoje hlavné heslo, všetky uložené heslá, údaje formulárov, osobné certifikáty a súkromné kľúče budú vymazané. Naozaj chcete zmeniť svoje hlavné heslo?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Vaše hlavné heslo bolo zmenené.
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Sťahuje sa certifikát
     .style = min-width: 46em
+    .title = Sťahuje sa certifikát
 download-cert-message = Vyžaduje sa dôverovať novej certifikačnej autorite.
 download-cert-trust-ssl =
     .label = Dôverovať tejto certifikačnej autorite pri identifikácii serverov.
@@ -52,8 +52,6 @@ download-cert-view-text = Preskúmať certifikát certifikačnej agentúry
 
 client-auth-window =
     .title = Požiadavka na identifikáciu používateľa
-client-auth-site-description = Tento server požaduje, aby ste sa identifikovali certifikátom:
-client-auth-choose-cert = Vyberte certifikát, ktorý sa použije ako identifikácia:
 client-auth-send-no-certificate =
     .label = Neodosielať certifikát
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Prosím, overte si totožnosť na bezpečnostnom zariadení ({ $tokenName }). Spôsob overenia závisí od zariadenia (napríklad pomocou čítačky odtlačkov prstov alebo zadaním kódu pomocou klávesnice).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Prosím, overte sa pomocou tokenu “{ $tokenName }”. Spôsob, ako to urobiť, závisí od tokenu (napríklad pomocou čítačky odtlačkov prstov alebo zadania kódu pomocou klávesnice).

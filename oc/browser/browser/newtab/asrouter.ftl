@@ -62,17 +62,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Sincronizatz vòstres marcapaginas pertot.
-cfr-doorhanger-bookmark-fxa-body = Genial ! Ara, contunhetz pas sens aqueste marcapagina suls vòstres periferics mobils. Començatz amb { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronizar los marcapaginas ara…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Boton tampar
     .title = Tampar
-
-## Protections panel
-
-cfr-protections-panel-header = Navegatz sens èsser seguit
-cfr-protections-panel-body = Gardatz vòstras donadas per vos. { -brand-short-name } vos protegís de la màger part dels traçadors mai comuns que vos seguisson en linha.
-cfr-protections-panel-link-text = Ne saber mai
 
 ## What's New toolbar button and panel
 
@@ -168,42 +161,8 @@ mr2022-background-update-toast-primary-button-label = Lançar { -brand-shorter-n
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Lo me remembrar mai tard
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Ensajar
-    .accesskey = E
-firefoxview-cfr-secondarybutton = Pas ara
-    .accesskey = P
-firefoxview-cfr-header-v2 = Tornatz ont èretz
-firefoxview-cfr-body-v2 = Tornatz trapar los onglets onglets tampats fa pas res, e basculatz d’un aparelh a l’autre amb { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Digatz bonjorn a { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Avètz enveja de trapar un onglet dobèrt sus vòstre mobil ? Recuperatz-lo. Vos fa mestièr aquel site ? Shtac, es dins { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Veire coma fonciona
-firefoxview-spotlight-promo-secondarybutton = Passar
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Causir un colorit
-    .accesskey = C
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Botatz de color a vòstre navegador amb las tintas exclusivas de { -brand-short-name } inspiradas de voses qu’influencièron nòstra cultura.
-colorways-cfr-header-28days = Los colorits « Voses independentas » expiran lo 16 de de genièr
-colorways-cfr-header-14days = Los colorits « Voses independentas » expiran d’aquí doas setmanas
-colorways-cfr-header-7days = Los colorits « Voses independentas » expiran aquesta setmana
-colorways-cfr-header-today = Los colorits « Voses independentas » expiran uèi
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Permetre a { -brand-short-name } de regetar las demandas de cookies ?
-cfr-cbh-body = { -brand-short-name } pòt regetar automaticament las demandas de cookies.
-cfr-cbh-confirm-button = Regetar las bandièras de cookies
-    .accesskey = R
-cfr-cbh-dismiss-button = Mai tard
-    .accesskey = M
 cookie-banner-blocker-onboarding-header = { -brand-short-name } ven de refusar un cookie per vos
 cookie-banner-blocker-onboarding-body = Mens de distraccions, mens de cookies que vos pistan sus aqueste site.
 cookie-banner-blocker-onboarding-learn-more = Ne saber mai

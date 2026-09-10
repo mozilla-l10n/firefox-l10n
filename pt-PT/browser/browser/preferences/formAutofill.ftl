@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Endereços guardados
 autofill-manage-addresses-list-header = Endereços
-autofill-manage-credit-cards-title = Cartões de crédito guardados
-autofill-manage-credit-cards-list-header = Cartões de crédito
 autofill-manage-payment-methods-title = Métodos de pagamento guardados
 autofill-manage-cards-list-header = Cartões
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = Abrir menu
 address-capture-edit-address-link = Editar morada
     .aria-label = Editar morada
-address-capture-edit-address-button =
-    .aria-label = Editar morada
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Adicionar morada
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Editar endereço
-autofill-address-given-name = Primeiro nome
-autofill-address-additional-name = Nome do meio
-autofill-address-family-name = Último nome
 autofill-address-name = Nome
 autofill-address-organization = Organização
 autofill-address-street-address = Morada da rua
@@ -104,8 +97,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Adicionar novo endereço
 autofill-address-country = País ou região
 autofill-address-country-only = País
 autofill-address-tel = Telefone
@@ -114,18 +105,6 @@ autofill-cancel-button = Cancelar
 autofill-save-button = Guardar
 autofill-country-warning-message-2 = O auto-preenchimento de formulários está disponível apenas para alguns países
 autofill-country-warning-message = O autopreenchimento de formulários está disponível apenas para alguns países.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Adicionar novo cartão de crédito
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Editar cartão de crédito
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] mostrar informação do cartão de crédito
-        [windows] O { -brand-short-name } está a tentar mostrar informação de cartão de crédito. Confirme o acesso a esta conta Windows abaixo.
-       *[other] O { -brand-short-name } está a tentar mostrar informação de cartão de crédito.
-    }
 autofill-message-tooltip = Ver mensagem sobre o preenchimento automático
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Adicionar cartão
@@ -211,15 +190,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = Nunca guardar passaportes
     .accessKey = N
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

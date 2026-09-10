@@ -34,12 +34,6 @@ mr1-return-to-amo-add-extension-label = { $addon-name } شامل کرو
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = پیش رفت: مرحلہ { $current } دا { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -176,11 +170,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = { -brand-short-name } کوں ٹاسک بار تے پن کرو تے مینیو شروع کرو
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = ہک غیر منافع بخش دے حمایت یافتہ براؤزر دے نال شروع کرو۔ جݙاں تساں ویب  تے زپ کریندے او تاں اساں تہاݙی رازداری دا دفاع کریندے ہیں۔
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -210,57 +199,10 @@ mr2022-onboarding-set-default-subtitle = ہک غیر منافع بخش دا حم
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = اساݙا نواں نکور ورژن تہاݙے چودھار بݨایا ڳیا ہے، جیندے نال ویب تے زپ کرݨ پہلے کنوں کتھائیں زیادہ آسان ہے۔ ایہ انہاں خصوصییتاں نال بھری ہوئی ہے جیڑھیاں اساکوں لڳدے جو تساں پسند کریسو۔
 mr2022-onboarding-get-started-primary-button-label = سیکنڈاں  وِچ سیٹ اپ کرو
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = بجلی وانگوں تکھا سیٹ اپ
-mr2022-onboarding-import-subtitle = ترتیب ݙیو { -brand-short-name } جیویں تساں اینکوں پسند کریندے او۔ اپݨے پراݨے براؤزر کنوں اپݨیاں نشانیاں، پاس ورڈ تے ودھیک شامل کرو۔
 mr2022-onboarding-import-primary-button-label-no-attribution = پچھلے براؤزر کنوں درآمد کرو
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = او رنگ چݨو جیڑھا تہاکوں بھاندا ہووے
-mr2022-onboarding-colorway-subtitle = آزاد آوازاں ثقافت تبدیل کر سڳدیاں ہن
-mr2022-onboarding-colorway-primary-button-label-continue = سیٹ کرو تے جاری رکھو
-mr2022-onboarding-existing-colorway-checkbox-label = اپݨا { -firefox-home-brand-name } ہوم پیج رنگین بݨاؤ
-mr2022-onboarding-colorway-label-default = ڈیفالٹ
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = موجودہ { -brand-short-name } رنگ
-mr2022-onboarding-colorway-description-default = <b> میݙا موجودہ { -brand-short-name } رنگ استعمال کرو </b>
-mr2022-onboarding-colorway-label-playmaker = پلے میکر
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = پلے میکر (رتا)
-mr2022-onboarding-colorway-description-playmaker = <b>تساں ہک پلے میکر او۔ </b> تساں جیتݨ دے موقعے پیدا کریندے او اتے اپݨے آڑے پاڑے دے ہر ڄݨے کوں انہاں دے کھیݙ کوں اُچا کرݨ وِچ مدد کریندے او۔
-mr2022-onboarding-colorway-label-expressionist = اظہار خیال کرݨ والا
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = اظہار خیال کرݨ والا (پیلا)
-mr2022-onboarding-colorway-description-expressionist = <b>تساں ہک اظہار پسند او۔ </b> تساں دنیا کوں مختلف انداز نال ݙیکھدے او تے تہاݙیاں بݨتراں ٻنہاں دے جذبات کوں ابھریندیاں ہن۔
-mr2022-onboarding-colorway-label-visionary = وژنری
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = وژنری (ساوا)
-mr2022-onboarding-colorway-description-visionary = <b> تساں ہک وژنری او۔ </b> تساں جمود تے سوال کریندے او تے ٻنہاں کوں بہتر مستقبل دا تصور کرݨ دی تحریک ݙیندے او۔
-mr2022-onboarding-colorway-label-activist = کارکن
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = کارکن (نیلا)
-mr2022-onboarding-colorway-description-activist = <b> تساں ہک سرگرم کارکن او۔ </b> تساں دنیا کوں ایں کنوں بہتر جھاہ چھوڑیندے او جیویں تہاکوں ملی ہئی تے ٻنہاں کوں یقین کرݨ دی رہنمائی کرو۔
-mr2022-onboarding-colorway-label-dreamer = خواب ݙیکھݨ والا
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = خواب ݙیکھݨ والا (ڄامنی)
-mr2022-onboarding-colorway-description-dreamer = <b> تساں خواب ݙیکھݨ والے او۔ </b> تہاکوں یقین ہے جو قسمت دلیراں دی حمایت کریندی ہے تے ٻنہاں کوں دلیر بݨݨ دی ترغیب ݙیندی ہے۔
-mr2022-onboarding-colorway-label-innovator = اختراع کرݨ والا
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = اختراع کرݨ والا (نارنجی)
-mr2022-onboarding-colorway-description-innovator = <b> تساں ہک اختراع کرݨ والے ہو۔ </b> تہاکوں ہر جاہ موقع نظر آندے ہن تے تہاݙے نیڑے دے ہر ڄݨے دی زندگیاں تے اثر پوندا ہے۔
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = لیپ ٹاپ کنوں فون تے ونڄو تے ولدا واپس ولو۔
-mr2022-onboarding-mobile-download-subtitle = ہک ڈیوائس نال ٹیباں پکڑو تے اتھاؤں شروع کرو جتھوں تساں ٻئی ڈیوائس تے چھوڑیا ہا۔ نال اپݨیاں نشانیاں تے پاس ورڈ کوں جتھاں وی تساں { -brand-product-name } استعمال کریندے او سینک کرو۔
 mr2022-onboarding-mobile-download-cta-text = موبائل کیتے { -brand-product-name } حاصل کرݨ کیتے QR  کوڈ سکین کرو یا تساں اپݨے ڈاؤن لوڈ لنک تے <a data-l10n-name="download-label"> بھیڄو۔ </a>
 mr2022-onboarding-no-mobile-download-cta-text = موبائل کیتے { -brand-product-name } حاصل کرݨ کیتے QR کوڈ سکین کرو۔
 
@@ -313,15 +255,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = ہلکی جلد تے کالی جلد والے ہتھ ہائی فائیو
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = لومبڑ دے نال کھڑکی نال غروب آفتاب دا منظر تے کھڑکی تے ہک گھر دا پودا
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = ہک ہینڈ سپرے ساوی اکھ، نارنجی چتی، لال باسکٹ بال، جامنی رنگ دے ہیڈ فون، نیلے دل، تے پیلے رنگ دے تاج دا رنگیل کولیج پینٹ کریندا ہے۔
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = لیپ ٹاپ کمپیوٹر دی سکرین تے ہک لومڑی لہراندی  پئی ہے۔ لیپ ٹاپ وچ ہک ماؤس لڳا ہویا ہے۔
 onboarding-device-migration-title = واپسی تے ست بسم اللہ!
-onboarding-device-migration-subtitle = آپݨیاں نشانیاں، پاس ورڈ تے تاریخ آپݨی نویں ڈیوائس تے گھن آوݨ کیتے آپݨے { -fxaccount-brand-name(capitalization: "sentence") } وچ سائن ان تھیوو۔
 onboarding-device-migration-subtitle2 = آپݨی نویں ڈیوائس اُتے آپݨے بُک مارکس، پاس ورڈز اَتے تاریخ آپݨے نال گِھن آنݨ کِیتے آپݨے اکاؤنٹ وِچ سائن اِن تھیوو۔
 onboarding-device-migration-primary-button-label = سائن ان
 

@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = İstisnalar
     .style = min-width: 45em
+    .title = İstisnalar
 permissions-close-key =
     .key = w
 permissions-address = Site adresi
@@ -80,79 +80,64 @@ permissions-invalid-uri-label = Lütfen geçerli bir sunucu adı girin
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Gelişmiş İzlenme Koruması İstisnaları
     .style = { permissions-window2.style }
+    .title = Gelişmiş İzlenme Koruması İstisnaları
 permissions-exceptions-manage-etp-desc = Gelişmiş izlenme korumasının hangi sitelerde kapalı kalacağını belirleyebilirsiniz. Yönetmek istediğiniz sitenin tam adresini yazıp “İstisna ekle”ye tıklayın.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = İstisnalar - Çerezler ve Site Verileri
     .style = { permissions-window2.style }
+    .title = İstisnalar - Çerezler ve Site Verileri
 permissions-exceptions-cookie-desc = Hangi web sitelerinin çerezleri ve site verilerini her zaman kullanabileceğini veya hiç kullanmayacağını belirleyebilirsiniz.  Yönetmek istediğiniz sitenin tam adresini yazıp “Engelle”, “Oturum boyunca izin ver” veya “İzin ver”e tıklayın.
 
 ## Exceptions - Clear on Shutdown
 
 permissions-exceptions-shutdown-clearing-window =
-    .title = İstisnalar - Kapanırken geçmişi temizle
     .style = { permissions-window2.style }
+    .title = İstisnalar - Kapanırken geçmişi temizle
 permissions-exceptions-shutdown-clearing-desc = { -brand-short-name } kapanırken geçmişi temizlediğinde hangi sitelerin verilerini tutacağını belirleyebilirsiniz. Yönetmek istediğiniz sitenin tam adresini yazıp “İzin ver”e tıklayın.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = İstisnalar - Yalnızca HTTPS Modu
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Belirli web siteleri için yalnızca HTTPS modunu kapatabilirsiniz. Böylece { -brand-short-name }, bu sitelerde HTTPS güvenliğini sağlamak üzere bağlantıyı yükseltme girişiminde bulunmaz. İstisnalar gizli pencerelerde geçerli değildir.
+    .title = İstisnalar - Yalnızca HTTPS Modu
 permissions-exceptions-https-only-desc2 = Belirli web siteleri için yalnızca HTTPS modunu kapatabilirsiniz. Böylece { -brand-short-name }, bu sitelerde HTTPS güvenliğini sağlamak üzere bağlantıyı yükseltme girişiminde bulunmaz.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
     .title = İzin Verilen Siteler - Açılır Pencereler ve Üçüncü Taraf Yönlendirmeleri
-    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = Hangi sitelerin açılır pencere gösterebileceğini ve üçüncü taraf çerçeveler tarafından yeniden yönlendirilebileceğini belirleyebilirsiniz.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = İzin Verilen Siteler - Açılır Pencereler
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Hangi sitelerin açılır pencere açabileceğini belirleyebilirsiniz. İzin vermek istediğiniz sitenin tam adresini yazdıktan sonra İzin ver’e tıklayın.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = İstisnalar - Kayıtlı Hesaplar
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Aşağıdaki sitelere giriş bilgileri kaydedilmeyecek
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = İstisnalar - Kayıtlı Parolalar
     .style = { permissions-window2.style }
+    .title = İstisnalar - Kayıtlı Parolalar
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } bu listedeki sitelerin parolalarını kaydetmeyecektir.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = İzin Verilen Siteler - Eklenti Yükleme
     .style = { permissions-window2.style }
+    .title = İzin Verilen Siteler - Eklenti Yükleme
 permissions-exceptions-addons-desc = Hangi sitelerin eklenti yükleyebileceğini belirleyebilirsiniz. İzin vermek istediğiniz sitenin tam adresini yazdıktan sonra İzin ver’e tıklayın.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Ayarlar - Otomatik Oynat
     .style = { permissions-window2.style }
+    .title = Ayarlar - Otomatik Oynat
 permissions-site-autoplay-desc = Varsayılan otomatik oynatma ayarlarınıza uymasını istemediğiniz siteleri buradan yönetebilirsiniz.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Ayarlar - Bildirim İzinleri
     .style = { permissions-window2.style }
+    .title = Ayarlar - Bildirim İzinleri
 permissions-site-notification-desc = Aşağıdaki web siteleri size bildirim gönderme isteğinde bulundu. Hangi web sitelerine bildirim gönderme izni vereceğinizi seçebilirsiniz. Ayrıca yeni bildirim gönderme isteklerini tamamen engelleyebilirsiniz.
 permissions-site-notification-disable-label =
     .label = Bildirim gönderme isteklerini sormadan engelle
@@ -161,8 +146,8 @@ permissions-site-notification-disable-desc = Yukarıdaki listede bulunmayan hiç
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Ayarlar - Konum İzinleri
     .style = { permissions-window2.style }
+    .title = Ayarlar - Konum İzinleri
 permissions-site-location-desc = Aşağıdaki web siteleri konumunuza erişme isteğinde bulundu. Hangi web sitelerinin konumunuzu öğrenebileceğini seçebilirsiniz. Ayrıca konumunuzu öğrenme isteklerini tamamen engelleyebilirsiniz.
 permissions-site-location-disable-label =
     .label = Konumumu öğrenme isteklerini sormadan engelle
@@ -171,8 +156,8 @@ permissions-site-location-disable-desc = Yukarıdaki listede bulunmayan hiçbir 
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Ayarlar - Sanal Gerçeklik İzinleri
     .style = { permissions-window2.style }
+    .title = Ayarlar - Sanal Gerçeklik İzinleri
 permissions-site-xr-desc = Aşağıdaki web siteleri sanal gerçeklik cihazlarınıza erişme isteğinde bulundu. Hangi web sitelerinin sanal gerçeklik cihazlarınıza erişebileceğini seçebilirsiniz. Ayrıca sanal gerçeklik cihazlarınıza erişim isteklerini tamamen engelleyebilirsiniz.
 permissions-site-xr-disable-label =
     .label = Sanal gerçeklik cihazlarına erişme isteklerini sormadan engelle
@@ -181,8 +166,8 @@ permissions-site-xr-disable-desc = Yukarıdaki listede bulunmayan hiçbir web si
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Ayarlar - Kamera İzinleri
     .style = { permissions-window2.style }
+    .title = Ayarlar - Kamera İzinleri
 permissions-site-camera-desc = Aşağıdaki web siteleri kameranıza erişme isteğinde bulundu. Hangi web sitelerinin kameranıza erişebileceğini seçebilirsiniz. Ayrıca kameranıza erişme isteklerini tamamen engelleyebilirsiniz.
 permissions-site-camera-disable-label =
     .label = Kamerama erişme isteklerini sormadan engelle
@@ -191,8 +176,8 @@ permissions-site-camera-disable-desc = Yukarıdaki listede bulunmayan hiçbir we
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = Ayarlar - Cihaz uygulamaları ve hizmetleri
     .style = { permissions-window2.style }
+    .title = Ayarlar - Cihaz uygulamaları ve hizmetleri
 permissions-site-localhost-desc = Aşağıdaki siteler bu cihazdaki uygulama ve hizmetlere erişmek istedi. Erişime izin vermeyi veya erişimi engellemeyi seçebilirsiniz.
 permissions-site-localhost-disable-label =
     .label = Bu cihazdaki uygulama ve hizmetlere erişim isteklerini engelle
@@ -201,8 +186,8 @@ permissions-site-localhost-disable-desc = Yukarıdaki listede bulunmayan hiçbir
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = Ayarlar - Yerel Ağ Cihazları
     .style = { permissions-window2.style }
+    .title = Ayarlar - Yerel Ağ Cihazları
 permissions-site-local-network-desc = Aşağıdaki siteler Wi-Fi veya yerel ağınıza bağlı cihazlardaki uygulama ve hizmetlere erişmek istedi. Erişime izin vermeyi veya erişimi engellemeyi seçebilirsiniz.
 permissions-site-local-network-disable-label =
     .label = Wi-Fi veya yerel ağıma bağlı cihazlardaki uygulama ve hizmetlere erişim için yapılacak yeni istekleri engelle.
@@ -211,8 +196,8 @@ permissions-site-local-network-disable-desc = Yukarıdaki listede bulunmayan hi�
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Ayarlar - Mikrofon İzinleri
     .style = { permissions-window2.style }
+    .title = Ayarlar - Mikrofon İzinleri
 permissions-site-microphone-desc = Aşağıdaki web siteleri mikrofonunuza erişme isteğinde bulundu. Hangi web sitelerinin mikrofonunuza erişebileceğini seçebilirsiniz. Ayrıca mikrofonunuza erişme isteklerini tamamen engelleyebilirsiniz.
 permissions-site-microphone-disable-label =
     .label = Mikrofonuma erişme isteklerini sormadan engelle
@@ -223,12 +208,12 @@ permissions-site-microphone-disable-desc = Yukarıdaki listede bulunmayan hiçbi
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Ayarlar - Ses Aygıtı İzinleri
     .style = { permissions-window2.style }
+    .title = Ayarlar - Ses Aygıtı İzinleri
 permissions-site-speaker-desc = Aşağıdaki siteler ses çıkış cihazını seçmek istedi. Hangi sitelerin ses çıkış cihazını seçebileceğini belirtebilirsiniz.
 permissions-exceptions-doh-window =
-    .title = HTTPS üzerinden DNS için web sitesi istisnaları
     .style = { permissions-window2.style }
+    .title = HTTPS üzerinden DNS için web sitesi istisnaları
 permissions-exceptions-manage-doh-desc = { -brand-short-name } bu sitelerde ve alt alan adlarında güvenli DNS kullanmayacaktır.
 permissions-doh-entry-field = Web sitesinin alan adını yazın
     .accesskey = W

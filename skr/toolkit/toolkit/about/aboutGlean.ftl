@@ -45,7 +45,6 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
-about-glean-about-testing-header = ٹیسٹنگ بارے
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } آلاتی عمل ٹیسٹنگ دستاویزاں</a>
@@ -54,8 +53,6 @@ about-glean-manual-testing =
     پر، مختصراً، دستی طور تے جان٘چݨ کیتے جو تہاݙا اوزار ٹھیک کم کریندے، تہاکوں چاہیے:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (کوئی وی پنگ جمع نہ کرواؤ)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = پچھلے فیلڈ وچ یقینی بݨاؤ جو اتھ ہک یادگار ڈیبگ ٹیگ ہے تاں جو تساں بعد وچ آپݨے پنگاں کوں سُن٘ڄاݨ سڳو۔
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = ہِک یادگار ڈیبگ ٹیگ مُرتب کرو <span>(20 اَکّھراں یا اِین٘دے کنوں گَھٹ، اَکّھر ڳِݨَتری اَتے - صرف)</span> تاں جو تُساں بعد وِچ آپݨے پنگز کوں پِچھاݨ سڳو۔
 # An in-line drop down list precedes this string.
@@ -83,13 +80,6 @@ about-glean-li-for-visit-gdpv =
     بٹݨ دباوݨ کنوں تہاݙے پنگ دے آوݨ تائیں کجھ سیکنڈاں کنوں ودھ ویلا کائنی لڳݨاں چاہیدا۔
     کہیں ویلے کجھ منٹ لڳ سڳدن۔
 # Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    ٻئی <i>ایڈ ہاک</i> پڑتال کرݨ کیتے،
-    اتھ  <code>about:glean</code> تے ڈیوٹول کنسول کھولݨ نال تے
-    <code>Glean.metricCategory.metricName.testGetValue()</code>.
-    وانگوں and using the <code>testGetValue()</code> اے پی آئی ورتݨ نال
-    تساں  آلے دی خاص ٹکڑے دی موجودہ قیمت دا تعین کر سڳدے ہو۔
-# Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     ٻئی <i>ایڈ ہاک</i> پڑتال کرݨ کیتے،
     تساں  آلے دی خاص ٹکڑے دی موجودہ قیمت دا تعین کر سڳدے ہو۔
@@ -103,6 +93,3 @@ about-glean-adhoc-note =
     اِین٘دا مطلب ہِتے جو میٹرک زمرہ اَتے میٹرک دا ناں فارمیٹ کِیتا ڳِیا ہِے۔ <code>camelCase</code> رسٹ اَتے C++ APIs دے برعکس۔
 controls-button-label-verbose = ترتیباں دا اطلاق کرو تے پنگ جمع کراؤ۔
 about-glean-about-data-header = ڈیٹا بارے
-about-glean-about-data-explanation =
-    جمع تھئے ڈیٹا دی تندیر براؤز کرݨ کیتے سوہݨا 
-    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }ڈکشنری</a> نال رجوع کرو۔

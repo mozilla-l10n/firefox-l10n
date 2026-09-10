@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Nove scheda
-    .accesskey = N
 reload-tab =
     .label = Recargar le scheda
     .accesskey = R
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nove gruppo
     .accesskey = g
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -203,13 +196,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Crear ligamine condivisibile
     .accesskey = c
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Inviar scheda al apparato
-           *[other] Inviar { $tabCount } schedas al apparato
-        }
-    .accesskey = n
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

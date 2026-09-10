@@ -23,13 +23,11 @@ neterror-override-exception-button = Ընդունել վտանգը եւ շարո
 neterror-pref-reset-button = Վերականգնել հիմնական կարգաւորումները
 neterror-return-to-previous-page-button = Յետ գնալ
 neterror-return-to-previous-page-recommended-button = Յետ գնալ (առաջարկուում է)
-neterror-try-again-button = Կրկին փորձիր
 neterror-view-certificate-link = Զննել արտաւնագիրը
 
 ##
 
 neterror-pref-reset = Կարծես՝ Ձեր ցանցի անվտանգութեան կարգաւորումները առաջացել է դրանից։ Վերականգնե՞լ հիմնական կարգաւորումները։
-neterror-error-reporting-automatic = Հաղորդէք նման սխալների մասին՝ աւգնելու համար { -vendor-short-name }-ին գտնելու եւ արգելափակելու վնասակար կայքերը
 
 ## Specific error messages
 
@@ -46,8 +44,6 @@ neterror-file-not-found-moved = Ստուգէք, թէ արդեաւք նիշքը �
 neterror-access-denied = Հնարաւոր է՝ այն հեռացուել է, տեղափոխուել կամ նիշքի թոյլտուութիւնները կանխել են ընդունումը։
 neterror-unknown-protocol = Այս հասցէն բացելու համար Ձեզ հաւանաբար անհրաժեշտ է ձեռք բերել այլ ծրագիր։
 neterror-redirect-loop = Այս խնդիրը երբեմն կարող է ծագել cookie-ների  անջատումից կամ մերժումից:
-neterror-unknown-socket-type-psm-installed = Ստուգէք եւ համոզուէք, որ Ձեր համակարգը ունի տեղակայված Անվտանգութեան  Անձնական Կառավարիչ։
-neterror-unknown-socket-type-server-config = Դա կարող է լինել սպասարկիչի ոչ ստանդարտ կարգաւորման արդիւնք։
 neterror-not-cached-intro = Պահանջուող փաստաթուղթը հասանելի չէ { -brand-short-name }-ի պահոցում։
 neterror-not-cached-sensitive = Անվտանգութեան նկատառումներով { -brand-short-name }-ը ինքնաշխատ չի վերապահանջում նմանատիպ փաստաթղթերը։
 neterror-not-cached-try-again = Սեղմէք, Կրկին փորձել՝ վերապահանջելու փաստաթուղթը կայքից։

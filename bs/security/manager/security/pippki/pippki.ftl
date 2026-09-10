@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Trenutno ste u FIPS modu. FIPS zahtijeva l
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Resetuj primarnu lozinku
     .style = min-width: 40em
+    .title = Resetuj primarnu lozinku
 reset-password-button-label =
     .label = Resetuj
 reset-primary-password-text = Ako resetujete svoju primarnu lozinku, sve vaše pohranjene lozinke za web i e-mail, lični certifikati i privatni ključevi bit će zaboravljeni. Jeste li sigurni da želite resetovati svoju primarnu lozinku?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Vaša primarna lozinka je resetovan
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Preuzimam certifikate
     .style = min-width: 46em
+    .title = Preuzimam certifikate
 download-cert-message = Upitani ste da li vjerujete novom Certifikacijskom Autoritetu (CA).
 download-cert-trust-ssl =
     .label = Vjeruj ovom CA da identifikuje web stranice.
@@ -52,8 +52,6 @@ download-cert-view-text = Ispitaj CA certifikat
 
 client-auth-window =
     .title = Zahtjev za identifikaciju korisnika
-client-auth-site-description = Ova stranica zahtijeva od vas da se identifikujete pomoću certifikata:
-client-auth-choose-cert = Izaberite certifikat koji ćete predstaviti kao identifikaciju:
 client-auth-send-no-certificate =
     .label = Ne šalji certifikat
 # Variables:
@@ -100,9 +98,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Lozinka backupa certifikata (opet):
 set-password-reminder = Važno: Ukoliko zaboravite lozinku backupa certifikata, kasnije istu nećete moći povratiti.  Molimo da lozinku spremite na sigurno mjesto.
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Molimo Vas da se autentifikujete na token „{ $tokenName }“. Način autentifikacije zavisi od tokena (na primjer, korištenje čitača otiska prsta ili unos koda pomoću tastature).

@@ -51,15 +51,6 @@ appmenuitem-fxa-toolbar-sync-now2 = ယခုချိတ်ပါ
 appmenuitem-save-page =
     .label = စာမျက်နှာကို သိမ်းမည်…
 
-## What's New panel in App menu.
-
-whatsnew-panel-header = ဘာတွေ အသစ် ပါလဲ
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = လုပ်ဆောင်ချက် အသစ် အကြောင်း အသိပေးရန်
-    .accesskey = f
-
 ## Help panel
 
 appmenu-about =

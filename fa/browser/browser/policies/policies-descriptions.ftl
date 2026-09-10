@@ -25,14 +25,12 @@ policy-DefaultDownloadDirectory = پوشه پیش‌فرض برای بارگیر
 policy-DisableAppUpdate = جلوگیری از به روز رسانی مرورگر.
 policy-DisableBuiltinPDFViewer = غیرفعال کردن PDF.js، نمایشگر داخلی PDF در { -brand-short-name }.
 policy-DisableDeveloperTools = دسترسی به ابزارهای توسعه‌دهندگان را مسدود کنید.
-policy-DisableFirefoxAccounts = خدمات برپایه { -fxaccount-brand-name } شامل همگام‌سازی را غیرفعال کن.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = ویژگی Screenshots فایرفاکس را غیرفعال کن.
 policy-DisableFirefoxStudies = جلوی { -brand-short-name } را برای انجام مطالعات بگیر.
 policy-DisableForgetButton = دسترسی به دکمه فراموش کردن را مسدود کن.
 policy-DisableFormHistory = جستجو وتاریخچه فرم را به خاطر نسپار.
 policy-DisablePasswordReveal = اجازه ندهید که گذرواژه‌ها در ورودهای ذخیره شده آشکار شوند.
-policy-DisablePocket2 = ویژگی ذخیره کردن صفحات وب در { -pocket-brand-name } را غیرفعال کن.
 policy-DisablePrivateBrowsing = مرور ناشناس را غیرفعال کن.
 policy-DisableProfileImport = دستور ورود داده از مرورگرهای دیگر در منو را غیرفعال کن.
 policy-DisableProfileRefresh = کلید راه‌اندازی مجدد { -brand-short-name } را در صفحه about:support غیرفعال کن.

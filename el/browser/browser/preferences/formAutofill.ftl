@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Αποθηκευμένες διευθύνσεις
 autofill-manage-addresses-list-header = Διευθύνσεις
-autofill-manage-credit-cards-title = Αποθηκευμένες πιστωτικές κάρτες
-autofill-manage-credit-cards-list-header = Πιστωτικές κάρτες
 autofill-manage-payment-methods-title = Αποθηκευμένες μέθοδοι πληρωμής
 autofill-manage-cards-list-header = Κάρτες
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = Άνοιγμα μενού
 address-capture-edit-address-link = Επεξεργασία διεύθυνσης
     .aria-label = Επεξεργασία διεύθυνσης
-address-capture-edit-address-button =
-    .aria-label = Επεξεργασία διεύθυνσης
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Προσθήκη διεύθυνσης
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Επεξεργασία διεύθυνσης
-autofill-address-given-name = Όνομα
-autofill-address-additional-name = Μεσαίο όνομα
-autofill-address-family-name = Επώνυμο
 autofill-address-name = Όνομα
 autofill-address-organization = Εταιρεία
 autofill-address-street-address = Διεύθυνση
@@ -104,8 +97,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Προσθήκη νέας διεύθυνσης
 autofill-address-country = Χώρα ή περιοχή
 autofill-address-country-only = Χώρα
 autofill-address-tel = Τηλέφωνο
@@ -114,18 +105,6 @@ autofill-cancel-button = Ακύρωση
 autofill-save-button = Αποθήκευση
 autofill-country-warning-message-2 = Η αυτόματη συμπλήρωση φορμών διατίθεται προς το παρόν μόνο σε ορισμένες χώρες.
 autofill-country-warning-message = Η αυτόματη συμπλήρωση φορμών διατίθεται μόνο σε ορισμένες χώρες προς το παρόν.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Προσθήκη νέας πιστωτικής κάρτας
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Επεξεργασία πιστωτικής κάρτας
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] εμφανίσει στοιχεία πιστωτικής κάρτας
-        [windows] Το { -brand-short-name } προσπαθεί να εμφανίσει πληροφορίες πιστωτικών καρτών. Επιβεβαιώστε παρακάτω την πρόσβαση σε αυτό το λογαριασμό Windows.
-       *[other] Το { -brand-short-name } προσπαθεί να εμφανίσει πληροφορίες πιστωτικών καρτών.
-    }
 autofill-message-tooltip = Προβολή μηνύματος σχετικά με την αυτόματη συμπλήρωση
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Προσθήκη κάρτας
@@ -211,15 +190,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = Να μην γίνεται ποτέ αποθήκευση διαβατηρίων
     .accessKey = Ν
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

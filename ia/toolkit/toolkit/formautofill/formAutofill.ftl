@@ -22,7 +22,6 @@ autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } tenta d
 autofill-delete-payment-method-os-prompt-other = { -brand-short-name } tenta deler informationes de methodo de pagamento immagazinate.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Optiones del completion automatic
-autofill-options-link-osx = Preferentias del completion automatic
 
 ## The credit card capture doorhanger
 
@@ -72,16 +71,6 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
-# The warning text that is displayed for informing users what categories are
-# about to be filled.  The text would be, for example,
-#   Also autofills organization, phone, email.
-# Variables:
-#   $categories - one or more of the categories, see autofill-category-X below
-autofill-phishing-warningmessage-extracategory = Tamben completa { $categories } automaticamente
-# Variation when all are in the same category.
-# Variables:
-#   $categories - one or more of the categories
-autofill-phishing-warningmessage = Completa { $categories } automaticamente
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = adresse
 autofill-category-name = nomine

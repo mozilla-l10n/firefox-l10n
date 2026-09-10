@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = เพิ่มเติมจาก { -vendor-short-name }
 more-from-moz-page-header =
     .heading = เพิ่มเติมจาก { -vendor-short-name }
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } รุ่นมื�
 more-from-moz-firefox-mobile-description = เบราว์เซอร์มือถือที่ให้ความสำคัญกับความเป็นส่วนตัวของคุณเป็นอันดับแรก
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } สำหรับมือถือ
 more-from-moz-firefox-mobile =
-    .label = { -brand-product-name } สำหรับมือถือ
     .description = เบราว์เซอร์มือถือที่ให้ความสำคัญกับความเป็นส่วนตัวของคุณเป็นอันดับแรก
+    .label = { -brand-product-name } สำหรับมือถือ
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = ค้นพบการเรียกดูและการป้องกันแบบไม่ระบุชื่อที่สูงขึ้นไปอีกขั้น
 more-from-moz-qr-code-box-firefox-mobile-title = ดาวน์โหลดโดยใช้อุปกรณ์มือถือของคุณ ชี้กล้องของคุณไปที่รหัส QR เมื่อลิงก์ปรากฏขึ้น ให้แตะที่ลิงก์นั้น
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = รับ { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = นำข้อมูลส่วนตัวที่ถูกเปิดเผยของคุณกลับคืนโดยอัตโนมัติ
 more-from-moz-mozilla-monitor-global-description = รับการเตือนเมื่อข้อมูลของคุณรั่วไหล
 more-from-moz-mozilla-monitor-button = รับ { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = สร้างเว็บไซต์ของคุณทันทีและเชื่อมต่อโดเมนที่กำหนดเองของคุณได้ฟรี
 more-from-moz-solo-button = ลองใช้ { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = ตัวสร้างเว็บไซต์ด้วย AI ของ { -solo-ai-brand-name }
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = ส่งอีเมลลิงก�
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = ค้นหาว่าข้อมูลส่วนตัวของคุณถูกเปิดเผยออนไลน์ที่ไหนด้วยการสแกนฟรี
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = รับการปกป้องเพิ่มเติมสำหรับทุกแอปไม่ใช่แค่เบราว์เซอร์ รักษาข้อมูลของคุณให้ปลอดภัยบน Wi-Fi สาธารณะและเครือข่ายที่ไม่ปลอดภัย
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = ปกป้องกล่องจดหมายของคุณจากสแปมด้วยการปกปิดอีเมลฟรี
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = เรียนรู้การพัฒนาเว็บด้วยคู่มือและเอกสารอ้างอิงฟรี
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = เข้าถึงอีเมล ปฏิทิน และรายชื่อผู้ติดต่อผ่านแอปที่รวดเร็วแอปเดียว
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = สร้างเว็บไซต์ได้ทันที และเชื่อมต่อเข้ากับโดเมนที่กำหนดเองได้ของคุณฟรี
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = ผลิตภัณฑ์ใหม่ของ { -vendor-short-name }
     .description = สำรวจไอเดียล่าสุดและเทคโนโลยีในขั้นทดสอบของเรา
+    .label = ผลิตภัณฑ์ใหม่ของ { -vendor-short-name }
 more-from-moz-mozilla-monitor-box-link =
     .label = รับ { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =

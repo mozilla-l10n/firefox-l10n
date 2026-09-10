@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Impedir que o agente padrão do navegador ex
 policy-DisableDeveloperTools = Bloquear acesso às ferramentas de desenvolvimento.
 policy-DisableEncryptedClientHello = Desativar o uso do recurso TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Desativar comandos de envio de comentários no menu Ajuda (Enviar opinião e Denunciar site enganoso).
-policy-DisableFirefoxAccounts = Desativar serviços baseados em { -fxaccount-brand-name }, incluindo a sincronização.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Desativar serviços baseados em conta, inclusive sincronização.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Não memorizar o histórico de pesquisas e formulár
 policy-DisableLaunchOnLogin = Impedir que o { -brand-short-name } seja iniciado automaticamente quando o usuário entrar na conta.
 policy-DisablePrimaryPasswordCreation = Se for true, não pode ser criada uma senha principal.
 policy-DisablePasswordReveal = Não permitir que senhas sejam reveladas em contas salvas.
-policy-DisablePocket2 = Desativar o recurso de salvar páginas no { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Desativar a navegação privativa.
 policy-DisableProfileImport = Desativar o comando do menu para importar dados de outro navegador.
 policy-DisableProfileRefresh = Desativar o botão "Restaurar o { -brand-short-name }" na página about:support.
@@ -132,7 +130,6 @@ policy-PDFjs = Desativar ou configurar o PDF.js, o visor de PDF integrado no { -
 policy-Permissions2 = Configurar permissões de câmera, microfone, localização, notificações e reprodução automática.
 policy-PictureInPicture = Ativar ou desativar picture-in-picture.
 policy-PopupBlocking2 = Permitir que determinados sites abram janelas e sejam redirecionados por frames de terceiros.
-policy-PopupBlocking = Permitir por padrão que determinados sites abram janelas ou abas.
 policy-Preferences = Definir e bloquear o valor de um subconjunto de preferências.
 policy-PrivateBrowsingModeAvailability = Definir disponibilidade do modo de navegação privativa.
 policy-PromptForDownloadLocation = Perguntar onde salvar arquivos ao baixar.

@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } — indicadôr di condivision
-webrtc-indicator-window =
-    .title = { -brand-short-name } — indicadôr di condivision
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Tu stâs condividint il to microfon. Fâs clic par controlâ la condivision.
 webrtc-screen-system-menu =
     .label = Tu stâs condividint un barcon o un schermi. Fâs clic par controlâ la condivision.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = La tô fotocjamare e il microfon a son condividûts. Fâs clic par controlâ la condivision.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = La tô fotocjamare e je condividude. Fâs clic par controlâ la condivision.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Il to microfon al è condividût. Fâs clic par controlâ la condivision.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Une aplicazion e je condividude. Fâs clic par controlâ la condivision.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Il to schermi al è condividût. Fâs clic par controlâ la condivision.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Un barcon al è condividût. Fâs clic par controlâ la condivision.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Une schede e je condividude. Fâs clic par controlâ la condivision.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Permeti a { $ori
 
 webrtc-share-screen-warning = Condivît i schermis dome cui sîts che tu ti fidis. La condivision e pues permeti a sîts ingjanôs di navigâ impersonant l'utent e robâi i dâts privâts.
 webrtc-share-browser-warning = Condivît { -brand-short-name } dome cui sîts che tu ti fidis. La condivision e pues permeti a sîts ingjanôs di navigâ impersonant l'utent e robâi i dâts privâts.
-webrtc-share-screen-learn-more = Plui informazions
 webrtc-pick-window-or-screen = Selezione il barcon o il schermi
 webrtc-share-entire-screen = Dut il schermi
 webrtc-share-pipe-wire-portal = Dopre lis impostazions dal sisteme operatîf

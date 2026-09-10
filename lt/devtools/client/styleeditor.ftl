@@ -16,8 +16,6 @@ styleeditor-save-button = Įrašyti
     .accesskey = r
 styleeditor-options-button =
     .tooltiptext = Stilių rengyklės nuostatos
-styleeditor-editor-textbox =
-    .data-placeholder = Čia rašykite CSS taisykles.
 styleeditor-no-stylesheet = Šis tinklalapis nenaudoja stilių aprašų.
 styleeditor-no-stylesheet-tip = Galbūt norite <a data-l10n-name="append-new-stylesheet">pridėti naują stilių aprašą</a>?
 styleeditor-open-link-new-tab =

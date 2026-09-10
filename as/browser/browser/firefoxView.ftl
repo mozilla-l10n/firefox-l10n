@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = ৱিণ্ড’ আৰু ডিভাইচজোৰা শেহতীয়া ব্ৰাউজিং চাওক
@@ -14,35 +11,15 @@ menu-tools-firefox-view =
 firefoxview-page-title = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = বন্ধ কৰক
-    .aria-label = বন্ধ কৰক
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = এইমাত্ৰ
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = টেব পিকআপ
-firefoxview-tabpickup-description = অন্য ডিভাইচৰ পৃষ্ঠা খোলক।
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% সম্পূৰ্ণ
-firefoxview-tabpickup-step-signin-header = ডিভাইচবোৰৰ মাজত নিৰৱচ্ছিন্নভাৱে সাল-সলনি কৰক
-firefoxview-tabpickup-step-signin-description = ইয়ালৈ আপোনাৰ ফ’নৰ টেববোৰ লৈ আনিবলৈ, প্ৰথমে ছাইন ইন কৰক নাইবা একাউণ্টৰ সৃষ্টি কৰক।
-firefoxview-tabpickup-step-signin-primarybutton = অব্যাহত ৰাখক
-firefoxview-tabpickup-adddevice-header = আপোনাৰ ফ’ন বা টেবলেটত { -brand-product-name } ছিংক কৰক
-firefoxview-tabpickup-adddevice-description = ম’বাইলৰ { -brand-product-name } ডাউনল’ড কৰি তাত ছাইন ইন কৰক।
-firefoxview-tabpickup-adddevice-learn-how = কেনেকৈ— জানি লওক
-firefoxview-tabpickup-adddevice-primarybutton = ম’বাইলৰ { -brand-product-name } লাভ কৰক
 firefoxview-syncedtabs-adddevice-primarybutton = ম’বাইলৰ { -brand-product-name } ব্যৱহাৰ কৰি চাওক
-firefoxview-tabpickup-synctabs-header = টেব ছিংকিং চালু কৰক
-firefoxview-tabpickup-synctabs-description = { -brand-short-name }-ক একাধিক ডিভাইচৰ মাজত টেববোৰ ভাগ-বতৰা কৰিবলৈ অনুমতি দিয়ক।
-firefoxview-tabpickup-synctabs-learn-how = কেনেকৈ— জানি লওক
 firefoxview-tabpickup-synctabs-primarybutton = খোলা টেববোৰ ছিংক কৰক
 firefoxview-syncedtabs-synctabs-header = আপোনাৰ ছিংক ছেটিংছ আপডে’ট কৰক
 firefoxview-syncedtabs-synctabs-description = আনবোৰ ডিভাইচৰ টেববোৰ চাবলৈ আপুনি আপোনাৰ খোলা টেববোৰ ছিংক কৰিব লাগিব।
 firefoxview-syncedtabs-loading-header = ছিংক প্ৰগতিশীল অৱস্থাত আছে
 firefoxview-syncedtabs-loading-description = যেতিয়া এইটো হৈ যাব, তেতিয়া আপুনি আনবোৰ ডিভাইচত খোলা যিকোনো টেব দেখা পাব। অলপ পাছত আকৌ চাব।
 firefoxview-tabpickup-fxa-admin-disabled-header = আপোনাৰ প্ৰতিষ্ঠানে ছিংক নিষ্ক্ৰিয় কৰি থৈছে
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name }-এ ডিভাইচবোৰৰ মাজত টেব ছিংক কৰিব পৰা নাই কাৰণ আপোনাৰ কৰ্তৃপক্ষই ছিংক নিষ্ক্ৰিয় কৰি থৈছে।
 firefoxview-tabpickup-network-offline-header = আপোনাৰ ইণ্টাৰনেট সংযোগ পৰীক্ষা কৰক
 firefoxview-tabpickup-network-offline-description = যদি আপুনি কোনো ফায়াৰৱাল বা প্ৰক্সী ব্যৱহাৰ কৰি আছে, তেনেহ’লে পৰীক্ষা কৰক যে { -brand-short-name }-ৰ লগত ৱেব ব্যৱহাৰ কৰিবলৈ অনুমতি আছে।
 firefoxview-tabpickup-network-offline-primarybutton = পুনৰ চেষ্টা কৰক
@@ -58,37 +35,16 @@ firefoxview-tabpickup-password-locked-link = অধিক জানক
 firefoxview-tabpickup-password-locked-primarybutton = প্ৰাথমিক পাছৱৰ্ড লিখক
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">অধিক জানক</a>
 firefoxview-tabpickup-signed-out-header = পুনঃসংযোগ কৰিবলৈ ছাইন ইন কৰক
-firefoxview-tabpickup-signed-out-description = পুনঃসংযোগ কৰি আপোনাৰ টেববোৰ লৈ আনিবলৈ আপোনাৰ { -fxaccount-brand-name }-ত ছাইন ইন কৰক।
 firefoxview-tabpickup-signed-out-description2 = পুনঃসংযোগ কৰি আপোনাৰ টেববোৰ লৈ আনিবলৈ আপোনাৰ একাউণ্টত ছাইন ইন কৰক।
 firefoxview-tabpickup-signed-out-primarybutton = ছাইন ইন কৰক
-firefoxview-tabpickup-syncing = আপোনাৰ টেববোৰ ছিংক হয়মানে একেথিৰে বহি থাকক। মাত্ৰ কেইটামান মুহূৰ্তত হৈ যাব।
-firefoxview-mobile-promo-header = আপোনাৰ ফ’ন বা টেবলেটৰ পৰা টেববোৰ লৈ আনক
-firefoxview-mobile-promo-description = আপোনাৰ ম’বাইলৰ শেহতীয়া টেববোৰ চাবলৈ iOS বা Android-ত { -brand-product-name }-ত ছাইন ইন কৰক।
-firefoxview-mobile-promo-primarybutton = ম’বাইলৰ { -brand-product-name } লাভ কৰক
-firefoxview-mobile-confirmation-header = 🎉 সকলো সাজু!
-firefoxview-mobile-confirmation-description = এতিয়া আপুনি আপোনাৰ টেবলেট বা ফ’নৰ পৰা আপোনাৰ { -brand-product-name }-ৰ টেববোৰ লৈ আনিব পাৰিব।
-firefoxview-closed-tabs-title = শেহতীয়াকৈ বন্ধ কৰা
-firefoxview-closed-tabs-description2 = আপুনি এই ৱিণ্ড’ত বন্ধ কৰা পৃষ্ঠাবোৰ আকৌ খোলক।
-firefoxview-closed-tabs-placeholder-header = কোনো শেহতীয়াকৈ বন্ধ কৰা টেব নাই
-firefoxview-closed-tabs-placeholder-body = যেতিয়া আপুনি এই ৱিণ্ড’ত কোনো টেব বন্ধ কৰে, তেতিয়া আপুনি সেইটো ইয়াৰ পৰা আনিব পাৰে।
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = { $tabTitle } খাৰিজ কৰক
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = অন্তিম সক্ৰিয়
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = নতুন এটা টেত { $targetURI } খোলক
-firefoxview-try-colorways-button = ৰং-মিশ্ৰণ ব্যৱহাৰ কৰি চাওক
-firefoxview-change-colorway-button = ৰং-মিশ্ৰণ সলাওক
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = এতিয়াও চাবলগীয়া একো নাই
-firefoxview-synced-tabs-placeholder-body = অহাবাৰ আপুনি অন্য ডিভাইচত { -brand-product-name }-ত কোনো পৃষ্ঠা খুলিলে তাক ইয়ালৈ যাদুৰ দৰে লৈ আনিব।
 firefoxview-collapse-button-show =
     .title = তালিকা দেখুৱাওক
 firefoxview-collapse-button-hide =

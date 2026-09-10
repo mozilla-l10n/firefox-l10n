@@ -2,45 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = هێمای “چاودێریم مەکە” بنێرە بۆ ئەو ماڵپەڕانەی کە سەردانیان دەکەیت
-do-not-track-learn-more = زیاتر بزانە
-do-not-track-option-default-content-blocking-known =
-    .label = تەنها ئەو کاتەی کە { -brand-short-name } کاراکراوە بۆ بلۆککردنی چاودێریکەری ناسراو
-do-not-track-option-always =
-    .label = هەمووکات
 managed-notice = وێبگەڕەکەت بەڕێوەدەبرێت لەلایەن کۆمپانیاکەتەوە.
 managed-notice-nav =
     .label = وێبگەڕەکەت بەڕێوەدەبرێت لەلایەن کۆمپانیاکەتەوە.
 pane-general-title = گشتی
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = ماڵەوە
 pane-search-title2 = گەڕان
     .title = گەڕان
 pane-privacy-title3 = تایبەتی و پاراستن
     .title = تایبەتی و پاراستن
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = گەڕان
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = تایبەتی و پاراستن
-pane-privacy-title = تایبەتی و پاراستن
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = هاوکاتکردن
-category-sync3 =
-    .tooltiptext = { pane-sync-title3 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-pane-experimental-title = تاقیکارییەکانی { -brand-short-name }
-category-experimental =
-    .tooltiptext = تاقیکارییەکانی { -brand-short-name }
-pane-experimental-subtitle = بەردەوام بە وریایەوە
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = بنەرەتی بهێنەوە
     .accesskey = ب
@@ -48,8 +23,6 @@ help-button-label2 = { -brand-short-name } پشتگیری
     .title = { -brand-short-name } پشتگیری
 addons-button-label2 = پێوەکراوەکان & ڕووکارەکان
     .title = پێوەکراوەکان & ڕووکارەکان
-help-button-label = { -brand-short-name } پشتگیری
-addons-button-label = پێوەکراوەکان & ڕووکارەکان
 focus-search =
     .key = f
 close-button =
@@ -70,22 +43,13 @@ search-results-header = گەڕانی ئەنجامەکان
 
 ## General Section
 
-startup-header = دەستپێکردن
 always-check-default =
     .label = هەموو کات چێکی ئەوە بکە کە { -brand-short-name } وێبگەڕی بنەڕەتییە
     .accesskey = y
-is-default = { -brand-short-name } ئێستا وێبگەڕی بنەڕەتییە
-is-not-default = { -brand-short-name } ئێستا وێبگەڕی بنەڕەتی نیە
-set-as-my-default-browser =
-    .label = بیکە بنەڕەتی...
-    .accesskey = D
-startup-restore-warn-on-quit =
-    .label = ئاگادارت بکاتەوە کاتێک وێبگەڕ دادەخرێت
 disable-extension =
     .label = پێوەکراو ناچالاک بکە
 tabs-group-header2 =
     .label = بازدەرەکان
-tabs-group-header = بازدەرەکان
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab دەتبات بە ناو بازدەرە کراوەکان
     .accesskey = ب
@@ -98,13 +62,7 @@ warn-on-open-many-tabs =
 show-tabs-in-taskbar =
     .label = بازدەر پیشان بدە لە لیستی کاری پەنجەرەکان
     .accesskey = k
-browser-containers-enabled =
-    .label = بازدەری لەخۆگری چالاک بکە
-    .accesskey = n
 browser-containers-learn-more = زیاتر بزانە
-browser-containers-settings =
-    .label = ڕێکخستنەکان
-    .accesskey = i
 containers-disable-alert-title = هەموو بازدەرەکانی لەخۆگر دادەخەیت؟
 startup-group =
     .label = دەستپێکردن
@@ -128,19 +86,8 @@ containers-remove-cancel-button = ئەم لەخۆگرە مەسڕەوە
 ## General Section - Language & Appearance
 
 language-and-appearance-header = زمانەکان و ڕووکارەکان
-default-font = جۆرەپیتی سەرەکی
-    .accesskey = D
-default-font-size = قەبارە
-    .accesskey = S
-advanced-fonts =
-    .label = پێشکەوتوو...
-    .accesskey = A
 preferences-default-zoom-label =
     .label = زوومی بنەڕەت
-    .accesskey = z
-# Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = زووم
-preferences-default-zoom = زوومی بنەڕەت
     .accesskey = z
 # Variables:
 #   $percentage (number) - Zoom percentage value
@@ -160,12 +107,6 @@ manage-browser-languages-button =
     .accesskey = I
 confirm-browser-language-change-description = { -brand-short-name } پێبکەرەوە بۆ جێبەجێکردنی گۆڕانکارییەکان
 confirm-browser-language-change-button = جێبەجێیبکە و پێبکەرەوە
-translate-web-pages =
-    .label = وەرگێڕانی ناوەڕۆکی وێب
-    .accesskey = T
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = وەرگێردراوە لە لایەن <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = هەڵاوێردی...
     .accesskey = x
@@ -184,23 +125,6 @@ download-save-files-header =
     .label = پەڕگە پاشەکەوت بکە لە
 download-save-where-3 =
     .aria-label = پەڕگە پاشەکەوت بکە لە
-download-header = داگرتنەکان
-download-save-where = پەڕگە پاشەکەوت بکە لە
-    .accesskey = v
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] هەڵبژێرە...
-           *[other] بگەڕێ...
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] o
-        }
-download-always-ask-where =
-    .label = هەموو کات بپرسە لەکوێ پاشەکەوتی بکە
-    .accesskey = A
 applications-header = داوانامەکان
 applications-description = هەڵیبژێرە کە { -brand-short-name } چۆن دەستبگرێت بەسەر ئەو پەڕگانەی دایدەگریت  لە وێب یان داوانامەکان کاتێک گەڕان ئەنجام دەدەی.
 applications-filter =
@@ -248,10 +172,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = { $plugin-name } بەکاربێنە (لەناو { -brand-short-name })
 applications-open-inapp =
     .label = کردنەوە لە { -brand-short-name }
 
@@ -259,8 +179,6 @@ applications-open-inapp =
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -278,35 +196,16 @@ applications-use-os-default-label =
 
 drm-group =
     .label = ناوەڕۆکی بەڕێوەبردنی مافی دیجیتاڵ (DRM)
-drm-content-header = ناوەڕۆکی بەڕێوەبردنی مافی دیجیتاڵ (DRM)
 play-drm-content =
     .label = ناوەڕۆکی کۆنترۆڵکراو لە ژێر DRM کارپێبکە
     .accesskey = پ
 play-drm-content-learn-more = زیاتر بزانە
-update-application-title = نوێکارییەکانی { -brand-short-name }
-update-application-description = { -brand-short-name } بەنوێکراوی بهێڵەوە، بۆ باشترین ئەرک، جێگیری، و پاراستن.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = وەشانی { $version } <a data-l10n-name="learn-more">چی نوێ هەیە</a>
 update-history-2 =
     .label = مێژووی نوێکاری پیشان بدە
     .accesskey = p
-update-history =
-    .label = مێژووی نوێکاری پیشان بدە
-    .accesskey = p
-update-application-allow-description = ڕێگەبدە { -brand-short-name } کە
-update-application-auto =
-    .label = خۆکارانە نوێکاری دامەزرێنە (پیشنیارکراوە)
-    .accesskey = A
-update-application-check-choose =
-    .label = بگەڕێ بۆ نوێکردنەوە بەڵام ڕێگە بدە کە خۆم هەڵیبژێرم کەی دابمەزرێت
-    .accesskey = C
-update-application-manual =
-    .label = هیچ کاتێک چێکی نوێکاری مەکە (پێشنیارکراو نیە)
-    .accesskey = N
-update-application-use-service =
-    .label = خزمەتگوزاریی پشتەوە بەکاربەرە بۆ دامەراندنی نوێکارییەکان
-    .accesskey = b
 update-in-progress-title = نوێکاریی لە کاردایە
 update-in-progress-message = دەتەوێت { -brand-short-name } بەردەوام بێت لەگەڵ ئەم نوێکارییە
 update-in-progress-ok-button = &هەڵیبوەشینەوە
@@ -316,11 +215,6 @@ update-in-progress-cancel-button = &بەردەوام بە
 
 ## General Section - Performance
 
-performance-title = کارایی
-performance-use-recommended-settings-checkbox =
-    .label = ڕێکخستنی پێشنیازکراوی کارایی بەکاربێنە
-    .accesskey = U
-performance-use-recommended-settings-desc = ئەم ڕێکخستنانە دووراون بۆ سیستمی کارپێکردنەکە و رەقەکاڵای کۆمپیوتەرکەت.
 performance-settings-learn-more = زیاتر بزانە
 # Variables:
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
@@ -331,7 +225,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = گەڕان
 browsing-use-autoscroll =
     .label = جوڵاندنی خۆکار بەکاربێنە
     .accesskey = a
@@ -344,10 +237,6 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = بگەڕێ بۆ پیت کاتێک دۆ دەستپێدەکەی بە نووسین
     .accesskey = x
-browsing-picture-in-picture-toggle-enabled =
-    .label = دەستپێگەیشتنی ڤیدیۆیی وێنە-لەناو-وێنە چالاک بکە
-    .accesskey = E
-browsing-picture-in-picture-learn-more = زیاتر بزانە
 browsing-media-control =
     .label = کۆنتڕۆڵ کردنی میدیا لەڕێگەی تەختەکلیل، بیستۆک، یان ڕووکاری گریمانەیی
     .accesskey = ل
@@ -357,18 +246,8 @@ browsing-cfr-recommendations =
 browsing-cfr-features =
     .label = تایبەتمەندییەکان پێشنیازبکە کاتێک دەگەڕێم
     .accesskey = f
-browsing-cfr-recommendations-learn-more = زیاتر بزانە
 browsing-group =
     .label = گەڕان
-
-## General Section - Proxy
-
-network-settings-title = ڕێکخستنی ڕایەڵە
-network-proxy-connection-description = ڕێکی بخە کە چۆن { -brand-short-name } پەویوەندی ببەستێت بە ئینتەرنێتەوە.
-network-proxy-connection-learn-more = زیاتر بزانە
-network-proxy-connection-settings =
-    .label = ڕێکخستنەکان...
-    .accesskey = e
 
 ## Home Section
 
@@ -416,8 +295,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = گەڕانی وێب
-home-prefs-recommended-by-header =
-    .label = پێشنیازکراوە لە لایەن { $provider }
 
 ##
 
@@ -430,14 +307,6 @@ home-prefs-highlights-options-bookmarks =
     .label = دڵخوازەکان
 home-prefs-highlights-option-most-recent-download =
     .label = دوواترین داگرتن
-home-prefs-highlights-option-saved-to-pocket =
-    .label = پەڕە پاشەکەوت دەکرێت لە { -pocket-brand-name }
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = گرتەکان
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -449,34 +318,9 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = شریتی گەڕان
-search-bar-hidden =
-    .label = شیتی ناونیشان بەکاربێنە بۆ گەڕان و دۆزینەوە
-search-bar-shown =
-    .label = شریتی گەڕان زیادبکە لە توڵامراز
-search-engine-default-header = بزوێنەری گەڕانی بنەڕەتی
-search-engine-default-desc-2 = ئەمە بزوێنەری بنەڕەتییە لە شریتی ناونیشان و گەڕان، دەتوانیت بچیتە سەری هەرکاتێک بتەوێت.
-search-engine-default-private-desc-2 = بزوێنەری گەڕانی جیاواز دابنێ بۆ پەنجەرەی تایبەتی بە تەنها.
-search-separate-default-engine =
-    .label = ئەم بزوێنەری گەڕانە بەکاربێنە بۆ پەنجەرەی تایبەت
-    .accesskey = U
-search-suggestions-header = پێشنیارەکانی گەڕان
-search-suggestions-desc = دیاریبکە کە چۆن پێسنیارەکان دەربکەون لە بزوێنەری گەڕان.
-search-suggestions-option =
-    .label = بەردەستکردنی پێشنیاری گەڕان
-    .accesskey = s
 search-show-suggestions-url-bar-option =
     .label = پێسنیاری گەڕان پیشان بدە لە شریتی ناونیشان
     .accesskey = l
-# This string describes what the user will observe when the system
-# prioritizes search suggestions over browsing history in the results
-# that extend down from the address bar. In the original English string,
-# "ahead" refers to location (appearing most proximate to), not time
-# (appearing before).
-search-show-suggestions-above-history-option =
-    .label = پێشنیارەکانی گەڕان پیشان بدە لە مێژووی گەڕانی وێبدا لە شریتی ناونیشانەکان.
-search-show-suggestions-private-windows =
-    .label = پێشنیارەکانی گەڕان لە پەنجەرەی تایبەت پیشان بدە
 search-one-click-header2 = قەدبڕەکانی گەڕان
 search-one-click-desc = بزوێنەرێکی تری گەڕان بەکاربێنە دەربکەوێت کاتێک لە شریتی گەڕانی یان شریتی ناونیشان دەست دەکەی بە نووسین.
 search-choose-engine-column =
@@ -501,18 +345,6 @@ search-engine-group =
 search-default-engine =
     .aria-label = بزوێنەری گەڕانی بنەڕەتی
 
-## Containers Section
-
-containers-header = بازدەری لەخۆگر
-containers-add-button =
-    .label = لەخۆگرێکی نوێ زیاد بکە
-    .accesskey = A
-containers-new-tab-check =
-    .label = لەخۆگر دیاریبکە بۆ هەر بازدەرێک
-    .accesskey = S
-containers-remove-button =
-    .label = بیسڕەوە
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -529,8 +361,6 @@ sync-mobile-promo = Firefox دابگرە بۆ <img data-l10n-name="android-icon"
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = وێنەی تاکەکەسی دیاریبکە
 sync-profile-picture-with-alt =
     .alt = وێنەی تاکەکەسی دیاریبکە
     .tooltiptext = وێنەی تاکەکەسی دیاریبکە
@@ -555,9 +385,6 @@ sync-signedin-login-failure = هەوڵ بدە دووبارە { $email } ببەس
 
 ##
 
-sync-resend-verification =
-    .label = دڵنیابونەوە بنێرەوە
-    .accesskey = d
 sync-remove-account =
     .label = هەژمار بسڕەوە
     .accesskey = R
@@ -569,10 +396,6 @@ sync-sign-in =
 
 prefs-syncing-on = هاوکاتگەری: کارایە
 prefs-syncing-off = هاوکاتگەری: کارانیە
-prefs-sync-now =
-    .labelnotsyncing = هاوکاتگەری بکە ئێستا
-    .labelsyncing = هاوکاتگەری دەکات…
-    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = هاوکاتگەری بکە ئێستا
     .accesskey = N
@@ -590,13 +413,8 @@ prefs-syncing-button-2 =
 sync-currently-syncing-bookmarks = دڵخوازەکان
 sync-currently-syncing-history = مێژوو
 sync-currently-syncing-tabs = بازدەر بکەرەوە
-sync-currently-syncing-logins-passwords = چوونەژوورەوە و وشەی تێپەڕەکان
 sync-currently-syncing-addresses = ناونیشانەکان
-sync-currently-syncing-creditcards = کارتی پڕکردنەوەی بانکی
 sync-currently-syncing-addons = پێوەکراوەکان
-sync-change-options =
-    .label = گۆڕین...
-    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
@@ -610,10 +428,6 @@ sync-engine-tabs =
     .label = بازدەر بکەرەوە
     .tooltiptext = لیستەی ئەوانەی کە ئێستا لە هەموو ئامێرەکان کراوەتەوە
     .accesskey = t
-sync-engine-logins-passwords =
-    .label = چوونەژوورەوە و وشەی تێپەڕەکان
-    .tooltiptext = چوونەژوورەوە و وشەی تێپەڕەکان کە پاشەکەوت کراون
-    .accesskey = L
 sync-engine-addresses =
     .label = ناونیشانەکان
     .tooltiptext = نانونیشانی پۆست کە پاشەکەوتت کردووە (تەنها ڕوومێز)
@@ -645,49 +459,19 @@ sync-connect-another-device = پەیوەندی بکە بە ئامێرێکی تر
 sync-connect-another-device-2 =
     .label = پەیوەندی بکە بە ئامێرێکی تر
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = سەلماندن نێردرا
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = بەستەری سەلماندن نێردرا بۆ { $email }.
-sync-verification-not-sent-title = نەتوانرا سەلماندن بنیردرێت
-sync-verification-not-sent-body = ناتوانین بەستەری سەلماندن لە ئێستادا بنیرین بۆ ئیمێڵەکەت، تکایە کاتێکی تر هەوڵ بدەرەوە.
-
 ## Privacy Section
 
 privacy-header = تایبەتێتی وێبگەڕ
-
-## Privacy Section - Logins and Passwords
-
-# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = چوونەژوورەوە و وشەی تێپەڕەکان
-    .searchkeywords = { -lockwise-brand-short-name }
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = پرسیار بکە بۆ پاشەکەوت کردنی چوونەژوورەوە و وشەی تێپەڕبوون بۆ ماڵپەڕەکان
-    .accesskey = r
 
 ## Privacy Panel Settings
 
 forms-exceptions =
     .label = هەڵاوێردی...
     .accesskey = x
-forms-generate-passwords =
-    .label = پێشنیاز و یان وشەی تێپەڕبوون درووست بکە
-    .accesskey = پ
 forms-breach-alerts =
     .label = ئاگادارم بکەرەوە کاتێک ماڵپەڕێک دزەی پێکراوە
     .accesskey = ئ
 forms-breach-alerts-learn-more-link = زیاتر بزانە
-# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
-forms-fill-logins-and-passwords =
-    .label = پڕکردنەوەی خۆکاری چوونەژوور و وشە تێپەڕەکان
-    .accesskey = i
-forms-saved-logins =
-    .label = چوونەژوورەوە پاشەکەوتکراوەکان...
-    .accesskey = L
 forms-primary-pw-use =
     .label = بەکارهێنانی وشەی تێپەڕی سەرەکی
     .accesskey = ت
@@ -714,24 +498,6 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
-history-header = مێژوو
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } هەڵئەسێت
-    .accesskey = w
-history-remember-option-all =
-    .label = مێژووی کار لەبیربێ
-history-remember-option-never =
-    .label = هەرگیز مێژووی کارەکانم مەهێڵەوە لە بیر
-history-remember-option-custom =
-    .label = ڕێکخستنی تایبەت بەکاربێنە بۆ مێژووی کار
 history-clear-on-close-settings =
     .label = ڕێکخستنەکان...
     .accesskey = t
@@ -745,38 +511,15 @@ history-mode-radio-group =
 
 ## Privacy Section - Site Data
 
-sitedata-header = شەکرۆکە و زانیاری ماڵپەڕ
 sitedata-total-size-calculating = ژماردنی زانیاری ماڵپەڕ و قەبارەی شەکرۆکە...
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = هەموو زانیارییەکانی ماڵپەڕ، شەکرۆکە و حەشارگەکان هەڵگیراون { $value }{ $unit } بیرگەی داگیرکردووە.
 sitedata-learn-more = زیاتر بزانە
-sitedata-delete-on-close =
-    .label = شەکرۆکە و زانیاری ماڵپەڕ بسڕەوە کاتێک { -brand-short-name } دادەخەیت
-    .accesskey = ش
-sitedata-delete-on-close-private-browsing = لە دۆخی تایبەت، بەشێوەیەکی هەمیشەیی شەکرۆکە و زانیاری ماڵپەڕ دەسڕێنەوە کاتێک { -brand-short-name } دادەخرێت.
-sitedata-allow-cookies-option =
-    .label = شەکرۆکە و زانیاری ماڵپەڕ ڕێگە پێبدە
-    .accesskey = A
-sitedata-disallow-cookies-option =
-    .label = شەکرۆکە و زانیاری ماڵپەڕ ڕێگەمەدە
-    .accesskey = B
 sitedata-option-block-cross-site-trackers =
     .label = چاودێریکەری ناو ماڵپەڕ
-sitedata-clear =
-    .label = زانیارییەکان بسڕەوە...
-    .accesskey = l
-sitedata-settings =
-    .label = بەڕێوەبردنی زانیارییەکان...
-    .accesskey = M
 cookies-site-data-group =
     .label = شەکرۆکە و زانیاری ماڵپەڕ
 
 ## Search Section
 
-addressbar-header = توڵی ناونیشان
-addressbar-suggest = کاتێک شریتی ناونیشان بەکاردێنیت، پێشنیاری
 addressbar-locbar-history-option =
     .label = مێژووی وێبگەڕی
     .accesskey = h
@@ -793,10 +536,6 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = ماڵپەڕە بەرزەکان
     .accesskey = م
-addressbar-locbar-engines-option =
-    .label = بزوێنەری گەڕان
-    .accesskey = ب
-addressbar-suggestions-settings = هەڵبژاردنەکان بگۆڕە بۆ پێشنیارەکانی بزوێنەری گەڕان
 
 ## Privacy Section - Content Blocking
 
@@ -824,7 +563,6 @@ content-blocking-all-cookies = هەموو شەکرۆکەکان
 content-blocking-unvisited-cookies = شەکرۆکە لەو ماڵپەڕانەی کە سەردانت نەکردوون
 content-blocking-all-windows-tracking-content = چاودێریکردنی ناوەڕۆک لە هەموو پەنجەرەکان
 content-blocking-fingerprinters = پەنجە مۆرەکان
-content-blocking-warning-title = ئاگاداربە!
 content-blocking-warning-learn-how = بزانە چۆن
 content-blocking-reload-tabs-button =
     .label = هەموو بازدەرەکان باربکەرەوە
@@ -838,17 +576,11 @@ content-blocking-tracking-protection-option-all-windows =
 content-blocking-option-private =
     .label = تەنها لە پەنجەرەی تایبەت
     .accesskey = p
-content-blocking-tracking-protection-change-block-list = لیستەی بلۆک بگۆڕە
 content-blocking-cookies-label =
     .label = شەکرۆکە
     .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = زانیاری زیاتر
-# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
-# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
-content-blocking-fingerprinters-label =
-    .label = پەنجە مۆرەکان
-    .accesskey = F
 
 ## Privacy Section - Tracking
 
@@ -858,46 +590,11 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = ڕێگەپێدانەکان
-permissions-location = شوێن
-permissions-location-settings =
-    .label = ڕێکخستنەکان...
-    .accesskey = t
-permissions-xr = ڕاستی گریمانەیی
-permissions-xr-settings =
-    .label = ڕێکخستنەکان...
-    .accesskey = t
-permissions-camera = کامێرا
-permissions-camera-settings =
-    .label = ڕێکخستنەکان...
-    .accesskey = t
-permissions-microphone = مایکرۆفۆن
-permissions-microphone-settings =
-    .label = ڕێکخستنەکان...
-    .accesskey = t
-permissions-notification = ئاگانامەکان
-permissions-notification-settings =
-    .label = ڕێکخستنەکان...
-    .accesskey = t
-permissions-notification-link = زیاتر بزانە
 permissions-notification-pause =
     .label = ئاگاانامەکان بوەستێنە تاوەکوو { -brand-short-name } پێدەکرێتەوە
     .accesskey = n
 permissions-autoplay2 =
     .label = خۆپێکردن
-permissions-autoplay = خۆپێکردن
-permissions-autoplay-settings =
-    .label = ڕێکخستنەکان...
-    .accesskey = t
-permissions-block-popups =
-    .label = دەرچوننی لە ناکاوی پەنجەرە بلۆک بکە
-    .accesskey = B
-permissions-addon-install-warning =
-    .label = ئاگادارت دەکاتەوە کاتێک ماڵپەڕێک دەیەوێت زیادکراوێک دامەزرێنێت
-    .accesskey = و
-permissions-addon-exceptions =
-    .label = هەڵاوێردی...
-    .accesskey = E
 permissions-location2 =
     .label = شوێن
 permissions-xr2 =
@@ -909,13 +606,6 @@ permissions-microphone2 =
 permissions-notification2 =
     .label = ئاگانامەکان
 
-## Privacy Section - Data Collection
-
-collection-privacy-notice = تێبینی لەسەر تایبەتێتی
-collection-health-report-telemetry-disabled-link = زیاتر بزانە
-collection-health-report-link = زیاتر بزانە
-addon-recommendations-link = زیاتر بزانە
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -926,11 +616,9 @@ security-enable-safe-browsing-link = زیاتر بزانە
 
 ## Privacy Section - Certificates
 
-certs-header = بڕوانامە
 certs-devices-enable-fips = FIPS چالاک بکە
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ڕوومێز
 downloads-folder-name = داگرتنەکان
-choose-download-folder-title = بوخچەی داگرتنەکان هەڵبژێرە:

@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = റിപ്പോർട്ട് അയച്ചു. നന്ദി!
-confirmation-hint-login-removed = പ്രവേശിക്കൽ മാറ്റി
 confirmation-hint-password-removed = ഒളിവാക്കു് മാറ്റി
 confirmation-hint-page-bookmarked = അടയാളക്കുറിപ്പറയിൽ കരുതിവച്ചു
-confirmation-hint-password-saved = ഒളിവാക്കു് കരുതിവച്ചു
 confirmation-hint-password-created = ഒളിവാക്കു് കരുതിവച്ചു
 confirmation-hint-password-updated = ഒളിവാക്കു് പുതുച്ചു
 confirmation-hint-address-created = വിലാസം കരുതിവച്ചു

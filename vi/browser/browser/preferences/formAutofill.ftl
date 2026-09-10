@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Các địa chỉ đã lưu
 autofill-manage-addresses-list-header = Địa chỉ
-autofill-manage-credit-cards-title = Thẻ tín dụng đã lưu
-autofill-manage-credit-cards-list-header = Thẻ tín dụng
 autofill-manage-payment-methods-title = Phương thức thanh toán đã lưu
 autofill-manage-cards-list-header = Thẻ
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = Mở menu
 address-capture-edit-address-link = Sửa địa chỉ
     .aria-label = Sửa địa chỉ
-address-capture-edit-address-button =
-    .aria-label = Sửa địa chỉ
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Thêm địa chỉ
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Sửa địa chỉ
-autofill-address-given-name = Họ
-autofill-address-additional-name = Tên đệm
-autofill-address-family-name = Tên
 autofill-address-name = Tên
 autofill-address-organization = Tổ chức
 autofill-address-street-address = Địa chỉ đường phố
@@ -104,8 +97,6 @@ autofill-address-eircode = Mã bưu chính
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Thêm địa chỉ mới
 autofill-address-country = Quốc gia hoặc vùng
 autofill-address-country-only = Quốc gia
 autofill-address-tel = Điện thoại
@@ -114,18 +105,6 @@ autofill-cancel-button = Hủy bỏ
 autofill-save-button = Lưu
 autofill-country-warning-message-2 = Tính năng tự động điền biểu mẫu hiện chỉ khả dụng ở một số quốc gia nhất định
 autofill-country-warning-message = Tự động điền biểu mẫu hiện chỉ có sẵn cho một số quốc gia nhất định.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Thêm thẻ tín dụng mới
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Sửa thẻ tín dụng
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] hiển thị thông tin thẻ tín dụng
-        [windows] { -brand-short-name } đang cố gắng hiển thị thông tin thẻ tín dụng. Xác nhận quyền truy cập vào tài khoản Windows bên dưới.
-       *[other] { -brand-short-name } đang cố gắng hiển thị thông tin thẻ tín dụng.
-    }
 autofill-message-tooltip = Xem thông báo về tự động điền
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Thêm thẻ
@@ -207,15 +186,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = Không bao giờ lưu hộ chiếu
     .accessKey = N
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

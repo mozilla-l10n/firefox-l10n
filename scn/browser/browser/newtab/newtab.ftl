@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Nova scheda
-newtab-settings-button =
-    .title = Pirsunalizza a pàggina dâ scheda nova
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -60,7 +58,6 @@ newtab-search-box-handoff-input =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = Junci muturi di risciduta
-newtab-topsites-edit-topsites-header = Cancia situ principali
 newtab-topsites-title-label = Tìtulu
 newtab-topsites-title-input =
     .placeholder = Metti un tìtulu
@@ -99,10 +96,6 @@ newtab-menu-section-tooltip =
 newtab-menu-content-tooltip =
     .aria-label = Grapi u minù cuntistuali pi { $title }
     .title = Grapi u minù
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Cancia stu situ
-    .title = Cancia stu situ
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -113,16 +106,7 @@ newtab-menu-dismiss = Leva
 newtab-menu-pin = Appuntiḍḍa
 newtab-menu-unpin = Spuntiḍḍa
 newtab-menu-delete-history = Scancella dâ crunuluggìa
-newtab-menu-save-to-pocket = Sarba nne { -pocket-brand-name }
-newtab-menu-delete-pocket = Scancella di { -pocket-brand-name }
-newtab-menu-archive-pocket = Archivia nne { -pocket-brand-name }
 newtab-menu-show-privacy-info = I nostri patrucinatura e a to privatizza
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Bonu
-newtab-privacy-modal-header = A to privatizza è mpurtanti.
-newtab-privacy-modal-link = Nzìgnati comu funziona a privatizza nnâ scheda nova.
 
 ##
 
@@ -163,38 +147,15 @@ newtab-label-download = Scarricatu
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Scancella sizziuni
-newtab-section-menu-collapse-section = Riduci sizziuni
-newtab-section-menu-expand-section = Spanni sizziuni
-newtab-section-menu-manage-section = Manija sizzioni
-newtab-section-menu-manage-webext = Manija stinneriu
-newtab-section-menu-add-topsite = Junci situ principali
-newtab-section-menu-add-search-engine = Junci muturi di risciduta
-newtab-section-menu-move-up = Movi supra
-newtab-section-menu-move-down = Movi jusu
 newtab-section-menu-privacy-notice = Abbisu di privatizza
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Riduci sizziuni
-newtab-section-expand-section-label =
-    .aria-label = Spanni sizziuni
 
 ## Section Headers.
 
 newtab-section-header-topsites = Siti principali
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Cunzigghiati di { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Accumincia a navigari, e cca ti mustraremu l’artìculi, i vidiu e autri pàggini chi visitasti di picca o chi mittisti nnê nzingalibbra.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Nun cci sunnu autri cosi. Torna cchiù tardu p’aviri autri nutizzi di { $provider }. Nun po’ aspittari? Scarta n’argumentu pupulari p’attruvari autri nutizzi ntirissanti dâ riti.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -204,14 +165,6 @@ newtab-discovery-empty-section-topstories-try-again-button = Torna a prova
 newtab-discovery-empty-section-topstories-loading = Staju carricannu…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ops! Parissi chi sta sizziuni nun si carricò tutta.
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Argumenti pupulari:
-newtab-pocket-more-recommendations = Cchiù suggirimenti
-newtab-pocket-cta-button = Pigghia { -pocket-brand-name }
-newtab-pocket-cta-text = Sarba l’artìculi chi ti piàcinu nne { -pocket-brand-name }, e stìmula a to mmagginazziuni cu litturi ntirissanti.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

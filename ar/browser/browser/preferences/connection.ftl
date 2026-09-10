@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = إعدادات الاتّصال
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = إعدادات الاتّصال
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = أعد التحميل
     .accesskey = ع
-connection-proxy-autologin =
-    .label = لا تسأل الاستيثاق إذا كانت كلمة السر محفوظة
-    .accesskey = س
-    .tooltip = يستوثق هذا الخيار مع وسطاء الشبكة تلقائيًا إذا كان لديك بيانات ولوج محفوظة لهم. ستُسأل إذا فشل الاستيثاق.
 connection-proxy-autologin-checkbox =
     .label = لا تسأل الاستيثاق إذا كانت كلمة السر محفوظة
-    .accesskey = س
     .tooltiptext = يستوثق هذا الخيار مع وسطاء الشبكة تلقائيًا إذا كان لديك بيانات ولوج محفوظة لهم. ستُسأل إذا فشل الاستيثاق.
+    .accesskey = س
 connection-proxy-socks4-remote-dns =
     .label = وسّط DNS عند استخدام SOCKS v4
     .accesskey = ع
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = استخدم المسار المبدئي لحلّ DNS عبر HTTPS
 connection-dns-over-https-url-custom =
     .label = مخصّص
-    .accesskey = خ
     .tooltiptext = أدخِل المسار الذي تريده لحلّ DNS عبر HTTPS
-connection-dns-over-https-custom-label = مخصّص
+    .accesskey = خ

@@ -8,12 +8,9 @@ label-interventions = Intervenciones
 # Variables:
 #   $bug (string) - Bug number
 label-more-information = Más información: error { $bug }
-label-overrides = Modificar agente de usuario
 text-disabled-in-about-config = Se ha deshabilitado esta función en about:config
 text-no-interventions = No se están utilizando intervenciones
 text-page-title = Compatibilidad web
-text-no-overrides = No se está modificando el agente de usuario
-text-title = about:compat
 
 ## Do not translate "SmartBlock". For reference, SmartBlock is a feature
 ## of Firefox anti-tracking which fixes website breakage caused when

@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Gaitu Warp, JavaScript-en erredinemd
 experimental-features-ime-search =
     .label = Helbide-barra: erakutsi emaitzak IME konposizioan
 experimental-features-ime-search-description = Sinbolo konplexuak (Asia Ekialdeko edo Indiako hizkuntza idatzietakoak, adibidez) teklatu bidez idaztea baimentzen duen tresna da IME bat (Input Method Editor). Esperimentu hau gaitzean helbide-barra irekita mantenduko da, bilaketa-emaitzak eta iradokizunak erakutsiz IME erabili ahala testua idazteko. Konturatu IMEak helbide-barrako emaitzen gainetik bistara dezakeela panel bat, hortaz hobespen hau gomendatzen da soilik IMEak mota honetako panela erabiltzen ez duenean.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Bideoa beste leiho batean: ireki automatikoki fitxaz aldatzean
-experimental-features-auto-pip-description = Fitxaz aldatzean, gaitu bideoa beste leiho batean ikustea aktibo dauden bideoetan.
 experimental-features-group-developer-tools =
     .label = Garatzaile-tresnak
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Produktibitatea
 experimental-features-group-newtab-widgets =
     .label = { -firefox-home-brand-name }(e)ko widgetak
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Pasahitzak alboko barran
-experimental-features-contextual-password-manager-description = Izan zure pasahitzetarako sarbidea alboko barratik zuzenean. Saioa hastear zaudela, ez duzu pasahitzik bilatu edo berrezarri beharko. Eginbide hau erabiltzeko, hautatu pasahitzak alboko barran. Gero zoaz ezarpen nagusietara eta nabigatzailearen diseinuan, hautatu 'erakutsi alboko barra'. Ondoren, pertsonalizatu zure alboko barra pasahitzak hautatuz. Probatuz gero, <a data-l10n-name="connect">eman iezaguzu zure iritzia</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Aukeratu fitxa berrirako horma-paper edo kolore pertsonalizatua

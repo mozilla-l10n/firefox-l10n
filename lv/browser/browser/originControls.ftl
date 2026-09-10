@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Paplašinājums nevar lasīt un mainīt datus
-origin-controls-quarantined =
-    .label = Paplašinājumam nav atļauts lasīt un mainīt datus
 origin-controls-quarantined-status =
     .label = Paplašinājums nav atļauts ierobežotās vietnēs
 origin-controls-quarantined-allow =

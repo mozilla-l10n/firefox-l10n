@@ -18,13 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Tesɛiḍ aneqqis n uɣelluy ur nettwazen ara
-       *[other] Tesɛiḍ { $reportCount } n yineqqisen n uɣelluy ur nettwazen ara
-    }
 pending-crash-reports-view-all =
     .label = Sken
 pending-crash-reports-send =

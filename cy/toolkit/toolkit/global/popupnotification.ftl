@@ -8,6 +8,3 @@ popup-notification-more-actions-button =
 popup-notification-default-button2 =
     .label = Iawn
     .accesskey = I
-popup-notification-default-button =
-    .label = Iawn!
-    .accesskey = I

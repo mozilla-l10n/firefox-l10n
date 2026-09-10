@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = { $extension } pśidaś?
-webext-perms-header-with-perms = { $extension } pśidaś? Toś to rozšyrjenje změjo pšawo za:
-webext-perms-header-unsigned = { $extension } pśidaś? Toś to rozšyrjenje jo njepśespytane. Złosne rozšyrjenja mógu waše priwatne daty kšadnuś abo wašomu licadłoju škóźiś. Pśidajśo jo jano, gaž žrědłoju dowěriśo.
-webext-perms-header-unsigned-with-perms = { $extension } pśidaś? Toś to rozšyrjenje jo njepśespytane. Złosne rozšyrjenja mógu waše priwatne daty kšadnuś abo wašomu licadłoju škóźiś. Pśidajśo jo jano, gaž žrědłoju dowěriśo. Toś to rozšyrjenje změnjo pšawo za:
 webext-perms-sideload-header = { $extension } jo se pśidał
 webext-perms-optional-perms-header2 = { $extension } wó pśidatne pšawa pšosy
-webext-perms-optional-perms-header = { $extension } wó pśidatne pšawa pšosy.
 webext-perms-header2 = { $extension } pśidaś
 webext-perms-list-intro-unsigned = Toś to njepśeglědane rozšyrjenje mógło wašu priwatnosć na zwěsć stajiś abo waš rěd škóźeś. Pśidajśo jo jano, jolic žrědłoju dowěriśo.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = { $extension } jo se aktualizěrował. Musyśo nowe pšawa pśizwóliś, nježli až buźo se aktualizěrowana wersija instalěrowaś. Jolic wubjerjośo „Pśetergnuś“, se waša aktualna wersija rozšyrjenja zdźaržyjo.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } jo se aktualizěrował. Musyśo nowe pšawa pśizwóliś, nježli až buźo se aktualizěrowana wersija instalěrowaś. Jolic wubjerjośo „Pśetergnuś“, se waša aktualna wersija rozšyrjenja zdźaržyjo. Toś to rozšyrjenje změjo pšawo za:
 webext-perms-update-accept =
     .label = Aktualizěrowaś
     .accesskey = A
@@ -73,28 +65,8 @@ webext-perms-host-description-file-urls = Pśistup k lokalnym datajam na wašom 
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Mějśo pśistup k swójim datam za sedła w domenje { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Mějśo pśistup k swójim datam w { $domainCount } drugej domenje
-        [two] Mějśo pśistup k swójim datam w { $domainCount } drugima domenoma
-        [few] Mějśo pśistup k swójim datam w { $domainCount } drugich domenach
-       *[other] Mějśo pśistup k swójim datam w { $domainCount } drugich domenach
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Mějśo pśistup k swójim datam za { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Mějśo pśistup k swójim datam na { $domainCount } drugem sedle
-        [two] Mějśo pśistup k swójim datam na { $domainCount } drugima sedłoma
-        [few] Mějśo pśistup k swójim datam na { $domainCount } drugich sedłach
-       *[other] Mějśo pśistup k swójim datam na { $domainCount } drugich sedłach
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

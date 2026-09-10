@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Βρίσκεστε σε λειτουργί
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Επαναφορά κύριου κωδικού πρόσβασης
     .style = min-width: 40em
+    .title = Επαναφορά κύριου κωδικού πρόσβασης
 reset-password-button-label =
     .label = Επαναφορά
 reset-primary-password-text = Εάν επαναφέρετε τον κύριο κωδικό πρόσβασής σας, θα διαγραφούν από τη μνήμη όλοι οι αποθηκευμένοι κωδικοί πρόσβασης ιστοτόπων και email, προσωπικών πιστοποιητικών και ιδιωτικών κλειδιών. Θέλετε σίγουρα να επαναφέρετε τον κύριο κωδικό πρόσβασης;
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Έγινε επαναφορά το�
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Λήψη πιστοποιητικού
     .style = min-width: 46em
+    .title = Λήψη πιστοποιητικού
 download-cert-message = Σας ζητήθηκε να εμπιστευθείτε μια νέα Αρχή Πιστοποίησης (CA).
 download-cert-trust-ssl =
     .label = Να θεωρείται αξιόπιστη αυτή η ΑΠ για την αναγνώριση ιστοτόπων.
@@ -52,8 +52,6 @@ download-cert-view-text = Εξέταση CA πιστοποιητικού
 
 client-auth-window =
     .title = Ειδοποίηση Αναγνώρισης Χρήστη
-client-auth-site-description = Ο ιστότοπος ζήτησε να ταυτοποιήσετε τον εαυτό σας με ένα πιστοποιητικό:
-client-auth-choose-cert = Επιλέξτε ένα πιστοποιητικό για να το παρουσιάσετε ως ταυτότητα:
 client-auth-send-no-certificate =
     .label = Χωρίς αποστολή πιστοποιητικού
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Κάντε ταυτοποίηση στη συσκευή ασφαλείας ({ $tokenName }). Ο τρόπος εξαρτάται από τη συσκευή (για παράδειγμα, με συσκευή ανάγνωσης δακτυλικών αποτυπωμάτων ή εισαγωγή κωδικού με πληκτρολόγιο).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Πραγματοποιήστε έλεγχο ταυτότητας στο διακριτικό «{ $tokenName }». Ο τρόπος ταυτοποίησης εξαρτάται από το διακριτικό (για παράδειγμα, με συσκευή ανάγνωσης δακτυλικών αποτυπωμάτων ή εισαγωγή κωδικού με πληκτρολόγιο).

@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Aktualisatioun gëtt erofgelueden — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Aktualisatioun gëtt erofgelueden — { $transfer }
 
@@ -29,7 +28,6 @@ settings-update-applying =
     .label = Aktualisatioun gëtt duerchgefouert…
 update-failed = Den Update ass feelgeschloen. <label data-l10n-name="failed-link">Déi lescht Versioun eroflueden</label>
 update-failed-main = Den Update ass feelgeschloen. <a data-l10n-name="failed-link-main">Déi lescht Versioun eroflueden</a>
-update-adminDisabled = Aktualisatioune goufe vun Ärem System-Administrateur ausgeschalt
 update-noUpdatesFound = { -brand-short-name } ass aktuell
 settings-update-no-updates-found =
     .label = { -brand-short-name } ass aktuell
@@ -58,5 +56,3 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } gëtt entwéckelt vu <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, enger <label data-l10n-name="community-creditsLink">globaler Communautéit</label> déi zesummeschafft fir den Internet fräi, ëffentlech a fir jiddereen zougänglech ze loossen.
 helpus = Wëllt Dir eis hëllefen? <label data-l10n-name="helpus-donateLink">Maacht en Don</label> oder <label data-l10n-name="helpus-getInvolvedLink">maacht mat!</label>
 bottomLinks-license = Lizenz Informatiounen
-bottomLinks-rights = Endbenotzerrechter
-bottomLinks-privacy = Dateschutzbestëmmungen

@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱰᱟᱴᱟ ᱵᱟᱭ ᱯᱟᱲᱦᱟᱣ ᱟᱨ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ
-origin-controls-quarantined =
-    .label = ᱰᱟᱴᱟ ᱠᱚ ᱯᱟᱲᱦᱟᱣ ᱥᱮ ᱵᱚᱫᱚᱞ ᱫᱚ ᱮᱠᱥᱴᱮᱱᱥᱮᱚᱱ ᱵᱟᱭ ᱮᱢᱪᱷᱚᱭᱟᱭ
 origin-controls-quarantined-status =
     .label = ᱟᱠᱚᱴ ᱠᱟᱱ ᱥᱟᱭᱤᱴ ᱨᱮ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱮᱢ ᱵᱟᱭ ᱜᱚᱱᱚᱜᱼᱟ
 origin-controls-quarantined-allow =

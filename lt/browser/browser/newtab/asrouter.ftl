@@ -64,17 +64,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Sinchronizuokite adresyną visuose įrenginiuose.
-cfr-doorhanger-bookmark-fxa-body = Puikus radinys! O kad nepasigestumėte šio įrašo kituose įrenginiuose, susikurkite „{ -fxaccount-brand-name }“ paskyrą.
 cfr-doorhanger-bookmark-fxa-link-text = Sinchronizuoti adresyną dabar…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Užvėrimo mygtukas
     .title = Užverti
-
-## Protections panel
-
-cfr-protections-panel-header = Nebūkite stebimi naršant
-cfr-protections-panel-body = Jūsų duomenys skirti tik jums. „{ -brand-short-name }“ saugo jus nuo daugelio dažniausių stebėjimo elementų, stebinčių jūsų veiklą internete.
-cfr-protections-panel-link-text = Sužinoti daugiau
 
 ## What's New toolbar button and panel
 

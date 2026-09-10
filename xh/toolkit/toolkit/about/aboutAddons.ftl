@@ -99,15 +99,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Zonke izongezelelo ziqhwalelisiwe ngemo ekhuselekileyo.
-extensions-warning-check-compatibility = Isongezelelo sokukhangela uhambelwanosiqhwalelisiwe. Usenokuba nezongezelelo ezingahambelaniyo.
-extensions-warning-safe-mode2 =
-    .message = Zonke izongezelelo ziqhwalelisiwe ngemo ekhuselekileyo.
 extensions-warning-check-compatibility2 =
     .message = Isongezelelo sokukhangela uhambelwanosiqhwalelisiwe. Usenokuba nezongezelelo ezingahambelaniyo.
 extensions-warning-check-compatibility-button = Vumela
     .title = Vumela isongezelelo sokukhangela uhambelwano
-extensions-warning-update-security = Uhlaziyo lwesongezelelo sokukhangela ukhuseleko luqhwalelisiwe. Ungahlangatyezwa luhlaziyo.
 extensions-warning-update-security2 =
     .message = Uhlaziyo lwesongezelelo sokukhangela ukhuseleko luqhwalelisiwe. Ungahlangatyezwa luhlaziyo.
 extensions-warning-update-security-button = Vumela
@@ -160,24 +155,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = I-{ $name } ihambelana kunye ne-{ -brand-short-name } ne-{ $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = I-{ $name } ihambelana kunye ne-{ -brand-short-name } ne-{ $version }.
-details-notification-unsigned-and-disabled = { $name } ayinakuqinisekiswa ukusetyenziselwa kwi-{ -brand-short-name } yaye yenziwe ayasebenza.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } ayinakuqinisekiswa ukusetyenziselwa kwi-{ -brand-short-name } yaye yenziwe ayasebenza.
-details-notification-unsigned-and-disabled-link = Inkcazelo Engakumbi
-details-notification-unsigned = { $name } ayinakuqinisekiswa ukusetyenziselwa kwi-{ -brand-short-name }. Qhubeka ngesilumkiso.
 details-notification-unsigned2 =
     .message = { $name } ayinakuqinisekiswa ukusetyenziselwa kwi-{ -brand-short-name }. Qhubeka ngesilumkiso.
-details-notification-unsigned-link = Inkcazelo Engakumbi
-details-notification-blocked = I-{ $name } iqhwalelisiwe ngesizathu sokhuseleko nozinzo.
-details-notification-blocked-link = Ulwazi Olungaphaya Kolunikiweyo
-details-notification-softblocked = I-{ $name } yaziwa ngokubangela ingxaki yokhuseleko neyozinzo.
-details-notification-softblocked-link = Ulwazi Olungaphaya Kolunikiweyo
-details-notification-gmp-pending = { $name } iza kufakelwa kwangoku.
 details-notification-gmp-pending2 =
     .message = { $name } iza kufakelwa kwangoku.
 

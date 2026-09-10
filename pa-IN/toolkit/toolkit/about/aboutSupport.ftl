@@ -29,10 +29,6 @@ security-software-name = ਨਾਂ
 security-software-antivirus = ਐਂਟੀਵਾਈਰਸ
 security-software-antispyware = ਐਂਟੀਸਪਾਈਵੇਅਰ
 security-software-firewall = ਫਾਇਰਵਾਲ
-features-title = { -brand-short-name } ਫ਼ੀਚਰ
-features-name = ਨਾਂ
-features-version = ਵਰਜ਼ਨ
-features-id = ID
 processes-title = ਰਿਮੋਟ ਪਰੋਸੈਸ
 processes-type = ਕਿਸਮ
 processes-count = ਗਿਣਤੀ
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] ਪਰੋਫਾਈਲ ਡਾਇਰੈਕਟਰੀ
        *[other] ਪਰੋਫਾਈਲ ਫੋਲਡਰ
     }
-app-basics-enabled-plugins = ਚਾਲੂ ਪਲੱਗਇਨ
 app-basics-build-config = ਬਿਲਡ ਸੰਰਚਨਾ
 app-basics-user-agent = ਯੂਜ਼ਰ ਏਜੰਟ
 app-basics-os = OS
@@ -96,9 +91,6 @@ show-dir-label =
 environment-variables-title = ਇੰਵਾਇਰਨਮੈਂਟ ਵੇਰੀਰਬਲ
 environment-variables-name = ਨਾਂ
 environment-variables-value = ਮੁੱਲ
-experimental-features-title = ਤਜਰਬੇ ਅਧੀਨ ਫੀਚਰ
-experimental-features-name = ਨਾਂ
-experimental-features-value = ਮੁੱਲ
 modified-key-prefs-title = ਖਾਸ ਬਦਲੀਆਂ ਗਈਆਂ ਪਸੰਦ
 modified-prefs-name = ਨਾਂ
 modified-prefs-value = ਮੁੱਲ
@@ -210,9 +202,6 @@ media-cdm-capabilities = ਸਮਰੱਥਾਵਾਂ
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = ਮੁੱਢ ਨੂੰ ਸਾਫ਼ ਕਰੋ
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = HDCP 2.2 ਅਨੁਕੂਲ
 
 ##
 
@@ -384,8 +373,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = ਤਰਜਬੇ ਵਲੋਂ ਅਸਮਰੱਥ ਕੀਤਾ
-fission-status-experiment-treatment = ਤਜਰਬੇ ਵਲੋਂ ਸਮਰੱਥ ਕੀਤਾ
 fission-status-disabled-by-e10s-env = ਵਾਤਾਵਰਨ ਰਾਹੀਂ ਅਸਮਰੱਥ ਕੀਤਾ
 fission-status-enabled-by-env = ਵਾਤਾਵਰਨ ਰਾਹੀਂ ਸਮਰੱਥ ਕੀਤਾ
 fission-status-disabled-by-env = ਪ੍ਰਣਾਲੀ ਵਲੋਂ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ
@@ -394,7 +381,6 @@ fission-status-disabled-by-default = ਮੂਲ ਰੂਪ 'ਚ ਅਸਮਰੱਥ
 fission-status-enabled-by-user-pref = ਵਰਤੋਂਕਾਰ ਵਲੋਂ ਸਮਰੱਥ ਕੀਤਾ
 fission-status-disabled-by-user-pref = ਵਰਤੋਂਕਾਰ ਵਲੋਂ ਅਸਮਰੱਥ ਹੈ
 fission-status-disabled-by-e10s-other = E10s ਅਸਮਰੱਥ ਹੈ
-fission-status-enabled-by-rollout = ਲੜੀਵਾਰ ਵੰਡਣ ਰਾਹੀਂ ਸਮਰੱਥ ਕੀਤਾ
 async-pan-zoom = ਅਸਮਕਾਲੀ ਪੈਨ/ਜ਼ੂਮ
 apz-none = ਕੋਈ ਨਹੀਂ
 wheel-enabled = ਵ੍ਹੀਲ ਇਨਪੁਟ ਸਮਰੱਥ ਹੈ

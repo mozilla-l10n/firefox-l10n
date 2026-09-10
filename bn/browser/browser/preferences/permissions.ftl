@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = ব্যতিক্রম
     .style = min-width: 45em
+    .title = ব্যতিক্রম
 permissions-close-key =
     .key = w
 permissions-address = ওয়েবসাইটের ঠিকানা
@@ -64,49 +64,35 @@ permissions-invalid-uri-label = অনুগ্রহ করে কার্য�
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = বর্ধিত ট্র্যাকিং সুরক্ষার জন্য ব্যতিক্রম
     .style = { permissions-window2.style }
+    .title = বর্ধিত ট্র্যাকিং সুরক্ষার জন্য ব্যতিক্রম
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
+    .style = { permissions-window2.style }
     .title = ব্যতিক্রম - কুকিজ এবং সাইট ডাটা
-    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = কোন ওয়েবসাইট সবসময় সাইট ডেটা এবং কুকিজ ব্যবহার করবে অথবা কোনটি কখনই করবে না তা আপনি নির্দিষ্ট করতে পারেন। ওয়েব সাইটের সঠিক ঠিকানা টাইপ করুন এবং তারপরে ব্লক করুন, সেশনের জন্য অনুমতি দিন, বা অনুমতি দিন।
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = ওয়েবসাইট সমূহ- পপ-আপ দেখাতে পারবে
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = কোন ওয়েবসাইটগুলো পপ-আপ উইন্ডো প্রদর্শন করতে পারবে আপনি তা উল্লেখ করতে পারেন। সাইটের সঠিক ঠিকানা লিখে "অনুমোদন করা হবে" ক্লিক করুন।
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = ব্যতিক্রম - সংরক্ষিত লগইন
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = নিম্নলিখিত ওয়েবসাইটে লগইনগুলি সংরক্ষণ করা হবে না
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = ওয়েবসাইট সমূহ- অ্যাডনস ইন্সটল করতে পারবে
     .style = { permissions-window2.style }
+    .title = ওয়েবসাইট সমূহ- অ্যাডনস ইন্সটল করতে পারবে
 permissions-exceptions-addons-desc = কোন ওয়েবসাইটগুলো অ্যাড-অন ইনস্টল করতে পারবে আপনি তা উল্লেখ করতে পারেন। সাইটের সঠিক ঠিকানা লিখে "অনুমোদন করা হবে" ক্লিক করুন।
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = সেটিংস - অটোপ্লে
     .style = { permissions-window2.style }
+    .title = সেটিংস - অটোপ্লে
 permissions-site-autoplay-desc = আপনার ডিফল্ট অটোপ্লে সেটিংস অনুসরণ করে না এমন সাইট আপনি এখানে পরিচালনা করতে পারেন।
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = সেটিং - বিজ্ঞপ্তির অনুমতি
     .style = { permissions-window2.style }
+    .title = সেটিং - বিজ্ঞপ্তির অনুমতি
 permissions-site-notification-desc = নিম্নলিখিত ওয়েবসাইট সমূহ বিভিন্ন সময়ে আপনাকে নোটিফিকেশন পাঠাবে, সেজন্য অনুরোধ করেছে। কোন সাইট আপনাকে নোটিফিকেশন পাঠাতে পারবে বা পারবে না, সেটি আপনি নির্ধারণ করবেন। এছাড়া, নতুন সাইট আপনাকে একই অনুরোধ করতে পারবে কিনা, সেটিও ব্লক করতে পারবেন।
 permissions-site-notification-disable-label =
     .label = নোটিফিকেশন অনুমোদনের নতুন অনুরোধ ব্লক করুন
@@ -115,8 +101,8 @@ permissions-site-notification-disable-desc = এতে করে, উপরে�
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = সেটিং - অবস্থান অনুমতি
     .style = { permissions-window2.style }
+    .title = সেটিং - অবস্থান অনুমতি
 permissions-site-location-desc = নিচের ওয়েবসাইট সমূহ আপনার অবস্থানের জানতে অনুরোধ করেছে। আপনি নির্দিষ্ট করে দিতে পারেন যে, কোন ওয়েবসাইট আপনার অবস্থান জানার অনুমোদন পাবে। নতুন কোন ওয়েবসাইটের এরকম অনুরোধ সমূহ আপনি ব্লক করেও দিতে পারেন।
 permissions-site-location-disable-label =
     .label = আপনার অবস্থানের তথ্য জানার নতুন অনুরোধ ব্লক করুন
@@ -125,8 +111,8 @@ permissions-site-location-disable-desc = এতে করে, উপরের �
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = সেটিংস - ভার্চুয়াল রিয়েলিটির অনুমতি
     .style = { permissions-window2.style }
+    .title = সেটিংস - ভার্চুয়াল রিয়েলিটির অনুমতি
 permissions-site-xr-desc = নিচের এই ওয়েবসাইটগুলো আপনার ভার্চুয়াল রিয়েলিটি যন্ত্র ব্যবহারের অনুরোধ করেছে। কোন সাইটগুলো আপনার ভার্চুয়াল রিয়েলিটি যন্ত্র ব্যবহার করতে পারবে তা আপনি ঠিক করে দিতে পারেন। আপনার ভার্চুয়াল রিয়েলিটি যন্ত্র ব্যবহারের জন্য করা নতুন অনুরোধগুলোও আপনি আটকে দিতে পারেন ।
 permissions-site-xr-disable-label =
     .label = আপনার ভার্চুয়াল রিয়েলিটি যন্ত্র এক্সেসের জন্য করা নতুন অনুরোধগুলো ব্লক করুন।
@@ -135,8 +121,8 @@ permissions-site-xr-disable-desc = এতে করে, উপরের তা�
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = সেটিং - ক্যামেরা ব্যবহারের অনুমতি
     .style = { permissions-window2.style }
+    .title = সেটিং - ক্যামেরা ব্যবহারের অনুমতি
 permissions-site-camera-desc = নিচের ওয়েবসাইট সমূহ আপনার ক্যামেরা ব্যবহার করার অনুরোধ জানিয়েছে। কোন ওয়েবসাইট আপনার ক্যামেরা ব্যবহার করতে পারবে, তা আপনি আগেই বলে দিতে পারেন। নতুন কোন ওয়েবসাইট ক্যামেরা ব্যবহারের অনুরোধ যেনো পাঠাতে না পারে, সেটিও আপনি ব্লক করে দিতে পারেন।
 permissions-site-camera-disable-label =
     .label = আপনার ক্যামেরা ব্যবহারের নতুন অনুরোধ ব্লক করুন
@@ -145,8 +131,8 @@ permissions-site-camera-disable-desc = এতে করে, উপরের ত�
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = সেটিং - মাইক্রোফোন অনুমোদন
     .style = { permissions-window2.style }
+    .title = সেটিং - মাইক্রোফোন অনুমোদন
 permissions-site-microphone-desc = নিচের ওয়েবসাইট সমূহ আপনার মাইক্রোফোন ব্যবহার করার অনুরোধ জানিয়েছে। কোন ওয়েবসাইট আপনার মাইক্রোফোন ব্যবহার করতে পারবে, তা আপনি আগেই বলে দিতে পারেন। নতুন কোন ওয়েবসাইট মাইক্রোফোন ব্যবহারের অনুরোধ যেনো পাঠাতে না পারে, সেটিও আপনি ব্লক করে দিতে পারেন।
 permissions-site-microphone-disable-label =
     .label = আপনার মাইক্রোফোন ব্যবহারের নতুন অনুরোধ ব্লক করুন

@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Login va parollar
-about-logins-login-filter =
-    .placeholder = Loginlarni qidirish
-    .key = F
-create-new-login-button =
-    .title = Yangi login yaratish
 about-logins-page-title-name = Parollar
 about-logins-login-filter2 =
-    .placeholder = Parollarni qidirish
     .key = F
+    .placeholder = Parollarni qidirish
 create-login-button =
     .title = Parol qoʻshish
 fxaccounts-sign-in-text = Parollaringizdan boshqa qurilmalaringizda foydalaning
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Boshqa brauzerdan import qilish
 about-logins-menu-menuitem-import-from-a-file = Fayldan import qilish…
-about-logins-menu-menuitem-export-logins = Loginlarni eksport qilish…
-about-logins-menu-menuitem-remove-all-logins = Barcha loginlarni oʻchirish…
 about-logins-menu-menuitem-export-logins2 = Parollarni eksport qilish…
 about-logins-menu-menuitem-remove-all-logins2 = Barcha parollarni oʻchirish…
 menu-menuitem-preferences =
@@ -42,21 +34,6 @@ about-logins-menu-menuitem-help = Yordam
 
 login-list =
     .aria-label = Qidiruv boʻyicha topilgan loginlar
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } ta login
-       *[other] { $count } ta login
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $total } tadan { $count } ta login
-       *[other] { $total } tadan { $count } ta login
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -80,14 +57,10 @@ login-list-username-reverse-option = Foydalanuvchi nomi (Z-A)
 about-logins-login-list-alerts-option = Ogohlantirishlar
 login-list-last-changed-option = Oxirgi oʻzgartirish boʻyicha
 login-list-last-used-option = Oxirgi foydalanish boʻyicha
-login-list-intro-title = Hech qanday login topilmadi
 login-list-intro-title2 = Saqlangan parollar yoʻq
 login-list-intro-description = { -brand-product-name }ʼda saqlangan parollar shu yerda koʻrsatiladi.
-about-logins-login-list-empty-search-title = Hech qanday login topilmadi
 about-logins-login-list-empty-search-title2 = Hech qanday parol topilmadi
 about-logins-login-list-empty-search-description = Qidiruvingiz boʻyicha hech nima topilmadi.
-login-list-item-title-new-login = Yangi login
-login-list-item-subtitle-new-login = Login maʼlumotlaringizni kiriting
 login-list-item-title-new-login2 = Parol qoʻshish
 login-list-item-subtitle-missing-username = (foydalanuvchi nomi yoʻq)
 about-logins-list-item-breach-icon =
@@ -103,16 +76,11 @@ about-logins-list-section-week = Oxirgi 7 kun
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Saqlangan loginlarni izlayapsizmi? Sinxronizatsiyani yoqing yoki ularni import qiling.
-about-logins-login-intro-heading-logged-in = Sinxronlangan loginlar topilmadi
-login-intro-description = Loginlaringizni boshqa qurilmadagi { -brand-product-name } brauzeriga saqlagan boʻlsangiz, ularni olish haqida bu yerdan maʼlumot olish mumkin:
-login-intro-instructions-fxa = Yangi hisob yarating yoki loginlaringiz saqlangan qurilmadagi { -fxaccount-brand-name }  hisobiga kiring
 login-intro-instructions-fxa-settings = Sozlamalar > Sinxronizatsiya > Sinxronizatsiyani yoqishni oching. Belgilash katagida login va parollarni tanlang.
 login-intro-instructions-fxa-passwords-help = Koʻproq yordam olish uchun <a data-l10n-name="passwords-help-link">parol boʻyicha yordam</a> sahifasiga kiring.
 
 ## Login
 
-login-item-new-login-title = Yangi login yaratish
 login-item-edit-button = Tahrirlash
 about-logins-login-item-remove-button = Olib tashlash
 login-item-origin-label = Sayt manzili
@@ -128,7 +96,6 @@ login-item-password-reveal-checkbox =
     .aria-label = Parolni koʻrsatish
 login-item-copy-password-button-text = Nusxa olish
 login-item-copied-password-button-text = Nusxa olindi!
-login-item-save-changes-button = Oʻzgarishlarni saqlash
 login-item-save-new-button = Saqlash
 login-item-cancel-button = Bekor qilish
 
@@ -140,18 +107,12 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = saqlangan loginni tahrirlash
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = saqlangan parolni koʻrsatish
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = saqlangan paroldan nusxa olish
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = saqlangan login parollarni eksport qilish
 
 ## Primary Password notification
 
@@ -165,23 +126,10 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Bekor qilish
 confirmation-dialog-dismiss-button =
     .title = Bekor qilish
-about-logins-confirm-remove-dialog-title = Bu login olib tashlansinmi?
-confirm-delete-dialog-message = Bu amalni orqaga qaytarib boʻlmaydi.
 about-logins-confirm-remove-dialog-confirm-button = Olib tashlash
-
-## Variables
-##   $count (number) - Number of items
-
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] { $count } ta login barcha qurilmalardan olib tashlansinmi?
-       *[other] { $count } ta login barcha qurilmalardan olib tashlansinmi?
-    }
 
 ##
 
-about-logins-confirm-export-dialog-title = Login va parollarni eksport qilish
-about-logins-confirm-export-dialog-message = Parollaringiz oʻqilishi mumkin boʻlgan matn sifatida saqlanadi (masalan, BadP@ssw0rd). Eksport qilingan faylni ochadigan har bir kishi ularni koʻrishi mumkin.
 confirm-discard-changes-dialog-title = Saqlanmagan oʻzgarishlar bekor qilinsinmi?
 confirm-discard-changes-dialog-message = Barcha saqlanmagan oʻzgarishlar yoʻqoladi.
 confirm-discard-changes-dialog-confirm-button = Rad etish
@@ -214,16 +162,8 @@ about-logins-error-message-duplicate-login-with-link = { $loginTitle } uchun kir
 # This is a generic error message.
 about-logins-error-message-default = Bu parolni saqlashda xatolik yuz berdi.
 
-## Login Export Dialog
-
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = logins.csv
-
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-error-conflicting-values-description = Masalan: bir nechta foydalanuvchi nomi, parollar, URLlarni bitta login bilan olish mumkin.
-about-logins-import-report-description = Login va parollar { -brand-short-name }ga import qilindi.
-about-logins-import-report-row-description-modified = Mavjud login yangilandi

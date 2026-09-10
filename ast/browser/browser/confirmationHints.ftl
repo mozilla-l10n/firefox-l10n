@@ -5,10 +5,7 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Unvióse l'informe. ¡Gracies!
-confirmation-hint-login-removed = ¡Quitóse l'aniciu de sesión!
 confirmation-hint-page-bookmarked = Guardóse en Marcadores
-confirmation-hint-password-saved = ¡Guardóse la contraseña!
 confirmation-hint-pin-tab = ¡Fixóse!
 confirmation-hint-pin-tab-description = Calca'l na llingüeta col botón derechu del mur pa lliberala.
 confirmation-hint-send-to-device = ¡Unvióse!

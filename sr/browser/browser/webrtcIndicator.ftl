@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - индикатор дељења
-webrtc-indicator-window =
-    .title = { -brand-short-name } - индикатор дељења
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Делите микрофон. Кликните да бисте променили подешавања.
 webrtc-screen-system-menu =
     .label = Делите прозор или екран. Кликните да бисте променили подешавања.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Камера и микрофон се деле. Кликните да контролишете дељење.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Камера се дели. Кликните да бисте променили подешавања.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Микрофон се дели. Кликните да бисте променили подешавања.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Апликација се дели. Кликните да бисте променили подешавања.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Екран се дели. Кликните да бисте променили подешавања.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Прозор се дели. Кликните да бисте променили подешавања.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Језичак се дели. Кликните да бисте променили подешавања.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -191,7 +172,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Дозволит
 
 webrtc-share-screen-warning = Делите екране само са сајтовима којима верујете. Дељење омогућава обмањујућим сајтовима да претражују интернет у ваше име и украду ваше личне податке.
 webrtc-share-browser-warning = Делите { -brand-short-name } само са сајтовима којима верујете. Дељење омогућава обмањујућим сајтовима да претражују интернет у ваше име и укради ваше личне податке.
-webrtc-share-screen-learn-more = Сазнајте више
 webrtc-pick-window-or-screen = Изаберите прозор или екран
 webrtc-share-entire-screen = Цео екран
 webrtc-share-pipe-wire-portal = Користи подешавања оперативног система

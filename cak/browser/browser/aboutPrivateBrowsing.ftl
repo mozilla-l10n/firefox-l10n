@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Tijaq jun Ichinan Tzuwäch
     .accesskey = I
 about-private-browsing-search-placeholder = Tikanöx pan Ajk'amaya'l
-about-private-browsing-info-title = At k'o pa jun Ichinan Tzuwäch
 about-private-browsing-search-btn =
     .title = Tikanöx pan ajk'amaya'l
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Takanoj pa { $engine } o tatz'ib'aj ri rochochib'al
 about-private-browsing-handoff-text-no-engine = Tikanöx o titz'ib'äx ochochib'äl
 about-private-browsing-not-private = Wakami man at k'o ta chupam jun ichinan tzuwäch.
-about-private-browsing-info-description-private-window = Ichinan tzuwäch: { -brand-short-name } nuyüj ri runatab'al xakanoj chuqa' awokik'amaya'l toq ye'atz'apij ri ichinan taq tzuwäch, po man yatrewaj ta.
-about-private-browsing-info-description-simplified = { -brand-short-name } nuyüj ri runatab'al xakanoj chuqa' awokik'amaya'l toq ye'atz'apij ri ichinan taq tzuwäch, po man yatrewaj ta.
-about-private-browsing-learn-more-link = Tetamäx ch'aqa' chik
 about-private-browsing-hide-activity = Tawewaj ri asamaj chuqa' ri ak'ojlib'al, xab'akuchi' at k'o wi
 about-private-browsing-get-privacy = Tak'ulu' ato'ik pa ruwi' ichinanem xab'akuchi' yatok wi pa k'amaya'l
 about-private-browsing-hide-activity-1 = Tawewaj ri asamaj pa ruwi' okem pa k'amaya'l chuqa' ri ak'ojlib'al rik'in { -mozilla-vpn-brand-name }. Jun pitz'oj nunük' jun jikïl okem, achi'el chuqa' pa winaqil Wi-Fi.
@@ -29,8 +25,6 @@ about-private-browsing-prominent-cta = Tachajij ri awichinanem rik'in { -mozilla
 about-private-browsing-focus-promo-cta = Tiqasäx { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Ichinan okem xab'akuchi'
 about-private-browsing-focus-promo-text = Ri ruchokoy qoyonib'al nusamajij ichinan okem junelik yeruyüj ri taq natab'äl chuqa' taq koki.
-about-private-browsing-focus-promo-header-b = Tak'waj ri ichinan okem pa k'amaya'l pan awoyonib'al
-about-private-browsing-focus-promo-text-b = Tawokisaj { -focus-brand-name } toq yakanon pan ewäl, ri man nawajo' ta chi nutzu' ri nab'ey awokik'amaya'l.
 about-private-browsing-focus-promo-header-c = Nïm runimilem ichinanem pa taq oyonib'äl
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } jantape' yeruyüj ri taq anatab'al toq yeruq'ät taq rutzijol chuqa' taq ojqanela'.
 # This string is the title for the banner for search engine selection
@@ -57,14 +51,6 @@ about-private-browsing-pin-promo-link-text =
        *[other] Tiya' pa ri rukajtz'ik samajib'äl
     }
 about-private-browsing-pin-promo-title = Majun kuki chuqa' natab'äl eyakon, jumul pan ach'atal. Katok achi'el majun nitz'eto awichin.
-
-## Strings used in a promotion message for cookie banner reduction
-
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = Xek'is ri taq kib'aner koki!
-about-private-browsing-cookie-banners-promo-button = Kech'utinär ri taq kib'aner koki
-about-private-browsing-cookie-banners-promo-message = Tiya' q'ij chi ri { -brand-short-name } pa ruyonil tutzolij kitzij ri elenel taq kuki richin majun nimejo' ri awokem pa k'amaya'l.{ -brand-short-name } xkeruxutuj ronojel ri taq taqoj xkekik'utuj we k'amonel.
 
 ## Strings for the info section of about:privatebrowsing
 

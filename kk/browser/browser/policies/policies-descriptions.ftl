@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Браузер үнсіз келісім б�
 policy-DisableDeveloperTools = Әзірлеуші құралдарына қатынауды бұғаттау.
 policy-DisableEncryptedClientHello = TLS Encrypted Client Hello (ECH) функциясын қолдануды сөндіреді.
 policy-DisableFeedbackCommands = Көмек мәзірінен кері байланысты жіберу командаларын сөндіру (Кері байланыс хабарламасын жіберу және Фишингті сайт туралы хабарлау).
-policy-DisableFirefoxAccounts = { -fxaccount-brand-name } негізіндегі қызметтерді, Синхрондауды қоса, сөндіру.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Тіркелгі негізіндегі қызметтерді, синхрондауды қоса, сөндіру.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Іздеу және формалар тарихын 
 policy-DisableLaunchOnLogin = Пайдаланушы жүйеге кірген кезде { -brand-short-name } автоматты түрде іске қосылуын болдырмау.
 policy-DisablePrimaryPasswordCreation = Мәні true болса, басты парольді орнату мүмкін болмайды.
 policy-DisablePasswordReveal = Сақталған логиндерде парольдердің ашылуына жол бермеу.
-policy-DisablePocket2 = Веб-парақтары { -pocket-brand-name }-ке сақтау мүмкіндігін сөндіру.
 policy-DisablePrivateBrowsing = Жекелік шолуды сөндіру
 policy-DisableProfileImport = Басқа браузерден деректерді импорттау мәзір командасын сөндіру.
 policy-DisableProfileRefresh = about:support бетінде { -brand-short-name } жаңғырту батырмасын сөндіру.
@@ -132,7 +130,6 @@ policy-PDFjs = PDF.js, { -brand-short-name } құрамындағы PDF шолу
 policy-Permissions2 = Камера, микрофон, орналасулар, хабарламалар және автоойнату рұқсаттарын баптау.
 policy-PictureInPicture = Суреттегі сурет режимін іске қосу немесе сөндіру.
 policy-PopupBlocking2 = Белгілі бір веб-сайттарға қалқымалы терезелерді көрсетуге және үшінші тарап фреймдермен қайта бағытталуға рұқсат беру.
-policy-PopupBlocking = Кейбір веб-сайттарға үнсіз келісім бойынша қалқымалы хабарламаларды көрсетуге рұқсат ету.
 policy-Preferences = Баптаулардың бір жиыны үшін мәндерін орнату және бұғаттау.
 policy-PrivateBrowsingModeAvailability = Жекелік шолу режимінің қолжетімділігін орнату.
 policy-PromptForDownloadLocation = Жүктеп алу кезінде файлдарды сақтау орны туралы сұрау.

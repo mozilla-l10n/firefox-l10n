@@ -18,9 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message = Bạn có { $reportCount } bản báo cáo lỗi chưa gửi
 pending-crash-reports-view-all =
     .label = Xem
 pending-crash-reports-send =
@@ -30,9 +27,6 @@ pending-crash-reports-always-send =
 # Variables:
 #   $reportCount (Number): the number of pending crash reports
 requested-crash-reports-message-new = Bạn có { $reportCount } báo cáo sự cố chưa gửi liên quan đến các sự cố đang được điều tra, việc gửi chúng sẽ giúp chúng tôi cải thiện { -brand-product-name }. Đóng thông báo này sẽ bỏ qua các báo cáo này.
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message = Bạn có { $reportCount } báo cáo sự cố chưa gửi phù hợp với sự cố đang được điều tra, gửi nó sẽ giúp chúng tôi cải thiện { -brand-product-name }. Đóng thông báo này sẽ bỏ qua các báo cáo này.
 requested-crash-reports-dont-show-again =
     .label = Đừng hiển thị lại
     .accesskey = D

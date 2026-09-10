@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Nový panel
-    .accesskey = o
 reload-tab =
     .label = Znovu načíst panel
     .accesskey = n
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nová skupina
     .accesskey = N
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -215,14 +208,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Vytvořit odkaz na sdílení
     .accesskey = V
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Poslat panel do zařízení
-            [few] Poslat { $tabCount } panely do zařízení
-           *[other] Poslat { $tabCount } panelů do zařízení
-        }
-    .accesskey = n
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

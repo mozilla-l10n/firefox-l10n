@@ -39,8 +39,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = কিছুমান এক্সটেনশ্যনৰ অনুমতি নাই
-unified-extensions-mb-quarantined-domain-message = আপোনাৰ ডেটা সুৰক্ষিত কৰিবলৈ এই ছাইটত কেৱল { -vendor-short-name }-দ্বাৰা নিৰীক্ষিত কেইটামান এক্সটেনশ্যনৰ অনুমতি আছে।
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = কিছুমান এক্সটেনশ্যনৰ অনুমতি নাই

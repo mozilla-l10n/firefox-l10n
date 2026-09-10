@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Добавить «{ $addon-name }»
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Прогресс: шаг { $current } из { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -198,11 +192,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Закрепите { -brand-short-name } на панели задач и в меню «Пуск»
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Начните с браузера, поддерживаемого некоммерческой организацией. Мы защищаем вашу приватность, пока вы путешествуете по Интернету.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -232,57 +221,10 @@ mr2022-onboarding-set-default-subtitle = Используйте браузер, 
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Наша последняя версия создана специально для вас, что делает путешествия по Интернету проще, чем когда-либо. Она наполнена функциями, которые, как мы думаем, вам понравятся.
 mr2022-onboarding-get-started-primary-button-label = Настроить за считанные секунды
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Молниеносная настройка
-mr2022-onboarding-import-subtitle = Настройте { -brand-short-name } так, как вам нравится. Добавьте свои закладки, пароли и многое другое из старого браузера.
 mr2022-onboarding-import-primary-button-label-no-attribution = Импортировать из предыдущего браузера
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Выберите цвет, который вас вдохновляет
-mr2022-onboarding-colorway-subtitle = Независимые голоса могут изменить культуру.
-mr2022-onboarding-colorway-primary-button-label-continue = Установить и продолжить
-mr2022-onboarding-existing-colorway-checkbox-label = Сделайте { -firefox-home-brand-name(case: "accusative") } красочной домашней страницей
-mr2022-onboarding-colorway-label-default = По умолчанию
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Текущие цвета { -brand-short-name }
-mr2022-onboarding-colorway-description-default = <b>Использовать мои текущие цвета { -brand-short-name }.</b>
-mr2022-onboarding-colorway-label-playmaker = Создатель игр
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Создатель игр (красный)
-mr2022-onboarding-colorway-description-playmaker = <b>Вы — Создатель игр.</b> Вы создаёте возможности победить и помогаете всем вокруг поднять их игру на новый уровень.
-mr2022-onboarding-colorway-label-expressionist = Экспрессионист
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Экспрессионист (жёлтый)
-mr2022-onboarding-colorway-description-expressionist = <b>Вы — Экспрессионист.</b> Вы видите мир иначе, а ваши творения поражают остальных.
-mr2022-onboarding-colorway-label-visionary = Провидец
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Провидец (зелёный)
-mr2022-onboarding-colorway-description-visionary = <b>Вы — Провидец.</b> Вы ставите под сомнение статус-кво и побуждаете остальных представлять лучшее будущее.
-mr2022-onboarding-colorway-label-activist = Активист
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Активист (синий)
-mr2022-onboarding-colorway-description-activist = <b>Вы — Активист.</b> Вы делаете мир лучше и ведёте за собой остальных.
-mr2022-onboarding-colorway-label-dreamer = Мечтатель
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Мечтатель (фиолетовый)
-mr2022-onboarding-colorway-description-dreamer = <b>Вы — Мечтатель.</b> Вы верите, что удача любит смелых, и вдохновляете других быть отважнее.
-mr2022-onboarding-colorway-label-innovator = Новатор
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Новатор (оранжевый)
-mr2022-onboarding-colorway-description-innovator = <b>Вы — Новатор.</b> Вы везде видите возможности и влияете на жизнь всех вокруг.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Переходите с ноутбука на телефон и обратно
-mr2022-onboarding-mobile-download-subtitle = Возьмите вкладки с одного устройства, и продолжайте с того места, на котором остановились, на другом. Также синхронизируйте свои закладки и пароли везде, где вы используете { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Отсканируйте QR-код, чтобы скачать { -brand-product-name } для мобильных устройств, или <a data-l10n-name="download-label">отправьте себе ссылку для скачивания.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Отсканируйте QR-код, чтобы скачать { -brand-product-name } на мобильное устройство.
 
@@ -335,15 +277,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Рукопожатие светлокожей и темнокожей рук
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Вид на закат через окно с лисой и комнатным растением на подоконнике
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Баллончик с краской рисует красочный коллаж из зелёного глаза, оранжевой обуви, красного баскетбольного мяча, фиолетовых наушников, синего сердца и жёлтой короны
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Лиса на экране машет рукой — к ноутбуку подключена мышь.
 onboarding-device-migration-title = С возвращением!
-onboarding-device-migration-subtitle = Войдите в свой { -fxaccount-brand-name(case: "accusative") }, чтобы перенести закладки, пароли и историю на ваше новое устройство.
 onboarding-device-migration-subtitle2 = Войдите в свой аккаунт, чтобы перенести свои закладки, пароли и историю на новое устройство.
 onboarding-device-migration-primary-button-label = Войти
 
@@ -460,15 +399,12 @@ tab-groups-onboarding-feature-callout-title = Попробуйте группы 
 tab-groups-onboarding-feature-callout-subtitle = Наведите порядок, перетащив одну вкладку на другую, чтобы создать свою первую группу.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Найдите свои группы вкладок в меню «Список всех вкладок» в любое время.
-tab-groups-onboarding-create-group-title-2 = Найдите здесь свои группы вкладок в любое время.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Находите свои группы, совершая их поиск в адресной строке.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Когда вы закрываете группу вкладок, вы можете в любой момент открыть её из меню «Список всех вкладок».
-tab-groups-onboarding-saved-groups-title-2 = Когда вы закрываете группу вкладок, вы можете в любое время восстановить её здесь.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Найдите свои закрытые группы, выполнив поиск в адресной строке.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Открывайте снова ваши группы вкладок из меню «Список всех вкладок» в любое время.
-tab-groups-onboarding-session-restore-title = Восстанавливайте здесь ваши группы вкладок в любое время.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

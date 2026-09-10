@@ -16,20 +16,9 @@ account-verify = { $email } ಖಾತೆಯನ್ನು ಪರಿಶೀಲಿಸ
 account-send-to-all-devices-titlecase = ಎಲ್ಲಾ ಸಾಧನಗಳಿಗೆ ಕಳುಹಿಸು
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = ಯಾವುದೇ ಸಾಧನಗಳನ್ನು ಜೋಡಿಸಲಾಗಿಲ್ಲ
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = ಟ್ಯಾಬ್‌ಗಳನ್ನು ಕಳುಹಿಸುವುದರ ಬಗ್ಗೆ ತಿಳಿದುಕೊಳ್ಳಿ…
-# Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = ಮತ್ತೊಂದು ಸಾಧನಕ್ಕೆ ಸಂಪರ್ಕವನ್ನು ಸಾಧಿಸು…
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = ಖಾತೆ ದೃಢಪಡಿಸಲಾಗಿಲ್ಲ
-account-send-tab-to-device-verify = ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಪರಿಶೀಲಿಸಿ…
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.

@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Activează Warp, un proiect care îm
 experimental-features-ime-search =
     .label = Bară de adrese: afișează rezultatele în timpul compunerii IME
 experimental-features-ime-search-description = Un IME (Editor metodă de intrare) este un instrument care permite introducerea de simboluri complexe, cum ar fi cele utilizate în limbile est-asiatice sau indice, utilizând o tastatură standard. Activarea acestui experiment va menține deschis panoul din bara de adrese, afișând rezultatele căutării și sugestii, în timp ce folosești IME pentru introducerea de text. Reține că IME poate afișa un panou care acoperă rezultatele din bara de adrese; prin urmare, această preferință este sugerată doar pentru IME care nu utilizează acest tip de panou.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Imagine-în-imagine: deschidere automată la schimbarea filei
-experimental-features-auto-pip-description = Activează imagine-în-imagine pe videoclipuri active la schimbarea filei.
 experimental-features-group-developer-tools =
     .label = Instrumente de dezvoltare
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Productivitate
 experimental-features-group-newtab-widgets =
     .label = Widgeturi pe { -firefox-home-brand-name }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Parole în bara laterală
-experimental-features-contextual-password-manager-description = Accesează-ți parolele direct din bara laterală. Gata cu căutatul peste tot și resetarea parolelor când încerci să intri într-un cont. Ca să folosești funcționalitatea, selectează parole în bara laterală. Apoi du-te în setările generale și, sub aspectul browserului, selectează afișarea barei laterale. Apoi, personalizează bara laterală selectând parolele. Dacă o încerci, <a data-l10n-name="connect">zi-ne și nouă ce părere ai</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Alege o imagine de fundal sau o culoare personalizată pentru Fila nouă

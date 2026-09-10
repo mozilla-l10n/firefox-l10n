@@ -11,7 +11,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Inapakua kisasisho —<label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Inapakua kisasisho —{ $transfer }
 
@@ -22,7 +21,6 @@ settings-update-applying =
     .label = Inatekeleza kisasisho…
 update-failed = Imeshindwa kusasisha. <label data-l10n-name="failed-link">Pakua toleo jipya</label>
 update-failed-main = Imeshindwa kusasisha. <a data-l10n-name="failed-link-main">Pakua toleo jipya</a>
-update-adminDisabled = Visasisho vimelemazwa na msimamizi wa mfumo wako
 update-noUpdatesFound = { -brand-short-name } imesasishwa
 settings-update-no-updates-found =
     .label = { -brand-short-name } imesasishwa
@@ -50,5 +48,3 @@ warningDesc-version = { -brand-short-name } ni ya kujaribia na inaweza kuwa si t
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ni <label data-l10n-name="community-exp-creditsLink">jamii ya ulimwengu</label> kufanya kazi pamoja ili kuweka Wavuti wazi, kwa umma na ufikiaji kwa wote.
 community-2 = { -brand-short-name } imeundwa na <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a <label data-l10n-name="community-creditsLink">jamii ya ulimwengu</label> kufanya kazi pamoja ili kuweka Wavuti wazi, kwa umma na ufikiaji kwa wote.
 bottomLinks-license = Maelezo ya Leseni
-bottomLinks-rights = Haki za Mtumiaji wa Hatima
-bottomLinks-privacy = Sera ya Faragha

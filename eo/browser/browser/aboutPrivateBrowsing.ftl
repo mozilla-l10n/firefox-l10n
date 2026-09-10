@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Malfermi privatan fenestron
     .accesskey = p
 about-private-browsing-search-placeholder = Serĉi en la reto
-about-private-browsing-info-title = Vi estas en privata fenestro
 about-private-browsing-search-btn =
     .title = Serĉi en la reto
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Serĉi per { $engine } aŭ tajpi adreson
 about-private-browsing-handoff-text-no-engine = Serĉi aŭ tajpi adreson
 about-private-browsing-not-private = Vi ne estas nun en privata fenestro.
-about-private-browsing-info-description-private-window = Privata fenestro: { -brand-short-name } viŝos vian serĉan kaj retuman historion kiam vi fermos ĉiujn privatajn fenestrojn, sed tio ne igas vin anonima.
-about-private-browsing-info-description-simplified = { -brand-short-name } viŝos vian serĉan kaj retuman historion kiam vi fermos ĉiujn privatajn fenestrojn, sed tio ne igas vin anonima.
-about-private-browsing-learn-more-link = Pli da informo
 about-private-browsing-hide-activity = Kaŝu viajn agojn kaj pozicion, kie ajn vi retumas
 about-private-browsing-get-privacy = Protektu vian privatecon kie ajn vi retumas
 about-private-browsing-hide-activity-1 = Kaŝu vian retumon kaj lokon per { -mozilla-vpn-brand-name }. Per simpla alklako vi kreos sekuran konekton, eĉ en publika sendrata reto.
@@ -29,8 +25,6 @@ about-private-browsing-prominent-cta = Protektu vian privatecon per { -mozilla-v
 about-private-browsing-focus-promo-cta = Elŝuti { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: privata retumo ie ajn
 about-private-browsing-focus-promo-text = Nia apo dediĉita al privata retumo viŝas vian historion kaj kuketojn post ĉiu uzo.
-about-private-browsing-focus-promo-header-b = Retumu private ankaŭ en via telefono
-about-private-browsing-focus-promo-text-b = Uzu { -focus-brand-name } por tiuj privataj serĉoj, kiujn vi ne volas havigi al la ĉefa retumilo de via poŝaparato.
 about-private-browsing-focus-promo-header-c = Altgrada privateco en viaj poŝaparatoj
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } viŝas vian historion post ĉiu uzo, dum ĝi cetere blokas reklamojn kaj spurilojn.
 # This string is the title for the banner for search engine selection
@@ -66,11 +60,6 @@ about-private-browsing-relay-promo-link-text = Provi retpoŝtajn maskojn
 
 ## Strings used in a promotion message for cookie banner reduction
 
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = Kuketaj anoncoj, for!
-about-private-browsing-cookie-banners-promo-button = Redukti kuketajn anoncojn
-about-private-browsing-cookie-banners-promo-message = Permesi al { -brand-short-name } aŭtomate respondi por vi kuketajn ŝprucaĵojn, tiel ke vi povas sendistre plu retumi. { -brand-short-name } rifuzos ĉiujn petojn, se tio eblas.
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } zorgas pri kuketaj anoncoj por vi

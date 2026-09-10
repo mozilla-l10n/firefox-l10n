@@ -10,12 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = { $extension } එක් කරන්නද?
-webext-perms-header-with-perms = { $extension } එක් කරන්නද? මෙම අවසර දිගුවට තිබේ:
-webext-perms-header-unsigned = { $extension } එක් කරන්නද? මෙම දිගුව සත්‍යාපනය කර නැත. අනිෂ්ට දිගු මගින් ඔබගේ පෞද්ගලික තොරතුරු සොරකම් කිරීමට හෝ ඔබගේ පරිගණකය බිඳ හෙළීමට හැකිය. ඔබ මූලාශ්‍රය විශ්වාස කරන්නේ නම් පමණක් මෙය එක් කරන්න.
-webext-perms-header-unsigned-with-perms = { $extension } එක් කරන්නද? මෙම දිගුව සත්‍යාපනය කර නැත. අනිෂ්ට දිගු මගින් ඔබගේ පෞද්ගලික තොරතුරු සොරකම් කිරීමට හෝ ඔබගේ පරිගණකය බිඳ හෙළීමට හැකිය. ඔබ මූලාශ්‍රය විශ්වාස කරන්නේ නම් පමණක් මෙය එක් කරන්න. මෙම දිගුවට ලැබෙන අවසර:
 webext-perms-sideload-header = { $extension } එක් කෙරිණි
-webext-perms-optional-perms-header = { $extension } අතිරේක අවසර ඉල්ලා සිටියි.
 
 ##
 
@@ -31,9 +26,6 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = අවලංගු
     .accesskey = C
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } යාවත්කාල වී ඇත. යාවත්කාලීන අනුවාදය ස්ථාපනයට පෙර ඔබ නව අවසර අනුමත කළ යුතුය. “අවලංගු” යන්න තේරුවහොත් ඔබගේ දිගුවේ වත්මන් අනුවාදය පවත්වාගෙන යනු ඇත. මෙම දිගුවට තිබෙන අවසර:
 webext-perms-update-accept =
     .label = යාවත්කාල
     .accesskey = U

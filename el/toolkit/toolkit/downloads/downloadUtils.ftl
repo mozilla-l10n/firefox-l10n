@@ -92,11 +92,5 @@ download-utils-time-left-single = Απομένουν { $time }
 download-utils-time-left-double = Απομένουν { $time1 } { $time2 }
 download-utils-time-few-seconds = Απομένουν λίγα δευτερόλεπτα
 download-utils-time-unknown = Άγνωστος υπολειπόμενος χρόνος
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = Πηγή { $scheme }
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = τοπικό αρχείο
 # Displayed time for files finished yesterday
 download-utils-yesterday = Χθες

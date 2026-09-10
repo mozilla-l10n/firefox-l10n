@@ -9,6 +9,3 @@ all-tabs-menu-new-user-context =
     .label = गोदान खनथेनार टेब
 all-tabs-menu-hidden-tabs =
     .label = दोनखोमानाय टेबफोर
-all-tabs-menu-manage-user-context =
-    .label = खनथेनारफोरखौ सामलाय
-    .accesskey = O

@@ -16,16 +16,3 @@ recently-closed-menu-reopen-all-windows = Atkal atvērt visus logus
 
 recently-closed-panel-reopen-all-tabs = Atkal atvērt visas cilnes
 recently-closed-panel-reopen-all-windows = Atkal atvērt visus logus
-
-##
-
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [zero] { $winTitle } (un { $tabCount } cilni)
-        [one] { $winTitle } (un { $tabCount } cilnes)
-       *[other] { $winTitle } (un { $tabCount } cilnes)
-    }

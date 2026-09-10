@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = لە پەنجەرەیەکی تایبەت بیکەرەوە
     .accesskey = پ
 about-private-browsing-search-placeholder = بە وێبدا بگەڕێ
-about-private-browsing-info-title = تۆ لە پەنجەرەی تایبەتدایت
 about-private-browsing-search-btn =
     .title = بە وێبدا بگەڕێ
 # Variables
@@ -19,7 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = بگەڕێ بەهۆی { $engine } یان ناونیشان بنووسە
 about-private-browsing-handoff-text-no-engine = بگەڕێ یان ناونیشان بنووسە
 about-private-browsing-not-private = تۆ ئێستا لە پەنجەرەی تایبەت دا نیت.
-about-private-browsing-learn-more-link = زیاتر بزانە
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

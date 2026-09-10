@@ -62,19 +62,12 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Синхронизирайте отметките си навсякъде.
-cfr-doorhanger-bookmark-fxa-body = Чудесно откритие! Сега не оставайте без тази отметка на мобилните си устройства. Започнете с { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = Чудесно откритие! Сега не оставайте без тази отметка на мобилните си устройства. Започнете с профил.
 cfr-doorhanger-bookmark-fxa-link-text = Синхронизиране на отметките сега…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Бутон за затваряне
     .title = Затваряне
 fxa-adoption-primary-button-label = Регистриране
-
-## Protections panel
-
-cfr-protections-panel-header = Разглеждайте без да сте следени
-cfr-protections-panel-body = Пазете вашите данни лични. { -brand-short-name } ви предпазва от най-разпространените проследявания, които дебнат действията ви онлайн.
-cfr-protections-panel-link-text = Научете повече
 
 ## What's New toolbar button and panel
 
@@ -169,42 +162,8 @@ mr2022-background-update-toast-primary-button-label = Отворете { -brand-
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Напомни ми по-късно
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Опитайте
-    .accesskey = й
-firefoxview-cfr-secondarybutton = Не сега
-    .accesskey = Н
-firefoxview-cfr-header-v2 = Продължете бързо, откъдето сте спрели
-firefoxview-cfr-body-v2 = Получете обратно скоро затворените раздели плюс безпроблемно прескачане между устройства с { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Кажете здравей на { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Искате ли онзи отворен раздел от телефона си? Вземете го. Имате ли нужда от страницата, която току-що посетихте? Пуф, завръща се с { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Вижте как работи
-firefoxview-spotlight-promo-secondarybutton = Пропускане
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Изберете цветова комбинация
-    .accesskey = ц
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Оцветете четеца с изключителни нюанси на { -brand-short-name }, вдъхновени от гласове, променили културата.
-colorways-cfr-header-28days = Цветовите комбинации на Independent Voices изтичат на 16 януари
-colorways-cfr-header-14days = Цветовите комбинации на Independent Voices изтичат след две седмици
-colorways-cfr-header-7days = Цветовите комбинации на Independent Voices изтичат тази седмица
-colorways-cfr-header-today = Цветовите комбинации на Independent Voices изтичат днес
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Разрешаване на { -brand-short-name } да отхвърля банери за бисквитки?
-cfr-cbh-body = { -brand-short-name } може автоматично да отхвърли много заявки за банери за бисквитки.
-cfr-cbh-confirm-button = Отхвърляне на банери за бисквитки
-    .accesskey = О
-cfr-cbh-dismiss-button = Не сега
-    .accesskey = Н
 cookie-banner-blocker-onboarding-header = { -brand-short-name } току-що отхвърли банер за бисквитка
 cookie-banner-blocker-onboarding-body = По-малко разсейване, по-малко проследяващи бисквитки на тази страница.
 cookie-banner-blocker-onboarding-learn-more = Научете повече

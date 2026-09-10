@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Paltooje
     .style = min-width: 45em
+    .title = Paltooje
 permissions-close-key =
     .key = w
 permissions-address = Ñiiɓirɗe lowre
@@ -57,36 +57,22 @@ permissions-invalid-uri-label = Tiiɗno naatnu innde koɗol moƴƴol
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
+    .style = { permissions-window2.style }
     .title = Paltooje - Kuukiije kam e Keɓe Lowre
-    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Aɗa waawi hollitde hol lowe geese jamiraaɗe daañaa huutoraade kuuke e keɓe lowre. Tappu ñiiɓirde lowre njiɗ-ɗaa toppitaade ndee, ndobo-ɗaa e Faddo, Yamir wonande rogere walla Yamir.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Lowe Jamiraaɗe - Cuppitte
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Aɗa waawi joopaade hol lowe geese njamiraa yoo uddit kenorɗe cuppitte. Tappu ñiiɓirde laaɓtunde lowre nde njiɗ-ɗaa yamirde ndee, ndobo-ɗaa Yamir.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Paltooje - Ceŋorɗe Danndaaɗi
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Baccooje e ɗeeɗoo lowe ndanndoytaake
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Lowe Jamiraaɗe - Aafgol ɓeyditte
     .style = { permissions-window2.style }
+    .title = Lowe Jamiraaɗe - Aafgol ɓeyditte
 permissions-exceptions-addons-desc = Aɗa waawi joopaade hol lowe geese njamiraa yoo aaf ɓeyditte. Tappu ñiiɓirde laaɓtunde lowre nde njiɗ-ɗaa yamirde ndee, ndobo-ɗaa Yamir.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Teelte - Jamirooje Tintine
     .style = { permissions-window2.style }
+    .title = Teelte - Jamirooje Tintine
 permissions-site-notification-desc = Ɗee lowe geese ɗaɓɓii neldude ma tintine. Aɗa waawi suɓaade hol lowe geese njamiraa neldude ma tintine. Aɗa waawi kadi daaƴde ɗaɓɓitte naamnotooɗe yamirde tintine.
 permissions-site-notification-disable-label =
     .label = Daaƴ ɗaɓɓitanɗe kese naamnotooɗe yamirde tintine
@@ -95,8 +81,8 @@ permissions-site-notification-disable-desc = Ɗuum maa haɗ kala lowre nde limta
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Teelte - Jamirooje Nokkuure
     .style = { permissions-window2.style }
+    .title = Teelte - Jamirooje Nokkuure
 permissions-site-location-desc = Ɗee lowe ɗaɓɓitii heɓde nokkuure maa. Aɗa waawi suɓaade hol lowe njamiraa yoo keɓ nokkuure maa. Aɗa waawi kadi daaƴde ɗaɓɓitte kese naamnotooɗe heɓde nokkuure maa.
 permissions-site-location-disable-label =
     .label = Daaƴ ɗaɓɓitanɗe kese naamnotooɗe yettaade nokku maa
@@ -105,8 +91,8 @@ permissions-site-location-disable-desc = Ɗuum maa haɗ kala lowre nde limtaaka 
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Teelte - Jamirooje Kameraa
     .style = { permissions-window2.style }
+    .title = Teelte - Jamirooje Kameraa
 permissions-site-camera-desc = Ɗee lowe ɗaɓɓitii heɓde kameraa maa. Aɗa waawi suɓaade hol lowe njamiraa yoo keɓ kameraa maa. Aɗa waawi kadi daaƴde ɗaɓɓitte kese naamnotooɗe heɓde kameraa maa.
 permissions-site-camera-disable-label =
     .label = Daaƴ ɗaɓɓitte kese naamnotooɗe heɓde kameraa maa
@@ -115,8 +101,8 @@ permissions-site-camera-disable-desc = Ɗuum maa haɗ kala lowre nde limtaaka do
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Teelte - Jamirooje Mikkoroo
     .style = { permissions-window2.style }
+    .title = Teelte - Jamirooje Mikkoroo
 permissions-site-microphone-desc = Ɗee lowe ɗaɓɓitii yettaade mikoroo maa. Aɗa waawi suɓaade hol lowe njamiraa yoo njetto mikoroo maa. Aɗa waawi kadi daaƴde ɗaɓɓitte kese naamnotooɗe yettaade mikoroo maa.
 permissions-site-microphone-disable-label =
     .label = Daaƴ ɗaɓɓitte kese naamnotooɗe yettaade mikoroo maa

@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = …ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹ
 sync-disconnect-dialog-title2 = ਡਿਸ-ਕਨੈਕਟ ਕਰਨਾ ਹੈ?
 sync-disconnect-dialog-body = { -brand-product-name } ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਸਿੰਕ ਕਰਨਾ ਤਾਂ ਰੋਕ ਦੇਵਗਾ, ਪਰ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕੀਤੇ ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ ਨਹੀਂ ਜਾਵੇਗਾ।
 sync-disconnect-dialog-button = ਡਿਸ-ਕਨੈਕਟ ਕਰੋ
-fxa-signout-dialog2-title = { -fxaccount-brand-name } ਵਿੱਚੋਂ ਸਾਈਨ-ਆਉਟ ਕਰਨਾ ਹੈ?
 fxa-signout-dialog-title2 = ਆਪਣੇ ਖਾਤੇ ਵਿੱਚੋਂ ਸਾਈਨ ਆਉਟ ਕਰਨਾ ਹੈ?
 fxa-signout-dialog-body = ਸਿੰਕ ਕੀਤਾ ਡਾਟਾ ਤੁਹਾਡੇ ਖਾਤੇ ਵਿੱਚ ਰਹੇਗਾ।
 fxa-signout-dialog2-button = ਸਾਈਨ ਆਉਟ ਕਰੋ
@@ -41,14 +40,6 @@ fxviewtabrow-send-to-mobile-not-verified = ਖਾਤਾ ਤਸਦੀਕ ਨਹ�
 fxviewtabrow-send-to-mobile-verify-account = ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰੋ
 fxa-menu-send-to-mobile-turn-on-sync = ਟੈਬਾਂ ਨੂੰ ਭੇਜਣ ਲਈ ਸਿੰਕ ਨੂੰ ਚਾਲੂ ਕਰੋ
 fxa-menu-send-to-mobile-connect-device = ਟੈਬਾਂ ਨੂੰ ਭੇਜਣ ਲਈ ਕਿਸੇ ਡਿਵਾਈਸ ਨੂੰ ਕਨੈਕਟ ਕਰੋ
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] ਟੈਬ ਡਿਵਾਈਸ 'ਤੇ ਭੇਜੋ
-           *[other] { $tabCount } ਟੈਬਾਂ ਡਿਵਾਈਸ 'ਤੇ ਭੇਜੋ
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = …ਡਿਵਾਈਸ ਸਿੰਕ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ

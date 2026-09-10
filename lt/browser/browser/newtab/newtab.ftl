@@ -6,13 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Nauja kortelė
-newtab-settings-button =
-    .title = Tinkinkite savo naujos kortelės puslapį
-newtab-personalize-icon-label =
-    .aria-label = Tinkinti naują kortelę
-    .title = Tinkinti naują kortelę
-newtab-personalize-dialog-label =
-    .aria-label = Tinkinti
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -88,7 +81,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Pridėti ieškyklę
 newtab-topsites-add-shortcut-header = Naujas leistukas
-newtab-topsites-edit-topsites-header = Redaguoti mėgstamą svetainę
 newtab-topsites-edit-shortcut-header = Keisti leistuką
 newtab-topsites-title-label = Pavadinimas
 newtab-topsites-title-input =
@@ -126,20 +118,12 @@ newtab-topsite-sponsored = Remiama
 newtab-menu-section-tooltip =
     .aria-label = Atverti meniu
     .title = Atverti meniu
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Pašalinti
-    .title = Pašalinti
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Atverti kontekstinį { $title } meniu
     .title = Atverti meniu
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Redaguoti šią svetainę
-    .title = Redaguoti šią svetainę
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -150,22 +134,7 @@ newtab-menu-dismiss = Paslėpti
 newtab-menu-pin = Įsegti
 newtab-menu-unpin = Išsegti
 newtab-menu-delete-history = Pašalinti iš istorijos
-newtab-menu-save-to-pocket = Įrašyti į „{ -pocket-brand-name }“
-newtab-menu-delete-pocket = Trinti iš „{ -pocket-brand-name }“
-newtab-menu-archive-pocket = Archyvuoti per „{ -pocket-brand-name }“
 newtab-menu-show-privacy-info = Mūsų rėmėjai ir jūsų privatumas
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Gerai
-newtab-privacy-modal-button-manage = Tvarkykite remiamo turinio nuostatas
-newtab-privacy-modal-header = Jūsų privatumas yra svarbus.
-newtab-privacy-modal-paragraph-2 =
-    Mes ne tik pateikiame įtraukiančias istorijas, bet ir rodome susijusį,
-    gerai vertinamą turinį iš atrinktų rėmėjų. Būkite ramūs – <strong>jūsų naršymo
-    duomenys niekada neiškeliauja už jūsų asmeninės „{ -brand-product-name }“ ribų</strong> – mes jų nematome,
-    kaip ir nemato mūsų rėmėjai.
-newtab-privacy-modal-link = Sužinokite, kaip naujoje kortelėje veikia privatumas
 
 ##
 
@@ -219,39 +188,16 @@ newtab-label-source-read-time = { $source } · { $timeToRead } min
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Pašalinti skiltį
-newtab-section-menu-collapse-section = Suskleisti skiltį
-newtab-section-menu-expand-section = Išplėsti skiltį
-newtab-section-menu-manage-section = Tvarkyti skiltį
-newtab-section-menu-manage-webext = Tvarkyti priedą
-newtab-section-menu-add-topsite = Pridėti lankomą svetainę
-newtab-section-menu-add-search-engine = Pridėti ieškyklę
-newtab-section-menu-move-up = Pakelti
-newtab-section-menu-move-down = Nuleisti
 newtab-section-menu-privacy-notice = Privatumo pranešimas
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Suskleisti skiltį
-newtab-section-expand-section-label =
-    .aria-label = Išplėsti skiltį
 
 ## Section Headers.
 
 newtab-section-header-topsites = Lankomiausios svetainės
 newtab-section-header-recent-activity = Paskiausia veikla
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Rekomenduoja „{ $provider }“
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Pradėkite naršyti, o mes čia pateiksime puikių straipsnių, vaizdo įrašų bei kitų tinklalapių, kuriuose neseniai lankėtės ar įtraukėte į adresyną.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Viską perskaitėte. Užsukite vėliau, norėdami rasti daugiau gerų straipsnių iš „{ $provider }“. Nekantraujate? Pasirinkite populiarią temą, norėdami rasti daugiau puikių straipsnių saityne.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -262,17 +208,6 @@ newtab-discovery-empty-section-topstories-loading = Įkeliama…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Oi! Mes beveik įkėlėme šį skyrių, tačiau ne visai.
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Populiarios temos:
-newtab-pocket-new-topics-title = Norite dar daugiau straipsnių? Peržvelkite šias populiarias temas iš „{ -pocket-brand-name }“
-newtab-pocket-more-recommendations = Daugiau rekomendacijų
-newtab-pocket-learn-more = Sužinoti daugiau
-newtab-pocket-cta-button = Gauti „{ -pocket-brand-name }“
-newtab-pocket-cta-text = Išsaugokite patinkančius straipsnius į „{ -pocket-brand-name }“, bei sužadinkite savo mintis stulbinančiomis istorijomis.
-newtab-pocket-pocket-firefox-family = „{ -pocket-brand-name }“ yra „{ -brand-product-name }“ šeimos dalis
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -281,8 +216,6 @@ newtab-error-fallback-refresh-link = Pabandykite iš naujo įkelti tinklalapį.
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Leistukai
-newtab-custom-shortcuts-subtitle = Jūsų įrašytos arba lankomos svetainės
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Jūsų įrašytos arba lankomos svetainės
@@ -299,21 +232,6 @@ newtab-custom-row-selector2 =
             [few] { $num } eilutės
            *[other] { $num } eilučių
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } eilutė
-        [few] { $num } eilutės
-       *[other] { $num } eilučių
-    }
-newtab-custom-sponsored-sites = Rėmėjų leistukai
-newtab-custom-pocket-title = Rekomenduoja „{ -pocket-brand-name }“
-newtab-custom-pocket-subtitle = Išskirtinis turinys, kuruojamas „{ -pocket-brand-name }“, kuri yra „{ -brand-product-name }“ šeimos dalis
-newtab-custom-pocket-sponsored = Rėmėjų straipsniai
-newtab-custom-recent-title = Paskiausia veikla
-newtab-custom-recent-subtitle = Paskiausiai lankytos svetainės ir žiūrėtas turinys
-newtab-custom-close-button = Užverti
 newtab-custom-settings = Keisti daugiau nuostatų
 
 ## Strings for the Clock widget

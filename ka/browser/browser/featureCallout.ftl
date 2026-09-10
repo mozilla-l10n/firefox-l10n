@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = ცვალეთ მოწყობი
 callout-firefox-view-tab-pickup-subtitle = ერთბაშად გამოიყოლეთ გახსნილი ჩანართები თქვენი ტელეფონიდან და იხილეთ აქ დროის დაუკარგავად
 callout-firefox-view-recently-closed-title = დაიბრუნეთ დახურული ჩანართები წამიერადვე
 callout-firefox-view-recently-closed-subtitle = ყველა თქვენი დახურული ჩანართი ჯადოსნურად გამოჩნდება აქ. აღარ ინერვიულოთ შემთხვევით დახურულ გვერდებზე.
-callout-firefox-view-colorways-title = შეაფერადეთ
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = შეარჩიეთ ახალი შეფერილობა. გთავაზობთ მხოლოდ { -brand-product-name }.
-callout-firefox-view-colorways-reminder-title = გაეცანით ჩვენს ახალ შეფერილობებს
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = შეაფერადეთ თქვენი ბრაუზერი ამ გამორჩეული შეფერილობებით, რომლებიც შთაგონებულია დამოუკიდებელი ხმებით. გთავაზობთ მხოლოდ { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

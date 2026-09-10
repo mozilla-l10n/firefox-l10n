@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Ga'nin riña 'ngo ventanahuìi
     .accesskey = h
 about-private-browsing-search-placeholder = Nanà'uì' Web
-about-private-browsing-info-title = Riña 'ngo bentanâ huìi nunt
 about-private-browsing-search-btn =
     .title = Nānà\'huì\' riña web
 # Variables
@@ -19,7 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Nānà’huì’ ngà { $engine } nej si gāchrūn direksiûn
 about-private-browsing-handoff-text-no-engine = Gāchrūn nuguan' ruhuât nanà'huìt
 about-private-browsing-not-private = Se riña ventana hua huìi nut akuan' nï
-about-private-browsing-learn-more-link = Gāhuin chrūn doj
 about-private-browsing-hide-activity = Gāchrī huì sa ‘hiát así danè’ huājt, danè’ nānj gahuin aché nunt
 about-private-browsing-get-privacy = Gīrì’ sa nārán mā’ânt da’ gāchē nunt danè’ garan’ ruhuât
 about-private-browsing-focus-promo-cta = Nādunïnj { -focus-brand-name }

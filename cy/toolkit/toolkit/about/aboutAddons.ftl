@@ -153,15 +153,10 @@ addon-sitepermission-host = Caniatâd Gwefan { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Mae pob ychwanegyn wedi eu hanalluogi gan y modd diogel.
-extensions-warning-check-compatibility = Mae gwirio cydnawsedd ychwanegion wedi ei analluogi. Efallai fod gennych ychwanegion anghydnaws.
-extensions-warning-safe-mode2 =
-    .message = Mae pob ychwanegyn wedi eu hanalluogi gan y modd diogel.
 extensions-warning-check-compatibility2 =
     .message = Mae gwirio cydnawsedd ychwanegion wedi ei analluogi. Efallai fod gennych ychwanegion anghydnaws.
 extensions-warning-check-compatibility-button = Galluogi
     .title = Galluogi gwirio cydnawsedd ychwanegion
-extensions-warning-update-security = Mae gwirio diogelwch diweddariad wedi ei analluogi. Efallai eich bod o dan fygythiad gan ddiweddariad.
 extensions-warning-update-security2 =
     .message = Mae gwirio diogelwch diweddariad wedi ei analluogi. Efallai eich bod o dan fygythiad gan ddiweddariad.
 extensions-warning-update-security-button = Galluogi
@@ -237,10 +232,6 @@ shortcuts-duplicate = Llwybr byr dyblyg
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = Mae { $shortcut } yn cael ei ddefnyddio fel llwybr byr mewn mwy nag un achos. Gall llwybrau byr dyblyg achosi ymddygiad annisgwyl.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = Mae { $shortcut } yn cael ei ddefnyddio fel llwybr byr mewn mwy nag un achos. Gall llwybrau byr dyblyg achosi ymddygiad annisgwyl.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -264,17 +255,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Mae estyniadau a themâu yn debyg i apiau ar gyfer eich porwr, ac maen nhw'n gadael i chi
-    diogelu cyfrineiriau, llwytho fideos i lawr, dod o hyd i gytundebau, rhwystro hysbysebion blin, newid
-    golwg eich porwr a llawer mwy. Mae'r rhaglenni meddalwedd bach hyn fel arfer yn cael eu datblygu gan drydydd partïon. Dyma detholiad y mae { -brand-product-name } <a data-l10n-name="learn-more-trigger">
-    yn eu hargymell </a> am ddiogelwch, perfformiad, a swyddogaethau gwell.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    Mae rhai o'r argymhellion hyn wedi'u dewis yn benodol ar eich cyfer chi. Maen nhw'n seiliedig ar 
-    estyniadau eraill rydych chi wedi'u gosod, eich proffil dewisiadau, a'ch ystadegau defnydd.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -366,16 +346,9 @@ addon-detail-last-updated-label = Diweddarwyd Diwethaf
 addon-detail-homepage-label = Tudalen Cartref
 addon-detail-rating-label = Graddio
 # Message for add-ons with a staged pending update.
-install-postponed-message = Bydd yr estyniad hwn yn cael ei ddiweddaru pan fydd { -brand-short-name } yn ailgychwyn.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Bydd yr estyniad hwn yn cael ei ddiweddaru pan fydd { -brand-short-name } yn ailgychwyn.
 install-postponed-button = Diweddaru Nawr
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Graddiwyd { NUMBER($rating, maximumFractionDigits: 1) } allan o 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -397,9 +370,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = Mae <span data-l10n-name="addon-name">{ $addon }</span> wedi ei dynnu.
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = Mae { $addon } wedi ei dynnu.
 pending-uninstall-undo-button = Dadwneud
@@ -416,11 +386,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Caniatáu mewn ffenestri preifat
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Caniatáu mewn ffenestri preifat
 addon-detail-private-browsing-help = Pan mae'n cael ei ganiatáu, bydd yr estyniad ar gael i'ch gweithgareddau ar-lein tra byddwch yn pori'n breifat. <a data-l10n-name="learn-more"> Gwybod rhagor</a>
 addon-detail-private-browsing-allow = Caniatáu
@@ -447,17 +412,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = Dim ond estyniadau sy'n cwrdd â'n safonau ar gyfer diogelwch a pherfformiad y mae { -brand-product-name } yn eu hargymell
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Estyniad swyddogol wedi'i adeiladu gan Mozilla. Mae'n cydfynd â safonau diogelwch a pherfformiad
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Mae'r estyniad hwn wedi'i adolygu i fodloni ein safonau ar gyfer diogelwch a pherfformiad
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -487,9 +441,6 @@ addon-permissions-heading = Caniatâd
 addon-permissions-empty2 = Nid oes angen unrhyw ganiatâd ar gyfer yr estyniad hwn.
 addon-permissions-required-label = Angenrheidiol:
 addon-permissions-optional-label = Dewisol:
-addon-permissions-empty = Nid oes angen unrhyw ganiatâd ar yr estyniad hwn
-addon-permissions-required = Caniatâd angenrheidiol y swyddogaethau craidd:
-addon-permissions-optional = Caniatâd dewisol ar gyfer y swyddogaethau ychwanegol:
 addon-permissions-learnmore = Darllen rhagor am ganiatâd
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -530,25 +481,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = Mae { $name } yn anghydnaws â { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = Mae { $name } yn anghydnaws â { -brand-short-name } { $version }.
-details-notification-incompatible-link = Rhagor o Wybodaeth
-details-notification-unsigned-and-disabled = Nid oedd modd dilysu { $name } i'w ddefnyddio yn { -brand-short-name } ac mae wedi ei analluogi.
 details-notification-unsigned-and-disabled2 =
     .message = Nid oedd modd dilysu { $name } i'w ddefnyddio yn { -brand-short-name } ac mae wedi ei analluogi.
-details-notification-unsigned-and-disabled-link = Rhagor o Wybodaeth
-details-notification-unsigned = Nid oedd modd dilysu { $name } i'w defnyddio yn { -brand-short-name }. Cymerwch ofal.
 details-notification-unsigned2 =
     .message = Nid oedd modd dilysu { $name } i'w defnyddio yn { -brand-short-name }. Cymerwch ofal.
 details-notification-hard-blocked-extension =
     .message = Mae'r estyniad hwn wedi'i rwystro am fynd yn groes i bolisïau Mozilla ac mae wedi'i analluogi.
 details-notification-hard-blocked-other =
     .message = Mae'r ychwanegyn hwn wedi'i rwystro am fynd yn groes i bolisïau Mozilla ac mae wedi'i analluogi.
-details-notification-unsigned-link = Rhagor o Wybodaeth
-details-notification-blocked = Mae { $name } wedi ei analluogi o ganlyniad i faterion diogelwch a sefydlogrwydd.
 details-notification-blocked-link2 = Gweld Manylion
 details-notification-soft-blocked-extension-disabled2 =
     .message = Mae'r estyniad hwn wedi'i gyfyngu ac mae wedi'i analluogi. Gallwch ei alluogi, ond gall hyn fod yn beryglus.
@@ -558,19 +500,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = Mae'r ychwanegyn hwn wedi'i gyfyngu ac mae wedi'i analluogi. Gallwch ei alluogi, ond gall hyn fod yn beryglus.
 details-notification-soft-blocked-other-enabled2 =
     .message = Mae'r estyniad hwn wedi'i gyfyngu. Gall fod yn beryglus ei ddefnyddio.
-details-notification-soft-blocked-extension-disabled =
-    .message = Mae'r estyniad hwn wedi'i gyfyngu am fynd yn groes i bolisïau Mozilla ac mae wedi'i analluogi. Gallwch ei alluogi, ond gall hyn fod yn beryglus.
-details-notification-soft-blocked-extension-enabled =
-    .message = Mae'r estyniad hwn yn groes i bolisïau Mozilla. Gall fod yn beryglus ei ddefnyddio.
-details-notification-soft-blocked-other-disabled =
-    .message = Mae'r estyniad hwn yn groes i bolisïau Mozilla ac mae wedi'i analluogi. Gallwch ei alluogi, ond gall hyn fod yn beryglus.
-details-notification-soft-blocked-other-enabled =
-    .message = Mae'r estyniad hwn yn groes i bolisïau Mozilla. Gall fod yn beryglus ei ddefnyddio.
 details-notification-softblocked-link2 = Gweld Manylion
-details-notification-blocked-link = Rhagor o Wybodaeth
-details-notification-softblocked = Mae'n hysbys fod { $name } yn achosi anawsterau diogelwch a sefydlogrwydd.
-details-notification-softblocked-link = Rhagor o Wybodaeth
-details-notification-gmp-pending = Bydd { $name } yn cael ei osod yn fuan.
 details-notification-gmp-pending2 =
     .message = Bydd { $name } yn cael ei osod yn fuan.
 
@@ -586,8 +516,6 @@ plugins-widevine-description = Mae'r ategyn hwn yn galluogi chwarae cyfryngau am
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Casglu data gofynnol:
-addon-permissions-optional-data-collection = Casglu data dewisol:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Caniatâd a data
 # This is a description for extension that use this AI model

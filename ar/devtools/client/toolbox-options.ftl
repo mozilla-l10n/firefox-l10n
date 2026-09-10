@@ -116,16 +116,12 @@ options-local-mode-toggle-disable = عطّل
 options-context-advanced-settings = إعدادات متقدّمة
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = عطّل خبيئة HTTP (عندما يكون صندوق الأدوات مفتوحًا)
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = عطّل جافاسكربت *
 options-disable-javascript-tooltip =
     .title = سيؤدي تشغيل هذا الخيار إلى تعطيل JavaScript للسان الحالي. إذا أُغلِق اللسان أو صندوق الأدوات، فسيتم نسيان هذا الإعداد.
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = فعِّل التنقيح البعيد
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = فعّل عمّال الخدمة عبر HTTP (عندما يكون صندوق الأدوات مفتوحا)
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * في الجلسة الحالية فقط، تُعيد تحميل الصفحة
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

@@ -44,7 +44,6 @@ policy-DisableDefaultBrowserAgent = Impedìs al agjent predefinît dal navigadô
 policy-DisableDeveloperTools = Bloche l'acès ai struments di disvilup.
 policy-DisableEncryptedClientHello = Disative la funzion TLS “Encrypted Client Hello” (ECH).
 policy-DisableFeedbackCommands = Disabilite i comants par inviâ opinions dal menù Jutori (Invie opinion e Segnale sît ingjanôs).
-policy-DisableFirefoxAccounts = Disabilite i servizis basâts su { -fxaccount-brand-name }, includût Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Disative i servizis basâts sui accounts, sincronizazion includude.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -54,7 +53,6 @@ policy-DisableForgetButton = Impedìs l'acès al boton Dismentee.
 policy-DisableFormHistory = No sta visâti lis ricercjis e no stâ creâ la cronologjie.
 policy-DisablePrimaryPasswordCreation = Se true (vêr), no si pues creâ une password principâl.
 policy-DisablePasswordReveal = Impedìs di palesâ lis passwords tes credeziâls salvadis.
-policy-DisablePocket2 = Disabilite la funzionalitât par salvâ lis pagjinis web su { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Disabilite la navigazion privade.
 policy-DisableProfileImport = Disabilite il comant dal menù par impuartâ i dâts di un altri navigadôr.
 policy-DisableProfileRefresh = Disabilite il boton “Ripristine { -brand-short-name }” te pagjine about:support.
@@ -126,7 +124,6 @@ policy-PDFjs = Disative o configure PDF.js, il visualizadôr PDF integrât in { 
 policy-Permissions2 = Configure i permès par fotocjamare, microfon, posizion, notifichis e pe riproduzion automatiche.
 policy-PictureInPicture = Ative o disative il Picture-in-Picture.
 policy-PopupBlocking2 = Permet a cierts sîts web di mostrâ barcons a comparse e di jessi indreçâts di ricuadris di tiercis bandis.
-policy-PopupBlocking = Permet a cierts sîts web di visualizâ i barcons a comparse in maniere predefinide.
 policy-Preferences = Stabilìs e bloche il valôr par un grup di preferencis.
 policy-PrivateBrowsingModeAvailability = Met la disponibilitât de modalitât di navigazion privade.
 policy-PromptForDownloadLocation = Domande dulà salvâ i files cuant che si ju discjarie.

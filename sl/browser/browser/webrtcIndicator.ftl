@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } – Pokazatelj skupne rabe
-webrtc-indicator-window =
-    .title = { -brand-short-name } – Pokazatelj skupne rabe
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Vaš mikrofon je v skupni rabi. Kliknite za upravljanje skupne rabe.
 webrtc-screen-system-menu =
     .label = Vaš zaslon ali eno od oken je v skupni rabi. Kliknite za upravljanje skupne rabe.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Vaša kamera in mikrofon sta v skupni rabi. Kliknite za upravljanje skupne rabe.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Vaša kamera je v skupni rabi. Kliknite za upravljanje skupne rabe.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Vaš mikrofon je v skupni rabi. Kliknite za upravljanje skupne rabe.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Aplikacija je v skupni rabi. Kliknite za upravljanje skupne rabe.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Vaš zaslon je v skupni rabi. Kliknite za upravljanje skupne rabe.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Okno je v skupni rabi. Kliknite za upravljanje skupne rabe.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Zavihek je v skupni rabi. Kliknite za upravljanje skupne rabe.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -197,7 +178,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Dovolite { $orig
 
 webrtc-share-screen-warning = Delite zaslon samo s stranmi, ki jim zaupate. Deljenje lahko zavajajočim stranem omogoči, da brskajo v vašem imenu in ukradejo vaše zasebne podatke.
 webrtc-share-browser-warning = Delite { -brand-short-name } samo s stranmi, ki jim zaupate. Deljenje lahko zavajajočim stranem omogoči, da brskajo v vašem imenu in ukradejo vaše zasebne podatke.
-webrtc-share-screen-learn-more = Več o tem
 webrtc-pick-window-or-screen = Izberi okno ali zaslon
 webrtc-share-entire-screen = Celoten zaslon
 webrtc-share-pipe-wire-portal = Uporabi nastavitve operacijskega sistema

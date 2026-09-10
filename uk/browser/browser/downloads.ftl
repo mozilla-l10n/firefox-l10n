@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Показати у Finder
            *[other] Показати у теці
         }
-downloads-cmd-show-downloads =
-    .label = Показати теку завантажень
 downloads-cmd-retry =
     .tooltiptext = Повторити
 downloads-cmd-retry-panel =

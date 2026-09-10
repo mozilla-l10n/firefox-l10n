@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = देयक प्रमाणपत्र 
 cert-error-trust-signature-algorithm-disabled = प्रमाणपत्र विश्वासर्ह नाही कारण त्यास सिग्नेचर अल्गोरिदमचा वापर स्वाक्षरी केले आहे ज्यास अल्गोरिदम असुरक्षित असल्यामुळे बंद केले.
 cert-error-trust-expired-issuer = देयक प्रमाणपत्र कालबाह्य झाल्यामुळे प्रमाणपत्र विश्वासर्ह ठरत नाही.
 cert-error-trust-self-signed = प्रमाणपत्र स्व साक्षरीत असल्यामुळे विश्वासर्ह नाही.
-cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte आणि VeriSign यांनी दिलेली प्रमाणपत्रे यापुढे सुरक्षित मानली जात नाहीत कारण या प्रमाणपत्र अधिकारी पूर्वी सुरक्षा पद्धतींचे अनुसरण करण्यास अयशस्वी ठरले होते.
 cert-error-untrusted-default = प्रमाणपत्र विश्वासर्ह स्त्रोत पासून प्राप्त केले जात नाही.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -52,7 +51,6 @@ cert-error-code-prefix-link = त्रुटी कोड: <a data-l10n-name="e
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = { $hostname } सोबत जुळवणी स्थापीत करताना त्रुटी आढळली. { $errorMessage }
-cert-error-symantec-distrust-admin = आपण या समस्येबद्दल वेबसाइट प्रशासनास सूचित करू शकता.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP स्ट्रीक्ट वाहतूक सुरक्षा: { $hasHSTS }
@@ -60,7 +58,6 @@ cert-error-details-hsts-label = HTTP स्ट्रीक्ट वाहतू
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = प्रमाणपत्र चैन:
-open-in-new-window-for-csp-or-xfo-error = नवीन विंडोमध्ये साइट उघडा
 
 ## Messages used for certificate error titles
 
@@ -90,7 +87,6 @@ redirectLoop-title = पृष्ठ योग्यपणे मार्गद
 unknownSocketType-title = सर्व्हर कडून अनपेक्षित प्रतिसाद
 nssFailure2-title = सुरक्षीत जोडणी अपयशी
 csp-xfo-error-title = { -brand-short-name } हे पृष्ठ उघडू शकत नाही
-corruptedContentError-title = दोषीत अंतर्भुत माहिती त्रुटी
 sslv3Used-title = सुरक्षितपणे जोडणी करण्यात अक्षम
 inadequateSecurityError-title = आपली जोडणी सुरक्षीत नाही
 blockedByPolicy-title = अवरोधित पृष्ठ

@@ -23,17 +23,13 @@ neterror-override-exception-button = ᱡᱤᱢᱟ ᱦᱟᱛᱟᱣ ᱢᱮ ᱟᱨ 
 neterror-pref-reset-button = ᱢᱩᱞ ᱥᱟᱡᱟᱣ ᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚ ᱮᱱᱟ
 neterror-return-to-previous-page-button = ᱯᱟᱹᱪᱷᱞᱟᱹ ᱛᱮ ᱪᱟᱞᱟᱜ ᱢᱮ
 neterror-return-to-previous-page-recommended-button = ᱛᱟᱭᱚᱢ ᱥᱮᱱᱚᱜ ᱢᱮ (ᱠᱷᱚᱡᱚᱜ ᱜᱮᱭᱟ)
-neterror-try-again-button = ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩ
 neterror-add-exception-button = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱞᱮᱛᱟᱲᱚᱜ ᱢᱮ
 neterror-settings-button = DNS ᱥᱟᱡᱟᱣᱠᱚ ᱵᱚᱫᱚᱞ ᱢᱮ
 neterror-view-certificate-link = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱧᱮᱞ ᱢᱮ
-neterror-trr-continue-this-time = ᱱᱤᱭᱟᱹ ᱡᱮᱠᱷᱟ ᱞᱟᱦᱟᱜ ᱢᱮ
-neterror-disable-native-feedback-warning = ᱡᱟᱹᱣᱜᱮ ᱞᱟᱦᱟᱜ ᱢᱮ
 
 ##
 
 neterror-pref-reset = ᱱᱚᱠᱟ ᱵᱩᱡᱷᱟᱹᱣᱜ ᱠᱟᱱᱟ ᱟᱢᱟᱜ ᱱᱮᱴᱣᱟᱨᱠ ᱥᱟᱡᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱱᱚᱠᱟ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾ ᱟᱢ ᱫᱚ ᱢᱩᱞ ᱥᱟᱡᱟᱣ ᱞᱮᱠᱷᱟᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱥᱮ ?
-neterror-error-reporting-automatic = { -vendor-short-name } ᱫᱚ ᱪᱤᱱᱦᱟᱹ ᱟᱨ ᱥᱚᱱᱫᱮᱦ ᱥᱟᱭᱤᱴ ᱟᱠᱚᱴ ᱞᱟᱹᱜᱤᱫ ᱱᱚᱠᱟ ᱰᱤᱜᱟᱹᱣ ᱠᱷᱚᱵᱚᱨ ᱠᱚ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
 
 ## Specific error messages
 
@@ -55,23 +51,13 @@ neterror-dns-not-found-hint-firewall = ᱧᱮᱞ ᱢᱮ ᱡᱮ { -brand-short-na
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } ᱫᱚ ᱟᱞᱮᱭᱟᱜ ᱵᱷᱚᱨᱥᱟ DNS ᱨᱤᱡᱚᱞᱵᱷᱚᱨ ᱛᱮ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱱᱮᱦᱚᱨ ᱵᱟᱭ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ  ᱾ ᱵᱟᱲᱟᱭ ᱢᱮ ᱪᱮᱫᱟᱜ ᱥᱮ ᱺ
 neterror-dns-not-found-trr-third-party-warning2 = ᱟᱢ ᱫᱚ ᱟᱢᱟᱜ ᱢᱩᱞ DNS ᱨᱤᱥᱚᱞᱵᱷᱚᱨ ᱥᱟᱞᱟᱜ ᱞᱟᱦᱟ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾ ᱢᱮᱱᱠᱷᱟᱱ, ᱛᱮᱥᱟᱨ ᱯᱟᱴᱤ ᱫᱚ ᱟᱢ ᱦᱤᱨᱤᱮᱫ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱚ ᱵᱟᱲᱟᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } ᱫᱚ { $trrDomain } ᱥᱟᱞᱟᱜ ᱵᱟᱭ ᱡᱩᱲᱟᱹᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
 neterror-dns-not-found-trr-only-timeout = { $trrDomain } ᱥᱟᱞᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱫᱚ ᱱᱤᱨᱫᱷᱟᱨᱤᱛ ᱚᱠᱛᱚ ᱠᱷᱚᱱ ᱡᱟᱹᱥᱛᱤ ᱤᱫᱤ ᱠᱮᱜᱼᱟᱭ ᱾
-neterror-dns-not-found-trr-offline = ᱟᱢ ᱫᱚ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱥᱟᱞᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱨᱮ ᱵᱟᱹᱱᱩᱜ ᱢᱮᱭᱟ ᱾
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } ᱫᱚ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱵᱟᱭ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱫᱼᱟᱭ ᱾
 neterror-dns-not-found-trr-server-problem = { $trrDomain } ᱥᱟᱞᱟᱜ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ ᱾
 neterror-dns-not-found-bad-trr-url = ᱵᱟᱝ URL ᱾
 neterror-dns-not-found-trr-unknown-problem = ᱵᱟᱝᱵᱷᱟᱹᱵᱤᱛ ᱠᱟᱱ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱾
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ᱫᱚ ᱟᱞᱮᱭᱟᱜ ᱵᱷᱚᱨᱥᱟ DNS ᱨᱤᱡᱚᱞᱵᱷᱚᱨ ᱛᱮ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱱᱮᱦᱚᱨ ᱵᱟᱭ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ  ᱾ ᱵᱟᱲᱟᱭ ᱢᱮ ᱪᱮᱫᱟᱜ ᱥᱮ ᱺ
-neterror-dns-not-found-native-fallback-heuristic = ᱟᱢᱟᱜ ᱱᱮᱴᱣᱟᱨᱠ ᱨᱮ DNS ᱪᱮᱛᱟᱱ HTTPS ᱵᱚᱸᱫ ᱟᱠᱟᱱᱟ ᱾
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ᱫᱚ { $trrDomain } ᱥᱟᱞᱟᱜ ᱵᱟᱭ ᱡᱩᱲᱟᱹᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
 
 ##
 
@@ -80,8 +66,6 @@ neterror-file-not-found-moved = ᱥᱩᱦᱤ ᱞᱟᱹᱜᱤᱚ ᱧᱮᱞ ᱡᱩ
 neterror-access-denied = ᱱᱚᱶᱟ ᱫᱚ ᱚᱰᱚᱠ, ᱩᱪᱟᱹᱲ, ᱟᱨ ᱵᱟᱝ ᱨᱮᱫ ᱨᱮᱭᱟᱜ ᱟᱹᱱᱩᱢᱟᱫᱛᱤ ᱠᱚ ᱠᱷᱟᱹᱛᱤᱨ ᱦᱩᱭ ᱠᱚᱜᱼᱟ ᱾
 neterror-unknown-protocol = ᱟᱢ ᱱᱚᱣᱟ ᱴᱷᱤᱠᱟᱹᱱᱟ ᱡᱷᱤᱡ ᱞᱟᱹᱜᱤᱫ ᱮᱴᱟᱜ ᱥᱚᱯᱷᱴᱣᱟᱭᱨ ᱵᱚᱦᱟᱞ ᱞᱟᱠᱛᱤ ᱦᱩᱭ ᱟᱢᱟ ᱾
 neterror-redirect-loop = ᱱᱚᱣᱟ ᱫᱤᱜᱫᱷᱟ ᱚᱠᱟ ᱚᱠᱛᱚ ᱵᱟᱝ ᱦᱩᱭ ᱦᱚᱪᱚ ᱥᱮ ᱦᱟᱛᱟᱣ ᱵᱟᱝ  ᱦᱮ ᱫᱟᱨᱟ ᱛᱮ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱠᱩᱠᱤᱡᱽ ᱠᱚ ᱾
-neterror-unknown-socket-type-psm-installed = ᱥᱩᱦᱤ ᱧᱮᱞ ᱟᱢᱟᱜ ᱥᱮᱥᱴᱮᱢ ᱨᱮ ᱱᱤᱡᱮᱨᱟᱜ ᱡᱟᱹᱯᱛᱤ ᱵᱮᱵᱚᱥᱛᱟᱭᱤᱪ ᱵᱚᱦᱟᱞ ᱠᱚᱱᱟ ᱥᱮ ᱵᱟᱝᱟ ᱾
-neterror-unknown-socket-type-server-config = ᱱᱚᱣᱟ ᱫᱚ ᱯᱟᱞᱮᱱ ᱥᱚᱨᱣᱚᱨ ᱨᱮ ᱵᱟᱝ ᱵᱟᱛᱟᱣ ᱛᱮᱭᱟᱨᱚ ᱠᱟᱨᱚᱱ ᱛᱮ ᱦᱩᱭᱩᱜᱼᱟ ᱾
 neterror-not-cached-intro = ᱱᱮᱦᱚᱨᱟᱠᱟᱱ ᱫᱚᱞᱤᱞ { -brand-short-name } ᱨᱮᱭᱟᱜ ᱠᱮᱥ ᱨᱮ ᱵᱟᱹᱭ ᱧᱟᱢᱚᱜ ᱟ .
 neterror-not-cached-sensitive = ᱢᱤᱫ ᱡᱟᱹᱯᱛᱤ ᱦᱚᱸᱥᱤᱭᱟᱨ ᱞᱮᱠᱟ { -brand-short-name } ᱟᱪ ᱟᱪ ᱛᱮ ᱟᱹᱭᱠᱟᱹᱣ ᱞᱮᱠ ᱫᱚᱦᱲᱟ ᱱᱮᱦᱚᱨᱟ
 neterror-not-cached-try-again = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱷᱚᱱ ᱫᱚᱞᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱫᱚᱦᱲᱟ ᱱᱮᱦᱚᱨ ᱫᱚᱦᱲᱟ ᱠᱩᱨᱩᱢᱩᱴᱩ ᱚᱛᱟᱭ ᱢᱮ ᱾

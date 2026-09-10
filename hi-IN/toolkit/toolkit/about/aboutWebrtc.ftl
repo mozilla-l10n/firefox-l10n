@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = वेबआरटीसी: के बा
 about-webrtc-aec-logging-msg-label = AEC लागिंग
 about-webrtc-aec-logging-off-state-label = AEC लागिंग करना प्रारंभ करें
 about-webrtc-aec-logging-on-state-label = AEC लॉगिंग को बंद करें
-about-webrtc-aec-logging-on-state-msg = एईसी लॉगिंग सक्रिय है (कॉलर से कुछ समय बात करें और फिर कैप्चर को बंद करें)
 about-webrtc-aec-logging-toggled-on-state-msg = एईसी लॉगिंग सक्रिय है (कॉलर से कुछ समय बात करें और फिर कैप्चर को बंद करें)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -78,17 +77,9 @@ about-webrtc-nominated = मनोनीत
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = चयनित
 about-webrtc-save-page-label = पृष्ठ सहेजें
-about-webrtc-debug-mode-msg-label = दोषसुधार मोड
-about-webrtc-debug-mode-off-state-label = दोषसुधार मोड प्रारंभ करें
-about-webrtc-debug-mode-on-state-label = दोषसुधार मोड रोकें
-about-webrtc-stats-heading = सत्र आंकड़े
 about-webrtc-stats-clear = इतिहास साफ़ करें
 about-webrtc-log-heading = कनेक्शन लॉग
 about-webrtc-log-clear = लॉग साफ करें
-about-webrtc-log-show-msg = लॉग दिखाएँ
-    .title = विभाग फैलाने के लिये क्लिक करें
-about-webrtc-log-hide-msg = लॉग छुपाएँ
-    .title = इस विभाग को समेटनें के लिए क्लिक करें
 about-webrtc-log-section-show-msg = लॉग दिखाएँ
     .title = विभाग फैलाने के लिये क्लिक करें
 about-webrtc-log-section-hide-msg = लॉग छुपाएँ
@@ -111,19 +102,11 @@ about-webrtc-remote-candidate = दूरस्थ उम्मीदवार
 about-webrtc-raw-candidates-heading = सभी अनुभवहीन उम्मीदवार
 about-webrtc-raw-local-candidate = अनुभवहीन स्थानीय उम्मीदवार
 about-webrtc-raw-remote-candidate = अनुभवहीन दूरस्थ उम्मीदवार
-about-webrtc-raw-cand-show-msg = अनुभवहीन उम्मीदवार दिखाएँ
-    .title = विभाग फैलाने के लिये क्लिक करें
-about-webrtc-raw-cand-hide-msg = अनुभवहीन उम्मीदवार छिपाएँ
-    .title = इस विभाग को समेटनें के लिए क्लिक करें
 about-webrtc-raw-cand-section-show-msg = अनुभवहीन उम्मीदवार दिखाएँ
     .title = विभाग फैलाने के लिये क्लिक करें
 about-webrtc-raw-cand-section-hide-msg = अनुभवहीन उम्मीदवार छिपाएँ
     .title = इस विभाग को समेटनें के लिए क्लिक करें
 about-webrtc-priority = प्राथमिकता
-about-webrtc-fold-show-msg = विवरण दिखाएँ
-    .title = विभाग फैलाने के लिये क्लिक करें
-about-webrtc-fold-hide-msg = विवरण छिपाएँ
-    .title = इस विभाग को समेटनें के लिए क्लिक करें
 about-webrtc-fold-default-show-msg = विवरण दिखाएँ
     .title = विभाग फैलाने के लिये क्लिक करें
 about-webrtc-fold-default-hide-msg = विवरण छिपाएँ
@@ -141,13 +124,6 @@ about-webrtc-estimated-framerate = अनुमानित फ्रेमर�
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
-
-##
-
-about-webrtc-save-page-msg = { $path } को पृष्ठ सहेज गया:
-about-webrtc-debug-mode-off-state-msg = ट्रेस लॉग { $path } पर पाया जा सकता हैं
-about-webrtc-debug-mode-on-state-msg = दोषसुधार मोड सक्रिय, { $path } पर ट्रेस लॉग
-about-webrtc-aec-logging-off-state-msg = कैप्चर लॉग फ़ाइल { $path } में पाया जा सकता हैं
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

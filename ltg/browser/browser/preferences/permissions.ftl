@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Izjāmumi
     .style = min-width: 45em
+    .title = Izjāmumi
 permissions-close-key =
     .key = w
 permissions-address = Sātys lopys adress
@@ -57,36 +57,22 @@ permissions-invalid-uri-label = Lyudzu, īvodit dereigu resursdatora nūsaukumu
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
+    .style = { permissions-window2.style }
     .title = Izjāmumi - seikdatnes un kešatmiņa
-    .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = Tu vari nūrōdēt, kurom lopom ir un kurom nav atļauts izmontōt seikdatnes un kešatmiņu. Īroksti precizu lopys adresi un mīdz uz Bloķēt, Atļaut iz seseji  voi Atļaut.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Atļautuos lopys - jaunī lūgi
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Jius varot nūruodeit, kurom lopom ir atļauts attaiseit jaunuos lūgus. Īrkostit precizu lopys adresu, kurai vālotīs atļaut attaiseit jaunuos lūgus, i nūspidit Atļaut.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Izjāmumi - Saglobuotuos paroles
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Itū vītņu paroles natiks saglobuotys
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Atļautuos lopys - papyldynuojumu instaliešona
     .style = { permissions-window2.style }
+    .title = Atļautuos lopys - papyldynuojumu instaliešona
 permissions-exceptions-addons-desc = Jius varot nūruodeit, nu kurom lopom ir atļauts instaleit papyldynuojums. Īrkostit precizu lopys adresu, nu kurys vālotīs atļaut papyldynuojumu instaliešonu, i nūspidit Atļaut.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Īstatiejumi - paziņuojumu atļuovis
     .style = { permissions-window2.style }
+    .title = Īstatiejumi - paziņuojumu atļuovis
 permissions-site-notification-desc = Itōs lopys ir lyugušas atļauji tev syutēt paziņojumus. Tu vari nūrōdēt, kurom lopom ir atļauts syutēt paziņojumus. Tu vari ari bloķēt lyugumus par paziņojumu syutiešonu.
 permissions-site-notification-disable-label =
     .label = Bloķēt nōkutnes lyugumus par paziņojumu syutiešonu
@@ -95,8 +81,8 @@ permissions-site-notification-disable-desc = Tys aizlīgs vyskurom lopom, kuras 
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Īstatiejumi - atsarasšona vītys atļuovis
     .style = { permissions-window2.style }
+    .title = Īstatiejumi - atsarasšona vītys atļuovis
 permissions-site-location-desc = Itōs lopys ir pīprasejušas pīeji tova acarašonas vītai. Tu vari nūrōdēt, kurom lopom ir atļauts pīkļiut tovai acarošonas vītai. Tai pat var aizlīgt vysus nōkutnes pīprasejumus atļaut pīkļiut tovai acarošonas vītai.
 permissions-site-location-disable-label =
     .label = Bloķēt nōkutnes pīprasejumus pīkļiut tovai acarošonas vītai
@@ -105,8 +91,8 @@ permissions-site-location-disable-desc = Tys aizlīgs vyskurom lopom, kuras nav 
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Settings - Camera Permissions
     .style = { permissions-window2.style }
+    .title = Settings - Camera Permissions
 permissions-site-camera-desc = Itōs lopys ir lyugušas pīeeju tovai kamerai. Tu vari nūrōdēt kurōm lopom ir atļauts piekļiut tovai kamerai. Vāļ tu vari bloķēt vysus nōkutnes lyugumus pec atļaujas pīkļiut tovai kamerai.
 permissions-site-camera-disable-label =
     .label = Bloķēt nōkutnes pīprasejumus pīkļiut tovai kamerai
@@ -115,8 +101,8 @@ permissions-site-camera-disable-desc = Tys aizlīgs vyskurom lopom, kuras nav uz
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Settings - Microphone Permissions
     .style = { permissions-window2.style }
+    .title = Settings - Microphone Permissions
 permissions-site-microphone-desc = Itōs lopys ir lyugušas pīeeju tovam mikrofonam. Tu vari nūrōdēt kurōm lopom ir atļauts piekļiut tovam mikrofonam. Vāļ tu vari bloķēt vysus nōkutnes lyugumus pec atļaujas pīkļiut tovam mikrofonam.
 permissions-site-microphone-disable-label =
     .label = Bloķēt nōkutnes pīprasejumus pīkļiut tovam mikrofonam

@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
 browser-shortcut-description = Navicazzioni privata e lesta
 urlbar-identity-button =
@@ -42,8 +37,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Grapi quatru di l’archiviu fora linia
 urlbar-password-notification-anchor =
     .tooltiptext = Grapi u quatru dî missaggi di sarbataggiu dî chiavi
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Manija l’usu dî juncitini
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Manija a spartuta dâ fotucàmmara o dû micròfunu cu stu situ
 urlbar-autoplay-notification-anchor =
@@ -52,8 +45,6 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Sarba dati nni l’archiviu pirmanenti
 urlbar-addons-notification-anchor =
     .tooltiptext = Grapi u quatru dî missaggi di nzitamentu dî juncitini
-urlbar-tip-help-icon =
-    .title = Fatti ajutari
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -82,8 +73,6 @@ urlbar-screen-blocked =
     .tooltiptext = Bluccasti a spartuta dû to schirmu pi stu situ.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Bluccasti l’archiviu pirmanenti pi stu situ.
-urlbar-popup-blocked =
-    .tooltiptext = Bluccasti i finestri assummanti pi stu situ.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Bluccasti a ripruduzzioni autumàtica dî soni pi stu situ.
 urlbar-canvas-blocked =
@@ -161,7 +150,6 @@ quickactions-bookmarks2 = Manija i nzingalibbra
 quickactions-cmd-bookmarks = nzingalibbra
 # Opens about:addons page in the extensions section
 quickactions-extensions = Manija stinneri
-quickactions-cmd-extensions = stinneri
 
 ## Bookmark Panel
 
@@ -194,11 +182,9 @@ identity-connection-file = Sta pàggina è sarbata nnô to computer.
 identity-extension-page = Sta pàggina veni carricata di nu stinneriu.
 identity-passive-loaded = Parti di sta pàggina nun sunnu sicuri (comu i mmàggini).
 identity-active-loaded = Disabbilitasti a prutizziuni nta sta pàggina.
-identity-insecure-login-forms = I firmati scritti nta sta pàggina cùrrinu rìsicu.
 identity-permissions-storage-access-header = Viscotta ntirsitu
 identity-permissions-reload-hint = Putissi abbisugnari a carricari arrè a pàggina p’appricari i canciamenti.
 identity-description-insecure = A cunnissiuni a stu situ nun è privata. I nfurmazzioni chi manni putìssiru èssiri visti di autri (comu chiavi, missaggi, carti di crèditu, …).
-identity-description-insecure-login-forms = I nfurmazzioni d’accessu chi metti nna sta pàggina nun su’ sicuri, e putìssiru èssiri ntircittati.
 identity-description-weak-cipher-intro = A to cunnissiuni a stu situ usa un cifrariu fraccu e nun è privata.
 identity-description-weak-cipher-risk = Autri ponnu vìdiri i to nfurmazzioni o canciari u cumpurtamentu dû situ web.
 identity-description-active-blocked2 = { -brand-short-name } bluccau parti di sta pàggina ca nun èranu sicuri.
@@ -261,8 +247,6 @@ urlbar-extension =
     .value = Stinneriu:
 urlbar-go-button2 =
     .title = Vai ô nnirizzu nnâ sbarra dî nnirizzi
-urlbar-go-button =
-    .tooltiptext = Vai ô nnirizzu nnâ sbarra dî nnirizzi
 urlbar-page-action-button =
     .tooltiptext = Azziuni dâ pàggina
 
@@ -302,13 +286,6 @@ urlbar-result-search-with = Riscedi cu { $engine }
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Riscedi cu { $engine }
-urlbar-searchmode-bookmarks =
-    .label = Nzingalibbra
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = Sta vota riscedi cu:
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = Mpustazzioni di risciduta
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-one-off-header = Sta vota riscedi cu:
@@ -382,12 +359,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Ammuccia a sbarra dî nzingalibbra
            *[other] Mustra a sbarra dî nzingalibbra
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Leva u minù dî nzingalibbra dâ sbarra dî stigghi
-           *[other] Junci u minù dî nzingalibbra â sbarra dî stigghi
-        }
 
 ##
 
@@ -413,12 +384,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Nzingalibbra
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Sarba nne { -pocket-brand-name }
-    .tooltiptext = Sarba nne { -pocket-brand-name }
 
 ##
 
@@ -454,8 +419,6 @@ navbar-accessible =
     .aria-label = Navicazzioni
 navbar-downloads =
     .label = Scarricamenti
-navbar-overflow =
-    .tooltiptext = Cchiù strumenti…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

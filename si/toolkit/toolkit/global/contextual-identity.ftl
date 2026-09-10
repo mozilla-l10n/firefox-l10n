@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = අඩංගු නැත
-    .accesskey = N
 user-context-manage-containers =
     .label = අඩංගු කළමනාකරණය
     .accesskey = o

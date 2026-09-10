@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Tab Newydd
-newtab-settings-button =
-    .title = Cyfaddasu eich tudalen Tab Newydd
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Cyfaddasu’r dudalen hon
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = Cyfaddasu
 newtab-customize-panel-label =
     .label = Cyfaddasu
-newtab-personalize-settings-icon-label =
-    .aria-label = Gosodiadau
-    .title = Personoli Tab Newydd
 newtab-settings-dialog-label =
     .aria-label = Gosodiadau
-newtab-personalize-icon-label =
-    .aria-label = Personoli tab newydd
-    .title = Personoli tab newydd
-newtab-personalize-dialog-label =
-    .aria-label = Personoli
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
@@ -564,7 +554,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Ychwanegu Peiriant Chwilio
 newtab-topsites-add-shortcut-header = Llwybr Byr Newydd
-newtab-topsites-edit-topsites-header = Golygu'r Hoff Wefan
 newtab-topsites-edit-shortcut-header = Golygu Llwybr Byr
 newtab-topsites-add-shortcut-label = Ychwanegu Llwybr Byr
 newtab-topsites-add-shortcut-title =
@@ -634,20 +623,12 @@ newtab-topsites-hover-card-dismiss =
 newtab-menu-section-tooltip =
     .aria-label = Agor dewislen
     .title = Agor dewislen
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Tynnu
-    .title = Tynnu
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Agor dewislen cynnwys { $title }
     .title = Agor dewislen
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Golygu'r wefan
-    .title = Golygu'r wefan
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -659,11 +640,7 @@ newtab-menu-dismiss = Cau
 newtab-menu-pin = Pinio
 newtab-menu-unpin = Dadbinio
 newtab-menu-delete-history = Dileu o'r Hanes
-newtab-menu-save-to-pocket = Cadw i { -pocket-brand-name }
-newtab-menu-delete-pocket = Dileu o { -pocket-brand-name }
-newtab-menu-archive-pocket = Archifo i { -pocket-brand-name }
 newtab-menu-show-privacy-info = Ein noddwyr a'ch preifatrwydd
-newtab-menu-about-fakespot = Ynghylch { -fakespot-brand-name }
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Adrodd
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -674,28 +651,12 @@ newtab-menu-section-block = Rhwystro
 newtab-menu-section-unfollow-topic = Dad-ddilyn
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Rhagor
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = Dad-ddilyn Pwnc
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = Rheoli cynnwys noddedig
 newtab-menu-our-sponsors-and-your-privacy = Ein noddwyr a’ch preifatrwydd chi
 newtab-menu-report-this-ad = Adrodd am yr hysbyseb hwn
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Gorffen
-newtab-privacy-modal-button-manage = Rheoli gosodiadau cynnwys wedi'i noddi
-newtab-privacy-modal-header = Mae eich preifatrwydd yn bwysig.
-newtab-privacy-modal-paragraph-2 =
-    Yn ogystal â rhannu straeon cyfareddol, rydyn hefyd yn dangos i chi
-    gynnwys perthnasol wedi'i ddewis yn ofalus gan noddwyr dethol. Peidiwch â phoeni,
-    <strong>nid yw eich data pori byth yn gadael eich copi personol o { -brand-product-name }</strong> - nid ydym 
-    yn ei weld, na'n
-    noddwyr chwaith.
-newtab-privacy-modal-link = Dysgwch sut mae preifatrwydd yn gweithio ar y tab newydd
 
 ##
 
@@ -751,31 +712,12 @@ newtab-label-sponsored-fixed = Noddwyd
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Tynnu'r Adran
-newtab-section-menu-collapse-section = Cau'r Adran
-newtab-section-menu-expand-section = Ehangu'r Adran
-newtab-section-menu-manage-section = Rheoli'r Adran
-newtab-section-menu-manage-webext = Rheoli Estyniad
-newtab-section-menu-add-topsite = Ychwanegu Hoff Wefan
-newtab-section-menu-add-search-engine = Ychwanegu Peiriant Chwilio
-newtab-section-menu-move-up = Symud i Fyny
-newtab-section-menu-move-down = Symud i Lawr
 newtab-section-menu-privacy-notice = Hysbysiad Preifatrwydd
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Cau'r Adran
-newtab-section-expand-section-label =
-    .aria-label = Ehangu'r Adran
 
 ## Section Headers.
 
 newtab-section-header-topsites = Hoff Wefannau
 newtab-section-header-recent-activity = Gweithgaredd diweddar
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Argymhellwyd gan { $provider }
 newtab-section-header-stories = Straeon sy’n procio’r meddwl
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = Dewisiadau heddiw i chi
@@ -783,10 +725,6 @@ newtab-section-header-todays-picks = Dewisiadau heddiw i chi
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Cychwynnwch bori ac fe ddangoswn rhai erthyglau, fideos a thudalennau eraill difyr rydych wedi ymweld â nhw'n ddiweddar neu wedi gosod nod tudalen arnyn nhw yma.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Rydych yn gyfredol. Dewch nôl rhywbryd eto am fwy o'r straeon pwysicaf gan { $provider }. Methu aros? Dewiswch bwnc poblogaidd i ganfod straeon da ar draws y we.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = Rydych yn gyfredol. Dewch nôl yn ddiweddarach am fwy o straeon. Methu aros? Dewiswch bwnc poblogaidd i ganfod rhagor o straeon difyr o bob rhan o'r we.
 
@@ -820,39 +758,6 @@ newtab-carousel-pause =
 newtab-carousel-play =
     .aria-label = Ailddechrau awtochwarae
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Pynciau Poblogaidd:
-newtab-pocket-new-topics-title = Am gael mwy fyth o straeon? Edrychwch ar y pynciau poblogaidd hyn gan { -pocket-brand-name }
-newtab-pocket-more-recommendations = Rhagor o Argymhellion
-newtab-pocket-learn-more = Darllen rhagor
-newtab-pocket-cta-button = Defnyddio { -pocket-brand-name }
-newtab-pocket-cta-text = Cadw'r straeon rydych yn eu hoffi i { -pocket-brand-name } a bwydo'ch meddwl á deunydd diddorol.
-newtab-pocket-pocket-firefox-family = Mae { -pocket-brand-name } yn rhan o deulu { -brand-product-name }
-newtab-pocket-save = Cadw
-newtab-pocket-saved = Wedi'u Cadw
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = Mwy fel hyn
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = Nid i mi
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = Diolch. Bydd eich adborth yn ein helpu i wella'ch llif.
-newtab-toast-dismiss-button =
-    .aria-label = Cau
-    .title = Cau
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = Darganfod y gorau o'r we
-newtab-pocket-onboarding-cta = Mae { -pocket-brand-name } yn archwilio ystod amrywiol o gyhoeddiadau i ddod â'r cynnwys mwyaf addysgiadol, ysbrydoledig a dibynadwy i'ch porwr { -brand-product-name }.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -861,8 +766,6 @@ newtab-error-fallback-refresh-link = Adnewyddu'r dudalen i geisio eto.
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Llwybrau Byr
-newtab-custom-shortcuts-subtitle = Gwefannau rydych yn eu cadw neu'n ymweld â nhw
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Gwefannau rydych yn eu cadw neu'n ymweld â nhw
@@ -887,20 +790,6 @@ newtab-custom-row-selector2 =
             [many] { $num } rhes
            *[other] { $num } rhes
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [zero] { $num } rhesi
-        [one] { $num } rhes
-        [two] { $num } res
-        [few] { $num } rhes
-        [many] { $num } rhes
-       *[other] { $num } rhes
-    }
-newtab-custom-sponsored-sites = Llwybrau byr wedi'u noddi
-newtab-custom-pocket-title = Argymhellir gan  { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Cynnwys eithriadol wedi'i guradu gan { -pocket-brand-name }, rhan o deulu { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = Cynnwys eithriadol wedi'i gasglu gan deulu { -brand-product-name }
@@ -912,10 +801,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = Straeon personol ar sail eich gweithgaredd
 newtab-custom-stories-personalized-checkbox-label = Straeon personol ar sail eich gweithgaredd
-newtab-custom-pocket-sponsored = Straeon wedi'u noddi
-newtab-custom-pocket-show-recent-saves = Dangos pethau gadwyd yn ddiweddar
-newtab-custom-recent-title = Gweithgaredd diweddar
-newtab-custom-recent-subtitle = Detholiad o wefannau a chynnwys diweddar
 newtab-custom-weather-toggle =
     .description = Cipolwg ar ragolygon tywydd heddiw
     .label = Y Tywydd
@@ -947,7 +832,6 @@ newtab-widget-manage-widget-button =
 newtab-custom-close-menu-button =
     .aria-label = Cau'r ddewislen
     .title = Cau
-newtab-custom-close-button = Cau
 newtab-custom-settings = Rheoli rhagor o osodiadau
 
 ## Customization Menu
@@ -996,7 +880,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Mae'r ddelwedd yn fwy na'r terfyn maint ffeil { $file_size }MB. Ceisiwch lwytho ffeil lai.
 newtab-wallpaper-error-upload-file-type = Does dim modd i ni lwytho'ch ffeil. Ceisiwch eto gyda gwahanol fathau o ffeil.
-newtab-wallpaper-error-file-type = Nid oes modd i ni lwytho'ch ffeil. Ceisiwch eto gyda gwahanol fathau o ffeil.
 newtab-wallpaper-light-red-panda = Panda coch
 newtab-wallpaper-light-mountain = Mynydd gwyn
 newtab-wallpaper-light-sky = Awyr gyda chymylau porffor a phinc
@@ -1140,10 +1023,6 @@ newtab-wallpaper-celestial-river = Delwedd lloeren o'r afon
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = Gweld y rhagolygon yn { $provider }
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Wedi'i noddi
 newtab-weather-menu-change-location = Newid lleoliad
 newtab-weather-change-location-search-input-placeholder =
@@ -1170,7 +1049,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Newid i Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Newid i Celsius
-newtab-weather-menu-hide-weather = Cuddio'r tywydd ar Dab Newydd
 newtab-weather-menu-learn-more = Rhagor
 newtab-weather-menu-detect-my-location = Canfod fy lleoliad
 # This message is shown if user is working offline
@@ -1291,7 +1169,6 @@ newtab-section-unblock-topic =
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = Nid nawr
 newtab-section-confirm-block-topic-p1 = Ydych chi'n siŵr eich bod am rwystro'r pwnc hwn?
 newtab-section-confirm-block-topic-p2 = Ni fydd pynciau sydd wedi'u rhwystro yn ymddangos yn eich llif bellach.
 # Variables:

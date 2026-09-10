@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Tye kagamo ngec — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Gamo ngec manyen — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Tye kagamo ngec — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Tye kaketo ngec manyen…
 update-failed = Keto ngec manyen pe olare. <label data-l10n-name="failed-link">Gam kite manyen loyo</label>
 update-failed-main = Keto ngec manyen pe olare. <a data-l10n-name="failed-link-main">Gam kite manyen loyo</a>
-update-adminDisabled = Ngat ma loyo nyonyo ni ojuko ngec manyen woko
 update-policy-disabled = Dul mamegi ojuko woko keto ngec manyen
 settings-update-policy-disabled =
     .label = Dul mamegi ojuko woko keto ngec manyen
@@ -69,8 +67,6 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } ngat ma oyubu obedo <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a <label data-l10n-name="community-creditsLink">lwak me wilobo</label> ma tye katic kacel me gwoko Kakube ayaba, pa lwak dok ononge bot dano weng.
 helpus = Imito konyo? <label data-l10n-name="helpus-donateLink">Mi kony</label> onyo <label data-l10n-name="helpus-getInvolvedLink">dony iye!</label>
 bottomLinks-license = Ngec ikom nongo lancic
-bottomLinks-rights = Twero pa Latic Kwede
-bottomLinks-privacy = Cik ma keme ki mung pire
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

@@ -16,15 +16,3 @@ recently-closed-menu-reopen-all-windows = Volver abrir toles ventanes
 
 recently-closed-panel-reopen-all-tabs = Volver abrir toles llingüetes
 recently-closed-panel-reopen-all-windows = Volver abrir toles ventanes
-
-##
-
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [one] { $winTitle } (y { $tabCount } llingüeta más)
-       *[other] { $winTitle } (y { $tabCount } llingüetes más)
-    }

@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Wuwzaća
     .style = min-width: 45em
+    .title = Wuwzaća
 permissions-close-key =
     .key = w
 permissions-address = Adresa websydła
@@ -80,79 +80,64 @@ permissions-invalid-uri-label = Prošu zapodajće płaćiwe mjeno hosta
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Wuwzaća za polěpšeny slědowanski škit
     .style = { permissions-window2.style }
+    .title = Wuwzaća za polěpšeny slědowanski škit
 permissions-exceptions-manage-etp-desc = Móžeće podać, kotre websydła maja polěpšeny slědowanski škit znjemóžnjeny. Zapodajće eksaktnu adresu websydła, kotrež chceće rjadować a klikńće potom na Wuwzaće přidać.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Wuwzaća - placki a sydłowe daty
     .style = { permissions-window2.style }
+    .title = Wuwzaća - placki a sydłowe daty
 permissions-exceptions-cookie-desc = Móžeće podać, kotre websydła smědźa přeco abo njesmědźa ženje placki a sydłowe daty wužiwać. Zapisajće eksaktnu adresu sydła, kotrež chceće rjadować a klikńće potom na Blokować, Za posedźenje dowolić abo Dowolić.
 
 ## Exceptions - Clear on Shutdown
 
 permissions-exceptions-shutdown-clearing-window =
-    .title = Wuwzaća – Historiju při kónčenju zhašeć
     .style = { permissions-window2.style }
+    .title = Wuwzaća – Historiju při kónčenju zhašeć
 permissions-exceptions-shutdown-clearing-desc = Móžeće podać, kotre websydła swoje daty wobchowuja, hdyž { -brand-short-name } historiju při začinjenju zhaša. Zapisajće eksaktnu adresu sydła, kotrež chceće rjadować a klikńće potom na Dowolić.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Wuwzaća - Modus Jenož-HTTPS
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Móžeće modus Jenož-HTTPS za wěste websydła znjemóžnić. { -brand-short-name } njespyta, zwisk za te sydła na wěsty HTTPS aktualizować. Wuwzaća za priwatne wokna njepłaća.
+    .title = Wuwzaća - Modus Jenož-HTTPS
 permissions-exceptions-https-only-desc2 = Móžeće modus Jenož-HTTPS za wěste websydła znjemóžnić. { -brand-short-name } njespyta, zwisk za te sydła na wěsty HTTPS aktualizować.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
     .title = Dowolene websydła – wuskakowace wokna a dalesposrědkowanja třećich poskićowarjow
-    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = Móžeće postajić, kotre websydła smědźa wuskakowace wokna wočinić a so přez wobłuki třećich poskićowarjow dale sposrědkować.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Dowolene sydła - wuskakowace wokna
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Móžeće podać, kotre websydła smědźa wuskakowace wokna wočinić. Zapisajće eksaktnu adresu sydła, kotrež chceće dowolić a klikńće potom na Dowolić.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Wuwzaća - składowane přizjewjenja
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Přizjewjenja za slědowace sydła njebudu so składować
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Wuwzaća - składowane hesła
     .style = { permissions-window2.style }
+    .title = Wuwzaća - składowane hesła
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } njebudźe hesła sydłow składować, kotrež su tu nalistowane.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Dowolene sydła - Instalacija přidatkow
     .style = { permissions-window2.style }
+    .title = Dowolene sydła - Instalacija přidatkow
 permissions-exceptions-addons-desc = Móžeće podać, kotre websydła smědźa přidatki instalować. Zapisajće eksaktnu adresu sydła, kotrež chceće dowolić a klikńće potom na Dowolić.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Nastajenja - awtomatiske wothraće
     .style = { permissions-window2.style }
+    .title = Nastajenja - awtomatiske wothraće
 permissions-site-autoplay-desc = Móžeće sydła rjadować, kotrež nimaja so tu po wašich standardnych nastajenjach awtomatiskeho wothraća.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Nastajenja - zdźělenske prawa
     .style = { permissions-window2.style }
+    .title = Nastajenja - zdźělenske prawa
 permissions-site-notification-desc = Slědowace websydła su požadali wam zdźělenki pósłać. Móžeće podać, kotre websydła smědźa wam zdźělenki pósłać. Móžeće tež nowe žadanja za dowolnosću zdźělenkow blokować.
 permissions-site-notification-disable-label =
     .label = Nowe žadanja za dowolnosću zdźělenkow blokować
@@ -161,8 +146,8 @@ permissions-site-notification-disable-desc = To budźe websydła, kotrež horjek
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Nastajenja - prawa stejnišća
     .style = { permissions-window2.style }
+    .title = Nastajenja - prawa stejnišća
 permissions-site-location-desc = Slědowace websydła su přistup k wašemu stejnišću požadali. Móžeće podać, kotre websydła maja přistup k wašemu stejnišću. Móžeće tež žadanja za přistupom k wašemu stejnišću blokować.
 permissions-site-location-disable-label =
     .label = Nowe žadanja za přistupom na waše stejnišćo blokować
@@ -171,8 +156,8 @@ permissions-site-location-disable-desc = To budźe websydła, kotrež horjeka w 
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Nastajenja - prawa za wirtualnu realitu
     .style = { permissions-window2.style }
+    .title = Nastajenja - prawa za wirtualnu realitu
 permissions-site-xr-desc = Slědowace websydła su přistup k wašim gratam wirtualneje reality požadali. Móžeće podać, kotre websydła maja přistup k wašim gratam wirtualneje reality. Móžeće tež nowe žadanja za přistupom k wašim gratam wirtualneje reality blokować.
 permissions-site-xr-disable-label =
     .label = Nowe žadanja za přistupom k wašim gratam wirtualneje reality
@@ -181,8 +166,8 @@ permissions-site-xr-disable-desc = To budźe websydła, kotrež horjeka w lisći
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Nastajenja - prawa kamery
     .style = { permissions-window2.style }
+    .title = Nastajenja - prawa kamery
 permissions-site-camera-desc = Slědowace websydła su přistup k wašej kamerje požadali. Móžeće podać, kotre websydła maja přistup k wašej kamerje. Móžeće tež nowe žadanja za přistupom k wašej kamerje blokować.
 permissions-site-camera-disable-label =
     .label = Nowe žadanja za přistupom na wašu kameru blokować
@@ -191,8 +176,8 @@ permissions-site-camera-disable-desc = To budźe websydła, kotrež horjeka w li
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = Nastajenja – Gratowe nałoženja a słužby
     .style = { permissions-window2.style }
+    .title = Nastajenja – Gratowe nałoženja a słužby
 permissions-site-localhost-desc = Tute websydła su wo přistup k nałoženjam a słužbam na tutym graće prosyli. Móžeće rozsudźić, hač sydłam dowoleće abo zakazujeće to činić.
 permissions-site-localhost-disable-label =
     .label = Blokujće nowe naprašowanja za přistupom k nałoženjam a słužbam na tutym graće
@@ -201,8 +186,8 @@ permissions-site-localhost-disable-desc = To tomu zadźěwa, zo websydła, kotre
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = Nastajenja – Graty lokalneje syće
     .style = { permissions-window2.style }
+    .title = Nastajenja – Graty lokalneje syće
 permissions-site-local-network-desc = Tute websydła su wo přistup k nałoženjam a słužbam na gratach prosyli, kotrež su z wašej lokalnej syću WLAN zwjazane. Móžeće rozsudźić, hač sydłam dowoleće abo zakazujeće to činić.
 permissions-site-local-network-disable-label =
     .label = Blokujće nowe naprašowanja za přistupom k nałoženjam a słužbam na gratach, kotrež su z wašej lokalnej syću WLAN zwjazane.
@@ -211,8 +196,8 @@ permissions-site-local-network-disable-desc = To tomu zadźěwa, zo websydła, k
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Nastajenja - prawa mikrofona
     .style = { permissions-window2.style }
+    .title = Nastajenja - prawa mikrofona
 permissions-site-microphone-desc = Slědowace websydła su přistup k wašemu mikrofonej požadali. Móžeće podać, kotre websydła maja přistup k wašemu mikrofonej. Móžeće tež nowe žadanja za přistupom k wašemu mikrofonej blokować.
 permissions-site-microphone-disable-label =
     .label = Nowe žadanja za přistupom na waš mikrofon blokować
@@ -223,12 +208,12 @@ permissions-site-microphone-disable-desc = To budźe websydła, kotrež horjeka 
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Nastajenja - prawa wótřerěčaka
     .style = { permissions-window2.style }
+    .title = Nastajenja - prawa wótřerěčaka
 permissions-site-speaker-desc = Slědowace websydła su wo to prosyli, zo bychu grat za awdiowudaće wubrali. Móžeće podać, kotre websydła smědźa grat za awdiowudaće wubrać.
 permissions-exceptions-doh-window =
-    .title = Websydłowe wuwzaća za DNS over HTTPS
     .style = { permissions-window2.style }
+    .title = Websydłowe wuwzaća za DNS over HTTPS
 permissions-exceptions-manage-doh-desc = { -brand-short-name } njebudźe wěsty DNS na tutych sydłach a jich poddomenach wužiwać.
 permissions-doh-entry-field = Zapodajće domenowe mjeno websydła
     .accesskey = d

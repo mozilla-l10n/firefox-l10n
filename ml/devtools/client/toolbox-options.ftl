@@ -68,8 +68,6 @@ options-sourceeditor-keybinding-default-label = തനിമട്ട്
 
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = അധികമായ സജ്ജീകരണങ്ങള്‍
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = JavaScript* പ്രവര്‍ത്തന രഹിതമാക്കുക
 options-disable-javascript-tooltip =
     .title = നിലവിലുള്ള റ്റാബിനുള്ള ജാവാസ്ക്രിപ്റ്റ് പ്രവര്‍ത്തന രഹിതമാക്കുന്നതിനായി ഈ ഐച്ഛികം ഓണ്‍ ചെയ്യുക. റ്റാബ് അല്ലെങ്കില്‍ ഉപകരണപ്പട്ടിക അടച്ചെങ്കില്‍, ഈ സജ്ജീകരണം ഉപേക്ഷിയ്ക്കുന്നതാണു്.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -82,8 +80,6 @@ options-enable-remote-label = വിദൂര ഡീബഗ്ഗിങ് പ്
 options-enable-service-workers-http-label = എച് ടി ടി പി മുഖേന സര്‍വീസ് വര്‍ക്കര്‍സ് എനബിള്‍ ചെയ്യുക (ടൂള്‍ബോക്സ് ഓപ്പണ്‍ ആയിരിക്കുമ്പോള്‍)
 options-enable-service-workers-http-tooltip =
     .title = ഈ ഓപ്ഷൻ ഓണാക്കുന്നത്, ടൂൾബോക്സ് തുറന്നിട്ടുള്ള എല്ലാ ടാബുകള്‍ക്കും എച് ടി ടി പി മുഖേന സര്‍വീസ് വര്‍ക്കര്‍സ് എനബിള്‍ ചെയ്യും.
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * നിലവിലുള്ള സെഷന്‍ മാത്രം, താള്‍ വീണ്ടും ലഭ്യമാക്കുന്നു
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

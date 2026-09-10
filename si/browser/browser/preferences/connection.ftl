@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = සම්බන්ධතාවේ සැකසුම්
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = සම්බන්ධතාවේ සැකසුම්
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -58,14 +58,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = යළි පූරණය
     .accesskey = e
-connection-proxy-autologin =
-    .label = මුරපදය තිබේ නම් සත්‍යාපනයට නොදක්වන්න
-    .accesskey = i
-    .tooltip = ඔබ අක්තපත්‍ර සුරකින ලද්දේ නම් මෙම විකල්පය නිහඬව ඔබව ප්‍රතියුක්තය වෙත සත්‍යාපනය කරයි. සත්‍යාපනයට අසමත් නම් ඔබගෙන් විමසනු ඇත.
 connection-proxy-autologin-checkbox =
     .label = මුරපදය තිබේ නම් සත්‍යාපනයට නොදක්වන්න
-    .accesskey = i
     .tooltiptext = ඔබ අක්තපත්‍ර සුරකින ලද්දේ නම් මෙම විකල්පය නිහඬව ඔබව ප්‍රතියුක්තය වෙත සත්‍යාපනය කරයි. සත්‍යාපනයට අසමත් නම් ඔබගෙන් විමසනු ඇත.
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = SOCKS v5 භාවිත විට ව.නා.ප. ප්‍රතියුක්තය
     .accesskey = D
@@ -76,6 +72,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = HTTPS මගින් ව.නා.ප. විසඳීමට පෙරනිමි ඒ.ස.නි. යොදාගන්න
 connection-dns-over-https-url-custom =
     .label = අභිරුචි
-    .accesskey = C
     .tooltiptext = HTTPS මගින් ව.නා.ප. විසඳීමට ප්‍රියතම ඒ.ස.නි. යොදන්න
-connection-dns-over-https-custom-label = අභිරුචි
+    .accesskey = C

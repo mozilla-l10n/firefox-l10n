@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxviewtabrow-open-menu-button =
-    .title = 打开菜单
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
@@ -24,10 +22,6 @@ fxviewtabrow-dismiss-tab-button =
     .title = 关闭 { $tabTitle }
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = 刚刚
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-delete = 删除
     .accesskey = D
 fxviewtabrow-forget-about-this-site = 抹去此网站相关数据…
@@ -57,8 +51,6 @@ fxviewtabrow-send-to-device = 发送到设备
     .accesskey = n
 fxviewtabrow-send-to-mobile = 发送到移动设备
     .accesskey = n
-fxviewtabrow-send-tab = 发送标签页到设备
-    .accesskey = n
 fxviewtabrow-pin-tab = 固定标签页
     .accesskey = P
 fxviewtabrow-unpin-tab = 取消固定标签页
@@ -82,8 +74,5 @@ fxviewtabrow-send-to-mobile-connect-device = 连接设备以发送标签页
 fxviewtabrow-send-to-mobile-device-missing2 = 看不到您的设备？
 fxviewtabrow-send-to-mobile-not-verified = 账户未验证
 fxviewtabrow-send-to-mobile-verify-account = 验证您的账户
-
-## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
-
 fxviewtabrow-send-to-mobile-sign-in = 登录以发送标签页
 fxviewtabrow-send-to-mobile-turn-on-sync = 开启同步以发送标签页

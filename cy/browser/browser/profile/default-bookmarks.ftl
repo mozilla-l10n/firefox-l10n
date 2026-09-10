@@ -2,17 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-# This file intentionally uses hard-coded brand names instead of Fluent terms.
-# This approach minimizes issues across multiple release channels and rebranded
-# versions.
-
 default-bookmarks-title = Nodau Tudalen
 default-bookmarks-heading = Nodau Tudalen
-default-bookmarks-toolbarfolder = Ffolder Bar Offer Nodau Tudalen
-default-bookmarks-toolbarfolder-description = Ychwanegu nodau tudalen i'r ffolder hwn i'w gweld yn cael eu dangos ar y Bar Offer Nodau Tudalen
-# link title for https://www.mozilla.org/firefox/central/
-default-bookmarks-getting-started = Cychwyn Arni
 # Firefox links folder name
 default-bookmarks-firefox-heading = Mozilla Firefox
 # link title for https://www.mozilla.org/firefox/help/

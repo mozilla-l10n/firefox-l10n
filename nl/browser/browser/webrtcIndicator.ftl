@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } – Indicator voor delen
-webrtc-indicator-window =
-    .title = { -brand-short-name } – Indicator voor delen
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = U deelt uw microfoon. Klik om delen te beheren.
 webrtc-screen-system-menu =
     .label = U deelt een venster of scherm. Klik om delen te beheren.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Uw camera en microfoon worden gedeeld. Klik om delen te beheren.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Uw camera wordt gedeeld. Klik om delen te beheren.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Uw microfoon wordt gedeeld. Klik om delen te beheren.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Een toepassing wordt gedeeld. Klik om delen te beheren.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Uw scherm wordt gedeeld. Klik om delen te beheren.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Een venster wordt gedeeld. Klik om delen te beheren.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Een tabblad wordt gedeeld. Klik om delen te beheren.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = { $origin } toes
 
 webrtc-share-screen-warning = Deel alleen schermen met websites die u vertrouwt. Delen kan misleidende websites toestaan om als u te surfen en uw privégegevens te stelen.
 webrtc-share-browser-warning = Deel { -brand-short-name } alleen met websites die u vertrouwt. Delen kan misleidende websites toestaan om als u te surfen en uw privégegevens te stelen.
-webrtc-share-screen-learn-more = Meer info
 webrtc-pick-window-or-screen = Venster of scherm selecteren
 webrtc-share-entire-screen = Gehele scherm
 webrtc-share-pipe-wire-portal = Instellingen van het besturingssysteem gebruiken

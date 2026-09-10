@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Sken deg ukaram
            *[other] Sken deg ukaram
         }
-downloads-cmd-show-downloads =
-    .label = Sken-d akaram n yisadaren
 downloads-cmd-retry =
     .tooltiptext = Ɛreḍ i tikelt-nniḍen
 downloads-cmd-retry-panel =

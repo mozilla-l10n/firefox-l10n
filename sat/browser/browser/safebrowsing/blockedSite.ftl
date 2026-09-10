@@ -21,44 +21,13 @@ safeb-palm-see-details-label = ᱵᱤᱵᱨᱟᱬ ᱧᱮᱞ ᱢᱮ
 
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> ᱫᱚ <a data-l10n-name='error_desc_link'>ᱠᱩᱢᱵᱽᱲᱩ ᱥᱟᱭᱤᱴ ᱞᱮᱠᱷᱟ ᱠᱷᱚᱵᱚᱨ ᱮᱱᱟ</a>᱾ ᱟᱢ ᱫᱚ <a data-l10n-name='report_detection'>ᱪᱤᱱᱦᱟᱹᱯ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱠᱷᱚᱵᱚᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ</a> ᱥᱮ <a data-l10n-name='ignore_warning_link'>ᱨᱤᱥᱠ ᱠᱚ ᱵᱮᱠᱷᱟᱛᱤᱨ ᱠᱟᱛᱮ</a> ᱱᱚᱶᱟ ᱵᱟᱝ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱥᱟᱭᱤᱴ ᱪᱟᱞᱟᱜ ᱢᱮ ᱾
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> ᱫᱚ <a data-l10n-name='error_desc_link'>ᱠᱩᱢᱵᱽᱲᱩ ᱥᱟᱭᱤᱴ ᱞᱮᱠᱷᱟ ᱠᱷᱚᱵᱚᱨ ᱮᱱᱟ</a>᱾ ᱟᱢ ᱫᱚ <a data-l10n-name='report_detection'>ᱪᱤᱱᱦᱟᱹᱯ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱠᱷᱚᱵᱚᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ</a>᱾
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-phishing-page-learn-more = <a data-l10n-name='learn_more_link'>www.antiphishing.org</a> ᱨᱮ ᱠᱩᱢᱵᱽᱲᱩ ᱥᱟᱭᱤᱴᱠᱚ ᱟᱨ ᱯᱷᱤᱥᱤ ᱥᱟᱭᱤᱴᱠᱚ ᱵᱟᱵᱚᱛ ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ ᱾ { -brand-short-name } ᱵᱟᱵᱚᱛ ᱯᱷᱤᱥᱤᱝ ᱟᱨ ᱢᱟᱞᱣᱮᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱚᱵᱚᱛ <a data-l10n-name='firefox_support'>support.mozilla.org</a> ᱨᱮ ᱵᱟᱲᱟᱭ ᱢᱮ ᱾
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> ᱫᱚ <a data-l10n-name='error_desc_link'>ᱵᱟᱹᱲᱤᱡ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱢᱮᱱᱟᱜ ᱞᱮᱠᱷᱟᱛᱮ ᱠᱷᱚᱵᱚᱨ ᱠᱟᱱᱟ</a>᱾ ᱟᱢ ᱫᱚ <a data-l10n-name='ignore_warning_link'>ᱱᱚᱶᱟ ᱨᱤᱥᱠ ᱵᱮᱠᱷᱟᱛᱤᱨ ᱠᱟᱛᱮ</a> ᱟᱨ ᱵᱟᱝ ᱴᱷᱤᱠ ᱥᱟᱭᱤᱴ ᱛᱮ ᱪᱟᱞᱟᱜ ᱢᱮ ᱾
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> ᱫᱚ <a data-l10n-name='error_desc_link'>ᱵᱟᱹᱲᱤᱡ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱢᱮᱱᱟᱜ ᱞᱮᱠᱷᱟᱛᱮ ᱠᱷᱚᱵᱚᱨ ᱠᱟᱱᱟ</a>᱾
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-malware-page-learn-more-sumo = { -brand-short-name } ᱵᱟᱵᱚᱛ ᱯᱷᱤᱥᱤᱝ ᱟᱨ ᱢᱟᱞᱣᱮᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱚᱵᱚᱛ <a data-l10n-name='firefox_support'>support.mozilla.org</a> ᱨᱮ ᱵᱟᱲᱟᱭ ᱢᱮ ᱾
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> ᱫᱚ <a data-l10n-name='error_desc_link'>ᱵᱟᱹᱲᱤᱡ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱢᱮᱱᱟᱜᱼᱟ ᱢᱮᱱᱛᱮ ᱠᱚ ᱠᱷᱚᱵᱚᱨ ᱠᱟᱫᱟ</a>᱾ ᱟᱢ ᱫᱚ <a data-l10n-name='ignore_warning_link'>ᱱᱚᱶᱟ ᱨᱤᱥᱠ ᱵᱮᱠᱷᱟᱛᱤᱨ ᱠᱟᱛᱮ</a> ᱟᱨ ᱵᱟᱝ ᱴᱷᱤᱠ ᱥᱟᱭᱤᱴ ᱛᱮ ᱪᱟᱞᱟᱜ ᱢᱮ ᱾
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> ᱫᱚ <a data-l10n-name='error_desc_link'>ᱵᱟᱹᱲᱤᱡ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱢᱮᱱᱟᱜᱼᱟ ᱢᱮᱱᱛᱮ ᱠᱚ ᱠᱷᱚᱵᱚᱨ ᱠᱟᱫᱟ</a>᱾
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-learn-more = <a data-l10n-name='learn_more_link'>ᱵᱟᱝ ᱫᱚᱨᱠᱟᱨ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱱᱤᱛᱤ</a> ᱨᱮ ᱵᱟᱹᱲᱤᱡ ᱟᱨ ᱵᱟᱝ ᱫᱚᱨᱠᱟᱨ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱵᱟᱵᱚᱛ ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ ᱾ { -brand-short-name } ᱵᱟᱵᱚᱛ ᱯᱷᱤᱥᱤᱝ ᱟᱨ ᱢᱟᱞᱣᱮᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱚᱵᱚᱛ <a data-l10n-name='firefox_support'>support.mozilla.org</a> ᱨᱮ ᱵᱟᱲᱟᱭ ᱢᱮ ᱾
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> ᱫᱚ <a data-l10n-name='error_desc_link'>ᱵᱟᱹᱲᱤᱡ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱢᱮᱱᱟᱜ ᱞᱮᱠᱷᱟ ᱠᱷᱚᱵᱚᱨ ᱠᱟᱱᱟ</a>᱾ ᱟᱢ ᱫᱚ <a data-l10n-name='ignore_warning_link'>ᱱᱚᱶᱟ ᱨᱤᱥᱠ ᱵᱮᱠᱷᱟᱛᱤᱨ ᱠᱟᱛᱮ</a> ᱟᱨ ᱵᱟᱝ ᱴᱷᱤᱠ ᱥᱟᱭᱤᱴ ᱛᱮ ᱪᱟᱞᱟᱜ ᱢᱮ ᱾
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> ᱫᱚ <a data-l10n-name='error_desc_link'>ᱵᱟᱹᱲᱤᱡ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱢᱮᱱᱟᱜ ᱞᱮᱠᱷᱟ ᱠᱷᱚᱵᱚᱨ ᱠᱟᱱᱟ</a>᱾
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-harmful-page-learn-more = { -brand-short-name } ᱵᱟᱵᱚᱛ ᱯᱷᱤᱥᱤᱝ ᱟᱨ ᱢᱟᱞᱣᱮᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱚᱵᱚᱛ <a data-l10n-name='firefox_support'>support.mozilla.org</a> ᱨᱮ ᱵᱟᱲᱟᱭ ᱢᱮ ᱾
-safeb-palm-notdeceptive =
-    .label = ᱱᱚᱶᱟ ᱫᱚ ᱫᱷᱚᱠᱮᱵᱟᱡᱽ ᱥᱟᱭᱤᱴ ᱵᱟᱝ ᱠᱟᱱᱟ …
-    .accesskey = d

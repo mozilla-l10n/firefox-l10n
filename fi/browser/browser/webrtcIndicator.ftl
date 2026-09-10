@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } — Jakamisen ilmaisin
-webrtc-indicator-window =
-    .title = { -brand-short-name } — Jakamisen ilmaisin
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Mikrofonisi on jaettu. Napsauta muokataksesi jakoasetuksia.
 webrtc-screen-system-menu =
     .label = Jaat ikkunan tai koko näytön. Napsauta muokataksesi jakoasetuksia.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Kamera ja mikrofoni on jaettu. Napsauta muokataksesi jakoasetuksia.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Kamera on jaettu. Napsauta muokataksesi jakoasetuksia.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Mikrofoni on jaettu. Napsauta muokataksesi jakoasetuksia.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Ohjelma on jaettu. Napsauta muokataksesi jakoasetuksia.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Näyttö on jaettu. Napsauta muokataksesi jakoasetuksia.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Ikkuna on jaettu. Napsauta muokataksesi jakoasetuksia.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Välilehti on jaettu. Napsauta muokataksesi jakoasetuksia.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Saako { $origin 
 
 webrtc-share-screen-warning = Jaa näyttöjä vain luottamillesi sivustoille. Jakamisen ansiosta petollinen sivusto voi pystyä selaamaan verkkoa esiintyen sinuna ja varastamaan henkilötietojasi.
 webrtc-share-browser-warning = Jaa { -brand-short-name } vain luottamillesi sivustoille. Jakamisen ansiosta petollinen sivusto voi pystyä selaamaan verkkoa esiintyen sinuna ja varastamaan henkilötietojasi.
-webrtc-share-screen-learn-more = Lue lisää
 webrtc-pick-window-or-screen = Valitse ikkuna tai näyttö
 webrtc-share-entire-screen = Koko näyttö
 webrtc-share-pipe-wire-portal = Käytä käyttöjärjestelmän asetuksia

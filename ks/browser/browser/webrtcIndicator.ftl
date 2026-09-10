@@ -24,21 +24,6 @@ webrtc-sharing-menu =
     .label = ٹیب یِم شییر کران چھ ڈیوایِس&
     .accesskey = d
 
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = تُہند کیمرا تْہ مایکروفون چُھ شییر کرنْہ یوان۔ کْلک کْریو شییرینگ کنٹرول کرنْہ باپت۔
-webrtc-indicator-sharing-camera =
-    .tooltiptext = تُہند کیمرا چُھ  شییر کرنْہ یوان۔ کْلک کْریو شییرینگ کنٹرول کرنْہ باپت۔
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = تُہند مایکروفون چُھ  شییر کرنْہ یوان۔ کْلک کْریو شییرینگ کنٹرول کرنْہ باپت۔
-webrtc-indicator-sharing-application =
-    .tooltiptext = اکھ ایپلیکیشن چھ  شییر کرنْہ یوان۔ کْلک کْریو شییرینگ کنٹرول کرنْہ باپت۔
-webrtc-indicator-sharing-screen =
-    .tooltiptext = تُہند سکرین چُھ  شییر کرنْہ یوان۔ کْلک کْریو شییرینگ کنٹرول کرنْہ باپت۔
-webrtc-indicator-sharing-window =
-    .tooltiptext = اکھ وینڈو چھ  شییر کرنْہ یوان۔ کْلک کْریو شییرینگ کنٹرول کرنْہ باپت۔
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:

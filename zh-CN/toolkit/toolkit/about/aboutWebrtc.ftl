@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = 隐藏已关闭的 Peer
 about-webrtc-aec-logging-msg-label = AEC 正在记录
 about-webrtc-aec-logging-off-state-label = 开始 AEC 日志记录
 about-webrtc-aec-logging-on-state-label = 停止 AEC 日志记录
-about-webrtc-aec-logging-on-state-msg = AEC 日志正在记录（与呼叫者说几分钟话，然后停止捕捉）
 about-webrtc-aec-logging-toggled-on-state-msg = AEC 日志正在记录（与呼叫者说几分钟话，然后停止捕捉）
 about-webrtc-aec-logging-unavailable-sandbox = 导出AEC日志需要环境变量MOZ_DISABLE_CONTENT_SANDBOX=1。仅当您了解潜在的风险时才应设置此变量。
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = 已提名
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = 已选定
 about-webrtc-save-page-label = 保存页面
-about-webrtc-debug-mode-msg-label = 调试模式
-about-webrtc-debug-mode-off-state-label = 开始调试模式
-about-webrtc-debug-mode-on-state-label = 停止调试模式
-about-webrtc-stats-heading = 会话统计
 about-webrtc-enable-logging-label = 启用 WebRTC 日志预设
 about-webrtc-peerconnections-section-heading = RTCPeerConnection 统计信息
 about-webrtc-peerconnections-section-show-msg = 显示 RTCPeerConnection 统计信息
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = 隐藏 RTCPeerConnection 统计�
 about-webrtc-stats-clear = 清除历史记录
 about-webrtc-log-heading = 连接日志
 about-webrtc-log-clear = 清除日志
-about-webrtc-log-show-msg = 显示日志
-    .title = 点击展开此段
-about-webrtc-log-hide-msg = 隐藏日志
-    .title = 点击折叠此段
 about-webrtc-log-section-show-msg = 显示日志
     .title = 点击展开此段
 about-webrtc-log-section-hide-msg = 隐藏日志
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = 远程候选
 about-webrtc-raw-candidates-heading = 所有原始候选者
 about-webrtc-raw-local-candidate = 原始本地候选者
 about-webrtc-raw-remote-candidate = 原始远程候选者
-about-webrtc-raw-cand-show-msg = 显示原始候选者
-    .title = 点击展开此段
-about-webrtc-raw-cand-hide-msg = 隐藏原始候选者
-    .title = 点击折叠此段
 about-webrtc-raw-cand-section-show-msg = 显示原始候选者
     .title = 点击展开此段
 about-webrtc-raw-cand-section-hide-msg = 隐藏原始候选者
     .title = 点击折叠此段
 about-webrtc-priority = 优先级
-about-webrtc-fold-show-msg = 显示详细信息
-    .title = 点击展开此段
-about-webrtc-fold-hide-msg = 隐藏详细信息
-    .title = 点击折叠此段
 about-webrtc-fold-default-show-msg = 显示详细信息
     .title = 点击展开此段
 about-webrtc-fold-default-hide-msg = 隐藏详细信息
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = 提供
 # been provided
 about-webrtc-configuration-element-not-provided = 不提供
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = WebRTC 用户设置项
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = 用户修改过的 WebRTC 配置
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = 往返时延（RTT | ms）
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = 视频帧统计信息 - MediaStreamTrack ID：{ $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = 页面已保存到: { $path }
-about-webrtc-debug-mode-off-state-msg = 跟踪日志可以在这里找到: { $path }
-about-webrtc-debug-mode-on-state-msg = 调试模式已激活，跟踪日志在: { $path }
-about-webrtc-aec-logging-off-state-msg = 捕捉到的日志文件在这里: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

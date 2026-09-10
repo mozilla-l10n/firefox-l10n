@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Ngoại lệ
     .style = min-width: 45em
+    .title = Ngoại lệ
 permissions-close-key =
     .key = w
 permissions-address = Địa chỉ của trang web
@@ -80,15 +80,15 @@ permissions-invalid-uri-label = Hãy nhập một tên máy chủ có thực
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Các ngoại lệ cho trình chống theo dõi nâng cao
     .style = { permissions-window2.style }
+    .title = Các ngoại lệ cho trình chống theo dõi nâng cao
 permissions-exceptions-manage-etp-desc = Bạn có thể chỉ định các trang web nào sẽ tắt Trình chống theo dõi nâng cao. Nhập địa chỉ chính xác của trang web mà bạn muốn quản lý, sau đó nhấp vào "Thêm ngoại lệ".
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Ngoại lệ - Cookie và dữ liệu trang web
     .style = { permissions-window2.style }
+    .title = Ngoại lệ - Cookie và dữ liệu trang web
 permissions-exceptions-cookie-desc = Bạn có thể chỉ định trang web nào luôn hoặc không bao giờ được phép sử dụng cookie và dữ liệu trang web. Nhập địa chỉ chính xác của trang web bạn muốn quản lý và sau đó nhấp vào Chặn, Chỉ cho phép với phiên này hoặc Cho phép.
 
 ## Exceptions - Clear on Shutdown
@@ -101,58 +101,43 @@ permissions-exceptions-shutdown-clearing-desc = Bạn có thể chỉ định nh
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Ngoại lệ - Chế độ chỉ HTTPS
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Bạn có thể tắt Chế độ chỉ HTTPS cho các trang web cụ thể. { -brand-short-name } sẽ không cố gắng nâng cấp kết nối để bảo mật HTTPS cho các trang web đó. Các trường hợp ngoại lệ không áp dụng cho các cửa sổ riêng tư.
+    .title = Ngoại lệ - Chế độ chỉ HTTPS
 permissions-exceptions-https-only-desc2 = Bạn có thể tắt Chế độ chỉ HTTPS cho các trang web cụ thể. { -brand-short-name } sẽ không nâng cấp kết nối để bảo mật HTTPS cho các trang web đó.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
     .title = Các trang web được phép - Cửa sổ bật lên và chuyển hướng của bên thứ ba
-    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = Bạn có thể chỉ định trang web nào được phép mở cửa sổ bật lên và được chuyển hướng bởi frame của bên thứ ba.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Những trang được cho phép - Cửa sổ bật lên
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Bạn có thể chỉ định những trang được phép bật cửa sổ bật lên. Gõ chính xác địa chỉ trang bạn muốn cho phép và sau đó nhấp Cho phép.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Ngoại lệ - Đăng nhập đã lưu
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Thông tin đăng nhập các trang web sau sẽ không được lưu
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Ngoại lệ - Mật khẩu đã lưu
     .style = { permissions-window2.style }
+    .title = Ngoại lệ - Mật khẩu đã lưu
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } sẽ không lưu mật khẩu cho các trang được liệt kê ở đây.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Những trang được cho phép - Cài đặt tiện ích
     .style = { permissions-window2.style }
+    .title = Những trang được cho phép - Cài đặt tiện ích
 permissions-exceptions-addons-desc = Bạn có thể chỉ định trang web nào được phép cài tiện ích. Gõ chính xác địa chỉ trang bạn muốn cho phép và sau đó nhấp Cho phép.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Cài đặt - Tự động phát
     .style = { permissions-window2.style }
+    .title = Cài đặt - Tự động phát
 permissions-site-autoplay-desc = Bạn có thể quản lý các trang web không tuân theo cài đặt tự động phát mặc định của bạn tại đây.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Cài đặt - Quyền thông báo
     .style = { permissions-window2.style }
+    .title = Cài đặt - Quyền thông báo
 permissions-site-notification-desc = Các trang web dưới đây đã yêu cầu để gửi thông báo tới bạn. Bạn có thể chỉ định những trang web nào được phép gửi bạn thông báo. Bạn cũng có thể chặn những yêu cầu mà bạn không muốn cho phép.
 permissions-site-notification-disable-label =
     .label = Chặn các yêu cầu mới về việc cho phép gửi thông báo
@@ -161,8 +146,8 @@ permissions-site-notification-disable-desc = Điều này sẽ ngăn chặn bấ
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Cài đặt - Quyền truy cập vị trí
     .style = { permissions-window2.style }
+    .title = Cài đặt - Quyền truy cập vị trí
 permissions-site-location-desc = Các trang web dưới đây đã yêu cầu quyền truy cập vị trí của bạn. Bạn có thể chỉ định những trang web nào được phép truy cập vị trí của bạn. Bạn cũng có thể chặn các yêu cầu mới về việc xin cấp quyền truy cập vị trí.
 permissions-site-location-disable-label =
     .label = Chặn các yêu cầu mới về việc cho phép tru cập vị trí của bạn
@@ -171,8 +156,8 @@ permissions-site-location-disable-desc = Điều này sẽ ngăn chặn bất c�
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Cài đặt - Quyền thực tế ảo
     .style = { permissions-window2.style }
+    .title = Cài đặt - Quyền thực tế ảo
 permissions-site-xr-desc = Các trang web sau đây đã yêu cầu truy cập các thiết bị thực tế ảo của bạn. Bạn có thể chỉ định trang web nào được phép truy cập các thiết bị thực tế ảo của mình. Bạn cũng có thể chặn các yêu cầu mới mà nó yêu cầu truy cập các thiết bị thực tế ảo của mình.
 permissions-site-xr-disable-label =
     .label = Chặn các yêu cầu mới mà nó yêu cầu truy cập các thiết bị thực tế ảo của bạn
@@ -181,8 +166,8 @@ permissions-site-xr-disable-desc = Điều này sẽ ngăn mọi trang web khôn
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Cài đặt - Quyền sử dụng máy quay
     .style = { permissions-window2.style }
+    .title = Cài đặt - Quyền sử dụng máy quay
 permissions-site-camera-desc = Các trang web dưới đây đã yêu cầu quyền truy cập máy ảnh của bạn. Bạn có thể chỉ định những trang web nào được phép truy cập máy ảnh của bạn. Bạn cũng có thể chặn các yêu cầu mới về việc xin cấp quyền truy cập máy ảnh của bạn.
 permissions-site-camera-disable-label =
     .label = Chặn các yêu cầu mới về việc cho phép tru cập máy ảnh của bạn
@@ -191,8 +176,8 @@ permissions-site-camera-disable-desc = Điều này sẽ ngăn chặn bất cứ
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = Cài đặt - Ứng dụng và dịch vụ thiết bị
     .style = { permissions-window2.style }
+    .title = Cài đặt - Ứng dụng và dịch vụ thiết bị
 permissions-site-localhost-desc = Các trang web này đã yêu cầu quyền truy cập vào các ứng dụng và dịch vụ trên thiết bị này. Bạn có thể chọn cho phép hoặc chặn các trang web thực hiện việc này.
 permissions-site-localhost-disable-label =
     .label = Chặn các yêu cầu mới truy cập vào ứng dụng và dịch vụ trên thiết bị này
@@ -201,8 +186,8 @@ permissions-site-localhost-disable-desc = Thao tác này sẽ ngăn bất kỳ t
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = Cài đặt - Thiết bị mạng cục bộ
     .style = { permissions-window2.style }
+    .title = Cài đặt - Thiết bị mạng cục bộ
 permissions-site-local-network-desc = Các trang web này đã yêu cầu quyền truy cập vào các ứng dụng và dịch vụ trên thiết bị được kết nối với Wi-Fi hoặc mạng cục bộ của bạn. Bạn có thể chọn cho phép hoặc chặn các trang web thực hiện việc này.
 permissions-site-local-network-disable-label =
     .label = Chặn các yêu cầu mới truy cập ứng dụng và dịch vụ trên các thiết bị được kết nối với Wi-Fi hoặc mạng cục bộ của bạn.
@@ -211,8 +196,8 @@ permissions-site-local-network-disable-desc = Thao tác này sẽ ngăn bất k�
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Cài đặt - Quyền micrô
     .style = { permissions-window2.style }
+    .title = Cài đặt - Quyền micrô
 permissions-site-microphone-desc = Các trang web dưới đây đã yêu cầu quyền truy cập micrô của bạn. Bạn có thể chỉ định những trang web nào được phép truy cập micrô của bạn. Bạn cũng có thể chặn các yêu cầu mới về việc xin cấp quyền truy cập micrô của bạn.
 permissions-site-microphone-disable-label =
     .label = Chặn các yêu cầu mới về việc cho phép tru cập micrô của bạn
@@ -223,12 +208,12 @@ permissions-site-microphone-disable-desc = Điều này sẽ ngăn chặn bất 
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Cài đặt - Quyền thiết bị loa
     .style = { permissions-window2.style }
+    .title = Cài đặt - Quyền thiết bị loa
 permissions-site-speaker-desc = Các trang web sau đã yêu cầu chọn thiết bị đầu ra âm thanh. Bạn có thể chỉ định trang web nào được phép chọn thiết bị đầu ra âm thanh.
 permissions-exceptions-doh-window =
-    .title = Ngoại lệ trang web cho DNS qua HTTPS
     .style = { permissions-window2.style }
+    .title = Ngoại lệ trang web cho DNS qua HTTPS
 permissions-exceptions-manage-doh-desc = { -brand-short-name } sẽ không sử dụng DNS bảo mật trên các trang web này và tên miền phụ của chúng.
 permissions-doh-entry-field = Nhập tên miền trang web
     .accesskey = d

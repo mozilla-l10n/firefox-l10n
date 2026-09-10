@@ -31,4 +31,3 @@ search-bookmarks = 书签
 search-history = 历史记录
 search-opentabs = 打开的标签页
 search-tags = 标签
-search-titles = 标题

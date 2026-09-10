@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Spegulado…
 sync-disconnect-dialog-title2 = Ĉu malkonekti?
 sync-disconnect-dialog-body = { -brand-product-name } ne plu spegulos vian konton, sed ĝi ne forigos iun ajn el la retumaj datumoj en tiu ĉi aparato.
 sync-disconnect-dialog-button = Malkonekti
-fxa-signout-dialog2-title = Ĉu fini seancon en { -fxaccount-brand-name }?
 fxa-signout-dialog-title2 = Ĉu fini vian seancon?
 fxa-signout-dialog-body = Spegulitaj datumoj restos en via konto
 fxa-signout-dialog2-button = Fini seancon
@@ -41,14 +40,6 @@ fxviewtabrow-send-to-mobile-not-verified = Nekonfirmita konto
 fxviewtabrow-send-to-mobile-verify-account = Konfirmi vian konton
 fxa-menu-send-to-mobile-turn-on-sync = Ŝaltu speguladon por sendi langetojn
 fxa-menu-send-to-mobile-connect-device = Konektu aparaton por sendi langetojn
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Sendi langeton al aparato
-           *[other] Sendi { $tabCount } langetojn al aparato
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Aparatoj spegulataj…

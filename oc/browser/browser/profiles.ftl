@@ -5,16 +5,16 @@
 profile-window-heading = Causissètz un perfil { -brand-short-name }
 profile-window-create-profile = Crear un perfil
 profile-card-edit-button =
-    .title = Modificar lo perfil
     .aria-label = Modificar lo perfil
+    .title = Modificar lo perfil
 profile-card-delete-button =
-    .title = Suprimir lo perfil
     .aria-label = Suprimir lo perfil
+    .title = Suprimir lo perfil
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Dobrir { $profileName }
     .aria-label = Dobrir { $profileName }
+    .title = Dobrir { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Perfil { $number }
@@ -52,10 +52,6 @@ delete-profile-confirm = Suprimir
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Clar
-# The default dark theme
-profiles-dark-theme = Escur
 # The default system theme
 profiles-system-theme = Sistèma
 profiles-gray-theme = Gris

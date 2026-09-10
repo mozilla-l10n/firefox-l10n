@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiledowngrade-window2 =
-    .title = আপনি { -brand-product-name } এর একটি পুরনো সংস্করণ চালু করেছেন
     .style = min-width: 490px;
+    .title = আপনি { -brand-product-name } এর একটি পুরনো সংস্করণ চালু করেছেন
 profiledowngrade-window-create =
     .label = নতুন প্রোফাইল তৈরি করুন
 profiledowngrade-quit =

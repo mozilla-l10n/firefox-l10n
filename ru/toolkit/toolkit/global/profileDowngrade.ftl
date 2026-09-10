@@ -3,11 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiledowngrade-window2 =
-    .title = Вы запустили устаревшую версию { -brand-product-name }
     .style = min-width: 490px;
+    .title = Вы запустили устаревшую версию { -brand-product-name }
 profiledowngrade-window-create =
     .label = Создать новый профиль
-profiledowngrade-sync = Использование устаревшей версии { -brand-product-name } может повредить закладки и историю просмотра, уже сохранённые в существующем профиле { -brand-product-name }. Чтобы защитить вашу информацию, создайте новый профиль для этой установки { -brand-short-name }. Вы всегда можете войти в свой { -fxaccount-brand-name(case: "nominative") }, чтобы синхронизировать ваши закладки и историю просмотра между профилями.
 profiledowngrade-sync2 = Использование устаревшей версии { -brand-product-name } может повредить закладки и историю просмотра, уже сохранённые в существующем профиле { -brand-product-name }. Чтобы защитить вашу информацию, создайте новый профиль для этой установки { -brand-short-name }. Вы всегда можете войти в свой аккаунт, чтобы синхронизировать ваши закладки и историю просмотра между профилями.
 profiledowngrade-nosync = Использование устаревшей версии { -brand-product-name } может повредить закладки и историю просмотра, уже сохранённые в существующем профиле { -brand-product-name }. Чтобы защитить вашу информацию, создайте новый профиль для этой установки { -brand-short-name }.
 profiledowngrade-quit =

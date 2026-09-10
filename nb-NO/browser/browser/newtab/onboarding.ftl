@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Legg til { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Fremdrift: trinn { $current } av { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -198,11 +192,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Fest { -brand-short-name } til oppgavelinjen og startmenyen
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Start med en nettleser støttet av en ideell organisasjon. Vi forsvarer personvernet ditt mens du surfer rundt på nettet.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -232,57 +221,10 @@ mr2022-onboarding-set-default-subtitle = Bruk en nettleser støttet av en ideell
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Vår nyeste versjon er laget for å møte dine behov og gjøre det enklere å navigere på nettet. Den er fullpakket med funksjoner vi tror du vil elske.
 mr2022-onboarding-get-started-primary-button-label = Hurtig konfigurering
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Lynrask konfigurering
-mr2022-onboarding-import-subtitle = Konfiguer { -brand-short-name } slik du liker det. Legg til bokmerker, passord og mer fra den gamle nettleseren din.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importer fra tidligere nettleser
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Velg fargen som inspirerer deg
-mr2022-onboarding-colorway-subtitle = Uavhengige stemmer kan endre kultur.
-mr2022-onboarding-colorway-primary-button-label-continue = Still inn og fortsett
-mr2022-onboarding-existing-colorway-checkbox-label = Gjør { -firefox-home-brand-name } til din fargerike startside
-mr2022-onboarding-colorway-label-default = Standard
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Gjeldende { -brand-short-name }-farger
-mr2022-onboarding-colorway-description-default = <b>Bruk mine nåværende { -brand-short-name }-farger.</b>
-mr2022-onboarding-colorway-label-playmaker = Spiller
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Spiller (rød)
-mr2022-onboarding-colorway-description-playmaker = <b>Du er en spiller.</b> Du skaper muligheter til å vinne og hjelper alle rundt deg med å heve spillet sitt.
-mr2022-onboarding-colorway-label-expressionist = Ekspresjonistisk
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Ekspresjonistisk (gul)
-mr2022-onboarding-colorway-description-expressionist = <b>Du er en ekspresjonist.</b> Du ser verden annerledes og kreasjonene dine vekker andres følelser.
-mr2022-onboarding-colorway-label-visionary = Visjonær
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Visjonær (grønn)
-mr2022-onboarding-colorway-description-visionary = <b>Du er en visjonær.</b> Du stiller spørsmål ved status quo og får andre til å forestille seg en bedre fremtid.
-mr2022-onboarding-colorway-label-activist = Aktivist
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Aktivist (blå)
-mr2022-onboarding-colorway-description-activist = <b>Du er en aktivist.</b> Du engasjerer deg for å gjøre verden bedre, og du får andre med deg.
-mr2022-onboarding-colorway-label-dreamer = Drømmer
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Drømmer (lilla)
-mr2022-onboarding-colorway-description-dreamer = <b>Du er en drømmer.</b> Du tror at formue favoriserer de dristige og inspirerer andre til å være modige.
-mr2022-onboarding-colorway-label-innovator = Innovatør
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Innovatør (oransje)
-mr2022-onboarding-colorway-description-innovator = <b>Du er en innovatør.</b> Du ser muligheter overalt og påvirker livene til alle rundt deg.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Bytt fra bærbar PC til telefon og tilbake igjen
-mr2022-onboarding-mobile-download-subtitle = Hent faner fra én enhet og fortsett der du sluttet på en annen. Synkroniser også bokmerkene og passordene dine overalt hvor du bruker { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Skann QR-koden for å få { -brand-product-name } for mobil eller <a data-l10n-name="download-label">send deg selv en nedlastingslenke.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Skann QR-koden for å få { -brand-product-name } for mobil
 
@@ -335,15 +277,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Lyshudede og mørkhudede hender gir hverandre en high five
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Utsikt over en solnedgang gjennom et vindu med en rev og en stueplante i en vinduskarm
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = En hånd spraymaler en fargerik collage av et grønt øye, oransje sko, rød basketball, lilla hodetelefoner, blått hjerte og gul krone
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = En rev, på skjermen til en bærbar datamaskin, vinker. Den bærbare datamaskinen har en mus koblet til.
 onboarding-device-migration-title = Velkommen tilbake!
-onboarding-device-migration-subtitle = Logg på { -fxaccount-brand-name } for å ta med deg bokmerkene, passordene og historikken din på den nye enheten.
 onboarding-device-migration-subtitle2 = Logg på kontoen din for å ta med deg bokmerkene, passordene og historikken din på den nye enheten.
 onboarding-device-migration-primary-button-label = Logg inn
 
@@ -460,15 +399,12 @@ tab-groups-onboarding-feature-callout-title = Prøv fanegrupper for mindre rot, 
 tab-groups-onboarding-feature-callout-subtitle = Organiser fanene dine ved å dra én fane oppå en annen for å opprette den første gruppen.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Finn fanegruppene dine når som helst i List opp alle faner-menyen.
-tab-groups-onboarding-create-group-title-2 = Finn fanegruppene dine her når som helst.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Finn gruppene dine ved å søke etter dem i adresselinjen.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Når du lukker en fanegruppe, kan du når som helst åpne den på nytt fra List opp alle faner-menyen.
-tab-groups-onboarding-saved-groups-title-2 = Når du lukker en fanegruppe, kan du åpne den på nytt her når som helst.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Finn dine lukkede grupper ved å søke etter dem i adressefeltet.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Åpne fanegruppene dine på nytt fra List opp alle faner-menyen når som helst.
-tab-groups-onboarding-session-restore-title = Gjenåpne fanegruppene dine her når som helst.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

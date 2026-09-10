@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Bir sayfa geriye ({ $shortcut })
     .aria-label = Geri
+    .tooltiptext = Bir sayfa geriye ({ $shortcut })
     .accesskey = G
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Bir sayfa ileriye ({ $shortcut })
     .aria-label = İleri
+    .tooltiptext = Bir sayfa ileriye ({ $shortcut })
     .accesskey = e
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Yer imlerine ekle…
-    .accesskey = m
     .tooltiptext = Yer imlerine ekle
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Yer imlerine ekle…
-    .accesskey = m
     .tooltiptext = Yer imlerine ekle ({ $shortcut })
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = Yer imini düzenle…
-    .accesskey = d
     .tooltiptext = Yer imini düzenle
+    .accesskey = d
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Yer imini düzenle…
-    .accesskey = d
     .tooltiptext = Yer imini düzenle ({ $shortcut })
+    .accesskey = d
 main-context-menu-open-link =
     .label = Bağlantıyı aç
     .accesskey = B
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Bağlantıyı farklı kaydet…
     .accesskey = f
-main-context-menu-save-link-to-pocket =
-    .label = Bağlantıyı { -pocket-brand-name }’a kaydet
-    .accesskey = P
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Sayfa göndermek için 
 main-context-menu-send-to-mobile-connect-phone3 = Sekme göndermek için bir cihaz bağlayın
 main-context-menu-send-to-mobile-connect-phone-from-link = Bağlantı göndermek için cihaz bağlayın
 main-context-menu-send-to-mobile-connect-phone-from-page = Sayfa göndermek için cihaz bağlayın
-main-context-menu-save-to-pocket =
-    .label = Sayfayı { -pocket-brand-name }’a kaydet
-    .accesskey = P
-main-context-menu-send-to-device =
-    .label = Sayfayı cihaza gönder
-    .accesskey = ö
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Kayıtlı hesabı kullan
-    .accesskey = u
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Kayıtlı parolayı kullan
     .accesskey = u
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } e-posta maskesini kullan
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = Güçlü parola öner…
     .accesskey = G
-main-context-menu-manage-logins2 =
-    .label = Hesapları yönet
-    .accesskey = H
 main-context-menu-manage-passwords =
     .label = Parolaları yönet
     .accesskey = P
-main-context-menu-keyword =
-    .label = Bu arama için anahtar kelime ekle…
-    .accesskey = k
 main-context-menu-add-engine =
     .label = Arama motoru ekle
     .accesskey = A
@@ -391,9 +364,6 @@ main-context-menu-view-selection-source =
     .label = Seçimin kaynak kodunu göster
     .accesskey = o
 main-context-menu-take-screenshot =
-    .label = Ekran görüntüsü al
-    .accesskey = E
-main-context-menu-take-frame-screenshot =
     .label = Ekran görüntüsü al
     .accesskey = E
 main-context-menu-view-page-source =

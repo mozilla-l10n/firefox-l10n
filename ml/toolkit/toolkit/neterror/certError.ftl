@@ -15,7 +15,6 @@ cert-error-untrusted-default = സര്‍ട്ടിഫിക്കറ്റ�
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = പിശക് കോഡ്: <a data-l10n-name="error-code-link">{ $error }</a>
-cert-error-symantec-distrust-admin = ഈ പ്രശ്നത്തെക്കുറിച്ച് നിങ്ങൾക്ക് വെബ്‌സൈറ്റിന്റെ അധികാരിയെ അറിയിക്കാം.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = എച്ച്റ്റിറ്റിപി സ്ട്രിക്ട് ട്രാന്‍സ്പോര്‍ട്ട് സെക്യൂരിറ്റി: { $hasHSTS }
@@ -23,8 +22,6 @@ cert-error-details-hsts-label = എച്ച്റ്റിറ്റിപി �
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = എച്ച്റ്റിറ്റിപി പബ്ലിക്ക് കീ പിന്നിങ്: { $hasHPKP }
 cert-error-details-cert-chain-label = സർട്ടിഫിക്കറ്റ് ചെയിൻ:
-open-in-new-window-for-csp-or-xfo-error = പുതിയ ജാലകത്തില്‍ വെബിടം തുറക്കുക
-fp-certerror-return-to-previous-page-recommended-button = തിരികെ (ശുപാൎശിതം)
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = പിഴവു് സങ്കേതം: { $error }
@@ -59,7 +56,6 @@ redirectLoop-title = ഈ താള്‍ ശരിയായി റീഡയറ�
 unknownSocketType-title = സെര്‍വറില്‍ നിന്നും പ്രതീക്ഷിക്കാത്ത പ്രതികരണം
 nssFailure2-title = സുരക്ഷിതമായ കണക്ഷൻ പരാജയപ്പെട്ടു
 csp-xfo-error-title = { -brand-short-name } ഈ താളിനെ തുറക്കാൻ പറ്റിയില്ല
-corruptedContentError-title = തകരാറുള്ള ഉള്ളടക്കത്തില്‍ പിശക്
 sslv3Used-title = സുരക്ഷിതമായി കണക്ട് ചെയ്യുവാന്‍ സാധ്യമല്ല
 inadequateSecurityError-title = താങ്കളുടെ കണക്ഷന്‍ സുരക്ഷിതമല്ല
 blockedByPolicy-title = തടഞ്ഞ താൾ
@@ -73,8 +69,3 @@ fp-certerror-body-title = സൂക്ഷിക്കുവിൻ. ഇതിൽ 
 fp-certerror-what-can-you-do = അതിനെപ്പറ്റി താങ്ങൾക്കു് എന്തു ചെയ്യാം?
 fp-certerror-advanced-title = കൂടുതല്‍
 fp-certerror-advanced-button = കൂടുതൽ
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-
-fp-certerror-override-exception-button = { $hostname }-ലേക്കു് ചെല്ലുക (സുരക്ഷിതമല്ല)

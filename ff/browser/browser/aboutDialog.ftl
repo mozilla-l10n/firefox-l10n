@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Gaawtagol kesɗitinal — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Gaawtagol kesɗitinal — { $transfer }
 
@@ -29,7 +28,6 @@ settings-update-applying =
     .label = Nana jammina kesɗitinal…
 update-failed = Kesɗitingol jaccii. <label data-l10n-name="failed-link">Aawto yamre sakkitiinde ndee</label>
 update-failed-main = Kesɗitingol jaccii. <a data-l10n-name="failed-link-main">Aawto yamre sakkitiinde ndee</a>
-update-adminDisabled = Kesɗitine ɗe, jiiloowo yuɓɓo maa, ko o daaƴɗo ɗe
 update-policy-disabled = Kesɗitine ɗe ko daaƴaaɗe e gollorde ma.
 settings-update-policy-disabled =
     .label = Kesɗitine ɗe ko daaƴaaɗe e gollorde ma.
@@ -64,8 +62,6 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } ŋeñtii ɗum ko <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, ko <label data-l10n-name="community-creditsLink">renndo adunayaŋkeewo</label>gollodaade ngam ñiiɓnude Geese peeñcu udditiiɗe, keɓaniiɗo yimɓe fof.
 helpus = Aɗa yiɗi wallude?<label data-l10n-name="helpus-donateLink">Addu dokkal maa</label> walla <label data-l10n-name="helpus-getInvolvedLink">addu ballal maa!</label>
 bottomLinks-license = Humpito yamiroore
-bottomLinks-rights = Jojjanɗe Kuutoro
-bottomLinks-privacy = Dawirgol Suturo
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

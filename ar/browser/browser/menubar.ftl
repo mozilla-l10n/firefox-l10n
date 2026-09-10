@@ -258,8 +258,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = ملفات الإعدادات
 menu-profiles-manage-profiles =
     .label = أدِر ملفات الإعدادات
 menu-profiles-new-profile =
@@ -283,9 +281,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = الامتدادات والسمات
     .accesskey = م
-menu-tools-addons-and-themes =
-    .label = الإضافات والسمات
-    .accesskey = ض
 menu-tools-fxa-sign-in2 =
     .label = لِج
     .accesskey = ل
@@ -339,8 +334,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = معلومات أكثر عن مواجهة الأعطال
     .accesskey = ط
-menu-help-report-site-issue =
-    .label = أبلغ عن مشكلة بالموقع…
 menu-help-share-ideas =
     .label = شارك الأفكار والانطباعات...
     .accesskey = ق

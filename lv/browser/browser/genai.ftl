@@ -42,21 +42,11 @@ genai-prompt-prefix-selection = Esmu lapā “{ $tabTitle }” ar atlasītu “{
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Jautāt MI tērzēšanas robotam
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Jautāt { $provider }
 genai-input-ask-generic =
     .placeholder = Vaicāt AI tērzēšanas robotam…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Jautāt { $provider }…
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-huggingchat-price-2 = Bezmaksas; konts nepieciešams pēc noteikta pieprasījumu skaita
 
 ## Link previews
 

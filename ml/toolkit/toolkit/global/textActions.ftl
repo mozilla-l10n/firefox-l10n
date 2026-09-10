@@ -77,7 +77,3 @@ text-action-copy-link-to-highlight =
 # and it strips trackers etc.
 text-action-copy-clean-link-to-highlight =
     .label = അടയാളപ്പെട്ട ഭാഗത്തിലോട്ടു് എത്തിത്തീരുന്ന കണ്ണിയെ പകൎത്തുക (പിന്തുടൎച്ചയന്ത്രങ്ങളില്ലാതെ)
-# If the page has been loaded with a text fragment and text is
-# visibly highlighted, this removes any highlighted sections on the page.
-text-action-remove-all-highlights =
-    .label = അടയാളപ്പെടുത്തിയതെല്ലാം മാറ്റുക

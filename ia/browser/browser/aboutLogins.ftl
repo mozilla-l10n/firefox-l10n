@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Contos e contrasignos
-about-logins-login-filter =
-    .placeholder = Cercar credentiales
-    .key = F
-create-new-login-button =
-    .title = Crear nove credentiales
 about-logins-page-title-name = Contrasignos
 about-logins-login-filter2 =
-    .placeholder = Cercar contrasignos
     .key = F
+    .placeholder = Cercar contrasignos
 create-login-button =
     .title = Adder contrasigno
 fxaccounts-sign-in-text = Accede a tu credentiales sur tote tu apparatos
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importar de un altere navigator…
 about-logins-menu-menuitem-import-from-a-file = Importar de un file…
-about-logins-menu-menuitem-export-logins = Exportar credentiales…
-about-logins-menu-menuitem-remove-all-logins = Remover tote le credentiales…
 about-logins-menu-menuitem-export-logins2 = Exportar contrasignos…
 about-logins-menu-menuitem-remove-all-logins2 = Remover tote le contrasignos…
 menu-menuitem-preferences =
@@ -42,21 +34,6 @@ about-logins-menu-menuitem-help = Adjuta
 
 login-list =
     .aria-label = Credentiales resultante del recerca
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } conto
-       *[other] { $count } contos
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $count } de { $total } credential
-       *[other] { $count } de { $total } credentiales
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -80,14 +57,10 @@ login-list-username-reverse-option = Nomine de usator (Z-A)
 about-logins-login-list-alerts-option = Alertas
 login-list-last-changed-option = Ultime modification
 login-list-last-used-option = Ultime uso
-login-list-intro-title = Nulle credentiales trovate
 login-list-intro-title2 = Nulle contrasignos salvate
 login-list-intro-description = Le contrasignos salvate in { -brand-product-name } apparera hic.
-about-logins-login-list-empty-search-title = Nulle credentiales trovate
 about-logins-login-list-empty-search-title2 = Nulle contrasignos trovate
 about-logins-login-list-empty-search-description = Le recerca non ha producite resultatos.
-login-list-item-title-new-login = Nove credentiales
-login-list-item-subtitle-new-login = Insere le credentiales de accesso
 login-list-item-title-new-login2 = Adder contrasigno
 login-list-item-subtitle-missing-username = (nulle nomine de usator)
 about-logins-list-item-breach-icon =
@@ -103,28 +76,20 @@ about-logins-list-section-week = Le ultime 7 dies
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Cerca tu le credentiales que tu ha salvate? Activa le synchronisation o importa los.
-about-logins-login-intro-heading-logged-in = Nulle credentiales synchronisate trovate.
-login-intro-description = Si tu ha salvate tu credentiales in { -brand-product-name } sur un altere apparato, ecce como render los disponibile hic:
-login-intro-instructions-fxa = Aperi session o crea un { -fxaccount-brand-name } sur le apparato ubi se trova tu credentiales.
 about-logins-login-intro-heading-message = Salva tu contrasignos a un loco secur
 login-intro-description2 = Tote contrasignos que tu salva in { -brand-product-name } es cryptate. In ultra, nos survelia pro violationes e te avisa si tu es afficite. <a data-l10n-name="breach-alert-link">Pro saper plus</a>
 login-intro-instructions-fxa2 = Crea o identifica te in tu conto sur le apparato ubi tu credentiales es salvate.
 login-intro-instructions-fxa-settings = Va a Parametros > Sync > Activar synchronisation… Selige le quadrato ‘Contos e contrasignos’.
 login-intro-instructions-fxa-passwords-help = Visita <a data-l10n-name="passwords-help-link">supporto pro contrasignos</a> pro adjuta ulterior.
-about-logins-intro-browser-only-import = Si tu credentiales es salvate in un altere navigator, tu pote <a data-l10n-name="import-link">importar los in { -brand-product-name }</a>
-about-logins-intro-import2 = Si tu credentiales es salvate foras de { -brand-product-name }, tu pote <a data-l10n-name="import-browser-link">importar los ab un altere navigator</a> o <a data-l10n-name="import-file-link">ab un file</a>
 about-logins-intro-import3 = Elige le button del signo plus supra pro adder un contrasigno ora. Tu alsi pote <a data-l10n-name="import-browser-link">importar contrasignos ab un altere navigator</a> o <a data-l10n-name="import-file-link">ab un file</a>.
 
 ## Login
 
-login-item-new-login-title = Crear nove credentiales
 # Header for adding a password
 about-logins-login-item-new-login-title = Adder contrasigno
 login-item-edit-button = Modificar
 about-logins-login-item-remove-button = Remover
 login-item-origin-label = Adresse web
-login-item-tooltip-message = Verifica que isto concorda con le adresse exacte del sito web ubi tu aperi session.
 about-logins-origin-tooltip2 = Insere le adresse complete e cura que illo corresponde exactemente a illo de tu accesso.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -144,7 +109,6 @@ login-item-password-conceal-checkbox =
     .aria-label = Celar contrasigno
 login-item-copy-password-button-text = Copiar
 login-item-copied-password-button-text = Copiate!
-login-item-save-changes-button = Salvar le cambiamentos
 about-logins-login-item-save-changes-button = Salvar
 login-item-save-new-button = Salvar
 login-item-cancel-button = Cancellar
@@ -168,11 +132,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Pro modificar le conto, insere tu credentiales de accesso a Windows. Isto adjuta a proteger le securitate de tu contos.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = verifica le credentiales salvate
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -196,11 +155,6 @@ about-logins-copy-password-os-auth-dialog-message-win = Pro copiar le contrasign
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiar le contrasigno salvate
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Pro exportar tu credentiales de accesso, insere tu credentiales de accesso Windows. Isto adjuta proteger le securitate de tu contos.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = exporta credentiales e contrasignos salvate
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = Pro exportar le contrasigno, insere tu credentiales de accesso a Windows. Isto adjuta a proteger le securitate de tu contos.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -218,8 +172,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Cancellar
 confirmation-dialog-dismiss-button =
     .title = Cancellar
-about-logins-confirm-remove-dialog-title = Remover iste credentiales?
-confirm-delete-dialog-message = Iste action es irreversibile.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Remover le contrasigno?
 # Message for modal to confirm the removal of one saved password
@@ -233,31 +185,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Remover
        *[other] Remover toto
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] Si, remover iste credential
-       *[other] Si, remover iste credentiales
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] Remover { $count } credential?
-       *[other] Remover tote le { $count } credentiales?
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] Isto removera le credential salvate pro { -brand-short-name } e cata alerta de violation que appare hic. Tu non potera disfacer iste action.
-       *[other] Isto removera le credentiales salvate pro { -brand-short-name } e cata alerta de violation que appare hic. Tu non potera disfacer iste action.
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] Remover { $count } credential ex tote le apparatos?
-       *[other] Remover tote le { $count } credentiales ex tote le apparatos?
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [1] Isto removera le credential salvate pro { -brand-short-name } sur tote le apparatos synchronisate a tu { -fxaccount-brand-name }. Isto removera etiam le alertas de violation que appare hic. Tu non potera disfacer iste action.
-       *[other] Isto removera le credentiales salvate pro { -brand-short-name } sur tote le apparatos synchronisate a tu { -fxaccount-brand-name }. Isto removera etiam le alertas de violation que appare hic. Tu non potera disfacer iste action.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -292,15 +219,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = Exportar credentiales e contrasignos
-about-logins-confirm-export-dialog-message = Tu contrasignos sera salvate como texto legibile (e.g., "P@ssw0rd123"), assi quicunque pote aperir le file exportate, pote vider los.
-about-logins-confirm-export-dialog-confirm-button = Exportar…
 about-logins-confirm-export-dialog-title2 = Un nota circa exportar contrasignos
 about-logins-confirm-export-dialog-message2 =
     Quando tu exporta, tu contrasignos es salvate in un file con texto legibile.
     Quando tu ha finite de usar le file, nos consilia de deler lo assi alteres qui usa iste apparato non pote vider tu contrasignos.
 about-logins-confirm-export-dialog-confirm-button2 = Continuar con le exportation
-about-logins-alert-import-title = Importation complete
 about-logins-alert-import-message = Vider un summario detaliate del importation
 confirm-discard-changes-dialog-title = Abandonar le modificationes non salvate?
 confirm-discard-changes-dialog-message = Tote le modificationes non salvate essera perdite.
@@ -337,11 +260,6 @@ about-logins-error-message-default = Un error occurreva durante le tentativa de 
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Exportar file de credentiales
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = credenziales.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = Exportar contrasignos ab { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -357,8 +275,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = Importar file de credentiales
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = Importar contrasignos in { -brand-short-name }
 about-logins-import-file-picker-import-button = Importar
@@ -382,21 +298,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Importation complete
-about-logins-import-dialog-items-added =
-    { $count ->
-        [one] <span>Nove credential addite:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Nove credentiales addite:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-        [one] <span>Credential existente actualisate:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Credentiales existente actualisate:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-        [one] <span>Credential duplicate:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importate)</span>
-       *[other] <span>Credentiales duplicate:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importate)</span>
-    }
 about-logins-import-dialog-items-added2 =
     { $count ->
         [one] <span>Nove contrasigno addite:</span> <span data-l10n-name="count">{ $count }</span>
@@ -428,15 +329,11 @@ about-logins-import-dialog-error-learn-more = Saper plus
 about-logins-import-dialog-error-try-import-again = Probar importar de novo…
 about-logins-import-dialog-error-cancel = Cancellar
 about-logins-import-report-title = Summario del importation
-about-logins-import-report-description = Credentiales e contrasignos importate in { -brand-short-name }.
 about-logins-import-report-description2 = Contrasignos importate in { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Linea { $number }
-about-logins-import-report-row-description-no-change = Duplicato: correspondentia exacte con un credential existente
-about-logins-import-report-row-description-modified = Credential existente actualisate
-about-logins-import-report-row-description-added = Nove credential addite
 about-logins-import-report-row-description-no-change2 = Duplicato: correspondentia exacte con un entrata existente
 about-logins-import-report-row-description-modified2 = Entrata existente actualisate
 about-logins-import-report-row-description-added2 = Nove contrasigno addite
@@ -453,20 +350,6 @@ about-logins-import-report-row-description-error-missing-field = Error: { $field
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nove credential addite</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nove credentiales addite</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">credential existente actualisate</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">credentiales existente actualisate</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credentiales duplicate</div> <div data-l10n-name="not-imported">(non importate)</div>
-    }
 about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nove contrasigno addite</div>

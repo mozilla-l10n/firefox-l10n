@@ -14,13 +14,6 @@ xpinstall-prompt-header = Дозволи { $host } да инсталира до�
 xpinstall-prompt-dont-allow =
     .label = Не дозволувај
     .accesskey = Н
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = Инсталацијата на софтвер е оневозможена од страна на вашиот администратор.
 xpinstall-disabled = Инсталацијата на софтверот моментално е оневозможена. Кликнете на „Овозможи“ и обидете се повторно.
 xpinstall-disabled-button =
     .label = Овозможи

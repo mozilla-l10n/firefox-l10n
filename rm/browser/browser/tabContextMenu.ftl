@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Nov tab
-    .accesskey = v
 reload-tab =
     .label = Chargiar danovamain il tab
     .accesskey = r
@@ -98,10 +95,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nova gruppa
     .accesskey = g
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -124,13 +117,6 @@ tab-context-move-tabs =
            *[other] Spustar ils tabs
         }
     .accesskey = p
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Trametter il tab ad in apparat
-           *[other] Trametter { $tabCount } tabs ad in apparat
-        }
-    .accesskey = n
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

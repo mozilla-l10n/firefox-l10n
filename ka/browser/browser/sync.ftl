@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = სინქრონდება…
 sync-disconnect-dialog-title2 = გამოითიშოს?
 sync-disconnect-dialog-body = { -brand-product-name } შეწყვეტს სინქრონიზაციას თქვენს ანგარიშთან, თუმცა ყველა არსებული მონაცემი შენარჩუნდება ამ მოწყობილობაზე.
 sync-disconnect-dialog-button = გათიშვა
-fxa-signout-dialog2-title = გამოითიშოს { -fxaccount-brand-name }?
 fxa-signout-dialog-title2 = გამოითიშოს ანგარიშიდან?
 fxa-signout-dialog-body = დასინქრონებული მონაცემები დარჩება თქვენს ანგარიშზე.
 fxa-signout-dialog2-button = გამოთიშვა
@@ -41,14 +40,6 @@ fxviewtabrow-send-to-mobile-not-verified = ანგარიში დაუმ
 fxviewtabrow-send-to-mobile-verify-account = დაამოწმეთ ანგარიში
 fxa-menu-send-to-mobile-turn-on-sync = ჩართეთ სინქრონიზაცია ჩანართების გასაგზავნად
 fxa-menu-send-to-mobile-connect-device = დააკავშირეთ მოწყობილობა ჩანართების გასაგზავნად
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] ჩანართის მოწყობილობაზე გაგზავნა
-           *[other] { $tabCount } ჩანართის მოწყობილობაზე გაგზავნა
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = მოწყობილობების დასინქრონება…

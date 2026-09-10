@@ -2,113 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — การเรียกดูแบบส่วนตัวของ { -brand-full-name }
-    .data-title-default = { -brand-full-name }
-    .data-title-private = การเรียกดูแบบส่วนตัวของ { -brand-full-name }
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — การเรียกดูแบบส่วนตัว
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — การเรียกดูแบบส่วนตัว
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = การเรียกดูแบบส่วนตัวของ { -brand-shortcut-name }
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
 browser-shortcut-description = เรียกดูเว็บได้อย่างรวดเร็วและเป็นส่วนตัว
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — การเรียกดูแบบส่วนตัวใน { -brand-full-name }
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — การเรียกดูแบบส่วนตัวใน { -brand-full-name }
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = การเรียกดูแบบส่วนตัวใน { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — การเรียกดูแบบส่วนตัวใน { -brand-full-name }
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } — การเรียกดูแบบส่วนตัว
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — การเรียกดูแบบส่วนตัว
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — การเรียกดูแบบส่วนตัว
-    .data-title-private-with-profile = { $profile-name } — การเรียกดูแบบส่วนตัวใน { -brand-full-name }
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -167,8 +65,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = เปิดแผงข้อความที่เก็บข้อมูลออฟไลน์
 urlbar-password-notification-anchor =
     .tooltiptext = เปิดแผงข้อความบันทึกรหัสผ่าน
-urlbar-plugins-notification-anchor =
-    .tooltiptext = จัดการการใช้ปลั๊กอิน
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = จัดการการแบ่งปันกล้องและ/หรือไมโครโฟนของคุณกับไซต์
 # "Speakers" is used in a general sense that might include headphones or
@@ -181,15 +77,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = จัดเก็บข้อมูลในที่เก็บข้อมูลถาวร
 urlbar-addons-notification-anchor =
     .tooltiptext = เปิดแผงข้อความการติดตั้งส่วนเสริม
-urlbar-tip-help-icon =
-    .title = รับความช่วยเหลือ
 urlbar-search-tips-confirm = ตกลง เข้าใจแล้ว
 urlbar-search-tips-confirm-short = เข้าใจแล้ว
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = เคล็ดลับ:
 urlbar-result-menu-button =
     .title = เปิดเมนู
 urlbar-result-menu-button-feedback = ข้อเสนอแนะ
@@ -234,9 +123,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = เพิกเฉยคำแนะนำนี้
     .accesskey = พ
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = เรียนรู้เพิ่มเติมเกี่ยวกับ { -firefox-suggest-brand-name }
-    .accesskey = L
 urlbar-result-menu-manage-firefox-suggest =
     .label = จัดการ { -firefox-suggest-brand-name }
     .accesskey = M
@@ -268,8 +154,6 @@ urlbar-dismissal-acknowledgment-weather = ขอบคุณสำหรับ�
 
 urlbar-search-tips-onboard = พิมพ์น้อยลง ค้นหาได้มากขึ้น: ค้นหา { $engineName } โดยตรงจากแถบที่อยู่ของคุณ
 urlbar-search-tips-redirect-2 = เริ่มการค้นหาของคุณในแถบที่อยู่เพื่อดูคำแนะนำจาก { $engineName } และประวัติการเรียกดูของคุณ
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = ตอนนี้การค้นหาทำได้ง่ายขึ้นแล้ว ลองทำให้การค้นหาของคุณเจาะจงขึ้นที่นี่ในแถบที่อยู่ เมื่อต้องการแสดง URL แทน ให้ไปที่ การค้นหา ในการตั้งค่า
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = เลือกทางลัดนี้เพื่อค้นหาสิ่งที่คุณต้องการได้เร็วขึ้น
@@ -303,8 +187,6 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = คุณได้ปิดกั้นที่เก็บข้อมูลถาวรสำหรับเว็บไซต์นี้
 urlbar-popup-blocked2 =
     .tooltiptext = คุณได้ปิดกั้นป๊อปอัปและการเปลี่ยนเส้นทางจากบุคคลที่สามสำหรับเว็บไซต์นี้
-urlbar-popup-blocked =
-    .tooltiptext = คุณได้ปิดกั้นป๊อปอัปสำหรับเว็บไซต์นี้
 urlbar-autoplay-media-blocked =
     .tooltiptext = คุณได้ปิดกั้นการเล่นสื่อพร้อมเสียงโดยอัตโนมัติสำหรับเว็บไซต์นี้
 urlbar-canvas-blocked =
@@ -415,24 +297,18 @@ quickactions-cmd-addons3 = ส่วนขยาย, ชุดตกแต่ง
 # Opens preferences page at AI controls
 quickactions-manageai = จัดการส่วนควบคุม AI
 quickactions-cmd-manageai = ปิดใช้งาน AI, ปิด AI, จัดการ AI
-quickactions-cmd-addons2 = ส่วนเสริม
 # Opens the bookmarks library window
 quickactions-bookmarks2 = จัดการที่คั่นหน้า
 quickactions-cmd-bookmarks = ที่คั่นหน้าที่คั่นหน้า
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = ล้างประวัติล่าสุด
 quickactions-cmd-clearrecenthistory2 = คุกกี้, ล้างคุกกี้, แคช, ล้างแคช, ประวัติการเรียกดู, ล้างประวัติการเรียกดู, ประวัติ, ล้างประวัติล่าสุด
-quickactions-cmd-clearrecenthistory = ล้างประวัติล่าสุด, ประวัติ
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = ล้างประวัติ
-quickactions-cmd-clearhistory = ล้างประวัติ
 # Opens about:downloads page
 quickactions-downloads2 = ดูการดาวน์โหลด
 quickactions-cmd-downloads = ดาวน์โหลด
 # Opens about:addons page in the extensions section
 quickactions-extensions = จัดการส่วนขยาย
 quickactions-cmd-extensions2 = ส่วนขยาย, ส่วนเสริม
-quickactions-cmd-extensions = ส่วนขยาย
 # Opens Firefox View
 quickactions-firefoxview = เปิด { -firefoxview-brand-name }
 # English is using "view" and "open view", since the feature name is
@@ -451,7 +327,6 @@ quickactions-cmd-colorpicker = ตัวเลือกสี, หลอดด�
 # Opens Firefox Library
 quickactions-cmd-library = ห้องสมุด
 quickactions-library = เปิดห้องสมุด
-quickactions-cmd-inspector = ตัวตรวจสอบ, devtools
 # Opens about:logins
 quickactions-logins2 = จัดการรหัสผ่าน
 quickactions-cmd-logins = การเข้าสู่ระบบ, รหัสผ่าน
@@ -461,9 +336,6 @@ quickactions-mute = ปิดเสียงแท็บที่เล่นเ
 # Replace with idiomatic expressions in your language to silence something or
 # someone.
 quickactions-cmd-mute = ปิดเสียง, ชู่ว, ชู่ว์, เงียบ
-# Opens about:addons page in the plugins section
-quickactions-plugins = จัดการปลั๊กอิน
-quickactions-cmd-plugins = ปลั๊กอิน
 # Opens the print dialog
 quickactions-print2 = พิมพ์หน้า
 quickactions-cmd-print = พิมพ์
@@ -488,19 +360,16 @@ quickactions-cmd-screenshot2 = ภาพหน้าจอ, เก็บภา�
 # Opens about:translations
 quickactions-translate = แปล
 quickactions-cmd-translate = แปล
-quickactions-cmd-screenshot = ภาพหน้าจอ
 # Opens about:preferences
 quickactions-settings2 = จัดการการตั้งค่า
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = การตั้งค่า, ค่าปรับแต่ง, ตัวเลือก, จัดการ
-quickactions-cmd-settings = การตั้งค่า, ค่าปรับแต่ง, ตัวเลือก
 # Opens about:addons page in the themes section
 quickactions-themes = จัดการชุดตกแต่ง
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-themes2 = ชุดตกแต่ง, ส่วนเสริม
-quickactions-cmd-themes = ชุดตกแต่ง
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = อัปเดต { -brand-short-name }
 quickactions-cmd-update = อัปเดต
@@ -510,7 +379,6 @@ quickactions-cmd-viewsource2 = ดูต้นฉบับ, ต้นฉบั�
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = เปิด { -firefoxlabs-brand-name }
 quickactions-cmd-labs = ห้องทดลอง, การทดลอง
-quickactions-cmd-viewsource = ดูต้นฉบับ, ต้นฉบับ
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = เรียนรู้เพิ่มเติมเกี่ยวกับคำสั่งด่วน
@@ -563,9 +431,7 @@ identity-custom-root = การเชื่อมต่อถูกตรวจ
 identity-passive-loaded = บางส่วนของหน้านี้ไม่ปลอดภัย (อย่างเช่น ภาพ)
 identity-active-loaded = คุณได้ปิดใช้งานการป้องกันในหน้านี้
 identity-weak-encryption = หน้านี้ใช้การเข้ารหัสที่อ่อนแอ
-identity-insecure-login-forms = การเข้าสู่ระบบที่ป้อนบนหน้านี้อาจถูกบุกรุกได้
 identity-https-only-connection-upgraded = (อัปเกรดเป็น HTTPS)
-identity-https-only-label = โหมด HTTPS-Only
 identity-https-only-label2 = อัปเกรดไซต์นี้เป็นการเชื่อมต่อแบบปลอดภัยโดยอัตโนมัติ
 identity-https-only-dropdown-on =
     .label = เปิด
@@ -573,8 +439,6 @@ identity-https-only-dropdown-off =
     .label = ปิด
 identity-https-only-dropdown-off-temporarily =
     .label = ปิดชั่วคราว
-identity-https-only-info-turn-on2 = เปิดโหมด HTTPS-Only ถ้าคุณต้องการให้ { -brand-short-name } อัปเกรดการเชื่อมต่อเมื่อเป็นไปได้
-identity-https-only-info-turn-off2 = ถ้าหน้าดูเหมือนจะใช้การไม่ได้ คุณอาจต้องปิดโหมด HTTPS-Only สำหรับไซต์นี้เพื่อโหลดใหม่โดยใช้ HTTP แบบไม่ปลอดภัย
 identity-https-only-info-turn-on3 = เปิดการอัปเกรด HTTPS สำหรับไซต์นี้ถ้าคุณต้องการให้ { -brand-short-name } อัปเกรดการเชื่อมต่อเมื่อเป็นไปได้
 identity-https-only-info-turn-off3 = ถ้าหน้าดูเหมือนจะใช้การไม่ได้ คุณอาจต้องปิดการอัปเกรด HTTPS สำหรับไซต์นี้เพื่อโหลดใหม่โดยใช้ HTTP แบบไม่ปลอดภัย
 identity-https-only-info-no-upgrade = ไม่สามารถอัปเกรดการเชื่อมต่อจาก HTTP ได้
@@ -598,7 +462,6 @@ identity-remove-cert-exception =
     .label = เอาข้อยกเว้นออก
     .accesskey = อ
 identity-description-insecure = การเชื่อมต่อของคุณไปยังไซต์นี้ไม่เป็นส่วนตัว ข้อมูลที่คุณแบ่งปันกับไซต์นี้สามารถดูได้โดยผู้อื่น (เช่น รหัสผ่าน, ข้อความ, บัตรเครดิต ฯลฯ)
-identity-description-insecure-login-forms = การเข้าสู่ระบบที่คุณป้อนบนหน้านี้ไม่ปลอดภัยและอาจถูกบุกรุกได้
 identity-description-weak-cipher-intro = การเชื่อมต่อของคุณไปยังเว็บไซต์นี้ใช้การเข้ารหัสที่อ่อนแอและไม่เป็นส่วนตัว
 identity-description-weak-cipher-risk = คนอื่น ๆ จะสามารถดูข้อมูลของคุณหรือปรับเปลี่ยนลักษณะการทำงานของเว็บไซต์ได้
 identity-description-active-blocked2 = { -brand-short-name } ได้ปิดกั้นบางส่วนของหน้านี้ที่ไม่ปลอดภัย
@@ -607,12 +470,6 @@ identity-description-passive-loaded-insecure2 = เว็บไซต์นี�
 identity-description-passive-loaded-mixed2 = ถึงแม้ว่า { -brand-short-name } ได้ปิดกั้นเนื้อหาบางส่วน แต่ก็ยังคงมีเนื้อหาในหน้าที่ไม่ปลอดภัย (อย่างเช่น ภาพ)
 identity-description-active-loaded = เว็บไซต์นี้ประกอบด้วยเนื้อหาที่เชื่อถือไม่ได้ (เช่น สคริปต์) และการเชื่อมต่อไปยังไซต์ก็ไม่เป็นส่วนตัว
 identity-description-active-loaded-insecure = ข้อมูลที่คุณแบ่งปันกับไซต์นี้สามารถดูได้โดยผู้อื่น (เช่น รหัสผ่าน, ข้อความ, บัตรเครดิต ฯลฯ)
-identity-disable-mixed-content-blocking =
-    .label = ปิดใช้งานการป้องกันในตอนนี้
-    .accesskey = ป
-identity-enable-mixed-content-blocking =
-    .label = เปิดใช้งานการป้องกัน
-    .accesskey = ป
 identity-more-info-link-text =
     .label = ข้อมูลเพิ่มเติม
 
@@ -629,37 +486,6 @@ browser-window-close-button =
 # Clicking this button closes the window and returns to the tab where it was opened from
 browser-window-return-to-opener =
     .tooltiptext = ย้อนกลับ
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = กำลังเล่น
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = ปิดเสียงอยู่
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = การเล่นอัตโนมัติถูกปิดกั้น
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = ภาพซ้อนภาพ
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] ปิดเสียงแท็บ
-       *[other] ปิดเสียง { $count } แท็บ
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] เลิกปิดเสียงแท็บ
-       *[other] เลิกปิดเสียง { $count } แท็บ
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] เล่นแท็บ
-       *[other] เล่น { $count } แท็บ
-    }
 
 ## Bookmarks toolbar items
 
@@ -700,10 +526,6 @@ sharing-warning-disable-for-session =
 
 webserial-select-port-label = เลือกพอร์ตซีเรียล:
 webserial-no-ports-available = ไม่มีพอร์ตซีเรียลที่พร้อมใช้งาน
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = ถ้าต้องการใช้ทางลัด F12 ให้เปิด DevTools ก่อนผ่านเมนู เครื่องมือสำหรับเบราว์เซอร์
 
 ## URL Bar
 
@@ -768,8 +590,6 @@ urlbar-extension =
     .value = ส่วนขยาย:
 urlbar-go-button2 =
     .title = ไปยังที่อยู่ในแถบตำแหน่งที่ตั้ง
-urlbar-go-button =
-    .tooltiptext = ไปยังที่อยู่ในแถบตำแหน่งที่ตั้ง
 urlbar-page-action-button =
     .tooltiptext = การกระทำหน้า
 urlbar-revert-button =
@@ -827,11 +647,6 @@ urlbar-result-action-tabtosearch-web = ค้นหาด้วย { $engine } �
 urlbar-result-action-tabtosearch-other-engine = ค้นหา { $engine } โดยตรงจากแถบที่อยู่
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = คัดลอก
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = ไม่นิยาม
 # The sub title of an add-on suggestion in the urlbar.
@@ -842,23 +657,6 @@ urlbar-result-mdn-subtitle = { -mdn-brand-name }
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
 urlbar-result-suggestion-recommended = แนะนำ
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
-# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
-# The last = sign will be shown as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
-# Shows the result of a formula expression being calculated, to a maximum of 9 significant
-# digits. This is used for numbers < 1.
-# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 # The title of a weather suggestion in the urlbar. The temperature and unit
 # substring should be inside a <strong> tag. If the temperature and unit are not
 # adjacent in the localization, it's OK to include only the temperature in the
@@ -1020,32 +818,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - ค้นหา { 
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - ค้นหาด้วย { $engine }
-urlbar-searchmode-dropmarker =
-    .tooltiptext = เลือกเครื่องมือค้นหา
-urlbar-searchmode-bookmarks =
-    .label = ที่คั่นหน้า
-urlbar-searchmode-tabs =
-    .label = แท็บ
-urlbar-searchmode-history =
-    .label = ประวัติ
-urlbar-searchmode-actions =
-    .label = การกระทำ
-urlbar-searchmode-exit-button =
-    .tooltiptext = ปิด
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = ครั้งนี้ค้นหาด้วย:
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = การตั้งค่าการค้นหา
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button2 =
-    .label = ขณะนี้คือ { $engine } โปรดเลือกเครื่องมือค้นหา
-    .tooltiptext = ขณะนี้คือ { $engine } โปรดเลือกเครื่องมือค้นหา
-urlbar-searchmode-button-no-engine =
-    .label = ไม่ได้เลือกทางลัด โปรดเลือกทางลัดด้วย
-    .tooltiptext = ไม่ได้เลือกทางลัด โปรดเลือกทางลัดด้วย
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1152,16 +924,10 @@ urlbar-group-trending =
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = ไม่ต้องแสดงการค้นหาที่กำลังมาแรง
     .accesskey = ม
-# Label shown above sponsored suggestions in the urlbar results.
-urlbar-group-sponsored =
-    .label = ได้รับการสนับสนุน
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = ไม่ต้องแสดงการค้นหาที่กำลังมาแรง
     .accesskey = ม
-urlbar-result-menu-trending-why =
-    .label = ทำไมฉันถึงเห็นสิ่งนี้?
-    .accesskey = ท
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = ขอบคุณสำหรับข้อเสนอแนะของคุณ คุณจะไม่เห็นการค้นหาที่กำลังมาแรงอีกต่อไป
@@ -1246,12 +1012,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] ซ่อนแถบเครื่องมือที่คั่นหน้า
            *[other] แสดงแถบเครื่องมือที่คั่นหน้า
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] เอาเมนูที่คั่นหน้าออกจากแถบเครื่องมือ
-           *[other] เพิ่มเมนูที่คั่นหน้าไปยังแถบเครื่องมือ
-        }
 
 ##
 
@@ -1282,14 +1042,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = ที่คั่นหน้า
-library-recent-activity-title =
-    .value = กิจกรรมล่าสุด
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = บันทึกไปยัง { -pocket-brand-name }
-    .tooltiptext = บันทึกไปยัง { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
@@ -1379,8 +1131,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = ด
 
 ## Password save/update panel
 
-panel-save-update-username = ชื่อผู้ใช้
-panel-save-update-password = รหัสผ่าน
 panel-save-update-username-2 =
     .label = ชื่อผู้ใช้
 panel-save-update-password-2 =
@@ -1398,33 +1148,18 @@ menu-share-windows =
 menu-share-copy-links =
     .label = คัดลอก { $count } ลิงก์
     .accesskey = ง
-menu-share-copy-link =
-    .label = คัดลอกลิงก์
-    .accesskey = ง
 ui-tour-info-panel-close =
     .tooltiptext = ปิด
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
-popups-infobar-allow =
-    .label = อนุญาตป๊อปอัปสำหรับ { $uriHost }
-    .accesskey = ป
-popups-infobar-block =
-    .label = ปิดกั้นป๊อปอัปสำหรับ { $uriHost }
-    .accesskey = ป
 popups-infobar-allow2 =
     .label = อนุญาตป๊อปอัปและการเปลี่ยนเส้นทางจากบุคคลที่สามสำหรับ { $uriHost }
     .accesskey = ป
 
 ##
 
-popups-infobar-dont-show-message =
-    .label = ไม่แสดงข้อความนี้เมื่อป๊อปอัปถูกปิดกั้น
-    .accesskey = ข
-edit-popup-settings =
-    .label = จัดการการตั้งค่าป๊อปอัป…
-    .accesskey = จ
 picture-in-picture-hide-toggle =
     .label = ซ่อนสลับภาพซ้อนภาพ
     .accesskey = อ
@@ -1450,8 +1185,6 @@ navbar-downloads =
     .label = การดาวน์โหลด
 navbar-overflow-2 =
     .tooltiptext = เครื่องมือเพิ่มเติม
-navbar-overflow =
-    .tooltiptext = เครื่องมือเพิ่มเติม…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1546,13 +1279,8 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = จบเซสชันส่วนตัว
-    .tooltiptext = จบเซสชันส่วนตัว
 reset-pbm-panel-heading2 = ล้างข้อมูลและเริ่มเซสชันส่วนตัวใหม่เลยหรือไม่?
 reset-pbm-panel-description2 = การดำเนินการนี้จะลบประวัติ คุกกี้ และข้อมูลเว็บไซต์อื่น ๆ ทั้งหมด โดยไม่ปิดหน้าต่างส่วนตัวของคุณ
-reset-pbm-panel-heading = จบเซสชันส่วนตัวของคุณหรือไม่?
-reset-pbm-panel-description = ปิดแท็บส่วนตัวทั้งหมดและลบประวัติ คุกกี้ และข้อมูลไซต์อื่น ๆ ทั้งหมด
 reset-pbm-panel-always-ask-checkbox =
     .label = ถามฉันเสมอ
     .accesskey = ส
@@ -1561,9 +1289,6 @@ reset-pbm-panel-cancel-button =
     .accesskey = ย
 reset-pbm-panel-confirm-button2 =
     .label = ล้างเซสชันส่วนตัว
-    .accesskey = ล
-reset-pbm-panel-confirm-button =
-    .label = ลบข้อมูลเซสชัน
     .accesskey = ล
 reset-pbm-panel-complete = ลบข้อมูลเซสชันส่วนตัวแล้ว
 reset-pbm-toolbar-button2 =

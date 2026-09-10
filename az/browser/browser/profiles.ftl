@@ -4,16 +4,16 @@
 
 profile-window-create-profile = Profil yarat
 profile-card-edit-button =
-    .title = Profili redaktə et
     .aria-label = Profili redaktə et
+    .title = Profili redaktə et
 profile-card-delete-button =
-    .title = Profili sil
     .aria-label = Profili sil
+    .title = Profili sil
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = { $profileName } profilini aç
     .aria-label = { $profileName } profilini aç
+    .title = { $profileName } profilini aç
 # The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
 original-profile-name = Orijinal Profil
 edit-profile-page-title = Profili düzəlt

@@ -32,10 +32,6 @@ security-software-name = Namme
 security-software-antivirus = Antifirus
 security-software-antispyware = Antispyware
 security-software-firewall = Firewall
-features-title = { -brand-short-name }-funksjes
-features-name = Namme
-features-version = Ferzje
-features-id = ID
 processes-title = Eksterne prosessen
 processes-type = Type
 processes-count = Oantal
@@ -61,7 +57,6 @@ app-basics-profile-dir =
         [linux] Profylmap
        *[other] Profylmap
     }
-app-basics-enabled-plugins = Ynskeakele ynstekkers
 app-basics-build-config = Utjeftekonfiguraasje
 app-basics-user-agent = User Agent
 app-basics-os = OS
@@ -99,9 +94,6 @@ show-dir-label =
 environment-variables-title = Omjouwingsfariabelen
 environment-variables-name = Namme
 environment-variables-value = Wearde
-experimental-features-title = Eksperimintele funksjes
-experimental-features-name = Namme
-experimental-features-value = Wearde
 modified-key-prefs-title = Wichtige oanpaste foarkarren
 modified-prefs-name = Namme
 modified-prefs-value = Wearde
@@ -213,9 +205,6 @@ media-cdm-capabilities = Mooglikheden
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Skjinne start
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = HDCP 2.2-kompatibel
 
 ##
 
@@ -387,8 +376,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Utskeakele troch eksperimint
-fission-status-experiment-treatment = Ynskeakele troch eksperimint
 fission-status-disabled-by-e10s-env = Utskeakele troch omjouwing
 fission-status-enabled-by-env = Ynskeakele troch omjouwing
 fission-status-disabled-by-env = Utskeakele troch omjouwing
@@ -397,7 +384,6 @@ fission-status-disabled-by-default = Standert útskeakele
 fission-status-enabled-by-user-pref = Ynskeakele troch brûker
 fission-status-disabled-by-user-pref = Utskeakele troch brûker
 fission-status-disabled-by-e10s-other = E10s útskeakele
-fission-status-enabled-by-rollout = Ynskeakele troch fazearre útjefte
 async-pan-zoom = Asyngroan panne/zoome
 apz-none = gjin
 wheel-enabled = tsjilynfier ynskeakele

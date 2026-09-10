@@ -2,113 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } – { -brand-full-name }
-    .data-content-title-private = { $content-title } – Приватний перегляд { -brand-full-name }
-    .data-title-default = { -brand-full-name }
-    .data-title-private = Приватний перегляд { -brand-full-name }
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } – Приватний перегляд
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } – Приватний перегляд
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = Приватний перегляд { -brand-shortcut-name }
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
 browser-shortcut-description = Швидкий і приватний вебперегляд
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — Приватний перегляд { -brand-full-name }
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Приватний перегляд { -brand-full-name }
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = Приватний перегляд { -brand-full-name }
-    .data-title-private-with-profile = { $profile-name } — Приватний перегляд { -brand-full-name }
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } — Приватний перегляд
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Приватний перегляд
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Приватний перегляд
-    .data-title-private-with-profile = { $profile-name } — Приватний перегляд { -brand-full-name }
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -177,8 +75,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Відкрити панель повідомлень автономного сховища
 urlbar-password-notification-anchor =
     .tooltiptext = Відкрити панель повідомлень збереження паролів
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Керувати використанням плагінів
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Керувати доступом сайту до ваших камери та/або мікрофону
 # "Speakers" is used in a general sense that might include headphones or
@@ -191,15 +87,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Зберігати дані в постійному сховищі
 urlbar-addons-notification-anchor =
     .tooltiptext = Відкрити панель повідомлень встановлення додатків
-urlbar-tip-help-icon =
-    .title = Отримати допомогу
 urlbar-search-tips-confirm = Гаразд, зрозуміло
 urlbar-search-tips-confirm-short = Зрозуміло
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Порада:
 urlbar-result-menu-button =
     .title = Відкрити меню
 urlbar-result-menu-button-feedback = Відгук
@@ -244,9 +133,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = Відхилити цю пропозицію
     .accesskey = х
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = Докладніше про { -firefox-suggest-brand-name }
-    .accesskey = л
 urlbar-result-menu-manage-firefox-suggest =
     .label = Керувати { -firefox-suggest-brand-name }
     .accesskey = К
@@ -278,8 +164,6 @@ urlbar-dismissal-acknowledgment-weather = Дякуємо за відгук. Ви
 
 urlbar-search-tips-onboard = Вводьте менше, знаходьте більше: Шукайте за допомогою { $engineName } прямо з панелі адреси.
 urlbar-search-tips-redirect-2 = Розпочніть пошук з адресного рядка, щоб побачити пропозиції від { $engineName } та історії перегляду.
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = Пошук в інтернеті став простішим. Спробуйте вказати більш конкретний пошуковий запит у панелі пошуку. Щоб натомість показати URL-адресу, перейдіть до розділу Пошук у налаштуваннях.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Оберіть цей ярлик, щоб швидше знайти те, що вам потрібно.
@@ -313,8 +197,6 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Ви заблокували постійне сховище для цього вебсайту.
 urlbar-popup-blocked2 =
     .tooltiptext = Ви заблокували спливні вікна та сторонні переспрямування для цього вебсайту.
-urlbar-popup-blocked =
-    .tooltiptext = Ви заблокували спливні вікна для цього вебсайту.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Ви заблокували автовідтворення медіа зі звуком для цього вебсайту.
 urlbar-canvas-blocked =
@@ -425,24 +307,18 @@ quickactions-cmd-addons3 = розширення, теми, додатки, до�
 # Opens preferences page at AI controls
 quickactions-manageai = Керувати ШІ
 quickactions-cmd-manageai = вимкнути ші, прибрати ші, керувати ші, налаштувати ші, вимкнення ші, керування ші, налаштування ші
-quickactions-cmd-addons2 = додатки
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Керувати закладками
 quickactions-cmd-bookmarks = закладки
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Стерти недавню історію
 quickactions-cmd-clearrecenthistory2 = cookie, файли cookie, стерти cookie, стерти файли cookie, кеш, стерти кеш, дані перегляду, стерти дані перегляду, стерти дані, історія, стерти недавню історію
-quickactions-cmd-clearrecenthistory = стерти недавню історію, історія
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Стерти історію
-quickactions-cmd-clearhistory = стерти історію
 # Opens about:downloads page
 quickactions-downloads2 = Переглянути завантаження
 quickactions-cmd-downloads = завантаження
 # Opens about:addons page in the extensions section
 quickactions-extensions = Керувати розширеннями
 quickactions-cmd-extensions2 = розширення, додатки, доповнення
-quickactions-cmd-extensions = розширення
 # Opens Firefox View
 quickactions-firefoxview = Відкрити { -firefoxview-brand-name }
 # English is using "view" and "open view", since the feature name is
@@ -461,7 +337,6 @@ quickactions-cmd-colorpicker = палітра кольорів, піпетка, 
 # Opens Firefox Library
 quickactions-cmd-library = бібліотека
 quickactions-library = Відкрити бібліотеку
-quickactions-cmd-inspector = інспектор, інструменти розробника
 # Opens about:logins
 quickactions-logins2 = Керувати паролями
 quickactions-cmd-logins = входи, паролі
@@ -471,9 +346,6 @@ quickactions-mute = Вимкнути звук у вкладках, де відт
 # Replace with idiomatic expressions in your language to silence something or
 # someone.
 quickactions-cmd-mute = тихо, тихіше, шшш
-# Opens about:addons page in the plugins section
-quickactions-plugins = Керувати плагінами
-quickactions-cmd-plugins = плагіни
 # Opens the print dialog
 quickactions-print2 = Друкувати сторінку
 quickactions-cmd-print = друк
@@ -498,19 +370,16 @@ quickactions-cmd-screenshot2 = скріншот, знімок екрана, зр
 # Opens about:translations
 quickactions-translate = Перекласти
 quickactions-cmd-translate = перекласти
-quickactions-cmd-screenshot = знімок екрана
 # Opens about:preferences
 quickactions-settings2 = Керувати налаштуваннями
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = налаштування, уподобання, опції, керування
-quickactions-cmd-settings = налаштування, уподобання, параметри
 # Opens about:addons page in the themes section
 quickactions-themes = Керувати темами
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-themes2 = теми, додатки, доповнення
-quickactions-cmd-themes = теми
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Оновити { -brand-short-name }
 quickactions-cmd-update = оновити
@@ -520,7 +389,6 @@ quickactions-cmd-viewsource2 = переглянути джерело, прогр
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = Відкрити { -firefoxlabs-brand-name }
 quickactions-cmd-labs = лабораторії, експеримент
-quickactions-cmd-viewsource = переглянути джерело, джерело
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Докладніше про швидкі дії
@@ -578,9 +446,7 @@ identity-custom-root = З'єднання засвідчене сертифіка
 identity-passive-loaded = Частини цієї сторінки (такі як зображення) незахищені.
 identity-active-loaded = Ви вимкнули захист на цій сторінці.
 identity-weak-encryption = Ця сторінка використовує слабке шифрування.
-identity-insecure-login-forms = Паролі, введені на цій сторінці, можуть бути скомпрометовані.
 identity-https-only-connection-upgraded = (оновлено до HTTPS)
-identity-https-only-label = HTTPS-режим
 identity-https-only-label2 = Автоматично оновлювати цей сайт до захищеного з'єднання
 identity-https-only-dropdown-on =
     .label = Увімкнути
@@ -588,8 +454,6 @@ identity-https-only-dropdown-off =
     .label = Вимкнути
 identity-https-only-dropdown-off-temporarily =
     .label = Вимкнути тимчасово
-identity-https-only-info-turn-on2 = Увімкніть HTTPS-режим для цього сайту, якщо ви хочете, щоб { -brand-short-name } оновив з'єднання, коли це можливо.
-identity-https-only-info-turn-off2 = Якщо сторінка здається пошкодженою, можливо, ви захочете вимкнути HTTPS-режим для цього сайту, щоб перезавантажити його в незахищеному HTTP-режимі.
 identity-https-only-info-turn-on3 = Увімкніть оновлення до HTTPS для цього сайту, якщо ви хочете, щоб { -brand-short-name } оновлював з'єднання, коли це можливо.
 identity-https-only-info-turn-off3 = Якщо сторінка має вигляд пошкодженої, можливо, ви захочете вимкнути оновлення до HTTPS для цього сайту, щоб перезавантажити його в незахищеному режимі HTTP.
 identity-https-only-info-no-upgrade = Не вдалося змінити з'єднання з HTTP.
@@ -613,7 +477,6 @@ identity-remove-cert-exception =
     .label = Вилучити виняток
     .accesskey = В
 identity-description-insecure = Ваше з'єднання з цим сайтом не є приватним. Інформація, яку ви відправляєте може бути переглянута іншими (наприклад, паролі, повідомлення, дані кредитних карт та ін.).
-identity-description-insecure-login-forms = Введені на цій сторінці дані входу не захищені і можуть бути перехоплені.
 identity-description-weak-cipher-intro = Ваше з'єднання з цим вебсайтом використовує слабке шифрування і не є приватним.
 identity-description-weak-cipher-risk = Інші люди можуть переглядати вашу інформацію чи змінювати поведінку вебсайту.
 identity-description-active-blocked2 = { -brand-short-name } заблокував незахищені частини цієї сторінки.
@@ -624,12 +487,6 @@ identity-description-active-loaded = Цей вебсайт має вміст, щ
 identity-description-active-loaded-insecure = Інформація, якою ви ділитесь з цим сайтом, може бути переглянута іншими (наприклад, паролі, повідомлення, дані кредитних карт та ін.).
 identity-description-tls-key-logging-heading = Ваше з'єднання може бути не приватним
 identity-description-tls-key-logging-message = Програма або сервіс може бачити ваш зашифрований трафік з цього сайту.
-identity-disable-mixed-content-blocking =
-    .label = Тимчасово вимкнути захист
-    .accesskey = в
-identity-enable-mixed-content-blocking =
-    .label = Увімкнути захист
-    .accesskey = У
 identity-more-info-link-text =
     .label = Докладніше
 
@@ -646,40 +503,6 @@ browser-window-close-button =
 # Clicking this button closes the window and returns to the tab where it was opened from
 browser-window-return-to-opener =
     .tooltiptext = Повернутися
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = ВІДТВОРЕННЯ
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = БЕЗ ЗВУКУ
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = АВТОВІДТВОРЕННЯ ЗАБЛОКОВАНО
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = ЗОБРАЖЕННЯ В ЗОБРАЖЕННІ
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [one] ВИМКНУТИ ЗВУК ВКЛАДКИ
-        [few] ВИМКНУТИ ЗВУК { $count } ВКЛАДОК
-       *[many] ВИМКНУТИ ЗВУК { $count } ВКЛАДОК
-    }
-browser-tab-unmute =
-    { $count ->
-        [one] УВІМКНУТИ ЗВУК ВКЛАДКИ
-        [few] УВІМКНУТИ ЗВУК { $count } ВКЛАДОК
-       *[many] УВІМКНУТИ ЗВУК { $count } ВКЛАДОК
-    }
-browser-tab-unblock =
-    { $count ->
-        [one] ВІДТВОРИТИ ВКЛАДКУ
-        [few] ВІДТВОРИТИ { $count } ВКЛАДКИ
-       *[many] ВІДТВОРИТИ { $count } ВКЛАДОК
-    }
 
 ## Bookmarks toolbar items
 
@@ -720,10 +543,6 @@ sharing-warning-disable-for-session =
 
 webserial-select-port-label = Оберіть послідовний порт:
 webserial-no-ports-available = Немає доступних послідовних портів
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = Для використання клавіші швидкого доступу F12 спершу відкрийте інструменти веброзробника через меню браузера.
 
 ## URL Bar
 
@@ -788,8 +607,6 @@ urlbar-extension =
     .value = Розширення:
 urlbar-go-button2 =
     .title = Перейти за адресою з панелі адреси
-urlbar-go-button =
-    .tooltiptext = Перейти за адресою з панелі адреси
 urlbar-page-action-button =
     .tooltiptext = Дії сторінки
 urlbar-revert-button =
@@ -847,11 +664,6 @@ urlbar-result-action-tabtosearch-web = Шукати за допомогою { $e
 urlbar-result-action-tabtosearch-other-engine = Шукати за допомогою { $engine } безпосередньо в панелі адреси
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Копіювати
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = не визначено
 # The sub title of an add-on suggestion in the urlbar.
@@ -862,23 +674,6 @@ urlbar-result-mdn-subtitle = { -mdn-brand-name }
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
 urlbar-result-suggestion-recommended = Рекомендується
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
-# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
-# The last = sign will be shown as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
-# Shows the result of a formula expression being calculated, to a maximum of 9 significant
-# digits. This is used for numbers < 1.
-# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 # The title of a weather suggestion in the urlbar. The temperature and unit
 # substring should be inside a <strong> tag. If the temperature and unit are not
 # adjacent in the localization, it's OK to include only the temperature in the
@@ -1073,32 +868,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } – пошук у { 
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } – пошук за допомогою { $engine }
-urlbar-searchmode-dropmarker =
-    .tooltiptext = Вибрати пошукову систему
-urlbar-searchmode-bookmarks =
-    .label = Закладки
-urlbar-searchmode-tabs =
-    .label = Вкладки
-urlbar-searchmode-history =
-    .label = Історія
-urlbar-searchmode-actions =
-    .label = Дії
-urlbar-searchmode-exit-button =
-    .tooltiptext = Закрити
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = Цього разу шукати з:
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = Налаштування пошуку
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button2 =
-    .label = { $engine }, вибрати пошукову систему
-    .tooltiptext = { $engine }, вибрати пошукову систему
-urlbar-searchmode-button-no-engine =
-    .label = Ярлик не вибрано, виберіть ярлик
-    .tooltiptext = Ярлик не вибрано, виберіть ярлик
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1205,16 +974,10 @@ urlbar-group-trending =
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Не показувати популярні пошукові запити
     .accesskey = Н
-# Label shown above sponsored suggestions in the urlbar results.
-urlbar-group-sponsored =
-    .label = Спонсоровано
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Не показувати популярні пошукові запити
     .accesskey = Н
-urlbar-result-menu-trending-why =
-    .label = Чому я це бачу?
-    .accesskey = Ч
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = Дякуємо за ваш відгук. Ви більше не бачитимете популярні пошукові запити.
@@ -1299,12 +1062,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Сховати панель закладок
            *[other] Показати панель закладок
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Вилучити меню закладок з панелі інструментів
-           *[other] Додати меню закладок до панелі інструментів
-        }
 
 ##
 
@@ -1335,14 +1092,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = Закладки
-library-recent-activity-title =
-    .value = Нещодавня активність
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Зберегти в { -pocket-brand-name }
-    .tooltiptext = Зберегти в { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
@@ -1432,8 +1181,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = х
 
 ## Password save/update panel
 
-panel-save-update-username = Ім'я користувача
-panel-save-update-password = Пароль
 panel-save-update-username-2 =
     .label = Ім'я користувача
 panel-save-update-password-2 =
@@ -1456,33 +1203,18 @@ menu-share-copy-links =
            *[many] Копіювати { $count } посилань
         }
     .accesskey = К
-menu-share-copy-link =
-    .label = Копіювати посилання
-    .accesskey = К
 ui-tour-info-panel-close =
     .tooltiptext = Закрити
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
-popups-infobar-allow =
-    .label = Дозволити спливні вікна для { $uriHost }
-    .accesskey = о
-popups-infobar-block =
-    .label = Блокувати спливні вікна для { $uriHost }
-    .accesskey = о
 popups-infobar-allow2 =
     .label = Дозволити спливні вікна та сторонні переспрямування для { $uriHost }
     .accesskey = з
 
 ##
 
-popups-infobar-dont-show-message =
-    .label = Не показувати це повідомлення при блокуванні спливних вікон
-    .accesskey = е
-edit-popup-settings =
-    .label = Керувати налаштуваннями спливних вікон…
-    .accesskey = К
 picture-in-picture-hide-toggle =
     .label = Сховати перемикач Зображення в зображенні
     .accesskey = х
@@ -1508,8 +1240,6 @@ navbar-downloads =
     .label = Завантаження
 navbar-overflow-2 =
     .tooltiptext = Інші інструменти
-navbar-overflow =
-    .tooltiptext = Інші інструменти…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1612,13 +1342,8 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = Завершити приватний сеанс
-    .tooltiptext = Завершити приватний сеанс
 reset-pbm-panel-heading2 = Стерти дані та почати новий приватний сеанс?
 reset-pbm-panel-description2 = Ця дія видаляє історію, файли cookie та всі інші дані сайтів, не закриваючи вікно приватного перегляду.
-reset-pbm-panel-heading = Завершити приватний сеанс?
-reset-pbm-panel-description = Закрити всі приватні вкладки й видалити історію, файли cookie та всі інші дані сайтів.
 reset-pbm-panel-always-ask-checkbox =
     .label = Завжди запитувати мене
     .accesskey = З
@@ -1628,9 +1353,6 @@ reset-pbm-panel-cancel-button =
 reset-pbm-panel-confirm-button2 =
     .label = Стерти приватний сеанс
     .accesskey = п
-reset-pbm-panel-confirm-button =
-    .label = Видалити дані сеансу
-    .accesskey = В
 reset-pbm-panel-complete = Дані приватного сеансу видалено
 reset-pbm-toolbar-button2 =
     .label = Стерти приватний сеанс

@@ -36,9 +36,6 @@ unified-extensions-item-message-manage = Кіраваць пашырэннем
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = { $extensionName } абмежаванае. Яго выкарыстанне можа быць рызыкоўным.
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName } парушае палітыку Mozilla. Яго выкарыстанне можа быць рызыкоўным.
 
 ## Extension's context menu
 
@@ -57,8 +54,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Некаторыя пашырэнні не дазволены
-unified-extensions-mb-quarantined-domain-message = Для аховы вашых звестак на гэтым сайце дазволены толькі некаторыя пашырэнні, якія кантралююцца { -vendor-short-name }.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Некаторыя пашырэнні не дазволены
@@ -73,13 +68,6 @@ unified-extensions-mb-blocklist-warning-single2 =
     .message =
         Гэта пашырэнне абмежаванае і было адключана.
         Вы можаце ўключыць яго ў наладах, але гэта можа быць рызыкоўна.
-# Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } адключана
-    .message =
-        Гэта пашырэнне парушае палітыку Mozilla і было адключана.
-        Вы можаце ўключыць яго ў наладах, але гэта можа быць рызыкоўным.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
@@ -97,18 +85,6 @@ unified-extensions-mb-blocklist-warning-multiple2 =
     .message =
         Некаторыя з вашых пашырэнняў абмежаваныя і былі адключаны.
         Вы можаце ўключыць іх у наладах, але гэта можа быць рызыкоўна.
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-            [one] { $extensionsCount } пашырэнне адключаны
-            [few] { $extensionsCount } пашырэнні адключаны
-           *[many] { $extensionsCount } пашырэнняў адключана
-        }
-    .message =
-        Некаторыя з вашых пашырэнняў былі адключаны за парушэнне палітык Mozilla.
-        Вы можаце ўключыць іх у наладах, але гэта можа быць рызыкоўным.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =

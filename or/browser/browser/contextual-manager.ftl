@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = ପାସୱାର୍ଡ଼ ଖୋଜନ୍ତୁ
-    .key = F
     .aria-label = ପାସୱାର୍ଡ଼ ଖୋଜନ୍ତୁ
+    .key = F
+    .placeholder = ପାସୱାର୍ଡ଼ ଖୋଜନ୍ତୁ
 
 ## Passwords
 

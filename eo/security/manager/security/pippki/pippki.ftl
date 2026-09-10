@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Vi estas nun en FIPSa reĝimo. FIPS postul
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Remeti ĉefan pasvorton
     .style = min-width: 40em
+    .title = Remeti ĉefan pasvorton
 reset-password-button-label =
     .label = Rekomenci
 reset-primary-password-text = Se vi nuligas vian ĉefan pasvorton ĉiuj viaj konservitaj TTTaj kaj retpoŝtaj pasvortoj estos forgesitaj, kune kun via formulara informo, personaj atestiloj kaj privataj ŝlosiloj. Ĉu vi certe volas nuligi vian ĉefan pasvorton?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Via ĉefa pasvorto estis forigita.
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Elŝutanta atestilon
     .style = min-width: 46em
+    .title = Elŝutanta atestilon
 download-cert-message = Fido je nova atestila aŭtoritato (CA) estis petita al vi.
 download-cert-trust-ssl =
     .label = Fidi tiun ĉi atestilan aŭtoritaton por identigi retejojn.
@@ -52,8 +52,6 @@ download-cert-view-text = Ekzameni atestilon de CA
 
 client-auth-window =
     .title = Peto por identigo de uzanto
-client-auth-site-description = Tiu ĉi retejo petis ke vi identigu vin per atestilo:
-client-auth-choose-cert = Elekti atestilon por prezenti kiel identigilo:
 client-auth-send-no-certificate =
     .label = Ne sendi atestilon
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Bonvolu aŭtentigi vin en la sekureca aparato ({ $tokenName }). La maniero tion fari dependas de la aparato (ekzemple, per fingrospura legilo aŭ per kodo tajpita en cifera klavaro).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Bonvolu aŭtentigi vin en la ĵetono “{ $tokenName }”. La maniero tion fari dependas de la ĵetono (ekzemple, per fingrospura legilo aŭ per kodo tajpita en cifera klavaro).

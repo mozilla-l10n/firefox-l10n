@@ -94,12 +94,6 @@ addon-category-recent-updates = Anovamientos de recién
 addon-category-recent-updates-title =
     .title = Anovamientos de recién
 
-## These are global warnings
-
-extensions-warning-safe-mode = Desactiváronse tolos complementos pol mou seguru
-extensions-warning-safe-mode2 =
-    .message = Desactiváronse tolos complementos pol mou seguru
-
 ## Strings connected to add-on updates
 
 addon-updates-check-for-updates = Comprobar los anovamientos
@@ -131,10 +125,6 @@ shortcuts-no-commands = Les estensiones de darréu nun tienen atayos:
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } úsase como atayu en más d'una ocasión. Los atayos duplicaos puen causar un comportamientu inesperáu.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } úsase como atayu en más d'una ocasión. Los atayos duplicaos puen causar un comportamientu inesperáu.
 shortcuts-card-collapse-button = Amosar menos
@@ -143,17 +133,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Les estensiones y los estilos son como aplicaciones pal restolador y déxente
-    protexer contraseñes, baxar vídeos, atopar ufiertes, bloquiar anuncios molestos,
-    camudar l'estilu del restolador y muncho más. Estos programinos suelen tar
-    desendolcaos por terceros. Equí hai una esbilla que { -brand-product-name }
-    <a data-l10n-name="learn-more-trigger">aconseya</a> pa consiguir un nivel
-    esceicional de seguranza, rindimientu y funcionalidá.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Dalgunes d'estes recomendaciones son personalizaes. Básense n'otres estensiones qu'instalesti, nes preferencies del perfil y nes estadístiques d'usu.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message = Dalgunes d'estes recomendaciones son personalizaes. Básense n'otres estensiones qu'instalesti, nes preferencies del perfil y nes estadístiques d'usu.
@@ -210,16 +189,9 @@ addon-detail-version-label = Versión
 addon-detail-last-updated-label = Últimu anovamientu
 addon-detail-rating-label = Valoración
 # Message for add-ons with a staged pending update.
-install-postponed-message = Esta estensión va anovase cuando se reanicie { -brand-short-name }
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Esta estensión va anovase cuando se reanicie { -brand-short-name }
 install-postponed-button = Anovar agora
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Valoróse con { NUMBER($rating, maximumFractionDigits: 1) } de 5 estrelles
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -237,9 +209,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = Quitóse <span data-l10n-name="addon-name">{ $addon }</span>
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = Quitóse { $addon }
 pending-uninstall-undo-button = Desfacer
@@ -252,17 +221,6 @@ addon-detail-private-browsing-disallow = Nun permitir
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } aconseya namás les estensiones que cumplan colos nuesos estándares de seguranza y rindimientu
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Estensión oficial fecha por Mozilla. Cumple colos estándares de seguranza y rindimientu
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Esta estensión revisóse pa cumplir colos nuesos estándares de seguranza y rindimientu
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -273,8 +231,6 @@ addon-badge-line4 =
 available-updates-heading = Anovamientos disponibles
 recent-updates-heading = Anovamientos de recién
 release-notes-loading = Cargando…
-addon-permissions-empty = Esta estensión nun rique nengún permisu
-addon-permissions-required = Los permisos riquíos pa les funciones principales:
 addon-permissions-learnmore = Lleer más tocante a los permisos
 recommended-extensions-heading = Estensiones aconseyaes
 recommended-themes-heading = Estilos aconseyaos
@@ -304,24 +260,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = «{ $name }» ye incompatible con { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = «{ $name }» ye incompatible con { -brand-short-name } { $version }.
-details-notification-unsigned-and-disabled = Nun pudo verificase «{ $name }» pal so usu en { -brand-short-name } y desactivóse.
 details-notification-unsigned-and-disabled2 =
     .message = Nun pudo verificase «{ $name }» pal so usu en { -brand-short-name } y desactivóse.
-details-notification-unsigned-and-disabled-link = Más información
-details-notification-unsigned = Nun pudo verificase «{ $name }» pal so usu en { -brand-short-name }. Sigui con curiáu.
 details-notification-unsigned2 =
     .message = Nun pudo verificase «{ $name }» pal so usu en { -brand-short-name }. Sigui con curiáu.
-details-notification-unsigned-link = Más información
-details-notification-blocked = Desactivóse «{ $name }» pola mor de problemes de seguranza o estabilidá.
-details-notification-blocked-link = Más información
-details-notification-softblocked = Sábese que «{ $name }» causa problemes de seguranza o estabilidá.
-details-notification-softblocked-link = Más información
-details-notification-gmp-pending = «{ $name }» va instalase de secute.
 details-notification-gmp-pending2 =
     .message = «{ $name }» va instalase de secute.
 

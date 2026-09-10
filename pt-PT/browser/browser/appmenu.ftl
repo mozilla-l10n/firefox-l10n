@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = Extensões e temas
 appmenuitem-extensions =
     .label = Extensões
-appmenuitem-addons-and-themes =
-    .label = Complementos e temas
 appmenuitem-print =
     .label = Imprimir…
 appmenuitem-find-in-page =
@@ -154,7 +152,6 @@ fxa-menu-get-firefox-mobile =
     .label = Obtenha o { -brand-product-name } para Android ou iOS
 fxa-menu-secure-sync-subpanel =
     .title = Sincronização segura
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Conta
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -176,15 +173,6 @@ appmenuitem-save-page =
     .label = Guardar página como…
 appmenuitem-fxa-sync-off-title = A sincronização está desativada
 appmenuitem-fxa-sync-off-description = Proteja e aceda aos seus marcadores, palavras-passe e muito mais, em qualquer sítio.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Novidades
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Notificar sobre as novas funcionalidades
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -326,8 +314,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Mais informação para diagnóstico de problemas
     .accesskey = g
-appmenu-help-report-site-issue =
-    .label = Reportar problema no site…
 appmenu-help-share-ideas =
     .label = Partilhe ideias e comentários…
     .accesskey = h
@@ -393,7 +379,6 @@ appmenuitem-vpn-description5 = Obtenha proteção extra entre dispositivos
 appmenuitem-vpn-title-signed-in1 = Transfira { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Obtenha proteção para todo o dispositivo
-appmenuitem-vpn-description = Proteja a sua privacidade na Internet
 appmenu-services-header = Os meus serviços
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -403,7 +388,6 @@ appmenu-other-protection-header3 = Ferramentas de privacidade
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Experimentar outras ferramentas de proteção da Mozilla:
-appmenu-other-protection-header = Experimente outras ferramentas de proteção da { -vendor-short-name }:
 
 ## Profiles panel
 

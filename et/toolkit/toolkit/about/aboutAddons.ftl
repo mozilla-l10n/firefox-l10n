@@ -145,15 +145,10 @@ addon-category-sitepermission-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Kõik lisad on ohutu režiimi poolt keelatud.
-extensions-warning-check-compatibility = Lisade ühilduvuse kontrollimine on keelatud. Kasutusel võib olla mitteühilduvaid lisasid.
-extensions-warning-safe-mode2 =
-    .message = Kõik lisad on ohutu režiimi poolt keelatud.
 extensions-warning-check-compatibility2 =
     .message = Lisade ühilduvuse kontrollimine on keelatud. Kasutusel võib olla mitteühilduvaid lisasid.
 extensions-warning-check-compatibility-button = Luba
     .title = Luba lisade ühilduvuse kontrollimine
-extensions-warning-update-security = Lisade uuendamise turvalisuse kontrollimine on keelatud. Sinu turvalisus võib uuenduste tõttu ohus olla.
 extensions-warning-update-security2 =
     .message = Lisade uuendamise turvalisuse kontrollimine on keelatud. Sinu turvalisus võib uuenduste tõttu ohus olla.
 extensions-warning-update-security-button = Luba
@@ -217,10 +212,6 @@ shortcuts-duplicate = Selline kiirklahvide kombinatsioon on juba olemas
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = Kombinatsiooni { $shortcut } kasutatakse rohkem kui ühes kohas. Mitmes kohas määratud sama kiirklahvide kombinatsioon võib põhjustada ootamatut käitumist.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = Kombinatsiooni { $shortcut } kasutatakse rohkem kui ühes kohas. Mitmes kohas määratud sama kiirklahvide kombinatsioon võib põhjustada ootamatut käitumist.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -240,13 +231,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Laiendused ja teemad on nagu äpid sinu brauseri jaoks. Need aitavad sul kaitsta paroole, laadida alla videoid, otsida häid tehinguid, blokkida tüütuid reklaame, muuta brauseri välimust ja veel palju muud. Need väikesed programmid on tihti arendatud kolmandate osapoolte poolt. Siin on valik { -brand-product-name }i poolt <a data-l10n-name="learn-more-trigger">soovitatud</a> lisasid, mis paistavad silma oma erakordse turvalisuse, võimekuse või funktsionaalsuse poolest.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    Mõned neist soovitustest on isikupärastatud. Need baseeruvad sinu teistel paigaldatud lisadel,
-    profiili sätetel ja kasutamise statistikal.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -314,16 +298,9 @@ addon-detail-last-updated-label = Viimati uuendatud
 addon-detail-homepage-label = Koduleht
 addon-detail-rating-label = Hinnang
 # Message for add-ons with a staged pending update.
-install-postponed-message = Laiendus uuendatakse { -brand-short-name }i taaskäivitumisel.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Laiendus uuendatakse { -brand-short-name }i taaskäivitumisel.
 install-postponed-button = Uuenda kohe
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Hinnatud hindele { NUMBER($rating, maximumFractionDigits: 1) } 5-st
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -341,9 +318,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = Lisa <span data-l10n-name="addon-name">{ $addon }</span> eemaldati.
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = Lisa { $addon } eemaldati.
 pending-uninstall-undo-button = Võta tagasi
@@ -357,11 +331,6 @@ install-update-button = Uuenda
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
     .title = Töötamine privaatsetes akendes on lubatud
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
-    .title = Töötamine privaatsetes akendes on lubatud
 addon-detail-private-browsing-help = Lubamise korral saab laiendus ligipääsu sinu tegevusele privaatsetes akendes. <a data-l10n-name="learn-more">Rohkem teavet</a>
 addon-detail-private-browsing-allow = lubatud
 addon-detail-private-browsing-disallow = keelatud
@@ -369,17 +338,6 @@ addon-detail-private-browsing-disallow = keelatud
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } soovitab ainult meie turvalisuse ja jõudluse standarditele vastavaid laiendusi
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Mozilla loodud ametlik laiendus. Vastab turva- ja jõudlusstandarditele
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = See laiendus on kontrollitud ja vastab meie turva- ning jõudlusstandarditele
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -391,9 +349,6 @@ available-updates-heading = Saadaolevad uuendused
 recent-updates-heading = Hiljutised uuendused
 release-notes-loading = Laadimine…
 release-notes-error = Vabandust, väljalasketeate laadimisel esines viga.
-addon-permissions-empty = See laiendus ei nõua eriõigusi
-addon-permissions-required = Põhifunktsionaalsuse jaoks vajalikud õigused:
-addon-permissions-optional = Valikulised õigused täiendava funktsionaalsuse jaoks
 addon-permissions-learnmore = Rohkem teavet õiguste kohta
 recommended-extensions-heading = Soovitatavad laiendused
 recommended-themes-heading = Soovitatavad teemad
@@ -427,25 +382,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = Lisa { $name } ei ühildu { -brand-short-name }i versiooniga { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = Lisa { $name } ei ühildu { -brand-short-name }i versiooniga { $version }.
-details-notification-incompatible-link = Rohkem teavet
-details-notification-unsigned-and-disabled = Lisa { $name } polnud võimalik { -brand-short-name }is kasutamiseks verifitseerida ja see keelati.
 details-notification-unsigned-and-disabled2 =
     .message = Lisa { $name } polnud võimalik { -brand-short-name }is kasutamiseks verifitseerida ja see keelati.
-details-notification-unsigned-and-disabled-link = Rohkem teavet
-details-notification-unsigned = Lisa { $name } polnud võimalik { -brand-short-name }is kasutamiseks verifitseerida. Tasub olla ettevaatlik.
 details-notification-unsigned2 =
     .message = Lisa { $name } polnud võimalik { -brand-short-name }is kasutamiseks verifitseerida. Tasub olla ettevaatlik.
-details-notification-unsigned-link = Rohkem teavet
-details-notification-blocked = Lisa { $name } on turvalisuse või stabiilsuse probleemide tõttu keelatud.
-details-notification-blocked-link = Rohkem teavet
-details-notification-softblocked = Lisa { $name } on tunnistatud turvalisuse või stabiilsuse probleeme tekitavaks.
-details-notification-softblocked-link = Rohkem teavet
-details-notification-gmp-pending = { $name } paigaldatakse peagi.
 details-notification-gmp-pending2 =
     .message = { $name } paigaldatakse peagi.
 

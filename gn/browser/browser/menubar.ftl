@@ -262,8 +262,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Mba’etekuéra
 menu-profiles-manage-profiles =
     .label = Mba’etekuéra ñangareko
 menu-profiles-new-profile =
@@ -287,9 +285,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Jepysokue ha Téma
     .accesskey = E
-menu-tools-addons-and-themes =
-    .label = Moĩmbaha ha Téma
-    .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = Tembiapo ñepyrũ
     .accesskey = g
@@ -346,8 +341,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Maranduve apañuái ñemyatyrõ rehegua
     .accesskey = T
-menu-help-report-site-issue =
-    .label = Eikuaauka iñapañuaiha ko Tenda…
 menu-help-share-ideas =
     .label = Emoherakuã ãroky ha ñe’ẽngue…
     .accesskey = S

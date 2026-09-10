@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Skjul lukkede PeerConne
 about-webrtc-aec-logging-msg-label = AEC-logging
 about-webrtc-aec-logging-off-state-label = Start AEC-logging
 about-webrtc-aec-logging-on-state-label = Stopp AEC-logging
-about-webrtc-aec-logging-on-state-msg = AEC-logging er påslått (prat med den som ringer i noen minutter og stopp deretter opptaket)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC-logging er påslått (prat med den som ringer i noen minutter og stopp deretter opptaket)
 about-webrtc-aec-logging-unavailable-sandbox = Miljøvariabelen MOZ_DISABLE_CONTENT_SANDBOX=1 kreves for å eksportere AEC-logger. Sett kun denne variabelen hvis du forstår de mulige risikoene.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Nominert
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Valgt
 about-webrtc-save-page-label = Lagre side
-about-webrtc-debug-mode-msg-label = Feilsøkingsmodus
-about-webrtc-debug-mode-off-state-label = Start feilsøkingsmodus
-about-webrtc-debug-mode-on-state-label = Stopp feilsøkingsmodus
-about-webrtc-stats-heading = Øktstatistikk
 about-webrtc-enable-logging-label = Aktiver forhåndsinnstilling av WebRTC-logg
 about-webrtc-peerconnections-section-heading = RTCPeerConnection-statistikk
 about-webrtc-peerconnections-section-show-msg = Vis RTCPeerConnection-statistikk
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = Skjul RTCPeerConnection-statisti
 about-webrtc-stats-clear = Slett historikk
 about-webrtc-log-heading = Tilkoblingslogg
 about-webrtc-log-clear = Slett logg
-about-webrtc-log-show-msg = vis logg
-    .title = trykk for å utvide denne delen
-about-webrtc-log-hide-msg = skjul logg
-    .title = trykk for å slå sammen denne delen
 about-webrtc-log-section-show-msg = Vis logg
     .title = Trykk for å utvide denne delen
 about-webrtc-log-section-hide-msg = Skjul logg
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Ekstern kandidat
 about-webrtc-raw-candidates-heading = Alle raw-kandidater
 about-webrtc-raw-local-candidate = Lokal raw-kandidat
 about-webrtc-raw-remote-candidate = Ekstern raw-kandidat
-about-webrtc-raw-cand-show-msg = vis raw-kandidater
-    .title = trykk for å utvide denne delen
-about-webrtc-raw-cand-hide-msg = skjul raw-kandidater
-    .title = trykk for å slå sammen denne delen
 about-webrtc-raw-cand-section-show-msg = Vis raw-kandidater
     .title = Trykk for å utvide denne delen
 about-webrtc-raw-cand-section-hide-msg = Skjul raw-kandidater
     .title = Trykk for å slå sammen denne delen
 about-webrtc-priority = Prioritet
-about-webrtc-fold-show-msg = vis detaljer
-    .title = trykk for å utvide denne delen
-about-webrtc-fold-hide-msg = skjul detaljer
-    .title = trykk for å slå sammen denne delen
 about-webrtc-fold-default-show-msg = Vis detaljer
     .title = Trykk for å utvide denne delen
 about-webrtc-fold-default-hide-msg = Skjul detaljer
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Oppgitt
 # been provided
 about-webrtc-configuration-element-not-provided = Ikke oppgitt
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Tilpassede WebRTC-innstillinger
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Brukermodifisert WebRTC-konfigurasjon
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT (ms)
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Videoramme-statistik - MediaStreamTrack ID: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = siden lagret til: { $path }
-about-webrtc-debug-mode-off-state-msg = sporingslogg finnes på: { $path }
-about-webrtc-debug-mode-on-state-msg = feilsøkingsmodus påslått, sporingslogg på: { $path }
-about-webrtc-aec-logging-off-state-msg = innsamlede loggfiler finnes på: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

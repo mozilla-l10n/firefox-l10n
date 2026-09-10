@@ -241,8 +241,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = یارمەتی
     .accesskey = ی
-menu-help-report-site-issue =
-    .label = کێشەی ماڵپەڕ بنێرە...
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

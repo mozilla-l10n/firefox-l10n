@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = { -vendor-short-name } ᱠᱷᱚᱱ ᱰᱷᱮᱨ ᱜᱮ
 more-from-moz-category =
     .tooltiptext = { -vendor-short-name } ᱠᱷᱚᱱ ᱰᱷᱮᱨ ᱜᱮ
 more-from-moz-subtitle = ᱮᱴᱟᱜ { -vendor-short-name } ᱡᱤᱱᱤᱥ ᱠᱚ ᱧᱮᱞ ᱢᱮ ᱡᱟᱦᱟᱸ ᱫᱚ ᱢᱤᱫ ᱵᱮᱥ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱫᱚᱦᱚ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱫᱤᱥᱟᱹᱠᱚᱨᱮ ᱜᱚᱲᱚ ᱮᱢᱚᱜᱼᱟᱭ ᱾

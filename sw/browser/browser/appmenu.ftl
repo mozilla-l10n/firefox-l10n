@@ -31,5 +31,3 @@ appmenuitem-save-page =
 appmenu-about =
     .label = Kuhusu { -brand-shorter-name }
     .accesskey = A
-appmenu-help-report-site-issue =
-    .label = Ripoti suala la tovuti…

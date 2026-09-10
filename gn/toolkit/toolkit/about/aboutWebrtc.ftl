@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Eñomi PeerConnections 
 about-webrtc-aec-logging-msg-label = AEC Haipy
 about-webrtc-aec-logging-off-state-label = AEC haipy moñepyrũ
 about-webrtc-aec-logging-on-state-label = AEC haipy jejoko
-about-webrtc-aec-logging-on-state-msg = Haipy AEC japyhypyre (eñe’ẽ pe tapicha ohenóiva sapy’aitemi ndive ha upéi opytáma pe japyhypyre)
 about-webrtc-aec-logging-toggled-on-state-msg = Haipy AEC japyhypyre (eñe’ẽ pe tapicha ohenóiva sapy’aitemi ndive ha upéi opytáma pe japyhypyre)
 about-webrtc-aec-logging-unavailable-sandbox = Tekotevẽ pe ambuepy MOZ_DISABLE_CONTENT_SANDBOX=1 jerére emba’ereraha hag̃ua AEC mboheraguapy. Emboheko ko ambuepy eikũmby añetérõ apañuaikuaa añoite.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Poravopyrãva
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = poravopyre
 about-webrtc-save-page-label = Kuatiarogue ñongatu
-about-webrtc-debug-mode-msg-label = Mopotĩha reko
-about-webrtc-debug-mode-off-state-label = Mopotĩha reko ñepyrũ
-about-webrtc-debug-mode-on-state-label = Mopotĩha reko jejoko
-about-webrtc-stats-heading = Tembiapo rehegua papapy
 about-webrtc-enable-logging-label = Embojuruja WebRTC mboheraguapy ypygua
 about-webrtc-peerconnections-section-heading = RTCPeerConnection papapykuaa
 about-webrtc-peerconnections-section-show-msg = Ehechauka RTCPeerConnection papapykuaa
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = Emokañy RTCPeerConnection papap
 about-webrtc-stats-clear = Tembiasakue ñembogue
 about-webrtc-log-heading = Jeike rehegua haipy
 about-webrtc-log-clear = Jeikehague ñembogue
-about-webrtc-log-show-msg = Haipy jehechauka
-    .title = eikutu emoasãi hag̃ua ko pehẽ’i
-about-webrtc-log-hide-msg = haipy mokañy
-    .title = eikutu embopaha hag̃ua ko tembiapo
 about-webrtc-log-section-show-msg = Haipy jehechauka
     .title = Eikutu emyasãi hag̃ua ko pehẽ’i
 about-webrtc-log-section-hide-msg = Haipy mokañy
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Poravopyrã mombyrygua
 about-webrtc-raw-candidates-heading = Opavave oikoséva pe oĩháicha
 about-webrtc-raw-local-candidate = Oikoséva upepegua pe oĩháicha
 about-webrtc-raw-remote-candidate = Oikoséva okapegua pe oĩháicha
-about-webrtc-raw-cand-show-msg = ehechauka oikoséva pe oĩháicha
-    .title = eikutu emyasãi hag̃ua ko pehẽ’i
-about-webrtc-raw-cand-hide-msg = Eñomi oikoséva ojy’ỹre
-    .title = eikutu embopaha hag̃ua ko tembiapo
 about-webrtc-raw-cand-section-show-msg = Ehechauka oikoséva pe oĩháicha
     .title = Eikutu emyasãi hag̃ua ko pehẽ’i
 about-webrtc-raw-cand-section-hide-msg = Eñomi oikoséva ojy’ỹre
     .title = Eikutu embopaha hag̃ua ko tembiapo
 about-webrtc-priority = Peteĩháva
-about-webrtc-fold-show-msg = mba’emimi jehechauka
-    .title = eikutu emyasãi hag̃ua ko pehẽ’i
-about-webrtc-fold-hide-msg = mba’emimi moñemi
-    .title = eikutu embopaha hag̃ua ko tembiapo
 about-webrtc-fold-default-show-msg = Mba’emimi jehechauka
     .title = Eikutu emyasãi hag̃ua ko pehẽ’i
 about-webrtc-fold-default-hide-msg = Mba’emimi moñemi
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Me’ẽha
 # been provided
 about-webrtc-configuration-element-not-provided = Me’ẽ’ỹva
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = WebRTC oguerohoryvéva poruhára moĩmbyre
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = WebRTC ñemboheko poruhára omoambuepyre
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Ta’ãngamýi fotograma rapykuere: ID MediaStreamTrack mba’e: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = Kuatiarogue ñeñongatuha: { $path }
-about-webrtc-debug-mode-off-state-msg = Tapykueho jehaipy ikatu ejuhu amo: { $path }
-about-webrtc-debug-mode-on-state-msg = mopotĩha hendýva reko, haipy jehapykueho ápe: { $path }
-about-webrtc-aec-logging-off-state-msg = marandurenda haipy japyhypyréva ikatu ejuhu amo: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = സംരക്ഷിച്ച വിലാസങ്ങള്‍
 autofill-manage-addresses-list-header = വിലാസങ്ങള്‍
-autofill-manage-credit-cards-title = സംരക്ഷിച്ച ക്രെഡിറ്റ് കാര്‍ഡുകള്‍
-autofill-manage-credit-cards-list-header = ക്രെഡിറ്റ് കാര്‍ഡുകള്‍
 autofill-manage-payment-methods-title = കരുതിവച്ച പണമടക്കൽ വഴികൾ
 autofill-manage-cards-list-header = ചീട്ടുകൾ
 autofill-manage-dialog =
@@ -44,15 +42,10 @@ address-capture-open-menu-button =
     .aria-label = കുറിപ്പടികട്ട തുറക്കുക
 address-capture-edit-address-link = വിലാസം തിരുത്തുക
     .aria-label = വിലാസം തിരുത്തുക
-address-capture-edit-address-button =
-    .aria-label = വിലാസം തിരുത്തുക
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = വിലാസം ചേൎക്കുക
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = വിലാസം തിരുത്തുക
-autofill-address-given-name = ആദ്യ പേര്
-autofill-address-additional-name = നടുവിലുള്ള പേര്
-autofill-address-family-name = അവസാന പേര്
 autofill-address-name = പേരു്
 autofill-address-organization = സംഘടന
 autofill-address-street-address = തെരുവു് വിലാസം
@@ -100,18 +93,12 @@ autofill-address-eircode = എയർകോഡ്
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = പുതിയ വിലാസം ചേര്‍ക്കുക
 autofill-address-country = രാജ്യം അല്ലെങ്കില്‍ മേഖല
 autofill-address-country-only = രാജ്യം
 autofill-address-tel = ഫോണ്‍
 autofill-address-email = ഇ-മെയില്‍
 autofill-cancel-button = റദ്ദാക്കുക
 autofill-save-button = സംരക്ഷിക്കുക
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = പുതിയ ക്രെഡിറ്റ് കാര്‍ഡ് ചേര്‍ക്കുക
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = ക്രെഡിറ്റ് കാര്‍ഡ് തിരുത്തുക
 autofill-message-tooltip = താനെപ്പൂരിപ്പിക്കലെ പറ്റി സന്ദേശം കാണുക
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = ചീട്ടു് ചേൎക്കുക
@@ -130,15 +117,3 @@ autofill-card-expires-month = കാലാവധി തീരുന്ന മാ
 autofill-card-expires-year = കാലാവധി തീരുന്ന കൊല്ലം
 autofill-card-billing-address = പണമടക്കൽ വിലാസം
 autofill-card-network = ചീട്ടുതരം
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = അമേരിക്കൻ എക്സ്പ്രസ്
-autofill-card-network-cartebancaire = കാർട്ടെ ബാൻകെയർ
-autofill-card-network-diners = ഡൈനേഴ്സ് ക്ലബ്
-autofill-card-network-discover = ഡിസ്ക്കവർ
-autofill-card-network-jcb = ജെ.സി.ബി
-autofill-card-network-mastercard = മാസ്റ്റർകാർഡ്
-autofill-card-network-mir = മിർ
-autofill-card-network-unionpay = യൂണിയൻ പേ
-autofill-card-network-visa = വിസ

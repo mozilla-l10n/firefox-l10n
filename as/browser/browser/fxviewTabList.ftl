@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxviewtabrow-open-menu-button =
-    .title = মেন্যু খোলক
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
@@ -20,10 +18,6 @@ fxviewtabrow-dismiss-tab-button =
     .title = { $tabTitle } খাৰিজ কৰক
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = এইমাত্ৰ
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-delete = মচক
     .accesskey = D
 fxviewtabrow-forget-about-this-site = এই ছাইটৰ বিষয়ে পাহৰি যাওক…
@@ -49,8 +43,6 @@ fxviewtabrow-move-tab-end = শেষলৈ নিয়ক
     .accesskey = E
 fxviewtabrow-move-tab-window = নতুন ৱিণ্ড’লৈ নিয়ক
     .accesskey = W
-fxviewtabrow-send-tab = ডিভাইচলৈ টেব পঠিয়াওক
-    .accesskey = n
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =

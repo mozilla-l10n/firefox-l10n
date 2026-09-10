@@ -16,15 +16,3 @@ recently-closed-menu-reopen-all-windows = Enduropna alla glugga
 
 recently-closed-panel-reopen-all-tabs = Enduropna alla flipa
 recently-closed-panel-reopen-all-windows = Enduropna alla glugga
-
-##
-
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [one] { $winTitle } (og { $tabCount } annan flipa)
-       *[other] { $winTitle } (og { $tabCount } aðra flipa)
-    }

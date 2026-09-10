@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = ایں ورقے دا ترجمہ کرو
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = ترجمہ تھیندا پئے
 translations-panel-settings-button =
     .aria-label = ترجمہ ترتیباں منظم کرو
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } بیٹا
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = زباناں منیج کرو
-translations-panel-settings-about = { -brand-shorter-name } وچ ترجمیاں بارے
 translations-panel-settings-about2 =
     .label = { -brand-shorter-name } وچ ترجمیاں بارے
 # Text displayed for the option to always translate a given language
@@ -83,14 +74,6 @@ translations-panel-error-dismiss-button =
     .label = سمجھ گھدے
 translations-panel-error-change-button =
     .label = ماخذ زبان وٹاؤ
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = افسوس، اساں اڄݨ { $language } کوں سہارا نسے ݙیندے۔
-translations-panel-error-unsupported-hint-unknown = افسوس، اساں اڄݨ ایں زبان کوں سہارا نسے ݙیندے۔
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -122,10 +105,6 @@ translations-manage-header = ترجمے
 translations-manage-settings-button =
     .label = ترتیباں …
     .accesskey = t
-translations-manage-description = آف لائن ترجمے کیتے زناناں ڈاؤن لوڈ کرو
-translations-manage-all-language = ساریاں زباناں
-translations-manage-download-button = ڈاؤن لوڈ
-translations-manage-delete-button = مٹاؤ
 translations-manage-intro-2 = آپݨی ٻولی اَتے سائٹ دے ترجمے دیاں ترجیحاں مرتب کرو اَتے آف لائن ترجمہ کِیتے ڈاؤن لود تھیاں ٻولیاں دا نظم کرو۔
 translations-manage-download-description = آف لائن ترجمے کیتے زناناں ڈاؤن لوڈ کرو
 translations-manage-language-download-button =
@@ -139,12 +118,11 @@ translations-manage-language-remove-all-button =
     .label = سارے ہٹاؤ
     .accesskey = e
 translations-manage-error-download = زبان فائلاں ڈاؤن لوڈ کرݨ وچ ہک مسئلہ ہائی۔ سوہݨا، ولدا کوشش کرو۔
-translations-manage-error-delete = زبان فائلاں مٹاوݨ وچ ہک خرابی ہائی۔ سوہݨا، ولدا کوشش کرو۔
 translations-manage-error-remove = زبان فائلاں ہٹاوݨ وچ ہک خرابی ہائی۔ سوہݨا، ولدا کوشش کرو۔
 translations-manage-error-list = ترجمہ کِیتے دستیاب ٻولیاں دی تن٘دِیر حاصل کرݨ وِچ ناکام۔ وَلا کوشِش کرݨ کِیتے پَنّا وَلا تازہ کرو۔
 translations-settings-title =
-    .title = ترجمے ترتیباں
     .style = min-width: 36em
+    .title = ترجمے ترتیباں
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = ہیٹھ درج زباناں کیتے ترجمہ آپݨے آپ تھیسی۔
@@ -228,16 +206,6 @@ select-translations-panel-init-failure-message =
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = ترجمہ کرݨ وچ ہک مسئلہ ہائی۔ سوہݨا، ولدا کوشش کرو۔
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = افسوس، اساں اڄݨ { $language } کوں سہارا نسے ݙیندے۔
-select-translations-panel-unsupported-language-message-unknown =
-    .message = افسوس، اساں اڄݨ ایں زبان کوں سہارا نسے ݙیندے۔
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = ترجمہ ترتیباں

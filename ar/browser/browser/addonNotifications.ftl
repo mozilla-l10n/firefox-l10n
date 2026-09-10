@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = واصِل نحو التثبيت
     .accesskey = ص
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = يطلب هذا الموقع الوصول إلى أجهزة MIDI لديك (الآلة الموسيقية الواجهة الرقمية). يمكن تفعيل وصول الجهاز بتثبيت الإضافات.
 site-permission-install-first-prompt-midi-message = لا يضمن هذا الوصول أن يكون آمنًا. واصِل فقط إذا كنت تثق بهذا الموقع.
 site-permission-install-first-prompt-serial-header = يطلب هذا الموقع الوصول إلى أجهزتك التسلسلية. يمكن تفعيل الوصول إلى الأجهزة عن طريق تثبيت إضافة.
 site-permission-install-first-prompt-serial-message = لا يضمن هذا الوصول أن يكون آمنًا. واصِل فقط إذا كنت تثق بهذا الموقع.
-
-##
-
-xpinstall-disabled-locked = منع مدير النظام تثبيت البرمجيّات.
 xpinstall-disabled-by-policy = منعت منظّمتك تثبيت البرمجيّات.
 xpinstall-disabled = تثبيت البرمجيّات معطل حاليًا. انقر فعّل و حاول مجددًا.
 xpinstall-disabled-button =
     .label = فعّل
     .accesskey = ع
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = حجب مدير النظام { $addonName } (معرّفها { $addonId }).
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = منع مدير النظام هذا الموقع من سؤالك بتثبيت برمجيّات على حاسوبك.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = الانتهاء من تثبيت الامتدادات �
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = أتريد إزالة { $name }؟
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = أأُزيل { $name } من { -brand-shorter-name }؟
 addon-removal-button = أزِل
 addon-removal-abuse-report-checkbox = أبلِغ { -vendor-short-name } عن هذا الامتداد
 # "it" refers to the local AI model that is paired to the AI feature
@@ -154,7 +137,5 @@ addon-local-install-no-addon-name-error-file-access = فشل تثبيت الإض
 addon-install-error-incompatible = تعذر تثبيت الإضافة { $addonName } لأنها غير متوافقة مع { -brand-short-name }‏ { $appVersion }.
 addon-install-error-hard-blocked = ينتهك { $addonName } سياسات Mozilla ولا يمكن تثبيته على { -brand-short-name }.
 addon-install-error-soft-blocked2 = { $addonName } مقيد ولا يمكن تثبيته على { -brand-short-name }.
-addon-install-error-blocklisted = تعذر تثبيت الإضافة { $addonName } بسبب احتمال كبير في تسببها لمشاكل في الأمن أو الثبات.
-addon-install-error-soft-blocked = ينتهك { $addonName } سياسات Mozilla ولا يمكن تثبيته على { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = لا يمكنك تثبيت { $addonName } كمستخدم، حيث لا يمكن تثبيتها إلا بواسطة مُنظَّمة بإستخدام سياسات المؤسّسات.

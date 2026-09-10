@@ -21,33 +21,10 @@ safeb-palm-see-details-label = तपशील पहा
 
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> हे <a data-l10n-name='error_desc_link'>धोकादायक संकेतस्थळ</a> आहे असे निदर्शनास आणून देण्यात आलेले आहे. आपण <a data-l10n-name='report_detection'>शोधण्याची समस्या</a> नोंद करू शकता किंवा हा <a data-l10n-name='ignore_warning_link'>धोका दुर्लक्षित</a> करून ह्या असुरक्षित संकेतस्थळावर जाऊ शकता.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> हे <a data-l10n-name='error_desc_link'>धोकादायक संकेतस्थळ</a> आहे असे निदर्शनास आणून देण्यात आलेले आहे. आपण <a data-l10n-name='report_detection'>शोधण्याची समस्या</a> नोंद करू शकता.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-phishing-page-learn-more = फसवी संकेतस्थळे व फिशिंग याबद्दल <a data-l10n-name='learn_more_link'>www.antiphishing.org</a> इथे अधिक जाणून घ्या. { -brand-short-name } च्या फिशिंग आणि मालवेअर सुरक्षेबाबत <a data-l10n-name='firefox_support'>support.mozilla.org</a> इथे अधिक जाणून घ्या.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> हे संकेतस्थळ <a data-l10n-name='error_desc_link'>घातक सॉफ्टवेअर असलेले</a> म्हणून निदर्शनास आणून देण्यात आले आहे. आपण <a data-l10n-name='ignore_warning_link'>धोका दुर्लक्षित करून</a> या असुरक्षित संकेतस्थळावर जाऊ शकता.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> हे संकेतस्थळ <a data-l10n-name='error_desc_link'>घातक सॉफ्टवेअर असलेले</a> म्हणून निदर्शनास आणून देण्यात आले आहे.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-unwanted-page-learn-more = धोकादायक व अवांछित सॉफ्टवेअर बद्दल इथे अधिक जाणून घ्या <a data-l10n-name='learn_more_link'>अवांछित सॉफ्टवेअर धोरण</a>. { -brand-short-name } फिशिंग आणि मालवेअर सुरक्षेबद्दल इथे अधिक जाणून घ्या <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> या संकेतस्थळावर <a data-l10n-name='error_desc_link'>संभाव्य धोकादायक प्रणाली आहे</a> असे निदर्शनास आणले आहे. आपण हा <a data-l10n-name='ignore_warning_link'>धोका दुर्लक्षित करून</a> या असुरक्षित संकेतस्थळाला भेट देऊ शकता.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> या संकेतस्थळावर <a data-l10n-name='error_desc_link'>संभाव्य धोकादायक प्रणाली आहे</a> असे निदर्शनास आणले आहे.
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
 safeb-blocked-harmful-page-learn-more = { -brand-short-name } च्या फिशिंग आणि मालवेअर सुरक्षेबाबत <a data-l10n-name='firefox_support'>इथे</a> अधिक जाणून घ्या.
-safeb-palm-notdeceptive =
-    .label = ही साईट फसवी नाही…
-    .accesskey = d

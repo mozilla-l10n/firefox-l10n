@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Porujovái jehechaukaha
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Porujovái jehechaukaha
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Emoherakuãhína ñe’ẽatãha. Eikutu ha ehecha ijeporu ambue ndive.
 webrtc-screen-system-menu =
     .label = Emoherakuãhína tendayke térã mba’erechaha. Eikutu ha ehecha ijeporu ambue ndive.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Pe ta’ãngamýi ha ñe’ẽataha oñemoherakuãhína. Eikutu ehechaséramõ mba’éichapa iñemoambue.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Pe ta’ãngamýi oñemoherakuãhína. Eikutu ehechaséramõ mba’éichapa iñemoambue.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Neñe’ẽataha oñemoherakuãhína. Eikutu ehechasérõ mba’éichapa iñemoambue.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Pe mba’ejerure oñemoherakuãhína. Eikutu ehechaséramõ mba’éichapa iñemoambue.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Pe mba’erechaha oñemoherakuã. Eikutu ehechaséramõ mba’éichapa iñemoambue.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Oñemoherakuãhína peteĩ ovetã. Eikutu ehechaséramõ mba’éichapa iñemoambue.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Peteĩ tendayke oñemoherakuãhína. Eikutu ehechaséramõ mba’éichapa iñemoambue.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ¿Emoneĩ { $ori
 
 webrtc-share-screen-warning = Emoherakuã mba’erechaha tenda ejeroviahápe. Jeporu oñondivegua omoneĩkuaa tenda imarãva oipykúivo ndéramo ha omonda ne mba’ekuaarã ñemigua.
 webrtc-share-browser-warning = Emoherakuã { -brand-short-name } rendakuéra ejeroviahápe añoite. Jeporu oñondivegua omoneĩkuaa tenda imarãva nemyendaguévo ha omonda ne mba’ekuaarã ñemigua.
-webrtc-share-screen-learn-more = Jekuaave
 webrtc-pick-window-or-screen = Eiporavo ovetã térã mba’erechaha
 webrtc-share-entire-screen = Mba’erechaha tuichakue
 webrtc-share-pipe-wire-portal = Eiporu apopyvusu oku’éva ñemboheko

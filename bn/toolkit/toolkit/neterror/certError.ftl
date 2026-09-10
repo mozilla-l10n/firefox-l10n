@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = সার্টিফিকেট নির�
 cert-error-trust-signature-algorithm-disabled = সনদপত্রটি টি নির্ভরযোগ্য নয় কারন এটি যে স্বাক্ষর সমাধান পদ্ধতি (অ্যালগরিদিম) ব্যবহার করে স্বাক্ষরিত হয়েছে তা নিষ্ক্রিয় করা আছে কারন সমাধান পদ্ধতি (অ্যালগরিদিম) টি নিরাপদ নয়।
 cert-error-trust-expired-issuer = সার্টিফিকেট নির্মাণকারীর মেয়াদ উত্তীর্ণ হওয়ার ফলে এই সার্টিফিকেট বিশ্বস্ত নয়।
 cert-error-trust-self-signed = স্বয়ং স্বাক্ষরিত হওয়ার ফলে এই সার্টিফিকেটটি বিশ্বস্ত নয়।
-cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte এবং VeriSign এর দেয়া প্রমাণপত্র এখন আর নিরাপদ বলে বিবেচ্য নয় কেননা প্রমাণপত্রের কর্তৃপক্ষ অতীতে সুরক্ষা পদ্ধতি অনুসরণ করতে ব্যর্থ হয়েছিলো।
 cert-error-untrusted-default = সার্টিফিকেটের উৎস বিশ্বস্ত নয়।
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -52,10 +51,6 @@ cert-error-code-prefix-link = ভুল কোড: <a data-l10n-name="error-code
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = { $hostname }-এর সাথে সংযোগ স্থাপনের সময় একটি ত্রুটি ঘটেছে। { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = ওয়েবসাইটগুলি সার্টিফিকেটের মাধ্যমে তাদের পরিচয় প্রমাণ করে, যা সার্টিফিকেট অথোরিটি দ্বারা জারি করা হয়। বেশিরভাগ ব্রাউজারগুলি GeoTrust, RapidSSL, Symantec, Thawte, এবং VeriSign দ্বারা জারি করা সার্টিফিকেট আর বিশ্বাস করে না। { $hostname } এই অথোরিটিগুলির কোন একটির সার্টিফিকেট ব্যবহার করে এবং তাই ওয়েবসাইটটির পরিচয় প্রমাণ করা যায় না।
-cert-error-symantec-distrust-admin = আপনি এই সমস্যা সম্পর্কে ওয়েবসাইট প্রশাসককে অবহিত করতে পারেন।
 cert-error-old-tls-version = এই ওয়েবসাইটটি TLS 1.2 প্রোটোকল সমর্থন নাও করতে পারে, যা { -brand-short-name } দ্বারা সমর্থিত সর্বনিম্ন সংস্করণ৷
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -64,7 +59,6 @@ cert-error-details-hsts-label = HTTP কঠোর পরিবহন নির�
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP পাবলিক কী পিন: { $hasHPKP }
 cert-error-details-cert-chain-label = সার্টিফিকেট চেইন:
-open-in-new-window-for-csp-or-xfo-error = নতুন উইন্ডোতে সাইট খুলুন
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = আপনার নিরাপত্তা রক্ষার জন্য, { $hostname } { -brand-short-name } কে পৃষ্ঠাটি প্রদর্শনের অনুমতি দেবে না যদি অন্য কোনো সাইট এটি এম্বেড করে থাকে। এই পৃষ্ঠাটি দেখতে, আপনাকে এটি একটি নতুন উইন্ডোতে খুলতে হবে।
@@ -97,7 +91,6 @@ redirectLoop-title = পাতাটি সঠিকভাবে পুনঃন
 unknownSocketType-title = সার্ভার থেকে অপ্রত্যাশিত উত্তর
 nssFailure2-title = নিরাপদ সংযোগ স্থাপন করতে ব্যর্থ
 csp-xfo-error-title = { -brand-short-name }  এই পাতাটি খুলতে পারছে না
-corruptedContentError-title = ক্ষতিগ্রস্ত বিষয়বস্তুর ত্রুটি
 sslv3Used-title = নিরাপদভাবে সংযোগ করতে ব্যর্থ
 inadequateSecurityError-title = আপনার সংযোগ নিরাপদ নয়
 blockedByPolicy-title = পাতা অবরুদ্ধ

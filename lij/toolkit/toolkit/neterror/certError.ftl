@@ -26,7 +26,6 @@ cert-error-code-prefix-link = Còdice d'erô: <a data-l10n-name="error-code-link
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Gh'é stæto un erô durante a conescion a { $hostname }. { $errorMessage }
-cert-error-symantec-distrust-admin = Ti peu segnalâ o problema a l'aministratô do scito.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
@@ -34,7 +33,6 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Key Pinning HTTP pubrico: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadenna de certificati:
-open-in-new-window-for-csp-or-xfo-error = Arvi o scito inte 'n neuvo barcon
 
 ## Messages used for certificate error titles
 
@@ -64,7 +62,6 @@ redirectLoop-title = A pagina a no redireçionn-a ben
 unknownSocketType-title = Risposta sbaliâ da-o server
 nssFailure2-title = Conescion segua no riescia
 csp-xfo-error-title = { -brand-short-name } o no peu arvî sta pagina
-corruptedContentError-title = Erô de contegnuo andæto a mâ
 sslv3Used-title = Inposcibile conetise in mòddo seguo
 inadequateSecurityError-title = A teu conescion a no l'é segua
 blockedByPolicy-title = Pagina blocâ

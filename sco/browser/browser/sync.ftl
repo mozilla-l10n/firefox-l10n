@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Syncin…
 sync-disconnect-dialog-title2 = Disconnect?
 sync-disconnect-dialog-body = { -brand-product-name } will stap syncin yer accoont but willnae dicht onie o yer stravaigin data on this device.
 sync-disconnect-dialog-button = Disconnect
-fxa-signout-dialog2-title = Sign oot fae { -fxaccount-brand-name(capitalization: "sentence") }?
 fxa-signout-dialog-body = Synced data will bide in yer accoont.
 fxa-signout-dialog2-button = Sign oot
 fxa-signout-dialog2-checkbox = Dicht data fae this device (passwirds, historie, buikmerks, etc.)
@@ -17,14 +16,6 @@ fxa-menu-turn-on-sync =
 fxa-menu-turn-on-sync-default = Turn on Sync
 fxa-menu-connect-another-device =
     .label = Connect Anither Device…
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Send Tab tae Device
-           *[other] Send { $tabCount } Tabs tae Device
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Syncin Devices…

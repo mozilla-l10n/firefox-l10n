@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = প্ৰমাণপত্ৰ বিশ্�
 cert-error-trust-signature-algorithm-disabled = এই প্ৰমাণপত্ৰক ভৰষা কৰিব নোৱাৰি কাৰণ ইয়াক এটা স্বাক্ষৰ এলগৰিথম দ্বাৰা স্বাক্ষৰ কৰা হৈছিল যাক অসামৰ্থবান কৰা হৈছিল কাৰণ এলগৰিথম সুৰক্ষিত নাছিল।
 cert-error-trust-expired-issuer = প্ৰদান কৰোঁতাৰ প্ৰমাণপত্ৰ শেষ হোৱাৰ কাৰণে এই প্ৰমাণপত্ৰ বিশ্বাসী নহয়।
 cert-error-trust-self-signed = নিজেই চহি কৰাৰ কাৰণে এই প্ৰমাণপত্ৰ বিশ্বাসী নহয়।
-cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte আৰু VeriSign-এ জাৰি কৰা প্ৰমানপত্ৰবোৰ এতিয়া আৰু নিৰাপদ বুলি বিবেচনা কৰা নহয় কাৰণ এই প্ৰমানপত্ৰ কৰ্তৃপক্ষবোৰ অতীতত নিৰাপত্তা অনুশীলন পালন কৰাত বিফল হৈছে।
 cert-error-untrusted-default = এই প্ৰমাণপত্ৰ বিশ্বাসী উৎসৰ পৰা নাহে।
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -52,10 +51,6 @@ cert-error-code-prefix-link = ত্ৰুটি ক'ড: <a data-l10n-name="err
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = { $hostname }-ৰ সৈতে এক সংযোগৰ সময়ত কিবা ত্ৰুটি ঘটিছে। { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = ৱেবছাইটসমূহে প্ৰমাণপত্ৰৰ জৰিয়তে নিজৰ পৰিচয় প্ৰমাণ কৰে যিবোৰ প্ৰমাণপত্ৰ প্ৰাধিকাৰীসমূহৰ দ্বাৰা জাৰি কৰা হয়। বেছিভাগ ব্ৰাউজাৰে GeoTrust, RapidSSL, Symantec, Thawte আৰু VeriSign দ্বাৰা জাৰি কৰা প্ৰমাণপত্ৰসমূহত এতিয়া আৰু বিশ্বাস নকৰে। { $hostname }-এ ইয়াৰে কোনো এটা প্ৰাধিকাৰীৰ প্ৰমাণপত্ৰ ব্যৱহাৰ কৰে আৰু সেয়েহে ৱেবছাইটৰ পৰিচয় প্ৰমাণিত কৰিব নোৱাৰি।
-cert-error-symantec-distrust-admin = আপুনি ৱেবছাইটৰ প্ৰশাসকক এই সমস্যাৰ বিষয়ে জাননী দিব পাৰে।
 cert-error-old-tls-version = এই ৱেবছাইটটোৱে TLS 1.2 প্ৰ’টকল সমৰ্থন নকৰিবও পাৰে, যি { -brand-short-name }-দ্বাৰা সমৰ্থিত সৰ্বনিম্ন সংস্কৰণ।
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -64,7 +59,6 @@ cert-error-details-hsts-label = HTTP কঠোৰ পৰিবহন নিৰ�
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP পাব্লিক কী পিনিং: { $hasHPKP }
 cert-error-details-cert-chain-label = প্ৰমাণপত্ৰ শৃংখলা:
-open-in-new-window-for-csp-or-xfo-error = নতুন উইণ্ড'ত ছাইট খোলক
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = যদি পৃষ্ঠাখনক আন কোনো ছাইটে এম্বেড কৰিছে তেন্তে আপোনাৰ নিৰাপত্তা ৰক্ষা ৰাখিবলৈ { $hostname }-এ { -brand-short-name }-ক সেইখন দেখুৱাবলৈ অনুমতি নিদিয়ে। এই পৃষ্ঠাখন চাবলৈ আপুনি ইয়াক নতুন উইণ্ড' এখনত খুলিব লাগিব।
@@ -76,8 +70,6 @@ deniedPortAccess-title = এই ঠিকনা পৰিমিত
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = হুম্‌ম্‌‌‌। সেই ছাইটটো বিচাৰি পোৱাত আমাৰ সমস্যা হৈ আছে।
-dns-not-found-trr-only-title2 = এই ড’মেইনত সন্ধান কৰাত সম্ভাব্য সুৰক্ষাজনিত বিপদাশংকা
-dns-not-found-native-fallback-title2 = এই ড’মেইনত সন্ধান কৰাত সম্ভাব্য সুৰক্ষাজনিত বিপদাশংকা
 fileNotFound-title = ফাইল পোৱা ন'গ'ল
 fileAccessDenied-title = ফাইলটোত এক্সেছ নাকচ কৰা হৈছে
 generic-title = ক্ষমা কৰিব।
@@ -99,7 +91,6 @@ redirectLoop-title = এই পৃষ্ঠাই শুদ্ধভাবে �
 unknownSocketType-title = চাৰ্ভাৰৰ পৰা অপ্ৰত্যাশিত উত্তৰ
 nssFailure2-title = নিৰাপদ সংযোগ বিফল হ'ল
 csp-xfo-error-title = { -brand-short-name }-এ এই পৃষ্ঠাখন খুলিব নোৱাৰে
-corruptedContentError-title = ক্ষতিগ্ৰস্থ সমল ত্ৰুটি
 sslv3Used-title = সুৰক্ষিতভাৱে সংযোগ কৰাত অক্ষম
 inadequateSecurityError-title = আপোনাৰ সংযোগ নিৰাপদ নহয়
 blockedByPolicy-title = অৱৰুদ্ধ পৃষ্ঠা

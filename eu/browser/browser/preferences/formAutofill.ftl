@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Gordetako helbideak
 autofill-manage-addresses-list-header = Helbideak
-autofill-manage-credit-cards-title = Gordetako kreditu-txartelak
-autofill-manage-credit-cards-list-header = Kreditu-txartelak
 autofill-manage-payment-methods-title = Gordetako ordainketa-metodoak
 autofill-manage-cards-list-header = Txartelak
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = Ireki menua
 address-capture-edit-address-link = Editatu helbidea
     .aria-label = Editatu helbidea
-address-capture-edit-address-button =
-    .aria-label = Editatu helbidea
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Gehitu helbidea
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Editatu helbidea
-autofill-address-given-name = Izena
-autofill-address-additional-name = Bigarren izena
-autofill-address-family-name = Abizenak
 autofill-address-name = Izena
 autofill-address-organization = Erakundea
 autofill-address-street-address = Helbidea
@@ -104,8 +97,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Gehitu helbide berria
 autofill-address-country = Herrialdea edo eskualdea
 autofill-address-country-only = Herrialdea
 autofill-address-tel = Telefonoa
@@ -114,18 +105,6 @@ autofill-cancel-button = Utzi
 autofill-save-button = Gorde
 autofill-country-warning-message-2 = Inprimakiak automatikoki betetzea momentuz zenbait herrialdetan dago erabilgarri soilik
 autofill-country-warning-message = Inprimakiak automatikoki betetzea momentuz zenbait herrialdetan dago erabilgarri soilik.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Gehitu kreditu-txartel berria
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Editatu kreditu-txartela
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] erakutsi kreditu txartelaren informazioa
-        [windows] Kreditu-txartelen informazioa erakusten saiatzen ari da { -brand-short-name }. Berretsi azpian Windows kontu honetarako sarbidea.
-       *[other] Kreditu-txartelen informazioa erakusten saiatzen ari da { -brand-short-name }.
-    }
 autofill-message-tooltip = Ikusi betetze automatikoaren mezua
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Gehitu txartela
@@ -211,15 +190,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = Inoiz ez gorde pasaporterik
     .accessKey = n
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

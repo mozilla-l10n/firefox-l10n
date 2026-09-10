@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = एक पृष्ठ पछाडि जानुहोस् ({ $shortcut })
     .aria-label = पछाडि जाने
+    .tooltiptext = एक पृष्ठ पछाडि जानुहोस् ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = एक पृष्ठ अगाडि जानुहोस् ({ $shortcut })
     .aria-label = अगाडि
+    .tooltiptext = एक पृष्ठ अगाडि जानुहोस् ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = बुकमार्क पृष्ठ…
-    .accesskey = m
     .tooltiptext = बुकमार्क पृष्ठ
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = बुकमार्क पृष्ठ…
-    .accesskey = m
     .tooltiptext = बुकमार्क पृष्ठ({ $shortcut })
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = बुकमार्क सम्पादन गर्नुहोस्…
-    .accesskey = m
     .tooltiptext = बुकमार्क सम्पादन गर्नुहोस्
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = बुकमार्क सम्पादन गर्नुहोस्…
-    .accesskey = m
     .tooltiptext = बुकमार्क सम्पादन गर्नुहोस्({ $shortcut })
+    .accesskey = m
 main-context-menu-open-link =
     .label = लिङ्क खोल्नुहोस्
     .accesskey = O
@@ -145,9 +139,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = यस रूपमा लिङ्क सङ्ग्रह गर्नुहोस्...
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = लिङ्क सुरक्षित गर्नुहोस् { -pocket-brand-name } मा
-    .accesskey = o
 
 ##
 
@@ -276,40 +267,22 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = इमेल अडियो…
     .accesskey = a
-main-context-menu-save-to-pocket =
-    .label = पृष्ठलाई { -pocket-brand-name } मा बचत गर्नुहोस्
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = पृष्ठलाई यन्त्रमा पठाउनुहोस्
-    .accesskey = D
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = सुरक्षित लगइन प्रयोग गर्नुहोस्
-    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = सुरक्षित पासवर्ड प्रयोग गर्नुहोस्
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } इमेल मास्क प्रयोग गर्नुहोस्
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = बलियो पासवर्ड सुझाव गर्नुहोस्...
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = लगइनहरू प्रबन्ध गर्नुहोस्
-    .accesskey = M
 main-context-menu-manage-passwords =
     .label = पासवर्डहरू प्रबन्ध गर्नुहोस्
     .accesskey = M
-main-context-menu-keyword =
-    .label = यस खोज‌का लागि एउटा खोजशब्द थप्नुहोस्…
-    .accesskey = K
 main-context-menu-link-send-to-device =
     .label = लिङ्कलाई यन्त्रमा पठाउनुहोस्
     .accesskey = D
@@ -352,9 +325,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = स्क्रिनसट लिनुहोस्
     .accesskey = T
-main-context-menu-take-frame-screenshot =
-    .label = स्क्रिनसट लिनुहोस्
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = पृष्ठ श्रोत हेर्नुहोस्
     .accesskey = V

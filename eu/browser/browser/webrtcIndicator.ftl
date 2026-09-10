@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Partekatzearen adierazlea
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Partekatzearen adierazlea
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Mikrofonoa partekatzen ari zara. Egin klik partekatzea kontrolatzeko.
 webrtc-screen-system-menu =
     .label = Leiho edo pantaila bat partekatzen ari zara. Egin klik partekatzea kontrolatzeko.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Zure kamera eta mikrofonoa partekatuta daude. Egin klik partekatzea kontrolatzeko.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Zure kamera partekatuta dago. Egin klik partekatzea kontrolatzeko.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Zure mikrofonoa partekatuta dago. Egin klik partekatzea kontrolatzeko.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Aplikazio bat partekatuta dago. Egin klik partekatzea kontrolatzeko.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Zure pantaila partekatuta dago. Egin klik partekatzea kontrolatzeko.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Leiho bat partekatuta dago. Egin klik partekatzea kontrolatzeko.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Fitxa bat partekatuta dago. Egin klik partekatzea kontrolatzeko.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Baimendu { $orig
 
 webrtc-share-screen-warning = Partekatu pantailak soilik zuretzat fidagarriak diren guneekin. Partekatuz gero, gune iruzurtiek zu bazina bezala guneak nabigatu eta zure datu pribatuak lapurtzea baimen lezake.
 webrtc-share-browser-warning = Partekatu { -brand-short-name } soilik zuretzat fidagarriak diren guneekin. Partekatuz gero, gune iruzurtiek zu bazina bezala guneak nabigatu eta zure datu pribatuak lapurtzea baimen lezake.
-webrtc-share-screen-learn-more = Argibide gehiago
 webrtc-pick-window-or-screen = Hautatu leihoa edo pantaila
 webrtc-share-entire-screen = Pantaila osoa
 webrtc-share-pipe-wire-portal = Erabili sistema eragilearen ezarpenak

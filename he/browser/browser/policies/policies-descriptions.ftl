@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = למנוע מסוכן הדפדפן בריר�
 policy-DisableDeveloperTools = חסימת גישה לכלי הפיתוח.
 policy-DisableEncryptedClientHello = השבתת השימוש בתכונת TLS בשם Encrypted Client Hello‏ (ECH).
 policy-DisableFeedbackCommands = השבתת פקודות לשליחת משוב מתפריט העזרה (שליחת משוב ודיווח על אתר מטעה).
-policy-DisableFirefoxAccounts = השבתת שירותים מבוססי { -fxaccount-brand-name(case: "a") }, לרבות Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = השבתת שירותים מבוססי חשבון, כולל סנכרון.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = לא לזכור היסטוריית חיפוש וטפ
 policy-DisableLaunchOnLogin = למנוע מ־{ -brand-short-name } להיפתח באופן אוטומטי כאשר המשתמש מתחבר.
 policy-DisablePrimaryPasswordCreation = אם true, לא ניתן ליצור ססמה ראשית.
 policy-DisablePasswordReveal = לא לאפשר לחשוף ססמאות בכניסות השמורות.
-policy-DisablePocket2 = השבתת התכונה לשמירת דפי אינטרנט ב־{ -pocket-brand-name }.
 policy-DisablePrivateBrowsing = השבתת גלישה פרטית.
 policy-DisableProfileImport = השבתת פקודת התפריט לייבוא נתונים מדפדפן אחר.
 policy-DisableProfileRefresh = השבתת הכפתור 'ריענון { -brand-short-name }' בעמוד about:support.
@@ -127,7 +125,6 @@ policy-PDFjs = השבתה או הגדרת התצורה של PDF.js, מציג ה�
 policy-Permissions2 = קביעת תצורה של הרשאות עבור מצלמה, מיקרופון, מיקום, התרעות וניגון אוטומטי.
 policy-PictureInPicture = הפעלה או השבתה של תמונה בתוך תמונה.
 policy-PopupBlocking2 = לאפשר לאתרים מסוימים להציג חלונות קופצים ולהיות מופנים מחדש על־ידי מסגרות מצד שלישי.
-policy-PopupBlocking = לאפשר לאתרים מסוימים להקפיץ חלונות כברירת מחדל.
 policy-Preferences = הגדרה ונעילת הערכים עבור חלק מההעדפות.
 policy-PrivateBrowsingModeAvailability = הגדרת הזמינות של מצב הגלישה הפרטית.
 policy-PromptForDownloadLocation = הצגת שאלה היכן לשמור קבצים בזמן הורדה.

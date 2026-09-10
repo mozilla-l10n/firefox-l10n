@@ -44,12 +44,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Save Page
 
 main-context-menu-page-save =
@@ -166,15 +160,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Испрати аудио преку е-пошта…
     .accesskey = с
-main-context-menu-send-to-device =
-    .label = Испрати страница на уред
-    .accesskey = и
 
 ##
 
-main-context-menu-keyword =
-    .label = Додај клучен збор за ова пребарување…
-    .accesskey = к
 main-context-menu-link-send-to-device =
     .label = Испрати врска до уред
     .accesskey = и

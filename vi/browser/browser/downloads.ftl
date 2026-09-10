@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Hiển thị trong thư mục
            *[other] Hiển thị trong thư mục
         }
-downloads-cmd-show-downloads =
-    .label = Mở thư mục tải xuống
 downloads-cmd-retry =
     .tooltiptext = Thử lại
 downloads-cmd-retry-panel =

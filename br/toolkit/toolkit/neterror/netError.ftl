@@ -26,16 +26,12 @@ neterror-return-to-previous-page-button = Distreiñ
 neterror-return-to-previous-page-recommended-button = Distreiñ (Erbedet)
 neterror-try-again-button-2 = Klask en-dro
     .accesskey = K
-neterror-try-again-button = Klask en-dro
 neterror-add-exception-button = Bepred kenderc’hel evit al lec’hienn-mañ
 neterror-view-certificate-link = Gwelout an testeni
-neterror-trr-continue-this-time = Kenderc’hel ar wech-mañ
-neterror-disable-native-feedback-warning = Kenderc’hel bepred
 
 ##
 
 neterror-pref-reset = Gallout a ra hoc'h arventennoù rouedad bezañ kaoz eus kement-se. Fellout a ra deoc'h assav an arventennoù dre ziouer?
-neterror-error-reporting-automatic = Danevellit kudennoù evel-se evit sikour { -vendor-short-name } da naoudiañ ha stankañ al lec'hiennoù droukrañsus
 
 ## Specific error messages
 
@@ -58,17 +54,10 @@ neterror-dns-not-found-hint-firewall = Gweredekait en deus { -brand-short-name }
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-could-not-connect = N’eo ket deuet a-benn { -brand-short-name } da gennaskañ ouzh { $trrDomain }.
-neterror-dns-not-found-trr-offline = N’emaoc’h ket kennasket ouzh ar genrouedad.
 neterror-dns-not-found-trr-unknown-host2 = N’eo ket bet kavet al lec’hienn-mañ gant { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Ur gudenn zo bet gant { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = URL direizh.
 neterror-dns-not-found-trr-unknown-problem = Kudenn dic’hortoz.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-not-confirmed2 = N’eo ket deuet a-benn { -brand-short-name } da gennaskañ ouzh { $trrDomain }.
 
 ##
 
@@ -77,8 +66,6 @@ neterror-file-not-found-moved = Gwiriañ ha dilec'hiet eo bet, adanvet pe dilame
 neterror-access-denied = Gallout a ra bezañ dilamet, dilec'hiet, pe n'eus ket ar gwirioù a-zere evit an haeziñ.
 neterror-unknown-protocol = Marteze ho peus ezhomm da staliañ meziantoù all evit digeriñ ar chomlec'h-mañ.
 neterror-redirect-loop = A-wechoù e c'hoarvez ar gudenn-mañ rak diweredekaet pe nac'het eo bet an toupinoù.
-neterror-unknown-socket-type-psm-installed = Gwiriekait eo staliet ar Ardoer Diogelroez Personel war ho reizhiad.
-neterror-unknown-socket-type-server-config = Marteze eo kefluniet an dafariad en un doare divoutin.
 neterror-not-cached-intro = N’eo ket hegerz an teul goulennet e-barzh krubuilh { -brand-short-name }.
 neterror-not-cached-sensitive = { -brand-short-name } ne c’houlenn ket en-dro teulioù kizidik ent emgefreek evit ho tiogelroez.
 neterror-not-cached-try-again = Klikit war Klask en-dro a-benn goulenn an teul digant al lec’hienn en-dro.

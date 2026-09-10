@@ -25,17 +25,13 @@ neterror-override-exception-button = Погодитись на ризик і п�
 neterror-pref-reset-button = Відновити типові налаштування
 neterror-return-to-previous-page-button = Назад
 neterror-return-to-previous-page-recommended-button = Назад (рекомендовано)
-neterror-try-again-button = Спробувати знову
 neterror-add-exception-button = Завжди продовжувати для цього сайту
 neterror-settings-button = Змінити налаштування DNS
 neterror-view-certificate-link = Переглянути сертифікат
-neterror-trr-continue-this-time = Продовжити цього разу
-neterror-disable-native-feedback-warning = Завжди продовжувати
 
 ##
 
 neterror-pref-reset = Схоже, що це можуть спричиняти ваші налаштування безпеки мережі. Чи хочете ви, щоб були відновлені типові налаштування?
-neterror-error-reporting-automatic = Звітувати про подібні помилки, щоб допомогти { -vendor-short-name } виявляти й блокувати зловмисні сайти
 
 ## Specific error messages
 
@@ -68,25 +64,15 @@ neterror-dns-not-found-offline-hint-reconnect = Повторно під'єдна
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } не може захистити ваш запит для адреси цього сайту через нашу довірену службу DNS. Ось чому:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } не може захистити ваш запит на адресу цього сайту через нашого провайдера захищеної DNS. Ось чому:
 neterror-dns-not-found-trr-third-party-warning2 = Ви можете продовжити роботу з типовим DNS-перетворювачем. Однак, сторонні можуть мати змогу бачити відвідувані вами вебсайти.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } не зміг встановити з'єднання з { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = З'єднання з { $trrDomain } тривало довше, ніж очікувалося.
-neterror-dns-not-found-trr-offline = Ви не під'єднані до інтернету.
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } не може знайти цей вебсайт.
 neterror-dns-not-found-trr-server-problem = Виникла проблема з { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = Недійсна URL-адреса.
 neterror-dns-not-found-system-sleep = Система в режимі сну.
 neterror-dns-not-found-trr-unknown-problem = Неочікувана проблема.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } не може захистити ваш запит для адреси цього сайту через нашу довірену службу DNS. Ось чому:
-neterror-dns-not-found-native-fallback-heuristic = DNS через HTTPS було вимкнено у вашій мережі.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } не зміг встановити з'єднання з { $trrDomain }.
 
 ##
 
@@ -96,8 +82,6 @@ neterror-access-denied = Він міг бути вилучений, перемі
 neterror-unknown-protocol = Для відкриття цієї адреси вам, можливо, доведеться встановити стороннє програмне забезпечення.
 neterror-redirect-loop = Ця проблема може спричинятися вимкненням або забороною прийняття файлів cookie.
 neterror-unknown-socket-type-client-config = Можливо, це пов'язано з помилкою конфігурації вашого клієнта.
-neterror-unknown-socket-type-psm-installed = Переконайтеся, що у вашій системі встановлено Personal Security Manager (PSM).
-neterror-unknown-socket-type-server-config = Можливо, це відбулося через нетипову конфігурацію сервера.
 neterror-not-cached-intro = Вказаний документ більше недоступний у кеші { -brand-short-name }.
 neterror-not-cached-sensitive = З міркувань безпеки, { -brand-short-name } не здійснює автоматичний повторний запит вразливих документів.
 neterror-not-cached-try-again = Клацніть "Спробувати знову", щоб перезавантажити документ з вебсайту.

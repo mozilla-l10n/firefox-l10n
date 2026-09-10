@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = ಉಳಿಸಲಾದ ವಿಳಾಸಗಳು
 autofill-manage-addresses-list-header = ವಿಳಾಸಗಳು
-autofill-manage-credit-cards-title = ಉಳಿಸಲಾದ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್‌ಗಳು
-autofill-manage-credit-cards-list-header = ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್‌ಗಳು
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = ತೆಗೆದು ಹಾಕು
@@ -21,9 +19,6 @@ autofill-manage-edit-button = ‍ತಿದ್ದು…
 
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = ಇಮೇಲ್ ವಿಳಾಸ
-autofill-address-given-name = ಮೊದಲ ಹೆಸರು
-autofill-address-additional-name = ಮಧ್ಯೆ ಹೆಸರು
-autofill-address-family-name = ಕೊನೆಯ ಹೆಸರು
 autofill-address-organization = ಸಂಸ್ಥೆ
 autofill-address-street = ಬೀದಿ ವಿಳಾಸ
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
@@ -55,25 +50,14 @@ autofill-address-zip = ZIP ಕೋಡ್
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = ಹೊಸ ವಿಳಾಸವನ್ನು ಸೇರಿಸು
 autofill-address-country = ದೇಶ ಅಥವ ಪ್ರಾಂತ್ಯ
 autofill-address-tel = ದೂರವಾಣಿ
 autofill-address-email = ಮಿಂಚಂಚೆ
 autofill-cancel-button = ರದ್ದುಗೊಳಿಸು
 autofill-save-button = ಉಳಿಸು‍
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = ಹೊಸ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್‌ಅನ್ನು ಸೇರಿಸು
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್‌ಅನ್ನು ಬದಲಿಸು
 autofill-card-number-2 =
     .label = ಕಾರ್ಡ್ ಸಂಖ್ಯೆ
 autofill-card-number = ಕಾರ್ಡ್ ಸಂಖ್ಯೆ
 autofill-card-name-on-card-2 =
     .label = ಕಾರ್ಡ್ ಮೇಲಿನ ಹೆಸರು
 autofill-card-name-on-card = ಕಾರ್ಡ್ ಮೇಲಿನ ಹೆಸರು
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = ಅಮೇರಿಕನ್ ಎಕ್ಸ್ಪ್ರೆಸ್
-autofill-card-network-discover = ಅನ್ವೇಷಿಸಿ

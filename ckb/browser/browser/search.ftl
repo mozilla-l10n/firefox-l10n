@@ -27,7 +27,7 @@ searchbar-icon =
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = ماتۆڕی گەڕان زیادکە
     .style = min-width: 32em;
+    .title = ماتۆڕی گەڕان زیادکە
 add-engine-button = ماتۆڕێکی گەڕانی خوازراو زیادکە
 add-engine-name = ناوی ماتۆڕی گەڕان

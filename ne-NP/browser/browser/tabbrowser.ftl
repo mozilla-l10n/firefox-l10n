@@ -7,11 +7,6 @@ tabbrowser-menuitem-close-tab =
     .label = ट्याब बन्द गर्नुहोस्
 tabbrowser-menuitem-close =
     .label = बन्द गर्नुहोस्
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
 
 ## Tooltips for tab audio control
 ## Variables:

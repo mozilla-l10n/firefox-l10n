@@ -38,11 +38,6 @@ genai-prompts-explain =
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = AI කතා ක්‍රමලේඛයෙන් අහන්න
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = { $provider } වෙතින් අසන්න
 genai-input-ask-generic =
     .placeholder = AI කතා ක්‍රමලේඛයෙන් අහන්න…
 # $provider (string) - name of the provider
@@ -56,8 +51,6 @@ genai-shortcuts-hide =
 genai-chatbot-title = AI කතා ක්‍රමලේඛය
 genai-header-provider-menu =
     .title = කතා ක්‍රමලේඛයක් තෝරන්න
-genai-header-options-button =
-    .title = වට්ටෝරුව අරින්න
 genai-header-close-button =
     .title = වසන්න
 genai-provider-view-details =
@@ -76,47 +69,17 @@ genai-options-about-chatbot =
 
 ## Chatbot onboarding
 
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = { -brand-short-name } පැති තීරුවේ භාවිතයට කෘතිම බුද්ධි කතා ක්‍රමලේඛයක් තෝරන්න. ඔබ එය තේරූ විට අපි එක් එක් කතා ක්‍රමලේඛය ගැන විස්තර පෙන්වන්නෙමු. ඕනෑම වේලාවක මාරු කරන්න. <a data-l10n-name="learn-more">තව දැනගන්න</a>
 genai-onboarding-primary = ඉදිරියට
 genai-onboarding-secondary = වසන්න
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Claude ගැන තව දැනගන්න
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = ChatGPT ගැන තව දැනගන්න
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Copilot ගැන තව දැනගන්න
 genai-onboarding-gemini-tooltip =
     .title = ගූගල් ජෙමිනි
-genai-onboarding-gemini-learn = ජෙමිනි ගැන තව දැනගන්න
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
-genai-onboarding-huggingchat-learn = HuggingChat ගැන තව දැනගන්න
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Le Chat ගැන තව දැනගන්න
-genai-onboarding-select-header = යෝජනා බැලීමට පෙළ තෝරන්න
-genai-onboarding-select-description = ඔබ පෙළ තෝරන විට, අපි කතා ක්‍රමලේඛයට යැවීමට හැකි උත්පතන යෝජනා කරන්නෙමු. ඔබගේම උත්පතන වල ද ඔබට ලිවීමට හැකිය.
-genai-onboarding-select-primary = කතාබහ අරඹන්න
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = පෙළ හා කේත උත්පාදනය
-genai-onboarding-claude-analyze = ලේඛන හා රූප විශ්ලේෂණය
-genai-onboarding-claude-price = නොමිලේ හා ගෙවන විකල්ප; ගිණුමක් වුවමනාය
-genai-onboarding-chatgpt-generate = පෙළ, රූප හා කේත උත්පාදනය
-genai-onboarding-chatgpt-analyze = ලේඛන හා රූප විශ්ලේෂණය
-genai-onboarding-chatgpt-price = නොමිලේ හා ගෙවන විකල්ප; සමහර රටවල් සහ කාර්යන් සඳහා ගිණුමක් වුවමනාය
-genai-onboarding-copilot-generate = පෙළ, රූප හා කේත උත්පාදනය
-genai-onboarding-copilot-analyze = රූප විශ්ලේෂණය
-genai-onboarding-copilot-price = නොමිලේ හා ගෙවන විකල්ප; සමහර කාර්යන් සඳහා ගිණුමක් වුවමනාය
-genai-onboarding-gemini-generate = පෙළ, රූප හා කේත උත්පාදනය
-genai-onboarding-gemini-analyze = රූප (නොමිලේ) හා ලේඛන (ගෙවන) විශ්ලේෂණය
-genai-onboarding-gemini-price = නොමිලේ හා ගෙවන විකල්ප; ගිණුමක් වුවමනාය
-genai-onboarding-huggingchat-generate = පෙළ හා කේත උත්පාදනය
-genai-onboarding-lechat-generate = පෙළ හා කේත උත්පාදනය
-genai-onboarding-lechat-price = නොමිලේ; ගිණුමක් වුවමනාය

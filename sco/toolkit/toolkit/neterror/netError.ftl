@@ -23,13 +23,11 @@ neterror-override-exception-button = Accept the Risk and Gang On
 neterror-pref-reset-button = Restore default settins
 neterror-return-to-previous-page-button = Gang Back
 neterror-return-to-previous-page-recommended-button = Gang Back (Recommendit)
-neterror-try-again-button = Try Aince Mair
 neterror-view-certificate-link = View Certificate
 
 ##
 
 neterror-pref-reset = It luiks like yer netwark siccarness settins micht be causin this. Are ye wantin default settins tae be restored?
-neterror-error-reporting-automatic = Lat { -vendor-short-name } ken aboot siclike mishanters fur tae help it identify and block uncannie sites
 
 ## Specific error messages
 
@@ -46,8 +44,6 @@ neterror-file-not-found-moved = Check tae see gin the file wis flittit elsewhaur
 neterror-access-denied = It micht hae been remuivit, flittit elsewhaur, or file permissions micht be hinderin ingang.
 neterror-unknown-protocol = Ye micht need tae instaw ither saftware fur tae open this address.
 neterror-redirect-loop = This problem can whiles be causit by turnin aff or no acceptin cookies.
-neterror-unknown-socket-type-psm-installed = Check fur tae mak siccar yer system has the Personal Security Manager instawed.
-neterror-unknown-socket-type-server-config = This micht be acause o a non-staunart configuration on the server.
 neterror-not-cached-intro = The requestit document isnae available in { -brand-short-name }’s cache.
 neterror-not-cached-sensitive = As a siccarness precaution, { -brand-short-name } doesnae automatically re-request sensitive documents.
 neterror-not-cached-try-again = Click Try Aince Mair fur tae re-request the document fae the wabsite.

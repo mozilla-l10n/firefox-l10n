@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Šis sertifikāts nav uzticams, jo tā izdev
 cert-error-trust-signature-algorithm-disabled = Sertifikāts nav uzticams, jo ir parakstīts ar algoritmu, kas nav uzskatāms par drošu.
 cert-error-trust-expired-issuer = Šis sertifikāts nav uzticams, jo ir beidzies tā izdevēja sertifikāta derīgums.
 cert-error-trust-self-signed = Šis sertifikāts nav uzticams, jo tas ir pašparakstīts.
-cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte un VeriSign izsniegtie sertifikāti vairs netiek uzskatīti par drošiem, jo šīs sertifikātu iestādes iepriekš nav ievērojušas drošības praksi.
 cert-error-untrusted-default = Sertifikāts nāk no nedroša avota.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -53,24 +52,18 @@ cert-error-code-prefix-link = Kļūdas kods: <a data-l10n-name="error-code-link"
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Notikusi kļūda savienojoties ar { $hostname }. { $errorMessage }
 # Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Vietnes pierāda savu identitāti ar sertifikātiem, kurus izsniedz sertifikātu izdevējiestādes. Lielākā daļa pārlūkprogrammu vairs neuzticas GeoTrust, RapidSSL, Symantec, Thawte un VeriSign izsniegtiem sertifikātiem. Vietne { $hostname } izmanto sertifikātu no vienas no šīm izdevējiestādēm, tāpēc vietnes identitāte nav pierādāma.
-cert-error-symantec-distrust-admin = Par šo problēmu varat paziņot vietnes administratoram.
-# Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # Variables:
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Sertifikātu ķēde:
-open-in-new-window-for-csp-or-xfo-error = Atvērt vietni jaunā logā
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Lai aizsargātu jūsu drošību, { $hostname } neļaus { -brand-short-name } rādīt lapu, ja to ir iegūlusi cita vietne. Lai redzētu šo lapu, tā ir jāatver jaunā logā.
 fp-certerror-view-certificate-link = Apskatīt vietnes sertifikātu
 fp-certerror-return-to-previous-page-recommended-button-2 = Doties atpakaļ (ieteicams)
     .accesskey = D
-fp-certerror-return-to-previous-page-recommended-button = Doties atpakaļ (ieteicams)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -125,7 +118,6 @@ redirectLoop-title = Lapa netiek korekti pāradresēta
 unknownSocketType-title = Negaidīta atbilde no servera
 nssFailure2-title = Drošais savienojums neizdevās
 csp-xfo-error-title = { -brand-short-name } nevar atvērt šo lapu
-corruptedContentError-title = Bojāta satura kļūda
 sslv3Used-title = Neizdevās droši pieslēgties
 inadequateSecurityError-title = Savienojums nav drošs
 blockedByPolicy-title = Aizturēta lapa

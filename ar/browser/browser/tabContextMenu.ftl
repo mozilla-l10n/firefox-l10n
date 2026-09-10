@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = لسان جديد
-    .accesskey = ج
 reload-tab =
     .label = أعِد تحميل اللسان
     .accesskey = ح
@@ -127,10 +124,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = مجموعة جديدة
     .accesskey = ة
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -178,17 +171,6 @@ tab-context-send-to-device2 =
 tab-context-share-selected-tabs =
     .label = أنشئ رابط قابل للمشاركة
     .accesskey = ش
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [zero] لا تُرسل شيئا إلى الجهاز
-            [one] أرسِل اللسان إلى الجهاز
-            [two] أرسِل اللسانين إلى الجهاز
-            [few] أرسِل { $tabCount } ألسنة إلى الجهاز
-            [many] أرسِل { $tabCount } لسانا إلى الجهاز
-           *[other] أرسِل { $tabCount } لسان إلى الجهاز
-        }
-    .accesskey = س
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

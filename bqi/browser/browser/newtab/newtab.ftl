@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = بلگه نۊ
-newtab-settings-button =
-    .title = سئفه بلگه نۊ خوتووه سفارشی کۊنین
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = سفارشی کردن ای بلگه
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = سفارشی کردن
 newtab-customize-panel-label =
     .label = سفارشی کردن
-newtab-personalize-settings-icon-label =
-    .aria-label = سامووا
-    .title = سیخومی کردن بلگه نۊ
 newtab-settings-dialog-label =
     .aria-label = سامووا
-newtab-personalize-icon-label =
-    .aria-label = سیخومی کردن بلگه نۊ
-    .title = سیخومی کردن بلگه نۊ
-newtab-personalize-dialog-label =
-    .aria-label = سیخومی کردن
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
@@ -411,20 +401,12 @@ newtab-topsites-hover-card-dismiss =
 newtab-menu-section-tooltip =
     .aria-label = گۊشیڌن نومگه
     .title = گۊشیڌن نومگه
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = پاک کردن
-    .title = پاک کردن
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = نومگه زمینه ن سی { $title } بۊگۊشین
     .title = گۊشیڌن نومگه
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = آلشت ای وبگه
-    .title = آلشت ای وبگه
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -436,11 +418,7 @@ newtab-menu-dismiss = رڌ کردن
 newtab-menu-pin = دیسنیڌن
 newtab-menu-unpin = وورداشتن دیسنیڌن
 newtab-menu-delete-history = پاک کردن ز ویرگار
-newtab-menu-save-to-pocket = زفت کردن من { -pocket-brand-name }
-newtab-menu-delete-pocket = پاک کردن ز { -pocket-brand-name }
-newtab-menu-archive-pocket = آرشیو من { -pocket-brand-name }
 newtab-menu-show-privacy-info = هؽزگرووݩ ایما وو هریم سیخومی ایسا
-newtab-menu-about-fakespot = زبار { -fakespot-brand-name }
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = گوزارش
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -451,22 +429,12 @@ newtab-menu-section-block = مسدۊد کردن
 newtab-menu-section-unfollow-topic = لقو و دین کردن
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = قلوه دووسته بۊین
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = لقو و دین کردن سرتال
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = دؽوۉداری موئتوای هؽزگری وابیڌه
 newtab-menu-our-sponsors-and-your-privacy = هؽزگرووݩ ایما وو هریم سیخومی ایسا
 newtab-menu-report-this-ad = ای تبلیغ ن گوزارش کۊنین
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = ٱنجوم وابی
-newtab-privacy-modal-button-manage = دؽوۉداری سامووا موئتوا هؽزگر
-newtab-privacy-modal-header = هریم سیخومی ایسا ٱهمیت داره.
-newtab-privacy-modal-link = زبار هریم سیخومی من بلگه نۊ ویر بگرین
 
 ##
 
@@ -517,29 +485,11 @@ newtab-label-sponsored-fixed = هؽزگری وابیڌه
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = پاک کردن بشن
-newtab-section-menu-collapse-section = جم کردن بشن
-newtab-section-menu-expand-section = واز کردن بشن
-newtab-section-menu-manage-section = دؽوۉداری بشن
-newtab-section-menu-manage-webext = دؽوۉداری وردنی
-newtab-section-menu-add-search-engine = ٱووردن موتور پیتینیڌن
-newtab-section-menu-move-up = جاگورو و روء
-newtab-section-menu-move-down = جاگورو و لم
 newtab-section-menu-privacy-notice = نوکات زفت مهرمووه ای
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = جم کردن بشن
-newtab-section-expand-section-label =
-    .aria-label = واز کردن بشن
 
 ## Section Headers.
 
 newtab-section-header-recent-activity = فعالیتا دیندایی
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = پؽشنهاڌ وابیڌه و دست { $provider }
 newtab-section-header-stories = داستانا فرگ کردنی
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -560,36 +510,6 @@ newtab-carousel-previous =
 newtab-carousel-next =
     .aria-label = بئڌی
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = سرتالا مئبۊب:
-newtab-pocket-more-recommendations = پؽشنهاڌا قلوه
-newtab-pocket-learn-more = قلوه دووسته بۊین
-newtab-pocket-cta-button = گرؽڌن { -pocket-brand-name }
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } بشنی ز خانواده { -brand-product-name } هڌ
-newtab-pocket-save = زفت
-newtab-pocket-saved = زفت وابی
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = قلوه شبیه و یو
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = ن سی مو
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = ممنووݩ داریم. منشڌ ایسا و ایما من بؽڌر وابیڌن فید ایسا هیاری اده.
-newtab-toast-dismiss-button =
-    .aria-label = رڌ کردن
-    .title = رڌ کردن
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = بؽڌرینا وب ن بجۊرین
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -598,7 +518,6 @@ newtab-error-fallback-refresh-link = سی قپ ریت دووارته بلگه ن
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = ره نهنگا
 newtab-custom-shortcuts-nova =
     .label = ره نهنگا
 newtab-custom-row-description =
@@ -612,22 +531,8 @@ newtab-custom-row-selector2 =
             [one] { $num } ردیف
            *[other] { $num } ردیف
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } ردیف
-       *[other] { $num } ردیف
-    }
-newtab-custom-sponsored-sites = ره نهنگا هؽزگرووݩ
-newtab-custom-pocket-title = پؽشنهاڌا { -pocket-brand-name }
-newtab-custom-pocket-subtitle = موئتوا استسنایی ک و دست { -pocket-brand-name }، بشنی ز خانواده { -brand-product-name } گردواری وابینه.
 newtab-custom-stories-personalized-toggle =
     .label = داستانا
-newtab-custom-pocket-sponsored = وزعیتا هؽزگرووݩ
-newtab-custom-pocket-show-recent-saves = نشووݩ داڌن زفت وابیڌنا دیندایی
-newtab-custom-recent-title = فعالیتا دیندایی
-newtab-custom-recent-subtitle = پسند وابیڌه یلی ز وبگه یل وو موئتوا هیم دمۊوی
 newtab-custom-weather-toggle =
     .description = پؽش بینی ٱمرۊز من ی سیل
     .label = ٱو وو هوا
@@ -659,7 +564,6 @@ newtab-widget-manage-widget-button =
 newtab-custom-close-menu-button =
     .aria-label = بستن نومگه
     .title = بستن
-newtab-custom-close-button = بستن
 newtab-custom-settings = دؽوۉداری سامووا قلوه
 
 ## New Tab Appearance (browser theme picker)
@@ -776,10 +680,6 @@ newtab-wallpaper-celestial-starry-sky = آسمووݩ پور آستاره
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = پؽش بینی ن من { $provider } بوینین
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ هؽزگری وابیڌه
 newtab-weather-menu-change-location = آلشت جاگه
 newtab-weather-change-location-search-input-placeholder =
@@ -803,7 +703,6 @@ newtab-weather-menu-temperature-option-fahrenheit = فارنهایت
 newtab-weather-menu-temperature-option-celsius = سانتیگراد
 newtab-weather-menu-change-temperature-units-fahrenheit = آلشت و فارنهایت
 newtab-weather-menu-change-temperature-units-celsius = آلشت و سانتیگراد
-newtab-weather-menu-hide-weather = بؽڌار کردن ٱو وو هوا من بلگه نۊ
 newtab-weather-menu-learn-more = قلوه دووسته بۊین
 newtab-weather-menu-detect-my-location = تشخیس داڌن جاگه مو
 # This message is shown if user is working offline
@@ -912,7 +811,6 @@ newtab-section-unblock-topic =
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = سکو ن
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = مسدۊد کردن { $topic }

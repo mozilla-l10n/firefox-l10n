@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Pa Kontejner
-    .accesskey = a
 user-context-manage-containers =
     .label = Administroni Kontejner
     .accesskey = o

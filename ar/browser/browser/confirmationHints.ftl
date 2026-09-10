@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = أُرسل الإبلاغ. شكرًا لك.
-confirmation-hint-login-removed = أُزيلت جلسة الولوج!
 confirmation-hint-password-removed = أُزيلت كلمة السر!
 confirmation-hint-page-bookmarked = حُفظ في العلامات
-confirmation-hint-password-saved = حُفظت كلمة السر.
 confirmation-hint-password-created = حُفظت كلمة السر
 confirmation-hint-password-updated = تحدّثت كلمة السر
 confirmation-hint-address-created = حُفظ العنوان

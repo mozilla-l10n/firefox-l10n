@@ -228,11 +228,6 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = ບຸກມາກມືຖື
 
-## Profiles Menu
-
-menu-profiles =
-    .label = ໂປ​ຣ​ໄຟ​ລ໌
-
 ## Tools Menu
 
 menu-tools =
@@ -241,9 +236,6 @@ menu-tools =
 menu-tools-downloads =
     .label = ດາວໂຫລດ
     .accesskey = D
-menu-tools-addons-and-themes =
-    .label = ສ່ວນເສີມແລະຮູບແບບສີສັນ
-    .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = ເຂົ້າ​ສູ່​ລະ​ບົບ.
     .accesskey = g
@@ -297,8 +289,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = ຂໍ້ມູນການແກ້ໄຂບັນຫາເພີ່ມເຕີມ
     .accesskey = T
-menu-help-report-site-issue =
-    .label = ລາຍງານບັນຫາເວັບໄຊທ໌…
 menu-help-share-ideas =
     .label = ແບ່ງ​ປັນ​ຄວາມ​ຄິດ​ເຫັນ​ແລະ​ຄໍາ​ຄຶດ​ຄໍາ​ເຫັນ...
     .accesskey = S

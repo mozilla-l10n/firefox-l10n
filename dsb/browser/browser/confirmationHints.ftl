@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Rozpšawa jo se pósłała. Wjeliki źěk!
-confirmation-hint-login-removed = Pśizjawjenje jo se wótwónoźiło!
 confirmation-hint-password-removed = Gronidło jo se wótwónoźeło!
 confirmation-hint-page-bookmarked = Do cytańskich znamjenjow skłaźony
-confirmation-hint-password-saved = Gronidło jo se składło!
 confirmation-hint-password-created = Gronidło jo se składło
 confirmation-hint-password-updated = Gronidło jo se zaktualizěrowało
 confirmation-hint-address-created = Adresa jo se składła

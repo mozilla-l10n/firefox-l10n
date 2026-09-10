@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = მეტი { -vendor-short-name }-სგან
 more-from-moz-page-header =
     .heading = მეტი { -vendor-short-name }-სგან
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } მობილუ�
 more-from-moz-firefox-mobile-description = მობილური ბრაუზერი, რომლისთვისაც უწინარესი თქვენი პირადულობაა.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } მობილურზე
 more-from-moz-firefox-mobile =
-    .label = { -brand-product-name } მობილურზე
     .description = მობილური ბრაუზერი, რომლისთვისაც უწინარესი თქვენი პირადულობაა.
+    .label = { -brand-product-name } მობილურზე
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = გამოცადეთ და დაამატეთ ვინაობის გაუმხელობისა და უსაფრთხოების კიდევ ერთი შრე.
 more-from-moz-qr-code-box-firefox-mobile-title = ჩამოტვირთეთ მობილური მოწყობილობით. მიუშვირეთ კამერა QR-კოდს. როდესაც ბმული გამოჩნდება, შეეხეთ.
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = გამოიყენეთ { -relay-bra
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = გამჟღავნებული პირადი მონაცემების ავტომატური დაბრუნება.
 more-from-moz-mozilla-monitor-global-description = გაცნობებთ, თუ თქვენი მონაცემები მიტაცებული აღმოჩნდება.
 more-from-moz-mozilla-monitor-button = გამოიყენეთ { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = შექმენით თქვენი ვებსაიტი მყისიერად და დააკავშირეთ საკუთარ სამისამართო ჯგუფთან უფასოდ.
 more-from-moz-solo-button = გამოცადეთ { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = { -solo-ai-brand-name } – ვებსაიტის შემდგენელი ხელგო.
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = ელფოსტით გაგზ�
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = გაარკვიეთ უფასო შემოწმებით, თქვენი პირადი მონაცემები სადმე ხომ არ გამჟღავნებულა.
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = დამატებითი დაცვა ყველა პროგრამისთვის — არამხოლოდ ბრაუზერში. უსაფრთხოდ მიმოცვალეთ მონაცემები საჯარო WiFi-კავშირებისას და დაუცველი ქსელებით.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = აირიდეთ საფოსტო ყუთში უსარგებლო ჯართი ელფოსტის უფასო შენიღბვით
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = შეისწავლეთ ვებშემუშავება უფასო სახელმძღვანელოებითა და მასალებით
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = წვდომა ელფოსტასთან, კალენდრებსა თუ ხალხთან ერთი სწრაფი პროგრამით.
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = შექმენით თქვენი ვებსაიტი მყისიერად და დააკავშირეთ საკუთარ სამისამართო სახელთან უფასოდ.
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = { -vendor-short-name } – უახლესი ქმნილებები
     .description = გაეცანით ჩვენს უახლეს ჩანაფიქრებსა და საცდელ ტექნოლოგიებს
+    .label = { -vendor-short-name } – უახლესი ქმნილებები
 more-from-moz-mozilla-monitor-box-link =
     .label = გამოიყენეთ { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =

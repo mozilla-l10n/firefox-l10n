@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = ପ୍ରମାଣପତ୍ରଟି ବି�
 cert-error-trust-signature-algorithm-disabled = ଏହି ପ୍ରମାଣ ପତ୍ରଟି ବିଶ୍ୱସ୍ତ ନୁହଁ କାରଣ ଏହା ଏକ ହସ୍ତାକ୍ଷର ଆଲଗୋରିଦମ ବ୍ୟବହାର କରି ହସ୍ତାକ୍ଷର କରାଯାଇଥାଏ ଯାହାକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଥିଲା କାରଣ ସେହି ଆଲଗୋରିଦମଟି ସୁରକ୍ଷିତ ନୁହଁ।
 cert-error-trust-expired-issuer = ପ୍ରମାଣପତ୍ରଟି ବିଶ୍ୱସ୍ତ ନୁହଁ କାରଣ ଦାତାଙ୍କ ପ୍ରମାଣପତ୍ରର ସମୟ ସମାପ୍ତ ହୋଇଯାଇଛି.
 cert-error-trust-self-signed = ପ୍ରମାଣପତ୍ରଟି ବିଶ୍ୱସ୍ତ ନୁହଁ କାରଣ ଏହା ସ୍ୱୟଂ ଦସ୍ତଖତକୃତ.
-cert-error-trust-symantec = GeoTrust, RapidSSL, ସିମାଣ୍ଟେକ୍, ଥୱେଟ୍, ଏବଂ VeriSign ଦ୍ୱାରା ଜାରି କରାଯାଇଥିବା ପ୍ରମାଣପତ୍ରଗୁଡ଼ିକ ଆଉ ନିରାପଦ ବିବେଚନା କରାଯାଏ ନାହିଁ, କାରଣ ଏହି ପ୍ରମାଣପତ୍ର କର୍ତ୍ତୃପକ୍ଷ ଅତୀତରେ ସୁରକ୍ଷା ଅଭ୍ୟାସ ଅନୁସରଣ କରିବାରେ ବିଫଳ ହୋଇଥିଲେ।
 cert-error-untrusted-default = ପ୍ରମାଣପତ୍ରଟି କୌଣସି ବିଶ୍ୱସ୍ତ ଉତ୍ସରୁ ଆସିନାହିଁ.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -28,7 +27,6 @@ cert-error-code-prefix = ତ୍ରୁଟି କୋଡ: { $error }
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = ଭୁଲ କୋଡ଼: <a data-l10n-name="error-code-link">{ $error }</a>
-cert-error-symantec-distrust-admin = ଏହି ସମସ୍ୟା ବିଷୟରେ ଆପଣ ୱେବସାଇଟ୍ ର ବ୍ୟବସ୍ଥାପକଙ୍କୁ ଅବଗତ କରିପାରିବେ
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP କଠୋର ପରିବହନ ସୁରକ୍ଷା: { $hasHSTS }
@@ -64,7 +62,6 @@ proxyResolveFailure-title = ପ୍ରକ୍ସି ସର୍ଭରକୁ ଖୋ�
 redirectLoop-title = ଏହି ପୃଷ୍ଠାଟି ସଠିକ ଭାବରେ ପୁନଃପ୍ରେରଣ କରିପାରୁନାହିଁ
 unknownSocketType-title = ସର୍ଭରରୁ ଅପ୍ରତ୍ୟାଶିତ ଉତ୍ତର
 nssFailure2-title = ସୁରକ୍ଷିତ ସଂଯୋଗ ବିଫଳ ହେଲା
-corruptedContentError-title = ତ୍ରୁଟିଯୁକ୍ତ ବିଷୟବସ୍ତୁ ତ୍ରୁଟି
 sslv3Used-title = ସୁରକ୍ଷିତ ଭାବରେ ସଂଯୋଗ କରିବାକୁ ଅସମର୍ଥ
 inadequateSecurityError-title = ଆପଣଙ୍କର ସଂଯୋଗ ସୁରକ୍ଷିତ ନୁହେଁ
 blockedByPolicy-title = ଅବରୋଧିତ ପୃଷ୍ଠା

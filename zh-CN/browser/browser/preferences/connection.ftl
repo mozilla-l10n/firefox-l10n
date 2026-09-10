@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = 连接设置
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = 连接设置
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = 重新加载
     .accesskey = e
-connection-proxy-autologin =
-    .label = 如果密码已保存，不提示身份验证
-    .accesskey = i
-    .tooltip = 此选项将允许在您已保存凭据的情况下自动向代理进行身份验证，如果验证失败再提示您输入信息。
 connection-proxy-autologin-checkbox =
     .label = 如果密码已保存，不提示身份验证
-    .accesskey = i
     .tooltiptext = 此选项将允许在您已保存凭据的情况下自动向代理进行身份验证，如果验证失败再提示您输入信息。
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = 使用 SOCKS v4 时代理 DNS 查询
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = 使用默认 URL 完成基于 HTTPS 的 DNS 解析
 connection-dns-over-https-url-custom =
     .label = 自定义
-    .accesskey = C
     .tooltiptext = 输入您偏好的 URL，用来完成基于 HTTPS 的 DNS 解析
-connection-dns-over-https-custom-label = 自定义
+    .accesskey = C

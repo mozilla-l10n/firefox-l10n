@@ -10,12 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Ավելացնե՞լ { $extension }-ը
-webext-perms-header-with-perms = Ավելացնե՞լ { $extension }-ը: Այս ընդլայնումը թույլտվություն կունենա հետևյալին՝
-webext-perms-header-unsigned = Ավելացնե՞լ { $extension }-ը: Այս ընդլայնումը չստուգված է: Վնասակար ընդլայնումները կարող են գողանալ Ձեր անձնական տվյալները կամ վտանգել Ձեր համակարգիչը: Ավելացրեք միայն եթե վստահում եք աղբյուրին:
-webext-perms-header-unsigned-with-perms = Ավելացնե՞լ { $extension }-ը: Այս ընդլայնումը չստուգված է: Վնասակար ընդլայնումները կարող են գողանալ Ձեր անձնական տվյալները կամ վտանգել Ձեր համակարգիչը: Ավելացրեք միայն եթե վստահում եք աղբյուրին: Այս ընդլայնումը թույլտվություն կունենա հետևյալին՝
 webext-perms-sideload-header = { $extension }-ը ավելացվել է
-webext-perms-optional-perms-header = { $extension }-ը պահանջում է լրացուցիչ թույլտվություններ:
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
@@ -55,24 +50,8 @@ webext-perms-host-description-all-urls = Մատչել ձեր տվյալների�
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Մատչել ձեր տվյալներին { $domain } տիրույթի կայքերի համար՝
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Մատչել ձեր տվյալներին { $domainCount } այլ տիրույթում
-       *[other] Մատչել ձեր տվյալներին { $domainCount } այլ տիրույթներում
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Մատչել ձեր տվյալներին { $domain }-ում
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Մատչել ձեր տվյալներին { $domainCount } այլ կայքում
-       *[other] Մատչել ձեր տվյալներին { $domainCount } այլ կայքերում
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

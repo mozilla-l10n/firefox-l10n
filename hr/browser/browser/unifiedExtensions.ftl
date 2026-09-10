@@ -33,9 +33,6 @@ unified-extensions-item-message-manage = Upravljaj proširenjem
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = Proširenje { $extensionName } je blokirano. Njegovo korištenje može biti rizično.
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName } krši Mozillina pravila. Korištenje može biti riskantno.
 
 ## Extension's context menu
 
@@ -54,8 +51,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Neki dodaci nisu dozvoljeni
-unified-extensions-mb-quarantined-domain-message = Samo neka proširenja koja nadzire { -vendor-short-name } su dozvoljena na ovoj stranici kako bi zaštitila tvoje podatake.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Neka proširenja nisu dozvoljena
@@ -71,13 +66,6 @@ unified-extensions-mb-blocklist-warning-single2 =
         Ovo je proširenje ograničeno te je deaktivirano.
         Može se aktivirati u postavkama, ali to može biti rizično.
 # Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } deaktivirano
-    .message =
-        Ovo proširenje krši Mozillina pravila te je stoga deaktivirano.
-        U postavkama ga možeš aktivirati, ali to može biti riskantno.
-# Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } deaktivirano
@@ -92,18 +80,6 @@ unified-extensions-mb-blocklist-warning-multiple2 =
            *[other] { $extensionsCount } proširenja je deaktivirano
         }
     .message = Mogu se aktivirati u postavkama, ali to može biti rizično.
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-            [one] { $extensionsCount } proširenje deaktivirano
-            [few] { $extensionsCount } proširenja deaktivirana
-           *[other] { $extensionsCount } proširenja deaktivirano
-        }
-    .message =
-        Neka od tvojih proširenja su deaktivirana jer krše Mozillina pravila.
-        U postavkama ih možeš aktivirati, ali to može biti riskantno.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =

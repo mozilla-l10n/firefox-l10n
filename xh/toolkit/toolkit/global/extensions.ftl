@@ -10,9 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Yongeza { $extension }?
 webext-perms-sideload-header = { $extension } yongeziwe
-webext-perms-optional-perms-header = { $extension } icela iimvume ezongezelelekileyo.
 
 ##
 
@@ -45,21 +43,5 @@ webext-perms-host-description-all-urls = Fikelela idatha yakho kuzo zonke iiwebh
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Fikelela idatha yakho yeesayithi ezikwidomeyini ye{ $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Fikelela idatha yakho kwi-{ $domainCount } enye idomeyini
-       *[other] Fikelela idatha yakho kwi-{ $domainCount } ezinye iidomeyini
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Fikelela idatha yakho ye-{ $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Fikelela idatha yakho kwi-{ $domainCount } enye isayithi
-       *[other] Fikelela idatha yakho kwi-{ $domainCount } ezinye iisayithi
-    }

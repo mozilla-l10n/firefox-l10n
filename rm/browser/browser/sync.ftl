@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Sincronisar…
 sync-disconnect-dialog-title2 = Deconnectar?
 sync-disconnect-dialog-body = { -brand-product-name } chala da sincronisar tes conto, ma naginas da las datas da navigaziun na vegnan stizzadas da quest apparat.
 sync-disconnect-dialog-button = Deconnectar
-fxa-signout-dialog2-title = Sortir dal { -fxaccount-brand-name(capitalization: "sentence") }?
 fxa-signout-dialog-title2 = Sortir da tes conto?
 fxa-signout-dialog-body = Las datas sincronisadas restan en tes conto.
 fxa-signout-dialog2-button = Sortir
@@ -18,14 +17,6 @@ fxa-menu-turn-on-sync =
 fxa-menu-turn-on-sync-default = Activar la sincronisaziun
 fxa-menu-connect-another-device =
     .label = Colliar in auter apparat…
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Trametter il tab ad in apparat
-           *[other] Trametter { $tabCount } tabs ad in apparat
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Sincronisar apparats…

@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Megjelenítés mappában
            *[other] Megjelenítés mappában
         }
-downloads-cmd-show-downloads =
-    .label = Letöltési mappa megjelenítése
 downloads-cmd-retry =
     .tooltiptext = Újra
 downloads-cmd-retry-panel =

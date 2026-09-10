@@ -19,10 +19,6 @@ experimental-features-js-warp-description = Povolí projekt Warp, který má zle
 experimental-features-ime-search =
     .label = Adresní řádek: zobrazovat výsledky při použití IME
 experimental-features-ime-search-description = IME (Input Method Editor) je nástroj pro zadávání komplexních symbolů, jako jsou znaky východoasijských nebo indických jazyků, pomocí běžné klávesnice. Po zapnutí tohoto experimentu bude panel adresního řádku zobrazovat výsledky vyhledávání a návrhy našeptávače i při použití IME pro zadávání textu. Protože IME může zakrýt výsledky adresního řádku, doporučujeme tuto předvolbu použít jen s IME, který toto nedělá.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Obraz v obraze: automatické otevírání při přepnutí panelu
-experimental-features-auto-pip-description = Povolí obraz v obraze u aktivních videí při přepínání panelů.
 experimental-features-group-developer-tools =
     .label = Vývojářské nástroje
 experimental-features-group-webpage-display =
@@ -33,10 +29,6 @@ experimental-features-group-productivity =
     .label = Produktivita
 experimental-features-group-newtab-widgets =
     .label = Widgety na { -firefox-home-brand-name(case: "loc") }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Hesla v postranní liště
-experimental-features-contextual-password-manager-description = Přístup k heslům přímo z postranní lišty. Už žádné hledání nebo resetování hesel při pokusu o přihlášení. Chcete-li tuto funkci použít, vyberte v postranní liště položku Hesla. Poté přejděte do obecných nastavení a v části Rozložení prohlížeče vyberte možnost Zobrazit postranní lištu. Poté si přizpůsobte postranní lištu výběrem hesel. Pokud to vyzkoušíte, <a data-l10n-name="connect">dejte nám vědět, co si o tom myslíte</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Vyberte vlastní tapetu nebo barvu nového panelu

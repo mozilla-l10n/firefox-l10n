@@ -2,49 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title }—{ -brand-full-name }
-    .data-content-title-private = { $content-title }—{ -brand-full-name } निजी ब्राउजिङ
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } निजी ब्राउजिङ
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title }—निजी ब्राउजिङ
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name }—निजी ब्राउजिङ
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } निजी ब्राउजिङ
@@ -81,8 +38,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = अफलाइन सङ्ग्रह सन्देश प्यानल खोल्नुहोस्
 urlbar-password-notification-anchor =
     .tooltiptext = गोप्यशब्द सङ्ग्रह सन्देश प्यानल खोल्नुहोस्
-urlbar-plugins-notification-anchor =
-    .tooltiptext = प्रयोगमा रहेका प्लगइनहरू व्यवस्थापन गर्नुहोस्
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = यो साइटको तपाईँको क्यामेरा र/अथवा माइक्रो फोन प्रयोग अधिकार ब्यवस्थापन गर्नुहोस्
 # "Speakers" is used in a general sense that might include headphones or
@@ -95,15 +50,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = डाटालाई लगातार भण्डारणमा राख्नुहोस्
 urlbar-addons-notification-anchor =
     .tooltiptext = एडअन स्थापना सन्देश प्यानल खोल्नुहोस्
-urlbar-tip-help-icon =
-    .title = मद्दत प्राप्त गर्नुहोस्
 urlbar-search-tips-confirm = ठीक छ, मैले बुझेँ
 urlbar-search-tips-confirm-short = बुझेँ
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = सुझाव:
 urlbar-result-menu-button =
     .title = मेनु खाेल्नुहोस्
 urlbar-result-menu-button-feedback = प्रतिक्रिया
@@ -131,8 +79,6 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = कम टाइप गर्नुहोस्, थप खोज्नुहोस्: खोज्नुहोस् { $engineName } आफ्नो ठेगाना पट्टीबाट।
 urlbar-search-tips-redirect-2 = { $engineName } र तपाईंको ब्राउजिङ इतिहासबाट सुझावहरू हेर्नको लागि ठेगाना पट्टीमा आफ्नो खोज सुरु गर्नुहोस्।
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = खोजी अझ सरल भयो। यहाँ ठेगाना पट्टी मा आफ्नो खोज थप विशिष्ट बनाउन प्रयास गर्नुहोस्। यसको सट्टा URL देखाउन, सेटिङहरूमा खोजमा जानुहोस्।
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = तपाईलाई के चाहिन्छ छिटो फेला पार्न यो सर्टकट चयन गर्नुहोस्।
@@ -160,8 +106,6 @@ urlbar-screen-blocked =
     .tooltiptext = तपाईँले यो वेबसाइटलाई आफ्नो स्क्रिन साझा गर्न अवरुद्ध गर्नु भएको छ।
 urlbar-persistent-storage-blocked =
     .tooltiptext = तपाईँले यो वेबसाइटको लागि लगातार भण्डारण अवरुद्ध गर्नु भएको छ।
-urlbar-popup-blocked =
-    .tooltiptext = तपाईँले यो वेबसाइटको लागि पपअप अवरुद्ध गर्नु भएको छ|
 urlbar-autoplay-media-blocked =
     .tooltiptext = तपाईंले यस वेबसाइटको लागि ध्वनिको साथ स्वत: प्ले मिडिया अवरुद्ध गर्नुभएको छ।
 urlbar-canvas-blocked =
@@ -260,28 +204,19 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = एड-अनहरू हेर्नुहोस्
-quickactions-cmd-addons2 = एड-अनहरु
 # Opens the bookmarks library window
 quickactions-bookmarks2 = बुकमार्कहरू प्रबन्ध गर्नुहोस्
 quickactions-cmd-bookmarks = बुकमार्कहरू
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = इतिहास हटाउनुहोस्
-quickactions-cmd-clearhistory = इतिहास हटाउनुहोस्
 # Opens about:downloads page
 quickactions-downloads2 = डाउनलोडहरू हेर्नुहोस्
 quickactions-cmd-downloads = डाउनलोडहरू
 # Opens about:addons page in the extensions section
 quickactions-extensions = विस्तारहरू प्रबन्ध गर्नुहोस्
-quickactions-cmd-extensions = विस्तारहरू
 # Opens the devtools web inspector
 quickactions-inspector2 = विकासकर्ता उपकरणहरू खोल्नुहोस्
-quickactions-cmd-inspector = निरीक्षक, devtools
 # Opens about:logins
 quickactions-logins2 = पासवर्डहरू प्रबन्ध गर्नुहोस्
 quickactions-cmd-logins = लगइनहरू, पासवर्डहरू
-# Opens about:addons page in the plugins section
-quickactions-plugins = प्लगिनहरू व्यवस्थापन गर्नुहोस्
-quickactions-cmd-plugins = प्लगइनहरू
 # Opens the print dialog
 quickactions-print2 = पृष्ठ छाप्नुहोस्
 quickactions-cmd-print = छाप्नुहोस्
@@ -298,19 +233,15 @@ quickactions-restart = { -brand-short-name } फेरि सुरू गर्
 quickactions-cmd-restart = पुनः शुरु
 # Opens the screenshot tool
 quickactions-screenshot3 = स्क्रिनसट लिनुहोस्
-quickactions-cmd-screenshot = स्क्रिनसट
 # Opens about:preferences
 quickactions-settings2 = सेटिङहरू प्रबन्ध गर्नुहोस्
-quickactions-cmd-settings = सेटिङहरू, प्राथमिकताहरू, विकल्पहरू
 # Opens about:addons page in the themes section
 quickactions-themes = विषयवस्तुहरू प्रबन्ध गर्नुहोस्
-quickactions-cmd-themes = विषयवस्तुहरू
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } अद्यावधिक गर्नुहोस्
 quickactions-cmd-update = अद्यावधिक
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = पृष्ठ श्रोत हेर्नुहोस्
-quickactions-cmd-viewsource = स्रोत हेर्नुहोस्, स्रोत
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = द्रुत कार्यहरू बारे थप जान्नुहोस्
@@ -364,9 +295,7 @@ identity-custom-root = Mozilla द्वारा पहिचान नभए�
 identity-passive-loaded = यो पृष्ठको भागहरू सुरक्षित छैनन् (जस्तै चित्रहरू)।
 identity-active-loaded = तपाईँले यो पृष्ठमा संरक्षण अक्षम गर्नुभएको छ।
 identity-weak-encryption = यो पेजले कमजोर इन्क्रिप्सन प्रयोग गर्छ।
-identity-insecure-login-forms = यस पृष्ठमा प्रविष्ट लगिन जानकारी सुरक्षित छैन र सम्झौता हुन सक्छ।
 identity-https-only-connection-upgraded = (upgraded to HTTPS)
-identity-https-only-label = HTTPS-मात्र मोड
 identity-https-only-label2 = यस साइटलाई स्वचालित रूपमा सुरक्षित जडानमा अपग्रेड गर्नुहोस्
 identity-https-only-dropdown-on =
     .label = खुल्ला
@@ -374,8 +303,6 @@ identity-https-only-dropdown-off =
     .label = बन्द गर्नुहोस्
 identity-https-only-dropdown-off-temporarily =
     .label = अस्थायी रूपमा बन्द
-identity-https-only-info-turn-on2 = यदि तपाइँ सम्भव भएमा जडान अपग्रेड गर्न { -brand-short-name } चाहनुहुन्छ भने यो साइटको लागि HTTPS-मात्र मोड खोल्नुहोस्।
-identity-https-only-info-turn-off2 = यदि पृष्ठ भाँचिएको देखिन्छ भने, तपाइँ असुरक्षित HTTP प्रयोग गरेर पुन: लोड गर्न यो साइटको लागि HTTPS-मात्र मोड बन्द गर्न सक्नुहुन्छ।
 identity-https-only-info-turn-on3 = यदि तपाइँ सम्भव भएसम्म जडान अपग्रेड गर्न { -brand-short-name } चाहनुहुन्छ भने यस साइटको लागि HTTPS अपग्रेडहरू खोल्नुहोस्।
 identity-https-only-info-turn-off3 = यदि पृष्ठ भाँचिएको देखिन्छ भने, तपाइँ असुरक्षित HTTP प्रयोग गरेर पुन: लोड गर्न यो साइटको लागि HTTPS अपग्रेडहरू बन्द गर्न सक्नुहुन्छ।
 identity-https-only-info-no-upgrade = HTTP बाट जडान अपग्रेड गर्न असमर्थ।
@@ -393,7 +320,6 @@ identity-remove-cert-exception =
     .label = एक्सेप्सन हटाउनुहोस्
     .accesskey = R
 identity-description-insecure = तपाईँको जडान सुरक्षित छैन। तपाईँले यो साइटमा दिएको जानकारी (जस्तै गोप्यशब्दहरू, सन्देशहरू, क्रेडिट कार्डहरू, अादि) अरूले पनि देख्न सक्छन्।
-identity-description-insecure-login-forms = तपाईँ यो पृष्ठमा प्रविष्ट लगिन जानकारी सुरक्षित छैन र सम्झौता हुन सक्छ।
 identity-description-weak-cipher-intro = यो वेवसाइटसँगको तपाईँको जडान कमजोर इन्क्रिप्सन प्रयोग गर्छ र जडान सुरक्षित छैन।
 identity-description-weak-cipher-risk = अरू मानिसहरूले तपाईँको जानकारी हेर्नसक्छन् र वेबसाइटको व्यवहार परिवर्तन गर्न सक्छन्।
 identity-description-active-blocked2 = { -brand-short-name } यस पृष्ठका असुरक्षित भागहरू अवरुद्ध गरिएको छ।
@@ -402,12 +328,6 @@ identity-description-passive-loaded-insecure2 = यो वेबसाइटम�
 identity-description-passive-loaded-mixed2 = { -brand-short-name } मा रहेका केही सामग्रीहरू रोकिएको भए पनि त्यहाँ असुरक्षित सामग्री (जस्तै तस्विरहरू) छन्।
 identity-description-active-loaded = यो वेबसाइटमा सुरक्षित सामग्री छैन (जस्तै स्क्रिप्टहरू) र तपाईँको जडान निजी पनि छैन।
 identity-description-active-loaded-insecure = तपाईँले यो साइटमा दिएको जानकारी (जस्तै गोप्यशब्दहरू, सन्देशहरू, क्रेडिट कार्डहरू, अादि) अरूले पनि देख्न सक्छन्।
-identity-disable-mixed-content-blocking =
-    .label = सुरक्षा खारेज गर्नुहोस्
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = सुरक्षा सक्षम
-    .accesskey = E
 identity-more-info-link-text =
     .label = थप जानकारी
 
@@ -421,40 +341,6 @@ browser-window-restore-down-button =
     .tooltiptext = Restore Down
 browser-window-close-button =
     .tooltiptext = बन्द गर्नुहोस्
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = खेलिरहेको
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = म्यूट गरिएको
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = अटोप्ले अवरुद्ध
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = चित्र-भित्र-चित्र
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] म्यूट ट्याब
-        [one] म्यूट { $count } ट्याबहरू
-       *[other] म्यूट { $count } ट्याबहरू
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] ट्याब अनम्यूट गर्नुहोस्
-        [one] { $count } ट्याबहरू अनम्यूट गर्नुहोस्
-       *[other] { $count } ट्याबहरू अनम्यूट गर्नुहोस्
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] ट्याब प्ले गर्नुहोस्
-        [one] { $count } ट्याब प्ले गर्नुहोस्
-       *[other] { $count } ट्याब प्ले गर्नुहोस्
-    }
 
 ## Bookmarks toolbar items
 
@@ -490,10 +376,6 @@ sharing-warning-proceed-to-tab =
     .label = ट्याबमा जानुहोस्
 sharing-warning-disable-for-session =
     .label = यस सत्रको लागि साझेदारी सुरक्षा असक्षम गर्नुहोस्
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = F12 सर्टकट प्रयोग गर्न, पहिले ब्राउजर उपकरण मेनु मार्फत DevTools खोल्नुहोस्।
 
 ## URL Bar
 
@@ -554,8 +436,6 @@ urlbar-extension =
     .value = एक्सटेन्सन:
 urlbar-go-button2 =
     .title = लोकेसन बारमा भएको स्थानमा जानुहोस्
-urlbar-go-button =
-    .tooltiptext = लोकेसन बारमा भएको स्थानमा जानुहोस्
 urlbar-page-action-button =
     .tooltiptext = पृष्ठ कार्यहरु
 urlbar-revert-button =
@@ -610,25 +490,12 @@ urlbar-result-action-tabtosearch-web = ठेगाना पट्टीबा�
 urlbar-result-action-tabtosearch-other-engine = ठेगाना पट्टीबाट सीधै { $engine } खोज्नुहोस्
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = प्रतिलिपि गर्नुहोस्
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = ={ $result }
 
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
 urlbar-result-search-with = { $engine } मार्फत खोज्नुहोस्
-urlbar-searchmode-bookmarks =
-    .label = बुकमार्कहरु
-urlbar-searchmode-tabs =
-    .label = ट्याबहरू
-urlbar-searchmode-history =
-    .label = इतिहास
-urlbar-searchmode-actions =
-    .label = कार्य
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -676,9 +543,6 @@ urlbar-result-menu-trending-dont-show2 = ट्रेन्डिङ खोज�
 urlbar-result-menu-trending-dont-show =
     .label = ट्रेन्डिङ खोजहरू नदेखाउनुहोस्
     .accesskey = D
-urlbar-result-menu-trending-why =
-    .label = म यो किन देख्दै छु?
-    .accesskey = W
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = तपाईंको प्रतिक्रियाको लागि धन्यवाद। तपाईंले अब ट्रेन्डिङ खोजहरू देख्नुहुने छैन।
@@ -760,12 +624,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] बुकमार्क उपकरणपट्टी लुकाउनुहोस्
            *[other] बुकमार्क उपकरणपट्टी देखाउनुहोस्
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] पुस्तकचिनो मेनु उपकरणपट्टिबाट हटाउनुहोस्
-           *[other] पुस्तकचिनो मेनु उपकरणपट्टिमा थप्नुहोस्
-        }
 
 ##
 
@@ -796,14 +654,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = पुस्तकचिनोहरू
-library-recent-activity-title =
-    .value = हालको गतिविधि
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = { -pocket-brand-name } मा बचत गर्नुहोस्
-    .tooltiptext = { -pocket-brand-name } मा बचत गर्नुहोस्
 
 ## Repair text encoding toolbar button
 
@@ -860,8 +710,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = प्रयोगकर्ताको नाम
-panel-save-update-password = पासवर्ड
 panel-save-update-username-2 =
     .label = प्रयोगकर्ताको नाम
 panel-save-update-password-2 =
@@ -875,24 +723,8 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = बन्द गर्नुहोस्
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = { $uriHost } लाई पप-अपको स्विकृति दिनुहोस्।
-    .accesskey = p
-popups-infobar-block =
-    .label = { $uriHost } को लागि पप-अपहरू रोक्नुहोस्
-    .accesskey = p
-
 ##
 
-popups-infobar-dont-show-message =
-    .label = पप-अपहरू रोकिएका बेलामा यो सन्देश नदेखाउनुहोस्
-    .accesskey = D
-edit-popup-settings =
-    .label = पप-अप सेटिङहरू व्यवस्थापन गर्नुहोस्...
-    .accesskey = M
 picture-in-picture-hide-toggle =
     .label = चित्र-मा-चित्र टगल लुकाउनुहोस्
     .accesskey = H
@@ -916,8 +748,6 @@ navbar-accessible =
     .aria-label = दिशानिर्देश
 navbar-downloads =
     .label = डाउनलोडहरू
-navbar-overflow =
-    .tooltiptext = अरु सामग्रीहरू...
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -989,20 +819,12 @@ unified-extensions-button-quarantined =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = निजी सत्र समाप्त गर्नुहोस्
-    .tooltiptext = निजी सत्र समाप्त गर्नुहोस्
-reset-pbm-panel-heading = निजी सत्र अन्त्य गर्ने हो?
-reset-pbm-panel-description = सबै निजी ट्याबहरू बन्द गर्नुहोस् र इतिहास, कुकीहरू, र अन्य सबै साइट डेटा मेटाउनुहोस्।
 reset-pbm-panel-always-ask-checkbox =
     .label = सधैं सोध्नुहोस्
     .accesskey = A
 reset-pbm-panel-cancel-button =
     .label = रद्द गर्नुहोस्
     .accesskey = C
-reset-pbm-panel-confirm-button =
-    .label = सत्र डाटा मेटाउनुहोस्
-    .accesskey = D
 reset-pbm-panel-complete = निजी सत्र डाटा मेटाइयो
 
 ## Autorefresh blocker

@@ -18,11 +18,6 @@ serviceworker-list-header = Ameẓlu Workers
 serviceworker-list-aboutdebugging = Ldi <a>about:debugging</a> i umeẓlu Workers seg tɣula-nniḍen
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Ffeɣ seg ujerred
-# Text for the debug link displayed for an already started Service Worker. Clicking on the
-# link opens a new devtools toolbox for this service worker. The title attribute is only
-# displayed when the link is disabled.
-serviceworker-worker-debug = Tamseɣtayt
-    .title = Ala aselkem n umezlu workers i yezmren ad yettwaseɣti
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
     .alt = Sweḍ
@@ -33,7 +28,7 @@ serviceworker-worker-start3 = Bdu
 # display the last update time of the service worker script.
 # Variables:
 #   $date (date) - Update date
-serviceworker-worker-updated = Yettwalqem <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
+serviceworker-worker-updated = Yettwalqem <time>{ DATETIME($date, day: "numeric", hour: "numeric", minute: "numeric", month: "long", second: "numeric", year: "numeric") }</time>
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.

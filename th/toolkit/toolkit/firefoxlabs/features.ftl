@@ -15,10 +15,6 @@ experimental-features-js-warp-description = เปิดใช้งาน Warp 
 experimental-features-ime-search =
     .label = แถบที่อยู่: แสดงผลลัพธ์ระหว่างการใช้งาน IME
 experimental-features-ime-search-description = IME (Input Method Editor) คือเครื่องมือที่ช่วยให้คุณป้อนสัญลักษณ์ที่ซับซ้อน เช่น สัญลักษณ์ที่ใช้ในภาษาเขียนในเอเชียตะวันออกหรืออินเดีย โดยใช้แป้นพิมพ์มาตรฐาน การเปิดใช้งานคุณลักษณะทดลองนี้จะทำให้แผงแถบที่อยู่เปิดตลอด แสดงผลลัพธ์การค้นหาและคำแนะนำ ในขณะที่ใช้ IME เพื่อป้อนข้อความ โปรดทราบว่า IME อาจแสดงแผงขึ้นมาบังผลลัพธ์ของแถบที่อยู่ ดังนั้นจึงแนะนำให้ใช้ค่าปรับแต่งนี้สำหรับ IME ที่ไม่ได้ใช้แผงแบบนี้เท่านั้น
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = ภาพซ้อนภาพ: เปิดอัตโนมัติเมื่อสลับแท็บ
-experimental-features-auto-pip-description = เปิดใช้งานภาพซ้อนภาพในวิดีโอที่เล่นอยู่เมื่อสลับแท็บ
 experimental-features-group-developer-tools =
     .label = เครื่องมือนักพัฒนา
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = ผลผลิต
 experimental-features-group-newtab-widgets =
     .label = วิดเจ็ตบน { -firefox-home-brand-name }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = รหัสผ่านในแถบข้าง
-experimental-features-contextual-password-manager-description = เข้าถึงรหัสผ่านของคุณได้โดยตรงจากแถบข้าง ไม่ต้องเสียเวลาค้นหาหรือตั้งรหัสผ่านใหม่อีกต่อไปเมื่อคุณต้องการลงชื่อเข้า เมื่อต้องการใช้คุณลักษณะนี้ ให้เลือกรหัสผ่านในแถบข้าง จากนั้นไปที่การตั้งค่าทั่วไป และภายใต้ส่วนเค้าโครงเบราว์เซอร์ ให้เลือกแสดงแถบข้าง แล้วปรับแต่งแถบข้างของคุณโดยเลือกรหัสผ่าน ถ้าคุณลองใช้แล้ว โปรด<a data-l10n-name="connect">บอกให้เราทราบว่าคุณคิดเห็นอย่างไร</a>
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = เลือกรูปพื้นหลังหรือสีกำหนดเองสำหรับแท็บใหม่

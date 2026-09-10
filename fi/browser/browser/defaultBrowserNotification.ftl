@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = Pidä { -brand-short-name } käden ulottuvi
 default-browser-prompt-message-pin-msix = Pidä { -brand-short-name } käden ulottuvilla — aseta se oletusselaimeksi ja kiinnitä se tehtäväpalkkiin sekä Käynnistä-valikkoon.
 default-browser-prompt-message-pin-mac = Pidä { -brand-short-name } käden ulottuvilla — aseta se oletusselaimeksi ja kiinnitä se telakkaan.
 default-browser-prompt-button-primary-set = Aseta oletusselaimeksi
-default-browser-prompt-button-primary-pin = Aseta pääselaimeksi
 default-browser-prompt-title-alt = Asetetaanko { -brand-short-name } oletusselaimeksi?
 default-browser-prompt-message-alt = Nopeutta, turvallisuutta ja yksityisyyttä joka kerta kun selaat.
 default-browser-prompt-button-primary-alt = Aseta oletusselaimeksi

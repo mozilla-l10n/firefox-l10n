@@ -16,14 +16,3 @@ recently-closed-menu-reopen-all-windows = Na síne kuaíyo da ventana
 
 recently-closed-panel-reopen-all-tabs = Nate kuaiyo da sukua
 recently-closed-panel-reopen-all-windows = Na síne kuaíyo da ventana
-
-##
-
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-       *[other] { $winTitle } (ji { $tabCount } da inka sukua)
-    }

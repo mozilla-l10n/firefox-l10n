@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Împiedică agentul implicit de browser să 
 policy-DisableDeveloperTools = Blochează accesul la instrumentele pentru dezvoltatori.
 policy-DisableEncryptedClientHello = Dezactivează utilizarea funcției TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Dezactivează comenzile de trimis feedback în meniul de Ajutor (Trimite feedback și Raportează site-uri înșelătoare).
-policy-DisableFirefoxAccounts = Dezactivează serviciile bazate pe { -fxaccount-brand-name(case: "definite-article") }, inclusiv Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Dezactivează serviciile bazate pe cont, inclusiv sincronizarea.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Nu memora istoricul căutărilor și al formularelor
 policy-DisableLaunchOnLogin = Împiedică lansarea automată a { -brand-short-name } la autentificarea utilizatorului în cont.
 policy-DisablePrimaryPasswordCreation = Dacă valoarea este adevărată, nu se poate crea o parolă primară.
 policy-DisablePasswordReveal = Nu permite dezvăluirea parolelor din datele de autentificare salvate.
-policy-DisablePocket2 = Dezactivează funcționalitatea de salvare a paginilor web în { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Dezactivează navigarea privată.
 policy-DisableProfileImport = Dezactivează comanda de meniu pentru importul de date din alte browsere.
 policy-DisableProfileRefresh = Dezactivează butonul de reîmprospătare { -brand-short-name } în pagina about:support.
@@ -132,7 +130,6 @@ policy-PDFjs = Dezactivează sau configurează PDF.js, cititorul PDF încorporat
 policy-Permissions2 = Configurează permisiunile pentru cameră, microfon, locație, notificări și redare automată.
 policy-PictureInPicture = Activează sau dezactivează modul Picture-in-Picture.
 policy-PopupBlocking2 = Permite anumitor site-uri să afișeze ferestre pop-up și să redirecționeze prin cadre de la terți.
-policy-PopupBlocking = Permite anumitor site-uri web să afișeze implicit ferestre pop-up.
 policy-Preferences = Setează și blochează valoarea pentru un subset de preferințe.
 policy-PrivateBrowsingModeAvailability = Setează disponibilitatea modului de navigare privată.
 policy-PromptForDownloadLocation = Întreabă unde să fie salvate fișierele la descărcare.

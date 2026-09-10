@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Kanonge ma ki gwoko
 autofill-manage-addresses-list-header = Kanonge
-autofill-manage-credit-cards-title = Kad me bank ma ki gwoko
-autofill-manage-credit-cards-list-header = Kad me bank
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Kwany
@@ -21,9 +19,6 @@ autofill-manage-edit-button = Yub…
 
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Yub kanonge
-autofill-address-given-name = Nying Muno
-autofill-address-additional-name = Nying Mukene
-autofill-address-family-name = Nying Kwon
 autofill-address-organization = Dul
 autofill-address-street = Kanonge me yoo gudo
 autofill-address-city = Boma
@@ -34,18 +29,12 @@ autofill-address-zip = Kod me ZIP
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Med kanonge manyen
 autofill-address-country = Lobo onyo But lobo
 autofill-address-tel = Cim
 autofill-address-email = Email
 autofill-cancel-button = Juki
 autofill-save-button = Gwoki
 autofill-country-warning-message = Pongo pwom pire kene kombedi tye pi lobo mogo keken.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Med kad me bank manyen
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Yub kad me bank
 autofill-card-number-2 =
     .label = Namba me kad
 autofill-card-number = Namba me kad
@@ -53,9 +42,3 @@ autofill-card-invalid-number = Tim ber iket namba kad matye atir
 autofill-card-name-on-card-2 =
     .label = Nying ma i kad
 autofill-card-name-on-card = Nying ma i kad
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR

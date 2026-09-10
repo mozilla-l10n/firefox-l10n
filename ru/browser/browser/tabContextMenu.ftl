@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Новая вкладка
-    .accesskey = я
 reload-tab =
     .label = Обновить вкладку
     .accesskey = и
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Новая группа
     .accesskey = П
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -212,14 +205,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Создать общую ссылку
     .accesskey = a
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Отправить { $tabCount } вкладку на устройство
-            [few] Отправить { $tabCount } вкладки на устройство
-           *[many] Отправить { $tabCount } вкладок на устройство
-        }
-    .accesskey = п
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

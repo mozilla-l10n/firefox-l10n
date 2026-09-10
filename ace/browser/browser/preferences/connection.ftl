@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Atô Seunambông
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Atô Seunambông
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -51,14 +51,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Peuhah keulayi
     .accesskey = k
-connection-proxy-autologin =
-    .label = Bèk lakèë otèntikasi meunye ka meukeubah paswod
-    .accesskey = e
-    .tooltip = Piléhan nyoë seucara seungap dijak buet keudroëjih meunye droëneuh kalheuëh neubah peukateuën keujih. Meunyena salah jitanyong lom bak droëneuh.
 connection-proxy-autologin-checkbox =
     .label = Bèk lakèë otèntikasi meunye ka meukeubah paswod
-    .accesskey = e
     .tooltiptext = Piléhan nyoë seucara seungap dijak buet keudroëjih meunye droëneuh kalheuëh neubah peukateuën keujih. Meunyena salah jitanyong lom bak droëneuh.
+    .accesskey = e
 connection-proxy-socks-remote-dns =
     .label = Proksi DNS watèë meungui SOCKS v5
     .accesskey = D

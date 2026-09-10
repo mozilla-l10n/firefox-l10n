@@ -31,4 +31,3 @@ search-bookmarks = zakładkach
 search-history = historii
 search-opentabs = otwartych kartach
 search-tags = etykietach
-search-titles = tytułach

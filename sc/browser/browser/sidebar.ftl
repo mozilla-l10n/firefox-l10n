@@ -32,7 +32,6 @@ sidebar-history-clear =
     .label = Isbòida sa cronologia
 sidebar-history-sort-by-heading-menucaption =
     .label = Assenta dae:
-sidebar-history-sort-by-heading = Assenta dae:
 sidebar-history-sort-option-date =
     .label = Data
 sidebar-history-sort-option-site =
@@ -52,16 +51,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Estensiones de sa barra laterale
-sidebar-customize-firefox-tools-header =
-    .label = Ainas de { -brand-product-name }
 sidebar-customize-firefox-settings = Gesti sa cunfiguratzione de { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Ischedas verticales
 sidebar-settings2 =
     .label = Cunfiguratzione
-sidebar-settings =
-    .label = Cunfiguratzione de sa barra laterale
 sidebar-hide-tabs-and-sidebar =
     .label = Cua is ischedas e sa barra laterale
 sidebar-show-on-the-right =
@@ -79,8 +73,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Gesti s’estensione
-sidebar-context-menu-remove-extension =
-    .label = Boga s’estensione
 sidebar-context-menu-report-extension =
     .label = Sinnala s’estensione
 sidebar-context-menu-open-in-tab =

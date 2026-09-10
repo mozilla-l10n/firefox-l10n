@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Finder에서 보기
            *[other] 폴더에서 보기
         }
-downloads-cmd-show-downloads =
-    .label = 다운로드 폴더 보기
 downloads-cmd-retry =
     .tooltiptext = 다시 시도
 downloads-cmd-retry-panel =

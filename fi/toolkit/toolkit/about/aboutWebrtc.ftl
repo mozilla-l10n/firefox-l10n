@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = tallenna about:webrtc nimellä
 about-webrtc-aec-logging-msg-label = AEC-lokitus
 about-webrtc-aec-logging-off-state-label = Käynnistä AEC-lokitus
 about-webrtc-aec-logging-on-state-label = Pysäytä AEC-lokitus
-about-webrtc-aec-logging-on-state-msg = AEC-lokitus päällä (keskustele soittajan kanssa muutama minuutti ja lopeta sen jälkeen kaappaus)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC-lokitus päällä (keskustele soittajan kanssa muutama minuutti ja lopeta sen jälkeen kaappaus)
 about-webrtc-aec-logging-unavailable-sandbox = Ympäristömuuttuja MOZ_DISABLE_CONTENT_SANDBOX=1 vaaditaan AEC-lokien viemiseen. Aseta tämä muuttuja vain, jos ymmärrät mahdolliset riskit.
 # Variables:
@@ -88,20 +87,12 @@ about-webrtc-nominated = Nimetty
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Valittu
 about-webrtc-save-page-label = Tallenna sivu
-about-webrtc-debug-mode-msg-label = Virheenjäljitystila
-about-webrtc-debug-mode-off-state-label = Käynnistä virheenjäljitystila
-about-webrtc-debug-mode-on-state-label = Pysäytä virheenjäljitystila
-about-webrtc-stats-heading = Istunnon tilastot
 about-webrtc-peerconnections-section-heading = RTCPeerConnection-tilastot
 about-webrtc-peerconnections-section-show-msg = Näytä RTCPeerConnection-tilastot
 about-webrtc-peerconnections-section-hide-msg = Piilota RTCPeerConnection-tilastot
 about-webrtc-stats-clear = Tyhjennä historia
 about-webrtc-log-heading = Yhteysloki
 about-webrtc-log-clear = Tyhjennä loki
-about-webrtc-log-show-msg = näytä loki
-    .title = laajenna napsauttamalla
-about-webrtc-log-hide-msg = piilota loki
-    .title = kutista napsauttamalla
 about-webrtc-log-section-show-msg = Näytä loki
     .title = Laajenna napsauttamalla
 about-webrtc-log-section-hide-msg = Piilota loki
@@ -133,19 +124,11 @@ about-webrtc-remote-candidate = Etäehdokas
 about-webrtc-raw-candidates-heading = Kaikki raa’at ehdokkaat
 about-webrtc-raw-local-candidate = Raa’at paikalliset ehdokkaat
 about-webrtc-raw-remote-candidate = Raa’at etäehdokkaat
-about-webrtc-raw-cand-show-msg = näytä raa’at ehdokkaat
-    .title = laajenna napsauttamalla
-about-webrtc-raw-cand-hide-msg = piilota raa’at ehdokkaat
-    .title = kutista napsauttamalla
 about-webrtc-raw-cand-section-show-msg = Näytä raa’at ehdokkaat
     .title = Laajenna napsauttamalla
 about-webrtc-raw-cand-section-hide-msg = Piilota raa’at ehdokkaat
     .title = Kutista napsauttamalla
 about-webrtc-priority = Prioriteetti
-about-webrtc-fold-show-msg = näytä tiedot
-    .title = laajenna napsauttamalla
-about-webrtc-fold-hide-msg = piilota tiedot
-    .title = kutista napsauttamalla
 about-webrtc-fold-default-show-msg = Näytä tiedot
     .title = Laajenna napsauttamalla
 about-webrtc-fold-default-hide-msg = Piilota tiedot
@@ -187,8 +170,6 @@ about-webrtc-configuration-element-provided = Annettu
 # been provided
 about-webrtc-configuration-element-not-provided = Ei annettu
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Käyttäjän asettamat WebRTC-asetukset
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Käyttäjän muokkaama WebRTC-määritys
 
 ## These are displayed on the button that shows or hides the
@@ -219,13 +200,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Videon kehystilastot - MediaStreamTrack-tunniste: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = sivu tallennettu kohteeseen: { $path }
-about-webrtc-debug-mode-off-state-msg = jäljitysloki kohteessa: { $path }
-about-webrtc-debug-mode-on-state-msg = virheenjäljitystila päällä, jäljitysloki kohteessa: { $path }
-about-webrtc-aec-logging-off-state-msg = kaapatut lokitiedostot kohteessa: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

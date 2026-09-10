@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Прадухіліць любыя дзеян
 policy-DisableDeveloperTools = Забараніць доступ да прылад распрацоўшчыка.
 policy-DisableEncryptedClientHello = Адключыць выкарыстанне функцыі TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Адключыць каманды для адпраўкі зваротнай сувязі праз меню Даведкі («Падаць водгук» і «Паведаміць аб падробленым сайце»).
-policy-DisableFirefoxAccounts = Адключыць сэрвісы, заснаваныя на { -fxaccount-brand-name }, у тым ліку Сінхранізацыю.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Адключыць службы на аснове ўліковага запісу, уключаючы сінхранізацыю.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Не запамінаць гісторыю пошу�
 policy-DisableLaunchOnLogin = Забараніць аўтаматычны запуск { -brand-short-name } пры ўваходзе карыстальніка ў сістэму.
 policy-DisablePrimaryPasswordCreation = Значэнне true не дазваляе стварыць галоўны пароль.
 policy-DisablePasswordReveal = Не дазваляйце паказваць паролі ў захаваных лагінах.
-policy-DisablePocket2 = Адключыць магчымасць захавання вэб-старонак у { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Адключыць прыватнае агляданне.
 policy-DisableProfileImport = Адключыць каманду меню для імпарту даных з іншага браўзера.
 policy-DisableProfileRefresh = Адключыць кнопку «Абнавіць { -brand-short-name }» на старонцы «about:support».
@@ -132,7 +130,6 @@ policy-PDFjs = Адключыць або наладзіць PDF.js, убудав
 policy-Permissions2 = Наладзіць дазволы для камеры, мікрафона, месцазнаходжання, абвестак і аўтапрайгравання.
 policy-PictureInPicture = Уключыць або выключыць выяву ў выяве.
 policy-PopupBlocking2 = Дазволіць пэўным сайтам паказваць выплыўныя вокны і перанакіроўвацца праз староннія рамкі.
-policy-PopupBlocking = Дазволіць пэўным вэб-сайтам тыпова паказваць усплыўныя вокны.
 policy-Preferences = Устанавіць і зафіксаваць значэнне для падмноства пераваг.
 policy-PrivateBrowsingModeAvailability = Наладзіць доступ да рэжыму прыватнага аглядання.
 policy-PromptForDownloadLocation = Пытаць, куды захаваць файлы, пры сцягванні.

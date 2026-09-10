@@ -260,8 +260,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Profiler
 menu-profiles-manage-profiles =
     .label = Håndter profiler
 menu-profiles-new-profile =
@@ -285,9 +283,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Udvidelser og temaer
     .accesskey = U
-menu-tools-addons-and-themes =
-    .label = Tilføjelser og temaer
-    .accesskey = T
 menu-tools-fxa-sign-in2 =
     .label = Log ind
     .accesskey = L
@@ -344,8 +339,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Mere teknisk information
     .accesskey = t
-menu-help-report-site-issue =
-    .label = Rapportér problem med websted…
 menu-help-share-ideas =
     .label = Del ideer og feedback…
     .accesskey = D

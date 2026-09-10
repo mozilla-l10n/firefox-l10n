@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Autres produits de { -vendor-short-name }
 more-from-moz-page-header =
     .heading = Autres produits de { -vendor-short-name }
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } mobile
 more-from-moz-firefox-mobile-description = Le navigateur mobile qui fait passer la confidentialité avant tout le reste.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } pour appareil mobile
 more-from-moz-firefox-mobile =
-    .label = { -brand-product-name } pour appareil mobile
     .description = Le navigateur mobile qui fait passer la confidentialité avant tout le reste.
+    .label = { -brand-product-name } pour appareil mobile
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Découvrez un niveau supplémentaire de navigation anonyme et de protection.
 more-from-moz-qr-code-box-firefox-mobile-title = Téléchargez-le avec votre appareil mobile. Visez le code QR avec la caméra. Quand un lien s’affiche, appuyez dessus.
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = Obtenir { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Reprenez automatiquement le contrôle de vos informations personnelles compromises.
 more-from-moz-mozilla-monitor-global-description = Recevez des alertes lorsque vos données apparaissent dans une fuite de données.
 more-from-moz-mozilla-monitor-button = Obtenir { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = IA { -solo-ai-brand-name }
 more-from-moz-solo-description = Créez instantanément votre site web et connectez gratuitement votre domaine personnalisé.
 more-from-moz-solo-button = Essayer { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = Créateur de sites web IA { -solo-ai-brand-name }
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = Envoyez le lien de téléchargement su
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = Découvrez où vos informations personnelles ont été exposées en ligne grâce à une analyse gratuite.
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = Bénéficiez d’une protection supplémentaire pour toutes les applications, pas uniquement votre navigateur. Protégez vos données sur les réseaux Wi-Fi publics et les réseaux non sécurisés.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = Protégez votre boîte de réception du spam grâce à des alias de messagerie gratuits.
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = Apprenez le développement web avec des guides et des références gratuits.
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = Accédez à votre messagerie, vos agendas et vos contacts dans une seule application.
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = Créez instantanément votre site web et connectez gratuitement votre domaine personnalisé.
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = Nouveaux produits de { -vendor-short-name }
     .description = Découvrez nos dernières idées et technologies expérimentales.
+    .label = Nouveaux produits de { -vendor-short-name }
 more-from-moz-mozilla-monitor-box-link =
     .label = Obtenir { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =

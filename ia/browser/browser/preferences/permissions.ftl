@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Exceptiones
     .style = min-width: 45em
+    .title = Exceptiones
 permissions-close-key =
     .key = w
 permissions-address = Adresse del sito web
@@ -80,79 +80,64 @@ permissions-invalid-uri-label = Per favor insere un nomine de hoste valide
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Exceptiones al protection antitraciamento reinfortiate
     .style = { permissions-window2.style }
+    .title = Exceptiones al protection antitraciamento reinfortiate
 permissions-exceptions-manage-etp-desc = Tu pote specificar pro qual sitos web disactivar le Protection antitraciamento reinfortiate. Scribe le adresse exacte del sito que tu vole gerer e pois clicca Adder exception.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Exceptiones - Cookies e Datos de sito
     .style = { permissions-window2.style }
+    .title = Exceptiones - Cookies e Datos de sito
 permissions-exceptions-cookie-desc = Tu pote specificar qual sitos web sempre o nunquam pote usar cookies e datos de sito.  Scribe le adresse exacte del sito que tu vole gerer e pois clicca sur Blocar, Permitter pro le session, o Permitter.
 
 ## Exceptions - Clear on Shutdown
 
 permissions-exceptions-shutdown-clearing-window =
-    .title = Exceptiones - Vacuar chronologia al clausura
     .style = { permissions-window2.style }
+    .title = Exceptiones - Vacuar chronologia al clausura
 permissions-exceptions-shutdown-clearing-desc = Tu pote specificar que sitos web retenera lor datos quando { -brand-short-name } cancellara tu chronologia al clausura. Typa le adresse exacte del sito que tu vole gerer e pois clicca Permitter.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Exceptiones - modo solo-HTTPS
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Tu pote disactivar le modo solo HTTPS pro sitos web specific. { -brand-short-name } non tentara securisar le connexion a HTTPS pro ille sitos. Exceptiones non se applica a fenestras private.
+    .title = Exceptiones - modo solo-HTTPS
 permissions-exceptions-https-only-desc2 = Tu pote disactivar le modo solo HTTPS pro sitos web specific. { -brand-short-name } non tentara securisar le connexion a HTTPS pro ille sitos.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
     .title = Sitos web permittite: quadros resaltante e re-directiones de tertie-partes
-    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = Tu pote specificar a qual sitos web es permittite aperir fenestras resaltante e esser re-dirigite per quadros de tertie-partes.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Sitos web permittite - Fenestras emergente
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Tu pote specificar qual sitos web ha le permission de aperir fenestras emergente. Scribe le adresse exacte del sito que tu vole permitter e clicca sur Permitter.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Exceptiones - Credentiales salvate
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Le credentiales pro le sitos web sequente non essera salvate
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Exceptiones - Contrasignos salvate
     .style = { permissions-window2.style }
+    .title = Exceptiones - Contrasignos salvate
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } non salvara contrasignos pro le sitos ci listate.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Sitos web permittite - Installation de additivos
     .style = { permissions-window2.style }
+    .title = Sitos web permittite - Installation de additivos
 permissions-exceptions-addons-desc = Tu pote specificar qual sitos web ha le permission de installar additivos. Scribe le adresse exacte del sito que tu vole permitter e clicca sur Permitter.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Configuration - Autoreproduction
     .style = { permissions-window2.style }
+    .title = Configuration - Autoreproduction
 permissions-site-autoplay-desc = Specifica hic le sitos web que non seque tu configuration predefinite de autoreproduction.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Parametros - Permissiones de notification
     .style = { permissions-window2.style }
+    .title = Parametros - Permissiones de notification
 permissions-site-notification-desc = Le sitos web sequente ha requestate de inviar te notificationes. Tu pote specificar qual sitos web pote inviar te notificationes. Tu pote etiam blocar nove requestas de permission pro notificationes.
 permissions-site-notification-disable-label =
     .label = Blocar nove requestas de permission pro notificationes
@@ -161,8 +146,8 @@ permissions-site-notification-disable-desc = Isto impedi a omne sitos web non li
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Parametros - Permissiones de geolocalisation
     .style = { permissions-window2.style }
+    .title = Parametros - Permissiones de geolocalisation
 permissions-site-location-desc = Le sitos web sequente ha requestate de acceder a tu position geographic. Tu pote specificar qual sitos web pote acceder a tu position. Tu pote etiam blocar nove requestas de accesso a tu position.
 permissions-site-location-disable-label =
     .label = Blocar nove requestas de acceder a tu position
@@ -171,8 +156,8 @@ permissions-site-location-disable-desc = Isto impedira qualcunque sitos web non 
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Parametros - Permissiones de realitate virtual
     .style = { permissions-window2.style }
+    .title = Parametros - Permissiones de realitate virtual
 permissions-site-xr-desc = Le sitos web sequente ha requestate de acceder a tu apparatos de realitate virtual. Tu pote specificar qual sitos web pote acceder a iste apparatos. Tu pote etiam blocar nove requestas de accesso a istes.
 permissions-site-xr-disable-label =
     .label = Blocar nove requestas de acceder a tu apparatos de realitate virtual
@@ -181,8 +166,8 @@ permissions-site-xr-disable-desc = Isto impedi a omne sitos web non listate hic 
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Parametros - Permissiones del camera
     .style = { permissions-window2.style }
+    .title = Parametros - Permissiones del camera
 permissions-site-camera-desc = Le sitos web sequente ha requestate de acceder a tu photocamera. Tu pote specificar qual sitos web pote acceder a tu camera. Tu pote etiam blocar nove requestas de accesso a tu camera.
 permissions-site-camera-disable-label =
     .label = Blocar nove requestas de acceder a tu camera
@@ -191,8 +176,8 @@ permissions-site-camera-disable-desc = Isto impedira qualcunque sitos web non li
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = Parametros: applicationes e servicios del apparato
     .style = { permissions-window2.style }
+    .title = Parametros: applicationes e servicios del apparato
 permissions-site-localhost-desc = Iste sitos web ha requirite accesso a applicationes e servicios sur iste apparato. Tu pote eliger de permitter o blocar le sitos de facer isto.
 permissions-site-localhost-disable-label =
     .label = Blocar nove requestas de acceder a applicationes e servicios sur iste apparato
@@ -201,8 +186,8 @@ permissions-site-localhost-disable-desc = Isto impedira a qualcunque sito web no
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = Parametros, apparatos de rete local
     .style = { permissions-window2.style }
+    .title = Parametros, apparatos de rete local
 permissions-site-local-network-desc = Iste sitos web ha requirite accesso a applicationes e servicios sur apparatos connexe a tu wi-fi o rete local. Tu pote eliger de permitter o blocar le sitos de facer isto.
 permissions-site-local-network-disable-label =
     .label = Blocar nove requestas de acceder a applicationes e servicios sur apparatos connexe a tu wi-fi o rete local.
@@ -211,8 +196,8 @@ permissions-site-local-network-disable-desc = Isto impedira a qualcunque sito we
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Parametros - permissiones del microphono
     .style = { permissions-window2.style }
+    .title = Parametros - permissiones del microphono
 permissions-site-microphone-desc = Le sequente sitos web ha requirite de acceder a tu microphono. Tu pote specificar le sitos web al qual es permittite de acceder a tu microphono. Tu pote alsi blocar nove requestas de acceder a tu microphono.
 permissions-site-microphone-disable-label =
     .label = Blocar nove requestas de acceder a tu microphono
@@ -223,12 +208,12 @@ permissions-site-microphone-disable-desc = Isto impedira qualcunque sitos web no
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Parametros - Permissiones del altoparlator
     .style = { permissions-window2.style }
+    .title = Parametros - Permissiones del altoparlator
 permissions-site-speaker-desc = Le sequente sitos web ha rogate seliger un dispositivo audio de exito. Tu pote specificar le sitos web cuje es permittite seliger un dispositivo audio de exito,
 permissions-exceptions-doh-window =
-    .title = Exceptiones de sito web pro DNS sur HTTPS
     .style = { permissions-window2.style }
+    .title = Exceptiones de sito web pro DNS sur HTTPS
 permissions-exceptions-manage-doh-desc = { -brand-short-name } non usara le DNS secur sur iste sitos e lor sub-dominios.
 permissions-doh-entry-field = Insere le nomine de dominio del sito web
     .accesskey = d

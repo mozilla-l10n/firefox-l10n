@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] نمایش در Finder
            *[other] نمایش در پوشه
         }
-downloads-cmd-show-downloads =
-    .label = باز کردن پوشه بارگیری‌ها
 downloads-cmd-retry =
     .tooltiptext = کوشش دوباره
 downloads-cmd-retry-panel =

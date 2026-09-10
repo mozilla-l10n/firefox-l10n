@@ -10,7 +10,6 @@ neterror-page-title = صفحئ لوڈ كرنس منز دقت
 ## Error page actions
 
 neterror-learn-more-link = مزید  زٲنیو۔ ۔ ۔
-neterror-try-again-button = دوبارئ كریو كوشش
 
 ##
 
@@ -18,8 +17,6 @@ neterror-file-not-found-filename = چک کْریو فایل ناو کیپٹیل�
 neterror-file-not-found-moved = چک کْریو وچھنْہ باپت ذِ فایل چھاہ مو کرنْہ آمْژ، دوبار نام دِنْہ آمْژ یا ڈیلیٹ کرنْہ آمْژ
 neterror-unknown-protocol = توہیہ ما پْیہ ضرورت بدل سافٹ وْیر انسٹال کرُن یہ پتاہ اوپْن کرنْہ باپت۔
 neterror-redirect-loop = یہ پرابلیم ہیکِہ کونِہ سات گْژھیتھ ڈیسیبْل کرنْہ سْیت یا انکار کرنْہ سْیت قبول کرنْہ سْیتThis problem can sometimes be caused by disabling or refusing to accept کوکی۔
-neterror-unknown-socket-type-psm-installed = چک کْریو یقینی بناونْہ باپت ذِ تُہندس سسٹمس چُھ ذأتی حفاظتی منیجر انسٹال کْرتھ۔
-neterror-unknown-socket-type-server-config = یہ ہیکِہ أسِتھ أکس غیر۔معیأری کنفیگریشن سْیت سْرورس پیٹھ۔
 neterror-not-cached-intro = مطلوب دستاویز چُھ نْہ دستیاب برانڈ شاٹ ناو؛ کیشے منز۔
 neterror-not-cached-sensitive = بطور اکھ حفاظتی احتیاط، برانڈ شاٹ ناو؛ چُھ نْہ آٹومیٹیکلی دوبار درخواست کران حساھ دستاویز۔
 neterror-not-cached-try-again = کْلک کْریو دوبار کْریو کوشش دوبار  درخواست کرنْہ باپت دستاویز ویب سایٹِہ پیٹھ۔

@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = ສ່ວນຂະຫຍາຍບໍ່ສາມາດອ່ານ ແລະ ປ່ຽນແປງຂໍ້ມູນໄດ້
-origin-controls-quarantined =
-    .label = ສ່ວນຂະຫຍາຍບໍ່ອະນຸຍາດໃຫ້ອ່ານ ແລະ ປ່ຽນແປງຂໍ້ມູນ
 origin-controls-options =
     .label = ສ່ວນຂະຫຍາຍສາມາດອ່ານ ແລະ ປ່ຽນແປງຂໍ້ມູນໄດ້:
 origin-controls-option-all-domains =

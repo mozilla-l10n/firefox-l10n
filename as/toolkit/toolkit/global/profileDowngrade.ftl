@@ -3,5 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiledowngrade-window2 =
-    .title = আপুনি { -brand-product-name }-ৰ পুৰণি সংস্কৰণ ল'ঞ্চ কৰিছে
     .style = min-width: 490px;
+    .title = আপুনি { -brand-product-name }-ৰ পুৰণি সংস্কৰণ ল'ঞ্চ কৰিছে

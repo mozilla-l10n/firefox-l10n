@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Recular d’una pagina ({ $shortcut })
     .aria-label = Pagina precedenta
+    .tooltiptext = Recular d’una pagina ({ $shortcut })
     .accesskey = P
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Avançar d'una pagina ({ $shortcut })
     .aria-label = Pagina seguenta
+    .tooltiptext = Avançar d'una pagina ({ $shortcut })
     .accesskey = s
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Apondre la pagina als marcapaginas…
-    .accesskey = m
     .tooltiptext = Apondre la pagina als marcapaginas
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Apondre la pagina als marcapaginas…
-    .accesskey = m
     .tooltiptext = Apondre la pagina als marcapaginas ({ $shortcut })
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = Modificar lo marcapagina…
-    .accesskey = o
     .tooltiptext = Modificar lo marcapagina
+    .accesskey = o
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Modificar lo marcapagina…
-    .accesskey = M
     .tooltiptext = Modificar lo marcapagina ({ $shortcut })
+    .accesskey = M
 main-context-menu-open-link =
     .label = Dobrir lo ligam
     .accesskey = o
@@ -145,9 +139,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Enregistrar la cibla del ligam jos…
     .accesskey = E
-main-context-menu-save-link-to-pocket =
-    .label = Enregistrar lo ligam dins { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -285,40 +276,22 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Enviar lo fichièr àudio per corrièl…
     .accesskey = d
-main-context-menu-save-to-pocket =
-    .label = Enregistrar la pagina dins { -pocket-brand-name }
-    .accesskey = n
-main-context-menu-send-to-device =
-    .label = Enviar la pagina al periferic
-    .accesskey = v
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Utilizar identificant salvat
-    .accesskey = U
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Utilizar senhal salvat
     .accesskey = U
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Utilizar un àlias { -relay-brand-short-name }
     .accesskey = U
 main-context-menu-suggest-strong-password =
     .label = Suggerir un senhal fòrt…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = Gerir los identificants
-    .accesskey = G
 main-context-menu-manage-passwords =
     .label = Gestion dels senhals
     .accesskey = G
-main-context-menu-keyword =
-    .label = Apondre un mot clau per aquesta recèrca…
-    .accesskey = c
 main-context-menu-add-engine =
     .label = Apondre lo motor de recèrca
     .accesskey = A
@@ -362,9 +335,6 @@ main-context-menu-view-selection-source =
     .label = Còdi font de la seleccion
     .accesskey = e
 main-context-menu-take-screenshot =
-    .label = Prendre una captura d’ecran
-    .accesskey = P
-main-context-menu-take-frame-screenshot =
     .label = Prendre una captura d’ecran
     .accesskey = P
 main-context-menu-view-page-source =

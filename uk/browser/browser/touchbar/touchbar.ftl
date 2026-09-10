@@ -31,4 +31,3 @@ search-bookmarks = Закладках
 search-history = Історії
 search-opentabs = Відкритих вкладках
 search-tags = Мітках
-search-titles = Заголовках

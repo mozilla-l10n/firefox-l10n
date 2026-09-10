@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Vòstre motor de recèrca per defaut es estat modificat.</strong> { $oldEngine } es pas mai disponible coma motor de recèrca per defaut dins { -brand-short-name }. D’ara enlà, { $newEngine } lo remplaça. Per cambiar lo motor de recèrca per defaut, anatz als paramètres. <label data-l10n-name="remove-search-engine-article">Ne saber mai</label>
 removed-search-engine-message2 = <strong>Vòstre motor de recèrca per defaut es estat modificat.</strong> { $oldEngine } es pas mai disponible coma motor de recèrca per defaut dins { -brand-short-name }. D’ara enlà, { $newEngine } lo remplaça. Per cambiar lo motor de recèrca per defaut, anatz als paramètres.
 remove-search-engine-button = D'acòrdi
 
@@ -45,7 +44,7 @@ install-search-engine-no = Non
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = Apondre un motor de recèrca
     .style = min-width: 32em;
+    .title = Apondre un motor de recèrca
 add-engine-button = Apondre motor personalizat
 add-engine-name = Nom del motor de recèrca

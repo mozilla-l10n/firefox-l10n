@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Terug
 neterror-return-to-previous-page-recommended-button = Teruggaan (Aanbevolen)
 neterror-try-again-button-2 = Opnieuw proberen
     .accesskey = w
-neterror-try-again-button = Opnieuw proberen
 neterror-add-exception-button = Altijd doorgaan voor deze website
 neterror-settings-button = DNS-instellingen wijzigen
 neterror-view-certificate-link = Certificaat bekijken
-neterror-trr-continue-this-time = Deze keer doorgaan
-neterror-disable-native-feedback-warning = Altijd doorgaan
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = Meer info
 ##
 
 neterror-pref-reset = Het lijkt erop dat dit door uw netwerkbeveiligingsinstellingen wordt veroorzaakt. Wilt u de standaardinstellingen herstellen?
-neterror-error-reporting-automatic = Fouten als deze rapporteren om { -vendor-short-name } te helpen kwaadwillende websites te herkennen en te blokkeren
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Verbreek de verbinding en verbin
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } kan uw aanvraag om het adres van deze website niet beschermen via onze vertrouwde DNS-resolver. Dit is de reden:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } kan uw aanvraag om het adres van deze website niet beschermen via onze veilige DNS-provider. Dit is de reden:
 neterror-dns-not-found-trr-third-party-warning2 = U kunt doorgaan met uw standaard DNS-resolver. Een derde partij kan echter mogelijk zien welke websites u bezoekt.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } kon geen verbinding maken met { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = De verbinding met { $trrDomain } duurde langer dan verwacht.
-neterror-dns-not-found-trr-offline = U bent niet verbonden met het internet.
 neterror-dns-not-found-trr-unknown-host2 = Deze website is niet gevonden door { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Er is een probleem met { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = Ongeldige URL.
 neterror-dns-not-found-system-sleep = Systeem bevindt zich in slaapmodus.
 neterror-dns-not-found-trr-unknown-problem = Onverwacht probleem.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } kan uw aanvraag om het adres van deze website niet beschermen via onze vertrouwde DNS-resolver. Dit is de reden:
-neterror-dns-not-found-native-fallback-heuristic = DNS over HTTPS is uitgeschakeld op uw netwerk.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } kon geen verbinding maken met { $trrDomain }.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = Het kan zijn verwijderd, verplaatst, of bestandsmachtig
 neterror-unknown-protocol = Misschien moet u andere software installeren om dit adres te openen.
 neterror-redirect-loop = Dit probleem kan soms worden veroorzaakt door het uitschakelen of weigeren van cookies.
 neterror-unknown-socket-type-client-config = Dit kan het gevolg zijn van een configuratiefout in uw client.
-neterror-unknown-socket-type-psm-installed = Zorg ervoor dat de persoonlijke beveiligingsbeheerder op uw systeem is geïnstalleerd.
-neterror-unknown-socket-type-server-config = Dit kan het gevolg zijn van een niet-standaard configuratie van de server.
 neterror-not-cached-intro = Het opgevraagde document is niet beschikbaar in de buffer van { -brand-short-name }.
 neterror-not-cached-sensitive = Als beveiligingsmaatregel vraagt { -brand-short-name } gevoelige documenten niet automatisch opnieuw op.
 neterror-not-cached-try-again = Klik op Opnieuw proberen om het document opnieuw van de website op te vragen.

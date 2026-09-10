@@ -6,15 +6,8 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = نواں ٹیب
-newtab-settings-button =
-    .title = اپݨے نویں ٹیب دے صفحہ دی تخصیص کرو
 newtab-settings-dialog-label =
     .aria-label = ترتیباں
-newtab-personalize-icon-label =
-    .aria-label = نویں ٹیب کوں ذاتی بݨاؤ
-    .title = نویں ٹیب کوں ذاتی بݨاؤ
-newtab-personalize-dialog-label =
-    .aria-label = ‏‏تخصیص کرو
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 
@@ -98,7 +91,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = ڳولݨ انجݨ دا اضافہ کرو
 newtab-topsites-add-shortcut-header = نواں شارٹ کٹ
-newtab-topsites-edit-topsites-header = بہترین سائٹ دی تدوین کرو
 newtab-topsites-edit-shortcut-header = شارٹ کٹ وِچ ترمیم کرو
 newtab-topsites-add-shortcut-label = شارٹ کٹ شامل کرو
 newtab-topsites-add-shortcut-title =
@@ -140,20 +132,12 @@ newtab-topsite-sponsored = سپانسر تھئے
 newtab-menu-section-tooltip =
     .aria-label = مینیو کھولو
     .title = مینیو کھولو
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = ہٹاؤ
-    .title = ہٹاؤ
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = { $title } کیتے کنٹیسکٹ مینیو کھولو
     .title = مینیو کھولو
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = ایں سائٹ دی تدوین کرو
-    .title = ایں سائٹ دی تدوین کرو
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -164,25 +148,9 @@ newtab-menu-dismiss = فارغ کرو
 newtab-menu-pin = پن
 newtab-menu-unpin = ان پن
 newtab-menu-delete-history = ہسٹری کنوں مٹاؤ
-newtab-menu-save-to-pocket = { -pocket-brand-name } تے ہتھیکڑا کرو
-newtab-menu-delete-pocket = { -pocket-brand-name } کنوں مٹاؤ
-newtab-menu-archive-pocket = { -pocket-brand-name } وِچ سوگھا کرو
 newtab-menu-show-privacy-info = ساݙے سپانسر تے تہاݙی رازداری
-newtab-menu-about-fakespot = { -fakespot-brand-name } بارے
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = ٻیا سِکھو
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = تھی ڳیا
-newtab-privacy-modal-button-manage = سپانسر شدہ مواد دیاں ترتیباں دا بندوبست کرو
-newtab-privacy-modal-header = تہاݙی رازداری دی اہمیت ہے۔
-newtab-privacy-modal-paragraph-2 =
-    دلفریب کہانیاں پیش کرݨ دے علاوہ، اساں تہاکوں متعلقہ وی ݙکھیندے ہیں،
-    منتخب سپائسرز دی طرفوں انتہائی جانچ شدہ مواد۔ یقین رکھو، <strong> تہاݙی براؤزنگ
-    ݙیٹا کݙاہیں وی { -brand-product-name }</strong> دی تہاݙی ذاتی کاپی نہیں چھوڑیندا — اساں اینکوں نہیں ݙیکھدے، تے اساݙے
-    سپانسرز وی کائنی۔
-newtab-privacy-modal-link = سکھو جو نویں ٹیب تے رازداری کیویں کم کریندی ہے
 
 ##
 
@@ -236,31 +204,12 @@ newtab-label-source-read-time = { $source } · { $timeToRead } min
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = سیکشن ہٹاؤ
-newtab-section-menu-collapse-section = سیکشن کوں سنگوڑو
-newtab-section-menu-expand-section = سیکشن کوں پھیلاؤ
-newtab-section-menu-manage-section = سیکشن دا بندوبست کرو
-newtab-section-menu-manage-webext = ایکسٹینشن دا بندوبست کرو
-newtab-section-menu-add-topsite = بہترین سائٹ شامل کرو
-newtab-section-menu-add-search-engine = ڳولݨ انجݨ شامل کرو
-newtab-section-menu-move-up = اُتے کرو
-newtab-section-menu-move-down = تلے کرو
 newtab-section-menu-privacy-notice = رازداری نوٹس
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = سیکش کوں سنگوڑو
-newtab-section-expand-section-label =
-    .aria-label = سیکش کوں پھیلاؤ
 
 ## Section Headers.
 
 newtab-section-header-topsites = بہترین سائٹس
 newtab-section-header-recent-activity = حالیہ سرگرمی
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } دی طرفوں تجویز کردہ
 newtab-section-header-stories = فکر انگیز کہاݨیاں
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = تہاݙے کیتے اڄ دیاں چوݨاں
@@ -268,10 +217,6 @@ newtab-section-header-todays-picks = تہاݙے کیتے اڄ دیاں چوݨا�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = برائوزنگ شروع کرو، تے اساں تہاکوں کجھ بہترین عبارتاں، وڈیوز تے حالیہ دورہ شددہ ٻئے صفحات یا بک مارک ݙکھیسوں۔
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = تساں وٹھی گھدا ہے۔ { $provider } کنوں ودھیک اہم خبراں کیتے بعد اِچ دوبارہ چیک کرو۔ انتظا نہیں سڳدے؟ ویب دے چودھاروں ودھیک عمدہ کہانیاں لبھݨ کیتے ہک مقبول موضوع منتخب کرو۔
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = تساں وٹھی ڳئے ہو۔ ٻیاں کہاݨیاں کیتے بعد اِچ دوبارہ چیک کرو۔ انتظار نہیں سڳدے؟ ویب دے چودھاروں ودھیک عمدہ کہانیاں لبھݨ کیتے ہک مقبول موضوع منتخب کرو۔
 
@@ -284,39 +229,6 @@ newtab-discovery-empty-section-topstories-loading = لوڈ تھیندا پئے۔
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = اوہو! اساں ایں حصے کوں لڳ بھڳ لوڈ کر ݙتا ہے، پر سالم کینا۔
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = مشہور مضامین:
-newtab-pocket-new-topics-title = ودھیک کہانیاں چاہندے او؟ { -pocket-brand-name } کنوں ایہ مقبول موضوعات ݙیکھو
-newtab-pocket-more-recommendations = ودھیک سفارشاں
-newtab-pocket-learn-more = ٻیا سِکھو
-newtab-pocket-cta-button = { -pocket-brand-name } گھنو
-newtab-pocket-cta-text = اپݨیاں من بھاندیاں کہانیاں { -pocket-brand-name } اِچ ہتھیکڑیاں کرو، تے شاندار پڑھݨ نال اپݨے چیتے کوں تکڑا کرو۔
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } حصہ ہے { -brand-product-name } ٹٻر دا
-newtab-pocket-save = محفوظ
-newtab-pocket-saved = محفوظ تھیا
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = ایہو جیہے ٻئے
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = میݙے کیتے کائنی
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = شکریہ،  تہاݙی فیڈبیک تہاݙی فیڈ کوں چنگا بݨاوݨ کیتے ساݙی مدد کریسی۔
-newtab-toast-dismiss-button =
-    .aria-label = فارغ کرو
-    .title = فارغ کرو
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = ویب وچوں بہترین دریافت کرو
-newtab-pocket-onboarding-cta = { -pocket-brand-name } تہاݙے { -brand-product-name } براؤزر تے سب کنوں ودھ معلوماتی، متاثر کن، تے قابل اعتماد مواد گھن آوݨ کیتے اشاعتاں دی متنوع رینج کوں پھلوریندا ہے۔
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -325,8 +237,6 @@ newtab-error-fallback-refresh-link = ولدا کوشش کرݨ کیتے ورقے 
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = شارٹ کٹ
-newtab-custom-shortcuts-subtitle = سائٹاں جہڑیاں تساں محفوظ کریندے یا ݙیہدے ہو
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = سائٹاں جہڑیاں تساں محفوظ کریندے یا ݙیہدے ہو
@@ -342,30 +252,15 @@ newtab-custom-row-selector2 =
             [one] { $num } قطار
            *[other] { $num } قطاراں
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } قطار
-       *[other] { $num } قطاراں
-    }
-newtab-custom-sponsored-sites = سپانسر تھئے شارٹ کٹ
-newtab-custom-pocket-title = { -pocket-brand-name } دی طرفوں سفارش کیتے ڳئے
-newtab-custom-pocket-subtitle = { -pocket-brand-name } دے ذریعے تیار تھئے غیر معمولی مواد، { -brand-product-name } ٹٻر دا حصہ
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = { -brand-product-name }ٹَٻَّر دے ذریعے تیار کردہ غیر معمولی مواد
     .label = تجویز کردہ کہاݨیاں
 newtab-recommended-stories-toggle =
     .label = تجویز کردہ کہاݨیاں
-newtab-custom-pocket-sponsored = سپانسر تھیاں کہاݨیاں
-newtab-custom-pocket-show-recent-saves = حالیہ ہتھیکڑیاں ظاہر کرو
-newtab-custom-recent-title = حالیہ سرگرمی
-newtab-custom-recent-subtitle = حالیہ سائٹاں تے مواد دی ہک چوݨ
 newtab-custom-weather-toggle =
     .description = اڄ دی پیش گوئی تے ہک نظر
     .label = موسم
-newtab-custom-close-button = بند کرو
 newtab-custom-settings = ودھیک ترتیباں دا بندوبست کرو
 
 ## New Tab Wallpapers
@@ -447,10 +342,6 @@ feature-highlight-wallpaper =
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = { $provider } وچ پیش گوئی ݙیکھو
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙سپانسر تھیا
 newtab-weather-menu-change-location = مقام وٹاؤ
 newtab-weather-change-location-search-input-placeholder =
@@ -469,7 +360,6 @@ newtab-weather-menu-temperature-option-fahrenheit = فارن ہائیٹ
 newtab-weather-menu-temperature-option-celsius = سیلسیس
 newtab-weather-menu-change-temperature-units-fahrenheit = فارن ہائٹ  تے سوئچ کرو
 newtab-weather-menu-change-temperature-units-celsius = سینٹی گریڈ  تے سوئچ کرو
-newtab-weather-menu-hide-weather = نویں ٹیب تے موسم لکاؤ
 newtab-weather-menu-learn-more = ٻیا سِکھو
 # This message is shown if user is working offline
 newtab-weather-error-not-available = عیں ایں ویلے موسم ڈیٹا دستیاب کائنی۔

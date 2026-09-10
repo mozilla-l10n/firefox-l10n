@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Din standardsökmotor har ändrats.</strong> { $oldEngine } är inte längre tillgänglig som standardsökmotor i { -brand-short-name }. { $newEngine } är nu din standardsökmotor. För att byta till en annan standardsökmotor, gå till inställningar. <label data-l10n-name="remove-search-engine-article">Läs mer</label>
 removed-search-engine-message2 = <strong>Din standardsökmotor har ändrats.</strong> { $oldEngine } är inte längre tillgänglig som standardsökmotor i { -brand-short-name }. { $newEngine } är nu din standardsökmotor. För att byta till en annan standardsökmotor, gå till inställningar.
 remove-search-engine-button = Ok
 
@@ -52,11 +51,11 @@ install-search-engine-no = Nej
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Lägg till sökmotor
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Redigera sökmotor
     .style = min-width: 32em;
+    .title = Redigera sökmotor
 add-engine-button = Lägg till anpassad sökmotor
 add-engine-name = Sökmotorns namn
 add-engine-url2 = Webbadress med %s istället för sökord
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Försök inkludera %s istället för sökte
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Lägg till sökmotor
-    .buttonaccesskeyaccept = L
     .buttonlabelextra1 = Avancerat
+    .buttonaccesskeyaccept = L
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Spara sökmotor
-    .buttonaccesskeyaccept = S
     .buttonlabelextra1 = Avancerat
+    .buttonaccesskeyaccept = S

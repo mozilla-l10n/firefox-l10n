@@ -31,4 +31,3 @@ search-bookmarks = Techaukaha
 search-history = Tembiasakue
 search-opentabs = Tendayke ijurujáva
 search-tags = Teramoĩ
-search-titles = Teratee

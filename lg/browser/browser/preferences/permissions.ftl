@@ -43,10 +43,6 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = Erinnya ry`omukyaaza eriyingizindwa tteririyo
 permissions-invalid-uri-label = Tukusaba oyingize erinnya ry'omukyaaza erituffu
 
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-desc = Oyinza okulondamu ebibanja ebikirizibbwa okugulawo obudirisa obweraga bwoka. Wandika engagiriro entuffu eyekyapa kyoyagala oku kkiriza bwomala okoone ku Kukkiriza.
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Oyinza okulondamu ebibanja ebikkirizibwa okutekamu ebituusa. Wandika endagiriro entuffu eyomuko gwoyagala okukiriza bwo mala okoone ku Kkiriza.

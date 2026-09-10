@@ -26,21 +26,6 @@ webrtc-sharing-menu =
     .label = टेब शेयारिं डिभाइस
     .accesskey = d
 
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = नोंथांनि केमेरा आरो माइक्र'फनआ शेयार खालामजागासिनो दं। दबथायनाय शेयारिंखौ क्लिक खालाम।
-webrtc-indicator-sharing-camera =
-    .tooltiptext = नोंथांनि केमेरा आरो माइक्र'फनआ शेयार खालामजागासिनो दं। दबथायनाय शेयारिंखौ क्लिक खालाम।
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = नोंथांनि माइक्र'फनआ शेयार खालामजागासिनो दं। दबथायनाय शेयारिंखौ क्लिक खालाम।
-webrtc-indicator-sharing-application =
-    .tooltiptext = एप्लिकेसनआ शेयार खालामजागासिनो दं। दबथायनाय शेयारिंखौ क्लिक खालाम।
-webrtc-indicator-sharing-screen =
-    .tooltiptext = नोंथांनि स्क्रिनआ शेयार खालामजागासिनो दं। दबथायनाय शेयारिंखौ क्लिक खालाम।
-webrtc-indicator-sharing-window =
-    .tooltiptext = मोनसे उइन्ड'आ शेयार खालामजागासिनो दं। दबथायनाय शेयारिंखौ क्लिक खालाम।
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
@@ -96,7 +81,6 @@ webrtc-indicator-menuitem-sharing-browser-with =
 
 ##
 
-webrtc-share-screen-learn-more = गोबां सोलों
 webrtc-share-entire-screen = गासै स्क्रिन
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).

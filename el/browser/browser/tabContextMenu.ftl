@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Νέα καρτέλα
-    .accesskey = κ
 reload-tab =
     .label = Ανανέωση καρτέλας
     .accesskey = Α
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Νέα ομάδα
     .accesskey = ο
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -198,13 +191,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Δημιουργία κοινόχρηστου συνδέσμου
     .accesskey = μ
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Αποστολή καρτέλας σε συσκευή
-           *[other] Αποστολή { $tabCount } καρτελών σε συσκευή
-        }
-    .accesskey = π
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

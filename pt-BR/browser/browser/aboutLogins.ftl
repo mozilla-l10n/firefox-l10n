@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Contas e senhas
-about-logins-login-filter =
-    .placeholder = Pesquisar contas
-    .key = F
-create-new-login-button =
-    .title = Criar nova conta
 about-logins-page-title-name = Senhas
 about-logins-login-filter2 =
-    .placeholder = Pesquisar senhas
     .key = F
+    .placeholder = Pesquisar senhas
 create-login-button =
     .title = Adicionar senha
 fxaccounts-sign-in-text = Tenha suas senhas em outros dispositivos
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importar de outro navegador…
 about-logins-menu-menuitem-import-from-a-file = Importar de um arquivo…
-about-logins-menu-menuitem-export-logins = Exportar contas…
-about-logins-menu-menuitem-remove-all-logins = Remover todas as contas…
 about-logins-menu-menuitem-export-logins2 = Exportar senhas…
 about-logins-menu-menuitem-remove-all-logins2 = Remover todas as senhas…
 menu-menuitem-preferences =
@@ -42,21 +34,6 @@ about-logins-menu-menuitem-help = Ajuda
 
 login-list =
     .aria-label = Contas que correspondem à consulta
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } conta
-       *[other] { $count } contas
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $count } de { $total } conta
-       *[other] { $count } de { $total } contas
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -80,14 +57,10 @@ login-list-username-reverse-option = Nome de usuário (Z-A)
 about-logins-login-list-alerts-option = Alertas
 login-list-last-changed-option = Última modificação
 login-list-last-used-option = Último uso
-login-list-intro-title = Nenhuma conta encontrada
 login-list-intro-title2 = Nenhuma senha salva
 login-list-intro-description = Quando você salva uma senha no { -brand-product-name }, ela aparece aqui.
-about-logins-login-list-empty-search-title = Nenhuma conta encontrada
 about-logins-login-list-empty-search-title2 = Nenhuma senha encontrada
 about-logins-login-list-empty-search-description = Nenhum resultado corresponde à sua busca.
-login-list-item-title-new-login = Nova conta
-login-list-item-subtitle-new-login = Informe as credenciais da sua conta
 login-list-item-title-new-login2 = Adicionar senha
 login-list-item-subtitle-missing-username = (sem nome de usuário)
 about-logins-list-item-breach-icon =
@@ -103,28 +76,20 @@ about-logins-list-section-week = Últimos 7 dias
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Procurando suas contas salvas? Ative a sincronização ou importe.
-about-logins-login-intro-heading-logged-in = Nenhuma conta sincronizada foi encontrada.
-login-intro-description = Se você salvou suas contas no { -brand-product-name } em outro dispositivo, veja como tê-las aqui:
-login-intro-instructions-fxa = Crie ou entre na sua { -fxaccount-brand-name } no dispositivo onde suas contas estão salvas.
 about-logins-login-intro-heading-message = Salve suas senhas em um local seguro
 login-intro-description2 = Todas as senhas que você salva no { -brand-product-name } são criptografadas. Além disso, estamos atentos a vazamentos de dados e alertamos você caso seja afetado. <a data-l10n-name="breach-alert-link">Saiba mais</a>
 login-intro-instructions-fxa2 = Crie ou entre na sua conta no dispositivo onde suas contas estão salvas.
 login-intro-instructions-fxa-settings = Vá em Configurações > Sincronização > Ativar sincronização… Selecione a opção de contas e senhas.
 login-intro-instructions-fxa-passwords-help = Visite o <a data-l10n-name="passwords-help-link">suporte a senhas</a> para obter mais ajuda.
-about-logins-intro-browser-only-import = Se suas contas estão salvas em outro navegador, você pode <a data-l10n-name="import-link">importar no { -brand-product-name }</a>
-about-logins-intro-import2 = Se suas contas foram salvas fora do { -brand-product-name }, você pode <a data-l10n-name="import-browser-link">importar de outro navegador</a> ou <a data-l10n-name="import-file-link">de um arquivo</a>
 about-logins-intro-import3 = Selecione acima o botão de sinal de mais para adicionar uma senha agora. Você também pode <a data-l10n-name="import-browser-link">importar senhas de outro navegador</a> ou <a data-l10n-name="import-file-link">de um arquivo</a>.
 
 ## Login
 
-login-item-new-login-title = Criar nova conta
 # Header for adding a password
 about-logins-login-item-new-login-title = Adicionar senha
 login-item-edit-button = Editar
 about-logins-login-item-remove-button = Remover
 login-item-origin-label = Endereço do site
-login-item-tooltip-message = Certifique-se de que corresponde ao endereço exato do site onde você acessou a conta.
 about-logins-origin-tooltip2 = Insira o endereço completo. Certifique-se de corresponder exatamente à página onde você entra na conta do site.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -144,7 +109,6 @@ login-item-password-conceal-checkbox =
     .aria-label = Ocultar senha
 login-item-copy-password-button-text = Copiar
 login-item-copied-password-button-text = Copiado!
-login-item-save-changes-button = Salvar alterações
 about-logins-login-item-save-changes-button = Salvar
 login-item-save-new-button = Salvar
 login-item-cancel-button = Cancelar
@@ -168,11 +132,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Para editar a conta, insira suas credenciais de acesso ao Windows. Isso ajuda a proteger a segurança de suas contas.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = editar a conta salva
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -196,11 +155,6 @@ about-logins-copy-password-os-auth-dialog-message-win = Para copiar a senha, ins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiar a senha salva
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Para exportar suas contas, insira suas credenciais de acesso ao Windows. Isso ajuda a proteger a segurança de suas contas.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = exportar contas e senhas salvas
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = Para exportar suas senhas, insira suas credenciais de acesso ao Windows. Isso ajuda a proteger a segurança de suas contas.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -218,8 +172,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Cancelar
 confirmation-dialog-dismiss-button =
     .title = Cancelar
-about-logins-confirm-remove-dialog-title = Remover esta conta?
-confirm-delete-dialog-message = Esta ação não pode ser desfeita.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Remover senha?
 # Message for modal to confirm the removal of one saved password
@@ -234,34 +186,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] Remover
         [one] Remover
        *[other] Remover tudo
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] Sim, remover esta conta
-        [one] Sim, remover esta conta
-       *[other] Sim, remover estas contas
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] Remover { $count } conta?
-       *[other] Remover todas as { $count } contas?
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] Será removida a conta que você salvou no { -brand-short-name } e quaisquer alertas de vazamento que aparecem aqui. Você não pode desfazer esta ação.
-        [one] Será removida a conta que você salvou no { -brand-short-name } e quaisquer alertas de vazamento que aparecem aqui. Você não pode desfazer esta ação.
-       *[other] Serão removidas as contas que você salvou no { -brand-short-name } e quaisquer alertas de vazamento que aparecem aqui. Você não pode desfazer esta ação.
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] Remover { $count } conta de todos os dispositivos?
-       *[other] Remover todas as { $count } contas de todos os dispositivos?
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [1] Será removida a conta que você salvou no { -brand-short-name } em todos os dispositivos sincronizados com sua { -fxaccount-brand-name }. Também serão removidos alertas de vazamento que aparecem aqui. Você não pode desfazer esta ação.
-        [one] Será removida a conta que você salvou no { -brand-short-name } em todos os dispositivos sincronizados com sua { -fxaccount-brand-name }. Também serão removidos alertas de vazamento que aparecem aqui. Você não pode desfazer esta ação.
-       *[other] Serão removidas todos as contas que você salvou no { -brand-short-name } em todos os dispositivos sincronizados com sua { -fxaccount-brand-name }. Também serão removidos alertas de vazamento que aparecem aqui. Você não pode desfazer esta ação.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -299,15 +223,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = Exportar contas e senhas
-about-logins-confirm-export-dialog-message = Suas senhas serão salvas em texto legível (exemplo, Senh@Ruim123), qualquer pessoa que consiga abrir o arquivo exportado poderá ver.
-about-logins-confirm-export-dialog-confirm-button = Exportar…
 about-logins-confirm-export-dialog-title2 = Observação sobre exportação de senhas
 about-logins-confirm-export-dialog-message2 =
     Ao exportar, suas senhas são salvas em um arquivo em texto legível.
     Quando terminar de usar o arquivo, recomendamos apagar para que outras pessoas que usam este dispositivo não possam ver suas senhas.
 about-logins-confirm-export-dialog-confirm-button2 = Continuar a exportação
-about-logins-alert-import-title = Importação concluída
 about-logins-alert-import-message = Ver resumo detalhado da importação
 confirm-discard-changes-dialog-title = Descartar alterações não salvas?
 confirm-discard-changes-dialog-message = Todas as alterações não salvas serão perdidas.
@@ -344,11 +264,6 @@ about-logins-error-message-default = Ocorreu um erro ao tentar salvar esta senha
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Exportar arquivo de contas
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = contas.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = Exportar senhas do { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -364,8 +279,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = Importar arquivo de contas
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = Importar senhas para o { -brand-short-name }
 about-logins-import-file-picker-import-button = Importar
@@ -389,21 +302,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Importação concluída
-about-logins-import-dialog-items-added =
-    { $count ->
-        [one] <span>Nova conta adicionada:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Novas contas adicionadas:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-        [one] <span>Conta existente atualizada:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Contas existentes atualizadas:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-        [one] <span>Conta duplicada encontrada:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(não importada)</span>
-       *[other] <span>Contas duplicadas encontradas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(não importadas)</span>
-    }
 about-logins-import-dialog-items-added2 =
     { $count ->
         [one] <span>Nova senha adicionada:</span> <span data-l10n-name="count">{ $count }</span>
@@ -439,15 +337,11 @@ about-logins-import-dialog-error-learn-more = Saiba mais
 about-logins-import-dialog-error-try-import-again = Tentar importar novamente…
 about-logins-import-dialog-error-cancel = Cancelar
 about-logins-import-report-title = Resumo da importação
-about-logins-import-report-description = Contas e senhas importadas para o { -brand-short-name }.
 about-logins-import-report-description2 = Senhas importadas para o { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Linha { $number }
-about-logins-import-report-row-description-no-change = Duplicado: Corresponde exatamente a uma conta já existente
-about-logins-import-report-row-description-modified = Conta existente atualizada
-about-logins-import-report-row-description-added = Nova conta adicionada
 about-logins-import-report-row-description-no-change2 = Duplicado: Corresponde exatamente a um item já existente
 about-logins-import-report-row-description-modified2 = Item existente atualizado
 about-logins-import-report-row-description-added2 = Nova senha adicionada
@@ -464,21 +358,6 @@ about-logins-import-report-row-description-error-missing-field = Erro: Falta { $
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nova conta adicionada</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Novas contas adicionadas</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Conta existente atualizada</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Contas existentes atualizadas</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Conta duplicada</div> <div data-l10n-name="not-imported">(não importada)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Contas duplicadas</div> <div data-l10n-name="not-imported">(não importadas)</div>
-    }
 about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nova senha adicionada</div>

@@ -45,7 +45,6 @@ newtab-search-box-search-button =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = नागिरनाय इन्जिनखौ दाजाबदेर
-newtab-topsites-edit-topsites-header = गिबि साइटखौ सुजु
 newtab-topsites-title-label = बिमुं
 newtab-topsites-title-input =
     .placeholder = मोनसे बिमुं हो
@@ -71,10 +70,6 @@ newtab-confirm-delete-history-p2 = बे हाबाखौ मावनो ह
 newtab-menu-section-tooltip =
     .aria-label = मेनु खेव
     .title = मेनु खेव
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = बे साइटखौ सुजु
-    .title = बे साइटखौ सुजु
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -85,12 +80,6 @@ newtab-menu-dismiss = फोजोब
 newtab-menu-pin = पिन खालाम
 newtab-menu-unpin = आनपिन
 newtab-menu-delete-history = जारिमिन निफ्राय खोमोर
-newtab-menu-save-to-pocket = { -pocket-brand-name } आव थिना दोन
-newtab-menu-delete-pocket = { -pocket-brand-name } निफ्राय खोमोर
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = जाखांबाइ
 
 ##
 
@@ -131,25 +120,13 @@ newtab-label-download = डाउनल'ड खालामबाय
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = खोन्दो बोखार
-newtab-section-menu-add-topsite = गिबि साइट आव दाजाब
-newtab-section-menu-add-search-engine = नागिरनाय इन्जिनखौ दाजाबदेर
-newtab-section-menu-move-up = गोजौआव लाबो
-newtab-section-menu-move-down = गाहायाव लाबो
 newtab-section-menu-privacy-notice = गुमुरथि मिथिसारहोनाय
 
 ## Section Headers.
 
 newtab-section-header-topsites = गिबि साइटफोर
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } आ बसोन होनाइ
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-try-again-button = फिन नाजा
 newtab-discovery-empty-section-topstories-loading = ल'ड खालाम गासिनो दं...
-
-## Pocket Content Section.
-
-newtab-pocket-cta-button = { -pocket-brand-name } ला

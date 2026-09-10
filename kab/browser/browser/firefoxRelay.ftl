@@ -13,7 +13,6 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ur yezmir ara ad
 
 ##
 
-firefox-relay-must-login-to-fxa = Ilaq ad teqqneḍ ɣer{ -fxaccount-brand-name } akken ad tesqedceḍ { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = Sefrek igelmusen
     .accesskey = g
@@ -24,8 +23,6 @@ firefox-relay-opt-in-title-1 = Mmesten tansa-k n yimayl:
 firefox-relay-opt-in-subtitle-1 = Seqdec ugelmus n yimayl n { -relay-brand-name }
 firefox-relay-use-mask-title-1 = Seqdec agelmus n yimayl
 firefox-relay-use-mask-title = Seqdec ugelmus n yimayl n { -relay-brand-name }
-# This is preceded by firefox-relay-opt-in-title-a (on a different line)
-firefox-relay-opt-in-subtitle-a = Ffer tansa-k⋅m n yimayl n tidet
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
 firefox-relay-opt-in-title-b = Awi agelmus n yimayl n baṭel
 # This is preceded by firefox-relay-opt-in-title-b (on a different line)
@@ -39,12 +36,6 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Mačči tura
     .accesskey = M
-firefox-relay-and-fxa-opt-in-confirmation-enable-button =
-    .label = Qqen ɣer { -brand-product-name }, tesqedceḍ agzlmus
-    .accesskey = Q
-firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
-    .label = Jerred
-    .accesskey = J
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = Ur yi-d-skan ara aya tikelt-nniḍen
     .accesskey = U
@@ -52,18 +43,9 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = Mačči tura
     .accesskey = M
 
-## The "basic-info" variation of the Relay offer popup
-
-firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
-    .label = Jerred
-    .accesskey = J
-
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = Awi agelmus n yimayl n baṭel
-firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
-    .label = Jerred
-    .accesskey = J
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 

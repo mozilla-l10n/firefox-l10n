@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Nuu kajie´e sesión ji contraseñas
-about-logins-login-filter =
-    .placeholder = Nánuku nuu kajieé sesión
-    .key = F
-create-new-login-button =
-    .title = Sá´á jíía nuu kajie´e sesión
 about-logins-page-title-name = Contraseñas
 about-logins-login-filter2 =
-    .placeholder = Nánuku Contraseñas
     .key = F
+    .placeholder = Nánuku Contraseñas
 create-login-button =
     .title = Tee contraseña
 fxaccounts-sign-in-text = Ni´i da contraseñas nuu inka ka̱a̱
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Nake'ema ji inka ka̱a̱ nánuku
 about-logins-menu-menuitem-import-from-a-file = Nasia´a ji iin archivo…
-about-logins-menu-menuitem-export-logins = Kuiso da nuu kajie'e sesión...
-about-logins-menu-menuitem-remove-all-logins = Xita kuaiyo nu kajie´e sesión...
 about-logins-menu-menuitem-remove-all-logins2 = Xina kuaiyo da contraseñas...
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -41,12 +33,6 @@ about-logins-menu-menuitem-help = Chinei
 
 login-list =
     .aria-label = Nuu kajie´e sesión a íyo inu ji a nánukunu
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-       *[other] { $count }Nuu kajie´e sesión
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -62,14 +48,10 @@ login-list-username-reverse-option = Sivɨ ñɨvɨ (Z-A)
 about-logins-login-list-alerts-option = Alertas
 login-list-last-changed-option = Nuu nɨ'ɨ a nsama
 login-list-last-used-option = Nni´i nuu nɨ´ɨ
-login-list-intro-title = Ntu nani´i nuu kajie´e sesión
 login-list-intro-title2 = Ntu íyo contraseñas nchuva'a
 login-list-intro-description = Saa chuva´anu iin contraseña nuu { -brand-product-name }, ya´a kutuvi.
-about-logins-login-list-empty-search-title = Ntu nani´i credenciales
 about-logins-login-list-empty-search-title2 = Ntu nnani'i contraseñas
 about-logins-login-list-empty-search-description = Ntu íyo tu´un ínu ji a nánukunu.
-login-list-item-title-new-login = A jíía inicio sesión
-login-list-item-subtitle-new-login = Chu´un credenciales noo´o a kajie´e sesión
 login-list-item-title-new-login2 = Tee contraseña
 login-list-item-subtitle-missing-username = (Na íyo sivɨ ñɨvɨ)
 about-logins-list-item-breach-icon =
@@ -85,17 +67,11 @@ about-logins-list-section-week = Uxa ki̱vɨ̱ ichi yata
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = ¿Nánuku da nu kajie'e sesión? Xitun sincronización a xiin kuisoma.
-about-logins-login-intro-heading-logged-in = Ntu nani´i nuu kajie´e sesión sincronizados.
-login-intro-description = De nchuva´anu da nuu kajie´e sesión { -brand-product-name } nuu inka ka̱a̱, ya´a kutuvi naja nani´inuma je suni:
-login-intro-instructions-fxa = Sá´á a xíín kajie´e sesión nuu { -fxaccount-brand-name } ji ka̱a̱ nuu nchuva´a sesión.
 about-logins-login-intro-heading-message = Chuva'a daa contraseñas noo'o nuu in nuu yu'u
 login-intro-instructions-fxa-passwords-help = Kune'ya <a data-l10n-name="passwords-help-link">a chinei noo'o jíí da contraseñas</a> saa kuvi chineidani.
-about-logins-intro-import2 = De credenciales noo'o nchuva'a chike'i { -brand-product-name }, kuvi <a data-l10n-name="import-browser-link"> kuisonuma ne nu inka ka̱a̱ nánuku </a> a xíín <a data-l10n-name="import-file-link"> inka archivo </a>
 
 ## Login
 
-login-item-new-login-title = Sá´á jíía nuu kajie´e sesión
 # Header for adding a password
 about-logins-login-item-new-login-title = Tee contraseña
 login-item-edit-button = Natee
@@ -113,7 +89,6 @@ login-item-password-reveal-checkbox =
     .aria-label = Xituvi contraseña
 login-item-copy-password-button-text = Tɨɨn
 login-item-copied-password-button-text = Ntɨɨn
-login-item-save-changes-button = Chuva´a nsama
 about-logins-login-item-save-changes-button = Chuva´a
 login-item-save-new-button = Chuva´a
 login-item-cancel-button = Nkuvi-ka
@@ -136,11 +111,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Sa kuvi natee nuu kajie'e sesión, chu'un credenciales nuu kajie'e sesión Windows. Ya'a chinei kumi seguridad nuu da cuentas noo'o.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = Natee nuu kajie'e sesión nchuva'a
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Sa kuvi kune'ya contraseña, chu'un credenciales noo'o nuu kajie'e sesión Windows. Ya'a chinei kumi seguridad nuu da cuentas noo'o.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -151,11 +121,6 @@ about-logins-copy-password-os-auth-dialog-message-win = Sa kuvi tɨɨ contraseñ
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = Tɨɨ contraseña nchuva'a
-# This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Sa kuvi kuiso nuu kajie'e sesión, chu'un credenciales nuu kajie'e sesión Windows. Ya'a chinei kumi seguridad nuu da cuentas noo'o.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = Kuiso da nuu kajie'e sesión ji contraseñas nchuva'a
 
 ## Primary Password notification
 
@@ -169,8 +134,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Nkuvi-ka
 confirmation-dialog-dismiss-button =
     .title = Nkuvi-ka
-about-logins-confirm-remove-dialog-title = Xina kajie´e sesión ya´a?
-confirm-delete-dialog-message = Ya´a nkuvi tanɨ.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = ¿Xina contraseña?
 about-logins-confirm-remove-dialog-confirm-button = Xita
@@ -183,26 +146,9 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] Xita
        *[other] Xita kuaiyo
     }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] Kuvi, xina nu kajie´e sesión ya´a
-       *[other] Kuvi, xina nu kajie´e sesión ya´a
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-       *[other] ¿Xina nu kajie´e sesión { $count }?
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-       *[other] ¿Xina { $count } nu kajie´e sesión ntaka da ka̱a̱?
-    }
 
 ##
 
-about-logins-confirm-export-dialog-title = Kuiso da nuu kajie'e sesión ji contraseñas
-about-logins-confirm-export-dialog-message = Da contraseñas noo´o nchuva´a kua tu'un (kua,  BadP@ssw0rd) je de íyo neva síne archvio kuvi kutuvi.
-about-logins-confirm-export-dialog-confirm-button = Exportar…
-about-logins-alert-import-title = Nnɨ'ɨ nasia´a
 about-logins-alert-import-message = Kune'ya resumen da a nnasia'a
 confirm-discard-changes-dialog-title = ¿Xita nsama ntu nchuva´a?
 confirm-discard-changes-dialog-message = Kuaiyo da nsama je ntu nchuva´a naa.
@@ -238,11 +184,6 @@ about-logins-error-message-default = Nkene iin error saa kuvinu chuva´anu contr
 
 ## Login Export Dialog
 
-# Title of the file picker dialog
-about-logins-export-file-picker-title = Kuiso archivo nuu kajie'e sesión
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = logins.csv
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename2 = passwords.csv
@@ -257,8 +198,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = Kuiso archivo nuu kajie'e sesión
 about-logins-import-file-picker-import-button = Nasia´a
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -280,15 +219,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Nnɨ'ɨ nasia´a
-about-logins-import-dialog-items-added =
-    { $count ->
-       *[other] <span>Ntee a jíía nuu kajie'e sesión:</span><span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-        [one] <span>Ntee a jíía nuu kajie´e sesión:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Ntee a jíía nuu kajie´e sesión: </span> <span data-l10n-name="count">{ $count }</span>
-    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importado)</span>
@@ -308,7 +238,6 @@ about-logins-import-report-title = Resumen de importación
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Fila { $number }
-about-logins-import-report-row-description-added = A jíía nu kajie'e sesión nte
 about-logins-import-report-row-description-error = Error: Kumani campo
 
 ##
@@ -321,11 +250,6 @@ about-logins-import-report-row-description-error-missing-field = Error: Kumani {
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">A jíía nuu kajie´e sesión nchiso</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">A jíía nuu kajie´e sesión nchiso</div>
-    }
 about-logins-import-report-error =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Errores</div> <div data-l10n-name="not-imported">(no importados)</div>

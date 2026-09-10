@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Indikator for deling
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Indikator for deling
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Du deler din mikrofon. Klik for at håndtere deling.
 webrtc-screen-system-menu =
     .label = Du deler et vindue eller en skærm. Klik for at håndtere deling.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Dit kamera og din mikrofon bliver delt. Klik for at kontrollere deling.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Dit kamera bliver delt. Klik for at kontrollere deling.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Din mikrofon bliver delt. Klik for at kontrollere deling.
-webrtc-indicator-sharing-application =
-    .tooltiptext = En applikation bliver delt. Klik for at kontrollere deling.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Din skærm bliver delt. Klik for at kontrollere deling.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Et vindue bliver delt. Klik for at kontrollere deling.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Et faneblad bliver delt. Klik for at kontrollere deling.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Tillad { $origin
 
 webrtc-share-screen-warning = Del kun din skærm med websteder, du stoler på. Deling kan gøre det muligt for vildledende websteder at stjæle dine private data og foregive at være dig på internettet.
 webrtc-share-browser-warning = Del kun { -brand-short-name } med websteder, du stoler på. Deling kan gøre det muligt for vildledende websteder at stjæle dine private data og foregive at være dig på internettet.
-webrtc-share-screen-learn-more = Læs mere
 webrtc-pick-window-or-screen = Vælg vindue eller skærm
 webrtc-share-entire-screen = Hele skærmen
 webrtc-share-pipe-wire-portal = Brug operativsystemets indstillinger

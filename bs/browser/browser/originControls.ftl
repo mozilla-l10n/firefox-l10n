@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Ekstenzija ne može čitati i mijenjati podatke
-origin-controls-quarantined =
-    .label = Ekstenziji nije dozvoljeno čitanje i mijenjanje podataka
 origin-controls-quarantined-status =
     .label = Ekstenzija nije dozvoljena na ograničenim stranicama
 origin-controls-quarantined-allow =

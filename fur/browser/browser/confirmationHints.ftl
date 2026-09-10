@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Segnalazion inviade. Graciis!
-confirmation-hint-login-removed = Credenziâl gjavade!
 confirmation-hint-password-removed = Password gjavade!
 confirmation-hint-page-bookmarked = Salvât tai segnelibris
-confirmation-hint-password-saved = Password salvade!
 confirmation-hint-password-created = Password salvade
 confirmation-hint-password-updated = Password inzornade
 confirmation-hint-address-created = Direzion salvade

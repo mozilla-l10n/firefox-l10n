@@ -24,7 +24,6 @@ app-basics-profile-dir =
         [linux] ថត​​​ទម្រង់
        *[other] ថត​ទម្រង់
     }
-app-basics-enabled-plugins = កម្មវិធី​ជំនួយ​ដែល​បាន​បើក
 app-basics-build-config = ស្ថាបនា​ការ​កំណត់​រចនាសម្ព័ន្ធ
 app-basics-user-agent = ភ្នាក់ងារ​អ្នកប្រើ
 app-basics-memory-use = អង្គ​ចងចាំ​ដែល​ប្រើ

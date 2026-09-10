@@ -16,20 +16,9 @@ account-verify = Verifikasi { $email }
 account-send-to-all-devices-titlecase = Kirém keu mandum peukakah
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = Hana Peukakah Nyang Meuhubông
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = Meurunoe Cara Kirém Tab…
-# Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = Sambông Peukakah Laen…
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Akun Hana Meuvèripikasi
-account-send-tab-to-device-verify = Vèripikasi Akun Droëneuh…
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.

@@ -58,10 +58,6 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .title = Særa
 fxa-adoption-primary-button-label = Registrite
 
-## Protections panel
-
-cfr-protections-panel-link-text = Atre informaçioin
-
 ## What's New toolbar button and panel
 
 # This string is used by screen readers to offer a text based alternative for
@@ -99,22 +95,6 @@ cfr-doorhanger-video-support-primary-button = Agiorna òua
 
 spotlight-public-wifi-vpn-link = Oua No
     .accesskey = N
-
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Preuvilo
-    .accesskey = P
-firefoxview-cfr-secondarybutton = Oua no
-    .accesskey = n
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-secondarybutton = Sâta
-
-## Cookie Banner Handling CFR
-
-cfr-cbh-dismiss-button = Oua no
-    .accesskey = n
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 

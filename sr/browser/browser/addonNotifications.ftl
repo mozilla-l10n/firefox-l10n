@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Инсталирај
     .accesskey = И
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Овај сајт захтева приступ вашим MIDI (дигитално прочеље музичких инструмената) уређајима. Можете да омогућите приступ инсталирањем додатка.
 site-permission-install-first-prompt-midi-message = Овај захтев за приступ није нужно безбедан. Наставите само ако верујете овом сајту.
 site-permission-install-first-prompt-serial-header = Ова страница захтева приступ вашим серијским уређајима. Приступ уређајима може се омогућити инсталирањем додатка.
 site-permission-install-first-prompt-serial-message = Не гарантује се безбедност овог приступа. Наставите само ако верујете овој веб страници.
-
-##
-
-xpinstall-disabled-locked = Администратор система је онемогућио инсталацију софтвера.
 xpinstall-disabled-by-policy = Инсталирање програма је онемогућила ваша организација.
 xpinstall-disabled = Инсталација софтвера је тренутно онемогућена. Кликните на „Омогући” и покушајте поново.
 xpinstall-disabled-button =
     .label = Омогући
     .accesskey = О
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = Администратор система је блокирао додатак { $addonName } ({ $addonId }).
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Администратор вашег система је спречио овом сајту да тражи дозволу за инсталирање софтвера.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = Завршите инсталирање додатак�
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Уклонити { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Уклонити { $name } из { -brand-shorter-name }-а?
 addon-removal-button = Обриши
 addon-removal-abuse-report-checkbox = Пријави злоупотребу организацији { -vendor-short-name }
 # "it" refers to the local AI model that is paired to the AI feature
@@ -147,7 +130,5 @@ addon-local-install-no-addon-name-error-file-access = Додатак не мож
 addon-install-error-incompatible = { $addonName } не може да буде инсталиран, јер није компатибилан са { -brand-short-name } { $appVersion } верзијом.
 addon-install-error-hard-blocked = { $addonName } крши Mozilla-ине смернице и не може се инсталирати на { -brand-short-name }.
 addon-install-error-soft-blocked2 = { $addonName } је ограничен и не може се инсталирати на { -brand-short-name }.
-addon-install-error-blocklisted = { $addonName } не може да буде инсталиран, јер је велика вероватноћа да ће проузроковати нестабилност или проблеме за безбедношћу.
-addon-install-error-soft-blocked = { $addonName } крши Mozilla-ине смернице и не може се инсталирати на { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Не можете инсталирати { $addonName } као крајњи корисник, јер га може инсталирати само организација користећи смернице предузећа.

@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Bewarre adressen
 autofill-manage-addresses-list-header = Adressen
-autofill-manage-credit-cards-title = Bewarre creditcards
-autofill-manage-credit-cards-list-header = Creditcards
 autofill-manage-payment-methods-title = Bewarre betellingsmetoaden
 autofill-manage-cards-list-header = Kaarten
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = Menu iepenje
 address-capture-edit-address-link = Adres bewurkje
     .aria-label = Adres bewurkje
-address-capture-edit-address-button =
-    .aria-label = Adres bewurkje
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Adres tafoegje
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Adres bewurkje
-autofill-address-given-name = Foarnamme
-autofill-address-additional-name = Twadde namme
-autofill-address-family-name = Efternamme
 autofill-address-name = Namme
 autofill-address-organization = Organisaasje
 autofill-address-street-address = Adres
@@ -104,8 +97,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Nij adres tafoegje
 autofill-address-country = Lân of regio
 autofill-address-country-only = Lân
 autofill-address-tel = Telefoan
@@ -114,18 +105,6 @@ autofill-cancel-button = Annulearje
 autofill-save-button = Bewarje
 autofill-country-warning-message-2 = Formulieren automatysk ynfolje is allinnich foar bepaalde lannen beskikber.
 autofill-country-warning-message = Formulieren automatysk ynfolje is op dit stuit allinnich foar bepaalde lannen beskikber.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Nije creditcard tafoegje
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Creditcard bewurkje
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] creditcardynformaasje te toanen
-        [windows] { -brand-short-name } probearret creditcardgegevens te toanen. Befêstigje hjirûnder tagong ta dizze Windows-account.
-       *[other] { -brand-short-name } probearret creditcardgegevens te toanen.
-    }
 autofill-message-tooltip = Berjocht oer automatysk ynfoljen besjen
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Kaart tafoegje
@@ -207,15 +186,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = Nea paspoarten bewarje
     .accessKey = N
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

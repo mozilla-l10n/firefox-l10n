@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = { -vendor-short-name } کنوں ودھیک
 more-from-moz-category =
     .tooltiptext = { -vendor-short-name } کنوں ودھیک
 more-from-moz-subtitle = ٻئے { -vendor-short-name } پروڈکٹس ݙیکھوں جیڑھے نروئے انٹرنیٹ کوں سپورٹ کرݨ کیتے کم کریندے ہن۔
@@ -31,6 +30,5 @@ more-from-moz-firefox-relay-button = { -relay-brand-short-name } حاصل کرو
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = آپُوں آپ آپݨی بے نقاب ذاتی معلومات کوں وَلدا گِھن گِھنّو۔
 more-from-moz-mozilla-monitor-global-description = جہڑیلے تُہاݙا ڈیٹا خلاف ورزی تِھین٘دی پئی ہووے تاں چِتاوݨیاں گِھنّو۔
 more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } گھنو

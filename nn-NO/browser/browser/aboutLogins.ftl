@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Innloggingar og passord
-about-logins-login-filter =
-    .placeholder = Søk innloggingar
-    .key = F
-create-new-login-button =
-    .title = Opprett ny innlogging
 about-logins-page-title-name = Passord
 about-logins-login-filter2 =
-    .placeholder = Søk etter passord
     .key = F
+    .placeholder = Søk etter passord
 create-login-button =
     .title = Legg til passord
 fxaccounts-sign-in-text = Få passorda dine på dei andre einingane dine
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importer frå ein annan nettlesar…
 about-logins-menu-menuitem-import-from-a-file = Importer frå ei fil…
-about-logins-menu-menuitem-export-logins = Eksporter innloggingar…
-about-logins-menu-menuitem-remove-all-logins = Fjern alle innloggingar…
 about-logins-menu-menuitem-export-logins2 = Eksporter passord…
 about-logins-menu-menuitem-remove-all-logins2 = Slett alle passord…
 menu-menuitem-preferences =
@@ -42,21 +34,6 @@ about-logins-menu-menuitem-help = Hjelp
 
 login-list =
     .aria-label = Innloggingar som samsvarar med søket
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } innlogging
-       *[other] { $count } innloggingar
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $count } av { $total } innlogging
-       *[other] { $count } av { $total } innloggingar
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -80,14 +57,10 @@ login-list-username-reverse-option = Brukarnamn (Å-A)
 about-logins-login-list-alerts-option = Varsel
 login-list-last-changed-option = Sist endra
 login-list-last-used-option = Sist brukt
-login-list-intro-title = Fann ingen innloggingar
 login-list-intro-title2 = Ingen passord lagra
 login-list-intro-description = Når du lagrar eit passord i { -brand-product-name }, vil det visast her.
-about-logins-login-list-empty-search-title = Fann ingen innloggingar
 about-logins-login-list-empty-search-title2 = Fann ingen passord
 about-logins-login-list-empty-search-description = Ingen resultat passar med søket ditt.
-login-list-item-title-new-login = Ny innlogging
-login-list-item-subtitle-new-login = Skriv inn innloggingsopplysningar
 login-list-item-title-new-login2 = Legg til passord
 login-list-item-subtitle-missing-username = (ikkje noko brukarnamn)
 about-logins-list-item-breach-icon =
@@ -103,28 +76,20 @@ about-logins-list-section-week = Siste 7 dagar
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Ser du etter dei lagra innloggingane dine? Slå på synkronisering eller importer dei.
-about-logins-login-intro-heading-logged-in = Fann ingen synkroniserte innloggingar.
-login-intro-description = Slik kan du få { -brand-product-name }-innloggingane dine hit, om du har lagra dei på ei anna eining:
-login-intro-instructions-fxa = Lag eller logg inn på { -fxaccount-brand-name }en din på eininga der innloggingane dine er lagra.
 about-logins-login-intro-heading-message = Lagre passorda dine på ein trygg stad
 login-intro-description2 = Alle passorda du lagrar i { -brand-product-name } blir krypterte. I tillegg ser vi etter datalekkasjar, og varslar om det gjeld deg. <a data-l10n-name="breach-alert-link">Les meir</a>
 login-intro-instructions-fxa2 = Lag eller logg inn på kontoen din på eininga der innloggingane dine er lagra.
 login-intro-instructions-fxa-settings = Gå til Innstillingar > Synkronisering > Slå på synkronisering… Merk av for innloggingar og passord.
 login-intro-instructions-fxa-passwords-help = Besøk <a data-l10n-name="passwords-help-link">passordstøtte</a> for meir hjelp.
-about-logins-intro-browser-only-import = Dersom innloggingane dine er lagra i ein annan nettlesar, kan du <a data-l10n-name="import-link">importere dei til { -brand-product-name }</a>
-about-logins-intro-import2 = Dersom innloggingane dine er lagra utanfor { -brand-product-name }, kan du <a data-l10n-name="import-browser-link">importere dei frå ein annan nettlesar</a> eller <a data-l10n-name="import-file-link">frå ei fil</a>
 about-logins-intro-import3 = Vel plussteiknet ovanfor for å leggje til eit passord no. Du kan òg <a data-l10n-name="import-browser-link">importere passord frå ein annan nettlesar</a> eller <a data-l10n-name="import-file-link">frå ei fil</a>.
 
 ## Login
 
-login-item-new-login-title = Lag ny innlogging
 # Header for adding a password
 about-logins-login-item-new-login-title = Legg til passord
 login-item-edit-button = Rediger
 about-logins-login-item-remove-button = Fjern
 login-item-origin-label = Nettstadadresse
-login-item-tooltip-message = Forsikre deg om at dette samsvarar med den eksakte adressa til nettstaden der du logar inn.
 about-logins-origin-tooltip2 = Skriv inn heile adressa og sørg for at ho stemmer nøyaktig overeins med kvar du loggar på.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -144,7 +109,6 @@ login-item-password-conceal-checkbox =
     .aria-label = Gøym passord
 login-item-copy-password-button-text = Kopier
 login-item-copied-password-button-text = Kopiert!
-login-item-save-changes-button = Lagre endringar
 about-logins-login-item-save-changes-button = Lagre
 login-item-save-new-button = Lagre
 login-item-cancel-button = Avbryt
@@ -168,11 +132,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å redigere innlogginga di. Dette vil gjere kontoane dine tryggare.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = rediger lagra innlogging
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -196,11 +155,6 @@ about-logins-copy-password-os-auth-dialog-message-win = Skriv inn innloggingsinf
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopier det lagra passordet
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = For å eksportere innloggingane dine, skriv inn innloggingsinformasjonen din for Windows. Dette hjelper til med å ta vare på sikkereheita til kontoen din.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = eksporter lagra innloggingar og passord
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = Skriv inn innloggingsinformasjonen for Windows for å eksportere passorda dine. Dette vil gjere kontoane dine tryggare.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -218,8 +172,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Avbryt
 confirmation-dialog-dismiss-button =
     .title = Avbryt
-about-logins-confirm-remove-dialog-title = Fjerne denne innlogginga?
-confirm-delete-dialog-message = Denne handlinga kan ikkje angrast.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Vil du fjerne passordet?
 # Message for modal to confirm the removal of one saved password
@@ -233,31 +185,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Fjern
        *[other] Fjern alle
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] Ja, fjern denne innlogginga
-       *[other] Ja, fjern desse innloggingane
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] Fjerne { $count } innlogging?
-       *[other] Fjerne alle { $count } innloggingar?
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] Dette fjernar innlogginga du har lagra i { -brand-short-name } og eventuelle varsel om datalekkasjar som vert viste her. Du kan ikkje angre denne handlinga.
-       *[other] Dette fjernar innloggingane du har lagra i { -brand-short-name } og eventuelle varsel om datalekkasjar som vert viste her. Du kan ikkje angre denne handlinga.
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] Fjerne { $count } innlogging frå alle einingane?
-       *[other] Fjerne alle { $count } innloggingar frå alle einingane?
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [1] Dette fjernar innlogginga du har lagra i { -brand-short-name } på alle einingar som er synkroniserte med { -fxaccount-brand-name }. Dette vil også fjerne varsel om datalekkasjar som vert viste her. Du kan ikkje angre denne handlinga.
-       *[other] Dette fjernar alle innloggingar du har lagra i { -brand-short-name } på alle einingar som er synkroniserte med { -fxaccount-brand-name }. Dette vil også fjerne varsel om datalekkasjar som vert viste her. Du kan ikkje angre denne handlinga.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -293,15 +220,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = Eksporter innloggingar og passord
-about-logins-confirm-export-dialog-message = Passorda dine vert lagra som lesbar tekst (t.d. DårlegP@ss0rd), slik at alle som kan opne den eksporterte fila kan sjå dei.
-about-logins-confirm-export-dialog-confirm-button = Eksporter…
 about-logins-confirm-export-dialog-title2 = Ein merknad om eksport av passord
 about-logins-confirm-export-dialog-message2 =
     Når du eksporterer, vert passorda dine lagra i ei fil med lesbar tekst.
     Når du er ferdig med å bruke fila, anbefalar vi at du slettar henne slik at andre som brukar denne eininga ikkje kan sjå passorda dine.
 about-logins-confirm-export-dialog-confirm-button2 = Hald fram med eksport
-about-logins-alert-import-title = Import fullført
 about-logins-alert-import-message = Vis detaljert importoversikt
 confirm-discard-changes-dialog-title = Vil du forkaste endringar som ikkje er lagra?
 confirm-discard-changes-dialog-message = Alle ikkje-lagra endringar vil gå tapt.
@@ -338,11 +261,6 @@ about-logins-error-message-default = Det oppstod ein feil ved forsøk på å lag
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Eksporter fil med innloggingar
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = innloggingar.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = Eksporter passord frå { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -358,8 +276,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = Importer fil med innloggingar
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = Importer passord til { -brand-short-name }
 about-logins-import-file-picker-import-button = Importer
@@ -383,18 +299,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Import fullført
-about-logins-import-dialog-items-added =
-    { $count ->
-       *[other] <span>Nye innloggningar lagt til: </span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-       *[other] <span>Eksisterande innloggingar oppdatert:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-       *[other] <span>Duplikate innloggingar funne:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ikkje importerte)</span>
-    }
 about-logins-import-dialog-items-added2 =
     { $count ->
         [one] <span>Nytt passord lagt til: </span> <span data-l10n-name="count">{ $count }</span>
@@ -429,15 +333,11 @@ about-logins-import-dialog-error-learn-more = Les meir
 about-logins-import-dialog-error-try-import-again = Prøv å importere ein gong til…
 about-logins-import-dialog-error-cancel = Avbryt
 about-logins-import-report-title = Importsamandrag
-about-logins-import-report-description = Innloggingar og passord importerte til { -brand-short-name }.
 about-logins-import-report-description2 = Passord importerte til { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Rad { $number }
-about-logins-import-report-row-description-no-change = Duplikat: Nøyaktig samsvar med eksisterande innlogging
-about-logins-import-report-row-description-modified = Eksisterande innlogging oppdatert
-about-logins-import-report-row-description-added = Ny innlogging lagt til
 about-logins-import-report-row-description-no-change2 = Duplikat: Nøyaktig samsvar med eksisterande oppføring
 about-logins-import-report-row-description-modified2 = Eksisterande oppføring oppdatert
 about-logins-import-report-row-description-added2 = Nytt passord lagt til
@@ -454,18 +354,6 @@ about-logins-import-report-row-description-error-missing-field = Feil: { $field 
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nye innloggingar lagt til</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">eksisterande innloggingar oppdaterte</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikate innloggingar</div> <div data-l10n-name="not-imported">(ikkje importerte)</div>
-    }
 about-logins-import-report-added2 =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nye passord lagt til</div>

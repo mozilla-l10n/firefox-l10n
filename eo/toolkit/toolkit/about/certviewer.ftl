@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = Viaj atestiloj
 certificate-viewer-tab-people = Personoj
 certificate-viewer-tab-servers = Serviloj
 certificate-viewer-tab-ca = Aŭtoritatoj
-certificate-viewer-tab-unkonwn = Nekonata

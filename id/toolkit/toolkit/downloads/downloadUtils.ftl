@@ -76,11 +76,5 @@ download-utils-time-left-single = { $time } tersisa
 download-utils-time-left-double = { $time1 } { $time2 } tersisa
 download-utils-time-few-seconds = Tersisa beberapa detik
 download-utils-time-unknown = Sisa waktu tidak diketahui
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = sumber daya { $scheme }
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = berkas lokal
 # Displayed time for files finished yesterday
 download-utils-yesterday = Kemarin

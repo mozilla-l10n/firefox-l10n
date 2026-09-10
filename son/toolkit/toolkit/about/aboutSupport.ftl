@@ -12,10 +12,6 @@ crashes-no-config = Porogaramoo mana hansandi to kaŋyan bayrandey cebe.
 support-addons-name = Maa
 support-addons-version = Dumi
 support-addons-id = ID
-features-title = { -brand-short-name } alhaaley
-features-name = Maa
-features-version = Dumi
-features-id = Boŋ-tammaasa
 app-basics-title = Porogaram šintin hayey
 app-basics-name = Maa
 app-basics-version = Dumi
@@ -28,7 +24,6 @@ app-basics-profile-dir =
         [linux] Fooloɲaa alhal
        *[other] Alhaali foolo
     }
-app-basics-enabled-plugins = Sukari tunantey
 app-basics-build-config = Cinari hanseyan
 app-basics-user-agent = Goyteeri
 app-basics-os = OS

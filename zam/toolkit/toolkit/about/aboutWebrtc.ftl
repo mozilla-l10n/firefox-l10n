@@ -48,9 +48,6 @@ about-webrtc-ice-stats-heading = ICE Stats
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = B-šèn
 about-webrtc-save-page-label = Mb-lòɁ sóg loo kúb
-about-webrtc-debug-mode-msg-label = Debug Mode
-about-webrtc-debug-mode-off-state-label = Start Debug Mode
-about-webrtc-debug-mode-on-state-label = Stop Debug Mode
 about-webrtc-stats-clear = M-tob bí lô góš
 about-webrtc-log-heading = M-tòb kì
 about-webrtc-log-clear = M-tòb kì Log

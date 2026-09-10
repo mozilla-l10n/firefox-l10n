@@ -18,14 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] У вас ёсць неадпраўленае паведамленне пра падзенне
-        [few] У вас ёсць { $reportCount } неадпраўленыя паведамленні пра падзенне
-       *[many] У вас ёсць { $reportCount } неадпраўленых паведамленняў пра падзенне
-    }
 pending-crash-reports-view-all =
     .label = Паглядзець
 pending-crash-reports-send =
@@ -39,14 +31,6 @@ requested-crash-reports-message-new =
         [one] У вас ёсць { $reportCount } неадпраўленая справаздача пра крахі, што тычацца збояў, якія расследуюцца. Адпраўка дапаможа нам палепшыць { -brand-product-name }. Па закрыцці гэтай абвесткі справаздача будзе ігнаравацца.
         [few] У вас ёсць { $reportCount } неадпраўленыя справаздачы пра крахі, што тычацца збояў, якія расследуюцца. Адпраўка дапаможа нам палепшыць { -brand-product-name }. Па закрыцці гэтай абвесткі справаздачы будуць ігнаравацца.
        *[many] У вас ёсць { $reportCount } неадпраўленых справаздач пра крахі, што тычацца збояў, якія расследуюцца. Адпраўка дапаможа нам палепшыць { -brand-product-name }. Па закрыцці гэтай абвесткі справаздачы будуць ігнаравацца.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] У вас ёсць { $reportCount } неадпраўленая справаздача пра крахі, што адпавядаюць збоям, якія расследуюцца. Адпраўка дапаможа нам палепшыць { -brand-product-name }. Па закрыцці гэтай абвесткі справаздача будзе ігнаравацца.
-        [few] У вас ёсць { $reportCount } неадпраўленыя справаздачы пра крахі, што адпавядаюць збоям, якія расследуюцца. Адпраўка дапаможа нам палепшыць { -brand-product-name }. Па закрыцці гэтай абвесткі справаздачы будуць ігнаравацца.
-       *[many] У вас ёсць { $reportCount } неадпраўленых справаздач пра крахі, што адпавядаюць збоям, якія расследуюцца. Адпраўка дапаможа нам палепшыць { -brand-product-name }. Па закрыцці гэтай абвесткі справаздачы будуць ігнаравацца.
     }
 requested-crash-reports-dont-show-again =
     .label = Больш не паказваць

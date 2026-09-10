@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = ਪਿੱਛੇ ਜਾਓ
 neterror-return-to-previous-page-recommended-button = ਪਿੱਛੇ ਜਾਓ (ਸਿਫਾਰਸ਼ੀ)
 neterror-try-again-button-2 = ਮੁੜ-ਕੋਸ਼ਿਸ ਕਰੋ
     .accesskey = T
-neterror-try-again-button = ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ
 neterror-add-exception-button = ਇਸ ਸਾਈਟ ਲਈ ਹਮੇਸ਼ਾਂ ਜਾਰੀ ਰੱਖੋ
 neterror-settings-button = DNS ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਦਲੋ
 neterror-view-certificate-link = ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਵੇਖੋ
-neterror-trr-continue-this-time = ਇਸ ਵੇਲੇ ਜਾਰੀ ਰੱਖੋ
-neterror-disable-native-feedback-warning = ਹਮੇਸ਼ਾ ਜਾਰੀ ਰੱਖੋ
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = ਹੋਰ ਜਾਣੋ
 ##
 
 neterror-pref-reset = ਜਾਪਦਾ ਹੈ ਕਿ ਤੁਹਾਡੀ ਨੈੱਟਵਰਕ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ ਇਸ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦੀਆਂ ਹਨ। ਕੀ ਤੁਸੀਂ ਡਿਫਾਲਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਹਾਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?
-neterror-error-reporting-automatic = ਇੰਜ ਦੀਆਂ ਸਮੱਸਿਆਵਾਂ ਦੀ ਜਾਣਕਾਰੀ ਦੇਣ ਨਾਲ { -vendor-short-name } ਖ਼ਤਰਨਾਕ ਸਾਈਟਾਂ ਦੀ ਪਛਾਣ ਕਰਦਾ ਅਤੇ ਉਹਨਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਂਦਾ ਹੈ।
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Wi-Fi ਨਾਲੋਂ ਡਿਸ-
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } ਸਾਡੇ ਭਰੋਸੇਯੋਗ DNS ਹੱਲ਼ ਕਰਨ ਵਾਲੇ ਰਾਹੀਂ ਇਸ ਸਾਈਟ ਦੇ ਸਿਰਨਾਵਾਂ ਲਈ ਤੁਹਾਡੀ ਬੇਨਤੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਕਰ ਸਕਦੀ ਹੈ। ਇਸ ਦੇ ਕਾਰਨ ਹਨ:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } ਇਸ ਸਾਈਟ ਦੇ ਸਿਰਨਾਵੇਂ ਦੀ ਤੁਹਾਡੀ ਬੇਨਤੀ ਨੂੰ ਸਾਡੇ ਸੁਰੱਖਿਅਤ DNS ਪੂਰਕ ਨਾਲ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ। ਕਾਰਨ ਇਹ ਹਨ:
 neterror-dns-not-found-trr-third-party-warning2 = ਤੁਸੀਂ ਆਪਣੇ ਮੂਲ DNS ਹੱਲਕਰਤਾ ਨਾਲ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹੋ। ਪਰ ਤੀਜੀ-ਧਿਰ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀਆਂ ਵੈਬਸਾਈਟਾਂ ਨੂੰ ਵੇਖ ਸਕਦੀ ਹੈ।
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } { $trrDomain } ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਦੇ ਸਮਰੱਥ ਨਹੀਂ ਹੋਵੇਗਾ।
 neterror-dns-not-found-trr-only-timeout = { $trrDomain } ਲਈ ਕਨੈਕਸ਼ਨ ਨੂੰ ਆਸ ਤੋਂ ਵੱਧ ਸਮਾਂ ਲੱਗਾ ਹੈ।
-neterror-dns-not-found-trr-offline = ਤੁਸੀਂ ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੋ।
 neterror-dns-not-found-trr-unknown-host2 = ਇਹ ਵੈੱਬਸਾਈਟ { $trrDomain } ਨੂੰ ਨਹੀਂ ਲੱਭੀ ਹੈ।
 neterror-dns-not-found-trr-server-problem = { $trrDomain } ਨਾਲ ਸਮੱਸਿਆ ਸੀ।
 neterror-dns-not-found-bad-trr-url = ਅਢੁੱਕਵਾਂ URL ਹੈ।
 neterror-dns-not-found-system-sleep = ਸਿਸਟਮ ਸਲੀਪ ਮੋਡ ਵਿੱਚ ਹੈ।
 neterror-dns-not-found-trr-unknown-problem = ਅਚਾਨਕ ਗਲਤੀ ਆਈ ਹੈ।
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ਸਾਡੇ ਭਰੋਸੇਯੋਗ DNS ਹੱਲ਼ ਕਰਨ ਵਾਲੇ ਰਾਹੀਂ ਇਸ ਸਾਈਟ ਦੇ ਸਿਰਨਾਵਾਂ ਲਈ ਤੁਹਾਡੀ ਬੇਨਤੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਕਰ ਸਕਦੀ ਹੈ। ਇਸ ਦੇ ਕਾਰਨ ਹਨ:
-neterror-dns-not-found-native-fallback-heuristic = HTTPS ਰਾਹੀਂ DNS ਨੂੰ ਤੁਹਾਡੇ ਨੈੱਟਵਰਕ ਨੇ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ।
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } { $trrDomain } ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਦੇ ਸਮਰੱਥ ਨਹੀਂ ਹੋਵੇਗਾ।
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = ਇਸ ਨੂੰ ਹਟਾਇਆ, ਕਿਤੇ ਹੋ�
 neterror-unknown-protocol = ਤੁਹਾਨੂੰ ਇਹ ਸਿਰਨਾਵੇਂ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਹੋਰ ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ।
 neterror-redirect-loop = ਇਹ ਸਮੱਸਿਆ ਕੁਝ ਵਾਰ ਕੂਕੀਜ਼ ਨੂੰ ਅਸਮਰੱਥ ਕਰਨ ਜਾਂ ਲੈਣ ਤੋਂ ਇਨਕਾਰ ਕਰਕੇ ਆ ਸਕਦੀ ਹੈ।
 neterror-unknown-socket-type-client-config = ਇਹ ਤੁਹਾਡੇ ਕਲਾਈਂਟ ਨਾਲ ਸੰਰਚਨਾ ਗਲਤੀ ਕਰਕੇ ਹੋ ਸਕਦੀ ਹੈ।
-neterror-unknown-socket-type-psm-installed = ਚੈੱਕ ਕਰੋ ਕਿ ਕੀ ਤੁਹਾਡੇ ਸਿਸਟਮ ਉੱਤੇ ਪਰਸਨਲ ਸਕਿਊਰਟੀ ਮੈਨੇਜਰ ਇੰਸਟਾਲ ਹੈ।
-neterror-unknown-socket-type-server-config = ਇਹ ਸਰਵਰ ਉੱਤੇ ਗ਼ੈਰ-ਸਟੈਂਡਰਡ ਸੰਰਚਨਾ ਕਰਕੇ ਵੀ ਹੋ ਸਕਦਾ ਹੈ।
 neterror-not-cached-intro = ਮੰਗ ਕੀਤਾ ਡੌਕੂਮੈਂਟ { -brand-short-name } ਦੀ ਕੈਸ਼ ਵਿੱਚ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ
 neterror-not-cached-sensitive = ਸੁਰੱਖਿਆ ਦੇ ਕਰਕੇ , { -brand-short-name } ਆਪਣੇ-ਆਪ ਸੰਵੇਦਨਸ਼ੀਲ ਡੌਕੂਮੈਂਟ ਲਈ ਮੁੜ-ਬੇਨਤੀ ਨਹੀਂ ਕਰਦਾ ਹੈ।
 neterror-not-cached-try-again = ਵੈੱਬਸਾਈਟ ਤੋਂ ਡੌਕੂਮੈਂਟ ਦੀ ਮੁੜ-ਮੰਗ ਕਰਨ ਲਈ ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ ਨੂੰ ਕਲਿੱਕ ਕਰੋ।

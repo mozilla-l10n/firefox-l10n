@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Setări privind conexiunea
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Setări privind conexiunea
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Reîncarcă
     .accesskey = e
-connection-proxy-autologin =
-    .label = Nu solicita autentificarea dacă parola este salvată
-    .tooltip = Opțiunea te autentifică silențios la proxyurile pentru care ai date de autentificare salvate. Dacă autentificarea eșuează, ți se va cere parola.
-    .accesskey = i
 connection-proxy-autologin-checkbox =
     .label = Nu solicita autentificarea dacă parola este salvată
-    .accesskey = i
     .tooltiptext = Opțiunea te autentifică silențios la proxyurile pentru care ai date de autentificare salvate. Dacă autentificarea eșuează, ți se va cere parola.
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = Proxy DNS când folosești SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Folosește URL-ul implicit pentru rezolvarea DNS over HTTPS
 connection-dns-over-https-url-custom =
     .label = Personalizat
-    .accesskey = C
     .tooltiptext = Introdu URL-ul preferat pentru a rezolva DNS prin HTTPS
-connection-dns-over-https-custom-label = Personalizat
+    .accesskey = C

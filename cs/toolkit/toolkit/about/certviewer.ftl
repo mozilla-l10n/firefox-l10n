@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = Osobní
 certificate-viewer-tab-people = Lidé
 certificate-viewer-tab-servers = Servery
 certificate-viewer-tab-ca = Autority
-certificate-viewer-tab-unkonwn = Neznámé

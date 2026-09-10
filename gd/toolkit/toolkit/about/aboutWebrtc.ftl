@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = sàbhail about:webrtc mar
 about-webrtc-aec-logging-msg-label = Logadh AEC
 about-webrtc-aec-logging-off-state-label = Tòisich air logadh AEC
 about-webrtc-aec-logging-on-state-label = Sguir de logadh AEC
-about-webrtc-aec-logging-on-state-msg = Tha an logadh AEC gnìomhach (bruidhinn ris an neach a ghairm beagan mhionaidean is sguir dhen ghlacadh an uairsin)
 about-webrtc-aec-logging-toggled-on-state-msg = Tha an logadh AEC gnìomhach (bruidhinn ris an neach a ghairm beagan mhionaidean is sguir dhen ghlacadh an uairsin)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -81,17 +80,9 @@ about-webrtc-nominated = Air ainmeachadh
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Air a thaghadh
 about-webrtc-save-page-label = Sàbhail an duilleag
-about-webrtc-debug-mode-msg-label = Am modh dì-bhugachaidh
-about-webrtc-debug-mode-off-state-label = Tòisich air a’ mhodh dì-bhugachaidh
-about-webrtc-debug-mode-on-state-label = Cuir crìoch air a’ mhodh dì-bhugachaidh
-about-webrtc-stats-heading = Stats an t-seisein
 about-webrtc-stats-clear = Falamhaich an eachdraidh
 about-webrtc-log-heading = Loga nan ceangal
 about-webrtc-log-clear = Falamhaich an loga
-about-webrtc-log-show-msg = seall an loga
-    .title = dèan briogadh gus an earrann seo a leudachadh
-about-webrtc-log-hide-msg = falaich an loga
-    .title = dèan briogadh gus an earrann seo a cho-theannadh
 about-webrtc-log-section-show-msg = Seall an loga
     .title = Dèan briogadh gus an earrann seo a leudachadh
 about-webrtc-log-section-hide-msg = Falaich an loga
@@ -114,19 +105,11 @@ about-webrtc-remote-candidate = Tagraiche cèin
 about-webrtc-raw-candidates-heading = All Raw Candidates
 about-webrtc-raw-local-candidate = Raw Local Candidate
 about-webrtc-raw-remote-candidate = Raw Remote Candidate
-about-webrtc-raw-cand-show-msg = show raw candidates
-    .title = dèan briogadh gus an earrann seo a leudachadh
-about-webrtc-raw-cand-hide-msg = hide raw candidates
-    .title = dèan briogadh gus an earrann seo a cho-theannadh
 about-webrtc-raw-cand-section-show-msg = Show raw candidates
     .title = Dèan briogadh gus an earrann seo a leudachadh
 about-webrtc-raw-cand-section-hide-msg = Hide raw candidates
     .title = Dèan briogadh gus an earrann seo a cho-theannadh
 about-webrtc-priority = Prìomhachas
-about-webrtc-fold-show-msg = seall am mion-fhiosrachadh
-    .title = dèan briogadh gus an earrann seo a leudachadh
-about-webrtc-fold-hide-msg = falaich am mion-fhiosrachadh
-    .title = dèan briogadh gus an earrann seo a cho-theannadh
 about-webrtc-fold-default-show-msg = Seall am mion-fhiosrachadh
     .title = Dèan briogadh gus an earrann seo a leudachadh
 about-webrtc-fold-default-hide-msg = Falaich am mion-fhiosrachadh
@@ -167,8 +150,6 @@ about-webrtc-configuration-element-provided = Chaidh a sholar
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Cha deach a sholar
-# The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Roghainnean WebRTC a shuidhich a cleachdaiche
 
 ##
 
@@ -192,13 +173,6 @@ about-webrtc-round-trip-time-ms = RTT (ms)
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Stadastaireachd fhrèamaichean a’ video – ID MediaStreamTrack: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = chaidh an duilleag a shàbhaladh an-seo: { $path }
-about-webrtc-debug-mode-off-state-msg = gheibhear an trace log an-seo: { $path }
-about-webrtc-debug-mode-on-state-msg = tha am modh dì-bhugachaidh air, an trace log an-seo: { $path }
-about-webrtc-aec-logging-off-state-msg = gheibhear na faidhlichean loga an-seo: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

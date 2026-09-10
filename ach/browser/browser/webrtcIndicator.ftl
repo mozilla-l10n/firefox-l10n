@@ -26,23 +26,6 @@ webrtc-sharing-menu =
     .label = Nyonyo ma nywako dirica matino
     .accesskey = n
 
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Ki tye ka nywako lamak cal ki mikropon mamegi. Dii me lono nywako.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Ki tye ka nywako lamak cal mamegi. Dii me lono nywako.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Ki tye ka nywako mikropon mamegi. Dii me lono nywako.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Ki tye ka nywako purugram moni. Dii me lono nywako.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Ki tye ka nywako wang kio mamegi. Dii me lono nywako.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Ki tye ka nywako dirica. Dii me lono nywako.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Ki tye ka nywako tab. Dii me lono nywako.
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
@@ -106,7 +89,6 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
-webrtc-share-screen-learn-more = Nong ngec mapol
 webrtc-share-entire-screen = Wang kompiuta weng
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).

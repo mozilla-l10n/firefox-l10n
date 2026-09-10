@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = نواں ٹیب
-    .accesskey = w
 reload-tab =
     .label = ٹیب ری لوڈ کرو
     .accesskey = R
@@ -98,10 +95,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = نواں گروپ
     .accesskey = G
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -123,10 +116,3 @@ tab-context-move-tabs =
            *[other] ٹیباں سورو
         }
     .accesskey = v
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [1] ٹیب ڈیوائس تے بھیڄو
-           *[other] { $tabCount } ٹیباں ڈیوائس تے بھیڄو
-        }
-    .accesskey = n

@@ -9,13 +9,6 @@ xpinstall-prompt = { -brand-short-name } આ સાઇટને તમારા 
 xpinstall-prompt-dont-allow =
     .label = મંજૂરી આપશો નહીં
     .accesskey = D
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = સોફ્ટવેર સ્થાપન તમારા સિસ્ટમ સંચાલક દ્વારા નિષ્ક્રિય કરાઈ ગયેલ છે.
 xpinstall-disabled = સોફ્ટવેર સ્થાપન વર્તમાનમાં નિષ્ક્રિય કરેલ છે. સક્રિય કરો ક્લિક કરો અને ફરીથી પ્રયત્ન કરો.
 xpinstall-disabled-button =
     .label = સક્રિય કરો
@@ -29,9 +22,6 @@ webext-perms-update-menu-item = { $addonName } નવી પરવાનગી�
 
 ## Add-on removal warning
 
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = { -brand-shorter-name } માંથી { $name } દૂર કરશો?
 addon-removal-button = દૂર કરો
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
@@ -82,4 +72,3 @@ addon-local-install-error-not-signed = આ એડ-ઓન ઇન્સ્ટો�
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } ઇન્સ્ટોલ કરી શકાઈ નથી કારણ કે તે { -brand-short-name } { $appVersion } સાથે સુસંગત નથી.
-addon-install-error-blocklisted = { $addonName } ઇન્સ્ટોલ કરી શકાઈ નથી કારણ કે તે સ્થિર હોય કે સુરક્ષા સમસ્યાઓ પરિણમે ઊંચી જોખમ ધરાવે છે.

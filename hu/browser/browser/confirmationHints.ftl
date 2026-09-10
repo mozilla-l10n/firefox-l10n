@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Jelentés beküldve. Köszönjük!
-confirmation-hint-login-removed = Bejelentkezés eltávolítva!
 confirmation-hint-password-removed = Jelszó eltávolítva.
 confirmation-hint-page-bookmarked = Mentve a könyvjelzők közé
-confirmation-hint-password-saved = Jelszó elmentve.
 confirmation-hint-password-created = Jelszó elmentve
 confirmation-hint-password-updated = Jelszó frissítve
 confirmation-hint-address-created = Cím elmentve

@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = បើកវិនដូឯកជន
     .accesskey = P
 about-private-browsing-search-placeholder = ស្វែងរក​ទំព័រ​បណ្ដាញ
-about-private-browsing-info-title = អ្នក​កំពុង​ស្ថិត​នៅ​​ផ្ទាំង​ឯកជន​
 about-private-browsing-search-btn =
     .title = ស្វែងរក​គេហទំព័រ
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = ស្វែងរក​ជាមួយ { $engine } ឬ​បញ្ចូល​អាសយដ្ឋាន
 about-private-browsing-handoff-text-no-engine = ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន
 about-private-browsing-not-private = បច្ចុប្បន្ន​អ្នក​មិន​នៅ​ក្នុង​បង្អួច​ឯកជន​ទេ។
-about-private-browsing-info-description-private-window = ផ្ទាំងឯកជន៖ { -brand-short-name } សម្អាត​ការស្វែងរក​របស់អ្នក និង​ប្រវត្តិរុករក នៅពេល​អ្នក​បិទ​ផ្ទាំង​ឯកជន​ទាំងអស់។ វា​មិន​បង្ហាញអ្នក​ជាអនាមិកទេ។
-about-private-browsing-info-description-simplified = { -brand-short-name } សម្អាត​ការស្វែងរក​របស់អ្នក និង​ប្រវត្តិរុករក នៅពេល​អ្នក​បិទ​ផ្ទាំង​ឯកជន​ទាំងអស់ ប៉ុន្តែវា​មិន​បង្ហាញអ្នក​ជាអនាមិកទេ។
-about-private-browsing-learn-more-link = ស្វែងយល់​បន្ថែម
 about-private-browsing-hide-activity = លាក់​សកម្មភាព និង​ទីតាំង​របស់អ្នក គ្រប់កន្លែង​ដែលអ្នក​រុករក
 about-private-browsing-get-privacy = ទទួលបាន​ការការពារ​ឯកជនភាព​គ្រប់កន្លែង​ដែលអ្នក​រុករក
 about-private-browsing-hide-activity-1 = លាក់​សកម្មភាព​រុករក និង​ទីតាំង​ជាមួយ { -mozilla-vpn-brand-name }។ ចុច​មួយ​បង្កើត​ការតភ្ជាប់​សុវត្ថិភាព ទោះជា​នៅលើ Wi-Fi សាធារណៈក៏ដោយ។
@@ -29,8 +25,6 @@ about-private-browsing-prominent-cta = បន្តនៅជាឯកជន​�
 about-private-browsing-focus-promo-cta = ទាញ​យក { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: ការរុករកឯកជននៅពេលធ្វើដំណើរ
 about-private-browsing-focus-promo-text = កម្មវិធី​រុករក​ឯកជន​របស់​យើង​សម្អាត​ប្រវត្តិ និង​ខូគី​របស់​អ្នក​រាល់ពេល។
-about-private-browsing-focus-promo-header-b = នាំយកការរុករកឯកជនទៅទូរស័ព្ទរបស់អ្នក
-about-private-browsing-focus-promo-text-b = ប្រើ { -focus-brand-name } សម្រាប់ការស្វែងរកឯកជនទាំងនោះដែលអ្នកមិនចង់ឱ្យកម្មវិធីរុករកតាមអ៊ីនធឺណិតចម្បងរបស់អ្នកឃើញ។
 about-private-browsing-focus-promo-header-c = ភាពឯកជនកម្រិតបន្ទាប់នៅលើទូរសព្ទចល័ត
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } សម្អាតប្រវត្តិរបស់អ្នករាល់ពេល ខណៈពេលកំពុងរារាំងការផ្សាយពាណិជ្ជកម្ម និងកម្មវិធីតាមដាន។
 # This string is the title for the banner for search engine selection
@@ -60,11 +54,6 @@ about-private-browsing-pin-promo-title = គ្មានខូគី ឬប្�
 
 ## Strings used in a promotion message for cookie banner reduction
 
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = បដា​ខូគី​បាន​ចាប់ផ្តើម​ហើយ!
-about-private-browsing-cookie-banners-promo-button = កាត់បន្ថយបដាខូឃី
-about-private-browsing-cookie-banners-promo-message = អនុញ្ញាតឱ្យ { -brand-short-name } ឆ្លើយតបដោយស្វ័យប្រវត្តិនូវខូគីលេចឡើងសម្រាប់អ្នក ដើម្បីឱ្យអ្នកអាចត្រលប់ទៅការរុករកដោយគ្មានការរំខានវិញ។ { -brand-short-name } នឹងបដិសេធសំណើទាំងអស់ប្រសិនបើអាចធ្វើទៅបាន។
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } ថែរក្សាបដាខូឃីស៍សម្រាប់អ្នក

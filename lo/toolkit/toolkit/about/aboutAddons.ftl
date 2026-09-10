@@ -71,12 +71,6 @@ addon-category-available-updates = ອັບເດດທີ່ມີຢູ່
 addon-category-available-updates-title =
     .title = ອັບເດດທີ່ມີຢູ່
 
-## These are global warnings
-
-extensions-warning-safe-mode = Add-on ທັງຫມົດໄດ້ຖືກປິດນຳໃຊ້ໂດຍໂຫມດປອດໄພ.
-extensions-warning-safe-mode2 =
-    .message = Add-on ທັງຫມົດໄດ້ຖືກປິດນຳໃຊ້ໂດຍໂຫມດປອດໄພ.
-
 ## Strings connected to add-on updates
 
 addon-updates-check-for-updates = ກວດສອບການອັບເດດ
@@ -109,24 +103,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } ເຂັ້າກັນບໍ່ໄດ້ກັບ { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } ເຂັ້າກັນບໍ່ໄດ້ກັບ { -brand-short-name } { $version }.
-details-notification-unsigned-and-disabled = { $name } ບໍ່ສາມາດທີ່ຈະກວດສອບສໍາລັບໃຊ້ໃນ { -brand-short-name } ແລະຈະຖືກປິດໃຊ້ງານ.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } ບໍ່ສາມາດທີ່ຈະກວດສອບສໍາລັບໃຊ້ໃນ { -brand-short-name } ແລະຈະຖືກປິດໃຊ້ງານ.
-details-notification-unsigned-and-disabled-link = ຂໍ້ມູນເພີ່ມເຕີມ
-details-notification-unsigned = { $name } ບໍ່ສາມາດທີ່ຈະກວດສອບສໍາລັບໃຊ້ໃນ { -brand-short-name }. ດຳເນີນການດ້ວຍຄວາມລະມັດລະວັງ.
 details-notification-unsigned2 =
     .message = { $name } ບໍ່ສາມາດທີ່ຈະກວດສອບສໍາລັບໃຊ້ໃນ { -brand-short-name }. ດຳເນີນການດ້ວຍຄວາມລະມັດລະວັງ.
-details-notification-unsigned-link = ຂໍ້ມູນເພີ່ມເຕີມ
-details-notification-blocked = { $name } ຖືກປິດໃຊ້ງານເນື່ອງຈາກບັນຫາດ້ານຄວາມປອດໄພຫຼືສະຖຽນລະພາບ.
-details-notification-blocked-link = ຂໍ້ມູນເພີ່ມເຕີມ
-details-notification-softblocked = { $name } ເປັນທີ່ຮູ້ວ່າສາເຫດກໍ່ໃຫ້ເກີດບັນຫາຄວາມປອດໄພຫຼືສະຖຽນລະພາບ.
-details-notification-softblocked-link = ຂໍ້ມູນເພີ່ມເຕີມ
-details-notification-gmp-pending = { $name } ຈະຖືກຕິດຕັ້ງໃນໄວໆນີ້
 details-notification-gmp-pending2 =
     .message = { $name } ຈະຖືກຕິດຕັ້ງໃນໄວໆນີ້
 

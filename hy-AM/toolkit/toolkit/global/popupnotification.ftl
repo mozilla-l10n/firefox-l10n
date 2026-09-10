@@ -5,6 +5,3 @@
 popup-notification-learn-more = Իմանալ ավելին
 popup-notification-more-actions-button =
     .aria-label = Լրացուցիչ
-popup-notification-default-button =
-    .label = Լավ
-    .accesskey = Լ

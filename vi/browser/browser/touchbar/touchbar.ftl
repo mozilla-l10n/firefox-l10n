@@ -31,4 +31,3 @@ search-bookmarks = Dấu trang
 search-history = Lịch sử
 search-opentabs = Thẻ đang mở
 search-tags = Thẻ
-search-titles = Tiêu đề

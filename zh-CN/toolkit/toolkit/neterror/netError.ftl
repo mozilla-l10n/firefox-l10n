@@ -27,17 +27,13 @@ neterror-return-to-previous-page-button = 后退
 neterror-return-to-previous-page-recommended-button = 返回上一页（推荐）
 neterror-try-again-button-2 = 重试
     .accesskey = T
-neterror-try-again-button = 重试
 neterror-add-exception-button = 总是继续打开此网站
 neterror-settings-button = 更改 DNS 设置
 neterror-view-certificate-link = 查看证书
-neterror-trr-continue-this-time = 此次仍继续
-neterror-disable-native-feedback-warning = 总是继续打开
 
 ##
 
 neterror-pref-reset = 看来可能是您的网络安全设置造成了此问题。您想还原到默认设置吗？
-neterror-error-reporting-automatic = 报告此类错误，帮助 { -vendor-short-name } 识别与拦截恶意网站
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -80,25 +76,15 @@ neterror-dns-not-found-offline-hint-reconnect = 断开 Wi-Fi 连接后重新连�
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } 无法通过可信 DNS 解析器保护您对本网址的请求。原因如下：
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } 无法通过我们的安全 DNS 提供方来保护您对此网址的请求。原因如下：
 neterror-dns-not-found-trr-third-party-warning2 = 您可以继续使用默认 DNS 解析器，但第三方将有可能得知您访问过哪些网站。
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } 无法连接到 { $trrDomain }。
 neterror-dns-not-found-trr-only-timeout = 连接到 { $trrDomain } 的时间超过预期。
-neterror-dns-not-found-trr-offline = 您未连接到互联网。
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } 找不到此网站。
 neterror-dns-not-found-trr-server-problem = { $trrDomain } 出现问题。
 neterror-dns-not-found-bad-trr-url = 无效网址。
 neterror-dns-not-found-system-sleep = 系统处于睡眠模式。
 neterror-dns-not-found-trr-unknown-problem = 未知问题。
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } 无法通过可信 DNS 解析器保护您对本网址的请求。原因如下：
-neterror-dns-not-found-native-fallback-heuristic = 您的网络已禁用基于 HTTPS 的 DNS。
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } 无法连接至 { $trrDomain }。
 
 ##
 
@@ -112,8 +98,6 @@ neterror-access-denied = 文件可能已被删除、移动，或者因文件权�
 neterror-unknown-protocol = 您可能需要安装其他软件才能打开此网址。
 neterror-redirect-loop = 有时候禁用或拒绝接受 Cookie 会导致此问题。
 neterror-unknown-socket-type-client-config = 这可能是由于您的客户端配置错误所致。
-neterror-unknown-socket-type-psm-installed = 请检查您的系统是否安装了个人安全管理器（PSM）。
-neterror-unknown-socket-type-server-config = 这可能是由服务器端的非标准配置所致。
 neterror-not-cached-intro = 您请求的文档已无法在 { -brand-short-name } 的缓存中找到。
 neterror-not-cached-sensitive = 出于安全考虑，{ -brand-short-name } 不会自动重新获取敏感文档。
 neterror-not-cached-try-again = 您可以点击“重试”来重新请求从网站获取该文档。

@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = မှတ်ထားသောလိပ်စာများ
 autofill-manage-addresses-list-header = လိပ်စာများ
-autofill-manage-credit-cards-title = အကြွေးဝယ်ကတ်များကို မှတ်သားထားပါ
-autofill-manage-credit-cards-list-header = အကြွေးဝယ်ကတ်များ
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = ဖယ်ရှားပါ
@@ -21,9 +19,6 @@ autofill-manage-edit-button = တည်းဖြတ်…
 
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = လိပ်စာပြုပြင်ပါ
-autofill-address-given-name = နာမည်အစအလုံး
-autofill-address-additional-name = နာမည်အလယ်လုံး
-autofill-address-family-name = နာမည်နောက်ဆုံးအလုံး
 autofill-address-organization = အဖွဲ့အစည်း
 autofill-address-street = လမ်းလိပ်စာ
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
@@ -53,8 +48,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = လိပ်စာအသစ်ပေါင်းထည့်ပါ
 autofill-address-country = နိုင်ငံ သို့မဟုတ် ဒေသ
 autofill-address-tel = ဖုန်း
 autofill-address-email = အီးမေးလ်
@@ -66,8 +59,3 @@ autofill-card-number = ကတ် နံပတ်
 autofill-card-name-on-card-2 =
     .label = ကတ်ပေါ်ရှိ နာမည်
 autofill-card-name-on-card = ကတ်ပေါ်ရှိ နာမည်
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

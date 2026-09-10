@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Tab Barô
-newtab-settings-button =
-    .title = Peuseusuwai Ôn Tab Barô droëneuh
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -47,7 +45,6 @@ newtab-search-box-search-button =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = Tamah Meusén Mita
-newtab-topsites-edit-topsites-header = Ubah Situih Paléng Ateuëh
 newtab-topsites-title-label = Nan
 newtab-topsites-title-input =
     .placeholder = Peutamong judôi
@@ -86,10 +83,6 @@ newtab-menu-section-tooltip =
 newtab-menu-content-tooltip =
     .aria-label = Untôk peuhah menu kontèk { $title }
     .title = Peuhah menu
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Andam site nyoe
-    .title = Andam site nyoe
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -100,9 +93,6 @@ newtab-menu-dismiss = Peudong
 newtab-menu-pin = Pin
 newtab-menu-unpin = Unpin
 newtab-menu-delete-history = Sampôh nibak Histori
-newtab-menu-save-to-pocket = Keubah u { -pocket-brand-name }
-newtab-menu-delete-pocket = Sampôh nibak { -pocket-brand-name }
-newtab-menu-archive-pocket = Peuarsip lam { -pocket-brand-name }
 
 ##
 
@@ -142,36 +132,15 @@ newtab-label-download = Didonlod
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Böh Bagian
-newtab-section-menu-collapse-section = Tôp Bagian
-newtab-section-menu-expand-section = Peuluwaih Bagian
-newtab-section-menu-manage-section = Atô Bagian
-newtab-section-menu-manage-webext = Atô Ekstensi
-newtab-section-menu-add-topsite = Tamah Situs Peuniléh
-newtab-section-menu-add-search-engine = Tamah Meusén Mita
-newtab-section-menu-move-up = Peuék
-newtab-section-menu-move-down = Peutrôn
 newtab-section-menu-privacy-notice = Keubijakan Privasi
 
 ## Section Headers.
 
 newtab-section-header-topsites = Situih Paléng Ateuëh
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Geu-usui uléh { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Mulai seumeulop, lheueh nyan kamoe peudeuih padum-padum boh teunuléh, video ngön laman nyang jroh nyang ban-ban nyoe neusaweue atawa neubôh tanda sinoe.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Ka gura hai rakan. Ntruek neugisa lom beh? mantöng lee hikayat laén dum nyang hayeu hayeu lé { $provider }. Beu jinoe ju? Neu piléh asoe laén nyang meukeunöng man sabôh nyan.
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Bhaih Meusyeuhu:
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

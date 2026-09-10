@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = Apsavērt lopys informaceju
 
@@ -38,8 +33,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Attaiseit nasaistis datu saglobuošonys ziņuojumu paneli
 urlbar-password-notification-anchor =
     .tooltiptext = Attaiseit paroles saglobuošonys ziņuojumu paneli
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Puorvaļdeit papyldynuojumu izmontuošonu
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Porvoldi lopys pīkļivi tovai kamerai un/voi mikrofonam
 urlbar-autoplay-notification-anchor =
@@ -70,8 +63,6 @@ urlbar-screen-blocked =
     .tooltiptext = Ekrana kūplītuošona ar itū lopu ir blokeita.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Datu saglpbōšona itymā lopā ir aizlīgta.
-urlbar-popup-blocked =
-    .tooltiptext = Izlacušū lūku rōdiešona itymā lopā ir aizlīgta.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Tu esi bloķiejs automatisku multimedeju atskaņōšonu itymā lopā.
 urlbar-canvas-blocked =
@@ -150,7 +141,6 @@ identity-active-blocked = { -brand-short-name } blokieja nadrūsū saturu itymā
 identity-passive-loaded = Itōs lopys daļas (pīmāram biļdis) nav drūšys.
 identity-active-loaded = Nadrūsu elementu aizsardzeiba ir deaktiveita.
 identity-weak-encryption = Itei lopa izmontoj vuoju šifriešonu.
-identity-insecure-login-forms = Dati, kurus īvadiesi itymā lopā nav aizsorgōti un var byut portvarti.
 identity-permissions-reload-hint = Kab radzāti izmaiņis īspiejams byus napīcīšama lopys puorluode.
 identity-clear-site-data =
     .label = Dzēst seikdatnes un lopu datus…
@@ -158,7 +148,6 @@ identity-remove-cert-exception =
     .label = Attuolynuotuo izpilde
     .accesskey = A
 identity-description-insecure = Your connection to this site is not private. Information you submit could be viewed by others (like passwords, messages, credit cards, etc.).
-identity-description-insecure-login-forms = The login information you enter on this page is not secure and could be compromised.
 identity-description-weak-cipher-intro = Jiusu savīnuojums ar itū lopu izmontoj vuoju šifriešonu i nav privats.
 identity-description-weak-cipher-risk = Cyti cylvāki var apsavērt jiusu informaceju voi modificeit lopys uzvedeibu.
 identity-description-active-blocked2 = { -brand-short-name } blokieja nadrūsū saturu itymā lopā.
@@ -167,12 +156,6 @@ identity-description-passive-loaded-insecure2 = This website contains content th
 identity-description-passive-loaded-mixed2 = Kab ari { -brand-short-name } blokieja nadrūsū saturu, lopā vys vēļ ir saturs, kas nav drūss (pīmāram attāli).
 identity-description-active-loaded = Ituos lopys daļis (pīmāram attāli voi skripti) nav drūsais i jiusu savīnuojums nav privats.
 identity-description-active-loaded-insecure = Information you share with this site could be viewed by others (like passwords, messages, credit cards, etc.).
-identity-disable-mixed-content-blocking =
-    .label = Disable protection for now
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = Aktivēt aizsardzeibu
-    .accesskey = b
 identity-more-info-link-text =
     .label = Seikuoka informaceja
 
@@ -207,8 +190,6 @@ urlbar-extension =
     .value = Paplošynuojums:
 urlbar-go-button2 =
     .title = Puorīt iz adresu, kas radzama vītys juslā
-urlbar-go-button =
-    .tooltiptext = Puorīt iz adresu, kas radzama vītys juslā
 urlbar-page-action-button =
     .tooltiptext = Lopys darbeibys
 
@@ -278,12 +259,6 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Paslēpt gruomotzeimju suonjūsla
            *[other] Attāloj gruomotzeimes suonu juslā
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Aizvuokt gruomotzeimju izvēlni/izvielni nu reikjūslys
-           *[other] Pīvīnuot gruomotzeimju izvēlni/izvielni reikjūslai
-        }
 
 ##
 
@@ -339,28 +314,10 @@ eme-notifications-drm-content-playing = Some audio or video on this site uses DR
 ui-tour-info-panel-close =
     .tooltiptext = Aiztaiseit
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = Allow pop-ups for { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Block pop-ups for { $uriHost }
-    .accesskey = p
-
-##
-
-popups-infobar-dont-show-message =
-    .label = Don’t show this message when pop-ups are blocked
-    .accesskey = D
-
 ##
 
 navbar-downloads =
     .label = Lejupīluodes
-navbar-overflow =
-    .tooltiptext = Cyti reiki…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

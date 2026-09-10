@@ -16,9 +16,6 @@ genai-settings-chat-localhost-links = ניתן לספק צ’אטבוט מקומ
 
 ## Chatbot menu shortcuts
 
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = לשאול את { $provider }
 genai-menu-open-generic =
     .label = פתיחת צ’אטבוט AI
 # $provider (string) - name of the provider
@@ -74,8 +71,6 @@ genai-header-provider-menu =
     .title = בחירת צ’אטבוט
 genai-header-settings-button =
     .title = הגדרות צ’אט AI
-genai-header-options-button =
-    .title = פתיחת תפריט
 genai-header-close-button =
     .title = סגירה
 genai-provider-view-details =
@@ -103,36 +98,25 @@ genai-page-button-summarize = סיכום העמוד
 
 ## Chatbot onboarding
 
-genai-onboarding-header = סיכום טקסט, סיעור מוחות ועוד תוך כדי גלישה
 genai-onboarding-choose-header = בחירת צ’אטבוט AI לשימוש בסרגל הצד של { -brand-short-name }
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = יש לבחור בצ’אטבוט AI לשימוש בסרגל הצד של { -brand-short-name }. אנו נציג פרטים על כל צ’אטבוט לאחר בחירה בו. ניתן להחליף בינהם בכל עת. <a data-l10n-name="learn-more">מידע נוסף</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = אפשר להחליף בינהם בכל עת. לקבלת עזרה בבחירה, <a data-l10n-name="learn-more">אפשר לקבל כאן מידע נוסף על כל צ’אטבוט</a>.
 genai-onboarding-primary = המשך
 genai-onboarding-secondary = סגירה
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = מידע נוסף על Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = מידע נוסף על ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = מידע נוסף על Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = מידע נוסף על Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = מידע נוסף על HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = מידע נוסף על Le Chat
-genai-onboarding-select-header = יש לבחור בטקסט כדי לראות הצעות
-genai-onboarding-select-primary = התחלה בשיחוח
 genai-chatbot-contextual-title = שימוש בצ’אטבוט AI מבלי להחליף לשוניות
 genai-chatbot-contextual-subtitle = ניתן להתכתב עם AI ולגלוש בו זמנית, זה לצד זה, כאשר מוסיפים צ’אטבוט AI בסרגל הצד של { -brand-short-name }.
 genai-chatbot-contextual-button = בחירת צ’אטבוט
@@ -145,27 +129,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = יש ללחוץ לחיצה י
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = יש לפתוח את הצ’אטבוט AI שלך בסרגל הכלים ולבחור באפשרות ״סיכום העמוד״ שבתחתית.
 genai-chatbot-summarize-footer-generic-subtitle = ניתן להוסיף צ’אטבוט AI לסרגל הכלים של { -brand-short-name } כדי לסכם עמודים במהירות.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = יצירת טקסט וקוד
-genai-onboarding-claude-analyze = ניתוח מסמכים ותמונות
-genai-onboarding-claude-price = אפשרויות בחינם ובתשלום; נדרש חשבון
-genai-onboarding-chatgpt-generate = יצירת טקסט, תמונות וקוד
-genai-onboarding-chatgpt-analyze = ניתוח מסמכים ותמונות
-genai-onboarding-chatgpt-price = אפשרויות בחינם ובתשלום; נדרש חשבון עבור מדינות ומשימות מסויימות
-genai-onboarding-copilot-generate = יצירת טקסט, תמונות וקוד
-genai-onboarding-copilot-analyze = ניתוח תמונות
-genai-onboarding-copilot-price = אפשרויות בחינם ובתשלום; נדרש חשבון עבור חלק מהמשימות
-genai-onboarding-gemini-generate = יצירת טקסט, תמונות וקוד
-genai-onboarding-gemini-analyze = ניתוח תמונות (בחינם) ומסמכים (בתשלום)
-genai-onboarding-gemini-price = אפשרויות בחינם ובתשלום; נדרש חשבון
-genai-onboarding-huggingchat-generate = יצירת טקסט וקוד
-genai-onboarding-huggingchat-switch = מעבר בין סט מגוון של דגמים פתוחים
-genai-onboarding-huggingchat-price-2 = בחינם; נדרש חשבון לאחר מספר מסוים של בקשות
-genai-onboarding-lechat-generate = יצירת טקסט וקוד
-genai-onboarding-lechat-price = בחינם, נדרש חשבון
 
 ## Model Optin Component
 
@@ -204,8 +167,8 @@ link-preview-generation-retry = ניסיון חוזר
 link-preview-settings-button =
     .title = הגדרות תצוגה מקדימה לקישורים
 link-preview-settings-enable =
-    .label = הפעלת תצוגה מקדימה לקישורים
     .description = צפייה בכותרת העמוד, התיאור ועוד בעת שימוש בקיצור הדרך או בלחיצה ימנית על קישור.
+    .label = הפעלת תצוגה מקדימה לקישורים
 link-preview-settings-key-points =
     .label = לאפשר לבינה מלאכותית לקרוא את תחילת העמוד וליצור נקודות מפתח
 link-preview-settings-long-press =

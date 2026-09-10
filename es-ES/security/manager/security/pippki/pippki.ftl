@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = En este momento está en modo FIPS. FIPS r
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Restablecer la contraseña maestra
     .style = min-width: 40em
+    .title = Restablecer la contraseña maestra
 reset-password-button-label =
     .label = Restablecer
 reset-primary-password-text = Si restablece su contraseña maestra, se olvidarán todas las contraseñas de webs, correo electrónico, certificados personales y llaves privadas almacenadas. ¿Está seguro de que quiere restablecer su contraseña maestra?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Se ha restablecido su contraseña m
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Descargando certificado
     .style = min-width: 46em
+    .title = Descargando certificado
 download-cert-message = Se le ha pedido que confíe en una nueva Autoridad Certificadora (CA).
 download-cert-trust-ssl =
     .label = Confiar en esta CA para identificar sitios web.
@@ -52,8 +52,6 @@ download-cert-view-text = Examinar certificado de CA
 
 client-auth-window =
     .title = Petición de identificación de usuario
-client-auth-site-description = El siguiente sitio ha pedido que usted se identifique con un certificado:
-client-auth-choose-cert = Elija un certificado para presentarlo como identificación:
 client-auth-send-no-certificate =
     .label = No enviar un certificado
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Por favor, autentíquese en el dispositivo de seguridad ({ $tokenName }). La forma de hacerlo depende del dispositivo (por ejemplo, usando un lector de huellas o escribiendo un código en un teclado).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Autentíquese utilizando el token “{ $tokenName }”. Cómo hacerlo depende del token (por ejemplo, usando un lector de huellas dactilares o introduciendo un código con un teclado).

@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = अपवाद
     .style = min-width: 45em
+    .title = अपवाद
 permissions-close-key =
     .key = w
 permissions-block =
@@ -33,10 +33,6 @@ permissions-capabilities-listitem-allow-session =
 
 permissions-invalid-uri-title = अवैध मेजबाननाम देल गेल
 permissions-invalid-uri-label = एकटा वैध मेजबाननाम डालू
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-desc = कओनसँ वेबसाइटक पापअप विंडो खुलत ई अहाँक हाथमे अछि. जकरा अहाँ ई अनुमति देब चाहैत छी हुनकर सही वेब पता लिखू आओर 'अनुमति दिअ' पर क्लिक करू .
 
 ## Exceptions - Add-ons
 

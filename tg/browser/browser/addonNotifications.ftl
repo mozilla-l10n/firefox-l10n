@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Идома додани насбкунӣ
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Ин сомона ба дастгоҳҳои MIDI (Интерфейси рақамӣ барои асбобҳои мусиқӣ)-и шумо дастрасӣ дархост мекунад. Дастрасӣ ба дастгоҳ метавонад тавассути насби ҷузъи иловагӣ фаъол карда шавад.
 site-permission-install-first-prompt-midi-message = Ягон бехатарӣ барои ин дастрасӣ кафолат дода намешавад. Идома диҳед, танҳо агар шумо ба ин сомона эътимод кунед.
 site-permission-install-first-prompt-serial-header = Ин сомона ба дастгоҳҳои силсилавии шумо дастрасиро дархост мекунад. Дастрасӣ ба дастгоҳ метавонад ба воситаи насб кардани ҷузъи иловагӣ фаъол карда шавад.
 site-permission-install-first-prompt-serial-message = Ягон бехатарӣ барои ин дастрасӣ кафолат дода намешавад. Идома диҳед, танҳо агар шумо ба ин сомона эътимод кунед.
-
-##
-
-xpinstall-disabled-locked = Насбкунии нармафзор аз ҷониби маъмури низоми шумо ғайрифаъол карда шуд.
 xpinstall-disabled-by-policy = Насбкунии нармафзор аз ҷониби ташкилоти шумо ғайрифаъол карда шуд.
 xpinstall-disabled = Айни ҳол насбкунии нармафзор ғайрифаъол аст. Тугмаи «Фаъол кардан»-ро зер карда, аз нав кӯшиш кунед.
 xpinstall-disabled-button =
     .label = Фаъол кардан
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) аз ҷониби маъмури низоми шумо ғайрифаъол карда шуд.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Маъмури низои шумо дархостҳои ин сомонаро барои насб кардани нармафзор дар компютери шумо манъ кард.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = Ба анҷом расонидани насби вас�
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = «{ $name }»-ро тоза мекунед?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = { $name }-ро аз { -brand-shorter-name } тоза мекунед?
 addon-removal-button = Тоза кардан
 addon-removal-abuse-report-checkbox = Фиристодани гузориш дар бораи ин васеъшавӣ ба { -vendor-short-name }
 # "it" refers to the local AI model that is paired to the AI feature
@@ -139,7 +122,5 @@ addon-local-install-no-addon-name-error-file-access = Ҷузъи иловагӣ 
 addon-install-error-incompatible = { $addonName } насб карда намешавад, зеро ки он ба { -brand-short-name } { $appVersion } мувофиқат намекунад.
 addon-install-error-hard-blocked = «{ $addonName }» сиёсатҳои «Mozilla»-ро вайрон мекунад ва дар «{ -brand-short-name }» насб карда намешавад.
 addon-install-error-soft-blocked2 = «{ $addonName }» маҳдуд шудааст ва дар «{ -brand-short-name }» насб карда намешавад.
-addon-install-error-blocklisted = { $addonName } насб карда намешавад, зеро ки он барои ба вуҷуд овардани мушкилиҳои устуворӣ ва амниятӣ хатари баланд дорад.
-addon-install-error-soft-blocked = «{ $addonName }» сиёсатҳои «Mozilla»-ро вайрон мекунад ва дар «{ -brand-short-name }» насб карда намешавад.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Шумо наметавонед, ки «{ $addonName }»-ро ҳамчун корбари ниҳоӣ насб намоед, зеро ки он метавонад танҳо аз ҷониби ташкилоте, ки аз сиёсатҳои корхона истифода мебарад, насб карда шавад.

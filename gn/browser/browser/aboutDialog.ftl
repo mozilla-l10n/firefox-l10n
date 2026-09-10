@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Oñemboguejyhína tekopyahu —<label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Oguejyhína ñemhekopyahu — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Oñemboguejyhína tekopyahu —{ $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Ojeporuhína tekopyahu…
 update-failed = Tekopyahu ndoikói.<label data-l10n-name="failed-link">Emboguejy apopy ipyahuvéva</label>
 update-failed-main = Tekopyahu ndoikói.<a data-l10n-name="failed-link-main">Emboguejy apopy ipyahuvéva</a>
-update-adminDisabled = Tekopyahu ñangarekohára omongeva’ekue
 update-policy-disabled = Ñembohekopyahu oipe’áva ne mba’apohaguasu
 settings-update-policy-disabled =
     .label = Ñembohekopyahu oipe’áva ne mba’apohaguasu
@@ -72,8 +70,6 @@ helpus-referrals2 = ¿Eipytyvõsepa? <label data-l10n-name="helpus-donateLink">E
 bottomLinks-license = Marandu ñe’ẽme’ẽguigua
 bottom-links-terms = Jeporurã reko
 bottom-links-privacy = Marandu’i ñemigua
-bottomLinks-rights = Poruhára paha mba’engatu
-bottomLinks-privacy = Temiñemi porureko
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

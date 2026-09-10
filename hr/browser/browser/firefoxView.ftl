@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Pogledaj nedavno pregledavanje na ovom i drugim uređajima
@@ -16,40 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Zatvori
-    .aria-label = Zatvori
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Upravo sada
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Preuzimanje kartica
-firefoxview-tabpickup-description = Otvori stranica s drugih uređaja.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue } % dovršeno
-firefoxview-tabpickup-step-signin-header = Prebaci se bez problema između uređaja
-firefoxview-tabpickup-step-signin-description = Za preuzimanje kartica sa svog mobitela ovdje, najprije se prijavi ili otvori račun.
-firefoxview-tabpickup-step-signin-primarybutton = Nastavi
 firefoxview-syncedtabs-signin-header-2 = Tvoj { -brand-product-name } na svim tvojim uređajima
 firefoxview-syncedtabs-signin-description-2 = Za prikaz otvorenih kartica na tvom telefonu i drugim uređajima, prijavi se ili se registriraj. S računom također možeš sinkronizirati tvoje lozinke, povijest i još više.
 firefoxview-syncedtabs-signin-primarybutton-2 = Prijavi se
-firefoxview-tabpickup-adddevice-header = Sinkroniziraj { -brand-product-name } na svom telefonu ili tabletu
-firefoxview-tabpickup-adddevice-description = Preuzmi { -brand-product-name } za moblni uređaj i tamo se prijavi.
-firefoxview-tabpickup-adddevice-learn-how = Saznaj kako
-firefoxview-tabpickup-adddevice-primarybutton = Nabavi { -brand-product-name } za mobilne uređaje
 firefoxview-syncedtabs-adddevice-header-2 = Ugrabi kartice od bilo kuda
 firefoxview-syncedtabs-adddevice-description-2 = Prijavi se na { -brand-product-name } na svom telefonu ili drugom računalu kako bi se ovdje prikazale kartice. Saznaj kako <a data-l10n-name="url">povezati dodatne uređaje</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Isprobaj { -brand-product-name } za mobitel
-firefoxview-tabpickup-synctabs-header = Uključi sinkronizaciju kartica
-firefoxview-tabpickup-synctabs-description = Dozvoli da { -brand-short-name } dijeli kartice između uređaja.
-firefoxview-tabpickup-synctabs-learn-how = Saznaj kako
 firefoxview-tabpickup-synctabs-primarybutton = Sinkroniziraj otvorene kartice
 firefoxview-syncedtabs-synctabs-header = Aktualiziraj tvoje postavke sinkronizacije
 firefoxview-syncedtabs-synctabs-description = Za prikaz kartica s drugih uređaja moraš sinkronizirati otvorene kartice.
 firefoxview-syncedtabs-loading-header = Sinkronizacija u tijeku
 firefoxview-syncedtabs-loading-description = Kada sinkronizacija završi, vidjet ćeš sve otvorene kartice s drugih uređaja. Navrati uskoro.
 firefoxview-tabpickup-fxa-admin-disabled-header = Tvoja je organizacija deaktivirala sinkronizaciju
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ne može sinkronizirati kartice između uređaja jer je tvoj administrator deaktivirao sinkronizaciju.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ne može sinkronizirati kartice između uređaja jer je tvoja organizacija deaktivirala sinkronizaciju.
 firefoxview-tabpickup-network-offline-header = Provjeri internetsku vezu
 firefoxview-tabpickup-network-offline-description = Ako koristiš vatrozid ili proxy, provjeri ima li { -brand-short-name } dozvolu za pristup webu.
@@ -66,37 +43,16 @@ firefoxview-tabpickup-password-locked-link = Saznaj više
 firefoxview-tabpickup-password-locked-primarybutton = Upiši primarnu lozinku
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Saznaj više</a>
 firefoxview-tabpickup-signed-out-header = Prijavi se za ponovno povezivanje
-firefoxview-tabpickup-signed-out-description = Za ponovno povezivanje i preuzimanje tvojih kartica, prijavi se na { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Za ponovno povezivanje i preuzimanje tvojih kartica prijavi se.
 firefoxview-tabpickup-signed-out-primarybutton = Prijavi se
-firefoxview-tabpickup-syncing = Pričekaj sinkroniziraju kartica. Neće dugo trajati.
-firefoxview-mobile-promo-header = Preuzmi kartice sa svog mobitela ili tableta
-firefoxview-mobile-promo-description = Za pregled najnovijih mobilnih kartica prijavite se na { -brand-product-name } na iOSu ili Androidu.
-firefoxview-mobile-promo-primarybutton = Nabavi { -brand-product-name } za mobilne uređaje
-firefoxview-mobile-confirmation-header = 🎉 Sve je spremno!
-firefoxview-mobile-confirmation-description = Sada možeš preuzeti svoje { -brand-product-name } kartice sa svog tableta ili mobitela.
-firefoxview-closed-tabs-title = Nedavno zatvorene kartice
-firefoxview-closed-tabs-description2 = Ponovo otvori stranice koje si zatvorio/la u ovom prozoru.
-firefoxview-closed-tabs-placeholder-header = Nema nedavno zatvorenih kartica
-firefoxview-closed-tabs-placeholder-body = Kada zatvoriš karticu u ovom prozoru, možeš je preuzeti odavde.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Odbaci { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Zadnja aktivna kartica
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Otvori { $targetURI } u novoj kartici
-firefoxview-try-colorways-button = Isprobaj kolorite
-firefoxview-change-colorway-button = Promijeni kolorit
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Još se nema što vidjeti
-firefoxview-synced-tabs-placeholder-body = Sljedeći put kada otvoriš stranicu u { -brand-product-name }u na jednom drugom uređaju, zgrabi je ovdje.
 firefoxview-collapse-button-show =
     .title = Prikaži popis
 firefoxview-collapse-button-hide =

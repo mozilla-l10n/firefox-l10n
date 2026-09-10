@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = ახალი ჩანართი
-    .accesskey = ხ
 reload-tab =
     .label = ჩანართის განახლება
     .accesskey = გ
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = ახალი ჯგუფი
     .accesskey = ჯ
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -198,13 +191,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = გასაზიარებელი ბმულის შედგენა
     .accesskey = ზ
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] ჩანართის მოწყობილობაზე გაგზავნა
-           *[other] { $tabCount } ჩანართის მოწყობილობაზე გაგზავნა
-        }
-    .accesskey = ნ
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

@@ -29,5 +29,3 @@ about-networking-dns-lookup = Kúan DNS
 about-networking-dns-lookup-button = Thus kuey
 about-networking-dns-domain = Pá xöy:
 about-networking-dns-lookup-table-column = IPs
-about-networking-rcwn = RCWN Stats
-about-networking-rcwn-status = Sá dú RCWN

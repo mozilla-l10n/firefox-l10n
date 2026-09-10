@@ -147,15 +147,10 @@ addon-category-sitepermission-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Ապահով աշխատակերպն անջատել է բոլոր յաւելումները:
-extensions-warning-check-compatibility = Յաւելումների համատեղելիութեան ստուգումն անջատուած է: Կարող են առկայ լինել անհամատեղելի յաւելումներ:
-extensions-warning-safe-mode2 =
-    .message = Ապահով աշխատակերպն անջատել է բոլոր յաւելումները:
 extensions-warning-check-compatibility2 =
     .message = Յաւելումների համատեղելիութեան ստուգումն անջատուած է: Կարող են առկայ լինել անհամատեղելի յաւելումներ:
 extensions-warning-check-compatibility-button = Միացնել
     .title = Միացնել  յաւելման համատեղելիութեան ստուգումը
-extensions-warning-update-security = Յաւելումների թարմացման անվտանգութեան ստուգումն անջատուած է: Թարմացումները կարող են վտանգաւոր լինել:
 extensions-warning-update-security2 =
     .message = Յաւելումների թարմացման անվտանգութեան ստուգումն անջատուած է: Թարմացումները կարող են վտանգաւոր լինել:
 extensions-warning-update-security-button = Միացնել
@@ -219,10 +214,6 @@ shortcuts-duplicate = Կրկնաւրինակել դիւրանցումը
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut }-ն աւգտագործուում է որպէս դիւրանցում աւելի քան մեկ անգամ։ Կրկնաւրինակուած դիւրանցումները կարող են անսպասելի հետեւանքի յանգեցնել
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut }-ն աւգտագործուում է որպէս դիւրանցում աւելի քան մեկ անգամ։ Կրկնաւրինակուած դիւրանցումները կարող են անսպասելի հետեւանքի յանգեցնել
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -242,14 +233,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Ընդլայնումները եւ համապատկերները նման են ձեր դիտարկչի յաւելուածներին եւ թոյլատրում են պաշտպանել գաղտնաբառերը, ներբեռնել տեսանիւթեր, գտնել զեղչեր, արգելափակել նեարդայնացնող գովազդները, փոխել  դիտարկչի տեսքը եւ աւելին։ Այս փոքր ծրագրերաշարերը յաճախ մշակուում են երրորդ անձի կողմից։ Ահաւասիկ ընդլայնումների եւ համապատկերների ընտրութիւն,
-    <a data-l10n-name="learn-more-trigger">որոնք առաջարկուում են </a>{ -brand-product-name }֊ի կողմից իրենց բացառիկ
-    անվտանգութեան, արդիւնաւէտութեան եւ գործունակութեան համար։
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Այս առաջարկների որոշ մասն անհատականացուած է։ Դրանք հիմնուած են Ձեր կողմից տեղադրուած այլ ընդլայնումների, յատկագրի նախընտրութիւնների եւ աւգտագործման վիճակագրութիւնների վրայ:
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message = Այս առաջարկների որոշ մասն անհատականացուած է։ Դրանք հիմնուած են Ձեր կողմից տեղադրուած այլ ընդլայնումների, յատկագրի նախընտրութիւնների եւ աւգտագործման վիճակագրութիւնների վրայ:
@@ -314,16 +297,9 @@ addon-detail-last-updated-label = Վերջին թարմացումը
 addon-detail-homepage-label = Տնէջ
 addon-detail-rating-label = Վարկանիշ
 # Message for add-ons with a staged pending update.
-install-postponed-message = Ընդլայնումը պէտք է արդիացուի, երբ { -brand-short-name } -ը վերամեկնարկուում է:
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Ընդլայնումը պէտք է արդիացուի, երբ { -brand-short-name } -ը վերամեկնարկուում է:
 install-postponed-button = Արդիացնել հիմա
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Գնահատուած է { NUMBER($rating, maximumFractionDigits: 1) }՝ 5-ից
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -341,9 +317,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span>-ը հեռացուել է։
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = { $addon }-ը հեռացուել է։
 pending-uninstall-undo-button = Յետարկել
@@ -357,11 +330,6 @@ install-update-button = Թարմացնել
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
     .title = Թոյլատրուած է գաղտնի պատուհաններում
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
-    .title = Թոյլատրուած է գաղտնի պատուհաններում
 addon-detail-private-browsing-help = Երբ թոյլատրած է, ընդլայնումը մուտք կունենայ Ձեր առցանց գործունէութեանը  գաղտնի դիտարկելիս։ <a data-l10n-name="learn-more"> Իմանալ աւելին </a>
 addon-detail-private-browsing-allow = Թոյլատրել
 addon-detail-private-browsing-disallow = Չթոյլատրել
@@ -369,17 +337,6 @@ addon-detail-private-browsing-disallow = Չթոյլատրել
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name }-ը առաջարկում է միայն այն ընդլայնումները, որոնք համապատասխանում են անվտանգութեան և արդիւնաւէտութեան մեր չափաւրինակներին
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Պաշտաւնական ընդլայնման կառոյց Mozilla֊ի կողմից։ Համապատասխանում է անվտանգութեան եւ կատարողականութեան չափաւրինակներին։
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Այս ընդլայնումը վերանայուել է անվտանգութեան եւ գործադրութեան, մեր չափաւրինակներին համապատասխանելու համար
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -391,9 +348,6 @@ available-updates-heading = Առկայ թարմացումներ
 recent-updates-heading = Վերջին թարմացումները
 release-notes-loading = Բեռնում…
 release-notes-error = Թողարկման նշումները բեռնելիս սխալ է տեղի ունեցել։
-addon-permissions-empty = Այս ընդլայնումը թոյլատուութիւններ չի պահանջում
-addon-permissions-required = Պահանջուած թոյլտուութիւնները միջուկի գործառութեան համար.
-addon-permissions-optional = Ընտրովի թոյլտուութիւնները աւելացուած գործառութեան համար.
 addon-permissions-learnmore = Իմանալ աւելին թոյլտուութիւնների մասին
 recommended-extensions-heading = Առաջարկուող ընդլայնումներ
 recommended-themes-heading = Առաջարկուող հիմնապատկերներ
@@ -427,24 +381,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name }-ը եւ { -brand-short-name } { $version }-ը անհամատեղելի են:
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name }-ը եւ { -brand-short-name } { $version }-ը անհամատեղելի են:
-details-notification-unsigned-and-disabled = { $name }-ը չէր կարող հաստատուել { -brand-short-name }-ում աւգտագործման համար եւ անջատուել է։
 details-notification-unsigned-and-disabled2 =
     .message = { $name }-ը չէր կարող հաստատուել { -brand-short-name }-ում աւգտագործման համար եւ անջատուել է։
-details-notification-unsigned-and-disabled-link = Աւելի շատ տեղեկութիւն
-details-notification-unsigned = { $name }-ը չէր կարող վաւերացուել { -brand-short-name }-ում աւգտագործման համար։ Շարունակէք զգուշաւրէն։
 details-notification-unsigned2 =
     .message = { $name }-ը չէր կարող վաւերացուել { -brand-short-name }-ում աւգտագործման համար։ Շարունակէք զգուշաւրէն։
-details-notification-unsigned-link = Աւելի շատ տեղեկութիւն
-details-notification-blocked = { $name }-ը անջատուել է` անվտանգութիւն կամ կայունութիւն ապահովելու նպատակով:
-details-notification-blocked-link = Աւելի շատ տեղեկութիւն
-details-notification-softblocked = Յայտնի է, որ { $name }-ը պատճառում է ապահովութեան կամ կայունութեան խնդիրներ:
-details-notification-softblocked-link = Աւելի շատ տեղեկութիւն
-details-notification-gmp-pending = { $name }-ը շուտով կը տեղադրուի:
 details-notification-gmp-pending2 =
     .message = { $name }-ը շուտով կը տեղադրուի:
 

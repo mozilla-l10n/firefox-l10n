@@ -12,9 +12,6 @@ crashes-no-config = Hierdie program is nie opgestel om omvalverslae te wys nie.
 support-addons-name = Naam
 support-addons-version = Weergawe
 support-addons-id = ID
-features-name = Naam
-features-version = Weergawe
-features-id = ID
 app-basics-title = Basiese toepassingdetails
 app-basics-name = Naam
 app-basics-version = Weergawe
@@ -26,7 +23,6 @@ app-basics-profile-dir =
         [linux] Profielgids
        *[other] Profielvouer
     }
-app-basics-enabled-plugins = Geaktiveerde inproppe
 app-basics-build-config = Boukonfigurasie
 app-basics-user-agent = Gebruikeragent
 app-basics-memory-use = Geheuegebruik

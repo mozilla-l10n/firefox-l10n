@@ -48,7 +48,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Duomenų iškoduotuvas ({ $pid })
 about-processes-socket-process = Tinklas ({ $pid })
-about-processes-remote-sandbox-broker-process = Nuotolinis izoliavimo brokeris ({ $pid })
 about-processes-fork-server-process = Fork serveris ({ $pid })
 about-processes-preallocated-process = Išskirtas iš anksto ({ $pid })
 # Unknown process names
@@ -56,17 +55,6 @@ about-processes-preallocated-process = Išskirtas iš anksto ({ $pid })
 #    $pid (String) The process id of this process, assigned by the OS.
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = Kitas: { $type } ({ $pid })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, aptarnavimo scenarijus)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, „cross-origin“ izoliacija)
-about-processes-web-isolated-process-private = { $origin } – privatus ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } – privatus ({ $pid }, „cross-origin“ izoliacija)
 
 ## Details within processes
 

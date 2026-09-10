@@ -22,13 +22,11 @@ neterror-override-exception-button = Jaɓ tanaa oo njokkaa
 neterror-pref-reset-button = Artir teelte goowaaɗe
 neterror-return-to-previous-page-button = Rutto
 neterror-return-to-previous-page-recommended-button = Rutto (Wasiyaa)
-neterror-try-again-button = Fuɗɗito
 neterror-view-certificate-link = Yiy Sartifikaa
 
 ##
 
 neterror-pref-reset = Ena wayi hono teelte kisal laylaytol maa gaddata ɗee caɗe. Aɗa yiɗi artirde teelte goowaaɗe ɗee?
-neterror-error-reporting-automatic = Jaŋto juume hono ɗee ngam wallude { -vendor-short-name } heftinde e falaade lowe bonnooje
 
 ## Specific error messages
 
@@ -45,8 +43,6 @@ neterror-file-not-found-moved = Ƴeewto ngam so fiilde ndee dirtinaaka, innitaak
 neterror-access-denied = Maa taw ko nde momtaande, dirtinaande, walla jamire fiilde ena kala ballagol.
 neterror-unknown-protocol = Ena wona ko maa aafaa won e topirɗe ngam waawde udditde ndee ñiiɓirde.
 neterror-redirect-loop = Ɗee caɗeele ena mbaawi arde so tawii ko a daaƴɗo walla caliiɗo kukiije.
-neterror-unknown-socket-type-psm-installed = Ƴeewto ngam yuurnitaade so yuɓɓo maa ena aafaa Personal Security Manager.
-neterror-unknown-socket-type-server-config = Ɗum ena jolde so tawii teeltol sarworde ndee heftinaaka.
 neterror-not-cached-intro = Fiilannde ɗaɓɓitaande ndee woodaani e kaasol { -brand-short-name }.
 neterror-not-cached-sensitive = Ngam reentino kisal, { -brand-short-name } naamnittaako piilanɗe doondiiɗe caɗeele e jaajol.
 neterror-not-cached-try-again = Dobo ngam fuɗɗitaade naamnito-ɗaa fiilannde ndee e lowre ndee

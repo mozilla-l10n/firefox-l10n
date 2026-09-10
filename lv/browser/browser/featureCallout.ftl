@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = Pārleciet starp ierīcēm ar cilņu pa�
 callout-firefox-view-tab-pickup-subtitle = Ātri paņemiet tālrunī atvērtās cilnes un atveriet tās šeit, lai ātri pārslēgtos.
 callout-firefox-view-recently-closed-title = Vienā mirklī atgūstiet aizvērtās cilnes
 callout-firefox-view-recently-closed-subtitle = Šeit parādīsies visas jūsu aizvērtās cilnes. Jums vairs nebūs jāuztraucas par nejaušu vietnes aizvēršanu.
-callout-firefox-view-colorways-title = Pievienot krāsas uzsvaru
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Kārsu ceļā izvēlieties toni, kas jūs uzrunā. Tikai { -brand-product-name }.
-callout-firefox-view-colorways-reminder-title = Izpētiet mūsu jaunākos krāsu ceļus
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Iekrāsojiet savu pārlūkprogrammu ar šiem ikoniskajiem toņiem, kurus iedvesmojušas neatkarīgas balsis. Tikai { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

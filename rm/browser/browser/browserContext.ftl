@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Ina pagina enavos ({ $shortcut })
     .aria-label = Enavos
+    .tooltiptext = Ina pagina enavos ({ $shortcut })
     .accesskey = E
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Ina pagina enavant ({ $shortcut })
     .aria-label = Enavant
+    .tooltiptext = Ina pagina enavant ({ $shortcut })
     .accesskey = n
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Agiuntar in segnapagina per la pagina…
-    .accesskey = n
     .tooltiptext = Agiuntar in segnapagina per la pagina
+    .accesskey = n
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Agiuntar in segnapagina per la pagina…
-    .accesskey = n
     .tooltiptext = Agiuntar in segnapagina per la pagina ({ $shortcut })
+    .accesskey = n
 main-context-menu-edit-bookmark =
     .aria-label = Modifitgar il segnapagina…
-    .accesskey = n
     .tooltiptext = Modifitgar il segnapagina
+    .accesskey = n
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Modifitgar il segnapagina…
-    .accesskey = m
     .tooltiptext = Modifitgar il segnapagina ({ $shortcut })
+    .accesskey = m
 main-context-menu-open-link =
     .label = Avrir la colliaziun
     .accesskey = A
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Memorisar la destinaziun sut…
     .accesskey = z
-main-context-menu-save-link-to-pocket =
-    .label = Memorisar la colliaziun en { -pocket-brand-name }
-    .accesskey = c
 
 ##
 
@@ -299,40 +290,22 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Trametter ad in apparat mobil
     .accesskey = n
-main-context-menu-save-to-pocket =
-    .label = Memorisar la pagina en { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Trametter la pagina ad in apparat
-    .accesskey = a
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Utilisar l'infurmaziun d'annunzia memorisada
-    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Utilisar il pled-clav memorisà
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Utilisar in alias dad e-mail da { -relay-brand-short-name }
     .accesskey = e
 main-context-menu-suggest-strong-password =
     .label = Proponer in ferm pled-clav…
     .accesskey = P
-main-context-menu-manage-logins2 =
-    .label = Administrar las datas d'annunzia
-    .accesskey = m
 main-context-menu-manage-passwords =
     .label = Administrar ils pleds-clav
     .accesskey = m
-main-context-menu-keyword =
-    .label = Agiuntar in pled magic per questa tschertga…
-    .accesskey = s
 main-context-menu-add-engine =
     .label = Agiuntar ina maschina da retschertga
     .accesskey = s
@@ -381,9 +354,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Far in maletg dal visur
     .accesskey = t
-main-context-menu-take-frame-screenshot =
-    .label = Far in maletg dal visur
-    .accesskey = u
 main-context-menu-view-page-source =
     .label = Mussar il code da funtauna da la pagina
     .accesskey = a

@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Savienojuma iestatījumi
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Savienojuma iestatījumi
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Pārlādēt
     .accesskey = r
-connection-proxy-autologin =
-    .label = Nerādīt autentificēšanās uzvedni, ja ir saglabāta parole
-    .tooltip = Šī iespēja nemanot autentificēs Tevi starpniekserveros, kuriem ir saglabāti pieteikšanās dati. Ja autentificēšanās neizdosies, tiks parādīta uzvedne.
-    .accesskey = i
 connection-proxy-autologin-checkbox =
     .label = Nerādīt autentificēšanās uzvedni, ja ir saglabāta parole
-    .accesskey = i
     .tooltiptext = Šī iespēja nemanot autentificēs Tevi starpniekserveros, kuriem ir saglabāti pieteikšanās dati. Ja autentificēšanās neizdosies, tiks parādīta uzvedne.
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = Starpniekservera DNS, izmantojot SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Izmantot noklusējuma URL, lai noskaidrotu DNS caur HTTPS
 connection-dns-over-https-url-custom =
     .label = Pielāgots
-    .accesskey = P
     .tooltiptext = Ievadiet savu adresi, ko izmantot, lai strādātu ar DNS pa HTTPS
-connection-dns-over-https-custom-label = Pielāgots
+    .accesskey = P

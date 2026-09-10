@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Sakrij zatvorene PeerCo
 about-webrtc-aec-logging-msg-label = AEC zapisivanje
 about-webrtc-aec-logging-off-state-label = Započni AEC zapisivanje
 about-webrtc-aec-logging-on-state-label = Zaustavi AEC zapisivanje
-about-webrtc-aec-logging-on-state-msg = AEC zapisivanje aktivno (razgovarajte s pozivaocem par minuta a zatim zaustavite snimanje)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC zapisivanje aktivno (razgovarajte s pozivaocem par minuta a zatim zaustavite snimanje)
 about-webrtc-aec-logging-unavailable-sandbox = Varijabla okruženja MOZ_DISABLE_CONTENT_SANDBOX=1 je potrebna za izvoz AEC logova. Postavite ovu varijablu samo ako razumijete moguće rizike.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Nominirani
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Izabrano
 about-webrtc-save-page-label = Spasi stranicu
-about-webrtc-debug-mode-msg-label = Režim debagiranja
-about-webrtc-debug-mode-off-state-label = Započni režim debagiranja
-about-webrtc-debug-mode-on-state-label = Zaustavi režim debagiranja
-about-webrtc-stats-heading = Statistika sesije
 about-webrtc-enable-logging-label = Omogući unaprijed postavljene postavke zapisnika WebRTC-a
 about-webrtc-peerconnections-section-heading = Statistika RTCPeerConnection-a
 about-webrtc-peerconnections-section-show-msg = Prikaži statistiku RTCPeerConnection-a
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = Sakrij statistiku RTCPeerConnect
 about-webrtc-stats-clear = Obriši historiju
 about-webrtc-log-heading = Zapisnik veze
 about-webrtc-log-clear = Očisti zapisnik
-about-webrtc-log-show-msg = prikaži zapisnik
-    .title = kliknite za proširenje ove sekcije
-about-webrtc-log-hide-msg = sakrij zapisnik
-    .title = kliknite za skupljanje ove sekcije
 about-webrtc-log-section-show-msg = Prikaži zapisnik
     .title = Kliknite za proširenje ove sekcije
 about-webrtc-log-section-hide-msg = Sakrij zapisnik
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Udaljeni kandidat
 about-webrtc-raw-candidates-heading = Svi sirovi kandidati
 about-webrtc-raw-local-candidate = Sirovi lokalni kandidati
 about-webrtc-raw-remote-candidate = Sirovi udaljeni kandidati
-about-webrtc-raw-cand-show-msg = prikaži sirove kandidate
-    .title = kliknite za proširenje ove sekcije
-about-webrtc-raw-cand-hide-msg = sakrij sirove kandidate
-    .title = kliknite za skupljanje ove sekcije
 about-webrtc-raw-cand-section-show-msg = Prikaži sirove kandidate
     .title = Kliknite za proširenje ove sekcije
 about-webrtc-raw-cand-section-hide-msg = Sakrij sirove kandidate
     .title = Kliknite za skupljanje ove sekcije
 about-webrtc-priority = Prioritet
-about-webrtc-fold-show-msg = prikaži detalje
-    .title = kliknite za proširenje ove sekcije
-about-webrtc-fold-hide-msg = sakrij detalje
-    .title = kliknite za skupljanje ove sekcije
 about-webrtc-fold-default-show-msg = Prikaži detalje
     .title = Kliknite za proširenje ove sekcije
 about-webrtc-fold-default-hide-msg = Sakrij detalje
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Obezbijeđeno
 # been provided
 about-webrtc-configuration-element-not-provided = Nije obezbijeđeno
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Korisničke postavke WebRTC-a
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Korisnički izmijenjena WebRTC konfiguracija
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Statistika video kadrova - MediaStreamTrack ID: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = stranica spašena u: { $path }
-about-webrtc-debug-mode-off-state-msg = zapisnik praćenja možete pronaći na: { $path }
-about-webrtc-debug-mode-on-state-msg = aktivan režim debagiranja, zapisnik praćenja na: { $path }
-about-webrtc-aec-logging-off-state-msg = snimljeni zapisnički fajlovi mogu biti pronađeni u: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

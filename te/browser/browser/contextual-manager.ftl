@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = సంకేతపదాలను వెతుకు
-    .key = F
     .aria-label = సంకేతపదాలను వెతుకు
+    .key = F
+    .placeholder = సంకేతపదాలను వెతుకు
 contextual-manager-menu-more-options-button =
     .title = మరిన్ని ఎంపికలు
 contextual-manager-more-options-popup =
@@ -17,7 +17,6 @@ contextual-manager-passwords-command-create = సంకేతపదం జోడ
 contextual-manager-passwords-command-import-from-browser = మరో విహారిణి నుండి దిగుమతిచేయి…
 contextual-manager-passwords-command-import = ఒక దస్త్రం నుండి దిగుమతించు…
 contextual-manager-passwords-command-options = ఎంపికలు
-contextual-manager-passwords-command-settings = అమరికలు
 contextual-manager-passwords-command-help = సహాయం
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to reveal a password in contextual password manager on Windows

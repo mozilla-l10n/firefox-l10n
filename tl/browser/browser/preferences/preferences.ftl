@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Padalhan ng ”Do Not Track” signal ang mga website para sabihing hindi mo nais na ika'y subaybayan
-do-not-track-learn-more = Matuto ng higit pa
-do-not-track-option-default-content-blocking-known =
-    .label = Payagan lang kung ang { -brand-short-name } ay naka-set na mag-block ng mga kilalang tracker.
-do-not-track-option-always =
-    .label = Palagi
 global-privacy-control-description =
     .label = Sabihin sa mga website na huwag ibahagi o ibenta ang aking data
     .accesskey = s
@@ -31,37 +25,16 @@ managed-notice-nav =
 category-list =
     .aria-label = Mga Kategorya
 pane-general-title = Pangkalahatan
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = Home
 pane-search-title2 = Paghanap
     .title = Paghanap
 pane-privacy-title3 = Pribasiya at Seguridad
     .title = Pribasiya at Seguridad
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = Paghanap
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = Pribasiya at Seguridad
-pane-privacy-title = Pribasiya at Seguridad
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Sync
-category-sync3 =
-    .tooltiptext = { pane-sync-title3 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-pane-experimental-title = Mga { -brand-short-name } Experiment
-category-experimental =
-    .tooltiptext = Mga { -brand-short-name } Experiment
-pane-experimental-subtitle = Mag-ingat sa Pagpatuloy
-pane-experimental-search-results-header = Mga { -brand-short-name } Experiment: Mag-ingat sa Pagpatuloy
-pane-experimental-description2 = Ang pagbabago sa mga advanced na setting ng pagsasaayos ay maaaring makaapekto sa performance o seguridad ng { -brand-short-name }.
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Ibalik sa Dating Ayos
     .accesskey = I
@@ -69,8 +42,6 @@ help-button-label2 = Suporta sa { -brand-short-name }
     .title = Suporta sa { -brand-short-name }
 addons-button-label2 = Mga Extension at Tema
     .title = Mga Extension at Tema
-help-button-label = Suporta sa { -brand-short-name }
-addons-button-label = Mga Extension at Tema
 focus-search =
     .key = f
 close-button =
@@ -111,22 +82,13 @@ search-results-help-link = Kailangan ng tulong? Bisitahin ang <a data-l10n-name=
 
 ## General Section
 
-startup-header = Startup
 always-check-default =
     .label = Laging suriin kung { -brand-short-name } ang iyong default na browser
     .accesskey = y
-is-default = { -brand-short-name } ang iyong kasalukuyang ginagamit na browser.
-is-not-default = Hindi { -brand-short-name } ang iyong default na browser
-set-as-my-default-browser =
-    .label = Gawing Default…
-    .accesskey = D
-startup-restore-warn-on-quit =
-    .label = Balaan ka kapag isinara ang browser
 disable-extension =
     .label = Huwag Paganahin and Extensyon
 tabs-group-header2 =
     .label = Mga Tab
-tabs-group-header = Mga Tab
 ctrl-tab-recently-used-order =
     .label = Lumipat-lipat sa mga tab gamit ang Ctrl+Tab base sa pinakahuling ginamit
     .accesskey = T
@@ -136,19 +98,10 @@ open-new-link-as-tabs =
 warn-on-open-many-tabs =
     .label = Balaan ka kapag ang pagbukas ng maraming mga tab ay maaaring makapagpabagal sa { -brand-short-name }
     .accesskey = d
-switch-to-new-tabs =
-    .label = Kapag binuksan mo ang isang link, larawan o media sa bagong tab, lumipat agad doon
-    .accesskey = h
 show-tabs-in-taskbar =
     .label = Ipakita ang paunang-tingin na tab sa Windows taskbar
     .accesskey = k
-browser-containers-enabled =
-    .label = Paganahin ang mga Container Tab
-    .accesskey = n
 browser-containers-learn-more = Alamin
-browser-containers-settings =
-    .label = Mga setting…
-    .accesskey = i
 containers-disable-alert-title = Isara Lahat ng Mga Container Tab?
 startup-group =
     .label = Startup
@@ -184,30 +137,10 @@ containers-remove-cancel-button = Huwag alisin ang Container na ito
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Wika at Hitsura
-preferences-web-appearance-choice-auto = Awtomatiko
-preferences-web-appearance-choice-light = Maliwanag
-preferences-web-appearance-choice-dark = Madilim
-preferences-web-appearance-choice-input-light =
-    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
-preferences-web-appearance-choice-input-dark =
-    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
-preferences-colors-header = Mga kulay
 preferences-fonts-header2 =
     .label = Mga font
-preferences-fonts-header = Mga font
-default-font = Default na font
-    .accesskey = D
-default-font-size = Laki
-    .accesskey = S
-advanced-fonts =
-    .label = Advanced…
-    .accesskey = A
 preferences-default-zoom-label =
     .label = Default zoom
-    .accesskey = z
-# Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = Zoom
-preferences-default-zoom = Default zoom
     .accesskey = z
 # Variables:
 #   $percentage (number) - Zoom percentage value
@@ -229,13 +162,7 @@ confirm-browser-language-change-description = I-restart ang { -brand-short-name 
 confirm-browser-language-change-button = Ilapat at mag-restart
 browser-language-install-error =
     .message = Hindi kayang ma-update ng { -brand-short-name } ang mga wika mo sa ngayon. Siguruhing nakakonekta ka sa Internet at subukan uli.
-translate-web-pages =
-    .label = Isalin ang nilalaman ng web
-    .accesskey = T
 fx-translate-web-pages = { -translations-brand-name }
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = Mga pagsasalin sa pamamagitan ng <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Mga exception...
     .accesskey = x
@@ -254,23 +181,6 @@ download-save-files-header =
     .label = i-Save ang mga file sa
 download-save-where-3 =
     .aria-label = i-Save ang mga file sa
-download-header = Mga Download
-download-save-where = i-Save ang mga file sa
-    .accesskey = S
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Pumili...
-           *[other] Mag-browse…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] o
-        }
-download-always-ask-where =
-    .label = Lagi kang tanungin kung saan magse-save ng mga file
-    .accesskey = A
 applications-header = Mga Application
 applications-description = Piliin kung ano ang gagawin ng { -brand-short-name } sa mga file na iyong na-download mula sa web o mga application na iyong ginagamit habang nagba-browse.
 applications-filter =
@@ -318,10 +228,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Gamitin ang { $plugin-name } (sa { -brand-short-name })
 applications-open-inapp =
     .label = Buksan sa { -brand-short-name }
 
@@ -329,8 +235,6 @@ applications-open-inapp =
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -350,41 +254,21 @@ applications-use-os-default-label =
 
 drm-group =
     .label = Digital Rights Management (DRM) Content
-drm-content-header = Digital Rights Management (DRM) Content
 play-drm-content =
     .label = Magpaandar ng DRM-controlled content
     .accesskey = P
 play-drm-content-learn-more = Alamin
-update-application-title = Mga { -brand-short-name } Update
-update-application-description = Panatilihing updated ang { -brand-short-name } para sa pinakamahusay na pagtakbo, katatagan, at seguridad.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Bersyon { $version } <a data-l10n-name="learn-more">Ano ang bago?</a>
 update-history-2 =
     .label = Ipakita ang Kasaysayan ng Pag-update
     .accesskey = p
-update-history =
-    .label = Ipakita ang Kasaysayan ng Pag-update...
-    .accesskey = p
-update-application-allow-description = Payagan ang { -brand-short-name } na
-update-application-auto =
-    .label = Kusang magkabit ng mga update (inirerekomenda)
-    .accesskey = A
-update-application-check-choose =
-    .label = Suriin kung may mga update, subalit hayaan ka kung ikakabit ang mga ito
-    .accesskey = C
-update-application-manual =
-    .label = Huwag kailanman mag-check kung may mga update (hindi rekomendado)
-    .accesskey = N
 update-application-background-enabled =
     .label = Kapag ang { -brand-short-name } ay hindi tumatakbo
     .accesskey = K
 update-application-warning-cross-user-setting-2 =
     .message = Ang setting na ito ay gagamitin sa lahat ng mga Windows account at { -brand-short-name } profile na gumagamit ng installation na ito ng { -brand-short-name }.
-update-application-warning-cross-user-setting = Ang setting na ito ay gagamitin sa lahat ng mga Windows account at { -brand-short-name } profile na gumagamit ng installation na ito ng { -brand-short-name }.
-update-application-use-service =
-    .label = Gumamit ng background service upang ikabit ang mga update
-    .accesskey = b
 update-setting-write-failure-title2 = Nagkaroon ng problema sa pag-save ng mga setting Pang-update
 update-in-progress-title = Kasalukuyang Nag-a-update
 update-in-progress-message = Gusto mo bang ipagpatuloy ng { -brand-short-name } ang update na ito?
@@ -395,11 +279,6 @@ update-in-progress-cancel-button = &Magpatuloy
 
 ## General Section - Performance
 
-performance-title = Performance
-performance-use-recommended-settings-checkbox =
-    .label = Gamitin ang inirerekomendang mga performance setting
-    .accesskey = U
-performance-use-recommended-settings-desc = Ang mga setting na ito ay pinasadya sa hardware at operating system ng iyong computer.
 performance-settings-learn-more = Alamin
 performance-allow-hw-accel =
     .label = Gumamit ng hardware acceleration kung maaari
@@ -417,7 +296,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = Pag-browse
 browsing-use-autoscroll =
     .label = Gumamit ng autoscrolling
     .accesskey = a
@@ -436,29 +314,14 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Maghanap ng text kapag nag-umpisang mag-type
     .accesskey = x
-browsing-picture-in-picture-toggle-enabled =
-    .label = I-enable ang picture-in-picture video control
-    .accesskey = E
-browsing-picture-in-picture-learn-more = Alamin
-browsing-media-control-learn-more = Alamin
 browsing-cfr-recommendations =
     .label = Magrekomenda ng mga extension habang ika'y nagba-browse
     .accesskey = R
 browsing-cfr-features =
     .label = Magrekomenda ng mga feature habang nagba-browse
     .accesskey = f
-browsing-cfr-recommendations-learn-more = Alamin pa
 browsing-group =
     .label = Pag-browse
-
-## General Section - Proxy
-
-network-settings-title = Mga Network Setting
-network-proxy-connection-description = I-configure kung pano kumokonekta ang { -brand-short-name } sa internet.
-network-proxy-connection-learn-more = Alamin
-network-proxy-connection-settings =
-    .label = Mga Setting…
-    .accesskey = e
 
 ## Home Section
 
@@ -505,8 +368,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = Paghahanap sa Web
-home-prefs-recommended-by-header =
-    .label = Inirekomenda ni { $provider }
 
 ##
 
@@ -519,18 +380,9 @@ home-prefs-highlights-options-bookmarks =
     .label = Mga Bookmark
 home-prefs-highlights-option-most-recent-download =
     .label = Mga Download Kamakailan
-home-prefs-highlights-option-saved-to-pocket =
-    .label = Mga Pahinang Naka-save sa { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = Kamakailang aktibidad
 home-prefs-recent-activity-description = Isang pagpipilian ng mga kamakailang site at nilalaman
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = Mga snippet
-home-prefs-snippets-description-new = Mga tip at balita mula sa { -vendor-short-name } at { -brand-product-name }
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -542,38 +394,11 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = Search Bar
-search-bar-hidden =
-    .label = Gamitin ang address bar para sa paghahanap at paglibot
-search-bar-shown =
-    .label = Idagdag ang search bar sa toolbar
-search-engine-default-header = Default na Search Engine
-search-engine-default-desc-2 = Ito ang iyong default search engine sa address bar at search bar. Maaari mo itong baguhin anumang oras.
-search-engine-default-private-desc-2 = Pumili ng ibang default na search engine para lang sa mga Private Window
-search-separate-default-engine =
-    .label = Gamitin ang search engine na ito sa mga Private Window
-    .accesskey = U
-search-suggestions-header = Mga Mungkahi sa Paghanap
-search-suggestions-desc = Piliin kung paano lumalabas ang mga mungkahi na galing sa mga search engine.
-search-suggestions-option =
-    .label = Magbigay ng mga mungkahi sa paghahanap
-    .accesskey = s
 search-show-suggestions-url-bar-option =
     .label = Ipakita ang mga mungkahi sa paghahanap sa mga resulta sa address bar
     .accesskey = l
 search-suggestions-cant-show-2 =
     .message = Ang mga mungkahi sa paghahanap ay hindi ipapakita sa location bar dahil na-configure mo ang { -brand-short-name } na hindi kailanman tatandaan ang kasaysayan.
-# This string describes what the user will observe when the system
-# prioritizes search suggestions over browsing history in the results
-# that extend down from the address bar. In the original English string,
-# "ahead" refers to location (appearing most proximate to), not time
-# (appearing before).
-search-show-suggestions-above-history-option =
-    .label = Unahing ipakita ang mga mungkahi sa paghahanap bago ang kasaysayan ng pag-browse sa mga resulta sa address bar
-search-show-suggestions-private-windows =
-    .label = Magpakita ng mga mungkahi sa paghahanap sa mga Private Window
-suggestions-addressbar-settings-generic2 = Baguhin ang mga setting para sa iba pang mga mungkahi sa address bar
-search-suggestions-cant-show = Ang mga mungkahi sa paghahanap ay hindi ipapakita sa location bar dahil na-configure mo ang { -brand-short-name } na hindi kailanman tatandaan ang kasaysayan.
 search-one-click-header2 = Mga Shortcut sa Paghanap
 search-one-click-desc = Piliin ang mga alternatibong search engine na lalabas sa ibaba ng address bar at search bar kapag nagsimula kang magpasok ng isang keyword.
 search-choose-engine-column =
@@ -602,22 +427,6 @@ search-engine-group =
 search-default-engine =
     .aria-label = Default na Search Engine
 
-## Containers Section
-
-containers-back-button2 =
-    .aria-label = Bumalik sa Mga Setting
-containers-header = Mga Container Tab
-containers-add-button =
-    .label = Magdagdag ng Bagong Container
-    .accesskey = A
-containers-new-tab-check =
-    .label = Pumili ng container para sa bawat bagong tab
-    .accesskey = S
-containers-settings-button =
-    .label = Mga setting
-containers-remove-button =
-    .label = Alisin
-
 ## Account and sync
 
 sync-group-label =
@@ -643,8 +452,6 @@ sync-mobile-promo = Mag-download ng Firefox para sa <img data-l10n-name="android
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = Baguhin ang larawan ng profile
 sync-profile-picture-with-alt =
     .alt = Baguhin ang larawan ng profile
     .tooltiptext = Baguhin ang larawan ng profile
@@ -669,9 +476,6 @@ sync-signedin-login-failure = Mangyaring mag-sign in upang maikonekta uli ang { 
 
 ##
 
-sync-resend-verification =
-    .label = Ipadala muli ang Beripikasyon
-    .accesskey = d
 sync-remove-account =
     .label = Alisin ang Account
     .accesskey = A
@@ -690,10 +494,6 @@ prefs-sync-turn-on-syncing-2 =
     .label = Buksan ang pagsisync
     .accesskey = s
 prefs-sync-offer-setup-label2 = I-synchronize ang iyong mga bookmark, kasaysayan, mga tab, password, add-on, at mga setting sa lahat ng iyong mga device.
-prefs-sync-now =
-    .labelnotsyncing = Mag-Sync Na
-    .labelsyncing = Nagsi-sync...
-    .accesskeynotsyncing = N
 prefs-sync-now-button =
     .label = Mag-Sync Na
     .accesskey = N
@@ -711,24 +511,12 @@ prefs-syncing-button-2 =
 sync-currently-syncing-bookmarks = Mga Bookmark
 sync-currently-syncing-history = Kasaysayan
 sync-currently-syncing-tabs = Mga nakabukas na tab
-sync-currently-syncing-logins-passwords = Mga login at password
 sync-currently-syncing-addresses = Mga tirahan
-sync-currently-syncing-creditcards = Mga Credit Card
 sync-currently-syncing-addons = Mga Add-on
 sync-currently-syncing-settings = Mga Setting
-sync-change-options =
-    .label = Baguhin…
-    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
-sync-choose-what-to-sync-dialog3 =
-    .buttonlabelaccept = I-Save ang mga Pagbabago
-    .buttonlabelextra2 = Mag-disconnect...
-    .buttonaccesskeyaccept = S
-    .buttonaccesskeyextra2 = D
-    .style = min-width: 36em;
-    .title = Piliin Kung Alin Ang Isi-Sync
 sync-engine-bookmarks =
     .label = Mga Bookmark
     .accesskey = m
@@ -739,18 +527,10 @@ sync-engine-tabs =
     .label = Mga nakabukas na tab
     .tooltiptext = Listahan ng kung ano ang nakabukas sa mga naka-sync na device
     .accesskey = B
-sync-engine-logins-passwords =
-    .label = Mga Login at Password
-    .tooltiptext = Mga username at password na naka-save
-    .accesskey = L
 sync-engine-addresses =
     .label = Mga tirahan
     .tooltiptext = Mga nai-save mo na mga postal address (sa desktop lang)
     .accesskey = e
-sync-engine-creditcards =
-    .label = Mga credit card
-    .tooltiptext = Mga credit card
-    .accesskey = c
 sync-engine-addons =
     .label = Mga Add-on
     .tooltiptext = Mga extension at tema para sa Firefox desktop
@@ -786,50 +566,20 @@ sync-connect-another-device = Magkonekta ng Isa Pang Device
 sync-connect-another-device-2 =
     .label = Magkonekta ng Isa Pang Device
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = Napadala na ang beripikasyon
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = Ang beripikasyon na link ay naipadala na sa { $email }.
-sync-verification-not-sent-title = Hindi maipadala ang beripikasyon
-sync-verification-not-sent-body = Hindi kami makapagpadala ng verification mail sa ngayon, pakisubukan mamaya.
-
 ## Privacy Section
 
 privacy-header = Browser Privacy
-
-## Privacy Section - Logins and Passwords
-
-# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = Mga Login at Password
-    .searchkeywords = { -lockwise-brand-short-name }
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = Magtanong kung dapat mag-save ng mga login at password sa mga website
-    .accesskey = r
 
 ## Privacy Panel Settings
 
 forms-exceptions =
     .label = Mga exception...
     .accesskey = x
-forms-generate-passwords =
-    .label = Magmungkahi at gumawa ng malakas na password
-    .accesskey = u
 forms-breach-alerts =
     .label = Magpakita ng mga alerto tungkol sa mga password sa mga breached website
     .accesskey = b
 forms-breach-alerts-learn-more-link = Alamin
 relay-integration-learn-more-link = Alamin
-# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
-forms-fill-logins-and-passwords =
-    .label = I-autofill ang mga login at password
-    .accesskey = i
-forms-saved-logins =
-    .label = Mga na-save na Login…
-    .accesskey = L
 forms-primary-pw-use =
     .label = Gumamit ng Primary Password
     .accesskey = U
@@ -862,39 +612,14 @@ primary-password-os-auth-dialog-message-win = Para makagawa ng Primary Password,
 primary-password-os-auth-dialog-message-macosx = bumuo ng Primary Password
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
-## Privacy section - Autofill
-
-autofill-payment-methods-checkbox-message = Mag-save at maglagay ng mga payment method
-    .accesskey = m
-
 ## Privacy Section - History
 
-history-header = Kasaysayan
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = Gagawin ng { -brand-short-name } na
-    .accesskey = w
-history-remember-option-all =
-    .label = Tandaan ang kasaysayan
-history-remember-option-never =
-    .label = Huwag kailanman tandaan ang kasaysayan
-history-remember-option-custom =
-    .label = Gumamit ng mga custom setting para sa kasaysayan
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = Tatandaan ng { -brand-short-name } ang iyong browsing, download, form at search history.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = Gagamitin ng { -brand-short-name } ang kaparehong mga setting sa private browsing, at hindi nito tatandaan ang iyong kasaysayan ng pag-browse sa Web.
-history-remember-description = Tatandaan ng { -brand-short-name } ang iyong browsing, download, form at search history.
-history-dontremember-description = Gagamitin ng { -brand-short-name } ang kaparehong mga setting sa private browsing, at hindi nito tatandaan ang iyong kasaysayan ng pag-browse sa Web.
 history-private-browsing-permanent =
     .label = Laging gumamit ng private browsing mode
     .accesskey = p
@@ -920,27 +645,8 @@ history-mode-radio-group =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Mga Cookie at Site Data
 sitedata-total-size-calculating = Kinakalkula ang site data at cache size...
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Ang iyong mga nakaimbak na cookie, site data, at cache ay kasalukuyang gumagamit ng { $value } { $unit } ng disk space.
 sitedata-learn-more = Alamin
-sitedata-delete-on-close =
-    .label = Burahin ang mga cookie at site data kapag isinara ang { -brand-short-name }
-    .accesskey = c
-sitedata-delete-on-close-private-browsing = Sa permanent private browsing mode, palaging buburahin ang mga cookie at site data kapag sinarado ang { -brand-short-name }.
-sitedata-allow-cookies-option =
-    .label = Tumanggap ng mga cookie at site data
-    .accesskey = A
-sitedata-disallow-cookies-option =
-    .label = Harangin ang mga cookie at site data
-    .accesskey = B
-# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
-# The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = Uri ng content na hinaharang
-    .accesskey = T
 sitedata-option-block-cross-site-trackers =
     .label = Mga cross-site tracker
 sitedata-option-block-cross-site-tracking-cookies =
@@ -949,12 +655,6 @@ sitedata-option-block-unvisited =
     .label = Mga cookie na galing sa mga hindi pa nabisitang website
 sitedata-option-block-all =
     .label = Lahat ng mga cookie (maaaring makasira ng mga website)
-sitedata-clear =
-    .label = Burahin ang mga Data...
-    .accesskey = I
-sitedata-settings =
-    .label = I-manage ang mga Data...
-    .accesskey = M
 sitedata-cookies-exceptions =
     .label = I-manage ang mga Exception…
     .accesskey = x
@@ -963,8 +663,6 @@ cookies-site-data-group =
 
 ## Search Section
 
-addressbar-header = Address Bar
-addressbar-suggest = Kapag ginagamit ang address bar, magmungkahi ng
 addressbar-locbar-history-option =
     .label = Kasaysayan ng pag-browse
     .accesskey = H
@@ -981,11 +679,6 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Mga pangunahing site
     .accesskey = P
-addressbar-locbar-engines-option =
-    .label = Mga search engine
-    .accesskey = a
-addressbar-suggestions-settings = Baguhin ang mga kagustuhan para sa mga mungkahi ng search engine
-addressbar-quickactions-learn-more = Alamin
 
 ## Privacy Section - Content Blocking
 
@@ -1017,7 +710,6 @@ content-blocking-etp-blocking-desc = Hinaharang ng { -brand-short-name } ang sum
 content-blocking-private-windows = Tracking content sa mga Private Window
 content-blocking-cross-site-tracking-cookies = Mga cross-site tracking cookie
 content-blocking-all-cross-site-cookies-private-windows = Mga cross-site cookie sa mga Pribadong Window
-content-blocking-cross-site-tracking-cookies-plus-isolate = Mga cross-site tracking cookie, at ihiwalay ang mga natitirang cookie
 content-blocking-social-media-trackers = Mga social media tracker
 content-blocking-all-cookies = Lahat ng mga cookie
 content-blocking-unvisited-cookies = Mga cookie mula sa mga hindi binibisitang site
@@ -1025,8 +717,6 @@ content-blocking-all-windows-tracking-content = Tracking content sa lahat ng mga
 content-blocking-cryptominers = Mga Cryptominer
 content-blocking-fingerprinters = Mga Fingerprinter
 content-blocking-etp-standard-tcp-rollout-learn-more = Alamin
-content-blocking-warning-title = Mag-ingat!
-content-blocking-and-isolating-etp-warning-description-2 = Ang setting na ito ay maaaring maging sanhi ng ilang mga website na hindi ipakita ang nilalaman o gumana nang tama. Kung tila nasira ang isang site, baka gusto mong patayin ang tracking protection para sa site na iyon upang mai-load ang lahat ng nilalaman.
 content-blocking-warning-learn-how = Alamin kung paano
 content-blocking-reload-description = Kailangan mong i-reload ang iyong mga tab upang makita ang mga pagbabago.
 content-blocking-reload-tabs-button =
@@ -1041,7 +731,6 @@ content-blocking-tracking-protection-option-all-windows =
 content-blocking-option-private =
     .label = Sa pribadong mga window lamang
     .accesskey = p
-content-blocking-tracking-protection-change-block-list = Baguhin ang listahan ng naka-block
 content-blocking-cookies-label =
     .label = Mga Cookie
     .accesskey = C
@@ -1051,11 +740,6 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = Mga Cryptominer
     .accesskey = y
-# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
-# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
-content-blocking-fingerprinters-label =
-    .label = Mga Fingerprinter
-    .accesskey = F
 
 ## Privacy Section - Tracking
 
@@ -1065,52 +749,11 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = Mga pahintulot
-permissions-location = Lokasyon
-permissions-location-settings =
-    .label = Mga Setting…
-    .accesskey = t
-permissions-xr = Virtual Reality
-permissions-xr-settings =
-    .label = Mga Setting…
-    .accesskey = t
-permissions-camera = Kamera
-permissions-camera-settings =
-    .label = Mga Setting…
-    .accesskey = t
-permissions-microphone = Mikropono
-permissions-microphone-settings =
-    .label = Mga Setting…
-    .accesskey = t
-permissions-notification = Mga Abiso
-permissions-notification-settings =
-    .label = Mga Setting…
-    .accesskey = t
-permissions-notification-link = Alamin
 permissions-notification-pause =
     .label = Itigil pansamantala ang mga notification hanggang sa makapag-restart ang { -brand-short-name }
     .accesskey = n
 permissions-autoplay2 =
     .label = Autoplay
-permissions-autoplay = Autoplay
-permissions-autoplay-settings =
-    .label = Mga Setting...
-    .accesskey = t
-permissions-block-popups =
-    .label = Harangin ang mga pop-up window
-    .accesskey = B
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button =
-    .label = Mga Exception…
-    .searchkeywords = mga popup
-    .accesskey = E
-permissions-addon-install-warning =
-    .label = Balaan ka kapag sinusubukan ng mga website na magkabit ng mga add-on
-    .accesskey = W
-permissions-addon-exceptions =
-    .label = Mga exception...
-    .accesskey = e
 permissions-location2 =
     .label = Lokasyon
 permissions-xr2 =
@@ -1124,24 +767,6 @@ permissions-notification2 =
 
 ## Privacy Section - Data Collection
 
-collection-header = Pagkolekta at Paggamit ng { -brand-short-name } sa Data
-collection-description = Nagsusumikap kaming mabigyan ka ng mga pagpipilian at kolektahin lamang kung ano ang kailangan namin upang mapaganda ang { -brand-short-name } para sa lahat. Lagi kaming humihingi ng pahintulot bago tumanggap ng personal na impormasyon.
-collection-privacy-notice = Abisong Pribasiya
-collection-health-report-telemetry-disabled = Hindi mo na pinahihintulutan ang { -vendor-short-name } na kumuha ng technical at interaction data. Lahat ng nakalipas na data ay buburahin sa loob ng 30 araw.
-collection-health-report-telemetry-disabled-link = Alamin
-collection-health-report =
-    .label = Payagan ang { -brand-short-name } na magpadala ng data ng teknikal at pakikipag-ugnayan sa { -vendor-short-name }
-    .accesskey = r
-collection-health-report-link = Alamin
-collection-studies =
-    .label = Payagan ang { -brand-short-name } na mag-install at mag-run ng studies
-collection-studies-link = Tingnan ang mga pag-aaral sa { -brand-short-name }
-addon-recommendations =
-    .label = Payagan ang { -brand-short-name } na mag-mungkahi ng mga personalized extension.
-addon-recommendations-link = Alamin
-# This message is displayed above disabled data sharing options in developer builds
-# or builds with no Telemetry support available.
-collection-health-report-disabled = Naka-disable ang pag-uulat ng data para sa build configuration na ito
 privacy-segmentation-radio-on =
     .label = Ipakita ang detalyadong impormasyon
 data-collection-health-report-telemetry-disabled =
@@ -1155,7 +780,6 @@ data-collection-studies-link =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguridad
-security-browsing-protection = Mapanlinlang na Content at Proteksyon mula sa Delikadong Software
 security-enable-safe-browsing =
     .label = Harangin ang delikado at mapanlinlang na content
     .accesskey = B
@@ -1169,16 +793,6 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = Mga sertipiko
-certs-enable-ocsp =
-    .label = Tanungin ang mga OCSP responder server upang kumpirmahin ang kasalukuyang bisa ng mga sertipiko
-    .accesskey = Q
-certs-view =
-    .label = Tingnan ang mga Sertipiko…
-    .accesskey = C
-certs-devices =
-    .label = Mga Security Device...
-    .accesskey = D
 certs-devices-enable-fips = I-enable ang FIPS
 space-alert-over-5gb-settings-button =
     .label = Buksan ang Mga Setting
@@ -1186,18 +800,12 @@ space-alert-over-5gb-settings-button =
 
 ## Privacy Section - HTTPS-Only
 
-httpsonly-header = HTTPS-Only Mode
-httpsonly-description = Nagbibigay ang HTTPS ng isang ligtas at encrypted na koneksyon sa pagitan ng { -brand-short-name } at ng mga website na binibisita mo. Karamihan ng mga website ay suportado na ang HTTPS, at kung naka-enable ang HTTPS-Only Mode, ia-upgrade ng { -brand-short-name } lahat ng koneksyon sa HTTPS.
-httpsonly-learn-more = Alamin
 httpsonly-radio-enabled =
     .label = I-enable ang HTTPS-Only Mode sa lahat ng mga window
 httpsonly-radio-enabled-pbm =
     .label = I-enable ang HTTPS-Only Mode sa mga private window lamang
-httpsonly-radio-disabled =
-    .label = Huwag i-enable ang HTTPS-Only Mode
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Mga Download
-choose-download-folder-title = Pumili ng Download Folder:

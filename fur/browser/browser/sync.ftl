@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Daûr a sincronizâ…
 sync-disconnect-dialog-title2 = Disconetisi?
 sync-disconnect-dialog-body = { -brand-product-name } al fermarà di sincronizâ il to account ma nol eliminarà nissun dai tiei dâts di navigazion su chest dispositîf.
 sync-disconnect-dialog-button = Disconet
-fxa-signout-dialog2-title = Disconetisi di { -fxaccount-brand-name }?
 fxa-signout-dialog-title2 = Lâ fûr dal to account?
 fxa-signout-dialog-body = I dâts sincronizâts a restaran tal to account.
 fxa-signout-dialog2-button = Disconet
@@ -27,14 +26,6 @@ fxa-menu-send-to-device =
             [1] Mande a dispositîf
             [one] Mande a dispositîf
            *[other] Mande { $tabCount } schedis a dispositîf
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Mande la schede al dispositîf
-           *[other] Mande { $tabCount } schedis al dispositîf
         }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =

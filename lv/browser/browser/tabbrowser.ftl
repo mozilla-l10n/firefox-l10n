@@ -8,11 +8,6 @@ tabbrowser-menuitem-close-tab =
     .label = Aizvērt cilni
 tabbrowser-menuitem-close =
     .label = Aizvērt
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -20,15 +15,6 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [zero] Aizvērt { $tabCount } cilnes
-            [one] Aizvērt { $tabCount } cilni
-           *[other] Aizvērt { $tabCount } cilnes
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [zero] Aizvērt { $tabCount } cilnes
             [one] Aizvērt { $tabCount } cilni
@@ -92,7 +78,6 @@ tabbrowser-confirm-close-tabs-title =
        *[other] Vai aizvērt { $tabCount } ciļņu?
     }
 tabbrowser-confirm-close-tabs-button = Aizvērt cilnes
-tabbrowser-confirm-close-tabs-checkbox = Apstiprināt, pirms aizvērt vairākas cilnes
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -120,9 +105,6 @@ tabbrowser-confirm-close-tabs-with-key-button = Aizvērt { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-ask-close-tabs-with-key-checkbox = Vaicāt pirms aizvēršanas ar { $quitKey }
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = Apstiprināt pirms aizvēršanas ar { $quitKey }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.

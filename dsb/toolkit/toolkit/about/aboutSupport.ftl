@@ -29,10 +29,6 @@ security-software-name = Mě
 security-software-antivirus = Antiwirusowy program
 security-software-antispyware = Software pśeśiwo spionažy
 security-software-firewall = Wognjowa murja
-features-title = Funkcije { -brand-short-name }
-features-name = Mě
-features-version = Wersija
-features-id = ID
 processes-title = Zdalone procese
 processes-type = Typ
 processes-count = Licba
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] Profilowy zarědnik
        *[other] Profilowy zarědnik
     }
-app-basics-enabled-plugins = Zmóžnjone tykace
 app-basics-build-config = Konfiguracija programoweje wersije
 app-basics-user-agent = User Agent
 app-basics-os = Źěłowy system
@@ -96,9 +91,6 @@ show-dir-label =
 environment-variables-title = Wokolinowe wariable
 environment-variables-name = Mě
 environment-variables-value = Gódnota
-experimental-features-title = Eksperimentelne funkcije
-experimental-features-name = Mě
-experimental-features-value = Gódnota
 modified-key-prefs-title = Wažne změnjone nastajenja
 modified-prefs-name = Mě
 modified-prefs-value = Gódnota
@@ -220,9 +212,6 @@ media-cdm-capabilities = Zamóžnosći
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Zawod wuprozniś
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = Z HDCP 2.2 kompatibelny
 
 ##
 
@@ -404,8 +393,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Pśez eksperiment znjemóžnjony
-fission-status-experiment-treatment = Pśez eksperiment zmóžnjony
 fission-status-disabled-by-e10s-env = Pśez wokolinu znjemóžnjony
 fission-status-enabled-by-env = Pśez wokolinu zmóžnjony
 fission-status-disabled-by-env = Pśez wokolinu znjemóžnjony
@@ -414,7 +401,6 @@ fission-status-disabled-by-default = Pó standarźe znjemóžnjony
 fission-status-enabled-by-user-pref = Wót wužywarja zmóžnjony
 fission-status-disabled-by-user-pref = Wót wužywarja znjezmóžnjony
 fission-status-disabled-by-e10s-other = E10s znjemóžnjony
-fission-status-enabled-by-rollout = Za dodaśe pó fazach zmóžnjony
 async-pan-zoom = Asynchrone pśesuwanje/skalěrowanje
 apz-none = žeden
 wheel-enabled = zapódaśe z kólaskom zmóžnjone

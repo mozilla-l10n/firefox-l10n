@@ -7,14 +7,6 @@ sync-disconnect-dialog-body = { -brand-product-name } nun sincrunizza cchiù cû
 sync-disconnect-dialog-button = Scullèjati
 fxa-menu-connect-another-device =
     .label = Culleja n’autru dispusitivu…
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Manna scheda ô dispusitivu
-           *[other] Manna { $tabCount } schedi ô dispusitivu
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Staju sincrunizzannu i dispusitivi…

@@ -18,7 +18,6 @@ neterror-open-portal-login-page-button = پەڕەی چوونەناوی ڕایە�
 neterror-override-exception-button = مەترسیەکە وەردەگرم و بەردەوام بە
 neterror-return-to-previous-page-button = بڕۆ دواوە
 neterror-return-to-previous-page-recommended-button = بڕۆ دواوە (پێشنیارکراوە)
-neterror-try-again-button = دووبارە هەوڵ بدەرەوە
 neterror-view-certificate-link = بڕوانامە پیشان بدە
 
 ## Specific error messages

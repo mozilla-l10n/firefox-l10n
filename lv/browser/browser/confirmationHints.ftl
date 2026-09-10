@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Ziņojums nosūtīts. Paldies!
-confirmation-hint-login-removed = Lietotājvārds izņemts!
 confirmation-hint-password-removed = Parole izņemta!
 confirmation-hint-page-bookmarked = Saglabāts grāmatzīmēs
-confirmation-hint-password-saved = Parole saglabāta!
 confirmation-hint-password-created = Parole saglabāta
 confirmation-hint-password-updated = Parole atjaunināta
 confirmation-hint-address-created = Adrese saglabāta

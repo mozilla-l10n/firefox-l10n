@@ -16,8 +16,6 @@ styleeditor-save-button = ಉಳಿಸು
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = `ಶೈಲಿ ಸಂಪಾದಕ ಆಯ್ಕೆಗಳು
-styleeditor-editor-textbox =
-    .data-placeholder = ಇಲ್ಲಿ CSS ಅನ್ನು ನಮೂದಿಸಿ.
 styleeditor-no-stylesheet = ಈ ಪುಟವು ಯಾವುದೆ ಶೈಲಿ ಹಾಳೆಯನ್ನು ಹೊಂದಿಲ್ಲ.
 styleeditor-no-stylesheet-tip = ಬಹುಷಃ ನೀವು <a data-l10n-name="append-new-stylesheet">ಒಂದು ಹೊಸ ಶೈಲಿ ಹಾಳೆಯನ್ನು ಸೇರಿಸಬೇಕು</a>?
 styleeditor-open-link-new-tab =

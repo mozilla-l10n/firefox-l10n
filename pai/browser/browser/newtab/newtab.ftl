@@ -20,7 +20,3 @@ newtab-topsites-url-label = URL
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-dismiss = Nmak
-
-## Pocket Content Section.
-
-newtab-pocket-learn-more = Terabum ŕpo

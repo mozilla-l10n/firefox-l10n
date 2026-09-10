@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Ymlaen i'r Gosod
     .accesskey = G
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Mae'r wefan hon yn gofyn am fynediad i'ch dyfeisiau MIDI (Rhyngwyneb Digidol Offeryn Cerdd). Mae modd galluogi mynediad i ddyfais trwy osod ychwanegyn.
 site-permission-install-first-prompt-midi-message = Nid oes gwarant fod y mynediad hwn yn ddiogel. Parhewch dim ond os ydych yn ymddiried yn y wefan hon.
 site-permission-install-first-prompt-serial-header = Mae'r wefan hon yn gofyn am fynediad i'ch dyfeisiau. Mae modd galluogi mynediad dyfais trwy osod ychwanegyn.
 site-permission-install-first-prompt-serial-message = Does dim gwarant fod y mynediad hwn yn ddiogel. Ewch ymlaen dim ond os ydych yn ymddiried yn y wefan hon.
-
-##
-
-xpinstall-disabled-locked = Mae gosod meddalwedd wedi ei analluogi gan eich gweinyddwr system.
 xpinstall-disabled-by-policy = Mae gosod meddalwedd wedi ei analluogi gan eich sefydliad.
 xpinstall-disabled = Mae gosod meddalwedd wedi ei analluogi. Cliciwch Galluogi a cheisio eto.
 xpinstall-disabled-button =
     .label = Galluogi
     .accesskey = a
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = Mae { $addonName } ({ $addonId }) wedi ei analluogi gan eich gweinyddwr system.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Rhwystrodd eich gweinyddwr systemau y wefan hon rhag gofyn i chi osod meddalwedd ar eich cyfrifiadur.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = Wrthi'n gorffen gosod estyniadau a fewnforiwyd i { -bra
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Tynnu { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Tynnu { $name } o { -brand-shorter-name }?
 addon-removal-button = Tynnu
 addon-removal-abuse-report-checkbox = Adroddwch yr estyniad hwn i { -vendor-short-name }
 # "it" refers to the local AI model that is paired to the AI feature
@@ -159,7 +142,5 @@ addon-local-install-no-addon-name-error-file-access = Nid oedd modd gosod yr ych
 addon-install-error-incompatible = Nid oedd modd gosod { $addonName } am nad yw'n cydweddu â { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = Mae { $addonName } yn groes i bolisïau Mozilla ac nid oes modd ei osod ar { -brand-short-name }.
 addon-install-error-soft-blocked2 = Mae { $addonName } wedi'i gyfyngu ac nid oes modd ei osod ar { -brand-short-name }.
-addon-install-error-blocklisted = Nid oedd modd gosod { $addonName } am fod risg uchel iddo achosi problemau sefydlogrwydd a diogelwch.
-addon-install-error-soft-blocked = Mae { $addonName } yn groes i bolisïau Mozilla ac nid oes modd ei osod ar { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Nid oes mod i chi osod { $addonName } fel defnyddiwr cyffredin, dim ond sefydliad sy'n defnyddio polisïau menter all ei osod.

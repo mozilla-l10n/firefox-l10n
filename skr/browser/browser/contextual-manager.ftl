@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = پاس ورڈز ڳولو
-    .key = F
     .aria-label = پاس ورڈز ڳولو
+    .key = F
+    .placeholder = پاس ورڈز ڳولو
 contextual-manager-menu-more-options-button =
     .title = ٻیاں آپشناں
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = فائل کنوں درآمد کر�
 contextual-manager-passwords-command-export = پاس ورڈز برآمد کرو
 contextual-manager-passwords-command-remove-all = سارے پاس ورڈ ہٹاؤ
 contextual-manager-passwords-command-options = اختیارات
-contextual-manager-passwords-command-settings = ترتیباں
 contextual-manager-passwords-command-help = مدد
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.

@@ -6,13 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Yangi varaq
-newtab-settings-button =
-    .title = Yangi varaq sahifasini sozlash
-newtab-personalize-icon-label =
-    .aria-label = Yangi varaqni moslashtirish
-    .title = Yangi varaqni moslashtirish
-newtab-personalize-dialog-label =
-    .aria-label = Moslashtirish
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -75,7 +68,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Qidiruv tizimini qoʻshish
 newtab-topsites-add-shortcut-header = Yangi tugmalar birikmasi
-newtab-topsites-edit-topsites-header = Ommabop saytni tahrirlash
 newtab-topsites-edit-shortcut-header = Tugmalar birikmasini tahrirlash
 newtab-topsites-title-label = Nomi
 newtab-topsites-title-input =
@@ -113,20 +105,12 @@ newtab-topsite-sponsored = Homiylik qilgan
 newtab-menu-section-tooltip =
     .aria-label = Menyuni ochish
     .title = Menyuni ochish
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Olib tashlash
-    .title = Olib tashlash
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = { $title } uchun matn menyusini ochish
     .title = Menyuni ochish
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Bu saytni tahrirlash
-    .title = Bu saytni tahrirlash
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -137,17 +121,7 @@ newtab-menu-dismiss = Rad etish
 newtab-menu-pin = Yopishtirish
 newtab-menu-unpin = Ajratish
 newtab-menu-delete-history = Tarixdan oʻchirish
-newtab-menu-save-to-pocket = { -pocket-brand-name } xizmatiga saqlash
-newtab-menu-delete-pocket = { -pocket-brand-name } xizmatidan oʻchirish
-newtab-menu-archive-pocket = { -pocket-brand-name } xizmatiga arxivlash
 newtab-menu-show-privacy-info = Bizning homiylarimiz va sizning maxfiyligingiz
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Tayyor
-newtab-privacy-modal-button-manage = Reklama kontentni sozlamalarni boshqarish
-newtab-privacy-modal-header = Maxfiyligingiz juda muhim.
-newtab-privacy-modal-link = Yangi varaqda maxfiylik qanday boʻlishi haqida batafsil maʼlumot oling
 
 ##
 
@@ -201,39 +175,16 @@ newtab-label-source-read-time = { $source } · { $timeToRead } daq
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Qismni olib tashlash
-newtab-section-menu-collapse-section = Qismni yig‘ish
-newtab-section-menu-expand-section = Qismni yoyish
-newtab-section-menu-manage-section = Qismni boshqarish
-newtab-section-menu-manage-webext = Kengaytmani boshqarish
-newtab-section-menu-add-topsite = Ommabop saytga qo‘shish
-newtab-section-menu-add-search-engine = Qidiruv tizimini qoʻshish
-newtab-section-menu-move-up = Tepaga ko‘tarish
-newtab-section-menu-move-down = Pastga tushirish
 newtab-section-menu-privacy-notice = Maxfiylik eslatmalari
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Qismni yigʻish
-newtab-section-expand-section-label =
-    .aria-label = Qismni yoyish
 
 ## Section Headers.
 
 newtab-section-header-topsites = Ommabop saytlar
 newtab-section-header-recent-activity = Soʻnggi faoliyat
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } tomonidan tavsiya qilingan
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Saytlarni koʻrishni boshlashingiz bilan biz sizga ajoyib maqola, video va oxirgi kirilgan yoki xatchoʻplarga qoʻshilgan sahifalarni koʻrsatamiz.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Hammasini koʻrib chiqdingiz. { $provider }dan soʻnggi hikoyalarni o‘qish uchun keyinroq bu sahifaga qayting. Kuta olmaysizmi? Internetdan eng zoʻr hikoyalarni topish uchun ommabop mavzuni tanlang.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -243,15 +194,6 @@ newtab-discovery-empty-section-topstories-try-again-button = Yana urining
 newtab-discovery-empty-section-topstories-loading = Yuklanmoqda...
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Obbo! Biz deyarli bu qismni yuklab boʻlgandik, lekin ulgurmabmiz.
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Mashhur mavzular:
-newtab-pocket-more-recommendations = Yana tavsiyalar
-newtab-pocket-learn-more = Batafsil
-newtab-pocket-cta-button = { -pocket-brand-name }ni yuklab olish
-newtab-pocket-cta-text = Sizga yoqqan maqolalarni { -pocket-brand-name } xizmatiga saqlab qoʻying va maroqli oʻqib, tafakkuringizni rivojlantiring
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

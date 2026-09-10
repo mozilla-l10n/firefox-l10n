@@ -24,8 +24,8 @@ pippki-pw-not-wanted = Զգուշացու՛մ, Դուք որոշեցիք գաղ�
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Վերակայել հիմնական գաղտնաբառը
     .style = min-width: 40em
+    .title = Վերակայել հիմնական գաղտնաբառը
 reset-password-button-label =
     .label = Վերակայել
 reset-primary-password-text = Եթե մաքրեք Ձեր Հիմնական գաղտնաբառը, ապա բոլոր պահված Վեբ և Էլ. Փոստ գաղտնաբառերը, անհատական հավատարմագրերը, անձնական բանալիները կմոռացվեն: Համոզվա՞ծ եք, որ ցանկանում եք վերակայել Հիմնական գաղտնաբառը:
@@ -35,8 +35,8 @@ pippki-reset-password-confirmation-message = Ձեր հիմնական գաղտն�
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Վկայագրի ներբեռնում
     .style = min-width: 46em
+    .title = Վկայագրի ներբեռնում
 download-cert-message = Դուք հայց եք ստացել մի նոր Վկայագրի լիազորման (CA) համար:
 download-cert-trust-ssl =
     .label = Վստահել այս CA-ին՝ վեբ հանգույցների նույնացման համար:
@@ -51,8 +51,6 @@ download-cert-view-text = Ոսումնասիրել ԱՀ (CA) Վկայագիրը
 
 client-auth-window =
     .title = Օգտվողի Նույնացման Հարցում
-client-auth-site-description = Այս հանգույց պահանջում է, որ դուք Ձեր Վկայագիրը ներկայացնեք.
-client-auth-choose-cert = Ընտրեք թվային ինքնությունը ներկայացնող Վկայագիրը.
 # Variables:
 # $hostname (String) - The domain name of the site requesting the client authentication certificate
 client-auth-site-identification = «{ $hostname }»-ը պահանջել է Ձեր նույնականացնումը հետևյալ արտոնագրով՝

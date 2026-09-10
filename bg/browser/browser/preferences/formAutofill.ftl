@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Запазени адреси
 autofill-manage-addresses-list-header = Адреси
-autofill-manage-credit-cards-title = Запазени банкови карти
-autofill-manage-credit-cards-list-header = Банкови карти
 autofill-manage-payment-methods-title = Запазени начини за плащане
 autofill-manage-cards-list-header = Карти
 autofill-manage-dialog =
@@ -28,9 +26,6 @@ address-capture-learn-more-button =
     .label = Научете повече
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Промяна на адрес
-autofill-address-given-name = Име
-autofill-address-additional-name = Презиме
-autofill-address-family-name = Фамилия
 autofill-address-organization = Организация
 autofill-address-street = Адрес
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
@@ -76,8 +71,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Нов адрес
 autofill-address-country = Държава или район
 autofill-address-country-only = Държава
 autofill-address-tel = Телефон
@@ -85,18 +78,6 @@ autofill-address-email = Ел. адрес
 autofill-cancel-button = Отказ
 autofill-save-button = Запазване
 autofill-country-warning-message = Автоматичното попълване на формуляри в момента е достъпно само за някои държави.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Нова банкова карта
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Промяна
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] показва информация за банкова карта
-        [windows] { -brand-short-name } се опитва да покаже информация за банкова карта. Потвърдете достъпа до този акаунт на Windows по-долу.
-       *[other] { -brand-short-name } се опитва да покаже информация за банкова карта.
-    }
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Добавяне на карта
 # The dialog title for editing credit cards in browser preferences.
@@ -121,15 +102,3 @@ autofill-card-network = Вид на картата
 
 autofill-passport-country =
     .label = Държава
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

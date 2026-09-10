@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = ดูการเรียกดูล่าสุดผ่านหน้าต่างและอุปกรณ์
@@ -16,40 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = ปิด
-    .aria-label = ปิด
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = เมื่อกี้นี้
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = การรับแท็บ
-firefoxview-tabpickup-description = เปิดหน้าจากอุปกรณ์อื่น ๆ
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% เสร็จสมบูรณ์
-firefoxview-tabpickup-step-signin-header = สลับระหว่างอุปกรณ์ได้อย่างไร้รอยต่อ
-firefoxview-tabpickup-step-signin-description = เมื่อต้องการนำแท็บบนโทรศัพท์ของคุณมาที่นี่ ให้ลงชื่อเข้าหรือสร้างบัญชีก่อน
-firefoxview-tabpickup-step-signin-primarybutton = ดำเนินการต่อ
 firefoxview-syncedtabs-signin-header-2 = ให้ { -brand-product-name } เป็นแบบคุณในทุกอุปกรณ์ของคุณ
 firefoxview-syncedtabs-signin-description-2 = หากต้องการเห็นแท็บที่คุณเปิดไว้ในโทรศัพท์และอุปกรณ์อื่นๆ ของคุณ ให้ลงชื่อเข้าหรือลงทะเบียนบัญชีใหม่ เมื่อคุณมีบัญชีแล้ว คุณจะสามารถซิงค์รหัสผ่าน ประวัติ และอื่นๆ ของคุณได้ด้วย
 firefoxview-syncedtabs-signin-primarybutton-2 = ลงชื่อเข้า
-firefoxview-tabpickup-adddevice-header = ซิงค์ { -brand-product-name } บนโทรศัพท์หรือแท็บเล็ตของคุณ
-firefoxview-tabpickup-adddevice-description = ดาวน์โหลด { -brand-product-name } สำหรับมือถือแล้วลงชื่อเข้าจากที่นั่น
-firefoxview-tabpickup-adddevice-learn-how = เรียนรู้วิธี
-firefoxview-tabpickup-adddevice-primarybutton = รับ { -brand-product-name } สำหรับมือถือ
 firefoxview-syncedtabs-adddevice-header-2 = หยิบแท็บได้จากทุกที่
 firefoxview-syncedtabs-adddevice-description-2 = ลงชื่อเข้าใช้ { -brand-product-name } ในโทรศัพท์ของคุณหรือคอมพิวเตอร์อีกเครื่องเพื่อให้แท็บต่างๆ ปรากฏที่นี่ เรียนรู้วิธีการ<a data-l10n-name="url">เชื่อมต่ออุปกรณ์เพิ่มเติม</a>
 firefoxview-syncedtabs-adddevice-primarybutton = ลองใช้ { -brand-product-name } สำหรับมือถือ
-firefoxview-tabpickup-synctabs-header = เปิดการซิงค์แท็บ
-firefoxview-tabpickup-synctabs-description = อนุญาตให้ { -brand-short-name } แบ่งปันแท็บระหว่างอุปกรณ์
-firefoxview-tabpickup-synctabs-learn-how = เรียนรู้วิธี
 firefoxview-tabpickup-synctabs-primarybutton = ซิงค์แท็บที่เปิดอยู่
 firefoxview-syncedtabs-synctabs-header = อัปเดตการตั้งค่าการซิงค์ของคุณ
 firefoxview-syncedtabs-synctabs-description = ถ้าต้องการดูแท็บจากอุปกรณ์อื่น คุณต้องซิงค์แท็บที่เปิดอยู่
 firefoxview-syncedtabs-loading-header = อยู่ระหว่างการซิงค์
 firefoxview-syncedtabs-loading-description = เมื่อเสร็จแล้ว คุณจะเห็นแท็บที่คุณเปิดไว้ในอุปกรณ์อื่น ๆ โปรดกลับมาดูในเร็ว ๆ นี้
 firefoxview-tabpickup-fxa-admin-disabled-header = องค์กรของคุณปิดใช้งานการซิงค์
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ไม่สามารถซิงค์แท็บระหว่างอุปกรณ์ได้เนื่องจากผู้ดูแลระบบของคุณปิดใช้งานการซิงค์
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ไม่สามารถซิงค์แท็บระหว่างอุปกรณ์ได้เนื่องจากองค์กรของคุณปิดใช้งานการซิงค์
 firefoxview-tabpickup-network-offline-header = ตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ
 firefoxview-tabpickup-network-offline-description = ถ้าคุณกำลังใช้ไฟร์วอลล์หรือพร็อกซี ให้ตรวจสอบว่า { -brand-short-name } มีสิทธิ์เข้าถึงเว็บ
@@ -66,37 +43,16 @@ firefoxview-tabpickup-password-locked-link = เรียนรู้เพิ�
 firefoxview-tabpickup-password-locked-primarybutton = ป้อนรหัสผ่านหลัก
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">เรียนรู้เพิ่มเติม</a>
 firefoxview-tabpickup-signed-out-header = ลงชื่อเข้าเพื่อเชื่อมต่ออีกครั้ง
-firefoxview-tabpickup-signed-out-description = ถ้าต้องการเชื่อมต่อใหม่และนำแท็บของคุณมาที่นี่ ให้ลงชื่อเข้า { -fxaccount-brand-name } ของคุณ
 firefoxview-tabpickup-signed-out-description2 = ถ้าต้องการเชื่อมต่อใหม่และนำแท็บของคุณมาที่นี่ ให้ลงชื่อเข้าบัญชีของคุณ
 firefoxview-tabpickup-signed-out-primarybutton = ลงชื่อเข้า
-firefoxview-tabpickup-syncing = นั่งรอสักครู่ขณะที่กำลังซิงค์แท็บของคุณ ซึ่งจะใช้เวลาแค่ครู่เดียวเท่านั้น
-firefoxview-mobile-promo-header = นำแท็บจากโทรศัพท์หรือแท็บเล็ตของคุณเข้ามา
-firefoxview-mobile-promo-description = เมื่อต้องการดูแท็บบนมือถือล่าสุดของคุณ ให้ลงชื่อเข้า { -brand-product-name } บน iOS หรือ Android
-firefoxview-mobile-promo-primarybutton = รับ { -brand-product-name } สำหรับมือถือ
-firefoxview-mobile-confirmation-header = 🎉 เรียบร้อยแล้ว!
-firefoxview-mobile-confirmation-description = ตอนนี้คุณสามารถนำแท็บ { -brand-product-name } จากแท็บเล็ตหรือโทรศัพท์ของคุณเข้ามาได้แล้ว
-firefoxview-closed-tabs-title = เพิ่งปิดล่าสุด
-firefoxview-closed-tabs-description2 = เปิดหน้าที่คุณปิดไปในหน้าต่างนี้ใหม่
-firefoxview-closed-tabs-placeholder-header = ไม่มีแท็บที่ปิดล่าสุด
-firefoxview-closed-tabs-placeholder-body = เมื่อคุณปิดแท็บในหน้าต่างนี้ คุณสามารถเรียกแท็บนั้นกลับมาได้จากที่นี่
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = ปิด { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = ใช้งานล่าสุด
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = เปิด { $targetURI } ในแท็บใหม่
-firefoxview-try-colorways-button = ลองใช้ชุดรูปแบบสี
-firefoxview-change-colorway-button = เปลี่ยนชุดรูปแบบสี
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = ยังไม่มีอะไรให้ดู
-firefoxview-synced-tabs-placeholder-body = เมื่อคุณเปิดหน้าหนึ่งใน { -brand-product-name } บนอุปกรณ์อื่นในครั้งถัดไป คุณสามารถกลับมาเปิดหน้านั้นอีกได้ที่นี่ราวกับเวทมนตร์
 firefoxview-collapse-button-show =
     .title = แสดงรายการ
 firefoxview-collapse-button-hide =

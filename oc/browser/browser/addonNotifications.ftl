@@ -31,26 +31,12 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Contunhar l’installacion
     .accesskey = T
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Aqueste site demanda l’accès a vòstre periferics MIDI (Musical Instrument Digital Interface). Se pòt donar l’accès en installant un modul complementari.
 site-permission-install-first-prompt-midi-message = La seguretat d’aqueste accès es pas garantida. Continuatz sonque se vos fisatz d’aqueste site.
-
-##
-
-xpinstall-disabled-locked = L'installacion de programas es estada desactivada per l'administrator de vòstre sistèma.
 xpinstall-disabled = L'installacion de programas es desactivada. Clicatz sus Activar puèi tornatz ensajar.
 xpinstall-disabled-button =
     .label = Activar
     .accesskey = A
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = L’administrador del sistèma a blocat { $addonName } ({ $addonId }).
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = L’administrator sistèma a empachat aqueste site de vos demandar d'installar un logicial sul vòstre ordenador.
 addon-install-full-screen-blocked = L’installacion de modul complementaris es pas possibla pendent o abans lo passatge en mòde ecran complèt.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -68,9 +54,6 @@ webext-imported-addons = Finalizar l’installacion de las extensions importadas
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Suprimir { $name } ?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Suprimir { $name } de { -brand-shorter-name } ?
 addon-removal-button = Suprimir
 addon-removal-abuse-report-checkbox = Senhalar aquesta extension a { -vendor-short-name }
 # Variables:
@@ -123,4 +106,3 @@ addon-local-install-error-not-signed = Aqueste modul complementari a pas pogut �
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } a pas pogut èsser installat perque es pas compatible amb { -brand-short-name } { $appVersion }.
-addon-install-error-blocklisted = { $addonName } a pas pogut èsser installat perque presenta un grand risc de problèmas d'instabilitat o de seguretat.

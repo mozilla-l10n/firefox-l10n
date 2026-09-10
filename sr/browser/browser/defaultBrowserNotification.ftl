@@ -41,7 +41,6 @@ default-browser-prompt-message-pin-mac =
        *[other] Нека вам програм { -brand-short-name } буде надохват руке – поставите га као подразумевани прегледач и додајте на док.
     }
 default-browser-prompt-button-primary-set = Постави као примарни прегледач
-default-browser-prompt-button-primary-pin = Постави као примарни прегледач
 default-browser-prompt-title-alt =
     { -brand-short-name.gender ->
         [masculine] Поставити { -brand-short-name(case: "acc") } као подразумевани прегледач?

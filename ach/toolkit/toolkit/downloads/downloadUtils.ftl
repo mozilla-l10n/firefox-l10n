@@ -92,11 +92,5 @@ download-utils-time-left-single = odong { $time }
 download-utils-time-left-double = odong { $time1 } { $time2 }
 download-utils-time-few-seconds = Odong ceken manok
 download-utils-time-unknown = Cawa ma odong pe ngene
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = kakare { $scheme }
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = pwail ma gang
 # Displayed time for files finished yesterday
 download-utils-yesterday = Lawo

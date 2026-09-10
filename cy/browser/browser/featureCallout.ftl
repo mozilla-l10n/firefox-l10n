@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = Symudwch rhwng dyfeisiau gyda chipio tab
 callout-firefox-view-tab-pickup-subtitle = Cipiwch dabiau agored yn gyflym o'ch ffôn a'u hagor yma i gael y llif gorau.
 callout-firefox-view-recently-closed-title = Ail-agorwch eich tabiau caeedig mewn chwinciad
 callout-firefox-view-recently-closed-subtitle = Bydd eich holl dabiau caeedig yn ymddangos yn hudol yma. Peidiwch byth â phoeni am gau gwefan ar ddamwain eto.
-callout-firefox-view-colorways-title = Ychwanegwch bach o liw
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Dewiswch yr arlliw sy'n siarad â chi gyda chyfuniadau lliw. Dim ond yn { -brand-product-name }.
-callout-firefox-view-colorways-reminder-title = Archwiliwch ein cyfuniadau lliw diweddaraf
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Lliwiwch eich porwr gyda'r arlliwiau eiconig hyn, wedi'u hysbrydoli gan leisiau annibynnol. Dim ond yn { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

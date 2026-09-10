@@ -17,7 +17,6 @@ autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } поку�
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } покушава да прикаже сачуване податке о начину плаћања.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Подешавања аутоматског попуњавања образаца
-autofill-options-link-osx = Подешавања аутоматског попуњавања образаца
 
 ## The credit card capture doorhanger
 
@@ -67,16 +66,6 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
-# The warning text that is displayed for informing users what categories are
-# about to be filled.  The text would be, for example,
-#   Also autofills organization, phone, email.
-# Variables:
-#   $categories - one or more of the categories, see autofill-category-X below
-autofill-phishing-warningmessage-extracategory = Такође се аутоматски попуњава { $categories }
-# Variation when all are in the same category.
-# Variables:
-#   $categories - one or more of the categories
-autofill-phishing-warningmessage = Аутоматско попуњавање { $categories }
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = адреса
 autofill-category-name = име

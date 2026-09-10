@@ -50,7 +50,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Декодер података ({ $pid })
 about-processes-socket-process = Мрежа ({ $pid })
-about-processes-remote-sandbox-broker-process = Даљински Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Fork Server ({ $pid })
 about-processes-preallocated-process = Унапред додељено ({ $pid })
 about-processes-utility-process = Помоћни програм ({ $pid })
@@ -74,17 +73,6 @@ about-processes-web-isolated-property-with-coop-coep = изоловано уна
 ##    $properties (String) A formatted list of properties from the above strings.
 
 about-processes-web-isolated-process2 = { $origin } ({ $properties })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, изолован са других извора)
-about-processes-web-isolated-process-private = { $origin } – приватни ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } – приватни ({ $pid }, изолован са других извора)
 
 ## Details within processes
 

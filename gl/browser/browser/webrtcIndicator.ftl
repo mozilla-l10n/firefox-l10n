@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Indicador de compartición
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Indicador de compartición
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Está a compartir o seu micrófono. Prema para controlar como se comparte.
 webrtc-screen-system-menu =
     .label = Está a compartir unha xanela ou unha pantalla. Prema para controlar como se comparte.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Estanse a compartir a súa cámara e o micrófono. Prema para controlar o uso compartido.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Estase a compartir a súa cámara. Prema para controlar o uso compartido.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Estase a compartir o seu micrófono. Prema para controlar o uso compartido.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Estase a compartir un aplicativo. Prema para controlar o seu uso compartido.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Estase a compartir a súa pantalla. Prema para controlar o uso compartido.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Estase a compartir unha xanela. Prema para controlar o uso compartido.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Estase a compartir unha lapela. Prema para controlar o uso compartido.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Permitir que { $
 
 webrtc-share-screen-warning = Comparta a pantalla só cos sitios nos que confíe. Compartir pode permitir que sitios enganosos suplanten a súa actividade de navegación e rouben os seus datos privados.
 webrtc-share-browser-warning = Comparta { -brand-short-name } só cos sitios nos que confíe. Compartir pode permitir que sitios enganosos suplanten a súa actividade de navegación e rouben os seus datos privados.
-webrtc-share-screen-learn-more = Máis información
 webrtc-pick-window-or-screen = Seleccionar xanela ou pantalla
 webrtc-share-entire-screen = Pantalla completa
 webrtc-share-pipe-wire-portal = Usar a configuración do sistema operativo

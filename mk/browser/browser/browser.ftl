@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } приватно прелистување
@@ -48,8 +43,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Отворете ја таблата за пораки за офлајн складирање
 urlbar-password-notification-anchor =
     .tooltiptext = Отворете го панелот за пораки за зачувување лозинка
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Менаџирајте го користењето на приклучоци
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Менаџирајте го споделувањето на вашата камера и/или микрофон со ова место
 # "Speakers" is used in a general sense that might include headphones or
@@ -62,14 +55,7 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Складирани податоци во Трајно складиште
 urlbar-addons-notification-anchor =
     .tooltiptext = Отворетего панелот со пораки за инсталација на додатоци
-urlbar-tip-help-icon =
-    .title = Побарајте помош
 urlbar-search-tips-confirm = Во ред, разбрав
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Совет:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -104,8 +90,6 @@ urlbar-screen-blocked =
     .tooltiptext = Го блокиравте споделувањето на екранот од страна на ова мрежно место.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Го блокиравте постојаното складирање за оваа веб-локација.
-urlbar-popup-blocked =
-    .tooltiptext = Имате блокирано скокачки прозорци за оваа веб-локација.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Ја блокиравте автоматската репродукција на медиуми со звук за оваа веб-локација.
 urlbar-canvas-blocked =
@@ -235,17 +219,13 @@ identity-custom-root = Врската е потврдена од издавач 
 identity-passive-loaded = Делови од оваа страница не се безбедни (како на пример, сликите).
 identity-active-loaded = Ја исклучивте заштитата за оваа страница.
 identity-weak-encryption = Оваа страница користи слаба енкрипција.
-identity-insecure-login-forms = Најавувањата на оваа страница можат да бидат злоупотребени.
 identity-https-only-connection-upgraded = (надградено на HTTPS)
-identity-https-only-label = Режим само HTTPS
 identity-https-only-dropdown-on =
     .label = Вклучено
 identity-https-only-dropdown-off =
     .label = Исклученo
 identity-https-only-dropdown-off-temporarily =
     .label = Исклучено привремено
-identity-https-only-info-turn-on2 = Вклучете го режимот само HTTPS за оваа локација ако сакате { -brand-short-name } да ја надгради врската кога е можно.
-identity-https-only-info-turn-off2 = Ако страницата се чини дека е проблематична, можеби ќе сакате да го исклучите режимот само HTTPS за оваа страница повторно да се вчита со користење на небезбеден HTTP.
 identity-https-only-info-no-upgrade = Не може да се надгради врската од HTTP.
 identity-permissions-storage-access-header = Колачиња меѓу страници
 identity-permissions-storage-access-hint = Овие страни може да користат колачиња и податоци за веб-локации додека сте на оваа страница.
@@ -261,7 +241,6 @@ identity-remove-cert-exception =
     .label = Отстрани исклучок
     .accesskey = р
 identity-description-insecure = Вашата врска со оваа страница не е приватна. Информациите што ги доставувате може да ги гледаат други (како лозинки, пораки, кредитни картички, итн.).
-identity-description-insecure-login-forms = Податоците што ги внесувате за најава на оваа страница не се безбедни и би можеле да бидат злоупотребени.
 identity-description-weak-cipher-intro = Вашата врска со ова мрежно место користи слаба енкрипција и не е приватна.
 identity-description-weak-cipher-risk = Други луѓе можат да ги гледаат вашите информации или да го менуваат однесувањето на мрежното место.
 identity-description-active-blocked2 = { -brand-short-name } блокираше делови од оваа страница што не се безбедни.
@@ -270,12 +249,6 @@ identity-description-passive-loaded-insecure2 = Ова мрежно место �
 identity-description-passive-loaded-mixed2 = Иако { -brand-short-name } блокираше некои содржини, оваа страница сѐ уште има содржини што не се безбедни (како, на пример, слики).
 identity-description-active-loaded = Ова мрежно место има содржини што не се безбедни (како на пример: скрипти) и вашата врска не е приватна.
 identity-description-active-loaded-insecure = Податоците што ги споделувате со ова место би можеле да бидат видливи за други (како на пример: лозинки, пораки, кредитни картички и сл.).
-identity-disable-mixed-content-blocking =
-    .label = Исклучи заштита за сега
-    .accesskey = И
-identity-enable-mixed-content-blocking =
-    .label = Овозможи заштита
-    .accesskey = О
 identity-more-info-link-text =
     .label = Повеќе информации
 
@@ -289,40 +262,6 @@ browser-window-restore-down-button =
     .tooltiptext = Врати надолу
 browser-window-close-button =
     .tooltiptext = Затвора
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = ИГРАЊЕ
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = БЕЗГЛАСНО
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = AUTOPLAY БЛОКИРАНО
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = СЛИКА-ВО-СЛИКА
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] ЗАМОЛЧИ ЈАЗИЧЕ
-        [one] ЗАМОЛЧИ ЈАЗИЧЕ
-       *[other] ЗАМОЛЧИ { $count } ЈАЗИЧИЊА
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] Вклучи го звукот на ТАБ
-        [one] Вклучи го звукот на ТАБ
-       *[other] Вклучи го звукот на { $count } ТАБОВИ
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] PLAY ТАБ
-        [one] PLAY ТАБ
-       *[other] PLAY { $count } ТАБОВИ
-    }
 
 ## Bookmarks toolbar items
 
@@ -411,8 +350,6 @@ urlbar-extension =
     .value = Проширување:
 urlbar-go-button2 =
     .title = Ја отвора адресата во локациската лента
-urlbar-go-button =
-    .tooltiptext = Ја отвора адресата во локациската лента
 urlbar-page-action-button =
     .tooltiptext = Активности на страница
 
@@ -458,20 +395,9 @@ urlbar-result-action-tabtosearch-web = Пребарувајте со { $engine }
 urlbar-result-action-tabtosearch-other-engine = Пребарувајте { $engine } директно од лентата за адреси
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Копирај
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
-urlbar-searchmode-bookmarks =
-    .label = Обележувачи
-urlbar-searchmode-tabs =
-    .label = Јазичиња
-urlbar-searchmode-history =
-    .label = Историја
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -553,12 +479,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Сокриј ја лентата со алатки за обележувачи
            *[other] Прикажи лента со алатки за обележувачи
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Отстрани мени за обележувачи од алатник
-           *[other] Додај мени за обележувачи во алатник
-        }
 
 ##
 
@@ -584,14 +504,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Обележувачи
-library-recent-activity-title =
-    .value = Скорешна активност
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Зачувај во { -pocket-brand-name }
-    .tooltiptext = Зачувај во { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
@@ -645,8 +557,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = Д
 
 ## Password save/update panel
 
-panel-save-update-username = Корисничко име
-panel-save-update-password = Лозинка
 panel-save-update-username-2 =
     .label = Корисничко име
 panel-save-update-password-2 =
@@ -660,24 +570,8 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = Затвори
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = Дозволи скокачки прозорци од { $uriHost }
-    .accesskey = с
-popups-infobar-block =
-    .label = Блокирај скокачки прозорци од { $uriHost }
-    .accesskey = с
-
 ##
 
-popups-infobar-dont-show-message =
-    .label = Не ја покажувај оваа порака кога се блокираат скокачки прозорци
-    .accesskey = Н
-edit-popup-settings =
-    .label = Управувај со поставките за скокачки прозорци…
-    .accesskey = У
 picture-in-picture-hide-toggle =
     .label = Скриј го копчето за слика-во-слика
     .accesskey = к
@@ -701,8 +595,6 @@ navbar-accessible =
     .aria-label = Навигација
 navbar-downloads =
     .label = Преземања
-navbar-overflow =
-    .tooltiptext = Повеќе алатки...
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

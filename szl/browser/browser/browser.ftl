@@ -2,49 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — Prywatne przeglōndanie { -brand-full-name }
-    .data-title-default = { -brand-full-name }
-    .data-title-private = Prywatne Przeglōndanie { -brand-full-name }
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Prywatne przeglōndanie
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Prywatne przeglōndanie
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = Pokoż informacyje ô strōnie
 
@@ -78,8 +35,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Ôtwōrz panel powiadōmiyń ô trzimaniu danych offline
 urlbar-password-notification-anchor =
     .tooltiptext = Ôtwōrz panel powiadōmiyń spamiyntowanio hasła
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Regyruj używaniym rozszyrzyń
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Regyruj udostympnianiym tyj strōnie twojij kamery i/abo mikrofōnu
 # "Speakers" is used in a general sense that might include headphones or
@@ -92,14 +47,7 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Chrōniynie danych we pamiyńci trwałyj.
 urlbar-addons-notification-anchor =
     .tooltiptext = Ôtwōrz panel powiadōmiyń instalacyje rozszyrzyń
-urlbar-tip-help-icon =
-    .title = Pōmoc
 urlbar-search-tips-confirm = Rozumia
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Dorada:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -135,8 +83,6 @@ urlbar-screen-blocked =
     .tooltiptext = Udostympnianie twojigo ekranu tyj strōnie je zablokowane.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Chrōniynie ôd tyj strōny danych we pamiyńci trwałyj je zablokowane.
-urlbar-popup-blocked =
-    .tooltiptext = Wyskakujōnce ôkna na tyj strōnie sōm zablokowane.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Autōmatyczne puszczanie mediōw z klangym na tyj strōnie je zablokowane.
 urlbar-canvas-blocked =
@@ -235,20 +181,11 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Pokoż rozszyrzynia
-quickactions-cmd-addons2 = rozszyrzynia
 quickactions-cmd-bookmarks = zokłodki
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Wypucuj historyjo
-quickactions-cmd-clearhistory = wypucuj historyjo
 quickactions-cmd-downloads = pobrania
 # Opens about:addons page in the extensions section
 quickactions-extensions = Regiyruj rozszyrzyniami
-quickactions-cmd-extensions = rozszyrzynia
-quickactions-cmd-inspector = inspektōr, narzyńdzia do programistōw
 quickactions-cmd-logins = dane logowanio, hasła
-# Opens about:addons page in the plugins section
-quickactions-plugins = Regiyruj pluginami
-quickactions-cmd-plugins = pluginy
 quickactions-cmd-print = durkuj
 quickactions-cmd-private = prywatne przeglōndanie
 # Opens a SUMO article explaining how to refresh
@@ -257,15 +194,11 @@ quickactions-cmd-refresh = ôdświyż
 # Restarts the browser
 quickactions-restart = Resztatuj aplikacyjo { -brand-short-name }
 quickactions-cmd-restart = resztartnij
-quickactions-cmd-screenshot = ôbroz ekranu
-quickactions-cmd-settings = sztalōnki, preferyncyje, ôpcyje
 # Opens about:addons page in the themes section
 quickactions-themes = Regiyruj motywami
-quickactions-cmd-themes = motywy
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Akctualizuj aplikacyjo { -brand-short-name }
 quickactions-cmd-update = aktualizuj
-quickactions-cmd-viewsource = pokoż zdrzōdło, zdrzōdło
 
 ## Bookmark Panel
 
@@ -315,17 +248,13 @@ identity-custom-root = Połōnczynie je zweryfikowane ôd wystowcy certyfikatu, 
 identity-passive-loaded = Party tyj strōny sōm niyzabezpieczōne (bez przikłod ôbrozki).
 identity-active-loaded = Ôchrōna na tyj strōnie je zastawiōno ôd ciebie.
 identity-weak-encryption = Ta strōna używo słabego szyfrowanio.
-identity-insecure-login-forms = Dane logowanio wkludzōne na tyj strōnie mogōm być wyzdradzōne.
 identity-https-only-connection-upgraded = (sztajgniynte do HTTPS)
-identity-https-only-label = Tryb "ino HTTPS"
 identity-https-only-dropdown-on =
     .label = Załōnczōne
 identity-https-only-dropdown-off =
     .label = Wyłōnczōne
 identity-https-only-dropdown-off-temporarily =
     .label = Czasowo wyłōnczōne
-identity-https-only-info-turn-on2 = Załōncz tryb "Ino HTTPS" do tyj strōny, jak chcesz, coby aplikacyjo { -brand-short-name } przełōnczała na niego, kej ino idzie.
-identity-https-only-info-turn-off2 = Jak strōna wyglōndo na felerno, może bydziesz chcieć wyłōnczyć tryb "Ino HTTPS" do tyj strōny, coby przeladować jōm we trybie niyzabezpieczōnego HTTP.
 identity-https-only-info-no-upgrade = Niy idzie sztajgnōńć połōnczynio ze HTTP.
 identity-permissions-storage-access-header = Cookies, co śledzōm miyndzy strōnami
 identity-permissions-storage-access-hint = Te strōny poradzōm używać cookies, co śledzōm cie miyndzy strōnami, i mieć dostymp do danych tyj strōny, jak żeś na nij je.
@@ -341,7 +270,6 @@ identity-remove-cert-exception =
     .label = Wymaż wyjōntek
     .accesskey = W
 identity-description-insecure = Twoje połōnczynie z tōm strōnōm niy ma prywatne. Wkludzane informacyje (bez przikłod hasła, wiadōmości, numery płatowych kart) mogōm być dostympne do inkszych.
-identity-description-insecure-login-forms = Wkludzane na tyj strōnie dane logowanio niy sōm zabezpieczōne i mogōm być wyzdradzōne.
 identity-description-weak-cipher-intro = Twoje połōnczynie z tōm strōnōm używo słabego szyfrowanio i niy ma prywatne.
 identity-description-weak-cipher-risk = Inksi ludzie mogōm ôboczyć twoje informacyje abo zmiynić działanie tyj strōny.
 identity-description-active-blocked2 = Aplikacyjo { -brand-short-name } zablokowała niyzabezpieczōne party tyj strōny.
@@ -350,12 +278,6 @@ identity-description-passive-loaded-insecure2 = Ta strōna mo jako niyzabezpiecz
 identity-description-passive-loaded-mixed2 = Chocioż aplikacyjo { -brand-short-name } zaszperowała trocha zawartości, na strōnie durch je jako niyzabezpieczōno zawartość (bez przikłod ôbrozki).
 identity-description-active-loaded = Strōna mo jako niyzabezpieczōno zawartość (bez przikłod skrypty), a twoje połōnczynie niy ma prywatne.
 identity-description-active-loaded-insecure = Na wkludzane na tyj strōnie informacyje (bez przikłod hasła, wiadōmości, numery płatowych kart) może wejzdrzeć fto inkszy.
-identity-disable-mixed-content-blocking =
-    .label = Na razie zastow ôchrōna
-    .accesskey = w
-identity-enable-mixed-content-blocking =
-    .label = Załōncz ôchrōna
-    .accesskey = Z
 identity-more-info-link-text =
     .label = Wiyncyj informacyji
 
@@ -369,43 +291,6 @@ browser-window-restore-down-button =
     .tooltiptext = Wrōć w dōł
 browser-window-close-button =
     .tooltiptext = Zawrzij
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = GRO
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = BEZ KLANGU
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = AUTOPUSZCZANIE JE ZASZPEROWANE
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = ÔBROZ WE ÔBRAZIE
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] Wyłōncz klang karty
-        [one] Wyłōncz klang { $count } karty
-        [few] Wyłōncz klang { $count } kartōw
-       *[many] Wyłōncz klang { $count } kartōw
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] Załōncz klang { $count } karty
-        [one] Załōncz klang { $count } karty
-        [few] Załōncz klang { $count } kartōw
-       *[many] Załōncz klang { $count } kartōw
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] Puść we karcie
-        [one] Puść w { $count } karcie
-        [few] Puść we { $count } kartach
-       *[many] Puść we { $count } kartach
-    }
 
 ## Bookmarks toolbar items
 
@@ -501,8 +386,6 @@ urlbar-extension =
     .value = Rozszyrzynie:
 urlbar-go-button2 =
     .title = Idź do adresy podanyj we posku adresy
-urlbar-go-button =
-    .tooltiptext = Idź do adresy podanyj we posku adresy
 urlbar-page-action-button =
     .tooltiptext = Akcyje strōny
 
@@ -548,22 +431,9 @@ urlbar-result-action-tabtosearch-web = Szukej ze { $engine } zaroz na posku z ad
 urlbar-result-action-tabtosearch-other-engine = Szukej na { $engine } zaroz na posku z adresōm
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Kopiuj
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
-urlbar-searchmode-bookmarks =
-    .label = Zokłodki
-urlbar-searchmode-tabs =
-    .label = Karty
-urlbar-searchmode-history =
-    .label = Historyjo
-urlbar-searchmode-actions =
-    .label = Akcyje
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -658,12 +528,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Pokoż posek z zokłodkami
            *[other] Skryj posek z zokłodkami
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Wyciep myni zokłodek z poska z noczyniami
-           *[other] Przidej myni zokłodek do poska z noczyniami
-        }
 
 ##
 
@@ -694,14 +558,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = Zokłodki
-library-recent-activity-title =
-    .value = Niydowno aktywność
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Spamiyntej do { -pocket-brand-name(case: "gen") }
-    .tooltiptext = Spamiyntej do { -pocket-brand-name(case: "gen") }
 
 ## Repair text encoding toolbar button
 
@@ -755,8 +611,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = O
 
 ## Password save/update panel
 
-panel-save-update-username = Miano ôd używocza
-panel-save-update-password = Hasło
 panel-save-update-username-2 =
     .label = Miano ôd używocza
 panel-save-update-password-2 =
@@ -770,24 +624,8 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = Zawrzij
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = Przizwōl na wyskakujōnce ôkna ze { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Zaszperuj wyskakujōnce ôkna ze { $uriHost }
-    .accesskey = p
-
 ##
 
-popups-infobar-dont-show-message =
-    .label = Niy pokazuj tyj wiadōmości, jak wyskakujōnce ôkna sōm zaszperowane
-    .accesskey = N
-edit-popup-settings =
-    .label = Regiyruj sztalōnkami ôkiynek pop-up…
-    .accesskey = R
 picture-in-picture-hide-toggle =
     .label = Skryj szalter ôbrazu we ôbrozie
     .accesskey = S
@@ -811,8 +649,6 @@ navbar-accessible =
     .aria-label = Nawigacyjo
 navbar-downloads =
     .label = Pobiyranie
-navbar-overflow =
-    .tooltiptext = Wiyncyj noczyń…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

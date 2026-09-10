@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Continue cu la instalazion
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Chest sît ti domande l'acès ai tiei dispositîfs MIDI (Musical Instrument Digital Interface, vâl a dî interface digjitâl di struments musicâi). Al è pussibil abilitâ l'acès al dispositîf instalant un component adizionâl.
 site-permission-install-first-prompt-midi-message = Nol è garantît che chest acès al sedi sigûr. Continue dome se tu ti fidis di chest sît.
 site-permission-install-first-prompt-serial-header = Chest sît al domande l’acès ai tiei dispositîfs seriâi. Se tu instalis un component adizionâl tu puedis garantî l’acès.
 site-permission-install-first-prompt-serial-message = Nol è garantît che chest acès al sedi sigûr. Continue dome se tu ti fidis di chest sît.
-
-##
-
-xpinstall-disabled-locked = L'aministradôr di sisteme al à disativât la instalazion di software.
 xpinstall-disabled-by-policy = La instalazion di software e je stade disativade de tô organizazion.
 xpinstall-disabled = In chest moment la instalazion di software e je disativade. Fâs clic su Ative par abilitâle e torne prove.
 xpinstall-disabled-button =
     .label = Ative
     .accesskey = a
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) al è stât blocât dal aministradôr di sisteme.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = L'aministradôr dal to sisteme al à impedît a chest sît di domandâti di instalâ software sul computer.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = Finìs la instalazion des estensions impuartadis in { -
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Gjavâ { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Gjavâ { $name } di { -brand-shorter-name }?
 addon-removal-button = Gjave
 addon-removal-abuse-report-checkbox = Segnale cheste estension a { -vendor-short-name }
 # "it" refers to the local AI model that is paired to the AI feature
@@ -139,7 +122,5 @@ addon-local-install-no-addon-name-error-file-access = Nol è stât pussibil inst
 addon-install-error-incompatible = Nol è stât pussibil instalâ { $addonName } parcè che no je compatibile cun { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = { $addonName } al viole lis politichis di Mozilla e nol è pussibil instalâlu in { -brand-short-name }.
 addon-install-error-soft-blocked2 = { $addonName } al è sometût a limitazions e nol è pussibil instalâlu in { -brand-short-name }.
-addon-install-error-blocklisted = Nol è stât pussibil instalâ { $addonName } parcè che al à un risi elevât di causâ problemis di stabilitât o di sigurece.
-addon-install-error-soft-blocked = { $addonName } al viole lis politichis di Mozilla e nol è pussibil instalâlu in { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = No tu puedis instalâ { $addonName } come utent finâl, dome une organizazion che e dopre politichis di imprese e pues instalâlu.

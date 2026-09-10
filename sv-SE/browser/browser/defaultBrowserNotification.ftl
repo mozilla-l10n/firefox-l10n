@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = Ha alltid { -brand-short-name } nära till 
 default-browser-prompt-message-pin-msix = Ha alltid { -brand-short-name } nära till hands — gör den till din standardwebbläsare och fäst den i aktivitetsfältet och startmenyn.
 default-browser-prompt-message-pin-mac = Ha alltid { -brand-short-name } nära till hands — gör den till din standardwebbläsare och behåll den i Dock.
 default-browser-prompt-button-primary-set = Ange som primär webbläsare
-default-browser-prompt-button-primary-pin = Gör till primär webbläsare
 default-browser-prompt-title-alt = Gör { -brand-short-name } till din standardwebbläsare?
 default-browser-prompt-message-alt = Få hastighet, säkerhet och integritet varje gång du surfar.
 default-browser-prompt-button-primary-alt = Ange som standardwebbläsare

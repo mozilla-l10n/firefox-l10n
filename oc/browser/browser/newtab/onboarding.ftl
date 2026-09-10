@@ -34,12 +34,6 @@ mr1-return-to-amo-add-extension-label = Apondre { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Progression : etapa { $current } de { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -188,11 +182,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Penjar { -brand-short-name } a la barra de prètzfaches e al menú Aviar
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Començatz per utilizar un navegador sostengut per una organizacion sens but lucratiu. Defendèm vòstra vida privada pendent que navegatz pel web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -222,57 +211,10 @@ mr2022-onboarding-set-default-subtitle = Utilizatz un navegador sostengut per un
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Nòstra darrièra version es concebuda per vos, per far venir mai simpla la navegacion pel Web. Aquesta darrièra version es fargada de foncionalitats que vos agradarà.
 mr2022-onboarding-get-started-primary-button-label = Configuracion dins un ai
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Configuracion dins un ai
-mr2022-onboarding-import-subtitle = Configuratz { -brand-short-name } coma volètz. Ajustatz vòstres marcapaginas, senhals e encara mai a partir de vòstre ancian navegador.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importar d’un autre navegador
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Causissètz una color que vos inspira
-mr2022-onboarding-colorway-subtitle = Voses independentas pòdon cambiar una cultura.
-mr2022-onboarding-colorway-primary-button-label-continue = Definir e contunhar
-mr2022-onboarding-existing-colorway-checkbox-label = Convertissètz { -firefox-home-brand-name } en vòstra pagina d’acuèlh acolorida
-mr2022-onboarding-colorway-label-default = Per defaut
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Colors actualas de { -brand-short-name }
-mr2022-onboarding-colorway-description-default = <b>Utilizar mas colors actualas de { -brand-short-name }.</b>
-mr2022-onboarding-colorway-label-playmaker = Menatz
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Menaire/Menaira (roge)
-mr2022-onboarding-colorway-description-playmaker = <b>Menaire/Menaira.</b> Creatz d’escasenças per ganhar e ajudar lo monde a l'entorn de vos a elevar lor jòc.
-mr2022-onboarding-colorway-label-expressionist = Exprimissètz
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Expressionista (jaune)
-mr2022-onboarding-colorway-description-expressionist = <b>Expressionista.</b> Vesètz lo monde diferentament e vòstras creacions provòcan l’admiracion.
-mr2022-onboarding-colorway-label-visionary = Endevenissètz
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Visionari/ària (verd)
-mr2022-onboarding-colorway-description-visionary = <b>Visionari/Visionària.</b> Questionatz los estatuts quo e incitatz los autres a imaginar un futur melhor.
-mr2022-onboarding-colorway-label-activist = Militatz
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Militant/Militanta (blau)
-mr2022-onboarding-colorway-description-activist = <b>Activista.</b> Rendètz lo monde melhor qu’èra quand lo trobèretz e menatz los autres a creire al cambiament.
-mr2022-onboarding-colorway-label-dreamer = Somiatz
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Somiaire/somiaira  (violet)
-mr2022-onboarding-colorway-description-dreamer = <b>Somiaire/somiaira.</b> Cresètz que la fortuna afavorís los audacioses e inspira los demai a èsser valents.
-mr2022-onboarding-colorway-label-innovator = Innovatz
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Innovador/Innovadora (irange)
-mr2022-onboarding-colorway-description-innovator = <b>Inventor/Inventritz.</b>Vesètz d’oportunitats pertot e afectatz la vida de vòstre monde.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Passatz d’un ordenador portatiu a un mobil e invèrsament
-mr2022-onboarding-mobile-download-subtitle = Trapatz los onglets d’un aparelh e tornatz ont eratz sus un autre. Sincronizatz tanben los marcapaginas e senhals pertot ont utilizatz { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Numerizatz lo còdi QR per installar { -brand-product-name } per mobil o <a data-l10n-name="download-label">enviatz un ligam de telecargament.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Numerizatz lo còdi QR per telecargar { -brand-product-name } mobile.
 
@@ -325,15 +267,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Mans picants una a la pèl clara e una moreta
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Vista d’un solelh que cabussa per una fenèstra amb un rainal e un pòt de flors sul rebòrd d’una fenèstra
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Bomba de pintura colora un empegatge d’un uèlh verd, d’una cauçadura iranja, d’una palma de basquet roge, d’un casc de musica violet, d’un còr blau e d’una corona jauna
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Un rainal per l’ecran d’un ordenador portable que saluda. L’ordenador a una mirga connectada.
 onboarding-device-migration-title = Urós de vos tornar veire !
-onboarding-device-migration-subtitle = Connectatz-vos a vòstre { -fxaccount-brand-name(capitalization: "sentence") } per emportar vòstres marcapaginas, senhals e istorics amb vos sus vòstre aparelh novèl.
 onboarding-device-migration-primary-button-label = Se connectar
 
 ## Add-ons Picker screen

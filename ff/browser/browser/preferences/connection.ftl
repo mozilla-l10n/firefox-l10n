@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Teelte Seŋorde
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Teelte Seŋorde
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -51,18 +51,14 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Hesɗitin
     .accesskey = e
-connection-proxy-autologin =
-    .label = Hoto naamno goongɗitinol so finnde ena danndaa
-    .accesskey = i
-    .tooltip = Ndee suɓre maa goongɗitin-ma e muumre to proksiiji so a danndii innitorɗe maa e majje. Maa naamne so goongɗitinol woorii.
 connection-proxy-autologin-checkbox =
     .label = Hoto naamno goongɗitinol so finnde ena danndaa
-    .accesskey = i
     .tooltiptext = Ndee suɓre maa goongɗitin-ma e muumre to proksiiji so a danndii innitorɗe maa e majje. Maa naamne so goongɗitinol woorii.
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = Proxy DNS so SOCKS v5 huutoraama
     .accesskey = d
 connection-dns-over-https-url-custom =
     .label = Neɗɗinaa
-    .accesskey = N
     .tooltiptext = Naatnu URL maa cuɓaaɗo ngam firde DNS to HTTPS
+    .accesskey = N

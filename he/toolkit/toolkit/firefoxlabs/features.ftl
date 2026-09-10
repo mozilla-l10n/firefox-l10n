@@ -15,10 +15,6 @@ experimental-features-js-warp-description = הפעלת Warp, מיזם לשיפו
 experimental-features-ime-search =
     .label = שורת הכתובת: הצגת תוצאות במהלך הרכבת קלט IME
 experimental-features-ime-search-description = קלט IME‏ (Input Method Editor) הוא כלי שמאפשר להזין סימנים מורכבים, כמו אלו המשמשים בשפות מזרח־אסייתיות או בשפות הודיות, באמצעות מקלדת רגילה. הפעלת ניסוי זה תשאיר את חלונית שורת הכתובת פתוחה ותציג תוצאות חיפוש והצעות בזמן הזנת טקסט באמצעות IME. יש לשים לב שייתכן שה־IME יציג חלונית שתסתיר את תוצאות שורת הכתובת, ולכן מומלץ להשתמש בהעדפה זו רק עם IME שאינו משתמש בחלונית מסוג זה.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = תמונה בתוך תמונה: פתיחה אוטומטית בעת מעבר ללשונית אחרת
-experimental-features-auto-pip-description = הפעלת תמונה בתוך תמונה בסרטונים פעילים בעת מעבר ללשוניות אחרות.
 experimental-features-group-developer-tools =
     .label = כלי פיתוח
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = פרודקטיביות
 experimental-features-group-newtab-widgets =
     .label = ווידג’טים ב{ -firefox-home-brand-name }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = ססמאות בסרגל הצד
-experimental-features-contextual-password-manager-description = קבלת גישה לססמאות שלך הישר מסרגל הצד. לא צריך עוד לחפש ססמאות או לאפס אותן כשמנסים להתחבר לאתרים. כדי להשתמש באפשרות זו, יש לבחור בססמאות בסרגל הצד. לאחר מכן לעבור להגדרות הכלליות שלך ותחת פריסת הדפדפן, ולבחור בהצגת סרגל צד. לאחר מכן יש להתאים אישית את סרגל הצד שלך על־ידי בחירה בססמאות. אם תנסו את האפשרות הזאת, <a data-l10n-name="connect">אנא ספרו לנו מה אתם חושבים</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = בחירת טפט או צבע מותאם אישית עבור הלשונית החדשה

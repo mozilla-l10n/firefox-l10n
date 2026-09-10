@@ -16,15 +16,3 @@ recently-closed-menu-reopen-all-windows = Torra a abèrrere totu is ventanas
 
 recently-closed-panel-reopen-all-tabs = Torra a abèrrere totu is ischedas
 recently-closed-panel-reopen-all-windows = Torra a abèrrere totu is ventanas
-
-##
-
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [one] { $winTitle } (e { $tabCount } àtera ischeda)
-       *[other] { $winTitle } (e àteras { $tabCount } ischedas)
-    }

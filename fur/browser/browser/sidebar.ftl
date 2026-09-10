@@ -32,7 +32,6 @@ sidebar-history-clear =
     .label = Nete la cronologjie
 sidebar-history-sort-by-heading-menucaption =
     .label = Ordene par:
-sidebar-history-sort-by-heading = Ordene par:
 sidebar-history-sort-option-date =
     .label = Date
 sidebar-history-sort-option-site =
@@ -52,14 +51,9 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Estensions de sbare laterâl
-sidebar-customize-firefox-tools-header =
-    .label = Struments di { -brand-product-name }
 sidebar-customize-firefox-settings = Gjestìs lis impostazions di { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Schedis verticâls
-sidebar-settings =
-    .label = Impostazions sbare laterâl
 sidebar-hide-tabs-and-sidebar =
     .label = Plate schedis e sbare laterâl
 sidebar-show-on-the-right =
@@ -75,8 +69,6 @@ expand-sidebar-on-hover =
 
 sidebar-context-menu-manage-extension =
     .label = Gjestìs estension
-sidebar-context-menu-remove-extension =
-    .label = Gjave estension
 sidebar-context-menu-report-extension =
     .label = Segnale estension
 sidebar-context-menu-open-in-tab =

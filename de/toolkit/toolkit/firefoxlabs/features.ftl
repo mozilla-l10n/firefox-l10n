@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Warp aktivieren: ein Projekt zur Ver
 experimental-features-ime-search =
     .label = Adressleiste: Ergebnisse während der IME-Komposition anzeigen
 experimental-features-ime-search-description = Ein IME (Input Method Editor) ist ein Werkzeug, mit dem Sie komplexe Symbole, wie sie in ostasiatischen oder indischen Schriftsprachen verwendet werden, über eine Standardtastatur eingeben können. Durch Aktivieren dieses Experiments bleibt die Adressleisten-Ansicht geöffnet, wodurch Suchergebnisse und Vorschläge angezeigt werden, während IME zur Texteingabe verwendet wird. Beachten Sie, dass der IME möglicherweise ein Fenster anzeigt, das die Ergebnisse der Adressleiste verdeckt. Daher wird diese Einstellung nur für IME empfohlen, die diese Art von Fenster nicht verwenden.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Bild-im-Bild: Beim Tab-Wechsel automatisch öffnen
-experimental-features-auto-pip-description = Bild-im-Bild (PiP) für aktive Videos beim Wechseln von Tabs aktivieren
 experimental-features-group-developer-tools =
     .label = Entwicklerwerkzeuge
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Produktivität
 experimental-features-group-newtab-widgets =
     .label = Widgets auf { -firefox-home-brand-name }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Passwörter in der Sidebar
-experimental-features-contextual-password-manager-description = Greifen Sie direkt aus der Sidebar auf Ihre Passwörter zu. Kein Suchen oder Zurücksetzen von Passwörtern mehr bei der Anmeldung. Um diese Funktion zu nutzen, wählen Sie in der Sidebar Passwörter aus. Gehen Sie dann zu den allgemeinen Einstellungen und wählen Sie unter Browser-Layout die Option "Sidebar anzeigen". Passen Sie dann die Sidebar an, indem Sie Passwörter auswählen. Wenn Sie es ausprobieren, <a data-l10n-name="connect">sagen Sie uns Ihre Meinung</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Ein benutzerdefiniertes Hintergrundbild oder eine Farbe für die Firefox-Startseite wählen

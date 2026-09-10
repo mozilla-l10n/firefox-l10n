@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Eragotzi lehenetsitako nabigatzaile agenteak
 policy-DisableDeveloperTools = Blokeatu garatzaile-tresnetarako sarbidea.
 policy-DisableEncryptedClientHello = Desgaitu Encrypted Client Hello (ECH) TLS eginbidea erabiltzea.
 policy-DisableFeedbackCommands = Desgaitu iritzia bidaltzeko komandoak 'Laguntza' menutik ('Bidali iritzia' eta 'Eman gune iruzurtiaren berri').
-policy-DisableFirefoxAccounts = Desgaitu { -fxaccount-brand-name(kasua: "n") } oinarritutako zerbitzuak, sinkronizazioa barne.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Desgaitu kontuetan oinarritutako zerbitzuak, sinkronizazioa barne.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Ez gogoratu bilaketen eta inprimakien historia.
 policy-DisableLaunchOnLogin = Eragotzi { -brand-short-name }(r)i automatikoki abiatzea erabiltzaileak saioa hasten duenean.
 policy-DisablePrimaryPasswordCreation = Ezarrita badago, ezingo da pasahitz nagusia sortu.
 policy-DisablePasswordReveal = Ez baimendu gordetako saio-hasieretan pasahitzak agerraraztea.
-policy-DisablePocket2 = Desgaitu webguneak { -pocket-brand-name } zerbitzura gordetzeko eginbidea.
 policy-DisablePrivateBrowsing = Desgaitu nabigatze pribatua.
 policy-DisableProfileImport = Desgaitu beste nabigatzaile batetik datuak inportatzeko menu-komandoa.
 policy-DisableProfileRefresh = Desgaitu 'Biziberritu { -brand-short-name }' botoia about:support orrian.
@@ -132,7 +130,6 @@ policy-PDFjs = Desgaitu edo konfiguratu PDF.js, { -brand-short-name }(r)en integ
 policy-Permissions2 = Konfiguratu kamera, mikrofonoa, kokapena, jakinarazpenak eta erreprodukzio automatikoa erabiltzeko baimenak.
 policy-PictureInPicture = Gaitu edo desgaitu bideo beste leiho batean ikusteko eginbidea.
 policy-PopupBlocking2 = Baimendu zenbait webguneri laster-leihoak bistaratzea eta hirugarrenen markoengandik birbideratuak izatea.
-policy-PopupBlocking = Baimendu zenbait webguneri lehenespenez laster-leihoak bistaratzea.
 policy-Preferences = Ezarri eta blokeatu hobespen-azpimultzo baten balioak.
 policy-PrivateBrowsingModeAvailability = Ezarri nabigatze pribatuko moduaren erabilgarritasuna.
 policy-PromptForDownloadLocation = Galdetu non gorde deskargatutako fitxategiak.

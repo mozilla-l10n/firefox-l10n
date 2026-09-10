@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Uzantı verileri okuyamaz ve değiştiremez
-origin-controls-quarantined =
-    .label = Uzantının verileri okumasına ve değiştirmesine izin verilmiyor
 origin-controls-quarantined-status =
     .label = Kısıtlanmış sitelerde uzantıya izin verilmez
 origin-controls-quarantined-allow =

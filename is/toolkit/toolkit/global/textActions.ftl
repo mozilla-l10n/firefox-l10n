@@ -77,7 +77,3 @@ text-action-copy-link-to-highlight =
 # and it strips trackers etc.
 text-action-copy-clean-link-to-highlight =
     .label = Afrita hreinan tengil til að áherslulita
-# If the page has been loaded with a text fragment and text is
-# visibly highlighted, this removes any highlighted sections on the page.
-text-action-remove-all-highlights =
-    .label = Fjarlægja alla áhersluliti

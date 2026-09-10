@@ -188,8 +188,6 @@ options-disable-http-cache-tooltip =
     .title = Gaž se toś to nastajenje zmóžnja, se HTTP-cache za wšykne rejtariki znjemóžnijo, kótarež maju rědy wócynjone. Service workers njejsu pśez toś te nastajenje pótrjefjone.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label-2 = JavaScript znjemóžniś
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = JavaScript znjemóžniś *
 options-disable-javascript-tooltip =
     .title = Zmóžnjenje toś togo nastajenja znjemóžnijo JavaScript za aktualny rejtarik. Jolic rejtarik abo rědy se zacyniju, ga toś to nastajenje se zabydnjo.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -219,8 +217,6 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = (jano aktualne pósejźenje, bok se znowego zacytujo)
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Jano aktualne pósejźenje, bok zacytujo se znowego
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (zacytajo bok znowego)

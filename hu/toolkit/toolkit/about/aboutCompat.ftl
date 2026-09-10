@@ -8,12 +8,9 @@ label-interventions = Beavatkozások
 # Variables:
 #   $bug (string) - Bug number
 label-more-information = További információ: { $bug }. hiba
-label-overrides = Felhasználói ügynök felülírása
 text-disabled-in-about-config = Ez a funkció le lett tiltva az about:configban
 text-no-interventions = Nincsenek beavatkozások használatban
 text-page-title = Webes kompatibilitás
-text-no-overrides = Nincsenek UA felülírások használatban
-text-title = about:compat
 
 ## Do not translate "SmartBlock". For reference, SmartBlock is a feature
 ## of Firefox anti-tracking which fixes website breakage caused when

@@ -18,13 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Yksi kaatumisilmoitus on lähettämättä
-       *[other] { $reportCount } kaatumisilmoitusta on lähettämättä
-    }
 pending-crash-reports-view-all =
     .label = Näytä
 pending-crash-reports-send =
@@ -34,13 +27,6 @@ pending-crash-reports-always-send =
 # Variables:
 #   $reportCount (Number): the number of pending crash reports
 requested-crash-reports-message-new =
-    { $reportCount ->
-        [one] Sinulla on lähettämätön kaatumisraportti, joka vastaa tutkittavia kaatumisia. Raportin lähettäminen auttaa meitä parantamaan { -brand-product-name }ia. Tämän ilmoituksen sulkeminen ohittaa raportin.
-       *[other] Sinulla on { $reportCount } lähettämätöntä kaatumisraporttia, jotka vastaavat tutkittavia kaatumisia. Raporttien lähettäminen auttaa meitä parantamaan { -brand-product-name }ia. Tämän ilmoituksen sulkeminen ohittaa nämä raportit.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
     { $reportCount ->
         [one] Sinulla on lähettämätön kaatumisraportti, joka vastaa tutkittavia kaatumisia. Raportin lähettäminen auttaa meitä parantamaan { -brand-product-name }ia. Tämän ilmoituksen sulkeminen ohittaa raportin.
        *[other] Sinulla on { $reportCount } lähettämätöntä kaatumisraporttia, jotka vastaavat tutkittavia kaatumisia. Raporttien lähettäminen auttaa meitä parantamaan { -brand-product-name }ia. Tämän ilmoituksen sulkeminen ohittaa nämä raportit.

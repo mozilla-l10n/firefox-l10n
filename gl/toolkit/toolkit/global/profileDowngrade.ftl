@@ -3,11 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiledowngrade-window2 =
-    .title = Iniciou unha versión máis antiga de { -brand-product-name }
     .style = min-width: 490px;
+    .title = Iniciou unha versión máis antiga de { -brand-product-name }
 profiledowngrade-window-create =
     .label = Crear novo perfil
-profiledowngrade-sync = Usar unha versión máis antiga de { -brand-product-name } pode corromper os marcadores e o historial de navegación xa gardados nun perfil { -brand-product-name } existente. Para protexer a súa información, cree un novo perfil para esta instalación de { -brand-short-name }. Sempre pode iniciar sesión cun { -fxaccount-brand-name } para sincronizar os seus marcadores e o historial de navegación entre os perfís.
 profiledowngrade-sync2 = Usar unha versión antiga de { -brand-product-name } pode corromper os marcadores e o historial de navegación xa gardados nun perfil existente de { -brand-product-name }. Para protexer a túa información, crea un novo perfil para esta instalación de { -brand-short-name }. Sempre podes iniciar sesión cunha conta para sincronizar os teus favoritos e o historial de navegación entre os perfís.
 profiledowngrade-nosync = Usar unha versión máis antiga de { -brand-product-name } pode corromper os marcadores e o historial de navegación xa gardados nun perfil { -brand-product-name } existente. Para protexer a súa información, cree un novo perfil para esta instalación de { -brand-short-name }.
 profiledowngrade-quit =

@@ -31,10 +31,6 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = غلط ہوسٹ ناو دٲخل كرمُت
 permissions-invalid-uri-label = منظور شُدئ ہوسٹ ناو كریو درج
 
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-desc = توہیہ ہیکیو  مخصوص کْرتھ ذِ کمن ویب سایٹن چُھ اجازت پاپ۔اپ وینڈو اوپْن  کرنُک۔ تمہِ سایٹِہ ہُند برابر پتاہ کْریو ٹایپ یس  توہیہ  چھیو یژھان اجازت دیون  تْہ پتْہ کْریو کْلک اجازت دِیو۔
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = توہیہ ہیکیو  مخصوص کْرتھ ذِ کمن ویب سایٹن چُھ اجازت ایڈ۔آن انسٹال کرنُک۔ تمہِ سایٹِہ ہُند برابر پتاہ کْریو ٹایپ یس  توہیہ  چھیو یژھان اجازت دیون  تْہ پتْہ کْریو کْلک اجازت دِیو۔

@@ -21,8 +21,6 @@ styleeditor-save-button = Зберегти
 styleeditor-options-button =
     .tooltiptext = Налаштування редактора стилів
 styleeditor-at-rules = At-правила
-styleeditor-editor-textbox =
-    .data-placeholder = Введіть код CSS тут.
 styleeditor-no-stylesheet = Ця сторінка не має таблиці стилів.
 styleeditor-no-stylesheet-tip = Можливо, бажаєте <a data-l10n-name="append-new-stylesheet">додати нову таблицю стилів</a>?
 styleeditor-open-link-new-tab =

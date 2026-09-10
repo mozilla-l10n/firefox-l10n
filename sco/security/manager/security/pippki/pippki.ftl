@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Ye're in FIPS mode jist noo. FIPS needs a 
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Reset Primary Passwird
     .style = min-width: 40em
+    .title = Reset Primary Passwird
 reset-password-button-label =
     .label = Reset
 reset-primary-password-text = If ye reset yer Primary Passwird, aw yer stored wab and e-mail passwirds,personal certificates, and private keys will be forgotten. Are ye shair ye're wantin tae reset yer Primary Passwird?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Yer Primary Passwird has been reset
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Doonloadin Certificate
     .style = min-width: 46em
+    .title = Doonloadin Certificate
 download-cert-message = Ye've been speirt tae trust a new Certificate Authority (CA).
 download-cert-trust-ssl =
     .label = Trust this CA tae identify wabsites.
@@ -52,8 +52,6 @@ download-cert-view-text = Examine CA certificate
 
 client-auth-window =
     .title = Yaiser Identification Speirin
-client-auth-site-description = This site has speired that ye identify yersel wi a certificate:
-client-auth-choose-cert = Wale a certificate tae gie as identification:
 client-auth-cert-details = Parteeculars o waled certificate:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

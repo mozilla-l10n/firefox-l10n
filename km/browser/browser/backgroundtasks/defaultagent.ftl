@@ -3,4 +3,3 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 default-browser-notification-yes-button-text = បាទ/ចាស
-default-browser-notification-no-button-text = ទេ

@@ -5,23 +5,11 @@
 
 ### These strings are used inside the about:debugging UI.
 
-
-# Page Title strings
-
-
-# Sidebar strings
-
 # Text displayed in the about:debugging sidebar when USB devices discovery is disabled
 # (for instance because the mandatory ADB extension is not installed).
 about-debugging-sidebar-usb-disabled = USB ပိတ်ထားပြီး
-
-# Setup Page strings
-
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox2 = ဤ { -brand-shorter-name } ဗာရှင်း တွင် ထပ်တိုးအပိုများ နှင့် Service workers တို့ ၏  အမှားလက္ခဏာကုဒ် ပြရန် <a>{ about-debugging-this-firefox-runtime-name }</a> ကို သုံးပါ။
-
-# Runtime Page strings
-
 # Below are the titles for the various categories of debug targets that can be found
 # on "runtime" pages of about:debugging.
 # Title of the temporary extensions category (only available for "This Firefox" runtime).
@@ -32,9 +20,6 @@ about-debugging-runtime-temporary-extensions =
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-extensions =
     .name = ထပ်တိုးအပို
-
-# Debug Targets strings
-
 # Displayed in the categories of "runtime" pages that don't have any debug target to
 # show. Debug targets depend on the category (extensions, tabs, workers...).
 about-debugging-debug-target-list-empty = ဘာမှ မရှိသေး

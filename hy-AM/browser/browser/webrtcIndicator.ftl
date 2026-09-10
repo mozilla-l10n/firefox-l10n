@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - մեկնարկային ցուցիչ
-webrtc-indicator-window =
-    .title = { -brand-short-name } - մեկնարկային ցուցիչ
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Դուք համօգտագործում եք ձեր խոսափողը: Սեղմեք՝ համօգտագործումը կառավարելու համար:
 webrtc-screen-system-menu =
     .label = Դուք տարածում եք պատուհան կամ էկրան: Սեղմեք՝ տարածումը կառավարելու համար:
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Ձեր տեսախցիկը և խոսափողը համօգտագործվում են: Սեղմեք՝ կառավարելու համար:
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Ձեր տեսախցիկը համօգտագործվում է: Սեղմեք՝ կառավարելու համար:
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Ձեր խոսափողը համօգտագործվում է: Սեղմեք՝ կառավարելու համար:
-webrtc-indicator-sharing-application =
-    .tooltiptext = Հավելվածը համօգտագործվում է: Սեղմեք՝ կառավարելու համար:
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Էկրանը համօգտագործվում է: Սեղմեք՝ կառավարելու համար:
-webrtc-indicator-sharing-window =
-    .tooltiptext = Պատուհանը համօգտագործվում է: Սեղմեք՝ կառավարելու համար:
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Ներդիրը համօգտագործվում է: Սեղմեք՝ կառավարելու համար:
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -183,7 +164,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Թույլատր
 
 ##
 
-webrtc-share-screen-learn-more = Իմանալ ավելին
 webrtc-pick-window-or-screen = Ընտրեք պատուհան կամ ցուցադրիչ
 webrtc-share-entire-screen = Ամբողջական էկրան
 webrtc-share-pipe-wire-portal = Օգտագործել օպերացիոն համակարգի կարգավորումները

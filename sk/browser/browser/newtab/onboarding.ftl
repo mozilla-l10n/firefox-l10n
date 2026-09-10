@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Pridať { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Priebeh: krok { $current } z { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -198,11 +192,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Pripnúť { -brand-short-name(case: "acc") } na panel úloh a do ponuky Štart
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Začnite s prehliadačom podporovaným neziskovou organizáciou. Chránime vaše súkromie, keď sa pohybujete po webe.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -232,57 +221,10 @@ mr2022-onboarding-set-default-subtitle = Použite prehliadač podporovaný nezis
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Naša najnovšia verzia je postavená okolo vás, vďaka čomu je prehliadanie webu jednoduchšie ako kedykoľvek predtým. Je nabitá funkciami, o ktorých si myslíme, že si ich zamilujete.
 mr2022-onboarding-get-started-primary-button-label = Nastavte si ju za pár sekúnd
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Bleskové nastavenie
-mr2022-onboarding-import-subtitle = Nastavte si { -brand-short-name(case: "acc") } podľa seba. Pridajte si záložky, heslá a ďalšie položky zo starého prehliadača.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importovať z predchádzajúceho prehliadača
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Vyberte si farbu, ktorá vás inšpiruje
-mr2022-onboarding-colorway-subtitle = Nezávislé hlasy môžu zmeniť kultúru.
-mr2022-onboarding-colorway-primary-button-label-continue = Nastaviť a pokračovať
-mr2022-onboarding-existing-colorway-checkbox-label = Urobte z { -firefox-home-brand-name(case: "gen") } svoju farebnú domovskú stránku
-mr2022-onboarding-colorway-label-default = Predvolená
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Aktuálne farby { -brand-short-name(case: "gen") }
-mr2022-onboarding-colorway-description-default = <b>Použijú sa moje aktuálne farby { -brand-short-name(case: "gen") }.</b>
-mr2022-onboarding-colorway-label-playmaker = Tvorca hry
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Tvorca hry (červená)
-mr2022-onboarding-colorway-description-playmaker = <b>Ste tvorca hry.</b> Vytvárate príležitosti na výhru a pomáhate všetkým okolo vás pozdvihnúť ich hru.
-mr2022-onboarding-colorway-label-expressionist = Expresionista
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Expresionista (žltá)
-mr2022-onboarding-colorway-description-expressionist = <b>Ste expresionista.</b> Vidíte svet inak a vaše výtvory vzbudzujú u ostatných emócie.
-mr2022-onboarding-colorway-label-visionary = Vizionár
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Vizionár (zelená)
-mr2022-onboarding-colorway-description-visionary = <b>Ste vizionár.</b> Spochybňujete status quo a podnecujete ostatných, aby si predstavovali lepšiu budúcnosť.
-mr2022-onboarding-colorway-label-activist = Aktivista
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Aktivista (modrá)
-mr2022-onboarding-colorway-description-activist = <b>Ste aktivista.</b> Zanecháte svet lepším miestom, ako ste ho našli, a vediete ostatných, aby verili.
-mr2022-onboarding-colorway-label-dreamer = Zasnívaný
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Zasnívaný (fialová)
-mr2022-onboarding-colorway-description-dreamer = <b>Snívate.</b> Veríte, že šťastie praje odvážnym a inšpirujete ostatných, aby boli odvážni.
-mr2022-onboarding-colorway-label-innovator = Inovátor
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Inovátor (oranžová)
-mr2022-onboarding-colorway-description-innovator = <b>Ste inovátor.</b> Všade vidíte príležitosti a ovplyvňujete životy všetkých okolo vás.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Preskočte z notebooku na telefón a späť
-mr2022-onboarding-mobile-download-subtitle = Vezmite karty z jedného zariadenia a pokračujte na inom tam, kde ste prestali. A nezabudnite si synchronizovať svoje záložky a heslá kdekoľvek, kde používate prehliadač { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Naskenujte QR kód a získajte { -brand-product-name } pre mobilné zariadenie alebo si <a data-l10n-name="download-label">pošlite odkaz na stiahnutie</a>.
 mr2022-onboarding-no-mobile-download-cta-text = Naskenujte QR kód a získajte { -brand-product-name } pre mobilné zariadenie.
 
@@ -335,15 +277,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Ruky svetlej a tmavej pleti si dávajú high five
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Pohľad na západ slnka cez okno s líškou a izbovou rastlinou na parapete
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Ručný sprej maľuje farebnú koláž zeleného oka, oranžovej topánky, červenej basketbalovej lopty, fialových slúchadiel, modrého srdca a žltej koruny
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Líška na obrazovke prenosného počítača máva. V notebooku je zapojená myš.
 onboarding-device-migration-title = Vitajte späť
-onboarding-device-migration-subtitle = Prihláste sa do svojho { -fxaccount-brand-name(capitalization: "sentence", case: "gen") } a vezmite si svoje záložky, heslá a históriu so sebou na nové zariadenie.
 onboarding-device-migration-subtitle2 = Prihláste sa do svojho účtu a preneste si svoje záložky, heslá a históriu na vaše nové zariadenie.
 onboarding-device-migration-primary-button-label = Prihlásiť sa
 
@@ -460,15 +399,12 @@ tab-groups-onboarding-feature-callout-title = Vyskúšajte skupiny kariet a zís
 tab-groups-onboarding-feature-callout-subtitle = Urobte si poriadok presunutím jednej karty na druhú, čím vytvoríte svoju prvú skupinu.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Skupiny kariet môžete kedykoľvek nájsť v ponuke Zoznam všetkých kariet.
-tab-groups-onboarding-create-group-title-2 = Tu nájdete svoje skupiny kariet.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Svoje skupiny nájdete tak, že ich vyhľadáte v paneli s adresou.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Keď zatvoríte skupinu kariet, môžete ju kedykoľvek znova otvoriť z ponuky Zoznam všetkých kariet.
-tab-groups-onboarding-saved-groups-title-2 = Keď zatvoríte skupinu kariet, môžete ju tu kedykoľvek znova otvoriť.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Svoje zatvorené skupiny nájdete tak, že ich vyhľadáte v paneli s adresou.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Skupiny kariet môžete kedykoľvek znova otvoriť z ponuky Zoznam všetkých kariet.
-tab-groups-onboarding-session-restore-title = Tu môžete kedykoľvek znova otvoriť svoje skupiny kariet.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

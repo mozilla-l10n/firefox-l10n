@@ -52,7 +52,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     Деректерді жазу және табудың түрлі жолдары туралы түсіндірмені
     <strong>Деректер туралы</strong> бетінен қараңыз.
-about-glean-about-testing-header = Тестілеу туралы
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     Толық нұсқаулар
@@ -61,8 +60,6 @@ about-glean-manual-testing =
     бірақ, қысқаша айтқанда, құралдардың жұмыс істейтінін қолмен тексеру үшін сізге:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ешқандай пинг жібермеу)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Алдыңғы өрісте пингтерді кейінірек тануға болатын есте қаларлық жөндеу тегі бар екеніне көз жеткізіңіз.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Пингтерді кейін тану үшін есте қалатын жөндеу тегін <span>(20 таңба немесе одан аз, әріптік-сандық және тек - таңбасы)</span> орнатыңыз.
 # An in-line drop down list precedes this string.
@@ -89,13 +86,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Тегіңіз орнатылған пингтер үшін { glean-debug-ping-viewer-brand-name } бетіне кіріңіз</a>.
     Батырманы басқаннан бастап пингтің келуіне дейінгі уақыт бірнеше секундтан аспауы керек.
     Кейде бұл бірнеше минутқа созылуы мүмкін.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    Қосымша <i>ad hoc</i> тестілеу үшін, сондай-ақ,
-    осы жерде <code>about:glean</code> ішінде devtools консолін ашу
-    және <code>Glean.metricCategory.metricName.testGetValue()</code> сияқты
-    <code>testGetValue()</code> API пайдалану арқылы
-    белгілі бір құрал бөлігінің ағымдағы мәнін анықтауға болады.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     Қосымша <i>ad hoc</i> тестілеу үшін, сондай-ақ, осы жерде
@@ -195,9 +185,6 @@ about-glean-no-data-to-display = Көрсетілетін деректер жо�
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>about:glean</code> көрінісінде <code>DualLabeledCounter</code> метрикаларына әлі қолдау көрсетілмейді.
 about-glean-unknown-metric-type-warning = Белгісіз метрика түрі.
-about-glean-about-data-explanation =
-    Жиналған деректер тізімін шолу үшін,
-    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Сөздігін</a> шолыңыз.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

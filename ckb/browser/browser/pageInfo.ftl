@@ -138,7 +138,6 @@ no-page-title =
     .value = لاپەڕەی بێ ناو:
 permissions-use-default =
     .label = بنەڕەت بەکاربەرە
-security-no-visits = نەخێر
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -190,11 +189,6 @@ media-file-size = { $size } ک.ب
 ## Variables:
 ##   $website (string) — The url of the website pageInfo is getting info for
 
-# This string is used to display the website name next to the
-# "Block Images" checkbox in the media tab
-media-block-image =
-    .label = وێنە بلۆک بکە لە { $website }
-    .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 page-info-page =

@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Rach duilleag air ais ({ $shortcut })
     .aria-label = Air ais
+    .tooltiptext = Rach duilleag air ais ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Rach duilleag air adhart ({ $shortcut })
     .aria-label = Air adhart
+    .tooltiptext = Rach duilleag air adhart ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Dèan comharra-lìn dhen duilleag…
-    .accesskey = m
     .tooltiptext = Dèan comharra-lìn dhen duilleag
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Dèan comharra-lìn dhen duilleag…
-    .accesskey = m
     .tooltiptext = Dèan comharra-lìn dhen duilleag ({ $shortcut })
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = Deasaich an comharra-lìn…
-    .accesskey = m
     .tooltiptext = Deasaich an comharra-lìn
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Deasaich an comharra-lìn…
-    .accesskey = m
     .tooltiptext = Deasaich an comharra-lìn ({ $shortcut })
+    .accesskey = m
 main-context-menu-open-link =
     .label = Fosgail ceangal
     .accesskey = o
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Sàbhail an ceangal mar…
     .accesskey = S
-main-context-menu-save-link-to-pocket =
-    .label = Sàbhail an ceangal ann am { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -296,40 +287,22 @@ main-context-menu-audio-email =
 main-context-menu-send-to-device-2 =
     .label = Cuir gu uidheam
     .accesskey = m
-main-context-menu-save-to-pocket =
-    .label = Sàbhail an duilleag ann am { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Cuir an taba gun uidheam
-    .accesskey = d
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Cleachd clàradh a-steach a chaidh a shàbhaladh
-    .accesskey = C
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Cleachd facal-faire air a shàbhaladh
     .accesskey = C
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Cleachd masg puist-d { -relay-brand-short-name }
     .accesskey = e
 main-context-menu-suggest-strong-password =
     .label = Mol facal-faire làidir…
     .accesskey = M
-main-context-menu-manage-logins2 =
-    .label = Stiùirich na clàraidhean a-steach
-    .accesskey = S
 main-context-menu-manage-passwords =
     .label = Stiùirich na faclan-faire
     .accesskey = S
-main-context-menu-keyword =
-    .label = Cuir facal-luirg ris an lorg seo…
-    .accesskey = C
 main-context-menu-add-engine =
     .label = Cuir einnsean-luirg ris
     .accesskey = C
@@ -373,9 +346,6 @@ main-context-menu-view-selection-source =
     .label = Seall bun-tùs na thagh thu
     .accesskey = e
 main-context-menu-take-screenshot =
-    .label = Tog glacadh-sgrìn
-    .accesskey = T
-main-context-menu-take-frame-screenshot =
     .label = Tog glacadh-sgrìn
     .accesskey = T
 main-context-menu-view-page-source =

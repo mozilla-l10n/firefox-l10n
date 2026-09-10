@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Anfonwyd yr adroddiad. Diolch!
-confirmation-hint-login-removed = Mewngofnodi wedi'i dynnu!
 confirmation-hint-password-removed = Cyfrinair wedi'i dynnu!
 confirmation-hint-page-bookmarked = Wedi'i gadw i nodau tudalen
-confirmation-hint-password-saved = Cyfrinair wedi'i gadw!
 confirmation-hint-password-created = Cyfrinair wedi'i gadw
 confirmation-hint-password-updated = Diweddarwyd y cyfrinair
 confirmation-hint-address-created = Cyfeiriad wedi'i gadw

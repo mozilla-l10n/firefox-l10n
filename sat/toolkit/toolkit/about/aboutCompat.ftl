@@ -8,11 +8,8 @@ label-interventions = ᱫᱚᱠᱷᱚᱞ
 # Variables:
 #   $bug (string) - Bug number
 label-more-information = ᱰᱷᱮᱨ ᱵᱟᱲᱟᱭ ᱢᱮ ᱺ ᱵᱚᱜᱽ { $bug }
-label-overrides = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱮᱡᱮᱱᱴ ᱚᱣᱟᱹᱨ ᱨᱟᱭᱤᱰ ᱠᱮᱜᱼᱟᱭ
 text-disabled-in-about-config = ᱱᱚᱶᱟ ᱯᱷᱤᱪᱚᱨ ᱫᱚ about:config ᱨᱮ ᱵᱚᱸᱫ ᱠᱟᱫᱟ ᱠᱚ
 text-no-interventions = ᱪᱮᱫ ᱫᱚᱠᱷᱚᱞ ᱫᱚ ᱵᱟᱝ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱱᱟ
-text-no-overrides = ᱪᱮᱫ UA ᱚᱣᱟᱹᱨᱟᱭᱤᱰ ᱫᱚ ᱵᱟᱝ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱱᱟ
-text-title = about:compat
 
 ## Do not translate "SmartBlock". For reference, SmartBlock is a feature
 ## of Firefox anti-tracking which fixes website breakage caused when

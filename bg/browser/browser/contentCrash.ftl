@@ -18,13 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Имате неизпратен доклад за срив
-       *[other] Имате { $reportCount } неизпратени доклада за срив
-    }
 pending-crash-reports-view-all =
     .label = Преглед
 pending-crash-reports-send =
@@ -37,13 +30,6 @@ requested-crash-reports-message-new =
     { $reportCount ->
         [one] Имате { $reportCount } неизпратен доклад за срив, свързан с разследван такъв. Изпращането му ще ни помогне да подобрим { -brand-product-name }. Затварянето на това известие ще пренебрегне този доклад.
        *[other] Имате { $reportCount } неизпратени доклада за сривове, свързани с разследвани сривове. Изпращането им ще ни помогне да подобрим { -brand-product-name }. Затварянето на това известие ще пренебрегне тези доклади.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Имате { $reportCount } неизпратен доклада за срив, който съвпада с разследвани вече такива. Изпращайки го, ще ни помогнете да подобрим { -brand-product-name }. Затварянето на това известие ще пренебрегне този доклад.
-       *[other] Имате { $reportCount } неизпратено доклада за срив, които съвпадат с разследвани вече такива. Изпращайки ги, ще ни помогнете да подобрим { -brand-product-name }. Затварянето на това известие ще пренебрегне тези доклади.
     }
 requested-crash-reports-dont-show-again =
     .label = Не показвай отново

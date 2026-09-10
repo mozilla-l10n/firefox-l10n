@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Neniu ingo
-    .accesskey = N
 user-context-manage-containers =
     .label = Administri ingojn
     .accesskey = i

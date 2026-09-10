@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = تنظیمات اتصال
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = تنظیمات اتصال
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -58,14 +58,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = بارگیری مجدد
     .accesskey = ب
-connection-proxy-autologin =
-    .label = اگر گذرواژه ذخیره شده است، جهت تصدیق‌هویت پیام نده
-    .accesskey = ت
-    .tooltip = این گزینه در پس‌زمینه شما را در پیشکارها، زمانی که گذرواژه‌ی آنها را ذخیره کرده باشید، تصدیق‌هویت می‌کند. شما در صورتی که تصدیق‌هویت شکست بخورد مطلع خواهید شد.
 connection-proxy-autologin-checkbox =
     .label = اگر گذرواژه ذخیره شده است، جهت تصدیق‌هویت پیام نده
-    .accesskey = ت
     .tooltiptext = این گزینه در پس‌زمینه شما را در پیشکارها، زمانی که گذرواژه‌ی آنها را ذخیره کرده باشید، تصدیق‌هویت می‌کند. شما در صورتی که تصدیق‌هویت شکست بخورد مطلع خواهید شد.
+    .accesskey = ت
 connection-proxy-socks-remote-dns =
     .label = استفاده از پیشکار DNS هنگام استفاده از SOCKS v5
     .accesskey = d
@@ -76,6 +72,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = استفاده از آدرس پیش‌فرض برای ترجمهٔ DNS بر روی HTTPS
 connection-dns-over-https-url-custom =
     .label = سفارشی
-    .accesskey = C
     .tooltiptext = URL دلخواه خود را برای مدیریت DNS از طریق HTTPS وارد کنید
-connection-dns-over-https-custom-label = سفارشی
+    .accesskey = C

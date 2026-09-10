@@ -248,8 +248,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Profile
 menu-profiles-manage-profiles =
     .label = Administroni profile
 menu-profiles-new-profile =
@@ -273,9 +271,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Zgjerime dhe Tema
     .accesskey = Z
-menu-tools-addons-and-themes =
-    .label = Shtesa dhe Tema
-    .accesskey = S
 menu-tools-fxa-sign-in2 =
     .label = Hyni
     .accesskey = H
@@ -329,8 +324,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Më Tepër Hollësi Diagnostikimi
     .accesskey = M
-menu-help-report-site-issue =
-    .label = Njoftoni Problem Sajti…
 menu-help-share-ideas =
     .label = Ndani me të tjerët Ide dhe Përshtypje…
     .accesskey = N

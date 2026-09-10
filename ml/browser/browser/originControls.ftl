@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = വിപുലീകരണത്തിനു് ഡാറ്റ വായിക്കാന്നോ മാറ്റാന്നോ കഴിയില്ല
-origin-controls-quarantined =
-    .label = വിപുലീകരണത്തിനു് ഡാറ്റ വായിക്കാന്നോ മാറ്റാന്നോ കഴിയില്ല
 origin-controls-options =
     .label = വിപുലീകരണത്തിനു് ഡാറ്റ വായിക്കാനും മാറ്റാനും പറ്റും
 origin-controls-option-all-domains =

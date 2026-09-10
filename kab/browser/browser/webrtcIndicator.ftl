@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Bḍu anamal
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Bḍu anamal
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Aql-ak·akem tebḍiḍ asawaḍ-inekk·inem. Sit i wakken ad tesneqdeḍ beṭṭu
 webrtc-screen-system-menu =
     .label = Aql-ak·akem tebḍiḍ asfaylu neɣ agdil. Sit i wakken ad tesneqdeḍ beṭṭu
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Takamiṛat d usawaḍ-inek ttwabḍan. Sit i usenqed n beṭṭu.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Takamirat-inek tettwabḍa. Sit i usenqed n beṭṭu.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Asawaḍ-inek ittwabḍa. Sit i usenqed n beṭṭu.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Asnas ittwabḍa. Sit i usenqed n beṭṭu.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Agdil-inek ittwabḍa. Sit i usenqed n beṭṭu.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Asfaylu ittwabḍa. Sit i usenqed n beṭṭu.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Iccer ittwabḍa. Sit i usenqed n beṭṭu.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -182,7 +163,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Sireg { $origin 
 
 webrtc-share-screen-warning = Bḍu kan igdilen akked yismal iɣef tettekleḍ. Beṭṭu yezmer ad isireg ismal n ukellex akken ad inigen am kečč, ad rnun ad akren isefka-inek·inem usligen.
 webrtc-share-browser-warning = Bḍu kan { -brand-short-name } akked yismal iɣef tettekleḍ. Beṭṭu yezmer ad isireg ismal n ukellex akken ad inigen am kečč·kemm, ad rnun ad akren isefka-inek·inem usligen.
-webrtc-share-screen-learn-more = Issin ugar
 webrtc-pick-window-or-screen = Fren asfaylu neɣ agdil
 webrtc-share-entire-screen = Akk agdil
 webrtc-share-pipe-wire-portal = Seqdec iɣewwaren n unagraw n wammud

@@ -30,11 +30,11 @@ third-party-tag-background = ფონური
         ეს მოდული არ აკავებს პროგრამას, ვინაიდან იტვირთება
         ფონურად.
 third-party-icon-unsigned =
-    .title = ეს მოდული ხელმოუწერელია
     .alt = ეს მოდული ხელმოუწერელია
+    .title = ეს მოდული ხელმოუწერელია
 third-party-icon-warning =
-    .title = { -brand-short-name } უეცრად გაითიშა ამ მოდულის კოდის შედეგად
     .alt = { -brand-short-name } უეცრად გაითიშა ამ მოდულის კოდის შედეგად
+    .title = { -brand-short-name } უეცრად გაითიშა ამ მოდულის კოდის შედეგად
 third-party-status-loaded = ჩატვირთული
 third-party-status-blocked = შეზღუდული
 third-party-status-redirected = გადამისამართებული
@@ -46,30 +46,17 @@ third-party-button-reload = გადატვირთვა სისტემ
     .title = გადატვირთვა სისტემის ინფორმაციით
 third-party-button-open =
     .title = მდებარეობის გახსნა...
-third-party-button-to-block =
-    .title = მოდულის შეზღუდვა
-    .aria-label = მოდულის შეზღუდვა
-third-party-button-to-unblock =
-    .title = ამჟამად შეზღუდულია. დაწკაპეთ შეზღუდვის მოსახსნელად.
-    .aria-label = ამჟამად შეზღუდულია. დაწკაპეთ შეზღუდვის მოსახსნელად.
-third-party-button-to-unblock-disabled =
-    .title =
-        ამჟამად მონიშნულია შეზღუდულად, თუმცა შეზღუდულთა სია უქმია და არ იყენებს
-        გაშვებული { -brand-short-name }. დაწკაპეთ შეზღუდვის მოსახსნელად.
-    .aria-label =
-        ამჟამად მონიშნულია შეზღუდულად, თუმცა შეზღუდულთა სია უქმია და არ იყენებს
-        გაშვებული { -brand-short-name }. დაწკაპეთ შეზღუდვის მოსახსნელად.
 third-party-button-to-block-module = მოდულის შეზღუდვა
-    .title = მოდულის შეზღუდვა
     .aria-label = მოდულის შეზღუდვა
+    .title = მოდულის შეზღუდვა
 third-party-button-to-unblock-module = მოდულის შეზღუდვის მოხსნა
-    .title = ამჟამად შეზღუდულია. დაწკაპეთ მოსახსნელად.
     .aria-label = ამჟამად შეზღუდულია. დაწკაპეთ მოსახსნელად.
+    .title = ამჟამად შეზღუდულია. დაწკაპეთ მოსახსნელად.
 third-party-button-to-unblock-module-disabled = ამ მოდულის შეზღუდვის მოხსნა (შეზღუდულთა სია ამჟამად გამორთულია)
-    .title =
+    .aria-label =
         ამჟამად მონიშნულია შეზღუდულად, თუმცა შეზღუდვის გათიშულ სიას იყენებს ეს
         { -brand-short-name }. დაწკაპეთ შეზღუდვის მოსახსნელად.
-    .aria-label =
+    .title =
         ამჟამად მონიშნულია შეზღუდულად, თუმცა შეზღუდვის გათიშულ სიას იყენებს ეს
         { -brand-short-name }. დაწკაპეთ შეზღუდვის მოსახსნელად.
 third-party-button-expand =
@@ -81,5 +68,5 @@ third-party-should-restart-title = გაუშვით ხელახლა {
 third-party-restart-now = ხელახლა გაშვება
 third-party-restart-later = მოგვიანებით გაშვება
 third-party-blocked-by-builtin =
-    .title = ზღუდავს { -brand-short-name }
     .alt = ზღუდავს { -brand-short-name }
+    .title = ზღუდავს { -brand-short-name }

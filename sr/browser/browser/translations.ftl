@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Преведи ову страницу
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Превод је у току
 translations-panel-settings-button =
     .aria-label = Управљај подешавањима превода
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Управљај језицима
-translations-panel-settings-about = О преводима у { -brand-shorter-name }-у
 translations-panel-settings-about2 =
     .label = О преводима у { -brand-shorter-name }-у
 # Text displayed for the option to always translate a given language
@@ -91,14 +82,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = Нажалост, још увек не подржавамо преводе са { $language }.
 translations-panel-error-unsupported-hint-unknown-2 = Нажалост, још увек не подржавамо преводе са овог језика.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Жао нам је, { $language } још увек није подржан.
-translations-panel-error-unsupported-hint-unknown = Жао нам је, овај језик још увек није подржан.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -130,10 +113,6 @@ translations-manage-header = Преводи
 translations-manage-settings-button =
     .label = Подешавања…
     .accesskey = д
-translations-manage-description = Преузмите језике за офлајн превод.
-translations-manage-all-language = Сви језици
-translations-manage-download-button = Преузми
-translations-manage-delete-button = Обриши
 translations-manage-intro-2 = Поставите своје жеље за превод језика и веб сајтова и управљајте језицима преузетим за превођење ван мреже.
 translations-manage-download-description = Преузмите језике за превођење ван мреже
 translations-manage-language-download-button =
@@ -147,12 +126,11 @@ translations-manage-language-remove-all-button =
     .label = Уклони све
     .accesskey = У
 translations-manage-error-download = Дошло је до проблема при преузимању језичких датотека. Покушајте поново.
-translations-manage-error-delete = Дошло је до грешке при брисању језичких датотека. Покушајте поново.
 translations-manage-error-remove = Дошло је до грешке приликом уклањања датотека језика. Покушајте поново.
 translations-manage-error-list = Није могуће добити листу доступних језика за превод. Освежите страницу да покушате поново.
 translations-settings-title =
-    .title = Подешавања превода
     .style = min-width: 36em
+    .title = Подешавања превода
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Превод ће се десити аутоматски за следеће језике
@@ -246,16 +224,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = Нажалост, још увек не подржавамо преводе са { $language }.
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = Нажалост, још увек не подржавамо преводе са овог језика.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Жао нам је, { $language } још увек није подржан.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Жао нам је, овај језик још увек није подржан.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Подешавања превода

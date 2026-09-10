@@ -18,11 +18,6 @@ serviceworker-list-header = Service Worker
 serviceworker-list-aboutdebugging = <a>about:debugging</a>을 열어서 다른 도메인의 Service Worker 보기
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = 등록 취소
-# Text for the debug link displayed for an already started Service Worker. Clicking on the
-# link opens a new devtools toolbox for this service worker. The title attribute is only
-# displayed when the link is disabled.
-serviceworker-worker-debug = 디버그
-    .title = 실행되고 있는 Service Worker만 디버그할 수 있음
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
     .alt = 검사
@@ -33,7 +28,7 @@ serviceworker-worker-start3 = 시작
 # display the last update time of the service worker script.
 # Variables:
 #   $date (date) - Update date
-serviceworker-worker-updated = <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>에 업데이트됨
+serviceworker-worker-updated = <time>{ DATETIME($date, day: "numeric", hour: "numeric", minute: "numeric", month: "long", second: "numeric", year: "numeric") }</time>에 업데이트됨
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.

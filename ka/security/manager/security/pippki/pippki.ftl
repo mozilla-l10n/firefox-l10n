@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = თქვენ FIPS-რეჟიმში
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = მთავარი პაროლის განულება
     .style = min-width: 40em
+    .title = მთავარი პაროლის განულება
 reset-password-button-label =
     .label = განულება
 reset-primary-password-text = მთავარი პაროლის განულებით, დაიკარგება თქვენ მიერ შენახული ყველა ანგარიშისა და ელფოსტის პაროლი, შევსებული ველების მონაცემები, პირადი სერტიფიკატები. ნამდვილად გსურთ გაანულოთ მთავარი პაროლი?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = თქვენი მთავა�
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = სერტიფიკატის გადმოწერა
     .style = min-width: 46em
+    .title = სერტიფიკატის გადმოწერა
 download-cert-message = თქვენგან მოითხოვეს სერტიფიკატების ახალი გამცემისთვის (CA) ნდობის გამოცხადება.
 download-cert-trust-ssl =
     .label = ამ გამომცემის ნდობა ვებსაიტების დამოწმებისთვის.
@@ -52,8 +52,6 @@ download-cert-view-text = სააგენტოს სერტიფიკ�
 
 client-auth-window =
     .title = მომხმარებლის ამოცნობის მოთხოვნა
-client-auth-site-description = საიტი თქვენი ვინაობის დასადგენად, სერტიფიკატის წარდგენას ითხოვს:
-client-auth-choose-cert = წარსადგენი სერტიფიკატის არჩევა:
 client-auth-send-no-certificate =
     .label = არ გაიგზავნოს სერტიფიკატი
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = გთხოვთ, დაამოწმოთ უსაფრთხოების მოწყობილობაზე ({ $tokenName }). თუ როგორ, ეს დამოკიდებულია თავად მოწყობილობაზე (მაგალითად, თითის ანაბეჭდის წამკითხველით ან კოდის ამკრეფით).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = გთხოვთ, დაადასტუროთ საშვი „{ $tokenName }“. თუ როგორ, ეს დამოკიდებულია თავად საშვზე (მაგალითად, თითის ანაბეჭდის წამკითხველით ან კოდის ამკრეფით).

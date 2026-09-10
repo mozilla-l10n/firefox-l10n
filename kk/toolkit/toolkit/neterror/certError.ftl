@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Сертификатты растау мүм
 cert-error-trust-signature-algorithm-disabled = Бұл сертификат сенімсіз, өйткені оған қауіпсіз емес болғаны үшін сөндірілген алгоритмімен қолтаңба қойылған.
 cert-error-trust-expired-issuer = Сертификатты растау мүмкін емес, өйткені шығарушы сертификатының мерзімі аяқталған.
 cert-error-trust-self-signed = Сертификатқа сенім жоқ, өйткені оның қолтаңбасы өздігінен қойылған.
-cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte және VeriSign шығарған сертификаттар бұдан былай қауіпсіз деп саналмайды, себебі бұл сертификаттау орталықтары қауіпсіздік тәжірибелерін бұрын орындамады.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } { $hostname } серверіне сенбейді, себебі ол публикалық сертификаттың мөлдірлілік талаптарына сәйкес келетінін дәлелдей алмады.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Қате коды: <a data-l10n-name="error-code-l
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = { $hostname } адресіне байланысты орнату кезінде қате кетті. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Веб-сайттар өздерінің шынайлығын сертификаттау орталықтары шығарған сертификаттар арқылы дәлелдейді. Браузерлердің көбі GeoTrust, RapidSSL, Symantec, Thawte және VeriSign шығарған сертификаттарға енді сенбейді. { $hostname } осы орталықтарының бірімен шығарылған сертификатты пайдаланады, сондықтан веб-сайт шынайылығын дәлелдеу мүмкін емес.
-cert-error-symantec-distrust-admin = Веб-сайт әкімшісіне бұл мәселе туралы хабарлай аласыз.
 cert-error-old-tls-version = Бұл веб-сайт TLS 1.2 хаттамасына қолдау көрсетпеуі мүмкін, бұл { -brand-short-name } қолдайтын ең төменгі нұсқа.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Сертификаттар тізбегі:
-open-in-new-window-for-csp-or-xfo-error = Сайтты жаңа терезеде ашу
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Қауіпсіздігіңізді қорғау үшін, { $hostname } { -brand-short-name } үшін бетті көрсетуге рұқсат етпейді, егер оны басқа сайт ендірілген болса. Бұл бетті қарау үшін, оны жаңа терезеде ашыңыз.
 fp-certerror-view-certificate-link = Сайт сертификатын қарау
 fp-certerror-return-to-previous-page-recommended-button-2 = Артқа оралу (ұсынылады)
     .accesskey = т
-fp-certerror-return-to-previous-page-recommended-button = Артқа оралу (ұсынылады)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -106,21 +99,21 @@ fp-certerror-self-signed-important-note = МАҢЫЗДЫ ЕСКЕРТПЕ: Ег�
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = Сайттар өздерінің кім екенін растау үшін сертификаттау орталығы берген сертификаттарды пайдаланады. { -brand-short-name } бұл сайтқа сенбейді, себебі сертификаттың мерзімі { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } күні біткен сияқты.
+fp-certerror-expired-why-dangerous-body = Сайттар өздерінің кім екенін растау үшін сертификаттау орталығы берген сертификаттарды пайдаланады. { -brand-short-name } бұл сайтқа сенбейді, себебі сертификаттың мерзімі { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } күні біткен сияқты.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = Сайттар өздерінің кім екенін растау үшін сертификаттау орталығы берген сертификаттарды пайдаланады. { -brand-short-name } бұл сайтқа сенбейді, себебі сертификаттың мерзімі { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } күніне дейін жарамды емес сияқты.
+fp-certerror-not-yet-valid-why-dangerous-body = Сайттар өздерінің кім екенін растау үшін сертификаттау орталығы берген сертификаттарды пайдаланады. { -brand-short-name } бұл сайтқа сенбейді, себебі сертификаттың мерзімі { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } күніне дейін жарамды емес сияқты.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = Сіздің құрылғыңыздың сағаты { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } шамасына орнатылған. Бұл дұрыс болса, қауіпсіздік мәселесі сайттың өзінде болуы мүмкін. Бұл дұрыс емес болса, оны құрылғының жүйелік баптауларынан өзгертуге болады.
+fp-certerror-expired-what-can-you-do-body = Сіздің құрылғыңыздың сағаты { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } шамасына орнатылған. Бұл дұрыс болса, қауіпсіздік мәселесі сайттың өзінде болуы мүмкін. Бұл дұрыс емес болса, оны құрылғының жүйелік баптауларынан өзгертуге болады.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Қате коды: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -133,11 +126,11 @@ fp-learn-more-about-time-related-errors = Уақытқа байланысты қ
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } бұл сайтқа сенбейді, себебі берілген сертификат { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } күні сағат { DATETIME($date, timeStyle: "short") } уақытына дейін жарамсыз сияқты.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } бұл сайтқа сенбейді, себебі берілген сертификат { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } күні сағат { DATETIME($date, timeStyle: "short") } уақытына дейін жарамсыз сияқты.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Сіздің құрылғыңыздың сағаты { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } шамасына орнатылған. Бұл дұрыс болса, қауіпсіздік мәселесі сайттың өзінде болуы мүмкін. Бұл дұрыс емес болса, оны құрылғының жүйелік баптауларынан өзгертуге болады.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Сіздің құрылғыңыздың сағаты { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } шамасына орнатылған. Бұл дұрыс болса, қауіпсіздік мәселесі сайттың өзінде болуы мүмкін. Бұл дұрыс емес болса, оны құрылғының жүйелік баптауларынан өзгертуге болады.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -179,8 +172,6 @@ deniedPortAccess-title = Бұл портқа тыйым салынған
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Кешіріңіз, бұл сайтты таба алмадық.
 internet-connection-offline-title = Интернет байланысыңызда мәселе бар сияқты.
-dns-not-found-trr-only-title2 = Бұл доменді іздеуде қауіпсіздік тәуекелі болуы мүмкін
-dns-not-found-native-fallback-title2 = Бұл доменді іздеуде қауіпсіздік тәуекелі болуы мүмкін
 fileNotFound-title = Файл табылмады
 fileAccessDenied-title = Файлға қатынау құқығы жоқ
 generic-title = Қате.
@@ -205,7 +196,6 @@ unknownSocketType-title = Сервердің жауабы күтпеген тү�
 nssFailure2-title = Қорғалған байланысты орнату сәтсіз аяқталды
 csp-xfo-error-title = { -brand-short-name } бұл парақты аша алмайды
 corruptedContentErrorv2-title = Мазмұнның зақымдану қатесі
-corruptedContentError-title = Зақымдалған құрама қатесі
 sslv3Used-title = Қауіпсіз түрде байланысу мүмкін емес
 inadequateSecurityError-title = Сіздің байланысыңыз қауіпсіз емес
 blockedByPolicy-title = Бұғатталған бет
@@ -228,7 +218,6 @@ fp-certerror-hide-advanced-button = Кеңейтілгенді жасыру
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = { $hostname } адресіне өту (Тәуекелі бар)
 fp-certerror-intro = { -brand-short-name } <strong>{ $hostname }</strong> адресіндегі мүмкін болған маңызды қауіпсіздік мәселесін анықтады. Біреулер сайттың жалған көшірмесін жасап несие карта, парольдер немесе электрондық пошта ақпаратын ұрлауға әрекет етуі мүмкін.
 fp-certerror-expired-into = { -brand-short-name } <strong>{ $hostname }</strong> адресіндегі қауіпсіздік мәселесін анықтады. Сайт дұрыс бапталмаған немесе құрылғының сағаты дұрыс емес күнге/уақытқа орнатылған болуы мүмкін.
 fp-certerror-transparency-intro = Біреу өзін <strong>{ $hostname }</strong> ретінде көрсетіп, несие картасының деректері, парольдер немесе электрондық пошта сияқты ақпаратты ұрлауға әрекет жасауы мүмкін.

@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Sniko iin página ({ $shortcut })
     .aria-label = Ichi yata
+    .tooltiptext = Sniko iin página ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Kaka iin página ({ $shortcut })
     .aria-label = Inka
+    .tooltiptext = Kaka iin página ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Save Page
 
 main-context-menu-page-save =
@@ -88,8 +82,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Tee página a marcadores…
-    .accesskey = m
     .tooltiptext = Tee página a marcadores
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -114,9 +108,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = Chuva´a vínculo kua...
     .accesskey = G
-main-context-menu-save-link-to-pocket =
-    .label = Chuva´a enlace nuu { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -242,28 +233,13 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Chu´un íchi nasun nuu correo
     .accesskey = a
-main-context-menu-save-to-pocket =
-    .label = Chuva´a página nuu { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Chu´un ichi página nuu ka̱a̱-nu
-    .accesskey = d
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Ni'i nuu kajie´e sesión nchuva´a
-    .accesskey = g
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Ni´i contraseña nchuva'a
     .accesskey = g
-
-##
-
-main-context-menu-keyword =
-    .label = Tee iin tu´un clave nuu nánuku ya´a...
-    .accesskey = p
 main-context-menu-link-send-to-device =
     .label = Chu´un íchi enlace nuu ka̱a̱-nu
     .accesskey = d
@@ -303,9 +279,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Tɨɨn captura pantalla
     .accesskey = c
-main-context-menu-take-frame-screenshot =
-    .label = Tɨɨn captura pantalla
-    .accesskey = H
 main-context-menu-view-page-source =
     .label = Kune´ya tu´un nee yata página ya´a
     .accesskey = V

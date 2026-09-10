@@ -26,23 +26,6 @@ webrtc-sharing-menu =
     .label = Oortjies wat toestelle deel
     .accesskey = d
 
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Die kamera en mikrofoon word gedeel. Klik vir keuses oor deling.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Die kamera word gedeel. Klik vir keuses oor deling.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Die mikrofoon word gedeel. Klik vir keuses oor deling.
-webrtc-indicator-sharing-application =
-    .tooltiptext = 'n Toepassing word gedeel. Klik vir keuses oor deling.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Die skerm word gedeel. Klik vir keuses oor deling.
-webrtc-indicator-sharing-window =
-    .tooltiptext = 'n Venster word gedeel. Klik vir keuses oor deling.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = 'n Oortjie word gedeel. Klik vir keuses oor deling.
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
@@ -106,7 +89,6 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
-webrtc-share-screen-learn-more = Meer inligting
 webrtc-share-entire-screen = Die hele skerm
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).

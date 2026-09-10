@@ -106,4 +106,3 @@ certificate-viewer-tab-mine = האישורים שלך
 certificate-viewer-tab-people = אנשים
 certificate-viewer-tab-servers = שרתים
 certificate-viewer-tab-ca = רשויות
-certificate-viewer-tab-unkonwn = לא ידוע

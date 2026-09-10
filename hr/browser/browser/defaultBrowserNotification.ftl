@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = Neka { -brand-short-name } bude nadohvat tv
 default-browser-prompt-message-pin-msix = Drži { -brand-short-name } nadohvat ruke – postavi ga kao standardni preglednik i dodaj ga u programsku traku i početni izbornik.
 default-browser-prompt-message-pin-mac = Drži { -brand-short-name } nadohvat ruke – postavi ga kao standardni preglednik i dodaj ga u svoj Dock.
 default-browser-prompt-button-primary-set = Postavi kao primarni preglednik
-default-browser-prompt-button-primary-pin = Postavi kao primarni preglednik
 default-browser-prompt-title-alt = Postaviti { -brand-short-name } kao standardni preglednik?
 default-browser-prompt-message-alt = Dobij brzinu, sigurnost i privatnost pri svakom pregledavanju.
 default-browser-prompt-button-primary-alt = Postavi kao standardni preglednik

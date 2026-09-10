@@ -4,14 +4,6 @@
 
 about-reader-loading = Chargiar…
 about-reader-load-error = Impussibel da chargiar l'artitgel da la pagina
-about-reader-color-scheme-light = Cler
-    .title = Schema da colurs cleras
-about-reader-color-scheme-dark = Stgir
-    .title = Schema da colurs stgiras
-about-reader-color-scheme-sepia = Sepia
-    .title = Schema da colurs sepia
-about-reader-color-scheme-auto = Automatic
-    .title = Schema da colurs automatic
 about-reader-color-light-theme = Cler
     .title = Design cun colurs cleras
 about-reader-color-dark-theme = Stgir
@@ -24,16 +16,6 @@ about-reader-color-gray-theme = Grisch
     .title = Design cun colurs grischas
 about-reader-color-contrast-theme = Cuntrast
     .title = Design cun colurs cuntrastantas
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time =
-    { $rangePlural ->
-        [one] { $range } minuta
-       *[other] { $range } minutas
-    }
 
 ## Reader View text and layout menu
 
@@ -41,14 +23,6 @@ about-reader-toolbar-minus =
     .title = Diminuir la grondezza da la scrittira
 about-reader-toolbar-plus =
     .title = Engrondir la grondezza da la scrittira
-about-reader-toolbar-contentwidthminus =
-    .title = Diminuir la ladezza dal cuntegn
-about-reader-toolbar-contentwidthplus =
-    .title = Engrondir la ladezza dal cuntegn
-about-reader-toolbar-lineheightminus =
-    .title = Diminuir l'autezza da la lingia
-about-reader-toolbar-lineheightplus =
-    .title = Engrondir l'autezza da la lingia
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -59,7 +33,6 @@ about-reader-font-type-monospace = Largezza fixa
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Serrar la vista da lectura
-about-reader-toolbar-type-controls = Controllas da la scrittira
 about-reader-toolbar-text-layout-controls = Text e layout
 about-reader-toolbar-theme-controls = Design
 about-reader-toolbar-savetopocket = Memorisar en { -pocket-brand-name }

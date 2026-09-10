@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Asiɣzef ur yezmir ad d-iɣer neɣ ad ibeddel isefka
-origin-controls-quarantined =
-    .label = Asiɣzef ur yettusireg ara ad d-iɣer neɣ ad ibeddel isefka
 origin-controls-quarantined-status =
     .label = Asiɣzef-a ur yettusireg ara deg yismal s tallast
 origin-controls-quarantined-allow =

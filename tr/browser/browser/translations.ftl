@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Bu sayfayı çevir
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Çeviri devam ediyor
 translations-panel-settings-button =
     .aria-label = Çeviri ayarlarını yönet
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Dilleri yönet
-translations-panel-settings-about = { -brand-shorter-name } çevirileri hakkında
 translations-panel-settings-about2 =
     .label = { -brand-shorter-name } çevirileri hakkında
 # Text displayed for the option to always translate a given language
@@ -91,14 +82,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = Ne yazık ki henüz { $language } dilinden çeviri yapmayı desteklemiyoruz.
 translations-panel-error-unsupported-hint-unknown-2 = Ne yazık ki bu dilden çevirileri henüz desteklemiyoruz.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Maalesef henüz { $language } dilini desteklemiyoruz.
-translations-panel-error-unsupported-hint-unknown = Ne yazık ki henüz bu dili desteklemiyoruz.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -130,10 +113,6 @@ translations-manage-header = Çeviriler
 translations-manage-settings-button =
     .label = Ayarlar…
     .accesskey = A
-translations-manage-description = Çevrimdışı çeviri için dilleri indir.
-translations-manage-all-language = Tüm diller
-translations-manage-download-button = İndir
-translations-manage-delete-button = Sil
 translations-manage-intro-2 = Dil ve site çevirisi tercihlerinizi ayarlayın, çevrimdışı çeviri için indirilen dilleri yönetin.
 translations-manage-download-description = Çevrimdışı çeviri için dilleri indir
 translations-manage-language-download-button =
@@ -147,12 +126,11 @@ translations-manage-language-remove-all-button =
     .label = Tümünü kaldır
     .accesskey = k
 translations-manage-error-download = Dil dosyaları indirilirken bir sorun oluştu. Lütfen yeniden deneyin.
-translations-manage-error-delete = Dil dosyaları silinirken bir hata oluştu. Lütfen yeniden deneyin.
 translations-manage-error-remove = Dil dosyaları kaldırılırken bir hata oluştu. Lütfen yeniden deneyin.
 translations-manage-error-list = Çeviri için mevcut dillerin listesi alınamadı. Yeniden denemek için sayfayı tazeleyin.
 translations-settings-title =
-    .title = Çeviri Ayarları
     .style = min-width: 36em
+    .title = Çeviri Ayarları
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Aşağıdaki diller otomatik olarak çevrilecektir
@@ -246,16 +224,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = Ne yazık ki henüz { $language } dilinden çeviri yapmayı desteklemiyoruz.
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = Ne yazık ki bu dilden çevirileri henüz desteklemiyoruz.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Maalesef henüz { $language } dilini desteklemiyoruz.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Ne yazık ki henüz bu dili desteklemiyoruz.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Çeviri ayarları

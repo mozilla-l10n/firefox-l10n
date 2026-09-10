@@ -19,8 +19,8 @@ pippki-pw-change-ok = បានផ្លាស់ប្តូរពាក្យ�
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = កំណត់ពាក្យសម្ងាត់ចម្បងឡើងវិញ
     .style = min-width: 40em
+    .title = កំណត់ពាក្យសម្ងាត់ចម្បងឡើងវិញ
 reset-password-button-label =
     .label = កំណត់​ឡើង​វិញ
 reset-primary-password-text = ប្រសិនបើអ្នកកំណត់ពាក្យសម្ងាត់ចម្បងរបស់អ្នកឡើងវិញ ពាក្យសម្ងាត់គេហទំព័រ និងអ៊ីមែល វិញ្ញាបនបត្រផ្ទាល់ខ្លួន និងកូនសោឯកជនទាំងអស់ ដែលអ្នកបានរក្សាទុកនឹងត្រូវបានបំភ្លេចចោល។ តើអ្នកពិតជាចង់កំណត់ពាក្យសម្ងាត់ចម្បងរបស់អ្នកឡើងវិញមែនទេ?
@@ -30,8 +30,8 @@ pippki-reset-password-confirmation-message = ពាក្យសម្ងាត�
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = កំពុង​ទាញ​យក​វិញ្ញាបនបត្រ
     .style = min-width: 46em
+    .title = កំពុង​ទាញ​យក​វិញ្ញាបនបត្រ
 download-cert-message = អ្នក​ត្រូវ​បាន​ស្នើ​ឲ្យ​ជឿ​ទុកចិត្ត​លើ​​អាជ្ញាធរ​​វិញ្ញាបនបត្រ​ (CA) ថ្មី ។
 download-cert-trust-ssl =
     .label = ទុកចិត្ត​លើ CA នេះ​ដើម្បី​កំណត់​អត្តសញ្ញាណ​តំបន់បណ្ដាញ ។
@@ -46,8 +46,6 @@ download-cert-view-text = ត្រួត​ពិនិត្យ​វិញ្
 
 client-auth-window =
     .title = ស្នើ​សុំ​អត្ត​សញ្ញាណ​អ្នក​ប្រើ
-client-auth-site-description = តំបន់បណ្ដាញ​នេះ​បាន​ស្នើសុំ​ឲ្យ​អ្នក​បញ្ជាក់​ប្រាប់​អំពី​អត្តសញ្ញាណ​របស់​អ្នក​ជាមួយ​នឹង​វិញ្ញាបនបត្រ ៖
-client-auth-choose-cert = ជ្រើស​វិញ្ញាបនបត្រ​មួយ​ ដើម្បី​បង្ហាញ​ជា​អត្តសញ្ញាណ ៖
 client-auth-cert-details = សេចក្ដី​លម្អិត​នៃ​វិញ្ញាបនបត្រ​ដែល​បាន​ជ្រើស ៖
 
 ## Set password (p12) dialog

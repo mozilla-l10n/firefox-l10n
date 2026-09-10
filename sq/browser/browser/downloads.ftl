@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Shfaqe në Finder
            *[other] Shfaqe Në Dosje
         }
-downloads-cmd-show-downloads =
-    .label = Shfaq Dosjen e Shkarkimeve
 downloads-cmd-retry =
     .tooltiptext = Riprovo
 downloads-cmd-retry-panel =

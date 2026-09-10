@@ -177,8 +177,6 @@ options-disable-http-cache-tooltip =
     .title = Bật tùy chọn này sẽ vô hiệu hóa bộ đệm HTTP cho tất cả các thẻ có hộp công cụ mở. Service Worker không bị ảnh hưởng bởi tùy chọn này.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label-2 = Vô hiệu hóa JavaScript
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Tắt JavaScript *
 options-disable-javascript-tooltip =
     .title = Bật tùy chọn này sẽ vô hiệu hóa JavaScript cho thẻ hiện tại. Nếu thẻ hoặc hộp công cụ bị đóng thì sẽ tự động tắt tùy chọn này.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -208,8 +206,6 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = (chỉ phiên hiện tại, tải lại trang)
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Chỉ phiên hiện tại, tải lại trang
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (tải lại trang)

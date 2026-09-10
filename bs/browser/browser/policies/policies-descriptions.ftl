@@ -41,7 +41,6 @@ policy-DisableDefaultBrowserAgent = Spriječite zadanog agenta pretraživača da
 policy-DisableDeveloperTools = Blokirajte pristup alatima za programere.
 policy-DisableEncryptedClientHello = Onemogućite upotrebu TLS funkcije Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Onemogućite komande za slanje povratnih informacija iz menija Pomoć (Pošalji povratne informacije i Prijavi obmanjujuću lokaciju).
-policy-DisableFirefoxAccounts = Onemogućite usluge zasnovane na { -fxaccount-brand-name }, uključujući sinhronizaciju.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Onemogućite usluge zasnovane na računu, uključujući sinhronizaciju.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -51,7 +50,6 @@ policy-DisableForgetButton = Spriječite pristup dugmetu Zaboravi.
 policy-DisableFormHistory = Ne pamti historiju pretraživanja i obrazaca.
 policy-DisablePrimaryPasswordCreation = Ako je istina, primarna lozinka se ne može kreirati.
 policy-DisablePasswordReveal = Ne dozvolite otkrivanje lozinki u sačuvanim prijavama.
-policy-DisablePocket2 = Onemogućite funkciju za spremanje web stranica na { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Onemogući privatno surfanje.
 policy-DisableProfileImport = Onemogućite naredbu menija za uvoz podataka iz drugog pretraživača.
 policy-DisableProfileRefresh = Onemogućite dugme za osvježavanje programa { -brand-short-name } na stranici about:support.
@@ -117,7 +115,6 @@ policy-PostQuantumKeyAgreementEnabled = Omogući sporazum post-kvantnog ključa 
 policy-PDFjs = Onemogućite ili konfigurišite PDF.js, ugrađeni PDF preglednik u { -brand-short-name }.
 policy-Permissions2 = Konfigurirajte dozvole za kameru, mikrofon, lokaciju, obavještenja i automatsku reprodukciju.
 policy-PictureInPicture = Omogućite ili onemogućite Slika u slici.
-policy-PopupBlocking = Dozvolite određenim web stranicama da prikazuju iskačuće prozore prema zadanim postavkama.
 policy-Preferences = Postavite i zaključajte vrijednost za podskup preferencija.
 policy-PrivateBrowsingModeAvailability = Podesite dostupnost režima privatnog pretraživanja.
 policy-PromptForDownloadLocation = Pitajte gdje da sačuvate datoteke prilikom preuzimanja.

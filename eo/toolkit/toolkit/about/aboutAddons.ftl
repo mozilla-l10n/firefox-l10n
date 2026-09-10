@@ -151,15 +151,10 @@ addon-sitepermission-host = Retejaj permesoj por { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Ĉiuj aldonaĵoj estis malaktivigitaj de la sekura reĝimo.
-extensions-warning-check-compatibility = La kontrolado de kongrueco de aldonaĵoj estas malaktiva.  Vi povus havi nekongruajn aldonaĵojn.
-extensions-warning-safe-mode2 =
-    .message = Ĉiuj aldonaĵoj estis malaktivigitaj de la sekura reĝimo.
 extensions-warning-check-compatibility2 =
     .message = La kontrolado de kongrueco de aldonaĵoj estas malaktiva.  Vi povus havi nekongruajn aldonaĵojn.
 extensions-warning-check-compatibility-button = Aktivigi
     .title = Aktivigi la kontroladon de kongrueco de aldonaĵoj
-extensions-warning-update-security = La kontrolado de sekurecaj ĝisdatigoj de aldonaĵoj ne estas aktiva.  Vi povus esti elmetita de ĝisdatigoj.
 extensions-warning-update-security2 =
     .message = La kontrolado de sekurecaj ĝisdatigoj de aldonaĵoj ne estas aktiva.  Vi povus esti elmetita de ĝisdatigoj.
 extensions-warning-update-security-button = Aktivigi
@@ -235,10 +230,6 @@ shortcuts-duplicate = Ripetita alirklavo
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } estas uzata kiel alirklavon en pli ol unu okazo. Ripetitaj alirklavoj povas kaŭzi neatenditan konduton.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } estas uzata kiel alirklavon en pli ol unu okazo. Ripetitaj alirklavoj povas kaŭzi neatenditan konduton.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -258,11 +249,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Etendaĵoj kaj etosoj estas kiel programoj por via retumilo, kiuj permesas al vi protekti pasvortojn, elŝuti filmetojn, serĉi ofertojn, bloki ĝenajn reklamojn, ŝanĝi la aspekton de via retumilo kaj fari multe pli da aferoj. Tiuj etaj programoj estas ofte ne programitaj de ni. Jen <a data-l10n-name="learn-more-trigger">kelkaj rekomendoj</a> de { -brand-product-name } por eksterordinaraj sekureco, efikeco kaj funkcioj.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Kelkaj el tiuj ĉi rekomendoj estas personecigitaj. Ili baziĝas sur la listo de viaj nunaj etendaĵoj, preferoj de profilo kaj statistikoj de uzo.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message = Kelkaj el tiuj ĉi rekomendoj estas personecigitaj. Ili baziĝas sur la listo de viaj nunaj etendaĵoj, preferoj de profilo kaj statistikoj de uzo.
@@ -343,16 +329,9 @@ addon-detail-last-updated-label = Laste ĝisdatigita
 addon-detail-homepage-label = Ĉefpaĝo
 addon-detail-rating-label = Taksado
 # Message for add-ons with a staged pending update.
-install-postponed-message = Tiu ĉi etendaĵo estos ĝisdatigita dum restarto de { -brand-short-name }.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Tiu ĉi etendaĵo estos ĝisdatigita dum restarto de { -brand-short-name }.
 install-postponed-button = Ĝisdatigi nun
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Taksado { NUMBER($rating, maximumFractionDigits: 1) } el 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -368,9 +347,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> estis forigita.
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -389,11 +365,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Permesita en privataj fenestroj
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Permesita en privataj fenestroj
 addon-detail-private-browsing-help = Se tio estas permesita, la etendaĵo havos aliron al viaj retumaj agoj dum vi private retumas. <a data-l10n-name="learn-more">Pli da informo</a>
 addon-detail-private-browsing-allow = Permesi
@@ -420,17 +391,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } nur rekomendas etendaĵojn, kiuj konformas al niaj normoj pri sekureco kaj efikeco
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Oficiala etendaĵo verkita de Mozilla. Ĝi observas sekurecajn kaj efikecajn normojn
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Tiu ĉi etendaĵo estis reviziita por kontroli ke ĝi kongruas kun niaj sekurecaj kaj efikecaj normoj.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -460,9 +420,6 @@ addon-permissions-heading = Permesoj
 addon-permissions-empty2 = Tiu ĉi etendaĵo ne postulas iun ajn permeson.
 addon-permissions-required-label = Postulataj:
 addon-permissions-optional-label = Nedevigaj:
-addon-permissions-empty = Tiu ĉi etendaĵo postulas neniun permeson
-addon-permissions-required = Postulataj permesoj por kernaj funkcioj:
-addon-permissions-optional = Elekteblaj permesoj por aldonaj funkcioj:
 addon-permissions-learnmore = Pli da informo pri permesoj
 # Shown above the permissions list when one or more permissions for this
 # extension are controlled by an enterprise policy and cannot be changed by
@@ -503,25 +460,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } estas nekongrua kun { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } estas nekongrua kun { -brand-short-name } { $version }.
-details-notification-incompatible-link = Pli da informo
-details-notification-unsigned-and-disabled = { $name } ne povis esti kontrolita por uzo en { -brand-short-name } kaj estis malaktivigita.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } ne povis esti kontrolita por uzo en { -brand-short-name } kaj estis malaktivigita.
-details-notification-unsigned-and-disabled-link = Pli da informo
-details-notification-unsigned = { $name } ne povis esti kontrolita por uzo en { -brand-short-name }. Daŭrigu singarde.
 details-notification-unsigned2 =
     .message = { $name } ne povis esti kontrolita por uzo en { -brand-short-name }. Daŭrigu singarde.
 details-notification-hard-blocked-extension =
     .message = Tiu ĉi etendaĵo estis blokita pro malobservo de la politikoj de Mozilla kaj ĝi estis do malaktivigita.
 details-notification-hard-blocked-other =
     .message = Tiu ĉi aldonaĵo estis blokita pro malobservo de la politikoj de Mozilla kaj ĝi estis do malaktivigita.
-details-notification-unsigned-link = Pli da informo
-details-notification-blocked = { $name } estis blokita pro sekurecaj kaj stabilecaj problemoj.
 details-notification-blocked-link2 = Montri detalojn
 details-notification-soft-blocked-extension-disabled2 =
     .message = Tiu ĉi etendaĵo estas limigita kaj ĝi estis do malaktivigita. Vi povas reaktivigi ĝin, sed tio povus esti riska.
@@ -531,19 +479,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = Tiu ĉi aldonaĵo estas limigita kaj ĝi estis do malaktivigita. Vi povas reaktivigi ĝin, sed tio povus esti riska.
 details-notification-soft-blocked-other-enabled2 =
     .message = Tiu ĉi aldonaĵo estas limigita. Uzi ĝin povus esti riske.
-details-notification-soft-blocked-extension-disabled =
-    .message = Tiu ĉi etendaĵo estis blokita pro malobservo de la politikoj de Mozilla kaj ĝi estis do malaktivigita. Vi povas reaktivigi ĝin, sed tio povus esti riska.
-details-notification-soft-blocked-extension-enabled =
-    .message = Tiu ĉi etendaĵo malobservas la politikojn de Mozilla. Uzi ĝin povas esti riske.
-details-notification-soft-blocked-other-disabled =
-    .message = Tiu ĉi aldonaĵo estis blokita pro malobservo de la politikoj de Mozilla kaj ĝi estis do malaktivigita. Vi povas reaktivigi ĝin, sed tio povus esti riska.
-details-notification-soft-blocked-other-enabled =
-    .message = Tiu ĉi aldonaĵo malobservas la politikojn de Mozilla. Uzi ĝin povas esti riske.
 details-notification-softblocked-link2 = Montri detalojn
-details-notification-blocked-link = Plia informo
-details-notification-softblocked = Estas konata fakto ke { $name } povas okazigi sekurecajn kaj stabilecajn problemojn.
-details-notification-softblocked-link = Plia informo
-details-notification-gmp-pending = { $name } estos baldaŭ instalita.
 details-notification-gmp-pending2 =
     .message = { $name } estos baldaŭ instalita.
 
@@ -559,8 +495,6 @@ plugins-widevine-description = Tiu ĉi kromprogramo ebligas ludadon de ĉifritaj
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Postulata kolekto de datumoj:
-addon-permissions-optional-data-collection = Nedeviga kolekto de datumoj:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Permesoj kaj datumoj
 # This is a description for extension that use this AI model

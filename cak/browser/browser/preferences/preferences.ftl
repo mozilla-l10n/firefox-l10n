@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Ketaq ri taq ruxaq ajk'amaya'l jun “Mani Tojqäx” raqän kumal chi man nojowäx ta chi tikanöx
-do-not-track-learn-more = Tetamäx ch'aqa' chik
-do-not-track-option-default-content-blocking-known =
-    .label = Xa xe toq { -brand-short-name } b'anon runuk'ulem richin yeruq'ät ojqanela' etaman kiwäch
-do-not-track-option-always =
-    .label = Junelïk
 settings-page-title = Taq Runuk'ulem
 category-nav-heading =
     .heading = Taq Runuk'ulem
@@ -28,37 +22,16 @@ managed-notice-nav =
 category-list =
     .aria-label = Taq ruwäch
 pane-general-title = Chijun
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = Tikirib'äl
 pane-search-title2 = Tikanöx
     .title = Tikanöx
 pane-privacy-title3 = Ichinanem & Jikomal
     .title = Ichinanem & Jikomal
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = Tikanöx
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = Ichinanem & Jikomal
-pane-privacy-title = Ichinanem & Jikomal
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Ximoj
-category-sync3 =
-    .tooltiptext = { pane-sync-title3 }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-pane-experimental-title = { -brand-short-name } taq Tojtob'äl
-category-experimental =
-    .tooltiptext = { -brand-short-name } taq Tojtob'äl
-pane-experimental-subtitle = Tachajij awi' chi Rub'anik
-pane-experimental-search-results-header = { -brand-short-name } Taq tojtob'äl: Eqal Tab'ana'
-pane-experimental-description2 = Kejal ri q'axinäq taq runuk'ik runuk'ulem, nitikir nutz'ila' rub'eyal nisamäj o ri rujikomal { -brand-short-name }.
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-reset =
     .label = Ke'atzolij ri e K'o wi
     .accesskey = e
@@ -66,8 +39,6 @@ help-button-label2 = Ruto'ik { -brand-short-name } Temeb'äl
     .title = Ruto'ik { -brand-short-name } Temeb'äl
 addons-button-label2 = Taq k'amal & taq Wachinel
     .title = Taq k'amal & taq Wachinel
-help-button-label = Ruto'ik { -brand-short-name } Temeb'äl
-addons-button-label = Taq k'amal & taq Wachinel
 focus-search =
     .key = f
 close-button =
@@ -122,62 +93,32 @@ search-results-help-link = ¿La nawajo' ato'ik? Tatz'eta' <a data-l10n-name="url
 
 ## General Section
 
-startup-header = Tikirisab'äl
 always-check-default =
     .label = Junelïk tinik'öx we { -brand-short-name } ja ri' ri awokik'amaya'l
     .accesskey = e
-is-default = { -brand-short-name } ja awokik'amaya'l kan k'o wi
-is-not-default = { -brand-short-name } man ja ta ri awokik'amaya'l kan k'o wi
-set-as-my-default-browser =
-    .label = Tib'an chi K'o wi…
-    .accesskey = K
 startup-restore-windows-and-tabs =
     .label = Kejaq taq tzuwäch chuqa' taq ruwi' xe'ik'o yan
     .accesskey = k
-startup-restore-warn-on-quit =
-    .label = Tiya' rutzijol toq yatel pa okik'amaya'l
 disable-extension =
     .label = Tichup ri K'amal
-preferences-data-migration-header = Ke'ajik'a' Rutzij Okik'amaya'l
 preferences-data-migration-button =
     .label = Tijik' Tzij
     .accesskey = j
 tabs-group-header2 =
     .label = Taq ruwi'
-tabs-group-header = Taq ruwi'
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab mejaj pa taq ruwi' pa k'ak'a' kokisaxik kicholajem
     .accesskey = T
 open-new-link-as-tabs =
     .label = Kejaq taq ximonel pa taq ruwi' pa ruk'exel kik'in k'ak'a' taq tzuwäch
     .accesskey = z
-confirm-on-close-multiple-tabs =
-    .label = Nab'ey tijikib'äx toq yetz'apïx jalajöj taq ruwi'
-    .accesskey = j
-# This string is used for the confirm before quitting preference.
-# Variables:
-#   $quitKey (string) - the quit keyboard shortcut, and formatted
-#                       in the same manner as it would appear,
-#                       for example, in the File menu.
-confirm-on-quit-with-key =
-    .label = Nab'ey tijikib'äx richin nel rik'in { $quitKey }
-    .accesskey = b
 warn-on-open-many-tabs =
     .label = Taya' pe rutzijol we { -brand-short-name } yalan eqal xtisamäj toq xkerujäq k'ïy taq ruwi'
     .accesskey = e
-switch-to-new-tabs =
-    .label = Toq najäq jun ximonel, wachib'äl o silowäch pa jun k'ak'a' ruwi', tijalwachïx rik'in re' pan aninäq
-    .accesskey = q
 show-tabs-in-taskbar =
     .label = Kek'ut pe ch'utin taq ruwi' pa ri rukajtz'ik rusamaj Windows
     .accesskey = w
-browser-containers-enabled =
-    .label = Ketzij Ajk'wayöl taq ruwi'
-    .accesskey = t
 browser-containers-learn-more = Tetamäx ch'aqa' chik
-browser-containers-settings =
-    .label = Taq nuk'ulem…
-    .accesskey = l
 containers-disable-alert-title = ¿La yetz'apïx konojel ri kik'ojlib'al taq ruwi'?
 startup-group =
     .label = Tikirisab'äl
@@ -213,38 +154,16 @@ containers-remove-cancel-button = Man tiyuj el re k'wayöl re'
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Ch'ab'äl chuqa' Rutzub'al
-preferences-web-appearance-choice-auto = Yonil
-preferences-web-appearance-choice-light = Yuk'unel
-preferences-web-appearance-choice-dark = Q'equ'm
-preferences-web-appearance-choice-input-auto =
-    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
-preferences-web-appearance-choice-input-light =
-    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
-preferences-web-appearance-choice-input-dark =
-    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 preferences-colors-manage-button2 =
     .label = Kenuk'samajïx taq B'onil
     .accesskey = B
-preferences-colors-header = Taq b'onil
 preferences-colors-manage-button =
     .label = Kenuk'samajïx taq B'onil…
     .accesskey = B
 preferences-fonts-header2 =
     .label = Ruwäch tz'ib'
-preferences-fonts-header = Ruwäch tz'ib'
-default-font = Ruwäch tzij kan k'o wi
-    .accesskey = k
-default-font-size = Nimilem
-    .accesskey = N
-advanced-fonts =
-    .label = Taq Q'axinäq…
-    .accesskey = Q
 preferences-default-zoom-label =
     .label = Sum k'o wi
-    .accesskey = S
-# Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = Sum
-preferences-default-zoom = Sum k'o wi
     .accesskey = S
 # Variables:
 #   $percentage (number) - Zoom percentage value
@@ -266,13 +185,7 @@ confirm-browser-language-change-description = Titikirisäx chik { -brand-short-n
 confirm-browser-language-change-button = Tisamajïx chuqa' Titikirisäx chik
 browser-language-install-error =
     .message = { -brand-short-name } man nitikïr ta yeruk'ëx ri taq ach'ab'äl. Tanik'oj chi atokinäq pa k'amaya'l o tatojtob'ej chik.
-translate-web-pages =
-    .label = Titzalq'omïx rupam ajk'amaya'l
-    .accesskey = T
 fx-translate-web-pages = { -translations-brand-name }
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = Tzalq'oman ruma <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Taq man relik ta…
     .accesskey = e
@@ -291,23 +204,6 @@ download-save-files-header =
     .label = Keyak yakb'äl pa
 download-save-where-3 =
     .aria-label = Keyak yakb'äl pa
-download-header = Taq qasanïk
-download-save-where = Keyak yakb'äl pa
-    .accesskey = y
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Ticha'…
-           *[other] Tinik'öx…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] T
-           *[other] n
-        }
-download-always-ask-where =
-    .label = Jantape' tik'utüx pe akuchi' yeyak wi kan ri taq yakb'äl
-    .accesskey = J
 applications-header = Taq chokoy
 applications-description = Tacha' achi'el rub'eyal { -brand-short-name } yerusamajij ri taq yakb'äl ye'aqasaj pan ajk'amaya'l o ri taq chokoy ye'awokisaj toq atokinäq pa k'amaya'l.
 applications-filter =
@@ -355,10 +251,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Tokisäx { $plugin-name } (pa { -brand-short-name })
 applications-open-inapp =
     .label = Tijaq pa { -brand-short-name }
 
@@ -366,8 +258,6 @@ applications-open-inapp =
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -394,44 +284,21 @@ applications-ask-before-handling =
     .accesskey = k
 drm-group =
     .label = Kematz'ib'il ch'ojib'äl Runuk'samajixik (DRM) Rupam
-drm-content-header = Kematz'ib'il ch'ojib'äl Runuk'samajixik (DRM) Rupam
 play-drm-content =
     .label = Titzij DRM-chajin rupam
     .accesskey = T
 play-drm-content-learn-more = Tetamäx ch'aqa' chik
-update-application-title = { -brand-short-name } Taq k'exoj ruwäch
-update-application-description = Junelïk tik'ex ri { -brand-short-name } richin ütz nisamäj, jikïl, chuqa' jikon.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Ruwäch { $version } <a data-l10n-name="learn-more">Achike natzijoj</a>
 update-history-2 =
     .label = Tik'ut pe ri runatab'al K'exoj ruwäch
     .accesskey = K
-update-history =
-    .label = Tik'ut pe ri runatab'al K'exoj ruwäch…
-    .accesskey = K
-update-application-allow-description = Tiya' q'ij { -brand-short-name } chi re
-update-application-auto =
-    .label = Ruyonil keyak taq k'exoj (echilab'en)
-    .accesskey = R
-update-application-check-choose =
-    .label = Kenik'öx taq k'exoj ruwäch, xa xe chi tiya' q'ij chwe richin nincha' we yenyäk
-    .accesskey = K
-update-application-manual =
-    .label = Majub'ey kekanöx taq k'exoj ruwäch (we man echilab'en ta)
-    .accesskey = M
 update-application-background-enabled =
     .label = Toq { -brand-short-name } man nitikirisäx ta
     .accesskey = T
 update-application-warning-cross-user-setting-2 =
     .message = Re runuk'ulem re' xtisamajïx pa ronojel taq rub'i' kitaqoya'l Windows chuqa' ri taq ruwäch rub'i' { -brand-short-name } rik'in rokisaxik re ruyakoj { -brand-short-name }.
-update-application-warning-cross-user-setting = Re runuk'ulem re' xtisamajïx pa ronojel taq rub'i' kitaqoya'l Windows chuqa' ri taq ruwäch rub'i' { -brand-short-name } rik'in rokisaxik re ruyakoj { -brand-short-name }.
-update-application-use-service =
-    .label = Tokisäx jun samaj pa ruka'n b'ey richin yeyak ri taq k'exoj ruwäch
-    .accesskey = r
-update-application-suppress-prompts =
-    .label = Tik'ut jub'a' taq rutzijol richin k'exoj
-    .accesskey = r
 update-setting-write-failure-title2 = Xsach toq xyak ri Ruk'exoj taq runuk'ulem
 # Variables:
 #   $path (string) - Path to the configuration file
@@ -450,11 +317,6 @@ update-in-progress-cancel-button = &Titikïr chik el
 
 ## General Section - Performance
 
-performance-title = Rub'eyal nisamäj
-performance-use-recommended-settings-checkbox =
-    .label = Tokisäx runuk'ulem rub'eyal nisamäj chilab'en pe
-    .accesskey = T
-performance-use-recommended-settings-desc = Re taq nuk'ulem re' nikik'äm ki' kik'in ri ch'akulakem chuqa' rik'in ri samajel ruq'inoj akematz'ib'.
 performance-settings-learn-more = Tetamäx ch'aqa' chik
 performance-allow-hw-accel =
     .label = Tokisäx rupararexik ch'akulakem toq xtiwachin pe
@@ -472,7 +334,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = Okik'amaya'l
 browsing-use-autoscroll =
     .label = Tokisäx ruyonil rusiloxik
     .accesskey = r
@@ -491,32 +352,17 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Tikanöx taq rucholajem tzij toq tajin yatz'ib'an
     .accesskey = t
-browsing-picture-in-picture-toggle-enabled =
-    .label = Titzij kichajixik silowäch picture-in-picture
-    .accesskey = t
-browsing-picture-in-picture-learn-more = Tetamäx ch'aqa' chik
 browsing-media-control =
     .label = Ke'achajij ri taq k'ïy k'oxom rik'in ri pitz'b'äl, ri taq ak'axab'äl o ri kematz'ib'il k'amab'ey
     .accesskey = r
-browsing-media-control-learn-more = Tetamäx ch'aqa' chik
 browsing-cfr-recommendations =
     .label = Kechilab'ëx taq k'amal toq nib'an okem pa k'amaya'l
     .accesskey = K
 browsing-cfr-features =
     .label = Ke'achilab'ej taq b'anikil toq atokinäq pa k'amaya'l
     .accesskey = b
-browsing-cfr-recommendations-learn-more = Tetamäx Ch'aqa' chik
 browsing-group =
     .label = Okik'amaya'l
-
-## General Section - Proxy
-
-network-settings-title = Runuk'ulem Okem
-network-proxy-connection-description = Tib'an runuk'ulem rub'eyal { -brand-short-name } nok pa k'amaya'l.
-network-proxy-connection-learn-more = Tetamäx ch'aqa' chik
-network-proxy-connection-settings =
-    .label = Taq nuk'ulem…
-    .accesskey = n
 
 ## Home Section
 
@@ -572,35 +418,21 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Taq ruxaq xe'ayäk o xe'atz'ët
 home-prefs-shortcuts-by-option-sponsored =
     .label = Xto' chojmin okem
-home-prefs-recommended-by-header =
-    .label = Chilab'en ruma { $provider }
-home-prefs-recommended-by-description-new = Cha'on rupam cha'on ruma { $provider }, rach'ala'ïl { -brand-product-name }
 
 ##
 
 home-prefs-recommended-by-learn-more = Achike rub'eyal nisamäj
 home-prefs-recommended-by-option-sponsored-stories =
     .label = To'on taq B'anob'äl
-home-prefs-recommended-by-option-recent-saves =
-    .label = Kek'ut k'ab'a' eyakon
 home-prefs-highlights-option-visited-pages =
     .label = Taq Ruxaq Etz'eton
 home-prefs-highlights-options-bookmarks =
     .label = Taq yaketal
 home-prefs-highlights-option-most-recent-download =
     .label = K'a B'a' Keqasäx
-home-prefs-highlights-option-saved-to-pocket =
-    .label = Taq Ruxaq Eyakon pa { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = K'ak'a' samaj
 home-prefs-recent-activity-description = Jun cha'on taq ruxaq chuqa' k'ak'a' rupam
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = Taq pir
-home-prefs-snippets-description-new = Taq runa'oj chuqa' taq rutzijol { -vendor-short-name } chuqa' { -brand-product-name }
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -612,38 +444,11 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = Rukajtz'ik Kanoxïk
-search-bar-hidden =
-    .label = Tokisax ri kikajtz'ik ochochib'äl richin nikanöx chuqa' ri okem pa k'amaya'l
-search-bar-shown =
-    .label = Titz'aqatisäx ri rukajtz'ik kanoxïk pa molsamajib'äl
-search-engine-default-header = K'o wi chi Kanob'äl
-search-engine-default-desc-2 = Re re' jun rokik'amaya'l kanoxïk ri k'o pa kikajtz'ik ochochib'äl chuqa' pa ri rukajtz'ik kanoxïk. Yatikïr najäl pa xab'achike ramaj.
-search-engine-default-private-desc-2 = Ticha achi'el ri rokik'amaya'l kanoxïk k'o kichin Ichinan taq Tzuwäch
-search-separate-default-engine =
-    .label = Tokisäx re kanob'äl re pan Ichinan Tzuwäch
-    .accesskey = o
-search-suggestions-header = Kichilab'exik Kanoxïk
-search-suggestions-desc = Tacha' achike rub'eyal yetz'et ri taq kichilab'exik ri yekanöx.
-search-suggestions-option =
-    .label = Tiya' pe taq chilab'en  richin nikanöx
-    .accesskey = n
 search-show-suggestions-url-bar-option =
     .label = Kek'ut pe taq ruchilab'enik kanoxïk chi kikojol ri kiq'iq'oj kikajtz'ik taq ochochib'äl
     .accesskey = q
 search-suggestions-cant-show-2 =
     .message = Man xkeq'alajin ta pe ri taq chilab'exïk richin nikanöx pa rukajtz'ik ochochib'äl ruma chi anuk'un ri { -brand-short-name } richin majub'ey tunataj ri anatab'al.
-# This string describes what the user will observe when the system
-# prioritizes search suggestions over browsing history in the results
-# that extend down from the address bar. In the original English string,
-# "ahead" refers to location (appearing most proximate to), not time
-# (appearing before).
-search-show-suggestions-above-history-option =
-    .label = Kek'ut pe taq chilab'enïk nab'ey chuwäch ri natab'äl pa ri xe'ilitäj pa ri kikajtz'ik taq ochochib'äl
-search-show-suggestions-private-windows =
-    .label = Kek'ut pe taq kichilab'exik kanoxik pa Ichinan taq Tzuwäch
-suggestions-addressbar-settings-generic2 = Kek'ex ri taq runuk'ulem ch'aqa' chik taq kichilab'enik kikajtz'ik ochochib'äl
-search-suggestions-cant-show = Man xkeq'alajin ta pe ri taq chilab'exïk richin nikanöx pa rukajtz'ik ochochib'äl ruma chi anuk'un ri { -brand-short-name } richin majub'ey tunataj ri anatab'al.
 search-one-click-header2 = Kekanöx Ruq'a' Okem
 search-one-click-desc = Ke'acha' chi kikojol ri kik'u'x taq kanob'äl yeq'alajin pe chuxe' ri kikajtz'ik taq ochochib'äl chuqa' ri rukajtz'ik kanoxïk toq natz'ib'aj qa jun ruxe'el tzij.
 search-choose-engine-column =
@@ -672,22 +477,6 @@ search-engine-group =
 search-default-engine =
     .aria-label = K'o wi chi Kanob'äl
 
-## Containers Section
-
-containers-back-button2 =
-    .aria-label = Tib'an chik Runuk'ulem
-containers-header = Ajk'wayöl taq ruwi'
-containers-add-button =
-    .label = Titz'aqatisäx k'ak'a' k'wayöl
-    .accesskey = t
-containers-new-tab-check =
-    .label = Ticha jun ruk'wayöl ri k'ak'a' ruwi'
-    .accesskey = T
-containers-settings-button =
-    .label = Taq runuk'ulem
-containers-remove-button =
-    .label = Tiyuj
-
 ## Account and sync
 
 sync-group-label =
@@ -713,8 +502,6 @@ sync-mobile-promo = Taqasaj Firefox richin <img data-l10n-name="android-icon"/> 
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = Tijal ruwachib'al ruwäch b'i'aj
 sync-profile-picture-with-alt =
     .alt = Tijal ruwachib'al ruwäch b'i'aj
     .tooltiptext = Tijal ruwachib'al ruwäch b'i'aj
@@ -739,9 +526,6 @@ sync-signedin-login-failure = Tatikirisaj molojri'ïl richin yatok chik { $email
 
 ##
 
-sync-resend-verification =
-    .label = Titaq chik Jikib'anïk
-    .accesskey = q
 sync-remove-account =
     .label = Tiyuj Rub'i' Taqoya'l
     .accesskey = y
@@ -760,10 +544,6 @@ prefs-sync-turn-on-syncing-2 =
     .label = Titzij pa ximoj
     .accesskey = x
 prefs-sync-offer-setup-label2 = Ke'axima' ri taq ayaketal, natab'äl, taq ruwi', taq ewan tzij, taq tz'aqat chuqa' taq runuk'ulem chi kikojol konojel ri taq awokisaxel.
-prefs-sync-now =
-    .labelnotsyncing = Tixim Wakami
-    .labelsyncing = Nixim…
-    .accesskeynotsyncing = W
 prefs-sync-now-button =
     .label = Tixim Wakami
     .accesskey = W
@@ -781,24 +561,12 @@ prefs-syncing-button-2 =
 sync-currently-syncing-bookmarks = Taq yaketal
 sync-currently-syncing-history = Natab'äl
 sync-currently-syncing-tabs = Kejaq ruwi'
-sync-currently-syncing-logins-passwords = Kitikirisaxik molojri'ïl chuqa' ewan taq tzij
 sync-currently-syncing-addresses = Taq ochochib'äl
-sync-currently-syncing-creditcards = Taq ch'utit'im pwäq
 sync-currently-syncing-addons = Taq tz'aqat
 sync-currently-syncing-settings = Taq runuk'ulem
-sync-change-options =
-    .label = Tijal…
-    .accesskey = j
 
 ## The "Choose what to sync" dialog.
 
-sync-choose-what-to-sync-dialog3 =
-    .buttonlabelaccept = Keyak Jaloj
-    .buttonlabelextra2 = Nichup…
-    .buttonaccesskeyaccept = K
-    .buttonaccesskeyextra2 = c
-    .style = min-width: 36em;
-    .title = Tacha' Achike Naxïm
 sync-engine-bookmarks =
     .label = Taq yaketal
     .accesskey = e
@@ -809,18 +577,10 @@ sync-engine-tabs =
     .label = Kejaq ruwi'
     .tooltiptext = Jun rucholb'al ri achike jaqäl pa konojel ri taq okisab'äl eximon
     .accesskey = r
-sync-engine-logins-passwords =
-    .label = Kitikirisaxik molojri'ïl chuqa' ewan taq tzij
-    .tooltiptext = Rub'i' winäq chuqa' ewan taq rutzij eruyakon
-    .accesskey = L
 sync-engine-addresses =
     .label = Taq ochochib'äl
     .tooltiptext = Kochochib'al b'ow e'ayakon (xa xe kematz'ib')
     .accesskey = i
-sync-engine-creditcards =
-    .label = Taq Ch'utit'im pwäq
-    .tooltiptext = Taq b'i'aj, taq ajilab'äl chuqa' nik'is kiq'ijul taq q'ijul (xa xe ajk'ematz'ib')
-    .accesskey = C
 sync-engine-addons =
     .label = Taq tz'aqat
     .tooltiptext = Taq k'amal chuqa' taq wachinïk richin Firefox ajk'ematz'ib'
@@ -856,50 +616,20 @@ sync-connect-another-device = Tokisäx jun chik okisaxel
 sync-connect-another-device-2 =
     .label = Tokisäx jun chik okisaxel
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = Xtaq ri runik'oxik
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = Xtaq jun ruximöy jikib'anïk pa { $email }.
-sync-verification-not-sent-title = Man tikirel ta nitaq ri jikib'anïk
-sync-verification-not-sent-body = K'a wakami man yojtikïr ta niqanik'oj pa taqoya'l, tab'ana' utzil tatojtob'ej pa jun chi ti ramaj.
-
 ## Privacy Section
 
 privacy-header = Richinanem Okik'amaya'l
-
-## Privacy Section - Logins and Passwords
-
-# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = Kitikirisaxik Molojri'ïl chuqa' Ewan taq Tzij
-    .searchkeywords = { -lockwise-brand-short-name }
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = Tik'utüx chi rij ri kiyakik kitikirib'al taq molojri'ïl chuqa' ri ewan taq kitzij taq ruxaq ajk'amaya'l
-    .accesskey = r
 
 ## Privacy Panel Settings
 
 forms-exceptions =
     .label = Taq man relik ta…
     .accesskey = e
-forms-generate-passwords =
-    .label = Nuchilab'ej chuqa' yerunük' nïm ewan taq tzij
-    .accesskey = c
 forms-breach-alerts =
     .label = Kek'ut pe rutzijol taq k'ayewal chi kij ewan taq tzij kichin tz'ilan ajk'amaya'l ruxaq.
     .accesskey = n
 forms-breach-alerts-learn-more-link = Tetamäx ch'aqa' chik
 relay-integration-learn-more-link = Tetamäx ch'aqa' chik
-# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
-forms-fill-logins-and-passwords =
-    .label = Ruyonil ketz'aqatisäx ri tikirib'äl molojri'ïl chuqa' ewan taq tzij
-    .accesskey = i
-forms-saved-logins =
-    .label = Yakon kitikirib'al molojri'ïl…
-    .accesskey = k
 forms-primary-pw-use =
     .label = Tokisäx jun Nab'ey Ewan Tzij
     .accesskey = k
@@ -937,32 +667,12 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
-history-header = Natab'äl
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } xtipo'
-    .accesskey = x
-history-remember-option-all =
-    .label = Tinatäx ri natab'äl
-history-remember-option-never =
-    .label = Mani ninatäx ri natab'äl
-history-remember-option-custom =
-    .label = Tokisäx jun ichinan runuk'ulem re natab'äl
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } Xtunataj awokem pa k'amaya'l, qasanïk, nojwuj chuqa' runatab'al kanoxïk.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } xtrokisaj ri junam runuk'ulem achi'el pa ichinan okem pa k'amaya'l, chuqa' man xkerunataj ta ri taq rutzij natab'äl toq tajin nok pa ajk'amaya'l.
-history-remember-description = { -brand-short-name } Xtunataj awokem pa k'amaya'l, qasanïk, nojwuj chuqa' runatab'al kanoxïk.
-history-dontremember-description = { -brand-short-name } xtrokisaj ri junam runuk'ulem achi'el pa ichinan okem pa k'amaya'l, chuqa' man xkerunataj ta ri taq rutzij natab'äl toq tajin nok pa ajk'amaya'l.
 history-private-browsing-permanent =
     .label = Junelïk tokisäx pa rub'eyal ichinan okem pa k'amaya'l
     .accesskey = i
@@ -988,65 +698,30 @@ history-mode-radio-group =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Taq Kuki chuqa' Rutzij Ruxaq
 sitedata-total-size-calculating = Tajin nipaj kinimilem taq rutzij chuqa' rujumejyak ruxaq k'amaya'l…
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Ri yakon taq kaxlanwey, rutzij ruxaq chuqa' ri rutzatzq'or taq jumejyak nikokisaj { $value } { $unit } chi re ri rupam nimayakb'äl.
 sitedata-learn-more = Tetamäx ch'aqa' chik
-sitedata-delete-on-close =
-    .label = Keyuj taq kuki chuqa' taq rutzij ruxaq toq nitz'apïx { -brand-short-name }
-    .accesskey = k
-sitedata-delete-on-close-private-browsing = Pa rub'eyal junelïk ichinan okem, ri taq kuki chuqa' ri taq rutzij ruxaq k'amaya'l jantape' xkeyuj { -brand-short-name } toq nitz'apïx.
-sitedata-allow-cookies-option =
-    .label = Kek'ulutäj taq rukaxlanway chuqa' taq rutzij k'amaya'l
-    .accesskey = K
-sitedata-disallow-cookies-option =
-    .label = Keq'at taq rukaxlanwäy chuqa' Rutzij K'amaya'l
-    .accesskey = K
-# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
-# The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = Q'aton ruwäch
-    .accesskey = r
 sitedata-option-block-cross-site-trackers =
     .label = Kojqanela' xoch'in taq ruxaq
 sitedata-option-block-cross-site-tracking-cookies =
     .label = kikuki kojqanik xoch'in taq ruxaq
-sitedata-option-block-cross-site-cookies =
-    .label = Taq kikuki kojqanem xoch'in taq ruxaq chuqa' kijech'unik ch'aqa' chik taq kikuki xoch'in taq ruxaq.
 sitedata-option-block-unvisited =
     .label = Taq kuki man etz'eton ta ajkamaya'l taq ruxaq
 sitedata-option-block-all-cross-site-cookies =
     .label = Ronojel rukuki xoch'in ruxaq (yetikïr nikiya' sachoj pa taq ajk'amaya'l ruxaq)
 sitedata-option-block-all =
     .label = Konojel ri taq kuki (xketz'ilon pa ri ajk'amaya'l ruxaq)
-sitedata-clear =
-    .label = Tijosq'ïx Tzij…
-    .accesskey = j
-sitedata-settings =
-    .label = Kenuk'samajïx Tzij…
-    .accesskey = K
 sitedata-cookies-exceptions =
     .label = Kenuk'samajïx taq Man Relik Ta...
     .accesskey = R
 cookies-site-data-group =
     .label = Taq Kuki chuqa' Rutzij Ruxaq
 
-## Privacy Section - Cookie Banner Handling
-
-cookie-banner-handling-header = Kech'utinirisäx kitzijol kuki
-
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-learn-more = Tetamäx ch'aqa' chik
-forms-handle-cookie-banners =
-    .label = Kech'utinär ri taq kib'aner koki
 
 ## Search Section
 
-addressbar-header = Kikajtz'ik Ochochib'äl
-addressbar-suggest = Jampe' toq nawokisaj ri rukajtz'ik ochochib'äl, tichilab'ëx
 addressbar-locbar-history-option =
     .label = Runatab'al okem pa k'amaya'l
     .accesskey = n
@@ -1063,14 +738,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Jeb'ël taq ruxaq
     .accesskey = J
-addressbar-locbar-engines-option =
-    .label = Rusamajel taq kanob'äl
-    .accesskey = a
 addressbar-locbar-quickactions-option =
     .label = Anin taq b'anoj
     .accesskey = A
-addressbar-suggestions-settings = Kek'ex ri taq kajowab'al ri taq kichilab'enik kisamajinel taq kanob'äl
-addressbar-quickactions-learn-more = Tetamäx ch'aqa' chik
 
 ## Privacy Section - Content Blocking
 
@@ -1103,7 +773,6 @@ content-blocking-private-windows = Kichajinik taq rupam pan Ichinan taq Tzuwäch
 content-blocking-cross-site-cookies-in-all-windows2 = Taq kikuki xoch'in pan ronojel tzuwäch
 content-blocking-cross-site-tracking-cookies = kikuki kojqanik xoch'in taq ruxaq
 content-blocking-all-cross-site-cookies-private-windows = Taq kicookie q'eb'an taq ruxaq k'amaya'l pan Ichinan taq Tzuwäch
-content-blocking-cross-site-tracking-cookies-plus-isolate = Taq kikuki kojqanem xoch'in taq ruxaq chuqa' kijech'unik ri ch'aqa' chik taq kuki
 content-blocking-social-media-trackers = Kojqanela' aj winäq k'amab'ey
 content-blocking-all-cookies = Ronojel taq kuki
 content-blocking-unvisited-cookies = Taq kikuki ruxaq k'amaya'l man e tz'eton ta
@@ -1112,8 +781,6 @@ content-blocking-all-cross-site-cookies = Ronojel Kikuki xoch'in taq ruxaq
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
 content-blocking-etp-standard-tcp-rollout-learn-more = Tetamäx ch'aqa' chik
-content-blocking-warning-title = ¡Tak'axäx!
-content-blocking-and-isolating-etp-warning-description-2 = Re nuk'ulem re' nitikïr nub'än chi jujun ajk'amaya'l taq ruxaq man nikik'üt ta pe ri rupam o man ütz ta yesamäj jun ruxaq achi'el qupin, rik'in jub'a' nawajo' nachüp ri chajinïk chuwäch ojqanem richin nusamajij ronojel ri rupam.
 content-blocking-warning-learn-how = Tetamäx achike rub'eyal
 content-blocking-reload-description = K'o chi ye'asamajib'ej chik ri taq ruwi' richin ye'awokisaj re taq jaloj re'.
 content-blocking-reload-tabs-button =
@@ -1128,7 +795,6 @@ content-blocking-tracking-protection-option-all-windows =
 content-blocking-option-private =
     .label = Xa xe pa taq Ichinan tzuwäch
     .accesskey = I
-content-blocking-tracking-protection-change-block-list = Tijaq rucholajem q'atoj
 content-blocking-cookies-label =
     .label = Taq kuki
     .accesskey = k
@@ -1138,11 +804,6 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = Cryptominers
     .accesskey = y
-# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
-# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
-content-blocking-fingerprinters-label =
-    .label = Fingerprinters
-    .accesskey = F
 
 ## Privacy Section - Tracking
 
@@ -1152,57 +813,11 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = Taq ya'oj q'ij
-permissions-location = K'ojlib'äl
-permissions-location-settings =
-    .label = Taq nuk'ulem…
-    .accesskey = K
-permissions-xr = Achik'al K'ojlemal
-permissions-xr-settings =
-    .label = Taq nuk'ulem…
-    .accesskey = k
-permissions-camera = Elesäy wachib'äl
-permissions-camera-settings =
-    .label = Taq nuk'ulem…
-    .accesskey = m
-permissions-microphone = Q'asäy ch'ab'äl
-permissions-microphone-settings =
-    .label = Taq nuk'ulem…
-    .accesskey = m
-# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
-permissions-speaker = Rucha'ik q'asäy ch'ab'äl
-permissions-speaker-settings =
-    .label = Taq nuk'ulem…
-    .accesskey = n
-permissions-notification = Taq rutzijol
-permissions-notification-settings =
-    .label = Taq nuk'ulem…
-    .accesskey = k
-permissions-notification-link = Tetamäx ch'aqa' chik
 permissions-notification-pause =
     .label = Keq'at ri taq rutzijol k'a toq ri { -brand-short-name } nitikïr chik
     .accesskey = r
 permissions-autoplay2 =
     .label = Ruyon titzijtäj
-permissions-autoplay = Ruyon titzijtäj
-permissions-autoplay-settings =
-    .label = Taq nuk'ulem…
-    .accesskey = l
-permissions-block-popups =
-    .label = Keq'at elenel taq tzuwäch
-    .accesskey = K
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button =
-    .label = Taq man relik ta…
-    .searchkeywords = elenel
-    .accesskey = m
-permissions-addon-install-warning =
-    .label = Taya' rutzijol jampe' toq ri ruxaq ajk'amaya'l nrajo' yeruyäk taq tz'aqat
-    .accesskey = T
-permissions-addon-exceptions =
-    .label = Taq man relik ta…
-    .accesskey = r
 permissions-location2 =
     .label = K'ojlib'äl
 permissions-xr2 =
@@ -1216,26 +831,6 @@ permissions-notification2 =
 
 ## Privacy Section - Data Collection
 
-collection-header = { -brand-short-name } Kimolik chuqa' Kokisaxik taq Tzij
-collection-description = Niqatïj qaq'ij richin yeqasüj taq cha'oj chawe chuqa' yeqamöl xa xe ri niqajo' niqaq'axaj chawe chuqa' ri niqutzilaj { -brand-short-name } kichin konojel. Junelïk naqak'utuj qij chuwäch niqak'ül ri awetamab'al.
-collection-privacy-notice = Ichinan Na'oj
-collection-health-report-telemetry-disabled = Man nuya' ta chik q'ij chi ri { -vendor-short-name } yeruchäp samajel chuqa' k'exonel taq tzij. Konojel ri taq tzij xkeyujtäj pa 30 q'ij.
-collection-health-report-telemetry-disabled-link = Tetamäx ch'aqa' chik
-collection-health-report =
-    .label = Tiya' q'ij chi re { -brand-short-name } richin nitaq etamatel taq tzij chuqa' jutzijonem chi re ri { -vendor-short-name }
-    .accesskey = r
-collection-health-report-link = Tetamäx ch'aqa' chik
-collection-studies =
-    .label = Tiya' q'ij chi re ri { -brand-short-name } niyakon chuqa' nusamajij tijonïk
-collection-studies-link = Ketz'et taq rutijonik { -brand-short-name }
-addon-recommendations =
-    .label = Tiya' q'ij chi re { -brand-short-name } ichinan tichilab'en chi kij taq k'amal
-addon-recommendations-link = Tetamäx ch'aqa' chik
-# This message is displayed above disabled data sharing options in developer builds
-# or builds with no Telemetry support available.
-collection-health-report-disabled = Chupül ri kitzijol taq tzij richin nib'an kinuk'ulem re taq alk'walaxinem re'
-collection-backlogged-crash-reports-with-link = Tiya' q'ij chi { -brand-short-name } yerutäq taq rutzijol sachoj emolon pa rub'i' <a data-l10n-name="crash-reports-link">Tetamäx ch'aqa' chik</a>
-    .accesskey = s
 privacy-segmentation-section-header = K'ak'a' taq b'anikil nikutzilaj ri okem pa k'amaya'l
 privacy-segmentation-radio-off =
     .label = Tokisäx ruchilab'exik { -brand-product-name }
@@ -1252,7 +847,6 @@ data-collection-studies-link =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Jikomal
-security-browsing-protection = Q'olonel Rupam chuqa' Itzel Ruchajixik Kema'
 security-enable-safe-browsing =
     .label = Keq'at k'ayew chuqa' q'olonel rupam
     .accesskey = K
@@ -1266,16 +860,6 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = Taq ruwujil b'i'aj
-certs-enable-ocsp =
-    .label = Rutzolixik rutzij ri OCSP peyon tzij, ri ruk'u'x taq samaj nikijikib'a' ri kutzil ri taq ruwujil rub'i'
-    .accesskey = p
-certs-view =
-    .label = Titz'et taq Ruwujil b'i'aj…
-    .accesskey = R
-certs-devices =
-    .label = Taq Rokisab'al Jikomal…
-    .accesskey = R
 certs-devices-enable-fips = Titzij ruwäch FIPS
 space-alert-over-5gb-settings-button =
     .label = Tijaq taq runuk'ulem
@@ -1285,15 +869,10 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } tajin majun rupam
 
 ## Privacy Section - HTTPS-Only
 
-httpsonly-header = HTTPS-Only B'anikil
-httpsonly-description = Ri HTTPS nuya' jun jikïl chuqa' ewäl rusik'ixik okem chi kikojol ri { -brand-short-name } chuqa' ri ajk'amaya'l taq ruxaq ye'atz'ët. B'ama konojel ri ajk'amaya'l taq ruxaq yekik'ül ri HTTPS, chuqa' we tzijïl ri HTTPS-Only b'anikil, ri { -brand-short-name } xkeruk'ëx konojel ri taq okem pa HTTPS.
-httpsonly-learn-more = Tetamäx ch'aqa' chik
 httpsonly-radio-enabled =
     .label = Titzij HTTPS-Only B'anikil chi jun taq tzuwäch
 httpsonly-radio-enabled-pbm =
     .label = Titzij HTTPS-Only B'anikil xa xe pa jun ichinan taq tzuwäch
-httpsonly-radio-disabled =
-    .label = Man titzij HTTPS-Only B'anikil
 
 ## DoH Section
 
@@ -1313,7 +892,6 @@ preferences-doh-status-disabled = Tichup
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Man tzijïlta ({ $reason })
-preferences-doh-group-message = Tatzij ri jikïl DNS rik'in rokisaxik:
 preferences-doh-expand-section =
     .tooltiptext = Ch'aqa' chik rutzijol
 preferences-doh-setting-default =
@@ -1326,7 +904,6 @@ preferences-doh-setting-off =
     .accesskey = u
 preferences-doh-off-desc = Tawokisaj ri ruchojmirisaxel DNS k'o wi
 preferences-doh-select-resolver = Ticha' ya'öl samaj:
-preferences-doh-exceptions-description = { -brand-short-name } man xtrokisaj ta jikïl DNS pa re taq ruxaq re'
 preferences-doh-manage-exceptions =
     .label = Kenuk'samajïx taq Man Relik Ta...
     .accesskey = R
@@ -1335,4 +912,3 @@ preferences-doh-manage-exceptions =
 
 desktop-folder-name = Kematz'ib'ab'äl
 downloads-folder-name = Taq qasanïk
-choose-download-folder-title = Ticha' yakwuj, ri xkeruyäk taq qasanïk:

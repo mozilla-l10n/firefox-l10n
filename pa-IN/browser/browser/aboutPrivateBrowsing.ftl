@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਖੋਲ੍ਹੋ
     .accesskey = P
 about-private-browsing-search-placeholder = ਵੈੱਬ ‘ਤੇ ਲੱਭੋ
-about-private-browsing-info-title = ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ’ਚ ਹੋ
 about-private-browsing-search-btn =
     .title = ਵੈੱਬ ‘ਤੇ ਖੋਜੋ
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = { $engine } ਨਾਲ ਖੋਜ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
 about-private-browsing-handoff-text-no-engine = ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
 about-private-browsing-not-private = ਇਸ ਸਮੇਂ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਨਹੀਂ ਵਰਤ ਰਹੇ ਹੋ।
-about-private-browsing-info-description-private-window = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ: ਜਦੋਂ ਤੁਸੀਂ ਸਾਰੀਆਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਨੂੰ ਬੰਦ ਕਰ ਦਿੰਦੇ ਹੋ ਤਾਂ { -brand-short-name } ਤੁਹਾਡੇ ਖੋਜ ਅਤੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਅਤੀਤ ਨੂੰ ਮਿਟਾ ਦਿੰਦਾ ਹੈ, ਪਰ ਇਹ ਤੁਹਾਨੂੰ ਅਣਪਛਾਤਾ (anonymous) ਨਹੀਂ ਬਣਾਉਂਦਾ ਹੈ।
-about-private-browsing-info-description-simplified = ਜਦੋਂ ਤੁਸੀਂ ਸਾਰੀਆਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਨੂੰ ਬੰਦ ਕਰ ਦਿੰਦੇ ਹੋ ਤਾਂ { -brand-short-name } ਤੁਹਾਡੇ ਖੋਜ ਅਤੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਅਤੀਤ ਨੂੰ ਮਿਟਾ ਦਿੰਦਾ ਹੈ, ਪਰ ਇਹ ਤੁਹਾਨੂੰ ਅਣਪਛਾਤਾ (anonymous) ਨਹੀਂ ਬਣਾਉਂਦਾ ਹੈ।
-about-private-browsing-learn-more-link = ਹੋਰ ਜਾਣੋ
 about-private-browsing-hide-activity = ਆਪਣੀ ਸਰਗਰਮੀ ਤੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਓ, ਜਿੱਥੇ ਵੀ ਤੁਸੀੰ ਬਰਾਊਜ਼ ਕਰੋ
 about-private-browsing-get-privacy = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰੋ ਤਾਂ ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆ ਹਾਸਲ ਕਰੋ
 about-private-browsing-hide-activity-1 = { -mozilla-vpn-brand-name } ਨਾਲ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਸਰਗਰਮੀ ਅਤੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਓ। ਇੱਕ ਕਲਿੱਕ ਰਕੇ ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ ਬਣਾਓ, ਪਬਲਿਕ ਵਾਈ-ਫਾਈ ਵਰਤਣ ਦੌਰਾਨ ਵੀ।
@@ -29,8 +25,6 @@ about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ਨਾਲ ਪ
 about-private-browsing-focus-promo-cta = { -focus-brand-name } ਡਾਊਨਲੋਡ ਕਰੋ
 about-private-browsing-focus-promo-header = { -focus-brand-name }: ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਤੁਹਾਡੇ ਨਾਲ ਨਾਲ
 about-private-browsing-focus-promo-text = ਸਾਡੀ ਸਮਰਪਿਤ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਮੋਬਾਈਲ ਐਪ ਹਰ ਵਾਰ ਤੁਹਾਡੇ ਅਤੀਤ ਅਟੇ ਕੂਕੀਜ਼ ਨੂੰ ਮਿਟਾ ਦਿੰਦੀ ਹੈ।
-about-private-browsing-focus-promo-header-b = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਆਪਣੇ ਫ਼ੋਨ ਉੱਤੇ ਨਾਲ ਰੱਖੋ
-about-private-browsing-focus-promo-text-b = ਉਹ ਪ੍ਰਾਈਵੇਟ ਖੋਜਾਂ, ਜੋ ਕਿ ਤੁਸੀਂ ਚਾਹੁੰਦੇ ਹੋ ਕਿ ਤੁਹਾਡੇ ਮੁੱਖ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਨੂੰ ਪਤਾ ਨਾ ਲੱਗਣ, ਲਈ { -focus-brand-name } ਵਰਤੋਂ।
 about-private-browsing-focus-promo-header-c = ਮੋਬਾਈਲ ਉੱਤੇ ਅਗਲੇ ਪੜਾਅ ਦੀ ਪਰਦੇਦਾਰੀ
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } ਤੁਹਾਡੇ ਅਤੀਤ ਨੂੰ ਹਰ ਵਾਰ ਮਿਟਾਉਣ ਦੇ ਨਾਲ ਨਾਲ ਇਸ਼ਤਿਹਾਰਾਂ ਤੇ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦਾ ਹੈ।
 # This string is the title for the banner for search engine selection
@@ -66,11 +60,6 @@ about-private-browsing-relay-promo-link-text = ਈਮੇਲ ਮਾਸਕਾਂ �
 
 ## Strings used in a promotion message for cookie banner reduction
 
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = ਕੂਕੀ ਬੈਨਰਾਂ ਨੂੰ ਘਟਾਓ!
-about-private-browsing-cookie-banners-promo-button = ਕੂਕੀਜ਼ ਬੈਨਰਾਂ ਨੂੰ ਘਟਾਓ
-about-private-browsing-cookie-banners-promo-message = { -brand-short-name } ਨੂੰ ਤੁਹਾਡੇ ਲਈ ਆਪਣੇ-ਆਪ ਹੀ ਕੂਕੀ ਪੌਪ-ਅੱਪ ਲਈ ਕਾਰਵਾਈ ਕਰਨ ਦਿਓ ਤਾਂ ਕਿ ਤੁਸੀਂ ਬਿਨਾਂ ਰੁਕਾਵਟ ਦੇ ਬਰਾਊਜ਼ ਕਰ ਸਕੋ। ਜਦੋਂ ਵੀ ਸੰਭਵ ਹੁੰਦਾ ਹੈ ਤਾਂ { -brand-short-name } ਸਭ ਬੇਨਤੀਆਂ ਨੂੰ ਰੱਦ ਕਰੇਗਾ।
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } ਤੁਹਾਡੇ ਲਈ  ਕੂਕੀ ਬੈਨਰਾਂ ਨਾਲ ਨਿਪਟਦਾ ਹੈ

@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Doonloadin update — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Doonloadin update — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Doonloadin update — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Instawin update...
 update-failed = Update misgaed. <label data-l10n-name="failed-link">Doonload the latest version</label>
 update-failed-main = Update misgaed. <a data-l10n-name="failed-link-main">Doonload the latest version</a>
-update-adminDisabled = Updates disabled by yer system admeenistrator
 update-noUpdatesFound = { -brand-short-name } is up tae date
 settings-update-no-updates-found =
     .label = { -brand-short-name } is up tae date
@@ -61,8 +59,6 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } is designt by <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a <label data-l10n-name="community-creditsLink">warldwide community</label> wirkin thegither fur tae keep the Wab open, public, and wi ingang fur aw.
 helpus = Want tae help? <label data-l10n-name="helpus-donateLink">Mak a contreebution</label> or <label data-l10n-name="helpus-getInvolvedLink">get involved!</label>
 bottomLinks-license = Licensin Information
-bottomLinks-rights = End-Yaiser Richts
-bottomLinks-privacy = Privacy Policy
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

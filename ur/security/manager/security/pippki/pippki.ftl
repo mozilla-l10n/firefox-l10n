@@ -27,8 +27,8 @@ pippki-reset-password-confirmation-message = آپ کا بنیادی پاس ور�
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = تصدیق نامہ ڈاؤن لوڈ کر رہا ہے
     .style = min-width: 46em
+    .title = تصدیق نامہ ڈاؤن لوڈ کر رہا ہے
 download-cert-message = آپ کو نئی مقتدرہ تصدیق نامہ (سی اے) پر بھروسے کے لیے کہا گیا ہے۔
 download-cert-trust-ssl =
     .label = ویب سائٹیں شناخت کرنے کے لیے اس CA پر بھروسا کریں۔
@@ -43,8 +43,6 @@ download-cert-view-text = سی اے تصدیق نامہ معائنہ کریں
 
 client-auth-window =
     .title = صارف شناختی فرمائش
-client-auth-site-description = اس سائٹ نے فرمائش کی ہے کہ آپ خود کو ایک تصدیق نامے کے ذریعے شناخت کرائیں:
-client-auth-choose-cert = وئی تصدیق نامہ بطور شناخت  پیش کرنے کے لیےانتخاب کریں:
 client-auth-cert-details = منتخب شدہ تصدیق ناموں کی تفصیلات:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

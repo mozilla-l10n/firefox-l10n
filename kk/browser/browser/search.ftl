@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Сіздің негізгі іздеу жүйеңіз өзгертілген.</strong> { $oldEngine } енді { -brand-short-name } ішінде енді қолжетімсіз. Негізгі іздеуі жүйеңіз енді { $newEngine }. Басқа іздеу жүйесіне ауысу үшін, баптауларға өтіңіз. <label data-l10n-name="remove-search-engine-article">Көбірек білу</label>
 removed-search-engine-message2 = <strong>Сіздің негізгі іздеу жүйеңіз өзгертілген.</strong> { $oldEngine } енді { -brand-short-name } ішінде енді қолжетімсіз. Негізгі іздеуі жүйеңіз енді { $newEngine }. Басқа іздеу жүйесіне ауысу үшін, баптауларға өтіңіз.
 remove-search-engine-button = ОК
 
@@ -52,11 +51,11 @@ install-search-engine-no = Жоқ
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Іздеу жүйесін қосу
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Іздеу жүйесін түзету
     .style = min-width: 32em;
+    .title = Іздеу жүйесін түзету
 add-engine-button = Таңдауыңызша жүйені қосу
 add-engine-name = Іздеу жүйесінің аты
 add-engine-url2 = Іздеу сөзінің орнында %s бар URL
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Іздеу сөзінің орнына %s �
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Іздеу жүйесін қосу
-    .buttonaccesskeyaccept = о
     .buttonlabelextra1 = Кеңейтілген
+    .buttonaccesskeyaccept = о
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Іздеу жүйесін сақтау
-    .buttonaccesskeyaccept = с
     .buttonlabelextra1 = Кеңейтілген
+    .buttonaccesskeyaccept = с

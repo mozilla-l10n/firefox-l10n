@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Ավելին { -vendor-short-name }-ից
 more-from-moz-page-header =
     .heading = Ավելին { -vendor-short-name }-ից
 more-from-moz-category =
@@ -38,7 +37,6 @@ more-from-moz-mozilla-monitor-button = Ստանալ { -monitor-brand-short-name 
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } ԱԲ
 more-from-moz-solo-button = Փորձեք { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = { -solo-ai-brand-name } ԱԲ վեբ-կայքի ստեղծող
 

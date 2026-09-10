@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Aktiver Warp, et prosjekt for å for
 experimental-features-ime-search =
     .label = Adresselinjen: Vis resultater under IME-sammensetning
 experimental-features-ime-search-description = En IME (Input Method Editor) er et verktøy som lar deg skrive inn komplekse symboler, for eksempel de som brukes i østasiatiske eller Indiske skriftspråk, ved hjelp av et standardtastatur. Aktivering av dette eksperimentet holder adresselinjepanelet åpent, viser søkeresultater og forslag mens du bruker IME til å legge inn tekst. Merk at IME kan vise et panel som dekker resultatene i adresselinjen, og derfor er denne preferansen kun anbefalt for IME som ikke bruker denne typen paneler.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Bilde-i-bilde: automatisk åpning når du bytter fane
-experimental-features-auto-pip-description = Aktiver bilde-i-bilde på aktive videoer når du bytter fane.
 experimental-features-group-developer-tools =
     .label = Utviklerverktøy
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Produktivitet
 experimental-features-group-newtab-widgets =
     .label = Widgeter for { -firefox-home-brand-name }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Passord i sidestolpen
-experimental-features-contextual-password-manager-description = Få tilgang til passordene dine direkte fra sidefeltet. Du trenger ikke lenger å lete eller tilbakestille passord når du prøver å logge inn. For å bruke denne funksjonen, velg passord i sidestolpen. Gå deretter til de generelle innstillingene og velg Vis sidestolpe under nettleseroppsett. Tilpass deretter sidestolpen ved å velge passord. Hvis du prøver funksjonen, <a data-l10n-name="connect">gi oss beskjed om hva du synes</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Velg en tilpasset bakgrunn eller farge for Ny fane

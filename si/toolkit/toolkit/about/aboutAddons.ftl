@@ -141,15 +141,10 @@ addon-sitepermission-host = { $host } සඳහා අඩවි අවසර
 
 ## These are global warnings
 
-extensions-warning-safe-mode = ආරක්‍ෂණ ප්‍රකාරය මගින් සියළුම එක්කහු අබල කර ඇත.
-extensions-warning-check-compatibility = එක්කහු ගැළපීම පරීක්‍ෂාව අබල කර ඇත. ඔබ සතුව නොගැළපෙන එක්කහු තිබීමට හැකිය.
-extensions-warning-safe-mode2 =
-    .message = ආරක්‍ෂණ ප්‍රකාරය මගින් සියළුම එක්කහු අබල කර ඇත.
 extensions-warning-check-compatibility2 =
     .message = එක්කහු ගැළපීම පරීක්‍ෂාව අබල කර ඇත. ඔබ සතුව නොගැළපෙන එක්කහු තිබීමට හැකිය.
 extensions-warning-check-compatibility-button = සබල කරන්න
     .title = එක්කහු ගැළපීම පරීක්‍ෂාව සබල කරන්න
-extensions-warning-update-security = එක්කහු යාවත්කාල ආරක්‍ෂණ පරීක්‍ෂාව අබල කර ඇත. යාවත්කාල මගින් බිඳ හෙළීමකට ලක් විය හැකිය.
 extensions-warning-update-security2 =
     .message = එක්කහු යාවත්කාල ආරක්‍ෂණ පරීක්‍ෂාව අබල කර ඇත. යාවත්කාල මගින් බිඳ හෙළීමකට ලක් විය හැකිය.
 extensions-warning-update-security-button = සබල කරන්න
@@ -227,11 +222,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = දිගු සහ තේමා ඔබගේ අතිරික්සුව සඳහා යෙදුම් වැනිය, ඒවා මුරපද ආරක්‍ෂා කිරීමට, දෘශ්‍යක බාගැනීමට, ගනුදෙනු සොයා ගැනීමට, කරදරකාරී දැන්වීම් අවහිර කිරීමට, ඔබගේ අතිරික්සුවේ පෙනුම වෙනස් කිරීමට සහ තවත් බොහෝ දෑ සඳහා උපකාරී වේ. මෙවැනි කුඩා මෘදුකාංග බොහෝ විට තෙවන පාර්ශ්ව විසින් සංවර්ධනය කරයි. මෙය { -brand-product-name } <a data-l10n-name="learn-more-trigger">නිර්දේශ කරන</a> ආරක්‍ෂාව, කාර්ය සාධනය සහ ක්‍රියාකාරීත්‍වයට විශේෂිත තේරීමකි.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = මෙම නිර්දේශවලින් ඇතැම් දෑ පුද්ගලීකරණය කර ඇත. ඒවා ඔබ ස්ථාපනය කර තිබෙන වෙනත් දිගු, පැතිකඩ අභිප්‍රේත සහ භාවිත සංඛ්‍යාලේඛන මත පදනම් වේ.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message = මෙම නිර්දේශවලින් ඇතැම් දෑ පුද්ගලීකරණය කර ඇත. ඒවා ඔබ ස්ථාපනය කර තිබෙන වෙනත් දිගු, පැතිකඩ අභිප්‍රේත සහ භාවිත සංඛ්‍යාලේඛන මත පදනම් වේ.
@@ -291,8 +281,6 @@ addon-detail-last-updated-label = අවසාන යාවත්කාලය
 addon-detail-homepage-label = මුල් පිටුව
 addon-detail-rating-label = ඇගැයුම
 # Message for add-ons with a staged pending update.
-install-postponed-message = { -brand-short-name } නැවත ආරම්භ වන විට මෙම දිගුව යාවත්කාල වේ.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = { -brand-short-name } නැවත ආරම්භ වන විට මෙම දිගුව යාවත්කාල වේ.
 install-postponed-button = යාවත්කාල කරන්න
@@ -313,9 +301,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> ඉවත් කර ඇත.
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = { $addon } ඉවත් කර ඇත.
 pending-uninstall-undo-button = පෙරසේ
@@ -332,11 +317,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = පෞද්. කවුළුවල ඉඩ දී ඇත
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = පෞද්. කවුළුවල ඉඩ දී ඇත
 addon-detail-private-browsing-allow = ඉඩ දෙන්න
 addon-detail-private-browsing-disallow = ඉඩ නොදෙන්න
@@ -358,17 +338,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = අපගේ ආරක්‍ෂණ හා කාර්ය සාධන ප්‍රමිතීන් සපුරාලන දිගු පමණක් { -brand-product-name } නිර්දේශ කරයි.
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = මොසිල්ලා තනන ලද නිල එක්කහුවකි. ආරක්‍ෂණ හා කාර්ය සාධන ප්‍රමිතීන් සපුරාලයි.
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = මෙම දිගුව අපගේ ආරක්‍ෂණ සහ කාර්ය සාධන ප්‍රමිතීන් සපුරාලන්නේ දැයි සමාලෝචනය කර ඇත
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -380,7 +349,6 @@ available-updates-heading = තිබෙන යාවත්කාල
 recent-updates-heading = මෑත යාවත්කාල
 release-notes-loading = පූරණය වෙමින්…
 release-notes-error = කණගාටුයි, නිකුතු සටහන් පූරණය කිරීමේදී දෝෂයකි.
-addon-permissions-empty = මෙම දිගුවට කිසිදු අවසරයක් අවශ්‍ය නොවේ
 addon-permissions-learnmore = අවසර ගැන තව දැනගන්න
 recommended-extensions-heading = නිර්දේශිත දිගු
 recommended-themes-heading = නිර්දේශිත තේමා
@@ -414,25 +382,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { -brand-short-name } { $version } සමඟ { $name } නොගැළපෙයි.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { -brand-short-name } { $version } සමඟ { $name } නොගැළපෙයි.
-details-notification-incompatible-link = තව තොරතුරු
-details-notification-unsigned-and-disabled = { -brand-short-name } හි භාවිතය සඳහා { $name } සත්‍යාපනය කළ නොහැකි බැවින් අබල කර ඇත.
 details-notification-unsigned-and-disabled2 =
     .message = { -brand-short-name } හි භාවිතය සඳහා { $name } සත්‍යාපනය කළ නොහැකි බැවින් අබල කර ඇත.
-details-notification-unsigned-and-disabled-link = වැඩිදුර තොරතුරු
-details-notification-unsigned = { -brand-short-name } හි භාවිතයට { $name } සත්‍යාපනය කළ නොහැකිය. ප්‍රවේශම්ව ඉදිරියට යන්න.
 details-notification-unsigned2 =
     .message = { -brand-short-name } හි භාවිතයට { $name } සත්‍යාපනය කළ නොහැකිය. ප්‍රවේශම්ව ඉදිරියට යන්න.
-details-notification-unsigned-link = වැඩිදුර තොරතුරු
-details-notification-blocked = ආරක්‍ෂණ හෝ ස්ථායිතා දෝෂ නිසා { $name } අබල කර ඇත.
-details-notification-blocked-link = වැඩිදුර තොරතුරු
-details-notification-softblocked = { $name } හි ආරක්‍ෂණ හෝ ස්ථායිතා දෝෂ තිබේ.
-details-notification-softblocked-link = වැඩිදුර තොරතුරු
-details-notification-gmp-pending = { $name } මොහොතකින් ස්ථාපනය වනු ඇත.
 details-notification-gmp-pending2 =
     .message = { $name } මොහොතකින් ස්ථාපනය වනු ඇත.
 

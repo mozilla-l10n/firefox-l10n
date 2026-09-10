@@ -36,9 +36,6 @@ unified-extensions-item-message-manage = Manage extension
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = { $extensionName } is restricted. Using it may be risky.
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName } violates Mozilla’s policies. Using it may be risky.
 
 ## Extension's context menu
 
@@ -57,8 +54,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Some extensions are not allowed
-unified-extensions-mb-quarantined-domain-message = Only some extensions monitored by { -vendor-short-name } are allowed on this site to protect your data.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Some extensions are not allowed
@@ -74,13 +69,6 @@ unified-extensions-mb-blocklist-warning-single2 =
         This extension is restricted and has been disabled.
         You can enable it in settings, but this may be risky.
 # Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } disabled
-    .message =
-        This extension violates Mozilla’s policies and has been disabled.
-        You can enable it in settings, but this may be risky.
-# Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } disabled
@@ -94,16 +82,6 @@ unified-extensions-mb-blocklist-warning-multiple2 =
         }
     .message =
         Some of your extensions are restricted and have been disabled.
-        You can enable them in settings, but this may be risky.
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-           *[other] { $extensionsCount } extensions disabled
-        }
-    .message =
-        Some of your extensions have been disabled for violating Mozilla’s policies.
         You can enable them in settings, but this may be risky.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.

@@ -31,7 +31,6 @@ inactive-css-first-line-pseudo-element-not-supported = ::first-line pseudo-eleme
 inactive-css-first-letter-pseudo-element-not-supported = ::first-line pseudo-elements اُتے <strong>{ $property }</strong> حمایت یافتہ کائنی۔
 inactive-css-placeholder-pseudo-element-not-supported = ::placeholder pseudo-elements اُتے <strong>{ $property }</strong>حمایت یافتہ کائنی
 inactive-css-property-because-of-display = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر کائنی کیوں جو ایندے وِچ <strong>{ $display }</strong> دا ڈسپلے ہے۔
-inactive-css-not-display-block-on-floated = انجݨ دے ذریعہ <strong>ڈسپلے</strong> دی قدر کوں <strong>بلاک</strong> وِچ تبدیل کر ݙتا ڳیا ہے کیوں جو عنصر <strong>فلوٹ</strong> ہے۔
 inactive-css-not-display-block-on-floated-2 = انجݨ دے ذریعہ <strong>ڈسپلے</strong> دی قدر کوں <strong>{ $display }</strong> وِچ تبدیل کر ݙتا ڳیا ہے کیوں جو عنصر <strong>فلوٹ</strong> ہے۔
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر کائنی کیوں جو ایہ گرڈ یا فلیکس آئٹماں تے  کائنی ورتیج سڳدی۔
 inactive-css-not-block = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر نہیں تھیندا کیوں جو ایہ صرف بلاک لیول دے عناصر تے لاگو تھیندا ہے۔
@@ -48,16 +47,6 @@ inactive-css-not-table-cell = <strong>{ $property }</strong> دا ایں عنص�
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر نہیں تھیندا ہے کیوں جو ایہ سکرول نہیں تھیندا ہے۔
 inactive-css-border-image = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر کائنی کیوں جو اینکوں اندرونی ٹیبل عناصر تے لاگو نہیں کیتا ونڄ سڳدا جتھاں <strong>بارڈر-کولپس</strong> کوں <strong> ڈھاہݨ </strong> تے سیٹ کیتا ڳیا ہے۔ پیرنٹ ٹیبل عنصر۔
 inactive-css-ruby-element = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر کائنی کیوں جو ایہ ہک روبی عنصر ہے۔ اوندا سائز روبی ٹیکسٹ دے فونٹ سائز نال طے تھیندا ہے۔
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> نمایاں کِیتے ڳئے سیوڈو عناصر اُتے حمایت یافتہ کائنی۔
 inactive-css-cue-pseudo-element-not-supported = کیو سیوڈو-عناصر:: اُتے <strong>{ $property }</strong> حمایت یافتہ کائنی
 # Variables:

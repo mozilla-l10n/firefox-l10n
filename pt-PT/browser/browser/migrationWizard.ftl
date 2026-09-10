@@ -70,7 +70,6 @@ migration-bookmarks-option-label = Marcadores
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favoritos
-migration-logins-and-passwords-option-label = Credenciais e palavras-passe guardadas
 migration-passwords-option-label = Palavras-passe guardadas
 migration-history-option-label = Histórico de navegação
 migration-extensions-option-label = Extensões
@@ -204,8 +203,6 @@ migration-chrome-windows-password-import-step4 = Retorne aqui e “Selecione fic
 migration-manual-password-import-skip-button = Ignorar
 migration-manual-password-import-cancel-button = Cancelar
 migration-manual-password-import-select-button = Selecionar ficheiro
-migration-safari-password-import-skip-button = Ignorar
-migration-safari-password-import-select-button = Selecionar ficheiro
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #

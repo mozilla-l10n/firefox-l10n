@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Rhagor gan { -vendor-short-name }
 more-from-moz-page-header =
     .heading = Rhagor gan { -vendor-short-name }
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } Symudol
 more-from-moz-firefox-mobile-description = Y porwr symudol sy'n rhoi eich preifatrwydd yn gyntaf.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } Symudol
 more-from-moz-firefox-mobile =
-    .label = { -brand-product-name } Symudol
     .description = Y porwr symudol sy'n blaenoriaethu'ch preifatrwydd
+    .label = { -brand-product-name } Symudol
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Darganfyddwch haen ychwanegol o bori ac diogelwch dienw.
 more-from-moz-qr-code-box-firefox-mobile-title = Llwythwch i lawr gan ddefnyddio'ch dyfais symudol. Pwyntiwch eich camera at y cod QR. Pan fydd dolen yn ymddangos, tapiwch ef.
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = Cael { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Adfer  yn awtomatig eich manylion personol a ddatgelwyd.
 more-from-moz-mozilla-monitor-global-description = Derbyn rhybuddion pan fydd eich data wedi'i ddatgelu.
 more-from-moz-mozilla-monitor-button = Cael { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Crëwch eich gwefan yn syth a chysylltu'ch parth personol eich hun am ddim.
 more-from-moz-solo-button = Rhowch gynnig ar { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = { -solo-ai-brand-name } Crëwr Gwefannau AI
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = E-bostiwch y ddolen llwytho i'ch ffôn
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = Canfod lle mae'ch manylion personol wedi'u hamlygu ar-lein gyda sgan am ddim.
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = Cael diogelwch ychwanegol ar gyfer eich holl apiau — nid dim ond eich porwr. Cadwch eich data'n ddiogel ar Wi-Fi cyhoeddus a rhwydweithiau anniogel.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = Diogelwch eich blwch derbyn rhag sbam gydag arallenwau e-byst am ddim.
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = Dysgwch ddatblygu gwe gyda chanllawiau  a chyfeiriadau am ddim.
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = Cael at eich e-byst, calendrau a chysylltiadau gydag un ap cyflym.
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = Crëwch eich gwefan yn syth a chysylltu i'ch parth cyfaddas am ddim.
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = Cynnyrch Newydd { -vendor-short-name }
     .description = Darllenwch am ei syniadau diweddaraf a'n technolegau arbrofol
+    .label = Cynnyrch Newydd { -vendor-short-name }
 more-from-moz-mozilla-monitor-box-link =
     .label = Cael { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =

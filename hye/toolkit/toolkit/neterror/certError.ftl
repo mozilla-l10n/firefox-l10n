@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Վկայագիրը վստահելի չէ, ո
 cert-error-trust-signature-algorithm-disabled = Վկայագիրը վստահելի չէ, քանի որ ստորագրուած է այնպիսի հաշուեկարգով, որը կասեցուել է անվտանգ չլինելու պատճառով։
 cert-error-trust-expired-issuer = Վկայագիրը վստահելի չէ, որովհետեւ թողարկողի արտաւնագիրը սպառուել է։
 cert-error-trust-self-signed = Վկայագիրը վստահելի չէ, որովհետեւ այն ստորագրուել է իր իսկ կողմից։
-cert-error-trust-symantec = GeoTrust-ի, RapidSSL-ի, Symantec-ի, Thawte-ի եւ VeriSign-ի կողմից թողարկուած վկայականներն այղեւս անվտանգ չեն համարուում, որովհետեւ անցեալում արտաւնացման այս մարմիններին չի յաջողուել հետեւել անվտանգութեան փորձարկումներին:
 cert-error-untrusted-default = Վկայագիրը տրամադրող աղբեւրը վստահելի չէ։
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -52,10 +51,6 @@ cert-error-code-prefix-link = Սխալի կոդ՝ <a data-l10n-name="error-code-
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = { $hostname }-ի հետ կապակցման ժամանակ տեղի է ունեցել սխալ։ { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Կայքերը ապացուցում են իրենց ինքնութիւնը վկայականների միջոցով, որոնք թողարկուում են հաւաստագրման մարմինների կողմից։ Դիտարկիչների մեծ մասը այղեւս չի վստահում GeoTrust-ի, RapidSSL-ի, Symantec-ի, Thawte-ի եւ VeriSign-ի կողմից թողարկած վկայագրերին։ { $hostname }-ը աւգտագործում է վկայագիր այս իշխանութիւններից որեւէ մեկի կողմից, ուստի կայքի ինքնութիւնը չի կարող ապացուցուել։
-cert-error-symantec-distrust-admin = Այս խնդրի մասին կարող էք տեղեկացնել կայքի համակարգավարին։
 cert-error-old-tls-version = Այս կայքը չի աջակցում TLS 1.2 հաղորդակարգը, որը { -brand-short-name } ֊ի կողմից աջակցուող նուազագոյն տարբերակն է։
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -64,7 +59,6 @@ cert-error-details-hsts-label = HTTP խիստ փոխանցման անվտանգ�
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP հանրային բանալու ամրացում․{ $hasHPKP }
 cert-error-details-cert-chain-label = Վկայագրի նպատակ.
-open-in-new-window-for-csp-or-xfo-error = Բացել կայքը նոր պատուհանում
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Ձեր անվտանգութիւնն ապահովելու համար { $hostname }չի թոյղատրի { -brand-short-name } ցուցադրել էջը, եթե այլ կայք է ներկառուցուել․ Այս էջը տեսնելու համար բացել այն այղ պատուհանում։
@@ -97,7 +91,6 @@ redirectLoop-title = Էջի ոչ պատշաճ վերաուղղորդում
 unknownSocketType-title = Սպասարկչի կողմից անսպասելի պատասխան
 nssFailure2-title = Չյաջողուեց հաստատել պաշտպանուած կապակցում
 csp-xfo-error-title = { -brand-short-name } չի կարող բացել այս էջը։
-corruptedContentError-title = Եղծուած բովանդակութեան սխալ
 sslv3Used-title = Անվտանգ կապակցումը յաջողուեց
 inadequateSecurityError-title = Ձեր կապն ապահով չէ
 blockedByPolicy-title = Արգելափակուած էջ

@@ -26,22 +26,10 @@ xpinstall-prompt-never-allow =
 xpinstall-prompt-install =
     .label = Gang on tae Instawment
     .accesskey = I
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = Saftware instawment has been disabled by yer system admeenistrator.
 xpinstall-disabled = Saftware instawment is disabled the noo. Click Enable fur tae try aince mair.
 xpinstall-disabled-button =
     .label = Enable
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) is blockit by yer system admeenistrator.
 addon-install-full-screen-blocked = Eik-on instawment isnae allooed while in or afore gangin intae hale-screen mode.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -55,9 +43,6 @@ webext-perms-update-menu-item = { $addonName } requires new permeesions
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Remuive { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Remuive { $name } fae { -brand-shorter-name }?
 addon-removal-button = Remuive
 addon-removal-abuse-report-checkbox = Report this extension tae { -vendor-short-name }
 # Variables:
@@ -109,4 +94,3 @@ addon-local-install-error-not-signed = This eik-on couldnae be instawed acause i
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } couldnae be instawed acause it isnae compatible wi { -brand-short-name } { $appVersion }.
-addon-install-error-blocklisted = { $addonName } couldnae be instawed acause it has a muckle risk o causin stieveness or siccarness problems.

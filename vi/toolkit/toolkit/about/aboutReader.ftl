@@ -4,14 +4,6 @@
 
 about-reader-loading = Đang tải…
 about-reader-load-error = Thất bại khi tải bài viết từ trang
-about-reader-color-scheme-light = Sáng
-    .title = Phối màu sáng
-about-reader-color-scheme-dark = Tối
-    .title = Phối màu tối
-about-reader-color-scheme-sepia = Nâu đỏ
-    .title = Phối màu nâu đỏ
-about-reader-color-scheme-auto = Tự động
-    .title = Phối màu tự động
 about-reader-color-light-theme = Sáng
     .title = Chủ đề sáng
 about-reader-color-dark-theme = Tối
@@ -24,12 +16,6 @@ about-reader-color-gray-theme = Xám
     .title = Chủ đề xám
 about-reader-color-contrast-theme = Tương phản
     .title = Chủ đề tương phản
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time = { $range } phút
 
 ## Reader View text and layout menu
 
@@ -37,14 +23,6 @@ about-reader-toolbar-minus =
     .title = Giảm cỡ chữ
 about-reader-toolbar-plus =
     .title = Tăng cỡ chữ
-about-reader-toolbar-contentwidthminus =
-    .title = Giảm chiều rộng nội dung
-about-reader-toolbar-contentwidthplus =
-    .title = Tăng chiều rộng nội dung
-about-reader-toolbar-lineheightminus =
-    .title = Giảm độ rộng các hàng
-about-reader-toolbar-lineheightplus =
-    .title = Tăng độ rộng các hàng
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -55,7 +33,6 @@ about-reader-font-type-monospace = Monospace
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Đóng chế độ đọc sách
-about-reader-toolbar-type-controls = Kiểu hiển thị
 about-reader-toolbar-text-layout-controls = Văn bản và bố cục
 about-reader-toolbar-theme-controls = Chủ đề
 about-reader-toolbar-savetopocket = Lưu vào { -pocket-brand-name }

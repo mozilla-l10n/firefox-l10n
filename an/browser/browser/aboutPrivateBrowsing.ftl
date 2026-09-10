@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Ubrir una finestra privada
     .accesskey = p
 about-private-browsing-search-placeholder = Buscar en o web
-about-private-browsing-info-title = Yes en una finestra privada
 about-private-browsing-search-btn =
     .title = Mirar en o web
 # Variables

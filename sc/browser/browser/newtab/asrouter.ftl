@@ -62,7 +62,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Sincroniza is sinnalibros tuos in ònnia logu.
-cfr-doorhanger-bookmark-fxa-body = Ite iscoberta! Immoe no abarres chenecustu sinnalibru in is dispositivos tuos. Est tempus de impreare { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = Ite iscoberta! Immoe no abarres chene custu sinnalibru in is dispositivos tuos. Est tempus de creare unu contu.
 cfr-doorhanger-bookmark-fxa-link-text = Sincroniza is sinnalibros immoe…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -74,12 +73,6 @@ fxa-adoption-credit-cards-backup-title = Immoe amus a fàghere una còpia de seg
 fxa-adoption-credit-cards-backup-subtitle = Ampara is mètodos de pagamentu tuos cun una sincronizatzione tzifrada intre dispositivos.
 fxa-adoption-bookmarks-treatment-backup-title = Fatzamus una còpia de seguresa de is sinnalibros tuos
 fxa-adoption-primary-button-label = Registra·ti
-
-## Protections panel
-
-cfr-protections-panel-header = Nàviga chene sighiduras
-cfr-protections-panel-body = Ampara is datos tuos. { -brand-short-name } amparat dae is sighidores prus currentes chi sighint su chi ses faghende in lìnia.
-cfr-protections-panel-link-text = Àteras informatziones
 
 ## What's New toolbar button and panel
 
@@ -175,42 +168,8 @@ mr2022-background-update-toast-primary-button-label = Aberi { -brand-shorter-nam
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Regorda·mi·ddu a pustis
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Proa immoe
-    .accesskey = P
-firefoxview-cfr-secondarybutton = Immoe nono
-    .accesskey = n
-firefoxview-cfr-header-v2 = Recùpera a lestru dae ue dd'aias lassadu
-firefoxview-cfr-body-v2 = Recùpera is ischedas serradas dae pagu, e passa chene interrutziones dae unu dispositivu a s'àteru cun { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Saluda a { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Boles abèrrere cussa ischeda in su telèfonu tuo? Piga·dda. Ti serbit cussu situ chi as bidu immoe immoe? Dd'agatas in { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Càstia comente funtzionat
-firefoxview-spotlight-promo-secondarybutton = Brinca
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Sèbera sa cumbinatzione de colores
-    .accesskey = S
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Colora su navigadore tuo cun { -brand-short-name } cumbinatziones esclusivas ispiradas a is boghes chi ant cambiadu sa cultura.
-colorways-cfr-header-28days = Is cumbinatziones de colores Boghes indipendentes iscadint su 16 de ghennàrgiu
-colorways-cfr-header-14days = Is cumbinatziones de colores Boghes indipendentes iscadint de oe a duas chidas
-colorways-cfr-header-7days = Is cumbinatziones de colores Boghes indipendentes iscadint custa chida
-colorways-cfr-header-today = Is cumbinatziones de colores Boghes indipendentes iscadint oe
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Boles permìtere a { -brand-short-name } de refudare is avisos de testimòngios?
-cfr-cbh-body = { -brand-short-name } podet refudare in automàticu medas de is rechestas de is avisos de testimòngios.
-cfr-cbh-confirm-button = Refuda is avisos de testimòngios
-    .accesskey = R
-cfr-cbh-dismiss-button = Immoe nono
-    .accesskey = n
 cookie-banner-blocker-onboarding-header = { -brand-short-name } at refudadu immoe immoe un’avisu de testimòngios pro tue
 cookie-banner-blocker-onboarding-body = Prus pagas distratziones, prus pagos testimòngios sighende·ti in custu situ.
 cookie-banner-blocker-onboarding-learn-more = Àteras informatziones

@@ -29,10 +29,6 @@ security-software-name = Namn
 security-software-antivirus = Antivirus
 security-software-antispyware = Antispionprogram
 security-software-firewall = Brannmur
-features-title = { -brand-short-name }-funksjonar
-features-name = Namn
-features-version = Versjon
-features-id = ID
 processes-title = Fjernprosessar
 processes-type = Type
 processes-count = Mengde
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] Profilmappe
        *[other] Profilmappe
     }
-app-basics-enabled-plugins = Påslåtte programtillegg
 app-basics-build-config = Bygginnstillingar
 app-basics-user-agent = Brukaragent
 app-basics-os = OS
@@ -96,9 +91,6 @@ show-dir-label =
 environment-variables-title = Miljøvariablar
 environment-variables-name = Namn
 environment-variables-value = Verdi
-experimental-features-title = Eksperimentelle funksjonar
-experimental-features-name = Namn
-experimental-features-value = Verdi
 modified-key-prefs-title = Viktige endra innstillingar
 modified-prefs-name = Namn
 modified-prefs-value = Verdi
@@ -220,9 +212,6 @@ media-cdm-capabilities = Eigenskapar
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Fri start
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = HDCP 2.2-kompatibel
 
 ##
 
@@ -394,8 +383,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Avslått av ekperiment
-fission-status-experiment-treatment = Slått på av eksperiment
 fission-status-disabled-by-e10s-env = Slåt av av miljøet
 fission-status-enabled-by-env = Slått på av miljøet
 fission-status-disabled-by-env = Deaktivert av miljøet
@@ -404,7 +391,6 @@ fission-status-disabled-by-default = Slått av som standard
 fission-status-enabled-by-user-pref = Slått på av brukar
 fission-status-disabled-by-user-pref = Slått av av brukar
 fission-status-disabled-by-e10s-other = E10s slått av
-fission-status-enabled-by-rollout = Aktivert av stegvis utrulling
 async-pan-zoom = Asynkron pan/zoom
 apz-none = ingen
 wheel-enabled = Hjulinnmating slått på

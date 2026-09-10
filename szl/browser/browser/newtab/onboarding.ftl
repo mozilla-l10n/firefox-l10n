@@ -28,12 +28,6 @@ return-to-amo-add-theme-label = Przidej motyw
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Postymp: krok { $current } ze { $total }
 # This button will open system settings to turn on prefers-reduced-motion

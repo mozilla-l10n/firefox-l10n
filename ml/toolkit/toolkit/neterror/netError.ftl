@@ -23,17 +23,13 @@ neterror-override-exception-button = അപകടസാധ്യത സ്വീ
 neterror-pref-reset-button = തനിമട്ട ക്രമീകരണങ്ങളെ വീണ്ടെടുക്കുക
 neterror-return-to-previous-page-button = തിരികെ പോകൂ
 neterror-return-to-previous-page-recommended-button = തിരികെ പോവുക (ശുപാർശചെയ്തതു്)
-neterror-try-again-button = വീണ്ടും ശ്രമിക്കുക
 neterror-add-exception-button = ഈ സൈറ്റിനായി എപ്പോഴും തുടരുക
 neterror-settings-button = ഡി.എൻ.എസ് ക്രമീകരണങ്ങൾ മാറ്റുക
 neterror-view-certificate-link = പ്രമാണപത്രം കാണുക
-neterror-trr-continue-this-time = ഈ പ്രാവിശ്യം തുടരുക
-neterror-disable-native-feedback-warning = എപ്പോഴും തുടരുക
 
 ##
 
 neterror-pref-reset = ഇതിനു കാരണം നെറ്റ്‍വർക്ക് സുരക്ഷ ക്രമീകരണങ്ങളാണെന്നു തോന്നുന്നു. സ്ഥിരസ്ഥിതി ക്രമീകരണങ്ങൾ പുനഃസ്ഥാപിക്കേണ്ടതുണ്ടോ?
-neterror-error-reporting-automatic = ക്ഷുദ്രകരമായ സൈറ്റുകൾ തിരിച്ചറിയാനും തടയാനും സഹായിക്കുന്നതിന് ഇതുപോലുള്ള പിശകുകൾ { -vendor-short-name }-യെ അറിയിക്കുക
 
 ## Specific error messages
 
@@ -53,18 +49,11 @@ neterror-dns-not-found-hint-check-network = ഗോളാന്തരവല സ�
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name }-നു് { $trrDomain }-ലേക്കു് ബന്ധപ്പെടാൻ പറ്റിയില്ല.
-neterror-dns-not-found-trr-offline = താങ്ങൾ ഗോളാന്തരവലയുമായി ചേൎന്നിട്ടില്ല.
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain }-നു് ഈ വെബിടം കണ്ടെത്താൻ പറ്റിയില്ല
 neterror-dns-not-found-trr-server-problem = { $trrDomain }-ൽ ഒരു കുഴപ്പമുണ്ടായി
 neterror-dns-not-found-bad-trr-url = URL അസാധുവാണ്
 neterror-dns-not-found-system-sleep = വ്യവസ്ഥ ഉറക്ക പരിയിലാണു്.
 neterror-dns-not-found-trr-unknown-problem = പ്രതീക്ഷിക്കാത്ത കുഴപ്പം
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name }-നു് { $trrDomain }-ലേക്കു് ബന്ധപ്പെടാൻ പറ്റിയില്ല.
 
 ##
 
@@ -72,8 +61,6 @@ neterror-file-not-found-filename = ടൈപ്പ് ചെയ്യുന്�
 neterror-file-not-found-moved = ഫയല്‍ നീക്കം ചെയ്യുകയോ,പേര് മാറ്റുകയോ അല്ലെങ്കില്‍  വെട്ടി നീക്കുകയോ മറ്റോ ചെയ്തോ എന്ന് പരിശോധിക്കുക.
 neterror-unknown-protocol = ഈ വിലാസം തുറക്കുവാനായി മറ്റ്‌ സോഫ്റ്റ്‌വെയറുകള്‍ ഇന്‍‌സ്റ്റോള്‍ ചെയ്യേണ്ടതായി വന്നേക്കാം
 neterror-redirect-loop = ഈ പ്രശ്നം ചിലപ്പോള്‍ കുക്കികള്‍ നിഷേധിക്കുന്നതു കൊണ്ടോ, കുക്കികള്‍ നിര്‍വീര്യമാക്കുന്നതു കൊണ്ടോ സംഭവിക്കുന്നതാവാം
-neterror-unknown-socket-type-psm-installed = പേഴ്സണല്‍ സെക്യൂരിറ്റി മാനേജര്‍ നിങ്ങളുടെ സിസ്റ്റത്തില്‍ ഇന്‍‌സ്റ്റോള്‍ ചെയ്തിട്ടുണ്ട്‌ എന്നു് ഉറപ്പു് വരുത്തുക.
-neterror-unknown-socket-type-server-config = എത്‌ ചിലപ്പോള്‍ സെര്‍വറിന്റെ നിലവാരമില്ലാത്ത ക്രമീകരണം മൂലമാകാം.
 neterror-not-cached-intro = { -brand-short-name } -ന്റെ ക്യാഷില്‍ ആവശ്യപ്പെട്ട രേഖ ലഭ്യമല്ല.
 neterror-not-cached-sensitive = സുരക്ഷ എന്ന നിലയില്‍, സെന്‍സിറ്റീവ് രേഖകള്‍ക്കായി { -brand-short-name } ഓട്ടോമാറ്റിക്കായി വീണ്ടും ആവശ്യപ്പെടുന്നില്ല.
 neterror-not-cached-try-again = വെബ്സൈറ്റില്‍ നിന്നും രേഖ വീണ്ടും ആവശ്യപ്പെടുന്നതിനായി വീണ്ടും ശ്രമിയ്ക്കുക ക്ലിക്ക് ചെയ്യുക.

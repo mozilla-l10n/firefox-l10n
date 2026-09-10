@@ -36,9 +36,6 @@ unified-extensions-item-message-manage = Διαχείριση επέκτασης
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = Το { $extensionName } είναι περιορισμένο. Η χρήση του ενδέχεται να είναι επικίνδυνη.
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = Η επέκταση { $extensionName } παραβιάζει τις πολιτικές της Mozilla. Η χρήση της ενδέχεται να είναι επικίνδυνη.
 
 ## Extension's context menu
 
@@ -57,8 +54,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Ορισμένες επεκτάσεις δεν επιτρέπονται
-unified-extensions-mb-quarantined-domain-message = Επιτρέπονται μόνο ορισμένες επεκτάσεις που εποπτεύονται από τη { -vendor-short-name } σε αυτόν τον ιστότοπο για την προστασία των δεδομένων σας.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Ορισμένες επεκτάσεις δεν επιτρέπονται
@@ -74,13 +69,6 @@ unified-extensions-mb-blocklist-warning-single2 =
         Αυτή η επέκταση είναι περιορισμένη και έχει απενεργοποιηθεί.
         Μπορείτε να την ενεργοποιήσετε στις ρυθμίσεις, αλλά αυτό ενδέχεται να είναι επικίνδυνο.
 # Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = Το { $extensionName } απενεργοποιήθηκε
-    .message =
-        Αυτή η επέκταση παραβιάζει τις πολιτικές της Mozilla και έχει απενεργοποιηθεί.
-        Μπορείτε να την ενεργοποιήσετε στις ρυθμίσεις, αλλά αυτό μπορεί να είναι επικίνδυνο.
-# Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
     .heading = Το { $extensionName } απενεργοποιήθηκε
@@ -95,16 +83,6 @@ unified-extensions-mb-blocklist-warning-multiple2 =
     .message =
         Ορισμένες από τις επεκτάσεις σας είναι περιορισμένες και έχουν απενεργοποιηθεί.
         Μπορείτε να τις ενεργοποιήσετε στις ρυθμίσεις, αλλά αυτό ενδέχεται να είναι επικίνδυνο.
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-           *[other] Απενεργοποιήθηκαν { $extensionsCount } επεκτάσεις
-        }
-    .message =
-        Μερικές από τις επεκτάσεις σας έχουν απενεργοποιηθεί επειδή παραβιάζουν τις πολιτικές της Mozilla.
-        Μπορείτε να τις ενεργοποιήσετε στις ρυθμίσεις, αλλά αυτό μπορεί να είναι επικίνδυνο.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =

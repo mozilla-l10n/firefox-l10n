@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Excepții
     .style = min-width: 50em
+    .title = Excepții
 permissions-close-key =
     .key = w
 permissions-address = Adresa site-ului web
@@ -80,15 +80,15 @@ permissions-invalid-uri-label = Te rugăm să introduci un nume de gazdă valid
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Excepții pentru protecția îmbunătățită împotriva urmăririi
     .style = { permissions-window2.style }
+    .title = Excepții pentru protecția îmbunătățită împotriva urmăririi
 permissions-exceptions-manage-etp-desc = Poți specifica site-urile web care au dezactivată Protecția îmbunătățită împotriva urmăririi. Introdu adresa exactă a site-ului pe care vrei să îl gestionezi, apoi dă clic pe Adaugă excepție.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Excepții - Cookie-uri și date ale site-urilor
     .style = { permissions-window2.style }
+    .title = Excepții - Cookie-uri și date ale site-urilor
 permissions-exceptions-cookie-desc = Poți specifica ce site-uri web au întotdeauna sau niciodată permisiunea de a folosi cookie-uri și date ale site-urilor.  Tastează adresa exactă a site-ului pe care vrei să-l gestionezi și apoi dă clic pe Blochează, Permite pentru sesiune sau Permite.
 
 ## Exceptions - Clear on Shutdown
@@ -101,58 +101,43 @@ permissions-exceptions-shutdown-clearing-desc = Poți specifica ce site-uri web 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Excepții - Mod numai HTTPS
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Poți opri modul numai HTTPS pentru anumite site-uri web. { -brand-short-name } nu va încerca să actualizeze conexiunea la HTTPS securizat pentru aceste site-uri. Excepțiile nu se aplică ferestrelor private.
+    .title = Excepții - Mod numai HTTPS
 permissions-exceptions-https-only-desc2 = Poți opri modul Numai HTTPS pentru anumite site-uri web. { -brand-short-name } nu va încerca să treacă conexiunea pe HTTPS securizat pentru site-urile respective.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
     .title = Site-uri web admise - ferestre pop-up și redirecționări către părți terțe
-    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = Poți specifica ce site-uri au voie să deschidă ferestre pop-up și să fie redirecționate prin cadre de la terți.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Site-uri web permise - Ferestre pop-up
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Poți specifica ce site-uri web au permisiunea de a deschide ferestre pop-up. Tastează adresa exactă a site-ului căruia vrei să-i oferi permisiunea și apoi clic pe Permite.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Excepții - Date de autentificare salvate
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Nu vor fi salvate date de autentificare pentru următoarele site-uri web
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Excepții - parole salvate
     .style = { permissions-window2.style }
+    .title = Excepții - parole salvate
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } nu va salva parolele pentru site-urile listate aici.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Site-uri web permise - Instalare de extensii
     .style = { permissions-window2.style }
+    .title = Site-uri web permise - Instalare de extensii
 permissions-exceptions-addons-desc = Poți specifica ce site-uri web au permisiunea de a instala suplimente. Tastează adresa exactă a site-ului căruia vrei să-i oferi permisiunea și apoi clic pe Permite.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Setări - Redare automată
     .style = { permissions-window2.style }
+    .title = Setări - Redare automată
 permissions-site-autoplay-desc = Poți gestiona aici site-urile care nu respectă setările implicite de redare automată.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Setări - Permisiuni pentru notificări
     .style = { permissions-window2.style }
+    .title = Setări - Permisiuni pentru notificări
 permissions-site-notification-desc = Următoarele site-uri web au solicitat să îți trimită notificări. Poți alege ce site-uri web au permisiunea de a-ți trimite notificări. De asemenea, poți bloca noile solicitări de permitere a notificărilor.
 permissions-site-notification-disable-label =
     .label = Blochează noile solicitări de permitere a notificărilor
@@ -161,8 +146,8 @@ permissions-site-notification-disable-desc = Acest lucru va împiedica orice sit
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Setări - Permisiuni pentru locație
     .style = { permissions-window2.style }
+    .title = Setări - Permisiuni pentru locație
 permissions-site-location-desc = Următoarele site-uri web au solicitat să îți acceseze locația. Poți specifica ce site-uri web au permisiunea de a-ți accesa locația. De asemenea, poți bloca noile solicitări de accesare a locației tale.
 permissions-site-location-disable-label =
     .label = Blochează noile solicitări de accesare a locației
@@ -171,8 +156,8 @@ permissions-site-location-disable-desc = Acest lucru va împiedica orice site we
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Setări - Permisiuni pentru realitate virtuală
     .style = { permissions-window2.style }
+    .title = Setări - Permisiuni pentru realitate virtuală
 permissions-site-xr-desc = Următoarele site-uri web au solicitat să îți acceseze dispozitivele de realitate virtuală. Poți specifica ce site-uri web au permisiunea de a-ți accesa dispozitivele de realitate virtuală. De asemenea, poți bloca noile solicitări de accesare a dispozitivelor tale de realitate virtuală.
 permissions-site-xr-disable-label =
     .label = Blochează noile solicitări de accesare a dispozitivelor de realitate virtuală
@@ -181,8 +166,8 @@ permissions-site-xr-disable-desc = Acest lucru va împiedica orice site web care
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Setări - Permisiuni pentru cameră
     .style = { permissions-window2.style }
+    .title = Setări - Permisiuni pentru cameră
 permissions-site-camera-desc = Următoarele site-uri web au solicitat să îți acceseze camera. Poți specifica ce site-uri web au permisiunea de a-ți accesa camera. De asemenea, poți bloca noile solicitări de accesare a camerei tale.
 permissions-site-camera-disable-label =
     .label = Blochează noile solicitări de accesare a camerei
@@ -191,8 +176,8 @@ permissions-site-camera-disable-desc = Acest lucru va împiedica orice site web 
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = Setări - aplicații și servicii pe dispozitiv
     .style = { permissions-window2.style }
+    .title = Setări - aplicații și servicii pe dispozitiv
 permissions-site-localhost-desc = Aceste site-uri web au cerut acces la aplicații și servicii pe acest dispozitiv. Poți alege să le permiți sau să le blochezi.
 permissions-site-localhost-disable-label =
     .label = Blochează cererile noi de acces la aplicații și servicii pe acest dispozitiv
@@ -201,8 +186,8 @@ permissions-site-localhost-disable-desc = Va împiedica orice site web care nu e
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = Setări - dispozitive din rețeaua locală
     .style = { permissions-window2.style }
+    .title = Setări - dispozitive din rețeaua locală
 permissions-site-local-network-desc = Aceste site-uri web au cerut acces la aplicații și servicii pe dispozitive conectate la rețeaua ta Wi-Fi sau locală. Poți alege să le permiți sau să le blochezi.
 permissions-site-local-network-disable-label =
     .label = Blochează cererile noi de acces la aplicații și servicii de pe dispozitive conectate la rețeaua ta Wi-Fi sau locală.
@@ -211,8 +196,8 @@ permissions-site-local-network-disable-desc = Va împiedica orice site web care 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Setări - Permisiuni pentru microfon
     .style = { permissions-window2.style }
+    .title = Setări - Permisiuni pentru microfon
 permissions-site-microphone-desc = Următoarele site-uri web au solicitat să îți acceseze microfonul. Poți specifica ce site-uri web au permisiunea de a-ți accesa microfonul. De asemenea, poți bloca noile solicitări de accesare a microfonului tău.
 permissions-site-microphone-disable-label =
     .label = Blochează noile solicitări de accesare a microfonului
@@ -223,12 +208,12 @@ permissions-site-microphone-disable-desc = Acest lucru va împiedica orice site 
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Setări - Permisiuni pentru boxe
     .style = { permissions-window2.style }
+    .title = Setări - Permisiuni pentru boxe
 permissions-site-speaker-desc = Următoarele site-uri web au solicitat selectarea unui dispozitiv de ieșire audio. Poți specifica site-urile web cărora li se permite să selecteze un dispozitiv de ieșire audio.
 permissions-exceptions-doh-window =
-    .title = Excepții de site web pentru DNS prin HTTPS
     .style = { permissions-window2.style }
+    .title = Excepții de site web pentru DNS prin HTTPS
 permissions-exceptions-manage-doh-desc = { -brand-short-name } nu va folosi DNS securizat pe aceste site-uri și subdomeniile lor.
 permissions-doh-entry-field = Introdu numele de domeniu al site-ului web
     .accesskey = d

@@ -24,8 +24,8 @@ pippki-pw-not-wanted = අවවාදයයි! මුරපදයක් භා
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = ප්‍රාථමික මුරපදය යළි සකසන්න
     .style = min-width: 40em
+    .title = ප්‍රාථමික මුරපදය යළි සකසන්න
 reset-password-button-label =
     .label = යළි සකසන්න
 reset-primary-password-text = ඔබගේ ප්‍රාථමික මුරපදය යළි සකසන්නේ නම්, ඔබ ගබඩා කර තිබෙන සියළුම වියමන හා වි-තැපැල් මුරපද මෙන්ම, පෞද්ගලික සහතික සහ යතුරු අමතක කෙරෙනු ඇත. ඔබගේ ප්‍රාථමික මුරපදය යළි සැකසීමට වුවමනා ද?
@@ -35,8 +35,8 @@ pippki-reset-password-confirmation-message = ඔබගේ ප්‍රාථම�
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = සහතිකය බාගැනෙමින්
     .style = min-width: 46em
+    .title = සහතිකය බාගැනෙමින්
 download-cert-message = නව සහතික අධිකාරියක් (CA) විශ්වාස කිරීමට ඉල්ලා ඇත.
 download-cert-trust-ssl =
     .label = අඩවි හඳුනා ගැනීමට මෙම CA විශ්වාස කරන්න.
@@ -51,8 +51,6 @@ download-cert-view-text = CA සහතිකය පිරික්සන්න
 
 client-auth-window =
     .title = පරිශීලක හඳුනාගැනීමේ ඉල්ලීම
-client-auth-site-description = ඔබ විසින්ම සහතිකයක් ආධාරයෙන් හඳුන්වා දෙන ලෙස මෙම අඩවිය ඉල්ලා සිටියි:
-client-auth-choose-cert = හඳුනාගැනීමක් ලෙස ඉදිරිපත් කිරීමට සහතිකයක් තෝරන්න:
 client-auth-send-no-certificate =
     .label = සහතිකයක් යවන්න එපා
 client-auth-cert-details = තේරූ සහතිකයේ තොරතුරු:

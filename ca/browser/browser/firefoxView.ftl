@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Mostra la navegació recent entre finestres i dispositius
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Tanca
-    .aria-label = Tanca
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Ara mateix
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Recull de pestanyes
-firefoxview-tabpickup-description = Accediu a les pàgines obertes des d'altres dispositius.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% completat
-firefoxview-tabpickup-step-signin-header = Canvieu d'un dispositiu a l'altre de forma transparent
-firefoxview-tabpickup-step-signin-description = Per poder recuperar les pestanyes del telèfon des d'aquí, primer inicieu la sessió o creeu un compte.
-firefoxview-tabpickup-step-signin-primarybutton = Continua
 firefoxview-syncedtabs-signin-header-2 = El { -brand-product-name } a tots els vostres dispositius
 firefoxview-syncedtabs-signin-description-2 = Per veure les pestanyes que teniu obertes al telèfon i altres dispositius, inicieu la sessió o registreu-vos per obtenir un compte. Amb un compte, també es poden sincronitzar les contrasenyes, l'historial i molt més.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = De l'ordinador portàtil al telèfon, sense problemes
 firefoxview-syncedtabs-signin-description-3 = Mantingueu la navegació connectada entre dispositius: pestanyes, contrasenyes i historial, tots sincronitzats.
 firefoxview-syncedtabs-signin-primarybutton-2 = Inicia la sessió
-firefoxview-tabpickup-adddevice-header = Sincronitzeu el { -brand-product-name } en el telèfon o tauleta
-firefoxview-tabpickup-adddevice-description = Baixeu el { -brand-product-name } per al mòbil i inicieu-hi la sessió.
-firefoxview-tabpickup-adddevice-learn-how = Vegeu com fer-ho
-firefoxview-tabpickup-adddevice-primarybutton = Instal·la el { -brand-product-name } per al mòbil
 firefoxview-syncedtabs-adddevice-header-2 = Recupereu les pestanyes de qualsevol dispositiu
 firefoxview-syncedtabs-adddevice-description-2 = Inicieu la sessió al { -brand-product-name } des del telèfon o des d'un altre ordinador per veure'n les pestanyes aquí. Obteniu informació sobre com <a data-l10n-name="url">connectar dispositius addicionals</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prova el { -brand-product-name } per al mòbil
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Les vostres pestanyes s'han enviat al telèfon.
 firefoxview-syncedtabs-adddevice-description-3 = Escanegeu el codi QR per a obtenir { -brand-product-name } per al mòbil i comenceu a sincronitzar les pestanyes obertes i més. Apreneu com connectar <a data-l10n-name="url">dispositius addicionals</a>.
-firefoxview-tabpickup-synctabs-header = Activeu la sincronització de pestanyes
-firefoxview-tabpickup-synctabs-description = Permeteu que el { -brand-short-name } comparteixi les pestanyes entre els vostres dispositius.
-firefoxview-tabpickup-synctabs-learn-how = Vegeu com fer-ho
 firefoxview-tabpickup-synctabs-primarybutton = Sincronitza les pestanyes obertes
 firefoxview-tabpickup-synctabs-primarybutton-2 = Activeu la sincronització de pestanyes
 firefoxview-syncedtabs-synctabs-header = Actualitzeu la configuració de sincronització
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Quan hagi acabat, veureu les pestan
 firefoxview-syncedtabs-loading-header-2 = S'estan recuperant les pestanyes...
 firefoxview-syncedtabs-loading-description-2 = Sincronització en curs. Les pestanyes seran aquí aviat.
 firefoxview-tabpickup-fxa-admin-disabled-header = La vostra organització ha desactivat la sincronització
-firefoxview-tabpickup-fxa-admin-disabled-description = El { -brand-short-name } no pot sincronitzar les pestanyes entre dispositius perquè el vostre administrador ha desactivat la sincronització.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = El { -brand-short-name } no pot sincronitzar les pestanyes entre dispositius perquè la vostra organització ha desactivat la sincronització.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = La sincronització de pestanyes està desactivada
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = La vostra organització ha blocat aquesta funció.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Desbloquegeu les pestanyes amb la contrasenya principal
 firefoxview-tabpickup-password-locked-description-2 = Per a la vostra privadesa, les pestanyes sincronitzades estan protegides. Introduïu la contrasenya principal del { -brand-short-name } per veure les pestanyes dels altres dispositius.
 firefoxview-tabpickup-signed-out-header = Inicieu la sessió per tornar a connectar
-firefoxview-tabpickup-signed-out-description = Per a tornar a connectar i recuperar les vostres pestanyes, inicieu la sessió en el { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Per a tornar a connectar i recuperar les vostres pestanyes, inicieu la sessió al vostre compte.
 firefoxview-tabpickup-signed-out-primarybutton = Inicia la sessió
 firefoxview-tabpickup-signed-out-header-2 = Inicieu la sessió per a veure les pestanyes
 firefoxview-tabpickup-signed-out-description-2 = Reconnecta per a veure les pestanyes d'altres dispositius.
-firefoxview-tabpickup-syncing = Espereu mentre se sincronitzen les pestanyes. Només serà un moment.
-firefoxview-mobile-promo-header = Recupereu les pestanyes del telèfon o tauleta
-firefoxview-mobile-promo-description = Per veure les últimes pestanyes que heu obert en el dispositiu mòbil, inicieu la sessió al { -brand-product-name } per a l'iOS o l'Android.
-firefoxview-mobile-promo-primarybutton = Instal·la el { -brand-product-name } per al mòbil
-firefoxview-mobile-confirmation-header = 🎉 Tot llest!
-firefoxview-mobile-confirmation-description = Ara podeu recuperar les pestanyes del { -brand-product-name } des del vostre telèfon o tauleta.
-firefoxview-closed-tabs-title = Tancades recentment
-firefoxview-closed-tabs-description2 = Torneu a obrir les pàgines que heu tancat en aquesta finestra.
-firefoxview-closed-tabs-placeholder-header = No hi ha cap pestanya tancada recentment
-firefoxview-closed-tabs-placeholder-body = Quan tanqueu una pestanya en aquesta finestra, podeu recuperar-la aquí.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Descarta { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Darrera activa
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Obre { $targetURI } en una pestanya nova
-firefoxview-try-colorways-button = Proveu les combinacions de colors
-firefoxview-change-colorway-button = Canvia la combinació de colors
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Encara no hi ha res a veure
-firefoxview-synced-tabs-placeholder-body = La pròxima vegada que obriu una pàgina en el { -brand-product-name } d'un altre dispositiu, la trobareu aquí com per art de màgia.
 firefoxview-collapse-button-show =
     .title = Mostra la llista
 firefoxview-collapse-button-hide =

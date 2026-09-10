@@ -25,20 +25,9 @@ account-send-to-all-devices-titlecase = Ninviar ta totz los dispositivos
 account-manage-devices-titlecase = …Chestionar dispositivos...
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
-## and the account has only 1 device connected.
-
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = No i hai garra dispositivo connectau
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = Saber mas sobre Ninviar Pestanyas…
-# Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = Connectar belatro dispositivo…
-
-## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Cuenta no verificada
-account-send-tab-to-device-verify = Verificar la tuya cuenta…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 

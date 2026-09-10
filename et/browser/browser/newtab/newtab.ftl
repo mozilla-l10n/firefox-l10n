@@ -6,13 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Uus kaart
-newtab-settings-button =
-    .title = Kohanda uue kaardi lehte
-newtab-personalize-icon-label =
-    .aria-label = Kohanda uut kaarti
-    .title = Kohanda uut kaarti
-newtab-personalize-dialog-label =
-    .aria-label = Kohanda
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -85,7 +78,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Lisa otsingumootor
 newtab-topsites-add-shortcut-header = Uus otsetee
-newtab-topsites-edit-topsites-header = Top saidi muutmine
 newtab-topsites-edit-shortcut-header = Muuda otseteed
 newtab-topsites-title-label = Pealkiri
 newtab-topsites-title-input =
@@ -123,20 +115,12 @@ newtab-topsite-sponsored = Sponsitud
 newtab-menu-section-tooltip =
     .aria-label = Ava menüü
     .title = Ava menüü
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Eemalda
-    .title = Eemalda
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Ava { $title } kontekstimenüü
     .title = Ava menüü
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Muuda seda saiti
-    .title = Muuda seda saiti
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -147,22 +131,7 @@ newtab-menu-dismiss = Peida
 newtab-menu-pin = Kinnita
 newtab-menu-unpin = Eemalda kohakinnitus
 newtab-menu-delete-history = Kustuta ajaloost
-newtab-menu-save-to-pocket = Salvesta { -pocket-brand-name }isse
-newtab-menu-delete-pocket = Kustuta { -pocket-brand-name }ist
-newtab-menu-archive-pocket = Arhiveeri { -pocket-brand-name }is
 newtab-menu-show-privacy-info = Meie sponsoritest ja sinu privaatsusest
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Valmis
-newtab-privacy-modal-button-manage = Halda sponsitud sisu sätteid
-newtab-privacy-modal-header = Sinu privaatsus on oluline.
-newtab-privacy-modal-paragraph-2 =
-    Lisaks kaasahaaravatele lugudele näitame sulle ka asjakohast, valitud
-    sponsorite põhjalikult kontrollitud sisu. Võid olla kindel, <strong>et sinu
-    lehitsemise andmed ei lahku sinu { -brand-product-name }ist</strong> — meie
-    ei näe seda ja meie sponsorid ka mitte.
-newtab-privacy-modal-link = Rohkem teavet uue kaardi privaatsuse kohta
 
 ##
 
@@ -216,39 +185,16 @@ newtab-label-source-read-time = { $source } · { $timeToRead } min
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Eemalda osa
-newtab-section-menu-collapse-section = Ahenda osa
-newtab-section-menu-expand-section = Laienda osa
-newtab-section-menu-manage-section = Halda osa
-newtab-section-menu-manage-webext = Halda laiendust
-newtab-section-menu-add-topsite = Lisa top sait
-newtab-section-menu-add-search-engine = Lisa otsingumootor
-newtab-section-menu-move-up = Liiguta üles
-newtab-section-menu-move-down = Liiguta alla
 newtab-section-menu-privacy-notice = Privaatsuspoliitika
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Ahenda osa
-newtab-section-expand-section-label =
-    .aria-label = Laienda osa
 
 ## Section Headers.
 
 newtab-section-header-topsites = Top saidid
 newtab-section-header-recent-activity = Hiljutine tegevus
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } soovitab
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Alusta veebilehitsemist ja me näitame siin häid artikleid, videoid ja muid lehti, mida hiljuti külastasid või järjehoidjatesse lisasid.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Vaata hiljem uuesti, et näha parimaid postitusi teenusepakkujalt { $provider }. Ei suuda oodata? Vali populaarne teema, et leida veel suurepärast sisu internetist.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -259,17 +205,6 @@ newtab-discovery-empty-section-topstories-loading = Laadimine…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Uups! Me peaaegu laadisime selle osa, aga mitte päris.
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Populaarsed teemad:
-newtab-pocket-new-topics-title = Kas soovid veelgi rohkem lugusid? Vaata neid populaarseid teemasid { -pocket-brand-name }ist
-newtab-pocket-more-recommendations = Rohkem soovitusi
-newtab-pocket-learn-more = Rohkem teavet
-newtab-pocket-cta-button = Hangi { -pocket-brand-name }
-newtab-pocket-cta-text = Salvesta oma lemmiklood { -pocket-brand-name }isse.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } on osa { -brand-product-name } perekonnast
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -278,8 +213,6 @@ newtab-error-fallback-refresh-link = Uuesti proovimiseks laadi leht uuesti.
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Otseteed
-newtab-custom-shortcuts-subtitle = Saidid, mida oled külastanud või mille oled salvestanud
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Saidid, mida oled külastanud või mille oled salvestanud
@@ -295,21 +228,6 @@ newtab-custom-row-selector2 =
             [one] { $num } rida
            *[other] { $num } rida
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } rida
-       *[other] { $num } rida
-    }
-newtab-custom-sponsored-sites = Sponsitud otseteed
-newtab-custom-pocket-title = { -pocket-brand-name }i poolt soovitatud
-newtab-custom-pocket-subtitle = Erakordne sisu, mida kureerib { -brand-product-name } perekonda kuuluv { -pocket-brand-name }
-newtab-custom-pocket-sponsored = Sponsitud lood
-newtab-custom-pocket-show-recent-saves = Kuvatakse hiljutisi salvestamisi
-newtab-custom-recent-title = Hiljutine tegevus
-newtab-custom-recent-subtitle = Valik hiljutisi saite ja sisu
-newtab-custom-close-button = Sulge
 newtab-custom-settings = Halda rohkem sätteid
 
 ## Strings for the Clock widget

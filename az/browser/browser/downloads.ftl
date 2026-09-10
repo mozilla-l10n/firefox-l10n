@@ -26,8 +26,6 @@ downloads-cmd-cancel-panel =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = Endirmələr Qovluğunu Göstər
 downloads-cmd-retry =
     .tooltiptext = Təkrar yoxla
 downloads-cmd-retry-panel =

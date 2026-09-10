@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Nagda-download ng update — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Dina-download ang update —<label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Nagda-download ng update — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Inilalapat ang update...
 update-failed = Bigo ang pag-update. <label data-l10n-name="failed-link">I-download ang pinakabagong bersyon</label>
 update-failed-main = Bigo ang pag-update. <a data-l10n-name="failed-link-main">I-download ang pinakabagong bersyon</a>
-update-adminDisabled = Ang pagdadagdag ng mga pagbabago ay pinawalang bisa ng iyong system administrator.
 update-policy-disabled = Ang pag-uupdate ay ipinagbabawal ng iyong organisasyon
 settings-update-policy-disabled =
     .label = Ang pag-uupdate ay ipinagbabawal ng iyong organisasyon
@@ -69,8 +67,6 @@ community-exp = Ang <label data-l10n-name="community-exp-mozillaLink">{ -vendor-
 community-2 = Ang { -brand-short-name } ay idinisenyo ng <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, isang <label data-l10n-name="community-creditsLink">pandaigdigang komunidad</label> na sama-samang nagtutulungan upang ang Web ay mapanatiling malaya, bukas sa publiko at para sa lahat.
 helpus = Nais mo bang tumulong? <label data-l10n-name="helpus-donateLink">Magdonasyon</label> o <label data-l10n-name="helpus-getInvolvedLink">sumali!</label>
 bottomLinks-license = Impormasyon sa Paglisensya
-bottomLinks-rights = Mga Karapatan ng Gumagamit
-bottomLinks-privacy = Patakarang Pangpribasiya
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

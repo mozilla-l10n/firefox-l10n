@@ -263,8 +263,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Profili
 menu-profiles-manage-profiles =
     .label = Upravljaj profilima
 menu-profiles-new-profile =
@@ -288,9 +286,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Proširenja i teme
     .accesskey = P
-menu-tools-addons-and-themes =
-    .label = Dodaci i teme
-    .accesskey = a
 menu-tools-fxa-sign-in2 =
     .label = Prijavi se
     .accesskey = P
@@ -347,8 +342,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Više informacija za rješavanje problema
     .accesskey = v
-menu-help-report-site-issue =
-    .label = Prijavi problem sa stranicom …
 menu-help-share-ideas =
     .label = Dijeli ideje i povratne informacije …
     .accesskey = i

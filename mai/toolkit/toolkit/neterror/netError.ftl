@@ -10,7 +10,6 @@ neterror-page-title = पृष्ठक लोडिंगमे समस्�
 ## Error page actions
 
 neterror-learn-more-link = आओर जानू…
-neterror-try-again-button = फेर कोशिश करू
 
 ## Specific error messages
 
@@ -25,8 +24,6 @@ neterror-file-not-found-filename = कैपिटलाइजेशन अथ�
 neterror-file-not-found-moved = जाँचे ई देखब क लेल जे फाइल खिसकलया, फेर नामकरण कएल अथवा मेटायल गेल छल.
 neterror-unknown-protocol = अहाँ आन साफ्टवेयर कए एहि पता कए खोलबाक लेल स्थापित कए सकैत छी.
 neterror-redirect-loop = ई समस्या कहियो-कहियो कुकीक स्वीकार करब वा निष्क्रिय करबाक कारण होइत अछि.
-neterror-unknown-socket-type-psm-installed = सुनिश्चित करबाक लेल जाँचू जे अहाँक सिस्टम मे निज सुरक्षा प्रबंधक स्थापित अछि .
-neterror-unknown-socket-type-server-config = इ सर्वर पर केकरो गैर मानक विन्यासक कारण भए सकैत अछि.
 neterror-not-cached-intro = The requested document is not available in { -brand-short-name }'s cache.
 neterror-not-cached-sensitive = As a security precaution, { -brand-short-name } does not automatically re-request sensitive documents.
 neterror-not-cached-try-again = Click Try Again to re-request the document from the website.

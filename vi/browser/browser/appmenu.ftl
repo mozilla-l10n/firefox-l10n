@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = Tiện ích mở rộng và chủ đề
 appmenuitem-extensions =
     .label = Tiện ích mở rộng
-appmenuitem-addons-and-themes =
-    .label = Tiện ích mở rộng và chủ đề
 appmenuitem-print =
     .label = In…
 appmenuitem-find-in-page =
@@ -154,7 +152,6 @@ fxa-menu-get-firefox-mobile =
     .label = Tải { -brand-product-name } dành cho Android và iOS
 fxa-menu-secure-sync-subpanel =
     .title = Đồng bộ hóa an toàn
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Tài khoản
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -176,15 +173,6 @@ appmenuitem-save-page =
     .label = Lưu trang dưới dạng…
 appmenuitem-fxa-sync-off-title = Đã tắt đồng bộ hoá
 appmenuitem-fxa-sync-off-description = Bảo mật và truy cập đánh dấu trang, mật khẩu, và nhiều hơn thế từ bất cứ nơi đâu
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Có gì mới
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Thông báo về các tính năng mới
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -326,8 +314,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Thông tin xử lý sự cố khác
     .accesskey = T
-appmenu-help-report-site-issue =
-    .label = Báo cáo vấn đề về trang…
 appmenu-help-share-ideas =
     .label = Chia sẻ ý tưởng và phản hồi…
     .accesskey = S
@@ -393,7 +379,6 @@ appmenuitem-vpn-description5 = Tăng cường khả năng bảo vệ trên tất
 appmenuitem-vpn-title-signed-in1 = Tải xuống { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Bảo vệ toàn diện cho thiết bị
-appmenuitem-vpn-description = Bảo vệ hoạt động trực tuyến của bạn
 appmenu-services-header = Dịch vụ của tôi
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -403,7 +388,6 @@ appmenu-other-protection-header3 = Các công cụ bảo mật
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Hãy thử các công cụ bảo vệ khác từ Mozilla:
-appmenu-other-protection-header = Hãy thử các công cụ bảo vệ khác từ { -vendor-short-name }:
 
 ## Profiles panel
 

@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = Очистить журнал
 sidebar-history-sort-by-heading-menucaption =
     .label = Сортировать по:
-sidebar-history-sort-by-heading = Сортировать по:
 sidebar-history-sort-option-date =
     .label = Дата
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Расширения боковой панели
-sidebar-customize-firefox-tools-header =
-    .label = Инструменты { -brand-product-name }
 sidebar-customize-firefox-settings = Управление настройками { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Вертикальные вкладки
 sidebar-settings2 =
     .label = Настройки
-sidebar-settings =
-    .label = Настройки боковой панели
 sidebar-hide-tabs-and-sidebar =
     .label = Скрыть вкладки и боковую панель
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Управление расширением
-sidebar-context-menu-remove-extension =
-    .label = Удалить расширение
 sidebar-context-menu-report-extension =
     .label = Пожаловаться на расширение
 sidebar-context-menu-open-in-tab =

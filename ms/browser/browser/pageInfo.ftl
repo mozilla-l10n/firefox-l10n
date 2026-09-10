@@ -147,7 +147,6 @@ media-unknown-not-cached =
     .value = Tidak diketahui (tiada cache)
 permissions-use-default =
     .label = Guna Piawai
-security-no-visits = Tidak
 # This string is used to display the type of
 # an image
 # Variables:
@@ -178,11 +177,6 @@ media-file-size = { $size } KB
 ## Variables:
 ##   $website (string) — The url of the website pageInfo is getting info for
 
-# This string is used to display the website name next to the
-# "Block Images" checkbox in the media tab
-media-block-image =
-    .label = Sekat imej dari { $website }
-    .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 page-info-page =

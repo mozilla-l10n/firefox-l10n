@@ -7,7 +7,6 @@
 
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Ձեւը ինքնալրացնելու ընտրանքներ
-autofill-options-link-osx = Ձեւը ինքնալրացնելու կարգաւորումներ
 
 ## The credit card capture doorhanger
 
@@ -25,16 +24,6 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Վիզա
-# The warning text that is displayed for informing users what categories are
-# about to be filled.  The text would be, for example,
-#   Also autofills organization, phone, email.
-# Variables:
-#   $categories - one or more of the categories, see autofill-category-X below
-autofill-phishing-warningmessage-extracategory = Նաեւ ինքնալրացնում է { $categories }-ը
-# Variation when all are in the same category.
-# Variables:
-#   $categories - one or more of the categories
-autofill-phishing-warningmessage = Ինքնալրացնում է { $categories }-ը
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = հասցէ
 autofill-category-name = անուն

@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Synkronoidaan…
 sync-disconnect-dialog-title2 = Katkaistaanko yhteys?
 sync-disconnect-dialog-body = { -brand-product-name } ei enää synkronoi tietoja tilille, mutta mitään tämän laitteen selaustietoja ei poisteta.
 sync-disconnect-dialog-button = Katkaise yhteys
-fxa-signout-dialog2-title = Kirjaudutaanko ulos { -fxaccount-brand-name(case: "ablative") }?
 fxa-signout-dialog-title2 = Haluatko kirjautua ulos tililtäsi?
 fxa-signout-dialog-body = Synkronoidut tiedot säilyvät tililläsi.
 fxa-signout-dialog2-button = Kirjaudu ulos
@@ -43,14 +42,6 @@ fxviewtabrow-send-to-mobile-not-verified = Tiliä ei ole vahvistettu
 fxviewtabrow-send-to-mobile-verify-account = Vahvista tilisi
 fxa-menu-send-to-mobile-turn-on-sync = Ota synkronointi käyttöön lähettääksesi välilehtiä
 fxa-menu-send-to-mobile-connect-device = Yhdistä laite lähettääksesi välilehtiä
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Lähetä välilehti laitteeseen
-           *[other] Lähetä { $tabCount } välilehteä laitteeseen
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Synkronoidaan laitteita…

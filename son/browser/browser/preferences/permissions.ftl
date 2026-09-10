@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Hasarawey
     .style = min-width: 45em
+    .title = Hasarawey
 permissions-close-key =
     .key = w
 permissions-block =
@@ -33,16 +33,6 @@ permissions-capabilities-listitem-allow-session =
 
 permissions-invalid-uri-title = Zunbudoo maa laalo ka damandi
 permissions-invalid-uri-label = Taare war ma zunbudoo maa boryo dam
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-desc = War ga hin ka tabatandi Interneti nungey kaŋ ga biiboŋ bata zanfuney feeri. Nungu kaŋ war ga bag'a aderesu alhakiikaa hantum, de wa Noo fondo naagu.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Hasarawey - huruyan gaabuntey
-    .style = { permissions-window2.style }
 
 ## Exceptions - Add-ons
 

@@ -34,12 +34,6 @@ mr1-return-to-amo-add-extension-label = ເພີ່ມ { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = ຄວາມຄືບໜ້າ: ຂັ້ນຕອນ { $current } ຂອງ { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -175,11 +169,6 @@ mr2022-onboarding-easy-setup-import-checkbox-label = ນໍາເຂົ້າຈ
 mr2022-onboarding-welcome-pin-header = ເປີດອິນເຕີເນັດໃຫ້ປະລາດໃຈ
 # Subtitle is used on onboarding page for new users page when Firefox is not pinned
 mr2022-onboarding-welcome-pin-subtitle = ເປີດ { -brand-short-name } ຈາກທຸກບ່ອນດ້ວຍການຄລິກດຽວ. ທຸກໆຄັ້ງທີ່ທ່ານເຮັດ, ທ່ານກໍາລັງເລືອກເວັບທີ່ເປີດແລະເອກະລາດຫຼາຍຂຶ້ນ.
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = ເລີ່ມຕົ້ນດ້ວຍຕົວທ່ອງເວັບທີ່ສະຫນັບສະຫນູນໂດຍອົງການບໍ່ຫວັງຜົນກໍາໄລ. ພວກເຮົາປົກປ້ອງຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າໃນຂະນະທີ່ເຈົ້າ zip ອ້ອມເວັບ.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -209,57 +198,10 @@ mr2022-onboarding-set-default-subtitle = ໃຊ້ຕົວທ່ອງເວັ
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = ເວີຊັນຫຼ້າສຸດຂອງພວກເຮົາແມ່ນສ້າງຂຶ້ນຢູ່ອ້ອມຕົວທ່ານ, ເຮັດໃຫ້ມັນງ່າຍກວ່າທີ່ຈະ zip ໄປທົ່ວເວັບ. ມັນເຕັມໄປດ້ວຍຄຸນສົມບັດທີ່ພວກເຮົາຄິດວ່າເຈົ້າຈະມັກ.
 mr2022-onboarding-get-started-primary-button-label = ຕັ້ງຄ່າໃນບໍ່ເທົ່າໃດວິນາທີ
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = ການ​ຕັ້ງ​ຄ່າ​ໄວ​ຟ້າ​ຜ່າ​
-mr2022-onboarding-import-subtitle = ຕັ້ງຄ່າ { -brand-short-name } ວ່າທ່ານມັກມັນແນວໃດ. ເພີ່ມບຸກມາກ, ລະຫັດຜ່ານ ແລະອື່ນໆອີກຈາກບຣາວເຊີເກົ່າຂອງທ່ານ.
 mr2022-onboarding-import-primary-button-label-no-attribution = ນໍາເຂົ້າຈາກຕົວທ່ອງເວັບທີ່ຜ່ານມາ
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = ເລືອກສີທີ່ດົນໃຈທ່ານ
-mr2022-onboarding-colorway-subtitle = ສຽງທີ່ເປັນເອກະລາດສາມາດປ່ຽນແປງວັດທະນະທໍາ.
-mr2022-onboarding-colorway-primary-button-label-continue = ກໍານົດ ແລະ ສືບຕໍ່
-mr2022-onboarding-existing-colorway-checkbox-label = ເຮັດໃຫ້ { -firefox-home-brand-name } ເປັນຫນ້າທໍາອິດທີ່ມີສີສັນຂອງທ່ານ
-mr2022-onboarding-colorway-label-default = ຄ່າພື້ນຖານ
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = ສີ { -brand-short-name } ປັດຈຸບັນ
-mr2022-onboarding-colorway-description-default = <b>ໃຊ້ສີ { -brand-short-name } ໃນປະຈຸບັນຂອງຂ້ອຍ.</b>
-mr2022-onboarding-colorway-label-playmaker = ຜູ້ຫຼິ້ນ
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = ຜູ້ຫຼິ້ນ (ສີແດງ)
-mr2022-onboarding-colorway-description-playmaker = <b>ທ່ານເປັນຜູ້ຫຼິ້ນ.</b> ທ່ານສ້າງໂອກາດທີ່ຈະຊະນະ ແລະຊ່ວຍທຸກຄົນທີ່ຢູ່ອ້ອມຂ້າງທ່ານຍົກລະດັບເກມຂອງເຂົາເຈົ້າ.
-mr2022-onboarding-colorway-label-expressionist = ນັກສະແດງ
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = ນັກສະແດງ (ສີເຫຼືອງ)
-mr2022-onboarding-colorway-description-expressionist = <b>ເຈົ້າເປັນນັກສະແດງ.</b> ເຈົ້າເຫັນໂລກທີ່ແຕກຕ່າງ ແລະການສ້າງຂອງເຈົ້າກະຕຸ້ນອາລົມຂອງຄົນອື່ນ.
-mr2022-onboarding-colorway-label-visionary = ຜູ້ມີວິໄສທັດ
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = ຜູ້ມີວິໄສທັດ (ສີຂຽວ)
-mr2022-onboarding-colorway-description-visionary = <b>ທ່ານເປັນຜູ້ມີວິໄສທັດ.</b> ທ່ານຕັ້ງຄໍາຖາມກ່ຽວກັບສະພາບເດີມ ແລະກະຕຸ້ນຄົນອື່ນໃຫ້ຈິນຕະນາການອະນາຄົດທີ່ດີກວ່າ.
-mr2022-onboarding-colorway-label-activist = ນັກເຄື່ອນໄຫວ
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = ນັກເຄື່ອນໄຫວ (ສີຟ້າ)
-mr2022-onboarding-colorway-description-activist = <b>ທ່ານເປັນນັກເຄື່ອນໄຫວ.</b> ທ່ານປ່ອຍໃຫ້ໂລກເປັນບ່ອນທີ່ດີກ່ວາທີ່ທ່ານພົບມັນ ແລະນໍາພາຄົນອື່ນໃຫ້ເຊື່ອ.
-mr2022-onboarding-colorway-label-dreamer = ຄົນຊ່າງຝັນ
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = ຄົນຊ່າງຝັນ (ສີມ່ວງ)
-mr2022-onboarding-colorway-description-dreamer = <b>ທ່ານເປັນຄົນຊ່າງຝັນ.</b> ເຈົ້າເຊື່ອວ່າໂຊກລາບເຮັດໃຫ້ຄົນກ້າຫານ ແລະດົນໃຈຄົນອື່ນໃຫ້ກ້າຫານ.
-mr2022-onboarding-colorway-label-innovator = ນັກປະດິດສ້າງ
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = ນັກປະດິດສ້າງ (ສີສົ້ມ)
-mr2022-onboarding-colorway-description-innovator = <b>ທ່ານເປັນນັກປະດິດສ້າງ.</b> ທ່ານເຫັນໂອກາດຢູ່ທົ່ວທຸກແຫ່ງ ແລະສ້າງຜົນກະທົບຕໍ່ຊີວິດຂອງທຸກຄົນທີ່ຢູ່ອ້ອມຂ້າງທ່ານ.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = ເລື່ອນຈາກແລັບທັອບໄປຫາໂທລະສັບ ແລະກັບມາອີກຄັ້ງ
-mr2022-onboarding-mobile-download-subtitle = ຈັບແຖບຈາກອຸປະກອນຫນຶ່ງແລະເລືອກເອົາບ່ອນທີ່ທ່ານປະໄວ້ຢູ່ໃນອຸປະກອນອື່ນ. ນອກຈາກນັ້ນ, ຊິ້ງຂໍ້ມູນບຸກມາກ ແລະລະຫັດຜ່ານຂອງທ່ານຢູ່ບ່ອນໃດກໍໄດ້ທີ່ທ່ານໃຊ້ { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = ສະແກນລະຫັດ QR ເພື່ອເອົາ { -brand-product-name } ສໍາລັບມືຖື ຫຼື <a data-l10n-name="download-label">ສົ່ງລິ້ງດາວໂຫລດໃຫ້ຕົວເອງ.</a>
 mr2022-onboarding-no-mobile-download-cta-text = ສະແກນລະຫັດ QR ເພື່ອເອົາ { -brand-product-name } ສໍາລັບມືຖື.
 
@@ -307,13 +249,10 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = ມືທີ່ມີຜິວໜັງອ່ອນ ແລະສີເຂັ້ມ, ສູງຫ້າ
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = ທັດສະນະຂອງ sunset ຜ່ານປ່ອງຢ້ຽມທີ່ມີ fox ແລະຕົ້ນໄມ້ເຮືອນຢູ່ໃນ windowsill ໄດ້
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = ສີດພົ່ນມືເຮັດໃຫ້ຕາສີຂຽວ, ເກີບສີສົ້ມ, ບານບ້ວງສີແດງ, ຫູຟັງສີມ່ວງ, ຫົວໃຈສີຟ້າ ແລະມົງກຸດສີເຫຼືອງ
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = ໝາຈອກຢູ່ໜ້າຈໍຄອມພິວເຕີແລັບທັອບໂບກມື. ແລັບທັອບມີຫນູສຽບໃສ່ມັນ.
 onboarding-device-migration-title = ຍິນ​ດີ​ຕ້ອນ​ຮັບ​ກັບ!
-onboarding-device-migration-subtitle = ເຂົ້າສູ່ລະບົບ { -fxaccount-brand-name(capitalization: "sentence") } ຂອງທ່ານເພື່ອນຳເອົາບຸກມາກ, ລະຫັດຜ່ານ ແລະ ປະຫວັດຂອງທ່ານໄປນຳໃນອຸປະກອນໃໝ່ຂອງທ່ານ.
 onboarding-device-migration-primary-button-label = ເຂົ້າສູ່ລະບົບ

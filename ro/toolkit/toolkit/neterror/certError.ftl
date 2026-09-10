@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Certificatul nu prezintă încredere deoarec
 cert-error-trust-signature-algorithm-disabled = Certificatul nu prezintă încredere deoarece a fost semnat folosind un algoritm de semnare care a fost dezactivat deoarece acel algoritm nu este securizat.
 cert-error-trust-expired-issuer = Certificatul nu prezintă încredere deoarece certificatul emitentului a expirat.
 cert-error-trust-self-signed = Certificatul nu prezintă încredere deoarece este semnat de el însuși.
-cert-error-trust-symantec = Certificatele emise de GeoTrust, RapidSSL, Symantec, Thawte și VeriSign nu mai sunt considerate sigure deoarece aceste autorități de certificare nu au respectat în trecut practicile de securitate.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } nu are încredere în { $hostname } deoarece nu a putut dovedi că îndeplinește cerințele de transparență a certificatelor publice.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Codul erorii: <a data-l10n-name="error-code-link">
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = A apărut o eroare în timpul conectării la { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Site-urile web își demonstrează identitatea prin intermediul certificatelor, care sunt emise de autorități de certificare. Majoritatea browserelor nu mai au încredere în certificatele emise de GeoTrust, RapidSSL, Symantec, Thawte și VeriSign. { $hostname } folosește un certificat de la una dintre aceste autorități și, prin urmare, identitatea site-ului web nu poate fi demonstrată.
-cert-error-symantec-distrust-admin = Poți notifica administratorul site-ului web despre această problemă.
 cert-error-old-tls-version = Este posibil ca acest site web să nu fie compatibil cu protocolul TLS 1.2, care este versiunea minimă compatibilă cu { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = Securitate strictă la transport HTTP: { $hasHST
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Fixarea cheii publice HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Lanț de certificate:
-open-in-new-window-for-csp-or-xfo-error = Deschide site-ul într-o fereastră nouă
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Pentru a-ți proteja securitatea, { $hostname } nu va permite { -brand-short-name } să afișeze pagina dacă a fost încorporată de alt site. Pentru a vedea această pagină, trebuie să o deschizi într-o fereastră nouă.
 fp-certerror-view-certificate-link = Vezi certificatul site-ului
 fp-certerror-return-to-previous-page-recommended-button-2 = Înapoi (Recomandat)
     .accesskey = G
-fp-certerror-return-to-previous-page-recommended-button = Întoarce-te (Recomandat)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -106,21 +99,21 @@ fp-certerror-self-signed-important-note = NOTĂ IMPORTANTĂ: Dacă încerci să 
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = Site-urile folosesc certificate emise de o autoritate de certificare pentru a dovedi că sunt cu adevărat cine pretind că sunt. { -brand-short-name } nu are încredere în acest site deoarece se pare că certificatul a expirat pe { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-expired-why-dangerous-body = Site-urile folosesc certificate emise de o autoritate de certificare pentru a dovedi că sunt cu adevărat cine pretind că sunt. { -brand-short-name } nu are încredere în acest site deoarece se pare că certificatul a expirat pe { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = Site-urile folosesc certificate emise de o autoritate de certificare pentru a dovedi că sunt cu adevărat cine pretind că sunt. { -brand-short-name } nu are încredere în acest site deoarece se pare că certificatul nu va fi valabil până pe { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-not-yet-valid-why-dangerous-body = Site-urile folosesc certificate emise de o autoritate de certificare pentru a dovedi că sunt cu adevărat cine pretind că sunt. { -brand-short-name } nu are încredere în acest site deoarece se pare că certificatul nu va fi valabil până pe { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = Ceasul dispozitivului tău este setat pe { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Dacă este corect, problema de securitate e probabil legată de site. Dacă este greșit, poți regla ceasul în setările de sistem ale dispozitivului.
+fp-certerror-expired-what-can-you-do-body = Ceasul dispozitivului tău este setat pe { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Dacă este corect, problema de securitate e probabil legată de site. Dacă este greșit, poți regla ceasul în setările de sistem ale dispozitivului.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Codul erorii: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -133,11 +126,11 @@ fp-learn-more-about-time-related-errors = Află mai multe despre depanarea erori
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } nu are încredere în acest site pentru că pare că certificatul furnizat nu este valabil până la { DATETIME($date, timeStyle: "short") } pe data de { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } nu are încredere în acest site pentru că pare că certificatul furnizat nu este valabil până la { DATETIME($date, timeStyle: "short") } pe data de { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Ceasul dispozitivului tău este setat pe { DATETIME($date, timeStyle: "short") }{ DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Dacă este corect, problema de securitate e probabil legată de site. Dacă este greșit, poți regla ceasul în setările de sistem ale dispozitivului.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Ceasul dispozitivului tău este setat pe { DATETIME($date, timeStyle: "short") }{ DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Dacă este corect, problema de securitate e probabil legată de site. Dacă este greșit, poți regla ceasul în setările de sistem ale dispozitivului.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -179,8 +172,6 @@ deniedPortAccess-title = Adresa este restricționată
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Întâmpinăm dificultăți în găsirea acestui site.
 internet-connection-offline-title = Se pare că ai o problemă cu conexiunea ta la internet.
-dns-not-found-trr-only-title2 = Posibil risc de securitate la căutarea acestui domeniu
-dns-not-found-native-fallback-title2 = Posibil risc de securitate la căutarea acestui domeniu
 fileNotFound-title = Fișier negăsit
 fileAccessDenied-title = Accesul la fișier a fost refuzat
 generic-title = Ups.
@@ -205,7 +196,6 @@ unknownSocketType-title = Răspuns neașteptat de la server
 nssFailure2-title = Conexiunea securizată a eșuat
 csp-xfo-error-title = { -brand-short-name } nu poate deschide această pagină
 corruptedContentErrorv2-title = Eroare cauzată de conținut corupt
-corruptedContentError-title = Eroare cauzată de conținut corupt
 sslv3Used-title = Nu se poate conecta în mod securizat
 inadequateSecurityError-title = Conexiunea nu este securizată
 blockedByPolicy-title = Pagină blocată
@@ -228,7 +218,6 @@ fp-certerror-hide-advanced-button = Ascundeți opțiunile avansate
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Continuă către { $hostname } (Riscant)
 fp-certerror-intro = { -brand-short-name } a observat o problemă de securitate potențial gravă cu <strong>{ $hostname }</strong>. Cineva care se preface a fi site-ul ar putea încerca să fure informații precum datele cardului de credit, parole sau adrese de e-mail.
 fp-certerror-expired-into = { -brand-short-name } a observat o problemă de securitate cu <strong>{ $hostname }</strong>. Fie site-ul nu este configurat corect, fie ceasul dispozitivului este setat greșit.
 fp-certerror-transparency-intro = Cineva care pretinde a fi <strong>{ $hostname }</strong> ar putea încerca să fure ceva cum ar fi informații despre cardul de credit, parole sau e-mailuri.

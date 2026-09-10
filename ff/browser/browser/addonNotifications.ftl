@@ -9,13 +9,6 @@ xpinstall-prompt = { -brand-short-name } haɗii ndee lowre naanaade-ma yo a aaf 
 xpinstall-prompt-dont-allow =
     .label = Hoto Yamir
     .accesskey = H
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = Jiiloowo yuɓɓo maa ko daaƴɗo aafgol topirɗe.
 xpinstall-disabled = Aafgol topirɗe koko daaƴaa oo sahaa. Dobo Daaƴtu, puɗɗito-ɗaa.
 xpinstall-disabled-button =
     .label = Daaƴtu
@@ -29,9 +22,6 @@ webext-perms-update-menu-item = { $addonName } na ɗaɓɓi jamirooje kese
 
 ## Add-on removal warning
 
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Momta { $name } e { -brand-shorter-name }?
 addon-removal-button = Momtu
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
@@ -82,4 +72,3 @@ addon-local-install-error-not-signed = Ngal ɓeydital horiima aafeede sabu ena n
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } horiima aafeede sabu ngal jaaɓdaani { -brand-short-name } { $appVersion }.
-addon-install-error-blocklisted = { $addonName } horiima aafeede sabu ena hulaa maa addu caɗeele kisal walla jamɗugol.

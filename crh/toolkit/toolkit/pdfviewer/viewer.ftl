@@ -140,18 +140,6 @@ pdfjs-printing-not-ready = Tenbi: PDF bastıruv içün bütünley yüklengen deg
 
 ## Tooltips and alt text for side panel toolbar buttons
 
-pdfjs-toggle-sidebar-button =
-    .title = Yan-çubuqnı Tönter
-pdfjs-toggle-sidebar-button-label = Yan-çubuqnı Tönter
-pdfjs-document-outline-button =
-    .title = Vesiqa Tış-hizasını Köster (unsurlarnıñ episini cayıldırmaq/eştirmek içün çifte-çertiñiz)
-pdfjs-document-outline-button-label = Vesiqa Tış-hizası
-pdfjs-attachments-button =
-    .title = İlişiklerni Köster
-pdfjs-attachments-button-label = İlişikler
-pdfjs-thumbs-button =
-    .title = Tırnaq-Resimlerni Köster
-pdfjs-thumbs-button-label = Tırnaq-Resimler
 pdfjs-findbar-button =
     .title = Vesiqada Tap
 pdfjs-findbar-button-label = Tap
@@ -160,18 +148,14 @@ pdfjs-findbar-button-label = Tap
 
 # Variables:
 #   $page (Number) - the page number
-pdfjs-thumb-page-title =
-    .title = Saife { $page }
-# Variables:
-#   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
     .aria-label = { $page }. Saifeniñ Tırnaq-Resmi
 
 ## Find panel button title and messages
 
 pdfjs-find-input =
-    .title = Tap
     .placeholder = Vesiqada tap…
+    .title = Tap
 pdfjs-find-previous-button =
     .title = İbareniñ evvelki rastkelişini tap
 pdfjs-find-previous-button-label = Evvelki

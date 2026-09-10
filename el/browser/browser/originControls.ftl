@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Η επέκταση δεν μπορεί να διαβάσει και να αλλάξει δεδομένα
-origin-controls-quarantined =
-    .label = Δεν επιτρέπεται στην επέκταση η ανάγνωση και αλλαγή δεδομένων
 origin-controls-quarantined-status =
     .label = Η επέκταση δεν επιτρέπεται σε περιορισμένους ιστοτόπους
 origin-controls-quarantined-allow =

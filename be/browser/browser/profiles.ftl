@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } будзе адкрываць ваш апошні выкарыстаны профіль.
 profile-window-create-profile = Стварыць профіль
 profile-card-edit-button =
-    .title = Рэдагаваць профіль
     .aria-label = Рэдагаваць профіль
+    .title = Рэдагаваць профіль
 profile-card-delete-button =
-    .title = Выдаліць профіль
     .aria-label = Выдаліць профіль
+    .title = Выдаліць профіль
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Адкрыць { $profileName }
     .aria-label = Адкрыць { $profileName }
+    .title = Адкрыць { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Профіль { $number }
@@ -83,9 +83,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Выдаліць профіль { $profilename }
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = Выдаліць профіль { $profilename }?
 delete-profile-description = { -brand-short-name } назаўсёды выдаліць наступныя дадзеныя з гэтай прылады:
 # Open is an adjective, as in "browser windows currently open".
@@ -112,28 +109,10 @@ delete-profile-confirm = Выдаліць
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Светлая
-# The default dark theme
-profiles-dark-theme = Цёмная
 # The default system theme
 profiles-system-theme = Сістэмная
 profiles-system-theme-title =
     .title = Ужыць сістэмную тэму
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = Жоўтая календула
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = Бледна-лавандавы
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = Мятна-зялёны
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = Ружовая магнолія
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = Акіянскі блакіт
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = Цагляна-чырвоны
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = Мохава-зялёны
 profiles-gray-theme = Шэры
 profiles-gray-theme-title =
     .title = Ужыць шэрую тэму
@@ -290,9 +269,6 @@ profiles-appmenu-callout-tour-subtitle = У меню ☰ націсніце на
 profiles-appmenu-callout-tour-primary-button = Паказаць мне, як
 barbell-avatar = Штанга
 bike-avatar = Веласіпед
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Ужыць аватар са штангай
 bike-avatar-tooltip =

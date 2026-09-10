@@ -18,13 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Tien un reporte de fallo por ninviar
-       *[other] Tien { $reportCount } reportes de fallo por ninviar
-    }
 pending-crash-reports-view-all =
     .label = Veyer
 pending-crash-reports-send =

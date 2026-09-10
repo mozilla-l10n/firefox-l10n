@@ -15,7 +15,6 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } കരുത
 autofill-edit-payment-method-os-prompt-macos = പണമടക്കൽമുറ വിവരം കാണിക്കുക
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } താങ്ങളുടെ കരുതിവച്ച പണമടക്കൽമുറ വിവരം കാണിപ്പിക്കാൻ ശ്രമിക്കുന്നു. താഴെ കൊടുത്തിരിക്കുന്ന വിണ്ടോസ് അക്കൗണ്ടിലേക്കു് പ്രവേശനം ഉറപ്പിക്കുക
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } കരുതിവച്ച പണമടക്കൽമുറ വിവരം കാണിപ്പിക്കാൻ ശ്രമിക്കുന്നു.
-autofill-options-link-osx = രൂപ തനുപ്പൂരിപ്പിക്കൽ മുൻഗണനകൾ
 
 ## The credit card capture doorhanger
 
@@ -60,16 +59,6 @@ autofill-card-network-mastercard = മാസ്റ്റർകാർഡ്
 autofill-card-network-mir = മിർ
 autofill-card-network-unionpay = യൂണിയൻ പേ
 autofill-card-network-visa = വിസ
-# The warning text that is displayed for informing users what categories are
-# about to be filled.  The text would be, for example,
-#   Also autofills organization, phone, email.
-# Variables:
-#   $categories - one or more of the categories, see autofill-category-X below
-autofill-phishing-warningmessage-extracategory = { $categories } നേയും ഓട്ടോഫില്‍ ചെയ്യും
-# Variation when all are in the same category.
-# Variables:
-#   $categories - one or more of the categories
-autofill-phishing-warningmessage = { $categories } നെ ഓട്ടോഫില്‍ ചെയ്യും
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = വിലാസം
 autofill-category-name = പേരു്

@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = العناوين المحفوظة
 autofill-manage-addresses-list-header = العناوين
-autofill-manage-credit-cards-title = بطاقات الائتمان المحفوظة
-autofill-manage-credit-cards-list-header = بطاقات الائتمان
 autofill-manage-payment-methods-title = طُرق الدفع المحفوظة
 autofill-manage-cards-list-header = بطاقات
 autofill-manage-dialog =
@@ -45,15 +43,10 @@ address-capture-open-menu-button =
     .aria-label = افتح القائمة
 address-capture-edit-address-link = حرّر العنوان
     .aria-label = حرّر العنوان
-address-capture-edit-address-button =
-    .aria-label = حرّر العنوان
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = أضف عنوانًا
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = حرّر العنوان
-autofill-address-given-name = الاسم الأول
-autofill-address-additional-name = الاسم الأوسط
-autofill-address-family-name = الاسم الأخير
 autofill-address-name = الاسم
 autofill-address-organization = المنظّمة
 autofill-address-street-address = عنوان الشارع
@@ -101,8 +94,6 @@ autofill-address-eircode = الرمز البريدي الأيرلندي
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = أضِف عنوانا جديدا
 autofill-address-country = المنطقة أو الإقليم
 autofill-address-country-only = البلد
 autofill-address-tel = الهاتف
@@ -111,18 +102,6 @@ autofill-cancel-button = ألغِ
 autofill-save-button = احفظ
 autofill-country-warning-message-2 = الملء الآلي للاستمارات متاح حاليًا في بعض الدول فحسب.
 autofill-country-warning-message = الملء الآلي للاستمارات متاح حاليًا في بعض الدول فحسب.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = أضِف بطاقة ائتمان جديدة
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = حرّر بطاقة الائتمان
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] عرض معلومات بطاقة الائتمان
-        [windows] يحاول { -brand-short-name } عرض معلومات بطاقة الائتمان. أكّد الوصول إلى حساب وِندوز هذا من الأسفل.
-       *[other] يحاول { -brand-short-name } عرض معلومات بطاقة الائتمان.
-    }
 autofill-message-tooltip = اعرض رسالة حول الملء الآلي
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = أضف بطاقة
@@ -147,15 +126,3 @@ autofill-card-network = نوع البطاقة
 # methods section. Localizers should choose terms that make sense for payment
 # methods in their region.
 autofill-card-search-term-credit-cards = بطاقات الائتمان، الائتمان، البطاقات، بطاقات الخصم، الخصم، المحفظة، الدفع
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = أمريكان إكسبرِس
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = اكتشف
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = ماستِركارد
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = ڤيزا

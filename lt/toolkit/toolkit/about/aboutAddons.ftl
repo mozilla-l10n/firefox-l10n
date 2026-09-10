@@ -150,15 +150,10 @@ addon-category-sitepermission-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Ribotojoje veiksenoje visi priedai išjungti.
-extensions-warning-check-compatibility = Priedų suderinamumas netikrinamas. Gali būti, kad turite nesuderinamų priedų.
-extensions-warning-safe-mode2 =
-    .message = Ribotojoje veiksenoje visi priedai išjungti.
 extensions-warning-check-compatibility2 =
     .message = Priedų suderinamumas netikrinamas. Gali būti, kad turite nesuderinamų priedų.
 extensions-warning-check-compatibility-button = Tikrinti
     .title = Įjungti priedų suderinamumo tikrinimą
-extensions-warning-update-security = Priedų naujinimų saugumas netikrinamas. Priedų naujinimai gali pakenkti jūsų saugumui.
 extensions-warning-update-security2 =
     .message = Priedų naujinimų saugumas netikrinamas. Priedų naujinimai gali pakenkti jūsų saugumui.
 extensions-warning-update-security-button = Tikrinti
@@ -222,10 +217,6 @@ shortcuts-duplicate = Pasikartojantis spartusis klavišas
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } jau naudojamas kaip spartusis klavišas. Pasikartojantys spartieji klavišai gali sukelti nepageidaujamų pasekmių.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } jau naudojamas kaip spartusis klavišas. Pasikartojantys spartieji klavišai gali sukelti nepageidaujamų pasekmių.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -246,19 +237,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Priedai ir grafiniai apvalkalai yra tarsi programos jūsų naršyklei, ir jie leidžia
-    jums apsaugoti slaptažodžius, siųstis vaizdo įrašus, rasti akcijas, blokuoti
-    erzinančias reklamas, keisti naršyklės išvaizdą, ir dar daugiau. Šias nedideles
-    programas dažniausiai kuria trečiosios šalys. Čia pateikiame rinkinį, kurį
-    „{ -brand-product-name }“ <a data-l10n-name="learn-more-trigger">rekomenduoja</a>
-    išskirtiniam saugumui, našumui ir funkcionalumui.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    Kai kurios iš šių rekomendacijų yra pritaikytos būtent jums. Yra atsižvelgiama į kitus
-    jūsų įdiegtus priedus, profilio pasirinkimus, ir naudojimo statistikas.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -326,16 +304,9 @@ addon-detail-last-updated-label = Paskiausiai atnaujintas
 addon-detail-homepage-label = Svetainė
 addon-detail-rating-label = Įvertinimas
 # Message for add-ons with a staged pending update.
-install-postponed-message = Šis priedas atsinaujins, kai „{ -brand-short-name }“ bus paleista iš naujo.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Šis priedas atsinaujins, kai „{ -brand-short-name }“ bus paleista iš naujo.
 install-postponed-button = Atnaujinti dabar
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Įvertinta { NUMBER($rating, maximumFractionDigits: 1) } iš 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -354,9 +325,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">„{ $addon }“</span> buvo pašalintas.
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = { $addon } buvo pašalintas.
 pending-uninstall-undo-button = Atšaukti
@@ -370,11 +338,6 @@ install-update-button = Atnaujinti
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
     .title = Leidžiama privačiojo naršymo languose
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
-    .title = Leidžiama privačiojo naršymo languose
 addon-detail-private-browsing-help = Leidus, priedas turės priėjimą prie jūsų veiklos internete naršant privačiai. <a data-l10n-name="learn-more">Sužinokite daugiau</a>
 addon-detail-private-browsing-allow = Leisti
 addon-detail-private-browsing-disallow = Neleisti
@@ -382,17 +345,6 @@ addon-detail-private-browsing-disallow = Neleisti
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = „{ -brand-product-name }“ rekomenduoja tik mūsų saugumo ir našumo reikalavimus atitinkančius priedus
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Oficialus „Mozilla“ sukurtas priedas. Atitinka saugumo ir našumo standartus
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Šis priedas buvo peržiūrėtas ir atitinka mūsų saugumo bei našumo standartus
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -404,9 +356,6 @@ available-updates-heading = Galimi naujinimai
 recent-updates-heading = Paskiausiai atnaujinti
 release-notes-loading = Įkeliama…
 release-notes-error = Atsiprašome, bet įkeliant laidos apžvalgą įvyko klaida.
-addon-permissions-empty = Šis priedas nereikalauja jokių leidimų
-addon-permissions-required = Pagrindiniam funkcionalumui reikalingi leidimai:
-addon-permissions-optional = Papildomam funkcionalumui reikalingi leidimai:
 addon-permissions-learnmore = Sužinokite apie leidimus daugiau
 recommended-extensions-heading = Rekomenduojami priedai
 recommended-themes-heading = Rekomenduojami grafiniai apvalkalai
@@ -440,24 +389,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = Priedas „{ $name }“ yra nesuderinamas su „{ -brand-short-name } { $version }“.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = Priedas „{ $name }“ yra nesuderinamas su „{ -brand-short-name } { $version }“.
-details-notification-unsigned-and-disabled = Nepavyko patikrinti „{ $name }“ suderinamumo su „{ -brand-short-name }“, tad jis buvo išjungtas.
 details-notification-unsigned-and-disabled2 =
     .message = Nepavyko patikrinti „{ $name }“ suderinamumo su „{ -brand-short-name }“, tad jis buvo išjungtas.
-details-notification-unsigned-and-disabled-link = Daugiau informacijos
-details-notification-unsigned = Nepavyko patikrinti „{ $name }“ suderinamumo su „{ -brand-short-name }“. Elkitės atsargiai.
 details-notification-unsigned2 =
     .message = Nepavyko patikrinti „{ $name }“ suderinamumo su „{ -brand-short-name }“. Elkitės atsargiai.
-details-notification-unsigned-link = Daugiau informacijos
-details-notification-blocked = Priedas „{ $name }“ išjungtas saugumo arba stabilumo sumetimais.
-details-notification-blocked-link = Plačiau
-details-notification-softblocked = Yra duomenų, jog priedas „{ $name }“ sukelia saugumo arba stabilumo problemas.
-details-notification-softblocked-link = Plačiau
-details-notification-gmp-pending = „{ $name }“ bus netrukus įdiegtas.
 details-notification-gmp-pending2 =
     .message = „{ $name }“ bus netrukus įdiegtas.
 

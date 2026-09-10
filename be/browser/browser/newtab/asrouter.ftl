@@ -64,7 +64,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Сінхранізуйце свае закладкі ўсюды.
-cfr-doorhanger-bookmark-fxa-body = Выдатная знаходка! Цяпер не заставайцеся без гэтай закладкі на вашых мабільных прыладах. Пачніце працу з { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = Выдатная знаходка! Цяпер не заставайцеся без гэтай закладкі на вашых мабільных прыладах. Пачніце з уліковага запісу.
 cfr-doorhanger-bookmark-fxa-link-text = Сінхранізаваць закладкі зараз…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -77,12 +76,6 @@ fxa-adoption-credit-cards-backup-subtitle = Абараніце свае спос
 fxa-adoption-bookmarks-treatment-backup-title = Давайце зробім рэзервовую копію вашых закладак
 fxa-adoption-bookmarks-treatment-backup-subtitle = Абараніце свае закладкі, сінхранізуючы іх паміж прыладамі з дапамогай шыфравання.
 fxa-adoption-primary-button-label = Зарэгістравацца
-
-## Protections panel
-
-cfr-protections-panel-header = Аглядайце без старонніх вачэй
-cfr-protections-panel-body = Захоўвайце свае дадзеныя пры сабе. { -brand-short-name } абараняе вас ад многіх самых распаўсюджаных трэкераў, якія сочаць за тым, што вы робіце ў інтэрнэце.
-cfr-protections-panel-link-text = Даведацца больш
 
 ## What's New toolbar button and panel
 
@@ -179,42 +172,8 @@ mr2022-background-update-toast-primary-button-label = Адкрыць { -brand-sh
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Нагадаць пазней
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Паспрабаваць
-    .accesskey = П
-firefoxview-cfr-secondarybutton = Не зараз
-    .accesskey = Н
-firefoxview-cfr-header-v2 = Хутка працягвайце з таго месца, дзе спыніліся
-firefoxview-cfr-body-v2 = Вяртайце нядаўна закрытыя карткі, а таксама лёгка пераключайцеся паміж прыладамі з дапамогай { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Павітайцеся з { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Хочаце гэтую адкрытую картку на тэлефоне? Трымайце. Патрэбен той сайт, які вы толькі што наведалі? Пуф, ён вярнуўся з { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Паглядзець, як гэта працуе
-firefoxview-spotlight-promo-secondarybutton = Прапусціць
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Выберыце расфарбоўку
-    .accesskey = В
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Расфарбуйце свой браўзер эксклюзіўнымі адценнямі { -brand-short-name }, натхнёнымі галасамі, якія змянілі культуру.
-colorways-cfr-header-28days = Расфарбоўкі незалежных галасоў даступныя да 16 студзеня
-colorways-cfr-header-14days = Расфарбоўкі незалежных галасоў даступныя яшчэ два тыдні
-colorways-cfr-header-7days = Расфарбоўкі незалежных галасоў даступныя да канца тыдня
-colorways-cfr-header-today = Расфарбоўкі незалежных галасоў даступныя да канца дня
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Дазволіць { -brand-short-name } адхіляць банеры кукі?
-cfr-cbh-body = { -brand-short-name } можа аўтаматычна адхіляць многія запыты банераў кукі.
-cfr-cbh-confirm-button = Адхіляць банеры кукі
-    .accesskey = к
-cfr-cbh-dismiss-button = Не зараз
-    .accesskey = Н
 cookie-banner-blocker-onboarding-header = { -brand-short-name } толькі што адхіліў банер кукі для вас
 cookie-banner-blocker-onboarding-body = Менш адцягнення ўвагі, менш кукі, якія асочваюць вас на гэтым сайце.
 cookie-banner-blocker-onboarding-learn-more = Падрабязней

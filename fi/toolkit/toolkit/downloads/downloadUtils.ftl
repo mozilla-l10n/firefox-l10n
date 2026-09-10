@@ -92,11 +92,5 @@ download-utils-time-left-single = { $time } jäljellä
 download-utils-time-left-double = { $time1 } { $time2 } jäljellä
 download-utils-time-few-seconds = Muutama sekunti jäljellä
 download-utils-time-unknown = Tuntematon aika jäljellä
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = { $scheme }-resurssi
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = paikallinen tiedosto
 # Displayed time for files finished yesterday
 download-utils-yesterday = eilen

@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = सार्टिफिकेटआ फो�
 cert-error-trust-signature-algorithm-disabled = सार्टिफिकेटआ फोथायजायै मानोना बेयो सहि एलग'रिडमनि हेफाजाबजों सहि होजादोंमोन, बैयो लोरबां खालामजादोंमोन मानोना बै एलग'रिडमआ रैखाथि नङै।
 cert-error-trust-expired-issuer = सार्टिफिकेटआ फोथायजायै मानोना सार्टिफिकेट दिहुनग्राया मेयाद बारबाय।
 cert-error-trust-self-signed = चार्टिफिकेटा फोथाय जाथाव नङा मानोना बेयो गावनो सहि होनाय।
-cert-error-trust-symantec = GeoTrus, RapidSSL, Symantec, Thawte, and VeriSign फोरजों दिहुनजानाय चार्टिफिकेटफोरा आरोबाव रैखाथि गोनां नंला मानोना बेफोर चार्टिफिकेटनि सुजुगिरिफोरा रैखाथि होगा माखासे नियमफोरखाै सिगांयाव  मानिनो हायाखै |
 cert-error-untrusted-default = चार्टिफिकेटआ मोनसे फोथायजाथाव फुंखा निफ्राय फैनाय नङा ।
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -46,17 +45,12 @@ cert-error-not-yet-valid-now = वेबसाइत आ गावसोरन�
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = गोरोन्थि क'ड: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = वेबसाइट आ गावनि सिनायथिखौ चार्टिफिकेटनि जोहै खालामो, जायफोरा बिबान गोनां फोरमान बिलाइफोरजों फोसावजायो | गोबांथार बा्वजारफोरनि फोरमान बिलाइफोरखौ फोथाइजाथावआ, जाइफोरा  GeoTrust, RapidSSL, Symantec, Thawte, and VeriSign जों फोसावजायो | { $hostname } बेफोरनि फोरमान बिलाइफोरखौ बाहायो, बेनिखाइनो वेबसाइटनि सिनायथिखौ फोरमान खालामनो हाया |
-cert-error-symantec-distrust-admin = नोंथाङा बे असुबिदानि बागै वेबसाइत नि बिगोमानो फोरमायनो हागौ
-# Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = { $hasHSTS } HTTP आ गोखो्ङै बैंगा्खौ दैथाइगा्
 # Variables:
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP राइजोनि साबि दिनथिनाइ{ $hasHPKP }
 cert-error-details-cert-chain-label = चार्टिफिकेटनि जिनजिरि:
-open-in-new-window-for-csp-or-xfo-error = गोदान उइन्ड'आव साइटखौ खेव
 
 ## Messages used for certificate error titles
 
@@ -78,7 +72,6 @@ proxyResolveFailure-title = प्रक्सि सार्भारखौ �
 redirectLoop-title = बिलाइआ मोजाङै फिन बिथोन होयाखै
 unknownSocketType-title = सार्भार निफ्राय मिजिंथियै फिननाय
 nssFailure2-title = रैखाथि फोनांजाबा फेलें जाबाय
-corruptedContentError-title = रैखाथि फोनांजाबा फेलें जाबाय
 sslv3Used-title = रैखाथियै फोनांजाब खालामनो हायाखै
 blockedByPolicy-title = ब्लक जानाय बिलाइ
 networkProtocolError-title = नेटॱवर्क प्रोटोकल गोनांथि

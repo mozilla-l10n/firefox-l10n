@@ -21,11 +21,6 @@ tabbrowser-tab-tooltip-container = { $containerName }
 #   $tabGroupName (String): the user-defined name of the current tab group.
 #   $containerName (String): the name of the current container.
 tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -33,14 +28,6 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [one] ਟੈਬ ਬੰਦ ਕਰੋ
-           *[other] { $tabCount }ਟੈਬਾਂ ਬੰਦ ਕਰੋ
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [one] ਟੈਬ ਬੰਦ ਕਰੋ
            *[other] { $tabCount }ਟੈਬਾਂ ਬੰਦ ਕਰੋ
@@ -108,7 +95,6 @@ tabbrowser-unblock-tab-audio-aria-label =
 tabbrowser-confirm-close-tabs-title = { $tabCount } ਟੈਬਾਂ ਬੰਦ ਕਰਨੀਆਂ ਹਨ?
 tabbrowser-confirm-close-tabs-button = ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ
 tabbrowser-ask-close-tabs-checkbox = ਕਈ ਟੈਬਾਂ ਬੰਦ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਮੈਨੂੰ ਪੁੱਛੋ
-tabbrowser-confirm-close-tabs-checkbox = ਕਈ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਤਸਦੀਕ ਕਰੋ
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -131,9 +117,6 @@ tabbrowser-confirm-close-tabs-with-key-button = { -brand-short-name } ਵਿੱ�
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-ask-close-tabs-with-key-checkbox = { $quitKey } ਨਾਲ ਬੰਦ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਪੁੱਛੋ
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = { $quitKey } ਨਾਲ ਬਾਹਰ ਜਾਣ ਤੋਂ ਪਹਿਲਾਂ ਤਸਦੀਕ ਕਰੋ
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
@@ -433,8 +416,8 @@ tab-note-editor-button-save =
     .label = ਸੰਭਾਲੋ
     .accesskey = S
 tab-note-editor-button-delete =
-    .title = ਨੋਟ ਨੂੰ ਹਟਾਓ
     .aria-label = ਨੋਟ ਨੂੰ ਹਟਾਓ
+    .title = ਨੋਟ ਨੂੰ ਹਟਾਓ
     .accesskey = D
 tab-note-preview-edit-icon =
     .alt = ਨੋਟ ਨੂੰ ਸੋਧੋ

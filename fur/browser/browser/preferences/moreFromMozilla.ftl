@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Altri di { -vendor-short-name }
 more-from-moz-page-header =
     .heading = Altri di { -vendor-short-name }
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } par dispositîfs mo
 more-from-moz-firefox-mobile-description = Il navigadôr mobil che al met la riservatece al prin puest.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } par dispositîfs mobii
 more-from-moz-firefox-mobile =
-    .label = { -brand-product-name } par dispositîfs mobii
     .description = Il navigadôr par dispositîfs mobii che al considere prioritarie la riservatece.
+    .label = { -brand-product-name } par dispositîfs mobii
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Scuvierç un nivel superiôr di protezion e navigazion anonime.
 more-from-moz-qr-code-box-firefox-mobile-title = Discjame doprant il to dispositîf mobil. Ponte la tô fotocjamare sul codiç QR. Cuant che al ven fûr un colegament, tocjilu.
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = Otèn { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Gjave in automatic lis tôs informazions personâls esponudis sul web.
 more-from-moz-mozilla-monitor-global-description = Ricêf avîs cuant che i tiei dâts a son stâts cjapâts dentri di une violazion di dâts.
 more-from-moz-mozilla-monitor-button = Oten { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Cree daurman il to sît web e conet in mût gratuit il to domini personalizât.
 more-from-moz-solo-button = Prove { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = { -solo-ai-brand-name } — Creazion di sîts web cu la IA
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = Mande al to telefon vie e-mail il cole
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = Scuvierç là che lis tôs informazions personâls a son stadis metudis fûr in rêt cuntune scansion gratuite.
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = Oten une protezion in plui par dutis lis aplicazions, no nome pal navigadôr. Ten al sigûr i tiei dâts tes rêts Wi-Fi publichis o in chês pôc siguris.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = Protêç la tô casele di pueste in jentrade dal spam cun mascaris di e-mail gratuitis.
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = Impare a svilupâ pagjinis web cu lis vuidis gratuitis e i riferiments.
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = Jentre te tô e-mail, tai calendaris e dopre i contats cuntune svelte aplicazion.
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = Cree il to sît web intun lamp e conet il to domini personalizât a gratis.
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = Gnûfs prodots { -vendor-short-name }
     .description = Esplore lis nestris ultimis ideis e tecnologjiis sperimentâls.
+    .label = Gnûfs prodots { -vendor-short-name }
 more-from-moz-mozilla-monitor-box-link =
     .label = Oten { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =

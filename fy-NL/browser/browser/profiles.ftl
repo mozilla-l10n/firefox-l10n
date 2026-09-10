@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } iepenet mei jo meast resint brûkte profyl.
 profile-window-create-profile = In profyl oanmeitsje
 profile-card-edit-button =
-    .title = Profyl bewurkje
     .aria-label = Profyl bewurkje
+    .title = Profyl bewurkje
 profile-card-delete-button =
-    .title = Profyl fuortsmite
     .aria-label = Profyl fuortsmite
+    .title = Profyl fuortsmite
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = { $profileName } iepenje
     .aria-label = { $profileName } iepenje
+    .title = { $profileName } iepenje
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profyl { $number }
@@ -83,9 +83,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Profyl { $profilename } fuortsmite
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = Profyl { $profilename } fuortsmite?
 delete-profile-description = { -brand-short-name } smyt de folgjende gegevens permanint fan dit apparaat fuort:
 # Open is an adjective, as in "browser windows currently open".
@@ -112,28 +109,10 @@ delete-profile-confirm = Fuortsmite
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Ljocht
-# The default dark theme
-profiles-dark-theme = Donker
 # The default system theme
 profiles-system-theme = Systeem
 profiles-system-theme-title =
     .title = Systeemtema tapasse
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = Goudsjeblomgiel
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = Ljocht lavindel
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = Mintgrien
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = Magnoliarôze
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = Oseaanblau
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = Stienread
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = Moasgrien
 profiles-gray-theme = Griis
 profiles-gray-theme-title =
     .title = Griis tema tapasse
@@ -290,9 +269,6 @@ profiles-appmenu-callout-tour-subtitle = Tik yn it ☰-menu op jo profylnamme om
 profiles-appmenu-callout-tour-primary-button = Toan my hoe
 barbell-avatar = Halter
 bike-avatar = Fyts
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Barbell-avatar tapasse
 bike-avatar-tooltip =

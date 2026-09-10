@@ -76,11 +76,5 @@ download-utils-time-left-single = { $time } သာ ကျန်ပါတော�
 download-utils-time-left-double = { $time1 } { $time2 } သာ ကျန်ပါတော့သည်
 download-utils-time-few-seconds = စက္ကန့်အနည်းငယ်သာ ကျန်ပါတော့သည်
 download-utils-time-unknown = မည်မျှကြာမည်ဆိုတာ မသိနိုင်ပါ
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = { $scheme } resource
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = စက်ထဲရှိ ဖိုင်
 # Displayed time for files finished yesterday
 download-utils-yesterday = မနေ့

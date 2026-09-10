@@ -39,14 +39,6 @@ security-software-name = Název
 security-software-antivirus = Antivir
 security-software-antispyware = Antispyware
 security-software-firewall = Firewall
-features-title =
-    { -brand-short-name.case-status ->
-        [with-cases] Funkce { -brand-short-name(case: "gen") }
-       *[no-cases] Funkce aplikace { -brand-short-name }
-    }
-features-name = Název
-features-version = Verze
-features-id = ID
 processes-title = Vzdálené procesy
 processes-type = Typ
 processes-count = Počet
@@ -64,7 +56,6 @@ app-basics-show-update-history = Zobrazit historii aktualizací
 # Represents the path to the binary used to start the application.
 app-basics-binary = Binární soubor aplikace
 app-basics-profile-dir = Složka s profilem
-app-basics-enabled-plugins = Povolené zásuvné moduly
 app-basics-build-config = Nastavení sestavení
 app-basics-user-agent = User agent
 app-basics-os = OS
@@ -101,9 +92,6 @@ show-dir-label =
 environment-variables-title = Proměnné prostředí
 environment-variables-name = Název
 environment-variables-value = Hodnota
-experimental-features-title = Experimentální funkce
-experimental-features-name = Název
-experimental-features-value = Hodnota
 modified-key-prefs-title = Důležité změněné předvolby
 modified-prefs-name = Název
 modified-prefs-value = Hodnota
@@ -233,9 +221,6 @@ media-cdm-capabilities = Schopnosti
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Nešifrovaný úvod (Clear Lead)
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = Kompatibilní s HDCP 2.2
 
 ##
 
@@ -416,8 +401,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Zakázáno experimentem
-fission-status-experiment-treatment = Povoleno experimentem
 fission-status-disabled-by-e10s-env = Zakázáno prostředím
 fission-status-enabled-by-env = Povoleno prostředím
 fission-status-disabled-by-env = Zakázáno prostředím
@@ -426,7 +409,6 @@ fission-status-disabled-by-default = Zakázáno ve výchozím nastavení
 fission-status-enabled-by-user-pref = Povoleno uživatelem
 fission-status-disabled-by-user-pref = Zakázáno uživatelem
 fission-status-disabled-by-e10s-other = Zakázáno kvůli E10S
-fission-status-enabled-by-rollout = Povoleno postupným zaváděním
 async-pan-zoom = Asynchronní lupa/panning
 apz-none = nic
 wheel-enabled = vstup kolečka povolen

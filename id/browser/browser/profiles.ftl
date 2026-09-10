@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } akan terbuka ke profil yang terakhir Anda gunakan.
 profile-window-create-profile = Buat profil
 profile-card-edit-button =
-    .title = Edit Profil
     .aria-label = Edit Profil
+    .title = Edit Profil
 profile-card-delete-button =
-    .title = Hapus profil
     .aria-label = Hapus profil
+    .title = Hapus profil
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Buka { $profileName }
     .aria-label = Buka { $profileName }
+    .title = Buka { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profil { $number }
@@ -66,9 +66,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Hapus profil { $profilename }
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = Hapus profil { $profilename }?
 delete-profile-description = { -brand-short-name } akan menghapus data berikut secara permanen dari perangkat ini:
 # Open is an adjective, as in "browser windows currently open".
@@ -89,28 +86,10 @@ delete-profile-confirm = Hapus
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Terang
-# The default dark theme
-profiles-dark-theme = Gelap
 # The default system theme
 profiles-system-theme = Sistem
 profiles-system-theme-title =
     .title = Terapkan tema sistem
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = Marigold kuning
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = Lavender pucat
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = Hijau mint
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = Magnolia merah jambu
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = Biru laut
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = Merah bata
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = Hijau lumut
 profiles-gray-theme = Abu-abu
 profiles-gray-theme-title =
     .title = Terapkan tema abu-abu

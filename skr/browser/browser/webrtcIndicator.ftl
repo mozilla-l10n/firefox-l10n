@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } شیئرنگ انڈیکیٹر
-webrtc-indicator-window =
-    .title = { -brand-short-name } شیئرنگ انڈیکیٹر
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = تساں اپݨا مائیکروفون سانجھا کریندے پئے او۔ سانجھ کوں ہتھ اِچ کرݨ کیتے کلک کرو۔
 webrtc-screen-system-menu =
     .label = تساں اپݨی ونڈو یا سکرین سانجھی کریندے پئے او۔ سانجھ کوں ہتھ اِچ کرݨ کیتے کلک کرو۔
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = تہاݙا کیمرا تے مائیکروفون سانجھے تھیندے پئے ہن۔ سانجھ کوں ہتھ اِچ کرݨ کیتے کلک کرو۔
-webrtc-indicator-sharing-camera =
-    .tooltiptext = تہاݙا کیمرا سانجھ تھیندا پیا ہے۔ سانجھ کوں ہتھ اِچ کرݨ کیتے کلک کرو۔
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = تہاݙا مائیکروفون سانجھا تھیندا پیا ہے۔ سانجھ کوں ہتھ اِچ کرݨ کیتے کلک کرو۔
-webrtc-indicator-sharing-application =
-    .tooltiptext = ہک ایپلی کیشن سانجھی تھیندی پئی ہے۔ سانجھ کوں ہتھ اِچ کرݨ کیتے کلک کرو۔
-webrtc-indicator-sharing-screen =
-    .tooltiptext = تہاݙی سکرین سانجھی تھیندی پئی ہے۔ سانجھ کوں ہتھ اِچ کرݨ کیتے کلک کرو۔
-webrtc-indicator-sharing-window =
-    .tooltiptext = ہک ونڈو سانجھی تھیندی پئی ہے۔ سانجھ کوں ہتھ اِچ کرݨ کیتے کلک کرو۔
-webrtc-indicator-sharing-browser =
-    .tooltiptext = ہک ٹیب سانجھی تھیندی پئی ہے۔ سانجھ کوں ہتھ اِچ کرݨ کیتے کلک کرو۔
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = { $origin } کو
 
 webrtc-share-screen-warning = صرف انہاں سائٹاں دے نال سکرین دی سانجھ کرو جنہاں تے تساں بھروسہ کریندے او۔ سانجھ کرݨ نال فریبی سائٹاں کوں تہاݙی طراں براؤز کرݨ تے تہاݙا نجی ڈیٹا چور کرݨ دی اجازت مل سڳدی ہے۔
 webrtc-share-browser-warning = صرف انہاں سائٹاں دے نال { -brand-short-name } دی سانجھ کرو جنہاں تے تہاکوں بھروسہ ہے۔ سانجھ کرݨ نال فریبی سائٹاں کوں تہاݙی طراں براؤز کرݨ تے تہاݙا نجی ڈیٹا چوری کرݨ دی اجازت مل سڳدی ہے۔
-webrtc-share-screen-learn-more = ٻیا سِکھو
 webrtc-pick-window-or-screen = ونڈو یا سکرین منتخب کرو
 webrtc-share-entire-screen = پوری سکرین
 webrtc-share-pipe-wire-portal = آپریٹنگ سسٹم دیاں ترتیباں استعمال کرو

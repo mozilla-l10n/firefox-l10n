@@ -31,4 +31,3 @@ search-bookmarks = záložkách
 search-history = histórii
 search-opentabs = otvorených kartách
 search-tags = značkách
-search-titles = názvoch

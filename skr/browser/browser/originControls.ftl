@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = ایکسٹینشن ڈیٹا کوں پڑھ تے تبدیل نئیں کر سڳدی
-origin-controls-quarantined =
-    .label = ایکسٹینشن کوں ڈیٹا  پڑھݨ تے تبدیل کرݨ دی اجازت کائنی
 origin-controls-quarantined-status =
     .label = محدود سائٹاں اُتے ایکسٹنشن دی اجازت کائے نِھیں
 origin-controls-quarantined-allow =

@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Joan atzera
 neterror-return-to-previous-page-recommended-button = Itzuli (gomendatua)
 neterror-try-again-button-2 = Saiatu berriro
     .accesskey = S
-neterror-try-again-button = Saiatu berriro
 neterror-add-exception-button = Jarraitu beti gune honetarako
 neterror-settings-button = Aldatu DNS ezarpenak
 neterror-view-certificate-link = Ikusi ziurtagiria
-neterror-trr-continue-this-time = Jarraitu oraingo honetan
-neterror-disable-native-feedback-warning = Jarraitu beti
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = Argibide gehiago
 ##
 
 neterror-pref-reset = Badirudi zure sareko segurtasun-ezarpenek eragiten dutela hau. Ezarpen lehenetsiak berrezarri nahi dituzu?
-neterror-error-reporting-automatic = Eman honen gisako erroreen berri { -vendor-short-name }ri asmo txarreko guneak identifikatzen eta blokeatzen laguntzeko
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Deskonektatu eta birkonektatu Wi
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name }(e)k ezin du gune honen helbiderako zure eskaera babestu gure konfiantzazko DNS ebazlearen bidez. Hona hemen zergatik:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name }(e)k ezin du gune honen helbiderako zure eskaera babestu gure DNS ebazle seguruaren bidez. Hona hemen zergatik:
 neterror-dns-not-found-trr-third-party-warning2 = Zure DNS ebazle lehenetsiarekin jarrai dezakezu. Halere, hirugarren batentzat posible izan liteke bisitatzen dituzun webguneak ikustea.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name }(e) ezin izan du { $trrDomain } ostalarira konektatu.
 neterror-dns-not-found-trr-only-timeout = { $trrDomain } ostalarirako konexioak uste baino denbora gehiago behar izan du.
-neterror-dns-not-found-trr-offline = Ez zaude Internetera konektatuta.
 neterror-dns-not-found-trr-unknown-host2 = Webgune hau ez du aurkitu { $trrDomain } ostalariak
 neterror-dns-not-found-trr-server-problem = Arazo bat egon da { $trrDomain } ostalariarekin.
 neterror-dns-not-found-bad-trr-url = URL baliogabea.
 neterror-dns-not-found-system-sleep = Sistema lotarako moduan dago.
 neterror-dns-not-found-trr-unknown-problem = Ustekabeko arazoa.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name }(e)k ezin du gune honen helbiderako zure eskaera babestu gure konfiantzazko DNS ebazlearen bidez. Hona hemen zergatik:
-neterror-dns-not-found-native-fallback-heuristic = HTTPS againeko DNSa desgaitu egin da zure sarean.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name }(e) ezin izan du { $trrDomain } ostalarira konektatu.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = Kendua edo lekuz aldatua egon liteke, edo fitxategi-bai
 neterror-unknown-protocol = Agian bestelako softwarea instalatu behar duzu helbide hau irekitzeko.
 neterror-redirect-loop = Arazo hau baliteke cookieak desgaituta eduki edo ez onartzeagatik izatea.
 neterror-unknown-socket-type-client-config = Zure bezeroaren konfigurazio-errore batengatik izan daiteke hau.
-neterror-unknown-socket-type-psm-installed = Egiaztatu zure sistemak Personal Security Manager delakoa instalatuta duela.
-neterror-unknown-socket-type-server-config = Baliteke zerbitzariaren konfigurazio ez-estandar batengatik izatea.
 neterror-not-cached-intro = Eskatutako dokumentua ez dago { -brand-short-name }(r)en cache memorian.
 neterror-not-cached-sensitive = Segurtasun-neurri gisa, { -brand-short-name }(e)k ez ditu berriro automatikoki eskatzen informazio pertsonala izan dezaketen dokumentuak.
 neterror-not-cached-try-again = Egin klik 'Saiatu berriro' botoian webguneko dokumentua berriro eskatzeko.

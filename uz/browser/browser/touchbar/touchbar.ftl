@@ -31,4 +31,3 @@ search-bookmarks = Xatchoʻplar
 search-history = Tarix
 search-opentabs = Varaqlarni ochish
 search-tags = Teglar
-search-titles = Sarlavhalar

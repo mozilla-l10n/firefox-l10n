@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Undtagelser
     .style = min-width: 36em
+    .title = Undtagelser
 permissions-close-key =
     .key = w
 permissions-address = Adresse på websted
@@ -80,78 +80,63 @@ permissions-invalid-uri-label = Indtast venligst et gyldigt værtsnavn
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Undtagelser for udvidet beskyttelse mod sporing
     .style = { permissions-window2.style }
+    .title = Undtagelser for udvidet beskyttelse mod sporing
 permissions-exceptions-manage-etp-desc = Du kan angive, hvilke websteder der har slået Udvidet beskyttelse mod sporing fra. Indtast den nøjagtige adresse på webstedet, du ønsker at håndtere, og klik derefter på Tilføj undtagelse.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Undtagelser - cookies og websteds-data
     .style = { permissions-window2.style }
+    .title = Undtagelser - cookies og websteds-data
 permissions-exceptions-cookie-desc = Du kan angive, hvilke websteder der altid eller aldrig har tilladelse til at anvende cookies og websteds-data. Indtast adressen på webstedet, du ønsker at angive tilladelser for, og klik på Bloker, Tillad for sessionen eller Tillad
 
 ## Exceptions - Clear on Shutdown
 
 permissions-exceptions-shutdown-clearing-window =
-    .title = Undtagelser - Ryd historik ved lukning
     .style = { permissions-window2.style }
+    .title = Undtagelser - Ryd historik ved lukning
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Undtagelser - Tilstanden Kun-HTTPS
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Du kan slå tilstanden Kun-HTTPS fra for bestemte websteder. { -brand-short-name } vil ikke forsøge at opgradere til en sikker forbindelse for de valgte websteder. Undtagelser gælder ikke for private vinduer.
+    .title = Undtagelser - Tilstanden Kun-HTTPS
 permissions-exceptions-https-only-desc2 = Du kan slå tilstanden Kun-HTTPS fra for bestemte websteder. { -brand-short-name } vil ikke forsøge at opgradere til en sikker forbindelse for de valgte websteder.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
     .title = Tillade websteder - Pop op-vinduer og tredjeparts-omdirigeringer
-    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = Du kan angive, hvilke websteder der må åbne pop op-vinduer og blive omdirigeret af tredjeparts-frames.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Tilladte websteder - Pop op-vinduer
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Du kan angive hvilke websteder, der må åbne pop op-vinduer. Indtast den præcise adresse på det websted du vil tillade at åbne pop op-vinduer, og klik derefter på Tillad.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Undtagelser - gemte logins
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Logins for følgende websteder vil ikke blive gemt
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Undtagelser - Gemte Kodeord
     .style = { permissions-window2.style }
+    .title = Undtagelser - Gemte Kodeord
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } gemmer ikke adgangskoder til websteder vist her.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Tilladte websteder - Installation af tilføjelser
     .style = { permissions-window2.style }
+    .title = Tilladte websteder - Installation af tilføjelser
 permissions-exceptions-addons-desc = Du kan angive hvilke websteder der må installere tilføjelser. Indtast den præcise adresse på det websted, du vil tillade at installere tilføjelser og klik derefter på Tillad.
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Indstillinger - automatisk afspilning
     .style = { permissions-window2.style }
+    .title = Indstillinger - automatisk afspilning
 permissions-site-autoplay-desc = Her kan du håndtere de websteder, der ikke skal følge dine standard-indstillinger for automatisk afspilning.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Indstillinger - Tilladelser for beskeder
     .style = { permissions-window2.style }
+    .title = Indstillinger - Tilladelser for beskeder
 permissions-site-notification-desc = Følgende websteder har anmodet om at sende dig beskeder. Du kan angive, hvilke websteder der må sende dig beskeder. Du kan også blokere nye anmodninger om at tillade beskeder.
 permissions-site-notification-disable-label =
     .label = Bloker nye anmodninger om at tillade beskeder.
@@ -160,8 +145,8 @@ permissions-site-notification-disable-desc = Dette vil forhindre websteder, der 
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Indstillinger - Tilladelser for position
     .style = { permissions-window2.style }
+    .title = Indstillinger - Tilladelser for position
 permissions-site-location-desc = Følgende websteder har anmodet om at se din position. Du kan angive, hvilke websteder, der må se din position. Du kan også blokere nye anmodninger om at se din position.
 permissions-site-location-disable-label =
     .label = Bloker nye anmodninger om at se din position.
@@ -170,8 +155,8 @@ permissions-site-location-disable-desc = Dette vil forhindre websteder, der ikke
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Indstillinger - Tilladelser for virtual reality
     .style = { permissions-window2.style }
+    .title = Indstillinger - Tilladelser for virtual reality
 permissions-site-xr-desc = De følgende websteder har anmodet om adgang til dine virtual reality-enheder. Du kan angive, hvilke websteder, der må have adgang til dine virtual reality-enheder. Du kan også blokere nye anmodninger om adgang til dine virtual reality-enheder.
 permissions-site-xr-disable-label =
     .label = Bloker nye anmodninger om adgang til dine virtual reality-enheder
@@ -180,8 +165,8 @@ permissions-site-xr-disable-desc = Dette vil forhindre websteder, der ikke er an
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Indstillinger - Tilladelser for kamera
     .style = { permissions-window2.style }
+    .title = Indstillinger - Tilladelser for kamera
 permissions-site-camera-desc = Følgende websteder har anmodet om adgang til dit kamera. Du kan angive, hvilke websteder, der må have adgang til dit kamera. Du kan også blokere nye anmodninger om få adgang til dit kamera.
 permissions-site-camera-disable-label =
     .label = Bloker nye anmodninger om adgang til dit kamera
@@ -190,8 +175,8 @@ permissions-site-camera-disable-desc = Dette vil forhindre websteder, der ikke e
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = Indstillinger - Enhedsapps og -tjenester
     .style = { permissions-window2.style }
+    .title = Indstillinger - Enhedsapps og -tjenester
 permissions-site-localhost-desc = Disse websteder har anmodet om adgang til apps og tjenester på denne enhed. Du kan vælge, om websteder skal have mulighed for at gøre dette.
 permissions-site-localhost-disable-label =
     .label = Bloker nye anmodninger om adgang til apps og tjenester på denne enhed
@@ -200,8 +185,8 @@ permissions-site-localhost-disable-desc = Dette vil forhindre websteder, der ikk
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = Indstillinger - Lokale netværksenheder
     .style = { permissions-window2.style }
+    .title = Indstillinger - Lokale netværksenheder
 permissions-site-local-network-desc = Disse websteder har anmodet om adgang til apps og tjenester på enheder, der er forbundet til dit wi-fi eller dit lokale netværk. Du kan vælge, om websteder skal have mulighed for at gøre dette.
 permissions-site-local-network-disable-label =
     .label = Bloker nye anmodninger om adgang til apps og tjenester på enheder, der er tilsluttet dit wi-fi- eller dit lokale netværk.
@@ -210,8 +195,8 @@ permissions-site-local-network-disable-desc = Dette vil forhindre websteder, der
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Indstillinger - Tilladelser for mikrofon
     .style = { permissions-window2.style }
+    .title = Indstillinger - Tilladelser for mikrofon
 permissions-site-microphone-desc = Følgende websteder har anmodet om adgang til din mikrofon. Du kan angive, hvilke websteder, der må have adgang til din mikrofon. Du kan også blokere nye anmodninger om få adgang til din mikrofon.
 permissions-site-microphone-disable-label =
     .label = Bloker nye anmodninger om adgang til din mikrofon
@@ -222,12 +207,12 @@ permissions-site-microphone-disable-desc = Dette vil forhindre websteder, der ik
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Indstillinger - Tilladelser for højtalere
     .style = { permissions-window2.style }
+    .title = Indstillinger - Tilladelser for højtalere
 permissions-site-speaker-desc = Følgende websteder har anmodet om at vælge en output-enhed for lyd. Du kan angive, hvilke websteder der har tilladelse til at vælge en output-enhed for lyd.
 permissions-exceptions-doh-window =
-    .title = Websteds-undtagelser for DNS via HTTPS
     .style = { permissions-window2.style }
+    .title = Websteds-undtagelser for DNS via HTTPS
 permissions-exceptions-manage-doh-desc = { -brand-short-name } vil ikke anvende sikker DNS på disse websteder og deres subdomæner.
 permissions-doh-entry-field = Angiv webstedets domænenavn
     .accesskey = d

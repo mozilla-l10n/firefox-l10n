@@ -18,16 +18,11 @@ serviceworker-list-header = Service Worker’lar
 serviceworker-list-aboutdebugging = Diğer alan adlarına ait Service Worker’lar için <a>about:debugging</a>’i açın
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Kaydı sil
-# Text for the debug link displayed for an already started Service Worker. Clicking on the
-# link opens a new devtools toolbox for this service worker. The title attribute is only
-# displayed when the link is disabled.
-serviceworker-worker-debug = Hata ayıkla
-    .title = Yalnızca çalışan service worker’larda hata ayıklanabilir
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 # Variables:
 #   $date (date) - Update date
-serviceworker-worker-updated = Güncelleme: <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
+serviceworker-worker-updated = Güncelleme: <time>{ DATETIME($date, day: "numeric", hour: "numeric", minute: "numeric", month: "long", second: "numeric", year: "numeric") }</time>
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.

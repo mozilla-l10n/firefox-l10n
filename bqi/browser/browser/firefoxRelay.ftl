@@ -11,8 +11,6 @@ firefox-relay-dismiss =
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = زفت وابیڌن نشۊوی ایمیل ایسا:
 firefox-relay-use-mask-title-1 = و کار گرؽڌن ماسک ایمیل
-# This is preceded by firefox-relay-opt-in-title-a (on a different line)
-firefox-relay-opt-in-subtitle-a = بؽڌار کردن نشۊوی ایمیل واقعی ایسا
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
 firefox-relay-opt-in-title-b = ی ماسک ایمیل مۊفتی بگیرین
 # This is preceded by firefox-relay-opt-in-title-b (on a different line)
@@ -26,12 +24,6 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = سکو ن
     .accesskey = N
-firefox-relay-and-fxa-opt-in-confirmation-enable-button =
-    .label = و من ٱووڌن و { -brand-product-name } وو و کار گرؽڌن ماسک
-    .accesskey = S
-firefox-relay-and-fxa-opt-in-confirmation-enable-button-sign-up =
-    .label = سبت نوم
-    .accesskey = S
 firefox-relay-and-fxa-opt-in-confirmation-disable =
     .label = دی نشووݩ داڌه نبۊ
     .accesskey = D
@@ -39,18 +31,9 @@ firefox-relay-and-fxa-opt-in-confirmation-postpone =
     .label = سکو ن
     .accesskey = N
 
-## The "basic-info" variation of the Relay offer popup
-
-firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
-    .label = سبت نوم
-    .accesskey = S
-
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = ی ماسک ایمیل مۊفتی بگیرین
-firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
-    .label = سبت نوم
-    .accesskey = S
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 

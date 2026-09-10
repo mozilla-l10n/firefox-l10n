@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = การตั้งค่าการเชื่อมต่อ
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = การตั้งค่าการเชื่อมต่อ
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = โหลดใหม่
     .accesskey = ล
-connection-proxy-autologin =
-    .label = ไม่ต้องถามเพื่อยืนยันตัวตนถ้ารหัสผ่านถูกบันทึกไว้
-    .accesskey = ถ
-    .tooltip = ตัวเลือกนี้จะทำการยืนยันตัวตนของคุณกับพร็อกซีโดยอัตโนมัติเมื่อคุณได้บันทึกข้อมูลรับรองไว้ คุณจะถูกถามถ้าการยืนยันตัวตนล้มเหลว
 connection-proxy-autologin-checkbox =
     .label = ไม่ต้องถามเพื่อยืนยันตัวตนถ้ารหัสผ่านถูกบันทึกไว้
-    .accesskey = ถ
     .tooltiptext = ตัวเลือกนี้จะทำการยืนยันตัวตนของคุณกับพร็อกซีโดยอัตโนมัติเมื่อคุณได้บันทึกข้อมูลรับรองไว้ คุณจะถูกถามถ้าการยืนยันตัวตนล้มเหลว
+    .accesskey = ถ
 connection-proxy-socks4-remote-dns =
     .label = DNS แบบพร็อกซีเมื่อใช้ SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = ใช้ URL เริ่มต้นสำหรับแปลงที่อยู่ DNS ผ่าน HTTPS
 connection-dns-over-https-url-custom =
     .label = กำหนดเอง
-    .accesskey = ก
     .tooltiptext = ป้อน URL ที่คุณต้องการสำหรับแปลงที่อยู่ DNS ผ่าน HTTPS
-connection-dns-over-https-custom-label = กำหนดเอง
+    .accesskey = ก

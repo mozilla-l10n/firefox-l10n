@@ -36,9 +36,6 @@ unified-extensions-item-message-manage = Handsam utviding
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = { $extensionName } er avgrensa. Bruk av henne kan vere risikabelt.
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName } bryt Mozillas retningslinjer. Å bruke ho kan vere risikabelt.
 
 ## Extension's context menu
 
@@ -57,8 +54,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Nokre utvidingar er ikkje tillatne
-unified-extensions-mb-quarantined-domain-message = For å beskytte dataa dine er berre utvalde utvidingar overvaka av { -vendor-short-name } tillate på denne nettstaden.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Nokre utvidingar er ikkje tillatne
@@ -74,13 +69,6 @@ unified-extensions-mb-blocklist-warning-single2 =
         Denne utvidinga er avgrensa og har vorte deaktivert.
         Du kan aktivere henne i innstillingane, men dette kan vere risikabelt.
 # Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } deaktivert
-    .message =
-        Denne utvidinga bryt Mozillas retningslinjer og har vorte deaktivert.
-        Du kan aktivere ho i innstillingar, men dette kan vere risikabelt.
-# Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } deaktivert
@@ -93,14 +81,6 @@ unified-extensions-mb-blocklist-warning-multiple2 =
            *[other] { $extensionsCount } extensions disabled
         }
     .message = { $extensionsCount } utvidingar deaktiverte
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-           *[other] { $extensionsCount } extensions disabled
-        }
-    .message = { $extensionsCount }-utvidingar er deaktiverte
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =

@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = 한 페이지 뒤로 가기 ({ $shortcut })
     .aria-label = 뒤로
+    .tooltiptext = 한 페이지 뒤로 가기 ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = 한 페이지 앞으로 가기 ({ $shortcut })
     .aria-label = 앞으로
+    .tooltiptext = 한 페이지 앞으로 가기 ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = 페이지 북마크…
-    .accesskey = m
     .tooltiptext = 페이지 북마크
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = 페이지 북마크…
-    .accesskey = m
     .tooltiptext = 페이지 북마크 ({ $shortcut })
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = 북마크 편집…
-    .accesskey = m
     .tooltiptext = 북마크 편집
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = 북마크 편집…
-    .accesskey = m
     .tooltiptext = 북마크 편집 ({ $shortcut })
+    .accesskey = m
 main-context-menu-open-link =
     .label = 링크 열기
     .accesskey = O
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = 링크를 다른 이름으로 저장…
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = 링크를 { -pocket-brand-name }에 저장
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = 페이지를 보내려�
 main-context-menu-send-to-mobile-connect-phone3 = 탭을 보내려면 기기를 연결하세요
 main-context-menu-send-to-mobile-connect-phone-from-link = 링크를 보내려면 기기를 연결하세요
 main-context-menu-send-to-mobile-connect-phone-from-page = 페이지를 보내려면 기기를 연결하세요
-main-context-menu-save-to-pocket =
-    .label = 페이지를 { -pocket-brand-name }에 저장
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = 페이지를 기기로 보내기
-    .accesskey = D
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = 저장된 로그인 사용
-    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = 저장된 비밀번호 사용
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } 이메일 가리기 사용
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = 강력한 비밀번호 제안…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = 로그인 관리
-    .accesskey = M
 main-context-menu-manage-passwords =
     .label = 비밀번호 관리
     .accesskey = M
-main-context-menu-keyword =
-    .label = 이 검색의 키워드 추가…
-    .accesskey = K
 main-context-menu-add-engine =
     .label = 검색 엔진 추가
     .accesskey = S
@@ -393,9 +366,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = 스크린샷
     .accesskey = T
-main-context-menu-take-frame-screenshot =
-    .label = 스크린샷
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = 페이지 소스 보기
     .accesskey = V

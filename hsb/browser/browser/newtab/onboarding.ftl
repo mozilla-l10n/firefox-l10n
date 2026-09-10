@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = { $addon-name } přidać
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Postup: krok { $current } z { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -199,11 +193,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = { -brand-short-name } k nadawkowej lajsće a startowemu menijej připjeć
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Započńće z wobhladowakom, kotryž so wot powšitkownosći wužitneje organizacije podpěruje. Škitamy wašu priwatnosć, mjeztym zo po interneće hawroniće.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -233,57 +222,10 @@ mr2022-onboarding-set-default-subtitle = Wužiwajće wobhladowak, kotryž so wot
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Naša najnowša wersija je wokoło was natwarjena, kotraž wam lóšo hdy do toho čini, web přehladować. Je połny funkcijow, wo kotrychž sej myslimy, zo so wam spodobaja.
 mr2022-onboarding-get-started-primary-button-label = Instalacija za sekundy
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Błyskospěšna instalacija
-mr2022-onboarding-import-subtitle = Zarjadujće { -brand-short-name }, kak so wam spodoba. Přidajće swoje zapołožki, hesła a wjace ze swojeho stareho wobhladowaka.
 mr2022-onboarding-import-primary-button-label-no-attribution = Z předchadneho wobhladowaka importować
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Wubjerće barbu, kotraž was inspiruje
-mr2022-onboarding-colorway-subtitle = Njewotwisne hłosy móža kulturu změnić.
-mr2022-onboarding-colorway-primary-button-label-continue = Nastajić a pokročować
-mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } k wašej barbnej startowej stronje činić
-mr2022-onboarding-colorway-label-default = Standard
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Aktualne barby { -brand-short-name }
-mr2022-onboarding-colorway-description-default = <b>Moje aktualne barby { -brand-short-name } wužiwać.</b>
-mr2022-onboarding-colorway-label-playmaker = Wodźacy hrajer
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Wodźacy hrajer (čerwjeny)
-mr2022-onboarding-colorway-description-playmaker = <b>Sće wodźacy hrajer.</b> Wutworiće składnosće, zo byšće dobył a kóždemu wokoło was pomhał, jich hru polěpšić.
-mr2022-onboarding-colorway-label-expressionist = Ekspresionist
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Ekspresionist (žołty)
-mr2022-onboarding-colorway-description-expressionist = <b>Sće ekspresionist.</b> Widźiće swět hinak a waše dźěła začuća druhich wodźa.
-mr2022-onboarding-colorway-label-visionary = Wizionar
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Wizionar (zeleny)
-mr2022-onboarding-colorway-description-visionary = <b>Sće wizionar.</b> Stajeće status quo do prašenja a pohnuwaće druhich, sej lěpši přichod předstajić.
-mr2022-onboarding-colorway-label-activist = Aktiwist
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Aktiwist (módry)
-mr2022-onboarding-colorway-description-activist = <b>Sće aktiwist.</b> Zawostajeće swět jako lěpše městno, hač sće jón namakał a wjedźeće druhich k wěrje.
-mr2022-onboarding-colorway-label-dreamer = Sonjer
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Sonjer (violetny)
-mr2022-onboarding-colorway-description-dreamer = <b>Sće sonjer.</b> Wěriće, zo zbožo zmužiteho preferuje a inspirujeće druhich, zo bychu zmužići byli.
-mr2022-onboarding-colorway-label-innovator = Inowator
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Inowator (oranžowy)
-mr2022-onboarding-colorway-description-innovator = <b>Sće inowator.</b> Widźiće wšudźe šansy a wuskutkujeće so na žiwjenja wšěch wokoło was.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Skočće wot laptopa do šmóratka a zaso wróćo
-mr2022-onboarding-mobile-download-subtitle = Wobstarajće sej rajtarki z jednoho grata a čińće tam dale, hdyž sće na drzhim graće přestał. Nimo toho móžeće swoje zapołožki a hesła synchronizować, hdźežkuli { -brand-product-name } wužiwaće.
 mr2022-onboarding-mobile-download-cta-text = Skennujće QR-kod, zo byšće { -brand-product-name } za swój mobilny grat dóstał abo <a data-l10n-name="download-label">sćelće sej sćehnjenski wotkaz.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Skenujće QR-kod, zo byšće sej { -brand-product-name } za mobilny grat wobstarał.
 
@@ -336,15 +278,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Swětłokóžne a ćěmnokóžne ruki hromadu kleskaja
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Pohlad na chowanje słónca přez wokno z lišku a stwinej rostlinu na woknowym prohu
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Ruka barbojtu kolažu zeleneho wóčka, oranžoweho črija, čerwjeneho basketballa, wioletnych nahłownych słuchatkow, módreje wutroby a žołteje króny
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Žołmjaca so liška na wobrazowce laptopa. Laptop ma přizamknjenu myšku.
 onboarding-device-migration-title = Witajće wróćo!
-onboarding-device-migration-subtitle = Přizjewće so pola { -fxaccount-brand-name(capitalization: "sentence") }, zo byšće swoje zapołožki, hesła a historiju na swojim nowym graće sobu wzał.
 onboarding-device-migration-subtitle2 = Přizjewće so pola swojeho konta, zo byšće swoje zapołožki, hesła a swoju historiju na swój nowy grat přenošował.
 onboarding-device-migration-primary-button-label = Přizjewić
 
@@ -461,15 +400,12 @@ tab-groups-onboarding-feature-callout-title = Wupruwujće skupiny rajtarkow za m
 tab-groups-onboarding-feature-callout-subtitle = Organizujće so, ćehńće jedyn rajtark horjeka na druhi, zo byšće wašu prěnju skupinu wutworił.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Namakajće kóždy čas swoje skupiny rajtarkow w meniju Wšě rajtarki nalistować.
-tab-groups-onboarding-create-group-title-2 = Namakajće swoje skupiny rajtarkow tu kóždy čas.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Pytajće za swojimi skupinami, zo byšće je w adresowym polu namakał.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Hdyž skupinu rajtarkow začinjeće, wočińće ju zaso kóždy čas z menija Wšě rajtarki nalistować.
-tab-groups-onboarding-saved-groups-title-2 = Hdyž skupinu rajtarkow začinjeće, móžeće ju tu kóždy čas zaso wočinić.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Pytajće za swojimi začinjenymi skupinami, zo byšće je w adresowym polu namakał.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Wočińće zaso kóždy čas swoje skupiny rajtarkow z menija Wšě rajtarki nalistować.
-tab-groups-onboarding-session-restore-title = Wočińće zaso swoje skupiny rajtarkow tu kóždy čas.
 tab-groups-onboarding-dismiss = W porjadku
 
 ## Multi Profiles feature onboarding messages

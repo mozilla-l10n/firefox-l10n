@@ -23,4 +23,3 @@ about-networking-messages-sent = खौरां दैथाय हरबाय
 about-networking-messages-received = खौरां मोनबाय
 about-networking-bytes-sent = बाइट्स दैथाय हरबाय
 about-networking-bytes-received = बाइट्स मोनबाय
-about-networking-rcwn-perf-open = खेव

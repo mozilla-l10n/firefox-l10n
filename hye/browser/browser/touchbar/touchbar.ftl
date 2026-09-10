@@ -31,4 +31,3 @@ search-bookmarks = Էջանիշեր
 search-history = Պատմութիւն
 search-opentabs = Բացել ներդիրներ
 search-tags = Պիտակներ
-search-titles = Անուանումներ

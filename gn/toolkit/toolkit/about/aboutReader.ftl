@@ -4,14 +4,6 @@
 
 about-reader-loading = Oñemyanyhẽhína...
 about-reader-load-error = Ndaikatúi emyanyhẽ kuatiarogue haipy
-about-reader-color-scheme-light = Tendy
-    .title = Sa’y hesakãva raity
-about-reader-color-scheme-dark = Ypytũ
-    .title = Sa’y iñypytũva raity
-about-reader-color-scheme-sepia = Sepia
-    .title = Sa’yjungýva raity
-about-reader-color-scheme-auto = Jehegui
-    .title = Sa’y raity ijeheguíva
 about-reader-color-light-theme = Tesakã
     .title = Téma vevúi
 about-reader-color-dark-theme = Ypytũ
@@ -24,16 +16,6 @@ about-reader-color-gray-theme = Hũngy
     .title = Téma hũngy
 about-reader-color-contrast-theme = Mbojuavy
     .title = Téma mbojuavy
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time =
-    { $rangePlural ->
-        [one] { $range } aravo’i
-       *[other] { $range } aravo’i
-    }
 
 ## Reader View text and layout menu
 
@@ -41,14 +23,6 @@ about-reader-toolbar-minus =
     .title = Emomichĩ tai tuichakue reñoiha
 about-reader-toolbar-plus =
     .title = Emogakuaa tai tuichakue reñoiha
-about-reader-toolbar-contentwidthminus =
-    .title = Emomichĩ tetepy pekue
-about-reader-toolbar-contentwidthplus =
-    .title = Emogakuaa tetepy pekue
-about-reader-toolbar-lineheightminus =
-    .title = Emomichĩ tairenda pukukue
-about-reader-toolbar-lineheightplus =
-    .title = Emogakuaa tairenda pukukue
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -59,7 +33,6 @@ about-reader-font-type-monospace = Taipa’ũ
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Moñe’ẽha jehechágui ñesẽ
-about-reader-toolbar-type-controls = Taity ha Tugua Ñangarekoha
 about-reader-toolbar-text-layout-controls = Tetepy ha moha’ãnga
 about-reader-toolbar-theme-controls = Téma
 about-reader-toolbar-savetopocket = Eñongatu { -pocket-brand-name }-pe

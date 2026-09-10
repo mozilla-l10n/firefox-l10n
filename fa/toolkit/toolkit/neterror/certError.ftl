@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = گواهی مورد اعتماد نیست ز
 cert-error-trust-signature-algorithm-disabled = این گواهینامه به دلیل‌ امضا شدن توسط الگوریتمی که به دلیل امن نبودن غیر فعال شده است غیرقابل اطمینان می‌باشد.
 cert-error-trust-expired-issuer = گواهی مورد اعتماد نیست زیرا گواهی صادرکننده منقضی شده است.
 cert-error-trust-self-signed = گواهی مورد اعتماد نیست زیرا توسط خود پایگاه امضا شده است.
-cert-error-trust-symantec = گواهی‌نامه‌های صادر شده توسط GeoTrust، RapidSSL، Symantec، Thawte و VeriSign دیگر امن شناخته نمی‌شوند چرا که در گذشته این مراجع دستورالعمل‌های امنیتی را رعایت نکرده‌اند.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } به { $hostname } اعتماد ندارد زیرا نمی‌تواند اثبات کند که الزامات شفافیت گواهینامه عمومی را برآورده می‌کند.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = کد خطا:<a data-l10n-name="error-code-link">{ 
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = خطایی در هنگام اتصال { $hostname }.{ $errorMessage } رخ داد
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = وبسایت‌ها هویت خود را از طریق گواهی‌‌نامه‌هایی اثبات می‌کنند که توسط CAها صادر می‌شوند. اکثر مرورگرها گواهی‌نامه‌های صادر شده توسط GeoTrust، RapidSSL، Symantec، Thawte و VeriSign را دیگر معتبر نمی‌دانند. { $hostname } از گواهی‌نامه‌های صادر شده توسط یکی از این شرکت‌ها استفاده می‌کند بنابراین هویت وبسایت قابل تأیید نیست.
-cert-error-symantec-distrust-admin = بهتر است این مشکل را به اطلاع مدیر وبسایت برسانید.
 cert-error-old-tls-version = ممکن است این وبگاه از شیوه‌نامهٔ TLS 1.2 که پایین‌ترین نگارش پشتیبانی شدهٔ { -brand-short-name } است، پشتیبانی نکند.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,12 +62,10 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = زنجیره گواهی:
-open-in-new-window-for-csp-or-xfo-error = گشودن پایگاه در پنجرهٔ جدید
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = در صورتی که سایت دیگری در صفحه جاسازی شده باشد، به منظور حفظ امنیت شما، { $hostname } اجازه نمی‌دهد تا { -brand-short-name } صفحه را نمایش دهد. برای مشاهده این صفحه، باید پنجره جدیدی باز کنید.
 fp-certerror-view-certificate-link = مشاهده گواهینامه وبگاه
-fp-certerror-return-to-previous-page-recommended-button = بازگشت (توصیه می‌شود)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -92,21 +85,21 @@ fp-certerror-self-signed-important-note = نکته مهم: اگر در تلاش 
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = وبگاه‌ها از گواهینامه‌هایی که توسط یک مرجع صدور گواهینامه صادر شده‌اند استفاده می‌کنند تا اثبات کنند که واقعا همان کسانی هستند که می‌گویند. { -brand-short-name } به این وبگاه اعتماد ندارد زیرا به نظر می‌رسد گواهینامه در تاریخ { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } منقضی شده است.
+fp-certerror-expired-why-dangerous-body = وبگاه‌ها از گواهینامه‌هایی که توسط یک مرجع صدور گواهینامه صادر شده‌اند استفاده می‌کنند تا اثبات کنند که واقعا همان کسانی هستند که می‌گویند. { -brand-short-name } به این وبگاه اعتماد ندارد زیرا به نظر می‌رسد گواهینامه در تاریخ { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } منقضی شده است.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = وبگاه‌ها از گواهینامه‌هایی که توسط یک مرجع صدور گواهینامه صادر شده‌اند استفاده می‌کنند تا اثبات کنند که واقعا همان کسانی هستند که می‌گویند. { -brand-short-name } به این وبگاه اعتماد ندارد زیرا به نظر می‌رسد گواهینامه تا تاریخ { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } معتبر نخواهد بود.
+fp-certerror-not-yet-valid-why-dangerous-body = وبگاه‌ها از گواهینامه‌هایی که توسط یک مرجع صدور گواهینامه صادر شده‌اند استفاده می‌کنند تا اثبات کنند که واقعا همان کسانی هستند که می‌گویند. { -brand-short-name } به این وبگاه اعتماد ندارد زیرا به نظر می‌رسد گواهینامه تا تاریخ { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } معتبر نخواهد بود.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = ساعت دستگاه شما بر روی { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } تنظیم شده است. اگر این صحیح است، احتمالاً مشکل امنیتی از خود وبگاه است. اگر اشتباه است، می‌توانید آن را در تنظیمات سیستم، دستگاه خود تغییر دهید.
+fp-certerror-expired-what-can-you-do-body = ساعت دستگاه شما بر روی { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } تنظیم شده است. اگر این صحیح است، احتمالاً مشکل امنیتی از خود وبگاه است. اگر اشتباه است، می‌توانید آن را در تنظیمات سیستم، دستگاه خود تغییر دهید.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = کد خطا: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 fp-learn-more-about-secure-connection-failures = درباره خرابی اتصال ایمن بیشتر بدانید
 fp-learn-more-about-cert-issues = در مورد این نوع مشکلات گواهینامه بیشتر بدانید
 fp-learn-more-about-time-related-errors = در مورد رفع اشکال خطاهای مرتبط با زمان بیشتر بدانید
@@ -118,8 +111,6 @@ deniedPortAccess-title = این نشانی ممنوع است
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = آممم. ما کمی مشکل در پیدا کردن این پایگاه اینترنتی داریم.
-dns-not-found-trr-only-title2 = خطر امنیتی احتمالی در جستجوی این دامنه
-dns-not-found-native-fallback-title2 = خطر امنیتی احتمالی در جستجوی این دامنه
 fileNotFound-title = پرونده پیدا نشد
 fileAccessDenied-title = دسترسی به پرونده رد شد
 generic-title = متأسفیم.
@@ -142,7 +133,6 @@ redirectLoop-title = این صفحه درست تغییر مسیر نمی‌ده�
 unknownSocketType-title = جواب غیرمنتظره از کارگزار
 nssFailure2-title = برقراری اتصال ایمن شکست خورد
 csp-xfo-error-title = ‫{ -brand-short-name } نمی‌تواند این صفحه را بگشاید
-corruptedContentError-title = خطای خرابی محتوا
 sslv3Used-title = قادر به برقراری اتصال امن نمیباشد
 inadequateSecurityError-title = اتصال شما امن نیست
 blockedByPolicy-title = صفحهٔ مسدود شده
@@ -165,6 +155,5 @@ fp-certerror-hide-advanced-button = پنهان کردن پیشرفته
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = ادامه به { $hostname } (خطرناک)
 fp-certerror-intro = { -brand-short-name } یک مشکل امنیتی بالقوه جدی با <strong>{ $hostname }</strong> مشاهده کرده است. کسی که وانمود می‌کند وبگاه است ممکن است تلاش کند اطلاعاتی مانند اطلاعات کارت اعتباری، گذرواژه‌ها، یا رایانامه‌ها را سرقت کند.
 fp-certerror-expired-into = { -brand-short-name } یک مشکل امنیتی با <strong>{ $hostname }</strong> مشاهده کرده است. یا وبگاه به درستی تنظیم نشده است یا ساعت دستگاه شما به تاریخ/ساعت اشتباه تنظیم شده است.

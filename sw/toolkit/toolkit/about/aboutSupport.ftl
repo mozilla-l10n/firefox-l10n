@@ -16,7 +16,6 @@ app-basics-profile-dir =
         [linux] Mpangilio Orodha wa Maelezo Mafupi
        *[other] Folda ya Maelezo mafupi
     }
-app-basics-enabled-plugins = Wezesha Programu-jalizi
 app-basics-build-config = Jenga Usanidi
 app-basics-user-agent = Mtumaiji Wakala
 app-basics-memory-use = Utumizi wa Kumbukumbu

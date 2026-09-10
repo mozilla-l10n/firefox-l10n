@@ -18,13 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Ereko peteĩ marandu jokopyre emondo’ỹva
-       *[other] Ereko { $reportCount } marandu jokopyre emondo’ỹva
-    }
 pending-crash-reports-view-all =
     .label = Hecha
 pending-crash-reports-send =
@@ -37,13 +30,6 @@ requested-crash-reports-message-new =
     { $reportCount ->
         [one] Ereko marandu’i jejavygua oho’ỹva umi jajavy ojehapykuehóva rehe. Emondóramo ore pytyvõta iporãvévo { -brand-product-name }. Oñembotývo ko marandu’i omboykéta ko’ã marandu’i.
        *[other] Ereko { $reportCount } marandu’i jejavygua oho’ỹva umi jajavy ojehapykuehóva rehe. Emondóramo ore pytyvõta iporãvévo { -brand-product-name }. Oñembotývo ko marandu’i omboykéta ko’ã marandu’i.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Ereko marandu’i jejavygua oho’ỹva umi jajavy ojehapykuehóva rehe, emondóramo ore pytyvõta iporãvévo { -brand-product-name }. Oñembotývo ko marandu’i omboykéta ko’ã marandu’i.
-       *[other] Ereko { $reportCount } marandu’i jejavygua oho’ỹva umi jajavy ojehapykuehóva rehe, emondóramo ore pytyvõta iporãvévo { -brand-product-name }. Oñembotývo ko marandu’i omboykéta ko’ã marandu’i.
     }
 requested-crash-reports-dont-show-again =
     .label = Anive tohechauka

@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = Dźeržće { -brand-short-name } k ruce –
 default-browser-prompt-message-pin-msix = Dźeržće { -brand-short-name } k ruce – čińće jón k swojemu standardnemu wobhladowakej a připniće jón k swojej nadawkowej lajsće a k startowemu menijej.
 default-browser-prompt-message-pin-mac = Dźeržće { -brand-short-name } k ruce – čińće jón k swojemu standardnemu wobhladowakej a wobchowajće jón w swojim doku.
 default-browser-prompt-button-primary-set = Jako primarny wobhladowak nastajić
-default-browser-prompt-button-primary-pin = K primarnemu wobhladowakej činić
 default-browser-prompt-title-alt = Chceće { -brand-short-name } k swojemu standardnemu wobhladowakej činić?
 default-browser-prompt-message-alt = Dóstanće spěšnosć, wěstotu a priwatnosć kóždy raz, hdyž přehladujeće.
 default-browser-prompt-button-primary-alt = Jako standardny wobhladowak nastajić

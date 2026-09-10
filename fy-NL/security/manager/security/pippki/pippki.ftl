@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Jo binne no yn FIPS-modus. FIPS fereasket 
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Haadwachtwurd opnij ynstelle
     .style = min-width: 40em
+    .title = Haadwachtwurd opnij ynstelle
 reset-password-button-label =
     .label = Opnij inisjalisearje
 reset-primary-password-text = As jo jo haadwachtwurd opnij ynstelle sille, al jo bewarre web- en e-mailwachtwurden, persoanlike sertifikaten en priveekaaien fergetten wurde. Binne jo wis dat jo jo haadwachtwurd opnij inisjalisearje wolle?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Jo haadwachtwurd is opnij ynsteld
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Sertifikaat downloade
     .style = min-width: 46em
+    .title = Sertifikaat downloade
 download-cert-message = Jo wurdt frege in nije sertifikaatautoriteit (CA) te fertrouwen.
 download-cert-trust-ssl =
     .label = Fertrou dizze CA foar it identifisearjen fan websites.
@@ -52,8 +52,6 @@ download-cert-view-text = CA-sertifikaat bestudearje
 
 client-auth-window =
     .title = Brûkersidentifikaasjefersyk
-client-auth-site-description = Dizze website fersiket jo om josels te identifisearjen mei in befeiligingssertifikaat:
-client-auth-choose-cert = Kies in sertifikaat om as identifikaasje te presintearjen:
 client-auth-send-no-certificate =
     .label = Stjoer gjin sertifikaat
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Autentisearje by it befeiligingsapparaat ({ $tokenName }). Hoe’t jo dit dogge, hinget ôf fan it apparaat (bygelyks mei help fan in fingerôfdruklêzer of it ynfieren fan in koade mei in toetseboerd).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Autentisearje by it token ‘{ $tokenName }’. Hoe’t jo dit dogge, hinget ôf fan it token (bygelyks mei help fan in fingerôfdruklêzer of it ynfieren fan in koade mei in toetseboerd).

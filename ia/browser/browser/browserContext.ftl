@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Ir un pagina retro ({ $shortcut })
     .aria-label = Retro
+    .tooltiptext = Ir un pagina retro ({ $shortcut })
     .accesskey = R
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Ir un pagina avante ({ $shortcut })
     .aria-label = Avante
+    .tooltiptext = Ir un pagina avante ({ $shortcut })
     .accesskey = A
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Adder pagina al marcapaginas…
-    .accesskey = m
     .tooltiptext = Adde le pagina al marcapaginas
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Adder pagina al marcapaginas…
-    .accesskey = m
     .tooltiptext = Adde pagina al marcapaginas ({ $shortcut })
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = Modificar marcapagina…
-    .accesskey = m
     .tooltiptext = Modifica marcapagina
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Modificar marcapagina…
-    .accesskey = m
     .tooltiptext = Modifica marcapaginas ({ $shortcut })
+    .accesskey = m
 main-context-menu-open-link =
     .label = Aperir le ligamine
     .accesskey = A
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Salvar le ligamine como…
     .accesskey = S
-main-context-menu-save-link-to-pocket =
-    .label = Salvar le ligamine in { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Activa le synchronisati
 main-context-menu-send-to-mobile-connect-phone3 = Connecte un apparato pro inviar schedas
 main-context-menu-send-to-mobile-connect-phone-from-link = Connecte un apparato pro inviar un ligamine
 main-context-menu-send-to-mobile-connect-phone-from-page = Connecte un apparato pro inviar un pagina
-main-context-menu-save-to-pocket =
-    .label = Salvar le pagina in { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Inviar le pagina a un apparato
-    .accesskey = a
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Usar credentiales salvate
-    .accesskey = e
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Usar contrasigno salvate
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Usa le masca email de { -relay-brand-short-name }
     .accesskey = e
 main-context-menu-suggest-strong-password =
     .label = Suggerer un contrasigno forte…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = Gerer credentiales
-    .accesskey = G
 main-context-menu-manage-passwords =
     .label = Gerer contrasignos
     .accesskey = G
-main-context-menu-keyword =
-    .label = Adder un parola clave pro iste recerca…
-    .accesskey = p
 main-context-menu-add-engine =
     .label = Adder motor de recerca
     .accesskey = r
@@ -393,9 +366,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Capturar un instantaneo de schermo
     .accesskey = C
-main-context-menu-take-frame-screenshot =
-    .label = Capturar instantaneo
-    .accesskey = i
 main-context-menu-view-page-source =
     .label = Vider le codice fonte del pagina
     .accesskey = V

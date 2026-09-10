@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Syngronisearje…
 sync-disconnect-dialog-title2 = Ferbining ferbrekke?
 sync-disconnect-dialog-body = { -brand-product-name } stoppet de syngronisaasje mei jo account, mar sil gjin navigaasjegegevens op dit apparaat fuortsmite.
 sync-disconnect-dialog-button = Ferbining ferbrekke
-fxa-signout-dialog2-title = Ofmelde by { -fxaccount-brand-name }?
 fxa-signout-dialog-title2 = Ofmelde by jo account?
 fxa-signout-dialog-body = Syngronisearre gegevens sille yn jo account bliuwe.
 fxa-signout-dialog2-button = Ofmelde
@@ -43,14 +42,6 @@ fxviewtabrow-send-to-mobile-not-verified = Account net ferifiearre
 fxviewtabrow-send-to-mobile-verify-account = Jo account ferifiearje
 fxa-menu-send-to-mobile-turn-on-sync = Skeakelje Syngronisaasje yn om ljepblêden te ferstjoeren
 fxa-menu-send-to-mobile-connect-device = Ferbyn in apparaat om ljepblêden te ferstjoeren
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Ljepblêd nei apparaat ferstjoere
-           *[other] { $tabCount } ljepblêden nei apparaat ferstjoere
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Apparaten syngronisearje…

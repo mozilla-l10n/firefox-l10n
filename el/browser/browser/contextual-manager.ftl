@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Αναζήτηση κωδικών πρόσβασης
-    .key = F
     .aria-label = Αναζήτηση κωδικών πρόσβασης
+    .key = F
+    .placeholder = Αναζήτηση κωδικών πρόσβασης
 contextual-manager-menu-more-options-button =
     .title = Περισσότερες επιλογές
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Εισαγωγή από αρχεί
 contextual-manager-passwords-command-export = Εξαγωγή κωδικών πρόσβασης
 contextual-manager-passwords-command-remove-all = Αφαίρεση όλων των κωδικών πρόσβασης
 contextual-manager-passwords-command-options = Επιλογές
-contextual-manager-passwords-command-settings = Ρυθμίσεις
 contextual-manager-passwords-command-help = Βοήθεια
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Έγινε εισαγωγή κωδικών πρόσβασης
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Νέοι: { $added }, Ενημερωμένοι: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -213,8 +208,6 @@ contextual-manager-passwords-create-label =
     .label = Προσθήκη κωδικού πρόσβασης
 contextual-manager-passwords-update-label =
     .label = Ενημέρωση κωδικού πρόσβασης
-contextual-manager-passwords-edit-label =
-    .label = Επεξεργασία κωδικού πρόσβασης
 contextual-manager-passwords-remove-label =
     .title = Αφαίρεση κωδικού πρόσβασης
 contextual-manager-passwords-origin-field =
@@ -230,7 +223,6 @@ contextual-manager-passwords-password-field-description = Εισαγάγετε �
 contextual-manager-passwords-origin-tooltip = Εισαγάγετε την ακριβή διεύθυνση όπου θα πραγματοποιείτε σύνδεση σε αυτόν τον ιστότοπο.
 contextual-manager-passwords-username-tooltip = Εισαγάγετε το όνομα χρήστη, τη διεύθυνση email ή τον αριθμό λογαριασμού που χρησιμοποιείτε για τη σύνδεση.
 contextual-manager-passwords-password-tooltip-2 = Εισαγάγετε τον κωδικό πρόσβασης για να συνδεθείτε σε αυτόν τον λογαριασμό.
-contextual-manager-passwords-password-tooltip = Εισαγάγετε τον κωδικό πρόσβασης που χρησιμοποιήθηκε για τη σύνδεση σε αυτόν τον λογαριασμό.
 
 ## Password Card
 
@@ -277,10 +269,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Αντιγραφή κωδικού πρόσβασης (Προειδοποίηση)
 contextual-manager-edit-login-button = Επεξεργασία
     .tooltiptext = Επεξεργασία κωδικού πρόσβασης
-contextual-manager-view-alert-heading =
-    .heading = Προβολή ειδοποίησης
-contextual-manager-view-alert-button =
-    .tooltiptext = Έλεγχος ειδοποίησης
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -307,13 +295,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Δεν βρέθηκαν κωδικοί πρόσβασης
 contextual-manager-passwords-no-passwords-found-message-2 = Δοκιμάστε έναν διαφορετικό όρο και κάντε ξανά αναζήτηση.
-contextual-manager-passwords-no-passwords-found-message = Δεν βρέθηκαν κωδικοί πρόσβασης. Αναζητήστε έναν διαφορετικό όρο και δοκιμάστε ξανά.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Αποθηκεύστε τους κωδικούς πρόσβασής σας σε ένα ασφαλές μέρος.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Όλοι οι κωδικοί πρόσβασης είναι κρυπτογραφημένοι και θα έχουμε τον νου μας για παραβιάσεις και ειδοποιήσεις αν επηρεαστείτε.

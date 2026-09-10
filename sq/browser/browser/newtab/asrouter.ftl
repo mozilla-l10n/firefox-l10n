@@ -62,7 +62,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Njëkohësoni faqerojtësit tuaj kudo.
-cfr-doorhanger-bookmark-fxa-body = Gjetje e fortë! Tani, mos rrini pa këtë faqerojtës në pajisjet tuaja celulare. Fillojani me një { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = Gjetje e fortë! Tani, mos rrini pa këtë faqerojtës në pajisjet tuaja celulare. Fillojani me një llogari.
 cfr-doorhanger-bookmark-fxa-link-text = Njëkohësoni faqerojtës që tani…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -75,12 +74,6 @@ fxa-adoption-credit-cards-backup-subtitle = Mbroni metodat tuaja të pagesave du
 fxa-adoption-bookmarks-treatment-backup-title = Le të kopjeruajmë faqerojtësit tuaj
 fxa-adoption-bookmarks-treatment-backup-subtitle = Mbroni faqerojtësit tuaj duke i njëkohësuar me fshehtëzim nëpër pajisjet tuaja.
 fxa-adoption-primary-button-label = Regjistrohuni
-
-## Protections panel
-
-cfr-protections-panel-header = Shfletoni pa qenë i ndjekur
-cfr-protections-panel-body = Mbajini për vete të dhënat tuaja. { -brand-short-name } ju mbron nga shumë prej gjurmuesve më të rëndomtë që ndjekin ç’bëni në internet.
-cfr-protections-panel-link-text = Mësoni më tepër
 
 ## What's New toolbar button and panel
 
@@ -175,42 +168,8 @@ mr2022-background-update-toast-primary-button-label = Hapeni { -brand-shorter-na
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Kujtoma Më Vonë
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Provojeni
-    .accesskey = P
-firefoxview-cfr-secondarybutton = Jo tani
-    .accesskey = J
-firefoxview-cfr-header-v2 = Vazhdoni pa humbur kohë atje ku e latë
-firefoxview-cfr-body-v2 = Rikthehuni te skeda të mbyllura së fundi, plus hidhuni rrjedhshëm sa në një pajisje në një tjetër, me { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = I thoni tungjatjeta { -firefoxview-brand-name }-it
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = E doni atë skedë të hapur në telefonin tuaj? Përlajeni. Ju duhet ai sajt që sapo vizituat? Paf, ja ku erdhi me { -firefoxview-brand-name }-in.
-firefoxview-spotlight-promo-primarybutton = Shihni se si funksionon
-firefoxview-spotlight-promo-secondarybutton = Anashkaloje
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Zgjidhnii ngjyrim
-    .accesskey = Z
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Ngjyroseni shfletuesin tuaj me nuancat ekskluzive të { -brand-short-name }-it të frymëzuara nga zëra që ndryshuan kulturë.
-colorways-cfr-header-28days = Ngjyrimi “Zëra të Pavarur”  skadon më 16 janar
-colorways-cfr-header-14days = Ngjyrimi “Zëra të Pavarur”  skadon pas dy javësh
-colorways-cfr-header-7days = Ngjyrimi “Zëra të Pavarur”  skadon pas këtë javë
-colorways-cfr-header-today = Ngjyrimi “Zëra të Pavarur”  skadon sot
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Të lejohet { -brand-short-name } të hedhë poshtë banderola cookie-sh?
-cfr-cbh-body = { -brand-short-name }-i mundet të hedhë poshtë automatikisht mjaft kërkesa banderolash për “cookies”.
-cfr-cbh-confirm-button = Hidh poshtë banderola për cookie-t
-    .accesskey = H
-cfr-cbh-dismiss-button = Jo tani
-    .accesskey = J
 cookie-banner-blocker-onboarding-header = { -brand-short-name } sapo hodhi poshtë një banderolë cookie-sh për ju
 cookie-banner-blocker-onboarding-body = Më pak shpërqendrim, më pak “cookies” që ju ndjekin në këtë sajt.
 cookie-banner-blocker-onboarding-learn-more = Mësoni më tepër

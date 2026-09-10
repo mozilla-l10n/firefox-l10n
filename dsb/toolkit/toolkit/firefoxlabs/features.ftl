@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Zmóžniśo Warp, projekt za pólěp
 experimental-features-ime-search =
     .label = Adresowe pólo: wuslědki za IME-kompoziciju pokazaś
 experimental-features-ime-search-description = IME (Input Method Editor, editor zapódawańskeje metody)  jo rěd, kótaryž wam zmóžnja, kompleksne symbole zapódaś, ako se na pśikład w pódzajtšnoaziskich abo indiskich rěcach wužywaju, z pomocu standardneje tastatury. Gaž toś ten eksperiment zmóžnjaśo, wóstawa wokno adresowego póla wócynjone, kótarež pytańske wuslědki a naraźenja pokazujo, mjaztym až tekst z pomocu IME zapódawaśo. Źiwajśo na to, až IME mógał wokno pokazaś, kótarež wuslědki adresowego póla wopśimujo, togodla se toś to nastajenje jano za IME naraźujo, kótaryž toś ten typ wokna njewužywa.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Wobraz-we-wobrazu: pśi wuměnjenju rejtarika awtomatiski wócyniś
-experimental-features-auto-pip-description = Wobraz-we-wobrazu za aktiwne wideo zmóžniś, gaž se rejtariki wuměnjaju.
 experimental-features-group-developer-tools =
     .label = Wuwijaŕske rědy
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Produktiwita
 experimental-features-group-newtab-widgets =
     .label = Asistenty w { -firefox-home-brand-name }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Gronidła w bocnicy
-experimental-features-contextual-password-manager-description = Dostańśo direktny pśistup k swójim gronidłam z bocnice. Njetrjebaśo wěcej gronidła pytaś abo slědk stajiś, gaž wopytujośo se pśizjawiś. Aby toś tu funkciju wužywał, wubjeŕśo gronidła w bocnicy. Źiśo pón k powšyknym nastajenjam a wubjeŕśo pód nadpismom Wugótowanje wobglědowaka zapisk Bocnicu pokazaś. Wubjeŕśo gronidła, aby swóju bocnicu pśiměrił. Jolic toś tu funkciju wopytujośo, <a data-l10n-name="connect">dajśo nam k wěsći, což wó tom mysliśo</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Wubjeŕśo swójski slězynowy wobraz abo swójsku barwu za bok nowego rejtarika

@@ -15,12 +15,10 @@ neterror-learn-more-link = Bay ka tonton…
 neterror-open-portal-login-page-button = Sankaa huruyan tammaasa moɲoo feeri
 neterror-pref-reset-button = Tilasu kayandiyaney yeeti
 neterror-return-to-previous-page-button = Yee &banda
-neterror-try-again-button = Ceeci koyne
 
 ##
 
 neterror-pref-reset = A ga him sanda war sankay saajaw kayandiyaney mma woo tee. War ga boona kaŋ tilasu kayandiyaney ma yeeti?
-neterror-error-reporting-automatic = Firkawey bangandi ka { -vendor-short-name } faaba ka dii nungu laaley nda k'i gagay
 
 ## Specific error messages
 
@@ -37,8 +35,6 @@ neterror-file-not-found-moved = Guna ka dii wala tukooo mana ganandi, maa-barman
 neterror-access-denied = A hin ka tee kaŋ a n' ka hun, ka ganandi wala duɲeyaney ga ganji a ma duwandi.
 neterror-unknown-protocol = War ga hima ka goyjinaw waani foo sinji ka aderesoo feeri.
 neterror-redirect-loop = Cee fooyaŋ šenday ga tee nda war na aleewawey kayandi wal'i hode.
-neterror-unknown-socket-type-psm-installed = Guna k'alhakiika wala boŋ-saajaw juwalkaw sinjandi.
-neterror-unknown-socket-type-server-config = Woo sotoloo ga hin ka tee hanseyan dumi foo kaŋ fondaa ši hennay ga bara feršikaa ga.
 neterror-not-cached-intro = Takadda wirantaa ši bara { -brand-short-name } lanbari lakkaloo ra.
 neterror-not-cached-sensitive = Saajaw laasaabu ra, { -brand-short-name } ši sutura takadda wiri nga bonše.
 neterror-not-cached-try-again = Ceeci koyne naagu ka takaddaa wiri Interneti nungoo ga.

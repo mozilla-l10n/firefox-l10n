@@ -35,7 +35,7 @@ remove-search-engine-button = හරි
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = සෙවුම් යන්ත්‍රය එක් කරන්න
     .style = min-width: 32em;
+    .title = සෙවුම් යන්ත්‍රය එක් කරන්න
 add-engine-button = අභිරුචි යන්ත්‍රය එක් කරන්න
 add-engine-name = සෙවුම් යන්ත්‍රයේ නම

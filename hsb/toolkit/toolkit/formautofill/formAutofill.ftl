@@ -17,7 +17,6 @@ autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } pospytuje
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } pospytuje, składowane informacije płaćenskeje metody pokazać.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Nastajenja za awtomatiske wupjelnjenje formularow
-autofill-options-link-osx = Nastajenja za awtomatiske wupjelnjenje formularow
 
 ## The credit card capture doorhanger
 
@@ -67,16 +66,6 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
-# The warning text that is displayed for informing users what categories are
-# about to be filled.  The text would be, for example,
-#   Also autofills organization, phone, email.
-# Variables:
-#   $categories - one or more of the categories, see autofill-category-X below
-autofill-phishing-warningmessage-extracategory = { $categories } so tež awtomatisce wupjelnja
-# Variation when all are in the same category.
-# Variables:
-#   $categories - one or more of the categories
-autofill-phishing-warningmessage = { $categories } so awtomatisce wupjelnja
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = adresa
 autofill-category-name = mjeno

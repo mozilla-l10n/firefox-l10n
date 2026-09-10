@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = Saltar entre dispositivos levando as sú
 callout-firefox-view-tab-pickup-subtitle = Colla rapidamente as lapelas abertas do seu teléfono e ábraas aquí, para navegar sen obstáculos.
 callout-firefox-view-recently-closed-title = Recupere as súas lapelas pechadas nun intre
 callout-firefox-view-recently-closed-subtitle = Todas as súas lapelas pechadas aparecerán aquí por arte de maxia. Non se volva preocupar por pechar de novo un sitio sen querer.
-callout-firefox-view-colorways-title = Engadir un toque de cor
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Escolla a tonalidade que lle guste coas combinacións de cores. Só en { -brand-product-name }.
-callout-firefox-view-colorways-reminder-title = Explorar as nosas últimas combinacións de cores
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Coloree o seu navegador con estas tonalidades emblemáticas, inspiradas en voces independentes. Só en { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

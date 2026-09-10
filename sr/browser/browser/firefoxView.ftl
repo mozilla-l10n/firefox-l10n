@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Погледајте недавно прегледање на различитим прозорима и уређајима
@@ -16,30 +13,14 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Затвори
-    .aria-label = Затвори
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Управо сад
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Усклађени језичци
-firefoxview-tabpickup-description = Отвори странице са других уређаја.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% завршено
-firefoxview-tabpickup-step-signin-header = Лако прелазите између уређаја
-firefoxview-tabpickup-step-signin-description = Да добијете језичке са свог телефона овде, прво се пријавите или направите налог
-firefoxview-tabpickup-step-signin-primarybutton = Настави
 firefoxview-syncedtabs-signin-header-2 = Ваш { -brand-product-name } на свим вашим уређајима
 firefoxview-syncedtabs-signin-description-2 = Да видите отворене језичке на вашем телефону и другим уређајима, пријавите се или направите налог. Са налогом можете и да усклађујете ваше лозинке, историју и остало.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Са преносивог рачунара на телефон, без труда
 firefoxview-syncedtabs-signin-description-3 = Задржите своје прегледање доступним на свим уређајима - језичци, лозинке и историја, све усклађено.
 firefoxview-syncedtabs-signin-primarybutton-2 = Пријави се
-firefoxview-tabpickup-adddevice-header = Усклади { -brand-product-name } на свом телефону или таблету
-firefoxview-tabpickup-adddevice-description = Преузмите { -brand-product-name } за телефон и пријавите се.
-firefoxview-tabpickup-adddevice-learn-how = Сазнајте како
-firefoxview-tabpickup-adddevice-primarybutton = Преузмите { -brand-product-name } за телефон
 firefoxview-syncedtabs-adddevice-header-2 =
     Зграбите 
     са било ког места
@@ -48,9 +29,6 @@ firefoxview-syncedtabs-adddevice-primarybutton = Преузмите { -brand-pro
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Ваши језичци вас зову. Налазе се на вашем телефону.
 firefoxview-syncedtabs-adddevice-description-3 = Скенирајте КР код да бисте преузели { -brand-product-name } за мобилне уређаје и покренули усклађивање отворених језичака и осталог. Сазнајте како да <a data-l10n-name="url">повежете додатне уређаје</a>.
-firefoxview-tabpickup-synctabs-header = Укључите усклађивање језичака
-firefoxview-tabpickup-synctabs-description = Дозволите { -brand-short-name }-у да дели језичке између уређаја.
-firefoxview-tabpickup-synctabs-learn-how = Сазнајте како
 firefoxview-tabpickup-synctabs-primarybutton = Усклађујте отворене језичке
 firefoxview-tabpickup-synctabs-primarybutton-2 = Укључи усклађивање језичака
 firefoxview-syncedtabs-synctabs-header = Ажурирајте подешавања усклађивања
@@ -62,7 +40,6 @@ firefoxview-syncedtabs-loading-description = Када заврши, видеће
 firefoxview-syncedtabs-loading-header-2 = Учитавам ваше језичке…
 firefoxview-syncedtabs-loading-description-2 = Усклађивање је у току. Језичци ће ускоро бити овде.
 firefoxview-tabpickup-fxa-admin-disabled-header = Ваша организација је онемогућила усклађивање
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } не може да усклађује језичке на свим уређајима јер је ваш администратор онемогућио услугу усклађивања.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } не може да усклађује језичке између уређаја јер је ваша организација онемогућила услугу усклађивања.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Усклађивање језичака је искључено
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Ваша организација је блокирала ову функцију.
@@ -88,39 +65,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Откључајте језичке помоћу своје главне лозинке
 firefoxview-tabpickup-password-locked-description-2 = Ради ваше приватности, усклађени језичци су заштићени. Унесите своју главну лозинку за { -brand-short-name } да бисте видели језичке са својих осталих уређаја.
 firefoxview-tabpickup-signed-out-header = Пријавите се за поновно повезивање
-firefoxview-tabpickup-signed-out-description = Пријавите се на { -fxaccount-brand-name(case: "acc") } да бисте се поново повезали и приступили својим језичцима.
 firefoxview-tabpickup-signed-out-description2 = Да се поново повежете и преузмете ваше језичке, пријавите се у ваш налог.
 firefoxview-tabpickup-signed-out-primarybutton = Пријави се
 firefoxview-tabpickup-signed-out-header-2 = Пријави се да видиш своје језичке
 firefoxview-tabpickup-signed-out-description-2 = Поново се повежи да видиш језичке са других уређаја.
-firefoxview-tabpickup-syncing = Сачекајте да се ваши језичци ускладе. Брзо ће то.
-firefoxview-mobile-promo-header = Преузмите језичке са телефона или таблета
-firefoxview-mobile-promo-description = Да видите ваше најновије језичке са мобилног уређаја, пријавите се на { -brand-product-name } за iOS или Android.
-firefoxview-mobile-promo-primarybutton = Преузмите { -brand-product-name } за телефон
-firefoxview-mobile-confirmation-header = 🎉 Све је спремно!
-firefoxview-mobile-confirmation-description = Сада можете да преузмете ваше { -brand-product-name } језичке са таблета или телефона.
-firefoxview-closed-tabs-title = Недавно затворено
-firefoxview-closed-tabs-description2 = Поново отворите странице које сте затворили у овом прозору.
-firefoxview-closed-tabs-placeholder-header = Нема недавно затворених језичака
-firefoxview-closed-tabs-placeholder-body = Ако затворите језичак у овом прозору, можете га преузети овде.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Одбаци { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Последња активност
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Отворите { $targetURI } у новом језичку
-firefoxview-try-colorways-button = Испробајте комбинације боја
-firefoxview-change-colorway-button = Промените комбинације боја
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Овде још нема ничега
-firefoxview-synced-tabs-placeholder-body = Следећи пут када отворите страницу у { -brand-product-name }-у на другом уређају, она ће се појавити овде.
 firefoxview-collapse-button-show =
     .title = Прикажи листу
 firefoxview-collapse-button-hide =

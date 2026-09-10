@@ -6,4 +6,3 @@
 ## Error page actions
 
 neterror-learn-more-link = Skua'a kuakaa…
-neterror-try-again-button = Kitsaa tuku

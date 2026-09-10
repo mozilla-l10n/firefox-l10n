@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Вы работаете в режиме с
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Сбросить основной пароль
     .style = min-width: 40em
+    .title = Сбросить основной пароль
 reset-password-button-label =
     .label = Сбросить
 reset-primary-password-text = При сбросе основного пароля все сохранённые пароли для веб-сайтов и электронной почты, личные сертификаты и закрытые ключи будут утеряны. Вы действительно хотите сбросить свой основной пароль?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Ваш основной парол�
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Загрузка сертификата
     .style = min-width: 46em
+    .title = Загрузка сертификата
 download-cert-message = Вам предлагают доверять новому центру сертификации (CA).
 download-cert-trust-ssl =
     .label = Доверять при идентификации веб-сайтов.
@@ -52,8 +52,6 @@ download-cert-view-text = Проверить сертификат центра
 
 client-auth-window =
     .title = Запрос идентификации пользователя
-client-auth-site-description = Сайту необходимо определить, с каким сертификатом вас ассоциировать:
-client-auth-choose-cert = Выберите сертификат для идентификации:
 client-auth-send-no-certificate =
     .label = Не отправлять сертификат
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Пожалуйста, авторизуйтесь на устройстве защиты ({ $tokenName }). Как это сделать, зависит от устройства (например, с помощью считывателя отпечатков пальцев или ввода кода с клавиатуры).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Пожалуйста, авторизуйтесь с токеном «{ $tokenName }». Как это сделать, зависит от токена (например, с помощью считывателя отпечатков пальцев или ввода кода с клавиатуры).

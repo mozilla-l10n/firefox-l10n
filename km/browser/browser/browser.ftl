@@ -2,33 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — ការរុករកឯកជន
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — ការរុករកឯកជន
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = មើល​ព័ត៌មាន​តំបន់បណ្ដាញ
 
@@ -58,8 +31,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = បើក​ផ្ទាំង​សារ​ទំហំ​ផ្ទុក​អហ្វឡាញ
 urlbar-password-notification-anchor =
     .tooltiptext = បើក​ផ្ទាំង​សារ​រក្សាទុក​ពាក្យ​សម្ងាត់
-urlbar-plugins-notification-anchor =
-    .tooltiptext = គ្រប់គ្រង​ការ​ប្រើប្រាស់​ផ្នែក​បន្ថែម
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = គ្រប់គ្រង​ការ​ចែករំលែក​កាមេរ៉ា​របស់​អ្នក និង/ឬ​មីក្រូហ្វូន​ជាមួយ​ទំព័រ​បណ្ដាញ​នេះ
 urlbar-autoplay-notification-anchor =
@@ -96,8 +67,6 @@ urlbar-screen-blocked =
     .tooltiptext = អ្នក​បាន​បិទ​វិបសាយ​នេះ​ពី​ការ​ចែករំលែក​អេក្រង់​របស់​អ្នក។
 urlbar-persistent-storage-blocked =
     .tooltiptext = អ្នក​បាន​ទប់ស្កាត់​ការ​ផ្ទុក​រហូត​សម្រាប់​វេបសាយ​នេះ។
-urlbar-popup-blocked =
-    .tooltiptext = អ្នក​បាន​ទប់ស្កាត់​ផ្ទាំង​លេចឡើង​សម្រាប់​គេហទំព័រ​នេះ។
 urlbar-autoplay-media-blocked =
     .tooltiptext = អ្នកបានទប់ស្កាត់មេឌៀចាក់ដោយស្វ័យប្រវត្តិដែលមានសំឡេងសម្រាប់គេហទំព័រ​នេះ។
 urlbar-canvas-blocked =
@@ -164,14 +133,9 @@ quickactions-bookmarks2 = គ្រប់គ្រងចំណាំ
 quickactions-cmd-bookmarks = ចំណាំ
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = សម្អាតប្រវត្តិថ្មីៗ
-quickactions-cmd-clearrecenthistory = សម្អាតប្រវត្តិថ្មីៗ, ប្រវត្តិ
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = សម្អាត​ប្រវត្តិ
-quickactions-cmd-clearhistory = សម្អាត​ប្រវត្តិ
 # Opens about:translations
 quickactions-translate = បកប្រែ
 quickactions-cmd-translate = បកប្រែ
-quickactions-cmd-themes = រចនាប័ទ្ម
 
 ## Bookmark Panel
 
@@ -203,7 +167,6 @@ identity-active-blocked = { -brand-short-name } បាន​​បិទ​ផ�
 identity-passive-loaded = ផ្នែក​ខ្លះ​នៃ​ទំព័រ​នេះ​មិន​មាន​សុវត្ថិភាព​ទេ​ (ដូចជា​រូបភាព)។
 identity-active-loaded = អ្នក​បាន​បិទ​ការ​ការពារ​នៅ​លើ​ទំព័រ​នេះ។
 identity-weak-encryption = ទំព័រ​នេះ​ប្រើ​ការ​បម្លែង​កូដ​ខ្សោយ។
-identity-insecure-login-forms = ការ​ចូល​ទាំង​ឡាយ​ដែល​បាន​បញ្ចូល​ក្នុង​ទំព័រ​នេះ​អាច​ត្រូវ​បាន​គេ​សម្របសម្រួល​។ ​
 identity-permissions-reload-hint = អ្នក​ប្រហែល​ត្រូវ​ផ្ទុក​ទំព័រ​ឡើងវិញ​ ដើម្បី​ឲ្យ​ការ​ផ្លាស់ប្ដូរអនុវត្ត។
 identity-clear-site-data =
     .label = សម្អាតខូឃី និងទិន្នន័យគេហទំព័រ…
@@ -211,7 +174,6 @@ identity-remove-cert-exception =
     .label = យកករណីលើកលែងចេញ
     .accesskey = R
 identity-description-insecure = ការ​តភ្ជាប់​របស់​អ្នក​ទៅ​តំបន់បណ្ដាញ​នេះ​មិន​មែន​ជា​ឯកជន​ទេ។ ព័ត៌មាន​ដែល​អ្នក​ដាក់​ស្នើ​អាច​ត្រូវ​បាន​អ្នក​ផ្សេង​មើល​ឃើញ (ដូចជា​ពាក្យ​សម្ងាត់ សារ ប័ណ្ណ​ឥណទាន។ល។)។
-identity-description-insecure-login-forms = ព័ត៌មាន​ចូល​ដែល​អ្នក​​ចូល​នៅ​លើ​ទំព័រ​នេះ​មិន​មាន​សុវត្ថិភាព ហើយ​អាច​ត្រូវ​​បាន​​ធ្វើ​​ឲ្យ​រំខាន។
 identity-description-weak-cipher-intro = ការ​តភ្ជាប់​របស់​អ្នក​ទៅ​កាន់​វិបសាយ​នេះ​ប្រើ​ការ​បម្លែង​កូដ​ខ្សោយ និង​មិន​មែន​ជា​ឯកជន។
 identity-description-weak-cipher-risk = អ្នក​ផ្សេង​ទៀត​​អាច​មើល​ព័ត៌មាន​​របស់​អ្នក ឬ​កែប្រែ​​​ការ​ប្រព្រឹត្តិ​របស់​វេបសាយ​បាន។
 identity-description-active-blocked2 = { -brand-short-name } បាន​បិទ​ផ្នែក​ខ្លះ​នៃ​ទំព័រ​នេះ​ដែល​មិន​មាន​សុវត្ថិភាព។
@@ -220,12 +182,6 @@ identity-description-passive-loaded-insecure2 = វិបសាយ​នេះ�
 identity-description-passive-loaded-mixed2 = ទោះបីជា { -brand-short-name } បាន​បិទ​​មាតិកា​ខ្លះ នៅតែ​មាន​​មាតិកា​នៅ​លើ​ទំព័រ​នេះ​ដែល​មិន​មាន​សុវត្ថិភាព (ដូចជា​រូបភាព)។
 identity-description-active-loaded = វិបសាយ​នេះ​មាន​មាតិកា​ដែល​មិន​មាន​សុវត្ថិភាព (ដូចជា​ស្គ្រីប) ហើយ​ការ​តភ្ជាប់​របស់​អ្នក​ទៅ​​វា​គឺ​មិន​មែន​ជា​ឯកជន​ទេ។
 identity-description-active-loaded-insecure = ព័ត៌មាន​ដែល​អ្នក​ចែករំលែក​ជាមួយ​តំបន់បណ្ដាញ​នេះ​ អ្នក​ផ្សេង​អាច​មើល​ឃើញ​ដែរ (ដូចជា​ពាក្យ​សម្ងាត់ សារ ប័ណ្ណ​ឥណទាន។ល។)។
-identity-disable-mixed-content-blocking =
-    .label = បិទ​ការ​ការពារ​ឥឡូវ
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = បើក​ការ​ការពារ
-    .accesskey = E
 identity-more-info-link-text =
     .label = ព័ត៌មាន​បន្ថែម
 
@@ -274,8 +230,6 @@ urlbar-extension =
     .value = ផ្នែក​បន្ថែម៖
 urlbar-go-button2 =
     .title = ទៅកាន់​អាសយដ្ឋាន​ក្នុង​របារ​ទីតាំង
-urlbar-go-button =
-    .tooltiptext = ទៅកាន់​អាសយដ្ឋាន​ក្នុង​របារ​ទីតាំង
 urlbar-page-action-button =
     .tooltiptext = ទំព័រ​សកម្មភាព
 
@@ -296,13 +250,6 @@ urlbar-result-action-visit = មើល
 
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = កុំទាន់
-
-## Strings used for buttons in the urlbar
-
-urlbar-searchmode-bookmarks =
-    .label = ចំណាំ
-urlbar-searchmode-history =
-    .label = ប្រវត្តិ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -375,12 +322,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] លាក់របារឧបករណ៍ចំណាំ
            *[other] បង្ហាញរបារឧបករណ៍ចំណាំ
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] ដក​ម៉ឺនុយចំណាំចេញពីរបារឧបករណ៍
-           *[other] បញ្ចូល​ម៉ឺនុយចំណាំទៅកាន់របារឧបករណ៍
-        }
 
 ##
 
@@ -448,8 +389,6 @@ eme-notifications-drm-content-playing = វីដេអូ និង​អូឌ
 
 ## Password save/update panel
 
-panel-save-update-username = អត្ថនាម
-panel-save-update-password = ពាក្យ​សម្ងាត់
 panel-save-update-username-2 =
     .label = អត្ថនាម
 panel-save-update-password-2 =
@@ -460,28 +399,10 @@ panel-save-update-password-2 =
 ui-tour-info-panel-close =
     .tooltiptext = បិទ
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = អនុញ្ញាត​​​លេច​ឡើង​សម្រាប់ { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = ទប់ស្កាត់​​ការ​​លេចឡើង​សម្រាប់ { $uriHost }
-    .accesskey = p
-
-##
-
-popups-infobar-dont-show-message =
-    .label = កុំ​បង្ហាញ​សារ​នេះ ​ពេល​ដែល​បង្អួច​លេចឡើង​ត្រូវ​បាន​ទប់ស្កាត់
-    .accesskey = D
-
 ##
 
 navbar-downloads =
     .label = ទាញ​យក
-navbar-overflow =
-    .tooltiptext = ឧបករណ៍ច្រើនទៀត…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Savīnuojuma īstatiejumi
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Savīnuojuma īstatiejumi
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -51,14 +51,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Puorluodeit
     .accesskey = r
-connection-proxy-autologin =
-    .label = Navaicuot autentifikaceju, nui ir saglobuota parole
-    .accesskey = i
-    .tooltip = Itei īspieja namonūt autentificēs jius storpnīkserverūs, kurim jiusim ir saglobuota parole. Nui autentifikaceja naizadūs, jiusim tiks paruodeits autentifikacejis lūgs.
 connection-proxy-autologin-checkbox =
     .label = Navaicuot autentifikaceju, nui ir saglobuota parole
-    .accesskey = i
     .tooltiptext = Itei īspieja namonūt autentificēs jius storpnīkserverūs, kurim jiusim ir saglobuota parole. Nui autentifikaceja naizadūs, jiusim tiks paruodeits autentifikacejis lūgs.
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = Storpnīkservera DNS izmontojūt SOCKS v5
     .accesskey = D

@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Nid oes modd ymddiried yn y dystysgrif oherw
 cert-error-trust-signature-algorithm-disabled = Nid oes ymddiriedaeth i'r dystysgrif gan ei fod wedi ei lofnodi gan ddefnyddio algorithm llofnod sydd wedi ei analluogi am nad yw'r algorithm yn anniogel.
 cert-error-trust-expired-issuer = Nid oes modd ymddiried yn y dystysgrif oherwydd bod y dystysgrif ryddhau wedi dod i ben.
 cert-error-trust-self-signed = Nid oes modd ymddiried yn y dystysgrif am ei fod wedi ei hunanlofnodi.
-cert-error-trust-symantec = Nid yw tystysgrifau a gyhoeddwyd gan GeoTrust, RapidSSL, Symantec, Thawte, a VeriSign bellach yn cael eu hystyried yn ddiogel oherwydd nad oedd yr awdurdodau tystysgrif hyn yn dilyn arferion diogelwch yn y gorffennol.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = Nid yw { -brand-short-name } yn ymddiried yn { $hostname } oherwydd nid yw'n gallu profi ei fod yn bodloni gofynion tryloywder tystysgrif gyhoeddus.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Cod gwall: <a data-l10n-name="error-code-link">{ $
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Digwyddodd gwall wrth gysylltu â { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Mae gwefannau yn profi eu hunaniaeth trwy dystysgrifau, sy'n cael eu cyhoeddir gan awdurdodau tystysgrif. Nid yw'r mwyafrif o borwyr bellach yn ymddiried mewn tystysgrifau a gyhoeddir gan GeoTrust, RapidSSL, Symantec, Thawte, a VeriSign. Mae { $hostname } yn defnyddio tystysgrif gan un o'r awdurdodau hyn ac felly nid oes modd profi hunaniaeth y wefan.
-cert-error-symantec-distrust-admin = Gallwch hysbysu gweinyddwr y wefan am y broblem hon.
 cert-error-old-tls-version = Mae'n bosibl na fydd y wefan hon yn cefnogi'r protocol TLS 1.2, sef y fersiwn lleiaf a gefnogir gan { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = Diogelwch Trosglwyddo Llym HTTP: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Pinio Allwedd Cyhoeddus HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadwyn tystysgrif:
-open-in-new-window-for-csp-or-xfo-error = Agor Gwefan mewn Ffenestr Newydd
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Er mwyn amddiffyn eich diogelwch, ni fydd { $hostname } yn caniatáu i { -brand-short-name } ddangos y dudalen os yw gwefan arall wedi'i mewnblannu ynddi. I weld y dudalen hon, bydd angen i chi ei hagor mewn ffenestr newydd.
 fp-certerror-view-certificate-link = Gweld tystysgrif y wefan
 fp-certerror-return-to-previous-page-recommended-button-2 = Mynd Nôl (Argymell)
     .accesskey = N
-fp-certerror-return-to-previous-page-recommended-button = Mynd Nôl (Argymell)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -106,21 +99,21 @@ fp-certerror-self-signed-important-note = NODYN PWYSIG: Os ydych yn ceisio ymwel
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = Mae gwefannau'n defnyddio tystysgrifau wedi'u cyhoeddi gan awdurdod tystysgrifau i brofi eu bod yn dweud y gwir am pwy ydyn nhw. Nid yw { -brand-short-name } yn ymddiried yn y wefan hon oherwydd mae'n edrych fel bod y dystysgrif wedi dod i ben ar { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-expired-why-dangerous-body = Mae gwefannau'n defnyddio tystysgrifau wedi'u cyhoeddi gan awdurdod tystysgrifau i brofi eu bod yn dweud y gwir am pwy ydyn nhw. Nid yw { -brand-short-name } yn ymddiried yn y wefan hon oherwydd mae'n edrych fel bod y dystysgrif wedi dod i ben ar { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = Mae gwefannau'n defnyddio tystysgrifau wedi'u cyhoeddi gan awdurdod tystysgrifau i brofi eu bod yn dweud y gwir am pwy ydyn nhw. Nid yw { -brand-short-name } yn ymddiried yn y wefan hon oherwydd mae'n edrych fel bod y dystysgrif wedi dod i ben ar { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-not-yet-valid-why-dangerous-body = Mae gwefannau'n defnyddio tystysgrifau wedi'u cyhoeddi gan awdurdod tystysgrifau i brofi eu bod yn dweud y gwir am pwy ydyn nhw. Nid yw { -brand-short-name } yn ymddiried yn y wefan hon oherwydd mae'n edrych fel bod y dystysgrif wedi dod i ben ar { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = Mae cloc eich dyfais wedi'i osod i { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Os yw hyn yn gywir, mae'n debyg mai'r safle ei hun yw'r broblem diogelwch. Os yw'n anghywir, gallwch ei newid yng ngosodiadau system eich dyfais.
+fp-certerror-expired-what-can-you-do-body = Mae cloc eich dyfais wedi'i osod i { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Os yw hyn yn gywir, mae'n debyg mai'r safle ei hun yw'r broblem diogelwch. Os yw'n anghywir, gallwch ei newid yng ngosodiadau system eich dyfais.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Cod Gwall: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -133,11 +126,11 @@ fp-learn-more-about-time-related-errors = Dysgu rhagor am ddatrys gwallau sy'n g
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = Dyw { -brand-short-name } ddim yn ymddiried yn y wefan hon oherwydd mae'n edrych yn debyg nad yw'r dystysgrif ddarparwyd yn ddilys tan { DATETIME($date, timeStyle: "short") } ar { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = Dyw { -brand-short-name } ddim yn ymddiried yn y wefan hon oherwydd mae'n edrych yn debyg nad yw'r dystysgrif ddarparwyd yn ddilys tan { DATETIME($date, timeStyle: "short") } ar { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Mae cloc eich dyfais wedi'i osod i { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Os yw hyn yn gywir, mae'n debyg mai'r wefan ei hun yw'r broblem diogelwch. Os yw'n anghywir, gallwch ei newid yng ngosodiadau system eich dyfais.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Mae cloc eich dyfais wedi'i osod i { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Os yw hyn yn gywir, mae'n debyg mai'r wefan ei hun yw'r broblem diogelwch. Os yw'n anghywir, gallwch ei newid yng ngosodiadau system eich dyfais.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -179,8 +172,6 @@ deniedPortAccess-title = Mae'r cyfeiriad wedi ei gyfyngu
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Rydym yn cael trafferth canfod y wefan honno.
 internet-connection-offline-title = Mae'n ymddangos bod problem gyda'ch cysylltiad rhyngrwyd.
-dns-not-found-trr-only-title2 = Risg diogelwch posibl wrth chwilio'r parth hwn
-dns-not-found-native-fallback-title2 = Risg diogelwch posibl wrth chwilio'r parth hwn
 fileNotFound-title = Heb ganfod ffeil
 fileAccessDenied-title = Mae mynediad at y ffeil wedi ei wrthod
 generic-title = Wps.
@@ -205,7 +196,6 @@ unknownSocketType-title = Ymateb annisgwyl gan y gweinydd
 nssFailure2-title = Methodd y Cysylltiad Diogel
 csp-xfo-error-title = Nid yw { -brand-short-name } yn Gallu Agor y Dudalen hon
 corruptedContentErrorv2-title = Gwall Cynnwys Llygredig
-corruptedContentError-title = Gwall Cynnwys Llygredig
 sslv3Used-title = Methu Cysylltu'n Ddiogel
 inadequateSecurityError-title = Nid yw eich cysylltiad yn ddiogel
 blockedByPolicy-title = Tudalen wedi'i Rhwystro
@@ -228,7 +218,6 @@ fp-certerror-hide-advanced-button = Cuddio uwch
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Ewch ymlaen i { $hostname } ( Peryglus )
 fp-certerror-intro = Mae { -brand-short-name } wedi sylwi ar fater diogelwch a allai fod yn ddifrifol gyda <strong>{ $hostname }</strong>. Gall rhywun sy'n smalio fod y wefan geisio dwyn pethau fel manylion cerdyn credyd, cyfrineiriau neu e-byst.
 fp-certerror-expired-into = Mae { -brand-short-name } wedi sylwi ar broblem diogelwch gyda <strong>{ $hostname }</strong>. Naill ai nid yw'r wefan wedi'i gosod yn iawn neu mae cloc eich dyfais wedi'i osod i'r dyddiad/amser anghywir.
 fp-certerror-transparency-intro = Gallai rhywun sy'n smalio bod yn <strong>{ $hostname }</strong> geisio dwyn pethau fel manylion cerdyn credyd, cyfrineiriau neu e-byst.

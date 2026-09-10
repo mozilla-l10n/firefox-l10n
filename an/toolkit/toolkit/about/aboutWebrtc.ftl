@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = nombra y alza a salida d'about:webrtc
 about-webrtc-aec-logging-msg-label = Rechistro d'AEC
 about-webrtc-aec-logging-off-state-label = Empecipiar o rechistro d'AEC
 about-webrtc-aec-logging-on-state-label = Atura o rechistro d'AEC
-about-webrtc-aec-logging-on-state-msg = Rechistro d'AEC activo (parle con o interlocutor por bells minutos y dimpués ature a captura)
 about-webrtc-aec-logging-toggled-on-state-msg = Rechistro d'AEC activo (parle con o interlocutor por bells minutos y dimpués ature a captura)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -77,17 +76,9 @@ about-webrtc-nominated = Nominau
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Trigau
 about-webrtc-save-page-label = Alzar a pachina
-about-webrtc-debug-mode-msg-label = Modo de depuración
-about-webrtc-debug-mode-off-state-label = Empecipiar o modo de depuración
-about-webrtc-debug-mode-on-state-label = Aturar o modo de depuración
-about-webrtc-stats-heading = Estatisticas d'a sesión
 about-webrtc-stats-clear = Limpiar l'historial
 about-webrtc-log-heading = Rechistro de connexión
 about-webrtc-log-clear = Limpiar lo Log
-about-webrtc-log-show-msg = amuestra o rechistro
-    .title = fe clic ta ixamplar ista sección
-about-webrtc-log-hide-msg = amaga o rechistro
-    .title = fe clic pa reducir ista sección
 about-webrtc-log-section-show-msg = Amuestra o rechistro
     .title = Fe clic ta ixamplar ista sección
 about-webrtc-log-section-hide-msg = Amaga o rechistro
@@ -110,19 +101,11 @@ about-webrtc-remote-candidate = Candidato remoto
 about-webrtc-raw-candidates-heading = Totz los candidatos crudos
 about-webrtc-raw-local-candidate = Candidato local crudo
 about-webrtc-raw-remote-candidate = Candidato remoto crudo
-about-webrtc-raw-cand-show-msg = amostrar los candidatos crudos
-    .title = fe clic ta ixamplar ista sección
-about-webrtc-raw-cand-hide-msg = amagar los candidatos crudos
-    .title = fe clic pa reducir ista sección
 about-webrtc-raw-cand-section-show-msg = Amostrar los candidatos crudos
     .title = Fe clic ta ixamplar ista sección
 about-webrtc-raw-cand-section-hide-msg = Amagar los candidatos crudos
     .title = Fe clic pa reducir ista sección
 about-webrtc-priority = Prioridat
-about-webrtc-fold-show-msg = amostrar os detalles
-    .title = fe clic ta ixamplar ista sección
-about-webrtc-fold-hide-msg = Amagar os detalles
-    .title = fe clic pa reducir ista sección
 about-webrtc-fold-default-show-msg = Amostrar os detalles
     .title = Fe clic ta ixamplar ista sección
 about-webrtc-fold-default-hide-msg = Amagar os detalles
@@ -132,10 +115,6 @@ about-webrtc-encoder-label = Codificador
 
 ##
 
-about-webrtc-save-page-msg = a pachina s'ha alzau en: { $path }
-about-webrtc-debug-mode-off-state-msg = o rechistro de traza se troba en: { $path }
-about-webrtc-debug-mode-on-state-msg = o modo de depuración activo: o rechistro de traza ye en: { $path }
-about-webrtc-aec-logging-off-state-msg = os fichers de rechistro capturaus se troban en: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

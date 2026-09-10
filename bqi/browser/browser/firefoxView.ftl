@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
@@ -13,31 +10,12 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .aria-label = بستن
-    .title = بستن
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = هیم سکو
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = پسند بلگه
-firefoxview-tabpickup-description = گۊشیڌن بلگه یل ز دسگایل دیری.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = ‏{ $percentValue }٪ ٱنجوم وابیڌه
-firefoxview-tabpickup-step-signin-header = بؽ یو ک واستین، منجا دسگایل جاگورو بۊین
-firefoxview-tabpickup-step-signin-description = سی گرؽڌن بلگه یل تیلیفووݩ خوت من ایچو، ٱول و من بیاین یا ی هساو وورکل کۊنین.
-firefoxview-tabpickup-step-signin-primarybutton = رئڌن وا پؽش
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } ایسا ری پوی دسگایل تووݩ
 firefoxview-syncedtabs-signin-primarybutton-2 = و من ٱووڌن
-firefoxview-tabpickup-adddevice-header = ‏{ -brand-product-name } ن من تیلیفووݩ یا تبلت خوتووݩ هوم گوم کۊنین
-firefoxview-tabpickup-adddevice-description = ‏{ -brand-product-name } ن سی تیلیفووݩ دانلود کۊنین وو ز اوچو و من بیاین.
-firefoxview-tabpickup-adddevice-learn-how = قلوه دووسته بۊین
-firefoxview-tabpickup-adddevice-primarybutton = ‏{ -brand-product-name } ن سی تیلیفووݩ دانلود کۊنین
 firefoxview-syncedtabs-adddevice-header-2 = گرؽڌن بلگه یل ز هر جایی
 firefoxview-syncedtabs-adddevice-primarybutton = { -brand-product-name } ن سی تیلیفووݩ امتهووݩ کۊنین
-firefoxview-tabpickup-synctabs-header = رۊشن کردن هوم گوم کردن بلگه یل
-firefoxview-tabpickup-synctabs-description = { -brand-short-name } ن بهلین تا بلگه یل ن منجا دسگایل یک رسۊوی کونه.
-firefoxview-tabpickup-synctabs-learn-how = قلوه دووسته بۊین
 firefoxview-tabpickup-synctabs-primarybutton = هوم گوم کردن بلگه یل واز
 firefoxview-syncedtabs-synctabs-header = سامووا هوم گوم کردن خوتووݩ ن ورۊ کۊنین
 firefoxview-syncedtabs-loading-header = هوم گوم کردن هونی ٱنجوم ابۊ
@@ -56,26 +34,14 @@ firefoxview-tabpickup-password-locked-primarybutton = رزم ٱسلی ن بزن�
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">قلوه دووسته بۊین</a>
 firefoxview-tabpickup-signed-out-header = سی منپیز دووارته و من بیاین
 firefoxview-tabpickup-signed-out-primarybutton = و من ٱووڌن
-firefoxview-mobile-promo-primarybutton = ‏{ -brand-product-name } ن سی تیلیفووݩ دانلود کۊنین
-firefoxview-mobile-confirmation-header = 🎉 ٱماڌه هڌ!
-firefoxview-closed-tabs-title = هیم دمۊوی بسته وابیڌه
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = رذ کردن { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = فعال دیندایی
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = گۊشیڌن { $targetURI } من ی بلگه نۊ
-firefoxview-try-colorways-button = رنگ بندیا ن امتهووݩ کۊنین
-firefoxview-change-colorway-button = آلشت رنگ بندی
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = هنی چیه سی نیشتن نؽ
 firefoxview-collapse-button-show =
     .title = نشووݩ داڌن نومگه
 firefoxview-collapse-button-hide =

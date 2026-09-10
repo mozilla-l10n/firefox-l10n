@@ -44,15 +44,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code> : { $glean-android-
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code> : { $moz-official-define-value }
-about-glean-about-testing-header = A prepaus des ensages
 # This message is followed by a numbered list.
 about-glean-manual-testing = Las instruccions complètas son detalhadas dins la <a data-l10n-name="fog-instrumentation-test-doc-link">documentacion dels tests d’instrumentacion de { -fog-brand-name }</a> e dins la <a data-l10n-name="glean-sdk-doc-link">documentacion de { glean-sdk-brand-name }</a> mas, en resumit, per provar manualament que vòstra instrumentacion fonciona, vaquí çò que deuriatz far :
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (enviar pas cap de ping)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Dins los camps precedents, asseguratz-vos qu’i aja una balisa de desbugatge memorizabla per que poscatz reconéisser vos pings mai tard.
 controls-button-label-verbose = Aplicar los paramètres e enviar lo ping
 about-glean-about-data-header = A prepaus de las donadas
-about-glean-about-data-explanation =
-    Per percórrer la lista de las donadas collectadas, mercés de consultar lo
-    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } diccionari</a>.

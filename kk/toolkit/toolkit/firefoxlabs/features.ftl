@@ -15,10 +15,6 @@ experimental-features-js-warp-description = JavaScript өнімділігін ж
 experimental-features-ime-search =
     .label = Адрес жолағы: IME құрастыру кезінде нәтижелерді көрсету
 experimental-features-ime-search-description = IME (Input Method Editor - Енгізу әдістерін түзеткіші) – стандартты пернетақтаны пайдаланып, Шығыс Азия немесе Үнді жазба тілдерінде қолданылатын күрделі таңбаларды енгізуге мүмкіндік беретін құрал. Бұл экспериментті іске қосу мәтінді енгізу үшін IME пайдалану кезінде іздеу нәтижелері мен ұсыныстарды көрсететін адрес жолағы тақтасын ашық күйде ұстайды. IME адрес жолағы нәтижелерін қамтитын тақтаны көрсетуі мүмкін екенін ескеріңіз, сондықтан бұл опция тек панельдің бұл түрін пайдаланбайтын IME үшін ғана ұсынылады.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Суреттегі сурет: беттер ауысқанда автоматты түрде ашу
-experimental-features-auto-pip-description = Беттерді ауыстырған кезде белсенді видеолар үшін суреттегі сурет мүмкіндігін іске қосу.
 experimental-features-group-developer-tools =
     .label = Әзірлеуші құралдары
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Өнімділік
 experimental-features-group-newtab-widgets =
     .label = { -firefox-home-brand-name } ішіндегі виджеттер
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Бүйір панеліндегі парольдер
-experimental-features-contextual-password-manager-description = Парольдеріңізге тікелей бүйірлік панельден қол жеткізіңіз. Жүйеге кіру кезінде оларды іздеп немесе қайта орнатып әуре болмайсыз. Бұл мүмкіндікті пайдалану үшін бүйірлік панельден парольдерді таңдаңыз. Содан кейін жалпы баптауларға өтіп, браузер жаймасы бөлімінде «Бүйірлік панельді көрсету» параметрін таңдаңыз. Одан кейін парольдерді таңдау арқылы бүйірлік панельді реттеңіз. Егер оны қолданып көрсеңіз, <a data-l10n-name="connect">ой-пікіріңізбен бөлісіңіз</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Жаңа бет үшін таңдауыңызша тұсқағазды немесе түсті таңдау

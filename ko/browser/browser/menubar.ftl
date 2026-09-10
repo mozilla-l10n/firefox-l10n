@@ -261,8 +261,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = 프로필
 menu-profiles-manage-profiles =
     .label = 프로필 관리
 menu-profiles-new-profile =
@@ -286,9 +284,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = 확장 기능 및 테마
     .accesskey = E
-menu-tools-addons-and-themes =
-    .label = 부가 기능 및 테마
-    .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = 로그인
     .accesskey = g
@@ -345,8 +340,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = 문제 해결 정보
     .accesskey = T
-menu-help-report-site-issue =
-    .label = 사이트 문제 보고…
 menu-help-share-ideas =
     .label = 아이디어 및 의견 공유…
     .accesskey = S

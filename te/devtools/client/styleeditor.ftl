@@ -16,8 +16,6 @@ styleeditor-save-button = భద్రపరచు
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = శైలి ఎడిటర్ ఎంపికలు
-styleeditor-editor-textbox =
-    .data-placeholder = ఇక్కడ CSS టైపుచెయ్యండి.
 styleeditor-no-stylesheet = ఈ పేజీకి శైలి షీట్ ఏమీ లేదు.
 styleeditor-no-stylesheet-tip = బహశా మీరు కొత్త శైలిషీట్‌ను <a data-l10n-name="append-new-stylesheet">ఒక కొత్త శైలి షీటును జోడించు</a>?
 styleeditor-open-link-new-tab =

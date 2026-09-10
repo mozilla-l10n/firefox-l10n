@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Ny fane
-newtab-settings-button =
-    .title = Tilpass siden for Ny fane
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Tilpass denne siden
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = Tilpass
 newtab-customize-panel-label =
     .label = Tilpass
-newtab-personalize-settings-icon-label =
-    .aria-label = Innstillinger
-    .title = Tilpass ny fane
 newtab-settings-dialog-label =
     .aria-label = Innstillinger
-newtab-personalize-icon-label =
-    .aria-label = Tilpass ny fane-side
-    .title = Tilpass ny fane-side
-newtab-personalize-dialog-label =
-    .aria-label = Tilpass
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
@@ -528,7 +518,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Legg til søkemotor
 newtab-topsites-add-shortcut-header = Ny snarvei
-newtab-topsites-edit-topsites-header = Rediger toppsted
 newtab-topsites-edit-shortcut-header = Rediger snarvei
 newtab-topsites-add-shortcut-label = Legg til snarvei
 newtab-topsites-add-shortcut-title =
@@ -598,20 +587,12 @@ newtab-topsites-hover-card-dismiss =
 newtab-menu-section-tooltip =
     .aria-label = Åpne meny
     .title = Åpne meny
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Fjern
-    .title = Fjern
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Åpne kontekstmeny for { $title }
     .title = Åpne meny
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Rediger denne nettsiden
-    .title = Rediger denne nettsiden
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -623,11 +604,7 @@ newtab-menu-dismiss = Avslå
 newtab-menu-pin = Fest
 newtab-menu-unpin = Løsne
 newtab-menu-delete-history = Slett fra historikk
-newtab-menu-save-to-pocket = Lagre til { -pocket-brand-name }
-newtab-menu-delete-pocket = Slett fra { -pocket-brand-name }
-newtab-menu-archive-pocket = Arkiver i { -pocket-brand-name }
 newtab-menu-show-privacy-info = Våre sponsorer og ditt personvern
-newtab-menu-about-fakespot = Om { -fakespot-brand-name }
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Rapporter
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -638,26 +615,12 @@ newtab-menu-section-block = Blokker
 newtab-menu-section-unfollow-topic = Slutt å følge
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Les mer
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = Slutt å følge emnet
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = Behandle sponset innhold
 newtab-menu-our-sponsors-and-your-privacy = Våre sponsorer og ditt personvern
 newtab-menu-report-this-ad = Rapporter denne annonsen
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Ferdig
-newtab-privacy-modal-button-manage = Behandle innstillinger for sponset innhold
-newtab-privacy-modal-header = Personvernet ditt er viktig.
-newtab-privacy-modal-paragraph-2 =
-    I tillegg til å servere fengslende artikler, viser vi deg også relevant og
-    høyt kontrollert innhold fra utvalgte sponsorer. Du kan være sikker på, <strong>at dine surfedata
-    aldri forlater ditt personlige eksemplar av  { -brand-product-name }</strong> — vi ser dem ikke, og sponsorerene våre ser dem ikke heller.
-newtab-privacy-modal-link = Les mer om hvordan personvernet fungerer på den nye fanen
 
 ##
 
@@ -713,31 +676,12 @@ newtab-label-sponsored-fixed = Sponset
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Fjern seksjon
-newtab-section-menu-collapse-section = Slå sammen seksjon
-newtab-section-menu-expand-section = Utvid seksjon
-newtab-section-menu-manage-section = Håndter seksjon
-newtab-section-menu-manage-webext = Behandle utvidelse
-newtab-section-menu-add-topsite = Legg til toppsted
-newtab-section-menu-add-search-engine = Legg til søkemotor
-newtab-section-menu-move-up = Flytt opp
-newtab-section-menu-move-down = Flytt ned
 newtab-section-menu-privacy-notice = Personvernerklæring
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Slå sammen seksjon
-newtab-section-expand-section-label =
-    .aria-label = Utvid seksjon
 
 ## Section Headers.
 
 newtab-section-header-topsites = Mest besøkte nettsteder
 newtab-section-header-recent-activity = Nylig aktivitet
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Anbefalt av { $provider }
 newtab-section-header-stories = Tankevekkende artikler
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = Dagens utvalgte artikler for deg
@@ -745,10 +689,6 @@ newtab-section-header-todays-picks = Dagens utvalgte artikler for deg
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Begynn å surfe, og vi viser noen av de beste artiklene, videoer og andre sider du nylig har besøkt eller bokmerket her.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Du har tatt igjen. Kom tilbake senere for flere topphistorier fra { $provider }. Kan du ikke vente? Velg et populært emne for å finne flere gode artikler fra hele Internett.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = Du har nå lest alt. Kom tilbake senere for flere artikler. Kan du ikke vente? Velg et populært emne for å finne flere flotte artikler fra nettet.
 
@@ -782,39 +722,6 @@ newtab-carousel-pause =
 newtab-carousel-play =
     .aria-label = Gjenoppta automatisk avspilling
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Populære emner:
-newtab-pocket-new-topics-title = Vil du ha enda flere artikler? Se disse populære emnene fra { -pocket-brand-name }
-newtab-pocket-more-recommendations = Flere anbefalinger
-newtab-pocket-learn-more = Les mer
-newtab-pocket-cta-button = Hent { -pocket-brand-name }
-newtab-pocket-cta-text = Lagre artiklene du synes er interessante i { -pocket-brand-name }, og stimuler dine tanker med fasinerende lesermateriell.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } er en del av { -brand-product-name }-familien.
-newtab-pocket-save = Lagre
-newtab-pocket-saved = Lagret
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = Mer som dette
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = Ikke for meg
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = Takk. Tilbakemeldingen din vil hjelpe oss med å forbedre kilden din.
-newtab-toast-dismiss-button =
-    .aria-label = Lukk
-    .title = Lukk
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = Oppdag det beste fra nettet
-newtab-pocket-onboarding-cta = { -pocket-brand-name } utforsker et mangfold av publikasjoner for å få det mest informative, inspirerende og pålitelige innholdet rett til { -brand-product-name }-nettleseren din.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -823,8 +730,6 @@ newtab-error-fallback-refresh-link = Oppdater siden for å prøve igjen.
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Snarveier
-newtab-custom-shortcuts-subtitle = Nettsteder du lagrer eller besøker
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Nettsteder du lagrer eller besøker
@@ -845,16 +750,6 @@ newtab-custom-row-selector2 =
             [one] { $num } rad
            *[other] { $num } rader
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } rad
-       *[other] { $num } rader
-    }
-newtab-custom-sponsored-sites = Sponsede snarveier
-newtab-custom-pocket-title = Anbefalt av { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Eksepsjonelt innhold satt sammen av { -pocket-brand-name }, en del av { -brand-product-name }-familien
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = Enestående innhold kuratert av { -brand-product-name }-familien
@@ -866,10 +761,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = Personlige artikler basert på aktiviteten din
 newtab-custom-stories-personalized-checkbox-label = Personlige artikler basert på aktiviteten din
-newtab-custom-pocket-sponsored = Sponsede historier
-newtab-custom-pocket-show-recent-saves = Se sist lagrede
-newtab-custom-recent-title = Nylig aktivitet
-newtab-custom-recent-subtitle = Et utvalg av nylige nettsteder og innhold
 newtab-custom-weather-toggle =
     .description = Dagens værmelding i korte trekk
     .label = Vær
@@ -901,7 +792,6 @@ newtab-widget-manage-widget-button =
 newtab-custom-close-menu-button =
     .aria-label = Lukk meny
     .title = Lukk
-newtab-custom-close-button = Lukk
 newtab-custom-settings = Behandle flere innstillinger
 
 ## Customization Menu
@@ -950,7 +840,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Bildet overskred filstørrelsesgrensen på { $file_size } MB. Prøv å laste opp en mindre fil.
 newtab-wallpaper-error-upload-file-type = Vi kunne ikke laste opp filen din. Prøv igjen med en bildefil.
-newtab-wallpaper-error-file-type = Vi kunne ikke laste opp filen din. Prøv igjen med en annen filtype.
 newtab-wallpaper-light-red-panda = Rødpanda
 newtab-wallpaper-light-mountain = Hvitt fjell
 newtab-wallpaper-light-sky = Himmel med lilla og rosa skyer
@@ -1094,10 +983,6 @@ newtab-wallpaper-celestial-river = Satellittbilde av elv
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = Se værmelding hos { $provider }.
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponset
 newtab-weather-menu-change-location = Endre plassering
 newtab-weather-change-location-search-input-placeholder =
@@ -1124,7 +1009,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Bytt til Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Bytt til Celsius
-newtab-weather-menu-hide-weather = Skjul været på ny fane
 newtab-weather-menu-learn-more = Les mer
 newtab-weather-menu-detect-my-location = Oppdag posisjonen min
 # This message is shown if user is working offline
@@ -1245,7 +1129,6 @@ newtab-section-unblock-topic =
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = Ikke nå
 newtab-section-confirm-block-topic-p1 = Er du sikker på at du vil blokkere dette emnet?
 newtab-section-confirm-block-topic-p2 = Blokkerte emner vil ikke lenger vises i kilden din.
 # Variables:

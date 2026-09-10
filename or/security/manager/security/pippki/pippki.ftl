@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = ପ୍ରମାଣପତ୍ର ଆହରଣ କରୁଅଛି
     .style = min-width: 46em
+    .title = ପ୍ରମାଣପତ୍ର ଆହରଣ କରୁଅଛି
 download-cert-message = ଆପଣ ଗୋଟିଏ ନୂତନ ପ୍ରମାଣପତ୍ର ଅଧିକାରୀ (CA)କୁ ବିଶ୍ୱାସ କରିବା ପାଇଁ କହିଥିଲେ.
 download-cert-trust-ssl =
     .label = ୱେବ ସାଇଟ ଚିହ୍ନିବା ପାଇଁ ଏହି CA କୁ ବିଶ୍ୱାସ କରନ୍ତୁ.
@@ -37,8 +37,6 @@ download-cert-view-text = CA ପ୍ରମାଣପତ୍ରକୁ ଯାଞ୍�
 
 client-auth-window =
     .title = ଚାଳକ ଚିହ୍ନଟ ଅନୁରୋଧ
-client-auth-site-description = ଏହି ସାଇଟ ଅନୁରୋଧ କରିଥିଲାଯେ ଆପଣ ଗୋଟିଏ ପ୍ରମାଣପତ୍ର ସାହାଯ୍ୟରେ ନିଜେ ନିଜକୁ ଚିହ୍ନଟ କରାନ୍ତୁ:
-client-auth-choose-cert = ପରିଚୟ ଆକାରରେ ଉପସ୍ଥିତ କରିବା ପାଇଁ ଗୋଟିଏ ପ୍ରମାଣପତ୍ର ଚୟନ କରନ୍ତୁ:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
 client-auth-cert-details-issued-to = { $issuedTo } ଙ୍କୁ ଦିଆଗଲା

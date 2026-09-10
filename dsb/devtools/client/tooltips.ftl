@@ -35,7 +35,6 @@ inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</st
 inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> se za pseudoelementy ::first-letter njepódpěra.
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> se za pseudoelementy ::placeholder njepódpěra.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> njama wustatkowanje na toś ten element, dokulaž ma zwobraznjenje <strong>{ $display }</strong>.
-inactive-css-not-display-block-on-floated = Gódnota <strong>display</strong> jo se změnił pśez engine do <strong>block</strong>, dokulaž element jo <strong>floated</strong>.
 inactive-css-not-display-block-on-floated-2 = Gódnota <strong>display</strong> jo se změnił pśez engine do <strong>{ $display }</strong>, dokulaž element jo <strong>floated</strong>.
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> njama wustatkowanje, dokulaž njedajo se daniž na zapiskach grid daniž na zapiskach flex wužywaś.
 inactive-css-not-block = <strong>{ $property }</strong> na toś ten element wustatkowanje njama, dokulaž se jano na elementy blokoweje rowniny nałožujo.
@@ -56,16 +55,6 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 inactive-css-border-image = <strong>{ $property }</strong> njama wustatkowanje na toś ten element, dokulaž njedajo se na nutśikowne tabelowe elementy nałožyś, źož <strong>border-collapse</strong> jo na <strong>collapse</strong> na nadrědowanem elemenśe tabele stajony.
 inactive-css-resize = <strong>{ $property }</strong> na toś ten element wustatkowanje njama, dokulaž dajo se jano na elementy z drugeju gódnotu za overflow ako visible nałožyś, a na wěste wuměnjone elementy, na pśikład tekstowe póla.
 inactive-css-ruby-element = <strong>{ $property }</strong> njama wustatkowanje na toś ten element, dokulaž jo element ruby. Jeje wjelikosć se pśez wjelikosć pisma teksta ruby póstaja.
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> se za pseudoelementy wuzwignjenja njepódpěra.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> se za pseudoelementy ::cue njepódpěra.
 inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> se w pšawidłach <strong>@position-try</strong> pódpěra.

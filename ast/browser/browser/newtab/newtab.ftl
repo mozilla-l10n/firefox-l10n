@@ -6,11 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Llingüeta nueva
-newtab-settings-button =
-    .title = Personalizar la páxina «Llingüeta nueva»
-newtab-personalize-icon-label =
-    .aria-label = Personalizar «Llingüeta nueva»
-    .title = Personaliza «Llingüeta nueva»
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -93,14 +88,6 @@ newtab-confirm-delete-history-p2 = Esta aición nun pue desfacese.
 newtab-menu-section-tooltip =
     .aria-label = Abrir el menú
     .title = Abrir el menú
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Quitar
-    .title = Quitar
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Editar esti sitiu
-    .title = Editar esti sitiu
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -111,15 +98,6 @@ newtab-menu-dismiss = Escartar
 newtab-menu-pin = Fixar
 newtab-menu-unpin = Lliberar
 newtab-menu-delete-history = Desaniciar del historial
-newtab-menu-save-to-pocket = Guardar en { -pocket-brand-name }
-newtab-menu-delete-pocket = Desaniciar de { -pocket-brand-name }
-newtab-menu-archive-pocket = Archivar en { -pocket-brand-name }
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Fecho
-newtab-privacy-modal-button-manage = Xestionar los axustes del conteníu patrocináu
-newtab-privacy-modal-header = La privacidá importa.
 
 ##
 
@@ -157,15 +135,6 @@ newtab-label-recommended = Tendencia
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Quitar la seición
-newtab-section-menu-collapse-section = Recoyer la seición
-newtab-section-menu-expand-section = Espander la seición
-newtab-section-menu-manage-section = Xestionar la seición
-newtab-section-menu-manage-webext = Xestionar la estensión
-newtab-section-menu-add-topsite = Amestar un sitiu principal
-newtab-section-menu-add-search-engine = Amestar un motor de busca
-newtab-section-menu-move-up = Xubir
-newtab-section-menu-move-down = Baxar
 newtab-section-menu-privacy-notice = Avisu de privacidá
 
 ## Section Headers.
@@ -183,13 +152,6 @@ newtab-discovery-empty-section-topstories-loading = Cargando...
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = ¡Meca! Paez qu'esta seición nun cargó del too.
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Temes populares:
-newtab-pocket-more-recommendations = Más recomendaciones
-newtab-pocket-learn-more = Lleer más
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -197,8 +159,6 @@ newtab-error-fallback-info = Meca, asocedió daqué malo al cargar esti contení
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Atayos
-newtab-custom-shortcuts-subtitle = Sitios que guardes o visites
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Sitios que guardes o visites
@@ -214,17 +174,6 @@ newtab-custom-row-selector2 =
             [one] { $num } filera
            *[other] { $num } fileres
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } filera
-       *[other] { $num } fileres
-    }
-newtab-custom-sponsored-sites = Atayos patrocinaos
-newtab-custom-recent-title = Actividá recién
-newtab-custom-recent-subtitle = Una esbilla de los sitios y del conteníu recién
-newtab-custom-close-button = Zarrar
 newtab-custom-settings = Xestionar más axustes
 
 ## Strings for the Clock widget

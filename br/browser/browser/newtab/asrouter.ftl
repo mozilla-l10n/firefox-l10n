@@ -68,17 +68,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Goubredit ho sinedoù e pep lec'h.
-cfr-doorhanger-bookmark-fxa-body = Kavet ho peus ul lec'hienn a-zoare! Bremañ eo dav deoc'h adkavout ar sined-mañ war ho trevnadoù hezoug. Krogit gant: { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Goubredit ar sinedoù bremañ…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Afell serriñ
     .title = Serriñ
-
-## Protections panel
-
-cfr-protections-panel-header = Merdeit hep bezañ heuliet
-cfr-protections-panel-body = Mirit ho roadennoù ganeoc'h. { -brand-short-name } a warez ac'hanoc'h eus lodenn vrasañ an heulierien a sell ouzh ar pezh a rit enlinenn.
-cfr-protections-panel-link-text = Gouzout hiroc’h
 
 ## What's New toolbar button and panel
 
@@ -177,36 +170,8 @@ mr2022-background-update-toast-primary-button-label = Digeriñ { -brand-shorter-
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Degas soñj din diwezhatoc'h
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Esaeañ
-    .accesskey = E
-firefoxview-cfr-secondarybutton = Ket bremañ
-    .accesskey = K
-firefoxview-cfr-header-v2 = Adloc’hit el lec’h m’ho poa paouezet
-firefoxview-cfr-body-v2 = Adtapit hoc’h ivinelloù serret nevez 'zo, ha tremenit d'un trevnad d'egile gant { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Lârit demat da { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Fellout a ra deoc’h e vefe digoret an ivinell-se war ho pellgomzer? Tapit anezhañ. Ezhomm ho peus al lec’hienn-se ho poa gweladennet? Pouf, e { -firefoxview-brand-name } emañ.
-firefoxview-spotlight-promo-primarybutton = Sellit penaos ez a en-dro
-firefoxview-spotlight-promo-secondarybutton = Tremen
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Dibab ul liv
-    .accesskey = D
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Aotren { -brand-short-name } da skarzhañ banniel an toupinoù?
-cfr-cbh-body = { -brand-short-name } a c’hall nac’hañ bannieloù an toupinoù ent emgefreek.
-cfr-cbh-confirm-button = Argas banniel an toupinoù
-    .accesskey = A
-cfr-cbh-dismiss-button = Ket bremañ
-    .accesskey = K
 cookie-banner-blocker-onboarding-learn-more = Gouzout hiroc’h
 
 ## These strings are used in the Fox doodle Pin/set default spotlights

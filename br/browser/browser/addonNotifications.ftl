@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Kenderc'hel d'ar staliadur
     .accesskey = K
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Al lec’hienn-mañ a c’houlenn haeziñ ouzh ho trobarzhelloù MIDI (Musical Instrument Digital Interface). Gallout a rit gweredekaat an haeziñ d'an drobarzhell en ur staliañ un enlugellad.
 site-permission-install-first-prompt-midi-message = N'eo ket diogel mont betek al lec’hienn-mañ. Kendalc’hit m’ho peus fiziañs enni.
 site-permission-install-first-prompt-serial-header = Al lec'hienn-mañ a zo o c'houlenn haeziñ d'ho trevnadoù heuliad. Haeziñ an trevnadoù a c'hall bezañ gweredekaet en ur staliañ un enlugellad.
 site-permission-install-first-prompt-serial-message = N'eo ket diogel mont betek al lec’hienn-mañ. Kendalc’hit m’ho peus fiziañs enni.
-
-##
-
-xpinstall-disabled-locked = Dizaotreet eo bet ar staliañ meziantoù gant hoc'h ardoer reizhiad.
 xpinstall-disabled-by-policy = Diweredekaet eo bet staliadur ar meziantoù gant hoc'h aozadur.
 xpinstall-disabled = Staliañ meziantoù zo diweredekaet bremañ. Klikit war Aotren ha klaskit en-dro.
 xpinstall-disabled-button =
     .label = Aotren
     .accesskey = o
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = Stanket eo { $addonName } ({ $addonId }) gant hoc'h ardoer reizhiad.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Ardoer ho reizhiad en deus miret al lec’hienn da c’houlenn diganeoc’h staliañ ur meziant war hoc’h urzhiataer.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -76,9 +62,6 @@ webext-imported-addons = Peurechuiñ staliadur an askouezhioù enporzhiet e { -b
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Dilemel { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Dilemel { $name } eus { -brand-shorter-name }?
 addon-removal-button = Dilemel
 addon-removal-abuse-report-checkbox = Disklêriañ an askouezh-mañ da { -vendor-short-name }
 # "it" refers to the local AI model that is paired to the AI feature
@@ -153,7 +136,5 @@ addon-local-install-no-addon-name-error-file-access = An enlugellad n'hall ket b
 addon-install-error-incompatible = { $addonName } n'hall ket bezañ staliet rak n'eo ket keverlec'h gant { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = { $addonName } a za a-enep da reolennoù Mozilla ha n'hall ket bezañ staliet war { -brand-short-name }.
 addon-install-error-soft-blocked2 = Bevennet eo { $addonName } ha n'hall ket bezañ staliet war { -brand-short-name }.
-addon-install-error-blocklisted = { $addonName } n'hall ket bezañ staliet rak eñ a ginnig degas kudennoù da vat a-fet stabilded pe diogelroez.
-addon-install-error-soft-blocked = { $addonName } a za a-enep da reolennoù Mozilla ha n'hall ket bezañ staliet war { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = N'hallit ket staliañ { $addonName } evel un arveriad eeun, n'hall bezañ staliet gant un aozadur gant ar reolennoù embregerezh hepken.

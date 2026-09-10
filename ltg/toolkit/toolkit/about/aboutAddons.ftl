@@ -102,15 +102,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Drūsais režyms ir deaktiviejs vysus papyldynuojumu.
-extensions-warning-check-compatibility = Papyldynuojumu savītuojameibys puorbaude ir deaktiveita. Īspiejams jiusim ir nasavītuojami papyldynuojumu.
-extensions-warning-safe-mode2 =
-    .message = Drūsais režyms ir deaktiviejs vysus papyldynuojumu.
 extensions-warning-check-compatibility2 =
     .message = Papyldynuojumu savītuojameibys puorbaude ir deaktiveita. Īspiejams jiusim ir nasavītuojami papyldynuojumu.
 extensions-warning-check-compatibility-button = Aktivēt
     .title = Aktivēt papyldynuojumu savītuojameibys puorbaudi
-extensions-warning-update-security = Papyldynuojumu drūseibys puorbaude ir deaktiveita. Īspiejams jiusim ir nadrūsi papyldynuojumu.
 extensions-warning-update-security2 =
     .message = Papyldynuojumu drūseibys puorbaude ir deaktiveita. Īspiejams jiusim ir nadrūsi papyldynuojumu.
 extensions-warning-update-security-button = Aktivēt
@@ -163,24 +158,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } nav savītuojams ar { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } nav savītuojams ar { -brand-short-name } { $version }.
-details-notification-unsigned-and-disabled = { $name } navar puorbaudeit izmontuošonai ar { -brand-short-name } i ir deaktiveits.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } navar puorbaudeit izmontuošonai ar { -brand-short-name } i ir deaktiveits.
-details-notification-unsigned-and-disabled-link = Vairuok informacejis
-details-notification-unsigned = { $name } navar puorbaudeit izmontuošonai ar { -brand-short-name }. Esit pīsardzeigi.
 details-notification-unsigned2 =
     .message = { $name } navar puorbaudeit izmontuošonai ar { -brand-short-name }. Esit pīsardzeigi.
-details-notification-unsigned-link = Vairuok informacejis
-details-notification-blocked = { $name } ir blokeits drūseibys i stabilitātes nūlūkūs.
-details-notification-blocked-link = Vairuok informacejis
-details-notification-softblocked = Ir zynoms, ka { $name } roda drūseibys voi stabilitātes problemys.
-details-notification-softblocked-link = Vairuok informacejis
-details-notification-gmp-pending = { $name } will be installed shortly.
 details-notification-gmp-pending2 =
     .message = { $name } will be installed shortly.
 

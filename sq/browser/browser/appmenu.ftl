@@ -31,8 +31,6 @@ appmenuitem-extensions-and-themes =
     .label = Zgjerime dhe tema
 appmenuitem-extensions =
     .label = Zgjerime
-appmenuitem-addons-and-themes =
-    .label = Shtesa dhe Tema
 appmenuitem-print =
     .label = Shtypni…
 appmenuitem-find-in-page =
@@ -101,7 +99,6 @@ appmenu-remote-tabs-unverified = Llogaria juaj duhet verifikuar.
 appmenuitem-fxa-toolbar-sync-now2 = Njëkohësoji tani
 appmenuitem-fxa-sign-in = Hyni te { -brand-product-name }
 appmenuitem-fxa-manage-account = Administroni llogari
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Llogari
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -117,15 +114,6 @@ appmenuitem-save-page =
     .label = Ruajeni Faqen Si…
 appmenuitem-fxa-sync-off-title = Njëkohësimi është i çaktivizuar
 appmenuitem-fxa-sync-off-description = Mbroni dhe përdorni faqerojtësit, fjalëkalimet tuaja dhe të tjera gjëra, prej ngado.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Ç’ka të Re
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Njoftomëni për veçori të reja
-    .accesskey = N
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -236,8 +224,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Më tepër hollësi diagnostikimi
     .accesskey = D
-appmenu-help-report-site-issue =
-    .label = Njoftoni Problem Sajti…
 appmenu-help-share-ideas =
     .label = Ndani me të tjerët ide dhe përshtypje…
     .accesskey = d
@@ -284,13 +270,11 @@ appmenuitem-relay-description = Maskoni email-in dhe telefonin tuaj të njëmend
 appmenuitem-services-relay-description = Hap pultin e maskave të email-eve
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Merrni mbrojtje të tërë pajisjes
-appmenuitem-vpn-description = Mbroni veprimtari tuaj internetore
 appmenu-services-header = Shërbimet e mia
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Provoni mjete të tjera mbrojtjeje nga Mozilla:
-appmenu-other-protection-header = Provoni mjete të tjera mbrojtjeje nga { -vendor-short-name }:
 
 ## Profiles panel
 

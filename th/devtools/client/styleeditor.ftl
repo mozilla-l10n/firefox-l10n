@@ -21,8 +21,6 @@ styleeditor-save-button = บันทึก
 styleeditor-options-button =
     .tooltiptext = ตัวเลือกของตัวแก้ไขสไตล์
 styleeditor-at-rules = At-rules
-styleeditor-editor-textbox =
-    .data-placeholder = พิมพ์ CSS ที่นี่
 styleeditor-no-stylesheet = หน้านี้ไม่มีสไตล์ชีต
 styleeditor-no-stylesheet-tip = บางทีคุณอาจต้องการ <a data-l10n-name="append-new-stylesheet">ผนวกสไตล์ชีตใหม่</a>หรือไม่
 styleeditor-open-link-new-tab =

@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = ບັນທຶກ about:webrtc ທີ່
 about-webrtc-aec-logging-msg-label = AEC Logging
 about-webrtc-aec-logging-off-state-label = ເລີ່ມການ log ສຳລັບ AEC
 about-webrtc-aec-logging-on-state-label = ຢຸດການ log ສຳລັບ AEC
-about-webrtc-aec-logging-on-state-msg = ເປີດນຳໃຊ້ການ log ສຳລັບ AEC (ສືສານກັບ caller ຈັກສອງສາມນາທີ ຫລັງຈາກນັ້ນໃຫ້ຢຸດການແຄັບເຈີ)
 about-webrtc-aec-logging-toggled-on-state-msg = ເປີດນຳໃຊ້ການ log ສຳລັບ AEC (ສືສານກັບ caller ຈັກສອງສາມນາທີ ຫລັງຈາກນັ້ນໃຫ້ຢຸດການແຄັບເຈີ)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -72,17 +71,9 @@ about-webrtc-nominated = ສະເຫນີຊື່ແລ້ວ
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = ເລືອກແລ້ວ
 about-webrtc-save-page-label = ບັນທຶກຫນ້ານີ້
-about-webrtc-debug-mode-msg-label = ໂຫມດດີບັກ
-about-webrtc-debug-mode-off-state-label = ເລີ່ມໂຫມດດີບັກ
-about-webrtc-debug-mode-on-state-label = ຢຸດໂຫມດດີບັກ
-about-webrtc-stats-heading = ສະຖິຕິຂອງແຊສຊັນນີ້
 about-webrtc-stats-clear = ລ້າງປະຫວັດ
 about-webrtc-log-heading = Log ຂອງການເຊື່ອມຕໍ່ນີ້
 about-webrtc-log-clear = ລຶບລັອກ
-about-webrtc-log-show-msg = ສະແດງ log
-    .title = ຄລິກເພື່ອຂະຫຍາຍພາກສ່ວນນີ້
-about-webrtc-log-hide-msg = ເຊື່ອງ log
-    .title = ຄລິກເພື່ອຢໍ້ພາກສ່ວນນີ້
 about-webrtc-log-section-show-msg = ສະແດງ log
     .title = ຄລິກເພື່ອຂະຫຍາຍພາກສ່ວນນີ້
 about-webrtc-log-section-hide-msg = ເຊື່ອງ log
@@ -103,10 +94,6 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ປິ�
 about-webrtc-local-candidate = Local Candidate
 about-webrtc-remote-candidate = Remote Candidate
 about-webrtc-priority = ຄວາມສຳຄັນ
-about-webrtc-fold-show-msg = ສະແດງລາຍລະອຽດ
-    .title = ຄລິກເພື່ອຂະຫຍາຍພາກສ່ວນນີ້
-about-webrtc-fold-hide-msg = ເຊື່ອງລາຍລະອຽດ
-    .title = ຄລິກເພື່ອຢໍ້ພາກສ່ວນນີ້
 about-webrtc-fold-default-show-msg = ສະແດງລາຍລະອຽດ
     .title = ຄລິກເພື່ອຂະຫຍາຍພາກສ່ວນນີ້
 about-webrtc-fold-default-hide-msg = ເຊື່ອງລາຍລະອຽດ
@@ -116,10 +103,6 @@ about-webrtc-encoder-label = ຕົວເຂົ້າລະຫັດ
 
 ##
 
-about-webrtc-save-page-msg = ໄດ້ບັນທຶກຫນ້າໄປໄວ້ທີ່: { $path }
-about-webrtc-debug-mode-off-state-msg = Log ຂອງການຕິດຕາມສາມາດພົບໄດ້ທີ່: { $path }
-about-webrtc-debug-mode-on-state-msg = ເປີດໃຊ້ງານໂຫມດດີບັກ, Log ຂອງການຕິດຕາມທີ່: { $path }
-about-webrtc-aec-logging-off-state-msg = ແຄັບເຈີຂອງ log ໄຟລ໌ສາມາດພົບໄດ້ໃນ: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

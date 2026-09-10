@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Új lap
-    .accesskey = j
 reload-tab =
     .label = Lap frissítése
     .accesskey = r
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Új csoport
     .accesskey = j
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -205,14 +198,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Megosztható hivatkozás létrehozása
     .accesskey = a
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [1] Lap küldése az eszközre
-            [one] Lap küldése az eszközre
-           *[other] { $tabCount } lap küldése az eszközre
-        }
-    .accesskey = k
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

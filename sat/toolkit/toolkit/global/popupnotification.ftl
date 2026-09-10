@@ -5,6 +5,3 @@
 popup-notification-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 popup-notification-more-actions-button =
     .aria-label = ᱰᱷᱮᱨ ᱠᱟᱹᱢᱤ ᱠᱚ
-popup-notification-default-button =
-    .label = ᱴᱷᱤᱠ!
-    .accesskey = O

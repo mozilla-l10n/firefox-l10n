@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Δείκτης κοινής χρήσης
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Δείκτης κοινής χρήσης
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Κάνετε κοινή χρήση του μικροφώνου σας. Κάντε κλικ για έλεγχο κοινής χρήσης.
 webrtc-screen-system-menu =
     .label = Κάνετε κοινή χρήση παραθύρου ή οθόνης. Κάντε κλικ για έλεγχο κοινής χρήσης.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Η κάμερα και το μικρόφωνό σας είναι κοινόχρηστα. Κάντε κλικ για έλεγχο κοινής χρήσης.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Η κάμερά σας είναι κοινόχρηστη. Κάντε κλικ για έλεγχο κοινής χρήσης.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Το μικρόφωνό σας είναι κοινόχρηστο. Κάντε κλικ για έλεγχο κοινής χρήσης.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Μια εφαρμογή είναι κοινόχρηστη. Κάντε κλικ για έλεγχο κοινής χρήσης.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Η οθόνη σας είναι κοινόχρηστη. Κάντε κλικ για έλεγχο κοινής χρήσης.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Ένα παράθυρο είναι κοινόχρηστο. Κάντε κλικ για έλεγχο κοινής χρήσης.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Μια καρτέλα είναι κοινόχρηστη. Κάντε κλικ για έλεγχο κοινής χρήσης.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Να επιτρ�
 
 webrtc-share-screen-warning = Να κάνετε κοινή χρήση οθόνης μόνο με ιστοτόπους που εμπιστεύεστε. Η κοινή χρήση μπορεί να επιτρέψει σε παραπλανητικούς ιστοτόπους να περιηγηθούν με την ταυτότητά σας και να υποκλέψουν τα προσωπικά σας δεδομένα.
 webrtc-share-browser-warning = Να κάνετε κοινή χρήση του { -brand-short-name } μόνο με ιστοτόπους που εμπιστεύεστε. Η κοινή χρήση μπορεί να επιτρέψει σε παραπλανητικούς ιστοτόπους να περιηγηθούν με την ταυτότητά σας και να υποκλέψουν τα προσωπικά σας δεδομένα.
-webrtc-share-screen-learn-more = Μάθετε περισσότερα
 webrtc-pick-window-or-screen = Επιλέξτε παράθυρο ή οθόνη
 webrtc-share-entire-screen = Ολόκληρη η οθόνη
 webrtc-share-pipe-wire-portal = Χρήση ρυθμίσεων λειτουργικού συστήματος

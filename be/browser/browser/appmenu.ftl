@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = Пашырэнні і тэмы
 appmenuitem-extensions =
     .label = Пашырэнні
-appmenuitem-addons-and-themes =
-    .label = Дадаткі і тэмы
 appmenuitem-print =
     .label = Друкаваць…
 appmenuitem-find-in-page =
@@ -154,7 +152,6 @@ fxa-menu-get-firefox-mobile =
     .label = Атрымаць { -brand-product-name } для Android ці iOS
 fxa-menu-secure-sync-subpanel =
     .title = Бяспечная сінхранізацыя
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Уліковы запіс
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -176,15 +173,6 @@ appmenuitem-save-page =
     .label = Захаваць старонку як…
 appmenuitem-fxa-sync-off-title = Сінхранізацыя выключана
 appmenuitem-fxa-sync-off-description = Абараняйце і атрымлівайце доступ да сваіх закладак, пароляў і іншага з любога месца.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Што новага
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Паведамляць пра новыя функцыі
-    .accesskey = а
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -326,8 +314,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Звесткі для вырашэння праблемаў
     .accesskey = е
-appmenu-help-report-site-issue =
-    .label = Паведаміць аб праблеме з сайтам…
 appmenu-help-share-ideas =
     .label = Падзяліцца ідэямі ці водгукам…
     .accesskey = ц
@@ -393,7 +379,6 @@ appmenuitem-vpn-description5 = Атрымайце дадатковую ахов�
 appmenuitem-vpn-title-signed-in1 = Сцягнуць { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Атрымайце ахову ўсёй прылады
-appmenuitem-vpn-description = Абараніце сваю актыўнасць у інтэрнэце
 appmenu-services-header = Мае сэрвісы
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -403,7 +388,6 @@ appmenu-other-protection-header3 = Сродкі аховы прыватнасц�
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Паспрабуйце іншыя ахоўныя сродкі ад Mozilla:
-appmenu-other-protection-header = Паспрабуйце іншыя ахоўныя сродкі ад { -vendor-short-name }:
 
 ## Profiles panel
 

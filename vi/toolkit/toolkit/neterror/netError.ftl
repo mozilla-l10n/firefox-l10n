@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Quay lại
 neterror-return-to-previous-page-recommended-button = Quay lại (Khuyến nghị)
 neterror-try-again-button-2 = Thử lại
     .accesskey = T
-neterror-try-again-button = Thử lại
 neterror-add-exception-button = Luôn luôn tiếp tục cho trang web này
 neterror-settings-button = Thay đổi cài đặt DNS
 neterror-view-certificate-link = Xem chứng chỉ
-neterror-trr-continue-this-time = Tiếp tục lần này
-neterror-disable-native-feedback-warning = Luôn luôn tiếp tục
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = Tìm hiểu thêm
 ##
 
 neterror-pref-reset = Dường như là cài đặt bảo mật mạng của bạn có thể gây ra điều này. Bạn có muốn khôi phục cài đặt mặc định?
-neterror-error-reporting-automatic = Báo cáo những lỗi như thế này để giúp { -vendor-short-name } nhận diện và chặn những trang độc hại
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Ngắt kết nối và kết n�
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } không thể bảo vệ yêu cầu của bạn về địa chỉ trang web này thông qua trình phân giải DNS đáng tin cậy của chúng tôi. Đây là lý do tại sao:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } không thể bảo vệ yêu cầu của bạn về địa chỉ trang web này thông qua nhà cung cấp DNS an toàn của chúng tôi. Đây là lý do tại sao:
 neterror-dns-not-found-trr-third-party-warning2 = Bạn có thể tiếp tục với trình phân giải DNS mặc định của mình. Tuy nhiên, bên thứ ba có thể xem những trang web bạn truy cập.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } không thể kết nối đến { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Kết nối tới { $trrDomain } mất nhiều thời gian hơn dự kiến.
-neterror-dns-not-found-trr-offline = Bạn không kết nối với Internet.
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } không tìm thấy trang web này.
 neterror-dns-not-found-trr-server-problem = Đã xảy ra sự cố với { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = URL không hợp lệ.
 neterror-dns-not-found-system-sleep = Hệ thống đang ở chế độ ngủ.
 neterror-dns-not-found-trr-unknown-problem = Sự cố không xác định.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } không thể bảo vệ yêu cầu của bạn về địa chỉ trang web này thông qua trình phân giải DNS đáng tin cậy của chúng tôi. Đây là lý do tại sao:
-neterror-dns-not-found-native-fallback-heuristic = DNS qua HTTPS đã bị tắt trên mạng của bạn.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } không thể kết nối với { $trrDomain }.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = Nó có thể đã bị xóa, chuyển đi, hay quyền
 neterror-unknown-protocol = Có lẽ bạn cần phải cài đặt phần mềm khác mới mở được.
 neterror-redirect-loop = Vấn đề này thỉnh thoảng có thể xảy ra do bạn vô hiệu hóa hoặc từ chối cookie.
 neterror-unknown-socket-type-client-config = Nguyên nhân có thể là do lỗi cấu hình trên client của bạn.
-neterror-unknown-socket-type-psm-installed = Kiểm tra để chắc chắn rằng hệ thống của bạn có Trình quản lí Bảo mật Cá nhân đã được cài đặt.
-neterror-unknown-socket-type-server-config = Điều này có thể là do cấu hình không chuẩn trên máy chủ.
 neterror-not-cached-intro = Tài liệu được yêu cầu không có sẵn trong bộ đệm của { -brand-short-name }.
 neterror-not-cached-sensitive = Vì lí do bảo mật, { -brand-short-name } không tự động tải lại các tài liệu nhạy cảm.
 neterror-not-cached-try-again = Nhấn nút Thử Lại để yêu cầu tải lại tài liệu từ trang web.

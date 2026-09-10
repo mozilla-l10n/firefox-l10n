@@ -34,13 +34,6 @@ about-processes-socket-process = नेटवर्क ({ $pid })
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = अन्य: { $type } ({ $pid })
 
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-
 ## Details within processes
 
 # Thread details

@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = نیا ٹیب
-    .accesskey = w
 reload-tab =
     .label = ٹیب پھر لوڈ کریں
     .accesskey = R
@@ -65,10 +62,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = شیئر کریں
     .accesskey = h
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->

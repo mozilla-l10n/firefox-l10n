@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = U bent momenteel in FIPS-modus. FIPS verei
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Hoofdwachtwoord opnieuw instellen
     .style = min-width: 40em
+    .title = Hoofdwachtwoord opnieuw instellen
 reset-password-button-label =
     .label = Herinitialiseren
 reset-primary-password-text = Als u uw hoofdwachtwoord opnieuw instelt, zullen al uw opgeslagen web- en e-mailwachtwoorden, persoonlijke certificaten en privésleutels worden vergeten. Weet u zeker dat u uw hoofdwachtwoord wilt herinitialiseren?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Uw hoofdwachtwoord is opnieuw inges
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Certificaat downloaden
     .style = min-width: 46em
+    .title = Certificaat downloaden
 download-cert-message = U wordt gevraagd een nieuwe certificaatautoriteit (CA) te vertrouwen.
 download-cert-trust-ssl =
     .label = Deze CA vertrouwen voor het identificeren van websites.
@@ -52,8 +52,6 @@ download-cert-view-text = CA-certificaat bestuderen
 
 client-auth-window =
     .title = Gebruikersidentificatieverzoek
-client-auth-site-description = Deze website vraagt u zich te identificeren met een beveiligingscertificaat:
-client-auth-choose-cert = Kies een certificaat om als identificatie aan te bieden:
 client-auth-send-no-certificate =
     .label = Stuur geen certificaat
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Authenticeer bij het beveiligingsapparaat ({ $tokenName }). Hoe u dit doet, hangt af van het apparaat (bijvoorbeeld met behulp van een vingerafdruklezer of het invoeren van een code met een toetsenbord).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Authenticeer bij het token ‘{ $tokenName }’. Hoe u dit doet, hangt af van het token (bijvoorbeeld met behulp van een vingerafdruklezer of het invoeren van een code met een toetsenbord).

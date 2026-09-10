@@ -50,7 +50,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Декодер даних ({ $pid })
 about-processes-socket-process = Мережа ({ $pid })
-about-processes-remote-sandbox-broker-process = Віддалений брокер пісочниці ({ $pid })
 about-processes-fork-server-process = Сервер розгалуження ({ $pid })
 about-processes-preallocated-process = Попередньо розподілено ({ $pid })
 about-processes-utility-process = Утиліта ({ $pid })
@@ -74,17 +73,6 @@ about-processes-web-isolated-property-with-coop-coep = ізольований в
 ##    $properties (String) A formatted list of properties from the above strings.
 
 about-processes-web-isolated-process2 = { $origin } ({ $properties })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, ізольовано від сторонніх джерел)
-about-processes-web-isolated-process-private = { $origin } – приватний ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } – приватний ({ $pid }, ізольовано від сторонніх джерел)
 
 ## Details within processes
 

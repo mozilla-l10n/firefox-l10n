@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Runuk'ulem okem pa k'amaya'l
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Runuk'ulem okem pa k'amaya'l
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -58,14 +58,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Tisamajïx chik
     .accesskey = s
-connection-proxy-autologin =
-    .label = Mani tik'utüx rujikib'axik we yakon ri ewan tzij
-    .accesskey = r
-    .tooltip = Re jun cha'oj re' nuya' awetal eqal chi kiwäch ri taq proxi toq e'ayakon kan taq awujil kichin rije'. Xakasik'ïx we ri ruya'ik awetal nisach.
 connection-proxy-autologin-checkbox =
     .label = Mani tik'utüx rujikib'axik we yakon ri ewan tzij
-    .accesskey = r
     .tooltiptext = Re jun cha'oj re' nuya' awetal eqal chi kiwäch ri taq proxi toq e'ayakon kan taq awujil kichin rije'. Xakasik'ïx we ri ruya'ik awetal nisach.
+    .accesskey = r
 connection-proxy-socks-remote-dns =
     .label = K'exel DNS toq nawokisaj SOCKS v5
     .accesskey = d
@@ -76,6 +72,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Tokisäx ri URL k'o wi richin yesol taq DNS rik'in HTTPS
 connection-dns-over-https-url-custom =
     .label = Ichinan
-    .accesskey = I
     .tooltiptext = Tatz'ib'aj ri URL nawajo' richin nisol DNS chi rij HTTPS
-connection-dns-over-https-custom-label = Ichinan
+    .accesskey = I

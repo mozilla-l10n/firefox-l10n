@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-protections-panel-sendreportview-error = Pati një gabim në dërgimin e raportit. Ju lutemi, riprovoni.
-# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
-protections-panel-sitefixedsendreport-label = Sajt i ndrequr? Dërgoni një raport
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -23,11 +20,6 @@ protections-panel-etp-more-info =
     .aria-label = Më tepër hollësi rreth Mbrojtjes së Thelluar Nga Gjurmimet
 protections-panel-etp-on-header = Mbrojtja e Thelluar Nga Gjurmimet është ON për këtë sajt
 protections-panel-etp-off-header = Mbrojtja e Thelluar Nga Gjurmimet është OFF për këtë sajt
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = S'funksionon sajti?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = S'funksionon Sajti?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -35,20 +27,18 @@ protections-panel-site-not-working-view =
 ##   $host (String): the hostname of the site that is being displayed.
 
 protections-panel-etp-toggle-on =
-    .label = Mbrojtje e Thelluar Nga Gjurmimi
-    .description = On për këtë sajt
     .aria-label = Mbrojtje e Thelluar Nga Gjurmimet: On për { $host }
-protections-panel-etp-toggle-off =
+    .description = On për këtë sajt
     .label = Mbrojtje e Thelluar Nga Gjurmimi
-    .description = Off për këtë sajt
+protections-panel-etp-toggle-off =
     .aria-label = Mbrojtje e Thelluar Nga Gjurmimet: Off për { $host }
+    .description = Off për këtë sajt
+    .label = Mbrojtje e Thelluar Nga Gjurmimi
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = Pse?
-protections-panel-not-blocking-why-etp-on-tooltip = Bllokimi i këtyre mund të dëmtojë funksionimin e disa elementëve në disa sajte. Pa gjurmues, disa butona, formularë dhe fusha kredencialesh hyrjeje mund të mos funksionojnë.
-protections-panel-not-blocking-why-etp-off-tooltip = Janë ngarkuar krejt gjurmuesit në këtë sajt, ngaqë mbrojtjet janë të çaktivizuara.
 protections-panel-not-blocking-why-etp-on-tooltip-label =
     .label = Bllokimi i këtyre mund të dëmtojë funksionimin e disa elementëve në disa sajte. Pa gjurmues, disa butona, formularë dhe fusha kredencialesh hyrjeje mund të mos funksionojnë.
 protections-panel-not-blocking-why-etp-off-tooltip-label =
@@ -89,23 +79,6 @@ smartblock-placeholder-button-text = Lejoje në { $websitehost }
 
 protections-panel-settings-label = Rregullime Mbrojtjeje
 protections-panel-protectionsdashboard-label = Pult Mbrojtjesh
-
-## In the Site Not Working? view, we suggest turning off protections if
-## the user is experiencing issues with any of a variety of functionality.
-
-# The header of the list
-protections-panel-site-not-working-view-header = Çaktivizojini mbrojtjet, nëse keni probleme me:
-# The list items, shown in a <ul>
-protections-panel-site-not-working-view-issue-list-login-fields = Fusha krendecialesh hyrjeje
-protections-panel-site-not-working-view-issue-list-forms = Formularë
-protections-panel-site-not-working-view-issue-list-payments = Pagesa
-protections-panel-site-not-working-view-issue-list-comments = Komente
-protections-panel-site-not-working-view-issue-list-videos = Video
-protections-panel-site-not-working-view-issue-list-fonts = Shkronja
-protections-panel-site-not-working-view-send-report = Dërgoni një raport
-
-##
-
 protections-panel-cross-site-tracking-cookies = Këto “cookies” ju ndjekin nga sajti në sajt për të mbledhur të dhëna rreth çka bëni në internet. Ato depozitohen nga palë të treta, të tilla si shoqëri reklamash dhe analizash.
 protections-panel-cryptominers = Nxjerrësit e kriptomonedhave e përdorin fuqinë përllogaritëse të sistemit tuaj për të nxjerrë para dixhitale. Programthet për nxjerrje kriptomonedhash konsumojnë energjinë e baterisë tuaj, ngadalësojnë kompjuterin tuaj dhe mund të sjellin shtim të faturës tuaj për energjinë.
 protections-panel-fingerprinters = Krijuesit e shenjave të gishtave (<em>Fingerprinters</em>) grumbullojnë rregullime nga shfletuesi dhe kompjuteri juaj për të krijuar një profil rreth jush. Duke përdorur këto shenja dixhitale gishtash, ata mund t’ju ndjekin nëpër sajte të ndryshme.
@@ -118,33 +91,10 @@ protections-panel-shim-allowed-indicator =
 protections-panel-content-blocking-manage-settings =
     .label = Administroni Rregullime për Mbrojtje
     .accesskey = M
-protections-panel-content-blocking-breakage-report-view =
-    .title = Njoftoni një Sajt të Dëmtuar
-protections-panel-content-blocking-breakage-report-view-description = Bllokimi i disa gjurmuesve mund të shkaktojë probleme me disa sajte. Raportimi i këtyre problemeve ndihmon për ta bërë { -brand-short-name }-in më të mirë për këdo. Dërgimi i këtij raporti do të shkaktojë dërgimin te Mozilla të një URL-je dhe të të dhënave mbi rregullimet tuaja të shfletuesit <label data-l10n-name="learn-more">Mësoni më tepër</label>
-protections-panel-content-blocking-breakage-report-view-collection-url = URL
-protections-panel-content-blocking-breakage-report-view-collection-url-label =
-    .aria-label = URL
-protections-panel-content-blocking-breakage-report-view-collection-comments = Në daçi: Përshkruani problemin
-protections-panel-content-blocking-breakage-report-view-collection-comments-label =
-    .aria-label = Në daçi: Përshkruani problemin
-protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = Anuloje
-protections-panel-content-blocking-breakage-report-view-send-report =
-    .label = Dërgoje Raportin
-
-# Cookie Banner Handling
-
-protections-panel-cookie-banner-handling-header = Reduktim Banderolash Për Cookie-t
 protections-panel-cookie-banner-blocker-header = Bllokues Banderolash Cookie-sh
 protections-panel-cookie-banner-handling-enabled = Aktivizuar për këtë sajt
 protections-panel-cookie-banner-handling-disabled = Çaktivizuar për këtë sajt
 protections-panel-cookie-banner-handling-undetected = Sajt aktualisht i pambuluar
-protections-panel-cookie-banner-view-title =
-    .title = Reduktim Banderolash Për Cookie-t
-# Variables
-#  $host (String): the hostname of the site that is being displayed.
-protections-panel-cookie-banner-view-turn-off-for-site = Të çaktivizohet Reduktim Banderolash Cookie-sh për { $host }?
-protections-panel-cookie-banner-view-turn-on-for-site = Të aktivizohet Reduktim Banderolash Cookie-sh për këtë sajt?
 protections-panel-cookie-banner-blocker-view-title =
     .title = Bllokues Banderolash Cookie-sh
 # Variables
@@ -152,10 +102,6 @@ protections-panel-cookie-banner-blocker-view-title =
 protections-panel-cookie-banner-blocker-view-turn-off-for-site = Të çaktivizohet Bllokues Banderolash Cookie-sh për { $host }?
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Të aktivizohet Bllokim Banderolash Cookie-sh për këtë sajt?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name }-i do të spastrojë cookie-t për këtë sajt dhe do të rifreskojë faqen. Spastrimi i krejt cookie-ve mund të sjellë nxjerrjen tuaj nga llogaria, ose zbrazje shportash blerjesh.
-protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }-i provon të hedhë poshtë automatikisht krejt kërkesat për cookies, në sajtet që e mbulojnë.
-protections-panel-cookie-banner-view-cancel = Anuloje
-protections-panel-cookie-banner-view-turn-off = Çaktivizoje
-protections-panel-cookie-banner-view-turn-on = Aktivizoje
 protections-panel-cookie-banner-blocker-view-turn-on-description = Aktivizojeni dhe { -brand-short-name } do të provojë të hedhë poshtë automatikisht banderola cookie-sh në këtë sajt.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Anuloje

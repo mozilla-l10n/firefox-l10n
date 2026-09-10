@@ -92,11 +92,5 @@ download-utils-time-left-single = { $time } tae gang
 download-utils-time-left-double = { $time1 } { $time2 } tae gang
 download-utils-time-few-seconds = A few seconds tae gang
 download-utils-time-unknown = Time tae gang unkent
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = { $scheme } resoorce
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = local file
 # Displayed time for files finished yesterday
 download-utils-yesterday = Yesterday

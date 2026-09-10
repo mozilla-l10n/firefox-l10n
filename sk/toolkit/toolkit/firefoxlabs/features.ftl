@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Povoľte projekt Warp, ktorý má zl
 experimental-features-ime-search =
     .label = Panel s adresou: zobrazovať výsledky počas zostavovania IME
 experimental-features-ime-search-description = IME (Input Method Editor) je nástroj, ktorý vám umožňuje zadávať zložité symboly, napríklad tie, ktoré sa používajú vo východoázijských alebo indických písaných jazykoch, pomocou štandardnej klávesnice. Povolením tohto experimentu zostane panel s adresou otvorený a zobrazia sa výsledky vyhľadávania a návrhy, zatiaľ čo na zadávanie textu sa používa editor IME. Upozorňujeme, že editor IME môže zobrazovať panel, ktorý prekrýva výsledky panela s adresou, preto sa táto predvoľba odporúča iba pre editor IME, ktorý tento typ panela nepoužíva.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Obraz v obraze: automatické otváranie po prepnutí kariet
-experimental-features-auto-pip-description = Povolí obraz v obraze na aktívnych videách pri prepínaní kariet.
 experimental-features-group-developer-tools =
     .label = Vývojárske nástroje
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Produktivita
 experimental-features-group-newtab-widgets =
     .label = Miniaplikácie na { -firefox-home-brand-name(case: "loc") }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Heslá na bočnom paneli
-experimental-features-contextual-password-manager-description = Pristupujte k svojim heslám priamo z bočného panela. Už žiadne hľadanie alebo obnovovanie hesiel, keď sa pokúšate prihlásiť. Ak chcete použiť túto funkciu, označte položku Heslá na bočnom paneli. Potom prejdite do nastavení prehliadača a zapnite zobrazovanie bočného panela. Potom si prispôsobte bočný panel a zvoľte zobrazenie hesiel. Ak to vyskúšate, <a data-l10n-name="connect">dajte nám vedieť, čo si myslíte</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Vyberte si vlastnú tapetu alebo farbu pre novú kartu

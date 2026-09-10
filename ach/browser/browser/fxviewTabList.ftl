@@ -10,9 +10,5 @@ fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
 fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Kombedi ni
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-save-to-pocket = Gwok i { -pocket-brand-name }
     .accesskey = o

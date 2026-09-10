@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Skrýt uzavřená PeerC
 about-webrtc-aec-logging-msg-label = Protokol AEC
 about-webrtc-aec-logging-off-state-label = Spustit protokol AEC
 about-webrtc-aec-logging-on-state-label = Zastavit protokol AEC
-about-webrtc-aec-logging-on-state-msg = Protokol AEC je aktivní (hovořte s volajícím pár minut, a pak zastavte sběr)
 about-webrtc-aec-logging-toggled-on-state-msg = Protokol AEC je aktivní (hovořte s volajícím pár minut, a pak zastavte sběr)
 about-webrtc-aec-logging-unavailable-sandbox = Proměnná prostředí MOZ_DISABLE_CONTENT_SANDBOX=1 je pro export protokolů AEC vyžadována. Tuto proměnnou nastavte pouze v případě, že si uvědomujete možná rizika.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Nominováno
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Vybráno
 about-webrtc-save-page-label = Uložit stránku
-about-webrtc-debug-mode-msg-label = Režim ladění
-about-webrtc-debug-mode-off-state-label = Spustit režim ladění
-about-webrtc-debug-mode-on-state-label = Zastavit režim ladění
-about-webrtc-stats-heading = Statistiky relace
 about-webrtc-enable-logging-label = Povolit protokolování WebRTC
 about-webrtc-peerconnections-section-heading = Statistiky spojení RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = Zobrazit statistiky RTCPeerConnection
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = Skrýt statistiky RTCPeerConnect
 about-webrtc-stats-clear = Vymazat historii
 about-webrtc-log-heading = Protokol připojení
 about-webrtc-log-clear = Vymazat protokol
-about-webrtc-log-show-msg = zobrazit protokol
-    .title = klepněte pro rozbalení této sekce
-about-webrtc-log-hide-msg = skrýt protokol
-    .title = klepněte pro zabalení této sekce
 about-webrtc-log-section-show-msg = Zobrazit protokol
     .title = Klepněte pro rozbalení této sekce
 about-webrtc-log-section-hide-msg = Skrýt protokol
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Vzdálený kandidát
 about-webrtc-raw-candidates-heading = All Raw Candidates
 about-webrtc-raw-local-candidate = Raw Local Candidate
 about-webrtc-raw-remote-candidate = Raw Remote Candidate
-about-webrtc-raw-cand-show-msg = zobrazit raw candidates
-    .title = klepněte pro rozbalení této sekce
-about-webrtc-raw-cand-hide-msg = skrýt raw candidates
-    .title = klepněte pro zabalení této sekce
 about-webrtc-raw-cand-section-show-msg = Zobrazit raw candidates
     .title = Klepněte pro rozbalení této sekce
 about-webrtc-raw-cand-section-hide-msg = Skrýt raw candidates
     .title = Klepněte pro zabalení této sekce
 about-webrtc-priority = Priorita
-about-webrtc-fold-show-msg = zobrazit detaily
-    .title = klepněte pro rozbalení této sekce
-about-webrtc-fold-hide-msg = skrýt detaily
-    .title = klepněte pro zabalení této sekce
 about-webrtc-fold-default-show-msg = Zobrazit detaily
     .title = Klepněte pro rozbalení této sekce
 about-webrtc-fold-default-hide-msg = Skrýt detaily
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Poskytnuto
 # been provided
 about-webrtc-configuration-element-not-provided = Neposkytnuto
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Uživatelská nastavení WebRTC
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Uživatelem upravená konfigurace WebRTC
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Statistiky video snímků - MediaStreamTrack ID: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = stránka uložena do: { $path }
-about-webrtc-debug-mode-off-state-msg = trasu protokolu lze nalézt na adrese: { $path }
-about-webrtc-debug-mode-on-state-msg = režim ladění aktivní, protokol v: { $path }
-about-webrtc-aec-logging-off-state-msg = soubory sběru protokolu můžete nalézt v: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

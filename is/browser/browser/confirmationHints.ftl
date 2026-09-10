@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Skýrsla send. Þakka þér fyrir!
-confirmation-hint-login-removed = Innskráning fjarlægð!
 confirmation-hint-password-removed = Lykilorð fjarlægt!
 confirmation-hint-page-bookmarked = Vistað í bókamerki
-confirmation-hint-password-saved = Lykilorð vistað!
 confirmation-hint-password-created = Lykilorð vistað
 confirmation-hint-password-updated = Lykilorð uppfært
 confirmation-hint-address-created = Póstfang vistað

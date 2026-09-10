@@ -4,14 +4,6 @@
 
 about-reader-loading = Učitavanje…
 about-reader-load-error = Učitavnje članka sa stranice nije uspjelo
-about-reader-color-scheme-light = Svijetla
-    .title = Svijetla shema boja
-about-reader-color-scheme-dark = Tamna
-    .title = Tamna shema boja
-about-reader-color-scheme-sepia = Sepia
-    .title = Sepia shema boja
-about-reader-color-scheme-auto = Automatski
-    .title = Automatska shema boja
 about-reader-color-light-theme = Svijetla
     .title = Svijetla tema
 about-reader-color-dark-theme = Tamna
@@ -24,17 +16,6 @@ about-reader-color-gray-theme = Siva
     .title = Siva tema
 about-reader-color-contrast-theme = Kontrast
     .title = Kontrastna tema
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time =
-    { $rangePlural ->
-        [one] { $range } minuta
-        [few] { $range } minute
-       *[other] { $range } minuta
-    }
 
 ## Reader View text and layout menu
 
@@ -42,14 +23,6 @@ about-reader-toolbar-minus =
     .title = Smanji veličinu fonta
 about-reader-toolbar-plus =
     .title = Povećaj veličinu fonta
-about-reader-toolbar-contentwidthminus =
-    .title = Smanji širinu sadržaja
-about-reader-toolbar-contentwidthplus =
-    .title = Povećaj širinu sadržaja
-about-reader-toolbar-lineheightminus =
-    .title = Smanji visinu retka
-about-reader-toolbar-lineheightplus =
-    .title = Povećaj visinu retka
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -60,7 +33,6 @@ about-reader-font-type-monospace = Fiksne širine
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Zatvori prikaz čitača
-about-reader-toolbar-type-controls = Kontrole tipova
 about-reader-toolbar-text-layout-controls = Tekst i raspored
 about-reader-toolbar-theme-controls = Tema
 about-reader-toolbar-savetopocket = Spremi u { -pocket-brand-name }

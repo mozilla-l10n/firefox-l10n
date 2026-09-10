@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiledowngrade-window2 =
-    .title = { -brand-product-name }-un köhnə versiyasını başlatdınız
     .style = min-width: 490px;
+    .title = { -brand-product-name }-un köhnə versiyasını başlatdınız
 profiledowngrade-window-create =
     .label = Yeni Profil Yarat
 profiledowngrade-quit =

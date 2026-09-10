@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Məxfi Səyahət
@@ -53,8 +48,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Oflayn saxlama mesaj panelini aç
 urlbar-password-notification-anchor =
     .tooltiptext = Parolu saxlama mesaj panelini aç
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Qoşma istifadəsini idarə et
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Kamera və/və ya mikrofonu saytla paylaşmağınızı idarə edin
 urlbar-autoplay-notification-anchor =
@@ -63,15 +56,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Qalıcı Yaddaşda məlumat saxlama
 urlbar-addons-notification-anchor =
     .tooltiptext = Əlavə quraşdırma mesaj panelini aç
-urlbar-tip-help-icon =
-    .title = Köməl alın
 urlbar-search-tips-confirm = Tamam, başa düşdüm
 urlbar-search-tips-confirm-short = Aydındır
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Məsləhət:
 urlbar-result-menu-button =
     .title = Menyunu aç
 urlbar-result-menu-learn-more2 = Ətraflı öyrənin
@@ -128,8 +114,6 @@ urlbar-screen-blocked =
     .tooltiptext = Bu saytı ekranınızı paylaşmaqdan əngəllədiniz.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Bu sayt üçün qalıcı yaddaşı əngəllədiniz.
-urlbar-popup-blocked =
-    .tooltiptext = Bu sayt üçün peyda olan pəncərələri əngəllədiniz.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Bu sayt üçün səsli medianın avto oxutmasını əngəlləmisiniz.
 urlbar-canvas-blocked =
@@ -227,24 +211,18 @@ quickactions-addons = Əlavələri gör
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = uzantılar, mövzular, əlavələr
-quickactions-cmd-addons2 = əlavələr
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Əlfəcinləri idarə et
 quickactions-cmd-bookmarks = əlfəcinlər
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Tarixçəni təmizlə
-quickactions-cmd-clearhistory = tarixçəni təmizlə
 # Opens about:downloads page
 quickactions-downloads2 = Endirmələrə bax
 quickactions-cmd-downloads = endirilənlər
 # Opens about:addons page in the extensions section
 quickactions-extensions = Uzantıları idarə et
-quickactions-cmd-extensions = uzantılar
 quickactions-cmd-help = yardım, dəstək
 # Opens the devtools eyedropper to pick a color from the page
 quickactions-colorpicker = Rəng seçin
 quickactions-library = Kitabxananı aç
-quickactions-cmd-plugins = qoşmalar
 # Opens the print dialog
 quickactions-print2 = Səhifəni çap et
 quickactions-cmd-print = çap et
@@ -256,12 +234,10 @@ quickactions-cmd-refresh = yenilə
 quickactions-cmd-restart = yenidən başlat
 # Opens the screenshot tool
 quickactions-screenshot3 = Ekran görüntüsü al
-quickactions-cmd-screenshot = ekran görüntüsü
 # Opens about:preferences
 quickactions-settings2 = Tənzimləmələri idarə et
 # Opens about:addons page in the themes section
 quickactions-themes = Mövzuları idarə et
-quickactions-cmd-themes = mövzular
 
 ## Bookmark Panel
 
@@ -301,7 +277,6 @@ identity-custom-root = Bağlantı Mozilla tərəfindən tanınmamış sertifikat
 identity-passive-loaded = Bu səhifənin bəzi hissələri (şəkillər kimi) təhlükəsiz deyil.
 identity-active-loaded = Bu səhifədə qorumanı söndürmüsünüz.
 identity-weak-encryption = Bu səhifə zəif şifrləmə istifadə edir.
-identity-insecure-login-forms = Bu səhifədə girilən məlumatlar oğurlana bilər.
 identity-permissions-storage-access-header = Saytlararası çərəzlər
 identity-permissions-storage-access-learn-more = Ətraflı öyrənin
 identity-permissions-reload-hint = Dəyişikliklərin işləməsi üçün səhifəni yeniləyin.
@@ -314,7 +289,6 @@ identity-remove-cert-exception =
     .label = İstisnanı sil
     .accesskey = s
 identity-description-insecure = Bu səhifəyə olan bağlantınız məxfi deyil. Göndərdiyiniz məlumatlar başqaları tərəfindən görülə bilər (parol, mesaj, kredit kartları və s. kimi).
-identity-description-insecure-login-forms = Bu səhifədə yazdığınız daxil olma məlumatları qorunmur və oğurlana bilər.
 identity-description-weak-cipher-intro = Bu səhifəyə olan bağlantınız zəif şifrləmə istifadə edir və məxfi deyil.
 identity-description-weak-cipher-risk = Başqaları sizin məlumatlarınızı görə və ya saytın davranışını səyişdirə bilər.
 identity-description-active-blocked2 = { -brand-short-name } bu səhifənin təhlükəsiz olmayan hissələrini əngəllədi.
@@ -323,12 +297,6 @@ identity-description-passive-loaded-insecure2 = Saytda güvənilir olmayan məzm
 identity-description-passive-loaded-mixed2 = { -brand-short-name } bəzi məzmunları əngəlləsə də bu səhifədə hələ də təhlükəsiz olmayan məzmunlar (şəkillər kimi) var.
 identity-description-active-loaded = Bu saytda təhlükəsiz olmayan məzmunlar (kriptlər kimi) var və saytla bağlantınız məxfi deyil.
 identity-description-active-loaded-insecure = Bu saytla paylaşdığınız məlumatlar (məs. parollar, mesajlar, kredit kartları kimi) başqaları tərəfindən görülə bilər.
-identity-disable-mixed-content-blocking =
-    .label = Qorumanı hələlik söndür
-    .accesskey = s
-identity-enable-mixed-content-blocking =
-    .label = Qorumanı aktivləşdir
-    .accesskey = k
 identity-more-info-link-text =
     .label = Daha çox məlumat
 
@@ -383,8 +351,6 @@ urlbar-extension =
     .value = Uzantı:
 urlbar-go-button2 =
     .title = Ünvan Sətrindəki ünvanı aç
-urlbar-go-button =
-    .tooltiptext = Ünvan Sətrindəki ünvanı aç
 urlbar-page-action-button =
     .tooltiptext = Səhifə əməliyyatları
 
@@ -413,15 +379,6 @@ urlbar-result-action-ai-chat = Soruş
 
 ## Strings used for buttons in the urlbar
 
-urlbar-searchmode-bookmarks =
-    .label = Əlfəcinlər
-urlbar-searchmode-actions =
-    .label = Əməliyyatlar
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = Bu dəfə bununla axtarın:
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = Axtarış Tənzimləmələri
 urlbar-searchmode-actions3 = Əməliyyatlar
     .accesskey = Ə
 # Label shown on the top of Searchmode Switcher popup. After this label, the
@@ -501,12 +458,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Əlfəcin alət sətrini gizlət
            *[other] Əlfəcin alət sətrini göstər
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Əlfəcinlər menyusunu Alət sətrindən sil
-           *[other] Əlfəcinlər menyusunu Alət sətrinə əlavə et
-        }
 
 ##
 
@@ -527,14 +478,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Əlfəcinlər
-library-recent-activity-title =
-    .value = Son Fəaliyyət
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = { -pocket-brand-name }-ə Saxla
-    .tooltiptext = { -pocket-brand-name }-ə Saxla
 
 ##
 
@@ -582,33 +525,12 @@ eme-notifications-drm-content-playing-manage = Tənzimləmələri idarə et
 ui-tour-info-panel-close =
     .tooltiptext = Qapat
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = { $uriHost } avtomatik açılan pəncərələrinə icazə ver
-    .accesskey = p
-popups-infobar-block =
-    .label = { $uriHost } üçün peyda olan pəncərələri əngəllə
-    .accesskey = p
-
-##
-
-popups-infobar-dont-show-message =
-    .label = Avtomatik açılan pəncərələr bloklananda bu mesajı göstərmə
-    .accesskey = D
-edit-popup-settings =
-    .label = Üstə çıxan pəncərə tənzimləmələrini idarə et…
-    .accesskey = M
-
 ##
 
 navbar-downloads =
     .label = Endirilənlər
 navbar-overflow-2 =
     .tooltiptext = Daha çox alət
-navbar-overflow =
-    .tooltiptext = Daha çox alət…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -680,21 +602,14 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = Məxfi Seansı Bitir
-    .tooltiptext = Məxfi Seansı Bitir
 reset-pbm-panel-heading2 = Məlumatlar təmizlənilsin və yeni bir məxfi seans başladılsın?
 reset-pbm-panel-description2 = Bu prosedur Məxfi Pəncərənizi bağlamadan tarixçəniz, çərəzləriniz və digər sayt məlumatlarınızı siləcəkdir.
-reset-pbm-panel-heading = Məxfi seansınız sonlandırılsın?
 reset-pbm-panel-always-ask-checkbox =
     .label = Həmişə soruş
     .accesskey = A
 reset-pbm-panel-confirm-button2 =
     .label = Məxfi seansı təmizlə
     .accesskey = T
-reset-pbm-panel-confirm-button =
-    .label = Seans məlumatlarını sil
-    .accesskey = D
 reset-pbm-panel-complete = Məxfi seans məlumatları silindi
 reset-pbm-toolbar-button2 =
     .label = Məxfi Seansı Təmizlə

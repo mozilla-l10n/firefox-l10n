@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Uus kaart
-    .accesskey = U
 reload-tab =
     .label = Laadi kaart uuesti
     .accesskey = i
@@ -76,10 +73,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Jaga
     .accesskey = J
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -103,10 +96,3 @@ tab-context-move-tabs =
            *[other] Liiguta kaarte
         }
     .accesskey = L
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Saada kaart seadmesse
-           *[other] Saada { $tabCount } kaarti seadmesse
-        }
-    .accesskey = k

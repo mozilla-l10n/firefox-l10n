@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Cari Sandi
-    .key = F
     .aria-label = Cari Sandi
+    .key = F
+    .placeholder = Cari Sandi
 contextual-manager-menu-more-options-button =
     .title = Opsi lainnya
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Impor dari Berkas…
 contextual-manager-passwords-command-export = Ekspor sandi
 contextual-manager-passwords-command-remove-all = Hapus seluruh sandi
 contextual-manager-passwords-command-options = Opsi
-contextual-manager-passwords-command-settings = Pengaturan
 contextual-manager-passwords-command-help = Bantuan
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }{ -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Sandi diimpor
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Baru: { $added }, Diperbarui: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -213,8 +208,6 @@ contextual-manager-passwords-create-label =
     .label = Tambahkan sandi
 contextual-manager-passwords-update-label =
     .label = Perbarui sandi
-contextual-manager-passwords-edit-label =
-    .label = Edit sandi
 contextual-manager-passwords-remove-label =
     .title = Hapus sandi
 contextual-manager-passwords-origin-field =
@@ -230,7 +223,6 @@ contextual-manager-passwords-password-field-description = Masukkan sandi untuk m
 contextual-manager-passwords-origin-tooltip = Masukkan alamat yang tepat untuk masuk ke situs ini.
 contextual-manager-passwords-username-tooltip = Masukkan nama pengguna, alamat surel, atau nomor akun yang Anda gunakan untuk masuk.
 contextual-manager-passwords-password-tooltip-2 = Masukkan sandi untuk masuk ke akun ini.
-contextual-manager-passwords-password-tooltip = Masukkan sandi yang digunakan untuk masuk ke akun ini.
 
 ## Password Card
 
@@ -277,10 +269,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Salin Sandi (Peringatan)
 contextual-manager-edit-login-button = Sunting
     .tooltiptext = Sunting Sandi
-contextual-manager-view-alert-heading =
-    .heading = Lihat peringatan
-contextual-manager-view-alert-button =
-    .tooltiptext = Tinjau peringatan
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -307,13 +295,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Tidak ada sandi ditemukan
 contextual-manager-passwords-no-passwords-found-message-2 = Coba istilah lain dan cari lagi.
-contextual-manager-passwords-no-passwords-found-message = Tidak ada sandi ditemukan. Cari istilah lain dan coba lagi.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Simpan kata sandi Anda di tempat yang aman.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Semua sandi dienkripsi, dan kami akan memantau pelanggaran serta memberi peringatan jika akun Anda terdampak.

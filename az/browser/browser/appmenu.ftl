@@ -33,8 +33,6 @@ appmenuitem-extensions-and-themes =
     .label = Uzantılar və Mövzular
 appmenuitem-extensions =
     .label = Uzantılar
-appmenuitem-addons-and-themes =
-    .label = Əlavələr və mövzular
 appmenuitem-print =
     .label = Çap et…
 appmenuitem-find-in-page =
@@ -106,15 +104,6 @@ appmenuitem-save-page =
     .label = Fərqli Saxla…
 appmenuitem-fxa-sync-off-description = Əlfəcinləriniz, parollarınız və daha çoxunu qoruyun və onlara istənilən yerdən daxil olun.
 
-## What's New panel in App menu.
-
-whatsnew-panel-header = Yeni nə var?
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Yeni özəlliklər barədə bildir
-    .accesskey = f
-
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
@@ -182,8 +171,6 @@ appmenu-about =
 appmenu-get-help =
     .label = Yardım əldə edin
     .accesskey = y
-appmenu-help-report-site-issue =
-    .label = Sayt Problemini Bildir…
 # Menu header for combination of "Help" menu and report broken site
 appmenu-help-and-report-header =
     .title = Kömək və Hesabat

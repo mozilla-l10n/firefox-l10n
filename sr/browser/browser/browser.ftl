@@ -2,113 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } приватно прегледање
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } приватно прегледање
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — приватно прегледање
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — приватно прегледање
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } приватно прегледање
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
 browser-shortcut-description = Брзо и приватно прегледање веба
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } - { $profile-name } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } - приватно прегледање
-    .data-content-title-private-with-profile = { $content-title } - { $profile-name } - { -brand-full-name } - приватно прегледање
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } - { -brand-full-name }
-    .data-title-private = { -brand-full-name } - приватно прегледање
-    .data-title-private-with-profile = { $profile-name } - { -brand-full-name } - приватно прегледање
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } - { $profile-name }
-    .data-content-title-private = { $content-title } - приватно прегледање
-    .data-content-title-private-with-profile = { $content-title } - { $profile-name } - приватно прегледање
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } - { -brand-full-name }
-    .data-title-private = { -brand-full-name } - приватно прегледање
-    .data-title-private-with-profile = { $profile-name } - { -brand-full-name } - приватно прегледање
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -178,8 +76,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Отвори панел са порукама о офлајн меморији
 urlbar-password-notification-anchor =
     .tooltiptext = Отвори панел са захтевом за чување лозинке
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Управљајте коришћењем додатних компоненти
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Управљајте дељењем ваше камере и/или микрофона са сајтом
 # "Speakers" is used in a general sense that might include headphones or
@@ -192,15 +88,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Складишти податке у трајном складишту
 urlbar-addons-notification-anchor =
     .tooltiptext = Отвори панел са инсталацијом додатака
-urlbar-tip-help-icon =
-    .title = Потражи помоћ
 urlbar-search-tips-confirm = Разумем
 urlbar-search-tips-confirm-short = Важи
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Савет:
 urlbar-result-menu-button =
     .title = Отвори мени
 urlbar-result-menu-button-feedback = Повратне информације
@@ -245,9 +134,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = Одбаци овај предлог
     .accesskey = О
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = Сазнајте више о { -firefox-suggest-brand-name }
-    .accesskey = С
 urlbar-result-menu-manage-firefox-suggest =
     .label = Управљајте { -firefox-suggest-brand-name }
     .accesskey = У
@@ -279,8 +165,6 @@ urlbar-dismissal-acknowledgment-weather = Хвала на примедбама. 
 
 urlbar-search-tips-onboard = Куцајте мање, нађите више: користите претраживач { $engineName } директно из траке за адресу.
 urlbar-search-tips-redirect-2 = Почните да куцате у траци за адресу и приказаће вам се предлози које обезбеђује { $engineName } и историја прегледања.
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = Претраживање је постало лакше. Покушајте да своју претрагу учините конкретнијом у адресној траци. Да прикажете веб адресу, отворите Претрага у подешавањима.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Изаберите ову пречицу за бржу претраживање.
@@ -314,8 +198,6 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Овом веб-сајту сте забранили приступ трајној меморији.
 urlbar-popup-blocked2 =
     .tooltiptext = Блокирали сте искачуће прозоре и преусмеравања трећих страна за овај веб сајт.
-urlbar-popup-blocked =
-    .tooltiptext = Блокирали сте искачуће прозоре са овог веб-сајта.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Блокирали сте аутоматско пуштање медија са звуком на овом веб-сајту.
 urlbar-canvas-blocked =
@@ -426,24 +308,18 @@ quickactions-cmd-addons3 = додаци, теме
 # Opens preferences page at AI controls
 quickactions-manageai = Управљај ВИ контролама
 quickactions-cmd-manageai = онемогући ВИ, искључи ВИ, управљај ВИ, onemogući VI, isključi VI, upravljaj VI, disable ai, off ai, manage ai
-quickactions-cmd-addons2 = додаци
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Управљај обележивачима
 quickactions-cmd-bookmarks = обележивачи
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Обриши недавну историју
 quickactions-cmd-clearrecenthistory2 = колачићи, обриши колачиће, кеш, обриши кеш, подаци прегледања, обриши податке прегледања, историја, обриши скорашњу историју, cookies, clear cookies, cache, clear cache, browsing data, clear browsing data, history, clear recent history, kolačići, obriši kolačiće, keš, obriši keš, podaci pregledanja, obriši podatke pregledanja, istorija, obriši skorašnju istoriju
-quickactions-cmd-clearrecenthistory = обриши недавну историју, историја
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Обриши историју
-quickactions-cmd-clearhistory = обриши историју
 # Opens about:downloads page
 quickactions-downloads2 = Прикажи преузимања
 quickactions-cmd-downloads = преузимања
 # Opens about:addons page in the extensions section
 quickactions-extensions = Управљај додацима
 quickactions-cmd-extensions2 = проширења, додаци
-quickactions-cmd-extensions = додаци
 # Opens Firefox View
 quickactions-firefoxview = Отвори { -firefoxview-brand-name }
 # English is using "view" and "open view", since the feature name is
@@ -462,7 +338,6 @@ quickactions-cmd-colorpicker = бирач боја, капаљка, одабер
 # Opens Firefox Library
 quickactions-cmd-library = библиотека,library,biblioteka
 quickactions-library = Отвори библиотеку
-quickactions-cmd-inspector = инспектор, алатке за програмере
 # Opens about:logins
 quickactions-logins2 = Управљај лозинкама
 quickactions-cmd-logins = пријаве, лозинке
@@ -472,9 +347,6 @@ quickactions-mute = Пригушите језичке који репродук�
 # Replace with idiomatic expressions in your language to silence something or
 # someone.
 quickactions-cmd-mute = утишај, тишина, пссст
-# Opens about:addons page in the plugins section
-quickactions-plugins = Управљај прикључцима
-quickactions-cmd-plugins = прикључци
 # Opens the print dialog
 quickactions-print2 = Одштампај страницу
 quickactions-cmd-print = одштампај, штампај
@@ -499,19 +371,16 @@ quickactions-cmd-screenshot2 = снимак екрана, направи сни�
 # Opens about:translations
 quickactions-translate = Преведи
 quickactions-cmd-translate = преведи
-quickactions-cmd-screenshot = снимак екрана
 # Opens about:preferences
 quickactions-settings2 = Управљај подешавањима
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = подешавања, опције
-quickactions-cmd-settings = подешавања, опције
 # Opens about:addons page in the themes section
 quickactions-themes = Управљај темама
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-themes2 = теме, додаци
-quickactions-cmd-themes = теме
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Ажурирај { -brand-short-name }
 quickactions-cmd-update = ажурирај
@@ -521,7 +390,6 @@ quickactions-cmd-viewsource2 = прикажи извор, извор стран�
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = Отвори { -firefoxlabs-brand-name }
 quickactions-cmd-labs = лабораторије, експеримент, labs, experiment, laboratorije, eksperiment
-quickactions-cmd-viewsource = прикажи извор, извор
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Сазнајте више о брзим радњама
@@ -591,9 +459,7 @@ identity-custom-root = Везу је потврдио издавалац сер�
 identity-passive-loaded = Неки делови ове странице, попут слика, нису безбедни.
 identity-active-loaded = Онемогућили сте заштиту на овој страници.
 identity-weak-encryption = Ова страница користи слабо шифровање.
-identity-insecure-login-forms = Пријаве које су унесене на овој страници су можда угрожене.
 identity-https-only-connection-upgraded = (надограђено на HTTPS)
-identity-https-only-label = Режим „Само HTTPS”
 identity-https-only-label2 = Аутоматски надоградите ову страницу на безбедну везу
 identity-https-only-dropdown-on =
     .label = Укључено
@@ -601,8 +467,6 @@ identity-https-only-dropdown-off =
     .label = Искључено
 identity-https-only-dropdown-off-temporarily =
     .label = Привремено искључено
-identity-https-only-info-turn-on2 = Укључите режим „Само HTTPS” за овај сајт ако желите да { -brand-short-name } надогради везу кад је то могуће.
-identity-https-only-info-turn-off2 = Ако страница делује неисправно, можете искључити режим „Само HTTPS” и поново је учитати преко небезбедног HTTP-а.
 identity-https-only-info-turn-on3 = Укључите HTTPS надоградње за ову страницу ако желите да { -brand-short-name } надогради везу кад год је могуће.
 identity-https-only-info-turn-off3 = Ако страница делује неисправно, можете искључити HTTPS надоградње и поново је учитати преко небезбедног HTTP-а.
 identity-https-only-info-no-upgrade = Није могуће надоградити HTTP везу.
@@ -626,7 +490,6 @@ identity-remove-cert-exception =
     .label = Уклони изузетак
     .accesskey = У
 identity-description-insecure = Веза са овим сајтом није приватна. Информације које пошаљете (нпр. лозинке, поруке, кредитне картице итд.) могу видети други.
-identity-description-insecure-login-forms = Информације за пријаву које сте унели на овој страницу нису сигурне и могу бити угрожене.
 identity-description-weak-cipher-intro = Веза са овим сајтом користи слабо шифровање и није приватна.
 identity-description-weak-cipher-risk = Друге особе могу да виде ваше информације или да модификују понашање веб сајта.
 identity-description-active-blocked2 = { -brand-short-name } је лоцирао делове сајта који нису сигурни.
@@ -637,12 +500,6 @@ identity-description-active-loaded = Овај сајт има садржај к�
 identity-description-active-loaded-insecure = Информације које делите могу бити виђене од стране осталих (као што су лозинке, поруке, кредитне картице, итд.).
 identity-description-tls-key-logging-heading = Ваша веза можда није приватна
 identity-description-tls-key-logging-message = Неки програм или услуга можда могу видети ваш шифрован саобраћај са ове странице.
-identity-disable-mixed-content-blocking =
-    .label = Онемогући заштиту
-    .accesskey = н
-identity-enable-mixed-content-blocking =
-    .label = Омогући заштиту
-    .accesskey = м
 identity-more-info-link-text =
     .label = Више информација
 
@@ -659,43 +516,6 @@ browser-window-close-button =
 # Clicking this button closes the window and returns to the tab where it was opened from
 browser-window-return-to-opener =
     .tooltiptext = Назад
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = РЕПРОДУКУЈЕ СЕ
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = БЕЗ ЗВУКА
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = АУТОМАТСКА РЕПРОДУКЦИЈА БЛОКИРАНА
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = СЛИКА У СЛИЦИ
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] ИСКЉУЧИ ЗВУК КАРТИЦЕ
-        [one] ИСКЉУЧИ ЗВУК { $count } КАРТИЦЕ
-        [few] ИСКЉУЧИ ЗВУК { $count } КАРТИЦЕ
-       *[other] ИСКЉУЧИ ЗВУК { $count } КАРТИЦА
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] УКЉУЧИ ЗВУК КАРТИЦЕ
-        [one] УКЉУЧИ ЗВУК { $count } КАРТИЦЕ
-        [few] УКЉУЧИ ЗВУК { $count } КАРТИЦЕ
-       *[other] УКЉУЧИ ЗВУК { $count } КАРТИЦА
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] ПУСТИ САДРЖАЈ ИЗ КАРТИЦЕ
-        [one] ПУСТИ САДРЖАЈ ИЗ { $count } КАРТИЦЕ
-        [few] ПУСТИ САДРЖАЈ ИЗ { $count } КАРТИЦЕ
-       *[other] ПУСТИ САДРЖАЈ ИЗ { $count } КАРТИЦА
-    }
 
 ## Bookmarks toolbar items
 
@@ -736,10 +556,6 @@ sharing-warning-disable-for-session =
 
 webserial-select-port-label = Изаберите серијски порт:
 webserial-no-ports-available = Нема доступних серијских портова
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = Да бисте користили пречицу F12, из менија „За веб-програмере” отворите алатке за програмере.
 
 ## URL Bar
 
@@ -804,8 +620,6 @@ urlbar-extension =
     .value = Додатак:
 urlbar-go-button2 =
     .title = Приказ адресе уписане у траку за адресе
-urlbar-go-button =
-    .tooltiptext = Приказ адресе уписане у траку за адресе
 urlbar-page-action-button =
     .tooltiptext = Радње странице
 urlbar-revert-button =
@@ -863,11 +677,6 @@ urlbar-result-action-tabtosearch-web = Претражите у претражи�
 urlbar-result-action-tabtosearch-other-engine = Претражите { $engine } директно из адресне траке
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Копирај
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = неодређено
 # The sub title of an add-on suggestion in the urlbar.
@@ -878,23 +687,6 @@ urlbar-result-mdn-subtitle = { -mdn-brand-name }
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
 urlbar-result-suggestion-recommended = Препоручено
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
-# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
-# The last = sign will be shown as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
-# Shows the result of a formula expression being calculated, to a maximum of 9 significant
-# digits. This is used for numbers < 1.
-# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 # The title of a weather suggestion in the urlbar. The temperature and unit
 # substring should be inside a <strong> tag. If the temperature and unit are not
 # adjacent in the localization, it's OK to include only the temperature in the
@@ -1089,32 +881,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - претражи {
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - претражи у { $engine }
-urlbar-searchmode-dropmarker =
-    .tooltiptext = Изаберите претраживач
-urlbar-searchmode-bookmarks =
-    .label = Обележивачи
-urlbar-searchmode-tabs =
-    .label = Језичци
-urlbar-searchmode-history =
-    .label = Историја
-urlbar-searchmode-actions =
-    .label = Радње
-urlbar-searchmode-exit-button =
-    .tooltiptext = Затвори
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = Овај пут претражи користећи:
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = Подешавање претраге
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button2 =
-    .label = { $engine }, изабери претраживач
-    .tooltiptext = { $engine }, изабери претраживач
-urlbar-searchmode-button-no-engine =
-    .label = Није изабрана пречица, изабери пречицу
-    .tooltiptext = Није изабрана пречица, изабери пречицу
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1221,16 +987,10 @@ urlbar-group-trending =
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Не приказуј претраге у тренду
     .accesskey = Н
-# Label shown above sponsored suggestions in the urlbar results.
-urlbar-group-sponsored =
-    .label = Спонзорисано
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Не приказуј претраге у тренду
     .accesskey = Н
-urlbar-result-menu-trending-why =
-    .label = Зашто ми се ово приказује?
-    .accesskey = З
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = Хвала на примедбама. Више нећете видети претраге у тренду.
@@ -1315,12 +1075,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Сакриј траку са обележивачима
            *[other] Прикажи траку са обележивачима
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Уклони засебни мени са траке с алаткама
-           *[other] Додај засебни мени на траку с алаткама
-        }
 
 ##
 
@@ -1351,14 +1105,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = Обележивачи
-library-recent-activity-title =
-    .value = Недавна активност
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Сачувај у { -pocket-brand-name(case: "loc") }
-    .tooltiptext = Сачувај у { -pocket-brand-name(case: "loc") }
 
 ## Repair text encoding toolbar button
 
@@ -1448,8 +1194,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = О
 
 ## Password save/update panel
 
-panel-save-update-username = Корисничко име
-panel-save-update-password = Лозинка
 panel-save-update-username-2 =
     .label = Корисничко име
 panel-save-update-password-2 =
@@ -1472,33 +1216,18 @@ menu-share-copy-links =
            *[other] Копирај { $count } веза
         }
     .accesskey = в
-menu-share-copy-link =
-    .label = Копирај везу
-    .accesskey = у
 ui-tour-info-panel-close =
     .tooltiptext = Затвори
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
-popups-infobar-allow =
-    .label = Дозволи искачуће прозоре за { $uriHost }
-    .accesskey = Д
-popups-infobar-block =
-    .label = Блокирај искачуће прозоре за { $uriHost }
-    .accesskey = Д
 popups-infobar-allow2 =
     .label = Дозволи искачуће прозоре и преусмеравања трећих страна за { $uriHost }
     .accesskey = Д
 
 ##
 
-popups-infobar-dont-show-message =
-    .label = Не приказуј ову поруку када су искачући прозори блокирани
-    .accesskey = Н
-edit-popup-settings =
-    .label = Управљај подешавањима искачућих прозора…
-    .accesskey = M
 picture-in-picture-hide-toggle =
     .label = Сакриј прекидач „Слика у слици”
     .accesskey = С
@@ -1524,8 +1253,6 @@ navbar-downloads =
     .label = Преузимања
 navbar-overflow-2 =
     .tooltiptext = Више алатки
-navbar-overflow =
-    .tooltiptext = Више алатки…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1628,13 +1355,8 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = Заврши приватну сесију
-    .tooltiptext = Заврши приватну сесију
 reset-pbm-panel-heading2 = Очистите податке и започните нову приватну сесију?
 reset-pbm-panel-description2 = Ово брише историју, колачиће и све остале податке са страница без затварања вашег приватног прозора.
-reset-pbm-panel-heading = Заврши приватну сесију?
-reset-pbm-panel-description = Затвори све приватне језичке и обриши историју, колачиће и све остале податке.
 reset-pbm-panel-always-ask-checkbox =
     .label = Увек ме питај
     .accesskey = У
@@ -1644,9 +1366,6 @@ reset-pbm-panel-cancel-button =
 reset-pbm-panel-confirm-button2 =
     .label = Очистите приватну сесију
     .accesskey = ј
-reset-pbm-panel-confirm-button =
-    .label = Обриши податке сесије
-    .accesskey = п
 reset-pbm-panel-complete = Подаци приватне сесије су обрисани
 reset-pbm-toolbar-button2 =
     .label = Очисти приватну сесију

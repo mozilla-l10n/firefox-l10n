@@ -2,41 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Ağ-saytlarına izlenmege istemegeniñiz aqqında “Meni İzleme” signalını yiber
-do-not-track-learn-more = Daha çoq ögren
-do-not-track-option-default-content-blocking-known =
-    .label = Faqat { -brand-short-name } bilingen izcilerni bloklamağa tesbit etilgen olğanda
-do-not-track-option-always =
-    .label = Er zaman
 pane-general-title = Umumiy
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = Ev
 pane-search-title2 = Qıdırma
     .title = Qıdırma
 pane-privacy-title3 = Hususiyat ve Emniyet
     .title = Hususiyat ve Emniyet
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = Qıdırma
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = Hususiyat ve Emniyet
-pane-privacy-title = Hususiyat ve Emniyet
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 help-button-label2 = { -brand-short-name } Destegi
     .title = { -brand-short-name } Destegi
 addons-button-label2 = Eklentiler ve Temalar
     .title = Eklentiler ve Temalar
-help-button-label = { -brand-short-name } Destegi
-addons-button-label = Eklentiler ve Temalar
 focus-search =
     .key = f
 close-button =
@@ -75,22 +54,13 @@ search-results-help-link = Yardım kerekmi? <a data-l10n-name="url">{ -brand-sho
 
 ## General Section
 
-startup-header = Başlanğıç
 always-check-default =
     .label = Ögbelgilengen kezicimniñ { -brand-short-name } olıp olmağanını er zaman teşker
     .accesskey = b
-is-default = { -brand-short-name } al-azırda ögbelgilengen keziciñiz
-is-not-default = { -brand-short-name } ögbelgilengen keziciñiz degildir
-set-as-my-default-browser =
-    .label = Ögbelgilengen Yap…
-    .accesskey = a
-startup-restore-warn-on-quit =
-    .label = Seyrancıdan çıqqanda meni tenbi et
 disable-extension =
     .label = Uzantını naqabilleştir
 tabs-group-header2 =
     .label = İlmekler
-tabs-group-header = İlmekler
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab, ilmekler arasında yaqınlarda qullanılğanları sıra ile dolaşır
     .accesskey = T
@@ -103,13 +73,7 @@ warn-on-open-many-tabs =
 show-tabs-in-taskbar =
     .label = İlmek ögbaqışlarını Windows vazife çubuğında köster
     .accesskey = ö
-browser-containers-enabled =
-    .label = Konteyner ilmeklerni qabilleştir
-    .accesskey = K
 browser-containers-learn-more = Daha çoq ögren
-browser-containers-settings =
-    .label = Ayarlar…
-    .accesskey = A
 containers-disable-alert-title = Konteyner İlmeklerniñ Episi Qapatılsınmı?
 startup-group =
     .label = Başlanğıç
@@ -145,13 +109,6 @@ containers-remove-cancel-button = Bu Konteynerni Çetleştirme
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Til ve Körünim
-default-font = Ögbelgilengen Urufat
-    .accesskey = t
-default-font-size = Ölçü
-    .accesskey = l
-advanced-fonts =
-    .label = İleriletilgen…
-    .accesskey = r
 language-header = Til
 choose-language-description = Saifelerni kösterüv içün tercih etilgen tiliñizni saylañız
 choose-button =
@@ -165,12 +122,6 @@ confirm-browser-language-change-description = Bu deñişikliklerni uyğulamaq i�
 confirm-browser-language-change-button = Uyğula ve Kene Başlat
 browser-language-install-error =
     .message = { -brand-short-name } al-azırda tilleriñizni yañartalmay. İnternet'ke bağlanğan olğanıñıznı teşkeriñiz yaki yañıdan deñeñiz.
-translate-web-pages =
-    .label = Ağ muhtevasını tercime et
-    .accesskey = A
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = Tercimeler  <img data-l10n-name="logo"/> tarafındandır
 translate-exceptions =
     .label = İstisnalar…
     .accesskey = s
@@ -185,23 +136,6 @@ download-save-files-header =
     .label = Dosylerniñ qayda saqlanacağı
 download-save-where-3 =
     .aria-label = Dosylerniñ qayda saqlanacağı
-download-header = Endirmeler
-download-save-where = Dosylerniñ qayda saqlanacağı
-    .accesskey = a
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Sayla…
-           *[other] Kezin…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] a
-           *[other] z
-        }
-download-always-ask-where =
-    .label = Dosyelerniñ qayda saqlanacağını er zaman sizge sora
-    .accesskey = o
 applications-header = Uyğulamalar
 applications-description = { -brand-short-name } kezicisiniñ Ağ’dan endirgeniñiz dosyelerni yaki kezingende qullanğanıñız uyğulamalarnı nasıl qollağanını sayla.
 applications-filter =
@@ -238,17 +172,11 @@ applications-always-ask =
 #   $type-description (string) - Description of the type (e.g "Portable Document Format")
 #   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = { $plugin-name } qullan ({ -brand-short-name } içinde)
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -264,46 +192,21 @@ applications-use-other-label =
 
 drm-group =
     .label = Raqamsal Aqlar İdaresi (DRM) Muhtevası
-drm-content-header = Raqamsal Aqlar İdaresi (DRM) Muhtevası
 play-drm-content =
     .label = DRM-muraqabeli muhtevanı oynat
     .accesskey = D
 play-drm-content-learn-more = Daa çoq ögren
-update-application-title = { -brand-short-name } Yañartmaları
-update-application-description = Eñ yahşı icraat, istiqrar ve emniyet içün { -brand-short-name } küncel tutulsın.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Sürüm{ $version } <a data-l10n-name="learn-more">Ne bar ne yoq</a>
 update-history-2 =
     .label = Yañartma keçmişini köster
     .accesskey = k
-update-history =
-    .label = Yañartma keçmişini köster…
-    .accesskey = k
-update-application-allow-description = { -brand-short-name } yañartmalarnı
-update-application-auto =
-    .label = Avtomatik olaraq qursın (tevsiye etilir)
-    .accesskey = O
-update-application-check-choose =
-    .label = Teşkersin amma qurulış qararı maña qaldırılsın
-    .accesskey = T
-update-application-manual =
-    .label = İç bir zaman teşkermesin (tevsiye etilmez)
-    .accesskey = i
 update-application-warning-cross-user-setting-2 =
     .message = Bu ayar, { -brand-short-name } tatbiqiniñ bu qurulımını qullanğan Windows esaplarınıñ ve { -brand-short-name } profilleriniñ episine uyğulanacaq.
-update-application-warning-cross-user-setting = Bu ayar, { -brand-short-name } tatbiqiniñ bu qurulımını qullanğan Windows esaplarınıñ ve { -brand-short-name } profilleriniñ episine uyğulanacaq.
-update-application-use-service =
-    .label = Yañartmalarnı qurmaq içün arqazemin hizmetini qullan
-    .accesskey = a
 
 ## General Section - Performance
 
-performance-title = İcraat
-performance-use-recommended-settings-checkbox =
-    .label = Tevsiye etilgen icraat ayarlarını qullan
-    .accesskey = T
-performance-use-recommended-settings-desc = Bu ayarlar bilgisayarıñıznıñ donanımına ve işletim sistemine fasonlanğandır.
 performance-settings-learn-more = Daa çoq ögren
 performance-allow-hw-accel =
     .label = Müsait olğanda donanım ivmelenmesini qullan
@@ -321,7 +224,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = Kezinti
 browsing-use-autoscroll =
     .label = Avtomatik taydırmanı qullan
     .accesskey = a
@@ -343,18 +245,8 @@ browsing-cfr-recommendations =
 browsing-cfr-features =
     .label = Siz seyran etkende hususiyetlerni tevsiye et
     .accesskey = h
-browsing-cfr-recommendations-learn-more = Daha Çoq Ögren
 browsing-group =
     .label = Kezinti
-
-## General Section - Proxy
-
-network-settings-title = Şebeke Ayarları
-network-proxy-connection-description = { -brand-short-name } kezicisiniñ İnternet'ke nasıl bağlanacağını endamlandırıñız.
-network-proxy-connection-learn-more = Daa Çoq Ögren
-network-proxy-connection-settings =
-    .label = Ayarlar…
-    .accesskey = A
 
 ## Home Section
 
@@ -401,8 +293,6 @@ home-homepage-new-tabs =
 
 home-prefs-search-header =
     .label = Ağ Qıdırması
-home-prefs-recommended-by-header =
-    .label = { $provider } tevsiyeli
 
 ##
 
@@ -414,14 +304,6 @@ home-prefs-highlights-options-bookmarks =
     .label = Saifeimleri
 home-prefs-highlights-option-most-recent-download =
     .label = Eñ Deminki Endirme
-home-prefs-highlights-option-saved-to-pocket =
-    .label = { -pocket-brand-name }’ke Saqlanğan Saifeler
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = Qırpıntılar
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -433,28 +315,11 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = Arama çubuğu
-search-bar-hidden =
-    .label = Adres çubuğını em qıdırma em de seyrüsefer içün qullan
-search-bar-shown =
-    .label = Alet çubuğında qıdırma çubuğını ekle
-search-engine-default-header = Ögbelgilengen Qıdırma Motorı
-search-suggestions-option =
-    .label = Qıdırma telqinleri temin et
-    .accesskey = r
 search-show-suggestions-url-bar-option =
     .label = Adres çubuğı neticelerinde qıdırma telqinlerini köster
     .accesskey = l
 search-suggestions-cant-show-2 =
     .message = { -brand-short-name } tarayıcısını geçmişi hatırlamayacak şekilde ayarladığınız için konum çubuğu sonuçlarında arama önerileri gösterilmeyecektir.
-# This string describes what the user will observe when the system
-# prioritizes search suggestions over browsing history in the results
-# that extend down from the address bar. In the original English string,
-# "ahead" refers to location (appearing most proximate to), not time
-# (appearing before).
-search-show-suggestions-above-history-option =
-    .label = Adres çubuğu sonuçlarında arama önerilerini gezinti geçmişinden önce göster
-search-suggestions-cant-show = { -brand-short-name } tarayıcısını geçmişi hatırlamayacak şekilde ayarladığınız için konum çubuğu sonuçlarında arama önerileri gösterilmeyecektir.
 search-one-click-desc = Bir anahtar kelimeni kirsetmege başlağanıñızda adres çubuğınıñ ve qıdırma çubuğınıñ altında körünecek alternativ qıdırma motorlarını saylañız.
 search-choose-engine-column =
     .label = Qıdırma Motorı
@@ -479,15 +344,6 @@ search-engine-group =
 search-default-engine =
     .aria-label = Ögbelgilengen Qıdırma Motorı
 
-## Containers Section
-
-containers-header = Kapsayıcı sekmeler
-containers-add-button =
-    .label = Yañı Konteyner Ekle
-    .accesskey = e
-containers-remove-button =
-    .label = Çetleştir
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -504,8 +360,6 @@ sync-mobile-promo = Mobil cihazıñız ile aynılaştırmaq içün <img data-l10
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = Profil resmini değiştir
 sync-profile-picture-with-alt =
     .alt = Profil resmini değiştir
     .tooltiptext = Profil resmini değiştir
@@ -524,9 +378,6 @@ sync-signedin-login-failure = Yañıdan { $email } esabına bağlanmaq içün l�
 
 ##
 
-sync-resend-verification =
-    .label = Doğrulamayı yeniden gönder
-    .accesskey = d
 sync-remove-account =
     .label = Esapnı sil
     .accesskey = H
@@ -550,10 +401,6 @@ sync-engine-addresses =
     .label = Adresler
     .tooltiptext = Kaydettiğiniz posta adresleri (yalnızca masaüstü)
     .accesskey = e
-sync-engine-creditcards =
-    .label = Kredi kartları
-    .tooltiptext = Adlar, numaralar ve son kullanma tarihleri (yalnızca masaüstü)
-    .accesskey = K
 sync-engine-addons =
     .label = Eklentiler
     .tooltiptext = Masaüstü Firefox eklentileri ve temaları
@@ -585,38 +432,15 @@ sync-connect-another-device = Başqa bir cihaz bağla
 sync-connect-another-device-2 =
     .label = Başqa bir cihaz bağla
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = Doğrulama Yiberildi
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = Bir doğrulama ilişimi { $email } adresine yiberilgendir.
-sync-verification-not-sent-title = Doğrulama Yiberilalmay
-sync-verification-not-sent-body = Al-azırda bir doğrulama poçtası yiberalmaymız, lütfen soñra tekrar deñeñiz.
-
 ## Privacy Section
 
 privacy-header = Kezici Hususiyatı
-
-## Privacy Section - Logins and Passwords
-
-# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = İçeri İmzalanmalar ve Sır-sözler
-    .searchkeywords = { -lockwise-brand-short-name }
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = Ağ-saytları içün içeri-imzalanışlar ve sır-sözlerni saqlamağa sora
-    .accesskey = A
 
 ## Privacy Panel Settings
 
 forms-exceptions =
     .label = İstisnalar…
     .accesskey = s
-forms-saved-logins =
-    .label = Saqlanğan İçeri-imzalanışlar…
-    .accesskey = S
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -627,32 +451,12 @@ forms-master-pw-fips-desc = Sır-sözni Deñiştirüv Oñmadı
 
 ## Privacy Section - History
 
-history-header = Keçmiş
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } keçmişni
-    .accesskey = k
-history-remember-option-all =
-    .label = Hatırlaycaq
-history-remember-option-never =
-    .label = Asla hatırlamaycaq
-history-remember-option-custom =
-    .label = Şahsiyleştirilgen ayarlarğa köre hatırlaycaq
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } kezinüv, endirme, forma ve qıdırma keçmişiñizni hatırlayacaq.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } Gizli Gezinti ile aynı ayarları kullanacak ve siz internette gezerken geçmişle ilgili hiçbir şeyi hatırlamayacak.
-history-remember-description = { -brand-short-name } kezinüv, endirme, forma ve qıdırma keçmişiñizni hatırlayacaq.
-history-dontremember-description = { -brand-short-name } Gizli Gezinti ile aynı ayarları kullanacak ve siz internette gezerken geçmişle ilgili hiçbir şeyi hatırlamayacak.
 history-private-browsing-permanent =
     .label = Er zaman hususiy kezinüv tarzını qullan
     .accesskey = m
@@ -678,44 +482,17 @@ history-mode-radio-group =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Çörekler ve Sayt Verileri
 sitedata-total-size-calculating = Sayt verileri ve zula ölçüsi esaplana…
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Saqlanğan çörekler, sayt verileri ve zulañız al-azırda { $value } { $unit } disk fezası qullana.
 sitedata-learn-more = Daha çoq ögren
-sitedata-delete-on-close =
-    .label = { -brand-short-name } qapatılğanında çörekler ve sayt verilerini sil
-    .accesskey = e
-sitedata-delete-on-close-private-browsing = Payidar hususiy seyran tarzında, { -brand-short-name } qapatılğanında çörekler ve sayt verileri er zaman temizlenir.
-sitedata-allow-cookies-option =
-    .label = Çöreklerni ve sayt verilerini qabul et
-    .accesskey = b
-sitedata-disallow-cookies-option =
-    .label = Çöreklerni ve sayt verilerini blokla
-    .accesskey = b
-# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
-# The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = Bloklanğan Tür
-    .accesskey = T
 sitedata-option-block-unvisited =
     .label = Ziyaret etilmegen saytlardan çörekler
 sitedata-option-block-all =
     .label = Episi çörekler (ağ-saytlarınıñ bozulmasına sebep olacaq)
-sitedata-clear =
-    .label = Verilerni Temizle…
-    .accesskey = l
-sitedata-settings =
-    .label = Verilerni İdare Et…
-    .accesskey = V
 cookies-site-data-group =
     .label = Çörekler ve Sayt Verileri
 
 ## Search Section
 
-addressbar-header = Adres Çubuğı
-addressbar-suggest = Adres çubuğını qullanğanda, telqin et:
 addressbar-locbar-history-option =
     .label = Kezinüv keçmişi
     .accesskey = K
@@ -725,7 +502,6 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Açıq ilmekler
     .accesskey = i
-addressbar-suggestions-settings = Qıdırma motorı telqinleri içün tercihlerni deñiştir
 
 ## Privacy Section - Content Blocking
 
@@ -747,14 +523,12 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
-content-blocking-warning-title = Diqqat!
 content-blocking-tracking-protection-option-all-windows =
     .label = Episi pencerelerde
     .accesskey = e
 content-blocking-option-private =
     .label = Faqat Hususiy Pencerelerde
     .accesskey = H
-content-blocking-tracking-protection-change-block-list = Blok listesini deñiştir
 content-blocking-cookies-label =
     .label = Çörekler
     .accesskey = r
@@ -762,11 +536,6 @@ content-blocking-cookies-label =
 content-blocking-cryptominers-label =
     .label = Kriptomadenciler
     .accesskey = m
-# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
-# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
-content-blocking-fingerprinters-label =
-    .label = Parmaq-izciler
-    .accesskey = P
 
 ## Privacy Section - Tracking
 
@@ -776,36 +545,9 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = Ruhsetler
-permissions-location = Qonum
-permissions-location-settings =
-    .label = Ayarlar…
-    .accesskey = r
-permissions-camera = Kamera
-permissions-camera-settings =
-    .label = Ayarlar…
-    .accesskey = r
-permissions-microphone = Mikrofon
-permissions-microphone-settings =
-    .label = Ayarlar…
-    .accesskey = r
-permissions-notification = Tebliğler
-permissions-notification-settings =
-    .label = Ayarlar…
-    .accesskey = r
-permissions-notification-link = Daha çoq ögren
 permissions-notification-pause =
     .label = { -brand-short-name } kene başlatılğance tebliğlerni tınışla
     .accesskey = b
-permissions-block-popups =
-    .label = Peyda pencerelerni blokla
-    .accesskey = b
-permissions-addon-install-warning =
-    .label = Saytlar eklentiler qurmağa talpınğanda meni tenbile
-    .accesskey = t
-permissions-addon-exceptions =
-    .label = İstisnalar…
-    .accesskey = n
 permissions-location2 =
     .label = Qonum
 permissions-camera2 =
@@ -817,22 +559,6 @@ permissions-notification2 =
 
 ## Privacy Section - Data Collection
 
-collection-header = { -brand-short-name } Veriler Toplaması ve Qullanımı
-collection-description = Biz sizge saylamlar temin etmege ğayret etemiz ve faqat { -brand-short-name } kezicisini erkes içün temin etmek ve eyileştirmek içün muhtac olğanımız verilerni toplaymız. Şahsiy verilerni yibermezden evvel er zaman ruhset soraymız.
-collection-privacy-notice = Hususiyat Tebliği
-collection-health-report =
-    .label = { -brand-short-name } içün, tehnikiy ve tesirleşim verilerini { -vendor-short-name }'ğa yibermege caiz olsun
-    .accesskey = r
-collection-health-report-link = Daha çoq ögren
-collection-studies =
-    .label = { -brand-short-name } içün tetqiqlerni qurmaq ve çaptırmaq caiz olsun
-collection-studies-link = { -brand-short-name } tetqiqlerini kör
-addon-recommendations =
-    .label = { -brand-short-name } içün maña şahsiyleştirilgen eklenti tavsiyelerini bermek caizdir
-addon-recommendations-link = Daha çoq ögren
-# This message is displayed above disabled data sharing options in developer builds
-# or builds with no Telemetry support available.
-collection-health-report-disabled = Bu yapılandırma için veri raporlama devre dışı bırakılmış
 data-collection-studies-link =
     .label = { -brand-short-name } tetqiqlerini kör
 
@@ -842,7 +568,6 @@ data-collection-studies-link =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Emniyet
-security-browsing-protection = Aldatıcı Muhteva ve Tehlükeli Yazılım İmayesi
 security-enable-safe-browsing =
     .label = Tehlükeli ve aldatıcı muhtevanı blokla
     .accesskey = T
@@ -856,20 +581,9 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = Şeadetnameler
-certs-enable-ocsp =
-    .label = Şeadetnamelerniñ keçerliligini teyit etmek içün OCSP cevapçı sunucılarını istifsar et
-    .accesskey = d
-certs-view =
-    .label = Şeadetnamelerni Köster…
-    .accesskey = ö
-certs-devices =
-    .label = Emniyet Cihazları…
-    .accesskey = C
 certs-devices-enable-fips = FIPS etkinleştir
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Masaüstü
 downloads-folder-name = Endirmeler
-choose-download-folder-title = Endirme Cilbentini Saylañız:

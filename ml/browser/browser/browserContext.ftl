@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = ഒരു താള്‍ പുറകോട്ട്‌ പോകുക ({ $shortcut })
     .aria-label = പുറകോട്ട്‌
+    .tooltiptext = ഒരു താള്‍ പുറകോട്ട്‌ പോകുക ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = ഒരു താള്‍ മുന്നോട്ട്‌ പോകുക ({ $shortcut })
     .aria-label = മുമ്പോട്ട്
+    .tooltiptext = ഒരു താള്‍ മുന്നോട്ട്‌ പോകുക ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = താളിനെ കുറിച്ചിടുക…
-    .accesskey = ക
     .tooltiptext = താളിനെ കുറിച്ചിടുക
+    .accesskey = ക
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = താളിനെ കുറിച്ചിടുക…
-    .accesskey = ത
     .tooltiptext = താളിനെ കുറിച്ചിടുക… ({ $shortcut })
+    .accesskey = ത
 main-context-menu-edit-bookmark =
     .aria-label = അടയാളക്കുറിപ്പ് തിരുത്തുക…
-    .accesskey = ട
     .tooltiptext = അടയാളക്കുറിപ്പ് തിരുത്തുക…
+    .accesskey = ട
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = അടയാളക്കുറിപ്പ് തിരുത്തുക…
-    .accesskey = ട
     .tooltiptext = അടയാളക്കുറിപ്പ് തിരുത്തുക ({ $shortcut })
+    .accesskey = ട
 main-context-menu-open-link =
     .label = കണ്ണി തുറക്കുക
     .accesskey = O
@@ -145,9 +139,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = കണ്ണി ഇങ്ങനെ സൂക്ഷിക്കുക...
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = കണ്ണി { -pocket-brand-name }ലേക്ക് സൂക്ഷിച്ചു് വയ്ക്കുക
-    .accesskey = o
 
 ##
 
@@ -294,40 +285,22 @@ main-context-menu-send-to-mobile-sign-in-from-page = താൾ അയയ്ക�
 main-context-menu-send-to-mobile-enable-sync3 = ടാബുകൾ അയയ്ക്കാൻ സമന്വയം തുടങ്ങിവയ്ക്കുക
 main-context-menu-send-to-mobile-enable-sync-from-link = കണ്ണി അയയ്ക്കാൻ സമന്വയം തുടങ്ങിവയ്ക്കുക
 main-context-menu-send-to-mobile-enable-sync-from-page = താൾ അയയ്ക്കാൻ സമന്വയം തുടങ്ങിവയ്ക്കുക
-main-context-menu-save-to-pocket =
-    .label = { -pocket-brand-name }-ലേക്കു് ഈ താളിനെ കരുതിവയ്ക്കുക
-    .accesskey = ക
-main-context-menu-send-to-device =
-    .label = ഉപകരണത്തിലേക്കു് താളിനെ അയയ്ക്കുക
-    .accesskey = അ
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = കരുതിവച്ച പ്രവേശിക്കൽ ഉപയോഗിക്കുക
-    .accesskey = ഉ
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = കരുതിവച്ച ഒളിവാക്കിനെ ഉപയോഗിക്കുക
     .accesskey = ഉ
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name }-ന്റെ ഇ-തപാൽ പൊയ്മുഖം ഉപയോഗിക്കുക
     .accesskey = ഉ
 main-context-menu-suggest-strong-password =
     .label = ഒരു മുരട്ടായ ഒളിവാക്കു് പറഞ്ഞു തരുക
     .accesskey = പ
-main-context-menu-manage-logins2 =
-    .label = പ്രവേശനങ്ങളെ കൈകാര്യം ചെയ്യുക
-    .accesskey = ക
 main-context-menu-manage-passwords =
     .label = ഒളിവാക്കുകളുടെ കൈകാര്യം ചെയ്യുക
     .accesskey = ക
-main-context-menu-keyword =
-    .label = ഈ തിരച്ചിലിനു വേണ്ടി ഒരു പെരുമുരി ചേര്‍ക്കുക…
-    .accesskey = K
 main-context-menu-add-engine =
     .label = തിരയൽയന്ത്രം ചേൎക്കുക
     .accesskey = ത
@@ -371,9 +344,6 @@ main-context-menu-view-selection-source =
     .label = തെരഞ്ഞെടുത്തതിന്റെ സ്രോതസ്സ്‌ കാണുക
     .accesskey = e
 main-context-menu-take-screenshot =
-    .label = പ്രതലപ്പിളർപ്പു് എടുക്കുക
-    .accesskey = പ
-main-context-menu-take-frame-screenshot =
     .label = പ്രതലപ്പിളർപ്പു് എടുക്കുക
     .accesskey = പ
 main-context-menu-view-page-source =

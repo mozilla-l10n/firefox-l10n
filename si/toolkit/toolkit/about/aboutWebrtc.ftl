@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = ලෙස about:webrtc සුරකින�
 about-webrtc-aec-logging-msg-label = AEC සටහන් තැබීම
 about-webrtc-aec-logging-off-state-label = AEC සටහන් තැබීම අරඹන්න
 about-webrtc-aec-logging-on-state-label = AEC සටහන නවතන්න
-about-webrtc-aec-logging-on-state-msg = AEC සටහන් තැබීම සක්‍රියයි (අමතන්නා සමඟ විනාඩි කිහිපයක් කතා කර ග්‍රහණය නවතන්න)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC සටහන් තැබීම සක්‍රියයි (අමතන්නා සමඟ විනාඩි කිහිපයක් කතා කර ග්‍රහණය නවතන්න)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -78,17 +77,9 @@ about-webrtc-type-remote = දුරස්ථ
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = තෝරාගත්
 about-webrtc-save-page-label = පිටුව සුරකින්න
-about-webrtc-debug-mode-msg-label = නිදොස්කරණ ප්‍රකාරය
-about-webrtc-debug-mode-off-state-label = නිදොස්කරණ ප්‍රකාරය අරඹන්න
-about-webrtc-debug-mode-on-state-label = නිදොස්කරණ ප්‍රකාරය නවත්වන්න
-about-webrtc-stats-heading = වාරයේ සංඛ්‍යාලේඛන
 about-webrtc-stats-clear = ඉතිහාසය මකන්න
 about-webrtc-log-heading = සම්බන්ධතා සටහන
 about-webrtc-log-clear = සටහන මකන්න
-about-webrtc-log-show-msg = සටහන පෙන්වන්න
-    .title = මෙම කොටස දිගහැරීමට ඔබන්න
-about-webrtc-log-hide-msg = සටහන සඟවන්න
-    .title = මෙම කොටස හැකිළීමට ඔබන්න
 about-webrtc-log-section-show-msg = සටහන පෙන්වන්න
     .title = මෙම කොටස දිගහැරීමට ඔබන්න
 about-webrtc-log-section-hide-msg = සටහන සඟවන්න
@@ -116,10 +107,6 @@ about-webrtc-short-send-direction = යැවීම: { $codecs }
 ##
 
 about-webrtc-priority = ප්‍රමුඛතාවය
-about-webrtc-fold-show-msg = විස්තර පෙන්වන්න
-    .title = මෙම කොටස දිගහැරීමට ඔබන්න
-about-webrtc-fold-hide-msg = විස්තර සඟවන්න
-    .title = මෙම කොටස හැකිළීමට ඔබන්න
 about-webrtc-fold-default-show-msg = විස්තර පෙන්වන්න
     .title = මෙම කොටස දිගහැරීමට ඔබන්න
 about-webrtc-fold-default-hide-msg = විස්තර සඟවන්න
@@ -147,8 +134,6 @@ about-webrtc-configuration-element-provided = සපයා ඇත
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = සපයා නැත
-# The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = පරිශ්‍රීලක සැකසූ WebRTC අභිප්‍රේත
 
 ##
 
@@ -160,11 +145,6 @@ about-webrtc-round-trip-time-ms = RTT මි.ත.
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = දෘශ්‍යක රාමු සංඛ්‍යාලේඛන - MediaStreamTrack හැඳු.: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = පිටුව සුරකින ලද්දේ: { $path }
-about-webrtc-aec-logging-off-state-msg = ග්‍රහණය කළ සටහන් ගොනු: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

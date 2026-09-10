@@ -257,8 +257,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = โปรไฟล์
 menu-profiles-manage-profiles =
     .label = จัดการโปรไฟล์
 menu-profiles-new-profile =
@@ -281,9 +279,6 @@ menu-tools-downloads =
     .accesskey = ด
 menu-tools-extensions-and-themes =
     .label = ส่วนขยายและชุดตกแต่ง
-    .accesskey = ส
-menu-tools-addons-and-themes =
-    .label = ส่วนเสริมและชุดตกแต่ง
     .accesskey = ส
 menu-tools-fxa-sign-in2 =
     .label = ลงชื่อเข้า
@@ -341,8 +336,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = ข้อมูลการแก้ไขปัญหาเพิ่มเติม
     .accesskey = ข
-menu-help-report-site-issue =
-    .label = รายงานปัญหาไซต์…
 menu-help-share-ideas =
     .label = แบ่งปันแนวคิดและข้อเสนอแนะ…
     .accesskey = S

@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Idi nazad jednu stranicu ({ $shortcut })
     .aria-label = Nazad
+    .tooltiptext = Idi nazad jednu stranicu ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Idi naprijed jednu stranicu ({ $shortcut })
     .aria-label = Naprijed
+    .tooltiptext = Idi naprijed jednu stranicu ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Označi stranicu…
-    .accesskey = m
     .tooltiptext = Označi stranicu…
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Označi stranicu…
-    .accesskey = m
     .tooltiptext = Označi stranicu ({ $shortcut })
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = Uredi oznaku…
-    .accesskey = m
     .tooltiptext = Uredi oznaku
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Uredi oznaku…
-    .accesskey = m
     .tooltiptext = Uredi oznaku ({ $shortcut })
+    .accesskey = m
 main-context-menu-open-link =
     .label = Otvori link
     .accesskey = O
@@ -145,9 +139,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Spasi link kao…
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = Spasi link u { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -285,40 +276,22 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Pošalji audio emailom…
     .accesskey = a
-main-context-menu-save-to-pocket =
-    .label = Spasi stranicu u { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Pošalji stranicu na uređaj
-    .accesskey = u
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Koristi sačuvanu prijavu
-    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Koristi sačuvanu lozinku
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Koristi { -relay-brand-short-name } email masku
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = Predloži jaku lozinku…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = Upravljaj prijavama
-    .accesskey = M
 main-context-menu-manage-passwords =
     .label = Upravljaj lozinkama
     .accesskey = M
-main-context-menu-keyword =
-    .label = Dodaj ključnu riječ za ovu pretragu…
-    .accesskey = k
 main-context-menu-add-engine =
     .label = Dodaj pretraživač
     .accesskey = S
@@ -364,9 +337,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Napravi snimak ekrana
     .accesskey = T
-main-context-menu-take-frame-screenshot =
-    .label = Napravi snimak ekrana
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = Pregled izvornog koda stranice
     .accesskey = v

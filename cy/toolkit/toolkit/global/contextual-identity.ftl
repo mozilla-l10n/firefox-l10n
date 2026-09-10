@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Dim Cynhwysydd
-    .accesskey = D
 user-context-manage-containers =
     .label = Rheoli Cynwysyddion
     .accesskey = h

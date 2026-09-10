@@ -187,23 +187,6 @@ pdfjs-printing-not-ready = Figyelmeztetés: A PDF nincs teljesen betöltve a nyo
 
 ## Tooltips and alt text for side panel toolbar buttons
 
-pdfjs-toggle-sidebar-button =
-    .title = Oldalsáv be/ki
-pdfjs-toggle-sidebar-notification-button =
-    .title = Oldalsáv be/ki (a dokumentum vázlatot/mellékleteket/rétegeket tartalmaz)
-pdfjs-toggle-sidebar-button-label = Oldalsáv be/ki
-pdfjs-document-outline-button =
-    .title = Dokumentum megjelenítése online (dupla kattintás minden elem kinyitásához/összecsukásához)
-pdfjs-document-outline-button-label = Dokumentumvázlat
-pdfjs-attachments-button =
-    .title = Mellékletek megjelenítése
-pdfjs-attachments-button-label = Van melléklet
-pdfjs-layers-button =
-    .title = Rétegek megjelenítése (dupla kattintás az összes réteg alapértelmezett állapotra visszaállításához)
-pdfjs-layers-button-label = Rétegek
-pdfjs-thumbs-button =
-    .title = Bélyegképek megjelenítése
-pdfjs-thumbs-button-label = Bélyegképek
 pdfjs-current-outline-item-button =
     .title = Jelenlegi vázlatelem megkeresése
 pdfjs-current-outline-item-button-label = Jelenlegi vázlatelem
@@ -214,10 +197,6 @@ pdfjs-additional-layers = További rétegek
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
-# Variables:
-#   $page (Number) - the page number
-pdfjs-thumb-page-title =
-    .title = { $page }. oldal
 # Variables:
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
@@ -537,13 +516,6 @@ pdfjs-editor-alt-text-settings-dialog-label = Kép alternatív szövegének beá
 pdfjs-editor-alt-text-settings-automatic-title = Automatikus alternatív szöveg
 pdfjs-editor-alt-text-settings-create-model-button-label = Alternatív szöveg automatikus létrehozása
 pdfjs-editor-alt-text-settings-create-model-description = Leírásokat javasol, hogy segítsen azoknak, akik nem látják a képet, vagy arra az esetre, ha a kép nem tölt be.
-# Variables:
-#   $totalSize (Number) - the total size (in MB) of the AI model.
-pdfjs-editor-alt-text-settings-download-model-label = Alternatív szöveg MI modellje ({ $totalSize } MB)
-pdfjs-editor-alt-text-settings-ai-model-description = Helyben fut az eszközén, így az adatai privátok maradnak. Az automatikus alternatív szövegekhez szükséges.
-pdfjs-editor-alt-text-settings-delete-model-button = Törlés
-pdfjs-editor-alt-text-settings-download-model-button = Letöltés
-pdfjs-editor-alt-text-settings-downloading-model-button = Letöltés…
 pdfjs-editor-alt-text-settings-editor-title = Alternatív szöveg szerkesztője
 pdfjs-editor-alt-text-settings-show-dialog-button-label = Az alternatív szöveg szerkesztőjének azonnali megjelenítése egy kép hozzáadásakor
 pdfjs-editor-alt-text-settings-show-dialog-description = Segít elérni, hogy az összes képén legyen alternatív szöveg.

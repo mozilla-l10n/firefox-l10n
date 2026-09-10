@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Přidat { $extension }?
-webext-perms-header-with-perms = Chcete nainstalovat { $extension }? Toto rozšíření získá následující oprávnění:
-webext-perms-header-unsigned = Chcete nainstalovat { $extension }? Toto rozšíření není ověřené. Škodlivá rozšíření mohou ukrást vaše osobní informace nebo nakazit váš počítač. Nainstalujte toto rozšíření jen pokud pochází z důvěryhodného zdroje.
-webext-perms-header-unsigned-with-perms = Chcete nainstalovat { $extension }? Toto rozšíření není ověřené. Škodlivá rozšíření mohou ukrást vaše osobní informace nebo nakazit váš počítač. Nainstalujte toto rozšíření jen pokud pochází z důvěryhodného zdroje. Toto rozšíření získá následující oprávnění:
 webext-perms-sideload-header = Doplněk { $extension } byl přidán
 webext-perms-optional-perms-header2 = Rozšíření { $extension } požaduje dodatečná oprávnění
-webext-perms-optional-perms-header = Doplněk { $extension } požaduje dodatečná oprávnění.
 webext-perms-header2 = Přidat { $extension }
 webext-perms-list-intro-unsigned = Toto neověřené rozšíření může ohrozit vaše soukromí nebo vaše zařízení. Přidejte jej jen pokud pochází z důvěryhodného zdroje.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = Rozšíření { $extension } bylo aktualizováno. Před instalací aktuální verze musíte schválit nová oprávnění. Zvolením “Zrušit” bude zachována stávající verze rozšíření.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = Rozšíření { $extension } bylo aktualizováno. Před instalací aktualizované verze je potřeba schválit nová oprávnění. Zvolením „Zrušit“ bude zachována stávající verze rozšíření. Toto rozšíření získá následující oprávnění:
 webext-perms-update-accept =
     .label = Aktualizovat
     .accesskey = A
@@ -73,26 +65,8 @@ webext-perms-host-description-file-urls = Přistupovat k místním souborům na 
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Přistupovat k vašim datům pro webové stránky na doméně { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Přistupovat k vašim datům pro { $domainCount } další doménu
-        [few] Přistupovat k vašim datům pro { $domainCount } další domény
-       *[other] Přistupovat k vašim datům pro { $domainCount } dalších domén
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Přistupovat k vašim datům pro { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Přistupovat k vašim datům pro { $domainCount } další stránku
-        [few] Přistupovat k vašim datům pro { $domainCount } další stránky
-       *[other] Přistupovat k vašim datům pro { $domainCount } dalších stránek
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

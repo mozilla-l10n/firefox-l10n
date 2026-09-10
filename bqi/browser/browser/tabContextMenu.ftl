@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = بلگه نۊ
-    .accesskey = w
 reload-tab =
     .label = بار ونی دووارته بلگه
     .accesskey = R
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = بونکۊی نۊ
     .accesskey = G
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -205,14 +198,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = وورکل لینگ قابل و یک رسۊوی
     .accesskey = a
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [1] فشناڌن بلگه و دسگا
-            [one] فشناڌن بلگه و دسگا
-           *[other] فشناڌن { $tabCount } بلگه و دسگا
-        }
-    .accesskey = n
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = ஒரு பக்கம் பின்செல் ({ $shortcut })
     .aria-label = பின்செல்
+    .tooltiptext = ஒரு பக்கம் பின்செல் ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = ஒரு பக்கம் முன்செல் ({ $shortcut })
     .aria-label = முன்செல்
+    .tooltiptext = ஒரு பக்கம் முன்செல் ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -178,15 +178,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = ஒலி மின்னஞ்சல்...
     .accesskey = ம
-main-context-menu-send-to-device =
-    .label = சாதனத்திற்கு அனுப்பு
-    .accesskey = D
 
 ##
 
-main-context-menu-keyword =
-    .label = இந்த தேடுதலுக்கு ஒரு முக்கியச் சொல்லை சேர்க்கவும்…
-    .accesskey = K
 main-context-menu-link-send-to-device =
     .label = சாதனத்திற்கு அனுப்பு
     .accesskey = D

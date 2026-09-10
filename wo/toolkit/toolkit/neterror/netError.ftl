@@ -7,10 +7,6 @@
 
 neterror-page-title = Jumte ci yebum xët wi
 
-## Error page actions
-
-neterror-try-again-button = Jéemaatal
-
 ## Specific error messages
 
 neterror-generic-error = xamu ñu lu tax, { -brand-short-name } mënula yeb xët wi
@@ -24,8 +20,6 @@ neterror-file-not-found-filename = Settantal mbindu turu dencukaay bi .
 neterror-file-not-found-moved = Seetal ndax kenn randalul dencukaay bi, walla ñu jox ko beneen tur mbaa ñu mabb ko.
 neterror-unknown-protocol = Da nga war samp beneen jëfekaay ngir mëna ubbi giiru makkaan bile.
 neterror-redirect-loop = Li indi jafe jafe bii mën na nekk suuxal mba bañ cookies.
-neterror-unknown-socket-type-psm-installed = Seetal ndax sa saytukatu kaarange bopp sampu na ci sa doxalin.
-neterror-unknown-socket-type-server-config = Mën na doon tabbinu serwëër bi la.
 neterror-not-cached-intro = Jukki bi ñu laaj amatu ci { -brand-short-name }'.
 neterror-not-cached-sensitive = ngir kaarange, { -brand-short-name } du tëb rekk laj yenn jukki yi.
 neterror-not-cached-try-again = Cuqal ci jeemat ngir laajaat jukki bi ci dal bi.

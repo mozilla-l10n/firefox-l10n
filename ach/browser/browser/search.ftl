@@ -28,6 +28,6 @@ searchbar-icon =
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = Med Ingin me Yeny
     .style = min-width: 32em;
+    .title = Med Ingin me Yeny
 add-engine-name = Nying ingin me yeny

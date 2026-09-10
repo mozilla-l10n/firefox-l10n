@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = ജാലകങ്ങളും ഉപകരണങ്ങളും കുറുകെ താങ്ങൾ ഒടുവിലുള്ള തിച്ചിലിനെ കാണുക
@@ -16,29 +13,12 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = അടയ്ക്കുക
-    .aria-label = അടയ്ക്കുക
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = ഇപ്പോഴ്
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = സമന്വയിപ്പുതോടു് എടുത്തതു്
-firefoxview-tabpickup-description = മറ്റ് ഉപകരണങ്ങളിൽ നിന്ന് താളുകൾ തുറക്കുക.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% കഴിഞ്ഞു
-firefoxview-tabpickup-step-signin-header = ഉപകരണങ്ങൾക്കിടയിൽ തടസ്സമില്ലാതെ മാറുക
-firefoxview-tabpickup-step-signin-description = നിങ്ങളുടെ ഫോൺ ടാബുകൾ ഇവിടെ നേടുന്നതിന്, ആദ്യം പ്രവേശിക്കൽ ചെയ്യുക അല്ലെങ്കിൽ ഒരു അക്കൗണ്ട് ഉണ്ടാക്കുക
-firefoxview-tabpickup-step-signin-primarybutton = തുടരുക
 firefoxview-syncedtabs-signin-header-2 = എല്ലാ ഉപകരണങ്ങളിലും താങ്ങളുടെ { -brand-product-name }
 firefoxview-syncedtabs-signin-primarybutton-2 = പ്രവേശിക്കുക
-firefoxview-tabpickup-adddevice-learn-how = എങ്ങനെയെന്നറിയാം
-firefoxview-tabpickup-adddevice-primarybutton = താങ്ങളുടെ ഫോണിൽ { -brand-product-name } നേടുക
 firefoxview-syncedtabs-adddevice-header-2 = എവിടെനിന്നും ടാബുകൾ എടുക്കുക
 firefoxview-syncedtabs-adddevice-primarybutton = താങ്ങളുടെ ഫോണിൽ { -brand-product-name } നേടുക
-firefoxview-tabpickup-synctabs-header = ടാബുസമന്വയം തുടങ്ങിവയ്ക്കുക
-firefoxview-tabpickup-synctabs-description = ഉപകരണങ്ങൾക്കിടയിൽ ടാബുകൾ പങ്കിടാൻ { -brand-short-name } നെ അനുവദിക്കുക.
-firefoxview-tabpickup-synctabs-learn-how = എങ്ങനെയെന്നറിയാം
 firefoxview-tabpickup-synctabs-primarybutton = തുറന്ന ടാബുകളെ സമന്വയിപ്പിക്കുക
 firefoxview-syncedtabs-synctabs-header = താങ്ങളുടെ സമന്വയ ക്രമീകരണങ്ങളെ പരിഷ്കരിക്കുക
 firefoxview-syncedtabs-loading-header = സമന്വയം നടപ്പിലാണു്
@@ -55,29 +35,14 @@ firefoxview-tabpickup-password-locked-primarybutton = പ്രധാനഒള�
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">കൂടുതൽ അറിയുക</a>
 firefoxview-tabpickup-signed-out-header = വീണ്ടും ബന്ധിപ്പിക്കുന്നതിന് പ്രവേശിക്കുക
 firefoxview-tabpickup-signed-out-primarybutton = പ്രവേശിക്കുക
-firefoxview-mobile-promo-primarybutton = താങ്ങളുടെ ഫോണിൽ { -brand-product-name } നേടുക
-firefoxview-mobile-confirmation-header = എല്ലാം ഒരുക്കം!
-firefoxview-closed-tabs-title = അടുത്തിടെ അടച്ചതു്
-firefoxview-closed-tabs-description2 = ഈ ജാലകത്തിൽ അടച്ച താളുകൾ വീണ്ടും തുറക്കുക
-firefoxview-closed-tabs-placeholder-header = അടുത്തിടെ അടച്ച ടാബുകളൊന്നുമില്ല
-firefoxview-closed-tabs-placeholder-body = താങ്ങൾ ഈ ജാലകത്തിൽ ടാബടക്കുമ്പോൾ താങ്ങൾക്കു് അതിനെ ഇവിടെ നിന്നെടുക്കാം.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = { $tabTitle } കളയുക
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = ഒടുക്കം ഉപയോഗിച്ചതു്
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = { $targetURI }-നെ പുതിയ ടാബിൽ തുറക്കുക
-firefoxview-try-colorways-button = നിറമ്പാതകൾ ഉപയോഗിച്ചുന്നോക്കുക
-firefoxview-change-colorway-button = നിറമ്പോത മാറ്റുക
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = കാണാനൊന്നുമില്ല
 firefoxview-collapse-button-show =
     .title = പട്ടിക കാണിക്കുക
 firefoxview-collapse-button-hide =

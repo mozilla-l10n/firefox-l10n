@@ -16,17 +16,3 @@ recently-closed-menu-reopen-all-windows = Ath-fhosgail gach uinneag
 
 recently-closed-panel-reopen-all-tabs = Ath-fhosgail gach taba
 recently-closed-panel-reopen-all-windows = Ath-fhosgail gach uinneag
-
-##
-
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [one] { $winTitle } (agus { $tabCount } taba eile)
-        [two] { $winTitle } (agus { $tabCount } thaba eile)
-        [few] { $winTitle } (agus { $tabCount } tabaichean eile)
-       *[other] { $winTitle } (agus { $tabCount } taba eile)
-    }

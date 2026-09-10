@@ -7,10 +7,6 @@ callout-primary-advance-button-label = Ar Aghaidh
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = Tuigim!
 
-## Firefox View feature tour strings
-
-callout-firefox-view-colorways-title = Cuir beagán datha leis
-
 ## Continuous Onboarding - Firefox View: Tab pick up
 
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Tosaigh

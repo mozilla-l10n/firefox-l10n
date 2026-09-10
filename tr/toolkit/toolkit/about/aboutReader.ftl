@@ -4,14 +4,6 @@
 
 about-reader-loading = Yükleniyor…
 about-reader-load-error = Makale sayfadan yüklenemedi
-about-reader-color-scheme-light = Açık
-    .title = Açık renk düzeni
-about-reader-color-scheme-dark = Koyu
-    .title = Koyu renk düzeni
-about-reader-color-scheme-sepia = Sepya
-    .title = Sepya renk düzeni
-about-reader-color-scheme-auto = Otomatik
-    .title = Otomatik renk düzeni
 about-reader-color-light-theme = Açık
     .title = Açık tema
 about-reader-color-dark-theme = Koyu
@@ -24,16 +16,6 @@ about-reader-color-gray-theme = Gri
     .title = Gri tema
 about-reader-color-contrast-theme = Kontrast
     .title = Kontrast teması
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time =
-    { $rangePlural ->
-        [one] { $range } dakika
-       *[other] { $range } dakika
-    }
 
 ## Reader View text and layout menu
 
@@ -41,14 +23,6 @@ about-reader-toolbar-minus =
     .title = Yazı tipi boyutunu küçült
 about-reader-toolbar-plus =
     .title = Yazı tipi boyutunu büyüt
-about-reader-toolbar-contentwidthminus =
-    .title = İçerik genişliğini azalt
-about-reader-toolbar-contentwidthplus =
-    .title = İçerik genişliğini artır
-about-reader-toolbar-lineheightminus =
-    .title = Satır yüksekliğini azalt
-about-reader-toolbar-lineheightplus =
-    .title = Satır yüksekliğini artır
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -59,7 +33,6 @@ about-reader-font-type-monospace = Eş aralıklı
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Okuyucu görünümünü kapat
-about-reader-toolbar-type-controls = Yazı denetimleri
 about-reader-toolbar-text-layout-controls = Metin ve yerleşim
 about-reader-toolbar-theme-controls = Tema
 about-reader-toolbar-savetopocket = { -pocket-brand-name }’a kaydet

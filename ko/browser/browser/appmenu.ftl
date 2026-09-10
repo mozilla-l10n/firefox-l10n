@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = 확장 기능 및 테마
 appmenuitem-extensions =
     .label = 확장 기능
-appmenuitem-addons-and-themes =
-    .label = 부가 기능 및 테마
 appmenuitem-print =
     .label = 인쇄…
 appmenuitem-find-in-page =
@@ -154,7 +152,6 @@ fxa-menu-get-firefox-mobile =
     .label = Android 또는 iOS용 { -brand-product-name } 받기
 fxa-menu-secure-sync-subpanel =
     .title = 보안 동기화
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = 계정
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -176,15 +173,6 @@ appmenuitem-save-page =
     .label = 페이지를 다른 이름으로 저장…
 appmenuitem-fxa-sync-off-title = 동기화 꺼짐
 appmenuitem-fxa-sync-off-description = 어디서나 북마크, 비밀번호 등을 보호하고 접근하세요.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = 새 기능
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = 새 기능 알림
-    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -326,8 +314,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = 문제 해결 정보
     .accesskey = T
-appmenu-help-report-site-issue =
-    .label = 사이트 문제 보고…
 appmenu-help-share-ideas =
     .label = 아이디어 및 의견 공유…
     .accesskey = S
@@ -393,7 +379,6 @@ appmenuitem-vpn-description5 = 여러 기기에서 추가적인 보호 받기
 appmenuitem-vpn-title-signed-in1 = { -mozilla-vpn-brand-name } 다운로드
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = 전체 기기 보호 받기
-appmenuitem-vpn-description = 온라인 활동을 보호하세요
 appmenu-services-header = 내 서비스
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -403,7 +388,6 @@ appmenu-other-protection-header3 = 개인 정보 보호 도구
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Mozilla의 다른 보호 도구를 사용해 보세요:
-appmenu-other-protection-header = { -vendor-short-name }의 다른 보호 도구를 사용해 보세요:
 
 ## Profiles panel
 

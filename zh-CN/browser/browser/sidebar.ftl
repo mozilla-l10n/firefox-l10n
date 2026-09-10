@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = 清除历史记录
 sidebar-history-sort-by-heading-menucaption =
     .label = 排序依据：
-sidebar-history-sort-by-heading = 排序依据：
 sidebar-history-sort-option-date =
     .label = 日期
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = 侧栏扩展
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name } 工具
 sidebar-customize-firefox-settings = 管理 { -brand-short-name } 设置
 sidebar-vertical-tabs =
     .label = 垂直标签页
 sidebar-settings2 =
     .label = 设置
-sidebar-settings =
-    .label = 侧栏设置
 sidebar-hide-tabs-and-sidebar =
     .label = 隐藏标签页和侧栏
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = 管理扩展
-sidebar-context-menu-remove-extension =
-    .label = 移除扩展
 sidebar-context-menu-report-extension =
     .label = 举报扩展
 sidebar-context-menu-open-in-tab =

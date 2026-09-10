@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = Sari de pe un dispozitiv pe altul cu pre
 callout-firefox-view-tab-pickup-subtitle = Preia rapid filele de pe telefon și deschide-le aici pentru viteză maximă.
 callout-firefox-view-recently-closed-title = Recuperează-ți filele închise într-o clipă
 callout-firefox-view-recently-closed-subtitle = Toate filele închise vor apărea ca prin magie aici. Nu îți mai face griji că vei închide accidental un site.
-callout-firefox-view-colorways-title = Adaugă o pată de culoare
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Alege o nuanță care se potrivește cu stilul tău. Doar cu { -brand-product-name }.
-callout-firefox-view-colorways-reminder-title = Explorează cele mai noi palete de culori
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Colorează-ți browserul cu aceste nuanțe emblematice, inspirate de voci independente. Doar cu { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

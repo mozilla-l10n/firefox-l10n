@@ -14,7 +14,6 @@ cert-error-trust-cert-invalid = සාවද්‍ය CA සහතිකයක�
 cert-error-trust-untrusted-issuer = නිකුත් කරන්නාගේ සහතිකය විශ්වාස නැති නිසා සහතිකය විශ්වාස නැත.
 cert-error-trust-expired-issuer = නිකුත් කරන්නාගේ සහතිකය කල් ඉකුත් වී ඇති නිසා සහතිකය විශ්වාස නැත.
 cert-error-trust-self-signed = සහතිකය ස්වයංව අත්සන් කර ඇති නිසා එය විශ්වාස නැත.
-cert-error-trust-symantec = ජියෝට්‍රස්ට්, RapidSSL, සිමැන්ටෙක්, තව්ටේ, සහ වෙරිසයින් විසින් නිකුත් කරන ලද සහතික තවදුරටත් ආරක්‍ෂිත යැයි නොසැලකේ. මන්ද මෙම සහතික අධිකාරි අතීතයේ දී ආරක්‍ෂණ පිළිවෙත් අනුගමනය කිරීමට අපොහොසත් වූ නිසාය.
 cert-error-untrusted-default = සහතිකය විශ්වසනීය මූලාශ්‍රයකින් නොලැබෙයි.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -38,13 +37,11 @@ cert-error-code-prefix-link = දෝෂයේ කේතය: <a data-l10n-name="e
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = { $hostname } වෙත සම්බන්ධතාවක් අතරතුර දෝෂයක් සිදු විය. { $errorMessage }
-cert-error-symantec-distrust-admin = මෙම ගැටලුව පිළිබඳව අඩවියේ පරිපාලක වෙත දැනුම් දීමට හැකිය
 cert-error-old-tls-version = මෙම වියමන අඩවිය { -brand-short-name } මගින් සහය දක්වන අවම අනුවාදය වන TLS 1.2 කෙටුම්පත සඳහා සහාය නොදක්වයි.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP දැඩි පරිවහන ආරක්‍ෂාව: { $hasHSTS }
 cert-error-details-cert-chain-label = සහතික දාමය:
-open-in-new-window-for-csp-or-xfo-error = නව කවුළුවකින් අඩවිය අරින්න
 fp-learn-more-about-secure-connection-failures = අසාර්ථක ආරක්‍ෂිත සම්බන්‍ධතා ගැන තව දැනගන්න
 
 ## Messages used for certificate error titles
@@ -75,7 +72,6 @@ redirectLoop-title = පිටුව නිසි අයුරින් හර�
 unknownSocketType-title = සේවාදායකයෙන් අනපේක්‍ෂිත ප්‍රතිචාරයකි
 nssFailure2-title = ආරක්‍ෂිත සම්බන්‍ධතාව බිඳ වැටුණි
 csp-xfo-error-title = { -brand-short-name } සඳහා පිටුව විවෘත කළ නොහැකිය
-corruptedContentError-title = හානි වූ අන්තර්ගත දෝෂයකි
 sslv3Used-title = ආරක්‍ෂිතව සම්බන්ධ වීමට නොහැකිය
 inadequateSecurityError-title = ඔබගේ සම්බන්‍ධතාව අනාරක්‍ෂිතයි
 blockedByPolicy-title = අවහිර කළ පිටුවකි

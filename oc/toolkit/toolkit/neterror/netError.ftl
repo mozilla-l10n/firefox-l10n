@@ -25,17 +25,13 @@ neterror-return-to-previous-page-button = Tornar en arrièr
 neterror-return-to-previous-page-recommended-button = Tornar (recomandat)
 neterror-try-again-button-2 = Tornar ensajar
     .accesskey = T
-neterror-try-again-button = Tornar ensajar
 neterror-add-exception-button = Totjorn contunhar per aqueste site
 neterror-settings-button = Modificar los paramètres DNS
 neterror-view-certificate-link = Mostrar lo certificat
-neterror-trr-continue-this-time = Contunhar aqueste còp
-neterror-disable-native-feedback-warning = Totjorn contunhar
 
 ##
 
 neterror-pref-reset = Sembla que la configuracion actuala de seguretat del ret a provocat aquesta error. Restablir los paramètres per defaut ?
-neterror-error-reporting-automatic = Senhalar de talas errors ajuda { -vendor-short-name } a identificar e blocar de sites malvolents
 
 ## Specific error messages
 
@@ -58,24 +54,14 @@ neterror-dns-not-found-offline-hint-header = <strong>Qué podètz far ?</strong
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } pòt pas protegir vòstra requèsta per aquesta adreça de site amb nòstre resolvador DNS de fisança. Vaquí perque :
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } pòt pas protegir vòstra requèsta per aquesta adreça de site amb nòstre resolvador DNS segur. Vaquí perque :
 neterror-dns-not-found-trr-third-party-warning2 = Podètz contunhar amb vòstre servidor DNS per defaut. Pasmens, un tèrç poiriá s’assabentar dels sites que consultatz.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } a pas pogut se connectar a { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = La connexion a { $trrDomain } a pres mai de temps que previst.
-neterror-dns-not-found-trr-offline = Cap de connexion Internet.
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } a pas trobat aqueste site web.
 neterror-dns-not-found-trr-server-problem = I a agut un problèma amb { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = URL invalida.
 neterror-dns-not-found-trr-unknown-problem = Problèma inesperat.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } pòt pas protegir vòstra requèsta per aquesta adreça de site amb nòstre resolvador DNS de fisança. Vaquí perque :
-neterror-dns-not-found-native-fallback-heuristic = Lo DNS via HTTPS foguèt desactivar sus vòstre ret.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } a pas pogut se connectar a { $trrDomain }.
 
 ##
 
@@ -84,8 +70,6 @@ neterror-file-not-found-moved = Verificatz se lo fichièr es pas estat desplaça
 neterror-access-denied = Benlèu es estat suprimit, bolegat o las permissions del fichièr n'empacharián l'accès.
 neterror-unknown-protocol = Benlèu qu'es necessari d'installar una autra aplicacion per dobrir aqueste tipe d'adreça.
 neterror-redirect-loop = La causa d'aqueste problèma pòt èsser la desactivacion o lo refús dels cookies.
-neterror-unknown-socket-type-psm-installed = Verificatz que lo gestionari de seguretat personala (PSM) es installat sus vòstre sistèma.
-neterror-unknown-socket-type-server-config = Aquò pòt èsser degut a una configuracion inacostumada del servidor.
 neterror-not-cached-intro = Lo document demandat es pas mai disponible dins lo cache de { -brand-short-name }.
 neterror-not-cached-sensitive = Per mesura de seguretat, { -brand-short-name } tòrna pas demandar automaticament de documents sensibles.
 neterror-not-cached-try-again = Clicatz sus Tornar ensajar per tornar demandar aqueste document del site web.

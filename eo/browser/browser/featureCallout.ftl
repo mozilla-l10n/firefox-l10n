@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = Iru tien kaj reen inter aparatoj per spe
 callout-firefox-view-tab-pickup-subtitle = Rapide prenu langetojn el via telefono kaj malfermu ilin rekte ĉi tie.
 callout-firefox-view-recently-closed-title = Tuj rehavu viajn fermitajn langetojn
 callout-firefox-view-recently-closed-subtitle = Ĉiuj viaj fermitaj langetoj aperos magie ĉi tie. Neniam plu zorgu pri nevola fermo de retejo.
-callout-firefox-view-colorways-title = Aldonu koloran tuŝeton
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Per koloraro elektu nuancon kiu kongruas kun vi. Nur en { -brand-product-name }.
-callout-firefox-view-colorways-reminder-title = Esploru niajn lastajn kolorarojn
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Kolorigu vian retumilon per tiu ĉi nuancoj, inspiritaj de sendependaj voĉoj. Nur en { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

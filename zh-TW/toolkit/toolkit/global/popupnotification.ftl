@@ -8,6 +8,3 @@ popup-notification-more-actions-button =
 popup-notification-default-button2 =
     .label = 確定
     .accesskey = O
-popup-notification-default-button =
-    .label = 好！
-    .accesskey = O

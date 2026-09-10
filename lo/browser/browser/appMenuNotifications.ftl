@@ -10,19 +10,13 @@ appmenu-theme-installed =
     .secondarybuttonlabel = ເອົາກັບຄືນ
     .secondarybuttonaccesskey = U
 appmenu-update-other-instance-message = ມີການອັບເດດ { -brand-shorter-name } ໃໝ່, ແຕ່ມັນບໍ່ສາມາດຕິດຕັ້ງໄດ້ເນື່ອງຈາກສຳເນົາອື່ນຂອງ { -brand-shorter-name } ກຳລັງເຮັດວຽກຢູ່. ປິດມັນເພື່ອສືບຕໍ່ການອັບເດດ, ຫຼືເລືອກທີ່ຈະອັບເດດຢ່າງໃດກໍ່ຕາມ (ສຳເນົາອື່ນອາດຈະເຮັດວຽກບໍ່ຖືກຕ້ອງຈົນກວ່າທ່ານຈະຣີສະຕາດມັນ).
-appmenu-addon-private-browsing-installed2 =
-    .buttonlabel = ຕົກລົງ
-    .buttonaccesskey = O
 appmenu-addon-post-install-message3 = ຈັດການສ່ວນເສີມ ແລະຮູບແບບສີສັນຂອງທ່ານຜ່ານເມນູແອັບພລິເຄຊັນ.
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = ອັບເດດການອະນຸຍາດ ແລະ ການຕັ້ງຄ່າຂໍ້ມູນໄດ້ທຸກເວລາໃນ <a data-l10n-name="settings-link">ການຕັ້ງຄ່າສ່ວນຂະຫຍາຍ</a>.
-appmenu-addon-post-install-incognito-checkbox =
-    .label = ອະນຸຍາດໃຫ້ສ່ວນຂະຫຍາຍນີ້ເຮັດວຽກຢູ່ໃນ Windows ສ່ວນຕົວ
-    .accesskey = A
 appmenu-tab-hide-controlled =
-    .label = ເຂົ້າເຖິງແທັບທີ່ເຊື່ອງຢູ່ຂອງທ່ານ
     .buttonlabel = ເຊື່ອງແທັບຕໍ່ໄປ
     .buttonaccesskey = K
+    .label = ເຂົ້າເຖິງແທັບທີ່ເຊື່ອງຢູ່ຂອງທ່ານ
     .secondarybuttonlabel = ປິດໃຊ້ສ່ວນຂະຫຍາຍ
     .secondarybuttonaccesskey = D

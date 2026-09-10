@@ -32,10 +32,6 @@ security-software-name = Name
 security-software-antivirus = Antivirus
 security-software-antispyware = Antispyware
 security-software-firewall = Firewall
-features-title = { -brand-short-name }-Funktionen
-features-name = Name
-features-version = Version
-features-id = ID
 processes-title = Externe Prozesse
 processes-type = Typ
 processes-count = Anzahl
@@ -61,7 +57,6 @@ app-basics-profile-dir =
         [linux] Profilverzeichnis
        *[other] Profilordner
     }
-app-basics-enabled-plugins = Aktivierte Plugins
 app-basics-build-config = Build-Konfiguration
 app-basics-user-agent = User-Agent
 app-basics-os = Betriebssystem
@@ -99,9 +94,6 @@ show-dir-label =
 environment-variables-title = Umgebungsvariablen
 environment-variables-name = Name
 environment-variables-value = Wert
-experimental-features-title = Experimentelle Funktionen
-experimental-features-name = Name
-experimental-features-value = Wert
 modified-key-prefs-title = Wichtige modifizierte Einstellungen
 modified-prefs-name = Name
 modified-prefs-value = Wert
@@ -223,9 +215,6 @@ media-cdm-capabilities = Funktionen
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Freier Start
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = Kompatibel mit HDCP 2.2
 
 ##
 
@@ -397,8 +386,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Durch Experiment deaktiviert
-fission-status-experiment-treatment = Durch Experiment aktiviert
 fission-status-disabled-by-e10s-env = Durch Umgebung deaktiviert
 fission-status-enabled-by-env = Durch Umgebung aktiviert
 fission-status-disabled-by-env = Durch Umgebung deaktiviert
@@ -407,7 +394,6 @@ fission-status-disabled-by-default = Standardmäßig deaktiviert
 fission-status-enabled-by-user-pref = Vom Benutzer aktiviert
 fission-status-disabled-by-user-pref = Vom Benutzer deaktiviert
 fission-status-disabled-by-e10s-other = E10s deaktiviert
-fission-status-enabled-by-rollout = Aktiviert durch stufenweise Einführung
 async-pan-zoom = Asynchrones Wischen und Zoomen
 apz-none = nichts
 wheel-enabled = Mausrad-Eingabe aktiviert

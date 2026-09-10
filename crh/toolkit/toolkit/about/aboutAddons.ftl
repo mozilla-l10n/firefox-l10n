@@ -119,15 +119,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Episi eklentiler emin tarz tarafından ğayrıqabilleştirilgendir.
-extensions-warning-check-compatibility = Eklenti telif qabiliyeti teşkerüvi qabil degildir. Belki ğayrı-qabili-telif eklentileriñiz bar.
-extensions-warning-safe-mode2 =
-    .message = Episi eklentiler emin tarz tarafından ğayrıqabilleştirilgendir.
 extensions-warning-check-compatibility2 =
     .message = Eklenti telif qabiliyeti teşkerüvi qabil degildir. Belki ğayrı-qabili-telif eklentileriñiz bar.
 extensions-warning-check-compatibility-button = Qabilleştir
     .title = Eklenti telif qabiliyeti teşkerüvini qabilleştir
-extensions-warning-update-security = Eklenti yañartması emniyet teşkerüvi qabil degildir. Yañartmalar tarafından tehlükege atılabilirsiñiz.
 extensions-warning-update-security2 =
     .message = Eklenti yañartması emniyet teşkerüvi qabil degildir. Yañartmalar tarafından tehlükege atılabilirsiñiz.
 extensions-warning-update-security-button = Qabilleştir
@@ -221,24 +216,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name }, { -brand-short-name } { $version } ile ğayrı-qabili-telif.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name }, { -brand-short-name } { $version } ile ğayrı-qabili-telif.
-details-notification-unsigned-and-disabled = { $name }, { -brand-short-name } üzerinde qullanım içün doğrulanamadı ve naqabilleştirilgendir.
 details-notification-unsigned-and-disabled2 =
     .message = { $name }, { -brand-short-name } üzerinde qullanım içün doğrulanamadı ve naqabilleştirilgendir.
-details-notification-unsigned-and-disabled-link = Daa Çoq Malümat
-details-notification-unsigned = { $name }, { -brand-short-name } üzerinde qullanım içün doğrulanamadı. İhtiyat ile devam etiñiz.
 details-notification-unsigned2 =
     .message = { $name }, { -brand-short-name } üzerinde qullanım içün doğrulanamadı. İhtiyat ile devam etiñiz.
-details-notification-unsigned-link = Daa Çoq Malümat
-details-notification-blocked = { $name } istiqrar yaki emniyet meselelerinden dolayı ğayrıqabilleştirilgendir.
-details-notification-blocked-link = Daa Çoq Malümat
-details-notification-softblocked = { $name } eklentisiniñ emniyet yaki istiqrar meselelerine sebep olğanı biline.
-details-notification-softblocked-link = Daa Çoq Malümat
-details-notification-gmp-pending = { $name } birazdan qurulacaq.
 details-notification-gmp-pending2 =
     .message = { $name } birazdan qurulacaq.
 

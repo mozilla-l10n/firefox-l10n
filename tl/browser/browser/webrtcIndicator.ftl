@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Tanda ng Pagbabahagi
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Tanda ng Pagbabahagi
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Ibinabahagi mo ang iyong mikropono. Pindutin upang kontrolin ang pagbabahagi.
 webrtc-screen-system-menu =
     .label = Ibinabahagi mo ang iyong window o screen. Pindutin upang kontrolin ang pagbabahagi.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Ibinabahagi ang iyong camera at mikropono. Pindutin upang kontrolin ang pagbabahagi.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Ibinabahagi ang iyong camera. Pindutin upang kontrolin ang pagbabahagi.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Ibinabahagi ang iyong mikropono. Pindutin upang kontrolin ang pagbabahagi.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Ang isang application ay ibinabahagi. Pindutin upang kontrolin ang pagbabahagi.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Ibinabahagi ang iyong screen. Pindutin upang kontrolin ang pagbabahagi.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Ang isang window ay ibinabahagi. Pindutin upang kontrolin ang pagbabahagi.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Ang isang tab ay ibinabahagi. Pindutin upang kontrolin ang pagbabahagi.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -143,7 +124,6 @@ webrtc-allow-share-audio-capture = Payagan ang { $origin } na makinig sa audio n
 
 ##
 
-webrtc-share-screen-learn-more = Alamin
 webrtc-pick-window-or-screen = Piliin ang Window o Screen
 webrtc-share-entire-screen = Buong screen
 # Variables:

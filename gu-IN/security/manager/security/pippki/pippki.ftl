@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = પ્રમાણપત્રો ડાઉનલોડ થાય છે
     .style = min-width: 46em
+    .title = પ્રમાણપત્રો ડાઉનલોડ થાય છે
 download-cert-message = તમને નવાં પ્રમાણપત્રોના સત્તાધિકારી (CA) પર વિશ્વાસ કરવાનુ કહેવામાં આવ્યું છે.
 download-cert-trust-ssl =
     .label = વેબ સાઇટ ઓળખવા માંટે આ CA પર વિશ્વાસ કરો.
@@ -39,8 +39,6 @@ download-cert-view-text = CA પ્રમાણપત્ર ચકાસો
 
 client-auth-window =
     .title = વપરાશકર્તા ઓળખ વિનંતી
-client-auth-site-description = આ સાઇટે તમને પ્રમાણપત્ર સાથે તમારી ઓળખાણ આપવા માટે વિનંતી કરી છે:
-client-auth-choose-cert = ઓળખ તરીકે આપવા પ્રમાણપત્ર પસંદ કરો:
 client-auth-cert-details = પસંદ કરેલા પ્રમાણપત્રની વિગતો:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

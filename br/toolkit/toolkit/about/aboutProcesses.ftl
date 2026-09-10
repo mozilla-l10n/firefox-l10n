@@ -37,7 +37,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Diskoder roadennoù ({ $pid })
 about-processes-socket-process = Rouedad ({ $pid })
-about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Servijer Fork ({ $pid })
 about-processes-preallocated-process = Rakderannet ({ $pid })
 # Unknown process names
@@ -45,17 +44,6 @@ about-processes-preallocated-process = Rakderannet ({ $pid })
 #    $pid (String) The process id of this process, assigned by the OS.
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = All : { $type } ({ $pid })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, liesorin distaget)
-about-processes-web-isolated-process-private = { $origin } — Prevez ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } — Prevez ({ $pid }, liesorin distaget)
 
 ## Details within processes
 

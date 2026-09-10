@@ -62,19 +62,12 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Mtawi ticraḍ n yisebter ar wanida tebɣiḍ.
-cfr-doorhanger-bookmark-fxa-body = Tufiḍ tiwizet! Tura, af-d tacreḍt n usebter ɣef yibenkan-ik izirazen, d lawan ad tesqedceḍ { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = Tufiḍ tiwizet! Tura, af-d tacreḍt n usebter ɣef yibenkan-ik izirazen. Bdu aseqdec n umiḍan.
 cfr-doorhanger-bookmark-fxa-link-text = Mtawi ticraḍ n yisebtar tura...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Taqeffalt n umdal
     .title = Amdal
 fxa-adoption-primary-button-label = Kcem
-
-## Protections panel
-
-cfr-protections-panel-header = Inig war ma ḍefṛen-k
-cfr-protections-panel-body = Ḥrez isefka-ik i kečč. { -brand-short-name } ad k-yemmesten seg tuget n yineḍfaṛen yettwassnen i yeṭṭafaṛen ayen i txeddmeḍ srid.
-cfr-protections-panel-link-text = Issin ugar
 
 ## What's New toolbar button and panel
 
@@ -170,42 +163,8 @@ mr2022-background-update-toast-primary-button-label = Ldi { -brand-shorter-name 
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Mekti-y-id ticki
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Ɛreḍ-it
-    .accesskey = Ɛ
-firefoxview-cfr-secondarybutton = Mačči tura
-    .accesskey = M
-firefoxview-cfr-header-v2 = Kemmel zzerb seg anida telliḍ
-firefoxview-cfr-body-v2 = Err-d accaren i tmedleḍ melmi kan, yellan gar yibenkan s { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Ini azul i { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Tebɣiḍ iccer yeldin ɣef tiliɣri-k? Err-it-id. Tesriḍ asmel wuɣur i tkecmeḍ melmi kan? Yeshel, ha-t-an deg { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Wali amek i itteddu
-firefoxview-spotlight-promo-secondarybutton = Suref
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Fren afran n yiniten
-    .accesskey = F
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Seɣmu iminig-ik·im s { -brand-short-name } s tiɣma tufrinin n { -brand-short-name } i d-yettwaddmen seg tuɣac i ibeddlen udem i yidles.
-colorways-cfr-header-28days = Afran n yiniten n tuɣac tilelliyin ad ifakk deg 16 deg yennayer
-colorways-cfr-header-14days = Afran n yiniten n tuɣac tilelliyin ad ifakk deg sin n yimalasen
-colorways-cfr-header-7days = Afran n yiniten n tuɣac tilelliyin ad ifakk deg yimalas-a.
-colorways-cfr-header-today = Afran n yiniten n tuɣac tilelliyin ad ifakk ass-a
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Sireg { -brand-short-name } ad yegdel iɣarracen n yinagan n tuqqna?
-cfr-cbh-body = { -brand-short-name } yezmer ad yagi aṭas yissutar n yiɣarracen n yinagan n tuqqna s wudem awurman.
-cfr-cbh-confirm-button = Agi iɣarracen n yinagan n tuqqna
-    .accesskey = A
-cfr-cbh-dismiss-button = Mačči tura
-    .accesskey = M
 cookie-banner-blocker-onboarding-header = { -brand-short-name } yugi iɣerracen n yinagan n tuqqna
 cookie-banner-blocker-onboarding-body = Drus n usedhu d yinagan n tuqqna ara ak-iḍefren ɣef usmel-a.
 cookie-banner-blocker-onboarding-learn-more = Issin ugar

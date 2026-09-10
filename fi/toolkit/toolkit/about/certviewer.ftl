@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = Omat varmenteet
 certificate-viewer-tab-people = Ihmiset
 certificate-viewer-tab-servers = Palvelimet
 certificate-viewer-tab-ca = Varmentajat
-certificate-viewer-tab-unkonwn = Tuntematon

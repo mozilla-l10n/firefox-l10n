@@ -5,11 +5,6 @@
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Ssuter deg AI chatbot
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Ssuter { $provider }
 genai-menu-open-generic =
     .label = Ldi AI Chatbot
 # $provider (string) - name of the provider
@@ -54,8 +49,6 @@ genai-menu-ask-smart-window =
 genai-chatbot-title = AI chatbot
 genai-header-provider-menu =
     .title = Fren chatbot
-genai-header-options-button =
-    .title = Ldi umuɣ
 genai-header-close-button =
     .title = Mdel
 genai-provider-view-details =
@@ -83,46 +76,18 @@ genai-onboarding-primary = Kemmel
 genai-onboarding-secondary = Mdel
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Issin ugar ɣef Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Issin ugar ɣef ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Issin ugar ɣef Copilo
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Issin ugar ɣef Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
-genai-onboarding-huggingchat-learn = Issin ugar vef HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Issi ugar ɣef Chat
-genai-onboarding-select-header = Fren aḍris i uwali n yisumar
-genai-onboarding-select-primary = Bdu ameslay
 genai-chatbot-contextual-button = Fren chatbot
 genai-chatbot-summarize-button = Segzel asebter
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Sirew aḍris akked tengalt
-genai-onboarding-claude-analyze = Sleḍ isemliyen d tugniwin
-genai-onboarding-claude-price = Tixtiṛyin tilelliyin d tid n lexlaṣ; amiḍan yettwasra
-genai-onboarding-chatgpt-generate = Sirew aḍris, tugniwin akked tengalt
-genai-onboarding-chatgpt-analyze = Sleḍ isemliyen d tugniwin
-genai-onboarding-chatgpt-price = Tixtiṛyin tilelliyin d tid n lexlaṣ; amiḍan yettwasra i kra n tmura akked twuriwin
-genai-onboarding-copilot-generate = Sirew aḍris, tugniwin akked tengalt
-genai-onboarding-copilot-analyze = Sleḍ tugniwin
-genai-onboarding-copilot-price = Tixtiṛyin tilelliyin d tid n lexlaṣ; amiḍan yettwasra i kra n temsekriyin
-genai-onboarding-gemini-generate = Sirew aḍris, tugniwin akked tengalt
-genai-onboarding-gemini-analyze = Sleḍ tugniwin (tileliyin) akked yisemliyen (n lexlaṣ)
-genai-onboarding-gemini-price = Tixtiṛyin tilelliyin d tid n lexlaṣ; amiḍan yettwasra
-genai-onboarding-huggingchat-generate = Sirew aḍris akked tengalt
-genai-onboarding-huggingchat-switch = Senfel gar tegrumma yemgaraden n tmudmin yeldin
-genai-onboarding-lechat-generate = Sirew aḍris akked tengalt
-genai-onboarding-lechat-price = D ilelli: amiḍan yettwasra
 
 ## Model Optin Component
 

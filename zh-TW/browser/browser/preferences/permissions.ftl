@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = 例外網站
     .style = min-width: 45em
+    .title = 例外網站
 permissions-close-key =
     .key = w
 permissions-address = 網站網址
@@ -80,15 +80,15 @@ permissions-invalid-uri-label = 請輸入正確的主機名稱
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = 加強型追蹤保護的例外
     .style = { permissions-window2.style }
+    .title = 加強型追蹤保護的例外
 permissions-exceptions-manage-etp-desc = 您可以指定要針對哪些網站關閉加強型追蹤保護。請輸入完整網址後，點擊「新增例外網站」。
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = 例外 - Cookie 與網站資料
     .style = { permissions-window2.style }
+    .title = 例外 - Cookie 與網站資料
 permissions-exceptions-cookie-desc = 您可以指定哪些網站是否可以設定 Cookie 和儲存網站資料。請在下方輸入要指定的完整網址，然後點擊「封鎖」、「此次瀏覽階段允許」或「允許」。
 
 ## Exceptions - Clear on Shutdown
@@ -101,58 +101,43 @@ permissions-exceptions-shutdown-clearing-desc = 您可以指定在關閉 { -bran
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = 例外 - 純 HTTPS 模式
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = 您可以針對特定網站關閉純 HTTPS 模式。連線到這些網站時，{ -brand-short-name } 不會嘗試升級為安全的 HTTPS 連線。例外網站不會在隱私保護視窗中生效。
+    .title = 例外 - 純 HTTPS 模式
 permissions-exceptions-https-only-desc2 = 您可以針對特定網站關閉純 HTTPS 模式。連線到這些網站時，{ -brand-short-name } 不會嘗試升級為安全的 HTTPS 連線。
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
     .title = 允許彈出型視窗與第三方重新導向的網站
-    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = 您可以指定要針對哪些網站允許開啟彈出型視窗，並讓第三方畫框重新導向網頁。
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = 允許彈出型視窗的網站
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = 您可以指定哪些網站可以開啟彈出型視窗。請輸入完整網址後按「允許」。
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = 儲存的登入資訊 - 例外
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = 將不會儲存下列網站的登入資訊
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = 儲存的密碼 - 例外
     .style = { permissions-window2.style }
+    .title = 儲存的密碼 - 例外
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } 不會儲存下列網站的密碼。
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = 允許安裝附加元件的網站
     .style = { permissions-window2.style }
+    .title = 允許安裝附加元件的網站
 permissions-exceptions-addons-desc = 您可以指定哪些網站可以安裝附加元件。請輸入完整網址後按「允許」。
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = 設定 - 自動播放
     .style = { permissions-window2.style }
+    .title = 設定 - 自動播放
 permissions-site-autoplay-desc = 您可以在此處管理不遵守預設自動播放設定的網站。
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = 設定 - 通知權限
     .style = { permissions-window2.style }
+    .title = 設定 - 通知權限
 permissions-site-notification-desc = 下列網站要求傳送通知給您。您可指定允許哪些網站傳送通知，也可以封鎖新的通知傳送請求。
 permissions-site-notification-disable-label =
     .label = 封鎖新網站傳送通知的請求
@@ -161,8 +146,8 @@ permissions-site-notification-disable-desc = 將防止上列以外的網站請�
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = 設定 - 位置權限
     .style = { permissions-window2.style }
+    .title = 設定 - 位置權限
 permissions-site-location-desc = 下列網站要求取得您的所在地點。您可指定允許哪些網站取得您的所在地點，也可以封鎖新的位置取得請求。
 permissions-site-location-disable-label =
     .label = 封鎖新網站取得您所在位置的請求
@@ -171,8 +156,8 @@ permissions-site-location-disable-desc = 將防止上列以外的網站請您允
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = 設定 - 虛擬實境權限
     .style = { permissions-window2.style }
+    .title = 設定 - 虛擬實境權限
 permissions-site-xr-desc = 下列網站要求使用您的虛擬實境裝置。您可指定允許哪些網站使用 VR 裝置，也可以封鎖新的 VR 裝置使用請求。
 permissions-site-xr-disable-label =
     .label = 封鎖新網站使用您虛擬裝置的請求
@@ -181,8 +166,8 @@ permissions-site-xr-disable-desc = 將防止上列以外的網站請求使用您
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = 設定 - 攝影機權限
     .style = { permissions-window2.style }
+    .title = 設定 - 攝影機權限
 permissions-site-camera-desc = 下列網站要求使用您的攝影機。您可指定允許哪些網站使用您的攝影機，也可以封鎖新的攝影機使用請求。
 permissions-site-camera-disable-label =
     .label = 封鎖新網站使用您攝影機的請求
@@ -191,8 +176,8 @@ permissions-site-camera-disable-desc = 將防止上列以外的網站請您允�
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = 設定 - 裝置應用程式與服務
     .style = { permissions-window2.style }
+    .title = 設定 - 裝置應用程式與服務
 permissions-site-localhost-desc = 下列網站曾要求存取此裝置中的應用程式或服務。您可以決定要允許或封鎖網站進行此動作。
 permissions-site-localhost-disable-label =
     .label = 要在此裝置封鎖要連入應用程式或服務的新請求嗎？
@@ -201,8 +186,8 @@ permissions-site-localhost-disable-desc = 將停止任何未列於上方的網�
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = 設定 - 區域網路裝置
     .style = { permissions-window2.style }
+    .title = 設定 - 區域網路裝置
 permissions-site-local-network-desc = 下列網站曾要求存取連結到您 Wi-Fi 或區域網路的裝置當中的應用程式或服務。您可以決定要允許或封鎖網站進行此動作。
 permissions-site-local-network-disable-label =
     .label = 封鎖存取其他連結到您 Wi-Fi 或區域網路上的其他裝置當中的應用程式與服務的新請求。
@@ -211,8 +196,8 @@ permissions-site-local-network-disable-desc = 將停止任何未列於上方的�
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = 設定 - 麥克風權限
     .style = { permissions-window2.style }
+    .title = 設定 - 麥克風權限
 permissions-site-microphone-desc = 下列網站要求使用您的麥克風。您可指定允許哪些網站使用您的麥克風，也可以封鎖新的麥克風使用請求。
 permissions-site-microphone-disable-label =
     .label = 封鎖新網站使用您麥克風的請求
@@ -223,12 +208,12 @@ permissions-site-microphone-disable-desc = 將防止上列以外的網站請您�
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = 設定 - 喇叭權限
     .style = { permissions-window2.style }
+    .title = 設定 - 喇叭權限
 permissions-site-speaker-desc = 下列網站曾要求存取您的音訊輸出裝置。您可指定要允許哪些網站允許選擇音訊輸出裝置。
 permissions-exceptions-doh-window =
-    .title = 使用 DNS over HTTPS 的例外網站
     .style = { permissions-window2.style }
+    .title = 使用 DNS over HTTPS 的例外網站
 permissions-exceptions-manage-doh-desc = { -brand-short-name } 不會對下列網站與子網域網站，使用加密 DNS 進行查詢。
 permissions-doh-entry-field = 請輸入網站的網域名稱
     .accesskey = d

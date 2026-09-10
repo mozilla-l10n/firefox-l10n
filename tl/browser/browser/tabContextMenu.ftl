@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Panibagong Tab
-    .accesskey = P
 reload-tab =
     .label = i-Reload ang Tab
     .accesskey = R
@@ -79,10 +76,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Ibahagi
     .accesskey = b
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -107,10 +100,3 @@ tab-context-move-tabs =
            *[other] Ilipat ang mga Tab
         }
     .accesskey = v
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Ipadala ang Tab sa Device
-           *[other] Magpadala ng { $tabCount } Tab sa Device
-        }
-    .accesskey = n

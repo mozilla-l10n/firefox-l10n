@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = ᱢᱤᱫ ᱱᱤᱡᱚᱨᱟᱜ ᱡᱟᱨᱞᱟ ᱡᱷᱤᱡᱽ ᱢᱮ
     .accesskey = P
 about-private-browsing-search-placeholder = ᱣᱮᱵ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
-about-private-browsing-info-title = ᱟᱢ ᱢᱤᱫ ᱱᱤᱡᱚᱨᱟᱜ ᱡᱟᱨᱞᱟ ᱨᱮ ᱢᱮᱱᱟᱢ ᱟ
 about-private-browsing-search-btn =
     .title = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = { $engine } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱟᱝ ᱴᱷᱤᱠᱬᱟᱹ ᱟᱫᱮᱨ ᱢᱮ
 about-private-browsing-handoff-text-no-engine = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 about-private-browsing-not-private = ᱟᱢ ᱫᱚ ᱱᱤᱛᱚᱜ ᱢᱤᱫ ᱱᱤᱡᱮᱨᱟᱜ ᱣᱤᱱᱰᱳ ᱨᱮ ᱵᱟᱹᱱᱩᱜ ᱢᱮᱭᱟ ᱾
-about-private-browsing-info-description-private-window = ᱱᱤᱥᱚᱱ ᱣᱤᱱᱰᱳ : { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱦᱤᱛᱟᱹᱞ ᱠᱚ ᱢᱮᱴᱟᱣ ᱟᱭ ᱵᱚᱸᱫ ᱡᱷᱚᱜ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱩᱠᱩ ᱨᱮ ᱵᱟᱝ ᱫᱚᱦᱚᱭ ᱢᱮᱭᱟᱭ ᱾
-about-private-browsing-info-description-simplified = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱦᱤᱛᱟᱹᱞ ᱠᱚ ᱢᱮᱴᱟᱣ ᱟᱭ ᱵᱚᱸᱫ ᱡᱷᱚᱜ, ᱢᱮᱱᱠᱷᱟᱱ ᱱᱚᱶᱟ ᱫᱚ ᱩᱠᱩ ᱨᱮ ᱵᱟᱝ ᱫᱚᱦᱚᱭ ᱢᱮᱭᱟᱭ ᱾
-about-private-browsing-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 about-private-browsing-hide-activity = ᱟᱢᱟᱜ ᱠᱟᱹᱢᱤ ᱠᱚ ᱟᱨ ᱡᱟᱭᱜᱟ, ᱡᱷᱚᱛᱚᱡᱟᱭᱜᱟ ᱨᱮ ᱵᱨᱟᱡᱽ ᱠᱚ ᱩᱠᱩᱭ ᱢᱮ
 about-private-browsing-get-privacy = ᱟᱢ ᱡᱷᱚᱛᱚ ᱡᱟᱭᱜᱟ ᱨᱮ ᱵᱽᱨᱟᱣᱡᱽ ᱨᱮᱭᱟᱜ ᱱᱤᱥᱚᱱ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱧᱟᱢ ᱢᱮ
 about-private-browsing-hide-activity-1 = ᱵᱽᱨᱟᱣᱡᱤᱝ ᱠᱟᱹᱢᱤ ᱟᱨ ᱡᱟᱭᱜᱟ ᱫᱚ { -mozilla-vpn-brand-name } ᱛᱮ ᱩᱠᱩᱭ ᱢᱮ ᱾ ᱢᱤᱫ ᱚᱛᱟ ᱨᱮ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱡᱩᱲᱟᱣ ᱛᱮᱭᱟᱨ ᱟᱭ, ᱥᱟᱱᱟᱢ Wi-Fi ᱨᱮ ᱦᱚᱸ ᱠᱟᱹᱢᱤᱟᱭ ᱾
@@ -29,8 +25,6 @@ about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } ᱥᱟᱶ ᱩ
 about-private-browsing-focus-promo-cta = { -focus-brand-name } ᱰᱟᱣᱱᱞᱚᱰ ᱢᱮ
 about-private-browsing-focus-promo-header = { -focus-brand-name }: ᱢᱤᱫ ᱡᱮᱠᱷᱟ ᱛᱮ ᱱᱤᱡᱚᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
 about-private-browsing-focus-promo-text = ᱡᱷᱚᱛᱚ ᱚᱠᱛᱚ ᱨᱮ ᱜᱮ ᱟᱞᱮᱭᱟᱜ ᱱᱤᱡᱚᱨᱟᱜ ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱢᱚᱵᱟᱭᱤᱞ ᱮᱯ ᱜᱷᱤᱲ ᱜᱮ ᱟᱹᱵᱤᱱᱟᱜ ᱦᱤᱛᱟᱹᱞ ᱟᱨ ᱠᱩᱠᱤᱡᱽ ᱠᱚ ᱢᱮᱴᱟᱣᱟᱭ ᱾
-about-private-browsing-focus-promo-header-b = ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱨᱮ ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱢᱮ
-about-private-browsing-focus-promo-text-b = { -focus-brand-name } ᱫᱚ ᱚᱱᱟ ᱱᱤᱡᱮᱨ ᱥᱮᱸᱫᱽᱨᱟ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱢ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱨᱮ ᱵᱟᱝ ᱧᱮᱞ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱾
 about-private-browsing-focus-promo-header-c = ᱢᱚᱵᱟᱭᱤᱞ ᱨᱮ ᱞᱟᱦᱟᱼᱞᱮᱣᱮᱞ ᱨᱟᱭᱟᱜ ᱱᱤᱥᱚᱱ
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } ᱫᱚ ᱰᱷᱟᱶᱨᱟ ᱟᱨ ᱯᱟᱧᱡᱟᱠᱩᱜ ᱵᱟᱹᱰ ᱡᱷᱚᱜ ᱜᱷᱤᱲᱜᱮ ᱟᱢᱟᱜ ᱦᱤᱛᱟᱹᱞ ᱠᱚ ᱢᱮᱴᱟᱣ ᱛᱟᱢᱟᱭ ᱾
 # This string is the title for the banner for search engine selection
@@ -66,11 +60,6 @@ about-private-browsing-relay-promo-link-text = ᱤᱢᱮᱞ ᱢᱟᱥᱠ ᱠᱚ 
 
 ## Strings used in a promotion message for cookie banner reduction
 
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱠᱚ ᱪᱟᱞᱟᱣ ᱮᱱᱟ!
-about-private-browsing-cookie-banners-promo-button = ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱠᱷᱟᱴᱚᱭ ᱢᱮ
-about-private-browsing-cookie-banners-promo-message = { -brand-short-name } ᱫᱚ ᱟᱡ ᱛᱮ ᱟᱢᱟᱜ ᱵᱤᱱ ᱨᱚᱠ ᱴᱷᱚᱠ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱞᱟᱹᱜᱤᱫ ᱴᱟᱴᱠᱟ ᱚᱰᱚᱠ ᱛᱮᱠᱟ ᱮᱢ ᱟᱭ ᱾ { -brand-short-name } ᱡᱟᱦᱟᱸ ᱫᱷᱟᱹᱵᱤᱡ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱢᱟᱱᱟ ᱜᱚᱫ ᱠᱟᱜᱼᱟᱭ ᱾
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } ᱫᱚ ᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱠᱤ ᱵᱮᱱᱟᱨ ᱡᱚᱛᱚᱱ ᱮ ᱦᱟᱛᱟᱣᱟ

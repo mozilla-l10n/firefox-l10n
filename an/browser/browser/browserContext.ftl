@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Ir una pachina enta zaga ({ $shortcut })
     .aria-label = Enta zaga
+    .tooltiptext = Ir una pachina enta zaga ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Ir una pachina enta debant ({ $shortcut })
     .aria-label = Enta debant
+    .tooltiptext = Ir una pachina enta debant ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -98,9 +98,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = Alzar o vinclo como…
     .accesskey = n
-main-context-menu-save-link-to-pocket =
-    .label = Alzar vinclo en { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -181,18 +178,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Ninviar audio…
     .accesskey = a
-main-context-menu-save-to-pocket =
-    .label = Alzar pachina en { -pocket-brand-name }
-    .accesskey = c
-main-context-menu-send-to-device =
-    .label = Ninviar la pachina ta lo dispositivo
-    .accesskey = d
 
 ##
 
-main-context-menu-keyword =
-    .label = Adhibir una parola clau ta ista busca…
-    .accesskey = u
 main-context-menu-link-send-to-device =
     .label = Ninviar lo vinclo ta lo dispositivo
     .accesskey = d

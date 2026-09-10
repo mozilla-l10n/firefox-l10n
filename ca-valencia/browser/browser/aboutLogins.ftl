@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Inicis de sessió i contrasenyes
 fxaccounts-sign-in-text = Accediu a les contrasenyes en tots els vostres dispositius
 fxaccounts-sign-in-sync-button = Inicia la sessió per sincronitzar
 fxaccounts-avatar-button =
@@ -16,8 +15,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importa d'un altre navegador…
 about-logins-menu-menuitem-import-from-a-file = Importa d'un fitxer…
-about-logins-menu-menuitem-export-logins = Exporta els inicis de sessió…
-about-logins-menu-menuitem-remove-all-logins = Elimina tots els inicis de sessió…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opcions
@@ -29,13 +26,6 @@ about-logins-menu-menuitem-help = Ajuda
 
 login-list =
     .aria-label = Inicis de sessió que coincideixen amb els criteris de cerca
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } inici de sessió
-       *[other] { $count } inicis de sessió
-    }
 login-list-sort-label-text = Ordena per:
 login-list-name-option = Nom (A-Z)
 login-list-name-reverse-option = Nom (Z-A)
@@ -44,12 +34,8 @@ login-list-username-reverse-option = Nom d’usuari (Z-A)
 about-logins-login-list-alerts-option = Alertes
 login-list-last-changed-option = Darrera modificació
 login-list-last-used-option = Darrer ús
-login-list-intro-title = No s'ha trobat cap inici de sessió
 login-list-intro-description = Ací es mostren les contrasenyes que guardeu en el { -brand-product-name }.
-about-logins-login-list-empty-search-title = No s'ha trobat cap inici de sessió
 about-logins-login-list-empty-search-description = No hi ha cap resultat que coincidisca amb la cerca.
-login-list-item-title-new-login = Inici de sessió nou
-login-list-item-subtitle-new-login = Introduïu les credencials d'inici de sessió
 login-list-item-subtitle-missing-username = (cap nom d'usuari)
 about-logins-list-item-breach-icon =
     .title = Lloc web amb filtració de dades
@@ -64,22 +50,14 @@ about-logins-list-section-week = Darrers 7 dies
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Cerqueu els vostres inicis de sessió guardats? Activeu la sincronització o importeu-los.
-about-logins-login-intro-heading-logged-in = No s'ha trobat cap inici de sessió sincronitzat.
-login-intro-description = Si heu guardat els vostres inicis de sessió en el { -brand-product-name } des d'un altre dispositiu, esta és la manera de tindre-los també ací:
-login-intro-instructions-fxa = Creeu un { -fxaccount-brand-name } o inicieu-hi la sessió des del dispositiu on teniu guardats els vostres inicis de sessió.
 login-intro-instructions-fxa-settings = Aneu a Paràmetres > Sync > Activa la sincronització... Marqueu la casella de selecció «Inicis de sessió i contrasenyes».
 login-intro-instructions-fxa-passwords-help = Visiteu l'<a data-l10n-name="passwords-help-link">assistència de contrasenyes</a> per a obtindre més ajuda.
-about-logins-intro-browser-only-import = Si teniu inicis de sessió guardats en un altre navegador, podeu <a data-l10n-name="import-link">importar-los al { -brand-product-name }</a>.
-about-logins-intro-import2 = Si els vostres inicis de sessió estan guardats fora del { -brand-product-name }, podeu <a data-l10n-name="import-browser-link">importar-los d'un altre navegador</a> o <a data-l10n-name="import-file-link">d'un fitxer</a>
 
 ## Login
 
-login-item-new-login-title = Crea un inici de sessió
 login-item-edit-button = Edita
 about-logins-login-item-remove-button = Elimina
 login-item-origin-label = Adreça del lloc web
-login-item-tooltip-message = Assegureu-vos que coincidisca amb l'adreça exacta del lloc web on inicieu la sessió.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nom d'usuari
@@ -92,7 +70,6 @@ login-item-password-reveal-checkbox =
     .aria-label = Mostra la contrasenya
 login-item-copy-password-button-text = Copia
 login-item-copied-password-button-text = S'ha copiat
-login-item-save-changes-button = Guarda els canvis
 login-item-save-new-button = Guarda
 login-item-cancel-button = Cancel·la
 
@@ -104,11 +81,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Per editar l'inici de sessió, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = editar l'inici de sessió guardat
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Per veure la contrasenya, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -119,11 +91,6 @@ about-logins-copy-password-os-auth-dialog-message-win = Per copiar la contraseny
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiar la contrasenya guardada
-# This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Per exportar els inicis de sessió, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = exportar els inicis de sessió i les contrasenyes guardats
 
 ## Primary Password notification
 
@@ -137,8 +104,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Cancel·la
 confirmation-dialog-dismiss-button =
     .title = Cancel·la
-about-logins-confirm-remove-dialog-title = Voleu eliminar este inici de sessió?
-confirm-delete-dialog-message = Esta acció no es pot desfer.
 about-logins-confirm-remove-dialog-confirm-button = Elimina
 
 ## Variables
@@ -150,41 +115,9 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Elimina
        *[other] Elimina-ho tot
     }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] Sí, elimina aquest inici de sessió
-        [one] Sí, elimina aquest inici de sessió
-       *[other] Sí, elimina aquests inicis de sessió
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] Voleu eliminar { $count } inici de sessió
-       *[other] Voleu eliminar { $count } inicis de sessió
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] Això eliminarà l'inici de sessió que heu desat al { -brand-short-name } i les alertes de filtracions que es mostren aquí. Aquesta acció no es pot desfer.
-        [one] Això eliminarà l'inici de sessió que heu desat al { -brand-short-name } i les alertes de filtracions que es mostren aquí. Aquesta acció no es pot desfer.
-       *[other] Això eliminarà els inicis de sessió que heu desat al { -brand-short-name } i les alertes de filtracions que es mostren aquí. Aquesta acció no es pot desfer.
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] Voleu eliminar { $count } inici de sessió de tots els dispositius?
-       *[other] Voleu eliminar tots els { $count } inicis de sessió de tots els dispositius?
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [1] Això eliminarà l'inici de sessió desat pel { -brand-short-name } en tots els dispositius sincronitzats amb el vostre { -fxaccount-brand-name }. També eliminarà les alertes de filtracions que apareixen aquí. Aquesta acció no es pot desfer.
-        [one] Això eliminarà l'inici de sessió desat pel { -brand-short-name } en tots els dispositius sincronitzats amb el vostre { -fxaccount-brand-name }. També eliminarà les alertes de filtracions que apareixen aquí. Aquesta acció no es pot desfer.
-       *[other] Això eliminarà tots els inicis de sessió desats pel { -brand-short-name } en tots els dispositius sincronitzats amb el vostre { -fxaccount-brand-name }. També eliminarà les alertes de filtracions que apareixen aquí. Aquesta acció no es pot desfer.
-    }
 
 ##
 
-about-logins-confirm-export-dialog-title = Exporta els inicis de sessió i contrasenyes
-about-logins-confirm-export-dialog-message = Les contrasenyes es guardaran com a text llegible (per exemple, «malaC0ntr@senya»), de manera que qualsevol que puga obrir el fitxer exportat les podrà veure.
-about-logins-confirm-export-dialog-confirm-button = Exporta…
-about-logins-alert-import-title = Fi de la importació
 about-logins-alert-import-message = Mostra un resum detallat de la importació
 confirm-discard-changes-dialog-title = Voleu descartar els canvis no guardats?
 confirm-discard-changes-dialog-message = Es perdran tots els canvis que no hàgeu guardat.
@@ -220,11 +153,6 @@ about-logins-error-message-default = S'ha produït un error en intentar guardar 
 
 ## Login Export Dialog
 
-# Title of the file picker dialog
-about-logins-export-file-picker-title = Exporta el fitxer d'inicis de sessió
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = inicis_sessio.csv
 about-logins-export-file-picker-export-button = Exporta
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -236,8 +164,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = Importa el fitxer d'inicis de sessió
 about-logins-import-file-picker-import-button = Importa
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -259,21 +185,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Fi de la importació
-about-logins-import-dialog-items-added =
-    { $count ->
-        [one] <span>Inicis de sessió nous afegits:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Inicis de sessió nous afegits:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-        [one] <span>Inicis de sessió existents actualitzats:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Inicis de sessió existents actualitzats:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-        [one] <span>Inicis de sessió duplicats:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no importat)</span>
-       *[other] <span>Inicis de sessió duplicats:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no importats)</span>
-    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Errors:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no s'ha importat)</span>
@@ -294,14 +205,10 @@ about-logins-import-dialog-error-learn-more = Més informació
 about-logins-import-dialog-error-try-import-again = Torna a provar d'importar…
 about-logins-import-dialog-error-cancel = Cancel·la
 about-logins-import-report-title = Resum de la importació
-about-logins-import-report-description = Inici de sessió i contrasenyes importats en el { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Fila { $number }
-about-logins-import-report-row-description-no-change = Duplicat: Coincidència exacta amb un inici de sessió existent
-about-logins-import-report-row-description-modified = Inici de sessió existent actualitzat
-about-logins-import-report-row-description-added = Inici de sessió nou afegit
 about-logins-import-report-row-description-error = Error: Falta un camp
 
 ##
@@ -315,18 +222,6 @@ about-logins-import-report-row-description-error-missing-field = Error: Falta { 
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">inicis de sessió nous afegits</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">inicis de sessió existents actualitzats</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">inicis de sessió duplicats</div> <div data-l10n-name="not-imported">(no importats)</div>
-    }
 about-logins-import-report-error =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">errors</div> <div data-l10n-name="not-imported">(no importats)</div>

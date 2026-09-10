@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Gweld pori diweddar ar draws ffenestri a dyfeisiau
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Cau
-    .aria-label = Cau
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Newydd ddigwydd
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Ail agor tabiau
-firefoxview-tabpickup-description = Agorwch dudalennau o ddyfeisiau eraill.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% wedi'i gwblhau
-firefoxview-tabpickup-step-signin-header = Symud yn rhwydd rhwng dyfeisiau
-firefoxview-tabpickup-step-signin-description = I ddefnyddio'ch tabiau ffôn yma, mewngofnodwch yn gyntaf neu greu cyfrif.
-firefoxview-tabpickup-step-signin-primarybutton = Ymlaen
 firefoxview-syncedtabs-signin-header-2 = Eich { -brand-product-name } ar eich holl ddyfeisiau
 firefoxview-syncedtabs-signin-description-2 = I weld tabiau sydd gennych ar agor ar eich ffôn a dyfeisiau eraill, mewngofnodwch neu cofrestrwch am gyfrif. Gyda chyfrif, gallwch hefyd gydweddu'ch cyfrineiriau, hanes, a mwy.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = O liniadur i ffôn, yn ddi-dor
 firefoxview-syncedtabs-signin-description-3 = Cadwch eich pori wedi'i gysylltu ar draws dyfeisiau - tabiau, cyfrineiriau a hanes, i gyd wedi'u cydweddu.
 firefoxview-syncedtabs-signin-primarybutton-2 = Mewngofnodi
-firefoxview-tabpickup-adddevice-header = Cydweddwch { -brand-product-name } ar eich ffôn neu dabled
-firefoxview-tabpickup-adddevice-description = Llwytho { -brand-product-name } ar gyfer ffôn symudol a mewngofnodi yno.
-firefoxview-tabpickup-adddevice-learn-how = Sut mae gwneud
-firefoxview-tabpickup-adddevice-primarybutton = Cael { -brand-product-name } ar gyfer symudol
 firefoxview-syncedtabs-adddevice-header-2 = Cydio tabiau o unrhyw le
 firefoxview-syncedtabs-adddevice-description-2 = Mewngofnodwch i { -brand-product-name } ar eich ffôn neu gyfrifiadur arall i weld tabiau yma. Dysgwch sut i <a data-l10n-name="url">gysylltu dyfeisiau ychwanegol</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Rhowch gynnig ar { -brand-product-name } ar gyfer ffonau symudol
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Cysylltodd eich tabiau. Maen nhw ar eich ffôn.
 firefoxview-syncedtabs-adddevice-description-3 = Sganiwch y cod QR i gael { -brand-product-name } ar gyfer ffôn symudol a dechreuwch gydweddu eich tabiau agored a mwy. Dysgwch sut i <a data-l10n-name="url">gysylltu dyfeisiau ychwanegol</a>.
-firefoxview-tabpickup-synctabs-header = Cychwyn cydweddu tabiau
-firefoxview-tabpickup-synctabs-description = Caniatáu i { -brand-short-name } rannu tabiau rhwng dyfeisiau.
-firefoxview-tabpickup-synctabs-learn-how = Sut mae gwneud
 firefoxview-tabpickup-synctabs-primarybutton = Cydweddu tabiau agored
 firefoxview-tabpickup-synctabs-primarybutton-2 = Cychwyn cydweddu tabiau
 firefoxview-syncedtabs-synctabs-header = Diweddarwch eich gosodiadau cydweddu
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Pan fydd wedi'i wneud, byddwch yn g
 firefoxview-syncedtabs-loading-header-2 = Wrthi'n nôl eich tabiau…
 firefoxview-syncedtabs-loading-description-2 = Wrthi'n cydweddu. Bydd tabiau yma cyn hir.
 firefoxview-tabpickup-fxa-admin-disabled-header = Mae eich sefydliad wedi analluogi cydweddu
-firefoxview-tabpickup-fxa-admin-disabled-description = Nid yw { -brand-short-name } yn gallu cydweddu tabiau rhwng dyfeisiau oherwydd bod eich gweinyddwr wedi analluogi cydweddu.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = Nid yw { -brand-short-name } yn gallu cydweddu tabiau rhwng dyfeisiau oherwydd bod eich sefydliad wedi analluogi cydweddu.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Mae cydweddu tabiau i ffwrdd
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Mae eich sefydliad wedi rhwystro'r nodwedd hon.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Datgloi tabiau gyda'ch prif gyfrinair
 firefoxview-tabpickup-password-locked-description-2 = Er mwyn eich preifatrwydd, mae tabiau wedi'u cydweddu'n cael eu diogelu. Rhowch brif gyfrinair { -brand-short-name } i weld tabiau o'ch dyfeisiau eraill.
 firefoxview-tabpickup-signed-out-header = Mewngofnodi i ailgysylltu
-firefoxview-tabpickup-signed-out-description = I ailgysylltu a chipio eich tabiau, mewngofnodwch i'ch { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = I ailgysylltu a chipio'ch tabiau, mewngofnodwch i'ch cyfrif
 firefoxview-tabpickup-signed-out-primarybutton = Mewngofnodi
 firefoxview-tabpickup-signed-out-header-2 = Mewngofnodwch i weld eich tabiau
 firefoxview-tabpickup-signed-out-description-2 = Ailgysylltu i weld tabiau o ddyfeisiau eraill.
-firefoxview-tabpickup-syncing = Arhoswch tra bod eich tabiau'n cydweddu. Fydd hi ddim yn hir.
-firefoxview-mobile-promo-header = Cydiwch mewn tabiau o'ch ffôn neu dabled
-firefoxview-mobile-promo-description = I weld eich tabiau symudol diweddaraf, mewngofnodwch i { -brand-product-name } ar iOS neu Android.
-firefoxview-mobile-promo-primarybutton = Cael { -brand-product-name } ar gyfer symudol
-firefoxview-mobile-confirmation-header = Barod i fynd!
-firefoxview-mobile-confirmation-description = Nawr gallwch chi gydio ar eich tabiau { -brand-product-name } o'ch tabled neu ffôn.
-firefoxview-closed-tabs-title = Caewyd yn ddiweddar
-firefoxview-closed-tabs-description2 = Ail-agorwch dudalennau rydych wedi'u cau yn y ffenestr hon.
-firefoxview-closed-tabs-placeholder-header = Dim tabiau sydd wedi'u cau yn ddiweddar
-firefoxview-closed-tabs-placeholder-body = Pan fyddwch yn cau tab yn y ffenestr hon, gallwch chi ei nôl o'r fan hon.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Cau { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Gweithgaredd diwethaf
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Agorwch { $targetURI } mewn tab newydd
-firefoxview-try-colorways-button = Rhowch gynnig ar gyfuniadau lliw
-firefoxview-change-colorway-button = Newid y llwybr lliw
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Dim byd i'w weld eto
-firefoxview-synced-tabs-placeholder-body = Y tro nesaf y byddwch yn agor tudalen yn { -brand-product-name } ar ddyfais arall, cydiwch ynddo yma.
 firefoxview-collapse-button-show =
     .title = Dangos rhestr
 firefoxview-collapse-button-hide =

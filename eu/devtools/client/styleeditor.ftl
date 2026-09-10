@@ -21,8 +21,6 @@ styleeditor-save-button = Gorde
 styleeditor-options-button =
     .tooltiptext = Estilo-editorearen aukerak
 styleeditor-at-rules = At-erregelak
-styleeditor-editor-textbox =
-    .data-placeholder = Idatzi CSSa hemen.
 styleeditor-no-stylesheet = Orri honek ez dauka estilo-orririk.
 styleeditor-no-stylesheet-tip = Beharbada <a data-l10n-name="append-new-stylesheet">estilo-orri berria erantsi</a> nahi duzu?
 styleeditor-open-link-new-tab =

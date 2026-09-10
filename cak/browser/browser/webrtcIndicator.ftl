@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Retal Komonïk
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Retal Komonïk
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Nakomonij ri q'asäy ch'ab'äl. Tapitz'a' richin nachajij komon okisaxïk.
 webrtc-screen-system-menu =
     .label = Nakomonij jun tzuwäch o jun ruwäch. Tapitz'a' richin nachajij komon okisaxïk.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Tajin yekomonïx ri elesäy wachib'äl chuqa' q'asäy tzij. Tapitz'a' richin nik'oje' pan aq'a' ri jalwachinïk.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Ri awelesawachib'äl tajin nokisäx pa q'uch. Tapitz'a' richin nik'oje' pa aq'a'.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Tajin nikomonïx ri q'asäy tzij. Tapitz'a' richin nik'oje' pan aq'a' ri jalwachinïk.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Tajin nikomonïx jun chokoy. Tapitz'a' richin nachajij ri komonïk.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Tajin nikomonïx ri ruwäch. Tapitz'a' richin nik'oje' pan aq'a' ri jalwachinïk.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Tajin nikomonïx jun tzuwäch. Tapitz'a' richin nik'oje' pan aq'a' ri jalwachinïk.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Tajin nikomonïx jun tzuwäch. Tapitz'a' richin nik'oje' pan aq'a' ri jalwachinïk.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -171,7 +152,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ¿La niya' q'ij 
 
 webrtc-share-screen-warning = Xa xe yerukomonij taq ruwa' kematz'ib' kik'in taq ruxaq k'amaya'l nakuqub'a' ak'u'x chi kij. Ri komonïk nitikïr nuya' q'ij chi ri itzel taq ruxaq k'amaya'l kekanon achi'el rat akuchi' nikeleq'aj ri ichinan taq atzij.
 webrtc-share-browser-warning = Xa xe yerukomonij { -brand-short-name } kik'in taq ruxaq k'amaya'l nakuqub'a' ak'u'x chi kij. Ri komonïk nitikïr nuya' q'ij chi ri itzel taq ruxaq k'amaya'l kekanon achi'el rat akuchi' nikeleq'aj ri ichinan taq atzij.
-webrtc-share-screen-learn-more = Tetamäx Ch'aqa' Chik
 webrtc-pick-window-or-screen = Ticha' Tzuwäch o Chijun Ruwa
 webrtc-share-entire-screen = Chijun ruwäch
 webrtc-share-pipe-wire-portal = Tokisäx ri runuk'ulem samajel q'inoj

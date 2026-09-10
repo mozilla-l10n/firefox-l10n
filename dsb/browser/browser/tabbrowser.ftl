@@ -21,11 +21,6 @@ tabbrowser-tab-tooltip-container = { $containerName }
 #   $tabGroupName (String): the user-defined name of the current tab group.
 #   $containerName (String): the name of the current container.
 tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } – { $containerName }
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -33,16 +28,6 @@ tabbrowser-container-tab-title = { $title } - { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [one] { $tabCount } rejtarik zacyniś
-            [two] { $tabCount } rejtarika zacyniś
-            [few] { $tabCount } rejtariki zacyniś
-           *[other] { $tabCount } rejtarikow zacyniś
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [one] { $tabCount } rejtarik zacyniś
             [two] { $tabCount } rejtarika zacyniś
@@ -128,7 +113,6 @@ tabbrowser-confirm-close-tabs-title =
     }
 tabbrowser-confirm-close-tabs-button = Rejtariki zacyniś
 tabbrowser-ask-close-tabs-checkbox = Pšašaś se, nježli až se někotare rejtariki zacynjaju
-tabbrowser-confirm-close-tabs-checkbox = Wobkšuśiś, nježli až se někotare rejtariki zacynjaju
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -157,9 +141,6 @@ tabbrowser-confirm-close-tabs-with-key-button = { -brand-short-name } skóńcyś
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-ask-close-tabs-with-key-checkbox = Pšašaś se, nježli až se z { $quitKey } skóńcyjo
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = Wobkšuśiś, nježli až se z { $quitKey } skóńcyjo
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
@@ -484,8 +465,8 @@ tab-note-editor-button-save =
     .label = Składowaś
     .accesskey = S
 tab-note-editor-button-delete =
-    .title = Noticu lašowaś
     .aria-label = Noticu lašowaś
+    .title = Noticu lašowaś
     .accesskey = N
 tab-note-preview-edit-icon =
     .alt = Noticu wobźěłaś

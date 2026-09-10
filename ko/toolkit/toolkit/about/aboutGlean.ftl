@@ -51,7 +51,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     데이터를 기록하고 찾는 다양한 방법에 대한 설명은,
     <strong>데이터 정보</strong> 탭을 참조하세요.
-about-glean-about-testing-header = 테스트 정보
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     전체 지침은 
@@ -60,8 +59,6 @@ about-glean-manual-testing =
     하지만 간단히 말해서 계측이 작동하는지 수동으로 테스트하려면 다음을 수행해야 합니다:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (핑을 제출하지 마세요)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = 앞의 필드에서 기억할 수 있는 디버그 태그가 있는지 확인하여 나중에 핑을 인식할 수 있습니다.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = 나중에 핑을 인식할 수 있도록 기억하기 쉬운 디버그 태그<span>(20자 이하, 영숫자 및 -만)</span>를 설정하세요.
 # An in-line drop down list precedes this string.
@@ -87,13 +84,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">태그가 있는 핑에 대한 { glean-debug-ping-viewer-brand-name } 페이지를 방문하세요</a>.
     버튼을 누른 후 핑이 도착할 때까지 몇 초 이상 걸리지 않습니다.
     때로는 몇 분 정도 걸릴 수 있습니다.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    더 많은 <i>임시</i> 테스트를 위해
-    여기 <code>about:glean</code>에서 개발자 도구 콘솔을 열고 
-    <code>Glean.metricCategory.metricName.testGetValue()</code> 같은 
-    <code>testGetValue()</code> API를 사용하여 
-    특정 계측 부분의 현재 값을 확인할 수도 있습니다.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     더 많은 <i>임시</i> 테스트를 위해 
@@ -198,9 +188,6 @@ about-glean-no-data-to-display = 표시할 데이터가 없습니다.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code> 메트릭은 <code>about:glean</code> 보기에서 아직 지원되지 않습니다.
 about-glean-unknown-metric-type-warning = 알 수 없는 메트릭 유형입니다.
-about-glean-about-data-explanation =
-    수집된 데이터 목록을 찾아보려면 
-    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } 사전</a>을 참조하세요.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

@@ -37,7 +37,6 @@ sidebar-history-clear =
     .label = Ryd historik
 sidebar-history-sort-by-heading-menucaption =
     .label = Sorter efter:
-sidebar-history-sort-by-heading = Sorter efter:
 sidebar-history-sort-option-date =
     .label = Dato
 sidebar-history-sort-option-site =
@@ -57,16 +56,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Sidepanels-udvidelser
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name }-funktioner
 sidebar-customize-firefox-settings = Håndter { -brand-short-name }- indstillinger
 sidebar-vertical-tabs =
     .label = Lodrette faneblade
 sidebar-settings2 =
     .label = Indstillinger
-sidebar-settings =
-    .label = Sidepanels-indstillinger
 sidebar-hide-tabs-and-sidebar =
     .label = Skjul faneblade og sidepanel
 sidebar-show-on-the-right =
@@ -90,8 +84,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Håndter udvidelse
-sidebar-context-menu-remove-extension =
-    .label = Fjern udvidelse
 sidebar-context-menu-report-extension =
     .label = Rapporter udvidelse
 sidebar-context-menu-open-in-tab =

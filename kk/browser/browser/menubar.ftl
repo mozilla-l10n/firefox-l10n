@@ -261,8 +261,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Профильдер
 menu-profiles-manage-profiles =
     .label = Профильдерді басқару
 menu-profiles-new-profile =
@@ -286,9 +284,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Кеңейтулер және темалар
     .accesskey = е
-menu-tools-addons-and-themes =
-    .label = Кеңейтулер және темалар
-    .accesskey = а
 menu-tools-fxa-sign-in2 =
     .label = Кіру
     .accesskey = р
@@ -345,8 +340,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Мәселелерді шешудің көбірек ақпараты
     .accesskey = с
-menu-help-report-site-issue =
-    .label = Сайт мәселесі жөнінде хабарлау…
 menu-help-share-ideas =
     .label = Идеялар мен кері байланыспен бөлісіңіз…
     .accesskey = с

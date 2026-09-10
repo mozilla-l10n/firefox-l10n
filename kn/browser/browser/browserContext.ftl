@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = ಒಂದು ಪುಟ ಹಿಂದಕ್ಕೆ ಹೋಗು ({ $shortcut })
     .aria-label = ಹಿಂದೆ
+    .tooltiptext = ಒಂದು ಪುಟ ಹಿಂದಕ್ಕೆ ಹೋಗು ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = ಒಂದು ಪುಟ ಮುಂದಕ್ಕೆ ಹೋಗು ({ $shortcut })
     .aria-label = ಮುಂದೆ
+    .tooltiptext = ಒಂದು ಪುಟ ಮುಂದಕ್ಕೆ ಹೋಗು ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -178,15 +178,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Email ಆಡಿಯೊ…
     .accesskey = a
-main-context-menu-send-to-device =
-    .label = ಪುಟವನ್ನು ಸಾಧನಕ್ಕೆ ಕಳುಹಿಸು
-    .accesskey = D
 
 ##
 
-main-context-menu-keyword =
-    .label = ಈ ಹುಡುಕಾಟಕ್ಕೆ ಒಂದು ಮುಖ್ಯಪದವನ್ನು ಸೇರಿಸು...
-    .accesskey = K
 main-context-menu-link-send-to-device =
     .label = ಕೊಂಡಿಯನ್ನು ಸಾಧನಕ್ಕೆ ಕಳುಹಿಸು
     .accesskey = D

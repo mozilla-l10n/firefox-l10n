@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Đang tải xuống bản cập nhật — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Đang tải xuống bản cập nhật — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Đang tải xuống bản cập nhật — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Đang cài đặt bản cập nhật…
 update-failed = Cập nhật thất bại. <label data-l10n-name="failed-link">Tải phiên bản mới nhất</label>
 update-failed-main = Cập nhật thất bại. <a data-l10n-name="failed-link-main">Tải phiên bản mới nhất</a>
-update-adminDisabled = Cập nhật bị vô hiệu hóa bởi quản trị hệ thống
 update-policy-disabled = Cập nhật bị vô hiệu hoá bởi tổ chức của bạn
 settings-update-policy-disabled =
     .label = Cập nhật bị vô hiệu hoá bởi tổ chức của bạn
@@ -72,8 +70,6 @@ helpus-referrals2 = Bạn muốn giúp đỡ? <label data-l10n-name="helpus-dona
 bottomLinks-license = Thông tin giấy phép
 bottom-links-terms = Điều khoản sử dụng
 bottom-links-privacy = Thông báo về quyền riêng tư
-bottomLinks-rights = Quyền hạn người dùng cuối
-bottomLinks-privacy = Chính sách riêng tư
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

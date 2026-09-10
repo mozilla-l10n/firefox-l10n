@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Ñongatuha’ỹre
-    .accesskey = Ñ
 user-context-manage-containers =
     .label = Guerekoha ñangarekohára
     .accesskey = o

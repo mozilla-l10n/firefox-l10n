@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = webrtc केर संबंध मे �
 about-webrtc-aec-logging-msg-label = AEC लॉगिंग
 about-webrtc-aec-logging-off-state-label = AEC लागिंग कएनाय आरँभ करू
 about-webrtc-aec-logging-on-state-label = AEC लागिंग बन्न करू
-about-webrtc-aec-logging-on-state-msg = AEC लागिंग सक्रिय (कॉलर सँग किछु मिनट धरि गप्प करू आओर फेन कैप्चर कएनाय रोकि दिअ)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC लागिंग सक्रिय (कॉलर सँग किछु मिनट धरि गप्प करू आओर फेन कैप्चर कएनाय रोकि दिअ)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -68,14 +67,7 @@ about-webrtc-nominated = नामांकित
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = चुनल
 about-webrtc-save-page-label = पृष्ठ सहेजू
-about-webrtc-debug-mode-msg-label = डिबग मोड
-about-webrtc-debug-mode-off-state-label = डिबग मोड आरंभ करू
-about-webrtc-debug-mode-on-state-label = डिबग मोड रोकू
 about-webrtc-log-heading = कनेक्शन लॉग
-about-webrtc-log-show-msg = लॉग देखाबू
-    .title = विभाग पसारब लेल क्लिक करू
-about-webrtc-log-hide-msg = लॉग नुकाबू
-    .title = विभाग समाप्ति कलेल क्लिक करू
 about-webrtc-log-section-show-msg = लॉग देखाबू
     .title = विभाग पसारब लेल क्लिक करू
 about-webrtc-log-section-hide-msg = लॉग नुकाबू
@@ -96,10 +88,6 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (बन�
 about-webrtc-local-candidate = स्थानीय कंडीडेट
 about-webrtc-remote-candidate = दूरस्थ उम्मीदवार
 about-webrtc-priority = प्राथमिकता
-about-webrtc-fold-show-msg = विवरण देखाबू
-    .title = विभाग पसारब लेल क्लिक करू
-about-webrtc-fold-hide-msg = विवरण नुकाउ
-    .title = विभाग समाप्ति कलेल क्लिक करू
 about-webrtc-fold-default-show-msg = विवरण देखाबू
     .title = विभाग पसारब लेल क्लिक करू
 about-webrtc-fold-default-hide-msg = विवरण नुकाउ
@@ -109,10 +97,6 @@ about-webrtc-encoder-label = एनकोडर
 
 ##
 
-about-webrtc-save-page-msg = :{ $path } पर पृष्ठ सहेजल गेल
-about-webrtc-debug-mode-off-state-msg = ट्रेस लॉग{ $path } पर भेटल
-about-webrtc-debug-mode-on-state-msg = डिबग मोड सक्रिय, { $path } पर लॉग ट्रेस करू
-about-webrtc-aec-logging-off-state-msg = कैप्टर लॉग फाइल{ $path } मे भेटल
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Mba’epytyvõrã jeikekatu rehegua
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Mba’epytyvõrã jeikekatu rehegua
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Myanyhẽjey
     .accesskey = e
-connection-proxy-autologin =
-    .label = Ani eporandu ñemoañetete rehe eñongatúramo ñe’ẽñemi
-    .accesskey = i
-    .tooltip = Ko poravopyrã kirirĩguáva oñemoañetetéva proxies-pe oñongatu rire terachaukaha chupekuéra g̃uarã. Ojejeruréta chupe pe ñemoañetetéva ndoikóiramo.
 connection-proxy-autologin-checkbox =
     .label = Ani eporandu ñemoañetete rehe eñongatúramo ñe’ẽñemi
-    .accesskey = i
     .tooltiptext = Ko poravopyrã kirirĩguáva oñemoañetetéva proxies-pe oñongatu rire terachaukaha chupekuéra g̃uarã. Ojejeruréta chupe pe ñemoañetetéva ndoikóiramo.
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = Proxy DNS oiporúvo SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Eiporu URL ijypykuéva eike hag̃ua DNS-pe HTTPS rãngue
 connection-dns-over-https-url-custom =
     .label = Momba’epyre
-    .accesskey = C
     .tooltiptext = Emoinge nde URL erohoryvéva emoĩpora hag̃ua DNS HTTPS rehegua
-connection-dns-over-https-custom-label = Ñemomba’epyre
+    .accesskey = C

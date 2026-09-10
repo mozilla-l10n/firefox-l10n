@@ -29,15 +29,11 @@ pdfjs-last-page-button =
     .title = Op déi lescht Säit goen
 pdfjs-last-page-button-label = Op déi lescht Säit goen
 
-## Tooltips and alt text for side panel toolbar buttons
-
-pdfjs-thumbs-button-label = Miniaturen
-
 ## Find panel button title and messages
 
 pdfjs-find-input =
-    .title = Sichen
     .placeholder = Am Dokument fannen…
+    .title = Sichen
 pdfjs-find-previous-button-label = Vireg
 
 ## Password

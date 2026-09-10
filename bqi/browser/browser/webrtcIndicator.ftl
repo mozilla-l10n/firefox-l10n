@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } — شاخس یک رسۊوی
-webrtc-indicator-window =
-    .title = { -brand-short-name } — شاخس یک رسۊوی
 
 ## Used as list items in sharing menu
 
@@ -47,10 +45,6 @@ webrtc-minimize =
 
 webrtc-indicator-menuitem-control-sharing =
     .label = دؽوۉداری یک رسۊوی
-
-##
-
-webrtc-share-screen-learn-more = قلوه دووسته بۊین
 
 ## These buttons are the possible answers to the various prompts in the "webrtc-allow-share-*" strings.
 

@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Tik'ut pan Ilob'äl
            *[other] Tik'ut pa Molyab'äl
         }
-downloads-cmd-show-downloads =
-    .label = Tik'ut pe Kiyakwuj taq Qasanïk
 downloads-cmd-retry =
     .tooltiptext = Titojtob'ëx chik
 downloads-cmd-retry-panel =

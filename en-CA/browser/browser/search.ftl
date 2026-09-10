@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Your default search engine has been changed.</strong> { $oldEngine } is no longer available as a default search engine in { -brand-short-name }. { $newEngine } is now your default search engine. To change to another default search engine, go to settings. <label data-l10n-name="remove-search-engine-article">Learn more</label>
 removed-search-engine-message2 = <strong>Your default search engine has been changed.</strong> { $oldEngine } is no longer available as a default search engine in { -brand-short-name }. { $newEngine } is now your default search engine. To change to another default search engine, go to settings.
 remove-search-engine-button = OK
 
@@ -52,11 +51,11 @@ install-search-engine-no = No
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Add Search Engine
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Edit Search Engine
     .style = min-width: 32em;
+    .title = Edit Search Engine
 add-engine-button = Add Custom Engine
 add-engine-name = Search engine name
 add-engine-url2 = URL with %s in place of search term
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Try including %s in place of the search ter
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Add Engine
-    .buttonaccesskeyaccept = A
     .buttonlabelextra1 = Advanced
+    .buttonaccesskeyaccept = A
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Save Engine
-    .buttonaccesskeyaccept = S
     .buttonlabelextra1 = Advanced
+    .buttonaccesskeyaccept = S

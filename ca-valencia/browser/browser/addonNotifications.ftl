@@ -26,22 +26,10 @@ xpinstall-prompt-never-allow =
 xpinstall-prompt-install =
     .label = Continua la instal·lació
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = L'administrador del sistema ha inhabilitat la instal·lació de programari.
 xpinstall-disabled = Actualment la instal·lació de programari està inhabilitada. Feu clic a Habilita i torneu-ho a provar.
 xpinstall-disabled-button =
     .label = Habilita
     .accesskey = H
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = L'administrador del sistema ha blocat { $addonName } ({ $addonId }).
 addon-install-full-screen-blocked = No es permet instal·lar cap complement mentre estigueu en el mode de pantalla completa, o abans d'entrar-hi.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -55,9 +43,6 @@ webext-perms-update-menu-item = { $addonName } requereix permisos nous
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Voleu eliminar { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Voleu eliminar «{ $name }» del { -brand-shorter-name }?
 addon-removal-button = Elimina
 addon-removal-abuse-report-checkbox = Informeu d'esta extensió a { -vendor-short-name }
 # Variables:
@@ -109,4 +94,3 @@ addon-local-install-error-not-signed = No es pot instal·lar este complement per
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = No s'ha pogut instal·lar el complement «{ $addonName }» perquè no és compatible amb el { -brand-short-name } { $appVersion }.
-addon-install-error-blocklisted = No s'ha pogut instal·lar el complement { $addonName } perquè té un risc elevat de provocar problemes d'estabilitat o de seguretat.

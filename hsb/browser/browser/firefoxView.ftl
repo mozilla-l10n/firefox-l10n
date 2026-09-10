@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Najnowše přehladowanje přez wokna a graty pokazać
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Začinić
-    .aria-label = Začinić
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Runje
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Synchronizowane rajtarki
-firefoxview-tabpickup-description = Wočińće strony z druhich gratow.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue } % dokónčene
-firefoxview-tabpickup-step-signin-header = Přeńdźće bjezposrědnje mjez gratami
-firefoxview-tabpickup-step-signin-description = Zo byšće tu rajtarki swojeho šmóratka dóstał, přizjewće so najprjedy abo załožće konto.
-firefoxview-tabpickup-step-signin-primarybutton = Dale
 firefoxview-syncedtabs-signin-header-2 = Waš { -brand-product-name } na wšěch wašich gratach
 firefoxview-syncedtabs-signin-description-2 = Zo byšće swoje wočinjene rajtarki na swojim telefonje a druhich gratach widźał, přizjewće so abo registrujće so za konto. Z kontom móžeće tež swoje hesła, swoju historiju a wjace synchronizować.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Direktnje z laptopa do telefona
 firefoxview-syncedtabs-signin-description-3 = Wostańće ze swojim přehladowanjom na wšěch gratach zwjazany – rajtarki, hesła a historija, wšitko w synchronizaciji.
 firefoxview-syncedtabs-signin-primarybutton-2 = Přizjewić
-firefoxview-tabpickup-adddevice-header = Synchronizujće { -brand-product-name } na swojim telefonje abo tableće
-firefoxview-tabpickup-adddevice-description = Sćehńće { -brand-product-name } za mobilne graty a přizjewće so tam.
-firefoxview-tabpickup-adddevice-learn-how = Zhońće kak
-firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } za mobilny grat wobstarać
 firefoxview-syncedtabs-adddevice-header-2 = Wobstarajće sej rajtarki wot wšudźe
 firefoxview-syncedtabs-adddevice-description-2 = Přizjewće pola { -brand-product-name } na swojim telefonje abo druhim ličaku, zo byšće rajtarki tu widźał. Zhońće, kak móžeće <a data-l10n-name="url">přidatne graty zwjazać</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Wupruwujće { -brand-product-name } za mobilny grat
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Waše rajtarki su so wotwołali. Su na wašim telefonje.
 firefoxview-syncedtabs-adddevice-description-3 = Skenujće QR-kod, zo byšće { -brand-product-name } za swój mobilny telefon dóstał a synchronizujće swoje wočinjene rajtarki a wjace. Zhońće, kak móžeće <a data-l10n-name="url">přidatne graty zwjazać</a>.
-firefoxview-tabpickup-synctabs-header = Synchronizaciju rajtarkow zmóžnić
-firefoxview-tabpickup-synctabs-description = { -brand-short-name } dowolić, rajtarki mjez gratami dźělić.
-firefoxview-tabpickup-synctabs-learn-how = Zhońće kak
 firefoxview-tabpickup-synctabs-primarybutton = Wočinjene rajtarki synchronizować
 firefoxview-tabpickup-synctabs-primarybutton-2 = Synchronizaciju rajtarkow zmóžnić
 firefoxview-syncedtabs-synctabs-header = Aktualizujće swoje synchronizaciske nastajenja
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Hdyž to je dokónčene, budźeće 
 firefoxview-syncedtabs-loading-header-2 = Waše rajtarki so wobstaruja…
 firefoxview-syncedtabs-loading-description-2 = Synchronizacija běži. Rajtarki budu bórze tu.
 firefoxview-tabpickup-fxa-admin-disabled-header = Waša organizacija je synchronizaciju znjemóžniła
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } njemóže rajtarki mjez gratami synchronizować, dokelž waš administrator je synchronizowanje znjemóžnił.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } njemóže rajtarki mjez gratami synchronizować, dokelž waša organizacija je synchronizowanje znjemóžniła.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Synchronizacija rajtarkow je znjemóžnjena
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Waša organizacija je tutu funkciju zablokowała.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Wotblokujće rajtarki ze swojim hłownym hesłom
 firefoxview-tabpickup-password-locked-description-2 = Synchronizowane rajtarki so za wašu priwatnosć škitaja. Zapodajće swoje hłowne hesło { -brand-short-name }, zo byšće rajtarki ze swojich druhich gratow widźał.
 firefoxview-tabpickup-signed-out-header = Přizjewće so, zo byšće zaso zwjazał
-firefoxview-tabpickup-signed-out-description = Zo byšće so zaso zwjazował a přistup k swojim rajtarkam měł, přizjewće so pola swojeho { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Zo byšće so zaso zwjazował a přistup k swojim rajtarkam měł, přizjewće so pola swojeho konta.
 firefoxview-tabpickup-signed-out-primarybutton = Přizjewić
 firefoxview-tabpickup-signed-out-header-2 = Přizjewće so, zo byšće swoje rajtarki widźał
 firefoxview-tabpickup-signed-out-description-2 = Zwjazajće znowa, zo byšće rajtarki z druhich gratow pokazał.
-firefoxview-tabpickup-syncing = Wočakajće, mjeztym zo so waše rajtarki synchronizuja. Budźe jenož wokomik trać.
-firefoxview-mobile-promo-header = Wobstarajće sej rajtarki ze swojeho šmóratka abo tableta
-firefoxview-mobile-promo-description = Zo byšće sej swoje najnowše mobilne rajtarki wobhladował, přizjewće so pola { -brand-product-name } na iOS abo Android.
-firefoxview-mobile-promo-primarybutton = { -brand-product-name } za mobilny grat wobstarać
-firefoxview-mobile-confirmation-header = 🎉 Wšitko hotowe!
-firefoxview-mobile-confirmation-description = Nětko móžeće swoje rajtarki { -brand-product-name } ze swojeho tableta abo šmóratka wobstarać.
-firefoxview-closed-tabs-title = Njedawno začinjene
-firefoxview-closed-tabs-description2 = Wočińće strony znowa, kotrež sće w tutym woknje začinił.
-firefoxview-closed-tabs-placeholder-header = Žane runje začinjene rajtarki
-firefoxview-closed-tabs-placeholder-body = Hdyž w tutym woknje rajtark začinjeće, móžeće jón wottud wuwołać.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = { $tabTitle } zaćisnyć
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Posledni raz aktiwny
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = { $targetURI } w nowym rajtarku wočinić
-firefoxview-try-colorways-button = Barbowe kombinacije wupruwować
-firefoxview-change-colorway-button = Barbowu kombinaciju změnić
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Hišće ničo njeje widźeć
-firefoxview-synced-tabs-placeholder-body = Přichodny raz, hdyž stronu w { -brand-product-name } na druhim graće wočinjeće, mějće přistup k njej kaž wot njewidźomneje ruki.
 firefoxview-collapse-button-show =
     .title = Lisćinu pokazać
 firefoxview-collapse-button-hide =

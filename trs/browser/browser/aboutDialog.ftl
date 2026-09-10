@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Hìaj naninj sa nakàa<label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Hìaj nadunin sa nākà doj — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Hìaj naninj sa nakàa{ $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Hìaj nagi'iaj nakàj sa naduninjt
 update-failed = Guire’ sa nagui’iaj naka. <label data-l10n-name="failed-link">Naduninj sa naka doj</label>
 update-failed-main = Guire’ sa nagui’iaj naka. <a data-l10n-name="failed-link-main">Naduninj sa naka doj</a>
-update-adminDisabled = Su' 'nïnj ra'a aga' sikà' rà na ni duyichin' si daran' sa nahuin nakàa
 update-policy-disabled = Giyichin’ sa nāhuin nākàa ‘hiaj ‘ngō yi’nïn’ïn
 settings-update-policy-disabled =
     .label = Giyichin’ sa nāhuin nākàa ‘hiaj ‘ngō yi’nïn’ïn
@@ -71,8 +69,6 @@ helpus = ¿ruguñu'unjt ruhuâ raj?<label data-l10n-name="helpus-donateLink">Gà
 bottomLinks-license = Nuguan’ da’ui guini’in
 bottom-links-terms = Chrēj gānikò’t da’ gā’hue gārasunt
 bottom-links-privacy = Notisia huìi
-bottomLinks-rights = Si suntuj ne’ araj sun
-bottomLinks-privacy = Sa gara yino’
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

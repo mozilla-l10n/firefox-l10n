@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = ಹೊಸ ಹಾಳೆ
-newtab-settings-button =
-    .title = ಹೊಸ ಹಾಳೆಯ ಪುಟವನ್ನು ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸಿ
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -35,7 +33,6 @@ newtab-search-box-search-button =
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
-newtab-topsites-edit-topsites-header = ಅಗ್ರ ತಾಣಗಳನ್ನು ಸಂಪಾದಿಸಿ
 newtab-topsites-title-label = ಶೀರ್ಷಿಕೆ
 newtab-topsites-title-input =
     .placeholder = ಶೀರ್ಷಿಕೆಯನ್ನು ನಮೂದಿಸಿ
@@ -63,10 +60,6 @@ newtab-confirm-delete-history-p2 = ಈ ಕಾರ್ಯವನ್ನು ರದ್�
 newtab-menu-section-tooltip =
     .aria-label = ಮೆನು ತೆರೆ
     .title = ಮೆನು ತೆರೆ
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = ಈ ತಾಣವನ್ನು ಸಂಪಾದಿಸು
-    .title = ಈ ತಾಣವನ್ನು ಸಂಪಾದಿಸು
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -77,9 +70,6 @@ newtab-menu-dismiss = ವಜಾಗೊಳಿಸು‍
 newtab-menu-pin = ಪಿನ್
 newtab-menu-unpin = ಅನ್‌ಪಿನ್
 newtab-menu-delete-history = ಇತಿಹಾಸದಿಂದ ಅಳಿಸು‍
-newtab-menu-save-to-pocket = { -pocket-brand-name } ಗೆ ಉಳಿಸಿ‍
-newtab-menu-delete-pocket = { -pocket-brand-name } ನಿಂದ ಅಳಿಸಿ
-newtab-menu-archive-pocket = { -pocket-brand-name } ಆರ್ಕೈವ್ ಮಾಡಿ
 
 ##
 
@@ -116,33 +106,13 @@ newtab-label-recommended = ಪ್ರಚಲಿತ
 newtab-label-saved = { -pocket-brand-name } ನಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ
 newtab-label-download = ಡೌನ್ಲೋಡ್ ಮಾಡಲಾಗಿದೆ
 
-## Section Menu: These strings are displayed in the section context menu and are
-## meant as a call to action for the given section.
-
-newtab-section-menu-remove-section = ವಿಭಾಗವನ್ನು ತೆಗೆದುಹಾಕಿ
-newtab-section-menu-collapse-section = ವಿಭಾಗವನ್ನು ಸಂಕುಚಿಸಿ
-newtab-section-menu-expand-section = ವಿಭಾಗ ವಿಸ್ತರಿಸಿ
-newtab-section-menu-manage-section = ವಿಭಾಗವನ್ನು ನಿರ್ವಹಿಸಿ
-newtab-section-menu-manage-webext = ವಿಸ್ತರಣೆಯನ್ನು ನಿರ್ವಹಿಸಿ
-newtab-section-menu-move-up = ಮೇಲೆ ಜರುಗಿಸು
-newtab-section-menu-move-down = ಕೆಳಗೆ ಜರುಗಿಸು
-
 ## Section Headers.
 
 newtab-section-header-topsites = ಪ್ರಮುಖ ತಾಣಗಳು
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } ರಿಂದ ಶಿಫಾರಸುಮಾಡುಲಾಗಿದೆ
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ವೀಕ್ಷಣೆ ಮಾಡಲು ಶುರುಮಾಡಿ, ಮತ್ತು ನಾವು ಇತ್ತೀಚೆಗೆ ಭೇಟಿ ನೀಡಿದ ಅಥವಾ ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡಲಾದ ಕೆಲವು ಶ್ರೇಷ್ಠ ಲೇಖನಗಳು, ವೀಡಿಯೊಗಳು ಮತ್ತು ಇತರ ಪುಟಗಳನ್ನು ನಾವು ತೋರಿಸುತ್ತೇವೆ.
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = ಜನಪ್ರಿಯವಾದ ವಿಷಯಗಳು:
-newtab-pocket-cta-button = { -pocket-brand-name } ಪಡೆಯಿರಿ
 
 ## Strings for the Clock widget
 

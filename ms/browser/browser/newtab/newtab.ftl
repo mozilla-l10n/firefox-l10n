@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Tab Baru
-newtab-settings-button =
-    .title = Sesuaikan halaman Tab Baru anda
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -47,7 +45,6 @@ newtab-search-box-search-button =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = Tambah Enjin Carian
-newtab-topsites-edit-topsites-header = Edit Laman Teratas
 newtab-topsites-title-label = Tajuk
 newtab-topsites-title-input =
     .placeholder = Masukkan tajuk
@@ -86,10 +83,6 @@ newtab-menu-section-tooltip =
 newtab-menu-content-tooltip =
     .aria-label = Buka menu konteks untuk { $title }
     .title = Buka menu
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Edit laman ini
-    .title = Edit laman ini
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -100,9 +93,6 @@ newtab-menu-dismiss = Abai
 newtab-menu-pin = Pin
 newtab-menu-unpin = Nyahpin
 newtab-menu-delete-history = Buang daripada Sejarah
-newtab-menu-save-to-pocket = Simpan ke { -pocket-brand-name }
-newtab-menu-delete-pocket = Buang dari { -pocket-brand-name }
-newtab-menu-archive-pocket = Arkib dalam { -pocket-brand-name }
 
 ##
 
@@ -142,39 +132,15 @@ newtab-label-download = Telah dimuat turun
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Buang Seksyen
-newtab-section-menu-collapse-section = Runtuhkan Seksyen
-newtab-section-menu-expand-section = Kembangkan Seksyen
-newtab-section-menu-manage-section = Urus Seksyen
-newtab-section-menu-manage-webext = Urus Ekstensi
-newtab-section-menu-add-topsite = Tambah Laman Teratas
-newtab-section-menu-add-search-engine = Tambah Enjin Carian
-newtab-section-menu-move-up = Pindah Atas
-newtab-section-menu-move-down = Pindah Bawah
 newtab-section-menu-privacy-notice = Notis Privasi
 
 ## Section Headers.
 
 newtab-section-header-topsites = Laman Teratas
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Disyorkan oleh { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Mulakan melayar dan kami akan paparkan beberapa artikel, video dan halaman menarik lain yang sudah anda layari dan tandabuku di sini.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Anda sudah di sini. Tapi sila datang lagi untuk mendapatkan lebih banyak berita hangat daripada { $provider }. Tidak boleh tunggu? Pilih topik untuk mendapatkannya dari serata dunia.
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Topik Popular:
-newtab-pocket-more-recommendations = Saranan Lain
-newtab-pocket-cta-button = Dapatkan { -pocket-brand-name }
-newtab-pocket-cta-text = Simpan cerita yang anda suka dalam { -pocket-brand-name } dan jana minda dengan bahan bacaan yang menarik.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

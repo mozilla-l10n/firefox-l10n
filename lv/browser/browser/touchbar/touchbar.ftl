@@ -31,4 +31,3 @@ search-bookmarks = Grāmatzīmēs
 search-history = Vēsturē
 search-opentabs = Atvērtajās cilnēs
 search-tags = Tagos
-search-titles = Virsrakstos

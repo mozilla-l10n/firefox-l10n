@@ -21,10 +21,6 @@ security-software-name = نام
 security-software-antivirus = اینٹی وائرس
 security-software-antispyware = اینٹی سپائویر
 security-software-firewall = فایروال
-features-title = { -brand-short-name } فیچر
-features-name = نام
-features-version = ورژن
-features-id = ID
 processes-title = بعیدی عمل
 processes-type = قسم
 processes-count = شمار
@@ -40,7 +36,6 @@ app-basics-profile-dir =
         [linux] پروفائل ڈائریکٹری
        *[other] پروفائل فولڈر
     }
-app-basics-enabled-plugins = چالو پلگ ان
 app-basics-build-config = بلڈ تشکیل
 app-basics-user-agent = صارف ایجنٹ
 app-basics-os = OS
@@ -62,9 +57,6 @@ show-dir-label =
     }
 environment-variables-name = نام
 environment-variables-value = قدر
-experimental-features-title = تجرباتی فیچر
-experimental-features-name = نام
-experimental-features-value = قدر
 modified-key-prefs-title = اہم ترمیمی ترجیحات
 modified-prefs-name = نام
 modified-prefs-value = قدر

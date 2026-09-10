@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Eike Window ovetã Ñemíme
     .accesskey = P
 about-private-browsing-search-placeholder = Eheka ñandutípe
-about-private-browsing-info-title = Eikehína ovetã ñemíme
 about-private-browsing-search-btn =
     .title = Eheka ñandutípe
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Eheka { $engine } ndive térã emoinge kundaharape
 about-private-browsing-handoff-text-no-engine = Eheka térã ehai kundaharape
 about-private-browsing-not-private = Ko’ag̃aite nereiméi peteĩ ovetã ñemíme.
-about-private-browsing-info-description-private-window = Ovetã ñemiguáva { -brand-short-name } ombogue jeheka rembiasakue ha ñeikundaha embotypa vove opaite ovetã ñemiguáva. Kóva noñomíri apoharépe.
-about-private-browsing-info-description-simplified = { -brand-short-name } ombogue jeheka rembiasakue ha ñeikundaha embotypávo ovetãnguéra ñemigua, hákatu kóva noñomíri apoharépe.
-about-private-browsing-learn-more-link = Kuaave
 about-private-browsing-hide-activity = Eñomi tembiapo ha tendaite, oimeraẽva tenda eikundahahápe
 about-private-browsing-get-privacy = Erekóke ñemigua ñemo’ã eikundaha vove
 about-private-browsing-hide-activity-1 = Eñomi ñeikundaha rapykuere ha tendaite { -mozilla-vpn-brand-name } ndive. Eikutúvo emoheñóita jeike katu, oĩhápe Wi-Fi opavave oiporukuaáva.
@@ -29,8 +25,6 @@ about-private-browsing-prominent-cta = Eiko tekoñemíme { -mozilla-vpn-brand-na
 about-private-browsing-focus-promo-cta = Emboguejy { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Ñeikundaha ñemi pya’eháicha
 about-private-browsing-focus-promo-text = Ore pumbyry rembiporu’i rojapóva oñeikundaha ñemi hag̃ua ombogue ijehegui tembiasakue ha kookie.
-about-private-browsing-focus-promo-header-b = Eguerova kundahára ñemi ne pumbyrýpe
-about-private-browsing-focus-promo-text-b = Eiporu { -focus-brand-name } jeheka ñemiguarã epota’ỹva ohecha ne kundahára pumburygua eiporuvéva.
 about-private-browsing-focus-promo-header-c = Tekoñemi tenondeve gotyo pumbyrýpe
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } ombogue ne rembiasakue omboykévo maranduñemurã térã tapykuehoha.
 # This string is the title for the banner for search engine selection
@@ -66,11 +60,6 @@ about-private-browsing-relay-promo-link-text = Eiporu ñanduti veve rovamo’ãh
 
 ## Strings used in a promotion message for cookie banner reduction
 
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = ¡Opáma kookie maranduñemurã!
-about-private-browsing-cookie-banners-promo-button = Emomichĩ kookie maranduñemurã
-about-private-browsing-cookie-banners-promo-message = Eheja { -brand-short-name } tombohovái ijehegui umi kookie rovetã iñapysẽva ikatu hag̃uáicha eikundaha apañuai’ỹre. { -brand-short-name } omboykéta opaite mba’ejerure ikatúma guive.
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } ojapyhy umi banner kookie rehegua nde rérape

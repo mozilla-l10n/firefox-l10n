@@ -10,9 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = ¿Nutàt { $extension } aj?
 webext-perms-sideload-header = { $extension } 'ngà nuta' ma
-webext-perms-optional-perms-header = { $extension } gàchinj ni'io' doj.
 
 ##
 
@@ -45,21 +43,5 @@ webext-perms-host-description-all-urls = Gatū riña nej si datôt guendâ daran
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Gatū riña nej si datôt guendâ daran’ nej sitio un riña { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Gatū riña nej si datôt riña { $domainCount } a’ngô dminio
-       *[other] Gatū riña nej si datôt riña { $domainCount } a’ngô nej dominio
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Gatū riña nej si datôt guendâ { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Gatū riña nej si datôt riña { $domainCount } a’ngô sitio
-       *[other] Gatū riña nej si datôt riña { $domainCount } a’ngô nej sitio
-    }

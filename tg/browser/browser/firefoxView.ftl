@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Дидани таърихи тамошои охирин дар ҳамаи равзанаҳо ва дастгоҳҳои худ
@@ -16,40 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Пӯшидан
-    .aria-label = Пӯшидан
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Ҳоли ҳозир
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Интихоби варақа
-firefoxview-tabpickup-description = Кушодани саҳифаҳо аз дастгоҳҳои дигар.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% иҷро шуд
-firefoxview-tabpickup-step-signin-header = Байни дастгоҳҳо бе халал гузаред
-firefoxview-tabpickup-step-signin-description = Барои аз ин ҷо ба даст овардани варақаҳои браузери телефони худ, аввал ворид шавед ё ҳисоберо эҷод намоед.
-firefoxview-tabpickup-step-signin-primarybutton = Идома додан
 firefoxview-syncedtabs-signin-header-2 = «{ -brand-product-name }»-и шумо дар ҳамаи дастгоҳҳои шумо
 firefoxview-syncedtabs-signin-description-2 = Барои дидани варақаҳое, ки шумо дар телефон ва дастгоҳҳои дигари худ кушодаед, ба ҳисоби худ ворид шавед ё ҳисоберо эҷод намоед. Ба воситаи ҳисоб шумо, инчунин, метавонед ниҳонвожаҳо, таърихи тамошо ва чизҳои дигарро ҳамоҳанг созед.
 firefoxview-syncedtabs-signin-primarybutton-2 = Ворид шудан
-firefoxview-tabpickup-adddevice-header = Ҳамоҳангсозии { -brand-product-name } дар телефон ва планшет
-firefoxview-tabpickup-adddevice-description = Браузери «{ -brand-product-name }»-ро барои телефони моболии худ боргирӣ кунед ва дар он ҷо ворид шавед.
-firefoxview-tabpickup-adddevice-learn-how = Бифаҳмед, ки чӣ тавр
-firefoxview-tabpickup-adddevice-primarybutton = Браузери «{ -brand-product-name }»-ро дар телефони мобилии худ насб кунед
 firefoxview-syncedtabs-adddevice-header-2 = Варақаҳоро аз ҷойҳои дилхоҳ ба даст оред
 firefoxview-syncedtabs-adddevice-description-2 = Барои дидани варақаҳо дар ин ҷой, ба «{ -brand-product-name }» дар телефон ё компютери дигари худ ворид шавед. Маълумот гиред, ки чӣ тавр метавонед <a data-l10n-name="url">дастгоҳҳои иловагиро пайваст намоед</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Браузери «{ -brand-product-name }»-ро барои дастгоҳи мобилӣ кӯшиш кунед
-firefoxview-tabpickup-synctabs-header = Фаъол кардани ҳамоҳангсозӣ варақаҳо
-firefoxview-tabpickup-synctabs-description = Иҷозат диҳед, ки «{ -brand-short-name }» варақаҳоро байни дастгоҳҳо мубодила кунад.
-firefoxview-tabpickup-synctabs-learn-how = Бифаҳмед, ки чӣ тавр
 firefoxview-tabpickup-synctabs-primarybutton = Ҳамоҳангсозии варақаҳои кушодашуда
 firefoxview-syncedtabs-synctabs-header = Танзимоти ҳамоҳангсозиро навсозӣ кунед
 firefoxview-syncedtabs-synctabs-description = Барои дидани варақаҳои худ аз дастгоҳҳои дигар, шумо бояд варақаҳои кушодаи худро ҳамоҳанг созед.
 firefoxview-syncedtabs-loading-header = Дар ҳоли ҳамоҳангсозӣ
 firefoxview-syncedtabs-loading-description = Вақте ки раванд ба анҷом мерасад, шумо ҳамаи варақаҳоеро, ки дар дастгоҳҳои дигар кушодаед, дар ин ҷой мебинед. Ба наздикӣ ба ин ҷой баргардед.
 firefoxview-tabpickup-fxa-admin-disabled-header = Ташкилоти шумо имкони ҳамоҳангсозиро ғайрифаъол кард
-firefoxview-tabpickup-fxa-admin-disabled-description = «{ -brand-short-name }» наметавонад, ки варақаҳоро байни дастгоҳҳо ҳамоҳанг кунад, зеро ки маъмури шумо имкони ҳамоҳангсозиро ғайрифаъол кард.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = «{ -brand-short-name }» наметавонад, ки варақаҳоро байни дастгоҳҳо ҳамоҳанг кунад, зеро ки ташкилоти шумо имкони ҳамоҳангсозиро ғайрифаъол кард.
 firefoxview-tabpickup-network-offline-header = Пайвастшавии Интернети худро тафтиш кунед
 firefoxview-tabpickup-network-offline-description = Агар шумо аз девори оташ (firewall) ё прокси (proxy) истифода баред, мутмаин шавед, ки браузери «{ -brand-short-name }» барои пайдо кардани дастрасӣ ба Интернет иҷозат дорад.
@@ -66,37 +43,16 @@ firefoxview-tabpickup-password-locked-link = Маълумоти бештар
 firefoxview-tabpickup-password-locked-primarybutton = Ниҳонвожаи асосии худро ворид кунед
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Маълумоти бештар</a>
 firefoxview-tabpickup-signed-out-header = Барои аз нав пайваст шудан ворид шавед
-firefoxview-tabpickup-signed-out-description = Барои аз нав пайваст шудан ва ба даст овардани варақаҳои худ, ба ҳисоби худ дар «{ -fxaccount-brand-name }» ворид шавед.
 firefoxview-tabpickup-signed-out-description2 = Барои аз нав пайваст шудан ва ба даст овардани варақаҳои худ, ба ҳисоби худ ворид шавед.
 firefoxview-tabpickup-signed-out-primarybutton = Ворид шудан
-firefoxview-tabpickup-syncing = Интизор шавед, варақаҳои шумо ҳамоҳанг шуда истодаанд. Онҳо пас аз чанд лаҳза дастрас мешаванд.
-firefoxview-mobile-promo-header = Варақаҳоро аз телефон ё планшети худ ба даст оред
-firefoxview-mobile-promo-description = Барои дидани варақаҳои охирин аз телефони мобилии худ, дар iOS ё Android ба { -brand-product-name } ворид шавед.
-firefoxview-mobile-promo-primarybutton = Браузери «{ -brand-product-name }»-ро дар телефони мобилии худ насб кунед
-firefoxview-mobile-confirmation-header = 🎉 Ҳамааш омода аст!
-firefoxview-mobile-confirmation-description = Акнун шумо метавонед варақаҳои худро дар браузери «{ -brand-product-name }» аз телефон ё планшети худ ба даст оред.
-firefoxview-closed-tabs-title = Пӯшидашудаи охирин
-firefoxview-closed-tabs-description2 = Аз нав кушодани ҳамаи варақаҳое, ки шумо дар ин равзана маҳкам кардед.
-firefoxview-closed-tabs-placeholder-header = Ягон варақаи ба наздикӣ пӯшидашуда нест
-firefoxview-closed-tabs-placeholder-body = Вақте ки шумо варақаеро дар ин равзана мепӯшед, шумо метавонед онро аз ин ҷо барқарор кунед.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Қатъ гардонидани { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Фаъолонаи охирин
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Кушодани { $targetURI } дар варақаи нав
-firefoxview-try-colorways-button = Нақшу нигорҳоро озмоед
-firefoxview-change-colorway-button = Иваз кардани нақшу нигор
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = То ҳол барои дадан ягон чиз нест
-firefoxview-synced-tabs-placeholder-body = Вақте ки шумо бори дигар саҳифаеро дар «{ -brand-product-name }» аз дастгоҳи дигар мекушоед, онро дар ин ҷо соҳирона ба даст оред.
 firefoxview-collapse-button-show =
     .title = Намоиш додани рӯйхат
 firefoxview-collapse-button-hide =

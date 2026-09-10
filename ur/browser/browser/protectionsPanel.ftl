@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-protections-panel-sendreportview-error = رپورٹ ارسال کرنے میں ایک خامی تھی۔ براہ کرم کچھ دیر بعد کوشش کریں.
-# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
-protections-panel-sitefixedsendreport-label = سائٹ ٹھیک ہو گی؟ رپورٹ ارسال کریں
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -19,11 +16,6 @@ protections-popup-footer-protection-label-standard = معیاری
 ##
 
 protections-panel-etp-off-header = ٹریکنگ سے بہتر تحفظ اس سائٹ کے لیئے بند ہے
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = سائٹ کام نہیں کررہی ہے؟
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = سائٹ کام نہیں کررہا ہے؟
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -50,41 +42,10 @@ protections-panel-not-found-label = کچھ بھی نہیں ملا
 ##
 
 protections-panel-settings-label = تحفظ کی سیٹنگز
-
-## In the Site Not Working? view, we suggest turning off protections if
-## the user is experiencing issues with any of a variety of functionality.
-
-# The header of the list
-protections-panel-site-not-working-view-header = اگر آپ کو پریشانی ہو رہی ہے تو تحفظات کو بند کردیں:
-# The list items, shown in a <ul>
-protections-panel-site-not-working-view-issue-list-login-fields = لاگ ان قطئے
-protections-panel-site-not-working-view-issue-list-forms = فارم
-protections-panel-site-not-working-view-issue-list-payments = ادائیگیاں
-protections-panel-site-not-working-view-issue-list-comments = تبصرہ
-protections-panel-site-not-working-view-issue-list-videos = ویڈیوز
-protections-panel-site-not-working-view-send-report = ایک رپورٹ ارسال کریں
-
-##
-
 protections-panel-description-shim-allowed-learn-more = مزید سیکھیں
 protections-panel-content-blocking-manage-settings =
     .label = تحفظ کی سیٹنگز کو منظم کریں
     .accesskey = M
-protections-panel-content-blocking-breakage-report-view =
-    .title = ٹوٹی ہوئی سائٹ کی رپورٹ کریں
-protections-panel-content-blocking-breakage-report-view-collection-url = URL
-protections-panel-content-blocking-breakage-report-view-collection-url-label =
-    .aria-label = URL
-protections-panel-content-blocking-breakage-report-view-collection-comments = اختیاری: مسئلہ بیان کریں
-protections-panel-content-blocking-breakage-report-view-collection-comments-label =
-    .aria-label = اختیاری: مسئلہ بیان کریں
-protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = منسوخ کریں
-protections-panel-content-blocking-breakage-report-view-send-report =
-    .label = رپورٹ ارسال کریں
-
-# Cookie Banner Handling
-
 
 ## Protections panel info message
 

@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = ਇੰਸਟਾਲੇਸ਼ਨ ਜਾਰੀ ਰੱਖੋ
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = ਇਹ ਸਾਈਟ ਤੁਹਾਡੇ MIDI (ਮਿਊਜ਼ਕਲ ਇੰਸਟਰੂਮੈਂਟ ਡਿਜ਼ਿਟਲ ਇੰਟਰਫ਼ੇਸ) ਡਿਵਾਈਸਾਂ ਲਈ ਪਹੁੰਚ ਦੀ ਮੰਗ ਕਰ ਰਹੀ ਹੈ। ਡਿਵਾਈਸ ਪਹੁੰਚ ਨੂੰ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਕੇ ਸਮਰੱਥ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
 site-permission-install-first-prompt-midi-message = ਇਹ ਪਹੁੰਚ ਦੀ ਸੁਰੱਖਿਅਤ ਹੋਣ ਦੀ ਗਾਰੰਟੀ ਨਹੀਂ ਹੈ। ਜੇ ਤੁਹਾਨੂੰ ਇਸ ਸਾਈਟ ਉੱਤੇ ਭਰੋਸਾ ਹੈ ਤਾਂ ਹੀ ਜਾਰੀ ਰੱਖਿਓ।
 site-permission-install-first-prompt-serial-header = ਇਹ ਸਾਈਟ ਤੁਹਾਡੇ ਸੀਰੀਅਲ ਡਿਵਾਈਸ ਲਈ ਪਹੁੰਚ ਮੰਗ ਰਹੀ ਹੈ। ਡਿਵਾਈਸ ਪਹੁੰਚ ਨੂੰ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਕੇ ਸਮਰੱਥ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
 site-permission-install-first-prompt-serial-message = ਇਹ ਪਹੁੰਚ ਦੀ ਸੁਰੱਖਿਅਤ ਹੋਣ ਦੀ ਗਾਰੰਟੀ ਨਹੀਂ ਹੈ। ਜੇ ਤੁਹਾਨੂੰ ਇਸ ਸਾਈਟ ਉੱਤੇ ਭਰੋਸਾ ਹੈ ਤਾਂ ਹੀ ਜਾਰੀ ਰੱਖਿਓ।
-
-##
-
-xpinstall-disabled-locked = ਸਾਫਟਵੇਅਰ ਦੀ ਇੰਸਟਾਲੇਸ਼ਨ ਤੁਹਾਡੇ ਸਿਸਟਮ ਪਰਸ਼ਾਸ਼ਕ ਨੇ ਸਮਰੱਥ ਕੀਤੀ ਹੋਈ ਹੈ।
 xpinstall-disabled-by-policy = ਸਾਫਟੇਅਰ ਇੰਸਟਾਲੇਸ਼ਨ ਨੂੰ ਤੁਹਾਡੇ ਸੰਗਠਨ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਜਾ ਚੁੱਕਾ ਹੈ।
 xpinstall-disabled = ਸਾਫਟਵੇਅਰ ਦੀ ਇੰਸਟਾਲੇਸ਼ਨ ਇਸ ਸਮੇਂ ਅਸਮਰੱਥ ਹੈ। ਸਮਰੱਥ ਨੂੰ ਕਲਿੱਕ ਕਰਕੇ ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 xpinstall-disabled-button =
     .label = ਸਮਰੱਥ ਕਰੋ
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ‘ਤੇ ਤੁਹਾਡੇ ਸਿਸਟਮ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਪਾਬੰਦੀ ਲਾਈ ਹੈ।
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = ਤੁਹਾਡੇ ਸਿਸਟਮ ਪਰਸ਼ਾਸ਼ਕ ਨੇ ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਇਸ ਸਾਈਟ ਤੋਂ ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲ ਕਰਨ ਤੋਂ ਪੁੱਛਣ ਤੇ ਰੋਕ ਲਾਈ ਹੈ।
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = { -brand-short-name } ਲਈ ਦਰਾਮਦ ਕੀਤ�
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = { $name } ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = { $name } ਨੂੰ { -brand-shorter-name } ਵਿੱਚੋਂ ਹਟਾਉਣਾ ਹੈ?
 addon-removal-button = ਹਟਾਓ
 addon-removal-abuse-report-checkbox = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਬਾਰੇ { -vendor-short-name } ਨੂੰ ਰਿਪੋਰਟ ਦਿਓ
 # "it" refers to the local AI model that is paired to the AI feature
@@ -139,7 +122,5 @@ addon-local-install-no-addon-name-error-file-access = { -brand-short-name } ਵ�
 addon-install-error-incompatible = { $addonName } ਨੂੰ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ ਕਿਉਂਕਿ ਇਹ { -brand-short-name } { $appVersion } ਲਈ ਢੁੱਕਵੀਂ ਨਹੀਂ ਹੈ।
 addon-install-error-hard-blocked = { $addonName } ਨੇ Mozilla ਦੀਆਂ ਪਾਲਸੀਆਂ ਦੀ ਉਲੰਘਣਾ ਕੀਤੀ ਹੈ ਅਤੇ ਇਸ ਨੂੰ { -brand-short-name } ਉੱਤੇ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
 addon-install-error-soft-blocked2 = { $addonName } ਉੱਤੇ ਪਾਬੰਦੀ ਲੱਗੀ ਹੈ ਅਤੇ { -brand-short-name } ਉੱਤੇ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
-addon-install-error-blocklisted = { $addonName } ਨੂੰ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ, ਕਿਉਂਕਿ ਇਹ ਸਥਿਰਤਾ ਜਾਂ ਸੁਰੱਖਿਆ ਸਮੱਸਿਆਵਾਂ ਦਾ ਵੱਡਾ ਖ਼ਤਰਾ ਹੈ।
-addon-install-error-soft-blocked = { $addonName } ਨੇ Mozilla ਦੀਆਂ ਨੀਤੀਆਂ ਉਲੰਘਣਾ ਕੀਤੀ ਹੈ ਅਤੇ ਇਸ ਨੂੰ { -brand-short-name } ਉੱਤੇ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = ਤੁਸੀਂ ਅੰਤਮ ਵਰਤੋਂਕਾਰ ਵਜੋਂ { $addonName } ਇੰਸਟਾਲ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ, ਇਸ ਨੂੰ ਸਿਰਫ਼ ਸੰਗਠਨ ਵਲੋਂ ਇੰਟਰਪ੍ਰਾਈਜ਼ ਪਾਲਸੀਆਂ ਦੇ ਤਹਿਤ ਹੀ ਇੰਸਟਾਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।

@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Mae eich peiriant chwilio rhagosodedig wedi'i newid.</strong> Nid yw { $oldEngine } ar gael bellach fel peiriant chwilio rhagosodedig yn { -brand-short-name }. { $newEngine } yw eich peiriant chwilio rhagosodedig bellach. I newid i beiriant chwilio rhagosodedig arall, ewch i'r gosodiadau. <label data-l10n-name="remove-search-engine-article">Darllen rhagor</label>
 removed-search-engine-message2 = <strong>Mae eich peiriant chwilio rhagosodedig wedi'i newid.</strong> Nid yw { $oldEngine } ar gael bellach fel peiriant chwilio rhagosodedig yn { -brand-short-name }. { $newEngine } yw eich peiriant chwilio rhagosodedig bellach. I newid i beiriant chwilio rhagosodedig arall, ewch i'r gosodiadau.
 remove-search-engine-button = Iawn
 
@@ -52,11 +51,11 @@ install-search-engine-no = Na
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Ychwanegu Peiriant Chwilio
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Golygu Peiriant Chwilio
     .style = min-width: 32em;
+    .title = Golygu Peiriant Chwilio
 add-engine-button = Ychwanegu Peiriant Cyfaddas
 add-engine-name = Enw peiriant chwilio
 add-engine-url2 = URL gyda %s yn lle'r term chwilio
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = URL gyda %s yn lle'r term chwilio
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Ychwanegu Peiriant
-    .buttonaccesskeyaccept = Y
     .buttonlabelextra1 = Uwch
+    .buttonaccesskeyaccept = Y
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Cadw Peiriant
-    .buttonaccesskeyaccept = C
     .buttonlabelextra1 = Uwch
+    .buttonaccesskeyaccept = C

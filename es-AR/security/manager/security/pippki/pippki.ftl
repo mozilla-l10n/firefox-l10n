@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = En este momento está en modo FIPS. FIPS r
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Restablecer la contraseña maestra
     .style = min-width: 40em
+    .title = Restablecer la contraseña maestra
 reset-password-button-label =
     .label = Restablecer
 reset-primary-password-text = Si restablece su contraseña maestra, todas las contraseñas de webs y de correo electrónico, certificados personales y llaves privadas almacenados serán olvidadas. ¿Está seguro de que quiere restablecer su contraseña maestra?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Se restableció su contraseña maes
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Descargar certificado
     .style = min-width: 46em
+    .title = Descargar certificado
 download-cert-message = Se le ha pedido que confíe en una nueva autoridad de certificación (CA).
 download-cert-trust-ssl =
     .label = Confiar en esta CA para identificar sitios web.
@@ -52,8 +52,6 @@ download-cert-view-text = Examinar certificado de CA
 
 client-auth-window =
     .title = Solicitud de identificación de usuario
-client-auth-site-description = Este sitio ha pedido que se identifique con un certificado:
-client-auth-choose-cert = Seleccionar un certificado para presentar como identificación:
 client-auth-send-no-certificate =
     .label = No envíes un certificado
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Autentíquese en el dispositivo de seguridad ({ $tokenName }). Cómo hacerlo depende del dispositivo (por ejemplo, usando un lector de huellas dactilares o ingresando un código con un teclado).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Autentíquese en el token "{ $tokenName }". Cómo hacerlo depende del token (por ejemplo, usando un lector de huellas dactilares o ingresando un código con un teclado).

@@ -84,7 +84,3 @@ text-action-copy-clean-link-to-highlight =
 # visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-highlight =
     .label = Вилучити підсвічення
-# If the page has been loaded with a text fragment and text is
-# visibly highlighted, this removes any highlighted sections on the page.
-text-action-remove-all-highlights =
-    .label = Вилучити всі підсвічення

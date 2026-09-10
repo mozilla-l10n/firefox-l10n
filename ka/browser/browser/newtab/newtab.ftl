@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = ახალი ჩანართი
-newtab-settings-button =
-    .title = მოირგეთ ახალი ჩანართის გვერდი
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = ამ გვერდის მორგება
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = მორგება
 newtab-customize-panel-label =
     .label = მორგება
-newtab-personalize-settings-icon-label =
-    .aria-label = პარამეტრები
-    .title = ახალი ჩანართის მორგება
 newtab-settings-dialog-label =
     .aria-label = პარამეტრები
-newtab-personalize-icon-label =
-    .aria-label = ახალი ჩანართის მორგება
-    .title = ახალი ჩანართის მორგება
-newtab-personalize-dialog-label =
-    .aria-label = მორგება
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
@@ -528,7 +518,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = საძიებო სისტემის დამატება
 newtab-topsites-add-shortcut-header = ახალი მალსახმობი
-newtab-topsites-edit-topsites-header = რჩეული საიტის ჩასწორება
 newtab-topsites-edit-shortcut-header = მალსახმობის ჩასწორება
 newtab-topsites-add-shortcut-label = მალსახმობის დამატება
 newtab-topsites-add-shortcut-title =
@@ -598,20 +587,12 @@ newtab-topsites-hover-card-dismiss =
 newtab-menu-section-tooltip =
     .aria-label = მენიუს გახსნა
     .title = მენიუს გახსნა
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = მოცილება
-    .title = მოცილება
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = კონტექსტური მენიუს გახსნა { $title }
     .title = მენიუს გახსნა
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = საიტის ჩასწორება
-    .title = საიტის ჩასწორება
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -623,11 +604,7 @@ newtab-menu-dismiss = დამალვა
 newtab-menu-pin = მიმაგრება
 newtab-menu-unpin = მოხსნა
 newtab-menu-delete-history = ისტორიიდან ამოშლა
-newtab-menu-save-to-pocket = { -pocket-brand-name }-ში შენახვა
-newtab-menu-delete-pocket = წაშლა { -pocket-brand-name }-იდან
-newtab-menu-archive-pocket = დაარქივება { -pocket-brand-name }-ში
 newtab-menu-show-privacy-info = ჩვენი დამკვეთები და თქვენი პირადულობა
-newtab-menu-about-fakespot = გაიცანით { -fakespot-brand-name }
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = მოხსენება
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -638,26 +615,12 @@ newtab-menu-section-block = აკრძალვა
 newtab-menu-section-unfollow-topic = გამოწერის შეწყვეტა
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = ვრცლად
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = თემის მიდევნების შეწყვეტა
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = შეკვეთილი მასალების მართვა
 newtab-menu-our-sponsors-and-your-privacy = ჩვენი დამკვეთები და თქვენი პირადულობა
 newtab-menu-report-this-ad = ამ რეკლამის გასაჩივრება
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = მზადაა
-newtab-privacy-modal-button-manage = შეკვეთილი მასალის პარამეტრების მართვა
-newtab-privacy-modal-header = თქვენი პირადულობა უმნიშვნელოვანესია.
-newtab-privacy-modal-paragraph-2 =
-    გარდა საინტერესო ამბებისა, ასევე მოგაწვდით მნიშვნელოვან, ღირებულ
-    მასალას შერჩეული დამკვეთებისგან. ნუ იღელვებთ, რასაც ათვალიერებთ, <strong>მხოლოდ ინახავს თქვენი კუთვნილი { -brand-product-name }</strong>  — ვერც ჩვენ და ვერც ჩვენი
-    დამკვეთები ვერაფერს იხილავენ.
-newtab-privacy-modal-link = იხილეთ, როგორ მუშაობს პირადი მონაცემების უსაფრთხოება ახალ ჩანართზე
 
 ##
 
@@ -713,31 +676,12 @@ newtab-label-sponsored-fixed = დამკვეთისგან
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = ამ ნაწილის მოცილება
-newtab-section-menu-collapse-section = ამ ნაწილის აკეცვა
-newtab-section-menu-expand-section = ამ ნაწილის გაშლა
-newtab-section-menu-manage-section = გვერდის ნაწილების მართვა
-newtab-section-menu-manage-webext = გაფართოების მართვა
-newtab-section-menu-add-topsite = რჩეული საიტის დამატება
-newtab-section-menu-add-search-engine = საძიებო სისტემის დამატება
-newtab-section-menu-move-up = აწევა
-newtab-section-menu-move-down = ჩამოწევა
 newtab-section-menu-privacy-notice = პირადი მონაცემების დაცვის განაცხადი
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = ამ ნაწილის აკეცვა
-newtab-section-expand-section-label =
-    .aria-label = ამ ნაწილის გაშლა
 
 ## Section Headers.
 
 newtab-section-header-topsites = რჩეული საიტები
 newtab-section-header-recent-activity = ბოლო მოქმედებები
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } გირჩევთ
 newtab-section-header-stories = ფიქრების აღმძვრელი ამბები
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = დღეს შერჩეული თქვენთვის
@@ -745,10 +689,6 @@ newtab-section-header-todays-picks = დღეს შერჩეული თ�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = დაიწყეთ გვერდების დათვალიერება და აქ გამოჩნდება თქვენთვის სასურველი სტატიები, ვიდეოები და ბოლოს მონახულებული ან ჩანიშნული საიტები.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = უკვე ყველაფერს გაეცანით. მოგვიანებით შემოიარეთ მეტი რჩეული სტატიის სანახავად, რომელსაც { $provider } მოგაწვდით. ვერ ითმენთ? აირჩიეთ რომელიმე ფართოდ გავრცელებული საკითხი, ახალი საინტერესო სტატიების მოსაძიებლად.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = უკვე ყველაფერს გაეცანით. მოგვიანებით შემოიარეთ მეტი რჩეული სტატიის სანახავად. ვერ ითმენთ? აირჩიეთ რომელიმე ფართოდ გავრცელებული საკითხი ახალი საინტერესო სტატიების მოსაძიებლად.
 
@@ -782,39 +722,6 @@ newtab-carousel-pause =
 newtab-carousel-play =
     .aria-label = თვითგაშვების გაგრძელება
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = მეტად გავრცელებული საკითხები:
-newtab-pocket-new-topics-title = გსურთ, მეტი ამბების მონახვა? იხილეთ, გავრცელებული თემებისთვის { -pocket-brand-name }
-newtab-pocket-more-recommendations = მეტი შემოთავაზებები
-newtab-pocket-learn-more = ვრცლად
-newtab-pocket-cta-button = გამოიყენეთ { -pocket-brand-name }
-newtab-pocket-cta-text = გადაინახეთ სასურველი შიგთავსი { -pocket-brand-name }-ში და მიეცით გონებას საკვები, შთამბეჭდავი საკითხავი მასალის სახით.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } ეკუთვნის { -brand-product-name }-ოჯახს
-newtab-pocket-save = შენახვა
-newtab-pocket-saved = შენახულია
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = სხვა ამის მსგავსი
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = ჩემთვის არაა
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = გმადლობთ. თქვენი გამოხმაურება დაგვეხმარება სიახლეების არხის გაუმჯობესებაში.
-newtab-toast-dismiss-button =
-    .aria-label = აცილება
-    .title = აცილება
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = აღმოაჩინეთ ვებსამყაროს საუკეთესო მხარე
-newtab-pocket-onboarding-cta = { -pocket-brand-name } მოიძიებს მრავალფეროვან მასალებს, რათა თქვენს { -brand-product-name }-ბრაუზერში იხილოთ ყველაზე საინტერესო, შთამაგონებელი და სანდო შიგთავსი.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -823,8 +730,6 @@ newtab-error-fallback-refresh-link = განაახლეთ გვერდ
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = მალსახმობები
-newtab-custom-shortcuts-subtitle = საიტები, რომლებსაც ინახავთ ან სტუმრობთ
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = საიტები, რომლებსაც ინახავთ ან სტუმრობთ
@@ -845,16 +750,6 @@ newtab-custom-row-selector2 =
             [one] { $num } რიგი
            *[other] { $num } რიგი
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } რიგი
-       *[other] { $num } რიგი
-    }
-newtab-custom-sponsored-sites = მალსახმობები დამკვეთებისგან
-newtab-custom-pocket-title = გთავაზობთ { -pocket-brand-name }
-newtab-custom-pocket-subtitle = გამორჩეული მასალები, რომელთაც { -pocket-brand-name } გთავაზობთ, { -brand-product-name }-ოჯახის ნაწილი.
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = გამორჩეული მასალები, რომელთაც შეგირჩევთ { -brand-product-name }
@@ -866,10 +761,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = თქვენს საქმიანობაზე მორგებული ამბები
 newtab-custom-stories-personalized-checkbox-label = თქვენს საქმიანობაზე მორგებული ამბები
-newtab-custom-pocket-sponsored = ამბები დამკვეთებისგან
-newtab-custom-pocket-show-recent-saves = ბოლოს შენახულის ჩვენება
-newtab-custom-recent-title = ბოლო მოქმედებები
-newtab-custom-recent-subtitle = ბოლოს ნანახი საიტებისა და მასალებიდან შერჩეული
 newtab-custom-weather-toggle =
     .description = დღევანდელი ამინდისთვის თვალის შევლება
     .label = ამინდი
@@ -901,7 +792,6 @@ newtab-widget-manage-widget-button =
 newtab-custom-close-menu-button =
     .aria-label = მენიუს დახურვა
     .title = დახურვა
-newtab-custom-close-button = დახურვა
 newtab-custom-settings = დამატებითი პარამეტრების მართვა
 
 ## Customization Menu
@@ -950,7 +840,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = სურათის ფაილის ზომა აღემატება ზღვარს { $file_size }ᲛᲑ. გთხოვთ, სცადოთ უფრო მცირე ფაილის ატვირთვა.
 newtab-wallpaper-error-upload-file-type = ვერ მოხერხდა თქვენი ფაილის ატვირთვა. გთხოვთ, კვლავ სცადოთ სურათის ფაილით.
-newtab-wallpaper-error-file-type = ვერ მოხერხდა თქვენი ფაილის ატვირთვა. გთხოვთ, კვლავ სცადოთ სხვა სახის ფაილით.
 newtab-wallpaper-light-red-panda = წითელი პანდა
 newtab-wallpaper-light-mountain = თეთრი მთა
 newtab-wallpaper-light-sky = ცა მოიისფრო და მოვარდისფრო ღრუბლებით
@@ -1094,10 +983,6 @@ newtab-wallpaper-celestial-river = მდინარის თანამგ�
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = ამინდს გთავაზობთ { $provider }
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ დამკვეთი
 newtab-weather-menu-change-location = მდებარეობის შეცვლა
 newtab-weather-change-location-search-input-placeholder =
@@ -1124,7 +1009,6 @@ newtab-weather-menu-temperature-option-fahrenheit = ფარენჰაიტ�
 newtab-weather-menu-temperature-option-celsius = ცელსიუსი
 newtab-weather-menu-change-temperature-units-fahrenheit = ფარენჰაიტზე გადართვა
 newtab-weather-menu-change-temperature-units-celsius = ცელსიუსზე გადართვა
-newtab-weather-menu-hide-weather = ამინდის დამალვა ახალ ჩანართში
 newtab-weather-menu-learn-more = ვრცლად
 newtab-weather-menu-detect-my-location = ჩემი მდებარეობის დადგენა
 # This message is shown if user is working offline
@@ -1245,7 +1129,6 @@ newtab-section-unblock-topic =
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = ახლა არა
 newtab-section-confirm-block-topic-p1 = ნამდვილად გსურთ ამ თემის შეზღუდვა?
 newtab-section-confirm-block-topic-p2 = შეზღუდული თემები აღარ გამოჩნდება თქვენს არხში.
 # Variables:

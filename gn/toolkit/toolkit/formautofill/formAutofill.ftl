@@ -17,7 +17,6 @@ autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } ohechauka
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } ohechaukase marandu mbyatypyre ñehepyme’ẽrã rehegua.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Myanyhẽha ijeheguíva porãvopyrã
-autofill-options-link-osx = Myanyhẽha ijeheguíva jerohoryvéva
 
 ## The credit card capture doorhanger
 
@@ -67,16 +66,6 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
-# The warning text that is displayed for informing users what categories are
-# about to be filled.  The text would be, for example,
-#   Also autofills organization, phone, email.
-# Variables:
-#   $categories - one or more of the categories, see autofill-category-X below
-autofill-phishing-warningmessage-extracategory = Emyanyhẽ avei { $categories }
-# Variation when all are in the same category.
-# Variables:
-#   $categories - one or more of the categories
-autofill-phishing-warningmessage = Emyanyhẽ { $categories }
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = kundaharape
 autofill-category-name = téra

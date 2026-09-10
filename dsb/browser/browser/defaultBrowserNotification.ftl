@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = Źaržćo { -brand-short-name } k ruce – 
 default-browser-prompt-message-pin-msix = Źaržćo { -brand-short-name } k ruce – cyńśo jen k swójomu standardnemu wobglědowakoju a pśipějśo jen k swójej nadawkowej rědce a startowemu menijoju.
 default-browser-prompt-message-pin-mac = Źaržćo { -brand-short-name } k ruce – cyńśo jen k swójomu standardnemu wobglědowakoju a zachowajśo jen w swójim doku.
 default-browser-prompt-button-primary-set = Ako primarny wobglědowak nastajiś
-default-browser-prompt-button-primary-pin = K primarnemu wobglědowakoju cyniś
 default-browser-prompt-title-alt = { -brand-short-name } k swójomu standardnemu wobglědowakoju cyniś?
 default-browser-prompt-message-alt = Dostańśo malsnosć, wěstotu a priwatnosć kuždy raz, gaž pśeglědujośo.
 default-browser-prompt-button-primary-alt = Ako standardny wobglědowak nastajiś

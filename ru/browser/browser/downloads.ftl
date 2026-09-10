@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Показать в Finder
            *[other] Показать в папке
         }
-downloads-cmd-show-downloads =
-    .label = Показать папку загрузок
 downloads-cmd-retry =
     .tooltiptext = Повторить
 downloads-cmd-retry-panel =

@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Skedë e Re
-    .accesskey = S
 reload-tab =
     .label = Ringarkoje Skedën
     .accesskey = R
@@ -102,10 +99,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Grup i Ri
     .accesskey = G
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -143,13 +136,6 @@ tab-context-send-to-mobile =
         { $tabCount ->
             [1] Dërgoje në Celular
            *[other] Send { $tabCount } Tabs to Mobile
-        }
-    .accesskey = D
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Dërgoje Skedën te Pajisje
-           *[other] Dërgo { $tabCount } Skedë te Pajisje
         }
     .accesskey = D
 tab-context-unload-n-tabs =

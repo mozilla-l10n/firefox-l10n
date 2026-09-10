@@ -30,11 +30,11 @@ third-party-tag-background = Background
         This module did not block the application because it was loaded
         in the background.
 third-party-icon-unsigned =
-    .title = This module is not signed
     .alt = This module is not signed
+    .title = This module is not signed
 third-party-icon-warning =
-    .title = { -brand-short-name } crashed in code from this module
     .alt = { -brand-short-name } crashed in code from this module
+    .title = { -brand-short-name } crashed in code from this module
 third-party-status-loaded = Loaded
 third-party-status-blocked = Blocked
 third-party-status-redirected = Redirected
@@ -46,30 +46,17 @@ third-party-button-reload = Reload with system info
     .title = Reload with system information
 third-party-button-open =
     .title = Open file location…
-third-party-button-to-block =
-    .title = Block this module
-    .aria-label = Block this module
-third-party-button-to-unblock =
-    .title = Currently blocked. Click to unblock it.
-    .aria-label = Currently blocked. Click to unblock it.
-third-party-button-to-unblock-disabled =
-    .title =
-        Currently marked as blocked, although the blocklist is disabled for this run
-        of { -brand-short-name }. Click to unblock it.
-    .aria-label =
-        Currently marked as blocked, although the blocklist is disabled for this run
-        of { -brand-short-name }. Click to unblock it.
 third-party-button-to-block-module = Block this module
-    .title = Block this module
     .aria-label = Block this module
+    .title = Block this module
 third-party-button-to-unblock-module = Unblock this module
-    .title = Currently blocked. Click to unblock it.
     .aria-label = Currently blocked. Click to unblock it.
+    .title = Currently blocked. Click to unblock it.
 third-party-button-to-unblock-module-disabled = Unblock this module (blocklist currently disabled)
-    .title =
+    .aria-label =
         Currently marked as blocked, although the blocklist is disabled for this run
         of { -brand-short-name }. Click to unblock it.
-    .aria-label =
+    .title =
         Currently marked as blocked, although the blocklist is disabled for this run
         of { -brand-short-name }. Click to unblock it.
 third-party-button-expand =
@@ -81,5 +68,5 @@ third-party-should-restart-title = Restart { -brand-short-name }
 third-party-restart-now = Restart now
 third-party-restart-later = Restart later
 third-party-blocked-by-builtin =
-    .title = Blocked by { -brand-short-name }
     .alt = Blocked by { -brand-short-name }
+    .title = Blocked by { -brand-short-name }

@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = Preskakujte med napravami s sinhronizira
 callout-firefox-view-tab-pickup-subtitle = Hitro zajemite odprte zavihke s telefona in jih odprite neposredno tukaj.
 callout-firefox-view-recently-closed-title = V trenutku si povrnite zaprte zavihke
 callout-firefox-view-recently-closed-subtitle = Vsi zavihki, ki ste jih zaprli, se bodo prikazali tukaj. Nikoli več ne skrbite, da bi nenamerno zaprli spletno stran.
-callout-firefox-view-colorways-title = Dodajte kanček barve
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Izberite odtenek barvne kombinacije, ki vas nagovarja. Samo v { -brand-product-name(sklon: "mestnik") }.
-callout-firefox-view-colorways-reminder-title = Raziščite najnovejše barvne kombinacije
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Obarvajte svoj brskalnik s temi ikoničnimi odtenki, ki jih navdihujejo neodvisni glasovi. Samo v { -brand-product-name(sklon: "dajalnik") }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

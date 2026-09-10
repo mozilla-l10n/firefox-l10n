@@ -15,7 +15,6 @@ cert-error-trust-untrusted-issuer = Sijil tersebut tidak boleh dipercayai kerana
 cert-error-trust-signature-algorithm-disabled = Sijil ini tidak boleh dipercayai kerana ia ditandatangani oleh algoritma tandatangan yang dinyahaktifkan disebabkan algoritma yang tidak menjamin keselamatan.
 cert-error-trust-expired-issuer = Sijil tersebut tidak dapat percayai kerana sijil pengeluar telah luput.
 cert-error-trust-self-signed = Sijil ini tidak boleh dipercayai kerana ditandatangani sendiri.
-cert-error-trust-symantec = Sijil yang dikeluarkan oleh GeoTrust, RapidSSL, Symantec, Thawte, dan VeriSign tidak lagi dianggap selamat kerana pihak berkuasa sijil gagal mematuhi amalan keselamatan pada masa lalu.
 cert-error-untrusted-default = Sijil tersebut tidak datang dari sumber yang boleh dipercayai.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -42,10 +41,6 @@ cert-error-code-prefix-link = Kod ralat: <a data-l10n-name="error-code-link">{ $
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Ada ralat semasa menyambung ke { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Laman web membuktikan identiti melalui sijil yang dikeluarkan oleh pihak berkuasa sijil. Kebanyakan pelayar tidak lagi mempercayai sijil yang dikeluarkan oleh GeoTrust, RapidSSL, Symantec, Thawte, dan VeriSign. { $hostname } menggunakan sijil daripada salah satu pihak berkuasa ini dan oleh itu identiti laman web tidak dapat dibuktikan.
-cert-error-symantec-distrust-admin = Anda boleh maklumkan pentadbir laman web perihal masalah ini.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Keselamatan Pengangkutan Rapi: { $hasHSTS }
@@ -81,7 +76,6 @@ proxyResolveFailure-title = Tidak dapat menemui pelayan proksi
 redirectLoop-title = Halaman tidak diarahkan semula dengan betul
 unknownSocketType-title = Respon tidak dijangka daripada pelayan
 nssFailure2-title = Gagal Disambung Dengan Selamat
-corruptedContentError-title = Ralat Kandungan Rosak
 sslv3Used-title = Tidak dapat Disambung dengan Selamat
 inadequateSecurityError-title = Sambungan internet anda tidak selamat
 blockedByPolicy-title = Halaman Disekat

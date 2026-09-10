@@ -8,8 +8,5 @@ label-interventions = Nej sa natsít
 # Variables:
 #   $bug (string) - Bug number
 label-more-information = Doj nuguan' huaa: Bug { $bug }
-label-overrides = Sa nadure' agentê 'iaj sun aga' nan
 text-disabled-in-about-config = Nan narè' ngà gisîj gachîn about.config
 text-no-interventions = Nitaj si araj sun ni nej interbensiôn
-text-no-overrides = Nitaj si araj sun ñunj nej sa dure' UA
-text-title = about:compat

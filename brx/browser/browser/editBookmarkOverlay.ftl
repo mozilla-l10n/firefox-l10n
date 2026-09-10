@@ -4,10 +4,6 @@
 
 bookmark-overlay-choose =
     .label = बासिख...
-bookmark-overlay-folders-expander =
-    .tooltiptext = गासै बुकमार्कनि फल्डारफोरखौ दिनथि
-    .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
-    .tooltiptextup = दोनखोमा
 bookmark-overlay-folders-expander2 =
     .tooltiptext = गासै बुकमार्कनि फल्डारफोरखौ दिनथि
 bookmark-overlay-folders-expander-hide =
@@ -17,10 +13,6 @@ bookmark-overlay-new-folder-button =
     .accesskey = o
 bookmark-overlay-tags-empty-description =
     .placeholder = कमाजों आलादा खालामनाय टेगफोर
-bookmark-overlay-tags-expander =
-    .tooltiptext = गासै टेगखौ दिनथि
-    .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
-    .tooltiptextup = दोनखोमा
 bookmark-overlay-tags-expander2 =
     .tooltiptext = गासै टेगखौ दिनथि
 bookmark-overlay-tags-expander-hide =

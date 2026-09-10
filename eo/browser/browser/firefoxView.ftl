@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Montri ĵusan retumon en ĉiuj fenestroj kaj aparatoj
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Fermi
-    .aria-label = Fermi
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Ĵus
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Spegulitaj langetoj
-firefoxview-tabpickup-description = Malfermi paĝojn el aliaj aparatoj.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% finita
-firefoxview-tabpickup-step-signin-header = Senĝene iru de unu aparato al la alia
-firefoxview-tabpickup-step-signin-description = Antaŭ ol povi malfermi ĉi tie la langetojn de via portebla, bonvolu komenci seancon aŭ krei konton.
-firefoxview-tabpickup-step-signin-primarybutton = Daŭrigi
 firefoxview-syncedtabs-signin-header-2 = Via { -brand-product-name } en ĉiuj viaj aparatoj
 firefoxview-syncedtabs-signin-description-2 = Por vidi langetojn malfermitaj en via telefono kaj aliaj aparatoj, komencu seancon aŭ kreu konton. Per konto vi povas ankaŭ speguli viajn pasvortojn, historion, kaj pli.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Senpene iri el la komputilo al la telefono
 firefoxview-syncedtabs-signin-description-3 = Tenu vian retumon konektita inter aparatoj — langetojn, pasvortojn kaj historion, ĉiujn spegulitajn.
 firefoxview-syncedtabs-signin-primarybutton-2 = Komenci seancon
-firefoxview-tabpickup-adddevice-header = Speguli { -brand-product-name } en via telefono aŭ tabulkomputilo
-firefoxview-tabpickup-adddevice-description = Elŝutu { -brand-product-name } por poŝaparatoj kaj komencu seancon tie.
-firefoxview-tabpickup-adddevice-learn-how = Lernu kiel fari
-firefoxview-tabpickup-adddevice-primarybutton = Elŝutu { -brand-product-name } por poŝaparatoj
 firefoxview-syncedtabs-adddevice-header-2 = Reprenu viajn langetojn kie ajn vi estas
 firefoxview-syncedtabs-adddevice-description-2 = Komencu seancon de { -brand-product-name } en via telefono aŭ alia komputilo por vidi la ĉi tieajn langetojn. Jen pli da informo pri <a data-l10n-name="url">konekto de aldonaj aparatoj</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Provu { -brand-product-name } por poŝaparatoj
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Langetoj spegulitaj, ili estas en via telefono.
 firefoxview-syncedtabs-adddevice-description-3 = Saknu la kodon QR por elŝuti { -brand-product-name } por poŝaparatoj kaj komenci speguli viajn malfermitajn langetojn kaj pli. Malkovru kiel <a data-l10n-name="url">konekti aldonajn aparatojn</a>.
-firefoxview-tabpickup-synctabs-header = Ŝalti speguladon de langetoj
-firefoxview-tabpickup-synctabs-description = Permesi al { -brand-short-name } dividi langetojn inter aparatoj.
-firefoxview-tabpickup-synctabs-learn-how = Lernu kiel fari
 firefoxview-tabpickup-synctabs-primarybutton = Speguli malfermitajn langetojn
 firefoxview-tabpickup-synctabs-primarybutton-2 = Ŝalti speguladon de langetoj
 firefoxview-syncedtabs-synctabs-header = Ĝisdatigi viajn spegulajn agordojn
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Kiam tio finiĝos, vi vidos langeto
 firefoxview-syncedtabs-loading-header-2 = Langetoj ricevataj…
 firefoxview-syncedtabs-loading-description-2 = Spegulado farata. Viaj langetoj estos baldaŭ ĉi tie.
 firefoxview-tabpickup-fxa-admin-disabled-header = Via organizo malaktivigis la speguladon
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ne povas speguli langetojn inter aparatoj ĉar via administranto malaktivigis la speguladon.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ne povas speguli langetojn inter aparatoj ĉar via organizo malaktivigis la speguladon.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = La spegulado de langetoj estas malŝaltita
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Via organizo blokis tiun ĉi trajton.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Malbloki langetojn per via ĉefa pasvorto
 firefoxview-tabpickup-password-locked-description-2 = Por respekti vian privatecon, spegulitaj langetoj estas protektitaj. Tajpu la ĉefan pasvorton de { -brand-short-name } por vidi langetojn el viaj aliaj aparatoj.
 firefoxview-tabpickup-signed-out-header = Komenci seancon por rekonekti
-firefoxview-tabpickup-signed-out-description = Por rekonektiĝi kaj repreni viajn langetojn, komencu seancon en via { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Por rekonektiĝi kaj repreni viajn langetojn, komencu seancon en via konto.
 firefoxview-tabpickup-signed-out-primarybutton = Komenci seancon
 firefoxview-tabpickup-signed-out-header-2 = Komencu seancon por vidi viajn langetojn
 firefoxview-tabpickup-signed-out-description-2 = Rekonektiĝu por vidi langetojn el aliaj aparatoj.
-firefoxview-tabpickup-syncing = Atendu la speguladon de langetoj. Estas rapida afero.
-firefoxview-mobile-promo-header = Malfermi langetojn el via telefono aŭ tabulkomputilo
-firefoxview-mobile-promo-description = Por vidi viajn lastajn poŝaparatajn langetojn, komencu seancon de { -brand-product-name } en iOS aŭ Android.
-firefoxview-mobile-promo-primarybutton = Elŝutu { -brand-product-name } por poŝaparatoj
-firefoxview-mobile-confirmation-header = 🎉 Preta!
-firefoxview-mobile-confirmation-description = Vi nun povas malfermi viajn langetojn de { -brand-product-name } el via tabulkomputilo aŭ telefono.
-firefoxview-closed-tabs-title = Ĵuse fermitaj
-firefoxview-closed-tabs-description2 = Malfermi paĝojn, kiujn vi estis ferminta en tiu ĉi fenestro.
-firefoxview-closed-tabs-placeholder-header = Neniu antaŭ nelonge fermita langeto
-firefoxview-closed-tabs-placeholder-body = Se vi fermas langeton en tiu ĉi fenestro, vi povas ĝin rehavi ĉi tie.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Ignori { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Laste aktiva
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Malfermi { $targetURI } en nova langeto
-firefoxview-try-colorways-button = Provu kolorarojn
-firefoxview-change-colorway-button = Ŝanĝi koloraron
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Nenio montrebla
-firefoxview-synced-tabs-placeholder-body = Kiam vi venontfoje malfermos paĝon en { -brand-product-name } en alia aparato, reprenu ĝin ĉi tie, kvazaŭ magie.
 firefoxview-collapse-button-show =
     .title = Montri liston
 firefoxview-collapse-button-hide =

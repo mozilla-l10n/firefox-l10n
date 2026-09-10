@@ -60,15 +60,6 @@ appmenu-fxa-setup-sync-new = Attiva
 appmenuitem-save-page =
     .label = Sarba pàggina comu…
 
-## What's New panel in App menu.
-
-whatsnew-panel-header = Nuvità
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Abbìsami dî funzioni novi
-    .accesskey = f
-
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".

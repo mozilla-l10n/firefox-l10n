@@ -92,11 +92,5 @@ download-utils-time-left-single = { $time } heddii
 download-utils-time-left-double = { $time1 } { $time2 } heddii
 download-utils-time-few-seconds = Leƴƴanɗe seeɗa heddii
 download-utils-time-unknown = Waktu keddiiɗo anndaaka
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = { $scheme } ɓultooje
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = fiilde nokkuure
 # Displayed time for files finished yesterday
 download-utils-yesterday = Haŋki

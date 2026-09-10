@@ -32,7 +32,6 @@ policy-DisableBuiltinPDFViewer = { -brand-short-name } හි තිළෑලි
 policy-DisableDefaultBrowserAgent = පෙරනිමි අතිරික්සු නියෝතය කිසිදු ක්‍රියාමාර්ගයක් ගැනීමෙන් වළක්වන්න. වින්ඩෝස් සඳහා පමණක් අදාළ වේ; වෙනත් වේදිකාවලට නියෝත නැත.
 policy-DisableDeveloperTools = සංවර්ධක මෙවලම් වෙත ප්‍රවේශය අවහිර කරන්න.
 policy-DisableFeedbackCommands = උදව් වට්ටෝරුවෙන් ප්‍රතිපෝෂණ යවන විධාන අබල කරන්න (ප්‍රතිපෝෂණ යොමන්න හා කූට අඩවි වාර්තා කරන්න).
-policy-DisableFirefoxAccounts = සමමුහූර්ත කිරීම ඇතුළුව, { -fxaccount-brand-name } මත පදනම් වූ සේවා අබල කරන්න.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = ෆයර්ෆොක්ස් තිරසේයා විශේෂාංගය අබල කරන්න.
 policy-DisableFirefoxStudies = { -brand-short-name } අධ්‍යන ධාවනයෙන් වලක්වන්න.
@@ -40,7 +39,6 @@ policy-DisableForgetButton = අමතක කිරීමේ බොත්තම�
 policy-DisableFormHistory = සෙවුම් හා ආකෘති ඉතිහාසය මතක තබා නොගන්න.
 policy-DisablePrimaryPasswordCreation = හරි නම්, ප්‍රාථමික මුරපදයක් සෑදීමට නොහැකිය.
 policy-DisablePasswordReveal = සුරකින ලද පිවිසුම් තුළ මුරපද හෙළි වීමට ඉඩ නොදෙන්න
-policy-DisablePocket2 = { -pocket-brand-name } වෙත පිටු සුරැකීමේ විශේෂාංගය අබල කරන්න.
 policy-DisablePrivateBrowsing = පෞද්. පිරික්සීම අබල කරන්න.
 policy-DisableProfileImport = අන් අතිරික්සුවකින් දත්ත ආයාත කිරීමට වට්ටෝරුවෙහි විධානය අබල කරන්න.
 policy-DisableProfileRefresh = about:support පිටුවෙහි { -brand-short-name } නැවුම් කරන්න බොත්තම අබල කරන්න.

@@ -30,11 +30,11 @@ third-party-tag-background = Sotfont
         Chest modul nol à blocât la aplicazion parcè che e je stade cjariade
         in sotfont.
 third-party-icon-unsigned =
-    .title = Chest modul nol è firmât
     .alt = Chest modul nol è firmât
+    .title = Chest modul nol è firmât
 third-party-icon-warning =
-    .title = { -brand-short-name } al è colassât tal codiç di chest modul
     .alt = { -brand-short-name } al è colassât intal codiç di chest modul
+    .title = { -brand-short-name } al è colassât tal codiç di chest modul
 third-party-status-loaded = Cjariât
 third-party-status-blocked = Blocât
 third-party-status-redirected = Dirotât
@@ -46,27 +46,18 @@ third-party-button-reload = Torne cjame cun informazions di sisteme
     .title = Torne cjame cun informazions di sisteme
 third-party-button-open =
     .title = Vierç posizion file…
-third-party-button-to-block =
-    .title = Bloche chest modul
-    .aria-label = Bloche chest modul
-third-party-button-to-unblock =
-    .title = Atualmentri blocât. Fâs clic par sblocâlu.
-    .aria-label = In chest moment blocât. Fâs clic par sblocâlu.
-third-party-button-to-unblock-disabled =
-    .title = Atualmentri segnât come blocât, ancje se la liste dai elements blocâts e je disativade par cheste esecuzion di { -brand-short-name }. Fâs clic par sblocâlu.
-    .aria-label = In chest moment al è segnât come blocât, ancje se la liste dai elements blocâts e je disativade par cheste esecuzion di { -brand-short-name }. Fâs clic par sblocâlu.
 third-party-button-to-block-module = Bloche chest modul
-    .title = Bloche chest modul
     .aria-label = Bloche chest modul
+    .title = Bloche chest modul
 third-party-button-to-unblock-module = Sbloche chest modul
-    .title = In chest moment blocât. Fâs clic par sblocâlu.
     .aria-label = In chest moment blocât. Fâs clic par sblocâlu.
+    .title = In chest moment blocât. Fâs clic par sblocâlu.
 third-party-button-to-unblock-module-disabled = Sbloche chest modul (in chest moment il bloc midiant liste al è disativât)
-    .title =
-        Cumò al è segnât come blocât, ancje se il bloc vie liste al è disativât per cheste esecuzion
-        di { -brand-short-name }. Fâs clic par sblocâlu.
     .aria-label =
         Cumò al è segnât come blocât, ancje se il bloc vie liste al è disativât par cheste esecuzion
+        di { -brand-short-name }. Fâs clic par sblocâlu.
+    .title =
+        Cumò al è segnât come blocât, ancje se il bloc vie liste al è disativât per cheste esecuzion
         di { -brand-short-name }. Fâs clic par sblocâlu.
 third-party-button-expand =
     .title = Mostre informazions detaiadis
@@ -77,5 +68,5 @@ third-party-should-restart-title = Torne invie { -brand-short-name }
 third-party-restart-now = Torne invie cumò
 third-party-restart-later = Torne invie plui indenant
 third-party-blocked-by-builtin =
-    .title = Blocât di { -brand-short-name }
     .alt = Blocât di { -brand-short-name }
+    .title = Blocât di { -brand-short-name }

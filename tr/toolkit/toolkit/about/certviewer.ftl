@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = Sertifikalarınız
 certificate-viewer-tab-people = Kişiler
 certificate-viewer-tab-servers = Sunucular
 certificate-viewer-tab-ca = Makamlar
-certificate-viewer-tab-unkonwn = Bilinmeyen

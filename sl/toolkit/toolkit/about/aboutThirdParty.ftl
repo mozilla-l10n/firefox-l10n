@@ -28,11 +28,11 @@ third-party-tag-shellex = Razširitev lupine
 third-party-tag-background = V ozadju
     .title = Ta modul ni blokiral aplikacije, ker se je naložil v ozadju.
 third-party-icon-unsigned =
-    .title = Ta modul ni podpisan
     .alt = Ta modul ni podpisan
+    .title = Ta modul ni podpisan
 third-party-icon-warning =
-    .title = { -brand-short-name } se je sesul med izvajanjem kode iz tega modula
     .alt = { -brand-short-name } se je sesul med izvajanjem kode iz tega modula
+    .title = { -brand-short-name } se je sesul med izvajanjem kode iz tega modula
 third-party-status-loaded = Naložen
 third-party-status-blocked = Blokiran
 third-party-status-redirected = Preusmerjen
@@ -44,30 +44,17 @@ third-party-button-reload = Znova naloži s sistemskimi podatki
     .title = Znova naloži s sistemskimi podatki
 third-party-button-open =
     .title = Odpri mesto datoteke …
-third-party-button-to-block =
-    .title = Blokiraj ta modul
-    .aria-label = Blokiraj ta modul
-third-party-button-to-unblock =
-    .title = Trenutno blokiran. Kliknite za odblokiranje.
-    .aria-label = Trenutno blokiran. Kliknite za odblokiranje.
-third-party-button-to-unblock-disabled =
-    .title =
-        Trenutno označen kot blokiran, čeprav je seznam blokad za ta zagon
-        { -brand-short-name(sklon: "rodilnik") } onemogočen. Kliknite za odblokiranje.
-    .aria-label =
-        Trenutno označen kot blokiran, čeprav je seznam blokad za ta zagon
-        { -brand-short-name(sklon: "rodilnik") } onemogočen. Kliknite za odblokiranje.
 third-party-button-to-block-module = Blokiraj ta modul
-    .title = Blokiraj ta modul
     .aria-label = Blokiraj ta modul
+    .title = Blokiraj ta modul
 third-party-button-to-unblock-module = Odblokiraj ta modul
-    .title = Odblokiraj ta modul
     .aria-label = Odblokiraj ta modul
+    .title = Odblokiraj ta modul
 third-party-button-to-unblock-module-disabled = Odblokiraj ta modul (seznam blokad onemogočen)
-    .title =
+    .aria-label =
         Trenutno označen kot blokiran, čeprav je seznam blokad za ta zagon
         { -brand-short-name(sklon: "rodilnik") } onemogočen. Kliknite za odblokiranje.
-    .aria-label =
+    .title =
         Trenutno označen kot blokiran, čeprav je seznam blokad za ta zagon
         { -brand-short-name(sklon: "rodilnik") } onemogočen. Kliknite za odblokiranje.
 third-party-button-expand =
@@ -79,5 +66,5 @@ third-party-should-restart-title = Znova zaženi { -brand-short-name(sklon: "toz
 third-party-restart-now = Ponovno zaženi zdaj
 third-party-restart-later = Znova zaženi pozneje
 third-party-blocked-by-builtin =
-    .title = Zavrača { -brand-short-name }
     .alt = Zavrača { -brand-short-name }
+    .title = Zavrača { -brand-short-name }

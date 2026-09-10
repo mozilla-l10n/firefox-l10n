@@ -9,13 +9,6 @@ xpinstall-prompt = { -brand-short-name } prevented this site from asking you to 
 xpinstall-prompt-dont-allow =
     .label = Don’t Allow
     .accesskey = D
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = Software installation has been disabled by your system administrator.
 xpinstall-disabled = Software installation is currently disabled. Click Enable and try again.
 xpinstall-disabled-button =
     .label = Enable
@@ -85,4 +78,3 @@ addon-local-install-error-not-signed = This add-on could not be installed becaus
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } could not be installed because it is not compatible with { -brand-short-name } { $appVersion }.
-addon-install-error-blocklisted = { $addonName } could not be installed because it has a high risk of causing stability or security problems.

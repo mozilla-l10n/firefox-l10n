@@ -13,7 +13,6 @@
 policy-3rdparty = Tee tu´un xitu nuu WebExtensions kuvi kivɨ ji chrome.storage.managed.
 policy-DisableAppUpdate = Nsá´á naxi´ña ka̱a̱ nánuku.
 policy-DisableDeveloperTools = Kasɨ nkivɨ da ka̱a̱ desarrolador.
-policy-DisableFirefoxAccounts = Kasɨ servicios { -fxaccount-brand-name }, ji Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Xita función Firefox Screenshots.
 policy-DisableFirefoxStudies = Nkua´a { -brand-short-name } sá´á estudios.

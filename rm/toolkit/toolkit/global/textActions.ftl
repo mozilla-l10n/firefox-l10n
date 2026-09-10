@@ -77,7 +77,3 @@ text-action-copy-link-to-highlight =
 # and it strips trackers etc.
 text-action-copy-clean-link-to-highlight =
     .label = Copiar ina colliaziun netta al text marcà
-# If the page has been loaded with a text fragment and text is
-# visibly highlighted, this removes any highlighted sections on the page.
-text-action-remove-all-highlights =
-    .label = Allontanar tut las marcaziuns

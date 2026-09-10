@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] බහාලුමෙහි පෙන්වන්න
            *[other] බහාලුමෙහි පෙන්වන්න
         }
-downloads-cmd-show-downloads =
-    .label = බාගැනීමේ බහාලුම පෙන්වන්න
 downloads-cmd-retry =
     .tooltiptext = නැවත
 downloads-cmd-retry-panel =

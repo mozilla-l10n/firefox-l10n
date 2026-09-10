@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Unntak
     .style = min-width: 36em
+    .title = Unntak
 permissions-close-key =
     .key = w
 permissions-address = Adressa til nettstaden
@@ -80,79 +80,64 @@ permissions-invalid-uri-label = Skriv inn eit gyldig tenarnamn
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Unntak for utvida sporingsvern
     .style = { permissions-window2.style }
+    .title = Unntak for utvida sporingsvern
 permissions-exceptions-manage-etp-desc = Du kan oppgje kva for nettstadar som har utvida sporingsvern slått av. Skriv inn den eksakte adressa til nettstaden du vil administrere, og klikk deretter på Legg til unntak.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Unntak - Infokapslar og nettstad-data
     .style = { permissions-window2.style }
+    .title = Unntak - Infokapslar og nettstad-data
 permissions-exceptions-cookie-desc = Du kan spesifisere kva for nettstadar som alltid eller aldri får bruke infokapslar og nettstad-data.  Skriv inn den eksakte adressa til nettstaden du vil administrere, og klikk deretter Blokker, Tillat for økt, eller Tillat.
 
 ## Exceptions - Clear on Shutdown
 
 permissions-exceptions-shutdown-clearing-window =
-    .title = Unntak – Tøm historikk ved avslutting
     .style = { permissions-window2.style }
+    .title = Unntak – Tøm historikk ved avslutting
 permissions-exceptions-shutdown-clearing-desc = Du kan angi kva nettstadar som skal behalde dataa sine når { -brand-short-name } tømmer historikken ved avslutning. Skriv inn den nøyaktige adressa til nettstaden du vil handsame, og klikk deretter på Tillat.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Unntak - Berre HTTPS-modus
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Du kan slå av berre-HTTPS-modus for bestemte nettstadar. { -brand-short-name } prøver ikkje å oppgradere tilkoplinga for å sikre HTTPS for desse nettstadane. Unntak gjeld ikkje private vindauge.
+    .title = Unntak - Berre HTTPS-modus
 permissions-exceptions-https-only-desc2 = Du kan slå av kun-HTTPS-modus for bestemte nettstadar. { -brand-short-name } prøver ikkje å oppgradere tilkoplinga til sikker HTTPS for desse nettstadane.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
     .title = Tillatne nettstadar – sprettoppvindauge og tredjepartvidaresendingar
-    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = Du kan angi kva nettstadar som har lov til å opne sprettoppvindauge og bli vidaresendt av tredjepartsrammer.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = Tillatne nettsider - Sprettoppvindauge
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Du kan velje kva for nettstadar som har løyve til å opne sprettoppvindauge. Skriv inn eksakt adresse til nettstaden du vil tillate, og trykk «Tillat».
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = Unntak - Lagra innloggingar
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Innloggingar frå følgjande nettsteder vil ikkje bli lagra
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Unntak - lagra passord
     .style = { permissions-window2.style }
+    .title = Unntak - lagra passord
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } lagrar ikkje passord for nettstadar som er oppførte her.
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Tillatne nettsider - Inatallering av tillegg
     .style = { permissions-window2.style }
+    .title = Tillatne nettsider - Inatallering av tillegg
 permissions-exceptions-addons-desc = Du kan velje kva for nettstadar som har løyve til å installere tillegg. Skriv inn eksakt adresse til nettstaden du vil tillate, og trykk «Tillat».
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = Innstillingar - Automatisk avspeling
     .style = { permissions-window2.style }
+    .title = Innstillingar - Automatisk avspeling
 permissions-site-autoplay-desc = Du kan handsame nettstadar som ikkje følgjer standardinnstillingane dine for automatisk avspeling her.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Innstillingar - Varslingsløyve
     .style = { permissions-window2.style }
+    .title = Innstillingar - Varslingsløyve
 permissions-site-notification-desc = Følgjande nettsider har bedt om å få sende deg varsel. Du kan spesifisere kva for nettsider som har løyve til å sende deg varsel. Du kan også blokkere nye førespurnadar som ber om løyve til å sende varsel.
 permissions-site-notification-disable-label =
     .label = Blokkere nye førespurnadar som ber om løyve til å sende varsel
@@ -161,8 +146,8 @@ permissions-site-notification-disable-desc = Dette hindrar nettstadar som ikkje 
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = Innstillingar - Plasseringsløyve
     .style = { permissions-window2.style }
+    .title = Innstillingar - Plasseringsløyve
 permissions-site-location-desc = Følgjande nettstadar har bedt om tilgang til plasseringa di. Du kan spesifisere kva for nettstadar som får tilgang til plasseringa di. Du kan også blokkere nye førespurnadar som ber om tilgang til plasseringa di.
 permissions-site-location-disable-label =
     .label = Blokker nye førespurnadar som ber om tilgang til plasseringa di
@@ -171,8 +156,8 @@ permissions-site-location-disable-desc = Dette hindrar nettstadar som ikkje er f
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = Innstillingar - Løyve for virtuell røyndom
     .style = { permissions-window2.style }
+    .title = Innstillingar - Løyve for virtuell røyndom
 permissions-site-xr-desc = Følgjande nettstadar har bedt om tilgang til den virtuelle røyndomseininga di. Du kan spesifisere kva for nettstadar som får tilgang til den virtuelle røyndomseininga di. Du kan også blokkere nye førespurnadar som ber om tilgang til den virtuelle røyndomseininga di.
 permissions-site-xr-disable-label =
     .label = Blokker nye førespurnadar som ber om tilgang til den virtuelle røyndomseininga di.
@@ -181,8 +166,8 @@ permissions-site-xr-disable-desc = Dette findrar nettstadar som ikkje er oppfør
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = Innstillingar - Kameraløyve
     .style = { permissions-window2.style }
+    .title = Innstillingar - Kameraløyve
 permissions-site-camera-desc = Følgjande nettstadar har bedt om tilgang til kameraet ditt. Du kan spesifisere kva for nettstadar som får tilgang til kameraet ditt. Du kan også blokkere nye førespurnadar som ber om tilgang til kameraet ditt.
 permissions-site-camera-disable-label =
     .label = Blokker nye førespurnadar som ber om tilgang til kameraet ditt
@@ -191,8 +176,8 @@ permissions-site-camera-disable-desc = Dette hindrar nettstadar som ikkje er fø
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = Innstillingar – Einingsappar og -tenester
     .style = { permissions-window2.style }
+    .title = Innstillingar – Einingsappar og -tenester
 permissions-site-localhost-desc = Desse nettstadane har bede om tilgang til appar og tenester på denne eininga. Du kan velje å tillate eller blokkere nettstadar frå å gjere dette.
 permissions-site-localhost-disable-label =
     .label = Blokker nye førespurnadar om tilgang til appar og tenester på denne eininga
@@ -201,8 +186,8 @@ permissions-site-localhost-disable-desc = Dette vil hindre nettstadar som ikkje 
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = Innstillingar - Lokale nettverkseiningar
     .style = { permissions-window2.style }
+    .title = Innstillingar - Lokale nettverkseiningar
 permissions-site-local-network-desc = Desse nettstadane har bede om tilgang til appar og tenester på einingar som er kopla til Wi-Fi-nettverket eller det lokale nettverket ditt. Du kan velje å tillate eller blokkere nettstadar frå å gjere dette.
 permissions-site-local-network-disable-label =
     .label = Blokker nye førespurnadar om tilgang til appar og tenester på einingar som er kopla til Wi-Fi-nettverket eller det lokale nettverket ditt.
@@ -211,8 +196,8 @@ permissions-site-local-network-disable-desc = Dette vil hindre nettstadar som ik
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Innstillingar - Mikrofonløyve
     .style = { permissions-window2.style }
+    .title = Innstillingar - Mikrofonløyve
 permissions-site-microphone-desc = Følgjande nettstadar har bedt om tilgang til mikrofonen din. Du kan spesifisere kva for nettstadar som får tilgang til mikrofonen din. Du kan også blokkere nye førespurnadar som ber om tilgang til mikrofonen din.
 permissions-site-microphone-disable-label =
     .label = Blokker nye førespurnadar som ber om tilgang til mikrofonen din
@@ -223,12 +208,12 @@ permissions-site-microphone-disable-desc = Dette hindrar nettstadar som ikkje er
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Innstillingar - Høgtalarløyve
     .style = { permissions-window2.style }
+    .title = Innstillingar - Høgtalarløyve
 permissions-site-speaker-desc = Følgjande nettstadar har bedt om å velje ei lyd ut-eining. Du kan spesifisere kva for nettstadar som har lov til å velje ei lyd ut-eining.
 permissions-exceptions-doh-window =
-    .title = Nettstadunntak for DNS-over-HTTPS
     .style = { permissions-window2.style }
+    .title = Nettstadunntak for DNS-over-HTTPS
 permissions-exceptions-manage-doh-desc = { -brand-short-name } vil ikkje bruke sikker DNS på desse nettstadane og underdomena deira.
 permissions-doh-entry-field = Skriv inn domenenamnet til nettstaden
     .accesskey = S

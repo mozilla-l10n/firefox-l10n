@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Edukiontzirik ez
-    .accesskey = E
 user-context-manage-containers =
     .label = Kudeatu edukiontziak
     .accesskey = o

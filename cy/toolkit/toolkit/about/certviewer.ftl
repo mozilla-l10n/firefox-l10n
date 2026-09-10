@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = Eich Tystysgrifau
 certificate-viewer-tab-people = Pobl
 certificate-viewer-tab-servers = Gweinyddion
 certificate-viewer-tab-ca = Awdurdodau
-certificate-viewer-tab-unkonwn = Anhysbys

@@ -20,10 +20,6 @@ security-software-name = ناو
 security-software-antivirus = دژەڤایرۆس
 security-software-antispyware = دژەسیخوڕی
 security-software-firewall = ئاگرەدیوار
-features-title = تایبەتمەندییەکانی { -brand-short-name }
-features-name = ناو
-features-version = وەشان
-features-id = ناسنامە
 processes-title = کرداری لە دوورەوە
 processes-type = جۆر
 processes-count = وڵات
@@ -49,7 +45,6 @@ app-basics-profile-dir =
         [linux] پێڕستی پرۆفایل
        *[other] بوخچەی پرۆفایل
     }
-app-basics-enabled-plugins = زیادکراوە چالاکەکان
 app-basics-build-config = ڕێکخستنەکانی بنیاتنان
 app-basics-user-agent = بریکاری بەکارهێنەر
 app-basics-os = سیستمی کارپێکردن
@@ -71,9 +66,6 @@ show-dir-label =
 environment-variables-title = گۆڕاوەکانی ژینگە
 environment-variables-name = ناو
 environment-variables-value = نرخ
-experimental-features-title = تایبەتمەندی تاقیکاری
-experimental-features-name = ناو
-experimental-features-value = نرخ
 modified-prefs-name = ناو
 modified-prefs-value = نرخ
 locked-prefs-name = ناو

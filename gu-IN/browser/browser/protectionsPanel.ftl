@@ -5,19 +5,6 @@
 protections-panel-content-blocking-cryptominers-label = Cryptominers
 protections-panel-content-blocking-fingerprinters-label = Fingerprinters
 
-##
-
-protections-panel-content-blocking-breakage-report-view-collection-url = URL
-protections-panel-content-blocking-breakage-report-view-collection-url-label =
-    .aria-label = URL
-protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = રદ કરો
-protections-panel-content-blocking-breakage-report-view-send-report =
-    .label = અહેવાલ મોકલો
-
-# Cookie Banner Handling
-
-
 ## Protections panel info message
 
 cfr-protections-panel-header = અનુસર્યા વિના બ્રાઉઝ કરો

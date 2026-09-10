@@ -17,7 +17,6 @@ autofill-edit-payment-method-os-prompt-windows = «{ -brand-short-name }» кӯ�
 autofill-edit-payment-method-os-prompt-other = «{ -brand-short-name }» кӯшиш мекунад, ки маълумоти тарзи пардохти нигоҳдошташударо нишон диҳад.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Имконоти пуркунии шакл ба таври худкор
-autofill-options-link-osx = Хусусиятҳои пуркунии шакл ба таври худкор
 
 ## The credit card capture doorhanger
 
@@ -62,16 +61,6 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = МИР
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
-# The warning text that is displayed for informing users what categories are
-# about to be filled.  The text would be, for example,
-#   Also autofills organization, phone, email.
-# Variables:
-#   $categories - one or more of the categories, see autofill-category-X below
-autofill-phishing-warningmessage-extracategory = Инчунин, { $categories } ба таври худкор пур карда мешавад
-# Variation when all are in the same category.
-# Variables:
-#   $categories - one or more of the categories
-autofill-phishing-warningmessage = { $categories } ба таври худкор пур карда мешавад
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = нишонӣ
 autofill-category-name = ном

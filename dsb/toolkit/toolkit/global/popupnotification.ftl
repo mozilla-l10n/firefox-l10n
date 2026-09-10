@@ -8,6 +8,3 @@ popup-notification-more-actions-button =
 popup-notification-default-button2 =
     .label = W pórěźe
     .accesskey = r
-popup-notification-default-button =
-    .label = W pórěźe!
-    .accesskey = r

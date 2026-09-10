@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Թարմացման ներբեռնում — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Բեռնում է թարմացումը — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Թարմացման ներբեռնում — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Թարմացման կիրառում...
 update-failed = Թարմացումը չյաջողուեց:<label data-l10n-name="failed-link">Ներբեռնել վերջին տարբերակը</label>
 update-failed-main = Թարմացումը չյաջողուեց:<a data-l10n-name="failed-link-main">Ներբեռնել վերջին տարբերակը</a>
-update-adminDisabled = Թարմացումներն անջատուած են Ձեր  համակարգավարի կողմից:
 update-noUpdatesFound = { -brand-short-name }-ը թարմացուած է
 settings-update-no-updates-found =
     .label = { -brand-short-name }-ը թարմացուած է
@@ -61,8 +59,6 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name }-ը ստեղծել է <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>-ը՝ <label data-l10n-name="community-creditsLink">ընդհանուր համայնք</label>, որոնք աշխատում են միասին՝ ապահովելու համացանցի հասանելիութիւնը բոլորի համար։
 helpus = Ցանկանու՞մ էք աւգնել։ <label data-l10n-name="helpus-donateLink">Կատարէք նուիրատուութիւն</label> կամ <label data-l10n-name="helpus-getInvolvedLink">միացէք մեր համայնքին։</label>
 bottomLinks-license = Արտաւնագրի տուեալներ
-bottomLinks-rights = Աւգտագործողի իրաւունքները
-bottomLinks-privacy = Գաղտնիութեան քաղաքականութիւն
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

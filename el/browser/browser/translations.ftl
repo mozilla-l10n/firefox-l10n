@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Μετάφραση σελίδας
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Μετάφραση σε εξέλιξη
 translations-panel-settings-button =
     .aria-label = Διαχείριση ρυθμίσεων μετάφρασης
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } (BETA)
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Διαχείριση γλωσσών
-translations-panel-settings-about = Σχετικά με τις μεταφράσεις στο { -brand-shorter-name }
 translations-panel-settings-about2 =
     .label = Σχετικά με τις μεταφράσεις στο { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
@@ -91,14 +82,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = Δυστυχώς, δεν υποστηρίζουμε ακόμα μεταφράσεις από τα { $language }.
 translations-panel-error-unsupported-hint-unknown-2 = Δυστυχώς, δεν υποστηρίζουμε ακόμα μεταφράσεις από αυτήν τη γλώσσα.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Δυστυχώς, δεν υποστηρίζουμε ακόμα τα { $language }.
-translations-panel-error-unsupported-hint-unknown = Δυστυχώς, δεν υποστηρίζουμε ακόμα αυτήν τη γλώσσα.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -130,10 +113,6 @@ translations-manage-header = Μεταφράσεις
 translations-manage-settings-button =
     .label = Ρυθμίσεις…
     .accesskey = θ
-translations-manage-description = Λήψη γλωσσών για μετάφραση εκτός σύνδεσης.
-translations-manage-all-language = Όλες οι γλώσσες
-translations-manage-download-button = Λήψη
-translations-manage-delete-button = Διαγραφή
 translations-manage-intro-2 = Ορίστε τις προτιμήσεις γλώσσας και μετάφρασης ιστοτόπων και διαχειριστείτε τις γλώσσες που θα ληφθούν για μετάφραση εκτός σύνδεσης.
 translations-manage-download-description = Λήψη γλωσσών για μετάφραση εκτός σύνδεσης
 translations-manage-language-download-button =
@@ -147,12 +126,11 @@ translations-manage-language-remove-all-button =
     .label = Αφαίρεση όλων
     .accesskey = φ
 translations-manage-error-download = Προέκυψε πρόβλημα κατά τη λήψη του αρχείου γλώσσας. Δοκιμάστε ξανά.
-translations-manage-error-delete = Προέκυψε σφάλμα κατά τη διαγραφή των αρχείων γλώσσας. Δοκιμάστε ξανά.
 translations-manage-error-remove = Προέκυψε σφάλμα κατά τη αφαίρεση των αρχείων γλώσσας. Δοκιμάστε ξανά.
 translations-manage-error-list = Αποτυχία λήψης της λίστας με τις διαθέσιμες γλώσσες για μετάφραση. Ανανεώστε τη σελίδα για να δοκιμάσετε ξανά.
 translations-settings-title =
-    .title = Ρυθμίσεις μεταφράσεων
     .style = min-width: 36em
+    .title = Ρυθμίσεις μεταφράσεων
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Θα γίνεται αυτόματα μετάφραση για τις παρακάτω γλώσσες
@@ -246,16 +224,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = Δυστυχώς, δεν υποστηρίζουμε ακόμα μεταφράσεις από τα { $language }.
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = Δυστυχώς, δεν υποστηρίζουμε ακόμα μεταφράσεις από αυτήν τη γλώσσα.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Δυστυχώς, δεν υποστηρίζουμε ακόμα τα { $language }.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Δυστυχώς, δεν υποστηρίζουμε ακόμα αυτήν τη γλώσσα.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Ρυθμίσεις μεταφράσεων

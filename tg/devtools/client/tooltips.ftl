@@ -33,7 +33,6 @@ inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</st
 inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> барои фарзунсурҳои «::first-letter» дастгирӣ карда намешавад.
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> барои фарзунсурҳои «::placeholder» дастгирӣ карда намешавад.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он дорои намоиши <strong>{ $display }</strong> мебошад.
-inactive-css-not-display-block-on-floated = Қимати хусусияти <strong>display</strong> аз тарафи низом ба <strong>block</strong> иваз карда шуд, зеро ки унсур дорои қимати <strong>floated</strong> мебошад.
 inactive-css-not-display-block-on-floated-2 = Қимати хусусияти <strong>display</strong> аз тарафи низом ба <strong>{ $display }</strong> иваз карда шуд, зеро ки унсур дорои қимати <strong>floated</strong> мебошад.
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> ягон таъсир надорад, зеро ки он наметавонад дар унсурҳои «grid» ё «flex» истифода карда шавад.
 inactive-css-not-block = Хусусияти <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он метавонад танҳо ба унсурҳои дар сатҳи блок татбиқ карда шавад.
@@ -54,16 +53,6 @@ inactive-scroll-padding-when-not-scroll-container = Хусусияти <strong>{
 inactive-css-border-image = <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он ба унсурҳои дохили ҷадвале, ки дар он хусусияти <strong>border-collapse</strong> ба <strong>collapse</strong> дар унсури ҷадвали аслӣ танзим шудааст, татбиқ карда намешавад.
 inactive-css-resize = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он метавонад танҳо ба унсурҳо бо қимати саршорие татбиқ карда шавад, ки аз унсури намоён фарқ мекунад ва ба баъзе унсурҳои ивазшавандае, ки ба «textareas» монанд мебошанд.
 inactive-css-ruby-element = <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он унсури «ruby» мебошад. Андозаи он аз тарафи андозаи шрифти матни «ruby» муайян карда мешавад.
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> барои ҷудокунии фарзунсурҳо дастгирӣ карда намешавад.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> барои фарзунсурҳои «::cue» дастгирӣ карда намешавад.
 inactive-css-at-position-try-not-supported = Хусусияти <strong>{ $property }</strong> дар қоидаҳои <strong>@position-try</strong> дастгирӣ намешавад.

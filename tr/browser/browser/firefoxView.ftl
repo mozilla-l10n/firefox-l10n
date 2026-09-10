@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Tüm pencere ve cihazlarda son gezdiklerinizi görüntüleyin
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .aria-label = Kapat
-    .title = Kapat
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Az önce
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Sekme taşıma
-firefoxview-tabpickup-description = Diğer cihazlarınızdaki sayfaları açın.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = %{ $percentValue } tamamlandı
-firefoxview-tabpickup-step-signin-header = Cihazlar arasında kolayca geçiş yapın
-firefoxview-tabpickup-step-signin-description = Telefondaki sekmelerinizi burada görmek için önce giriş yapın veya hesap açın.
-firefoxview-tabpickup-step-signin-primarybutton = Devam et
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } tüm cihazlarınızda
 firefoxview-syncedtabs-signin-description-2 = Telefonunuzdaki ve diğer cihazlardaki açık sekmeleri görmek için giriş yapın veya hesap açın. Hesap açarak parolalarınızı, geçmişinizi ve daha fazlasını eşitleyebilirsiniz.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Bilgisayardan telefona anında geçin
 firefoxview-syncedtabs-signin-description-3 = Sekmelerinizi, parolalarınızı ve gezinti geçmişinizi cihazlarınız arasında eşitleyin; kesintisiz gezinin.
 firefoxview-syncedtabs-signin-primarybutton-2 = Giriş yap
-firefoxview-tabpickup-adddevice-header = { -brand-product-name } tarayıcınızı telefonunuz veya tabletinizle eşitleyin
-firefoxview-tabpickup-adddevice-description = Mobil cihazlar için { -brand-product-name }’u indirin ve hesabınıza giriş yapın.
-firefoxview-tabpickup-adddevice-learn-how = Nasıl yapılacağını öğrenin
-firefoxview-tabpickup-adddevice-primarybutton = Mobil cihazlar için { -brand-product-name }’u indir
 firefoxview-syncedtabs-adddevice-header-2 = Sekmelerinize her yerden ulaşın
 firefoxview-syncedtabs-adddevice-description-2 = Sekmeleri burada görmek için telefonunuzdan veya başka bir bilgisayarınızdan { -brand-product-name }’a giriş yapın. <a data-l10n-name="url">Cihazlarınızı bağlamayı</a> öğrenin.
 firefoxview-syncedtabs-adddevice-primarybutton = Mobil cihazlar için { -brand-product-name }’u deneyin
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Sekmeleriniz telefonunuzda sizi bekliyor.
 firefoxview-syncedtabs-adddevice-description-3 = Mobil cihazınıza { -brand-product-name } tarayıcısını indirip açık sekmelerinizle diğer verilerinizi eşitlemek için QR kodunu okutun. <a data-l10n-name="url">Başka cihazları nasıl bağlayacağınızı</a> öğrenin.
-firefoxview-tabpickup-synctabs-header = Sekme eşitlemeyi açın
-firefoxview-tabpickup-synctabs-description = { -brand-short-name } tarayıcınızın sekmeleri cihazlar arasında paylaşmasına izin verin.
-firefoxview-tabpickup-synctabs-learn-how = Nasıl yapılacağını öğrenin
 firefoxview-tabpickup-synctabs-primarybutton = Açık sekmeleri eşitle
 firefoxview-tabpickup-synctabs-primarybutton-2 = Sekme eşitlemeyi aç
 firefoxview-syncedtabs-synctabs-header = Eşitleme ayarlarınızı güncelleyin
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = İşlem tamamlandığında diğer c
 firefoxview-syncedtabs-loading-header-2 = Sekmeleriniz getiriliyor…
 firefoxview-syncedtabs-loading-description-2 = Eşitleme devam ediyor. Sekmeler yakında burada olacak.
 firefoxview-tabpickup-fxa-admin-disabled-header = Kuruluşunuz eşitlemeyi devre dışı bırakmış
-firefoxview-tabpickup-fxa-admin-disabled-description = Yöneticiniz eşitlemeyi devre dışı bıraktığı için { -brand-short-name } sekmeleri cihazlar arasında eşitleyemiyor.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = Kuruluşunuz eşitlemeyi devre dışı bıraktığı için { -brand-short-name }, sekmelerinizi cihazlar arasında eşitleyemiyor.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Sekme eşitleme kapalı
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Kuruluşunuz bu özelliği engelledi.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Sekmelerin kilidini ana parolanızla açın
 firefoxview-tabpickup-password-locked-description-2 = Eşitlenmiş sekmeler gizliliğiniz için korunur. Diğer cihazlarınızdaki sekmeleri görmek için { -brand-short-name } ana parolanızı girin.
 firefoxview-tabpickup-signed-out-header = Yeniden bağlanmak için giriş yapın
-firefoxview-tabpickup-signed-out-description = Yeniden bağlanıp sekmelerinize ulaşmak için { -fxaccount-brand-name }nıza giriş yapın.
 firefoxview-tabpickup-signed-out-description2 = Yeniden bağlanıp sekmelerinize ulaşmak için hesabınıza giriş yapın.
 firefoxview-tabpickup-signed-out-primarybutton = Giriş yap
 firefoxview-tabpickup-signed-out-header-2 = Sekmelerinizi görmek için giriş yapın
 firefoxview-tabpickup-signed-out-description-2 = Diğer cihazlardaki sekmeleri görmek için yeniden bağlanın.
-firefoxview-tabpickup-syncing = Sekmeleriniz eşitleniyor. Birkaç saniye bekleyin.
-firefoxview-mobile-promo-header = Telefon veya tabletinizdeki sekmelerinize erişin
-firefoxview-mobile-promo-description = Mobil sekmelerinizi görmek için iOS veya Android’de { -brand-product-name } tarayıcısına giriş yapın.
-firefoxview-mobile-promo-primarybutton = Mobil cihazlar için { -brand-product-name }’u indir
-firefoxview-mobile-confirmation-header = 🎉 Her şey hazır!
-firefoxview-mobile-confirmation-description = Artık { -brand-product-name } sekmelerinize tabletinizden ve telefonunuzdan ulaşabilirsiniz.
-firefoxview-closed-tabs-title = Son kapatılanlar
-firefoxview-closed-tabs-description2 = Kapattığınız sayfaları bu pencereden geri açabilirsiniz.
-firefoxview-closed-tabs-placeholder-header = Yakın zamanda kapatılmış sekme yok
-firefoxview-closed-tabs-placeholder-body = Bu pencerede bir sekmeyi kapattıktan sonra buradan getirebilirsiniz.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = { $tabTitle } sekmesini kaldır
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Son bakılan
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = { $targetURI } adresini yeni sekmede aç
-firefoxview-try-colorways-button = Renk kuşaklarını deneyin
-firefoxview-change-colorway-button = Renk kuşağını değiştir
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Henüz görülecek bir şey yok
-firefoxview-synced-tabs-placeholder-body = Başka bir cihazdaki { -brand-product-name } tarayıcınızda açtığınız sayfaları burada görebilirsiniz.
 firefoxview-collapse-button-show =
     .title = Listeyi göster
 firefoxview-collapse-button-hide =

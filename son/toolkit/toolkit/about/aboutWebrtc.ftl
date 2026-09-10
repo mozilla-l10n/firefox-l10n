@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = about:webrtc gaabu sanda
 about-webrtc-aec-logging-msg-label = AEC zaaritiira
 about-webrtc-aec-logging-off-state-label = AEC zaaritiira šintin
 about-webrtc-aec-logging-on-state-label = AEC zaatiira kayandi
-about-webrtc-aec-logging-on-state-msg = AEC zaaritiira ga dira (šelaŋ nda ciyakaw miniti fooyaŋ nda jindezaayanoo kayandi)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC zaaritiira ga dira (šelaŋ nda ciyakaw miniti fooyaŋ nda jindezaayanoo kayandi)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -70,15 +69,7 @@ about-webrtc-nominated = Maa harante
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Suubante
 about-webrtc-save-page-label = Moɲoo gaabu
-about-webrtc-debug-mode-msg-label = Hasaraw-kaayan alhaali
-about-webrtc-debug-mode-off-state-label = Hasaraw-kaayan alhaali tunandi
-about-webrtc-debug-mode-on-state-label = Hasaraw-kaayan alhaali kayandi
-about-webrtc-stats-heading = Goywaati kabu-izey
 about-webrtc-log-heading = Ciyari zaaritiira
-about-webrtc-log-show-msg = zaaritiira cebe
-    .title = naagu ka dunboo woo hayandi
-about-webrtc-log-hide-msg = zaaritiira tugu
-    .title = naagu ka dunboo woo nakasandi
 about-webrtc-log-section-show-msg = Zaaritiira cebe
     .title = Naagu ka dunboo woo hayandi
 about-webrtc-log-section-hide-msg = Zaaritiira tugu
@@ -99,10 +90,6 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (daabant
 about-webrtc-local-candidate = Gorodoo kandiida
 about-webrtc-remote-candidate = Kandiida moora
 about-webrtc-priority = Cahãrihaya
-about-webrtc-fold-show-msg = šilbayhayey cebe
-    .title = naagu ka dunboo woo hayandi
-about-webrtc-fold-hide-msg = šilbayhayey tugu
-    .title = naagu ka dunboo woo nakasandi
 about-webrtc-fold-default-show-msg = Šilbayhayey cebe
     .title = Naagu ka dunboo woo hayandi
 about-webrtc-fold-default-hide-msg = Šilbayhayey tugu
@@ -112,10 +99,6 @@ about-webrtc-encoder-label = Harfu-hawkaw
 
 ##
 
-about-webrtc-save-page-msg = moo gaabundi ne: { $path }
-about-webrtc-debug-mode-off-state-msg = ceebandu tammaasa ga duwandi ne: { $path }
-about-webrtc-debug-mode-on-state-msg = hasaraw-kaayan ga dira, ceebandu tammaasa doo: { $path }
-about-webrtc-aec-logging-off-state-msg = zaaritiira tuku zaantey ga duwandi ne: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

@@ -23,13 +23,6 @@ xpinstall-prompt-never-allow =
 xpinstall-prompt-install =
     .label = تنصیب جاری رکھیں
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = آپ کے نظام منتظم نے سافٹ ویئر کی تنصیب نا اہل کی ہوئی ہے۔
 xpinstall-disabled = سافٹ ویئر کی تنصیب اس وقت نا اہل کی گئی ہے۔ کلک کر کے اہل بنائیں اور پھر کوشش کریں۔
 xpinstall-disabled-button =
     .label = اہل بنائیں
@@ -46,9 +39,6 @@ webext-perms-update-menu-item = { $addonName } کو نئی اجازتوں کی �
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = { $name } کو حذف کریں؟
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = { -brand-shorter-name } سے { $name } ہٹائیں
 addon-removal-button = ہٹائیں
 addon-removal-abuse-report-checkbox = اس توسیع کی اطلاع{ -vendor-short-name } کو دیں
 # Variables:
@@ -100,4 +90,3 @@ addon-local-install-error-not-signed = یہ ایڈ اون تنصیب نہیں ہ
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } تنصیب نہیں ہو سکا کیونکہ یہ { -brand-short-name } { $appVersion } کے ساتھ موازن نہیں۔
-addon-install-error-blocklisted = { $addonName } تنصیب نہیں ہو سکا کیونکہ اس اس کے سلامتی یا حفاظتی مسائل پیدا کرنے کے کافی امکانات ہیں۔

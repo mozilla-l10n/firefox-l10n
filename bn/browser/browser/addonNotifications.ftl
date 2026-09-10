@@ -31,27 +31,13 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = ইনস্টলেশন চালিয়ে যান
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = এই সাইটটি আপনার MIDI (মিউজিক্যাল ইন্সট্রুমেন্ট ডিজিটাল ইন্টারফেস) ডিভাইসে অ্যাক্সেসের অনুরোধ করছে৷ একটি অ্যাড-অন ইনস্টল করে ডিভাইস অ্যাক্সেস সক্ষম করা যেতে পারে।
 site-permission-install-first-prompt-midi-message = এই অ্যাক্সেস নিরাপদ হবে নিশ্চিত করা যাচ্ছে না। আপনি একান্তই যদি এই সাইটে বিশ্বাস করেন তবেই চালিয়ে যান।
-
-##
-
-xpinstall-disabled-locked = সিস্টেম অ্যাডমিনিস্ট্রেটর দ্বারা সফটওয়্যার ইনস্টলেশন বর্তমানে নিষ্ক্রিয় করা আছে।
 xpinstall-disabled-by-policy = আপনার প্রতিষ্ঠান সফ্টওয়্যার ইনস্টলেশন ডিজেবল (বন্ধ) করে রেখেছে।
 xpinstall-disabled = সফটওয়্যার ইনস্টলেশন বর্তমানে নিষ্ক্রিয় করা আছে। সক্রিয় বোতাম ক্লিক করে আবার চেষ্টা করুন।
 xpinstall-disabled-button =
     .label = সক্রিয়
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) আপনার সিস্টেম অ্যাডমিনিস্ট্রেটর দ্বারা ব্লক হয়েছে।
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = আপনার সিস্টেম অ্যাডমিনিস্ট্রেটর এই সাইটটিকে আপনার কম্পিউটারে সফ্টওয়্যার ইনস্টল করার অনুমতি চাওয়া থেকে বাধা দিয়েছে৷
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -76,9 +62,6 @@ webext-imported-addons = { -brand-short-name }-এ আমদানি করা 
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = { $name } অপসারণ করতে চান?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = { -brand-shorter-name } হতে { $name } অপসারণ করবেন?
 addon-removal-button = অপসারণ
 addon-removal-abuse-report-checkbox = এই এক্সটেনশনটি { -vendor-short-name }-এ রিপোর্ট করুন
 # "it" refers to the local AI model that is paired to the AI feature
@@ -135,7 +118,5 @@ addon-local-install-error-not-signed = ভেরিফাই না হওয়া
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } ইনস্টল করা যায় না কারণ এটা { -brand-short-name } { $appVersion } এর সাথে সুসংগতিপূর্ণ নয়।
 addon-install-error-hard-blocked = { $addonName } Mozilla-এর নীতি লঙ্ঘন করে এবং { -brand-short-name }-এ ইনস্টল করা যাবে না৷
-addon-install-error-blocklisted = { $addonName } ইনস্টল করা যায় না কারণ এর মারাত্মক স্থায়িত্ব বা নিরাপত্তাজনিত সমস্যা হওয়ার সম্ভাবনা রয়েছে।
-addon-install-error-soft-blocked = { $addonName } Mozilla-এর নীতি লঙ্ঘন করে এবং { -brand-short-name }-এ ইনস্টল করা যাবে না৷
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = আপনি একজন ব্যবহারকারী হিসাবে { $addonName } ইনস্টল করতে পারবেন না, এটি শুধুমাত্র এন্টারপ্রাইজ পলিসি ব্যবহার করে কোন সংস্থা দ্বারা ইনস্টল করা যেতে পারে৷

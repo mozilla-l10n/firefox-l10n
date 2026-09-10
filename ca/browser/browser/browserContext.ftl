@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Vés una pàgina enrere ({ $shortcut })
     .aria-label = Enrere
+    .tooltiptext = Vés una pàgina enrere ({ $shortcut })
     .accesskey = r
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Vés una pàgina endavant ({ $shortcut })
     .aria-label = Endavant
+    .tooltiptext = Vés una pàgina endavant ({ $shortcut })
     .accesskey = d
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Afegeix la pàgina a les adreces d'interès…
-    .accesskey = i
     .tooltiptext = Afegeix la pàgina a les adreces d'interès
+    .accesskey = i
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Afegeix la pàgina a les adreces d'interès…
-    .accesskey = i
     .tooltiptext = Afegeix la pàgina a les adreces d'interès ({ $shortcut })
+    .accesskey = i
 main-context-menu-edit-bookmark =
     .aria-label = Edita l'adreça d'interès…
-    .accesskey = i
     .tooltiptext = Edita l'adreça d'interès
+    .accesskey = i
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Edita l'adreça d'interès…
-    .accesskey = i
     .tooltiptext = Edita l'adreça d'interès ({ $shortcut })
+    .accesskey = i
 main-context-menu-open-link =
     .label = Obre l'enllaç
     .accesskey = O
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Anomena i desa el contingut de l'enllaç…
     .accesskey = s
-main-context-menu-save-link-to-pocket =
-    .label = Desa l'enllaç al { -pocket-brand-name }
-    .accesskey = k
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Activeu la sincronitzac
 main-context-menu-send-to-mobile-connect-phone3 = Connecteu un dispositiu per a enviar pestanyes
 main-context-menu-send-to-mobile-connect-phone-from-link = Connecteu un dispositiu per a enviar un enllaç
 main-context-menu-send-to-mobile-connect-phone-from-page = Connecteu un dispositiu per a enviar una pàgina
-main-context-menu-save-to-pocket =
-    .label = Desa la pàgina al { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Envia la pàgina al dispositiu
-    .accesskey = d
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Utilitza un inici de sessió desat
-    .accesskey = U
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Utilitza una contrasenya desada
     .accesskey = U
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Utilitza una màscara d'adreça electrònica del { -relay-brand-short-name }
     .accesskey = U
 main-context-menu-suggest-strong-password =
     .label = Suggereix una contrasenya segura…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = Gestiona els inicis de sessió
-    .accesskey = G
 main-context-menu-manage-passwords =
     .label = Gestiona les contrasenyes
     .accesskey = G
-main-context-menu-keyword =
-    .label = Afegeix una paraula clau per a aquesta cerca…
-    .accesskey = p
 main-context-menu-add-engine =
     .label = Afegeix un motor de cerca
     .accesskey = m
@@ -391,9 +364,6 @@ main-context-menu-view-selection-source =
     .label = Codi font de la selecció
     .accesskey = e
 main-context-menu-take-screenshot =
-    .label = Fes una captura de pantalla
-    .accesskey = F
-main-context-menu-take-frame-screenshot =
     .label = Fes una captura de pantalla
     .accesskey = F
 main-context-menu-view-page-source =

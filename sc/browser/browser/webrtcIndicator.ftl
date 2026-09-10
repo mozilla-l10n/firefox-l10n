@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Indicadore de cumpartzidura
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Indicadore de cumpartzidura
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Ses cumpartzende su micròfonu. Incarca inoghe pro controllare sa cumpartzidura.
 webrtc-screen-system-menu =
     .label = Ses cumpartzende una ventana o s'ischermu. Incarca inoghe pro controllare sa cumpartzidura.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Ses cumpartzende sa càmera e su micròfonu. Incarca inoghe pro controllare is cumpartziduras.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Ses cumpartzende sa càmera. Incarca inoghe pro controllare is cumpartziduras.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Ses cumpartzende su micròfonu. Incarca inoghe pro controllare is cumpartziduras.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Ses cumpartzende un'aplicatzione. Incarca inoghe pro controllare is cumpartziduras.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Ses cumpartzende s'ischermu. Incarca inoghe pro controllare is cumpartziduras.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Ses cumpartzende una ventana. Incarca inoghe pro controllare is cumpartziduras.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Ses cumpartzende un'ischeda. Incarca inoghe pro controllare is cumpartziduras.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Boles permìtere
 
 webrtc-share-screen-warning = Cumpartzi s’ischermu isceti cun is sitos web in is chi cunfies. Sa cumpartzidura podet permìtere a is sitos ingannosos de navigare finghende·si tue e de ti furare is datos privados.
 webrtc-share-browser-warning = Cumpartzi { -brand-short-name } isceti cun is sitos in is chi cunfies. Sa cumpartzidura podet permìtere a is sitos ingannosos de navigare finghende·si tue e de ti furare is datos privados.
-webrtc-share-screen-learn-more = Nde chèrgio ischire de prus
 webrtc-pick-window-or-screen = Seletziona una ventana o un ischermu
 webrtc-share-entire-screen = Ischermu intreu
 webrtc-share-pipe-wire-portal = Imprea sa cunfiguratzione de su sistema operativu

@@ -26,8 +26,6 @@ downloads-cmd-cancel-panel =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = ಡೌನ್‌ಲೋಡ್‌ ಕಡತಕೋಶವನ್ನು ತೋರಿಸು
 downloads-cmd-retry =
     .tooltiptext = ಮರಳಿ ಪ್ರಯತ್ನಿಸು
 downloads-cmd-retry-panel =

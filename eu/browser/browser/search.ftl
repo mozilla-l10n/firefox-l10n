@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Zure bilaketa-motor lehenetsia aldatu egin da.</strong> Hemendik aurrera { $oldEngine } ez dago erabilgarri { -brand-short-name }(r)en bilaketa-motor lehenetsi gisa. { $newEngine } da zure bilaketa-motor lehenetsia orain. Beste bilaketa-motor lehenetsi batera aldatzeko, zoaz ezarpenetara. <label data-l10n-name="remove-search-engine-article">Argibide gehiago</label>
 removed-search-engine-message2 = <strong>Zure bilaketa-motor lehenetsia aldatu egin da.</strong> Hemendik aurrera { $oldEngine } ez dago erabilgarri { -brand-short-name }(r)en bilaketa-motor lehenetsi gisa. { $newEngine } da zure bilaketa-motor lehenetsia orain. Beste bilaketa-motor lehenetsi batera aldatzeko, zoaz ezarpenetara.
 remove-search-engine-button = Ados
 
@@ -52,11 +51,11 @@ install-search-engine-no = Ez
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Gehitu bilaketa-motorra
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Editatu bilaketa-motorra
     .style = min-width: 32em;
+    .title = Editatu bilaketa-motorra
 add-engine-button = Gehitu bilaketa-motor pertsonalizatua
 add-engine-name = Bilaketa-motorraren izena
 add-engine-url2 = URLa, bilaketa-terminoaren lekuan %s karakterea duela
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Saiatu %s karakterea sartzen bilaketa-termi
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Gehitu bilaketa-motorra
-    .buttonaccesskeyaccept = G
     .buttonlabelextra1 = Aurreratua
+    .buttonaccesskeyaccept = G
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Gorde bilaketa-motorra
-    .buttonaccesskeyaccept = G
     .buttonlabelextra1 = Aurreratua
+    .buttonaccesskeyaccept = G

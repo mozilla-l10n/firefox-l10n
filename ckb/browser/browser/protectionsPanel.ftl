@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = ماڵپەڕ کار ناکات؟
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = ماڵپەڕ کار ناکات؟
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -34,40 +29,9 @@ protections-panel-not-found-label = هیچ نەدۆزرایەوە
 
 protections-panel-settings-label = ڕێکخستنەکانی پارێزگاری
 protections-panel-protectionsdashboard-label = بۆردی پارێزگاری
-
-## In the Site Not Working? view, we suggest turning off protections if
-## the user is experiencing issues with any of a variety of functionality.
-
-# The header of the list
-protections-panel-site-not-working-view-header = پارێزگاری بکوژێنەوە ئەگەر کێشەت هەیە لەگەڵ:
-# The list items, shown in a <ul>
-protections-panel-site-not-working-view-issue-list-login-fields = بواری چوونەژوورەوە
-protections-panel-site-not-working-view-issue-list-forms = فۆرمەکان
-protections-panel-site-not-working-view-issue-list-payments = پارەدان
-protections-panel-site-not-working-view-issue-list-comments = لێدوانەکان
-protections-panel-site-not-working-view-issue-list-videos = ڤیدیۆکان
-protections-panel-site-not-working-view-send-report = ڕاپۆرت بنێرە
-
-##
-
 protections-panel-content-blocking-manage-settings =
     .label = بەڕێوەبردنی ڕێکخستنەکانی پارێزگاری
     .accesskey = M
-protections-panel-content-blocking-breakage-report-view =
-    .title = ماڵپەڕێکی لەکارکەوتوو ڕاپۆرت بکە
-protections-panel-content-blocking-breakage-report-view-collection-url = بەستەر
-protections-panel-content-blocking-breakage-report-view-collection-url-label =
-    .aria-label = بەستەر
-protections-panel-content-blocking-breakage-report-view-collection-comments = دڵخوازییە: کێشەکە باس بکە
-protections-panel-content-blocking-breakage-report-view-collection-comments-label =
-    .aria-label = دڵخوازییە: کێشەکە باس بکە
-protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = پاشگەزبوونەوە
-protections-panel-content-blocking-breakage-report-view-send-report =
-    .label = ڕاپۆرت بنێرە
-
-# Cookie Banner Handling
-
 
 ## Protections panel info message
 

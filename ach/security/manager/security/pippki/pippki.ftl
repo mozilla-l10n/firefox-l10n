@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Gamo Waraga
     .style = min-width: 46em
+    .title = Gamo Waraga
 download-cert-message = Gipenyi me geno Twero me Waraga manyen (CA).
 download-cert-trust-ssl =
     .label = Gen CA man me nyutu kakube me web.
@@ -37,8 +37,6 @@ download-cert-view-text = Pim waraga me CA
 
 client-auth-window =
     .title = Kwac me Nyutu Latic kwede
-client-auth-site-description = Di bar man openyo ni myero i nyute keni kwede waraga:
-client-auth-choose-cert = Yer waraga me mic calo nyutu:
 client-auth-cert-details = Matut ikom catibiket ma kiyero ni:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

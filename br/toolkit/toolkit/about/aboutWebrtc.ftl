@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = enrollañ about:webrtc evel
 about-webrtc-aec-logging-msg-label = Kerzhlevr AEC
 about-webrtc-aec-logging-off-state-label = Gweredekaat kerzhlevr AEC
 about-webrtc-aec-logging-on-state-label = Diweredekaat kerzhlevr AEC
-about-webrtc-aec-logging-on-state-msg = Enrolladur kerzhlevr AEC gweredekaet (komzit gant ar galver e-pad un nebeud munutennoù ha paouezit an enrolladenn)
 about-webrtc-aec-logging-toggled-on-state-msg = Enrolladur kerzhlevr AEC gweredekaet (komzit gant ar galver e-pad un nebeud munutennoù ha paouezit an enrolladenn)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -82,17 +81,9 @@ about-webrtc-nominated = Rakdibabet
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Diuzet
 about-webrtc-save-page-label = Enrollañ ar bajenn
-about-webrtc-debug-mode-msg-label = Mod Diveugañ
-about-webrtc-debug-mode-off-state-label = Deraouiñ ar Mod Diveugañ
-about-webrtc-debug-mode-on-state-label = Arsaviñ ar Mod Diveugañ
-about-webrtc-stats-heading = Stadegoù an estez
 about-webrtc-stats-clear = Skarzhañ ar roll istor
 about-webrtc-log-heading = Kerzhlevr Kennaskañ
 about-webrtc-log-clear = Skarzhañ ar c'herzhlevr
-about-webrtc-log-show-msg = diskouez ar c'herzhlevr
-    .title = klikit evit kreskaat al lodenn-mañ
-about-webrtc-log-hide-msg = Kuzhat ar c'herzhlevr
-    .title = Klikañ da ziskar ar gevrenn-mañ
 about-webrtc-log-section-show-msg = Diskouez ar c'herzhlevr
     .title = Klikit evit kreskaat al lodenn-mañ
 about-webrtc-log-section-hide-msg = Kuzhat ar c'herzhlevr
@@ -123,19 +114,11 @@ about-webrtc-remote-candidate = Rakdibab a-bell
 about-webrtc-raw-candidates-heading = An holl emstriverien diaoz
 about-webrtc-raw-local-candidate = Emstriver diaoz lec'hel
 about-webrtc-raw-remote-candidate = Emstriver diaoz a-bell
-about-webrtc-raw-cand-show-msg = diskouez an emstriverien diaoz
-    .title = klikit evit kreskaat al lodenn-mañ
-about-webrtc-raw-cand-hide-msg = kuzhat an emstriverien diaoz
-    .title = Klikañ da ziskar ar gevrenn-mañ
 about-webrtc-raw-cand-section-show-msg = Diskouez an emstriverien diaoz
     .title = Klikit evit kreskaat al lodenn-mañ
 about-webrtc-raw-cand-section-hide-msg = Kuzhat an emstriverien diaoz
     .title = Klikañ da ziskar ar gevrenn-mañ
 about-webrtc-priority = Tevet
-about-webrtc-fold-show-msg = skrammañ ar munudoù
-    .title = klikit evit kreskaat al lodenn-mañ
-about-webrtc-fold-hide-msg = kuzhat ar munudoù
-    .title = Klikañ da ziskar ar gevrenn-mañ
 about-webrtc-fold-default-show-msg = Skrammañ ar munudoù
     .title = Klikit evit kreskaat al lodenn-mañ
 about-webrtc-fold-default-hide-msg = Kuzhat ar munudoù
@@ -157,10 +140,6 @@ about-webrtc-configuration-element-provided = Pourchaset
 
 ##
 
-about-webrtc-save-page-msg = pajenn enrollet e: { $path }
-about-webrtc-debug-mode-off-state-msg = Kerzhlevr ar roudoù a c'hall bezañ kavet e: { $path }
-about-webrtc-debug-mode-on-state-msg = mod diveugañ gweredekaet, kerzhlevr ar roudoù e: { $path }
-about-webrtc-aec-logging-off-state-msg = Restroù kerzhlevr euvret a c'hall bezañ kavet e-barzh: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Dölj stängda PeerConn
 about-webrtc-aec-logging-msg-label = AEC-loggning
 about-webrtc-aec-logging-off-state-label = Starta AEC-loggning
 about-webrtc-aec-logging-on-state-label = Stoppa AEC-loggning
-about-webrtc-aec-logging-on-state-msg = AEC-loggning aktiv (tala med den som ringer i några minuter och stoppa sedan fångst)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC-loggning aktiv (tala med den som ringer i några minuter och stoppa sedan fångst)
 about-webrtc-aec-logging-unavailable-sandbox = Miljövariabeln MOZ_DISABLE_CONTENT_SANDBOX=1 krävs för att exportera AEC-loggar. Ställ bara in denna variabel om du förstår de möjliga riskerna.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Nominerad
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Markerad
 about-webrtc-save-page-label = Spara sida
-about-webrtc-debug-mode-msg-label = Felsökningsläge
-about-webrtc-debug-mode-off-state-label = Starta felsökningsläge
-about-webrtc-debug-mode-on-state-label = Stoppa felsökningsläge
-about-webrtc-stats-heading = Sessionsstatistik
 about-webrtc-enable-logging-label = Aktivera WebRTC-loggförinställning
 about-webrtc-peerconnections-section-heading = RTCPeerConnection-statistik
 about-webrtc-peerconnections-section-show-msg = Visa RTCPeerConnection-statistik
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = Dölj RTCPeerConnection-statisti
 about-webrtc-stats-clear = Rensa historik
 about-webrtc-log-heading = Anslutningslogg
 about-webrtc-log-clear = Rensa logg
-about-webrtc-log-show-msg = visa logg
-    .title = klicka för att expandera denna sektion
-about-webrtc-log-hide-msg = dölj logg
-    .title = klicka för att minimera denna sektion
 about-webrtc-log-section-show-msg = Visa logg
     .title = Klicka för att expandera denna sektion
 about-webrtc-log-section-hide-msg = Dölj logg
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Fjärrkandidat
 about-webrtc-raw-candidates-heading = Alla råa kandidater
 about-webrtc-raw-local-candidate = Rå lokal kandidat
 about-webrtc-raw-remote-candidate = Rå fjärrkandidat
-about-webrtc-raw-cand-show-msg = visa råa kandidater
-    .title = klicka för att expandera denna sektion
-about-webrtc-raw-cand-hide-msg = dölj råa kandidater
-    .title = klicka för att minimera denna sektion
 about-webrtc-raw-cand-section-show-msg = Visa råa kandidater
     .title = Klicka för att expandera denna sektion
 about-webrtc-raw-cand-section-hide-msg = Dölj råa kandidater
     .title = Klicka för att minimera denna sektion
 about-webrtc-priority = Prioritet
-about-webrtc-fold-show-msg = visa detaljer
-    .title = klicka för att expandera denna sektion
-about-webrtc-fold-hide-msg = dölj detaljer
-    .title = klicka för att minimera denna sektion
 about-webrtc-fold-default-show-msg = Visa detaljer
     .title = Klicka för att expandera denna sektion
 about-webrtc-fold-default-hide-msg = Dölj detaljer
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Har angetts
 # been provided
 about-webrtc-configuration-element-not-provided = Har inte angetts
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Användarinställda WebRTC-inställningar
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Användarmodifierad WebRTC-konfiguration
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Statistik för videoram - MediaStreamTrack ID: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = sida sparad till: { $path }
-about-webrtc-debug-mode-off-state-msg = spårlogg kan hittas på: { $path }
-about-webrtc-debug-mode-on-state-msg = felsökningsläge aktivt, spårlogg kan hittas på: { $path }
-about-webrtc-aec-logging-off-state-msg = fångade loggfiler kan hittas i: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

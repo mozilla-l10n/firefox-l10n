@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Lītōtōjvōrdi un paroles
 fxaccounts-sign-in-text = Daboj pīeju sovom parolem iz cytom īreicem
 fxaccounts-avatar-button =
     .title = Puorvaļdeit kontu
@@ -23,35 +22,18 @@ about-logins-menu-menuitem-help = Paleidzeiba
 
 login-list =
     .aria-label = Pīejis dati, kuri atbylst mekliešonys pīprasejumam
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [zero] { $count } pīejis datu
-        [one] { $count } pīejis dati
-       *[other] { $count } pīejis dati
-    }
 login-list-sort-label-text = Sakōrtōt pec:
 login-list-name-option = Vōrds (A-Z)
 login-list-last-changed-option = Pec jaunōkōm izmaiņom
 login-list-last-used-option = Naseņōk lītōtys
-login-list-intro-title = Nav atrosti pīejis dati
 login-list-intro-description = Kod tu maini paroli { -brand-product-name }, jū rōda ite.
-about-logins-login-list-empty-search-title = Nav atrosti lītōtōjvōrdi
 about-logins-login-list-empty-search-description = Pec tova mekliešonys pīprasejuma, nav rezultatu.
-login-list-item-title-new-login = Jauna pīsazaceišona
-login-list-item-subtitle-new-login = Īvodi sovus lītōtōja datus
 login-list-item-subtitle-missing-username = (nav lītōtōja vōrda)
 about-logins-list-item-breach-icon =
     .title = Uzlauztō lopa
 
-## Introduction screen
-
-login-intro-description = Ja tu saglobōji sovus pīejas datus { -brand-product-name } cytā īreicē, tod itai var dabōt pi jīm pīeji ite:
-
 ## Login
 
-login-item-new-login-title = Izveidōt jaunu lītōtōji
 login-item-edit-button = Redigeit
 login-item-origin-label = Lopys adrese
 login-item-origin =
@@ -64,7 +46,6 @@ login-item-copied-username-button-text = Nūkopeits!
 login-item-password-label = Parole
 login-item-copy-password-button-text = Kopēt
 login-item-copied-password-button-text = Nūkopeits!
-login-item-save-changes-button = Saglobōt izmaiņis
 login-item-save-new-button = Saglobōt
 login-item-cancel-button = Atceļt
 
@@ -79,7 +60,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Atceļt
 confirmation-dialog-dismiss-button =
     .title = Atceļt
-confirm-delete-dialog-message = Itei ir naatgrīzeniska darbeiba.
 
 ##
 

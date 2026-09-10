@@ -28,6 +28,6 @@ searchbar-icon =
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = បញ្ចូល​​ម៉ាស៊ីន​ស្វែងរក
     .style = min-width: 32em;
+    .title = បញ្ចូល​​ម៉ាស៊ីន​ស្វែងរក
 add-engine-button = បញ្ចូល​ម៉ាស៊ីនផ្ទាល់ខ្លួន

@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = احفظ about:webrtc باسم
 about-webrtc-aec-logging-msg-label = سجلات إلغاء صدى الصوت
 about-webrtc-aec-logging-off-state-label = ابدأ تسجيل إلغاء صدى الصوت
 about-webrtc-aec-logging-on-state-label = أوقف تسجيل إلغاء صدى الصوت
-about-webrtc-aec-logging-on-state-msg = تسجيل إلغاء صدى الصوت نشط (تحدّث مع المتّصل لعدة دقائق ثم أوقف الالتقاط)
 about-webrtc-aec-logging-toggled-on-state-msg = تسجيل إلغاء صدى الصوت نشط (تحدّث مع المتّصل لعدة دقائق ثم أوقف الالتقاط)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -77,17 +76,9 @@ about-webrtc-nominated = مرشَّح
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = محدد
 about-webrtc-save-page-label = احفظ الصفحة
-about-webrtc-debug-mode-msg-label = طور تمحيص الأخطاء
-about-webrtc-debug-mode-off-state-label = ابدأ وضع التنقيح
-about-webrtc-debug-mode-on-state-label = أوقف وضع التنقيح
-about-webrtc-stats-heading = إحصاءات الجلسة
 about-webrtc-stats-clear = امسح التأريخ
 about-webrtc-log-heading = سجل الاتصال
 about-webrtc-log-clear = امسح السجل
-about-webrtc-log-show-msg = اعرض السجل
-    .title = انقر لتوسيع هذا القسم
-about-webrtc-log-hide-msg = أخفِ السجل
-    .title = انقر لطي هذا القسم
 about-webrtc-log-section-show-msg = اعرض السجل
     .title = انقر لتوسيع هذا القسم
 about-webrtc-log-section-hide-msg = أخفِ السجل
@@ -110,19 +101,11 @@ about-webrtc-remote-candidate = مرشح بعيد
 about-webrtc-raw-candidates-heading = كل المرشحين الخام
 about-webrtc-raw-local-candidate = مرشح خام محلي
 about-webrtc-raw-remote-candidate = مرشح خام بعيد
-about-webrtc-raw-cand-show-msg = اعرض المرشحين الخام
-    .title = انقر لتوسيع هذا القسم
-about-webrtc-raw-cand-hide-msg = أخفِ المرشحين الخام
-    .title = انقر لطي هذا القسم
 about-webrtc-raw-cand-section-show-msg = اعرض المرشحين الخام
     .title = انقر لتوسيع هذا القسم
 about-webrtc-raw-cand-section-hide-msg = أخفِ المرشحين الخام
     .title = انقر لطي هذا القسم
 about-webrtc-priority = الأولويّة
-about-webrtc-fold-show-msg = اعرض التفاصيل
-    .title = انقر لتوسيع هذا القسم
-about-webrtc-fold-hide-msg = أخفِ التفاصيل
-    .title = انقر لطي هذا القسم
 about-webrtc-fold-default-show-msg = اعرض التفاصيل
     .title = انقر لتوسيع هذا القسم
 about-webrtc-fold-default-hide-msg = أخفِ التفاصيل
@@ -136,13 +119,6 @@ about-webrtc-estimated-framerate = معدّل الإطارات المقدر
 
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = النطاق الترددي المقدر
-
-##
-
-about-webrtc-save-page-msg = حُفظت الصفحة إلى: { $path }
-about-webrtc-debug-mode-off-state-msg = يمكن إيجاد سجل التتبع في: { $path }
-about-webrtc-debug-mode-on-state-msg = وضع التنقيح مفعّل، التتبع يُسجّل في: { $path }
-about-webrtc-aec-logging-off-state-msg = ملف السجل المأخوذ موجود في: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

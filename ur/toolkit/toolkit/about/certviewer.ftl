@@ -86,4 +86,3 @@ certificate-viewer-tab-mine = آپ کے تصدیق نامے
 certificate-viewer-tab-people = لوگ
 certificate-viewer-tab-servers = سرورز
 certificate-viewer-tab-ca = حکام
-certificate-viewer-tab-unkonwn = نامعلوم

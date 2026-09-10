@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Hetave { -vendor-short-name }-gui
 more-from-moz-page-header =
     .heading = Hetave { -vendor-short-name }-gui
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } pumbyrýpe g̃uarã
 more-from-moz-firefox-mobile-description = Pumbyry kundahára omotendéva nde rekoñemi.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } pumbyrýpe g̃uarã
 more-from-moz-firefox-mobile =
-    .label = { -brand-product-name } pumbyrýpe g̃uarã
     .description = Kundahára pumbyrygua omotenondéva nde rekoñemi.
+    .label = { -brand-product-name } pumbyrýpe g̃uarã
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Ejuhu peteĩ ñepytyvõ kundahára ha ñemo’ã ojekuaa’ỹvagui.
 more-from-moz-qr-code-box-firefox-mobile-title = Emboguejy ne pumbyrýpe. Emoma’ẽ ne ra’ãnganohẽha pe QR ayvu rehe. Osẽvove pe juajuha, eiporavóke.
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = Erekóke { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Egueru ijehegui ne maranduete jehechapyréva.
 more-from-moz-mozilla-monitor-global-description = Tog̃uahẽ kyhyjerã ne mba’ekuaarã oñemboguáramo.
 more-from-moz-mozilla-monitor-button = Erekóke { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Emoheñói ne ñanduti rendarã ha eiporu hendatee voi viru’ỹetére.
 more-from-moz-solo-button = Eiporu { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = { -solo-ai-brand-name } IA ñanduti rogue moheñoiha
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = Emondo juajuha mboguejyrã ñanduti ve
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = Eikuaa moõpa ojekuaa ne maranduete ñandutípe ñemoha’ãnga reigua rupi.
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = Ereko ñemo’ã opaite tembiporu’ípe g̃uarã, ani ne mohendahápe año. Ereko mba’ekuaarã tekorosãme Wi-Fi ha ñanduti hekorosã’ỹvape.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = Emo’ã ne ñe’ẽmondo g̃uahẽha spam-gui ñanduti veve rovamo’ãha reigua rupi.
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = Eikuaa ñanduti mboguata guatarã ha hesegua reigua.
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = Eike ñanduti vevépe, arapapaha ha ñe’ẽrã tembiporu’i ipya’évape.
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = Emoheñói ne ñanduti rogue pya’e ha embojoaju ne rendaite teéva reiete.
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = { -vendor-short-name } Apopyre pyahu
     .description = Eikuaa ore remiandu ha tembiporupyahu ipyahuvéva.
+    .label = { -vendor-short-name } Apopyre pyahu
 more-from-moz-mozilla-monitor-box-link =
     .label = Erekóke { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =

@@ -16,15 +16,3 @@ recently-closed-menu-reopen-all-windows = بازآوری همهٔ پنجره‌�
 
 recently-closed-panel-reopen-all-tabs = بازگردانی همهٔ زبانه‌ها
 recently-closed-panel-reopen-all-windows = بازگردانی همهٔ پنجره‌ها
-
-##
-
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [one] { $winTitle } (و { $tabCount } زبانهٔ دیگر)
-       *[other] { $winTitle } (و { $tabCount } زبانهٔ دیگر)
-    }

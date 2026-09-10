@@ -12,10 +12,6 @@ crashes-no-config = இந்த நிரல் சிதைவு அறிக
 support-addons-name = பெயர்
 support-addons-version = பதிப்பு
 support-addons-id = ID
-features-title = { -brand-short-name } அம்சங்கள்
-features-name = பெயர்
-features-version = பதிப்பு
-features-id = ID
 app-basics-title = பயன்பாடு அடிப்படைகள்
 app-basics-name = பெயர்
 app-basics-version = பதிப்பு
@@ -28,7 +24,6 @@ app-basics-profile-dir =
         [linux] சுயவிவர அடைவு
        *[other] சுயவிவரம் கோப்புறை
     }
-app-basics-enabled-plugins = செயல்படுத்தப்பட்ட செருகிகள்
 app-basics-build-config = உருவாக்க கட்டமைப்பு
 app-basics-user-agent = பயனர் முகவர்
 app-basics-os = இயங்கு தளம்

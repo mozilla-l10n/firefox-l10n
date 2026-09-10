@@ -25,13 +25,6 @@ xpinstall-prompt-never-allow =
 xpinstall-prompt-install =
     .label = स्थापना के लिए जारी रखें
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = सॉफ़्टवेयर संस्थापन आपके सिस्टम प्रशासक के द्वारा निष्क्रिय कर दिया गया है.
 xpinstall-disabled = सॉफ्टवेयर संस्थापन अभी निष्क्रिय है. सक्रिय पर क्लिक करें और फिर कोशिश करें.
 xpinstall-disabled-button =
     .label = 0सक्रिय करें
@@ -45,9 +38,6 @@ webext-perms-update-menu-item = { $addonName } को नई अनुमात�
 
 ## Add-on removal warning
 
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = { -brand-shorter-name } से { $name } हटाएँ?
 addon-removal-button = हटाएँ
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
@@ -98,4 +88,3 @@ addon-local-install-error-not-signed = यह सहयुक्ति संस
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } स्थापित नहीं किया जा सका क्योंकि यह { -brand-short-name } { $appVersion } के साथ अनुकूल नहीं है.
-addon-install-error-blocklisted = { $addonName } संस्थापित नहीं किया जा सका क्योंकि यह स्थिरता या सुरक्षा समस्या के कारण का बड़ा खतरा है.

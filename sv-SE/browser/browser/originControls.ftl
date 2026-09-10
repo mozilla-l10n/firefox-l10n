@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Tillägget kan inte läsa och ändra data
-origin-controls-quarantined =
-    .label = Tillägget får inte läsa och ändra data
 origin-controls-quarantined-status =
     .label = Tillägget är ej tillåtet på begränsade webbplatser
 origin-controls-quarantined-allow =

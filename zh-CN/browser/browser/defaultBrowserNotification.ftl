@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = 将 { -brand-short-name } 设为默认浏�
 default-browser-prompt-message-pin-msix = 将 { -brand-short-name } 设为默认浏览器，并固定到任务栏和“开始”菜单，方便随手开启。
 default-browser-prompt-message-pin-mac = 将 { -brand-short-name } 设为默认浏览器并保留在程序坞中，方便随手开启。
 default-browser-prompt-button-primary-set = 设为主浏览器
-default-browser-prompt-button-primary-pin = 设为主浏览器
 default-browser-prompt-title-alt = 要将 { -brand-short-name } 设为您的默认浏览器吗？
 default-browser-prompt-message-alt = 每一次浏览，都有最快速度、安全与隐私保护。
 default-browser-prompt-button-primary-alt = 设为默认浏览器

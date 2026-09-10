@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Adreças salvadas
 autofill-manage-addresses-list-header = Adreças
-autofill-manage-credit-cards-title = Cartas de crèdit salvadas
-autofill-manage-credit-cards-list-header = Cartas bancàrias
 autofill-manage-payment-methods-title = Metòdes de pagament enregistrats
 autofill-manage-cards-list-header = Cartas
 autofill-manage-dialog =
@@ -45,15 +43,10 @@ address-capture-open-menu-button =
     .aria-label = Dobrir lo menú
 address-capture-edit-address-link = Modificar l’adreça
     .aria-label = Modificar l’adreça
-address-capture-edit-address-button =
-    .aria-label = Modificar l’adreça
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Apondre una adreça
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Modificar l'adreça
-autofill-address-given-name = Pichon nom
-autofill-address-additional-name = Segond pichon nom
-autofill-address-family-name = Nom
 autofill-address-name = Nom
 autofill-address-organization = Societat
 autofill-address-street-address = Adreça postala
@@ -101,8 +94,6 @@ autofill-address-eircode = Còdi postal (Eircode)
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Apondre una novèla adreça
 autofill-address-country = País o region
 autofill-address-country-only = País
 autofill-address-tel = Telefòn
@@ -110,18 +101,6 @@ autofill-address-email = Corrièr electronic
 autofill-cancel-button = Anullar
 autofill-save-button = Enregistrar
 autofill-country-warning-message = Pel moment l’emplenatge automatic es sonque disponible per d’unes païses.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Apondre una carta bancària
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Modificar la carta bancària
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] mostrar las informacions de la carta de crèdit
-        [windows] { -brand-short-name } ensaja de mostrar las informacions d’una carta bancària. Confirmatz l’accès al compte Windows çai-jos.
-       *[other] { -brand-short-name } ensaja de mostrar las informacions d’una carta bancària.
-    }
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Apondre una carta
 # The dialog title for editing credit cards in browser preferences.
@@ -139,15 +118,3 @@ autofill-card-expires-month = Mes d’expiracion
 autofill-card-expires-year = Annada d’expiracion
 autofill-card-billing-address = Adreça de facturacion
 autofill-card-network = Tipe de carta
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

@@ -62,7 +62,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Sincronizie i tiei segnelibris dapardut.
-cfr-doorhanger-bookmark-fxa-body = Biele pensade! Cumò no sta restâ cence chest segnelibri sui tiei dispositîfs mobii. Scomence cuntun { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = Biele pensade! Cumò no sta restâ cence chest segnelibri sui tiei dispositîfs mobii. Scomence creant un account.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronize i segnelibris cumò…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -75,12 +74,6 @@ fxa-adoption-credit-cards-backup-subtitle = Protêç i tiei metodis di paiament 
 fxa-adoption-bookmarks-treatment-backup-title = Fasìn un backup dai tiei segnelibris
 fxa-adoption-bookmarks-treatment-backup-subtitle = Par proteziju, sincronize i tiei segnelibris cui tiei dispositîfs doprant la cifradure.
 fxa-adoption-primary-button-label = Regjistriti
-
-## Protections panel
-
-cfr-protections-panel-header = Navighe cence vê nissun che ti stâ daûr
-cfr-protections-panel-body = Ten i tiei dâts par te. { -brand-short-name } ti protêç di tancj dai plui comuns “trackers” (spiis) che a stan daûr a ce che tu fasis in rêt.
-cfr-protections-panel-link-text = Plui informazions
 
 ## What's New toolbar button and panel
 
@@ -176,42 +169,8 @@ mr2022-background-update-toast-primary-button-label = Vierç { -brand-shorter-na
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Visimi plui tart
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Provilu
-    .accesskey = P
-firefoxview-cfr-secondarybutton = No cumò
-    .accesskey = N
-firefoxview-cfr-header-v2 = Intun lamp ripie di dulà che tu jeris restât
-firefoxview-cfr-body-v2 = Recupere lis schedis sieradis di resint e passe in mût svelt di un dispositîf a chel altri cun { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Ti presentìn { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Ti coventie propite chê schede sul to telefonin? Recuperile al svol. Âstu bisugne di un sît che tu âs apene visitât? Velu, tornât cun { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Viôt cemût che al funzione
-firefoxview-spotlight-promo-secondarybutton = Salte
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Sielç une tonalitât
-    .accesskey = S
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Colore il to navigadôr cu lis esclusivis sfumaduris di { -brand-short-name } ispiradis aes vôs che a cambiin la societât.
-colorways-cfr-header-28days = Lis tonalitâts des vôs indipendentis a scjadin ai 16 di Zenâr
-colorways-cfr-header-14days = Lis tonalitâts des vôs indipendentis a scjadin chi di dôs setemanis
-colorways-cfr-header-7days = Lis tonalitâts des vôs indipendentis a scjadin cheste setemane
-colorways-cfr-header-today = Lis tonalitâts des vôs indipendentis a scjadin vuê
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Permeti a { -brand-short-name } di refudâ i strissons pai cookies?
-cfr-cbh-body = { -brand-short-name } al pues refudâ in automatic tantis richiestis dai strissons pai cookies.
-cfr-cbh-confirm-button = Refude i strissons pai cookies
-    .accesskey = R
-cfr-cbh-dismiss-button = No cumò
-    .accesskey = N
 cookie-banner-blocker-onboarding-header = { -brand-short-name } al à a pene refudât un strisson pai cookies
 cookie-banner-blocker-onboarding-body = Mancul distrazions, mancul cookies che ti stan daûr su chest sît.
 cookie-banner-blocker-onboarding-learn-more = Plui informazions

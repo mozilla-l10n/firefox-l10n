@@ -48,7 +48,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Деректер декодтаушы ({ $pid })
 about-processes-socket-process = Желі ({ $pid })
-about-processes-remote-sandbox-broker-process = Құмсалғыштың қашықтағы брокері ({ $pid })
 about-processes-fork-server-process = Форк-сервері ({ $pid })
 about-processes-preallocated-process = Алдын-ала бөлінген ({ $pid })
 about-processes-utility-process = Утилита ({ $pid })
@@ -72,17 +71,6 @@ about-processes-web-isolated-property-with-coop-coep = доменаралық о
 ##    $properties (String) A formatted list of properties from the above strings.
 
 about-processes-web-isolated-process2 = { $origin } ({ $properties })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, сыртқы қайнар көздерден оқшауланған)
-about-processes-web-isolated-process-private = { $origin } — Жеке ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } — Жеке ({ $pid }, сыртқы қайнар көздерден оқшауланған)
 
 ## Details within processes
 

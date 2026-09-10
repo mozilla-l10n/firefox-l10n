@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = 기록 지우기
 sidebar-history-sort-by-heading-menucaption =
     .label = 정렬 기준:
-sidebar-history-sort-by-heading = 정렬 기준:
 sidebar-history-sort-option-date =
     .label = 날짜
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = 사이드바 확장 기능
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name } 도구
 sidebar-customize-firefox-settings = { -brand-short-name } 설정 관리
 sidebar-vertical-tabs =
     .label = 세로 탭
 sidebar-settings2 =
     .label = 설정
-sidebar-settings =
-    .label = 사이드바 설정
 sidebar-hide-tabs-and-sidebar =
     .label = 탭과 사이드바 숨기기
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = 확장 기능 관리
-sidebar-context-menu-remove-extension =
-    .label = 확장 기능 제거
 sidebar-context-menu-report-extension =
     .label = 확장 기능 신고
 sidebar-context-menu-open-in-tab =

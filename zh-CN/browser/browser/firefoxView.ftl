@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = 跨设备和窗口查看近期浏览活动
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .aria-label = 关闭
-    .title = 关闭
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = 刚刚
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = 接收标签页
-firefoxview-tabpickup-description = 打开来自其他设备的标签页。
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = 完成 { $percentValue }%
-firefoxview-tabpickup-step-signin-header = 无缝切换设备
-firefoxview-tabpickup-step-signin-description = 请先登录或创建账户，即可在此处接收手机上的标签页。
-firefoxview-tabpickup-step-signin-primarybutton = 继续
 firefoxview-syncedtabs-signin-header-2 = 您各设备上的 { -brand-product-name }
 firefoxview-syncedtabs-signin-description-2 = 若要查看您在手机等其他设备上打开的标签页，请登录或注册账户。您还可以借助账户来同步密码、历史记录等数据。
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = 笔记本电脑与手机，无缝相连
 firefoxview-syncedtabs-signin-description-3 = 让浏览体验跨设备无缝衔接，标签页、密码、历史记录，尽数同步。
 firefoxview-syncedtabs-signin-primarybutton-2 = 登录
-firefoxview-tabpickup-adddevice-header = 与您的手机或平板电脑同步 { -brand-product-name }
-firefoxview-tabpickup-adddevice-description = 下载移动版 { -brand-product-name } 并登录。
-firefoxview-tabpickup-adddevice-learn-how = 了解要如何做
-firefoxview-tabpickup-adddevice-primarybutton = 下载 { -brand-product-name } 移动版
 firefoxview-syncedtabs-adddevice-header-2 = 跨平台接收标签页
 firefoxview-syncedtabs-adddevice-description-2 = 登录手机或其他计算机上的 { -brand-product-name }，即可在此处查看标签页。您可了解<a data-l10n-name="url">连接其他设备的方法</a>。
 firefoxview-syncedtabs-adddevice-primarybutton = 试试 { -brand-product-name } 移动版
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = 标签页们来电 — 手机上见。
 firefoxview-syncedtabs-adddevice-description-3 = 扫描二维码即可下载移动版 { -brand-product-name }，开始同步打开的标签页等内容。了解如何<a data-l10n-name="url">连接其他设备</a>。
-firefoxview-tabpickup-synctabs-header = 开启标签页同步
-firefoxview-tabpickup-synctabs-description = 允许 { -brand-short-name } 跨设备共享标签页。
-firefoxview-tabpickup-synctabs-learn-how = 了解要如何做
 firefoxview-tabpickup-synctabs-primarybutton = 同步打开的标签页
 firefoxview-tabpickup-synctabs-primarybutton-2 = 开启标签页同步
 firefoxview-syncedtabs-synctabs-header = 更新您的同步设置
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = 完成后即可看到其他设备�
 firefoxview-syncedtabs-loading-header-2 = 正在获取标签页…
 firefoxview-syncedtabs-loading-description-2 = 正在同步，标签页即将显示在此处。
 firefoxview-tabpickup-fxa-admin-disabled-header = 您的组织已禁用同步服务
-firefoxview-tabpickup-fxa-admin-disabled-description = 由于您的管理员已禁用同步服务，{ -brand-short-name } 无法跨设备同步标签页。
 firefoxview-tabpickup-fxa-disabled-by-policy-description = 您的组织已禁用同步功能，{ -brand-short-name } 无法在设备间同步标签页。
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = 标签页同步已关闭
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = 您的组织禁用了此功能。
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = 使用主密码解锁标签页
 firefoxview-tabpickup-password-locked-description-2 = 为保护隐私，同步的标签页均受保护。请输入您的 { -brand-short-name } 主密码，以查看其他设备上的标签页。
 firefoxview-tabpickup-signed-out-header = 登录以重新连接
-firefoxview-tabpickup-signed-out-description = 登录 { -fxaccount-brand-name }即可重新连接并接收标签页。
 firefoxview-tabpickup-signed-out-description2 = 登录账户即可重新连接并接收标签页。
 firefoxview-tabpickup-signed-out-primarybutton = 登录
 firefoxview-tabpickup-signed-out-header-2 = 登录以查看您的标签页
 firefoxview-tabpickup-signed-out-description-2 = 重新连接以查看其他设备上的标签页。
-firefoxview-tabpickup-syncing = 正在同步您的标签页，请稍等片刻。
-firefoxview-mobile-promo-header = 从手机或平板电脑接收标签页
-firefoxview-mobile-promo-description = 若要查看近期您移动设备上的标签页，请登录 iOS/Android 版 { -brand-product-name }。
-firefoxview-mobile-promo-primarybutton = 下载 { -brand-product-name } 移动版
-firefoxview-mobile-confirmation-header = 🎉大功告成！
-firefoxview-mobile-confirmation-description = 您现在可以收到来自平板电脑或手机上的 { -brand-product-name } 标签页。
-firefoxview-closed-tabs-title = 最近关闭
-firefoxview-closed-tabs-description2 = 再次打开您在此窗口关闭的页面。
-firefoxview-closed-tabs-placeholder-header = 暂无最近关闭的标签页
-firefoxview-closed-tabs-placeholder-body = 此窗口中关闭的标签页，可在该处找回。
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = 关闭 { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = 最后浏览
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = 新建标签页打开 { $targetURI }
-firefoxview-try-colorways-button = 配色随心换
-firefoxview-change-colorway-button = 更改配色
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = 空空如也
-firefoxview-synced-tabs-placeholder-body = 下次您在其他设备上的 { -brand-product-name } 打开页面后，可在此处再次打开，接续浏览。
 firefoxview-collapse-button-show =
     .title = 显示列表
 firefoxview-collapse-button-hide =

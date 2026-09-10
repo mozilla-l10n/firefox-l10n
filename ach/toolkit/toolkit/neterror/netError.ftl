@@ -20,13 +20,11 @@ neterror-open-portal-login-page-button = Yab potbuk me donyo iyie netwak
 neterror-pref-reset-button = Dwok ter makwongo
 neterror-return-to-previous-page-button = Dok cen
 neterror-return-to-previous-page-recommended-button = Dok cen (Kicwako)
-neterror-try-again-button = Tem Doki
 neterror-view-certificate-link = Nen Catibiket
 
 ##
 
 neterror-pref-reset = Nen calo ter me ber bedo per netwak mamegi aye tye ka kelo man. Imito ni ki dwok ter makwongo?
-neterror-error-reporting-automatic = Mi ripot me bal calo man me konyo { -vendor-short-name } nongo ki gengo kakube ma raco
 
 ## Specific error messages
 
@@ -43,8 +41,6 @@ neterror-file-not-found-moved = Ngi me neno kace pwaile kikobo woko, kicako nyin
 neterror-access-denied = Romo bedo ni kikwanyo woko, kikobo, onyo twero me pwail tye ka gengo nongo ne.
 neterror-unknown-protocol = Mogo romo mite ni i ket purugram mukene wek oyab kanonge man.
 neterror-redirect-loop = Peko man kare mukene bino pi juko onyo kwero ye angija.
-neterror-unknown-socket-type-psm-installed = Ngi me neno ni ki keto Lalor gwoko kuc pa dano i nyonyo ni.
-neterror-unknown-socket-type-server-config = Man twero bedo pi ter mogo mape ki ye i lapok tic.
 neterror-not-cached-intro = Gin acoya ma ikwayo pire ni pe nonge kama { -brand-short-name } ogwoko iye.
 neterror-not-cached-sensitive = Me gwoke ki i peko, { -brand-short-name } pe nwoyo kwayo pire kene gin acoyo ma pi gi lit.
 neterror-not-cached-try-again = Dii Tem Doki wek i nwo kwayo gin acoya ki i kakube.

@@ -49,7 +49,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = ڈیٹا ڈیکوڈر ({ $pid })
 about-processes-socket-process = نیٹ ورک ({ $pid })
-about-processes-remote-sandbox-broker-process = ریموٹ سینڈ باکس بروکر ({ $pid })
 about-processes-fork-server-process = فورک سرور ({ $pid })
 about-processes-preallocated-process = پہلے کنوں مختص ({ $pid })
 about-processes-utility-process = یوٹیلیٹی ({ $pid })
@@ -59,17 +58,6 @@ about-processes-inference-process = انٹرفیس ({ $pid })
 #    $pid (String) The process id of this process, assigned by the OS.
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = ٻئے: { $type } ({ $pid })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }، سروس ورکر)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }، کراس اوریجن الڳ تھلڳ)
-about-processes-web-isolated-process-private = { $origin } — نجی ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } — نجی ({ $pid }، کراس اوریجن الڳ تھلڳ)
 
 ## Details within processes
 

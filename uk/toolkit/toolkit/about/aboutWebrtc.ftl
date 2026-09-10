@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Приховати за
 about-webrtc-aec-logging-msg-label = Журнал AEC
 about-webrtc-aec-logging-off-state-label = Почати журнал AEC
 about-webrtc-aec-logging-on-state-label = Припинити журнал AEC
-about-webrtc-aec-logging-on-state-msg = Журнал AEC активний (поговоріть з абонентом кілька хвилин, потім зупиніть захоплення)
 about-webrtc-aec-logging-toggled-on-state-msg = Журнал AEC активний (поговоріть з абонентом кілька хвилин, потім зупиніть захоплення)
 about-webrtc-aec-logging-unavailable-sandbox = Для експорту журналів AEC потрібна змінна середовища MOZ_DISABLE_CONTENT_SANDBOX=1. Встановлюйте цю змінну, лише якщо ви розумієте можливі ризики.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Номіновано
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Вибрано
 about-webrtc-save-page-label = Зберегти сторінку
-about-webrtc-debug-mode-msg-label = Режим налагодження
-about-webrtc-debug-mode-off-state-label = Запустити режим налагодження
-about-webrtc-debug-mode-on-state-label = Зупинити режим налагодження
-about-webrtc-stats-heading = Статистика сеансу
 about-webrtc-enable-logging-label = Увімкнути заданий параметр журналу WebRTC
 about-webrtc-peerconnections-section-heading = Статистика RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = Показати статистику RTCPeerConnection
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = Приховати статис�
 about-webrtc-stats-clear = Стерти історію
 about-webrtc-log-heading = Журнал з'єднання
 about-webrtc-log-clear = Очистити журнал
-about-webrtc-log-show-msg = показати журнал
-    .title = натисніть, щоб розгорнути цю секцію
-about-webrtc-log-hide-msg = сховати журнал
-    .title = натисніть, щоб згорнути цей розділ
 about-webrtc-log-section-show-msg = Показати журнал
     .title = Натисніть, щоб розгорнути цю секцію
 about-webrtc-log-section-hide-msg = Сховати журнал
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Віддалений кандидат
 about-webrtc-raw-candidates-heading = Усі необроблені кандидати
 about-webrtc-raw-local-candidate = Необроблений локальний кандидат
 about-webrtc-raw-remote-candidate = Необроблений віддалений кандидат
-about-webrtc-raw-cand-show-msg = показати необроблені кандидати
-    .title = натисніть, щоб розгорнути цю секцію
-about-webrtc-raw-cand-hide-msg = сховати необроблені кандидати
-    .title = натисніть, щоб згорнути цей розділ
 about-webrtc-raw-cand-section-show-msg = Показати необроблені кандидати
     .title = Натисніть, щоб розгорнути цю секцію
 about-webrtc-raw-cand-section-hide-msg = Сховати необроблені кандидати
     .title = Натисніть, щоб згорнути цей розділ
 about-webrtc-priority = Пріоритет
-about-webrtc-fold-show-msg = показати деталі
-    .title = натисніть, щоб розгорнути цю секцію
-about-webrtc-fold-hide-msg = сховати
-    .title = натисніть, щоб згорнути цей розділ
 about-webrtc-fold-default-show-msg = Показати деталі
     .title = Натисніть, щоб розгорнути цю секцію
 about-webrtc-fold-default-hide-msg = Сховати
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Надано
 # been provided
 about-webrtc-configuration-element-not-provided = Не надано
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Встановлені користувачем параметри WebRTC
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Змінена користувачем конфігурація WebRTC
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT мс
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Статистика відеокадру - MediaStreamTrack ID: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = сторінку збережено до: { $path }
-about-webrtc-debug-mode-off-state-msg = журнал відстеження можна знайти в: { $path }
-about-webrtc-debug-mode-on-state-msg = режим налагодження активний, журнал відстеження: { $path }
-about-webrtc-aec-logging-off-state-msg = захоплені файли журналу можна знайти в: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

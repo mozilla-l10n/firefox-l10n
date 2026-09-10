@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Näytä äskettäinen selailu eri ikkunoissa ja laitteilla
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Sulje
-    .aria-label = Sulje
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Juuri nyt
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Välilehden valinta
-firefoxview-tabpickup-description = Avaa sivuja muilta laitteilta.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue } % valmiina
-firefoxview-tabpickup-step-signin-header = Vaihda saumattomasti laitteiden välillä
-firefoxview-tabpickup-step-signin-description = Noutaaksesi puhelimen välilehdet tänne, kirjaudu ensin sisään tai luo tili.
-firefoxview-tabpickup-step-signin-primarybutton = Jatka
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } kaikilla laitteillasi
 firefoxview-syncedtabs-signin-description-2 = Näet puhelimellasi ja muilla laitteilla avoinna olevat välilehdet kirjautumalla sisään tai luomalla tilin. Tilin avulla voit myös synkronoida salasanasi, historiasi ja paljon muuta.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Kannettavasta puhelimeen, saumattomasti
 firefoxview-syncedtabs-signin-description-3 = Pidä selauksesi yhdistettynä laitteiden välillä – välilehdet, salasanat ja sivuhistoria, kaikki synkronoituna.
 firefoxview-syncedtabs-signin-primarybutton-2 = Kirjaudu sisään
-firefoxview-tabpickup-adddevice-header = Synkronoi { -brand-product-name } puhelimellasi tai tablet-laitteellasi
-firefoxview-tabpickup-adddevice-description = Lataa { -brand-product-name } mobiililaitteelle ja kirjaudu sisään.
-firefoxview-tabpickup-adddevice-learn-how = Lue lisää
-firefoxview-tabpickup-adddevice-primarybutton = Hanki { -brand-product-name } mobiililaitteelle
 firefoxview-syncedtabs-adddevice-header-2 = Nappaa välilehdet mistä tahansa
 firefoxview-syncedtabs-adddevice-description-2 = Kirjaudu sisään { -brand-product-name }iin puhelimellasi tai toisella tietokoneella nähdäksesi välilehdet täällä. Lue lisää <a data-l10n-name="url">laitteiden yhdistämisestä</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Kokeile { -brand-product-name }ia mobiililaitteella
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Välilehdet yrittivät tavoitella sinua. Ne ovat puhelimessasi.
 firefoxview-syncedtabs-adddevice-description-3 = Skannaa QR-koodi saadaksesi { -brand-product-name }in mobiililaitteille, ja aloittaaksesi avointen välilehtien synkronoinnin ja paljon muuta. Lue lisää <a data-l10n-name="url">lisälaitteiden yhdistämisestä</a>.
-firefoxview-tabpickup-synctabs-header = Ota välilehtien synkronointi käyttöön
-firefoxview-tabpickup-synctabs-description = Salli { -brand-short-name }in jakaa välilehtiä laitteiden välillä.
-firefoxview-tabpickup-synctabs-learn-how = Lue lisää
 firefoxview-tabpickup-synctabs-primarybutton = Synkronoi avoimet välilehdet
 firefoxview-tabpickup-synctabs-primarybutton-2 = Ota välilehtien synkronointi käyttöön
 firefoxview-syncedtabs-synctabs-header = Päivitä synkronointiasetukset
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Kun se valmistuu, näet kaikki muil
 firefoxview-syncedtabs-loading-header-2 = Noudetaan välilehtiä…
 firefoxview-syncedtabs-loading-description-2 = Synkronointi on käynnissä. Välilehdet ovat pian täällä.
 firefoxview-tabpickup-fxa-admin-disabled-header = Organisaatiosi on poistanut synkronoinnin käytöstä
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ei voi synkronoida välilehtiä laitteiden välillä, koska laitteesi järjestelmänvalvoja on poistanut synkronoinnin käytöstä.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ei voi synkronoida välilehtiä laitteiden välillä, koska organisaatiosi on poistanut synkronoinnin käytöstä.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Välilehtien synkronointi on pois päältä
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Organisaatiosi esti tämän ominaisuuden.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Avaa välilehtien suojaus pääsalasanalla
 firefoxview-tabpickup-password-locked-description-2 = Tietosuojan vuoksi synkronoidut välilehdet on suojattu. Syötä { -brand-short-name }in pääsalasana nähdäksesi välilehdet muilta laitteiltasi.
 firefoxview-tabpickup-signed-out-header = Kirjaudu yhdistääksesi uudelleen
-firefoxview-tabpickup-signed-out-description = Muodosta yhteys uudelleen ja nouda välilehdet kirjautumalla sisään { -fxaccount-brand-name }llesi.
 firefoxview-tabpickup-signed-out-description2 = Muodosta yhteys uudelleen ja nouda välilehdet kirjautumalla sisään tilillesi.
 firefoxview-tabpickup-signed-out-primarybutton = Kirjaudu sisään
 firefoxview-tabpickup-signed-out-header-2 = Kirjaudu sisään nähdäksesi välilehdet
 firefoxview-tabpickup-signed-out-description-2 = Yhdistä uudelleen nähdäksesi välilehdet muilta laitteilta.
-firefoxview-tabpickup-syncing = Odota, kun välilehdet synkronoidaan. Siinä kestää vain hetki.
-firefoxview-mobile-promo-header = Nappaa välilehtiä puhelimestasi tai tabletistasi
-firefoxview-mobile-promo-description = Voit tarkastella uusimpia mobiililaitteellasi olevia välilehtiä kirjautumalla sisään { -brand-product-name }iin iOS- tai Android-laitteella.
-firefoxview-mobile-promo-primarybutton = Hanki { -brand-product-name } mobiililaitteelle
-firefoxview-mobile-confirmation-header = 🎉 Kaikki valmista!
-firefoxview-mobile-confirmation-description = Nyt voit käyttää tablet-laitteesi tai puhelimesi { -brand-product-name }in välilehtiä.
-firefoxview-closed-tabs-title = Viimeksi suljetut
-firefoxview-closed-tabs-description2 = Avaa uudelleen tässä ikkunassa sulkemasi sivut.
-firefoxview-closed-tabs-placeholder-header = Ei viimeksi suljettuja välilehtiä
-firefoxview-closed-tabs-placeholder-body = Kun suljet välilehden tässä ikkunassa, voit hakea sen täältä.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Hylkää { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Viimeksi aktiivinen
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Avaa { $targetURI } uuteen välilehteen
-firefoxview-try-colorways-button = Kokeile väriteemoja
-firefoxview-change-colorway-button = Vaihda väriteemaa
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Ei vielä mitään nähtävää
-firefoxview-synced-tabs-placeholder-body = Kun seuraavan kerran avaat sivun { -brand-product-name }issa toisella laitteella, pääset palaamaan siihen tästä.
 firefoxview-collapse-button-show =
     .title = Näytä lista
 firefoxview-collapse-button-hide =

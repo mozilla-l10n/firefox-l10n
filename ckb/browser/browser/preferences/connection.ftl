@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = ڕێکخستنەکانی پەیوەندیگرتن
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = ڕێکخستنەکانی پەیوەندیگرتن
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -56,6 +56,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = بەستەری بنەڕەتی بەکاربەرە بۆ چارەسەرکردنی DNS لەسەر HTTPS
 connection-dns-over-https-url-custom =
     .label = خوازراو
-    .accesskey = C
     .tooltiptext = Enter your preferred URL for resolving DNS over HTTPS
-connection-dns-over-https-custom-label = خوازراو
+    .accesskey = C

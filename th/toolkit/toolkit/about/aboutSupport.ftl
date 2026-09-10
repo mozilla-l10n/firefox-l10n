@@ -29,10 +29,6 @@ security-software-name = ชื่อ
 security-software-antivirus = ป้องกันไวรัส
 security-software-antispyware = ป้องกันสปายแวร์
 security-software-firewall = ไฟร์วอลล์
-features-title = คุณลักษณะของ { -brand-short-name }
-features-name = ชื่อ
-features-version = รุ่น
-features-id = ID
 processes-title = โพรเซสระยะไกล
 processes-type = ชนิด
 processes-count = ครั้ง
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] ไดเรกทอรีโปรไฟล์
        *[other] โฟลเดอร์โปรไฟล์
     }
-app-basics-enabled-plugins = ปลั๊กอินที่เปิดใช้งาน
 app-basics-build-config = การกำหนดค่าการสร้าง
 app-basics-user-agent = ตัวแทนผู้ใช้
 app-basics-os = ระบบปฏิบัติการ
@@ -96,9 +91,6 @@ show-dir-label =
 environment-variables-title = ตัวแปรสภาพแวดล้อม
 environment-variables-name = ชื่อ
 environment-variables-value = ค่า
-experimental-features-title = คุณลักษณะทดลอง
-experimental-features-name = ชื่อ
-experimental-features-value = ค่า
 modified-key-prefs-title = ค่าปรับแต่งสำคัญที่ถูกปรับเปลี่ยน
 modified-prefs-name = ชื่อ
 modified-prefs-value = ค่า
@@ -210,9 +202,6 @@ media-cdm-capabilities = ความสามารถ
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = ส่วนนำที่ไม่เข้ารหัส (Clear Lead)
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = รองรับ HDCP 2.2
 
 ##
 
@@ -364,8 +353,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = ถูกปิดใช้งานโดยการทดสอบ
-fission-status-experiment-treatment = ถูกเปิดใช้งานโดยการทดสอบ
 fission-status-disabled-by-e10s-env = ถูกปิดใช้งานโดยสภาพแวดล้อม
 fission-status-enabled-by-env = ถูกเปิดใช้งานโดยสภาพแวดล้อม
 fission-status-disabled-by-env = ถูกปิดใช้งานโดยสภาพแวดล้อม
@@ -374,7 +361,6 @@ fission-status-disabled-by-default = ถูกปิดใช้งานตา�
 fission-status-enabled-by-user-pref = ถูกเปิดใช้งานโดยผู้ใช้
 fission-status-disabled-by-user-pref = ถูกปิดใช้งานโดยผู้ใช้
 fission-status-disabled-by-e10s-other = ปิดใช้งาน E10s แล้ว
-fission-status-enabled-by-rollout = เปิดใช้งานโดย phased rollout
 async-pan-zoom = การเลื่อน/ซูมแบบอะซิงโครนัส
 apz-none = ไม่มี
 wheel-enabled = เปิดใช้งานการป้อนข้อมูลด้วยล้อแล้ว

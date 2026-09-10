@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Ievietot no datnes…
 contextual-manager-passwords-command-export = Izgūt paroles
 contextual-manager-passwords-command-remove-all = Noņemt visas paroles
 contextual-manager-passwords-command-options = Iespējas
-contextual-manager-passwords-command-settings = Iestatījumi
 contextual-manager-passwords-command-help = Palīdzība
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Paroles ievietotas
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Jaunas: { $added }, atjauninātas: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -225,8 +220,6 @@ contextual-manager-passwords-create-label =
     .label = Pievienot paroli
 contextual-manager-passwords-update-label =
     .label = Atjaunināt paroli
-contextual-manager-passwords-edit-label =
-    .label = Labot paroli
 contextual-manager-passwords-remove-label =
     .title = Noņemt paroli
 contextual-manager-passwords-origin-field =
@@ -242,7 +235,6 @@ contextual-manager-passwords-password-field-description = Ievadiet paroli, lai p
 contextual-manager-passwords-origin-tooltip = Jāievada tieši tā adrese, no kuras pieteiksies šajā vietnē.
 contextual-manager-passwords-username-tooltip = Ievadiet lietotājvārdu, e-pasta adresi vai konta numuru, ko izmantojat, lai pierakstītos.
 contextual-manager-passwords-password-tooltip-2 = Ievadiet paroli, lai pieteiktos šajā kontā.
-contextual-manager-passwords-password-tooltip = Ievadiet paroli, ko izmantojāt, lai pieteiktos šajā kontā.
 
 ## Password Card
 
@@ -289,10 +281,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Kopēt paroli (brīdinājums)
 contextual-manager-edit-login-button = Labot
     .tooltiptext = Labot paroli
-contextual-manager-view-alert-heading =
-    .heading = Skatīt brīdinājumu
-contextual-manager-view-alert-button =
-    .tooltiptext = Pārskatīt brīdinājumu
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -323,13 +311,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Netika atrasta neviena parole
 contextual-manager-passwords-no-passwords-found-message-2 = Izmēģiniet citu termu un meklējiet vēlreiz.
-contextual-manager-passwords-no-passwords-found-message = Nav atrasta neviena parole. Meklējiet citu termu un mēģiniet vēlreiz.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Saglabājiet savas paroles drošā vietā.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Visas paroles ir šifrētas, un mēs sekosim līdzi paroļu noplūdēm un pārkāpumiem, ja tie uz jums attieksies.

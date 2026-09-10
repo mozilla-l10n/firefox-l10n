@@ -24,21 +24,6 @@ webrtc-sharing-menu =
     .label = ଟ୍ୟାବ ସହଭାଗ ଉପକରଣଗୁଡ଼ିକ
     .accesskey = d
 
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = ଆପଣଙ୍କର କ୍ୟାମେରା ଏବଂ ମାଇକ୍ରୋଫନଗୁଡ଼ିକ ସହଭାଗ କରାଯାଇଛି। ସହଭାଗକୁ ନିୟନ୍ତ୍ରଣ କରିବା ପାଇଁ କ୍ଲିକ କରନ୍ତୁ।
-webrtc-indicator-sharing-camera =
-    .tooltiptext = ଆପମଙ୍କର କ୍ୟାମେରାକୁ ସହଭାଗ କରାଯାଇଛି। ସହଭାଗକୁ ନିୟନ୍ତ୍ରଣ କରିବା ପାଇଁ କ୍ଲିକ କରନ୍ତୁ।
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = ଆପମଙ୍କର ମାଇକ୍ରୋଫନକୁ ସହଭାଗ କରାଯାଇଛି। ସହଭାଗକୁ ନିୟନ୍ତ୍ରଣ କରିବା ପାଇଁ କ୍ଲିକ କରନ୍ତୁ।
-webrtc-indicator-sharing-application =
-    .tooltiptext = ଗୋଟିଏ ପ୍ରୟୋଗକୁ ସହଭାଗ କରାଯାଇଛି। ସହଭାଗକୁ ନିୟନ୍ତ୍ରଣ କରିବା ପାଇଁ କ୍ଲିକ କରନ୍ତୁ।
-webrtc-indicator-sharing-screen =
-    .tooltiptext = ଆପଣଙ୍କର ପରଦାକୁ ସହଭାଗ କରାଯାଇଛି। ସହଭାଗକୁ ନିୟନ୍ତ୍ରଣ କରିବା ପାଇଁ କ୍ଲିକ କରନ୍ତୁ।
-webrtc-indicator-sharing-window =
-    .tooltiptext = ଗୋଟିଏ ୱିଣ୍ଡୋକୁ ସହଭାଗ କରାଯାଇଛି। ସହଭାଗକୁ ନିୟନ୍ତ୍ରଣ କରିବା ପାଇଁ କ୍ଲିକ କରନ୍ତୁ।
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:

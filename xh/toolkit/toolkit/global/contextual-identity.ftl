@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Ayikho iKhonteyina
-    .accesskey = A
 user-context-personal-panel-item = Ezobuqu
     .accesskey = E
 user-context-work-panel-item = Umsebenzi

@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = ᱠᱷᱚᱵᱚᱨ ᱵᱷᱮᱡᱟ ᱮᱱᱟ ᱾ ᱥᱟᱨᱦᱟᱣ!
-confirmation-hint-login-removed = ᱵᱚᱞᱚ ᱚᱪᱚᱜ ᱮᱱᱟ !
 confirmation-hint-password-removed = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱚᱪᱚᱜ ᱮᱱᱟ !
 confirmation-hint-page-bookmarked = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱮᱱᱟ
-confirmation-hint-password-saved = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱥᱟᱧᱪᱟᱣ ᱮᱱᱟ !
 confirmation-hint-password-created = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱥᱟᱧᱪᱟᱣ ᱮᱱᱟ
 confirmation-hint-password-updated = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ
 confirmation-hint-address-created = ᱴᱷᱤᱠᱬᱟᱹᱠᱚ ᱥᱟᱧᱪᱟᱣ ᱮᱱᱟ

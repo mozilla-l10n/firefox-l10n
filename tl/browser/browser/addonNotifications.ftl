@@ -31,22 +31,10 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Magpatuloy sa pag-install
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = Ang pag-install ng software ay hindi pinagana ng iyong system administrator.
 xpinstall-disabled = Ang pag-install ng software ay kasalukuyang naka-disable. Pindutin ang Enable at subukan uli.
 xpinstall-disabled-button =
     .label = Paganahin
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = Ang { $addonName } ({ $addonId }) ay hinarangan ng iyong system administrator.
 addon-install-full-screen-blocked = Hindi pinapayagan ang pagkabit ng add-on habang nasa loob ng o bago pumasok ng fullscreen mode.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -60,9 +48,6 @@ webext-perms-update-menu-item = Ang { $addonName } ay nangangailangan ng mga bag
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Alisin { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Alisin ang { $name } mula sa { -brand-shorter-name }?
 addon-removal-button = Alisin
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
@@ -113,4 +98,3 @@ addon-local-install-error-not-signed = Hindi ma-install ang add-on dahil hindi p
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Hindi ma-install ang { $addonName } dahil hindi tugma sa { -brand-short-name } { $appVersion }.
-addon-install-error-blocklisted = Hindi maikakabit ang { $addonName } dahil malaki ang posibilidad ng maging sanhi ng problema sa stability o security.

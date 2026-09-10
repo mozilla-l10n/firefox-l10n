@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Su tzertificadu no est atendìbile ca s'emit
 cert-error-trust-signature-algorithm-disabled = Su tzertificadu no est atendìbile ca est istadu firmadu impreende un'algoritmu de firma chi est istadu disativadu, ca no est seguru.
 cert-error-trust-expired-issuer = Su tzertificadu no est atendìbile ca s'emitente de su tzertificadu est iscadidu.
 cert-error-trust-self-signed = Su tzertificadu no est atendìbile ca est firmadu dae isse etotu.
-cert-error-trust-symantec = Is tzertificados emìtidos dae GeoTrust, RapidSSL, Symantec, Thawte, e VeriSign non sunt prus cunsideradas seguras ca custas autoridades de tzertificatzione non ant rispetadu is pràticas de seguresa prevìdidas.
 cert-error-untrusted-default = Su tzertificadu non benit dae una fonte fidada.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -52,10 +51,6 @@ cert-error-code-prefix-link = Còdighe de faddina: <a data-l10n-name="error-code
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Ddoe est istada una faddina durante una connessione a { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Is sitos dimostrant s'identidade issoro cun tzertificados, chi sunt emìtidos dae autoridades de tzertificatzione. Medas navigadores non si fidant prus de is tzertificados emìtidos dae GeoTrust, RapidSSL, Symantec, Thawte, e VeriSign. { $hostname } impreat unu tzertificadu de una de custas autoridades, duncas s'identidade de su situ non si podet cumproare.
-cert-error-symantec-distrust-admin = Podes sinnalare custu problema a s'amministratzione de su situ.
 cert-error-old-tls-version = Podet èssere chi custu situ no siat cumpatìbile cun su protocollu TLS 1.2, chi est sa versione mìnima cumpatìbile cun { -brand-short-name }
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -64,7 +59,6 @@ cert-error-details-hsts-label = Seguresa istrinta de trasportu HTTP: { $hasHSTS 
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Fissadura de craes pùblicas HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadena de tzertificatziones:
-open-in-new-window-for-csp-or-xfo-error = Aberi situ in una ventana noa
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Pro amparare sa seguresa tua, { $hostname } no at a permìtere { -brand-short-name } de ammustrare sa pàgina si est inclùdida in un'àteru situ. Pro visualizare sa pàgina, depes abèrrere una ventana noa.
@@ -100,7 +94,6 @@ redirectLoop-title = Sa pàgina no est torrende a indiritzare in manera curreta
 unknownSocketType-title = Risposta inabetada de su serbidore
 nssFailure2-title = Faddina in sa connessione segura
 csp-xfo-error-title = { -brand-short-name } non podet abèrrere custa pàgina
-corruptedContentError-title = Faddina de cuntenutu corrotu
 sslv3Used-title = Impossìbile connètere de manera segura
 inadequateSecurityError-title = Sa connessione tua no est segura
 blockedByPolicy-title = Pàgina blocada

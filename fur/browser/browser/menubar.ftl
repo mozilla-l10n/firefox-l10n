@@ -253,8 +253,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Profîi
 menu-profiles-manage-profiles =
     .label = Gjestìs profîi
 menu-profiles-new-profile =
@@ -278,9 +276,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Estensions e temis
     .accesskey = E
-menu-tools-addons-and-themes =
-    .label = Components adizionâi e temis
-    .accesskey = C
 menu-tools-fxa-sign-in2 =
     .label = Jentre
     .accesskey = J
@@ -334,8 +329,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Plui informazions pe risoluzion dai problemis
     .accesskey = t
-menu-help-report-site-issue =
-    .label = Segnale probleme cul sît…
 menu-help-share-ideas =
     .label = Condivît ideis e parês…
     .accesskey = C

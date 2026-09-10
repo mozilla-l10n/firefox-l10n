@@ -78,8 +78,6 @@ options-context-advanced-settings = Iisetingi ezihambele phambili
 options-disable-http-cache-label = Yekisa iKhetshi yeHTTP (xa ithulbhoksi ivuliwe)
 options-disable-http-cache-tooltip =
     .title = Ukuvulela olu khetho kuza kuvala uvimba weHTTP kuzo zonke iithebhu ezivule ithulbhoks. AbaSebenzi beeNkonzo abachatshazelwa bona lolu khetho.
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Yenza ingasebenzi i-JavaScript*
 options-disable-javascript-tooltip =
     .title = Ukulayita olu khetho kuya kucima iJavaScript yale thebhu ikhoyo. Ukuba ithebhu okanye ithulbhoksi ivaliwe ngoko le setingi iya kulityalwa.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -94,8 +92,6 @@ options-enable-service-workers-http-tooltip =
     .title = Ukujija olu khetho  kuya kuvulela abasebenzi benkonzo ngaphezu kwe-HTTP yazo zonke iithebhu ezinethulbhoksi evuliweyo
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Vumela iiMephu zoMthombo
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Iseshoni ekhoyo kuphela iyaphinda ilowuda iphepha
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

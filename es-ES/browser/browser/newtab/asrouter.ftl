@@ -62,7 +62,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Sincronice sus marcadores esté donde esté.
-cfr-doorhanger-bookmark-fxa-body = ¡Gran hallazgo! Ahora no se quede sin este marcador en sus dispositivos móviles. Empiece con una { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = ¡Gran hallazgo! Ahora no se quede sin este marcador en sus dispositivos móviles. Empiece con una cuenta.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronizando marcadores…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -75,12 +74,6 @@ fxa-adoption-credit-cards-backup-subtitle = Proteja sus métodos de pago sincron
 fxa-adoption-bookmarks-treatment-backup-title = Hagamos una copia de seguridad de los marcadores
 fxa-adoption-bookmarks-treatment-backup-subtitle = Proteja sus marcadores sincronizándolos a sus dispositivos usando cifrado.
 fxa-adoption-primary-button-label = Registrarse
-
-## Protections panel
-
-cfr-protections-panel-header = Navegue sin que le sigan
-cfr-protections-panel-body = Guarde sus datos solo para usted. { -brand-short-name } le protege de muchos de los rastreadores más comunes que espían lo que hace en línea.
-cfr-protections-panel-link-text = Saber más
 
 ## What's New toolbar button and panel
 
@@ -175,42 +168,8 @@ mr2022-background-update-toast-primary-button-label = Abrir { -brand-shorter-nam
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Recordármelo más tarde
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Inténtelo
-    .accesskey = t
-firefoxview-cfr-secondarybutton = Ahora no
-    .accesskey = n
-firefoxview-cfr-header-v2 = Continúe rápidamente desde donde lo dejó.
-firefoxview-cfr-body-v2 = Recupere las pestañas cerradas recientemente y pase rápidamente entre dispositivos con { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Salude a { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = ¿Quiere esa pestaña abierta en su teléfono? Recupérela al vuelo. ¿Necesita ese sitio que acaba de visitar? Está en { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Ver cómo funciona
-firefoxview-spotlight-promo-secondarybutton = Saltar
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Elegir combinación de colores
-    .accesskey = c
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Coloree su navegador con los tonos exclusivos de { -brand-short-name } inspirados en voces que cambiaron la cultura.
-colorways-cfr-header-28days = Las combinaciones de colores de Independent Voices dejarán de estar disponibles el 16 de enero
-colorways-cfr-header-14days = Las combinaciones de colores de Independent Voices dejarán de estar disponibles en dos semanas
-colorways-cfr-header-7days = Las combinaciones de colores de Independent Voices dejarán de estar disponibles esta semana
-colorways-cfr-header-today = Las combinaciones de colores de Independent Voices dejarán de estar disponibles hoy
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = ¿Permitir que { -brand-short-name } rechace los avisos de cookies?
-cfr-cbh-body = { -brand-short-name } puede rechazar automáticamente muchas solicitudes de avisos de cookies.
-cfr-cbh-confirm-button = Rechazar los avisos de cookies
-    .accesskey = R
-cfr-cbh-dismiss-button = Ahora no
-    .accesskey = n
 cookie-banner-blocker-onboarding-header = { -brand-short-name } acaba de rechazar un aviso de cookies por usted
 cookie-banner-blocker-onboarding-body = Menos distracciones, menos cookies que le rastrean en este sitio.
 cookie-banner-blocker-onboarding-learn-more = Saber más

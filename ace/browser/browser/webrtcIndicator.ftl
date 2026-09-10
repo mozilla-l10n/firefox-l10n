@@ -21,7 +21,6 @@ webrtc-sharing-menuitem =
 
 ##
 
-webrtc-share-screen-learn-more = Meurunoë Lom
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Layeu { $monitorIndex }

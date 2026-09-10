@@ -2,17 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-# This file intentionally uses hard-coded brand names instead of Fluent terms.
-# This approach minimizes issues across multiple release channels and rebranded
-# versions.
-
 default-bookmarks-title = Bladwijzers
 default-bookmarks-heading = Bladwijzers
-default-bookmarks-toolbarfolder = Map Bladwijzerwerkbalk
-default-bookmarks-toolbarfolder-description = Voeg bladwijzers aan deze map toe om ze op de bladwijzerwerkbalk weer te geven
-# link title for https://www.mozilla.org/firefox/central/
-default-bookmarks-getting-started = Aan de slag
 # Firefox links folder name
 default-bookmarks-firefox-heading = Mozilla Firefox
 # link title for https://www.mozilla.org/firefox/help/

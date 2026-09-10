@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Rohkem { -vendor-short-name }lt
 more-from-moz-category =
     .tooltiptext = Rohkem { -vendor-short-name }lt
 more-from-moz-subtitle = Vaata teisi { -vendor-short-name } tooteid, mis toetavad hea tervisega internetti.

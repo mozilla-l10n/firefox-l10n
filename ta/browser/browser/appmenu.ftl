@@ -42,10 +42,6 @@ appmenu-remote-tabs-unverified = உங்கள் கணக்கு சரி
 appmenuitem-save-page =
     .label = இவ்வாறு சேமி…
 
-## What's New panel in App menu.
-
-whatsnew-panel-header = புதியவை என்ன
-
 ##
 
 appmenu-restore-session =
@@ -63,8 +59,6 @@ appmenu-recently-closed-windows =
 appmenu-about =
     .label = { -brand-shorter-name } பற்றி
     .accesskey = A
-appmenu-help-report-site-issue =
-    .label = தள சிக்கலை தெரிவி…
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

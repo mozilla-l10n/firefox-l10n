@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Įrašyti adresai
 autofill-manage-addresses-list-header = Adresai
-autofill-manage-credit-cards-title = Įrašytos banko kortelės
-autofill-manage-credit-cards-list-header = Banko kortelės
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Pašalinti
@@ -21,9 +19,6 @@ autofill-manage-edit-button = Keisti…
 
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Keisti adresą
-autofill-address-given-name = Vardas
-autofill-address-additional-name = Antras vardas
-autofill-address-family-name = Pavardė
 autofill-address-organization = Organizacija
 autofill-address-street = Gatvės adresas
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
@@ -69,26 +64,12 @@ autofill-address-eircode = Eir kodas
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Pridėti naują adresą
 autofill-address-country = Šalis arba regionas
 autofill-address-tel = Telefonas
 autofill-address-email = El. paštas
 autofill-cancel-button = Atsisakyti
 autofill-save-button = Įrašyti
 autofill-country-warning-message = Automatinis formų užpildymas kol kas galimas tik tam tikrose šalyse.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Įtraukti naują banko kortelę
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Keisti banko kortelę
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] parodyti banko kortelės duomenis
-        [windows] „{ -brand-short-name }“ bando parodyti banko kortelės informaciją. Žemiau patvirtinkite prieigą prie šios „Windows“ paskyros.
-       *[other] „{ -brand-short-name }“ bando parodyti banko kortelės informaciją.
-    }
 autofill-card-number-2 =
     .label = Kortelės numeris
 autofill-card-number = Kortelės numeris
@@ -102,15 +83,3 @@ autofill-card-expires-month = Pab. mėnuo
 autofill-card-expires-year = Pab. metai
 autofill-card-billing-address = Adresas sąskaitoms
 autofill-card-network = Kortelės rūšis
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = „American Express“
-autofill-card-network-cartebancaire = „Carte Bancaire“
-autofill-card-network-diners = „Diners Club“
-autofill-card-network-discover = „Discover“
-autofill-card-network-jcb = „JCB“
-autofill-card-network-mastercard = „MasterCard“
-autofill-card-network-mir = „MIR“
-autofill-card-network-unionpay = „Union Pay“
-autofill-card-network-visa = „Visa“

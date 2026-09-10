@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Motori juaj parazgjedhje i kërkimeve është ndryshuar.</strong> { $oldEngine } s’është më motor parazgjedhje kërkimesh në { -brand-short-name }. { $newEngine } është tani motori juaj parazgjedhje i kërkimeve. Që ta ndryshoni në një tjetër motor parazgjedhje kërkimesh, kaloni te rregullimet. <label data-l10n-name="remove-search-engine-article">Mësoni më tepër</label>
 removed-search-engine-message2 = <strong>Motori juaj parazgjedhje i kërkimeve është ndryshuar.</strong> { $oldEngine } s’është më motor parazgjedhje kërkimesh në { -brand-short-name }. { $newEngine } është tani motori juaj parazgjedhje i kërkimeve. Që ta ndryshoni në një tjetër motor parazgjedhje kërkimesh, kaloni te rregullimet.
 remove-search-engine-button = OK
 
@@ -52,11 +51,11 @@ install-search-engine-no = Jo
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Shtoni Motor Kërkimesh
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Përpunoni Motor Kërkimesh
     .style = min-width: 32em;
+    .title = Përpunoni Motor Kërkimesh
 add-engine-button = Shtoni Motor Vetjak
 add-engine-name = Emër motori kërkimesh
 add-engine-url2 = URL me %s, në vend se term kërkimi
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Provoni të përfshini %s, në vend të ter
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Shtoni Motor
-    .buttonaccesskeyaccept = S
     .buttonlabelextra1 = Të mëtejshme
+    .buttonaccesskeyaccept = S
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Ruaje Motorin
-    .buttonaccesskeyaccept = R
     .buttonlabelextra1 = Të mëtejshme
+    .buttonaccesskeyaccept = R

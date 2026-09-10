@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Rutto hello wooto ({ $shortcut })
     .aria-label = Rutto
+    .tooltiptext = Rutto hello wooto ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Yah yeeso hello wooto ({ $shortcut })
     .aria-label = Yeeso
+    .tooltiptext = Yah yeeso hello wooto ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -98,9 +98,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = Danndu Jokkol e Innde…
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = Danndu jokkol e { -pocket-brand-name }
-    .accesskey = D
 
 ##
 
@@ -181,18 +178,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Neldu Ojoo e Iimeel…
     .accesskey = o
-main-context-menu-save-to-pocket =
-    .label = Danndu hello e { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Neldu Hello to Kaɓirgol
-    .accesskey = K
 
 ##
 
-main-context-menu-keyword =
-    .label = Ɓeydi Helmere tesko e oo Njiilaw…
-    .accesskey = H
 main-context-menu-link-send-to-device =
     .label = Neldu Jokkol to Kaɓirgol
     .accesskey = K

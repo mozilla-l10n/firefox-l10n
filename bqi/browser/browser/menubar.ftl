@@ -260,8 +260,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = پوروفایلا
 menu-profiles-manage-profiles =
     .label = دؽوۉداری پوروفایلا
 menu-profiles-new-profile =
@@ -285,9 +283,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = وردنی یل وو زمینه یل
     .accesskey = E
-menu-tools-addons-and-themes =
-    .label = وردنی یل وو زمینه یل
-    .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = و من ٱووڌن
     .accesskey = g
@@ -344,8 +339,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = دووسمندیا قلوه زبار عیو جۊری
     .accesskey = T
-menu-help-report-site-issue =
-    .label = گوزارش موشکل وبگه…
 menu-help-share-ideas =
     .label = یک رسۊوی ایده یل وو منشڌا…
     .accesskey = S

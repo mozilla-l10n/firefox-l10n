@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = Preskakujte medzi zariadeniami pomocou f
 callout-firefox-view-tab-pickup-subtitle = Rýchlo si preneste otvorené karty z telefónu a otvorte ich tu, aby ste nestrácali čas.
 callout-firefox-view-recently-closed-title = Instantne získajte späť svoje zatvorené karty
 callout-firefox-view-recently-closed-subtitle = Všetky vaše zatvorené karty sa tu zázračne zobrazia. Už sa nikdy nemusíte báť náhodného zatvorenia stránky.
-callout-firefox-view-colorways-title = Pridajte si kvapku svojej farby
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Vyberte si odtieň, ktorý sa vám páči pomocou farebných tém. Iba vo { -brand-product-name(case: "loc") }.
-callout-firefox-view-colorways-reminder-title = Preskúmajte naše najnovšie farebné témy
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Vyfarbite svoj prehliadač týmito ikonickými odtieňmi inšpirovanými nezávislými hlasmi. Iba vo { -brand-product-name(case: "loc") }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

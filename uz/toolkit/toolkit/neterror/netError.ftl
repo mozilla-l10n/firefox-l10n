@@ -15,12 +15,10 @@ neterror-learn-more-link = Ko‘proq o‘rganish…
 neterror-open-portal-login-page-button = Tarmoqda ro‘yxatdan o‘tish sahifasini oching
 neterror-pref-reset-button = Standart sozlamalarni tiklash
 neterror-return-to-previous-page-button = Orqaga
-neterror-try-again-button = Yana urinib ko‘rish
 
 ##
 
 neterror-pref-reset = Tarmoq xavfsizligi bo‘yicha sozlamalar bunga sabab bo‘lishi mumkin. Standart sozlamalarni tiklashni xohlaysizmi?
-neterror-error-reporting-automatic = Shu kabi xatolik hisobotlari { -vendor-short-name }ga zararli saytlarni aniqlash va bloklashda yordam beradi
 
 ## Specific error messages
 
@@ -37,8 +35,6 @@ neterror-file-not-found-moved = Fayl o‘chirilgan, nomi o‘zgargan yoki ko‘c
 neterror-access-denied = O‘chirib tashlangan, ko‘chirilgan yoki foydalanishga ruxsat berilmagan bo‘lishi mumkin.
 neterror-unknown-protocol = Ushbu manzilni ochish uchun boshqa dasturni o‘rnatishingiz kerak.
 neterror-redirect-loop = Ushbu muammo ba’zida kukilarni o‘chirilishiga yoki rozilikni rad qilinishiga sabab bo‘lishi mumkin.
-neterror-unknown-socket-type-psm-installed = Shaxsiy xavfsizlik boshqaruvchisi (PSM) tizimingizda o‘rnatilganligini tekshirib ko‘ring.
-neterror-unknown-socket-type-server-config = Bu serveringizning nostandart moslanganligidan ham bo‘lishi mumkin.
 neterror-not-cached-intro = So‘ralgan hujjat { -brand-short-name }’ning keshida mavjud emas.
 neterror-not-cached-sensitive = Xavfsizlik sabablariga ko‘ra, { -brand-short-name } maxfiy hujjatlarni avtomatik qayta so‘ramaydi.
 neterror-not-cached-try-again = Hujjatni saytdan qayta so‘rash uchun "Yana urinib ko‘ring"ni bosing.

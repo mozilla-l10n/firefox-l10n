@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = ವಿನಾಯಿತಿಗಳು
     .style = min-width: 45em
+    .title = ವಿನಾಯಿತಿಗಳು
 permissions-close-key =
     .key = w
 permissions-address = ಜಾಲತಾಣದ ವಿಳಾಸ
@@ -48,16 +48,6 @@ permissions-capabilities-listitem-allow-session =
 permissions-invalid-uri-title = ನಮೂದಿಸಲಾದ ಅತಿಥೇಯದ ಹೆಸರು ಅಮಾನ್ಯವಾಗಿದೆ
 permissions-invalid-uri-label = ದಯವಿಟ್ಟು ಒಂದು ಮಾನ್ಯವಾದ ಅತಿಥೇಯದ ಹೆಸರನ್ನು ನಮೂದಿಸಿ
 
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-desc = ಯಾವ ಜಾಲತಾಣಗಳು ಪುಟಿಕೆ ವಿಂಡೋಗಳನ್ನು  ತೆರೆಯಲು ಅನುಮತಿ ಇದೆ ಎಂದು ನೀವು ಸೂಚಿಸಬಹುದು. ನೀವು ಅನುಮತಿಸಲು ಬಯಸುವ ತಾಣದ ನಿಖರವಾದ ವಿಳಾಸವನ್ನು ನಮೂದಿಸಿ ನಂತರ ಅನುಮತಿಸು ಅನ್ನು ಕ್ಲಿಕ್ಕಿಸಿ.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = ವಿನಾಯಿತಿಗಳು - ಉಳಿಸಿದ ಲಾಗಿನ್‍ಗಳು
-    .style = { permissions-window2.style }
-
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = ಯಾವ ಜಾಲತಾಣಗಳು ಆಡ್-ಆನ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಅನುಮತಿ ಇದೆ ಎಂದು ನೀವು ಸೂಚಿಸಬಹುದು. ನೀವು ಅನುಮತಿಸಲು ಬಯಸುವ ತಾಣದ ನಿಖರವಾದ ವಿಳಾಸವನ್ನು ನಮೂದಿಸಿ ನಂತರ ಅನುಮತಿಸು ಅನ್ನು ಕ್ಲಿಕ್ಕಿಸಿ.
@@ -65,11 +55,11 @@ permissions-exceptions-addons-desc = ಯಾವ ಜಾಲತಾಣಗಳು ಆ�
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = ಕ್ಯಾಮರ ಅನುಮತಿ - ಸಿದ್ಧತೆಗಳು
     .style = { permissions-window2.style }
+    .title = ಕ್ಯಾಮರ ಅನುಮತಿ - ಸಿದ್ಧತೆಗಳು
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = ಮೈಕ್ರೋಫೋನ್ ಅನುಮತಿ - ಸಿದ್ಧತೆಗಳು
     .style = { permissions-window2.style }
+    .title = ಮೈಕ್ರೋಫೋನ್ ಅನುಮತಿ - ಸಿದ್ಧತೆಗಳು

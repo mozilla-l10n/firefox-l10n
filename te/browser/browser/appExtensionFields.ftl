@@ -13,15 +13,3 @@ extension-firefox-compact-light-description = లేత రంగులో అ�
 extension-firefox-compact-dark-name = ముదురు
 extension-firefox-compact-dark-description = ముదురు రంగు అలంకారం.
 extension-firefox-alpenglow-description = బటన్లు, మెనూలు, విండోల కోసం రంగురంగుల అలంకారాన్ని వాడు.
-
-## Colorway Themes
-## These themes are variants of a colorway. The colorway is specified in the
-## $colorway-name variable.
-## Variables
-##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
-
-extension-colorways-soft-name = { $colorway-name } — కోమలం
-extension-colorways-balanced-name = { $colorway-name } — సమతుల్యం
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-extension-colorways-bold-name = { $colorway-name } — గంభీరం

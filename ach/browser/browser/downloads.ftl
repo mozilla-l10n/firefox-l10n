@@ -26,8 +26,6 @@ downloads-cmd-cancel-panel =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = Nyut boc me gam
 downloads-cmd-retry =
     .tooltiptext = Tem odoco
 downloads-cmd-retry-panel =

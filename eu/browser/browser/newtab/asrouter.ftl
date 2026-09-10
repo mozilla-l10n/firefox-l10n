@@ -62,7 +62,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Sinkronizatu laster-markak edonon.
-cfr-doorhanger-bookmark-fxa-body = Ondo ikusia! Orain ez galdu laster-marka hau zure gailu mugikorretan. Hasi { -fxaccount-brand-name } erabiltzen.
 cfr-doorhanger-bookmark-fxa-body-2 = Ondo ikusia! Orain ez galdu laster-marka hau zure gailu mugikorretan. Hasi erabiltzen kontu batekin.
 cfr-doorhanger-bookmark-fxa-link-text = Sinkronizatu laster-markak orain…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -75,12 +74,6 @@ fxa-adoption-credit-cards-backup-subtitle = Babestu zure ordainketa-metodoak gai
 fxa-adoption-bookmarks-treatment-backup-title = Egin dezagun zure laster-marken babeskopia
 fxa-adoption-bookmarks-treatment-backup-subtitle = Babestu zure laster-markak gailuen artean zifratze bidez sinkronizatuz.
 fxa-adoption-primary-button-label = Eman izena
-
-## Protections panel
-
-cfr-protections-panel-header = Nabigatu inor atzetik izan gabe
-cfr-protections-panel-body = Mantendu zure datuak zuretzat. Lineako zure jardueraren jarraipena egiten duten elementu ohikoenetatik babesten zaitu { -brand-short-name }(e)k.
-cfr-protections-panel-link-text = Argibide gehiago
 
 ## What's New toolbar button and panel
 
@@ -175,42 +168,8 @@ mr2022-background-update-toast-primary-button-label = Ireki { -brand-shorter-nam
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Gogora iezadazu geroago
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Probatu
-    .accesskey = t
-firefoxview-cfr-secondarybutton = Une honetan ez
-    .accesskey = z
-firefoxview-cfr-header-v2 = Jarraitu utzi zenuen tokitik
-firefoxview-cfr-body-v2 = Berreskuratu itxitako azken fitxak eta aldatu di-da batean gailuen artean { -firefoxview-brand-name } erabiliz.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Esan kaixo { -firefoxview-brand-name }ri.
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Telefonoan irekita daukazun fitxa hori nahi duzu? Har ezazu. Oraintxe bisitatu duzun gune hori behar duzu? Lasai, bueltan da { -firefoxview-brand-name }rekin.
-firefoxview-spotlight-promo-primarybutton = Ikusi nola dabilen
-firefoxview-spotlight-promo-secondarybutton = Saltatu
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Aukeratu kolore-konbinazioa
-    .accesskey = k
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Eman kolorea zure nabigatzaileari { -brand-short-name } kultura aldatu zuten ahotsek inspiratutako itzaldura esklusiboekin.
-colorways-cfr-header-28days = Ahots independenteen kolore-konbinazioak urtarrilaren 16an iraungiko dira
-colorways-cfr-header-14days = Ahots independenteen kolore-konbinazioak bi aste barru iraungiko dira
-colorways-cfr-header-7days = Ahots independenteen kolore-konbinazioak aste honetan iraungiko dira
-colorways-cfr-header-today = Ahots independenteen kolore-konbinazioak gaur iraungiko dira
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Baimendu { -brand-short-name }(r)i cookie iragarki-bandak ukatzea?
-cfr-cbh-body = { -brand-short-name }(e)k automatikoki uka ditzake cookie iragarki-bandetako eskaerak.
-cfr-cbh-confirm-button = Ukatu cookie iragarki-bandak
-    .accesskey = k
-cfr-cbh-dismiss-button = Une honetan ez
-    .accesskey = n
 cookie-banner-blocker-onboarding-header = { -brand-short-name }(e)k zuregatik cookie iragarki-banda bat ukatu berri du
 cookie-banner-blocker-onboarding-body = Distrazio gutxiago, zure jarraipena egiten duten cookie gutxiago gune honetan.
 cookie-banner-blocker-onboarding-learn-more = Argibide gehiago

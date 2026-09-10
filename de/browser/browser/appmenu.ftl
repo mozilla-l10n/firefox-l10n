@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = Erweiterungen und Themes
 appmenuitem-extensions =
     .label = Erweiterungen
-appmenuitem-addons-and-themes =
-    .label = Add-ons und Themes
 appmenuitem-print =
     .label = Drucken…
 appmenuitem-find-in-page =
@@ -154,7 +152,6 @@ fxa-menu-get-firefox-mobile =
     .label = Holen Sie sich { -brand-product-name } für Android oder iOS
 fxa-menu-secure-sync-subpanel =
     .title = Sichere Synchronisierung
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Konto
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -176,15 +173,6 @@ appmenuitem-save-page =
     .label = Seite speichern unter…
 appmenuitem-fxa-sync-off-title = Sync ist deaktiviert
 appmenuitem-fxa-sync-off-description = Schützen Sie Ihre Lesezeichen, Passwörter und mehr und greifen Sie überall darauf zu.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Neue Funktionen und Änderungen
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Über neue Funktionen benachrichtigen
-    .accesskey = b
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -326,8 +314,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Weitere Informationen zur Fehlerbehebung
     .accesskey = W
-appmenu-help-report-site-issue =
-    .label = Seitenproblem melden…
 appmenu-help-share-ideas =
     .label = Ideen und Feedback teilen…
     .accesskey = I
@@ -393,7 +379,6 @@ appmenuitem-vpn-description5 = Zusätzlicher Schutz auf all Ihren Geräten
 appmenuitem-vpn-title-signed-in1 = { -mozilla-vpn-brand-name } herunterladen
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Schutz für das gesamte Gerät
-appmenuitem-vpn-description = Schützen Sie Ihre Online-Aktivitäten
 appmenu-services-header = Meine Dienste
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -403,7 +388,6 @@ appmenu-other-protection-header3 = Datenschutzwerkzeuge
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Probieren Sie andere Schutzwerkzeuge von Mozilla aus:
-appmenu-other-protection-header = Probieren Sie andere Schutzwerkzeuge von { -vendor-short-name } aus:
 
 ## Profiles panel
 

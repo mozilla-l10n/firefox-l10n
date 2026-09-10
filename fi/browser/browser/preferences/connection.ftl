@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Yhteysasetukset
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Yhteysasetukset
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Päivitä
     .accesskey = ä
-connection-proxy-autologin =
-    .label = Älä kysy kirjautumistietoja jos salasana on tallennettu
-    .accesskey = Ä
-    .tooltip = Kirjautuminen välityspalvelimelle tapahtuu automaattisesti jos salasana palvelimelle on tallennettu. Kirjautumistietoja kysytään jos automaattinen kirjautuminen epäonnistuu.
 connection-proxy-autologin-checkbox =
     .label = Älä kysy kirjautumistietoja jos salasana on tallennettu
-    .accesskey = Ä
     .tooltiptext = Kirjautuminen välityspalvelimelle tapahtuu automaattisesti jos salasana palvelimelle on tallennettu. Kirjautumistietoja kysytään jos automaattinen kirjautuminen epäonnistuu.
+    .accesskey = Ä
 connection-proxy-socks4-remote-dns =
     .label = Käytä välityspalvelinta DNS:lle käytettäessä SOCKS v4:ää
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Käytä oletusosoitetta nimipalvelukyselyjen tekemiseksi HTTPS:n välityksellä
 connection-dns-over-https-url-custom =
     .label = Oma
-    .accesskey = m
     .tooltiptext = Kirjoita ensijainen osoite DNS-kyselyjen selvittämiseen HTTPS:n välityksellä
-connection-dns-over-https-custom-label = Oma
+    .accesskey = m

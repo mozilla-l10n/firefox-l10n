@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = В момента сте в режим н�
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Нулиране на главна парола
     .style = min-width: 40em
+    .title = Нулиране на главна парола
 reset-password-button-label =
     .label = Нулиране
 reset-primary-password-text = Ако нулирате главната парола, всичките съхранени пароли за сайтове и поща, лични сертификати и частни ключове ще бъдат загубени. Желаете ли главната парола да бъде нулирана?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Главната парола е н
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Изтегляне на сертификат
     .style = min-width: 46em
+    .title = Изтегляне на сертификат
 download-cert-message = Поискано е да се доверите на нов удостоверител на сертификати (CA).
 download-cert-trust-ssl =
     .label = Доверяване на този CA за идентифициране на страници.
@@ -52,8 +52,6 @@ download-cert-view-text = Изследване на сертификат на CA
 
 client-auth-window =
     .title = Заявка за идентификация на потребител
-client-auth-site-description = Този сайт изисква да се идентифицирате със сертификат:
-client-auth-choose-cert = Избор на сертификат, който да се представи за идентификация:
 client-auth-send-no-certificate =
     .label = Без изпращане на сертификат
 # Variables:
@@ -93,9 +91,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Парола на резервното копие на сертификат (отново):
 set-password-reminder = Важно: Ако забравите паролата на резервното копие на сертификата, по-късно няма да може да възстановите от това резервно копие. Моля, запишете я на сигурно място.
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Удостоверете се с устройството „{ $tokenName }“. Как да го направите зависи от самото устройство (например: четец за пръстов отпечатък, набиране на код).

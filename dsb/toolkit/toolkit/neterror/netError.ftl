@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Slědk hyś
 neterror-return-to-previous-page-recommended-button = Slědk (dopórucony)
 neterror-try-again-button-2 = Hyšći raz wopytaś
     .accesskey = H
-neterror-try-again-button = Hyšći raz wopytaś
 neterror-add-exception-button = Za toś to sedło pśecej pókšacowaś
 neterror-settings-button = DNS-nastajenja změniś
 neterror-view-certificate-link = Certifikat pokazaś
-neterror-trr-continue-this-time = Toś ten raz pókšacowaś
-neterror-disable-native-feedback-warning = Pśecej pókšacowaś
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = Dalšne informacije
 ##
 
 neterror-pref-reset = Zda se, až waše nastajenja seśoweje wěstoty by mógli to zawinowaś. Cośo standardne nastajenja wótnowiś?
-neterror-error-reporting-automatic = Dajśo zmólki ako toś te k wěsći, aby { -vendor-short-name } pomagał, złosne sedła identificěrował a blokěrował
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Źělśo wót a zwěžćo zasej 
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } njamóžo wašo napšašowanje za adresu toś togo sedła pśez naš dowěry gódny DNS resolwer šćitaś. Pśicyna jo:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } njamóžo wašo napšašowanje za adresu toś togo sedła pśez našogo póbitowarja wěstego DNS šćitaś. Pśicyna jo:
 neterror-dns-not-found-trr-third-party-warning2 = Móžośo ze swójim standardnym  DNS-resolwerom pókšacowaś. Ale, tśeśi póbitowaŕ mógał wiźeś, ku kótarym websedłam se  woglědujośo.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } njejo mógał z { $trrDomain } zwězaś.
 neterror-dns-not-found-trr-only-timeout = Zwězowanje z { $trrDomain } jo dleje trało ako wócakane.
-neterror-dns-not-found-trr-offline = Njejsćo z internetom zwězany.
 neterror-dns-not-found-trr-unknown-host2 = Toś to websedło njejo se namakało wót { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Problem z { $trrDomain } jo nastał.
 neterror-dns-not-found-bad-trr-url = Njepłaśiwy URL.
 neterror-dns-not-found-system-sleep = System jo w spańskem modusu.
 neterror-dns-not-found-trr-unknown-problem = Njewócakany problem.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } njamóžo wašo napšašowanje za adresu toś togo sedła pśez naš dowěry gódny DNS resolwer šćitaś. Pśicyna jo:
-neterror-dns-not-found-native-fallback-heuristic = DNS pśez HTTPS jo se znjemóžnił we wašej seśi.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } njejo mógał z { $trrDomain } zwězaś.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = Snaź jo se wótpórała, pśesunuła, abo datajowe pš
 neterror-unknown-protocol = Snaź musyśo druge programy instalěrowaś, aby se toś ta adresa wócyniła.
 neterror-redirect-loop = Toś ten problem zawinujo se wótergi pśez znjemóžnjanje abo wótpokazowanje cookiejow.
 neterror-unknown-socket-type-client-config = To mógło dla zmólki konfiguracije z wašym klientom byś.
-neterror-unknown-socket-type-psm-installed = Skontrolěrujśo, lěc Personal Security Manager jo instalěrowany na wašom systemje.
-neterror-unknown-socket-type-server-config = Pśicyna jo snaź njestandardna konfiguracija na serwerje.
 neterror-not-cached-intro = Póžedany dokument njestoj w pufrowaku { -brand-short-name } k dispoziciji.
 neterror-not-cached-sensitive = Ako wěstotna napšawa { -brand-short-name } njewótwołujo sensibelne dokumenty awtomatiski znowego.
 neterror-not-cached-try-again = Klikniśo na Hyšći raz, aby dokument hyšći raz z websedła wótwołał.

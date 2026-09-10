@@ -52,10 +52,6 @@ cfr-doorhanger-extension-total-users =
 cfr-doorhanger-bookmark-fxa-header = সকলো ঠাইতে আপোনাৰ বুকমাৰ্কসমূহ ছিংক কৰক।
 cfr-doorhanger-bookmark-fxa-link-text = এতিয়াই বুকমাৰ্ক চিংক কৰক…
 
-## Protections panel
-
-cfr-protections-panel-link-text = অধিক জানক
-
 ## What's New toolbar button and panel
 
 # This string is used by screen readers to offer a text based alternative for

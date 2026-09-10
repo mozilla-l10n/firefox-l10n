@@ -36,9 +36,6 @@ unified-extensions-item-message-manage = 管理擴充套件
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = { $extensionName } 受到限制，繼續使用可能會有風險。
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName } 違反了 Mozilla 的政策規定，繼續使用可能會有風險。
 
 ## Extension's context menu
 
@@ -57,8 +54,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = 不允許使用某些擴充套件
-unified-extensions-mb-quarantined-domain-message = 為了保護您的資料安全，僅可在此網站使用某些受 { -vendor-short-name } 監控的擴充套件。
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = 不允許使用某些擴充套件
@@ -72,13 +67,6 @@ unified-extensions-mb-blocklist-warning-single2 =
     .heading = 已停用 { $extensionName }
     .message = 此擴充套件受到限制，已被停用。您可以到設定頁面重新啟用，但可能會有風險。
 # Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = 已停用 { $extensionName }
-    .message =
-        此擴充套件違反了 Mozilla 的政策，已被停用。
-        您還是可以到設定畫面中開啟，但可能會有風險。
-# Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
     .heading = 已停用 { $extensionName }
@@ -88,13 +76,6 @@ unified-extensions-mb-blocklist-error-single =
 unified-extensions-mb-blocklist-warning-multiple2 =
     .heading = 已停用 { $extensionsCount } 組擴充套件
     .message = 您有部份擴充套件受到限制，已被停用。可以到設定頁面重新啟用，但可能會有風險。
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading = 已停用 { $extensionsCount } 組擴充套件
-    .message =
-        您有一些擴充套件違反了 Mozilla 的政策，已被停用。
-        您還是可以到設定畫面中開啟，但可能會有風險。
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =

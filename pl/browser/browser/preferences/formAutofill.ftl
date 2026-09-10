@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Zachowane adresy
 autofill-manage-addresses-list-header = Adresy
-autofill-manage-credit-cards-title = Zachowane dane kart
-autofill-manage-credit-cards-list-header = Karty
 autofill-manage-payment-methods-title = Zachowane metody płatności
 autofill-manage-cards-list-header = Karty
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = Otwórz menu
 address-capture-edit-address-link = Edytuj adres
     .aria-label = Edytuj adres
-address-capture-edit-address-button =
-    .aria-label = Edytuj adres
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Dodawanie adresu
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Edycja adresu
-autofill-address-given-name = Imię
-autofill-address-additional-name = Drugie imię
-autofill-address-family-name = Nazwisko
 autofill-address-name = Nazwa
 autofill-address-organization = Organizacja
 autofill-address-street-address = Adres
@@ -104,8 +97,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Nowy adres
 autofill-address-country = Państwo lub region
 autofill-address-country-only = Państwo
 autofill-address-tel = Telefon
@@ -114,18 +105,6 @@ autofill-cancel-button = Anuluj
 autofill-save-button = Zachowaj
 autofill-country-warning-message-2 = Wypełnianie formularzy jest obecnie dostępne tylko w wybranych krajach
 autofill-country-warning-message = Wypełnianie formularzy jest obecnie dostępne tylko w wybranych krajach.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Dodawanie nowej karty płatniczej
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Edycja danych karty płatniczej
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] dostęp do informacji o kartach płatniczych
-        [windows] { -brand-short-name } chce uzyskać dostęp do informacji o kartach płatniczych. Potwierdź poniżej używając konta Windows.
-       *[other] { -brand-short-name } chce uzyskać dostęp do informacji o kartach płatniczych.
-    }
 autofill-message-tooltip = Wyświetl komunikat o automatycznym wypełnianiu
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Dodawanie karty
@@ -211,15 +190,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = Nigdy nie zachowuj paszportów
     .accessKey = d
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = Mastercard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

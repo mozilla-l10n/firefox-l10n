@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Delingsviser
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Delingsviser
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Du deler mikrofonen din. Klikk for å kontrollere deling.
 webrtc-screen-system-menu =
     .label = Du deler et vindu eller en skjerm. Klikk for å kontrollere deling.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Kamera og mikrofon deles nå. Trykk for å kontrollere deling.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Kamera deles nå. Trykk for å kontrollere deling.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Mikrofon deles nå. Trykk for å kontrollere deling.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Et program deles. Trykk for å kontrollere deling.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Skjermen din deles nå. Trykk for å kontrollere deling.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Et vindu deles nå. Trykk for å kontrollere deling.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = En fane deles nå. Trykk for å kontrollere deling.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Tillate { $origi
 
 webrtc-share-screen-warning = Del skjermen din kun med sider du har tiltro til. Deling kan la villedende sider surfe som deg og stjele dine private data.
 webrtc-share-browser-warning = Del { -brand-short-name } din kun med sider du har tiltro til. Deling kan la villedende sider surfe som deg og stjele dine private data.
-webrtc-share-screen-learn-more = Les mer
 webrtc-pick-window-or-screen = Velg vindu eller skjerm
 webrtc-share-entire-screen = Hele skjermen
 webrtc-share-pipe-wire-portal = Bruk operativsystemets innstillinger

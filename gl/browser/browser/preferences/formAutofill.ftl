@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Enderezos gardados
 autofill-manage-addresses-list-header = Enderezos
-autofill-manage-credit-cards-title = Tarxetas de crédito gardadas
-autofill-manage-credit-cards-list-header = Tarxetas de crédito
 autofill-manage-payment-methods-title = Métodos de pago gardados
 autofill-manage-cards-list-header = Tarxetas
 autofill-manage-dialog =
@@ -45,15 +43,10 @@ address-capture-open-menu-button =
     .aria-label = Abrir menú
 address-capture-edit-address-link = Editar enderezo
     .aria-label = Editar enderezo
-address-capture-edit-address-button =
-    .aria-label = Editar enderezo
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Engadir enderezo
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Editar enderezo
-autofill-address-given-name = Nome
-autofill-address-additional-name = Segundo nome
-autofill-address-family-name = Apelidos
 autofill-address-name = Nome
 autofill-address-organization = Organización
 autofill-address-street-address = Domicilio
@@ -101,8 +94,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Engadir novo enderezo
 autofill-address-country = País ou rexión
 autofill-address-country-only = País
 autofill-address-tel = Teléfono
@@ -110,18 +101,6 @@ autofill-address-email = Correo
 autofill-cancel-button = Cancelar
 autofill-save-button = Gardar
 autofill-country-warning-message = O completado automático de formularios só está dispoñíbel para certos países.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Engadir unha nova tarxeta de crédito
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Editar a tarxeta de crédito
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] mostrar información da tarxeta de crédito
-        [windows] { -brand-short-name } tenta amosar a información da tarxeta de crédito. Confirme o acceso á conta de usuario de Windows a continuación.
-       *[other] { -brand-short-name } tenta amosar a información da tarxeta de crédito.
-    }
 autofill-message-tooltip = Ver mensaxe sobre autocompletar
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Engadir a tarxeta
@@ -140,15 +119,3 @@ autofill-card-expires-month = Mes de caducidade
 autofill-card-expires-year = Ano de caducidade
 autofill-card-billing-address = Enderezo de facturación
 autofill-card-network = Tipo de tarxeta
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

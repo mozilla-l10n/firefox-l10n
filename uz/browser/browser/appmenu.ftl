@@ -27,8 +27,6 @@ appmenuitem-downloads =
     .label = Yuklanmalar
 appmenuitem-passwords =
     .label = Parollar
-appmenuitem-addons-and-themes =
-    .label = Qoʻshimcha va mavzular
 appmenuitem-print =
     .label = Chop qilish…
 appmenuitem-find-in-page =
@@ -85,7 +83,6 @@ appmenu-remote-tabs-unverified = Hisobingiz tasdiqlanishi kerak.
 appmenuitem-fxa-toolbar-sync-now2 = Hozir sinxronlash
 appmenuitem-fxa-sign-in = { -brand-product-name } hisobiga kirish
 appmenuitem-fxa-manage-account = Hisobni boshqarish
-appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
@@ -97,10 +94,6 @@ appmenu-fxa-setup-sync =
     .label = Sinxronizatsiyani yoqish
 appmenuitem-save-page =
     .label = Sahifani saqlash…
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Yangi xususiyatlar
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -135,8 +128,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Boshqa tuzatish maʼlumotlari
     .accesskey = t
-appmenu-help-report-site-issue =
-    .label = Saytdagi muammo haqida xabar berish
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

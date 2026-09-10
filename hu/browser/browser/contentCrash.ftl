@@ -18,13 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Van egy beküldetlen hibajelentés
-       *[other] Van { $reportCount } beküldetlen hibajelentés
-    }
 pending-crash-reports-view-all =
     .label = Megtekintés
 pending-crash-reports-send =
@@ -37,13 +30,6 @@ requested-crash-reports-message-new =
     { $reportCount ->
         [one] Egy beküldetlen hibajelentése van, amely kapcsolódik a vizsgált összeomlásokhoz, ezek elküldése segít nekünk a { -brand-product-name } fejlesztésében. Az értesítés bezárása figyelmen kívül fogja hagyni ezeket a jelentéseket.
        *[other] { $reportCount } beküldetlen hibajelentése van, amely kapcsolódik a vizsgált összeomlásokhoz, ezek elküldése segít nekünk a { -brand-product-name } fejlesztésében. Az értesítés bezárása figyelmen kívül fogja hagyni ezeket a jelentéseket.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Beküldetlen hibajelentése van, amely megfelel a kivizsgálás alatt lévő összeomlásoknak. A jelentések elküldése segít nekünk a { -brand-product-name } fejlesztésében. Az értesítés bezárása figyelmen kívül fogja hagyni ezeket a jelentéseket.
-       *[other] { $reportCount } beküldetlen hibajelentése van, amelyek megfelelnek a kivizsgálás alatt lévő összeomlásoknak. A jelentések elküldése segít nekünk a { -brand-product-name } fejlesztésében. Az értesítés bezárása figyelmen kívül fogja hagyni ezeket a jelentéseket.
     }
 requested-crash-reports-dont-show-again =
     .label = Ne jelenjen meg újra

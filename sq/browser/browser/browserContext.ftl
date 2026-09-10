@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Shkoni mbrapsht një faqe ({ $shortcut })
     .aria-label = Mbrapsht
+    .tooltiptext = Shkoni mbrapsht një faqe ({ $shortcut })
     .accesskey = M
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Shkoni para një faqe ({ $shortcut })
     .aria-label = Përpara
+    .tooltiptext = Shkoni para një faqe ({ $shortcut })
     .accesskey = P
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Faqeruani Faqe…
-    .accesskey = F
     .tooltiptext = Faqeruani faqen
+    .accesskey = F
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Faqeruani Faqe…
-    .accesskey = F
     .tooltiptext = Faqeruani faqen ({ $shortcut })
+    .accesskey = F
 main-context-menu-edit-bookmark =
     .aria-label = Përpunoni Faqerojtës…
-    .accesskey = P
     .tooltiptext = Përpunoni faqerojtës
+    .accesskey = P
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Përpunoni Faqerojtës…
-    .accesskey = P
     .tooltiptext = Përpunoni faqerojtës ({ $shortcut })
+    .accesskey = P
 main-context-menu-open-link =
     .label = Hape Lidhjen
     .accesskey = H
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Ruajeni Lidhjen Si…
     .accesskey = R
-main-context-menu-save-link-to-pocket =
-    .label = Ruajeni Lidhjen te { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -299,40 +290,22 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Dërgoje në Celular
     .accesskey = D
-main-context-menu-save-to-pocket =
-    .label = Ruaje Faqen te { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Dërgoje Faqen te Pajisje
-    .accesskey = P
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Përdor Kredenciale Hyrjesh të Ruajtura
-    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Përdorim Fjalëkalimin e Ruajtur
     .accesskey = F
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Përdor Maskë { -relay-brand-short-name } Email-i
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = Sugjero Fjalëkalim të Fuqishëm…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = Administroni Kredenciale Hyrjesh
-    .accesskey = K
 main-context-menu-manage-passwords =
     .label = Administroni Fjalëkalime
     .accesskey = A
-main-context-menu-keyword =
-    .label = Shtoni një Fjalëkyç për këtë Kërkim…
-    .accesskey = K
 main-context-menu-add-engine =
     .label = Shtoni Motor Kërkimesh
     .accesskey = S
@@ -379,9 +352,6 @@ main-context-menu-view-selection-source =
     .label = Shihni Burim Përzgjedhjeje
     .accesskey = e
 main-context-menu-take-screenshot =
-    .label = Bëni Foto Ekrani
-    .accesskey = B
-main-context-menu-take-frame-screenshot =
     .label = Bëni Foto Ekrani
     .accesskey = B
 main-context-menu-view-page-source =

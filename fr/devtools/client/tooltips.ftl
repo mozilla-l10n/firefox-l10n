@@ -35,7 +35,6 @@ inactive-css-first-line-pseudo-element-not-supported = La propriété <strong>{ 
 inactive-css-first-letter-pseudo-element-not-supported = La propriété <strong>{ $property }</strong> n’est pas prise en charge par les pseudo-éléments ::first-letter.
 inactive-css-placeholder-pseudo-element-not-supported = La propriété <strong>{ $property }</strong> n’est pas prise en charge par les pseudo-éléments ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> n’a aucun effet sur cet élément car la valeur de sa propriété « display » est <strong>{ $display }</strong>.
-inactive-css-not-display-block-on-floated = La valeur <strong>display</strong> a été modifiée par le moteur en <strong>block</strong> car l’élément est <strong>flottant</strong>.
 inactive-css-not-display-block-on-floated-2 = La valeur <strong>display</strong> a été modifiée par le moteur en <strong>{ $display }</strong> car l’élément est <strong>flottant</strong>.
 inactive-css-only-non-grid-or-flex-item = La propriété <strong>{ $property }</strong> n’a aucun effet, car elle ne peut pas être utilisée sur des éléments grid ou flex.
 inactive-css-not-block = La propriété <strong>{ $property }</strong> n’a aucun effet sur cet élément, car elle ne s’applique qu’aux éléments de type block.
@@ -56,16 +55,6 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 inactive-css-border-image = <strong>{ $property }</strong> n’a aucun effet sur cet élément comme cette propriété ne peut s’appliquer à des éléments internes d’un tableau quand <strong>border-collapse</strong> est défini à <strong>collapse</strong> sur l’élément parent dans le tableau.
 inactive-css-resize = La propriété <strong>{ $property }</strong> n’a aucun effet sur cet élément, car elle ne peut s’appliquer qu’aux éléments dont la valeur de débordement (overflow) est différente de visible et à certains éléments remplacés comme les zones de texte textarea.
 inactive-css-ruby-element = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car il s’agit d’un élément ruby. Sa taille est déterminée par celle de la police utilisée pour le texte ruby.
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 inactive-css-highlight-pseudo-elements-not-supported = La propriété <strong>{ $property }</strong> n’est pas prise en charge par les pseudo-éléments highlight.
 inactive-css-cue-pseudo-element-not-supported = La propriété <strong>{ $property }</strong> n’est pas prise en charge par les pseudo-éléments ::cue.
 inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> n’est pas pris en charge dans les règles <strong>@position-try</strong>.

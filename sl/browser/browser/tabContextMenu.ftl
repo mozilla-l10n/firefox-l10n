@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Nov zavihek
-    .accesskey = v
 reload-tab =
     .label = Ponovno naloži zavihek
     .accesskey = n
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nova skupina
     .accesskey = k
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -218,15 +211,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Ustvari povezavo za deljenje
     .accesskey = a
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Pošlji zavihek na napravo
-            [two] Pošlji { $tabCount } zavihka na napravo
-            [few] Pošlji { $tabCount } zavihke na napravo
-           *[other] Pošlji { $tabCount } zavihkov na napravo
-        }
-    .accesskey = š
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

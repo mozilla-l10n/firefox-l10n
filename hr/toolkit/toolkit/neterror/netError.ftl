@@ -27,17 +27,13 @@ neterror-return-to-previous-page-button = Idi natrag
 neterror-return-to-previous-page-recommended-button = Natrag (preporučeno)
 neterror-try-again-button-2 = Pokušaj ponovo
     .accesskey = P
-neterror-try-again-button = Pokušaj ponovo
 neterror-add-exception-button = Uvijek nastavi za ovu stranicu
 neterror-settings-button = Promijeni postavke DNS-a
 neterror-view-certificate-link = Pregled certifikata
-neterror-trr-continue-this-time = Nastavi ovaj put
-neterror-disable-native-feedback-warning = Uvijek nastavi
 
 ##
 
 neterror-pref-reset = Izgleda da tvoje postavke sigurnosti mreže možda ovo uzrokuju. Želiš li obnoviti standardne postavke?
-neterror-error-reporting-automatic = Prijavi greške poput ove i pomogni da { -vendor-short-name } identificira i blokira zlonamjerne stranice
 
 ## Specific error messages
 
@@ -66,25 +62,15 @@ neterror-dns-not-found-offline-hint-reconnect = Odspoji se te se ponovo spoji na
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } ne može zaštititi tvoj zahtjev za adresom ove web stranice putem našeg pouzdanog DNS pretvarača. Razlog:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } ne može zaštititi tvoj zahtjev za adresom ove web stranice putem našeg pouzdanog DNS razlučivača. Razlog:
 neterror-dns-not-found-trr-third-party-warning2 = Možeš nastaviti s tvojim standardnim DNS pretvaračem. Međutim, treća strana bi mogla vidjeti web stranice koje posjećuješ.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } se nije mogao povezati s { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Povezivanje s { $trrDomain } je trajalo je duže od očekivanog.
-neterror-dns-not-found-trr-offline = Nisi povezan/a na internet.
 neterror-dns-not-found-trr-unknown-host2 = Ovu web stranicu nije pronašao { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Došlo je do problema s { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = Neispravan URL.
 neterror-dns-not-found-system-sleep = Sustav se nalazi u stanju mirovanja.
 neterror-dns-not-found-trr-unknown-problem = Neočekivani problem.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ne može zaštititi tvoj zahtjev za adresom ove web stranice putem našeg pouzdanog DNS pretvarača. Razlog:
-neterror-dns-not-found-native-fallback-heuristic = DNS preko HTTPS-a je deaktiviran na tvojoj mreži.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } se nije mogao povezati s { $trrDomain }.
 
 ##
 
@@ -93,8 +79,6 @@ neterror-file-not-found-moved = Provjeri, je li datoteka premještena, preimenov
 neterror-access-denied = Možda je uklonjena, premještena ili dozvole za datoteku spriječavaju pristup.
 neterror-unknown-protocol = Možda je potrebno instalirati jedan drugi program za otvaranje ove adrese.
 neterror-redirect-loop = Uzrok tome može biti isključivanje ili odbijanje primanja kolačića.
-neterror-unknown-socket-type-psm-installed = Provjeri ima li tvoje računalo instaliran Personal Security Manager.
-neterror-unknown-socket-type-server-config = Moguće da je greška povezana s neuobičajenim postavkama servera.
 neterror-not-cached-intro = Traženi dokument nije dostupan u predmemoriji { -brand-short-name(case: "gen") }.
 neterror-not-cached-sensitive = . Iz sigurnosnih razloga, { -brand-short-name } neće automatski ponovo zatražiti osjetljive dokumente.
 neterror-not-cached-try-again = Pritisni gumb „Pokušaj ponovo” za ponovno traženje dokumenta s web stranice.

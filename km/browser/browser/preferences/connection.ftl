@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = ការ​កំណត់​ការ​តភ្ជាប់
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = ការ​កំណត់​ការ​តភ្ជាប់
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -51,18 +51,14 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = ផ្ទុក​ឡើងវិញ
     .accesskey = e
-connection-proxy-autologin =
-    .label = កុំ​ធ្វើ​ការ​ផ្ទៀងផ្ទាត់​​ប្រសិនបើ​ពាក្យ​សម្ងាត់​ត្រូវ​បាន​រក្សាទុក
-    .accesskey = i
-    .tooltip = ជម្រើស​នេះ​ធ្វើ​ការ​ផ្ទៀងផ្ទាត់​ប្រូកស៊ី នៅ​ពេល​ដែល​អ្នក​បាន​រក្សាទុក​ព័ត៌មាន​សម្ងាត់​។ អ្នក​នឹង​បញ្ចូល ប្រសិនបើ​ការ​ផ្ទៀងផ្ទាត់​បរាជ័យ។
 connection-proxy-autologin-checkbox =
     .label = កុំ​ធ្វើ​ការ​ផ្ទៀងផ្ទាត់​​ប្រសិនបើ​ពាក្យ​សម្ងាត់​ត្រូវ​បាន​រក្សាទុក
-    .accesskey = i
     .tooltiptext = ជម្រើស​នេះ​ធ្វើ​ការ​ផ្ទៀងផ្ទាត់​ប្រូកស៊ី នៅ​ពេល​ដែល​អ្នក​បាន​រក្សាទុក​ព័ត៌មាន​សម្ងាត់​។ អ្នក​នឹង​បញ្ចូល ប្រសិនបើ​ការ​ផ្ទៀងផ្ទាត់​បរាជ័យ។
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = DNS ប្រូស៊ី​នៅ​ពេល​ប្រើប្រាស់ SOCKS v5
     .accesskey = d
 connection-dns-over-https-url-custom =
     .label = ផ្ទាល់ខ្លួន
-    .accesskey = ផ
     .tooltiptext = បញ្ចូល URL ដែលអ្នកពេញចិត្តសម្រាប់ដោះស្រាយ DNS លើ HTTPS
+    .accesskey = ផ

@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Əvvəlki səhifəyə qayıt ({ $shortcut })
     .aria-label = Geri
+    .tooltiptext = Əvvəlki səhifəyə qayıt ({ $shortcut })
     .accesskey = G
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Sonrakı səhifəyə keç ({ $shortcut })
     .aria-label = İrəli
+    .tooltiptext = Sonrakı səhifəyə keç ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -113,9 +113,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-save-link =
     .label = Bağlantını fərqli saxla…
     .accesskey = f
-main-context-menu-save-link-to-pocket =
-    .label = Keçidi { -pocket-brand-name }-ə Saxla
-    .accesskey = o
 
 ##
 
@@ -196,18 +193,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Audionu e-poçt ilə göndər…
     .accesskey = -
-main-context-menu-save-to-pocket =
-    .label = Səhifəni { -pocket-brand-name }-ə Saxla
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Səhifəni cihaza göndər
-    .accesskey = d
 
 ##
 
-main-context-menu-keyword =
-    .label = Bu axtarış üçün Açar söz əlavə et…
-    .accesskey = A
 main-context-menu-link-send-to-device =
     .label = Keçidi cihaza göndər
     .accesskey = d
@@ -244,9 +232,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Ekran Görüntüsü Al
     .accesskey = T
-main-context-menu-take-frame-screenshot =
-    .label = Ekran Görüntüsü Al
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = Səhifə qaynağını göstər
     .accesskey = a

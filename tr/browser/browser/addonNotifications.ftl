@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Yüklemeye devam et
     .accesskey = Y
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Bu site MIDI (Müzik Enstrümanı Dijital Arabirimi) cihazlarınıza erişmek istiyor. Bir eklenti yükleyerek cihaz erişimini etkinleştirebilirsiniz.
 site-permission-install-first-prompt-midi-message = Bu erişimin güvenli olduğunu garanti edemiyoruz. Yalnızca bu siteye güveniyorsanız devam edin.
 site-permission-install-first-prompt-serial-header = Bu site seri cihazlarınıza erişmek istiyor. Bir eklenti kurularak cihaz erişimi etkinleştirilebilir.
 site-permission-install-first-prompt-serial-message = Bu erişimin güvenli olduğunu garanti edemiyoruz. Yalnızca bu siteye güveniyorsanız devam edin.
-
-##
-
-xpinstall-disabled-locked = Yazılım yüklenmesi, sistem yöneticiniz tarafından devre dışı bırakılmıştır.
 xpinstall-disabled-by-policy = Yazılım yüklenmesi kuruluşunuz tarafından devre dışı bırakılmıştır.
 xpinstall-disabled = Yazılım yüklenmesi şu anda devre dışı. Etkinleştir düğmesine tıklayıp yeniden deneyin.
 xpinstall-disabled-button =
     .label = Etkinleştir
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) sistem yöneticiniz tarafından engellenmiş.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Sistem yöneticiniz bu sitenin bilgisayarınıza yazılım yüklemeyi istemesini engelledi.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = { -brand-short-name } tarayıcınıza aktarılan uzant�
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = { $name } kaldırılsın mı?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = { $name } uzantısı { -brand-shorter-name } tarayıcınızdan kaldırılsın mı?
 addon-removal-button = Kaldır
 addon-removal-abuse-report-checkbox = Bu uzantıyı { -vendor-short-name }’ya şikâyet et
 # "it" refers to the local AI model that is paired to the AI feature
@@ -135,7 +118,5 @@ addon-local-install-no-addon-name-error-file-access = { -brand-short-name } gere
 addon-install-error-incompatible = { $addonName } yüklenemedi çünkü { -brand-short-name } { $appVersion } ile uyumlu değil.
 addon-install-error-hard-blocked = { $addonName } Mozilla politikalarını ihlal ettiği için { -brand-short-name } uygulamasına yüklenemiyor.
 addon-install-error-soft-blocked2 = { $addonName } kısıtlanmış olduğu için { -brand-short-name } uygulamasına yüklenemez.
-addon-install-error-blocklisted = { $addonName } yüklenemedi çünkü kararsızlık veya güvenlik sorunlarına yol açma riski yüksek.
-addon-install-error-soft-blocked = { $addonName } Mozilla politikalarını ihlal ettiği için { -brand-short-name } uygulamasına yüklenemiyor.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = { $addonName } eklentisini son kullanıcı olarak yükleyemezsiniz. Yalnızca kurumsal ilkeleri kullanan bir kuruluş tarafından yüklenebilir.

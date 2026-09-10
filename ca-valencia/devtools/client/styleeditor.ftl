@@ -16,8 +16,6 @@ styleeditor-save-button = Guarda
     .accesskey = G
 styleeditor-options-button =
     .tooltiptext = Opcions de l'editor d'estils
-styleeditor-editor-textbox =
-    .data-placeholder = Escriviu el CSS ací.
 styleeditor-no-stylesheet = Esta pàgina no té cap full d'estil.
 styleeditor-no-stylesheet-tip = Potser voleu <a data-l10n-name="append-new-stylesheet">afegir un full d'estil nou</a>?
 styleeditor-open-link-new-tab =

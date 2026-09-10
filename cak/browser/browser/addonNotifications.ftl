@@ -31,24 +31,10 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Tib'an ri Yakoj
     .accesskey = T
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = Xchup ruyakik ri solkema' ruma ri runuk'samajel aq'inoj.
 xpinstall-disabled = Wakami ri ruyakik solkema' chupül. Tapitz'a' pa Titzij richin natojtob'ej chik jub'ey.
 xpinstall-disabled-button =
     .label = Titzij
     .accesskey = j
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) q'aton ruma ri runuk'samajel q'inoj.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Ri runuk'samajel aq'inoj xuq'ät chi re ruxaq k'amaya'l re' nuk'utuj chawe chi nuyäk qa solkema' pan akematz'ib'.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-install-domain-blocked-by-policy = Ri amoloj xuq'ät chi re ruxaq k'amaya'l re' nuk'utuj chawe chi nuyäk qa solkema' pan akematz'ib'.
 addon-install-full-screen-blocked = Man okel ta yeyak taq tz'aqat toq o chuwäch nib'an okem pa chijun ruwäch.
@@ -68,9 +54,6 @@ webext-imported-addons = Tik'is kiyakik jik'on taq k'amal pa { -brand-short-name
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = ¿La niyuj { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = ¿La niyuj { $name } pa { -brand-shorter-name }?
 addon-removal-button = Tiyuj
 addon-removal-abuse-report-checkbox = Tiya' rutzijol re k'amal re' pa { -vendor-short-name }
 # Variables:
@@ -123,4 +106,3 @@ addon-local-install-error-not-signed = Man xyak ta kan re jun rutz'aqat re' ruma
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Man xtikïr ta xeruyäk ri { $addonName } ta ruma man nikik'äm ta ki' rik'in { -brand-short-name } { $appVersion }.
-addon-install-error-blocklisted = Man tikirel ta xyak ri { $addonName }, ruma k'o retal chi janila nuya' k'ayewal chi pa ruwi' ruchuq'a' samaj chuqa' ruchajixik.

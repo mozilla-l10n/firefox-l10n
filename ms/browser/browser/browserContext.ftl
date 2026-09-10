@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Undur satu halaman ({ $shortcut })
     .aria-label = Undur
+    .tooltiptext = Undur satu halaman ({ $shortcut })
     .accesskey = U
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Maju satu halaman ({ $shortcut })
     .aria-label = Seterusnya
+    .tooltiptext = Maju satu halaman ({ $shortcut })
     .accesskey = S
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -93,9 +87,9 @@ main-context-menu-page-save =
 ## Simple menu items
 
 main-context-menu-bookmark-page =
-    .accesskey = T
     .aria-label = Tandakan Halaman…
     .tooltiptext = Tandakan halaman
+    .accesskey = T
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -111,19 +105,19 @@ main-context-menu-edit-bookmark-mac =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
-    .accesskey = T
     .aria-label = Tandakan Halaman...
     .tooltiptext = Tandakan halaman ({ $shortcut })
+    .accesskey = T
 main-context-menu-edit-bookmark =
-    .accesskey = E
     .aria-label = Edit Penanda Halaman...
     .tooltiptext = Edit penanda halaman
+    .accesskey = E
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
-    .accesskey = E
     .aria-label = Edit Penanda Halaman...
     .tooltiptext = Edit penanda halaman ({ $shortcut })
+    .accesskey = E
 main-context-menu-open-link =
     .label = Buka Pautan
     .accesskey = B
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Simpan Pautan Sebagai…
     .accesskey = a
-main-context-menu-save-link-to-pocket =
-    .label = Simpan Pautan ke { -pocket-brand-name }
-    .accesskey = P
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Hidupkan Sync untuk men
 main-context-menu-send-to-mobile-connect-phone3 = Sambungkan Peranti untuk menghantar tab
 main-context-menu-send-to-mobile-connect-phone-from-link = Sambungkan Peranti untuk menghantar pautan
 main-context-menu-send-to-mobile-connect-phone-from-page = Sambungkan Peranti untuk menghantar halaman
-main-context-menu-save-to-pocket =
-    .label = Simpan Halaman ke { -pocket-brand-name }
-    .accesskey = H
-main-context-menu-send-to-device =
-    .label = Hantar Halaman ke Peranti
-    .accesskey = P
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Guna Log Masuk Tersimpan
-    .accesskey = n
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Guna Kata Laluan Tersimpan
     .accesskey = G
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Guna Topeng E-mel { -relay-brand-short-name }
     .accesskey = T
 main-context-menu-suggest-strong-password =
     .label = Cadangkan Kata Laluan Kuat…
     .accesskey = C
-main-context-menu-manage-logins2 =
-    .label = Urus log masuk
-    .accesskey = m
 main-context-menu-manage-passwords =
     .label = Urus Kata Laluan
     .accesskey = U
-main-context-menu-keyword =
-    .label = Tambah Kata kunci untuk Carian ini…
-    .accesskey = K
 main-context-menu-add-engine =
     .label = Tambah Enjin Carian
     .accesskey = T
@@ -393,9 +366,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Ambil skrinsyot
     .accesskey = s
-main-context-menu-take-frame-screenshot =
-    .label = Ambil Tangkapan Skrin
-    .accesskey = A
 main-context-menu-view-page-source =
     .label = Papar Sumber Halaman
     .accesskey = P

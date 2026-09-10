@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Ziurtagiria ez da fidagarria ziurtagiri jaul
 cert-error-trust-signature-algorithm-disabled = Ziurtagiria ez da fidagarria segurua ez izateagatik desgaituta dagoen algoritmo batekin sinatuta dagoelako.
 cert-error-trust-expired-issuer = Ziurtagiria ez da fidagarria jaulkitzaile-ziurtagiria iraungita dagoelako.
 cert-error-trust-self-signed = Ziurtagiria ez da fidagarria bere buruak sinatzen duelako.
-cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte eta VeriSign-ek jaulkitako ziurtagiriak hemendik aurrera ez dira fidagarritzat jotzen iraganean ez dituztelako segurtasun-praktikak jarraitu.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } ez da { $hostname } ostalariaz fidatzen ezin duelako frogatu ziurtagiri publikoen gardentasun-eskakizunak betetzen dituela.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Errore-kodea: <a data-l10n-name="error-code-link">
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Errorea gertatu da { $hostname } ostalarira konektatzean. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Ziurtagiri-autoritateek jaulkitako ziurtagirien bidez frogatzen duten euren identitatea webguneek. Nabigatzaileen gehiengoak hemendik aurrera ez dituzte fidagarritzat ematen GeoTrust, RapidSSL, Symantec, Thawte eta VeriSign-ek jaulkitako ziurtagiriak.Autoritate hauetakoren batetik datorren ziurtagiria darabil { $hostname } domeinuak eta beraz ezin da egiaztatu webgunearen identitatea.
-cert-error-symantec-distrust-admin = Webgunearen kudeatzaileari arazo honen berri eman nahiko diozu agian.
 cert-error-old-tls-version = Baliteke webgune honek TLS 1.2 protokoloa ez onartzea, { -brand-short-name }(e)k onartzen duen bertsio minimoa.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP gako publikoen ainguratzea: { $hasHPKP }
 cert-error-details-cert-chain-label = Ziurtagiri-katea:
-open-in-new-window-for-csp-or-xfo-error = Ireki gunea leiho berrian
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Zure segurtasuna babesteko, { $hostname } ostalariak ez du { -brand-short-name } baimenduko orria bistaratzea, beste gune batek hau kapsulatu badu. Orri hau ikusteko, leiho berri batean ireki behar duzu.
 fp-certerror-view-certificate-link = Ikusi gunearen ziurtagiria
 fp-certerror-return-to-previous-page-recommended-button-2 = Itzuli (gomendatua)
     .accesskey = z
-fp-certerror-return-to-previous-page-recommended-button = Itzuli (gomendatua)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -106,21 +99,21 @@ fp-certerror-self-signed-important-note = OHAR GARRANTZITSUA: gune hau enpresako
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = Benetan esaten dutena direla frogatzeko, ziurtagiri-autoritateek jaulkitako ziurtagiriak erabiltzen dituzte guneek. { -brand-short-name }(e)k ez du gune hau fidagarritzat jotzen badirudielako ziurtagiria ondorengo datan iraungi zela: { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-expired-why-dangerous-body = Benetan esaten dutena direla frogatzeko, ziurtagiri-autoritateek jaulkitako ziurtagiriak erabiltzen dituzte guneek. { -brand-short-name }(e)k ez du gune hau fidagarritzat jotzen badirudielako ziurtagiria ondorengo datan iraungi zela: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = Benetan esaten dutena direla frogatzeko, ziurtagiri-autoritateek jaulkitako ziurtagiriak erabiltzen dituzte guneek. { -brand-short-name }(e)k ez du gune hau fidagarritzat jotzen badirudielako ziurtagiria ondorengo data arte ez dela baliozkoa izango: { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-not-yet-valid-why-dangerous-body = Benetan esaten dutena direla frogatzeko, ziurtagiri-autoritateek jaulkitako ziurtagiriak erabiltzen dituzte guneek. { -brand-short-name }(e)k ez du gune hau fidagarritzat jotzen badirudielako ziurtagiria ondorengo data arte ez dela baliozkoa izango: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = Zure gailuaren erlojua ondorengora dago ezarrita: { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Zuzena bada, segurtasun-arazoa gunearekin berarekin dago ziurrenik. Okerra bada, zure gailuaren sistema-ezarpenetan alda dezakezu.
+fp-certerror-expired-what-can-you-do-body = Zure gailuaren erlojua ondorengora dago ezarrita: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Zuzena bada, segurtasun-arazoa gunearekin berarekin dago ziurrenik. Okerra bada, zure gailuaren sistema-ezarpenetan alda dezakezu.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Errore-kodea: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -133,11 +126,11 @@ fp-learn-more-about-time-related-errors = Denborarekin erlazionatutako erroreen 
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } ez da gune honetaz fio hornitzen duen ziurtagiria ez delako baliozkoa { DATETIME($date, timeStyle: "short") } arte { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } datan.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } ez da gune honetaz fio hornitzen duen ziurtagiria ez delako baliozkoa { DATETIME($date, timeStyle: "short") } arte { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } datan.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Zure gailuaren erlojua ondorengora dago ezarrita: { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Zuzena bada, segurtasun-arazoa gunearekin berarekin dago ziurrenik. Okerra bada, zure gailuaren sistema-ezarpenetan alda dezakezu.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Zure gailuaren erlojua ondorengora dago ezarrita: { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Zuzena bada, segurtasun-arazoa gunearekin berarekin dago ziurrenik. Okerra bada, zure gailuaren sistema-ezarpenetan alda dezakezu.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -179,8 +172,6 @@ deniedPortAccess-title = Helbide hau murriztuta dago
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hara. Arazoak izaten ari gara gune hori aurkitzen.
 internet-connection-offline-title = Badirudi zure Interneterako konexioak arazoren bat duela.
-dns-not-found-trr-only-title2 = Balizko segurtasun arriskua domeinu hau bilatzean
-dns-not-found-native-fallback-title2 = Balizko segurtasun arriskua domeinu hau bilatzean
 fileNotFound-title = Fitxategia ez da aurkitu
 fileAccessDenied-title = Fitxategi-atzipena ukatu egin da
 generic-title = Iepa.
@@ -205,7 +196,6 @@ unknownSocketType-title = Zerbitzariaren erantzuna ez zen espero
 nssFailure2-title = Konexio seguruak huts egin du
 csp-xfo-error-title = { -brand-short-name }(e)k ezin du orri hau ireki
 corruptedContentErrorv2-title = Hondatutako edukien errorea
-corruptedContentError-title = Hondatutako edukien errorea
 sslv3Used-title = Ezin da modu seguruan konektatu
 inadequateSecurityError-title = Zure konexioa ez da segurua
 blockedByPolicy-title = Blokeatutako orria
@@ -228,7 +218,6 @@ fp-certerror-hide-advanced-button = Ezkutatu aurreratua
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Jarraitu { $hostname } gunera (arriskutsua)
 fp-certerror-intro = { -brand-short-name }(e)k benetakoa izateko itxura duen segurtasun-arazo bat aurkitu du <strong>{ $hostname }</strong> ostalarian. Gunearen itxurak egiten dituen norbait saia liteke lapurtzen kreditu-txartelen informazioa, pasahitzak edo posta elektronikoko mezuak.
 fp-certerror-expired-into = { -brand-short-name }(e)k segurtasun-arazo bat aurkitu du <strong>{ $hostname }</strong> ostalarian. Gunea ez dago ondo konfiguratuta edo zure gailuaren erlojua data eta ordu okerrean dago ezarrita.
 fp-certerror-transparency-intro = <strong>{ $hostname }</strong> gunea izateko itxurak egiten dabilen norbait informazioa lapurtzen saia liteke, hala nola kreditu-txartelen informazioa, pasahitzak edo posta elektronikoa.

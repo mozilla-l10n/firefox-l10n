@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Konteinerita
-    .accesskey = K
 user-context-manage-containers =
     .label = Halda konteinereid
     .accesskey = H

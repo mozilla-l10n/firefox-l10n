@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = कोरूपमा about:webrtc सु�
 about-webrtc-aec-logging-msg-label = AEC लगिङ
 about-webrtc-aec-logging-off-state-label = AEC लगिङ सुरु गर्नुहोस्
 about-webrtc-aec-logging-on-state-label = AEC लगिङ बन्द गर्नुहोस्
-about-webrtc-aec-logging-on-state-msg = AEC लगिङ सक्रिय (केही मिनेट लागि कलरसंग बोल्नुहोस र त्यसपछि क्याप्चर रोक्नुहोस)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC लगिङ सक्रिय (केही मिनेट लागि कलरसंग बोल्नुहोस र त्यसपछि क्याप्चर रोक्नुहोस)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -77,17 +76,9 @@ about-webrtc-nominated = मनोनयन गरिएको
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = चयन गरिएको
 about-webrtc-save-page-label = पृष्ठ सङ्ग्रह गर्नुहोस्
-about-webrtc-debug-mode-msg-label = डिबग मोड
-about-webrtc-debug-mode-off-state-label = डिबग्गिङ मोड सुरु गर्नुहोस्
-about-webrtc-debug-mode-on-state-label = डिबग्गीङ मोड बन्दगर्नुहोस्
-about-webrtc-stats-heading = सत्र तथ्याङ्कहरू
 about-webrtc-stats-clear = इतिहास हटाउनुहोस्
 about-webrtc-log-heading = जडान लग
 about-webrtc-log-clear = लग खाली गर्नुहोस्
-about-webrtc-log-show-msg = लग देखाउनुहोस्
-    .title = यो खण्ड विस्तार गर्न यहाँ क्लिक गर्नुहोस्
-about-webrtc-log-hide-msg = लग लुकाउनुहोस्
-    .title = यो खण्ड विस्तार गर्न यहाँ क्लिक गर्नुहोस्
 about-webrtc-log-section-show-msg = लग देखाउनुहोस्
     .title = यो खण्ड विस्तार गर्न यहाँ क्लिक गर्नुहोस्
 about-webrtc-log-section-hide-msg = लग लुकाउनुहोस्
@@ -108,10 +99,6 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (बन�
 about-webrtc-local-candidate = स्थानीय उम्मेदवार
 about-webrtc-remote-candidate = Remote Candidate
 about-webrtc-priority = प्राथमिकता
-about-webrtc-fold-show-msg = विवरणहरू देखाउनुहोस्
-    .title = यो खण्ड विस्तार गर्न यहाँ क्लिक गर्नुहोस्
-about-webrtc-fold-hide-msg = विवरणहरू लुकाउनु॒होस्
-    .title = यो खण्ड विस्तार गर्न यहाँ क्लिक गर्नुहोस्
 about-webrtc-fold-default-show-msg = विवरणहरू देखाउनुहोस्
     .title = यो खण्ड विस्तार गर्न यहाँ क्लिक गर्नुहोस्
 about-webrtc-fold-default-hide-msg = विवरणहरू लुकाउनु॒होस्
@@ -121,10 +108,6 @@ about-webrtc-encoder-label = इन्कोडर
 
 ##
 
-about-webrtc-save-page-msg = { $path } मा पाना सङ्ग्रह गरियो
-about-webrtc-debug-mode-off-state-msg = ट्रेस लग यहाँ पाउन सकिन्छ: { $path }
-about-webrtc-debug-mode-on-state-msg = डिबग ढङ्ग सक्रिय, ट्रेस लग यहाँ छ: { $path }
-about-webrtc-aec-logging-off-state-msg = कैद गरिएका लग फाइलहरू यहाँ पाउन सकिन्छ: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

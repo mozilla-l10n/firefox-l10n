@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Szinkronizálás…
 sync-disconnect-dialog-title2 = Kapcsolat bontása?
 sync-disconnect-dialog-body = A { -brand-product-name } leállítja a szinkronizációt a fiókjával, de nem töröl semmilyen böngészési adatot erről az eszközről.
 sync-disconnect-dialog-button = Kapcsolat bontása
-fxa-signout-dialog2-title = Kijelentkezik a { -fxaccount-brand-name }ból?
 fxa-signout-dialog-title2 = Kijelentkezik a fiókjából?
 fxa-signout-dialog-body = A szinkronizált adatok a fiókjában maradnak.
 fxa-signout-dialog2-button = Kijelentkezés
@@ -43,14 +42,6 @@ fxviewtabrow-send-to-mobile-not-verified = A fiók nincs ellenőrizve
 fxviewtabrow-send-to-mobile-verify-account = Fiók ellenőrzése
 fxa-menu-send-to-mobile-turn-on-sync = Kapcsolja be a szinkronizálást a lapok küldéséhez
 fxa-menu-send-to-mobile-connect-device = Csatlakoztasson egy eszközt a lapok küldéséhez
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Lap küldése az eszközre
-           *[other] { $tabCount } lap küldése az eszközre
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Eszközök szinkronizálása…

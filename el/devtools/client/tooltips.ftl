@@ -35,7 +35,6 @@ inactive-css-first-line-pseudo-element-not-supported = Το <strong>{ $property 
 inactive-css-first-letter-pseudo-element-not-supported = Το <strong>{ $property }</strong> δεν υποστηρίζεται σε ψευδοστοιχεία ::first-letter.
 inactive-css-placeholder-pseudo-element-not-supported = Το <strong>{ $property }</strong> δεν υποστηρίζεται σε ψευδοστοιχεία ::placeholder.
 inactive-css-property-because-of-display = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν έχει προβολή του <strong>{ $display }</strong>.
-inactive-css-not-display-block-on-floated = Η τιμή <strong>display</strong> έχει αλλάξει από τη μηχανή σε <strong>block</strong> επειδή το στοιχείο είναι <strong>floated</strong>.
 inactive-css-not-display-block-on-floated-2 = Η τιμή <strong>display</strong> έχει αλλάξει από τη μηχανή σε <strong>{ $display }</strong> επειδή το στοιχείο είναι <strong>floated</strong>.
 inactive-css-only-non-grid-or-flex-item = Το <strong>{ $property }</strong> δεν έχει επίδραση, αφού δεν μπορεί να χρησιμοποιηθεί σε στοιχεία «grid» ή «flex».
 inactive-css-not-block = Το <strong>{ $property }</strong> δεν έχει επίδραση, αφού ισχύει μόνο για στοιχεία «block-level».
@@ -56,16 +55,6 @@ inactive-scroll-padding-when-not-scroll-container = Το <strong>{ $property }</
 inactive-css-border-image = Το <strong>{ $property }</strong> δεν έχει καμία επίδραση σε αυτό το στοιχείο, επειδή δεν μπορεί να εφαρμοστεί σε εσωτερικά στοιχεία πίνακα όπου το <strong>border-collapse</strong> έχει οριστεί σε <strong>collapse</strong>, στο στοιχείο γονικού πίνακα.
 inactive-css-resize = Το <strong>{ $property }</strong> δεν έχει καμία επίδραση σε αυτό το στοιχείο, αφού μπορεί να εφαρμοστεί μόνο σε στοιχεία με τιμή υπερχείλισης εκτός της «visible» και σε ορισμένα στοιχεία που έχουν αντικατασταθεί, όπως οι περιοχές κειμένου.
 inactive-css-ruby-element = Το <strong>{ $property }</strong> δεν έχει καμία επίδραση σε αυτό το στοιχείο, επειδή είναι στοιχείο ruby. Το μέγεθός του καθορίζεται από το μέγεθος γραμματοσειράς του κειμένου ruby.
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain why
-## the property is not applied.
-## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
-## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
-## Variables:
-##   $property (string) - A CSS property name e.g. "color".
-##   $display (string) - A CSS display value e.g. "inline-block".
-
 inactive-css-highlight-pseudo-elements-not-supported = Το <strong>{ $property }</strong> δεν υποστηρίζεται στα ψευδοστοιχεία επισήμανσης.
 inactive-css-cue-pseudo-element-not-supported = Το <strong>{ $property }</strong> δεν υποστηρίζεται σε ψευδοστοιχεία ::cue.
 inactive-css-at-position-try-not-supported = Το <strong>{ $property }</strong> δεν υποστηρίζεται σε κανόνες <strong>@position-try</strong>.

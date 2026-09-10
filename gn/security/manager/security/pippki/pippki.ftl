@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Ko’ag̃aite oĩhína FIPS rekópe. FIPS 
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Eguerujey Ñe’ẽñemi Ha’etéva
     .style = min-width: 40em
+    .title = Eguerujey Ñe’ẽñemi Ha’etéva
 reset-password-button-label =
     .label = Mbojevyjey
 reset-primary-password-text = Eguerujeýramo ne ñe’ẽñemi ha’etéva, opaite ñanduti ñe’ẽñemi ha ñandutiveve, mboajepyre nemba’éva, ha pe’aha ñemigua mbyatypyre ojehejareíta. ¿Añetehápe reguerusejey ne Ñe’ẽñemi Ha’etéva?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Ojeguerujeýma ne ñe’ẽñemi ha
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Mboajepyréva ñemboguejy
     .style = min-width: 46em
+    .title = Mboajepyréva ñemboguejy
 download-cert-message = Ojejerure ndéve ejerovia hag̃ua pe Moakãha Mboajeha (MM) pyahu rehe.
 download-cert-trust-ssl =
     .label = Ejerovia ko CA rehe ehechakuaa hag̃ua ñanduti renda.
@@ -52,8 +52,6 @@ download-cert-view-text = CA mboajepyre hechakatu
 
 client-auth-window =
     .title = Mba’ejerure poruhára jehechaukaite
-client-auth-site-description = Pe tenda upeigua ojerurékuri ndéve rejehechauka hag̃ua peteĩ mboajepyréva ndive:
-client-auth-choose-cert = Eiporavo peteĩ mboapyréva emoapysẽ hag̃ua jehechaukaháramo:
 client-auth-send-no-certificate =
     .label = Ani emondo mboajepyre
 # Variables:
@@ -105,9 +103,3 @@ set-password-reminder = Mba’eguasúva: nderesaráiramo ñe’ẽñemi pytyvõr
 
 protected-auth-window =
     .title = Moneĩmby mo’ãmbyre
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Ejekuaauka eiporúvo token “{ $tokenName }”. Mba’éicha ejapóta odepende pe token rehe (techapyrã, eiporúvo kuãhũ moñe’ẽha térã emoingévo ayvu tairenda ndive).

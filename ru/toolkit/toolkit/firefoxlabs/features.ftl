@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Активирует проект Wa
 experimental-features-ime-search =
     .label = Адресная строка: показывать результаты при составлении IME
 experimental-features-ime-search-description = IME (Input Method Editor - Редактор методов ввода) — это инструмент, позволяющий вводить сложные символы, например, используемые в письменности языков Восточной Азии или Индии, с помощью стандартной клавиатуры. Включение этого эксперимента позволит держать панель адресной строки открытой, показывая результаты поиска и предложения при использовании IME для ввода текста. Обратите внимание, что IME может отображать панель, закрывающую результаты адресной строки, поэтому данная настройка предлагается только для IME не использующего этот тип панели.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Картинка в картинке: автоматически открывать при переключении вкладок
-experimental-features-auto-pip-description = Включать «Картинку в картинке» для активных видео при переключении вкладок.
 experimental-features-group-developer-tools =
     .label = Инструменты разработчика
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Продуктивность
 experimental-features-group-newtab-widgets =
     .label = Виджеты на { -firefox-home-brand-name(case: "prepositional") }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Пароли на боковой панели
-experimental-features-contextual-password-manager-description = Получайте доступ к своим паролям прямо на боковой панели. Больше не нужно искать или сбрасывать пароли, когда вы пытаетесь войти. Чтобы использовать эту функцию, выберите пароли на боковой панели. Затем перейдите в общие настройки и в разделе внешнего вида браузера выберите показать боковую панель. Затем настройте боковую панель, выбрав пароли. Если вы попробуете это сделать, <a data-l10n-name="connect">сообщите нам, что вы думаете</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Выберите собственные обои или цвет для Новой вкладки

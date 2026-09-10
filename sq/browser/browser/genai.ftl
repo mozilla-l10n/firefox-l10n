@@ -46,11 +46,6 @@ genai-prompt-prefix-selection = Gjendem te faqja “{ $tabTitle }” me “{ $se
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Pyetni robot IA fjalosjesh
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Pyetni { $provider }
 genai-menu-open-generic =
     .label = Hapni Robot Fjalosjesh IA
 # $provider (string) - name of the provider
@@ -112,8 +107,6 @@ genai-header-provider-menu =
     .title = Zgjidhni një robot fjalosjesh
 genai-header-settings-button =
     .title = Rregullime Fjalosjeje IA
-genai-header-options-button =
-    .title = Hape menunë
 genai-header-close-button =
     .title = Mbylle
 genai-provider-view-details =
@@ -141,33 +134,21 @@ genai-page-button-summarize = Përmblidhe faqen
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Përmblidhni, reflektoni ide të reja, etj, teksa shfletoni
 genai-onboarding-choose-header = Zgjidhni një robot IA fjalosjesh për ta përdorur te anështylla e { -brand-short-name }-it
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Zgjidhni një robot IA fjalosjesh te anështylla { -brand-short-name }. Do t’ju shfaqim hollësi rreth secilit robot fjalosjesh, kur përzgjidhni një. Ndërrojeni kur të doni. <a data-l10n-name="learn-more">Mësoni më tepër</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Ndërrojeni kur të doni. Për ndihmë rreth se si të zgjidhni, <a data-l10n-name="learn-more">mësoni më tepër rreth secilit robot fjalosjesh</a>.
 genai-onboarding-primary = Vazhdo
 genai-onboarding-secondary = Mbylle
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Mësoni më tepër rreth Claude-it
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Mësoni më tepër rreth ChatGPT-së
-genai-onboarding-copilot-learn = Mësoni më tepër rreth Copilot-it
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Mësoni më tepër rreth Gemini-t
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
-genai-onboarding-huggingchat-learn = Mësoni më tepër rreth HiggingChat-it
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Mësoni më tepër rreth Le Chat-it
-genai-onboarding-select-header = Përzgjidhni tekst që të shihni sugjerime
-genai-onboarding-select-description = Kur përzgjidhni tekst, do t’ju sugjerojmë urdhra që mund t’ia dërgoni robotit të fjalosjeve. Mundeni edhe të shkruani urdhrat tuaja.
-genai-onboarding-select-primary = Filloni të bisedoni
 genai-chatbot-contextual-title = Përdorni një robot IA fjalosjesh pa ndërruar skeda
 genai-chatbot-contextual-subtitle = Fjalosje dhe shfletim krah për krah, kur shtoni një robot IA fjalosjesh te anështylla e  { -brand-short-name }-it.
 genai-chatbot-contextual-button = Zgjidhni një robot fjalosjesh
@@ -180,27 +161,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = Djathtasklikoni mbi butonin x
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Hapni në anështyllë robotin tuaj IA të fjalosjeve dhe zgjidhni “Përmblidhe  Faqen” te fundi.
 genai-chatbot-summarize-footer-generic-subtitle = Shtoni te anështylla e { -brand-short-name }-it një robot fjalosjesh IA, që të përmbledhë shpejt e shpejt faqe.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Prodho tekst dhe kod
-genai-onboarding-claude-analyze = Analizo dokumente dhe figura
-genai-onboarding-claude-price = Mundësi falas dhe me pagesë; lypset llogari
-genai-onboarding-chatgpt-generate = Prodho tekst, figura dhe kod
-genai-onboarding-chatgpt-analyze = Analizo dokumente dhe figura
-genai-onboarding-chatgpt-price = Mundësi falas dhe me pagesë; për disa vende dhe gjëra lypset llogari
-genai-onboarding-copilot-generate = Prodho tekst, figura dhe kod
-genai-onboarding-copilot-analyze = Analizoni figura
-genai-onboarding-copilot-price = Mundësi falas dhe me pagesë; për disa punë lypset llogari
-genai-onboarding-gemini-generate = Prodho tekst, figura dhe kod
-genai-onboarding-gemini-analyze = Analizo figura (falas) dhe dokumente (me pagesë)
-genai-onboarding-gemini-price = Mundësi falas dhe me pagesë; lypset llogari
-genai-onboarding-huggingchat-generate = Prodho tekst dhe kod
-genai-onboarding-huggingchat-switch = Kaloni nga një grup modelesh të hapta në një tjetër
-genai-onboarding-huggingchat-price-2 = Falas, pas një numri kërkesash lypset llogari
-genai-onboarding-lechat-generate = Prodho tekst dhe kod
-genai-onboarding-lechat-price = Falas; lypset llogari
 
 ## Model Optin Component
 
@@ -239,8 +199,8 @@ link-preview-generation-retry = Riprovoni
 link-preview-settings-button =
     .title = Rregullime Paraparjeje Lidhjeje
 link-preview-settings-enable =
-    .label = Aktivizo paraparje lidhjesh
     .description = Shihni titullin e faqes, përshkrimin, etj, kur përdorni shkurtoren, ose djathtasklikoni mbi një lidhje.
+    .label = Aktivizo paraparje lidhjesh
 link-preview-settings-key-points =
     .label = Lejojen IA-në të lexojë fillimin e faqes dhe të prodhojë pikat kyçe
 link-preview-settings-long-press =

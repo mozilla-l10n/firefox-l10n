@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Diğer { -vendor-short-name } Ürünleri
 more-from-moz-page-header =
     .heading = Diğer { -vendor-short-name } Ürünleri
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } Mobil
 more-from-moz-firefox-mobile-description = Gizliliğinizi ilk sıraya koyan mobil tarayıcı.
 more-from-moz-firefox-mobile-title-1 = Mobil Cihazlar için { -brand-product-name }
 more-from-moz-firefox-mobile =
-    .label = Mobil Cihazlar için { -brand-product-name }
     .description = Gizliliğinizi ilk sıraya koyan mobil tarayıcı.
+    .label = Mobil Cihazlar için { -brand-product-name }
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Anonim gezinti ve korumayı keşfedin.
 more-from-moz-qr-code-box-firefox-mobile-title = Mobil cihazınızla indirin. QR kodunu kameranıza okutun. Bağlantı göründüğünde ona dokunun.
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = { -relay-brand-short-name }’i kullanın
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Ele geçirilen kişisel bilgilerinizin kontrolünü geri alın.
 more-from-moz-mozilla-monitor-global-description = Verileriniz ele geçirilirse uyarı alın.
 more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name }’ü kullanın
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Web sitenizi anında oluşturun ve kendi alan adınızı ücretsiz olarak bağlayın.
 more-from-moz-solo-button = { -solo-ai-brand-name }’yu deneyin
 more-from-moz-solo-title-2 = { -solo-ai-brand-name } Yapay Zekâlı Web Sitesi Oluşturucu
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = İndirme bağlantısını telefonuma e
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = İnternette kişisel bilgilerinizin nerelerde ele geçirildiğini ücretsiz bir taramayla öğrenin.
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = Yalnızca tarayıcınızda değil, tüm uygulamalarda ekstra korumaya kavuşun. Halka açık Wi-Fi ağlarında ve güvensiz ağlarda verileriniz güvende kalsın.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = Ücretsiz e-posta maskeleriyle gelen kutunuzu spam’den koruyun.
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = Ücretsiz rehberler ve bilgi kaynaklarıyla web geliştirmeyi öğrenin.
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = E-postanıza, takvimlerinize ve kişilerinize tek uygulamadan hızlıca erişin.
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = Web sitenizi anında oluşturun ve kendi alan adınızı ücretsiz olarak bağlayın.
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = { -vendor-short-name } New Products
     .description = En yeni fikirlerimizi ve deneysel teknolojilerimizi keşfedin.
+    .label = { -vendor-short-name } New Products
 more-from-moz-mozilla-monitor-box-link =
     .label = { -monitor-brand-short-name }’ü kullanın
 more-from-moz-mozilla-vpn-box-link =

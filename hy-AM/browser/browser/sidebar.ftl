@@ -27,7 +27,6 @@ sidebar-history-clear =
     .label = Մաքրել պատմությունը
 sidebar-history-sort-by-heading-menucaption =
     .label = Տեսակավարել ըստ՝
-sidebar-history-sort-by-heading = Տեսակավարել ըստ՝
 sidebar-history-sort-option-date =
     .label = Ամսաթվի
 sidebar-history-sort-option-site =
@@ -47,14 +46,9 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Կողագոտու ընդլայնումներ
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name }--ի գործիքներ
 sidebar-customize-firefox-settings = Կառավարել { -brand-short-name }-ի կարգավորումները
 sidebar-vertical-tabs =
     .label = Ուղղահայաց ներդիրներ
-sidebar-settings =
-    .label = Կողագոտու կարգավորումներ
 sidebar-hide-tabs-and-sidebar =
     .label = Թաքցնել ներդիրները և կողագոտին
 sidebar-show-on-the-right =
@@ -70,8 +64,6 @@ expand-sidebar-on-hover =
 
 sidebar-context-menu-manage-extension =
     .label = Կառավարել ընդլայնումը
-sidebar-context-menu-remove-extension =
-    .label = Հեռացնել ընդլայնումը
 sidebar-context-menu-report-extension =
     .label = Զեկուցել ընդլայնման մասին
 sidebar-context-menu-open-in-tab =

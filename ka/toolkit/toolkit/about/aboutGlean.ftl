@@ -52,7 +52,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     მონაცემების ჩაწერისა და მოძიების სხვადასხვა გზების ასახსნელად გთხოვთ იხილოთ
     <strong>მონაცემთა შესახებ</strong> ჩანართი.
-about-glean-about-testing-header = შემოწმების შესახებ
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     მითითებები სრულად აღწერილია
@@ -61,8 +60,6 @@ about-glean-manual-testing =
     ხოლო უფრო მოკლედ, როგორ შეამოწმოთ, მუშაობს თუ არა თქვენი ხელსაწყოები:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (არ გაიგზავნოს არცერთი უწყება)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = წინამდებარე ველში მიუთითეთ გამართვის ადვილად დასახსომი ჭდე, მოგვიანებით რომ შეძლოთ თქვენი უწყებების ამოცნობა.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = მიუთითეთ დასამახსოვრებელი ჭდე გამართვისთვის <span>(არაუმეტეს 20 სიმბოლო, მხოლოდ ასოციფრულები ან - ),</span> რათა მოგვიანებით შეძლოთ თქვენი უწყების ამოცნობა.
 # An in-line drop down list precedes this string.
@@ -89,13 +86,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">იხილეთ { glean-debug-ping-viewer-brand-name } გვერდი კრებულებისთვის თქვენი ჭდით</a>.
     რამდენიმე წამზე მეტი არ უნდა დასჭირდეს ღილაკის დაჭერიდან უწყებების მიღებამდე.
     ზოგჯერ მცირე ხანსაც შეიძლება გასტანოს.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    დამატებითი <i>საგანგებო</i> შემოწმებისთვის
-    ასევე შეგიძლიათ გაარკვიოთ ცალკეული მახასიათებლების მიმდინარე მნიშვნელობა,
-    რისთვისაც უნდა გახსნათ შემუშავების ხელსაწყოთა არე <code>about:glean</code>
-    გვერდზე და გამოიყენოთ <code>testGetValue()</code> API, თუნდაც ამგვარად
-    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     დამატებითი <i>საგანგებო</i> შემოწმებისთვის
@@ -200,9 +190,6 @@ about-glean-no-data-to-display = საჩვენებელი მონა�
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code> აზომვებში ჯერ არაა მხარდაჭერილი და ვერ გამოაჩენს <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = აზომვის უცნობი სახეობა.
-about-glean-about-data-explanation =
-    შეგროვებულ მონაცემთა ჩამონათვალის სანახავად დაიხმარეთ
-    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name }-ცნობარი</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

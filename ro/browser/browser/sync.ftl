@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Se sincronizează…
 sync-disconnect-dialog-title2 = Te deconectezi?
 sync-disconnect-dialog-body = { -brand-product-name } va opri sincronizarea cu contul tău, dar nu va șterge niciuna din datele de navigare de pe acest dispozitiv.
 sync-disconnect-dialog-button = Deconectează-te
-fxa-signout-dialog2-title = Te deconectezi din { -fxaccount-brand-name(case: "definite-article") }?
 fxa-signout-dialog-title2 = Ieși din cont?
 fxa-signout-dialog-body = Datele sincronizate vor rămâne în cont.
 fxa-signout-dialog2-button = Ieși din cont
@@ -45,15 +44,6 @@ fxviewtabrow-send-to-mobile-not-verified = Cont neverificat
 fxviewtabrow-send-to-mobile-verify-account = Verifică-ți contul
 fxa-menu-send-to-mobile-turn-on-sync = Activează sincronizarea ca să trimiți file
 fxa-menu-send-to-mobile-connect-device = Conectează un dispozitiv ca să trimiți file
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Trimite fila către un dispozitiv
-            [few] Trimite { $tabCount } file către un dispozitiv
-           *[other] Trimite { $tabCount } de file către un dispozitiv
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Se sincronizează dispozitivele…

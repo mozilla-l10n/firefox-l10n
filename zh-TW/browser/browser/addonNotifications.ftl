@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = 繼續安裝
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = 此網站要求存取您的 MIDI（樂器數位介面）裝置，安裝附加元件後即可存取裝置。
 site-permission-install-first-prompt-midi-message = 這個存取請求不一定是安全的，請只在您信任此網站時才繼續。
 site-permission-install-first-prompt-serial-header = 此網站請求存取您的序列埠裝置。安裝附加元件後即可授權網站進行存取。
 site-permission-install-first-prompt-serial-message = 這個存取請求不一定是安全的，請只在您信任此網站時才繼續。
-
-##
-
-xpinstall-disabled-locked = 您的系統管理員已停用軟體安裝。
 xpinstall-disabled-by-policy = 您的組織已停用軟體安裝。
 xpinstall-disabled = 目前已禁止安裝軟體。請點擊「啟用」後再試一次。
 xpinstall-disabled-button =
     .label = 啟用
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = 您的系統管理員已封鎖 { $addonName }（{ $addonId }）。
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = 您的系統管理員已阻擋此網站向您詢問是否要在電腦上安裝軟體。
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = 完成安裝匯入至 { -brand-short-name } 的擴充�
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = 要移除 { $name } 嗎？
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = 要從 { -brand-shorter-name } 移除 { $name } 嗎？
 addon-removal-button = 移除
 addon-removal-abuse-report-checkbox = 向 { -vendor-short-name } 檢舉此擴充套件
 # "it" refers to the local AI model that is paired to the AI feature
@@ -127,7 +110,5 @@ addon-local-install-no-addon-name-error-file-access = 因為 { -brand-short-name
 addon-install-error-incompatible = 因為與 { -brand-short-name } { $appVersion } 不相容，無法安裝 { $addonName }。
 addon-install-error-hard-blocked = { $addonName } 違反了 Mozilla 的政策規定，無法安裝到 { -brand-short-name }。
 addon-install-error-soft-blocked2 = { $addonName } 受到限制，無法安裝到 { -brand-short-name }。
-addon-install-error-blocklisted = 無法安裝 { $addonName }，因為它很可能會造成穩定性或安全性問題。
-addon-install-error-soft-blocked = { $addonName } 違反了 Mozilla 的政策規定，無法安裝到 { -brand-short-name }。
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = 無法以使用者身分安裝 { $addonName }，該元件僅能透過組織的企業政策安裝。

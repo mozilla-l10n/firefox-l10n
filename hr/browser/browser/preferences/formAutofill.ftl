@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Spremljene adrese
 autofill-manage-addresses-list-header = Adrese
-autofill-manage-credit-cards-title = Spremljene kreditne kartice
-autofill-manage-credit-cards-list-header = Kreditne kartice
 autofill-manage-payment-methods-title = Spremljeni načini plaćanja
 autofill-manage-cards-list-header = Kreditne kartice
 autofill-manage-dialog =
@@ -45,15 +43,10 @@ address-capture-open-menu-button =
     .aria-label = Otvori izbornik
 address-capture-edit-address-link = Uredi adresu
     .aria-label = Uredi adresu
-address-capture-edit-address-button =
-    .aria-label = Uredi adresu
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Dodaj adresu
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Uredi adresu
-autofill-address-given-name = Ime
-autofill-address-additional-name = Srednje ime
-autofill-address-family-name = Prezime
 autofill-address-name = Ime
 autofill-address-organization = Organizacija
 autofill-address-street-address = Ulica
@@ -101,8 +94,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Dodaj novu adresu
 autofill-address-country = Zemlja ili regija
 autofill-address-country-only = Zemlja
 autofill-address-tel = Telefon
@@ -110,18 +101,6 @@ autofill-address-email = E-mail adresa
 autofill-cancel-button = Odustani
 autofill-save-button = Spremi
 autofill-country-warning-message = Automatsko popunjavanje obrazaca trenutačno je dostupno samo za određene zemlje.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Dodaj novu kreditnu karticu
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Uredi kreditnu karticu
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] pokušava prikazati podatke kreditne kartice
-        [windows] { -brand-short-name } pokušava prikazati podatke kreditne kartice. U nastavku potvrdi pristup ovom Windows računu.
-       *[other] { -brand-short-name } pokušava prikazati podatke kreditne kartice.
-    }
 autofill-message-tooltip = Pogledaj poruku o automatskom ispunjavanju
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Dodaj kreditnu karticu
@@ -140,15 +119,3 @@ autofill-card-expires-month = Mjesec isteka
 autofill-card-expires-year = Godina isteka
 autofill-card-billing-address = Adresa za naplatu
 autofill-card-network = Vrsta kreditne kartice
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

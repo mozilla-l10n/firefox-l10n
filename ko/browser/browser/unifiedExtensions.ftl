@@ -36,9 +36,6 @@ unified-extensions-item-message-manage = 확장 기능 관리
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = { $extensionName } 확장 기능은 제한되어 있습니다. 사용 시 위험 할 수 있습니다.
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName } 확장 기능은 Mozilla 정책을 위반합니다. 위험 할 수 있습니다.
 
 ## Extension's context menu
 
@@ -57,8 +54,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = 일부 확장 기능은 허용되지 않음
-unified-extensions-mb-quarantined-domain-message = 데이터 보호를 위해 { -vendor-short-name }에서 모니터링하는 일부 확장 기능만 이 사이트에서 허용됩니다.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = 일부 확장 기능은 허용되지 않음
@@ -74,13 +69,6 @@ unified-extensions-mb-blocklist-warning-single2 =
         이 확장 기능은 제한되어 있어 비활성화되었습니다.
         설정에서 활성화할 수는 있지만 위험할 수 있습니다.
 # Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } 비활성화됨
-    .message =
-        이 확장 기능은 Mozilla의 정책을 위반하여 비활성화되었습니다.
-        설정에서 활성화할 수는 있지만 위험할 수 있습니다.
-# Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } 비활성화됨
@@ -94,13 +82,6 @@ unified-extensions-mb-blocklist-warning-multiple2 =
         }
     .message =
         일부 확장 기능은 제한되어 있어 비활성화되었습니다.
-        설정에서 활성화할 수는 있지만 위험할 수 있습니다.
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading = { $extensionsCount }개 확장 기능이 비활성화됨
-    .message =
-        일부 확장 기능이 Mozilla 정책을 위반하여 비활성화되었습니다.
         설정에서 활성화할 수는 있지만 위험할 수 있습니다.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.

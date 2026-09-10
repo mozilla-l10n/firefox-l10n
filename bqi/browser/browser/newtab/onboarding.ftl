@@ -35,12 +35,6 @@ mr1-return-to-amo-add-extension-label = ٱووردن { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 # String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = و من ٱووڌن
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
@@ -152,30 +146,7 @@ mr2022-onboarding-set-default-primary-button-label = { -brand-short-name } ن و
 ## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-get-started-primary-button-label = من چن سانیه ره ونین
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = پۊرنیڌن جۊر برق وو باڌ
 mr2022-onboarding-import-primary-button-label-no-attribution = و من ٱووردن ز گشت گر پؽشی
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-primary-button-label-continue = سامووݩ وو رئڌن وا پؽش
-mr2022-onboarding-colorway-label-default = پؽش فرز
-mr2022-onboarding-colorway-description-default = <b>رنگا هیم سکویی { -brand-short-name } مو و کار گرؽڌه بۊن.</b>
-mr2022-onboarding-colorway-label-playmaker = بازیساز
-mr2022-onboarding-colorway-label-expressionist = اکسپرسیونیست
-mr2022-onboarding-colorway-label-visionary = رویایی
-mr2022-onboarding-colorway-label-activist = کونشگر
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = کونشگر (کوۊ)
-mr2022-onboarding-colorway-label-dreamer = رویا پرداز
-mr2022-onboarding-colorway-label-innovator = نۊ ٱوورد
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned

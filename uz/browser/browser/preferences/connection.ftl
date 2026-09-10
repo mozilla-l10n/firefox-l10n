@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Ulanish sozlamalari
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Ulanish sozlamalari
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -53,14 +53,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Qayta yuklash
     .accesskey = t
-connection-proxy-autologin =
-    .label = Agar parol saqlangan bo‘lsa, tasdiqdan o‘tishga urinib ko‘rmang.
-    .accesskey = i
-    .tooltip = Agar maxfiy ma’lumotlarni ushbu moslama uchun saqlab qo‘ysangiz, ushbu moslama bildirmasdan proksilardan tasdiqdan o‘tadi. Tasdiqdan o‘tish amalga oshmasa, siz qaytadan urinasiz.
 connection-proxy-autologin-checkbox =
     .label = Agar parol saqlangan bo‘lsa, tasdiqdan o‘tishga urinib ko‘rmang.
-    .accesskey = i
     .tooltiptext = Agar maxfiy ma’lumotlarni ushbu moslama uchun saqlab qo‘ysangiz, ushbu moslama bildirmasdan proksilardan tasdiqdan o‘tadi. Tasdiqdan o‘tish amalga oshmasa, siz qaytadan urinasiz.
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = SOCKS v5 protokolidan foydalanayotganda DNS proksi
     .accesskey = d
@@ -71,6 +67,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = HTTPS orqali DNS dan foydalanish uchun standart URL manzildan foydalaning
 connection-dns-over-https-url-custom =
     .label = Boshqa URL
-    .accesskey = B
     .tooltiptext = HTTPS orqali DNS ga ruxsat berish uchun URL manzilni kiriting
-connection-dns-over-https-custom-label = Boshqa URL
+    .accesskey = B

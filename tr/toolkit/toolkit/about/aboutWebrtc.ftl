@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Kapalı PeerConnection�
 about-webrtc-aec-logging-msg-label = AEC günlük kaydı
 about-webrtc-aec-logging-off-state-label = AEC kaydını başlat
 about-webrtc-aec-logging-on-state-label = AEC kaydını durdur
-about-webrtc-aec-logging-on-state-msg = AEC kaydı etkin (Arayanla birkaç dakika konuştuktan sonra yakalamayı durdurun)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC kaydı etkin (Arayanla birkaç dakika konuştuktan sonra yakalamayı durdurun)
 about-webrtc-aec-logging-unavailable-sandbox = AEC günlüklerini dışa aktarmak için MOZ_DISABLE_CONTENT_SANDBOX=1 ortam değişkeni gerekiyor. Bu değişkeni yalnızca olası risklerin farkındaysanız ayarlayın.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Aday
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Seçildi
 about-webrtc-save-page-label = Sayfayı kaydet
-about-webrtc-debug-mode-msg-label = Hata ayıklama modu
-about-webrtc-debug-mode-off-state-label = Hata ayıklama modunu başlat
-about-webrtc-debug-mode-on-state-label = Hata ayıklama modunu durdur
-about-webrtc-stats-heading = Oturum istatistikleri
 about-webrtc-enable-logging-label = WebRTC log ön ayarını etkinleştir
 about-webrtc-peerconnections-section-heading = RTCPeerConnection istatistikleri
 about-webrtc-peerconnections-section-show-msg = RTCPeerConnection istatistiklerini göster
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = RTCPeerConnection istatistikleri
 about-webrtc-stats-clear = Geçmişi temizle
 about-webrtc-log-heading = Bağlantı günlüğü
 about-webrtc-log-clear = Günlüğü temizle
-about-webrtc-log-show-msg = günlüğü göster
-    .title = bu bölümü genişletmek için tıklayın
-about-webrtc-log-hide-msg = günlüğü gizle
-    .title = bu bölümü daraltmak için tıklayın
 about-webrtc-log-section-show-msg = Günlüğü göster
     .title = Bu bölümü genişletmek için tıklayın
 about-webrtc-log-section-hide-msg = Günlüğü gizle
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Uzak aday
 about-webrtc-raw-candidates-heading = Tüm ham adaylar
 about-webrtc-raw-local-candidate = Ham yerel aday
 about-webrtc-raw-remote-candidate = Ham uzak aday
-about-webrtc-raw-cand-show-msg = ham adayları göster
-    .title = bu bölümü genişletmek için tıklayın
-about-webrtc-raw-cand-hide-msg = ham adayları gizle
-    .title = bu bölümü daraltmak için tıklayın
 about-webrtc-raw-cand-section-show-msg = Ham adayları göster
     .title = Bu bölümü genişletmek için tıklayın
 about-webrtc-raw-cand-section-hide-msg = Ham adayları gizle
     .title = Bu bölümü daraltmak için tıklayın
 about-webrtc-priority = Öncelik
-about-webrtc-fold-show-msg = ayrıntıları göster
-    .title = bu bölümü genişletmek için tıklayın
-about-webrtc-fold-hide-msg = ayrıntıları gizle
-    .title = bu bölümü daraltmak için tıklayın
 about-webrtc-fold-default-show-msg = Ayrıntıları göster
     .title = Bu bölümü genişletmek için tıklayın
 about-webrtc-fold-default-hide-msg = Ayrıntıları gizle
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Sağlandı
 # been provided
 about-webrtc-configuration-element-not-provided = Sağlanmadı
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Kullanıcı tanımlı WebRTC tercihleri
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Kullanıcı tarafından değiştirilen WebRTC yapılandırması
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Video Karesi İstatistikleri - MediaStreamTrack ID: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = sayfa { $path } konumuna kaydedildi
-about-webrtc-debug-mode-off-state-msg = izleme günlüğü { $path } konumunda bulunabilir
-about-webrtc-debug-mode-on-state-msg = hata ayıklama modu etkin, izleme günlük konumu: { $path }
-about-webrtc-aec-logging-off-state-msg = yakalanan günlük dosyaları şurada bulunabilir: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

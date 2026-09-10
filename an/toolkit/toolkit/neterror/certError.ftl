@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = No se confía en o certificau porque tampoco
 cert-error-trust-signature-algorithm-disabled = No se confía en o certificau porque s'ha sinyau con un algoritmo de sinyadura que se desactivó porque no yera seguro.
 cert-error-trust-expired-issuer = No se confía en o certificau porque o certificau d'o emisor ha venciu.
 cert-error-trust-self-signed = No se confía en o certificau porque ye sinyau por ell mesmo.
-cert-error-trust-symantec = Los certificaus expedius por GeoTrust, RapidSSL, Symantec, Thawte y VeriSign ya no se consideran seguras perque estas autoridatz de certificaus no han seguiu practicas de seguranza en o pasau.
 cert-error-untrusted-default = O certificau no procede d'una fuent de confianza.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -53,17 +52,12 @@ cert-error-code-prefix-link = Codigo d'error: <a data-l10n-name="error-code-link
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Ha ocurriu una error durant una connexión a { $hostname }. { $errorMessage }
 # Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Los puestos web preban la suya identidat per medio de certificaus, que son emesos per autoridatz de certificación. La mayor parte d'os navegadors ya no se fían d'os certificaus emesos per GeoTrust, RapidSSL, Symantec, Thawte y VeriSign. { $hostname } fa servir un certificau d'una d'estas autoridatz y per ixo la identidat d'o puesto web no se puede prebar.
-cert-error-symantec-distrust-admin = Puetz notificar lo problema a l'administrador d'o puesto web.
-# Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = Seguranza de Transporte Estricto HTTP: { $hasHSTS }
 # Variables:
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Fixación de Clau Publica HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadena de certificaus:
-open-in-new-window-for-csp-or-xfo-error = Ubrir pachina en una finestra nueva
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Pa protecher la tuya seguranza, { $hostname } no permitirá que { -brand-short-name } amuestre la pachina si atro puesto la tiene incrustada. Pa veyer esta pachina la has d'ubrir en una nueva finestra.
@@ -96,7 +90,6 @@ redirectLoop-title = A pachina no ye reendrezando adequadament
 unknownSocketType-title = Respuesta inasperada d'o servidor
 nssFailure2-title = Ha fallau la connexión segura
 csp-xfo-error-title = { -brand-short-name } no puet ubrir esta pachina
-corruptedContentError-title = Error en o conteniu d'a pachina
 sslv3Used-title = No ye posible connectar de traza segura
 inadequateSecurityError-title = La connexion no ye pas segura
 blockedByPolicy-title = Pachina blocada

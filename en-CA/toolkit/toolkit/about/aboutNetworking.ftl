@@ -40,51 +40,36 @@ about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { 
 # $capacity (Number) - Total cache capacity, in kilobytes
 # $percent (Number) - Percentage of the cache capacity currently in use
 about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent }%)
-
 about-networking-ssl-tokens-partition-key = Partition Key
-
 about-networking-ssl-tokens-tokens-column = Tokens
-
 about-networking-ssl-tokens-expires = Expires
-
 about-networking-ssl-tokens-certificate = Cert
-
 # $count (Number) - Number of tokens sharing this row's host and certificate
 about-networking-ssl-tokens-token-list =
     { $count ->
         [one] { $count } token
        *[other] { $count } tokens
     }
-
 about-networking-ssl-tokens-restored =
     .alt = Restored from storage
     .title = Restored from storage
-
 about-networking-ssl-tokens-new =
     .alt = New this session
     .title = New this session
-
 about-networking-ssl-tokens-expired =
     .alt = Expired
     .title = Expired
-
 # $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
 # $decompressedLength (Number) - Total size in bytes before compression
 # $compressedLength (Number) - Total size in bytes after compression
 about-networking-ssl-tokens-compression-details =
     .title = Tokens: { $tokenLength } B. Encoded: { $decompressedLength } → { $compressedLength } B.
-
 about-networking-ssl-tokens-ev-status = EV cert
-
 about-networking-ssl-tokens-ct-status = Cert Transparency status
-
 about-networking-ssl-tokens-overridable-error = Overridable error category
-
 about-networking-ssl-tokens-built-in-root = Built-in root
-
 # $count (Number) - Number of certs in the succeeded cert chain
 about-networking-ssl-tokens-cert-chain = Cert chain ({ $count })
-
 # $count (Number) - Number of certs seen during the TLS handshake
 about-networking-ssl-tokens-handshake-certs = Handshake certs ({ $count })
 about-networking-refresh = Refresh
@@ -115,22 +100,6 @@ about-networking-dns-lookup-button = Resolve
 about-networking-dns-domain = Domain:
 about-networking-dns-lookup-table-column = IPs
 about-networking-dns-https-rrs-lookup-table-column = HTTPS RRs
-about-networking-dns-https-rr-lookup-table-column = HTTP RRs
-about-networking-rcwn = RCWN Stats
-about-networking-rcwn-status = RCWN Status
-about-networking-rcwn-cache-won-count = Cache won count
-about-networking-rcwn-net-won-count = Net won count
-about-networking-total-network-requests = Total network request count
-about-networking-rcwn-operation = Cache Operation
-about-networking-rcwn-perf-open = Open
-about-networking-rcwn-perf-read = Read
-about-networking-rcwn-perf-write = Write
-about-networking-rcwn-perf-entry-open = Entry Open
-about-networking-rcwn-avg-short = Short Average
-about-networking-rcwn-avg-long = Long Average
-about-networking-rcwn-std-dev-long = Long Standard Deviation
-about-networking-rcwn-cache-slow = Cache slow count
-about-networking-rcwn-cache-not-slow = Cache not slow count
 about-networking-networkid = Network ID
 about-networking-networkid-id = Network ID
 # Note: do not translate about:logging, as it is a URL.

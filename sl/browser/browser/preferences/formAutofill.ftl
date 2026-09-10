@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Shranjeni naslovi
 autofill-manage-addresses-list-header = Naslovi
-autofill-manage-credit-cards-title = Shranjene kreditne kartice
-autofill-manage-credit-cards-list-header = Kreditne kartice
 autofill-manage-payment-methods-title = Shranjena plačilna sredstva
 autofill-manage-cards-list-header = Kartice
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = Odpri meni
 address-capture-edit-address-link = Uredi naslov
     .aria-label = Uredi naslov
-address-capture-edit-address-button =
-    .aria-label = Uredi naslov
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Dodaj naslov
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Uredi naslov
-autofill-address-given-name = Ime
-autofill-address-additional-name = Srednje ime
-autofill-address-family-name = Priimek
 autofill-address-name = Ime
 autofill-address-organization = Organizacija
 autofill-address-street-address = Ulica
@@ -104,8 +97,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Dodaj nov naslov
 autofill-address-country = Država ali območje
 autofill-address-country-only = Država
 autofill-address-tel = Telefon
@@ -114,18 +105,6 @@ autofill-cancel-button = Prekliči
 autofill-save-button = Shrani
 autofill-country-warning-message-2 = Samodejno izpolnjevanje obrazcev je trenutno na voljo samo v nekaterih državah
 autofill-country-warning-message = Samodejno izpolnjevanje obrazcev je trenutno na voljo samo v nekaterih državah.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Dodaj novo kreditno kartico
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Uredi kreditno kartico
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] show credit card information
-        [windows] { -brand-short-name } poskuša prikazati podatke o kreditni kartici. Spodaj potrdite dostop do tega računa Windows.
-       *[other] { -brand-short-name } poskuša prikazati podatke o kreditni kartici.
-    }
 autofill-message-tooltip = Prikaži sporočilo o samodejnem izpolnjevanju
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Dodaj kartico
@@ -211,15 +190,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = Nikoli ne shranjuj potnih listov
     .accessKey = N
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

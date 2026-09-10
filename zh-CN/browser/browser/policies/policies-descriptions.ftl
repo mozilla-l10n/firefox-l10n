@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = 阻止默认浏览器用户代理执行任�
 policy-DisableDeveloperTools = 阻止访问开发者工具。
 policy-DisableEncryptedClientHello = 禁用 TLS 功能“Encrypted Client Hello”（ECH）。
 policy-DisableFeedbackCommands = 禁用“帮助”菜单中的“发送反馈”命令（提交反馈和举报诈骗网站）。
-policy-DisableFirefoxAccounts = 禁用 { -fxaccount-brand-name }的基础服务，包含同步。
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = 禁用基于账户的服务，包括同步。
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = 不要记住搜索和表单的历史记录。
 policy-DisableLaunchOnLogin = 阻止 { -brand-short-name } 在用户登录时自动启动。
 policy-DisablePrimaryPasswordCreation = 若为 true，将无法创建主密码。
 policy-DisablePasswordReveal = 阻止密码在列表中明文显示
-policy-DisablePocket2 = 禁用保存网页到 { -pocket-brand-name } 的功能。
 policy-DisablePrivateBrowsing = 禁用隐私浏览功能。
 policy-DisableProfileImport = 禁用自其他浏览器导入数据的菜单命令。
 policy-DisableProfileRefresh = 禁用 about:support 页面中的“翻新 { -brand-short-name }”按钮。
@@ -132,7 +130,6 @@ policy-PDFjs = 禁用或配置 { -brand-short-name } 内置的 PDF 阅读器 PDF
 policy-Permissions2 = 配置摄像头、麦克风、位置、通知和自动播放的权限。
 policy-PictureInPicture = 启用或禁用画中画。
 policy-PopupBlocking2 = 允许特定网站显示弹出式窗口以及由第三方框架重定向。
-policy-PopupBlocking = 默认允许特定网站显示弹出式窗口。
 policy-Preferences = 设置并锁定若干首选项的值。
 policy-PrivateBrowsingModeAvailability = 设置隐私浏览模式的可用性。
 policy-PromptForDownloadLocation = 下载前询问文件保存位置。

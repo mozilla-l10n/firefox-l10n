@@ -215,9 +215,6 @@ menu-tools =
 menu-tools-downloads =
     .label = डाउनलोड
     .accesskey = D
-menu-tools-addons-and-themes =
-    .label = ऐड-ऑन और थीम
-    .accesskey = A
 menu-tools-sync-now =
     .label = अब तुल्यकालित करें
     .accesskey = S
@@ -253,8 +250,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = सहायता
     .accesskey = H
-menu-help-report-site-issue =
-    .label = साइट समस्या की रिपोर्ट करें…
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

@@ -5,12 +5,6 @@
 
 ### These strings are used inside the about:debugging UI.
 
-
-# Page Title strings
-
-
-# Sidebar strings
-
 # Sidebar heading and title for connecting to some remote source
 about-debugging-sidebar-setup2 = Inpostaçioin
 about-debugging-sidebar-setup-title =
@@ -42,9 +36,6 @@ about-debugging-sidebar-runtime-item-name-no-device =
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = Agiorna dispoxitivi
-
-# Setup Page strings
-
 # Title of the Setup page.
 about-debugging-setup-title = Inpostaçioin
 # USB section of the Setup page
@@ -62,9 +53,6 @@ about-debugging-network-locations-host-input-label = Host
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Scancella
-
-# Runtime Page strings
-
 # Below are the titles for the various categories of debug targets that can be found
 # on "runtime" pages of about:debugging.
 # Title of the temporary extensions category (only available for "This Firefox" runtime).
@@ -94,9 +82,6 @@ about-debugging-runtime-other-workers =
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Disconnetti
-
-# Debug Targets strings
-
 # Displayed in the categories of "runtime" pages that don't have any debug target to
 # show. Debug targets depend on the category (extensions, tabs, workers...).
 about-debugging-debug-target-list-empty = Nisciun elemento.

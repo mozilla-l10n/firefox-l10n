@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Αποτροπή οποιασδήποτε ε
 policy-DisableDeveloperTools = Αποκλεισμός πρόσβασης στα εργαλεία ανάπτυξης.
 policy-DisableEncryptedClientHello = Απενεργοποίηση χρήσης λειτουργίας TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Απενεργοποίηση εντολών για αποστολή σχολίων από το μενού «Βοήθεια» («Υποβολή σχολίων» και «Αναφορά παραπλανητικού ιστοτόπου»).
-policy-DisableFirefoxAccounts = Απενεργοποίηση υπηρεσιών { -fxaccount-brand-name(capitalization: "lower", case: "gen") }, καθώς και του συγχρονισμού.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Απενεργοποίηση υπηρεσιών που βασίζονται σε λογαριασμό, συμπεριλαμβανομένου του συγχρονισμού.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Να μην γίνεται διατήρηση ιστ
 policy-DisableLaunchOnLogin = Αποτροπή αυτόματης εκκίνησης του { -brand-short-name } κατά τη σύνδεση του χρήστη.
 policy-DisablePrimaryPasswordCreation = Αν είναι αληθές, δεν είναι δυνατή η δημιουργία κύριου κωδικού πρόσβασης.
 policy-DisablePasswordReveal = Να μην επιτρέπεται η αποκάλυψη κωδικών πρόσβασης σε αποθηκευμένες συνδέσεις.
-policy-DisablePocket2 = Απενεργοποίηση της λειτουργίας για αποθήκευση ιστοσελίδων στο { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Απενεργοποίηση ιδιωτικής περιήγησης.
 policy-DisableProfileImport = Απενεργοποίηση της εντολής μενού για εισαγωγή δεδομένων από άλλο πρόγραμμα περιήγησης.
 policy-DisableProfileRefresh = Απενεργοποίηση του κουμπιού ανανέωσης { -brand-short-name } στη σελίδα about:support.
@@ -132,7 +130,6 @@ policy-PDFjs = Απενεργοποίηση ή ρύθμιση του PDF.js, τ�
 policy-Permissions2 = Ρύθμιση δικαιωμάτων για κάμερα, μικρόφωνο, τοποθεσία, ειδοποιήσεις και αυτόματη αναπαραγωγή.
 policy-PictureInPicture = Ενεργοποίηση ή απενεργοποίηση λειτουργίας «Εικόνα εντός εικόνας».
 policy-PopupBlocking2 = Να επιτρέπεται σε ορισμένους ιστοτόπους η εμφάνιση αναδυόμενων παραθύρων και η ανακατεύθυνσή τους από τρίτα πλαίσια.
-policy-PopupBlocking = Αποδοχή αναδυόμενων από ορισμένους ιστοτόπους, από προεπιλογή.
 policy-Preferences = Ορισμός και κλείδωμα τιμής ενός υποσυνόλου προτιμήσεων.
 policy-PrivateBrowsingModeAvailability = Καθορισμός της διαθεσιμότητας της λειτουργίας ιδιωτικής περιήγησης.
 policy-PromptForDownloadLocation = Ερώτηση για την τοποθεσία αποθήκευσης αρχείων κατά τη λήψη.

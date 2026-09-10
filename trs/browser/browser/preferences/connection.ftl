@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Nagi'io' conexión
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Nagi'io' conexión
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -51,14 +51,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Nagi'iaj nakà
     .accesskey = e
-connection-proxy-autologin =
-    .label = Si nachin' na'anj ma ahui si huin si 'ngà nun kontareseña
-    .accesskey = S
-    .tooltip = Nachin' na'anj ma sisi nanín sat da'ngà huìi. 'Ngà na'ue gi'iaj sun hue'é ma.
 connection-proxy-autologin-checkbox =
     .label = Si nachin' na'anj ma ahui si huin si 'ngà nun kontareseña
-    .accesskey = S
     .tooltiptext = Nachin' na'anj ma sisi nanín sat da'ngà huìi. 'Ngà na'ue gi'iaj sun hue'é ma.
+    .accesskey = S
 connection-proxy-socks-remote-dns =
     .label = Proxy DNS 'ngà garasunt SOCKS v5
     .accesskey = P
@@ -69,6 +65,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Garasun URL ngà hua niñaada' nagi'iát DNS ngà HTTPS
 connection-dns-over-https-url-custom =
     .label = Nagui'iaj mu'ûn'
-    .accesskey = C
     .tooltiptext = Gachrun URL nihià' ruhuât da' nagi'iát DNS riña HTTPS
-connection-dns-over-https-custom-label = Nagui'iaj mu'ûn'
+    .accesskey = C

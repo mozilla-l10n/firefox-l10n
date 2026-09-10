@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Жаңартуды жүктеп алу — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Жаңартуды жүктеп алу — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Жаңартуды жүктеп алу — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Жаңартуды іске асыру…
 update-failed = Жаңарту сәтсіз. <label data-l10n-name="failed-link">Соңғы нұсқасын жүктеп алу</label>
 update-failed-main = Жаңарту сәтсіз. <a data-l10n-name="failed-link-main">Соңғы нұсқасын жүктеп алу</a>
-update-adminDisabled = Жаңарту мүмкіндігін жүйелік администраторыңыз сөндірген
 update-policy-disabled = Жаңартуларды сіздің ұйымыңыз сөндірген
 settings-update-policy-disabled =
     .label = Жаңартуларды сіздің ұйымыңыз сөндірген
@@ -72,8 +70,6 @@ helpus-referrals2 = Көмектескіңіз келе ме? <label data-l10n-n
 bottomLinks-license = Лицензиялық ақпарат
 bottom-links-terms = Қолдану шарттары
 bottom-links-privacy = Жекелік ескертуі
-bottomLinks-rights = Түпкі пайдаланушы құқықтары
-bottomLinks-privacy = Жекелік саясаты
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

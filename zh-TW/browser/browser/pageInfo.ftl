@@ -155,7 +155,6 @@ media-unknown-not-cached =
     .value = 未知（未快取）
 permissions-use-default =
     .label = 使用預設值
-security-no-visits = 否
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -224,11 +223,6 @@ media-file-size = { $size } KB
 ## Variables:
 ##   $website (string) — The url of the website pageInfo is getting info for
 
-# This string is used to display the website name next to the
-# "Block Images" checkbox in the media tab
-media-block-image =
-    .label = 封鎖來自 { $website } 的圖片
-    .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 page-info-page =

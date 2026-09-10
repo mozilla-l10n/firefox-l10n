@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Monstrar in Finder
            *[other] Monstrar in dossier
         }
-downloads-cmd-show-downloads =
-    .label = Monstrar le dossier de discargamentos
 downloads-cmd-retry =
     .tooltiptext = Retentar
 downloads-cmd-retry-panel =

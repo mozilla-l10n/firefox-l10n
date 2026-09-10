@@ -16,16 +16,3 @@ recently-closed-menu-reopen-all-windows = Ôdewrzij nazod wszyskie ôkna
 
 recently-closed-panel-reopen-all-tabs = Ôdewrzij nazod wszyskie karty
 recently-closed-panel-reopen-all-windows = Ôdewrzij nazod wszyskie ôkna
-
-##
-
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [one] { $winTitle } (i { $tabCount } inkszo karta)
-        [few] { $winTitle } (i { $tabCount } inksze karty)
-       *[many] { $winTitle } (i { $tabCount } innych kart)
-    }

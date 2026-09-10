@@ -15,13 +15,6 @@ xpinstall-prompt-dont-allow =
 xpinstall-prompt-install =
     .label = நிறுவலுக்குத் தொடரவும்
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = மென்பொருள் நிறுவல் உங்கள் கணினி நிர்வாகியால் செயல்நீக்கப்பட்டுள்ளது.
 xpinstall-disabled = மென்பொருள் நிறுவுதல் தற்போது செயல்நீக்கப்பட்டுள்ளது. செயல்படுத்து என்பதை சொடுக்கி மீண்டும் முயற்சிக்கவும்.
 xpinstall-disabled-button =
     .label = செயல்படுத்து
@@ -84,4 +77,3 @@ addon-local-install-error-not-signed = இந்த கூடுதல் இண
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { -brand-short-name } { $appVersion } உடன் பொருந்தாததால் { $addonName } நிறுவமுடியவில்லை.
-addon-install-error-blocklisted = இந்த உட்செருகல் மென்பொருளின் நிலைத்தன்மையை குலைக்கும் என்பதால் { $addonName } நிறுவமுடியவில்லை.

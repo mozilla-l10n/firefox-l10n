@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Activar Warp, in project per meglier
 experimental-features-ime-search =
     .label = Trav d'adressas: mussar resultats durant la cumposiziun IME
 experimental-features-ime-search-description = In IME (Input Method Editor) è in utensil che permetta dad endatar simbols cumplexs sco quels da linguas da l'Asia da l'Ost u da linguas scrittas en l'India, cun agid dad ina tastatura da standard. L'activaziun da quest experiment vegn a laschar avert la panela da la trav d'adressas e mussar resultats e propostas da tschertga durant l'endataziun da text cun l'IME. Remartga: L'IME mussa eventualmain ina panela che cuvra ils resultats da la trav d'adressas. Perquai è questa preferenza mo recumandabla per IMEs che n'utiliseschan betg quest tip da panela.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Maletg-en-maletg: avrir automaticamain cun midar tab
-experimental-features-auto-pip-description = Activar maletg-en-maletg per videos activs cun midar tabs.
 experimental-features-group-developer-tools =
     .label = Utensils per sviluppaders
 experimental-features-group-webpage-display =
@@ -27,10 +23,6 @@ experimental-features-group-customize-browsing =
     .label = Persunalisescha tia navigaziun
 experimental-features-group-productivity =
     .label = Productivitad
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Pleds-clav en la trav laterala
-experimental-features-contextual-password-manager-description = Acceda a tes pleds-clav directamain en la trav laterala. Uschia n’èsi betg pli necessari da tschertgar ditg u da redefinir pleds-clav cura che ti emprovas da t’annunziar. Per utilisar questa funcziun, tscherna l’opziun dals pled-clav en la trav laterala. Va lura tar tes parameters generals e tscherna sut layout dal navigatur «Mussar la trav laterala». Persunalisescha lura tia trav laterala cun tscherner «Pleds-clav». Sche ti emprovas la funcziun, <a data-l10n-name="connect">ans lascha savair tge che ti pensas</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Tscherna in fund davos persunalisà u ina colur tenor giavisch per la pagina da novs tabs

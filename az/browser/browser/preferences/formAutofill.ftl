@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Saxlanılmış Ünvanlar
 autofill-manage-addresses-list-header = Ünvanlar
-autofill-manage-credit-cards-title = Saxlanılmış Kredit Kartları
-autofill-manage-credit-cards-list-header = Kredit kartları
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Sil
@@ -21,9 +19,6 @@ autofill-manage-edit-button = Düzəlt…
 
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Ünvanı düzəlt
-autofill-address-given-name = Ad
-autofill-address-additional-name = İkinci ad
-autofill-address-family-name = Soyad
 autofill-address-organization = Təşkilat
 autofill-address-street = Küçə ünvanı
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
@@ -69,18 +64,12 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Yeni ünvan əlavə et
 autofill-address-country = Ölkə və ya Bölgə
 autofill-address-tel = Telefon
 autofill-address-email = E-poçt
 autofill-cancel-button = Ləğv et
 autofill-save-button = Saxla
 autofill-country-warning-message = Forma avto doldurma hazırda ancaq bəzi ölkələrdə mövcuddur.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Yeni kredit kartı əlavə et
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Kredit kartını dəyişdir
 autofill-card-number-2 =
     .label = Kart nömrəsi
 autofill-card-number = Kart nömrəsi
@@ -94,15 +83,3 @@ autofill-card-expires-month = Vaxtı çıxma ayı
 autofill-card-expires-year = Vaxtı çıxma ili
 autofill-card-billing-address = Faktura ünvanı
 autofill-card-network = Kart Növü
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

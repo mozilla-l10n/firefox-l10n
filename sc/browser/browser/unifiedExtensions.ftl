@@ -21,9 +21,6 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Aberi su menù de { $extensionName }
 unified-extensions-item-message-manage = Gesti s'estensione
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName } vìolat is polìticas de Mozilla. A dda impreare podet èssere perigulosu.
 
 ## Extension's context menu
 
@@ -42,8 +39,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Tzertas estensiones non sunt permìtidas
-unified-extensions-mb-quarantined-domain-message = Isceti tzertas estensiones monitoradas dae { -vendor-short-name } sunt permìtidas in custu situ pro amparare is datos tuos.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Tzertas estensiones non sunt permìtidas
@@ -52,24 +47,10 @@ unified-extensions-mb-quarantined-domain-learn-more = Àteras informatziones
     .aria-label = Àteras informatziones: unas cantas estensiones non sunt permìtidas
 unified-extensions-mb-about-addons-link = Bae a sa cunfiguratzione de s'estensione
 # Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } disativada
-    .message = Custa estensione vìolat is polìticas de Mozilla e est istada disativada. Dda podes ativare in sa cunfiguratzione, ma podet èssere perigulosu.
-# Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } disativada
     .message = Custa estensione vìolat is polìticas de Mozilla e est istada disativada.
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-            [one] { $extensionsCount } estensione disativada
-           *[other] { $extensionsCount } estensiones disativadas
-        }
-    .message = Unas cantas estesiones sunt istadas disativadas ca vìolant is polìticas de Mozilla. Ddas podes ativare in sa cunfiguratzione, ma podet èssere perigulosu.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
 unified-extensions-mb-blocklist-error-multiple =

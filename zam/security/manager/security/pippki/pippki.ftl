@@ -11,7 +11,7 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Delan certificado
     .style = min-width: 46em
+    .title = Delan certificado
 download-cert-view-cert =
     .label = Mbwíʔ

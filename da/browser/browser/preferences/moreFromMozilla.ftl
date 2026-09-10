@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Mere fra { -vendor-short-name }
 more-from-moz-page-header =
     .heading = Mere fra { -vendor-short-name }
 more-from-moz-category =
@@ -34,13 +33,11 @@ more-from-moz-firefox-relay-button = Få { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Tag automatisk dine udsatte personlige oplysninger tilbage.
 more-from-moz-mozilla-monitor-global-description = Få besked, når dine data forekommer i en datalæk.
 more-from-moz-mozilla-monitor-button = Hent { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Opret din hjemmeside på et øjeblik og opret gratis forbindelse til dit eget domæne.
 more-from-moz-solo-button = Prøv { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = AI-værktøj fra { -solo-ai-brand-name } til at skabe websteder
@@ -66,14 +63,14 @@ more-from-moz-new-products-button = Se nye produkter
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = Beskyt din indbakke mod spam med gratis mail-maskering.
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = Lær webudvikling med gratis guider og dokumentation.
+    .label = { -mdn-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = Opret din hjemmeside på et øjeblik og opret gratis forbindelse til dit eget domæne.
+    .label = { -solo-ai-brand-name }
 more-from-moz-mozilla-monitor-box-link =
     .label = Få { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =

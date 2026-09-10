@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Tu es actualmente in modo FIPS. FIPS requi
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Reinitialisar contrasigno primari
     .style = min-width: 40em
+    .title = Reinitialisar contrasigno primari
 reset-password-button-label =
     .label = Reinitialisar
 reset-primary-password-text = Si tu reinitialisa tu contrasigno primari, tote tu contrasignos web e email, tu certificatos personal e claves private essera oblidate. Desira tu vermente reinitialisar tu contrasigno primari?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Tu contrasigno primari ha essite re
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Discargante certificato
     .style = min-width: 46em
+    .title = Discargante certificato
 download-cert-message = On te ha demandate confider a un nove autoritate de certification (CA).
 download-cert-trust-ssl =
     .label = Confider a iste CA pro identificar sitos del web.
@@ -52,8 +52,6 @@ download-cert-view-text = Examinar le certificato de CA
 
 client-auth-window =
     .title = Requesta de identification de usator
-client-auth-site-description = Iste sito ha requestate que tu identificar te per un certificato:
-client-auth-choose-cert = Elige un certificato a presentar como identification:
 client-auth-send-no-certificate =
     .label = Non inviar un certificato
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Authentica te al dispositivo de securitate ({ $tokenName }). Como facer lo depende del dispositivo (per exemplo, usante un lector de dactylogramma o inserente un codice con un claviero numeric).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Per favor authenticar al jeton “{ $tokenName }”. Como facer assi depende del jeton (per exemplo, usante un lector de dactylogramma o inserente un codice con un claviero numeric).

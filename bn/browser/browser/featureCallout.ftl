@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = ট্যাব পিকআপ সহ �
 callout-firefox-view-tab-pickup-subtitle = দ্রুত আপনার ফোন থেকে খোলা ট্যাবগুলি ধরুন এবং সর্বাধিক প্রবাহের জন্য সেগুলি এখানে খুলুন৷
 callout-firefox-view-recently-closed-title = এক ঝটকায় আপনার বন্ধ ট্যাব ফিরে পান
 callout-firefox-view-recently-closed-subtitle = আপনার সমস্ত বন্ধ ট্যাব জাদুকরীভাবে এখানে প্রদর্শিত হবে৷ ভুলবশত আবার একটি সাইট বন্ধ করার বিষয়ে চিন্তা করবেন না।
-callout-firefox-view-colorways-title = রঙের একটি স্প্ল্যাশ যোগ করুন
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = রঙিন পথের সাথে আপনার সাথে কথা বলে এমন ছায়া বেছে নিন। শুধুমাত্র { -brand-product-name }-এ।
-callout-firefox-view-colorways-reminder-title = আমাদের সর্বশেষ colorways অন্বেষণ
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = স্বাধীন ভয়েস দ্বারা অনুপ্রাণিত এই আইকনিক শেডগুলির সাথে আপনার ব্রাউজারকে রঙ করুন। শুধুমাত্র { -brand-product-name }-এ।
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

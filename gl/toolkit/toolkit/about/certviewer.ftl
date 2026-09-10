@@ -118,4 +118,3 @@ certificate-viewer-tab-mine = Os seus certificados
 certificate-viewer-tab-people = Persoas
 certificate-viewer-tab-servers = Servidores
 certificate-viewer-tab-ca = Autoridades
-certificate-viewer-tab-unkonwn = Descoñecido

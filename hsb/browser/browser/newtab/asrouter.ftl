@@ -66,7 +66,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Synchronizujće swoje zapołožki wšudźe.
-cfr-doorhanger-bookmark-fxa-body = Wulkotna namakanka! Njewostawajće bjez tuteje zapołožki na swojich mobilnych gratach. Započńće z { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = Wulkotna namakanka! Njewostawajće bjez tuteje zapołožki na swojich mobilnych gratach. Započńće z kontom.
 cfr-doorhanger-bookmark-fxa-link-text = Synchronizujće nětko zapołožki…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -79,12 +78,6 @@ fxa-adoption-credit-cards-backup-subtitle = Synchronizujće swoje hesła ze swoj
 fxa-adoption-bookmarks-treatment-backup-title = Zawěsćmy waše zapołožki
 fxa-adoption-bookmarks-treatment-backup-subtitle = Synchronizujće swoje hesła ze swojimi gratami ze zaklučowanjom, zo byšće swoje zapołožki škitał.
 fxa-adoption-primary-button-label = Registrować
-
-## Protections panel
-
-cfr-protections-panel-header = Přehladujće bjez toho, zo by wam slědowało
-cfr-protections-panel-body = Wobchowajće swoje daty za sebje. { -brand-short-name } was před wjele z najhusćišich přesćěhowakow škita, kotrež slěduja, štož online činiće.
-cfr-protections-panel-link-text = Dalše informacije
 
 ## What's New toolbar button and panel
 
@@ -182,42 +175,8 @@ mr2022-background-update-toast-primary-button-label = { -brand-shorter-name } n�
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Pozdźišo dopomnić
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Wupruwujće jón
-    .accesskey = u
-firefoxview-cfr-secondarybutton = Nic nětko
-    .accesskey = N
-firefoxview-cfr-header-v2 = Čińće tam spěšnje dale, hdźež sće přestał
-firefoxview-cfr-body-v2 = Wobstarajće sej začinjene rajtarki wróćo a přeńdźće mjez gratami z { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Witajće k { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Chceće tón wočinjeny rajtark na swojim šmóratku měć? Wobstarajće sej jón. Trjebaće sydło, kotrež sće runje wopytał? Simsalabim, je z { -firefoxview-brand-name } wróćo.
-firefoxview-spotlight-promo-primarybutton = Wobhladajće sej, kak to funguje
-firefoxview-spotlight-promo-secondarybutton = Přeskočić
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Barbowu kombinaciju wubrać
-    .accesskey = B
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Zabarbće swój wobhladowak z ekskluziwnymi barbowymi wotsćinami { -brand-short-name }, kotrež su wot hłosow inspirowane, kotrež su kulturu změnili.
-colorways-cfr-header-28days = Barbowe kombinacije „Njewotwisne hłosy“  16. januara spadnu
-colorways-cfr-header-14days = Barbowe kombinacije „Njewotwisne hłosy“ za dwě njedźeli spadnu
-colorways-cfr-header-7days = Barbowe kombinacije „Njewotwisne hłosy“ tutón tydźeń spadnu
-colorways-cfr-header-today = Barbowe kombinacije „Njewotwisne hłosy“ dźensa spadnu
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = { -brand-short-name } dowolić plackowe chorhoje wotpokazać?
-cfr-cbh-body = { -brand-short-name } móže awtomatisce wjele naprašowanjow plackowych chorhojow wotpokazać.
-cfr-cbh-confirm-button = Plackowe chorhoje wotpokazać
-    .accesskey = P
-cfr-cbh-dismiss-button = Nic nětko
-    .accesskey = N
 cookie-banner-blocker-onboarding-header = { -brand-short-name } je runje plackowy chorhoj za was wotpokazał
 cookie-banner-blocker-onboarding-body = Mjenje wotwjedźenjow, mjenje plackow, kotrež was na sydle přesćěhuja.
 cookie-banner-blocker-onboarding-learn-more = Dalše informacije

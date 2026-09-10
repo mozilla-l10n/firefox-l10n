@@ -25,12 +25,10 @@ policy-DisableAppUpdate = Aizlīdz porlyuka atjauninōšonu.
 policy-DisableBuiltinPDFViewer = Atslādz PDF.js, { -brand-short-name } ībyuvietū PDF skatietōji.
 policy-DisableDeveloperTools = Bloķej pīeji izstrōdōtōju reikim.
 policy-DisableFeedbackCommands = Atslādz komandas, kas var aizsyutēt atsauksmes nu Paleidzeibas izvēlnes (Syutēt atsauksmi un Ziņōt par krōpnīku lopu).
-policy-DisableFirefoxAccounts = Atslēgt { -fxaccount-brand-name } bāzeitūs servisus, īskaitut Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Atslēgt Firefox Screenshots.
 policy-DisableForgetButton = Aizlīgt pīeju Aisamierst pūgai.
 policy-DisableFormHistory = Natgōdōt mekliešonys i formu viesturi
-policy-DisablePocket2 = Atslēgt īspieju saglobōt puslopys { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Atslēgt privatū porlyukōšonu
 policy-DisableTelemetry = Atslādz telemetriju.
 policy-DisplayBookmarksToolbar = Pec nūklusejuma rōda grōmotzeimu jūslu.

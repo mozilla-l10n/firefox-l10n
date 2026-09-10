@@ -2,17 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-# This file intentionally uses hard-coded brand names instead of Fluent terms.
-# This approach minimizes issues across multiple release channels and rebranded
-# versions.
-
 default-bookmarks-title = Dấu trang
 default-bookmarks-heading = Dấu trang
-default-bookmarks-toolbarfolder = Thư mục thanh dấu trang
-default-bookmarks-toolbarfolder-description = Thêm các dấu trang vào thư mục này để hiển thị chúng trên thanh dấu trang
-# link title for https://www.mozilla.org/firefox/central/
-default-bookmarks-getting-started = Bắt đầu
 # Firefox links folder name
 default-bookmarks-firefox-heading = Mozilla Firefox
 # link title for https://www.mozilla.org/firefox/help/

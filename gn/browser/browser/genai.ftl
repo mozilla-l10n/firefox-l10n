@@ -46,11 +46,6 @@ genai-prompt-prefix-selection = Aime kuatiarogue “{ $tabTitle }” “{ $selec
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Eporandu chatbot-pe IA rehegua
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Eporandu { $provider }-pe
 genai-menu-open-generic =
     .label = Embojuruja IA chatbot
 # $provider (string) - name of the provider
@@ -118,8 +113,6 @@ genai-header-provider-menu =
     .title = Eiporavo chatbot
 genai-header-settings-button =
     .title = IA chat ñemboheko
-genai-header-options-button =
-    .title = Eike poravorãme
 genai-header-close-button =
     .title = Mboty
 genai-provider-view-details =
@@ -147,37 +140,25 @@ genai-page-button-summarize = Emombyky kuatiarogue
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Emombyky, akãngetaita ha hetave eikundaha aja
 genai-onboarding-choose-header = Eiporavo chatbot IA rehegua eiporu hag̃ua { -brand-short-name } renda yképe
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Eiporavo chatbot IA eiporu hag̃ua { -brand-short-name } renda yképe. Rohechaukáta mba’emimi peteĩteĩva chatbot rehegua eiporavóvo. Emoambuekuaa ejapose vove. <a data-l10n-name="learn-more">Eikuaave</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Emoambue ejapose vove. Eñepytyvõkuaa eiporavo hag̃ua, <a data-l10n-name="learn-more">eikuaave peteĩteĩva chatbot rehegua</a>.
 genai-onboarding-primary = Ku’ejey
 genai-onboarding-secondary = Mboty
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Eikuaave Claude rehegua
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Eikuaave ChatGPT rehegua
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Eikuaave Copilot rehegua
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Eikuaave Gemini rehegua
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = Eikuaave HuggingChat rehegua
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Eikuaave Le Chat rehegua
-genai-onboarding-select-header = Eiporavo moñe’ẽrã ehecha hag̃ua ñemoñe’ẽ
-genai-onboarding-select-description = Embosa’ývo moñe’ẽrã, roikuave’ẽ prompts oñemondokuaáva chatbot-pe. Ehaikuaa avei ne prompts teetéva.
-genai-onboarding-select-primary = Eñepyrũ echatea
 genai-chatbot-contextual-title = Eiporu chatbot IA emoambue’ỹre tendayke
 genai-chatbot-contextual-subtitle = Echatea ha eikundaha embojuajukuévo peteĩ chatbot IA { -brand-short-name } tenda yképe.
 genai-chatbot-contextual-button = Eiporavo chatbot
@@ -190,27 +171,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = Eikutu atatúa gotyo pe votõ
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Embojuruja IA chatbot tenda ykegua ha eiporavo “Kuatiarogue mombyky” oĩva yvy gotyo.
 genai-chatbot-summarize-footer-generic-subtitle = Embojuaju IA chatbot { -brand-short-name } renda ykére emombyky hag̃ua umi kuatiarogue.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Emoheñói moñe’ẽrã ha ayvu
-genai-onboarding-claude-analyze = Ehesa’ỹijo kuatiaite ha ta’ãnga
-genai-onboarding-claude-price = Jehepyme’ẽ ha reigua; eikotevẽ mba’ete
-genai-onboarding-chatgpt-generate = Emoheñói moñe’ẽrã, ta’ãnga ha ayvu
-genai-onboarding-chatgpt-analyze = Ehesa’ỹijo kuatiaite ha ta’ãnga
-genai-onboarding-chatgpt-price = Ikatúva rei ha ojehepyme’ẽva; teikotevẽ mba’ete heta tetãme g̃uarã
-genai-onboarding-copilot-generate = Emoheñói moñe’ẽrã, ta’ãnga ha ayvu
-genai-onboarding-copilot-analyze = Ehesa’ỹijo ta’ãngakuéra
-genai-onboarding-copilot-price = Jehepyme’ẽ ha reigua; eikotevẽ mba’ete tembiaporãme
-genai-onboarding-gemini-generate = Emoheñói moñe’ẽrã, ta’ãnga ha ayvu
-genai-onboarding-gemini-analyze = Ehesa’ỹijo ta’ãnga (rei) ha kuatiaite (jehepyme’ẽva)
-genai-onboarding-gemini-price = Jehepyme’ẽ ha reigua; eikotevẽ mba’ete
-genai-onboarding-huggingchat-generate = Emoheñói moñe’ẽrã ha ayvu
-genai-onboarding-huggingchat-switch = Emombue peteĩ ijurujáva aty apytépe
-genai-onboarding-huggingchat-price-2 = Reigua; eikotevẽ peteĩ mba’ete oĩ rire heta mba’ejerure
-genai-onboarding-lechat-generate = Emoheñói moñe’ẽrã ha ayvu
-genai-onboarding-lechat-price = Reigua; eikotevẽ mba’ete
 
 ## Model Optin Component
 
@@ -249,8 +209,8 @@ link-preview-generation-retry = Eha’ã jey
 link-preview-settings-button =
     .title = Emboheko juajuha rechaha ypy
 link-preview-settings-enable =
-    .label = Embojuruja juajuha hecha ypy
     .description = Eikutu ápe emboguejy hag̃ua kuatiarogue reratee, hape ha hetave eiporúvo jeike pya’eha térã eikutu akatúa gotyo juajuhápe.
+    .label = Embojuruja juajuha hecha ypy
 link-preview-settings-key-points =
     .label = Emoneĩ AI mongu’eha tomoñe’ẽ kuatiarogue ñepyrũ ha tomoheñói mba’e porã
 link-preview-settings-long-press =

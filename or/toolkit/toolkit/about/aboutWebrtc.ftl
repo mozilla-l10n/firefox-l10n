@@ -20,10 +20,6 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ବନ�
 
 ##
 
-about-webrtc-fold-show-msg = ବିବରଣୀ ଦେଖାନ୍ତୁ
-    .title = ଏହି ବିଭାଗକୁ ପ୍ରସାରଣ କରିବା ପାଇଁ କ୍ଲିକ୍ କରନ୍ତୁ
-about-webrtc-fold-hide-msg = ବିବରଣୀ ଲୁଚାନ୍ତୁ
-    .title = ଏହି ବିଭାଗକୁ ସଙ୍କୋଚନ କରିବା ପାଇଁ କ୍ଲିକ୍ କରନ୍ତୁ
 about-webrtc-fold-default-show-msg = ବିବରଣୀ ଦେଖାନ୍ତୁ
     .title = ଏହି ବିଭାଗକୁ ପ୍ରସାରଣ କରିବା ପାଇଁ କ୍ଲିକ୍ କରନ୍ତୁ
 about-webrtc-fold-default-hide-msg = ବିବରଣୀ ଲୁଚାନ୍ତୁ

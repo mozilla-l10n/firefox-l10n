@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Vis i Finder
            *[other] Vis i mappe
         }
-downloads-cmd-show-downloads =
-    .label = Vis nedlastingsmappe
 downloads-cmd-retry =
     .tooltiptext = Prøv på nytt
 downloads-cmd-retry-panel =

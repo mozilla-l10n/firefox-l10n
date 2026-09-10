@@ -47,7 +47,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = ᱰᱟᱴᱟ ᱰᱤᱠᱳᱰᱟᱹᱨ ({ $pid })
 about-processes-socket-process = ᱡᱟᱹᱞᱤ ({ $pid })
-about-processes-remote-sandbox-broker-process = ᱨᱤᱢᱚᱴ ᱥᱮᱱᱰᱵᱟᱠᱚᱥ ᱨᱟᱹᱯᱩᱫᱤᱭᱟᱹ ({ $pid })
 about-processes-fork-server-process = ({ $pid }) ᱥᱟᱹᱨᱣᱟᱹᱨ ᱱᱚᱠᱚᱞ ᱢᱮ
 about-processes-preallocated-process = ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱯᱷᱟᱝᱠᱟ ᱫᱚᱦᱚ ({ $pid })
 about-processes-utility-process = ᱵᱮᱵᱷᱟᱨ ({ $pid })
@@ -56,17 +55,6 @@ about-processes-utility-process = ᱵᱮᱵᱷᱟᱨ ({ $pid })
 #    $pid (String) The process id of this process, assigned by the OS.
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = ᱮᱴᱟᱜ: { $type } ({ $pid })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, cross-origin isolated)
-about-processes-web-isolated-process-private = { $origin } — ᱱᱤᱡᱚᱨᱟᱜ ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } — ᱱᱤᱡᱚᱨᱟᱜivate ({ $pid }, cross-origin isolated)
 
 ## Details within processes
 

@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Lamak Jami pee
-    .accesskey = L
 user-context-personal-panel-item = Pa ngat moni
     .accesskey = P
 user-context-work-panel-item = Tic

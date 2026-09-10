@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = View site information
 
@@ -40,8 +35,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Open affline storage message panel
 urlbar-password-notification-anchor =
     .tooltiptext = Open save passwird message panel
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Manage plug-in yaise
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Manage sharin yer camera and/or microphone wi the site
 # "Speakers" is used in a general sense that might include headphones or
@@ -54,14 +47,7 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Store data in Persistent Storage
 urlbar-addons-notification-anchor =
     .tooltiptext = Open eik-on instawment message panel
-urlbar-tip-help-icon =
-    .title = Get hauners
 urlbar-search-tips-confirm = Awricht, Got Ye
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Wysin:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -96,8 +82,6 @@ urlbar-screen-blocked =
     .tooltiptext = Ye've blockit this wabsite fae sharin yer screen.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Ye've blockit persistent storage fur this wabsite.
-urlbar-popup-blocked =
-    .tooltiptext = Ye've blockit lowp-ups fur this wabsite.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Ye've blockit autopley media wi soond fur this wabsite.
 urlbar-canvas-blocked =
@@ -226,17 +210,13 @@ identity-custom-root = Connection verified by a certificate issuer that isnae ke
 identity-passive-loaded = Pairt o this page arenae siccar (sic as images).
 identity-active-loaded = Ye've disabled bieldin on this page.
 identity-weak-encryption = The encryption on this page is stintit.
-identity-insecure-login-forms = Logins inpit on this page micht be compromised.
 identity-https-only-connection-upgraded = (upgradit tae HTTPS)
-identity-https-only-label = HTTPS-Anely Mode
 identity-https-only-dropdown-on =
     .label = On
 identity-https-only-dropdown-off =
     .label = Aff
 identity-https-only-dropdown-off-temporarily =
     .label = Aff fur noo
-identity-https-only-info-turn-on2 = Turn on HTTPS-Anely Mode fur this site gin ye want { -brand-short-name } tae upgrade the connection when it can.
-identity-https-only-info-turn-off2 = Gin this page luiks mogert, ye micht want tae turn aff HTTPS-Anely Mode fur this site tae reload yaisin insiccar HTTP.
 identity-https-only-info-no-upgrade = No able tae upgrade connection fae HTTP.
 identity-permissions-storage-access-header = Cross-site cookies
 identity-permissions-storage-access-hint = These pairties can yaise cross-site cookies and site data while ye're on this site.
@@ -252,7 +232,6 @@ identity-remove-cert-exception =
     .label = Remuive Exception
     .accesskey = R
 identity-description-insecure = Yer connection tae this site isnae privat. Information ye inpit micht be seen by ithers (likesay, passwirds, messages, credit cairds, etc.).
-identity-description-insecure-login-forms = The login information ye inpit on this page isnae siccar and micht be compromised.
 identity-description-weak-cipher-intro = Yer connection tae this wabsite isnae private and yaises stintit encryption.
 identity-description-weak-cipher-risk = Ither fowk can see yer information or chynge the wabsite's behaviour.
 identity-description-active-blocked2 = { -brand-short-name } has blockit pairts o this page that arenae siccar.
@@ -261,12 +240,6 @@ identity-description-passive-loaded-insecure2 = This wabsite haud content that i
 identity-description-passive-loaded-mixed2 = Although { -brand-short-name } has blockit some content, there is aye content on the page that isnae siccar (sic as images).
 identity-description-active-loaded = This wabsite hauds content that isnae siccar (sic as scripts) and yer connection tae it isnae private.
 identity-description-active-loaded-insecure = Information ye share wi this site micht be seen by ithers (likesay, passwirds, messages, credit cairds, etc.).
-identity-disable-mixed-content-blocking =
-    .label = Disable bieldin jist the noo
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = Enable bieldin
-    .accesskey = E
 identity-more-info-link-text =
     .label = Mair Information
 
@@ -280,37 +253,6 @@ browser-window-restore-down-button =
     .tooltiptext = Restore Doon
 browser-window-close-button =
     .tooltiptext = Sneck
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = PLAYIN
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = WHEESHT
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = AUTOPLEY BLOCKIT
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = PICTUR-IN-PICTUR
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] WHEESHT TAB
-       *[other] WHEESHT { $count } TABS
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] UNWHEESHT TAB
-       *[other] UNWHEESHT { $count } TABS
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] PLEY TAB
-       *[other] PLEY { $count } TABS
-    }
 
 ## Bookmarks toolbar items
 
@@ -402,8 +344,6 @@ urlbar-extension =
     .value = Extension:
 urlbar-go-button2 =
     .title = Gang tae the address in the Airtin Baur
-urlbar-go-button =
-    .tooltiptext = Gang tae the address in the Airtin Baur
 urlbar-page-action-button =
     .tooltiptext = Page actions
 
@@ -449,20 +389,9 @@ urlbar-result-action-tabtosearch-web = Sairch wi { $engine } straicht fae the ad
 urlbar-result-action-tabtosearch-other-engine = Sairch { $engine } straicht fae the address baur
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Copy
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
-urlbar-searchmode-bookmarks =
-    .label = Buikmerks
-urlbar-searchmode-tabs =
-    .label = Tabs
-urlbar-searchmode-history =
-    .label = Historie
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -553,12 +482,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Hide Buikmerks Toolbaur
            *[other] Kythe Buikmerks Toolbaur
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Remuive Buikmerks Menu fae Toolbaur
-           *[other] Eik On Buikmerks Menu tae Toolbaur
-        }
 
 ##
 
@@ -584,14 +507,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Buikmerks
-library-recent-activity-title =
-    .value = Recent Activity
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Save tae { -pocket-brand-name }
-    .tooltiptext = Save tae { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
@@ -645,8 +560,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = Yaiser nemme
-panel-save-update-password = Passwird
 panel-save-update-username-2 =
     .label = Yaiser nemme
 panel-save-update-password-2 =
@@ -660,24 +573,8 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = Sneck
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = Alloo lowp-ups fur { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Block lowp-ups fur { $uriHost }
-    .accesskey = p
-
 ##
 
-popups-infobar-dont-show-message =
-    .label = Dinnae kythe this message whan lowp-ups are blockit
-    .accesskey = D
-edit-popup-settings =
-    .label = Manage lowp-up settins
-    .accesskey = M
 picture-in-picture-hide-toggle =
     .label = Hide Pictur-in-Pictur Toggle
     .accesskey = H
@@ -691,8 +588,6 @@ navbar-accessible =
     .aria-label = Navigation
 navbar-downloads =
     .label = Doonloads
-navbar-overflow =
-    .tooltiptext = Mair tools…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

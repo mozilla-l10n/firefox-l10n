@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Rakïj ñanj nakàa
-newtab-settings-button =
-    .title = Naduna dàj garan' ruhuât riña ñanj nakàa
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -51,7 +49,6 @@ newtab-search-box-search-button =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = Nutò' a'ngô sa ruguñu'unj ñù' nana'uì'
-newtab-topsites-edit-topsites-header = Nagi'io' sitio yitïnj in
 newtab-topsites-title-label = Rà ñanj
 newtab-topsites-title-input =
     .placeholder = Gachrun' rà ñanj
@@ -90,10 +87,6 @@ newtab-menu-section-tooltip =
 newtab-menu-content-tooltip =
     .aria-label = Na'ni' menu guenda { $title }
     .title = Na'nïn' menû
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Nagi'io' sitio na
-    .title = Nagi'io' sitio na
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -104,16 +97,7 @@ newtab-menu-dismiss = Si gui'iaj guendo'
 newtab-menu-pin = Gachrun'
 newtab-menu-unpin = Si gachrun'
 newtab-menu-delete-history = Dure' riña gaché nu'
-newtab-menu-save-to-pocket = Nanín sa'aj riña { -pocket-brand-name }
-newtab-menu-delete-pocket = Dure' riña { -pocket-brand-name }
-newtab-menu-archive-pocket = Nagi'iaj chre' riña { -pocket-brand-name }
 newtab-menu-show-privacy-info = Nej duguî' rugûñu'unj ni sa tna'uej rayi'ît
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Gà' huaj
-newtab-privacy-modal-header = Ûta ña'an hua sa gaché nu huìt
-newtab-privacy-modal-link = Gini'in dàj 'iaj sun sa dugumîn sò' riña rakïj ñanj nakà nan
 
 ##
 
@@ -154,38 +138,15 @@ newtab-label-download = Ngà nadunin'
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Dure' seksion
-newtab-section-menu-collapse-section = Guxun' seksion
-newtab-section-menu-expand-section = Nagi'iaj yachi' seksion
-newtab-section-menu-manage-section = Dugumin' seksion
-newtab-section-menu-manage-webext = Dugumin' ra'a ma
-newtab-section-menu-add-topsite = Nuto' sitio yitïnj doj
-newtab-section-menu-add-search-engine = Nutò' a'ngô sa ruguñu'unj ñù' nana'uì'
-newtab-section-menu-move-up = Dusiki' gan'an ne' yatá'a
-newtab-section-menu-move-down = Dusiki' gan'an ne' riki
 newtab-section-menu-privacy-notice = Notisia huìi
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Guxun' seksion
-newtab-section-expand-section-label =
-    .aria-label = Nagi'iaj yachi' seksion
 
 ## Section Headers.
 
 newtab-section-header-topsites = Hiuj ni'iaj yitïnj rè'
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Sa hua hue'e taj { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Gayi’ì gachē nunt nī nadigân ñûnj nej sa huā hue’ê doj, gini’iājt nī a’ngô nej pajinâ ni’iāj nakàt doj hiūj nan.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Hua nakà ma. 'Ngà nanikaj ñunt ni nana'uit sa gahuin { $provider }. Si ga'ue gana'uij 'ngà a'. Ganahui 'ngo sa yitïnj doj da' nahuin hue'e si web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -195,14 +156,6 @@ newtab-discovery-empty-section-topstories-try-again-button = A'ngô ñû
 newtab-discovery-empty-section-topstories-loading = Hìaj ayi'ij...
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = ¡'Ò'! Ngà doj gachìn nayi'nïn hiuj nan, sani gàchin doj.
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Sa yitïnj doj:
-newtab-pocket-more-recommendations = A'ngô ne nuguan ni'ñanj huaa
-newtab-pocket-cta-button = Girì' { -pocket-brand-name }
-newtab-pocket-cta-text = Na'nïnj sà' nej nuguan' 'ï ruhuât riña { -pocket-brand-name } ni gataj ni'ñanj rát ngà nej sa gahiat.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

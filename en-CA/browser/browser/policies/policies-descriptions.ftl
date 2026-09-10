@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Prevent the default browser agent from takin
 policy-DisableDeveloperTools = Block access to the developer tools.
 policy-DisableEncryptedClientHello = Disable use of the TLS feature Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Disable commands to send feedback from the Help menu (Submit Feedback and Report Deceptive Site).
-policy-DisableFirefoxAccounts = Disable { -fxaccount-brand-name } based services, including Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Disable account-based services, including sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Don’t remember search and form history.
 policy-DisableLaunchOnLogin = Prevent { -brand-short-name } from launching automatically when the user logs in.
 policy-DisablePrimaryPasswordCreation = If true, a Primary Password can’t be created.
 policy-DisablePasswordReveal = Do not allow passwords to be revealed in saved logins.
-policy-DisablePocket2 = Disable the feature to save webpages to { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Disable Private Browsing.
 policy-DisableProfileImport = Disable the menu command to Import data from another browser.
 policy-DisableProfileRefresh = Disable the Refresh { -brand-short-name } button in the about:support page.
@@ -132,7 +130,6 @@ policy-PDFjs = Disable or configure PDF.js, the built-in PDF viewer in { -brand-
 policy-Permissions2 = Configure permissions for camera, microphone, location, notifications, and autoplay.
 policy-PictureInPicture = Enable or disable Picture-in-Picture.
 policy-PopupBlocking2 = Allow certain websites to display popups and be redirected by third-party frames.
-policy-PopupBlocking = Allow certain websites to display popups by default.
 policy-Preferences = Set and lock the value for a subset of preferences.
 policy-PrivateBrowsingModeAvailability = Set availability of private browsing mode.
 policy-PromptForDownloadLocation = Ask where to save files when downloading.

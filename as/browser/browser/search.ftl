@@ -18,7 +18,7 @@ opensearch-error-download-desc = চিহ্নিত স্থানৰ পৰ
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = ছাৰ্চ ইঞ্জিন যোগ কৰক
     .style = min-width: 32em;
+    .title = ছাৰ্চ ইঞ্জিন যোগ কৰক
 add-engine-button = নিজৰ হিচাপে ইঞ্জিন যোগ কৰক
 add-engine-name = ছাৰ্চ ইঞ্জিনৰ নাম

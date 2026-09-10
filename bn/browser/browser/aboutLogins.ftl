@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = লগইন ও পাসওয়ার্ড
-about-logins-login-filter =
-    .placeholder = লগইন খুঁজুন
-    .key = F
-create-new-login-button =
-    .title = নতুন লগইন তৈরি করুন
 about-logins-page-title-name = পাসওয়ার্ড
 about-logins-login-filter2 =
-    .placeholder = পাসওয়ার্ড অনুসন্ধান
     .key = F
+    .placeholder = পাসওয়ার্ড অনুসন্ধান
 create-login-button =
     .title = পাসওয়ার্ড যোগ করুন
 fxaccounts-sign-in-text = আপনার অন্যান্য ডিভাইসে আপনার পাসওয়ার্ড পান
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = অন্য ব্রাউজার থেকে আমদানি করুন…
 about-logins-menu-menuitem-import-from-a-file = একটি ফাইল থেকে আমদানি করুন…
-about-logins-menu-menuitem-export-logins = সব লগইন রপ্তানি করুন…
-about-logins-menu-menuitem-remove-all-logins = সকল লগইন অপসারণ...
 about-logins-menu-menuitem-export-logins2 = পাসওয়ার্ড এক্সপোর্ট করুন…
 about-logins-menu-menuitem-remove-all-logins2 = সব পাসওয়ার্ড অপসারণ করুন…
 menu-menuitem-preferences =
@@ -42,21 +34,6 @@ about-logins-menu-menuitem-help = সহায়তা
 
 login-list =
     .aria-label = অনুসন্ধানের সাথে লগইন মিলেছে
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } লগ ইন
-       *[other] { $count } লগ ইন
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $total } টির মধ্যে { $count } টি লগইন
-       *[other] { $total } টির মধ্যে { $count } টি লগইন
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -80,14 +57,10 @@ login-list-username-reverse-option = ব্যবহারকারীর না
 about-logins-login-list-alerts-option = সতর্কবার্তা
 login-list-last-changed-option = সর্বশেষ পরিবর্তিত
 login-list-last-used-option = সর্বশেষ ব্যবহৃত
-login-list-intro-title = কোন লগ ইন পাওয়া যায়নি
 login-list-intro-title2 = কোন পাসওয়ার্ড সংরক্ষিত নেই
 login-list-intro-description = আপনি যখন { -brand-product-name } এ পাসওয়ার্ড সরক্ষণ করবেন, তা এখানে প্রদর্শিত হবে।
-about-logins-login-list-empty-search-title = কোনও লগইন পাওয়া যায়নি
 about-logins-login-list-empty-search-title2 = কোন পাসওয়ার্ড পাওয়া যায়নি
 about-logins-login-list-empty-search-description = আপনার অনুসন্ধানের সাথে কোনও কিছু মিলছে না।
-login-list-item-title-new-login = নতুন লগইন
-login-list-item-subtitle-new-login = আপনার লগইন পরিচয়পত্র লিখুন
 login-list-item-title-new-login2 = পাসওয়ার্ড যোগ করুন
 login-list-item-subtitle-missing-username = (কোনও ব্যবহারকারীর নাম নেই)
 about-logins-list-item-breach-icon =
@@ -103,28 +76,20 @@ about-logins-list-section-week = গত 7 দিন
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = আপনার সংরক্ষিত লগইনগুলি সন্ধান করছেন? সিঙ্ক চালু করুন বা সেগুলি আমদানি করুন।
-about-logins-login-intro-heading-logged-in = সিংক হওয়া কোনো লগইন পাওয়া যায়নি।
-login-intro-description = আপনি যদি ভিন্ন কোন ডিভাইসের { -brand-product-name } এ আপনার লগইন সমূহ সংরক্ষণ করে থাকেন, তাহলে সেগুলো এখানে কিভাবে পাবেন, সেটি রয়েছে এখানে:
-login-intro-instructions-fxa = আপনার লগইনগুলি যেখানে সংরক্ষিত আছে সেই ডিভাইসে আপনার { -fxaccount-brand-name } তৈরি করুন বা সাইন ইন করুন৷
 about-logins-login-intro-heading-message = একটি নিরাপদ স্থানে আপনার পাসওয়ার্ড সংরক্ষণ করুন
 login-intro-description2 = আপনি { -brand-product-name } এ যে সব পাসওয়ার্ড সংরক্ষণ করেন সেগুলি এনক্রিপ্ট করা হয়৷ এছাড়াও, আমরা লঙ্ঘনের দিকে নজর রাখি এবং আপনি আক্রান্ত হলে আপনাকে সতর্ক করি। <a data-l10n-name="breach-alert-link">আরো জানুন</a>
 login-intro-instructions-fxa2 = আপনার লগইন সমূহ যেই ডিভাইসে সংরক্ষিত আছে সেখানে সাইন ইন করুন অথবা নতুন একাউন্ট তৈরি করুন।
 login-intro-instructions-fxa-settings = সেটিংস > সিঙ্ক > সিঙ্কিং চালু করুন... লগইন এবং পাসওয়ার্ড চেকবক্স নির্বাচন করুন।
 login-intro-instructions-fxa-passwords-help = আরও সহায়তার  জন্য <a data-l10n-name="passwords-help-link">পাসওয়ার্ড সমর্থন</a> দেখুন।
-about-logins-intro-browser-only-import = যদি আপনার লগইনগুলি অন্য ব্রাউজারে সংরক্ষিত থাকে, তাহলে আপনি <a data-l10n-name="import-link">সেগুলি { -brand-product-name }-এ আমদানি করতে পারেন</a>
-about-logins-intro-import2 = যদি আপনার লগইনগুলি { -brand-product-name }-এর বাইরে সংরক্ষিত থাকে, তাহলে আপনি <a data-l10n-name="import-browser-link">এগুলি অন্য একটি ব্রাউজার থেকে</a> অথবা <a data-l10n-name="import-file-link">একটি ফাইল থেকে</a> নিয়ে আসতে পারেন
 about-logins-intro-import3 = এখন একটি পাসওয়ার্ড যোগ করতে উপরের প্লাস সাইন বোতামটি নির্বাচন করুন। এছাড়াও আপনি <a data-l10n-name="import-browser-link"> ব্রাউজার থেকে পাসওয়ার্ড আমদানি করতে পারেন</a> অথবা <a data-l10n-name="import-file-link">একটি ফাইল থেকে</a>
 
 ## Login
 
-login-item-new-login-title = নতুন লগইন তৈরি করুন
 # Header for adding a password
 about-logins-login-item-new-login-title = পাসওয়ার্ড যোগ করুন
 login-item-edit-button = সম্পাদনা
 about-logins-login-item-remove-button = অপসারণ
 login-item-origin-label = ওয়েবসাইটের ঠিকানা
-login-item-tooltip-message = নিশ্চিত করুন যে এটি আপনি যে ওয়েবসাইটে লগ ইন করেছেন তার সঠিক ঠিকানার সাথে মেলে।
 about-logins-origin-tooltip2 = সম্পূর্ণ ঠিকানা লিখুন এবং নিশ্চিত করুন যে আপনি যেখানে সাইন ইন করেছেন তার সাথে এটির সঠিক মিল।
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -144,7 +109,6 @@ login-item-password-conceal-checkbox =
     .aria-label = পাসওয়ার্ড লুকান
 login-item-copy-password-button-text = অনুলিপি
 login-item-copied-password-button-text = অনুলিপি করা হয়েছে!
-login-item-save-changes-button = পরিবর্তন সংরক্ষণ
 about-logins-login-item-save-changes-button = সংরক্ষণ
 login-item-save-new-button = সংরক্ষণ
 login-item-cancel-button = বাতিল
@@ -168,11 +132,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = আপনার লগইন সম্পাদনা করতে, আপনার উইন্ডোজের শংসাপত্র লিখুন। এটি আপনার অ্যাকাউন্টের নিরাপত্তা রক্ষা করতে সহায়তা করে।
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = সংরক্ষিত লগইন সম্পাদনা করুন
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -196,11 +155,6 @@ about-logins-copy-password-os-auth-dialog-message-win = আপনার পা�
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = সংরক্ষিত পাসওয়ার্ড অনুলিপি করুন
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = আপনার লগইন রপ্তানি করতে, আপনার উইন্ডোজের শংসাপত্র লিখুন। এটি আপনার অ্যাকাউন্টের নিরাপত্তা রক্ষা করতে সহায়তা করে।
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = সংরক্ষিত লগইন ও পাসওয়ার্ড রপ্তানি করুন
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = আপনার পাসওয়ার্ড এক্সপোর্ট করতে, আপনার Windows লগইন বৃত্তান্ত লিখুন। এটি আপনার অ্যাকাউন্টের নিরাপত্তা রক্ষা করতে সাহায্য করে।
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -218,8 +172,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = বাতিল
 confirmation-dialog-dismiss-button =
     .title = বাতিল
-about-logins-confirm-remove-dialog-title = লগইনটি মুছে ফেলবেন?
-confirm-delete-dialog-message = এই পরিবর্তনটি অপরিবর্তনীয়!
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = পাসওয়ার্ড অপসারণ করবেন?
 # Message for modal to confirm the removal of one saved password
@@ -234,34 +186,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] সরান
         [one] একটি সরান
        *[other] সব সরান
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] হ্যাঁ, এই লগইন সরান
-        [one] হ্যাঁ, এই লগইন সরান
-       *[other] হ্যাঁ, এই লগইনগুলি সরান
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] { $count } টি লগইন মুছে ফেলতে চান?
-       *[other] { $count } টির সবগুলো লগইন মুছে ফেলতে চান?
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] এটি আপনি { -brand-short-name }-এ যে লগইন সংরক্ষণ করেছেন তা এবং যেকোন ত্রুটির সতর্কবার্তা মুছে ফেলবে। আপনি আর পূর্বের অবস্থায় ফিরে যেতে পারবেন না।
-        [one] এটি আপনি { -brand-short-name }-এ যে লগইন সংরক্ষণ করেছেন তা এবং যেকোন ত্রুটির সতর্কবার্তা মুছে ফেলবে। আপনি আর পূর্বের অবস্থায় ফিরে যেতে পারবেন না।
-       *[other] এটি আপনি { -brand-short-name }-এ যে লগইন গুলো সংরক্ষণ করেছেন তা এবং যেকোন ত্রুটির সতর্কবার্তা মুছে ফেলবে। আপনি আর পূর্বের অবস্থায় ফিরে যেতে পারবেন না।
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] সমস্ত ডিভাইস থেকে সমস্ত { $count } লগইন মুছে ফেলবেন?
-       *[other] সমস্ত ডিভাইস থেকে সমস্ত { $count } লগইনগুলো মুছে ফেলবেন?
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [1] এটি আপনার { -fxaccount-brand-name } এর সাথে sync করা সকল ডিভাইসে { -brand-short-name }-এ সংরক্ষিত লগইন মুছে ফেলবে এবং ত্রুটি সতর্কবার্তা গুলোও মুছে ফেলবে। আপনি আগের অবস্থায় ফিরে যেতে পারবেন না।
-        [one] এটি আপনার { -fxaccount-brand-name } এর সাথে sync করা সকল ডিভাইসে { -brand-short-name }-এ সংরক্ষিত লগইন মুছে ফেলবে এবং ত্রুটি সতর্কবার্তা গুলোও মুছে ফেলবে। আপনি আগের অবস্থায় ফিরে যেতে পারবেন না।
-       *[other] এটি আপনার { -fxaccount-brand-name } এর সাথে sync করা সকল ডিভাইসে { -brand-short-name }-এ সংরক্ষিত লগইন গুলো মুছে ফেলবে এবং ত্রুটি সতর্কবার্তা গুলোও মুছে ফেলবে। আপনি আগের অবস্থায় ফিরে যেতে পারবেন না।
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -299,15 +223,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = লগইন এবং পাসওয়ার্ড রপ্তানি করুন
-about-logins-confirm-export-dialog-message = আপনার পাসওয়ার্ড পাঠযোগ্য টেক্সট হিসাবে সংরক্ষণ করা হবে, সুতরাং ফাইলটি কেহ খুলতে পারলে পাসওয়ার্ড দেখতে পাবে
-about-logins-confirm-export-dialog-confirm-button = রপ্তানি করুন…
 about-logins-confirm-export-dialog-title2 = পাসওয়ার্ড এক্সপোর্ট সম্পর্কিত একটি নোট
 about-logins-confirm-export-dialog-message2 =
     যখন আপনি আপনার পাসওয়ার্ড এক্সপোর্ট করেন, তখন পাঠযোগ্য টেক্সট হিসেবে একটি ফাইলে সেগুলো সংরক্ষণ করা হয়।
     আপনি যখন ফাইলটি ব্যবহার করে ফেলেন, আমরা পরামর্শ দেই এটিকে মুছে ফেলার যাতে এই একই ডিভাইস ব্যবহারকারী অন্যেরা আপনার পাসওয়ার্ড দেখতে বা জেনে যেতে না পারে৷
 about-logins-confirm-export-dialog-confirm-button2 = এক্সপোর্ট চালিয়ে যান
-about-logins-alert-import-title = আমদানি সম্পূর্ণ হয়েছে
 about-logins-alert-import-message = বিস্তারিত আমদানির সারাংশ দেখুন
 confirm-discard-changes-dialog-title = সংরক্ষিত পরিবর্তনগুলো বাতিল করতে চান?
 confirm-discard-changes-dialog-message = সংরক্ষিত সকল পরিবর্তনগুলো হারিয়ে যাবে।
@@ -344,11 +264,6 @@ about-logins-error-message-default = এই পাসওয়ার্ডটি
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = লগ ইন ফাইল রপ্তানি করুন
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = logins.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = { -brand-short-name } থেকে পাসওয়ার্ড এক্সপোর্ট করুন
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -364,8 +279,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = লগইন ফাইল আমদানি করুন
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = { -brand-short-name }-এ পাসওয়ার্ড ইমপোর্ট করুন
 about-logins-import-file-picker-import-button = আমদানি করুন
@@ -389,21 +302,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = আমদানি সম্পূর্ণ হয়েছে
-about-logins-import-dialog-items-added =
-    { $count ->
-        [one] <span>নতুন লগইন যোগ করা হয়েছে:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>নতুন লগইন যোগ করা হয়েছে:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-        [one] <span>বিদ্যমান লগইন হালনাগাদ করা হয়েছে:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>বিদ্যমান লগইনগুলো হালনাগাদ করা হয়েছে:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-        [one] <span>ডুপ্লিকেট লগইন পাওয়া গেছেঃ</span><span data-l10n-name="count">{ $count }-টি</span><span data-l10n-name="meta">(আমদানি করা হয়নি)</span>
-       *[other] <span>ডুপ্লিকেট লগইন পাওয়া গেছেঃ</span><span data-l10n-name="count">{ $count }-টি</span><span data-l10n-name="meta">(আমদানি করা হয়নি)</span>
-    }
 about-logins-import-dialog-items-added2 =
     { $count ->
         [one] <span>নতুন পাসওয়ার্ড যোগ করা হয়েছে:</span> <span data-l10n-name="count">{ $count }টি</span>
@@ -439,15 +337,11 @@ about-logins-import-dialog-error-learn-more = অধিক জানুন
 about-logins-import-dialog-error-try-import-again = আবার আমদানির চেষ্টা করুন…
 about-logins-import-dialog-error-cancel = বাতিল করুন
 about-logins-import-report-title = আমদানির সারাংশ
-about-logins-import-report-description = লগইন এবং পাসওয়ার্ড { -brand-short-name } এ আমদানি করা হয়েছে।
 about-logins-import-report-description2 = পাসওয়ার্ড সমূহ { -brand-short-name }-এ আমদানি করা হয়েছে৷
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = সারি { $number }
-about-logins-import-report-row-description-no-change = সদৃশ: বিদ্যমান লগইনের সঠিক মিল
-about-logins-import-report-row-description-modified = বিদ্যমান লগইন আপডেট করা হয়েছে
-about-logins-import-report-row-description-added = নতুন লগইন যোগ করা হয়েছে
 about-logins-import-report-row-description-no-change2 = হুবহু: বিদ্যমান এনট্রির সাথে হুবহু মিল
 about-logins-import-report-row-description-modified2 = বিদ্যমান এনট্রি আপডেট করা হয়েছে
 about-logins-import-report-row-description-added2 = নতুন পাসওয়ার্ড যোগ করা হয়েছে
@@ -464,21 +358,6 @@ about-logins-import-report-row-description-error-missing-field = ত্রুট
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }টি</div> <div data-l10n-name="details">নতুন লগইন যোগ করা হয়েছে</div>
-       *[other] <div data-l10n-name="count">{ $count }টি</div> <div data-l10n-name="details">নতুন লগইন যোগ করা হয়েছে</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }-টি</div> <div data-l10n-name="details">বিদ্যমান লগইন হালনাগাদ করা হয়েছে</div>
-       *[other] <div data-l10n-name="count">{ $count }-টি</div> <div data-l10n-name="details">বিদ্যমান লগইন হালনাগাদ করা হয়েছে</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }-টি</div> <div data-l10n-name="details">ডুপ্লিকেট লগইন</div> <div data-l10n-name="not-imported">(আমদানি করা হয়নি)</div>
-       *[other] <div data-l10n-name="count">{ $count }-টি</div> <div data-l10n-name="details">ডুপ্লিকেট লগইন</div> <div data-l10n-name="not-imported">(আমদানি করা হয়নি)</div>
-    }
 about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">নতুন পাসওয়ার্ড যোগ করা হয়েছে</div>

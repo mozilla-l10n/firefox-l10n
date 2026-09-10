@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = Wyczyść historię
 sidebar-history-sort-by-heading-menucaption =
     .label = Sortuj według:
-sidebar-history-sort-by-heading = Sortuj według:
 sidebar-history-sort-option-date =
     .label = Data
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Rozszerzenia panelu bocznego
-sidebar-customize-firefox-tools-header =
-    .label = Narzędzia { -brand-product-name(case: "gen") }
 sidebar-customize-firefox-settings = Ustawienia { -brand-short-name(case: "gen") }
 sidebar-vertical-tabs =
     .label = Karty pionowe
 sidebar-settings2 =
     .label = Ustawienia
-sidebar-settings =
-    .label = Ustawienia panelu bocznego
 sidebar-hide-tabs-and-sidebar =
     .label = Ukryj karty i panel boczny
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Zarządzaj rozszerzeniem
-sidebar-context-menu-remove-extension =
-    .label = Usuń rozszerzenie
 sidebar-context-menu-report-extension =
     .label = Zgłoś rozszerzenie
 sidebar-context-menu-open-in-tab =

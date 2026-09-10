@@ -29,4 +29,3 @@ proxyConnectFailure-title = Kompyuta enfuga zinayo egaanyi obuyunzi
 proxyResolveFailure-title = Tesobodde kuzuula kompyuta effuga zinayo
 redirectLoop-title = Omuko guno tegulagirira bulungi
 unknownSocketType-title = Engabirizi ezemu nga tekissubirwa
-corruptedContentError-title = Ensobi Mubyomunda Ebicupudwa

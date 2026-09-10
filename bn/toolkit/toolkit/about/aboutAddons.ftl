@@ -129,15 +129,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = নিরাপদ মোড এর সাহায্যে সব অ্যাড-অন নিস্ক্রিয়।
-extensions-warning-check-compatibility = অ্যাড-অনের উপযুক্ততা পরীক্ষা নিস্ক্রিয়। আপনার অ্যাড-অন অনুপোযুক্ত হতে পারে।
-extensions-warning-safe-mode2 =
-    .message = নিরাপদ মোড এর সাহায্যে সব অ্যাড-অন নিস্ক্রিয়।
 extensions-warning-check-compatibility2 =
     .message = অ্যাড-অনের উপযুক্ততা পরীক্ষা নিস্ক্রিয়। আপনার অ্যাড-অন অনুপোযুক্ত হতে পারে।
 extensions-warning-check-compatibility-button = সক্রিয়
     .title = অ্যাড-অনের উপযুক্ততা পরীক্ষা সক্রিয়
-extensions-warning-update-security = অ্যাড-অন হালনাগাদকরন পরীক্ষা নিস্ক্রিয়। আপনি সম্ভবত হালনাগাদকরনের সাথে আপোষ করে নিয়েছেন।
 extensions-warning-update-security2 =
     .message = অ্যাড-অন হালনাগাদকরন পরীক্ষা নিস্ক্রিয়। আপনি সম্ভবত হালনাগাদকরনের সাথে আপোষ করে নিয়েছেন।
 extensions-warning-update-security-button = সক্রিয়
@@ -200,10 +195,6 @@ shortcuts-duplicate = সদৃশ শর্টকাট
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } একাধিক ক্ষেত্রে শর্টকাট হিসাবে ব্যবহৃত হচ্ছে। সদৃশ শর্টকাটগুলি অপ্রত্যাশিত আচরণের কারণ হতে পারে।
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } একাধিক ক্ষেত্রে শর্টকাট হিসাবে ব্যবহৃত হচ্ছে। সদৃশ শর্টকাটগুলি অপ্রত্যাশিত আচরণের কারণ হতে পারে।
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -223,18 +214,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    এক্সটেনশন এবং থীমগুলি আপনার ব্রাউজারের অ্যাপের মত, এবং এদের মাধ্যমে আপনি 
-    পাসওয়ার্ড সুরক্ষা, ভিডিও ডাউনলোড, ডিল খোঁজা, বিরক্তিকর অ্যাড ব্লক করা, ব্রাউজারের চেহারা 
-    বদলসহ আরও অনেক কিছু করতে পারেন। এইসব ছোট ছোট সফটওয়্যার প্রোগ্রাম অনেক সময়
-    তৃতীয় কারও দ্বারা তৈরি করা হয়। অসাধারণ নিরাপত্তা, কর্মক্ষমতা এবং কার্যকারিতার জন্য এখানে 
-    { -brand-product-name } <a data-l10n-name="learn-more-trigger">সুপারিশ</a>।
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    এর মধ্যে কিছু সুপারিশ পারসোনালাইজ সম্পর্কিত। এদের ভিত্তি অন্য
-     যেসব এক্সটেনশন আপনি ইন্সটল করেছেন, আপনার প্রোফাইল পছন্দসমূহ এবং ব্যাবহারের পরিসংখ্যান।
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -298,15 +277,8 @@ addon-detail-last-updated-label = সর্বশেষ হালনাগাদ
 addon-detail-homepage-label = হোমপেজ
 addon-detail-rating-label = রেটিং
 # Message for add-ons with a staged pending update.
-install-postponed-message = { -brand-short-name } পুনরাম্ভ হলে এই এক্সটেনশনটি হালনাগাদ করা হবে।
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = { -brand-short-name } পুনরাম্ভ হলে এই এক্সটেনশনটি হালনাগাদ করা হবে।
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = 5 এর ভেতর মান { NUMBER($rating, maximumFractionDigits: 1) }
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -324,9 +296,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> বাতিল করে দেয়া হয়েছে।
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = { $addon } বাতিল করে দেয়া হয়েছে।
 pending-uninstall-undo-button = পূর্বাবস্থায় ফিরে যান
@@ -340,21 +309,9 @@ install-update-button = হালনাগাদ
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
     .title = ব্যক্তিগত উইন্ডোতে অনুমোদিত
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
-    .title = ব্যক্তিগত উইন্ডোতে অনুমোদিত
 addon-detail-private-browsing-help = অনুমতি পেলে, প্রাইভেট ব্রাউজ করার সময় এই এক্সটেনশনে আপনার অনলাইন কার্যতালিকা পাবে। <a data-l10n-name="learn-more">আরো জানুন</a>
 addon-detail-private-browsing-allow = অনুমতি দাও
 addon-detail-private-browsing-disallow = অনুমতি দিও না
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } কেবলমাত্র সেই সব এক্সটেনশনকে সুপারিশ করা হয় যা সুরক্ষা এবং কার্যক্ষমতার দিক দিয়ে আমাদের মানদণ্ড পূরণ করে
 
 ##
 
@@ -362,7 +319,6 @@ available-updates-heading = বিদ্যমান হালনাগাদ
 recent-updates-heading = সাম্প্রতিক হালনাগাদ
 release-notes-loading = লোডিং…
 release-notes-error = দুঃখিত, রিলিজ নোট লোড করার সময় ত্রুটি হয়েছিল।
-addon-permissions-empty = এই এক্সটেনশনের জন্য কোনো অনুমতির প্রয়োজন নেই
 recommended-extensions-heading = প্রস্তাবিত এক্সটেনশনগুলি
 recommended-themes-heading = প্রস্তাবিত থিমস
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
@@ -390,24 +346,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } ,{ -brand-short-name } { $version } এর জন্য উপযুক্ত।
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } ,{ -brand-short-name } { $version } এর জন্য উপযুক্ত।
-details-notification-unsigned-and-disabled = { $name } যাচাই করা গেল না { -brand-short-name } তে ব্যবহারের জন্য, এবং নিস্ক্রিয় করে দেওয়া হয়েছে।
 details-notification-unsigned-and-disabled2 =
     .message = { $name } যাচাই করা গেল না { -brand-short-name } তে ব্যবহারের জন্য, এবং নিস্ক্রিয় করে দেওয়া হয়েছে।
-details-notification-unsigned-and-disabled-link = আরও তথ্য
-details-notification-unsigned = { $name } যাচাই করা গেল না { -brand-short-name } তে ব্যবহারের জন্য, সতর্কতার সাথে আগান।
 details-notification-unsigned2 =
     .message = { $name } যাচাই করা গেল না { -brand-short-name } তে ব্যবহারের জন্য, সতর্কতার সাথে আগান।
-details-notification-unsigned-link = আরও তথ্য
-details-notification-blocked = নিরাপত্তা ও স্থায়ীত্বজনিত কারণে { $name } নিস্ক্রিয় করা হয়েছে।
-details-notification-blocked-link = আরও তথ্য
-details-notification-softblocked = নিরাপত্তা ও স্থায়ীত্বজনিত ত্রুটির জন্য { $name } দায়ী।
-details-notification-softblocked-link = আরও তথ্য
-details-notification-gmp-pending = { $name } খুব শ্রীঘ্রই ইন্সটল করা হবে।
 details-notification-gmp-pending2 =
     .message = { $name } খুব শ্রীঘ্রই ইন্সটল করা হবে।
 

@@ -5,9 +5,6 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = S'ha ninviau l'informe. Gracias!
-confirmation-hint-login-removed = S'ha eliminau l'inicio de sesión.
-confirmation-hint-password-saved = Password saved!
 confirmation-hint-pin-tab = Clavau!
 confirmation-hint-pin-tab-description = Fe clic en a pestanya pa desclavar-la.
 confirmation-hint-send-to-device = Ninviada!

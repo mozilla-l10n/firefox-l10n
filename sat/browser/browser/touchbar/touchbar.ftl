@@ -31,4 +31,3 @@ search-bookmarks = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 search-history = ᱱᱟᱜᱟᱢ
 search-opentabs = ᱡᱷᱤᱡᱽ ᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ
 search-tags = ᱛᱚᱞ ᱠᱚ
-search-titles = ᱧᱩᱛᱩᱢ ᱠᱚ

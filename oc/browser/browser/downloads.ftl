@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Mostrar dins Finder
            *[other] Mostrar dins lo dossièr
         }
-downloads-cmd-show-downloads =
-    .label = Mostrar lo dossièr dels telecargaments
 downloads-cmd-retry =
     .tooltiptext = Tornar ensajar
 downloads-cmd-retry-panel =

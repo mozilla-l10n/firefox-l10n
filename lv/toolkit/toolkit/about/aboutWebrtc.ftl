@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = saglabāt about:webrtc kā
 about-webrtc-aec-logging-msg-label = AEC žurnalēšana
 about-webrtc-aec-logging-off-state-label = Sākt AEC žurnalēšanu
 about-webrtc-aec-logging-on-state-label = Pārtraukt AEC žurnalēšanu
-about-webrtc-aec-logging-on-state-msg = AEC žurnalēšana ir ieslēgta (runā ar zvanītāju dažas minūtes un tad apturi ierakstīšanu)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC žurnalēšana ir ieslēgta (runā ar zvanītāju dažas minūtes un tad apturi ierakstīšanu)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -77,17 +76,9 @@ about-webrtc-nominated = Nominēts
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Izvēlēts
 about-webrtc-save-page-label = Saglabāt lapu
-about-webrtc-debug-mode-msg-label = Atkļūdošanas režīms
-about-webrtc-debug-mode-off-state-label = Sākt atkļūdošanas režīmu
-about-webrtc-debug-mode-on-state-label = Apturēt atkļūdošanas režīmu
-about-webrtc-stats-heading = Sesijas statistika
 about-webrtc-stats-clear = Notīrīt vēsturi
 about-webrtc-log-heading = Savienojuma žurnāls
 about-webrtc-log-clear = Notīrīt ierakstus
-about-webrtc-log-show-msg = parādīt žurnālu
-    .title = klikšķiniet, lai izvērstu šo daļu
-about-webrtc-log-hide-msg = paslēpt žurnālu
-    .title = klikšķiniet, lai sakļautu šo daļu
 about-webrtc-log-section-show-msg = Parādīt žurnālu
     .title = Klikšķiniet, lai izvērstu šo daļu
 about-webrtc-log-section-hide-msg = Paslēpt žurnālu
@@ -110,19 +101,11 @@ about-webrtc-remote-candidate = Attālinātais kandidāts
 about-webrtc-raw-candidates-heading = Visi neapstrādātie kandidāti
 about-webrtc-raw-local-candidate = Neapstrādāti lokālie kandidāti
 about-webrtc-raw-remote-candidate = Neapstrādāti attālinātie kandidāti
-about-webrtc-raw-cand-show-msg = rādīt neapstrādātos kandidātus
-    .title = klikšķiniet, lai izvērstu šo daļu
-about-webrtc-raw-cand-hide-msg = paslēpt neapstrādātos kandidātus
-    .title = klikšķiniet, lai sakļautu šo daļu
 about-webrtc-raw-cand-section-show-msg = Rādīt neapstrādātos kandidātus
     .title = Klikšķiniet, lai izvērstu šo daļu
 about-webrtc-raw-cand-section-hide-msg = Paslēpt neapstrādātos kandidātus
     .title = Klikšķiniet, lai sakļautu šo daļu
 about-webrtc-priority = Prioritāte
-about-webrtc-fold-show-msg = Parādīt sīkāku informāciju
-    .title = klikšķiniet, lai izvērstu šo daļu
-about-webrtc-fold-hide-msg = slēpt detaļas
-    .title = klikšķiniet, lai sakļautu šo daļu
 about-webrtc-fold-default-show-msg = Parādīt sīkāku informāciju
     .title = Klikšķiniet, lai izvērstu šo daļu
 about-webrtc-fold-default-hide-msg = Slēpt detaļas
@@ -132,10 +115,6 @@ about-webrtc-encoder-label = Kodētājs
 
 ##
 
-about-webrtc-save-page-msg = lapa saglabāta: { $path }
-about-webrtc-debug-mode-off-state-msg = atkļūdošanas žurnāls pieejams: { $path }
-about-webrtc-debug-mode-on-state-msg = atkļūdošanas režīms aktīvs, žurnāls pieejams: { $path }
-about-webrtc-aec-logging-off-state-msg = pierakstītās žurnalēšanas datnes var atrast: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

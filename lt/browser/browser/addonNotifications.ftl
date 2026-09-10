@@ -26,22 +26,10 @@ xpinstall-prompt-never-allow =
 xpinstall-prompt-install =
     .label = Tęsti diegimą
     .accesskey = T
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = Programinės įrangos diegimas neleidžiamas jūsų sistemos administratoriaus.
 xpinstall-disabled = Programinės įrangos automatinis diegimas šiuo metu neleidžiamas. Jei norite leisti, spustelėkite „Leisti“ ir bandykite vėl.
 xpinstall-disabled-button =
     .label = Leisti
     .accesskey = L
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = Jūsų sistemos administratorius yra užblokavęs „{ $addonName }“ ({ $addonId }).
 addon-install-full-screen-blocked = Priedų diegimas yra neleidžiamas esant viso ekrano veiksenoje, arba prieš pareinant į ją.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -55,9 +43,6 @@ webext-perms-update-menu-item = „{ $addonName }“ reikalauja naujų leidimų
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Pašalinti „{ $name }“?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Pašalinti „{ $name }“ iš „{ -brand-shorter-name }“?
 addon-removal-button = Pašalinti
 addon-removal-abuse-report-checkbox = Pranešti apie šį priedą į „{ -vendor-short-name }“
 # Variables:
@@ -117,4 +102,3 @@ addon-local-install-error-not-signed = Priedo nepavyko įdiegti, nes jis nėra p
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Priedas „{ $addonName }“ neįdiegtas, nes jis nesuderinamas su „{ -brand-short-name } { $appVersion }“.
-addon-install-error-blocklisted = Priedas „{ $addonName }“ neįdiegtas, nes yra didelė tikimybe, kad jis sukeltų stabilumo ar saugumo problemų.

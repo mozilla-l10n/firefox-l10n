@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Váš predvolený vyhľadávač bol zmenený.</strong> { $oldEngine } už nie je k dispozícii ako predvolený vyhľadávač prehliadača { -brand-short-name }. Vašim predvoleným vyhľadávačom je teraz { $newEngine }. Ak chcete prejsť na iný predvolený vyhľadávač, prejdite do nastavení. <label data-l10n-name="remove-search-engine-article">Ďalšie informácie</label>
 removed-search-engine-message2 = <strong>Váš predvolený vyhľadávač bol zmenený.</strong> { $oldEngine } už nie je k dispozícii ako predvolený vyhľadávač prehliadača { -brand-short-name }. Vašim predvoleným vyhľadávačom je teraz { $newEngine }. Ak chcete prejsť na iný predvolený vyhľadávač, prejdite do nastavení.
 remove-search-engine-button = OK
 
@@ -52,11 +51,11 @@ install-search-engine-no = Nie
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Pridať vyhľadávač
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Upraviť vyhľadávač
     .style = min-width: 32em;
+    .title = Upraviť vyhľadávač
 add-engine-button = Pridať vlastný vyhľadávač
 add-engine-name = Názov vyhľadávača
 add-engine-url2 = Adresa URL s %s namiesto hľadaného výrazu
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Skúste namiesto hľadaného výrazu zadať
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Pridať vyhľadávač
-    .buttonaccesskeyaccept = P
     .buttonlabelextra1 = Rozšírené
+    .buttonaccesskeyaccept = P
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Uložiť vyhľadávač
-    .buttonaccesskeyaccept = U
     .buttonlabelextra1 = Rozšírené
+    .buttonaccesskeyaccept = U

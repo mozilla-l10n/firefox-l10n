@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = تساں فی الحال FIPS موڈ وِ�
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = منڈھلا پاس ورڈ ری سیٹ کرو
     .style = min-width: 40em
+    .title = منڈھلا پاس ورڈ ری سیٹ کرو
 reset-password-button-label =
     .label = ولدا ٹھیک کرو
 reset-primary-password-text = جے تساں اپݨا منڈھلا پاس ورڈ دوبارہ ترتیب ݙیندے او، تاں تہاݙے تمام ذخیرہ شدہ ویب تے ای میل پاس ورڈز، ذاتی سرٹیفکیٹس، تے نجی کنجیاں بھل ویسن۔ کیا تساں واقعی اپݨا منڈھلا پاس ورڈ دوبارہ ترتیب ݙیوݨ چاہندے او؟
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = تہاݙا منڈھلا پاس ور
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = سرٹیفکیٹ ڈاؤن لوڈ تھیندا پیا ہے
     .style = min-width: 46em
+    .title = سرٹیفکیٹ ڈاؤن لوڈ تھیندا پیا ہے
 download-cert-message = تہاکوں ہک نویں سرٹیفکیٹ اتھارٹی (CA) تے بھروسہ کرݨ کیتے آکھیا ڳیا ہے۔
 download-cert-trust-ssl =
     .label = ویب سائٹاں دی سنڄاݨ کیتے ایں CA تے بھروسہ کرو۔
@@ -52,8 +52,6 @@ download-cert-view-text = CA سرٹیفکیٹ دا معائنہ کرو
 
 client-auth-window =
     .title = صارف دی سنڄاݨ دی درخواست
-client-auth-site-description = ایں سائٹ درخواست کیتی ہے جو تساں ہک سرٹیفکیٹ دے نال اپݨی سنڄاݨ کرو:
-client-auth-choose-cert = سنڄاݨ دے طور تے پیش کرݨ کیتے ہک سرٹیفکیٹ دا انتخاب کرو:
 client-auth-send-no-certificate =
     .label = سرٹیفکیٹ نہ بھیڄو
 # Variables:
@@ -93,9 +91,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = سرٹیفکیٹ بیک اپ پاس ورڈ (دوبارہ):
 set-password-reminder = اہم: جے تساں اپݨا سرٹیفکیٹ بیک اپ پاس ورڈ بھل ویندے او، تاں تساں بعد وِچ ایں بیک اپ کوں بحال نہ کر سڳسو۔ براہ مہربانی اینکوں محفوظ مقام تے ریکارڈ کرو۔
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = براہ مہربانی ٹوکن "{ $tokenName }" دی تصدیق کرو۔ ایویں کرݨ دا طریقہ ٹوکن تے منحصر ہے (مثال دے طور تے، فنگر پرنٹ ریڈر استعمال کرݨ یا کی پیڈ دے نال کوڈ داخل کرݨ)۔

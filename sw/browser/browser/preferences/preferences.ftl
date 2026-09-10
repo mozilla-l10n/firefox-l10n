@@ -3,17 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pane-general-title = Ya kawaida
-category-general =
-    .tooltiptext = { pane-general-title }
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 focus-search =
     .key = f
 close-button =
@@ -27,11 +18,8 @@ should-restart-title = Washa upya { -brand-short-name }
 
 ## General Section
 
-startup-header = Uwashaji
-is-default = { -brand-short-name } kwa sasa ni kivinjari chako msingi
 tabs-group-header2 =
     .label = Vichupo
-tabs-group-header = Vichupo
 show-tabs-in-taskbar =
     .label = Onyesha vihakiki vya kichupo katika mwambaa wa kazi wa Windows
     .accesskey = m
@@ -40,9 +28,6 @@ startup-group =
 
 ## General Section - Language & Appearance
 
-advanced-fonts =
-    .label = Yaliyopandishwa daraja…
-    .accesskey = Y
 choose-language-description = Chagua lugha unayopendelea ya kuonyesha kurasa
 choose-button =
     .label = Chagua…
@@ -57,20 +42,6 @@ download-save-files-header =
     .label = Hifadhi faili kwa
 download-save-where-3 =
     .aria-label = Hifadhi faili kwa
-download-header = Hupakia
-download-save-where = Hifadhi faili kwa
-    .accesskey = f
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Chagua…
-           *[other] Vinjari…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] a
-           *[other] n
-        }
 applications-type-column =
     .label = Yaliyomo Aina
     .accesskey = A
@@ -103,17 +74,11 @@ applications-always-ask =
 #   $type-description (string) - Description of the type (e.g "Portable Document Format")
 #   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Tumia { $plugin-name } (kwa { -brand-short-name })
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -125,12 +90,6 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-## Firefox updates
-
-update-application-use-service =
-    .label = Tumia huduma ya usuli ili kusakinisha visasisho
-    .accesskey = s
-
 ## General Section - Performance
 
 performance-allow-hw-accel =
@@ -139,7 +98,6 @@ performance-allow-hw-accel =
 
 ## Accessibility page
 
-browsing-title = Kuvinjari
 browsing-use-autoscroll =
     .label = Tumia kubingiriza kiotomatiki
     .accesskey = k
@@ -151,12 +109,6 @@ browsing-use-cursor-navigation =
     .accesskey = u
 browsing-group =
     .label = Kuvinjari
-
-## General Section - Proxy
-
-network-proxy-connection-settings =
-    .label = Mipangilio…
-    .accesskey = i
 
 ## Custom Homepage subpage
 
@@ -212,16 +164,9 @@ forms-master-pw-fips-desc = Ubadilishaji wa Neno la Siri Umeshindwa
 
 ## Privacy Section - History
 
-history-remember-option-all =
-    .label = Kumbuka historia
-history-remember-option-never =
-    .label = Kamwe usikumbuke historia
-history-remember-option-custom =
-    .label = Tumia mipangilio maalum ya historia
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } itatumia mipangilio sawa kama kuvinjari kwa kibinafsi, na haitakumbuka historia yoyote unapovinjari Tovuti.
-history-dontremember-description = { -brand-short-name } itatumia mipangilio sawa kama kuvinjari kwa kibinafsi, na haitakumbuka historia yoyote unapovinjari Tovuti.
 history-private-browsing-permanent =
     .label = Kila mara tumia hali ya kuvinjari ya faragha
     .accesskey = h
@@ -235,21 +180,7 @@ history-clear-on-close-settings =
     .label = Mipangilio…
     .accesskey = p
 
-## Privacy Section - Permissions
-
-permissions-block-popups =
-    .label = Zuia dirisha ibukizi
-    .accesskey = Z
-permissions-addon-exceptions =
-    .label = Mambo ya kipekee…
-    .accesskey = M
-
-## Privacy Section - Certificates
-
-certs-header = Vyeti
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Eneo kazi
 downloads-folder-name = Hupakua
-choose-download-folder-title = Chagua Kabrasha ya Kupakua:

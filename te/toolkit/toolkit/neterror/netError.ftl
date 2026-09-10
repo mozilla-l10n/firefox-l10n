@@ -22,12 +22,10 @@ neterror-override-exception-button = నష్టభయాన్ని అంగ
 neterror-pref-reset-button = అప్రమేయ అమరికలను పునరుద్ధరించు
 neterror-return-to-previous-page-button = వెనక్కి వెళ్ళు
 neterror-return-to-previous-page-recommended-button = వెనక్కి వెళ్ళు (సిఫారసుచేయబడింది)
-neterror-try-again-button = మళ్ళీ ప్రయత్నించు
 
 ##
 
 neterror-pref-reset = ఇది మీ నెట్‌వర్కు భద్రతా అమరికల వల్ల అయివుండవచ్చనిపిస్తోంది. అప్రమేత అమరికలను పునరుద్ధరించమంటారా?
-neterror-error-reporting-automatic = హానికరమైన సైట్లను గుర్తించి నిరోధించడంలో సహాయపడేందుకు ఇలాంటి తప్పిదాలను { -vendor-short-name }కు నివేదించండి
 
 ## Specific error messages
 
@@ -44,8 +42,6 @@ neterror-file-not-found-moved = ఫైలు తరలించబడింద�
 neterror-access-denied = దీన్ని తొలగించి లేదా తరలించి ఉండవచ్చు లేదా ఫైలు అనుమతులు ప్రాప్యతను నిరోధిస్తూండవచ్చు.
 neterror-unknown-protocol = ఈ చిరునామాను తెరవడానికి మీరు వేరే సాఫ్టువేరును స్థాపించుకోవాల్సిరావచ్చు.
 neterror-redirect-loop = కూకీలను అచేనతనం చేయడం వల్లగానీ లేదా వాటిని అంగీకరించకపోవడం వల్ల గానీ కొన్నిసార్లు ఈ సమస్య రావచ్చు.
-neterror-unknown-socket-type-psm-installed = మీ కంప్యూటర్లో పర్సనల్ సెక్యూరిటీ మేనేజర్ స్థాపితమై ఉండేట్లు చూడండి.
-neterror-unknown-socket-type-server-config = ఇది ప్రామాణికం గాని సేవిక స్వరూపణం వల్ల కావచ్చు.
 neterror-not-cached-intro = అభ్యర్ధించిన పత్రం { -brand-short-name } క్యాషె లో లేదు.
 neterror-not-cached-sensitive = భద్రతాపరమైన ముందు జాగ్రత్తగా, { -brand-short-name } సున్నితమైన పత్రాలను స్వయంచాలకంగా తిరిగి-అభ్యర్ధించదు.
 neterror-not-cached-try-again = వెబ్‌సైటు నుండి పత్రాన్ని తిరిగి-అభ్యర్ధించడానికి మళ్ళీ ప్రయత్నించు నొక్కండి.

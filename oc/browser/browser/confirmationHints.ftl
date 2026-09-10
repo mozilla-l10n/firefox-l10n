@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Rapòrt enviat. Mercés !
-confirmation-hint-login-removed = Identificant suprimit !
 confirmation-hint-password-removed = Senhal suprimit !
 confirmation-hint-page-bookmarked = Aponduda als marcapaginas
-confirmation-hint-password-saved = Senhal enregistrat !
 confirmation-hint-password-created = Senhal salvat
 confirmation-hint-password-updated = Senhal actualizat
 confirmation-hint-address-created = Adreça enregistrada

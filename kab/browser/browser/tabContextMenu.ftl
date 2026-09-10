@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Iccer amaynut
-    .accesskey = c
 reload-tab =
     .label = Smiren iccer
     .accesskey = M
@@ -98,10 +95,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Agraw amaynut
     .accesskey = A
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -126,10 +119,3 @@ tab-context-move-tabs =
            *[other] Senkez iccaren
         }
     .accesskey = S
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Azen iccer ɣer yibenk
-           *[other] Azen { $tabCount } waccaren ɣer yibenk
-        }
-    .accesskey = n

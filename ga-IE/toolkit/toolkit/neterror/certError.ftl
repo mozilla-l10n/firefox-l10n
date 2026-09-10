@@ -11,7 +11,6 @@ cert-error-trust-signature-algorithm-disabled = Ní chuirtear muinín sa teastas
 cert-error-trust-expired-issuer = Ní chuirtear muinín sa teastas mar tá teastas an eisitheora as feidhm.
 cert-error-trust-self-signed = Ní chuirtear muinín sa teastas mar tá sé féinsínithe.
 cert-error-untrusted-default = Ní thagann an teastas ó fhoinse ina gcuirtear muinín.
-cert-error-symantec-distrust-admin = Tig leat scéala a chur chuig riarthóir an tsuímh faoin bhfadhb sin.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = Slándáil Dhian Aistrithe HTTP: { $hasHSTS }
@@ -44,6 +43,5 @@ proxyResolveFailure-title = Ní féidir an seachfhreastalaí a aimsiú
 redirectLoop-title = Níl an leathanach ag atreorú i gceart
 unknownSocketType-title = Freagra nach rabhthas ag súil leis ón bhfreastalaí
 nssFailure2-title = Níorbh Fhéidir Ceangal Slán a Bhunú
-corruptedContentError-title = Earráid: Ábhar Truaillithe
 sslv3Used-title = Ní féidir ceangal slán a bhunú
 inadequateSecurityError-title = Níl do cheangal slán

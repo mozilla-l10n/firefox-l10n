@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Моментално сте во FIPS ре
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Ресетирање на главна лозинка
     .style = min-width: 40em
+    .title = Ресетирање на главна лозинка
 reset-password-button-label =
     .label = Ресетирај
 reset-primary-password-text = Ако ја ресетирате главната лозинка сите Ваши снимени лозикни, лични сертификати и приватни клучеви ќе бидат заборавени. Сигурно сакате да ја ресетирате главната лозинка?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Вашата главна лози�
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Преземање на сертификат
     .style = min-width: 46em
+    .title = Преземање на сертификат
 download-cert-message = Од вас е побарано да му верувате на нов авторитет за сертификати (CA).
 download-cert-trust-ssl =
     .label = Верувај му на овој CA во идентифукувањето на мрежни места.
@@ -52,8 +52,6 @@ download-cert-view-text = Испитај го CA сертификатот
 
 client-auth-window =
     .title = Барање за идентификација на корисникот
-client-auth-site-description = Ова место побара од вас да се идентификувате со сертификат:
-client-auth-choose-cert = Изберете сертификат кој ќе служи како идентификација:
 client-auth-send-no-certificate =
     .label = Не испраќај сертификат
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Автентицирајте се со безбедностниот уред ({ $tokenName }). Како да го направите тоа зависи од токенот (на пример, со користење на читач на отпечатоци од прсти или со внесување код со тастатура).
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Ве молиме, автентицирајте се со токенот “{ $tokenName }“. Како да го направите тоа зависи од токенот (на пример, со користење на читач на отпечатоци од прсти или со внесување код со тастатура).

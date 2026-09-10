@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = साइट की जानकारी देखें
 
@@ -40,8 +35,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = ऑफलाइन संग्रह संदेश पटल खोलें
 urlbar-password-notification-anchor =
     .tooltiptext = सहेजा हुआ कुष्टशब्द संदेश पटल खोलें
-urlbar-plugins-notification-anchor =
-    .tooltiptext = प्लग-इन उपयोग को प्रबंधित करें
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = साइट के साथ अपने कैमरे और/या माइक्रोफोन बांटने की व्यवस्था प्रबंधित करें
 urlbar-autoplay-notification-anchor =
@@ -50,14 +43,7 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = स्थायी संग्रहण में आँकड़े संचित करें
 urlbar-addons-notification-anchor =
     .tooltiptext = सहयुक्ति संस्थापन संदेश पटल खोलें
-urlbar-tip-help-icon =
-    .title = सहायता प्राप्त करें
 urlbar-search-tips-confirm = ठीक है, समझ गया
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = सुझाव:
 urlbar-result-menu-button =
     .title = मेन्यू खोलें
 urlbar-result-menu-learn-more2 = अधिक जानें
@@ -106,8 +92,6 @@ urlbar-screen-blocked =
     .tooltiptext = आपने अपने स्क्रीन को साझा करने से इस वेबसाइट को अवरूद्ध किया हैं.
 urlbar-persistent-storage-blocked =
     .tooltiptext = आपने इस वेबसाइट के लिए सतत संग्रहण को अवरुद्ध किया है.
-urlbar-popup-blocked =
-    .tooltiptext = आपने इस वेबसाइट पर पॉप-अप अवरुद्ध किए हैं.
 urlbar-autoplay-media-blocked =
     .tooltiptext = आपने इस वेबसाइट के लिए धवनी के साथ ऑटोप्ले मीडिया को अवरुद्ध कर दिया है.
 urlbar-canvas-blocked =
@@ -191,12 +175,10 @@ search-one-offs-history =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action. English commas should be used, i.e. ,
 
-quickactions-cmd-addons2 = ऐड-ऑन
 quickactions-cmd-bookmarks = बुकमार्क
 quickactions-cmd-print = प्रिंट करें
 # Opens the screenshot tool
 quickactions-screenshot3 = स्क्रीनशॉट लें
-quickactions-cmd-screenshot = स्क्रीनशॉट
 # Opens about:preferences
 quickactions-settings2 = सेटिंग प्रबंधित करें
 # Opens a SUMO article explaining how to update the browser
@@ -249,7 +231,6 @@ identity-custom-root = कनेक्शन को उस प्रमाणप
 identity-passive-loaded = इस पेज का भाग सुरक्षित नहीं हैं(जैसा की छवि).
 identity-active-loaded = आपने इस पेज पर सुरक्षा निष्क्रिय कर दिए हैं.
 identity-weak-encryption = यह पेज कमजोर गोपन का उपयोग करता हैं.
-identity-insecure-login-forms = इस पृष्ठ पर अंतरित लॉग-इन्स से समझौता किया जा सकता है.
 identity-https-only-dropdown-on =
     .label = चालू
 identity-https-only-dropdown-off =
@@ -268,7 +249,6 @@ identity-remove-cert-exception =
     .label = अपवाद मिटाएँ
     .accesskey = R
 identity-description-insecure = इस साइट पे आपका कनेक्शन निजी नहीं हैं. सुचना जो आप जमा करते हैं दुसरो के द्वारा देखा जा सकता (जैसे पासवर्ड,संदेश, क्रेडिट कार्ड, इत्यादि.).
-identity-description-insecure-login-forms = आपके द्वारा इस पृष्ट में दी गयी जानकारी सुरक्षित नहीं है तथा उसका गलत इस्तेमाल किया जा सकता है
 identity-description-weak-cipher-intro = इस वेबसाइट से आपका कनेक्शन कमज़ोर गोपन का उपयोग करता है और निजी नहीं है.
 identity-description-weak-cipher-risk = अन्य लोग आपकी जानकारी को देख सकते हैं या वेबसाइट के व्यवहार को बदल सकते हैं.
 identity-description-active-blocked2 = { -brand-short-name } इस पृष्ठ के कुछ हिस्सों को अवरुद्ध कर दिया है जो सुरक्षित नहीं हैं.
@@ -277,12 +257,6 @@ identity-description-passive-loaded-insecure2 = यह वेबसाइट व
 identity-description-passive-loaded-mixed2 = हालांकि { -brand-short-name } ने कुछ सामग्री को रोक दिया है, इस पृष्ठ पर कुछ ऐसी सामग्री है जो असुरक्षित है (जैसे कि छवियाँ).
 identity-description-active-loaded = यह वेबसाइट उस सामग्री को सम्मिलित करता है जो सुरक्षित नही हैं(जैसा की स्क्रिप्ट) और कनेक्शन भी निजी नही हैं.
 identity-description-active-loaded-insecure = सुचना जो आप इस साइट के साथ साझा करते हैं दुसरो के द्वारा देखा जा सकता (जैसे पासवर्ड,संदेश, क्रेडिट कार्ड, इत्यादि.).
-identity-disable-mixed-content-blocking =
-    .label = अब सुरक्षा निष्क्रिय करें
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = सुरक्षा सक्रिय करें
-    .accesskey = स
 identity-more-info-link-text =
     .label = अधिक सूचना
 
@@ -296,11 +270,6 @@ browser-window-restore-down-button =
     .tooltiptext = पूर्ववत करें
 browser-window-close-button =
     .tooltiptext = बंद करें
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = ब्लॉक किया गया
 
 ## WebRTC Pop-up notifications
 
@@ -343,8 +312,6 @@ urlbar-extension =
     .value = विस्तारक:
 urlbar-go-button2 =
     .title = स्थान पट्टी पर पता में जाएँ
-urlbar-go-button =
-    .tooltiptext = स्थान पट्टी पर पता में जाएँ
 urlbar-page-action-button =
     .tooltiptext = पृष्ठ क्रियाएँ
 
@@ -367,20 +334,6 @@ urlbar-result-action-search-in-private = एक निजी विंडो म
 urlbar-result-action-search-w-engine = { $engine } से खोजें
 urlbar-result-action-switch-tab = 'टैब में स्विच करें
 urlbar-result-action-visit = भ्रमण करें
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
-
-## Strings used for buttons in the urlbar
-
-urlbar-searchmode-bookmarks =
-    .label = बुकमार्क
-urlbar-searchmode-tabs =
-    .label = टैब
-urlbar-searchmode-history =
-    .label = इतिहास
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -451,12 +404,6 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] बुकमार्क टूलबार छिपाएं
            *[other] बुकमार्क औज़ारपट्टी देखें
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] टूलबार से बुकमार्क मेनू हटायें
-           *[other] टूलबार पर बुकमार्क मेनू डालें
-        }
 
 ##
 
@@ -482,12 +429,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = बुकमार्क
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = { -pocket-brand-name } में सहेजें
-    .tooltiptext = { -pocket-brand-name } में सहेजें
 
 ##
 
@@ -524,7 +465,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-password = पासवर्ड
 panel-save-update-password-2 =
     .label = पासवर्ड
 
@@ -532,22 +472,6 @@ panel-save-update-password-2 =
 
 ui-tour-info-panel-close =
     .tooltiptext = बन्द करें
-
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = { $uriHost } के लिए पॉप-अप स्वीकारें
-    .accesskey = P
-popups-infobar-block =
-    .label = { $uriHost } के लिए पॉप-अप रोकें
-    .accesskey = P
-
-##
-
-popups-infobar-dont-show-message =
-    .label = इस संदेश को मत दिखाएँ जब पॉप-अप रोके जाते हैं
-    .accesskey = डी
 
 ##
 
@@ -558,8 +482,6 @@ navbar-accessible =
     .aria-label = पथ प्रदर्शन
 navbar-downloads =
     .label = डाउनलोड
-navbar-overflow =
-    .tooltiptext = अधिक औज़ार…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

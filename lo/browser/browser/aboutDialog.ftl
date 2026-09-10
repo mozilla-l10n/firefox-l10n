@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>ກຳລັງດາວໂລດໂຕອັບເດດ —<label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = ກຳລັງດາວໂຫລດການອັບເດດ — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = ກຳລັງດາວໂລດໂຕອັບເດດ —{ $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = ກຳລັງນຳໃຊ້ການອັບເດດ...
 update-failed = ການອັບເດດລົ້ມເຫລວ.<label data-l10n-name="failed-link">ດາວໂຫລດລຸ້ນຫລ້າສຸດ</label>
 update-failed-main = ການອັບເດດລົ້ມເຫລວ.<a data-l10n-name="failed-link-main">ດາວໂຫລດລຸ້ນຫລ້າສຸດ</a>
-update-adminDisabled = ການອັບເດດໄດ້ຖືກປິດໂດຍຜູ້ຄຸ້ມຄອງລະບົບຂອງທ່ານ
 update-policy-disabled = ການອັບເດດຖືກປິດການນຳໃຊ້ໂດຍອົງກອນຂອງທ່ານ
 settings-update-policy-disabled =
     .label = ການອັບເດດຖືກປິດການນຳໃຊ້ໂດຍອົງກອນຂອງທ່ານ
@@ -71,8 +69,6 @@ helpus = ຕ້ອງການການຊ່ວຍເຫລືອຍັງບ�
 bottomLinks-license = ຂໍ້ມູນກ່ຽວກັບລິຂະສິດ
 bottom-links-terms = ເງື່ອນໄຂການນໍາໃຊ້
 bottom-links-privacy = ແຈ້ງການນະໂຍບາຍ
-bottomLinks-rights = ສິດທິຂອງຜູ້ໃຊ້
-bottomLinks-privacy = ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

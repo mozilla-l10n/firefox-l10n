@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Palaa
 neterror-return-to-previous-page-recommended-button = Palaa (suositellaan)
 neterror-try-again-button-2 = Yritä uudestaan
     .accesskey = Y
-neterror-try-again-button = Yritä uudestaan
 neterror-add-exception-button = Jatka aina tälle sivustolle
 neterror-settings-button = Muuta DNS-asetuksia
 neterror-view-certificate-link = Näytä varmenne
-neterror-trr-continue-this-time = Jatka tällä kertaa
-neterror-disable-native-feedback-warning = Jatka aina
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = Lue lisää
 ##
 
 neterror-pref-reset = Vaikuttaa siltä, että verkon turvallisuusasetukset aiheuttavat tämän. Haluatko palauttaa oletusasetukset?
-neterror-error-reporting-automatic = Auta { -vendor-short-name }a tunnistamaan ja estämään haitallisia sivustoja ilmoittamalla tällaisista virheistä
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Katkaise Wi-Fi-yhteys ja muodost
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } ei voi suojata tämän sivuston osoitepyyntöäsi luotettavan DNS-selvittäjän kautta. Tässä syy:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } ei voi suojata tämän sivuston osoitepyyntöäsi suojatun DNS-palveluntarjoajamme kautta. Tässä syy:
 neterror-dns-not-found-trr-third-party-warning2 = Voit jatkaa oletusarvoisella DNS-selvittimellä. Kolmas osapuoli saattaa kuitenkin nähdä, millä verkkosivustoilla vierailet.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } ei voinut muodostaa yhteyttä verkkotunnukseen { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Yhteys verkkotunnukseen { $trrDomain } kesti odotettua kauemmin.
-neterror-dns-not-found-trr-offline = Et ole yhteydessä Internetiin.
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } ei löytänyt tätä verkkosivustoa.
 neterror-dns-not-found-trr-server-problem = Verkkotunnuksen { $trrDomain } kanssa ilmeni ongelma.
 neterror-dns-not-found-bad-trr-url = Virheellinen osoite.
 neterror-dns-not-found-system-sleep = Järjestelmä on lepotilassa.
 neterror-dns-not-found-trr-unknown-problem = Odottamaton ongelma.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ei voi suojata pyyntöäsi tämän sivuston osoitteelle luotettavan DNS-selvittimen kautta. Tässä syy:
-neterror-dns-not-found-native-fallback-heuristic = DNS HTTPS:n välityksellä on poistettu käytöstä verkossasi.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ei voinut muodostaa yhteyttä verkkotunnukseen { $trrDomain }.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = Tiedosto on voitu poistaa tai siirtää, tai ehkä siih
 neterror-unknown-protocol = Osoitteen avaaminen voi vaatia uuden ohjelman asentamista.
 neterror-redirect-loop = Tämä virhe johtuu joskus siitä, että evästeiden asettamista ei ole sallittu tai että se on erityisesti estetty tältä sivustolta.
 neterror-unknown-socket-type-client-config = Tämä saattaa johtua määritysvirheestä asiakasohjelmistossasi.
-neterror-unknown-socket-type-psm-installed = Tarkista, että tietokoneelle on asennettu Mozillan Personal Security Manager.
-neterror-unknown-socket-type-server-config = Virhe voi johtua palvelimen epästandardeista asetuksista.
 neterror-not-cached-intro = Pyydettyä dokumenttia ei ole tallennettu { -brand-short-name }in väliaikaistiedostoihin.
 neterror-not-cached-sensitive = Turvallisuusvarotoimena { -brand-short-name } ei automaattisesti lataa uudelleen luottamuksellisia dokumentteja.
 neterror-not-cached-try-again = Napsauta alta Yritä uudestaan ladataksesi dokumentin sivustolta uudestaan.

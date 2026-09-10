@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Arventennoù kennaskañ
     .style =
         { PLATFORM() ->
             [macos] min-width: 39em
            *[other] min-width: 39em
         }
+    .title = Arventennoù kennaskañ
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -58,14 +58,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Adkargañ
     .accesskey = k
-connection-proxy-autologin =
-    .label = Na c'houlenn diganin en em zilesa ma'z eus ur ger-tremen enrollet
-    .accesskey = N
-    .tooltip = An dibarzh-mañ a zilesa ac'hanoc'h ent emgefreek war ar proksioù ma'z eus naoudioù kennaskañ enrollet evito. Goulennet e vo anezho diganeoc'h ma vez c'hwitet an dilesa.
 connection-proxy-autologin-checkbox =
     .label = Na c'houlenn diganin en em zilesa ma'z eus ur ger-tremen enrollet
-    .accesskey = N
     .tooltiptext = An dibarzh-mañ a zilesa ac'hanoc'h ent emgefreek war ar proksioù ma'z eus naoudioù kennaskañ enrollet evito. Goulennet e vo anezho diganeoc'h ma vez c'hwitet an dilesa.
+    .accesskey = N
 connection-proxy-socks-remote-dns =
     .label = DNS Proksi p’eo arveret SOCKS v5
     .accesskey = d
@@ -76,6 +72,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Ober gant an URL dre ziouer evit diskoulmañ an DNS war HTTPS
 connection-dns-over-https-url-custom =
     .label = Personelaet
-    .accesskey = P
     .tooltiptext = Enankit an URL a fell deoc'h implijout evit diskoulmañ HTTPS war DNS
-connection-dns-over-https-custom-label = Personelaet
+    .accesskey = P

@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Nissunu cuntenidore
-    .accesskey = N
 user-context-manage-containers =
     .label = Manìgia cuntenidores
     .accesskey = M

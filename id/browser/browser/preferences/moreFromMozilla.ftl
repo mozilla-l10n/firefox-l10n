@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Lainnya dari { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Lainnya dari { -vendor-short-name }
 more-from-moz-subtitle = Lihat produk { -vendor-short-name } lainnya yang bekerja untuk mendukung internet yang sehat.
@@ -32,12 +31,10 @@ more-from-moz-firefox-relay-button = Dapatkan { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Ketahui info pribadi Anda yang telah dibobol
 more-from-moz-mozilla-monitor-global-description = Dapatkan peringatan ketika data Anda telah dibobol.
 more-from-moz-mozilla-monitor-button = Dapatkan { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = { -solo-ai-brand-name } AI
 more-from-moz-solo-description = Buat situs web Anda secara instan dan hubungkan domain ubahan Anda sendiri secara gratis.
 more-from-moz-solo-button = Coba { -solo-ai-brand-name }

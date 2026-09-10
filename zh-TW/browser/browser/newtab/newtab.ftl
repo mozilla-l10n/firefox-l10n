@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = 新分頁
-newtab-settings-button =
-    .title = 自訂您的新分頁頁面
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = 自訂此頁面
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = 自訂
 newtab-customize-panel-label =
     .label = 自訂
-newtab-personalize-settings-icon-label =
-    .aria-label = 設定
-    .title = 個人化新分頁
 newtab-settings-dialog-label =
     .aria-label = 設定
-newtab-personalize-icon-label =
-    .aria-label = 個人化新分頁
-    .title = 個人化新分頁
-newtab-personalize-dialog-label =
-    .aria-label = 個人化
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
@@ -496,7 +486,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = 新增搜尋引擎
 newtab-topsites-add-shortcut-header = 新增捷徑
-newtab-topsites-edit-topsites-header = 編輯熱門網站
 newtab-topsites-edit-shortcut-header = 編輯捷徑
 newtab-topsites-add-shortcut-label = 新增捷徑
 newtab-topsites-add-shortcut-title =
@@ -566,20 +555,12 @@ newtab-topsites-hover-card-dismiss =
 newtab-menu-section-tooltip =
     .aria-label = 開啟選單
     .title = 開啟選單
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = 移除
-    .title = 移除
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = 開啟 { $title } 的右鍵選單
     .title = 開啟選單
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = 編輯此網站
-    .title = 編輯此網站
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -591,11 +572,7 @@ newtab-menu-dismiss = 隱藏
 newtab-menu-pin = 釘選
 newtab-menu-unpin = 取消釘選
 newtab-menu-delete-history = 從瀏覽紀錄刪除
-newtab-menu-save-to-pocket = 儲存至 { -pocket-brand-name }
-newtab-menu-delete-pocket = 從 { -pocket-brand-name } 刪除
-newtab-menu-archive-pocket = 在 { -pocket-brand-name } 裡封存
 newtab-menu-show-privacy-info = 我們的贊助商與您的隱私權
-newtab-menu-about-fakespot = 關於 { -fakespot-brand-name }
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = 檢舉
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -606,23 +583,12 @@ newtab-menu-section-block = 封鎖
 newtab-menu-section-unfollow-topic = 取消關注
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = 更多資訊
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = 取消追蹤主題
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = 管理贊助內容
 newtab-menu-our-sponsors-and-your-privacy = 我們的贊助商與您的隱私權
 newtab-menu-report-this-ad = 檢舉此廣告
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = 完成
-newtab-privacy-modal-button-manage = 管理贊助內容設定
-newtab-privacy-modal-header = 您的隱私相當重要。
-newtab-privacy-modal-paragraph-2 = 除了提供吸引人的文章之外，我們還與贊助商合作提供與您相關，且經精挑細選的內容。請放心，<strong>您的上網資料絕對不會流出於您電腦上的 { -brand-product-name } 之外</strong>— 我們跟我們的贊助商都不會看到。
-newtab-privacy-modal-link = 了解我們如何在提供新分頁內容的同時確保您的隱私
 
 ##
 
@@ -678,31 +644,12 @@ newtab-label-sponsored-fixed = 贊助項目
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = 移除段落
-newtab-section-menu-collapse-section = 摺疊段落
-newtab-section-menu-expand-section = 展開段落
-newtab-section-menu-manage-section = 管理段落
-newtab-section-menu-manage-webext = 管理擴充套件
-newtab-section-menu-add-topsite = 新增熱門網站
-newtab-section-menu-add-search-engine = 新增搜尋引擎
-newtab-section-menu-move-up = 上移
-newtab-section-menu-move-down = 下移
 newtab-section-menu-privacy-notice = 隱私權公告
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = 摺疊段落
-newtab-section-expand-section-label =
-    .aria-label = 展開段落
 
 ## Section Headers.
 
 newtab-section-header-topsites = 熱門網站
 newtab-section-header-recent-activity = 近期動態
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } 推薦
 newtab-section-header-stories = 發人深省的文章
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = 本日精選文章
@@ -710,10 +657,6 @@ newtab-section-header-todays-picks = 本日精選文章
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = 開始上網，我們就會把您在網路上發現的好文章、影片、剛加入書籤的頁面顯示於此。
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = 所有文章都讀完啦！晚點再來，{ $provider } 將提供更多推薦故事。等不及了？選擇熱門主題，看看 Web 上各式精采資訊。
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = 所有文章都讀完啦！晚點再來看看更多推薦故事。等不及了？選擇熱門主題，看看 Web 上各式精采資訊。
 
@@ -747,39 +690,6 @@ newtab-carousel-pause =
 newtab-carousel-play =
     .aria-label = 恢復自動播放
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = 熱門主題:
-newtab-pocket-new-topics-title = 想要更多文章嗎？看這些來自 { -pocket-brand-name } 的熱門主題
-newtab-pocket-more-recommendations = 更多推薦項目
-newtab-pocket-learn-more = 了解更多
-newtab-pocket-cta-button = 取得 { -pocket-brand-name }
-newtab-pocket-cta-text = 將您喜愛的故事儲存到 { -pocket-brand-name }，閱讀一篇篇好文章。
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } 是 { -brand-product-name } 產品家族的一部份
-newtab-pocket-save = 儲存
-newtab-pocket-saved = 已儲存
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = 更多這樣的內容
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = 我沒興趣
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = 感謝您。您的意見可幫助我們改善顯示的內容。
-newtab-toast-dismiss-button =
-    .aria-label = 知道了！
-    .title = 知道了！
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = 探索網路精華內容
-newtab-pocket-onboarding-cta = { -pocket-brand-name } 為您探索不同的線上內容，將最豐富、最有啟發性、最可靠的內容帶來您的 { -brand-product-name } 瀏覽器。
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -788,8 +698,6 @@ newtab-error-fallback-refresh-link = 請重新整理頁面再試一次。
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = 捷徑
-newtab-custom-shortcuts-subtitle = 您儲存或造訪過的網站
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = 您儲存或造訪過的網站
@@ -810,16 +718,6 @@ newtab-custom-row-selector2 =
             [one] { $num } 行
            *[other] { $num } 行
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } 行
-       *[other] { $num } 行
-    }
-newtab-custom-sponsored-sites = 贊助捷徑
-newtab-custom-pocket-title = 由 { -pocket-brand-name } 推薦
-newtab-custom-pocket-subtitle = 由 { -brand-product-name } 的姊妹作 { -pocket-brand-name } 精心策展的內容
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = 由 { -brand-product-name } 產品家族精選的內容文章
@@ -831,10 +729,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = 依照您的上網行為，提供個人化文章推薦
 newtab-custom-stories-personalized-checkbox-label = 依照您的上網行為，提供個人化文章推薦
-newtab-custom-pocket-sponsored = 贊助內容
-newtab-custom-pocket-show-recent-saves = 顯示近期儲存項目
-newtab-custom-recent-title = 近期動態
-newtab-custom-recent-subtitle = 近期造訪過的網站與內容精選
 newtab-custom-weather-toggle =
     .description = 快速了解本日天氣
     .label = 天氣
@@ -866,7 +760,6 @@ newtab-widget-manage-widget-button =
 newtab-custom-close-menu-button =
     .aria-label = 關閉選單
     .title = 關閉
-newtab-custom-close-button = 關閉
 newtab-custom-settings = 管理更多設定
 
 ## Customization Menu
@@ -915,7 +808,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = 圖片超過 { $file_size }MB 的檔案大小限制。請嘗試上傳小一點的檔案。
 newtab-wallpaper-error-upload-file-type = 無法上傳您的檔案，請稍後再重新上傳圖片。
-newtab-wallpaper-error-file-type = 無法上傳您的檔案，請稍後再以不同格式檔案上傳。
 newtab-wallpaper-light-red-panda = 小貓熊
 newtab-wallpaper-light-mountain = 白色山脈
 newtab-wallpaper-light-sky = 紫色與粉紅色的天空
@@ -1037,9 +929,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 newtab-wallpaper-firefox-orange = 在橘色背景的右邊邊緣有隻狐狸
 newtab-wallpaper-firefox-colorful-sky = 紫色夜空下翻湧著橘色波浪
 newtab-wallpaper-firefox-desert-dark = 狐狸坐在深紫色的沙漠中
@@ -1078,10 +967,6 @@ newtab-wallpaper-celestial-river = 河流的衛星照片
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = 到 { $provider } 檢視天氣預報
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ 贊助資訊
 newtab-weather-menu-change-location = 更改位置
 newtab-weather-change-location-search-input-placeholder =
@@ -1108,7 +993,6 @@ newtab-weather-menu-temperature-option-fahrenheit = 華氏
 newtab-weather-menu-temperature-option-celsius = 攝氏
 newtab-weather-menu-change-temperature-units-fahrenheit = 切換為華氏溫度
 newtab-weather-menu-change-temperature-units-celsius = 切換為攝氏溫度
-newtab-weather-menu-hide-weather = 隱藏新分頁的天氣資訊
 newtab-weather-menu-learn-more = 更多資訊
 newtab-weather-menu-detect-my-location = 偵測我的所在位置
 # This message is shown if user is working offline
@@ -1229,7 +1113,6 @@ newtab-section-unblock-topic =
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = 現在不要
 newtab-section-confirm-block-topic-p1 = 您確定要封鎖這個主題的內容嗎？
 newtab-section-confirm-block-topic-p2 = 將主題封鎖後就不會再顯示於資訊來源中。
 # Variables:

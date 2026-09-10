@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = ترجمه این صفحه
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -30,16 +27,11 @@ translations-panel-choose-language =
 ## Firefox Translations language management in about:preferences.
 
 translations-manage-header = ترجمه‌ها
-translations-manage-description = بارگیری زبان‌ها برای ترجمه برون‌خط.
-translations-manage-all-language = همهٔ زبان‌ها
-translations-manage-download-button = بارگیری
-translations-manage-delete-button = حذف
 translations-manage-error-download = مشکلی در بارگیری پرونده‌های زبان وجود داشت. لطفاً دوباره تلاش کنید.
-translations-manage-error-delete = خطایی در هنگام حذف پرونده‌های زبان روی داد. لطفا دوباره تلاش کنید.
 translations-manage-error-list = دریافت فهرست زبان‌های موجود برای ترجمه ناموفق بود. برای تلاش مجدد، صفحه را بازخوانی کنید.
 translations-settings-title =
-    .title = تنظیمات ترجمه‌ها
     .style = min-width: 36em
+    .title = تنظیمات ترجمه‌ها
 translations-settings-always-translate-langs-description = ترجمه برای زبان‌های زیر به‌طور خودکار انجام می‌شود
 translations-settings-never-translate-langs-description = ترجمه برای زبان‌های زیر ارائه نخواهد شد
 translations-settings-never-translate-sites-description = ترجمه برای وبگاه‌های زیر ارائه نخواهد شد

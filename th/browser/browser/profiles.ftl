@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } จะเปิดด้วยโปรไฟล์ที่ใช้ล่าสุดของคุณ
 profile-window-create-profile = สร้างโปรไฟล์
 profile-card-edit-button =
-    .title = แก้ไขโปรไฟล์
     .aria-label = แก้ไขโปรไฟล์
+    .title = แก้ไขโปรไฟล์
 profile-card-delete-button =
-    .title = ลบโปรไฟล์
     .aria-label = ลบโปรไฟล์
+    .title = ลบโปรไฟล์
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = เปิด { $profileName }
     .aria-label = เปิด { $profileName }
+    .title = เปิด { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = โปรไฟล์ { $number }
@@ -79,9 +79,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = ลบ { $profilename } โปรไฟล์
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = ลบ { $profilename } โปรไฟล์หรือไม่?
 delete-profile-description = { -brand-short-name } จะลบข้อมูลต่อไปนี้ออกจากอุปกรณ์นี้อย่างถาวร:
 # Open is an adjective, as in "browser windows currently open".
@@ -105,28 +102,10 @@ delete-profile-confirm = ลบ
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = สว่าง
-# The default dark theme
-profiles-dark-theme = มืด
 # The default system theme
 profiles-system-theme = ระบบ
 profiles-system-theme-title =
     .title = ใช้ชุดตกแต่งระบบ
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = เหลืองดอกดาวเรือง
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = ลาเวนเดอร์ซีด
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = เขียวมินต์
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = ชมพูดอกแมกโนเลีย
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = ฟ้าน้ำทะเล
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = แดงอิฐ
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = เขียวมอส
 profiles-gray-theme = เทา
 profiles-gray-theme-title =
     .title = นำชุดตกแต่งสีเทาไปใช้
@@ -283,9 +262,6 @@ profiles-appmenu-callout-tour-subtitle = ในเมนู ☰ ให้แต�
 profiles-appmenu-callout-tour-primary-button = แสดงให้ฉันดู
 barbell-avatar = บาร์เบล
 bike-avatar = จักรยาน
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = นำรูปประจำตัวบาร์เบลไปใช้
 bike-avatar-tooltip =

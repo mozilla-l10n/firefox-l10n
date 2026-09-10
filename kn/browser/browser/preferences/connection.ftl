@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = ಸಂಪರ್ಕ ಸಿದ್ಧತೆಗಳು
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = ಸಂಪರ್ಕ ಸಿದ್ಧತೆಗಳು
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -50,14 +50,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = ಮತ್ತೊಮ್ಮೆ ಲೋಡ್ ಮಾಡು
     .accesskey = e
-connection-proxy-autologin =
-    .label = ಗುಪ್ತಪದವನ್ನು ಉಳಿಸಲಾಗಿದ್ದರೆ ದೃಢೀಕರಣಕ್ಕಾಗಿ ಪ್ರಾಂಪ್ಟ್‌ ಮಾಡಬೇಡ
-    .accesskey = i
-    .tooltip = ಈ ಆಯ್ಕೆಯು ನೀವು ಪ್ರಾಕ್ಸಿಗಳಿಗಾಗಿ ಗುರುತುಗಳನ್ನು ಉಳಿಸಿಟ್ಟುಕೊಂಡಾಗ ಯಾರಿಗೂ ತಿಳಿಯದಂತೆ ಅವುಗಳಿಗೆ ನಿಮ್ಮನ್ನು ದೃಢೀಕರಿಸುತ್ತದೆ. ದೃಢೀಕರಣವು ವಿಫಲಗೊಂಡಲ್ಲಿ ನಿಮಗೆ ಪ್ರಾಂಪ್ಟ್‌ ಮಾಡಲಾಗುತ್ತದೆ.
 connection-proxy-autologin-checkbox =
     .label = ಗುಪ್ತಪದವನ್ನು ಉಳಿಸಲಾಗಿದ್ದರೆ ದೃಢೀಕರಣಕ್ಕಾಗಿ ಪ್ರಾಂಪ್ಟ್‌ ಮಾಡಬೇಡ
-    .accesskey = i
     .tooltiptext = ಈ ಆಯ್ಕೆಯು ನೀವು ಪ್ರಾಕ್ಸಿಗಳಿಗಾಗಿ ಗುರುತುಗಳನ್ನು ಉಳಿಸಿಟ್ಟುಕೊಂಡಾಗ ಯಾರಿಗೂ ತಿಳಿಯದಂತೆ ಅವುಗಳಿಗೆ ನಿಮ್ಮನ್ನು ದೃಢೀಕರಿಸುತ್ತದೆ. ದೃಢೀಕರಣವು ವಿಫಲಗೊಂಡಲ್ಲಿ ನಿಮಗೆ ಪ್ರಾಂಪ್ಟ್‌ ಮಾಡಲಾಗುತ್ತದೆ.
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = SOCKS v5 ಬಳಸುವಾಗ ಪ್ರಾಕ್ಸಿ DNS
     .accesskey = d

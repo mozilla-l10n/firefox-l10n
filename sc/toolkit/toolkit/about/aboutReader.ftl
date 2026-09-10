@@ -4,14 +4,6 @@
 
 about-reader-loading = Carrighende…
 about-reader-load-error = Faddina in sa càrriga de s'artìculu dae sa pàgina
-about-reader-color-scheme-light = Craru
-    .title = Ischema de colores craros
-about-reader-color-scheme-dark = Iscuru
-    .title = Ischema de colores iscuros
-about-reader-color-scheme-sepia = Sèpia
-    .title = Ischema de colores sèpia
-about-reader-color-scheme-auto = Automàticu
-    .title = Ischema de colores automàticu
 about-reader-color-light-theme = Craru
     .title = Tema craru
 about-reader-color-dark-theme = Iscuru
@@ -22,16 +14,6 @@ about-reader-color-auto-theme = Automàticu
     .title = Tema automàticu
 about-reader-color-contrast-theme = Cuntrastu
     .title = Tema de cuntrastu
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time =
-    { $rangePlural ->
-        [one] { $range } minutu
-       *[other] { $range } minutos
-    }
 
 ## Reader View text and layout menu
 
@@ -39,14 +21,6 @@ about-reader-toolbar-minus =
     .title = Mìnima sa mannària de sa tipografia
 about-reader-toolbar-plus =
     .title = Ismànnia sa mannària de sa tipografia
-about-reader-toolbar-contentwidthminus =
-    .title = Mìnima sa largària de su cuntenutu
-about-reader-toolbar-contentwidthplus =
-    .title = Ismànnia sa largària de su cuntenutu
-about-reader-toolbar-lineheightminus =
-    .title = Mìnima s'artària de lìnia
-about-reader-toolbar-lineheightplus =
-    .title = Ismànnia s'artària de lìnia
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -57,7 +31,6 @@ about-reader-font-type-monospace = Ispatziadura fissa
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Serra sa visualizatzione de letura
-about-reader-toolbar-type-controls = Controllos de sa tipografia
 about-reader-toolbar-text-layout-controls = Testu e dispositzione
 about-reader-toolbar-theme-controls = Tema
 about-reader-toolbar-savetopocket = Sarva in { -pocket-brand-name }

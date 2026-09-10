@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Nowy rejtarik
-    .accesskey = N
 reload-tab =
     .label = Rejtarik znowego zacytaś
     .accesskey = R
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nowa kupka
     .accesskey = o
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -219,15 +212,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Źělobny wótkaz napóraś
     .accesskey = l
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] { $tabCount } rejtarik na rěd pósłaś
-            [two] { $tabCount } rejtarika na rěd pósłaś
-            [few] { $tabCount } rejtariki na rěd pósłaś
-           *[other] { $tabCount } rejtarikow na rěd pósłaś
-        }
-    .accesskey = r
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

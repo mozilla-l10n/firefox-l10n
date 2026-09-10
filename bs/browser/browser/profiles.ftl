@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } će se otvoriti na vašem nedavno korištenom profilu.
 profile-window-create-profile = Kreirajte profil
 profile-card-edit-button =
-    .title = Uredi profil
     .aria-label = Uredi profil
+    .title = Uredi profil
 profile-card-delete-button =
-    .title = Izbriši profil
     .aria-label = Izbriši profil
+    .title = Izbriši profil
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Otvori { $profileName }
     .aria-label = Otvori { $profileName }
+    .title = Otvori { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profil { $number }
@@ -65,9 +65,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Izbriši { $profilename } profil
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = Izbrisati { $profilename } profil?
 delete-profile-description = { -brand-short-name } će trajno izbrisati sljedeće podatke sa ovog uređaja:
 # Open is an adjective, as in "browser windows currently open".
@@ -88,26 +85,8 @@ delete-profile-confirm = Izbriši
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Svijetla
-# The default dark theme
-profiles-dark-theme = Tamna
 # The default system theme
 profiles-system-theme = Sistem
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = Žuta od nevena
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = Blijeda lavanda
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = Menta zelena
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = Ružičasta magnolija
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = Okeansko plava
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = Ciglano crvena
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = Mahovinasto zelena
 
 ## Alternative text for default profile icons
 

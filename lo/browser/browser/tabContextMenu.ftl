@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = ແຖບ​ໃຫມ່
-    .accesskey = w
 reload-tab =
     .label = ໂຫລດແທັບໃຫມ່
     .accesskey = R
@@ -79,10 +76,6 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = ແບ່ງປັນ
     .accesskey = h
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-move-tabs =
     .label =
         { $tabCount ->

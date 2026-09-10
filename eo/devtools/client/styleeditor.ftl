@@ -21,8 +21,6 @@ styleeditor-save-button = Konservi
 styleeditor-options-button =
     .tooltiptext = Preferoj de redaktilo de stilfolioj
 styleeditor-at-rules = @-reguloj
-styleeditor-editor-textbox =
-    .data-placeholder = Tajpu CSS ĉi tie.
 styleeditor-no-stylesheet = Tiu ĉi paĝo ne havas stilfolion.
 styleeditor-no-stylesheet-tip = Eble vi ŝatus <a data-l10n-name="append-new-stylesheet">aldoni novan stilfolion</a>?
 styleeditor-open-link-new-tab =

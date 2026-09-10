@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Пашырэнне не можа чытаць і змяняць звесткі
-origin-controls-quarantined =
-    .label = Пашырэнню не дазволена чытаць і змяняць звесткі
 origin-controls-quarantined-status =
     .label = Пашырэнне не дазволена на абмежаваных сайтах
 origin-controls-quarantined-allow =

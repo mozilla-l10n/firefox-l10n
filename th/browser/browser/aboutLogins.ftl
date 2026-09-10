@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = การเข้าสู่ระบบและรหัสผ่าน
-about-logins-login-filter =
-    .placeholder = ค้นหาการเข้าสู่ระบบ
-    .key = F
-create-new-login-button =
-    .title = สร้างการเข้าสู่ระบบใหม่
 about-logins-page-title-name = รหัสผ่าน
 about-logins-login-filter2 =
-    .placeholder = ค้นหารหัสผ่าน
     .key = F
+    .placeholder = ค้นหารหัสผ่าน
 create-login-button =
     .title = เพิ่มรหัสผ่าน
 fxaccounts-sign-in-text = ใช้รหัสผ่านของคุณในอุปกรณ์อื่นของคุณ
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = นำเข้าจากเบราว์เซอร์อื่น…
 about-logins-menu-menuitem-import-from-a-file = นำเข้าจากไฟล์…
-about-logins-menu-menuitem-export-logins = ส่งออกการเข้าสู่ระบบ…
-about-logins-menu-menuitem-remove-all-logins = ลบการเข้าสู่ระบบทั้งหมด…
 about-logins-menu-menuitem-export-logins2 = ส่งออกรหัสผ่าน…
 about-logins-menu-menuitem-remove-all-logins2 = ลบรหัสผ่านทั้งหมด…
 menu-menuitem-preferences =
@@ -44,20 +36,6 @@ login-list =
     .aria-label = การเข้าสู่ระบบที่ตรงกับคำค้น
 # Variables
 #   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-       *[other] { $count } การเข้าสู่ระบบ
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $count } จาก { $total } การเข้าสู่ระบบ
-       *[other] { $count } จาก { $total } การเข้าสู่ระบบ
-    }
-# Variables
-#   $count (number) - Number of logins
 login-list-count2 = { $count } รหัสผ่าน
 # Variables
 #   $count (number) - Number of filtered logins
@@ -71,14 +49,10 @@ login-list-username-reverse-option = ชื่อผู้ใช้ (ฮ-ก)
 about-logins-login-list-alerts-option = การแจ้งเตือน
 login-list-last-changed-option = ปรับเปลี่ยนล่าสุดเมื่อ
 login-list-last-used-option = วันที่ใช้ครั้งล่าสุด
-login-list-intro-title = ไม่พบการเข้าสู่ระบบ
 login-list-intro-title2 = ไม่มีรหัสผ่านที่บันทึกไว้
 login-list-intro-description = เมื่อคุณบันทึกรหัสผ่านใน { -brand-product-name } รหัสผ่านจะปรากฏขึ้นที่นี่
-about-logins-login-list-empty-search-title = ไม่พบการเข้าสู่ระบบ
 about-logins-login-list-empty-search-title2 = ไม่พบรหัสผ่าน
 about-logins-login-list-empty-search-description = ไม่มีผลลัพธ์ที่ตรงกับการค้นหาของคุณ
-login-list-item-title-new-login = การเข้าสู่ระบบใหม่
-login-list-item-subtitle-new-login = ป้อนข้อมูลรับรองการเข้าสู่ระบบของคุณ
 login-list-item-title-new-login2 = เพิ่มรหัสผ่าน
 login-list-item-subtitle-missing-username = (ไม่มีชื่อผู้ใช้)
 about-logins-list-item-breach-icon =
@@ -94,28 +68,20 @@ about-logins-list-section-week = 7 วันที่ผ่านมา
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = กำลังมองหาการเข้าสู่ระบบที่คุณบันทึกไว้ใช่หรือไม่? เปิดการซิงค์หรือนำเข้า
-about-logins-login-intro-heading-logged-in = ไม่พบการเข้าสู่ระบบที่ซิงค์
-login-intro-description = ถ้าคุณบันทึกการเข้าสู่ระบบของคุณไว้ที่ { -brand-product-name } บนอุปกรณ์อื่น คุณสามารถนำมาใช้ในอุปกรณ์นี้ได้ด้วยวิธีนี้:
-login-intro-instructions-fxa = สร้างหรือลงชื่อเข้า { -fxaccount-brand-name } ของคุณบนอุปกรณ์ที่บันทึกการเข้าสู่ระบบของคุณ
 about-logins-login-intro-heading-message = บันทึกรหัสผ่านของคุณไว้ในที่ปลอดภัย
 login-intro-description2 = รหัสผ่านทั้งหมดที่คุณบันทึกใน { -brand-product-name } จะถูกเข้ารหัส นอกจากนั้น เราจะคอยเฝ้าระวังการรั่วไหลและแจ้งเตือนคุณถ้าคุณได้รับผลกระทบ <a data-l10n-name="breach-alert-link">เรียนรู้เพิ่มเติม</a>
 login-intro-instructions-fxa2 = สร้างหรือลงชื่อเข้าใช้บัญชีของคุณบนอุปกรณ์ที่บันทึกการเข้าสู่ระบบของคุณ
 login-intro-instructions-fxa-settings = ไปที่ การตั้งค่า > Sync > เปิดการซิงค์… แล้วเลือกกล่องกาเครื่องหมาย การเข้าสู่ระบบและรหัสผ่าน
 login-intro-instructions-fxa-passwords-help = ไปที่<a data-l10n-name="passwords-help-link">การช่วยเหลือรหัสผ่าน</a>สำหรับความช่วยเหลือเพิ่มเติม
-about-logins-intro-browser-only-import = ถ้าการเข้าสู่ระบบของคุณถูกบันทึกไว้ในเบราว์เซอร์อื่น คุณสามารถ<a data-l10n-name="import-link">นำเข้าข้อมูลเหล่านี้ใน { -brand-product-name }</a> ได้
-about-logins-intro-import2 = ถ้าการเข้าสู่ระบบของคุณถูกบันทึกไว้ภายนอก { -brand-product-name } คุณสามารถ<a data-l10n-name="import-browser-link">นำเข้าจากเบราว์เซอร์อื่น</a>หรือ<a data-l10n-name="import-file-link">จากไฟล์</a>ได้
 about-logins-intro-import3 = เลือกปุ่มเครื่องหมายบวกด้านบนเพื่อเพิ่มรหัสผ่านตอนนี้ คุณยังสามารถ<a data-l10n-name="import-browser-link">นำเข้ารหัสผ่านจากเบราว์เซอร์อื่น</a>หรือ<a data-l10n-name="import-file-link">จากไฟล์</a>ได้
 
 ## Login
 
-login-item-new-login-title = สร้างการเข้าสู่ระบบใหม่
 # Header for adding a password
 about-logins-login-item-new-login-title = เพิ่มรหัสผ่าน
 login-item-edit-button = แก้ไข
 about-logins-login-item-remove-button = ลบ
 login-item-origin-label = ที่อยู่เว็บไซต์
-login-item-tooltip-message = ตรวจสอบให้แน่ใจว่าตรงกับที่อยู่ของเว็บไซต์ที่คุณเข้าสู่ระบบ
 about-logins-origin-tooltip2 = ป้อนที่อยู่แบบเต็มและตรวจสอบให้แน่ใจว่าที่อยู่นั้นตรงกันทุกประการกับที่อยู่ที่คุณใช้ลงชื่อเข้า
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -135,7 +101,6 @@ login-item-password-conceal-checkbox =
     .aria-label = ซ่อนรหัสผ่าน
 login-item-copy-password-button-text = คัดลอก
 login-item-copied-password-button-text = คัดลอกแล้ว!
-login-item-save-changes-button = บันทึกการเปลี่ยนแปลง
 about-logins-login-item-save-changes-button = บันทึก
 login-item-save-new-button = บันทึก
 login-item-cancel-button = ยกเลิก
@@ -159,11 +124,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = ถ้าต้องการแก้ไขการเข้าสู่ระบบของคุณ ให้ป้อนข้อมูลรับรองสำหรับการเข้าสู่ระบบ Windows ของคุณ ซึ่งจะช่วยปกป้องความปลอดภัยให้กับบัญชีของคุณ
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = แก้ไขการเข้าสู่ระบบที่บันทึกไว้
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -187,11 +147,6 @@ about-logins-copy-password-os-auth-dialog-message-win = ถ้าต้องก
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = คัดลอกรหัสผ่านที่บันทึกไว้
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = ถ้าต้องการส่งออกการเข้าสู่ระบบของคุณ ให้ป้อนข้อมูลรับรองสำหรับการเข้าสู่ระบบ Windows ของคุณ ซึ่งจะช่วยปกป้องความปลอดภัยให้กับบัญชีของคุณ
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = ส่งออกการเข้าสู่ระบบและรหัสผ่านที่บันทึกไว้
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = ถ้าต้องการส่งออกรหัสผ่านของคุณ ให้ป้อนข้อมูลรับรองสำหรับการเข้าสู่ระบบ Windows ของคุณ ซึ่งจะช่วยปกป้องความปลอดภัยให้กับบัญชีของคุณ
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -209,8 +164,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = ยกเลิก
 confirmation-dialog-dismiss-button =
     .title = ยกเลิก
-about-logins-confirm-remove-dialog-title = ลบการเข้าสู่ระบบนี้?
-confirm-delete-dialog-message = การกระทำนี้ไม่สามารถเลิกทำได้
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = ลบรหัสผ่านหรือไม่?
 # Message for modal to confirm the removal of one saved password
@@ -224,29 +177,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] ลบ
        *[other] ลบทั้งหมด
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] ใช่ ลบการเข้าสู่ระบบนี้
-       *[other] ใช่ ลบการเข้าสู่ระบบเหล่านี้
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-       *[other] ลบการเข้าสู่ระบบทั้งหมด { $count } รายการหรือไม่?
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] การกระทำนี้จะลบการเข้าสู่ระบบที่คุณบันทึกไว้ใน { -brand-short-name } และการแจ้งเตือนเกี่ยวกับการรั่วไหลทั้งหมดที่ปรากฏที่นี่ออก คุณจะไม่สามารถยกเลิกการกระทำนี้ได้
-       *[other] การกระทำนี้จะลบการเข้าสู่ระบบที่คุณบันทึกไว้ใน { -brand-short-name } และการแจ้งเตือนเกี่ยวกับการรั่วไหลทั้งหมดที่ปรากฏที่นี่ออก คุณจะไม่สามารถยกเลิกการกระทำนี้ได้
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-       *[other] ลบ { $count } การเข้าสู่ระบบออกจากอุปกรณ์ทั้งหมดหรือไม่?
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [1] การกระทำนี้จะลบการเข้าสู่ระบบที่คุณบันทึกไว้ใน { -brand-short-name } บนอุปกรณ์ทั้งหมดที่ซิงค์กับ{ -fxaccount-brand-name } ของคุณออก และจะเอาการแจ้งเตือนเกี่ยวกับการรั่วไหลที่ปรากฏที่นี่ออกด้วย คุณจะไม่สามารถยกเลิกการกระทำนี้ได้
-       *[other] การกระทำนี้จะลบการเข้าสู่ระบบที่คุณบันทึกไว้ใน { -brand-short-name } บนอุปกรณ์ทั้งหมดที่ซิงค์กับ{ -fxaccount-brand-name } ของคุณออก และจะเอาการแจ้งเตือนเกี่ยวกับการรั่วไหลที่ปรากฏที่นี่ออกด้วย คุณจะไม่สามารถยกเลิกการกระทำนี้ได้
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -281,15 +211,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = ส่งออกการเข้าสู่ระบบและรหัสผ่าน
-about-logins-confirm-export-dialog-message = รหัสผ่านของคุณจะถูกบันทึกเป็นข้อความที่อ่านได้ (เช่น BadP@ssw0rd) ดังนั้นใครก็ตามที่สามารถเปิดไฟล์ที่ส่งออกได้จะสามารถดูได้
-about-logins-confirm-export-dialog-confirm-button = ส่งออก…
 about-logins-confirm-export-dialog-title2 = หมายเหตุเกี่ยวกับการส่งออกรหัสผ่าน
 about-logins-confirm-export-dialog-message2 =
     เมื่อคุณส่งออก รหัสผ่านของคุณจะถูกบันทึกไว้ในไฟล์ซึ่งจะประกอบด้วยข้อความที่สามารถอ่านได้
     เมื่อคุณใช้ไฟล์เสร็จแล้ว เราขอแนะนำให้ลบไฟล์นั้นเพื่อให้ผู้อื่นที่ใช้อุปกรณ์นี้ไม่สามารถเห็นรหัสผ่านของคุณได้
 about-logins-confirm-export-dialog-confirm-button2 = ทำการส่งออกต่อไป
-about-logins-alert-import-title = การนำเข้าเสร็จสมบูรณ์
 about-logins-alert-import-message = ดูสรุปการนำเข้าโดยละเอียด
 confirm-discard-changes-dialog-title = ละทิ้งการเปลี่ยนแปลงที่ยังไม่ได้บันทึก?
 confirm-discard-changes-dialog-message = การเปลี่ยนแปลงที่ยังไม่ได้บันทึกทั้งหมดจะสูญหาย
@@ -326,11 +252,6 @@ about-logins-error-message-default = เกิดข้อผิดพลาด�
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = ส่งออกไฟล์การเข้าสู่ระบบ
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = logins.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = ส่งออกรหัสผ่านจาก { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -346,8 +267,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = นำเข้าไฟล์การเข้าสู่ระบบ
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = นำเข้ารหัสผ่านมายัง { -brand-short-name }
 about-logins-import-file-picker-import-button = นำเข้า
@@ -371,18 +290,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = การนำเข้าเสร็จสมบูรณ์
-about-logins-import-dialog-items-added =
-    { $count ->
-       *[other] <span>เพิ่มการเข้าสู่ระบบใหม่แล้ว:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-       *[other] <span>อัปเดตการเข้าสู่ระบบที่มีอยู่แล้ว:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-       *[other] <span>พบการเข้าสู่ระบบที่ซ้ำกัน:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ยังไม่ได้นำเข้า)</span>
-    }
 about-logins-import-dialog-items-added2 =
     { $count ->
        *[other] <span>จำนวนรหัสผ่านใหม่ที่เพิ่ม:</span> <span data-l10n-name="count">{ $count }</span>
@@ -414,15 +321,11 @@ about-logins-import-dialog-error-learn-more = เรียนรู้เพิ�
 about-logins-import-dialog-error-try-import-again = ลองนำเข้าอีกครั้ง…
 about-logins-import-dialog-error-cancel = ยกเลิก
 about-logins-import-report-title = สรุปการนำเข้า
-about-logins-import-report-description = นำเข้าการเข้าสู่ระบบและรหัสผ่านไปยัง { -brand-short-name } แล้ว
 about-logins-import-report-description2 = นำเข้ารหัสผ่านมายัง { -brand-short-name } แล้ว
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = แถว { $number }
-about-logins-import-report-row-description-no-change = ซ้ำกัน: ตรงกันทุกประการกับการเข้าสู่ระบบที่มีอยู่
-about-logins-import-report-row-description-modified = อัปเดตการเข้าสู่ระบบที่มีอยู่แล้ว
-about-logins-import-report-row-description-added = เพิ่มการเข้าสู่ระบบใหม่แล้ว
 about-logins-import-report-row-description-no-change2 = ซ้ำกัน: ตรงกันทุกประการกับรายการที่มีอยู่
 about-logins-import-report-row-description-modified2 = อัปเดตรายการที่มีอยู่แล้ว
 about-logins-import-report-row-description-added2 = เพิ่มรหัสผ่านใหม่แล้ว
@@ -439,18 +342,6 @@ about-logins-import-report-row-description-error-missing-field = ข้อผิ
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">เพิ่มการเข้าสู่ระบบใหม่แล้ว</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">อัปเดตการเข้าสู่ระบบที่มีอยู่แล้ว</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">การเข้าสู่ระบบที่ซ้ำกัน</div> <div data-l10n-name="not-imported">(ไม่ได้นำเข้า)</div>
-    }
 about-logins-import-report-added2 =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">เพิ่มรหัสผ่านใหม่แล้ว</div>

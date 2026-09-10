@@ -19,11 +19,6 @@ migration-wizard-selection-option-without-profile = { $sourceBrowser }
 #  $sourceBrowser (String): the name of the browser to import from.
 #  $profileName (String): the name of the user profile to import from.
 migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
-
-# Each migrator is expected to include a display name string, and that display
-# name string should have a key with "migration-wizard-migrator-display-name-"
-# as a prefix followed by the unique identification key for the migrator.
-
 migration-wizard-migrator-display-name-brave = Brave
 migration-wizard-migrator-display-name-canary = کروم کینری
 migration-wizard-migrator-display-name-chrome = Chrome
@@ -75,7 +70,6 @@ migration-bookmarks-option-label = نشانیاں
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = من بھان٘دے
-migration-logins-and-passwords-option-label = محفوظ تھئے لاگ ان تے پاس ورڈ
 migration-passwords-option-label = محفوظ تھئے پاس ورڈ
 migration-history-option-label = براؤزنگ تاریخ
 migration-extensions-option-label = ایکسٹینشنز
@@ -198,8 +192,6 @@ migration-safari-password-import-step3 = پاس ورڈز فائل محفوظ ک�
 migration-safari-password-import-step4 = آپݨی محفوظ کیتی ہوئی پاس ورڈ فائل چݨݨ کیتے ہیٹھاں ”فائل چݨو” ورتو
 migration-manual-password-import-skip-button = چھوڑو
 migration-manual-password-import-select-button = فائل چݨو
-migration-safari-password-import-skip-button = چھوڑو
-migration-safari-password-import-select-button = فائل چݨو
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #

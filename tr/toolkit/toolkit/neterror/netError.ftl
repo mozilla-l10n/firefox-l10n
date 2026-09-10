@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Geri dön
 neterror-return-to-previous-page-recommended-button = Geri dön (Önerilir)
 neterror-try-again-button-2 = Yeniden dene
     .accesskey = Y
-neterror-try-again-button = Yeniden dene
 neterror-add-exception-button = Bu site için her zaman devam et
 neterror-settings-button = DNS ayarlarını değiştir
 neterror-view-certificate-link = Sertifikayı göster
-neterror-trr-continue-this-time = Bu seferlik devam et
-neterror-disable-native-feedback-warning = Her zaman devam et
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = Daha fazla bilgi al
 ##
 
 neterror-pref-reset = Ağ güvenliği ayarlarınız buna yol açıyor olabilir. Varsayılan ayarları geri yüklemek ister misiniz?
-neterror-error-reporting-automatic = { -vendor-short-name }’nın zararlı siteleri tanımlayıp engellemesine yardımcı olmak için bu gibi hataları rapor et
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Wi-Fi bağlantısını kesip yen
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name }, güvenilir DNS çözümleyicimiz aracılığıyla bu sitenin adresiyle ilgili isteğinizi koruyamıyor. Nedeni:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } bu sitenin adresiyle ilgili isteğinizi güvenli DNS sağlayıcımız aracılığıyla koruyamıyor. Nedeni:
 neterror-dns-not-found-trr-third-party-warning2 = Varsayılan DNS çözümleyicinizle devam edebilirsiniz ama bu durumda üçüncü taraflar hangi siteleri ziyaret ettiğinizi görebilir.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } { $trrDomain } adresine bağlanamadı.
 neterror-dns-not-found-trr-only-timeout = { $trrDomain } ile bağlantı kurulması beklenenden uzun sürdü.
-neterror-dns-not-found-trr-offline = İnternete bağlı değilsiniz.
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } bu web sitesini bulamadı.
 neterror-dns-not-found-trr-server-problem = { $trrDomain } ile ilgili bir sorun oluştu.
 neterror-dns-not-found-bad-trr-url = Geçersiz URL.
 neterror-dns-not-found-system-sleep = Sistem uyku modunda.
 neterror-dns-not-found-trr-unknown-problem = Beklenmeyen sorun.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name }, güvenilir DNS çözümleyicimiz aracılığıyla bu sitenin adresiyle ilgili isteğinizi koruyamıyor. Nedeni:
-neterror-dns-not-found-native-fallback-heuristic = Ağınızda HTTPS üzerinden DNS devre dışı bırakıldı.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } { $trrDomain } adresine bağlanamadı.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = Silinmiş, taşınmış veya dosya izinleri nedeniyle e
 neterror-unknown-protocol = Bu adresi açmak için başka bir yazılım yüklemeniz gerekebilir.
 neterror-redirect-loop = Bu sorun bazen çerezlerin devre dışı bırakılmasından veya reddedilmesinden kaynaklanabilir.
 neterror-unknown-socket-type-client-config = Bu durum istemcinizdeki bir yapılandırma hatasından kaynaklanıyor olabilir.
-neterror-unknown-socket-type-psm-installed = Sisteminizde Kişisel Güvenlik Yöneticisi'nin kurulu olduğundan emin olun.
-neterror-unknown-socket-type-server-config = Bu durum, standart dışı sunucu yapılandırmasından kaynaklanabilir.
 neterror-not-cached-intro = Talep edilen belge { -brand-short-name } önbelleğinde mevcut değil.
 neterror-not-cached-sensitive = Bir güvenlik önlemi olarak, { -brand-short-name } hassas belgeleri otomatik olarak yeniden talep etmez.
 neterror-not-cached-try-again = Belgeyi siteden tekrar talep etmek için Yeniden dene’ye tıklayın.

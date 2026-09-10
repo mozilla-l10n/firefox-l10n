@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Ulac amagbar
-    .accesskey = U
 user-context-manage-containers =
     .label = Sefrek imagbaren
     .accesskey = O

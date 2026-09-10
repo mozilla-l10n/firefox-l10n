@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = ขณะนี้คุณอยู่ใ
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = ตั้งรหัสผ่านหลักใหม่
     .style = min-width: 40em
+    .title = ตั้งรหัสผ่านหลักใหม่
 reset-password-button-label =
     .label = ตั้งค่าใหม่
 reset-primary-password-text = หากคุณตั้งรหัสผ่านหลักของคุณใหม่ รหัสผ่านเว็บและอีเมล, ใบรับรองส่วนบุคคล, และกุญแจส่วนตัวทั้งหมดที่คุณจัดเก็บจะถูกลืม คุณแน่ใจหรือไม่ว่าต้องการตั้งรหัสผ่านหลักของคุณใหม่?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = รหัสผ่านหลั�
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = กำลังดาวน์โหลดใบรับรอง
     .style = min-width: 46em
+    .title = กำลังดาวน์โหลดใบรับรอง
 download-cert-message = คุณได้รับคำขอให้เชื่อถือผู้ออกใบรับรอง (CA) ใหม่
 download-cert-trust-ssl =
     .label = เชื่อถือ CA นี้เพื่อระบุเว็บไซต์
@@ -52,8 +52,6 @@ download-cert-view-text = ตรวจสอบใบรับรอง CA
 
 client-auth-window =
     .title = คำขออัตลักษณ์ผู้ใช้
-client-auth-site-description = ไซต์นี้ได้ขอให้คุณระบุตัวคุณเองด้วยใบรับรอง:
-client-auth-choose-cert = เลือกใบรับรองเพื่อระบุตัวตน:
 client-auth-send-no-certificate =
     .label = อย่าส่งใบรับรอง
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = โปรดยืนยันตัวตนกับอุปกรณ์ความปลอดภัย ({ $tokenName }) ซึ่งวิธีการดำเนินการจะขึ้นอยู่กับอุปกรณ์นั้น ๆ (เช่น การใช้เครื่องอ่านลายนิ้วมือ หรือการป้อนรหัสด้วยแป้นตัวเลข
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = โปรดยืนยันตัวตนกับโทเค็น “{ $tokenName }” วิธีดำเนินการดังกล่าวขึ้นอยู่กับโทเค็น (เช่น การใช้เครื่องอ่านลายนิ้วมือ หรือการป้อนรหัสด้วยแป้นตัวเลข)

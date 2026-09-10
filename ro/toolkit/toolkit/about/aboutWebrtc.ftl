@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Ascunde conexiunile Pee
 about-webrtc-aec-logging-msg-label = Jurnalizare AEC
 about-webrtc-aec-logging-off-state-label = Pornește jurnalizarea AEC
 about-webrtc-aec-logging-on-state-label = Oprește jurnalizarea AEC
-about-webrtc-aec-logging-on-state-msg = Jurnalizare AEC activă (vorbește cu apelantul câteva minute și apoi oprește înregistrarea)
 about-webrtc-aec-logging-toggled-on-state-msg = Jurnalizare AEC activă (vorbește cu apelantul câteva minute și apoi oprește înregistrarea)
 about-webrtc-aec-logging-unavailable-sandbox = Variabila de mediu MOZ_DISABLE_CONTENT_SANDBOX=1 este necesară pentru exportarea jurnalelor AEC. Setează această variabilă numai dacă înțelegi riscurile posibile.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Numite
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Selectate
 about-webrtc-save-page-label = Salvează pagina
-about-webrtc-debug-mode-msg-label = Mod depanare
-about-webrtc-debug-mode-off-state-label = Pornește modul depanare
-about-webrtc-debug-mode-on-state-label = Oprește modul depanare
-about-webrtc-stats-heading = Statistici privind sesiunea
 about-webrtc-enable-logging-label = Activează presetarea jurnalului WebRTC
 about-webrtc-peerconnections-section-heading = Statistici RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = Afișează statisticile RTCPeerConnection
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = Ascunde statisticile RTCPeerConn
 about-webrtc-stats-clear = Șterge istoricul
 about-webrtc-log-heading = Jurnalul conexiunii
 about-webrtc-log-clear = Golește jurnalul
-about-webrtc-log-show-msg = afișează jurnalul
-    .title = clic pentru extinderea secțiunii
-about-webrtc-log-hide-msg = ascunde jurnalul
-    .title = clic pentru restrângerea secțiunii
 about-webrtc-log-section-show-msg = Afișează jurnalul
     .title = Clic pentru extinderea secțiunii
 about-webrtc-log-section-hide-msg = Ascunde jurnalul
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Candidat la distanță
 about-webrtc-raw-candidates-heading = Toți candidații bruți
 about-webrtc-raw-local-candidate = Candidat local brut
 about-webrtc-raw-remote-candidate = Candidat la distanță brut
-about-webrtc-raw-cand-show-msg = afișează candidații bruți
-    .title = clic pentru extinderea secțiunii
-about-webrtc-raw-cand-hide-msg = ascunde candidații bruți
-    .title = clic pentru restrângerea secțiunii
 about-webrtc-raw-cand-section-show-msg = Afișează candidații bruți
     .title = Clic pentru extinderea secțiunii
 about-webrtc-raw-cand-section-hide-msg = Ascunde candidații bruți
     .title = Clic pentru restrângerea secțiunii
 about-webrtc-priority = Prioritate
-about-webrtc-fold-show-msg = afișează detaliile
-    .title = clic pentru extinderea secțiunii
-about-webrtc-fold-hide-msg = ascunde detalii
-    .title = clic pentru restrângerea secțiunii
 about-webrtc-fold-default-show-msg = Afișează detaliile
     .title = Clic pentru extinderea secțiunii
 about-webrtc-fold-default-hide-msg = Ascunde detalii
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Furnizat
 # been provided
 about-webrtc-configuration-element-not-provided = Nefurnizat
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Preferințe WebRTC setate de utilizator
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = Configurație WebRTC modificată de utilizator
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = Timp dus-întors (RTT) (ms)
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Statistici cadre video - ID MediaStreamTrack: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = pagină salvată în: { $path }
-about-webrtc-debug-mode-off-state-msg = jurnalul de urmărire poate fi găsit la: { $path }
-about-webrtc-debug-mode-on-state-msg = mod de depanare activ, jurnalul de urmărire la: { $path }
-about-webrtc-aec-logging-off-state-msg = fișierele de jurnal captate se găsesc în: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

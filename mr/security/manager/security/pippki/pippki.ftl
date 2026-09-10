@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = प्रमाणपत्र डाउनलोड करत आहे
     .style = min-width: 46em
+    .title = प्रमाणपत्र डाउनलोड करत आहे
 download-cert-message = आपणास नवीन प्रमाणपत्र अधिप्रमाणन (CA) वर विश्वास ठेवण्यास कळवण्यात आले आहे.
 download-cert-trust-ssl =
     .label = संकेत स्थळे ओळखण्याकरिता ह्या CA वर विश्वास ठेवा.
@@ -37,8 +37,6 @@ download-cert-view-text = CA प्रमाणपत्राचे परि�
 
 client-auth-window =
     .title = वापरकर्ता ओळख विनंती
-client-auth-site-description = हे स्थळ विनंती करत आहे की आपले ओळख प्रमाणपत्र असले पाहिजे:
-client-auth-choose-cert = ओळखण्याकरीता प्रमाणपत्र निवडा:
 client-auth-cert-details = निवडलेल्या प्रमाणपत्राचे तपशील:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

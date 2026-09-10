@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = Расширения и темы
 appmenuitem-extensions =
     .label = Расширения
-appmenuitem-addons-and-themes =
-    .label = Дополнения и темы
 appmenuitem-print =
     .label = Печать…
 appmenuitem-find-in-page =
@@ -154,7 +152,6 @@ fxa-menu-get-firefox-mobile =
     .label = Скачать { -brand-product-name } для Android или iOS
 fxa-menu-secure-sync-subpanel =
     .title = Безопасная синхронизация
-appmenu-fxa-header2 = { -fxaccount-brand-name(case: "nominative_uppercase") }
 appmenu-account-header = Аккаунт
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -176,15 +173,6 @@ appmenuitem-save-page =
     .label = Сохранить как…
 appmenuitem-fxa-sync-off-title = Синхронизация отключена
 appmenuitem-fxa-sync-off-description = Защитите и получите доступ к своим закладкам, паролям и многому другому из любого места.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Что нового
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Уведомлять о новых функциях
-    .accesskey = в
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -326,8 +314,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Информация для решения проблем
     .accesskey = а
-appmenu-help-report-site-issue =
-    .label = Сообщить о проблеме с сайтом…
 appmenu-help-share-ideas =
     .label = Поделиться идеей или оставить отзыв…
     .accesskey = д
@@ -393,7 +379,6 @@ appmenuitem-vpn-description5 = Получите дополнительную з�
 appmenuitem-vpn-title-signed-in1 = Скачать { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Получите полную защиту устройства
-appmenuitem-vpn-description = Защитите свою активность в Интернете
 appmenu-services-header = Мои сервисы
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -403,7 +388,6 @@ appmenu-other-protection-header3 = Инструменты приватности
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Попробуйте другие инструменты защиты от Mozilla:
-appmenu-other-protection-header = Попробуйте другие инструменты защиты от { -vendor-short-name }:
 
 ## Profiles panel
 

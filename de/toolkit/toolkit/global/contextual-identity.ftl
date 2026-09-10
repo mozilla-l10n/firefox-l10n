@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Keine Umgebung
-    .accesskey = K
 user-context-manage-containers =
     .label = Tab-Umgebungen verwalten
     .accesskey = v

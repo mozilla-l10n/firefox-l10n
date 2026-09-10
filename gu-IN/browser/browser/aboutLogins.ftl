@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = લોગિન્સ અને પાસવર્ડ્સ
 fxaccounts-sign-in-text = તમારા પાસવર્ડ્સ તમારા અન્ય ઉપકરણો પર મેળવો
 fxaccounts-avatar-button =
     .title = એકાઉન્ટ મેનેજ કરો
@@ -23,39 +22,22 @@ about-logins-menu-menuitem-help = મદદ કરો
 
 login-list =
     .aria-label = શોધ ક્વેરીથી મેળ ખાતા લોગિન્સ
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } લોગિન
-       *[other] { $count } લોગિન્સ
-    }
 login-list-sort-label-text = આનાથી સૉર્ટ કરો:
 login-list-name-option = નામ (A-Z)
 login-list-name-reverse-option = નામ (Z-A)
 about-logins-login-list-alerts-option = ચેતવણીઓ
 login-list-last-changed-option = છેલ્લે સુધારેલ
 login-list-last-used-option = છેલ્લે વપરાયેલ
-login-list-intro-title = કોઈપણ લોગિન્સ મળ્યાં નથી
 login-list-intro-description = જ્યારે તમે password { -brand-product-name } in માં પાસવર્ડ સાચવો છો, ત્યારે તે અહીં બતાવવામાં આવશે.
-about-logins-login-list-empty-search-title = કોઈપણ લોગિન્સ મળ્યાં નથી
 about-logins-login-list-empty-search-description = તમારી શોધ સાથે મેળ ખાતા કોઈ પરિણામો નથી.
-login-list-item-title-new-login = નવો લોગિન
-login-list-item-subtitle-new-login = તમારા લોગિન્સ ઓળખપત્રો દાખલ કરો
 login-list-item-subtitle-missing-username = (વપરાશકર્તા નામ નથી)
 about-logins-list-item-breach-icon =
     .title = ભંગ વેબસાઇટ
 about-logins-list-item-vulnerable-password-icon =
     .title = સંવેદનશીલ પાસવર્ડ
 
-## Introduction screen
-
-about-logins-login-intro-heading-logged-in = કોઈ સમન્વયિત લોગિન્સ મળ્યાં નથી.
-login-intro-description = જો તમે તમારા લોગિન્સને કોઈ અલગ ડિવાઇસ { -brand-product-name } પર સાચવ્યાં છે, તો અહીં તેમને કેવી રીતે મેળવવા તે અહીં છે:
-
 ## Login
 
-login-item-new-login-title = નવું લોગિન બનાવો
 login-item-edit-button = ફેરફાર કરો
 about-logins-login-item-remove-button = દૂર કરો
 login-item-origin-label = વેબસાઇટનું સરનામું
@@ -71,7 +53,6 @@ login-item-password-reveal-checkbox =
     .aria-label = પાસવર્ડ બતાવો
 login-item-copy-password-button-text = નકલ
 login-item-copied-password-button-text = નકલ કરેલ!
-login-item-save-changes-button = ફેરફારો સાચવો
 login-item-save-new-button = સાચવો
 login-item-cancel-button = રદ કરો
 
@@ -97,8 +78,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = રદ કરો
 confirmation-dialog-dismiss-button =
     .title = રદ કરો
-about-logins-confirm-remove-dialog-title = આ લોગિન ને દૂર કરીએ?
-confirm-delete-dialog-message = આ ક્રિયા પૂર્વવત્ કરી શકાતી નથી.
 about-logins-confirm-remove-dialog-confirm-button = દૂર કરો
 
 ##

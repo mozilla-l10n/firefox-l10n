@@ -26,24 +26,10 @@ xpinstall-prompt-never-allow =
 xpinstall-prompt-install =
     .label = Ku insztalacyji
     .accesskey = K
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = Insztalacyjo softwaru je zastawiono ôd ôperatora twojigo systymu.
 xpinstall-disabled = Insztalacyjo softwaru je teroz zastawiōno. Kliknij Załōncz i sprōbuj jeszcze roz.
 xpinstall-disabled-button =
     .label = Załōncz
     .accesskey = w
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = Rozszyrzynie { $addonName } ({ $addonId }) je zaszperowane ôd administratora systymu.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Administratōr systymu niy doł tyj strōnie spytać cie, coby zainsztalować software na tym kōmputrze.
 addon-install-full-screen-blocked = Niy śmiysz insztalować rozszyrzyń we trybie cołkigo ekranu abo podwiela do niego niy wleziesz.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -57,9 +43,6 @@ webext-perms-update-menu-item = Rozszyrzynie { $addonName } potrzebuje nowyj zgo
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Skasować { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Wyciepać { $name } ze aplikacyje { -brand-shorter-name }?
 addon-removal-button = Wyciep
 addon-removal-abuse-report-checkbox = Dej znac ô tym rozszyrzyniu do { -vendor-short-name }
 # Variables:
@@ -120,4 +103,3 @@ addon-local-install-error-not-signed = Niy szło zainsztalować tego rozszyrzyni
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Niy szło zainsztalować rozszyrzynio { $addonName }, bo niy ma kōmpatybilne ze aplikacyjōm { -brand-short-name } { $appVersion }.
-addon-install-error-blocklisted = Niy szło zainsztalować rozszyrzynio { $addonName } skuli wielkigo ryzyka, iże pokożōm sie problymy ze stabilnościōm abo bezpieczyństwym systymu.

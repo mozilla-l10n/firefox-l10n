@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Sighi cun s'installatzione
     .accesskey = S
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Su situ rechedet s’atzessu a is dispositivos MIDI (Musical Instrument Digital Interface). Si podet permìtere s’atzessu a is dispositivos installende unu cumplementu.
 site-permission-install-first-prompt-midi-message = No est garantidu chi custu atzessu siat seguru. Sighi isceti si cunfias cun custu situ.
 site-permission-install-first-prompt-serial-header = Custu situ est rechedende atzessu a is dispositivos in sèrie tuos. S’atzessu a is dispositivos si podet ativare installende unu cumplementu.
 site-permission-install-first-prompt-serial-message = No est garantidu chi custu atzessu siat seguru. Sighi isceti si cunfias cun custu situ.
-
-##
-
-xpinstall-disabled-locked = S'amministratzione de sistema at disativadu s'installatzione de programmas.
 xpinstall-disabled-by-policy = S'installatzione de programmas est istada disativada dae s'organizatzione tua
 xpinstall-disabled = S’installatzione de programmas est disativada immoe. Incarca Ativa e torra a nche proare.
 xpinstall-disabled-button =
     .label = Ativa
     .accesskey = A
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = S'amministratzione de sistema at blocadu { $addonName } ({ $addonId }).
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = S'amministratzione de sistema at impedidu a custu situ de ti dimandare de installare unu programma in s'elaboradore tuo.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = Acabba de installare is estensiones importadas a { -bra
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Nche boles bogare a { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Boles bogare { $name } dae { -brand-shorter-name }?
 addon-removal-button = Boga
 addon-removal-abuse-report-checkbox = Sinnala custa estensione a { -vendor-short-name }
 # "it" refers to the local AI model that is paired to the AI feature
@@ -139,7 +122,5 @@ addon-local-install-no-addon-name-error-file-access = Su cumplementu non podet �
 addon-install-error-incompatible = { $addonName } non si podet installare ca no est cumpatìbile cun { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = { $addonName } vìolat is polìticas de Mozilla e non si podet installare in { -brand-short-name }.
 addon-install-error-soft-blocked2 = { $addonName } est limitadu e non podet èssere installadu in { -brand-short-name }.
-addon-install-error-blocklisted = { $addonName } non si podet installare ca tenet un'arriscu artu de causare problemas de istabilidade o de seguresa.
-addon-install-error-soft-blocked = { $addonName } vìolat is polìticas de Mozilla e non si podet installare in { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Non podes installare { $addonName } comente a utente finale, ca podet èssere installadu isceti dae un'organizatzione chi impreat polìticas aziendales.

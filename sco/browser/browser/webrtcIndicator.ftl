@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } — Sharin Minder
-webrtc-indicator-window =
-    .title = { -brand-short-name } — Sharin Minder
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Ye're sharin yer microphone. Click tae control sharin.
 webrtc-screen-system-menu =
     .label = Ye're sharin a windae or screen. Click tae control sharin.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Yer camera and microphone are bein shared. Click fur tae control sharin.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Yer camera is bein shared. Click fur tae control sharin.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Yer microphone is bein shared. Click fur tae control sharin.
-webrtc-indicator-sharing-application =
-    .tooltiptext = An application is bein shared. Click fur tae control sharin.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Yer screen is bein shared. Click fur tae control sharin.
-webrtc-indicator-sharing-window =
-    .tooltiptext = A windae is bein shared. Click fur tae control sharin.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = A tab is bein shared. Click fur tae control sharin.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -170,7 +151,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Alloo { $origin 
 
 webrtc-share-screen-warning = Anely share screens wi sites ye trust. Sharin can alloo begowkin sites tae stravaig as you and pauchle yer private data.
 webrtc-share-browser-warning = Anely share { -brand-short-name } wi sites ye trust. Sharin can alloo begowkin sites tae stravaig as you and pauchle yer private data.
-webrtc-share-screen-learn-more = Lairn mair
 webrtc-pick-window-or-screen = Wale windae or screen
 webrtc-share-entire-screen = Hale screen
 webrtc-share-pipe-wire-portal = Yaise operatin system settins

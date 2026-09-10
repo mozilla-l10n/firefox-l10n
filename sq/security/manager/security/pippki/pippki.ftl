@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Gjendeni nën mënyrën FIPS. FIPS lyp nj�
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Ricaktoni Fjalëkalimin e Përgjithshëm
     .style = min-width: 40em
+    .title = Ricaktoni Fjalëkalimin e Përgjithshëm
 reset-password-button-label =
     .label = Riktheje te parazgjedhjet
 reset-primary-password-text = Nëse ricaktoni Fjalëkalimin tuaj të Përgjithshëm, tërë fjalëkalimet tuaj të ruajtur për web dhe email, dëshmi vetjake dhe kyçe privatë, do të harrohen. Jeni i sigurt se doni të ricaktoni Fjalëkalimin tuaj të Përgjithshëm?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Fjalëkalimi juaj I Përgjithshëm 
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Shkarkim Dëshmie
     .style = min-width: 46em
+    .title = Shkarkim Dëshmie
 download-cert-message = Ju është kërkuar të besoni një Autoritet të ri Dëshmish (AD).
 download-cert-trust-ssl =
     .label = Beso këtë AD në identifikim sajtesh.
@@ -52,8 +52,6 @@ download-cert-view-text = Shqyrtoni dëshmi AD-je
 
 client-auth-window =
     .title = Kërkesë Identifikimi Përdoruesi
-client-auth-site-description = Ky sajt ka kërkuar që të identifikoni vetveten përmes një dëshmie:
-client-auth-choose-cert = Zgjidhni një dëshmi për ta paraqitur si identifikim:
 client-auth-send-no-certificate =
     .label = Mos dërgo dëshmi
 # Variables:
@@ -100,9 +98,3 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Fjalëkalim kopjeruajtjeje dëshmish (sërish):
 set-password-reminder = E rëndësishme: Nëse harroni fjalëkalim kopjeruajtjeje dëshmish, nuk do të jeni në gjendje të riktheni më vonë këtë kopjeruajtje. Ju lutemi, regjistrojeni në një vend të parrezik.
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Ju lutemi, bëni mirëfilltësimin ndaj tokeni “{ $tokenName }”. Si të bëhet kjo varet nga tokeni (për shembull, duke përdorur një lexues shenjash gishtash, ose duke dhënë një kod me një tastierë numerike).

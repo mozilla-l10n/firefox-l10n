@@ -5,12 +5,6 @@
 xpinstall-prompt-dont-allow =
     .label = Bèk Peuidin
     .accesskey = D
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } teutamah keu { -brand-short-name }

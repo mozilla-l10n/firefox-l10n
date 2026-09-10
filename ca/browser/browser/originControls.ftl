@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = L'extensió no pot llegir ni canviar les dades
-origin-controls-quarantined =
-    .label = L'extensió no té permís per llegir o modificar dades
 origin-controls-quarantined-status =
     .label = L'extensió no té permís per utilitzar-se en els llocs restringits
 origin-controls-quarantined-allow =

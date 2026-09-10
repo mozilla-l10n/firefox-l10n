@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = { -vendor-short-name } నుండి మరిన్ని
 more-from-moz-category =
     .tooltiptext = { -vendor-short-name } నుండి మరిన్ని
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }

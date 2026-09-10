@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Aql-ak·akem akka tura deg uskar FIPS . FI
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Wennez awal uffir agejdan
     .style = min-width: 40em
+    .title = Wennez awal uffir agejdan
 reset-password-button-label =
     .label = Sfeḍ
 reset-primary-password-text = Ma tsefḍeḍ awal-ik·im uffir agejdan, akk awallen uffiren n web d wid n yimaylen, iselkinen udmawanen d tsura tusligin ad ttwattun. Tebɣiḍ s tidet ad twennzeḍ awal-ik·im uffir agejdan?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Awla-inek·inem uffir agejdan yettu
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Asader n uselkin
     .style = min-width: 46em
+    .title = Asader n uselkin
 download-cert-message = Sutren-ak-d asentem n udabu n uselken amaynut (CA).
 download-cert-trust-ssl =
     .label = Sentem abadu-yagi n uselken akken ad suluḍ ismal web.
@@ -52,8 +52,6 @@ download-cert-view-text = Sekyed aselkin n udabu n selken
 
 client-auth-window =
     .title = Asuter n usulu n useqdac
-client-auth-site-description = Asmel-agi ad yessutur asulu s uselkin n tɣellist:
-client-auth-choose-cert = Fren aselkin i usulay
 client-auth-send-no-certificate =
     .label = Ur ttazen ara aselkin
 # Variables:

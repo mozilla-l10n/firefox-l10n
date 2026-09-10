@@ -15,10 +15,6 @@ experimental-features-js-warp-description = Enable Warp, a project to improve Ja
 experimental-features-ime-search =
     .label = Address Bar: show results during IME composition
 experimental-features-ime-search-description = An IME (Input Method Editor) is a tool that allows you to enter complex symbols, such as those used in East Asian or Indic written languages, using a standard keyboard. Enabling this experiment will keep the address bar panel open, showing search results and suggestions, while using IME to input text. Note that the IME might display a panel that covers the address bar results, therefore this preference is only suggested for IME not using this type of panel.
-# Auto Picture-in-Picture
-experimental-features-auto-pip =
-    .label = Picture-in-Picture: auto-open on tab switch
-experimental-features-auto-pip-description = Enable Picture-in-Picture on active videos when switching tabs.
 experimental-features-group-developer-tools =
     .label = Developer Tools
 experimental-features-group-webpage-display =
@@ -29,10 +25,6 @@ experimental-features-group-productivity =
     .label = Productivity
 experimental-features-group-newtab-widgets =
     .label = Widgets on { -firefox-home-brand-name }
-# Contextual Password Manager in sidebar
-experimental-features-contextual-password-manager =
-    .label = Passwords in the sidebar
-experimental-features-contextual-password-manager-description = Access your passwords right from the sidebar. No more searching around or resetting passwords when you’re trying to sign in. To use this feature, select passwords in the sidebar. Then go to your general settings and under browser layout, select show sidebar. Then, customise your sidebar by selecting passwords. If you try it, <a data-l10n-name="connect">let us know what you think</a>.
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Choose a custom wallpaper or colour for New Tab

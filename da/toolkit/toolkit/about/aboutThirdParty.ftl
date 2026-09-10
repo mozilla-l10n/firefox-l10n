@@ -30,11 +30,11 @@ third-party-tag-background = Baggrund
         Dette modul blokerede ikke applikationen, fordi det blev indlæst
         i baggrunden.
 third-party-icon-unsigned =
-    .title = Dette modul er ikke signeret
     .alt = Dette modul er ikke signeret
+    .title = Dette modul er ikke signeret
 third-party-icon-warning =
-    .title = { -brand-short-name } gik ned i kode fra dette modul
     .alt = { -brand-short-name } gik ned i kode fra dette modul
+    .title = { -brand-short-name } gik ned i kode fra dette modul
 third-party-status-loaded = Indlæst
 third-party-status-blocked = Blokeret
 third-party-status-redirected = Omdirigeret
@@ -46,32 +46,17 @@ third-party-button-reload = Genindlæs med systeminfo
     .title = Genindlæs med systeminformation
 third-party-button-open =
     .title = Åbn filplacering…
-third-party-button-to-block =
-    .title = Bloker dette modul
-    .aria-label = Bloker dette modul
-third-party-button-to-unblock =
-    .title = Blokeret i øjeblikket. Klik for at fjerne blokering.
-    .aria-label =
-        Blokeret i øjeblikket. Klik for at fjerne blokering.
-        Blokeret i øjeblikket. Klik for at fjerne blokering.
-third-party-button-to-unblock-disabled =
-    .title =
-        I øjeblikket markeret som blokeret, selvom blokeringslisten er deaktiveret for
-        denne kørsel af { -brand-short-name }. Klik for at fjerne blokering.
-    .aria-label =
-        I øjeblikket markeret som blokeret, selvom blokeringslisten er deaktiveret for
-        denne kørsel af { -brand-short-name }. Klik for at fjerne blokering.
 third-party-button-to-block-module = Bloker dette modul
-    .title = Bloker dette modul
     .aria-label = Bloker dette modul
+    .title = Bloker dette modul
 third-party-button-to-unblock-module = Fjern blokering af dette modul
-    .title = Er i øjeblikket blokeret. Klik for at fjerne blokeringen.
     .aria-label = Er i øjeblikket blokeret. Klik for at fjerne blokeringen.
+    .title = Er i øjeblikket blokeret. Klik for at fjerne blokeringen.
 third-party-button-to-unblock-module-disabled = Fjern blokering af dette modul (blokeringsliste er i øjeblikket deaktiveret)
-    .title =
+    .aria-label =
         I øjeblikket markeret som blokeret, selvom blokeringslisten er deaktiveret for denne
         kørsel af { -brand-short-name }. Klik for at fjerne blokering.
-    .aria-label =
+    .title =
         I øjeblikket markeret som blokeret, selvom blokeringslisten er deaktiveret for denne
         kørsel af { -brand-short-name }. Klik for at fjerne blokering.
 third-party-button-expand =
@@ -83,5 +68,5 @@ third-party-should-restart-title = Genstart { -brand-short-name }
 third-party-restart-now = Genstart nu
 third-party-restart-later = Genstart senere
 third-party-blocked-by-builtin =
-    .title = Blokeret af { -brand-short-name }
     .alt = Blokeret af { -brand-short-name }
+    .title = Blokeret af { -brand-short-name }

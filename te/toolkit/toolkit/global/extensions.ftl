@@ -10,9 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = { $extension } ను జోడించాలా?
 webext-perms-sideload-header = { $extension } చేర్చబడింది
-webext-perms-optional-perms-header = { $extension } అదనపు అనుమతులు అడుగుతోంది.
 
 ##
 
@@ -45,21 +43,5 @@ webext-perms-host-description-all-urls = అన్ని వెబ్ సైట�
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } డొమైను సైట్లలో మీ డేటాను చూడటం
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] { $domainCount } ఇతర డొమైన్లో మీ డేటాను చూడటం
-       *[other] { $domainCount } ఇతర డొమైన్లలో మీ డేటాను చూడటం
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain }లో మీ డేటాను చూడటం
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] { $domainCount } ఇతర సైటులో మీ డేటాను చూడటం
-       *[other] { $domainCount } ఇతర సైట్లలో మీ డేటాను చూడటం
-    }

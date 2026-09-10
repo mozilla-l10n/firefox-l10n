@@ -16,8 +16,6 @@ styleeditor-save-button = I-save
     .accesskey = s
 styleeditor-options-button =
     .tooltiptext = Mga pagpipilian sa Style Editor
-styleeditor-editor-textbox =
-    .data-placeholder = I-type ang CSS dito.
 styleeditor-no-stylesheet = Ang pahinang ito ay walang style sheet.
 styleeditor-no-stylesheet-tip = Baka gusto mo <a data-l10n-name="append-new-stylesheet">mag-append ng bagong style sheet</a>?
 styleeditor-open-link-new-tab =

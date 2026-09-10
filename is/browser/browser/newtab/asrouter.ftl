@@ -62,19 +62,12 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Samstilltu bókamerkin þín allsstaðar.
-cfr-doorhanger-bookmark-fxa-body = Frábær fundur! Vertu ekki án þessa bókamerkis á farsímum þínum. Byrjaðu á { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = Frábær fundur! Vertu ekki án þessa bókamerkis á snjalltækjunum þínum. Byrjaðu á að fá þér reikning.
 cfr-doorhanger-bookmark-fxa-link-text = Samstilla bókamerki núna ...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Loka hnappur
     .title = Loka
 fxa-adoption-primary-button-label = Nýskrá
-
-## Protections panel
-
-cfr-protections-panel-header = Vafraðu án þess að fylgst sé með þér
-cfr-protections-panel-body = Haltu þínum gögnum fyrir sjálfan þig. { -brand-short-name } verndar þig fyrir mörgum algengustu rekjurum sem fylgjast með því sem þú gerir á netinu.
-cfr-protections-panel-link-text = Frekari upplýsingar
 
 ## What's New toolbar button and panel
 
@@ -170,42 +163,8 @@ mr2022-background-update-toast-primary-button-label = Opna { -brand-shorter-name
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Minna mig á seinna
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Prófaðu það
-    .accesskey = P
-firefoxview-cfr-secondarybutton = Ekki núna
-    .accesskey = n
-firefoxview-cfr-header-v2 = Haltu strax áfram þar sem frá var horfið
-firefoxview-cfr-body-v2 = Fáðu nýokaða flipa til baka, auk þess að skipta óaðfinnanlega á milli tækja með { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Segðu hæ við { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Viltu þennan opna flipa á símann þinn? Gríptu það. Þarftu þessa vefsíðu sem þú heimsóttir nýlega? Bang, þetta er komið með { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Sjá hvernig þetta virkar
-firefoxview-spotlight-promo-secondarybutton = Sleppa
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Veldu litasett
-    .accesskey = d
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Litaðu vafrann þinn með { -brand-short-name } einstökum tónum innblásnum af röddum sem breyttu menningunni.
-colorways-cfr-header-28days = Litasett Independent Voices rennur út 16. janúar
-colorways-cfr-header-14days = Litasett Independent Voices rennur út eftir tvær vikur
-colorways-cfr-header-7days = Litasett Independent Voices rennur út í þessari viku
-colorways-cfr-header-today = Litasett Independent Voices rennur út í dag
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Leyfa { -brand-short-name } að hafna vefkökuborðum?
-cfr-cbh-body = { -brand-short-name } getur reynt að hafna sjálfkrafa beiðnum um vefkökur.
-cfr-cbh-confirm-button = Hafna vefkökuborðum
-    .accesskey = r
-cfr-cbh-dismiss-button = Ekki núna
-    .accesskey = n
 cookie-banner-blocker-onboarding-header = { -brand-short-name } var að loka á vefkökuborða fyrir þig
 cookie-banner-blocker-onboarding-body = Minni truflanir, færri vefkökur sem rekja ferðir þínar á þessu vefsvæði.
 cookie-banner-blocker-onboarding-learn-more = Kanna nánar

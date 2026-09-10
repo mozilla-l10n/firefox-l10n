@@ -39,8 +39,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Daži paplašinājumi nav atļauti
-unified-extensions-mb-quarantined-domain-message = Lai aizsargātu jūsu datus, šajā vietnē ir atļauti tikai daži paplašinājumi, ko uzrauga { -vendor-short-name }.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Daži paplašinājumi nav atļauti

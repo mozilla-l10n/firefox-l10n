@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = कनेक्शन सेटिंग
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = कनेक्शन सेटिंग
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -53,14 +53,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = फिर लोड करें
     .accesskey = e
-connection-proxy-autologin =
-    .label = अगर शब्दकूट सहेजा जाता है तो प्रमाणीकरण के लिए संकेत न करें
-    .accesskey = i
-    .tooltip = यह विकल्प आपको धीमे से प्रॉक्सी के लिए सत्यापित करता है जब आप उसके लिए प्रमाण सहेजते हैं. आपको प्रांप्ट किया जाएगा यदि सत्यापन विफल रहता है.
 connection-proxy-autologin-checkbox =
     .label = अगर शब्दकूट सहेजा जाता है तो प्रमाणीकरण के लिए संकेत न करें
-    .accesskey = i
     .tooltiptext = यह विकल्प आपको धीमे से प्रॉक्सी के लिए सत्यापित करता है जब आप उसके लिए प्रमाण सहेजते हैं. आपको प्रांप्ट किया जाएगा यदि सत्यापन विफल रहता है.
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = SOCKS v5 उपयोग करने पर स्थानापन्न डीएनएस
     .accesskey = d
@@ -71,6 +67,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = HTTPS पर DNS को हल करने के लिए तयशुदा URL का उपयोग करें
 connection-dns-over-https-url-custom =
     .label = अनुकूलित करें
-    .accesskey = स
     .tooltiptext = आप का प्रिफर्ड यूआरएल फॉर रेसोल्विंग डी न स  ओवर एचटीटीपीएस
-connection-dns-over-https-custom-label = अनुकूलित
+    .accesskey = स

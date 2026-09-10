@@ -92,8 +92,6 @@ options-context-advanced-settings = Paràmetres avançats
 options-disable-http-cache-label = Inhabilita la memòria cau HTTP (quan la caixa d'eines està oberta)
 options-disable-http-cache-tooltip =
     .title = Activeu aquesta opció per inhabilitar la memòria cau HTTP per a totes les pestanyes que tinguin oberta la caixa d'eines. Aquesta opció no afecta els processos de treball de servei.
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Inhabilita el JavaScript *
 options-disable-javascript-tooltip =
     .title = Activeu aquesta opció per inhabilitar el JavaScript en la pestanya actual. Aquest paràmetre s'oblidarà quan tanqueu la pestanya o la caixa d'eines.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -112,8 +110,6 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Habilita els mapes de fonts
 options-source-maps-tooltip =
     .title = Si habiliteu aquesta opció, es maparan les fonts en les eines.
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Només la sessió actual, recarrega la pàgina
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

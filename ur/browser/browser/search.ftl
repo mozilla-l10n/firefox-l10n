@@ -28,7 +28,7 @@ searchbar-icon =
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = تلاش انجن شامل کریں
     .style = min-width: 32em;
+    .title = تلاش انجن شامل کریں
 add-engine-button = مخصوص انجن شامل کریں
 add-engine-name = تلاش انجن کا نام

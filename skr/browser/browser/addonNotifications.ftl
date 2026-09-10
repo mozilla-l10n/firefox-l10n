@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = انسٹالیشن جاری رکھو
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = ایہ سائٹ تہاݙیاں MIDI (میوزیکل انسٹرومنٹ ڈیجیٹل انٹرفیس) ڈیوائساں تائیں رسائی دی ارداس کریندی پئی ہے۔ ہک ایڈ آن انسٹال کر تے ڈیوائس تائیں رسائی کوں فعال کیتا ون٘ڄ سڳدے۔
 site-permission-install-first-prompt-midi-message = ایں رسائی دے محفوظ ہووݨ دی ضمانت کائنی۔ تہاکوں ایں سائٹ تے تہاکوں بھروسہ ہے تاں صرف ایں صورت وچ ہی جاری رکھو۔
 site-permission-install-first-prompt-serial-header = ایہ سائٹ تہاݙے سیریل آلات تائیں رسائی دی درخواست کریندی پئی ہے۔ آلہ تائیں رسائی کوں ہک ایڈ آن انسٹال کر تے فعال کیتا ونڄ سڳدا ہے۔
 site-permission-install-first-prompt-serial-message = ایں رسائی دے محفوظ ہووݨ دی ضمانت کائنی۔ تہاکوں ایں سائٹ تے تہاکوں بھروسہ ہے تاں صرف ایں صورت وچ ہی جاری رکھو۔
-
-##
-
-xpinstall-disabled-locked = تہاݙے سسٹم دے منتظم دی طرفوں سافٹ ویئر انسٹالیشن کوں غیر فعال کر ݙتا ڳئے۔
 xpinstall-disabled-by-policy = تُہاݙی تنظیم دی طرفوں سافٹ ویئر دی تنصیب کوں غیر فعال کر ݙِتّا ڳئے۔
 xpinstall-disabled = سافٹ ویئر دی انسٹالیشن فی الحال غیر فعال ہے۔ فعال کرݨ کیتے کلک کرو تے دوبارہ کوشش کرو۔
 xpinstall-disabled-button =
     .label = قابل بݨاؤ
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) تہاݙے سسٹم منتظم دی طرفوں بلاک کر ݙتا ڳئے.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = تہاݙے سسٹم دے منتظم ایں سائٹ کوں تہاݙے کمپیوٹر تے سافٹ ویئر انسٹال کرݨ کیتے آکھݨ توں روک ݙتا ہے۔
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = { -brand-short-name }وِچ درآمد کِیتے ڳئ�
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = ہٹاؤ { $name } ؟
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = { -brand-shorter-name } کنوں { $name } ہٹاؤ؟
 addon-removal-button = ہٹاؤ
 addon-removal-abuse-report-checkbox = ایں توسیع دی اطلاع{ -vendor-short-name } کوں ݙیو
 # Variables:
@@ -129,6 +112,5 @@ addon-local-install-error-not-signed = ایہ ایڈ آن انسٹال نہیں 
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } کوں انسٹال نہیں کیتا ونڄ سڳیا کیوں جو ایہ { -brand-short-name } { $appVersion } دے نال میل نئیں کھاندا۔
-addon-install-error-blocklisted = { $addonName } کوں انسٹال نہیں کیتا ونڄ سڳیا کیوں جو ایندے وِچ استحکام یا سیکورٹی دے مسائل پیدا تھیوݨ دا زیادہ بھئو ہے۔
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = تساں { $addonName } کوں چھیکڑی ورتݨ آلے دے طور تے انسٹال نہوے کر سڳدے، ایں کوں صرف انٹرپرائز پالیسیاں ورت کے کہیں تنظیم  ولوں انسٹال کیتا ون٘ڄ سڳدا ہے۔

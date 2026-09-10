@@ -96,11 +96,5 @@ download-utils-time-left-single = preostalo { $time }
 download-utils-time-left-double = preostalo { $time1 } { $time2 }
 download-utils-time-few-seconds = Još par sekundi
 download-utils-time-unknown = Nepoznato vremena preostalo
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = { $scheme } resurs
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = lokalna datoteka
 # Displayed time for files finished yesterday
 download-utils-yesterday = Jučer

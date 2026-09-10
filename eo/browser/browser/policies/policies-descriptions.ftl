@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Eviti ke la norma retumila agento faru ion a
 policy-DisableDeveloperTools = Bloki aliron al la iloj por programistoj.
 policy-DisableEncryptedClientHello = Malaktivigi la uzon de TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Malaktivigi eblojn “sendi opiniojn” kaj “denunci trompan retejon” en la menuo de helpo.
-policy-DisableFirefoxAccounts = Malaktivigi servojn bazitaj sur { -fxaccount-brand-name }, inkluzive Speguladon.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Malaktivigi servojn kiuj postulas konton, tio inkluzivas speguladon.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Ne memori serĉan kah formularan historion.
 policy-DisableLaunchOnLogin = Eviti ke { -brand-short-name } aŭtomate komencu kiam la uzanto komencas seancon.
 policy-DisablePrimaryPasswordCreation = Se tio estas aktiva, ne eblos krei ĉefan pasvorton.
 policy-DisablePasswordReveal = Ne permesi malkaŝi pasvortojn en konservitaj legitimiloj.
-policy-DisablePocket2 = Malaktivigi la eblon konservi retpaĝojn en { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Malaktivigi privatan retumon
 policy-DisableProfileImport = Malaktivigi la menueron por importi datumojn el alia retumilo.
 policy-DisableProfileRefresh = Malaktivigi la butonon "Reŝargi { -brand-short-name }" en la paĝo about:support.
@@ -132,7 +130,6 @@ policy-PDFjs = Malaktivigi aŭ agordi PDF.js, la integritan legilon de PDF en { 
 policy-Permissions2 = Agordi permesojn por filmilo, mikrofono, pozicio,sciigoj kaj aŭtomata ludado.
 policy-PictureInPicture = Aktivigi aŭ malaktivigi la reĝimon bildo en bildo
 policy-PopupBlocking2 = Permesi al kelkaj retejoj montri ŝprucaĵojn kaj esti redirektitaj de kadroj de aliaj
-policy-PopupBlocking = Norme permesi al kelkaj retejoj montri ŝprucfenestrojn.
 policy-Preferences = Difini kaj bloki la valoron por aro de preferoj.
 policy-PrivateBrowsingModeAvailability = Agordi la disponeblon de la reĝimo de privata retumo.
 policy-PromptForDownloadLocation = Demandi kie konservi elŝutitajn dosierojn.

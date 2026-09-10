@@ -62,7 +62,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Хатбаракҳои худро дар куҷое, ки набошед, ҳамоҳанг кунед.
-cfr-doorhanger-bookmark-fxa-body = Бозёфти олӣ! Акнун дар дастгоҳҳои мобилии худ бе ин хатбарак намонед. Бо { -fxaccount-brand-name } оғоз кунед.
 cfr-doorhanger-bookmark-fxa-body-2 = Бозёфти олӣ! Акнун дар дастгоҳҳои мобилии худ бе ин хатбарак намонед. Бо ҳисоб оғоз кунед.
 cfr-doorhanger-bookmark-fxa-link-text = Хатбаракҳо ҳозир ҳамоҳанг карда шаванд…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -75,12 +74,6 @@ fxa-adoption-credit-cards-backup-subtitle = Тарзҳои пардохти ху
 fxa-adoption-bookmarks-treatment-backup-title = Биёед хатбаракҳои шуморо дар нусхаи эҳтиётӣ нигоҳ дорем
 fxa-adoption-bookmarks-treatment-backup-subtitle = Хатбаракҳои худро тавассути ҳамоҳангсозии онҳо бо дастгоҳҳои худ ва истифода аз рамзгузорӣ муҳофизат намоед.
 fxa-adoption-primary-button-label = Бақайдгирӣ
-
-## Protections panel
-
-cfr-protections-panel-header = Тамошобинӣ бе пайгирӣ
-cfr-protections-panel-body = Маълумоти худро бо худ нигоҳ доред. «{ -brand-short-name }» шуморо аз бисёр васоити пайгирие, ки фаъолияти шуморо дар онлайн пайгирӣ мекунанд, муҳофизат менамояд.
-cfr-protections-panel-link-text = Маълумоти бештар
 
 ## What's New toolbar button and panel
 
@@ -175,42 +168,8 @@ mr2022-background-update-toast-primary-button-label = «{ -brand-shorter-name }�
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Баъдтар ёдоварӣ кунед
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Озмоед
-    .accesskey = О
-firefoxview-cfr-secondarybutton = Ҳоло не
-    .accesskey = Ҳ
-firefoxview-cfr-header-v2 = Ба он ҷое, ки шумо ба қарибӣ тамошо кардаед, тез баргардонед
-firefoxview-cfr-body-v2 = Варақаҳои ба наздикӣ пӯшидашударо барқарор кунед, аз он ҷумла бо «{ -firefoxview-brand-name }» аз як дастгоҳ ба дастгоҳи дигар бефосила гузаред.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Ба «{ -firefoxview-brand-name }» салом гӯед
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Шумо мехоҳед, ки варақаҳоро дар телефони худ кушоед? Онҳоро ба даст оред. Он сомонае, ки шумо як лаҳза пеш боздид кардед, лозим аст? Бемалол, онро тавассути «{ -firefoxview-brand-name }» барқарор кунед.
-firefoxview-spotlight-promo-primarybutton = Бинед, ки он чӣ тавр кор мекунад
-firefoxview-spotlight-promo-secondarybutton = Нодида гузарондан
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Нақшу нигореро интихоб намоед
-    .accesskey = Н
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Браузери худро бо ин сояҳои истисноии «{ -brand-short-name }» ранг кунед, аз садоҳое, ки фарҳанги тамошобиниро дигаргун карданд, илҳом гирифтанд.
-colorways-cfr-header-28days = Нақшу нигорҳои садоҳои мустақил дар 16 январ хомӯш мешаванд
-colorways-cfr-header-14days = Нақшу нигорҳои садоҳои мустақил пас аз ду ҳафта хомӯш мешаванд
-colorways-cfr-header-7days = Нақшу нигорҳои садоҳои мустақил дар охири ҳафтаи ҷорӣ хомӯш мешаванд
-colorways-cfr-header-today = Нақшу нигорҳои садоҳои мустақил имрӯз хомӯш мешаванд
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Ба «{ -brand-short-name }» иҷозат медиҳед, ки баннерҳои кукиро рад кунад?
-cfr-cbh-body = «{ -brand-short-name }» метавонад бисёр дархостҳои баннерҳои кукиро ба таври худкор рад кунад.
-cfr-cbh-confirm-button = Рад кардани баннерҳои куки
-    .accesskey = Р
-cfr-cbh-dismiss-button = Ҳоло не
-    .accesskey = Ҳ
 cookie-banner-blocker-onboarding-header = «{ -brand-short-name }» дар ҳоли ҳозир барои шумо баннери кукиро рад кард
 cookie-banner-blocker-onboarding-body = Камтар ҳалалҳо ва камтар кукиҳое, ки шуморо дар ин сомона пайгирӣ мекунанд.
 cookie-banner-blocker-onboarding-learn-more = Маълумоти бештар

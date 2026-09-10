@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-protections-panel-sendreportview-error = Cci fu n’erruri mannannu u rapportu. Pi favuri prova arrè cchiù tardu.
-# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
-protections-panel-sitefixedsendreport-label = U situ funziona? Manna un rapportu
-
-##
-
 protections-panel-content-blocking-socialblock = Trazzatura dî riti suciali
 protections-panel-content-blocking-fingerprinters-label = Giniratura d’urmi diggitali
 
@@ -22,11 +16,6 @@ protections-panel-blocking-label = Bluccatu
 ##
 
 protections-panel-social-media-trackers = I riti suciali mèttinu trazzatura nni autri siti pi sicutari chiḍḍu chi fai ’n linia. Chistu pirmetti ê cumpagnìi di aviri cchiù nfurmazzioni supra di tia sparti di chiḍḍu chi sparti nnê to prufili.
-protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = Sfai
-
-# Cookie Banner Handling
-
 
 ## Protections panel info message
 

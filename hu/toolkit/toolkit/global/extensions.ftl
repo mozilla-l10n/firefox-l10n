@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Hozzáadja: { $extension }?
-webext-perms-header-with-perms = Hozzáadja a(z) { $extension } kiegészítőt? A következőkhöz lesz engedélye:
-webext-perms-header-unsigned = Hozzáadja a(z) { $extension } kiegészítőt? A kiegészítő nem ellenőrzött. A kártékony kiegészítők ellophatják a személyes adatait, vagy veszélyeztethetik a számítógépét. Csak akkor adja hozzá ezt a kiegészítőt, ha megbízik a forrásban.
-webext-perms-header-unsigned-with-perms = Hozzáadja a(z) { $extension } kiegészítőt? A kiegészítő nem ellenőrzött. A kártékony kiegészítők ellophatják a személyes adatait, vagy veszélyeztethetik a számítógépét. Csak akkor adja hozzá ezt a kiegészítőt, ha megbízik a forrásban. A kiegészítőnek a következőkhöz lesz engedélye:
 webext-perms-sideload-header = { $extension } hozzáadva
 webext-perms-optional-perms-header2 = A(z) { $extension } további engedélyeket igényel
-webext-perms-optional-perms-header = A(z) { $extension } további engedélyeket igényel.
 webext-perms-header2 = { $extension } hozzáadása
 webext-perms-list-intro-unsigned = Ez az ellenőrizetlen kiegészítő veszélyeztetheti az adatvédelmét, vagy kompromittálhatja az eszközét. Csak akkor adja hozzá, ha bízik a forrásban.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = A(z) { $extension } frissítésre került. Jóvá kell hagynia az új engedélyeket, mielőtt a frissített verzió települ. A „Mégse” megtartja a kiegészítő jelenlegi verzióját.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = A(z) { $extension } frissítésre került. Jóvá kell hagynia az új engedélyeket, mielőtt a frissített verzió települ. A „Mégse” megtartja a kiegészítő jelenlegi verzióját. A kiegészítőnek a következőkhöz lesz engedélye:
 webext-perms-update-accept =
     .label = Frissítés
     .accesskey = F
@@ -73,24 +65,8 @@ webext-perms-host-description-file-urls = Érje el a helyi fájlokat a számít�
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Az adatai elérése a(z) { $domain } tartományban lévő lapokhoz
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Az adatai elérése { $domainCount } másik tartományhoz
-       *[other] Az adatai elérése { $domainCount } másik tartományhoz
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Az adatai elérése itt: { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Az adatai elérése még { $domainCount } oldalon
-       *[other] Az adatai elérése még { $domainCount } oldalon
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

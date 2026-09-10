@@ -5,9 +5,6 @@
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message = Anda ada { $reportCount } laporan ranap yang masih belum dihantar
 pending-crash-reports-view-all =
     .label = Papar
 pending-crash-reports-send =

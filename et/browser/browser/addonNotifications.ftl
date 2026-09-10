@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Jätka paigaldamist
     .accesskey = J
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = See sait taotleb juurdepääsu sinu MIDI-seadmetele (Musical Instrument Digital Interface). Juurdepääsu seadmetele saab lubada lisa paigaldamise teel.
 site-permission-install-first-prompt-midi-message = Selle juurdepääsu ohutust ei garanteerita. Jätka ainult siis, kui usaldad seda saiti.
 site-permission-install-first-prompt-serial-header = See sait taotleb juurdepääsu sinu jadapordiga seadmetele. Juurdepääsu seadmetele saab lubada lisa paigaldamise teel.
 site-permission-install-first-prompt-serial-message = Selle juurdepääsu ohutust ei garanteerita. Jätka ainult siis, kui usaldad seda saiti.
-
-##
-
-xpinstall-disabled-locked = Tarkvara paigaldamine on süsteemiadministraatori poolt keelatud.
 xpinstall-disabled-by-policy = Tarkvara paigaldamine on sinu organisatsiooni poolt keelatud.
 xpinstall-disabled = Tarkvara paigaldamine on praegu keelatud. Klõpsa Luba ja proovi uuesti.
 xpinstall-disabled-button =
     .label = Luba
     .accesskey = b
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = Lisa { $addonName } ({ $addonId }) on süsteemiadministraatori poolt blokitud.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Sinu süsteemiadministraator takistas sellel veebilehel sinult luba küsida tarkvara paigaldamiseks sinu arvutisse.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = Lõpeta { -brand-short-name }i imporditud laienduste pa
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Kas eemaldada lisa { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Kas soovid laienduse { $name } { -brand-shorter-name }ist eemaldada?
 addon-removal-button = Eemalda
 addon-removal-abuse-report-checkbox = Teavita { -vendor-short-name }t sellest lisast
 # "it" refers to the local AI model that is paired to the AI feature
@@ -139,7 +122,5 @@ addon-local-install-no-addon-name-error-file-access = Lisa polnud võimalik paig
 addon-install-error-incompatible = Lisa { $addonName } polnud võimalik paigaldada, kuna see ei ühildu { -brand-short-name }i versiooniga { $appVersion }.
 addon-install-error-hard-blocked = Lisa { $addonName } rikub Mozilla eeskirju ja seda pole võimalik { -brand-short-name }i paigaldada.
 addon-install-error-soft-blocked2 = Lisa { $addonName } on keelatud ja seda pole võimalik { -brand-short-name }i paigaldada.
-addon-install-error-blocklisted = Lisa { $addonName } polnud võimalik paigaldada, kuna see võib põhjustada tõsiseid stabiilsuse või turvalisuse probleeme.
-addon-install-error-soft-blocked = Lisa { $addonName } rikub Mozilla eeskirju ja seda pole võimalik { -brand-short-name }i paigaldada.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Lisa { $addonName } paigaldamine lõppkasutajana pole võimalik, selle saab paigaldada ainult ettevõtte reegleid kasutav organisatsioon.

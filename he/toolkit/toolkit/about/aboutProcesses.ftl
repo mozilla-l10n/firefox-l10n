@@ -49,7 +49,6 @@ about-processes-gpu-process = מעבד גרפי ({ $pid })
 about-processes-vr-process = מציאות מדומה ({ $pid })
 about-processes-rdd-process = מפענח נתונים ({ $pid })
 about-processes-socket-process = רשת ({ $pid })
-about-processes-remote-sandbox-broker-process = מתווך ארגז חול מרוחק ({ $pid })
 about-processes-preallocated-process = מוקצה מראש ({ $pid })
 # Unknown process names
 # Variables:
@@ -62,15 +61,6 @@ about-processes-unknown-process = אחר: { $type } ‏({ $pid })
 about-processes-web-isolated-property-private = private
 about-processes-web-isolated-property-serviceworker = serviceworker
 about-processes-web-isolated-property-jit-disabled = ‏JIT מושבת
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } (‏{ $pid })
-about-processes-web-serviceworker = { $origin } (‏{ $pid },‏ serviceworker)
-about-processes-web-isolated-process-private = { $origin } — פרטי ({ $pid })
 
 ## Details within processes
 

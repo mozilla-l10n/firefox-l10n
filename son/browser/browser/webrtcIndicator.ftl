@@ -26,23 +26,6 @@ webrtc-sharing-menu =
     .label = Kanji kaŋ ga jinawey žemna
     .accesskey = j
 
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = War biizaahayaa nda mikro goo ma žemnandi. Naagu ka žemnaroo juwal.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = War biizaahayaa goo ma žemnandi. Naagu ka žemnaroo juwal.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = War mikro woo goo ma žemnandi. Naagu ka žemnaroo juwal.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Porogaramize foo goo ma žemnandi. Naagu ka žemnaroo juwal.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = War dijoo goo ma žemnandi. Naagu ka žemnaroo juwal.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Zanfun foo goo ma žemnandi. Naagu k žemnaroo juwal.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Kanji foo goo ma žemnandi. Naagu ka žemnaroo juwal.
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
@@ -106,7 +89,6 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
-webrtc-share-screen-learn-more = Bay ka tonton
 webrtc-share-entire-screen = Diji timmante
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).

@@ -59,14 +59,3 @@ move-to-end =
 move-to-new-window =
     .label = Yañı Pencerege Avuştır
     .accesskey = P
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] İlmekni Cihazğa Yiber
-           *[other] { $tabCount } İlmekni Cihazğa Yiber
-        }
-    .accesskey = r

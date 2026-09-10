@@ -2,14 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
-
-##
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -41,12 +33,6 @@ full-screen-exit =
 search-one-offs-add-engine-menu =
     .label = جمع کْریو تلاش انجن
 
-## Identity Panel
-
-identity-disable-mixed-content-blocking =
-    .label = حفاظت کْریو ڈیسیبْل وْنئ &
-    .accesskey = D
-
 ## Window controls
 
 browser-window-minimize-button =
@@ -71,8 +57,6 @@ urlbar-switch-to-tab =
     .value = ٹیبس منز گژھیو
 urlbar-go-button2 =
     .title = جاے بارس منز گژھیو نیبس منز
-urlbar-go-button =
-    .tooltiptext = جاے بارس منز گژھیو نیبس منز
 
 ## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
 ## results with last-visited dates like history and top sites, these strings
@@ -130,28 +114,10 @@ eme-notifications-drm-content-playing = کوس تام آڈیو یا ویڈیو
 ui-tour-info-panel-close =
     .tooltiptext = بند
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = { $uriHost } خٲطرئ دیو پاپ اَپسن اجازت
-    .accesskey = p
-popups-infobar-block =
-    .label = { $uriHost } خٲطرئ كریو  پاپ اَپسن بند
-    .accesskey = p
-
-##
-
-popups-infobar-dont-show-message =
-    .label = یئ شیچھ مئ ہٲویو یل۪ی پاپ اَپس بند گژھَن
-    .accesskey = D
-
 ##
 
 navbar-downloads =
     .label = ڈاؤن لوڈز
-navbar-overflow =
-    .tooltiptext = مزید ٹول ۔ ۔ ۔
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

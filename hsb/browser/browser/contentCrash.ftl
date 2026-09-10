@@ -18,15 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Maće njewotpósłanu spadowu rozprawu
-        [two] Maće { $reportCount } njewotpósłanej spadowej rozprawje
-        [few] Maće { $reportCount } njewotpósłane spadowe rozprawy
-       *[other] Maće { $reportCount } njewotpósłanych spadowych rozprawow
-    }
 pending-crash-reports-view-all =
     .label = Pokazać
 pending-crash-reports-send =
@@ -41,15 +32,6 @@ requested-crash-reports-message-new =
         [two] Sće { $reportCount } njepósłanej rozprawje spadow, kotrejž so na spady poćahujetej, kotrež so přepytuja, hdyž ju sćeleće, pomhaće nam { -brand-product-name } polěpšić. Hdyž tutu zdźělenku začinjeće, so tuta rozprawa ignoruje.
         [few] Sće { $reportCount } njepósłane rozprawy spadow, kotrež so na spady poćahuja, kotrež so přepytuja, hdyž ju sćeleće, pomhaće nam { -brand-product-name } polěpšić. Hdyž tutu zdźělenku začinjeće, so tuta rozprawa ignoruje.
        *[other] Sće { $reportCount } njepósłanych rozprawow spadow, kotrež so na spady poćahujo, kotrež so přepytuja, hdyž ju sćeleće, pomhaće nam { -brand-product-name } polěpšić. Hdyž tutu zdźělenku začinjeće, so tuta rozprawa ignoruje.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Maće { $reportCount } njepósłanu spadowu rozprawu, kotraž spadam wotpowěduje, kotrež so wuslědźuja. Hdyž ju sćeleće, pomhaće nam, { -brand-product-name } polěpšić. Hdyž tutu zdźělenku začinjeće, so tuta rozprawa ignoruje.
-        [two] Maće { $reportCount } njepósłanej spadowej rozprawje, kotrejž spadam wotpowědujetej, kotrež so wuslědźuja. Hdyž jej sćeleće, pomhaće nam, { -brand-product-name } polěpšić. Hdyž tutu zdźělenku začinjeće, so tutej rozprawje ignorujetej.
-        [few] Maće { $reportCount } njepósłane spadowe rozprawy, kotrež spadam wotpowěduja, kotrež so wuslědźuja. Hdyž je sćeleće, pomhaće nam, { -brand-product-name } polěpšić. Hdyž tutu zdźělenku začinjeće, so tute rozprawy ignoruja.
-       *[other] Maće { $reportCount } njepósłanych spadowych rozprawow, kotrež spadam wotpowěduja, kotrež so wuslědźuja. Hdyž je sćeleće, pomhaće nam, { -brand-product-name } polěpšić. Hdyž tutu zdźělenku začinjeće, so tute rozprawy ignoruja.
     }
 requested-crash-reports-dont-show-again =
     .label = Hižo so njepokazać

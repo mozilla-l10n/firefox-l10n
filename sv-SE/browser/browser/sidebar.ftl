@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = Rensa historik
 sidebar-history-sort-by-heading-menucaption =
     .label = Sortera efter:
-sidebar-history-sort-by-heading = Sortera efter:
 sidebar-history-sort-option-date =
     .label = Datum
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Sidofältstillägg
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name } verktyg
 sidebar-customize-firefox-settings = Hantera inställningar för { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Vertikala flikar
 sidebar-settings2 =
     .label = Inställningar
-sidebar-settings =
-    .label = Inställningar för sidofält
 sidebar-hide-tabs-and-sidebar =
     .label = Dölj flikar och sidofält
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Hantera tillägg
-sidebar-context-menu-remove-extension =
-    .label = Ta bort tillägg
 sidebar-context-menu-report-extension =
     .label = Rapportera tillägg
 sidebar-context-menu-open-in-tab =

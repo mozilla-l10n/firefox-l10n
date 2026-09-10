@@ -17,16 +17,5 @@ default-browser-notification-privacy-body-text =
         [with-cases] Vaše výchozí nastavení se změnilo. Vraťte se k { -brand-short-name(case: "dat") } a zajistěte si vestavěné soukromí a ochranu.
        *[no-cases] Vaše výchozí nastavení se změnilo. Vraťte se k aplikaci { -brand-short-name } a zajistěte si vestavěné soukromí a ochranu.
     }
-default-browser-notification-header-text =
-    { -brand-short-name.case-status ->
-        [with-cases] Pokračovat v používání { -brand-short-name(case: "gen") }?
-       *[no-cases] Pokračovat v používání aplikace { -brand-short-name }?
-    }
-default-browser-notification-body-text =
-    { -brand-short-name.case-status ->
-        [with-cases] Váš výchozí prohlížeč byl nedávno změněn. Klepnutím obnovíte nastavení { -brand-short-name(case: "gen") } jako výchozí.
-       *[no-cases] Váš výchozí prohlížeč byl nedávno změněn. Klepnutím obnovíte nastavení aplikace { -brand-short-name } jako výchozí.
-    }
 default-browser-notification-yes-button-text = Ano
 default-browser-notification-privacy-no-button-text = Ne, děkuji
-default-browser-notification-no-button-text = Ne

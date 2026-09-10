@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = ᱡᱩᱲᱟᱹᱣ ᱥᱟᱡᱟᱣ ᱠᱚ
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = ᱡᱩᱲᱟᱹᱣ ᱥᱟᱡᱟᱣ ᱠᱚ
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -58,14 +58,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = ᱫᱚᱦᱲᱟ ᱞᱟᱫᱤ
     .accesskey = e
-connection-proxy-autologin =
-    .label = ᱯᱚᱨᱢᱟᱱ ᱮᱢ ᱞᱟᱹᱜᱤᱫ ᱟᱞᱚᱢ ᱞᱚᱜᱚᱱᱚᱜᱼᱟ ᱡᱩᱫᱤ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱᱟ ᱾
-    .accesskey = i
-    .tooltip = ᱱᱚᱶᱟ ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱛᱷᱤᱨᱼᱛᱷᱤᱨ ᱛᱮ ᱯᱚᱨᱢᱟᱱ ᱮᱢᱟᱠᱟᱱᱟ  ᱟᱢᱟᱜ ᱮᱲᱮ ᱞᱟᱹᱜᱤᱫ ᱛᱤᱱ ᱨᱮ ᱟᱢ ᱩᱫᱠᱩ ᱞᱟᱹᱜᱤᱫ ᱛᱟᱭᱚᱢ ᱨᱮ ᱥᱮᱞᱮᱫᱟᱜ ᱥᱟᱧᱪᱟᱣ ᱾ ᱟᱢ ᱩᱥᱠᱟᱹᱣ ᱢᱮᱭᱟ ᱠᱚ ᱡᱩᱫᱤ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱰᱤᱜᱟᱹᱣᱜᱼᱟ ᱾
 connection-proxy-autologin-checkbox =
     .label = ᱯᱚᱨᱢᱟᱱ ᱮᱢ ᱞᱟᱹᱜᱤᱫ ᱟᱞᱚᱢ ᱞᱚᱜᱚᱱᱚᱜᱼᱟ ᱡᱩᱫᱤ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱟᱧᱪᱟᱣ ᱟᱠᱟᱱᱟ ᱾
-    .accesskey = i
     .tooltiptext = ᱱᱚᱶᱟ ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱛᱷᱤᱨᱼᱛᱷᱤᱨ ᱛᱮ ᱯᱚᱨᱢᱟᱱ ᱮᱢᱟᱠᱟᱱᱟ  ᱟᱢᱟᱜ ᱮᱲᱮ ᱞᱟᱹᱜᱤᱫ ᱛᱤᱱ ᱨᱮ ᱟᱢ ᱩᱫᱠᱩ ᱞᱟᱹᱜᱤᱫ ᱛᱟᱭᱚᱢ ᱨᱮ ᱥᱮᱞᱮᱫᱟᱜ ᱥᱟᱧᱪᱟᱣ ᱾ ᱟᱢ ᱩᱥᱠᱟᱹᱣ ᱢᱮᱭᱟ ᱠᱚ ᱡᱩᱫᱤ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱰᱤᱜᱟᱹᱣᱜᱼᱟ ᱾
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = SOCKS v5 ᱡᱷᱚᱜ ᱯᱨᱚᱠᱥᱤ DNS
     .accesskey = D
@@ -76,6 +72,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = HTTPS ᱪᱮᱛᱟᱱ ᱨᱮ DNS ᱥᱩᱞᱡᱷᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱢᱩᱞ URL ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 connection-dns-over-https-url-custom =
     .label = ᱠᱩᱥᱤᱭᱟᱜ
-    .accesskey = C
     .tooltiptext = HTTPS ᱪᱮᱛᱟᱱ ᱨᱮ DNS ᱥᱩᱞᱡᱷᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱥᱤᱭᱟᱜ URL ᱟᱫᱮᱨ ᱢᱮ
-connection-dns-over-https-custom-label = ᱠᱩᱥᱤᱭᱟᱜ
+    .accesskey = C

@@ -5,13 +5,6 @@
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Jo‘natilmagan nosozlik xabari bor
-       *[other] Sizda { $reportCount } ta jo‘natilmagan nosozlik xabari bor
-    }
 pending-crash-reports-view-all =
     .label = Ko‘rinishi
 pending-crash-reports-send =

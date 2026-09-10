@@ -76,25 +76,11 @@ pdfjs-printing-not-ready = चेतावनी: पीडीएफ छपा�
 
 ## Tooltips and alt text for side panel toolbar buttons
 
-pdfjs-toggle-sidebar-button =
-    .title = स्लाइडर टागल
-pdfjs-toggle-sidebar-button-label = स्लाइडर टागल
-pdfjs-document-outline-button-label = दस्तावेज खाका
-pdfjs-attachments-button =
-    .title = संलग्नक देखाबू
-pdfjs-attachments-button-label = संलग्नक
-pdfjs-thumbs-button =
-    .title = लघु-छवि देखाउ
-pdfjs-thumbs-button-label = लघु छवि
 pdfjs-findbar-button =
     .title = दस्तावेजमे ढूँढू
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
-# Variables:
-#   $page (Number) - the page number
-pdfjs-thumb-page-title =
-    .title = पृष्ठ { $page }
 # Variables:
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =

@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Sparade adresser
 autofill-manage-addresses-list-header = Adresser
-autofill-manage-credit-cards-title = Sparade kreditkort
-autofill-manage-credit-cards-list-header = Kreditkort
 autofill-manage-payment-methods-title = Sparade betalningsmetoder
 autofill-manage-cards-list-header = Kort
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = Öppna meny
 address-capture-edit-address-link = Redigera adress
     .aria-label = Redigera adress
-address-capture-edit-address-button =
-    .aria-label = Redigera adress
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Lägg till adress
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Redigera adress
-autofill-address-given-name = Förnamn
-autofill-address-additional-name = Mellannamn
-autofill-address-family-name = Efternamn
 autofill-address-name = Namn
 autofill-address-organization = Organisation
 autofill-address-street-address = Gatuadress
@@ -104,8 +97,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Lägg till ny adress
 autofill-address-country = Land eller region
 autofill-address-country-only = Land
 autofill-address-tel = Telefon
@@ -114,18 +105,6 @@ autofill-cancel-button = Avbryt
 autofill-save-button = Spara
 autofill-country-warning-message-2 = Autofyll av formulär är för närvarande endast tillgänglig i vissa länder
 autofill-country-warning-message = Autofyll av formulär är för närvarande endast tillgänglig för vissa länder.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Lägg till nytt kreditkort
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Redigera kreditkort
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] visa kreditkortsinformation
-        [windows] { -brand-short-name } försöker visa kreditkortsinformation. Bekräfta åtkomst till detta Windows-konto nedan.
-       *[other] { -brand-short-name } försöker visa kreditkortsinformation.
-    }
 autofill-message-tooltip = Visa meddelande om autofyll
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Lägg till kort
@@ -211,15 +190,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = Spara aldrig pass
     .accessKey = a
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

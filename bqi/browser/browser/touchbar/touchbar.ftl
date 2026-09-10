@@ -31,4 +31,3 @@ search-bookmarks = نشووکا
 search-history = ویرگار
 search-opentabs = بلگه یل واز
 search-tags = برچسبا
-search-titles = عونوانا

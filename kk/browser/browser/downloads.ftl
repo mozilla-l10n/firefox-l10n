@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Бумада көрсету
            *[other] Бумада көрсету
         }
-downloads-cmd-show-downloads =
-    .label = Жүктемелер бумасын көрсету
 downloads-cmd-retry =
     .tooltiptext = Қайталау
 downloads-cmd-retry-panel =

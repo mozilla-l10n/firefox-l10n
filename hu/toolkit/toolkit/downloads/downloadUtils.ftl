@@ -92,11 +92,5 @@ download-utils-time-left-single = { $time } van hátra
 download-utils-time-left-double = { $time1 } { $time2 } van hátra
 download-utils-time-few-seconds = Pár másodperc van hátra
 download-utils-time-unknown = Ismeretlen idő van hátra
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = { $scheme } erőforrás
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = helyi fájl
 # Displayed time for files finished yesterday
 download-utils-yesterday = Tegnap

@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = պահել about:webrtc-ի մասին որ
 about-webrtc-aec-logging-msg-label = AEC արձանագրում
 about-webrtc-aec-logging-off-state-label = Սկսել AEC արձանագրումը
 about-webrtc-aec-logging-on-state-label = Կանգնեցնել AEC արձանագրումը
-about-webrtc-aec-logging-on-state-msg = AEC արձանագրումը միացուած է (կարող էք խաւսել մի քանի րոպէ եւ անջատել գրանցումը)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC արձանագրումը միացուած է (կարող էք խաւսել մի քանի րոպէ եւ անջատել գրանցումը)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -81,17 +80,9 @@ about-webrtc-nominated = Նշանակուած
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Ընտրուած
 about-webrtc-save-page-label = Պահպանել էջը
-about-webrtc-debug-mode-msg-label = Ռեժիմի կարգաւորում
-about-webrtc-debug-mode-off-state-label = Միացնել վրիպազերծիչը
-about-webrtc-debug-mode-on-state-label = Կանգնեցնել վրիպազերծիչը
-about-webrtc-stats-heading = Աշխատաշրջանի վիճակագրութիւն
 about-webrtc-stats-clear = Մաքրել պատմութիւնը
 about-webrtc-log-heading = Միացման մատեան
 about-webrtc-log-clear = Մաքրել մատեանը
-about-webrtc-log-show-msg = ցուցադրել մատեանը
-    .title = Սեղմել այս բաժինն ընդլայնելու համար
-about-webrtc-log-hide-msg = թաքցնել մատեանը
-    .title = սեղմէք՝ այս շրջանը թաքցնելու համար
 about-webrtc-log-section-show-msg = Ցուցադրել մատեանը
     .title = Սեղմել այս բաժինն ընդլայնելու համար
 about-webrtc-log-section-hide-msg = Թաքցնել մատեանը
@@ -114,19 +105,11 @@ about-webrtc-remote-candidate = Հեռակայ թեկնածու
 about-webrtc-raw-candidates-heading = Ցուցադրել բոլոր թեկնածուները
 about-webrtc-raw-local-candidate = Չմշակուած տեղական թեկնածուներ
 about-webrtc-raw-remote-candidate = Չմշակուած հեռակայ թեկնածու
-about-webrtc-raw-cand-show-msg = ցուցադրել անմշակ թեկնածուներին
-    .title = Սեղմել այս բաժինն ընդլայնելու համար
-about-webrtc-raw-cand-hide-msg = ցուցդարել անմշակ թեկնածուներին
-    .title = սեղմէք՝ այս շրջանը թաքցնելու համար
 about-webrtc-raw-cand-section-show-msg = Ցուցադրել անմշակ թեկնածուներին
     .title = Սեղմել այս բաժինն ընդլայնելու համար
 about-webrtc-raw-cand-section-hide-msg = Ցուցդարել անմշակ թեկնածուներին
     .title = Սեղմէք՝ այս շրջանը թաքցնելու համար
 about-webrtc-priority = Առաջնահերթություն
-about-webrtc-fold-show-msg = ցուցադրել մանրամասներ
-    .title = Սեղմել այս բաժինն ընդլայնելու համար
-about-webrtc-fold-hide-msg = թաքցնել մանրամասները
-    .title = սեղմէք՝ այս շրջանը թաքցնելու համար
 about-webrtc-fold-default-show-msg = Ցուցադրել մանրամասներ
     .title = Սեղմել այս բաժինն ընդլայնելու համար
 about-webrtc-fold-default-hide-msg = Թաքցնել մանրամասները
@@ -161,8 +144,6 @@ about-webrtc-configuration-element-provided = Տրամադրուած
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Տրամադրուած չէ
-# The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = Աւգտուողը սահմանում է WebRTC նախընտրութիւնները
 
 ##
 
@@ -186,13 +167,6 @@ about-webrtc-round-trip-time-ms = RTT մվ
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Տեսանիւթի կադրերի վիճակագրութիւն - MediaStreamTrack ID: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = էջը պահպանուել է՝ { $path }
-about-webrtc-debug-mode-off-state-msg = Հետեւուող մատեանը կարող է գտնուել ՝  { $path }
-about-webrtc-debug-mode-on-state-msg = Վրիպազերծումը միացուած է, ստուգէք մատեանը՝ { $path }
-about-webrtc-aec-logging-off-state-msg = Գրանցած նիշքը կարող էք գտնել այստեղ՝ { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Nový panel
-newtab-settings-button =
-    .title = Přizpůsobení stránky nového panelu
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Přizpůsobte si tuto stránku
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = Přizpůsobit
 newtab-customize-panel-label =
     .label = Přizpůsobit
-newtab-personalize-settings-icon-label =
-    .aria-label = Nastavení
-    .title = Přizpůsobení nového panelu
 newtab-settings-dialog-label =
     .aria-label = Nastavení
-newtab-personalize-icon-label =
-    .aria-label = Přizpůsobení nového panelu
-    .title = Přizpůsobení nového panelu
-newtab-personalize-dialog-label =
-    .aria-label = Přizpůsobit
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
@@ -573,7 +563,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Přidat vyhledávač
 newtab-topsites-add-shortcut-header = Nová zkratka
-newtab-topsites-edit-topsites-header = Upravit top stránku
 newtab-topsites-edit-shortcut-header = Upravit zkratku
 newtab-topsites-add-shortcut-label = Přidat zkratku
 newtab-topsites-add-shortcut-title =
@@ -643,20 +632,12 @@ newtab-topsites-hover-card-dismiss =
 newtab-menu-section-tooltip =
     .aria-label = Otevře nabídku
     .title = Otevře nabídku
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Odstranit
-    .title = Odstranit
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Otevřít kontextovou nabídku pro { $title }
     .title = Otevře nabídku
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Upravit tuto stránku
-    .title = Upravit tuto stránku
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -668,11 +649,7 @@ newtab-menu-dismiss = Skrýt
 newtab-menu-pin = Připnout
 newtab-menu-unpin = Odepnout
 newtab-menu-delete-history = Smazat z historie
-newtab-menu-save-to-pocket = Uložit do { -pocket-brand-name(case: "gen") }
-newtab-menu-delete-pocket = Smazat z { -pocket-brand-name(case: "gen") }
-newtab-menu-archive-pocket = Archivovat do { -pocket-brand-name(case: "gen") }
 newtab-menu-show-privacy-info = Naši sponzoři a vaše soukromí
-newtab-menu-about-fakespot = Co je { -fakespot-brand-name }
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Nahlásit
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -683,29 +660,12 @@ newtab-menu-section-block = Blokovat
 newtab-menu-section-unfollow-topic = Přestat sledovat
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Zjistit více
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = Přestat sledovat téma
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = Správa sponzorovaného obsahu
 newtab-menu-our-sponsors-and-your-privacy = Naši sponzoři a vaše soukromí
 newtab-menu-report-this-ad = Nahlásit tuto reklamu
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Hotovo
-newtab-privacy-modal-button-manage = Nastavení sponzorovaného obsahu
-newtab-privacy-modal-header = Na vašem soukromí záleží.
-newtab-privacy-modal-paragraph-2 =
-    { -brand-product-name.gender ->
-        [masculine] Kromě zajímavých příběhů zobrazujeme také relevantní a prověřený obsah od vybraných partnerů. Nemusíte se ale bát, <strong>vaše údaje nikdy neopustí váš { -brand-product-name(case: "acc") }</strong> - neodesílají se nám ani našim partnerům.
-        [feminine] Kromě zajímavých příběhů zobrazujeme také relevantní a prověřený obsah od vybraných partnerů. Nemusíte se ale bát, <strong>vaše údaje nikdy neopustí vaši { -brand-product-name(case: "acc") }</strong> - neodesílají se nám ani našim partnerům.
-        [neuter] Kromě zajímavých příběhů zobrazujeme také relevantní a prověřený obsah od vybraných partnerů. Nemusíte se ale bát, <strong>vaše údaje nikdy neopustí vaše { -brand-product-name(case: "acc") }</strong> - neodesílají se nám ani našim partnerům.
-       *[other] Kromě zajímavých příběhů zobrazujeme také relevantní a prověřený obsah od vybraných partnerů. Nemusíte se ale bát, <strong>vaše údaje nikdy neopustí vaši aplikaci { -brand-product-name }</strong> - neodesílají se nám ani našim partnerům.
-    }
-newtab-privacy-modal-link = Zjistěte, jak chráníme vaše soukromí na stránce nového panelu.
 
 ##
 
@@ -761,31 +721,12 @@ newtab-label-sponsored-fixed = Sponzorováno
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Odebrat sekci
-newtab-section-menu-collapse-section = Sbalit sekci
-newtab-section-menu-expand-section = Rozbalit sekci
-newtab-section-menu-manage-section = Nastavení sekce
-newtab-section-menu-manage-webext = Správa rozšíření
-newtab-section-menu-add-topsite = Přidat mezi top stránky
-newtab-section-menu-add-search-engine = Přidat vyhledávač
-newtab-section-menu-move-up = Posunout nahoru
-newtab-section-menu-move-down = Posunout dolů
 newtab-section-menu-privacy-notice = Zásady ochrany osobních údajů
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Sbalit sekci
-newtab-section-expand-section-label =
-    .aria-label = Rozbalit sekci
 
 ## Section Headers.
 
 newtab-section-header-topsites = Top stránky
 newtab-section-header-recent-activity = Nedávná aktivita
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Doporučení ze služby { $provider }
 newtab-section-header-stories = Podnětné příběhy
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = Dnešní výběr pro vás
@@ -793,10 +734,6 @@ newtab-section-header-todays-picks = Dnešní výběr pro vás
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Začněte prohlížet a my vám zde ukážeme některé skvělé články, videa a další stránky, které jste nedávno viděli nebo uložili do záložek.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Už jste všechno přečetli. Další příběhy ze služby { $provider } tu najdete zase později. Ale pokud se nemůžete dočkat, vyberte své oblíbené téma a podívejte se na další velké příběhy z celého webu.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = Už jste všechno přečetli. Další příběhy zde najdete později. Nechcete čekat? Vyberte si oblíbené téma a najděte další skvělé příběhy z celého webu.
 
@@ -830,43 +767,6 @@ newtab-carousel-pause =
 newtab-carousel-play =
     .aria-label = Obnovit automatické přehrávání
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Oblíbená témata:
-newtab-pocket-new-topics-title = Chcete další příběhy? Podívejte se na oblíbené témata v { -pocket-brand-name(case: "loc") }.
-newtab-pocket-more-recommendations = Další doporučení
-newtab-pocket-learn-more = Zjistit více
-newtab-pocket-cta-button = Získejte { -pocket-brand-name(case: "acc") }
-newtab-pocket-cta-text = Ukládejte si příběhy do { -pocket-brand-name(case: "gen") } a užívejte si skvělé čtení.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je součástí rodiny { -brand-product-name(case: "gen") }
-newtab-pocket-save = Uložit
-newtab-pocket-saved = Uloženo
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = Další podobné
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = Ne pro mě
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = Děkujeme. Vaše zpětná vazba nám pomůže váš informační kanál vylepšit.
-newtab-toast-dismiss-button =
-    .aria-label = Zavřít
-    .title = Zavřít
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = Objevte to nejlepší na webu
-newtab-pocket-onboarding-cta =
-    { -brand-product-name.case-status ->
-        [with-cases] { -pocket-brand-name } prozkoumává rozmanitou škálu publikací a přináší informativní, inspirativní a důvěryhodný obsah přímo do { -brand-product-name(case: "gen") }.
-       *[no-cases] { -pocket-brand-name } prozkoumává rozmanitou škálu publikací a přináší informativní, inspirativní a důvěryhodný obsah přímo do prohlížeče { -brand-product-name }.
-    }
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -875,8 +775,6 @@ newtab-error-fallback-refresh-link = Opětovným načtením stránky to zkuste z
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Zkratky
-newtab-custom-shortcuts-subtitle = Uložené nebo navštěvované stránky
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Uložené nebo navštěvované stránky
@@ -898,17 +796,6 @@ newtab-custom-row-selector2 =
             [few] { $num } řádky
            *[other] { $num } řádků
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } řádek
-        [few] { $num } řádky
-       *[other] { $num } řádků
-    }
-newtab-custom-sponsored-sites = Sponzorované zkratky
-newtab-custom-pocket-title = Doporučeno službou { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Výjimečný obsah vybraný službou { -pocket-brand-name }, která je součástí rodiny { -brand-product-name(case: "gen") }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = Výjimečný obsah spravovaný rodinou { -brand-product-name(case: "gen") }
@@ -920,10 +807,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = Personalizované příběhy na základě vaší aktivity
 newtab-custom-stories-personalized-checkbox-label = Personalizované příběhy na základě vaší aktivity
-newtab-custom-pocket-sponsored = Sponzorované příběhy
-newtab-custom-pocket-show-recent-saves = Zobrazit nedávno uložené
-newtab-custom-recent-title = Nedávná aktivita
-newtab-custom-recent-subtitle = Výběr z nedávných stránek a obsahu
 newtab-custom-weather-toggle =
     .description = Dnešní předpověď v kostce
     .label = Počasí
@@ -955,7 +838,6 @@ newtab-widget-manage-widget-button =
 newtab-custom-close-menu-button =
     .aria-label = Zavřít nabídku
     .title = Zavřít
-newtab-custom-close-button = Zavřít
 newtab-custom-settings = Další nastavení
 
 ## Customization Menu
@@ -1008,7 +890,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Obrázek překročil limit velikosti souboru { $file_size } MB. Zkuste nahrát menší soubor.
 newtab-wallpaper-error-upload-file-type = Váš soubor se nám nepodařilo nahrát. Zkuste to prosím znovu se souborem obrázku.
-newtab-wallpaper-error-file-type = Váš soubor se nám nepodařilo nahrát. Zkuste to prosím znovu s jiným typem souboru.
 newtab-wallpaper-light-red-panda = Panda červená
 newtab-wallpaper-light-mountain = Bílá hora
 newtab-wallpaper-light-sky = Obloha s fialovými a růžovými mraky
@@ -1152,10 +1033,6 @@ newtab-wallpaper-celestial-river = Satelitní snímek řeky
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = Podívejte se na předpověď od { $provider }
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙Sponzorované
 newtab-weather-menu-change-location = Změnit místo
 newtab-weather-change-location-search-input-placeholder =
@@ -1182,7 +1059,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Přepnout na stupně Fahrenheita
 newtab-weather-menu-change-temperature-units-celsius = Přepnout na stupně Celsia
-newtab-weather-menu-hide-weather = Skrýt počasí na novém panelu
 newtab-weather-menu-learn-more = Zjistit více
 newtab-weather-menu-detect-my-location = Zjistit mou polohu
 # This message is shown if user is working offline
@@ -1303,7 +1179,6 @@ newtab-section-unblock-topic =
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = Teď ne
 newtab-section-confirm-block-topic-p1 = Opravdu chcete zablokovat toto téma?
 newtab-section-confirm-block-topic-p2 = Zablokovaná témata se již nebudou zobrazovat ve vašem kanálu.
 # Variables:

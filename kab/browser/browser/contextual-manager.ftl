@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Nadi awalen uffiren
-    .key = F
     .aria-label = Nadi awalen uffiren
+    .key = F
+    .placeholder = Nadi awalen uffiren
 contextual-manager-menu-more-options-button =
     .title = Ugar n iɣewwaṛen
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Kter seg ufaylu…
 contextual-manager-passwords-command-export = Sifeḍ awalen n uεeddi
 contextual-manager-passwords-command-remove-all = Kkes akk awalen uffiren
 contextual-manager-passwords-command-options = Iɣewwaren
-contextual-manager-passwords-command-settings = Iɣewwaṛen
 contextual-manager-passwords-command-help = Tallalt
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Awalen n uεeddi ttwaktaren-d
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Amaynut: { $added }, yettwaleqqem: { $modified }
 contextual-manager-passwords-import-detailed-report = Wali talqayt n uneqqis
 contextual-manager-passwords-import-success-button = Immed
 contextual-manager-passwords-import-error-button-try-again = Ɛreḍ tikkelt niḍen
@@ -186,8 +181,6 @@ contextual-manager-passwords-create-label =
     .label = rnu awal uffir
 contextual-manager-passwords-update-label =
     .label = Leqqem awal uffir
-contextual-manager-passwords-edit-label =
-    .label = Ẓreg awal uffir
 contextual-manager-passwords-remove-label =
     .title = Kkes awal n uεeddi
 contextual-manager-passwords-origin-field =
@@ -243,10 +236,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Nɣel isem n useqdac (ḥader)
 contextual-manager-edit-login-button = Ẓreg
     .tooltiptext = Ẓreg awal n uεeddi
-contextual-manager-view-alert-heading =
-    .heading = Wali alɣu
-contextual-manager-view-alert-button =
-    .tooltiptext = Senqed alɣu
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -274,13 +263,10 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Ulac awalen uffiren i yettwafen
-contextual-manager-passwords-no-passwords-found-message = Ulac awalen n uεeddi i yettwafen. Nadi s wawal niḍen.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Sekles awalen-ik uffiren deg wadeg aɣellsan.
 # This string encourages the user to save their passwords to Firefox again.
 contextual-manager-passwords-no-passwords-get-started-message = Rnu-ten dagi i wakken ad tebduḍ.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.

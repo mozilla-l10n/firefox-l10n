@@ -31,4 +31,3 @@ search-bookmarks = Järjehoidjatest
 search-history = Ajaloost
 search-opentabs = Avatud kaartide seast
 search-tags = Siltide seast
-search-titles = Pealkirjadest

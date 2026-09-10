@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = រក្សា​ទុក about:webrtc �
 about-webrtc-aec-logging-msg-label = ការ​ចុះ​កំណត់ហេតុ AEC
 about-webrtc-aec-logging-off-state-label = ចាប់ផ្ដើម​ចុះ​កំណត់​ហេតុ AEC
 about-webrtc-aec-logging-on-state-label = ឈប់​ចុះ​កំណត់​ហេតុ AEC
-about-webrtc-aec-logging-on-state-msg = សកម្មភាព​ចុះ​កំណត់ហេតុ AEC (និយាយ​ជាមួយ​អ្នក​ហៅ​​ប៉ុន្មាន​នាទី និង​បន្ទាប់​មក​ឈប់​ថត)
 about-webrtc-aec-logging-toggled-on-state-msg = សកម្មភាព​ចុះ​កំណត់ហេតុ AEC (និយាយ​ជាមួយ​អ្នក​ហៅ​​ប៉ុន្មាន​នាទី និង​បន្ទាប់​មក​ឈប់​ថត)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -62,16 +61,8 @@ about-webrtc-nominated = បាន​ជ្រើស​តាំង
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = បាន​ជ្រើស
 about-webrtc-save-page-label = រក្សាទុក​ទំព័រ
-about-webrtc-debug-mode-msg-label = របៀប​កែ​កំហុស
-about-webrtc-debug-mode-off-state-label = ចាប់ផ្ដើម​របៀប​កែ​កំហុស
-about-webrtc-debug-mode-on-state-label = បញ្ឈប់​ការ​កែ​កំហុស​
-about-webrtc-stats-heading = ស្ថិតិសម័យ
 about-webrtc-stats-clear = សម្អាត​ប្រវត្តិ
 about-webrtc-log-heading = កំណត់ហេតុ​តភ្ជាប់
-about-webrtc-log-show-msg = បង្ហាញ​កំណត់​ហេតុ​
-    .title = ចុច​ដើម្បី​ពង្រីក​ផ្នែក​នេះ
-about-webrtc-log-hide-msg = លាក់​កំណត់​ហេតុ​
-    .title = ចុច​ដើម្បី​បង្រួម​ផ្នែក​នេះ
 about-webrtc-log-section-show-msg = បង្ហាញ​កំណត់​ហេតុ​
     .title = ចុច​ដើម្បី​ពង្រីក​ផ្នែក​នេះ
 about-webrtc-log-section-hide-msg = លាក់​កំណត់​ហេតុ​
@@ -92,10 +83,6 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (បា�
 about-webrtc-local-candidate = បេក្ខជន​ក្នុង​ស្រុក
 about-webrtc-remote-candidate = បេក្ខជន​ដែល​នៅ​ឆ្ងាយ​
 about-webrtc-priority = អាទិភាព
-about-webrtc-fold-show-msg = បង្ហាញ​ព័ត៌មាន​លម្អិត
-    .title = ចុច​ដើម្បី​ពង្រីក​ផ្នែក​នេះ
-about-webrtc-fold-hide-msg = លាក់​ព័ត៌មាន​លម្អិត​
-    .title = ចុច​ដើម្បី​បង្រួម​ផ្នែក​នេះ
 about-webrtc-fold-default-show-msg = បង្ហាញ​ព័ត៌មាន​លម្អិត
     .title = ចុច​ដើម្បី​ពង្រីក​ផ្នែក​នេះ
 about-webrtc-fold-default-hide-msg = លាក់​ព័ត៌មាន​លម្អិត​
@@ -105,10 +92,6 @@ about-webrtc-encoder-label = កម្ម​វិធី​អុីន​កូ
 
 ##
 
-about-webrtc-save-page-msg = បាន​រក្សា​​ទុក​ទំព័រ​ទៅ៖ { $path }
-about-webrtc-debug-mode-off-state-msg = កំណត់​ហេតុ​នៃ​ការ​តាម​ដាន​អាច​រក​បាន​នៅ៖ { $path }
-about-webrtc-debug-mode-on-state-msg = របៀប​កែ​កំហុស​សកម្ម កត់​ត្រា​កំណត់​ហេតុ​នៅ៖ { $path }
-about-webrtc-aec-logging-off-state-msg = ឯកសារ​កំណត់​ហេតុ​ដែល​បាន​ថត​ អាច​រក​បាន​នៅ​ក្នុង៖ { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

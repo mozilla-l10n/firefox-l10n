@@ -31,12 +31,6 @@ mr1-return-to-amo-add-extension-label = Idagdag ang { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Patayin ang mga animasyon
 # String for the Firefox Accounts button
@@ -144,13 +138,3 @@ mr2022-onboarding-existing-pin-header = Salamat sa pagmamahal mo sa { -brand-pro
 ## when Firefox is already set to default and pinned.
 
 mr2022-onboarding-get-started-primary-button-label = I-set up ng ilang segundo
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-label-default = Default
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Kasalukuyang mga kulay ng { -brand-short-name }
-mr2022-onboarding-colorway-label-playmaker = Playmaker

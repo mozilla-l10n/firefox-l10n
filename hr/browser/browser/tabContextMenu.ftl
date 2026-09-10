@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Nova kartica
-    .accesskey = t
 reload-tab =
     .label = Ponovo učitaj karticu
     .accesskey = v
@@ -102,10 +99,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nova grupa
     .accesskey = N
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -153,14 +146,6 @@ tab-context-send-to-mobile =
            *[other] Pošalji { $tabCount } kartica na mobitel
         }
     .accesskey = n
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Pošalji { $tabCount } karticu na uređaj
-            [few] Pošalji { $tabCount } kartice na uređaj
-           *[other] Pošalji { $tabCount } kartica na uređaj
-        }
-    .accesskey = o
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

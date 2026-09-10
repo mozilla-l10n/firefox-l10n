@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = เพิ่ม { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = ความคืบหน้า: ขั้นตอนที่ { $current } จาก { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -199,11 +193,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = ปักหมุด { -brand-short-name } เข้ากับแถบงานและเมนูเริ่ม
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = เปลี่ยนมาใช้เบราว์เซอร์ที่สนับสนุนโดยองค์กรไม่แสวงหาผลกำไร เราจะปกป้องความเป็นส่วนตัวของคุณในขณะที่คุณท่องเว็บ
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -233,57 +222,10 @@ mr2022-onboarding-set-default-subtitle = ใช้เบราว์เซอร
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = รุ่นล่าสุดของเราถูกสร้างขึ้นจากสิ่งต่าง ๆ รอบตัวคุณ ซึ่งจะทำให้คุณท่องเว็บได้ง่ายกว่าเดิม รุ่นล่าสุดนี้มาพร้อมกับคุณลักษณะต่าง ๆ ที่เราคิดว่าคุณจะต้องชอบแน่
 mr2022-onboarding-get-started-primary-button-label = ตั้งค่าในไม่กี่วินาที
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = ตั้งค่าต่าง ๆ ได้อย่างรวดเร็วทันใจ
-mr2022-onboarding-import-subtitle = ตั้งค่า { -brand-short-name } ในแบบที่คุณต้องการ เพิ่มที่คั่นหน้า รหัสผ่าน และอื่น ๆ จากเบราว์เซอร์ตัวเดิมของคุณ
 mr2022-onboarding-import-primary-button-label-no-attribution = นำเข้าจากเบราว์เซอร์ก่อนหน้า
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = เลือกสีที่โดนใจคุณ
-mr2022-onboarding-colorway-subtitle = เสียงที่เป็นอิสระสามารถเปลี่ยนวัฒนธรรมได้
-mr2022-onboarding-colorway-primary-button-label-continue = ตั้งค่าและดำเนินการต่อ
-mr2022-onboarding-existing-colorway-checkbox-label = ทำให้ { -firefox-home-brand-name } เป็นหน้าแรกที่เต็มไปด้วยสีสันของคุณ
-mr2022-onboarding-colorway-label-default = ค่าเริ่มต้น
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = สี { -brand-short-name } ปัจจุบัน
-mr2022-onboarding-colorway-description-default = <b>ใช้สี { -brand-short-name } ปัจจุบันของฉัน</b>
-mr2022-onboarding-colorway-label-playmaker = เพลย์เมคเกอร์
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = เพลย์เมคเกอร์ (แดง)
-mr2022-onboarding-colorway-description-playmaker = <b>คุณคือเพลย์เมคเกอร์</b> คุณสร้างโอกาสในการชนะและช่วยทุกคนรอบตัวคุณยกระดับความสามารถในการเล่นเกมของพวกเขา
-mr2022-onboarding-colorway-label-expressionist = นักแสดงออก
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = นักแสดงออก (เหลือง)
-mr2022-onboarding-colorway-description-expressionist = <b>คุณคือนักแสดงออก</b> คุณมองโลกแตกต่างออกไปและการสร้างสรรค์ของคุณก็กระตุ้นอารมณ์ของผู้อื่น
-mr2022-onboarding-colorway-label-visionary = ผู้มีวิสัยทัศน์
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = ผู้มีวิสัยทัศน์ (เขียว)
-mr2022-onboarding-colorway-description-visionary = <b>คุณคือผู้มีวิสัยทัศน์</b> คุณตั้งคำถามกับสภาพที่เป็นอยู่และกระตุ้นให้ผู้อื่นจินตนาการถึงอนาคตที่ดีกว่า
-mr2022-onboarding-colorway-label-activist = นักกิจกรรม
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = นักกิจกรรม (น้ำเงิน)
-mr2022-onboarding-colorway-description-activist = <b>คุณคือนักกิจกรรม</b> คุณทำให้โลกนี้เป็นสถานที่ที่ดียิ่งขึ้นและชักนำให้ผู้อื่นเชื่อคุณ
-mr2022-onboarding-colorway-label-dreamer = คนช่างฝัน
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = คนช่างฝัน (ม่วง)
-mr2022-onboarding-colorway-description-dreamer = <b>คุณคือคนช่างฝัน</b> คุณเชื่อว่าโชคเข้าข้างผู้กล้าเสมอและเป็นแรงบันดาลใจให้ผู้อื่นกล้า
-mr2022-onboarding-colorway-label-innovator = นักนวัตกรรม
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = นักนวัตกรรม (ส้ม)
-mr2022-onboarding-colorway-description-innovator = <b>คุณคือนักนวัตกรรม</b> คุณมองเห็นโอกาสทุกที่และสร้างอิทธิพลต่อชีวิตของทุกคนรอบตัวคุณ
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = สับเปลี่ยนไปมาระหว่างแล็ปท็อปกับโทรศัพท์
-mr2022-onboarding-mobile-download-subtitle = นำแท็บจากอุปกรณ์เครื่องหนึ่งไปเปิดต่อจากที่ค้างไว้ในอีกเครื่องหนึ่ง รวมทั้งซิงค์ที่คั่นหน้าและรหัสผ่านของคุณได้จากทุกที่ที่คุณใช้ { -brand-product-name }
 mr2022-onboarding-mobile-download-cta-text = สแกนคิวอาร์โค้ดเพื่อดาวน์โหลด { -brand-product-name } สำหรับมือถือ หรือ<a data-l10n-name="download-label">ส่งลิงก์ดาวน์โหลดให้ตัวคุณเอง</a>
 mr2022-onboarding-no-mobile-download-cta-text = สแกนคิวอาร์โค้ดเพื่อดาวน์โหลด { -brand-product-name } สำหรับมือถือ
 
@@ -336,15 +278,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = มือผิวอ่อนและผิวคล้ำไฮไฟฟ์กัน
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = ภาพวิวดวงอาทิตย์ตกที่หน้าต่างพร้อมสุนัขจิ้งจอกและพืชในบ้านบนขอบหน้าต่าง
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = สเปรย์มือวาดภาพคอลลาจที่เต็มไปด้วยสีสันซึ่งประกอบด้วยดวงตาสีเขียว รองเท้าสีส้ม ลูกบาสเกตบอลสีแดง หูฟังสีม่วง หัวใจสีน้ำเงิน และมงกุฎสีเหลือง
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = สุนัขจิ้งจอกบนหน้าจอคอมพิวเตอร์แล็ปท็อปโบกมือ แล็ปท็อปมีเมาส์เสียบอยู่
 onboarding-device-migration-title = ยินดีต้อนรับกลับมา!
-onboarding-device-migration-subtitle = ลงชื่อเข้าใช้ { -fxaccount-brand-name(capitalization: "sentence") } ของคุณเพื่อนำที่คั่นหน้า รหัสผ่าน และประวัติติดตัวไปด้วยบนอุปกรณ์เครื่องใหม่ของคุณ
 onboarding-device-migration-subtitle2 = ลงชื่อเข้าใช้บัญชีของคุณเพื่อนำที่คั่นหน้า รหัสผ่าน และประวัติไปกับคุณบนอุปกรณ์เครื่องใหม่ของคุณ
 onboarding-device-migration-primary-button-label = ลงชื่อเข้า
 
@@ -456,15 +395,12 @@ tab-groups-onboarding-feature-callout-title = ลองใช้กลุ่ม�
 tab-groups-onboarding-feature-callout-subtitle = จัดระเบียบได้ด้วยการลากแท็บหนึ่งไปไว้ด้านบนของอีกแท็บหนึ่งเพื่อสร้างกลุ่มแรกของคุณ
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = ค้นหากลุ่มแท็บของคุณได้ตลอดเวลาในเมนู แสดงแท็บทั้งหมด
-tab-groups-onboarding-create-group-title-2 = ค้นหากลุ่มแท็บของคุณได้ตลอดเวลาที่นี่
 tab-groups-onboarding-create-group-no-alltabs-button-title = มองหากลุ่มของคุณได้โดยค้นหาในแถบที่อยู่
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = เมื่อคุณปิดกลุ่มแท็บไปแล้ว สามารถเปิดใหม่อีกครั้งได้ตลอดเวลาจากเมนู แสดงแท็บทั้งหมด
-tab-groups-onboarding-saved-groups-title-2 = เมื่อคุณปิดกลุ่มแท็บ คุณสามารถเปิดใหม่จากที่นี่เมื่อใดก็ได้
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = มองหากลุ่มที่ปิดไปของคุณได้โดยค้นหาในแถบที่อยู่
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = สามารถเปิดกลุ่มแท็บของคุณใหม่อีกครั้งได้ตลอดเวลาจากเมนู แสดงแท็บทั้งหมด
-tab-groups-onboarding-session-restore-title = เปิดกลุ่มแท็บของคุณใหม่ได้ตลอดเวลาที่นี่
 tab-groups-onboarding-dismiss = ตกลง
 
 ## Multi Profiles feature onboarding messages

@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Fitxa berria
-newtab-settings-button =
-    .title = Pertsonalizatu fitxa berriaren orria
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Pertsonalizatu orri hau
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = Pertsonalizatu
 newtab-customize-panel-label =
     .label = Pertsonalizatu
-newtab-personalize-settings-icon-label =
-    .aria-label = Ezarpenak
-    .title = Pertsonalizatu fitxa berria
 newtab-settings-dialog-label =
     .aria-label = Ezarpenak
-newtab-personalize-icon-label =
-    .aria-label = Pertsonalizatu fitxa berria
-    .title = Pertsonalizatu fitxa berria
-newtab-personalize-dialog-label =
-    .aria-label = Pertsonalizatu
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
@@ -528,7 +518,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Gehitu bilaketa-motorra
 newtab-topsites-add-shortcut-header = Lasterbide berria
-newtab-topsites-edit-topsites-header = Editatu maiz erabilitako gunea
 newtab-topsites-edit-shortcut-header = Editatu lasterbidea
 newtab-topsites-add-shortcut-label = Gehitu lasterbidea
 newtab-topsites-add-shortcut-title =
@@ -598,20 +587,12 @@ newtab-topsites-hover-card-dismiss =
 newtab-menu-section-tooltip =
     .aria-label = Ireki menua
     .title = Ireki menua
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Kendu
-    .title = Kendu
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Ikusi { $title } gunerako testuinguru-menua
     .title = Ireki menua
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Editatu gune hau
-    .title = Editatu gune hau
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -623,11 +604,7 @@ newtab-menu-dismiss = Baztertu
 newtab-menu-pin = Ainguratu
 newtab-menu-unpin = Desainguratu
 newtab-menu-delete-history = Ezabatu historiatik
-newtab-menu-save-to-pocket = Gorde { -pocket-brand-name }-en
-newtab-menu-delete-pocket = Ezabatu { -pocket-brand-name }-etik
-newtab-menu-archive-pocket = Artxibatu { -pocket-brand-name }-en
 newtab-menu-show-privacy-info = Gure babesleak eta zure pribatutasuna
-newtab-menu-about-fakespot = { -fakespot-brand-name }(r)i buruz
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Jakinarazi
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -638,26 +615,12 @@ newtab-menu-section-block = Blokeatu
 newtab-menu-section-unfollow-topic = Utzi jarraitzeari
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Argibide gehiago
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = Ez jarraitu gaia
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = Kudeatu babesleen edukia
 newtab-menu-our-sponsors-and-your-privacy = Gure babesleak eta zure pribatutasuna
 newtab-menu-report-this-ad = Eman iragarki honen berri
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Eginda
-newtab-privacy-modal-button-manage = Kudeatu babesleek ordaindutako edukien ezarpenak
-newtab-privacy-modal-header = Zure pribatutasuna garrantzitsua da.
-newtab-privacy-modal-paragraph-2 =
-    Harrapatuko zaituzten istorioak biltzeaz gain, hautatutako babesleek
-    hornitutako eta aurrez ikuskatutako eduki esanguratsua ere erakusten dizugu.
-    Zaude lasai, <strong>zure nabigatze-datuak inoiz ez dira zure { -brand-product-name }(e)tik irtengo</strong> — ez guk ez eta gure babesleek ez dute halakorik ikusten.
-newtab-privacy-modal-link = Ikasi pribatutasuna nola dabilen fitxa berrian
 
 ##
 
@@ -713,31 +676,12 @@ newtab-label-sponsored-fixed = Babesleak hornituta
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Kendu atala
-newtab-section-menu-collapse-section = Tolestu atala
-newtab-section-menu-expand-section = Zabaldu atala
-newtab-section-menu-manage-section = Kudeatu atala
-newtab-section-menu-manage-webext = Kudeatu hedapena
-newtab-section-menu-add-topsite = Gehitu maiz erabilitako gunea
-newtab-section-menu-add-search-engine = Gehitu bilaketa-motorra
-newtab-section-menu-move-up = Eraman gora
-newtab-section-menu-move-down = Eraman behera
 newtab-section-menu-privacy-notice = Pribatutasun-oharra
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Tolestu atala
-newtab-section-expand-section-label =
-    .aria-label = Zabaldu atala
 
 ## Section Headers.
 
 newtab-section-header-topsites = Gune erabilienak
 newtab-section-header-recent-activity = Azken jarduera
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } hornitzaileak gomendatuta
 newtab-section-header-stories = Hausnartzeko moduko istorioak
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = Gaurko hautua zuretzat
@@ -745,10 +689,6 @@ newtab-section-header-todays-picks = Gaurko hautua zuretzat
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Hasi nabigatzen eta azkenaldian bisitatutako edo laster-marka egindako aparteko artikulu, bideo eta orriak erakutsiko ditugu.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Egunean zaude jada. Etorri berriro geroago { $provider } hornitzailearen istorio ezagun gehiagorako. Ezin duzu itxaron? Hautatu gai ezagun bat webeko istorio gehiago aurkitzeko.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = Egunean zaude jada. Etorri berriro geroago istorio gehiago jasotzeko. Ezin duzu itxaron? Hautatu gai ezagun bat webeko istorio gehiago aurkitzeko.
 
@@ -782,39 +722,6 @@ newtab-carousel-pause =
 newtab-carousel-play =
     .aria-label = Berrekin erreprodukzio automatikoa
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Gai ezagunak:
-newtab-pocket-new-topics-title = Istorio gehiago nahi dituzu? Ikusi { -pocket-brand-name }(e)ko gai ezagun hauek
-newtab-pocket-more-recommendations = Gomendio gehiago
-newtab-pocket-learn-more = Argibide gehiago
-newtab-pocket-cta-button = Eskuratu { -pocket-brand-name }
-newtab-pocket-cta-text = Gorde gogoko dituzun istorioak { -pocket-brand-name }-en eta piztu zure gogoa irakurgai erakargarriekin.
-newtab-pocket-pocket-firefox-family = { -brand-product-name }(r)en familiakoa da { -pocket-brand-name }
-newtab-pocket-save = Gorde
-newtab-pocket-saved = Gordeta
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = Horrelako gehiago
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = Ez zait interesatzen
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = Eskerrik asko. Zure iritziak jarioa hobetzen lagunduko digu.
-newtab-toast-dismiss-button =
-    .aria-label = Baztertu
-    .title = Baztertu
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = Aurkitu webeko onena
-newtab-pocket-onboarding-cta = { -pocket-brand-name }(e)k hainbat argitalpen arakatzen ditu eduki informatibo, suspergarri eta fidagarriena zuzenean zure { -brand-product-name } nabigatzailera ekartzeko.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -823,8 +730,6 @@ newtab-error-fallback-refresh-link = Berritu orria berriro saiatzeko.
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Lasterbideak
-newtab-custom-shortcuts-subtitle = Gordetzen edo bisitatzen dituzun guneak
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Gordetzen edo bisitatzen dituzun guneak
@@ -845,16 +750,6 @@ newtab-custom-row-selector2 =
             [one] Errenkada bat
            *[other] { $num } errenkada
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] Errenkada bat
-       *[other] { $num } errenkada
-    }
-newtab-custom-sponsored-sites = Babesleen lasterbideak
-newtab-custom-pocket-title = { -pocket-brand-name }-ek gomendatua
-newtab-custom-pocket-subtitle = { -brand-product-name } familiakide den { -pocket-brand-name }-eko taldeak hautatutako aparteko edukia.
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = { -brand-product-name } familiak aukeratutako eduki aparta
@@ -866,10 +761,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = Zure jardueran oinarritutako istorio pertsonalizatuak
 newtab-custom-stories-personalized-checkbox-label = Zure jardueran oinarritutako istorio pertsonalizatuak
-newtab-custom-pocket-sponsored = Babesleen istorioak
-newtab-custom-pocket-show-recent-saves = Erakutsi gordetako azkenak
-newtab-custom-recent-title = Azken jarduera
-newtab-custom-recent-subtitle = Azken gune eta edukien hautapena
 newtab-custom-weather-toggle =
     .description = Gaurko eguraldi-iragarpena
     .label = Eguraldia
@@ -901,7 +792,6 @@ newtab-widget-manage-widget-button =
 newtab-custom-close-menu-button =
     .aria-label = Itxi menua
     .title = Itxi
-newtab-custom-close-button = Itxi
 newtab-custom-settings = Kudeatu ezarpen gehiago
 
 ## Customization Menu
@@ -950,7 +840,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Irudiak fitxategi-tamainaren { $file_size } MBko muga gainditzen du. Saiatu fitxategi txikiago bat igotzen.
 newtab-wallpaper-error-upload-file-type = Ezin izan dugu zure fitxategia igo. Saiatu berriro irudi-fitxategi batekin.
-newtab-wallpaper-error-file-type = Ezin izan dugu zure fitxategia igo. Saiatu berriro beste fitxategi mota batekin.
 newtab-wallpaper-light-red-panda = Panda gorria
 newtab-wallpaper-light-mountain = Mendi zuria
 newtab-wallpaper-light-sky = Hodei more eta arrosadun zerua
@@ -1072,9 +961,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 newtab-wallpaper-firefox-orange = Azeria eskuineko ertzean atzeko plano laranja batean
 newtab-wallpaper-firefox-colorful-sky = Laranja-olatuak gaueko zeru morean zehar
 newtab-wallpaper-firefox-desert-dark = Azeria desertu ilun batean eserita
@@ -1113,10 +999,6 @@ newtab-wallpaper-celestial-river = Ibai baten satelite-irudia
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = Ikusi iragarpena { $provider } hornitzailean
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Babeslea
 newtab-weather-menu-change-location = Aldatu kokapena
 newtab-weather-change-location-search-input-placeholder =
@@ -1143,7 +1025,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Aldatu Fahrenheit-era
 newtab-weather-menu-change-temperature-units-celsius = Aldatu Celsius-era
-newtab-weather-menu-hide-weather = Ezkutatu eguraldia fitxa berrian
 newtab-weather-menu-learn-more = Argibide gehiago
 newtab-weather-menu-detect-my-location = Hauteman nire kokalekua
 # This message is shown if user is working offline
@@ -1264,7 +1145,6 @@ newtab-section-unblock-topic =
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = Une honetan ez
 newtab-section-confirm-block-topic-p1 = Ziur zaude gai hau blokeatu nahi duzula?
 newtab-section-confirm-block-topic-p2 = Blokeatutako gaiak ez dira gehiago azalduko zure jarioan.
 # Variables:

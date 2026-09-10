@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Бөлісу индикаторы
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Бөлісу индикаторы
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Сіз микрофонмен бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
 webrtc-screen-system-menu =
     .label = Сіз терезе немесе экранмен бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Сіз камера және микрофоныңызбен бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Сіз камераны бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Сіз микрофоныңызды бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Қолданбамен бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Сіз экраныңызды бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Тереземен бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Бетті бөлісудесіз. Бөлісуді басқару үшін шертіңіз.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = { $origin } өн
 
 webrtc-share-screen-warning = Тек өзіңіз сенетін сайттармен экраныңызбен бөлісіңіз. Бөлісу зиянкес сайттарға сіздің атыңыздан интернетті шолып, жеке деректеріңізді ұрлау мүмкіндігін береді.
 webrtc-share-browser-warning = Тек өзіңіз сенетін сайттармен { -brand-short-name } бөлісіңіз. Бөлісу зиянкес сайттарға сіздің атыңыздан интернетті шолып, жеке деректеріңізді ұрлау мүмкіндігін береді.
-webrtc-share-screen-learn-more = Көбірек білу
 webrtc-pick-window-or-screen = Терезе немесе экранды таңдаңыз
 webrtc-share-entire-screen = Толық экран
 webrtc-share-pipe-wire-portal = Операциялық жүйе баптауларын қолдану

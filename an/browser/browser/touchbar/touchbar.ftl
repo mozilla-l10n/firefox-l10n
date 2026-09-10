@@ -31,4 +31,3 @@ search-bookmarks = Marcapachinas
 search-history = Historial
 search-opentabs = Ubrir las pestanyas
 search-tags = Etiquetas
-search-titles = Titols

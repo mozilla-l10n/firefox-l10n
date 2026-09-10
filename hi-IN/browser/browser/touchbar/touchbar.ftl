@@ -31,4 +31,3 @@ search-bookmarks = बुकमार्क्स
 search-history = इतिहास
 search-opentabs = टैब खोलें
 search-tags = टैग
-search-titles = शीर्षक

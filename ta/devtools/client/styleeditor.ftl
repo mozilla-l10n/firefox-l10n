@@ -16,8 +16,6 @@ styleeditor-save-button = சேமி
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = பாணி தொகு தேர்வுகள்
-styleeditor-editor-textbox =
-    .data-placeholder = இங்கு CSS ஐத் தட்டச்சு செய்யவும்.
 styleeditor-no-stylesheet = பக்கத்தில் ஸ்டைல் ஷீட் இல்லை.
 styleeditor-no-stylesheet-tip = நீங்கள் இதை விரும்புகிறீர்களா <a data-l10n-name="append-new-stylesheet">புதிய ஸ்டைல் ஷீட்டை இணைத்தல்</a>?
 styleeditor-open-link-new-tab =

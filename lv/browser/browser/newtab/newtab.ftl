@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Jauna cilne
-newtab-settings-button =
-    .title = Pielāgojiet jaunās cilnes lapu
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Pielāgot šo lapu
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = Pielāgot
 newtab-customize-panel-label =
     .label = Pielāgot
-newtab-personalize-settings-icon-label =
-    .aria-label = Iestatījumi
-    .title = Personalizēt jauno cilni
 newtab-settings-dialog-label =
     .aria-label = Iestatījumi
-newtab-personalize-icon-label =
-    .aria-label = Personalizēt jauno cilni
-    .title = Personalizēt jauno cilni
-newtab-personalize-dialog-label =
-    .aria-label = Personalizēt
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 
@@ -294,7 +284,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Pievienot meklētāju
 newtab-topsites-add-shortcut-header = Jauna saīsne
-newtab-topsites-edit-topsites-header = Labot populārās vietnes
 newtab-topsites-edit-shortcut-header = Labot saīsni
 newtab-topsites-add-shortcut-label = Pievienot saīsni
 newtab-topsites-add-shortcut-title =
@@ -341,20 +330,12 @@ newtab-topsites-hover-card-just-now = Tikko
 newtab-menu-section-tooltip =
     .aria-label = Atvērt izvēlni
     .title = Atvērt izvēlni
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Noņemt
-    .title = Noņemt
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Atvērt izvēlni { $title }
     .title = Atvērt izvēlni
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Labot šo vietni
-    .title = Labot šo vietni
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -366,30 +347,12 @@ newtab-menu-dismiss = Noraidīt
 newtab-menu-pin = Piespraust
 newtab-menu-unpin = Atspraust
 newtab-menu-delete-history = Izdzēst no vēstures
-newtab-menu-save-to-pocket = Saglabāt { -pocket-brand-name }
-newtab-menu-delete-pocket = Dzēst no { -pocket-brand-name }
-newtab-menu-archive-pocket = Arhivēt { -pocket-brand-name }
 newtab-menu-show-privacy-info = Mūsu sponsori un jūsu privātums
-newtab-menu-about-fakespot = Par { -fakespot-brand-name }
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Liegt
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Uzzināt vairāk
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = Pārtraukt sekot tēmai
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Gatavs
-newtab-privacy-modal-button-manage = Pārvaldīt apmaksāta satura iestatījumus
-newtab-privacy-modal-header = Jūsu privātumam ir nozīme.
-newtab-privacy-modal-paragraph-2 =
-    Papildus aizraujošiem stāstiem mēs rādām arī atbilstošu,
-    kārtīgi pārbaudītu saturu no atlasītiem sponsoriem. Satraukumam nav pamata, jo <strong>pārlūkošanas
-    dati nekad neatstāj personīgo { -brand-product-name } kopiju</strong> — ne mēs, ne mūsu sponsori tos neredz.
-newtab-privacy-modal-link = Jaunā cilnē uzziniet, kā darbojas privātums
 
 ##
 
@@ -443,31 +406,12 @@ newtab-label-source-read-time = { $source } · { $timeToRead } min.
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Izņemt sadaļu
-newtab-section-menu-collapse-section = Sakļaut sadaļu
-newtab-section-menu-expand-section = Izvērst sadaļu
-newtab-section-menu-manage-section = Pārvaldīt sadaļu
-newtab-section-menu-manage-webext = Pārvaldīt paplašinājumu
-newtab-section-menu-add-topsite = Pievienot populāru vietni
-newtab-section-menu-add-search-engine = Pievienot meklētāju
-newtab-section-menu-move-up = Pārvietot augšup
-newtab-section-menu-move-down = Pārvietot lejup
 newtab-section-menu-privacy-notice = Privātuma politika
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Sakļaut sadaļu
-newtab-section-expand-section-label =
-    .aria-label = Izvērst sadaļu
 
 ## Section Headers.
 
 newtab-section-header-topsites = Populārākās lapas
 newtab-section-header-recent-activity = Nesenās darbības
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Iesaka { $provider }
 newtab-section-header-stories = Pārdomas rosinoši stāsti
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = Šodienas izlase jums
@@ -475,10 +419,6 @@ newtab-section-header-todays-picks = Šodienas izlase jums
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Sāc pārlūkošanu, un mēs šeit parādīsim dažus lieliskus rakstus, video un citas lapas, kuras nesen apmeklēji vai pievienoji grāmatzīmēm!
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Viss ir apskatīts! Atnāciet atpakaļ nedaudz vēlāk, lai redzētu populāros stāstus no { $provider }. Nevarat sagaidīt? Izvēlieties kādu no tēmām jau tagad.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = Esat visu apskatījis. Atgriezieties vēlāk, lai skatītu citus stāstus. Nevarat sagaidīt? Atlasiet populāru tēmu, lai atrastu vairāk lielisku stāstu no visa tīmekļa.
 
@@ -512,39 +452,6 @@ newtab-carousel-pause =
 newtab-carousel-play =
     .aria-label = Atsākt automātisko atskaņošanu
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Populārās tēmas:
-newtab-pocket-new-topics-title = Vai vēlaties vēl vairāk stāstu? Skatiet šīs populārās tēmas no { -pocket-brand-name }
-newtab-pocket-more-recommendations = Vairāk ieteikumu
-newtab-pocket-learn-more = Uzzināt vairāk
-newtab-pocket-cta-button = Izmēģiniet { -pocket-brand-name }
-newtab-pocket-cta-text = Saglabājiet interesantus stāstus { -pocket-brand-name } un barojiet savu prātu ar interesantu lasāmvielu.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } ir daļa no { -brand-product-name } saimes
-newtab-pocket-save = Saglabāt
-newtab-pocket-saved = Saglabāts
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = Vairāk šādus
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = Tas nav man
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = Paldies. Jūsu atsauksmes palīdzēs mums uzlabot jūsu plūsmu.
-newtab-toast-dismiss-button =
-    .aria-label = Noraidīt
-    .title = Noraidīt
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = Atklājiet labāko no tīmekļa
-newtab-pocket-onboarding-cta = { -pocket-brand-name } izpēta daudzveidīgu publikāciju klāstu, lai sniegtu visinformatīvāko, iedvesmojošāko un uzticamāko saturu tieši Tavā { -brand-product-name } pārlūkā.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -553,8 +460,6 @@ newtab-error-fallback-refresh-link = Jāatsvaidzina lapa, lai mēģinātu vēlre
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Saīsnes
-newtab-custom-shortcuts-subtitle = Saglabātās vai apmeklētās vietnes
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Saglabātās vai apmeklētās vietnes
@@ -571,33 +476,17 @@ newtab-custom-row-selector2 =
             [one] { $num } rindas
            *[other] { $num } rindu
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [zero] { $num } rinda
-        [one] { $num } rindas
-       *[other] { $num } rindu
-    }
-newtab-custom-sponsored-sites = Sponsorētās saīsnes
-newtab-custom-pocket-title = Ieteica { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Izcils saturs, ko atlasījis { -pocket-brand-name }, kas ir daļa no { -brand-product-name } saimes
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = Izcils saturs, ko atlasīja { -brand-product-name } saime
     .label = Ieteiktie stāsti
 newtab-recommended-stories-toggle =
     .label = Ieteiktie stāsti
-newtab-custom-pocket-sponsored = Sponsorētie stāsti
-newtab-custom-pocket-show-recent-saves = Rādīt nesen saglabāto
-newtab-custom-recent-title = Nesenās darbības
-newtab-custom-recent-subtitle = Neseno vietņu un satura izlase
 newtab-custom-weather-toggle =
     .description = Šodienas prognoze ātrā acu uzmetienā
     .label = Laikapstākļi
 newtab-custom-widget-recent-searches-toggle =
     .label = Nesenie meklējumi
-newtab-custom-close-button = Aizvērt
 newtab-custom-settings = Pārvaldīt vairāk iestatījumu
 
 ## Customization Menu
@@ -731,13 +620,17 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Lapsa uz labās malas uz oranža fona
+newtab-wallpaper-firefox-colorful-sky = Oranži viļņi pār violetām nakts debesīm
+newtab-wallpaper-firefox-desert-dark = Lapsa, kas sēž tumši violetā tuksnesī
+newtab-wallpaper-firefox-desert-light = Lapsa, kas skrien pāri gaišam tuksnesim
+newtab-wallpaper-firefox-hills-dark = Lapsa, kas skrien pāri tumšiem pakalniem
+newtab-wallpaper-firefox-hills-light = Lapsa, kas skrien pāri gaišiem pakalniem
+newtab-wallpaper-firefox-tail-dark = Lapsas aste uz tumša fona
+newtab-wallpaper-firefox-tail-light = Lapsas aste uz gaiša fona
 
 ## New Tab Weather
 
-# Variables:
-#   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = Skatīt prognozi { $provider }
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ sponsorēts
@@ -761,7 +654,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fārenheita
 newtab-weather-menu-temperature-option-celsius = Celsija
 newtab-weather-menu-change-temperature-units-fahrenheit = Pārslēgties uz Fārenheita skalu
 newtab-weather-menu-change-temperature-units-celsius = Pārslēgties uz Celsija skalu
-newtab-weather-menu-hide-weather = Paslēpt laikapstākļus jaunā cilnē
 newtab-weather-menu-learn-more = Uzzināt vairāk
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Laikapstākļu dati pašlaik nav pieejami.
@@ -839,7 +731,6 @@ newtab-section-block-topic =
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = Ne tagad
 newtab-section-confirm-block-topic-p1 = Vai tiešām liegt šo tēmu?
 # Variables:
 #   $topic (string) - Name of topic that user is blocking

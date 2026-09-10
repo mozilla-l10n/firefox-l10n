@@ -45,11 +45,5 @@ download-utils-transfer-diff-units = { $progress } { $progressUnits }  { $total 
 #   $progress (string) - Progress number.
 #   $progressUnits (string) - Unit.
 download-utils-transfer-no-total = { $progress } { $progressUnits }
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = { $scheme } ଉତ୍ସ
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = ସ୍ଥାନୀୟ ଫାଇଲ
 # Displayed time for files finished yesterday
 download-utils-yesterday = ଗତକାଲି

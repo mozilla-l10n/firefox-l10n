@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Ryšio nuostatos
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Ryšio nuostatos
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -58,14 +58,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Atsiųsti iš naujo
     .accesskey = u
-connection-proxy-autologin =
-    .label = Neprašyti tapatybės patvirtinimo, jeigu slaptažodis įrašytas
-    .accesskey = b
-    .tooltip = Pažymėjus šią parinktį, bus bandoma automatiškai patvirtinti tapatybę tuose įgaliotuosiuose serveriuose, kurių slaptažodžius naršyklė turi įsiminusi. Jei šis procesas nepavyktų, jūsų bus prašoma įvesti patikslintus duomenis.
 connection-proxy-autologin-checkbox =
     .label = Neprašyti tapatybės patvirtinimo, jeigu slaptažodis įrašytas
-    .accesskey = b
     .tooltiptext = Pažymėjus šią parinktį, bus bandoma automatiškai patvirtinti tapatybę tuose įgaliotuosiuose serveriuose, kurių slaptažodžius naršyklė turi įsiminusi. Jei šis procesas nepavyktų, jūsų bus prašoma įvesti patikslintus duomenis.
+    .accesskey = b
 connection-proxy-socks-remote-dns =
     .label = Įgaliotojo serverio DNS, kai naudojamas SOCKS v5
     .accesskey = d
@@ -76,6 +72,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = DNS išrišimui per HTTPS naudoti numatytąjį URL
 connection-dns-over-https-url-custom =
     .label = Pasirinktinis
-    .accesskey = P
     .tooltiptext = Įveskite norimą URL, skirtą DNS per HTTPS išrišimui
-connection-dns-over-https-custom-label = Kitas
+    .accesskey = P

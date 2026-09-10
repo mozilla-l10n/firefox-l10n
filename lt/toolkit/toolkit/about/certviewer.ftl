@@ -118,4 +118,3 @@ certificate-viewer-tab-mine = Jūsų liudijimai
 certificate-viewer-tab-people = Žmonės
 certificate-viewer-tab-servers = Serveriai
 certificate-viewer-tab-ca = Liudijimų įstaigos
-certificate-viewer-tab-unkonwn = Nežinoma

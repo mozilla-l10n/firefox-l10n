@@ -238,8 +238,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Sa ruguñu'unj un
     .accesskey = H
-menu-help-report-site-issue =
-    .label = Natà' si huā sa huā a'na' riña sitiô…
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

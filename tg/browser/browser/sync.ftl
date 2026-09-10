@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Ҳамоҳангсозӣ…
 sync-disconnect-dialog-title2 = Пайвастро қатъ мекунед?
 sync-disconnect-dialog-body = { -brand-product-name } ҳамоҳангсозиро бо ҳисоби шумо қатъ мекунад, аммо ягон маълумоти тамошобинии шуморо дар ин дастгоҳ нест намекунад.
 sync-disconnect-dialog-button = Қатъ кардани пайваст
-fxa-signout-dialog2-title = Аз { -fxaccount-brand-name } мебароед?
 fxa-signout-dialog-title2 = Аз ҳисоби худ мебароед?
 fxa-signout-dialog-body = Маълумоти ҳамоҳангшуда дар ҳисоби шумо боқӣ мемонад.
 fxa-signout-dialog2-button = Баромад
@@ -25,14 +24,6 @@ fxa-menu-send-to-device =
     .label =
         { $tabCount ->
             [1] Фиристодан ба дастгоҳ
-           *[other] Фиристодани { $tabCount } варақа ба дастгоҳ
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Фиристодани варақа ба дастгоҳ
            *[other] Фиристодани { $tabCount } варақа ба дастгоҳ
         }
 # This is shown dynamically within "Send tab to device" in fxa menu.

@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Nyt faneblad
-    .accesskey = N
 reload-tab =
     .label = Genindlæs faneblad
     .accesskey = e
@@ -124,10 +121,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Ny gruppe
     .accesskey = g
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -157,13 +150,6 @@ tab-context-send-to-device =
     .label =
         { $tabCount ->
             [1] Send til enhed
-           *[other] Send { $tabCount } faneblade til enhed
-        }
-    .accesskey = d
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Send faneblad til enhed
            *[other] Send { $tabCount } faneblade til enhed
         }
     .accesskey = d

@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Гувоҳнома эътибор надор
 cert-error-trust-signature-algorithm-disabled = Гувоҳнома эътибор надорад, зеро ки он ба воситаи алгоритме имзо карда шуд, ки ба сабаби хатарнокӣ ғайрифаъол карда шуд.
 cert-error-trust-expired-issuer = Гувоҳнома эътибор надорад, зеро ки муҳлати эътибори гувоҳнома ба анҷом расид.
 cert-error-trust-self-signed = Гувоҳнома эътибор надорад, зеро ки он ба таври худ имзо кардааст.
-cert-error-trust-symantec = Гувоҳномаҳое, ки аз тарафи GeoTrust, RapidSSL, Symantec, Thawte ва VeriSign бароварда шудаанд, дигар бехатар нестанд, зеро ки ин мақомотҳои гувоҳномадиҳӣ риояи таҷрибаи бехатариро иҷро карда натавонистанд.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = «{ -brand-short-name }» ба { $hostname } эътимод надорад, зеро ки он наметавонад исбот кунад, ки он ба талаботи шаффофияти гувоҳиномаи ҷамъиятӣ мувофиқ аст.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Рамзи хато: <a data-l10n-name="error-code
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Ҳангоми пайвастшавӣ ба { $hostname } хато ба миён омад. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Сомонаҳо айнияти худро ба воситаи гувоҳномаҳое тасдиқ мекунанд, ки бо мақомотҳои гувоҳномадиҳӣ бароварда мешаванд. Аксари браузерҳо ба гувоҳномаҳое, ки аз тарафи GeoTrust, RapidSSL, Symantec, Thawte, ва VeriSign бароварда шудаанд, эътимод надоранд. { $hostname } гувоҳномаеро истифода мебарад, ки аз яке аз мақомотҳои гувоҳномадиҳии зикршуда бароварда шудааст ва бинобар ин айнияти сомона тасдиқ карда намешавад.
-cert-error-symantec-distrust-admin = Шумо метавонед дар бораи ин мушкилӣ ба маъмури сомона хабар диҳед.
 cert-error-old-tls-version = Эҳтимол аст, ки ин сомона протоколи «TLS 1.2»-ро, ки версияи ҳадди ақали дастгиришаванда бо «{ -brand-short-name }» мебошад, дастгирӣ намекунад.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,12 +62,10 @@ cert-error-details-hsts-label = Интиқол бо амнияти ҷиддии 
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Васлкунии калиди иҷтимоии HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Занҷири гувоҳнома:
-open-in-new-window-for-csp-or-xfo-error = Кушодани сомона дар равзанаи нав
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Барои муҳофизат кардани амнияти шумо, { $hostname } ба «{ -brand-short-name }» барои намоиш додани саҳифа иҷозат намедиҳад, агар сомонаи дигар онро дарунсохт карда бошад. Барои дидани ин саҳифа шумо бояд онро дар равзанаи нав кушоед.
 fp-certerror-view-certificate-link = Дидани гувоҳиномаи сомона
-fp-certerror-return-to-previous-page-recommended-button = Бозгашт (тавсия дода мешавад)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -104,21 +97,21 @@ fp-certerror-self-signed-important-note = ТАВЗЕҲИ МУҲИМ: Агар ш
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = Сомонаҳо аз гувоҳиномаҳое истифода мебаранд, ки аз тарафи мақомоти иҷозатномадиҳанда таъмин карда шудаанд ва барои исбот кардани он, ки соҳибони сомона худро ҳамчун шахсони ҳаҳиқӣ вонамуд мекунанд қарор медиҳанд. «{ -brand-short-name }» ба ин сомона эътимод надорад, зеро ки муҳлати эътибори гувоҳиномаи он дар санаи { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } ба анҷом расид.
+fp-certerror-expired-why-dangerous-body = Сомонаҳо аз гувоҳиномаҳое истифода мебаранд, ки аз тарафи мақомоти иҷозатномадиҳанда таъмин карда шудаанд ва барои исбот кардани он, ки соҳибони сомона худро ҳамчун шахсони ҳаҳиқӣ вонамуд мекунанд қарор медиҳанд. «{ -brand-short-name }» ба ин сомона эътимод надорад, зеро ки муҳлати эътибори гувоҳиномаи он дар санаи { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } ба анҷом расид.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = Сомонаҳо аз гувоҳиномаҳое истифода мебаранд, ки аз тарафи мақомоти иҷозатномадиҳанда таъмин карда шудаанд ва барои исбот кардани он, ки соҳибони сомона худро ҳамчун шахсони ҳаҳиқӣ вонамуд мекунанд қарор медиҳанд. «{ -brand-short-name }» ба ин сомона эътимод надорад, зеро ки гувоҳиномаи он то санаи { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } эътибор дониста намешавад.
+fp-certerror-not-yet-valid-why-dangerous-body = Сомонаҳо аз гувоҳиномаҳое истифода мебаранд, ки аз тарафи мақомоти иҷозатномадиҳанда таъмин карда шудаанд ва барои исбот кардани он, ки соҳибони сомона худро ҳамчун шахсони ҳаҳиқӣ вонамуд мекунанд қарор медиҳанд. «{ -brand-short-name }» ба ин сомона эътимод надорад, зеро ки гувоҳиномаи он то санаи { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } эътибор дониста намешавад.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = Соати дастгоҳи шумо ба { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } гузошта шудааст. Агар ин дуруст бошад, эҳтимол, мушкилоти амният дар худи сомона мебошад. Агар ин нодуруст бошад, шумо метавонед онро дар танзимоти низоми дастгоҳи худ иваз кунед.
+fp-certerror-expired-what-can-you-do-body = Соати дастгоҳи шумо ба { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } гузошта шудааст. Агар ин дуруст бошад, эҳтимол, мушкилоти амният дар худи сомона мебошад. Агар ин нодуруст бошад, шумо метавонед онро дар танзимоти низоми дастгоҳи худ иваз кунед.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Рамзи хато: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -131,11 +124,11 @@ fp-learn-more-about-time-related-errors = Маълумоти бештар дар
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = Браузери «{ -brand-short-name }» ба ин сомона эътимод надорад, зеро ба назар мерасад, ки гувоҳиномаи пешниҳодшуда то { DATETIME($date, timeStyle: "short") } дар { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } эътибор надорад.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = Браузери «{ -brand-short-name }» ба ин сомона эътимод надорад, зеро ба назар мерасад, ки гувоҳиномаи пешниҳодшуда то { DATETIME($date, timeStyle: "short") } дар { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } эътибор надорад.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Соати дастгоҳи шумо ба { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } гузошта шудааст. Агар ин дуруст бошад, эҳтимол, мушкилоти амният дар худи сомона мебошад. Агар ин нодуруст бошад, шумо метавонед онро дар танзимоти низоми дастгоҳи худ иваз кунед.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Соати дастгоҳи шумо ба { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } гузошта шудааст. Агар ин дуруст бошад, эҳтимол, мушкилоти амният дар худи сомона мебошад. Агар ин нодуруст бошад, шумо метавонед онро дар танзимоти низоми дастгоҳи худ иваз кунед.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
@@ -165,8 +158,6 @@ deniedPortAccess-title = Нишонии ҷорӣ маҳдуд шудааст
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Мутаассифона, ин сомона кушода нашуд.
 internet-connection-offline-title = Чунин ба назар мерасад, ки дар пайвасти Интернети шумо мушкилӣ ба миён омад.
-dns-not-found-trr-only-title2 = Ҳавфи амният ҳангоми ҷустуҷӯи ин домен имконпазир аст
-dns-not-found-native-fallback-title2 = Ҳавфи амният ҳангоми ҷустуҷӯи ин домен имконпазир аст
 fileNotFound-title = Файл ёфт нашуд
 fileAccessDenied-title = Дастрасӣ ба файл манъ карда шуд
 generic-title = Оҳ!
@@ -191,7 +182,6 @@ unknownSocketType-title = Ҷавоби ногаҳон аз сервер
 nssFailure2-title = Пайвасти бехатар иҷро нашуд
 csp-xfo-error-title = «{ -brand-short-name }» ин саҳифаро кушода наметавонад
 corruptedContentErrorv2-title = Хатои муҳтавои вайроншуда
-corruptedContentError-title = Хатои муҳтавои вайроншуда
 sslv3Used-title = Пайвасти бехатар ғайриимкон аст
 inadequateSecurityError-title = Пайвасти шумо бехатар нест
 blockedByPolicy-title = Саҳифаи басташуда
@@ -214,7 +204,6 @@ fp-certerror-hide-advanced-button = Пинҳон кардани тафсилот
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Гузариш ба сомонаи { $hostname } (Хатарнок)
 fp-certerror-intro = «{ -brand-short-name }» мушкилии эҳтимолан хеле ҷиддиро нисбат ба <strong>{ $hostname }</strong> муайян кард. Касе, ки худро дар ин сомона вонамуд мекунад, метавонад кӯшиш кунад, ки маълумоти шахсиро ба монанди маълумоти корти бонкӣ, ниҳонвожаҳо ё нишонии почтаи электронӣ дуздӣ кунад.
 fp-certerror-expired-into = «{ -brand-short-name }» мушкилии амниятро нисбат ба <strong>{ $hostname }</strong> муайян кард. Эҳтимол аст, ки сомона ба таври дуруст насб нашудааст ё соати дастгоҳи шумо ба сана/вақти нодуруст гузошта шудааст.
 fp-certerror-transparency-intro = Касе, ки худро дар ин нишонии <strong>{ $hostname }</strong> вонамуд мекунад, метавонад кӯшиш карда, чизҳоеро, аз қабили маълумоти корти бонкӣ, ниҳонвожаҳо ё нишониҳои почтаи электронии шумо, дуздӣ кунад.

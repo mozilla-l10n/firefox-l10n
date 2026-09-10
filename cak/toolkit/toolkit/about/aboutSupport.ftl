@@ -21,10 +21,6 @@ security-software-name = B'i'aj
 security-software-antivirus = Chapöy chikopil
 security-software-antispyware = Chapöy nachanel
 security-software-firewall = Chupuq'aq'
-features-title = { -brand-short-name } Taq rub'anikil
-features-name = B'i'aj
-features-version = Ruwäch
-features-id = ID
 processes-title = Näj taq Tajin
 processes-type = Ruwäch
 processes-count = Ajilab'äl
@@ -50,7 +46,6 @@ app-basics-profile-dir =
         [linux] Rucholb'äl Ruwäch B'i'aj
        *[other] Rumolwuj Ruwäch B'i'aj
     }
-app-basics-enabled-plugins = Tzijon taq nak'ab'äl
 app-basics-build-config = Runuk'ulem Molïk
 app-basics-user-agent = Rub'anel ri winäq
 app-basics-os = OS
@@ -85,9 +80,6 @@ show-dir-label =
 environment-variables-title = Ruk'ojlib'al Jalb'äl
 environment-variables-name = B'i'aj
 environment-variables-value = Retal
-experimental-features-title = Soltojtob'enel taq Rub'anikil
-experimental-features-name = B'i'aj
-experimental-features-value = Retal
 modified-key-prefs-title = K'exon nimaläj taq ajowanïk
 modified-prefs-name = B'i'aj
 modified-prefs-value = Retal
@@ -328,8 +320,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Xchup ruma ri tojtob'enel
-fission-status-experiment-treatment = Xtzij ruma ri tojtob'enel
 fission-status-disabled-by-e10s-env = Xchup ruma ri k'ojlib'äl
 fission-status-enabled-by-env = Xtzij ruma ri k'ojlib'äl
 fission-status-disabled-by-env = Xchup ruma ri k'ojlib'äl

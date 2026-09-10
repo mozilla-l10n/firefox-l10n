@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = 연결 설정
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = 연결 설정
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = 새로 고침
     .accesskey = e
-connection-proxy-autologin =
-    .label = 비밀번호가 저장되어 있으면 인증시 묻지 않기
-    .accesskey = i
-    .tooltip = 저장한 자격 증명이 있으면 조용히 인증합니다. 인증이 되지 않으면 물어볼 것입니다.
 connection-proxy-autologin-checkbox =
     .label = 비밀번호가 저장되어 있으면 인증시 묻지 않기
-    .accesskey = i
     .tooltiptext = 저장한 자격 증명이 있으면 조용히 인증합니다. 인증이 되지 않으면 물어볼 것입니다.
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = SOCKS v4를 사용할 때 DNS 프록시
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = DNS over HTTPS 해석에 기본 URL 사용
 connection-dns-over-https-url-custom =
     .label = 사용자 지정
-    .accesskey = C
     .tooltiptext = DNS over HTTPS 해석에 사용자가 선호하는 URL 입력
-connection-dns-over-https-custom-label = 사용자 지정
+    .accesskey = C

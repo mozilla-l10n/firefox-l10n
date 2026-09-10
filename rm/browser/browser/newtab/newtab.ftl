@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Nov tab
-newtab-settings-button =
-    .title = Persunalisar tia pagina per novs tabs
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Persunalisescha questa pagina
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = Persunalisar
 newtab-customize-panel-label =
     .label = Persunalisar
-newtab-personalize-settings-icon-label =
-    .aria-label = Parameters
-    .title = Persunalisar novs tabs
 newtab-settings-dialog-label =
     .aria-label = Parameters
-newtab-personalize-icon-label =
-    .aria-label = Persunalisar novs tabs
-    .title = Persunalisar novs tabs
-newtab-personalize-dialog-label =
-    .aria-label = Persunalisar
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 
@@ -153,7 +143,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Agiuntar maschina da tschertgar
 newtab-topsites-add-shortcut-header = Nova scursanida
-newtab-topsites-edit-topsites-header = Modifitgar la pagina principala
 newtab-topsites-edit-shortcut-header = Modifitgar la scursanida
 newtab-topsites-add-shortcut-label = Agiuntar ina scursanida
 newtab-topsites-add-shortcut-title =
@@ -203,20 +192,12 @@ topsite-label-pinned =
 newtab-menu-section-tooltip =
     .aria-label = Avrir il menu
     .title = Avrir il menu
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Allontanar
-    .title = Allontanar
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Avrir il menu contextual per { $title }
     .title = Avrir il menu
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Modifitgar questa pagina
-    .title = Modifitgar questa pagina
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -227,11 +208,7 @@ newtab-menu-dismiss = Sbittar
 newtab-menu-pin = Fixar
 newtab-menu-unpin = Betg pli fixar
 newtab-menu-delete-history = Stizzar da la cronologia
-newtab-menu-save-to-pocket = Memorisar en { -pocket-brand-name }
-newtab-menu-delete-pocket = Stizzar da { -pocket-brand-name }
-newtab-menu-archive-pocket = Archivar en { -pocket-brand-name }
 newtab-menu-show-privacy-info = Noss sponsurs & tia sfera privata
-newtab-menu-about-fakespot = Davart { -fakespot-brand-name }
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Rapportar
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -239,27 +216,12 @@ newtab-menu-report = Rapportar
 newtab-menu-section-block = Bloccar
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Ulteriuras infurmaziuns
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = Betg pli suandar il tema
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = Administrar cuntegn sponsurisà
 newtab-menu-our-sponsors-and-your-privacy = Noss sponsurs e tia sfera privata
 newtab-menu-report-this-ad = Rapportar questa reclama
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Finì
-newtab-privacy-modal-button-manage = Administrar ils parameters da cuntegn sponsurisà
-newtab-privacy-modal-header = Tia sfera privata è impurtanta.
-newtab-privacy-modal-paragraph-2 =
-    Ultra dad istorgias captivantas, ta mussain nus era cuntegn relevant, 
-    curà cun premura da sponsurs distinguids. Nus garantin che <strong>tias datas
-    da navigaziun na bandunan mai tia copia persunala da { -brand-product-name }</strong>  —
-    nus n'avain betg access a questas datas e noss sponsurs n'era betg.
-newtab-privacy-modal-link = Ve a savair co la protecziun da datas funcziuna sin la pagina Nov tab
 
 ##
 
@@ -315,31 +277,12 @@ newtab-label-sponsored-fixed = Sponsurisà
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Allontanar la secziun
-newtab-section-menu-collapse-section = Reducir la secziun
-newtab-section-menu-expand-section = Expander la secziun
-newtab-section-menu-manage-section = Administrar la secziun
-newtab-section-menu-manage-webext = Administrar l'extensiun
-newtab-section-menu-add-topsite = Agiuntar ina pagina principala
-newtab-section-menu-add-search-engine = Agiuntar maschina da tschertgar
-newtab-section-menu-move-up = Spustar ensi
-newtab-section-menu-move-down = Spustar engiu
 newtab-section-menu-privacy-notice = Infurmaziuns davart la protecziun da datas
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Reducir la secziun
-newtab-section-expand-section-label =
-    .aria-label = Expander la secziun
 
 ## Section Headers.
 
 newtab-section-header-topsites = Paginas preferidas
 newtab-section-header-recent-activity = Activitad recenta
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Recumandà da { $provider }
 newtab-section-header-stories = Istorgias che dattan da pensar
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = Noss tips dad oz per tai
@@ -347,10 +290,6 @@ newtab-section-header-todays-picks = Noss tips dad oz per tai
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Cumenza a navigar e nus ta mussain qua artitgels, videos ed autras paginas che ti has visità dacurt u che ti has agiuntà dacurt sco segnapagina.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Ussa has ti legì tut las novitads. Turna pli tard per ulteriuras novitads da { $provider }. Na pos betg spetgar? Tscherna in tema popular per chattar ulteriuras istorgias ord il web.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = Ti has legì tut las novitads. Turna pli tard per leger ulteriurs artitgels da vaglia. Na pos betg spetgar? Tscherna in tema popular per chattar autras bunas istorgias en il web.
 
@@ -363,39 +302,6 @@ newtab-discovery-empty-section-topstories-loading = Chargiar…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Oha! Nus avain quasi chargià il cuntegn, ma be quasi.
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Temas populars:
-newtab-pocket-new-topics-title = Vul anc dapli istorgias? Vesair quests temas populars da { -pocket-brand-name }
-newtab-pocket-more-recommendations = Dapli propostas
-newtab-pocket-learn-more = Ulteriuras infurmaziuns
-newtab-pocket-cta-button = Obtegnair { -pocket-brand-name }
-newtab-pocket-cta-text = Memorisescha ils artitgels che ta plaschan en { -pocket-brand-name } e procura per inspiraziun cuntinuanta cun lectura fascinanta.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } fa part da la paletta da products { -brand-product-name }
-newtab-pocket-save = Memorisar
-newtab-pocket-saved = Memorisà
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = Dapli da quai
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = Na m’interessescha betg
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = Grazia. Tes resun ans vegn a gidar a meglierar tes pavel.
-newtab-toast-dismiss-button =
-    .aria-label = Serrar
-    .title = Serrar
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = Scuvrir il meglier dal web
-newtab-pocket-onboarding-cta = { -pocket-brand-name } intercurescha ina collecziun vasta da publicaziuns per purtar il cuntegn il pli infurmativ, inspirant e fidabel directamain en tes navigatur { -brand-product-name }.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -404,8 +310,6 @@ newtab-error-fallback-refresh-link = Rechargia la pagina per reempruvar.
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Scursanidas
-newtab-custom-shortcuts-subtitle = Websites che ti memoriseschas u visitas
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Websites che ti memoriseschas u visitas
@@ -421,16 +325,6 @@ newtab-custom-row-selector2 =
             [one] { $num } lingia
            *[other] { $num } lingias
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } lingia
-       *[other] { $num } lingias
-    }
-newtab-custom-sponsored-sites = Scursanidas sponsuradas
-newtab-custom-pocket-title = Recumandà da { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Cuntegn excepziunal, tschernì da { -pocket-brand-name }, in product da { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = Cuntegn excepziunal curà da { -brand-product-name }
@@ -442,10 +336,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = Artitgels persunalisads a basa da tia activitad
 newtab-custom-stories-personalized-checkbox-label = Artitgels persunalisads a basa da tia activitad
-newtab-custom-pocket-sponsored = Artitgels sponsurads
-newtab-custom-pocket-show-recent-saves = Mussar ils elements memorisads dacurt
-newtab-custom-recent-title = Activitad recenta
-newtab-custom-recent-subtitle = Ina selecziun da websites e cuntegn visità dacurt
 newtab-custom-weather-toggle =
     .description = La previsiun da l’aura actuala en in’egliada
     .label = Aura
@@ -463,7 +353,6 @@ newtab-widget-manage-title = Widgets
 newtab-custom-close-menu-button =
     .aria-label = Serrar il menu
     .title = Serrar
-newtab-custom-close-button = Serrar
 newtab-custom-settings = Administrar ulteriurs parameters
 
 ## New Tab Wallpapers
@@ -481,7 +370,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Il maletg surpassa la grondezza maximala permessa da { $file_size } MB. Emprova per plaschair da transferir ina datoteca pli pitschna.
 newtab-wallpaper-error-upload-file-type = I n’è betg reussì da transferir tia datoteca. Emprova per plaschair anc ina giada cun ina datoteca grafica.
-newtab-wallpaper-error-file-type = I n’è betg reussì da transferir tia datoteca. Emprova per plaschair anc ina giada cun in auter tip da datoteca.
 newtab-wallpaper-light-red-panda = Panda cotschen
 newtab-wallpaper-light-mountain = Muntogna alva
 newtab-wallpaper-light-sky = Tschiel cun nivels violets e rosas
@@ -582,10 +470,6 @@ newtab-wallpaper-celestial-river = Maletg da satellit dad in flum
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = Mussar la previsiun da l’aura en { $provider }
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponsurà
 newtab-weather-menu-change-location = Midar la posiziun
 newtab-weather-change-location-search-input-placeholder =
@@ -604,7 +488,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Midar a fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Midar a celsius
-newtab-weather-menu-hide-weather = Zuppentar l’aura sin ils novs tabs
 newtab-weather-menu-learn-more = Ulteriuras infurmaziuns
 newtab-weather-menu-detect-my-location = Detectar mia posiziun
 # This message is shown if user is working offline
@@ -689,7 +572,6 @@ newtab-section-unblock-button = Debloccar
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = Betg ussa
 newtab-section-confirm-block-topic-p1 = Vuls ti propi bloccar quest tema?
 newtab-section-confirm-block-topic-p2 = Temas bloccads na vegnan betg pli a cumparair en tes feed.
 # Variables:

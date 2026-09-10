@@ -21,8 +21,6 @@ styleeditor-save-button = Uložit
 styleeditor-options-button =
     .tooltiptext = Možnosti Editoru stylů
 styleeditor-at-rules = @-pravidla
-styleeditor-editor-textbox =
-    .data-placeholder = Zde vložte CSS.
 styleeditor-no-stylesheet = Tato stránka nemá připojený stylopis.
 styleeditor-no-stylesheet-tip = Můžete <a data-l10n-name="append-new-stylesheet">připojit nový stylopis</a>.
 styleeditor-open-link-new-tab =

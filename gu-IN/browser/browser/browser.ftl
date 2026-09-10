@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = સાઇટની માહિતી જુઓ
 
@@ -38,8 +33,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = ઑફલાઇન સંગ્રહ સંદેશ પેનલ ખોલો
 urlbar-password-notification-anchor =
     .tooltiptext = પાસવર્ડ સંદેશ પેનલ સાચવો ખોલો
-urlbar-plugins-notification-anchor =
-    .tooltiptext = પ્લગ-ઇનનો ઉપયોગ સંચાલિત કરો
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = સાઇટ સાથે તમારા કેમેરા અને/અથવા માઇક્રોફોનને શેર કરવાનું મેનેજ કરો
 urlbar-autoplay-notification-anchor =
@@ -48,14 +41,7 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = સ્થાયી સંગ્રહમાં ડેટા સંગ્રહ કરો
 urlbar-addons-notification-anchor =
     .tooltiptext = ઍડ-ઑન ઇન્સ્ટોલેશન મેસેજ પેનલ ખોલો
-urlbar-tip-help-icon =
-    .title = મદદ મેળવો
 urlbar-search-tips-confirm = ઠીક છે, સમજાઇ ગયું
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = ટિપ્પણી:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -78,8 +64,6 @@ urlbar-screen-blocked =
     .tooltiptext = તમે તમારી સ્ક્રીન શેર આ વેબસાઇટ અવરોધિત કર્યા છે.
 urlbar-persistent-storage-blocked =
     .tooltiptext = તમે આ વેબસાઇટ માટે સતત સંગ્રહ અવરોધિત કર્યા છે.
-urlbar-popup-blocked =
-    .tooltiptext = તમે આ વેબસાઇટ માટે પોપ-અપ્સને અવરોધિત કર્યા છે.
 urlbar-autoplay-media-blocked =
     .tooltiptext = તમે આ વેબસાઇટ માટે અવાજ સાથે ઑટોપ્લે મીડિયા અવરોધિત કર્યા છે.
 urlbar-canvas-blocked =
@@ -160,7 +144,6 @@ identity-active-blocked = { -brand-short-name } એ આ પૃષ્ઠના �
 identity-passive-loaded = આ પૃષ્ઠનાં ભાગો સુરક્ષિત નથી (જેમ કે છબીઓ).
 identity-active-loaded = તમે આ પૃષ્ઠ પર રક્ષણ અક્ષમ કર્યું છે.
 identity-weak-encryption = આ પાનું નબળા એન્ક્રિપ્શન વાપરે છે.
-identity-insecure-login-forms = આ પાનાં પર દાખલ લૉગિન્સ ચેડા થઈ શકે છે.
 identity-permissions-reload-hint = ફેરફારો લાગુ કરવા માટે તમને પૃષ્ઠને ફરીથી લોડ કરવાની જરૂર પડી શકે છે.
 identity-clear-site-data =
     .label = કૂકીઝ અને સાઈટ ડેટા સાફ કરો…
@@ -168,7 +151,6 @@ identity-remove-cert-exception =
     .label = અપવાદ દૂર કરો
     .accesskey = R
 identity-description-insecure = આ સાઇટ પરનું તમારું કનેક્શન ખાનગી નથી. તમે સબમિટ કરેલ માહિતી(પાસવર્ડ્સ, સંદેશા, ક્રેડિટ કાર્ડ, વગેરે.) અન્ય લોકો દ્વારા જોઈ શકાય છે.
-identity-description-insecure-login-forms = આ પૃષ્ઠ પર તમે દાખલ કરેલ લૉગિન માહિતી સુરક્ષિત નથી અને તેની સાથે ચેડા થઈ શકે છે.
 identity-description-weak-cipher-intro = આ વેબસાઇટ સાથેનું તમારું કનેક્શન નબળા એન્ક્રિપ્શન ઉપયોગ કરે છે અને ખાનગી નથી.
 identity-description-weak-cipher-risk = અન્ય લોકો તમારી માહિતી જોઈ શકો છો અથવા વેબસાઇટની વર્તન સુધારો કરી શકો છો.
 identity-description-active-blocked2 = { -brand-short-name } એ આ પૃષ્ઠના ભાગોને અવરોધિત કર્યા છે જે સુરક્ષિત નથી.
@@ -177,12 +159,6 @@ identity-description-passive-loaded-insecure2 = આ વેબસાઇટમા�
 identity-description-passive-loaded-mixed2 = જોકે { -brand-short-name } કેટલીક સામગ્રીને અવરોધિત કરી છે, ત્યાં હજુ પણ તે પૃષ્ઠ પરની સામગ્રી છે જે સુરક્ષિત નથી (જેમ કે છબીઓ).
 identity-description-active-loaded = આ વેબસાઇટમાં એવી સામગ્રી શામેલ છે જે સુરક્ષિત નથી (જેમ કે સ્ક્રિપ્ટ્સ) અને તેનાથી તમારું કનેક્શન ખાનગી નથી.
 identity-description-active-loaded-insecure = તમે આ સાઇટ સાથે જે માહિતીનો ઉપયોગ કરો છો તે અન્ય લોકો દ્વારા જોઈ શકાય છે (જેમ કે પાસવર્ડ્સ, સંદેશા, ક્રેડિટ કાર્ડ વગેરે.).
-identity-disable-mixed-content-blocking =
-    .label = હમણાં માટે રક્ષણ અક્ષમ કરો
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = સુરક્ષા સક્ષમ કરો
-    .accesskey = E
 identity-more-info-link-text =
     .label = વધારે જાણકારી
 
@@ -217,8 +193,6 @@ urlbar-extension =
     .value = એક્સ્ટેંન્શન:
 urlbar-go-button2 =
     .title = સ્થાન પટ્ટીમાં સરનામા પર જાવ
-urlbar-go-button =
-    .tooltiptext = સ્થાન પટ્ટીમાં સરનામા પર જાવ
 urlbar-page-action-button =
     .tooltiptext = પૃષ્ઠ ક્રિયાઓ
 
@@ -288,12 +262,6 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] બુકમાર્ક્સ ટૂલબાર છુપાવો
            *[other] બુકમાર્ક સાધનપટ્ટીને દર્શાવો
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] ટૂલબારમાંથી બુકમાર્ક મેનુને દૂર કરો
-           *[other] ટૂલબારમાં બુકમાર્ક્સ મેનૂ ઉમેરો
-        }
 
 ##
 
@@ -312,12 +280,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = બુકમાર્ક્સ
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = { -pocket-brand-name } પર સાચવો
-    .tooltiptext = { -pocket-brand-name } પર સાચવો
 
 ##
 
@@ -355,28 +317,10 @@ eme-notifications-drm-content-playing = આ સાઇટ પરના કેટ�
 ui-tour-info-panel-close =
     .tooltiptext = બંધ કરો
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = { $uriHost } માટે પોપઅપને પરવાનગી આપો
-    .accesskey = p
-popups-infobar-block =
-    .label = { $uriHost } માટે પોપઅપ અટકાવો
-    .accesskey = p
-
-##
-
-popups-infobar-dont-show-message =
-    .label = જ્યારે પોપઅપ અટકાવાયેલ હોય ત્યારે આ સંદેશો બતાવશો નહિં
-    .accesskey = D
-
 ##
 
 navbar-downloads =
     .label = ડાઉનલોડ
-navbar-overflow =
-    .tooltiptext = વધારે સાધનો…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

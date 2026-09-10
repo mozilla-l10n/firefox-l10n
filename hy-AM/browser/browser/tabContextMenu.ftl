@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Նոր ներդիր
-    .accesskey = w
 reload-tab =
     .label = Կրկին բեռնել ներդիրը
     .accesskey = Կ
@@ -98,10 +95,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Նոր խումբ
     .accesskey = G
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -133,13 +126,6 @@ tab-context-send-to-device =
             [1] Ուղարկել սարքի
             [one] Ուղարկել { $tabCount } ներդիրներ սարքի
            *[other] Ուղարկել { $tabCount } ներդիրներ սարքի
-        }
-    .accesskey = n
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Ուղարկել ներդիրը սարքին
-           *[other] Ուղարկել { $tabCount } ներդիրները սարքին
         }
     .accesskey = n
 tab-context-unload-n-tabs =

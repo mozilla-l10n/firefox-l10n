@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = { -brand-short-name } se va deschide cu profilul tău folosit cel mai recent.
 profile-window-create-profile = Creează un profil
 profile-card-edit-button =
-    .title = Editează profilul
     .aria-label = Editează profilul
+    .title = Editează profilul
 profile-card-delete-button =
-    .title = Șterge profilul
     .aria-label = Șterge profilul
+    .title = Șterge profilul
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Deschide { $profileName }
     .aria-label = Deschide { $profileName }
+    .title = Deschide { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Profilul { $number }
@@ -83,9 +83,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Șterge profilul { $profilename }
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = Ștergi profilul { $profilename }?
 delete-profile-description = { -brand-short-name } va șterge definitiv următoarele date de pe acest dispozitiv:
 # Open is an adjective, as in "browser windows currently open".
@@ -112,28 +109,10 @@ delete-profile-confirm = Șterge
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Luminoasă
-# The default dark theme
-profiles-dark-theme = Întunecată
 # The default system theme
 profiles-system-theme = Sistem
 profiles-system-theme-title =
     .title = Aplică tema sistemului
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = Gălbenele galbene
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = Lavandă pală
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = Verde mentă
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = Roz magnolie
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = Albastru ocean
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = Roșu cărămidă
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = Verde mușchi
 profiles-gray-theme = Gri
 profiles-gray-theme-title =
     .title = Aplică tema gri
@@ -290,9 +269,6 @@ profiles-appmenu-callout-tour-subtitle = În meniul ☰, atinge numele profilulu
 profiles-appmenu-callout-tour-primary-button = Arată-mi cum
 barbell-avatar = Halteră
 bike-avatar = Bicicletă
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Aplică avatarul cu halteră
 bike-avatar-tooltip =

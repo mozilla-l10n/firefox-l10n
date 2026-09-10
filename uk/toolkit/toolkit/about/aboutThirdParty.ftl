@@ -30,11 +30,11 @@ third-party-tag-background = Задній план
         Цей модуль не блокує програму, тому що він завантажується
         на задньому плані.
 third-party-icon-unsigned =
-    .title = Цей модуль не підписаний
     .alt = Цей модуль не підписаний
+    .title = Цей модуль не підписаний
 third-party-icon-warning =
-    .title = { -brand-short-name } зазнав збій коду від цього модулю
     .alt = { -brand-short-name } зазнав збій коду від цього модулю
+    .title = { -brand-short-name } зазнав збій коду від цього модулю
 third-party-status-loaded = Завантажено
 third-party-status-blocked = Заблоковано
 third-party-status-redirected = Перенаправлено
@@ -46,28 +46,15 @@ third-party-button-reload = Перезавантажити з системною
     .title = Перезавантажити з системною інформацією
 third-party-button-open =
     .title = Відкрити розташування файлу…
-third-party-button-to-block =
-    .title = Заблокувати цей модуль
-    .aria-label = Заблокувати цей модуль
-third-party-button-to-unblock =
-    .title = Наразі заблоковано. Натисніть, щоб розблокувати.
-    .aria-label = Наразі заблоковано. Натисніть, щоб розблокувати.
-third-party-button-to-unblock-disabled =
-    .title =
-        Наразі позначено заблокованим, хоча список блокувань вимкнено для запущеного цього разу
-        { -brand-short-name }. Натисніть, щоб розблокувати його.
-    .aria-label =
-        Наразі позначено заблокованим, хоча список блокувань вимкнено для запущеного цього разу
-        { -brand-short-name }. Натисніть, щоб розблокувати його.
 third-party-button-to-block-module = Заблокувати цей модуль
-    .title = Заблокувати цей модуль
     .aria-label = Заблокувати цей модуль
+    .title = Заблокувати цей модуль
 third-party-button-to-unblock-module = Розблокувати цей модуль
-    .title = Наразі заблоковано. Натисніть, щоб розблокувати.
     .aria-label = Наразі заблоковано. Натисніть, щоб розблокувати.
+    .title = Наразі заблоковано. Натисніть, щоб розблокувати.
 third-party-button-to-unblock-module-disabled = Розблокувати цей модуль (список блокування зараз вимкнено)
-    .title = Зараз позначено заблокованим, хоча список блокування вимкнено для цього сеансу { -brand-short-name }. Клацніть, щоб розблокувати.
     .aria-label = Зараз позначено заблокованим, хоча список блокування вимкнено для цього сеансу { -brand-short-name }. Клацніть, щоб розблокувати.
+    .title = Зараз позначено заблокованим, хоча список блокування вимкнено для цього сеансу { -brand-short-name }. Клацніть, щоб розблокувати.
 third-party-button-expand =
     .title = Показати подробиці
 third-party-button-collapse =
@@ -77,5 +64,5 @@ third-party-should-restart-title = Перезапустити { -brand-short-nam
 third-party-restart-now = Перезапустити зараз
 third-party-restart-later = Перезапустити потім
 third-party-blocked-by-builtin =
-    .title = Заблоковано { -brand-short-name }
     .alt = Заблоковано { -brand-short-name }
+    .title = Заблоковано { -brand-short-name }

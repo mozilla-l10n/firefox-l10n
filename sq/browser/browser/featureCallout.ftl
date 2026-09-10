@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = Hidhuni nga pajisja në pajisje, me për
 callout-firefox-view-tab-pickup-subtitle = Merrni me shpejtësi skeda të hapura nga telefoni juaj dhe hapini këtu, për zhdërvjelltësi maksimum.
 callout-firefox-view-recently-closed-title = Rihapni në çast skedat tuaja të mbyllura
 callout-firefox-view-recently-closed-subtitle = Krejt skedat tuaja të mbyllura do të shfaqen si me magji këtu. Mos çani më kurrë kryet rreth humbjes aksidentale të një sajti.
-callout-firefox-view-colorways-title = Shtoni pakëz ngjyrë
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Zgjidhni ngjyresën më pranë jush, përmes ngjyrimesh. Vetëm në { -brand-product-name }.
-callout-firefox-view-colorways-reminder-title = Eksploroni ngjyrimet tona më të reja
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Ngjyroseni  shfletuesin tuaj me këto ngjyrime emblematike, të frymëzuara nga zëra të pavarur. Vetëm në { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

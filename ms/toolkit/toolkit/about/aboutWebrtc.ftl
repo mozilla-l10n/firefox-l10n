@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = simpan about:webrtc sebagai
 about-webrtc-aec-logging-msg-label = Pengelogan AEC
 about-webrtc-aec-logging-off-state-label = Mulakan Pengelogan AEC
 about-webrtc-aec-logging-on-state-label = Hentikan Pengelogan AEC
-about-webrtc-aec-logging-on-state-msg = Log AEC aktif (berhubunglah dengan pemanggil selama beberapa minit dan kemudian cuba hentikan tangkapan data)
 about-webrtc-aec-logging-toggled-on-state-msg = Log AEC aktif (berhubunglah dengan pemanggil selama beberapa minit dan kemudian cuba hentikan tangkapan data)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -77,17 +76,9 @@ about-webrtc-nominated = Dipilih
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Dipilih
 about-webrtc-save-page-label = Simpan Halaman
-about-webrtc-debug-mode-msg-label = Mod Nyahpepijat
-about-webrtc-debug-mode-off-state-label = Mulakan Mod Nyahpepijat
-about-webrtc-debug-mode-on-state-label = Hentikan Mod Nyahpijat
-about-webrtc-stats-heading = Statistik Sesi
 about-webrtc-stats-clear = Buang Sejarah
 about-webrtc-log-heading = Log Sambungan
 about-webrtc-log-clear = Buang Log
-about-webrtc-log-show-msg = papar log
-    .title = klik untuk kembangkan bahagian ini
-about-webrtc-log-hide-msg = sorok log
-    .title = klik untuk runtuhkan bahagian ini
 about-webrtc-log-section-show-msg = Papar log
     .title = Klik untuk kembangkan bahagian ini
 about-webrtc-log-section-hide-msg = Sorok log
@@ -110,19 +101,11 @@ about-webrtc-remote-candidate = Calon Jauh
 about-webrtc-raw-candidates-heading = Semua Calon Mentah
 about-webrtc-raw-local-candidate = Calon Lokal Mentah
 about-webrtc-raw-remote-candidate = Calon Jauh Mentah
-about-webrtc-raw-cand-show-msg = papar calon mentah
-    .title = klik untuk kembangkan bahagian ini
-about-webrtc-raw-cand-hide-msg = sorok calon mentah
-    .title = klik untuk runtuhkan bahagian ini
 about-webrtc-raw-cand-section-show-msg = Papar calon mentah
     .title = Klik untuk kembangkan bahagian ini
 about-webrtc-raw-cand-section-hide-msg = Sorok calon mentah
     .title = Klik untuk runtuhkan bahagian ini
 about-webrtc-priority = Prioriti
-about-webrtc-fold-show-msg = papar butiran
-    .title = klik untuk kembangkan bahagian ini
-about-webrtc-fold-hide-msg = sorok butiran
-    .title = klik untuk runtuhkan bahagian ini
 about-webrtc-fold-default-show-msg = Papar butiran
     .title = Klik untuk kembangkan bahagian ini
 about-webrtc-fold-default-hide-msg = Sorok butiran
@@ -132,10 +115,6 @@ about-webrtc-encoder-label = Pengekod
 
 ##
 
-about-webrtc-save-page-msg = halaman disimpan di: { $path }
-about-webrtc-debug-mode-off-state-msg = kesan log boleh ditemui di: { $path }
-about-webrtc-debug-mode-on-state-msg = mod nyahpepijat aktif, log disurih di: { $path }
-about-webrtc-aec-logging-off-state-msg = tangkapan data fail log boleh ditemui di: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

@@ -9,12 +9,6 @@ firefox-relay-opt-in-confirmation-postpone =
     .label = Ní anois
     .accesskey = N
 
-## The "with-domain" variation of the Relay offer popup
-
-firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain =
-    .label = Cláraigh
-    .accesskey = C
-
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =

@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Întoarce-te
 neterror-return-to-previous-page-recommended-button = Întoarce-te (Recomandat)
 neterror-try-again-button-2 = Încearcă din nou
     .accesskey = T
-neterror-try-again-button = Încearcă din nou
 neterror-add-exception-button = Continuă întotdeauna pentru acest site
 neterror-settings-button = Modifică setările DNS
 neterror-view-certificate-link = Vezi certificatul
-neterror-trr-continue-this-time = Continuă de data aceasta
-neterror-disable-native-feedback-warning = Continuă întotdeauna
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = Află mai multe
 ##
 
 neterror-pref-reset = Se pare că setările de securitate ale rețelei sunt de vină. Vrei să restaurezi setările implicite?
-neterror-error-reporting-automatic = Raportează erori precum aceasta pentru a ajuta { -vendor-short-name } să identifice și să blocheze site-urile rău intenționate
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Deconectează-te și reconecteaz
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } nu îți poate proteja solicitarea pentru adresa acestui site prin intermediul serviciului nostru de rezolvere DNS de încredere. Iată de ce:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } nu îți poate proteja solicitarea pentru adresa acestui site prin intermediul furnizorului nostru DNS securizat. Iată de ce:
 neterror-dns-not-found-trr-third-party-warning2 = Poți continua cu rezolverul DNS implicit, dar o parte terță ar putea vedea pe ce site-uri web intri.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } nu s-a putut conecta la { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Conectarea la { $trrDomain } a durat mai mult decât era de așteptat.
-neterror-dns-not-found-trr-offline = Nu ești conectat(ă) la internet.
 neterror-dns-not-found-trr-unknown-host2 = Acest site web nu a fost găsit de { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = A apărut o problemă cu { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = URL nevalid.
 neterror-dns-not-found-system-sleep = Sistemul este în modul de veghe.
 neterror-dns-not-found-trr-unknown-problem = Problemă neașteptată.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } nu îți poate proteja solicitarea pentru adresa acestui site prin intermediul serviciului nostru de rezolvere DNS de încredere. Iată de ce:
-neterror-dns-not-found-native-fallback-heuristic = DNS prin HTTPS a fost dezactivat în rețeaua ta.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } nu s-a putut conecta la { $trrDomain }.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = Este posibil să fi fost eliminat, mutat sau permisiuni
 neterror-unknown-protocol = S-ar putea să fie necesară instalarea altui program pentru a deschide această adresă.
 neterror-redirect-loop = Această problemă poate fi uneori cauzată de dezactivarea sau refuzarea acceptării de cookie-uri.
 neterror-unknown-socket-type-client-config = Este posibil să fie din cauza unei erori de configurare a clientului.
-neterror-unknown-socket-type-psm-installed = Verifică dacă sistemul are instalat Managerul personal de securitate.
-neterror-unknown-socket-type-server-config = Se poate întâmpla și din cauza unei configurații atipice pe server.
 neterror-not-cached-intro = Documentul solicitat nu este disponibil în cache-ul { -brand-short-name }.
 neterror-not-cached-sensitive = Ca măsură de precauție pentru securitate, { -brand-short-name } nu cere din nou în mod automat documente sensibile.
 neterror-not-cached-try-again = Dă clic pe Încearcă din nou pentru a cere iar documentul de la site-ul web.

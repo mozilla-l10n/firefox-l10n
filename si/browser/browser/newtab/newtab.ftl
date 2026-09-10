@@ -6,16 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = නව පටිත්ත
-newtab-settings-button =
-    .title = නව පටිත්ත පිටුව අභිරුචිකරණය
-newtab-personalize-settings-icon-label =
-    .aria-label = සැකසුම්
-    .title = නව පටිත්ත පුද්ගලීකරණය
-newtab-personalize-icon-label =
-    .aria-label = නව පටිත්ත පුද්ගලීකරණය
-    .title = නව පටිත්ත පුද්ගලීකරණය
-newtab-personalize-dialog-label =
-    .aria-label = පුද්ගලීකරණය
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 
@@ -99,7 +89,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = සෙවුම් යන්ත්‍රයක් යොදන්න
 newtab-topsites-add-shortcut-header = නව කෙටිමඟ
-newtab-topsites-edit-topsites-header = ප්‍රචලිත අඩවිය සංස්කරණය
 newtab-topsites-edit-shortcut-header = කෙටිමඟ සංස්කරණය
 newtab-topsites-add-shortcut-label = කෙටිමඟක් යොදන්න
 newtab-topsites-add-shortcut-title =
@@ -140,20 +129,12 @@ newtab-topsite-sponsored = අනුග්‍රහය ලද
 newtab-menu-section-tooltip =
     .aria-label = වට්ටෝරුව අරින්න
     .title = වට්ටෝරුව අරින්න
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = ඉවත් කරන්න
-    .title = ඉවත් කරන්න
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = { $title } සඳහා සන්දර්භය අරින්න
     .title = වට්ටෝරුව අරින්න
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = අඩවිය සංස්කරණය
-    .title = අඩවිය සංස්කරණය
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -164,19 +145,9 @@ newtab-menu-dismiss = ඉවතලන්න
 newtab-menu-pin = අමුණන්න
 newtab-menu-unpin = ගළවන්න
 newtab-menu-delete-history = ඉතිහාසයෙන් මකන්න
-newtab-menu-save-to-pocket = { -pocket-brand-name } හි සුරකින්න
-newtab-menu-delete-pocket = { -pocket-brand-name } වෙතින් මකන්න
-newtab-menu-archive-pocket = { -pocket-brand-name } හි සංරක්‍ෂණය
 newtab-menu-show-privacy-info = අපගේ අනුග්‍රහකයින් හා ඔබගේ පෞද්ගලිකත්‍වය
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = තව දැනගන්න
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = අහවරයි
-newtab-privacy-modal-button-manage = අනුග්‍රහය ලද අන්තර්ගත සැකසුම් කළමනාකරණය
-newtab-privacy-modal-header = ඔබගේ පෞද්ගලිකත්‍වය වැදගත්ය.
-newtab-privacy-modal-link = රහස්‍යතාව වැඩ කරන අයුරු නව පටිත්තකින් දැනගන්න
 
 ##
 
@@ -225,30 +196,12 @@ newtab-label-source-read-time = { $source } · විනාඩි { $timeToRead 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = කොටස ඉවතලන්න
-newtab-section-menu-collapse-section = කොටස හකුළන්න
-newtab-section-menu-expand-section = කොටස දිගහරින්න
-newtab-section-menu-manage-section = කොටස කළමනාකරණය
-newtab-section-menu-manage-webext = දිගුව කළමනාකරණය
-newtab-section-menu-add-search-engine = සෙවුම් යන්ත්‍රයක් යොදන්න
-newtab-section-menu-move-up = ඉහළට ගෙනයන්න
-newtab-section-menu-move-down = පහළට ගෙනයන්න
 newtab-section-menu-privacy-notice = රහස්‍යතා දැන්වීම
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = කොටස හකුළන්න
-newtab-section-expand-section-label =
-    .aria-label = කොටස විහිදන්න
 
 ## Section Headers.
 
 newtab-section-header-topsites = ප්‍රචලිත අඩවි
 newtab-section-header-recent-activity = මෑත ක්‍රියාකාරකම
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } විසින් නිර්දේශිතයි
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -262,23 +215,6 @@ newtab-discovery-empty-section-topstories-loading = පූරණය වෙමි
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = අපොයි! මෙම කොටස මුළුමනින්ම පාහේ පූරණය වී ඇත, නමුත් හරියටම නොවේ.
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = ජනප්‍රිය මාතෘකා:
-newtab-pocket-more-recommendations = තවත් නිර්දේශ
-newtab-pocket-learn-more = තව දැනගන්න
-newtab-pocket-cta-button = { -pocket-brand-name } ගන්න
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } යනු { -brand-product-name } පවුලේ කොටසකි
-newtab-pocket-save = සුරකින්න
-newtab-pocket-saved = සුරැකිණි
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-newtab-toast-dismiss-button =
-    .aria-label = ඉවතලන්න
-    .title = ඉවතලන්න
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -287,8 +223,6 @@ newtab-error-fallback-refresh-link = පිටුව නැවුම් කර �
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = කෙටිමං
-newtab-custom-shortcuts-subtitle = ඔබ සුරකින හෝ ගොඩවදින අඩවි
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = ඔබ සුරකින හෝ ගොඩවදින අඩවි
@@ -304,20 +238,6 @@ newtab-custom-row-selector2 =
             [one] පේළි { $num }
            *[other] පේළි { $num }
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] පේළි { $num }
-       *[other] පේළි { $num }
-    }
-newtab-custom-sponsored-sites = අනුග්‍රහය ලද කෙටිමං
-newtab-custom-pocket-title = { -pocket-brand-name } වෙතින් නිර්දේශිත
-newtab-custom-pocket-sponsored = අනුග්‍රහය ලද කතා
-newtab-custom-pocket-show-recent-saves = මෑත සුරැකීම් පෙන්වන්න
-newtab-custom-recent-title = මෑත ක්‍රියාකාරකම
-newtab-custom-recent-subtitle = මෑත අඩවි සහ අන්තර්ගතවල තේරීමකි
-newtab-custom-close-button = වසන්න
 newtab-custom-settings = වෙනත් සැකසුම් කළමනාකරණය
 
 ## New Tab Wallpapers
@@ -369,7 +289,6 @@ newtab-weather-menu-temperature-option-fahrenheit = ෆැරන්හයිට�
 newtab-weather-menu-temperature-option-celsius = සෙල්සියස්
 newtab-weather-menu-change-temperature-units-fahrenheit = ෆැරන්හයිට් වෙත මාරු වන්න
 newtab-weather-menu-change-temperature-units-celsius = සෙල්සියස් වෙත මාරු වන්න
-newtab-weather-menu-hide-weather = නව පටිති වල කාලගුණය සඟවන්න
 newtab-weather-menu-learn-more = තව දැනගන්න
 # This message is shown if user is working offline
 newtab-weather-error-not-available = කාලගුණ දත්ත දැනට නොතිබේ.

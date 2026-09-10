@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Alamat Disimpan
 autofill-manage-addresses-list-header = Alamat
-autofill-manage-credit-cards-title = Kad Kredit Disimpan
-autofill-manage-credit-cards-list-header = Kad Kredit
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Buang
@@ -21,9 +19,6 @@ autofill-manage-edit-button = Edit…
 
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Edit Alamat
-autofill-address-given-name = Nama Pertama
-autofill-address-additional-name = Nama Tengah
-autofill-address-family-name = Nama Keluarga
 autofill-address-organization = Organisasi
 autofill-address-street = Nama Jalan
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
@@ -69,18 +64,12 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Tambah Alamat Baru
 autofill-address-country = Negara atau Rantau
 autofill-address-tel = Telefon
 autofill-address-email = E-mel
 autofill-cancel-button = Batal
 autofill-save-button = Simpan
 autofill-country-warning-message = Auto-isi Borang buat masa ini hanya tersedia untuk negara tertentu.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Tambah Kad Kredit Baru
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Edit Kad Kredit
 autofill-card-number-2 =
     .label = Nombor Kad
 autofill-card-number = Nombor Kad
@@ -94,15 +83,3 @@ autofill-card-expires-month = Bulan Luput
 autofill-card-expires-year = Tahun Luput
 autofill-card-billing-address = Alamat Bil
 autofill-card-network = Jenis Kad
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

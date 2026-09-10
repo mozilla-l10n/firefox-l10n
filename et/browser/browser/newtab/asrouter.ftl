@@ -62,17 +62,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Järjehoidjate sünkroonimine kõikjal.
-cfr-doorhanger-bookmark-fxa-body = Hea leid! Ära jää nüüd sellest järjehoidjast ilma oma mobiilsel seadmel. Tee algust { -fxaccount-brand-name }ga.
 cfr-doorhanger-bookmark-fxa-link-text = Sünkroniseeri järjehoidjad nüüd…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Sulgemise nupp
     .title = Sulge
-
-## Protections panel
-
-cfr-protections-panel-header = Lehitse veebi ilma jälitamiseta
-cfr-protections-panel-body = Hoia oma andmed endale. { -brand-short-name } kaitseb sind paljude tuntud jälitajate eest, kes jälgivad, mida sa võrgus olles teed.
-cfr-protections-panel-link-text = Rohkem teavet
 
 ## What's New toolbar button and panel
 

@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = Мен "{ $tabTitle }" бетінде тұрмы
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = ЖИ чат-ботынан сұрау
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = { $provider } сұрау
 genai-menu-open-generic =
     .label = ЖИ чат-ботын ашу
 # $provider (string) - name of the provider
@@ -118,8 +113,6 @@ genai-header-provider-menu =
     .title = Чат-ботты таңдау
 genai-header-settings-button =
     .title = ЖИ чат баптаулары
-genai-header-options-button =
-    .title = Мәзірді ашу
 genai-header-close-button =
     .title = Жабу
 genai-provider-view-details =
@@ -147,37 +140,25 @@ genai-page-button-summarize = Бетті қорытындылау
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Шолу кезінде қорытындылау, ми шабуылын жасау және т.б
 genai-onboarding-choose-header = { -brand-short-name } бүйір панелінде пайдалану үшін ЖИ чат-ботын таңдаңыз
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = { -brand-short-name } бүйір панелінде пайдалану үшін ЖИ чат-ботын таңдаңыз. Сіз таңдаған кезде біз әрбір чат-бот туралы мәліметтерді көрсетеміз. Кез келген уақытта ауысуға болады. <a data-l10n-name="learn-more">Көбірек білу</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Кез келген уақытта ауысыңыз. Таңдау бойынша анықтама алу үшін <a data-l10n-name="learn-more">әр чат-бот туралы қосымша мәліметтер алыңыз</a>.
 genai-onboarding-primary = Жалғастыру
 genai-onboarding-secondary = Жабу
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Claude туралы көбірек білу
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = ChatGPT туралы көбірек білу
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Copilot туралы көбірек білу
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Gemini туралы көбірек білу
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = HuggingChat туралы көбірек білу
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Le Chat туралы көбірек білу
-genai-onboarding-select-header = Ұсыныстарды көру үшін мәтінді таңдаңыз
-genai-onboarding-select-description = Мәтінді таңдаған кезде чат-ботқа жіберуге болатын ескертулерді ұсынамыз. Сіз өзіңіздің сұрауларыңызды да жаза аласыз.
-genai-onboarding-select-primary = Чатты бастау
 genai-chatbot-contextual-title = ЖИ чат-ботын бетті ауыстырмай қолдану
 genai-chatbot-contextual-subtitle = { -brand-short-name } бүйірлік панеліне ЖИ чат-ботын қосқанда, чат пен бетті қатар көріп, браузерді пайдаланыңыз.
 genai-chatbot-contextual-button = Чат-ботты таңдау
@@ -190,27 +171,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = Бүйірлік панель
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Бүйірлік панельде ЖИ чат-ботын ашып, төменгі жағындағы «Бетті қорытындылау» командасын таңдаңыз.
 genai-chatbot-summarize-footer-generic-subtitle = Беттерді жылдам қорытындылау үшін { -brand-short-name } бүйірлік панеліне ЖИ чат-ботын қосыңыз.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Мәтін мен кодты генерациялау
-genai-onboarding-claude-analyze = Құжаттар мен суреттерді талдау
-genai-onboarding-claude-price = Тегін және ақылы опциялар; тіркелгі қажет
-genai-onboarding-chatgpt-generate = Мәтінді, суреттерді және кодты генерациялау
-genai-onboarding-chatgpt-analyze = Құжаттар мен суреттерді талдау
-genai-onboarding-chatgpt-price = Тегін және ақылы опциялар; кейбір елдер мен тапсырмалар үшін тіркелгі қажет
-genai-onboarding-copilot-generate = Мәтінді, суреттерді және кодты генерациялау
-genai-onboarding-copilot-analyze = Суреттерді талдау
-genai-onboarding-copilot-price = Тегін және ақылы опциялар; кейбір тапсырмалар үшін тіркелгі қажет
-genai-onboarding-gemini-generate = Мәтінді, суреттерді және кодты генерациялау
-genai-onboarding-gemini-analyze = Суреттерді (тегін) және құжаттарды (ақылы) талдау
-genai-onboarding-gemini-price = Тегін және ақылы опциялар; тіркелгі қажет
-genai-onboarding-huggingchat-generate = Мәтін мен кодты генерациялау
-genai-onboarding-huggingchat-switch = Ашық үлгілердің әртүрлі жиынтығы арасында ауысыңыз
-genai-onboarding-huggingchat-price-2 = Тегін; тіркелгі сұраулардың белгілі бір санынан кейін керек болады
-genai-onboarding-lechat-generate = Мәтін мен кодты генерациялау
-genai-onboarding-lechat-price = Тегін; тіркелгі қажет
 
 ## Model Optin Component
 
@@ -249,8 +209,8 @@ link-preview-generation-retry = Қайтадан көру
 link-preview-settings-button =
     .title = Сілтемені алдын ала қарау баптаулары
 link-preview-settings-enable =
-    .label = Сілтемелерді алдын ала қарауды іске қосу
     .description = Сілтемені тышқанның оң жақ батырмасын басқанда немесе пернелер жарлығын пайдаланғанда, беттің атауын, сипаттамасын және басқа да ақпаратты көріңіз.
+    .label = Сілтемелерді алдын ала қарауды іске қосу
 link-preview-settings-key-points =
     .label = ЖИ-ге беттің басын оқуға және негізгі тұстарын қорытындылауға рұқсат беру
 link-preview-settings-long-press =

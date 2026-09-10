@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Sarva indirissi
 autofill-manage-addresses-list-header = Indirissi
-autofill-manage-credit-cards-title = Carte de credito sarvæ
-autofill-manage-credit-cards-list-header = Carte de credito
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Scancella
@@ -21,9 +19,6 @@ autofill-manage-edit-button = Cangia…
 
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Cangia indirisso
-autofill-address-given-name = Nomme
-autofill-address-additional-name = Segondo nomme
-autofill-address-family-name = Cognomme
 autofill-address-organization = Òrganizaçion
 autofill-address-street = Indirisso
 # Used in Iran (IR), Mexico (MX) as sublocality (civil entity below a locality, e.g. within a city).
@@ -69,18 +64,12 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Azonzi neuvo indirisso
 autofill-address-country = Tæra ò Region
 autofill-address-tel = Telefono
 autofill-address-email = Email
 autofill-cancel-button = Anulla
 autofill-save-button = Sarva
 autofill-country-warning-message = E form aoto-inpimento en disponibili solo in çerte naçioin.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Azonzi neuva carta de credito
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Cangia carta de credito
 autofill-card-number-2 =
     .label = Numero carta
 autofill-card-number = Numero carta
@@ -94,15 +83,3 @@ autofill-card-expires-month = Scazze o meize
 autofill-card-expires-year = Scazze l'anno
 autofill-card-billing-address = Indirisso de fatuaçion
 autofill-card-network = Tipo de carta
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

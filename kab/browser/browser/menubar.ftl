@@ -243,8 +243,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Imeɣna
 menu-profiles-manage-profiles =
     .label = Sefrek imaɣunen
 menu-profiles-new-profile =
@@ -268,9 +266,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Isiɣzaf akked yisental
     .accesskey = s
-menu-tools-addons-and-themes =
-    .label = Izegrar d yisental
-    .accesskey = I
 menu-tools-fxa-sign-in2 =
     .label = Kcem
     .accesskey = K
@@ -324,8 +319,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Ugar n talɣut n usellek
     .accesskey = T
-menu-help-report-site-issue =
-    .label = Azen ugur ɣef usmel…
 menu-help-share-ideas =
     .label = Bḍu taktiwin d tamawat…
     .accesskey = B

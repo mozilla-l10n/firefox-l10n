@@ -7,7 +7,3 @@ aboutDialog-title =
 update-checkingForUpdates = Palutputen ti pannanarimaan...
 settings-update-checking-for-updates =
     .label = Palutputen ti pannanarimaan...
-
-##
-
-bottomLinks-privacy = Polisa ti Kapaknian

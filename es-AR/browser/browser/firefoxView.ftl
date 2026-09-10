@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Ver la navegación reciente entre las ventanas y los dispositivos
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Cerrar
-    .aria-label = Cerrar
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Ahora mismo
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Pestaña sincronizada
-firefoxview-tabpickup-description = Abrir páginas desde otros dispositivos.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% completo
-firefoxview-tabpickup-step-signin-header = Cambiar entre dispositivos sin interrupciones
-firefoxview-tabpickup-step-signin-description = Para ver las pestañas de tu teléfono aquí, primero iniciá la sesión o creá una cuenta.
-firefoxview-tabpickup-step-signin-primarybutton = Continuar
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } en todos los dispositivos
 firefoxview-syncedtabs-signin-description-2 = Para ver las pestañas abiertas en su teléfono y otros dispositivos, inicie sesión o regístrese para obtener una cuenta. Con una cuenta, también se pueden sincronizar las contraseñas, historial y más.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = De la computadora portátil al teléfono, sin interrupciones
 firefoxview-syncedtabs-signin-description-3 = Mantenga la navegación conectada en todos los dispositivos: pestañas, contraseñas e historial, todo sincronizado.
 firefoxview-syncedtabs-signin-primarybutton-2 = Iniciar sesión
-firefoxview-tabpickup-adddevice-header = Sincronizar { -brand-product-name } en tu teléfono o tableta
-firefoxview-tabpickup-adddevice-description = Descargar { -brand-product-name } para dispositivos móviles e iniciá la sesión allí.
-firefoxview-tabpickup-adddevice-learn-how = Conocer cómo
-firefoxview-tabpickup-adddevice-primarybutton = Obtené { -brand-product-name } para dispositivos móviles
 firefoxview-syncedtabs-adddevice-header-2 = Tome pestañas desde cualquier lugar
 firefoxview-syncedtabs-adddevice-description-2 = Inicie sesión en { -brand-product-name } en su teléfono o en otra computadora para ver las pestañas aquí. Conocer cómo <a data-l10n-name="url">conectar dispositivos adicionales</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Pruebe { -brand-product-name } para dispositivos móviles
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Las pestañas necesarias. Están en el teléfono.
 firefoxview-syncedtabs-adddevice-description-3 = Escanee el código QR para instalar { -brand-product-name } para dispositivos móviles y empiece a sincronizar las pestañas abiertas y más. Aprenda a <a data-l10n-name="url">conectar dispositivos adicionales</a>.
-firefoxview-tabpickup-synctabs-header = Activar sincronización de pestañas
-firefoxview-tabpickup-synctabs-description = Permitir que { -brand-short-name } comparta pestañas entre dispositivos.
-firefoxview-tabpickup-synctabs-learn-how = Conocer cómo
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizar las pestañas abiertas
 firefoxview-tabpickup-synctabs-primarybutton-2 = Activar sincronización de pestañas
 firefoxview-syncedtabs-synctabs-header = Actualice la configuración de sincronización
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Cuando termine, verá las pestañas
 firefoxview-syncedtabs-loading-header-2 = Trayendo las pestañas…
 firefoxview-syncedtabs-loading-description-2 = Sincronización en proceso. Las pestañas estarán acá pronto.
 firefoxview-tabpickup-fxa-admin-disabled-header = Tu organización deshabilitó la sincronización
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } no puede sincronizar las pestañas entre dispositivos porque tu administrador deshabilitó la sincronización.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } no puede sincronizar las pestañas entre dispositivos porque su organización deshabilitó la sincronización.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = La sincronización de pestañas está desactivada
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Su organización bloqueó esta función.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Desbloquear pestañas con la contraseña maestra
 firefoxview-tabpickup-password-locked-description-2 = Por privacidad, las pestañas sincronizadas están protegidas. Ingrese su contraseña maestra de { -brand-short-name } para ver las pestañas de los otros dispositivos.
 firefoxview-tabpickup-signed-out-header = Iniciar sesión para reconectar
-firefoxview-tabpickup-signed-out-description = Para volver a conectarse y obtener sus pestañas, inicie sesión en su { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Para volver a conectarse y obtener sus pestañas, inicie sesión en su cuenta.
 firefoxview-tabpickup-signed-out-primarybutton = Iniciar sesión
 firefoxview-tabpickup-signed-out-header-2 = Iniciar sesión para ver las pestañas
 firefoxview-tabpickup-signed-out-description-2 = Reconectar para ver pestañas de otros dispositivos.
-firefoxview-tabpickup-syncing = Esperá tranquilo mientras tus pestañas se sincronizan. Será solo un momento.
-firefoxview-mobile-promo-header = Mirá las pestañas desde tu teléfono o tableta
-firefoxview-mobile-promo-description = Para ver tus últimas pestañas móviles, iniciá la sesión en { -brand-product-name } en iOS o Android.
-firefoxview-mobile-promo-primarybutton = Obtené { -brand-product-name } para dispositivos móviles
-firefoxview-mobile-confirmation-header = 🎉 ¡Listo para llevar!
-firefoxview-mobile-confirmation-description = Ahora podés ver tus pestañas de { -brand-product-name } desde tu tableta o teléfono.
-firefoxview-closed-tabs-title = Recientemente cerradas
-firefoxview-closed-tabs-description2 = Volver a abrir las páginas cerradas en esta ventana.
-firefoxview-closed-tabs-placeholder-header = No hay pestañas recientemente cerradas
-firefoxview-closed-tabs-placeholder-body = Cuando cierra una pestaña en esta ventana, puede buscarla desde aquí.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Descartar { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Última activa
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Abrir { $targetURI } en una pestaña nueva
-firefoxview-try-colorways-button = Probá combinaciones de colores
-firefoxview-change-colorway-button = Cambiar la combinación de colores
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Nada que ver todavía
-firefoxview-synced-tabs-placeholder-body = La próxima vez que abra una página en { -brand-product-name } en otro dispositivo, tómela aquí como por arte de magia.
 firefoxview-collapse-button-show =
     .title = Mostrar lista
 firefoxview-collapse-button-hide =

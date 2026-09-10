@@ -2,17 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-# This file intentionally uses hard-coded brand names instead of Fluent terms.
-# This approach minimizes issues across multiple release channels and rebranded
-# versions.
-
 default-bookmarks-title = පොත්යොමු
 default-bookmarks-heading = පොත්යොමු
-default-bookmarks-toolbarfolder = පොත්යොමු මෙවලම් බහාලුම
-default-bookmarks-toolbarfolder-description = පොත්යොමු මෙවලම් තීරුවේ දිස් වීමට මෙම බහාලුමට පොත්යොමු එක් කරන්න
-# link title for https://www.mozilla.org/firefox/central/
-default-bookmarks-getting-started = පටන් ගන්න
 # Firefox links folder name
 default-bookmarks-firefox-heading = මොසිල්ලා ෆයර්ෆොක්ස්
 # link title for https://www.mozilla.org/firefox/help/

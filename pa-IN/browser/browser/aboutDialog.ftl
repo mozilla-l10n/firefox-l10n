@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = ਅੱਪਡੇਟ ਨੂੰ ਲਾਗੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...
 update-failed = ਅੱਪਡੇਟ ਫੇਲ੍ਹ ਹੋਇਆ। <label data-l10n-name="failed-link">ਨਵਾਂ ਵਰਜ਼ਨ ਡਾਊਨਲੋਡ ਕਰੋ</label>
 update-failed-main = ਅੱਪਡੇਟ ਨਾਕਾਮਯਾਬ ਹੋਈ। <a data-l10n-name="failed-link-main">ਸੱਜਰੀ ਵੰਨਗੀ ਡਾਊਨਲੋਡ ਕਰੋ</a>
-update-adminDisabled = ਤੁਹਾਡੇ ਢਾਂਚਾ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਅੱਪਡੇਟਾਂ ਤੇ ਪਾਬੰਦੀ ਲੱਗੀ ਹੋਈ ਹੈ।
 update-policy-disabled = ਅੱਪਡੇਟ ਆਪਣੇ ਸੰਗਠਨ ਵਲੋਂ ਅਸਮਰੱਥ ਕੀਤੇ ਹਨ
 settings-update-policy-disabled =
     .label = ਅੱਪਡੇਟ ਆਪਣੇ ਸੰਗਠਨ ਵਲੋਂ ਅਸਮਰੱਥ ਕੀਤੇ ਹਨ
@@ -72,8 +70,6 @@ helpus-referrals2 = ਮਦਦ ਚਾਹੀਦੀ ਹੈ? <label data-l10n-name="
 bottomLinks-license = ਲਸੰਸ ਬਾਰੇ ਜਾਣਕਾਰੀ
 bottom-links-terms = ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ
 bottom-links-privacy = ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ
-bottomLinks-rights = ਵਰਤੋਂਕਾਰ ਦੇ ਹੱਕ
-bottomLinks-privacy = ਪਰਦੇਦਾਰੀ ਨੀਤੀ
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

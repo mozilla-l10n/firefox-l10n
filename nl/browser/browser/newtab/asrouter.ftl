@@ -62,7 +62,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Synchroniseer uw bladwijzers overal.
-cfr-doorhanger-bookmark-fxa-body = Goed gevonden! Zorg er nu voor dat u niet zonder bladwijzers zit op uw mobiele apparaten. Ga van start met { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-body-2 = Goed gevonden! Zorg er nu voor dat u niet zonder deze bladwijzer zit op uw mobiele apparaten. Ga van start met een account.
 cfr-doorhanger-bookmark-fxa-link-text = Bladwijzers nu synchroniseren…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -75,12 +74,6 @@ fxa-adoption-credit-cards-backup-subtitle = Bescherm uw betalingsmethoden door z
 fxa-adoption-bookmarks-treatment-backup-title = Laten we een reservekopie van uw bladwijzers maken
 fxa-adoption-bookmarks-treatment-backup-subtitle = Bescherm uw bladwijzers door ze versleuteld met uw apparaten te synchroniseren.
 fxa-adoption-primary-button-label = Registreren
-
-## Protections panel
-
-cfr-protections-panel-header = Surf zonder te worden gevolgd
-cfr-protections-panel-body = Houd uw gegevens voor uzelf. { -brand-short-name } beschermt u tegen veel van de meest voorkomende trackers die volgen wat u online doet.
-cfr-protections-panel-link-text = Meer info
 
 ## What's New toolbar button and panel
 
@@ -176,42 +169,8 @@ mr2022-background-update-toast-primary-button-label = { -brand-shorter-name } nu
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Later herinneren
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Uitproberen
-    .accesskey = U
-firefoxview-cfr-secondarybutton = Niet nu
-    .accesskey = N
-firefoxview-cfr-header-v2 = Ga snel verder waar u was gebleven
-firefoxview-cfr-body-v2 = Ontvang onlangs gesloten tabbladen terug en schakel naadloos tussen apparaten met { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Zeg hallo tegen { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Behoefte aan dat open tabblad op uw telefoon? Pak het. Hebt u die website nodig die u net hebt bezocht? Poef, hij is terug met { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Zien hoe het werkt
-firefoxview-spotlight-promo-secondarybutton = Overslaan
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Kleurstelling kiezen
-    .accesskey = k
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Kleur uw browser met voor { -brand-short-name } exclusieve tinten, geïnspireerd door stemmen die de cultuur hebben veranderd.
-colorways-cfr-header-28days = Independent Voices-kleurstellingen verlopen op 16 januari
-colorways-cfr-header-14days = Independent Voices-kleurstellingen verlopen over twee weken
-colorways-cfr-header-7days = Independent Voices-kleurstellingen verlopen deze week
-colorways-cfr-header-today = Independent Voices-kleurstellingen verlopen vandaag
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = { -brand-short-name } toestaan om cookiebanners te weigeren?
-cfr-cbh-body = { -brand-short-name } kan veel cookiebannerverzoeken automatisch weigeren.
-cfr-cbh-confirm-button = Cookiebanners weigeren
-    .accesskey = w
-cfr-cbh-dismiss-button = Niet nu
-    .accesskey = N
 cookie-banner-blocker-onboarding-header = { -brand-short-name } heeft zojuist een cookiebanner voor u geweigerd
 cookie-banner-blocker-onboarding-body = Minder afleiding, minder cookies die u volgen op deze website.
 cookie-banner-blocker-onboarding-learn-more = Meer info

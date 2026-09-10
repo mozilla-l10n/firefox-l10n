@@ -26,8 +26,6 @@ downloads-cmd-cancel-panel =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = Yuklanmalar jildini ochish
 downloads-cmd-retry =
     .tooltiptext = Qayta urinish
 downloads-cmd-retry-panel =

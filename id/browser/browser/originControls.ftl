@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Ekstensi Tidak Dapat Membaca dan Mengubah Data
-origin-controls-quarantined =
-    .label = Ekstensi Tidak Diizinkan untuk Membaca dan Mengubah Data
 origin-controls-quarantined-status =
     .label = Ekstensi Tidak Diizinkan pada Situs yang Dibatasi
 origin-controls-quarantined-allow =

@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Parametro ti Panagsilpo
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Parametro ti Panagsilpo
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -51,14 +51,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Uliten
     .accesskey = U
-connection-proxy-autologin =
-    .label = Dinak saludsoden ti panangpasingked no naidulin ti kontrasenias
-    .accesskey = i
-    .tooltip = Pasingkedan nga awan saludsod daytoy kadagiti proxy no adda ti naidulin a kontrasenias. Saludsodennakayo no masata ti panangpasingked.
 connection-proxy-autologin-checkbox =
     .label = Dinak saludsoden ti panangpasingked no naidulin ti kontrasenias
-    .accesskey = i
     .tooltiptext = Pasingkedan nga awan saludsod daytoy kadagiti proxy no adda ti naidulin a kontrasenias. Saludsodennakayo no masata ti panangpasingked.
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = Proxy DNS no ar-arameten ti SOCKS v5
     .accesskey = D

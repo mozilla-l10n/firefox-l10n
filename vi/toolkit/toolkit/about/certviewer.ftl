@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = Chứng chỉ của bạn
 certificate-viewer-tab-people = Mọi người
 certificate-viewer-tab-servers = Máy chủ
 certificate-viewer-tab-ca = Nhà thẩm định
-certificate-viewer-tab-unkonwn = Không rõ

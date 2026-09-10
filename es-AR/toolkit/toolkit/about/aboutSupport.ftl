@@ -32,10 +32,6 @@ security-software-name = Nombre
 security-software-antivirus = Antivirus
 security-software-antispyware = Programas anti espías
 security-software-firewall = Cortafuego
-features-title = Características de { -brand-short-name }
-features-name = Nombre
-features-version = Versión
-features-id = ID
 processes-title = Procesos remotos
 processes-type = Tipo
 processes-count = Cantidad
@@ -61,7 +57,6 @@ app-basics-profile-dir =
         [linux] Directorio de perfil
        *[other] Carpeta de perfil
     }
-app-basics-enabled-plugins = Plugins habilitados
 app-basics-build-config = Configuración de compilación
 app-basics-user-agent = Agente de usuario
 app-basics-os = SO
@@ -99,9 +94,6 @@ show-dir-label =
 environment-variables-title = Variables de entorno
 environment-variables-name = Nombre
 environment-variables-value = Valor
-experimental-features-title = Funciones experimentales
-experimental-features-name = Nombre
-experimental-features-value = Valor
 modified-key-prefs-title = Preferencias importantes modificadas
 modified-prefs-name = Nombre
 modified-prefs-value = Valor
@@ -223,9 +215,6 @@ media-cdm-capabilities = Funcionalidades
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Inicio sin cifrar (Clear Lead)
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = Compatible con HDCP 2.2
 
 ##
 
@@ -397,8 +386,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Deshabilitado por el experimento
-fission-status-experiment-treatment = Habilitado por el experimento
 fission-status-disabled-by-e10s-env = Deshabilitado por el entorno
 fission-status-enabled-by-env = Habilitado por el entorno
 fission-status-disabled-by-env = Deshabilitado por el entorno
@@ -407,7 +394,6 @@ fission-status-disabled-by-default = Deshabilitado de forma predeterminada
 fission-status-enabled-by-user-pref = Habilitado por el usuario
 fission-status-disabled-by-user-pref = Deshabilitado por usuario
 fission-status-disabled-by-e10s-other = E10s deshabilitado
-fission-status-enabled-by-rollout = Habilitado por el lanzamiento por fases
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = ninguna
 wheel-enabled = rueda habilitada

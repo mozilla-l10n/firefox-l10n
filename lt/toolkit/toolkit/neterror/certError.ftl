@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Liudijimu nepasitikima, nes nepasitikima jį
 cert-error-trust-signature-algorithm-disabled = Liudijimu nepasitikima, nes jį pasirašant, naudotas algoritmas, kuris išjungtas, nes nėra saugus.
 cert-error-trust-expired-issuer = Liudijimu nepasitikima, nes jį išdavusios įstaigos liudijimo galiojimo laikas baigėsi.
 cert-error-trust-self-signed = Liudijimu nepasitikima, nes jis yra pasirašytas paties gavėjo.
-cert-error-trust-symantec = Liudijimai, kuriuos išdavė „GeoTrust“, „RapidSSL“, „Symantec“, „Thawte“, arba „VeriSign“, nėra laikomi saugiais, nes šios įstaigos praeityje nesilaikė saugumo praktikų.
 cert-error-untrusted-default = Liudijimo šaltiniu nepasitikima.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -52,10 +51,6 @@ cert-error-code-prefix-link = Klaidos kodas: <a data-l10n-name="error-code-link"
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Bandant užmegzti ryšį su { $hostname } įvyko klaida. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Svetainės įrodo savo tapatumą pateikdamos liudijimus, išduotus liudijimo įstaigų. Dauguma naršyklių jau nepasitikti liudijimais, kuriuos išdavė „GeoTrust“, „RapidSSL“, „Symantec“, „Thawte“, arba „VeriSign“. { $hostname } naudoja liudijimą, išduotą vienos iš šių įstaigų, tad svetainės tapatumas negali būti įrodytas.
-cert-error-symantec-distrust-admin = Galite apie problemą pranešti svetainės prižiūrėtojui.
 cert-error-old-tls-version = Ši svetainė gali nepalaikyti TLS 1.2 protokolo, kuris yra mažiausia „{ -brand-short-name }“ palaikoma versija.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -64,7 +59,6 @@ cert-error-details-hsts-label = „HTTP Strict Transport Security“: { $hasHSTS
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP viešojo rakto įsiminimas: { $hasHPKP }
 cert-error-details-cert-chain-label = Liudijimų grandinė:
-open-in-new-window-for-csp-or-xfo-error = Atverti svetainę naujame lange
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Kad apsaugotų jūsų saugumą, { $hostname } neleis „{ -brand-short-name }“ parodyti tinklalapio, jei jis yra įterptas kitoje svetainėje. Norėdami matyti šį tinklalapį, turite jį atverti naujame lange.
@@ -97,7 +91,6 @@ redirectLoop-title = Netinkamas tinklalapio peradresavimas
 unknownSocketType-title = Netikėtas serverio atsakas
 nssFailure2-title = Saugaus ryšio užmegzti nepavyko
 csp-xfo-error-title = „{ -brand-short-name }“ negali atverti šio tinklalapio
-corruptedContentError-title = Klaida: duomenys pažeisti
 sslv3Used-title = Nepavyko prisijungti saugiai
 inadequateSecurityError-title = Jūsų ryšys nėra saugus
 blockedByPolicy-title = Uždraustas puslapis

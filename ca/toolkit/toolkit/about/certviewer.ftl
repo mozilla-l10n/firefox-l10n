@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = Els vostres certificats
 certificate-viewer-tab-people = Persones
 certificate-viewer-tab-servers = Servidors
 certificate-viewer-tab-ca = Entitats
-certificate-viewer-tab-unkonwn = Desconegut

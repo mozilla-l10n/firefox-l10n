@@ -39,22 +39,11 @@ pdfjs-printing-not-supported = Onyo: Uchapishaji hauauniwi kabisa kwa kivinjari 
 
 ## Tooltips and alt text for side panel toolbar buttons
 
-pdfjs-toggle-sidebar-button =
-    .title = Kibiano cha Upau wa Kando
-pdfjs-toggle-sidebar-button-label = Kibiano cha Upau wa Kando
-pdfjs-document-outline-button-label = Ufupisho wa Waraka
-pdfjs-thumbs-button =
-    .title = Onyesha Kijipicha
-pdfjs-thumbs-button-label = Vijipicha
 pdfjs-findbar-button =
     .title = Pata katika Waraka
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
-# Variables:
-#   $page (Number) - the page number
-pdfjs-thumb-page-title =
-    .title = Ukurasa { $page }
 # Variables:
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =

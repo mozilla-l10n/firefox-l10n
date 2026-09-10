@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Uw standaardzoekmachine is gewijzigd.</strong> { $oldEngine } is niet meer als standaardzoekmachine beschikbaar in { -brand-short-name }. { $newEngine } is nu uw standaardzoekmachine. Ga naar uw instellingen om over te schakelen naar een andere standaardzoekmachine. <label data-l10n-name="remove-search-engine-article">Meer info</label>
 removed-search-engine-message2 = <strong>Uw standaardzoekmachine is gewijzigd.</strong> { $oldEngine } is niet meer als standaardzoekmachine beschikbaar in { -brand-short-name }. { $newEngine } is nu uw standaardzoekmachine. Ga naar uw instellingen om over te schakelen naar een andere standaardzoekmachine.
 remove-search-engine-button = OK
 
@@ -52,11 +51,11 @@ install-search-engine-no = Nee
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Zoekmachine toevoegen
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Zoekmachine bewerken
     .style = min-width: 32em;
+    .title = Zoekmachine bewerken
 add-engine-button = Aangepaste zoekmachine toevoegen
 add-engine-name = Naam zoekmachine
 add-engine-url2 = URL met %s op de plaats van de zoekterm
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Probeer %s op te nemen op de plaats van de 
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Zoekmachine toevoegen
-    .buttonaccesskeyaccept = t
     .buttonlabelextra1 = Geavanceerd
+    .buttonaccesskeyaccept = t
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Zoekmachine opslaan
-    .buttonaccesskeyaccept = o
     .buttonlabelextra1 = Geavanceerd
+    .buttonaccesskeyaccept = o

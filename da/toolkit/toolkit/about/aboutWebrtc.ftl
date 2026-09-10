@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = Skjul lukkede PeerConne
 about-webrtc-aec-logging-msg-label = AEC-logning
 about-webrtc-aec-logging-off-state-label = Start AEC-logning
 about-webrtc-aec-logging-on-state-label = Stop AEC-logning
-about-webrtc-aec-logging-on-state-msg = AEC-logning er aktiveret (tal med opringeren i nogle minutter og deaktivér så logningen)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC-logning er aktiveret (tal med opringeren i nogle minutter og deaktivér så logningen)
 about-webrtc-aec-logging-unavailable-sandbox = Miljøvariablen MOZ_DISABLE_CONTENT_SANDBOX=1 er påkrævet for at kunne eksportere AEC-logs. Indstil kun denne variabel, hvis du forstår de mulige risici.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = Nomineret
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Valgt
 about-webrtc-save-page-label = Gem side
-about-webrtc-debug-mode-msg-label = Debug-tilstand
-about-webrtc-debug-mode-off-state-label = Start debug-tilstand
-about-webrtc-debug-mode-on-state-label = Stop debug-tilstand
-about-webrtc-stats-heading = Sessionsstatistik
 about-webrtc-enable-logging-label = Aktiver forhåndsindstilling af logs for WebRTC
 about-webrtc-peerconnections-section-heading = Statistik for RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = Vis statistik for RTCPeerConnection
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = Skjul statistik for RTCPeerConne
 about-webrtc-stats-clear = Ryd historik
 about-webrtc-log-heading = Forbindelses-log
 about-webrtc-log-clear = Ryd log
-about-webrtc-log-show-msg = vis log
-    .title = klik for at udvide denne sektion
-about-webrtc-log-hide-msg = skjul log
-    .title = klik for at sammenfolde denne sektion
 about-webrtc-log-section-show-msg = Vis log
     .title = Klik for at udvide denne sektion
 about-webrtc-log-section-hide-msg = Skjul log
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = Fjern-kandidat
 about-webrtc-raw-candidates-heading = Alle raw-kandidater
 about-webrtc-raw-local-candidate = Raw lokale kandidater
 about-webrtc-raw-remote-candidate = Raw fjern-kandikater
-about-webrtc-raw-cand-show-msg = vis raw-kandidater
-    .title = klik for at udvide denne sektion
-about-webrtc-raw-cand-hide-msg = skjul raw-kandidater
-    .title = klik for at sammenfolde denne sektion
 about-webrtc-raw-cand-section-show-msg = Vis raw-kandidater
     .title = Klik for at udvide denne sektion
 about-webrtc-raw-cand-section-hide-msg = Skjul raw-kandidater
     .title = Klik for at sammenfolde denne sektion
 about-webrtc-priority = Prioritet
-about-webrtc-fold-show-msg = vis detaljer
-    .title = klik for at udvide denne sektion
-about-webrtc-fold-hide-msg = skjul detaljer
-    .title = klik for at sammenfolde denne sektion
 about-webrtc-fold-default-show-msg = Vis detaljer
     .title = Klik for at udvide denne sektion
 about-webrtc-fold-default-hide-msg = Skjul detaljer
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = Angivet
 # been provided
 about-webrtc-configuration-element-not-provided = Ikke angivet
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = WebRTC-indstillinger sat af brugeren
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = WebRTC-konfiguration ændret af brugeren
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = Videoframe-statistik - MediaStreamTrack ID: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = Side gemt som: { $path }
-about-webrtc-debug-mode-off-state-msg = trace-log kan findes her: { $path }
-about-webrtc-debug-mode-on-state-msg = debug-tilstand er aktiveret, trace-log findes her: { $path }
-about-webrtc-aec-logging-off-state-msg = log-filer kan findes her: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

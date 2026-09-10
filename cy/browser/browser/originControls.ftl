@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Nid yw'r Estyniad yn Gallu Darllen na Newid Data
-origin-controls-quarantined =
-    .label = Nid Oes Gan yr Estyniad yr Hawl i Ddarllen na Newid Data
 origin-controls-quarantined-status =
     .label = Nid oes Caniatâd i'r Estyniad ar Wefannau Cyfyngedig
 origin-controls-quarantined-allow =

@@ -14,7 +14,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>اپڈیٹ ڈاونلوڈ كران — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = اپڈیٹ ڈاونلوڈ كران — { $transfer }
 
@@ -25,7 +24,6 @@ settings-update-applying =
     .label = اپڈیٹ لاگو كران
 update-failed = اپڈيت گو ناكام<label data-l10n-name="failed-link">تازئ ترین ورجن كریو ڈاونلوڈ</label>
 update-failed-main = اپڈيت گو ناكام<a data-l10n-name="failed-link-main">تازئ ترین ورجن كریو ڈاونلوڈ</a>
-update-adminDisabled = اپڈیٹ چھُ تُہِند سسٹم انتظامین بند كرمُت
 update-noUpdatesFound = { -brand-short-name } چھُ تازئ ترین
 settings-update-no-updates-found =
     .label = { -brand-short-name } چھُ تازئ ترین
@@ -51,5 +49,3 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } چھُ آمُت بناونئ<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a  <label data-l10n-name="community-creditsLink">گلوبل كمیونیٹی</label>اكوۄٹئ كٲم كر۪ین ویب یلئ تھاونئ خٲطرئ، لوُكَن ہِند۪ی خٲطرئ تئ سارنی استیمال كرنئ خٲطرئ.
 helpus = توہیہ چھیو مدد یژھان کرُن؟<label data-l10n-name="helpus-donateLink">ڈونیشن کْریو</label>  یا  <label data-l10n-name="helpus-getInvolvedLink">شأمل گْژھیو!</label>
 bottomLinks-license = لایسینسِنگ مولومات
-bottomLinks-rights = استیمال كرَن وٲل سِند حقوق
-bottomLinks-privacy = زٲتی پالسی

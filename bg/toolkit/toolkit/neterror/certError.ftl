@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Няма увереност в сертиф�
 cert-error-trust-signature-algorithm-disabled = Сертификатът не е доверен, защото е подписан с алгоритъм за подписване, който е деактивиран, защото не е безопасен.
 cert-error-trust-expired-issuer = Няма увереност в сертификата, защото издателят на сертификата е с изтекла валидност.
 cert-error-trust-self-signed = Няма увереност в сертификата, защото е самоподписан.
-cert-error-trust-symantec = Сертификатите, издадени от GeoTrust, RapidSSL, Symantec, Thawte и VeriSign вече не се считат за безопасни, тъй като тези сертификационни органи не са спазвали практиките за сигурност в миналото.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } не се доверява на { $hostname }, защото не може да докаже, че отговаря на изискванията за прозрачност на публичните сертификати.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Код на грешката: <a data-l10n-name="e
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Грешка при свързване с { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Страниците потвърждават самоличността си чрез сертификати, издавани от сертифициращи органи. Повечето мрежови четци вече не се доверяват на сертификатите, издадени от GeoTrust, RapidSSL, Symantec, Thawte и VeriSign. { $hostname } използва сертификат от един от тези издатели и затова самоличността на страницата не може да бъде потвърдена.
-cert-error-symantec-distrust-admin = Може да уведомите администратора на страницата за този проблем.
 cert-error-old-tls-version = Този сайт вероятно не поддържа протокола TLS 1.2, който е минималната версия, поддържана от { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,12 +62,10 @@ cert-error-details-hsts-label = Сигурен HTTP чрез ограничав�
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Закотвен публичен ключ на HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Верига на сертификата:
-open-in-new-window-for-csp-or-xfo-error = Отваряне в нов прозорец
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = С цел защита на вашата сигурност, { $hostname } няма да позволи { -brand-short-name } да покаже страницата ако друг сайт я е вградил. За да видите тази страница е необходимо да я отворите в нов прозорец.
 fp-certerror-view-certificate-link = Преглед на сертификата на сайта
-fp-certerror-return-to-previous-page-recommended-button = Връщане назад (препоръчително)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -102,7 +95,6 @@ deniedPortAccess-title = Този адрес е ограничен
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Хмм. Страницата не е намерена
 internet-connection-offline-title = Изглежда, че има проблем с интернет връзката ви.
-dns-not-found-trr-only-title2 = Възможен риск за сигурността при търсене на този домейн
 fileNotFound-title = Файлът не е намерен
 fileAccessDenied-title = Достъпът до файла е отказан
 generic-title = Олеле.
@@ -126,7 +118,6 @@ redirectLoop-title = Страницата не пренасочва правил
 unknownSocketType-title = Неочакван отговор от сървъра
 nssFailure2-title = Неуспешно установяване на шифрована връзка
 csp-xfo-error-title = { -brand-short-name } не може да отвори страницата
-corruptedContentError-title = Грешка поради развалено съдържание
 sslv3Used-title = Невъзможно създаване на защитена връзка
 inadequateSecurityError-title = Връзката е незащитена
 blockedByPolicy-title = Забранена страница

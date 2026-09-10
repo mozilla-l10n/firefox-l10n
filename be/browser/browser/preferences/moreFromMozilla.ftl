@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Больш ад { -vendor-short-name }
 more-from-moz-page-header =
     .heading = Больш ад { -vendor-short-name }
 more-from-moz-category =
@@ -15,8 +14,8 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } для мабіль
 more-from-moz-firefox-mobile-description = Мабільны браўзер, які ставіць вашу прыватнасць на першае месца.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } для мабільных прылад
 more-from-moz-firefox-mobile =
-    .label = { -brand-product-name } для мабільных прылад
     .description = Мабільны браўзер, які ставіць вашу прыватнасць на першае месца.
+    .label = { -brand-product-name } для мабільных прылад
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Адкрыйце для сябе дадатковы ўзровень ананімнага аглядання і аховы.
 more-from-moz-qr-code-box-firefox-mobile-title = Сцягніце з дапамогай мабільнай прылады. Накіруйце камеру на QR-код. Калі з'явіцца спасылка, націсніце на яе.
@@ -37,13 +36,11 @@ more-from-moz-firefox-relay-button = Атрымаць { -relay-brand-short-name 
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Аўтаматычна адклікайце сваю выкрытую асабістую інфармацыю.
 more-from-moz-mozilla-monitor-global-description = Атрымлівайце абвесткі, калі вашы дадзеныя выявіліся ва ўцечцы.
 more-from-moz-mozilla-monitor-button = Атрымаць { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = ШІ { -solo-ai-brand-name }
 more-from-moz-solo-description = Імгненна стварыце свой вэб-сайт і падключыце ўласны карыстальніцкі дамен бясплатна.
 more-from-moz-solo-button = Паспрабаваць { -solo-ai-brand-name }
 more-from-moz-solo-title-2 = Штучны інтэлект для стварэння сайтаў { -solo-ai-brand-name }
@@ -77,26 +74,26 @@ more-from-moz-firefox-mobile-email-link = Адправіць спасылку д
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
 more-from-moz-mozilla-monitor-card =
-    .label = { -mozmonitor-brand-name }
     .description = Даведайцеся, дзе ваша асабістая інфармацыя была раскрыта ў інтэрнэце, з дапамогай бясплатнага сканавання.
+    .label = { -mozmonitor-brand-name }
 more-from-moz-mozilla-vpn-card =
-    .label = { -mozilla-vpn-brand-name }
     .description = Атрымайце дадатковую ахову для ўсіх праграм, а не толькі для браўзера. Захоўвайце бяспеку сваіх звестак у грамадскім Wi-Fi і неабароненых сетках.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
-    .label = { -relay-brand-name }
     .description = Абараніце сваю паштовую скрыню ад спаму з дапамогай бясплатнай маскіроўкі электроннай пошты.
+    .label = { -relay-brand-name }
 more-from-moz-mdn-card =
-    .label = { -mdn-brand-name }
     .description = Вывучайце вэб-распрацоўку з дапамогай бясплатных кіраўніцтваў і даведнікаў.
+    .label = { -mdn-brand-name }
 more-from-moz-thunderbird-card =
-    .label = { -thunderbird-brand-name }
     .description = Майце доступ да сваёй электроннай пошты, календароў і кантактаў у адной хуткай праграме.
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
-    .label = { -solo-ai-brand-name }
     .description = Стварыце свой сайт імгненна і падключыце свой уласны дамен бясплатна.
+    .label = { -solo-ai-brand-name }
 more-from-moz-new-products-card2 =
-    .label = Новыя прадукты { -vendor-short-name }
     .description = Азнаёмцеся з нашымі найноўшымі ідэямі і эксперыментальнымі тэхналогіямі.
+    .label = Новыя прадукты { -vendor-short-name }
 more-from-moz-mozilla-monitor-box-link =
     .label = Атрымаць { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =

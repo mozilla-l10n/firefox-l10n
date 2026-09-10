@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Ajouter { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Progression : étape { $current } sur { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -199,11 +193,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Épingler { -brand-short-name } à la barre des tâches et au menu Démarrer
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Commencez par un navigateur soutenu par une organisation à but non lucratif. Nous défendons votre vie privée pendant que vous naviguez sur le Web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -233,57 +222,10 @@ mr2022-onboarding-set-default-subtitle = Utilisez un navigateur soutenu par une 
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Notre dernière version est conçue sur mesure pour vous, ce qui facilite plus que jamais la navigation sur le Web. Cette dernière version regorge de fonctionnalités que vous allez adorer.
 mr2022-onboarding-get-started-primary-button-label = Configurer en quelques secondes
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Configuration ultra-rapide
-mr2022-onboarding-import-subtitle = Configurez { -brand-short-name } à votre guise. Ajoutez vos marque-pages, mots de passe et plus encore depuis votre ancien navigateur.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importer depuis un autre navigateur
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Choisissez la couleur qui vous inspire
-mr2022-onboarding-colorway-subtitle = Des voix indépendantes peuvent changer une culture.
-mr2022-onboarding-colorway-primary-button-label-continue = Configurer et continuer
-mr2022-onboarding-existing-colorway-checkbox-label = Faites de la { -firefox-home-brand-name } votre page d’accueil colorée
-mr2022-onboarding-colorway-label-default = Par défaut
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Couleurs actuelles de { -brand-short-name }
-mr2022-onboarding-colorway-description-default = <b>Utiliser mes couleurs actuelles de { -brand-short-name }.</b>
-mr2022-onboarding-colorway-label-playmaker = Meneur/Meneuse
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Meneur/Meneuse (rouge)
-mr2022-onboarding-colorway-description-playmaker = <b>Meneur/Meneuse :</b> vous créez des occasions de gagner et vous aidez tout un chacun autour de vous à élever le niveau de son jeu.
-mr2022-onboarding-colorway-label-expressionist = Expressionniste
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Expressionniste (jaune)
-mr2022-onboarding-colorway-description-expressionist = <b>Expressionniste :</b> vous voyez le monde différemment et vos créations suscitent l’émotion chez les autres.
-mr2022-onboarding-colorway-label-visionary = Visionnaire
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Visionnaire (vert)
-mr2022-onboarding-colorway-description-visionary = <b>Visionnaire :</b> vous remettez en cause les statu quo et poussez les autres à imaginer un monde meilleur.
-mr2022-onboarding-colorway-label-activist = Militant/Militante
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Militant/Militante (bleu)
-mr2022-onboarding-colorway-description-activist = <b>Militant/Militante :</b> vous rendez le monde meilleur que vous ne l’avez trouvé et convainquez les autres de croire au changement.
-mr2022-onboarding-colorway-label-dreamer = Rêveur/Rêveuse
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Rêveur/Rêveuse (violet)
-mr2022-onboarding-colorway-description-dreamer = <b>Rêveur/Rêveuse : </b> vous croyez que la chance sourit aux audacieux et vous insufflez le courage aux autres.
-mr2022-onboarding-colorway-label-innovator = Pionnier/Pionnière
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Pionnier/Pionnière (orange)
-mr2022-onboarding-colorway-description-innovator = <b>Pionnier/Pionnière :</b> vous voyez partout des opportunités et vous influencez le cours des vies de tous et toutes autour de vous.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Passez d’un ordinateur portable à un téléphone et vice-versa
-mr2022-onboarding-mobile-download-subtitle = Récupérez les onglets d’un appareil et reprenez là où vous en étiez sur un autre. Et synchronisez même vos marque-pages et vos mots de passe partout où vous utilisez { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Scannez le code QR pour installer { -brand-product-name } pour mobile ou <a data-l10n-name="download-label">envoyez-vous un lien de téléchargement.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Scannez le code QR pour installer { -brand-product-name } sur mobile.
 
@@ -336,15 +278,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = High five par une main à la peau claire et une à la peau foncée
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Vue d’un coucher de soleil à travers une fenêtre avec un renard et un pot de fleurs sur le rebord d’une fenêtre
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Une bombe de peinture colorie le collage d’un œil vert, d’une chaussure orange, d’une balle de basket rouge, d’un casque audio violet, d’un cœur bleu et d’une couronne jaune
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Un renard fait signe de la patte sur l’écran d’un ordinateur portable. Une souris est connectée à l’ordinateur portable.
 onboarding-device-migration-title = Heureux de vous revoir !
-onboarding-device-migration-subtitle = Connectez-vous à votre { -fxaccount-brand-name } pour prendre vos marque-pages, mots de passe et historique avec vous sur votre nouvel appareil.
 onboarding-device-migration-subtitle2 = Connectez-vous à votre compte pour récupérer marque-pages, mots de passe et historique de navigation sur votre nouvel appareil.
 onboarding-device-migration-primary-button-label = Se connecter
 
@@ -461,15 +400,12 @@ tab-groups-onboarding-feature-callout-title = Essayez les groupes d’onglets po
 tab-groups-onboarding-feature-callout-subtitle = Organisez vos onglets en faisant glisser un onglet au-dessus d’un autre pour créer votre premier groupe.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Retrouvez à tout moment vos groupes d’onglets dans le menu Lister tous les onglets.
-tab-groups-onboarding-create-group-title-2 = Retrouvez vos groupes d’onglets ici à tout moment.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Retrouvez vos groupes en les recherchant dans la barre d’adresse.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Lorsque vous fermez un groupe d’onglets, vous pouvez le rouvrir à tout moment depuis le menu Lister tous les onglets.
-tab-groups-onboarding-saved-groups-title-2 = Lorsque vous fermez un groupe d’onglets, vous pouvez le rouvrir ici à tout moment.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Retrouvez les groupes fermés en les recherchant dans la barre d’adresse.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Rouvrez vos groupes d’onglets à partir du menu Lister tous les onglets à tout moment.
-tab-groups-onboarding-session-restore-title = Rouvrez à tout moment vos groupes d’onglets ici.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

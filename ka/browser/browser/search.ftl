@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>თქვენი ნაგულისხმევი საძიებო შეიცვალა.</strong> { $oldEngine } აღარაა ხელმისაწვდომი ნაგულისხმევად და აღარ იყენებს { -brand-short-name }. { $newEngine } მიეთითება ნაგულისხმევ საძიებოდ. სხვა საძიებოს ნაგულისხმევად შერჩევისთვის, გადადით პარამეტრებში. <label data-l10n-name="remove-search-engine-article">ვრცლად</label>
 removed-search-engine-message2 = <strong>თქვენი ნაგულისხმევი საძიებო შეიცვალა.</strong> { $oldEngine } აღარაა ხელმისაწვდომი ნაგულისხმევად და აღარ იყენებს { -brand-short-name }. { $newEngine } მიეთითება ნაგულისხმევ საძიებოდ. სხვა საძიებოს ნაგულისხმევად შერჩევისთვის, გადადით პარამეტრებში.
 remove-search-engine-button = კარგი
 
@@ -52,11 +51,11 @@ install-search-engine-no = არა
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = საძიებო სისტემის დამატება
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = საძიებოს ჩასწორება
     .style = min-width: 32em;
+    .title = საძიებოს ჩასწორება
 add-engine-button = მორგებული საძიებოს დამატება
 add-engine-name = საძიებო სისტემის სახელი
 add-engine-url2 = ბმული და %s საძებნი ფრაზის ადგილას
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = ეცადეთ დაურთოთ %s
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = საძიებოს დამატება
-    .buttonaccesskeyaccept = ტ
     .buttonlabelextra1 = გაფართოებული
+    .buttonaccesskeyaccept = ტ
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = საძიებოს შენახვა
-    .buttonaccesskeyaccept = ნ
     .buttonlabelextra1 = გაფართოებული
+    .buttonaccesskeyaccept = ნ

@@ -21,12 +21,10 @@ neterror-override-exception-button = Pījimt riskus un turpynōt
 neterror-pref-reset-button = Atjaunōt nūkluseitūs īstatiejumus
 neterror-return-to-previous-page-button = Īt atpakaļ
 neterror-return-to-previous-page-recommended-button = Īt atpakaļ (īteicams)
-neterror-try-again-button = Try Again
 
 ##
 
 neterror-pref-reset = It looks like your network security settings might be causing this. Do you want the default settings to be restored?
-neterror-error-reporting-automatic = Report errors like this to help { -vendor-short-name } identify and block malicious sites
 
 ## Specific error messages
 
@@ -43,8 +41,6 @@ neterror-file-not-found-moved = Puorsalīcinojit, ka fails nav puorvītuots, puo
 neterror-access-denied = Tys varātu byut aizvuokts, puorvītuots voi ari faila pīkļuves tīseibys līdz pīkļuvi tam.
 neterror-unknown-protocol = Īspiejams, jiusim juoīinstelej kaida cyta programa, kab apstruoduotu itei tipa adresi.
 neterror-redirect-loop = Itū problemu reizem var atrysynuot, deaktivejūt seikdatnes voi napījemūt tuos nu ituos lopys.
-neterror-unknown-socket-type-psm-installed = Puorsalīcinojit, ka jiusim ir instaleits Personiskuos drūseibys puorvaļdnīks.
-neterror-unknown-socket-type-server-config = Īmesls var byut ari nastandarta servera konfiguraceja.
 neterror-not-cached-intro = The requested document is not available in { -brand-short-name }’s cache.
 neterror-not-cached-sensitive = As a security precaution, { -brand-short-name } does not automatically re-request sensitive documents.
 neterror-not-cached-try-again = Click Try Again to re-request the document from the website.

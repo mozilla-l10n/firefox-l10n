@@ -10,13 +10,8 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Embojuaju { $extension }?
-webext-perms-header-with-perms = ¿Embojuaju { $extension }? Ko jepysokue oñemoneĩta ikatu hag̃ua:
-webext-perms-header-unsigned = ¿Embojuaju { $extension }? Ko moĩmbaha ndojehechajeýi. Umi moĩmbaha imarãva omondakuaa ne marandu ñemigua térã omoapañuái ne mohendaha. Emohenda moĩmbaha ejeroviárõ hese.
-webext-perms-header-unsigned-with-perms = ¿Embojuaju { $extension }? Ko moĩmbaha ndojehechajeýi. Umi moĩmbaha imarãva omondakuaa ne marandu ñemigua térã omoapañuái ne mohendaha. Emohenda moĩmbaha ejeroviárõ hese. Ko moĩmbaha oñemoneĩta ojapo hag̃ua:
 webext-perms-sideload-header = { $extension } mbojuajupyre
 webext-perms-optional-perms-header2 = { $extension } oikotevẽ ñemoneĩ jo’ávare
-webext-perms-optional-perms-header = { $extension } oikotevẽ moneĩ jo’ávare.
 webext-perms-header2 = Embojuaju { $extension }
 webext-perms-list-intro-unsigned = Ko jepysokue ojehechajey’ỹva ombyaikuaa nde rekoñemi térã mba’e’oka ñemomarã. Embojuaju ejeroviáramo añoite teñoiháre.
 
@@ -54,9 +49,6 @@ webext-perms-sideload-cancel =
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text2 = Oñembohekopyahúma { $extension } jepysokue. Emoneĩ pyahujeyva’erã emohenda mboyve tembiapo ipyahuvéva. Eiporavóvo “Heja”, opytáta jepysokue ipyahuvéva.
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = Oñembohekopyahúma { $extension }. Emoneĩ pyahujeyva’erã emohenda hag̃ua apopyre oĩramovéva. Eiporavóramo “Heja” ohejáta moĩmbaha ko’ag̃agua. Ko jepysokue oñemoneĩta ojapo hag̃ua:
 webext-perms-update-accept =
     .label = Mbohekopyahu
     .accesskey = M
@@ -73,24 +65,8 @@ webext-perms-host-description-file-urls = Eike marandurenda ne mohendahapeguápe
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Eike ne mba’ekuaarãme opaite ñanduti { $domain } mba’etévape
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Eike mba’ekuaarãme { $domainCount } ambue mba’etépe
-       *[other] Eike mba’ekuaarãme { $domainCount } ambue mba’etépe
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Eike ne mba’ekuaarã { $domain }-pe g̃uarã
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Eike ne mba’ekuaarã { $domainCount }-pe ambue tenda rupi
-       *[other] Eike ne mba’ekuaarã { $domainCount }-pe ambue tenda rupi
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

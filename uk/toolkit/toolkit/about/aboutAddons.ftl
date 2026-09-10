@@ -154,15 +154,10 @@ addon-sitepermission-host = Дозволи сайту для { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = В безпечному режимі всі додатки вимкнено.
-extensions-warning-check-compatibility = Перевірка сумісності додатків вимкнена. У вас можуть бути несумісні додатки.
-extensions-warning-safe-mode2 =
-    .message = В безпечному режимі всі додатки вимкнено.
 extensions-warning-check-compatibility2 =
     .message = Перевірка сумісності додатків вимкнена. У вас можуть бути несумісні додатки.
 extensions-warning-check-compatibility-button = Увімкнути
     .title = Увімкнути перевірку сумісності додатків
-extensions-warning-update-security = Перевірка безпечного оновлення додатків вимкнена. У процесі оновлення зловмисник може спробувати підмінити їх.
 extensions-warning-update-security2 =
     .message = Перевірка безпечного оновлення додатків вимкнена. У процесі оновлення зловмисник може спробувати підмінити їх.
 extensions-warning-update-security-button = Увімкнути
@@ -238,10 +233,6 @@ shortcuts-duplicate = Дублікат комбінації клавіш
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } використовується більше одного випадку. Дублікати комбінацій клавіш можуть спричинити неочікувану поведінку.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } використовується більше одного випадку. Дублікати комбінацій клавіш можуть спричинити неочікувану поведінку.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -262,16 +253,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Розширення і теми – це додатки для вашого браузера, за допомогою яких можна
-    захищати паролі, завантажувати відео, знаходити пропозиції, блокувати рекламу,
-    змінювати зовнішній вигляд браузера та багато іншого. Ці невеликі програми зазвичай
-    розробляються сторонніми розробниками.
-    Ось декілька <a data-l10n-name="learn-more-trigger">рекомендацій</a> від { -brand-product-name } для виняткової безпеки, продуктивності та функціональності.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Деякі з цих рекомендацій персоналізовані. Вони базуються на ваших вже встановлених розширеннях, налаштуваннях профілю і статистиці використання.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message = Деякі з цих рекомендацій персоналізовані. Вони базуються на ваших вже встановлених розширеннях, налаштуваннях профілю і статистиці використання.
@@ -360,16 +341,9 @@ addon-detail-last-updated-label = Востаннє оновлено
 addon-detail-homepage-label = Домівка
 addon-detail-rating-label = Оцінка
 # Message for add-ons with a staged pending update.
-install-postponed-message = Це розширення буде оновлено після перезапуску { -brand-short-name }.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Це розширення буде оновлено після перезапуску { -brand-short-name }.
 install-postponed-button = Оновити зараз
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Оцінка { NUMBER($rating, maximumFractionDigits: 1) } з 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -388,9 +362,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> було вилучено.
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = { $addon } було вилучено.
 pending-uninstall-undo-button = Повернути
@@ -407,11 +378,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = Дозволено в приватних вікнах
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = Дозволено в приватних вікнах
 addon-detail-private-browsing-help = Якщо дозволено, розширення матиме доступ до вашої діяльності в режимі приватного перегляду. <a data-l10n-name="learn-more">Докладніше</a>
 addon-detail-private-browsing-allow = Дозволити
@@ -438,17 +404,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } рекомендує лише розширення, які відповідають нашим стандартам безпеки та продуктивності
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Офіційне розширення, створене Mozilla. Відповідає стандартам безпеки та продуктивності.
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Це розширення перевірено на відповідність нашим стандартам безпеки та продуктивності.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -478,9 +433,6 @@ addon-permissions-heading = Дозволи
 addon-permissions-empty2 = Це розширення не вимагає жодних дозволів.
 addon-permissions-required-label = Обов'язково:
 addon-permissions-optional-label = Необов'язково:
-addon-permissions-empty = Це розширення не потребує дозволів
-addon-permissions-required = Необхідні дозволи для роботи основних функцій:
-addon-permissions-optional = Необов'язкові дозволи для додаткових функцій:
 addon-permissions-learnmore = Докладніше про дозволи
 recommended-extensions-heading = Рекомендовані розширення
 recommended-themes-heading = Рекомендовані теми
@@ -517,25 +469,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } несумісний з { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } несумісний з { -brand-short-name } { $version }.
-details-notification-incompatible-link = Докладніше
-details-notification-unsigned-and-disabled = Додаток { $name } не був перевірений для використання в { -brand-short-name } і був вимкнений.
 details-notification-unsigned-and-disabled2 =
     .message = Додаток { $name } не був перевірений для використання в { -brand-short-name } і був вимкнений.
-details-notification-unsigned-and-disabled-link = Докладніше
-details-notification-unsigned = Додаток { $name } не був перевірений для використання в { -brand-short-name }. Продовжуйте з обережністю.
 details-notification-unsigned2 =
     .message = Додаток { $name } не був перевірений для використання в { -brand-short-name }. Продовжуйте з обережністю.
 details-notification-hard-blocked-extension =
     .message = Це розширення заблоковано за порушення політик Mozilla, тому його було вимкнено.
 details-notification-hard-blocked-other =
     .message = Цей додаток заблоковано за порушення політик Mozilla, тому його було вимкнено.
-details-notification-unsigned-link = Докладніше
-details-notification-blocked = { $name } було вимкнено, у зв'язку з проблемами безпеки чи стабільності.
 details-notification-blocked-link2 = Переглянути подробиці
 details-notification-soft-blocked-extension-disabled2 =
     .message = Це розширення вимкнено через обмеження. Ви можете його ввімкнути, але це може бути ризиковано.
@@ -545,19 +488,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = Цей додаток вимкнено через обмеження. Ви можете його ввімкнути, але це може бути ризиковано.
 details-notification-soft-blocked-other-enabled2 =
     .message = Цей додаток обмежено. Його використання може бути ризикованим.
-details-notification-soft-blocked-extension-disabled =
-    .message = Це розширення обмежено через порушення політик Mozilla, тому його було вимкнено. Ви можете ввімкнути його, розуміючи можливі наслідки ризику.
-details-notification-soft-blocked-extension-enabled =
-    .message = Це розширення порушує політики Mozilla. Користуватися ним може бути ризиковано.
-details-notification-soft-blocked-other-disabled =
-    .message = Цей додаток обмежено через порушення політик Mozilla, тому його було вимкнено. Ви можете ввімкнути його, розуміючи можливі наслідки ризику.
-details-notification-soft-blocked-other-enabled =
-    .message = Цей додаток порушує політики Mozilla. Користуватися ним може бути ризиковано.
 details-notification-softblocked-link2 = Переглянути подробиці
-details-notification-blocked-link = Докладніше
-details-notification-softblocked = В { $name } є відомі проблеми з безпекою та стабільністю.
-details-notification-softblocked-link = Докладніше
-details-notification-gmp-pending = { $name } незабаром буде встановлено.
 details-notification-gmp-pending2 =
     .message = { $name } незабаром буде встановлено.
 
@@ -573,8 +504,6 @@ plugins-widevine-description = Цей плагін активує відтвор
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Необхідний збір даних:
-addon-permissions-optional-data-collection = Необов'язковий збір даних:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Дозволи й дані
 # This is a description for extension that use this AI model

@@ -6,7 +6,6 @@
 ## The address and credit card autofill management dialog in browser preferences
 
 autofill-manage-addresses-list-header = Direiciones
-autofill-manage-credit-cards-list-header = Tarxetes de creitu
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-add-button = Amestar…
@@ -43,13 +42,3 @@ autofill-save-button = Guardar
 autofill-card-name-on-card-2 =
     .label = Titular de la tarxeta
 autofill-card-name-on-card = Titular de la tarxeta
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-diners = Diners Club
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

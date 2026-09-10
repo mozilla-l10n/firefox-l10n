@@ -5,16 +5,16 @@
 profile-window-heading = ഒരു { -brand-short-name } രൂപരേഖ തിരഞ്ഞെടുക്കുക
 profile-window-create-profile = രൂപരേഖയുണ്ടാക്കുക
 profile-card-edit-button =
-    .title = രൂപരേഖ തിരുത്തുക
     .aria-label = രൂപരേഖ തിരുത്തുക
+    .title = രൂപരേഖ തിരുത്തുക
 profile-card-delete-button =
-    .title = രൂപരേഖ മായ്ക്കുക
     .aria-label = രൂപരേഖ മായ്ക്കുക
+    .title = രൂപരേഖ മായ്ക്കുക
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = { $profileName } തുറക്കുക
     .aria-label = { $profileName } തുറക്കുക
+    .title = { $profileName } തുറക്കുക
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = { $number } രൂപരേഖ
@@ -47,9 +47,6 @@ profile-window-title-2 = { -brand-short-name } - രൂപരേഖ തിരഞ
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = { $profilename } രൂപരേഖ മായ്ക്കുക
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = { $profilename } രൂപരേഖ മായ്ക്കണോ?
 # Open is an adjective, as in "browser windows currently open".
 delete-profile-windows = ജാലകങ്ങൾ തുറക്കുക
@@ -69,10 +66,6 @@ delete-profile-confirm = മായ്ക്കുക
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = തെളിച്ചം
-# The default dark theme
-profiles-dark-theme = ഇരുണ്ടതു്
 # The default system theme
 profiles-system-theme = വ്യവസ്ഥാനുസാരം
 

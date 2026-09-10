@@ -17,7 +17,6 @@ autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } berusaha 
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } berusaha menampilkan informasi metode pembayaran yang tersimpan.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Opsi IsiOtomatis Formulir
-autofill-options-link-osx = Preferensi IsiOtomatis Formulir
 
 ## The credit card capture doorhanger
 
@@ -62,16 +61,6 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
-# The warning text that is displayed for informing users what categories are
-# about to be filled.  The text would be, for example,
-#   Also autofills organization, phone, email.
-# Variables:
-#   $categories - one or more of the categories, see autofill-category-X below
-autofill-phishing-warningmessage-extracategory = Isi juga { $categories } secara otomatis
-# Variation when all are in the same category.
-# Variables:
-#   $categories - one or more of the categories
-autofill-phishing-warningmessage = Isi { $categories } secara otomatis
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = alamat
 autofill-category-name = nama

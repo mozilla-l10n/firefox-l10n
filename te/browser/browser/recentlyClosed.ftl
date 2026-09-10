@@ -9,15 +9,3 @@
 
 recently-closed-panel-reopen-all-tabs = ట్యాబులన్నింటినీ మళ్లీ తెరువు
 recently-closed-panel-reopen-all-windows = కిటికీలన్నిటినీ మళ్ళీ తెరువు
-
-##
-
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [one] { $winTitle } (మరియు { $tabCount } ఇతర ట్యాబ్)
-       *[other] { $winTitle } (మరియు { $tabCount } ఇతర ట్యాబ్ లు)
-    }

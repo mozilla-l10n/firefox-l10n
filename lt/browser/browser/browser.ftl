@@ -2,49 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } – { -brand-full-name }
-    .data-content-title-private = { $content-title } – „{ -brand-full-name }“ privatusis naršymas
-    .data-title-default = { -brand-full-name }
-    .data-title-private = „{ -brand-full-name }“ privatusis naršymas
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } – privatusis naršymas
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } – privatusis naršymas
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = „{ -brand-shortcut-name }“ privatusis naršymas
@@ -81,8 +38,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Atverti duomenų darbui neprisijungus pranešimo skydelį
 urlbar-password-notification-anchor =
     .tooltiptext = Atverti slaptažodžio įrašymo pranešimo skydelį
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Valdyti papildinių naudojimą
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Tvarkyti kameros ir mikrofono naudojimą svetainėje
 # "Speakers" is used in a general sense that might include headphones or
@@ -95,15 +50,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Saugoti duomenis išliekančioje atmintyje
 urlbar-addons-notification-anchor =
     .tooltiptext = Atverti priedo diegimo pranešimo skydelį
-urlbar-tip-help-icon =
-    .title = Žinynas ir pagalba
 urlbar-search-tips-confirm = Gerai, supratau
 urlbar-search-tips-confirm-short = Supratau
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Patarimas:
 urlbar-result-menu-button =
     .title = Atverti meniu
 urlbar-result-menu-learn-more2 = Sužinoti daugiau
@@ -129,8 +77,6 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = Rašykite mažiau, raskite daugiau: ieškokite per „{ $engineName }“ tiesiai iš savo adreso lauko.
 urlbar-search-tips-redirect-2 = Pradėkite savo paiešką adreso lauke, norėdami matyti žodžių siūlymus iš „{ $engineName }“ bei jūsų naršymo istorijos.
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = Paieška dabar paprastesnė. Pabandykite konkretizuoti paiešką čia, adreso juostoje. Norėdami vietoj to matyti URL, eikite į paieškos nuostatas.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Pasirinkite šį leistuką, norėdami greičiau rasti tai, ko ieškote.
@@ -158,8 +104,6 @@ urlbar-screen-blocked =
     .tooltiptext = Šiai svetainei neleidžiate dalintis ekrano vaizdu.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Šioje svetainėje esate užblokavę išliekančių duomenų saugojimą.
-urlbar-popup-blocked =
-    .tooltiptext = Šioje svetainėje esate užblokavę iškylančiuosius langus.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Šioje svetainėje esate užblokavę automatinį medijos grojimą.
 urlbar-canvas-blocked =
@@ -258,28 +202,19 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Peržiūrėti priedus
-quickactions-cmd-addons2 = priedai
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Tvarkyti adresyną
 quickactions-cmd-bookmarks = adresynas
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Išvalyti žurnalą
-quickactions-cmd-clearhistory = išvalyti žurnalą
 # Opens about:downloads page
 quickactions-downloads2 = Žiūrėti atsiuntimus
 quickactions-cmd-downloads = atsiuntimai
 # Opens about:addons page in the extensions section
 quickactions-extensions = Tvarkyti priedus
-quickactions-cmd-extensions = priedai
 # Opens the devtools web inspector
 quickactions-inspector2 = Atverti programuotojų priemones
-quickactions-cmd-inspector = tyriklis, devtools
 # Opens about:logins
 quickactions-logins2 = Tvarkyti slaptažodžius
 quickactions-cmd-logins = prisijungimai, slaptažodžiai
-# Opens about:addons page in the plugins section
-quickactions-plugins = Tvarkyti papildinius
-quickactions-cmd-plugins = papildiniai
 # Opens the print dialog
 quickactions-print2 = Spausdinti puslapį
 quickactions-cmd-print = spausdinti
@@ -294,19 +229,15 @@ quickactions-restart = Paleisti „{ -brand-short-name }“ iš naujo
 quickactions-cmd-restart = paleisti iš naujo
 # Opens the screenshot tool
 quickactions-screenshot3 = Padaryti ekrano nuotrauką
-quickactions-cmd-screenshot = ekrano nuotrauka
 # Opens about:preferences
 quickactions-settings2 = Keisti nuostatas
-quickactions-cmd-settings = nustatymai, nuostatos, parinktys
 # Opens about:addons page in the themes section
 quickactions-themes = Tvarkyti apvalkalus
-quickactions-cmd-themes = grafiniai apvalkalai
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Atnaujinti „{ -brand-short-name }“
 quickactions-cmd-update = naujinti
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Pirminis tekstas
-quickactions-cmd-viewsource = pirminis tekstas
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Sužinokite apie sparčiuosius veiksmus daugiau
@@ -359,17 +290,13 @@ identity-custom-root = Ryšį patvirtino liudijimo išdavėjas, kurio „Mozilla
 identity-passive-loaded = Kai kurios šio tinklalapio dalys nėra saugios (pvz., paveikslai).
 identity-active-loaded = Šiame tinklalapyje esate išjungę apsaugą.
 identity-weak-encryption = Šis tinklalapis naudoja silpną šifravimą.
-identity-insecure-login-forms = Šiame tinklalapyje įvesti prisijungimo duomenys gali būti perimti.
 identity-https-only-connection-upgraded = (naudojamas HTTPS)
-identity-https-only-label = Tik HTTPS veiksena
 identity-https-only-dropdown-on =
     .label = Įjungta
 identity-https-only-dropdown-off =
     .label = Išjungta
 identity-https-only-dropdown-off-temporarily =
     .label = Išjungta laikinai
-identity-https-only-info-turn-on2 = Įjunkite tik HTTPS veikseną šiai svetainei, jei norite, kad „{ -brand-short-name }“ naudotų saugų ryšį kai tik įmanoma.
-identity-https-only-info-turn-off2 = Jei tinklalkapis veikia netinkamai, gali tekti išjungti tik HTTPS veikseną šiai svetainei, ir įkelti iš naujo naudojant nesaugų HTTP.
 identity-https-only-info-no-upgrade = Nepavyko perkelti ryšio iš HTTP.
 identity-permissions-storage-access-header = Tarp svetainių veikiantys slapukai
 identity-permissions-storage-access-hint = Šios šalys gali naudoti tarp svetainių veikiančius slapukus ir svetainių duomenis, kai esate šioje svetainėje.
@@ -385,7 +312,6 @@ identity-remove-cert-exception =
     .label = Panaikinti išimtį
     .accesskey = n
 identity-description-insecure = Jūsų ryšys su šia svetaine nėra privatus. Jūsų pateikta informacija gali būti peržiūrėta kitų (pvz., slaptažodžiai, žinutės, banko kortelės, kita).
-identity-description-insecure-login-forms = Šiame tinklalapyje jūsų įvesti prisijungimo duomenys nebus saugūs ir gali būti perimti.
 identity-description-weak-cipher-intro = Jūsų ryšys su šia svetaine naudoja silpną šifravimą ir nėra privatus.
 identity-description-weak-cipher-risk = Pašaliniai asmenys gali matyti jūsų duomenis ar keisti svetainės elgseną.
 identity-description-active-blocked2 = „{ -brand-short-name }“ užblokavo nesaugias šio tinklalapio dalis.
@@ -394,12 +320,6 @@ identity-description-passive-loaded-insecure2 = Šioje svetainėje yra nesaugaus
 identity-description-passive-loaded-mixed2 = Nors „{ -brand-short-name }“ užblokavo dalį turinio, šiame tinklalapyje vis dar yra nesaugaus turinio (pvz., paveikslų).
 identity-description-active-loaded = Šioje svetainėje yra nesaugaus turinio (pvz., scenarijų), be to, jūsų ryšys su ja nėra privatus.
 identity-description-active-loaded-insecure = Šiai svetainei pateikta informacija gali būti peržiūrėta kitų (pvz., slaptažodžiai, žinutės, banko kortelės, kita).
-identity-disable-mixed-content-blocking =
-    .label = Laikinai išjungti apsaugą
-    .accesskey = L
-identity-enable-mixed-content-blocking =
-    .label = Įjungti apsaugą
-    .accesskey = Į
 identity-more-info-link-text =
     .label = Daugiau informacijos
 
@@ -413,43 +333,6 @@ browser-window-restore-down-button =
     .tooltiptext = Sumažinti
 browser-window-close-button =
     .tooltiptext = Užverti
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = GROJA
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = NUTILDYTA
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = AUTOMATINIS GROJIMAS UŽBLOKUOTAS
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = VAIZDAS-VAIZDE
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] NUTILDYTI KORTELĘ
-        [one] NUTILDYTI KORTELĘ
-        [few] NUTILDYTI { $count } KORTELES
-       *[other] NUTILDYTI { $count } KORTELIŲ
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] ĮJUNGTI GARSĄ KORTELĖJE
-        [one] ĮJUNGTI GARSĄ KORTELĖJE
-        [few] ĮJUNGTI GARSĄ { $count } KORTELĖSE
-       *[other] ĮJUNGTI GARSĄ { $count } KORTELIŲ
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] GROTI KORTELĖJE
-        [one] GROTI KORTELĖJE
-        [few] GROTI { $count } KORTELĖSE
-       *[other] GROTI { $count } KORTELIŲ
-    }
 
 ## Bookmarks toolbar items
 
@@ -485,10 +368,6 @@ sharing-warning-proceed-to-tab =
     .label = Atverti kortelę
 sharing-warning-disable-for-session =
     .label = Išjungti dalinimosi apsaugą šiam seansui
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = Norėdami naudoti spartųjį klavišą „F12“, pirma atverkite saityno kūrėjų priemones iš meniu „Saityno kūrėjams“.
 
 ## URL Bar
 
@@ -549,8 +428,6 @@ urlbar-extension =
     .value = Priedas:
 urlbar-go-button2 =
     .title = Eiti į adreso lauke surinktą adresą
-urlbar-go-button =
-    .tooltiptext = Eiti į adreso lauke surinktą adresą
 urlbar-page-action-button =
     .tooltiptext = Tinklalapio veiksmai
 
@@ -596,22 +473,9 @@ urlbar-result-action-tabtosearch-web = Ieškokite per „{ $engine }“ tiesiai 
 urlbar-result-action-tabtosearch-other-engine = Ieškokite „{ $engine }“ tiesiai iš adreso lauko
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Kopijuoti
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 
 ## Strings used for buttons in the urlbar
 
-urlbar-searchmode-bookmarks =
-    .label = Adresynas
-urlbar-searchmode-tabs =
-    .label = Kortelės
-urlbar-searchmode-history =
-    .label = Žurnalas
-urlbar-searchmode-actions =
-    .label = Veiksmai
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -716,12 +580,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Slėpti adresyno juostą
            *[other] Rodyti adresyno juostą
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Išimti adresyno meniu iš priemonių juostos
-           *[other] Pridėti adresyno meniu į priemonių juostą
-        }
 
 ##
 
@@ -752,14 +610,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = Adresynas
-library-recent-activity-title =
-    .value = Paskiausia veikla
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Įrašyti į „{ -pocket-brand-name }“
-    .tooltiptext = Įrašyti į „{ -pocket-brand-name }“
 
 ## Repair text encoding toolbar button
 
@@ -816,8 +666,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = P
 
 ## Password save/update panel
 
-panel-save-update-username = Naudotojo vardas
-panel-save-update-password = Slaptažodis
 panel-save-update-username-2 =
     .label = Naudotojo vardas
 panel-save-update-password-2 =
@@ -831,24 +679,8 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = Užverti
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = Leisti iškylančiuosius langus iš { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Blokuoti iškylančiuosius langus iš { $uriHost }
-    .accesskey = p
-
 ##
 
-popups-infobar-dont-show-message =
-    .label = Užblokavus iškylančiuosius langus nerodyti šio pranešimo
-    .accesskey = n
-edit-popup-settings =
-    .label = Keisti iškylančiųjų langų nustatymus…
-    .accesskey = K
 picture-in-picture-hide-toggle =
     .label = Slėpti vaizdo-vaizde perjungimą
     .accesskey = S
@@ -872,8 +704,6 @@ navbar-accessible =
     .aria-label = Navigacija
 navbar-downloads =
     .label = Atsiuntimai
-navbar-overflow =
-    .tooltiptext = Daugiau priemonių…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -930,11 +760,6 @@ unified-extensions-button-permissions-needed =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = Baigti privatųjį seansą
-    .tooltiptext = Baigti privatųjį seansą
-reset-pbm-panel-heading = Baigti privatųjį seansą?
-reset-pbm-panel-description = Uždaryti visas privačius korteles ir išvalyti naršymo žurnalą, slapukus, ir visus kitus svetainių duomenis.
 reset-pbm-panel-always-ask-checkbox =
     .label = Visada klausti
     .accesskey = V

@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = 連線設定
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = 連線設定
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = 重新載入
     .accesskey = e
-connection-proxy-autologin =
-    .label = 若已儲存密碼則不要提示驗證
-    .accesskey = i
-    .tooltip = 勾選此選項後，若您已將密碼儲存起來，連線時就不會再詢問您密碼。驗證失敗後才會再向您詢問。
 connection-proxy-autologin-checkbox =
     .label = 若已儲存密碼則不要提示驗證
-    .accesskey = i
     .tooltiptext = 勾選此選項後，若您已將密碼儲存起來，連線時就不會再詢問您密碼。驗證失敗後才會再向您詢問。
+    .accesskey = i
 connection-proxy-socks4-remote-dns =
     .label = 使用 SOCKS v4 時也代理 DNS 查詢
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = 使用預設網址來解析 DNS over HTTPS
 connection-dns-over-https-url-custom =
     .label = 自訂
-    .accesskey = C
     .tooltiptext = 輸入您想要用來解析 DNS over HTTPS 的網址
-connection-dns-over-https-custom-label = 自訂
+    .accesskey = C

@@ -10,4 +10,3 @@ label-interventions = হস্তক্ষেপ
 label-more-information = অধিক তথ্য: বাগ { $bug }
 text-disabled-in-about-config = about:config-ত এই সুবিধা নিষ্ক্ৰিয় কৰা হৈছে
 text-no-interventions = কোনো হস্তক্ষেপ ব্যৱহাৰ হৈ থকা নাই
-text-title = about:compat

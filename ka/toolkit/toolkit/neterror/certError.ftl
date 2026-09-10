@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = სერტიფიკატი სან�
 cert-error-trust-signature-algorithm-disabled = ეს სერტიფიკატი არაა სანდო, ვინაიდან ხელმოწერილია იმ ალგორითმის საშუალებით, რომელიც გაუქმდა დაუცველობის გამო.
 cert-error-trust-expired-issuer = სერტიფიკატი სანდო არაა, რადგან სერტიფიკატის გამცემის მოქმედების ვადა გასულია.
 cert-error-trust-self-signed = სერტიფიკატი სანდო არაა, რადგან საკუთარი ხელმოწერითაა.
-cert-error-trust-symantec = სერტიფიკატები, რომლებიც გამოშვებულია GeoTrust, RapidSSL, Symantec, Thawte და VeriSign დაწესებულებების მიერ, აღარაა მიჩნეული სანდოდ, ვინაიდან ეს ორგანიზაციები არ ითვალისწინებდნენ უსაფრთხოების სათანადო წესებს.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } არ ენდობა { $hostname }-ს, რადგანაც ვერ ადასტურებს, რომ აკმაყოფილებს საჯარო სერტიფიკატის გამჭვირვალობის მოთხოვნებს.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = შეცდომის კოდი: <a data-l10
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = შეცდომა წარმოიშვა, როცა უკავშირდებოდა { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = ვებსაიტები საკუთარ ნამდვილობას ადასტურებენ სერტიფიკატებით, გამოშვებული უფლებამოსილი კომპანიების მიერ. ბრაუზერების უმეტესობაში, აღარ მიიჩნევა სანდოდ სერტიფიკატები, რომლებსაც უშვებს GeoTrust, RapidSSL, Symantec, Thawte და VeriSign. { $hostname } იყენებს ერთ-ერთი ამ გამომშვების მიერ გამოცემულ სერტიფიკატს და შესაბამისად მისი ნამდვილობის დამოწმება ვერ მოხერხდება.
-cert-error-symantec-distrust-admin = შეგიძლიათ აცნობოთ ამ ხარვეზის შესახებ ვებსაიტის ხელმძღვანელობას.
 cert-error-old-tls-version = შესაძლოა, საიტზე არაა მხარდაჭერილი TLS 1.2 ოქმი, ეს კი ის უმცირესი ვერსიაა, რომელსაც საჭიროებს { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Certificate chain:
-open-in-new-window-for-csp-or-xfo-error = საიტის გახსნა ახალ ფანჯარაში
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = თქვენივე უსაფრთხოებისთვის { $hostname } არ იძლევა ნებართვას და { -brand-short-name } ვერ აჩვენებს გვერდს, რომელიც სხვა საიტზეა ჩამაგრებული. ამ გვერდის სანახავად მისი ცალკე ფანჯარაში გახსნა მოგიწევთ.
 fp-certerror-view-certificate-link = იხილეთ საიტის სერტიფიკატი
 fp-certerror-return-to-previous-page-recommended-button-2 = უკან დაბრუნება (სასურველია)
     .accesskey = ს
-fp-certerror-return-to-previous-page-recommended-button = უკან დაბრუნება (სასურველია)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -179,8 +172,6 @@ deniedPortAccess-title = ეს მისამართი შეზღუდ�
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = ჰმ. გვერდი არ იხსნება.
 internet-connection-offline-title = რაღაც ხარვეზია ქსელთან კავშირისას.
-dns-not-found-trr-only-title2 = შესაძლო საფრთხე ამ მისამართის მოძიებისას
-dns-not-found-native-fallback-title2 = შესაძლო საფრთხე ამ მისამართის მოძიებისას
 fileNotFound-title = ფაილი ვერ მოიძებნა
 fileAccessDenied-title = ფაილთან წვდომა უარყოფილია.
 generic-title = მოთხოვნის დასრულება ვერ ხერხდება
@@ -205,7 +196,6 @@ unknownSocketType-title = გაუთვალისწინებელი �
 nssFailure2-title = უსაფრთხო დაკავშირება ვერ მოხერხდა
 csp-xfo-error-title = { -brand-short-name } ვერ ხსნის ამ გვერდს
 corruptedContentErrorv2-title = დაზიანებული შიგთავსის შეცდომა
-corruptedContentError-title = დაზიანებული შიგთავსის შეცდომა
 sslv3Used-title = უსაფრთხო კავშირი ვერ ხერხდება
 inadequateSecurityError-title = კავშირი დაუცველია
 blockedByPolicy-title = გვერდი შეზღუდულია
@@ -228,7 +218,6 @@ fp-certerror-hide-advanced-button = შემოკლებულად
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = მაინც გაიხსნას { $hostname } (სახიფათოა)
 fp-certerror-intro = { -brand-short-name } მიიჩნევს, რომ <strong>{ $hostname }</strong> საფრთხის შემცველია. სხვა საიტად გასაღების მცდელობისას შეიძლება მოიპარონ საკრედიტო ბარათის მონაცემები, პაროლები ან ელფოსტა.
 fp-certerror-expired-into = { -brand-short-name } მიიჩნევს, რომ <strong>{ $hostname }</strong> საფრთხის შემცველია. ან საიტია გაუმართავი, ან თქვენი საათია არეული.
 fp-certerror-transparency-intro = ვიღაც, თავს ასაღებს საიტად <strong>{ $hostname }</strong> და შეიძლება ეცადოს თქვენი ინფორმაციის მოპარვას, მათ შორის მომხმარებლის სახელის, პაროლისა თუ ელფოსტის.

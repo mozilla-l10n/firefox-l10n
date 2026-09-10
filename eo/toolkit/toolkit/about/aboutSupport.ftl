@@ -29,10 +29,6 @@ security-software-name = Nomo
 security-software-antivirus = Kontraŭvirusa programo
 security-software-antispyware = Kontraŭspiona programo
 security-software-firewall = Retbarilo
-features-title = Trajtoj de { -brand-short-name }
-features-name = Nomo
-features-version = Versio
-features-id = ID
 processes-title = Fora procezo
 processes-type = Tipo
 processes-count = Nombro
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] Dosierujo de profiloj
        *[other] Dosierujo de profiloj
     }
-app-basics-enabled-plugins = Aktivaj kromprogramoj
 app-basics-build-config = Agordoj de konstruado
 app-basics-user-agent = Agento de uzanto
 app-basics-os = OS
@@ -96,9 +91,6 @@ show-dir-label =
 environment-variables-title = Ĉirkaŭaĵaj variantoj
 environment-variables-name = Nomo
 environment-variables-value = Valoro
-experimental-features-title = Eksperimentaj trajtoj
-experimental-features-name = Nomo
-experimental-features-value = Valoro
 modified-key-prefs-title = Modifitaj preferoj
 modified-prefs-name = Nomo
 modified-prefs-value = Valoro
@@ -220,9 +212,6 @@ media-cdm-capabilities = Kapabloj
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Neĉifrita komenco
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = Kongrua kun HDCP 2.2
 
 ##
 
@@ -394,8 +383,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Malaktivigita de eksperimento
-fission-status-experiment-treatment = Aktivigita de eksperimento
 fission-status-disabled-by-e10s-env = Malaktivigita de ĉirkaŭaĵo
 fission-status-enabled-by-env = Aktivita de ĉirkaŭajo
 fission-status-disabled-by-env = Malaktivigita de ĉirkaŭaĵo
@@ -404,7 +391,6 @@ fission-status-disabled-by-default = Norme malaktivigita
 fission-status-enabled-by-user-pref = Aktivigita de uzanto
 fission-status-disabled-by-user-pref = Malaktivigita de uzanto
 fission-status-disabled-by-e10s-other = E10s malaktiva
-fission-status-enabled-by-rollout = Aktivigita de laŭgrada livero
 async-pan-zoom = Nesinkrona panoramado kaj skaligo
 apz-none = neniu
 wheel-enabled = rada enigo aktiva

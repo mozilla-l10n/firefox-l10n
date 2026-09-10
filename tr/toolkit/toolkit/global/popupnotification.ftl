@@ -8,6 +8,3 @@ popup-notification-more-actions-button =
 popup-notification-default-button2 =
     .label = Tamam
     .accesskey = T
-popup-notification-default-button =
-    .label = Tamam!
-    .accesskey = m

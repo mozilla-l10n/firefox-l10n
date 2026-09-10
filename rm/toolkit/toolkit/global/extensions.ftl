@@ -10,12 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = Agiuntar { $extension }?
-webext-perms-header-with-perms = Agiuntar { $extension }? Questa extensiun vegn ad avair las permissiuns per:
-webext-perms-header-unsigned = Agiuntar { $extension }? Questa extensiun n'è betg verifitgada. Extensiuns donnegiusas pon engular tias infurmaziuns privatas u cumprometter tes computer. L'installescha mo sche ti ta fidas da la funtauna.
-webext-perms-header-unsigned-with-perms = Agiuntar { $extension }? Questa extensiun n'è betg verifitgada. Extensiuns donnegiusas pon engular tias infurmaziuns privatas u cumprometter tes computer. L'installescha mo sche ti ta fidas da la funtauna. Questa extensiun vegn ad avair las permissiuns per:
 webext-perms-sideload-header = Agiuntà { $extension }
-webext-perms-optional-perms-header = { $extension } dumonda ulteriuras autorisaziuns.
 
 ##
 
@@ -33,9 +28,6 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Interrumper
     .accesskey = I
-# Variables:
-#   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } è vegnì actualisà. Ti stos acceptar las novas permissiuns avant che la versiun actualisada vegn installada. Sche ti tschernas «Interrumper», vegn la versiun actuala da l'extensiun mantegnida. Questa extensiun vegn ad avair las permissiuns per:
 webext-perms-update-accept =
     .label = Actualisar
     .accesskey = A
@@ -51,24 +43,8 @@ webext-perms-host-description-all-urls = Acceder a tias datas per tut las websit
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Acceder a tias datas per paginas en la domena { $domain }
 # Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-wildcards =
-    { $domainCount ->
-        [one] Acceder a tias datas en { $domainCount } autra domena
-       *[other] Acceder a tias datas en { $domainCount } autras domenas
-    }
-# Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Acceder a tias datas per { $domain }
-# Variables:
-#   $domainCount (Number): Integer indicating the number of additional
-#     hosts for which this webextension is requesting permission.
-webext-perms-host-description-too-many-sites =
-    { $domainCount ->
-        [one] Acceder a tias datas sin { $domainCount } autra pagina
-       *[other] Acceder a tias datas sin { $domainCount } autras paginas
-    }
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
 #     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).

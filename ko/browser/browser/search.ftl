@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>기본 검색 엔진이 변경되었습니다.</strong> { $oldEngine } 검색 엔진은 { -brand-short-name }에서 더 이상 기본 검색 엔진으로 사용할 수 없습니다. { $newEngine } 검색 엔진이 이제 기본 검색 엔진입니다. 다른 기본 검색 엔진으로 변경하려면 설정으로 이동하세요. <label data-l10n-name="remove-search-engine-article">더 알아보기</label>
 removed-search-engine-message2 = <strong>기본 검색 엔진이 변경되었습니다.</strong> { $oldEngine } 검색 엔진은 { -brand-short-name }에서 더 이상 기본 검색 엔진으로 사용할 수 없습니다. { $newEngine } 검색 엔진이 이제 기본 검색 엔진입니다. 다른 기본 검색 엔진으로 변경하려면 설정으로 이동하세요.
 remove-search-engine-button = 확인
 
@@ -52,11 +51,11 @@ install-search-engine-no = 아니오
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = 검색 엔진 추가
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = 검색 엔진 편집
     .style = min-width: 32em;
+    .title = 검색 엔진 편집
 add-engine-button = 사용자 지정 엔진 추가
 add-engine-name = 검색 엔진 이름
 add-engine-url2 = 검색어 대신 %s를 사용한 URL
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = 검색어 대신 %s를 사용해 보세요.
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = 엔진 추가
-    .buttonaccesskeyaccept = A
     .buttonlabelextra1 = 고급
+    .buttonaccesskeyaccept = A
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = 엔진 저장
-    .buttonaccesskeyaccept = S
     .buttonlabelextra1 = 고급
+    .buttonaccesskeyaccept = S

@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = 您目前使用 FIPS 模式。FIPS 模式�
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = 重設主控密碼
     .style = min-width: 40em
+    .title = 重設主控密碼
 reset-password-button-label =
     .label = 重設
 reset-primary-password-text = 如果要重設主控密碼，您所有的網頁與電子郵件密碼、個人憑證、私密金鑰等資訊都會被清除。確定要重設主控密碼嗎？
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = 成功重設您的主控密碼。
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = 下載憑證
     .style = min-width: 46em
+    .title = 下載憑證
 download-cert-message = 您被要求信任一個新憑證機構 (CA)。
 download-cert-trust-ssl =
     .label = 信任此憑證機構以識別網站。
@@ -52,8 +52,6 @@ download-cert-view-text = 檢查憑證機構的憑證
 
 client-auth-window =
     .title = 使用者識別需求
-client-auth-site-description = 此網站要求您提供可用來識別您自己的憑證:
-client-auth-choose-cert = 選擇一項憑證以做為識別:
 client-auth-send-no-certificate =
     .label = 不要傳送憑證
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = 請使用安全裝置（{ $tokenName }）進行驗證。驗證方式須依裝置而定（例如進行指紋辨識或輸入密碼）。
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = 請驗證 token「{ $tokenName }」。驗證方式須依裝置而定（例如進行指紋辨識或輸入密碼）。

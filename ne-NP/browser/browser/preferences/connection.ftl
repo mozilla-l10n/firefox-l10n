@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = जडान सेटिङहरू
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = जडान सेटिङहरू
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -51,14 +51,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = फेरी पेजको सामग्री भर्नुहोस
     .accesskey = e
-connection-proxy-autologin =
-    .label = यदि गोप्यशब्द सङ्ग्रह गरिएको छ भने गोप्यशब्द प्रमाणीकरणको लागि झक्झक्याउने नगर्नुहोस्
-    .accesskey = i
-    .tooltip = यो विकल्पले तपाईँलाई सुचना नदिई प्रोक्सीहरू सामु तपाईँको पहिचान स्थापना गराउँछ यदि ती प्रोक्सीहरूका प्रमाणपत्र सङ्ग्रह गर्नुभएको खण्डमा। पहिचान स्थापना गराउन असफल भएमा तपाईँलाई सुचना दिइनेछ।
 connection-proxy-autologin-checkbox =
     .label = यदि गोप्यशब्द सङ्ग्रह गरिएको छ भने गोप्यशब्द प्रमाणीकरणको लागि झक्झक्याउने नगर्नुहोस्
-    .accesskey = i
     .tooltiptext = यो विकल्पले तपाईँलाई सुचना नदिई प्रोक्सीहरू सामु तपाईँको पहिचान स्थापना गराउँछ यदि ती प्रोक्सीहरूका प्रमाणपत्र सङ्ग्रह गर्नुभएको खण्डमा। पहिचान स्थापना गराउन असफल भएमा तपाईँलाई सुचना दिइनेछ।
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = SOCKS v5 प्रयोग गर्दा DNS प्रोक्सी गर्नुहोस्
     .accesskey = द

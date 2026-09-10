@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = ההרחבה לא יכולה לקרוא ולשנות נתונים
-origin-controls-quarantined =
-    .label = ההרחבה אינה מורשית לקרוא ולשנות נתונים
 origin-controls-quarantined-status =
     .label = הרחבה לא מותרת באתרים מוגבלים
 origin-controls-quarantined-allow =

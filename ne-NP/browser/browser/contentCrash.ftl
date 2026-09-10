@@ -18,13 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] तपाईँसँग नबुझाइएको क्र्यास रिपोर्ट रहेको छ
-       *[other] तपाईँसँग { $reportCount } नबुझाइएका क्र्यास रिपोर्टहरू रहेका छन्।
-    }
 pending-crash-reports-view-all =
     .label = हेर्नुहोस्
 pending-crash-reports-send =

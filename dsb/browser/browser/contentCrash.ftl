@@ -18,15 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Maśo njewótpósłanu rozpšawu wowalenja
-        [two] Maśo { $reportCount } njewótpósłanej rozpšawje wowalenja
-        [few] Maśo { $reportCount } njewótpósłane rozpšawy wowalenja
-       *[other] Maśo { $reportCount } njewótpósłanych rozpšawow wowalenja
-    }
 pending-crash-reports-view-all =
     .label = Pokazaś
 pending-crash-reports-send =
@@ -41,15 +32,6 @@ requested-crash-reports-message-new =
         [two] Maśo { $reportCount } njepósłanej rozpšawje wowalenjowu, kótarejž se na wowalenja póśěgujotej, kótarež se pśepytuju; gaž je sćelośo, pomagaśo nam { -brand-product-name } pólěpšyś. Gaž toś tu powěźeńku zacynjaśo, se toś te rozpšawy ignorěruju.
         [few] Maśo { $reportCount } njepósłane rozpšawy wowalenjow, kótarež se na wowalenja póśěguju, kótarež se pśepytuju; gaž je sćelośo, pomagaśo nam { -brand-product-name } pólěpšyś. Gaž toś tu powěźeńku zacynjaśo, se toś te rozpšawy ignorěruju.
        *[other] Maśo { $reportCount } njepósłanych rozpšawow wowalenjow, kótarež se na wowalenja póśěguju, kótarež se pśepytuju; gaž je sćelośo, pomagaśo nam { -brand-product-name } pólěpšyś. Gaž toś tu powěźeńku zacynjaśo, se toś te rozpšawy ignorěruju.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Maśo { $reportCount } njepósłanych rozpšawow wowalenjow, kótaraž wowalenjam wótpowědujo, kótarež se wuslěźuju. Gaž ju sćelośo, pomagaśo nam, { -brand-product-name } pólěpšyś. Gaž toś tu powěźeńku zacynjaśo, se toś ta rozpšawa ignorěrujo.
-        [two] Maśo { $reportCount } njepósłanej rozpšawje wowalenjow, kótarejž wowalenjam wótpowědujotej, kótarež se wuslěźuju. Gaž jej sćelośo, pomagaśo nam, { -brand-product-name } pólěpšyś. Gaž toś tu powěźeńku zacynjaśo, se toś tej rozpšawje ignorěrujotej.
-        [few] Maśo { $reportCount } njepósłane rozpšawy wowalenjow, kótarež wowalenjam wótpowěduju, kótarež se wuslěźuju. Gaž je sćelośo, pomagaśo nam, { -brand-product-name } pólěpšyś. Gaž toś tu powěźeńku zacynjaśo, se toś te rozpšawy ignorěruju.
-       *[other] Maśo { $reportCount } njepósłanych rozpšawow wowalenjow, kótarež wowalenjam wótpowědujo, kótarež se wuslěźuju. Gaž je sćelośo, pomagaśo nam, { -brand-product-name } pólěpšyś. Gaž toś tu powěźeńku zacynjaśo, se toś te rozpšawy ignorěruju.
     }
 requested-crash-reports-dont-show-again =
     .label = Wěcej se njepokazaś

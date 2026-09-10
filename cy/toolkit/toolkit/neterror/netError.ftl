@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Mynd Nôl
 neterror-return-to-previous-page-recommended-button = Ewch Nôl (Argymell)
 neterror-try-again-button-2 = Ceisio eto
     .accesskey = C
-neterror-try-again-button = Ceisiwch eto
 neterror-add-exception-button = Parhau bob tro ar gyfer y wefan hon
 neterror-settings-button = Newid gosodiadau DNS
 neterror-view-certificate-link = Darllen Tystysgrif
-neterror-trr-continue-this-time = Parhau'r tro yma
-neterror-disable-native-feedback-warning = Parhau bob tro
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = Dysgu rhagor
 ##
 
 neterror-pref-reset = Mae'n edrych fel mai eich gosodiadau diogelwch rhwydwaith sy'n achosi hyn. Hoffech chi adfer y gosodiadau rhagosodedig?
-neterror-error-reporting-automatic = Mae adroddiadau gwall fel hyn y cynorthwyo { -vendor-short-name } i adnabod a rhwystro gwefannau maleisus
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Datgysylltwch ac ailgysylltu â'
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = Nid yw { -brand-short-name } yn gallu diogelu eich cais am gyfeiriad y wefan hon trwy ein datryswr DNS dibynadwy. Dyma pam:
 neterror-dns-not-found-trr-only-reason2 = Nid yw { -brand-short-name } yn gallu diogelu eich cais am gyfeiriad y wefan hon trwy ein darparwr DNS dibynadwy. Dyma pam:
 neterror-dns-not-found-trr-third-party-warning2 = Gallwch barhau â datryswr DNS nad yw'n ddiogel. Fodd bynnag, efallai y bydd trydydd parti yn gallu gweld pa wefannau rydych chi'n ymweld â nhw.
 neterror-dns-not-found-trr-only-could-not-connect = Nid oedd modd i { -brand-short-name } gysylltu â { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Cymerodd y cysylltiad i { $trrDomain } fwy o amser na'r disgwyl.
-neterror-dns-not-found-trr-offline = Nid ydych wedi'ch cysylltu â'r rhyngrwyd.
 neterror-dns-not-found-trr-unknown-host2 = Nid yw { $trrDomain } wedi canfod y wefan hon.
 neterror-dns-not-found-trr-server-problem = Bu anhawster gyda { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = URL annilys.
 neterror-dns-not-found-system-sleep = Mae'r system yn y modd cysgu.
 neterror-dns-not-found-trr-unknown-problem = Anhawster annisgwyl.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = Nid yw { -brand-short-name } yn gallu diogelu eich cais am gyfeiriad y wefan hon trwy ein datryswr DNS dibynadwy. Dyma pam:
-neterror-dns-not-found-native-fallback-heuristic = Mae DNS dros HTTPS wedi'i analluogi ar eich rhwydwaith.
-neterror-dns-not-found-native-fallback-not-confirmed2 = Nid oedd modd i { -brand-short-name } gysylltu â { $trrDomain }.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = Gall ei fod wedi ei dynnu, symud neu fod caniatâd ffei
 neterror-unknown-protocol = Efallai bydd angen i chi osod meddalwedd arall i agor y cyfeiriad yma.
 neterror-redirect-loop = Gall y broblem yma fod wedi ei hachosi drwy analluogi neu wrthod cwci.
 neterror-unknown-socket-type-client-config = Galla hyn fod oherwydd gwall ffurfweddu gyda'ch rhaglen.
-neterror-unknown-socket-type-psm-installed = Gwiriwch fod gan eich system Reolwr Diogelwch Personol wedi ei osod.
-neterror-unknown-socket-type-server-config = Gall hyn fod oherwydd ffurfweddiad ansafonol ar y gweinydd.
 neterror-not-cached-intro = Nid yw'r ddogfen gofynnwyd amdani ar gael yn storfa dros dro { -brand-short-name }.
 neterror-not-cached-sensitive = Fel cam i sicrhau diogelwch nid yw { -brand-short-name } yn gofyn eto am ddogfennau sensitif.
 neterror-not-cached-try-again = Cliciwch Ceisio Eto i ofyn eto am y ddogfen o'r wefan.

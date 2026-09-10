@@ -128,15 +128,10 @@ addon-sitepermission-host = { $host }కి సైటు అనుమతుల�
 
 ## These are global warnings
 
-extensions-warning-safe-mode = అన్ని పొడిగింతలు సేఫ్ మోడ్ చేత అచేతనపరచబడినవి.
-extensions-warning-check-compatibility = పొడిగింత సారూప్యతా పరిశీలన అచేతనమైంది. మీరు సారూప్యతలేని పొడిగింతలు కలిగివుండవచ్చును.
-extensions-warning-safe-mode2 =
-    .message = అన్ని పొడిగింతలు సేఫ్ మోడ్ చేత అచేతనపరచబడినవి.
 extensions-warning-check-compatibility2 =
     .message = పొడిగింత సారూప్యతా పరిశీలన అచేతనమైంది. మీరు సారూప్యతలేని పొడిగింతలు కలిగివుండవచ్చును.
 extensions-warning-check-compatibility-button = చేతనపరచు
     .title = పొడిగింత సారూప్యతా పరిశీలనను చేతనపరచు
-extensions-warning-update-security = పొడిగింత నవీకరణ రక్షణ పరిశీలన అచేతనమైంది. మీ జోక్యం లేకుండా నవీకరణలు జరుగవచ్చు.
 extensions-warning-update-security2 =
     .message = పొడిగింత నవీకరణ రక్షణ పరిశీలన అచేతనమైంది. మీ జోక్యం లేకుండా నవీకరణలు జరుగవచ్చు.
 extensions-warning-update-security-button = చేతనపరచు
@@ -186,10 +181,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations =
-    వీటిలో కొన్ని పొడగింతలు వ్యక్తిగతీకరించబడ్డాయి. అవి మీరు స్థాపించుకున్న
-    ఇతర పొడగింతలు, ప్రొఫైలు అభిరుచులు, వాడుక గణాంకాలపై ఆధారపడినవి.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
@@ -294,24 +285,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } అనునది { -brand-short-name } { $version } తో సారూప్యంగా లేదు.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } అనునది { -brand-short-name } { $version } తో సారూప్యంగా లేదు.
-details-notification-unsigned-and-disabled = { -brand-short-name }‌లో వాడుకకు { $name }‌ను తనిఖీ చేయలేకున్నాం కనుక అచేతనం చేసాం.
 details-notification-unsigned-and-disabled2 =
     .message = { -brand-short-name }‌లో వాడుకకు { $name }‌ను తనిఖీ చేయలేకున్నాం కనుక అచేతనం చేసాం.
-details-notification-unsigned-and-disabled-link = మరింత సమాచారం
-details-notification-unsigned = { -brand-short-name }‌లో వాడుకకు { $name }‌ను తనిఖీ చేయబడలేదు. జాగ్రత్తతో కొనసాగండి.
 details-notification-unsigned2 =
     .message = { -brand-short-name }‌లో వాడుకకు { $name }‌ను తనిఖీ చేయబడలేదు. జాగ్రత్తతో కొనసాగండి.
-details-notification-unsigned-link = మరింత సమాచారం
-details-notification-blocked = రక్షణ లేదా స్థిరత్వ సమస్యల కారణంగా { $name } అచేతనపరచబడింది.
-details-notification-blocked-link = మరింత సమాచారం
-details-notification-softblocked = { $name } రక్షణ లేదా స్థిరత్వ సమస్యలకు కారణం.
-details-notification-softblocked-link = మరింత సమాచారం
-details-notification-gmp-pending = { $name } త్వరలో స్థాపించబడుతుంది.
 details-notification-gmp-pending2 =
     .message = { $name } త్వరలో స్థాపించబడుతుంది.
 

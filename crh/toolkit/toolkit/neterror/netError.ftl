@@ -23,13 +23,11 @@ neterror-override-exception-button = Riskni Qabul Et ve Devam Et
 neterror-pref-reset-button = Ögbelgilengen ayarlarnı keri tikle
 neterror-return-to-previous-page-button = Keri Bar
 neterror-return-to-previous-page-recommended-button = Keri Bar (Tevsiyeli)
-neterror-try-again-button = Yañıdan Deñe
 neterror-view-certificate-link = Şeadetnameni Köster
 
 ##
 
 neterror-pref-reset = Bunıñ müsebbibi şebeke emniyeti ayarları olabilir kibi körüne. Ögbelgilengen ayarlarnıñ keri tiklenmesini isteysiñizmi?
-neterror-error-reporting-automatic = { -vendor-short-name }’ğa fena-niyetli saytlarnı teşhis etip bloklamağa yardım etmek üzre bunıñ kibi hatalarnı maruza et
 
 ## Specific error messages
 
@@ -46,8 +44,6 @@ neterror-file-not-found-moved = Dosyeniñ avuştırılğan, kene adlandırılğa
 neterror-access-denied = Çetleştirilgen yaki avuştırılğan olabilir ya da belki dosye ruhsetleri irişimni öñley.
 neterror-unknown-protocol = Bu adresni açmaq içün belki başqa yazılımnı qurmağa muhtacsıñız.
 neterror-redirect-loop = Bazan bu meseleniñ sebebi çöreklerniñ ğayrıqabilleştirilgen oluvı yaki red etilüvi olabilir.
-neterror-unknown-socket-type-psm-installed = Sistemiñizde Şahsiy Emniyet İdarecisi qurulğan olğanından emin oluñız.
-neterror-unknown-socket-type-server-config = Bunıñ sebebi, sunucınıñ na-standart ayarlaması olabilir.
 neterror-not-cached-intro = İstengen vesiqa { -brand-short-name } zulasında faydalanışlı degildir.
 neterror-not-cached-sensitive = Bir emniyet ihtiyatı olaraq, { -brand-short-name } hassas vesiqalarnı avtomatik olaraq kene istemez.
 neterror-not-cached-try-again = Vesiqanı ağ saytından kene istemek içün Yañıdan Deñe'ge çertiñiz.

@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Składowane adresy
 autofill-manage-addresses-list-header = Adresy
-autofill-manage-credit-cards-title = Składowane kreditne karty
-autofill-manage-credit-cards-list-header = Kreditne karty
 autofill-manage-payment-methods-title = Składowane płaćenske metody
 autofill-manage-cards-list-header = Karty
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = Meni wočinić
 address-capture-edit-address-link = Adresu wobdźěłać
     .aria-label = Adresu wobdźěłać
-address-capture-edit-address-button =
-    .aria-label = Adresu wobdźěłać
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Adresu přidać
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Adresu wobdźěłać
-autofill-address-given-name = Předmjeno
-autofill-address-additional-name = Druhe předmjeno
-autofill-address-family-name = Swójbne mjeno
 autofill-address-name = Mjeno
 autofill-address-organization = Organizacija
 autofill-address-street-address = Dróhowa adresa
@@ -104,8 +97,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Nowu adresu přidać
 autofill-address-country = Kraj abo region
 autofill-address-country-only = Kraj
 autofill-address-tel = Telefon
@@ -114,18 +105,6 @@ autofill-cancel-button = Přetorhnyć
 autofill-save-button = Składować
 autofill-country-warning-message-2 = Awtomatiske wupjelnjenje formularow je tuchwilu jenož za wěste kraje k dispoziciji.
 autofill-country-warning-message = Awtomatiske wupjelnjenje formularow je tuchwilu jenož za wěste kraje k dispoziciji.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Nowu kreditnu kartu přidać
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Kreditnu kartu wobdźěłać
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] informacije kreditneje karty pokazać
-        [windows] { -brand-short-name } pospytuje, daty kreditneje karty pokazać. Wobkrućće přistup k Windowsowemu kontu deleka.
-       *[other] { -brand-short-name } pospytuje, daty kreditneje karty pokazać.
-    }
 autofill-message-tooltip = Zdźělenku wo awtomatiskim wupjelnjenju pokazać
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Kartu přidać
@@ -211,15 +190,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = Pućowanske pasy ženje njeskładować
     .accessKey = P
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

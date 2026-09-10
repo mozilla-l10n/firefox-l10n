@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Kuva Finderis
            *[other] Ava faili sisaldav kaust
         }
-downloads-cmd-show-downloads =
-    .label = Kuva allalaadimiste kausta
 downloads-cmd-retry =
     .tooltiptext = Proovi uuesti
 downloads-cmd-retry-panel =

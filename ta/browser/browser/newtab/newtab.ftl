@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = புதிய கீற்று
-newtab-settings-button =
-    .title = உங்கள் புதிய கீற்றுப் பக்கத்தை விருப்பமை
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -51,7 +49,6 @@ newtab-search-box-search-button =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = தேடுபொறியைச் சேர்
-newtab-topsites-edit-topsites-header = முக்கிய தளத்தை தொகு
 newtab-topsites-title-label = தலைப்பு
 newtab-topsites-title-input =
     .placeholder = தலைப்பை இடு
@@ -90,10 +87,6 @@ newtab-menu-section-tooltip =
 newtab-menu-content-tooltip =
     .aria-label = { $title } என்பதற்கான உள்ளடக்க பட்டியலைத் திற
     .title = பட்டியைத் திற
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = இத்தளத்தை தொகு
-    .title = இத்தளத்தை தொகு
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -104,9 +97,6 @@ newtab-menu-dismiss = வெளியேற்று
 newtab-menu-pin = பொருத்து
 newtab-menu-unpin = விடுவி
 newtab-menu-delete-history = வரலாற்றிலருந்து அழி
-newtab-menu-save-to-pocket = { -pocket-brand-name } ல் சேமி
-newtab-menu-delete-pocket = { -pocket-brand-name } லிருந்து நீக்கு
-newtab-menu-archive-pocket = { -pocket-brand-name } ல் காப்பெடு
 
 ##
 
@@ -146,38 +136,15 @@ newtab-label-download = பதிவிறக்கப்பட்டது
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = பகுதியை நீக்கவும்
-newtab-section-menu-collapse-section = பகுதியைச் சுருக்கு
-newtab-section-menu-expand-section = பகுதியை விரி
-newtab-section-menu-manage-section = பகுதியை நிர்வகி
-newtab-section-menu-manage-webext = நீட்சிகளை நிர்வகி
-newtab-section-menu-add-topsite = முதன்மை தளத்தைச் சேர்
-newtab-section-menu-add-search-engine = தேடுபொறியைச் சேர்
-newtab-section-menu-move-up = மேலே நகர்த்து
-newtab-section-menu-move-down = கீழே நகர்த்து
 newtab-section-menu-privacy-notice = தனியுரிமை அறிவிப்பு
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = பகுதியைச் சுருக்கு
-newtab-section-expand-section-label =
-    .aria-label = பகுதியை விரி
 
 ## Section Headers.
 
 newtab-section-header-topsites = சிறந்த தளங்கள்
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } என்பவரால் பரிந்துரைக்கப்பட்டது
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = உலாவலைத் தொடங்கவும், மேலும் நாங்கள் சில சிறந்த கட்டுரைகள், காணொளிகள், மற்றும் நீங்கள் சமீபத்தில் பார்த்த அல்லது புத்தகக்குறியிட்ட பக்கங்களை இங்கே காட்டுவோம்.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = நீங்கள் முடித்துவிட்டீர்கள். { $provider } இலிருந்து கூடுதல் கதைகளுக்கு பின்னர் பாருங்கள். காத்திருக்க முடியவில்லையா? இணையத்திலிருந்து கூடுதலான கதைகளைக் கண்டுபிடிக்க பிரபலமான தலைப்பைத் தேர்ந்தெடுங்கள்.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -187,14 +154,6 @@ newtab-discovery-empty-section-topstories-try-again-button = மீண்டு�
 newtab-discovery-empty-section-topstories-loading = ஏற்றுகிறது…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = அச்சச்சோ! நாங்கள் கிட்டத்தட்ட இந்தப் பகுதியை ஏற்றினோம், ஆனால் சரி இல்லை.
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = பிரபலமான தலைப்புகள்:
-newtab-pocket-more-recommendations = மேலும் பரிந்துரைகள்
-newtab-pocket-cta-button = { -pocket-brand-name } ஐ பெறுக
-newtab-pocket-cta-text = { -pocket-brand-name } நீங்கள் விரும்பும் கதையைச் சேமித்தால், அதுவே உங்கள் மனதை வெள்ளும் வாசித்தலைத் தரும்.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

@@ -52,7 +52,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     Datuak grabatu eta aurkitzeko modu ezberdinei buruzko azalpenetarako, egin erreferentzia
     <strong>Datuei buruz</strong> fitxari.
-about-glean-about-testing-header = Probei buruz
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     Jarraibide osoak
@@ -61,8 +60,6 @@ about-glean-manual-testing =
     baina motzean, zure instrumentazioa badabilela eskuz probatzeko ondorengoa egin behar zenuke:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (ez bidali ping-ik)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Aurreko eremuan ziurtatu arazketarako etiketa gogoangarri bat dagoela, ondoren zure ping-ak antzeman ahal izan ditzazun.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Ezarri arazketarako etiketa gogoangarri bat <span>(20 karaktere edo gutxiago, alfazenbakiak eta - soilik) </span> geroago zure ping-ak antzeman ahal izan ditzazun.
 # An in-line drop down list precedes this string.
@@ -88,13 +85,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Bisitatu '{ glean-debug-ping-viewer-brand-name }' orria zure etiketa duten ping-ak ikusteko</a>.
     Ez luke segundo gutxi batzuk baino gehiago hartu behar botoia sakatzetik zure ping-a iristera.
     Batzuetan minutu gutxi batzuk har litzake.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    Kasuan kasuko proba gehiagorako,
-    instrumentazio-pieza zehatz baten balioa garatzaile-tresnen bidez ere jakin dezakezu,
-    <code>about:glean</code> helbidean garatzaile-kontsola irekiz eta
-    <code>testGetValue()</code> APIa erabiliz
-    <code>Glean.metricCategory.metricName.testGetValue()</code> gisa.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     Kasuan kasuko proba gehiagorako,
@@ -199,9 +189,6 @@ about-glean-no-data-to-display = Ez dago bistaratzeko daturik.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code> neurkerek ez dute euskarririk oraindik <code>about:glean</code> ikuspegian.
 about-glean-unknown-metric-type-warning = Neurkera mota ezezaguna.
-about-glean-about-data-explanation =
-    Biltzen den datu-zerrenda arakatzeko, begiratu
-    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Hiztegia</a>.
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

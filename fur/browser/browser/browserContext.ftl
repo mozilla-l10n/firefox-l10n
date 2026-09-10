@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Torne indaûr di une pagjine ({ $shortcut })
     .aria-label = Indaûr
+    .tooltiptext = Torne indaûr di une pagjine ({ $shortcut })
     .accesskey = D
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Va indenant di une pagjine ({ $shortcut })
     .aria-label = Indenant
+    .tooltiptext = Va indenant di une pagjine ({ $shortcut })
     .accesskey = I
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name(capitalization: "uppercase") }
-    .tooltiptext = { -fxaccount-brand-name(capitalization: "uppercase") }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Zonte pagjine tai segnelibris…
-    .accesskey = Z
     .tooltiptext = Zonte la pagjine tai segnelibris
+    .accesskey = Z
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Zonte pagjine tai segnelibris…
-    .accesskey = Z
     .tooltiptext = Zonte la pagjine ({ $shortcut }) tai segnelibris
+    .accesskey = Z
 main-context-menu-edit-bookmark =
     .aria-label = Modifiche segnelibri…
-    .accesskey = M
     .tooltiptext = Modifiche il segnelibri
+    .accesskey = M
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Modifiche segnelibri…
-    .accesskey = M
     .tooltiptext = Modifiche il segnelibri ({ $shortcut })
+    .accesskey = M
 main-context-menu-open-link =
     .label = Vierç colegament
     .accesskey = V
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Salve destinazion cul non…
     .accesskey = S
-main-context-menu-save-link-to-pocket =
-    .label = Salve colegament su { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Ative la sincronizazion
 main-context-menu-send-to-mobile-connect-phone3 = Conet un dispositîf par mandâ schedis
 main-context-menu-send-to-mobile-connect-phone-from-link = Conet un dispositîf par mandâ un colegament
 main-context-menu-send-to-mobile-connect-phone-from-page = Conet un dispositîf par mandâ une pagjine
-main-context-menu-save-to-pocket =
-    .label = Salve pagjine su { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Mande pagjine a dispositîf
-    .accesskey = d
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Dopre credenziâl salvade
-    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Dopre password salvade
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Dopre une mascare di pueste eletroniche { -relay-brand-short-name }
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = Sugjerìs password complesse…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = Gjestìs lis credenziâls
-    .accesskey = G
 main-context-menu-manage-passwords =
     .label = Gjestìs passwords
     .accesskey = G
-main-context-menu-keyword =
-    .label = Zonte une peraule clâf par cheste ricercje…
-    .accesskey = p
 main-context-menu-add-engine =
     .label = Zonte motôr di ricercje
     .accesskey = Z
@@ -393,9 +366,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Cature videade
     .accesskey = t
-main-context-menu-take-frame-screenshot =
-    .label = Cature une videade
-    .accesskey = i
 main-context-menu-view-page-source =
     .label = Visualize il codiç sorzint de pagjine
     .accesskey = ç

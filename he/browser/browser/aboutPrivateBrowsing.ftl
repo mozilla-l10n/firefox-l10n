@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = פתיחת חלון פרטי
     .accesskey = פ
 about-private-browsing-search-placeholder = חיפוש ברשת
-about-private-browsing-info-title = גלישה זו מתרחשת בחלון פרטי
 about-private-browsing-search-btn =
     .title = חיפוש ברשת
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = ‏ניתן לחפש עם { $engine } או להקליד כתובת
 about-private-browsing-handoff-text-no-engine = חיפוש או הכנסת כתובת
 about-private-browsing-not-private = אינך כעת בחלון גלישה פרטית.
-about-private-browsing-info-description-private-window = חלון פרטי: { -brand-short-name } מנקה את היסטוריית החיפוש והגלישה שלך בעת סגירת כל החלונות הפרטיים. פעולה זו לא הופכת אותך לאנונימי.
-about-private-browsing-info-description-simplified = ‏{ -brand-short-name } מנקה את היסטוריית החיפוש והגלישה שלך בעת סגירת כל החלונות הפרטיים, אך פעולה זו לא הופכת אותך לאנונימי.
-about-private-browsing-learn-more-link = מידע נוסף
 about-private-browsing-hide-activity = הסתרת הפעילות והמיקום שלך בכל מקום בו גולשים ברשת
 about-private-browsing-get-privacy = קבלת הגנות על הפרטיות בכל מקום שבו גולשים
 about-private-browsing-hide-activity-1 = הסתרת פעילות הגלישה והמיקום שלך עם { -mozilla-vpn-brand-name }. לחיצה אחת יוצרת חיבור מאובטח, אפילו בגלישה ב-Wi-Fi ציבורי.
@@ -29,8 +25,6 @@ about-private-browsing-prominent-cta = להישאר אנונימי עם { -mozil
 about-private-browsing-focus-promo-cta = הורדת { -focus-brand-name }
 about-private-browsing-focus-promo-header = ‏{ -focus-brand-name }: גלישה פרטית בדרכים
 about-private-browsing-focus-promo-text = יישומון הגלישה הפרטית הייעודי שלנו לנייד מנקה את ההיסטוריה והעוגיות שלך בכל פעם.
-about-private-browsing-focus-promo-header-b = לקחת את הגלישה הפרטית לטלפון שלך
-about-private-browsing-focus-promo-text-b = ניתן להשתמש ב־{ -focus-brand-name } עבור החיפושים הפרטיים שאין ברצונך שיופיעו בדפדפן הראשי שלך בנייד.
 about-private-browsing-focus-promo-header-c = פרטיות מרחיקת לכת במכשיר הנייד
 about-private-browsing-focus-promo-text-c = ‏{ -focus-brand-name } מנקה את ההיסטוריה שלך בכל פעם, תוך חסימת פרסומות ורכיבי מעקב.
 # This string is the title for the banner for search engine selection
@@ -66,11 +60,6 @@ about-private-browsing-relay-promo-link-text = לנסות מסכות דוא״ל
 
 ## Strings used in a promotion message for cookie banner reduction
 
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = כרזות עוגיות, שחררו אותי!
-about-private-browsing-cookie-banners-promo-button = צמצום כרזות עוגיות
-about-private-browsing-cookie-banners-promo-message = אפשר לתת ל־{ -brand-short-name } לענות אוטומטית לחלונות קופצים בנוגע לעוגיות כדי שיהיה אפשר לחזור לגלישה נטולת הסחות דעת. { -brand-short-name } ידחה את כל הבקשות במידת האפשר.
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = ‏{ -brand-short-name } מטפל בכרזות העוגיות עבורך

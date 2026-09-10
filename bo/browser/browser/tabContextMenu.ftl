@@ -59,10 +59,3 @@ move-to-end =
 move-to-new-window =
     .label = འཆར་སྒྲོམ་གསར་པའི་ནང་སྤོར་བ
     .accesskey = W
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
-tab-context-send-tabs-to-device =
-    .label = ཡན་ལག་ངོས་{ $tabCount }་སྒྲིག་ཆས་ཐོག་ཏུ་སྐུར
-    .accesskey = n

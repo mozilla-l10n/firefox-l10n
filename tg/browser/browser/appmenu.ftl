@@ -39,8 +39,6 @@ appmenuitem-extensions-and-themes =
     .label = Васеъшавиҳо ва мавзуъҳо
 appmenuitem-extensions =
     .label = Васеъшавиҳо
-appmenuitem-addons-and-themes =
-    .label = Ҷузъҳои иловагӣ ва мавзуъҳо
 appmenuitem-print =
     .label = Чоп кардан ...
 appmenuitem-find-in-page =
@@ -154,7 +152,6 @@ fxa-menu-get-firefox-mobile =
     .label = Браузери «{ -brand-product-name }»-ро дар «Android» ё «iOS» насб кунед
 fxa-menu-secure-sync-subpanel =
     .title = Ҳамоҳангсозии бехатар
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Ҳисоб
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -175,15 +172,6 @@ appmenuitem-save-page =
     .label = Нигоҳ доштани саҳифа ҳамчун…
 appmenuitem-fxa-sync-off-title = Ҳамоҳангсозӣ ғайрифаъол аст
 appmenuitem-fxa-sync-off-description = Ба хатбаракҳо, ниҳонвожаҳо ва чизҳои дигар аз ҷойҳои дилхоҳ дастрасӣ пайдо намоед ва онҳоро ҳифз намоед.
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Чӣ нав аст
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Огоҳдиҳӣ оид ба хусусиятҳои нав
-    .accesskey = О
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -313,8 +301,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Маълумоти бештар оид ба ислоҳи нуқсонҳо
     .accesskey = М
-appmenu-help-report-site-issue =
-    .label = Гузориш дар бораи мушкилии сомона…
 appmenu-help-share-ideas =
     .label = Паҳн кардани фикру ақидаҳо…
     .accesskey = П
@@ -371,7 +357,6 @@ appmenuitem-relay-description = Почтаи электронӣ ва рақам�
 appmenuitem-services-relay-description = Оғоз кардани лавҳаи вазъияти ниқобҳои почтаи электронӣ
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Муҳофизати пурраи дастгоҳро татбиқ кунед
-appmenuitem-vpn-description = Фаъолияти худро дар Интернет муҳофизат намоед
 appmenu-services-header = Хизматҳои ман
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
@@ -381,7 +366,6 @@ appmenu-other-protection-header3 = Абзорҳои махфият
 # with their own vendor name, since these tools are created and maintained by
 # Mozilla.
 appmenu-other-protection-header2 = Воситаҳои дигари муҳофизатро аз ҷониби «Mozilla» санҷед:
-appmenu-other-protection-header = Абзорҳои муҳофизати дигарро аз ҷониби «{ -vendor-short-name }» кӯшиш намоед:
 
 ## Profiles panel
 

@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Lorg sna faclan-faire
-    .key = f
     .aria-label = Lorg sna faclan-faire
+    .key = f
+    .placeholder = Lorg sna faclan-faire
 contextual-manager-menu-more-options-button =
     .title = Barrachd roghainnean
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Ion-phortaich o fhaidhle…
 contextual-manager-passwords-command-export = Às-phortaich na faclan-faire
 contextual-manager-passwords-command-remove-all = Thoir air falbh a h-uile facal-faire
 contextual-manager-passwords-command-options = Roghainnean
-contextual-manager-passwords-command-settings = Roghainnean
 contextual-manager-passwords-command-help = Cobhair
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Chaidh na faclan-faire ion-phortadh
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Ùr: { $added }, air ùrachadh: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -231,8 +226,6 @@ contextual-manager-passwords-create-label =
     .label = Cuir facal-faire ris
 contextual-manager-passwords-update-label =
     .label = Ùraich am facal-faire
-contextual-manager-passwords-edit-label =
-    .label = Deasaich am facal-faire
 contextual-manager-passwords-remove-label =
     .title = Thoir am facal-faire air falbh
 contextual-manager-passwords-origin-field =
@@ -248,7 +241,6 @@ contextual-manager-passwords-password-field-description = Cuir a-steach am facal
 contextual-manager-passwords-origin-tooltip = Cuir a-steach an dearbh-sheòladh far an clàraich thu a-steach dhan làrach.
 contextual-manager-passwords-username-tooltip = Cuir a-steach an t-ainm-cleachdaiche, seòladh puist-d no àireamh a’ chunntais a chleachdas tu airson clàradh a-steach.
 contextual-manager-passwords-password-tooltip-2 = Cuir a-steach am facal-faire airson clàradh a-steach chun a’ chunntais seo.
-contextual-manager-passwords-password-tooltip = Cuir a-steach am facal-faire a chleachdas tu airson clàradh a-steach chun a’ chunntais seo.
 
 ## Password Card
 
@@ -295,10 +287,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Dèan lethbhreac dhen fhacal-fhaire (rabhadh)
 contextual-manager-edit-login-button = Deasaich
     .tooltiptext = Deasaich am facal-faire
-contextual-manager-view-alert-heading =
-    .heading = Seall a’ chaismeachd
-contextual-manager-view-alert-button =
-    .tooltiptext = Thoir sùil air a’ chaismeachd
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -331,13 +319,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Cha deach facal-faire sam bith a lorg
 contextual-manager-passwords-no-passwords-found-message-2 = Feuch facal-luirg eile ’s dèan lorg as ùr.
-contextual-manager-passwords-no-passwords-found-message = Cha deach facal-faire a lorg. Feuch facal-luirg eile ’s dèan lorg as ùr.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Sàbhail na faclan-faire agad ann an àite sàbhailte.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Bidh gach facal-faire air a chrioptachadh is cumaidh sinn sùil airson briseadh a-steach air dàta agus innsidh sinn dhut ma chì sinn fear agadsa ann.

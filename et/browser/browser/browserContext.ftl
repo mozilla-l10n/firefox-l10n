@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Tagasi üks leht ({ $shortcut })
     .aria-label = Tagasi
+    .tooltiptext = Tagasi üks leht ({ $shortcut })
     .accesskey = T
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Edasi üks leht ({ $shortcut })
     .aria-label = Edasi
+    .tooltiptext = Edasi üks leht ({ $shortcut })
     .accesskey = E
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Lisa leht järjehoidjatesse...
-    .accesskey = m
     .tooltiptext = Lisa leht järjehoidjatesse
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Lisa leht järjehoidjatesse...
-    .accesskey = m
     .tooltiptext = Lisa leht järjehoidjatesse ({ $shortcut })
+    .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = Muuda järjehoidjat…
-    .accesskey = M
     .tooltiptext = Muuda järjehoidjat
+    .accesskey = M
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Muuda järjehoidjat…
-    .accesskey = M
     .tooltiptext = Muuda järjehoidjat ({ $shortcut })
+    .accesskey = M
 main-context-menu-open-link =
     .label = Ava link
     .accesskey = v
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Salvesta link kui…
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = Salvesta link { -pocket-brand-name }isse
-    .accesskey = l
 
 ##
 
@@ -308,40 +299,22 @@ main-context-menu-send-to-mobile-sign-in-from-page = Lehe edastamiseks logi siss
 main-context-menu-send-to-mobile-enable-sync3 = Kaartide edastamiseks lülita Sync sisse
 main-context-menu-send-to-mobile-enable-sync-from-link = Lingi edastamiseks lülita Sync sisse
 main-context-menu-send-to-mobile-enable-sync-from-page = Lehe edastamiseks lülita Sync sisse
-main-context-menu-save-to-pocket =
-    .label = Salvesta leht { -pocket-brand-name }isse
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Saada leht seadmesse
-    .accesskey = h
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Kasuta salvestatud kasutajakontot
-    .accesskey = u
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Kasuta salvestatud parooli
     .accesskey = u
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Kasuta { -relay-brand-short-name } e-posti peitmist
     .accesskey = e
 main-context-menu-suggest-strong-password =
     .label = Soovita tugevat parooli…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = Halda kasutajakontosid
-    .accesskey = H
 main-context-menu-manage-passwords =
     .label = Halda paroole
     .accesskey = p
-main-context-menu-keyword =
-    .label = Lisa võti sellele otsingule...
-    .accesskey = v
 main-context-menu-add-engine =
     .label = Lisa otsingumootor
     .accesskey = o
@@ -385,9 +358,6 @@ main-context-menu-view-selection-source =
     .label = Vaata valiku lähtekoodi
     .accesskey = e
 main-context-menu-take-screenshot =
-    .label = Tee ekraanipilt
-    .accesskey = T
-main-context-menu-take-frame-screenshot =
     .label = Tee ekraanipilt
     .accesskey = T
 main-context-menu-view-page-source =

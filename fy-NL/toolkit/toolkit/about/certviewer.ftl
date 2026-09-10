@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = Jo sertifikaten
 certificate-viewer-tab-people = Minsken
 certificate-viewer-tab-servers = Servers
 certificate-viewer-tab-ca = Organisaasjes
-certificate-viewer-tab-unkonwn = Unbekend

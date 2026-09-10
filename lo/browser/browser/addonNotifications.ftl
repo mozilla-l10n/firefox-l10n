@@ -31,27 +31,13 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = ສືບຕໍ່ການຕິດຕັ້ງ
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = ເວັບໄຊນີ້ກຳລັງຮ້ອງຂໍການເຂົ້າເຖິງອຸປະກອນ MIDI (Musical Instrument Digital Interface) ຂອງທ່ານ. ສາມາດເປີດໃຊ້ການເຂົ້າເຖິງອຸປະກອນໄດ້ໂດຍການຕິດຕັ້ງ add-on.
 site-permission-install-first-prompt-midi-message = ການເຂົ້າເຖິງນີ້ບໍ່ໄດ້ຮັບການຮັບປະກັນວ່າປອດໄພ. ສືບຕໍ່ຖ້າທ່ານໄວ້ວາງໃຈເວັບໄຊທ໌ນີ້.
-
-##
-
-xpinstall-disabled-locked = ການຕິດຕັ້ງຊອບແວໄດ້ຖືກປິດໃຊ້ງານໂດຍຜູ້ບໍລິຫານລະບົບຂອງທ່ານ.
 xpinstall-disabled-by-policy = ການຕິດຕັ້ງຊອບແວຖືກປິດການນຳໃຊ້ໂດຍອົງກອນຂອງທ່ານ.
 xpinstall-disabled = ການຕິດຕັ້ງຊອບແວໃນຂະນະນີ້ແມ່ນໄດ້ຖືກປິດໃຊ້ງານຢູ່. ກົດເປີດໃຊ້ງານແລ້ວລອງອີກຄັ້ງ.
 xpinstall-disabled-button =
     .label = ເປີດໃຊ້ງານ
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ຖືກບລັອກໂດຍຜູ້ເບິ່ງແຍງລະບົບຂອງທ່ານ.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = ຜູ້ເບິ່ງແຍງລະບົບຂອງທ່ານໄດ້ປ້ອງກັນບໍ່ໃຫ້ເວັບໄຊທ໌ນີ້ຂໍໃຫ້ທ່ານຕິດຕັ້ງຊອບແວໃນຄອມພິວເຕີຂອງທ່ານ.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -76,9 +62,6 @@ webext-imported-addons = ສຳເລັດການຕິດຕັ້ງສ່�
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = ລຶບ { $name } ອອກບໍ?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = ລຶບ { $name } ອອກຈາກ { -brand-shorter-name } ບໍ?
 addon-removal-button = ເອົາອອກ
 addon-removal-abuse-report-checkbox = ລາຍງານສ່ວນຂະຫຍາຍນີ້ໃຫ້ { -vendor-short-name }
 # "it" refers to the local AI model that is paired to the AI feature
@@ -123,7 +106,5 @@ addon-local-install-no-addon-name-error-file-access = ແອດອອນບໍ�
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } ບໍ່ສາມາດຕິດຕັ້ງໄດ້ເພາະວ່າມັນບໍ່ສາມາດເຂົ້າກັນໄດ້ກັບ { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = { $addonName } ລະເມີດນະໂຍບາຍຂອງ Mozilla ແລະ ບໍ່ສາມາດຕິດຕັ້ງໄດ້ໃນ { -brand-short-name }.
-addon-install-error-blocklisted = { $addonName } ບໍ່ສາມາດຕິດຕັ້ງໄດ້ເພາະວ່າມັນມີຜົນກະທົບສູງຕໍ່ຄວາມສະຖຽນ ແລະ ບັນຫາຄວາມປອດໄພ.
-addon-install-error-soft-blocked = { $addonName } ລະເມີດນະໂຍບາຍຂອງ Mozilla ແລະ ບໍ່ສາມາດຕິດຕັ້ງໄດ້ໃນ { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = ທ່ານ​ບໍ່​ສາ​ມາດ​ຕິດ​ຕັ້ງ { $addonName } ໃນຖານະຜູ້ໃຊ້ປາຍທາງໄດ້, ມັນ​ສາ​ມາດ​ໄດ້​ຮັບ​ການ​ຕິດ​ຕັ້ງ​ພຽງ​ແຕ່​ໂດຍ​ອົງ​ກອນທີ່​ນໍາ​ໃຊ້​ນະ​ໂຍ​ບາຍຂອງອົງກອນເທົ່ານັ້ນ.

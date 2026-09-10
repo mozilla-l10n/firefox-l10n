@@ -34,12 +34,6 @@ mr1-return-to-amo-add-extension-label = { $addon-name } ᱥᱮᱞᱮᱫ ᱢᱮ
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = ᱞᱟᱦᱟ: ᱪᱟᱹᱞ { $total } ᱠᱷᱚᱱ { $current }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -188,11 +182,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = ᱴᱟᱥᱠᱵᱟᱨ ᱟᱨ ᱮᱛᱦᱚᱵ ᱢᱮᱱᱩ ᱨᱮ { -brand-short-name } ᱞᱟᱴᱷᱟᱭ ᱢᱮ
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = ᱢᱤᱫᱴᱟᱝ ᱵᱟᱝ ᱞᱟᱵᱷ ᱥᱟᱶᱛᱮ ᱢᱤᱫᱴᱟᱝ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱮᱦᱚᱵ ᱢᱮ ᱾ ᱟᱢᱟᱜ ᱣᱮᱵᱽ ᱨᱮ ᱫᱟᱬᱟ ᱛᱮ ᱟᱢᱟᱜ ᱯᱨᱟᱭᱣᱮᱥᱤ ᱞᱮ ᱨᱩᱠᱷᱤᱭᱟᱹᱭᱟ ᱾
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -222,57 +211,10 @@ mr2022-onboarding-set-default-subtitle = ᱢᱤᱫᱴᱟᱝ ᱵᱟᱝ ᱞᱟᱵ�
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = ᱟᱞᱮᱭᱟᱜ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱫᱚ ᱟᱢ ᱤᱫᱤᱭᱟᱛᱮ ᱛᱮᱭᱟᱨ ᱠᱟᱱᱟ, ᱡᱟᱦᱟᱸ ᱛᱮ ᱟᱢ ᱫᱚ ᱣᱮᱵᱽ ᱨᱮ ᱟᱹᱰᱤ ᱟᱞᱜᱟ ᱛᱮ ᱫᱟᱬᱟ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱱᱮᱠᱟ ᱯᱷᱤᱪᱚᱨ ᱛᱮ ᱯᱮᱨᱮᱡ ᱠᱟᱱᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱢ ᱠᱩᱥᱤᱭᱟᱜᱼᱟᱢ ᱾
 mr2022-onboarding-get-started-primary-button-label = ᱢᱤᱫᱴᱟᱝ ᱴᱤᱡ ᱨᱮ ᱥᱮᱛ ᱢᱮ
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = ᱟᱹᱰᱤ ᱪᱚᱴᱠᱟᱨ ᱥᱮᱴᱚᱯ
-mr2022-onboarding-import-subtitle = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱦᱤᱥᱟᱹᱵ ᱛᱮ ᱥᱮᱴ ᱢᱮ ᱾ ᱟᱢᱟᱜ ᱯᱟᱹᱦᱤᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱷᱚᱱ ᱟᱢᱟᱜ ᱵᱩᱠᱢᱟᱨᱠ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ, ᱟᱨ ᱟᱭᱢᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱥᱮᱞᱮᱫ ᱢᱮ ᱾
 mr2022-onboarding-import-primary-button-label-no-attribution = ᱢᱟᱲᱟᱝᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱨᱚᱝ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
-mr2022-onboarding-colorway-subtitle = ᱥᱟᱫᱷᱤᱱ ᱨᱚᱲ ᱫᱚ ᱟᱹᱨᱤᱪᱟᱹᱞᱤ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
-mr2022-onboarding-colorway-primary-button-label-continue = ᱥᱮᱴ ᱢᱮ ᱟᱨ ᱞᱟᱦᱟᱜ ᱢᱮ
-mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } ᱫᱚ ᱟᱢᱟᱜ ᱨᱚᱝᱜᱤᱱ ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ ᱛᱮᱭᱟᱨ ᱢᱮ
-mr2022-onboarding-colorway-label-default = ᱢᱩᱞ
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = ᱱᱤᱛᱚᱜᱟᱜ { -brand-short-name } ᱨᱚᱝᱠᱚ
-mr2022-onboarding-colorway-description-default = <b> ᱱᱤᱛᱚᱜᱟᱜ { -brand-short-name } ᱨᱚᱝᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾</b>
-mr2022-onboarding-colorway-label-playmaker = ᱯᱞᱮᱢᱮᱠᱚᱨ
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = ᱯᱞᱮᱢᱮᱠᱚᱨ (ᱟᱨᱟᱜ)
-mr2022-onboarding-colorway-description-playmaker = <b>ᱟᱢ ᱫᱚ ᱪᱟᱹᱞᱩᱭᱟ ᱠᱟᱱᱟᱢ ᱾</b> ᱟᱢ ᱫᱚ ᱡᱷᱚᱛᱚ ᱦᱚᱲ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱡᱤᱛᱟᱹᱣ ᱫᱟᱣ ᱮᱢ ᱛᱮᱭᱟᱨ ᱮᱫᱟ ᱟᱨ ᱟᱠᱚᱣᱟᱜ ᱠᱷᱮᱞ ᱨᱮᱭᱟᱜ ᱩᱱᱚᱛ ᱟᱢ ᱥᱩᱨ ᱨᱤᱱ ᱡᱷᱚᱛᱚ ᱦᱚᱲ ᱠᱚ ᱜᱚᱲᱚ ᱮᱢ ᱟᱭ  ᱾
-mr2022-onboarding-colorway-label-expressionist = ᱮᱠᱥᱯᱨᱮᱥᱚᱱᱤᱥᱴ
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = ᱮᱠᱥᱯᱨᱮᱥᱚᱱᱤᱥᱴ (ᱥᱟᱥᱟᱝ)
-mr2022-onboarding-colorway-description-expressionist = <b>ᱟᱢ ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱪᱤᱛᱟᱹᱨᱤᱭᱟᱹ ᱠᱟᱱᱟᱢ ᱾</b> ᱟᱢ ᱫᱚ ᱡᱮᱜᱮ ᱮᱴᱟᱜ ᱞᱮᱠᱷᱟᱢ ᱧᱮᱞ ᱮᱫᱟ ᱟᱨ ᱟᱢᱟᱜ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱫᱚ ᱮᱴᱟᱜ ᱦᱚᱲ ᱠᱚᱣᱟᱜ ᱵᱷᱟᱵᱱᱟ ᱜᱷᱟᱱᱴᱟᱭᱟᱭ ᱾
-mr2022-onboarding-colorway-label-visionary = ᱠᱷᱮᱭᱟᱞᱤᱭᱟᱹ
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = ᱠᱷᱮᱭᱟᱞᱤᱭᱟᱹ (ᱦᱟᱹᱨᱤᱭᱟᱹᱲ)
-mr2022-onboarding-colorway-description-visionary = <b>ᱟᱢ ᱫᱚ ᱠᱩᱠᱢᱩᱡᱤᱞᱟᱹ ᱠᱟᱱᱟᱢ ᱾</b> ᱟᱢ ᱥᱴᱟᱴᱚᱥ ᱠᱣᱚ ᱠᱩᱠᱢᱩᱤᱭᱟᱹ ᱟᱨ ᱮᱴᱟᱜ ᱦᱚᱲ ᱵᱮᱥ ᱵᱷᱚᱵᱤᱥᱚᱛ ᱩᱭᱦᱟᱹᱨ ᱫᱟᱲᱟᱭᱟᱜᱼᱟᱜ ᱠᱚ ᱾
-mr2022-onboarding-colorway-label-activist = ᱠᱟᱹᱢᱤᱭᱟᱹ
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = ᱠᱟᱹᱢᱤᱭᱟᱹ (ᱞᱤᱞ)
-mr2022-onboarding-colorway-description-activist = <b>ᱟᱢ ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱠᱟᱨᱭᱚᱠᱚᱨᱛᱟ ᱠᱟᱱᱟᱢ ᱾</b> ᱟᱢ ᱫᱚ ᱡᱮᱜᱮᱛ ᱢᱤᱫᱴᱟᱝ ᱵᱮᱥ ᱡᱟᱭᱜᱟ ᱟᱲᱟᱜᱮ ᱠᱟᱱᱟᱢ ᱟᱨ ᱮᱴᱟᱜ ᱦᱚᱲ ᱚᱱᱟ ᱛᱮ ᱠᱚ ᱯᱟᱹᱛᱤᱭᱟᱣᱜᱼᱟ ᱾
-mr2022-onboarding-colorway-label-dreamer = ᱠᱩᱠᱢᱩᱤᱭᱟᱹ
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = ᱠᱩᱠᱢᱩᱤᱭᱟᱹ (ᱵᱮᱝᱜᱩᱱᱤ)
-mr2022-onboarding-colorway-description-dreamer = <b>ᱟᱢ ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱠᱩᱠᱢᱩᱤᱭᱟᱹ ᱠᱟᱱᱟᱢ ᱾</b> ᱟᱢ ᱵᱤᱥᱣᱟᱥ ᱟᱢ ᱡᱮ ᱵᱷᱟᱜᱭᱚ ᱫᱚ ᱴᱷᱤᱠ ᱦᱚᱲ ᱠᱚ ᱥᱟᱶ ᱛᱟᱦᱮᱸᱱᱮᱭ ᱟᱨ ᱮᱴᱟᱜ ᱦᱚᱲ ᱫᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱩᱠᱥᱟᱹᱣ ᱠᱚᱣᱟᱭ
-mr2022-onboarding-colorway-label-innovator = ᱛᱮᱭᱟᱨᱤᱭᱟᱹ
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = ᱛᱮᱭᱟᱨᱤᱭᱟᱹ (ᱥᱟᱱᱛᱨᱟ)
-mr2022-onboarding-colorway-description-innovator = <b>ᱟᱢ ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱜᱚᱵᱮᱥᱤᱭᱟᱹ ᱠᱟᱱᱟᱢ ᱾</b>ᱟᱢ ᱫᱚ ᱡᱷᱚᱛᱚ ᱡᱟ.ᱜᱟ ᱨᱮ ᱫᱟᱣ ᱮᱢ ᱧᱮᱞᱧᱟᱢᱟᱸ ᱟᱨ ᱥᱩᱨ ᱨᱮ ᱢᱮᱱᱟᱜ ᱠᱩᱜ ᱡᱷᱚᱛᱚ ᱦᱚᱲ ᱠᱚᱣᱟᱜ ᱡᱤᱵᱚᱱ ᱨᱮ ᱯᱚᱨᱵᱷᱟᱣ ᱮᱢ ᱯᱚᱠᱟᱣ ᱮᱫᱟ ᱾
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = ᱞᱮᱯᱴᱚᱯ ᱠᱷᱚᱱ ᱯᱷᱚᱱ ᱛᱮ ᱟᱨ ᱯᱷᱮᱨ ᱫᱩᱦᱲᱟᱹ ᱨᱩᱣᱟᱹᱲ ᱢᱮ
-mr2022-onboarding-mobile-download-subtitle = ᱢᱤᱫᱴᱟᱝ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱴᱮᱵᱽ ᱠᱚ ᱤᱫᱤ ᱢᱮ ᱟᱨ ᱱᱤᱛᱚᱜ ᱫᱚ ᱡᱟᱦᱟᱸ ᱨᱮ ᱢᱟᱲᱟᱝ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟᱢ ᱚᱱᱰᱮ ᱠᱷᱚᱱ ᱥᱟᱵ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾ ᱥᱟᱶᱛᱮ ᱟᱢ { -brand-product-name } ᱫᱚ ᱡᱟᱦᱟᱸ ᱨᱮ ᱵᱮᱵᱷᱟᱨ ᱟᱢ ᱟᱨ ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱢᱮ ᱾
 mr2022-onboarding-mobile-download-cta-text = { -brand-product-name } ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ QR ᱠᱳᱰ ᱥᱠᱟᱱ ᱢᱮ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ <a data-l10n-name="download-label">ᱢᱤᱫᱴᱟᱝ ᱰᱟᱣᱱᱞᱚᱰ ᱞᱤᱝᱠ ᱵᱷᱮᱡᱟ ᱡᱚᱝ ᱢᱮ</a>
 mr2022-onboarding-no-mobile-download-cta-text = ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ { -brand-product-name } ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ QR ᱠᱳᱰ ᱥᱠᱟᱱ ᱢᱮ ᱾
 
@@ -325,15 +267,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = ᱟᱨᱥᱟᱞ ᱪᱟᱢᱲᱟ ᱟᱨ ᱧᱩᱨ ᱪᱚᱢᱲᱟ ᱛᱤ ᱠᱚ ᱨᱮᱭᱟᱜ ᱦᱟᱭ ᱯᱷᱟᱭᱤᱵᱷ
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = ᱢᱤᱫᱴᱟᱝ ᱣᱤᱱᱰᱳ ᱛᱮ ᱵᱮᱲᱟ ᱦᱟᱹᱥᱩᱨ ᱨᱮᱭᱟᱜ ᱧᱮᱞ ᱡᱟᱦᱟᱸ ᱨᱮ ᱢᱤᱫᱴᱟᱝ ᱛᱩᱭᱩ ᱟᱨ ᱢᱤᱫᱴᱟᱝ ᱨᱚᱦᱚᱭ ᱫᱟᱨᱮ ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ ᱾
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = ᱢᱤᱫ ᱛᱤ ᱥᱯᱨᱮᱭ ᱡᱟᱦᱟᱸ ᱫᱚ ᱦᱟᱹᱨᱤᱭᱟᱹᱲ ᱢᱮᱫ, ᱥᱟᱱᱛᱨᱟ ᱡᱩᱛᱟᱹ, ᱟᱨᱟᱜ ᱵᱮᱥᱠᱮᱴᱵᱚᱞ, ᱵᱮᱝᱜᱩᱱᱤ ᱦᱮᱰᱯᱷᱚᱱ, ᱞᱤᱞ ᱠᱚᱞᱡᱟ, ᱟᱨ ᱥᱟᱥᱟᱝ ᱠᱨᱟᱣᱱ ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱨᱚᱝᱜᱤ ᱠᱚᱞᱟᱡᱽ ᱯᱮᱨᱮᱡ ᱮᱫᱟᱭ
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = ᱢᱤᱫ ᱞᱮᱯᱴᱚᱯ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱨᱮᱭᱟᱜ ᱥᱠᱨᱤᱱ ᱨᱮ ᱢᱤᱫ ᱯᱷᱚᱠᱥ ᱟᱸᱡᱚᱢᱟ ᱱᱚᱶᱟ ᱞᱚᱯᱴᱚᱯ ᱨᱮ ᱢᱤᱫ ᱢᱟᱣᱩᱥ ᱢᱮᱱᱟᱜᱼᱟ ᱾
 onboarding-device-migration-title = ᱟᱢᱟᱜ ᱫᱩᱦᱲᱟᱹ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ!
-onboarding-device-migration-subtitle = ᱟᱢᱟᱜ ᱱᱟᱶᱟ ᱥᱟᱫᱷᱚ ᱨᱮ ᱵᱩᱠᱢᱟᱨᱠ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱟᱨ ᱱᱟᱜᱟᱢ ᱟᱹᱜᱩ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ  { -fxaccount-brand-name(capitalization: "sentence") } ᱨᱮ ᱥᱩᱦᱤ ᱮᱢᱚᱜ ᱢᱮ ᱾
 onboarding-device-migration-subtitle2 = ᱟᱢᱟᱜ ᱱᱟᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢᱟᱜ ᱵᱩᱠᱢᱟᱨᱠ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱠᱚ ᱟᱨ ᱱᱟᱜᱟᱢ ᱟᱹᱜᱩ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱨᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ ᱾
 onboarding-device-migration-primary-button-label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
 

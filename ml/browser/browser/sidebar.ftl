@@ -34,18 +34,10 @@ sidebar-history-clear =
 sidebar-search-results-header =
     .heading = { $query } എന്നതിനായുള്ള തിരയൽഫലങ്ങൾ
 
-## Labels for sidebar customize panel
-
-sidebar-customize-extensions-header = അണിവക്ക വിപുലീകരണങ്ങൾ
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name } കരുകൾ
-
 ## Labels for sidebar context menu items
 
 sidebar-context-menu-manage-extension =
     .label = വിപുലീകരണങ്ങളെ കൈകാര്യം ചെയ്യുക
-sidebar-context-menu-remove-extension =
-    .label = വിപുലീകരണം മാറ്റുക
 sidebar-context-menu-open-in-window =
     .label = പുതിയ ജാലകത്തില്‍ തുറക്കുക
 sidebar-context-menu-open-in-private-window =

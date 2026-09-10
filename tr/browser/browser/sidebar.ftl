@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = Geçmişi temizle
 sidebar-history-sort-by-heading-menucaption =
     .label = Sıralama:
-sidebar-history-sort-by-heading = Sıralama:
 sidebar-history-sort-option-date =
     .label = Tarih
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Kenar çubuğu uzantıları
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name } araçları
 sidebar-customize-firefox-settings = { -brand-short-name } ayarlarını yönet
 sidebar-vertical-tabs =
     .label = Dikey sekmeler
 sidebar-settings2 =
     .label = Ayarlar
-sidebar-settings =
-    .label = Kenar çubuğu ayarları
 sidebar-hide-tabs-and-sidebar =
     .label = Sekmeleri ve kenar çubuğunu gizle
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Uzantıyı yönet
-sidebar-context-menu-remove-extension =
-    .label = Uzantıyı kaldır
 sidebar-context-menu-report-extension =
     .label = Uzantıyı rapor et
 sidebar-context-menu-open-in-tab =

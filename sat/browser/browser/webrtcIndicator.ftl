@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } — ᱦᱟᱹᱴᱤᱧ ᱪᱤᱱᱦᱟᱹ
-webrtc-indicator-window =
-    .title = { -brand-short-name } — ᱦᱟᱹᱴᱤᱧ ᱪᱤᱱᱦᱟᱹ
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = ᱟᱢ ᱟᱢᱟᱜ ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱮᱢ ᱦᱟᱹᱴᱤᱧ ᱦᱚᱪᱚ ᱮᱫᱟ ᱾ ᱦᱟᱹᱴᱤᱧ ᱠᱚᱵᱚᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ ᱾
 webrtc-screen-system-menu =
     .label = ᱟᱢ ᱟᱢᱟᱜ ᱣᱤᱱᱰᱚ ᱟᱨ ᱵᱟᱝ ᱢᱤᱫᱴᱟᱝ ᱥᱠᱨᱤᱱ ᱮᱢ ᱦᱟᱹᱴᱤᱧ ᱦᱚᱪᱚ ᱮᱫᱟ ᱾ ᱦᱟᱹᱴᱤᱧ ᱠᱚᱵᱚᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ ᱾
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = ᱟᱢᱟᱜ ᱠᱮᱢᱨᱟ ᱟᱨ ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱦᱟᱹᱴᱤᱧ ᱠᱟᱱᱟ ᱾ ᱦᱟᱹᱴᱤᱧ ᱠᱚᱵᱚᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ ᱾
-webrtc-indicator-sharing-camera =
-    .tooltiptext = ᱟᱢᱟᱜ ᱠᱟᱹᱢᱤ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ ᱾ ᱦᱟᱹᱴᱤᱧ ᱠᱚᱵᱚᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ ᱾
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = ᱟᱢᱟᱜ ᱢᱟᱹᱭᱠᱨᱚᱯᱷᱚᱱ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ ᱾ ᱦᱟᱹᱴᱤᱧ ᱠᱚᱵᱚᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ ᱾
-webrtc-indicator-sharing-application =
-    .tooltiptext = ᱟᱢᱟᱜ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ ᱾ ᱦᱟᱹᱴᱤᱧ ᱠᱚᱵᱚᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ ᱾
-webrtc-indicator-sharing-screen =
-    .tooltiptext = ᱟᱢᱟᱜ ᱯᱚᱨᱫᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ ᱾ ᱦᱟᱹᱴᱤᱧ ᱠᱚᱵᱚᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ ᱾
-webrtc-indicator-sharing-window =
-    .tooltiptext = ᱟᱢᱟᱜ ᱣᱤᱱᱰᱳ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ ᱾ ᱦᱟᱹᱴᱤᱧ ᱠᱚᱵᱚᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ ᱾
-webrtc-indicator-sharing-browser =
-    .tooltiptext = ᱢᱤᱫᱴᱟᱝ ᱴᱮᱵᱽ ᱦᱟᱹᱴᱤᱧ ᱠᱟᱱᱟ ᱾ ᱦᱟᱹᱴᱤᱧ ᱠᱚᱵᱚᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ ᱾
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -171,7 +152,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = { $origin } ᱫ�
 
 webrtc-share-screen-warning = ᱠᱷᱟᱹᱞᱤ ᱟᱢ ᱯᱟᱹᱛᱤᱭᱟᱣᱜ ᱠᱟᱱ ᱥᱟᱭᱤᱴᱠᱚ ᱴᱷᱮᱱ ᱥᱠᱨᱤᱱ ᱦᱟᱹᱴᱤᱧ ᱢᱮ ᱾ ᱦᱟᱹᱴᱤᱧ ᱞᱮᱠᱷᱟᱱ ᱫᱚ ᱮᱲᱮ ᱥᱟᱭᱤᱴᱠᱚ ᱟᱢᱟᱜ ᱱᱤᱡᱚᱨᱟᱜ ᱰᱟᱴᱟ ᱠᱚ ᱧᱮᱞ ᱟᱨ ᱠᱩᱢᱵᱽᱲᱩ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱠᱚ ᱾
 webrtc-share-browser-warning = { -brand-short-name } ᱫᱚ ᱟᱢ ᱯᱟᱹᱛᱤᱭᱟᱣᱜ ᱠᱟᱱ ᱥᱟᱭᱤᱴᱠᱚ ᱥᱟᱞᱟᱜ ᱜᱮ ᱦᱟᱹᱴᱤᱧ ᱢᱮ ᱦᱟᱹᱴᱤᱧ ᱞᱮᱠᱷᱟᱱ ᱫᱚ ᱮᱲᱮ ᱥᱟᱭᱤᱴᱠᱚ ᱟᱢᱟᱜ ᱱᱤᱡᱚᱨᱟᱜ ᱰᱟᱴᱟ ᱠᱚ ᱧᱮᱞ ᱟᱨ ᱠᱩᱢᱵᱽᱲᱩ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱠᱚ ᱾
-webrtc-share-screen-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 webrtc-pick-window-or-screen = ᱣᱤᱱᱰᱳ ᱥᱮ ᱥᱠᱨᱤᱱᱥᱚᱴ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 webrtc-share-entire-screen = ᱛᱚᱴᱟ ᱯᱚᱨᱫᱟ
 webrtc-share-pipe-wire-portal = ᱚᱯᱨᱮᱴᱤᱝ ᱥᱤᱥᱴᱚᱢ ᱥᱟᱡᱟᱣ ᱵᱮᱵᱷᱟᱨ ᱢᱮ

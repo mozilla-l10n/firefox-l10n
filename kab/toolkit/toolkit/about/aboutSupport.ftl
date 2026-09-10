@@ -24,10 +24,6 @@ security-software-name = Isem
 security-software-antivirus = Amgal ivirusen
 security-software-antispyware = Amgal aneḍfer
 security-software-firewall = Aɣrab n tmes
-features-title = { -brand-short-name } Timahilin
-features-name = Isem
-features-version = Lqem
-features-id = ID
 processes-title = Ikalan inmeggagen
 processes-type = Tawsit
 processes-count = Amḍan
@@ -53,7 +49,6 @@ app-basics-profile-dir =
         [linux] Akaram n umaɣnu
        *[other] Akaram n umaɣnu
     }
-app-basics-enabled-plugins = Izegrar iremden
 app-basics-build-config = Aswel n usefsu
 app-basics-user-agent = Ameggi aseqdac
 app-basics-os = NGR.MMD
@@ -90,9 +85,6 @@ show-dir-label =
 environment-variables-title = Imuttiyen n twennaṭ
 environment-variables-name = Isem
 environment-variables-value = Azal
-experimental-features-title = Timahihilin tirmitanin
-experimental-features-name = Isem
-experimental-features-value = Azal
 modified-key-prefs-title = Ismenyifen ixataren ittusniflen
 modified-prefs-name = Isem
 modified-prefs-value = Azal
@@ -350,8 +342,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Yettwasens s termit
-fission-status-experiment-treatment = Yermed n termit
 fission-status-disabled-by-e10s-env = Yettwasens s twennaḍt
 fission-status-enabled-by-env = yetturmed s twennaḍt
 fission-status-disabled-by-env = Yensa s twennaḍt
@@ -360,7 +350,6 @@ fission-status-disabled-by-default = Yensa s wudem amezwer
 fission-status-enabled-by-user-pref = Yetturmed sɣur useqdac
 fission-status-disabled-by-user-pref = Yensa sɣur useqdac
 fission-status-disabled-by-e10s-other = E10s yettwasens
-fission-status-enabled-by-rollout = Rmed asenqqes s cwiṭ cwiṭ
 async-pan-zoom = Asemɣeṛ/Asemẓi aramtawa
 apz-none = ulac
 wheel-enabled = anekcum n tjaṛaṛt yermed

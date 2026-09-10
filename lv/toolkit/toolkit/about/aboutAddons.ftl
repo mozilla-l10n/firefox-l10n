@@ -113,15 +113,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Drošais režīms ir deaktivējis visus papildinājumu.
-extensions-warning-check-compatibility = Papildinājumu savietojamības pārbaude ir deaktivēta. Iespējams jums ir nesavietojami papildinājumu.
-extensions-warning-safe-mode2 =
-    .message = Drošais režīms ir deaktivējis visus papildinājumu.
 extensions-warning-check-compatibility2 =
     .message = Papildinājumu savietojamības pārbaude ir deaktivēta. Iespējams jums ir nesavietojami papildinājumu.
 extensions-warning-check-compatibility-button = Aktivēt
     .title = Aktivēt papildinājumu savietojamības pārbaudi
-extensions-warning-update-security = Papildinājumu drošības pārbaude ir deaktivēta. Iespējams jums ir nedroši papildinājumu.
 extensions-warning-update-security2 =
     .message = Papildinājumu drošības pārbaude ir deaktivēta. Iespējams jums ir nedroši papildinājumu.
 extensions-warning-update-security-button = Aktivēt
@@ -191,7 +186,6 @@ addon-detail-private-browsing-disallow = Neatļaut
 ##
 
 release-notes-error = Atvainojamies, bet laidiena piezīmju ielādēšanas laikā bija kļūda!
-addon-permissions-required = Nepieciešamās atļaujas pamata darbībai:
 addon-permissions-learnmore = Uzzināt vairāk par atļaujām
 
 ## Page headings
@@ -205,24 +199,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } nav savietojams ar { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } nav savietojams ar { -brand-short-name } { $version }.
-details-notification-unsigned-and-disabled = { $name } nevar pārbaudīt izmantošanai ar { -brand-short-name } un ir deaktivēts.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } nevar pārbaudīt izmantošanai ar { -brand-short-name } un ir deaktivēts.
-details-notification-unsigned-and-disabled-link = Vairāk informācijas
-details-notification-unsigned = { $name } nevar pārbaudīt izmantošanai ar { -brand-short-name }. Esiet piesardzīgi.
 details-notification-unsigned2 =
     .message = { $name } nevar pārbaudīt izmantošanai ar { -brand-short-name }. Esiet piesardzīgi.
-details-notification-unsigned-link = Vairāk informācijas
-details-notification-blocked = { $name } ir bloķēts drošības un stabilitātes nolūkos.
-details-notification-blocked-link = Vairāk informācijas
-details-notification-softblocked = Ir zināms, ka { $name } rada drošības vai stabilitātes problēmas.
-details-notification-softblocked-link = Vairāk informācijas
-details-notification-gmp-pending = { $name } pēc mirkļa tiks instalēts.
 details-notification-gmp-pending2 =
     .message = { $name } pēc mirkļa tiks instalēts.
 

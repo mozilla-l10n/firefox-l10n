@@ -19,11 +19,6 @@ migration-wizard-selection-option-without-profile = { $sourceBrowser }
 #  $sourceBrowser (String): the name of the browser to import from.
 #  $profileName (String): the name of the user profile to import from.
 migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
-
-# Each migrator is expected to include a display name string, and that display
-# name string should have a key with "migration-wizard-migrator-display-name-"
-# as a prefix followed by the unique identification key for the migrator.
-
 migration-wizard-migrator-display-name-brave = Brave
 migration-wizard-migrator-display-name-canary = Chrome Canary
 migration-wizard-migrator-display-name-chrome = Chrome
@@ -75,7 +70,6 @@ migration-bookmarks-option-label = Хатбаракҳо
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Баргузидаҳо
-migration-logins-and-passwords-option-label = Воридшавиҳо ва ниҳонвожаҳои нигоҳдошташуда
 migration-passwords-option-label = Ниҳонвожаҳои нигоҳдошташуда
 migration-history-option-label = Таърихи тамошо
 migration-extensions-option-label = Васеъшавиҳо
@@ -205,8 +199,6 @@ migration-chrome-windows-password-import-step4 = Ба ин ҷой баргард
 migration-manual-password-import-skip-button = Нодида гузарондан
 migration-manual-password-import-cancel-button = Бекор кардан
 migration-manual-password-import-select-button = Интихоби файл
-migration-safari-password-import-skip-button = Нодида гузарондан
-migration-safari-password-import-select-button = Интихоби файл
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #

@@ -36,9 +36,6 @@ unified-extensions-item-message-manage = Gestionează extensia
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = { $extensionName } este restricționată. Utilizarea ei poate fi riscantă.
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName } încalcă politicile Mozilla. Utilizarea poate fi riscantă.
 
 ## Extension's context menu
 
@@ -57,8 +54,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Unele extensii nu sunt permise
-unified-extensions-mb-quarantined-domain-message = Pentru a-ți proteja datele, doar unele extensii monitorizate de { -vendor-short-name } sunt permise pe acest site.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Unele extensii nu sunt permise
@@ -72,13 +67,6 @@ unified-extensions-mb-blocklist-warning-single2 =
     .heading = { $extensionName } dezactivată
     .message =
         Extensia este restricționată și a fost dezactivată.
-        O poți activa în setări, dar poate fi riscant.
-# Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } dezactivată
-    .message =
-        Extensia încalcă politicile Mozilla și a fost dezactivată.
         O poți activa în setări, dar poate fi riscant.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
@@ -96,17 +84,6 @@ unified-extensions-mb-blocklist-warning-multiple2 =
         }
     .message =
         Unele extensii sunt restricționate și au fost dezactivate.
-        Le poți activa în setări, dar poate fi riscant.
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-            [few] { $extensionsCount } extensii dezactivate
-           *[other] { $extensionsCount } de extensii dezactivate
-        }
-    .message =
-        Unele extensii au fost dezactivate pentru că încalcă politicile Mozilla.
         Le poți activa în setări, dar poate fi riscant.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.

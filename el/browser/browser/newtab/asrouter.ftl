@@ -62,7 +62,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Συγχρονίστε παντού τους σελιδοδείκτες σας.
-cfr-doorhanger-bookmark-fxa-body = Εξαιρετική ανακάλυψη! Μην ξεχάσετε να αποθηκεύσετε αυτόν τον σελιδοδείκτη στις κινητές συσκευές σας. Ξεκινήστε με έναν { -fxaccount-brand-name(capitalization: "lower", case: "acc") }.
 cfr-doorhanger-bookmark-fxa-body-2 = Εξαιρετική ανακάλυψη! Μην ξεχάσετε να αποθηκεύσετε αυτόν τον σελιδοδείκτη στις κινητές συσκευές σας. Ξεκινήστε με έναν λογαριασμό.
 cfr-doorhanger-bookmark-fxa-link-text = Συγχρονισμός σελιδοδεικτών τώρα…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -75,12 +74,6 @@ fxa-adoption-credit-cards-backup-subtitle = Προστατέψτε τις μεθ
 fxa-adoption-bookmarks-treatment-backup-title = Ας δημιουργήσουμε αντίγραφα ασφαλείας των σελιδοδεικτών σας
 fxa-adoption-bookmarks-treatment-backup-subtitle = Προστατέψτε τους σελιδοδείκτες σας συγχρονίζοντάς τους με κρυπτογράφηση στις συσκευές σας.
 fxa-adoption-primary-button-label = Εγγραφή
-
-## Protections panel
-
-cfr-protections-panel-header = Περιήγηση χωρίς παρακολούθηση
-cfr-protections-panel-body = Κρατήστε τα δεδομένα σας για τον εαυτό σας. Το { -brand-short-name } σας προστατεύει από πολλούς από τους πιο συνηθισμένους ιχνηλάτες που ακολουθούν ό,τι κάνετε στο διαδίκτυο.
-cfr-protections-panel-link-text = Μάθετε περισσότερα
 
 ## What's New toolbar button and panel
 
@@ -175,42 +168,8 @@ mr2022-background-update-toast-primary-button-label = Άνοιγμα του { -b
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Υπενθύμιση αργότερα
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Δοκιμή
-    .accesskey = Δ
-firefoxview-cfr-secondarybutton = Όχι τώρα
-    .accesskey = χ
-firefoxview-cfr-header-v2 = Συνεχίστε γρήγορα από εκεί που σταματήσατε
-firefoxview-cfr-body-v2 = Βρείτε ξανά τις καρτέλες που έκλεισαν πρόσφατα και κάντε απρόσκοπτη εναλλαγή μεταξύ συσκευών με την { -firefoxview-brand-name(case: "nom") }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Πείτε «γεια» στην { -firefoxview-brand-name(case: "nom") }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Θέλετε αυτήν την ανοικτή καρτέλα στο τηλέφωνό σας; Αρπάξτε την. Χρειάζεστε αυτόν τον ιστότοπο που μόλις επισκεφτήκατε; Eπέστρεψε μαγικά με την { -firefoxview-brand-name(case: "nom") }.
-firefoxview-spotlight-promo-primarybutton = Δείτε πώς λειτουργεί
-firefoxview-spotlight-promo-secondarybutton = Παράλειψη
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Επιλογή χρωματικού συνδυασμού
-    .accesskey = Ε
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = Δώστε χρώμα στο πρόγραμμα περιήγησής σας με τις αποκλειστικές αποχρώσεις του { -brand-short-name }, εμπνευσμένες από φωνές που άλλαξαν τον πολιτισμό.
-colorways-cfr-header-28days = Οι χρωματικοί συνδυασμοί «Ανεξάρτητες φωνές» λήγουν στις 16 Ιανουαρίου
-colorways-cfr-header-14days = Οι χρωματικοί συνδυασμοί «Ανεξάρτητες φωνές» λήγουν σε δύο εβδομάδες
-colorways-cfr-header-7days = Οι χρωματικοί συνδυασμοί «Ανεξάρτητες φωνές» λήγουν αυτήν την εβδομάδα
-colorways-cfr-header-today = Οι χρωματικοί συνδυασμοί «Ανεξάρτητες φωνές» λήγουν σήμερα
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Να επιτρέπεται στο { -brand-short-name } η απόρριψη των μηνυμάτων για cookie;
-cfr-cbh-body = Το { -brand-short-name } μπορεί να απορρίψει αυτόματα πολλά μηνύματα αιτημάτων για cookie.
-cfr-cbh-confirm-button = Απόρριψη μηνυμάτων για cookie
-    .accesskey = Α
-cfr-cbh-dismiss-button = Όχι τώρα
-    .accesskey = χ
 cookie-banner-blocker-onboarding-header = Το { -brand-short-name } μόλις απέρριψε ένα μήνυμα cookie για εσάς
 cookie-banner-blocker-onboarding-body = Λιγότεροι περισπασμοί, λιγότερα cookie που σας παρακολουθούν σε αυτόν τον ιστότοπο.
 cookie-banner-blocker-onboarding-learn-more = Μάθετε περισσότερα

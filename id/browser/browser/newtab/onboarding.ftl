@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Tambahkan { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Progres: langkah { $current } dari { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -189,11 +183,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Sematkan { -brand-short-name } ke taskbar dan menu mulai
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Mulailah dengan peramban yang didukung oleh organisasi nirlaba. Kami mempertahankan privasi Anda sementara Anda menjelajahi web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -223,57 +212,10 @@ mr2022-onboarding-set-default-subtitle = Gunakan peramban yang didukung oleh org
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Versi terbaru kami dibangun untuk Anda, membuatnya lebih mudah dari sebelumnya untuk menjelajah web. Penuh dengan fitur yang kami rasa akan Anda sukai.
 mr2022-onboarding-get-started-primary-button-label = Siapkan dalam hitungan detik
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Pengaturan secepat kilat
-mr2022-onboarding-import-subtitle = Siapkan { -brand-short-name } sesuai keinginan Anda. Tambahkan markah, sandi, dan lainnya dari peramban lama Anda.
 mr2022-onboarding-import-primary-button-label-no-attribution = Impor dari peramban sebelumnya
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Pilih warna yang menginspirasi Anda
-mr2022-onboarding-colorway-subtitle = Suara independen dapat mengubah budaya.
-mr2022-onboarding-colorway-primary-button-label-continue = Setel dan lanjutkan
-mr2022-onboarding-existing-colorway-checkbox-label = Jadikan { -firefox-home-brand-name } beranda penuh warna
-mr2022-onboarding-colorway-label-default = Bawaan
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Warna { -brand-short-name } saat ini
-mr2022-onboarding-colorway-description-default = <b>Gunakan warna { -brand-short-name } saya saat ini.</b>
-mr2022-onboarding-colorway-label-playmaker = Playmaker
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Playmaker (merah)
-mr2022-onboarding-colorway-description-playmaker = <b>Anda adalah seorang Playmaker.</b> Anda menciptakan peluang untuk menang dan membantu semua orang di sekitar Anda meningkatkan permainan mereka.
-mr2022-onboarding-colorway-label-expressionist = Ekspresionis
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Ekspresionis (kuning)
-mr2022-onboarding-colorway-description-expressionist = <b>Anda adalah seorang Ekspresionis.</b> Anda melihat dunia secara berbeda dan kreasi Anda membangkitkan emosi orang lain.
-mr2022-onboarding-colorway-label-visionary = Visioner
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Visioner (hijau)
-mr2022-onboarding-colorway-description-visionary = <b>Anda adalah seorang Visioner.</b> Anda mempertanyakan status quo dan menggerakkan orang lain untuk membayangkan masa depan yang lebih baik.
-mr2022-onboarding-colorway-label-activist = Aktivis
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Aktivis (biru)
-mr2022-onboarding-colorway-description-activist = <b>Anda adalah seorang Aktivis.</b> Anda meninggalkan dunia sebagai tempat yang lebih baik daripada yang Anda temukan dan membuat orang lain percaya.
-mr2022-onboarding-colorway-label-dreamer = Pemimpi
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Pemimpi (ungu)
-mr2022-onboarding-colorway-description-dreamer = <b>Anda adalah Pemimpi.</b> Anda percaya bahwa keberuntungan berpihak pada yang berani dan menginspirasi orang lain untuk menjadi berani.
-mr2022-onboarding-colorway-label-innovator = Inovator
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Inovator (oranye)
-mr2022-onboarding-colorway-description-innovator = <b>Anda adalah seorang Inovator.</b> Anda melihat peluang di mana-mana dan memberi dampak pada kehidupan semua orang di sekitar Anda.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Lompat dari laptop ke ponsel dan kembali lagi
-mr2022-onboarding-mobile-download-subtitle = Ambil tab dari satu perangkat dan lanjutkan di mana Anda tinggalkan di perangkat lain. Selain itu, sinkronkan markah dan sandi Anda di mana pun Anda menggunakan { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Pindai kode QR untuk mendapatkan { -brand-product-name } untuk seluler atau <a data-l10n-name="download-label">kirim sendiri tautan unduhan.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Pindai kode QR untuk mendapatkan { -brand-product-name } untuk seluler.
 
@@ -326,15 +268,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Tangan berkulit terang dan berkulit gelap melakukan tos
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Pemandangan matahari terbenam melalui jendela dengan rubah dan tanaman rumah di ambang jendela
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Semprotan tangan melukis kolase warna-warni dari mata hijau, sepatu oranye, bola basket merah, headphone ungu, hati biru, dan mahkota kuning
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Seekor rubah di layar komputer laptop melambai. Laptop memiliki mouse yang dicolokkan ke sana.
 onboarding-device-migration-title = Selamat datang kembali!
-onboarding-device-migration-subtitle = Masuk ke { -fxaccount-brand-name(capitalization: "sentence") } Anda untuk membawa markah, kata sandi, dan riwayat Anda ke perangkat baru.
 onboarding-device-migration-subtitle2 = Masuk ke akun Anda untuk membawa markah, kata sandi, dan riwayat Anda di perangkat baru.
 onboarding-device-migration-primary-button-label = Masuk
 
@@ -446,15 +385,12 @@ tab-groups-onboarding-feature-callout-title = Coba grup tab untuk mengurangi ter
 tab-groups-onboarding-feature-callout-subtitle = Atur dengan menyeret satu tab di atas tab lainnya untuk membuat grup pertama Anda.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Temukan grup tab Anda di menu Cantumkan Daftar Semua Tab kapan saja.
-tab-groups-onboarding-create-group-title-2 = Temukan grup tab Anda di sini kapan saja.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Temukan grup Anda dengan mencarinya di bilah alamat.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Saat Anda menutup grup tab, buka kembali dari menu Cantumkan Daftar Semua Tab kapan saja.
-tab-groups-onboarding-saved-groups-title-2 = Saat Anda menutup grup tab, Anda dapat membukanya kembali di sini kapan saja.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Temukan grup tertutup Anda dengan mencarinya di bilah alamat.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Buka kembali grup tab Anda dari menu Cantumkan Daftar Semua Tab kapan saja.
-tab-groups-onboarding-session-restore-title = Buka kembali grup tab Anda di sini kapan saja.
 tab-groups-onboarding-dismiss = Oke
 
 ## Multi Profiles feature onboarding messages

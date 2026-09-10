@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = گوزارش فشناڌه وابی. ممنووݩ!
-confirmation-hint-login-removed = و من ٱووڌن پاک وابی!
 confirmation-hint-password-removed = رزم پاک وابی!
 confirmation-hint-page-bookmarked = من نشووکا زفت وابی
-confirmation-hint-password-saved = رزم زفت وابیڌ!
 confirmation-hint-password-created = رزم زفت وابیڌ
 confirmation-hint-password-updated = رزم ورۊ وابیڌ
 confirmation-hint-address-created = نشۊوی زفت وابیڌ

@@ -30,7 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Công cụ tìm kiếm mặc định của bạn đã được thay đổi.</strong> { $oldEngine } không còn khả dụng làm công cụ tìm kiếm mặc định trong { -brand-short-name }. { $newEngine } hiện là công cụ tìm kiếm mặc định của bạn. Để thay đổi sang một công cụ tìm kiếm mặc định khác, hãy chuyển đến cài đặt. <label data-l10n-name="remove-search-engine-article">Tìm hiểu thêm</label>
 removed-search-engine-message2 = <strong>Công cụ tìm kiếm mặc định của bạn đã được thay đổi.</strong> { $oldEngine } không còn khả dụng làm công cụ tìm kiếm mặc định trong { -brand-short-name }. { $newEngine } hiện là công cụ tìm kiếm mặc định của bạn. Để thay đổi sang một công cụ tìm kiếm mặc định khác, hãy chuyển đến cài đặt.
 remove-search-engine-button = OK
 
@@ -52,11 +51,11 @@ install-search-engine-no = Không
 ## The following strings are used as input labels.
 
 add-engine-window =
+    .style = min-width: 32em;
     .title = Thêm công cụ tìm kiếm
-    .style = min-width: 32em;
 edit-engine-window =
-    .title = Chỉnh sửa công cụ tìm kiếm
     .style = min-width: 32em;
+    .title = Chỉnh sửa công cụ tìm kiếm
 add-engine-button = Thêm công cụ tùy chỉnh
 add-engine-name = Tên công cụ tìm kiếm
 add-engine-url2 = URL với %s thay cho từ khóa tìm kiếm
@@ -93,11 +92,11 @@ add-engine-missing-terms-post-data = Hãy thử thêm %s vào thay cho từ khó
 # of the dialog.
 add-engine-dialog2 =
     .buttonlabelaccept = Thêm công cụ
-    .buttonaccesskeyaccept = A
     .buttonlabelextra1 = Nâng cao
+    .buttonaccesskeyaccept = A
 # buttonlabelextra1 is the label of a button to open the advanced section
 # of the dialog.
 edit-engine-dialog =
     .buttonlabelaccept = Lưu công cụ
-    .buttonaccesskeyaccept = S
     .buttonlabelextra1 = Nâng cao
+    .buttonaccesskeyaccept = S

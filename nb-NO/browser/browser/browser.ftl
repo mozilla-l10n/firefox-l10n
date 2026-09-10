@@ -2,113 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Privat nettlesing
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Privat nettlesing
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Privat nettlesing
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Privat nettlesing
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Privat nettlesing
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
 browser-shortcut-description = Rask og privat nettsurfing
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Privat nettlesing
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } Privat nettlesing
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } Privat nettlesing
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Privat nettlesing
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } — Privat nettlesing
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Privat nettlesing
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Privat nettlesing
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Privat nettlesing
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -176,8 +74,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Åpne meldingspanel for frakoblet data
 urlbar-password-notification-anchor =
     .tooltiptext = Åpne meldingspanel for lagring av passord
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Administrer bruk av programtillegg
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Behandle deling av kamera og/eller mikrofon på dette nettstedet
 # "Speakers" is used in a general sense that might include headphones or
@@ -190,15 +86,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Lagre data i vedvarende lagring
 urlbar-addons-notification-anchor =
     .tooltiptext = Åpne meldingspanel for utvidelsesinstallasjon
-urlbar-tip-help-icon =
-    .title = Få hjelp
 urlbar-search-tips-confirm = Ok, jeg forstår
 urlbar-search-tips-confirm-short = Jeg forstår
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Tips:
 urlbar-result-menu-button =
     .title = Åpne meny
 urlbar-result-menu-button-feedback = Tilbakemelding
@@ -243,9 +132,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = Avvis dette forslaget
     .accesskey = A
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = Les mer om { -firefox-suggest-brand-name }
-    .accesskey = L
 urlbar-result-menu-manage-firefox-suggest =
     .label = Behandle { -firefox-suggest-brand-name }
     .accesskey = B
@@ -277,8 +163,6 @@ urlbar-dismissal-acknowledgment-weather = Takk for tilbakemeldingen din. Du vil 
 
 urlbar-search-tips-onboard = Skriv mindre, finn mer: Søk med { $engineName } direkte fra adresselinjen din.
 urlbar-search-tips-redirect-2 = Start ditt søk i adressefeltet for å se forslag fra { $engineName } og din nettleserhistorikk.
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = Det ble enklere å søke. Prøv å gjøre søket mer spesifikt her i adressefeltet. For å vise nettadressen i stedet, gå til Søk i innstillingene.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Velg denne snarveien for å finne det du trenger raskere.
@@ -312,8 +196,6 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Du har blokkert vedvarende lagring for denne nettsiden.
 urlbar-popup-blocked2 =
     .tooltiptext = Du har blokkert sprettoppvinduer og tredjepartvideresendinger for dette nettstedet.
-urlbar-popup-blocked =
-    .tooltiptext = Du har blokkert sprettoppvinduer for dette nettstedet.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Du har blokkert automatisk avspilling av medier med lyd på dette nettstedet.
 urlbar-canvas-blocked =
@@ -424,24 +306,18 @@ quickactions-cmd-addons3 = utvidelser, temaer, tillegg
 # Opens preferences page at AI controls
 quickactions-manageai = Behandle AI-kontroller
 quickactions-cmd-manageai = deaktivere ai, slå av ai, behandle ai, administrer ai, deaktivere ki, slå av ki, behandle ki, administrer ki
-quickactions-cmd-addons2 = tillegg
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Behandle bokmerker
 quickactions-cmd-bookmarks = bokmerker
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Tøm nylig historikk
 quickactions-cmd-clearrecenthistory2 = infokapsler, slett infokapsler, informasjonskapsler, slett informasjonskapsler, hurtigbuffer, tøm hurtigbuffer, nettlesingsdata, slett nettlesingsdata, historikk, slett nylig historikk
-quickactions-cmd-clearrecenthistory = tøm nylig historikk, historikk
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Tøm historikk
-quickactions-cmd-clearhistory = tøm historikk
 # Opens about:downloads page
 quickactions-downloads2 = Vis nedlastinger
 quickactions-cmd-downloads = nedlastinger
 # Opens about:addons page in the extensions section
 quickactions-extensions = Behandle utvidelser
 quickactions-cmd-extensions2 = utvidelser, tillegg
-quickactions-cmd-extensions = utvidelser
 # Opens Firefox View
 quickactions-firefoxview = Åpne { -firefoxview-brand-name }
 # English is using "view" and "open view", since the feature name is
@@ -460,7 +336,6 @@ quickactions-cmd-colorpicker = fargevelger, pipette, velg farge
 # Opens Firefox Library
 quickactions-cmd-library = bibliotek
 quickactions-library = Åpne bibliotek
-quickactions-cmd-inspector = inspektør, utviklerverktøy
 # Opens about:logins
 quickactions-logins2 = Behandle passord
 quickactions-cmd-logins = innlogginger, passord
@@ -470,9 +345,6 @@ quickactions-mute = Demp faner som spiller av lyd
 # Replace with idiomatic expressions in your language to silence something or
 # someone.
 quickactions-cmd-mute = demp, stille, tyss, hysj, sssssh
-# Opens about:addons page in the plugins section
-quickactions-plugins = Behandle programtillegg
-quickactions-cmd-plugins = programtillegg
 # Opens the print dialog
 quickactions-print2 = Skriv ut side
 quickactions-cmd-print = utskrift, skriv ut
@@ -497,19 +369,16 @@ quickactions-cmd-screenshot2 = skjermbilde, ta et skjermbilde
 # Opens about:translations
 quickactions-translate = Oversett
 quickactions-cmd-translate = oversett
-quickactions-cmd-screenshot = skjermbilde, skjermdump
 # Opens about:preferences
 quickactions-settings2 = Behandle innstillinger
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = innstillinger, preferanser, alternativer, behandle
-quickactions-cmd-settings = valg, innstillinger, alternativer
 # Opens about:addons page in the themes section
 quickactions-themes = Behandle temaer
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-themes2 = temaer, tillegg
-quickactions-cmd-themes = tema
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Oppdater { -brand-short-name }
 quickactions-cmd-update = oppdater
@@ -519,7 +388,6 @@ quickactions-cmd-viewsource2 = vis kilde, kilde, sidekilde
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = Åpne { -firefoxlabs-brand-name }
 quickactions-cmd-labs = lab, labs, eksperiment
-quickactions-cmd-viewsource = se kilde, kilde
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Les mer om hurtige handlinger
@@ -576,9 +444,7 @@ identity-custom-root = Tilkobling verifisert av en sertifikatutsteder som ikke k
 identity-passive-loaded = Deler av denne siden er ikke sikker (f.eks. bilder).
 identity-active-loaded = Du har slått av beskyttelse på denne siden.
 identity-weak-encryption = Denne siden bruker svak kryptering.
-identity-insecure-login-forms = Innloggingsinfo skrevet inn på denne kan leses av en tredjepart.
 identity-https-only-connection-upgraded = (oppgradert til HTTPS)
-identity-https-only-label = Kun-HTTPS-modus
 identity-https-only-label2 = Oppgrader denne siden automatisk til en sikker tilkobling
 identity-https-only-dropdown-on =
     .label = På
@@ -586,8 +452,6 @@ identity-https-only-dropdown-off =
     .label = Av
 identity-https-only-dropdown-off-temporarily =
     .label = Midlertidig av
-identity-https-only-info-turn-on2 = Slå på kun-HTTPS-modus for dette nettstedet hvis du vil at { -brand-short-name } skal oppgradere til en sikker tilkobling når det er mulig.
-identity-https-only-info-turn-off2 = Hvis nettsiden virker ødelagt, kan det være lurt å slå av kun-HTTPS-modus for dette nettstedet for å laste inn på nytt ved hjelp av usikker HTTP.
 identity-https-only-info-turn-on3 = Slå på HTTPS-oppgraderinger for dette nettstedet hvis du vil at { -brand-short-name } skal oppgradere tilkoblingen når det er mulig.
 identity-https-only-info-turn-off3 = Hvis siden virker ødelagt, kan det være lurt å slå av HTTPS-oppgraderinger for at dette nettstedet skal lastes inn på nytt ved hjelp av usikker HTTP.
 identity-https-only-info-no-upgrade = Kan ikke å oppgradere tilkoblingen fra HTTP.
@@ -611,7 +475,6 @@ identity-remove-cert-exception =
     .label = Fjern unntak
     .accesskey = F
 identity-description-insecure = Tilkoblingen til dette nettstedet er ikke privat. Informasjon du sender kan leses av andre (som f.eks. passord, meldinger, betalingskort, osv.).
-identity-description-insecure-login-forms = Innloggingsinformasjonen du skriver inn på denne siden er ikke trygg, og kan kompromitteres.
 identity-description-weak-cipher-intro = Tilkoblingen til dette nettstedet bruker svak kryptering, og er ikke privat.
 identity-description-weak-cipher-risk = Andre personer kan se informasjonen eller endre nettstedets oppførsel.
 identity-description-active-blocked2 = { -brand-short-name } har blokkert deler av denne siden som ikke er sikker.
@@ -622,12 +485,6 @@ identity-description-active-loaded = Dette nettstedet inneholder innhold som ikk
 identity-description-active-loaded-insecure = Informasjon du sender til dette nettstedet kan vises av andre (som passord, meldinger, betalingskort, osv.).
 identity-description-tls-key-logging-heading = Tilkoblingen er kanskje ikke privat
 identity-description-tls-key-logging-message = En app eller tjeneste kan se den krypterte trafikken din fra dette nettstedet.
-identity-disable-mixed-content-blocking =
-    .label = Slå av beskyttelse
-    .accesskey = a
-identity-enable-mixed-content-blocking =
-    .label = Slå på beskyttelse
-    .accesskey = S
 identity-more-info-link-text =
     .label = Mer informasjon
 
@@ -644,37 +501,6 @@ browser-window-close-button =
 # Clicking this button closes the window and returns to the tab where it was opened from
 browser-window-return-to-opener =
     .tooltiptext = Tilbake
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = SPILLER AV
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = DEMPET
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = AUTOAVSPILLING BLOKKERT
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = BILDE-I-BILDE
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] SLÅ AV LYD I FANE
-       *[other] SLÅ AV LYD I { $count } FANER
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] SLÅ PÅ LYD I FANE
-       *[other] SLÅ PÅ LYD I { $count } FANER
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] SPILL AV FANE
-       *[other] SPILL AV { $count } FANER
-    }
 
 ## Bookmarks toolbar items
 
@@ -715,10 +541,6 @@ sharing-warning-disable-for-session =
 
 webserial-select-port-label = Velg en serieport:
 webserial-no-ports-available = Ingen serieporter tilgjengelig
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = For å bruke F12-snarveien, må du først åpne DevTools via menyen Nettleserverktøy.
 
 ## URL Bar
 
@@ -783,8 +605,6 @@ urlbar-extension =
     .value = Utvidelse:
 urlbar-go-button2 =
     .title = Gå til adressen i adresselinjen
-urlbar-go-button =
-    .tooltiptext = Gå til adressen i adresselinjen
 urlbar-page-action-button =
     .tooltiptext = Sidehandlinger
 urlbar-revert-button =
@@ -842,11 +662,6 @@ urlbar-result-action-tabtosearch-web = Søk med { $engine } direkte fra adressel
 urlbar-result-action-tabtosearch-other-engine = Søk i { $engine } direkte fra adresselinjen
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Kopier
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = udefinert
 # The sub title of an add-on suggestion in the urlbar.
@@ -857,23 +672,6 @@ urlbar-result-mdn-subtitle = { -mdn-brand-name }
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
 urlbar-result-suggestion-recommended = Anbefalt
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
-# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
-# The last = sign will be shown as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
-# Shows the result of a formula expression being calculated, to a maximum of 9 significant
-# digits. This is used for numbers < 1.
-# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 # The title of a weather suggestion in the urlbar. The temperature and unit
 # substring should be inside a <strong> tag. If the temperature and unit are not
 # adjacent in the localization, it's OK to include only the temperature in the
@@ -1062,32 +860,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Søk i { $localSea
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Søk med { $engine }
-urlbar-searchmode-dropmarker =
-    .tooltiptext = Velg en søkemotor
-urlbar-searchmode-bookmarks =
-    .label = Bokmerker
-urlbar-searchmode-tabs =
-    .label = Faner
-urlbar-searchmode-history =
-    .label = Historikk
-urlbar-searchmode-actions =
-    .label = Handlinger
-urlbar-searchmode-exit-button =
-    .tooltiptext = Lukk
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = Søk denne gang med:
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = Søkeinnstillinger
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button2 =
-    .label = { $engine }, velg en søkemotor
-    .tooltiptext = { $engine }, velg en søkemotor
-urlbar-searchmode-button-no-engine =
-    .label = Ingen snarvei valgt, velg en snarvei
-    .tooltiptext = Ingen snarvei valgt, velg en snarvei
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1194,16 +966,10 @@ urlbar-group-trending =
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Ikke vis populære søk
     .accesskey = k
-# Label shown above sponsored suggestions in the urlbar results.
-urlbar-group-sponsored =
-    .label = Sponset
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Ikke vis populære søk
     .accesskey = k
-urlbar-result-menu-trending-why =
-    .label = Hvorfor ser jeg dette?
-    .accesskey = H
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = Takk for din tilbakemelding. Du vil ikke lenger se populære søk.
@@ -1288,12 +1054,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Vis bokmerkeverktøylinjen
            *[other] Skjul bokmerkeverktøylinjen
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Fjern bokmerkemeny fra verktøylinjen
-           *[other] Legg til bokmerkemeny til verktøylinjen
-        }
 
 ##
 
@@ -1324,14 +1084,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = Bokmerker
-library-recent-activity-title =
-    .value = Nylig aktivitet
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Lagre til { -pocket-brand-name }
-    .tooltiptext = Lagre til { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
@@ -1421,8 +1173,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = I
 
 ## Password save/update panel
 
-panel-save-update-username = Brukernavn
-panel-save-update-password = Passord
 panel-save-update-username-2 =
     .label = Brukernavn
 panel-save-update-password-2 =
@@ -1444,33 +1194,18 @@ menu-share-copy-links =
            *[other] Kopier { $count } lenker
         }
     .accesskey = o
-menu-share-copy-link =
-    .label = Kopier lenke
-    .accesskey = l
 ui-tour-info-panel-close =
     .tooltiptext = Lukk
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
-popups-infobar-allow =
-    .label = Tillat sprettoppvinduer fra { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Blokker sprettoppvinduer fra { $uriHost }
-    .accesskey = p
 popups-infobar-allow2 =
     .label = Tillat sprettoppvinduer og tredjepartvideresendinger for { $uriHost }
     .accesskey = s
 
 ##
 
-popups-infobar-dont-show-message =
-    .label = Ikke vis denne meldingen når sprettoppvinduer blokkeres
-    .accesskey = I
-edit-popup-settings =
-    .label = Behandle sprettoppvindu-innstillinger
-    .accesskey = B
 picture-in-picture-hide-toggle =
     .label = Skjul bilde-i-bilde-veksleknapp
     .accesskey = S
@@ -1496,8 +1231,6 @@ navbar-downloads =
     .label = Nedlastinger
 navbar-overflow-2 =
     .tooltiptext = Flere verktøy
-navbar-overflow =
-    .tooltiptext = Flere verktøy …
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1600,13 +1333,8 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = Avslutt privat økt
-    .tooltiptext = Avslutt privat økt
 reset-pbm-panel-heading2 = Slette data og starte en ny privat økt?
 reset-pbm-panel-description2 = Dette sletter historikk, infokapsler og alle andre nettstedsdata uten å lukke det private vinduet.
-reset-pbm-panel-heading = Avslutte privat økt?
-reset-pbm-panel-description = Lukk alle private faner og slett historikk, infokapsler og all annen nettstedsdata.
 reset-pbm-panel-always-ask-checkbox =
     .label = Spør meg alltid
     .accesskey = S
@@ -1616,9 +1344,6 @@ reset-pbm-panel-cancel-button =
 reset-pbm-panel-confirm-button2 =
     .label = Tøm privat økt
     .accesskey = T
-reset-pbm-panel-confirm-button =
-    .label = Slett øktdata
-    .accesskey = S
 reset-pbm-panel-complete = Private øktdata slettet
 reset-pbm-toolbar-button2 =
     .label = Tøm privat økt

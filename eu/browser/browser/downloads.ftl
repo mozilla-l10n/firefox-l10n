@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Erakutsi Finder-en
            *[other] Erakutsi karpetan
         }
-downloads-cmd-show-downloads =
-    .label = Erakutsi deskargen karpeta
 downloads-cmd-retry =
     .tooltiptext = Saiatu berriro
 downloads-cmd-retry-panel =

@@ -64,19 +64,9 @@ appmenu-remote-tabs-connectdevice =
     .label = Kub Nyonyo Mukene
 appmenu-remote-tabs-unverified = Myero ki mok ada pa akaunt mamegi.
 appmenuitem-fxa-sign-in = Dony iyie { -brand-product-name }
-appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
 appmenu-fxa-signed-in-label = Dony iyie
 appmenuitem-save-page =
     .label = Gwok pot buk calo…
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Ngo Manyen
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Mi ngec pi jami manyen
-    .accesskey = m
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -128,8 +118,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Ikom { -brand-shorter-name }
     .accesskey = I
-appmenu-help-report-site-issue =
-    .label = Mi ripot ikom peko me kakube…
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

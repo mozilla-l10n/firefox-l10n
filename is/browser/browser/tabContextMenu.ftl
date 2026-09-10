@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Nýr flipi
-    .accesskey = N
 reload-tab =
     .label = Endurnýja flipa
     .accesskey = r
@@ -98,10 +95,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nýr hópur
     .accesskey = h
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -126,13 +119,6 @@ tab-context-move-tabs =
            *[other] Færa flipa
         }
     .accesskey = F
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Senda flipa í tæki
-           *[other] Senda { $tabCount } flipa í tæki
-        }
-    .accesskey = n
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

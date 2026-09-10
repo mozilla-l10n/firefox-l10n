@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = I na vegn betg fidà al certificat, perquai 
 cert-error-trust-signature-algorithm-disabled = Da quest certificat na vegn betg fidà perquai ch'el è vegnì suttascrit cun in algoritmus da suttascriver ch'è vegnì deactivà perquai ch'el n'è betg segir.
 cert-error-trust-expired-issuer = I na vegn betg fidà al certificat, perquai ch'il certificat da l'emettur è scrudà.
 cert-error-trust-self-signed = I na vegn betg fidà al certificat, perquai ch'el è vegnì suttascrit sez.
-cert-error-trust-symantec = Certificats emess da GeoTrust, RapidSSL, Symantec, Thawte e VeriSign na vegnan betg pli considerads sco segirs cunquai che questas autoritads da certificaziun n'han betg resguardà directivas da segirezza en il passà.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } na sa fida betg da { $hostname } perquai ch’il server n’ha betg pudì cumprovar ch’el satisfa a las exigenzas concernent la transparenza da certificats publics.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Code d'errur: <a data-l10n-name="error-code-link">
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Ina errur è succedida durant ina connexiun cun { $hostname }. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Websites cumprovan lur identitad cun certificats che vegnan emess dad autoritads da certificaziun. Ils blers navigaturs na sa fidan betg pli da certificats emess da GeoTrust, RapidSSL, Symantec, Thawte e VeriSign. { $hostname } utilisescha in certificat dad ina da questas autoritads, uschia ch'i n'è betg pussaivel da verifitgar l'identitad da la website.
-cert-error-symantec-distrust-admin = Ti pos infurmar l'administratur da la website davart quest problem.
 cert-error-old-tls-version = Questa website na sustegna eventualmain betg il protocol TLS 1.2. Quai è dentant la versiun minimala sustegnida da { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,12 +62,10 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Chadaina da certificats:
-open-in-new-window-for-csp-or-xfo-error = Avrir la website en ina nova fanestra
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Per proteger tia segirezza na permetta { $hostname } betg a { -brand-short-name } da visualisar la pagina sche in'autra website l'ha incorporada. Per vesair questa pagina la stos ti avrir en ina nova fanestra.
 fp-certerror-view-certificate-link = Mussar il certificat da la website
-fp-certerror-return-to-previous-page-recommended-button = Turnar (recumandà)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -92,21 +85,21 @@ fp-certerror-self-signed-important-note = REMARTGA IMPURTANTA: Sche ti emprovas 
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = Websites utiliseschan certificats emess dad in’autoritad da certificaziun per cumprovar ch’ellas èn propi quellas ch’ellas pretendan dad esser. { -brand-short-name } na sa fida betg da questa website perquai ch’i para ch’il certificat saja scrudà ils { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-expired-why-dangerous-body = Websites utiliseschan certificats emess dad in’autoritad da certificaziun per cumprovar ch’ellas èn propi quellas ch’ellas pretendan dad esser. { -brand-short-name } na sa fida betg da questa website perquai ch’i para ch’il certificat saja scrudà ils { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = Websites utiliseschan certificats emess dad in’autoritad da certificaziun per cumprovar ch’ellas èn propi quellas ch’ellas pretendan dad esser. { -brand-short-name } na sa fida betg da questa website perquai ch’i para ch’il certificat na vegn betg ad esser valid enfin ils { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-not-yet-valid-why-dangerous-body = Websites utiliseschan certificats emess dad in’autoritad da certificaziun per cumprovar ch’ellas èn propi quellas ch’ellas pretendan dad esser. { -brand-short-name } na sa fida betg da questa website perquai ch’i para ch’il certificat na vegn betg ad esser valid enfin ils { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = L’ura da tes apparat mussa las { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Sche quai è correct, sa tracti probablamain dad in problem da segirezza da la website sezza. Sch’il temp n’è betg correct, pos ti drizzar l’ura en la configuraziun dal sistem.
+fp-certerror-expired-what-can-you-do-body = L’ura da tes apparat mussa las { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Sche quai è correct, sa tracti probablamain dad in problem da segirezza da la website sezza. Sch’il temp n’è betg correct, pos ti drizzar l’ura en la configuraziun dal sistem.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Code d’errur: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 fp-learn-more-about-secure-connection-failures = Ve a savair dapli davart errurs en connex cun connexiuns segiradas
 fp-learn-more-about-cert-issues = Ve a savair dapli davart tals problems cun certificats
 fp-learn-more-about-time-related-errors = Ve a savair dapli davart la soluziun da problems en connex cun l’ura
@@ -118,8 +111,6 @@ deniedPortAccess-title = Il port è bloccà per motivs da segirezza
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Dianteren. Nus avain difficultads da chattar questa pagina.
-dns-not-found-trr-only-title2 = Ristga da segirezza potenziala durant la consultaziun da questa domena
-dns-not-found-native-fallback-title2 = Ristga da segirezza potenziala durant la consultaziun da questa domena
 fileNotFound-title = Impussibel da chattar la datoteca
 fileAccessDenied-title = Refusà l'access a la datoteca
 generic-title = Oh Dieu!
@@ -144,7 +135,6 @@ unknownSocketType-title = Resposta nuncorrecta
 nssFailure2-title = La connexiun segira n'è betg reussida
 csp-xfo-error-title = { -brand-short-name } na po betg avrir questa pagina
 corruptedContentErrorv2-title = Errur da cuntegn donnegià
-corruptedContentError-title = Errur da cuntegn donnegià
 sslv3Used-title = Impussibel da connectar a moda segira
 inadequateSecurityError-title = Tia connexiun n'è betg segirada
 blockedByPolicy-title = Pagina bloccada
@@ -167,6 +157,5 @@ fp-certerror-hide-advanced-button = Zuppentar avanzà
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Cuntinuar vers { $hostname } (ristgà)
 fp-certerror-intro = { -brand-short-name } ha chattà in problem da segirezza potenzialmain serius cun <strong>{ $hostname }</strong>. Insatgi che pretenda dad esser la website pudess empruvar dad engular infurmaziuns sco datas da cartas da credit, pleds-clav u e-mails.
 fp-certerror-expired-into = { -brand-short-name } ha chattà in problem da segirezza cun <strong>{ $hostname }</strong>. U che la website n’è betg configurada endretg u che l’ura da tes apparat mussa ina data / in temp sbaglià.

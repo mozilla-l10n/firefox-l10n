@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = ਤੁਹਾਡੇ ਸਰਟੀਫਿਕੇਟ
 certificate-viewer-tab-people = ਲੋਕ
 certificate-viewer-tab-servers = ਸਰਵਰ
 certificate-viewer-tab-ca = ਅਥਾਰਟੀਆਂ
-certificate-viewer-tab-unkonwn = ਅਣਪਛਾਤੇ

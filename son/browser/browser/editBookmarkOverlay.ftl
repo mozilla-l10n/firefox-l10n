@@ -4,10 +4,6 @@
 
 bookmark-overlay-choose =
     .label = Suuba…
-bookmark-overlay-folders-expander =
-    .tooltiptext = Doo-šilba foolawey kul cebe
-    .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
-    .tooltiptextup = Tugu
 bookmark-overlay-folders-expander2 =
     .tooltiptext = Doo-šilba foolawey kul cebe
 bookmark-overlay-folders-expander-hide =
@@ -17,10 +13,6 @@ bookmark-overlay-new-folder-button =
     .accesskey = F
 bookmark-overlay-tags-empty-description =
     .placeholder = Kanji fayantey nda surkumey
-bookmark-overlay-tags-expander =
-    .tooltiptext = Kanjey kul cebe
-    .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
-    .tooltiptextup = Tugu
 bookmark-overlay-tags-expander2 =
     .tooltiptext = Kanjey kul cebe
 bookmark-overlay-tags-expander-hide =

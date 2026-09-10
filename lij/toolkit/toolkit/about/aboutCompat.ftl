@@ -8,8 +8,5 @@ label-interventions = Coreçion
 # Variables:
 #   $bug (string) - Bug number
 label-more-information = Ciù informaçioin: Bagon { $bug }
-label-overrides = Sostitoçioin de l'User Agent
 text-disabled-in-about-config = Sta fonçion a l'é dizabilitâ in about:config
 text-no-interventions = Nisciunn-a coreçion in uzo
-text-no-overrides = Nisciunn-a sostitoçion de l'UA in uzo
-text-title = about:compat

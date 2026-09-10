@@ -29,13 +29,6 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = స్థాపనకు కొనసాగు
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = సాఫ్ట్‌వేర్ స్థాపనను మీ సిస్టమ్ నిర్వహణాధికారి అచేతనం చేసివున్నారు.
 xpinstall-disabled = సాఫ్ట్‌వేర్ స్థాపన ప్రస్తుతం అచేతనం చేయబడింది. చేతనంని నొక్కిన తర్వాత ప్రయత్నించండి.
 xpinstall-disabled-button =
     .label = చేతనించు
@@ -57,9 +50,6 @@ webext-perms-update-menu-item = { $addonName }‌కి కొత్త అన�
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = { $name }‌ను తీసివేయారా?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = { -brand-shorter-name } నుండి { $name }‌ని తొలగించాలా?
 addon-removal-button = తొలగించు
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
@@ -110,4 +100,3 @@ addon-local-install-error-not-signed = ఈ పొడిగింత నిర్
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } స్థాపించబడలేదు ఎందుకంటే అది { -brand-short-name } { $appVersion } లతో అనుగుణంగా లేదు.
-addon-install-error-blocklisted = స్థిరత్వ, భద్రతా సమస్యలను కలుగజేసేందుకు అధిక వీలున్న కారణంగా { $addonName } స్థాపించబడలేదు.

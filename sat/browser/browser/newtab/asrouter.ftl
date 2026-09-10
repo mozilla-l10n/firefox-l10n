@@ -64,18 +64,11 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = ᱟᱢᱟᱜ ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱡᱦᱚᱛᱚ ᱥᱮᱱ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱢᱮ ᱾
-cfr-doorhanger-bookmark-fxa-body = ᱥᱟᱨᱦᱟᱣ ᱯᱟᱱᱛᱮ! ᱱᱤᱛᱟᱜ ᱫᱚ ᱟᱢᱟᱜ ᱢᱚᱵᱟᱭᱤᱞ ᱥᱟᱫᱷᱟᱱ ᱛᱮ ᱵᱟᱝ ᱯᱚᱪᱚᱡᱚᱜᱼᱟᱢ ᱾ { -fxaccount-brand-name } ᱛᱮ ᱮᱛᱦᱟᱵ ᱢᱮ ᱾
 cfr-doorhanger-bookmark-fxa-body-2 = ᱥᱟᱨᱦᱟᱣ ᱯᱟᱱᱛᱮ! ᱱᱤᱛᱟᱜ ᱫᱚ ᱟᱢᱟᱜ ᱢᱚᱵᱟᱭᱤᱞ ᱥᱟᱫᱷᱟᱱ ᱛᱮ ᱵᱟᱝ ᱯᱚᱪᱚᱡᱚᱜᱼᱟᱢ ᱾ ᱢᱤᱫᱴᱟᱹᱝ ᱠᱷᱟᱛᱟ ᱮᱛᱦᱚᱵ ᱢᱮ ᱾
 cfr-doorhanger-bookmark-fxa-link-text = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱱᱤᱛᱚᱜ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱢᱮ …
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = ᱵᱚᱸᱫ ᱵᱩᱛᱟᱹᱢ
     .title = ᱵᱚᱸᱫ
-
-## Protections panel
-
-cfr-protections-panel-header = ᱵᱤᱱᱟᱹ ᱯᱟᱧᱡᱟ ᱠᱟᱛᱮ ᱵᱽᱨᱟᱣᱡᱽ ᱢᱮ
-cfr-protections-panel-body = ᱟᱢᱟᱜᱽ ᱰᱟᱴᱟ ᱟᱢ ᱴᱷᱮᱱ ᱜᱮ ᱫᱚᱦᱚᱭ ᱢᱮ ᱾ { -brand-short-name } ᱫᱚ ᱟᱭᱢᱟ ᱥᱚᱢᱟᱱ ᱯᱟᱧᱡᱟ ᱫᱟᱱᱟᱲ ᱠᱚ ᱴᱷᱮᱱ ᱠᱷᱚᱱ ᱚᱱᱞᱟᱭᱤᱱ ᱨᱩᱠᱷᱤᱭᱟᱹᱭ ᱢᱮᱟᱭ ᱾
-cfr-protections-panel-link-text = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## What's New toolbar button and panel
 
@@ -172,42 +165,8 @@ mr2022-background-update-toast-primary-button-label = ᱱᱤᱛᱚᱜ { -brand-s
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = ᱛᱟᱭᱚᱢ ᱛᱮ ᱩᱭᱦᱟᱹᱨ ᱤᱧ ᱢᱮ
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = ᱪᱮᱥᱴᱟ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
-    .accesskey = T
-firefoxview-cfr-secondarybutton = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
-    .accesskey = N
-firefoxview-cfr-header-v2 = ᱞᱚᱜᱚᱱ ᱪᱟᱞᱟᱜ ᱢᱮ ᱡᱟᱦᱟᱸ ᱨᱮ ᱢᱟᱲᱟᱝ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟᱢ
-firefoxview-cfr-body-v2 = { -firefoxview-brand-name } ᱛᱮ ᱟᱢ ᱵᱚᱱᱫ ᱟᱠᱟᱱ ᱴᱮᱵᱽ, ᱥᱟᱶᱛᱮ ᱥᱟᱫᱷᱚᱱ ᱵᱷᱤᱛᱤᱨ ᱨᱮ ᱫᱚᱱ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = { -firefoxview-brand-name } ᱡᱚᱦᱟᱨᱟᱭ ᱢᱮ
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = ᱯᱷᱚᱱ ᱨᱮ ᱴᱮᱵᱽ ᱠᱷᱩᱞᱟᱹ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱥᱮ ? ᱱᱤᱛᱚᱜ ᱦᱟᱛᱟᱣ ᱢᱮ ᱾ ᱱᱤᱛᱚᱜ ᱠᱚᱨᱟᱣ ᱠᱟᱛᱮ ᱧᱮᱞ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱢᱮ ? { -firefoxview-brand-name } ᱵᱚᱦᱟᱞ ᱢᱮ ᱾
-firefoxview-spotlight-promo-primarybutton = ᱧᱮᱞ ᱢᱮ ᱪᱮᱫ ᱞᱮᱠᱷᱟ ᱠᱟᱹᱢᱤᱭᱟ
-firefoxview-spotlight-promo-secondarybutton = ᱟᱲᱟᱜ
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = ᱠᱚᱞᱚᱨᱣᱮ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
-    .accesskey = C
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = { -brand-short-name } ᱵᱮᱵᱷᱟᱨ ᱥᱟᱶᱛᱮ ᱨᱚᱝ ᱠᱚ ᱮᱢᱟᱱ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
-colorways-cfr-header-28days = ᱥᱟᱹᱫᱷᱤᱱ ᱠᱚᱞᱚᱨᱣᱮ ᱥᱟᱰᱮ ᱡᱟᱱᱣᱟᱨᱤ 16 ᱨᱮ ᱪᱟᱵᱟᱜ ᱠᱟᱱᱟ ᱾
-colorways-cfr-header-14days = ᱥᱟᱹᱫᱷᱤᱱ ᱠᱚᱞᱚᱨᱣᱮ ᱥᱟᱰᱮ ᱵᱟᱨ ᱦᱟᱯᱛᱟ ᱨᱮ ᱪᱟᱵᱟᱜ ᱠᱟᱱᱟ ᱾
-colorways-cfr-header-7days = ᱥᱟᱹᱫᱷᱤᱱ ᱠᱚᱞᱚᱨᱣᱮ ᱥᱟᱰᱮ ᱱᱤᱭᱟᱹ ᱦᱟᱹᱯᱛᱟ ᱨᱮ ᱪᱟᱵᱟᱜ ᱠᱟᱱᱟ ᱾
-colorways-cfr-header-today = ᱥᱟᱹᱫᱷᱤᱱ ᱠᱚᱞᱚᱨᱣᱮ ᱥᱟᱰᱮ ᱛᱮᱦᱮᱸᱧ ᱪᱟᱵᱟᱜ ᱠᱟᱱᱟ ᱾
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = { -brand-short-name } ᱫᱚ ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱠᱚ ᱵᱟᱫ ᱪᱷᱚᱭᱟᱢ ᱥᱮ ?
-cfr-cbh-body = { -brand-short-name } ᱫᱚ ᱟᱡ ᱛᱮᱜᱮ ᱟᱭᱢᱟ ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱱᱮᱦᱚᱨ ᱠᱚ ᱵᱟᱫ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
-cfr-cbh-confirm-button = ᱠᱩᱠᱤ ᱵᱮᱱᱚᱨ ᱵᱟᱫ ᱜᱤᱰᱤ
-    .accesskey = R
-cfr-cbh-dismiss-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
-    .accesskey = N
 cookie-banner-blocker-onboarding-header = { -brand-short-name } ᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱠᱤ ᱵᱮᱱᱟᱨ ᱵᱟᱭ ᱟᱝᱜᱚᱪ ᱞᱮᱫᱟ
 cookie-banner-blocker-onboarding-body = ᱱᱤᱭᱟᱹ ᱥᱟᱭᱤᱴ ᱨᱮ ᱟᱢᱟᱜ ᱴᱨᱮᱠᱤᱝ ᱠᱚᱢ ᱜᱮ ᱦᱩᱭᱩᱜᱼᱟ, ᱠᱚᱢ ᱩᱞᱢᱟᱹᱞ ᱦᱩᱭᱩᱜᱼᱟ ᱾
 cookie-banner-blocker-onboarding-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ

@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = Անցեք սարքերի միջով՝ �
 callout-firefox-view-tab-pickup-subtitle = Արագ վերցրեք բաց ներդիրները ձեր հեռախոսից և բացեք դրանք այստեղ՝ առավելագույն հոսքի համար:
 callout-firefox-view-recently-closed-title = Վերադարձեք ձեր փակված  ներդիրները մի ակնթարթում
 callout-firefox-view-recently-closed-subtitle = Ձեր բոլոր փակ ներդիրները կախարդական կերպով կհայտնվեն այստեղ: Երբեք մի անհանգստացեք կայքի պատահական փակման մասին:
-callout-firefox-view-colorways-title = Ավելացրեք գույնի շիթ
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Ընտրեք այն երանգը, որը խոսում է ձեզ հետ գունային երանգներով: Միայն { -brand-product-name }-ում:
-callout-firefox-view-colorways-reminder-title = Բացահայտեք մեր վերջին գույները
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Գունավորեք ձեր զննիչն այս խորհրդանշական երանգներով, որոնք ոգեշնչված են անկախ ձայներից: Միայն { -brand-product-name }-ում:
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Пабачыць нядаўняе агляданне з усіх акон і прылад
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Закрыць
-    .aria-label = Закрыць
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Толькі што
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Выбар картак
-firefoxview-tabpickup-description = Адкрыць старонкі з іншых прылад.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% завершана
-firefoxview-tabpickup-step-signin-header = Лёгка пераключайцеся паміж прыладамі
-firefoxview-tabpickup-step-signin-description = Каб атрымаць тут карткі з тэлефона, спачатку ўвайдзіце або стварыце ўліковы запіс.
-firefoxview-tabpickup-step-signin-primarybutton = Працягнуць
 firefoxview-syncedtabs-signin-header-2 = Ваш { -brand-product-name } на ўсіх вашых прыладах
 firefoxview-syncedtabs-signin-description-2 = Каб пабачыць адкрытыя карткі на тэлефоне і іншых прыладах, увайдзіце ў сістэму або зарэгіструйцеся. З уліковым запісам вы таксама можаце сінхранізаваць свае паролі, гісторыю і многае іншае.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = З ноўтбука на тэлефон, без праблем
 firefoxview-syncedtabs-signin-description-3 = Захоўвайце агляданне звязным паміж прыладамі — карткі, паролі і гісторыя сінхранізуюцца.
 firefoxview-syncedtabs-signin-primarybutton-2 = Увайсці
-firefoxview-tabpickup-adddevice-header = Сінхранізуйце { -brand-product-name } на сваім тэлефоне або планшэце
-firefoxview-tabpickup-adddevice-description = Сцягніце { -brand-product-name } для мабільнага і ўвайдзіце там.
-firefoxview-tabpickup-adddevice-learn-how = Даведацца, як
-firefoxview-tabpickup-adddevice-primarybutton = Атрымаць { -brand-product-name } для мабільнага
 firefoxview-syncedtabs-adddevice-header-2 = Захоплівайце карткі адусюль
 firefoxview-syncedtabs-adddevice-description-2 = Увайдзіце ў { -brand-product-name } на сваім тэлефоне або іншым камп'ютары, каб убачыць тут карткі. Даведайцеся, як <a data-l10n-name="url">падключыць дадатковыя прылады</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Паспрабаваць { -brand-product-name } для мабільных прылад
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Вашы карткі выкліканы. Яны на вашым тэлефоне.
 firefoxview-syncedtabs-adddevice-description-3 = Скануйце QR-код, каб атрымаць { -brand-product-name } для мабільных прылад і пачаць сінхранізацыю адкрытых картак і іншага. Даведайцеся, як <a data-l10n-name="url">падключыць дадатковыя прылады</a>.
-firefoxview-tabpickup-synctabs-header = Уключыць сінхранізацыю картак
-firefoxview-tabpickup-synctabs-description = Дазволіць { -brand-short-name } дзяліцца карткамі паміж прыладамі.
-firefoxview-tabpickup-synctabs-learn-how = Даведацца, як
 firefoxview-tabpickup-synctabs-primarybutton = Сінхранізаваць адкрытыя карткі
 firefoxview-tabpickup-synctabs-primarybutton-2 = Уключыць сінхранізацыю картак
 firefoxview-syncedtabs-synctabs-header = Абнавіце налады сінхранізацыі
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Па заканчэнні вы ўб
 firefoxview-syncedtabs-loading-header-2 = Атрыманне вашых картак…
 firefoxview-syncedtabs-loading-description-2 = Ідзе сінхранізацыя. Карткі хутка з'явяцца тут.
 firefoxview-tabpickup-fxa-admin-disabled-header = У ваша арганізацыі сінхранізацыя адключана
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } не можа сінхранізаваць карткі паміж прыладамі, таму што ваш адміністратар адключыў сінхранізацыю.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } не можа сінхранізаваць карткі паміж прыладамі, таму што ваша арганізацыя адключыла сінхранізацыю.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Сінхранізацыя картак адключана
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Ваша арганізацыя заблакавала гэту функцыю.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Разблакуйце карткі з дапамогай галоўнага пароля
 firefoxview-tabpickup-password-locked-description-2 = Дзеля вашай прыватнасці сінхранізаваныя карткі абаронены. Увядзіце свой галоўны пароль { -brand-short-name }, каб убачыць карткі з іншых прылад.
 firefoxview-tabpickup-signed-out-header = Увайдзіце, каб злучыцца зноў
-firefoxview-tabpickup-signed-out-description = Каб аднавіць падключэнне і атрымаць карткі, увайдзіце ў свой { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Каб аднавіць падключэнне і атрымаць карткі, увайдзіце ў свой уліковы запіс.
 firefoxview-tabpickup-signed-out-primarybutton = Увайсці
 firefoxview-tabpickup-signed-out-header-2 = Увайдзіце, каб убачыць свае карткі
 firefoxview-tabpickup-signed-out-description-2 = Падключыцеся зноў, каб паглядзець карткі з іншых прылад.
-firefoxview-tabpickup-syncing = Пачакайце, пакуль вашы карткі сінхранізуюцца. Гэта толькі на імгненне.
-firefoxview-mobile-promo-header = Атрымайце карткі з тэлефона або планшэта
-firefoxview-mobile-promo-description = Каб паглядзець свае апошнія мабільныя карткі, увайдзіце ў { -brand-product-name } на iOS або Android.
-firefoxview-mobile-promo-primarybutton = Атрымаць { -brand-product-name } для мабільнага
-firefoxview-mobile-confirmation-header = 🎉 Усё гатова!
-firefoxview-mobile-confirmation-description = Цяпер вы можаце атрымаць свае карткі { -brand-product-name } са свайго планшэта або тэлефона.
-firefoxview-closed-tabs-title = Нядаўна закрытыя
-firefoxview-closed-tabs-description2 = Паўторна адкрыць старонкі, якія вы закрылі ў гэтым акне.
-firefoxview-closed-tabs-placeholder-header = Няма нядаўна закрытых картак
-firefoxview-closed-tabs-placeholder-body = Калі вы закрыеце картку ў гэтым акне, яе можна атрымаць тут.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Закрыць { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Апошняя актыўная
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Адкрыць { $targetURI } у новай картцы
-firefoxview-try-colorways-button = Паспрабаваць расфарбоўкі
-firefoxview-change-colorway-button = Змяніць расфарбоўку
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Пакуль тут нічога няма
-firefoxview-synced-tabs-placeholder-body = У наступны раз, калі вы адкрыеце старонку ў { -brand-product-name } на іншай прыладзе, яна з'явіцца тут.
 firefoxview-collapse-button-show =
     .title = Паказаць спіс
 firefoxview-collapse-button-hide =

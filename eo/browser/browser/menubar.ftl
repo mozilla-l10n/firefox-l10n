@@ -262,8 +262,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Profiloj
 menu-profiles-manage-profiles =
     .label = Administri profilojn
 menu-profiles-new-profile =
@@ -287,9 +285,6 @@ menu-tools-downloads =
 menu-tools-extensions-and-themes =
     .label = Etendaĵoj kaj etosoj
     .accesskey = E
-menu-tools-addons-and-themes =
-    .label = Aldonaĵoj kaj etosoj
-    .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = Komenci seancon
     .accesskey = s
@@ -346,8 +341,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Pli da problemsolva informo
     .accesskey = p
-menu-help-report-site-issue =
-    .label = Raporti problemon kun retejo…
 menu-help-share-ideas =
     .label = Dividi ideojn kaj komentojn…
     .accesskey = D

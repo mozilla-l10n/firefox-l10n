@@ -14,15 +14,3 @@ extension-firefox-compact-dark-name = Teñval
 extension-firefox-compact-dark-description = Un neuz gant ur steuñv livioù teñval.
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Ober gant un neuz leun a livioù evit an afelloù, al lañserioù hag ar prenestroù.
-
-## Colorway Themes
-## These themes are variants of a colorway. The colorway is specified in the
-## $colorway-name variable.
-## Variables
-##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
-
-extension-colorways-soft-name = { $colorway-name } — Skañv
-extension-colorways-balanced-name = { $colorway-name } — Kempouezet
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-extension-colorways-bold-name = { $colorway-name } — Kreñv

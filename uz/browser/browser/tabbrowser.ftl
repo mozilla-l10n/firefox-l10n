@@ -7,11 +7,6 @@ tabbrowser-menuitem-close-tab =
     .label = Varaqni yopish
 tabbrowser-menuitem-close =
     .label = Yopish
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } – { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -19,14 +14,6 @@ tabbrowser-container-tab-title = { $title } – { $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [one] Varaqni yopish
-           *[other] { $tabCount } ta varaqni yopish
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [one] Varaqni yopish
            *[other] { $tabCount } ta varaqni yopish
@@ -75,7 +62,6 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## or when quitting when only one window is open.
 
 tabbrowser-confirm-close-tabs-button = Varaqlarni yopish
-tabbrowser-confirm-close-tabs-checkbox = Bir nechta varaqlarni yopishdan oldin tasdiqlash
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 

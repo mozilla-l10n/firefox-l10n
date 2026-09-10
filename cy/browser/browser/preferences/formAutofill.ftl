@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Cyfeiriadau wedi'u cadw
 autofill-manage-addresses-list-header = Cyfeiriadau
-autofill-manage-credit-cards-title = Cardiau Credyd wedi eu Cadw
-autofill-manage-credit-cards-list-header = Cardiau Credyd
 autofill-manage-payment-methods-title = Dulliau talu wedi'u cadw
 autofill-manage-cards-list-header = Cardiau
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = Agor dewislen
 address-capture-edit-address-link = Golygu cyfeiriad
     .aria-label = Golygu cyfeiriad
-address-capture-edit-address-button =
-    .aria-label = Golygu cyfeiriad
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Ychwanegu cyfeiriad
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Golygu cyfeiriad
-autofill-address-given-name = Enw Cyntaf
-autofill-address-additional-name = Enw Canol
-autofill-address-family-name = Enw Olaf
 autofill-address-name = Enw
 autofill-address-organization = Corff
 autofill-address-street-address = Cyfeiriad Stryd
@@ -104,8 +97,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Ychwanegu Cyfeiriad Newydd
 autofill-address-country = Gwlad neu Ranbarth
 autofill-address-country-only = Gwlad
 autofill-address-tel = Ffôn
@@ -114,18 +105,6 @@ autofill-cancel-button = Diddymu
 autofill-save-button = Cadw
 autofill-country-warning-message-2 = Dim ond ar gyfer rhai gwledydd penodol y mae awtolenwi ffurflenni ar gael ar hyn o bryd
 autofill-country-warning-message = Dim ond ar gyfer rhai gwledydd y mae Awtolanw Ffurflenni ar gael ar hyn o bryd.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Ychwanegu Cerdyn Credyd Newydd
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Golygu Cerdyn Credyd
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] dangos manylion cerdyn credyd
-        [windows] Mae { -brand-short-name } yn ceisio dangos manylion cerdyn credyd. Cadarnhewch fynediad i'r cyfrif Windows hwn isod.
-       *[other] Mae { -brand-short-name } yn ceisio dangos manylion cerdyn credyd.
-    }
 autofill-message-tooltip = Gweld neges am awtolenwi
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Ychwanegu cerdyn
@@ -211,15 +190,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = Peidio byth cadw pasbort
     .accessKey = P
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

@@ -2,17 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-# This file intentionally uses hard-coded brand names instead of Fluent terms.
-# This approach minimizes issues across multiple release channels and rebranded
-# versions.
-
 default-bookmarks-title = Adreces d'interès
 default-bookmarks-heading = Adreces d'interès
-default-bookmarks-toolbarfolder = Carpeta de les adreces d'interès
-default-bookmarks-toolbarfolder-description = Afegiu les adreces d'interès a aquesta carpeta per veure-les a la barra de les adreces d'interès
-# link title for https://www.mozilla.org/firefox/central/
-default-bookmarks-getting-started = Primers passos
 # Firefox links folder name
 default-bookmarks-firefox-heading = Mozilla Firefox
 # link title for https://www.mozilla.org/firefox/help/

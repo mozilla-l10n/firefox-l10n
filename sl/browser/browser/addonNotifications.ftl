@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Nadaljuj z namestitvijo
     .accesskey = N
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Spletno mesto zahteva dostop do vaših naprav MIDI (Musical Instrument Digital Interface). Dostop do naprav lahko omogočite z namestitvijo dodatka.
 site-permission-install-first-prompt-midi-message = Takšen dostop ni zajamčeno varen. Nadaljujte samo, če temu spletnemu mestu zaupate.
 site-permission-install-first-prompt-serial-header = Spletno mesto zahteva dostop do vaših zaporednih naprav. Dostop lahko omogočite z namestitvijo dodatka.
 site-permission-install-first-prompt-serial-message = Takšen dostop ni zajamčeno varen. Nadaljujte samo, če temu spletnemu mestu zaupate.
-
-##
-
-xpinstall-disabled-locked = Skrbnik vašega sistema je onemogočil nameščanje programske opreme.
 xpinstall-disabled-by-policy = Vaša organizacija je onemogočila nameščanje programske opreme.
 xpinstall-disabled = Namestitev programske opreme je trenutno onemogočena. Kliknite gumb Omogoči, če jo želite omogočiti, potem pa poskusite znova.
 xpinstall-disabled-button =
     .label = Omogoči
     .accesskey = O
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = Vaš sistemski skrbnik je zavrnil { $addonName } ({ $addonId }).
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Skrbnik vašega sistema je tej strani preprečil vprašati, ali lahko na vaš računalnik namesti programsko opremo.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = Zaključite nameščanje razširitev, uvoženih v { -br
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Odstranim { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Odstrani { $name } iz { -brand-shorter-name }a?
 addon-removal-button = Odstrani
 addon-removal-abuse-report-checkbox = Prijavi to razširitev organizaciji { -vendor-short-name }
 # "it" refers to the local AI model that is paired to the AI feature
@@ -151,7 +134,5 @@ addon-local-install-no-addon-name-error-file-access = Dodatka ni bilo mogoče na
 addon-install-error-incompatible = Ni bilo mogoče namestiti dodatka { $addonName }, ker ni združljiv s { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = { $addonName } krši Mozilline pravilnike in ga ni mogoče namestiti v { -brand-short-name(sklon: "tozilnik") }.
 addon-install-error-soft-blocked2 = { $addonName } je omejen in ga ni mogoče namestiti v { -brand-short-name }.
-addon-install-error-blocklisted = { $addonName } ni bilo mogoče namestiti, ker predstavlja veliko tveganje za težave z varnostjo ali zanesljivostjo.
-addon-install-error-soft-blocked = { $addonName } krši Mozilline pravilnike in ga ni mogoče namestiti v { -brand-short-name(sklon: "tozilnik") }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Dodatka { $addonName } ne morete namestiti kot končni uporabnik. Namesti ga lahko samo organizacija z uporabo pravilnikov za podjetja.

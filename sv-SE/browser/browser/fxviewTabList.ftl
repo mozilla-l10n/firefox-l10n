@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxviewtabrow-open-menu-button =
-    .title = Öppna meny
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
@@ -24,10 +22,6 @@ fxviewtabrow-dismiss-tab-button =
     .title = Ignorera { $tabTitle }
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Nyss
-
-# Strings below are used for context menu options within panel-list.
-# For developers, this duplicates command because the label attribute is required.
-
 fxviewtabrow-delete = Ta bort
     .accesskey = T
 fxviewtabrow-forget-about-this-site = Glöm den här sidan…
@@ -57,8 +51,6 @@ fxviewtabrow-send-to-device = Skicka till enhet
     .accesskey = S
 fxviewtabrow-send-to-mobile = Skicka till mobil
     .accesskey = S
-fxviewtabrow-send-tab = Skicka flik till enhet
-    .accesskey = f
 fxviewtabrow-pin-tab = Fäst flik
     .accesskey = F
 fxviewtabrow-unpin-tab = Lösgör flik
@@ -82,8 +74,5 @@ fxviewtabrow-send-to-mobile-connect-device = Anslut en enhet för att skicka fli
 fxviewtabrow-send-to-mobile-device-missing2 = Hittar du inte din enhet?
 fxviewtabrow-send-to-mobile-not-verified = Konto inte verifierat
 fxviewtabrow-send-to-mobile-verify-account = Verifiera ditt konto
-
-## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
-
 fxviewtabrow-send-to-mobile-sign-in = Logga in för att skicka flikar
 fxviewtabrow-send-to-mobile-turn-on-sync = Aktivera synkronisering för att skicka flikar

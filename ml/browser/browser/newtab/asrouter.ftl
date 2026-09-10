@@ -68,11 +68,6 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .title = അടയ്ക്കുക
 fxa-adoption-primary-button-label = അംഗത്തമെടുക്കുക
 
-## Protections panel
-
-cfr-protections-panel-header = പിന്തുടരപ്പെടാതെ പരതുക
-cfr-protections-panel-link-text = കൂടുതല്‍ അറിയുക
-
 ## What's New toolbar button and panel
 
 # This string is used by screen readers to offer a text based alternative for
@@ -145,24 +140,8 @@ mr2022-background-update-toast-primary-button-label = { -brand-shorter-name } �
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = എന്നെ പിന്നീടു് ഓർമ്മിപ്പിക്കുക
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = ഉപയോഗിച്ചു് നോക്കൂ
-    .accesskey = ഉ
-firefoxview-cfr-secondarybutton = ഇപ്പോഴല്ല
-    .accesskey = ഇ
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-primarybutton = എങ്ങനെ ഇത് പ്രവര്‍ത്തിക്കുന്നു എന്ന് കാണുക
-firefoxview-spotlight-promo-secondarybutton = ഒഴിവാക്കുക
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-confirm-button = കുക്കി പൊന്തുവരലുകളെ നിരസിക്കുക
-    .accesskey = ന
-cfr-cbh-dismiss-button = ഇപ്പോഴല്ല
-    .accesskey = ഇ
 cookie-banner-blocker-onboarding-header = { -brand-short-name } താങ്ങൾക്കുവേണ്ടി ഒരു കുക്കി പൊന്തുവരലിനെ നിരസിച്ചു
 cookie-banner-blocker-onboarding-body = കുറഞ്ഞ പതൎച്ചയും കുറഞ്ഞ കുക്കിപ്പിന്തുടൎച്ചയും
 cookie-banner-blocker-onboarding-learn-more = കൂടുതല്‍ അറിയുക

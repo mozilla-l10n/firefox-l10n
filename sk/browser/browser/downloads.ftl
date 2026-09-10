@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Zobraziť vo Finderi
            *[other] Zobraziť v priečinku
         }
-downloads-cmd-show-downloads =
-    .label = Otvoriť priečinok so stiahnutými súbormi
 downloads-cmd-retry =
     .tooltiptext = Znova
 downloads-cmd-retry-panel =

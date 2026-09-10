@@ -8,6 +8,3 @@ popup-notification-more-actions-button =
 popup-notification-default-button2 =
     .label = Í lagi
     .accesskey = l
-popup-notification-default-button =
-    .label = Í lagi!
-    .accesskey = l

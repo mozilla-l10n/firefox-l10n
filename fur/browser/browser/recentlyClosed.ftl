@@ -16,15 +16,3 @@ recently-closed-menu-reopen-all-windows = Torne vierç ducj i barcons
 
 recently-closed-panel-reopen-all-tabs = Torne vierç dutis lis schedis
 recently-closed-panel-reopen-all-windows = Torne vierç ducj i barcons
-
-##
-
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [one] { $winTitle } (e { $tabCount } altre schede)
-       *[other] { $winTitle } (e altris { $tabCount } schedis)
-    }

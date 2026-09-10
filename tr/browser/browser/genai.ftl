@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = Şu anda “{ $tabTitle }” sayfasındayım ve 
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Yapay zekâ sohbet botuna sor
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = { $provider } sohbet botuna sor
 genai-menu-open-generic =
     .label = Yapay zekâ sohbet botunu aç
 # $provider (string) - name of the provider
@@ -120,8 +115,6 @@ genai-header-provider-menu =
     .title = Bir sohbet botu seçin
 genai-header-settings-button =
     .title = YZ sohbet ayarları
-genai-header-options-button =
-    .title = Menüyü aç
 genai-header-close-button =
     .title = Kapat
 genai-provider-view-details =
@@ -149,37 +142,25 @@ genai-page-button-summarize = Sayfayı özetle
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Gezinirken içerikleri özetleyin, yeni fikirler üretin ve daha fazlasını yapın
 genai-onboarding-choose-header = { -brand-short-name } kenar çubuğunda kullanılacak yapay zekâ sohbet botunu seçin
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = { -brand-short-name } kenar çubuğunda kullanmak istediğiniz yapay zekâ sohbet botunu seçin. Seçtiğiniz sohbet botuyla ilgili ayrıntıları da görebilirsiniz. İstediğiniz zaman sohbet botunuzu değiştirebilirsiniz. <a data-l10n-name="learn-more">Daha fazla bilgi alın</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = İstediğiniz zaman değiştirebilirsiniz. Seçiminize yardımcı olması için <a data-l10n-name="learn-more">her sohbet botu hakkında daha fazla bilgi alabilirsiniz</a>.
 genai-onboarding-primary = İleri
 genai-onboarding-secondary = Kapat
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Claude hakkında bilgi alın
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = ChatGPT hakkında bilgi alın
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Copilot hakkında bilgi alın
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Gemini hakkında bilgi alın
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = HuggingChat hakkında bilgi alın
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Le Chat hakkında bilgi alın
-genai-onboarding-select-header = Önerileri görmek istediğiniz metni seçin
-genai-onboarding-select-description = Metin seçtiğinizde sohbet botuna gönderebileceğiniz istemler önereceğiz. Kendi istemlerinizi de yazabilirsiniz.
-genai-onboarding-select-primary = Sohbete başlayın
 genai-chatbot-contextual-title = Sekme değiştirmeden yapay zekâ sohbet botlarını kullanın
 genai-chatbot-contextual-subtitle = { -brand-short-name } kenar çubuğuna yapay zekâ sohbet botu ekleyin, bir yanda sohbet ederken öbür yanda internette gezinin.
 genai-chatbot-contextual-button = Bir sohbet botu seçin
@@ -192,27 +173,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = Kenar çubuğundaki yıldız 
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Kenar çubuğundan yapay zekâ sohbet botunuzu açıp en alttaki “Sayfayı özetle”yi seçin.
 genai-chatbot-summarize-footer-generic-subtitle = Sayfaları hızlıca özetlemek için { -brand-short-name } kenar çubuğuna bir yapay zekâ sohbet botu ekleyebilirsiniz.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Metin ve kod oluşturma
-genai-onboarding-claude-analyze = Belgeleri ve görselleri analiz etme
-genai-onboarding-claude-price = Ücretsiz ve ücretli seçenekler: Hesap açmanız gerekir
-genai-onboarding-chatgpt-generate = Metin, görsel ve kod oluşturma
-genai-onboarding-chatgpt-analyze = Belgeleri ve görselleri analiz etme
-genai-onboarding-chatgpt-price = Ücretsiz ve ücretli seçenekler: Bazı ülkeler ve görevler için hesap açmanız gerekir
-genai-onboarding-copilot-generate = Metin, görsel ve kod oluşturma
-genai-onboarding-copilot-analyze = Görselleri analiz etme
-genai-onboarding-copilot-price = Ücretsiz ve ücretli seçenekler: Bazı görevler için hesap açmanız gerekir
-genai-onboarding-gemini-generate = Metin, görsel ve kod oluşturma
-genai-onboarding-gemini-analyze = Görselleri analiz etme (ücretsiz) ve belgeleri analiz etme (ücretli)
-genai-onboarding-gemini-price = Ücretsiz ve ücretli seçenekler: Hesap açmanız gerekir
-genai-onboarding-huggingchat-generate = Metin ve kod oluşturma
-genai-onboarding-huggingchat-switch = Farklı açık modeller arasında geçiş yapma
-genai-onboarding-huggingchat-price-2 = Ücretsiz: Belirli sayıda istekten sonra hesap açmanız gerekir
-genai-onboarding-lechat-generate = Metin ve kod oluşturma
-genai-onboarding-lechat-price = Ücretsiz: Hesap açmanız gerekir
 
 ## Model Optin Component
 
@@ -251,8 +211,8 @@ link-preview-generation-retry = Yeniden dene
 link-preview-settings-button =
     .title = Bağlantı ön izleme ayarları
 link-preview-settings-enable =
-    .label = Bağlantı ön izlemelerini etkinleştir
     .description = Kısayolu kullandığınızda veya bir bağlantıya sağ tıkladığınızda sayfa başlığını, açıklamasını ve daha fazlasını görün.
+    .label = Bağlantı ön izlemelerini etkinleştir
 link-preview-settings-key-points =
     .label = Yapay zekânın sayfanın başlangıcını okuyup önemli noktaları oluşturmasına izin ver
 link-preview-settings-long-press =

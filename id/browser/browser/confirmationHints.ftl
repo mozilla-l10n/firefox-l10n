@@ -5,11 +5,8 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Laporan terkirim. Terima kasih!
-confirmation-hint-login-removed = Info masuk dihapus!
 confirmation-hint-password-removed = Sandi dihapus!
 confirmation-hint-page-bookmarked = Ditambahkan ke markah
-confirmation-hint-password-saved = Sandi disimpan!
 confirmation-hint-password-created = Sandi tersimpan
 confirmation-hint-password-updated = Sandi diperbarui
 confirmation-hint-address-created = Alamat tersimpan

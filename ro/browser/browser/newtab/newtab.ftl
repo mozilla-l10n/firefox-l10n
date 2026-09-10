@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Filă nouă
-newtab-settings-button =
-    .title = Personalizează pagina pentru filă nouă
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Personalizează această pagină
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = Personalizează
 newtab-customize-panel-label =
     .label = Personalizează
-newtab-personalize-settings-icon-label =
-    .aria-label = Setări
-    .title = Personalizează pagina de filă nouă
 newtab-settings-dialog-label =
     .aria-label = Setări
-newtab-personalize-icon-label =
-    .aria-label = Personalizează pagina pentru filă nouă
-    .title = Personalizează pagina pentru filă nouă
-newtab-personalize-dialog-label =
-    .aria-label = Personalizează
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
@@ -537,7 +527,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Adaugă motor de căutare
 newtab-topsites-add-shortcut-header = Comandă rapidă nouă
-newtab-topsites-edit-topsites-header = Editează site-ul de top
 newtab-topsites-edit-shortcut-header = Editează comanda rapidă
 newtab-topsites-add-shortcut-label = Adaugă comanda rapidă
 newtab-topsites-add-shortcut-title =
@@ -607,20 +596,12 @@ newtab-topsites-hover-card-dismiss =
 newtab-menu-section-tooltip =
     .aria-label = Deschide meniul
     .title = Deschide meniul
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Elimină
-    .title = Elimină
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Deschide meniul contextual pentru { $title }
     .title = Deschide meniul
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Editează acest site
-    .title = Editează acest site
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -632,11 +613,7 @@ newtab-menu-dismiss = Elimină
 newtab-menu-pin = Fixează
 newtab-menu-unpin = Anulează fixarea
 newtab-menu-delete-history = Șterge din istoric
-newtab-menu-save-to-pocket = Salvează în { -pocket-brand-name }
-newtab-menu-delete-pocket = Șterge din { -pocket-brand-name }
-newtab-menu-archive-pocket = Arhivează în { -pocket-brand-name }
 newtab-menu-show-privacy-info = Sponsorii noștri și confidențialitatea ta
-newtab-menu-about-fakespot = Despre { -fakespot-brand-name }
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Raportează
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -647,23 +624,12 @@ newtab-menu-section-block = Blochează
 newtab-menu-section-unfollow-topic = Nu mai urmări
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Află mai multe
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = Anulează urmărirea subiectului
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = Gestionează conținutul sponsorizat
 newtab-menu-our-sponsors-and-your-privacy = Sponsorii noștri și confidențialitatea ta
 newtab-menu-report-this-ad = Raportează acest anunț
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Terminat
-newtab-privacy-modal-button-manage = Gestionează setările conținuturilor sponsorizate
-newtab-privacy-modal-header = Confidențialitatea ta contează.
-newtab-privacy-modal-paragraph-2 = În plus față de afișarea unor articole captivante, îți arătăm și conținuturi relevante foarte bine cotate de la sponsori selectați. Fii fără grijă, <strong>datele tale de navigare nu pleacă niciodată din exemplarul tău personal de { -brand-product-name }</strong> — nici noi nu le vedem, nici sponsorii noștri.
-newtab-privacy-modal-link = Află cum funcționează confidențialitatea în fila nouă
 
 ##
 
@@ -719,31 +685,12 @@ newtab-label-sponsored-fixed = Sponsorizat
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Elimină secțiunea
-newtab-section-menu-collapse-section = Restrânge secțiunea
-newtab-section-menu-expand-section = Extinde secțiunea
-newtab-section-menu-manage-section = Gestionează secțiunea
-newtab-section-menu-manage-webext = Gestionează extensia
-newtab-section-menu-add-topsite = Adaugă site de top
-newtab-section-menu-add-search-engine = Adaugă motor de căutare
-newtab-section-menu-move-up = Mută în sus
-newtab-section-menu-move-down = Mută în jos
 newtab-section-menu-privacy-notice = Notificare privind confidențialitatea
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Restrânge secțiunea
-newtab-section-expand-section-label =
-    .aria-label = Extinde secțiunea
 
 ## Section Headers.
 
 newtab-section-header-topsites = Site-uri de top
 newtab-section-header-recent-activity = Activitate recentă
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Recomandat de { $provider }
 newtab-section-header-stories = Povești care îndeamnă la reflecție
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = Alegerile de astăzi pentru tine
@@ -751,10 +698,6 @@ newtab-section-header-todays-picks = Alegerile de astăzi pentru tine
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Începe să navighezi și noi îți vom arăta articole interesante, videouri sau alte pagini pe care le-ai vizitat sau marcat recent.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Ai ajuns la capăt. Revino mai târziu pentru alte articole de la { $provider }. Nu mai vrei să aștepți? Selectează un subiect popular și găsește alte articole interesante de pe web.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = Ai terminat. Revino mai târziu pentru alte articole. Nu mai poți aștepta? Selectează un subiect popular și găsește alte articole interesante de pe web.
 
@@ -788,39 +731,6 @@ newtab-carousel-pause =
 newtab-carousel-play =
     .aria-label = Reia redarea automată
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Subiecte populare:
-newtab-pocket-new-topics-title = Vrei și mai multe articole? Vezi aceste subiecte populare de la { -pocket-brand-name }
-newtab-pocket-more-recommendations = Mai multe recomandări
-newtab-pocket-learn-more = Află mai multe
-newtab-pocket-cta-button = Obține { -pocket-brand-name }
-newtab-pocket-cta-text = Salvează în { -pocket-brand-name } articolele care ți-au plăcut și hrănește-ți mintea cu lecturi fascinante.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } face parte din familia { -brand-product-name }
-newtab-pocket-save = Salvează
-newtab-pocket-saved = Salvat
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = Mai multe de genul acesta
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = Nu-i pentru mine
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = Îți mulțumim. Feedback-ul tău ne va ajuta să-ți îmbunătățim fluxul.
-newtab-toast-dismiss-button =
-    .aria-label = Respinge
-    .title = Respinge
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = Descoperă ce e mai bun de pe web
-newtab-pocket-onboarding-cta = { -pocket-brand-name } explorează o gamă diversă de publicații pentru a oferi cel mai informativ, care inspiră și de încredere conținut direct în browserul { -brand-product-name }.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -829,8 +739,6 @@ newtab-error-fallback-refresh-link = Reîmprospătează pagina pentru a încerca
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Comenzi rapide
-newtab-custom-shortcuts-subtitle = Site-uri pe care le salvezi sau le vizitezi
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Site-uri pe care le salvezi sau le vizitezi
@@ -852,17 +760,6 @@ newtab-custom-row-selector2 =
             [few] { $num } rânduri
            *[other] { $num } de rânduri
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } rând
-        [few] { $num } rânduri
-       *[other] { $num } de rânduri
-    }
-newtab-custom-sponsored-sites = Comenzi rapide sponsorizate
-newtab-custom-pocket-title = Recomandat de { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Conținut excepțional, creat de { -pocket-brand-name }, parte a familiei { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = Conținut excepțional îngrijit de familia { -brand-product-name }
@@ -874,10 +771,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = Povești personalizate bazate pe activitatea ta
 newtab-custom-stories-personalized-checkbox-label = Povești personalizate bazate pe activitatea ta
-newtab-custom-pocket-sponsored = Articole sponsorizate
-newtab-custom-pocket-show-recent-saves = Afișează salvările recente
-newtab-custom-recent-title = Activitate recentă
-newtab-custom-recent-subtitle = O selecție de site-uri și conținut recente
 newtab-custom-weather-toggle =
     .description = Vremea de astăzi dintr-o privire
     .label = Meteo
@@ -909,7 +802,6 @@ newtab-widget-manage-widget-button =
 newtab-custom-close-menu-button =
     .aria-label = Închide meniul
     .title = Închide
-newtab-custom-close-button = Închide
 newtab-custom-settings = Gestionează mai multe setări
 
 ## Customization Menu
@@ -958,7 +850,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Imaginea a depășit limita de dimensiune a fișierului de { $file_size } MB. Te rugăm să încerci să încarci un fișier mai mic.
 newtab-wallpaper-error-upload-file-type = Nu am putut încărca fișierul. Te rugăm să încerci din nou cu un fișier de imagine.
-newtab-wallpaper-error-file-type = Nu am putut încărca fișierul. Te rugăm să încerci din nou cu un alt tip de fișier.
 newtab-wallpaper-light-red-panda = Panda roșu
 newtab-wallpaper-light-mountain = Multe alb
 newtab-wallpaper-light-sky = Cer cu nori violeți și roz
@@ -1102,10 +993,6 @@ newtab-wallpaper-celestial-river = Imagine din satelit cu un râu
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = Vezi prognoza meteo în { $provider }
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponsorizat
 newtab-weather-menu-change-location = Schimbă locația
 newtab-weather-change-location-search-input-placeholder =
@@ -1132,7 +1019,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Treci pe Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Treci pe Celsius
-newtab-weather-menu-hide-weather = Ascunde vremea în fila nouă
 newtab-weather-menu-learn-more = Află mai multe
 newtab-weather-menu-detect-my-location = Detectează-mi locația
 # This message is shown if user is working offline
@@ -1253,7 +1139,6 @@ newtab-section-unblock-topic =
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = Nu acum
 newtab-section-confirm-block-topic-p1 = Sigur vrei să blochezi acest subiect?
 newtab-section-confirm-block-topic-p2 = Subiectele blocate nu vor mai apărea în fluxul tău.
 # Variables:

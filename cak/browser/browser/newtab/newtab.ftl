@@ -6,13 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = K'ak'a' Ruwi'
-newtab-settings-button =
-    .title = Tawichinaj ri ruxaq richin K'ak'a' Ruwi'
-newtab-personalize-icon-label =
-    .aria-label = Tichinäx k'ak'a' ruwi'
-    .title = Tichinäx k'ak'a' ruwi'
-newtab-personalize-dialog-label =
-    .aria-label = Tichinäx
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -87,7 +80,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Titz'aqatisäx Kanob'äl
 newtab-topsites-add-shortcut-header = K'ak'a' Chojokem
-newtab-topsites-edit-topsites-header = Tinuk' re Utziläj Ruxaq K'amaya'l re'
 newtab-topsites-edit-shortcut-header = Tinuk' Chojokem
 newtab-topsites-title-label = B'i'aj
 newtab-topsites-title-input =
@@ -125,20 +117,12 @@ newtab-topsite-sponsored = To'on
 newtab-menu-section-tooltip =
     .aria-label = Tijaq k'utsamaj
     .title = Tijaq k'utsamaj
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Tiyuj
-    .title = Tiyuj
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Tijar ri ruk'utsamaj k'ojlem richin { $title }
     .title = Tijaq k'utsamaj
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Tinuk' re ruxaq k'amaya'l re'
-    .title = Tinuk' re ruxaq k'amaya'l re'
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -149,21 +133,7 @@ newtab-menu-dismiss = Tichup ruwäch
 newtab-menu-pin = Ximoj
 newtab-menu-unpin = Tosq'opïx
 newtab-menu-delete-history = Tiyuj el pa ri Natab'äl
-newtab-menu-save-to-pocket = Tiyak pa { -pocket-brand-name }
-newtab-menu-delete-pocket = Tiyuj el pa { -pocket-brand-name }
-newtab-menu-archive-pocket = Tiyak pa { -pocket-brand-name }
 newtab-menu-show-privacy-info = Ri e qato'onela' & ri kichinanem
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Xk'is
-newtab-privacy-modal-button-manage = Tinuk'samajïx runuk'ulem rupam to'on rub'anikil
-newtab-privacy-modal-header = K'o rejqalem ri kichinanem.
-newtab-privacy-modal-paragraph-2 =
-    Man xa xe ta jeb'ël taq b'anob'äl yeqak'üt, chuqa' yeqak'üt nïm taq etamab'äl.
-    nik'on ri rupam kuma ri yeto'on qichin. Man kamayon, <strong>ri rujikomal rutzij awokem pa k'amaya'l
-     majub'ey nuya' kan jun ruwachib'al { -brand-product-name }</strong> — man niqatz'ët ta, nita ri yojto'o qichin.
-newtab-privacy-modal-link = Tawetamaj rub'eyal nisamäj ri ichinanem pa ri k'ak'a' ruwi'
 
 ##
 
@@ -217,39 +187,16 @@ newtab-label-source-read-time = { $source } · { $timeToRead } ch'uti ramaj
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Tiyuj Tanaj
-newtab-section-menu-collapse-section = Tich'utinarisäx Peraj
-newtab-section-menu-expand-section = Tirik' Peraj
-newtab-section-menu-manage-section = Tinuk'samajïx Peraj
-newtab-section-menu-manage-webext = Tinuk'samajïx K'amal
-newtab-section-menu-add-topsite = Titz'aqatisäx K'ïy Ruwinaq Ruxaq K'amaya'l
-newtab-section-menu-add-search-engine = Titz'aqatisäx Kanob'äl
-newtab-section-menu-move-up = Tijotob'äx
-newtab-section-menu-move-down = Tiqasäx qa
 newtab-section-menu-privacy-notice = Ichinan Na'oj
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Tich'utinarisäx Peraj
-newtab-section-expand-section-label =
-    .aria-label = Tirik' Peraj
 
 ## Section Headers.
 
 newtab-section-header-topsites = Jeb'ël Taq Ruxaq
 newtab-section-header-recent-activity = K'ak'a' samaj
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Chilab'en ruma { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Katok pa k'amaya'l richin niqak'üt chawäch jeb'ël taq cholna'oj, taq silowachib'äl, chuqa' ch'aqa' chik taq ruxaq k'a b'a' ke'atz'ët o aya'on kan ketal wawe'.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Xaq'i'. Katzolin chik pe richin ye'ak'ül ri utziläj taq rub'anob'al { $provider }. ¿La man noyob'en ta? Tacha' jun ütz na'oj richin nawïl ch'aqa' chik taq b'anob'äl e k'o chi rij ri ajk'amaya'l.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -260,23 +207,6 @@ newtab-discovery-empty-section-topstories-loading = Nisamäj…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = ¡Uy! B'ama nisamajïx re peraj re', jub'a' chik xrajo'.
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Nima'q taq Na'oj:
-newtab-pocket-new-topics-title = ¿La ye'awajo' ch'aqa' chik natab'äl? Ke'atz'eta' re taq ruwachinel { -pocket-brand-name }
-newtab-pocket-more-recommendations = Ch'aqa' chik taq Chilab'enïk
-newtab-pocket-learn-more = Tetamäx ch'aqa' chik
-newtab-pocket-cta-button = Tik'ul { -pocket-brand-name }
-newtab-pocket-cta-text = Ke'ayaka' ri taq b'anob'äl ye'awajo' pa { -pocket-brand-name }, chuqa' taya' ruchuq'a' ajolom kik'in jeb'ël taq sik'inïk.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } jun { -brand-product-name } qach'alal
-newtab-pocket-save = Tiyak
-newtab-pocket-saved = Xyak
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = Tawila' ri rutzil ajk'amaya'l
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -285,8 +215,6 @@ newtab-error-fallback-refresh-link = Titzolïx ruxaq richin nitojtob'ëx chik.
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Chojmin Okem
-newtab-custom-shortcuts-subtitle = Taq ruxaq xe'ayäk o xe'atz'ët
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Taq ruxaq xe'ayäk o xe'atz'ët
@@ -302,19 +230,4 @@ newtab-custom-row-selector2 =
             [one] { $num } cholaj
            *[other] { $num } taq cholaj
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } cholaj
-       *[other] { $num } taq cholaj
-    }
-newtab-custom-sponsored-sites = Xto' chojmin okem
-newtab-custom-pocket-title = Chilab'en ruma { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Cha'on rupam cha'on ruma { -pocket-brand-name }, rach'ala'ïl { -brand-product-name }
-newtab-custom-pocket-sponsored = To'on taq b'anob'äl
-newtab-custom-pocket-show-recent-saves = Kek'ut k'ab'a' eyakon
-newtab-custom-recent-title = K'ak'a' samaj
-newtab-custom-recent-subtitle = Jun cha'on taq ruxaq chuqa' k'ak'a' rupam
-newtab-custom-close-button = Titz'apïx
 newtab-custom-settings = Tinuk'samajïx ch'aqa' runuk'ulem

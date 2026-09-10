@@ -30,11 +30,11 @@ third-party-tag-background = Nền
         Module này không chặn ứng dụng vì nó đã được tải
         trong nền.
 third-party-icon-unsigned =
-    .title = Module này chưa được ký
     .alt = Module này chưa được ký
+    .title = Module này chưa được ký
 third-party-icon-warning =
-    .title = { -brand-short-name } bị lỗi trong đoạn mã từ module này
     .alt = { -brand-short-name } bị lỗi trong đoạn mã từ module này
+    .title = { -brand-short-name } bị lỗi trong đoạn mã từ module này
 third-party-status-loaded = Đã tải
 third-party-status-blocked = Đã chặn
 third-party-status-redirected = Đã chuyển hướng
@@ -46,30 +46,17 @@ third-party-button-reload = Tải lại với thông tin hệ thống
     .title = Tải lại với thông tin hệ thống
 third-party-button-open =
     .title = Mở vị trí tập tin…
-third-party-button-to-block =
-    .title = Chặn module này
-    .aria-label = Chặn module này
-third-party-button-to-unblock =
-    .title = Hiện đang bị chặn. Nhấp để bỏ chặn nó.
-    .aria-label = Hiện đang bị chặn. Nhấp để bỏ chặn nó.
-third-party-button-to-unblock-disabled =
-    .title =
-        Hiện được đánh dấu là bị chặn, mặc dù danh sách chặn bị vô hiệu hóa cho lần chạy này
-        của { -brand-short-name }. Nhấp để bỏ chặn nó.
-    .aria-label =
-        Hiện được đánh dấu là bị chặn, mặc dù danh sách chặn bị vô hiệu hóa cho lần chạy này
-        của { -brand-short-name }. Nhấp để bỏ chặn nó.
 third-party-button-to-block-module = Chặn module này
-    .title = Chặn module này
     .aria-label = Chặn module này
+    .title = Chặn module này
 third-party-button-to-unblock-module = Bỏ chặn module này
-    .title = Hiện tại bị chặn. Nhấp để bỏ chặn nó.
     .aria-label = Hiện tại bị chặn. Nhấp để bỏ chặn nó.
+    .title = Hiện tại bị chặn. Nhấp để bỏ chặn nó.
 third-party-button-to-unblock-module-disabled = Bỏ chặn module này (danh sách chặn hiện đang bị vô hiệu hóa)
-    .title =
+    .aria-label =
         Hiện được đánh dấu là bị chặn, mặc dù danh sách chặn bị vô hiệu hóa
         cho lần chạy này của { -brand-short-name }. Nhấp để bỏ chặn nó.
-    .aria-label =
+    .title =
         Hiện được đánh dấu là bị chặn, mặc dù danh sách chặn bị vô hiệu hóa
         cho lần chạy này của { -brand-short-name }. Nhấp để bỏ chặn nó.
 third-party-button-expand =
@@ -81,5 +68,5 @@ third-party-should-restart-title = Khởi động lại { -brand-short-name }
 third-party-restart-now = Khởi động lại ngay
 third-party-restart-later = Khởi động lại sau
 third-party-blocked-by-builtin =
-    .title = Bị chặn bởi { -brand-short-name }
     .alt = Bị chặn bởi { -brand-short-name }
+    .title = Bị chặn bởi { -brand-short-name }

@@ -2,22 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-learn-more = অধিক জানক
 pane-general-title = সাধাৰণ
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-search-title2 = সন্ধান কৰক
     .title = সন্ধান কৰক
-pane-search-title = সন্ধান কৰক
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 focus-search =
     .key = f
 close-button =
@@ -31,12 +20,8 @@ should-restart-title = { -brand-short-name } পুনাৰম্ভ কৰক
 
 ## General Section
 
-startup-header = আৰম্ভণি
-is-default = { -brand-short-name } বৰ্তমানে আপোনাৰ অবিকল্পিত ব্ৰাউছাৰ
-is-not-default = { -brand-short-name } বৰ্তমানে আপোনাৰ অবিকল্পিত ব্ৰাউছাৰ নহয়
 tabs-group-header2 =
     .label = টেবসমূহ
-tabs-group-header = টেবসমূহ
 show-tabs-in-taskbar =
     .label = টেবৰ পুৰ্বদৰ্শনসমূহ উইণ্ড'সমূহৰ কাৰ্য্যবাৰত দেখুৱাওক
     .accesskey = k
@@ -46,21 +31,12 @@ startup-group =
 
 ## General Section - Language & Appearance
 
-advanced-fonts =
-    .label = উন্নত…
-    .accesskey = A
 choose-language-description = পৃষ্ঠা প্ৰদৰ্শনৰ বাবে আপোনাৰ পছন্দৰ ভাষা নিৰ্ব্বাচন কৰক
 choose-button =
     .label = বাছক…
     .accesskey = o
 browser-language-install-error =
     .message = { -brand-short-name }-এ এইমুহুৰ্তত আপোনাৰ ভাষা আপডেট কৰিব নোৱাৰে। আপুনি ইণ্টাৰনেটৰ সৈতে সংযুক্ত হৈ আছেনে পৰীক্ষা কৰি পুনৰ চেষ্টা কৰক।
-translate-web-pages =
-    .label = ৱেবৰ সমল অনুবাদ কৰক
-    .accesskey = T
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = অনুবাদ কৰিছে <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = ব্যতিক্ৰমসমূহ…
     .accesskey = x
@@ -71,20 +47,6 @@ download-save-files-header =
     .label = ফাইলসমূহ চিহ্নিত স্থানত সংৰক্ষণ কৰিব
 download-save-where-3 =
     .aria-label = ফাইলসমূহ চিহ্নিত স্থানত সংৰক্ষণ কৰিব
-download-header = ডাউনল'ডসমূহ
-download-save-where = ফাইলসমূহ চিহ্নিত স্থানত সংৰক্ষণ কৰিব
-    .accesskey = v
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] নিৰ্বাচন কৰক…
-           *[other] ব্ৰাউছ কৰক…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] o
-        }
 applications-type-column =
     .label = সমলৰ ধৰণ
     .accesskey = T
@@ -117,17 +79,11 @@ applications-always-ask =
 #   $type-description (string) - Description of the type (e.g "Portable Document Format")
 #   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = { $plugin-name } ব্যৱহাৰ কৰক ({ -brand-short-name } ত)
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -142,9 +98,6 @@ applications-use-other-label =
 ## Firefox updates
 
 play-drm-content-learn-more = অধিক জানক
-update-application-use-service =
-    .label = আপডেইটসমূহ ইনস্টল কৰিবলে এটা পটভূমি সেৱা ব্যৱহাৰ কৰক
-    .accesskey = b
 
 ## General Section - Performance
 
@@ -155,7 +108,6 @@ performance-allow-hw-accel =
 
 ## Accessibility page
 
-browsing-title = ব্ৰাউছিং
 browsing-use-autoscroll =
     .label = অ'ট'স্ক্ৰলিং ব্যৱহাৰ কৰক
     .accesskey = a
@@ -165,18 +117,8 @@ browsing-use-smooth-scrolling =
 browsing-use-cursor-navigation =
     .label = পৃষ্ঠাৰ মাজত ব্ৰাউছ কৰিবলৈ সদায়ে কাৰ্চাৰ চাবি ব্যৱহাৰ কৰিব
     .accesskey = c
-browsing-picture-in-picture-learn-more = অধিক জানক
-browsing-media-control-learn-more = অধিক জানক
-browsing-cfr-recommendations-learn-more = অধিক জানক
 browsing-group =
     .label = ব্ৰাউছিং
-
-## General Section - Proxy
-
-network-proxy-connection-learn-more = অধিক জানক
-network-proxy-connection-settings =
-    .label = পছন্দসমূহ…
-    .accesskey = e
 
 ## Custom Homepage subpage
 
@@ -206,10 +148,6 @@ home-prefs-recommended-by-learn-more = ই কেনেকৈ কাম কৰ�
 
 ## Search Section
 
-search-engine-default-header = অবিকল্পিত সন্ধান ইঞ্জিন
-search-suggestions-option =
-    .label = সন্ধানৰ পৰামৰ্শসমূহ দিয়ক
-    .accesskey = s
 search-choose-engine-column =
     .label = সন্ধান ইঞ্জিন
 search-choose-keyword-column =
@@ -248,16 +186,6 @@ sync-engine-history =
     .label = ইতিহাস
     .accesskey = r
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = বৈধতা পঠোৱা হল
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = { $email }-লৈ এটা সত্যাপন লিংক পঠিওৱা হৈছে।
-sync-verification-not-sent-title = সত্যাপন পঠিয়াব পৰা নগ'ল
-sync-verification-not-sent-body = আমি এই সময়ত এটা সত্যাপন মেইল পঠিয়াব নোৱাৰিলোঁ, অনুগ্ৰহ কৰি পাছত পুনৰ চেষ্টা কৰিব।
-
 ## Privacy Panel Settings
 
 forms-exceptions =
@@ -275,16 +203,9 @@ forms-master-pw-fips-desc = পাছৱৰ্ডৰ পৰিবৰ্তন �
 
 ## Privacy Section - History
 
-history-remember-option-all =
-    .label = ইতিহাস মনত ৰাখক
-history-remember-option-never =
-    .label = ইতিহাস কেতিয়াও মনত নাৰাখিব
-history-remember-option-custom =
-    .label = ইতিহাসৰ বাবে স্বনিৰ্বাচিত সংহতিসমূহ ব্যৱহাৰ কৰক
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } এ ব্যক্তিগত ব্ৰাউছিংৰ সংহতিসমূহ ব্যৱহাৰ কৰিব, আৰু আপুনি ৱেব ব্ৰাউছ কৰি থাকোঁতে কোনো ইতিহাস মনত নাৰাখে।
-history-dontremember-description = { -brand-short-name } এ ব্যক্তিগত ব্ৰাউছিংৰ সংহতিসমূহ ব্যৱহাৰ কৰিব, আৰু আপুনি ৱেব ব্ৰাউছ কৰি থাকোঁতে কোনো ইতিহাস মনত নাৰাখে।
 history-private-browsing-permanent =
     .label = সদায় ব্যক্তিগত ব্ৰাউছিং অৱস্থা ব্যৱহাৰ কৰিব
     .accesskey = p
@@ -306,22 +227,6 @@ sitedata-learn-more = অধিক জানক
 
 content-blocking-learn-more = অধিক জানক
 
-## Privacy Section - Permissions
-
-permissions-notification-link = অধিক জানক
-permissions-block-popups =
-    .label = প'প-আপ উইণ্ড'সমূহ প্ৰতিৰোধ কৰক
-    .accesskey = B
-permissions-addon-exceptions =
-    .label = ব্যতিক্ৰমসমূহ…
-    .accesskey = E
-
-## Privacy Section - Data Collection
-
-collection-health-report-telemetry-disabled-link = অধিক জানক
-collection-health-report-link = অধিক জানক
-addon-recommendations-link = অধিক জানক
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -331,18 +236,9 @@ security-enable-safe-browsing-link = অধিক জানক
 
 ## Privacy Section - Certificates
 
-certs-header = প্ৰমাণপত্ৰসমূহ
-certs-enable-ocsp =
-    .label = প্ৰমাণপত্ৰসমূহৰ বৰ্তমান বৈধতা সুনিশ্চিত কৰিবলে OCSP ৰেস্পণ্ডাৰক প্ৰশ্ন কৰক
-    .accesskey = Q
 certs-devices-enable-fips = FIPS সামৰ্থবান কৰক
-
-## Privacy Section - HTTPS-Only
-
-httpsonly-learn-more = অধিক জানক
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ডেস্কটপ
 downloads-folder-name = ডাউনল'ডসমূহ
-choose-download-folder-title = ডাউনল'ডৰ ফ'ল্ডাৰ বাছক:

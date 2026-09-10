@@ -31,8 +31,6 @@ appmenuitem-extensions-and-themes =
     .label = Askouezhioù ha neuzioù
 appmenuitem-extensions =
     .label = Askouezhioù
-appmenuitem-addons-and-themes =
-    .label = Askouezhioù ha neuzioù
 appmenuitem-print =
     .label = Moullañ…
 appmenuitem-find-in-page =
@@ -101,7 +99,6 @@ appmenu-remote-tabs-unverified = Ret eo gwiriekaat ho kont.
 appmenuitem-fxa-toolbar-sync-now2 = Goubredañ bremañ
 appmenuitem-fxa-sign-in = Kennaskañ ouzh { -brand-product-name }
 appmenuitem-fxa-manage-account = Merañ ar gont
-appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-account-header = Kont
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -116,15 +113,6 @@ appmenu-fxa-setup-sync-new = Gweredekaat
 appmenuitem-save-page =
     .label = Enrollañ ar bajenn evel…
 appmenuitem-fxa-sync-off-title = Diweredekaet eo ar goubredañ
-
-## What's New panel in App menu.
-
-whatsnew-panel-header = Petra nevez
-# Checkbox displayed at the bottom of the What's New panel, allowing users to
-# enable/disable What's New notifications.
-whatsnew-panel-footer-checkbox =
-    .label = Kemenn eus ar c'heweriusterioù nevez
-    .accesskey = K
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -225,8 +213,6 @@ appmenu-get-help =
 appmenu-help-more-troubleshooting-info =
     .label = Muioc'h a ditouroù disac’hañ
     .accesskey = M
-appmenu-help-report-site-issue =
-    .label = Danevell kudennoù al lec'hienn…
 appmenu-help-share-ideas =
     .label = Kinnig mennozhioù hag alioù
     .accesskey = K
@@ -270,7 +256,6 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Kuzhit ho chomlec’h postel hag ho niverenn bellgomz gwirion
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
-appmenuitem-vpn-description = Gwarezit hoc’h oberiantiz enlinenn
 
 ## Profiles panel
 

@@ -22,7 +22,6 @@ about-webrtc-closed-peerconnection-disclosure-hide-msg = 닫힌 PeerConnections 
 about-webrtc-aec-logging-msg-label = AEC 로깅
 about-webrtc-aec-logging-off-state-label = AEC 로깅 시작
 about-webrtc-aec-logging-on-state-label = AEC 로깅 중지
-about-webrtc-aec-logging-on-state-msg = AEC 로깅 활성화(몇 분 간 대화를 하고 캡처를 중지하세요)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC 로깅 활성화(몇 분 간 대화를 하고 캡처를 중지하세요)
 about-webrtc-aec-logging-unavailable-sandbox = AEC 로그를 내보내려면 환경 변수 MOZ_DISABLE_CONTENT_SANDBOX=1 이 필요합니다. 가능한 위험을 이해하는 경우에만 이 변수를 설정하세요.
 # Variables:
@@ -93,10 +92,6 @@ about-webrtc-nominated = 지정됨
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = 선택됨
 about-webrtc-save-page-label = 페이지 저장
-about-webrtc-debug-mode-msg-label = 디버그 모드
-about-webrtc-debug-mode-off-state-label = 디버그 모드 시작
-about-webrtc-debug-mode-on-state-label = 디버그 모드 중지
-about-webrtc-stats-heading = 세션 통계
 about-webrtc-enable-logging-label = WebRTC 로그 프리셋 활성화
 about-webrtc-peerconnections-section-heading = RTCPeerConnection 통계
 about-webrtc-peerconnections-section-show-msg = RTCPeerConnection 통계 표시
@@ -104,10 +99,6 @@ about-webrtc-peerconnections-section-hide-msg = RTCPeerConnection 통계 숨기�
 about-webrtc-stats-clear = 기록 지우기
 about-webrtc-log-heading = 연결 로그
 about-webrtc-log-clear = 로그 지우기
-about-webrtc-log-show-msg = 로그 표시
-    .title = 이 섹션을 펼치려면 누르세요
-about-webrtc-log-hide-msg = 로그 숨기기
-    .title = 이 섹션을 접으려면 누르세요
 about-webrtc-log-section-show-msg = 로그 표시
     .title = 이 섹션을 펼치려면 누르세요
 about-webrtc-log-section-hide-msg = 로그 숨기기
@@ -140,19 +131,11 @@ about-webrtc-remote-candidate = 원격 후보자
 about-webrtc-raw-candidates-heading = 모든 원시 후보자
 about-webrtc-raw-local-candidate = 원시 지역 후보자
 about-webrtc-raw-remote-candidate = 원시 원격 후보자
-about-webrtc-raw-cand-show-msg = 원시 후보자 표시
-    .title = 이 섹션을 펼치려면 누르세요
-about-webrtc-raw-cand-hide-msg = 원시 후보자 숨기기
-    .title = 이 섹션을 접으려면 누르세요
 about-webrtc-raw-cand-section-show-msg = 원시 후보자 표시
     .title = 이 섹션을 펼치려면 누르세요
 about-webrtc-raw-cand-section-hide-msg = 원시 후보자 숨기기
     .title = 이 섹션을 접으려면 누르세요
 about-webrtc-priority = 우선 순위
-about-webrtc-fold-show-msg = 상세 표시
-    .title = 이 섹션을 펼치려면 누르세요
-about-webrtc-fold-hide-msg = 상세 숨기기
-    .title = 이 섹션을 접으려면 누르세요
 about-webrtc-fold-default-show-msg = 상세 표시
     .title = 이 섹션을 펼치려면 누르세요
 about-webrtc-fold-default-hide-msg = 상세 숨기기
@@ -194,8 +177,6 @@ about-webrtc-configuration-element-provided = 제공됨
 # been provided
 about-webrtc-configuration-element-not-provided = 제공되지 않음
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = 사용자 WebRTC 설정
-# The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-user-modified-configuration-heading = 사용자가 수정한 WebRTC 구성
 
 ## These are displayed on the button that shows or hides the
@@ -226,13 +207,6 @@ about-webrtc-round-trip-time-ms = RTT ms
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
 about-webrtc-frame-stats-heading = 비디오 프레임 통계 - MediaStreamTrack ID: { $track-identifier }
-
-##
-
-about-webrtc-save-page-msg = 페이지 저장됨: { $path }
-about-webrtc-debug-mode-off-state-msg = 추적로그 위치: { $path }
-about-webrtc-debug-mode-on-state-msg = 디버그 모드 활성화, 추적로그 위치: { $path }
-about-webrtc-aec-logging-off-state-msg = 캡처된 로그파일 위치: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

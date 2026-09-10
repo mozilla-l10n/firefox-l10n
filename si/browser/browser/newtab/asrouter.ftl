@@ -62,17 +62,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = පොත්යොමු ඕනෑම තැනකට සමමුහූර්ත කරන්න.
-cfr-doorhanger-bookmark-fxa-body = කදිම සොයා ගැනීමක්! ඔබගේ ජංගම උපාංගවල මෙම පොත්යොමුව රහිතව නොසිටින්න. { -fxaccount-brand-name } සමඟ පටන් ගන්න.
 cfr-doorhanger-bookmark-fxa-link-text = පොත්යොමු දැන් සමමුහූර්ත කරන්න…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = බොත්තම වසන්න
     .title = වසන්න
-
-## Protections panel
-
-cfr-protections-panel-header = ලුහුබැඳීම් මඟහැර පිරික්සන්න
-cfr-protections-panel-body = ඔබගේ දත්ත ඔබම තබා ගන්න. ඔබ මාර්ගගතව කරන දෑ සොයන බොහෝ පොදු ලුහුබැඳීම් වලින් { -brand-short-name } ඔබව ආරක්‍ෂා කරයි.
-cfr-protections-panel-link-text = තව දැනගන්න
 
 ## What's New toolbar button and panel
 
@@ -167,38 +160,8 @@ mr2022-background-update-toast-primary-button-label = දැන් { -brand-shor
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = පසුව මතක් කරන්න
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = බලන්න
-    .accesskey = T
-firefoxview-cfr-secondarybutton = දැන් නොවේ
-    .accesskey = N
-firefoxview-cfr-header-v2 = ඔබ නතර කළ තැනින් ඉක්මනින් අරඹන්න
-firefoxview-cfr-body-v2 = මෑතදී වසා දැමූ පටිති ආපසු ගන්න. තවද, { -firefoxview-brand-name } තිබෙන උපාංග අතර බාධාවකින් තොරව පනින්න.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = { -firefoxview-brand-name } අත්විඳින්න
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = දුරකථනයෙහි විවෘත පටිත්ත වුවමනාද? එය ඇහිඳින්න. ඔබ දැන් ගොඩවැදුණු අඩවිය වුවමනාද? ඔන්න, එය { -firefoxview-brand-name } සමඟ ලැබෙණු ඇත.
-firefoxview-spotlight-promo-primarybutton = එය වැඩ කරන අයුරු බලන්න
-firefoxview-spotlight-promo-secondarybutton = මඟහරින්න
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = වර්ණ පරාසය තෝරන්න
-    .accesskey = C
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = අභිවර්ධනයට බලපෑ හඬින් ප්‍රබෝධමත් වූ සුවිශේෂ { -brand-short-name } පැහැයන්ගෙන් ඔබගේ අතිරික්සුව වර්ණවත් කරන්න.
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = දත්තකඩ පතාක ප්‍රතික්‍ෂේපයට { -brand-short-name } වෙත ඉඩ දෙන්නද?
-cfr-cbh-body = { -brand-short-name } මඟින් බොහෝ දත්තකඩ පතාක ඉල්ලීම් ස්වයංක්‍රීයව ඉවතලිය හැකිය.
-cfr-cbh-confirm-button = දත්තකඩ පතාක ඉවතලීම
-    .accesskey = R
-cfr-cbh-dismiss-button = දැන් නොවේ
-    .accesskey = N
 cookie-banner-blocker-onboarding-learn-more = තව දැනගන්න
 
 ## These strings are used in the Fox doodle Pin/set default spotlights

@@ -23,13 +23,11 @@ neterror-override-exception-button = Riski qəbul et və davam et
 neterror-pref-reset-button = Ön tənzimləmələri bərpa et
 neterror-return-to-previous-page-button = Geri Get
 neterror-return-to-previous-page-recommended-button = Geri get (Məsləhətlidir)
-neterror-try-again-button = Təkrar Yoxla
 neterror-view-certificate-link = Sertifikatı Gör
 
 ##
 
 neterror-pref-reset = Şəbəkə təhlükəsizliyi tənzimləmələri buna səbəb ola bilər. Standart tənzimləməri geri yükləmək istəyirsinizmi?
-neterror-error-reporting-automatic = Bu kimi xətaları { -vendor-short-name }ya xəbər edərək təhlükəli saytları təyin edib bloklamaya kömək edə bilərsiz.
 
 ## Specific error messages
 
@@ -46,8 +44,6 @@ neterror-file-not-found-moved = Faylın köçürülmüş, adı dəyişdirilmiş 
 neterror-access-denied = Fayl ya silindiyi, ya yeri dəyişdirildiyi, ya da icazələri dəyişdirildiyi üçün əlaqə mümkün deyil.
 neterror-unknown-protocol = Bu ünvanı açmaq üçün başqa proqram quraşdırmalısınız.
 neterror-redirect-loop = Bu problem, əsasən, çərəzləri söndürdükdə və ya qəbul etmədikdə baş verir.
-neterror-unknown-socket-type-psm-installed = Sizin sistemə Şəxsi Təhlükəsizlik Meneceri quraşdırıldığına əmin olun.
-neterror-unknown-socket-type-server-config = Buna serverin standart olmayan konfiqurasiyası səbəb ola bilər.
 neterror-not-cached-intro = İstədiyiniz sənəd { -brand-short-name } keşində mövcud deyil.
 neterror-not-cached-sensitive = Təhlükəsizlik tədbiri olaraq, { -brand-short-name } həssas sənədləri avtomatik olaraq yenidən istəmir.
 neterror-not-cached-try-again = Sənədi vebsaytdan yenidən istəmək üçün, Təkrar Yoxla düyməsinə klikləyin.

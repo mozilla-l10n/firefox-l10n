@@ -21,11 +21,6 @@ tabbrowser-tab-tooltip-container = { $containerName }
 #   $tabGroupName (String): the user-defined name of the current tab group.
 #   $containerName (String): the name of the current container.
 tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = ‏{ $title } ‏- ‏{ $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -33,17 +28,6 @@ tabbrowser-container-tab-title = ‏{ $title } ‏- ‏{ $containerName }
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-button =
     .tooltiptext =
-        { $tabCount ->
-            [one] أغلِق اللسان
-            [two] أغلِق اللسانين
-            [few] أغلِق { $tabCount } ألسنة
-            [many] أغلِق { $tabCount } لسانًا
-           *[other] أغلِق { $tabCount } لسان
-        }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
         { $tabCount ->
             [one] أغلِق اللسان
             [two] أغلِق اللسانين
@@ -134,7 +118,6 @@ tabbrowser-confirm-close-tabs-title =
     }
 tabbrowser-confirm-close-tabs-button = أغلق الألسنة
 tabbrowser-ask-close-tabs-checkbox = اسأل قبل محاولة إغلاق عدّة ألسنة
-tabbrowser-confirm-close-tabs-checkbox = أكّد علي عند محاولة إغلاق عدّة ألسنة
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -164,9 +147,6 @@ tabbrowser-confirm-close-tabs-with-key-button = غادِر { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-ask-close-tabs-with-key-checkbox = اسأل قبل المغادرة باستعمال { $quitKey }
-# Variables:
-#   $quitKey (String): the text of the keyboard shortcut for quitting.
-tabbrowser-confirm-close-tabs-with-key-checkbox = أكّد علي قبل المغادرة باستعمال { $quitKey }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
@@ -503,8 +483,8 @@ tab-note-editor-button-save =
     .label = احفظ
     .accesskey = ف
 tab-note-editor-button-delete =
-    .title = احذف الملاحظة
     .aria-label = احذف الملاحظة
+    .title = احذف الملاحظة
     .accesskey = ذ
 tab-note-preview-edit-icon =
     .alt = حرِّر الملاحظة

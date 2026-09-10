@@ -188,8 +188,6 @@ options-disable-http-cache-tooltip =
     .title = Ezzel kikapcsolható a HTTP gyorsítótár minden lapon, amelyen az eszközkészlet nyitva van. A Service Workerekre ez nincs hatással.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label-2 = JavaScript kikapcsolása
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = JavaScript kikapcsolása *
 options-disable-javascript-tooltip =
     .title = Ezen beállítás bekapcsolásakor a JavaScript ki lesz kapcsolva az aktuális lapon. A lap vagy az eszközkészlet bezárásakor ez a beállítás el lesz felejtve.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -219,8 +217,6 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = (csak a jelenlegi munkamenetben, újratölti az oldalt)
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Csak ez a munkamenet, újratölti az oldalt
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (újratölti az oldalt)

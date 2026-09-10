@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Иди на претходну страницу ({ $shortcut })
     .aria-label = Назад
+    .tooltiptext = Иди на претходну страницу ({ $shortcut })
     .accesskey = Н
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Иди на следећу страницу ({ $shortcut })
     .aria-label = Напред
+    .tooltiptext = Иди на следећу страницу ({ $shortcut })
     .accesskey = а
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Обележи страницу…
-    .accesskey = О
     .tooltiptext = Обележи страницу
+    .accesskey = О
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Обележи страницу…
-    .accesskey = О
     .tooltiptext = Обележи страницу ({ $shortcut })
+    .accesskey = О
 main-context-menu-edit-bookmark =
     .aria-label = Уреди обележивач…
-    .accesskey = о
     .tooltiptext = Уреди обележивач
+    .accesskey = о
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Уреди обележивач…
-    .accesskey = о
     .tooltiptext = Уреди обележивач ({ $shortcut })
+    .accesskey = о
 main-context-menu-open-link =
     .label = Отвори везу
     .accesskey = т
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Сачувај везу као…
     .accesskey = С
-main-context-menu-save-link-to-pocket =
-    .label = Сачувај везу у { -pocket-brand-name(case: "loc") }
-    .accesskey = а
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Укључите уск
 main-context-menu-send-to-mobile-connect-phone3 = Повежите уређај за слање језичака
 main-context-menu-send-to-mobile-connect-phone-from-link = Повежите уређај за слање везе
 main-context-menu-send-to-mobile-connect-phone-from-page = Повежите уређај за слање странице
-main-context-menu-save-to-pocket =
-    .label = Сачувај страницу у { -pocket-brand-name(case: "loc") }
-    .accesskey = ч
-main-context-menu-send-to-device =
-    .label = Пошаљи страницу на уређај
-    .accesskey = ш
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Користи сачувано корисничко име
-    .accesskey = К
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Користи сачувану лозинку
     .accesskey = К
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Користи { -relay-brand-short-name } маскирање е-поште
     .accesskey = е
 main-context-menu-suggest-strong-password =
     .label = Предложи јаку лозинку…
     .accesskey = ж
-main-context-menu-manage-logins2 =
-    .label = Управљај лозинкама
-    .accesskey = У
 main-context-menu-manage-passwords =
     .label = Управљај лозинкама
     .accesskey = У
-main-context-menu-keyword =
-    .label = Додај кључну реч за ову претрагу…
-    .accesskey = Д
 main-context-menu-add-engine =
     .label = Додај претраживач
     .accesskey = Д
@@ -391,9 +364,6 @@ main-context-menu-view-selection-source =
     .label = Прикажи извор изабраног
     .accesskey = з
 main-context-menu-take-screenshot =
-    .label = Направи снимак екрана
-    .accesskey = Н
-main-context-menu-take-frame-screenshot =
     .label = Направи снимак екрана
     .accesskey = Н
 main-context-menu-view-page-source =

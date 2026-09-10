@@ -32,10 +32,6 @@ security-software-name = Názov
 security-software-antivirus = Antivírus
 security-software-antispyware = Antispyware
 security-software-firewall = Firewall
-features-title = Funkcie aplikácie { -brand-short-name }
-features-name = Názov
-features-version = Verzia
-features-id = ID
 processes-title = Vzdialené procesy
 processes-type = Typ
 processes-count = Počet
@@ -61,7 +57,6 @@ app-basics-profile-dir =
         [linux] Priečinok profilu
        *[other] Priečinok profilu
     }
-app-basics-enabled-plugins = Povolené zásuvné moduly
 app-basics-build-config = Konfigurácia zostavenia
 app-basics-user-agent = Reťazec User Agent
 app-basics-os = OS
@@ -99,9 +94,6 @@ show-dir-label =
 environment-variables-title = Premenné prostredia
 environment-variables-name = Názov
 environment-variables-value = Hodnota
-experimental-features-title = Experimentálne funkcie
-experimental-features-name = Názov
-experimental-features-value = Hodnota
 modified-key-prefs-title = Dôležité upravené nastavenia
 modified-prefs-name = Názov
 modified-prefs-value = Hodnota
@@ -223,9 +215,6 @@ media-cdm-capabilities = Schopnosti
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Nešifrovaný úvod (Clear Lead)
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = Kompatibilný s HDCP 2.2
 
 ##
 
@@ -402,8 +391,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Zakázané experimentom
-fission-status-experiment-treatment = Povolené experimentom
 fission-status-disabled-by-e10s-env = Zakázané prostredím
 fission-status-enabled-by-env = Povolené prostredím
 fission-status-disabled-by-env = Zakázané prostredím
@@ -412,7 +399,6 @@ fission-status-disabled-by-default = Predvolene zakázané
 fission-status-enabled-by-user-pref = Povolené používateľom
 fission-status-disabled-by-user-pref = Zakázané používateľom
 fission-status-disabled-by-e10s-other = E10s zakázané
-fission-status-enabled-by-rollout = Povolené postupným zavádzaním
 async-pan-zoom = Asynchrónna lupa/panning
 apz-none = žiadna
 wheel-enabled = vstup kolieskom povolený

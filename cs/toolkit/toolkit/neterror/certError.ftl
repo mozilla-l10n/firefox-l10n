@@ -21,7 +21,6 @@ cert-error-trust-untrusted-issuer = Certifikát není důvěryhodný, protože c
 cert-error-trust-signature-algorithm-disabled = Certifikát je nedůvěryhodný, protože byl podepsán algoritmem, který je z bezpečnostních důvodů zakázán.
 cert-error-trust-expired-issuer = Certifikát není důvěryhodný, protože doba platnosti certifikátu vydavatele už vypršela.
 cert-error-trust-self-signed = Certifikát není důvěryhodný, protože je podepsán sám sebou.
-cert-error-trust-symantec = S ohledem na provinění společností GeoTrust, RapidSSL, Symantec, Thawte a VeriSign proti bezpečnostním postupům nejsou certifikáty vydané těmito společnostmi nadále považovány za bezpečné.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { -brand-short-name } nedůvěřuje serveru { $hostname }, protože nemohl prokázat, že splňuje požadavky na transparentnost veřejného certifikátu.
@@ -59,10 +58,6 @@ cert-error-code-prefix-link = Kód chyby: <a data-l10n-name="error-code-link">{ 
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = Při spojení s { $hostname } nastala chyba. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Webové stránky prokazují svou totožnost pomocí certifikátů vydávaných certifikačními autoritami. Většina prohlížečů už certifikátům od společností GeoTrust, RapidSSL, Symantec, Thawte a VeriSign nedůvěřuje. Server { $hostname } používá certifikát od jedné z těchto autorit a proto jeho totožnost nelze ověřit.
-cert-error-symantec-distrust-admin = Informujte o tomto problému správce webové stránky.
 cert-error-old-tls-version = Tento server zřejmě nepodporuje protokol TLS 1.2, což je minimální verze, kterou { -brand-short-name } vyžaduje.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -71,7 +66,6 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Řetěz certifikátů:
-open-in-new-window-for-csp-or-xfo-error = Otevřít stránku v novém okně
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc =
@@ -82,7 +76,6 @@ csp-xfo-blocked-long-desc =
 fp-certerror-view-certificate-link = Zobrazit certifikát serveru
 fp-certerror-return-to-previous-page-recommended-button-2 = Přejít zpět (doporučeno)
     .accesskey = P
-fp-certerror-return-to-previous-page-recommended-button = Zpátky (doporučeno)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -118,21 +111,21 @@ fp-certerror-self-signed-important-note = DŮLEŽITÁ POZNÁMKA: Pokud se pokou�
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = Weby používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, kým tvrdí, že jsou. { -brand-short-name } nedůvěřuje tomuto webu, protože se zdá, že platnost jeho certifikátu vypršela dne { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-expired-why-dangerous-body = Weby používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, kým tvrdí, že jsou. { -brand-short-name } nedůvěřuje tomuto webu, protože se zdá, že platnost jeho certifikátu vypršela dne { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = Weby používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, kým tvrdí, že jsou. { -brand-short-name } nedůvěřuje tomuto webu, protože se zdá, že jeho certifikát bude platný až po { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-not-yet-valid-why-dangerous-body = Weby používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, kým tvrdí, že jsou. { -brand-short-name } nedůvěřuje tomuto webu, protože se zdá, že jeho certifikát bude platný až po { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = Hodiny vašeho zařízení jsou nastaveny na { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Pokud je to správně, problém se zabezpečením je pravděpodobně na straně samotného webu. Pokud je to špatně, můžete to změnit v systémovém nastavení zařízení.
+fp-certerror-expired-what-can-you-do-body = Hodiny vašeho zařízení jsou nastaveny na { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Pokud je to správně, problém se zabezpečením je pravděpodobně na straně samotného webu. Pokud je to špatně, můžete to změnit v systémovém nastavení zařízení.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Kód chyby: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -145,11 +138,11 @@ fp-learn-more-about-time-related-errors = Zjistit více o řešení chyb souvise
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } nedůvěřuje tomuto webu, protože se zdá, že poskytnutý certifikát bude platný až po { DATETIME($date, timeStyle: "short") } dne { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } nedůvěřuje tomuto webu, protože se zdá, že poskytnutý certifikát bude platný až po { DATETIME($date, timeStyle: "short") } dne { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Hodiny vašeho zařízení jsou nastaveny na { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Pokud je to správně, problém se zabezpečením je pravděpodobně na straně samotného webu. Pokud je to špatně, můžete to změnit v systémovém nastavení zařízení.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Hodiny vašeho zařízení jsou nastaveny na { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }. Pokud je to správně, problém se zabezpečením je pravděpodobně na straně samotného webu. Pokud je to špatně, můžete to změnit v systémovém nastavení zařízení.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -267,8 +260,6 @@ deniedPortAccess-title = Omezení přístupu k adrese
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm, tuto stránku se nám nedaří najít.
 internet-connection-offline-title = Zdá se, že došlo k problému s připojením k internetu.
-dns-not-found-trr-only-title2 = Vyhledání této domény je možné bezpečnostní riziko
-dns-not-found-native-fallback-title2 = Vyhledání této domény je možné bezpečnostní riziko
 fileNotFound-title = Soubor nenalezen
 fileAccessDenied-title = Přístup k souboru byl odepřen
 generic-title = Nepodařilo se dokončit požadavek
@@ -293,7 +284,6 @@ unknownSocketType-title = Neplatná odpověď serveru
 nssFailure2-title = Chyba zabezpečeného spojení
 csp-xfo-error-title = { -brand-short-name } tuto stránku nemůže otevřít
 corruptedContentErrorv2-title = Chyba v obsahu stránky
-corruptedContentError-title = Chyba v obsahu stránky
 sslv3Used-title = Nelze navázat zabezpečené spojení
 inadequateSecurityError-title = Vaše spojení není zabezpečené
 blockedByPolicy-title = Zablokovaná stránka
@@ -320,7 +310,6 @@ fp-certerror-hide-advanced-button = Skrýt rozšířené
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = Pokračovat na { $hostname } (riskantní)
 fp-certerror-intro =
     { -brand-short-name.gender ->
         [masculine] { -brand-short-name } zjistil potenciálně závažný bezpečnostní problém s webem <strong>{ $hostname }</strong>. Někdo, kdo se vydává za tento web, by se mohl pokusit ukrást například údaje o platební kartě, hesla nebo e-maily.

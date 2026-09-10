@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Паролі
-about-logins-login-filter =
-    .placeholder = Шукати паролі
-    .key = F
-create-new-login-button =
-    .title = Створити новий запис
 about-logins-page-title-name = Паролі
 about-logins-login-filter2 =
-    .placeholder = Пошук паролів
     .key = F
+    .placeholder = Пошук паролів
 create-login-button =
     .title = Додати пароль
 fxaccounts-sign-in-text = Отримайте доступ до своїх паролів на інших пристроях
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Імпортувати з іншого браузера…
 about-logins-menu-menuitem-import-from-a-file = Імпортувати з файлу…
-about-logins-menu-menuitem-export-logins = Експортувати паролі…
-about-logins-menu-menuitem-remove-all-logins = Видалити всі паролі…
 about-logins-menu-menuitem-export-logins2 = Експортувати паролі…
 about-logins-menu-menuitem-remove-all-logins2 = Вилучити всі паролі…
 menu-menuitem-preferences =
@@ -42,24 +34,6 @@ about-logins-menu-menuitem-help = Допомога
 
 login-list =
     .aria-label = Паролі, що відповідають пошуковому запиту
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } запис
-        [few] { $count } записи
-       *[many] { $count } записів
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $count } запис входу з { $total }
-        [few] { $count } записи входу з { $total }
-        [many] { $count } записів входу з { $total }
-       *[other] { $count } записів входу з { $total }
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -85,14 +59,10 @@ login-list-username-reverse-option = Ім'я користувача (Я-А)
 about-logins-login-list-alerts-option = Попередження
 login-list-last-changed-option = Змінено
 login-list-last-used-option = Використано
-login-list-intro-title = Паролів не знайдено
 login-list-intro-title2 = Немає збережених паролів
 login-list-intro-description = Коли ви зберігаєте пароль в { -brand-product-name }, він з'являтиметься тут.
-about-logins-login-list-empty-search-title = Паролів не знайдено
 about-logins-login-list-empty-search-title2 = Паролів не знайдено
 about-logins-login-list-empty-search-description = Немає результатів, які відповідають вашому пошуку.
-login-list-item-title-new-login = Новий запис
-login-list-item-subtitle-new-login = Введіть облікові дані
 login-list-item-title-new-login2 = Додати пароль
 login-list-item-subtitle-missing-username = (без імені користувача)
 about-logins-list-item-breach-icon =
@@ -108,28 +78,20 @@ about-logins-list-section-week = Останні 7 днів
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Шукаєте збережені паролі? Увімкніть синхронізацію або імпортуйте їх.
-about-logins-login-intro-heading-logged-in = Не знайдено синхронізованих паролів.
-login-intro-description = Якщо ви зберегли паролі в { -brand-product-name } на іншому пристрої, ось як отримати їх тут:
-login-intro-instructions-fxa = Зареєструйтеся чи увійдіть до свого { -fxaccount-brand-name(case: "gen") } на пристрої, де збережено ваші паролі
 about-logins-login-intro-heading-message = Зберігайте свої паролі в безпечному місці
 login-intro-description2 = Усі паролі, які ви зберігаєте в { -brand-product-name }, зашифровані. Крім того, ми спостерігаємо за витоками даних і сповіщаємо, якщо це стосується вас. <a data-l10n-name="breach-alert-link">Докладніше</a>
 login-intro-instructions-fxa2 = Зареєструйтеся чи ввійдіть до облікового запису на пристрої, де збережено паролі.
 login-intro-instructions-fxa-settings = Перейдіть до Налаштування > Синхронізація > Увімкнути синхронізацію… Позначте паролі.
 login-intro-instructions-fxa-passwords-help = Перейдіть до <a data-l10n-name="passwords-help-link">підтримки щодо паролів</a>, щоб отримати допомогу.
-about-logins-intro-browser-only-import = Якщо ваші паролі збережено в іншому браузері, ви можете <a data-l10n-name="import-link">імпортувати їх у { -brand-product-name }</a>
-about-logins-intro-import2 = Якщо ваші паролі зберігаються не в { -brand-product-name }, ви можете <a data-l10n-name="import-browser-link">імпортувати їх з іншого браузера</a> або <a data-l10n-name="import-file-link">з файлу</a>
 about-logins-intro-import3 = Виберіть кнопку зі знаком плюс, щоб додати пароль зараз. Ви також можете <a data-l10n-name="import-browser-link">імпортувати паролі з іншого браузера</a> або <a data-l10n-name="import-file-link">з файлу</a>.
 
 ## Login
 
-login-item-new-login-title = Створити новий запис
 # Header for adding a password
 about-logins-login-item-new-login-title = Додати пароль
 login-item-edit-button = Змінити
 about-logins-login-item-remove-button = Вилучити
 login-item-origin-label = Адреса вебсайту
-login-item-tooltip-message = Переконайтесь, що це точно відповідає адресі вебсайту, на який ви входите.
 about-logins-origin-tooltip2 = Введіть повну адресу та переконайтеся, що вона точно збігається з адресою для входу.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -149,7 +111,6 @@ login-item-password-conceal-checkbox =
     .aria-label = Приховати пароль
 login-item-copy-password-button-text = Копіювати
 login-item-copied-password-button-text = Скопійовано!
-login-item-save-changes-button = Зберегти зміни
 about-logins-login-item-save-changes-button = Зберегти
 login-item-save-new-button = Зберегти
 login-item-cancel-button = Скасувати
@@ -173,11 +134,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Щоб змінити запис, введіть свої облікові дані входу для Windows. Це допомагає захистити ваші збережені паролі.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = редагувати збережений пароль
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -201,11 +157,6 @@ about-logins-copy-password-os-auth-dialog-message-win = Щоб скопіюва�
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = копіювати збережений пароль
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Щоб експортувати паролі, введіть свої облікові дані входу для Windows. Це допомагає захистити ваші збережені паролі.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = експортувати збережені паролі
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = Щоб експортувати ваші паролі, введіть свої облікові дані для входу у Windows. Це допомагає захистити ваші збережені паролі.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -223,8 +174,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Скасувати
 confirmation-dialog-dismiss-button =
     .title = Скасувати
-about-logins-confirm-remove-dialog-title = Вилучити цей запис?
-confirm-delete-dialog-message = Це незворотна дія.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Вилучити пароль?
 # Message for modal to confirm the removal of one saved password
@@ -240,37 +189,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [few] Вилучити { $count }
         [many] Вилучити { $count }
        *[other] Вилучити все
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] Так, вилучити цей пароль
-        [one] Так, вилучити цей пароль
-        [few] Так, вилучити ці паролі
-       *[many] Так, вилучити ці паролі
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] Вилучити { $count } пароль?
-        [few] Вилучити всі { $count } паролі?
-       *[many] Вилучити всі { $count } паролів?
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [one] Це призведе до вилучення пароля, який ви зберегли до { -brand-short-name } та будь-яких сповіщень про витоки, які з'являються тут. Ви не зможете скасувати цю дію.
-        [few] Це призведе до вилучення паролів, які ви зберегли до { -brand-short-name } та будь-яких сповіщень про витоки, які з'являються тут. Ви не зможете скасувати цю дію.
-       *[many] Це призведе до вилучення паролів, які ви зберегли до { -brand-short-name } та будь-яких сповіщень про витоки, які з'являються тут. Ви не зможете скасувати цю дію.
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] Вилучити { $count } пароль з усіх пристроїв?
-        [few] Вилучити усі { $count } паролі з усіх пристроїв?
-       *[many] Вилучити усі { $count } паролів з усіх пристроїв?
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [one] Це призведе до вилучення збереженого в { -brand-short-name } пароля з усіх пристроїв, синхронізованих з вашим { -fxaccount-brand-name(case: "abl") }. Це також вилучить попередження про витоки, які з'являються тут. Ви не зможете скасувати цю дію.
-        [few] Це призведе до вилучення всіх збережених у { -brand-short-name } паролів з усіх пристроїв, синхронізованих з вашим { -fxaccount-brand-name(case: "abl") }. Це також вилучить попередження про витоки, які з'являються тут. Ви не зможете скасувати цю дію.
-       *[many] Це призведе до вилучення всіх збережених у { -brand-short-name } паролів з усіх пристроїв, синхронізованих з вашим { -fxaccount-brand-name(case: "abl") }. Це також вилучить попередження про витоки, які з'являються тут. Ви не зможете скасувати цю дію.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -307,15 +225,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = Експортувати паролі
-about-logins-confirm-export-dialog-message = Ваші паролі буде збережено у вигляді звичайного тексту (наприклад, BadP@ssw0rd), тож кожен, хто може відкрити експортований файл, зможе їх переглянути.
-about-logins-confirm-export-dialog-confirm-button = Експорт…
 about-logins-confirm-export-dialog-title2 = Примітка щодо експортування паролів
 about-logins-confirm-export-dialog-message2 =
     Під час експортування ваші паролі зберігаються у файлі у форматі звичайного тексту.
     Після використання файлу рекомендуємо видалити його, щоб інші користувачі цього пристрою не могли побачити ваші паролі.
 about-logins-confirm-export-dialog-confirm-button2 = Продовжити експорт
-about-logins-alert-import-title = Імпорт завершено
 about-logins-alert-import-message = Переглянути детальний підсумок імпорту
 confirm-discard-changes-dialog-title = Відхилити незбережені зміни?
 confirm-discard-changes-dialog-message = Усі незбережені зміни будуть втрачені.
@@ -352,11 +266,6 @@ about-logins-error-message-default = При збереженні цього па
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Файл експорту паролів
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = паролі.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = Експортувати паролі з { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -372,8 +281,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = Імпорт паролів з файлу
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = Імпорт паролів до { -brand-short-name }
 about-logins-import-file-picker-import-button = Імпортувати
@@ -397,18 +304,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Імпорт завершено
-about-logins-import-dialog-items-added =
-    { $count ->
-       *[other] <span>Додано нових записів:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-       *[other] <span>Оновлено наявних записів:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-       *[other] <span>Знайдено дублікатів:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
-    }
 about-logins-import-dialog-items-added2 =
     { $count ->
         [one] <span>Додано нові паролі:</span> <span data-l10n-name="count">{ $count }</span>
@@ -446,15 +341,11 @@ about-logins-import-dialog-error-learn-more = Дізнатися більше
 about-logins-import-dialog-error-try-import-again = Повторити спробу імпорту…
 about-logins-import-dialog-error-cancel = Скасувати
 about-logins-import-report-title = Підсумок імпорту
-about-logins-import-report-description = Паролі, імпортовані до { -brand-short-name }.
 about-logins-import-report-description2 = Паролі імпортовано до { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Рядок { $number }
-about-logins-import-report-row-description-no-change = Дублікат: Точний збіг з наявним паролем
-about-logins-import-report-row-description-modified = Наявний пароль оновлено
-about-logins-import-report-row-description-added = Новий пароль додано
 about-logins-import-report-row-description-no-change2 = Дублікат: точний збіг з наявним записом
 about-logins-import-report-row-description-modified2 = Наявний запис оновлено
 about-logins-import-report-row-description-added2 = Додано новий пароль
@@ -471,24 +362,6 @@ about-logins-import-report-row-description-error-missing-field = Помилка:
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">новий пароль додано</div>
-        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">нових паролі додано</div>
-       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">нових паролів додано</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">наявний пароль оновлено</div>
-        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">наявні паролі оновлено</div>
-       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">наявних паролів оновлено</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дублікат пароля</div> <div data-l10n-name="not-imported">(не імпортовано)</div>
-        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дублікати паролів</div> <div data-l10n-name="not-imported">(не імпортовано)</div>
-       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дублікатів паролів</div> <div data-l10n-name="not-imported">(не імпортовано)</div>
-    }
 about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">новий пароль додано</div>

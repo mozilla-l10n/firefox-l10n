@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Nej riña gayi'ì' sesiûn & nej da'nga' huìi
-about-logins-login-filter =
-    .placeholder = Nana'huì' nej riña gayi'ìt sesiûn
-    .key = F
-create-new-login-button =
-    .title = Giri 'ngo riña gayi'ì sesiûn nakàa
 about-logins-page-title-name = Da'nga' huìi
 about-logins-login-filter2 =
-    .placeholder = Nānà’huì’ nej da’nga’ huìi
     .key = F
+    .placeholder = Nānà’huì’ nej da’nga’ huìi
 create-login-button =
     .title = Gūnutà’ a’ngô da’ga’ huìi
 fxaccounts-sign-in-text = Giri da'ngā huìi da' garasunt riña a'ngo aga'aj
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Asìj riña a'ngô nabegadôr duguachînt ga'naj…
 about-logins-menu-menuitem-import-from-a-file = Gūxūn gā’naj āsìj riña ‘ngō archivo…
-about-logins-menu-menuitem-export-logins = Dūguachîn nej riña gayì’ìt sēsiûn…
-about-logins-menu-menuitem-remove-all-logins = Nādure\’ daran\’ chre riña gayi\’ìt sēsiûn…
 about-logins-menu-menuitem-export-logins2 = Gā’nïnj gan’ānj nej da’nga’ huìi…
 about-logins-menu-menuitem-remove-all-logins2 = Nādure’ daran’ nej da’nga’ huìi…
 menu-menuitem-preferences =
@@ -42,21 +34,6 @@ about-logins-menu-menuitem-help = Sa rugûñu'unj un
 
 login-list =
     .aria-label = Gayi'ì sesiûn sani gachinj nan'anjt sa nana'ui'i
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } gayi'ì sesiûn
-       *[other] { $count } nej ña gayi'ì sesiûn
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $count } si'hiaj { $total } gayi'ì man sesiûn
-       *[other] { $count } si'hiaj { $total } gayi'ì nej  man sesiûn
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -80,14 +57,10 @@ login-list-username-reverse-option = Si yūgui sa \‘iaj suun (Z-A)
 about-logins-login-list-alerts-option = Gā gūdadû
 login-list-last-changed-option = Sa nagi'iât ne' rukù ni'inj
 login-list-last-used-option = Sa garajsun rukù nï't
-login-list-intro-title = Nu nari'ij riña gayi'ī sesiôn
 login-list-intro-title2 = Nu na’nïn sà’aj nej da’nga’ huìi
 login-list-intro-description = Ngà na'ní sa't da'ngā' huìi { -brand-product-name }, ni ñuna gahui ma ni'iajt.
-about-logins-login-list-empty-search-title = Nu nari'ij riña gayi'ì sesiôn
 about-logins-login-list-empty-search-title2 = Nu nārì’ij à’ngō da’nga’ huìi
 about-logins-login-list-empty-search-description = Nitaj nuguan' nikaj dugui' ngà sa nana'uî't 'na'.
-login-list-item-title-new-login = Gayi'ì sesiûn nakàa
-login-list-item-subtitle-new-login = Gacrun dánt riña gayi'ìt sesiûn
 login-list-item-title-new-login2 = Gūnutà’ a’ngô da’nga’ huìi
 login-list-item-subtitle-missing-username = (nitaj si yugui usuario hua)
 about-logins-list-item-breach-icon =
@@ -103,28 +76,20 @@ about-logins-list-section-week = Sa gahuin 7 gui ga'na'
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Nana’huî’t nej riña gayi’ìt sesiûn màn sà’ ‘hiá raj. Nāchrūn da’ nāgi’hiaj nūguan’ànt así gā’nï̀nj ñan gān’an.
-about-logins-login-intro-heading-logged-in = Nu nari'ìj riña gayi'ìt sesiûn hua nuguan'àn
-login-intro-description = Si nari't riña gayi'ìt sesiôn riña { -brand-product-name } riña a'ngo aga'aj, ni ñuna ni'iaj daj gi'iát da' nari't riña aga' na.
-login-intro-instructions-fxa = Gīrī si nitāj nī gāyi’í sēsiûn riñan si { -fxaccount-brand-name } riñan aga’ nañûn sà’ daran’ nej sa ayi’ìt sēsiûn.
 about-logins-login-intro-heading-message = Nā’nïnj sà’ nej da’nga’ huìi riña huā huì doj
 login-intro-description2 = Daran’ nej da’nga’ huì na’nïn sà’t riña { -brand-product-name } nī huā arrán riña nū nej man. Dàdanj nī, màn ñûnj dugumîn ñûnj sisī huā sa ruhuâ gī’hiaj yī’ì nej man nī gātāj nan’ānj ñûnj gūnïnt. <a data-l10n-name="breach-alert-link">Gāhuin chrūn doj</a>
 login-intro-instructions-fxa2 = Gāyì’ì sēsiûn riña si keundât asìj riña aga’ nū sà’ ne riña ayì’ìt sēsiûn.
 login-intro-instructions-fxa-settings = Guīj riña Nāgi’hiô’ Nāgi’hiaj nūgun’ùn’ Nāchrūn sa nagi’hiaj nūguan’àan… Gūru’man ra’a riña tāj Nātsij riña ayi’ìt sēsiûn ngà nej da’nga’ huìi.
 login-intro-instructions-fxa-passwords-help = Gātū riñan <a data-l10n-name="passwords-help-link">nej sa nīkāj da’nga’ huìi</a> da’ nārì’t doj sa huā riña man.
-about-logins-intro-browser-only-import = Sisī nej riña gayi’ìt sesiûn nu sà’ riña a’ngô riña nana’uî’t, ga’ue <a data-l10n-name="import-link">duguachînt riña { -brand-product-name }</a>
-about-logins-intro-import2 = Sisī nej riña gayì’ìt sēsiûn nu sà’ ne’ yē’ { -brand-product-name }, ga’ue <a data-l10n-name="import-browser-link">gūxūnt ga’naj āsìj riña a’ngô sa riñā nana’uî’t</a> asi <a data-l10n-name="import-file-link">āsìj riña ‘ngō archivo</a>
 about-logins-intro-import3 = Gūru’man ra’a riña būtûn nì signo ‘na’ yātà’ dan da’ gā’hue gūnutà’t ‘ngō da’nga’ huìi akuan’ nïn. Así gā’hue <a data-l10n-name="import-browser-link">gānakājt nej da’nga’ huìi asìj riña a’ngô nej nābēgadôr</a>asi<a data-l10n-name="import-file-link">asìj riña archibô</a>.
 
 ## Login
 
-login-item-new-login-title = Giri 'ngo sa gayi'ì sesiûn nakàa
 # Header for adding a password
 about-logins-login-item-new-login-title = Gūnutà’ a’ngô da’nga’ huìi
 login-item-edit-button = Nagi'iô'
 about-logins-login-item-remove-button = Guxūn
 login-item-origin-label = Si Direlsiûn Sîtio
-login-item-tooltip-message = Ni'hiaj sisī huê ngè direksiôn huin ngà riña ruhuat gātu raj.
 about-logins-origin-tooltip2 = Hue’êt chre gāchrūnt direksiûn nī gīni’hiā sisī nārì’ dugui’ man ngà hiūj ayi’ìt sēsiûn.
 login-item-origin =
     .placeholder = https://www.example.com
@@ -140,7 +105,6 @@ login-item-password-conceal-checkbox =
     .aria-label = Gā’nïnj hùi da’nga’ huìi
 login-item-copy-password-button-text = Guxun' ni nachrun' a'ngô hiuj u
 login-item-copied-password-button-text = 'Ngà guxun'!
-login-item-save-changes-button = Na'nïnj sà' sa nadunât
 about-logins-login-item-save-changes-button = Nā'nïnj sà'
 login-item-save-new-button = Na'nïnj sà'
 login-item-cancel-button = Duyichin'
@@ -164,11 +128,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Da’ nāgi’iát riña gayi’ìt sēsiûn, gāchrūn si krēdenciât nga gayi’ìt Windows. Rugûñun’ūnj nan da’ dūguminj nej si kuendât.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = Nāgi’iaj riña gayi’ìt sēsiûn na’nïn sà’t
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = Nātsij da’nga’ huì nū sà’a
@@ -182,11 +141,6 @@ about-logins-copy-password-os-auth-dialog-message-win = Da’ gūxūnt nī nāch
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = Gūxūn nī nāchrūn a’ngô hiūj da’nga’ huì nū sà’ ‘iát
-# This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Da’ gā’nïnt gan'ānj riña gayi’ìt sēsiûn, gāchrūn si krēdenciât nga gayi’ìt Windows. Rugûñun’ūnj nan da’ dūguminj nej si kuendât.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = Gā'nïnj gan'ānj nej riña gayi'ìt sēsiûn nī nej da'nga' huìi nū sà’ ‘iát
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message2-macosx = gā’nïnj a’ngô hiūj u gān’ānj nej da’nga’ huì nū sà’ ‘hiát
@@ -203,8 +157,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Duyichin'
 confirmation-dialog-dismiss-button =
     .title = Duyichin'
-about-logins-confirm-remove-dialog-title = ¿Nadurê't riña gayi'ìt sesión na anj?
-confirm-delete-dialog-message = Si ga'ue dure' sa 'ngà gahuin na.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Nādurê’t da’nga’ huìi aj
 # Message for modal to confirm the removal of one saved password
@@ -220,36 +172,10 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Gūxūn daran'anj
        *[other] Gūxūn daran'anj
     }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] Ga'hue durê'.
-        [one] Ga'hue durê'.
-       *[other] Nadure' nej sesiôn na.
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] Nādurê't riña gayi'ìt sesión { $count } nan anj
-       *[other] Nādurê't nej riña gayi'ìt sesión { $count } nan anj
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] Na gi'hiaj nī ganare' daran' nej sesión na'ní sat riña { -brand-short-name } nī si hua duguî' ruhuâ gātu hui nī si ga'hue.
-        [one] Na gi'hiaj nī ganare' daran' nej sesión na'ní sat riña { -brand-short-name } nī si hua duguî' ruhuâ gātu hui nī si ga'hue.
-       *[other] Na gi'hiaj nī ganare' daran' nej sesión na'ní sat riña { -brand-short-name } nī si hua duguî' ruhuâ gātu hui nī si ga'hue.
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] Gāhuit { $count } riña daran' aga' na'ninjt si kuetâ raj
-       *[other] Gāhuit { $count } riña daran' aga' na'ninjt si kuetâ raj
-    }
 
 ##
 
-about-logins-confirm-export-dialog-title = Gā'nïnj gan'ānj nej riña gayi'ìt sēsiûn nī nej da'nga' huìi
-about-logins-confirm-export-dialog-message = Ngà lêchra nāginu sà’ nej da’nga’ huì huā ‘iát (Dàj rû’, BadP@ssw0rd) da’ ga’ue gīni’iāj ahuin mān’an duguî’ na’nïn archivo nan.
-about-logins-confirm-export-dialog-confirm-button = Gā’nïnj gān’an a’ngô hiūj u…
 about-logins-confirm-export-dialog-confirm-button2 = Dūgu’nïn’ gā’nïnjt gān’an
-about-logins-alert-import-title = 'Ngà gisij gānūkuaj ma
 about-logins-alert-import-message = Ni'hio' daj gi'hiaj man gānūkua.
 confirm-discard-changes-dialog-title = ¿Nadurê't nej sa nun na'nïnj sà' raj?
 confirm-discard-changes-dialog-message = Gan'anj ni'ia daran' nej sa nagi'iát ni nu na'nïnj sà't.
@@ -285,11 +211,6 @@ about-logins-error-message-default = Hua 'ngo sa gire' ngà gahuin ruhuât na'n�
 
 ## Login Export Dialog
 
-# Title of the file picker dialog
-about-logins-export-file-picker-title = Dūguachîn archivo nej riña gayì’ìt sēsiûn
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = logins.csv
 about-logins-export-file-picker-export-button = Gā’nïnj gān’an a’ngô hiūj u…
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -301,8 +222,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = Nākāj archivo nej riña gayì’ìt sēsiûn
 about-logins-import-file-picker-import-button = Gānāko'
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -324,21 +243,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = 'Ngà gisij gānūkuaj ma
-about-logins-import-dialog-items-added =
-    { $count ->
-        [one] <span> Ganachra sà' ma sesiôn nakaa:</span><span data-l10n-name="count">{ $count }</span>
-       *[other] <span> Ganachra sà' ma sesiôn nakaa:</span><span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-        [one] <span>Nahuin nakà nej sesiôn:</span><span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Nahuin nakà nej sesiôn:</span><span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-        [one] <span>Dâ huij nej sesiôn na hua:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(nu guyunj)</span>
-       *[other] <span>Dâ huij nej sesiôn na hua:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(nu guyunj)</span>
-    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Sa gire'e:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nu guyunj)</span>
@@ -355,7 +259,6 @@ about-logins-import-dialog-error-learn-more = Gāhuin chrūn doj
 about-logins-import-dialog-error-try-import-again = Ginùn huin gā’nïnj ñûnt…
 about-logins-import-dialog-error-cancel = Dūyichin\'
 about-logins-import-report-title = Nuguan’ huā rayi’î sa ga’nïnt
-about-logins-import-report-description = Nej riña gayi’ìt sēsiûn nī nej da’nga’ huì ga’nïnt riña { -brand-short-name }.
 about-logins-import-report-description2 = Nej da’nga’ huì gan’ānj riña { -brand-short-name }.
 #
 # Variables:

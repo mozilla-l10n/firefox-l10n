@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Nowy rajtark
-    .accesskey = N
 reload-tab =
     .label = Rajtark znowa začitać
     .accesskey = R
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nowa skupina
     .accesskey = N
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -219,16 +212,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Dźělomny wotkaz wutworić
     .accesskey = l
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [1] { $tabCount } rajtark na grat pósłać
-            [one] { $tabCount } rajtark na grat pósłać
-            [two] { $tabCount } rajtarkaj na grat pósłać
-            [few] { $tabCount } rajtarki na grat pósłać
-           *[other] { $tabCount } rajtarkow na grat pósłać
-        }
-    .accesskey = r
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

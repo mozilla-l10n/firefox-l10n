@@ -132,15 +132,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Wszyskie rozszyrzynia sōm zastawiōne ôd trybu bezpieczyństwa.
-extensions-warning-check-compatibility = Badanie kōmpatybilności rozszyrzyń je zastawiōne. Możesz mieć niykōmpatybilne rozszyrzynia.
-extensions-warning-safe-mode2 =
-    .message = Wszyskie rozszyrzynia sōm zastawiōne ôd trybu bezpieczyństwa.
 extensions-warning-check-compatibility2 =
     .message = Badanie kōmpatybilności rozszyrzyń je zastawiōne. Możesz mieć niykōmpatybilne rozszyrzynia.
 extensions-warning-check-compatibility-button = Załōncz
     .title = Załōncz badanie kōmpatybilności rozszyrzyń
-extensions-warning-update-security = Badanie bezpieczyństwa aktualizacyji rozszyrzyń je zastawiōne. Aplikacyjo może być napadniynto z pōmocōm aktualizacyji.
 extensions-warning-update-security2 =
     .message = Badanie bezpieczyństwa aktualizacyji rozszyrzyń je zastawiōne. Aplikacyjo może być napadniynto z pōmocōm aktualizacyji.
 extensions-warning-update-security-button = Załōncz
@@ -204,10 +199,6 @@ shortcuts-duplicate = Stuplowany skrōt
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } je używane za skrōt wiyncyj jak w jednym przipadku. Skuli stuplowanych skrōtōw mogōm sie pokozać felery fungowanio.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } je używane za skrōt wiyncyj jak w jednym przipadku. Skuli stuplowanych skrōtōw mogōm sie pokozać felery fungowanio.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -228,17 +219,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Rozszyrzynia i motywy sōm choby aplikacyje do przeglōndarki. Ś nimi poradzisz 
-    brōnić hasła, pobiyrać filmy, znojdować ôferty, szperować wrazidlate reklamy, 
-    zmiyniać wyglōnd przeglōndarki i moc wiyncyj. Te małe programy sōm 
-    czynsto rychtowane ôd inkszych firmōw. Sam mosz ôbiōr rozszyrzyń
-    <a data-l10n-name="learn-more-trigger">rykōmyndowanych</a> ôd aplikacyje { -brand-product-name }
-    za niyôbyczajne bezpieczyństwo, sprowność i funkcjōnalność.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Niykere z tych rykōmyndacyji sōm spersōnalizowane. Bazujōm na inkszych rozszyrzyniach, co mosz zainstalowane, preferyncyjach profilōw i statystykach używanio.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message = Niykere z tych rykōmyndacyji sōm spersōnalizowane. Bazujōm na inkszych rozszyrzyniach, co mosz zainstalowane, preferyncyjach profilōw i statystykach używanio.
@@ -300,16 +280,9 @@ addon-detail-last-updated-label = Ôstatnio aktualizowane
 addon-detail-homepage-label = Dōmowo strōna
 addon-detail-rating-label = Ôcyna
 # Message for add-ons with a staged pending update.
-install-postponed-message = Te rozszyrzynie bydzie zaktualizowane przi resztarcie aplikacyje { -brand-short-name }.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Te rozszyrzynie bydzie zaktualizowane przi resztarcie aplikacyje { -brand-short-name }.
 install-postponed-button = Aktualizuj teroz
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Ôcyna: { NUMBER($rating, maximumFractionDigits: 1) } ze 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -328,9 +301,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = Rozszyrzynie <span data-l10n-name="addon-name">{ $addon }</span> je wyciepniynte.
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = Rozszyrzynie { $addon } je wyciepniynte.
 pending-uninstall-undo-button = Cofnij
@@ -344,21 +314,9 @@ install-update-button = Aktualizuj
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
     .title = Przizwolōne w prywatnych ôknach
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
-    .title = Przizwolōne w prywatnych ôknach
 addon-detail-private-browsing-help = Jak dosz zgoda, to rozszyrzynie bydzie mieć dostymp do twojij aktywności w internecie bez czas prywatnego przeglōndanio. <a data-l10n-name="learn-more">Przewiydz sie wiyncyj</a>
 addon-detail-private-browsing-allow = Przizwōl
 addon-detail-private-browsing-disallow = Niy zwolej
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } rykōmynduje ino rozszyrzynia, co trzimiōm sie naszych sztandardōw bezpieczyństwa i fungowanio
 
 ##
 
@@ -366,7 +324,6 @@ available-updates-heading = Dostympne aktualizacyje
 recent-updates-heading = Ôstatnie aktualizacyje
 release-notes-loading = Ladowanie…
 release-notes-error = Przi ladowaniu informacyji ô wydaniu pokozoł sie feler.
-addon-permissions-empty = Te rozszyrzynie niy potrzebuje żodnyj zgody
 recommended-extensions-heading = Rykōmyndowane rozszyrzynia
 recommended-themes-heading = Rykōmyndowane motywy
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
@@ -395,24 +352,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = Rozszyrzynie { $name } je niykōmpatybilne z aplikacyjōm { -brand-short-name }{ $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = Rozszyrzynie { $name } je niykōmpatybilne z aplikacyjōm { -brand-short-name }{ $version }.
-details-notification-unsigned-and-disabled = Niy szło zweryfikować rozszyrzynio { $name } do użycio w aplikacyji { -brand-short-name }, beztōż je zastawiōne.
 details-notification-unsigned-and-disabled2 =
     .message = Niy szło zweryfikować rozszyrzynio { $name } do użycio w aplikacyji { -brand-short-name }, beztōż je zastawiōne.
-details-notification-unsigned-and-disabled-link = Wiyncyj informacyji
-details-notification-unsigned = Niy szło zweryfikować rozszyrzynio { $name } do użycio w aplikacyji { -brand-short-name }. Używej go pozornie.
 details-notification-unsigned2 =
     .message = Niy szło zweryfikować rozszyrzynio { $name } do użycio w aplikacyji { -brand-short-name }. Używej go pozornie.
-details-notification-unsigned-link = Wiyncyj informacyji
-details-notification-blocked = Rozszyrzynie { $name } je zastawiōne skuli problymōw z bezpieczyństwym abo stabilnościōm.
-details-notification-blocked-link = Wiyncyj informacyji
-details-notification-softblocked = Wiadōmo, iże skuli rozszyrzynio { $name } sōm problymy z bezpieczyństwym abo stabilnościōm.
-details-notification-softblocked-link = Wiyncyj informacyji
-details-notification-gmp-pending = Rozszyrzynie { $name } chned bydzie zainstalowane.
 details-notification-gmp-pending2 =
     .message = Rozszyrzynie { $name } chned bydzie zainstalowane.
 

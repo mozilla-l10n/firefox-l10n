@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Захаваныя адрасы
 autofill-manage-addresses-list-header = Адрасы
-autofill-manage-credit-cards-title = Захаваныя крэдытныя карткі
-autofill-manage-credit-cards-list-header = Крэдытныя карткі
 autofill-manage-payment-methods-title = Захаваныя спосабы аплаты
 autofill-manage-cards-list-header = Карты
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = Адкрыць меню
 address-capture-edit-address-link = Змяніць адрас
     .aria-label = Змяніць адрас
-address-capture-edit-address-button =
-    .aria-label = Змяніць адрас
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Дадаць адрас
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Змяніць адрас
-autofill-address-given-name = Імя
-autofill-address-additional-name = Імя па бацьку
-autofill-address-family-name = Прозвішча
 autofill-address-name = Імя
 autofill-address-organization = Арганізацыя
 autofill-address-street-address = Вуліца
@@ -104,8 +97,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Дадаць новы адрас
 autofill-address-country = Краіна ці рэгіён
 autofill-address-country-only = Краіна
 autofill-address-tel = Тэлефон
@@ -114,18 +105,6 @@ autofill-cancel-button = Скасаваць
 autofill-save-button = Захаваць
 autofill-country-warning-message-2 = Аўтазапаўненне формаў зараз даступна толькі для пэўных краін
 autofill-country-warning-message = Аўтазапаўненне формаў зараз даступна толькі для пэўных краін.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Дадаць новую крэдытную картку
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Змяніць крэдытную картку
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] паказаць інфармацыю пра крэдытную карту
-        [windows] { -brand-short-name } спрабуе паказаць інфармацыю крэдытнай карткі. Пацвердзіце доступ да гэтага ўліковага запісу Windows ніжэй.
-       *[other] { -brand-short-name } спрабуе паказаць інфармацыю крэдытнай карткі.
-    }
 autofill-message-tooltip = Паглядзець паведамленне пра аўтазапаўненне
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Дадаць карту
@@ -211,15 +190,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = Ніколі не захоўваць пашпарты
     .accessKey = Н
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

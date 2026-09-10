@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Tutu stronu přełožować
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Přełoženje běži
 translations-panel-settings-button =
     .aria-label = Přełožowanske nastajenja rjadować
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Rěče rjadować
-translations-panel-settings-about = Wo přełožkach w { -brand-shorter-name }
 translations-panel-settings-about2 =
     .label = Wo přełožkach w { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
@@ -91,14 +82,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = Bohužel přełožki z rěče { $language } hišće njepodpěrujemy.
 translations-panel-error-unsupported-hint-unknown-2 = Bohužel přełožki z tuteje rěče hišće njepodpěrujemy.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Bohužel { $language } hišće njepodpěrujemy.
-translations-panel-error-unsupported-hint-unknown = Bohužel tutu rěč hišće njepodpěrujemy.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -130,10 +113,6 @@ translations-manage-header = Přełožki
 translations-manage-settings-button =
     .label = Nastajenja…
     .accesskey = N
-translations-manage-description = Rěče za přełožowanje offline sćahnyć.
-translations-manage-all-language = Wšě rěče
-translations-manage-download-button = Sćahnyć
-translations-manage-delete-button = Zhašeć
 translations-manage-intro-2 = Postajće swoje nastajenja za rěč a přełožowanje sydłow a rjadujće rěče, kotrež su za přełožowanje offline sćehnjene.
 translations-manage-download-description = Rěče za přełožowanje offline sćahnyć
 translations-manage-language-download-button =
@@ -147,12 +126,11 @@ translations-manage-language-remove-all-button =
     .label = Wšě wotstronić
     .accesskey = t
 translations-manage-error-download = Při sćahowanju rěčnych datajow je problem nastał. Prošu spytajće hišće raz.
-translations-manage-error-delete = Při zhašenju rěčnych datajow je problem nastał. Prošu spytajće hišće raz.
 translations-manage-error-remove = Při wotstronjenju rěčnych datajow je problem nastał. Prošu spytajće hišće raz.
 translations-manage-error-list = Lisćina k dispoziciji stejacych rěčow za přełožowanje njeda so wotwołać. Aktualizujće stronu a spytajće hišće raz.
 translations-settings-title =
-    .title = Přełožowanske nastajenja
     .style = min-width: 36em
+    .title = Přełožowanske nastajenja
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Přełožowanje so za slědowace rěče awtomatisce přewjedźe
@@ -246,16 +224,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = Bohužel přełožki z rěče { $language } hišće njepodpěrujemy.
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = Bohužel přełožki z tuteje rěče hišće njepodpěrujemy.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Bohužel { $language } hišće njepodpěrujemy.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Bohužel tutu rěč hišće njepodpěrujemy.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Přełožowanske nastajenja

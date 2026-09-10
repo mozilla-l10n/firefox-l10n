@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Atsiunčiamas naujinimas — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Atsisiunčiamas naujinimas – <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Atsiunčiamas naujinimas — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Diegiamas naujinimas…
 update-failed = Programos atnaujinti nepavyko. <label data-l10n-name="failed-link">Atsisiųskite paskiausią laidą</label>
 update-failed-main = Programos atnaujinti nepavyko. <a data-l10n-name="failed-link-main">Atsisiųskite paskiausią laidą</a>
-update-adminDisabled = Naujinimus uždraudė sistemos administratorius
 update-noUpdatesFound = Naudojama paskiausia „{ -brand-short-name }“ laida
 settings-update-no-updates-found =
     .label = Naudojama paskiausia „{ -brand-short-name }“ laida
@@ -66,8 +64,6 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">„{ -vendor-s
 community-2 = „{ -brand-short-name }“ kuria ir tobulina <label data-l10n-name="community-mozillaLink">„{ -vendor-short-name }“</label> – <label data-l10n-name="community-creditsLink">pasaulinė bendruomenė</label>, siekianti, kad saitynas būtų atviras, viešas ir prieinamas kiekvienam.
 helpus = Norite padėti? <label data-l10n-name="helpus-donateLink">Paaukokite</label> arba <label data-l10n-name="helpus-getInvolvedLink">įsitraukite į veiklą!</label>
 bottomLinks-license = Informacija apie licencijavimą
-bottomLinks-rights = Galutinio naudotojo teisės
-bottomLinks-privacy = Privatumo nuostatai
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

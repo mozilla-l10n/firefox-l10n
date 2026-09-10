@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-password-not-set =
-    .value = (oʻrnatilmagan)
 pw-change-success-title = Parolni oʻzgartirish muvaffaqiyatli amalga oshirildi
 pw-change-failed-title = Parolni almashtirib boʻlmadi
 pw-remove-button =
@@ -14,17 +12,10 @@ set-password-new =
     .label = Yangi parolni kiriting:
 set-password-reenter =
     .label = Parolni qayta kiriting:
-set-password-old-password = Joriy parol:
-set-password-new-password = Yangi parolni kiriting:
-set-password-reenter-password = Parolni qayta kiriting:
 set-password-meter = Parolning mustahkamlik darajasi
 set-password-meter-loading = Yuklanmoqda
-remove-info =
-    .value = Amaldagi joriy parolingizni kiritishingiz kerak:
 remove-password-old =
     .label = Joriy parol:
-remove-password-old-password =
-    .value = Joriy parol:
 set-password-not-set =
     .label = Joriy parol:
     .placeholder = (oʻrnatilmagan)

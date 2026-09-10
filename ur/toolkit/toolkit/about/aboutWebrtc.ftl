@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = about:webrtc کو محفوظ کریں بط
 about-webrtc-aec-logging-msg-label = AEC اندراج نامہ نگاری
 about-webrtc-aec-logging-off-state-label = AEC  کی اندراج نامہ نگاری شروع کریں
 about-webrtc-aec-logging-on-state-label = AEC کی اندراج نامہ نگاری روکیں
-about-webrtc-aec-logging-on-state-msg = AEC اندراج نامہ نگاری جاری ہے (کال کرنے والے سے کچھ دیر بات کریں اور پھر گرفت روک دیں)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC اندراج نامہ نگاری جاری ہے (کال کرنے والے سے کچھ دیر بات کریں اور پھر گرفت روک دیں)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -76,17 +75,9 @@ about-webrtc-nominated = نامزد
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = منتخب شدہ
 about-webrtc-save-page-label = صفحہ محفوظ کریں
-about-webrtc-debug-mode-msg-label = ٹھیک کرنے والا موڈ
-about-webrtc-debug-mode-off-state-label = ٹھیک کرنے کا موڈ شروع کریں
-about-webrtc-debug-mode-on-state-label = ٹھیک کرنے کا موڈ روکیں
-about-webrtc-stats-heading = سیشنسیشن شماریات
 about-webrtc-stats-clear = سابقات صاف کریں
 about-webrtc-log-heading = کنکشن لاگ
 about-webrtc-log-clear = ابھی صاف کریں
-about-webrtc-log-show-msg = گوشوارہ دکھائیں
-    .title = صیغے کو وسیع کرنے کے لیے کلک کریں
-about-webrtc-log-hide-msg = گوشوارہ چھپائیں
-    .title = صیغے کو چھپاںیں کے لیے کلک کریں
 about-webrtc-log-section-show-msg = گوشوارہ دکھائیں
     .title = صیغے کو وسیع کرنے کے لیے کلک کریں
 about-webrtc-log-section-hide-msg = گوشوارہ چھپائیں
@@ -106,19 +97,11 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (بند 
 
 about-webrtc-local-candidate = مقامی امیدوار
 about-webrtc-remote-candidate = بعید امیدوار
-about-webrtc-raw-cand-show-msg = خام امیدوار دکھائیں
-    .title = صیغے کو وسیع کرنے کے لیے کلک کریں
-about-webrtc-raw-cand-hide-msg = خام امیدوار چھپائیں
-    .title = صیغے کو چھپاںیں کے لیے کلک کریں
 about-webrtc-raw-cand-section-show-msg = خام امیدوار دکھائیں
     .title = صیغے کو وسیع کرنے کے لیے کلک کریں
 about-webrtc-raw-cand-section-hide-msg = خام امیدوار چھپائیں
     .title = صیغے کو چھپاںیں کے لیے کلک کریں
 about-webrtc-priority = تقدم
-about-webrtc-fold-show-msg = تفصیلات دکھائیں
-    .title = صیغے کو وسیع کرنے کے لیے کلک کریں
-about-webrtc-fold-hide-msg = تفصیلات چھپائیں
-    .title = صیغے کو چھپاںیں کے لیے کلک کریں
 about-webrtc-fold-default-show-msg = تفصیلات دکھائیں
     .title = صیغے کو وسیع کرنے کے لیے کلک کریں
 about-webrtc-fold-default-hide-msg = تفصیلات چھپائیں
@@ -142,13 +125,6 @@ about-webrtc-configuration-element-not-provided = نہیں دیا گیا
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
-
-##
-
-about-webrtc-save-page-msg = صفحہ محفوظ از: { $path }
-about-webrtc-debug-mode-off-state-msg = ٹریس لاگ ملے گا از: { $path }
-about-webrtc-debug-mode-on-state-msg = ٹھیکا کاری موڈ چل رہا ہے، ٹریس لاگ از: { $path }
-about-webrtc-aec-logging-off-state-msg = گرفت شدہ اندراج نامہ مسلیں مل سکتی ہیں از: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

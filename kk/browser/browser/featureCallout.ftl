@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = Құрылғылар арасында а
 callout-firefox-view-tab-pickup-subtitle = Телефоныңыздан ашық беттерді жылдам алып, оларды осы жерде жұмысты жалғастыру үшін ашыңыз.
 callout-firefox-view-recently-closed-title = Жабылған беттерді жылдам қайтарыңыз
 callout-firefox-view-recently-closed-subtitle = Барлық жабық беттеріңіз осы жерде сиқырлы түрде көрсетіледі. Ешқашан сайтты кездейсоқ жабу туралы енді алаңдамаңыз.
-callout-firefox-view-colorways-title = Түстер шашырауын қосыңыз
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Өзіңізге сай келетін түсті түстер схемасы көмегімен таңдаңыз. Тек { -brand-product-name } ішінде.
-callout-firefox-view-colorways-reminder-title = Біздің соңғы түстер схемаларын зерттеңіз
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Браузеріңізді тәуелсіз дауыстармен шабыттандырылған осы айтулы реңктермен бояу. Тек { -brand-product-name } ішінде.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

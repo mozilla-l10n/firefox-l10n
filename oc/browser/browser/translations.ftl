@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Traduire aquesta pagina
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Traduccion en cors
 translations-panel-settings-button =
     .aria-label = Gerir los paramètres de traduccion
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BÈTA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Gerir las lengas
-translations-panel-settings-about = A prepaus de las traduccions dins { -brand-shorter-name }
 translations-panel-settings-about2 =
     .label = A prepaus de las traduccions dins { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
@@ -82,14 +73,6 @@ translations-panel-error-dismiss-button =
     .label = Plan comprés !
 translations-panel-error-change-button =
     .label = Cambiar la lenga font
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = O planhèm, prenèm pas encara en carga lo { $language }.
-translations-panel-error-unsupported-hint-unknown = O planhèm, prenèm pas encara en carga aquesta lenga.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -121,10 +104,6 @@ translations-manage-header = Traduccions
 translations-manage-settings-button =
     .label = Paramètres…
     .accesskey = t
-translations-manage-description = Telecargar de lengas per la traduccion fòra linha.
-translations-manage-all-language = Totas les lengas
-translations-manage-download-button = Telecargar
-translations-manage-delete-button = Suprimir
 translations-manage-intro-2 = Definissètz vòstras preferéncias de lenga e de traduccion dels sites, e gerissètz lo telecargament de las lengas per la traduccion fòra linha.
 translations-manage-download-description = Telecargar de lengas per la traduccion fòra linha
 translations-manage-language-download-button =
@@ -138,12 +117,11 @@ translations-manage-language-remove-all-button =
     .label = Tot suprimir
     .accesskey = T
 translations-manage-error-download = I a agut un problèma al moment de telecargar los fichièrs de lenga. Ensajatz tornamai.
-translations-manage-error-delete = I a agut un problèma al moment de suprimir los fichièrs de lenga. Ensajatz tornamai.
 translations-manage-error-remove = I a agut un problèma al moment de levar los fichièrs de lenga. Ensajatz tornamai.
 translations-manage-error-list = Fracàs de la recuperacion de la lista de lengas disponiblas per la traduccion. Actualizatz la pagina e tornatz ensajar.
 translations-settings-title =
-    .title = Paramètres de traduccion
     .style = min-width: 36em
+    .title = Paramètres de traduccion
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = La traduccion se realizarà automaticament per las lengas seguentas
@@ -192,16 +170,6 @@ select-translations-panel-translating-placeholder-text = Traduccions…
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = I a agut un problèma al moment de traduire. Ensajatz tornamai.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = O planhèm, prenèm pas encara en carga lo { $language }.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = O planhèm, prenèm pas encara en carga aquesta lenga.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Paramètres de traduccion

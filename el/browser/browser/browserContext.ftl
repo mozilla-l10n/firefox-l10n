@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Μετάβαση μία σελίδα πίσω ({ $shortcut })
     .aria-label = Πίσω
+    .tooltiptext = Μετάβαση μία σελίδα πίσω ({ $shortcut })
     .accesskey = Π
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Μετάβαση μία σελίδα μπροστά ({ $shortcut })
     .aria-label = Μπροστά
+    .tooltiptext = Μετάβαση μία σελίδα μπροστά ({ $shortcut })
     .accesskey = Μ
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -94,8 +88,8 @@ main-context-menu-page-save =
 
 main-context-menu-bookmark-page =
     .aria-label = Προσθήκη σελιδοδείκτη…
-    .accesskey = δ
     .tooltiptext = Προσθήκη σελιδοδείκτη
+    .accesskey = δ
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
@@ -112,18 +106,18 @@ main-context-menu-edit-bookmark-mac =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Προσθήκη σελιδοδείκτη…
-    .accesskey = δ
     .tooltiptext = Προσθήκη σελιδοδείκτη ({ $shortcut })
+    .accesskey = δ
 main-context-menu-edit-bookmark =
     .aria-label = Επεξεργασία σελιδοδείκτη…
-    .accesskey = δ
     .tooltiptext = Επεξεργασία σελιδοδείκτη
+    .accesskey = δ
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Επεξεργασία σελιδοδείκτη…
-    .accesskey = δ
     .tooltiptext = Επεξεργασία σελιδοδείκτη ({ $shortcut })
+    .accesskey = δ
 main-context-menu-open-link =
     .label = Άνοιγμα συνδέσμου
     .accesskey = ο
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Αποθήκευση συνδέσμου ως…
     .accesskey = θ
-main-context-menu-save-link-to-pocket =
-    .label = Αποθήκευση συνδέσμου στο { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -311,40 +302,22 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Ενεργοποιήσ�
 main-context-menu-send-to-mobile-connect-phone3 = Συνδέστε μια συσκευή για αποστολή καρτελών
 main-context-menu-send-to-mobile-connect-phone-from-link = Συνδέστε μια συσκευή για αποστολή συνδέσμου
 main-context-menu-send-to-mobile-connect-phone-from-page = Συνδέστε μια συσκευή για αποστολή σελίδας
-main-context-menu-save-to-pocket =
-    .label = Αποθήκευση σελίδας στο { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Αποστολή σελίδας σε συσκευή
-    .accesskey = δ
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Χρήση αποθηκευμένης σύνδεσης
-    .accesskey = υ
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Χρήση αποθηκευμένου κωδικού πρόσβασης
     .accesskey = υ
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Χρήση μάσκας email του { -relay-brand-short-name }
     .accesskey = e
 main-context-menu-suggest-strong-password =
     .label = Πρόταση ισχυρού κωδικού πρόσβασης…
     .accesskey = σ
-main-context-menu-manage-logins2 =
-    .label = Διαχείριση συνδέσεων
-    .accesskey = Δ
 main-context-menu-manage-passwords =
     .label = Διαχείριση κωδικών πρόσβασης
     .accesskey = Δ
-main-context-menu-keyword =
-    .label = Προσθήκη λέξης-κλειδιού αναζήτησης…
-    .accesskey = Π
 main-context-menu-add-engine =
     .label = Προσθήκη μηχανής αναζήτησης
     .accesskey = κ
@@ -393,9 +366,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Λήψη στιγμιότυπου
     .accesskey = Λ
-main-context-menu-take-frame-screenshot =
-    .label = Λήψη στιγμιότυπου
-    .accesskey = ψ
 main-context-menu-view-page-source =
     .label = Προβολή πηγαίου κώδικα σελίδας
     .accesskey = Π

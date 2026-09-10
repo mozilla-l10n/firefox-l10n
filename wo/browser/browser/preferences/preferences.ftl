@@ -3,17 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pane-general-title = Ëmb lépp
-category-general =
-    .tooltiptext = { pane-general-title }
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 focus-search =
     .key = f
 close-button =
@@ -21,8 +12,6 @@ close-button =
 
 ## General Section
 
-startup-header = Tàmbali
-is-default = { -brand-short-name } mooy leegi sa joowukaay ñakk ndigal
 show-tabs-in-taskbar =
     .label = Wone seenub koñ yi ci banqaasu sas bu windows
     .accesskey = n
@@ -31,9 +20,6 @@ startup-group =
 
 ## General Section - Language & Appearance
 
-advanced-fonts =
-    .label = Xóot…
-    .accesskey = X
 choose-language-description = Tànn lammiñ ngir wone xët yi
 choose-button =
     .label = Tànn…
@@ -48,20 +34,6 @@ download-save-files-header =
     .label = Aar dencukaay yi ci biir wayndare bi
 download-save-where-3 =
     .aria-label = Aar dencukaay yi ci biir wayndare bi
-download-header = Yeb yi
-download-save-where = Aar dencukaay yi ci biir wayndare bi
-    .accesskey = n
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Tànn…
-           *[other] Seet…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] T
-           *[other] S
-        }
 applications-type-column =
     .label = Giiri këmb
     .accesskey = G
@@ -94,17 +66,11 @@ applications-always-ask =
 #   $type-description (string) - Description of the type (e.g "Portable Document Format")
 #   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Jëfandikoo{ $plugin-name } (ci { -brand-short-name })
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -116,12 +82,6 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-## Firefox updates
-
-update-application-use-service =
-    .label = Jëfandikool ab sarwiisu laltu ngir samp yeesal yi
-    .accesskey = k
-
 ## General Section - Performance
 
 performance-allow-hw-accel =
@@ -130,7 +90,6 @@ performance-allow-hw-accel =
 
 ## Accessibility page
 
-browsing-title = Joow mi
 browsing-use-autoscroll =
     .label = Jëfandikoo lemmi boppam gi
     .accesskey = l
@@ -142,12 +101,6 @@ browsing-use-cursor-navigation =
     .accesskey = t
 browsing-group =
     .label = Joow mi
-
-## General Section - Proxy
-
-network-proxy-connection-settings =
-    .label = Parameetar…
-    .accesskey = P
 
 ## Custom Homepage subpage
 
@@ -202,16 +155,9 @@ forms-master-pw-fips-desc = Baatu jàll bi lajj na
 
 ## Privacy Section - History
 
-history-remember-option-all =
-    .label = Denc jaar jaar bi
-history-remember-option-never =
-    .label = Bul denc mukk jaar jaar bi
-history-remember-option-custom =
-    .label = Jëfandikoo parameetar yi ñu solal ngir jaar jaar bi
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } dina jëfandikoo parameetar yii ci joowum biir, te du denc benn jaar jaaru joow mi.
-history-dontremember-description = { -brand-short-name } dina jëfandikoo parameetar yii ci joowum biir, te du denc benn jaar jaaru joow mi.
 history-private-browsing-permanent =
     .label = Saa su nekk jëfandikoo anamu joowum biir
     .accesskey = j
@@ -225,22 +171,11 @@ history-clear-on-close-settings =
     .label = Parameetar…
     .accesskey = P
 
-## Privacy Section - Permissions
-
-permissions-block-popups =
-    .label = Tëye panlanteeru popup
-    .accesskey = T
-permissions-addon-exceptions =
-    .label = Seppi yi…
-    .accesskey = S
-
 ## Privacy Section - Certificates
 
-certs-header = Sarsifikaa
 certs-devices-enable-fips = Suqali FIPS
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Biro
 downloads-folder-name = Yeb yi
-choose-download-folder-title = Tànn wayndare yeb:

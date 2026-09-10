@@ -25,7 +25,7 @@ searchbar-icon =
 ## The following strings are used as input labels.
 
 add-engine-window =
-    .title = Chisó ka̱a̱ nánuku
     .style = min-width: 32em;
+    .title = Chisó ka̱a̱ nánuku
 add-engine-button = Chisó iin ka̱a̱ nánuku kuvi noo'o ni'i
 add-engine-name = Sivɨ ka̱a̱ nánuku

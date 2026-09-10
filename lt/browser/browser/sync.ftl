@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Sinchronizuojama…
 sync-disconnect-dialog-title2 = Atsijungti?
 sync-disconnect-dialog-body = „{ -brand-product-name }“ nebesinchronizuos duomenų su jūsų paskyra, bet šiame įrenginyje jau esančių naršymo duomenų nepašalins.
 sync-disconnect-dialog-button = Atsijungti
-fxa-signout-dialog2-title = Atsijungti nuo „{ -fxaccount-brand-name }“ paskyros?
 fxa-signout-dialog-body = Sinchronizuoti duomenys liks jūsų paskyroje.
 fxa-signout-dialog2-button = Atsijungti
 fxa-signout-dialog2-checkbox = Pašalinti duomenis iš šio įrenginio (slaptažodžiai, žurnalas, adresynas, kita)
@@ -17,15 +16,6 @@ fxa-menu-turn-on-sync =
 fxa-menu-turn-on-sync-default = Įjungti sinchronizavimą
 fxa-menu-connect-another-device =
     .label = Susieti kitą įrenginį…
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Siųsti kortelę į įrenginį
-            [few] Siųsti { $tabCount } kortelių į įrenginį
-           *[other] Siųsti { $tabCount } korteles į įrenginį
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Sinchronizuojami įrenginiai…

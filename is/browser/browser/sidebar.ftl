@@ -27,7 +27,6 @@ sidebar-history-clear =
     .label = Hreinsa feril
 sidebar-history-sort-by-heading-menucaption =
     .label = Raða eftir:
-sidebar-history-sort-by-heading = Raða eftir:
 sidebar-history-sort-option-date =
     .label = Dagsetningu
 sidebar-history-sort-option-site =
@@ -47,14 +46,9 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Forritsaukar hliðarstiku
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name } verkfæri
 sidebar-customize-firefox-settings = Sýsla meða stillingar { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Lóðréttir flipar
-sidebar-settings =
-    .label = Stillingar hliðarstiku
 sidebar-hide-tabs-and-sidebar =
     .label = Fela flipa og hliðarstiku
 sidebar-show-on-the-right =
@@ -70,8 +64,6 @@ expand-sidebar-on-hover =
 
 sidebar-context-menu-manage-extension =
     .label = Sýsla með forritsauka
-sidebar-context-menu-remove-extension =
-    .label = Fjarlægja forritsauka
 sidebar-context-menu-report-extension =
     .label = Kvarta yfir forritsauka
 sidebar-context-menu-open-in-tab =

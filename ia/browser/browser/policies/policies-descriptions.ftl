@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Impedir que le agente de navigator predefini
 policy-DisableDeveloperTools = Blocar le accesso al instrumentos del disveloppamento.
 policy-DisableEncryptedClientHello = Disactivar le uso del function TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Disactivar le commandos pro submitter tu commentarios in le menu Adjuta (Submitter tu opinion e Denunciar sito fraudulente).
-policy-DisableFirefoxAccounts = Disactivar le servicios basate sur { -fxaccount-brand-name }, comprendite Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Disactiva servicios que require un conto, synchronisation incluse.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Non rememorar le chronologia de recercas e formulari
 policy-DisableLaunchOnLogin = Impedir a { -brand-short-name } de lancear automaticante al accesso del usator.
 policy-DisablePrimaryPasswordCreation = Si ver, non pote esser create un contrasigno primari.
 policy-DisablePasswordReveal = Non permitter de monstrar le contrasignos in le credentiales salvate.
-policy-DisablePocket2 = Disactivar le function pro salvar paginas web in { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Disactivar le Navigation private.
 policy-DisableProfileImport = Disactivar le commando del menu pro importar datos ab un altere navigator.
 policy-DisableProfileRefresh = Disactivar le button Refrescar { -brand-short-name } in le pagina about:support.
@@ -132,7 +130,6 @@ policy-PDFjs = Disactivar o configurar PDF.js, le visor de PDF integrate in { -b
 policy-Permissions2 = Configurar le permissiones pro camera, microphono, position, notificationes e autoreproduction.
 policy-PictureInPicture = Activar o disactivar Imagine annidate
 policy-PopupBlocking2 = Permitter a certe sitos web de monstrar quadros resaltante e esser re-dirigite per quadros de tertie-partes.
-policy-PopupBlocking = Permitter a certe sitos web de monstrar fenestras emergente per predefinition.
 policy-Preferences = Defini e bloca le valor de un sub-ensemble de preferentias.
 policy-PrivateBrowsingModeAvailability = Predefini le disponibilitate del modalitate Navigation private.
 policy-PromptForDownloadLocation = Demandar ubi salvar le files quando on discarga.

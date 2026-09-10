@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Varsayılan tarayıcı agent’ının herhan
 policy-DisableDeveloperTools = Geliştirici araçlarına erişimi engelle.
 policy-DisableEncryptedClientHello = Encrypted Client Hello (ECH) TLS özelliğini devre dışı bırak.
 policy-DisableFeedbackCommands = Yardım menüsünden geri bildirim göndermeye olanak sağlayan komutları (“Geri bildirim gönder” ve “Aldatıcı siteyi ihbar et”) devre dışı bırak.
-policy-DisableFirefoxAccounts = { -fxaccount-brand-name } tabanlı servisleri devre dışı bırak (Sync dahil).
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Hesap tabanlı hizmetleri devre dışı bırak (eşitleme dahil).
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Arama ve form geçmişini hatırlama.
 policy-DisableLaunchOnLogin = Kullanıcı oturum açtığında { -brand-short-name } uygulamasının otomatik olarak başlatılmasını engelle.
 policy-DisablePrimaryPasswordCreation = True olarak ayarlanırsa ana parola oluşturulamaz.
 policy-DisablePasswordReveal = Kayıtlı hesaplardaki parolaların görüntülenmesine izin verme.
-policy-DisablePocket2 = Web sayfalarını { -pocket-brand-name }’a kaydetme özelliğini devre dışı bırak.
 policy-DisablePrivateBrowsing = Gizli gezintiyi devre dışı bırak.
 policy-DisableProfileImport = Başka tarayıcılardaki verileri içe aktarmaya olanak veren menü komutunu devre dışı bırak.
 policy-DisableProfileRefresh = about:support sayfasındaki “{ -brand-short-name } tarayıcısını yenile” düğmesini devre dışı bırak.
@@ -132,7 +130,6 @@ policy-PDFjs = Dahili { -brand-short-name } PDF görüntüleyicisi olan PDF.js�
 policy-Permissions2 = Kamera, mikrofon, konum, bildirim ve otomatik oynatma izinlerini yapılandır.
 policy-PictureInPicture = Görüntü içinde görüntü özelliğini aç veya kapat.
 policy-PopupBlocking2 = Belirli sitelerin açılır pencere göstermesine ve üçüncü taraf çerçeveler tarafından yeniden yönlendirilmesine izin ver.
-policy-PopupBlocking = Belirli web sitelerinin varsayılan olarak açılır pencere açmasına izin ver.
 policy-Preferences = Bir tercihler alt kümesinin değerini ayarlayıp kilitle.
 policy-PrivateBrowsingModeAvailability = Gizli gezinti modunun kullanılabilirliğini ayarla.
 policy-PromptForDownloadLocation = Dosya indirirken nereye kaydedileceklerini sor.

@@ -30,11 +30,11 @@ third-party-tag-background = 백그라운드
         이 모듈은 백그라운드에서 로드되었기 때문에 
         애플리케이션을 차단하지 않았습니다.
 third-party-icon-unsigned =
-    .title = 이 모듈은 서명되지 않음
     .alt = 이 모듈은 서명되지 않음
+    .title = 이 모듈은 서명되지 않음
 third-party-icon-warning =
-    .title = 이 모듈의 코드에서 { -brand-short-name } 충돌 발생
     .alt = 이 모듈의 코드에서 { -brand-short-name } 충돌 발생
+    .title = 이 모듈의 코드에서 { -brand-short-name } 충돌 발생
 third-party-status-loaded = 로드됨
 third-party-status-blocked = 차단됨
 third-party-status-redirected = 리디렉션됨
@@ -46,30 +46,17 @@ third-party-button-reload = 시스템 정보 새로 고침
     .title = 시스템 정보 새로 고침
 third-party-button-open =
     .title = 파일 위치 열기…
-third-party-button-to-block =
-    .title = 이 모듈 차단
-    .aria-label = 이 모듈 차단
-third-party-button-to-unblock =
-    .title = 현재 차단되었습니다. 차단을 해제하려면 누르세요.
-    .aria-label = 현재 차단되었습니다. 차단을 해제하려면 누르세요.
-third-party-button-to-unblock-disabled =
-    .title =
-        이 { -brand-short-name } 실행에 대해 차단 목록이 비활성화되어 있지만 
-        현재 차단된 것으로 표시되어 있습니다. 차단을 해제하려면 누르세요.
-    .aria-label =
-        이 { -brand-short-name } 실행에 대해 차단 목록이 비활성화되어 있지만 
-        현재 차단된 것으로 표시되어 있습니다. 차단을 해제하려면 누르세요.
 third-party-button-to-block-module = 이 모듈 차단
-    .title = 이 모듈 차단
     .aria-label = 이 모듈 차단
+    .title = 이 모듈 차단
 third-party-button-to-unblock-module = 이 모듈 차단 해제
-    .title = 현재 차단되었습니다. 차단을 해제하려면 누르세요.
     .aria-label = 현재 차단되었습니다. 차단을 해제하려면 누르세요.
+    .title = 현재 차단되었습니다. 차단을 해제하려면 누르세요.
 third-party-button-to-unblock-module-disabled = 이 모듈 차단 해제 (현재 차단 목록 비활성화됨)
-    .title =
+    .aria-label =
         이 { -brand-short-name } 실행에 대해 차단 목록이 비활성화되어 있지만 
         현재 차단됨으로 표시되어 있습니다. 차단을 해제하려면 누르세요.
-    .aria-label =
+    .title =
         이 { -brand-short-name } 실행에 대해 차단 목록이 비활성화되어 있지만 
         현재 차단됨으로 표시되어 있습니다. 차단을 해제하려면 누르세요.
 third-party-button-expand =
@@ -81,5 +68,5 @@ third-party-should-restart-title = { -brand-short-name } 다시 시작
 third-party-restart-now = 지금 다시 시작
 third-party-restart-later = 나중에 다시 시작
 third-party-blocked-by-builtin =
-    .title = { -brand-short-name }에 의해 차단됨
     .alt = { -brand-short-name }에 의해 차단됨
+    .title = { -brand-short-name }에 의해 차단됨

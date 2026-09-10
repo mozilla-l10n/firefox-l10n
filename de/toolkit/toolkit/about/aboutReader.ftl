@@ -4,14 +4,6 @@
 
 about-reader-loading = Wird geladen…
 about-reader-load-error = Fehler beim Laden des Artikels von der Seite
-about-reader-color-scheme-light = Hell
-    .title = Helles Farbschema
-about-reader-color-scheme-dark = Dunkel
-    .title = Dunkles Farbschema
-about-reader-color-scheme-sepia = Sepia
-    .title = Sepia-Farbschema
-about-reader-color-scheme-auto = Automatisch
-    .title = Automatisches Farbschema
 about-reader-color-light-theme = Hell
     .title = Helles Theme
 about-reader-color-dark-theme = Dunkel
@@ -24,16 +16,6 @@ about-reader-color-gray-theme = Grau
     .title = Graues Theme
 about-reader-color-contrast-theme = Kontrast
     .title = Kontrast-Theme
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time =
-    { $rangePlural ->
-        [one] { $range } Minute
-       *[other] { $range } Minuten
-    }
 
 ## Reader View text and layout menu
 
@@ -41,14 +23,6 @@ about-reader-toolbar-minus =
     .title = Kleinere Schrift
 about-reader-toolbar-plus =
     .title = Größere Schrift
-about-reader-toolbar-contentwidthminus =
-    .title = Schmalerer Inhalt
-about-reader-toolbar-contentwidthplus =
-    .title = Breiterer Inhalt
-about-reader-toolbar-lineheightminus =
-    .title = Kleinerer Zeilenabstand
-about-reader-toolbar-lineheightplus =
-    .title = Größerer Zeilenabstand
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -59,7 +33,6 @@ about-reader-font-type-monospace = Feste Breite
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Leseansicht schließen
-about-reader-toolbar-type-controls = Schrifteinstellungen
 about-reader-toolbar-text-layout-controls = Text und Layout
 about-reader-toolbar-theme-controls = Theme
 about-reader-toolbar-savetopocket = In { -pocket-brand-name } speichern

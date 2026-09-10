@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Cydweddu…
 sync-disconnect-dialog-title2 = Datgysylltu?
 sync-disconnect-dialog-body = Bydd { -brand-product-name } yn peidio cydweddu eich cyfrif ond ni fydd yn dileu eich data pori ar y ddyfais hon.
 sync-disconnect-dialog-button = Datgysylltu
-fxa-signout-dialog2-title = Allgofnodi o { -fxaccount-brand-name }?
 fxa-signout-dialog-title2 = Yn allgofnodi o'ch cyfrif?
 fxa-signout-dialog-body = Bydd data wedi'i gydweddu'n aros yn eich cyfrif.
 fxa-signout-dialog2-button = Allgofnodi
@@ -51,18 +50,6 @@ fxviewtabrow-send-to-mobile-not-verified = Cyfrif heb ei wirio
 fxviewtabrow-send-to-mobile-verify-account = Gwirio'ch Cyfrif
 fxa-menu-send-to-mobile-turn-on-sync = Trowch cydweddu ymlaen i anfon tabiau
 fxa-menu-send-to-mobile-connect-device = Cysylltwch ddyfais i anfon tabiau
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [zero] Anfon Tab i Ddyfais
-            [one] Anfon { $tabCount } Tab i Ddyfais
-            [two] Anfon { $tabCount } Dab i Ddyfais
-            [few] Anfon { $tabCount } Thab i Ddyfais
-            [many] Anfon { $tabCount } Tab i Ddyfais
-           *[other] Anfon { $tabCount } Thab i Ddyfais
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Cydweddu Dyfeisiau…

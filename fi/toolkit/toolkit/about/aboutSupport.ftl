@@ -32,10 +32,6 @@ security-software-name = Nimi
 security-software-antivirus = Virustentorjunta
 security-software-antispyware = Vakoiluntorjunta
 security-software-firewall = Palomuuri
-features-title = { -brand-short-name }-ominaisuudet
-features-name = Nimi
-features-version = Versio
-features-id = ID
 processes-title = Etäprosessit
 processes-type = Tyyppi
 processes-count = Määrä
@@ -57,7 +53,6 @@ app-basics-profile-dir =
         [linux] Profiilikansio
        *[other] Profiilikansio
     }
-app-basics-enabled-plugins = Käytössä olevat liitännäiset
 app-basics-build-config = Koostamisasetukset
 app-basics-user-agent = Selaintunniste
 app-basics-os = Käyttöjärjestelmä
@@ -95,9 +90,6 @@ show-dir-label =
 environment-variables-title = Ympäristömuuttujat
 environment-variables-name = Nimi
 environment-variables-value = Arvo
-experimental-features-title = Kokeelliset ominaisuudet
-experimental-features-name = Nimi
-experimental-features-value = Arvo
 modified-key-prefs-title = Tärkeät muutetut asetukset
 modified-prefs-name = Nimi
 modified-prefs-value = Arvo
@@ -196,14 +188,6 @@ media-codec-support-supported = Tuettu
 media-codec-support-unsupported = Ei tuettu
 media-codec-support-error = Koodekkitukitietoja ei ole saatavilla. Yritä uudelleen mediatiedoston toiston jälkeen.
 media-codec-support-lack-of-extension = Asenna laajennus
-
-## Media Content Decryption Modules (CDM)
-## See EME Spec for more explanation for following technical terms
-## https://w3c.github.io/encrypted-media/
-
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = HDCP 2.2 -yhteensopiva
 
 ##
 
@@ -374,8 +358,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Kokeilun käytöstä poistama
-fission-status-experiment-treatment = Kokeilun käyttöön ottama
 fission-status-disabled-by-e10s-env = Ympäristön käytöstä poistama
 fission-status-enabled-by-env = Ympäristön käyttöön ottama
 fission-status-disabled-by-env = Ympäristön käytöstä poistama
@@ -384,7 +366,6 @@ fission-status-disabled-by-default = Poistettu käytöstä oletuksena
 fission-status-enabled-by-user-pref = Käyttäjän käyttöön ottama
 fission-status-disabled-by-user-pref = Käyttäjän käytöstä poistama
 fission-status-disabled-by-e10s-other = E10s poistettu käytöstä
-fission-status-enabled-by-rollout = Otettu käyttöön vaiheittaisessa levityksessä
 async-pan-zoom = Asynkroninen siirto/lähennys
 apz-none = ei mitään
 wheel-enabled = rullaliittymä käytössä

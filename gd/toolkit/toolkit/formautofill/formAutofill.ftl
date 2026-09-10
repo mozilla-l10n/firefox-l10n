@@ -7,7 +7,6 @@
 
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Roghainnean fèin-lìonadh fhoirmean
-autofill-options-link-osx = Roghainnean fèin-lìonadh fhoirmean
 
 ## The credit card capture doorhanger
 
@@ -25,16 +24,6 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
-# The warning text that is displayed for informing users what categories are
-# about to be filled.  The text would be, for example,
-#   Also autofills organization, phone, email.
-# Variables:
-#   $categories - one or more of the categories, see autofill-category-X below
-autofill-phishing-warningmessage-extracategory = Fèin-lìonaidh seo { $categories } cuideachd
-# Variation when all are in the same category.
-# Variables:
-#   $categories - one or more of the categories
-autofill-phishing-warningmessage = Fèin-lìonaidh seo { $categories }
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = seòladh
 autofill-category-name = ainm

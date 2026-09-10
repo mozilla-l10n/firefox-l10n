@@ -21,9 +21,6 @@ user-context-shopping =
 
 ##
 
-user-context-none =
-    .label = Kapsayıcı yok
-    .accesskey = a
 user-context-manage-containers =
     .label = Kapsayıcıları yönet
     .accesskey = K

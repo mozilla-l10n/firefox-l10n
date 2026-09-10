@@ -188,8 +188,6 @@ options-disable-http-cache-tooltip =
     .title = Pornirea acestei opțiuni va dezactiva cache-ul HTTP pentru toate filele care au deschisă caseta de instrumente. Scripturile service worker nu sunt afectate.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label-2 = Dezactivează JavaScript
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Dezactivează JavaScript *
 options-disable-javascript-tooltip =
     .title = Pornirea acestei opțiuni va dezactiva JavaScript pentru fila actuală. Setarea va fi uitată la închiderea filei sau a casetei de instrumente.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -219,8 +217,6 @@ options-source-maps-tooltip =
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
 options-context-triggers-page-refresh-temporary = (doar sesiunea actuală, reîncarcă pagina)
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Doar sesiunea actuală, reîncarcă pagina
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (reîncarcă pagina)

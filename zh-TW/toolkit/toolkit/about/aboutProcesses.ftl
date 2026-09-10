@@ -48,7 +48,6 @@ about-processes-gpu-process = GPU（{ $pid }）
 about-processes-vr-process = VR（{ $pid }）
 about-processes-rdd-process = 資料解碼器（{ $pid }）
 about-processes-socket-process = 網路（{ $pid }）
-about-processes-remote-sandbox-broker-process = 遠端沙盒溝通工具（{ $pid }）
 about-processes-fork-server-process = Fork 伺服器（{ $pid }）
 about-processes-preallocated-process = 預先分配（{ $pid }）
 about-processes-utility-process = 小工具（{ $pid }）
@@ -72,17 +71,6 @@ about-processes-web-isolated-property-with-coop-coep = 跨來源隔離
 ##    $properties (String) A formatted list of properties from the above strings.
 
 about-processes-web-isolated-process2 = { $origin }（{ $properties }）
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin }（{ $pid }）
-about-processes-web-serviceworker = { $origin }（{ $pid }, serviceworker）
-about-processes-with-coop-coep-process = { $origin }（{ $pid }，隔離跨來源）
-about-processes-web-isolated-process-private = { $origin } — 隱私（{ $pid }）
-about-processes-with-coop-coep-process-private = { $origin } — 隱私（{ $pid }，隔離跨來源）
 
 ## Details within processes
 

@@ -21,10 +21,6 @@ security-software-name = Pangalan
 security-software-antivirus = Antivirus
 security-software-antispyware = Antispyware
 security-software-firewall = Firewall
-features-title = Mga katangian ng { -brand-short-name }
-features-name = Pangalan
-features-version = Bersyon
-features-id = ID
 processes-title = Mga Remote Process
 processes-type = Uri
 processes-count = Bilang
@@ -50,7 +46,6 @@ app-basics-profile-dir =
         [linux] Talaan ng Profile
        *[other] Folder ng Profile
     }
-app-basics-enabled-plugins = Mga gumaganang Plugins
 app-basics-build-config = Build Configuration
 app-basics-user-agent = User Agent
 app-basics-os = OS
@@ -83,9 +78,6 @@ show-dir-label =
 environment-variables-title = Mga Environment Variable
 environment-variables-name = Pangalan
 environment-variables-value = Halaga
-experimental-features-title = Mga Experimental Feature
-experimental-features-name = Pangalan
-experimental-features-value = Halaga
 modified-key-prefs-title = Mga Mahalagang Binagong Kagustuhan
 modified-prefs-name = Pangalan
 modified-prefs-value = Halaga

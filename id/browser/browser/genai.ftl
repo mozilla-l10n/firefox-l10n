@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = Saya berada di laman “{ $tabTitle }” dengan 
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Tanyakan chatbot AI
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Tanyakan { $provider }
 genai-menu-open-generic =
     .label = Buka Chatbot AI
 # $provider (string) - name of the provider
@@ -112,8 +107,6 @@ genai-header-provider-menu =
     .title = Pilih bot obrolan
 genai-header-settings-button =
     .title = Pengaturan Obrolan AI
-genai-header-options-button =
-    .title = Buka menu
 genai-header-close-button =
     .title = Tutup
 genai-provider-view-details =
@@ -141,37 +134,25 @@ genai-page-button-summarize = Ringkas laman
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Meringkas, bertukar pikiran, dan banyak lagi saat Anda menjelajah
 genai-onboarding-choose-header = Pilih bot obrolan AI untuk digunakan di bilah samping { -brand-short-name }
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Pilih bot obrolan AI untuk digunakan di bilah samping { -brand-short-name }. Kami akan menampilkan detail setiap bot obrolan saat Anda memilihnya. Beralih kapan saja. <a data-l10n-name="learn-more">Pelajari lebih lanjut</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Beralih kapan saja. Untuk bantuan memilih, <a data-l10n-name="learn-more">pelajari lebih lanjut tentang setiap bot obrolan</a>.
 genai-onboarding-primary = Lanjutkan
 genai-onboarding-secondary = Tutup
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Pelajari lebih lanjut tentang Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Pelajari lebih lanjut tentang ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Pelajari lebih lanjut tentang Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Pelajari lebih lanjut tentang Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = Pelajari lebih lanjut tentang HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Pelajari lebih lanjut tentang Le Chat
-genai-onboarding-select-header = Pilih teks untuk melihat saran
-genai-onboarding-select-description = Saat Anda memilih teks, kami akan menyarankan perintah yang dapat Anda kirim ke bot obrolan. Anda juga dapat menulis di prompt Anda sendiri.
-genai-onboarding-select-primary = Mulai mengobrol
 genai-chatbot-contextual-title = Gunakan chatbot AI tanpa berpindah tab
 genai-chatbot-contextual-subtitle = Mengobrol dan meramban secara berdampingan saat Anda menambahkan chatbot AI di bilah samping { -brand-short-name }.
 genai-chatbot-contextual-button = Pilih chatbot
@@ -184,27 +165,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = Klik kanan tombol kelip di bi
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Buka chatbot AI Anda di bilah samping dan pilih "Ringkas halaman" di bagian bawah.
 genai-chatbot-summarize-footer-generic-subtitle = Tambahkan chatbot AI ke bilah samping { -brand-short-name } untuk meringkas laman dengan cepat.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Menghasilkan teks dan kode
-genai-onboarding-claude-analyze = Menganalisis dokumen dan gambar
-genai-onboarding-claude-price = Opsi gratis dan berbayar; akun diperlukan
-genai-onboarding-chatgpt-generate = Menghasilkan teks, gambar, dan kode
-genai-onboarding-chatgpt-analyze = Menganalisis dokumen dan gambar
-genai-onboarding-chatgpt-price = Opsi gratis dan berbayar; akun diperlukan untuk beberapa negara dan tugas
-genai-onboarding-copilot-generate = Menghasilkan teks, gambar, dan kode
-genai-onboarding-copilot-analyze = Menganalisis gambar
-genai-onboarding-copilot-price = Opsi gratis dan berbayar; akun diperlukan untuk beberapa tugas
-genai-onboarding-gemini-generate = Menghasilkan teks, gambar, dan kode
-genai-onboarding-gemini-analyze = Menganalisis gambar (gratis) dan dokumen (berbayar)
-genai-onboarding-gemini-price = Opsi gratis dan berbayar; akun diperlukan
-genai-onboarding-huggingchat-generate = Menghasilkan teks dan kode
-genai-onboarding-huggingchat-switch = Beralih di antara beragam set dari model terbuka
-genai-onboarding-huggingchat-price-2 = Gratis; akun diperlukan setelah sejumlah permintaan tertentu
-genai-onboarding-lechat-generate = Menghasilkan teks dan kode
-genai-onboarding-lechat-price = Gratis; akun diperlukan
 
 ## Model Optin Component
 
@@ -239,8 +199,8 @@ link-preview-generation-retry = Coba lagi
 link-preview-settings-button =
     .title = Pengaturan Pratinjau Tautan
 link-preview-settings-enable =
-    .label = Fungsikan pratinjau tautan
     .description = Lihat judul halaman, deskripsi, dan yang lain ketika Anda memakai pintasan atau klik kanan pada suatu tautan.
+    .label = Fungsikan pratinjau tautan
 link-preview-settings-key-points =
     .label = Izinkan AI untuk membaca awal laman dan menghasilkan poin-poin penting
 link-preview-settings-long-press =

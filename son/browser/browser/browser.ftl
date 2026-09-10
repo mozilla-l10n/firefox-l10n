@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = Nungu alhabar guna
 
@@ -30,8 +25,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Bila nda interneti jišiyan alhabar fasaldoo feeri
 urlbar-password-notification-anchor =
     .tooltiptext = Šennikufal gaabu alhabar fasaldoo feeri
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Sukari goyyan juwal
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = War bii nda/wala jindezaahaya žemnayanoo nda nungoo juwal
 urlbar-persistent-storage-notification-anchor =
@@ -100,13 +93,11 @@ identity-active-blocked = { -brand-short-name } na moɲoo woo doo fooyaŋ kaŋ �
 identity-passive-loaded = Moɲoo woo doo fooyaŋ ši saajaw (sanda biiyaŋ).
 identity-active-loaded = War na jejebuyanoo kaa moɲoo woo ga.
 identity-weak-encryption = Moɲoo woo tuguyan dabaroo ga yalaafu.
-identity-insecure-login-forms = Huruyan šilbawey kaŋ goo moɲoo woo ši hima saajante.
 identity-permissions-reload-hint = War ma moɲoo zumandi taaga ka barmawey kanandi.
 identity-remove-cert-exception =
     .label = Hasaraw kaa
     .accesskey = k
 identity-description-insecure = War dobuyanoo moɲoo woo ga ši sutura. Boro taney ga hin ka dii šilbawey kaŋ war n'i sanba (sanda šennikufal, toonandiyan, garaw katta, nda tana).
-identity-description-insecure-login-forms = War huruyan šilbaa kaŋ war g'a dam moɲoo woo ga manti saajante nd'a hin ka fukkar.
 identity-description-weak-cipher-intro = War dobuyanoo moɲoo woo tuguyan dabaroo ga yalaafu nd'a ši sutura.
 identity-description-weak-cipher-risk = Boro taney ga hin ka dii war alhabarey wal'i ma nungoo aladaboo barmay.
 identity-description-active-blocked2 = { -brand-short-name } na moɲoo woo doo fooyaŋ kaŋ ši saajaw gagay.
@@ -115,12 +106,6 @@ identity-description-passive-loaded-insecure2 = Nungoo goo nda gundekuna kaŋ ma
 identity-description-passive-loaded-mixed2 = Baa kaŋ { -brand-short-name } ga gundekuna jere gagay, gundekuna cindi moɲoo ga kaŋ manti saajante (sanda biiyaŋ).
 identity-description-active-loaded = Nungoo woo goo nda gundekuna kaŋ manti saajante (sanda šigira dumiyaŋ) nda dobuyanoo ši sutura.
 identity-description-active-loaded-insecure = Boro taney ga hin ka dii alhabar kaŋ war g'a žemna nda nungoo woo (sanda šennikufal, tooonandiyan, garaw katta, nda tana).
-identity-disable-mixed-content-blocking =
-    .label = Jejebu kaa sohõ se
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = Jejebuyan tunandi
-    .accesskey = e
 identity-more-info-link-text =
     .label = Alhabar tontoni
 
@@ -151,8 +136,6 @@ urlbar-extension =
     .value = Dobuyan:
 urlbar-go-button2 =
     .title = Koy aderesoo do gorodoo žeeroo ga
-urlbar-go-button =
-    .tooltiptext = Koy aderesoo do gorodoo žeeroo ga
 urlbar-page-action-button =
     .tooltiptext = Moo goyey
 
@@ -248,28 +231,10 @@ eme-notifications-drm-content-playing = Jinde wala widewo foo interneti nungoo w
 ui-tour-info-panel-close =
     .tooltiptext = Daabu
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-popups-infobar-allow =
-    .label = Biiboŋ batawey noo fondo { $uriHost } se
-    .accesskey = p
-popups-infobar-block =
-    .label = Biiboŋ batawey gagay { $uriHost } se
-    .accesskey = p
-
-##
-
-popups-infobar-dont-show-message =
-    .label = Ši alhabaroo cebe waati kaŋ biiboŋ batawey gagayandi
-    .accesskey = D
-
 ##
 
 navbar-downloads =
     .label = Zumandiyaney
-navbar-overflow =
-    .tooltiptext = Goyjinay tontoney…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

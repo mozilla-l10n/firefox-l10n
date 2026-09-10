@@ -115,8 +115,6 @@ options-context-advanced-settings = Setelan lanjutan
 options-disable-http-cache-label = Menonaktifkan HTTP Cache (saat kotak peralatan terbuka)
 options-disable-http-cache-tooltip =
     .title = Mengaktifkan opsi ini akan menonaktifkan cache HTTP untuk semua tab yang kotak peralatannya terbuka. Layanan Pekerja tidak terpengaruh oleh opsi ini.
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Nonaktifkan JavaScript *
 options-disable-javascript-tooltip =
     .title = Dengan mengaktifkan opsi ini, JavaScript pada tab sekarang akan dinonaktifkan. Jika tab atau kotak alat ditutup maka setelan ini akan dilupakan.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -143,8 +141,6 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Aktifkan Peta Sumber
 options-source-maps-tooltip =
     .title = Jika opsi ini diaktifkan, kode sumber akan dipetakan dalam alat.
-# The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = * Hanya sesi ini saja, memulai ulang laman
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

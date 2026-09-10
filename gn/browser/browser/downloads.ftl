@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Ehechauka Hekahápe
            *[other] Ehechauka Marandurendápe
         }
-downloads-cmd-show-downloads =
-    .label = Ñemboguejykuéra Ñongatuha Hechauka
 downloads-cmd-retry =
     .tooltiptext = Eñeha’ã jey
 downloads-cmd-retry-panel =

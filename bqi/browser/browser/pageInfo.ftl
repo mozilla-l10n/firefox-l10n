@@ -127,7 +127,6 @@ media-unknown-not-cached =
     .value = نشناخته (من ویرگه کش نؽ)
 permissions-use-default =
     .label = و کار گرؽڌن مقدار پؽش فرز
-security-no-visits = ن
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:

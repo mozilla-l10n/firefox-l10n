@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Ciyari kayandiyaney
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Ciyari kayandiyaney
 connection-close-key =
     .key = w
 connection-proxy-option-no =
@@ -30,14 +30,10 @@ connection-proxy-noproxy-desc = Sanda: .mozilla.org, .net.nz, 192.168.1.0/24
 connection-proxy-reload =
     .label = Zumandi taaga
     .accesskey = t
-connection-proxy-autologin =
-    .label = Ma ši hãa y'ay boŋ bayrandi nda šennikufaloo gaabundi
-    .accesskey = i
-    .tooltip = Suubaroo ka monno ka war šilbay feršikaw tokorey kaŋyaŋ se war na tammaasayaŋ gaabu se. War ga duu alhabar nd'a mana tabatandi.
 connection-proxy-autologin-checkbox =
     .label = Ma ši hãa y'ay boŋ bayrandi nda šennikufaloo gaabundi
-    .accesskey = i
     .tooltiptext = Suubaroo ka monno ka war šilbay feršikaw tokorey kaŋyaŋ se war na tammaasayaŋ gaabu se. War ga duu alhabar nd'a mana tabatandi.
+    .accesskey = i
 connection-proxy-socks-remote-dns =
     .label = DNS tokore SOCKS v5 goyyan waate
     .accesskey = d

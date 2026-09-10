@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = و من ٱووڌنا وو رزما
-about-logins-login-filter =
-    .placeholder = پیتینیڌن و من ٱووڌنا
-    .key = F
-create-new-login-button =
-    .title = وورکل و من ٱووڌن نۊ
 about-logins-page-title-name = رزما
 about-logins-login-filter2 =
-    .placeholder = پیتینیڌن رزما
     .key = F
+    .placeholder = پیتینیڌن رزما
 create-login-button =
     .title = ٱووردن رزم
 fxaccounts-sign-in-text = رزماتووه من دسگایل دیری خوتووݩ داشته بۊین
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = و من ٱووردن ز ی گشت گر دی…
 about-logins-menu-menuitem-import-from-a-file = و من ٱووردن ز ی فایل…
-about-logins-menu-menuitem-export-logins = و در کشیڌن و من ٱووڌنا…
-about-logins-menu-menuitem-remove-all-logins = پاک کردن پوی و من ٱووڌنا…
 about-logins-menu-menuitem-export-logins2 = و در کشیڌن رزما…
 about-logins-menu-menuitem-remove-all-logins2 = پاک کردن پوی رزما…
 menu-menuitem-preferences =
@@ -42,21 +34,6 @@ about-logins-menu-menuitem-help = هیاری
 
 login-list =
     .aria-label = و من ٱووڌنا ی جۊر وا کلمه پیتینیڌه بیڌه
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } و من ٱووڌن
-       *[other] { $count } و من ٱووڌن
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $count } ز { $total } و من ٱووڌن
-       *[other] { $count } ز { $total } و من ٱووڌن
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -80,14 +57,10 @@ login-list-username-reverse-option = نوم منتوری (Z-A)
 about-logins-login-list-alerts-option = هوشدارا
 login-list-last-changed-option = آلشتکاری دیندایی
 login-list-last-used-option = و کار گرؽڌن دیندایی
-login-list-intro-title = هیچ دووسمندی و من ٱووڌنی نجۊرست
 login-list-intro-title2 = هیچ رزمی زفت نوابیڌه
 login-list-intro-description = هرسا ک رزمی ن من { -brand-product-name } زفت اکۊنین، هونووݩ ن ایچونا ابینین.
-about-logins-login-list-empty-search-title = هیچ دووسمندی و من ٱووڌنی نجۊرست
 about-logins-login-list-empty-search-title2 = هیچ رزمی نجۊرست
 about-logins-login-list-empty-search-description = هیچ نتیجه ی جۊری وا پیتینیڌن ایسا نجۊرست.
-login-list-item-title-new-login = و من ٱووڌن نۊ
-login-list-item-subtitle-new-login = دووسمندیا و من ٱووڌن خوتووݩ ن بزنین
 login-list-item-title-new-login2 = ٱووردن رزم
 login-list-item-subtitle-missing-username = (بؽ نوم منتوری)
 about-logins-list-item-breach-icon =
@@ -103,28 +76,20 @@ about-logins-list-section-week = 7 رۊز گوڌشته
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = ز دین و من ٱووڌنا زفت وابیڌه خوتووݩ هڌین؟ هوم گوم کردن ن رۊشن کۊنین یا هونووݩ ن و من بیارین.
-about-logins-login-intro-heading-logged-in = هیچ و من ٱووڌن هوم گوم سازی وابیڌه ای نجۊرست.
-login-intro-description = ٱر ایسا و من ٱووڌن تووݩ و { -brand-product-name } ن ری دسگا دیری زفت کردینه، و ای بارت و دستس بیارین:
-login-intro-instructions-fxa = { -fxaccount-brand-name } خوته من دسگایی ک و من ٱووڌنا ایسا من هو زفت وابیڌنه وورکل یا من هو و من بیاین.
 about-logins-login-intro-heading-message = رزماتووݩ ن من ی جاگه ٱمن زفت کۊنین
 login-intro-description2 = پوی رزمایی ک من { -brand-product-name } اواڌارنین، رزم ناهاڌه وابیڌنه. جوڌا ز یو، ایما ویردار لوو رئڌن هونوو هڌیم وو ٱر من ختر بۊوین و ایسا هوشدار ادیم. <a data-l10n-name="breach-alert-link">قلوه دووسته بۊین</a>
 login-intro-instructions-fxa2 = و دسگایی ک منه هو دووسمندیا و من ٱوۊڌنی خوتووݩ ن زفت کردینه، و من بیاین یا ی هساو نۊ سی خوت وورکل کوݩ.
 login-intro-instructions-fxa-settings = و سامووا> هوم گوم کردن> رۊشن کردن هوم گوم کردن… ریوین وو گۊزینه و من ٱووڌنا وو رزما ن پسند کۊنین.
 login-intro-instructions-fxa-passwords-help = سی گرؽڌن هیاری قلوه و <a data-l10n-name="passwords-help-link">لادراری مربۊت و رزم</a> ریوین.
-about-logins-intro-browser-only-import = ٱر دووسمندیا و من ٱووڌن ایسا من ی گشت گر دی زفت وابیڌنه، ایسا ترین <a data-l10n-name="import-link">هونووݩ ن و { -brand-product-name } جاگورو کۊنین</a>
-about-logins-intro-import2 = ٱر و من ٱووڌنا ایسا و در ز { -brand-product-name } زفت وابیڌنه، ترین <a data-l10n-name="import-browser-link">هونووݩ ن ز گشت گر دی</a> یا <a data-l10n-name="import-file-link">ز ی فایل</a> و من یارین
 about-logins-intro-import3 = سی ٱووردن رزم، دویمه موسبت ن پسند کۊنین. ترین <a data-l10n-name="import-browser-link">رزما ن ز ی گشت گر دی و من یارین</a> یا <a data-l10n-name="import-file-link">ز ی فایل و من یارین</a>.
 
 ## Login
 
-login-item-new-login-title = وورکل و من ٱووڌن نۊ
 # Header for adding a password
 about-logins-login-item-new-login-title = ٱووردن رزم
 login-item-edit-button = آلشت
 about-logins-login-item-remove-button = پاک کردن
 login-item-origin-label = نشۊوی وبگه
-login-item-tooltip-message = موتمعن بۊین ک ای نشۊوی وا نشۊوی دییق وبگهی ک و منس ٱوۊڌین ی جۊر هڌ.
 about-logins-origin-tooltip2 = نشۊوی کامل ن بزنین وو موتمعن بۊین وا جایی ک و منس ٱوۊڌین دییق ی جۊر بۊ.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -144,7 +109,6 @@ login-item-password-conceal-checkbox =
     .aria-label = بؽڌار کردن رزم
 login-item-copy-password-button-text = لف گیری
 login-item-copied-password-button-text = لف گیری وابی!
-login-item-save-changes-button = زفت آلشتکاریا
 about-logins-login-item-save-changes-button = زفت
 login-item-save-new-button = زفت
 login-item-cancel-button = لقو
@@ -168,11 +132,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = سی آلشت و من ٱووڌن تووݩ، گوواهی و من ٱووڌن ویندۉز خوتووݩ ن بزنین. ای کار و زفت وابیڌن ٱمنیت هساو تووݩ هیاری اده.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = آلشت دووسمندیا و من ٱووڌن زفت وابیڌه
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -196,11 +155,6 @@ about-logins-copy-password-os-auth-dialog-message-win = سی لف گیری رز�
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = لف گیری رزم زفت وابیڌه
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = سی و در کشیڌن و من ٱووڌنا تووݩ، گوواهی و من ٱووڌن ویندۉز خوتووݩ ن بزنین. ای کار و زفت وابیڌن ٱمنیت هساو تووݩ هیاری اده.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = و در کشیڌن نوما منتوری وو رزما زفت وابیڌه
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = سی و در کشیڌن رزما تووݩ، گوواهی و من ٱووڌن ویندۉز خوتووݩ ن بزنین. ای کار و زفت وابیڌن ٱمنیت هساو تووݩ هیاری اده.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -218,8 +172,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = لقو
 confirmation-dialog-dismiss-button =
     .title = لقو
-about-logins-confirm-remove-dialog-title = پاک کردن ای و من ٱووڌن؟
-confirm-delete-dialog-message = ای کار وورگندنی نؽ.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = رزم پاک بۊ؟
 # Message for modal to confirm the removal of one saved password
@@ -234,34 +186,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] پاک کردن
         [one] پاک کردن
        *[other] پاک کردن پوی
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] هری، ای و من ٱووڌن ن پاک کۊنین
-        [one] هری، ای و من ٱووڌن ن پاک کۊنین
-       *[other] هری، ای و من ٱووڌنا ن پاک کۊنین
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] پاک کردن { $count } و من ٱووڌن؟
-       *[other] پاک کردن پوی { $count } و من ٱووڌن؟
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] ای کار نوم منتوری زفت وابیڌه من { -brand-short-name } وو هر هوشدار نقز ٱمنیتی ک ایچونا نشووݩ داڌه ابۊ ن پاک اکونه. ایسا نترین ای کار ن لقو کۊنین.
-        [one] ای کار نوم منتوری زفت وابیڌه من { -brand-short-name } وو هر هوشدار نقز ٱمنیتی ک ایچونا نشووݩ داڌه ابۊ ن پاک اکونه. ایسا نترین ای کار ن لقو کۊنین.
-       *[other] ای کار نوم منتوری زفت وابیڌه من { -brand-short-name } وو هر هوشدار نقز ٱمنیتی ک ایچونا نشووݩ داڌه ابۊ ن پاک اکونه. ایسا نترین ای کار ن لقو کۊنین.
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] { $count } و من ٱووڌن ز پوی دسگا یل پاک بۊ؟
-       *[other] پوی { $count } و من ٱووڌن ز پوی دسگا یل پاک بۊ؟
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [1] ای کار پوی و من ٱووڌنا ک من { -brand-short-name } زفت وابیڌنه وو من دسگا یلی ک وا { -fxaccount-brand-name } هوم گوم وابیڌنه، پاک اکونه. ای کار هر هوشدار نقز ٱمنیتی ک ایچونا نشووݩ داڌه ابۊ ن پاک اکونه. ایسا نترین ای کار ن لقو کۊنین.
-        [one] ای کار پوی و من ٱووڌنا ک من { -brand-short-name } زفت وابیڌنه وو من دسگا یلی ک وا { -fxaccount-brand-name } هوم گوم وابیڌنه، پاک اکونه. ای کار هر هوشدار نقز ٱمنیتی ک ایچونا نشووݩ داڌه ابۊ ن پاک اکونه. ایسا نترین ای کار ن لقو کۊنین.
-       *[other] ای کار پوی و من ٱووڌنا ک من { -brand-short-name } زفت وابیڌنه وو من دسگا یلی ک وا { -fxaccount-brand-name } هوم گوم وابیڌنه، پاک اکونه. ای کار هر هوشدار نقز ٱمنیتی ک ایچونا نشووݩ داڌه ابۊ ن پاک اکونه. ایسا نترین ای کار ن لقو کۊنین.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -299,15 +223,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = و در کشیڌن دووسمندیا و من ٱووڌن وو رزما
-about-logins-confirm-export-dialog-message = رزما ایسا و عونوان هؽل خۊندنی زفت ابۊن (مسلن BadP@ssw0rd) سی دل هیمو هر کس ک ترسته بۊ فایل و در کشیڌه بیڌه ن بوگوشه، تره هونووݩ ن بوینه.
-about-logins-confirm-export-dialog-confirm-button = و در کشیڌن…
 about-logins-confirm-export-dialog-title2 = نوکته ای زبار و در کشیڌن رزما
 about-logins-confirm-export-dialog-message2 =
     هر سا و در اکشین، رزما ایسا من ی فایل با هؽل خۊندنی زفت ابۊن.
     هر سا کارتووݩ وا فایل تموم وابی، پؽشنهاڌ اکۊنیم هونه پاک کۊنین تا هونووی ک ای دسگا ن و کار اگرن نترسته بۊن رزما ایسا ن بوینن.
 about-logins-confirm-export-dialog-confirm-button2 = رئڌن وا پؽش سی و در کشیڌن
-about-logins-alert-import-title = و من ٱووردن دووسمندیا کامل وابی
 about-logins-alert-import-message = نشووݩ داڌن جۊزعیات و من ٱووردن دووسمندیا
 confirm-discard-changes-dialog-title = آلشتکاریا زفت نوابیڌه نیڌه گرؽڌه بۊن؟
 confirm-discard-changes-dialog-message = پوی آلشتکاریا زفت نوابیڌه ز بین ارون.
@@ -344,11 +264,6 @@ about-logins-error-message-default = ختایی مجال زفت کردن ای ر
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = و در کشیڌن فایل و من ٱووڌنا
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = و من ٱووڌنا.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = و در کشیڌن رزما ز { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -364,8 +279,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = و من ٱووردن فایل و من ٱووڌنا
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = و من ٱووردن رزما و { -brand-short-name }
 about-logins-import-file-picker-import-button = و من ٱووردن
@@ -389,21 +302,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = و من ٱووردن دووسمندیا کامل وابی
-about-logins-import-dialog-items-added =
-    { $count ->
-        [one] <span>و من ٱووڌه یل نۊی ٱوورده وابیڌه:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>و من ٱووڌه یل نۊی ٱوورده وابیڌه:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-        [one] <span>و من ٱووڌه یل ورۊ رسۊوی وابیڌه:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>و من ٱووڌه یل ورۊ رسۊوی وابیڌه:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-        [one] <span>تئداد و من ٱووڌنا تکراری:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(و من ٱوورده نوابین)</span>
-       *[other] <span>تئداد و من ٱووڌنا تکراری:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(و من ٱوورده نوابین)</span>
-    }
 about-logins-import-dialog-items-added2 =
     { $count ->
        *[other] <span>رزما نۊ ٱوورده وابین:</span> <span data-l10n-name="count">{ $count }</span>
@@ -437,15 +335,11 @@ about-logins-import-dialog-error-learn-more = قلوه دووسته بۊین
 about-logins-import-dialog-error-try-import-again = قپ ریت دووارته سی و من ٱووردن…
 about-logins-import-dialog-error-cancel = لقو
 about-logins-import-report-title = خولاسه و من ٱووردن دووسمندیا
-about-logins-import-report-description = و من ٱووڌنا وو رزما و { -brand-short-name } و من ٱوورده وابین.
 about-logins-import-report-description2 = رزما و { -brand-short-name } و من ٱوورده وابین.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = ردیف { $number }
-about-logins-import-report-row-description-no-change = تکراری: ی جۊر بیڌن کامل وا ی و من ٱووڌن دیر
-about-logins-import-report-row-description-modified = و من ٱووڌن ورۊ رسۊوی وابی
-about-logins-import-report-row-description-added = و من ٱووڌن نۊ ٱوورده وابی
 about-logins-import-report-row-description-no-change2 = تکراری: ی جۊر بیڌن دییق وا و من زیڌنی هیم سکویی
 about-logins-import-report-row-description-modified2 = و من زیڌنی مووجۊد ورۊ رسۊوی وابی
 about-logins-import-report-row-description-added2 = رزم نۊ ٱوورده وابی
@@ -462,21 +356,6 @@ about-logins-import-report-row-description-error-missing-field = ختا: { $fiel
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-        [one] تعداد <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> و من ٱووڌن نۊ و من ٱوورده وابی</div>
-       *[other] تعداد <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> و من ٱووڌن نۊ و من ٱوورده وابی</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-        [one] تعداد <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> و من ٱووڌن ورۊ رسۊوی وابی</div>
-       *[other] تعداد <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> و من ٱووڌن ورۊ رسۊوی وابی</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-        [one] تعداد	<div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">و من ٱووڌن تکراری</div> <div data-l10n-name="not-imported">(و من ٱوورده نوابین)</div>
-       *[other] تعداد	<div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">و من ٱووڌن تکراری</div> <div data-l10n-name="not-imported">(و من ٱوورده نوابین)</div>
-    }
 about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">رزما نۊ ٱوورده وابین</div>

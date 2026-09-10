@@ -16,8 +16,6 @@ styleeditor-save-button = ذخیره
     .accesskey = ذ
 styleeditor-options-button =
     .tooltiptext = گزینه‌های ویرایشگر سبک
-styleeditor-editor-textbox =
-    .data-placeholder = نوع CSS اینجا.
 styleeditor-no-stylesheet = این صفحه هیچ برگ شیوه‌ای ندارد.
 styleeditor-no-stylesheet-tip = شاید شما بخواهید که<a data-l10n-name="append-new-stylesheet">افزودن یک برگ شیوه‌ی جدید</a>؟
 styleeditor-open-link-new-tab =

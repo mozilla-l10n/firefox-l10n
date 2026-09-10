@@ -5,7 +5,6 @@
 privatebrowsingpage-open-private-window-label = Privát ablak megnyitása
     .accesskey = P
 about-private-browsing-search-placeholder = Keresés a weben
-about-private-browsing-info-title = Jelenleg privát ablakban van
 about-private-browsing-search-btn =
     .title = Keresés a weben
 # Variables
@@ -19,9 +18,6 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Keressen a(z) { $engine } keresővel vagy adjon meg egy címet
 about-private-browsing-handoff-text-no-engine = Keressen, vagy adjon meg címet
 about-private-browsing-not-private = Jelenleg nem privát ablakot használ.
-about-private-browsing-info-description-private-window = Privát ablak: a { -brand-short-name } törli a keresési és böngészési előzményeket, amikor bezárja az összes privát ablakot. Ez nem teszi névtelenné.
-about-private-browsing-info-description-simplified = A { -brand-short-name } törli a keresési és böngészési előzményeket, amikor bezárja az összes privát ablakot, de ez nem teszi névtelenné.
-about-private-browsing-learn-more-link = További tudnivalók
 about-private-browsing-hide-activity = Rejtse el tevékenységét és tartózkodási helyét, bárhol is böngésszen
 about-private-browsing-get-privacy = Szerezzen adatvédelmet, bárhol is böngésszen
 about-private-browsing-hide-activity-1 = Rejtse el a böngészési tevékenységét és a tartózkodási helyét a { -mozilla-vpn-brand-name } használatával. Egy kattintással biztonságos kapcsolatot hozhat létre, még nyilvános Wi-Fin is.
@@ -29,8 +25,6 @@ about-private-browsing-prominent-cta = Maradjon privát a { -mozilla-vpn-brand-n
 about-private-browsing-focus-promo-cta = A { -focus-brand-name } letöltése
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Privát böngészés útközben
 about-private-browsing-focus-promo-text = A dedikált privát mobilböngésző alkalmazásunk minden alkalommal törli az előzményeket és a sütiket.
-about-private-browsing-focus-promo-header-b = Vigye a privát böngészést a telefonjára
-about-private-browsing-focus-promo-text-b = Használja a { -focus-brand-name }t azokhoz a privát keresésekhez, amelyeket nem szeretné, hogy a fő mobilböngészője lásson.
 about-private-browsing-focus-promo-header-c = Magasabb szintű adatvédelem mobilon
 about-private-browsing-focus-promo-text-c = A { -focus-brand-name } minden egyes alkalommal törli az előzményeket, miközben blokkolja a reklámokat és a követőket.
 # This string is the title for the banner for search engine selection
@@ -66,11 +60,6 @@ about-private-browsing-relay-promo-link-text = Próbálja ki az e-mail-maszkokat
 
 ## Strings used in a promotion message for cookie banner reduction
 
-# Simplified version of the headline if the original text doesn't work
-# in your language: `See fewer cookie requests`.
-about-private-browsing-cookie-banners-promo-header = Elég a sütibannerekből!
-about-private-browsing-cookie-banners-promo-button = A sütibannerek számának csökkentése
-about-private-browsing-cookie-banners-promo-message = Hagyja, hogy a { -brand-short-name } automatikusan válaszoljon a sütik előugró ablakaira, így visszatérhet a zavartalan böngészéshez. A { -brand-short-name } elutasítja az összes kérést, ha az lehetséges.
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = A { -brand-short-name } gondoskodik a sütibannerekről Ön helyett

@@ -17,7 +17,6 @@ autofill-edit-payment-method-os-prompt-windows = يحاول { -brand-short-name 
 autofill-edit-payment-method-os-prompt-other = يحاول { -brand-short-name } عرض معلومات طريقة الدفع المخزنة.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = خيارات الملء الآلي للاستمارات
-autofill-options-link-osx = تفضيلات الملء الآلي للاستمارات
 
 ## The credit card capture doorhanger
 
@@ -62,16 +61,6 @@ autofill-card-network-mastercard = ماستِركارد
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = ڤيزا
-# The warning text that is displayed for informing users what categories are
-# about to be filled.  The text would be, for example,
-#   Also autofills organization, phone, email.
-# Variables:
-#   $categories - one or more of the categories, see autofill-category-X below
-autofill-phishing-warningmessage-extracategory = يملأ { $categories } آليا أيضًا
-# Variation when all are in the same category.
-# Variables:
-#   $categories - one or more of the categories
-autofill-phishing-warningmessage = يملأ { $categories } آليا
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = العناوين
 autofill-category-name = الأسماء

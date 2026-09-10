@@ -33,17 +33,9 @@ unified-extensions-context-menu-report-extension =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Certi stinneri nun sunnu pirmisi
 unified-extensions-mb-quarantined-domain-learn-more = Cchiù nfurmazzioni
     .aria-label = Cchiù nfurmazzioni: Certi stinneri nun sunnu pirmisi
 unified-extensions-mb-about-addons-link = Vai ê mpustazzioni dû stinneriu
-# Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } sdisabbilitatu
-    .message =
-        Stu stinneriu va contra ê pulìtichi di Mozilla e fu sdisabbilitatu.
-        U po’ abbilitari arrè nnê mpustazzioni, ma po’ èssiri un rìsicu.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =

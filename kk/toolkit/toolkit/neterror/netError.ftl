@@ -27,12 +27,9 @@ neterror-return-to-previous-page-button = Артқа
 neterror-return-to-previous-page-recommended-button = Артқа оралу (ұсынылады)
 neterror-try-again-button-2 = Қайтадан көру
     .accesskey = т
-neterror-try-again-button = Қайтадан көру
 neterror-add-exception-button = Бұл сайт үшін әрқашан жалғастыру
 neterror-settings-button = DNS бапталарын өзгерту
 neterror-view-certificate-link = Сертификатты қарау
-neterror-trr-continue-this-time = Осы жолы жалғастыру
-neterror-disable-native-feedback-warning = Әрқашан жалғастыру
 
 ## Search call-to-action shown on the online dnsNotFound error page when
 ## browser.netError.searchCTA.enabled is true. Offers a one-click web search
@@ -77,7 +74,6 @@ neterror-search-cta-learn-more = Көбірек білу
 ##
 
 neterror-pref-reset = Сіздің желілік қауіпсіздік баптаулар осыны туғызатын сияқты. Бастапқы баптауларды қалпына келтіруді қалайсыз ба?
-neterror-error-reporting-automatic = Осындай қателер туралы хабарлап, { -vendor-short-name }-ға зиянды сайттарды анықтауға және блоктауға көмектесу
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS
@@ -120,25 +116,15 @@ neterror-dns-not-found-offline-hint-reconnect = Wi-Fi желісінен ажы�
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
-neterror-dns-not-found-trr-only-reason = { -brand-short-name } біздің сенімді DNS шешушісі арқылы осы сайт адресіне қатысты сұрауыңызды қорғай алмайды. Себебі:
 neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } біздің қауіпсіз DNS ұсынушысы арқылы осы сайт адресіне қатысты сұрауыңызды қорғай алмайды. Себебі:
 neterror-dns-not-found-trr-third-party-warning2 = Өзіңіздің қалыпты DNS шешушісімен жалғастыра аласыз. Дегенмен, үшінші тарап сіз кіретін веб-сайттарды көре алады.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } { $trrDomain } доменіне қосыла алмады.
 neterror-dns-not-found-trr-only-timeout = { $trrDomain } доменімен байланысты орнату күтілгеннен ұзағырақ уақыт алды.
-neterror-dns-not-found-trr-offline = Сіз интернетке қосылмағансыз.
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } бұл веб-сайтты таба алмады.
 neterror-dns-not-found-trr-server-problem = { $trrDomain } доменіне қатысты мәселе бар.
 neterror-dns-not-found-bad-trr-url = Жарамсыз URL.
 neterror-dns-not-found-system-sleep = Жүйе ұйқы режимінде.
 neterror-dns-not-found-trr-unknown-problem = Күтпеген мәселе.
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-neterror-dns-not-found-native-fallback-reason = { -brand-short-name } біздің сенімді DNS шешушісі арқылы осы сайт адресіне қатысты сұрауыңызды қорғай алмайды. Себебі:
-neterror-dns-not-found-native-fallback-heuristic = HTTPS арқылы DNS сіздің желіңізде сөндірілген.
-neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } { $trrDomain } доменіне қосыла алмады.
 
 ##
 
@@ -152,8 +138,6 @@ neterror-access-denied = Ол өшірілген, жылжытылған нем�
 neterror-unknown-protocol = Бұл адресті ашу үшін сізге қосымша бағдарламаларды орнату керек мүмкін.
 neterror-redirect-loop = Бұл мәселе анда-санда cookies файлдарын қабылдау сөндірілген кезде болуы мүмкін.
 neterror-unknown-socket-type-client-config = Бұл сіздің клиентіңіздің баптауларындағы қатеге байланысты болуы мүмкін.
-neterror-unknown-socket-type-psm-installed = Жүйеңізде Personal Security Manager орнатылғанын тексеріңіз.
-neterror-unknown-socket-type-server-config = Бұл мәселе қалыпты емес бапталған сервер себебінен болуы мүмкін.
 neterror-not-cached-intro = Сұралған құжат { -brand-short-name } кэшінде жоқ.
 neterror-not-cached-sensitive = Қауіпсіздік мақсатында, { -brand-short-name } сезімтал құжаттарды автоматты түрде қайта сұрамайды.
 neterror-not-cached-try-again = Құжатты веб сайттан қайта сұрау үшін Қайтадан көру батырмасын шертіңіз.

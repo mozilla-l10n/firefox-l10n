@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = ഈ താളിന്റെ വിവർത്തനം ചെയ്യുക
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = വിവൎത്തനം നടപ്പിലാണു്
 translations-panel-settings-button =
     .aria-label = വിവൎത്തന ക്രമീകരണങ്ങൾ കൈകാര്യം ചെയ്യുക
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } ബീറ്റ
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = ഭാഷകൾ കൈകാര്യം ചെയ്യുക
-translations-panel-settings-about = { -brand-shorter-name }-ൽ വിവൎത്തനങ്ങളെപ്പറ്റി
 translations-panel-settings-about2 =
     .label = { -brand-shorter-name }-ൽ വിവൎത്തനങ്ങളെപ്പറ്റി
 # Text displayed for the option to always translate a given language
@@ -81,14 +72,6 @@ translations-panel-error-dismiss-button =
     .label = മനസ്സിലായി
 translations-panel-error-change-button =
     .label = ഉറവിട ഭാഷ മാറ്റുക
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = പൊറുക്കണം, ഞങ്ങൾ ഇതുവരെ { $language }-നെ പിന്തുണയ്ക്കുന്നില്ല.
-translations-panel-error-unsupported-hint-unknown = പൊറുക്കണം, ഞങ്ങൾ ഇതുവരെ ഈ ഭാഷയിനു് പിന്തുണയ്ക്കുന്നില്ല.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -120,9 +103,6 @@ translations-manage-header = വിവർത്തനങ്ങൾ
 translations-manage-settings-button =
     .label = ക്രമീകരണങ്ങൾ
     .accesskey = ക
-translations-manage-all-language = എല്ലാ ഭാഷകൾ
-translations-manage-download-button = ഇറക്കിവയ്ക്കുക
-translations-manage-delete-button = മായ്ക്കുക
 translations-manage-language-download-button =
     .label = ഇറക്കിവയ്ക്കുക
 translations-manage-language-download-all-button =
@@ -134,11 +114,10 @@ translations-manage-language-remove-all-button =
     .label = എല്ലാം മാറ്റുക
     .accesskey = എ
 translations-manage-error-download = ഭാഷ ഫയലുകൾ ഇറക്കിവയ്ക്കുന്നതിൽ എന്തോയൊരു കുഴപ്പമുണ്ടായി. ദയവായി വീണ്ടും ശ്രമിക്കുക
-translations-manage-error-delete = ഭാഷ ഫയലുകൾ മായ്ക്കുന്നതിൽ എന്തോയൊരു കുഴപ്പമുണ്ടായി. ദയവായി വീണ്ടും ശ്രമിക്കുക
 translations-manage-error-remove = ഭാഷ ഫയലുകൾ മാറ്റുന്നതിൽ എന്തോയൊരു കുഴപ്പമുണ്ടായി. ദയവായി വീണ്ടും ശ്രമിക്കുക
 translations-settings-title =
-    .title = വിവൎത്തന ക്രമീകരണങ്ങൾ
     .style = min-width: 36em
+    .title = വിവൎത്തന ക്രമീകരണങ്ങൾ
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = കൊടുത്തിരിക്കുന്ന ഭാഷകൾക്കു് വിവൎത്തനം തന്നെതാനെ നടക്കും
@@ -214,16 +193,6 @@ select-translations-panel-init-failure-message =
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = വിവർത്തനം ചെയ്യുമ്പോൾ ഒരു കുഴപ്പമുണ്ടായി. ദയവായി വീണ്ടും ശ്രമിച്ചു് നോക്കുക.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = പൊറുക്കണം, ഞങ്ങൾ ഇതുവരെ { $language }-നെ പിന്തുണയ്ക്കുന്നില്ല.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = പൊറുക്കണം, ഞങ്ങൾ ഇതുവരെ ഈ ഭാഷയിനു് പിന്തുണയ്ക്കുന്നില്ല.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = വിവർത്തന ക്രമീകരണങ്ങൾ

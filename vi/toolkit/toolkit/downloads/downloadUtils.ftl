@@ -76,11 +76,5 @@ download-utils-time-left-single = Còn { $time }
 download-utils-time-left-double = Còn { $time1 } { $time2 }
 download-utils-time-few-seconds = Còn vài giây
 download-utils-time-unknown = Không rõ thời gian còn lại
-# Variables:
-#   $scheme (string) - URI scheme like data: jar: about:
-download-utils-done-scheme = { $scheme } tài nguyên
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = tập tin trên máy
 # Displayed time for files finished yesterday
 download-utils-yesterday = Hôm qua

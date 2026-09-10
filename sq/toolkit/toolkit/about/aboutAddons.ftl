@@ -152,15 +152,10 @@ addon-sitepermission-host = Leje Sajti për { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Mënyra e Parrezik ka çaktivizuar krejt shtesat.
-extensions-warning-check-compatibility = Kontrolli i përputhjes së shtesave është i çaktivizuar. Keni shtesa të papërputhshme.
-extensions-warning-safe-mode2 =
-    .message = Mënyra e Parrezik ka çaktivizuar krejt shtesat.
 extensions-warning-check-compatibility2 =
     .message = Kontrolli i përputhjes së shtesave është i çaktivizuar. Keni shtesa të papërputhshme.
 extensions-warning-check-compatibility-button = Aktivizoje
     .title = Aktivizoni kontrollin e përputhjesë së shtesave
-extensions-warning-update-security = Kontrolli i përditësimit të shtesave është i çaktivizuar. Përditësimet mund t'ju hapin punë.
 extensions-warning-update-security2 =
     .message = Kontrolli i përditësimit të shtesave është i çaktivizuar. Përditësimet mund t'ju hapin punë.
 extensions-warning-update-security-button = Aktivizoje
@@ -236,10 +231,6 @@ shortcuts-duplicate = Shkurtore e përsëdytur
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } po përdoret si shkurtore në më shumë se një rast. Shkurtoret e përsëdytura mund të shkaktojnë sjellje të papritur.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = { $shortcut } po përdoret si shkurtore në më shumë se një rast. Shkurtoret e përsëdytura mund të shkaktojnë sjellje të papritur.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -259,18 +250,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro =
-    Zgjerimet dhe temat janë si aplikacione për shfletuesin tuaj dhe ju lejojnë
-    të mbroni fjalëkalimet, të shkarkoni video, të gjeni pazare me leverdi,
-    të bllokoni reklama bezdisëse, të ndryshoni pamjen e shfletuesit tuaj, etj.
-    Këta programe të vegjël software shpesh krijohen nga një palë e tretë.
-    Ja një përzgjedhje që { -brand-product-name }
-    <a data-l10n-name="learn-more-trigger">rekomandon</a>, për siguri, punim dhe
-    funksione të jashtëzakonshme.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Disa nga këto rekomandime janë të personalizuara. Ato bazohen në zgjerime të tjera që keni instaluar, në parapëlqime profili dhe statistika përdorimi.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message = Disa nga këto rekomandime janë të personalizuara. Ato bazohen në zgjerime të tjera që keni instaluar, në parapëlqime profili dhe statistika përdorimi.
@@ -360,16 +339,9 @@ addon-detail-last-updated-label = Përditësuar Së Fundi Më
 addon-detail-homepage-label = Kreu
 addon-detail-rating-label = Vlerësim
 # Message for add-ons with a staged pending update.
-install-postponed-message = Ky zgjerim do të përditësohet kur të riniset { -brand-short-name }.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Ky zgjerim do të përditësohet kur të riniset { -brand-short-name }.
 install-postponed-button = Përditësoje Tani
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = Vlerësuar me { NUMBER($rating, maximumFractionDigits: 1) } nga 5 të mundshme
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -385,9 +357,6 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
-# Variables:
-#   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> është hequr.
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
@@ -406,11 +375,6 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
-    .title = E lejuar në dritare private
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
     .title = E lejuar në dritare private
 addon-detail-private-browsing-help = Po të lejohet, zgjerimi do të mund të shohë veprimtaritë tuaja në internet, teksa shfletoni privatisht. <a data-l10n-name="learn-more">Mësoni më tepër</a>
 addon-detail-private-browsing-allow = Lejoje
@@ -437,17 +401,6 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = { -brand-product-name } rekomandon vetëm zgjerime që pajohen me standadet tona mbi sigurinë dhe funksionimin
-# We hard code "Mozilla" in the string below because the extensions are built
-# by Mozilla and we don't want forks to display "by Fork".
-addon-badge-line3 =
-    .aria-label = { addon-badge-line3.title }
-    .title = Zgjerim zyrtar i ndërtuar nga Mozilla. Plotëson standarde sigurie dhe funksionimi.
-addon-badge-verified2 =
-    .aria-label = { addon-badge-verified2.title }
-    .title = Ky zgjerim është shqyrtuar për të qenë në pajtim me standardet tona për sigurinë dhe punimin.
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
@@ -477,9 +430,6 @@ addon-permissions-heading = Leje
 addon-permissions-empty2 = Ky zgjerim nuk lyp ndonjë leje.
 addon-permissions-required-label = Të domosdoshme:
 addon-permissions-optional-label = Opsionale:
-addon-permissions-empty = Ky zgjerim nuk lyp ndonjë leje
-addon-permissions-required = Leje të domosdoshme për funksione bazë:
-addon-permissions-optional = Leje opsionale për më tepër funksione:
 addon-permissions-learnmore = Mësoni më tepër rreth lejesh
 recommended-extensions-heading = Zgjerime të Këshilluara
 recommended-themes-heading = Tema të Këshilluara
@@ -516,25 +466,16 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } është e papërputhshme me { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } është e papërputhshme me { -brand-short-name } { $version }.
-details-notification-incompatible-link = Më Tepër Hollësi
-details-notification-unsigned-and-disabled = { $name } s’u verifikua dot për përdorim te { -brand-short-name } dhe u çaktivizua.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } s’u verifikua dot për përdorim te { -brand-short-name } dhe u çaktivizua.
-details-notification-unsigned-and-disabled-link = Më Tepër Hollësi
-details-notification-unsigned = { $name } s’u verifikua dot për përdorim te { -brand-short-name }. Vazhdoni, por me kujdes.
 details-notification-unsigned2 =
     .message = { $name } s’u verifikua dot për përdorim te { -brand-short-name }. Vazhdoni, por me kujdes.
 details-notification-hard-blocked-extension =
     .message = Ky zgjerim është bllokuar ngaqë cenon rregullat e Mozilla-s dhe është çaktivizuar.
 details-notification-hard-blocked-other =
     .message = Kjo shtesë është bllokuar ngaqë cenon rregullat e Mozilla-s dhe është çaktivizuar.
-details-notification-unsigned-link = Më Tepër Hollësi
-details-notification-blocked = { $name } është çaktivizuar për shkak problemesh sigurie ose qëndrueshmërie.
 details-notification-blocked-link2 = Shihni Hollësitë
 details-notification-soft-blocked-extension-disabled2 =
     .message = Ky zgjerim është i kufizuar dhe është çaktivizuar. Mund ta aktivizoni, por kjo mund të jetë e rrezikshme.
@@ -544,19 +485,7 @@ details-notification-soft-blocked-other-disabled2 =
     .message = Kjo shtesë është ë kufizuar dhe është çaktivizuar. Mund ta aktivizoni, por kjo mund të jetë e rrezikshme.
 details-notification-soft-blocked-other-enabled2 =
     .message = Kjo shtesë është e kufizuar. Përdorimi i saj mund të jetë i rrezikshëm.
-details-notification-soft-blocked-extension-disabled =
-    .message = Ky zgjerim është kufizuar ngaqë cenon rregullat e Mozilla-s dhe është çaktivizuar. Mund ta aktivizoni, por kjo mund të jetë e rrezikshme.
-details-notification-soft-blocked-extension-enabled =
-    .message = Ky zgjerim cenon rregullat e Mozilla-s. Përdorimi i tij mund të jetë me rrezik.
-details-notification-soft-blocked-other-disabled =
-    .message = Kjo shtesë është kufizuar ngaqë cenon rregullat e Mozilla-s dhe është çaktivizuar. Mund ta aktivizoni, por kjo mund të jetë e rrezikshme.
-details-notification-soft-blocked-other-enabled =
-    .message = Kjo shtesë cenon rregullat e Mozilla-s. Përdorimi i saj mund të jetë me rrezik.
 details-notification-softblocked-link2 = Shihni Hollësitë
-details-notification-blocked-link = Më Tepër Hollësi
-details-notification-softblocked = { $name } njihet si shkaktare problemesh sigurie ose qëndrueshmërie.
-details-notification-softblocked-link = Më Tepër Hollësi
-details-notification-gmp-pending = { $name } do të instalohet pas pak.
 details-notification-gmp-pending2 =
     .message = { $name } do të instalohet pas pak.
 
@@ -572,8 +501,6 @@ plugins-widevine-description = Kjo shtojcë bën të mundur luajtje mediash të 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
-addon-permissions-required-data-collection = Grumbullim i domosdoshëm të dhënash:
-addon-permissions-optional-data-collection = Grumbullim opsional të dhënash:
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Leje dhe të dhëna
 # This is a description for extension that use this AI model

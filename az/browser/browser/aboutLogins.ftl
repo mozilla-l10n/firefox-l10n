@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Girişlər və Şifrələr
-about-logins-login-filter =
-    .placeholder = Girişlərdə axtar
-    .key = F
-create-new-login-button =
-    .title = Yeni giriş bilgisi yarat
 about-logins-page-title-name = Parollar
 about-logins-login-filter2 =
-    .placeholder = Parollarda axtar
     .key = F
+    .placeholder = Parollarda axtar
 create-login-button =
     .title = Parol əlavə et
 fxaccounts-sign-in-text = Parollarınız bütün cihazlarınızda sizinlə olsunlar
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Digər səyyahdan daxil et…
 about-logins-menu-menuitem-import-from-a-file = Fayldan idxal et…
-about-logins-menu-menuitem-export-logins = Girişləri ixrac et…
-about-logins-menu-menuitem-remove-all-logins = Bütün giriş bilgilərini sil…
 about-logins-menu-menuitem-export-logins2 = Parolları ixrac et…
 about-logins-menu-menuitem-remove-all-logins2 = Bütün parolları sil…
 menu-menuitem-preferences =
@@ -42,13 +34,6 @@ about-logins-menu-menuitem-help = Kömək
 
 login-list =
     .aria-label = Axtarış sorğusuna uyğun hesablar
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } hesab
-       *[other] { $count } hesab
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -72,12 +57,8 @@ login-list-username-reverse-option = İstifadəçi adı (Z-A)
 about-logins-login-list-alerts-option = Xəbərdarlıqlar
 login-list-last-changed-option = Son Dəyişiklik
 login-list-last-used-option = Son istifadə edilmə
-login-list-intro-title = Heç bir daxil olma tapılmadı
 login-list-intro-description = Parolu { -brand-product-name } tətbiqində saxladığınızda burada göstəriləcək.
-about-logins-login-list-empty-search-title = Heç bir daxil olma tapılmadı
 about-logins-login-list-empty-search-description = Axtarışınıza uyğun nəticə yoxdur.
-login-list-item-title-new-login = Yeni hesab
-login-list-item-subtitle-new-login = Daxil olma məlumatlarınızı daxil edin
 login-list-item-subtitle-missing-username = (istifadəçi adı yoxdur)
 about-logins-list-item-breach-icon =
     .title = Kiber müdaxilə olunmuş sayt
@@ -90,7 +71,6 @@ about-logins-list-section-week = Son 7 gün
 
 ## Login
 
-login-item-new-login-title = Yeni hesab yarat
 login-item-edit-button = Düzəlt
 about-logins-login-item-remove-button = Sil
 login-item-origin-label = Sayt ünvanı
@@ -106,7 +86,6 @@ login-item-password-reveal-checkbox =
     .aria-label = Parolu göstər
 login-item-copy-password-button-text = Köçür
 login-item-copied-password-button-text = Köçürüldü!
-login-item-save-changes-button = Dəyişiklikləri yadda saxla
 login-item-save-new-button = Saxla
 login-item-cancel-button = Ləğv et
 
@@ -125,9 +104,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = saxlanılmış hesabı düzəlt
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = saxlanılmış parolu göstər
@@ -146,8 +122,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Ləğv et
 confirmation-dialog-dismiss-button =
     .title = Ləğv et
-about-logins-confirm-remove-dialog-title = Bu hesab silinsin?
-confirm-delete-dialog-message = Bu əməliyyat geri qaytrıla bilməz.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Parol silinsin?
 # Message for modal to confirm the removal of one saved password

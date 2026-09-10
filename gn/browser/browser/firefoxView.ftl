@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Ehecha ñeikundaharamóva Windows ha mba’e’okápe
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Mboty
-    .aria-label = Mboty
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Ko’ag̃aite
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Tendayke mbojuehepyre
-firefoxview-tabpickup-description = Embojuruja kuatiarogue ambue mba’e’oka guive.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% henyhẽma
-firefoxview-tabpickup-step-signin-header = Emoambue mba’e’oka pa’ũme ñekytĩ’ỹre
-firefoxview-tabpickup-step-signin-description = Ehecha hag̃ua ne pumbyry rendayke, emoñepyrũraẽ tembiapo térã emoheñói mba’ete.
-firefoxview-tabpickup-step-signin-primarybutton = Ku’ejey
 firefoxview-syncedtabs-signin-header-2 = { -brand-product-name } opaite ne mba’e’okápe
 firefoxview-syncedtabs-signin-description-2 = Ehecha hag̃ua tendayke ijurujáva ne pumbyrýpe ha ambue mba’e’okápe, eñepyrũ tembiapo térã eñemboheraguapy ereko hag̃ua mba’ete. Pe mba’ete ndive, embojuehekuaa ñe’ẽñemi, tembiasakue ha hetave.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Mohendaha’i guive pumbyry peve, oso’ỹre
 firefoxview-syncedtabs-signin-description-3 = Eiporu kundahára opaite mba’e’okápe: tendayke, ñe’ẽñemi ha tembiasakue, opavave ñembojuehépe.
 firefoxview-syncedtabs-signin-primarybutton-2 = Eñemboheraguapy
-firefoxview-tabpickup-adddevice-header = Embojuehe { -brand-product-name } ne pumbyry ha tablétape
-firefoxview-tabpickup-adddevice-description = Emboguejy { -brand-product-name } pumbyrýpe ha eñepyrũ tembiapo upépe.
-firefoxview-tabpickup-adddevice-learn-how = Mba’éicha eikuaáta
-firefoxview-tabpickup-adddevice-primarybutton = Ereko { -brand-product-name } ne pumbyrýpe g̃uarã
 firefoxview-syncedtabs-adddevice-header-2 = Ejapyhy tendayke oimeha guive
 firefoxview-syncedtabs-adddevice-description-2 = Eñepyrũ tembiapo { -brand-product-name } ne pumbyry térã ambue mohendahápe ehecha hag̃ua tendayke ápe. Ehecha mba’éichapa <a data-l10n-name="url">embojuajúta ambue mba’e’oka</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Ereko { -brand-product-name } ne pumbyrýpe
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Ne rendayke ohenói. Oĩhína ne pumbyrýpe.
 firefoxview-syncedtabs-adddevice-description-3 = Emoha’ãnga QR ayvu emohenda hag̃ua { -brand-product-name } ne pumbyrýpe ha eñepyrũ embojuehe tendayke ijurujáva ha hetave. Eikuaa <a data-l10n-name="url">embojoaju mba’e’okaita</a>.
-firefoxview-tabpickup-synctabs-header = Emyandy tendayke ñembojuehe
-firefoxview-tabpickup-synctabs-description = Emoneĩ { -brand-short-name } omoherakuãvo tendayke mba’e’oka pa’ũme.
-firefoxview-tabpickup-synctabs-learn-how = Mba’éicha eikuaáta
 firefoxview-tabpickup-synctabs-primarybutton = Embojuehe tendayke ijurujáva
 firefoxview-tabpickup-synctabs-primarybutton-2 = Emyandy tendayke ñembojuehe
 firefoxview-syncedtabs-synctabs-header = Embohekopyahu mbojueheha ñemboheko
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Emoĩmbávo, ehecháta umi tendayke
 firefoxview-syncedtabs-loading-header-2 = Agueruhína tendayke…
 firefoxview-syncedtabs-loading-description-2 = Oñembojuehehína. Tendaykeita oĩta ápe vokóinte.
 firefoxview-tabpickup-fxa-admin-disabled-header = Nde atyguasu omboyke pe ñembojuehe
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nombojuehekuaái tendayke mba’e’okakuéra pa’ũme ne ñangarekohára omboyke rupi ñembojuehe.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } nombojuehekuaái tendayke mba’e’okakuéra pa’ũme nde atyguasu ombogue rupi ñembojuehe.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Tendayke ñembojuehe ogue
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Nde atyguasu ojokóma ko tembiapoite.
@@ -85,39 +62,18 @@ firefoxview-tabpickup-password-locked-primarybutton = Ehai Ñe’ẽñemi Ha’e
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Eikuaave</a>
 firefoxview-tabpickup-password-locked-header-2 = Ejora tendayke ñe’ẽ ñemi ha’etéva ndive
 firefoxview-tabpickup-signed-out-header = Eñepyrũ tembiapo eikejey hag̃ua
-firefoxview-tabpickup-signed-out-description = Eikejey ha ereko hag̃ua ne rendayke, emoñepyrũ tembiapo nde { -fxaccount-brand-name }-pe.
 firefoxview-tabpickup-signed-out-description2 = Eikejey ha ereko hag̃ua ne rendayke, emoñepyrũ tembiapo ne mba’etépe.
 firefoxview-tabpickup-signed-out-primarybutton = Eñepyrũ tembiapo
 firefoxview-tabpickup-signed-out-header-2 = Eike ehecha hag̃ua tendaykeita
 firefoxview-tabpickup-signed-out-description-2 = Eikejey ehecha hag̃ua ambue mba’e’oka guive.
-firefoxview-tabpickup-syncing = Eha’ãrõ tendayke toñembojuehe. Ndahi’aremo’ãi.
-firefoxview-mobile-promo-header = Ehecha tendayke ne pumbyry térã tabléta rupive
-firefoxview-mobile-promo-description = Ehecha hag̃ua tendayke eipuramovéva, emoñepyrũ tembiapo { -brand-product-name } iOS térã Android rupive.
-firefoxview-mobile-promo-primarybutton = Ereko { -brand-product-name } ne pumbyrýpe
-firefoxview-mobile-confirmation-header = 🎉 ¡Erahakuaáma!
-firefoxview-mobile-confirmation-description = Ko’ág̃a ikatu ehecha { -brand-product-name } rendayke nde tabléta térã pumbyry guive.
-firefoxview-closed-tabs-title = Oñembotyramovéva
-firefoxview-closed-tabs-description2 = Embojurujajey kuatiarogue embotýva ko ovetãme.
-firefoxview-closed-tabs-placeholder-header = Ndaipóri tendayke oñembotyramóva
-firefoxview-closed-tabs-placeholder-body = Embotývo peteĩ tendayke ko ovetãme, ehekakuaa ko’a guive.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Emboyke { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Hendyramovéva
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Embojuruja { $targetURI } tendayke pyahúpe
-firefoxview-try-colorways-button = Eiporu sa’y ojueheguáva
-firefoxview-change-colorway-button = Emoambue sa’y ojueheguáva
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Ndaipóri jehecharã
-firefoxview-synced-tabs-placeholder-body = Embojurujajeývo kuatiarogue { -brand-product-name }-pe ambue mba’e’okápe, osẽta ko’ápe ha’eñoreínte.
 firefoxview-collapse-button-show =
     .title = Ehechauka tysýi
 firefoxview-collapse-button-hide =

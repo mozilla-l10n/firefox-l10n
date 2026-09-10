@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } — jagamisindikaator
-webrtc-indicator-window =
-    .title = { -brand-short-name } — jagamisindikaator
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Jagad oma mikrofoni. Jagamise haldamiseks klõpsa.
 webrtc-screen-system-menu =
     .label = Jagad akent või ekraani. Jagamise haldamiseks klõpsa.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Kaamera ja mikrofon on välja jagatud. Jagamise haldamiseks klõpsa.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Kaamera on välja jagatud. Jagamise haldamiseks klõpsa.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Mikrofon on välja jagatud. Jagamise haldamiseks klõpsa.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Rakendus on välja jagatud. Jagamise haldamiseks klõpsa.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Ekraan on välja jagatud. Jagamise haldamiseks klõpsa.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Aken on välja jagatud. Jagamise haldamiseks klõpsa.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Kaart on välja jagatud. Jagamise haldamiseks klõpsa.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -170,7 +151,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Kas lubad saidil
 
 webrtc-share-screen-warning = Oma ekraani jaga ainult nende saitidega, mida usaldad. Jagamine võib võimaldada petlikel saitidel sinuna veebi lehitseda ja varastada sinu privaatseid andmeid.
 webrtc-share-browser-warning = Oma { -brand-short-name }i jaga ainult nende saitidega, mida usaldad. Jagamine võib võimaldada petlikel saitidel sinuna veebi lehitseda ja varastada sinu privaatseid andmeid.
-webrtc-share-screen-learn-more = Rohkem teavet
 webrtc-pick-window-or-screen = Vali aken või ekraan
 webrtc-share-entire-screen = Terve ekraan
 webrtc-share-pipe-wire-portal = Kasuta operatsioonisüsteemi sätteid

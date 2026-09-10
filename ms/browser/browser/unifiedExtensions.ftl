@@ -21,9 +21,6 @@ unified-extensions-manage-extensions =
 unified-extensions-item-open-menu =
     .aria-label = Buka menu untuk { $extensionName }
 unified-extensions-item-message-manage = Urus sambungan
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName } melanggar dasar Mozilla. Menggunakannya mungkin berisiko.
 
 ## Extension's context menu
 
@@ -42,8 +39,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Sesetengah sambungan tidak dibenarkan
-unified-extensions-mb-quarantined-domain-message = Hanya sesetengah sambungan yang dipantau oleh { -vendor-short-name } dibenarkan di laman ini untuk melindungi data anda.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Sesetengah sambungan tidak dibenarkan
@@ -52,21 +47,7 @@ unified-extensions-mb-quarantined-domain-learn-more = Ketahui lebih lanjut
     .aria-label = Ketahui lebih lanjut: Sesetengah sambungan tidak dibenarkan
 unified-extensions-mb-about-addons-link = Pergi ke tetapan sambungan
 # Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } dinyahdayakan
-    .message =
-        Sambungan ini melanggar dasar Mozilla dan dinyahdayakan.
-        Anda boleh mendayakannya dalam tetapan, tetapi ini mungkin berisiko.
-# Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } dinyahdayakan
     .message = Sambungan ini melanggar dasar Mozilla dan dinyahdayakan.
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading = { $extensionsCount } sambungan dinyahdayakan
-    .message =
-        Sesetengah sambungan anda dinyahdayakan kerana melanggar dasar Mozilla.
-        Anda boleh mendayakannya dalam tetapan, tetapi ini mungkin berisiko.

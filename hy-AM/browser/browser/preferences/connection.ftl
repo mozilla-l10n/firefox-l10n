@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Միացման կարգավորումներ
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Միացման կարգավորումներ
 connection-close-key =
     .key = w
 connection-disable-extension =
@@ -58,14 +58,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Կրկին բեռնել
     .accesskey = e
-connection-proxy-autologin =
-    .label = Գաղտնաբառը պահելիս վավերացում չհարցնել
-    .accesskey = ր
-    .tooltip = Այս ընտրանքը լռությամբ իսկորոշում է պրոքսիները, երբ պահպանում եք դրանց հավաստագրերը: Ձախողման դեպքում Ձեզ հարցում կկատարվի:
 connection-proxy-autologin-checkbox =
     .label = Գաղտնաբառը պահելիս վավերացում չհարցնել
-    .accesskey = ր
     .tooltiptext = Այս ընտրանքը լռությամբ իսկորոշում է պրոքսիները, երբ պահպանում եք դրանց հավաստագրերը: Ձախողման դեպքում Ձեզ հարցում կկատարվի:
+    .accesskey = ր
 connection-proxy-socks-remote-dns =
     .label = Պրոքսի DNS՝ SOCKS v5 օգտագործելիս
     .accesskey = d
@@ -76,6 +72,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Օգտագործեք սկզբնադիր URL-ը՝ DNS-ը HTTPS-ի վրայով լուծման համար
 connection-dns-over-https-url-custom =
     .label = Հարմարեցված
-    .accesskey = C
     .tooltiptext = Մուտքագրե՛ք ձեր նախընտրած URL-ը DNS ֊ HTTPS լուծելու համար։
-connection-dns-over-https-custom-label = Հարմարեցված
+    .accesskey = C

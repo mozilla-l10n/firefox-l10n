@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-protections-panel-sendreportview-error = Есепті жіберу кезінде қате орын алды. Кейінірек қайталап көріңіз.
-# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
-protections-panel-sitefixedsendreport-label = Сайт жөнделген ба? Хабарламаны жіберу
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -23,11 +20,6 @@ protections-panel-etp-more-info =
     .aria-label = Бақылаудан кеңейтілген қорғаныс туралы көбірек ақпарат
 protections-panel-etp-on-header = Бақылаудан кеңейтілген қорғаныс бұл сайт үшін іске қосылған
 protections-panel-etp-off-header = Бақылаудан кеңейтілген қорғаныс бұл сайт үшін іске қосылмаған
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Сайт жұмыс істемей тұр ма?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Сайт жұмыс істемей тұр ма?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -35,20 +27,18 @@ protections-panel-site-not-working-view =
 ##   $host (String): the hostname of the site that is being displayed.
 
 protections-panel-etp-toggle-on =
-    .label = Бақылаудан кеңейтілген қорғаныс
-    .description = Бұл сайт үшін іске қосылған
     .aria-label = Бақылаудан кеңейтілген қорғаныс: { $host } үшін іске қосылған
-protections-panel-etp-toggle-off =
+    .description = Бұл сайт үшін іске қосылған
     .label = Бақылаудан кеңейтілген қорғаныс
-    .description = Бұл сайт үшін сөндірілген
+protections-panel-etp-toggle-off =
     .aria-label = Бақылаудан кеңейтілген қорғаныс: { $host } үшін сөндірілген
+    .description = Бұл сайт үшін сөндірілген
+    .label = Бақылаудан кеңейтілген қорғаныс
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = Неге?
-protections-panel-not-blocking-why-etp-on-tooltip = Бұларды бұғаттау кейбір веб-сайттардың элементтерін бұзуы мүмкін. Трекерлерсіз кейбір батырмалар, формалар және кіру өрістері жұмыс істемеуі мүмкін.
-protections-panel-not-blocking-why-etp-off-tooltip = Бұл сайттағы барлық трекерлер жүктелген, себебі қорғаныс сөндірілген.
 protections-panel-not-blocking-why-etp-on-tooltip-label =
     .label = Бұларды бұғаттау кейбір веб-сайттардың элементтерін бұзуы мүмкін. Трекерлерсіз кейбір батырмалар, формалар және кіру өрістері жұмыс істемеуі мүмкін.
 protections-panel-not-blocking-why-etp-off-tooltip-label =
@@ -94,23 +84,6 @@ smartblock-placeholder-content-header = Блокталған ендірілге�
 
 protections-panel-settings-label = Қорғаныс баптаулары
 protections-panel-protectionsdashboard-label = Қорғаныс панелі
-
-## In the Site Not Working? view, we suggest turning off protections if
-## the user is experiencing issues with any of a variety of functionality.
-
-# The header of the list
-protections-panel-site-not-working-view-header = Келесімен мәселелер болса, қорғанысты сөндіріңіз:
-# The list items, shown in a <ul>
-protections-panel-site-not-working-view-issue-list-login-fields = Кіру өрістері
-protections-panel-site-not-working-view-issue-list-forms = Формалар
-protections-panel-site-not-working-view-issue-list-payments = Төлемдер
-protections-panel-site-not-working-view-issue-list-comments = Түсіндірмелер
-protections-panel-site-not-working-view-issue-list-videos = Видеолар
-protections-panel-site-not-working-view-issue-list-fonts = Қаріптер
-protections-panel-site-not-working-view-send-report = Есептемені жіберу
-
-##
-
 protections-panel-cross-site-tracking-cookies = Бұл cookie файлдары Интернетте не істегеніңіз туралы мәліметтер жинау үшін сайттан сайтқа соңыңыздан еріп жүреді. Оларды жарнама берушілер мен аналитикалық компаниялар сияқты үшінші тараптар орнатады.
 protections-panel-cryptominers = Криптомайнерлер жүйеңіздің есептеу қуатын цифрлық валютаны алу үшін қолданады. Криптомайнерлік скрипттер батареяны отырғызып, компьютерді тежейді және қуат шығындарын көбейтеді.
 protections-panel-fingerprinters = Цифрлық баспаны жинаушылар сіздің профиліңізді жасау үшін браузер мен компьютерден параметрлерді жинайды. Бұл цифрлық саусақ ізін қолдана отырып, олар сізді әртүрлі веб-сайттар бойынша қадағалай алады.
@@ -123,33 +96,10 @@ protections-panel-shim-allowed-indicator =
 protections-panel-content-blocking-manage-settings =
     .label = Қорғаныс баптауларын басқару
     .accesskey = с
-protections-panel-content-blocking-breakage-report-view =
-    .title = Сынған сайт туралы хабарлау
-protections-panel-content-blocking-breakage-report-view-description = Кейбір трекерлерді бұғаттау кейбір веб-сайттармен мәселелерді туғызуы мүмкін. Осындай мәселелерді хабарлау арқылы { -brand-short-name } өнімін әркім үшін жақсырақ қылуға көмектеседі. Бұл есепті жіберу URL және браузеріңіз ақпаратын Mozilla-ға жібереді. <label data-l10n-name="learn-more">Көбірек білу</label>
-protections-panel-content-blocking-breakage-report-view-collection-url = URL
-protections-panel-content-blocking-breakage-report-view-collection-url-label =
-    .aria-label = URL
-protections-panel-content-blocking-breakage-report-view-collection-comments = Қосымша: Мәселені сипаттаңыз
-protections-panel-content-blocking-breakage-report-view-collection-comments-label =
-    .aria-label = Қосымша: Мәселені сипаттаңыз
-protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = Бас тарту
-protections-panel-content-blocking-breakage-report-view-send-report =
-    .label = Есептемені жіберу
-
-# Cookie Banner Handling
-
-protections-panel-cookie-banner-handling-header = Cookie баннерлерін азайту
 protections-panel-cookie-banner-blocker-header = Cookie баннерлерін бұғаттаушы
 protections-panel-cookie-banner-handling-enabled = Бұл сайт үшін іске қосылған
 protections-panel-cookie-banner-handling-disabled = Бұл сайт үшін сөндірілген
 protections-panel-cookie-banner-handling-undetected = Сайтқа ағымдағы уақытта қолдау жоқ
-protections-panel-cookie-banner-view-title =
-    .title = Cookie баннерлерін азайту
-# Variables
-#  $host (String): the hostname of the site that is being displayed.
-protections-panel-cookie-banner-view-turn-off-for-site = { $host } үшін cookie баннерлерін азайту мүмкіндігін сөндіру керек пе?
-protections-panel-cookie-banner-view-turn-on-for-site = Бұл сайт үшін cookie баннерлерін азайту мүмкіндігін іске қосу керек пе?
 protections-panel-cookie-banner-blocker-view-title =
     .title = Cookie баннерлерін бұғаттаушы
 # Variables
@@ -157,10 +107,6 @@ protections-panel-cookie-banner-blocker-view-title =
 protections-panel-cookie-banner-blocker-view-turn-off-for-site = { $host } үшін cookie баннерлерін бұғаттаушын сөндіру керек пе?
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Бұл сайт үшін cookie баннерлерін бұғаттаушын іске қосу керек пе?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } осы сайттың cookie файлдарын тазартып, бетті жаңартады. Барлық cookie файлдарын тазарту салдарынан сіз сайттан шығуыңыз мүмкін немесе дүкен себеттері тазартылуы мүмкін.
-protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } қолдау көрсетілетін сайттардағы барлық cookie сұрауларын автоматты түрде қабылдамау әрекетін жасайды.
-protections-panel-cookie-banner-view-cancel = Бас тарту
-protections-panel-cookie-banner-view-turn-off = Сөндіру
-protections-panel-cookie-banner-view-turn-on = Іске қосу
 protections-panel-cookie-banner-blocker-view-turn-on-description = Іске қосыңыз, және де { -brand-short-name } осы сайттағы cookie баннерлерінен автоматты түрде бас тартуға тырысады.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Бас тарту

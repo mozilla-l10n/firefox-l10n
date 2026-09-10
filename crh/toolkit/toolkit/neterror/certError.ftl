@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Onay belgesine güvenilmiyor çünkü dağı
 cert-error-trust-signature-algorithm-disabled = Şeadetnamege itimat etilmey, çünki emniyetli olmağanından dolayı ğayrıqabilleştirilgen bir imza algoritması qullanılaraq imzalandı.
 cert-error-trust-expired-issuer = Onay belgesine güvenilmiyor çünkü dağıtıcı onay belgesinin süresi dolmuş.
 cert-error-trust-self-signed = Şeadetnamege itimat etilmey çünki öz-imzalıdır.
-cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte ve VeriSign tarafından ihrac etilgen şeadetnameler artıq emin mülâhaza etilmey çünki bu şeadetname salâhiyetleri keçmişte emniyet yol-yoruğını taqip etmekten çaqtı.
 cert-error-untrusted-default = Onay belgesi güvenilir bir kaynaktan gelmiyor.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -44,10 +43,6 @@ cert-error-code-prefix-link = Hata kodu: <a data-l10n-name="error-code-link">{ $
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = { $hostname } adresine bağlanğanda bir hata yaşandı. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Ağ-saytları, kimligini, şeadetname salâhiyetleri tarafından ihrac etilgen, şeadetnemeler arqalı isbatlar. Seyrancılarnıñ ekseriyeti, GeoTrust, RapidSSL, Symantec, Thawte ve VeriSign tarafından ihrac etilgen şeadetnamelerge artıq itimat etmey. { $hostname } bu salâhiyetlerden birinden bir şeadetname qullana ve ondan dolayı bu ağ-saytınıñ kimligi isbat etilalmay.
-cert-error-symantec-distrust-admin = Bu mes'ele aqqında ağ-saytınıñ memurını haberdar etebilirsiñiz.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Sıqı Naqliye Emniyeti: { $hasHSTS }
@@ -83,7 +78,6 @@ proxyResolveFailure-title = Proksi sunucısı tapılalmay
 redirectLoop-title = Saifeniñ kene yönetmesi münasip degildir
 unknownSocketType-title = Sunucıdan beklenmegen cevap
 nssFailure2-title = Emniyetli Bağlantı Muvafaqiyetsiz
-corruptedContentError-title = İfsat Etilgen Muhteva Hatası
 sslv3Used-title = Emniyetlice Bağlanılalmay
 inadequateSecurityError-title = Bağlantıñız emniyetli degildir
 blockedByPolicy-title = Bloklanğan Saife

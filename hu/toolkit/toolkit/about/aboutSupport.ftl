@@ -29,10 +29,6 @@ security-software-name = Név
 security-software-antivirus = Antivírus
 security-software-antispyware = Kémprogram-elhárító
 security-software-firewall = Tűzfal
-features-title = A { -brand-short-name } szolgáltatásai
-features-name = Név
-features-version = Verzió
-features-id = Azonosító
 processes-title = Távoli folyamatok
 processes-type = Típus
 processes-count = Darabszám
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] Profilkönyvtár
        *[other] Profilmappa
     }
-app-basics-enabled-plugins = Engedélyezett bővítmények
 app-basics-build-config = Build konfiguráció
 app-basics-user-agent = Felhasználói ügynök
 app-basics-os = OS
@@ -96,9 +91,6 @@ show-dir-label =
 environment-variables-title = Környezeti változók
 environment-variables-name = Név
 environment-variables-value = Érték
-experimental-features-title = Kísérleti funkciók
-experimental-features-name = Név
-experimental-features-value = Érték
 modified-key-prefs-title = Fontos, módosított beállítások
 modified-prefs-name = Név
 modified-prefs-value = Érték
@@ -220,9 +212,6 @@ media-cdm-capabilities = Képességek
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Titkosítatlan kezdet
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = HDCP 2.2 kompatibilis
 
 ##
 
@@ -394,8 +383,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Kísérlet által letiltva
-fission-status-experiment-treatment = Kísérlet által engedélyezve
 fission-status-disabled-by-e10s-env = Környezet által letiltva
 fission-status-enabled-by-env = Környezet által engedélyezve
 fission-status-disabled-by-env = Környezet által letiltva
@@ -404,7 +391,6 @@ fission-status-disabled-by-default = Alapértelmezésben tiltva
 fission-status-enabled-by-user-pref = A felhasználó által engedélyezve
 fission-status-disabled-by-user-pref = A felhasználó által letiltva
 fission-status-disabled-by-e10s-other = E10s letiltva
-fission-status-enabled-by-rollout = Szakaszos bevezetés által engedélyezve
 async-pan-zoom = Aszinkron görgetés/nagyítás
 apz-none = nincs
 wheel-enabled = kerékbemenet engedélyezve

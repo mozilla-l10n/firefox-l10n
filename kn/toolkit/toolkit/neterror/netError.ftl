@@ -18,12 +18,10 @@ neterror-learn-more-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ...
 neterror-open-portal-login-page-button = ಜಾಲ ಸಂಪರ್ಕ ಲಾಗಿನ್ ಪುಟವನ್ನು ತೆರೆಯಿರಿ
 neterror-pref-reset-button = ಪೂರ್ವನಿಯೋಜಿತ ಸಿದ್ಧತೆಗಳನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು
 neterror-return-to-previous-page-button = ಹಿಂದೆ ಹೋಗು
-neterror-try-again-button = ಮರಳಿ ಪ್ರಯತ್ನಿಸು
 
 ##
 
 neterror-pref-reset = ನಿಮ್ಮ ನೆಟ್‍‍ವರ್ಕ್ ಸುರಕ್ಷತೆ ಸಿದ್ಧತೆಗಳಿಂದಾಗಿ ಇದು ಸಂಭವಿಸುತ್ತಿರಬೇಕು. ನೀವು ಪೂರ್ವನಿಯೋಜಿತ ಸಿದ್ಧತೆಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಬಯಸುವಿರಾ?
-neterror-error-reporting-automatic = ಈ ತರಹದ ದೋಷಗಳನ್ನು ವರದಿ ಮಾಡಿ { -vendor-short-name }ಗೆ ಅಪಾಯಕಾರಿ ತಾಣಗಳನ್ನು ಗುರುತು ಹಿಡಿಯಲು ಮತ್ತು ತಡೆಹಿಡಿಯಲು ಸಹಾಯ ಮಾಡಿ
 
 ## Specific error messages
 
@@ -39,8 +37,6 @@ neterror-file-not-found-moved = ಕಡತವು ಸ್ಥಳಾಂತರಿಸ�
 neterror-access-denied = ಅದನ್ನು ತೆಗೆದುಹಾಕಿರಬಹುದು, ಜರುಗಿಸಿರಬಹುದು, ಅಥವಾ ಕಡತದ ಅನುಮತಿಗಳು ಪ್ರವೇಶವನ್ನು ತಡೆಹಿಡಿಯುತ್ತಿರಬಹುದು.
 neterror-unknown-protocol = ಈ ವಿಳಾಸವನ್ನು ತೆರೆಯಲು ಬೇರೊಂದು ತಂತ್ರಾಂಶವನ್ನು ನೀವು ಅನುಸ್ಥಾಪಿಸುವುದು ಅಗತ್ಯವಾಗಿರುತ್ತದೆ.
 neterror-redirect-loop = ಕುಕಿಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸುವುದು ಅಥವ ಪಡೆದುಕೊಳ್ಳುವುದನ್ನು ನಿರ್ಬಂಧಿಸಿವುದು ಕೆಲವೊಮ್ಮೆ ಈ ತೊಂದರೆಗೆ  ಕಾರಣವಾಗಿರುತ್ತದೆ.
-neterror-unknown-socket-type-psm-installed = ನಿಮ್ಮ ಗಣಕದಲ್ಲಿ ವೈಯಕ್ತಿಕ ಸುರಕ್ಷತಾ ವ್ಯವಸ್ಥಾಪಕವು ಅನುಸ್ಥಾಪಿತಗೊಂಡಿದೆ ಎಂಬುದನ್ನು ಪರೀಕ್ಷಿಸಿ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.
-neterror-unknown-socket-type-server-config = ಪರಿಚಾರಕದ ಸ್ಟಾಂಡರ್ಡ ಅಲ್ಲದ ಸಂರಚನೆ ಇದಕ್ಕೆ ಕಾರಣವಾಗಿರಬಹುದು.
 neterror-not-cached-intro = ಮನವಿ ಸಲ್ಲಿಸಲಾದ ದಸ್ತಾವೇಜು { -brand-short-name } ನ ಕ್ಯಾಶೆಯಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ.
 neterror-not-cached-sensitive = As a security precautionಸುರಕ್ಷತಾ ಮುನ್ನೆಚ್ಚರಿಕೆಯಾಗಿ, { -brand-short-name } ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸೂಕ್ಷ್ಮ ಸಂವೇದಿ ದಸ್ತಾವೇಜುಗಳನ್ನು ಮರಳಿ-ಮನವಿ ಮಾಡುವುದಿಲ್ಲ.
 neterror-not-cached-try-again = ಜಾಲತಾಣದಿಂದ ದಸ್ತಾವೇಜನ್ನು ಮರಳಿ-ಮನವಿ ಮಾಡಲು ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸು ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.

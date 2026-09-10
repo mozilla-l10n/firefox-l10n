@@ -2,13 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Ба сомонаҳо сигнали «Пайгирӣ карда нашавад»-ро фиристонед, то ки шуморо пайгирӣ накунанд
-do-not-track-removal = Мо дигар сигнали «Пайгирӣ карда нашавад»-ро дастгирӣ намекунем
-do-not-track-learn-more = Маълумоти бештар
-do-not-track-option-default-content-blocking-known =
-    .label = Танҳо вақте ки «{ -brand-short-name }» барои манъ кардани васоити пайгирии маълум танзим шудааст
-do-not-track-option-always =
-    .label = Ҳамеша
 global-privacy-control-description =
     .label = Ба сомонаҳо хабар диҳед, то онҳо маълумоти маро нафурӯшанд ва ошкор накунанд
     .accesskey = Б
@@ -16,7 +9,6 @@ non-technical-privacy-group =
     .label = Хусусиятҳои махфияти сомона
 non-technical-privacy-heading =
     .label = Муҳофизати иловагӣ
-non-technical-privacy-header = Хусусиятҳои махфияти сомона
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -43,28 +35,16 @@ managed-notice-nav =
 category-list =
     .aria-label = Категорияҳо
 pane-general-title = Умумӣ
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-home-title = Саҳифаи асосӣ
 pane-search-title2 = Ҷустуҷӯ
     .title = Ҷустуҷӯ
 pane-privacy-title3 = Махфият ва амният
     .title = Махфият ва амният
-category-home =
-    .tooltiptext = { pane-home-title }
-pane-search-title = Ҷустуҷӯ
-category-search =
-    .tooltiptext = { pane-search-title }
 pane-privacy-section =
     .heading = Махфият ва амният
-pane-privacy-title = Махфият ва амният
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Ҳамоҳангсозӣ
 pane-ai-controls-title2 = Унсурҳои идоракунии зеҳни сунъӣ (AI)
     .title = Унсурҳои идоракунии зеҳни сунъӣ (AI)
-category-sync3 =
-    .tooltiptext = { pane-sync-title3 }
 pane-about-firefox-title = Дар бораи «{ -brand-short-name }»
     .title = { pane-about-firefox-title }
 pane-appearance-title = Намуди зоҳирӣ
@@ -81,19 +61,9 @@ preferences-languages-header3 =
     .heading = Забонҳо
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-pane-experimental-title = Озмоишҳои «{ -brand-short-name }»
-category-experimental =
-    .tooltiptext = Озмоишҳои «{ -brand-short-name }»
-pane-experimental-subtitle = Бо эҳтиёт идома диҳед
-pane-experimental-search-results-header = Озмоишҳои «{ -brand-short-name }»: Бо эҳтиёт идома диҳед
-pane-experimental-description2 = Тағйир додани хусусиятҳо танзимоти иловагӣ метавонад ба кор ё амнияти «{ -brand-short-name }» таъсир расонад.
-settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-pane-labs-header =
     .heading = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Хусусиятҳои озмоишии моро санҷед! Онҳо дар ҳоли рушд ва такмил мебошанд, ки метавонад ба кори «{ -brand-short-name }» таъсир расонад. Мо маълумотро дар бораи истифодаи шумо аз ин хусусиятҳо танҳо дар он маврид мегирем, агар шумо <a data-l10n-name="data-collection">маълумоти техникӣ ва ҳамкориро</a> фаъол карда бошед.
-pane-experimental-description3 = Хусусиятҳои таҷрибавии моро санҷед! Онҳо дар ҳоли рушд ва таҳаввул ҳастанд, ки метавонад ба тарзи кори «{ -brand-short-name }» таъсир расонад.
 pane-experimental-reset =
     .label = Барқарор кардани пешфарзҳо
     .accesskey = Б
@@ -101,8 +71,6 @@ help-button-label2 = Дастгирии «{ -brand-short-name }»
     .title = Дастгирии «{ -brand-short-name }»
 addons-button-label2 = Васеъшавиҳо ва мавзуъҳо
     .title = Васеъшавиҳо ва мавзуъҳо
-help-button-label = Дастгирии «{ -brand-short-name }»
-addons-button-label = Васеъшавиҳо ва мавзуъҳо
 focus-search =
     .key = f
 close-button =
@@ -166,14 +134,8 @@ search-results-help-link = Ба кумак ниёз доред? Ба сомон�
 
 ## General Section
 
-startup-header = Оғози кор
 always-check-default =
     .label = Ҳамеша тафтиш кунед, ки «{ -brand-short-name }» браузери пешфарзи шумо мебошад
-    .accesskey = Ҳ
-is-default = «{ -brand-short-name }» браузери пешфарзи шумо мебошад
-is-not-default = «{ -brand-short-name }» браузери пешфарзи шумо намебошад
-set-as-my-default-browser =
-    .label = Ҳамчун пешфарз танзим кунед…
     .accesskey = Ҳ
 startup-restore-windows-and-tabs =
     .label = Кушодани равзанаҳо ва варақаҳои қаблӣ
@@ -184,16 +146,11 @@ windows-launch-on-login =
     .label = Ҳангоми оғоз кардани компютери шумо «{ -brand-short-name }»-ро ба таври худкор кушоед
     .accesskey = Ҳ
 windows-launch-on-login-disabled = Ин хусусият дар низоми амалкунандаи Windows ғайрифаъол шудааст. Барои ворид кардани тағйирот, дар Танзимоти низом ба <a data-l10n-name="startup-link">Барномаҳои оғози кор</a> гузаред.
-windows-launch-on-login-profile-disabled = Ин хусусиятро тавассути интихоб кардани «{ profile-manager-use-selected.label }» дар равзанаи «Интихоби профили корбар» фаъол созед.
-startup-restore-warn-on-quit =
-    .label = Ҳангоми баромадан аз браузер низом шуморо огоҳ мекунад
 disable-extension =
     .label = Ғайрифаъол кардани васеъшавӣ
 preferences-data-migration-group =
     .description = Хатбаракҳо, ниҳонвожаҳо, таърих, васеъшавиҳо ва маълумоти пуркунии худкори худро аз браузери дигар ба даст оред.
     .label = Ворид кардани маълумоти браузер
-preferences-data-migration-header = Ворид кардани маълумоти браузер
-preferences-data-migration-description = Хатбаракҳо, ниҳонвожаҳо, таърих ва маълумоти вурудии худкорро ба «{ -brand-short-name }» ворид намоед.
 preferences-data-migration-button =
     .label = Ворид кардани маълумот
     .accesskey = В
@@ -204,9 +161,6 @@ preferences-profiles-subpane-description =
 preferences-profiles-section-header =
     .description = Ҳар як профил дорои маълумоти тамошобинӣ ва танзимоти алоҳида мебошад, аз он ҷумла таърих, ниҳонвожаҳо ва ғайра.
     .label = Профилҳо
-preferences-profiles-header = Профилҳо
-preferences-manage-profiles-description = Ҳар як профил дорои маълумоти тамошобинӣ ва танзимоти алоҳида мебошад, аз он ҷумла таърих, ниҳонвожаҳо ва ғайра.
-preferences-manage-profiles-learn-more = Маълумоти бештар
 preferences-manage-profiles-button =
     .label = Идоракунии профилҳо
 preferences-profiles-settings-button =
@@ -235,7 +189,6 @@ tabs-containers-heading =
     .label = Дарбаргирандаҳо
 tabs-closing-heading =
     .label = Пӯшиш
-tabs-group-header = Варақаҳо
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab варақаҳоро аз рӯи тартиби истифодаи охирин иваз мекунад
     .accesskey = C
@@ -255,33 +208,13 @@ ask-on-close-multiple-tabs =
 ask-on-quit-with-key =
     .label = Пеш аз баромад ба воситаи { $quitKey } тасдиқ карда шавад
     .accesskey = П
-confirm-on-close-multiple-tabs =
-    .label = Тасдиқ кардан пеш аз пӯшидани якчанд варақа
-    .accesskey = Т
-# This string is used for the confirm before quitting preference.
-# Variables:
-#   $quitKey (string) - the quit keyboard shortcut, and formatted
-#                       in the same manner as it would appear,
-#                       for example, in the File menu.
-confirm-on-quit-with-key =
-    .label = Тасдиқ кардан ба воситаи { $quitKey } пеш аз баромадан
-    .accesskey = Т
 warn-on-open-many-tabs =
     .label = Огоҳӣ диҳед, ки ҳангоми кушодани варақаҳои сершумор метавонад кори «{ -brand-short-name }»-ро суст кунад
     .accesskey = О
-switch-to-new-tabs =
-    .label = Вақте ки шумо пайванд, тасвир ё расонаеро дар варақаи нав мекушоед, ба он дарҳол гузаред
-    .accesskey = В
 show-tabs-in-taskbar =
     .label = Намоиш додани пешнамоиши варақа дар навори вазифаи равзанаҳо
     .accesskey = Н
-browser-containers-enabled =
-    .label = Фаъол кардани варақаи дарбаргиранда
-    .accesskey = Ф
 browser-containers-learn-more = Маълумоти бештар
-browser-containers-settings =
-    .label = Танзимот…
-    .accesskey = Т
 containers-disable-alert-title = Ҳамаи варақаҳои дарбаргирандаро мепӯшед?
 startup-group =
     .label = Оғози кор
@@ -329,22 +262,10 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .description = Аз саҳифаи асосии худ нарафта, ба хатбаракҳо, варақаҳо дар телефони худ, чат-боти зеҳни сунъӣ «AI» ва имкониятҳои дигар зуд дастрасӣ пайдо намоед.
     .label = Намоиш додани навори ҷонибӣ
-browser-layout-header = Тарҳбандии браузер
-browser-layout-horizontal-tabs =
-    .label = Варақаҳои уфуқӣ
-browser-layout-horizontal-tabs-desc = Намоиш дар болои браузер
-browser-layout-vertical-tabs =
-    .label = Варақаҳои амудӣ
-browser-layout-vertical-tabs-desc = Намоиш дар паҳлуи браузер, дар навори ҷонибӣ
-browser-layout-show-sidebar =
-    .label = Намоиш додани навори ҷонибӣ
-browser-layout-show-sidebar-desc = Аз саҳифаи асосии худ нарафта, ба хатбаракҳо, варақаҳо дар телефони худ, чат-боти зеҳни сунъӣ «AI» ва имкониятҳои дигар зуд дастрасӣ пайдо намоед.
 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Забон ва намуди зоҳирӣ
-preferences-web-appearance-header = Намуди зоҳирии сомона
-preferences-web-appearance-description = Баъзе сомонаҳо нақшаи рангҳои худро дар асоси бартариҳо шумо мутобиқ мекунанд. Интихоб кунед, ки шумо кадом нақшаи рангро барои он сомонаҳо истифода бурдан мехоҳед.
 preferences-web-appearance-choice-light2 =
     .label = Равшан
     .title = Намуди зоҳирии равшанро барои заминаҳо ва муҳтавои сомонаҳо истифода баред.
@@ -353,21 +274,6 @@ preferences-web-appearance-choice-dark2 =
     .title = Намуди зоҳирии торикро барои заминаҳо ва муҳтавои сомонаҳо истифода баред.
 web-appearance-group =
     .aria-label = Намуди зоҳирии сомона
-preferences-web-appearance-choice-auto = Худкор
-preferences-web-appearance-choice-light = Равшан
-preferences-web-appearance-choice-dark = Торик
-preferences-web-appearance-choice-tooltip-auto =
-    .title = Заминаҳо ва муҳтавои сомонаҳо дар асоси танзимоти низоми шумо ва мавзуи «{ -brand-short-name }» ба таври худкор танзим карда мешаванд.
-preferences-web-appearance-choice-tooltip-light =
-    .title = Намуди зоҳирии равшанро барои заминаҳо ва муҳтавои сомонаҳо истифода баред.
-preferences-web-appearance-choice-tooltip-dark =
-    .title = Намуди зоҳирии торикро барои заминаҳо ва муҳтавои сомонаҳо истифода баред.
-preferences-web-appearance-choice-input-auto =
-    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
-preferences-web-appearance-choice-input-light =
-    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
-preferences-web-appearance-choice-input-dark =
-    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning3 =
@@ -379,14 +285,6 @@ preferences-contrast-control-group =
     .label = Тазоди рангҳои сомона
 preferences-contrast-control-radio-group =
     .label = Аз нав татбиқ кардани рангҳо
-# This can appear when using windows HCM or "Override colors: always" without
-# system colors.
-preferences-web-appearance-override-warning = Интихоби нақшаи ранги шумо ба намуди зоҳирии сомонаҳо татбиқ мешавад. <a data-l10n-name="colors-link">Рангҳоро идора кунед</a>
-# This message contains one link. It can be moved within the sentence as needed
-# to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = Мавзуъҳои «{ -brand-short-name }»-ро дар бахши <a data-l10n-name="themes-link">Васеъшавиҳо ва мавзуъҳо</a> идора кунед
-preferences-contrast-control-header = Идоракунии тазоди рангҳо
-preferences-contrast-control-description = Сомонаҳо дорои рангҳои гуногун барои пешзамина ва пасзамина мебошанд. Браузери «{ -brand-short-name }»-ро барои истифодаи рангҳои яксон байни сомонаҳо ба самти хонданбоби такмилёфта танзим намоед.
 preferences-contrast-control-use-platform-settings =
     .label = Худкор (истифода аз танзимоти низом)
     .accesskey = Х
@@ -399,27 +297,13 @@ preferences-contrast-control-custom =
 preferences-colors-manage-button2 =
     .label = Идоракунии рангҳо
     .accesskey = И
-preferences-colors-header = Рангҳо
-preferences-colors-description = Рангҳои пешфарзи «{ -brand-short-name }»-ро барои матн, заминаҳои сомонаҳо ва пайвандҳо иваз намоед.
 preferences-colors-manage-button =
     .label = Идоракунии рангҳо…
     .accesskey = И
 preferences-fonts-header2 =
     .label = Ҳуруф
-preferences-fonts-header = Ҳуруф
-default-font = Шрифти пешфарз
-    .accesskey = Ш
-default-font-size = Андоза
-    .accesskey = А
-advanced-fonts =
-    .label = Иловагӣ…
-    .accesskey = И
 preferences-default-zoom-label =
     .label = Андозаи пешфарз
-    .accesskey = А
-# Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = Танзими андоза
-preferences-default-zoom = Андозаи пешфарз
     .accesskey = А
 # Variables:
 #   $percentage (number) - Zoom percentage value
@@ -428,8 +312,6 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Танҳо калон кардани андозаи матн
     .accesskey = К
-preferences-text-zoom-override-warning =
-    .message = Огоҳӣ: Агар шумо «Танҳо калон кардани андозаи матн»-ро интихоб кунед ва андозаи пешфарзи шумо ба 100% муқаррар карда нашудааст, он метавонад боиси вайрон шудани баъзе сомонаҳо ва муҳтаво гардад.
 language-header = Забон
 choose-language-description = Забони дилхоҳатонро барои намоиши саҳифаҳо интихоб намоед
 website-language-heading =
@@ -465,13 +347,7 @@ confirm-browser-language-change-description = Барои татбиқ карда
 confirm-browser-language-change-button = Татбиқ ва аз нав оғоз кардан
 browser-language-install-error =
     .message = «{ -brand-short-name }» ҳоло забонҳои шуморо нав карда наметавонад. Пайваст будани интернетро санҷед ё аз нав кӯшиш кунед.
-translate-web-pages =
-    .label = Тарҷума кардани муҳтавои сомона
-    .accesskey = Т
 fx-translate-web-pages = { -translations-brand-name }
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = Тарҷумаҳо аз ҷониби <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Истисноҳо…
     .accesskey = И
@@ -556,23 +432,6 @@ download-save-files-header =
     .label = Нигоҳ доштани файлҳо ба
 download-save-where-3 =
     .aria-label = Нигоҳ доштани файлҳо ба
-download-header = Боргириҳо
-download-save-where = Нигоҳ доштани файлҳо ба
-    .accesskey = Н
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Интихоб кардан…
-           *[other] Кушодан…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] И
-           *[other] К
-        }
-download-always-ask-where =
-    .label = Ҳамеша аз шумо пурсида мешавад, ки файлҳо дар куҷо нигоҳ дошта мешаванд
-    .accesskey = Ҳ
 applications-header = Барномаҳо
 applications-description = Интихоб кунед, ки чӣ тавр браузери «{ -brand-short-name }» файлҳоеро, ки шумо аз сомонаҳо боргирӣ мекунед коркард менамояд ё барномаҳоеро, ки шумо ҳангоми тамошобинӣ истифода мебаред ба кор медарорад.
 applications-filter =
@@ -620,10 +479,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
-# Variables:
-#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Истифодаи «{ $plugin-name }» (дар «{ -brand-short-name }»)
 applications-open-inapp =
     .label = Кушодан дар «{ -brand-short-name }»
 
@@ -631,8 +486,6 @@ applications-open-inapp =
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -659,44 +512,21 @@ applications-ask-before-handling =
     .accesskey = Н
 drm-group =
     .label = Муҳтавои дорои низоми идоракунии ҳуқуқҳои рақамӣ (DRM)
-drm-content-header = Муҳтавои дорои низоми идоракунии ҳуқуқҳои рақамӣ (DRM)
 play-drm-content =
     .label = Пахш кардани муҳтавои идорашавандаи DRM
     .accesskey = П
 play-drm-content-learn-more = Маълумоти бештар
-update-application-title = Навсозиҳои «{ -brand-short-name }»
-update-application-description = «{ -brand-short-name }»-ро барои беҳтарин кори самаранок, устуворӣ ва амният ҳамеша навсозӣ кунед.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Версияи { $version } <a data-l10n-name="learn-more">Чӣ нав аст</a>
 update-history-2 =
     .label = Намоиши таърихи навсозиҳо
     .accesskey = Н
-update-history =
-    .label = Намоиши таърихи навсозиҳо…
-    .accesskey = Н
-update-application-allow-description = «{ -brand-short-name }» ба амалҳои зерин иҷозат медиҳад
-update-application-auto =
-    .label = Ба таври худкор насб кардани навсозиҳо (тавсия дода мешавад)
-    .accesskey = Б
-update-application-check-choose =
-    .label = Навсозиҳоро тафтиш кунед, аммо барои насб кардани онҳо иҷозат диҳед.
-    .accesskey = Н
-update-application-manual =
-    .label = Ҳеҷ гоҳ навсозиро тафтиш накунед (тавсия дода намешавад)
-    .accesskey = Ҳ
 update-application-background-enabled =
     .label = Вақте ки «{ -brand-short-name }» кор намекунад
     .accesskey = В
 update-application-warning-cross-user-setting-2 =
     .message = Ин танзимот ба ҳамаи ҳисобҳои «Windows» ва профилҳои «{ -brand-short-name }» бо истифодаи насби ҷории «{ -brand-short-name }» татбиқ карда мешавад.
-update-application-warning-cross-user-setting = Ин танзимот ба ҳамаи ҳисобҳои «Windows» ва профилҳои «{ -brand-short-name }» бо истифодаи насби ҷории «{ -brand-short-name }» татбиқ карда мешавад.
-update-application-use-service =
-    .label = Истифодаи хизмати заминаӣ барои насб кардани навсозиҳо
-    .accesskey = И
-update-application-suppress-prompts =
-    .label = Камтар нишон додани ёдовариҳои огоҳии навсозӣ
-    .accesskey = К
 update-setting-write-failure-title2 = Ҳангоми нигоҳ доштани танзимоти навсозӣ хато ба миён омад
 # Variables:
 #   $path (string) - Path to the configuration file
@@ -729,11 +559,6 @@ support-share-ideas =
 
 ## General Section - Performance
 
-performance-title = Самаранокӣ
-performance-use-recommended-settings-checkbox =
-    .label = Истифодаи танзимоти самаранокии тавсияшуда
-    .accesskey = И
-performance-use-recommended-settings-desc = Ин танзимот ба сахтафзори компютер ва низоми амалкунандаи шумо мувофиқат мекунад.
 performance-settings-learn-more = Маълумоти бештар
 performance-allow-hw-accel =
     .label = Суръатафзоии сахтафзор ба қадри имкон истифода карда шавад
@@ -751,9 +576,6 @@ performance-group =
 
 ## Accessibility page
 
-browsing-title = Тамошобинӣ
-browsing-group-label =
-    .aria-label = Тамошобинӣ
 browsing-use-autoscroll =
     .label = Истифодаи варақзании худкор
     .accesskey = И
@@ -778,24 +600,18 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Ҷустуҷӯи матн ҳангоми воридкунии калимаҳо
     .accesskey = Ҷ
-browsing-picture-in-picture-toggle-enabled =
-    .label = Фаъол кардани унсурҳои идоракунии видеои расм-дар-расм
-    .accesskey = Ф
 browsing-picture-in-picture-enable-when-switching-tabs =
     .label = Идома додани пахши видеоҳо дар реҷаи «Расм-дар-расм» ҳангоми гузариш байни варақаҳо
     .accesskey = И
-browsing-picture-in-picture-learn-more = Маълумоти бештар
 browsing-media-control =
     .label = Идора кардани медиа тавассути клавиатура, гӯшмонак ё интерфейси маҷозӣ
     .accesskey = И
-browsing-media-control-learn-more = Маълумоти бештар
 browsing-cfr-recommendations =
     .label = Тавсия додани васеъшавиҳо ҳангоми тамошобинӣ
     .accesskey = Т
 browsing-cfr-features =
     .label = Тавсия додани хусусиятҳо ҳангоми тамошобинӣ
     .accesskey = Т
-browsing-cfr-recommendations-learn-more = Маълумоти бештар
 browsing-group =
     .label = Тамошобинӣ
 preferences-accessibility-header =
@@ -807,15 +623,6 @@ preferences-fonts-size =
     .accesskey = А
 preferences-fonts-advanced-settings =
     .label = Танзимоти иловагӣ
-    .accesskey = Т
-
-## General Section - Proxy
-
-network-settings-title = Танзимоти шабака
-network-proxy-connection-description = Танзими тарзи пайвастшавии «{ -brand-short-name }» ба Интернет.
-network-proxy-connection-learn-more = Маълумоти бештар
-network-proxy-connection-settings =
-    .label = Танзимот…
     .accesskey = Т
 
 ## Home Section
@@ -921,9 +728,6 @@ home-prefs-shortcuts-header =
 home-prefs-shortcuts-description = Сомонаҳое, ки шумо нигоҳ медоред ё ба онҳо ворид мешавед
 home-prefs-shortcuts-by-option-sponsored =
     .label = Миёнбурҳои сарпарастӣ
-home-prefs-recommended-by-header =
-    .label = Аз тарафи { $provider } тавсия дода мешавад
-home-prefs-recommended-by-description-new = Муҳтавои мустасно аз тарафи { $provider } интихоб карда шудааст ва қисми оилаи { -brand-product-name } мебошад
 home-prefs-recommended-by-header-generic =
     .label = Ҳикояҳои тавсияшуда
 home-prefs-recommended-by-description-generic = Муҳтавои мустасно аз тарафи оилаи «{ -brand-product-name }» дастгирӣ карда мешавад
@@ -936,26 +740,15 @@ home-prefs-stories-description = Ҳикояҳои фардӣ дар асоси �
 home-prefs-recommended-by-learn-more = Чӣ тавр кор мекунад
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Мақолаҳои сарпарастӣ
-home-prefs-recommended-by-option-recent-saves =
-    .label = Намоиш додани маводҳои охирин
 home-prefs-highlights-option-visited-pages =
     .label = Саҳифаҳои кушодашуда
 home-prefs-highlights-options-bookmarks =
     .label = Хатбаракҳо
 home-prefs-highlights-option-most-recent-download =
     .label = Боргириҳои охирин
-home-prefs-highlights-option-saved-to-pocket =
-    .label = Саҳифаҳое, ки ба { -pocket-brand-name } нигоҳ дошта шудаанд
 home-prefs-recent-activity-header =
     .label = Фаъолияти охирин
 home-prefs-recent-activity-description = Интихоби сомонаҳо ва муҳтавои охирин
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = Ёддоштҳо
-home-prefs-snippets-description-new = Маслиҳатҳо ва ахбор аз { -vendor-short-name } ва { -brand-product-name }
 home-prefs-weather-header =
     .label = Обу ҳаво
 home-prefs-weather-description = Ҳолати обу ҳаво барои имрӯз
@@ -978,22 +771,6 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = Навори ҷустуҷӯ
-search-bar-hidden =
-    .label = Истифодаи навори нишонӣ барои ҷустуҷӯ ва паймоиш
-search-bar-shown =
-    .label = Илова кардани навори ҷустуҷӯ ба навори абзорҳо
-search-engine-default-header = Низоми ҷустуҷӯии пешфарз
-search-engine-default-desc-2 = Ин низоми ҷустуҷӯии пешфарзи шумо мебошад, ки дар навори нишонӣ ва навори ҷустуҷӯ истифода мешавад. Шумо метавонед онро дар вақти дилхоҳ иваз намоед.
-search-engine-default-private-desc-2 = Низоми ҷустуҷӯии пешфарзи дигареро танҳо барои равзанаҳои хусусӣ интихоб намоед
-search-separate-default-engine =
-    .label = Истифодаи ин низоми ҷустуҷӯӣ дар равзанаҳои хусусӣ
-    .accesskey = И
-search-suggestions-header = Пешниҳодҳои ҷустуҷӯ
-search-suggestions-desc = Интихоб кунед, ки чӣ тавр пешниҳодҳо аз низомҳои ҷустуҷӯӣ пайдо мешаванд.
-search-suggestions-option =
-    .label = Намоиш додани пешниҳодҳои ҷустуҷӯ
-    .accesskey = Н
 search-show-suggestions-option =
     .label = Намоиш додани пешниҳодҳои ҷустуҷӯ
     .accesskey = Н
@@ -1029,22 +806,6 @@ search-separate-default-engine-dropdown =
     .aria-label = Низоми ҷустуҷӯии пешфарз дар равзанаҳои махфӣ
 search-suggestions-header-2 =
     .label = Пешниҳодҳои низоми ҷустуҷӯӣ
-# With this option enabled, on the search results page
-# the URL will be replaced by the search terms in the address bar
-# when using the current default search engine.
-search-show-search-term-option =
-    .label = Намоиш додани вожаҳои ҷустуҷӯӣ ба ивази нишониҳои URL дар саҳифаи натиҷаҳои низоми ҷустуҷӯии пешфарз
-# This string describes what the user will observe when the system
-# prioritizes search suggestions over browsing history in the results
-# that extend down from the address bar. In the original English string,
-# "ahead" refers to location (appearing most proximate to), not time
-# (appearing before).
-search-show-suggestions-above-history-option =
-    .label = Намоиш додани пешниҳодҳои ҷустуҷӯ дар натиҷаҳо пеш аз таърихи тамошобинӣ ҳангоми истифодаи навори нишонӣ.
-search-show-suggestions-private-windows =
-    .label = Намоиш додани пешниҳодҳои ҷустуҷӯ дар равзанаҳои хусусӣ
-suggestions-addressbar-settings-generic2 = Иваз кардани танзимот барои пешниҳодҳои дигар дар навори нишонӣ
-search-suggestions-cant-show = Пешниҳодҳои ҷустуҷӯ дар натиҷаҳои навори ҷойгиршавӣ намоиш дода намешаванд, зеро ки шумо «{ -brand-short-name }»-ро танзим кардед, то таърих ҳеҷ гоҳ дар хотир нигоҳ дошта нашавад.
 search-one-click-header2 = Миёнбурҳои низомҳои ҷустуҷӯӣ
 search-one-click-desc = Низомҳои ҷустуҷӯии иловагиеро интихоб намоед, ки ҳангоми воридкунии калимаи калидӣ дар зери навори нишонӣ ва навори ҷустуҷӯ пайдо мешаванд.
 search-edit-engine-2 =
@@ -1096,19 +857,6 @@ search-section =
 
 ## Containers Section
 
-containers-back-button2 =
-    .aria-label = Бозгашт ба Танзимот
-containers-header = Варақаҳои дарбаргиранда
-containers-add-button =
-    .label = Илова кардани дарбаргирандаи нав
-    .accesskey = И
-containers-new-tab-check =
-    .label = Интихоб кардани дарбаргиранда барои ҳар як варақаи нав
-    .accesskey = И
-containers-settings-button =
-    .label = Танзимот
-containers-remove-button =
-    .label = Тоза кардан
 containers-settings-button2 =
     .title = Танзимот
 containers-remove-button2 =
@@ -1151,8 +899,6 @@ sync-mobile-promo = «Firefox»-ро барои <img data-l10n-name="android-ico
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = Иваз кардани расми профил
 sync-profile-picture-with-alt =
     .alt = Иваз кардани расми профил
     .tooltiptext = Иваз кардани расми профил
@@ -1192,9 +938,6 @@ sync-account-signed-in-display-name =
 
 ##
 
-sync-resend-verification =
-    .label = Аз нав фиристодани тасдиқ
-    .accesskey = А
 sync-verify-account =
     .label = Тасдиқ кардани ҳисоб
     .accesskey = Т
@@ -1221,10 +964,6 @@ prefs-sync-turn-on-syncing-2 =
     .label = Фаъол кардани ҳамоҳангсозӣ
     .accesskey = Ф
 prefs-sync-offer-setup-label2 = Хатбаракҳо, таърих, варақаҳо, ниҳонвожаҳо, ҷузъҳои иловагӣ ва танзимоти худро дар ҳамаи дастгоҳҳои худ ҳамоҳанг созед.
-prefs-sync-now =
-    .labelnotsyncing = Ҳозир ҳамоҳанг кунед
-    .labelsyncing = Ҳамоҳангсозӣ…
-    .accesskeynotsyncing = Ҳ
 prefs-sync-now-button =
     .label = Ҳозир ҳамоҳанг кунед
     .accesskey = Ҳ
@@ -1244,10 +983,8 @@ sync-syncing-across-devices-heading-2 = Маълумоти ҳамоҳангшу�
 sync-currently-syncing-bookmarks = Хатбаракҳо
 sync-currently-syncing-history = Таърих
 sync-currently-syncing-tabs = Варақаҳои кушодашуда
-sync-currently-syncing-logins-passwords = Воридшавиҳо ва ниҳонвожаҳо
 sync-currently-syncing-passwords = Ниҳонвожаҳо
 sync-currently-syncing-addresses = Нишониҳо
-sync-currently-syncing-creditcards = Кортҳои кредитӣ
 sync-currently-syncing-payment-methods = Тарзҳои пардохт
 sync-currently-syncing-addons = Ҷузъҳои иловагӣ
 sync-currently-syncing-settings = Танзимот
@@ -1259,20 +996,9 @@ sync-manage-options-2 =
     .accesskey = И
 settings-sync-disconnect-button =
     .label = Қатъ кардани пайваст
-sync-change-options =
-    .label = Тағйир додан…
-    .accesskey = Т
 
 ## The "Choose what to sync" dialog.
 
-sync-choose-what-to-sync-dialog3 =
-    .buttonlabelaccept = Нигоҳ доштани тағйирот
-    .buttonlabelextra2 = Қатъ кардани пайваст…
-    .buttonaccesskeyaccept = Н
-    .buttonaccesskeyextra2 = П
-    .style = min-width: 36em;
-    .title = Интихоб кунед, ки чӣ ҳамоҳанг карда мешавад
-sync-choose-dialog-subtitle = Тағйирот дар рӯйхати унсурҳои ҳамоҳангсозӣ ба ҳамаи дастгоҳҳои пайвастшудаи шумо ворид карда мешавад.
 sync-engine-bookmarks =
     .label = Хатбаракҳо
     .accesskey = Х
@@ -1283,10 +1009,6 @@ sync-engine-tabs =
     .label = Варақаҳои кушодашуда
     .tooltiptext = Рӯйхати маводи кушодашуда дар ҳамаи дастгоҳҳои ҳамоҳангшуда
     .accesskey = В
-sync-engine-logins-passwords =
-    .label = Воридшавиҳо ва ниҳонвожаҳо
-    .tooltiptext = Воридшавиҳо ва ниҳонвожаҳое, ки шумо нигоҳ дошта бошед
-    .accesskey = В
 sync-engine-passwords =
     .label = Ниҳонвожаҳо
     .tooltiptext = Ниҳонвожаҳое, ки шумо нигоҳ доштед
@@ -1295,10 +1017,6 @@ sync-engine-addresses =
     .label = Нишониҳо
     .tooltiptext = Нишониҳои почтае, ки нигоҳ дошта шуданд (танҳо мизи корӣ)
     .accesskey = Н
-sync-engine-creditcards =
-    .label = Кортҳои кредитӣ
-    .tooltiptext = Номҳо, рақамҳо ва санаҳои анҷоми муҳлат (танҳо барои мизи корӣ)
-    .accesskey = К
 sync-engine-payment-methods2 =
     .label = Тарзҳои пардохт
     .tooltiptext = Номҳо, рақамҳои корт ва санаҳои анҷоми муҳлат
@@ -1345,29 +1063,9 @@ sync-connect-another-device = Пайваст кардани дастгоҳи д�
 sync-connect-another-device-2 =
     .label = Пайваст кардани дастгоҳи дигар
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-sync-verification-sent-title = Паёми тасдиқӣ фиристода шуд
-# Variables:
-#   $email (String): Email address of user's Firefox account.
-sync-verification-sent-body = Пайванди тасдиқӣ ба { $email } фиристода шуд.
-sync-verification-not-sent-title = Паёми тасдиқӣ фиристода намешавад
-sync-verification-not-sent-body = Дар айни ҳол, мо паёми тасдиқиро фиристода наметавонем, лутфан, дертар аз нав кӯшиш кунед.
-
 ## Privacy Section
 
 privacy-header = Махфияти тамошобинӣ
-
-## Privacy Section - Logins and Passwords
-
-# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = Воридшавиҳо ва ниҳонвожаҳо
-    .searchkeywords = { -lockwise-brand-short-name }
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = Пурсидани имкони нигоҳ доштани воридшавиҳо ва ниҳонвожаҳо барои сомонаҳо
-    .accesskey = П
 
 ## Privacy Panel Settings
 
@@ -1388,9 +1086,6 @@ forms-manage-password-exceptions =
 forms-exceptions =
     .label = Истисноҳо…
     .accesskey = И
-forms-generate-passwords =
-    .label = Пешниҳод ва эҷод кардани ниҳонвожаҳои қавӣ
-    .accesskey = П
 forms-suggest-passwords =
     .label = Пешниҳод кардани ниҳонвожаҳои боқувват
     .accesskey = ш
@@ -1398,19 +1093,10 @@ forms-breach-alerts =
     .label = Намоиш додани огоҳиҳо оид ба ниҳонвожаҳо барои сомонаҳои вайронкардашуда
     .accesskey = Н
 forms-breach-alerts-learn-more-link = Маълумоти бештар
-preferences-relay-integration-checkbox =
-    .label = Барои муҳофизат кардани нишонии почтаи электронии шумо, ниқобҳои муҳофизатии почтаи электронии { -relay-brand-name } пешниҳод карда мешаванд
 preferences-relay-integration-checkbox2 =
     .label = Барои муҳофизат кардани нишонии почтаи электронии шумо, ниқобҳои муҳофизатии почтаи электронии { -relay-brand-name } пешниҳод карда мешаванд
     .accesskey = а
 relay-integration-learn-more-link = Маълумоти бештар
-# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
-forms-fill-logins-and-passwords =
-    .label = Ба таври худкор пур кардани воридшавиҳо ва ниҳонвожаҳо
-    .accesskey = Б
-forms-saved-logins =
-    .label = Воридшавиҳои нигоҳдошташуда…
-    .accesskey = В
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-usernames-and-passwords =
     .label = Ба таври худкор пур кардани номҳои корбар ва ниҳонвожаҳо
@@ -1491,20 +1177,6 @@ autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
-pane-privacy-autofill-header = Пуркунии худкор
-autofill-addresses-checkbox = Нигоҳ доштан ва пур кардани нишониҳо
-    .accesskey = г
-autofill-saved-addresses-button = Нишониҳои нигоҳдошташуда
-    .accesskey = и
-autofill-payment-methods-checkbox-message = Нигоҳ доштан ва пур кардани тарзҳои пардохт
-    .accesskey = г
-autofill-payment-methods-checkbox-submessage = Дар бар гирифтани кортҳои пардохтӣ ва қарзӣ
-    .accesskey = б
-autofill-saved-payment-methods-button = Тарзҳои пардохти нигоҳдошташуда
-    .accesskey = р
-# This operation requires the user to authenticate with the operating system (device sign-in)
-autofill-reauth-payment-methods-checkbox = Дархости воридшавӣ дар дастгоҳ барои пур кардан ва идора намудани тарзҳои пардохт
-    .accesskey = Д
 autofill-payment-methods-header =
     .aria-label = Тарзҳои пардохт
 autofill-payment-methods-checkbox-message-2 =
@@ -1574,24 +1246,6 @@ payments-group =
 
 ## Privacy Section - History
 
-history-header = Таърих
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name }
-    .accesskey = w
-history-remember-option-all =
-    .label = Таърих дар хотир дошта шавад
-history-remember-option-never =
-    .label = Таърих ҳеҷ гоҳ дар хотир нигоҳ дошта нашавад
-history-remember-option-custom =
-    .label = Истифодаи танзимоти фармоишӣ барои таърих
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = Браузери «{ -brand-short-name }» таърихи тамошобинӣ, боргирӣ, шаклҳо ва ҷустуҷӯи шуморо дар хотир медорад.
@@ -1601,8 +1255,6 @@ history-dontremember-description4 =
 history-custom-description4 =
     .aria-label = { history-group.label }
     .description = «{ -brand-short-name }» барои тамошобинӣ, боргирӣ, шаклҳо ва таърихи ҷустуҷӯи шумо аз танзимоти фармоишии шумо истифода мебарад.
-history-remember-description = Браузери «{ -brand-short-name }» таърихи тамошобинӣ, боргирӣ, шаклҳо ва ҷустуҷӯи шуморо дар хотир медорад.
-history-dontremember-description = «{ -brand-short-name }» танзимоти реҷаи тамошобинии хусусиро истифода мебарад ва ягон таърихи шуморо ҳангоми тамошобинии сомонаҳо дар хотир намедорад.
 history-private-browsing-permanent =
     .label = Ҳамеша истифода кардани реҷаи тамошобинии хусусӣ
     .accesskey = Ҳ
@@ -1632,38 +1284,16 @@ history-remember-option-all2 =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Кукиҳо ва иттилооти сомона
 sitedata-total-size-calculating = Ҳисобкунии ҳаҷми маълумоти сомона ва андозаи зерҳофиза…
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Айни замон кукиҳои нигоҳдошташуда, маълумоти сомона ва зерҳофиза { $value } { $unit } фазои дискро истифода мебаранд.
 sitedata-learn-more = Маълумоти бештар
-sitedata-delete-on-close =
-    .label = Нест кардани кукиҳо ва маълумоти сомона ҳангоми пӯшидани браузери «{ -brand-short-name }»
-    .accesskey = Н
 sitedata-delete-on-close-private-browsing3 =
     .message = Дар асоси танзимоти таърихи шумо, «{ -brand-short-name }» ҳангоми пӯшидани браузер кукиҳо ва маълумоти сомонаро аз ҷаласаи шумо нест мекунад.
-sitedata-delete-on-close-private-browsing = Дар реҷаи тамошобинии хусусии доимӣ, кукиҳо ва маълумоти сомона ҳангоми пӯшидани «{ -brand-short-name }» ҳамеша пок карда мешаванд.
-sitedata-delete-on-close-private-browsing2 = Дар асоси танзимоти таърихи шумо, «{ -brand-short-name }» ҳангоми пӯшидани браузер кукиҳо ва маълумоти сомонаро аз ҷаласаи шумо нест мекунад.
-sitedata-allow-cookies-option =
-    .label = Қабул кардани кукиҳо ва иттилооти сомона
-    .accesskey = Қ
-sitedata-disallow-cookies-option =
-    .label = Манъ кардани кукиҳо ва иттилооти сомона
-    .accesskey = М
-# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
-# The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = Навъи муҳтавои манъшуда
-    .accesskey = Н
 sitedata-option-block-cross-site-trackers =
     .label = Васоити пайгирии байнисомонавӣ
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Кукиҳои васоити пайгирӣ байни сомонаҳо
 sitedata-option-block-cross-site-cookies2 =
     .label = Ҷудо кардани кукиҳои байнисомонавӣ
-sitedata-option-block-cross-site-cookies =
-    .label = Кукиҳои пайгирикунандаи байнисомонавӣ, бо дарназардошти манъкунии кукиҳои байнисомонавии дигар
 sitedata-option-block-unvisited =
     .label = Кукиҳо аз сомонаҳои боздиднашуда
 sitedata-option-block-all-cross-site-cookies =
@@ -1676,12 +1306,6 @@ sitedata-clear2 =
 sitedata-settings2 =
     .label = Идора кардани маълумоти тамошобинӣ
     .accesskey = И
-sitedata-clear =
-    .label = Пок кардани маълумот…
-    .accesskey = П
-sitedata-settings =
-    .label = Идора кардани маълумот…
-    .accesskey = И
 sitedata-cookies-exceptions =
     .label = Идоракунии истисноҳо…
     .accesskey = И
@@ -1692,32 +1316,16 @@ sitedata-cookies-exceptions2 =
 cookies-site-data-group =
     .label = Кукиҳо ва иттилооти сомона
 
-## Privacy Section - Cookie Banner Handling
-
-cookie-banner-handling-header = Маҳдудкунии баннери куки
-cookie-banner-handling-description = «{ -brand-short-name }» ба таври худкор кӯшиш мекунад, ки ҳамаи дархостҳои кукиҳоро аз баннерҳои куки дар сомонаҳои дастгиришаванда рад кунад.
-
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Манъкунандаи баннери куки
 cookie-banner-blocker-description = Вақте ки сомона мепурсад, агар он тавонад дар Реҷаи «Тамошобинии хусусӣ» аз кукиҳо истифода барад, «{ -brand-short-name }» аз ҷониби шумо ин имкони сомонаро ба таври худкор рад мекунад. Танҳо дар сомонаҳое, ки дастгирӣ карда мешаванд.
 cookie-banner-learn-more = Маълумоти бештар
-forms-handle-cookie-banners =
-    .label = Маҳдуд кардани баннерҳои куки
 cookie-banner-blocker-checkbox-label =
     .label = Баннерҳои кукиро ба таври худкор рад намоед
 
 ## Search Section
 
-addressbar-header = Навори нишонӣ
-addressbar-suggest = Ҳангоми истифодаи навори нишонӣ, имконоти зерин пешниҳод карда мешавад
-# When Firefox Suggest is enabled, this replaces `addressbar-header`.
-addressbar-header-firefox-suggest = Навори нишонӣ — { -firefox-suggest-brand-name }
-# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
-addressbar-suggest-firefox-suggest = Навъи пешниҳодҳоеро, ки дар навори нишонӣ пайдо мешаванд, интихоб намоед.
-# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
-# `addressbar-suggest-firefox-suggest`.
-addressbar-locbar-firefox-suggest-learn-more = Маълумоти бештар
 addressbar-locbar-history-option =
     .label = Таърихи тамошо
     .accesskey = Т
@@ -1740,9 +1348,6 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option-1 =
     .label = Барои истифода аз низомҳои ҷустуҷӯӣ пешниҳод кунед
     .accesskey = Б
-addressbar-locbar-engines-option =
-    .label = Низомҳои ҷустуҷӯӣ
-    .accesskey = Н
 addressbar-locbar-quickactions-option =
     .label = Амалҳои зуд
     .accesskey = А
@@ -1759,20 +1364,6 @@ addressbar-locbar-suggest-all-option-2 =
 addressbar-locbar-suggest-sponsored-option-2 =
     .description = Дастгирӣ кардани «{ -brand-short-name }» бо пешниҳодҳои тасодуфӣ аз сарпарастон
     .label = Пешниҳодҳо аз сарпарастон
-addressbar-suggestions-settings = Иваз кардани хусусиятҳо барои пешниҳодҳои низоми ҷустуҷӯӣ
-addressbar-locbar-showrecentsearches-option =
-    .label = Намоиш додани ҷустуҷӯҳои охирин
-    .accesskey = Н
-addressbar-locbar-showtrendingsuggestions-option =
-    .label = Намоиши пешниҳодҳои ҷустуҷӯи ҳавасангез
-    .accesskey = Н
-# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
-addressbar-locbar-suggest-nonsponsored-option =
-    .label = Пешниҳодҳо аз «{ -brand-short-name }»
-addressbar-locbar-suggest-nonsponsored-desc = Гирифтани пешниҳодҳо аз Интернет дар асоси ҷустуҷӯи шумо.
-addressbar-locbar-suggest-sponsored-option =
-    .label = Пешниҳодҳо аз сарпарастон
-addressbar-locbar-suggest-sponsored-desc = Дастгирӣ кардани «{ -brand-short-name }» бо пешниҳодҳои тасодуфӣ аз сарпарастон
 # This string is used for a checkbox in the settings UI that opts the
 # user into "online" Firefox Suggest, allowing them to receive suggestions from
 # Mozilla's Merino server.
@@ -1786,11 +1377,6 @@ addressbar-dismissed-suggestions-label-2 =
     .label = Пешниҳодҳои пинҳоншуда
 addressbar-restore-dismissed-suggestions-button-2 =
     .label = Барқарор кардани пешниҳодҳо
-addressbar-quickactions-learn-more = Маълумоти бештар
-addressbar-dismissed-suggestions-label = Пешниҳодҳои пинҳоншуда
-addressbar-restore-dismissed-suggestions-description = Барқарор кардани пешниҳодҳои пинҳоншуда аз сарпарастон ва «{ -brand-short-name }».
-addressbar-restore-dismissed-suggestions-button =
-    .label = Барқарор кардан
 
 ## Privacy Section - Content Blocking
 
@@ -1828,7 +1414,6 @@ content-blocking-cross-site-cookies-in-all-windows2 = Кукиҳои байни�
 content-blocking-cross-site-tracking-cookies = Кукиҳои васоити пайгирӣ байни сомонаҳо
 content-blocking-all-cross-site-cookies-private-windows = Кукиҳои байнисомонавӣ дар равзанаҳои хусусӣ
 content-blocking-isolate-cross-site-cookies = Ҷудо кардани кукиҳои байнисомонавӣ
-content-blocking-cross-site-tracking-cookies-plus-isolate = Кукиҳои пайгирикунандаи байнисомонавӣ, бо дарназардошти манъкунии кукиҳои дигар
 content-blocking-social-media-trackers = Васоити пайгирии шабакаҳои иҷтимоӣ
 content-blocking-all-cookies = Ҳамаи кукиҳо
 content-blocking-unvisited-cookies = Кукиҳо аз сомонаҳои боқимонда
@@ -1844,12 +1429,10 @@ content-blocking-known-and-suspected-fingerprinters = Хонандаи нақш�
 content-blocking-etp-standard-tcp-rollout-description = «Муҳофизати пурра аз кукиҳо» ҳамаи кукиҳоро аз сомонаи ҷорие, ки шумо тамошо карда истодаед, нигоҳ медорад, то ки васоити пайгирӣ шуморо байни сомонаҳо назорат карда натавонанд.
 content-blocking-etp-standard-tcp-rollout-learn-more = Маълумоти бештар
 content-blocking-etp-standard-tcp-title = «Муҳофизати пурра аз кукиҳо»-ро дар бар мегирад, ки хусусияти пурқувваттарини мо барои махфияти шумо мебошад
-content-blocking-warning-title = Диққат!
 content-blocking-warning-title-2 = Ҳангоми истифодаи муҳофизати ҷиддӣ аз пайгирӣ баъзе сомонаҳо метавонанд дуруст кор накунанд
 content-blocking-warning-title-custom = Ҳангоми истифодаи муҳофизати фармоишӣ аз пайгирӣ баъзе сомонаҳо метавонанд дуруст кор накунанд
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = Браузери «{ -brand-short-name }» барои кам кардани хусусиятҳо ва муҳтавои вайроншудаи сомона тавсия медиҳад, ки шумо аз «Ислоҳ кардани нуқсонҳои сомона» истифода баред. Агар ба назар расад, ки сомона ба таври дуруст кор намекунад, кӯшиш кунед, ки барои ин сомона «Муҳофизат аз пайгирӣ»-ро ғайрифаъол созед.то муҳтаво он ба таври комил бор карда шавад.
-content-blocking-and-isolating-etp-warning-description-2 = Ин танзим метавонад боиси он гардад, ки баъзеи сомонаҳо метавонанд муҳтаворо намоиш надиҳанд ё дуруст кор накунанд. Агар сомона ҳамчун вайроншуда ба назар расад, барои намоиш додани тамоми мавод шумо метавонед «муҳофизат аз пайгирӣ»-ро ғайрифаъол кунед.
 content-blocking-warning-learn-how = Бифаҳмед, ки чӣ тавр
 content-blocking-baseline-exceptions-3 =
     .description = Барои бор кардани сомонаҳо ва хусусиятҳо тавассути кушодани танҳо унсурҳои муҳимме, ки метавонанд васоити пайгириро дар бар гиранд, кумак мекунад. Мушкилиҳои асосиро фаро мегирад.
@@ -1875,7 +1458,6 @@ content-blocking-tracking-protection-option-all-windows =
 content-blocking-option-private =
     .label = Танҳо дар равзанаҳои хусусӣ
     .accesskey = Т
-content-blocking-tracking-protection-change-block-list = Тағйир додани рӯйхати манъкунӣ
 content-blocking-cookies-label =
     .label = Кукиҳо
     .accesskey = К
@@ -1885,11 +1467,6 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = Криптомайнерҳо
     .accesskey = К
-# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
-# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
-content-blocking-fingerprinters-label =
-    .label = Хонандаи нақши ангушт
-    .accesskey = Х
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 #
@@ -1911,62 +1488,16 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = Иҷозатҳо
-permissions-location = Ҷойгиршавӣ
-permissions-location-settings =
-    .label = Танзимот…
-    .accesskey = Т
-permissions-xr = Ҳақиқати виртуалӣ
-permissions-xr-settings =
-    .label = Танзимот…
-    .accesskey = Т
-permissions-camera = Камера
-permissions-camera-settings =
-    .label = Танзимот…
-    .accesskey = Т
-permissions-microphone = Микрофон
-permissions-microphone-settings =
-    .label = Танзимот…
-    .accesskey = Т
-# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
-permissions-speaker = Интихоби баландгӯяк
-permissions-speaker-settings =
-    .label = Танзимот…
-    .accesskey = Т
-permissions-notification = Огоҳномаҳо
-permissions-notification-settings =
-    .label = Танзимот…
-    .accesskey = Т
-permissions-notification-link = Маълумоти бештар
 permissions-notification-pause =
     .label = Таваққуф кардани огоҳиҳо то аз нав оғоз шудани «{ -brand-short-name }»
     .accesskey = Т
 permissions-autoplay2 =
     .label = Пахши худкор
-permissions-autoplay = Пахши худкор
-permissions-autoplay-settings =
-    .label = Танзимот…
-    .accesskey = Т
 permissions-block-popups2 =
     .label = Манъ кардани равзанаҳои зоҳиршаванда ва тағйири масир аз тарафҳои сеюм
     .accesskey = М
 permissions-addon-exceptions2 =
     .label = Интихоб кунед, ки кадом сомонаҳо метавонанд васеъшавиҳоро насб кунанд
-    .accesskey = И
-permissions-block-popups =
-    .label = Манъ кардани равзанаҳои зоҳиршаванда
-    .accesskey = М
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button =
-    .label = Истисноҳо…
-    .searchkeywords = равзанаҳои пайдошаванда
-    .accesskey = И
-permissions-addon-install-warning =
-    .label = Намоиш додани огоҳӣ ҳангоми кӯшиши насби ҷузъҳои иловагӣ аз тарафи сомонаҳо
-    .accesskey = Н
-permissions-addon-exceptions =
-    .label = Истисноҳо…
     .accesskey = И
 permissions-location2 =
     .label = Ҷойгиршавӣ
@@ -1990,41 +1521,9 @@ pane-permissions-data-title2 = Иҷозатҳо ва маълумот
 
 ## Privacy Section - Data Collection
 
-collection-header = Ҷамъоварӣ ва истифодаи маълумот аз ҷониби «{ -brand-short-name }»
-collection-header2 = Ҷамъоварӣ ва истифодабарии маълумоти «{ -brand-short-name }»
-    .searchkeywords = телеметрия
-preferences-collection-description = Мо cаъю кӯшиш мекунем, ки ба шумо имконияти интихобро таъмин намоем ва танҳо он маълумоти камтаринеро ҷамъ мекунем, ки барои беҳтар кардани «{ -brand-product-name }» барои ҳамаи мо лозим мешавад.
-preferences-collection-privacy-notice = Намоиш додани «Огоҳномаи махфият»
-preferences-across-profiles = Ин танзимот бар ҳар як профили «{ -brand-product-name }» дар ин дастгоҳ татбиқ карда мешавад.
-preferences-view-profiles = Намоиш додани ҳамаи профилҳо
-collection-description = Мо мекӯшем, ки ба шумо имконотро пешниҳод намоем ва танҳо он чизеро ҷамъ кунем, ки барои таъмин ва такмил додани «{ -brand-short-name }» барои ҳамаи мо лозим мебошад. Мо ҳамеша пеш аз гирифтани маълумоти шахсӣ иҷозат мепурсем.
-collection-privacy-notice = Огоҳномаи махфият
-collection-health-report-telemetry-disabled = Шумо дигар ба { -vendor-short-name } барои ҷамъ кардани маълумоти техникӣ ва ҳамкорӣ иҷозат намедиҳед. Ҳамаи маълумот дар ҳудуди 30 рӯзи охир нест карда мешавад.
-collection-health-report-telemetry-disabled-link = Маълумоти бештар
 addon-recommendations3 =
     .description = Барои беҳтар кардани таҷрибаи тамошобинии худ, тавсияҳои васеъшавиҳоро ба даст оред.
     .label = Иҷозат додан ба тавсияҳои шахсӣ барои васеъшавиҳо
-collection-usage-ping =
-    .label = Фиристодани пинги истифодабарии ҳаррӯза ба «{ -vendor-short-name }»
-    .accesskey = Ф
-collection-usage-ping-description = Ин ба «{ -vendor-short-name }» кумак мекунад, ки корбарони фаъолро ҳисоб кунад.
-collection-health-report2 =
-    .label = Фиристодани маълумоти техникӣ ва ҳамкорӣ ба «{ -vendor-short-name }»
-    .accesskey = Ф
-collection-health-report =
-    .label = Иҷозат додан ба «{ -brand-short-name }» барои фиристодани маълумоти техникӣ ва ҳамкорӣ ба «{ -vendor-short-name }»
-    .accesskey = r
-collection-health-report-link = Маълумоти бештар
-collection-health-report-description = Ин ба мо барои беҳтар кардани хусусиятҳо, самаранокӣ ва устувории браузери «{ -brand-product-name }» кумак мекунад.
-collection-studies2 =
-    .label = Насб ва иҷро кардани омӯзишҳо
-collection-studies-description = Хусусиятҳо ва ғояҳои моро пеш аз он ки онҳо дар версияи нав ба ҳамаи корбарон дастрас шаванд, озмоиш кунед.
-collection-studies =
-    .label = Иҷозат додан ба «{ -brand-short-name }» барои насб ва иҷро кардани таҳқиқот
-collection-studies-link = Дидани таҳқиқоти «{ -brand-short-name }»
-addon-recommendations2 =
-    .label = Иҷозат додан ба тавсияҳои шахсӣ барои васеъшавиҳо
-addon-recommendations-description = Барои беҳтар кардани таҷрибаи тамошобинии худ, тавсияҳои васеъшавиҳоро ба даст оред.
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = Гузоришдиҳии маълумот барои ин танзими сохт ғайрифаъол карда шуд.
@@ -2032,14 +1531,6 @@ collection-backlogged-crash-reports2 =
     .label = Ба таври худкор фиристодани гузоришҳо дар бораи вайронӣ
     .accesskey = Б
 collection-backlogged-crash-reports-description = Ин ба «{ -vendor-short-name }» барои ташхис ва ислоҳ кардани хатоҳои браузер кумак мекунад. Гузоришҳо метавонанд маълумоти шахсӣ ва махфиро дар бар гиранд.
-addon-recommendations =
-    .label = Иҷозат додан ба «{ -brand-short-name }» барои пешниҳод кардани тавсияҳои шахсӣ оид ба васеъшавиҳо
-addon-recommendations-link = Маълумоти бештар
-# This message is displayed above disabled data sharing options in developer builds
-# or builds with no Telemetry support available.
-collection-health-report-disabled = Гузоришдиҳии маълумот барои ин танзими сохт ғайрифаъол карда шуд
-collection-backlogged-crash-reports-with-link = Иҷозат додан ба «{ -brand-short-name }» барои фиристодани аз номи шумо гузоришҳо бо сабтҳои вайроншавӣ ва корҳои иҷронашуда <a data-l10n-name="crash-reports-link">Маълумоти бештар</a>
-    .accesskey = И
 privacy-segmentation-section-header = Хусусиятҳои нав, ки таҷрибаи тамошобинии шуморо беҳтар мекунанд
 privacy-segmentation-section-description = Вақте ки мо хусусиятҳоеро пешниҳод мекунем, ки барои таъмини таҷрибаи хусусии беҳтар аз маълумоти шумо истифода мебаранд:
 privacy-segmentation-radio-off =
@@ -2068,21 +1559,12 @@ data-collection-usage-ping =
     .label = Фиристодани пинги истифодабарии ҳаррӯза ба «{ -vendor-short-name }»
     .accesskey = Ф
 
-## Privacy Section - Website Advertising Preferences
-
-website-advertising-header = Хусусиятҳои рекламавӣ барои сомонаҳо
-website-advertising-private-attribution =
-    .label = Ба сомонаҳо иҷозат диҳед, ки ченкунии нишондиҳандаҳои рекламаи онҳо бо дарназардошти талаботи махфият гузаронида шавад
-    .accesskey = Б
-website-advertising-private-attribution-description = Ин хусусият ба сомонаҳо ёрӣ медиҳад, то тавонанд бе ниёзи ҷамъоварии маълумоти шахсии шумо фаҳманд, ки чӣ тавр рекламаи онҳо кор мекунад.
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Амният
-security-browsing-protection = Муҳтавои дурӯғӣ ва муҳофизат аз нармафзори зараровар
 security-enable-safe-browsing =
     .label = Манъ кардани муҳтавои дурӯғӣ ва зараровар
     .accesskey = М
@@ -2096,16 +1578,6 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = Гувоҳномаҳо
-certs-enable-ocsp =
-    .label = Фиристодани дархостҳо ба серверҳои OCSP барои тасдиқ кардани эътиборнокии ҷории гувоҳномаҳо
-    .accesskey = Ф
-certs-view =
-    .label = Дидани гувоҳномаҳо…
-    .accesskey = Д
-certs-devices =
-    .label = Дастгоҳҳои амният…
-    .accesskey = Д
 certs-thirdparty-toggle =
     .label = Ба «{ -brand-short-name }» иҷозат диҳед, то ки он ба гувоҳиномаҳои решагии тарафҳои сеюме, ки шумо насб мекунед, ба таври худкор эътимод кунад
     .accesskey = Б
@@ -2124,19 +1596,13 @@ certs-devices2 =
 
 ## Privacy Section - HTTPS-Only
 
-httpsonly-header = Реҷаи «Танҳо HTTPS»
-httpsonly-description3 = Ин имкон танҳо ба пайвастҳои бехатар ба сомонаҳо иҷозат медиҳад. «{ -brand-short-name }» пеш аз сохтани пайвастшавии ҳифзнашуда иҷозат мепурсад.
 httpsonly-learn-more2 = Чӣ тавр реҷаи «Танҳо HTTPS» кор мекунад
-httpsonly-description = HTTPS байни «{ -brand-short-name }» ва сомонаҳое, ки шумо истифода мебаред, пайвастшавии бехатар ва рамзгузоришударо таъмин менамояд. Бисёр сомонаҳо «HTTPS»-ро дастгирӣ менамоянд, ва агар Реҷаи «Танҳо HTTPS» фаъол шуда бошад, он гоҳ браузери «{ -brand-short-name }» ҳамаи пайвастҳоро ба «HTTPS» такмил медиҳад.
-httpsonly-learn-more = Маълумоти бештар
 httpsonly-radio-enabled =
     .label = Фаъол кардани реҷаи «Танҳо HTTPS» дар ҳамаи равзанаҳо
 httpsonly-radio-enabled-pbm =
     .label = Фаъол кардани реҷаи «Танҳо HTTPS» танҳо дар равзанаҳои хусусӣ
 httpsonly-radio-disabled3 =
     .description = «{ -brand-short-name }» то ҳол метавонад баъзе пайвастҳоро такмид диҳад
-    .label = Реҷаи «Танҳо HTTPS» фаъол карда нашавад
-httpsonly-radio-disabled =
     .label = Реҷаи «Танҳо HTTPS» фаъол карда нашавад
 httpsonly-group =
     .description = Ин имкон танҳо ба пайвастҳои бехатар ба сомонаҳо иҷозат медиҳад. «{ -brand-short-name }» пеш аз сохтани пайвастшавии ҳифзнашуда иҷозат мепурсад.
@@ -2147,7 +1613,6 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS тавассути HTTPS
-preferences-doh-description = Низоми номҳои домен (DNS) тавассути HTTPS дархостҳои шуморо барои номи домен тавассути пайвасти рамзгузоришуда ирсол карда, DNS-и бехатарро месозад ва ба дигарон барои дидани сомонаҳое, ки шумо мехоҳед ба он дастрасӣ пайдо намоед, душворӣ мекунад.
 preferences-doh-description2 = Низоми номҳои домен (DNS) тавассути HTTPS дархостҳои шуморо барои номи домен тавассути пайвасти рамзгузоришуда ирсол карда, DNS-и бехатарро таъмин мекунад ва ба дигарон барои дидани сомонаҳое, ки шумо мехоҳед ба он дастрасӣ пайдо намоед, душворӣ мекунад.
 # Variables:
 #   $status (string) - The status of the DoH connection
@@ -2164,7 +1629,6 @@ preferences-doh-status-disabled = Ғайрифаъол
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Ғайрифаъол ({ $reason })
-preferences-doh-group-message = Фаъол кардани «DNS»-и бехатар тавассути:
 preferences-doh-group-message2 = Фаъол кардани DNS тавассути HTTPS ба воситаи:
 preferences-doh-radio-group =
     .aria-label = Фаъол кардани DNS тавассути HTTPS ба воситаи:
@@ -2196,11 +1660,7 @@ preferences-doh-setting-off =
     .label = Ғайрифаъол
     .accesskey = Ғ
 preferences-doh-off-desc = Истифода кардани ҳалкунандаи DNS-и пешфарз
-preferences-doh-checkbox-warn =
-    .label = Огоҳ кунед, агар тарафи сеюм ба DNS-и бехатар фаъолона халал расонад
-    .accesskey = О
 preferences-doh-select-resolver = Интихоби таъминкунанда:
-preferences-doh-exceptions-description = «{ -brand-short-name }» дар ин сомонаҳо аз DNS-и бехатар истифода намебарад
 preferences-doh-manage-exceptions =
     .label = Идоракунии истисноҳо…
     .accesskey = И
@@ -2235,7 +1695,6 @@ preferences-connection-link-button =
 
 desktop-folder-name = Мизи корӣ
 downloads-folder-name = Боргириҳо
-choose-download-folder-title = Интихоби ҷузвдон барои боргириҳо:
 
 ## AI controls page
 

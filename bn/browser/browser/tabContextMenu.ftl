@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = নতুন ট্যাব
-    .accesskey = ও
 reload-tab =
     .label = ট্যাব পুনরায় লোড
     .accesskey = R
@@ -70,14 +67,3 @@ move-to-end =
 move-to-new-window =
     .label = নতুন উইন্ডোতে স্থানান্তর W
     .accesskey = W
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] ডিভাইসে ট্যাব পাঠান
-           *[other] ডিভাইসে { $tabCount } ট্যাব পাঠান
-        }
-    .accesskey = n

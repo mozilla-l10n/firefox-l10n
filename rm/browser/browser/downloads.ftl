@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] Mussar en il Finder
            *[other] Mussar en l'ordinatur
         }
-downloads-cmd-show-downloads =
-    .label = Mussar l'ordinatur da telechargiadas
 downloads-cmd-retry =
     .tooltiptext = Empruvar anc ina giada
 downloads-cmd-retry-panel =

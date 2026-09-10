@@ -23,14 +23,12 @@ neterror-override-exception-button = Xinwetamaj ri K'ayewal chuqa' Tinsamajij el
 neterror-pref-reset-button = Titzolïx ri runuk'ulem kan k'o wi
 neterror-return-to-previous-page-button = Titzolin
 neterror-return-to-previous-page-recommended-button = Titzolïx (Chilab'en)
-neterror-try-again-button = Titojtob'ëx chik
 neterror-settings-button = Kejal taq DNS Nuk'ulem
 neterror-view-certificate-link = Titz'et iqitzijib'äl
 
 ##
 
 neterror-pref-reset = Achi'el ta chi ja ri runuk'ulem rujikomal k'amab'ey, ri nib'ano re re'. ¿La nawajo' chi nitzolïx ri runuk'ulem kan k'o wi?
-neterror-error-reporting-automatic = Taya' kitzijol k'ayewal achi'el re ruwäch re' richin nato' ri { -vendor-short-name } chi nuya' ketal chuqa' yeruq'ät itzel taq ruxaq k'amaya'l.
 
 ## Specific error messages
 
@@ -54,8 +52,6 @@ neterror-file-not-found-moved = Tanik'oj we ri yakb'äl xsilöx el, xk'ex rub'i'
 neterror-access-denied = Rik'in jub'a' xyuj el, xsilöx el o ri niya'on q'ij chi ke ri yakb'äl niq'ato rutz'etik.
 neterror-unknown-protocol = Rik'in jub'a' rajowaxik nayäk qa jun chik kema' richin nijaqatäj re ochochib'äl re'.
 neterror-redirect-loop = Re jun k'ayewal re' nik'ulwachitäj ruma nachüp o e'aq'aton kik'ulik ri taq kaxlanwey.
-neterror-unknown-socket-type-psm-installed = Tanik'oj chi ruk'wan ri ichinan nuk'unel ri aq'inoj richin chajinïk, yakon.
-neterror-unknown-socket-type-server-config = Ke ri' rik'in jub'a' ruma ri pa rub'eyal runuk'ulem ruk'u'x samaj.
 neterror-not-cached-intro = Man niq'alajin ta chik pa { -brand-short-name } jumejyak ri wuj nik'utüx.
 neterror-not-cached-sensitive = .Achi'el jun rub'eyal richin nichajin, { -brand-short-name } man nuk'utuj ta chik pa ruyonil chajin taq wuj.
 neterror-not-cached-try-again = Tapitz'a' qa pa Titojtob'ëx chik richin nik'utüx chik ri ruwujil k'amaya'l.

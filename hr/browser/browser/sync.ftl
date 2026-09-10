@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Sinkroniziranje…
 sync-disconnect-dialog-title2 = Odspojiti?
 sync-disconnect-dialog-body = { -brand-product-name } će prestati sinkronizirati tvoj račun, ali neće izbrisati podatke o tvom pregledavanju na ovom uređaju.
 sync-disconnect-dialog-button = Odspoji
-fxa-signout-dialog2-title = Odjaviti se iz servisa { -fxaccount-brand-name }?
 fxa-signout-dialog-title2 = Odjavi se iz računa?
 fxa-signout-dialog-body = Sinkronizirani podaci će ostati u tvom računu.
 fxa-signout-dialog2-button = Odjavi se
@@ -41,15 +40,6 @@ fxa-menu-send-to-mobile =
            *[other] Pošalji { $tabCount } kartica na mobitel
         }
 fxa-menu-send-to-mobile-device-missing2 = Ne vidiš svoj uređaj?
-# Variables:
-#   $tabCount (Number): The number of tabs sent to the device.
-fxa-menu-send-tab-to-device =
-    .label =
-        { $tabCount ->
-            [one] Pošalji { $tabCount } karticu na uređaj
-            [few] Pošalji { $tabCount } kartice na uređaj
-           *[other] Pošalji { $tabCount } kartica na uređaj
-        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Sinkroniziranje uređaja …

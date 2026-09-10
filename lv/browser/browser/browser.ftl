@@ -2,113 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } privātā pārlūkošana
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } privātā pārlūkošana
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — privātā pārlūkošana
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — privātā pārlūkošana
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } privātā pārlūkošana
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
 browser-shortcut-description = Ātra un privāta tīmekļa pārlūkošana
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } privātā pārlūkošana
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } privātā pārlūkošana
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } privātā pārlūkošana
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } privātā pārlūkošana
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } — privātā pārlūkošana
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — privātā pārlūkošana
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — privātā pārlūkošana
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } privātā pārlūkošana
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -176,8 +74,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Atvērt bezsaistes krātuves ziņojumu paneli
 urlbar-password-notification-anchor =
     .tooltiptext = Atvērt paroļu saglabāšanas ziņojumu paneli
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Pārvaldīt spraudņu izmantošanu
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Pārvaldīt kameras un/vai mikrofona koplietošanu ar šo vietni
 # "Speakers" is used in a general sense that might include headphones or
@@ -190,15 +86,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Glabāt datus pastāvīgajā krātuvē
 urlbar-addons-notification-anchor =
     .tooltiptext = Atvērt papildinājumu instalēšanas ziņojumu paneli
-urlbar-tip-help-icon =
-    .title = Iegūt palīdzību
 urlbar-search-tips-confirm = Labi, sapratu
 urlbar-search-tips-confirm-short = Sapratu
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Padoms:
 urlbar-result-menu-button =
     .title = Atvērt izvēlni
 urlbar-result-menu-button-feedback = Atsauksmes
@@ -233,9 +122,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = Atmest šo ieteikumu
     .accesskey = t
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = Uzzināt vairāk par { -firefox-suggest-brand-name }
-    .accesskey = U
 urlbar-result-menu-manage-firefox-suggest =
     .label = Pārvaldīt { -firefox-suggest-brand-name }
     .accesskey = P
@@ -267,8 +153,6 @@ urlbar-dismissal-acknowledgment-weather = Paldies par atsauksmi! Tev vairs netik
 
 urlbar-search-tips-onboard = Raksti mazāk, atrodi vairāk: meklē ar { $engineName } adreses joslā!
 urlbar-search-tips-redirect-2 = Sāc meklēšanu adreses joslā, lai redzētu ieteikumus no { $engineName } un pārlūkošanas vēstures!
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = Meklēšana ir kļuvusi vienkāršāka. Pamēģini padarīt savu meklējumu noteiktāku šeit, adrešu joslā! Lai tās vietā rādītu URL, iestatījumos jāatver “Meklēšana”.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Atlasiet šo saīsni, lai ātrāk atrastu vajadzīgo.
@@ -302,8 +186,6 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Jūs esat bloķējis šīs vietnes pastāvīgo krātuvi.
 urlbar-popup-blocked2 =
     .tooltiptext = Jūs esat bloķējis uznirstošos logus un trešo pušu pāradresācijas šai vietnei.
-urlbar-popup-blocked =
-    .tooltiptext = Jūs esat bloķējis uzlecošo logu rādīšanu šajā tīmekļa vietnē.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Tu šajā tīmekļvietnē liedzi automātisku informācijas nesēju atskaņošanu.
 urlbar-canvas-blocked =
@@ -411,24 +293,18 @@ quickactions-addons = Skatīt papildinājumus
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = paplašinājumi, motīvi, papildinājumi
-quickactions-cmd-addons2 = papildinājumi
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Pārvaldīt grāmatzīmes
 quickactions-cmd-bookmarks = grāmatzīmes
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Notīrīt neseno vēsturi
 quickactions-cmd-clearrecenthistory2 = sīkdatnes, notīrīt sīkdatnes, kešatmiņa, notīrīt kešatmiņu, pārlūkošanas dati, notīrīt pārlūkošanas datus, vēsture, notīrīt neseno vēsturi
-quickactions-cmd-clearrecenthistory = notīrīt neseno vēsturi, vēsturi
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Notīrīt vēsturi
-quickactions-cmd-clearhistory = notīrīt vēsturi
 # Opens about:downloads page
 quickactions-downloads2 = Skatīt lejupielādes
 quickactions-cmd-downloads = lejupielādes
 # Opens about:addons page in the extensions section
 quickactions-extensions = Pārvaldīt paplašinājumus
 quickactions-cmd-extensions2 = paplašinājumi, papildinājumi
-quickactions-cmd-extensions = paplašinājumi
 # Opens Firefox View
 quickactions-firefoxview = Atvērt { -firefoxview-brand-name }
 # English is using "view" and "open view", since the feature name is
@@ -447,15 +323,11 @@ quickactions-cmd-colorpicker = krāsu atlasītājs, pipete, krāsas izvēle
 # Opens Firefox Library
 quickactions-cmd-library = bibliotēka
 quickactions-library = Atvērt bibliotēku
-quickactions-cmd-inspector = inspektors, izstrādātāju rīki
 # Opens about:logins
 quickactions-logins2 = Pārvaldīt paroles
 quickactions-cmd-logins = lietotājvārdi, paroles
 # Mutes all tabs playing audio
 quickactions-mute = Izslēgt cilnes, kuras atskaņo audio
-# Opens about:addons page in the plugins section
-quickactions-plugins = Pārvaldīt spraudņus
-quickactions-cmd-plugins = spraudņi
 # Opens the print dialog
 quickactions-print2 = Drukāt lapu
 quickactions-cmd-print = drukāt
@@ -480,19 +352,16 @@ quickactions-cmd-screenshot2 = ekrānuzņēmums, veikt ekrānuzņēmumu, ekrāna
 # Opens about:translations
 quickactions-translate = Tulkot
 quickactions-cmd-translate = tulkot
-quickactions-cmd-screenshot = ekrānuzņēmums
 # Opens about:preferences
 quickactions-settings2 = Pārvaldīt iestatījumus
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = iestatījumi, preferences, opcijas, iespējas, pārvaldīt
-quickactions-cmd-settings = iestatījumi, preferences, opcijas
 # Opens about:addons page in the themes section
 quickactions-themes = Pārvaldīt motīvus
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-themes2 = motīvi, papildinājumi, paplašinājumi
-quickactions-cmd-themes = motīvi
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Atjaunināt { -brand-short-name }
 quickactions-cmd-update = atjaunināt
@@ -502,7 +371,6 @@ quickactions-cmd-viewsource2 = apskatīt pirmkodu, pirmkods, lapas pirmkods
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = Atvērt { -firefoxlabs-brand-name }
 quickactions-cmd-labs = laboratorijas, izmēģinājums
-quickactions-cmd-viewsource = apskatīt pirmkodu, pirmkods
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Uzzināt vairāk par ātrajām darbībām
@@ -560,9 +428,7 @@ identity-custom-root = Savienojumu apliecināja sertifikāta izdevējs, kuru Moz
 identity-passive-loaded = Šīs lapas daļas (piemēram, attēli) nav drošas.
 identity-active-loaded = Jūs esat izslēdzis aizsardzību šajā lapā.
 identity-weak-encryption = Šī lapa izmanto vāju šifrēšanu.
-identity-insecure-login-forms = Šajā lapā ievadītie lietotājvārdi nav aizsargāti un var tikt pārtverti.
 identity-https-only-connection-upgraded = (jaunināts uz HTTPS)
-identity-https-only-label = Tikai-HTTPS režīms
 identity-https-only-label2 = Automātiski jaunināt šo vietni uz drošu savienojumu
 identity-https-only-dropdown-on =
     .label = Ieslēgts
@@ -570,8 +436,6 @@ identity-https-only-dropdown-off =
     .label = Izslēgts
 identity-https-only-dropdown-off-temporarily =
     .label = Uz laiku izslēgts
-identity-https-only-info-turn-on2 = Ieslēdziet šai vietnei tikai-HTTPS režīmu, ja vēlaties, lai { -brand-short-name } jauninātu savienojumu, kad iespējams.
-identity-https-only-info-turn-off2 = Ja lapa izskatās salauzta, iespējams, vēlēsieties izslēgt tikai-HTTPS režīmu, lai šo vietni pārlādētu nedrošajā HTTP režīmā.
 identity-https-only-info-turn-on3 = Ieslēdziet šai vietnei HTTPS jauninājumus, ja vēlaties, lai { -brand-short-name } jauninātu savienojumu, kad iespējams.
 identity-https-only-info-turn-off3 = Ja lapa izskatās salauzta, iespējams, vēlēsieties izslēgt HTTPS jauninājumus, lai šo vietni pārlādētu nedrošajā HTTP režīmā.
 identity-https-only-info-no-upgrade = Nevar jaunināt savienojumu no HTTP.
@@ -593,7 +457,6 @@ identity-remove-cert-exception =
     .label = Noņemt izņēmumu
     .accesskey = R
 identity-description-insecure = Savienojums ar šo vieni nav privāts. Iesniegto informāciju (piemēram, paroles, ziņojumi, maksājumu karšu dati utt.) var redzēt citi.
-identity-description-insecure-login-forms = Pieteikšanās informācija, ko ievadāt šajā lapā, nav droša un var tikt apdraudēta.
 identity-description-weak-cipher-intro = Jūsu savienojumam ar šo vietni tiek izmantota vāja šifrēšana, un tas nav privāts.
 identity-description-weak-cipher-risk = Citi cilvēki var aplūkot jūsu informāciju vai modificēt lapas uzvedību.
 identity-description-active-blocked2 = { -brand-short-name } bloķēja nedrošo saturu šajā lapā.
@@ -602,12 +465,6 @@ identity-description-passive-loaded-insecure2 = Šajā vietnē ir saturs, kas na
 identity-description-passive-loaded-mixed2 = Lai arī { -brand-short-name } bloķēja daļu satura, lapā joprojām ir saturs, kas nav drošs (piemēram, attēli).
 identity-description-active-loaded = Šajā vietnē ir saturs, kas nav drošs (piemēram, skripti), un savienojums ar to nav privāts.
 identity-description-active-loaded-insecure = Lapai nosūtītā informācija (piemēram, paroles, ziņojumi vai kredītkartes dati) var būt pieejami citiem.
-identity-disable-mixed-content-blocking =
-    .label = Pagaidām izslēgt aizsardzību
-    .accesskey = d
-identity-enable-mixed-content-blocking =
-    .label = Ieslēgt aizsardzību
-    .accesskey = e
 identity-more-info-link-text =
     .label = Vairāk informācijas
 
@@ -624,43 +481,6 @@ browser-window-close-button =
 # Clicking this button closes the window and returns to the tab where it was opened from
 browser-window-return-to-opener =
     .tooltiptext = Atgriezties
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = ATSKAŅO
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = APKLUSINĀTS
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = LIEGTA AUTOMĀTISKĀ ATSKAŅOŠANA
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = ATTĒLS-ATTĒLĀ
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] APKLUSINĀT CILNI
-        [zero] APKLUSINĀT { $count } CILNI
-        [one] APKLUSINĀT { $count } CILNES
-       *[other] APKLUSINĀT { $count } CILŅU
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] ATJAUNOT SKAŅU CILNEI
-        [zero] ATJAUNOT SKAŅU { $count } CILNEI
-        [one] ATJAUNOT SKAŅU { $count } CILNĒM
-       *[other] ATJAUNOT SKAŅU { $count } CILNĒM
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] ATSKAŅOT CILNI
-        [zero] ATSKAŅOT { $count } CIĻŅU
-        [one] ATSKAŅOT { $count } CILNI
-       *[other] ATSKAŅOT { $count } CILNES
-    }
 
 ## Bookmarks toolbar items
 
@@ -701,10 +521,6 @@ sharing-warning-disable-for-session =
 
 webserial-select-port-label = Izvēlieties seriālo portu:
 webserial-no-ports-available = Nav pieejamu seriālo portu
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = Lai izmantotu īsinājumtaustiņu F12, izvēlnē Pārlūka Rīki atveriet sadaļu Izstrādātāju Rīki.
 
 ## URL Bar
 
@@ -769,8 +585,6 @@ urlbar-extension =
     .value = Paplašinājums:
 urlbar-go-button2 =
     .title = Iet uz adresi, kas ir atrašanās vietas joslā
-urlbar-go-button =
-    .tooltiptext = Iet uz adresi, kas ir atrašanās vietas joslā
 urlbar-page-action-button =
     .tooltiptext = Lapas darbības
 urlbar-revert-button =
@@ -828,11 +642,6 @@ urlbar-result-action-tabtosearch-web = Meklēt ar { $engine } no adreses joslas
 urlbar-result-action-tabtosearch-other-engine = Meklēt ar { $engine } no adreses joslas
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Kopēt
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = nav noteikts
 # The sub title of an add-on suggestion in the urlbar.
@@ -843,23 +652,6 @@ urlbar-result-mdn-subtitle = { -mdn-brand-name }
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
 urlbar-result-suggestion-recommended = Ieteikums
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
-# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
-# The last = sign will be shown as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
-# Shows the result of a formula expression being calculated, to a maximum of 9 significant
-# digits. This is used for numbers < 1.
-# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 # The title of a weather suggestion in the urlbar. The temperature and unit
 # substring should be inside a <strong> tag. If the temperature and unit are not
 # adjacent in the localization, it's OK to include only the temperature in the
@@ -992,32 +784,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } — meklēt { $local
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } — meklēt ar { $engine }
-urlbar-searchmode-dropmarker =
-    .tooltiptext = Izvēlēties meklētāju
-urlbar-searchmode-bookmarks =
-    .label = Grāmatzīmes
-urlbar-searchmode-tabs =
-    .label = Cilnes
-urlbar-searchmode-history =
-    .label = Vēsture
-urlbar-searchmode-actions =
-    .label = Darbības
-urlbar-searchmode-exit-button =
-    .tooltiptext = Aizvērt
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = Šajā reizē meklēt ar:
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = Meklēšanas iestatījumi
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button2 =
-    .label = { $engine }, izvēlēties meklētāju
-    .tooltiptext = { $engine }, izvēlēties meklētāju
-urlbar-searchmode-button-no-engine =
-    .label = Nav atlasīta neviena saīsne, jāizvēlas saīsne
-    .tooltiptext = Nav atlasīta neviena saīsne, jāizvēlas saīsne
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1114,16 +880,10 @@ urlbar-group-trending =
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Nerādīt tendences meklēšanas vaicājumos
     .accesskey = N
-# Label shown above sponsored suggestions in the urlbar results.
-urlbar-group-sponsored =
-    .label = Apmaksāts
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Nerādīt tendences meklēšanas vaicājumos
     .accesskey = N
-urlbar-result-menu-trending-why =
-    .label = Kāpēc es šo redzu?
-    .accesskey = K
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = Paldies par atsauksmi. Jūs vairs neredzēsit meklēšanas vaicājumu tendences.
@@ -1208,12 +968,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Paslēpt grāmatzīmju rīkjoslu
            *[other] Rādīt grāmatzīmju rīkjoslu
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Noņemt grāmatzīmju izvēlni no rīkjoslas
-           *[other] Pievienot grāmatzīmju izvēlni rīkjoslai
-        }
 
 ##
 
@@ -1244,14 +998,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = Grāmatzīmes
-library-recent-activity-title =
-    .value = Nesenās darbības
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Saglabāt { -pocket-brand-name }
-    .tooltiptext = Saglabāt { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
@@ -1341,8 +1087,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = Lietotājvārds
-panel-save-update-password = Parole
 panel-save-update-username-2 =
     .label = Lietotājvārds
 panel-save-update-password-2 =
@@ -1365,33 +1109,18 @@ menu-share-copy-links =
            *[other] Kopēt { $count } saites
         }
     .accesskey = L
-menu-share-copy-link =
-    .label = Kopēt saiti
-    .accesskey = K
 ui-tour-info-panel-close =
     .tooltiptext = Aizvērt
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
-popups-infobar-allow =
-    .label = Atļaut uznirstošos logus vietnei { $uriHost }
-    .accesskey = u
-popups-infobar-block =
-    .label = Liegt vietnes { $uriHost } uznirstošos logus
-    .accesskey = u
 popups-infobar-allow2 =
     .label = Atļaut uznirstošos logus un trešo pušu pāradresācijas vietnei { $uriHost }
     .accesskey = p
 
 ##
 
-popups-infobar-dont-show-message =
-    .label = Nerādīt šo paziņojumu, ja ir liegti uznirstošie logi
-    .accesskey = N
-edit-popup-settings =
-    .label = Pārvaldīt uznirstošo logu iestatījumus…
-    .accesskey = m
 picture-in-picture-hide-toggle =
     .label = Slēpt attēls-attēlā pārslēgšanu
     .accesskey = S
@@ -1417,8 +1146,6 @@ navbar-downloads =
     .label = Lejupielādes
 navbar-overflow-2 =
     .tooltiptext = Vairāk rīku
-navbar-overflow =
-    .tooltiptext = Vairāk rīku…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1513,13 +1240,8 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = Beigt privāto sesiju
-    .tooltiptext = Beigt privāto sesiju
 reset-pbm-panel-heading2 = Notīrīt datus un sākt jaunu privātu sesiju?
 reset-pbm-panel-description2 = Tas izdzēš vēsturi, sīkdatnes un visus citus vietnes datus bez privātā loga aizvēršanas.
-reset-pbm-panel-heading = Beigt savu privāto sesiju?
-reset-pbm-panel-description = Aizvērt visas privātās cilnes un dzēst vēsturi, sīkdatnes un visus citus vietnes datus.
 reset-pbm-panel-always-ask-checkbox =
     .label = Vienmēr vaicāt man
     .accesskey = V
@@ -1529,9 +1251,6 @@ reset-pbm-panel-cancel-button =
 reset-pbm-panel-confirm-button2 =
     .label = Notīrīt privāto sesiju
     .accesskey = I
-reset-pbm-panel-confirm-button =
-    .label = Dzēst sesijas datus
-    .accesskey = D
 reset-pbm-panel-complete = Privātās sesijas dati ir izdzēsti
 reset-pbm-toolbar-button2 =
     .label = Notīrīt privāto sesiju

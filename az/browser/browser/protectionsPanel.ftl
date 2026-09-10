@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-protections-panel-sendreportview-error = Raportunuzu göndərərkən xəta oldu. Lütfən daha sonra təkrar yoxlayın.
-# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
-protections-panel-sitefixedsendreport-label = Sayt düzəldi? Bizə xəbər edin
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -29,18 +26,6 @@ protections-panel-content-blocking-fingerprinters-label = Barmaq izi toplayıcı
 protections-panel-blocking-label = Əngəllənib
 
 ##
-
-protections-panel-content-blocking-breakage-report-view =
-    .title = İşləməyən Saytı Bildir
-protections-panel-content-blocking-breakage-report-view-collection-url = Ünvan
-protections-panel-content-blocking-breakage-report-view-collection-url-label =
-    .aria-label = Ünvan
-protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = Ləğv et
-protections-panel-content-blocking-breakage-report-view-send-report =
-    .label = Hesabat Göndər
-
-# Cookie Banner Handling
 
 protections-panel-report-broken-site =
     .label = İşləməyən saytı bildir

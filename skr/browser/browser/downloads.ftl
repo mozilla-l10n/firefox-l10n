@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] فائنڈر وچ ݙکھاؤ
            *[other] فولڈر وِچ ݙکھاؤ
         }
-downloads-cmd-show-downloads =
-    .label = ڈاؤن لوڈ فولڈر ݙکھاؤ
 downloads-cmd-retry =
     .tooltiptext = ولا کوشش کرو
 downloads-cmd-retry-panel =

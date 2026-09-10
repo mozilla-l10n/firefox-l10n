@@ -4,6 +4,3 @@
 
 popup-notification-more-actions-button =
     .aria-label = Ciù açioin
-popup-notification-default-button =
-    .label = Va ben!
-    .accesskey = V

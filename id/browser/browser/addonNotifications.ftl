@@ -31,29 +31,15 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Lanjut ke Pemasangan
     .accesskey = L
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Situs ini meminta akses ke perangkat MIDI (Musical Instrument Digital Interface) Anda. Akses perangkat dapat diaktifkan dengan memasang pengaya.
 site-permission-install-first-prompt-midi-message = Akses ini tidak dijamin aman. Lanjutkan jika Anda mempercayai situs ini.
 site-permission-install-first-prompt-serial-header = Situs ini meminta akses ke perangkat serial Anda. Akses perangkat dapat diaktifkan dengan memasang pengaya.
 site-permission-install-first-prompt-serial-message = Akses ini tidak dijamin aman. Hanya lanjutkan jika Anda memercayai situs ini.
-
-##
-
-xpinstall-disabled-locked = Pilihan pemasangan perangkat lunak telah dinonaktifkan administrator sistem Anda.
 xpinstall-disabled-by-policy = Pilihan pemasangan perangkat lunak telah dimatikan organisasi Anda.
 xpinstall-disabled = Pemasangan perangkat lunak sedang dinonaktifkan. Klik Aktifkan dan coba lagi.
 xpinstall-disabled-button =
     .label = Aktifkan
     .accesskey = f
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) diblokir oleh administrator sistem Anda.
-# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = Administrator sistem Anda mencegah situs ini meminta Anda untuk memasang perangkat lunak di komputer Anda.
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -78,9 +64,6 @@ webext-imported-addons = Selesaikan pemasangan ekstensi yang diimpor ke { -brand
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = Hapus { $name }?
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Hapus { $name } dari { -brand-shorter-name }?
 addon-removal-button = Hapus
 addon-removal-abuse-report-checkbox = Laporkan ekstensi ini ke { -vendor-short-name }
 # "it" refers to the local AI model that is paired to the AI feature
@@ -131,7 +114,5 @@ addon-local-install-no-addon-name-error-file-access = Pengaya tidak dapat dipasa
 addon-install-error-incompatible = { $addonName } tidak dapat dipasang karena tidak kompatibel dengan { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = { $addonName } melanggar kebijakan Mozilla dan tidak bisa dipasang di { -brand-short-name }.
 addon-install-error-soft-blocked2 = { $addonName } dibatasi dan tidak dapat dipasang di { -brand-short-name }.
-addon-install-error-blocklisted = { $addonName } tidak dapat dipasang karena berisiko tinggi untuk menyebabkan masalah stabilitas dan keamanan.
-addon-install-error-soft-blocked = { $addonName } melanggar kebijakan Mozilla dan tidak bisa dipasang di { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Anda tidak bisa memasang { $addonName } sebagai pengguna akhir. Pengaya hanya bisa dipasang oleh sebuah organisasi menggunakan kebijakan perusahaan.

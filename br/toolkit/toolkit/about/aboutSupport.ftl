@@ -22,10 +22,6 @@ security-software-name = Anv
 security-software-antivirus = Enepviruz
 security-software-antispyware = Meziant enep-spiañ
 security-software-firewall = Tanvoger
-features-title = Keweriusterioù { -brand-short-name }
-features-name = Anv
-features-version = Handelv
-features-id = Naoudi
 processes-title = Araezadoù a-bell
 processes-type = Rizh
 processes-count = Niver
@@ -49,7 +45,6 @@ app-basics-profile-dir =
         [linux] Kavlec'h an aelad
        *[other] Teuliad an aelad
     }
-app-basics-enabled-plugins = Enlugelladoù gweredekaet
 app-basics-build-config = Kefluniad kempunadur
 app-basics-user-agent = Gwezher arveriad
 app-basics-os = Reizhiad Korvoiñ
@@ -82,8 +77,6 @@ show-dir-label =
     }
 environment-variables-name = Anv
 environment-variables-value = Talvoud
-experimental-features-name = Anv
-experimental-features-value = Talvoud
 modified-key-prefs-title = Gwellvezioù pouezus kemmet
 modified-prefs-name = Anv
 modified-prefs-value = Gwerzh

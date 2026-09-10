@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = Chuyển công việc giữa các thiế
 callout-firefox-view-tab-pickup-subtitle = Nhanh chóng lấy các thẻ đang mở từ điện thoại của bạn và mở chúng ở đây để có hiệu suất công việc của bạn tối đa.
 callout-firefox-view-recently-closed-title = Lấy lại các thẻ đã đóng của bạn trong tích tắc
 callout-firefox-view-recently-closed-subtitle = Tất cả các thẻ đã đóng của bạn sẽ hiển thị ở đây một cách kỳ diệu. Không bao giờ lo lắng về việc vô tình đóng một trang web nữa.
-callout-firefox-view-colorways-title = Thêm một chút màu sắc
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Chọn một đường màu phù hợp với phong cách của bạn. Chỉ trong { -brand-product-name }.
-callout-firefox-view-colorways-reminder-title = Khám phá các đường màu mới nhất của chúng tôi
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Tô màu trình duyệt của bạn với những sắc thái mang tính biểu tượng này, lấy cảm hứng từ những tiếng nói độc lập. Chỉ có trong { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Տեսնել վերջին դիտարկումները տարբեր պատուհաններում և սարքերում
@@ -16,35 +13,17 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Փակել
-    .aria-label = Փակել
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Հենց հիմա
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Ներդիրի հավաքում
-firefoxview-tabpickup-description = Բացեք էջերը այլ սարքերից:
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% ավարտված է
-firefoxview-tabpickup-step-signin-header = Անխափան փոխարկեք սարքերի միջև
-firefoxview-tabpickup-step-signin-primarybutton = Շարունակել
 firefoxview-syncedtabs-signin-header-2 = Ձեր { -brand-product-name }-ը ձեր բոլոր սարքերի վրա
 firefoxview-syncedtabs-signin-primarybutton-2 = Մուտք գործել
-firefoxview-tabpickup-adddevice-description = Ներբեռնեք { -brand-product-name } բջջային հեռախոսի համար և մուտք գործեք այնտեղ:
-firefoxview-tabpickup-adddevice-learn-how = Իմանալ ինչպես
-firefoxview-tabpickup-adddevice-primarybutton = Ստացեք { -brand-product-name } բջջայինի համար
 firefoxview-syncedtabs-adddevice-header-2 = Վերցրեք ներդիրները ցանկացած վայրից
 firefoxview-syncedtabs-adddevice-primarybutton = Փորձեք { -brand-product-name }-ը բջջայինի համար
-firefoxview-tabpickup-synctabs-header = Միացնել ներդիրների համաժամացումը
-firefoxview-tabpickup-synctabs-description = Թույլատրել { -brand-short-name }-ին տարածել ներդիրները՝ սարքերի միջև:
-firefoxview-tabpickup-synctabs-learn-how = Իմանալ ինչպես
 firefoxview-tabpickup-synctabs-primarybutton = Համաժամեցված ներդիրները
 firefoxview-syncedtabs-synctabs-header = Թարմացրեք ձեր համաժամացման կարգավորումները
 firefoxview-syncedtabs-synctabs-header-2 = Ներդիրների համաժամեցումն անջատված է
 firefoxview-syncedtabs-loading-header = Համաժամացում
 firefoxview-tabpickup-fxa-admin-disabled-header = Ձեր կազմակերպությունն անջատել է համաժամացումը
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name }-ը չի կարողանում համաժամացնել ներդիրները սարքերի միջև, քանզի Ձեր ադմինիստրատորն անջատել է համաժամացումը:
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name }-ը չի կարողանում համաժամացնել ներդիրները սարքերի միջև, քանզի Ձեր կազմակերպությունն անջատել է համաժամացումը:
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Ներդիրների համաժամեցումն անջատված է
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Ձեր կազմակերպությունը արգելափակել է այս գործառույթը։
@@ -66,30 +45,14 @@ firefoxview-tabpickup-signed-out-header = Մուտք գործեք՝ կրկին �
 firefoxview-tabpickup-signed-out-primarybutton = Մուտք գործել
 firefoxview-tabpickup-signed-out-header-2 = Մուտք գործեք՝ ձեր ներդիրները տեսնելու համար
 firefoxview-tabpickup-signed-out-description-2 = Վերամիացեք՝ այլ սարքերից ներդիրները դիտելու համար։
-firefoxview-mobile-promo-header = Բերեք ներդիրները ձեր հեռախոսից կամ թաբլեթից
-firefoxview-mobile-promo-primarybutton = Ստացեք { -brand-product-name }-ը բջջայինի համար
-firefoxview-mobile-confirmation-header = 🎉 Լավ է գնալ:
-firefoxview-mobile-confirmation-description = Այժմ կարող եք բերել { -brand-product-name }-ի ձեր ներդիրները թաբլեթից կամ հեռախոսից:
-firefoxview-closed-tabs-title = Վերջին փակվածը
-firefoxview-closed-tabs-description2 = Վերաբացեք ձեր փակած էջերը այս պատուհանում:
-firefoxview-closed-tabs-placeholder-header = Վերջին փակված ներդիրներ չկան
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Բաց թողնել { $tabTitle }-ը
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Վերջին ակտիվը
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Բացել { $targetURI }-ը նոր ներդիրում
-firefoxview-try-colorways-button = Փորձեք գունային երանգներ
-firefoxview-change-colorway-button = Փոխել գույնը
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Դեռևս տեսնելու ոչինչ չկա
 firefoxview-collapse-button-show =
     .title = Ցուցադրել ցուցակը
 firefoxview-collapse-button-hide =

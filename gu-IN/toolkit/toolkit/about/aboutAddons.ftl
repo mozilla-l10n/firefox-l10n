@@ -116,15 +116,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = બધા ઍડ-ઓન સલામત સ્થિતિ દ્દારા નિષ્ક્રિય કરી દેવામાં આવ્યા છે.
-extensions-warning-check-compatibility = ઍડ-ઓન સુસંગતતા ચકાસણી નિષ્ક્રિય થયેલ છે. તમારી પાસે અસુસંગત ઍડ-ઓન હોઇ શકે છે.
-extensions-warning-safe-mode2 =
-    .message = બધા ઍડ-ઓન સલામત સ્થિતિ દ્દારા નિષ્ક્રિય કરી દેવામાં આવ્યા છે.
 extensions-warning-check-compatibility2 =
     .message = ઍડ-ઓન સુસંગતતા ચકાસણી નિષ્ક્રિય થયેલ છે. તમારી પાસે અસુસંગત ઍડ-ઓન હોઇ શકે છે.
 extensions-warning-check-compatibility-button = સક્રિય
     .title = ઍડ-ઓન સુસંગતતા ચકાસણીને સક્રિય કરો
-extensions-warning-update-security = ઍડ-ઓન સુધારા સુરક્ષા ચકાસણી નિષ્ક્રિય થયેલ છે. તમારે સુધારાઓ વડે સમાધાન કરી શકો છો.
 extensions-warning-update-security2 =
     .message = ઍડ-ઓન સુધારા સુરક્ષા ચકાસણી નિષ્ક્રિય થયેલ છે. તમારે સુધારાઓ વડે સમાધાન કરી શકો છો.
 extensions-warning-update-security-button = સક્રિય
@@ -218,24 +213,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } એ { -brand-short-name } { $version } સાથે અસુસંગત છે.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } એ { -brand-short-name } { $version } સાથે અસુસંગત છે.
-details-notification-unsigned-and-disabled = { -brand-short-name } માં { $name } ઉપયોગ માટે ચકાસણી કરી શકાઈ નથી અને તે અક્ષમ કરવામાં આવ્યું છે.
 details-notification-unsigned-and-disabled2 =
     .message = { -brand-short-name } માં { $name } ઉપયોગ માટે ચકાસણી કરી શકાઈ નથી અને તે અક્ષમ કરવામાં આવ્યું છે.
-details-notification-unsigned-and-disabled-link = વધુ મહિતી
-details-notification-unsigned = { -brand-short-name } માં ઉપયોગ માટે { $name } ચકાસવામાં આવી શક્યું નથી. સાવધાની સાથે આગળ વધો.
 details-notification-unsigned2 =
     .message = { -brand-short-name } માં ઉપયોગ માટે { $name } ચકાસવામાં આવી શક્યું નથી. સાવધાની સાથે આગળ વધો.
-details-notification-unsigned-link = વધુ મહિતી
-details-notification-blocked = સુરક્ષા અથવા સ્થિરતા સમસ્યાઓ દરમ્યાન { $name } ને નિષ્ક્રિય કરી દેવામાં આવ્યો છે.
-details-notification-blocked-link = વધારે જાણકારી
-details-notification-softblocked = સુરક્ષા અથવા સ્થિરતાની સમસ્યાઓને કારણે { $name } જાણીતો છે.
-details-notification-softblocked-link = વધારે જાણકારી
-details-notification-gmp-pending = { $name } ટૂંક સમયમાં જ ઇન્સ્ટોલ થશે.
 details-notification-gmp-pending2 =
     .message = { $name } ટૂંક સમયમાં જ ઇન્સ્ટોલ થશે.
 

@@ -32,10 +32,6 @@ security-software-name = Назва
 security-software-antivirus = Антывірус
 security-software-antispyware = Антышпіён
 security-software-firewall = Міжсеткавы экран
-features-title = Магчымасці { -brand-short-name }
-features-name = Імя
-features-version = Версія
-features-id = ID
 processes-title = Адлеглыя працэсы
 processes-type = Тып
 processes-count = Колькасць
@@ -61,7 +57,6 @@ app-basics-profile-dir =
         [linux] Дырэкторыя профілю
        *[other] Папка профілю
     }
-app-basics-enabled-plugins = Уключаныя плагіны
 app-basics-build-config = Канфігурацыя зборкі
 app-basics-user-agent = Дзеяч карыстальніка
 app-basics-os = АС
@@ -99,9 +94,6 @@ show-dir-label =
 environment-variables-title = Зменныя асяроддзя
 environment-variables-name = Назва
 environment-variables-value = Значэнне
-experimental-features-title = Эксперыментальныя магчымасці
-experimental-features-name = Назва
-experimental-features-value = Значэнне
 modified-key-prefs-title = Змененыя важныя налады
 modified-prefs-name = Назва
 modified-prefs-value = Значэнне
@@ -223,9 +215,6 @@ media-cdm-capabilities = Магчымасці
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Незашыфраваны старт (Clear Lead)
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = Сумяшчальны з HDCP 2.2
 
 ##
 
@@ -402,8 +391,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = Адключана эксперыментам
-fission-status-experiment-treatment = Уключана эксперыментам
 fission-status-disabled-by-e10s-env = Адключана асяроддзем
 fission-status-enabled-by-env = Уключана асяроддзем
 fission-status-disabled-by-env = Адключаны асяроддзем
@@ -412,7 +399,6 @@ fission-status-disabled-by-default = Тыпова адключана
 fission-status-enabled-by-user-pref = Уключаны карыстальнікам
 fission-status-disabled-by-user-pref = Адключана карыстальнікам
 fission-status-disabled-by-e10s-other = E10s адключаны
-fission-status-enabled-by-rollout = Уключана паэтапным разгортваннем
 async-pan-zoom = Асінхроннае павелічэнне/маштаб
 apz-none = няма
 wheel-enabled = увод колца ўключаны

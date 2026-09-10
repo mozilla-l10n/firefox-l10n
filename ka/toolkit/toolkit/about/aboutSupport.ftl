@@ -29,10 +29,6 @@ security-software-name = სახელი
 security-software-antivirus = ანტივირუსი
 security-software-antispyware = ანტიჯაშუში
 security-software-firewall = ქსელის ფარი
-features-title = { -brand-short-name } – შესაძლებლობები
-features-name = სახელი
-features-version = ვერსია
-features-id = ID
 processes-title = დაშორებულად მართული
 processes-type = სახეობა
 processes-count = რაოდენობა
@@ -58,7 +54,6 @@ app-basics-profile-dir =
         [linux] პროფილის საქაღალდე
        *[other] პროფილის საქაღალდე
     }
-app-basics-enabled-plugins = ჩართული მოდულები
 app-basics-build-config = ანაწყობის კონფიგურაცია
 app-basics-user-agent = მომხმარებლის წარმდგენი
 app-basics-os = სისტემა
@@ -96,9 +91,6 @@ show-dir-label =
 environment-variables-title = გარემოს ცვლადები
 environment-variables-name = სახელი
 environment-variables-value = მნიშვნელობა
-experimental-features-title = საცდელი შესაძლებლობები
-experimental-features-name = სახელი
-experimental-features-value = მნიშვნელობა
 modified-key-prefs-title = ჩასწორებული მნიშვნელოვანი პარამეტრები
 modified-prefs-name = სახელი
 modified-prefs-value = მნიშვნელობა
@@ -220,9 +212,6 @@ media-cdm-capabilities = შესაძლებლობები
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = დაუშიფრავად წამოწყება
-# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
-# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
-media-hdcp-22-compatible = HDCP 2.2 თავსებადობა
 
 ##
 
@@ -394,8 +383,6 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
-fission-status-experiment-control = გამორთული საცდელად
-fission-status-experiment-treatment = ჩართული საცდელად
 fission-status-disabled-by-e10s-env = გამორთული გარემოთი
 fission-status-enabled-by-env = ჩართული გარემოთი
 fission-status-disabled-by-env = გამორთული გარემოთი
@@ -404,7 +391,6 @@ fission-status-disabled-by-default = გამორთული ნაგულ
 fission-status-enabled-by-user-pref = ჩართული მომხმარებლის მიერ
 fission-status-disabled-by-user-pref = გამორთული მომხმარებლის მიერ
 fission-status-disabled-by-e10s-other = E10s გამორთული
-fission-status-enabled-by-rollout = ჩართულია თანდათანობითი დანერგვით
 async-pan-zoom = ასინქრონული გაშლა/ზომის ცვლა
 apz-none = არაა
 wheel-enabled = რგოლით შეყვანა მოქმედია

@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Bæta við { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Framvinda: skref { $current } af { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -190,11 +184,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Festu { -brand-short-name } við verkefnastikuna og upphafsvalmyndina
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Byrjaðu með vafra sem studdur er af sjálfseignarstofnun. Við verjum friðhelgi þína á meðan þú rennir um vefinn.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -224,57 +213,10 @@ mr2022-onboarding-set-default-subtitle = Notaðu vafra sem studdur er af sjálfs
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Nýjasta útgáfan okkar er byggð með þarfir þínar í huga, sem gerir það auðveldara en nokkru sinni fyrr að skjótast um vefinn. Þarna er fullt af eiginleikum sem við höldum að þú munir kunna að meta.
 mr2022-onboarding-get-started-primary-button-label = Settu upp á nokkrum sekúndum
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Uppsetning í einum grænum
-mr2022-onboarding-import-subtitle = Settu upp { -brand-short-name } eins og þér hentar. Bættu við bókamerkjunum þínum, lykilorðum og fleiru úr gamla vafranum þínum.
 mr2022-onboarding-import-primary-button-label-no-attribution = Flytja inn úr fyrri vafra
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Veldu litinn sem veitir þér innblástur
-mr2022-onboarding-colorway-subtitle = Óháðar raddir geta breytt menningunni.
-mr2022-onboarding-colorway-primary-button-label-continue = Stilla og halda áfram
-mr2022-onboarding-existing-colorway-checkbox-label = Gerðu { -firefox-home-brand-name } að litríku upphafssíðunni þinni
-mr2022-onboarding-colorway-label-default = Sjálfgefið
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Núverandi litir { -brand-short-name }
-mr2022-onboarding-colorway-description-default = <b>Nota núverandi { -brand-short-name } litina mína.</b>
-mr2022-onboarding-colorway-label-playmaker = Leikstjórnandi
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Leikstjórnandi (rautt)
-mr2022-onboarding-colorway-description-playmaker = <b>Þú ert leikstjórnandi.</b> Þú skapar tækifæri til árangurs og hjálpar öllum í kringum þig að verða betri.
-mr2022-onboarding-colorway-label-expressionist = Expressjónisti
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Expressjónisti (gult)
-mr2022-onboarding-colorway-description-expressionist = <b>Þú ert expressjónisti.</b> Þú sérð heiminn öðruvísi og sköpun þín vekur tilfinningar annarra.
-mr2022-onboarding-colorway-label-visionary = Framsýni
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Framsýni (grænt)
-mr2022-onboarding-colorway-description-visionary = <b>Þú ert framsýn hugsjónamanneskja.</b> Þú efast um óbreytt ástand og færð aðra til að ímynda sér betri framtíð.
-mr2022-onboarding-colorway-label-activist = Aðgerðarsinni
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Aðgerðasinni (blátt)
-mr2022-onboarding-colorway-description-activist = <b>Þú ert aðgerðarsinni.</b> Þú skilur heiminn eftir sem betri stað en þú fannst hann og færð aðra til að trúa á málstaðinn.
-mr2022-onboarding-colorway-label-dreamer = Dreymandi
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Dreymandi (fjólublátt)
-mr2022-onboarding-colorway-description-dreamer = <b>Þú ert draumóramaður.</b> Þú trúir því að örlögin séu hagstæð þeim djörfu og hvetur aðra til að vera hugrakkir.
-mr2022-onboarding-colorway-label-innovator = Frumkvöðull
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Frumkvöðull (appelsínugult)
-mr2022-onboarding-colorway-description-innovator = <b>Þú ert frumkvöðull.</b> Þú sérð tækifæri alls staðar og hefur áhrif á líf allra í kringum þig.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Stökktu úr fartölvu í síma og til baka aftur
-mr2022-onboarding-mobile-download-subtitle = Gríptu flipa úr einu tæki og haltu áfram þar sem frá var horfið á öðru tæki. Auk þess geturðu samstillt bókamerkin þín og lykilorð alls staðar þar sem þú notar { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Skannaðu QR-kóðann til að fá { -brand-product-name } fyrir farsíma eða <a data-l10n-name="download-label">sendu sjálfum þér niðurhalstengil.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Skannaðu QR-kóðann til að sækja { -brand-product-name } fyrir farsíma
 
@@ -327,15 +269,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Ljósar og dökkar hendur gefa fimmu
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Útsýni á sólarlag í gegnum glugga með rebba og plöntu í gluggakistu
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Hönd spreyjar litríka mynd með grænu auga, appelsínugulum skó, rauðum körfubolta, fjólubláum heyrnartólum, bláu hjarta og gulri kórónu.
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Refur sem veifar á skjá fartölvu. Í fartölvuna er tengd mús.
 onboarding-device-migration-title = Velkomin aftur!
-onboarding-device-migration-subtitle = Skráðu þig inn á { -fxaccount-brand-name(capitalization: "sentence") } til að taka bókamerkin þín, lykilorð og feril með þér á nýja tækið þitt.
 onboarding-device-migration-subtitle2 = Skráðu þig inn á reikninginn þinn til að hafa bókamerkin þín, lykilorð og feril með þér yfir á nýja tækið þitt.
 onboarding-device-migration-primary-button-label = Skrá inn
 
@@ -445,11 +384,8 @@ onboarding-checklist-sign-up = Nýskráðu þig eða skráðu þig inn á reikni
 
 tab-groups-onboarding-feature-callout-title = Prófaðu flipahópa fyrir minni þrengsli og meiri einbeitingu
 tab-groups-onboarding-feature-callout-subtitle = Skipulegðu þig með því að draga einn flipa ofan á annan til að búa til fyrsta hópinn þinn.
-tab-groups-onboarding-create-group-title-2 = Finndu flipahópana þína hér hvenær sem er.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Finndu hópana þína með því að leita að þeim í veffangastikunni.
-tab-groups-onboarding-saved-groups-title-2 = Ef þú lokar flipahópi geturðu opnað hann aftur hér hvenær sem er.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Finndu hópana sem þú hefur lokað með því að leita að þeim í veffangastikunni.
-tab-groups-onboarding-session-restore-title = Opnaðu flipahópana þína aftur hér.
 tab-groups-onboarding-dismiss = Í lagi
 
 ## Multi Profiles feature onboarding messages

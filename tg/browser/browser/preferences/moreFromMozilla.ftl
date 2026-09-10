@@ -5,7 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-more-from-moz-title = Бештар аз «{ -vendor-short-name }»
 more-from-moz-page-header =
     .heading = Бештар аз «{ -vendor-short-name }»
 more-from-moz-category =
@@ -34,13 +33,11 @@ more-from-moz-firefox-relay-button = Ба даст овардани «{ -relay-b
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Ба таври худкор дархост кардани боздошти маълумоти шахсии ошкоршуда.
 more-from-moz-mozilla-monitor-global-description = Вақте ки маълумоти шумо дӯздӣ мешавад, хабардор бошед.
 more-from-moz-mozilla-monitor-button = Ба даст овардани «{ -monitor-brand-short-name }»
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
-more-from-moz-solo-title = Сеҳни сунъии «{ -solo-ai-brand-name } AI»
 more-from-moz-solo-description = Сомонаи худро зуд эҷод кунед ва номи домени фармоишии худро ройгнон пайваст намоед.
 more-from-moz-solo-button = «{ -solo-ai-brand-name }»-ро озмоед
 more-from-moz-solo-title-2 = Сомонасоз дар асоси «{ -solo-ai-brand-name } AI»

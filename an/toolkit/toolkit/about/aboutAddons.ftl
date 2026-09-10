@@ -116,15 +116,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = O modo seguro ha desactivau totz os complementos.
-extensions-warning-check-compatibility = A comprebación de compatibilidad d'os complementos ye desactivada. Puestar tienga complementos incompatibles.
-extensions-warning-safe-mode2 =
-    .message = O modo seguro ha desactivau totz os complementos.
 extensions-warning-check-compatibility2 =
     .message = A comprebación de compatibilidad d'os complementos ye desactivada. Puestar tienga complementos incompatibles.
 extensions-warning-check-compatibility-button = Activar
     .title = Activar a comprebación de compatibilidad d'os complementos
-extensions-warning-update-security = A comprebación de seguranza d'os complementos ye desactivada. As actualizacions podrían meter-le en risque.
 extensions-warning-update-security2 =
     .message = A comprebación de seguranza d'os complementos ye desactivada. As actualizacions podrían meter-le en risque.
 extensions-warning-update-security-button = Activar
@@ -179,24 +174,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = { $name } ye incompatible con { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } ye incompatible con { -brand-short-name } { $version }.
-details-notification-unsigned-and-disabled = No s'ha puesto verificar { $name } ta o suyo uso en { -brand-short-name } y s'ha desactivau.
 details-notification-unsigned-and-disabled2 =
     .message = No s'ha puesto verificar { $name } ta o suyo uso en { -brand-short-name } y s'ha desactivau.
-details-notification-unsigned-and-disabled-link = Mas información
-details-notification-unsigned = No s'ha puesto verificar { $name } ta o suyo uso en { -brand-short-name }. Contine con cudiau.
 details-notification-unsigned2 =
     .message = No s'ha puesto verificar { $name } ta o suyo uso en { -brand-short-name }. Contine con cudiau.
-details-notification-unsigned-link = Mas información
-details-notification-blocked = S'ha desactivau { $name } por problemas de seguranza u estabilidat.
-details-notification-blocked-link = Mas información
-details-notification-softblocked = Se conoix que { $name } causa de problemas de seguranza u estabilidat.
-details-notification-softblocked-link = Mas información
-details-notification-gmp-pending = { $name } S'instalará en breus.
 details-notification-gmp-pending2 =
     .message = { $name } S'instalará en breus.
 

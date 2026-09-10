@@ -2,113 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Nabigatze pribatua
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Nabigatze pribatua
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac-window-titles =
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Nabigatze pribatua
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Nabigatze pribatua
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } nabigatze pribatua
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
 browser-shortcut-description = Web nabigatze bizkor eta pribatua
-# These are the default window titles everywhere except macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles =
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Nabigatze Pribatua
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — { -brand-full-name } Nabigatze Pribatua
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } Nabigatze Pribatua
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Nabigatze Pribatua
-# These are the default window titles on macOS.
-# .data-title-default and .data-title-private are used when the web content
-# opened has no title:
-#
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# .data-content-title-default and .data-content-title-private are for use when
-# there *is* a content title.
-# Do not use the brand name in these, as we do on non-macOS.
-#
-# .data-title-default-with-profile, .data-title-private-with-profile,
-# .data-content-title-default-with-profile,
-# .data-content-title-private-with-profile are used when there a
-# SelectableProfileService.current profile exists.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-#  $profile-name (String): the name of the current profile.
-browser-main-window-titles-mac =
-    .data-content-title-default = { $content-title }
-    .data-content-title-default-with-profile = { $content-title } — { $profile-name }
-    .data-content-title-private = { $content-title } — Nabigatze Pribatua
-    .data-content-title-private-with-profile = { $content-title } — { $profile-name } — Nabigatze Pribatua
-    .data-title-default = { -brand-full-name }
-    .data-title-default-with-profile = { $profile-name } — { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Nabigatze Pribatua
-    .data-title-private-with-profile = { $profile-name } — { -brand-full-name } Nabigatze Pribatua
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -176,8 +74,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Ireki lineaz kanpoko biltegiratzearen mezuen panela
 urlbar-password-notification-anchor =
     .tooltiptext = Ireki pasahitza gordetzeko mezuen panela
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Kudeatu pluginen erabilera
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Kudeatu zure kamera eta/edo mikrofonoa gunearekin partekatzea
 # "Speakers" is used in a general sense that might include headphones or
@@ -190,15 +86,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Gorde datuak biltegiratze iraunkorrean
 urlbar-addons-notification-anchor =
     .tooltiptext = Ireki gehigarrien instalazio-mezuen panela
-urlbar-tip-help-icon =
-    .title = Lortu laguntza
 urlbar-search-tips-confirm = Ados, ulertuta
 urlbar-search-tips-confirm-short = Ulertuta
-# Read out before Urlbar Tip text content so screenreader users know the
-# subsequent text is a tip offered by the browser. It should end in a colon or
-# localized equivalent.
-urlbar-tip-icon-description =
-    .alt = Aholkua:
 urlbar-result-menu-button =
     .title = Ireki menua
 urlbar-result-menu-button-feedback = Iritzia
@@ -243,9 +132,6 @@ urlbar-result-menu-tip-get-help =
 urlbar-result-menu-dismiss-suggestion =
     .label = Baztertu gomendio hau
     .accesskey = B
-urlbar-result-menu-learn-more-about-firefox-suggest =
-    .label = { -firefox-suggest-brand-name }(r)i buruzko argibide gehiago
-    .accesskey = a
 urlbar-result-menu-manage-firefox-suggest =
     .label = Kudeatu { -firefox-suggest-brand-name }
     .accesskey = K
@@ -277,8 +163,6 @@ urlbar-dismissal-acknowledgment-weather = Eskerrik asko zure iritziagatik. Hemen
 
 urlbar-search-tips-onboard = Gutxiago idatzi, gehiago aurkitu: bilatu { $engineName } erabiliz helbide-barratik zuzenean.
 urlbar-search-tips-redirect-2 = Hasi zure bilaketa helbide-barran { $engineName } bilatzailearen eta zure nabigazio-historialeko proposamenak ikusteko
-# Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = Bilaketak egitea sinpleagoa da orain. Saiatu zure bilaketa zehatzagoa egiten helbide-barran. Honen ordez URLa erakusteko, zoaz ezarpenetako 'Bilaketa' atalera.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Hautatu lasterbide hau behar duzuna azkarrago bilatzeko.
@@ -312,8 +196,6 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Datuen biltegiratze iraunkorra blokeatuta daukazu webgune honetarako.
 urlbar-popup-blocked2 =
     .tooltiptext = Laster-leihoak eta hirugarrenek eragindako birbideratzeak blokeatuta dauzkazu webgune honetarako.
-urlbar-popup-blocked =
-    .tooltiptext = Laster-leihoak blokeatuta dauzkazu webgune honetarako.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Soinudun multimedia automatikoki erreproduzitzea blokeatuta daukazu gune honetarako.
 urlbar-canvas-blocked =
@@ -424,24 +306,18 @@ quickactions-cmd-addons3 = hedapenak, itxurak, gehigarriak
 # Opens preferences page at AI controls
 quickactions-manageai = Kudeatu AA kontrolak
 quickactions-cmd-manageai = desgaitu aa, aa off, kudeatu aa
-quickactions-cmd-addons2 = gehigarriak
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Kudeatu laster-markak
 quickactions-cmd-bookmarks = laster-markak
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Garbitu azken historia
 quickactions-cmd-clearrecenthistory2 = cookieak, garbitu cookieak, cachea, garbitu cachea, nabigatze-datuak, garbitu nabigatze-datuak, historia, garbitu azkenaldiko historia
-quickactions-cmd-clearrecenthistory = garbitu azken historia, historia
-# Opens a SUMO article explaining how to clear history
-quickactions-clearhistory = Garbitu historia
-quickactions-cmd-clearhistory = garbitu historia
 # Opens about:downloads page
 quickactions-downloads2 = Ikusi deskargak
 quickactions-cmd-downloads = deskargak
 # Opens about:addons page in the extensions section
 quickactions-extensions = Kudeatu hedapenak
 quickactions-cmd-extensions2 = hedapenak, gehigarriak
-quickactions-cmd-extensions = hedapenak
 # Opens Firefox View
 quickactions-firefoxview = Ireki { -firefoxview-brand-name }
 # English is using "view" and "open view", since the feature name is
@@ -460,7 +336,6 @@ quickactions-cmd-colorpicker = kolore-hautatzailea, kolorea hautatzekoa, hautatu
 # Opens Firefox Library
 quickactions-cmd-library = biltegia
 quickactions-library = Ireki biltegia
-quickactions-cmd-inspector = ikuskatzailea, garatzaile-tresnak
 # Opens about:logins
 quickactions-logins2 = Kudeatu pasahitzak
 quickactions-cmd-logins = saio-hasierak, pasahitzak
@@ -470,9 +345,6 @@ quickactions-mute = Mututu audioa erreproduzitzen ari diren fitxak
 # Replace with idiomatic expressions in your language to silence something or
 # someone.
 quickactions-cmd-mute = mututu, isildu, ixo, sh
-# Opens about:addons page in the plugins section
-quickactions-plugins = Kudeatu pluginak
-quickactions-cmd-plugins = pluginak
 # Opens the print dialog
 quickactions-print2 = Inprimatu orria
 quickactions-cmd-print = inprimatu
@@ -497,19 +369,16 @@ quickactions-cmd-screenshot2 = pantaila-argazkia, egin pantaila-argazkia
 # Opens about:translations
 quickactions-translate = Itzuli
 quickactions-cmd-translate = itzuli
-quickactions-cmd-screenshot = pantaila-argazkia
 # Opens about:preferences
 quickactions-settings2 = Kudeatu ezarpenak
 # "manage" should match the corresponding command, which is “Manage settings” in English.
 quickactions-cmd-settings2 = ezarpenak, hobespenak, aukerak, kudeatu
-quickactions-cmd-settings = ezarpenak, hobespenak, aukerak
 # Opens about:addons page in the themes section
 quickactions-themes = Kudeatu itxurak
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-themes2 = itxurak, gehigarriak
-quickactions-cmd-themes = itxurak
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Eguneratu { -brand-short-name }
 quickactions-cmd-update = eguneratu
@@ -519,7 +388,6 @@ quickactions-cmd-viewsource2 = ikusi iturburua, iturburua, orriaren iturburua
 # Opens about:preferences:experimental (Firefox Labs)
 quickactions-labs = Ireki { -firefoxlabs-brand-name }
 quickactions-cmd-labs = labs, laborategia, esperimentua
-quickactions-cmd-viewsource = ikusi iturburua, iturburua
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Ekintza bizkorrei buruzko argibide gehiago
@@ -576,9 +444,7 @@ identity-custom-root = Mozillak onetsi gabeko ziurtagiri-jaulkitzaile batek egia
 identity-passive-loaded = Orri honetako zenbait atal ez dira seguruak (adib. irudiak).
 identity-active-loaded = Babesa desgaitu duzu orri honetan.
 identity-weak-encryption = Orri honek zifraketa ahula erabiltzen du.
-identity-insecure-login-forms = Orri honetan sartutako saio-hasierak arriskuan egon litezke.
 identity-https-only-connection-upgraded = (HTTPSra bihurtu da)
-identity-https-only-label = HTTPS-Only modua
 identity-https-only-label2 = Hobetu automatikoki gune hau konexio seguru batera
 identity-https-only-dropdown-on =
     .label = Aktibatuta
@@ -586,8 +452,6 @@ identity-https-only-dropdown-off =
     .label = Desaktibatuta
 identity-https-only-dropdown-off-temporarily =
     .label = Desaktibatuta behin-behinean
-identity-https-only-info-turn-on2 = Aktibatu gune honetarako HTTPS-Only modua, ahal denean { -brand-short-name }(e)k konexioa HTTPSra bihur dezan.
-identity-https-only-info-turn-off2 = Orriak hautsita badirudi, agian HTTPS-Only modua desgaitu nahi duzu gunea HTTP ez-segurua erabiliz berritzeko.
 identity-https-only-info-turn-on3 = Gaitu HTTPS hobekuntzak gune honetarako { -brand-short-name }(e)k ahal denean konexioa hobetzea nahi baduzu.
 identity-https-only-info-turn-off3 = Orriak hautsita badirudi, agian gune honetarako HTTPS hobekuntzak desgaitu nahi dituzu, gunea HTTP ez-segurua erabiliz berritzeko.
 identity-https-only-info-no-upgrade = Ezin da konexioa bihurtu HTTPtik.
@@ -611,7 +475,6 @@ identity-remove-cert-exception =
     .label = Kendu salbuespena
     .accesskey = K
 identity-description-insecure = Gune honetarako zure konexioa ez da pribatua. Bidaltzen duzun informazioa besteek ikus lezakete (adibidez pasahitzak, mezuak, kreditu-txartelak, etab.).
-identity-description-insecure-login-forms = Orri honetan sartzen duzun saio-hasiera informazioa ez da segurua eta arriskuan egon liteke.
 identity-description-weak-cipher-intro = Gune honetarako zure konexioak zifraketa ahula erabiltzen du eta ez da pribatua.
 identity-description-weak-cipher-risk = Besteek zure informazioa ikusi edo webgunearen portaera alda lezakete.
 identity-description-active-blocked2 = { -brand-short-name }(e)k seguruak ez diren orri honetako atalak blokeatu ditu.
@@ -622,12 +485,6 @@ identity-description-active-loaded = Wegune honek segurua ez den edukia dauka (a
 identity-description-active-loaded-insecure = Gune honekin partekatzen duzun informazioa besteek ikus lezakete (adibidez pasahitzak, mezuak, kreditu txartelak, etab.).
 identity-description-tls-key-logging-heading = Baliteke zure konexioa pribatua ez izatea
 identity-description-tls-key-logging-message = Aplikazio edo zerbitzu batek gune honetako zifratutako zure trafikoa ikus lezake.
-identity-disable-mixed-content-blocking =
-    .label = Desgaitu babesa momentuz
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = Gaitu babesa
-    .accesskey = G
 identity-more-info-link-text =
     .label = Informazio gehiago
 
@@ -644,37 +501,6 @@ browser-window-close-button =
 # Clicking this button closes the window and returns to the tab where it was opened from
 browser-window-return-to-opener =
     .tooltiptext = Itzuli
-
-## Tab actions
-
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = ERREPRODUZITZEN
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = MUTUTUTA
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = ERREPRODUKZIO AUTOMATIKOA BLOKEATUTA
-# This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = BIDEOA BESTE LEIHO BATEAN
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-browser-tab-mute =
-    { $count ->
-        [1] MUTUTU FITXA
-       *[other] MUTUTU { $count } FITXA
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] EZ MUTUTU FITXA
-       *[other] EZ MUTUTU { $count } FITXA
-    }
-browser-tab-unblock =
-    { $count ->
-        [1] ERREPRODUZITU FITXA
-       *[other] ERREPRODUZITU { $count } FITXA
-    }
 
 ## Bookmarks toolbar items
 
@@ -715,10 +541,6 @@ sharing-warning-disable-for-session =
 
 webserial-select-port-label = Hautatu serieko ataka:
 webserial-no-ports-available = Ez dago serieko atakarik erabilgarri
-
-## DevTools F12 popup
-
-enable-devtools-popup-description2 = F12 lasterbidea erabiltzeko, ireki lehenik garatzaile-tresnak 'Nabigatzailearen tresnak' menutik.
 
 ## URL Bar
 
@@ -783,8 +605,6 @@ urlbar-extension =
     .value = Hedapena:
 urlbar-go-button2 =
     .title = Joan kokapen-barrako helbidera
-urlbar-go-button =
-    .tooltiptext = Joan kokapen-barrako helbidera
 urlbar-page-action-button =
     .tooltiptext = Orri-ekintzak
 urlbar-revert-button =
@@ -842,11 +662,6 @@ urlbar-result-action-tabtosearch-web = Bilatu { $engine } erabiliz helbide-barra
 urlbar-result-action-tabtosearch-other-engine = Bilatu { $engine } erabiliz helbide-barratik zuzenean
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Kopiatu
-# Shows the result of a formula expression being calculated, the last = sign will be shown
-# as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = zehaztugabea
 # The sub title of an add-on suggestion in the urlbar.
@@ -857,23 +672,6 @@ urlbar-result-mdn-subtitle = { -mdn-brand-name }
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
 urlbar-result-suggestion-recommended = Gomendatua
-# Shows the result of a formula expression being calculated, in scientific notation.
-# The last = sign will be shown as part of the result (e.g. "= 1.0e17").
-# Variables
-#  $result (String): the string representation for a result in scientific notation
-#  (e.g. "1.0e17").
-urlbar-result-action-calculator-result-scientific-notation = = { $result }
-# Shows the result of a formula expression being calculated, this is used for numbers >= 1.
-# The last = sign will be shown as part of the result (e.g. "= 2").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-3 = = { NUMBER($result, maximumFractionDigits: 8, useGrouping: "false") }
-# Shows the result of a formula expression being calculated, to a maximum of 9 significant
-# digits. This is used for numbers < 1.
-# The last = sign will be shown as part of the result (e.g. "= 0.333333333").
-# Variables
-#  $result (String): the string representation for a formula result
-urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 # The title of a weather suggestion in the urlbar. The temperature and unit
 # substring should be inside a <strong> tag. If the temperature and unit are not
 # adjacent in the localization, it's OK to include only the temperature in the
@@ -1062,32 +860,6 @@ urlbar-result-search-with-local-search-mode = { $keywords } - Bilatu { $localSea
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Bilatu { $engine } erabiliz
-urlbar-searchmode-dropmarker =
-    .tooltiptext = Hautatu bilaketa-motorra
-urlbar-searchmode-bookmarks =
-    .label = Laster-markak
-urlbar-searchmode-tabs =
-    .label = Fitxak
-urlbar-searchmode-history =
-    .label = Historia
-urlbar-searchmode-actions =
-    .label = Ekintzak
-urlbar-searchmode-exit-button =
-    .tooltiptext = Itxi
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-description = Oraingoan, bilatu honekin:
-urlbar-searchmode-popup-search-settings-menuitem =
-    .label = Bilaketa-ezarpenak
-# Searchmode Switcher button
-# Variables:
-#   $engine (String): the current default search engine.
-urlbar-searchmode-button2 =
-    .label = { $engine }, hautatu bilaketa-motorra
-    .tooltiptext = { $engine }, hautatu bilaketa-motorra
-urlbar-searchmode-button-no-engine =
-    .label = Ez da lasterbiderik hautatu, hautatu lasterbidea
-    .tooltiptext = Ez da lasterbiderik hautatu, hautatu lasterbidea
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -1194,16 +966,10 @@ urlbar-group-trending =
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show2 = Ez erakutsi bilaketa-joerak
     .accesskey = z
-# Label shown above sponsored suggestions in the urlbar results.
-urlbar-group-sponsored =
-    .label = Babesleak hornituta
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Ez erakutsi bilaketa-joerak
     .accesskey = z
-urlbar-result-menu-trending-why =
-    .label = Zergatik agertu zait hau?
-    .accesskey = Z
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-trending-dismissal-acknowledgment = Eskerrik asko zure iritziagatik. Hemendik aurrera ez duzu bilaketa-joerarik ikusiko.
@@ -1288,12 +1054,6 @@ bookmarks-tools-toolbar-visibility-panel =
             [true] Ezkutatu laster-marken tresna-barra
            *[other] Erakutsi laster-marken tresna-barra
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] Kendu laster-marken menua tresna-barratik
-           *[other] Gehitu laster-marken menua tresna-barran
-        }
 
 ##
 
@@ -1324,14 +1084,6 @@ bookmarks-subview-bookmark-tab =
 
 library-bookmarks-menu =
     .label = Laster-markak
-library-recent-activity-title =
-    .value = Azken jarduera
-
-## Pocket toolbar button
-
-save-to-pocket-button =
-    .label = Gorde { -pocket-brand-name }-en
-    .tooltiptext = Gorde { -pocket-brand-name }-en
 
 ## Repair text encoding toolbar button
 
@@ -1421,8 +1173,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = B
 
 ## Password save/update panel
 
-panel-save-update-username = Erabiltzaile-izena
-panel-save-update-password = Pasahitza
 panel-save-update-username-2 =
     .label = Erabiltzaile-izena
 panel-save-update-password-2 =
@@ -1444,33 +1194,18 @@ menu-share-copy-links =
            *[other] Kopiatu { $count } lotura
         }
     .accesskey = l
-menu-share-copy-link =
-    .label = Kopiatu lotura
-    .accesskey = K
 ui-tour-info-panel-close =
     .tooltiptext = Itxi
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
-popups-infobar-allow =
-    .label = Baimendu laster-leihoak { $uriHost } ostalarirako
-    .accesskey = p
-popups-infobar-block =
-    .label = Blokeatu laster-leihoak { $uriHost } ostalarirako
-    .accesskey = p
 popups-infobar-allow2 =
     .label = Baimendu laster-leihoak eta hirugarrenek eragindako birbideratzeak { $uriHost } ostalarirako
     .accesskey = s
 
 ##
 
-popups-infobar-dont-show-message =
-    .label = Ez erakutsi mezu hau laster-leihoak blokeatzerakoan
-    .accesskey = z
-edit-popup-settings =
-    .label = Kudeatu laster-leihoen ezarpenak…
-    .accesskey = K
 picture-in-picture-hide-toggle =
     .label = Ezkutatu bideoa beste leiho batean ikusteko botoia
     .accesskey = E
@@ -1496,8 +1231,6 @@ navbar-downloads =
     .label = Deskargak
 navbar-overflow-2 =
     .tooltiptext = Tresna gehiago
-navbar-overflow =
-    .tooltiptext = Tresna gehiago…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1600,13 +1333,8 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
-reset-pbm-toolbar-button =
-    .label = Amaitu saio pribatua
-    .tooltiptext = Amaitu saio pribatua
 reset-pbm-panel-heading2 = Garbitu datuak eta hasi saio pribatu berria?
 reset-pbm-panel-description2 = Honek historia, cookieak eta gunearen bestelako datuak ezabatzen ditu zure leiho pribatua itxi gabe.
-reset-pbm-panel-heading = Zure saio pribatua amaitu?
-reset-pbm-panel-description = Itxi fitxa pribatu guztiak eta ezabatu historia, cookieak eta guneetako bestelako datu guztiak.
 reset-pbm-panel-always-ask-checkbox =
     .label = Galdetu beti
     .accesskey = b
@@ -1616,9 +1344,6 @@ reset-pbm-panel-cancel-button =
 reset-pbm-panel-confirm-button2 =
     .label = Garbitu saio pribatua
     .accesskey = G
-reset-pbm-panel-confirm-button =
-    .label = Ezabatu saioko datuak
-    .accesskey = s
 reset-pbm-panel-complete = Saio pribatuko datuak ezabatuta
 reset-pbm-toolbar-button2 =
     .label = Garbitu saio pribatua

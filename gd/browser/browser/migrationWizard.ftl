@@ -19,11 +19,6 @@ migration-wizard-selection-option-without-profile = { $sourceBrowser }
 #  $sourceBrowser (String): the name of the browser to import from.
 #  $profileName (String): the name of the user profile to import from.
 migration-wizard-selection-option-with-profile = { $sourceBrowser } – { $profileName }
-
-# Each migrator is expected to include a display name string, and that display
-# name string should have a key with "migration-wizard-migrator-display-name-"
-# as a prefix followed by the unique identification key for the migrator.
-
 migration-wizard-migrator-display-name-brave = Treun
 migration-wizard-migrator-display-name-canary = Chrome Canary
 migration-wizard-migrator-display-name-chrome = Chrome
@@ -75,7 +70,6 @@ migration-bookmarks-option-label = Comharran-lìn
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Annsachdan
-migration-logins-and-passwords-option-label = Clàraidhean a-steach is faclan-faire a shàbhail thu
 migration-passwords-option-label = Faclan-faire a shàbhail thu
 migration-history-option-label = An eachdraidh brabhsaidh
 migration-extensions-option-label = Leudachain
@@ -198,8 +192,6 @@ migration-safari-password-import-step3 = Sàbhail faidhle nam faclan-faire
 migration-safari-password-import-step4 = Cleachd “Tagh faidhle” gu h-ìosal airson faidhle nam faclan-faire a shàbhail thu a thaghadh
 migration-manual-password-import-skip-button = Leum seachad
 migration-manual-password-import-select-button = Tagh faidhle
-migration-safari-password-import-skip-button = Leum seachad
-migration-safari-password-import-select-button = Tagh faidhle
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #

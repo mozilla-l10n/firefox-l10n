@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Zgjerimi S’mund të Lexojë dhe Ndryshojë të Dhëna
-origin-controls-quarantined =
-    .label = Zgjerim Jo i Lejuar të Lexojë dhe Ndryshojë të Dhëna
 origin-controls-quarantined-status =
     .label = Zgjerim Jo i Lejuar Në Sajte Me Kufizime
 origin-controls-quarantined-allow =

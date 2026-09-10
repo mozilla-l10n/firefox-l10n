@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Ընդլայնումը չի կարող կարդալ և փոխել տվյալները
-origin-controls-quarantined =
-    .label = Ընդլայնմանը չի թույլատրվում կարդալ և փոխել տվյալները
 origin-controls-quarantined-status =
     .label = Ընդլայնումը չի թույլատրվում սահմանափակ կայքերում
 origin-controls-quarantined-allow =

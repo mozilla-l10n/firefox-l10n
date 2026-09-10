@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window2 =
-    .title = Configuração de conexão
     .style =
         { PLATFORM() ->
             [macos] min-width: 44em
            *[other] min-width: 49em
         }
+    .title = Configuração de conexão
 connection-close-key =
     .key = W
 connection-disable-extension =
@@ -61,14 +61,10 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Recarregar
     .accesskey = c
-connection-proxy-autologin =
-    .label = Não pedir confirmação de autenticação se a senha estiver memorizada
-    .accesskey = v
-    .tooltip = Autenticação silenciosa em proxies quando houver credenciais memorizadas. Uma confirmação será solicitada se a autenticação falhar.
 connection-proxy-autologin-checkbox =
     .label = Não pedir confirmação de autenticação se a senha estiver memorizada
-    .accesskey = v
     .tooltiptext = Autenticação silenciosa em proxies quando houver credenciais memorizadas. Uma confirmação será solicitada se a autenticação falhar.
+    .accesskey = v
 connection-proxy-socks4-remote-dns =
     .label = Proxy DNS ao usar SOCKS v4
     .accesskey = 4
@@ -82,6 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Usar a URL padrão para resolver DNS sobre HTTPS
 connection-dns-over-https-url-custom =
     .label = Personalizado
-    .accesskey = P
     .tooltiptext = Insira sua URL preferida para resolver DNS sobre HTTPS
-connection-dns-over-https-custom-label = Personalizado
+    .accesskey = P

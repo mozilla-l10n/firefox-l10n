@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = Aldoni { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = Progreso: paŝo { $current } de { $total }
 # This button will open system settings to turn on prefers-reduced-motion
@@ -198,11 +192,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Alpingli { -brand-short-name } al la taska ilaro kaj al la menu Komenci
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Komencu per retumilo apogata de neprofitcela organizo. Ni defendas vian privatecon dum vi retumas.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -232,57 +221,10 @@ mr2022-onboarding-set-default-subtitle = Uzu retumilon apogatan de neprofitcela 
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = Nia lasta versio estis fasonita por vi, kio faciligas retumon pli ol iam ajn antaŭe. Ĝi pakas amason da trajtoj, kaj ni pensas ke vi ilin ŝategos.
 mr2022-onboarding-get-started-primary-button-label = Agordi en sekundoj
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = Fulmrapida agordo
-mr2022-onboarding-import-subtitle = Agordu { -brand-short-name } kiel vi ĝin ŝatas. Aldonu viajn legosignojn, pasvortojn kaj pli el via antaŭa retumilo.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importi el antaŭa retumilo
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Elektu koloron kiu inspiras vin
-mr2022-onboarding-colorway-subtitle = Sendependaj voĉoj povas ŝanĝi kulturon.
-mr2022-onboarding-colorway-primary-button-label-continue = Agordi kaj daŭrigi
-mr2022-onboarding-existing-colorway-checkbox-label = Igu { -firefox-home-brand-name } via kolorriĉa eka paĝo
-mr2022-onboarding-colorway-label-default = Norma
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Nunaj koloroj de { -brand-short-name }
-mr2022-onboarding-colorway-description-default = <b>Uzi miajn nunaj kolorojn de { -brand-short-name }.</b>
-mr2022-onboarding-colorway-label-playmaker = Iniciatanto
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Iniciatanto (ruĝa)
-mr2022-onboarding-colorway-description-playmaker = <b>Vi estas iniciatanto.</b> Vi kreas eblojn por venki kaj helpi viajn samteamanojn plibonigi siajn kapablojn.
-mr2022-onboarding-colorway-label-expressionist = Artisto
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Artisto (flava)
-mr2022-onboarding-colorway-description-expressionist = <b>Vi estas artisto.</b>Vi vidas la mondon malsame kaj viaj kreaĵoj vekas emociojn ĉe la aliaj.
-mr2022-onboarding-colorway-label-visionary = Imagulo
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Imagulo (verda)
-mr2022-onboarding-colorway-description-visionary = <b>Vi estas imagulo.</b> Vi kontestas la nunan situacion kaj helpas la aliajn imagi pli bonan mondon.
-mr2022-onboarding-colorway-label-activist = Aktivulo
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Aktivulo (blua)
-mr2022-onboarding-colorway-description-activist = <b>Vi estas aktivulo.</b> Vi lasas la mondon pli bona ol vi ĝin trovis kaj helpas la aliajn kredi pri tiu eblo.
-mr2022-onboarding-colorway-label-dreamer = Revulo
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Revulo (purpura)
-mr2022-onboarding-colorway-description-dreamer = <b>Vi estas revulo.</b> Vi kredas ke bonŝanco favoras kuraĝulojn kaj inspiras aliajn esti tiaj.
-mr2022-onboarding-colorway-label-innovator = Novaĵkreemulo
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Novaĵkreemulo (oranĝa)
-mr2022-onboarding-colorway-description-innovator = <b>Vi estas novaĵkreemulo.</b> Vi vidas eblojn ĉie kaj lasas spurojn en la vivoj de ĉiuj, kiuj estas ĉirkaŭ vi.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Iru tien kaj reen inter la komputilo kaj la telefono
-mr2022-onboarding-mobile-download-subtitle = Rehavu langetojn el unu aparato kaj daŭrigi en alia aparto el la loko kie vi haltis. Cetere, spegulu viajn legosignojn kaj pasvortojn ie ajn kie vi uzas { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Skanu la kodon QR por elŝuti { -brand-product-name } por poŝaparatoj, aŭ <a data-l10n-name="download-label">sendu elŝutan ligilon al vi mem.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Skanu la kodon QR por elŝuti { -brand-product-name } por poŝaparatoj.
 
@@ -335,15 +277,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Helhaŭta mano kaj malhelhaŭta mano altfrapas sin
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Vido de sunsubiro tra fenestro, kun vulpo kaj planto en florpoto ĉe la fenestrobreto
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Mana ŝprucigilo farbas multkoloran mozaikon kun verda okulo, oranĝkolora ŝuo, ruĝa korbopilko, violkoloraj kapaŭskultiloj, blua koro kaj flava krono
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Mansalutanta vulpo en ekrano de tekokomputilo, kiu havas konektitan muson.
 onboarding-device-migration-title = Bonvenon denove!
-onboarding-device-migration-subtitle = Komencu seancon en  via { -fxaccount-brand-name(capitalization: "sentence") } por alporti viajn legosignojn, pasvortojn kaj historion al vi, en tiu ĉi nova aparato.
 onboarding-device-migration-subtitle2 = Komencu seancon en via konto por porti viajn legosignojn, pasvortojn kaj historion al via nova aparato.
 onboarding-device-migration-primary-button-label = Komenci seanconKomenci seancon
 
@@ -460,15 +399,12 @@ tab-groups-onboarding-feature-callout-title = Provu la grupojn de langetoj, por 
 tab-groups-onboarding-feature-callout-subtitle = Ordigu viajn langetojn per treno de unu sur alia, por krei vian unuan grupon.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Trovu iam ajn viajn grupojn de langetoj en la menuo Listigi ĉiujn langetojn
-tab-groups-onboarding-create-group-title-2 = Iam ajn retrovu ĉi tie viajn grupojn de langetoj.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Retrovu viajn grupojn de langetoj per serĉo en la adresa strio.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Se vi fermas grupon de langetoj, vi povas iam ajn remalfermi ĝin en la menuo Listigi ĉiujn langetojn
-tab-groups-onboarding-saved-groups-title-2 = Se vi fermas grupon de langetoj, vi povas remalfermi ĝin ĉi tie, iam ajn.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Retrovu viajn fermitajn grupojn de langetoj per serĉo en la adresa strio.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Remalfermi iam ajn viajn grupojn de langetoj en la menuo Listigi ĉiujn langetojn
-tab-groups-onboarding-session-restore-title = Remalfermu viajn grupojn de langetoj ĉi tie, iam ajn.
 tab-groups-onboarding-dismiss = Akcepti
 
 ## Multi Profiles feature onboarding messages

@@ -17,7 +17,6 @@ cert-error-trust-untrusted-issuer = Yayıncısının sertifikasına güvenilmedi
 cert-error-trust-signature-algorithm-disabled = Güvenli olmadığı için devre dışı bırakılmış bir imza algoritması ile imzalandığından, bu sertifikaya güvenilmiyor.
 cert-error-trust-expired-issuer = Sertifikaya güvenilmiyor çünkü yayıncı sertifikasının süresi dolmuş.
 cert-error-trust-self-signed = Bu sertifika kendi kendine imzalandığı için sertifikaya güvenilmiyor.
-cert-error-trust-symantec = GeoTrust, RapidSSL, Symantec, Thawte ve VeriSign tarafından düzenlenen sertifikalar; bu sertifika makamları geçmişte güvenlik prosedürlerini yerine getiremediği için artık güvenli kabul edilmemektedir.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-trust-certificate-transparency = { $hostname } genel sertifika şeffaflığı gereksinimlerini karşıladığını kanıtlayamadığı için { -brand-short-name } bu siteye güvenmiyor.
@@ -55,10 +54,6 @@ cert-error-code-prefix-link = Hata kodu: <a data-l10n-name="error-code-link">{ $
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
 cert-error-ssl-connection-error = { $hostname } bağlantısı sırasında bir hata oluştu. { $errorMessage }
-# Variables:
-#   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Web siteleri, kimliklerini kanıtlamak için sertifika makamlarının düzenlediği sertifikaları kullanır. Çoğu tarayıcı GeoTrust, RapidSSL, Symantec, Thawte ve VeriSign tarafından düzenlenen sertifikalara artık güvenmeme kararı almıştır. { $hostname } bu makamlardan birine ait bir sertifika kullandığı için sitenin kimliğini doğrulayamıyoruz.
-cert-error-symantec-distrust-admin = Web sitesinin sahibine bu sorunla ilgili bilgi vermeyi deneyebilirsiniz.
 cert-error-old-tls-version = Bu web sitesi TLS 1.2 protokolünü desteklemiyor olabilir. { -brand-short-name } tarafından desteklenen en düşük sürüm TLS 1.2’dir.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -67,14 +62,12 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 #   $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Sertifika zinciri:
-open-in-new-window-for-csp-or-xfo-error = Siteyi yeni pencerede aç
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Bu sayfayı başka bir site gömdüyse { $hostname } güvenliğinizi korumak için { -brand-short-name } tarayıcınızın sayfayı görüntülemesine izin vermez. Bu sayfayı görmek için yeni bir pencerede açmanız gerekir.
 fp-certerror-view-certificate-link = Sitenin sertifikasını göster
 fp-certerror-return-to-previous-page-recommended-button-2 = Geri dön (önerilen)
     .accesskey = G
-fp-certerror-return-to-previous-page-recommended-button = Geri dön (önerilen)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -106,21 +99,21 @@ fp-certerror-self-signed-important-note = ÖNEMLİ NOT: Bu siteyi kurumsal bir i
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = Siteler gerçekten girmek istediğiniz site olduklarını kanıtlamak için sertifika makamları tarafından verilen sertifikaları kullanır. { -brand-short-name } bu siteye güvenmiyor çünkü sertifikanın süresi { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } tarihinde dolmuş.
+fp-certerror-expired-why-dangerous-body = Siteler gerçekten girmek istediğiniz site olduklarını kanıtlamak için sertifika makamları tarafından verilen sertifikaları kullanır. { -brand-short-name } bu siteye güvenmiyor çünkü sertifikanın süresi { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } tarihinde dolmuş.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = Siteler gerçekten girmek istediğiniz site olduklarını kanıtlamak için sertifika makamları tarafından verilen sertifikaları kullanır. { -brand-short-name } bu siteye güvenmiyor çünkü sertifika { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } tarihine kadar geçerli olmayacak.
+fp-certerror-not-yet-valid-why-dangerous-body = Siteler gerçekten girmek istediğiniz site olduklarını kanıtlamak için sertifika makamları tarafından verilen sertifikaları kullanır. { -brand-short-name } bu siteye güvenmiyor çünkü sertifika { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } tarihine kadar geçerli olmayacak.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = Cihazınızın saati { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } olarak görünüyor. Saat doğruysa güvenlik sorunu muhtemelen siteden kaynaklanıyor demektir. Saat yanlışsa cihazınızın sistem ayarlarından düzeltebilirsiniz.
+fp-certerror-expired-what-can-you-do-body = Cihazınızın saati { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } olarak görünüyor. Saat doğruysa güvenlik sorunu muhtemelen siteden kaynaklanıyor demektir. Saat yanlışsa cihazınızın sistem ayarlarından düzeltebilirsiniz.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Hata kodu: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
-fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -133,11 +126,11 @@ fp-learn-more-about-time-related-errors = Saatle ilgili hataları giderme hakkı
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = Bu sitenin sağladığı sertifika { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } tarihine kadar geçerli olmadığı için { -brand-short-name } bu siteye güvenmiyor.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = Bu sitenin sağladığı sertifika { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } tarihine kadar geçerli olmadığı için { -brand-short-name } bu siteye güvenmiyor.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Cihazınızın saati { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") } olarak görünüyor. Saat doğruysa güvenlik sorunu muhtemelen siteden kaynaklanıyor demektir. Saat yanlışsa cihazınızın sistem ayarlarından düzeltebilirsiniz.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Cihazınızın saati { DATETIME($date, timeStyle: "short") } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } olarak görünüyor. Saat doğruysa güvenlik sorunu muhtemelen siteden kaynaklanıyor demektir. Saat yanlışsa cihazınızın sistem ayarlarından düzeltebilirsiniz.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -179,8 +172,6 @@ deniedPortAccess-title = Bu adrese erişim kısıtlanmış
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Aradığınız siteyi bulamıyoruz.
 internet-connection-offline-title = İnternet bağlantınızla ilgili bir sorun var.
-dns-not-found-trr-only-title2 = Bu alan adının sorgulanması güvenlik riski taşıyabilir
-dns-not-found-native-fallback-title2 = Bu alan adının sorgulanması güvenlik riski taşıyabilir
 fileNotFound-title = Dosya bulunamadı
 fileAccessDenied-title = Dosyaya erişim reddedildi
 generic-title = Hata oluştu.
@@ -205,7 +196,6 @@ unknownSocketType-title = Sunucudan beklenmeyen yanıt
 nssFailure2-title = Güvenli bağlantı kurulamadı
 csp-xfo-error-title = { -brand-short-name } bu sayfayı açamıyor
 corruptedContentErrorv2-title = Hasarlı İçerik Hatası
-corruptedContentError-title = Hasarlı içerik hatası
 sslv3Used-title = Güvenli bağlantı kurulamadı
 inadequateSecurityError-title = Bağlantınız güvenli değil
 blockedByPolicy-title = Engellenmiş sayfa
@@ -228,7 +218,6 @@ fp-certerror-hide-advanced-button = Gelişmişi gizle
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = { $hostname } sitesine devam et (riskli)
 fp-certerror-intro = { -brand-short-name }, <strong>{ $hostname }</strong> sitesiyle ilgili ciddi olabilecek bir güvenlik sorunu tespit etti. Bu siteymiş gibi davranan birisi kredi kartı bilgileriniz, parolalarınız ve e-postalarınız gibi şeyleri çalmaya çalışabilir.
 fp-certerror-expired-into = { -brand-short-name } <strong>{ $hostname }</strong> sitesiyle ilgili bir güvenlik sorunu tespit etti. Ya site doğru kurulmamış ya da cihazınızın tarih/saat ayarları yanlış.
 fp-certerror-transparency-intro = Birisi <strong>{ $hostname }</strong> sitesini taklit ederek kredi kartı bilgileriniz, parolalarınız veya e-postalarınız gibi bilgileri çalmaya çalışabilir.

@@ -21,8 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Descarego o certificato
     .style = min-width: 46em
+    .title = Descarego o certificato
 download-cert-message = Te vegne domandou de dâ a fiduccia a sta neuva aotoritæ de certificaçion (CA).
 download-cert-trust-ssl =
     .label = Fiate de sta CA pe identificâ i sciti web.
@@ -37,8 +37,6 @@ download-cert-view-text = Ezamina o certificato CA
 
 client-auth-window =
     .title = L'é domandâ a identitæ de l'utente
-client-auth-site-description = Sto scito o veu savei a teu identificaçion co-o certificato:
-client-auth-choose-cert = Çerni un certificato da fâ vedde comme identificaçion:
 client-auth-cert-details = Detalli in sciô certificato Seleçionou:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

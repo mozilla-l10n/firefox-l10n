@@ -51,7 +51,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     Para unha explicación das diferentes formas de rexistrar e atopar datos, consulta a
     pestana <strong>Acerca dos datos</strong>.
-about-glean-about-testing-header = Sobre as probas
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     As instrucións completas están documentadas na
@@ -60,8 +59,6 @@ about-glean-manual-testing =
     pero, en resumo, para probar manualmente que a súa instrumentación funciona, debería:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (non enviar ningún ping)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = No campo anterior asegúrate de que hai unha etiqueta de depuración memorable para que poidas recoñecer os teus pings máis tarde.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Establece unha etiqueta de depuración fácil de recordar <span>(20 caracteres ou menos, só alfanuméricos e -)</span> para que poidas recoñecer os teus pings máis tarde.
 # An in-line drop down list precedes this string.
@@ -86,13 +83,6 @@ about-glean-label-for-controls-submit =
 about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Visita a páxina de { glean-debug-ping-viewer-brand-name } para ver os pings coa túa etiqueta</a>.
     Non deberían pasar máis duns segundos desde que premas o botón ata que chegue o ping. Ás veces pode levar uns poucos minutos.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    Para máis probas <i>ad hoc</i>,
-    tamén podes determinar o valor actual dunha determinada peza de instrumentación
-    abrindo unha consola de ferramentas de desenvolvemento aquí en <code>about:glean</code>
-    e usando a API <code>testGetValue()</code> como
-    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     Para máis probas <i>ad hoc</i>,
@@ -139,6 +129,3 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Para rexistrar un perfil de rendemento e ver todas as métricas rexistradas, utiliza o
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
-about-glean-about-data-explanation =
-    Para consultar a lista de datos recollidos, consulte a
-    <a data-l10n-name="glean-dictionary-link">dicionario de { -glean-brand-name }</a>.

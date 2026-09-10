@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = ข้อยกเว้น
     .style = min-width: 45em
+    .title = ข้อยกเว้น
 permissions-close-key =
     .key = w
 permissions-address = ที่อยู่เว็บไซต์
@@ -80,79 +80,64 @@ permissions-invalid-uri-label = โปรดป้อนชื่อโฮสต
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = ข้อยกเว้นสำหรับการป้องกันการติดตามแบบพิเศษ
     .style = { permissions-window2.style }
+    .title = ข้อยกเว้นสำหรับการป้องกันการติดตามแบบพิเศษ
 permissions-exceptions-manage-etp-desc = คุณสามารถระบุเว็บไซต์ที่จะปิดการป้องกันการติดตามแบบพิเศษได้ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการจัดการแล้วคลิก เพิ่มข้อยกเว้น
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = ข้อยกเว้น - คุกกี้และข้อมูลไซต์
     .style = { permissions-window2.style }
+    .title = ข้อยกเว้น - คุกกี้และข้อมูลไซต์
 permissions-exceptions-cookie-desc = คุณสามารถระบุเว็บไซต์ที่จะอนุญาตหรือไม่อนุญาตให้ใช้คุกกี้และข้อมูลไซต์เสมอได้ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการจัดการแล้วคลิก ปิดกั้น อนุญาตในเซสชัน หรือ อนุญาต
 
 ## Exceptions - Clear on Shutdown
 
 permissions-exceptions-shutdown-clearing-window =
-    .title = ข้อยกเว้น - ล้างประวัติเมื่อปิดโปรแกรม
     .style = { permissions-window2.style }
+    .title = ข้อยกเว้น - ล้างประวัติเมื่อปิดโปรแกรม
 permissions-exceptions-shutdown-clearing-desc = คุณสามารถระบุเว็บไซต์ที่เก็บข้อมูลไว้เมื่อ { -brand-short-name } ล้างประวัติตอนปิดได้ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการจัดการแล้วคลิก อนุญาต
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = ข้อยกเว้น - โหมด HTTPS-Only
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = คุณสามารถปิดโหมด HTTPS-Only สำหรับแต่ละเว็บไซต์ได้ { -brand-short-name } จะไม่พยายามอัปเกรดการเชื่อมต่อเป็น HTTPS แบบปลอดภัยสำหรับไซต์เหล่านั้น ข้อยกเว้นจะไม่นำไปใช้กับหน้าต่างส่วนตัว
+    .title = ข้อยกเว้น - โหมด HTTPS-Only
 permissions-exceptions-https-only-desc2 = คุณสามารถปิดโหมด HTTPS-Only สำหรับแต่ละเว็บไซต์ได้ { -brand-short-name } จะไม่พยายามอัปเกรดการเชื่อมต่อเป็น HTTPS แบบปลอดภัยสำหรับไซต์เหล่านั้น
 
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
     .title = เว็บไซต์ที่อนุญาต - ป๊อปอัปและการเปลี่ยนทางจากบุคคลที่สาม
-    .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = คุณสามารถระบุเว็บไซต์ที่จะอนุญาตให้เปิดหน้าต่างป๊อปอัปและเปลี่ยนเส้นทางด้วยเฟรมจากบุคคลที่สามได้
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .title = เว็บไซต์ที่อนุญาต - ป๊อปอัป
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = คุณสามารถระบุเว็บไซต์ที่จะอนุญาตให้เปิดหน้าต่างป๊อปอัปได้ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการอนุญาตแล้วคลิก อนุญาต
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .title = ข้อยกเว้น - การเข้าสู่ระบบที่บันทึกไว้
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = การเข้าสู่ระบบสำหรับเว็บไซต์ต่อไปนี้จะไม่ถูกบันทึก
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = ข้อยกเว้น - รหัสผ่านที่บันทึกไว้
     .style = { permissions-window2.style }
+    .title = ข้อยกเว้น - รหัสผ่านที่บันทึกไว้
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } จะไม่บันทึกรหัสผ่านสำหรับไซต์ที่แสดงไว้ที่นี่
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = เว็บไซต์ที่อนุญาต - การติดตั้งส่วนเสริม
     .style = { permissions-window2.style }
+    .title = เว็บไซต์ที่อนุญาต - การติดตั้งส่วนเสริม
 permissions-exceptions-addons-desc = คุณสามารถระบุเว็บไซต์ที่จะอนุญาตให้ติดตั้งส่วนเสริมได้ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการอนุญาตแล้วคลิก อนุญาต
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window2 =
-    .title = การตั้งค่า - การเล่นอัตโนมัติ
     .style = { permissions-window2.style }
+    .title = การตั้งค่า - การเล่นอัตโนมัติ
 permissions-site-autoplay-desc = คุณสามารถจัดการเว็บไซต์ที่ไม่ทำงานตามการตั้งค่าการเล่นอัตโนมัติเริ่มต้นได้ที่นี่
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = การตั้งค่า - การกำหนดสิทธิ์การแจ้งเตือน
     .style = { permissions-window2.style }
+    .title = การตั้งค่า - การกำหนดสิทธิ์การแจ้งเตือน
 permissions-site-notification-desc = เว็บไซต์ดังต่อไปนี้ได้ขอส่งการแจ้งเตือนให้คุณ คุณสามารถระบุเว็บไซต์ที่อนุญาตให้ส่งการแจ้งเตือนให้คุณ คุณยังสามารถปิดกั้นคำขอใหม่ที่ขออนุญาตการแจ้งเตือน
 permissions-site-notification-disable-label =
     .label = ปิดกั้นคำร้องขอใหม่ที่ขออนุญาตการแจ้งเตือน
@@ -161,8 +146,8 @@ permissions-site-notification-disable-desc = นี่จะป้องกั�
 ## Site Permissions - Location
 
 permissions-site-location-window2 =
-    .title = การตั้งค่า - การกำหนดสิทธิ์ตำแหน่งที่ตั้ง
     .style = { permissions-window2.style }
+    .title = การตั้งค่า - การกำหนดสิทธิ์ตำแหน่งที่ตั้ง
 permissions-site-location-desc = เว็บไซต์ดังต่อไปนี้ได้ขอเข้าถึงตำแหน่งที่ตั้งของคุณ คุณสามารถระบุเว็บไซต์ที่อนุญาตให้เข้าถึงตำแหน่งที่ตั้งของคุณ คุณยังสามารถปิดกั้นคำขอใหม่ที่ขอเข้าถึงตำแหน่งที่ตั้งของคุณ
 permissions-site-location-disable-label =
     .label = ปิดกั้นคำร้องขอใหม่ที่ขอเข้าถึงตำแหน่งที่ตั้งของคุณ
@@ -171,8 +156,8 @@ permissions-site-location-disable-desc = นี่จะป้องกันไ
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window2 =
-    .title = การตั้งค่า - การกำหนดสิทธิ์ความเป็นจริงเสมือน
     .style = { permissions-window2.style }
+    .title = การตั้งค่า - การกำหนดสิทธิ์ความเป็นจริงเสมือน
 permissions-site-xr-desc = เว็บไซต์ดังต่อไปนี้ได้ขอเข้าถึงอุปกรณ์ความเป็นจริงเสมือนของคุณ คุณสามารถระบุเว็บไซต์ที่อนุญาตให้เข้าถึงอุปกรณ์ความเป็นจริงเสมือนของคุณ คุณยังสามารถปิดกั้นคำขอใหม่ที่ขอเข้าถึงอุปกรณ์ความเป็นจริงเสมือนของคุณ
 permissions-site-xr-disable-label =
     .label = ปิดกั้นคำร้องขอใหม่ที่ขอเข้าถึงอุปกรณ์ความเป็นจริงเสมือนของคุณ
@@ -181,8 +166,8 @@ permissions-site-xr-disable-desc = นี่จะป้องกันเว็
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
-    .title = การตั้งค่า - การกำหนดสิทธิ์กล้อง
     .style = { permissions-window2.style }
+    .title = การตั้งค่า - การกำหนดสิทธิ์กล้อง
 permissions-site-camera-desc = เว็บไซต์ดังต่อไปนี้ได้ขอเข้าถึงกล้องของคุณ คุณสามารถระบุเว็บไซต์ที่อนุญาตให้เข้าถึงกล้องของคุณ คุณยังสามารถปิดกั้นคำขอใหม่ที่ขอเข้าถึงกล้องของคุณ
 permissions-site-camera-disable-label =
     .label = ปิดกั้นคำร้องขอใหม่ที่ขอเข้าถึงกล้องของคุณ
@@ -191,8 +176,8 @@ permissions-site-camera-disable-desc = นี่จะป้องกันไ�
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = การตั้งค่า - แอปและบริการบนอุปกรณ์
     .style = { permissions-window2.style }
+    .title = การตั้งค่า - แอปและบริการบนอุปกรณ์
 permissions-site-localhost-desc = เว็บไซต์เหล่านี้ได้ขอเข้าถึงแอปและบริการต่าง ๆ บนอุปกรณ์นี้ คุณสามารถเลือกที่จะอนุญาตหรือปิดกั้นไม่ให้ไซต์ทำเช่นนี้ได้
 permissions-site-localhost-disable-label =
     .label = ปิดกั้นคำขอใหม่ที่ขอเข้าถึงแอปและบริการต่าง ๆ บนอุปกรณ์นี้
@@ -201,8 +186,8 @@ permissions-site-localhost-disable-desc = นี่จะหยุดเว็�
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
-    .title = การตั้งค่า - อุปกรณ์เครือข่ายเฉพาะที่
     .style = { permissions-window2.style }
+    .title = การตั้งค่า - อุปกรณ์เครือข่ายเฉพาะที่
 permissions-site-local-network-desc = เว็บไซต์เหล่านี้ได้ขอเข้าถึงแอปและบริการต่าง ๆ บนอุปกรณ์ที่เชื่อมต่อกับ Wi-Fi หรือเครือข่ายเฉพาะที่ของคุณ คุณสามารถเลือกที่จะอนุญาตหรือปิดกั้นไม่ให้ไซต์ทำเช่นนี้ได้
 permissions-site-local-network-disable-label =
     .label = ปิดกั้นคำขอใหม่ที่ขอเข้าถึงแอปและบริการต่าง ๆ บนอุปกรณ์ที่เชื่อมต่อกับ Wi-Fi หรือเครือข่ายเฉพาะที่ของคุณ
@@ -211,8 +196,8 @@ permissions-site-local-network-disable-desc = นี่จะหยุดเว�
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = การตั้งค่า - การกำหนดสิทธิ์ไมโครโฟน
     .style = { permissions-window2.style }
+    .title = การตั้งค่า - การกำหนดสิทธิ์ไมโครโฟน
 permissions-site-microphone-desc = เว็บไซต์ดังต่อไปนี้ได้ขอเข้าถึงไมโครโฟนของคุณ คุณสามารถระบุเว็บไซต์ที่อนุญาตให้เข้าถึงไมโครโฟนของคุณ คุณยังสามารถปิดกั้นคำขอใหม่ที่ขอเข้าถึงไมโครโฟนของคุณ
 permissions-site-microphone-disable-label =
     .label = ปิดกั้นคำร้องขอใหม่ที่ขอเข้าถึงไมโครโฟนของคุณ
@@ -223,12 +208,12 @@ permissions-site-microphone-disable-desc = นี่จะป้องกัน�
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = การตั้งค่า - การกำหนดสิทธิ์ลำโพง
     .style = { permissions-window2.style }
+    .title = การตั้งค่า - การกำหนดสิทธิ์ลำโพง
 permissions-site-speaker-desc = เว็บไซต์ดังต่อไปนี้ได้ร้องขอเพื่อเลือกอุปกรณ์เอาต์พุตเสียง คุณสามารถระบุเว็บไซต์ที่อนุญาตให้เลือกอุปกรณ์เอาต์พุตเสียง
 permissions-exceptions-doh-window =
-    .title = ข้อยกเว้นเว็บไซต์สำหรับ DNS over HTTPS
     .style = { permissions-window2.style }
+    .title = ข้อยกเว้นเว็บไซต์สำหรับ DNS over HTTPS
 permissions-exceptions-manage-doh-desc = { -brand-short-name } จะไม่ใช้ secure DNS บนไซต์เหล่านี้รวมถึงโดเมนย่อยของไซต์เหล่านี้
 permissions-doh-entry-field = ใส่ชื่อโดเมนของเว็บไซต์
     .accesskey = ด

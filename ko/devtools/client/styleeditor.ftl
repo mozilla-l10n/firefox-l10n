@@ -21,8 +21,6 @@ styleeditor-save-button = 저장
 styleeditor-options-button =
     .tooltiptext = 스타일 편집기 옵션
 styleeditor-at-rules = At-규칙
-styleeditor-editor-textbox =
-    .data-placeholder = 여기에 CSS 를 입력하세요.
 styleeditor-no-stylesheet = 이 페이지에는 스타일 시트가 없습니다.
 styleeditor-no-stylesheet-tip = 그렇지 않으면,<a data-l10n-name="append-new-stylesheet">새로운 스타일 시트를 추가</a>하시겠습니까?
 styleeditor-open-link-new-tab =

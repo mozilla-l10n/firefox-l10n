@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = Кеңейту деректерді оқи және өзгерте алмайды
-origin-controls-quarantined =
-    .label = Кеңейту үшін деректерді оқу және өзгертуге рұқсат етілмеген
 origin-controls-quarantined-status =
     .label = Бұл кеңейту шектелген сайттарда рұқсат етілмеген
 origin-controls-quarantined-allow =

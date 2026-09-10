@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Kërko te Fjalëkalimet
-    .key = F
     .aria-label = Kërko te Fjalëkalimet
+    .key = F
+    .placeholder = Kërko te Fjalëkalimet
 contextual-manager-menu-more-options-button =
     .title = Më tepër mundësi
 contextual-manager-more-options-popup =
@@ -19,7 +19,6 @@ contextual-manager-passwords-command-import = Importoni prej një Kartele…
 contextual-manager-passwords-command-export = Eksporto fjalëkalime
 contextual-manager-passwords-command-remove-all = Hiqini tërë fjalëkalimet
 contextual-manager-passwords-command-options = Mundësi
-contextual-manager-passwords-command-settings = Rregullime
 contextual-manager-passwords-command-help = Ndihmë
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -62,10 +61,6 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = Fjalëkalimet u importuan
-# Variables
-#   $added (number) - Number of added passwords
-#   $modified (number) - Number of modified passwords
-contextual-manager-passwords-import-success-message = Të rinj: { $added }, Të përditësuar: { $modified }
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -215,8 +210,6 @@ contextual-manager-passwords-create-label =
     .label = Shtoni fjalëkalim
 contextual-manager-passwords-update-label =
     .label = Përditësoni fjalëkalimin
-contextual-manager-passwords-edit-label =
-    .label = Përpunoni fjalëkalimin
 contextual-manager-passwords-remove-label =
     .title = Hiqe fjalëkalimin
 contextual-manager-passwords-origin-field =
@@ -232,7 +225,6 @@ contextual-manager-passwords-password-field-description = Që të bëni hyrjen n
 contextual-manager-passwords-origin-tooltip = Jepni adresën e saktë ku do të bëni hyrjen në këtë sajt.
 contextual-manager-passwords-username-tooltip = Jepni emrin e përdoruesit, adresën email, ose numrin e llogarisë që përdorni për të bërë hyrjen.
 contextual-manager-passwords-password-tooltip-2 = Që të bëni hyrjen në këtë llogari, jepni fjalëkalimin.
-contextual-manager-passwords-password-tooltip = Jepni fjalëkalimin e përdorur për të bërë hyrjen në këtë llogari.
 
 ## Password Card
 
@@ -279,10 +271,6 @@ contextual-manager-password-login-line-with-alert =
     .title = Kopjo Fjalëkalimin (Kujdes)
 contextual-manager-edit-login-button = Përpunojeni
     .tooltiptext = Përpunoni Fjalëkalimin
-contextual-manager-view-alert-heading =
-    .heading = Shihni sinjalizim
-contextual-manager-view-alert-button =
-    .tooltiptext = Shqyrtoni sinjalizimin
 # Variables
 #   $count (number) - The number of active alerts associated with the login
 contextual-manager-view-alert-heading-2 =
@@ -311,13 +299,10 @@ contextual-manager-hide-password-button =
 contextual-manager-passwords-no-passwords-found-header =
     .heading = S’u gjetën fjalëkalime
 contextual-manager-passwords-no-passwords-found-message-2 = Provoni një tjetër term dhe kërkoni sërish.
-contextual-manager-passwords-no-passwords-found-message = S’u gjetën fjalëkalime. Kërkoni për një term tjetër dhe riprovoni.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
-# This string encourages the user to save their passwords in Firefox (the "safe spot").
-contextual-manager-passwords-no-passwords-header = Ruajini fjalëkalimet tuaja në një vend të siguruar.
 # This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
 # passwords may be involved in.
 contextual-manager-passwords-no-passwords-message = Krejt fjalëkalimet fshehtëzohen dhe do të hapim sytë për cenime dhe sinjalizime që lidhen me ju.

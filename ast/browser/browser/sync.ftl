@@ -6,7 +6,6 @@ fxa-toolbar-sync-syncing2 = Sincronizando…
 sync-disconnect-dialog-title2 = ¿Desconectase?
 sync-disconnect-dialog-body = { -brand-product-name } va dexar de sincronizase cola to cuenta mas nun va desaniciar nengún datu d'esti preséu.
 sync-disconnect-dialog-button = Desconectar
-fxa-signout-dialog2-title = ¿Zarrar sesión en { -fxaccount-brand-name }?
 fxa-signout-dialog-body = Los datos sincronizaos van quedar na to cuenta.
 fxa-signout-dialog2-button = Zarrar sesión
 fxa-signout-dialog2-checkbox = Desaniciar los datos d'esti preséu (les contraseñes, l'historial, los marcadores, etc.)

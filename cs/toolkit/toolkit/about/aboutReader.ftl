@@ -4,14 +4,6 @@
 
 about-reader-loading = Načítání…
 about-reader-load-error = Načtení článku ze stránky selhalo
-about-reader-color-scheme-light = Světlé
-    .title = Zobrazení ve světlých barvách
-about-reader-color-scheme-dark = Tmavé
-    .title = Zobrazení v tmavých barvách
-about-reader-color-scheme-sepia = Sépiové
-    .title = Zobrazení v sépiových barvách
-about-reader-color-scheme-auto = Automaticky
-    .title = Automatický barevný vzhled
 about-reader-color-light-theme = Světlý
     .title = Světlý motiv
 about-reader-color-dark-theme = Tmavý
@@ -24,17 +16,6 @@ about-reader-color-gray-theme = Šedivý
     .title = Šedivý motiv
 about-reader-color-contrast-theme = Kontrastní
     .title = Kontrastní motiv
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time =
-    { $rangePlural ->
-        [one] { $range } minut
-        [few] { $range } minuty
-       *[other] { $range } minut
-    }
 
 ## Reader View text and layout menu
 
@@ -42,14 +23,6 @@ about-reader-toolbar-minus =
     .title = Zmenšit písmo
 about-reader-toolbar-plus =
     .title = Zvětšit písmo
-about-reader-toolbar-contentwidthminus =
-    .title = Zúžit obsah
-about-reader-toolbar-contentwidthplus =
-    .title = Rozšířit obsah
-about-reader-toolbar-lineheightminus =
-    .title = Zmenšit řádkování
-about-reader-toolbar-lineheightplus =
-    .title = Zvětšit řádkování
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -60,7 +33,6 @@ about-reader-font-type-monospace = Neproporcionální
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Zavřít zobrazení čtečky
-about-reader-toolbar-type-controls = Nastavení vzhledu
 about-reader-toolbar-text-layout-controls = Text a rozložení
 about-reader-toolbar-theme-controls = Motiv vzhledu
 about-reader-toolbar-savetopocket = Uložit do { -pocket-brand-name(case: "gen") }

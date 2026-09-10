@@ -31,4 +31,3 @@ search-bookmarks = පොත්යොමු
 search-history = ඉතිහාසය
 search-opentabs = විවෘත පටිති
 search-tags = අනන්‍යන
-search-titles = සිරැසිය

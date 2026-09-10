@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = Nalazim se na stranici “{ $tabTitle }” s oda
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Pitaj UI chatbota
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Pitaj { $provider }
 genai-menu-open-generic =
     .label = Otvori UI chatbot
 # $provider (string) - name of the provider
@@ -122,8 +117,6 @@ genai-header-provider-menu =
     .title = Odaberi chatbot
 genai-header-settings-button =
     .title = Postavke UI-chata
-genai-header-options-button =
-    .title = Otvori izbornik
 genai-header-close-button =
     .title = Zatvori
 genai-provider-view-details =
@@ -151,37 +144,25 @@ genai-page-button-summarize = Sažmi stranicu
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Sažimaj, skupljaj ideje i još mnogo toga dok pregledavaš
 genai-onboarding-choose-header = Odaberi UI chatbot koji želiš koristiti u bočnoj traci { -brand-short-name }a
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Odaberi UI chatbot u bočnoj traci { -brand-short-name(case: "gen") }. Prikazat ćemo detalje o svakom chatbotu kada ga odabereš. Promijeni bilo kada. <a data-l10n-name="learn-more">Saznaj više</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Promijeni bilo kada. Za pomoć pri odabiru, <a data-l10n-name="learn-more">saznaj više o svakom chatbotu</a>.
 genai-onboarding-primary = Nastavi
 genai-onboarding-secondary = Zatvori
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Saznaj više o Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Saznaj više o ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Saznaj više o Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Saznaj više o Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = Saznaj više o HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Saznaj više o Le Chat
-genai-onboarding-select-header = Odaberi tekst za prikaz prijedloga
-genai-onboarding-select-description = Kada odabereš tekst, predložit ćemo upite koje možeš poslati chatbotu. Ako želiš, možeš upisati i vlastite upite.
-genai-onboarding-select-primary = Započni chat
 genai-chatbot-contextual-title = Koristi UI chatbot bez mijenjanja kartica
 genai-chatbot-contextual-subtitle = Razgovaraj i pregledavaj istovremeno kada dodaš UI chatbot u bočnu traku { -brand-short-name }a.
 genai-chatbot-contextual-button = Odaberi chatbot
@@ -194,27 +175,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = Desnom tipkom miša klikni sv
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Odaberi svoj UI chatbot u bočnoj traci i na dnu odaberi „Sažmi stranicu”.
 genai-chatbot-summarize-footer-generic-subtitle = Dodaj UI chatbot u bočnu traku { -brand-short-name } za brzo sažimanje stranica.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Generiraj tekst i kod
-genai-onboarding-claude-analyze = Analiziraj dokumente i slike
-genai-onboarding-claude-price = Besplatne i plaćene opcije; potreban je račun
-genai-onboarding-chatgpt-generate = Generiraj tekst, slike i kod
-genai-onboarding-chatgpt-analyze = Analiziraj dokumente i slike
-genai-onboarding-chatgpt-price = Besplatne i plaćene opcije; za neke zemlje i zadatke je potreban račun
-genai-onboarding-copilot-generate = Generiraj tekst, slike i kod
-genai-onboarding-copilot-analyze = Analiziraj slike
-genai-onboarding-copilot-price = Besplatne i plaćene opcije; za neke zadatke je potreban račun
-genai-onboarding-gemini-generate = Generiraj tekst, slike i kod
-genai-onboarding-gemini-analyze = Analiziraj slike (besplatno) i dokumente (plaća se)
-genai-onboarding-gemini-price = Besplatne i plaćene opcije; potreban je račun
-genai-onboarding-huggingchat-generate = Generiraj tekst i kod
-genai-onboarding-huggingchat-switch = Biraj između raznolikog skupa otvorenih modela
-genai-onboarding-huggingchat-price-2 = Besplatno; račun je potreban nakon određenog broja zahtjeva
-genai-onboarding-lechat-generate = Generiraj tekst i kod
-genai-onboarding-lechat-price = Besplatno; potreban je račun
 
 ## Model Optin Component
 
@@ -254,8 +214,8 @@ link-preview-generation-retry = Pokušaj ponovo
 link-preview-settings-button =
     .title = Postavke pregleda poveznice
 link-preview-settings-enable =
-    .label = Omogući preglede poveznica
     .description = Vidi naslov stranice, opis i još više kada koristiš prečac ili kada klikneš desnom tipkom miša na poveznicu.
+    .label = Omogući preglede poveznica
 link-preview-settings-key-points =
     .label = Dopusti umjetnoj inteligenciji čitanje početka web stranice i generiranje ključnih točaka
 link-preview-settings-long-press =

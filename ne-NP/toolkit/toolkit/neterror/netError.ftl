@@ -18,13 +18,11 @@ neterror-open-portal-login-page-button = नेटवर्क लगइन प�
 neterror-pref-reset-button = पूर्वनिर्धारित सेटिङहरू पूर्वावस्थामा ल्याउनुहोस्
 neterror-return-to-previous-page-button = पछाडि जानुहोस्
 neterror-return-to-previous-page-recommended-button = पछाडी जानुहोस्(सिफारिस गरिएको)
-neterror-try-again-button = पुनःप्रयास गर्नुहोस्
 neterror-view-certificate-link = प्रमाणपत्र हेर्नुहोस्
 
 ##
 
 neterror-pref-reset = तपाईँको नेटवर्क सुरक्षा सेटिङ्हरूका कारण यो पैदा भएको जस्तो देखिन्छ। के तपाईँ पूर्वनिर्धारित सेटिङहरू पुनः स्थापित गर्न चाहनुहुन्छ?
-neterror-error-reporting-automatic = यो जस्तै त्रुटिहरूको सुचना दिएर { -vendor-short-name }लाई खराब साइटहरू चिन्न र ब्लक गर्न मद्दत गर्नुहोस्
 
 ## Specific error messages
 
@@ -41,8 +39,6 @@ neterror-file-not-found-moved = फाइल सरिएको, नाम प�
 neterror-access-denied = यो हटाइएको, सारीएको, अथवा फाइलको अनुमतीले गर्दा पहुँच नहुन सक्छ।
 neterror-unknown-protocol = यो ठेगाना खोल्नको लागि तपाईँले अर्को सफ्टवेयर स्थापना गर्नुपर्ने हुनसक्छ।
 neterror-redirect-loop = यो समस्या कहिले कहिँ उत्पन्न हुनुको कारण कुकिज अक्षम गारिएको वा स्वीकार्न नसकिएकोले गर्दा हुने गर्दछ।
-neterror-unknown-socket-type-psm-installed = तपाईँको प्रणालीमा व्यक्तिगत सुरक्षा प्रबन्धक स्थापित छ भनेर सुनिश्चित गर्न जाँच गर्नुहोस् ।
-neterror-unknown-socket-type-server-config = सर्भरमा भएको गैर मानक कन्फिगरेसनको कारण यस्तो हुन सक्छ ।
 neterror-not-cached-intro = अनुरोध गरिएको कागजात { -brand-short-name } को क्यासमा उपलब्ध छैन।
 neterror-not-cached-sensitive = सुरक्षालाई ध्यानमा राख्दै, { -brand-short-name } ले स्वतः संवेदनशील कागजातहरूलाई पुनः अनुरोध गर्दैन।
 neterror-not-cached-try-again = कागजात पुनः अनुरोध गर्नलाई पुनः प्रयास क्लिक गर्नुहोस्।

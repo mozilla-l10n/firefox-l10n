@@ -7,8 +7,6 @@
 
 autofill-manage-addresses-title = Skłaźone adrese
 autofill-manage-addresses-list-header = Adrese
-autofill-manage-credit-cards-title = Skłaźone kreditowe kórty
-autofill-manage-credit-cards-list-header = Kreditowe kórty
 autofill-manage-payment-methods-title = Skłaźone płaśeńske metody
 autofill-manage-cards-list-header = Kórty
 autofill-manage-dialog =
@@ -48,15 +46,10 @@ address-capture-open-menu-button =
     .aria-label = Meni wócyniś
 address-capture-edit-address-link = Adresu wobźěłaś
     .aria-label = Adresu wobźěłaś
-address-capture-edit-address-button =
-    .aria-label = Adresu wobźěłaś
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Adresu pśidaś
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Adresu wobźěłaś
-autofill-address-given-name = Pśedmě
-autofill-address-additional-name = Druge pśedmě
-autofill-address-family-name = Familijowe mě
 autofill-address-name = Mě
 autofill-address-organization = Organizacija
 autofill-address-street-address = Adresa drogi
@@ -104,8 +97,6 @@ autofill-address-eircode = Eircode
 
 ##
 
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Nowu adresu pśidaś
 autofill-address-country = Kraj abo region
 autofill-address-country-only = Kraj
 autofill-address-tel = Telefon
@@ -114,18 +105,6 @@ autofill-cancel-button = Pśetergnuś
 autofill-save-button = Składowaś
 autofill-country-warning-message-2 = Awtomatiske wupołnjenje formularow jo tuchylu jano za wěste kraje k dispoziciji.
 autofill-country-warning-message = Awtomatiske wupołnjenje formularow jo tuchylu jano za wěste kraje k dispoziciji.
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-new-card-title = Nowu kreditowu kórtu pśidaś
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title = Kreditowu kórtu wobźěłaś
-# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
-# and has a period added to its end. Make sure to test in your locale.
-autofill-edit-card-password-prompt =
-    { PLATFORM() ->
-        [macos] informacije kreditoweje kórty pokazaś
-        [windows] { -brand-short-name } wopytujo, daty kreditneje kórty pokazaś. Wobkšuśćo pśistup k Windowsowemu kontoju dołojce.
-       *[other] { -brand-short-name } wopytujo, daty kreditneje kórty pokazaś.
-    }
 autofill-message-tooltip = Powěźeńku wó awtomatiskem wupołnjenju pokazaś
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = Kórtu pśidaś
@@ -211,15 +190,3 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = Drogowańske pase nigda njeskładowaś
     .accessKey = D
-
-## These are brand names and should only be translated when a locale-specific name for that brand is in common use
-
-autofill-card-network-amex = American Express
-autofill-card-network-cartebancaire = Carte Bancaire
-autofill-card-network-diners = Diners Club
-autofill-card-network-discover = Discover
-autofill-card-network-jcb = JCB
-autofill-card-network-mastercard = MasterCard
-autofill-card-network-mir = MIR
-autofill-card-network-unionpay = Union Pay
-autofill-card-network-visa = Visa

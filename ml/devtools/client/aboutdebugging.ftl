@@ -5,12 +5,6 @@
 
 ### These strings are used inside the about:debugging UI.
 
-
-# Page Title strings
-
-
-# Sidebar strings
-
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = ഈ { -brand-shorter-name }
@@ -49,9 +43,6 @@ about-debugging-sidebar-runtime-item-name-no-device =
 # debugging link in the footer of the sidebar
 about-debugging-sidebar-support-icon =
     .alt = പിന്തുണയടയാളം
-
-# Setup Page strings
-
 # Text of the button displayed in the USB section of the setup page while USB debugging
 # components are downloaded and installed.
 about-debugging-setup-usb-updating-button = പുതുക്കുന്നു...
@@ -65,9 +56,6 @@ about-debugging-network-locations-add-button = ചേൎക്കുക
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = മാറ്റുക
-
-# Runtime Page strings
-
 # Title of the extensions category.
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-extensions =
@@ -87,9 +75,6 @@ about-debugging-runtime-disconnect-button = പിരിയുക
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
 about-debugging-collapse-expand-debug-targets = ചുരുക്കുക / വലുതാക്കുക
-
-# Debug Targets strings
-
 # Displayed in the categories of "runtime" pages that don't have any debug target to
 # show. Debug targets depend on the category (extensions, tabs, workers...).
 about-debugging-debug-target-list-empty = ഒന്നുമില്ല

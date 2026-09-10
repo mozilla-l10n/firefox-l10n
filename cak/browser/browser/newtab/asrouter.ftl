@@ -62,17 +62,10 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Xab'akuchi' Ke'axima' ri taq ayaketal.
-cfr-doorhanger-bookmark-fxa-body = ¡Nïm ri xilitäj! Wakami man xa xe tarayij re yaketal re' pan taq awokisab'al. Tatikirisaj rik'in jun { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Wakami yexim taq yaketal...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tz'apïy pitz'b'äl
     .title = Titz'apïx
-
-## Protections panel
-
-cfr-protections-panel-header = Katok pa k'amaya'l akuchi' man yatoqäx ta
-cfr-protections-panel-body = Tik'oje' pan aq'a' ri awetamab'al. { -brand-short-name } yatruto' pa kiq'a' ri ojqanela' at kojqan toq yatok pa k'amab'ey.
-cfr-protections-panel-link-text = Tetamäx ch'aqa' chik
 
 ## What's New toolbar button and panel
 
@@ -167,41 +160,6 @@ mr2022-background-update-toast-primary-button-label = Tijaq { -brand-shorter-nam
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Tinatäx pe Chwe pa Jumej
-
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = Tatojtob'ej
-    .accesskey = t
-firefoxview-cfr-secondarybutton = Wakami mani
-    .accesskey = n
-firefoxview-cfr-header-v2 = Tasamajij el akuchi' xya' wi kan
-firefoxview-cfr-body-v2 = Kekakolo' ri tz'apin taq ruwi' chuqa' katok chi kipam ri okisaxel pa { -firefoxview-brand-name }.
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = Taq'ejelaj { -firefoxview-brand-name }
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = ¿La nawajo' ri jaqon ruwi' pan awoyonib'al? Tachapa'. ¿La nik'atzin ri ruxaq k'a b'a' tatz'ët? Xtzolin rik'in { -firefoxview-brand-name }.
-firefoxview-spotlight-promo-primarybutton = Tatz'eta' rub'eyal nisamäj
-firefoxview-spotlight-promo-secondarybutton = Tik'o'
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = Ticha' tunun b'onil
-    .accesskey = c
-colorways-cfr-header-28days = Ri rub'onil Independent Voice xtik'is ruq'ijul ri 16 ruq'ij nab'ey ik'
-colorways-cfr-header-14days = Ri rub'onil Independent Voice xtik'is ruq'ijul pa ka'i' wuqq'ij
-colorways-cfr-header-7days = Ri rub'onil Independent Voice xtik'is ruq'ijul re wuqq'ij re'
-colorways-cfr-header-today = Ri rub'onil Independent Voice xtik'is ruq'ijul wakami
-
-## Cookie Banner Handling CFR
-
-cfr-cbh-header = ¿La niya' q'ij chi ri { -brand-short-name } keruxutuj kitzijol taq kuki?
-cfr-cbh-body = { -brand-short-name } nitikïr yeruxutuj pa ruyonil k\'ïy kik\'utuxik taq kuki.
-cfr-cbh-confirm-button = Kexutüx kitzijol kuki
-    .accesskey = x
-cfr-cbh-dismiss-button = Wakami mani
-    .accesskey = n
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 

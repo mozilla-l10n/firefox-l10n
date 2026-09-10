@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Dizze side oersette
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Oersetting wurdt útfierd
 translations-panel-settings-button =
     .aria-label = Oersetynstellingen beheare
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Talen beheare
-translations-panel-settings-about = Oer oersettingen yn { -brand-shorter-name }
 translations-panel-settings-about2 =
     .label = Oer oersettingen yn { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
@@ -91,14 +82,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = Sorry, wy stypje noch gjin oersettingen fan it { $language } út.
 translations-panel-error-unsupported-hint-unknown-2 = Sorry, wy stypje noch gjin oersettingen fan dizze taal út.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Sorry, wy stypje it { $language } noch net.
-translations-panel-error-unsupported-hint-unknown = Sorry, wy stypje dizze taal noch net.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -130,10 +113,6 @@ translations-manage-header = Oersettingen
 translations-manage-settings-button =
     .label = Ynstellingen…
     .accesskey = t
-translations-manage-description = Talen foar offline oersetting downloade.
-translations-manage-all-language = Alle talen
-translations-manage-download-button = Downloade
-translations-manage-delete-button = Fuortsmite
 translations-manage-intro-2 = Stel jo foarkarren foar taal- en website-oersetting yn en behear talen dy’t ynstallearre binne foar offline oersetting.
 translations-manage-download-description = Talen foar offline oersetting downloade
 translations-manage-language-download-button =
@@ -147,12 +126,11 @@ translations-manage-language-remove-all-button =
     .label = Alle fuortsmite
     .accesskey = m
 translations-manage-error-download = Der is in probleem bard by it downloaden fan de taalbestannen. Probearje it opnij.
-translations-manage-error-delete = Der is in probleem bard by it fuortsmiten fan de taalbestannen. Probearje it opnij.
 translations-manage-error-remove = Der is in probleem bard by it fuortsmiten fan de taalbestannen. Probearje it opnij.
 translations-manage-error-list = Kin de list mei beskikbere talen foar oersetting net ophelje. Fernij de side om it opnij te probearjen.
 translations-settings-title =
-    .title = Oersetynstellingen
     .style = min-width: 36em
+    .title = Oersetynstellingen
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Foar de folgjende talen sil de oersetting automatysk útfierd wurde
@@ -246,16 +224,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = Sorry, wy stypje noch gjin oersettingen fan it { $language } út.
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = Sorry, wy stypje noch gjin oersettingen fan dizze taal út.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Sorry, wy stypje it { $language } noch net.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Sorry, wy stypje dizze taal noch net.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Oersetynstellingen

@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = O { -brand-short-name } será aberto com o mais recente perfil usado.
 profile-window-create-profile = Criar perfil
 profile-card-edit-button =
-    .title = Editar perfil
     .aria-label = Editar perfil
+    .title = Editar perfil
 profile-card-delete-button =
-    .title = Excluir perfil
     .aria-label = Excluir perfil
+    .title = Excluir perfil
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = Abrir { $profileName }
     .aria-label = Abrir { $profileName }
+    .title = Abrir { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = Perfil { $number }
@@ -83,9 +83,6 @@ profile-window-logo =
 
 # Variables
 #   $profilename (String) - The name of the profile.
-delete-profile-page-title = Excluir perfil { $profilename }
-# Variables
-#   $profilename (String) - The name of the profile.
 delete-profile-header = Excluir o perfil { $profilename }?
 delete-profile-description = O { -brand-short-name } irá excluir permanentemente os seguintes dados deste dispositivo:
 # Open is an adjective, as in "browser windows currently open".
@@ -112,28 +109,10 @@ delete-profile-confirm = Excluir
 
 ## These strings are color themes available to select from the profile selection screen. Theme names should be localized.
 
-# The default light theme
-profiles-light-theme = Claro
-# The default dark theme
-profiles-dark-theme = Escuro
 # The default system theme
 profiles-system-theme = Sistema
 profiles-system-theme-title =
     .title = Aplicar tema do sistema
-# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-marigold-theme-2 = Amarelo calêndula
-# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lavender-theme-2 = Lavanda claro
-# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-lichen-theme-2 = Verde menta
-# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-magnolia-theme-2 = Rosa magnólia
-# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-ocean-theme-2 = Azul oceano
-# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-terracotta-theme-2 = Vermelho tijolo
-# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
-profiles-moss-theme-2 = Verde musgo
 profiles-gray-theme = Cinza
 profiles-gray-theme-title =
     .title = Aplicar tema cinza
@@ -290,9 +269,6 @@ profiles-appmenu-callout-tour-subtitle = No menu ☰, toque no nome do seu perfi
 profiles-appmenu-callout-tour-primary-button = Mostrar como
 barbell-avatar = Haltere
 bike-avatar = Bicicleta
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = Usar avatar de haltere
 bike-avatar-tooltip =

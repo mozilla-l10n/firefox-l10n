@@ -18,13 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Tu ha un reporto de collapso non inviate
-       *[other] Tu ha { $reportCount } reportos de collapso non inviate
-    }
 pending-crash-reports-view-all =
     .label = Vider
 pending-crash-reports-send =
@@ -37,13 +30,6 @@ requested-crash-reports-message-new =
     { $reportCount ->
         [one] Tu ha un reporto de collapso non inviate que es associate a collapsos actualmente sub investigation. Inviar lo pote adjutar nos a meliorar { -brand-product-name }. Si tu claude iste aviso, iste reporto essera ignorate.
        *[other] Tu ha { $reportCount } reportos de collapso non inviate que es associate a collapsos actualmente sub investigation. Inviar los pote adjutar nos a meliorar { -brand-product-name }. Si tu claude iste aviso, iste reportos essera ignorate.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Tu ha un reporto de collapso non inviate que concorda con collapsos actualmente sub investigation. Invia lo pro adjutar nos a meliorar { -brand-product-name }. Si tu claude iste aviso, iste reporto essera ignorate.
-       *[other] Tu ha { $reportCount } reportos de collapso non inviate que concorda con collapsos actualmente sub investigation. Invia los pro adjutar nos a meliorar { -brand-product-name }. Si tu claude iste aviso, iste reportos essera ignorate.
     }
 requested-crash-reports-dont-show-again =
     .label = Non plus monstrar.

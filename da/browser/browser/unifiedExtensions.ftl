@@ -33,9 +33,6 @@ unified-extensions-item-message-manage = Håndter udvidelse
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked2 = { $extensionName } er begrænset. Det kan være risikabelt at anvende den.
-# Variables:
-#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
-unified-extensions-item-messagebar-softblocked = { $extensionName } overtræder Mozillas politikker. Det kan være risikabelt at bruge den.
 
 ## Extension's context menu
 
@@ -54,8 +51,6 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
-unified-extensions-mb-quarantined-domain-title = Nogle udvidelser er ikke tilladt
-unified-extensions-mb-quarantined-domain-message = For at beskytte dine data er kun udvalgte udvidelser, der bliver overvåget af { -vendor-short-name }, tilladt på dette websted.
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Nogle udvidelser er ikke tilladt
@@ -71,13 +66,6 @@ unified-extensions-mb-blocklist-warning-single2 =
         Denne udvidelse er begrænset og er blevet deaktiveret
         Du kan aktivere den i indstillinger, men det kan være risikabelt.
 # Variables:
-#   $extensionName (String) - Name of the extension disabled through a soft-block.
-unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } deaktiveret
-    .message =
-        Denne udvidelse overtræder Mozillas politikker og er blevet deaktiveret.
-        Du kan aktivere den i indstillingerne, men det kan være risikabelt.
-# Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
     .heading = { $extensionName } deaktiveret
@@ -92,17 +80,6 @@ unified-extensions-mb-blocklist-warning-multiple2 =
         }
     .message =
         Nogle af dine udvidelser er begrænsede og er blevet deaktiveret.
-        Du kan aktivere dem i indstillingerne, men det kan være risikabelt.
-# Variables:
-#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
-unified-extensions-mb-blocklist-warning-multiple =
-    .heading =
-        { $extensionsCount ->
-            [one] { $extensionsCount } udvidelse deaktiveret
-           *[other] { $extensionsCount } udvidelser deaktiveret
-        }
-    .message =
-        Nogen af dine udvidelser er blevet deaktiveret, fordi de overtræder Mozillas politikker.
         Du kan aktivere dem i indstillingerne, men det kan være risikabelt.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.

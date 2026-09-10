@@ -18,13 +18,6 @@ crashed-subframe-submit =
 
 ## Pending crash reports
 
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-pending-crash-reports-message =
-    { $reportCount ->
-        [one] Сізде құлау жөнінде жіберілмеген есептеме бар
-       *[other] Сізде құлау жөнінде жіберілмеген { $reportCount } есептеме бар
-    }
 pending-crash-reports-view-all =
     .label = Қарау
 pending-crash-reports-send =
@@ -37,13 +30,6 @@ requested-crash-reports-message-new =
     { $reportCount ->
         [one] Сізде тексеріліп жатқан құлауларға қатысты жіберілмеген қате туралы есептеме бар, оны жіберу бізге { -brand-product-name } өнімін жақсартуға көмектеседі. Бұл хабарландыруды жабу бұл есептемені елемейді.
        *[other] Сізде тексеріліп жатқан құлауларға қатысты жіберілмеген қате туралы { $reportCount } есептеме бар, оларды жіберу бізге { -brand-product-name } өнімін жақсартуға көмектеседі. Бұл хабарландыруды жабу бұл есептемелерді елемейді.
-    }
-# Variables:
-#   $reportCount (Number): the number of pending crash reports
-requested-crash-reports-message =
-    { $reportCount ->
-        [one] Сізде тексеріліп жатқан құлауларға сәйкес келетін жіберілмеген қате туралы есептеме бар, оны жіберу бізге { -brand-product-name } өнімін жақсартуға көмектеседі. Бұл хабарландыруды жабу бұл есептемені елемейді.
-       *[other] Сізде тексеріліп жатқан құлауларға сәйкес келетін жіберілмеген қате туралы { $reportCount } есептеме бар, оларды жіберу бізге { -brand-product-name } өнімін жақсартуға көмектеседі. Бұл хабарландыруды жабу бұл есептемелерді елемейді.
     }
 requested-crash-reports-dont-show-again =
     .label = Келесіде көрсетпеу

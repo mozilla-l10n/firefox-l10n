@@ -66,11 +66,6 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = ବୋତାମ ବନ୍ଦ କରନ୍ତୁ
     .title = ବନ୍ଦ
 
-## Protections panel
-
-cfr-protections-panel-header = ଅନୁସରଣହୀନ ବ୍ରାଉଜିଂ କରନ୍ତୁ
-cfr-protections-panel-link-text = ଅଧିକ ଜାଣନ୍ତୁ
-
 ## What's New toolbar button and panel
 
 # This string is used by screen readers to offer a text based alternative for

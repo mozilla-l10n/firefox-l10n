@@ -31,7 +31,6 @@ policy-DisableBuiltinPDFViewer = Desactiva el PDF.js, el visor de PDF incorporat
 policy-DisableDefaultBrowserAgent = Evita que l'agent de navegador per defecte realitzi qualsevol acció. Només s'aplica al Windows; les altres plataformes no tenen l'agent.
 policy-DisableDeveloperTools = Bloca l'accés a les eines per a desenvolupadors.
 policy-DisableFeedbackCommands = Desactiva les ordes per enviar comentaris del menú Ajuda («Envia comentaris» i «Informa que el lloc és enganyós»).
-policy-DisableFirefoxAccounts = Desactiva els serveis basats en el { -fxaccount-brand-name }, que inclou el Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Desactiva la funció de captures de pantalla del Firefox Screenshots.
 policy-DisableFirefoxStudies = Impedeix que el { -brand-short-name } execute estudis.
@@ -39,7 +38,6 @@ policy-DisableForgetButton = Evita l'accés al botó Oblida.
 policy-DisableFormHistory = No recorda l'historial de cerca ni de formularis.
 policy-DisablePrimaryPasswordCreation = Si és cert, no es pot crear una contrasenya principal.
 policy-DisablePasswordReveal = No permet mostrar les contrasenyes dels inicis de sessió guardats.
-policy-DisablePocket2 = Desactiva la funció de guardar llocs web al { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Desactiva la navegació privada.
 policy-DisableProfileImport = Desactiva l'orde de menú «Importa les dades d'un altre navegador».
 policy-DisableProfileRefresh = Desactiva el botó «Restableix el { -brand-short-name } a l'estat inicial» de la pàgina about:support.
@@ -87,7 +85,6 @@ policy-PasswordManagerEnabled = Permet guardar les contrasenyes en el gestor de 
 # PDF.js and PDF should not be translated
 policy-PDFjs = Desactiva o configura el PDF.js, el visor de PDF incorporat en el { -brand-short-name }.
 policy-PictureInPicture = Activa o desactiva el mode d'Imatge sobre imatge.
-policy-PopupBlocking = Permet que determinats llocs web mostren finestres emergents per defecte.
 policy-PromptForDownloadLocation = Demana on es guardaran els fitxers en baixar-los.
 policy-Proxy = Configura els paràmetres del servidor intermediari.
 policy-RequestedLocales = Defineix la llista de llengües sol·licitades per a l'aplicació, en orde de preferència.

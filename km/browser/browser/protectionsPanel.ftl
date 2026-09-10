@@ -22,13 +22,5 @@ smartblock-placeholder-button-text = អនុញ្ញាត​នៅ​លើ 
 
 ##
 
-protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = បោះបង់
-protections-panel-content-blocking-breakage-report-view-send-report =
-    .label = ផ្ញើ​របាយការណ៍
-
-# Cookie Banner Handling
-
-protections-panel-cookie-banner-view-cancel = បោះបង់
 protections-panel-cookie-banner-view-cancel-label =
     .label = បោះបង់

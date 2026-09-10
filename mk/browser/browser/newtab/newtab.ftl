@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Ново јазиче
-newtab-settings-button =
-    .title = Прилагодете ја страницата на вашето Ново јазиче
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -50,7 +48,6 @@ newtab-search-box-search-button =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = Додај сервис за пребарување
-newtab-topsites-edit-topsites-header = Уреди врвно мрежно место
 newtab-topsites-title-label = Наслов
 newtab-topsites-title-input =
     .placeholder = Внесете наслов
@@ -87,10 +84,6 @@ newtab-menu-section-tooltip =
 newtab-menu-content-tooltip =
     .aria-label = Отвори мени за констект за { $title }
     .title = Отвори мени
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Уреди го ова место
-    .title = Уреди го ова место
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -101,15 +94,6 @@ newtab-menu-dismiss = Откажи
 newtab-menu-pin = Прикачи
 newtab-menu-unpin = Откачи
 newtab-menu-delete-history = Избриши од историја
-newtab-menu-save-to-pocket = Зачувај во { -pocket-brand-name }
-newtab-menu-delete-pocket = Избриши од { -pocket-brand-name }
-newtab-menu-archive-pocket = Архивирај во { -pocket-brand-name }
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Готово
-newtab-privacy-modal-header = Вашата приватност е важна.
-newtab-privacy-modal-link = Дознајте како работи приватноста на новиот таб
 
 ##
 
@@ -150,25 +134,15 @@ newtab-label-download = Преземено
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Отстранете го делот
-newtab-section-menu-move-up = Помести нагоре
-newtab-section-menu-move-down = Помести надолу
 newtab-section-menu-privacy-notice = Белешка за приватност
 
 ## Section Headers.
 
 newtab-section-header-topsites = Популарни мрежни места
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Препорачано од { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Започнете со прелистување и ние овде ќе ви прикажеме некои од одличните написи, видеа и други страници што неодамна сте ги поселите или обележале.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Имате видено сѐ! Навратете се подоцна за нови содржини од { $provider }. Не можете да чекате? Изберете популарна тема и откријте уште одлични содржини ширум Интернет.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -177,13 +151,6 @@ newtab-discovery-empty-section-topstories-try-again-button = Обиди се п�
 newtab-discovery-empty-section-topstories-loading = Се вчитува…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Упс! Скоро го вчитавме овој дел, но не баш.
-
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Популарни теми:
-newtab-pocket-more-recommendations = Повеќе препораки
-newtab-pocket-cta-button = Превземете го { -pocket-brand-name }
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

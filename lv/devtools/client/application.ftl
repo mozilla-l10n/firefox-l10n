@@ -18,11 +18,6 @@ serviceworker-list-header = Pakalpojumu strādņi
 serviceworker-list-aboutdebugging = Atveriet <a>about:debugging</a>, lai aplūkotu pakalpojumu strādņus no citiem domēniem
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Atreģistrēt
-# Text for the debug link displayed for an already started Service Worker. Clicking on the
-# link opens a new devtools toolbox for this service worker. The title attribute is only
-# displayed when the link is disabled.
-serviceworker-worker-debug = Atkļūdošana
-    .title = Atkļūdot var tikai pakalpojumu darbiniekus, kas darobjas
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 # Variables:

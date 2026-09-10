@@ -40,8 +40,6 @@ downloads-cmd-always-use-system-default =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = Amosar la carpeta Descargues
 downloads-cmd-retry =
     .tooltiptext = Retentar
 downloads-cmd-retry-panel =

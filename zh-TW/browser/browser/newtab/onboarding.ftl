@@ -36,12 +36,6 @@ mr1-return-to-amo-add-extension-label = 新增 { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
 onboarding-welcome-steps-indicator-label =
     .aria-label = 進度：第 { $current } 步，共 { $total } 步
 # This button will open system settings to turn on prefers-reduced-motion
@@ -186,11 +180,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = 將 { -brand-short-name } 釘選到工具列與開始選單
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = 從非營利組織在背後開發的瀏覽器出發。我們會在您上網時捍衛您的隱私權。
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -220,57 +209,10 @@ mr2022-onboarding-set-default-subtitle = 使用由非營利組織在背後開發
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = 最新版本是圍繞您打造的。讓您更簡單就可在網路中探索，希望您也會喜歡我們推出的滿滿功能。
 mr2022-onboarding-get-started-primary-button-label = 幾秒鐘就能設定完成
-
-## MR2022 Get Started screen strings.
-## These strings will be used on the welcome page
-## when Firefox is already set to default and pinned.
-
-mr2022-onboarding-import-header = 設定光速快
-mr2022-onboarding-import-subtitle = 根據您的喜好來設定 { -brand-short-name }。可從您的舊瀏覽器匯入書籤、密碼與更多資料。
 mr2022-onboarding-import-primary-button-label-no-attribution = 從先前使用的瀏覽器匯入資料
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = 選擇能激發您靈感的色彩
-mr2022-onboarding-colorway-subtitle = 獨立的聲音將改變文化。
-mr2022-onboarding-colorway-primary-button-label-continue = 設定並繼續
-mr2022-onboarding-existing-colorway-checkbox-label = 將 { -firefox-home-brand-name }設定為色彩繽紛的首頁
-mr2022-onboarding-colorway-label-default = 預設
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = { -brand-short-name } 目前的配色
-mr2022-onboarding-colorway-description-default = <b>使用我目前的 { -brand-short-name } 色彩。</b>
-mr2022-onboarding-colorway-label-playmaker = 控球後衛
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = 控球後衛（紅色）
-mr2022-onboarding-colorway-description-playmaker = <b>您是控球後衛。</b>您創造了勝利的機會，並且幫助您周圍的所有人，一同贏得競賽。
-mr2022-onboarding-colorway-label-expressionist = 表現主義者
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = 表現主義者（黃色）
-mr2022-onboarding-colorway-description-expressionist = <b>您是表現主義者。</b>您用不同的方式看待世界，您的作品激發出他人的情感。
-mr2022-onboarding-colorway-label-visionary = 遠見家
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = 遠見家（綠色）
-mr2022-onboarding-colorway-description-visionary = <b>您是遠見家。</b>您不滿意於現狀，讓所有人能夠一同想像出更好的未來。
-mr2022-onboarding-colorway-label-activist = 社會運動家
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = 社會運動家（藍色）
-mr2022-onboarding-colorway-description-activist = <b>您是社會運動家。</b>您讓世界變得更好，並讓他人也如此相信。
-mr2022-onboarding-colorway-label-dreamer = 夢想家
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = 夢想家（紫色）
-mr2022-onboarding-colorway-description-dreamer = <b>您是夢想家。</b>您相信命運之神眷顧大膽的人，並且鼓勵大家勇敢表現。
-mr2022-onboarding-colorway-label-innovator = 創造者
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = 創造者（橘色）
-mr2022-onboarding-colorway-description-innovator = <b>您是創造者。</b>您看到各處的機會，並且對周遭的所有人產生正面影響。
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = 在筆電與手機間往返跳轉
-mr2022-onboarding-mobile-download-subtitle = 在一台裝置上取得分頁，並且在另一台裝置上從中斷的頁面繼續上網。另外還可以在您使用 { -brand-product-name } 的任何地方同步書籤、密碼等資料。
 mr2022-onboarding-mobile-download-cta-text = 掃描 QR Code 即可下載 { -brand-product-name } 行動版，也可以<a data-l10n-name="download-label">傳送下載鏈結給自己。</a>
 mr2022-onboarding-no-mobile-download-cta-text = 掃描這組 QR Code，下載 { -brand-product-name } 行動版。
 
@@ -323,15 +265,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = 淺色與深色皮膚的人舉手擊掌
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = 從窗戶看到日落，窗台上有隻狐狸與一顆盆栽
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = 用噴漆的方式手繪出色彩繽紛的拼貼圖，當中有綠色的眼睛、橘色的鞋子、紅色的籃球、紫色的耳機、藍色的心、黃色的皇冠
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = 有一隻狐狸在筆記型電腦螢幕上揮手，筆記型電腦連接著滑鼠。
 onboarding-device-migration-title = 歡迎回來！
-onboarding-device-migration-subtitle = 登入您的 { -fxaccount-brand-name(capitalization: "sentence") }後即可將書籤、密碼、瀏覽紀錄等資料帶到新裝置上。
 onboarding-device-migration-subtitle2 = 登入帳號後，即可將書籤、密碼、上網紀錄帶到新裝置。
 onboarding-device-migration-primary-button-label = 登入
 
@@ -448,15 +387,12 @@ tab-groups-onboarding-feature-callout-title = 試用分頁群組，減少雜亂�
 tab-groups-onboarding-feature-callout-subtitle = 將一個分頁拖曳到另一個分頁，即可建立第一個分頁群組。
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = 隨時使用「列出所有分頁」選單來尋找您的分頁群組。
-tab-groups-onboarding-create-group-title-2 = 可隨時在此處尋找您的分頁群組。
 tab-groups-onboarding-create-group-no-alltabs-button-title = 可以在網址列搜尋分頁群組。
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = 關閉分頁群組後，可隨時到「列出所有分頁」選單重新開啟。
-tab-groups-onboarding-saved-groups-title-2 = 關閉分頁群組後，可以隨時在此處重新開啟。
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = 可以在網址列搜尋關閉的分頁群組。
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = 隨時從「列出所有分頁」選單重新開啟分頁群組。
-tab-groups-onboarding-session-restore-title = 可隨時在此處重新開啟您的分頁群組。
 tab-groups-onboarding-dismiss = 確定
 
 ## Multi Profiles feature onboarding messages

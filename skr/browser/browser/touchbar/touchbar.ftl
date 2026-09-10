@@ -31,4 +31,3 @@ search-bookmarks = نشانیاں
 search-history = تاریخ
 search-opentabs = ٹیباں کھولو
 search-tags = ٹیگز
-search-titles = عنوانات

@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } - Індыкатар супольнага доступу
-webrtc-indicator-window =
-    .title = { -brand-short-name } - Індыкатар супольнага доступу
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Вы абагульваеце свой мікрафон. Націсніце для кантролю сумеснага доступу.
 webrtc-screen-system-menu =
     .label = Вы абагульваеце акно ці экран. Націсніце для кантролю сумеснага доступу.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Існуе сумесны доступ да вашай камеры і мікрафона. Націсніце для кантролю сумеснага доступу.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Існуе сумесны доступ да вашай камеры. Націсніце для кантролю сумеснага доступу.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Існуе сумесны доступ да вашага мікрафона. Націсніце для кантролю сумеснага доступу.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Існуе сумесны доступ да праграмы. Націсніце для кантролю сумеснага доступу.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Існуе сумесны доступ да вашага экрана. Націсніце для кантролю сумеснага доступу.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Існуе сумесны доступ да акна. Націсніце для кантролю сумеснага доступу.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Існуе сумесны доступ да карткі. Націсніце для кантролю сумеснага доступу.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -191,7 +172,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Дазволіц
 
 webrtc-share-screen-warning = Паказвайце экран толькі сайтам, якім давяраеце. Такі паказ дапамагае падманлівым сайтам праглядаць старонкі, быццам гэта вы, выкрадаючы вашу прыватную інфармацыю.
 webrtc-share-browser-warning = Паказвайце { -brand-short-name } толькі сайтам, якім давяраеце. Такі паказ дапамагае падманлівым сайтам праглядаць старонкі, быццам гэта вы, выкрадаючы вашу прыватную інфармацыю.
-webrtc-share-screen-learn-more = Падрабязней
 webrtc-pick-window-or-screen = Выберыце акно ці экран
 webrtc-share-entire-screen = Увесь экран
 webrtc-share-pipe-wire-portal = Ужываць налады аперацыйнай сістэмы

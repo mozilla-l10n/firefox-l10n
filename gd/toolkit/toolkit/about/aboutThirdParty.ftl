@@ -30,11 +30,11 @@ third-party-tag-background = Cùlaibh
         Cha do bhac am mòideal seo an aplacaid on a chaidh a luchdadh
         sa chùlaibh.
 third-party-icon-unsigned =
-    .title = This module is not signed
     .alt = This module is not signed
+    .title = This module is not signed
 third-party-icon-warning =
-    .title = { -brand-short-name } crashed in code from this module
     .alt = { -brand-short-name } crashed in code from this module
+    .title = { -brand-short-name } crashed in code from this module
 third-party-status-loaded = Air a luchdadh
 third-party-status-blocked = Bacte
 third-party-status-redirected = Air ath-stiùireadh
@@ -43,19 +43,6 @@ third-party-button-reload = Ath-luchdaich le fiosrachadh an t-siostaim
     .title = Ath-luchdaich le fiosrachadh an t-siostaim
 third-party-button-open =
     .title = Fosgail ionad an fhaidhle…
-third-party-button-to-block =
-    .title = Block this module
-    .aria-label = Block this module
-third-party-button-to-unblock =
-    .title = Currently blocked. Click to unblock it.
-    .aria-label = Currently blocked. Click to unblock it.
-third-party-button-to-unblock-disabled =
-    .title =
-        Currently marked as blocked, although the blocklist is disabled for this run
-        of { -brand-short-name }. Click to unblock it.
-    .aria-label =
-        Currently marked as blocked, although the blocklist is disabled for this run
-        of { -brand-short-name }. Click to unblock it.
 third-party-button-expand =
     .title = Seall mion-fhiosrachadh
 third-party-button-collapse =
@@ -65,5 +52,5 @@ third-party-should-restart-title = Restart { -brand-short-name }
 third-party-restart-now = Ath-thòisich an-dràsta
 third-party-restart-later = Restart later
 third-party-blocked-by-builtin =
-    .title = Blocked by { -brand-short-name }
     .alt = Blocked by { -brand-short-name }
+    .title = Blocked by { -brand-short-name }

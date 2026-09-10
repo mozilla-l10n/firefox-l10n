@@ -6,18 +6,8 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = ᱱᱟᱶᱟ ᱴᱮᱵᱽ
-newtab-settings-button =
-    .title = ᱟᱢᱟᱜ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱦᱴᱟ ᱥᱟᱡᱟᱣ ᱢᱮ
-newtab-personalize-settings-icon-label =
-    .aria-label = ᱥᱟᱡᱟᱣᱠᱚ
-    .title = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱡᱟᱣ ᱢᱮ
 newtab-settings-dialog-label =
     .aria-label = ᱥᱟᱡᱟᱣ ᱠᱚ
-newtab-personalize-icon-label =
-    .aria-label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱡᱟᱣ ᱢᱮ
-    .title = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱡᱟᱣ ᱢᱮ
-newtab-personalize-dialog-label =
-    .aria-label = ᱥᱟᱡᱟᱣ
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 
@@ -100,7 +90,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱥᱮᱞᱮᱫ ᱢᱮ
 newtab-topsites-add-shortcut-header = ᱱᱟᱶᱟ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
-newtab-topsites-edit-topsites-header = ᱪᱮᱛᱟᱱ ᱨᱤᱱ ᱥᱟᱭᱤᱴ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 newtab-topsites-edit-shortcut-header = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 newtab-topsites-add-shortcut-label = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱥᱮᱞᱮᱫᱽ ᱢᱮ
 newtab-topsites-add-shortcut-title =
@@ -142,20 +131,12 @@ newtab-topsite-sponsored = ᱠᱟᱹᱢᱤᱼᱤᱭᱟᱹ
 newtab-menu-section-tooltip =
     .aria-label = ᱢᱮᱱᱩ ᱡᱷᱤᱡᱽ ᱢᱮ
     .title = ᱢᱮᱱᱩ ᱡᱷᱤᱡᱽ ᱢᱮ
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = ᱚᱪᱚᱜᱽ ᱢᱮ
-    .title = ᱚᱪᱚᱜᱽ ᱢᱮ
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = { $title } ᱞᱟᱹᱜᱤᱫ ᱠᱚᱱᱴᱮᱠᱥᱴ ᱢᱮᱱᱩ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
     .title = ᱢᱮᱱᱩ ᱡᱷᱤᱡᱽ ᱢᱮ
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = ᱱᱚᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
-    .title = ᱱᱚᱶᱟ ᱴᱮᱵᱽ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -166,23 +147,9 @@ newtab-menu-dismiss = ᱵᱚᱸᱫ
 newtab-menu-pin = ᱞᱟᱴᱷᱟ
 newtab-menu-unpin = ᱚᱪᱚᱜᱽ
 newtab-menu-delete-history = ᱱᱟᱜᱟᱢ ᱠᱷᱚᱱ ᱢᱮᱴᱟᱣ ᱢᱮ
-newtab-menu-save-to-pocket = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱢᱮ
-newtab-menu-delete-pocket = { -pocket-brand-name } ᱠᱷᱚᱱ ᱢᱮᱴᱟᱣ ᱢᱮ
-newtab-menu-archive-pocket = { -pocket-brand-name } ᱨᱮ ᱫᱚᱦᱚ ᱵᱟᱭ ᱠᱟᱜ ᱢᱮ
 newtab-menu-show-privacy-info = ᱟᱞᱮ ᱠᱟᱹᱢᱤᱠᱚ ᱟᱨ ᱟᱢᱟᱜ ᱱᱤᱥᱚᱱ ᱠᱚ
-newtab-menu-about-fakespot = { -fakespot-brand-name } ᱵᱚᱵᱚᱛ
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = ᱦᱩᱭᱮᱱᱟ
-newtab-privacy-modal-button-manage = ᱜᱚᱲᱚ ᱠᱟᱱ ᱡᱤᱱᱤᱥ ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱚᱢᱵᱷᱲᱟᱣ ᱢᱮ
-newtab-privacy-modal-header = ᱟᱢᱟᱜ ᱱᱤᱥᱚᱱ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾
-newtab-privacy-modal-paragraph-2 =
-    ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱱᱟᱯᱟᱭ ᱠᱟᱹᱦᱱᱤ ᱠᱚ ᱮᱢᱚᱜ ᱥᱟᱶᱛᱮ, ᱟᱯᱮ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱥᱚᱨᱮᱥ, ᱟᱹᱰᱤ ᱱᱟᱯᱟᱭ ᱵᱟᱷᱪᱟᱣ ᱠᱟᱱ ᱥᱯᱳᱱᱥᱚᱨ ᱠᱚ ᱠᱷᱚᱱ ᱠᱟᱹᱦᱱᱤ ᱠᱚ ᱟᱯᱮ ᱠᱚ ᱴᱷᱮᱱ ᱞᱮ ᱯᱟᱨᱥᱟᱞ ᱟ ᱾ 
-    ᱱᱤᱥᱪᱤᱱᱛ ᱛᱟᱦᱮᱸᱱ ᱢᱮ, <strong>ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱰᱟᱴᱟ ᱫᱚ ᱟᱢᱟᱜ { -brand-product-name } ᱠᱷᱚᱱ ᱛᱤᱥ ᱦᱚᱸ ᱵᱟᱦᱨᱮ ᱛᱮ ᱵᱟᱭ ᱪᱟᱞᱟᱜᱼᱟ</strong> - ᱟᱞᱮ ᱫᱚ ᱵᱟᱞᱮ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ, ᱟᱨ ᱟᱞᱮ ᱨᱤᱱ ᱠᱚ ᱢᱟᱸ ᱢᱩᱴᱮ ᱵᱟᱝᱟ ᱾
-newtab-privacy-modal-link = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱯᱚᱨᱟᱭᱵᱟᱥᱤ ᱪᱮᱫ ᱞᱮᱠᱟᱭ ᱠᱟᱹᱢᱤᱟᱭ ᱵᱟᱲᱟᱭ ᱢᱮ
 
 ##
 
@@ -236,31 +203,12 @@ newtab-label-source-read-time = { $source } · { $timeToRead } ᱴᱤᱯᱤᱡ
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = ᱛᱷᱚᱠ ᱚᱪᱚᱜᱽ ᱢᱮ
-newtab-section-menu-collapse-section = ᱦᱟᱹᱴᱤᱧ ᱦᱩᱰᱤᱧ ᱪᱷᱚᱭ ᱢᱮ
-newtab-section-menu-expand-section = ᱦᱟᱹᱴᱤᱧ ᱢᱟᱨᱟᱝ ᱪᱷᱚᱭ ᱢᱮ
-newtab-section-menu-manage-section = ᱦᱟᱹᱴᱤᱧ ᱥᱚᱢᱵᱷᱲᱟᱣ ᱢᱮ
-newtab-section-menu-manage-webext = ᱮᱠᱮᱴᱮᱱᱮᱚᱱ ᱢᱮᱱᱟᱡᱽ ᱢᱮ
-newtab-section-menu-add-topsite = ᱪᱮᱛᱟᱱ ᱨᱤᱱᱟᱜ ᱥᱟᱭᱤᱴ ᱥᱮᱞᱮᱫ ᱢᱮ
-newtab-section-menu-add-search-engine = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱥᱮᱞᱮᱫ ᱢᱮ
-newtab-section-menu-move-up = ᱪᱮᱛᱟᱱ ᱥᱮᱫ ᱥᱟᱦᱟ
-newtab-section-menu-move-down = ᱞᱟᱛᱟᱨ ᱪᱟᱞᱟᱣ
 newtab-section-menu-privacy-notice = ᱫᱟᱱᱟᱝ ᱠᱷᱚᱵᱚᱨ
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = ᱦᱟᱹᱴᱤᱧ ᱦᱩᱰᱤᱧ ᱪᱷᱚᱭ ᱢᱮ
-newtab-section-expand-section-label =
-    .aria-label = ᱦᱟᱹᱴᱤᱧ ᱢᱟᱨᱟᱝ ᱪᱷᱚᱭ ᱢᱮ
 
 ## Section Headers.
 
 newtab-section-header-topsites = ᱪᱮᱛᱟᱱ ᱨᱤᱱ ᱥᱟᱭᱤᱴ
 newtab-section-header-recent-activity = ᱱᱤᱛᱚᱜᱟᱜ ᱠᱟᱹᱢᱤ
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } ᱨᱮᱭᱟᱜ ᱵᱟᱛᱟᱣᱟᱜ
 newtab-section-header-stories = ᱢᱚᱱᱮᱼᱜᱷᱟᱱᱴᱟ ᱠᱟᱹᱦᱱᱤ ᱠᱚ
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = ᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱛᱟᱦᱮᱸᱧᱟᱜ ᱦᱟᱛᱟᱣ
@@ -268,10 +216,6 @@ newtab-section-header-todays-picks = ᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱛᱟᱦᱮᱸ�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ᱵᱽᱨᱟᱣᱡᱤᱝ ᱮᱛᱚᱦᱚᱵ ᱢᱮ, ᱟᱨ ᱟᱢ ᱡᱟᱦᱟᱸᱱ ᱱᱟᱯᱟᱭ ᱚᱱᱚᱞ, ᱵᱷᱤᱰᱤᱭᱳ ᱟᱨ ᱮᱴᱟᱜ ᱥᱟᱦᱴᱟ ᱠᱚ ᱞᱮ ᱫᱮᱠᱷᱟᱣ ᱟᱢᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱢ ᱱᱮᱞᱮ ᱮᱢ ᱧᱮᱞ ᱠᱟᱫᱟ ᱵᱟᱝᱠᱷᱟᱱ ᱡᱟᱦᱟᱸ ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱠᱟᱫᱟᱢ ᱾
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = ᱡᱷᱚᱛᱚ ᱪᱟᱵᱟ ᱮᱱᱟ ᱾ { $provider } ᱠᱷᱚᱱ ᱟᱨᱦᱚᱸ ᱰᱷᱮᱨ ᱠᱟᱹᱦᱱᱤ ᱞᱟᱹᱜᱤᱫ ᱛᱟᱭᱚᱢ ᱛᱮ ᱧᱮᱞ ᱢᱮ ᱾ ᱵᱟᱝ ᱛᱟᱹᱝᱜᱤ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟᱢ ? ᱣᱮᱵᱽ ᱡᱟᱠᱟᱛ ᱠᱷᱚᱱ ᱟᱨᱦᱚᱸ ᱱᱟᱯᱟᱭ ᱠᱟᱹᱦᱤᱱᱤ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱧᱩᱛᱩᱢᱟᱱ ᱡᱤᱱᱤᱥ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = ᱡᱷᱚᱛᱚ ᱪᱟᱵᱟ ᱮᱱᱟ ᱾ ᱰᱷᱮᱨ ᱠᱟᱹᱦᱱᱤ ᱞᱟᱹᱜᱤᱫ ᱛᱟᱭᱚᱢ ᱛᱮ ᱧᱮᱞ ᱢᱮ ᱾ ᱵᱟᱝ ᱛᱟᱹᱝᱜᱤ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟᱢ ? ᱣᱮᱵᱽ ᱡᱟᱠᱟᱛ ᱠᱷᱚᱱ ᱟᱨᱦᱚᱸ ᱱᱟᱯᱟᱭ ᱠᱟᱹᱦᱤᱱᱤ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱧᱩᱛᱩᱢᱟᱱ ᱡᱤᱱᱤᱥ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
 
@@ -284,39 +228,6 @@ newtab-discovery-empty-section-topstories-loading = ᱞᱟᱫᱮᱜ ᱠᱟᱱᱟ
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = ᱮᱦᱮ! ᱱᱚᱶᱟ ᱡᱟᱭᱜᱟ ᱨᱮ ᱞᱮ ᱞᱮᱫᱮ ᱠᱟᱫ ᱜᱮᱭᱟ ᱞᱮ, ᱞᱟᱫᱮ ᱠᱟᱹᱢᱤ ᱵᱟᱭ ᱯᱩᱨᱟᱹᱣ ᱠᱟᱱᱟ ᱾
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = ᱧᱩᱛᱩᱢᱟᱱ ᱵᱤᱥᱚᱭ ᱠᱚ :
-newtab-pocket-new-topics-title = ᱟᱨᱦᱚᱸ ᱰᱷᱮᱨ ᱠᱟᱹᱦᱱᱤ ᱠᱚ ᱫᱚᱨᱠᱟᱨ ᱠᱟᱱᱟ ᱥᱮ ? { -pocket-brand-name } ᱠᱷᱚᱱ ᱧᱩᱛᱩᱢᱟᱱ ᱡᱤᱱᱤᱥ ᱠᱚ ᱧᱮᱞ ᱢᱮ ᱾
-newtab-pocket-more-recommendations = ᱰᱷᱮᱨ ᱵᱟᱛᱟᱣᱟᱜ ᱠᱚ
-newtab-pocket-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
-newtab-pocket-cta-button = { -pocket-brand-name } ᱧᱟᱢ ᱢᱮ
-newtab-pocket-cta-text = { -pocket-brand-name } ᱨᱮ ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱠᱟᱹᱦᱱᱤ ᱠᱚ ᱥᱟᱧᱪᱟᱣ ᱢᱮ, ᱟᱨ ᱵᱮᱥ ᱡᱤᱱᱤᱥ ᱠᱚ ᱮᱢᱟᱱ ᱯᱟᱲᱦᱟᱣ ᱢᱮ ᱾
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } ᱫᱚ { -brand-product-name } ᱜᱷᱟᱨᱚᱧᱡᱽ ᱨᱮᱭᱟᱜ ᱦᱟᱹᱴᱤᱧ ᱠᱟᱱᱟ
-newtab-pocket-save = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
-newtab-pocket-saved = ᱥᱟᱺᱪᱟᱣᱮᱱᱟ
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = ᱱᱚᱠᱟ ᱞᱮᱠᱷᱟ ᱟᱨᱦᱚᱸ
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = ᱤᱧ ᱞᱟᱹᱜᱤᱫ ᱫᱚ ᱵᱟᱝᱟ
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = ᱥᱟᱨᱦᱟᱣ ᱾ ᱟᱢᱟᱜ ᱢᱚᱱᱚᱛ ᱟᱞᱮ ᱟᱢᱟᱜ ᱢᱚᱱᱚᱛ ᱥᱩᱫᱷᱨᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱜᱚᱲᱚ ᱞᱮ ᱮᱢᱟᱭᱟ ᱾
-newtab-toast-dismiss-button =
-    .aria-label = ᱵᱚᱸᱫ
-    .title = ᱵᱚᱸᱫ
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = ᱣᱮᱵ ᱨᱮᱭᱟᱜ ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱱᱟᱯᱟᱭ ᱡᱤᱱᱤᱥ ᱦᱟᱛᱟᱣ ᱢᱮ
-newtab-pocket-onboarding-cta = { -pocket-brand-name } ᱟᱢᱟᱜ { -brand-product-name } ᱵᱽᱨᱟᱣᱡᱚᱨ ᱨᱮ ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱱᱟᱯᱟᱭ, ᱥᱚᱨᱮᱥ ᱠᱟᱛᱷᱟ ᱠᱚ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱞᱮᱠᱟᱱ ᱯᱚᱵᱞᱤᱠᱮᱥᱚᱱ ᱮ ᱥᱮᱸᱫᱽᱨᱟ ᱮᱫᱟᱭ ᱾
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -325,8 +236,6 @@ newtab-error-fallback-refresh-link = ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩ
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
-newtab-custom-shortcuts-subtitle = ᱟᱢ ᱥᱟᱺᱪᱟᱣ ᱠᱟᱫ ᱟᱨ ᱵᱟᱝ ᱪᱟᱞᱟᱜ ᱠᱟᱱ ᱥᱟᱭᱤᱴ ᱠᱚ
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = ᱟᱢ ᱥᱟᱺᱪᱟᱣ ᱠᱟᱫ ᱟᱨ ᱵᱟᱝ ᱪᱟᱞᱟᱜ ᱠᱟᱱ ᱥᱟᱭᱤᱴ ᱠᱚ
@@ -343,31 +252,15 @@ newtab-custom-row-selector2 =
             [two] { $num } ᱛᱷᱟᱨ ᱠᱤᱱ
            *[other] { $num } ᱛᱷᱟᱨ ᱠᱚ
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } ᱛᱷᱟᱨ
-        [two] { $num } ᱛᱷᱟᱨ ᱠᱤᱱ
-       *[other] { $num } ᱛᱷᱟᱨ ᱠᱚ
-    }
-newtab-custom-sponsored-sites = ᱠᱟᱹᱢᱤᱼᱤᱡ ᱠᱷᱟᱴᱚ ᱢᱟᱪᱷᱟ ᱠᱚ
-newtab-custom-pocket-title = { -pocket-brand-name } ᱮᱛ ᱵᱟᱛᱟᱣᱟᱜ
-newtab-custom-pocket-subtitle = { -pocket-brand-name } ᱫᱚ { -brand-product-name } ᱜᱷᱟᱨᱚᱸᱡᱽ ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱟᱹᱰᱤ ᱱᱟᱯᱟᱭ ᱞᱮᱠᱷᱟᱛᱮ ᱠᱭᱩᱨᱮᱴ ᱠᱟᱱᱟ
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = { -brand-product-name } ᱜᱷᱟᱨᱚᱧᱡᱽ ᱦᱚᱛᱮᱛᱮ ᱠᱭᱩᱨᱮᱴ ᱟᱠᱟᱱ ᱥᱟᱨᱦᱟᱣᱮᱱ ᱡᱤᱱᱤᱥ
     .label = ᱥᱚᱞᱦᱟ ᱟᱠᱟᱱ ᱠᱟᱹᱦᱱᱤ ᱠᱚ
 newtab-recommended-stories-toggle =
     .label = ᱥᱚᱞᱦᱟ ᱟᱠᱟᱱ ᱠᱟᱹᱦᱱᱤ ᱠᱚ
-newtab-custom-pocket-sponsored = ᱜᱟᱲᱚ ᱠᱟᱱ ᱠᱟᱹᱦᱱᱤ ᱠᱚ
-newtab-custom-pocket-show-recent-saves = ᱱᱮᱱᱮ ᱥᱟᱧᱪᱟᱣ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
-newtab-custom-recent-title = ᱱᱤᱛᱚᱜᱟᱜ ᱠᱟᱹᱢᱤ ᱠᱚ
-newtab-custom-recent-subtitle = ᱱᱚᱱᱮᱛᱚᱜᱟᱜ ᱥᱟᱭᱤᱴ ᱟᱨ ᱡᱤᱱᱤᱥ ᱨᱮᱭᱟᱜ ᱢᱤᱫᱴᱟᱝ ᱵᱟᱪᱷᱟᱣ
 newtab-custom-weather-toggle =
     .description = ᱢᱤᱫ ᱧᱮᱞ ᱛᱮ ᱛᱮᱦᱮᱧᱟᱜ ᱯᱷᱚᱨᱠᱟᱥᱴ
     .label = ᱦᱚᱭ ᱦᱤᱥᱤᱫ
-newtab-custom-close-button = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 newtab-custom-settings = ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱚᱢᱵᱷᱲᱟᱣ ᱢᱮ
 
 ## New Tab Wallpapers
@@ -451,10 +344,6 @@ feature-highlight-wallpaper =
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = { $provider } ᱨᱮ ᱨᱮ ᱯᱷᱚᱨᱠᱟᱥᱴ ᱧᱮᱞ ᱢᱮ
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ ᱥᱯᱚᱱᱥᱚᱨ ᱟᱠᱟᱱ
 newtab-weather-menu-change-location = ᱡᱟᱭᱜᱟ ᱵᱚᱫᱚᱞ ᱢᱮ
 newtab-weather-change-location-search-input-placeholder =
@@ -473,7 +362,6 @@ newtab-weather-menu-temperature-option-fahrenheit = ᱯᱷᱟᱨᱮᱱᱦᱮᱭ�
 newtab-weather-menu-temperature-option-celsius = ᱥᱮᱞᱥᱤᱭᱚᱥ
 newtab-weather-menu-change-temperature-units-fahrenheit = ᱯᱷᱟᱨᱮᱱᱦᱟᱭᱤᱴ ᱨᱮ ᱵᱚᱫᱚᱞ ᱢᱮ
 newtab-weather-menu-change-temperature-units-celsius = ᱥᱮᱞᱥᱤᱭᱟᱥ ᱨᱮ ᱵᱚᱫᱚᱞ ᱢᱮ
-newtab-weather-menu-hide-weather = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱦᱚᱭ ᱦᱤᱥᱤᱫ ᱩᱠᱩᱭ ᱢᱮ
 newtab-weather-menu-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 # This message is shown if user is working offline
 newtab-weather-error-not-available = ᱱᱤᱛᱚᱜ ᱫᱚ ᱦᱚᱭ ᱦᱤᱥᱤᱫ ᱰᱟᱴᱟ ᱵᱟᱝ ᱧᱟᱢᱚᱜ ᱠᱟᱱᱟ ᱾

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name }
-    .tooltiptext = { -firefoxview-brand-name }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name }
     .tooltiptext = Ammustra sa navigatzione reghente in totu is ventanas e dispositivos
@@ -16,33 +13,14 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
-firefoxview-close-button =
-    .title = Serra
-    .aria-label = Serra
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Pròpiu immoe
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Regorta de ischedas
-firefoxview-tabpickup-description = Pàginas abertas dae àteros dispositivos.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% completu
-firefoxview-tabpickup-step-signin-header = Càmbia dae unu dispositivu a s'àteru chena problemas
-firefoxview-tabpickup-step-signin-description = Pro pòdere recuperare is ischedas tuas dae inoghe, prima atzede a su contu tuo o crea·nde unu.
-firefoxview-tabpickup-step-signin-primarybutton = Sighi
 firefoxview-syncedtabs-signin-header-2 = Su { -brand-product-name } tuo in totu is dispositivos tuos
 firefoxview-syncedtabs-signin-description-2 = Pro bìdere ischedas chi apas abertu in su telèfonu e àteros dispositivos, identìfica·ti o registra·ti cun unu contu. Cun unu contu, as a pòdere puru sincronizare is craes e sa cronologia tuas, e àteru.
 firefoxview-syncedtabs-signin-primarybutton-2 = Identìfica·ti
-firefoxview-tabpickup-adddevice-header = Sincroniza { -brand-product-name } in su telèfonu o tauledda cosa tua
-firefoxview-tabpickup-adddevice-description = Iscàrriga { -brand-product-name } pro mòbiles e atzede a su contu tuo.
-firefoxview-tabpickup-adddevice-learn-how = Impara comente ddu fàghere
-firefoxview-tabpickup-adddevice-primarybutton = Otene { -brand-product-name } pro mòbiles
 firefoxview-syncedtabs-adddevice-header-2 = Piga ischedas dae ònnia logu
 firefoxview-syncedtabs-adddevice-description-2 = Identìfica·ti in { -brand-product-name } dae su telèfonu o dae un’àteru elaboradore pro bìdere is ischedas inoghe. Impara comente podes <a data-l10n-name="url">connètere àteros dispositivos</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Proa { -brand-product-name } pro mòbiles
-firefoxview-tabpickup-synctabs-header = Ativa sa sincronizatzione de ischedas
-firefoxview-tabpickup-synctabs-description = Permite chi { -brand-short-name } cumpartzat ischedas intre dispositivos.
-firefoxview-tabpickup-synctabs-learn-how = Impara comente ddu fàghere
 firefoxview-tabpickup-synctabs-primarybutton = Sincroniza ischedas abertas
 firefoxview-tabpickup-synctabs-primarybutton-2 = Ativa sa sincronizatzione de ischedas
 firefoxview-syncedtabs-synctabs-header = Atualiza is cunfiguratziones de sincronizatzione
@@ -52,7 +30,6 @@ firefoxview-syncedtabs-loading-header = Sincronizatzione in cursu
 firefoxview-syncedtabs-loading-description = Una borta fatu, is ischedas in cale si siat àteru dispositivu ant a apàrrere inoghe puru. Averìgua·ddu prus a tardu.
 firefoxview-syncedtabs-loading-header-2 = Recùperu de ischedas in cursu...
 firefoxview-tabpickup-fxa-admin-disabled-header = S'organizatzione tua at disativadu sa sincronizatzione
-firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } non podet sincronizare is ischedas intre dispositivos ca s'amministratzione tua at disativadu sa sincronizatzione.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } non podet sincronizare is ischedas intre dispositivos ca s'organizatzione tua at disativadu sa sincronizatzione.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Sa sincronizatzione de ischedas est disativada
 firefoxview-tabpickup-network-offline-header = Controlla sa connessione a sa rete
@@ -71,38 +48,17 @@ firefoxview-tabpickup-password-locked-link = Àteras informatziones
 firefoxview-tabpickup-password-locked-primarybutton = Inserta sa crae printzipale
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Àteras informatziones</a>
 firefoxview-tabpickup-signed-out-header = Identìfica·ti pro torrare a connètere
-firefoxview-tabpickup-signed-out-description = Pro torrare a connètere e pigare is ischedas tuas, identìfica·ti in su contu tuo de { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-description2 = Pro ti torrare a connètere e recuperare is ischedas tuas, identìfica·ti cun su contu tuo.
 firefoxview-tabpickup-signed-out-primarybutton = Identìfica·ti
 firefoxview-tabpickup-signed-out-header-2 = Identìfica·ti pro bìdere is ischedas tuas
-firefoxview-tabpickup-syncing = Abeta in su mentras chi is ischedas sunt sincronizadas. At a èssere unu momentu isceti.
-firefoxview-mobile-promo-header = Recùpera is ischedas dae su telèfonu o sa tauledda
-firefoxview-mobile-promo-description = Pro bìdere is ùrtimas ischedas abertas dae su mòbile, atzede a su contu tuo de { -brand-product-name } in iOS o Android.
-firefoxview-mobile-promo-primarybutton = Otene { -brand-product-name } pro mòbiles
-firefoxview-mobile-confirmation-header = 🎉 Totu prontu!
-firefoxview-mobile-confirmation-description = Immoe podes recuperare is ischedas de { -brand-product-name } dae su telèfonu o sa tauledda.
-firefoxview-closed-tabs-title = Serradas de reghente
-firefoxview-closed-tabs-description2 = Torra a abèrrere ischedas chi as serradu in custa ventana.
-firefoxview-closed-tabs-placeholder-header = Peruna ischeda serrada de reghente
-firefoxview-closed-tabs-placeholder-body = Cando serras un'ischeda in custa ventana, dda podes recuperare dae inoghe.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Serra { $tabTitle }
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Ùrtima ativa
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Aberi { $targetURI } in un'ischeda noa
-firefoxview-try-colorways-button = Prova is cumbinatziones de colores
-firefoxview-change-colorway-button = Càmbia sa cumbinatzione de colores
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Ancora nudda de ammustrare
-firefoxview-synced-tabs-placeholder-body = Sa borta imbeniente chi aberis una pàgina in { -brand-product-name } in un'àteru dispositivu, dd'as a agatare inoghe, pro maghia.
 firefoxview-collapse-button-show =
     .title = Ammustra sa lista
 firefoxview-collapse-button-hide =

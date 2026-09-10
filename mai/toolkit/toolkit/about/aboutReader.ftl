@@ -12,4 +12,3 @@ about-reader-font-type-sans-serif = सैंस-सेरिफ़:
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = पाठक व्यू बन्न करू
-about-reader-toolbar-type-controls = नियंत्रण प्रकार

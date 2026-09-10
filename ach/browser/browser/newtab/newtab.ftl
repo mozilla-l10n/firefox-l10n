@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Dirica matidi manyen
-newtab-settings-button =
-    .title = Yub potbuk me dirica matidi mamegi manyen
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -41,7 +39,6 @@ newtab-search-box-search-button =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = Med ingin me yeny
-newtab-topsites-edit-topsites-header = Yub Kakube maloyo
 newtab-topsites-title-label = Wiye madit
 newtab-topsites-title-input =
     .placeholder = Ket wiye
@@ -74,20 +71,12 @@ newtab-confirm-delete-history-p2 = Pe ki twero gonyo tic man.
 newtab-menu-section-tooltip =
     .aria-label = Yab jami ayera
     .title = Yab jami ayera
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Kwany
-    .title = Kwany
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Yab jami ayera pi { $title }
     .title = Yab jami ayera
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Yub kakube man
-    .title = Yub kakube man
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -98,14 +87,6 @@ newtab-menu-dismiss = Kwer
 newtab-menu-pin = Mwon
 newtab-menu-unpin = War
 newtab-menu-delete-history = Kwany ki ii gin mukato
-newtab-menu-save-to-pocket = Gwok i { -pocket-brand-name }
-newtab-menu-delete-pocket = Kwany ki ii { -pocket-brand-name }
-newtab-menu-archive-pocket = Kan i { -pocket-brand-name }
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Otum
-newtab-privacy-modal-link = Nong ngec ikit ma mung tiyo kwede i dirica matidi manyen
 
 ##
 
@@ -146,38 +127,15 @@ newtab-label-download = Ki gamo
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Kwany bute
-newtab-section-menu-collapse-section = Kan bute
-newtab-section-menu-expand-section = Yar bute
-newtab-section-menu-manage-section = Lo bute
-newtab-section-menu-manage-webext = Lo Lamed
-newtab-section-menu-add-topsite = Med Kakube maloyo
-newtab-section-menu-add-search-engine = Med ingin me yeny
-newtab-section-menu-move-up = Kob Malo
-newtab-section-menu-move-down = Kob Piny
 newtab-section-menu-privacy-notice = Ngec me mung
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Kan Bute
-newtab-section-expand-section-label =
-    .aria-label = Yar Bute
 
 ## Section Headers.
 
 newtab-section-header-topsites = Kakube maloyo
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Lami tam obedo { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Cak yeny, ka wa binyuto coc akwana mabeco, video, ki potbuk mukene ma ilimo cokcokki onyo ma kiketo alamabuk kany.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Ityeko weng. Rot doki lacen pi lok madito mapol ki bot { $provider }. Pe itwero kuro? Yer lok macuke lamal me nongo lok mabeco mapol ki i but kakube.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -188,22 +146,8 @@ newtab-discovery-empty-section-topstories-loading = Tye ka cano…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Oops! Manok kono onongo wa cano bute man, ento pe weng.
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Lok macuk gi lamal:
-newtab-pocket-learn-more = Nong ngec mapol
-newtab-pocket-cta-button = Nong { -pocket-brand-name }
-newtab-pocket-cta-text = Gwok lok ma imaro ii { -pocket-brand-name }, ka i pik wii ki jami me akwana ma mako wii.
-newtab-pocket-save = Gwoki
-newtab-pocket-saved = Kigwoko
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = Aii, gin mo otime marac i cano jami man.
 newtab-error-fallback-refresh-link = Nwo cano potbuk me temo odoco.
-
-## New Tab Appearance (browser theme picker)
-
-newtab-custom-close-button = Lor

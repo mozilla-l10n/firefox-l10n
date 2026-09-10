@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = ໂດດໄປມາລະຫວ່າ�
 callout-firefox-view-tab-pickup-subtitle = ຈັບແຖບທີ່ເປີດຈາກໂທລະສັບຂອງທ່ານຢ່າງວ່ອງໄວ ແລະເປີດພວກມັນຢູ່ບ່ອນນີ້ເພື່ອການໄຫຼສູງສຸດ.
 callout-firefox-view-recently-closed-title = ເອົາແຖບປິດຂອງເຈົ້າຄືນມາໃນທັນທີ
 callout-firefox-view-recently-closed-subtitle = ແຖບປິດທັງໝົດຂອງເຈົ້າຈະປາກົດຢູ່ບ່ອນນີ້ຢ່າງມະຫັດສະຈັນ. ຢ່າກັງວົນກ່ຽວກັບການປິດເວັບໄຊອີກຄັ້ງໂດຍບັງເອີນ.
-callout-firefox-view-colorways-title = ເລືອກສີທີ່ທ່ານມັກ
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = ເລືອກຮົ່ມທີ່ເວົ້າກັບທ່ານດ້ວຍສີສັນ. ໃນ { -brand-product-name } ເທົ່ານັ້ນ.
-callout-firefox-view-colorways-reminder-title = ສຳຫຼວດສີສັນຫຼ້າສຸດຂອງພວກເຮົາ
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = ທາສີບຼາວເຊີຂອງທ່ານດ້ວຍສີທີ່ໂດດເດັ່ນເຫຼົ່ານີ້, ໄດ້ຮັບການດົນໃຈຈາກສຽງທີ່ເປັນເອກະລາດ. ໃນ { -brand-product-name } ເທົ່ານັ້ນ.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

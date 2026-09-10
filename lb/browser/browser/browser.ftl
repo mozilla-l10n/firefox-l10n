@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 urlbar-identity-button =
     .aria-label = Informatioune vum Site uweisen
 
@@ -89,8 +84,6 @@ urlbar-extension =
     .value = Erweiderung:
 urlbar-go-button2 =
     .title = D'Adress aus der Leescht lueden
-urlbar-go-button =
-    .tooltiptext = D'Adress aus der Leescht lueden
 
 ## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
 ## results with last-visited dates like history and top sites, these strings
@@ -150,8 +143,6 @@ ui-tour-info-panel-close =
 
 ##
 
-navbar-overflow =
-    .tooltiptext = Méi Handwierksgeschir…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =

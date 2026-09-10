@@ -244,8 +244,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = ᱢᱮᱫᱦᱟᱸᱠᱚ
 menu-profiles-manage-profiles =
     .label = ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 menu-profiles-new-profile =
@@ -259,9 +257,6 @@ menu-tools =
 menu-tools-downloads =
     .label = ᱰᱟᱣᱱᱞᱚᱰ ᱠᱚ
     .accesskey = ᱰ
-menu-tools-addons-and-themes =
-    .label = ᱮᱰᱚᱱᱥ ᱟᱨ ᱛᱷᱮᱢᱥ
-    .accesskey = A
 menu-tools-fxa-sign-in2 =
     .label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
     .accesskey = g
@@ -315,8 +310,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = ᱫᱤᱜᱫᱷᱟᱹ ᱦᱩᱭᱩᱜ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
     .accesskey = T
-menu-help-report-site-issue =
-    .label = ᱥᱟᱭᱤᱴ ᱨᱮᱭᱟᱜ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱤᱛᱞᱟᱹᱭ ᱢᱮ…
 menu-help-share-ideas =
     .label = ᱟᱢᱟᱜ ᱢᱚᱱᱮ ᱵᱤᱪᱟᱹᱨ ᱟᱨ ᱢᱮᱢᱮᱱ ᱠᱚ ᱦᱟᱹᱴᱤᱧ ᱢᱮ…
     .accesskey = S

@@ -20,16 +20,6 @@ recently-closed-panel-reopen-all-windows = Obnoviť všetky okná
 ##
 
 # Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [one] { $winTitle } (a ďalšia karta)
-        [few] { $winTitle } (a ďalšie { $tabCount } karty)
-       *[other] { $winTitle } (a ďalších { $tabCount } kariet)
-    }
-# Variables:
 #   $tabCount (Number): Number of tabs that were open in the closed window
 #   $winTitle (String): Window title
 #   $closedAt (Number): Milliseconds since epoch when the window was closed

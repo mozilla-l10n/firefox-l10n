@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-toolbar-button-firefox-view =
-    .label = { -firefoxview-brand-name(case: "nom") }
-    .tooltiptext = { -firefoxview-brand-name(case: "nom") }
 toolbar-button-firefox-view-2 =
     .label = { -firefoxview-brand-name(case: "nom") }
     .tooltiptext = Προβολή πρόσφατης περιήγησης από όλα τα παράθυρα και τις συσκευές
@@ -16,39 +13,20 @@ firefoxview-page-heading =
     .heading = { -firefoxview-brand-name(case: "nom") }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name(case: "nom") }
-firefoxview-close-button =
-    .title = Κλείσιμο
-    .aria-label = Κλείσιμο
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Μόλις τώρα
-# This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
-firefoxview-tabpickup-header = Μεταφορά καρτελών
-firefoxview-tabpickup-description = Ανοίξτε σελίδες από άλλες συσκευές.
-# Variables:
-#  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = Ολοκλήρωση κατά { $percentValue }%
-firefoxview-tabpickup-step-signin-header = Απρόσκοπτη εναλλαγή μεταξύ συσκευών
-firefoxview-tabpickup-step-signin-description = Για να φέρετε τις καρτέλες του τηλεφώνου σας εδώ, κάντε πρώτα σύνδεση ή δημιουργήστε έναν λογαριασμό.
-firefoxview-tabpickup-step-signin-primarybutton = Συνέχεια
 firefoxview-syncedtabs-signin-header-2 = Το { -brand-product-name } σε όλες τις συσκευές σας
 firefoxview-syncedtabs-signin-description-2 = Για να δείτε τις ανοικτές σας καρτέλες στο τηλέφωνο και σε άλλες συσκευές σας, συνδεθείτε ή δημιουργήστε έναν λογαριασμό. Με έναν λογαριασμό, μπορείτε να συγχρονίσετε τους κωδικούς πρόσβασης, το ιστορικό σας και πολλά άλλα.
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = Από τον φορητό υπολογιστή στο τηλέφωνο, απρόσκοπτα
 firefoxview-syncedtabs-signin-description-3 = Διατηρήστε την περιήγησή σας συνδεδεμένη με όλες τις συσκευές σας — καρτέλες, κωδικοί πρόσβασης και ιστορικό, όλα σε συγχρονισμό.
 firefoxview-syncedtabs-signin-primarybutton-2 = Σύνδεση
-firefoxview-tabpickup-adddevice-header = Συγχρονισμός του { -brand-product-name } στις κινητές σας συσκευές
-firefoxview-tabpickup-adddevice-description = Κάντε λήψη του { -brand-product-name } για κινητές συσκευές και συνδεθείτε εκεί.
-firefoxview-tabpickup-adddevice-learn-how = Μάθετε πώς
-firefoxview-tabpickup-adddevice-primarybutton = Απόκτηση του { -brand-product-name } για κινητά
 firefoxview-syncedtabs-adddevice-header-2 = Λάβετε καρτέλες από οπουδήποτε
 firefoxview-syncedtabs-adddevice-description-2 = Συνδεθείτε στο { -brand-product-name } από το τηλέφωνό σας ή από κάποιο άλλο υπολογιστή για να δείτε τις καρτέλες. Μάθετε πώς να <a data-l10n-name="url">συνδέσετε επιπλέον συσκευές</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Δοκιμάστε το { -brand-product-name } για κινητές συσκευές
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Έχετε κλήση από τις καρτέλες σας. Είναι στο τηλέφωνό σας.
 firefoxview-syncedtabs-adddevice-description-3 = Σαρώστε τον κωδικό QR για να αποκτήσετε το { -brand-product-name } για κινητές συσκευές και να ξεκινήσετε τον συγχρονισμό των ανοικτών καρτελών και άλλων δεδομένων σας. Μάθετε πώς να <a data-l10n-name="url">συνδέσετε επιπλέον συσκευές</a>.
-firefoxview-tabpickup-synctabs-header = Ενεργοποίηση συγχρονισμού καρτελών
-firefoxview-tabpickup-synctabs-description = Επιτρέψτε στο { -brand-short-name } να κάνει κοινή χρήση καρτελών μεταξύ συσκευών.
-firefoxview-tabpickup-synctabs-learn-how = Μάθετε πώς
 firefoxview-tabpickup-synctabs-primarybutton = Συγχρονισμός ανοικτών καρτελών
 firefoxview-tabpickup-synctabs-primarybutton-2 = Ενεργοποίηση συγχρονισμού καρτελών
 firefoxview-syncedtabs-synctabs-header = Ενημερώστε τις ρυθμίσεις συγχρονισμού σας
@@ -60,7 +38,6 @@ firefoxview-syncedtabs-loading-description = Μόλις ολοκληρωθεί, 
 firefoxview-syncedtabs-loading-header-2 = Λήψη των καρτελών σας…
 firefoxview-syncedtabs-loading-description-2 = Ο συγχρονισμός είναι σε εξέλιξη. Οι καρτέλες σας θα εμφανιστούν εδώ σύντομα.
 firefoxview-tabpickup-fxa-admin-disabled-header = Ο οργανισμός σας έχει απενεργοποιήσει τον συγχρονισμό
-firefoxview-tabpickup-fxa-admin-disabled-description = Το { -brand-short-name } δεν μπορεί να συγχρονίσει τις καρτέλες μεταξύ συσκευών, επειδή ο διαχειριστής σας έχει απενεργοποιήσει τον συγχρονισμό.
 firefoxview-tabpickup-fxa-disabled-by-policy-description = Το { -brand-short-name } δεν μπορεί να συγχρονίσει τις καρτέλες μεταξύ συσκευών, επειδή ο οργανισμός σας έχει απενεργοποιήσει τον συγχρονισμό.
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Ο συγχρονισμός καρτελών είναι ανενεργός
 firefoxview-tabpickup-fxa-disabled-by-policy-description-2 = Ο οργανισμός σας απέκλεισε αυτήν τη λειτουργία.
@@ -86,39 +63,18 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-password-locked-header-2 = Ξεκλειδώστε τις καρτέλες με τον κύριο κωδικό πρόσβασής σας
 firefoxview-tabpickup-password-locked-description-2 = Για χάρη του απορρήτου σας, οι συγχρονισμένες καρτέλες προστατεύονται. Εισαγάγετε τον κύριο κωδικό πρόσβασής σας στο { -brand-short-name } για να δείτε καρτέλες από τις άλλες συσκευές σας.
 firefoxview-tabpickup-signed-out-header = Συνδεθείτε για επανασύνδεση
-firefoxview-tabpickup-signed-out-description = Για να επανασυνδεθείτε και να λάβετε τις καρτέλες σας, συνδεθείτε στον { -fxaccount-brand-name(case: "acc", capitalization: "lower") } σας.
 firefoxview-tabpickup-signed-out-description2 = Για να επανασυνδεθείτε και να λάβετε τις καρτέλες σας, συνδεθείτε στον λογαριασμό σας.
 firefoxview-tabpickup-signed-out-primarybutton = Σύνδεση
 firefoxview-tabpickup-signed-out-header-2 = Συνδεθείτε για να δείτε τις καρτέλες σας
 firefoxview-tabpickup-signed-out-description-2 = Συνδεθείτε ξανά για να δείτε καρτέλες από άλλες συσκευές.
-firefoxview-tabpickup-syncing = Περιμένετε μέχρι να συγχρονιστούν οι καρτέλες σας. Θα χρειαστεί μόνο μια στιγμή.
-firefoxview-mobile-promo-header = Λάβετε καρτέλες από το τηλέφωνο ή το tablet σας
-firefoxview-mobile-promo-description = Για να δείτε τις πρόσφατες καρτέλες από την κινητή σας συσκευή, συνδεθείτε στο { -brand-product-name } για iOS ή Android.
-firefoxview-mobile-promo-primarybutton = Απόκτηση του { -brand-product-name } για κινητά
-firefoxview-mobile-confirmation-header = 🎉 Όλα έτοιμα!
-firefoxview-mobile-confirmation-description = Μπορείτε πλέον να λάβετε τις καρτέλες σας από το { -brand-product-name } του tablet ή του τηλεφώνου σας.
-firefoxview-closed-tabs-title = Πρόσφατα κλεισμένες
-firefoxview-closed-tabs-description2 = Ανοίξτε ξανά τις σελίδες που κλείσατε σε αυτό το παράθυρο.
-firefoxview-closed-tabs-placeholder-header = Καμία πρόσφατα κλεισμένη καρτέλα
-firefoxview-closed-tabs-placeholder-body = Όταν κλείσετε μια καρτέλα σε αυτό το παράθυρο, μπορείτε να τη βρείτε εδώ.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Απόρριψη «{ $tabTitle }»
-# refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Πρόσφατα ενεργή
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Άνοιγμα { $targetURI } σε νέα καρτέλα
-firefoxview-try-colorways-button = Δοκιμή χρωματικών συνδυασμών
-firefoxview-change-colorway-button = Αλλαγή χρωματικού συνδυασμού
-# Variables:
-#  $intensity (String): Colorway intensity
-#  $collection (String): Colorway Collection name
-firefoxview-colorway-description = { $intensity } · { $collection }
-firefoxview-synced-tabs-placeholder-header = Δεν υπάρχει τίποτα ακόμα
-firefoxview-synced-tabs-placeholder-body = Την επόμενη φορά που θα ανοίξετε μια σελίδα στο { -brand-product-name } σε άλλη συσκευή, θα τη λάβετε εδώ ως δια μαγείας.
 firefoxview-collapse-button-show =
     .title = Εμφάνιση λίστας
 firefoxview-collapse-button-hide =

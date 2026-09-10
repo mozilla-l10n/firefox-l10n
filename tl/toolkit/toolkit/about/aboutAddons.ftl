@@ -140,15 +140,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Idinisable lahat ng mga add-on sa safe mode.
-extensions-warning-check-compatibility = Naka-disable ang add-on compatibility checking. Posibleng may incompatible add-on ka.
-extensions-warning-safe-mode2 =
-    .message = Idinisable lahat ng mga add-on sa safe mode.
 extensions-warning-check-compatibility2 =
     .message = Naka-disable ang add-on compatibility checking. Posibleng may incompatible add-on ka.
 extensions-warning-check-compatibility-button = I-enable
     .title = I-enable ang add-on compatibility checking
-extensions-warning-update-security = Naka-disable ang update security checking. Posibleng ma-compromise ka ng updates.
 extensions-warning-update-security2 =
     .message = Naka-disable ang update security checking. Posibleng ma-compromise ka ng updates.
 extensions-warning-update-security-button = I-enable
@@ -212,10 +207,6 @@ shortcuts-duplicate = Dobleng shortcut
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = Ang { $shortcut } ay ginagamit bilang isang shortcut sa higit pa na isang kaso. Ang mga dobleng shortcut ay maaaring maging sanhi ng hindi inaasahang pag-uugali.
-# String displayed when a keyboard shortcut is already assigned to more than one add-on
-# Variables:
-#   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message2 =
     .message = Ang { $shortcut } ay ginagamit bilang isang shortcut sa higit pa na isang kaso. Ang mga dobleng shortcut ay maaaring maging sanhi ng hindi inaasahang pag-uugali.
 # String displayed when a keyboard shortcut is already used by another add-on
@@ -235,11 +226,6 @@ header-back-button =
 
 ## Recommended add-ons page
 
-# Explanatory introduction to the list of recommended add-ons. The action word
-# ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Ang mga extension at tema ay parang mga app sa iyong browser, pwede kang makapagprotekta ng mga password, mag-download ng video, maghanap ng mga binebentang bagay, magharang ng mga nakakabwiset na ad, baguhin ang itsura ng browser mo, at iba pa. Ang mga maliliit na software na ito ay kadalasang ginagawa ng third party. Narito ang isang koleksyon na <a data-l10n-name="learn-more-trigger">minumungkahi</a> ng { -brand-product-name } para sa katangi-tanging seguridad, pagganap, at pag-andar.
-# Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Ang ilan sa mga rekomendasyong ito ay pasadya. Sila na binase sa ibang mga extension na iyong ikinabit, sa mga profile preference, at usage statistics.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message = Ang ilan sa mga rekomendasyong ito ay pasadya. Sila na binase sa ibang mga extension na iyong ikinabit, sa mga profile preference, at usage statistics.
@@ -303,16 +289,9 @@ addon-detail-last-updated-label = Huling In-update
 addon-detail-homepage-label = Homepage
 addon-detail-rating-label = Grado
 # Message for add-ons with a staged pending update.
-install-postponed-message = Maa-update ang extension na ito kapag nag-restart ang { -brand-short-name }.
-# Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Maa-update ang extension na ito kapag nag-restart ang { -brand-short-name }.
 install-postponed-button = Mag-update Na
-# The average rating that the add-on has received.
-# Variables:
-#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
-five-star-rating =
-    .title = May gradong { NUMBER($rating, maximumFractionDigits: 1) } / 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -330,9 +309,6 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = Natanggal na ang <span data-l10n-name="addon-name">{ $addon }</span>.
-# Variables:
-#   $addon (string) - Name of the add-on
 pending-uninstall-description2 =
     .message = Natanggal na ang { $addon }.
 pending-uninstall-undo-button = I-undo
@@ -346,21 +322,9 @@ install-update-button = I-update
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed3 =
     .title = Pinagpayagan sa mga private window
-# This is the tooltip text for the private browsing badge in about:addons. The
-# badge is the private browsing icon included next to the extension's name.
-addon-badge-private-browsing-allowed2 =
-    .aria-label = { addon-badge-private-browsing-allowed2.title }
-    .title = Pinagpayagan sa mga private window
 addon-detail-private-browsing-help = Kapag pinayagan, ang extension ay magkakaroon ng access sa iyong mga online activity habang nasa private browsing. <a data-l10n-name="learn-more">Alamin</a>
 addon-detail-private-browsing-allow = Payagan
 addon-detail-private-browsing-disallow = Huwag Payagan
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-addon-badge-recommended2 =
-    .aria-label = { addon-badge-recommended2.title }
-    .title = Inirerekomenda lamang ng { -brand-product-name } ang mga extension na pasok sa aming mga pamantayan pagdating sa seguridad at performance
 
 ##
 
@@ -368,7 +332,6 @@ available-updates-heading = Mga Magagamit na Update
 recent-updates-heading = Mga Update Kamakailan
 release-notes-loading = Nagloload...
 release-notes-error = Paumanhin, pero nagkaroon ng problema sa pagpapakita ng mga release note.
-addon-permissions-empty = Ang extension na ito ay hindi nangangailangan ng kahit anong pahintulot.
 recommended-extensions-heading = Mga Inirerekomendang Extension
 recommended-themes-heading = Mga Inirerekomendang Tema
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
@@ -397,24 +360,12 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = Ang { $name } ay di akma para sa { -brand-short-name } { $version }.
-# Variables:
-#   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = Ang { $name } ay di akma para sa { -brand-short-name } { $version }.
-details-notification-unsigned-and-disabled = Ang { $name } ay hindi maaaring patunayan para magamit sa { -brand-short-name } at kasalukuyang hindi pinagana.
 details-notification-unsigned-and-disabled2 =
     .message = Ang { $name } ay hindi maaaring patunayan para magamit sa { -brand-short-name } at kasalukuyang hindi pinagana.
-details-notification-unsigned-and-disabled-link = Karagdagang Impormasyon
-details-notification-unsigned = Ang { $name } ay hindi maaaring mapatunayan para magamit sa { -brand-short-name }. Maingat na magpatuloy.
 details-notification-unsigned2 =
     .message = Ang { $name } ay hindi maaaring mapatunayan para magamit sa { -brand-short-name }. Maingat na magpatuloy.
-details-notification-unsigned-link = Karagdagang Impormasyon
-details-notification-blocked = Ang { $name } ay kasalukuyang hindi pinagana dahil sa mga isyu sa seguridad o stabilidad.
-details-notification-blocked-link = Karagdagang Impormasyon
-details-notification-softblocked = Ang { $name } ay kilala na magdudulot ng mga isyu sa seguridad at stabilidad.
-details-notification-softblocked-link = Karagdagang Impormasyon
-details-notification-gmp-pending = Ang { $name } ay ikakabit sa ilang sandali.
 details-notification-gmp-pending2 =
     .message = Ang { $name } ay ikakabit sa ilang sandali.
 

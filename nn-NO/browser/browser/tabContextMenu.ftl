@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Ny fane
-    .accesskey = N
 reload-tab =
     .label = Oppdater fane
     .accesskey = O
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Ny gruppe
     .accesskey = N
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -198,13 +191,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Opprett delbar lenke
     .accesskey = e
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Send fane til ei eining
-           *[other] Send { $tabCount } faner til ei eining
-        }
-    .accesskey = n
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

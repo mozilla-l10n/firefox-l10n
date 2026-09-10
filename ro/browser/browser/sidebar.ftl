@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = Șterge istoricul
 sidebar-history-sort-by-heading-menucaption =
     .label = Sortează după:
-sidebar-history-sort-by-heading = Sortează după:
 sidebar-history-sort-option-date =
     .label = Dată
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Extensii în bara laterală
-sidebar-customize-firefox-tools-header =
-    .label = Instrumente { -brand-product-name }
 sidebar-customize-firefox-settings = Gestionează setările { -brand-short-name }
 sidebar-vertical-tabs =
     .label = File verticale
 sidebar-settings2 =
     .label = Setări
-sidebar-settings =
-    .label = Setări bară laterală
 sidebar-hide-tabs-and-sidebar =
     .label = Ascunde filele și bara laterală
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Gestionează extensia
-sidebar-context-menu-remove-extension =
-    .label = Elimină extensia
 sidebar-context-menu-report-extension =
     .label = Raportează extensia
 sidebar-context-menu-open-in-tab =

@@ -10,11 +10,7 @@
 ## Variables:
 ##   $extension (String): replaced with the localized name of the extension.
 
-webext-perms-header = { $extension } qoʻshilsinmi?
-webext-perms-header-unsigned = { $extension } qoʻshilsinmi? Bu kengaytma tekshiruvdan oʻtmagan. Zararli kengaytmalar shaxsiy maʼlumotlaringizni oʻgʻirlashi yoki kompyuteringizni buzishi mumkin. Manbaga ishonsangiz, uni qoʻshing.
-webext-perms-header-unsigned-with-perms = { $extension } qoʻshilsinmi? Bu kengaytma tekshiruvdan oʻtmagan. Zararli kengaytmalar shaxsiy maʼlumotlaringizni oʻgʻirlashi yoki kompyuteringizni buzishi mumkin. Manbaga ishonsangiz, uni qoʻshing. Kengaytma quyidagi huquqlarga ega boʻladi:
 webext-perms-sideload-header = { $extension } qo‘shildi
-webext-perms-optional-perms-header = { $extension } qoʻshimcha ruxsat soʻramoqda.
 
 ##
 

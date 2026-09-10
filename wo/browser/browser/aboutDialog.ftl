@@ -17,7 +17,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Yebum yeesal bi —<label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Yebum yeesal bi —{ $transfer }
 
@@ -28,7 +27,6 @@ settings-update-applying =
     .label = Def yeesal bi…
 update-failed = Yeesal bi lajj na.<label data-l10n-name="failed-link">Yeb sumb bi mujj</label>
 update-failed-main = Yeesal bi lajj na.<a data-l10n-name="failed-link-main">Yeb sumb bi mujj</a>
-update-adminDisabled = Sa saytukatu sistem suuxal na yeesal yi
 update-noUpdatesFound = { -brand-short-name } yees na
 settings-update-no-updates-found =
     .label = { -brand-short-name } yees na
@@ -48,5 +46,3 @@ warningDesc-version = { -brand-short-name } dafa bees la mën am ay tolof tolof.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> dafa nekk <label data-l10n-name="community-exp-creditsLink">mbootaay bu wër addina</label> di liggéeyandoo ngir internet nekk lu ubbeeku ku nekk mën cee jot.
 community-2 = ki defar { -brand-short-name } moodi <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, mbootaay bu wër aduna bu<label data-l10n-name="community-creditsLink">jàppalekat yi</label> di liggéeyandoo ngir Internet nekk lu ubbeeku ku nekk mën cee jot.
 bottomLinks-license = Xibaar ci yaatal gi
-bottomLinks-rights = Sañ sañi jëfandikookat bi
-bottomLinks-privacy = Poltigu dundu biir

@@ -126,4 +126,3 @@ certificate-viewer-tab-mine = Гувоҳномаҳои шумо
 certificate-viewer-tab-people = Одамон
 certificate-viewer-tab-servers = Серверҳо
 certificate-viewer-tab-ca = Марказҳои гувоҳномадиҳӣ
-certificate-viewer-tab-unkonwn = Номаълум

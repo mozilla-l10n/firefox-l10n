@@ -9,6 +9,3 @@ all-tabs-menu-new-user-context =
     .label = ନୂତନ କଣ୍ଟେନର ଟ୍ୟାବ
 all-tabs-menu-hidden-tabs =
     .label = ଲୁଚିଥିବା ଟ୍ୟାବଗୁଡ଼ିକ
-all-tabs-menu-manage-user-context =
-    .label = କଣ୍ଟେନର ପରିଚାଳନା କରନ୍ତୁ
-    .accesskey = କ

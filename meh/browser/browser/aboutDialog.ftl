@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Xinuun a jíía —<label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Xinú a jíía — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Xinuun a jíía —{ $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Naxi´ñá...
 update-failed = Ntu kuvi naxi´ñá. <label data-l10n-name="failed-link">Xinuu iin a jíía da ya´a</label>
 update-failed-main = Ntu kuvi naxi´ñá. <a data-l10n-name="failed-link-main">Xinuu iin a jíía da ya´a</a>
-update-adminDisabled = Naxi´ñao ña´kuiñɨ nu ka̱a̱ tee nɨnuu
 update-noUpdatesFound = { -brand-short-name } naxi´ñao a iyo jíía
 settings-update-no-updates-found =
     .label = { -brand-short-name } naxi´ñao a iyo jíía
@@ -64,8 +62,6 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } nsá´á <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, iin <label data-l10n-name="community-creditsLink">ñuu ñu´un</label> ké´io saa koo ka̱a̱ nántu´un ne jika, nuu kuaiyo da noo´o.
 helpus = Kuvi noo´o chinei? <label data-l10n-name="helpus-donateLink">Kunimani iin a kuvi</label> a xíín <label data-l10n-name="helpus-getInvolvedLink">náyonika</label>
 bottomLinks-license = Tutu nákani saa kuantiñu ya´a
-bottomLinks-rights = Nichi saa noo´o kuvi kuantiñu ya´a
-bottomLinks-privacy = Tu´un xitu a nejika kumio
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

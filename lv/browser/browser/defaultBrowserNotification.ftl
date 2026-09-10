@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = Turiet { -brand-short-name } sev tuvumā �
 default-browser-prompt-message-pin-msix = Turiet { -brand-short-name } sev tuvumā — padariet to par noklusējuma pārlūku un piespraudiet to uzdevumjoslai un sākuma izvēlnei.
 default-browser-prompt-message-pin-mac = Turiet { -brand-short-name } sev tuvumā — padariet to par noklusējuma pārlūku un turiet to savā dokā.
 default-browser-prompt-button-primary-set = Iestatīt par galveno pārlūku
-default-browser-prompt-button-primary-pin = Iestatīt par galveno pārlūku
 default-browser-prompt-title-alt = Vai padarīt { -brand-short-name } par noklusējuma pārlūku?
 default-browser-prompt-message-alt = Iegūstiet ātrumu, drošību un privātumu katrā pārlūkošanas reizē.
 default-browser-prompt-button-primary-alt = Iestatīt par noklusējuma pārlūku

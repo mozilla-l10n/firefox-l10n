@@ -25,8 +25,8 @@ pippki-pw-change2empty-in-fips-mode = Şu anda FIPS kipindesiniz. FIPS için bo�
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Ana parolayı sıfırla
     .style = min-width: 40em
+    .title = Ana parolayı sıfırla
 reset-password-button-label =
     .label = Sıfırla
 reset-primary-password-text = Ana parolanızı sıfırlarsanız tüm kayıtlı web ve e-posta parolalarınız, kişisel sertifikalarınız ve özel anahtarlarınız silinecektir. Ana parolanızı sıfırlamak istediğinizden emin misiniz?
@@ -36,8 +36,8 @@ pippki-reset-password-confirmation-message = Ana parolanız sıfırlandı.
 ## Downloading cert dialog
 
 download-cert-window2 =
-    .title = Sertifika indiriliyor
     .style = min-width: 46em
+    .title = Sertifika indiriliyor
 download-cert-message = Yeni bir Sertifika Makamına (CA) güvenmeniz istendi.
 download-cert-trust-ssl =
     .label = Web sitelerini tanımlamak için bu CA’ya güven.
@@ -52,8 +52,6 @@ download-cert-view-text = CA sertifikasını incele
 
 client-auth-window =
     .title = Kullanıcı Tanımlama İsteği
-client-auth-site-description = Bu site, kendinizi bir sertifikayla tanıtmanızı istiyor:
-client-auth-choose-cert = Sizi tanıtmak için gösterilecek sertifikayı seçin:
 client-auth-send-no-certificate =
     .label = Sertifika gönderme
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Lütfen güvenlik cihazınızda ({ $tokenName }) kimliğinizi doğrulayın. Bunun nasıl yapılacağı cihaza bağlıdır. (Örneğin parmak izi okuyucu kullanmanız veya tuş takımıyla bir kod girmeniz gerekebilir.)
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Lütfen “{ $tokenName }” jetonu için kimliğinizi doğrulayın. Bunun nasıl yapılacağı jetona bağlıdır. (Örneğin, parmak izi okuyucu kullanmanız veya tuş takımıyla bir kod girmeniz gerekebilir.)

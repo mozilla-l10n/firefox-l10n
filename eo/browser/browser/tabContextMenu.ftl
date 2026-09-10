@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Nova langeto
-    .accesskey = l
 reload-tab =
     .label = Reŝargi langeton
     .accesskey = R
@@ -131,10 +128,6 @@ tab-context-new-tab-open-vertical =
 tab-context-new-group =
     .label = Nova grupo
     .accesskey = g
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -201,13 +194,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Krei divideblan ligilon
     .accesskey = d
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] Sendi langeton al aparato
-           *[other] Sendi { $tabCount } langetojn al aparato
-        }
-    .accesskey = S
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

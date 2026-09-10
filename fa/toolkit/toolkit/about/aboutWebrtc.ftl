@@ -17,7 +17,6 @@ about-webrtc-save-page-dialog-title = ذخیره about:webrtc به عنوان
 about-webrtc-aec-logging-msg-label = AEC ثبت می شود
 about-webrtc-aec-logging-off-state-label = آغاز ثبت AEC
 about-webrtc-aec-logging-on-state-label = توقف ثبت AEC
-about-webrtc-aec-logging-on-state-msg = ثبت وقایع AEC فعال (چند دقیقه با caller صحبت کنید و سپس دریافت را غیرفعال کنید)
 about-webrtc-aec-logging-toggled-on-state-msg = ثبت وقایع AEC فعال (چند دقیقه با caller صحبت کنید و سپس دریافت را غیرفعال کنید)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -77,17 +76,9 @@ about-webrtc-nominated = منصوب
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = انتخاب شده
 about-webrtc-save-page-label = ذخیره صفحه
-about-webrtc-debug-mode-msg-label = حالت اشکال زدایی
-about-webrtc-debug-mode-off-state-label = شروع حالت اشکال زدایی
-about-webrtc-debug-mode-on-state-label = توقف حالت اشکال زدایی
-about-webrtc-stats-heading = آمار نشست‌ها
 about-webrtc-stats-clear = پاک‌کردن تاریخچه
 about-webrtc-log-heading = گزارش اتصال
 about-webrtc-log-clear = پاک کردن وقایع
-about-webrtc-log-show-msg = نمایش گزارش
-    .title = برای بازشدن این بخش کلیک کنید
-about-webrtc-log-hide-msg = مخفی کردن گزارش
-    .title = برای جمع‌شدن این بخش کلیک کنید
 about-webrtc-log-section-show-msg = نمایش گزارش
     .title = برای بازشدن این بخش کلیک کنید
 about-webrtc-log-section-hide-msg = مخفی کردن گزارش
@@ -110,19 +101,11 @@ about-webrtc-remote-candidate = کاندیدای از راه دور
 about-webrtc-raw-candidates-heading = تمام کاندیدای خام
 about-webrtc-raw-local-candidate = کاندیدای خام محلی
 about-webrtc-raw-remote-candidate = کاندیدای خام از راه دور
-about-webrtc-raw-cand-show-msg = نمایش کاندیدای خام
-    .title = برای بازشدن این بخش کلیک کنید
-about-webrtc-raw-cand-hide-msg = پنهان سازی کاندیدای خام
-    .title = برای جمع‌شدن این بخش کلیک کنید
 about-webrtc-raw-cand-section-show-msg = نمایش کاندیدای خام
     .title = برای بازشدن این بخش کلیک کنید
 about-webrtc-raw-cand-section-hide-msg = پنهان سازی کاندیدای خام
     .title = برای جمع‌شدن این بخش کلیک کنید
 about-webrtc-priority = اولویت
-about-webrtc-fold-show-msg = نمایش جزئیات
-    .title = برای بازشدن این بخش کلیک کنید
-about-webrtc-fold-hide-msg = مخفی کردن جزئیات
-    .title = برای جمع‌شدن این بخش کلیک کنید
 about-webrtc-fold-default-show-msg = نمایش جزئیات
     .title = برای بازشدن این بخش کلیک کنید
 about-webrtc-fold-default-hide-msg = مخفی کردن جزئیات
@@ -132,10 +115,6 @@ about-webrtc-encoder-label = کد‌بند
 
 ##
 
-about-webrtc-save-page-msg = صفحه در این محل ذخیره شد:{ $path }
-about-webrtc-debug-mode-off-state-msg = پرونده را از اینجا می توانید دنبال کنید:{ $path }
-about-webrtc-debug-mode-on-state-msg = حالت اشکل‌زدایی فعال می‌باشد، پرونده وقایع را می‌توانید از اینجا دنبال کنید: { $path }
-about-webrtc-aec-logging-off-state-msg = پرونده های ضبط شده را می توان در اینجا یافت:{ $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

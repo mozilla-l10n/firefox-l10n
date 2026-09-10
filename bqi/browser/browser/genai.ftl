@@ -5,11 +5,6 @@
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = پورس کردن ز چت بات هۊش مسنۊعی
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = پورس کردن ز { $provider }
 genai-menu-open-generic =
     .label = گۊشیڌن چت بات هۊش مسنۊعی
 # $provider (string) - name of the provider
@@ -58,8 +53,6 @@ genai-header-provider-menu =
     .title = ی چت بات پسند کۊنین
 genai-header-settings-button =
     .title = سامووا چت هۊش مسنۊعی
-genai-header-options-button =
-    .title = گۊشیڌن نومگه
 genai-header-close-button =
     .title = بستن
 genai-provider-view-details =
@@ -82,34 +75,20 @@ genai-page-button-summarize = خولاسه بلگه
 
 genai-onboarding-primary = رئڌن وا پؽش
 genai-onboarding-secondary = بستن
-genai-onboarding-claude-learn = زبار Claude قلوه دووسته بۊین
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = زبار ChatGPT قلوه دووسته بۊین
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = زبار Copilot قلوه دووسته بۊین
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = زبار Gemini قلوه دووسته بۊین
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = زبار HuggingChat قلوه دووسته بۊین
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = زبار Le Chat Mistral قلوه دووسته بۊین
-genai-onboarding-select-primary = ناڌن پا گوفت ۉ لوفت
 genai-chatbot-contextual-button = ی چت بات پسند کۊنین
 genai-chatbot-summarize-button = خولاسه بلگه
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = وورکل هؽل وو کود
-genai-onboarding-huggingchat-generate = وورکل هؽل وو کود
-genai-onboarding-lechat-generate = وورکل هؽل وو کود
 
 ## Model Optin Component
 

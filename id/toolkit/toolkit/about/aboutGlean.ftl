@@ -51,7 +51,6 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-additional-links =
     Untuk penjelasan tentang berbagai cara untuk merekam dan menemukan data, silakan merujuk ke
     Tab <strong>Tentang Data</strong>.
-about-glean-about-testing-header = Tentang Pengujian
 # This message is followed by a numbered list.
 about-glean-manual-testing =
     Instruksi lengkap didokumentasikan dalam
@@ -60,8 +59,6 @@ about-glean-manual-testing =
     namun, singkatnya, untuk menguji secara manual apakah instrumentasi Anda berfungsi, Anda harus:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (jangan kirimkan ping apapun)
-# An in-line text input field precedes this string.
-about-glean-label-for-tag-pings = Di bidang sebelumnya pastikan ada tag debug yang mudah diingat sehingga Anda dapat mengenali ping Anda nanti.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Setel tag debug yang mudah diingat <span>(20 karakter atau kurang, alfanumerik dan - saja)</span> sehingga Anda dapat mengenali ping Anda nanti.
 # An in-line drop down list precedes this string.
@@ -88,13 +85,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Kunjungi laman { glean-debug-ping-viewer-brand-name } untuk mengetahui ping dengan tag Anda</a>.
     Seharusnya tidak perlu lebih dari beberapa detik dari menekan tombol hingga ping Anda tiba.
     Terkadang dibutuhkan beberapa menit.
-# Do not translate strings between <code> </code> tags.
-about-glean-adhoc-explanation =
-    Untuk pengujian <i>ad hoc</i> lainnya,
-    Anda juga dapat menentukan nilai instrumen tertentu saat ini
-    dengan membuka konsol devtools di sini di <code>about:glean</code>
-    dan menggunakan API <code>testGetValue()</code> seperti
-    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation2 =
     Untuk pengujian <i>ad hoc</i> lainnya,
@@ -136,6 +126,3 @@ about-glean-about-data-list-item-debug-ping-viewer =
 about-glean-about-data-list-item-firefox-profiler =
     Untuk merekam profil kinerja dan melihat semua metrik yang tercatat, silakan gunakan
     <a data-l10n-name="about-glean-firefox-profiler">{ -profiler-brand-name }</a>.
-about-glean-about-data-explanation =
-    Untuk menelusuri daftar data yang dikumpulkan, silakan berkonsultasi dengan
-    <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Kamus</a>.

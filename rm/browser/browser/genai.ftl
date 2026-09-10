@@ -46,11 +46,6 @@ genai-prompt-prefix-selection = Ich bin auf der Seite "{ $tabTitle }" und habe "
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Dumandar il chatbot IA
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Dumandar { $provider }
 genai-menu-open-generic =
     .label = Avrir il chatbot IA
 # $provider (string) - name of the provider
@@ -112,8 +107,6 @@ genai-header-provider-menu =
     .title = Tscherner in chatbot
 genai-header-settings-button =
     .title = Parameters dal chat IA
-genai-header-options-button =
-    .title = Avrir il menu
 genai-header-close-button =
     .title = Serrar
 genai-provider-view-details =
@@ -141,35 +134,23 @@ genai-page-button-summarize = Resumar la pagina
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Resumaziuns, brainstorming ed auter pli durant la navigaziun
 genai-onboarding-choose-header = Tscherna in chatbot IA per l’utilisar en la trav laterala da { -brand-short-name }
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Tscherna in chatbot IA per l’utilisaziun en la trav laterala da { -brand-short-name }. Nus vegnin a mussar detagls davart mintga chatbot cura che ti al selecziuneschas. Ti al pos midar da tut temp. <a data-l10n-name="learn-more">Ulteriuras infurmaziuns</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Mida da tut temp. Per avair ina basa da decisiun, <a data-l10n-name="learn-more">ve a savair dapli davart mitga chatbot</a>.
 genai-onboarding-primary = Cuntinuar
 genai-onboarding-secondary = Serrar
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Ulteriuras infurmaziuns davart Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Ulteriuras infurmaziuns davart ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Ulteriuras infurmaziuns davart Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Ulteriuras infurmaziuns davart Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
-genai-onboarding-huggingchat-learn = Ulteriuras infurmaziuns davart HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Ulteriuras infurmaziuns davart Le Chat
-genai-onboarding-select-header = Tscherner text per vesair propostas
-genai-onboarding-select-description = Sche ti selecziuneschas text, vegnin nus a proponer cumonds che ti pos trametter al chatbot. Ti pos era scriver tes agens cumonds.
-genai-onboarding-select-primary = Aviar il chat
 genai-chatbot-contextual-title = Utilisescha in chatbot IA senza midar tab
 genai-chatbot-contextual-subtitle = Scriva en il chat e navighescha in sper l’auter cun agiuntar in chatbot IA en la trav laterala da { -brand-short-name }.
 genai-chatbot-contextual-button = Tscherna in chatbot
@@ -182,27 +163,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = Clicca cun la tasta dretga da
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Avra tes chatbot IA en la trav laterala e tscherna giusut «Resumar la pagina».
 genai-chatbot-summarize-footer-generic-subtitle = Agiuntescha in chatbot IA a la trav laterala da { -brand-short-name } per svelt resumar paginas.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Generar text e code
-genai-onboarding-claude-analyze = Analisar documents e maletgs
-genai-onboarding-claude-price = Opziuns gratuitas e cunter pajament; conto obligatoric
-genai-onboarding-chatgpt-generate = Generar text, maletgs e code
-genai-onboarding-chatgpt-analyze = Analisar documents e maletgs
-genai-onboarding-chatgpt-price = Opziuns gratuitas e talas cunter pajament; in conto è necessari per tscherts pajais e tschertas incumbensas
-genai-onboarding-copilot-generate = Generar text, maletgs e code
-genai-onboarding-copilot-analyze = Analisar maletgs
-genai-onboarding-copilot-price = Opziuns gratuitas e talas cunter pajament; conto obligatoric per tschertas incumbensas
-genai-onboarding-gemini-generate = Generar text, maletgs e code
-genai-onboarding-gemini-analyze = Analisar maletgs (gratuit) e documents (cunter pajament)
-genai-onboarding-gemini-price = Opziuns gratuitas e cunter pajament; conto obligatoric
-genai-onboarding-huggingchat-generate = Generar text e code
-genai-onboarding-huggingchat-switch = Tscherner in model avert ord ina gronda schelta
-genai-onboarding-huggingchat-price-2 = Gratuit; conto obligatoric suenter in tschert dumber da dumondas
-genai-onboarding-lechat-generate = Generar text e code
-genai-onboarding-lechat-price = Gratuit; conto obligatoric
 
 ## Model Optin Component
 
@@ -241,8 +201,8 @@ link-preview-generation-retry = Empruvar anc ina giada
 link-preview-settings-button =
     .title = Parameters da la prevista da colliaziuns
 link-preview-settings-enable =
-    .label = Activar la prevista da colliaziuns
     .description = Mussar il titel da la pagina, la descripziun e dapli cura che ti utiliseschas la scursanida u cliccas cun la tasta dretga da la mieur sin ina colliaziun.
+    .label = Activar la prevista da colliaziuns
 link-preview-settings-key-points =
     .label = Permetter a l’IA da leger l’entschatta da la pagina e generar puncts-clav
 link-preview-settings-long-press =

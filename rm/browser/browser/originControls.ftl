@@ -10,8 +10,6 @@
 
 origin-controls-no-access =
     .label = L'extensiun na po ni leger ni modifitgar datas
-origin-controls-quarantined =
-    .label = L'extensiun n'ha ni la permissiun da leger ni da modifitgar datas
 origin-controls-quarantined-status =
     .label = Extensiun betg permessa sin websites cun restricziuns
 origin-controls-quarantined-allow =

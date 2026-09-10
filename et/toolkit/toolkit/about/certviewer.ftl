@@ -118,4 +118,3 @@ certificate-viewer-tab-mine = Sinu serdid
 certificate-viewer-tab-people = Inimesed
 certificate-viewer-tab-servers = Serverid
 certificate-viewer-tab-ca = Keskused
-certificate-viewer-tab-unkonwn = Tundmatu

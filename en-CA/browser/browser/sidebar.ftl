@@ -40,7 +40,6 @@ sidebar-history-clear =
     .label = Clear history
 sidebar-history-sort-by-heading-menucaption =
     .label = Sort by:
-sidebar-history-sort-by-heading = Sort by:
 sidebar-history-sort-option-date =
     .label = Date
 sidebar-history-sort-option-site =
@@ -60,16 +59,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Sidebar extensions
-sidebar-customize-firefox-tools-header =
-    .label = { -brand-product-name } tools
 sidebar-customize-firefox-settings = Manage { -brand-short-name } settings
 sidebar-vertical-tabs =
     .label = Vertical tabs
 sidebar-settings2 =
     .label = Settings
-sidebar-settings =
-    .label = Sidebar settings
 sidebar-hide-tabs-and-sidebar =
     .label = Hide tabs and sidebar
 sidebar-open-tools-from-sidebar =
@@ -95,8 +89,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Manage extension
-sidebar-context-menu-remove-extension =
-    .label = Remove extension
 sidebar-context-menu-report-extension =
     .label = Report extension
 sidebar-context-menu-open-in-tab =

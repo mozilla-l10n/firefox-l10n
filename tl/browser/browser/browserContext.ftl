@@ -14,8 +14,8 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Bumalik nang isang pahina ({ $shortcut })
     .aria-label = Bumalik
+    .tooltiptext = Bumalik nang isang pahina ({ $shortcut })
     .accesskey = B
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -31,8 +31,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Pumunta sa susunod na pahina ({ $shortcut })
     .aria-label = Magpatuloy
+    .tooltiptext = Pumunta sa susunod na pahina ({ $shortcut })
     .accesskey = F
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name }
-    .tooltiptext = { -fxaccount-brand-name }
-
 ## Save Page
 
 main-context-menu-page-save =
@@ -100,14 +94,14 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = m
 main-context-menu-edit-bookmark =
     .aria-label = Baguhin ang Bookmark…
-    .accesskey = m
     .tooltiptext = Baguhin ang bookmark
+    .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
     .aria-label = Baguhin ang Bookmark…
-    .accesskey = m
     .tooltiptext = Baguhin ang bookmark ({ $shortcut })
+    .accesskey = m
 main-context-menu-open-link =
     .label = Buksan ang Link
     .accesskey = O
@@ -129,9 +123,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = I-save ang Link Bilang…
     .accesskey = k
-main-context-menu-save-link-to-pocket =
-    .label = i-Save ang Link sa { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -266,37 +257,19 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = i-Email ang Audio...
     .accesskey = a
-main-context-menu-save-to-pocket =
-    .label = i-Save ang Pahina sa { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Ipadala ang Pahina sa Device
-    .accesskey = D
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Gumamit ng Nai-save na Pag-login
-    .accesskey = G
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Gumamit ng Nai-save na Password
     .accesskey = G
-
-##
-
 main-context-menu-suggest-strong-password =
     .label = Magmungkahi ng Malakas na Password...
     .accesskey = M
-main-context-menu-manage-logins2 =
-    .label = Pamahalaan ang ang Login
-    .accesskey = L
 main-context-menu-manage-passwords =
     .label = Pamahalaan ang Mga Password
     .accesskey = M
-main-context-menu-keyword =
-    .label = Magdagdag ng Keyword para sa Search na ito...
-    .accesskey = K
 main-context-menu-link-send-to-device =
     .label = Ipadala ang Link sa Device
     .accesskey = D
@@ -336,9 +309,6 @@ main-context-menu-view-selection-source =
 main-context-menu-take-screenshot =
     .label = Kumuha ng Screenshot
     .accesskey = K
-main-context-menu-take-frame-screenshot =
-    .label = Kumuha ng Screenshot
-    .accesskey = o
 main-context-menu-view-page-source =
     .label = Tingnan ang Source Code ng Pahina
     .accesskey = T

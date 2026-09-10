@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Laster ned oppdatering — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Laster ned oppdatering — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Laster ned oppdatering — { $transfer }
@@ -30,7 +29,6 @@ settings-update-applying =
     .label = Installerer oppdatering …
 update-failed = Oppdatering mislykket. <label data-l10n-name="failed-link">Last ned den nyeste versjonen</label>
 update-failed-main = Oppdatering mislykket. <a data-l10n-name="failed-link-main">Last ned den nyeste versjonen</a>
-update-adminDisabled = Oppdateringer er avslått av systemansvarlig
 update-policy-disabled = Oppdateringer er deaktivert av organisasjonen din
 settings-update-policy-disabled =
     .label = Oppdateringer er deaktivert av organisasjonen din
@@ -72,8 +70,6 @@ helpus-referrals2 = Vil du hjelpe? <label data-l10n-name="helpus-donateLink">Gi 
 bottomLinks-license = Lisensinfo
 bottom-links-terms = Bruksvilkår
 bottom-links-privacy = Personvernerklæring
-bottomLinks-rights = Rettigheter for sluttbrukere
-bottomLinks-privacy = Personvernpraksis
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

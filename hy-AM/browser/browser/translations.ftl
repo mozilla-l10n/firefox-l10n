@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Թարգմանել այս էջը
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Թարգմանությունն ընթացքի մեջ է
 translations-panel-settings-button =
     .aria-label = Կառավարել թարգմանության կարգավորումները
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } ԲԵՏԱ
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Կառավարել լեզուները
-translations-panel-settings-about = { -brand-shorter-name }-ում թարգմանությունների մասին
 translations-panel-settings-about2 =
     .label = { -brand-shorter-name }-ում թարգմանությունների մասին
 # Text displayed for the option to always translate a given language
@@ -83,14 +74,6 @@ translations-panel-error-dismiss-button =
     .label = Հասկացա
 translations-panel-error-change-button =
     .label = Փոխել աղբյուրի լեզուն
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Ներողություն, մենք դեռ չենք աջակցում { $language }-ը:
-translations-panel-error-unsupported-hint-unknown = Ներողություն, մենք դեռ չենք աջակցում այս լեզուն:
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -122,10 +105,6 @@ translations-manage-header = Թարգմանություններ
 translations-manage-settings-button =
     .label = Կարգավորումներ...
     .accesskey = t
-translations-manage-description = Ներբեռնել լեզուներ անցանց թարգմանության համար:
-translations-manage-all-language = Բոլոր լեզուները
-translations-manage-download-button = Ներբեռնել
-translations-manage-delete-button = Ջնջել
 translations-manage-intro-2 = Սահմանեք Ձեր լեզվի և կայքի թարգմանության նախըտրանքները և կառավարեք անցանց թարգմանության համար ներբեռնված լեզուները:
 translations-manage-download-description = Ներբեռնել լեզուներ անցանց թարգմանության համար
 translations-manage-language-download-button =
@@ -139,12 +118,11 @@ translations-manage-language-remove-all-button =
     .label = Հեռացնել բոլորը
     .accesskey = e
 translations-manage-error-download = Լեզուների ֆայլերը ներբեռնելիս խնդիր առաջացավ: Խնդրում ենք կրկին փորձել.
-translations-manage-error-delete = Լեզուների ֆայլերը ջնջելիս սխալ տեղի ունեցավ: Խնդրում ենք կրկին փորձել.
 translations-manage-error-remove = Լեզուների ֆայլերը հեռացնելիս սխալ տեղի ունեցավ: Խնդրում ենք կրկին փորձել.
 translations-manage-error-list = Չհաջողվեց ստանալ թարգմանության համար հասանելի լեզուների ցանկը: Թարմացրեք էջը՝ կրկին փորձելու համար:
 translations-settings-title =
-    .title = Թարգմանության կարգավորումներ
     .style = min-width: 36em
+    .title = Թարգմանության կարգավորումներ
 translations-settings-close-key =
     .key = w
 translations-settings-always-translate-langs-description = Թարգմանությունը ինքնաբերաբար կկատարվի հետևյալ լեզուների համար
@@ -228,16 +206,6 @@ select-translations-panel-init-failure-message =
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Թարգմանության խնդիր առաջացավ։ Խնդրում ենք կրկին փորձել;
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Ներողություն, մենք դեռ չենք աջակցում { $language }-ը:
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Ներողություն, մենք դեռ չենք աջակցում այս լեզուն:
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Թարգմանության կարգավորումներ

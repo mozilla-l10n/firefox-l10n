@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiledowngrade-window2 =
-    .title = તમે { -brand-product-name } ની જૂની આવૃત્તિ વાપરી રહ્યા છો.
     .style = min-width: 490px;
+    .title = તમે { -brand-product-name } ની જૂની આવૃત્તિ વાપરી રહ્યા છો.
 profiledowngrade-window-create =
     .label = નવી પ્રોફાઇલ બનાવો
 profiledowngrade-quit =

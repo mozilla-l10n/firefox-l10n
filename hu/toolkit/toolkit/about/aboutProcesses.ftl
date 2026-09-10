@@ -49,7 +49,6 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Adatdekóder ({ $pid })
 about-processes-socket-process = Hálózat ({ $pid })
-about-processes-remote-sandbox-broker-process = Távoli homokozóbróker ({ $pid })
 about-processes-fork-server-process = Fork kiszolgáló ({ $pid })
 about-processes-preallocated-process = Előre kiosztott ({ $pid })
 about-processes-utility-process = Segédprogram ({ $pid })
@@ -73,17 +72,6 @@ about-processes-web-isolated-property-with-coop-coep = eredetek közt elszigetel
 ##    $properties (String) A formatted list of properties from the above strings.
 
 about-processes-web-isolated-process2 = { $origin } ({ $properties })
-
-## Isolated process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-
-about-processes-web-isolated-process = { $origin } ({ $pid })
-about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, eredet szerint elkülönítve)
-about-processes-web-isolated-process-private = { $origin } – privát ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } – privát ({ $pid }, eredet szerint elkülönítve)
 
 ## Details within processes
 

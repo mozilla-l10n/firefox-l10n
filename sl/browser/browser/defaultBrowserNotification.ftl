@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = Obdržite { -brand-short-name } na dosegu r
 default-browser-prompt-message-pin-msix = Obdržite { -brand-short-name } na dosegu roke – nastavite ga za privzeti brskalnik in ga pripnite v opravilno vrstico ter v začetni meni.
 default-browser-prompt-message-pin-mac = Obdržite { -brand-short-name } na dosegu roke – nastavite ga za privzeti brskalnik in ga ohranite v Docku.
 default-browser-prompt-button-primary-set = Nastavi kot glavni brskalnik
-default-browser-prompt-button-primary-pin = Nastavi kot glavni brskalnik
 default-browser-prompt-title-alt = Želite nastaviti { -brand-short-name } za privzeti brskalnik?
 default-browser-prompt-message-alt = Izberite hitrost, varnost in zasebnost ob vsakem brskanju.
 default-browser-prompt-button-primary-alt = Nastavi kot privzeti brskalnik

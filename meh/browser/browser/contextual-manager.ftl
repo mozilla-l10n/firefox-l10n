@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contextual-manager-filter-input =
-    .placeholder = Nánuku Contraseñas
-    .key = F
     .aria-label = Nánuku Contraseñas
+    .key = F
+    .placeholder = Nánuku Contraseñas
 
 ## Passwords
 

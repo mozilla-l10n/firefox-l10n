@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Skedë e Re
-newtab-settings-button =
-    .title = Personalizoni faqen tuaj Skedë e Re
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Përshtateni këtë faqe
@@ -15,16 +13,8 @@ newtab-customize-panel-icon-button =
 newtab-customize-panel-icon-button-label = Përshtateni
 newtab-customize-panel-label =
     .label = Përshtateni
-newtab-personalize-settings-icon-label =
-    .aria-label = Rregullime
-    .title = Personalizoni Skedën e Re
 newtab-settings-dialog-label =
     .aria-label = Rregullime
-newtab-personalize-icon-label =
-    .aria-label = Personalizoni skedën e re
-    .title = Personalizoni skedën e re
-newtab-personalize-dialog-label =
-    .aria-label = Personalizojeni
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
 newtab-card-dismiss-button =
@@ -170,7 +160,6 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Shtoni Motor Kërkimesh
 newtab-topsites-add-shortcut-header = Shkurtore e Re
-newtab-topsites-edit-topsites-header = Përpunoni Sajtin Kryesues
 newtab-topsites-edit-shortcut-header = Përpunoni Shkurtore
 newtab-topsites-add-shortcut-label = Shtoni Shkurtore
 newtab-topsites-add-shortcut-title =
@@ -222,20 +211,12 @@ topsite-label-pinned =
 newtab-menu-section-tooltip =
     .aria-label = Hapni menunë
     .title = Hapni menunë
-# Tooltip for dismiss button
-newtab-dismiss-button-tooltip =
-    .aria-label = Hiqe
-    .title = Hiqe
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .aria-label = Hapni menu konteksti për { $title }
     .title = Hapni menunë
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .aria-label = Përpunoni këtë sajt
-    .title = Përpunoni këtë sajt
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -246,11 +227,7 @@ newtab-menu-dismiss = Hidhe tej
 newtab-menu-pin = Fiksoje
 newtab-menu-unpin = Shfiksoje
 newtab-menu-delete-history = Fshije nga Historiku
-newtab-menu-save-to-pocket = Ruaje te { -pocket-brand-name }
-newtab-menu-delete-pocket = Fshije nga { -pocket-brand-name }
-newtab-menu-archive-pocket = Arkivoje në { -pocket-brand-name }
 newtab-menu-show-privacy-info = Sponsorët tanë & privatësia jonë
-newtab-menu-about-fakespot = Mvi { -fakespot-brand-name }
 # Report is a verb (i.e. report issue with the content).
 newtab-menu-report = Raportojeni
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
@@ -258,23 +235,12 @@ newtab-menu-report = Raportojeni
 newtab-menu-section-block = Bllokoje
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Mësoni më tepër
-# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-# e.g. Following the travel section of stories.
-newtab-menu-section-unfollow = Hiqe Ndjekjen e Subjektit
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
 
 newtab-menu-manage-sponsored-content = Administroni lëndë të sponsorizuar
 newtab-menu-our-sponsors-and-your-privacy = Sponsorët tanë dhe privatësia jonë
 newtab-menu-report-this-ad = Njoftoni për këtë reklamë
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
-
-newtab-privacy-modal-button-done = Kaq qe
-newtab-privacy-modal-button-manage = Administroni rregullime lënde të sponsorizuar
-newtab-privacy-modal-header = Privatësia juaj ka rëndësi.
-newtab-privacy-modal-paragraph-2 = Jo vetëm ju shërbejmë histori tërheqëse, por ju shfaqim edhe lëndë me vlerë, të kontrolluar mirë, prej sponsorësh të përzgjedhur. Flijeni mendjen, <strong>të dhënat e shfletimit tuaj nuk ikin kurrë nga kopja juaj personale e { -brand-product-name }-it</strong> — as ne nuk i shohim dot, as sponsorët tanë.
-newtab-privacy-modal-link = Mësoni se si funksionon privatësia në skedën e re
 
 ##
 
@@ -330,31 +296,12 @@ newtab-label-sponsored-fixed = E sponsorizuar
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Hiqe Ndarjen
-newtab-section-menu-collapse-section = Tkurre Ndarjen
-newtab-section-menu-expand-section = Zgjeroje Ndarjen
-newtab-section-menu-manage-section = Administroni Ndarjen
-newtab-section-menu-manage-webext = Administroni Zgjerimin
-newtab-section-menu-add-topsite = Shtoni Sajt Kryesues
-newtab-section-menu-add-search-engine = Shtoni Motor Kërkimesh
-newtab-section-menu-move-up = Ngrije
-newtab-section-menu-move-down = Ule
 newtab-section-menu-privacy-notice = Shënim Privatësie
-
-## Section aria-labels
-
-newtab-section-collapse-section-label =
-    .aria-label = Tkurre Ndarjen
-newtab-section-expand-section-label =
-    .aria-label = Zgjeroje Ndarjen
 
 ## Section Headers.
 
 newtab-section-header-topsites = Sajte Kryesues
 newtab-section-header-recent-activity = Veprimtari së fundi
-# Variables:
-#   $provider (string) - Name of the corresponding content provider.
-newtab-section-header-pocket = Rekomanduar nga { $provider }
 newtab-section-header-stories = Histori që të vënë në mendim
 # "picks" refers to recommended articles
 newtab-section-header-todays-picks = Zgjedhjet e sotme për ju
@@ -362,10 +309,6 @@ newtab-section-header-todays-picks = Zgjedhjet e sotme për ju
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Filloni shfletimin dhe do t'ju shfaqim disa nga artikujt, videot dhe të tjera faqe interesante që keni vizituar apo faqeruajtur këtu kohët e fundit.
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Gjithë ç’kish, e dini. Rikontrolloni më vonë për më tepër histori nga { $provider }. S’pritni dot? Përzgjidhni një temë popullore që të gjenden në internet më tepër histori të goditura.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = Gjithë ç’kishte, e dini. Rikontrolloni më vonë për më tepër histori. S’pritni dot? Përzgjidhni një temë popullore, që të gjenden në internet më tepër histori të goditura.
 
@@ -378,39 +321,6 @@ newtab-discovery-empty-section-topstories-loading = Po ngarkohet…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Hëm! Thuajse e ngarkuam këtë ndarje, por jo dhe aq.
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = Tema Popullore:
-newtab-pocket-new-topics-title = Doni më tepër gjëra? Shihni këto tema popullore prej { -pocket-brand-name }
-newtab-pocket-more-recommendations = Më Tepër Rekomandime
-newtab-pocket-learn-more = Mësoni më tepër
-newtab-pocket-cta-button = Merreni { -pocket-brand-name }-in
-newtab-pocket-cta-text = Ruajini në { -pocket-brand-name } shkrimet që doni dhe ushqejeni mendjen me lexime të mahnitshme.
-newtab-pocket-pocket-firefox-family = { -pocket-brand-name } është pjesë e familjes { -brand-product-name }
-newtab-pocket-save = Ruaje
-newtab-pocket-saved = U ruajt
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-# Clicking the thumbs up button for this story will result in more stories like this one being recommended
-newtab-pocket-thumbs-up-tooltip =
-    .title = Më tepër si kjo
-# Clicking the thumbs down button for this story informs us that the user does not feel like the story is interesting for them
-newtab-pocket-thumbs-down-tooltip =
-    .title = Jo për mua
-# Used to show the user a message upon clicking the thumbs up or down buttons
-newtab-toast-thumbs-up-or-down2 =
-    .message = Faleminderit. Përshtypjet tuaja do të na ndihmojnë të përmirësojmë prurjen për ju.
-newtab-toast-dismiss-button =
-    .aria-label = Hidhe tej
-    .title = Hidhe tej
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-newtab-pocket-onboarding-discover = Zbuloni më të mirat e internetit
-newtab-pocket-onboarding-cta = { -pocket-brand-name } eksploron një gamë të larmishme botimesh për të sjellë lëndën më informative, në frymëzuese dhe më të besueshme drejt e në shfletuesin tuaj { -brand-product-name }.
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -419,8 +329,6 @@ newtab-error-fallback-refresh-link = Rifreskoni faqen që të riprovohet.
 
 ## New Tab Appearance (browser theme picker)
 
-newtab-custom-shortcuts-title = Shkurtore
-newtab-custom-shortcuts-subtitle = Sajte që ruani ose vizitoni
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .description = Sajte që ruani ose vizitoni
@@ -436,16 +344,6 @@ newtab-custom-row-selector2 =
             [one] { $num } rresht
            *[other] { $num } rreshta
         }
-# Variables
-#   $num (number) - Number of rows to display
-newtab-custom-row-selector =
-    { $num ->
-        [one] { $num } rresht
-       *[other] { $num } rreshta
-    }
-newtab-custom-sponsored-sites = Shkurtore të sponsorizuara
-newtab-custom-pocket-title = Rekomanduar nga { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Lëndë e jashtëzakonshme, në kujdesin e { -pocket-brand-name }, pjesë e familjes { -brand-product-name }
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .description = Lëndë e veçantë, nën kujdesin e familjes { -brand-product-name }
@@ -457,10 +355,6 @@ newtab-custom-stories-personalized-toggle =
 newtab-custom-stories-personalized-checkbox =
     .label = Histori të personalizuara, bazuar në veprimtarinë tuaj
 newtab-custom-stories-personalized-checkbox-label = Histori të personalizuara, bazuar në veprimtarinë tuaj
-newtab-custom-pocket-sponsored = Histori të sponsorizuara
-newtab-custom-pocket-show-recent-saves = Shfaq të ruajturat së fundi
-newtab-custom-recent-title = Veprimtari së fundi
-newtab-custom-recent-subtitle = Një përzgjedhje sajtesh dhe lënde së fundi
 newtab-custom-weather-toggle =
     .description = Parashikimi i motit për sot me një vështrim
     .label = Moti
@@ -480,7 +374,6 @@ newtab-widget-manage-widget-button =
 newtab-custom-close-menu-button =
     .aria-label = Mbylleni menunë
     .title = Mbylle
-newtab-custom-close-button = Mbylle
 newtab-custom-settings = Administroni më tepër rregullime
 
 ## New Tab Wallpapers
@@ -498,7 +391,6 @@ newtab-wallpaper-toggle-title =
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Figura tejkalonte kufirin { $file_size }MB e madhësive të kartelave. Ju lutemi, provoni të ngarkoni një kartelë më të vogël.
 newtab-wallpaper-error-upload-file-type = S’e ngarkuam dot kartelën tuaj. Ju lutemi, riprovoni me një kartelë figurë.
-newtab-wallpaper-error-file-type = S’e ngarkuam dot kartelën tuaj. Ju lutemi, riprovoni me një lloj tjetër kartele.
 newtab-wallpaper-light-red-panda = Panda e kuqe
 newtab-wallpaper-light-mountain = Mal i bardhë
 newtab-wallpaper-light-sky = Qiell me re të purpurta dhe të trëndafilta
@@ -599,10 +491,6 @@ newtab-wallpaper-celestial-river = Pamje satelitore e një lumi
 
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-see-forecast =
-    .title = Shihni parashikimin në { $provider }
-# Variables:
-#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ E sponsorizuar
 newtab-weather-menu-change-location = Ndryshoni vendndodhje
 newtab-weather-change-location-search-input-placeholder =
@@ -623,7 +511,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Farenajt
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Kalo në Farenajt
 newtab-weather-menu-change-temperature-units-celsius = Kalo në Celsius
-newtab-weather-menu-hide-weather = Fshihe motin në Skedë të Re
 newtab-weather-menu-learn-more = Mësoni më tepër
 newtab-weather-menu-detect-my-location = Pikas vendndodhjen time
 # This message is shown if user is working offline
@@ -707,7 +594,6 @@ newtab-section-unblock-button = Zhbllokoje
 
 ## Confirmation modal for blocking a section
 
-newtab-section-cancel-button = Jo tani
 newtab-section-confirm-block-topic-p1 = Jeni i sigurt se doni të bllokohet ky subjekt?
 newtab-section-confirm-block-topic-p2 = Subjektet e bllokuar s’do të shfaqen më në prurjen tuaj.
 # Variables:

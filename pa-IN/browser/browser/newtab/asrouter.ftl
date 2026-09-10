@@ -62,7 +62,6 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = ਆਪਣੇ ਬੁੱਕਮਾਰਕ ਹਰ ਥਾਂ ਉੱਤੇ ਸਿੰਕ ਕਰੋ।
-cfr-doorhanger-bookmark-fxa-body = ਵਧੀਆ ਲੱਭੋ! ਹੁਣ ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਇਸ ਬੁੱਕਮਾਰਕ ਬਿਨਾਂ ਨਾ ਰਹੋ। { -fxaccount-brand-name } ਨਾਲ ਸ਼ੁਰੂ ਕਰੋ।
 cfr-doorhanger-bookmark-fxa-body-2 = ਵਧੀਆ ਖੋਜ! ਹੁਣ ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਇਸ ਬੁੱਕਮਾਰਕ ਬਿਨਾਂ ਨਾ ਰਹੋ। ਖਾਤੇ ਨਾਲ ਸ਼ੁਰੂ ਕਰੋ।
 cfr-doorhanger-bookmark-fxa-link-text = …ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਹੁਣੇ ਸਿੰਕ ਕਰੋ
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -75,12 +74,6 @@ fxa-adoption-credit-cards-backup-subtitle = ਆਪਣੇ ਭੁਗਤਾਨ ਦ�
 fxa-adoption-bookmarks-treatment-backup-title = ਆਓ ਤੁਹਾਡੇ ਬੁੱਕਮਾਰਕਾਂ ਦਾ ਬੈਕ ਅੱਪ ਲਈਏ
 fxa-adoption-bookmarks-treatment-backup-subtitle = ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਇੰਕ੍ਰਿਪਸ਼ਨ ਨਾਲ ਆਪਣੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਸਿੰਕ ਕਰਕੇ ਸੁਰੱਖਿਅਤ ਰੱਖੋ।
 fxa-adoption-primary-button-label = ਸਾਈਨ ਅੱਪ ਕਰੋ
-
-## Protections panel
-
-cfr-protections-panel-header = ਬਿਨਾਂ ਪਿੱਛਾ ਕਰਵਾਏ ਬਰਾਊਜ਼ ਕਰੋ
-cfr-protections-panel-body = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਖੁਦ ਕੋਲ ਹੀ ਰੱਖੋ। { -brand-short-name } ਤੁਹਾਨੂੰ ਕਈ ਤੁਹਾਡਾ ਆਨਲਾਈਨ ਪਿੱਛਾ ਕਰਨ ਵਾਲੇ ਸਭ ਤੋਂ ਆਮ ਟਰੈਕਰਾਂ ਤੋਂ ਸੁਰੱਖਿਅਤ ਰੱਖਦਾ ਹੈ।
-cfr-protections-panel-link-text = ਹੋਰ ਜਾਣੋ
 
 ## What's New toolbar button and panel
 
@@ -175,42 +168,8 @@ mr2022-background-update-toast-primary-button-label = ਹੁਣੇ { -brand-shor
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = ਮੈਨੂੰ ਬਾਅਦ ਵਿੱਚ ਚੇਤੇ ਕਰਵਾਓ
 
-## Firefox View CFR
-
-firefoxview-cfr-primarybutton = ਅਜ਼ਮਾਓ
-    .accesskey = T
-firefoxview-cfr-secondarybutton = ਹੁਣੇ ਨਹੀਂ
-    .accesskey = N
-firefoxview-cfr-header-v2 = ਜਿੱਥੇ ਤੁਸੀਂ ਛੱਡਿਆ ਸੀ, ਉਥੋਂ ਫ਼ੌਰਨ ਖੋਲ੍ਹੋ
-firefoxview-cfr-body-v2 = ਹਾਲ ਵਿੱਚ ਖੋਲ੍ਹੀਆਂ ਟੈਬਾਂ ਲਵੋ, { -firefoxview-brand-name } ਨਾਲ ਡਿਵਾਈਸਾਂ ਤੋਂ ਵੀ ਲਵੋ।
-
-## Firefox View Spotlight
-
-firefoxview-spotlight-promo-title = { -firefoxview-brand-name } ਨੂੰ ਮਿਲੋ
-# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = ਆਪਣੇ ਫ਼ੋਨ ਉੱਤੇ ਉਹ ਟੈਬ ਖੋਲ੍ਹਣੀ ਚਾਹੁੰਦੇ ਹੋ? ਇਹ ਲਵੋ। ਬੱਸ ਉਹ ਹੁਣੇ ਖੋਲ੍ਹੀ ਸਾਈਟ ਚਾਹੀਦੀ ਹੈ, { -firefoxview-brand-name } ਨਾਲ ਵਾਪਸ ਲਵੋ।
-firefoxview-spotlight-promo-primarybutton = ਵੇਖੋ ਕਿ ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ
-firefoxview-spotlight-promo-secondarybutton = ਛੱਡੋ
-
-## Colorways expiry reminder CFR
-
-colorways-cfr-primarybutton = ਰੰਗ-ਢੰਗ ਚੁਣੋ
-    .accesskey = C
-# "shades" refers to the different color options available to users in colorways.
-colorways-cfr-body = ਸਭਿਆਚਾਰ ਬਦਲਣ ਵਾਲੀਆਂ ਆਵਾਜ਼ਾਂ ਤੋਂ ਪ੍ਰੇਰਿਤ ਕਰਨ ਵਾਲੇ ਰੰਗਾਂ ਨਾਲ { -brand-short-name } ਰਾਹੀਂ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਭਰੋ।
-colorways-cfr-header-28days = ਆਜ਼ਾਦ ਆਵਾਜ਼ ਰੰਗ=ਢੰਗ ਦੀ ਮਿਆਦ ਜਨਵਰੀ 16 ਨੂੰ ਪੁੱਗੇਗੀ
-colorways-cfr-header-14days = ਆਜ਼ਾਦ ਆਵਾਜ਼ ਰੰਗ=ਢੰਗ ਦੀ ਮਿਆਦ ਦੋ ਹਫ਼਼ਤਿਆਂ ਵਿੱਚ ਪੁੱਗੇਗੀ
-colorways-cfr-header-7days = ਆਜ਼ਾਦ ਆਵਾਜ਼ ਰੰਗ=ਢੰਗ ਦੀ ਮਿਆਦ ਇੱਕ ਹਫ਼਼ਤੇ ਵਿੱਚ ਪੁੱਗੇਗੀ
-colorways-cfr-header-today = ਆਜ਼ਾਦ ਆਵਾਜ਼ ਰੰਗ=ਢੰਗ ਦੀ ਮਿਆਦ ਅੱਜ ਪੁੱਗੇਗੀ
-
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = { -brand-short-name } ਨੂੰ ਕੂਕੀਜ਼ ਬੈਨਰ ਖ਼ਾਰਜ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣੀ ਹੈ?
-cfr-cbh-body = { -brand-short-name } ਆਪਣੇ-ਆਪ ਹੀ ਕਈ ਕੂਕੀਜ਼ ਬੈਨਰ ਬੇਨਤੀਆਂ ਨੂੰ ਰੱਦ ਕਰ ਸਕਦਾ ਹੈ।
-cfr-cbh-confirm-button = ਕੂਕੀਜ਼ ਬੈਨਰ ਖ਼ਾਰਜ ਕਰੋ
-    .accesskey = R
-cfr-cbh-dismiss-button = ਹੁਣੇ ਨਹੀਂ
-    .accesskey = N
 cookie-banner-blocker-onboarding-header = { -brand-short-name } ਨੇ ਹੁਣੇ ਹੀ ਤੁਹਾਡੇ ਲਈ ਕੂਕੀ ਬੈਨਰ ਉੱਤੇ ਰੋਕ ਲਾਈ
 cookie-banner-blocker-onboarding-body = ਇਸ ਸਾਈਟ ਲਈ ਤੁਹਾਡੇ ਲਈ ਘੱਟ ਧਿਆਨ ਭਟਕਣਾ, ਘੱਟ ਕੂਕੀਜ਼ ਟਰੈਕਿੰਗ ਹੈ।
 cookie-banner-blocker-onboarding-learn-more = ਹੋਰ ਜਾਣੋ

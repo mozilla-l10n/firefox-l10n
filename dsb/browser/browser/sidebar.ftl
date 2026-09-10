@@ -42,7 +42,6 @@ sidebar-history-clear =
     .label = Historiju wulašowaś
 sidebar-history-sort-by-heading-menucaption =
     .label = Sortěrowaś pó:
-sidebar-history-sort-by-heading = Sortěrowaś pó:
 sidebar-history-sort-option-date =
     .label = Datum
 sidebar-history-sort-option-site =
@@ -62,16 +61,11 @@ sidebar-search-results-header =
 
 ## Labels for sidebar customize panel
 
-sidebar-customize-extensions-header = Rozšyrjenja bocnice
-sidebar-customize-firefox-tools-header =
-    .label = Rědy { -brand-product-name }
 sidebar-customize-firefox-settings = Nastajenja { -brand-short-name } zastojaś
 sidebar-vertical-tabs =
     .label = Wertikalne rejtariki
 sidebar-settings2 =
     .label = Nastajenja
-sidebar-settings =
-    .label = Nastajenja bocnice
 sidebar-hide-tabs-and-sidebar =
     .label = Rejtariki a bocnicu schowaś
 sidebar-open-tools-from-sidebar =
@@ -97,8 +91,6 @@ sidebar-customize-firefox-tools-header2 =
 
 sidebar-context-menu-manage-extension =
     .label = Rozšyrjenje zastojaś
-sidebar-context-menu-remove-extension =
-    .label = Rozšyrjenje wótwónoźeś
 sidebar-context-menu-report-extension =
     .label = Rozšyrjenje k wěsći daś
 sidebar-context-menu-open-in-tab =

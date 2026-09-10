@@ -26,22 +26,10 @@ xpinstall-prompt-never-allow =
 xpinstall-prompt-install =
     .label = Guij ne' ñāan ngà sa a'nïnt
     .accesskey = C
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
-
-##
-
-xpinstall-disabled-locked = Duyichin' administrador 'ngò software gani ruhuât dugutujt riña aga' na.
 xpinstall-disabled = Giyichin' software a'nít riña aga' na. Ga'ui' klik da' nayi'ì ñunj.
 xpinstall-disabled-button =
     .label = Dugi'iaj sun' man
     .accesskey = n
-# This message is shown when the installation of an add-on is blocked by enterprise policy.
-# Variables:
-#   $addonName (String): the name of the add-on.
-#   $addonId (String): the ID of add-on.
-addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ganarán sa nikāj ñu'ūnj sistêma riñaj.
 addon-install-full-screen-blocked = Nu a’nïn ga’nïnjt sa nata’a ngà nut riña nahuin gachrà’ riña aga’a.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -52,9 +40,6 @@ webext-perms-update-menu-item = { $addonName } gachinj ni'iaj nakà ñut
 
 ## Add-on removal warning
 
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = Dusiki' { $name } asij { -brand-shorter-name }?
 addon-removal-button = Guxūn
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
@@ -100,4 +85,3 @@ addon-local-install-error-not-signed = Sa nutà' ruhuât na ni nu ga'ue nàtaj '
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } nu ga'ue gatu dadin' nitaj si nikaj dugui'ij 'ngà { -brand-short-name } { $appVersion }.
-addon-install-error-blocklisted = { $addonName } Nu ga'ue gatu dadin' ga'ue ga'uì' yì'ij riñant ngà riña aga' na.

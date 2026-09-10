@@ -24,13 +24,11 @@ policy-DisableAppUpdate = No fâ agiornâ o navegatô.
 policy-DisableBuiltinPDFViewer = Diabilita PDF.js, o letô PDF incòrporou in { -brand-short-name }.
 policy-DisableDeveloperTools = Blòcca l'acesso a-i atressi do svilupatô.
 policy-DisableFeedbackCommands = Dizabilita i comandi pe mandâ i comenti da-o menû agiutto (Manda comento e segnala scito scito mascarson)
-policy-DisableFirefoxAccounts = Dizabilita i serviççi bazæ in sce { -fxaccount-brand-name }, incluzo Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Dizabilita a fonçion de Föto do schermo de Firefox.
 policy-DisableFirefoxStudies = No fa fâ di studdi a { -brand-short-name }.
 policy-DisableForgetButton = No fâ acede a-o pomello Ascòrda.
 policy-DisableFormHistory = No aregordâ e riçerche e a stöia di mòdoli
-policy-DisablePocket2 = Dizabilita a fonçion sarva pagina in { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Dizabilita a Navegaçion Privâ
 policy-DisableProfileImport = Dizabilit o menû pe inportâ dæti da 'n atro navegatô.
 policy-DisableProfileRefresh = Dizabilita o pomello Carega torna de { -brand-short-name } inta pagina about_support.
@@ -58,7 +56,6 @@ policy-InstallAddonsPermission = Permetti a çerti sciti de instalâ conponenti 
 ##
 
 policy-NetworkPrediction = Abilita o dizabilita a prediçion da ræ (preletûa DNS).
-policy-PopupBlocking = Permetti a çerti sciti de mostrâ di popup comme òpçion predefinia.
 policy-Proxy = Configuraçion inpostaçioin do proxy.
 policy-SearchBar = Inpòsta donde mette a bara de riçerche. In ògni mòddo l'utente o peu personalizâ.
 policy-SearchEngines = Configuraçion inpostaçioin do motô de riçerca. Sta òpçion a gh'é solo inta verscion Extended Support Release (ESR).

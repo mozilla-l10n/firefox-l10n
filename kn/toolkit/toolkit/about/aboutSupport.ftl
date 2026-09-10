@@ -12,10 +12,6 @@ crashes-no-config = ಈ ಅನ್ವಯವನ್ನು ಕ್ರಿಯಾವೈ�
 support-addons-name = ಹೆಸರು
 support-addons-version = ಆವೃತ್ತಿ
 support-addons-id = ID
-features-title = { -brand-short-name } ವೈಶಿಷ್ಟ್ಯತೆಗಳು
-features-name = ಹೆಸರು
-features-version = ಆವೃತ್ತಿ
-features-id = ID
 app-basics-title = ಅನ್ವಯದ ಮೂಲತತ್ವಗಳು
 app-basics-name = ಹೆಸರು
 app-basics-version = ಆವೃತ್ತಿ
@@ -28,7 +24,6 @@ app-basics-profile-dir =
         [linux] ಪ್ರೊಫೈಲ್ ಕೋಶ
        *[other] ಪ್ರೊಫೈಲ್ ಕಡತಕೋಶ
     }
-app-basics-enabled-plugins = ಪ್ಲಗ್‌ಇನ್‌ಗಳನ್ನು ಶಕ್ತಗೊಳಿಸು
 app-basics-build-config = ನಿರ್ಮಾಣದ ಸಂರಚನೆ
 app-basics-user-agent = ಬಳಕೆದಾರ ಮಧ್ಯವರ್ತಿ
 app-basics-os = OS

@@ -14,15 +14,3 @@ extension-firefox-compact-dark-name = Aberkan
 extension-firefox-compact-dark-description = Asentel akussim s uzenziɣ aberkan.
 extension-firefox-alpenglow-name = Firefox Alpenglow
 extension-firefox-alpenglow-description = Seqdec arwes s yiniten i tqeffalin, i wumuɣen d yisfuyla.
-
-## Colorway Themes
-## These themes are variants of a colorway. The colorway is specified in the
-## $colorway-name variable.
-## Variables
-##   $colorway-name (String) The name of a colorway (e.g. Graffiti, Elemental).
-
-extension-colorways-soft-name = { $colorway-name } — Ḥnin
-extension-colorways-balanced-name = { $colorway-name } — Iqεed
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-extension-colorways-bold-name = { $colorway-name } — Zur

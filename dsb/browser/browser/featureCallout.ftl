@@ -15,12 +15,6 @@ callout-firefox-view-tab-pickup-title = Ze synchronizěrowanymi rejtarikami mjaz
 callout-firefox-view-tab-pickup-subtitle = Wobstarajśo se wócynjone rejtariki ze swójogo telefona a wócyńśo je how za maksimalny źěłowy běg.
 callout-firefox-view-recently-closed-title = Wobstarajśo se zasej zacynjone rejtariki we zaskoku
 callout-firefox-view-recently-closed-subtitle = Wšykne waše zacynjone rejtariki se how ako wót njewidobneje ruki pokazuju. Njestarajśo se, až sedło hyšći raz zmólnje zacynjaśo.
-callout-firefox-view-colorways-title = Pśidajśo chrapku barwy
-# "Shade" refer to different color options in each colorway.
-callout-firefox-view-colorways-subtitle = Wubjeŕśo barwowy ton, kótaryž se wam z barwowymi kombinacijami spódoba. Jano w { -brand-product-name }.
-callout-firefox-view-colorways-reminder-title = Wuslěźćo naše nejnowše barwowe kombinacije
-# “Shades” refers to the different color options in each colorways
-callout-firefox-view-colorways-reminder-subtitle = Zabarwśo swój wobglědowak z toś tymi symbolowymi barwowymi tonami, inspirěrowany pśez njewótwisne głose. Jano w { -brand-product-name }.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 

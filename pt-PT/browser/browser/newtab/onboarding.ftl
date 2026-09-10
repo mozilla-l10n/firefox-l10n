@@ -190,11 +190,6 @@ mr2022-onboarding-pin-primary-button-label =
     }
 # Primary button string used on welcome page for when Firefox is not pinned on MSIX
 mr2022-onboarding-pin-primary-button-label-msix = Fixar o { -brand-short-name } à barra de tarefas e ao menu iniciar
-# Subtitle will be used when user already has Firefox pinned, but
-# has not set it as their default browser.
-# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
-# and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Comece com um navegador apoiado por uma organização sem fins lucrativos. Nós defendemos a sua privacidade enquanto navega pela Web.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -224,52 +219,10 @@ mr2022-onboarding-set-default-subtitle = Utilize um navegador apoiado por uma or
 # and makes sense in the context of navigating the web.
 mr2022-onboarding-get-started-primary-subtitle = A nossa versão mais recente foi desenvolvida para si, tornando mais fácil do que nunca a navegação na Web. Ela está repleta de funcionalidades que achamos que vai adorar.
 mr2022-onboarding-get-started-primary-button-label = Configurar em segundos
-mr2022-onboarding-import-header = Configuração ultra-rápida
-mr2022-onboarding-import-subtitle = Configure o { -brand-short-name } como preferir. Adicione os seus marcadores, palavras-passe e muito mais, do seu navegador antigo.
 mr2022-onboarding-import-primary-button-label-no-attribution = Importar do navegador anterior
-
-## If your language uses grammatical genders, in the description for the
-## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
-## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
-## help creating a more inclusive translation.
-
-mr2022-onboarding-colorway-title = Escolha a cor que o(a) inspira
-mr2022-onboarding-colorway-subtitle = Vozes independentes podem mudar a cultura.
-mr2022-onboarding-colorway-primary-button-label-continue = Definir e continuar
-mr2022-onboarding-existing-colorway-checkbox-label = Faça do { -firefox-home-brand-name } a sua página inicial colorida
-mr2022-onboarding-colorway-label-default = Predefinido
-mr2022-onboarding-colorway-tooltip-default2 =
-    .title = Cores atuais do { -brand-short-name }
-mr2022-onboarding-colorway-description-default = <b>Utilizar as minhas cores atuais do { -brand-short-name }.</b>
-mr2022-onboarding-colorway-label-playmaker = Impulsionador(a)
-mr2022-onboarding-colorway-tooltip-playmaker2 =
-    .title = Jogador (red)
-mr2022-onboarding-colorway-description-playmaker = <b>É um(a) impulsionador(a).</b> Você cria oportunidades para vencer e ajudar a todos à sua volta a melhorar as suas capacidades.
-mr2022-onboarding-colorway-label-expressionist = Expressionista
-mr2022-onboarding-colorway-tooltip-expressionist2 =
-    .title = Expressionista (amarelo)
-mr2022-onboarding-colorway-description-expressionist = <b>É um(a) expressionista.</b> Você vê o mundo de maneira diferente e as suas criações despertam as emoções dos outros.
-mr2022-onboarding-colorway-label-visionary = Visionário(a)
-mr2022-onboarding-colorway-tooltip-visionary2 =
-    .title = Visionário(a) (verde)
-mr2022-onboarding-colorway-description-visionary = <b>É um visionário(a).</b> Você questiona o status-quo e leva os outros a imaginar um futuro melhor.
-mr2022-onboarding-colorway-label-activist = Ativista
-mr2022-onboarding-colorway-tooltip-activist2 =
-    .title = Ativista (azul)
-mr2022-onboarding-colorway-description-activist = <b>É um ativista.</b> Você deixa o mundo um lugar melhor do que aquele que encontrou e leva os outros a acreditar.
-mr2022-onboarding-colorway-label-dreamer = Sonhador(a)
-mr2022-onboarding-colorway-tooltip-dreamer2 =
-    .title = Sonhador(a) (roxo)
-mr2022-onboarding-colorway-description-dreamer = <b>Você é um(a) sonhador(a).</b> Você acredita que a sorte favorece os ousados e inspira os outros a serem corajosos.
-mr2022-onboarding-colorway-label-innovator = Inovador(a)
-mr2022-onboarding-colorway-tooltip-innovator2 =
-    .title = Inovador(a) (laranja)
-mr2022-onboarding-colorway-description-innovator = <b>Você é um(a) inovador(a).</b> Você vê oportunidades em todo o lado e causa impacto na vida de todos à sua volta.
 
 ## MR2022 Multistage Mobile Download screen strings
 
-mr2022-onboarding-mobile-download-title = Mude do portátil para o telemóvel e vice-versa
-mr2022-onboarding-mobile-download-subtitle = Obtenha os separadores de um dispositivo e continue de onde parou noutro. Além disto, sincronize os seus marcadores e palavras-passe em qualquer sítio onde utilize o { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Digitalize o código QR para obter o { -brand-product-name } para telemóvel ou <a data-l10n-name="download-label">envie uma ligação de transferência para você mesmo.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Digitalize o código QR para obter o { -brand-product-name } para telemóveis.
 
@@ -322,15 +275,12 @@ mr2022-onboarding-privacy-segmentation-image-alt =
     .aria-label = Uma mão de pele clara e outra de pele escura cumprimentam-se
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Vista de um pôr do sol através de uma janela com uma raposa e uma planta doméstica no peitoril da janela
-mr2022-onboarding-colorways-image-alt =
-    .aria-label = Um spray manual pinta uma montagem colorida de um olho verde, sapato laranja, bola de basquetebol vermelha, auscultadores roxos, coração azul e coroa amarela
 
 ## Device migration onboarding
 
 onboarding-device-migration-image-alt =
     .aria-label = Uma raposa a acenar no ecrã de um portátil. O portátil tem um rato ligado.
 onboarding-device-migration-title = Olá novamente!
-onboarding-device-migration-subtitle = Entre na { -fxaccount-brand-name(capitalization: "sentence") } para levar os seus marcadores, palavras-passe e histórico consigo no seu novo dispositivo.
 onboarding-device-migration-subtitle2 = Inicie a sessão na sua conta para trazer os seus marcadores, palavras-passe e o histórico consigo no seu novo dispositivo.
 onboarding-device-migration-primary-button-label = Entrar
 
@@ -447,15 +397,12 @@ tab-groups-onboarding-feature-callout-title = Grupos de separadores: menos confu
 tab-groups-onboarding-feature-callout-subtitle = Organize-se arrastando um separador sobre o outro para criar o seu primeiro grupo.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Encontre os seus grupos de separadores no menu Listar todos os separadores, sempre que quiser.
-tab-groups-onboarding-create-group-title-2 = Encontre os seus grupos de separadores a qualquer momento aqui.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Encontre os seus grupos ao procurar pelos mesmos na barra de endereço.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Quando fechar um grupo de separadores, reabra o mesmo a partir do menu Listar todos os separadores, sempre que quiser.
-tab-groups-onboarding-saved-groups-title-2 = Quando fecha um grupo de separadores, pode reabri-lo aqui a qualquer momento.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Encontre os seus grupos fechados ao procurar pelos mesmos na barra de endereço.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Volte a abrir os seus grupos de separadores a partir do menu Listar Todos os Separadores, sempre que quiser.
-tab-groups-onboarding-session-restore-title = Reabra os seus grupos de separadores a qualquer momento aqui.
 tab-groups-onboarding-dismiss = Ok
 
 ## Multi Profiles feature onboarding messages

@@ -19,12 +19,3 @@ addon-category-dictionary-title =
 addon-category-locale = Sproochen
 addon-category-locale-title =
     .title = Sproochen
-
-## Detail notifications
-## Variables:
-##   $name (string) - Name of the add-on.
-
-details-notification-unsigned-and-disabled-link = Méi Informatiounen
-details-notification-unsigned-link = Méi Informatiounen
-details-notification-blocked-link = Méi Informatiounen
-details-notification-softblocked-link = Méi Informatiounen

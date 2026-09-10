@@ -85,8 +85,6 @@ downloads-cmd-show-description-2 =
             [macos] نشووݩ داڌن من Finder
            *[other] نشووݩ داڌن من دوبلگه
         }
-downloads-cmd-show-downloads =
-    .label = نشووݩ داڌن دوبلگه دانلودا
 downloads-cmd-retry =
     .tooltiptext = قپ ریت دووارته
 downloads-cmd-retry-panel =

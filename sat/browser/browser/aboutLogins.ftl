@@ -3,16 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = ᱵᱚᱞᱚᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
-about-logins-login-filter =
-    .placeholder = ᱞᱚᱜᱤᱱ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
-    .key = F
-create-new-login-button =
-    .title = ᱱᱟᱶᱟ ᱞᱚᱜᱤᱱ ᱛᱮᱭᱟᱨ ᱢᱮ
 about-logins-page-title-name = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
 about-logins-login-filter2 =
-    .placeholder = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
     .key = F
+    .placeholder = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 create-login-button =
     .title = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱮᱞᱮᱫ ᱢᱮ
 fxaccounts-sign-in-text = ᱵᱷᱮᱜᱟᱨ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱧᱟᱢ ᱛᱟᱢ
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = ᱮᱴᱟᱜᱟᱜ ᱵᱽᱨᱟᱣᱩᱡᱚᱨ ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ …
 about-logins-menu-menuitem-import-from-a-file = ᱨᱮᱫ ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ…
-about-logins-menu-menuitem-export-logins = ᱵᱚᱞᱚ ᱠᱚ ᱵᱷᱮᱡᱟᱭ ᱢᱮ…
-about-logins-menu-menuitem-remove-all-logins = ᱡᱷᱚᱛᱚ ᱵᱚᱞᱚ ᱠᱚ ᱚᱪᱚᱜᱽ ᱢᱮ…
 about-logins-menu-menuitem-export-logins2 = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱷᱮᱡᱟᱭ ᱢᱮ…
 about-logins-menu-menuitem-remove-all-logins2 = ᱡᱷᱚᱛᱚ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ ᱚᱪᱚᱜᱽ ᱢᱮ…
 menu-menuitem-preferences =
@@ -42,23 +34,6 @@ about-logins-menu-menuitem-help = ᱜᱚᱲᱚ
 
 login-list =
     .aria-label = ᱥᱮᱸᱫᱽᱨᱟ ᱚᱞ ᱠᱚ ᱥᱟᱞᱟᱜ ᱢᱮᱲᱟᱣᱜ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ
-# Variables
-#   $count (number) - Number of logins
-login-list-count =
-    { $count ->
-        [one] { $count } ᱵᱚᱞᱚ
-        [two] { $count } ᱵᱚᱞᱚ ᱠᱤᱱ
-       *[other] { $count } ᱵᱚᱞᱚ ᱠᱩᱜ
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $total } ᱠᱷᱚᱱ { $count } ᱵᱚᱞᱚ
-        [two] { $total } ᱠᱷᱚᱱ { $count } ᱵᱚᱞᱚ ᱠᱤᱱ
-       *[other] { $total } ᱠᱷᱚᱱ { $count } ᱵᱚᱞᱚ ᱠᱚ
-    }
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 =
@@ -84,14 +59,10 @@ login-list-username-reverse-option = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ (ᱷ-ᱚ)
 about-logins-login-list-alerts-option = ᱦᱚᱥᱤᱭᱟᱹᱨ
 login-list-last-changed-option = ᱢᱩᱪᱟᱹᱫ ᱨᱮ ᱵᱚᱫᱚᱞ ᱞᱮᱱ
 login-list-last-used-option = ᱢᱟᱲᱟᱝ ᱵᱮᱵᱷᱟᱨᱟᱜ
-login-list-intro-title = ᱵᱚᱞᱚ ᱠᱚ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱱᱟ
 login-list-intro-title2 = ᱪᱮᱫ ᱦᱚᱸ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱟᱭ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱᱟ
 login-list-intro-description = ᱡᱚᱠᱷᱚᱱ ᱟᱢ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱟᱺᱪᱟᱣ ᱟᱢ { -brand-product-name } ᱨᱮ, ᱚᱱᱟ ᱫᱚ ᱱᱚᱰᱮ ᱩᱫᱩᱜᱼᱚᱜ ᱟ᱾
-about-logins-login-list-empty-search-title = ᱵᱚᱞᱚ ᱠᱚ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱱᱟ
 about-logins-login-list-empty-search-title2 = ᱪᱮᱫ ᱦᱚᱸ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱱᱟ
 about-logins-login-list-empty-search-description = ᱟᱢᱟᱜ ᱥᱮᱸᱫᱽᱨᱟ ᱥᱟᱞᱟᱜ ᱢᱮᱲᱟᱣᱜ ᱠᱟᱱ ᱛᱮᱞᱟ ᱵᱟᱭ ᱧᱟᱢ ᱞᱟᱱᱟ ᱾
-login-list-item-title-new-login = ᱱᱟᱶᱟ ᱵᱚᱞᱚ
-login-list-item-subtitle-new-login = ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱨᱮᱰᱮᱱᱥᱤᱟᱞᱥ ᱟᱫᱮᱨ ᱛᱟᱢ
 login-list-item-title-new-login2 = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱮᱞᱮᱫ ᱢᱮ
 login-list-item-subtitle-missing-username = (ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱧᱩᱛᱩᱢ ᱵᱟᱹᱱᱩᱜᱼᱟ)
 about-logins-list-item-breach-icon =
@@ -107,28 +78,20 @@ about-logins-list-section-week = 7 ᱫᱤᱱ ᱢᱟᱲᱟᱝ
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = ᱥᱟᱺᱪᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱯᱟᱱᱛᱮ ᱟᱢ? ᱟᱹᱜᱩᱭ ᱞᱟᱹᱜᱤᱫ ᱥᱭᱝᱠ ᱮᱢ ᱦᱚᱪᱚᱭ ᱢᱮ ᱾
-about-logins-login-intro-heading-logged-in = ᱥᱭᱝᱠ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱱᱟ ᱾
-login-intro-description = ᱟᱢ ᱡᱩᱫᱤ ᱵᱷᱮᱜᱟᱨ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ { -brand-product-name } ᱨᱮ ᱥᱟᱺᱪᱟᱣ ᱟᱠᱟᱫᱟᱢ ᱢᱮᱱᱠᱷᱟᱱ, ᱱᱚᱰᱮ ᱧᱮᱞ ᱢᱮ ᱪᱮᱞᱠᱟ ᱠᱚ ᱟᱹᱜᱩ ᱦᱚᱭᱟ:
-login-intro-instructions-fxa = ᱡᱟᱦᱟᱸ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱᱟ { -fxaccount-brand-name }  ᱨᱮ ᱛᱮᱭᱟᱨ ᱟᱨ ᱵᱟᱝ ᱥᱩᱦᱤ ᱮᱢ ᱠᱟᱜ ᱢᱮ ᱾
 about-logins-login-intro-heading-message = ᱢᱤᱫᱴᱟᱹᱝ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱡᱟᱭᱜᱟ ᱨᱮ ᱟᱢᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
 login-intro-description2 = ᱡᱟᱦᱟᱸ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱟᱢ { -brand-product-name } ᱨᱮᱢ ᱥᱟᱧᱪᱟᱣ ᱟ ᱚᱱᱟ ᱫᱚ ᱫᱟᱱᱟᱝ ᱨᱮ ᱛᱟᱦᱮᱸᱱᱟ ᱾ ᱥᱟᱶᱛᱮ, ᱡᱩᱫᱤ ᱟᱢ ᱯᱨᱚᱵᱷᱟᱵᱤᱛᱚᱜ ᱠᱷᱟᱱ ᱟᱞᱮ ᱵᱟᱲᱟᱭ ᱪᱷᱚ ᱢᱮᱭᱟ ᱞᱮ ᱾<a data-l10n-name="breach-alert-link">ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
 login-intro-instructions-fxa2 = ᱡᱟᱦᱟᱸ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ ᱥᱟᱸᱪᱟᱣ ᱠᱟᱱᱟ ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱨᱮ ᱛᱮᱭᱟᱨ ᱟᱨ ᱵᱟᱝ ᱥᱩᱦᱤ ᱮᱢ ᱠᱟᱜ ᱢᱮ
 login-intro-instructions-fxa-settings = ᱥᱟᱡᱟᱣ ᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱢᱮ > ᱥᱭᱝᱠ >ᱥᱭᱝᱠᱤᱝ ᱮᱢ ᱦᱚᱪᱚᱭ ᱢᱮ … ᱵᱚᱞᱚ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱪᱤᱱᱦᱟᱹᱯ ᱵᱟᱠᱚᱥ ᱵᱟᱪᱷᱟᱣ ᱡᱮ ᱾
 login-intro-instructions-fxa-passwords-help = ᱟᱨᱦᱚᱸ ᱜᱚᱲᱚ ᱧᱚᱢ ᱞᱟᱹᱜᱤᱫᱽ </a> <a data-l10n-name="passwords-help-link"> ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱜᱚᱲᱚ ᱪᱟᱞᱟᱜ ᱢᱮ ᱾
-about-logins-intro-browser-only-import = ᱡᱩᱫᱤ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ ᱵᱷᱮᱜᱟᱨ ᱵᱷᱨᱟᱣᱡᱚᱨ ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱᱟ, ᱟᱢ ᱫᱚ <a data-l10n-name="import-link">ᱠᱷᱚᱱ { -brand-product-name } ᱨᱮ ᱟᱹᱜᱩ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ</a>
-about-logins-intro-import2 = ᱡᱩᱫᱤ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ { -brand-product-name } ᱵᱟᱦᱨᱮ ᱨᱮ ᱥᱟ:ᱪᱟᱣ ᱠᱟᱱᱟ ᱾ ᱢᱮᱱᱠᱷᱟᱱ ᱟᱢ <a data-l10n-name="import-browser-link"> ᱮᱴᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ </a> ᱟᱨᱵᱟᱝᱠᱷᱟᱱ <a data-l10n-name="import-file-link"> ᱨᱮᱫ ᱠᱷᱚᱱ </a> ᱟᱹᱜᱩ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
 about-logins-intro-import3 = ᱱᱤᱛᱚᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱥᱮᱞᱮᱫ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱛᱟᱱ ᱨᱮ ᱢᱮᱱᱟᱜ ᱡᱚᱜᱽ ᱪᱤᱱᱦᱟᱹ ᱨᱮ ᱚᱛᱟᱭ ᱢᱮ ᱾ ᱟᱢ ᱫᱚ ᱮᱴᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱷᱚᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ <a data-l10n-name="import-browser-link">ᱟᱹᱜᱩ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ</a> ᱥᱮ <a data-l10n-name="import-file-link">ᱨᱮᱫᱽ ᱠᱷᱚᱱ ᱦᱚᱸ ᱟᱹᱜᱩ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ</a> ᱾
 
 ## Login
 
-login-item-new-login-title = ᱱᱟᱶᱟ ᱞᱚᱜᱤᱱ ᱛᱮᱭᱟᱨ ᱢᱮ
 # Header for adding a password
 about-logins-login-item-new-login-title = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱮᱞᱮᱫ ᱢᱮ
 login-item-edit-button = ᱥᱟᱯᱲᱟᱣ
 about-logins-login-item-remove-button = ᱚᱪᱚᱜᱽ
 login-item-origin-label = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱴᱷᱤᱠᱬᱟᱹ
-login-item-tooltip-message = ᱱᱤᱦᱟᱹᱛᱤ ᱜᱮ ᱱᱚᱶᱟ ᱢᱤᱞᱟᱹᱣ ᱢᱮ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱨᱮᱱᱟᱜ ᱮᱜᱽᱡᱮᱠᱴ ᱮᱰᱨᱮᱥ ᱡᱟᱦᱟᱸ ᱨᱮ ᱟᱢ ᱵᱚᱞᱚᱱ ᱟᱢ ᱾
 about-logins-origin-tooltip2 = ᱯᱩᱨᱟᱹ ᱴᱷᱤᱠᱬᱟᱹ ᱟᱫᱮᱨ ᱢᱮ ᱟᱨ ᱢᱚᱱᱮ ᱠᱟᱛᱮ ᱥᱩᱦᱤ ᱮᱢ ᱡᱷᱚᱜ ᱥᱚᱢᱟᱱ ᱜᱮ ᱛᱟᱦᱸᱱ ᱢᱟᱸ ᱾
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -148,7 +111,6 @@ login-item-password-conceal-checkbox =
     .aria-label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱩᱠᱩ
 login-item-copy-password-button-text = ᱱᱚᱠᱚᱞ
 login-item-copied-password-button-text = ᱱᱚᱠᱚᱞᱮᱱᱟ!
-login-item-save-changes-button = ᱵᱚᱫᱚᱞ ᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
 about-logins-login-item-save-changes-button = ᱥᱟᱧᱪᱟᱣ ᱢᱮ
 login-item-save-new-button = ᱥᱟᱪᱺᱟᱣ ᱢᱮ
 login-item-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
@@ -172,11 +134,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = ᱟᱢᱟᱜ ᱵᱚᱞᱚᱱ ᱦᱚᱨ ᱯᱷᱮᱰᱟᱛ ᱢᱮ, ᱟᱢᱟᱜ ᱠᱨᱮᱰᱮᱱᱥᱤᱭᱟᱞ ᱣᱤᱱᱰᱳᱣ ᱟᱫᱮᱨ ᱢᱮ ᱾ ᱱᱚᱶᱟ ᱠᱷᱚᱱ ᱫᱚ ᱟᱢᱟᱜ ᱵᱮᱵᱷᱟᱨᱤᱭᱟ ᱠᱚ ᱥᱟᱧᱪᱟᱣ ᱨᱮ ᱜᱚᱲᱚᱜᱼᱟ ᱾
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -200,11 +157,6 @@ about-logins-copy-password-os-auth-dialog-message-win = ᱟᱢᱟᱜ ᱫᱟᱵ�
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ ᱱᱚᱠᱚᱞ ᱢᱮ
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = ᱟᱢᱟᱜ ᱮᱠᱥᱯᱳᱨᱴ ᱵᱚᱞᱚᱱ ᱞᱟᱹᱜᱤᱫ, ᱟᱢᱟᱜ ᱣᱤᱱᱰᱳᱣ ᱵᱚᱞᱚᱱ ᱠᱨᱮᱰᱮᱱᱥᱤᱭᱟᱞ ᱟᱫᱮᱨ ᱢᱮ ᱾ ᱱᱚᱶᱟ ᱵᱮᱵᱷᱟᱨᱤᱭᱟ ᱨᱮᱱᱟᱜ ᱥᱤᱠᱭᱩᱨᱤᱴᱤ ᱥᱟᱧᱪᱟᱣ ᱜᱚᱲᱚᱜᱼᱟ ᱾
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱞᱚᱜᱤᱱ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = ᱟᱢᱟᱜ ᱫᱟᱵᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱷᱮᱡᱟ ᱞᱟᱹᱜᱤᱫ, ᱟᱢᱟᱜ ᱣᱤᱱᱰᱳᱣ ᱵᱚᱞᱚᱱ ᱠᱨᱮᱰᱮᱱᱥᱤᱭᱟᱞ ᱟᱫᱮᱨ ᱢᱮ ᱾ ᱱᱚᱶᱟ ᱨᱮ ᱟᱢᱟᱜ ᱵᱮᱵᱷᱟᱨᱤᱭᱟ ᱨᱮᱱᱟᱜ ᱥᱤᱠᱭᱩᱨᱤᱴᱤ ᱥᱟᱧᱪᱟᱣ ᱨᱮ ᱜᱚᱲᱚᱜᱼᱟ ᱾
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -222,8 +174,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
 confirmation-dialog-dismiss-button =
     .title = ᱵᱟᱹᱰᱨᱟᱹ
-about-logins-confirm-remove-dialog-title = ᱱᱚᱶᱟ ᱞᱚᱜᱤᱱ ᱚᱪᱚᱜᱽ ᱢᱮ?
-confirm-delete-dialog-message = ᱱᱚᱶᱟ ᱠᱟᱹᱢᱤ ᱥᱟᱹᱛ ᱵᱟᱝ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱚᱪᱚᱜᱽᱟᱢ ᱥᱮ ?
 # Message for modal to confirm the removal of one saved password
@@ -239,39 +189,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] ᱚᱪᱚᱜᱽ ᱢᱮ
         [two] ᱠᱤᱱ ᱚᱪᱚᱜᱽ ᱢᱮ
        *[other] ᱡᱷᱚᱛᱚ ᱚᱪᱚᱜᱽ ᱢᱮ
-    }
-about-logins-confirm-remove-all-dialog-checkbox-label =
-    { $count ->
-        [1] ᱦᱮᱸ, ᱱᱚᱶᱟ ᱞᱚᱜᱤᱱ ᱚᱪᱚᱜᱽ ᱢᱮ
-        [one] ᱦᱮᱸ, ᱱᱚᱶᱟ ᱞᱚᱜᱤᱱ ᱚᱪᱚᱜᱽ ᱢᱮ
-        [two] ᱦᱮᱸ, ᱱᱚᱶᱟ ᱞᱚᱜᱤᱱ ᱠᱤᱱ ᱚᱪᱚᱜᱽ ᱢᱮ
-       *[other] ᱦᱮᱸ, ᱱᱚᱶᱟ ᱞᱚᱜᱤᱱ ᱠᱚ ᱚᱪᱚᱜᱽ ᱢᱮ
-    }
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] { $count } ᱵᱚᱵᱚ ᱚᱪᱚᱜᱽ ᱟᱢ ᱥᱮ?
-        [two] { $count } ᱵᱚᱵᱚ ᱠᱤᱱ ᱚᱪᱚᱜᱽ ᱟᱢ ᱥᱮ?
-       *[other] { $count } ᱵᱚᱵᱚ ᱠᱚ ᱚᱪᱚᱜᱽ ᱟᱢ ᱥᱮ?
-    }
-about-logins-confirm-remove-all-dialog-message =
-    { $count ->
-        [1] ᱱᱚᱶᱟ ᱵᱚᱞᱚᱱ ᱥᱟᱧᱪᱟᱣ ᱚᱪᱚᱫ ᱦᱩᱭᱩᱜ ᱟ{ -brand-short-name } ᱟᱨ ᱡᱟᱦᱟᱸᱱ ᱵᱽᱨᱤᱪ ᱥᱟᱰᱮ ᱱᱚᱸᱰᱮ ᱥᱚᱫᱚᱨᱚᱜ ᱼᱟ ᱾  ᱱᱚᱶᱟ ᱟᱱᱰᱳ ᱥᱮᱠᱥᱟᱱ ᱫᱚ ᱵᱟᱝ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
-        [one] ᱱᱚᱶᱟ ᱵᱚᱞᱚᱱ ᱥᱟᱧᱪᱟᱣ ᱚᱪᱚᱫ ᱦᱩᱭᱩᱜ ᱟ{ -brand-short-name } ᱟᱨ ᱡᱟᱦᱟᱸᱱ ᱵᱽᱨᱤᱪ ᱥᱟᱰᱮ ᱱᱚᱸᱰᱮ ᱥᱚᱫᱚᱨᱚᱜ ᱼᱟ ᱾  ᱱᱚᱶᱟ ᱟᱱᱰᱳ ᱥᱮᱠᱥᱟᱱ ᱫᱚ ᱵᱟᱝ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
-        [two] ᱱᱚᱶᱟ ᱵᱚᱞᱚᱱ ᱥᱟᱧᱪᱟᱣ ᱚᱪᱚᱫ ᱦᱩᱭᱩᱜ ᱟ{ -brand-short-name } ᱟᱨ ᱡᱟᱦᱟᱸᱱ ᱵᱽᱨᱤᱪ ᱥᱟᱰᱮ ᱱᱚᱸᱰᱮ ᱥᱚᱫᱚᱨᱚᱜ ᱼᱟ ᱾  ᱱᱚᱶᱟ ᱟᱱᱰᱳ ᱥᱮᱠᱥᱟᱱ ᱫᱚ ᱵᱟᱝ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
-       *[other] ᱱᱚᱶᱟ ᱵᱚᱞᱚᱱ ᱥᱟᱧᱪᱟᱣ ᱚᱪᱚᱫ ᱦᱩᱭᱩᱜ ᱟ{ -brand-short-name } ᱟᱨ ᱡᱟᱦᱟᱸᱱ ᱵᱽᱨᱤᱪ ᱥᱟᱰᱮ ᱱᱚᱸᱰᱮ ᱥᱚᱫᱚᱨᱚᱜ ᱼᱟ ᱾ᱟᱢ ᱟᱱᱰᱳ ᱥᱮᱠᱥᱟᱱ ᱫᱚ ᱵᱟᱝ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
-    }
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ { $count } ᱵᱚᱞᱚ ᱚᱪᱚᱜᱟᱢ ᱥᱮ?
-        [two] ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ { $count } ᱵᱚᱞᱚ ᱠᱤᱱ ᱚᱪᱚᱜᱟᱢ ᱥᱮ?
-       *[other] ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ { $count } ᱵᱚᱞᱚ ᱠᱚ ᱚᱪᱚᱜᱟᱢ ᱥᱮ?
-    }
-about-logins-confirm-remove-all-sync-dialog-message =
-    { $count ->
-        [1] ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱜᱟ{ -fxaccount-brand-name } ᱨᱮ ᱥᱭᱝᱠ ᱠᱟᱱ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱚᱨᱮ ᱡᱷᱚᱛᱚ { -brand-short-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱚᱪᱚᱜᱽ ᱩᱛᱟᱹᱨ ᱟᱭ ᱾
-        [one] ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱜᱟ{ -fxaccount-brand-name } ᱨᱮ ᱥᱭᱝᱠ ᱠᱟᱱ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱚᱨᱮ ᱡᱷᱚᱛᱚ { -brand-short-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱚᱪᱚᱜᱽ ᱩᱛᱟᱹᱨ ᱟᱭ ᱾
-        [two] ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱜᱟ{ -fxaccount-brand-name } ᱨᱮ ᱥᱭᱝᱠ ᱠᱟᱱ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱚᱨᱮ ᱡᱷᱚᱛᱚ { -brand-short-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱚᱪᱚᱜᱽ ᱩᱛᱟᱹᱨ ᱟᱭ ᱾
-       *[other] ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱜᱟ{ -fxaccount-brand-name } ᱨᱮ ᱥᱭᱝᱠ ᱠᱟᱱ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱚᱨᱮ ᱡᱷᱚᱛᱚ { -brand-short-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱚᱪᱚᱜᱽ ᱩᱛᱟᱹᱨ ᱟᱭ ᱾
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -314,15 +231,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = ᱞᱚᱜᱤᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
-about-logins-confirm-export-dialog-message = ᱟᱢᱟᱜᱽ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ ᱫᱚ ᱯᱟᱲᱦᱟᱣ ᱚᱞ ᱞᱮᱠᱷᱟᱛᱮ ᱥᱟᱺᱪᱟᱣᱜᱼᱟ (e.g., BadP@ssw0rd) ᱢᱮᱱᱠᱷᱟᱱ ᱡᱟᱦᱟᱸᱭ ᱜᱮ ᱵᱷᱮᱡᱟ ᱠᱟᱱ ᱨᱮᱫ ᱠᱷᱩᱞᱟᱹ ᱠᱟᱛᱮ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱠᱚ ᱾
-about-logins-confirm-export-dialog-confirm-button = ᱵᱟᱦᱨᱮ ᱠᱩᱞ ᱢᱮ…
 about-logins-confirm-export-dialog-title2 = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱩᱪᱟᱹᱲ ᱵᱟᱨᱮᱛᱮ ᱢᱤᱫ ᱱᱚᱴ
 about-logins-confirm-export-dialog-message2 =
     ᱡᱚᱠᱷᱚᱱ ᱟᱢ ᱮᱢ ᱩᱪᱟᱹᱲ ᱟ, ᱟᱢᱟᱜ ᱯᱟᱥᱣᱟᱨᱰ ᱫᱚ ᱯᱟᱲᱦᱟᱣ ᱞᱮᱠᱟᱱ ᱚᱱᱚᱞ ᱥᱟᱶ ᱢᱤᱫ ᱨᱮᱫ ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱛᱟᱦᱮᱱᱟ ᱾
      ᱟᱢ ᱯᱷᱟᱭᱤᱞ ᱵᱮᱵᱷᱟᱨ ᱢᱩᱪᱟᱹᱫ ᱠᱟᱛᱮ, ᱟᱞᱮ ᱫᱚ ᱚᱱᱟ ᱢᱮᱴᱟᱣ ᱜᱤᱰᱤ ᱞᱟᱹᱜᱤᱫ ᱞᱮ ᱢᱮᱛᱟᱜ ᱢᱮᱭᱟ ᱡᱮ ᱮᱴᱟᱜ ᱠᱚ ᱡᱟᱦᱟᱸᱭ ᱱᱚᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱮᱫᱟ ᱩᱱᱠᱩ ᱟᱢᱟᱜ ᱯᱟᱥᱣᱟᱨᱰ ᱵᱟᱠᱚ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 about-logins-confirm-export-dialog-confirm-button2 = ᱩᱪᱟᱹᱲ ᱥᱟᱞᱟᱜ ᱞᱟᱦᱟ
-about-logins-alert-import-title = ᱟᱹᱜᱩ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
 about-logins-alert-import-message = ᱠᱷᱟᱴᱚ ᱵᱤᱵᱨᱚᱬ ᱵᱟᱵᱚᱛ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 confirm-discard-changes-dialog-title = ᱵᱟᱝ ᱥᱟᱺᱪᱟᱣ ᱵᱚᱫᱚᱞ ᱠᱚ ᱵᱟᱹᱨᱜᱤᱞ ᱜᱤᱰᱤ ᱟᱢ ᱢᱮ?
 confirm-discard-changes-dialog-message = ᱡᱷᱚᱛᱚ ᱵᱟᱝ ᱥᱟᱺᱪᱟᱣ ᱵᱚᱫᱚᱞ ᱠᱚ ᱟᱫᱚᱜ ᱛᱟᱢᱟ ᱾
@@ -359,11 +272,6 @@ about-logins-error-message-default = ᱱᱚᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟ�
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = ᱨᱮᱫ ᱵᱚᱞᱚ ᱠᱚ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = logins.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = { -brand-short-name } ᱠᱷᱚᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱠᱚ ᱩᱪᱟᱹᱲ
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -379,8 +287,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = ᱵᱚᱞᱚ ᱨᱮᱫ ᱠᱚ ᱟᱹᱜᱩᱭ ᱢᱮ
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = { -brand-short-name } ᱛᱮ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱞᱟᱫᱮ ᱢᱮ
 about-logins-import-file-picker-import-button = ᱟᱹᱜᱩ
@@ -404,24 +310,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = ᱟᱹᱜᱩ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
-about-logins-import-dialog-items-added =
-    { $count ->
-        [one] <span>ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count">{ $count }</span>
-        [two] <span>ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱠᱤᱱ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱠᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-modified =
-    { $count ->
-        [one] <span>ᱢᱟᱲᱟᱝᱟᱜ ᱵᱚᱞᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ :</span> <span data-l10n-name="count">{ $count }</span>
-        [two] <span>ᱢᱟᱲᱟᱝᱟᱜ ᱵᱚᱞᱚ ᱠᱤᱱ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ :</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>ᱢᱟᱲᱟᱝᱟᱜ ᱵᱚᱞᱚᱠᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ :</span> <span data-l10n-name="count">{ $count }</span>
-    }
-about-logins-import-dialog-items-no-change =
-    { $count ->
-        [one] <span>ᱰᱩᱯᱞᱤᱠᱮᱴ ᱵᱚᱞᱚ ᱧᱟᱢ ᱮᱱᱟ :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</span>
-        [two] <span>ᱰᱩᱯᱞᱤᱠᱮᱴ ᱵᱚᱞᱚ ᱠᱤᱱ ᱧᱟᱢ ᱮᱱᱟ :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</span>
-       *[other] <span>ᱰᱩᱯᱞᱤᱠᱮᱴ ᱵᱚᱞᱚᱠᱚ ᱧᱟᱢ ᱮᱱᱟ :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</span>
-    }
 about-logins-import-dialog-items-added2 =
     { $count ->
         [one] <span>ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱮᱞᱮᱫ ᱮᱱᱟ:</span> <span data-l10n-name="count">{ $count }</span>
@@ -461,15 +349,11 @@ about-logins-import-dialog-error-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢ�
 about-logins-import-dialog-error-try-import-again = ᱟᱹᱜᱩ ᱩᱛᱟᱹᱨ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ…
 about-logins-import-dialog-error-cancel = ᱵᱟᱹᱰᱨᱟᱹ
 about-logins-import-report-title = ᱟᱹᱜᱩ ᱵᱤᱵᱨᱚᱬ
-about-logins-import-report-description = ᱵᱚᱞᱚᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ { -brand-short-name } ᱠᱷᱚᱱ ᱟᱹᱜᱩ ᱠᱟᱱᱟ ᱾
 about-logins-import-report-description2 = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ { -brand-short-name } ᱠᱷᱚᱱ ᱟᱹᱜᱩ ᱠᱟᱱᱟ ᱾
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = ᱛᱷᱟᱨ { $number }
-about-logins-import-report-row-description-no-change = ᱰᱩᱯᱞᱤᱠᱮᱴ : ᱢᱟᱲᱟᱝᱟᱜ ᱵᱚᱞᱚ ᱨᱮᱭᱟᱜ ᱥᱚᱴᱷᱤᱠ ᱡᱩᱲᱟᱹᱣ
-about-logins-import-report-row-description-modified = ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱵᱚᱞᱚ ᱠᱚ ᱟᱹᱯᱰᱮᱴᱮᱱᱟ
-about-logins-import-report-row-description-added = ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ
 about-logins-import-report-row-description-no-change2 = ᱰᱩᱯᱞᱤᱠᱮᱴ : ᱢᱟᱲᱟᱝᱟᱜ ᱮᱞ ᱨᱮᱭᱟᱜ ᱥᱚᱴᱷᱤᱠ ᱡᱩᱲᱟᱹᱣ
 about-logins-import-report-row-description-modified2 = ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱢᱮᱱᱟᱜ ᱟᱫᱮᱨᱠᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ
 about-logins-import-report-row-description-added2 = ᱱᱟᱣᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱮᱞᱮᱫ ᱮᱱᱟ
@@ -486,24 +370,6 @@ about-logins-import-report-row-description-error-missing-field = ᱵᱷᱩᱞ: �
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱥᱮᱞᱮᱫᱮᱱᱟ</div>
-        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱠᱤᱱ ᱥᱮᱞᱮᱫᱮᱱᱟ</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱠᱚ ᱥᱮᱞᱮᱫᱮᱱᱟ</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱢᱟᱲᱟᱝ ᱵᱚᱞᱚ ᱟᱹᱯᱰᱮ ᱮᱱᱟ</div>
-        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱢᱟᱲᱟᱝ ᱵᱚᱞᱚ ᱠᱤᱱ ᱛᱟᱢ ᱟᱹᱯᱰᱮ ᱮᱱᱟ</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱢᱟᱲᱟᱝ ᱵᱚᱞᱚ ᱠᱚ ᱛᱟᱢ ᱟᱹᱯᱰᱮ ᱮᱱᱟ</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱰᱩᱯᱞᱤᱠᱮᱴ ᱞᱚᱜᱚᱱ</div> <div data-l10n-name="not-imported">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</div>
-        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱰᱩᱯᱞᱤᱠᱮᱴ ᱞᱚᱜᱚᱱ ᱠᱤᱱ</div> <div data-l10n-name="not-imported">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱰᱩᱯᱞᱤᱠᱮᱴ ᱞᱚᱜᱚᱱ ᱠᱚ</div> <div data-l10n-name="not-imported">(ᱵᱟᱝ ᱟᱹᱜᱩ ᱠᱟᱱᱟ)</div>
-    }
 about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ᱱᱟᱶᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱥᱮᱞᱮᱫᱮᱱᱟ</div>
